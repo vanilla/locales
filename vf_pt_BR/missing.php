@@ -17,7 +17,6 @@ $Definition['Activity.AnswerAccepted.ProfileHeadline'] = 'Activity.AnswerAccepte
 $Definition['Activity.Default.FullHeadline'] = 'Activity.Default.FullHeadline';
 $Definition['Activity.Default.ProfileHeadline'] = 'Activity.Default.ProfileHeadline';
 $Definition['Activity.NewRoles'] = 'Activity.NewRoles';
-$Definition['All %s'] = 'All %s';
 
 $Definition['Ban Item'] = 'Item';
 $Definition['Banner'] = 'Banner';
@@ -38,15 +37,8 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = 'D
 
 $Definition['Email'] = 'Email';
 $Definition['Email Source'] = 'Email';
-$Definition['EmailConfirmEmail'] = 'You need to confirm your email address before you can continue. Please confirm your email address by clicking on the following link: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbeddedNoBodyFormat.'] = 'EmbeddedNoBodyFormat.';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.';
 
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>';
@@ -67,24 +59,16 @@ $Definition['Gold Plus'] = 'Gold Plus';
 
 $Definition['Hash Algorithm'] = 'Hash Algorithm';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
-$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
-$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} commented on <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Started a new discussion. <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mentioned you in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {ActivityUserID,your} profile picture.';
-$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} changed the profile picture for {ActivityUserID,user}.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
-$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.';
 $Definition['Hide from the recent discussions page.'] = 'Hide from the recent discussions page.';
 $Definition['Hide this category from the recent discussions page.'] = 'Hide this category from the recent discussions page.';
 $Definition['Html'] = 'Html';
 
 $Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.';
-$Definition['IPAddress'] = 'IPAddress';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
 $Definition['Item'] = 'Item';
 
@@ -104,8 +88,6 @@ $Definition['n/a'] = 'n/a';
 $Definition['Null Date'] = '-';
 
 $Definition['OK'] = 'OK';
-$Definition['OpenID Settings'] = 'OpenID Settings';
-$Definition['Options'] = 'Options';
 $Definition['Organize your Categories'] = 'Organize your Categories';
 $Definition['Original'] = 'Original';
 $Definition['Outgoing Email Address'] = 'Outgoing Email Address';
@@ -128,10 +110,6 @@ $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test y
    ProxyConnect is working.';
 $Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 
-$Definition['Q&A'] = 'Q&A';
-$Definition['Q&A Options'] = 'Q&A Options';
-
-$Definition['Rank'] = 'Rank';
 $Definition['Ranks'] = 'Ranks';
 $Definition['Register Url'] = 'Register Url';
 $Definition['Reply  To'] = 'Reply  To';
@@ -144,7 +122,6 @@ $Definition['Spam'] = 'Spam';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Spoiler'] = 'Spoiler';
 $Definition['Spoof'] = 'Spoof';
-$Definition['Spoof User'] = 'Spoof User';
 $Definition['SSL'] = 'SSL';
 $Definition['Start Discussions'] = 'Start Discussions';
 $Definition['Status'] = 'Status';
@@ -178,8 +155,6 @@ $Definition['via %s'] = 'via %s';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
-$Definition['WarningTitleFormat'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points}.';
-$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
 $Definition['Website'] = 'Website';
 $Definition['WTF'] = 'WTF';
 

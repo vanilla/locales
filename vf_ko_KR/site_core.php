@@ -73,6 +73,7 @@ $Definition['Bookmark'] = '북마크';
 $Definition['bookmarked discussion'] = '북마크된 글타레';
 
 $Definition['Bookmarked Discussions'] = '북마크된 글타레';
+$Definition['Bookmarks'] = '북마크';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = '이 파일을 업로드하는 것은 귀하가 이 이미지의 배포권을 가지고 있고 그것이 이용약관에 위배되지 않는다는 것을 증명합니다.';
 
 $Definition['Cancel'] = '취소';
@@ -81,13 +82,14 @@ $Definition['Category'] = '카테고리';
 $Definition['CategoryID'] = '카테고리';
 $Definition['Change My Password'] = '패스워드 바꾸기';
 $Definition['Change My Picture'] = '사진 바꾸기';
+$Definition['Change Picture'] = '사진 바꾸기';
 $Definition['Check all roles that apply to this user:'] = '이 유저가 가진 모든 역할 보기:';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = '잠그기';
+$Definition['Comment'] = '댓글';
 
 $Definition['comment'] = '댓글';
 
-$Definition['Comment'] = '댓글';
 $Definition['Comments'] = '댓글';
 $Definition['Confirm'] = '확인';
 $Definition['Confirm Email'] = '확인메일';
@@ -126,6 +128,10 @@ $Definition['Email sent from the application will be addressed from the followin
 $Definition['Email Source'] = '이메일 주소';
 $Definition['Email Unavailable'] = '이메일을 사용할 수 없습니다.';
 $Definition['Email visible to other users'] = '회원들에게 이메일 공개';
+$Definition['EmailFooter'] = '
+좋은 하루 되세요!';
+$Definition['EmailHeader'] = '{User.Name}님 안녕하세요!
+';
 $Definition['EmailInvitation'] = '안녕하세요!
 
 %1$s님께서 당신을 이곳으로 초대하였습니다: %2$s. 
@@ -214,7 +220,7 @@ $Definition['Generate Password'] = '패스워드 생성';
 $Definition['Go'] = '검색';
 $Definition['GuestModule.Message'] = '포럼에 오신 것을 환영합니다. 아래의 버튼을 눌러 [로그인]을 해 주세요.';
 
-$Definition['Howdy, Stranger!'] = '안녕하세요!';
+$Definition['Howdy, Stranger!'] = '처음오셨군요!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '<a id="TermsOfService" class="Popup" target="terms" href="%s">이용약관</a>에 동의합니다.';
 $Definition['Inbox'] = '대화창';
@@ -318,6 +324,7 @@ $Definition['Start your First Discussion'] = '글타래 열기';
 $Definition['Started by %1$s'] = '작성자 %1$s';
 
 $Definition['Target'] = '목적지';
+$Definition['TermsOfService'] = '서비스 약관';
 $Definition['TermsOfServiceText'] = '
    <p>You agree, through your use of this service, that you will not use this
    community to post any material which is knowingly false and/or defamatory,

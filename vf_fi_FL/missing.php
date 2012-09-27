@@ -9,7 +9,6 @@ $Definition['%s (Current)'] = '%s (Current)';
 $Definition['%s Connect'] = '%s Connect';
 $Definition['%s mentioned %s in a %s.'] = '%s mentioned %s in a %s.';
 $Definition['%s Settings'] = '%s Settings';
-$Definition['%s Up Votes'] = '%s Up Votes';
 $Definition['%s was removed from the %s and added to the %s'] = '%s was removed from the %s and added to the %s';
 
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
@@ -179,7 +178,6 @@ $Definition['It appears as though the database you specified does not exist yet.
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 
-$Definition['Leaders'] = 'Leaders';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Limit the display of this plugin for mobile devices.'] = 'Limit the display of this plugin for mobile devices.';
 $Definition['Limit the display of this plugin to "mobile only".'] = 'Limit the display of this plugin to "mobile only".';
@@ -201,7 +199,6 @@ $Definition['Move discussions in this category to a replacement category.'] = 'M
 
 $Definition['n/a'] = 'n/a';
 
-$Definition['Notify me when a badge is requested.'] = 'Notify me when a badge is requested.';
 $Definition['Null Date'] = '-';
 
 $Definition['Off Topic'] = 'Off Topic';
@@ -251,11 +248,9 @@ $Definition['Show all possible pocket locations.'] = 'Turn this option on to sho
 $Definition['Sign In Url'] = 'Sign In Url';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Spoof'] = 'Spoof';
-$Definition['Spoof User'] = 'Spoof User';
 $Definition['SSL'] = 'SSL';
 $Definition['Status'] = 'Status';
 
-$Definition['Tagged with "%s"'] = 'Tagged with "%s"';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'The %s Authenticator does not have any custom configuration options.';
@@ -277,7 +272,6 @@ $Definition['The import file is not in the correct format.'] = 'The import file 
 $Definition['The invitation was removed successfully.'] = 'The invitation was removed successfully.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'The location of the jsonp formatted authentication data.';
 $Definition['The quote had to be converted from %s to %s.'] = 'The quote had to be converted from %s to %s. Some formatting may have been lost.';
-$Definition['The response was not in the correct format.'] = 'The response was not in the correct format.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
 $Definition['The site is currently undergoing scheduled maintenance.'] = 'The site is currently undergoing scheduled maintenance.';
@@ -298,11 +292,7 @@ $Definition['The user table was not in the import file.'] = 'The user table was 
 $Definition['The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.'] = 'The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'There are no database structure changes required. There may, however, be data changes.';
 $Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = 'These are the settings you might need when you configure ProxyConnect on your remote website.';
-
-$Definition['they'] = 'they';
-
 $Definition['This connection is in test-mode.'] = 'This connection is in test-mode.';
-$Definition['This discussion is related to an undefined foriegn content source.'] = 'This discussion is related to an undefined foriegn content source.';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
 $Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>';
@@ -357,13 +347,7 @@ $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are remo
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points}.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
-
-$Definition['was'] = 'was';
-
 $Definition['We only accept urls that begin with http:// or https://'] = 'We only accept urls that begin with http:// or https://';
-
-$Definition['were'] = 'were';
-
 $Definition['Wordpress'] = 'Wordpress';
 $Definition['Wordpress Source'] = 'Wordpress';
 $Definition['WTF'] = 'WTF';
@@ -379,7 +363,6 @@ $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="ht
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
-$Definition['You do not have any %s yet.'] = 'You do not have any %s yet.';
 $Definition['You must be authenticated in order to use this form.'] = 'You must be authenticated in order to use this form.';
 $Definition['You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.'] = 'You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.';
 $Definition['You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.'] = 'You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.';

@@ -23,28 +23,37 @@ $Definition['%s and you'] = '%s и вы';
 $Definition['%s changed %s\'s permissions.'] = '%s изменил настройки доступа';
 $Definition['%s comment'] = 'Сообщений: %s';
 $Definition['%s Comment'] = '%s Комментарий';
-$Definition['%s comments'] = 'Сообщений: %s';
 $Definition['%s Comments'] = '%s Комментариев';
+$Definition['%s comments'] = 'Сообщений: %s';
 $Definition['%s Connect'] = '%s Соеденен';
 $Definition['%s deleted this conversation.'] = '%s удалил(а) этот диалог.';
 $Definition['%s discussion'] = '%s тем';
 $Definition['%s discussions'] = '%s тем';
 $Definition['%s has left this conversation.'] = '%s покинул(а) этот диалог.';
+$Definition['%s Likes'] = '%s Лайков';
 $Definition['%s mentioned %s in a %s.'] = '%s упомянул вас в отзыве';
 $Definition['%s message'] = '%s сообщение';
 $Definition['%s messages'] = '%s сообщения';
 $Definition['%s New'] = '%s Новое';
 $Definition['%s new'] = '%s новых';
+$Definition['%s new comment since you last read this.'] = '%s новых комментариев с момента вашего последнего прочтения.';
+$Definition['%s new comments since you last read this.'] = '%s новых комментариев с момента вашего последнего прочтения.';
 $Definition['%s new plural'] = '%s новых';
 $Definition['%s New Plural'] = 'Новые сообщения: %s';
+$Definition['%s Not Found'] = '%s Не найдено';
+$Definition['%s points'] = '%s очков';
 $Definition['%s said'] = '%s сказали';
 $Definition['%s said:'] = '%s написал:';
 $Definition['%s tag(s) found.'] = '%s тэг(ов) найдено.';
 $Definition['%s tags in the system'] = '%s тэгов в системе';
+$Definition['%s view'] = '%s просмотр';
+$Definition['%s views'] = '%s просмотров';
 $Definition['%s votes'] = '%s проголосовало';
 $Definition['%s was removed from the %s and added to the %s'] = '%s был удален из %s и добавлен в %s';
 
 $Definition['(empty message)'] = '(пустое сообщение)';
+
+$Definition['+%s Guests'] = '+%s Гостей';
 
 $Definition['1 message'] = 'Одно сообщение';
 
@@ -59,7 +68,9 @@ $Definition['About'] = 'Подробная информация';
 $Definition['Abuse'] = 'Жалоба';
 $Definition['Accept'] = 'Одобрить';
 $Definition['Accept this answer.'] = 'Это верный ответ.';
+$Definition['Account Options'] = 'Опции аккаунта';
 $Definition['Activate'] = 'Активированный';
+$Definition['Active'] = 'Активно';
 $Definition['Active Users'] = 'Активные пользователи';
 $Definition['Activity'] = 'Актив';
 $Definition['Activity.AboutUpdate.FullHeadline'] = '%1$s обновили профиль %6$s.';
@@ -103,6 +114,7 @@ $Definition['Add a Message'] = 'Добавить сообщение';
 $Definition['Add a Profile Picture'] = 'Добавить фотографию';
 $Definition['Add a Warning'] = 'Добавить предупреждение';
 $Definition['Add another poll option ...'] = 'Добавить другой вариант ответа';
+$Definition['Add Badge'] = 'Добавить значек';
 $Definition['Add Comment'] = 'Отправить';
 $Definition['Add Image'] = 'Добавить картинку';
 $Definition['Add Message'] = 'Добавить сообщение';
@@ -115,21 +127,29 @@ $Definition['administrators'] = 'Администраторы';
 $Definition['Advanced Stuff'] = 'Продвинутые штуковины';
 $Definition['Agree'] = 'Согласен';
 $Definition['Alert'] = 'Предупреждение';
+$Definition['All %s'] = 'Все %s';
 $Definition['All Bookmarks'] = 'Все закладки';
 $Definition['All Categories'] = 'Все категории';
 $Definition['All Conversations'] = 'Все разговоры';
 $Definition['All Discussions'] = 'Все темы';
+$Definition['All Time Leaders'] = 'Лидеры за все время';
 $Definition['Allow'] = 'Одобрить';
 $Definition['Allow other members to see your email?'] = 'Показывать ваш email<br>другим пользователям?';
 $Definition['An invitation has already been sent to the email you entered.'] = 'Инвайт был отправлен на тот Email, который вы ввели';
 $Definition['Announce'] = 'Анонс';
+$Definition['Announce this discussion'] = 'Объявить эту дискуссию';
 $Definition['Announce...'] = 'Всегда наверху';
 $Definition['Announcement'] = 'Объявление';
+$Definition['Announcements'] = 'Объявления';
+$Definition['Answer'] = 'Ответ';
+
+$Definition['answer'] = 'ответ';
+
 $Definition['Answers'] = 'Вопросы';
 $Definition['Applicants'] = 'Ожидают одобрения';
 $Definition['Apply Changes'] = 'Сохранить настройки';
-$Definition['Apply for Membership'] = 'Зарегистрироваться';
 $Definition['Apply for membership'] = 'Вступить в команду';
+$Definition['Apply for Membership'] = 'Зарегистрироваться';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Вы точно хотите выполнить это действие?';
 $Definition['Are you sure you want to delete this %s?'] = 'Вы уверены, что хотите удалить %s?';
 $Definition['Are you sure you want to do that?'] = 'Вы уверены, что хотите сделать это?';
@@ -148,15 +168,25 @@ $Definition['Authenticate URL'] = 'Authenticate URL
 $Definition['available'] = 'доступно';
 
 $Definition['Awaiting Moderation'] = 'Ожидает модерации';
+$Definition['Awesome'] = 'Потрясающий';
 
 $Definition['Back to Discussions'] = 'Вернуться к просмотру тем';
 $Definition['Back to Profile'] = 'Вернуться в профиль';
+$Definition['Badge'] = 'Значек';
+$Definition['Badges'] = 'Значки';
 $Definition['Ban User'] = 'Заблокированные пользователи';
 $Definition['Ban Value'] = 'Значение';
 $Definition['Ban.Action'] = 'Заблокировать';
 $Definition['Banned'] = 'Забанен';
 $Definition['Banned for being abusive.'] = 'Заблокирован, за оскорбления';
+$Definition['Banned for spamming.'] = 'Забанен за спам.';
+$Definition['Banned users can no longer access the site.'] = 'Забаненные пользователи не имеют доступа к сайту.';
 $Definition['BanType'] = 'Тип бана';
+$Definition['Best Answer'] = 'Лучший ответ';
+$Definition['Best Answers'] = 'Лучшие ответы';
+$Definition['Best Of'] = 'Лучшее';
+$Definition['Best Of...'] = 'Лучшее...';
+$Definition['Blank Discussion Topic'] = 'Пустая тема обсуждения';
 $Definition['Blank Message'] = 'Пустое сообщение';
 $Definition['Body'] = 'текст сообщения';
 $Definition['Bookmark'] = 'Добавить в закладки';
@@ -166,6 +196,7 @@ $Definition['bookmarked discussion'] = 'отмеченные темы';
 $Definition['Bookmarked Discussions'] = 'Ваши закладки';
 $Definition['Bookmarks'] = 'Закладки';
 
+$Definition['bookmarks'] = 'закладки';
 $Definition['by'] = 'по';
 
 $Definition['By'] = 'От';
@@ -175,6 +206,7 @@ $Definition['by Date'] = 'по Дате';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Загружая изображение, вы автоматически подтверждаете, что имеете право распространять загружаемое изображение и не нарушаете <strong>авторские права правообладателя</strong>.';
 
 $Definition['Cancel'] = 'Отмена';
+$Definition['Casual'] = 'Повседневный';
 $Definition['Categories'] = 'Категории';
 $Definition['CategoriesShowFollowed'] = 'Показать только те категории, на которые я подписан.';
 $Definition['CategoriesShowUnfollowed'] = 'Показать категории на которые Вы не подписаны.';
@@ -182,6 +214,7 @@ $Definition['CategoriesViewingAll'] = 'Вы просматриваете все 
 $Definition['CategoriesViewingFollowed'] = 'Вы просматриваете только те категории, на которые подписаны.';
 $Definition['Category'] = 'Категория';
 $Definition['Category Management'] = 'Менеджер категорий';
+$Definition['Category Notifications'] = 'Уведомления раздела';
 $Definition['Category to Use'] = 'Используемая категория';
 $Definition['CategoryID'] = 'Категория';
 $Definition['Change'] = 'Изменить';
@@ -190,9 +223,14 @@ $Definition['Change My Picture'] = 'Изменить мое изображени
 $Definition['Change Password'] = 'Изменение пароля';
 $Definition['Change Picture'] = 'Изменение изображения';
 $Definition['Check all roles that apply to this user:'] = 'Проверьте все группы, в которых может состоять этот пользователь:';
+$Definition['Child Categories'] = 'Дочерние категории';
 $Definition['Child Categories:'] = 'Дочерняя категория:';
 $Definition['Choose a name to identify yourself on the site.'] = 'Выберите имя для идентификации себя на сайте';
+
+$Definition['clear'] = 'очистить';
+
 $Definition['Clear'] = 'Очистить';
+$Definition['Clear Conversation History'] = 'Очистить историю диалога';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'Нажмите <a href="%s">здесь</a> чтобы вернуться к теме.';
 $Definition['Click accept or reject beside an answer.'] = 'Кликните "Одобрить" или "Отклонить" для того, чтобы ответить на вопрос.';
 $Definition['Click the %s beside discussions to bookmark them.'] = 'Нажмите %s рядом с темой, чтобы добавить в закладки.';
@@ -202,15 +240,18 @@ $Definition['clicking here'] = 'ссылке';
 $Definition['Close'] = 'Закрыть';
 $Definition['Close this discussion'] = 'Закрыть эту тему';
 $Definition['Closed'] = 'Закрыто';
+$Definition['Combo Breaker'] = 'Комбо выключатель';
+$Definition['Comment'] = 'Отправить';
 
 $Definition['comment'] = 'отзывы';
 
-$Definition['Comment'] = 'Отправить';
 $Definition['Comment As ...'] = 'Комментировать как ...';
 $Definition['Comment by %s'] = 'Отзыв %s';
 $Definition['Comment in'] = 'в';
 $Definition['Commenting not allowed.'] = 'Комментирование запрещено.';
 $Definition['Comments'] = 'Отзывы';
+$Definition['Comments are between {UserID,you}.'] = 'Комментарии между {UserID,you}.';
+$Definition['Completely delete the warning.'] = 'Полностью удалить предупреждение.';
 $Definition['Confirm'] = 'Подтверждение';
 $Definition['Confirm Email'] = 'Подтвердите email';
 $Definition['Confirm Password'] = 'Подтвердите пароль';
@@ -222,8 +263,13 @@ $Definition['ConnectName'] = 'Ник';
 
 $Definition['conversation'] = 'диалоги';
 
+$Definition['Core'] = 'Ядро';
 $Definition['Create Discussions'] = 'Создать обсуждение';
 $Definition['Create One.'] = 'Зарегистрируйтесь!';
+$Definition['Current'] = 'Текущий';
+$Definition['Currently: '] = 'Сейчас';
+$Definition['Custom Information'] = 'Особая информация';
+$Definition['Custom Profile Field Settings'] = 'Настройка особых полей профиля';
 $Definition['Custom Profile Fields'] = 'Произвольные поля аккаунта';
 $Definition['Customize'] = 'Выделяйся';
 
@@ -232,8 +278,10 @@ $Definition['customize your profile now'] = 'настройки профиля';
 $Definition['Customize your Public Profile'] = 'Изменение вашего профиля';
 
 $Definition['Dashboard'] = 'Панель управления';
+$Definition['Dashboard Home'] = 'Главная страница панели';
 $Definition['Dashboard Summaries'] = '<b>Панель управления</b>. Основная информация';
 $Definition['Date'] = 'Дата';
+$Definition['Date Added'] = 'Дата добавления';
 $Definition['Date.DefaultDayFormat'] = '%A %e <font style="text-transform:lowercase;">%b</font> в %H:%M';
 $Definition['Date.DefaultFormat'] = '%h %i, %Y, %H:%M';
 $Definition['Date.DefaultTimeFormat'] = 'сегодня в %H:%M';
@@ -243,24 +291,30 @@ $Definition['days'] = 'дней';
 
 $Definition['Define Thumbnail'] = 'Кликните и выберите область на основной фотографии, которая будет отображаться в миниатюрах на сайте.';
 $Definition['Delete'] = 'Удалить';
+$Definition['Delete %s'] = 'Удалить %s';
 $Definition['Delete Account'] = 'Удалить аккаунт';
 $Definition['Delete Conversation'] = 'Удалить все сообщения';
 $Definition['Delete Discussion'] = 'Удалить тему';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'Удалить пользователя и содержимое его профиля. Это может вызвать некоторую путаницу, т.к. пользователи ответившие ранее на сообщения этого пользователя - не увидят их. Хорошо подходит для удаления спама.';
 $Definition['Delete User Content'] = 'Удалить сообщения пользователя';
 $Definition['Delete User Forever'] = 'Удалить пользователя навсегда';
+$Definition['Did this answer the question?'] = 'Это ответ на вопрос?';
+$Definition['Disagree'] = 'Не согласиться';
+$Definition['Discussion'] = 'Только на страницах дискуссий';
 
 $Definition['discussion'] = 'тему';
 
-$Definition['Discussion'] = 'Только на страницах дискуссий';
 $Definition['Discussion Title'] = 'Заголовок темы';
 $Definition['Discussions'] = 'Все темы';
+$Definition['Discussions Page'] = 'Дискуссии';
 $Definition['Dismiss'] = 'Отменить';
 $Definition['Do you want to expire or delete this warning?'] = 'Вы хотите отметить это предупреждение как устаревшее или удалить?';
+$Definition['Don\'t announce.'] = 'Не объявлять.';
 $Definition['Don\'t have an account? %s'] = 'Нет аккаунта? %s';
 $Definition['Draft saved at %s'] = 'Черновик сохранен %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Выделите и измените размер вашего аватара.';
 
+$Definition['Earned'] = 'Заработанно';
 $Definition['Edit'] = 'Редактировать';
 $Definition['Edit Account'] = 'Редактировать аккаунт';
 $Definition['Edit Comment'] = 'Редактировать комментарий';
@@ -272,6 +326,7 @@ $Definition['Edit Preferences'] = 'Изменить настройки';
 $Definition['Edit Profile'] = 'Редактировать аккаунт';
 $Definition['Edit Tag'] = 'Редактировать тэг';
 $Definition['Edit Thumbnail'] = 'Редактирование аватара';
+$Definition['Eighth Anniversary'] = 'Восьмая годовщина';
 $Definition['Email Notifications'] = 'Уведомления по Email';
 $Definition['Email Or Username'] = 'Имя пользователя или email';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Использовать в качестве отправителя следующий адрес электронной почты:';
@@ -346,9 +401,13 @@ Email: {User.Email}
 Сайт доступен по ссылке {/,exurl,domain}.
 
 Спасибо за внимание!';
+$Definition['English'] = 'Английский';
+$Definition['Enter your email address'] = 'Введите ваш email адрес';
 $Definition['Enter your Email address'] = 'Адрес вашей почты';
 $Definition['Enter your Email address or username'] = 'Ведите ваш Email или логин';
+$Definition['Enter Your OpenID Url'] = 'Введите ваш OpenID адрес';
 $Definition['Erase User Content'] = 'Удалить сообщения пользователя';
+$Definition['Error'] = 'Ошибка';
 $Definition['ErrorBadInvitationCode'] = 'Ошибка: неверный код приглашения';
 $Definition['ErrorCredentials'] = 'К сожалению, нет доступа к этой учетной записи';
 $Definition['ErrorPermission'] = 'Простите, но у вас нет разрешения';
@@ -360,9 +419,21 @@ $Definition['ErrorTermsOfService'] = 'Вы должны согласиться �
 
 $Definition['everyone'] = 'все';
 
+$Definition['Everything'] = 'Всё';
+$Definition['Expired'] = 'Истекло';
+$Definition['Expires'] = 'Истекает';
+
+$Definition['Failed to find discussion for commenting.'] = 'Не удалось найти обсуждение для комментариев.';
+$Definition['Failed to load the poll.'] = 'Ошибка загрузки опроса';
+$Definition['Feedback'] = 'Обратная связь';
 $Definition['Female'] = 'Девушка';
+$Definition['Fifth Anniversary'] = 'Пятая годовщина';
 $Definition['File Size'] = 'Размер файла';
+$Definition['FileName'] = 'Имя файла';
 $Definition['Filename'] = 'Имя файла';
+$Definition['FileSize'] = 'Размер файла';
+$Definition['First Anniversary'] = 'Первая годовщина';
+$Definition['First Comment'] = 'Первый комментарий';
 $Definition['Flag'] = 'Пожаловаться';
 $Definition['Follow'] = 'Подписаться';
 $Definition['Follows'] = 'Следят';
@@ -370,10 +441,12 @@ $Definition['Forgot your password?'] = 'Забыли ваш пароль?';
 $Definition['Forgot?'] = 'Забыли?';
 $Definition['Format his'] = 'его';
 $Definition['Format their'] = 'их';
-$Definition['Format You'] = 'Я';
 $Definition['Format you'] = 'я';
+$Definition['Format You'] = 'Я';
 $Definition['Format Your'] = 'ваш';
+$Definition['Fourth Anniversary'] = 'Четвертая годовщина';
 $Definition['Friends'] = 'Друзья';
+$Definition['Full Site'] = 'Полная версия сайта';
 
 $Definition['Garden.Email.SupportAddress'] = 'Email поддержки';
 $Definition['Garden.Email.SupportName'] = 'Название поддержки';
@@ -383,8 +456,13 @@ $Definition['Gender'] = 'Кто Вы?';
 $Definition['General'] = 'Новости';
 $Definition['Generate import SQL only'] = 'Генерировать только импорт SQL';
 $Definition['Generate Password'] = 'Генерировать пароль';
+$Definition['Give'] = 'Выдать';
+$Definition['Give a Badge to %s'] = 'Выдать значек %s';
+$Definition['Given'] = 'Выданный';
 $Definition['Go'] = '&rarr;';
 $Definition['GuestModule.Message'] = 'Похоже, Вы новенький! Чтобы начать обсуждение, кликните на одну из кнопок ниже ;)';
+
+$Definition['Hang on a sec while we sign you out.'] = 'Подождите секунду, пока мы подпишем вас';
 
 $Definition['he'] = 'её';
 $Definition['her'] = 'её';
@@ -400,6 +478,7 @@ $Definition['Home'] = 'Домой';
 
 $Definition['hours'] = 'час(ов)';
 
+$Definition['How long do you want this warning to last?'] = 'На какой срок вынести предупреждение?';
 $Definition['Howdy, Stranger!'] = 'Привет, незнакомец!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Соглас(на)ен с <a id="TermsOfService" class="Popup" target="terms" href="%s">правилами</a> форума';
@@ -407,36 +486,50 @@ $Definition['I remember now!'] = 'Ой, вспомнил(а) пароль!';
 
 $Definition['in'] = 'в';
 
+$Definition['In <b>%s.</b>'] = 'В <b>%s.</b>';
 $Definition['In seconds'] = ' в секундах';
 $Definition['In this Conversation'] = 'Пользователи';
 $Definition['Inbox'] = 'Входящие';
 $Definition['Insert Image'] = 'Вставить картинку в сообщение';
+$Definition['Insightful'] = 'Проницательно';
 $Definition['Internal'] = 'Внутренний';
 $Definition['Invitations'] = 'Приглашения';
 $Definition['Invite'] = 'Инвайт';
 $Definition['InviteErrorPermission'] = 'Простите, но у вас нет прав.';
+$Definition['IPAddress'] = 'IP-адрес';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Похоже, вы новенький! Чтобы пообщаться с нами, кликните на одну из кнопок ниже :)';
 $Definition['Item'] = 'Запись';
 
 $Definition['item'] = 'Вклад';
 
+$Definition['Jail'] = 'Тюрьма';
+$Definition['Jailed users have reduced abilities.'] = 'Заключенные пользователи ограниченны в возможностях.';
 $Definition['Joined'] = 'С нами с ';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Удалить пользователя, но оставить все его записи.';
+$Definition['Just you!'] = 'Только ты!';
 
 $Definition['Keep me signed in'] = 'Запомнить меня!';
 $Definition['Keep User Content'] = 'Оставить контент пользователя';
 
+$Definition['Label'] = 'Ярлык';
 $Definition['Last Active'] = 'Был на сайте';
 $Definition['Last IP'] = 'Последний ip';
 $Definition['Latest %1$s'] = 'Последний %1$s';
+$Definition['Latest Post'] = 'Последний пост';
+$Definition['Leaders'] = 'Лидеры';
 $Definition['Leave a comment'] = 'Комментировать';
 $Definition['Leave a Comment'] = 'Оставить комментарий';
 $Definition['Leave blank unless connecting to an exising account.'] = 'Оставьте пустым, если не хотите быть подключены к существующей учетной записи.';
 $Definition['Leave Comments'] = 'Комментировать';
+$Definition['Length'] = 'Длина';
+$Definition['Level %s'] = 'Уровень %s';
+$Definition['Like'] = 'Лайк';
+$Definition['Link to content:'] = 'Ссылка на контент:';
 $Definition['Locale'] = 'ru-RU';
 $Definition['Login with Facebook'] = 'Войти с Facebook';
 
 $Definition['Make me invisible? (Will not show you on the list)'] = 'Сделать меня невидимым? (Не выдавать присутствие на сайте)';
+$Definition['Make this poll anonymous (user votes are not made public).'] = 'Сделать этот опрос анонимный (голоса пользователей не публикуются).';
 $Definition['Male'] = 'Мужчина';
 $Definition['Mark All Viewed'] = 'Отметить все прочитанным';
 $Definition['Mark Read'] = '<span title="Отметить посты в этой категории прочитанными">Прочитано</span>';
@@ -445,12 +538,13 @@ $Definition['markallviewed'] = 'Отметить все прочитанными
 
 $Definition['Merge'] = 'Объединение';
 $Definition['Merge Discussions'] = 'Объединить темы';
-$Definition['Message'] = 'Сообщение';
 
 $Definition['message'] = 'сообщение';
 
+$Definition['Message'] = 'Сообщение';
 $Definition['Messages'] = 'Сообщения';
 
+$Definition['messages'] = 'сообщения';
 $Definition['minutes'] = 'минут(ы)';
 
 $Definition['Moderation'] = 'Модерирование';
@@ -462,33 +556,53 @@ $Definition['moderators'] = 'модераторы';
 $Definition['months'] = 'месяцев';
 
 $Definition['More'] = 'Ещё';
+$Definition['More Comments'] = 'Больше комментариев';
+$Definition['More Discussions'] = 'Больше дискуссий';
+$Definition['More Information'] = 'Больше информации';
+$Definition['More Results'] = 'Больше результатов';
+$Definition['More…'] = 'Еще...';
+$Definition['Most Recent'] = 'Самый новый';
 $Definition['Most recent by %1$s'] = 'Последнее сообщение от %1$s';
+$Definition['Most recent:'] = 'Самый новый:';
 $Definition['Most recent: %1$s by %2$s'] = 'Новое: %1$s в %2$s';
 $Definition['My Bookmarks'] = 'Закладки';
 $Definition['My Discussions'] = 'Мои темы';
 $Definition['My Drafts'] = 'Мои черновики';
+$Definition['My Forums'] = 'Мои форумы';
 $Definition['My Preferences'] = 'Мои настройки';
+
+$Definition['n/a'] = 'Нет данных';
 
 $Definition['Name'] = 'Имя';
 $Definition['Name Unavailable'] = 'Имя не доступно';
 $Definition['New Conversation'] = 'Начать новый диалог';
+$Definition['New Discussion'] = 'Начать новую тему';
 
 $Definition['new discussion'] = 'новый';
 
-$Definition['New Discussion'] = 'Начать новую тему';
 $Definition['New Message'] = 'Начать новый диалог';
 $Definition['New Password'] = 'Новый пароль';
+$Definition['New Poll'] = 'Новый опрос';
+$Definition['Next'] = 'Следующий';
+$Definition['Ninth Anniversary'] = 'Девятая годовщина';
 $Definition['No'] = 'Нет';
+$Definition['No badges yet.'] = 'Нет значков';
 $Definition['No default roles.'] = 'Группа по умолчанию настроена неправильно. Кликните сюда: %s, чтобы исправить это.';
 $Definition['No discussions were found.'] = 'Не найденно ни одной темы';
 $Definition['No items tagged with %s.'] = 'Ничего не отмечено тэгом %s.';
+$Definition['No results for \'%s\''] = 'Нет результатов для \'%s\'';
+$Definition['No Roles'] = 'Нет ролей';
 $Definition['Not Authorized (401)'] = 'Не авторизированы (401)';
 $Definition['Not Found (404)'] = 'Не найдена (404)';
 $Definition['Not much happening here, yet.'] = 'Пока ещё ничего не произошло.';
+$Definition['Not Verified'] = 'Непроверенный';
 $Definition['Notification'] = 'Уведомление';
 $Definition['Notification Preferences'] = 'Настройки уведомлений';
 $Definition['Notifications'] = 'Уведомления';
+$Definition['Notifictions'] = 'Уведомления';
+$Definition['Notify'] = 'Уведомлять';
 $Definition['Notify me of private messages.'] = 'Сообщать о новых личных сообщениях.';
+$Definition['Notify me when a badge is requested.'] = 'Сообщите мне, когда запрашивается значек.';
 $Definition['Notify me when I am added to private conversations.'] = 'Сообщать, когда меня добавляют к приватному разговору.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Сообщать о комментариях в темах из закладок.';
 $Definition['Notify me when people comment on my discussions.'] = 'Сообщать о комментариях в моих темах.';
@@ -497,6 +611,7 @@ $Definition['Notify me when people mention me.'] = 'Сообщать, когда
 $Definition['Notify me when people reply to my wall comments.'] = 'Сообщать об ответах на мои отзывы на стене';
 $Definition['Notify me when people write on my wall.'] = 'Сообщать о новых надписях на стене';
 
+$Definition['Off Topic'] = 'Оффтоп';
 $Definition['Okay'] = 'Да';
 $Definition['Old Password'] = 'Старый пароль';
 $Definition['OldPassword'] = 'Старый пароль';
@@ -505,11 +620,16 @@ $Definition['on'] = 'на';
 
 $Definition['Only show followed categories'] = 'Показать только те категории, на которые я подписан.';
 $Definition['OpenID Settings'] = 'Настройки OpenID';
+$Definition['Optional Description'] = 'Дополнительное описание';
 $Definition['Options'] = 'Настройки';
+
+$Definition['or'] = 'или';
+
 $Definition['Or you can...'] = 'Или...';
 $Definition['Organize discussion categories'] = 'Сортируй категории';
 $Definition['Organize your Categories'] = 'Сортировка ваших категорий';
 $Definition['Original'] = 'Оригинал';
+$Definition['Other Records'] = 'Другие записи';
 
 $Definition['Page Not Found'] = 'Страница не найдена';
 $Definition['PageDetailsMessage'] = '%1$s для %2$s';
@@ -525,52 +645,87 @@ $Definition['PasswordRequest'] = 'Hallo %1$s,
 
 Всего хорошего!';
 $Definition['Passwords don\'t match'] = 'Пароль не подходит';
-$Definition['Permalink'] = '#';
 
 $Definition['permalink'] = 'ссылка';
 
+$Definition['Permalink'] = '#';
 $Definition['Permanent (301)'] = 'Перемещено (301)';
 $Definition['PermissionErrorMessage'] = 'У вас недостаточно прав для просмотра этой страницы.';
 $Definition['PermissionErrorTitle'] = 'Проблема с доступом';
+$Definition['Photogenic'] = 'Фотогеничный';
 $Definition['Picture'] = 'Изображение';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Пожалуйста, подождите пока вы будете перенаправленны. Если в течении 10 секун ничего не произошло, кликните <a href="%s">тут</a>.';
 $Definition['Poll'] = 'Голосование';
+$Definition['Poll Options'] = 'Опции опроса';
+$Definition['Poll Question'] = 'Проголосовать вопрос';
 $Definition['Popular'] = 'Популярные';
 $Definition['Popular Discussions'] = 'Популярные темы';
 $Definition['Popular Tags'] = 'Популярные тэги';
 $Definition['Popup'] = 'Всплывающее окно';
 $Definition['Position'] = 'Позиция';
+$Definition['Post'] = 'Сообщить';
 $Definition['Post Comment'] = 'Отправить';
 $Definition['Post Discussion'] = 'Отправить';
+$Definition['Post edited by %1$s at %2$s'] = 'Пост отредактирован %1$s в %2$s';
+$Definition['Post this anonymously'] = 'Сообщить это анонимно';
 $Definition['Posts'] = 'Сообщения';
 $Definition['Posts.Plural: %s'] = 'Сообщений: %s';
 $Definition['Posts.Singular: %s'] = 'Сообщений: %s';
 $Definition['Posts: %s'] = 'Сообщений: %s';
+$Definition['Powered by %s'] = 'Работает на %s';
 $Definition['Preview'] = 'Просмотр';
+$Definition['Previous'] = 'Предыдущий';
+$Definition['Privacy Settings'] = 'Настройки приватности';
 $Definition['Private Note for Moderators'] = 'Скрытая заметка для модератора';
+$Definition['Problem with credentials.'] = 'Проблема с учетными данными.';
 $Definition['Proceed'] = 'Продолжить';
 $Definition['Profile'] = 'Профиль';
+$Definition['Profile  Fields'] = 'Поля профиля';
+$Definition['Profile Fields'] = 'Поля профиля';
+$Definition['Profile Page'] = 'Страница профиля';
 $Definition['Profile Picture'] = 'Изображение профиля';
 $Definition['Profiles'] = 'Профили';
+$Definition['Promote'] = 'Рекламировать';
+$Definition['Public'] = 'Публичный';
 
+$Definition['Q&A'] = 'ВиО';
+$Definition['Q&A Options'] = 'Настройки ВиО';
 $Definition['Q&A Question'] = 'Вопрос';
+
+$Definition['question'] = 'вопрос';
+
 $Definition['Question'] = 'Вопрос';
 $Definition['Question Title'] = 'Заголовок вопроса';
 $Definition['Quote'] = 'Цитировать';
 $Definition['Quote Settings'] = 'Настройки цитат';
 
+$Definition['Rank'] = 'Рейтинг';
+$Definition['Reactions'] = 'Отклики';
+$Definition['Real Name'] = 'Реальное имя';
 $Definition['Reason'] = 'Причина';
+$Definition['Reason (optional)'] = 'Причина (опционально)';
 $Definition['Recent Activity'] = 'Последняя активность';
+$Definition['Recent Admin Activity'] = 'Последние действия администратора';
 $Definition['Recent Discussions'] = 'Последние темы';
+$Definition['Recent Moderator Activity'] = 'Последние действия модератора';
 $Definition['Recent Tutorials'] = 'Новые уроки';
+
+$Definition['recently'] = 'недавно';
+
 $Definition['Recipients'] = 'Получатели';
 $Definition['RecipientUserID'] = 'ID получателя';
 $Definition['Redirecting...'] = 'Перенаправление...';
+$Definition['Refetch Page'] = 'Перезагрузить страницу';
 $Definition['Register'] = 'Зарегистрироваться';
+$Definition['Register IP'] = 'Зарегистрированный IP';
 $Definition['Register with %s'] = 'Зарегистрироваться';
+$Definition['Registration  Fields'] = 'Поля регистрации';
+$Definition['Registration URL'] = 'Ссылка для регистрации';
 $Definition['Reject'] = 'Отклонить';
 $Definition['Reject this answer.'] = 'Этот ответ не подходит.';
+$Definition['Remember me'] = 'Запомнить меня';
 $Definition['Remember me on this computer'] = 'Запомнить точку входа';
+$Definition['Remote Configuration'] = 'Удаленная настройка';
 $Definition['Remove My Picture'] = 'Удалить мое изображение';
 $Definition['Remove Picture'] = 'Удалить изображение';
 $Definition['Remove Warning'] = 'Удалить предупреждение';
@@ -591,6 +746,8 @@ $Definition['role'] = 'ID Группы';
 $Definition['RoleID'] = 'ID Группы';
 $Definition['Roles'] = 'Группы';
 
+$Definition['roles'] = 'роли';
+
 $Definition['Save'] = 'Сохранить';
 $Definition['Save Comment'] = 'Сохранить исправления';
 $Definition['Save Draft'] = 'Сохранить черновик';
@@ -598,48 +755,81 @@ $Definition['Save Poll'] = 'Сохранить опрос';
 $Definition['Save Preferences'] = 'Сохранить настройки';
 $Definition['Save your password'] = 'Сохранить пароль';
 $Definition['Search'] = 'Поиск';
+$Definition['Search results for \'%s\''] = 'Результаты поиска по \'%s\'';
 $Definition['SearchBoxPlaceHolder'] = 'Поиск';
+$Definition['Second Anniversary'] = 'Двухлетие';
 $Definition['Sections'] = 'Разделы';
 $Definition['Security Check'] = 'Проверка безопасности';
 $Definition['Select an image on your computer (2mb max)'] = 'Выберите изображение на вашем компьютере (Максимум 2Мб)';
+$Definition['Send a New Message'] = 'Отправить новое сообщение';
 $Definition['Send Message'] = 'Отправить сообщение';
 
 $Definition['sep and'] = 'и';
 
+$Definition['Set a New Warning Level'] = 'Установить новый уровень предупреждений';
+$Definition['Setting'] = 'Настройка';
 $Definition['Settings'] = 'Настройки';
+$Definition['Seventh Anniversary'] = 'Седьмая годовщина';
 $Definition['Share'] = 'Поделиться';
+$Definition['Shared Accounts'] = 'Общие учетные записи';
 
 $Definition['she'] = 'она';
 
 $Definition['Show unfollowed categories'] = 'Показать категории, на которые не подписан';
+$Definition['Shown only on mobile'] = 'Показывать только на мобильных устройствах';
 $Definition['Sign In'] = 'Войти';
+$Definition['Sign in to vote!'] = 'Войдите, чтобы голосовать!';
+$Definition['Sign In with %s'] = 'Войти через %s';
+$Definition['Sign In with Disqus'] = 'Войти через Disqus';
 $Definition['Sign In with Facebook'] = 'Войти через Facebook';
 $Definition['Sign In with Google'] = 'Войти с помощью Google';
 $Definition['Sign In with OpenID'] = 'Войти с помощью OpenID';
 $Definition['Sign In with Twitter'] = 'Войти с помощью Twitter';
+
+$Definition['sign out'] = 'Выйти';
+
 $Definition['Sign Out'] = 'Выйти';
 $Definition['Sign Up'] = 'Зарегистрироваться';
+$Definition['Sign-In URL'] = 'URL входа';
+$Definition['Sign-Out URL'] = 'URL выхода';
 $Definition['Signature Code'] = 'Подпись';
+$Definition['Signature invalid.'] = 'Подпись недействительна.';
 $Definition['Signature Settings'] = 'Настройки подписи';
+$Definition['Signatures'] = 'Подписи';
 $Definition['SignIn'] = 'Вход';
 $Definition['Sink'] = 'Пауза';
+$Definition['Sink this discussion'] = 'Опустить это обсуждение.';
+$Definition['Sitemap Settings'] = 'Настройки карты сайта';
+$Definition['Sixth Anniversary'] = 'Шестая годовщина';
 $Definition['Some Code'] = 'Translation goes here.';
 
 $Definition['somebody'] = 'кто-то';
 
+$Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Кто-то ответил на ваш вопрос. Вы должны принять или отклонить ответ.';
+
+$Definition['sorted by'] = 'отсортировано';
+
+$Definition['Source:'] = 'Исходный:';
 $Definition['Spam'] = 'Спам';
+$Definition['Split'] = 'Разделить';
+$Definition['Split Comments'] = 'Разделить комментарии';
 $Definition['Spoiler'] = 'Спойлер';
 $Definition['Start'] = 'Старт';
 $Definition['Start a New Conversation'] = 'Начать новый диалог';
 $Definition['Start a New Discussion'] = 'Начать новую тему';
 $Definition['Start Conversation'] = 'Начать обсуждение';
 $Definition['Start your First Discussion'] = 'Ваша первая тема';
+$Definition['Started By'] = 'Начал';
 $Definition['Started by %1$s'] = 'Опубликовал %1$s';
+$Definition['Stop following'] = 'Отписаться';
 $Definition['Strip images out of signatures'] = 'Удалять изображения из подписей';
+$Definition['Strip images out of signatures?'] = 'Удалить изображения из подписей?';
+$Definition['Suggested Value'] = 'Предлагаемое значение';
 
 $Definition['Tag Name'] = 'Имя тэга';
 $Definition['Tagged'] = 'Тэги темы';
 $Definition['Tagged with '] = 'Отмечено тэгами: ';
+$Definition['Tagged with "%s"'] = 'С тегом "%s"';
 $Definition['Tagging'] = 'Тэгирование';
 $Definition['Tags'] = 'Тэги';
 $Definition['Tags are keywords that users can assign to discussions to help categorize their question with similar questions.'] = 'Пользователи могут добавлять тэги и ключевые слова для улучшения навигации по связаным дискуссиям.';
@@ -648,6 +838,7 @@ $Definition['Take Action:'] = 'Выберите действие:';
 $Definition['Target'] = 'Расположение';
 $Definition['Tell the user why you\'re warning them'] = 'Скажите пользователю, почему вы его предупреждаете';
 $Definition['Tell us why you want to join!'] = 'Расскажите, почему вы решили присоединиться к нам!';
+$Definition['Tenth Anniversary'] = 'Десятая годовщина';
 $Definition['Terms of Service'] = 'Условия использования';
 $Definition['TermsOfService'] = 'Условия использования';
 $Definition['TermsOfServiceText'] = '<p>1. Модерация форума. На форуме отсутствует предварительная фильтрация сообщений. Все сообщения пользователей прочитываются модератором форума. В случае нарушения пользователем правил форума, пользователь получает предупреждение или заносится в банлист. Администрация форума не несёт ответственности за информацию, размещённую пользователями.<br>
@@ -657,51 +848,88 @@ $Definition['TermsOfServiceText'] = '<p>1. Модерация форума. На
 5. Реклама. На форуме запрещено заниматься рекламой, в том числе размещать частные объявления.<br>
 6. Новые темы. Приветствуется создание интересных тем.<br>
 7. Сознательность. Поощряется своевременное оповещение Администрации о нарушении правил форума.</p>';
+$Definition['The conversation has been cleared.'] = 'Разговор был очищен.';
 $Definition['The email you entered in use by another member.'] = 'Пользователь с таким Email уже существует.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Этот Email уже привязан к существующему акаунту.';
 $Definition['The file failed to upload.'] = 'Невозможно загрузить файл.';
 $Definition['The name you entered is already in use by another member.'] = 'Этот ник уже занят, придумайте другой';
 $Definition['The page you were looking for could not be found.'] = 'Страница, которую вы ищете, не существует.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'Код проверки введен не верно. Если вам не понятны символы на картинке, нажмите пиктограмму "две стрелки по кругу", чтобы загрузить другие';
+$Definition['The response was not in the correct format.'] = 'Ответ был в неправильном формате.';
+$Definition['The site is currently undergoing maintenance.'] = 'Сайт в настоящее время проходит техническое обслуживание.';
+$Definition['The uploaded file was too big (max %s).'] = 'Загруженный файл был слишком большой (максимум %s).';
 
 $Definition['their'] = 'их';
 
 $Definition['There are no tags in the system yet.'] = 'В системе ещё нет ни одного тэга.';
+$Definition['There was an error connecting to Disqus'] = 'Произошла ошибка при подключении к Disqus';
+$Definition['There was an error connecting to Facebook'] = 'Произошла ошибка при подключении к Facebook';
+$Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Произошла ошибка при загрузке файла. Скорее всего файл слишком большой.';
 
 $Definition['they'] = 'они';
 
+$Definition['Third Anniversary'] = 'Трехлетие';
 $Definition['This answer was %s.'] = 'Этот ответ был %s';
 $Definition['This answer was Accepted.'] = 'Этот ответ подошёл.';
 $Definition['This discussion has been closed.'] = 'Эта тема была закрыта.';
+$Definition['This discussion was created from comments split from: %s.'] = 'Эта дискуссия была создана из комментариев, выделенных из: %s.';
 $Definition['This discussion was merged into %s'] = 'Эта тема была перемещена';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Изображение было уменьшено. Кликните для увеличения.';
+$Definition['This is a private poll: no-one will see what you voted for.'] = 'Это приватный опрос: никто не будет видеть что вы голосовали.';
+$Definition['This is a public poll: others will see what you voted for.'] = 'Это общественный опрос: другие будут видеть что вы голосовали.';
 $Definition['This is a system account and does not represent a real person.'] = 'Это технический пользователь';
+$Definition['This Month\'s Leaders'] = 'Лидеры текущего месяца';
+$Definition['This question\'s answer has been accepted.'] = 'Ответ на этот вопрос был принят.';
 $Definition['This user has been verified as a non-spammer.'] = 'Этот пользователь не спамер';
+$Definition['This user has not been verified as a non-spammer.'] = 'Пользователь не были проверен на спамера.';
 $Definition['This user has not commented yet.'] = 'Этот пользователь ничего не комментировал.';
 $Definition['This user has not made any discussions yet.'] = 'Этот пользователь не создал ни одной темы.';
+$Definition['This user is verified as a non-spammer'] = 'Этот пользователь не спамер';
+$Definition['This warning has expired. Do you want to completely delete it?'] = 'Предупреждение истекло. Вы хотите его удалить?';
+$Definition['This Week\'s Leaders'] = 'Лидеры текущей недели';
 $Definition['Thumbnail'] = 'Миниатюра';
 $Definition['Title'] = 'Название';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Для того, чтобы послать другое письмо активации, кликните <a href="%s">здесь</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Для использования системы reCAPTCHA вы должны получить API ключ на сайте %s';
 $Definition['Transport error: %s'] = 'Произошла ошибка при обработке запроса <br /> сервер вернул следующее сообщение: %s';
+$Definition['Troll'] = 'Троль';
+$Definition['Turn ON'] = 'Включить';
 $Definition['Twitter Settings'] = 'Настройки входа через Twitter';
 $Definition['Type'] = 'Тип';
 
 $Definition['Unannounce'] = 'Убрать объявление';
 $Definition['Unanswered'] = 'Вопросы без ответа';
 $Definition['Unanswered Questions'] = 'Вопросы без ответа';
+
+$Definition['unavailable'] = 'недоступно';
+
+$Definition['Unban User'] = 'Разбанить пользователя';
 $Definition['Unbookmark'] = 'Убрать из закладок';
+$Definition['Undefined discussion body.'] = 'Не указано тело обсуждения.';
+$Definition['Undefined discussion subject.'] = 'Не указана тема обсуждения.';
+$Definition['Undefined foreign content'] = 'Внешний контент не определен';
+$Definition['Undo Follow'] = 'Отписаться';
 $Definition['Unfollow'] = 'Отписаться';
+$Definition['Unhide'] = 'Показать';
 $Definition['Unknown'] = 'Неизвестно';
+$Definition['Unknown client: %s.'] = 'Неизвестный клиент: %s.';
+$Definition['Unread'] = 'Непрочитанно';
+$Definition['Unread Discussions'] = 'Непрочитанные обсуждения';
 $Definition['Unsink'] = 'Открыть';
 $Definition['Unspecified'] = 'Не указано';
+$Definition['Update'] = 'Обновление';
+$Definition['Updated badge'] = 'Обновленный значек';
 $Definition['Upload'] = 'Загрузить';
 $Definition['Uploading...'] = 'Загрузка...';
 $Definition['UrlCode'] = 'Код ссылки';
 $Definition['Use My Current Password'] = 'Использовать мой текущий пароль';
+$Definition['User "%s" does not exist.'] = 'Пользователь "%s" не существует.';
 $Definition['Username'] = 'Имя';
+$Definition['Username can only contain letters, numbers, and underscores.'] = 'Имя пользователя может содержать только буквы, цифры и знак подчеркивания.';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Имена пользователей могут содержать только буквы, цифры и знаки подчеркивания и должны быть в диапазоне от 3 до 20 символов.';
+$Definition['Username or email'] = 'Имя пользователя или почта';
 $Definition['UsernameError'] = 'Имена пользователей могут содержать только буквы, цифры и знаки подчеркивания и должны быть в диапазоне от 3 до 20 символов.';
+$Definition['Users Count'] = 'Число пользователей';
 
 $Definition['ValidateBanned'] = '%s не доступно.';
 $Definition['ValidateBoolean'] = '%s - неправильный ответ';
@@ -726,47 +954,82 @@ $Definition['Value'] = 'Condition Expression';
 $Definition['Vanilla Statistics'] = 'Настройки статистики';
 $Definition['Vanilla Statistics Plugin'] = 'Плагин статистики';
 $Definition['Verified'] = 'Проверенный';
+$Definition['Verifying your credentials...'] = 'Проверка ваших учетных данных...';
 
 $Definition['via %s'] = 'с %s';
 
+$Definition['View Badge'] = 'Посмотреть значек';
 $Definition['Views'] = 'Визитов';
+$Definition['Visible'] = 'Видимый';
 $Definition['Visit Site'] = 'Перейти на сайт';
 $Definition['Visits'] = 'Посещений';
 $Definition['Vote'] = 'Голосовать';
+$Definition['Vote Down'] = 'Против';
+$Definition['Vote Up'] = 'За';
 $Definition['Votes'] = 'Рейтинг';
 
 $Definition['wall'] = 'Стена';
 
+$Definition['Want to take part in this discussion? Click one of these:'] = 'Хотите принять участие в этом обсуждении? Нажмите одну из этих:';
+$Definition['Warn'] = 'Предупреждение';
 $Definition['Warnings'] = 'Предупреждения';
+
+$Definition['was'] = 'было';
+
+$Definition['Website'] = 'Вебсайт';
+
+$Definition['weeks'] = 'недели';
+
 $Definition['Welcome Aboard!'] = 'Добро пожаловать к нам!';
+
+$Definition['were'] = 'где';
+
+$Definition['Where do you want to announce this discussion?'] = 'Где вы хотите объявить эту дискуссию?';
 $Definition['Who\'s Online'] = 'Кто сейчас на сайте?';
+$Definition['Whos Online'] = 'Кто онлайн';
+$Definition['Why are you Banning this user?'] = 'Почему вы баните этого пользователя?';
 $Definition['Write a comment'] = 'Написать комментарий';
 $Definition['Write Comment'] = 'Комментировать';
 $Definition['Write something about yourself...'] = 'Написать что-нибудь о себе...';
+$Definition['WTF'] = 'Шозанах';
 
 $Definition['Yes'] = 'Да';
+$Definition['You'] = 'я';
 
 $Definition['you'] = 'я';
 
-$Definition['You'] = 'я';
 $Definition['You already have an account here.'] = 'У вас здесь уже есть аккаунт';
+$Definition['You are about to ban {User.UserID,user}.'] = 'Вы собираетесь забанить {User.UserID,user}.';
+$Definition['You are about to unban {User.UserID,user}.'] = 'Вы собираетесь разбанить {User.UserID,user}.';
 $Definition['You are connected as %s through %s.'] = 'Вы подключитесь %s через %s.';
+$Definition['You are connected through %2$s.'] = 'Вы подключены через %2$s.';
 $Definition['You are currently only viewing categories that you follow.'] = 'Вы просматриваете только те категории, на которые подписаны.';
 $Definition['You are currently viewing all categories.'] = 'Вы просматриваете все категории';
+$Definition['You are editing %s\'s signature'] = 'Вы отредактировали подпись %s';
 $Definition['You can either ask a question or start a discussion.'] = 'Вы можете задать вопрос или начать новую тему. Выберите, что вы хотите сделать.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Вы можете следить за отдельными категориями и получать уведомления о всех сообщениях в них.';
+$Definition['You can only specify up to %s tags.'] = 'Вы можете указать до %s меток.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Вы не можете редактировать изображение в профиле';
+$Definition['You do not have any %s yet.'] = 'У вас еще нет %s.';
+$Definition['You do not have any bookmarks.'] = 'У вас нет ни одной закладки.';
 $Definition['You do not have any conversations.'] = 'Вы необщительны.';
 $Definition['You do not have any drafts.'] = 'У вас нет ни одного черновика.';
 $Definition['You do not have any notifications yet.'] = 'У вас нет сообщений.';
+$Definition['You do not have enough invitations left.'] = 'У вас не хватает приглашений.';
+$Definition['You do not have permission to write new comments.'] = 'Вы не имеете права комментировать.';
 $Definition['You don\'t have permission to do that.'] = 'У вас недостаточно прав для просмотра этой страницы.';
 $Definition['You have answered questions'] = 'У Вас есть вопросы <a href="{/discussions/mine?qna=Answered,url}">с ответами</a>. Одобрите или отклоните их.';
+$Definition['You have entered an invalid discussion title'] = 'Вы ввели неверный заголовок обсуждения';
+$Definition['You have not started any discussions.'] = 'Вы еще не начали каких-либо обсуждений.';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'Вы написали %1$s сообщений за %2$s секунд. В целях борьбы со спамом вы заблокированы на %3$s секунд, по прошествии которых вы снова сможете публиковать сообщения.';
 $Definition['You have selected %1$s in this discussion.'] = 'Вы выбрали %1$s в этой теме';
 $Definition['You have selected %1$s.'] = 'Вы выбрали %1$s.';
+$Definition['You have to select at least 2 discussions to merge.'] = 'Вы должны выбрать по крайней мере два обсуждения для слияния.';
 $Definition['You haven\'t read this yet.'] = 'Вы ещё не читали это.';
 $Definition['You must agree to the terms of service.'] = 'Вы должны подтвердить правила использования форума.';
 $Definition['You need to confirm your email address.'] = 'Вам нужно подтвердить email адрес. Для того, чтобы повторно послать письмо активации, кликните <a href="/entry/emailconfirmrequest">здесь</a>.';
+$Definition['You need to sign in before you can do this.'] = 'Вы должны войти в систему прежде, чем вы можете это сделать.';
+$Definition['You\'ve been Jailed.'] = 'Вы были заключены в тюрьму.';
 
 $Definition['your'] = 'ваше';
 
@@ -774,9 +1037,19 @@ $Definition['Your changes have been saved successfully.'] = 'Ваши измен
 $Definition['Your changes have been saved.'] = 'Ваши изменения сохранены.';
 $Definition['Your changes were saved.'] = 'Ваши изменения сохранены.';
 $Definition['Your email has been successfully confirmed.'] = 'Ваш email был успешно подтвержден.';
+$Definition['Your invitation has been sent.'] = 'Ваше приглашение было отправлено.';
 $Definition['Your old password was incorrect.'] = 'Неверно введен старый пароль';
+$Definition['Your password has been changed.'] = 'Ваш пароль был изменен.';
+$Definition['Your picture has been removed.'] = 'Ваша фотография была удалена.';
+$Definition['Your post will appear once it\'s been approved.'] = 'Ваше сообщение появится после модерации.';
 $Definition['Your preferences have been saved.'] = 'Ваши настройки были сохранены.';
+$Definition['Your private conversations with other members.'] = 'Ваши приватные разговоры с другими членами.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Ваше имя при регистрации: <strong>%s</strong>';
 $Definition['Your request has been sent.'] = 'Ссылка для подтверждения выслана вам на почту, пожалуйста проверьте.';
 $Definition['Your settings have been saved successfully.'] = 'Ваши настройки были успешно сохранены.';
 $Definition['Your settings have been saved.'] = 'Ваши настройки были сохранены.';
+$Definition['Your warning was added.'] = 'Ваше предупреждение было добавлено.';
+
+$Definition['↳ No results for \'%s\''] = '↳ Нет результатов для \'%s\'';
+$Definition['↳ Search results for \'%s\''] = '↳ Результаты поиска для \'%s\'';
+$Definition['↳ Show All'] = 'Показать все';

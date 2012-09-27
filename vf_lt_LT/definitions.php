@@ -4,7 +4,7 @@
   'Locale' => 'lt-LT',
   'Name' => 'Lithuanian Transifex',
   'Description' => 'Lithuanian language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/lt/">here</a>.',
-  'Version' => '2012.09.11p1532',
+  'Version' => '2012.09.27p1152',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/lt/',
 );

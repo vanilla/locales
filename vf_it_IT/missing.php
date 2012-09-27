@@ -21,7 +21,6 @@ $Definition['%s mentioned %s in a %s.'] = '%s mentioned %s in a %s.';
 $Definition['%s new comment since you last read this.'] = '%s new comment since you last read this.';
 $Definition['%s new comments since you last read this.'] = '%s new comments since you last read this.';
 $Definition['%s points'] = '%s points';
-$Definition['%s Settings'] = '%s Settings';
 $Definition['%s Up Votes'] = '%s Up Votes';
 $Definition['%s view'] = '%s view';
 $Definition['%s views'] = '%s views';
@@ -66,22 +65,13 @@ $Definition['Admin'] = 'Admin';
 $Definition['Advanced Embed Settings'] = 'Advanced Embed Settings';
 $Definition['Advanced settings for embedded community elements'] = 'Advanced settings for embedded community elements';
 $Definition['Advanced Stuff'] = 'Advanced Stuff';
-$Definition['AdvancedNotifications'] = 'AdvancedNotifications';
-$Definition['Agree'] = 'Agree';
 $Definition['Alive'] = 'Alive';
 $Definition['All %s'] = 'All %s';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
-$Definition['All Time Leaders'] = 'All Time Leaders';
 $Definition['Allow new users to be registered through email.'] = 'Allow new users to be registered through email.';
-$Definition['Ancient Membership'] = 'Ancient Membership';
 $Definition['Answer'] = 'Answer';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
-$Definition['Applied by Administrator'] = 'Applied by Administrator';
-$Definition['Applied Manually'] = 'Applied Manually';
-$Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Are you ABSOLUTELY sure you want to take this action?';
-$Definition['Are you sure you want to delete this %s?'] = 'Are you sure you want to delete this %s?';
 $Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.';
-$Definition['Are you sure you want to do this?'] = 'Are you sure you want to do this?';
 $Definition['Are you sure you wish to continue?'] = 'Are you sure you wish to continue?';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
 $Definition['AttemptingSignOut'] = 'You are attempting to sign out. Are you sure you want to %s?';
@@ -114,7 +104,6 @@ $Definition['BanType'] = 'BanType';
 $Definition['Below Sidebar'] = 'Below Sidebar';
 $Definition['Best Answer'] = 'Best Answer';
 $Definition['Best Answers'] = 'Best Answers';
-$Definition['Best Of'] = 'Best Of';
 $Definition['Blank Discussion Topic'] = 'Blank Discussion Topic';
 $Definition['Blocked'] = 'Blocked';
 $Definition['Blog Comments'] = 'Blog Comments';
@@ -123,13 +112,7 @@ $Definition['Body'] = 'Body';
 $Definition['bookmarks'] = 'bookmarks';
 
 $Definition['Browse Addons'] = 'Browse Addons';
-$Definition['By'] = 'By';
-
-$Definition['by'] = 'by';
-
 $Definition['By %s'] = 'By %s';
-
-$Definition['by %s'] = 'by %s';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Cannot build profile information if user is not defined.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.';
@@ -221,13 +204,11 @@ $Definition['Define Thumbnail'] = 'Click and drag across the picture to define y
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Define your forum homepage'] = 'Define your forum homepage';
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Define your forum homepage, upload your logo, and more...';
-$Definition['Delete %s'] = 'Delete %s';
 $Definition['Delete Badge'] = 'Delete Badge';
 $Definition['Delete Category'] = 'Delete Category';
 $Definition['Delete Content'] = 'Delete Content';
 $Definition['Delete Forever'] = 'Delete Forever';
 $Definition['Delete User'] = 'Delete User';
-$Definition['Delete User Forever'] = 'Delete User Forever';
 $Definition['Deleted'] = 'Deleted';
 $Definition['Deleting category...'] = 'Deleting category...';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
@@ -236,12 +217,11 @@ $Definition['Did this answer the question?'] = 'Did this answer the question?';
 $Definition['Did You Know?'] = 'Did You Know?';
 $Definition['Disable Tagging'] = 'Disable Tagging';
 $Definition['Disabled'] = 'Disabled';
-$Definition['Disabled %1$s'] = 'Disabled %1$s';
 $Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'Disabled: The pocket will <b>not</b> be displayed.';
-$Definition['Discussion'] = 'Discussion';
 
 $Definition['discussion'] = 'discussion';
 
+$Definition['Discussion'] = 'Discussion';
 $Definition['Discussion  Body'] = 'Discussion  Body';
 $Definition['Discussion  Subject'] = 'Discussion  Subject';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
@@ -339,7 +319,6 @@ $Definition['For SEO purposes, search engine crawlers are excluded from being fo
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Force the forum to only be accessible through this url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Force your forum to be viewed through the Remote Url';
-$Definition['From'] = 'From';
 $Definition['Full Site'] = 'Full Site';
 
 $Definition['Garden'] = 'Garden';
@@ -415,9 +394,7 @@ Follow the link below to log in.';
 $Definition['Hidden for everything!'] = 'Hidden for everything!';
 $Definition['Hidden for mobile'] = 'Hidden for mobile';
 $Definition['Hide  Fields'] = 'Hide  Fields';
-$Definition['Hide from the recent discussions page.'] = 'Hide from the recent discussions page.';
 $Definition['Hide Pocket Locations'] = 'Hide Pocket Locations';
-$Definition['Hide this category from the recent discussions page.'] = 'Hide this category from the recent discussions page.';
 $Definition['Home'] = 'Home';
 $Definition['Homepage'] = 'Homepage';
 $Definition['How to use themes'] = 'How to use themes';
@@ -440,12 +417,9 @@ $Definition['Internaltionalization & Localization'] = 'Internaltionalization & L
 $Definition['Introducing Vanilla Comments'] = 'Introducing Vanilla Comments';
 $Definition['Invalid category for deletion.'] = 'Invalid category for deletion.';
 $Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
-$Definition['Invitations'] = 'Invitations';
 $Definition['IP Address'] = 'IP Address';
 $Definition['IPAddress'] = 'IPAddress';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
-
-$Definition['item'] = 'item';
 
 $Definition['Jail'] = 'Jail';
 $Definition['Jailed users have reduced abilities.'] = 'Jailed users have reduced abilities.';
@@ -461,7 +435,6 @@ $Definition['Key Type'] = 'Key Type';
 $Definition['Key Value'] = 'Key Value';
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 
-$Definition['Label'] = 'Label';
 $Definition['Label this Revision'] = 'Label this Revision';
 $Definition['Last time your forum communicated with the statistics server it received the following message:'] = 'Last time your forum communicated with the statistics server it received the following message:';
 $Definition['Latest %1$s'] = 'Latest %1$s';
@@ -513,8 +486,6 @@ $Definition['more than %s deep'] = 'more than %s deep';
 $Definition['more than %s levels deep'] = 'more than %s levels deep';
 
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Most pockets shouldn\'t be displayed in the dashboard.';
-$Definition['Most Recent'] = 'Most Recent';
-$Definition['Most recent:'] = 'Most recent:';
 $Definition['Most recent: %1$s by %2$s'] = 'Most recent: %1$s by %2$s';
 $Definition['Move discussions in this category to a replacement category.'] = 'Move discussions in this category to a replacement category.';
 $Definition['MyBadgesModuleTitle'] = 'My Badges';
@@ -546,12 +517,8 @@ $Definition['Number of blocked registrations'] = 'Number of blocked registration
 $Definition['Off Topic'] = 'Off Topic';
 $Definition['OK'] = 'OK';
 $Definition['OldPassword'] = 'Old password';
-
-$Definition['on'] = 'on';
-
 $Definition['One, two, three...'] = 'One, two, three...';
 $Definition['Only show followed categories'] = 'Only show followed categories';
-$Definition['Optional Description'] = 'Optional Description';
 $Definition['Organize'] = 'Organize';
 $Definition['Organize Categories'] = 'Organize Categories';
 $Definition['Original Version'] = 'Original Version';
@@ -610,9 +577,7 @@ $Definition['Public Key'] = 'Public Key';
 
 $Definition['Q&A'] = 'Q&A';
 $Definition['Q&A Options'] = 'Q&A Options';
-$Definition['Quote Folding'] = 'Quote Folding';
 $Definition['Quote on'] = 'on';
-$Definition['Quote Settings'] = 'Quote Settings';
 
 $Definition['Rank'] = 'Rank';
 $Definition['Ranks'] = 'Ranks';

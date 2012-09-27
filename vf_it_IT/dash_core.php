@@ -7,6 +7,7 @@ $Definition['%s level'] = '%s livello';
 $Definition['%s levels'] = '%s livelli';
 $Definition['%s of %s'] = '%s di %s';
 $Definition['%s posts'] = '%s messaggi';
+$Definition['%s Settings'] = '%s Impostazioni';
 $Definition['%s site(s) found.'] = '%s sito(i) trovato.';
 $Definition['%s sources(s) found.'] = '%s fonte(i) trovata.';
 $Definition['%s times'] = '%s tempi';
@@ -65,6 +66,7 @@ $Definition['Advanced'] = 'Avanzate';
 $Definition['Advanced Forum Settings'] = 'Impostazioni Forum Avanzate';
 $Definition['Advanced Options'] = 'Opzioni Avanzate';
 $Definition['Advanced Settings'] = 'Configurazioni Avanzate';
+$Definition['AdvancedNotifications'] = 'Notifiche Avanzate';
 $Definition['After'] = 'Dopo';
 $Definition['All'] = 'Tutti';
 $Definition['All %1$s'] = 'Tutti %1$s';
@@ -83,6 +85,8 @@ $Definition['Application ID'] = 'ID Applicazione';
 $Definition['Application Secret'] = 'Segreto Applicazione';
 $Definition['ApplicationHelp'] = 'Le applicazioni ti permettono di aggiungere vasti gruppi di funzionalita\' al tuo sito.<br />Una volta che un\'applicazione viene aggiunta nella tua cartella %s, puoi abilitarla o disabilitarla da qui.';
 $Definition['Applications'] = 'Applicazioni';
+$Definition['Applied by Administrator'] = 'Applicato dall\'Amministratore';
+$Definition['Applied Manually'] = 'Applicato Manualmente';
 $Definition['Applied On'] = 'Data';
 $Definition['Apply'] = 'Applica';
 $Definition['Approval'] = 'Le <strong>Categorie</strong> ti permettono di organizzare le discussioni. Le categorie possono contenere solo discussioni.';
@@ -119,6 +123,9 @@ $Definition['Basic Information'] = 'Informazioni di Base';
 $Definition['Before'] = 'Prima';
 $Definition['Begin At'] = 'Comincia A';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Carica un nuovo logo banner dal tuo PC:';
+
+$Definition['by %s'] = 'di %s';
+
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Cliccando sul seguente pulsante, cancellerai l\'account di %s per sempre';
 
 $Definition['Categories &amp; Discussions'] = 'Categorie &amp; Discussioni';
@@ -166,6 +173,7 @@ $Definition['Disable Content Flagging'] = 'Disabilita Segnalazioni';
 $Definition['Disable Google Sign In'] = 'Disabilita Login Google';
 $Definition['Disable OpenID'] = 'Disabilita OpenID';
 $Definition['Disable Signatures'] = 'Disabilita Firme';
+$Definition['Disabled %1$s'] = 'Disabilitato %1$s';
 $Definition['Discussion & Comment Editing'] = 'Discussioni e Commenti';
 
 $Definition['discussion(s)'] = 'discussione(i)';
@@ -203,6 +211,7 @@ $Definition['Finished'] = 'Terminato';
 $Definition['First Visit'] = 'Prima Visita';
 $Definition['Forum Settings'] = 'Impostazioni Forum';
 $Definition['Frequency'] = 'Frequenza';
+$Definition['From'] = 'Da';
 
 $Definition['Garden.Import.Description'] = 'Usa questa pagina per importare dati provenienti da un altro forum esportati con il Vanilla exporter. Per maggiori informazioni <a href="%s">visualizza i nostri documenti relativi all\'importazione</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Inserisci email e password dell\'admin dei dati importati.';
@@ -219,6 +228,8 @@ $Definition['Guest'] = 'Visitatore';
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Attenzione, questo è un ruolo speciale, limitato alla sola consultazione.';
 $Definition['Here\'s how to get started:'] = 'Ecco come cominciare:';
+$Definition['Hide from the recent discussions page.'] = 'Nascondi dalla pagina delle discussioni recenti';
+$Definition['Hide this category from the recent discussions page.'] = 'Nascondi questa categoria dalla pagina delle discussioni recenti.';
 $Definition['Homepage Title'] = 'Homepage Titolo';
 
 $Definition['Import'] = 'Importa';

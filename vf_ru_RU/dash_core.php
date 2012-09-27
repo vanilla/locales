@@ -1,5 +1,6 @@
 <?php
 
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" не найдено.';
 $Definition['%1$s Version %2$s'] = '%1$s Версия %2$s';
 $Definition['%s Settings'] = '%s настройки';
 $Definition['%s user(s) found.'] = '%s пользователь(ей) найден(о).';
@@ -30,11 +31,13 @@ $Definition['_Locale'] = 'Язык';
 
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'На ваш email выслано письмо с инструкцией по смене пароля';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'Url-версия названия категории для улучшения SEO.';
+$Definition['Abilites'] = 'Способность';
 $Definition['About Vanilla Statistics'] = 'Про этот плагин';
 $Definition['About.DisableStatistics'] = 'Если вам по каким-то причинам необходимо отключить этот плагин, отредактируйте файл config.php, добавив (или изменив) строку<p> <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code></p>';
 $Definition['About.VanillaStatistics'] = 'Это очень важный плагин, отправляющий статистику использования вашего форума на сервера Vanillaforums.org. Для того чтобы авторы Vanilla могли сделать движок форума еще лучше. Мы просим Вас не отключать отправку статистических данных';
 $Definition['Accepted'] = 'Одобрен(а)';
 $Definition['Action'] = 'Действия';
+$Definition['Add %s'] = 'Добавить %s';
 $Definition['Add Category'] = 'Добавить категорию';
 $Definition['Add Info &amp; Create Account'] = 'Добавить информацию &amp; Создать аккаунт';
 $Definition['Add Item'] = 'Добавить запись';
@@ -96,6 +99,9 @@ $Definition['Basic'] = 'По умолчанию';
 $Definition['Blocked'] = 'Заблокированно';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Просто загрузите новый логотип, если вы хотите сменить текущий:';
 $Definition['By %s'] = 'От %s';
+
+$Definition['by %s'] = 'от %s';
+
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Нажав на кнопку ниже, вы удалите учетную запись %s навсегда.';
 
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Перехват настроек сайта. Вы должны последовательно посетить все страницы сайта, чтобы настройки были сохранены. Все настройки будут находиться в файлах <code>captured.php</code> и <code>captured_admin.php</code>.';
@@ -144,10 +150,10 @@ $Definition['Current Theme'] = 'Используемая тема';
 
 $Definition['Database Structure Upgrades'] = 'Обновление структуры базы данных';
 $Definition['Decline'] = 'Отклонить';
+$Definition['Default'] = 'По умолчанию';
 
 $Definition['default'] = 'по умолчанию';
 
-$Definition['Default'] = 'По умолчанию';
 $Definition['Default %s Permissions'] = 'Стандартные %s разрешения';
 $Definition['Default Category Permissions'] = 'Разрешения на категории по умолчанию';
 $Definition['Default Locale'] = 'Язык по-умолчанию';
@@ -182,6 +188,7 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Сх
 
 $Definition['edit'] = 'редактировать';
 
+$Definition['Edit %s'] = 'Редактировать %s';
 $Definition['Edit Category'] = 'Редактировать категорию';
 $Definition['Edit Message'] = 'Редактировать сообщение';
 $Definition['Edit Role'] = 'Редактировать группы';
@@ -189,6 +196,7 @@ $Definition['Edit Route'] = 'Редактировать права';
 $Definition['Edit User'] = 'Редактировать пользователя';
 $Definition['Edit/Delete Log'] = 'Лог редактирования';
 $Definition['EditContentTimeout.Notes'] = 'Примечание: Если в группе пользователя стоят настройки, разрешающие редактирование в любое время - им будет отдано предпочтение';
+$Definition['Editing'] = 'Редактирование';
 $Definition['Email Confirmation Role'] = 'Подтверждение прав по email';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Добавь форум на свой сайт, для повышения количества участников';
 $Definition['Embed your forum in your web site'] = 'Добавление форума на ваш сайт';
@@ -217,6 +225,7 @@ $Definition['First Visit'] = 'Первый визит';
 $Definition['Flood Control'] = 'Антиспам';
 $Definition['Forum Settings'] = 'Настройки форума';
 $Definition['Frequency'] = 'Частота обновлений';
+$Definition['From'] = 'От';
 
 $Definition['Garden.Import.Description'] = 'Эта страница служит для импорта данных из другого форума, который был экспортирован с помощью виджета экспорта Vanilla. Дополнительную информацию вы можете получить в <a href="%s">документации</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Email и пароль администратора для источника импорта.';
@@ -248,6 +257,8 @@ Follow the link below to log in.'] = 'Привет чувак!
 Зацени, я только что создал новый форум. Я думаю это будет замечательное место, для нашего общения. 
 
 Перейди по ссылке ниже для того чтобы войти';
+$Definition['Hide from the recent discussions page.'] = 'Скрыть от последних страниц обсуждений.';
+$Definition['Hide this category from the recent discussions page.'] = 'Скрыть эту категорию из последних страниц обсуждений.';
 $Definition['Homepage'] = 'Главная страница';
 $Definition['How to use themes'] = 'Используй новые темы';
 
@@ -271,6 +282,7 @@ $Definition['Key Value'] = 'Значение ключа';
 $Definition['Kick-start your community and increase user engagement.'] = 'Настрой и приглашай пользователей в своё сообщество!';
 
 $Definition['Last Visit'] = 'Последний визит';
+$Definition['Level'] = 'Уровень';
 $Definition['Locale Key (Folder)'] = 'Ключ локализации (папка)';
 $Definition['Locale Name'] = 'Название';
 $Definition['Locales'] = 'Локализации';
@@ -291,14 +303,16 @@ $Definition['Manage Roles & Permissions'] = 'Управление группам
 $Definition['Manage Routes'] = 'Управление перенаправлениями';
 $Definition['Manage Spam'] = 'Управление спамом';
 $Definition['Manage Themes'] = 'Управление темами';
-$Definition['Manage Users'] = 'Управление пользователями';
 $Definition['Manage users'] = 'Управляй пользователями';
+$Definition['Manage Users'] = 'Управление пользователями';
 $Definition['Manage your Plugins'] = 'Управление вашими плагинами';
 $Definition['Managing Categories'] = 'Управление категориями';
+$Definition['Manual'] = 'Инструкция';
 $Definition['Max Comment Length'] = 'Максимальное количество символов в отзыве:';
 $Definition['Media'] = 'Загрузка файлов';
 $Definition['Member'] = 'Участник';
 $Definition['Member roles'] = 'Отметить все группы, которые применяются к новым или подтвержденным пользователям.';
+$Definition['Message ID'] = 'ID сообщения';
 $Definition['Messages can appear anywhere in your application.'] = 'Сообщения могут быть отображены в любом месте сайта пользователя.<br>Например, это может быть использовано для информирования о новостях.<br>На этой странице можно управлять ими с помощью перетаскивания.';
 $Definition['Method'] = 'Способ';
 
@@ -333,6 +347,7 @@ $Definition['Notes'] = 'Примечание';
 $Definition['Notify me when people start new discussions.'] = 'Уведомлять <b>о всех новых</b> темах';
 
 $Definition['On'] = 'На';
+$Definition['One, two, three...'] = 'Раз, два, три...';
 $Definition['Only Allow Each User To Post'] = 'Разрешить пользователям создавать не более';
 $Definition['Or Spamblock For'] = 'или заблокировать на';
 $Definition['Organize'] = 'Организуй';
@@ -341,10 +356,9 @@ $Definition['Other Themes'] = 'Другие темы';
 $Definition['Outgoing Email'] = 'Исходящая почта';
 $Definition['Outgoing Email Address'] = 'Исходящий адрес электронной почты';
 
-$Definition['Page'] = 'Страница';
-
 $Definition['page'] = 'страница';
 
+$Definition['Page'] = 'Страница';
 $Definition['Panel Box'] = 'Панель уведомлений';
 $Definition['Password Options'] = 'Настройки пароля';
 $Definition['Pending'] = 'В ожидании';
@@ -400,16 +414,19 @@ $Definition['Send %s a Message'] = 'Отправить %s сообщение';
 $Definition['Send Again'] = 'Повторно отправить';
 $Definition['Send Invitations!'] = 'Послать приглашение!';
 $Definition['Sent To'] = 'Отправить';
+$Definition['Site Description'] = 'Описание сайта';
 $Definition['SMTP Host'] = 'SMTP сервер';
 $Definition['SMTP Password'] = 'SMTP Пароль';
 $Definition['SMTP Port'] = 'SMTP Порт';
 $Definition['SMTP Security'] = 'Протокол безопасности SMTP';
 $Definition['SMTP User'] = 'SMTP Пользователь';
+$Definition['Start Discussions'] = 'Начать обсуждение';
 
 $Definition['starting your first discussion'] = 'иконку';
 
 $Definition['Statistics'] = 'Статистика';
 $Definition['Status'] = 'Статус';
+$Definition['Subject'] = 'Тема';
 
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'Спасибо!';
@@ -420,6 +437,7 @@ $Definition['The banner title appears on the top-left of every page. If a banner
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'Пользователь базы данных, имя которого Вы указали, не имеет достаточных полномочий для доступа к БД. Попробуйте создать новую базу данных. <code>%s</code>';
 $Definition['The following content has been flagged by users for moderator review.'] = 'Контент, который пометили пользователи для проверки модератором.';
 $Definition['The homepage was saved successfully.'] = 'Страница была успешно сохранена.';
+$Definition['The specified url code is already in use by another category.'] = 'Указанный URL код уже используется другой категорией.';
 $Definition['The user and all related content has been deleted.'] = 'Пользователь и вся информация, которая была с ним связана, удалены.';
 $Definition['The user content will be completely deleted.'] = 'Контент пользователя будет полностью удалён';
 $Definition['The user has been deleted.'] = 'Пользователь был удален.';

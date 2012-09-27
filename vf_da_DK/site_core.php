@@ -12,25 +12,57 @@ $Definition['%1$s created an account for %4$s.'] = '%1$s oprettede en konto for 
 $Definition['%1$s joined.'] = '%1$s oprettede sig som bruger.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s nÊvnte %3$s i en %8$s.';
 $Definition['%1$s on %2$s'] = '%1$s pÂ %2$s';
+$Definition['%1$s signed in.'] = '%1$s logget ind.';
+$Definition['%1$s to %2$s'] = '%1$s til %2$s';
+$Definition['%1$s to %2$s of %3$s'] = '%1$s til %2$s ud af %3$s';
+$Definition['%3$s created an account for %1$s.'] = '%3$s oprettede en konto for %1$s.';
+$Definition['%s (Current)'] = '%s (Aktuelt)';
+$Definition['%s Agrees'] = '%s Enig';
 $Definition['%s and you'] = '%s og dig';
 $Definition['%s comment'] = '%s kommentar';
 $Definition['%s comments'] = '%s kommentarer';
 $Definition['%s Connect'] = '%s Forbindelse';
 $Definition['%s discussion'] = '%s diskussion';
+$Definition['%s has been Jailed.'] = '%s er blevet fængslet.';
 $Definition['%s has left this conversation.'] = '4444';
+$Definition['%s Likes'] = '%s Kan lide';
 $Definition['%s message'] = '%s Besked';
-$Definition['%s new'] = '%s ny';
+$Definition['%s messages'] = '%s beskeder';
 $Definition['%s New'] = '%s Ny';
+$Definition['%s new'] = '%s ny';
 $Definition['%s New Plural'] = '%s Ny';
 $Definition['%s new plural'] = '32423';
+$Definition['%s Point'] = '%s Punkt';
+$Definition['%s point'] = '%s punkt';
+$Definition['%s Points'] = '%s Punkter';
+$Definition['%s said'] = '%s sagde';
+$Definition['%s said:'] = '%s sagde:';
+$Definition['%s tag(s) found.'] = '%s tag(s) fundet.';
+$Definition['%s tags in the system'] = '%s tags i systemet';
+$Definition['%s Up Votes'] = '%s Up Stemmer';
+$Definition['%s votes'] = '%s stemmer';
+$Definition['%s was removed from the %s and added to the %s'] = '%s blevslettet fra %s og tilføjet til %s';
+$Definition['%s$1 to %s$2'] = '%s$1 til %s$2';
+$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 til %s$2 fra %s$3';
+
+$Definition['(empty message)'] = '(tom besked)';
+
+$Definition['+%s Guests'] = '+%s Gæst';
 
 $Definition['1 message'] = '1 besked';
 
 $Definition['[%1$s] Membership Approved'] = '[%1$s] Medlemskab godkendt';
+$Definition['[%s] Welcome Aboard!'] = '[%s] Velkommen Aboard!';
+$Definition['[Deleted User]'] = '[Slet Bruger]';
 
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Der skete en fejl med din handling.<br />Serveren kom med f¯lgende respons: %s';
 $Definition['About'] = 'Om';
+$Definition['Abuse'] = 'Misbrug';
+$Definition['Accept'] = 'Godkend';
+$Definition['Accept this answer.'] = 'Godkend svar';
 $Definition['Activate'] = 'Aktiver';
+$Definition['Active'] = 'Aktiver';
+$Definition['Active Users'] = 'Aktiver Bruger';
 $Definition['Activity'] = 'Aktivitet';
 $Definition['Activity.AboutUpdate.FullHeadline'] = '%1$s updaterede %6$s profil.';
 $Definition['Activity.AboutUpdate.ProfileHeadline'] = '%1$s updaterede %6$s profil.';
@@ -70,9 +102,15 @@ $Definition['Activity.SignIn.ProfileHeadline'] = '%1$s loggede pÂ.';
 $Definition['Activity.WallComment.FullHeadline'] = '%1$s skrev pÂ %4$s %5$s.';
 $Definition['Activity.WallComment.ProfileHeadline'] = '%1$s skrev:';
 $Definition['Add'] = 'Tilf¯j';
-$Definition['Add a Comment'] = 'Add Category';
-$Definition['Add a Message'] = 'erdfsdfdfsfs';
+$Definition['Add a Comment'] = 'Tilføj en kommentar';
+$Definition['Add a Message'] = 'Tilføj en besked';
+$Definition['Add a Profile Picture'] = 'Tilføj et profil billede';
+$Definition['Add a Warning'] = 'Tilføj en Advarsel';
+$Definition['Add another poll option ...'] = 'Tilføj en anden afstemning mulighed...';
+$Definition['Add Badge'] = 'Tilføj Badge';
 $Definition['Add Comment'] = 'Tilføj kommentar';
+$Definition['Add Cost'] = 'Tilføj Omkostninger';
+$Definition['Add Image'] = 'Tilføj Billede';
 $Definition['Add Message'] = 'Skriv Besked';
 $Definition['Add People to this Conversation'] = 'Tilf¯j Personer til denne Samtale';
 $Definition['Add Route'] = 'Tilf¯j Rute';
@@ -88,7 +126,13 @@ $Definition['Allow other members to see your email?'] = 'Giv andre medlemmer lov
 $Definition['Announce'] = 'Bekendg¯r';
 $Definition['Announce...'] = 'Meddel...';
 $Definition['Announcement'] = 'Meddelelse';
+
+$Definition['answer'] = 'svar';
+
+$Definition['Answers'] = 'svare';
 $Definition['Applicants'] = 'Ands¯gere';
+$Definition['Apply Changes'] = 'Anvend ændringer';
+$Definition['Apply for membership'] = 'Ansøg om medlemskab';
 $Definition['Apply for Membership'] = 'Registrer';
 $Definition['Are you sure you want to do that?'] = 'Er du sikker pÂ du vil g¯re det?';
 $Definition['Are you sure you wish to continue?'] = 'lfsdlskfjdsl';
@@ -130,10 +174,10 @@ $Definition['Clear'] = 'fsfsdf';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'eejhewjfhewj';
 $Definition['Close'] = 'Luk';
 $Definition['Closed'] = 'Lukket';
-$Definition['Comment'] = 'Kommenter';
 
 $Definition['comment'] = 'kommentar';
 
+$Definition['Comment'] = 'Kommenter';
 $Definition['Comment in'] = 'i';
 $Definition['Comments'] = 'Kommentarer';
 $Definition['Confirm'] = 'BekrÊft';
@@ -520,10 +564,9 @@ $Definition['Write a comment'] = 'Skriv en kommentar';
 $Definition['Write Comment'] = 'Skriv Kommentar';
 $Definition['Write something about yourself...'] = 'Skriv noget om dig selv...';
 
-$Definition['You'] = 'Dig';
-
 $Definition['you'] = 'dig';
 
+$Definition['You'] = 'Dig';
 $Definition['You already have an account here.'] = 'Du har allerede en bruger her.';
 $Definition['You are connected as %s through %s.'] = 'Du er forbindet som %s igennem %s.';
 $Definition['You are currently only viewing categories that you follow.'] = 'gfgfgfd';

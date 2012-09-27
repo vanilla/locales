@@ -342,9 +342,8 @@ $Definition['Email Unavailable'] = 'Email indisponible';
 $Definition['Email visible to other users'] = 'Adresse email visible par les autres utilisateurs.';
 $Definition['Email/Username'] = 'Adresse email / Nom d\'utilisateur';
 $Definition['EmailConfirmEmail'] = 'Vous devez confirmer votre adresse email pour continuer. Merci de cliquer sur ce lien : {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
-$Definition['EmailFooter'] = '
-Très bonne journée !';
-$Definition['EmailHeader'] = 'Bonjour {User.Name}!
+$Definition['EmailFooter'] = 'Passez une bonne journée !';
+$Definition['EmailHeader'] = 'Bonjour {User.Name} !
 ';
 $Definition['EmailInvitation'] = 'Bonjour,
 
@@ -497,7 +496,7 @@ $Definition['her'] = 'son';
 
 $Definition['Hide'] = 'Cacher';
 $Definition['Hide signatures always'] = 'Toujours cacher les signatures';
-$Definition['Hide signatures on my mobile device'] = 'Cacher les signatures sur mon mobile';
+$Definition['Hide signatures on my mobile device'] = 'Masquer les signatures sur mon mobile';
 $Definition['Hide signatures?'] = 'Cacher les signatures? ';
 
 $Definition['his'] = 'son';
@@ -506,7 +505,7 @@ $Definition['Home'] = 'Accueil';
 
 $Definition['hours'] = 'heures';
 
-$Definition['How long do you want this warning to last?'] = 'Durée de l\'avertissement?';
+$Definition['How long do you want this warning to last?'] = 'Durée de l\'avertissement ?';
 $Definition['Howdy, Stranger!'] = 'Bienvenue sur le forum !';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'J\'accepte les <a id="TermsOfService" class="Popup" target="terms" href="%s">conditions d\'utilisation du forum</a>';

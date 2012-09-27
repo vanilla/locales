@@ -7,6 +7,7 @@ $Definition['%s level'] = '%s Ebene';
 $Definition['%s levels'] = '%s Ebenen';
 $Definition['%s of %s'] = '%s von %s';
 $Definition['%s posts'] = '%s Kommentare';
+$Definition['%s Settings'] = '%s Einstellungen';
 $Definition['%s site(s) found.'] = '%s Seite(n) gefunden.';
 $Definition['%s sources(s) found.'] = '%s Quelle(n) gefunden.';
 $Definition['%s times'] = '%s mal';
@@ -361,6 +362,7 @@ $Definition['Force the forum to only be accessible through this url'] = 'Das For
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Das Forum dazu zwingen, über die Remote-URL erreichbar zu sein';
 $Definition['Forum Settings'] = 'Forum';
 $Definition['Frequency'] = 'Häufigkeit';
+$Definition['From'] = 'Von';
 
 $Definition['Garden.Import.Complete.Description'] = 'Du hast den Import erfolgreich abgeschlossen.
    Klicke auf <b>Beenden</b>, wenn du bereit bist.';
@@ -427,6 +429,7 @@ $Definition['Hide  Fields'] = 'Verberge  Felder';
 $Definition['Hide Pocket Locations'] = 'Verberge Pocket-Platzierungen';
 $Definition['Homepage Title'] = 'Homepage Titel';
 $Definition['How to use themes'] = 'Wie benutzt man Themen';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Wenn ein Bannerlogo hochgeladen wird, wird es das Logo ersetzen, das im Forumtitel angezeigt wird.';
 $Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'Wenn du ProxyConnect mit einem offiziell unterstützten Remote-Plugin verwendest, wie bspw. das Wordpress-ProxyConnect-Plugin, sind diese Werte in der Konfigurationsseite jenes Plugins verfügbar.';
@@ -494,8 +497,8 @@ $Definition['Manage Roles & Permissions'] = 'Rollen & Rechte verwalten';
 $Definition['Manage Routes'] = 'Routen verwalten';
 $Definition['Manage Spam'] = 'Spam Einstellungen';
 $Definition['Manage Themes'] = 'Themes verwalten';
-$Definition['Manage users'] = 'Benutzer verwalten';
 $Definition['Manage Users'] = 'Nutzer verwalten';
+$Definition['Manage users'] = 'Benutzer verwalten';
 $Definition['Manage your Plugins'] = 'Verwalte deine Plugins';
 $Definition['Managing Categories'] = 'Verwaltung von Kategorien';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Wenn du Dinge als kein Spam markierst, werden sie wieder im Forum angezeigt.';
@@ -504,6 +507,7 @@ $Definition['Max Comment Length'] = 'Max. Kommentar-Länge';
 $Definition['Media'] = 'Medien';
 $Definition['Member'] = 'Mitglied';
 $Definition['Member roles'] = 'Markiere alle Rollen, die auf neue/bestätigte Nutzer zutreffen.';
+$Definition['Message ID'] = 'Nachrichten ID';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Nachrichten können überall in deiner Anwendung erscheinen und können verwendet werden, um Benutzer über News und Events zu informieren. Benutze diese Seite, um deine Nachrichten per "Drag & Drop" neu anzuordnen.';
 $Definition['Messages can appear anywhere in your application.'] = 'Nachrichten können überall in der Anwendung angezeigt werden, um die Nutzer bspw. über Neuigkeiten zu informieren. Nutze diese Seite, um sie per drag and drop zu verwalten.';
 $Definition['Method'] = 'Methode';
@@ -557,6 +561,7 @@ $Definition['NotifyApplicant'] = 'Benachrichtige mich, wenn sich jemand um eine 
 $Definition['Number of blocked registrations'] = 'Anzahl der blockierten Registrierungen';
 
 $Definition['On'] = 'An';
+$Definition['One, two, three...'] = 'Eins, zwei, drei...';
 $Definition['Only Allow Each User To Post'] = 'Erlaube Nutzern das Erstellen von';
 $Definition['Only display on mobile browsers.'] = 'Nur in mobilen Browsern anzeigen.';
 $Definition['Operation By'] = 'Von';
@@ -569,9 +574,10 @@ $Definition['Other Themes'] = 'Andere Themes';
 $Definition['Other Tutorials'] = 'Andere Tutorials';
 $Definition['Outgoing Email'] = 'Ausgehende E-Mail';
 
+$Definition['Page'] = 'Seite';
+
 $Definition['page'] = 'Seite';
 
-$Definition['Page'] = 'Seite';
 $Definition['Password Options'] = 'Passwort Optionen';
 $Definition['Pending'] = 'Ausstehend';
 $Definition['Permission'] = 'Berechtigung';
@@ -584,6 +590,7 @@ $Definition['PluginHelp'] = 'Plugins erlauben das Hinzufügen von einfachen Funk
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Mit Pockets kannst du freies HTML an verschiedenen Orten in der Anwendung hinzufügen.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Das Pocket wird zwischen jeder Diskussion auf der Hauptdiskussionsliste angezeigt. Da Diskussionen für gewöhnlich in &lt;li&gt;..&lt;/li&gt; Tags eingeschlossen sind, musst du deine Pockets ebenfalls in diese Tags packen.';
 $Definition['Points'] = 'Punkte';
+$Definition['Polls'] = 'Umfragen';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Vermeide Spam im Forum durch das Eingrenzen der Anzahl der Diskussionen und Kommentare, die der Nutzer in einer gegebenen Zeitspanne erstellen kann.';
 $Definition['Proxy Connect'] = 'ProxyConnect';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'ProxyConnect kommt mit verschiedenen vergefertigten <b>Remote Integration Managern</b>. Jeder ist dafür gemacht, den Installationsprozess zu automatisieren. Wenn deine Anwendung in der Liste unten genannt ist, wähle sie jetzt aus. Andernfalls wähle "Manuelle Integration".';
@@ -651,6 +658,7 @@ $Definition['Search for users by name or enter the name of a role to see all use
 
 $Definition['seconds'] = 'Sekunden';
 
+$Definition['Security'] = 'Sicherheit';
 $Definition['Select'] = 'Wähle';
 $Definition['Select a %s'] = 'Wähle eine %s';
 $Definition['Select the file to import'] = 'Wähle die zu importierende Datei';
@@ -674,12 +682,14 @@ $Definition['SMTP Security'] = 'SMTP Sicherheit';
 $Definition['SMTP User'] = 'SMTP Nutzer';
 $Definition['Source'] = 'Quelle';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Nimm dir einen Moment, um dir zu überlegen, wie du deine Seite beschreiben kannst. Ein guter Name und eine treffende Beschreibung kann deine Position in Suchmaschinenrankings beeinflussen.';
+$Definition['Start Discussions'] = 'Diskussionen starten';
 $Definition['Start Import'] = 'Import beginnen';
 
 $Definition['starting your first discussion'] = 'Beginne deine erste Diskussion';
 
 $Definition['Statistics'] = 'Statistiken';
 $Definition['Stop Forum Spam Settings'] = 'Stoppe Forum Spam Einstellungen';
+$Definition['Subject'] = 'Betreff';
 $Definition['Subscriber'] = 'Abonnent';
 $Definition['Success'] = 'Erfolg';
 
@@ -772,6 +782,7 @@ $Definition['This show the plugin on only selected discussion pages'] = 'Dies ze
 $Definition['This theme has additional options.'] = 'Dieses Thema hat zusätzliche Optionen auf der Seite %s.';
 $Definition['This theme has customizable text.'] = 'Dieses Thema hat Text, den du anpassen kannst.';
 $Definition['This will show the panel on every page.'] = 'Dies wird die Seitenleiste auf jeder Seite zeigen.';
+$Definition['To'] = 'An';
 $Definition['To embed your entire Vanilla community forum into your web site, copy and paste this script into the page where you would like the forum to appear.'] = 'Um deine komplette Vanilla-Community in eine andere Webanwendung einzubetten, kopiere bitte dieses Script in deine Webanwendung an der Stelle, an der es erscheinen soll.';
 $Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'Um deine Vanilla-Community in eine andere Webanwendung einzubetten, benutze entweder den "embed code" oder eines der unten genannten Plugins.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Um deine Vanilla-Community in eine andere Webanwendung einzubetten, benutze bitte den folgenden Code.';
@@ -881,6 +892,7 @@ $Definition['You must specify an admin password.'] = 'Du musst ein Adminpasswort
 $Definition['You must specify an admin username.'] = 'Du musst einen Admin-Benutzernamen angeben.';
 $Definition['You need to configure ProxyConnect'] = 'Du musst ProxyConnect konfigurieren.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Deine Anmeldung wird von einem Administrator überprüft. Du wirst per E-Mail benachrichtigt, wenn deine Anmeldung bestätigt wurde.';
+$Definition['Your changes were saved successfully.'] = 'Die Änderungen wurden erfolgreich gespeichert.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Deine Konfigurationsdatei hat nicht die benötigten Berechtigungen. PHP muss Lese- und Schreibrechte für diese Datei besitzen: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = 'Deine Standard-Lokalisierung wird nicht korrekt angezeigt, bis sie unten aktiviert wird. Bitte folgendes aktivieren: %s.';
 $Definition['Your invitations were sent successfully.'] = 'Deine Einladungen wurden erfolgreich versandt.';

@@ -25,8 +25,8 @@ $Definition['%s Awesomes'] = '%s mielest&auml; loistava vastaus';
 $Definition['%s changed %s\'s permissions.'] = '%s muutti j&auml;senen %s oikeuksia.';
 $Definition['%s Comment'] = '%s kommentti';
 $Definition['%s comment'] = '%s viesti';
-$Definition['%s Comments'] = '%s kommenttia';
 $Definition['%s comments'] = '%s viesti&auml; ';
+$Definition['%s Comments'] = '%s kommenttia';
 $Definition['%s deleted this conversation.'] = '%s poisti t&auml;m&auml;n keskustelun.';
 $Definition['%s discussion'] = '%s keskustelu';
 $Definition['%s discussions'] = '%s keskustelua';
@@ -37,21 +37,22 @@ $Definition['%s Likes'] = '%s tykk&auml;yst&auml;';
 $Definition['%s LOLs'] = '%s LOLlia';
 $Definition['%s message'] = '%s viesti&nbsp;|&nbsp;';
 $Definition['%s messages'] = '%s viesti&auml;&nbsp;|&nbsp;';
-$Definition['%s new'] = 'Uusia: %s';
 $Definition['%s New'] = 'Uusia: %s';
+$Definition['%s new'] = 'Uusia: %s';
 $Definition['%s new comment since you last read this.'] = '%s uusi kommentti viime lukukerran j&auml;lkeen.';
 $Definition['%s new comments since you last read this.'] = '%s uutta kommenttia viime lukukerran j&auml;lkeen.';
-$Definition['%s new plural'] = '%s uusi';
 $Definition['%s New Plural'] = '%s Uutta';
+$Definition['%s new plural'] = '%s uusi';
 $Definition['%s Not Found'] = '%s ei l&ouml;ytynyt';
-$Definition['%s point'] = '%s piste';
 $Definition['%s Point'] = '%s piste';
-$Definition['%s points'] = '%s pistett&auml;';
+$Definition['%s point'] = '%s piste';
 $Definition['%s Points'] = '%s pistett&auml;';
+$Definition['%s points'] = '%s pistett&auml;';
 $Definition['%s said'] = '%s kirjoitti';
 $Definition['%s said:'] = '%s kirjoitti:';
 $Definition['%s tag(s) found.'] = '%s tagia l&ouml;ytyi.';
 $Definition['%s tags in the system'] = '%s tagia j&auml;rjestelm&auml;ss&auml;';
+$Definition['%s Up Votes'] = '%s &auml;&auml;ntä yl&ouml;s';
 $Definition['%s view'] = '%s lukukerta';
 $Definition['%s views'] = '%s lukukertaa';
 $Definition['%s votes'] = '%s &auml;&auml;nt&auml;';
@@ -235,10 +236,10 @@ $Definition['Child Categories:'] = 'Alakategoriat:';
 $Definition['Choose a name to identify yourself on the site.'] = 'Valitse k&auml;ytt&auml;j&auml;tunnus itsellesi sivustolla.';
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'Valitse keskustelu, johon kaikki kommentit yhdistet&auml;&auml;n: ';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'Valitse haluatko l&auml;hett&auml;&auml; kysymyksen vaiko aloittaa uuden keskustelun';
-$Definition['Clear'] = 'Tyhjenn&auml;';
 
 $Definition['clear'] = 'tyhjenn&auml;';
 
+$Definition['Clear'] = 'Tyhjenn&auml;';
 $Definition['Clear Conversation History'] = 'Tyhjenn&auml; keskusteluhistoria';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'Klikkaa <a href="%s">t&auml;st&auml;</a> siirty&auml;ksesi takaisin keskusteluun.';
 $Definition['Click accept or reject beside an answer.'] = 'Klikkaa hyv&auml;ksy tai hylk&auml;&auml; vastauksen yhteydess&auml;.';
@@ -250,10 +251,10 @@ $Definition['Close'] = 'Sulje';
 $Definition['Close this discussion'] = 'Sulje t&auml;m&auml; keskustelu';
 $Definition['Closed'] = 'Suljettu';
 $Definition['Combo Breaker'] = 'Yhdistelm&auml;';
-$Definition['Comment'] = 'Kommentoi';
 
 $Definition['comment'] = 'kommentti';
 
+$Definition['Comment'] = 'Kommentoi';
 $Definition['Comment As ...'] = 'Kommentoi tunnuksella...';
 $Definition['Comment by %s'] = 'Kommentoijana %s';
 $Definition['Commenting not allowed.'] = 'Kommentointi on pois k&auml;yt&ouml;st&auml;.';
@@ -410,8 +411,8 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lue koko juttu t&auml;&auml;lt&auml;</a></p><div class="ClearFix"></div></div>';
 $Definition['English'] = 'Englanti';
-$Definition['Enter your Email address'] = 'Anna s&auml;hk&ouml;postiosoitteesi';
 $Definition['Enter your email address'] = 'Anna s&auml;hk&ouml;postiosoitteesi';
+$Definition['Enter your Email address'] = 'Anna s&auml;hk&ouml;postiosoitteesi';
 $Definition['Enter your Email address or username'] = 'Anna s&auml;hk&ouml;postiosoitteesi tai tunnuksesi';
 $Definition['Enter Your OpenID Url'] = 'Anna OpenID -url';
 $Definition['Erase User Content'] = 'Tyhjenn&auml; k&auml;ytt&auml;j&auml;n sis&auml;lt&ouml;';
@@ -451,8 +452,8 @@ $Definition['Forgot your password?'] = 'Salasana unohtunut?';
 $Definition['Forgot?'] = '<br /><small>Salasana unohtunut?</small>';
 $Definition['Format his'] = 'oman';
 $Definition['Format their'] = 'heid&auml;n';
-$Definition['Format You'] = 'Sin&auml;';
 $Definition['Format you'] = 'sin&auml;';
+$Definition['Format You'] = 'Sin&auml;';
 $Definition['Format Your'] = 'Sinun';
 $Definition['Fourth Anniversary'] = 'Nelj&auml;s vuosip&auml;iv&auml;';
 $Definition['Friends'] = 'Kaverit';
@@ -538,6 +539,7 @@ $Definition['Last Active'] = 'Viimeksi';
 $Definition['Last IP'] = 'Viimeisin IP';
 $Definition['Latest %1$s'] = 'Uusin %1$s';
 $Definition['Latest Post'] = 'Uusin viesti';
+$Definition['Leaders'] = 'Johtajat';
 $Definition['Leave a comment'] = 'Kommentoi';
 $Definition['Leave a Comment'] = 'Vastaa';
 $Definition['Leave blank unless connecting to an exising account.'] = 'J&auml;t&auml; tyhj&auml;ksi jos et halua yhdist&auml;&auml; olemassaolevaan k&auml;ytt&auml;j&auml;tiliin.';
@@ -562,18 +564,20 @@ $Definition['Merge Discussions'] = 'Yhdist&auml; keskustelut';
 $Definition['Message'] = 'Viesti';
 
 $Definition['message'] = 'viestin';
+$Definition['messages'] = 'viestit';
 
 $Definition['Messages'] = 'Yll&auml;pidon viestit';
 
-$Definition['messages'] = 'viestit';
 $Definition['minutes'] = 'minuuttia';
 
 $Definition['Moderation'] = 'Moderointi';
 $Definition['Moderation Queue'] = 'Moderoinnin jono';
 $Definition['Moderator Activity'] = 'Moderaattorien loki';
-$Definition['Moderators'] = 'Moderaattorit';
 
 $Definition['moderators'] = 'moderaattorit';
+
+$Definition['Moderators'] = 'Moderaattorit';
+
 $Definition['months'] = 'kuukautta';
 
 $Definition['More'] = 'Lis&auml;&auml;';
@@ -597,10 +601,10 @@ $Definition['Name'] = 'Nimi';
 $Definition['Name Dropper'] = 'Nimien mainitsija';
 $Definition['Name Unavailable'] = 'Nimi ei saatavilla ';
 $Definition['New Conversation'] = 'Uusi viesti';
+$Definition['New Discussion'] = 'Aloita uusi keskustelu';
 
 $Definition['new discussion'] = 'uusi';
 
-$Definition['New Discussion'] = 'Aloita uusi keskustelu';
 $Definition['New Message'] = 'Uusi viesti';
 $Definition['New Password'] = 'Uusi salasana';
 $Definition['New Poll'] = 'Uusi kysely';
@@ -624,6 +628,7 @@ $Definition['Notifications'] = 'Ilmoitukset';
 $Definition['Notifictions'] = 'Huomatukset';
 $Definition['Notify'] = 'Ilmoitus';
 $Definition['Notify me of private messages.'] = 'L&auml;het&auml; ilmoitus privaviesteist&auml;.';
+$Definition['Notify me when a badge is requested.'] = 'Ilmoita kunniamerkkipyynn&ouml;st&auml;';
 $Definition['Notify me when I am added to private conversations.'] = 'L&auml;het&auml; ilmoitus kun minut lis&auml;t&auml;&auml;n mukaan privaviestiin uudeksi vastaanottajaksi.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'L&auml;het&auml; ilmoitus kun suosikkeihin asettamiini keskusteluihin tulee uusi vastaus.';
 $Definition['Notify me when people comment on my discussions.'] = 'L&auml;het&auml; ilmoitus kun aloittamaani keskusteluun tulee uusi vastaus.';
@@ -663,10 +668,10 @@ Someone has requested to reset your password at %2$s. To reset your password, fo
 
 If you did not make this request, disregard this email.';
 $Definition['Passwords don\'t match'] = 'Salasanat eiv&auml;t t&auml;sm&auml;&auml;';
-$Definition['Permalink'] = 'Kestolinkki';
 
 $Definition['permalink'] = '&nbsp;|&nbsp;kestolinkki';
 
+$Definition['Permalink'] = 'Kestolinkki';
 $Definition['Permanent (301)'] = 'Pysyv&auml; (301)';
 $Definition['PermissionErrorMessage'] = 'Sinulla ei ole oikeuksia valittuun toimintoon.';
 $Definition['PermissionErrorTitle'] = 'Ongelma k&auml;ytt&auml;j&auml;oikeuksissa';
@@ -716,10 +721,10 @@ $Definition['Q&A Options'] = 'Q&A asetukset';
 $Definition['Q&A Question'] = 'Kysymys';
 $Definition['QnA Accepted Answer'] = 'Vastaus ✓';
 $Definition['QnA Rejected Answer'] = 'Hyl&auml;tty vastaus';
+$Definition['Question'] = 'Kysymys';
 
 $Definition['question'] = 'kysymys';
 
-$Definition['Question'] = 'Kysymys';
 $Definition['Question Title'] = 'Kysymyksen otsikko';
 $Definition['Quote'] = 'Lainaus';
 $Definition['Quote Folding'] = 'Lainausten ketjutus';
@@ -817,10 +822,10 @@ $Definition['Sign In with Facebook'] = 'Kirjaudu Facebook -tunnuksellasi';
 $Definition['Sign In with Google'] = 'Kirjaudu Google -tunnuksella';
 $Definition['Sign In with OpenID'] = 'Kirjaudu OpenID -tunnuksella';
 $Definition['Sign In with Twitter'] = 'Kirjaudu Twitter -tunnuksella';
+$Definition['Sign Out'] = 'Kirjaudu ulos';
 
 $Definition['sign out'] = 'Kirjaudu ulos';
 
-$Definition['Sign Out'] = 'Kirjaudu ulos';
 $Definition['Sign Up'] = 'Kirjaudu';
 $Definition['Sign-In URL'] = 'Sis&auml;&auml;nkirjautumisen URL';
 $Definition['Sign-Out URL'] = 'Uloskirjautumisen URL';
@@ -848,6 +853,7 @@ $Definition['Spam Queue'] = 'Roskaviestien moderointijono';
 $Definition['Split'] = 'Jaa osiin';
 $Definition['Split Comments'] = 'Jaa kommentit osiin';
 $Definition['Spoiler'] = 'Spoileri';
+$Definition['Spoof User'] = 'Testik&auml;ytt&auml;j&auml;';
 $Definition['Start'] = 'Aloita';
 $Definition['Start a New Conversation'] = 'L&auml;het&auml; uusi viesti';
 $Definition['Start a New Discussion'] = 'Aloita uusi keskustelu';
@@ -863,6 +869,7 @@ $Definition['Suggested Value'] = 'Ehdotettu arvo';
 $Definition['Tag Name'] = 'Tagin nimi';
 $Definition['Tagged'] = 'Tagit';
 $Definition['Tagged with '] = 'Tagit:  ';
+$Definition['Tagged with "%s"'] = 'Tagi "%s"';
 $Definition['Tagging'] = 'Taggaaminen';
 $Definition['Tags'] = 'Tagit';
 $Definition['Tags are keywords that users can assign to discussions to help categorize their question with similar questions.'] = 'Tagit ovat avainsanoja joita k&auml;ytt&auml;j&auml;t voivat lis&auml;t&auml; keskusteluihin helpottaakseen niiden l&ouml;ydett&auml;vyytt&auml; ja luokittelua vastaavien keskustelujen kanssa. ';
@@ -904,6 +911,7 @@ $Definition['The file failed to upload.'] = 'Tiedoston siirto ep&auml;onnistui.'
 $Definition['The name you entered is already in use by another member.'] = 'K&auml;ytt&auml;j&auml;tunnus jonka annoit, on jo rekister&ouml;ityn&auml; palstan j&auml;senelle.';
 $Definition['The page you were looking for could not be found.'] = 'Etsim&auml;&auml;si sivua ei l&ouml;ytynyt.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'ReCAPTCHA-kent&auml;n arvo oli v&auml;&auml;rin. Yrit&auml; uudestaan.';
+$Definition['The response was not in the correct format.'] = 'Vastaus annettiin v&auml;&auml;r&auml;ss&auml; muodossa';
 $Definition['The site is currently undergoing maintenance.'] = 'Sivusto on t&auml;ll&auml; hetkell&auml; huoltotilassa.';
 $Definition['The uploaded file was too big (max %s).'] = 'Tiedosto jota yritettiin ladata, on liian suuri (max %s).';
 
@@ -914,10 +922,14 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['There was an error connecting to Disqus'] = 'Disqusiin yhdist&auml;minen ep&auml;onnistui';
 $Definition['There was an error connecting to Facebook'] = 'Facebookiin yhdist&auml;minen ep&auml;onnistui';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Tiedoston siirto ep&auml;onnistui. Todenn&auml;k&ouml;isin syy siihen on tiedoston liian suuri koko.';
+
+$Definition['they'] = 'he';
+
 $Definition['Third Anniversary'] = 'Kolmas vuosip&auml;iv&auml;';
 $Definition['This answer was %s.'] = 'T&auml;m&auml; vastaus on %s.';
 $Definition['This answer was Accepted.'] = 'Vastaus hyv&auml;ksyttiin.';
 $Definition['This discussion has been closed.'] = 'T&auml;m&auml; keskustelu on suljettu.';
+$Definition['This discussion is related to an undefined foriegn content source.'] = 'T&auml;m&auml; keskustelu liittyy m&auml;&auml;rittelem&auml;tt&ouml;m&auml;&auml;n vieraaseen keskustelusis&auml;lt&ouml;&ouml;n';
 $Definition['This discussion was created from comments split from: %s.'] = 'T&auml;m&auml; uusi keskustelu luotiin viesteist&auml; jotka l&auml;hetettiin alkujaan aiheeseen %s.';
 $Definition['This discussion was merged into %s'] = 'Keskustelu yhdistettiin aiheeseen %s';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Kuva on pienenetty automaattisesti. Klikkaa kuvaa n&auml;hd&auml;ksesi sen suuremmassa koossa.';
@@ -1022,11 +1034,17 @@ $Definition['wall'] = 'sein&auml;';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'Haluatko osallistua n&auml;ihin keskusteluihin? Klikkaa yht&auml; n&auml;ist&auml;:';
 $Definition['Warn'] = 'Varoita';
 $Definition['Warnings'] = 'Varoitukset';
+
+$Definition['was'] = 'oli';
+
 $Definition['Website'] = 'Kotisivu';
 
 $Definition['weeks'] = 'viikkoa';
 
 $Definition['Welcome Aboard!'] = 'Tervetuloa mukaan!';
+
+$Definition['were'] = 'olivat';
+
 $Definition['Where do you want to announce this discussion?'] = 'Mihin haluat nostaa t&auml;m&auml;n keskustelun huomioitaviin?';
 $Definition['Who\'s Online'] = 'Paikalla on';
 $Definition['Whos Online'] = 'Paikalla ovat';
@@ -1051,6 +1069,7 @@ $Definition['You can either ask a question or start a discussion.'] = 'Voit joko
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Seurannassa';
 $Definition['You can only specify up to %s tags.'] = 'Voit m&auml;ritell&auml; %s tagia.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Pikkukuvaa ei voi muokata kun se on linkitettyn&auml; toisesta verkkosijainnista suoraan.';
+$Definition['You do not have any %s yet.'] = 'Sinulla ei ole viel&auml; yht&auml;&auml;n %s.';
 $Definition['You do not have any bookmarks.'] = 'Sinulla ei ole suosikkeihin asettamiasi aiheita.';
 $Definition['You do not have any conversations.'] = 'Et ole viel&auml; aloittanut yht&auml;&auml;n uutta keskustelua.';
 $Definition['You do not have any drafts.'] = 'Sinulla ei ole tallennettuja luonnoksia.';
