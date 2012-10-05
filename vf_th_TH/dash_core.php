@@ -1,16 +1,30 @@
 <?php
 
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" ไม่พบ';
+$Definition['%1$s Version %2$s'] = '%1$s รุ่น %2$s';
+$Definition['%s of %s'] = '%s ของ %s';
+$Definition['%s Settings'] = '%s ตั้งค่า';
 $Definition['%s user(s) found.'] = 'พบ %s คน.';
 
+$Definition['(YYYY-mm-dd)'] = '(ปี-เดือน-วัน)';
+
+$Definition['Abilites'] = 'ความสามารถ';
+$Definition['Add %s'] = 'เพิ่ม %s';
 $Definition['Add Category'] = 'เพิ่มหมวดหมู่';
+$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'เพิ่มข้อมูลอีเมล์ของคุณเพื่อช่วยในการตอบกลับ(แนะนำ)';
 $Definition['Add Role'] = 'เพิ่มยศ';
 $Definition['Add User'] = 'เพิ่มผู้ใช้';
 $Definition['Advanced'] = 'ขั้นสูง';
+$Definition['AdvancedNotifications'] = 'การแจ้งเตือนขั้นสูง';
 $Definition['All'] = 'ทั้งหมด';
+$Definition['All %1$s'] = 'ทั้งหมด %1$s';
+$Definition['Allow new users to be registered through email.'] = 'อนุญาตให้ผู้ใช้รายใหม่จะต้องลงทะเบียนผ่านทางอีเมล';
 $Definition['Allow users to dismiss this message'] = 'อนุญาติให้ผู้ใช้ดำเนินการกับข้อความนี้';
 $Definition['Appearance'] = 'ปรับแต่งหน้าตา';
 $Definition['Application'] = 'แอปพลิเคชั่น';
 $Definition['Applications'] = 'แอปพริเคชั่น';
+$Definition['Applied by Administrator'] = 'นำมาประยุกต์ใช้โดยผู้ดูแล';
+$Definition['Applied Manually'] = 'การประยุกต์ใช้';
 $Definition['Apply'] = 'ใช้งาน';
 $Definition['Authentication'] = 'การรับรอง';
 
@@ -20,6 +34,10 @@ $Definition['Banner Logo'] = 'โลโก้แบนเนอร์';
 $Definition['Banner Title'] = 'ไตเติ้ล';
 $Definition['Below Sidebar'] = 'อยู่ด้านล่างแถบด้านข้าง';
 
+$Definition['by %s'] = 'โดย %s';
+
+$Definition['By %s'] = 'โดย %s';
+
 $Definition['Category Page Layout'] = 'เค้าโครงหมวดหมู่';
 
 $Definition['comment(s)'] = 'ความคิดเห็น';
@@ -27,29 +45,36 @@ $Definition['comment(s)'] = 'ความคิดเห็น';
 $Definition['Comments per Page'] = 'จำนวนความคิดเห็นแต่ละหน้า';
 $Definition['Current Theme'] = 'ธีมปัจจุบัน';
 
+$Definition['default'] = 'ค่าเริ่มต้น';
+
 $Definition['Description'] = 'คำอธิบาย';
 $Definition['Did You Know?'] = 'คุณรู้หรือไม่?';
 $Definition['Disabled'] = 'ปิดใช้งาน';
+$Definition['Disabled %1$s'] = 'ปิดใช้งาน %1$s';
 $Definition['Discussion & Comment Editing'] = 'แก้ไข กระทู้ & ความคิดเห็น';
 
 $Definition['discussion(s)'] = 'กระทู้';
 
 $Definition['Discussions per Page'] = 'จำนวนกระทู้แต่ละหน้า';
 $Definition['Display root categories as headings.'] = 'แสดง root categories เป็นส่วนหัว.';
-$Definition['Do not display the categories in the side panel.'] = 'ไม่แสดงหมวดหมู่ไว้ด้านข้าง';
 $Definition['Don\'t use Categories'] = 'ไม่ใช้หมวดหมู่';
+$Definition['Do not display the categories in the side panel.'] = 'ไม่แสดงหมวดหมู่ไว้ด้านข้าง';
 
+$Definition['Edit %s'] = 'แก้ไข %s';
 $Definition['Edit Role'] = 'แก้ไขยศ';
 $Definition['Edit User'] = 'แก้ไขผู้ใช้งาน';
-$Definition['Enable this message'] = 'เปิดใช้งานข้อความนี้';
 $Definition['Enabled'] = 'เปิดใช้งาน';
+$Definition['Enabled %1$s'] = 'เปิดการใช้งาน %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = 'เปิดใช้งาน';
+$Definition['Enable this message'] = 'เปิดใช้งานข้อความนี้';
 
 $Definition['First Visit'] = 'เยี่ยมชมครั้งแรก';
 
 $Definition['Get More Applications'] = 'ดาวโหลดแอปพลิเคชั่นอื่น';
 $Definition['Get More Plugins'] = 'ดาวโหลดปลั๊กอินอื่น';
 $Definition['Get More Themes'] = 'ดาวโหลดธีมอื่นๆ';
+
+$Definition['give'] = 'ให้';
 
 $Definition['Homepage'] = 'หน้าแรก';
 
@@ -72,9 +97,10 @@ $Definition['minute(s)'] = 'นาที';
 
 $Definition['Need More Help?'] = 'ต้องการความช่วยเหลือเพิ่มเติม?';
 
+$Definition['On'] = 'เปิด';
 $Definition['Only Allow Each User To Post'] = 'อนุญาตให้ผู้ใช้แต่ละครโพสต์ได้';
-$Definition['Or Spamblock For'] = 'บล็อกสแปม';
 $Definition['Organize Categories'] = 'จัดหมวดหมู่';
+$Definition['Or Spamblock For'] = 'บล็อกสแปม';
 $Definition['Other Themes'] = 'ธีมอื่นๆ';
 $Definition['Outgoing Email'] = 'อีเมล์ระบบ';
 
@@ -82,11 +108,15 @@ $Definition['Page'] = 'หน้า';
 $Definition['Permission.Category'] = 'หมวดหมู่';
 $Definition['Plugin'] = 'ปลั๊กอิน';
 $Definition['Plugins'] = 'ปลั๊กอิน';
+$Definition['Polls'] = 'โพลล์';
 
+$Definition['Ranks'] = 'ระดับ';
 $Definition['Recent News'] = 'ข่าวล่าสุด';
 $Definition['Refresh Comments'] = 'รีเฟซความคิดเห็น';
 $Definition['Registration'] = 'การลงทะเบียน';
+$Definition['Reply  To'] = 'ตอบกลับ';
 $Definition['Reset password and send email notification to user'] = 'รีเซ็ตรหัสผ่านและส่งการแจ้งเตือนอีเมลไปยังผู้ใช้';
+$Definition['Reveal Password'] = 'แสดงรหัสผ่าน';
 $Definition['Role Name'] = 'ชื่อยศ';
 $Definition['Roles & Permissions'] = 'ยศ & การอนุญาต';
 
@@ -94,14 +124,29 @@ $Definition['SaveLocalePack'] = 'บันทึก';
 
 $Definition['seconds'] = 'วินาที';
 
+$Definition['Security'] = 'ความปลอดภัย';
+$Definition['Start Discussions'] = 'เริ่มหัวข้อ';
+$Definition['Subject'] = 'เรื่อง';
+
+$Definition['take away'] = 'ย้าย';
+
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['The banner logo appears at the top of your forum.'] = 'โลโก้แบนเนอร์จะปรากฎด้านบนของฟอรั่มของคุณ';
 $Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'ชื่อไตเติ้ลจะปรากฎอยู่ด้านซ้ายของทุกหน้า, ถ้าอัพโหลดโลโก้แบนเนอร์ โลโก้แบนเนอร์ก็จะมาแทนที่ตรงนั้น';
 $Definition['ThemeHelp'] = 'ช่วยเหลือธีม';
 $Definition['Themes'] = 'ธีม';
+$Definition['The specified url code is already in use by another category.'] = 'โค๊ดที่อยู่ถูกใช้งานแล้วโดยประเภทอื่น';
+$Definition['This connection is in test-mode.'] = 'การเชื่อมต่อนี้อยู่ในโหมดการทดสอบ';
+$Definition['Titles'] = 'ชื่อเรื่อง';
+$Definition['To'] = 'ถึง';
 
 $Definition['User Count'] = 'ผู้ใช้งาน';
 $Definition['User Registration Settings'] = 'ตั้งค่าการลงทะเบียน';
 $Definition['Users'] = 'ผู้ใช้งาน';
 
 $Definition['Within'] = 'ในช่วง';
+
+$Definition['You must manually apply this rank.'] = 'คุณต้องใช้ตำแหน่งนี้';
+$Definition['Your changes were saved successfully.'] = 'การเปลี่ยนแปลงประสบความสำเร็จ';
+
+$Definition['[%s] Invitation'] = '[%s] เชิญเพื่อน';

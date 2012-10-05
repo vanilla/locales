@@ -8,14 +8,12 @@ $Definition['%s comment'] = '%s မှတ်ချက်';
 $Definition['%s comments'] = '%s မှတ်ချက်များ';
 $Definition['%s Connect'] = '%s ချိတ်ဆက်သည်';
 $Definition['%s message'] = '%s စာ';
-$Definition['%s new'] = '%s ခု အသစ်';
 $Definition['%s New'] = '%s ခု အသစ်';
+$Definition['%s new'] = '%s ခု အသစ်';
 $Definition['%s new plural'] = '%s ခု အသစ်';
 $Definition['%s New Plural'] = '%s ခု အသစ်';
 
 $Definition['1 message'] = 'စာ ၁ စောင် ရှိ';
-
-$Definition['[%1$s] Membership Approved'] = '[%1$s] အဖွဲ့ဝင်အဖြစ် အသိအမှတ်ပြုသည်။';
 
 $Definition['About'] = 'အချက်အလက်';
 $Definition['Activity'] = 'လှုပ်ရှားမှု';
@@ -101,8 +99,8 @@ $Definition['Delete'] = 'ဖျက်သည်';
 $Definition['Delete Account'] = 'Account ဖျက်သည်';
 $Definition['Delete Conversation'] = 'ယခု သီးသန့်စာကို ဖျက်ရန်';
 $Definition['Delete Discussion'] = 'ဆွေးနွေးချက်ကို ဖျက်ရန်';
-$Definition['Discussion Title'] = 'ဆွေးနွေးသည့် ခေါင်းစဉ်';
 $Definition['Discussions'] = 'ဆွေးနွေးချက်များ';
+$Definition['Discussion Title'] = 'ဆွေးနွေးသည့် ခေါင်းစဉ်';
 $Definition['Don\'t have an account? %s'] = 'Account မရှိဘူးလား ? %s';
 
 $Definition['Edit'] = 'ပြင်ရန်';
@@ -110,8 +108,6 @@ $Definition['Edit Account'] = 'Account ပြင်ရန်';
 $Definition['Edit My Account'] = 'ကျွနု်ပ် Account ပြင်ရန်';
 $Definition['Edit My Thumbnail'] = 'ရုပ်ပုံပြင်ဆင်ရန်';
 $Definition['Edit Preferences'] = 'စိတ်ကြိုက်ပြင်ဆင်ရန်';
-$Definition['Email Notifications'] = 'Email ဖြင့် အကြောင်းကြားခြင်း';
-$Definition['Email Unavailable'] = 'email အသုံးပြုလို့ မရပါ';
 $Definition['EmailInvitation'] = 'Hello!
 
 %1$s has invited you to join %2$s. If you want to join, you can do so by clicking this link:
@@ -126,6 +122,7 @@ You have been approved for membership. Sign in now at the following link:
   %2$s
   
 Have a great day!';
+$Definition['Email Notifications'] = 'Email ဖြင့် အကြောင်းကြားခြင်း';
 $Definition['EmailPassword'] = 'Hello %1$s,
 
 %2$s has reset your password at %3$s. Your login credentials are now:
@@ -135,6 +132,7 @@ $Definition['EmailPassword'] = 'Hello %1$s,
   Url: %4$s
 
 Have a great day!';
+$Definition['Email Unavailable'] = 'email အသုံးပြုလို့ မရပါ';
 $Definition['EmailWelcome'] = 'Hello %1$s,
 
 %2$s has created an account for you at %3$s. Your login credentials are:
@@ -182,11 +180,11 @@ $Definition['his'] = 'သူ၏';
 
 $Definition['Howdy, Stranger!'] = 'မင်္ဂလာပါ!';
 
-$Definition['In this Conversation'] = 'ဒီ သီးသန့်စာထဲတွင်';
 $Definition['Inbox'] = 'စာတိုက်';
+$Definition['In this Conversation'] = 'ဒီ သီးသန့်စာထဲတွင်';
 $Definition['InviteErrorPermission'] = 'သင့်အား ဝင်ခွင့်မပြုပေ';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ကြိုဆိုပါတယ်။ အခုမှ ပထမဆုံး အကြိမ် ရောက်ဖူးတာလား ? ဝင်ရောက် ဆွေးနွေး မေးမြန်းလိုလျှင် အောက်မှာ ရှိတဲ့ button တွေကနေ တဆင့် ဝင်ရောက် ဆွေးနွေးနိုင်သလို အဖွဲ့ ဝင် အသစ်အနေနဲ့လည်း လျှောက်ထားနိုင်ပါတယ်။ ';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ကြိုဆိုပါတယ်။ အခုမှ ပထမဆုံး အကြိမ် ရောက်ဖူးတာလား ? ဝင်ရောက် ဆွေးနွေး မေးမြန်းလိုလျှင် အောက်မှာ ရှိတဲ့ button တွေကနေ တဆင့် ဝင်ရောက် ဆွေးနွေးနိုင်သလို အဖွဲ့ ဝင် အသစ်အနေနဲ့လည်း လျှောက်ထားနိုင်ပါတယ်။ ';
 
 $Definition['Joined'] = 'စသည့် နေ့';
 
@@ -251,11 +249,11 @@ $Definition['Save Draft'] = 'စာကြမ်း သိမ်းရန်';
 $Definition['Send Message'] = 'စာပို့ရန်';
 $Definition['Share'] = 'မျှဝေသည်';
 $Definition['Sign In'] = 'ဝင်ရန်';
+$Definition['SignIn'] = 'ဝင်ရန်';
 $Definition['Sign In with Google'] = 'Google ဖြင့် ဝင်ရန်';
 $Definition['Sign In with OpenID'] = 'OpenID ဖြင့် ဝင်ရန်';
 $Definition['Sign In with Twitter'] = 'Twitter ဖြင့်ဝင်ရန်';
 $Definition['Sign Out'] = 'ထွက်မည်';
-$Definition['SignIn'] = 'ဝင်ရန်';
 $Definition['Start a New Conversation'] = 'သီးသန့်စာ အသစ် ရေးရန်';
 $Definition['Start a New Discussion'] = 'မေးမြန်း ၊ ဆွေးနွေး မှုစတင်ရန်';
 
@@ -301,3 +299,5 @@ $Definition['You'] = 'သင်';
 $Definition['you'] = 'သင်';
 
 $Definition['You already have an account here.'] = 'သင်၏ ​အကောင့် ရှိပြီးသားဖြစ်သည်';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] အဖွဲ့ဝင်အဖြစ် အသိအမှတ်ပြုသည်။';

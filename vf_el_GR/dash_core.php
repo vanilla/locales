@@ -4,8 +4,6 @@ $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" δε βρέθηκαν.';
 $Definition['%s of %s'] = '%s από %s';
 $Definition['%s Settings'] = '%s Ρυθμίσεις';
 
-$Definition['[%s] Invitation'] = '[%s] Πρόσκληση';
-
 $Definition['Abilites'] = 'Δυνατότητες';
 $Definition['Accepted'] = 'Αποδεκτό';
 $Definition['Add %s'] = 'Προσθήκη %s';
@@ -75,6 +73,7 @@ $Definition['The specified url code is already in use by another category.'] = '
 
 $Definition['Uninvite'] = 'Ακύρωση Πρόσκλησης';
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Χρησιμοποίησε αυτά τα πεδία για να δημιουργήσεις τις πληροφορίες στο προφίλ πελάτη.  Μπορείς να προσθέσεις πεδία όπως «Προσωπική κατάσταση», «Skype ID», «Αγαπημένος Δεινόσαυρος», κτλ.  Γίνεται δημιουργικοί!';
+$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Χρησιμοποίησε αυτά τα πεδία για να δημιουργήσεις επιπλέον πληροφορίες στο προφίλ πελάτη.  Μπορείς να προσθέσεις πεδία όπως «Προσωπική κατάσταση», «Skype ID», «Αγαπημένος Δεινόσαυρος», κτλ.  Γίνεται δημιουργικοί!';
 
 $Definition['Why do you want to join?'] = 'Γιατί θες να γίνεις μέλος?';
 
@@ -83,3 +82,5 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Η αίτηση σου θα εξεταστεί από τον διαχειριστή του συστήματος. Θα ενημερωθείς μέσω email, αν η αίτηση σου εγκριθεί.';
+
+$Definition['[%s] Invitation'] = '[%s] Πρόσκληση';

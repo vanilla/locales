@@ -8,8 +8,8 @@ $Definition['%1$s joined.'] = '%1$s registrerte seg.';
 $Definition['%1$s signed in.'] = '%1$s logget inn.';
 $Definition['%1$s updated %6$s profile.'] = '%1$s oppdaterte profilen til %6$s.';
 $Definition['%1$s was added to the %2$s %3$s.'] = '%1$s ble lagt til %2$s sin %3$s  .';
-$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s ble fjernet fra %2$s %3$s og lagt til %4$s %5$s.';
 $Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s ble fjernet fra %2$s sin %3$s  .';
+$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s ble fjernet fra %2$s %3$s og lagt til %4$s %5$s.';
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s skrev på %5$s %4$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s validerte medlemskap for %2$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s laget konto for %1$s.';
@@ -21,9 +21,6 @@ $Definition['%s messages'] = '%s meldinger';
 $Definition['%s new'] = '%s ny';
 $Definition['%s new plural'] = '%s ny';
 
-$Definition['[%s] Welcome Aboard!'] = '[%s] Velkommen til forumet!';
-
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'En fatal feil har skjedd mens forumet prøvde å gjennomføre forespørselen.<br />Serveren ga følgende respons før den begikk seppuku - %s';
 $Definition['About'] = 'Info';
 $Definition['Activity'] = 'Aktivitet';
 $Definition['Activity.Comment'] = 'Kommentar';
@@ -35,6 +32,7 @@ $Definition['Add'] = 'Legg til';
 $Definition['Add Comment'] = 'Legg til kommentar';
 $Definition['Add Message'] = 'Legg til melding';
 $Definition['Add People to this Conversation'] = 'Legg til personer i denne samtalen';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'En fatal feil har skjedd mens forumet prøvde å gjennomføre forespørselen.<br />Serveren ga følgende respons før den begikk seppuku - %s';
 $Definition['All Categories'] = 'Alle Kategorier';
 $Definition['All Conversations'] = 'Alle samtaler';
 $Definition['All Discussions'] = 'Alle diskusjoner';
@@ -42,9 +40,9 @@ $Definition['Allow'] = 'Godta';
 $Definition['Allow other members to see your email?'] = 'Tillat andre brukere å se min e-post adresse?';
 $Definition['An invitation has already been sent to the email you entered.'] = 'En invitasjon har allerede blitt sendt til denne e-post adressen.';
 $Definition['Announce'] = 'Kunngjør';
-$Definition['Announce this discussion'] = 'Kunngjør diskusjon';
 $Definition['Announcement'] = 'Annonsering';
 $Definition['Announcements'] = 'Annonseringer';
+$Definition['Announce this discussion'] = 'Kunngjør diskusjon';
 $Definition['Apply for Membership'] = 'Registrer deg';
 $Definition['Apply for membership'] = 'Registrer deg';
 $Definition['Are you sure you want to do that?'] = 'Sikker på dette?';
@@ -64,8 +62,8 @@ $Definition['CategoriesViewingAll'] = 'Du ser nå alle kategoriene på forumet.'
 $Definition['CategoriesViewingFollowed'] = 'Du ser nå bare kategoriene du følger på forumet.';
 $Definition['CategoriesViewingUnfollowed'] = 'Du ser nå bare kategoriene du ikke følger på forumet.';
 $Definition['Category'] = 'Kategori';
-$Definition['Category Management'] = 'Behandle kategorier';
 $Definition['CategoryID'] = 'Kategori';
+$Definition['Category Management'] = 'Behandle kategorier';
 $Definition['Change My Password'] = 'Endre mitt passord';
 $Definition['Change My Picture'] = 'Endre bildet mitt';
 $Definition['Change Password'] = 'Endre passord';
@@ -75,8 +73,8 @@ $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseN
 $Definition['Clear'] = 'Rens innhold';
 $Definition['Clear Conversation History'] = 'Slett samtalehistorikk';
 $Definition['Close'] = 'Lukk';
-$Definition['Close this discussion'] = 'Lukk denne diskusjonen';
 $Definition['Closed'] = 'Lukket';
+$Definition['Close this discussion'] = 'Lukk denne diskusjonen';
 $Definition['Comment'] = 'Kommentar';
 $Definition['Comment by %s'] = 'Kommentarer av %s';
 $Definition['Comments'] = 'Kommentarer';
@@ -89,8 +87,8 @@ $Definition['Dashboard'] = 'Administrasjon';
 $Definition['Date'] = 'Applied On';
 $Definition['Delete'] = 'Slett';
 $Definition['Delete Discussion'] = 'Slett diskusjon';
-$Definition['Discussion Title'] = 'Diskusjonstittel';
 $Definition['Discussions'] = 'Diskusjoner';
+$Definition['Discussion Title'] = 'Diskusjonstittel';
 $Definition['Dismiss'] = 'Annulér';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Dra rundt og endre størrelsen på plassen nedenfor for å definere ikonet.';
 
@@ -129,11 +127,11 @@ $Definition['his'] = 'hans';
 $Definition['Howdy, Stranger!'] = 'Velkommen!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Jeg aksepterer <a id="TermsOfService" class="Popup" target="terms" href="%s">betingelsene.</a>';
-$Definition['In this Conversation'] = 'I denne samtalen';
 $Definition['Inbox'] = 'Innboks';
+$Definition['In this Conversation'] = 'I denne samtalen';
 $Definition['Invite'] = 'Invitér';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'For å engasjere deg på denne siden, klikk på en av disse knappene:';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'For å engasjere deg på denne siden, klikk på en av disse knappene:';
 
 $Definition['Joined'] = 'Registrert dato';
 
@@ -158,7 +156,6 @@ $Definition['New Message'] = 'Ny samtale';
 $Definition['New Password'] = 'Nytt passord';
 $Definition['No discussions were found.'] = 'Ingen diskusjoner ble funnet.';
 $Definition['No results for \'%s\''] = 'Ingen resultater for \'%s\'';
-$Definition['Not much happening here, yet.'] = 'Skjer ikkje så mye hær...';
 $Definition['Notifications'] = 'Varsler';
 $Definition['Notify me of private messages.'] = 'Send meg varsel dersom jeg får en privat melding.';
 $Definition['Notify me when I am added to private conversations.'] = 'Send meg varsel dersom jeg blir lagt til en privat samtale.';
@@ -167,6 +164,7 @@ $Definition['Notify me when people comment on my discussions.'] = 'Send meg vars
 $Definition['Notify me when people mention me in comments.'] = 'Send meg varsel dersom noen nevner meg i kommentarer';
 $Definition['Notify me when people reply to my wall comments.'] = 'Send meg varsel når noen skriver svar på mine kommentarer';
 $Definition['Notify me when people write on my wall.'] = 'Send meg varsel når noen skriver på veggen min';
+$Definition['Not much happening here, yet.'] = 'Skjer ikkje så mye hær...';
 
 $Definition['Okay'] = 'Ok';
 $Definition['Old Password'] = 'Gammelt passord';
@@ -202,8 +200,8 @@ $Definition['Save'] = 'Lagre';
 $Definition['Save Draft'] = 'Lagre utkast';
 $Definition['Save Preferences'] = 'Lagre instillinger';
 $Definition['Search'] = 'Søk';
-$Definition['Search results for \'%s\''] = 'Resultater for \'%s\'';
 $Definition['SearchBoxPlaceHolder'] = 'Søk';
+$Definition['Search results for \'%s\''] = 'Resultater for \'%s\'';
 $Definition['Select an image on your computer (2mb max)'] = 'Velg et bilde på din datamaskin (max. 2MB).';
 $Definition['Send Message'] = 'Send melding';
 $Definition['Settings'] = 'Instillinger';
@@ -212,9 +210,9 @@ $Definition['Share'] = 'Del';
 $Definition['she'] = 'henne';
 
 $Definition['Sign In'] = 'Logg inn';
-$Definition['Sign Out'] = 'Logg av';
 $Definition['SignIn'] = 'Logg inn';
 $Definition['SigningOut'] = 'Slapp av et par sekunder mens vi logger deg av.';
+$Definition['Sign Out'] = 'Logg av';
 $Definition['Sink'] = 'Senk';
 $Definition['Sink this discussion'] = 'Senk denne diskusjonen';
 
@@ -266,8 +264,8 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = 'B
 
 $Definition['Value'] = 'Condition Expression';
 $Definition['Views'] = 'Visninger';
-$Definition['Visit Site'] = '← Besøk siden';
 $Definition['Visits'] = 'Antall besøk';
+$Definition['Visit Site'] = '← Besøk siden';
 $Definition['Votes'] = 'Stemmer';
 
 $Definition['wall'] = 'vegg';
@@ -295,11 +293,13 @@ $Definition['You must agree to the terms of service.'] = 'Du må akseptere betin
 
 $Definition['your'] = 'din';
 
-$Definition['Your changes have been saved successfully.'] = 'Lagringen av dine endringer var vellykket.';
 $Definition['Your changes have been saved.'] = 'Dine endringer har blitt lagret';
+$Definition['Your changes have been saved successfully.'] = 'Lagringen av dine endringer var vellykket.';
 $Definition['Your invitation has been sent.'] = 'Din invitasjon har blitt sendt!';
 $Definition['Your old password was incorrect.'] = 'Ugyldig passord.';
 $Definition['Your password has been changed.'] = 'Passordet ditt har blitt endret.';
 $Definition['Your picture has been removed.'] = 'Bildet ditt har blitt fjernet.';
 $Definition['Your preferences have been saved.'] = 'Dine instillinger har blitt lagret.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'ConnectRegisteredName';
+
+$Definition['[%s] Welcome Aboard!'] = '[%s] Velkommen til forumet!';

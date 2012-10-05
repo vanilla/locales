@@ -2,12 +2,12 @@
 
 $Definition['%s comment'] = '%s ความคิดเห็น';
 
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Transport error: %s';
 $Definition['About'] = 'เกี่ยวกับฉัน';
 $Definition['Active Users'] = 'ผู้ใช้งาน';
 $Definition['Activity'] = 'ความเคลื่อนไหว';
 $Definition['Add a Comment'] = 'แสดงความคิดเห็น';
 $Definition['Add Message'] = 'เพิ่มข้อความใหม่';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Transport error: %s';
 $Definition['All Conversations'] = 'จดหมายทั้งหมด';
 $Definition['All Discussions'] = 'กระทู้ทั้งหมด';
 $Definition['Allow other members to see your email?'] = 'อนุญาติให้ผู้อื่นเห็นอีเมล์ของคุณ?';
@@ -33,8 +33,8 @@ $Definition['Create One.'] = 'สร้างบัญชี.';
 $Definition['Dashboard'] = 'แผงควบคุม';
 $Definition['Date'] = 'Applied On';
 $Definition['Delete'] = 'ลบ';
-$Definition['Discussion Title'] = 'หัวข้อกระทู้';
 $Definition['Discussions'] = 'กระดานสนทนา';
+$Definition['Discussion Title'] = 'หัวข้อกระทู้';
 $Definition['Dismiss'] = 'ยกเลิก';
 $Definition['Don\'t have an account? %s'] = 'ถ้ายังไม่มีบัญชี? %s';
 
@@ -117,10 +117,10 @@ $Definition['Security Check'] = 'ตรวจสอบความปลอด�
 $Definition['Select an image on your computer (2mb max)'] = 'เลือกภาพจากคอมพิวเตอร์ของคุณ (2mb max)';
 $Definition['Settings'] = 'การตั้งค่า';
 $Definition['Share'] = 'แชร์';
+$Definition['SignIn'] = 'เข้าสู่ระบบ';
 $Definition['Sign In'] = 'เข้าสู่ระบบ';
 $Definition['Sign Out'] = 'ออกจากระบบ';
 $Definition['Sign Up'] = 'สมัครสมาชิก';
-$Definition['SignIn'] = 'เข้าสู่ระบบ';
 $Definition['Sink'] = 'ปล่อยตก';
 $Definition['Spam'] = 'สแปม';
 $Definition['Start a New Conversation'] = 'เขียนจดหมาย';
@@ -157,8 +157,8 @@ $Definition['Unannounce'] = 'ยกเลิกประกาศ';
 $Definition['ValidateRequired'] = 'กรุณาตรวจสอบช่องว่าง';
 $Definition['Value'] = 'Condition Expression';
 $Definition['Views'] = 'อ่าน';
-$Definition['Visit Site'] = 'ชมหน้าเว็บ';
 $Definition['Visits'] = 'เข้าชม';
+$Definition['Visit Site'] = 'ชมหน้าเว็บ';
 
 $Definition['Write Comment'] = 'เขียนความคิดเห็น';
 

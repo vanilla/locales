@@ -8,12 +8,11 @@ $Definition['%s comment'] = '%s коментар';
 $Definition['%s comments'] = '%s коментарів';
 $Definition['%s message'] = '%s повідомлення';
 $Definition['%s messages'] = '%s повідомлень';
-$Definition['%s New'] = '%s нове';
 $Definition['%s new'] = '%s нових';
-$Definition['%s new plural'] = '%s нових';
+$Definition['%s New'] = '%s нове';
 $Definition['%s New Plural'] = '%s нових';
+$Definition['%s new plural'] = '%s нових';
 
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Transport error: %s';
 $Definition['About'] = 'Про себе';
 $Definition['Activate'] = 'Активувати';
 $Definition['Activity'] = 'Активність';
@@ -57,6 +56,7 @@ $Definition['Add a Comment'] = 'Додати коментар';
 $Definition['Add Message'] = 'Додати повідомлення';
 $Definition['Add People to this Conversation'] = 'Добавити співрозмовників';
 $Definition['Add Route'] = 'Додати маршрут';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Transport error: %s';
 $Definition['All Categories'] = 'Всі категорії';
 $Definition['All Conversations'] = 'Всі бесіди';
 $Definition['All Discussions'] = 'Всі обговорення';
@@ -101,8 +101,8 @@ $Definition['Date'] = 'Applied On';
 $Definition['Delete'] = 'Видалити';
 $Definition['Delete Conversation'] = 'Видалити бесіду';
 $Definition['Delete Discussion'] = 'Видалити обговорення';
-$Definition['Discussion Title'] = 'Назва обговорення';
 $Definition['Discussions'] = 'Обговорення';
+$Definition['Discussion Title'] = 'Назва обговорення';
 $Definition['Dismiss'] = 'Не закріпляти';
 $Definition['Don\'t have an account? %s'] = 'Немає облікового запису? %s';
 $Definition['Draft saved at %s'] = 'Чернетка збережена в %s';
@@ -112,9 +112,6 @@ $Definition['Edit'] = 'Редагувати';
 $Definition['Edit Discussion'] = 'Редагувати обговорення';
 $Definition['Edit My Account'] = 'Змінити мій аккаунт';
 $Definition['Edit My Thumbnail'] = 'Змінити мініатюру аватара';
-$Definition['Email Notifications'] = 'Сповіщення на Email';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'Email, відправлений цим додатком, буде від даного імені та адреси:';
-$Definition['Email visible to other users'] = 'Email видно іншим користувачами';
 $Definition['EmailInvitation'] = 'Доброго дня!
 
 %1$s запросив вас приєднатись до %2$s. Якщо ви згідні, перейдіть за посиланням:
@@ -135,6 +132,7 @@ $Definition['EmailNotification'] = '%1$s
 %2$s
 
 Приємного дня!';
+$Definition['Email Notifications'] = 'Сповіщення на Email';
 $Definition['EmailPassword'] = 'Доброго дня, %1$s,
 
 %2$s скинув ваш пароль від %3$s. Параметри облікового запису тепер такі:
@@ -144,6 +142,7 @@ $Definition['EmailPassword'] = 'Доброго дня, %1$s,
   Url: %4$s
 
 Приємного дня!';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'Email, відправлений цим додатком, буде від даного імені та адреси:';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -153,6 +152,7 @@ $Definition['EmailStoryNotification'] = '%1$s
 %2$s
 
 Приємного дня!';
+$Definition['Email visible to other users'] = 'Email видно іншим користувачами';
 $Definition['EmailWelcome'] = 'Доброго дня, %1$s,
 
 %2$s створив акаунт для вас на %3$s. Параметри облікового запису:
@@ -192,8 +192,8 @@ $Definition['ErrorTermsOfService'] = 'Ви не прийняли правила 
 $Definition['Female'] = 'Жінка';
 $Definition['Forgot?'] = 'Забули?';
 $Definition['Format his'] = 'його';
-$Definition['Format You'] = 'Ви';
 $Definition['Format you'] = 'ви';
+$Definition['Format You'] = 'Ви';
 
 $Definition['Garden.Title'] = 'Текст заголовку';
 $Definition['Gender'] = 'Стать';
@@ -208,14 +208,14 @@ $Definition['his'] = 'його';
 $Definition['Howdy, Stranger!'] = 'Привіт, незнайомець!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Я приймаю <a id="Умови користування" class="Popup" target="terms" href="%s">Умови користування</a>';
-$Definition['I remember now!'] = 'Тепер я згадав!';
-$Definition['In this Conversation'] = 'В цій бесіді';
 $Definition['Inbox'] = 'Вхідні';
 $Definition['Internal'] = 'Внутрішній';
+$Definition['In this Conversation'] = 'В цій бесіді';
 $Definition['Invite'] = 'Запросити';
 $Definition['InviteErrorPermission'] = 'Вибачте, відмовлено в доступі.';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Схоже, що Ви тут вперше. Якщо хочете взяти участь, натисніть на одну з цих кнопок!';
+$Definition['I remember now!'] = 'Тепер я згадав!';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Схоже, що Ви тут вперше. Якщо хочете взяти участь, натисніть на одну з цих кнопок!';
 
 $Definition['Joined'] = 'З нами з';
 
@@ -226,10 +226,10 @@ $Definition['Last Active'] = 'Був в';
 $Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLeaveBlank';
 
 $Definition['Male'] = 'Чоловік';
-$Definition['Message'] = 'Повідомлення';
 
 $Definition['message'] = 'повідомлення';
 
+$Definition['Message'] = 'Повідомлення';
 $Definition['Messages'] = 'Повідомлення';
 $Definition['Most recent by %1$s'] = 'Останнє від %1$s';
 $Definition['My Bookmarks'] = 'Мої закладки';
@@ -299,9 +299,9 @@ $Definition['Share'] = 'Поділитись';
 $Definition['she'] = 'вона';
 
 $Definition['Sign In'] = 'Ввійти';
+$Definition['SignIn'] = 'Вхід';
 $Definition['Sign Out'] = 'Вийти';
 $Definition['Sign Up'] = 'Зареєструватись';
-$Definition['SignIn'] = 'Вхід';
 $Definition['Sink'] = 'Втопити';
 $Definition['Spam'] = 'Спам';
 $Definition['Start a New Conversation'] = 'Розпочати нову бесіду';
@@ -357,8 +357,8 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Ви повинні обр�
 $Definition['ValidateRequired'] = 'Поле %s має бути заповненим.';
 $Definition['ValidateRequiredArray'] = 'Ви повинні обрати хоча б одного %s.';
 $Definition['Value'] = 'Condition Expression';
-$Definition['Visit Site'] = 'На сайт';
 $Definition['Visits'] = 'Візитів';
+$Definition['Visit Site'] = 'На сайт';
 
 $Definition['Write a comment'] = 'Напишіть коментар';
 $Definition['Write Comment'] = 'Написати коментар';
@@ -373,10 +373,10 @@ $Definition['You must agree to the terms of service.'] = 'Ви не прийня
 
 $Definition['your'] = 'ваш';
 
-$Definition['Your changes have been saved successfully.'] = 'Ваші зміни були успішно збережені.';
 $Definition['Your changes have been saved.'] = 'Ваші зміни були збережені.';
+$Definition['Your changes have been saved successfully.'] = 'Ваші зміни були успішно збережені.';
 $Definition['Your changes were saved.'] = 'Ваші зміни були збережені.';
 $Definition['Your old password was incorrect.'] = 'Невірно введено старий пароль';
 $Definition['Your registered username: <strong>%s</strong>'] = 'ConnectRegisteredName';
-$Definition['Your settings have been saved successfully.'] = 'Ваші налаштування були успішно збережені.';
 $Definition['Your settings have been saved.'] = 'Ваші налаштуваня були збережені.';
+$Definition['Your settings have been saved successfully.'] = 'Ваші налаштування були успішно збережені.';

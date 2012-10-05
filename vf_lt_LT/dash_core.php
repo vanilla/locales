@@ -28,7 +28,6 @@ $Definition['1 month'] = '1 mėnuo';
 $Definition['1 month after being sent'] = '1 mėnuo nuo išsiuntimo';
 $Definition['1 week'] = '1 savaitė';
 $Definition['1 week after being sent'] = '1 savaitė nuo išsiuntimo';
-$Definition['15 minutes'] = '15 minučių';
 
 $Definition['2 weeks after being sent'] = '2 savaitės nuo išsiuntimo';
 
@@ -36,18 +35,12 @@ $Definition['4 hours'] = '4 valandos';
 
 $Definition['5 minutes'] = '5 minutės';
 
+$Definition['15 minutes'] = '15 minučių';
+
 $Definition['<strong>Categories</strong>'] = '<strong>Kategorijos</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Kategorijos</strong> leidžia organizuoti diskusijas. Kategorijose gali būti tik diskusijos.';
 
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Patvirtinti savo el. pašto adresą';
-$Definition['[%s] Invitation'] = '[%s] Pakvietimas';
-$Definition['[%s] Password Reset'] = '[%s] Slaptažodžio keitimas';
-$Definition['[%s] Password Reset Request'] = '[%s] Slaptažodžio keitimo prašymas';
-
-$Definition['_Locale'] = 'Lokalė';
-
 $Definition['a Badge'] = 'Medalis';
-$Definition['a full year.'] = 'visi metai.';
 
 $Definition['Abilites'] = 'Gebėjimai';
 $Definition['About Vanilla Statistics'] = 'Apie Vanilla statistiką';
@@ -61,13 +54,13 @@ $Definition['Activity item not found.'] = 'Aktyvumo įrašas nerastas.';
 $Definition['Add %s'] = 'Įdėti %s';
 $Definition['Add Category'] = 'Įdėti kategoriją';
 $Definition['Add Connection'] = 'Sukurti sujungimą';
+$Definition['Added By'] = 'Sukurė';
 $Definition['Add Info &amp; Create Account'] = 'Patalpinti informaciją ir sukurti naudotoją';
+$Definition['Adding & Editing Categories'] = 'Kategorijų kūrimas ir redagavimas';
 $Definition['Add Item'] = 'Sukurti įrašą';
+$Definition['Addons'] = 'Priedai';
 $Definition['Add Role'] = 'Pridėti rolę';
 $Definition['Add User'] = 'Sukurti naudotoją';
-$Definition['Added By'] = 'Sukurė';
-$Definition['Adding & Editing Categories'] = 'Kategorijų kūrimas ir redagavimas';
-$Definition['Addons'] = 'Priedai';
 $Definition['Administrator'] = 'Administratorius';
 $Definition['Advanced'] = 'Papildomas';
 $Definition['Advanced Embed Settings'] = 'Išplėstiniai įterpimo nustatymai';
@@ -75,20 +68,23 @@ $Definition['Advanced Forum Settings'] = 'Išplėstiniai forumo nustatymai';
 $Definition['Advanced Options'] = 'Išplėstinės parinktys';
 $Definition['Advanced Settings'] = 'Išplėstiniai nustatymai';
 $Definition['After'] = 'Po';
+
+$Definition['a full year.'] = 'visi metai.';
+
 $Definition['Alive'] = 'Įjungtas';
 $Definition['All'] = 'Visi';
 $Definition['All %1$s'] = 'Visi %1$s';
 $Definition['All Dashboard Pages'] = 'Visi įrankių panelės puslapiai';
 $Definition['All Forum Pages'] = 'Visi forumo puslapiai';
-$Definition['All Pages'] = 'Visi puslapiai';
 $Definition['Allow new users to be registered through email.'] = 'Leisti naujus naudotojus užsiregistruoti per el. paštą.';
+$Definition['All Pages'] = 'Visi puslapiai';
 $Definition['API Status'] = 'API būsena';
 $Definition['Appearance'] = 'Išvaizda';
 $Definition['Applicant'] = 'Prašytojas';
 $Definition['Application'] = 'Programa';
 $Definition['Application ID'] = 'Programos ID';
-$Definition['Application Secret'] = 'Programos paslaptis';
 $Definition['Applications'] = 'Programos';
+$Definition['Application Secret'] = 'Programos paslaptis';
 $Definition['Applied by Administrator'] = 'Pritaikyta administratoriaus';
 $Definition['Applied Manually'] = 'Pritaikytas rankiniu būdu';
 $Definition['Applied On'] = 'Data';
@@ -101,12 +97,12 @@ $Definition['Authentication'] = 'Autentifikacija';
 
 $Definition['Badge Name'] = 'Vardas';
 $Definition['Badge Requests'] = 'Medalių prašymai';
-$Definition['Ban Type'] = 'Tipas';
 $Definition['Banner'] = 'Reklamjuostė';
 $Definition['Banner Logo'] = 'Reklamjuostės logotipas';
 $Definition['Banner Title'] = 'Reklamjuostės pavadinimas';
 $Definition['Banning'] = 'Blokavimas';
 $Definition['Banning Options'] = 'Blokavimo nustatymai';
+$Definition['Ban Type'] = 'Tipas';
 $Definition['Basic Information'] = 'Pagrindinė informacija';
 $Definition['Before'] = 'Prieš';
 $Definition['Blocked'] = 'Blokuotas';
@@ -120,19 +116,19 @@ $Definition['Category Url:'] = 'Kategorijos nuoroda:';
 $Definition['Censored Words'] = 'Cenzūruoti žodžiai';
 $Definition['Change Log'] = 'Pakeitimų žurnalas';
 $Definition['Clean Spam'] = 'Išvalyti brukalus';
-$Definition['Comment  Body'] = 'Komentaras | Pranešimo tekstas';
-$Definition['Comment  Subject'] = 'Komentaras | Tema';
-$Definition['Comment Settings'] = 'Komentarų nustatymai';
 
 $Definition['comment(s)'] = 'komentaras(-ai)';
 
+$Definition['Comment  Body'] = 'Komentaras | Pranešimo tekstas';
+$Definition['Comment Settings'] = 'Komentarų nustatymai';
 $Definition['Comments Page'] = 'Komentarų puslapis';
 $Definition['Comments per Page'] = 'Komentarai viename puslapyje';
+$Definition['Comment  Subject'] = 'Komentaras | Tema';
 $Definition['Condition'] = 'Sąlyga';
 $Definition['Condition Expression'] = 'Reikšmė';
 $Definition['Condition Field'] = 'Laukelis';
-$Definition['Condition Type'] = 'Tipas';
 $Definition['Conditions'] = 'Sąlygos';
+$Definition['Condition Type'] = 'Tipas';
 $Definition['Confirmation  Body'] = 'Patvirtinimas | Pranešimo tekstas';
 $Definition['Continue'] = 'Tęsti';
 $Definition['Continue Import'] = 'Tęsti įkėlimą';
@@ -148,34 +144,34 @@ $Definition['Current File:'] = 'Esamas failas:';
 $Definition['Current Theme'] = 'Esama tema';
 
 $Definition['Decline'] = 'Atmesti';
-$Definition['Default'] = 'Numatytas';
 
 $Definition['default'] = 'numatytasis';
 
+$Definition['Default'] = 'Numatytas';
 $Definition['Default  Category'] = 'Numatyta | Kategorija';
 $Definition['Default Locale'] = 'Numatytoji lokalė';
 $Definition['Default Roles'] = 'Numatytosios rolės';
 $Definition['Delete Badge'] = 'Pašalinti medalį';
 $Definition['Delete Category'] = 'Ištrinti kategoriją';
 $Definition['Delete Content'] = 'Pašalinį turinį';
+$Definition['Deleted'] = 'Ištrinta';
 $Definition['Delete Role'] = 'Pašalinti rolę';
 $Definition['Delete User'] = 'Ištrinti vartotoją';
 $Definition['Delete User: %s'] = 'Ištrinti vartotoją : %s';
-$Definition['Deleted'] = 'Ištrinta';
 $Definition['Deleting category...'] = 'Trinama kategorija ...';
 $Definition['Description'] = 'Aprašymas';
 $Definition['Did You Know?'] = 'Ar tu žinojai?';
 $Definition['Disable'] = 'Išjungti';
+$Definition['Disabled'] = 'Išjungtas';
 $Definition['Disable Google Sign In'] = 'Išjungti Google prisijungimą';
 $Definition['Disable OpenID'] = 'Išjungti OpenID';
 $Definition['Disable Signatures'] = 'Išjungti parašus';
-$Definition['Disabled'] = 'Išjungtas';
-$Definition['Discussion  Body'] = 'Diskusija | Pranešimo tekstas';
-$Definition['Discussion  Subject'] = 'Diskusija | Tema';
 
 $Definition['discussion(s)'] = 'diskusija(-os)';
 
+$Definition['Discussion  Body'] = 'Diskusija | Pranešimo tekstas';
 $Definition['Discussions Layout'] = 'Diskusijų išdėstymas';
+$Definition['Discussion  Subject'] = 'Diskusija | Tema';
 $Definition['Disqus Settings'] = 'Disqus nustatymai';
 $Definition['Download Locale List'] = 'Atsiųsti lokalių sąrašą';
 $Definition['Download Locale Pack'] = 'Atsiųsti lokalės paketą';
@@ -187,19 +183,19 @@ $Definition['Edit %s'] = 'Koreguoti %s';
 $Definition['Edit Category'] = 'Koreguoti kategoriją';
 $Definition['Edit CSS'] = 'Koreguoti CSS';
 $Definition['Edit Html'] = 'Koreguoti Html';
+$Definition['Editing'] = 'Redagavimas';
 $Definition['Edit Message'] = 'Koreguoti žinutę';
 $Definition['Edit User'] = 'Koreguoti vartotoją';
-$Definition['Editing'] = 'Redagavimas';
 $Definition['Enable'] = 'Įgalinti';
 $Definition['Enable/Disable'] = 'Įgalinti/Apriboti';
 $Definition['Enabled'] = 'Įgalinta';
 $Definition['Enabled %1$s'] = 'Įgalinta %1$s';
 $Definition['Encourage your friends to join your new community!'] = 'Padrąsink draugus prisijungti prie naujos bendruomenės!';
 $Definition['Every 1 minute'] = 'Kas 1 minutę';
-$Definition['Every 10 seconds'] = 'Kas 10 sekundžių';
-$Definition['Every 30 seconds'] = 'Kas 30 sekundžių';
 $Definition['Every 5 minutes'] = 'Kas 5 minutes';
 $Definition['Every 5 seconds'] = 'Kas 5 sekundes';
+$Definition['Every 10 seconds'] = 'Kas 10 sekundžių';
+$Definition['Every 30 seconds'] = 'Kas 30 sekundžių';
 $Definition['Every Page'] = 'Kiekvienas puslapis';
 $Definition['Everything is ok.'] = 'Viskas yra gerai.';
 $Definition['Exit Preview'] = 'Uždaryti peržiūrą';
@@ -243,10 +239,10 @@ $Definition['Invitations per month'] = 'Pakvietimų per mėnesį';
 $Definition['Invitations will expire'] = 'Pakvietimai nustos galioti';
 $Definition['Invited by'] = 'Pakvietė';
 
-$Definition['JS Connect Settings'] = 'JS susijungimo nustatymai';
-
 $Definition['jsConnect Client Libraries'] = 'jsConnect kliento bibliotekos';
 $Definition['jsConnect Documentation'] = 'jsConnect dokumentacija';
+
+$Definition['JS Connect Settings'] = 'JS susijungimo nustatymai';
 
 $Definition['Key Type'] = 'Rakto tipas';
 $Definition['Key Value'] = 'Rakto reikšmė';
@@ -268,8 +264,8 @@ $Definition['Manage Plugins'] = 'Tvarkyti papildinius';
 $Definition['Manage Roles & Permissions'] = 'Tvarkyti taisykles ir leidimus';
 $Definition['Manage Spam'] = 'Tvarkyti šlamštą';
 $Definition['Manage Themes'] = 'Tvarkyti temas';
-$Definition['Manage Users'] = 'Tvarkyti vartotojus';
 $Definition['Manage users'] = 'Tvarkyti vartotojus';
+$Definition['Manage Users'] = 'Tvarkyti vartotojus';
 $Definition['Manage your Plugins'] = 'Tvarkyti tavo papildinius';
 $Definition['Managing Categories'] = 'Tvarkyti kategorijas';
 $Definition['Manual'] = 'Rankinis';
@@ -288,8 +284,8 @@ $Definition['Need More Help?'] = 'Reikia daugiau pagalbos?';
 
 $Definition['never'] = 'niekada';
 
-$Definition['Not Spam'] = 'Ne brukalas';
 $Definition['Notes'] = 'Pastabos';
+$Definition['Not Spam'] = 'Ne brukalas';
 
 $Definition['One, two, three...'] = 'Vienas, du, trys...';
 $Definition['Organize'] = 'Tvarkyti';
@@ -366,10 +362,10 @@ $Definition['take away'] = 'atimti';
 $Definition['Testing'] = 'Testavimas';
 $Definition['Text'] = 'Tekstas';
 $Definition['Thank You!'] = 'Ačiū!';
-$Definition['The specified url code is already in use by another category.'] = 'Nurodytas nuorodos kodas jau yra naudojamas kitoje kategorijoje.';
-$Definition['The Vanilla 2 Exporter'] = 'Vanilla 2 eksportuotojas';
 $Definition['Theme Options'] = 'Temos parinktys';
 $Definition['Themes'] = 'Temos';
+$Definition['The specified url code is already in use by another category.'] = 'Nurodytas nuorodos kodas jau yra naudojamas kitoje kategorijoje.';
+$Definition['The Vanilla 2 Exporter'] = 'Vanilla 2 eksportuotojas';
 $Definition['This connection is in test-mode.'] = 'Šis sujungimas yra bandymo režime.';
 $Definition['This Database'] = 'Ši duomenų bazė';
 $Definition['This page requires Javascript.'] = 'Šiam puslapiui reikalingas Javascript.';
@@ -389,11 +385,11 @@ $Definition['Use an SMTP server to send email'] = 'Naudoti SMTP serverį siųsti
 $Definition['Use Categories'] = 'Naudoti kategorijas';
 $Definition['User'] = 'Naudotojas';
 $Definition['User Count'] = 'Naudotojai';
+$Definition['UserDelete'] = 'Pašalinti naudotojo turinį';
 $Definition['User Deleted'] = 'Naudotojas pašalintas';
 $Definition['User Registration Settings'] = 'Naudotojo registracijos nustatymai';
-$Definition['User Summary'] = 'Naudotojo reziumė';
-$Definition['UserDelete'] = 'Pašalinti naudotojo turinį';
 $Definition['Users'] = 'Naudotojai';
+$Definition['User Summary'] = 'Naudotojo reziumė';
 
 $Definition['Vanilla Configuration'] = 'Vanilla konfigūracija';
 $Definition['Vanilla Cookie Domain'] = 'Vanilla slapuko domenas';
@@ -401,10 +397,10 @@ $Definition['Vanilla is installed!'] = 'Vanilla įdiegta!';
 $Definition['Vanilla Sphinx Help'] = 'Vanilla Sphinx pagalba';
 $Definition['Verified!'] = 'Patikrinta!';
 $Definition['Version'] = 'Versija';
-$Definition['Version %s'] = 'Versija %s';
 
 $Definition['version %s'] = 'versija %s';
 
+$Definition['Version %s'] = 'Versija %s';
 $Definition['View'] = 'Rodyti';
 $Definition['View Page'] = 'Rodyti puslapį';
 
@@ -414,3 +410,10 @@ $Definition['WordPress Plugin'] = 'WordPress įskiepis';
 
 $Definition['You must manually apply this rank.'] = 'Tu turi rankiniu būdu pritaikyti šį rangą.';
 $Definition['Your changes were saved successfully.'] = 'Tavo pakeitimai buvo sėkmingai išsaugoti.';
+
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Patvirtinti savo el. pašto adresą';
+$Definition['[%s] Invitation'] = '[%s] Pakvietimas';
+$Definition['[%s] Password Reset'] = '[%s] Slaptažodžio keitimas';
+$Definition['[%s] Password Reset Request'] = '[%s] Slaptažodžio keitimo prašymas';
+
+$Definition['_Locale'] = 'Lokalė';

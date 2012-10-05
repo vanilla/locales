@@ -1,9 +1,5 @@
 <?php
 
-$Definition[' - Page %s'] = '- Side %s';
-$Definition[' now.'] = 'nu.';
-$Definition[' You should '] = 'Du burde';
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s accepterede %4$s invitation om medlemskab.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s ændrede %4$s rettigheder.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s skiftede %6$s profil billede.';
@@ -16,6 +12,8 @@ $Definition['%1$s signed in.'] = '%1$s logget ind.';
 $Definition['%1$s to %2$s'] = '%1$s til %2$s';
 $Definition['%1$s to %2$s of %3$s'] = '%1$s til %2$s ud af %3$s';
 $Definition['%3$s created an account for %1$s.'] = '%3$s oprettede en konto for %1$s.';
+$Definition['%s$1 to %s$2'] = '%s$1 til %s$2';
+$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 til %s$2 fra %s$3';
 $Definition['%s (Current)'] = '%s (Aktuelt)';
 $Definition['%s Agrees'] = '%s Enig';
 $Definition['%s and you'] = '%s og dig';
@@ -30,8 +28,8 @@ $Definition['%s message'] = '%s Besked';
 $Definition['%s messages'] = '%s beskeder';
 $Definition['%s New'] = '%s Ny';
 $Definition['%s new'] = '%s ny';
-$Definition['%s New Plural'] = '%s Ny';
 $Definition['%s new plural'] = '32423';
+$Definition['%s New Plural'] = '%s Ny';
 $Definition['%s Point'] = '%s Punkt';
 $Definition['%s point'] = '%s punkt';
 $Definition['%s Points'] = '%s Punkter';
@@ -42,20 +40,15 @@ $Definition['%s tags in the system'] = '%s tags i systemet';
 $Definition['%s Up Votes'] = '%s Up Stemmer';
 $Definition['%s votes'] = '%s stemmer';
 $Definition['%s was removed from the %s and added to the %s'] = '%s blevslettet fra %s og tilføjet til %s';
-$Definition['%s$1 to %s$2'] = '%s$1 til %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 til %s$2 fra %s$3';
 
 $Definition['(empty message)'] = '(tom besked)';
 
 $Definition['+%s Guests'] = '+%s Gæst';
 
+$Definition[' - Page %s'] = '- Side %s';
+
 $Definition['1 message'] = '1 besked';
 
-$Definition['[%1$s] Membership Approved'] = '[%1$s] Medlemskab godkendt';
-$Definition['[%s] Welcome Aboard!'] = '[%s] Velkommen Aboard!';
-$Definition['[Deleted User]'] = '[Slet Bruger]';
-
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Der skete en fejl med din handling.<br />Serveren kom med f¯lgende respons: %s';
 $Definition['About'] = 'Om';
 $Definition['Abuse'] = 'Misbrug';
 $Definition['Accept'] = 'Godkend';
@@ -104,9 +97,9 @@ $Definition['Activity.WallComment.ProfileHeadline'] = '%1$s skrev:';
 $Definition['Add'] = 'Tilf¯j';
 $Definition['Add a Comment'] = 'Tilføj en kommentar';
 $Definition['Add a Message'] = 'Tilføj en besked';
+$Definition['Add another poll option ...'] = 'Tilføj en anden afstemning mulighed...';
 $Definition['Add a Profile Picture'] = 'Tilføj et profil billede';
 $Definition['Add a Warning'] = 'Tilføj en Advarsel';
-$Definition['Add another poll option ...'] = 'Tilføj en anden afstemning mulighed...';
 $Definition['Add Badge'] = 'Tilføj Badge';
 $Definition['Add Comment'] = 'Tilføj kommentar';
 $Definition['Add Cost'] = 'Tilføj Omkostninger';
@@ -118,6 +111,7 @@ $Definition['Administrator Activity'] = 'Administratoraktivitet';
 
 $Definition['administrators'] = 'administratorer';
 
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Der skete en fejl med din handling.<br />Serveren kom med f¯lgende respons: %s';
 $Definition['All Bookmarks'] = 'flkjflsjfls';
 $Definition['All Categories'] = 'Alle kategorier';
 $Definition['All Conversations'] = 'Alle Samtaler';
@@ -132,8 +126,8 @@ $Definition['answer'] = 'svar';
 $Definition['Answers'] = 'svare';
 $Definition['Applicants'] = 'Ands¯gere';
 $Definition['Apply Changes'] = 'Anvend ændringer';
-$Definition['Apply for membership'] = 'Ansøg om medlemskab';
 $Definition['Apply for Membership'] = 'Registrer';
+$Definition['Apply for membership'] = 'Ansøg om medlemskab';
 $Definition['Are you sure you want to do that?'] = 'Er du sikker pÂ du vil g¯re det?';
 $Definition['Are you sure you wish to continue?'] = 'lfsdlskfjdsl';
 $Definition['Ask a Question'] = 'Stil et spørgsmål';
@@ -160,9 +154,9 @@ $Definition['CategoriesShowUnfollowed'] = 'lflsdfmls';
 $Definition['CategoriesViewingAll'] = 'lfsmfslkdn';
 $Definition['CategoriesViewingFollowed'] = 'gfgfgfd';
 $Definition['Category'] = 'Kategori';
+$Definition['CategoryID'] = 'Kategori';
 $Definition['Category Management'] = 'fsdfds';
 $Definition['Category Notifications'] = 'Notifikationer for kategorier';
-$Definition['CategoryID'] = 'Kategori';
 $Definition['Change My Password'] = 'Ændre mit password';
 $Definition['Change My Picture'] = 'Ændre mit billede';
 $Definition['Change Password'] = 'Ændre password';
@@ -198,8 +192,8 @@ $Definition['Delete'] = 'Slet';
 $Definition['Delete Account'] = 'Slet Bruger';
 $Definition['Delete Conversation'] = 'Slet samtale';
 $Definition['Delete Discussion'] = 'Slet diskussion';
-$Definition['Discussion Title'] = 'Titel på diskussion';
 $Definition['Discussions'] = 'Diskussioner';
+$Definition['Discussion Title'] = 'Titel på diskussion';
 $Definition['Dismiss'] = 'Luk';
 $Definition['Don\'t have an account? %s'] = 'Har du ikke en bruger? %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Træk og juster firkanten nedenfor for at definere din thumbnail.';
@@ -211,10 +205,6 @@ $Definition['Edit My Profile'] = 'Rediger min profil';
 $Definition['Edit My Thumbnail'] = 'Rediger min thumbnail';
 $Definition['Edit Preferences'] = 'Rediger Indstillinger';
 $Definition['Edit Thumbnail'] = 'Rediger thumbnail';
-$Definition['Email Notifications'] = 'Emailnotifikationer';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'Emailen sendt fra ans¯geren vil blive behandlet med f¯lgende navn og adresse';
-$Definition['Email Unavailable'] = 'Email allerede i brug';
-$Definition['Email visible to other users'] = 'Email synlig for andre brugere';
 $Definition['Email/Username'] = 'Email/brugernavn';
 $Definition['EmailFooter'] = '
 Hav en god dag!';
@@ -240,6 +230,7 @@ F¯lg linket for at checke det ud:
 %2$s
 
 Hav en god dag!';
+$Definition['Email Notifications'] = 'Emailnotifikationer';
 $Definition['EmailPassword'] = 'Hello %1$s,
 
 %2$s har nulstillet dit kodeord pÂ %3$s. Dit login er nu:
@@ -249,6 +240,7 @@ $Definition['EmailPassword'] = 'Hello %1$s,
   Url: %4$s
 
 Hav en god dag!';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'Emailen sendt fra ans¯geren vil blive behandlet med f¯lgende navn og adresse';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -258,6 +250,8 @@ F¯lg linket for at checke det ud:
 %2$s
 
 Hav en god dag!';
+$Definition['Email Unavailable'] = 'Email allerede i brug';
+$Definition['Email visible to other users'] = 'Email synlig for andre brugere';
 $Definition['EmailWelcome'] = 'Hello %1$s,
 
 %2$s har lavet en bruger for dig pÂ %3$s. Dit login er nu:
@@ -294,8 +288,8 @@ $Definition['ErrorTermsOfService'] = 'Du er n¯d til at acceptere ServicevilkÂr
 $Definition['everyone'] = 'alle';
 
 $Definition['Female'] = 'Kvinde';
-$Definition['File Size'] = 'Filstørrelse';
 $Definition['Filename'] = 'Filnavn';
+$Definition['File Size'] = 'Filstørrelse';
 $Definition['Forgot?'] = 'Glemt?';
 $Definition['Format his'] = 'hans';
 $Definition['Format their'] = 'deres';
@@ -322,22 +316,22 @@ $Definition['Hide signatures on my mobile device'] = 'Skjul signaturer på min m
 $Definition['his'] = 'hans';
 
 $Definition['Home'] = 'Hjem';
-$Definition['How long do you want this warning to last?'] = 'Hvor længe skal denne advarsel vare?';
 $Definition['Howdy, Stranger!'] = 'Goddag fremmede!';
+$Definition['How long do you want this warning to last?'] = 'Hvor længe skal denne advarsel vare?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Jeg accepterer <a id="TermsOfService" class="Popup" target="terms" href="%s">Servicevilkårene</a>';
-$Definition['I remember now!'] = 'Jeg husker nu!';
 
 $Definition['in'] = 'i';
 
-$Definition['In this Conversation'] = 'I denne samtale';
 $Definition['Inbox'] = 'Indbakke';
 $Definition['Insert Image'] = 'Indsæt billede';
 $Definition['Internal'] = 'Intern';
+$Definition['In this Conversation'] = 'I denne samtale';
 $Definition['Invite'] = 'Inviter';
 $Definition['InviteErrorPermission'] = 'Tilladelse nÊgtet.';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Det ser ud til du er ny. Hvis du vil blive involveret, klik på en af de her knapper!';
+$Definition['I remember now!'] = 'Jeg husker nu!';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Det ser ud til du er ny. Hvis du vil blive involveret, klik på en af de her knapper!';
 
 $Definition['Joined'] = 'Oprettede sig som bruger';
 
@@ -351,10 +345,10 @@ $Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLe
 $Definition['Login with Facebook'] = 'Log ind med Facebook';
 
 $Definition['Male'] = 'Mand';
-$Definition['Message'] = 'Besked';
 
 $Definition['message'] = 'besked';
 
+$Definition['Message'] = 'Besked';
 $Definition['Messages'] = 'Beskeder';
 $Definition['Moderator Activity'] = 'Moderatoraktivitet';
 
@@ -385,21 +379,23 @@ $Definition['Notify me of private messages.'] = 'Giv mig besked om private beske
 $Definition['Notify me when I am added to private conversations.'] = 'Underret mig, nÂr jeg er f¯jet til  private samtaler.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Giv mig besked, når folk kommenterer på mine bogmærkede diskussioner.';
 $Definition['Notify me when people comment on my discussions.'] = 'Giv mig besked, når folk kommenterer på mine diskussioner.';
-$Definition['Notify me when people mention me in comments.'] = 'Giv mig besked, nÂr folk nÊvner mig i kommentarer.';
 $Definition['Notify me when people mention me.'] = 'Giv mig besked, når folk nævner mig.';
+$Definition['Notify me when people mention me in comments.'] = 'Giv mig besked, nÂr folk nÊvner mig i kommentarer.';
 $Definition['Notify me when people reply to my wall comments.'] = 'Giv mig besked, når folk svarer på mine vægbeskeder.';
 $Definition['Notify me when people write on my wall.'] = 'Giv mig besked, når folk skriver på min væg.';
+
+$Definition[' now.'] = 'nu.';
 
 $Definition['Old Password'] = 'Gammelt password';
 $Definition['Only show followed categories'] = 'flsdkfjsl';
 $Definition['OpenID Settings'] = 'OpenID Indstillinger';
 $Definition['Options'] = 'Indstillinger';
-$Definition['Or you can...'] = 'Eller du kan...';
 $Definition['Organize your Categories'] = 'Organiser dine kategorier';
+$Definition['Or you can...'] = 'Eller du kan...';
 
-$Definition['Page Not Found'] = 'Siden blev ikke fundet';
 $Definition['PageDetailsMessage'] = '%1$s til %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s til %2$s af %3$s';
+$Definition['Page Not Found'] = 'Siden blev ikke fundet';
 $Definition['Password'] = 'Kodeord';
 $Definition['PasswordRequest'] = 'Hej %1$s,
 
@@ -469,16 +465,16 @@ $Definition['Share'] = 'Del';
 
 $Definition['she'] = 'hun';
 
+$Definition['Signature Code'] = 'Signatur';
+$Definition['Signature Settings'] = 'Indstillinger for signatur';
 $Definition['Sign In'] = 'Log ind';
+$Definition['SignIn'] = 'Log ind';
 $Definition['Sign In with Facebook'] = 'Log ind med Facebook';
 $Definition['Sign In with Google'] = 'Log ind med Google';
 $Definition['Sign In with OpenID'] = 'Log ind med OpenID';
 $Definition['Sign In with Twitter'] = 'Log ind med Twitter';
 $Definition['Sign Out'] = 'Log ud';
 $Definition['Sign Up'] = 'Opret profil';
-$Definition['Signature Code'] = 'Signatur';
-$Definition['Signature Settings'] = 'Indstillinger for signatur';
-$Definition['SignIn'] = 'Log ind';
 $Definition['Sink'] = 'Vask';
 
 $Definition['somebody'] = 'nogen';
@@ -486,8 +482,8 @@ $Definition['somebody'] = 'nogen';
 $Definition['Start a New Conversation'] = 'Start en Ny Samtale';
 $Definition['Start a New Discussion'] = 'Ny diskussion';
 $Definition['Start Conversation'] = 'Start Samtale';
-$Definition['Start your First Discussion'] = 'Start din f¯rste diskussion';
 $Definition['Started by %1$s'] = 'Startet af %1$s';
+$Definition['Start your First Discussion'] = 'Start din f¯rste diskussion';
 $Definition['Strip images out of signatures'] = 'Fjern billeder fra signaturer';
 
 $Definition['Target'] = 'MÂl';
@@ -516,9 +512,11 @@ $Definition['TermsOfServiceText'] = '
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['The file failed to upload.'] = 'Filen blev ikke uploadet.';
-$Definition['The page you were looking for could not be found.'] = 'Siden du ledte efter blev ikke fundet.';
 
 $Definition['their'] = 'deres';
+
+$Definition['The page you were looking for could not be found.'] = 'Siden du ledte efter blev ikke fundet.';
+
 $Definition['they'] = 'de';
 
 $Definition['This discussion has been closed.'] = 'Denne diskussion er blevet lukket.';
@@ -553,8 +551,8 @@ $Definition['ValidateUsername'] = 'Dit brugernavn skal vÊre 3-20 characters og 
 $Definition['ValidateVersion'] = '%s feltet er ikke et gyldigt versionsnummer.Se php version_compare() funktion for eksempler pÂ gyldige versions numre.';
 $Definition['Value'] = 'Condition Expression';
 $Definition['Verified'] = 'Verificeret';
-$Definition['Visit Site'] = 'Vis Side';
 $Definition['Visits'] = 'Besøg';
+$Definition['Visit Site'] = 'Vis Side';
 
 $Definition['wall'] = 'væg';
 
@@ -564,9 +562,10 @@ $Definition['Write a comment'] = 'Skriv en kommentar';
 $Definition['Write Comment'] = 'Skriv Kommentar';
 $Definition['Write something about yourself...'] = 'Skriv noget om dig selv...';
 
+$Definition['You'] = 'Dig';
+
 $Definition['you'] = 'dig';
 
-$Definition['You'] = 'Dig';
 $Definition['You already have an account here.'] = 'Du har allerede en bruger her.';
 $Definition['You are connected as %s through %s.'] = 'Du er forbindet som %s igennem %s.';
 $Definition['You are currently only viewing categories that you follow.'] = 'gfgfgfd';
@@ -584,3 +583,9 @@ $Definition['Your changes have been saved.'] = 'Dine Êndringer er gemt.';
 $Definition['Your email has been successfully confirmed.'] = 'Din email er nu verificeret.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Dit registrerede brugernavn: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = 'Dine indstillinger er gemt.';
+
+$Definition[' You should '] = 'Du burde';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Medlemskab godkendt';
+$Definition['[%s] Welcome Aboard!'] = '[%s] Velkommen Aboard!';
+$Definition['[Deleted User]'] = '[Slet Bruger]';

@@ -11,9 +11,6 @@ $Definition['%s New Plural'] = '%s New';
 
 $Definition['1 message'] = '1개의 메세지';
 
-$Definition['[%1$s] Membership Approved'] = '[%1$s] 승인되었습니다.';
-
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = '요청을 처리하는 동안 치명적인 오류가 발생했습니다.<br />The server returned the following response: %s';
 $Definition['Activate'] = '활성화';
 $Definition['Activity'] = '활동내역';
 $Definition['Activity.AboutUpdate.FullHeadline'] = '%1$s: %6$s의 프로필을 업데이트.';
@@ -56,6 +53,7 @@ $Definition['Add Comment'] = '댓글쓰기';
 $Definition['Add Message'] = '메세지 작성';
 $Definition['Add People to this Conversation'] = '대화에 초대하기';
 $Definition['Add Route'] = '라우팅 경로 추가';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = '요청을 처리하는 동안 치명적인 오류가 발생했습니다.<br />The server returned the following response: %s';
 $Definition['All Conversations'] = '모든 대화';
 $Definition['All Discussions'] = '모든 글';
 $Definition['Allow other members to see your email?'] = '회원들에게 이메일을 공개하시겠습니까?';
@@ -86,10 +84,10 @@ $Definition['Change Picture'] = '사진 바꾸기';
 $Definition['Check all roles that apply to this user:'] = '이 유저가 가진 모든 역할 보기:';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = '잠그기';
-$Definition['Comment'] = '댓글';
 
 $Definition['comment'] = '댓글';
 
+$Definition['Comment'] = '댓글';
 $Definition['Comments'] = '댓글';
 $Definition['Confirm'] = '확인';
 $Definition['Confirm Email'] = '확인메일';
@@ -111,8 +109,8 @@ $Definition['Delete Discussion'] = '글삭제';
 
 $Definition['discussion'] = '게시글';
 
-$Definition['Discussion Title'] = '글제목';
 $Definition['Discussions'] = '글목록';
+$Definition['Discussion Title'] = '글제목';
 $Definition['Don\'t have an account? %s'] = '아직 회원이 아니신가요? %s';
 $Definition['Draft saved at %s'] = '초안이 저장되었습니다 %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = '아래의 사각형을 드래그하여 썸네일 아이콘을 선택해 주세요.';
@@ -123,11 +121,6 @@ $Definition['Edit My Account'] = '내 어카운트 수정';
 $Definition['Edit My Thumbnail'] = '썸네일 수정';
 $Definition['Edit Preferences'] = '환경설정';
 $Definition['Email'] = '이메일 주소';
-$Definition['Email Notifications'] = '이메일로 알림';
-$Definition['Email sent from the application will be addressed from the following name and address'] = '포럼 이메일 발송에 다음의 이름과 이메일 주소를 사용합니다.';
-$Definition['Email Source'] = '이메일 주소';
-$Definition['Email Unavailable'] = '이메일을 사용할 수 없습니다.';
-$Definition['Email visible to other users'] = '회원들에게 이메일 공개';
 $Definition['EmailFooter'] = '
 좋은 하루 되세요!';
 $Definition['EmailHeader'] = '{User.Name}님 안녕하세요!
@@ -153,6 +146,7 @@ $Definition['EmailNotification'] = '%1$s
 %2$s
 
 좋은 하루 되세요!';
+$Definition['Email Notifications'] = '이메일로 알림';
 $Definition['EmailPassword'] = '%1$s님 안녕하세요,
 
 %2$s님이 귀하의 %3$s 패스워드를 리셋했습니다. 
@@ -163,6 +157,8 @@ $Definition['EmailPassword'] = '%1$s님 안녕하세요,
   Url: %4$s
 
 감사합니다!';
+$Definition['Email sent from the application will be addressed from the following name and address'] = '포럼 이메일 발송에 다음의 이름과 이메일 주소를 사용합니다.';
+$Definition['Email Source'] = '이메일 주소';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -172,6 +168,8 @@ $Definition['EmailStoryNotification'] = '%1$s
 %2$s
 
 좋은 하루!';
+$Definition['Email Unavailable'] = '이메일을 사용할 수 없습니다.';
+$Definition['Email visible to other users'] = '회원들에게 이메일 공개';
 $Definition['EmailWelcome'] = '%1$s님 안녕하세요,
 
 %2$s님이 %3$s에 귀하의 계정을 만들었습니다. 로그인 정보는 다음과 같습니다:
@@ -226,8 +224,8 @@ $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" 
 $Definition['Inbox'] = '대화창';
 $Definition['Invite'] = '초대하기';
 $Definition['InviteErrorPermission'] = '권한이 없습니다.';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '포럼에 오신 것을 환영합니다. 아래의 버튼을 눌러 [로그인]을 해 주세요.';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '포럼에 오신 것을 환영합니다. 아래의 버튼을 눌러 [로그인]을 해 주세요.';
 
 $Definition['Keep me signed in'] = '로그인 유지';
 $Definition['Keep User Content'] = 'UserKeep';
@@ -266,8 +264,8 @@ $Definition['Notify me when people write on my wall.'] = '내 Wall에 글이 올
 $Definition['Old Password'] = '현재 패스워드';
 $Definition['OpenID Settings'] = 'OpenID 설정';
 $Definition['Options'] = '옵션';
-$Definition['Or you can...'] = '다른 계정으로 로그인';
 $Definition['Organize your Categories'] = '카테고리 분류';
+$Definition['Or you can...'] = '다른 계정으로 로그인';
 
 $Definition['Password'] = '패스워드';
 $Definition['PasswordRequest'] = '%1$s님 안녕하세요,
@@ -308,20 +306,20 @@ $Definition['Select an image on your computer (2mb max)'] = '컴퓨터에서 이
 $Definition['Send Message'] = '메세지 보내기';
 $Definition['Settings'] = '설정';
 $Definition['Share'] = '내 상태 공유하기';
+$Definition['SignIn'] = '로그인';
 $Definition['Sign In'] = '로그인';
 $Definition['Sign In with Google'] = '구글 계정으로 로그인';
 $Definition['Sign In with OpenID'] = 'OpenID로 로그인';
 $Definition['Sign In with Twitter'] = '트위터 계정으로 로그인';
 $Definition['Sign Out'] = '로그아웃';
 $Definition['Sign Up'] = '가입하기';
-$Definition['SignIn'] = '로그인';
 $Definition['Sink'] = '위치 유지';
 $Definition['Spam'] = '스팸';
 $Definition['Start a New Conversation'] = '새 대화 시작하기';
 $Definition['Start a New Discussion'] = '새글쓰기';
 $Definition['Start Conversation'] = '대화 시작하기';
-$Definition['Start your First Discussion'] = '글타래 열기';
 $Definition['Started by %1$s'] = '작성자 %1$s';
+$Definition['Start your First Discussion'] = '글타래 열기';
 
 $Definition['Target'] = '목적지';
 $Definition['TermsOfService'] = '서비스 약관';
@@ -370,8 +368,8 @@ $Definition['ValidateRequired'] = '%이(가) 필요합니다.';
 $Definition['ValidateRequiredArray'] = '최소한 한개라도 선택해야 합니다 %s.';
 $Definition['ValidateUsername'] = '사용자 이름은 3-20개 사이의 문자와 숫자 및 언더스코어의 조합이어야 합니다.';
 $Definition['Value'] = 'Condition Expression';
-$Definition['Visit Site'] = '사이트 바로가기';
 $Definition['Visits'] = '방문횟수';
+$Definition['Visit Site'] = '사이트 바로가기';
 
 $Definition['Welcome Aboard!'] = '환영합니다!';
 $Definition['Write a comment'] = '글 작성하기';
@@ -392,3 +390,5 @@ $Definition['your'] = '귀하';
 $Definition['Your changes have been saved.'] = '변경되었습니다.';
 $Definition['Your registered username: <strong>%s</strong>'] = '귀하의 사용자 이름: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = '설정이 저장되었습니다';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] 승인되었습니다.';

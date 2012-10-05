@@ -24,7 +24,6 @@ $Definition['1 month'] = '1 tháng';
 $Definition['1 month after being sent'] = 'đã gửi được 1 tháng';
 $Definition['1 week'] = '1 tuần';
 $Definition['1 week after being sent'] = 'đã gửi được 1 tuần';
-$Definition['15 minutes'] = '15 phút';
 
 $Definition['2 weeks after being sent'] = 'đã gửi được 2 tuần';
 
@@ -32,12 +31,11 @@ $Definition['4 hours'] = '4 giờ';
 
 $Definition['5 minutes'] = '5 phút';
 
+$Definition['15 minutes'] = '15 phút';
+
 $Definition['<strong>Categories</strong>'] = '<strong>Danh mục</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = 'C';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Chuy?n c';
-
-$Definition['[%s] Invitation'] = '[%s] Th? m?i';
-$Definition['[%s] Password Reset'] = 'M?t kh?u [%s] ??t l?i';
 
 $Definition['About Vanilla Statistics'] = 'Thống kê tình trạng Vanilla';
 $Definition['Above Main Content'] = 'Tr';
@@ -46,9 +44,9 @@ $Definition['Account Sync Failed'] = 'Tài khoản không được đồng bộ'
 $Definition['Action'] = 'Hành động';
 $Definition['Add Category'] = 'Th';
 $Definition['Add Connection'] = 'Thêm kết nối';
+$Definition['Addons'] = ' Addons';
 $Definition['Add Role'] = 'Add v? tr';
 $Definition['Add User'] = 'Th';
-$Definition['Addons'] = ' Addons';
 $Definition['Advanced'] = 'C?i ti?n';
 $Definition['All Dashboard Pages'] = 'T?t c? c';
 $Definition['All discussions in this category will be permanently deleted.'] = 'T?t c? c';
@@ -71,8 +69,8 @@ $Definition['Category Url:'] = 'Url danh m?c:';
 $Definition['Change the way that new users register with the site.'] = 'Thay ??i c';
 $Definition['Check all permissions that apply for each role'] = 'Ki?m tra t?t c? c';
 $Definition['Check all permissions that apply to this role:'] = 'Ki?m tra t?t c? c';
-$Definition['Choose a role that orphaned users will be assigned to:'] = 'Ch?n m?t vi tr? cho ng??i d';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'Ch?n v';
+$Definition['Choose a role that orphaned users will be assigned to:'] = 'Ch?n m?t vi tr? cho ng??i d';
 $Definition['Choose who can send out invitations to new members:'] = 'Ch?n ng??i c';
 
 $Definition['comment(s)'] = 'b';
@@ -106,9 +104,9 @@ $Definition['Edit Message'] = 'S?a tin nh?n';
 $Definition['Edit Role'] = 'S?a v? tr';
 $Definition['Edit User'] = 'S?a ng??i d';
 $Definition['Enable'] = 'K';
-$Definition['Enable this message'] = 'H?u d?ng t';
 $Definition['Enabled'] = 'H?u d?ng';
 $Definition['Enabled: The pocket will be displayed.'] = 'H?u d?ng';
+$Definition['Enable this message'] = 'H?u d?ng t';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Nh?p ??a ch? email c?a ng??i b?n mu?n m?i:';
 $Definition['Every Page'] = 'M?i trang';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'M?i ng??i d';
@@ -239,3 +237,6 @@ $Definition['Within'] = 'Trong';
 
 $Definition['You cannot remove an invitation that has been accepted.'] = 'B?n kh';
 $Definition['You have %s invitations left for this month.'] = 'B?n c';
+
+$Definition['[%s] Invitation'] = '[%s] Th? m?i';
+$Definition['[%s] Password Reset'] = 'M?t kh?u [%s] ??t l?i';

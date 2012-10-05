@@ -8,14 +8,13 @@ $Definition['%s comment'] = '%s komentar';
 $Definition['%s comments'] = '%s komentari';
 $Definition['%s Connect'] = '%s Poveži';
 $Definition['%s message'] = '%s poruka';
-$Definition['%s New'] = '%s Novo';
 $Definition['%s new'] = '%s Novo';
-$Definition['%s New Plural'] = '%s Novo';
+$Definition['%s New'] = '%s Novo';
 $Definition['%s new plural'] = '%s Novo';
+$Definition['%s New Plural'] = '%s Novo';
 
 $Definition['1 message'] = '1 poruka';
 
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Desila se greška tokom procesuiranja vašeg zahtjeva.<br />Server je dao slijedeći odgovor: %s';
 $Definition['About'] = 'O forumu';
 $Definition['Activity'] = 'Aktivnost';
 $Definition['Activity.AboutUpdate.FullHeadline'] = '%1$s ažurirao %6$s profil.';
@@ -57,6 +56,7 @@ $Definition['Add'] = 'Dodaj';
 $Definition['Add Comment'] = 'Dodaj komentar';
 $Definition['Add Message'] = 'Dodaj Poruku';
 $Definition['Add People to this Conversation'] = 'Dodaj Druge Ovom Razgovoru';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Desila se greška tokom procesuiranja vašeg zahtjeva.<br />Server je dao slijedeći odgovor: %s';
 $Definition['All Categories'] = 'Sve Kategorije';
 $Definition['All Conversations'] = 'Svi Razgovori';
 $Definition['All Discussions'] = 'Sve Diskusije';
@@ -84,10 +84,10 @@ $Definition['Change My Password'] = 'Promijeni Moju Šifru';
 $Definition['Change My Picture'] = 'Promijeni Moju Sliku';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = 'Zatvori';
-$Definition['Comment'] = 'Komentariši';
 
 $Definition['comment'] = 'komentariši';
 
+$Definition['Comment'] = 'Komentariši';
 $Definition['Confirm'] = 'Potvrdi';
 $Definition['Confirm Password'] = 'Potvrdi Šifru';
 $Definition['Connect'] = 'Poveži';
@@ -104,8 +104,8 @@ $Definition['Delete'] = 'Obriši';
 $Definition['Delete Account'] = 'Obriši Account';
 $Definition['Delete Conversation'] = 'Obriši Razgovor';
 $Definition['Delete Discussion'] = 'Obriši Diskusiju';
-$Definition['Discussion Title'] = 'Naziv Diskusije';
 $Definition['Discussions'] = 'Diskusije';
+$Definition['Discussion Title'] = 'Naziv Diskusije';
 $Definition['Don\'t have an account? %s'] = 'Nemate account? %s';
 $Definition['Draft saved at %s'] = 'Nacrt snimljen u %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Povucite i promijenite veličinu kvadrata ispod da biste utvrdili vašu minijaturnu sliku (ikonu).';
@@ -115,8 +115,6 @@ $Definition['Edit Account'] = 'Uredi Account';
 $Definition['Edit My Account'] = 'Uredi Moj Account';
 $Definition['Edit My Thumbnail'] = 'Uredi Moju Minijaturu';
 $Definition['Edit Preferences'] = 'Uredi Povlastice';
-$Definition['Email Notifications'] = 'Email Obavještenja';
-$Definition['Email Unavailable'] = 'Email Nedostupan';
 $Definition['EmailInvitation'] = 'Pozdrav!
 
 %1$s vas je pozvao da se učlanite %2$s. Ako se želite učlaniti, kliknite na ovaj link :
@@ -137,6 +135,7 @@ Otvorite link ispod da provjerite:
 %2$s
 
 Želimo Vam ugodan dan!';
+$Definition['Email Notifications'] = 'Email Obavještenja';
 $Definition['EmailPassword'] = 'Pozdrav %1$s,
 
 %2$s je ponovo podesio vašu šifru na %3$s. Vaši prijavni podaci su sada slijedeći:
@@ -155,6 +154,7 @@ Otvorite link ispod da provjerite:
 %2$s
 
 Želimo Vam ugodan dan!';
+$Definition['Email Unavailable'] = 'Email Nedostupan';
 $Definition['EmailWelcome'] = 'Pozdrav %1$s,
 
 %2$s je kreirao novi account za vas na %3$s. Vaši prijavni podaci su:
@@ -206,14 +206,14 @@ $Definition['his'] = 'njegov';
 $Definition['Howdy, Stranger!'] = 'Pozdrav, Gost!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Prihvatam <a id="TermsOfService" class="Popup" target="terms" href="%s">uslove pružanja usluge</a>';
-$Definition['I remember now!'] = 'Sjećam se sad!';
-$Definition['In this Conversation'] = 'U ovom razgovoru';
 $Definition['Inbox'] = 'Sandučić';
 $Definition['Internal'] = 'Unutrašnji';
+$Definition['In this Conversation'] = 'U ovom razgovoru';
 $Definition['Invite'] = 'Pozovi';
 $Definition['InviteErrorPermission'] = 'Žao nam je, nije moguće dati dozvolu.';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Čini se da ste novi ovdje. Ako se želite uključiti, kliknite jednu od ovih opcija!';
+$Definition['I remember now!'] = 'Sjećam se sad!';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Čini se da ste novi ovdje. Ako se želite uključiti, kliknite jednu od ovih opcija!';
 
 $Definition['Joined'] = 'Učlanjen';
 
@@ -247,8 +247,8 @@ $Definition['Notify me when people write on my wall.'] = 'Obavijesti me kad ljud
 
 $Definition['Okay'] = 'Uredu';
 $Definition['Options'] = 'Mogućnosti';
-$Definition['Or you can...'] = 'Ili možete...';
 $Definition['Original'] = 'Izvorno';
+$Definition['Or you can...'] = 'Ili možete...';
 
 $Definition['Password'] = 'Šifra';
 $Definition['PasswordRequest'] = 'Pozdrav %1$s,
@@ -289,13 +289,13 @@ $Definition['Share'] = 'Podijeli';
 
 $Definition['she'] = 'ona';
 
+$Definition['SignIn'] = 'Prijavi se';
 $Definition['Sign In'] = 'Prijavi se';
 $Definition['Sign In with Google'] = 'Prijavi Se sa Google';
 $Definition['Sign In with OpenID'] = 'Prijavi Se sa OpenID';
 $Definition['Sign In with Twitter'] = 'Prijavi Se sa Twitter-om';
 $Definition['Sign Out'] = 'Odjavi se';
 $Definition['Sign Up'] = 'Registruj se';
-$Definition['SignIn'] = 'Prijavi se';
 
 $Definition['somebody'] = 'neko';
 

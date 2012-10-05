@@ -8,32 +8,30 @@ $Definition['1 week after being sent'] = '1 tydzień po wysłaniu';
 
 $Definition['2 weeks after being sent'] = '2 tygodnie po wysłaniu';
 
-$Definition['_Locale'] = 'Lokalizacja';
-
-$Definition['A url-friendly version of the category name for better SEO.'] = 'Wersja url-friendly od nazw kategorii usprawniająca SEO.';
 $Definition['Accepted'] = 'Zaakceptowane';
 $Definition['Action'] = 'Akcja';
 $Definition['Add Info &amp; Create Account'] = 'Dodaj informacje i utwórz konto';
-$Definition['Add User'] = 'Dodaj użytkownika';
 $Definition['Addons'] = 'Dodatki';
+$Definition['Add User'] = 'Dodaj użytkownika';
 $Definition['Advanced'] = 'Zaawansowane';
 $Definition['Advanced Forum Settings'] = 'Zaawansowane ustawienia forum';
 $Definition['Appearance'] = 'Wygląd';
 $Definition['Applicant'] = 'Kandydat';
 $Definition['Application'] = 'Applikacja';
-$Definition['Application ID'] = 'ID aplikacji';
-$Definition['Application Secret'] = 'Tajne Zastosowanie';
 $Definition['ApplicationHelp'] = 'Aplikacje umożliwiają dodawanie dużych grup funkcjonalności witryny.<br />Gdy aplikacje zostały dodane do folderu %s, można włączyć lub wyłączyć je tutaj.';
+$Definition['Application ID'] = 'ID aplikacji';
 $Definition['Applications'] = 'Aplikacje';
+$Definition['Application Secret'] = 'Tajne Zastosowanie';
 $Definition['Apply'] = 'Zastosuj';
 $Definition['Approve'] = 'Zatwierdzam';
 $Definition['Archive Discussions'] = 'Archiwum dyskusji';
+$Definition['A url-friendly version of the category name for better SEO.'] = 'Wersja url-friendly od nazw kategorii usprawniająca SEO.';
 $Definition['Authentication'] = 'Uwierzytelnianie';
 
 $Definition['Badge Name'] = 'Nazwisko';
-$Definition['Ban Type'] = 'Wpisz';
 $Definition['Banner Logo'] = 'Logo Banner';
 $Definition['Banner Title'] = 'Banner tytułowy';
+$Definition['Ban Type'] = 'Wpisz';
 
 $Definition['Category Url:'] = 'Url kategorii:';
 $Definition['Change the way that new users register with the site.'] = 'Zmień sposób, w jaki nowy użytkownik może zarejestrować się na stronie.';
@@ -69,8 +67,8 @@ $Definition['Discussions per Page'] = 'Dyskusji na stronę';
 $Definition['edit'] = 'edytuj';
 
 $Definition['Edit Category'] = 'Edytuj kategorię';
-$Definition['Edit User'] = 'Edytuj użytkownika';
 $Definition['EditContentTimeout.Notes'] = 'Uwaga: Jeśli użytkownik jest w roli, która uprawnia do edycji treści, te uprawnienia nadpiszą każdą wartość zaznaczoną tutaj.';
+$Definition['Edit User'] = 'Edytuj użytkownika';
 $Definition['Enable'] = 'Dostępny';
 $Definition['Enable OpenID'] = 'Dostępne OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Wprowadź adres e-mail osoby, którą chcesz zaprosić:';
@@ -222,7 +220,9 @@ $Definition['Why do you want to join?'] = 'Chcesz się pryłączyć?';
 $Definition['Within'] = 'Wewnątrz';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Jeśli masz zablokowane wejście na swoje forum możesz się zalogować używając adresu e-mail i hasła podanego przy rejestracji <a href="%1$s">%1$s</a>';
-$Definition['You can place files in your /uploads folder.'] = 'Jeśli plik jest zbyt duży do bezpośredniego uploadu na stronie możesz umieścić go w folderze /uploads. Upewnij się, że nazwa pliku zaczyna się od słowa  <b>export</b> i kończy rozszerzeniem: <b>.txt, .gz</b>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Nie możesz wyłączyć plugina %1$s ponieważ jest wymagany do funkcjonowania plugina %2$s.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Nie możesz wyłączyć plugina OpenID ponieważ jest wymagany do funkcjonowania plugina GoogleSignIn.';
+$Definition['You can place files in your /uploads folder.'] = 'Jeśli plik jest zbyt duży do bezpośredniego uploadu na stronie możesz umieścić go w folderze /uploads. Upewnij się, że nazwa pliku zaczyna się od słowa  <b>export</b> i kończy rozszerzeniem: <b>.txt, .gz</b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Twoje zgłoszenie zostanie sprawdzone przez administratora. Zostaniesz powiadomiony przez e-mail, jeśli zgłoszenie zostanie przyjęte.';
+
+$Definition['_Locale'] = 'Lokalizacja';

@@ -1,9 +1,5 @@
 <?php
 
-$Definition[' - Page %s'] = ' - Página %s';
-$Definition[' now.'] = 'ahora';
-$Definition[' You should '] = 'Deberías';
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s aceptó la invitación de %4$s para unirse';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s cambió los permisos de %4$s ';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s cambió %6$s foto de perfil.';
@@ -16,11 +12,13 @@ $Definition['%1$s to %2$s'] = '%1$s a %2$s';
 $Definition['%1$s to %2$s of %3$s'] = '%1$s a %2$s de %3$s';
 $Definition['%1$s updated %6$s profile.'] = '%1$s perfil %6$s actualizado.';
 $Definition['%1$s was added to the %2$s %3$s.'] = '%1$s fue agregado al %2$s %3$s.';
-$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s fue eliminado de %2$s %3$s y agregado al %4$s %5$s.';
 $Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s fue eliminado de %2$s %3$s.';
+$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s fue eliminado de %2$s %3$s y agregado al %4$s %5$s.';
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s escrito en %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s aprobó%2$s la solicitud de membresía.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s creada una cuenta para %1$s.';
+$Definition['%s$1 to %s$2'] = '%s$1 a %s$2';
+$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 a %s$2 de %s$3';
 $Definition['%s (Current)'] = '%s (Actual)';
 $Definition['%s Agrees'] = '%s Acepta';
 $Definition['%s and you'] = '%s y tú';
@@ -28,8 +26,8 @@ $Definition['%s Awesomes'] = '%s Impresionante';
 $Definition['%s changed %s\'s permissions.'] = '%s cambió los permisos de%s ';
 $Definition['%s comment'] = '%s comentario';
 $Definition['%s Comment'] = '%s Comentario';
-$Definition['%s Comments'] = '%s Comentarios';
 $Definition['%s comments'] = '%s comentarios';
+$Definition['%s Comments'] = '%s Comentarios';
 $Definition['%s deleted this conversation.'] = '%s eliminado esta conversación.';
 $Definition['%s discussion'] = '%s discusión';
 $Definition['%s discussions'] = '%s discusiones';
@@ -55,20 +53,15 @@ $Definition['%s tags in the system'] = '%s tags en el sistema';
 $Definition['%s Up Votes'] = '%s Votos a favor';
 $Definition['%s votes'] = '%s votos';
 $Definition['%s was removed from the %s and added to the %s'] = '%s fue eliminado del %s y agregado al %s';
-$Definition['%s$1 to %s$2'] = '%s$1 a %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 a %s$2 de %s$3';
 
 $Definition['(empty message)'] = '(mensaje vacío)';
 
 $Definition['+%s Guests'] = '+%s Invitados';
 
+$Definition[' - Page %s'] = ' - Página %s';
+
 $Definition['1 message'] = '1 mensaje';
 
-$Definition['[%1$s] Membership Approved'] = '[%1$s] Miembro aprobado';
-$Definition['[%s] Welcome Aboard!'] = '[%s] ¡Bienvenido a bordo!';
-$Definition['[Deleted User]'] = '[Usuario Eliminado]';
-
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Un error grave ocurrió mientras se procesaba esta petición.<br />El servidor devolvió la siguiente respuesta: %s';
 $Definition['About'] = 'Acerca de';
 $Definition['Abuse'] = 'Abuso';
 $Definition['Accept'] = 'Aceptar';
@@ -118,9 +111,9 @@ $Definition['Activity.WallComment.ProfileHeadline'] = '%1$s escribió:';
 $Definition['Add'] = 'Añadir';
 $Definition['Add a Comment'] = 'Añadir un Comentario';
 $Definition['Add a Message'] = 'Agregar un Mensaje ';
+$Definition['Add another poll option ...'] = 'Añadir otra opción a la encuesta';
 $Definition['Add a Profile Picture'] = 'Añadir Imagen de Perfil';
 $Definition['Add a Warning'] = 'Añadir Alerta';
-$Definition['Add another poll option ...'] = 'Añadir otra opción a la encuesta';
 $Definition['Add Badge'] = 'Añadir Medalla';
 $Definition['Add Comment'] = 'Añadir Comentario';
 $Definition['Add Cost'] = 'Añadir costo';
@@ -133,30 +126,31 @@ $Definition['Administrator Activity'] = 'Administrador de Actividad';
 $Definition['administrators'] = 'administradores';
 
 $Definition['Advanced Stuff'] = 'Cosas Avanzadas ';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Un error grave ocurrió mientras se procesaba esta petición.<br />El servidor devolvió la siguiente respuesta: %s';
 $Definition['Agree'] = 'De acuerdo';
 $Definition['Alert'] = 'Alerta';
 $Definition['All Bookmarks'] = 'Todos los Marcadores';
 $Definition['All Categories'] = 'Categorías';
 $Definition['All Conversations'] = 'Todas las Conversaciones';
 $Definition['All Discussions'] = 'Todas las Discusiones';
-$Definition['All Time Leaders'] = 'Lideres de tiempo completo';
 $Definition['Allow'] = 'Permitir';
 $Definition['Allow other members to see your email?'] = '¿Permitir a otros miembros ver tu email?';
-$Definition['An invitation has already been sent to the email you entered.'] = 'Una invitación ha sido enviada al email que escribiste ';
+$Definition['All Time Leaders'] = 'Lideres de tiempo completo';
 $Definition['Ancient Membership'] = 'Membresia antigua';
+$Definition['An invitation has already been sent to the email you entered.'] = 'Una invitación ha sido enviada al email que escribiste ';
 $Definition['Announce'] = 'Anunciar';
-$Definition['Announce this discussion'] = 'Anunciar esta discusión';
 $Definition['Announce...'] = 'Anuncio...';
 $Definition['Announcement'] = 'Anunciamiento';
 $Definition['Announcements'] = 'Anuncios';
+$Definition['Announce this discussion'] = 'Anunciar esta discusión';
 
 $Definition['answer'] = 'respuesta';
 
 $Definition['Answers'] = 'Respuestas';
 $Definition['Applicants'] = 'Solicitantes';
 $Definition['Apply Changes'] = 'Aplicar Cambios';
-$Definition['Apply for Membership'] = 'Registrarse';
 $Definition['Apply for membership'] = 'Solicitar la participación en';
+$Definition['Apply for Membership'] = 'Registrarse';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = '¿Estas ABSOLUTAMENTE seguro que quieres realizar esta acción?';
 $Definition['Are you sure you want to delete this %s?'] = '¿Estás seguro que quieres eliminar esto %s?';
 $Definition['Are you sure you want to do that?'] = '¿Estás seguro de que quieres hacerlo?';
@@ -181,14 +175,14 @@ $Definition['Badges'] = 'Medallas';
 $Definition['BadgesModuleTitle'] = 'Medallas';
 $Definition['BadgesNobody'] = 'Nadie ha conseguido aún esta medalla.';
 $Definition['Ban'] = 'Bloquear';
-$Definition['Ban User'] = 'Ban usuario';
-$Definition['Ban Value'] = 'Valor del bloqueo';
 $Definition['Ban.Action'] = 'Expulsar';
 $Definition['Banned'] = 'Baneado';
 $Definition['Banned for being abusive.'] = 'Prohibido por ser abusiva.';
 $Definition['Banned for spamming.'] = 'Prohibido para el envío de correo basura.';
 $Definition['Banned users can no longer access the site.'] = 'Los usuarios bloqueados ya no pueden acceder al sitio. ';
 $Definition['BanType'] = 'Tipo de Bloqueo';
+$Definition['Ban User'] = 'Ban usuario';
+$Definition['Ban Value'] = 'Valor del bloqueo';
 $Definition['Best Of'] = 'Mejor De';
 $Definition['Best Of...'] = 'Lo Mejor de...';
 $Definition['Blank Discussion Topic'] = 'Vacío';
@@ -214,10 +208,10 @@ $Definition['CategoriesShowUnfollowed'] = 'Mostrar categorías ocultas';
 $Definition['CategoriesViewingAll'] = 'Estas viendo todas las categorías. ';
 $Definition['CategoriesViewingFollowed'] = 'Actualmente estas viendo las categorías que sigues ';
 $Definition['Category'] = 'Categoría';
+$Definition['CategoryID'] = 'Categoría';
 $Definition['Category Management'] = 'Gestión de Categorías';
 $Definition['Category Notifications'] = 'Notificaciones Categoría';
 $Definition['Category to Use'] = 'Categoría a usar ';
-$Definition['CategoryID'] = 'Categoría';
 $Definition['Change'] = 'Cambiar';
 $Definition['Change My Password'] = 'Cambiar mi Contraseña';
 $Definition['Change My Picture'] = 'Cambiar mi Fotografía';
@@ -229,20 +223,20 @@ $Definition['Child Categories:'] = 'Categorías infantil:';
 $Definition['Choose a name to identify yourself on the site.'] = 'Elige un nombre para identificarte en el sitio';
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'Elige la discusión principal en la cual todos los comentarios serán unidos:';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'Elige si quieres preguntar algo o iniciar una discusión ';
+$Definition['Clear'] = 'Limpiar';
 
 $Definition['clear'] = 'limpiar';
 
-$Definition['Clear'] = 'Limpiar';
 $Definition['Clear Conversation History'] = 'Limpiar Historial de Conversación';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'Clic <a href="%s">here</a> para regresar a la discusión. ';
 $Definition['Click accept or reject beside an answer.'] = 'Pulsar aceptar o rechazar a lado de la respuesta';
-$Definition['Click the %s beside discussions to bookmark them.'] = 'Pulsar el %s a lado del tema para marcarlo.';
 
 $Definition['clicking here'] = 'Dar click aquí';
 
+$Definition['Click the %s beside discussions to bookmark them.'] = 'Pulsar el %s a lado del tema para marcarlo.';
 $Definition['Close'] = 'Cerrar';
-$Definition['Close this discussion'] = 'Cerrar esta discusión ';
 $Definition['Closed'] = 'Cerrado';
+$Definition['Close this discussion'] = 'Cerrar esta discusión ';
 $Definition['Comment'] = 'Comentario';
 
 $Definition['comment'] = 'comentario';
@@ -275,13 +269,13 @@ $Definition['Create One.'] = 'Créate una cuenta.';
 $Definition['Current'] = 'Actual';
 $Definition['Currently: '] = 'Actualmente: ';
 $Definition['Custom Information'] = 'Información Personalizada ';
-$Definition['Custom Profile Field Settings'] = 'Configuración personalizada del perfil ';
-$Definition['Custom Profile Fields'] = 'Campos personalizados del perfil';
 $Definition['Customize'] = 'Personalizar ';
 
 $Definition['customize your profile now'] = 'Personalizar tu perfil ahora';
 
 $Definition['Customize your Public Profile'] = 'Personaliza tu Perfil Público';
+$Definition['Custom Profile Fields'] = 'Campos personalizados del perfil';
+$Definition['Custom Profile Field Settings'] = 'Configuración personalizada del perfil ';
 
 $Definition['Dashboard'] = 'Panel';
 $Definition['Dashboard Home'] = 'Panel de Inicio';
@@ -306,13 +300,13 @@ $Definition['Discussion'] = 'Discusión';
 
 $Definition['discussion'] = 'discusión';
 
-$Definition['Discussion Title'] = 'Título de la Discusión';
 $Definition['Discussions'] = 'Discusiones';
 $Definition['Discussions Page'] = 'Pagina de discusión';
+$Definition['Discussion Title'] = 'Título de la Discusión';
 $Definition['Dislike'] = 'No me gusta';
 $Definition['Dismiss'] = 'Descartar';
-$Definition['Do you want to expire or delete this warning?'] = '¿Quieres expirar o eliminar esta advertencia? ';
 $Definition['Don\'t have an account? %s'] = '¿No tienes cuenta? %s';
+$Definition['Do you want to expire or delete this warning?'] = '¿Quieres expirar o eliminar esta advertencia? ';
 $Definition['Draft saved at %s'] = 'Borrador guardado en %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Arrastra y cambia el tamaño del cuadrado sobre la foto para definir tu icono thumbnail.';
 
@@ -330,12 +324,6 @@ $Definition['Edit Tag'] = 'Editar Etiqueta';
 $Definition['Edit Thumbnail'] = 'Editar Thumbnail';
 $Definition['Eighth Anniversary'] = 'Octavo Aniversario ';
 $Definition['Email'] = 'Correo Electrónico';
-$Definition['Email Notifications'] = 'Notificaciones por Email';
-$Definition['Email Or Username'] = 'Correo o Usuario';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'Los correos electrónicos enviados desde la aplicación serán enviados con el Nombre y Dirección siguientes';
-$Definition['Email Source'] = 'Correo Electrónico';
-$Definition['Email Unavailable'] = 'Email No Disponible';
-$Definition['Email visible to other users'] = 'Email visible para otros usuarios';
 $Definition['Email/Username'] = 'Email/Nombre de usuario';
 $Definition['EmailConfirmEmail'] = 'Necesitas confirmar tu dirección de email antes de poder continuar. Por favor confirma tu dirección de email dando clic en el siguiente enlace: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '¡Que tengas un buen día!';
@@ -361,6 +349,8 @@ Sigue el enlace de abajo para echarle un vistazo:
 %2$s
 
 ¡Qué tengas un buen día!';
+$Definition['Email Notifications'] = 'Notificaciones por Email';
+$Definition['Email Or Username'] = 'Correo o Usuario';
 $Definition['EmailPassword'] = 'Hola %1$s,
 
 %2$s ha reseteado tu contraseña en %3$s. Ahora tus credenciales de acceso son:
@@ -370,6 +360,8 @@ $Definition['EmailPassword'] = 'Hola %1$s,
   Url: %4$s
 
 ¡Qué tengas un buen día!';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'Los correos electrónicos enviados desde la aplicación serán enviados con el Nombre y Dirección siguientes';
+$Definition['Email Source'] = 'Correo Electrónico';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -379,6 +371,8 @@ Sigue el enlace de abajo para echarle un vistazo:
 %2$s
 
 ¡Qué tengas un buen día!';
+$Definition['Email Unavailable'] = 'Email No Disponible';
+$Definition['Email visible to other users'] = 'Email visible para otros usuarios';
 $Definition['EmailWelcome'] = 'Hola %1$s,
 
 %2$s ha creado una cuenta para ti en %3$s. Tus credenciales de acceso son:
@@ -436,10 +430,10 @@ $Definition['Failed to find discussion for commenting.'] = 'Error en encontrar e
 $Definition['Failed to load the poll.'] = 'Error al cargar la encuesta ';
 $Definition['Female'] = 'Hembra';
 $Definition['Fifth Anniversary'] = 'Quinto Aniversario ';
-$Definition['File Size'] = 'Tamaño de archivo';
-$Definition['FileName'] = 'Nombre de archivo';
 $Definition['Filename'] = 'Nombre de archivo';
+$Definition['FileName'] = 'Nombre de archivo';
 $Definition['FileSize'] = 'Tamaño de archivo';
+$Definition['File Size'] = 'Tamaño de archivo';
 $Definition['First Anniversary'] = 'Primer Aniversario ';
 $Definition['First Comment'] = 'Primer Comentario';
 $Definition['Flag'] = 'Bandera';
@@ -450,8 +444,8 @@ $Definition['Followed by %d person'] = 'Seguido por %d personas';
 $Definition['Following %d people'] = 'Siguiendo %d personas';
 $Definition['Following %d person'] = 'Siguiendo a %d';
 $Definition['Follows'] = 'Seguidores';
-$Definition['Forgot your password?'] = '¿Olvidaste tu contraseña?';
 $Definition['Forgot?'] = '¿La olvidaste?';
+$Definition['Forgot your password?'] = '¿Olvidaste tu contraseña?';
 $Definition['Format his'] = 'su';
 $Definition['Format their'] = 'sus';
 $Definition['Format you'] = 'tú';
@@ -487,9 +481,9 @@ $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} advirtió a {Regar
 $Definition['her'] = 'su';
 
 $Definition['Hide'] = 'Ocultar';
+$Definition['Hide signatures?'] = '¿Firmas Ocultas?';
 $Definition['Hide signatures always'] = 'siempre ocultar firmas';
 $Definition['Hide signatures on my mobile device'] = 'ocultar firmas en mi dispositivo móvil';
-$Definition['Hide signatures?'] = '¿Firmas Ocultas?';
 
 $Definition['his'] = 'su';
 
@@ -497,27 +491,27 @@ $Definition['Home'] = 'Inicio';
 
 $Definition['hours'] = 'horas';
 
-$Definition['How long do you want this warning to last?'] = '¿Cuánto tiempo quiere que dure este aviso?';
 $Definition['Howdy, Stranger!'] = '¡Hola Forastero!';
+$Definition['How long do you want this warning to last?'] = '¿Cuánto tiempo quiere que dure este aviso?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Estoy de acuerdo con <a id="TermsOfService" class="Popup" target="terms" href="%s">los términos de servicio</a>';
-$Definition['I remember now!'] = '¡Acabo de recordarla!';
 
 $Definition['in'] = 'en';
 
 $Definition['In <b>%s.</b>'] = 'En <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'En <b>%s</b> y discusiones recientes. ';
-$Definition['In seconds'] = 'En segundos';
-$Definition['In this Conversation'] = 'En esta Conversación';
 $Definition['Inbox'] = 'Bandeja de Entrada';
+$Definition['In seconds'] = 'En segundos';
 $Definition['Insert Image'] = 'Insertar imagen';
 $Definition['Insightful'] = 'Perspicaz';
 $Definition['Internal'] = 'Interno';
+$Definition['In this Conversation'] = 'En esta Conversación';
 $Definition['Invalid password.'] = 'La contraseña que ingresaste es incorrecta. Recuerda que las contraseñas son sensibles a las mayúsculas y minúsculas.';
 $Definition['Invitations'] = 'Invitaciones ';
 $Definition['Invite'] = 'Invitar';
 $Definition['InviteErrorPermission'] = 'Lo siento, permiso denegado.';
 $Definition['IP Address'] = 'Dirección IP ';
+$Definition['I remember now!'] = '¡Acabo de recordarla!';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Pareces nuevo por aquí. Si quieres participar, ¡pulsa uno de estos botones!';
 
 $Definition['Jail'] = 'Cárcel ';
@@ -550,25 +544,23 @@ $Definition['Make me invisible? (Will not show you on the list)'] = '¿Ser invis
 $Definition['Make this poll anonymous (user votes are not made public).'] = 'Hacer esta encuesta anónima (Los votos no se hacen públicos)';
 $Definition['Male'] = 'Varón';
 $Definition['Mark All Viewed'] = 'Marcar todo como visto';
-$Definition['Mark Read'] = 'Marcar como leído ';
 $Definition['Marking as spam cannot be undone.'] = 'Marcar algo como SPAM causará su eliminación para siempre. Eliminar es una buena forma de mantener limpio el foro';
+$Definition['Mark Read'] = 'Marcar como leído ';
 $Definition['Merge'] = 'Unir';
 $Definition['Merge Discussions'] = 'Unir Discusiones';
+$Definition['Message'] = 'Mensaje';
 
 $Definition['message'] = 'mensaje';
 
-$Definition['Message'] = 'Mensaje';
 $Definition['Messages'] = 'Mensajes';
 
 $Definition['minutes'] = 'minutos';
 
 $Definition['Moderation'] = 'Moderación ';
 $Definition['Moderator Activity'] = 'Actividad del moderador';
-
-$Definition['moderators'] = 'moderadores';
-
 $Definition['Moderators'] = 'Moderadores ';
 
+$Definition['moderators'] = 'moderadores';
 $Definition['months'] = 'meses';
 
 $Definition['More'] = 'Más';
@@ -578,23 +570,23 @@ $Definition['More Information'] = 'Más Información';
 $Definition['More Results'] = 'Más Resultados';
 $Definition['More…'] = 'Más...';
 $Definition['Most Recent'] = 'Más Recientes';
-$Definition['Most recent by %1$s'] = 'Más reciente por %1$s';
 $Definition['Most recent:'] = 'Más recientes:';
 $Definition['Most recent: %1$s by %2$s'] = 'Más reciente: %1$s por %2$s';
+$Definition['Most recent by %1$s'] = 'Más reciente por %1$s';
+$Definition['MyBadgesModuleTitle'] = 'Mis Insignias ';
 $Definition['My Bookmarks'] = 'Marcadores';
 $Definition['My Discussions'] = 'Mis Discusiones';
 $Definition['My Drafts'] = 'Mis Borradores';
 $Definition['My Forums'] = 'Mis Foros';
 $Definition['My Preferences'] = 'Editar mis Preferencias';
-$Definition['MyBadgesModuleTitle'] = 'Mis Insignias ';
 
 $Definition['Name'] = 'Nombre';
 $Definition['Name Unavailable'] = 'Nombre no disponible';
 $Definition['New Conversation'] = 'Iniciar Nueva Conversación';
-$Definition['New Discussion'] = 'Nueva Discusión';
 
 $Definition['new discussion'] = 'nuevo';
 
+$Definition['New Discussion'] = 'Nueva Discusión';
 $Definition['New Message'] = 'Iniciar Nueva Conversación';
 $Definition['New Password'] = 'Nueva Contraseña';
 $Definition['New Poll'] = 'Nueva Encuesta';
@@ -606,8 +598,6 @@ $Definition['No discussions were found.'] = 'No se encontraron discusiones.';
 $Definition['No items tagged with %s.'] = 'No items etiquetados con %s.';
 $Definition['No results for \'%s\''] = 'No resultado para \'%s\'';
 $Definition['No Roles'] = 'No hay funciones.';
-$Definition['Not much happening here, yet.'] = 'No esta pasando mucho aquí, aún.';
-$Definition['Not Verified'] = 'No Verificado';
 $Definition['Notification'] = 'Notificación';
 $Definition['Notification Preferences'] = 'Notifación de preferencias';
 $Definition['Notifications'] = 'Notificaciones';
@@ -616,14 +606,18 @@ $Definition['Notify me of private messages.'] = 'Notificarme de mensajes privado
 $Definition['Notify me when I am added to private conversations.'] = 'Notificarme cuando sea añadido a una conversación privada.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Notificarme cuando la gente comente mis discusiones Marcadas.';
 $Definition['Notify me when people comment on my discussions.'] = 'Notificarme cuando la gente comente mis discusiones.';
-$Definition['Notify me when people mention me in comments.'] = 'Notificarme cuando la gente me mencione en comentarios.';
 $Definition['Notify me when people mention me.'] = 'Notifícame cuando alguien me mencione.';
+$Definition['Notify me when people mention me in comments.'] = 'Notificarme cuando la gente me mencione en comentarios.';
 $Definition['Notify me when people reply to my wall comments.'] = 'Notificarme cuando la gente conteste mis mensajes en el muro.';
 $Definition['Notify me when people write on my wall.'] = 'Notificarme cuando la gente escriba en mi muro.';
+$Definition['Not much happening here, yet.'] = 'No esta pasando mucho aquí, aún.';
+$Definition['Not Verified'] = 'No Verificado';
+
+$Definition[' now.'] = 'ahora';
 
 $Definition['Off Topic'] = 'Fuera de tema';
-$Definition['Old Password'] = 'Contraseña antigua';
 $Definition['OldPassword'] = 'Antigua contraseña';
+$Definition['Old Password'] = 'Contraseña antigua';
 $Definition['Only show followed categories'] = 'Solo mostrar categorías que sigo ';
 $Definition['OpenID Settings'] = 'Configuración OpenID';
 $Definition['Optional Description'] = 'Descripción Opcional';
@@ -631,14 +625,14 @@ $Definition['Options'] = 'Opciones';
 
 $Definition['or'] = 'o';
 
-$Definition['Or you can...'] = 'O puedes...';
 $Definition['Organize discussion categories'] = 'Organizar las categorías de discusión';
 $Definition['Organize your Categories'] = 'Organiza tus Categorías';
+$Definition['Or you can...'] = 'O puedes...';
 $Definition['Other Records'] = 'Otros registros ';
 
-$Definition['Page Not Found'] = 'Página no encontrada';
 $Definition['PageDetailsMessage'] = '%1$s a %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s a %2$s de %3$s';
+$Definition['Page Not Found'] = 'Página no encontrada';
 $Definition['PageViews'] = 'Visitas de la pagina';
 $Definition['ParticipatedHomepageTitle'] = 'Discusiones en las que se participaron';
 $Definition['Password'] = 'Contraseña';
@@ -670,11 +664,11 @@ $Definition['Post'] = 'Publicación ';
 $Definition['Post Comment'] = 'Enviar Comentario';
 $Definition['Post Discussion'] = 'Enviar Discusión';
 $Definition['Post edited by %1$s at %2$s'] = 'Publicación editada por %1$s en %2$s ';
-$Definition['Post this anonymously'] = 'Publicar esto anónimamente ';
 $Definition['Posts'] = 'Publicaciones';
 $Definition['Posts.Plural: %s'] = 'Publicaciones: %s';
 $Definition['Posts.Singular: %s'] = 'Publicaciones: %s';
 $Definition['Posts: %s'] = 'Publicaciones: %s';
+$Definition['Post this anonymously'] = 'Publicar esto anónimamente ';
 $Definition['Powered by %s'] = 'Desarrollado por %s';
 $Definition['PreferenceBadgeEmail'] = 'Notificarme cuando obtenga una insignia.';
 $Definition['PreferenceBadgePopup'] = 'Notificarme cuando obtenga una insignia.';
@@ -687,9 +681,9 @@ $Definition['Proceed'] = 'Proceder';
 $Definition['Profile'] = 'Perfil';
 $Definition['Profile  Fields'] = 'Perfil  Campos';
 $Definition['Profile Fields'] = 'Campos de Perfil ';
+$Definition['ProfileFieldsCustomDescription'] = 'Usa estos campos para personalizar la información del perfil. Puedes agregar cosas como "Estado Civil", "Skype" o "Tu Favorito Dinosaurio". ¡Se creativo!';
 $Definition['Profile Page'] = 'Pagina de Perfil';
 $Definition['Profile Picture'] = 'Fotografía del perfil';
-$Definition['ProfileFieldsCustomDescription'] = 'Usa estos campos para personalizar la información del perfil. Puedes agregar cosas como "Estado Civil", "Skype" o "Tu Favorito Dinosaurio". ¡Se creativo!';
 $Definition['Profiles'] = 'Perfiles';
 $Definition['Promote'] = 'Promocionar';
 $Definition['Public'] = 'Público';
@@ -699,10 +693,10 @@ $Definition['Q&A Answered'] = 'Respondida';
 $Definition['Q&A Question'] = 'Pregunta';
 $Definition['QnA Accepted Answer'] = 'Respuesta ✓';
 $Definition['QnA Rejected Answer'] = 'Respuesta Rechazada ';
-$Definition['Question'] = 'Pregunta';
 
 $Definition['question'] = 'pregunta';
 
+$Definition['Question'] = 'Pregunta';
 $Definition['Question Title'] = 'Título de la Discusión';
 $Definition['Quote'] = 'Citar';
 $Definition['Quote Folding'] = 'Desplegado de la cita';
@@ -716,11 +710,11 @@ $Definition['Reason'] = 'Razón';
 $Definition['Recent Activity'] = 'Actividad Reciente';
 $Definition['Recent Admin Activity'] = 'Actividad Reciente del Administrador ';
 $Definition['Recent Discussions'] = 'Conversaciones recientes';
-$Definition['Recent Moderator Activity'] = 'Actividad Reciente del Moderador ';
-$Definition['Recent Tutorials'] = 'Recientes Tutoriales';
 
 $Definition['recently'] = 'recientemente';
 
+$Definition['Recent Moderator Activity'] = 'Actividad Reciente del Moderador ';
+$Definition['Recent Tutorials'] = 'Recientes Tutoriales';
 $Definition['Recipients'] = 'Destinatarios';
 $Definition['RecipientUserID'] = 'Recipiente';
 $Definition['Redirecting...'] = 'Redireccionando...';
@@ -734,10 +728,10 @@ $Definition['Reject'] = 'Rechazar';
 $Definition['Reject this answer.'] = 'Rechazar esta respuesta. ';
 $Definition['Remember me on this computer'] = 'Recordarme en este ordenador';
 $Definition['Remote Configuration'] = 'Configuración Remota ';
+$Definition['Removed by'] = 'Eliminado por';
 $Definition['Remove My Picture'] = 'Eliminar mi Fotografía';
 $Definition['Remove Picture'] = 'Eliminar Fotografía';
 $Definition['Remove Warning'] = 'Eliminar Advertencia ';
-$Definition['Removed by'] = 'Eliminado por';
 $Definition['Rename Forum'] = 'Renombrar Foro';
 $Definition['Reopen'] = 'Reabrir';
 $Definition['Replies'] = 'Respuestas';
@@ -760,9 +754,9 @@ $Definition['Save Poll'] = 'Guardar Encuesta';
 $Definition['Save Preferences'] = 'Guardar Preferencias';
 $Definition['Save your password'] = 'Guarda tu contraseña';
 $Definition['Search'] = 'Buscar';
+$Definition['SearchBoxPlaceHolder'] = 'Buscar';
 $Definition['Search for a tag.'] = 'Buscar en general o por parte de una etiqueta';
 $Definition['Search results for \'%s\''] = 'Buscar resultados para \'%s\'';
-$Definition['SearchBoxPlaceHolder'] = 'Buscar';
 $Definition['Second Anniversary'] = 'Segundo Aniversario ';
 $Definition['Sections'] = 'Secciones ';
 $Definition['Security Check'] = 'Revisión de Seguridad';
@@ -781,9 +775,17 @@ $Definition['Shared Accounts'] = 'Cuentas Compartidas';
 
 $Definition['she'] = 'ella';
 
-$Definition['Show unfollowed categories'] = 'Mostrar categorías sin seguir ';
 $Definition['Shown only on mobile'] = 'Solo aparece en dispositivo móvil';
+$Definition['Show unfollowed categories'] = 'Mostrar categorías sin seguir ';
+$Definition['Sign-In URL'] = 'URL de Inicio de sesión';
+$Definition['Sign-Out URL'] = 'URL de cerrar la sesión';
+$Definition['Signature Code'] = 'Código firma';
+$Definition['Signature invalid.'] = 'Firma inválida.';
+$Definition['Signatures'] = 'Firmas';
+$Definition['Signature Settings'] = 'Preferencias de firma';
+$Definition['SignIn'] = 'Iniciar sesión';
 $Definition['Sign In'] = 'Acceder';
+$Definition['SigningOut'] = 'Espera un segundo mientras te desconectas. ';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Accede</a> o <a href="{RegisterUrl,html}">Regístrate</a> para comentar.';
 $Definition['Sign in to vote!'] = '¡Ingresa para votar!';
 $Definition['Sign In with %s'] = 'Iniciar Sesión con %s';
@@ -797,21 +799,13 @@ $Definition['Sign Out'] = 'Desconectarse';
 $Definition['sign out'] = 'Cerrar Sesión ';
 
 $Definition['Sign Up'] = 'Registrarse';
-$Definition['Sign-In URL'] = 'URL de Inicio de sesión';
-$Definition['Sign-Out URL'] = 'URL de cerrar la sesión';
-$Definition['Signature Code'] = 'Código firma';
-$Definition['Signature invalid.'] = 'Firma inválida.';
-$Definition['Signature Settings'] = 'Preferencias de firma';
-$Definition['Signatures'] = 'Firmas';
-$Definition['SignIn'] = 'Iniciar sesión';
-$Definition['SigningOut'] = 'Espera un segundo mientras te desconectas. ';
 $Definition['Sink this discussion'] = 'Bajar esta discusión';
 $Definition['Sitemap Settings'] = 'Configuración del Mapa del Sitio';
 $Definition['Sixth Anniversary'] = 'Sexto Aniversario';
-$Definition['Some Code'] = 'Algún codigo';
 
 $Definition['somebody'] = 'alguien';
 
+$Definition['Some Code'] = 'Algún codigo';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Alguien respondió tu pregunta. Necesitas aceptar/rechazar la respuesta. ';
 
 $Definition['sorted by'] = 'ordenados por';
@@ -824,18 +818,18 @@ $Definition['Start'] = 'Inicio';
 $Definition['Start a New Conversation'] = 'Iniciar Nueva Conversación';
 $Definition['Start a New Discussion'] = 'Nueva Discusión';
 $Definition['Start Conversation'] = 'Iniciar Conversación';
-$Definition['Start your First Discussion'] = 'Comienza tu primera Discusión';
 $Definition['Started By'] = 'Iniciado Por';
 $Definition['Started by %1$s'] = 'Iniciado por %1$s';
+$Definition['Start your First Discussion'] = 'Comienza tu primera Discusión';
 $Definition['Stop following'] = 'Dejar de seguir';
 $Definition['Strip images out of signatures'] = 'Retirar imágenes de las firmas';
 $Definition['Strip images out of signatures?'] = '¿Quitar las imágenes de las firmas?';
 $Definition['Suggested Value'] = 'Valor sugerido ';
 
-$Definition['Tag Name'] = 'Nombre de etiqueta';
 $Definition['Tagged'] = 'Etiquetado';
 $Definition['Tagged with '] = 'Etiquetado con';
 $Definition['Tagging'] = 'Etiquetando';
+$Definition['Tag Name'] = 'Nombre de etiqueta';
 $Definition['Tags'] = 'Etiquetas ';
 $Definition['Tags are keywords that users can assign to discussions to help categorize their question with similar questions.'] = 'Las etiquetas son palabras claves que los usuarios pueden asignar a las discusiones para ayudar a categorizar su pregunta con otras preguntas similares. ';
 $Definition['Take Action'] = 'Tomar acción';
@@ -866,21 +860,21 @@ $Definition['The conversation has been cleared.'] = 'La conversación ha sido li
 $Definition['The email you entered in use by another member.'] = 'El email que escribiste es usado por otro usuario.';
 $Definition['The email you have entered is already related to an existing account.'] = 'El email que escribiste esta relacionado con una cuenta existente ';
 $Definition['The file failed to upload.'] = 'El archivo falló al subirlo.';
-$Definition['The name you entered is already in use by another member.'] = 'El nombre que escribiste esta siendo usado por otro usuario.';
-$Definition['The page you were looking for could not be found.'] = 'La página que estabas buscando no se ha encontrado';
-$Definition['The quote had to be converted from %s to %s.'] = 'La cita se tubo que convertir de %s a %s. Algunos formatos se puede haber perdido.';
-$Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'El valor del reCAPTCHA fue ingresado incorrectamente. Por favor inténtalo de nuevo. ';
-$Definition['The response was not in the correct format.'] = 'La respuesta no esta en el formato correcto. ';
-$Definition['The site is currently undergoing maintenance.'] = 'El sitio se encuentra actualmente en mantenimiento';
-$Definition['The uploaded file was too big (max %s).'] = 'El archivo cargado es muy grande (máx %s)';
 
 $Definition['their'] = 'su';
 
+$Definition['The name you entered is already in use by another member.'] = 'El nombre que escribiste esta siendo usado por otro usuario.';
+$Definition['The page you were looking for could not be found.'] = 'La página que estabas buscando no se ha encontrado';
+$Definition['The quote had to be converted from %s to %s.'] = 'La cita se tubo que convertir de %s a %s. Algunos formatos se puede haber perdido.';
 $Definition['There are no tags in the system yet.'] = 'No hay etiquetas en el sistema todavía. ';
+$Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'El valor del reCAPTCHA fue ingresado incorrectamente. Por favor inténtalo de nuevo. ';
 $Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Ya hay una cuenta de usuario con el mismo nombre (%1$s) o correo electrónico (%2$s) que el tuyo. Puedes crear una cuenta nueva, o puedes ingresar las credenciales de tu cuenta existente en el foro.';
+$Definition['The response was not in the correct format.'] = 'La respuesta no esta en el formato correcto. ';
 $Definition['There was an error connecting to Disqus'] = 'Hubo error al conectarse a Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Hubo un error conectándose a Facebook';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Hubo un error cargando el archivo. Lo más probable es que el archivo es demasiado grande.';
+$Definition['The site is currently undergoing maintenance.'] = 'El sitio se encuentra actualmente en mantenimiento';
+$Definition['The uploaded file was too big (max %s).'] = 'El archivo cargado es muy grande (máx %s)';
 
 $Definition['they'] = 'ellos';
 
@@ -938,11 +932,11 @@ $Definition['Uploading...'] = 'Subiendo...';
 $Definition['UrlCode'] = 'Código URL';
 $Definition['Use My Current Password'] = 'Usar mi Contraseña Actual';
 $Definition['User "%s" does not exist.'] = 'Usuario "%s" no existe. ';
-$Definition['User not found.'] = 'Lo sentimos, no se encontró ninguna cuenta relacionada con el email/nombre de usuario que escribiste. ';
 $Definition['Username'] = 'Nombre Usuario';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Los Nombres de Usuarios solamente pueden contener letras, números y guiones bajos. ';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'El nombre de usuario solo puede contener, letras, números, guiones bajos y debe ser entre 3 y 20 caracteres de largo.  ';
 $Definition['UsernameError'] = 'Los nombres de usuarios solamente pueden contener letras, números, guiones bajos y deben tener entre 3 a 20 caracteres de largo.';
+$Definition['User not found.'] = 'Lo sentimos, no se encontró ninguna cuenta relacionada con el email/nombre de usuario que escribiste. ';
 $Definition['Users Count'] = 'Conteo de usuarios';
 
 $Definition['ValidateBanned'] = 'Eso %s no esta permitido. ';
@@ -963,12 +957,12 @@ $Definition['via %s'] = 'vía %s';
 
 $Definition['View Badge'] = 'Ver Insignia ';
 $Definition['Views'] = 'Vistas ';
-$Definition['Visit Site'] = 'Visitar Sitio';
 $Definition['Visits'] = 'Visitas';
+$Definition['Visit Site'] = 'Visitar Sitio';
 $Definition['Vote'] = 'Votar';
 $Definition['Vote Down'] = 'Votar en contra';
-$Definition['Vote Up'] = 'Votar a favor';
 $Definition['Votes'] = 'Votos';
+$Definition['Vote Up'] = 'Votar a favor';
 
 $Definition['wall'] = 'muro';
 
@@ -1003,33 +997,32 @@ $Definition['You are currently viewing all categories.'] = 'Actualmente estas vi
 $Definition['You are editing %s\'s signature'] = 'Estas editando la firma de %s\'s ';
 $Definition['You can either ask a question or start a discussion.'] = 'Puedes hacer una pregunta o iniciar una discusión. Elige lo que quieres hacer a continuación. ';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Puedes seguir las distintas categorías y ser notificado de todos los mensajes dentro de ellos.';
-$Definition['You can only specify up to %s tags.'] = 'Solamente puedes especificar %s etiquetas';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'No puedes editar la imágen de una imagen de perfil vinculadq de forma externa.';
+$Definition['You can only specify up to %s tags.'] = 'Solamente puedes especificar %s etiquetas';
+$Definition['You don\'t have permission to do that.'] = 'No tienes permiso para hacer eso.';
 $Definition['You do not have any bookmarks.'] = 'No tienes ningún marcador. ';
 $Definition['You do not have any conversations.'] = 'No tienes ninguna conversación.';
 $Definition['You do not have any drafts.'] = 'No tienes ningún borrador. ';
 $Definition['You do not have any notifications yet.'] = 'Aún no tienes notificaciones.';
 $Definition['You do not have enough invitations left.'] = 'Ya no tienes más invitaciones.';
 $Definition['You do not have permission to write new comments.'] = 'No tienes premiso para escribir nuevos comentarios.';
-$Definition['You don\'t have permission to do that.'] = 'No tienes permiso para hacer eso.';
+$Definition['YouEarnedBadge'] = 'Has ganado esta insignia ';
 $Definition['You have answered questions'] = 'Has respondido preguntas.';
 $Definition['You have entered an invalid discussion title'] = 'Has ingresado un título de discusión inválido ';
+$Definition['You haven\'t read this yet.'] = 'No has leído esto aún.';
 $Definition['You have not started any discussions.'] = 'No has iniciado ninguna discusión. ';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'Publicaste %1$s veces en menos de %2$s segundos. Un bloqueo por spam esta afectando tu cuenta. Debes esperar al menos %3$s segundos antes de intentar publicar otra vez. ';
-$Definition['You have selected %1$s in this discussion.'] = 'Has seleccionado %1$s en esta discusión. ';
 $Definition['You have selected %1$s.'] = 'Has seleccionado %1$s.';
+$Definition['You have selected %1$s in this discussion.'] = 'Has seleccionado %1$s en esta discusión. ';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Tienes que seleccionar al menos 2 discusiones para unirlas. ';
-$Definition['You haven\'t read this yet.'] = 'No has leído esto aún.';
 $Definition['You must agree to the terms of service.'] = 'Debes aceptar los términos de servicio.';
 $Definition['You need to confirm your email address.'] = 'Es necesario que confirmes tu dirección de correo eletrónico. Haz clic <a href="{/entry/emailconfirmrequest,url}">aquí</a> para enviar el correo de confirmación nuevamente.';
 $Definition['You need to sign in before you can do this.'] = 'Necesitas iniciar sesión antes de poder hacer esto. ';
-$Definition['You were added to a conversation.'] = '{InsertUserID,user} agregado {NotifyUserID,you} a una <a href="{Url,htmlencode}"> conversación </a>.';
-$Definition['YouEarnedBadge'] = 'Has ganado esta insignia ';
 
 $Definition['your'] = 'tu';
 
-$Definition['Your changes have been saved successfully.'] = 'Tus cambios se han guardado correctamente.';
 $Definition['Your changes have been saved.'] = 'Tus cambios se han guardado';
+$Definition['Your changes have been saved successfully.'] = 'Tus cambios se han guardado correctamente.';
 $Definition['Your changes were saved.'] = 'Tus cambios fueron guardados.';
 $Definition['Your email has been successfully confirmed.'] = 'Tu correo ha sido confirmado satisfactoriamente.';
 $Definition['Your invitation has been sent.'] = 'Tu invitación ha sido enviada.';
@@ -1041,9 +1034,17 @@ $Definition['Your preferences have been saved.'] = 'Tus preferencias han sido gu
 $Definition['Your private conversations with other members.'] = 'Tus conversaciones privadas con otros usuarios.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Tu nombre de usuario registrado: <strong>%s</strong>';
 $Definition['Your request has been sent.'] = 'Tu petición ha sido enviada. Verifica tu email para instrucciones adicionales. ';
-$Definition['Your settings have been saved successfully.'] = 'Tu configuración se ha guardado correctamente. ';
 $Definition['Your settings have been saved.'] = 'Tu configuración se ha guardado.';
+$Definition['Your settings have been saved successfully.'] = 'Tu configuración se ha guardado correctamente. ';
 $Definition['Your warning was added.'] = 'Tu advertencia fue agregada ';
+
+$Definition[' You should '] = 'Deberías';
+
+$Definition['You were added to a conversation.'] = '{InsertUserID,user} agregado {NotifyUserID,you} a una <a href="{Url,htmlencode}"> conversación </a>.';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Miembro aprobado';
+$Definition['[%s] Welcome Aboard!'] = '[%s] ¡Bienvenido a bordo!';
+$Definition['[Deleted User]'] = '[Usuario Eliminado]';
 
 $Definition['↳ No results for \'%s\''] = '↳ No resultados para \'%s\'';
 $Definition['↳ Search results for \'%s\''] = '↳ Buscar resultados para \'%s\'';

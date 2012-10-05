@@ -2,14 +2,10 @@
 
 $Definition['%s user(s) found.'] = '%s felhasználó található.';
 
-$Definition['[%s] Invitation'] = '[%s] Meghívás';
-$Definition['[%s] Password Reset'] = '[%s] Új jelszó';
-$Definition['[%s] Password Reset Request'] = '[%s] Új jelszó kérése';
-
 $Definition['Add Category'] = 'Kategória Hozzáadása';
+$Definition['Addons'] = 'Bővítmények';
 $Definition['Add Role'] = 'Csoport hozzáadása';
 $Definition['Add User'] = 'Felhasználó hozzáadása';
-$Definition['Addons'] = 'Bővítmények';
 $Definition['Administrator'] = 'Adminisztrátor';
 $Definition['Advanced'] = 'Haladó beállítás';
 $Definition['All'] = 'Összes';
@@ -26,10 +22,10 @@ $Definition['Approve'] = 'Jóváhagy';
 $Definition['Authentication'] = 'Hitelesítés';
 
 $Definition['Badge Name'] = 'Név';
-$Definition['Ban Type'] = 'Típus';
 $Definition['Banner'] = 'Banner/fejléc';
 $Definition['Banner Logo'] = 'Banner/fejléc Logó';
 $Definition['Banner Title'] = 'Banner/fejléc szöveg';
+$Definition['Ban Type'] = 'Típus';
 $Definition['Basic'] = 'Normál típus';
 
 $Definition['Categories are used to help organize discussions.'] = 'A kategóriák segítségével tudod elrendezni a beszélgetéseket';
@@ -52,9 +48,9 @@ $Definition['Don\'t use Categories'] = 'Ne Használj Kategóriákat';
 
 $Definition['Edit User'] = 'Felhasználó módosítása';
 $Definition['Enable'] = 'Engedélyez';
-$Definition['Enable this message'] = 'Üzenet engedélyezése';
 $Definition['Enabled'] = 'Engedélyezett';
 $Definition['Enabled: The pocket will be displayed.'] = 'Engedélyezett';
+$Definition['Enable this message'] = 'Üzenet engedélyezése';
 $Definition['Enter the email address of the person you would like to invite:'] = 'írd be annak az embernek az email címét akit meg akarsz hívni.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Minden felhasználónak megvan a maga csoportja. Ezeket az Adminisztrációs felületen keresztül tudod követni..';
 $Definition['Existing members send invitations to new members.'] = 'Az új felhasználó egy meglévő felhasználó meghívója által tud regisztrálni a fórumra.';
@@ -144,9 +140,9 @@ $Definition['The banner logo appears at the top of your forum.'] = 'A banner/fej
 $Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'A banner/fejléc szöveg minden lap bal felső részén meg fog jelenni. Ha banner/fejléc logó van feltöltve, akkor a szöveg helyett a logót fogják látni a felhasználók.';
 $Definition['The invitation was removed successfully.'] = 'A meghívást sikeresen töröltük.';
 $Definition['The invitation was sent successfully.'] = 'A meghívást sikeresen elküldtük.';
-$Definition['The Password Authenticator does not have any custom configuration options. '] = 'A Hitelesítési jelszó nem igényel saját beállításokat';
 $Definition['ThemeHelp'] = 'Téma segítség';
 $Definition['Themes'] = 'Téma';
+$Definition['The Password Authenticator does not have any custom configuration options. '] = 'A Hitelesítési jelszó nem igényel saját beállításokat';
 
 $Definition['Uninvite'] = 'Meghívó visszavonása';
 $Definition['User Count'] = 'Felhasználók';
@@ -161,3 +157,7 @@ $Definition['What\'s the Buzz?'] = 'Mi a helyzet?';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'A meghívőt nem tudod visszavonni, mert már elfogadták.';
 $Definition['You have %s invitations left for this month.'] = 'Neked %dbs meghívód maradt erre a hónapra';
 $Definition['You must be authenticated in order to use this form.'] = 'Figyelem - Elöbb hitelesítened kell magad, hogy használhasd a fórumot.';
+
+$Definition['[%s] Invitation'] = '[%s] Meghívás';
+$Definition['[%s] Password Reset'] = '[%s] Új jelszó';
+$Definition['[%s] Password Reset Request'] = '[%s] Új jelszó kérése';

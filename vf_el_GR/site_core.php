@@ -1,18 +1,18 @@
 <?php
 
-$Definition[' - Page %s'] = '- Σελίδα %s';
-
 $Definition['%1$s changed %6$s profile picture.'] = 'Οι %1$s και %6$s  άλλαξαν την εικόνα προφίλ τους.
 ';
 $Definition['%1$s joined.'] = 'Ο/Η %1$s συνδέθηκε.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = 'Ο/Η %1$s αναφέρθηκε %3$s στο %8$s.';
 $Definition['%s Agrees'] = '%s συμφωνεί';
 $Definition['%s and you'] = '%s και εσύ';
+$Definition['%s Awesomes'] = '%s δεινός';
 $Definition['%s comment'] = '%s σχόλιο';
 $Definition['%s comments'] = '%s σχόλια';
 $Definition['%s Connect'] = 'Σύνδεση %s';
 $Definition['%s discussion'] = '%s συζητήσεις';
 $Definition['%s discussions'] = '%s συζητήσεις';
+$Definition['%s Insightfuls'] = '%s Διορατικές';
 $Definition['%s Likes'] = '%s αγαπώ';
 $Definition['%s message'] = '%s μήνυμα';
 $Definition['%s New'] = '%s Νέο';
@@ -21,14 +21,14 @@ $Definition['%s new plural'] = '%s νέα';
 $Definition['%s New Plural'] = '%s Νέα';
 $Definition['%s Point'] = '%s Βαθμός';
 $Definition['%s point'] = '%s Βαθμός';
-$Definition['%s points'] = '%s Βαθμοί';
 $Definition['%s Points'] = '%s Βαθμοί';
+$Definition['%s points'] = '%s Βαθμοί';
 $Definition['%s view'] = '%s θέα';
 $Definition['%s views'] = '%s θέα';
 
-$Definition['1 message'] = '1 μήνυμα';
+$Definition[' - Page %s'] = '- Σελίδα %s';
 
-$Definition['[Deleted User]'] = '[Διαγραμμένος Χρήστης]';
+$Definition['1 message'] = '1 μήνυμα';
 
 $Definition['About'] = 'Σχετικά με';
 $Definition['Abuse'] = 'ύβρις';
@@ -81,8 +81,8 @@ $Definition['Agree'] = 'συμφωνώ';
 $Definition['All Categories'] = 'Όλες οι Κατηγορίες';
 $Definition['All Conversations'] = 'Όλες οι Συνομιλίες';
 $Definition['All Discussions'] = 'Όλες οι Συζητήσεις';
-$Definition['All Time Leaders'] = 'Πάντα ηγέτες';
 $Definition['Allow other members to see your email?'] = 'Επιτρέπεις σε άλλα μέλη να δουν το email σου?';
+$Definition['All Time Leaders'] = 'Πάντα ηγέτες';
 $Definition['Announce'] = 'Ανακοίνωση';
 $Definition['Announce...'] = 'Ανακοίνωση...';
 $Definition['Announcement'] = 'Ανακοίνωση';
@@ -92,9 +92,12 @@ $Definition['Are you sure you want to do that?'] = 'Είσαι σίγουρος/
 $Definition['Ask a Question'] = 'Κανε μια ερώτηση';
 $Definition['Ask Question'] = 'Ανάρτηση Συζήτησης';
 $Definition['Attach a file'] = 'Επισύναψη αρχείου';
+$Definition['Awesome'] = 'δεινός';
 
 $Definition['Back to Discussions'] = 'Πίσω στις Συζητήσεις';
 $Definition['Back to Profile'] = 'Πίσω στο προφίλ μου';
+$Definition['Badges'] = 'Διακριτικά';
+$Definition['BadgesModuleTitle'] = 'Διακριτικά';
 $Definition['Best Answer'] = 'καλύτερη απάντηση';
 $Definition['Best Answers'] = 'Καλύτερες απαντήσεις';
 $Definition['Best Of'] = 'άριστος';
@@ -108,26 +111,30 @@ $Definition['Bookmarks'] = 'Αγαπημένα';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Ανεβάζοντας ένα αρχείο πιστοποιείς ότι έχεις το δικαίωμα να διανέμεις την εικόνα και ότι αυτό δεν έρχεται σε αντίθεση με τους όρους της υπηρεσίας.';
 
 $Definition['Cancel'] = 'Ακύρωση';
-$Definition['Categories'] = 'Κατηγορίες Συζητήσεων';
+$Definition['Categories'] = 'Κατηγορίες';
 $Definition['CategoriesShowFollowed'] = 'Δες μόνο τις κατηγορίες που ακολουθάς.';
 $Definition['CategoriesShowUnfollowed'] = 'Δες τις υπόλοιπες κατηγορίες.';
 $Definition['CategoriesViewingAll'] = 'Δες θέματα από όλες τις κατηγορίες';
 $Definition['CategoriesViewingFollowed'] = 'Βλέπεις μόνο τις κατηγορίες που ακολουθάς.';
 $Definition['Category'] = 'Κατηγορία';
-$Definition['Category Management'] = 'Διαχείριση Κατηγοριών';
-$Definition['Category Notifications'] = 'Κατηγορίες Ειδοποιήσεων';
 $Definition['CategoryID'] = 'Κατηγορία';
+$Definition['Category Management'] = 'Διαχείριση Κατηγοριών';
+$Definition['Category Notifications'] = 'Ειδοποιήσεις Κατηγοριών';
 $Definition['Change My Password'] = 'Αλλαγή του Κωδικού μου';
 $Definition['Change My Picture'] = 'Αλλαγή της Εικόνας μου';
 $Definition['Change Password'] = 'Αλλαγή Κωδικού';
 $Definition['Change Picture'] = 'Αλλαγή Εικόνας';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
+
+$Definition['clear'] = 'καθαρίζω';
+
+$Definition['Clear'] = 'καθαρίζω';
 $Definition['Close'] = 'Κλείσιμο';
 $Definition['Closed'] = 'Κλειστό';
-$Definition['Comment'] = 'Σχόλιο';
 
 $Definition['comment'] = 'σχόλιο';
 
+$Definition['Comment'] = 'Σχόλιο';
 $Definition['Comments'] = 'Σχόλια';
 $Definition['Confirm'] = 'Επιβεβαίωση';
 $Definition['Confirm Password'] = 'Επιβεβαίωση Κωδικού';
@@ -151,8 +158,9 @@ $Definition['Disagree'] = 'διαφωνώ';
 
 $Definition['discussion'] = 'συζήτηση';
 
-$Definition['Discussion Title'] = 'Τίτλος Συζήτησης';
+$Definition['Discussion'] = 'συζήτηση';
 $Definition['Discussions'] = 'Συζητήσεις';
+$Definition['Discussion Title'] = 'Τίτλος Συζήτησης';
 $Definition['Dislike'] = 'απαρέσκω';
 $Definition['Dismiss'] = 'Απόρριψη';
 $Definition['Don\'t have an account? %s'] = 'Δεν έχεις λογαριασμό? %s';
@@ -166,9 +174,8 @@ $Definition['Edit My Account'] = 'Επεξεργασία του Λογαριασ
 $Definition['Edit My Profile'] = 'Επεξεργασία του προφίλ μου';
 $Definition['Edit My Thumbnail'] = 'Επεξεργασία Μικρογραφίας μου';
 $Definition['Edit Preferences'] = 'Επεξεργασία Προτιμήσεων';
+$Definition['Edit Profile'] = 'Επεξεργασία προφίλ';
 $Definition['Edit Thumbnail'] = 'Επεξεργασία Μικρογραφίας';
-$Definition['Email Notifications'] = 'Ειδοποιήσεις Email';
-$Definition['Email Unavailable'] = 'Μη Διαθέσιμο Email';
 $Definition['Email/Username'] = 'Email/Όνομα Χρήστη';
 $Definition['EmailConfirmEmail'] = 'Πρέπει να επιβεβαιώσεις τη διεύθυνση του email σου πριν προχωρήσεις. Παρακαλώ επιβεβαίωσε τη διεύθυνση του email σου ακολουθώντας τον πιο κάτω σύνδεσμο: {/entry/emailconfirm,url,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
@@ -191,6 +198,7 @@ $Definition['EmailNotification'] = '%1$s
 %2$s
 
 Να έχεις μια υπέροχη μέρα!';
+$Definition['Email Notifications'] = 'Ειδοποιήσεις Email';
 $Definition['EmailPassword'] = 'Ο/Η %2$s Έχει αλλάξει τον κωδικό σου στο %3$s. Τα στοιχεία της σύνδεσης σου είναι τώρα:
 
   Email: %6$s
@@ -205,6 +213,7 @@ $Definition['EmailStoryNotification'] = '%1$s
 %2$s
 
 Να έχεις μια υπέροχη μέρα!';
+$Definition['Email Unavailable'] = 'Μη Διαθέσιμο Email';
 $Definition['EmailWelcome'] = '%2$s Ο/Η  έχει δημιουργήσει ένα λογαριασμό για σένα στο %3$s. Τα στοιχεία της σύνδεσης σου τώρα είναι:
 
   Email: %6$s
@@ -232,13 +241,13 @@ $Definition['ErrorTermsOfService'] = 'Πρέπει να συμφωνήσεις �
 $Definition['everyone'] = 'Όλοι';
 
 $Definition['Female'] = 'Θηλυκό';
-$Definition['File Size'] = 'Μέγεθος αρχείου';
 $Definition['Filename'] = 'Όνομα αρχείου';
+$Definition['File Size'] = 'Μέγεθος αρχείου';
 $Definition['Flag'] = 'εκθέτω';
 $Definition['Forgot?'] = 'Ξέχασες?';
 $Definition['Format his'] = 'του';
-$Definition['Format You'] = 'Εσύ';
 $Definition['Format you'] = 'εσύ';
+$Definition['Format You'] = 'Εσύ';
 $Definition['Format Your'] = 'σας';
 
 $Definition['Gender'] = 'Φύλο';
@@ -260,25 +269,27 @@ $Definition['Hide signatures on my mobile device'] = 'Απόκρυψη υπογ�
 $Definition['his'] = 'του';
 
 $Definition['Home'] = 'Αρχική';
-$Definition['How long do you want this warning to last?'] = 'Πόσο πολύ θέλεις αυτή η προειδοποίηση να διαρκέσει;';
 $Definition['Howdy, Stranger!'] = 'Καλωσόρισες, επισκέπτη!';
+$Definition['How long do you want this warning to last?'] = 'Πόσο πολύ θέλεις αυτή η προειδοποίηση να διαρκέσει;';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Συμφωνώ με <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>';
-$Definition['I remember now!'] = 'Θυμάμαι τώρα!';
-$Definition['In this Conversation'] = 'Σε αυτή τη Συνομιλία';
 $Definition['Inbox'] = 'Εισερχόμενα';
 $Definition['Insert Image'] = 'Εισαγωγή Εικόνας';
+$Definition['Insightful'] = 'Διορατικές';
 $Definition['Internal'] = 'Εσωτερικά';
+$Definition['In this Conversation'] = 'Σε αυτή τη Συνομιλία';
 $Definition['Invite'] = 'Πρόσκληση';
 $Definition['InviteErrorPermission'] = 'Απολογούμαστε, αδύνατη πρόσβαση.';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Φαίνεται πως πρώτη φορά επισκέπτεσαι το χώρο. Αν θέλεις να συμμετέχεις, πάτησε ένα από αυτά τα κουμπιά!';
+$Definition['I remember now!'] = 'Θυμάμαι τώρα!';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Φαίνεται πως πρώτη φορά επισκέπτεσαι το χώρο. Αν θέλεις να συμμετέχεις, πάτησε ένα από αυτά τα κουμπιά!';
 
 $Definition['Joined'] = 'Συνδέθηκε';
 
 $Definition['Keep me signed in'] = 'Κράτησε με συνδεδεμένο';
 $Definition['Keep User Content'] = 'UserKeep';
 
+$Definition['Label'] = 'Πεδίο';
 $Definition['Last Active'] = 'Τελευταία Ενέργεια';
 $Definition['Last IP'] = 'Τελευταία IP';
 $Definition['Leaders'] = 'ηγέτες';
@@ -298,8 +309,11 @@ $Definition['moderators'] = 'συντονιστές';
 
 $Definition['More Discussions'] = 'Περισσότερες Συζητήσεις';
 $Definition['More Information'] = 'Περισσότερες Πληροφορίες';
-$Definition['Most recent by %1$s'] = 'Τελευταία ανάρτηση από %1$s';
+$Definition['Most Recent'] = 'πιο Πρόσφατα:';
+$Definition['Most recent:'] = 'πιο Πρόσφατα:';
 $Definition['Most recent: %1$s by %2$s'] = 'Πιο πρόσφατη: %1$s από %2$s';
+$Definition['Most recent by %1$s'] = 'Τελευταία ανάρτηση από %1$s';
+$Definition['MyBadgesModuleTitle'] = 'Διακριτικά μου';
 $Definition['My Bookmarks'] = 'Τα Αγαπημένα μου';
 $Definition['My Discussions'] = 'Οι Συζητήσεις μου';
 $Definition['My Drafts'] = 'Τα Προσχέδια μου';
@@ -309,6 +323,9 @@ $Definition['n/a'] = 'δεν εφαρμόζεται';
 
 $Definition['Name Unavailable'] = 'Όνομα μη διαθέσιμο';
 $Definition['New Conversation'] = 'Έναρξη Νέας Συνομιλίας';
+
+$Definition['new discussion'] = 'Νέα';
+
 $Definition['New Discussion'] = 'Νέα Συζήτηση';
 $Definition['New Message'] = 'Έναρξη Νέας Συνομιλίας';
 $Definition['New Password'] = 'Νέος Κωδικός';
@@ -320,11 +337,12 @@ $Definition['Notifications'] = 'Ειδοποιήσεις';
 $Definition['Notify'] = 'Κατηγοριών
 ';
 $Definition['Notify me of private messages.'] = 'Ειδοποίησε με για προσωπικά μηνύματα.';
+$Definition['Notify me when a comment is flagged.'] = 'Ειδοποίησε με όταν ένα σχόλιο μου σημανθεί.';
 $Definition['Notify me when I am added to private conversations.'] = 'Ειδοποίησε με όταν αναφέρομαι σε προσωπικές συνομιλίες.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Ειδοποίησε με όταν γίνονται σχόλια για τις αγαπημένες μου συζητήσεις.';
 $Definition['Notify me when people comment on my discussions.'] = 'Ειδοποίησε με όταν γίνονται σχόλια στις συζητήσεις μου.';
-$Definition['Notify me when people mention me in comments.'] = 'Ειδοποίησε με όταν με αναφέρουν σε σχόλια.';
 $Definition['Notify me when people mention me.'] = 'Ειδοποίησε με όταν με αναφέρουν.';
+$Definition['Notify me when people mention me in comments.'] = 'Ειδοποίησε με όταν με αναφέρουν σε σχόλια.';
 $Definition['Notify me when people reply to my wall comments.'] = 'Ειδοποίησε με όταν κάποιος απαντήσει στα σχόλια του τοίχου μου.';
 $Definition['Notify me when people write on my wall.'] = 'Ειδοποίησε με όταν κάποιος γράψει στον τοίχο μου.';
 
@@ -333,12 +351,12 @@ $Definition['Okay'] = 'Εντάξει';
 $Definition['Old Password'] = 'Παλιός Κωδικός';
 $Definition['Only show followed categories'] = 'Δες μόνο τις κατηγορίες που ακολουθάς.';
 $Definition['Options'] = 'Επιλογές';
-$Definition['Or you can...'] = 'Ή μπορείς να...';
 $Definition['Original'] = 'Πρωτότυπο';
+$Definition['Or you can...'] = 'Ή μπορείς να...';
 
-$Definition['Page Not Found'] = 'Η Σελίδα Δεν Βρέθηκε';
 $Definition['PageDetailsMessage'] = 'Ο/Η %1$s στον/ην %2$s';
 $Definition['PageDetailsMessageFull'] = 'Ο/Η %1$s στον/ην %2$s of %3$s';
+$Definition['Page Not Found'] = 'Η Σελίδα Δεν Βρέθηκε';
 $Definition['PageViews'] = 'θέα';
 $Definition['Password'] = 'Κωδικός χρήστη';
 $Definition['PasswordRequest'] = 'Γεια σου %1$s,
@@ -352,6 +370,9 @@ $Definition['Passwords don\'t match'] = 'Οι κωδικοί δεν ταιριά
 $Definition['Permalink'] = 'Μόνιμη ζεύξη';
 $Definition['Picture'] = 'Εικόνα';
 $Definition['Poll'] = 'Δημοσκόπιση';
+$Definition['Popular'] = 'Δημοφιλή';
+$Definition['Popular Discussions'] = 'Δημοφιλή συζητήσεις';
+$Definition['Popular Tags'] = 'Δημοφιλή Tags';
 $Definition['Popup'] = 'Αναδυώμενο';
 $Definition['Post Comment'] = 'Ανάρτηση Σχόλιου';
 $Definition['Post Discussion'] = 'Ανάρτηση Συζήτησης';
@@ -361,8 +382,9 @@ $Definition['Preview'] = 'Προεπισκόπηση';
 $Definition['Previous'] = 'Προηγούμενη';
 $Definition['Private Note for Moderators'] = 'Ιδιωτική Σημείωση για Συντονιστές';
 $Definition['Profile'] = 'Προφίλ';
-$Definition['Profile Picture'] = 'Εικόνα Προφίλ';
 $Definition['ProfileFieldsCustomDescription'] = 'Χρησιμοποίησε αυτά τα πεδία για να δημιουργήσεις επιπλέον πληροφορίες στο προφίλ πελάτη.  Μπορείς να προσθέσεις πεδία όπως «Προσωπική κατάσταση», «Skype ID», «Αγαπημένος Δεινόσαυρος», κτλ.  Γίνεται δημιουργικοί!';
+$Definition['Profile Picture'] = 'Εικόνα Προφίλ';
+$Definition['Promote'] = 'προάγω';
 
 $Definition['Question Title'] = 'Τίτλος Συζήτησης';
 $Definition['Quote'] = 'Παραθέτω κατά λέξη';
@@ -378,6 +400,7 @@ $Definition['Remember me on this computer'] = 'Να με θυμάσαι σε α�
 $Definition['Remove My Picture'] = 'Αφαίρεση της Εικόνας μου';
 $Definition['Remove Picture'] = 'Αφαίρεση Εικόνας';
 $Definition['Reopen'] = 'Επανάληψη Ανοίγματος';
+$Definition['Replies'] = 'Απαντήσεις';
 $Definition['Request a new password'] = 'Αίτημα νέου κωδικού πρόσβασης';
 $Definition['Roles'] = 'Ρόλοι';
 
@@ -394,13 +417,13 @@ $Definition['Share'] = 'Κοινοποίηση';
 $Definition['she'] = 'αυτή';
 
 $Definition['Sign In'] = 'Σύνδεση';
+$Definition['SignIn'] = 'Σύνδεση';
 $Definition['Sign In with Facebook'] = 'Σύνδεση μέσω Facebook';
 $Definition['Sign In with Google'] = 'Σύνδεση μέσω Google';
 $Definition['Sign In with OpenID'] = 'Σύνδεση μέσω OpenID';
 $Definition['Sign In with Twitter'] = 'Σύνδεση μέσω Twitter';
 $Definition['Sign Out'] = 'Αποσύνδεση';
 $Definition['Sign Up'] = 'Εγγραφή';
-$Definition['SignIn'] = 'Σύνδεση';
 $Definition['Sink'] = 'Βύθιση';
 
 $Definition['somebody'] = 'κάποιος';
@@ -408,6 +431,7 @@ $Definition['somebody'] = 'κάποιος';
 $Definition['Start a New Conversation'] = 'Έναρξη Νέας Συνομιλίας';
 $Definition['Start a New Discussion'] = 'Έναρξη Νέας Συζήτησης';
 $Definition['Start Conversation'] = 'Έναρξη Συνομιλίας';
+$Definition['Started By'] = 'Ξεκίνησε από τον/την';
 $Definition['Started by %1$s'] = 'Ξεκίνησε από τον/την %1$s';
 
 $Definition['TermsOfServiceText'] = '
@@ -461,12 +485,14 @@ $Definition['ValidateTime'] = '%s δεν είναι έγκυρη η ώρα.';
 $Definition['ValidateTimestamp'] = '%s δεν είναι έγκυρο το Τimestamp (Σφραγίδα χρόνου).';
 $Definition['ValidateUsername'] = 'Το όνομα του χρήστη πρέπει να είναι από 3-20 χαρακτήρες και να περιλαμβάνει γράμματα, αριθμούς και το σύμβολο της κάτω παύλας.';
 $Definition['ValidateVersion'] = 'Το %s πεδίο δεν έχει έγκυρο αριθμό έκδοσης. Δες το αρχείο php version_compare() function για παραδείγματα έγκυρων αριθμών εκδόσεων.';
-$Definition['Value'] = 'Condition Expression';
+$Definition['Value'] = 'Πληροφορία';
 $Definition['Views'] = 'θέα';
 $Definition['Visits'] = 'Επισκέψεις';
 
 $Definition['wall'] = 'τοίχος';
 
+$Definition['Warn'] = 'προειδοποιώ';
+$Definition['Warnings'] = 'Προειδοποιήσεις';
 $Definition['Welcome Aboard!'] = 'Καλωσόρισες στο χώρο μας!';
 $Definition['Write a comment'] = 'Γράψε ένα σχόλιο';
 $Definition['Write Comment'] = 'Γράψε Σχόλιο';
@@ -488,3 +514,5 @@ $Definition['You must agree to the terms of service.'] = 'Πρέπει να συ
 $Definition['your'] = 'δικό σου';
 
 $Definition['Your registered username: <strong>%s</strong>'] = 'Το εγγεγραμμένο όνομα χρήστη: <strong>%s</strong>';
+
+$Definition['[Deleted User]'] = '[Διαγραμμένος Χρήστης]';

@@ -9,16 +9,13 @@ $Definition['%s comments'] = '%s comentaris';
 $Definition['%s Connect'] = '%s Connectar';
 $Definition['%s discussion'] = '%s discussi';
 $Definition['%s message'] = '%s missatge';
-$Definition['%s new'] = '%s nou';
 $Definition['%s New'] = '%s Nou';
-$Definition['%s new plural'] = '%s nou';
+$Definition['%s new'] = '%s nou';
 $Definition['%s New Plural'] = '%s Nous';
+$Definition['%s new plural'] = '%s nou';
 
 $Definition['1 message'] = '1 missatge';
 
-$Definition['[%1$s] Membership Approved'] = '[%1$s] Miembro aprobado';
-
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Un error grave ocurrió mientras se procesaba esta petición.<br />El servidor devolvió la siguiente respuesta: %s';
 $Definition['About'] = 'Sobre';
 $Definition['Activate'] = 'Activar';
 $Definition['Activity'] = 'Activitat';
@@ -63,6 +60,7 @@ $Definition['Add Comment'] = 'Afegir Comentari';
 $Definition['Add Message'] = 'Añadir Mensaje';
 $Definition['Add People to this Conversation'] = 'Afegir gent en equesta Conversa';
 $Definition['Add Route'] = 'Añadir Ruta';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Un error grave ocurrió mientras se procesaba esta petición.<br />El servidor devolvió la siguiente respuesta: %s';
 $Definition['All Categories'] = 'Totes les Categories';
 $Definition['All Conversations'] = 'Totes les Converses';
 $Definition['All Discussions'] = 'Totes les Discussions';
@@ -121,8 +119,8 @@ $Definition['Delete Discussion'] = 'Eliminar Discussi';
 
 $Definition['discussion'] = 'discussi';
 
-$Definition['Discussion Title'] = 'T';
 $Definition['Discussions'] = 'Discusiones';
+$Definition['Discussion Title'] = 'T';
 $Definition['Dismiss'] = 'Descartar';
 $Definition['Don\'t have an account? %s'] = 'No tens un compte? %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Arrastra i canvia el tamany del quadre sobre la foto per a definir la teva icona en miniatura.';
@@ -135,11 +133,6 @@ $Definition['Edit My Thumbnail'] = 'Editar la meva miniatura';
 $Definition['Edit Preferences'] = 'Editar Prefer';
 $Definition['Edit Thumbnail'] = 'Editar Thumbnail';
 $Definition['Email'] = 'Correo Electrónico';
-$Definition['Email Notifications'] = 'Notificacions per Email';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'Los correos electrónicos enviados desde la aplicación serán enviados con el Nombre y Dirección siguientes';
-$Definition['Email Source'] = 'Correo Electrónico';
-$Definition['Email Unavailable'] = 'Email No Disponible';
-$Definition['Email visible to other users'] = 'Email visible para otros usuarios';
 $Definition['EmailInvitation'] = 'Hola!
 
 %1$s t\'ha convidat a afegir-te a %2$s. Si vols, pots fer-ho clicant al seg';
@@ -151,15 +144,20 @@ Has sido aprobado como miembro. Conéctate ahora con el siguiente enlace:
   
 ¡Qué tengas un buen día!';
 $Definition['EmailNotification'] = '%1$sSegueix l\'enlla';
+$Definition['Email Notifications'] = 'Notificacions per Email';
 $Definition['EmailPassword'] = 'Hola %1$s,
 
 %2$s ha reiniciat la teva contrasenya en %3$s. Ara les teves credencials d\'acc';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'Los correos electrónicos enviados desde la aplicación serán enviados con el Nombre y Dirección siguientes';
+$Definition['Email Source'] = 'Correo Electrónico';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
 
 ---
 Segueix l\'enlla';
+$Definition['Email Unavailable'] = 'Email No Disponible';
+$Definition['Email visible to other users'] = 'Email visible para otros usuarios';
 $Definition['EmailWelcome'] = 'Hola %1$s,
 
 %2$s t\'ha creat un compte a %3$s. Les teves credencials d\'acc';
@@ -193,14 +191,14 @@ $Definition['his'] = 'el seu';
 $Definition['Howdy, Stranger!'] = 'Benvingut, Foraster!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Estic d\'acord amb <a id="TermsOfService" class="Popup" target="terms" href="%s">les condicions del servei</a>';
-$Definition['I remember now!'] = 'L\'acabo de recordar!';
-$Definition['In this Conversation'] = 'En aquesta conversa';
 $Definition['Inbox'] = 'Bandeja de Entrada';
 $Definition['Internal'] = 'Interno';
+$Definition['In this Conversation'] = 'En aquesta conversa';
 $Definition['Invite'] = 'Convidar';
 $Definition['InviteErrorPermission'] = 'Hem sap greu, perm';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Sembles nou en aquestes contrades. Si vols participar, clica un dels seg';
+$Definition['I remember now!'] = 'L\'acabo de recordar!';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Sembles nou en aquestes contrades. Si vols participar, clica un dels seg';
 
 $Definition['Joined'] = 'Registrat el';
 
@@ -215,8 +213,8 @@ $Definition['Male'] = 'Home';
 $Definition['Mark Read'] = 'Marcar tot com a Llegit';
 $Definition['Message'] = 'Mensaje';
 $Definition['Messages'] = 'Mensajes';
-$Definition['Most recent by %1$s'] = 'El m';
 $Definition['Most recent: %1$s by %2$s'] = 'El m';
+$Definition['Most recent by %1$s'] = 'El m';
 $Definition['My Bookmarks'] = 'Preferits';
 $Definition['My Discussions'] = 'Les meves Discussions';
 $Definition['My Drafts'] = 'Els meus Esborranys';
@@ -241,8 +239,8 @@ $Definition['Notify me when people write on my wall.'] = 'Notifica\'m quan la ge
 $Definition['Old Password'] = 'Contrasenya antiga';
 $Definition['OpenID Settings'] = 'Configuración OpenID';
 $Definition['Options'] = 'Opciones';
-$Definition['Or you can...'] = 'O pots...';
 $Definition['Organize your Categories'] = 'Organiza tus Categorías';
+$Definition['Or you can...'] = 'O pots...';
 
 $Definition['PageDetailsMessage'] = '%1$s a %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s a %2$s de %3$s';
@@ -289,20 +287,20 @@ $Definition['Share'] = 'Compartir';
 $Definition['she'] = 'ella';
 
 $Definition['Sign In'] = 'Accedir';
+$Definition['SignIn'] = 'Accedir';
 $Definition['Sign In with Google'] = 'Accedir amb Google';
 $Definition['Sign In with OpenID'] = 'Accedir amb OpenID';
 $Definition['Sign In with Twitter'] = 'Accedir amb Twitter';
 $Definition['Sign Out'] = 'Desconectarse';
 $Definition['Sign Up'] = 'Registrar-se';
-$Definition['SignIn'] = 'Accedir';
 
 $Definition['somebody'] = 'alg';
 
 $Definition['Start a New Conversation'] = 'Iniciar una Nova Conversa';
 $Definition['Start a New Discussion'] = 'Iniciar una Nova Discussi';
 $Definition['Start Conversation'] = 'Iniciar Conversa';
-$Definition['Start your First Discussion'] = 'Comienza tu primera Discusión';
 $Definition['Started by %1$s'] = 'Iniciat per %1$s';
+$Definition['Start your First Discussion'] = 'Comienza tu primera Discusión';
 
 $Definition['Target'] = 'Objetivo';
 $Definition['TermsOfServiceText'] = '
@@ -351,8 +349,8 @@ $Definition['ValidateRequired'] = '%s es requerido.';
 $Definition['ValidateRequiredArray'] = 'Com a m';
 $Definition['ValidateUsername'] = 'Els noms d\'usuari hand e tenir entre 3 i 20 car';
 $Definition['Value'] = 'Condition Expression';
-$Definition['Visit Site'] = 'Visitar Sitio';
 $Definition['Visits'] = 'Visites';
+$Definition['Visit Site'] = 'Visitar Sitio';
 
 $Definition['wall'] = 'mur';
 
@@ -361,10 +359,9 @@ $Definition['Write a comment'] = 'Escriu un comentari';
 $Definition['Write Comment'] = 'Escriure Comentari';
 $Definition['Write something about yourself...'] = 'Escriu alguna cosa sobre tu...';
 
-$Definition['You'] = 'Tu';
-
 $Definition['you'] = 'tu';
 
+$Definition['You'] = 'Tu';
 $Definition['You already have an account here.'] = 'Ja tens un compte aqu';
 $Definition['You are connected as %s through %s.'] = 'Est';
 $Definition['You do not have any conversations.'] = 'No tens cap conversa.';
@@ -376,3 +373,5 @@ $Definition['your'] = 'el teu';
 $Definition['Your changes have been saved.'] = 'Tus cambios se han guardado';
 $Definition['Your registered username: <strong>%s</strong>'] = 'El teu nom d\'usuari registrat: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = 'Tu configuración se ha guardado.';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Miembro aprobado';

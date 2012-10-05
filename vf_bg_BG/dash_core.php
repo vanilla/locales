@@ -8,32 +8,30 @@ $Definition['1 week after being sent'] = '1 седмица след изпращ
 
 $Definition['2 weeks after being sent'] = '2 седмици след изпращането';
 
-$Definition['_Locale'] = 'Локал';
-
 $Definition['Accepted'] = 'Прието';
 $Definition['Action'] = 'Действие';
 $Definition['Add Info &amp; Create Account'] = 'Добавяне на информация &amp; Създаване на акаунт';
-$Definition['Add User'] = 'Добавяне на потребител';
 $Definition['Addons'] = 'Добавки';
+$Definition['Add User'] = 'Добавяне на потребител';
 $Definition['Administrator'] = 'Администратор';
 $Definition['Advanced'] = 'Разширени';
 $Definition['Advanced Forum Settings'] = 'Разширени настройки на форума';
 $Definition['Appearance'] = 'Външен вид';
 $Definition['Applicant'] = 'Кандидат';
 $Definition['Application'] = 'Приложение';
-$Definition['Application ID'] = 'ID на приложението';
-$Definition['Application Secret'] = 'Таен ключ на приложението';
 $Definition['ApplicationHelp'] = 'Приложенията Ви позволяват сериозно да разширите функционалността на форума.<br />След като добавите приложението към следната папка %s , може да го включите или изключите оттук.';
+$Definition['Application ID'] = 'ID на приложението';
 $Definition['Applications'] = 'Приложения';
+$Definition['Application Secret'] = 'Таен ключ на приложението';
 $Definition['Apply'] = 'Прилагане';
 $Definition['Approve'] = 'Одобряване';
 $Definition['Archive Discussions'] = 'Архивиране на дискусии';
 
 $Definition['Badge Name'] = 'Име';
-$Definition['Ban Type'] = 'Тип';
 $Definition['Banner'] = 'Банер';
 $Definition['Banner Logo'] = 'Лого';
 $Definition['Banner Title'] = 'Съдържание на текстовия банер';
+$Definition['Ban Type'] = 'Тип';
 
 $Definition['Category Url:'] = 'Url на категорията:';
 $Definition['Change the way that new users register with the site.'] = 'Променете начина на регистрация за нови потребители.';
@@ -64,11 +62,11 @@ $Definition['Discussions per Page'] = 'Дискусии на страниця';
 $Definition['edit'] = 'редактиране';
 
 $Definition['Edit Category'] = 'Редактиране на категория';
-$Definition['Edit User'] = 'Редактиране на потребител';
 $Definition['EditContentTimeout.Notes'] = 'Бележка: Ако потребител е в роля, която му позволява да редактира съдържание, то правата избрани тук ще бъдат игнорирани и вместо тях ще бъдат приложени правата на съответната група.';
+$Definition['Edit User'] = 'Редактиране на потребител';
 $Definition['Enable'] = 'Включване';
-$Definition['Enable OpenID'] = 'Включване на вписването с OpenID';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
+$Definition['Enable OpenID'] = 'Включване на вписването с OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Въведете адреса за електронна поща на човека, който искате да поканите:';
 $Definition['Every Page'] = 'Всяка страница';
 $Definition['Exclude archived discussions from the discussions list'] = 'Изключване на архивираните дискусии от списъка с дискусии';
@@ -209,10 +207,10 @@ $Definition['Users'] = 'Потребители';
 
 $Definition['Vanilla.Archive.Description'] = 'Може да изберете да архивирате дискусии по-стари от определена дата. Архивираните дискусии се затварят и не е възможно публикуването на нови мнения.';
 $Definition['Version'] = 'Версия';
+$Definition['Version %s'] = 'Версия %s';
 
 $Definition['version %s'] = 'версия %s';
 
-$Definition['Version %s'] = 'Версия %s';
 $Definition['View'] = 'Преглед';
 
 $Definition['Warning'] = 'Внимание';
@@ -224,3 +222,5 @@ $Definition['Within'] = 'в';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Ако по някаква причина се окажете заключени извън форума, винаги можете да влезете с оригиналните e-mail и парола Vanilla email and password  <a href="%1$s">%1$s</a>';
 $Definition['You can place files in your /uploads folder.'] = 'Ако вашият файл е твърде голям,да hf качите директно към тази страница можете да го поставите в папката /uploads. Уверете се, че името на файла започва с думата <b>export</b> и завършва с <b>.txt, .gz</b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Кандидатурата Ви за членство ще бъде разгледана от администратор. Ще бъдете уведомени чрез е-мейл, ако кандидатурата Ви бъде одобрена.';
+
+$Definition['_Locale'] = 'Локал';

@@ -2,10 +2,6 @@
 
 $Definition['%s user(s) found.'] = '%s funnet';
 
-$Definition['[%s] Invitation'] = '[%s] Invitasjon';
-$Definition['[%s] Password Reset'] = '[%s] Passord nullstilt';
-$Definition['[%s] Password Reset Request'] = '[%s] Forespør nullstilling av passord.';
-
 $Definition['Add Role'] = 'Legg til rolle';
 $Definition['Allow users to dismiss this message'] = 'Tillat brukere å avskjedige denne meldingen.';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Selv om invitasjonen ble laget, kunne ikke e-posten bli sendt. Serveren sier det er fordi: %s';
@@ -25,8 +21,8 @@ $Definition['Current Authenticator'] = 'Nåværende autentisering';
 $Definition['Current Theme'] = 'Nåværende tema';
 
 $Definition['Edit User'] = 'Rediger bruker';
-$Definition['Enable this message'] = 'Slå på denne meldingen';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
+$Definition['Enable this message'] = 'Slå på denne meldingen';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Skriv inn e-post adressen til den du vil invitere:';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Hver eneste bruker må få minst én rolle. Roller brukes for å bestemme hva brukere har lov til å gjøre.';
 
@@ -82,9 +78,9 @@ $Definition['The banner logo appears at the top of your forum.'] = 'Banner-logo 
 $Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Banner-tittel vises i hjørnet øverst til venstre på hver side. Dersom en Banner-logo har blitt lastet opp, vil denne erstatte Banner-tittel.';
 $Definition['The invitation was removed successfully.'] = 'Invitasjonen ble fjernet!';
 $Definition['The invitation was sent successfully.'] = 'Invitasjonen ble sendt!';
-$Definition['The Password Authenticator does not have any custom configuration options. '] = 'Passord-autentiseringen har ikke noen egendefinerte konfigurerings instillinger.';
 $Definition['ThemeHelp'] = 'Tema-Hjelp';
 $Definition['Themes'] = 'Temaer';
+$Definition['The Password Authenticator does not have any custom configuration options. '] = 'Passord-autentiseringen har ikke noen egendefinerte konfigurerings instillinger.';
 
 $Definition['Uninvite'] = 'Annullér invitasjon';
 $Definition['User Count'] = 'Brukere';
@@ -98,3 +94,7 @@ $Definition['What\'s the Buzz?'] = 'Ka skjer?';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Du kan ikke fjerne en invitasjon som har blitt akseptert av motager.';
 $Definition['You have %s invitations left for this month.'] = 'Du har %s invitasjoner igjen denne måneden.';
 $Definition['You must be authenticated in order to use this form.'] = 'Du må ha sikkerhetsklarering for å bruke dette skjemaet.';
+
+$Definition['[%s] Invitation'] = '[%s] Invitasjon';
+$Definition['[%s] Password Reset'] = '[%s] Passord nullstilt';
+$Definition['[%s] Password Reset Request'] = '[%s] Forespør nullstilling av passord.';

@@ -27,7 +27,6 @@ $Definition['1 month'] = '1 חודש';
 $Definition['1 month after being sent'] = '1 חודש מאז שנשלח';
 $Definition['1 week'] = '1 שבוע';
 $Definition['1 week after being sent'] = '1 שבוע מאז שנשלח';
-$Definition['15 minutes'] = '15 דקות';
 
 $Definition['2 weeks after being sent'] = 'שבועיים לאחר שנשלח';
 
@@ -35,13 +34,13 @@ $Definition['4 hours'] = '4 שעות';
 
 $Definition['5 minutes'] = '5 דקות';
 
+$Definition['15 minutes'] = '15 דקות';
+
 $Definition['<strong>Categories</strong>'] = '<strong>קטגוריות</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>קטגוריות</strong> מאפשרות לך לארגן את הדיונים שלך. קטגוריות יכולות להכיל דיונים בלבד.';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>זהירות!</strong> מחיקת תפקיד עלולה למנוע מהמשתמש גישה לתוכנה.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>זהירות!</strong> הזזת דיונים לקטגוריה חלופית עלולה לגרום להעילמותם (או הופעתם) של דיונים אם לקטגוריה החדשה יש הרשאות שונות משל זו המקורית.';
 
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'הודעה נשלחה לכתובת הדוא"ל של עם הנחיות לאיפוס הסיסמה.';
-$Definition['A url-friendly version of the category name for better SEO.'] = 'גירסה קצרה יותר של הקטגוריה ב-URL שיאפשר SEO מיטבי.';
 $Definition['About Vanilla Statistics'] = 'לגבי הסטטיסטיקות של Vanilla';
 $Definition['Above Main Content'] = 'מעל לתוכן הראשי';
 $Definition['Accepted'] = 'מאושר';
@@ -55,21 +54,21 @@ $Definition['Add %s'] = 'הוסף %s';
 $Definition['Add a new Pocket to your site.'] = 'הוסף כיס חדש לאתר שלך.';
 $Definition['Add Category'] = 'הוסף קטגוריה';
 $Definition['Add Connection'] = 'הוסף חיבור';
+$Definition['Added By'] = 'הוסף על ידי';
 $Definition['Add Info &amp; Create Account'] = 'הוסף מידע &amp; צור חשבון';
+$Definition['Adding & Editing Categories'] = 'הוספת ועריכת קטגוריות';
 $Definition['Add Item'] = 'הוסף פריט';
+$Definition['Addons'] = 'תוספים';
 $Definition['Add Role'] = 'הוסף תפקיד';
 $Definition['Add User'] = 'הוסף משתמש';
-$Definition['Added By'] = 'הוסף על ידי';
-$Definition['Adding & Editing Categories'] = 'הוספת ועריכת קטגוריות';
-$Definition['Addons'] = 'תוספים';
 $Definition['Administrator'] = 'אדמינים';
 $Definition['Advanced'] = 'מתקדם';
 $Definition['Advanced Embed Settings'] = 'אפשרויות הטמעה מתקדמות';
 $Definition['Advanced Forum Settings'] = 'אפשרויות פורום מתקדמות';
+$Definition['AdvancedNotifications'] = 'התראות מתקדמות';
 $Definition['Advanced Options'] = 'אפשרויות מתקדמות';
 $Definition['Advanced Settings'] = 'הגדרות מתקדמות';
 $Definition['Advanced settings for embedded community elements'] = 'הגדרות מתקדמות לאלמנטים של קהילה מוטמעת';
-$Definition['AdvancedNotifications'] = 'התראות מתקדמות';
 $Definition['After'] = 'אחרי';
 $Definition['Alive'] = 'בחיים';
 $Definition['All'] = 'הכל';
@@ -79,36 +78,38 @@ $Definition['All Dashboard Pages'] = 'כל דפי לוח הבקרה';
 $Definition['All discussions in this category will be permanently deleted.'] = 'כל הדיונים בקטגוריה הזו יימחקו לצמיתות';
 $Definition['All Forum Pages'] = 'כל דפי הפורום';
 $Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'כל התוכן שנכתב על ידי משתמש זה יוחלף בהודעה שמשתמש זה נמחק';
-$Definition['All Pages'] = 'כל הדפים';
 $Definition['Allow users to dismiss this message'] = 'אפשר למשתמשים לבחור \'אל תראה לי שוב\' לגבי הודעה זו';
+$Definition['All Pages'] = 'כל הדפים';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'על אף שההזמנה נוצרה בהצלחה, המייל נכשל בשליחה. השרת מדווח את השגיאה הבאה: %s';
+$Definition['A message has been sent to your email address with password reset instructions.'] = 'הודעה נשלחה לכתובת הדוא"ל של עם הנחיות לאיפוס הסיסמה.';
 $Definition['API Status'] = 'סטטוס ה-API';
 $Definition['Appearance'] = 'הופעה';
 $Definition['Applicant'] = 'מועמד';
 $Definition['Application'] = 'מועמדות';
-$Definition['Application Secret'] = 'שאלה סודית';
 $Definition['Applications'] = 'תוכנות';
+$Definition['Application Secret'] = 'שאלה סודית';
 $Definition['Apply'] = 'יישם';
 $Definition['Approval'] = 'אישור';
 $Definition['Approve'] = 'אשר';
 $Definition['Archive Discussions'] = 'העבר דיונים לארכיון';
+$Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'האם אתה בטוח שהכנסת את שם השרת המארח בצורה תקינה? אולי שגית בהקלדה? תגובה השרת היתה:
+<code>%s</code>';
 $Definition['Are you sure you want to delete %s items forever?'] = 'האם אתה בטוח שאתה רוצה למחוק את %s הפריטים לצמיתות?';
 $Definition['Are you sure you want to delete 1 item forever?'] = 'האם אתה בטוח שאתה רוצה למחוק את הפריט הזה לצמיתות?';
 $Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'האם אתה בטוח שאתה רוצה למחוק את הסמל הזה? פעולה זו אינה הפיכה והיא תסיר את הסמל לכל המשתמשים שכבר קיבלו אותו.';
 $Definition['Are you sure you want to delete this category?'] = 'האם אתה בטוח שאתה רוצה למחוק את הקטגוריה הזו?';
 $Definition['Are you sure you want to restore %s items?'] = 'האם אתה בטוח שאתה רוצה לשחזר את %s הפריטים האלו?';
 $Definition['Are you sure you want to restore 1 item?'] = 'האם אתה בטוח שאתה רוצה לשחזר את הפריט הזה?';
-$Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'האם אתה בטוח שהכנסת את שם השרת המארח בצורה תקינה? אולי שגית בהקלדה? תגובה השרת היתה:
-<code>%s</code>';
+$Definition['A url-friendly version of the category name for better SEO.'] = 'גירסה קצרה יותר של הקטגוריה ב-URL שיאפשר SEO מיטבי.';
 $Definition['Authentication'] = 'אותנטיקציה';
 $Definition['Authentication URL'] = 'קישור לאותנטיקציה';
 $Definition['Authors can always edit their posts'] = 'משתמשים תמיד יכולים לערוך את הפוסט שהם רשמו';
 $Definition['Authors can edit for 1 day after posting'] = 'משתמשים יכולים לערוך את הפוסט שהם רשמו תוך יום אחד';
 $Definition['Authors can edit for 1 month after posting'] = 'משתמשים יכולים לערוך את הפוסט שהם רשמו תוך חודש אחד';
 $Definition['Authors can edit for 1 week after posting'] = 'משתמשים יכולים לערוך את הפוסט שהם רשמו תוך שבוע אחד';
+$Definition['Authors can edit for 5 minutes after posting'] = 'משתמשים יכולים לערוך את הפוסט שהם רשמו תוך 5 דקות';
 $Definition['Authors can edit for 15 minutes after posting'] = 'משתמשים יכולים לערוך את הפוסט שהם רשמו תוך 15 דקות';
 $Definition['Authors can edit for 30 minutes after posting'] = 'משתמשים יכולים לערוך את הפוסט שהם רשמו תוך 30 דקות';
-$Definition['Authors can edit for 5 minutes after posting'] = 'משתמשים יכולים לערוך את הפוסט שהם רשמו תוך 5 דקות';
 $Definition['Authors cannot edit their posts'] = 'משתמשים לא יכולים לערוך את הפוסט שהם כתבו';
 $Definition['Authors may always edit'] = 'כותבים תמיד יכולים לערוך';
 $Definition['Authors may edit for %s'] = 'כותבים יכולים לערוך במשך %s';
@@ -156,8 +157,8 @@ $Definition['Check all roles that should be applied to new/approved users:'] = '
 $Definition['Check out my new community!'] = 'בדוק את הקהילה החדשה שלי!';
 $Definition['Check out the full list of video tutorials here.'] = 'בדוק את הרשימה המלאה של סרטוני ההדרכה כאן.';
 $Definition['Choose a locale pack'] = 'בחר בחבילת הלוקאליזציה הזו.';
-$Definition['Choose a role that orphaned users will be assigned to:'] = 'בחר בתפקיד שכל המשתמשים חסר התפקיד יקבלו.';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'בחר ושנה את סכמת האותנטיקציה של הפורום שלך.';
+$Definition['Choose a role that orphaned users will be assigned to:'] = 'בחר בתפקיד שכל המשתמשים חסר התפקיד יקבלו.';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'בחר כיצד לנהל את כל התוכן המשוייך לחשבון המשתמש של %s (הערות, הודעות וכו\')';
 $Definition['Choose the preferred layout for the categories page.'] = 'בחר בעיצוב המועדף עליך לדף הקטגוריות.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'בחר בעיצוב המועדף עליך לדף הדיונים.';
@@ -166,8 +167,8 @@ $Definition['Classic table layout used by traditional forums'] = 'מבנה טב�
 $Definition['Clean Spam'] = 'נקה ספאם';
 $Definition['Click a tag name to edit. Click x to remove.'] = 'סמן תגיות על מנת לערוך אותן. בחר ב-x למחוק אותן.';
 $Definition['Click here to apply it.'] = 'לחץ כאן לאישור.';
-$Definition['Click here to carry on to your dashboard'] = 'לחץ כאן למעבר ללוח הבקרה שלך';
 $Definition['Click here to carry on.'] = 'לחץ כאן להמשך';
+$Definition['Click here to carry on to your dashboard'] = 'לחץ כאן למעבר ללוח הבקרה שלך';
 $Definition['Comment Settings'] = 'הגדרות תגובות';
 $Definition['Comments Page'] = 'עמוד תגובות';
 $Definition['Comments per Page'] = 'תגובות לעמוד';
@@ -193,8 +194,8 @@ $Definition['Could not link the addon.'] = 'לא הצלחתי לשים קישו�
 $Definition['Could not open %s.'] = 'לא הצלחתי לפתוח את %s';
 $Definition['Could not open addon file. Addons must be zip files.'] = 'לא הצלחתי לפתוח את קובץ התוסף. קבצי תוסף חייבים להיות קבצי zip.';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'לא הצלחתי לעשות parsing לקובץ המיובא. הבעיה נמצאת בסמוך לשורה %s.';
-$Definition['Create & organize discussion categories and manage your users.'] = 'צור וארגן קטגוריות לדיונים שונים ונהל את המשתמשים שלך.';
 $Definition['Create & organize discussion categories, manage your users, and more...'] = 'צור וארגן קטגוריות לדיונים שונים, נהל את המשתמשים שלך, ועוד...';
+$Definition['Create & organize discussion categories and manage your users.'] = 'צור וארגן קטגוריות לדיונים שונים ונהל את המשתמשים שלך.';
 $Definition['Create a localization CSV'] = 'צור ערכת לוקאליזציה ב-CSV';
 $Definition['Created new badge'] = 'צור סמל חדש';
 $Definition['Current Authenticator'] = 'המאשרר הנוכחי';
@@ -202,8 +203,8 @@ $Definition['Current File:'] = 'הקובץ הנוכחי:';
 $Definition['Current Theme'] = 'ערכת הצבעים הנוכחית';
 
 $Definition['Database Structure Upgrades'] = 'שדרוגים למבנה מסד הנתונים';
-$Definition['Debug Information'] = 'מידע debug';
 $Definition['Debugger'] = 'debugger';
+$Definition['Debug Information'] = 'מידע debug';
 $Definition['Decline'] = 'דחה';
 $Definition['Default %s Permissions'] = 'הרשאות %s ברירת מחדל';
 $Definition['Default Category Permissions'] = 'הרשאות ברירת מחדל לקטגוריה';
@@ -214,11 +215,11 @@ $Definition['Define your forum homepage, upload your logo, and more...'] = 'הג
 $Definition['Delete Badge'] = 'מחק סמל';
 $Definition['Delete Category'] = 'מחק קטגוריה';
 $Definition['Delete Content'] = 'מחק תוכן';
+$Definition['Deleted'] = 'נמחק';
 $Definition['Delete Forever'] = 'מחק לצמיתות';
 $Definition['Delete Role'] = 'מחק תפקיד';
 $Definition['Delete User'] = 'מחק משתמש';
 $Definition['Delete User: %s'] = 'מחק משתמש: %s';
-$Definition['Deleted'] = 'נמחק';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'מחיקת תפקיד עלולה למנוע גישה מהמשתמשים לתוכנה';
 $Definition['Deleting category...'] = 'מוחק קטגוריה...';
 $Definition['Deleting role...'] = 'מוחק תפקיד...';
@@ -226,13 +227,13 @@ $Definition['Description'] = 'תיאור';
 $Definition['Did You Know?'] = 'הידעת?';
 $Definition['Disable'] = 'כבה';
 $Definition['Disable Content Flagging'] = 'כבה אפשרות לסימון תוכן';
+$Definition['Disabled'] = 'מכובה';
+$Definition['Disabled %1$s'] = 'מכובה %1$s';
+$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'מכובה: הכיס <b>לא</b> יוצג';
 $Definition['Disable Google Sign In'] = 'כבה אפשרות ל-Google Sign In';
 $Definition['Disable OpenID'] = 'כבה אפשרות ל-OpenID';
 $Definition['Disable Signatures'] = 'כבה אפשרות להוספת חתימות';
 $Definition['Disable Tagging'] = 'כבה אפשרות להוספת תיוגים';
-$Definition['Disabled'] = 'מכובה';
-$Definition['Disabled %1$s'] = 'מכובה %1$s';
-$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'מכובה: הכיס <b>לא</b> יוצג';
 $Definition['Discussion & Comment Editing'] = 'דיון & עריכת תגובה';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'קטגוריות לדיונים מסייעות למשתמשים שלך לארגן את הדיונים שלה בצורה משמעותית.';
 $Definition['Discussions Layout'] = 'עיצוב הדיונים';
@@ -240,17 +241,18 @@ $Definition['Discussions per Page'] = 'מספר דיונים לעמוד';
 $Definition['Display in dashboard. (not recommended)'] = 'מוצג בלוח הבקרה. (לא מומלץ)';
 $Definition['Display root categories as headings.'] = 'הצג את קטגוריות הבסיס ככותרות.';
 $Definition['Disqus Settings'] = 'הגדרות Disqus';
-$Definition['Do not display the categories in the side panel.'] = 'אל תציג את הקטגוריות בפאנל הצדדי';
 $Definition['Don\'t display for embedded comments.'] = 'אל תציג על הודעות מוטמעות';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'על תטמיע את לוח הבקרה של אדמין הפורום (במקום, גרום לו להפתח על מסך מלא)';
 $Definition['Don\'t Refresh'] = 'אל תרענן';
 $Definition['Don\'t use Categories'] = 'אל תשתמש בקטגוריות';
+$Definition['Do not display the categories in the side panel.'] = 'אל תציג את הקטגוריות בפאנל הצדדי';
 $Definition['Download Locale List'] = 'הורד את רשימת הלוקאליזציות';
 $Definition['Download Locale Pack'] = 'הורד את חבילת הלוקאליזציה';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'גרור את הקטגוריות למיקום חדש על מנת לסדר אותן';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'גרור את הקטגוריות המופיעות מטה על מנת לסדר אותן';
 
 $Definition['Edit %s'] = 'ערוך %s';
+$Definition['Edit/Delete Log'] = 'ערוך / מחק לוג';
 $Definition['Edit Category'] = 'ערוך קטגוריה';
 $Definition['Edit CSS'] = 'ערוך את ה-CSS';
 $Definition['Edit Html'] = 'ערוך html';
@@ -258,9 +260,10 @@ $Definition['Edit Message'] = 'ערוך הודעה';
 $Definition['Edit Role'] = 'ערוך תפקיד';
 $Definition['Edit Route'] = 'ערוך מסלול';
 $Definition['Edit User'] = 'ערוך משתמש';
-$Definition['Edit/Delete Log'] = 'ערוך / מחק לוג';
 $Definition['Email Confirmation Role'] = 'תקפיד אישור דואר אלקטרוני';
 $Definition['Embed Comments'] = 'הטמעת הערות';
+$Definition['Embedding is currently DISABLED.'] = 'הטמעה מנוטרלת.';
+$Definition['Embedding is currently ENABLED.'] = 'הטמעה מאופשרת.';
 $Definition['Embed Forum'] = 'הטמעת פורום';
 $Definition['Embed Modules'] = 'הטמעת מודולים';
 $Definition['Embed modules from your Vanilla forum into your site'] = 'הטמעת מודולים מפורום ה-Vanilla שלך לאתר שלך';
@@ -268,16 +271,14 @@ $Definition['Embed Vanilla'] = 'הטמעת Vanilla';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'הטעמת פורום הקהילה שלך לתוך האתר על מנת להגביר את מעורבות המשתמשים...';
 $Definition['Embed your entire Vanilla forum'] = 'הטמעת פורום Vanilla כולו';
 $Definition['Embed your forum in your web site'] = 'הטמעת הפורום שלך באתר שלך';
-$Definition['Embedding is currently DISABLED.'] = 'הטמעה מנוטרלת.';
-$Definition['Embedding is currently ENABLED.'] = 'הטמעה מאופשרת.';
 $Definition['Enable'] = 'אפשר';
-$Definition['Enable admin checkboxes on discussions and comments.'] = 'אפשר לאדמין לסמן דיונים והערות.';
-$Definition['Enable OpenID'] = 'אפשר OpenID';
-$Definition['Enable this message'] = 'אפשר הודעה זו.';
 $Definition['Enable/Disable'] = 'אפשר / נטרל';
+$Definition['Enable admin checkboxes on discussions and comments.'] = 'אפשר לאדמין לסמן דיונים והערות.';
 $Definition['Enabled'] = 'Enabled: The pocket will be displayed.';
 $Definition['Enabled %1$s'] = 'אפשרתי %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = 'מאופשר: הכיס הזה יוצג.';
+$Definition['Enable OpenID'] = 'אפשר OpenID';
+$Definition['Enable this message'] = 'אפשר הודעה זו.';
 $Definition['Enabling a Locale Pack'] = 'מאפשר חבילת לוקאליזציה';
 $Definition['Encourage your friends to join your new community!'] = 'עודד את חבריך להצטרף לקהילה החדשה שלך!';
 $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'הכנס רשימה של אינדקסים מופרדים בפסיקים, המתחילים ב-1.';
@@ -288,10 +289,10 @@ $Definition['Enter the email address of the person you would like to invite:'] =
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'הכנס את ה-URL של הדף אותו תרצה להפוך לדף הבית שלך.';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'הכנס את ה-URL של הדף אותו תרצה להפוך לדף הבית שלך:';
 $Definition['Every 1 minute'] = 'כל דקה ';
-$Definition['Every 10 seconds'] = 'כל 10 שניות';
-$Definition['Every 30 seconds'] = 'כל 30 שניות';
 $Definition['Every 5 minutes'] = 'כל 5 דקות';
 $Definition['Every 5 seconds'] = 'כל 5 שניות';
+$Definition['Every 10 seconds'] = 'כל 10 שניות';
+$Definition['Every 30 seconds'] = 'כל 30 שניות';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'כל עריכה או מחיקה נשמרת כאן. השתמש ב- &lsquo;Restore&rsquo; על מנת לבטל כל שינוי.';
 $Definition['Every Page'] = 'כל עמוד';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'לכל משתמש באתר יש לפחות תפקיד אחד מוגדר. התפקידים מאפשרים להגדיר מה מותר ואסור לכל משתמש לעשות.';
@@ -310,31 +311,31 @@ $Definition['Heads Up! This is a special role that does not allow active session
 $Definition['Help &amp; Tutorials'] = 'עזרה &amp; הדרכה';
 $Definition['Here\'s how to get started'] = 'הדרך הקלה להתחיל';
 $Definition['Here\'s how to get started:'] = 'הדרך הקלה להתחיל:';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'היי חבוב, 
-בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'היי חבוב, 
-בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
 $Definition['Hidden for everything!'] = 'מוסתר להכל!';
 $Definition['Hidden for mobile'] = 'מוסתר רק מטלפון סלולרי';
 $Definition['Hide  Fields'] = 'הסתר שדות';
 $Definition['Hide Pocket Locations'] = 'הסתר מיקומים של כיסים';
+$Definition['Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.'] = 'היי חבוב, 
+בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
+$Definition['Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.'] = 'היי חבוב, 
+בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
 $Definition['Homepage'] = 'דף הבית';
 $Definition['Homepage Title'] = 'כותרת לדף הבית';
 $Definition['How to use themes'] = 'איך להשתמש בערכות עיצוב';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'עם העלית לוגו לבאנר, הוא יחליף את הכותרת של הבאנר בדפי פורום כפי שהמשתמשים רואים אותם.';
 $Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'אם אתה משתמש ב-ProxyConnect עם תוסף נשלט נתמך כגון תוסף ה-Wordpress-proxyconnect, הערכים האלו יהיו זמינים עבורך בדף הקונפיגרציה של התוסף.';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'אם אתה רוצה להוריד את רמת האזהרה, הסר את האזהרה.';
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'אם הקובץ שלך גדול מ-20M, אתה חייב להעלות אותו ל-URL פומבי.';
 $Definition['If your file is small then just upload it here.'] = 'אם הקובץ שלך קטן, פשוט העלה אותו מכאן.';
+$Definition['If you want to decrease the warning level then remove a warning.'] = 'אם אתה רוצה להוריד את רמת האזהרה, הסר את האזהרה.';
 $Definition['Import'] = 'יבא';
 $Definition['Importing to Vanilla'] = 'מייבא לתוך Vanilla';
 $Definition['Inbox Page'] = 'דף דואר נכנס';
@@ -384,11 +385,11 @@ $Definition['No Change'] = 'אין שינוי';
 $Definition['No costs yet.'] = 'אין עלויות עדיין.';
 $Definition['No Items Selected'] = 'לא נבחרו פריטים';
 $Definition['None'] = 'כלום';
-$Definition['Not Spam'] = 'לא ספאם';
 $Definition['Notes'] = 'הערות';
 $Definition['Notify me when people comment on a discussion.'] = 'תודיע לי כשמשתמשים מגיבים על דיון.';
 $Definition['Notify me when people comment on my addons.'] = 'תודיע לי כשמשתמשים מגיבים על התוספים שלי.';
 $Definition['Notify me when people start new discussions.'] = 'תודיע לי כשמשתמשים מתחילים דיון חדש.';
+$Definition['Not Spam'] = 'לא ספאם';
 $Definition['Number of blocked registrations'] = 'מספר ההרשמות שנחסמו';
 
 $Definition['Permission.Category'] = 'קטגורית.הרשאות';
@@ -400,8 +401,8 @@ $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'תוסף הע
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'תוסף פורום Vanilla שכבר מוכן ל-WordPress';
 $Definition['Realtime progress bars: %s'] = 'התקדמות בזמן אמת: %s';
 $Definition['Recalculate Counts'] = 'חשב מחדש את המספרים';
-$Definition['Recent News'] = 'חדשות מהזמן האחרון';
 $Definition['Recently Active Users'] = 'משתמשים פעילים מהזמן האחרון';
+$Definition['Recent News'] = 'חדשות מהזמן האחרון';
 $Definition['Refresh Comments'] = 'רענן הערות';
 $Definition['Register for Membership'] = 'הרשם כחבר';
 $Definition['Registration'] = 'הרשמה';
@@ -416,9 +417,9 @@ $Definition['Replacement Category'] = 'קטגוריה חלופית';
 $Definition['Replacement Role'] = 'תפקיד חלופי';
 $Definition['Reported'] = 'מדווח';
 $Definition['Reputation'] = 'מוניטין';
-$Definition['Require users to confirm their email addresses (recommended)'] = 'משתמשים חייבים לאשר את כתובת המייל שלהם (מומלץ)';
 $Definition['Requires'] = 'נדרש';
 $Definition['Requires: '] = 'נדרש:';
+$Definition['Require users to confirm their email addresses (recommended)'] = 'משתמשים חייבים לאשר את כתובת המייל שלהם (מומלץ)';
 $Definition['Rescan'] = 'סרוק מחדש';
 $Definition['Reset my password'] = 'אפס את הסיסמה שלי';
 $Definition['Reset password and send email notification to user'] = 'אפס את הסיסמה ושלח הודעה בדוא"ל למשתמש';
@@ -428,8 +429,8 @@ $Definition['Restore'] = 'שחזר';
 $Definition['Reveal Password'] = 'גלה סיסמה';
 $Definition['Role'] = 'תפקיד';
 $Definition['Role Name'] = 'שם התפקיד';
-$Definition['Role to Grant'] = 'התפקיד שיינתן';
 $Definition['Roles & Permissions'] = 'תפקידים & הרשאות';
+$Definition['Role to Grant'] = 'התפקיד שיינתן';
 $Definition['Route'] = 'נתיב';
 $Definition['Route Expression'] = 'שם הנתיב';
 $Definition['Routes'] = 'נתיבים';
@@ -438,5 +439,5 @@ $Definition['Run structure & data scripts'] = 'הרץ סקריפטים של מב
 
 $Definition['Site Description'] = 'תיאור אתר';
 
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'השתמש בשדות אלה כדי ליצור פרופיל מותאם אישית מידע. ניתן להזין דברים כמו "מצב מערכת יחסים", "סקייפ", או "דינוזאור מועדף". היו יצירתיים!';
 $Definition['UserDeletionPrompt'] = 'בחר כיצד לנהל את כל התוכן המשוייך לחשבון המשתמש של %s (הערות, הודעות וכו\')';
+$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'השתמש בשדות אלה כדי ליצור פרופיל מותאם אישית מידע. ניתן להזין דברים כמו "מצב מערכת יחסים", "סקייפ", או "דינוזאור מועדף". היו יצירתיים!';

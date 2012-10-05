@@ -117,8 +117,8 @@ $Definition['Create One.'] = '建立一個.';
 
 $Definition['Dashboard'] = '控制面板';
 $Definition['Date'] = 'Applied On';
-$Definition['Date Added'] = '發表時間';
 $Definition['Date.DefaultFormat'] = '%Y %b %e日';
+$Definition['Date Added'] = '發表時間';
 $Definition['Delete'] = '刪除';
 $Definition['Delete Account'] = '刪除帳號';
 $Definition['Delete Conversation'] = '刪除對話';
@@ -126,8 +126,8 @@ $Definition['Delete Discussion'] = '刪除討論';
 
 $Definition['discussion'] = '討論';
 
-$Definition['Discussion Title'] = '討論主題';
 $Definition['Discussions'] = '討論';
+$Definition['Discussion Title'] = '討論主題';
 $Definition['Dismiss'] = '忽略公告';
 $Definition['Don\'t have an account? %s'] = '沒有帳號？ %s';
 $Definition['Draft saved at %s'] = '草稿在 %s 被儲存';
@@ -140,9 +140,6 @@ $Definition['Edit My Account'] = '編輯我的帳號';
 $Definition['Edit My Thumbnail'] = '編輯我的圖示';
 $Definition['Edit Preferences'] = '編輯偏好設定';
 $Definition['Edit Thumbnail'] = '編輯圖示';
-$Definition['Email Notifications'] = 'Email 通知';
-$Definition['Email Or Username'] = '帳號或Email';
-$Definition['Email Unavailable'] = 'Email 不可用';
 $Definition['EmailInvitation'] = '你好!
 
 	%1$s 邀請你加入 %2$s. 歡迎點擊下面的連結加入:
@@ -163,6 +160,8 @@ $Definition['EmailNotification'] = '%1$s
 	%2$s
 
 	Have a great day！';
+$Definition['Email Notifications'] = 'Email 通知';
+$Definition['Email Or Username'] = '帳號或Email';
 $Definition['EmailPassword'] = 'Hello %1$s,
 
 	%2$s has reset your password at %3$s. Your login credentials are now:
@@ -181,6 +180,7 @@ $Definition['EmailStoryNotification'] = '%1$s
 	%2$s
 
 	Have a great day！';
+$Definition['Email Unavailable'] = 'Email 不可用';
 $Definition['EmailWelcome'] = 'Hello %1$s,
 
 	%2$s has created an account for you at %3$s. Your login credentials are:
@@ -226,8 +226,8 @@ $Definition['Following %d person'] = '訂閱 %s 人';
 $Definition['Follows'] = '訂閱';
 $Definition['Forgot?'] = '忘記了?';
 $Definition['Format his'] = '他的';
-$Definition['Format you'] = '你';
 $Definition['Format You'] = '你';
+$Definition['Format you'] = '你';
 $Definition['Friends'] = '好友';
 
 $Definition['Garden.Title'] = 'Banner 標題';
@@ -243,16 +243,16 @@ $Definition['his'] = '他的';
 $Definition['Howdy, Stranger!'] = '你好, 新朋友！';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '我同意 <a id="TermsOfService" class="Popup" target="terms" href="%s">服務條款</a>';
-$Definition['I remember now!'] = '我現在想起了！';
-$Definition['In seconds'] = '秒';
-$Definition['In this Conversation'] = '在該對話';
 $Definition['Inbox'] = '收件匣';
+$Definition['In seconds'] = '秒';
 $Definition['Insert Image'] = '插入圖片';
 $Definition['Internal'] = '內部';
+$Definition['In this Conversation'] = '在該對話';
 $Definition['Invite'] = '邀請';
 $Definition['InviteErrorPermission'] = '對不起, 沒有權限.';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '點下面的按鈕可以加入我們！';
+$Definition['I remember now!'] = '我現在想起了！';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '點下面的按鈕可以加入我們！';
 
 $Definition['Joined'] = '加入';
 $Definition['Just you!'] = '只有你！';
@@ -301,9 +301,9 @@ $Definition['Notify me when people write on my wall.'] = '當有人給我留言�
 $Definition['Old Password'] = '舊密碼';
 $Definition['OpenID Settings'] = 'OpenID 設定';
 $Definition['Options'] = '選項';
-$Definition['Or you can...'] = '或者你可以...';
 $Definition['Organize your Categories'] = '組織分類';
 $Definition['Original'] = '原始圖片';
+$Definition['Or you can...'] = '或者你可以...';
 
 $Definition['Password'] = '密碼';
 $Definition['PasswordRequest'] = '你好 %1$s,
@@ -314,10 +314,10 @@ $Definition['PasswordRequest'] = '你好 %1$s,
 
 	  如果你並沒有提出過，請忽略這封信提到的資訊';
 $Definition['Passwords don\'t match'] = '密碼不正確';
-$Definition['Permalink'] = '永久連結';
 
 $Definition['permalink'] = '永久連結';
 
+$Definition['Permalink'] = '永久連結';
 $Definition['Permanent (301)'] = '永久移動 (301)';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '頁面切換中，請稍候。如果等待太久，請直接點選 <a href="%s">這裡</a>';
 $Definition['Popular'] = '最熱';
@@ -367,13 +367,13 @@ $Definition['Share'] = '分享';
 
 $Definition['she'] = '她';
 
+$Definition['SignIn'] = '登入';
 $Definition['Sign In'] = '登入';
 $Definition['Sign In with Google'] = '以 Google 帳號登入';
 $Definition['Sign In with OpenID'] = '以 OpenID 帳號登入';
 $Definition['Sign In with Twitter'] = '以 Twitter 帳號登入';
 $Definition['Sign Out'] = '登出';
 $Definition['Sign Up'] = '註冊';
-$Definition['SignIn'] = '登入';
 $Definition['Sink'] = '下沉';
 
 $Definition['somebody'] = '某人';
@@ -436,8 +436,8 @@ $Definition['ValidateMinimumAge'] = 'You must be at least 16 years old to procee
 $Definition['ValidateRequired'] = '%s 是必須的.';
 $Definition['Value'] = 'Condition Expression';
 $Definition['Views'] = '訪問';
-$Definition['Visit Site'] = '訪問網站';
 $Definition['Visits'] = '訪問';
+$Definition['Visit Site'] = '訪問網站';
 $Definition['Vote'] = '投票';
 $Definition['Votes'] = '投票';
 
@@ -447,9 +447,10 @@ $Definition['Write a comment'] = '寫評論';
 $Definition['Write Comment'] = '新評論';
 $Definition['Write something about yourself...'] = '寫點關於你自己的東西吧...';
 
+$Definition['You'] = '你';
+
 $Definition['you'] = '你';
 
-$Definition['You'] = '你';
 $Definition['You already have an account here.'] = '你在這裡已經有帳號了.';
 $Definition['You are connected as %s through %s.'] = '你以 %s 連結中，透過 %s.';
 $Definition['You do not have any conversations.'] = '你沒有參與任何對話.';

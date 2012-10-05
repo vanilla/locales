@@ -4,7 +4,7 @@
   'Locale' => 'fr-FR',
   'Name' => 'French Transifex',
   'Description' => 'French language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/fr_FR/">here</a>.',
-  'Version' => '2012.09.27p1152',
+  'Version' => '2012.10.05p1534',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/fr_FR/',
 );

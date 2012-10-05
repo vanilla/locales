@@ -25,10 +25,10 @@ $Definition['Edit Message'] = 'پیغام میں ترمیم کریں';
 $Definition['Edit User'] = 'صارٖف کی تدوین کریں';
 $Definition['Enable OpenID'] = ' اوپن آئی ڈی بحال کریں';
 $Definition['Every 1 minute'] = 'ہر 1 منٹ میں';
-$Definition['Every 10 seconds'] = 'ہر 10 سیکنڈ میں';
-$Definition['Every 30 seconds'] = 'ہر 30 سیکنڈ میں';
 $Definition['Every 5 minutes'] = 'ہر 5 منٹ میں';
 $Definition['Every 5 seconds'] = 'ہر 5 سیکنڈ میں';
+$Definition['Every 10 seconds'] = 'ہر 10 سیکنڈ میں';
+$Definition['Every 30 seconds'] = 'ہر 30 سیکنڈ میں';
 $Definition['Every Page'] = 'ہر صفحہ';
 $Definition['Everything is ok.'] = 'سب کچھ ٹھیک ہے۔';
 

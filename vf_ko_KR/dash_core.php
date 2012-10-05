@@ -8,15 +8,13 @@ $Definition['1 week after being sent'] = '발송 후 1 주 경과';
 
 $Definition['2 weeks after being sent'] = '발송 후 2 주 경과';
 
-$Definition['_Locale'] = '현지화';
-
 $Definition['Accepted'] = '등록되었습니다';
 $Definition['Action'] = '활동';
 $Definition['Add Category'] = '카테고리 추가';
 $Definition['Add Info &amp; Create Account'] = '정보 입력 &amp; 계정 만들기';
+$Definition['Addons'] = '추가 기능';
 $Definition['Add Role'] = '역할 추가하기';
 $Definition['Add User'] = '사용자 추가';
-$Definition['Addons'] = '추가 기능';
 $Definition['Administrator'] = '관리자';
 $Definition['Advanced'] = '고급';
 $Definition['Advanced Forum Settings'] = '고급 포럼 설정';
@@ -31,10 +29,10 @@ $Definition['Archive Discussions'] = '글타레 보관하기';
 $Definition['Authentication'] = '인증';
 
 $Definition['Badge Name'] = '이름';
-$Definition['Ban Type'] = '유형';
 $Definition['Banner'] = '배너';
 $Definition['Banner Logo'] = '배너 로고';
 $Definition['Banner Title'] = '배너 이름';
+$Definition['Ban Type'] = '유형';
 
 $Definition['Categories are used to help organize discussions.'] = '카테고리를 사용하여 글타레를 깔끔하게 정리할 수 있습니다.';
 $Definition['Category Page Layout'] = '카테고리 페이지 레이아웃';
@@ -68,20 +66,20 @@ $Definition['discussion(s)'] = '개 이상의 게시글을';
 
 $Definition['Discussions per Page'] = '페이지당 글 수';
 $Definition['Display root categories as headings.'] = '루트 카테고리를 헤딩으로 표시.';
-$Definition['Do not display the categories in the side panel.'] = '사이드바에 카테고리를 표시하지 않음.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '관리자 대시보드 포함하지 않음 (전체화면으로 팝업)';
 $Definition['Don\'t use Categories'] = '카테고리를 사용하지 않음';
+$Definition['Do not display the categories in the side panel.'] = '사이드바에 카테고리를 표시하지 않음.';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = '드래그 앤 드롭으로 카테고리의 순서 및 서브 카테고리를 설정하세요.';
 
 $Definition['edit'] = '수정';
 
 $Definition['Edit Category'] = '카테고리 수정';
-$Definition['Edit User'] = '사용자 수정';
 $Definition['EditContentTimeout.Notes'] = '참고 : 내용을 수정할 수있는 권한을 가진 회원(운영자 등)이 있다면 현재 선택된 모든 권한보다 우선적인 권한을 가집니다.
 ';
+$Definition['Edit User'] = '사용자 수정';
 $Definition['Enable'] = '사용';
-$Definition['Enable OpenID'] = 'OpenID 활성화';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
+$Definition['Enable OpenID'] = 'OpenID 활성화';
 $Definition['Enter the email address of the person you would like to invite:'] = '초대하고 싶은 사람의 이메일 주소를 입력하세요 :';
 $Definition['Enter the url to the page you would like to use as your homepage'] = '포럼의 홈페이지로 사용하기를 원하는 URL을 입력하세요';
 $Definition['Exclude archived discussions from the discussions list'] = '보관 처리된 글을 글목록에서 표시하지 않기.';
@@ -90,8 +88,8 @@ $Definition['Existing members send invitations to new members.'] = '기존 회�
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = '페이스북 컨넥트 기능을 사용하면 페이스북 계정으로 로그인 할 수 있습니다. <b>이 플러그인이 작동하려면 페이스 북 어플리케이션을 등록해야합니다.</b>';
 $Definition['Facebook Settings'] = '페이스북 설정';
 $Definition['First Visit'] = '첫 방문';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO을 위해 검색 엔진 크롤러는 리모트 URL을 통한 강제 설정에서  제외됩니다.';
 $Definition['Force your forum to be viewed through the Remote Url'] = '포럼이 리모트 URL을 통해 보여지도록 강제 설정';
+$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO을 위해 검색 엔진 크롤러는 리모트 URL을 통한 강제 설정에서  제외됩니다.';
 $Definition['Forum Settings'] = '포럼 설정';
 
 $Definition['Garden.Import.Description'] = '다른 포럼에서 익스포트한 데이타를 불러올 수 있습니다. 더 많은 정보는 임포트 관련 문서를 참조하시기 바랍니다: <br /><a href="%s">See our importing documentation</a>.';
@@ -151,8 +149,8 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['None'] = '없음';
 
 $Definition['Only Allow Each User To Post'] = '회원별 게시글 제한사항';
-$Definition['Or Spamblock For'] = '초과할 경우';
 $Definition['Organize Categories'] = '카테고리 설정';
+$Definition['Or Spamblock For'] = '초과할 경우';
 $Definition['Other Themes'] = '다른 테마들';
 $Definition['Outgoing Email'] = '이메일 설정';
 
@@ -167,8 +165,8 @@ $Definition['PluginHelp'] = '플러그인을 사용하여 포럼에 여러가지
 $Definition['Plugins'] = '플러그인';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '회원 게시글 및 댓글에 제한을 두어 스팸을 방지합니다.';
 
-$Definition['Recent News'] = '새로운 뉴스';
 $Definition['Recently Active Users'] = '사용자 최신 활동내역';
+$Definition['Recent News'] = '새로운 뉴스';
 $Definition['Refresh Comments'] = '새로고침';
 $Definition['Registration'] = '사용자 등록 설정';
 $Definition['Remove'] = '삭제';
@@ -233,15 +231,17 @@ $Definition['version %s'] = '버전 %s';
 $Definition['View'] = '보기';
 
 $Definition['Warning'] = '경고';
-$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = '기본적으로 로컬 서버를 통해 이메일을 발송합니다. 별도의 SMTP 메일서버를 구성하려면 아래의 옵션을 사용하십시오.';
 $Definition['Welcome to your Dashboard'] = '대시보드에 오신 것을 환영합니다';
+$Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = '기본적으로 로컬 서버를 통해 이메일을 발송합니다. 별도의 SMTP 메일서버를 구성하려면 아래의 옵션을 사용하십시오.';
 $Definition['Where is your Community Forum?'] = '포럼의 경로 설정';
 $Definition['Why do you want to join?'] = '가입을 원하는 이유는 무엇입니까?';
 $Definition['Within'] = '시간';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = '포럼 사용중 로그아웃 되었다면 다음의 경로에서 바닐라 포럼의 이메일 주소와 패스워드를 사용하여 언제든지 로그인 할 수 있습니다: <a href="%1$s">%1$s</a>';
-$Definition['You can place files in your /uploads folder.'] = '이 페이지에 업로드할 파일의 용량이 아주 클 경우 /uploads 폴더에 추가할 수 있습니다.
-<br />파일 이름은 <b>export</b>로 시작해야 하며 <b>.txt</b>또는 <b>.gz</b>의 확장자를 가집니다.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '플러그인을 해제할 수 없습니다. %2$s이 올바르게 작동하기 위해 %1$s 플러그인이 필요합니다.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = '플러그인을 해제할 수 없습니다. Google SignIn이 올바르게 작동하기 위해 Open ID 플러그인이 필요합니다.';
+$Definition['You can place files in your /uploads folder.'] = '이 페이지에 업로드할 파일의 용량이 아주 클 경우 /uploads 폴더에 추가할 수 있습니다.
+<br />파일 이름은 <b>export</b>로 시작해야 하며 <b>.txt</b>또는 <b>.gz</b>의 확장자를 가집니다.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = '등록 신청이 접수되었습니다. 신청서는 관리자에 의해 검토되며 승인되는 즉시 이메일로 통보됩니다.';
+
+$Definition['_Locale'] = '현지화';

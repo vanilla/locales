@@ -1,8 +1,5 @@
 <?php
 
-$Definition[' - Page %s'] = ' - Pagina %s';
-$Definition[' now.'] = 'nu.';
-
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s wijzigde %6$s profiel afbeelding.';
 $Definition['%1$s joined.'] = '%1$s werd lid.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s heeft %3$s genoemd in een %8$s.';
@@ -12,17 +9,17 @@ $Definition['%1$s to %2$s of %3$s'] = '%1$s naar %2$s van %3$s';
 $Definition['%s and you'] = '%s en jij';
 $Definition['%s comment'] = '%s reactie';
 $Definition['%s Comment'] = 'sfdfd';
-$Definition['%s Comments'] = 'sfd';
 $Definition['%s comments'] = '%s reacties';
+$Definition['%s Comments'] = 'sfd';
 $Definition['%s Connect'] = '%s Verbind';
 $Definition['%s discussion'] = '%s discussie';
 $Definition['%s discussions'] = '%s discussies';
 $Definition['%s has left this conversation.'] = 'fdfd';
 $Definition['%s message'] = '%s bericht';
-$Definition['%s new'] = '%s nieuw';
 $Definition['%s New'] = '%s Nieuw';
-$Definition['%s new plural'] = '%s nieuw';
+$Definition['%s new'] = '%s nieuw';
 $Definition['%s New Plural'] = '%s Nieuw';
+$Definition['%s new plural'] = '%s nieuw';
 $Definition['%s Not Found'] = 'fdfd';
 $Definition['%s point'] = '%s punt';
 $Definition['%s Point'] = '%s Punt';
@@ -30,14 +27,12 @@ $Definition['%s Points'] = '%s Punten';
 $Definition['%s said'] = '%s zei';
 $Definition['%s said:'] = '%s zei:';
 
+$Definition[' - Page %s'] = ' - Pagina %s';
+
 $Definition['1 message'] = '1 bericht';
 
 $Definition['<General Error>'] = '<Algemene Foutmelding>';
 
-$Definition['[%1$s] Membership Approved'] = '[%1$s] Lidmaatschap is Goedgekeurd';
-$Definition['[Deleted User]'] = '[Verwijderde Gebruiker]';
-
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Er is een fatale fout opgetreden bij het verwerken van het verzoek.<br />De server geeft de volgende reactie: %s';
 $Definition['About'] = 'Over';
 $Definition['Abuse'] = 'Misbruik';
 $Definition['Accept'] = 'Accepteren';
@@ -87,6 +82,7 @@ $Definition['Add Message'] = 'Voeg Bericht toe';
 $Definition['Add People to this Conversation'] = 'Voeg Mensen toe aan dit Gesprek';
 $Definition['Add Route'] = 'Voeg Route toe';
 $Definition['Administrator Activity'] = 'Administrator Activiteiten';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Er is een fatale fout opgetreden bij het verwerken van het verzoek.<br />De server geeft de volgende reactie: %s';
 $Definition['All Bookmarks'] = 'fsdfdfs';
 $Definition['All Categories'] = 'Alle Categorieën';
 $Definition['All Conversations'] = 'Alle Gesprekken';
@@ -119,9 +115,9 @@ $Definition['By uploading a file you certify that you have the right to distribu
 $Definition['Cancel'] = 'Annuleren';
 $Definition['Categories'] = 'Categorieën';
 $Definition['Category'] = 'Categorie';
+$Definition['CategoryID'] = 'Categorie';
 $Definition['Category Management'] = 'fsdfsdf';
 $Definition['Category Notifications'] = 'Categorie Opmerkingen';
-$Definition['CategoryID'] = 'Categorie';
 $Definition['Change My Password'] = 'Wijzig Mijn Wachtwoord';
 $Definition['Change My Picture'] = 'Wijzig Mijn Afbeelding';
 $Definition['Change Password'] = 'Wijzig Wachtwoord';
@@ -163,8 +159,8 @@ $Definition['Delete Account'] = 'Verwijder Account';
 $Definition['Delete Conversation'] = 'Verwijder Gesprek';
 $Definition['Delete Discussion'] = 'Verwijder Discussie';
 $Definition['Discussion'] = 'lkjlksdjflsj';
-$Definition['Discussion Title'] = 'Discussie Titel';
 $Definition['Discussions'] = 'Discussies';
+$Definition['Discussion Title'] = 'Discussie Titel';
 $Definition['Dismiss'] = 'Negeren';
 $Definition['Don\'t have an account? %s'] = 'Heb je nog geen account? <br />%s';
 $Definition['Draft saved at %s'] = 'slfsldflsdk';
@@ -179,11 +175,6 @@ $Definition['Edit My Thumbnail'] = 'Bewerk Mijn Thumbnail';
 $Definition['Edit Preferences'] = 'Bewerk Voorkeuren';
 $Definition['Edit Thumbnail'] = 'Wijzig Thumbnail';
 $Definition['Email'] = 'E-mail';
-$Definition['Email Notifications'] = 'E-mail Notificaties';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail verzonden vanuit de applicatie zal verwijzen naar onderstaande naam en e-mailadres.';
-$Definition['Email Source'] = 'E-mail';
-$Definition['Email Unavailable'] = 'E-mail Niet beschikbaar';
-$Definition['Email visible to other users'] = 'E-mail zichtbaar voor andere gebruikers';
 $Definition['Email/Username'] = 'Email/Gebruikersnaam';
 $Definition['EmailFooter'] = '
 We wensen u een geweldige dag!';
@@ -208,6 +199,7 @@ $Definition['EmailNotification'] = '%1$s
 Volg deze link om het te bekijken: %2$s
 
 Fijne dag verder!';
+$Definition['Email Notifications'] = 'E-mail Notificaties';
 $Definition['EmailPassword'] = 'Hallo %1$s,
 
 %2$s heeft je wachtwoord gereset bij %3$s. Je inloggegevens zijn nu als volgt:
@@ -217,6 +209,8 @@ $Definition['EmailPassword'] = 'Hallo %1$s,
   Url: %4$s
 
 Fijne dag verder!';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail verzonden vanuit de applicatie zal verwijzen naar onderstaande naam en e-mailadres.';
+$Definition['Email Source'] = 'E-mail';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -225,6 +219,8 @@ $Definition['EmailStoryNotification'] = '%1$s
 Volg deze link om het te bekijken: %2$s
 
 Fijne dag verder!';
+$Definition['Email Unavailable'] = 'E-mail Niet beschikbaar';
+$Definition['Email visible to other users'] = 'E-mail zichtbaar voor andere gebruikers';
 $Definition['EmailWelcome'] = 'Hallo %1$s,
 
 %2$s heeft een account voor jou aangemaakt op %3$s. Je inloggegevens zijn:
@@ -264,8 +260,8 @@ $Definition['ErrorTermsOfService'] = 'Je moet akkoord gaan met de gebruiksvoorwa
 $Definition['everyone'] = 'iedereen';
 
 $Definition['Female'] = 'Vrouw';
-$Definition['File Size'] = 'Bestandsgrootte';
 $Definition['Filename'] = 'Bestandsnaam';
+$Definition['File Size'] = 'Bestandsgrootte';
 $Definition['Forgot?'] = 'Vergeten?';
 $Definition['Format his'] = 'zijn';
 $Definition['Format their'] = 'hun';
@@ -293,16 +289,16 @@ $Definition['Hide signatures on my mobile device'] = 'Verberg handtekeningen op 
 $Definition['his'] = 'zijn';
 
 $Definition['Home'] = 'Thuis';
-$Definition['How long do you want this warning to last?'] = 'Hoe lang wilt u dat deze waarschuwing duurt?';
 $Definition['Howdy, Stranger!'] = 'Hoi, vreemdeling!';
+$Definition['How long do you want this warning to last?'] = 'Hoe lang wilt u dat deze waarschuwing duurt?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Ik ga akkoord met de <a id="TermsOfService" class="Popup" target="terms" href="%s">gebruiksvoorwaarden</a>';
-$Definition['I remember now!'] = 'Ohja, nu weet ik het weer!';
-$Definition['In this Conversation'] = 'In dit Gesprek';
 $Definition['Insert Image'] = 'Voeg Afbeelding in';
 $Definition['Internal'] = 'Intern';
+$Definition['In this Conversation'] = 'In dit Gesprek';
 $Definition['Invite'] = 'Uitnodiging';
 $Definition['InviteErrorPermission'] = 'Sorry, toestemming geweigerd.';
+$Definition['I remember now!'] = 'Ohja, nu weet ik het weer!';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Het lijkt erop dat je hier nieuw bent. Klik op één van deze knoppen om je aan te melden!';
 
 $Definition['Joined'] = 'Aangesloten';
@@ -332,10 +328,10 @@ $Definition['n/a'] = 'niet beschikbaar';
 $Definition['Name'] = 'Naam';
 $Definition['Name Unavailable'] = 'Naam niet beschikbaar';
 $Definition['New Conversation'] = 'Nieuw Gesprek';
-$Definition['New Discussion'] = 'Nieuwe Discussie';
 
 $Definition['new discussion'] = 'nieuw';
 
+$Definition['New Discussion'] = 'Nieuwe Discussie';
 $Definition['New Message'] = 'Start een Nieuw Gesprek';
 $Definition['New Password'] = 'Nieuw Wachtwoord';
 $Definition['No discussions were found.'] = 'Er zijn geen discussies gevonden';
@@ -348,22 +344,24 @@ $Definition['Notify me of private messages.'] = 'Stel mij op de hoogte van prive
 $Definition['Notify me when I am added to private conversations.'] = 'Stel mij op de hoogte wanneer ik wordt toegevoegd  aan een prive-gesprek.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn gebookmarkte discussies';
 $Definition['Notify me when people comment on my discussions.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn discussies.';
-$Definition['Notify me when people mention me in comments.'] = 'Stel mij op de hoogte wanneer mensen mij noemen in een reactie.';
 $Definition['Notify me when people mention me.'] = 'Laat mij weten als gebruikers mij mentionen';
+$Definition['Notify me when people mention me in comments.'] = 'Stel mij op de hoogte wanneer mensen mij noemen in een reactie.';
 $Definition['Notify me when people reply to my wall comments.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn muur commentaar.';
 $Definition['Notify me when people write on my wall.'] = 'Stel mij op de hoogte wanneer mensen op mijn muur schrijven.';
+
+$Definition[' now.'] = 'nu.';
 
 $Definition['Okay'] = 'Oké';
 $Definition['Old Password'] = 'Oud Wachtwoord';
 $Definition['OpenID Settings'] = 'OpenID Instellingen';
 $Definition['Options'] = 'Opties';
-$Definition['Or you can...'] = 'Of je kunt...';
 $Definition['Organize your Categories'] = 'Organiseer je Categorieën';
 $Definition['Original'] = 'Oorspronkelijke';
+$Definition['Or you can...'] = 'Of je kunt...';
 
-$Definition['Page Not Found'] = 'Pagina Niet Gevonden';
 $Definition['PageDetailsMessage'] = '%1$s naar %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s naar %2$s van %3$s';
+$Definition['Page Not Found'] = 'Pagina Niet Gevonden';
 $Definition['Password'] = 'Wachtwoord';
 $Definition['PasswordRequest'] = 'Hallo %1$s,
 
@@ -418,6 +416,7 @@ $Definition['Share'] = 'Delen';
 
 $Definition['she'] = 'zij';
 
+$Definition['SignIn'] = 'Inloggen';
 $Definition['Sign In'] = 'Inloggen';
 $Definition['Sign In with Facebook'] = 'Log in met Facebook';
 $Definition['Sign In with Google'] = 'Inloggen met Google';
@@ -425,7 +424,6 @@ $Definition['Sign In with OpenID'] = 'Inloggen met OpenID';
 $Definition['Sign In with Twitter'] = 'Inloggen met Twitter';
 $Definition['Sign Out'] = 'Afmelden';
 $Definition['Sign Up'] = 'Aanvragen';
-$Definition['SignIn'] = 'Inloggen';
 $Definition['Sink'] = 'Laten zinken';
 
 $Definition['somebody'] = 'iemand';
@@ -433,8 +431,8 @@ $Definition['somebody'] = 'iemand';
 $Definition['Start a New Conversation'] = 'Start een Nieuw Gesprek';
 $Definition['Start a New Discussion'] = 'Nieuwe Discussie';
 $Definition['Start Conversation'] = 'Start Gesprek';
-$Definition['Start your First Discussion'] = 'Start je eerste Discussie';
 $Definition['Started by %1$s'] = 'Gestart door %1$s';
+$Definition['Start your First Discussion'] = 'Start je eerste Discussie';
 
 $Definition['Target'] = 'Doelwit';
 $Definition['TermsOfServiceText'] = '
@@ -496,8 +494,8 @@ $Definition['ValidateTimestamp'] = '%s is geen geldige timestamp.';
 $Definition['ValidateUsername'] = 'Gebruikersnamen moeten 3-20 tekens lang zijn en mogen alleen bestaan uit letters, cijfers en underscores.';
 $Definition['ValidateVersion'] = 'Het %s veld heeft geen geldig versienummer. Bekijk de php version_compare() functie voor een voorbeeld van geldige versienummers.';
 $Definition['Verified'] = 'Geverifieerd ';
-$Definition['Visit Site'] = 'Bezoek Site';
 $Definition['Visits'] = 'Bezoeken';
+$Definition['Visit Site'] = 'Bezoek Site';
 
 $Definition['wall'] = 'muur';
 
@@ -512,27 +510,26 @@ $Definition['you'] = 'jij';
 $Definition['You'] = 'Jij';
 $Definition['You already have an account here.'] = 'Je hebt hier al een account.';
 $Definition['You are connected as %s through %s.'] = 'Je bent verbonden als %s door %s.';
+$Definition['You don\'t have permission to do that.'] = 'U heeft geen permissie om die actie uit te voeren.';
 $Definition['You do not have any conversations.'] = 'Je hebt geen gesprekken.';
 $Definition['You do not have any notifications yet.'] = 'Je hebt nog geen notificaties.';
 $Definition['You do not have permission to write new comments.'] = 'U heeft een permissie om nieuw commentaar te schrijven.';
-$Definition['You don\'t have permission to do that.'] = 'U heeft geen permissie om die actie uit te voeren.';
+$Definition['YouEarnedBadge'] = 'U heeft deze badge verdiend.';
 $Definition['You have answered questions'] = 'U heeft vragen beantwoord';
 $Definition['You have entered an invalid discussion title'] = 'U heeft een ongeldige discussie titel ingevoerd';
+$Definition['You haven\'t read this yet.'] = 'Je hebt nog niet lezen.';
 $Definition['You have not started any discussions.'] = 'U heeft nog geen discussies gestart.';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'U heeft %1$s keer gepost binnen %2$s seconden. Een spam block is nu in effect op uw account. U dient ten minste %3$s seconden te wachten voordat u weer een poging kunt doen om te posten.';
-$Definition['You have selected %1$s in this discussion.'] = 'U heeft %1$s geselecteerd in deze discussie.';
 $Definition['You have selected %1$s.'] = 'U heeft %1$s geselecteerd.';
+$Definition['You have selected %1$s in this discussion.'] = 'U heeft %1$s geselecteerd in deze discussie.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'U dient ten minste 2 discussies te selecteren om deze te kunnen samenvoegen.';
-$Definition['You haven\'t read this yet.'] = 'Je hebt nog niet lezen.';
 $Definition['You must agree to the terms of service.'] = 'Je moet akkoord gaan met de gebruiksvoorwaarden van deze dienst.';
 $Definition['You need to sign in before you can do this.'] = 'U moet inloggen voordat u deze actie kan uitvoeren.';
-$Definition['You were added to a conversation.'] = '{InsertUserID,user} voegde {NotifyUserID,you} toe aan een <a href="{Url,htmlencode}">gesprek</a>.';
-$Definition['YouEarnedBadge'] = 'U heeft deze badge verdiend.';
 
 $Definition['your'] = 'jouw';
 
-$Definition['Your changes have been saved successfully.'] = 'Uw veranderingen zijn succesvol bewaard.';
 $Definition['Your changes have been saved.'] = 'Je wijzigingen zijn opgeslagen.';
+$Definition['Your changes have been saved successfully.'] = 'Uw veranderingen zijn succesvol bewaard.';
 $Definition['Your changes were saved.'] = 'Uw veranderingen zijn bewaard.';
 $Definition['Your invitation has been sent.'] = 'Uw uitnodiging is verstuurd.';
 $Definition['Your old password was incorrect.'] = 'Uw oude wachtwoord was onjuist.';
@@ -543,9 +540,13 @@ $Definition['Your preferences have been saved.'] = 'Uw voorkeuren zijn bewaard.'
 $Definition['Your private conversations with other members.'] = 'Uw privé gesprekken met andere leden.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Jouw geregistreerde gebruikersnaam: <strong>%s</strong>';
 $Definition['Your request has been sent.'] = 'Uw verzoek is ingestuurd. Check uw email voor verdere instructies';
-$Definition['Your settings have been saved successfully.'] = 'Uw instellingen zijn succesvol bewaard';
 $Definition['Your settings have been saved.'] = 'Je instellingen zijn opgeslagen.';
+$Definition['Your settings have been saved successfully.'] = 'Uw instellingen zijn succesvol bewaard';
 $Definition['Your warning was added.'] = 'Uw waarschuwing is toegevoegd.';
+$Definition['You were added to a conversation.'] = '{InsertUserID,user} voegde {NotifyUserID,you} toe aan een <a href="{Url,htmlencode}">gesprek</a>.';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Lidmaatschap is Goedgekeurd';
+$Definition['[Deleted User]'] = '[Verwijderde Gebruiker]';
 
 $Definition['↳ No results for \'%s\''] = '↳ Geen resultaten voor \'%s\'';
 $Definition['↳ Search results for \'%s\''] = '↳ Zoekresultaten voor \'%s\'';

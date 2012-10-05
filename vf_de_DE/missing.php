@@ -13,8 +13,6 @@ $Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
 
-$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
-
 $Definition['Abilites'] = 'Abilites';
 $Definition['Activity.AboutUpdate.FullHeadline'] = 'Activity.AboutUpdate.FullHeadline';
 $Definition['Activity.AboutUpdate.ProfileHeadline'] = 'Activity.AboutUpdate.ProfileHeadline';
@@ -60,8 +58,8 @@ $Definition['Capture definitions throughout the site. You must visit the pages i
 $Definition['CategoriesViewingUnfollowed'] = 'CategoriesViewingUnfollowed';
 $Definition['Combo Breaker'] = 'Combo Breaker';
 $Definition['Comment  Body'] = 'Comment  Body';
-$Definition['Comment  Subject'] = 'Comment  Subject';
 $Definition['Comment in'] = 'in';
+$Definition['Comment  Subject'] = 'Comment  Subject';
 $Definition['Confirmation  Body'] = 'Confirmation  Body';
 $Definition['Criteria'] = 'Criteria';
 
@@ -71,10 +69,10 @@ $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Debugger'] = 'Debugger';
-$Definition['Default'] = 'Default';
 
 $Definition['default'] = 'default';
 
+$Definition['Default'] = 'Default';
 $Definition['Default  Category'] = 'Default  Category';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Discussion  Body'] = 'Discussion  Body';
@@ -132,6 +130,7 @@ $Definition['MoneyFormat2'] = '$%7.2f';
 $Definition['Name'] = 'Name';
 $Definition['Name Dropper'] = 'Name Dropper';
 $Definition['Notify me when a badge is requested.'] = 'Notify me when a badge is requested.';
+$Definition['Notify me when a comment is flagged.'] = 'Notify me when a comment is flagged.';
 $Definition['Null Date'] = '-';
 
 $Definition['Off Topic'] = 'Off Topic';
@@ -209,3 +208,5 @@ $Definition['WTF'] = 'WTF';
 
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
 $Definition['You must manually apply this rank.'] = 'You must manually apply this rank.';
+
+$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';

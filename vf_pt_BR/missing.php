@@ -7,8 +7,6 @@ $Definition['%s WTFs'] = '%s WTFs';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.';
 
-$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
-
 $Definition['Abilites'] = 'Abilites';
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
@@ -85,6 +83,7 @@ $Definition['MoneyFormat2'] = '$%7.2f';
 
 $Definition['n/a'] = 'n/a';
 
+$Definition['Notify me when a comment is flagged.'] = 'Notify me when a comment is flagged.';
 $Definition['Null Date'] = '-';
 
 $Definition['OK'] = 'OK';
@@ -99,8 +98,6 @@ $Definition['Pockets'] = 'Pockets';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['Popular'] = 'Popular';
 $Definition['Popup'] = 'Popup';
-$Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".';
-$Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.';
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were 
                able to retrieve a logged-in session from the AuthenticateURL you 
                specified. Please make sure you are logged in to your remote application 
@@ -109,6 +106,8 @@ $Definition['ProxyConnect.RimBlurb'] = 'If you are using ProxyConnect with an of
 $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that 
    ProxyConnect is working.';
 $Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
+$Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.';
+$Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".';
 
 $Definition['Ranks'] = 'Ranks';
 $Definition['Register Url'] = 'Register Url';
@@ -144,9 +143,9 @@ $Definition['Twitter'] = 'Twitter';
 
 $Definition['Upload'] = 'Upload';
 $Definition['Url'] = 'Url';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
+$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
+$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!';
 
 $Definition['Vanilla'] = 'Vanilla';
 
@@ -162,3 +161,5 @@ $Definition['You are previewing the %s theme.'] = 'You are previewing the %s the
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
 $Definition['You must manually apply this rank.'] = 'You must manually apply this rank.';
+
+$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';

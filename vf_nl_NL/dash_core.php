@@ -24,7 +24,6 @@ $Definition['1 hour'] = '1 uur';
 $Definition['1 month'] = '1 maand';
 $Definition['1 month after being sent'] = '1 maand na verzending';
 $Definition['1 week after being sent'] = '1 week na verzending';
-$Definition['15 minutes'] = '15 minuten';
 
 $Definition['2 weeks after being sent'] = '2 weken na verzending';
 
@@ -32,40 +31,42 @@ $Definition['4 hours'] = '4 uur';
 
 $Definition['5 minutes'] = '5 minuten';
 
+$Definition['15 minutes'] = '15 minuten';
+
 $Definition['<strong>Categories</strong>'] = '<strong>Categorieën</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categorieën</strong> Stelt u in staat om uw discussies te organiseren. Categorieën kunnen alleen discussies bevatten.';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Opgelet!</strong> Het verwijderen van een rol kan resulteren in gebruikers die geen toegang kunnen krijgen tot de applicatie.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Opgelet!</strong> Het verplaatsen van discussies naar een vervangende categorie kan resulteren in discussies die verdwijnen (of verschijnen) als de vervangende categorie andere permissies heeft dan de categorie die wordt verwijderd.';
 
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'Een Bericht is verstuurd naar uw email addres met wachtwoord reset instructies.';
-$Definition['A url-friendly version of the category name for better SEO.'] = 'Een url-vriendelijke versie van de categorie naam voor betere SEO.';
 $Definition['Accepted'] = 'Aanvaard';
 $Definition['Action'] = 'Actie';
 $Definition['Add Category'] = 'Voeg Categorie Toe';
 $Definition['Add Info &amp; Create Account'] = 'Voeg Info toe &amp; Creër Account';
+$Definition['AddonProblems'] = 'sdsfd';
 $Definition['Add Role'] = 'Voeg een Rol toe';
 $Definition['Add User'] = 'Voeg Gebruiker toe';
-$Definition['AddonProblems'] = 'sdsfd';
 $Definition['Advanced'] = 'Geavanceerd';
 $Definition['Advanced Forum Settings'] = 'Geavanceerde Forum Instellingen';
+$Definition['A message has been sent to your email address with password reset instructions.'] = 'Een Bericht is verstuurd naar uw email addres met wachtwoord reset instructies.';
 $Definition['Appearance'] = 'Uiterlijk';
 $Definition['Applicant'] = 'Aanvrager';
 $Definition['Application'] = 'Applicatie';
-$Definition['Application ID'] = 'Applicatie ID';
-$Definition['Application Secret'] = 'Applicatie Geheim';
 $Definition['ApplicationHelp'] = 'Met Applicaties kun je grote groepen van functionaliteit toevoegen aan je site<br />Zodra een applicatie is toegevoegd aan je map %s, kan je die op deze pagina in- of uitschakelen.';
+$Definition['Application ID'] = 'Applicatie ID';
 $Definition['Applications'] = 'Applicaties';
+$Definition['Application Secret'] = 'Applicatie Geheim';
 $Definition['Apply'] = 'Toepassen';
 $Definition['Approve'] = 'Goedkeuren';
 $Definition['Archive Discussions'] = 'Archiveer Discussies';
+$Definition['A url-friendly version of the category name for better SEO.'] = 'Een url-vriendelijke versie van de categorie naam voor betere SEO.';
 $Definition['Authentication'] = 'Authenticatie';
 $Definition['Authors can always edit their posts'] = 'Auteurs kunnen altijd hun eigen berichten wijzigen';
 $Definition['Authors can edit for 1 day after posting'] = 'Auteurs kunnen gedurende 1 dag hun eigen berichten wijzigen';
 $Definition['Authors can edit for 1 month after posting'] = 'Auteurs kunnen gedurende 1 maand hun eigen berichten wijzigen';
 $Definition['Authors can edit for 1 week after posting'] = 'Auteurs kunnen gedurende 1 week hun eigen berichten wijzigen';
+$Definition['Authors can edit for 5 minutes after posting'] = 'Auteurs kunnen gedurende 5 minuten hun eigen berichten wijzigen';
 $Definition['Authors can edit for 15 minutes after posting'] = 'Auteurs kunnen gedurende 15 minuten hun eigen berichten wijzigen';
 $Definition['Authors can edit for 30 minutes after posting'] = 'Auteurs kunnen gedurende 30 minuten hun eigen berichten wijzigen';
-$Definition['Authors can edit for 5 minutes after posting'] = 'Auteurs kunnen gedurende 5 minuten hun eigen berichten wijzigen';
 $Definition['Authors cannot edit their posts'] = 'Auteurs kunnen hun eigen berichten niet wijzigen';
 
 $Definition['Badge Name'] = 'Naam';
@@ -110,16 +111,16 @@ $Definition['Don\'t use Categories'] = 'Gebruik geen Categorieën';
 $Definition['edit'] = 'bewerk';
 
 $Definition['Edit Category'] = 'Bewerk Categorie';
-$Definition['Edit User'] = 'Bewerk Gebruiker';
 $Definition['EditContentTimeout.Notes'] = 'Opmerking: Als een gebruiker een rol bezit die bevoegdheden heeft tot het bewerken van de inhoud, dan zullen deze bevoegdheden elke hier geselecteerde waarde overschrijven.';
+$Definition['Edit User'] = 'Bewerk Gebruiker';
 $Definition['Enable'] = 'Inschakelen';
 $Definition['Enable OpenID'] = 'Inschakelen OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Voer het e-mailadres in van de persoon die je wilt uitnodigen:';
 $Definition['Every 1 minute'] = 'Elke 1 minuten';
-$Definition['Every 10 seconds'] = 'Elke 10 seconden';
-$Definition['Every 30 seconds'] = 'Elke 30 seconden';
 $Definition['Every 5 minutes'] = 'Elke 5 minuten';
 $Definition['Every 5 seconds'] = 'Elke 5 seconden';
+$Definition['Every 10 seconds'] = 'Elke 10 seconden';
+$Definition['Every 30 seconds'] = 'Elke 30 seconden';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Elke gebruiker van je site is ten minste één rol toegewezen. Rollen worden gebruikt om te bepalen wat gebruikers mogen doen.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Sluit gearchiveerde discussies uit van de discussielijst';
 $Definition['Existing members send invitations to new members.'] = 'Bestaande leden verzenden uitnodigingen naar nieuwe leden.';
@@ -210,8 +211,8 @@ $Definition['Recently Active Users'] = 'Recente Actieve Gebruikers';
 $Definition['Refresh Comments'] = 'Laad Reacties opnieuw';
 $Definition['Registration'] = 'Registratie';
 $Definition['Remove'] = 'Verwijder';
-$Definition['Require users to confirm their email addresses (recommended)'] = 'Require gebruikers om hun email addressen te verifiëren (aanbevolen)';
 $Definition['Requires: '] = 'Vereist: ';
+$Definition['Require users to confirm their email addresses (recommended)'] = 'Require gebruikers om hun email addressen te verifiëren (aanbevolen)';
 $Definition['Reset password and send email notification to user'] = 'Reset Wachtwoord en stuur een e-mail notificatie naar de gebruiker';
 $Definition['Reveal Password'] = 'Onthul Wachtwoord';
 $Definition['Role'] = 'Rol';
@@ -269,10 +270,10 @@ $Definition['Why do you want to join?'] = 'Waarom wil jij je aansluiten?';
 $Definition['Within'] = 'Binnen';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Mocht je ooit buitengesloten raken van je forum dan kan je altijd inloggen met je originele Vanilla e-mail en wachtwoord via <a href="%1$s">%1$s</a>';
+$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Je kunt de %1$s plugin niet uitschakelen, omdat de %2$s plugin er van afhankelijk is.';
+$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Je kunt de OpenID plugin niet uitschakelen, omdat de GoogleSignIn plugin er van afhankelijk is.';
 $Definition['You can place files in your /uploads folder.'] = 'Als je bestand te
 		groot is om direct te uploaden naar deze pagina dan kan je het bestand in je /uploads
 		map plaatsen. Zorg ervoor dat de bestandsnaam begint met het woord <b>export</b> en eindigt
 		met <b>.txt</b> of <b>.gz</b>.';
-$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Je kunt de %1$s plugin niet uitschakelen, omdat de %2$s plugin er van afhankelijk is.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Je kunt de OpenID plugin niet uitschakelen, omdat de GoogleSignIn plugin er van afhankelijk is.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Je aanvraag zal worden beoordeeld door een beheerder. Als je aavraag is goedgekeurd, zul je  op de hoogte worden gesteld via een e-mail ';

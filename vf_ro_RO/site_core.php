@@ -1,7 +1,5 @@
 <?php
 
-$Definition[' - Page %s'] = ' - Pagina %s';
-
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s a schimbat %6$s avatarul.';
 $Definition['%1$s joined.'] = '%1$s s-a alaturat.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s a mentionat %3$s pe %8$s.';
@@ -12,15 +10,16 @@ $Definition['%s Connect'] = '%s Conectati';
 $Definition['%s discussion'] = '%s discutie';
 $Definition['%s discussions'] = '%s discutii';
 $Definition['%s message'] = '%s mesaj';
-$Definition['%s new'] = '%s nou';
 $Definition['%s New'] = '%s Nou';
+$Definition['%s new'] = '%s nou';
 $Definition['%s New Plural'] = '%s Nou';
 $Definition['%s new plural'] = '%s nou';
 $Definition['%s point'] = '%s puncte';
 
+$Definition[' - Page %s'] = ' - Pagina %s';
+
 $Definition['1 message'] = '1 mesaj';
 
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Ooops! Eroare in timpul procesarii cererii.<br />Serverul a returnat urmatorul raspuns: %s';
 $Definition['About'] = 'Despre';
 $Definition['Activity'] = 'Activitati';
 $Definition['Activity.AboutUpdate.FullHeadline'] = '%1$s modificat %6$s profilul.';
@@ -66,6 +65,7 @@ $Definition['Administrator Activity'] = 'Activitate administrator';
 
 $Definition['administrators'] = 'administratori';
 
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Ooops! Eroare in timpul procesarii cererii.<br />Serverul a returnat urmatorul raspuns: %s';
 $Definition['All Categories'] = 'Toate Categoriile';
 $Definition['All Conversations'] = 'Toate discutiile';
 $Definition['All Discussions'] = 'Toate discutiile';
@@ -93,8 +93,8 @@ $Definition['By uploading a file you certify that you have the right to distribu
 $Definition['Cancel'] = 'Anuleaza';
 $Definition['Categories'] = 'Categorii de discutii';
 $Definition['Category'] = 'Categoria';
-$Definition['Category Notifications'] = 'Notificari categorii';
 $Definition['CategoryID'] = 'Categoria';
+$Definition['Category Notifications'] = 'Notificari categorii';
 $Definition['Change My Password'] = 'Schimba parola mea';
 $Definition['Change My Picture'] = 'Schimba avatarul meu';
 $Definition['Change Password'] = 'Modificati parola';
@@ -102,10 +102,10 @@ $Definition['Change Picture'] = 'Modificati imaginea';
 $Definition['Choose a name to identify yourself on the site.'] = 'Alege un nume care sa te identifice pe forum!';
 $Definition['Close'] = 'Inchide';
 $Definition['Closed'] = 'Discutie Inchisa';
+$Definition['Comment'] = 'Comenteaza';
 
 $Definition['comment'] = 'comenteaza';
 
-$Definition['Comment'] = 'Comenteaza';
 $Definition['Confirm'] = 'Confirma';
 $Definition['Confirm Password'] = 'Confirma Parola';
 $Definition['Connect'] = 'Conecteaza-te';
@@ -126,8 +126,8 @@ $Definition['Delete Discussion'] = 'Sterge discutia';
 
 $Definition['discussion'] = 'discutia';
 
-$Definition['Discussion Title'] = 'Titlul discutiei';
 $Definition['Discussions'] = 'Discutii';
+$Definition['Discussion Title'] = 'Titlul discutiei';
 $Definition['Dismiss'] = 'Revocati';
 $Definition['Don\'t have an account? %s'] = 'Nu ai cont? %s';
 $Definition['Draft saved at %s'] = 'Salvat ca ciorna in %s';
@@ -140,8 +140,6 @@ $Definition['Edit My Profile'] = 'Editeaza profilul meu';
 $Definition['Edit My Thumbnail'] = 'Editeaza pictograma mea';
 $Definition['Edit Preferences'] = 'Editeaza preferintele';
 $Definition['Edit Thumbnail'] = 'Editati miniatura';
-$Definition['Email Notifications'] = 'Notificari prin email';
-$Definition['Email Unavailable'] = 'Email indisponibil';
 $Definition['Email/Username'] = 'Email/Nume Utilizator';
 $Definition['EmailFooter'] = 'O zi placuta!';
 $Definition['EmailHeader'] = 'Salut {User.Name}!
@@ -172,6 +170,7 @@ Urmati link-ul de mai jos pentru a mai multe informatii:
 SLOGAN
 
 Proiect sprijinit de http://anunturi-vanzari.com/ .';
+$Definition['Email Notifications'] = 'Notificari prin email';
 $Definition['EmailPassword'] = 'Buna %1$s,
 
 %2$s a resetat parola ta pe %3$s. Datele de autentificare sunt:
@@ -194,6 +193,7 @@ Urmati link-ul de mai jos pentru a mai multe informatii:
 SLOGAN
 
 Proiect sprijinit de http://anunturi-vanzari.com/ .';
+$Definition['Email Unavailable'] = 'Email indisponibil';
 $Definition['EmailWelcome'] = 'Buna %1$s,
 
 %2$s a creat un cont pentru tine pe %3$s. Datele de autentificare sunt:
@@ -239,8 +239,8 @@ $Definition['ErrorTermsOfService'] = 'Trebuie sa fiti de acord cu termenii si co
 $Definition['everyone'] = 'toata lumea';
 
 $Definition['Female'] = 'Feminin';
-$Definition['File Size'] = 'Marime fisier';
 $Definition['Filename'] = 'Nume fisier';
+$Definition['File Size'] = 'Marime fisier';
 $Definition['Flag'] = 'Abuz?';
 $Definition['Forgot?'] = 'Resetare?';
 $Definition['Format his'] = 'al lui';
@@ -265,18 +265,18 @@ $Definition['Hide signatures on my mobile device'] = 'Ascunde semnaturile pentru
 $Definition['his'] = 'al lui';
 
 $Definition['Home'] = 'Acasa';
-$Definition['How long do you want this warning to last?'] = 'Cat de mult vrei sa dureze acest avertisment?';
 $Definition['Howdy, Stranger!'] = 'Bine ai venit, vizitatorule!';
+$Definition['How long do you want this warning to last?'] = 'Cat de mult vrei sa dureze acest avertisment?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Sunt de acord cu <a id="TermsOfService" class="Popup" target="terms" href="%s">termeni si conditii</a>';
-$Definition['I remember now!'] = 'Mi-am adus aminte!';
-$Definition['In this Conversation'] = 'Participa la conversatie';
 $Definition['Insert Image'] = 'Introduceti imaginea';
 $Definition['Internal'] = 'Intern';
+$Definition['In this Conversation'] = 'Participa la conversatie';
 $Definition['Invite'] = 'Invita';
 $Definition['InviteErrorPermission'] = 'Ne pare rau, permisiune refuzata.';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Implica-te acum! <br />Conecteaza-te acum prin:';
+$Definition['I remember now!'] = 'Mi-am adus aminte!';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Implica-te acum! <br />Conecteaza-te acum prin:';
 
 $Definition['Joined'] = 'Inregistrat';
 
@@ -376,13 +376,13 @@ $Definition['Share'] = 'Da mai departe';
 
 $Definition['she'] = 'ea';
 
+$Definition['SignIn'] = 'Intra in cont';
 $Definition['Sign In'] = 'Intra in cont';
 $Definition['Sign In with Google'] = 'Intra in cont cu Gmail';
 $Definition['Sign In with OpenID'] = 'Intra in cont cu OpenID';
 $Definition['Sign In with Twitter'] = 'Intra in cont cu Twitter';
 $Definition['Sign Out'] = 'Iesi din cont';
 $Definition['Sign Up'] = 'Inregistreaza-te';
-$Definition['SignIn'] = 'Intra in cont';
 $Definition['Sink'] = 'Expirat';
 
 $Definition['somebody'] = 'cineva';
@@ -393,8 +393,8 @@ $Definition['Start Conversation'] = 'Incepeti conversatia';
 $Definition['Started by %1$s'] = 'Deschisa de %1$s';
 
 $Definition['Tags'] = 'Cuvinte de cautare';
-$Definition['Terms of Service'] = 'Termeni si conditii';
 $Definition['TermsOfService'] = 'Termeni si conditii';
+$Definition['Terms of Service'] = 'Termeni si conditii';
 $Definition['TermsOfServiceText'] = '
 	<h1>TERMENII SI CONDITIILE DE UTILIZARE:</h1>
 	<p>Noi, echipa NUME SITE si NUME SITE dorim ca prin acest regulament 
@@ -477,9 +477,10 @@ $Definition['Write a comment'] = 'Scrie un comentariu';
 $Definition['Write Comment'] = 'Scrie comentariu';
 $Definition['Write something about yourself...'] = 'Descrie-te pe tine...';
 
+$Definition['You'] = 'Tu';
+
 $Definition['you'] = 'tu';
 
-$Definition['You'] = 'Tu';
 $Definition['You already have an account here.'] = 'Ai deja un cont pe forum.';
 $Definition['You are connected as %s through %s.'] = 'Esti conectat ca %s prin %s.';
 $Definition['You do not have any conversations.'] = 'Nu ai nici o conversatie inca.';

@@ -7,8 +7,6 @@ $Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
 
-$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
-
 $Definition['Activity.AboutUpdate.FullHeadline'] = 'Activity.AboutUpdate.FullHeadline';
 $Definition['Activity.AboutUpdate.ProfileHeadline'] = 'Activity.AboutUpdate.ProfileHeadline';
 $Definition['Activity.AddedToConversation.FullHeadline'] = 'Activity.AddedToConversation.FullHeadline';
@@ -116,7 +114,9 @@ $Definition['WTF'] = 'WTF';
 
 $Definition['You are connected as %s through %s.'] = 'You are connected as %s through %s.';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'If you are ever locked out of your forum you can always log in using your original Vanilla email and password at <a href="%1$s">%1$s</a>';
-$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.';
+$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Your application will be reviewed by an administrator. You will be notified by email if your application is approved.';
+
+$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';

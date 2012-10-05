@@ -23,13 +23,14 @@ $Definition['1 month'] = '1 شهر';
 $Definition['1 month after being sent'] = '1 شهر منذ الارسال';
 $Definition['1 week'] = '1 اسبوع';
 $Definition['1 week after being sent'] = '1 اسبوع منذ الارسال';
-$Definition['15 minutes'] = '15 دقيقة';
 
 $Definition['2 weeks after being sent'] = 'عدد 2 اسبوع بعد الإرسال';
 
 $Definition['4 hours'] = '4 ساعات';
 
 $Definition['5 minutes'] = '5 دقائق';
+
+$Definition['15 minutes'] = '15 دقيقة';
 
 $Definition['<strong>Categories</strong>'] = '<strong>أصناف</strong>';
 

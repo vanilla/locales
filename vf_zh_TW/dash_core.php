@@ -2,15 +2,11 @@
 
 $Definition['%s user(s) found.'] = '找到了 %s 個會員.';
 
-$Definition['[%s] Invitation'] = '[%s] 邀請你加入';
-
-$Definition['_Locale'] = '本地化';
-
 $Definition['Accepted'] = '接受';
 $Definition['Action'] = '操作';
 $Definition['Add Info &amp; Create Account'] = '新增資訊 &amp; 建立帳號';
-$Definition['Add User'] = '新增會員';
 $Definition['Addons'] = '外掛';
+$Definition['Add User'] = '新增會員';
 $Definition['Administrator'] = '管理員';
 $Definition['Advanced'] = '進階';
 $Definition['Advanced Forum Settings'] = '進階討論區設定';
@@ -52,11 +48,11 @@ $Definition['Discussions per Page'] = '每頁顯示討論數';
 $Definition['edit'] = '編輯';
 
 $Definition['Edit Category'] = '編輯分類';
-$Definition['Edit User'] = '編輯會員';
 $Definition['EditContentTimeout.Notes'] = 'Note: If a user is in a role that has permission to edit content, those permissions will override any value selected here.';
+$Definition['Edit User'] = '編輯會員';
 $Definition['Enable'] = '啟用';
-$Definition['Enable OpenID'] = '啟用 OpenID';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
+$Definition['Enable OpenID'] = '啟用 OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = '請輸入你邀請對象的 Email 地址:';
 
 $Definition['Facebook Settings'] = 'Facebook 設定';
@@ -189,3 +185,7 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 					folder. Make sure the filename begins with the word <b>export</b> and ends
 							with one of <b>.txt, .gz</b>.';
 $Definition['You have %s invitations left for this month.'] = '你本月還可以發送 %s 條邀請.';
+
+$Definition['[%s] Invitation'] = '[%s] 邀請你加入';
+
+$Definition['_Locale'] = '本地化';

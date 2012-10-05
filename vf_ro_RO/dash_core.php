@@ -25,7 +25,6 @@ $Definition['1 month'] = '1 luna';
 $Definition['1 month after being sent'] = '1 luna dupa ce a fost trimis';
 $Definition['1 week'] = '1 saptamana';
 $Definition['1 week after being sent'] = '1 saptamana dupa ce a fost trimis';
-$Definition['15 minutes'] = '15 minute';
 
 $Definition['2 weeks after being sent'] = '2 saptamani dupa ce a fost trimis';
 
@@ -33,11 +32,11 @@ $Definition['4 hours'] = '4 ore';
 
 $Definition['5 minutes'] = '5 minute';
 
+$Definition['15 minutes'] = '15 minute';
+
 $Definition['<strong>Categories</strong>'] = '<strong>Categorii</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categoriile</strong> va permit sa va organizati discutiile. Categoriile pot contine doar discutii.';
 
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'Un mesaj a fost trimis catre adresa dvs de email cu instructiunile de resetare a parolei.';
-$Definition['A url-friendly version of the category name for better SEO.'] = 'undefined';
 $Definition['About Vanilla Statistics'] = 'Despre statisticile Vanilla';
 $Definition['Above Main Content'] = 'Deasupra continutului principal';
 $Definition['Accepted'] = 'Acceptat';
@@ -49,12 +48,12 @@ $Definition['Activity item not found.'] = 'Elemente de activitate negasite';
 $Definition['Add %s'] = 'Adauga %s';
 $Definition['Add Category'] = 'Adauga Categorie';
 $Definition['Add Connection'] = 'Adauga Conexiune';
+$Definition['Added By'] = 'Adaugat de';
 $Definition['Add Info &amp; Create Account'] = 'Adauga informatii &amp; Creaza cont';
 $Definition['Add Item'] = 'Adauga Element';
+$Definition['Addons'] = 'Suplimente';
 $Definition['Add Role'] = 'Adauga Rol';
 $Definition['Add User'] = 'Adauga Utilizator';
-$Definition['Added By'] = 'Adaugat de';
-$Definition['Addons'] = 'Suplimente';
 $Definition['Advanced'] = 'Avansat';
 $Definition['Advanced Embed Settings'] = 'Setari avansate de embed';
 $Definition['Advanced Forum Settings'] = 'Setari avansate ale forumului';
@@ -69,18 +68,20 @@ $Definition['All Dashboard Pages'] = 'Toate paginile tabloului de bord';
 $Definition['All discussions in this category will be permanently deleted.'] = 'Toate discutiile din aceasta categorie vor fi sterse permanent.';
 $Definition['All Forum Pages'] = 'Toate paginile forumului';
 $Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'Tot continutul utilizatorului va fi inlocuit cu un mesaje indicant care sa ateste ca utilizatorul a fost sters.';
-$Definition['All Pages'] = 'Toate paginile';
 $Definition['Allow users to dismiss this message'] = 'Permite utilizatorilor sa revoce acest mesaj';
+$Definition['All Pages'] = 'Toate paginile';
+$Definition['A message has been sent to your email address with password reset instructions.'] = 'Un mesaj a fost trimis catre adresa dvs de email cu instructiunile de resetare a parolei.';
 $Definition['API Status'] = 'Stare API';
 $Definition['Appearance'] = 'Aspect';
 $Definition['Applicant'] = 'Solicitant';
 $Definition['Application'] = 'Aplicatie';
 $Definition['Application ID'] = 'ID Aplicatie';
-$Definition['Application Secret'] = 'Secret Aplicatie';
 $Definition['Applications'] = 'Aplicatii';
+$Definition['Application Secret'] = 'Secret Aplicatie';
 $Definition['Applied On'] = 'La data';
 $Definition['Apply'] = 'Aplica';
 $Definition['Approval'] = 'Aprobare';
+$Definition['A url-friendly version of the category name for better SEO.'] = 'undefined';
 
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
 

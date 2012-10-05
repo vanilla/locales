@@ -1,7 +1,5 @@
 <?php
 
-$Definition[' - Page %s'] = '- Strona %s';
-
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s zmieniono %6$s obrazek profilowy.';
 $Definition['%1$s joined.'] = '%1$s połączono.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s wspomniano %3$s w %8$s.';
@@ -16,11 +14,11 @@ $Definition['%s new'] = '%s nowy(a)';
 $Definition['%s new plural'] = '%s nowy(a)';
 $Definition['%s New Plural'] = '%s Nowy(a)';
 
+$Definition[' - Page %s'] = '- Strona %s';
+
 $Definition['1 message'] = '1 wiadomość';
 
 $Definition['<General Error>'] = '<Błąd ogólny>';
-
-$Definition['[%1$s] Membership Approved'] = '[%1$s] Członkostwo zatwierdzone';
 
 $Definition['About'] = 'o';
 $Definition['Activate'] = 'Aktywacja';
@@ -126,8 +124,8 @@ $Definition['Delete Discussion'] = 'Usuń dyskusję';
 
 $Definition['discussion'] = 'dayskusja';
 
-$Definition['Discussion Title'] = 'Tytuł dyskusji';
 $Definition['Discussions'] = 'Dyskusje';
+$Definition['Discussion Title'] = 'Tytuł dyskusji';
 $Definition['Don\'t have an account? %s'] = 'Nie masz konta? %s';
 $Definition['Draft saved at %s'] = 'Szkic zapisany jako %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Przeciągnij dookoła i zmień rozmiar prostokąta poniżej, aby określić rozmiar miniatury.';
@@ -140,11 +138,6 @@ $Definition['Edit My Thumbnail'] = 'Edytuj swoją miniaturkę';
 $Definition['Edit Preferences'] = 'Edytuj preferencje';
 $Definition['Edit Thumbnail'] = 'Edytuj miniaturkę';
 $Definition['Email'] = 'Adres e-mail';
-$Definition['Email Notifications'] = 'Powiadomienia e-mail';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail wysłany przez aplikację będzie zawierał następujący adres nadawcy';
-$Definition['Email Source'] = 'Adres e-mail';
-$Definition['Email Unavailable'] = 'E-mail niedostępny';
-$Definition['Email visible to other users'] = 'E-mail widzialny dla innych użytkowników';
 $Definition['Email/Username'] = 'Adres e-mail lub nazwa użytkownika';
 $Definition['EmailFooter'] = '
 Miłego dnia!';
@@ -170,6 +163,7 @@ Przejdź pod poniższy link by to sprawdzić:
 %2$s
 
 Miłego dnia!';
+$Definition['Email Notifications'] = 'Powiadomienia e-mail';
 $Definition['EmailPassword'] = 'Witaj %1$s,
 
 %2$s twoje hasło zostało zresetowane %3$s. Poniżej masz dane do zalogowania:
@@ -179,6 +173,8 @@ $Definition['EmailPassword'] = 'Witaj %1$s,
   Url: %4$s
 
 Miłego dnia!';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail wysłany przez aplikację będzie zawierał następujący adres nadawcy';
+$Definition['Email Source'] = 'Adres e-mail';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -188,6 +184,8 @@ Przejdź pod poniższy link by to sprawdzić:
 %2$s
 
 Miłego dnia!';
+$Definition['Email Unavailable'] = 'E-mail niedostępny';
+$Definition['Email visible to other users'] = 'E-mail widzialny dla innych użytkowników';
 $Definition['EmailWelcome'] = 'Witaj %1$s,
 
 %2$s twoje konto zostało utworzone na %3$s. Oto dane do zalogowania:
@@ -224,12 +222,12 @@ $Definition['ErrorRecordNotFound'] = 'Nie można odnaleźć żądanego rekordu.'
 $Definition['ErrorTermsOfService'] = 'Musisz zaakceptować warunki korzystania z serwisu.';
 
 $Definition['Female'] = 'kobieta';
-$Definition['File Size'] = 'Rozmiar pliku';
 $Definition['Filename'] = 'Nazwa pliku';
+$Definition['File Size'] = 'Rozmiar pliku';
 $Definition['Forgot?'] = 'Zapomniałeś?';
 $Definition['Format his'] = 'jego';
-$Definition['Format you'] = 'ty';
 $Definition['Format You'] = 'Ty';
+$Definition['Format you'] = 'ty';
 $Definition['Format Your'] = 'Twój';
 
 $Definition['Garden.Title'] = 'Banner tytułowy';
@@ -246,15 +244,15 @@ $Definition['Home'] = 'Strona główna';
 $Definition['Howdy, Stranger!'] = 'Witaj, nieznajomy!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Akceptuję <a id="TermsOfService" class="Popup" target="terms" href="%s">warunki korzystania z serwisu</a>';
-$Definition['I remember now!'] = 'Teraz pamiętam!';
 
 $Definition['in'] = 'w';
 
-$Definition['In this Conversation'] = 'W tej konwersacji';
 $Definition['Inbox'] = 'Skrzynka odbiorcza';
 $Definition['Internal'] = 'Wewnętrzny';
+$Definition['In this Conversation'] = 'W tej konwersacji';
 $Definition['Invite'] = 'Zaproszenie';
 $Definition['InviteErrorPermission'] = 'Sorry, brak dostępu.';
+$Definition['I remember now!'] = 'Teraz pamiętam!';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Wygląda na to, że jesteś tutaj nowy. Jeśli chcesz wziąć udział, należy kliknąć jeden z tych przycisków!';
 
 $Definition['Joined'] = 'Dołączył';
@@ -295,9 +293,9 @@ $Definition['Notify me when people write on my wall.'] = 'Powiadom mnie, gdy kto
 
 $Definition['OpenID Settings'] = 'Ustawienia OpenID';
 $Definition['Options'] = 'Opcje';
-$Definition['Or you can...'] = 'Lub możesz...';
 $Definition['Organize your Categories'] = 'Organizacja kategorii';
 $Definition['Original'] = 'Oryginał';
+$Definition['Or you can...'] = 'Lub możesz...';
 
 $Definition['PageDetailsMessageFull'] = '%1$s do %2$s of %3$s';
 $Definition['Password'] = 'Hasło';
@@ -343,21 +341,21 @@ $Definition['Share'] = 'Podziel się';
 
 $Definition['she'] = 'ona';
 
+$Definition['SignIn'] = 'Zaloguj się';
 $Definition['Sign In'] = 'Zaloguj się';
 $Definition['Sign In with Google'] = 'Zaloguj się przy pomocy Google';
 $Definition['Sign In with OpenID'] = 'Zaloguj się przy pomocy OpenID';
 $Definition['Sign In with Twitter'] = 'Zaloguj się przy pomocy Twittera';
 $Definition['Sign Out'] = 'Wyloguj';
 $Definition['Sign Up'] = 'Zarejestruj się';
-$Definition['SignIn'] = 'Zaloguj się';
 
 $Definition['somebody'] = 'ktoś';
 
 $Definition['Start a New Conversation'] = 'Rozpocznij nową konwersację';
 $Definition['Start a New Discussion'] = 'Nowa dyskusja';
 $Definition['Start Conversation'] = 'Rozpocznij konwersację';
-$Definition['Start your First Discussion'] = 'Rozpocznij swoją pierwszą dyskusję';
 $Definition['Started by %1$s'] = 'Rozpoczęta przez %1$s';
+$Definition['Start your First Discussion'] = 'Rozpocznij swoją pierwszą dyskusję';
 
 $Definition['Target'] = 'Cel';
 $Definition['TermsOfServiceText'] = '
@@ -411,8 +409,8 @@ $Definition['ValidateTimestamp'] = '%s nieodpowiedni datownik.';
 $Definition['ValidateUsername'] = 'Nazwa użytkownika musi mieć 3-20 znaków i składać się z liter, cyfr i podkreśleń.';
 $Definition['ValidateVersion'] = 'W polu %s jest nieprawidłowy numer wersji. Zobacz przykłady prawidłowych numerów wersji w php version_compare ().
 ';
-$Definition['Visit Site'] = 'Odwiedź stronę';
 $Definition['Visits'] = 'Wizyty';
+$Definition['Visit Site'] = 'Odwiedź stronę';
 
 $Definition['wall'] = 'ściana';
 
@@ -435,3 +433,5 @@ $Definition['your'] = 'twój(twoje)';
 $Definition['Your changes have been saved.'] = 'Zmiany zostały zapisane.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Twoja zarejestrowana nazwa użytkownika: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = 'Twoje ustawienia zostały zapisane.';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Członkostwo zatwierdzone';

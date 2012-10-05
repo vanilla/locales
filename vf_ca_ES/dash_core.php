@@ -8,7 +8,6 @@ $Definition['1 week after being sent'] = '1 semana después de ser enviado';
 
 $Definition['2 weeks after being sent'] = '2 semanas después de ser enviado';
 
-$Definition['A url-friendly version of the category name for better SEO.'] = 'Una url-friendly version of the category name for better SEO.';
 $Definition['Accepted'] = 'Acceptat';
 $Definition['Action'] = 'Acción';
 $Definition['Add Category'] = 'Añadir Categoría';
@@ -26,14 +25,15 @@ $Definition['Applications'] = 'Aplicaciones';
 $Definition['Apply'] = 'Aplicar';
 $Definition['Approve'] = 'Aprobar';
 $Definition['Archive Discussions'] = 'Archivar Discusiones';
+$Definition['A url-friendly version of the category name for better SEO.'] = 'Una url-friendly version of the category name for better SEO.';
 $Definition['Authentication'] = 'Autenticación';
 $Definition['Authors can always edit their posts'] = 'Los autores siempre pueden editar sus posts';
 $Definition['Authors can edit for 1 day after posting'] = 'Los autores pueden editar durante 1 día después de postear';
 $Definition['Authors can edit for 1 month after posting'] = 'Los autores pueden editar durante 1 mes después de postear';
 $Definition['Authors can edit for 1 week after posting'] = 'Los autores pueden editar durante 1 semana después de postear';
+$Definition['Authors can edit for 5 minutes after posting'] = 'Los autores pueden editar durante 5 minutos después de postear';
 $Definition['Authors can edit for 15 minutes after posting'] = 'Los autores pueden editar durante 15 minutos después de postear';
 $Definition['Authors can edit for 30 minutes after posting'] = 'Los autores pueden editar durante 30 minutos después de postear';
-$Definition['Authors can edit for 5 minutes after posting'] = 'Los autores pueden editar durante 5 minutos después de postear';
 $Definition['Authors cannot edit their posts'] = 'Los autores no pueden editar sus posts';
 
 $Definition['Badge Name'] = 'Nombre';
@@ -76,17 +76,17 @@ $Definition['Don\'t use Categories'] = 'No usar Categorías';
 $Definition['edit'] = 'editar';
 
 $Definition['Edit Category'] = 'Editar Categoría';
-$Definition['Edit User'] = 'Editar Usuario';
 $Definition['EditContentTimeout.Notes'] = 'Nota: Si un usuario tiene un rol que tiene permisos para editar contenido, esos permisos serán anulados por cualquier valor seleccionado aquí.';
+$Definition['Edit User'] = 'Editar Usuario';
 $Definition['Enable'] = 'Activar';
-$Definition['Enable OpenID'] = 'Activar OpenID';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
+$Definition['Enable OpenID'] = 'Activar OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Introduce el correo electr';
 $Definition['Every 1 minute'] = 'Cada 1 minuto';
-$Definition['Every 10 seconds'] = 'Cada 10 segundos';
-$Definition['Every 30 seconds'] = 'Cada 30 segundos';
 $Definition['Every 5 minutes'] = 'Cada 5 minutos';
 $Definition['Every 5 seconds'] = 'Cada 5 segundos';
+$Definition['Every 10 seconds'] = 'Cada 10 segundos';
+$Definition['Every 30 seconds'] = 'Cada 30 segundos';
 $Definition['Exclude archived discussions from the discussions list'] = 'Excluir discusiones archivadas e la lista de discusiones';
 $Definition['Existing members send invitations to new members.'] = 'Los miembros existentes envían invitaciones a nuevos miembros';
 
@@ -240,7 +240,7 @@ $Definition['Why do you want to join?'] = 'Per qu';
 $Definition['Within'] = 'Dentro de';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Si alguna vez se le perdió la entrada en su foro, podrá entrar usando su correo electrónico original Vainilla y su contraseña en <a href="%1$s">%1$s</a>';
-$Definition['You can place files in your /uploads folder.'] = 'Si el archivo es demasiado grande para subirlo directamente a esta página puedes colocarlo en la carpeta /uploads. Asegúrate e que el fichero comienza con la palabra <b>export</b> y termina con alguna de estas dos palabras: <b>.txt ó .gz</b>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'No se puede desactivar el plugin de %1$s  porque el plugin %2$s lo necesita para poder funcionar.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'No se puede desactivar el plugin de OpenID porque el plugin GoogleSingIn lo necesita para poder funcionar.';
+$Definition['You can place files in your /uploads folder.'] = 'Si el archivo es demasiado grande para subirlo directamente a esta página puedes colocarlo en la carpeta /uploads. Asegúrate e que el fichero comienza con la palabra <b>export</b> y termina con alguna de estas dos palabras: <b>.txt ó .gz</b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'La teva sol';

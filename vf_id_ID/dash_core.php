@@ -23,7 +23,6 @@ $Definition['1 month'] = '1 bulan';
 $Definition['1 month after being sent'] = '1 bulan setelah dikirim';
 $Definition['1 week'] = '1 minggu';
 $Definition['1 week after being sent'] = '1 minggu setelah dikirim';
-$Definition['15 minutes'] = '15 menit';
 
 $Definition['2 weeks after being sent'] = '2 minggu setelah dikirim';
 
@@ -31,11 +30,9 @@ $Definition['4 hours'] = '4 jam';
 
 $Definition['5 minutes'] = '5 menit';
 
-$Definition['<strong>Categories</strong>'] = '<strong>Kategori</strong>';
+$Definition['15 minutes'] = '15 menit';
 
-$Definition['[%s] Invitation'] = '[%s] Invitasi';
-$Definition['[%s] Password Reset'] = '[%s] Password Diperbarui';
-$Definition['[%s] Password Reset Request'] = '[%s] Permintaan reset password';
+$Definition['<strong>Categories</strong>'] = '<strong>Kategori</strong>';
 
 $Definition['About Vanilla Statistics'] = 'Mengenai Statistik Vanilla';
 $Definition['Accepted'] = 'Diterima';
@@ -78,9 +75,9 @@ $Definition['Don\'t use Categories'] = 'Jangan Menggunakan Kategori';
 
 $Definition['Edit User'] = 'Edit Pengguna';
 $Definition['Enable'] = 'Aktifkan';
-$Definition['Enable this message'] = 'Aktifkan pesan ini';
 $Definition['Enabled'] = 'Aktifkan';
 $Definition['Enabled: The pocket will be displayed.'] = 'Aktifkan';
+$Definition['Enable this message'] = 'Aktifkan pesan ini';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Masukkan email orang yang akan Anda undang.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Setiap pengguna di situs Anda memiliki setidaknya satu hak akses. Hak akses digunakan untuk menentukan apa saja yang boleh dilakukan oleh pengguna';
 $Definition['Existing members send invitations to new members.'] = 'Member mengundang pengguna lain untuk bergabung.';
@@ -155,9 +152,9 @@ $Definition['The banner logo appears at the top of your forum.'] = 'Banner logo 
 $Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Banner akan tampil pada bagian atas setiap halaman. Jika banner diupload, akan menggantikan judul banner pada halaman forum Anda.';
 $Definition['The invitation was removed successfully.'] = 'Invitasi telah berhasil dihapus.';
 $Definition['The invitation was sent successfully.'] = 'Invitasi telah berhasil dikirimkan.';
-$Definition['The Password Authenticator does not have any custom configuration options. '] = 'Password autentikator tidak memiliki pilihan konfigurasi';
 $Definition['ThemeHelp'] = 'Bantuan Tema';
 $Definition['Themes'] = 'Tema';
+$Definition['The Password Authenticator does not have any custom configuration options. '] = 'Password autentikator tidak memiliki pilihan konfigurasi';
 
 $Definition['User Count'] = 'Pengguna';
 $Definition['User Registration Settings'] = 'Setting Pendaftaran Pengguna';
@@ -171,3 +168,7 @@ $Definition['What\'s the Buzz?'] = 'Ada Buzz Baru?';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Anda tidak bisa menghapus invitasi yang telah diterima.';
 $Definition['You have %s invitations left for this month.'] = 'Anda memiliki sisa %s invitasi untuk bulan ini';
 $Definition['You must be authenticated in order to use this form.'] = 'Anda harus terotentifikasi dalam menggunakan form ini.';
+
+$Definition['[%s] Invitation'] = '[%s] Invitasi';
+$Definition['[%s] Password Reset'] = '[%s] Password Diperbarui';
+$Definition['[%s] Password Reset Request'] = '[%s] Permintaan reset password';

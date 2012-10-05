@@ -1,19 +1,16 @@
 <?php
 
 $Definition['%1$s was added to the %2$s %3$s.'] = '%1$s が%3$s %2$s に追加されました。';
-$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s が%3$s %2$s から削除され、%5$s %4$s に追加されました。';
 $Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s が%3$s %2$s から削除されました。';
+$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s が%3$s %2$s から削除され、%5$s %4$s に追加されました。';
 $Definition['%s (Current)'] = '%s (現在)';
 $Definition['%s comment'] = 'コメント: %s';
 $Definition['%s Comment'] = '%s コメント';
-$Definition['%s Comments'] = '%s コメント';
 $Definition['%s comments'] = 'コメント: %s';
+$Definition['%s Comments'] = '%s コメント';
 $Definition['%s discussion'] = 'ディスカッション: %s';
 $Definition['%s discussions'] = 'ディスカッション: %s';
 
-$Definition['[%1$s] Membership Approved'] = '[%1$s] 承認済みメンバー';
-
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'リクエストを処理中に致命的なエラーが発生しました。<br />サーバーは次のように応答しています: %s';
 $Definition['About'] = 'ユーザー情報';
 $Definition['Activate'] = 'アクティベート';
 $Definition['Activity'] = 'アクティビティ';
@@ -21,6 +18,7 @@ $Definition['Activity.Comment'] = 'コメントを投稿';
 $Definition['Add'] = '追加';
 $Definition['Add Message'] = 'メッセージを追加';
 $Definition['Add Route'] = 'ルートを追加';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'リクエストを処理中に致命的なエラーが発生しました。<br />サーバーは次のように応答しています: %s';
 $Definition['All Categories'] = 'すべてのカテゴリ';
 $Definition['All Conversations'] = 'すべての会話';
 $Definition['All Discussions'] = 'すべてのディスカッション';
@@ -68,18 +66,14 @@ $Definition['Date.DefaultDayFormat'] = '%m/%d';
 $Definition['Date.DefaultTimeFormat'] = '%H:%M';
 $Definition['Delete'] = '削除する';
 $Definition['Delete Discussion'] = 'ディスカッションを削除';
-$Definition['Discussion Title'] = 'ディスカッション タイトル';
 $Definition['Discussions'] = 'ディスカッション';
+$Definition['Discussion Title'] = 'ディスカッション タイトル';
 $Definition['Don\'t have an account? %s'] = 'アカウントをお持ちですか？ %s';
 
 $Definition['Edit'] = '編集';
 $Definition['Edit Discussion'] = 'ディスカッションを編集';
 $Definition['Edit My Account'] = 'アカウントを編集';
 $Definition['Email'] = 'メールアドレス';
-$Definition['Email Notifications'] = 'メール通知設定';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'アプリケーションから送信されるメールの送信元には、以下の名前とメールアドレスが使用されます';
-$Definition['Email Source'] = 'メールアドレス';
-$Definition['Email visible to other users'] = '他のメンバーにメールアドレスを公開する';
 $Definition['Email/Username'] = 'メールアドレス/ユーザー名';
 $Definition['EmailMembershipApproved'] = '%1$s さん、こんにちは。
 
@@ -88,8 +82,12 @@ $Definition['EmailMembershipApproved'] = '%1$s さん、こんにちは。
   %2$s
   
 では、よい一日をお過ごしください！';
-$Definition['Enter your email address'] = 'メールアドレスを入力してください';
+$Definition['Email Notifications'] = 'メール通知設定';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'アプリケーションから送信されるメールの送信元には、以下の名前とメールアドレスが使用されます';
+$Definition['Email Source'] = 'メールアドレス';
+$Definition['Email visible to other users'] = '他のメンバーにメールアドレスを公開する';
 $Definition['Enter your Email address'] = 'メールアドレスを入力';
+$Definition['Enter your email address'] = 'メールアドレスを入力してください';
 $Definition['ErrorBadInvitationCode'] = '招待コードが正しくありません。';
 $Definition['ErrorTermsOfService'] = '利用規約に同意してください。';
 
@@ -106,10 +104,10 @@ $Definition['GuestModule.Message'] = '初めてですか？　参加するには
 $Definition['Howdy, Stranger!'] = 'ようこそ！';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '<a id="TermsOfService" class="Popup" target="terms" href="%s">利用規約</a>に同意します';
-$Definition['I remember now!'] = '思い出した！戻る。';
 $Definition['Inbox'] = '受信トレイ';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '初めてですか？　参加するには、どちらかのボタンをクリックしてください！';
+$Definition['I remember now!'] = '思い出した！戻る。';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '初めてですか？　参加するには、どちらかのボタンをクリックしてください！';
 
 $Definition['Joined'] = '登録日';
 $Definition['Just you!'] = '自分宛てです。';
@@ -192,21 +190,21 @@ $Definition['Security Check'] = 'セキュリティ チェック';
 $Definition['Select an image on your computer (2mb max)'] = 'コンピュータ内から画像を選んでください (2MBまで)';
 $Definition['Settings'] = '設定';
 $Definition['Sign In'] = 'ログイン';
+$Definition['SignIn'] = 'ログイン';
 $Definition['Sign Out'] = 'ログアウト';
 $Definition['Sign Up'] = 'アカウントを作成';
-$Definition['SignIn'] = 'ログイン';
 $Definition['Sink'] = '下げ進行';
 $Definition['Spam'] = 'スパム';
 $Definition['Start a New Conversation'] = '新しい会話を開始';
 $Definition['Start a New Discussion'] = '新しいディスカッションを開始';
 $Definition['Start Conversation'] = '会話を開始する';
-$Definition['Start your First Discussion'] = '最初のディスカッションを開始する';
 $Definition['Started by %1$s'] = '開始ユーザー %1$s';
+$Definition['Start your First Discussion'] = '最初のディスカッションを開始する';
 
 $Definition['Target'] = '対象';
 $Definition['Tell us why you want to join!'] = '参加理由をご記入ください。';
-$Definition['Terms of Service'] = '利用規約';
 $Definition['TermsOfService'] = '利用規約';
+$Definition['Terms of Service'] = '利用規約';
 $Definition['TermsOfServiceText'] = '
    <p>このサービスを利用する時点で、以下の規約に同意したものとみなします。
    本コミュニティにおいて、中傷(虚偽かどうかに関わらず)、嘘、暴言、罵倒、悪態、
@@ -249,8 +247,8 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'ユーザーを１人以上
 $Definition['ValidateRequired'] = '%sは必須です。';
 $Definition['ValidateRequiredArray'] = 'ユーザーを１人以上指定してください。';
 $Definition['Value'] = 'Condition Expression';
-$Definition['Visit Site'] = 'サイトへ移動';
 $Definition['Visits'] = 'ログイン回数';
+$Definition['Visit Site'] = 'サイトへ移動';
 
 $Definition['Welcome Aboard!'] = 'ようこそ！';
 $Definition['Write Comment'] = 'コメント内容';
@@ -263,5 +261,7 @@ $Definition['You must agree to the terms of service.'] = '利用規約に同意�
 $Definition['Your changes have been saved.'] = '変更を保存しました。';
 $Definition['Your registered username: <strong>%s</strong>'] = 'ConnectRegisteredName';
 $Definition['Your settings have been saved.'] = '設定を保存しました。';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] 承認済みメンバー';
 
 $Definition['↳ Search results for \'%s\''] = '「<b class="search_term">%s</b>」の検索結果';

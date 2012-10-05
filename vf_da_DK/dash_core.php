@@ -9,28 +9,28 @@ $Definition['1 week after being sent'] = '1 uge efter at blive sendt';
 
 $Definition['2 weeks after being sent'] = '2 uger efter at blive sendt';
 
-$Definition['A url-friendly version of the category name for better SEO.'] = 'En url-version af kategori navnet for bedre SEO.';
 $Definition['Accepted'] = 'Accepteret';
 $Definition['Action'] = 'Handling';
 $Definition['Add %s'] = 'Tilføj %s';
 $Definition['Add Category'] = 'sfdfs';
 $Definition['Add Info &amp; Create Account'] = 'Tilf¯j Info &amp; Lav Bruger';
-$Definition['Add User'] = 'Tilf¯j Bruger';
 $Definition['AddonProblems'] = 'ffsfsdlksdlfnsd';
 $Definition['Addons'] = 'Tilf¯jelser';
+$Definition['Add User'] = 'Tilf¯j Bruger';
 $Definition['Advanced'] = 'Avanceret';
 $Definition['Advanced Forum Settings'] = 'Avancerede Forum Indstillinger';
 $Definition['All %1$s'] = 'Alle %1$s';
 $Definition['Appearance'] = 'Udseende';
 $Definition['Applicant'] = 'Ans¯ger';
 $Definition['Application'] = 'Ands¯gning';
-$Definition['Application ID'] = 'Ands¯gnings ID';
-$Definition['Application Secret'] = 'Ans¯gnings Hemmelighed';
 $Definition['ApplicationHelp'] = 'Ans¯gninger giver dig mulighed for at lave store grupper af funktionalitet til din site.<br />NÂr en ans¯gning er blevet tilf¯jet til din %s mappe, Du kan sÊtte det til her.';
+$Definition['Application ID'] = 'Ands¯gnings ID';
 $Definition['Applications'] = 'Ans¯gninger';
+$Definition['Application Secret'] = 'Ans¯gnings Hemmelighed';
 $Definition['Apply'] = 'Ans¯g';
 $Definition['Approve'] = 'Godkend';
 $Definition['Archive Discussions'] = 'Arkiver Diskussioner';
+$Definition['A url-friendly version of the category name for better SEO.'] = 'En url-version af kategori navnet for bedre SEO.';
 $Definition['Authentication'] = 'Autentificering';
 
 $Definition['Badge Name'] = 'Navn';
@@ -74,11 +74,11 @@ $Definition['edit'] = 'rediger';
 
 $Definition['Edit %s'] = 'Rediger %s';
 $Definition['Edit Category'] = 'Rediger Kategori';
-$Definition['Edit User'] = 'Rediger Bruger';
 $Definition['EditContentTimeout.Notes'] = 'Note: Vis en bruger har en rolle som kan lave om pÂ indhold, De tilladelser vil lave om pÂ de vÊrdier her.';
+$Definition['Edit User'] = 'Rediger Bruger';
 $Definition['Enable'] = 'Aktiver';
-$Definition['Enable OpenID'] = 'Aktiver OpenID';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
+$Definition['Enable OpenID'] = 'Aktiver OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Indtast email adressen for personen du vil invitere:';
 $Definition['Existing members send invitations to new members.'] = 'Eksisterende medlemer sender invitationer til nye medlemmer.';
 
@@ -220,10 +220,10 @@ $Definition['Why do you want to join?'] = 'Hvorfor vil du gerne deltage?';
 $Definition['Within'] = 'Inden';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Hvis du  nogensinde er lÂst ude  af dit forum, kan du altid  logge ind med din oprindelige  Vanilla e-mail og adgangskode  pÂ <a href="%1$s">%1$s</a>';
+$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Du kan ikke  deaktivere %1$s plugin fordi %2$s plugin er n¯dvÊndigt for at virke.';
+$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Du kan ikke deaktivere OpenID plugin fordi Google Log ind plugin krÊver det for at fungere.';
 $Definition['You can place files in your /uploads folder.'] = 'Hvis din  fil er for
 stor til at uploade direkte til denne side kan du placere den i din /uploads
 mappe. S¯rg for, at filnavnet starter med ordet <b>eksport</ b> og slutter
 med en af <b>.txt,. gz</ b>.';
-$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Du kan ikke  deaktivere %1$s plugin fordi %2$s plugin er n¯dvÊndigt for at virke.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Du kan ikke deaktivere OpenID plugin fordi Google Log ind plugin krÊver det for at fungere.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Din  ans¯gning vil blive gennemgÂet  af en administrator. Du vil fÂ besked via email, hvis din ans¯gning er godkendt.';

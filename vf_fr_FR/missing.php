@@ -16,14 +16,12 @@ $Definition['%s WTFs'] = '%s WTFs';
 $Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 
 $Definition['1 message'] = '1 message';
-$Definition['15 minutes'] = '15 minutes';
 
 $Definition['5 minutes'] = '5 minutes';
 
-$Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
+$Definition['15 minutes'] = '15 minutes';
 
-$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
-$Definition['[%s] Invitation'] = '[%s] Invitation';
+$Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
 
 $Definition['Action'] = 'Action';
 $Definition['Activity.Default.FullHeadline'] = 'Activity.Default.FullHeadline';
@@ -39,19 +37,17 @@ $Definition['Best Of'] = 'Best Of';
 $Definition['Best Of...'] = 'Best Of...';
 
 $Definition['Condition'] = 'Condition';
-$Definition['Condition Type'] = 'Type';
 $Definition['Conditions'] = 'Conditions';
+$Definition['Condition Type'] = 'Type';
 
 $Definition['conversation'] = 'conversation';
 
 $Definition['Date'] = 'Date';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Description'] = 'Description';
-
-$Definition['discussion'] = 'discussion';
-
 $Definition['Discussion'] = 'Discussion';
 
+$Definition['discussion'] = 'discussion';
 $Definition['discussion(s)'] = 'discussion(s)';
 
 $Definition['Discussions'] = 'Discussions';
@@ -82,11 +78,9 @@ $Definition['Media'] = 'Media';
 $Definition['message'] = 'message';
 
 $Definition['Message'] = 'Message';
-
-$Definition['messages'] = 'messages';
-
 $Definition['Messages'] = 'Messages';
 
+$Definition['messages'] = 'messages';
 $Definition['minute(s)'] = 'minute(s)';
 $Definition['minutes'] = 'minutes';
 
@@ -141,9 +135,11 @@ $Definition['Vanilla'] = 'Vanilla';
 $Definition['Vanilla Cookie Domain'] = 'Vanilla Cookie Domain';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Version'] = 'Version';
-$Definition['Version %s'] = 'Version %s';
 
 $Definition['version %s'] = 'version %s';
+
+$Definition['Version %s'] = 'Version %s';
+
 $Definition['via %s'] = 'via %s';
 
 $Definition['Visible'] = 'Visible';
@@ -153,3 +149,6 @@ $Definition['Votes'] = 'Votes';
 $Definition['Wordpress'] = 'Wordpress';
 $Definition['Wordpress Source'] = 'Wordpress';
 $Definition['WTF'] = 'WTF';
+
+$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
+$Definition['[%s] Invitation'] = '[%s] Invitation';

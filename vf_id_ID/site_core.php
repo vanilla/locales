@@ -8,8 +8,8 @@ $Definition['%1$s joined.'] = '%1$s telah bergabung.';
 $Definition['%1$s signed in.'] = '%1$s telah masuk.';
 $Definition['%1$s updated %6$s profile.'] = '%1$s memperbarui profile %6$s.';
 $Definition['%1$s was added to the %2$s %3$s.'] = '%1$s telah ditambahkan ke %2$s de %3$s  .';
-$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s telah dihapus dari %2$s %3$s, dan ditambahkan ke %4$s %5$s.';
 $Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s telah dihapus dari %2$s de %3$s  .';
+$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s telah dihapus dari %2$s %3$s, dan ditambahkan ke %4$s %5$s.';
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s menulis di %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s menyetujui pendaftaran %2$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s telah membuat akun untuk %1$s.';
@@ -21,9 +21,6 @@ $Definition['%s message'] = '%s pesan';
 $Definition['%s messages'] = '%s pesan';
 $Definition['%s new'] = '%s baru';
 
-$Definition['[%s] Welcome Aboard!'] = '[%s] Selamat datang!';
-
-$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Transport error: %s';
 $Definition['About'] = 'Tengan';
 $Definition['Active'] = 'Aktivasi';
 $Definition['Activity'] = 'Aktivitas';
@@ -32,15 +29,16 @@ $Definition['Add Comment'] = 'Tambah Komentar';
 $Definition['Add Message'] = 'Tambah Pesan';
 $Definition['Add People to this Conversation'] = 'Tambahkan seseorang di perbicangan ini';
 $Definition['Add Route'] = 'Tambah Route';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Transport error: %s';
 $Definition['All Conversations'] = 'Semua Perbincangan';
 $Definition['All Discussions'] = 'Semua Diskusi';
 $Definition['Allow'] = 'Izinkan';
 $Definition['Allow other members to see your email?'] = 'Izinkan pengguna lain melihat email Anda?';
 $Definition['An invitation has already been sent to the email you entered.'] = 'Invitasi telah dikirim ke email yang Anda masukkan.';
 $Definition['Announce'] = 'Umumkan';
-$Definition['Announce this discussion'] = 'Umumkan diskusi ini';
 $Definition['Announcement'] = 'Pemberitahuan';
 $Definition['Announcements'] = 'Pemberitahuan';
+$Definition['Announce this discussion'] = 'Umumkan diskusi ini';
 $Definition['Apply for Membership'] = 'Daftar';
 $Definition['Apply for membership'] = 'Daftar';
 $Definition['Are you sure you want to do that?'] = 'Anda benar ingin melakukannya?';
@@ -62,8 +60,8 @@ $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseN
 $Definition['Clear'] = 'Bersihkan';
 $Definition['Clear Conversation History'] = 'Bersihkan Riwayat Perbincangan';
 $Definition['Close'] = 'Tutup';
-$Definition['Close this discussion'] = 'Tutup diskusi ini';
 $Definition['Closed'] = 'Tutup';
+$Definition['Close this discussion'] = 'Tutup diskusi ini';
 $Definition['Comment'] = 'Komentar';
 $Definition['Comment by %s'] = 'Komentar oleh %s';
 $Definition['Confirm'] = 'Konfirmasi';
@@ -73,8 +71,8 @@ $Definition['Confirm Password'] = 'Konfirmasi Password';
 $Definition['Date'] = 'Applied On';
 $Definition['Delete'] = 'T';
 $Definition['Delete Discussion'] = 'Hapus Diskusi';
-$Definition['Discussion Title'] = 'Judul Diskusi';
 $Definition['Discussions'] = 'Diskusi';
+$Definition['Discussion Title'] = 'Judul Diskusi';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Drag untuk mengubah ukuran untuk membuat avatar.';
 
 $Definition['Edit'] = 'Ubah';
@@ -105,8 +103,8 @@ $Definition['Howdy, Stranger!'] = 'Halo, Orang Asing!';
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Saya menyetujui <a id="TermsOfService" class="Popup" target="terms" href="%s">peraturan layanan</a>.';
 $Definition['In this Conversation'] = 'Di Perbicangan Ini';
 $Definition['Invite'] = 'Kirim Invitasi';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Anda belum masuk/terdaftar. Untuk berpartisipasi, gunakan salah satu menu berikut:';
 $Definition['Item'] = 'Ban Item';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Anda belum masuk/terdaftar. Untuk berpartisipasi, gunakan salah satu menu berikut:';
 
 $Definition['Joined'] = 'Bergabung';
 
@@ -130,7 +128,6 @@ $Definition['New Discussion'] = 'Diskusi Baru';
 $Definition['New Password'] = 'Password Baru';
 $Definition['No discussions were found.'] = 'Tidak ada diskusi ditemukan.';
 $Definition['No results for \'%s\''] = 'Tidak ada hasil pencarian untuk: \'%s\'';
-$Definition['Not much happening here, yet.'] = 'Belum banyak aktivitas di sini.';
 $Definition['Notifications'] = 'Notifikasi';
 $Definition['Notify me of private messages.'] = 'Beritahu saya jika ada pesan baru masuk';
 $Definition['Notify me when I am added to private conversations.'] = 'Beritahu saya jika saya ditambahkan pada perbincangan privat';
@@ -139,6 +136,7 @@ $Definition['Notify me when people comment on my discussions.'] = 'Beritahu saya
 $Definition['Notify me when people mention me in comments.'] = 'Beritahu saya apabila seeorang menyebut saya di komentar';
 $Definition['Notify me when people reply to my wall comments.'] = 'Beritahu saya saat seseorang membalas komentar di dinding saya';
 $Definition['Notify me when people write on my wall.'] = 'Beritahu saya saat sesorang menulis di dinding saya';
+$Definition['Not much happening here, yet.'] = 'Belum banyak aktivitas di sini.';
 
 $Definition['Okay'] = 'Oke';
 $Definition['Old Password'] = 'Password Lama';
@@ -166,8 +164,8 @@ $Definition['Save'] = 'Simpan';
 $Definition['Save Draft'] = 'Simpan Draft';
 $Definition['Save Preferences'] = 'Simpan Pengaturan';
 $Definition['Search'] = 'Cari';
-$Definition['Search results for \'%s\''] = 'Hasil pencarian untuk: \'%s\'';
 $Definition['SearchBoxPlaceHolder'] = 'Cari';
+$Definition['Search results for \'%s\''] = 'Hasil pencarian untuk: \'%s\'';
 $Definition['Select an image on your computer (2mb max)'] = 'Pilih gambar dari komputer (max. 2MB).';
 $Definition['Send Message'] = 'Kirim Pesan';
 $Definition['Settings'] = 'Setting';
@@ -176,8 +174,8 @@ $Definition['Share'] = 'Berbagi';
 $Definition['she'] = 'dia';
 
 $Definition['Sign In'] = 'Login';
-$Definition['Sign Out'] = 'Keluar';
 $Definition['SignIn'] = 'Masuk';
+$Definition['Sign Out'] = 'Keluar';
 $Definition['Sink'] = 'Tenggelamkan';
 $Definition['Sink this discussion'] = 'Tenggelamkan diskusi ini';
 
@@ -225,8 +223,8 @@ $Definition['Username'] = 'Username:';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Username hanya boleh mengandung huruf, angka, dan underscore!';
 
 $Definition['Value'] = 'Condition Expression';
-$Definition['Visit Site'] = 'Kunjungi Situs';
 $Definition['Visits'] = 'Kunjungan';
+$Definition['Visit Site'] = 'Kunjungi Situs';
 
 $Definition['wall'] = 'dinding';
 
@@ -253,11 +251,13 @@ $Definition['You must agree to the terms of service.'] = 'Anda harus menyetujui 
 
 $Definition['your'] = 'milik Anda';
 
-$Definition['Your changes have been saved successfully.'] = 'Perubahan yang Anda buat telah berhasil disimpan.';
 $Definition['Your changes have been saved.'] = 'Saved';
+$Definition['Your changes have been saved successfully.'] = 'Perubahan yang Anda buat telah berhasil disimpan.';
 $Definition['Your invitation has been sent.'] = 'Invitasi Anda telah dikirimkan.';
 $Definition['Your old password was incorrect.'] = 'Password lama Anda salah.';
 $Definition['Your password has been changed.'] = 'Password Anda telah diubah.';
 $Definition['Your picture has been removed.'] = 'Foto Anda telah dihapus.';
 $Definition['Your preferences have been saved.'] = 'Pengaturan Anda telah disimpan';
 $Definition['Your registered username: <strong>%s</strong>'] = 'ConnectRegisteredName';
+
+$Definition['[%s] Welcome Aboard!'] = '[%s] Selamat datang!';
