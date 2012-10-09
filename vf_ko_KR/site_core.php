@@ -208,8 +208,8 @@ $Definition['ErrorTermsOfService'] = '서비스 약관에 동의해야합니다.
 
 $Definition['Female'] = '여성';
 $Definition['Forgot?'] = '<br />비밀번호를 잊으셨나요?';
-$Definition['Format You'] = '나';
 $Definition['Format you'] = '나';
+$Definition['Format You'] = '나';
 
 $Definition['Garden.Email.SupportAddress'] = '서포트 이메일';
 $Definition['Garden.Title'] = '배너 이름';
@@ -322,6 +322,7 @@ $Definition['Started by %1$s'] = '작성자 %1$s';
 $Definition['Start your First Discussion'] = '글타래 열기';
 
 $Definition['Target'] = '목적지';
+$Definition['Terms of Service'] = '서비스 약관';
 $Definition['TermsOfService'] = '서비스 약관';
 $Definition['TermsOfServiceText'] = '
    <p>You agree, through your use of this service, that you will not use this

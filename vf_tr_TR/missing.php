@@ -7,19 +7,11 @@ $Definition['%1$s to %2$s'] = '%1$s to %2$s';
 $Definition['%1$s to %2$s of %3$s'] = '%1$s to %2$s of %3$s';
 $Definition['%1$s Version %2$s'] = '%1$s Version %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s version %2$s is available.';
-$Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s was removed from the %2$s %3$s.';
-$Definition['%3$s approved %2$s membership application.'] = '%3$s approved %2$s membership application.';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 to %s$2 of %s$3';
-$Definition['%s Connect'] = '%s Connect';
 $Definition['%s is not a valid email address'] = '%s is not a valid email address';
 $Definition['%s item in queue'] = '%s item in queue';
 $Definition['%s level'] = '%s level';
 $Definition['%s levels'] = '%s levels';
-$Definition['%s new comment since you last read this.'] = '%s new comment since you last read this.';
-$Definition['%s new comments since you last read this.'] = '%s new comments since you last read this.';
-$Definition['%s New Plural'] = '%s New Plural';
 $Definition['%s of %s'] = '%s of %s';
-$Definition['%s points'] = '%s points';
 $Definition['%s posts'] = '%s posts';
 $Definition['%s Settings'] = '%s Settings';
 $Definition['%s site(s) found.'] = '%s site(s) found.';
@@ -28,8 +20,6 @@ $Definition['%s times'] = '%s times';
 $Definition['%s unavailable'] = '%s unavailable';
 $Definition['%s user(s) found.'] = '%s user(s) found.';
 $Definition['%s user(s) will be affected by this action.'] = '%s user(s) will be affected by this action.';
-$Definition['%s view'] = '%s view';
-$Definition['%s views'] = '%s views';
 $Definition['%s WTFs'] = '%s WTFs';
 $Definition['%s years.'] = '%s years.';
 
@@ -71,7 +61,6 @@ $Definition['About Vanilla Statistics'] = 'About Vanilla Statistics';
 $Definition['Above Main Content'] = 'Above Main Content';
 $Definition['Accepted'] = 'Accepted';
 $Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by ';
-$Definition['Account Options'] = 'Account Options';
 $Definition['Account Sync Failed'] = 'Account Sync Failed';
 $Definition['Action'] = 'Action';
 $Definition['Actions Based on Votes'] = 'Actions Based on Votes';
@@ -105,7 +94,6 @@ $Definition['Activity.WallComment.FullHeadline'] = 'Activity.WallComment.FullHea
 $Definition['Activity.WallComment.ProfileHeadline'] = 'Activity.WallComment.ProfileHeadline';
 $Definition['Activity Item'] = 'Activity Item';
 $Definition['Activity item not found.'] = 'Activity item not found.';
-$Definition['Add'] = 'Add';
 $Definition['Add %s'] = 'Add %s';
 $Definition['Add a new Pocket to your site.'] = 'Add a new Pocket to your site.';
 $Definition['Add Category'] = 'Add Category';
@@ -134,7 +122,6 @@ $Definition['a full year.'] = 'a full year.';
 $Definition['Alive'] = 'Alive';
 $Definition['All'] = 'All';
 $Definition['All %1$s'] = 'All %1$s';
-$Definition['All %s'] = 'All %s';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
 $Definition['All Dashboard Pages'] = 'All Dashboard Pages';
 $Definition['All discussions in this category will be permanently deleted.'] = 'All discussions in this category will be permanently deleted.';
@@ -145,13 +132,10 @@ $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss thi
 $Definition['All Pages'] = 'All Pages';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'A message has been sent to your email address with password reset instructions.';
-$Definition['Announce'] = 'Announce';
-$Definition['Answer'] = 'Answer';
 $Definition['API Status'] = 'API Status';
 $Definition['Appearance'] = 'Appearance';
 $Definition['Applicant'] = 'Applicant';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
-$Definition['Applicants'] = 'Applicants';
 $Definition['Application'] = 'Application';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Application ID'] = 'Application ID';
@@ -168,7 +152,6 @@ $Definition['Are you sure you want to delete %s items forever?'] = 'Are you sure
 $Definition['Are you sure you want to delete 1 item forever?'] = 'Are you sure you want to delete 1 item forever?';
 $Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.';
 $Definition['Are you sure you want to delete this category?'] = 'Are you sure you want to delete this category?';
-$Definition['Are you sure you want to do that?'] = 'Are you sure you want to do that?';
 $Definition['Are you sure you want to restore %s items?'] = 'Are you sure you want to restore %s items?';
 $Definition['Are you sure you want to restore 1 item?'] = 'Are you sure you want to restore 1 item?';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'A url-friendly version of the category name for better SEO.';
@@ -190,37 +173,26 @@ $Definition['Auto-Fetch New Comments'] = 'Auto-Fetch New Comments';
 
 $Definition['Back to all users'] = 'Back to all users';
 $Definition['Back to Mobile Site'] = 'Back to Mobile Site';
-$Definition['Badge'] = 'Badge';
 $Definition['Badge cannot be deleted.'] = 'Badge cannot be deleted.';
 $Definition['Badge deleted.'] = 'Badge deleted.';
 $Definition['Badge Name'] = 'Name';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
 $Definition['Badge Requests'] = 'Badge Requests';
-$Definition['Ban'] = 'Ban';
-$Definition['Ban Item'] = 'Item';
 $Definition['Ban List'] = 'Ban List';
-$Definition['Banned'] = 'Banned';
 $Definition['Banner'] = 'Banner';
 $Definition['Banner Logo'] = 'Banner Logo';
 $Definition['Banner Title'] = 'Banner Title';
 $Definition['Banning'] = 'Banning';
 $Definition['Banning Options'] = 'Banning Options';
-$Definition['BanType'] = 'BanType';
 $Definition['Ban Type'] = 'Type';
+$Definition['BanType'] = 'BanType';
 $Definition['Basic'] = 'Basic';
 $Definition['Basic Information'] = 'Basic Information';
 $Definition['Before'] = 'Before';
 $Definition['Begin At'] = 'Begin At';
 $Definition['Below Sidebar'] = 'Below Sidebar';
-$Definition['Best Answer'] = 'Best Answer';
-$Definition['Best Answers'] = 'Best Answers';
 $Definition['Blocked'] = 'Blocked';
 $Definition['Blog Comments'] = 'Blog Comments';
-$Definition['Body'] = 'Body';
-
-$Definition['bookmarked discussion'] = 'bookmarked competition';
-$Definition['bookmarks'] = 'bookmarks';
-
 $Definition['Browse Addons'] = 'Browse Addons';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Browse for a new banner logo if you would like to change it:';
 
@@ -229,13 +201,8 @@ $Definition['by %s'] = 'by %s';
 $Definition['By %s'] = 'By %s';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'By clicking the button below, you will be deleting the user account for %s forever.';
 
-$Definition['by Date'] = 'by Date';
-
-$Definition['Cancel'] = 'Cancel';
 $Definition['Cannot build profile information if user is not defined.'] = 'Cannot build profile information if user is not defined.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.';
-$Definition['Casual'] = 'Casual';
-$Definition['Categories'] = 'Categories';
 $Definition['Categories &amp; Discussions'] = 'Categories &amp; Discussions';
 $Definition['Categories are used to help organize discussions.'] = 'Categories are used to help organize discussions. Drag &amp; drop the categories to sort and nest them.';
 $Definition['Categories are used to organize discussions.'] = '<strong>Categories</strong> allow you to organize your discussions.';
@@ -272,13 +239,10 @@ $Definition['Click here to apply it.'] = 'Click here to apply it.';
 $Definition['Click here to carry on.'] = 'Click here to carry on.';
 $Definition['Click here to carry on to your dashboard'] = 'Click here to carry on to your dashboard';
 $Definition['Client ID'] = 'Client ID';
-$Definition['Close'] = 'Close';
 
 $Definition['comment(s)'] = 'comment(s)';
 
 $Definition['Comment  Body'] = 'Comment  Body';
-$Definition['Commenting as %1$s (%2$s)'] = 'Commenting as %1$s <span class="SignOutWrap">(%2$s)</span>';
-$Definition['Comments'] = 'Comments';
 $Definition['Comment Settings'] = 'Comment Settings';
 $Definition['Comments per Page'] = 'Comments per Page';
 $Definition['Comment  Subject'] = 'Comment  Subject';
@@ -290,14 +254,8 @@ $Definition['Condition Type'] = 'Type';
 $Definition['Configure an Authenticator'] = 'Configure an Authenticator';
 $Definition['Configure how nested categories are displayed to users.'] = 'Configure how nested categories are displayed to users.';
 $Definition['Configuring Vanilla\'s Homepage'] = 'Configuring Vanilla\'s Homepage';
-$Definition['Confirm'] = 'Confirm';
 $Definition['Confirmation  Body'] = 'Confirmation  Body';
-$Definition['Confirm Email'] = 'Confirm Email';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
-$Definition['Connect'] = 'Connect';
-$Definition['ConnectCreateAccount'] = 'Add Info &amp; Create Account';
-$Definition['ConnectExistingPassword'] = 'Enter your existing account password.';
-$Definition['ConnectLeaveBlank'] = 'Leave blank unless connecting to an exising account.';
 $Definition['Consumer Key'] = 'Consumer Key';
 $Definition['Consumer Secret'] = 'Consumer Secret';
 $Definition['Content flagged as spam is stored here for moderator review.'] = 'Content flagged as spam is stored here for moderator review.';
@@ -325,7 +283,6 @@ $Definition['Current Authenticator'] = 'Current Authenticator';
 $Definition['Current File:'] = 'Current File:';
 $Definition['Current Theme'] = 'Current Theme';
 
-$Definition['Dashboard'] = 'Dashboard';
 $Definition['Database Structure Upgrades'] = 'Database Structure Upgrades';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
@@ -335,10 +292,10 @@ $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Debugger'] = 'Debugger';
 $Definition['Debug Information'] = 'Debug Information';
 $Definition['Decline'] = 'Decline';
-$Definition['Default'] = 'Default';
 
 $Definition['default'] = 'default';
 
+$Definition['Default'] = 'Default';
 $Definition['Default %s Permissions'] = 'Default %s Permissions';
 $Definition['Default  Category'] = 'Default  Category';
 $Definition['Default Category Permissions'] = 'Default Category Permissions';
@@ -347,8 +304,6 @@ $Definition['Default Roles'] = 'Default Roles';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Define your forum homepage'] = 'Define your forum homepage';
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Define your forum homepage, upload your logo, and more...';
-$Definition['Delete'] = 'Delete';
-$Definition['Delete Account'] = 'Delete Account';
 $Definition['Delete Badge'] = 'Delete Badge';
 $Definition['Delete Category'] = 'Delete Category';
 $Definition['Delete Content'] = 'Delete Content';
@@ -372,37 +327,28 @@ $Definition['Disable Google Sign In'] = 'Disable Google Sign In';
 $Definition['Disable OpenID'] = 'Disable OpenID';
 $Definition['Disable Signatures'] = 'Disable Signatures';
 $Definition['Disable Tagging'] = 'Disable Tagging';
-
-$Definition['discussion'] = 'discussion';
-
-$Definition['Discussion'] = 'Discussion';
 $Definition['Discussion & Comment Editing'] = 'Discussion & Comment Editing';
 
 $Definition['discussion(s)'] = 'discussion(s)';
 
 $Definition['Discussion  Body'] = 'Discussion  Body';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
-$Definition['Discussions'] = 'Discussions';
 $Definition['Discussions Layout'] = 'Discussions Layout';
 $Definition['Discussions per Page'] = 'Discussions per Page';
 $Definition['Discussion  Subject'] = 'Discussion  Subject';
 $Definition['Display in dashboard. (not recommended)'] = 'Display in dashboard. (not recommended)';
 $Definition['Display root categories as headings.'] = 'Display root categories as headings.';
 $Definition['Disqus Settings'] = 'Disqus Settings';
-$Definition['Don\'t announce.'] = 'Don\'t announce.';
 $Definition['Don\'t display for embedded comments.'] = 'Don\'t display for embedded comments.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Don\'t embed your forum admin dashboard (pop it out to full-screen)';
 $Definition['Don\'t Refresh'] = 'Don\'t Refresh';
 $Definition['Don\'t use Categories'] = 'Don\'t use Categories';
 $Definition['Do not display the categories in the side panel.'] = 'Do not display the categories in the side panel.';
 $Definition['Download Locale List'] = 'Download Locale List';
-$Definition['Download Locale Pack'] = 'Download Locale Pack';
 $Definition['DownloadLocalePack'] = 'Download';
+$Definition['Download Locale Pack'] = 'Download Locale Pack';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Drag &amp; drop the categories to sort and nest them.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
-$Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Drag around and resize the square below to define your thumbnail icon.';
-
-$Definition['Edit'] = 'Edit';
 
 $Definition['edit'] = 'edit';
 
@@ -414,39 +360,16 @@ $Definition['Edit CSS'] = 'Edit CSS';
 $Definition['Edit Html'] = 'Edit Html';
 $Definition['Editing'] = 'Editing';
 $Definition['Edit Message'] = 'Edit Message';
-$Definition['Edit Preferences'] = 'Edit Preferences';
 $Definition['Edit Role'] = 'Edit Role';
 $Definition['Edit Route'] = 'Edit Route';
 $Definition['Edit User'] = 'Edit User';
 $Definition['Email Confirmation Role'] = 'Email Confirmation Role';
-$Definition['EmailInvitation'] = 'Hello!
-
-%1$s has invited you to join %2$s. If you want to join, you can do so by clicking this link:
-
-  %3$s';
-$Definition['EmailMembershipApproved'] = 'Hello %1$s,
-
-You have been approved for membership. Sign in now at the following link:
-
-  %2$s';
-$Definition['EmailNotification'] = '%1$s
-
-Follow the link below to check it out:
-%2$s
-
-Have a great day!';
 $Definition['Email Source'] = 'Email';
 $Definition['Embed Comments'] = 'Embed Comments';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbeddedNoBodyFormat.'] = 'EmbeddedNoBodyFormat.';
 $Definition['Embedding is currently DISABLED.'] = 'Embedding is currently DISABLED.';
 $Definition['Embedding is currently ENABLED.'] = 'Embedding is currently ENABLED.';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['Embed Forum'] = 'Embed Forum';
 $Definition['Embed Modules'] = 'Embed Modules';
 $Definition['Embed modules from your Vanilla forum into your site'] = 'Embed modules from your Vanilla forum into your site';
@@ -482,13 +405,11 @@ $Definition['Every 30 seconds'] = 'Every 30 seconds';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
 $Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.';
 $Definition['Every Page'] = 'Every Page';
-$Definition['Everything'] = 'Everything';
 $Definition['Everything is ok.'] = 'Everything is ok.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Exclude archived discussions from the discussions list';
 $Definition['Existing members send invitations to new members.'] = 'Existing members send invitations to new members.';
 $Definition['Exit Preview'] = 'Exit Preview';
-$Definition['Expires'] = 'Expires';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['Facebook Settings'] = 'Facebook Settings';
@@ -510,7 +431,6 @@ $Definition['For SEO purposes, search engine crawlers are excluded from being fo
 $Definition['Forum Settings'] = 'Forum Settings';
 $Definition['Frequency'] = 'Frequency';
 $Definition['From'] = 'From';
-$Definition['Full Site'] = 'Full Site';
 
 $Definition['Garden'] = 'Garden';
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
@@ -524,13 +444,11 @@ $Definition['Garden.Import.Merge.Description'] = 'This will merge all of the use
 <b>Warning: If you merge the same data twice you will get duplicate discussions.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Overwrite this forum.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Warning: All data in this forum will be overwritten.';
-$Definition['Garden.Registration.DefaultRoles'] = 'default role';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
-$Definition['Garden.Title'] = 'Banner Title';
 $Definition['Gave badge to users.'] = 'Gave badge to users.';
 $Definition['Generate'] = 'Generate';
 $Definition['Generate Client ID and Secret'] = 'Generate Client ID and Secret';
@@ -545,9 +463,7 @@ $Definition['Getting Started with Vanilla'] = 'Getting Started with Vanilla';
 
 $Definition['give'] = 'give';
 
-$Definition['Give a Badge to %s'] = 'Give a Badge to %s';
 $Definition['Give an Badge'] = 'Give an Badge';
-$Definition['Give Badge'] = 'Give Badge';
 $Definition['Give me a new account'] = 'Give me a new account';
 $Definition['Given Indexes'] = 'Given Indexes';
 $Definition['Gold Plus'] = 'Gold Plus';
@@ -602,9 +518,6 @@ $Definition['If your file is small then just upload it here.'] = 'If your file i
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
-$Definition['In <b>%s.</b>'] = 'In <b>%s.</b>';
-$Definition['In <b>%s</b> and recent discussions.'] = 'In <b>%s</b> and recent discussions.';
-$Definition['Inbox'] = 'Inbox';
 $Definition['Inbox Page'] = 'Inbox Page';
 $Definition['Indexes'] = 'Indexes';
 $Definition['Information'] = 'Information';
@@ -619,8 +532,6 @@ $Definition['Invitations can be sent from users\' profile pages.'] = 'When you u
 $Definition['Invitations per month'] = 'Invitations per month';
 $Definition['Invitations will expire'] = 'Invitations will expire';
 $Definition['Invited by'] = 'Invited by';
-$Definition['IP Address'] = 'IP Address';
-$Definition['IPAddress'] = 'IPAddress';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.';
 
@@ -671,27 +582,21 @@ $Definition['Manage Roles & Permissions'] = 'Manage Roles & Permissions';
 $Definition['Manage Routes'] = 'Manage Routes';
 $Definition['Manage Spam'] = 'Manage Spam';
 $Definition['Manage Themes'] = 'Manage Themes';
-$Definition['Manage Users'] = 'Manage Users';
 $Definition['Manage users'] = 'Manage users';
+$Definition['Manage Users'] = 'Manage Users';
 $Definition['Manage your Plugins'] = 'Manage your Plugins';
 $Definition['Managing Categories'] = 'Managing Categories';
 $Definition['Manual'] = 'Manual';
 
 $Definition['markallviewed'] = 'markallviewed';
 
-$Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
-$Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
+$Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Max Comment Length'] = 'Max Comment Length';
 $Definition['Media'] = 'Media';
 $Definition['Member'] = 'Member';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
-$Definition['Message'] = 'Message';
 $Definition['Message ID'] = 'Message ID';
-
-$Definition['messages'] = 'messages';
-
-$Definition['Messages'] = 'Messages';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['Method'] = 'Method';
@@ -700,8 +605,6 @@ $Definition['minute(s)'] = 'minute(s)';
 
 $Definition['Mixed Layout'] = 'Mixed Layout';
 $Definition['Moderate'] = 'Moderate';
-$Definition['Moderation'] = 'Moderation';
-$Definition['Moderation Queue'] = 'Moderation Queue';
 $Definition['Moderator'] = 'Moderator';
 $Definition['Moderators have permission to edit most content.'] = 'Moderators have permission to edit most content.';
 $Definition['Modern Layout'] = 'Modern Layout';
@@ -712,17 +615,11 @@ $Definition['more than %s deep'] = 'more than %s deep';
 $Definition['more than %s levels deep'] = 'more than %s levels deep';
 
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Most pockets shouldn\'t be displayed in the dashboard.';
-$Definition['Most recent: %1$s by %2$s'] = 'Most recent: %1$s by %2$s';
 $Definition['Move discussions in this category to a replacement category.'] = 'Move discussions in this category to a replacement category.';
-$Definition['MyBadgesModuleTitle'] = 'My Badges';
-$Definition['My Forums'] = 'My Forums';
 $Definition['My Invitations'] = 'My Invitations';
-$Definition['My Preferences'] = 'My Preferences';
 
 $Definition['n/a'] = 'n/a';
 
-$Definition['Name'] = 'Name';
-$Definition['Name Dropper'] = 'Name Dropper';
 $Definition['Need More Help?'] = 'Need More Help?';
 
 $Definition['never'] = 'never';
@@ -732,64 +629,35 @@ $Definition['Never display on mobile browsers.'] = 'Never display on mobile brow
 $Definition['NewApplicantEmail'] = 'New applicant:';
 $Definition['New comments in the last day'] = 'New comments in the last day';
 $Definition['New comments in the last week'] = 'New comments in the last week';
-$Definition['New Conversation'] = 'New Message';
 $Definition['New conversations in the last day'] = 'New conversations in the last day';
 $Definition['New conversations in the last week'] = 'New conversations in the last week';
 $Definition['New discussions in the last day'] = 'New discussions in the last day';
 $Definition['New discussions in the last week'] = 'New discussions in the last week';
-$Definition['New Message'] = 'New Message';
 $Definition['New messages in the last day'] = 'New messages in the last day';
 $Definition['New messages in the last week'] = 'New messages in the last week';
-$Definition['New Poll'] = 'New Poll';
 $Definition['New users are only registered through SSO plugins.'] = 'New users are only registered through SSO plugins.';
 $Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'New users are reviewed and approved by an administrator (that\'s you!).';
 $Definition['New users fill out a simple form and are granted access immediately.'] = 'New users fill out a simple form and are granted access immediately.';
 $Definition['New users in the last day'] = 'New users in the last day';
 $Definition['New users in the last week'] = 'New users in the last week';
-$Definition['Next'] = 'Next';
-$Definition['Ninth Anniversary'] = 'Ninth Anniversary';
-$Definition['No'] = 'No';
-$Definition['NoBadgesEarned'] = 'Any minute now&hellip;';
-$Definition['No badges yet.'] = 'No badges yet.';
 $Definition['No Change'] = 'No Change';
 $Definition['No costs yet.'] = 'No costs yet.';
-$Definition['No default roles.'] = 'No default roles.';
-$Definition['No discussions were found.'] = 'No discussions were found.';
 $Definition['No Items Selected'] = 'No Items Selected';
-$Definition['No items tagged with %s.'] = 'No items tagged with %s.';
 $Definition['None'] = 'None';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
-$Definition['No results for \'%s\''] = 'No results for \'%s\'';
-$Definition['No Roles'] = 'No Roles';
 $Definition['Notes'] = 'Notes';
-$Definition['Notifictions'] = 'Notifictions';
-$Definition['Notify'] = 'Notify';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
-$Definition['Notify me when a badge is requested.'] = 'Notify me when a badge is requested.';
-$Definition['Notify me when a comment is flagged.'] = 'Notify me when a comment is flagged.';
-$Definition['Notify me when I am added to private conversations.'] = 'Notify me when I am added to private conversations.';
 $Definition['Notify me when people comment on a discussion.'] = 'Notify me when people comment on a discussion.';
 $Definition['Notify me when people comment on my addons.'] = 'Notify me when people comment on my addons.';
-$Definition['Notify me when people mention me in comments.'] = 'Notify me when people mention me in comments.';
 $Definition['Notify me when people start new discussions.'] = 'Notify me when people start new discussions.';
-$Definition['Not much happening here, yet.'] = 'Not much happening here, yet.';
 $Definition['Not Spam'] = 'Not Spam';
-$Definition['Not Verified'] = 'Not Verified';
 $Definition['Null Date'] = '-';
 $Definition['Number of blocked registrations'] = 'Number of blocked registrations';
-
-$Definition['Off Topic'] = 'Off Topic';
-$Definition['OK'] = 'OK';
-$Definition['Okay'] = 'Okay';
-$Definition['OldPassword'] = 'Old password';
-
-$Definition['on'] = 'on';
 
 $Definition['On'] = 'On';
 $Definition['One, two, three...'] = 'One, two, three...';
 $Definition['Only Allow Each User To Post'] = 'Only Allow Each User To Post';
 $Definition['Only display on mobile browsers.'] = 'Only display on mobile browsers.';
-$Definition['Only show followed categories'] = 'Only show followed categories';
 $Definition['Operation By'] = 'By';
 $Definition['Organize'] = 'Organize';
 $Definition['Organize Categories'] = 'Organize Categories';
@@ -802,32 +670,19 @@ $Definition['Other Tutorials'] = 'Other Tutorials';
 $Definition['Outgoing Email'] = 'Outgoing Email';
 $Definition['Outgoing Email Address'] = 'Outgoing Email Address';
 
-$Definition['Page'] = 'Page';
-
 $Definition['page'] = 'page';
 
-$Definition['PageDetailsMessage'] = '%1$s to %2$s';
-$Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
+$Definition['Page'] = 'Page';
 $Definition['PageViews'] = 'PageViews';
 $Definition['Panel Box'] = 'Panel Box';
-$Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
 $Definition['Password Options'] = 'Password Options';
-$Definition['PasswordRequest'] = 'Someone has requested to reset your password at %2$s. To reset your password, follow this link:
-
-  %3$s
-
-If you did not make this request, disregard this email.';
 $Definition['Pending'] = 'Pending';
 $Definition['Permanent (301)'] = 'Permanent (301)';
 $Definition['Permission'] = 'Permission';
-$Definition['PermissionRequired.Garden.Moderation.Manage'] = 'You need to be a moderator to do that.';
-$Definition['PermissionRequired.Garden.Settings.Manage'] = 'You need to be an administrator to do that.';
-$Definition['PermissionRequired.Javascript'] = 'You need to enable javascript to do that.';
 $Definition['Permissions'] = 'Permissions';
 $Definition['Place nested categories in a comma-delimited list when they are'] = 'Place nested categories in a comma-delimited list when they are';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['Please Confirm'] = 'Please Confirm';
-$Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.';
 $Definition['Plugin'] = 'Plugin';
 $Definition['Plugin.Enabled'] = 'Plugin.Enabled';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
@@ -839,20 +694,10 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets allow you to add free-form HTML to various places around the application.';
 $Definition['Points'] = 'Points';
 $Definition['Polls'] = 'Polls';
-$Definition['Posts.Plural: %s'] = 'Posts: %s';
-$Definition['Posts.Singular: %s'] = 'Posts: %s';
-$Definition['Posts: %s'] = 'Posts: %s';
-$Definition['Post this anonymously'] = 'Post this anonymously';
 $Definition['Powered by %s'] = 'Powered by %s';
 $Definition['Powered by Vanilla'] = 'Powered by Vanilla';
-$Definition['PreferenceBadgeEmail'] = 'Notify me when I earn a badge.';
-$Definition['PreferenceBadgePopup'] = 'Notify me when I earn a badge.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.';
 $Definition['Private Key'] = 'Private Key';
-$Definition['Problem with credentials.'] = 'Problem with credentials.';
-$Definition['Proceed'] = 'Proceed';
-$Definition['ProfileFieldsCustomDescription'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
-$Definition['Profile Picture'] = 'Profile Picture';
 $Definition['Provider'] = 'Provider';
 $Definition['Proxy Connect'] = 'Proxy Connect';
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were 
@@ -866,100 +711,53 @@ $Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnec
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".';
 $Definition['Proxy Connect Test'] = 'Proxy Connect Test';
-$Definition['Public'] = 'Public';
 $Definition['Public Key'] = 'Public Key';
 
 $Definition['Q&A'] = 'Q&A';
-$Definition['Q&A Options'] = 'Q&A Options';
-
-$Definition['question'] = 'question';
-
-$Definition['Question'] = 'Question';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
-$Definition['Quote on'] = 'on';
-$Definition['Quote wrote'] = 'wrote';
 
-$Definition['Rank'] = 'Rank';
 $Definition['Ranks'] = 'Ranks';
-$Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,was,were} promoted to {Data.Name,plaintext}.';
-$Definition['Ranks.NotificationFormat'] = 'Congratulations! You\'ve been promoted to {Data.Name,plaintext}.';
 $Definition['Rate of refresh'] = 'Rate of refresh';
 $Definition['Re-Register API Key'] = 'Re-Register API Key';
 $Definition['Reaction'] = 'Reaction';
-$Definition['Reactions'] = 'Reactions';
 $Definition['Reaction Types'] = 'Reaction Types';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
-$Definition['Real Name'] = 'Real Name';
 $Definition['Realtime progress bars: %s'] = 'Realtime progress bars: %s';
-$Definition['Reason'] = 'Reason';
-$Definition['Reason (optional)'] = 'Reason (optional)';
 $Definition['Recalculate Counts'] = 'Recalculate Counts';
-$Definition['Recent Admin Activity'] = 'Recent Admin Activity';
-
-$Definition['recently'] = 'recently';
-
 $Definition['Recently Active Users'] = 'Recently Active Users';
-$Definition['Recent Moderator Activity'] = 'Recent Moderator Activity';
 $Definition['Recent News'] = 'Recent News';
-$Definition['Recent Tutorials'] = 'Recent Tutorials';
-$Definition['Recipients'] = 'Recipients';
-$Definition['RecipientUserID'] = 'recipient';
 $Definition['Record Content'] = 'Content';
-$Definition['Redirecting...'] = 'Redirecting...';
 $Definition['Refresh Comments'] = 'Refresh Comments';
 $Definition['Register for Membership'] = 'Register for Membership';
 $Definition['Register Url'] = 'Register Url';
 $Definition['Registration'] = 'Registration';
-$Definition['Registration  Fields'] = 'Registration  Fields';
 $Definition['Registration is currently closed.'] = 'Registration is currently closed.';
-$Definition['Registration URL'] = 'Registration URL';
-$Definition['Reject'] = 'Reject';
-$Definition['Reject this answer.'] = 'Reject this answer.';
-$Definition['Remember me'] = 'Remember me';
-$Definition['Remote Configuration'] = 'Remote Configuration';
 $Definition['Remove'] = 'Remove';
 $Definition['Remove Banner Logo'] = 'Remove Banner Logo';
-$Definition['Removed by'] = 'Removed by';
 $Definition['Remove Favicon'] = 'Remove Favicon';
-$Definition['Remove My Picture'] = 'Remove My Picture';
-$Definition['Remove Warning'] = 'Remove Warning';
-$Definition['Rename Forum'] = 'Rename Forum';
 $Definition['Repeat'] = 'Repeat';
 $Definition['Repeat Every'] = 'Repeat Every';
 $Definition['Replace Image'] = 'Replace Image';
 $Definition['Replacement Category'] = 'Replacement Category';
 $Definition['Replacement Role'] = 'Replacement Role';
-$Definition['Replies'] = 'Replies';
 $Definition['Reply  To'] = 'Reply  To';
 $Definition['Reported'] = 'Reported';
-$Definition['Reported by: '] = 'Reported by: ';
 $Definition['Reputation'] = 'Reputation';
 $Definition['Request'] = 'Request';
-$Definition['Request a new password →'] = 'Request a new password →';
 $Definition['Requires'] = 'Requires';
 $Definition['Requires: '] = 'Requires: ';
 $Definition['Require users to confirm their email addresses (recommended)'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['Rescan'] = 'Rescan';
 $Definition['Reset my password'] = 'Reset my password';
-$Definition['Reset Password'] = 'Reset Password';
 $Definition['Reset password and send email notification to user'] = 'Reset password and send email notification to user';
 $Definition['Resetting the password for %s.'] = 'Resetting the password for %s.';
 $Definition['Restart'] = 'Restart';
 $Definition['Restore'] = 'Restore';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['Reveal Password'] = 'Reveal Password';
-$Definition['Revoke'] = 'Revoke';
-$Definition['Revoked badge.'] = 'Revoked badge.';
 $Definition['Role'] = 'Role';
-
-$Definition['role'] = 'role';
-
-$Definition['RoleID'] = 'role';
 $Definition['Role Name'] = 'Role Name';
-
-$Definition['roles'] = 'roles';
-
 $Definition['Roles & Permissions'] = 'Roles & Permissions';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 $Definition['Role to Grant'] = 'Role to Grant';
@@ -969,24 +767,15 @@ $Definition['Routes'] = 'Routes';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Routes can be used to redirect users to various parts of your site depending on the url.';
 $Definition['Run structure & data scripts'] = 'Run structure & data scripts';
 
-$Definition['Save'] = 'Save';
 $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
-$Definition['Save Comment'] = 'Save Comment';
 $Definition['SaveLocalePack'] = 'Save';
-$Definition['Save Poll'] = 'Save Poll';
 $Definition['Save Translations from a Locale Pack'] = 'Save Translations from a Locale Pack';
-$Definition['Save your password'] = 'Save your password';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
-$Definition['Search for a tag.'] = 'Search for all or part of a tag.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
-$Definition['Search results for \'%s\''] = 'Search results for \'%s\'';
-$Definition['Second Anniversary'] = 'Second Anniversary';
 
 $Definition['seconds'] = 'seconds';
 
-$Definition['Sections'] = 'Sections';
 $Definition['Security'] = 'Security';
-$Definition['Security Check'] = 'Security Check';
 $Definition['Select'] = 'Select';
 $Definition['Select a %s'] = 'Select a %s';
 $Definition['Select the file to import'] = 'Select the file to import';
@@ -995,116 +784,48 @@ $Definition['Select the location of the pocket.'] = 'Select the location of the 
 $Definition['Send %s a Message'] = 'Send %s a Message';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Send a confirmation email when people ask a question or start a discussion over email.';
 $Definition['Send Again'] = 'Send Again';
-$Definition['Send a New Message'] = 'Send a New Message';
 $Definition['Send Invitations!'] = 'Send Invitations!';
-$Definition['Send Message'] = 'Send Message';
 $Definition['Send users a welcome email.'] = 'Send users a welcome email.';
 $Definition['Sent To'] = 'Sent To';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
-$Definition['Set a New Warning Level'] = 'Set a New Warning Level';
-$Definition['Set A Password'] = 'Set A Password';
-$Definition['Setting'] = 'Setting';
-$Definition['Settings'] = 'Settings';
-$Definition['Seventh Anniversary'] = 'Seventh Anniversary';
-$Definition['Shared Accounts'] = 'Shared Accounts';
-
-$Definition['she'] = 'she';
-
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
-$Definition['Shown only on mobile'] = 'Shown only on mobile';
 $Definition['Show Pocket Locations'] = 'Show Pocket Locations';
-$Definition['Show unfollowed categories'] = 'Show unfollowed categories';
-$Definition['Sign-In URL'] = 'Sign-In URL';
-$Definition['Sign-Out URL'] = 'Sign-Out URL';
-$Definition['Signature invalid.'] = 'Signature invalid.';
-$Definition['Signatures'] = 'Signatures';
 $Definition['SignedOut'] = 'You are signed out.';
 $Definition['Sign in'] = 'Sign in';
-$Definition['SigningOut'] = 'Hang on a sec while we sign you out.';
-$Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Sign In</a> or <a href="{RegisterUrl,html}">Register</a> to comment.';
-$Definition['Sign in to vote!'] = 'Sign in to vote!';
 $Definition['Sign In Url'] = 'Sign In Url';
-$Definition['Sign In with %s'] = 'Sign In with %s';
-$Definition['Sign In with Disqus'] = 'Sign In with Disqus';
-$Definition['Sign In with Google'] = 'Sign In with Google';
-$Definition['Sign In with OpenID'] = 'Sign In with OpenID';
-$Definition['Sign In with Twitter'] = 'Sign In with Twitter';
-
-$Definition['sign out'] = 'sign out';
-
-$Definition['Sign Out'] = 'Sign Out';
 $Definition['Silver'] = 'Silver';
-$Definition['Sink'] = 'Sink';
-$Definition['Sink this discussion'] = 'Sink this discussion';
 $Definition['Site Description'] = 'Site Description';
-$Definition['Sitemap Settings'] = 'Sitemap Settings';
 $Definition['Site Name'] = 'Site Name';
-$Definition['Sixth Anniversary'] = 'Sixth Anniversary';
 $Definition['Slug'] = 'Slug';
 $Definition['SMTP Host'] = 'SMTP Host';
 $Definition['SMTP Password'] = 'SMTP Password';
 $Definition['SMTP Port'] = 'SMTP Port';
 $Definition['SMTP Security'] = 'SMTP Security';
 $Definition['SMTP User'] = 'SMTP User';
-
-$Definition['somebody'] = 'somebody';
-
-$Definition['Some Code'] = 'Some Code';
-$Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Someone\'s answered your question. You need to accept/reject the answer.';
-
-$Definition['sorted by'] = 'sorted by';
-
 $Definition['Source'] = 'Source';
-$Definition['Source:'] = 'Source:';
-$Definition['Spam'] = 'Spam';
-$Definition['Spam Queue'] = 'Spam Queue';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
-$Definition['Split'] = 'Split';
-$Definition['Split Comments'] = 'Split Comments';
 $Definition['Spoiler'] = 'Spoiler';
 $Definition['Spoof'] = 'Spoof';
-$Definition['Spoof User'] = 'Spoof User';
 $Definition['SSL'] = 'SSL';
-$Definition['Start'] = 'Start';
-$Definition['Start a New Conversation'] = 'New Message';
-$Definition['Start Conversation'] = 'Start Conversation';
 $Definition['Start Discussions'] = 'Start Discussions';
-$Definition['Started By'] = 'Started By';
 $Definition['Start Import'] = 'Start Import';
 
 $Definition['starting your first discussion'] = 'starting your first discussion';
 
-$Definition['Start your First Discussion'] = 'Start your First Discussion';
 $Definition['Statistics'] = 'Statistics';
 $Definition['Status'] = 'Status';
-$Definition['Stop following'] = 'Stop following';
 $Definition['Stop Forum Spam Settings'] = 'Stop Forum Spam Settings';
-$Definition['Strip images out of signatures'] = 'Strip images out of signatures';
-$Definition['Strip images out of signatures?'] = 'Strip images out of signatures?';
 $Definition['Styles'] = 'Styles';
 $Definition['Subject'] = 'Subject';
 $Definition['Subscriber'] = 'Subscriber';
 $Definition['Success'] = 'Success';
-$Definition['Suggested Value'] = 'Suggested Value';
 $Definition['System'] = 'System';
 
 $Definition['Table Layout'] = 'Table Layout';
-$Definition['Tagged'] = 'Tagged';
-$Definition['Tagged with '] = 'Tagged with ';
-$Definition['Tagged with "%s"'] = 'Tagged with "%s"';
-$Definition['Tagging'] = 'Tagging';
-$Definition['Tag Name'] = 'Tag Name';
-$Definition['Tags'] = 'Tags';
-$Definition['Tags are keywords that users can assign to discussions to help categorize their question with similar questions.'] = 'Tags are keywords that users can assign to discussions to help categorize their question with similar questions.';
-$Definition['Take Action'] = 'Take Action';
-$Definition['Take Action:'] = 'Take Action:';
 
 $Definition['take away'] = 'take away';
 
-$Definition['Target'] = 'Target';
-$Definition['Tell us why you want to join!'] = 'Tell us why you want to join!';
 $Definition['Temporary (302)'] = 'Temporary (302)';
-$Definition['Tenth Anniversary'] = 'Tenth Anniversary';
 $Definition['Test'] = 'Test';
 $Definition['Testing'] = 'Testing';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
@@ -1112,7 +833,6 @@ $Definition['Test Mode: The pocket will only be displayed for pocket administrat
 $Definition['Test URL'] = 'Test URL';
 $Definition['Text'] = 'Text';
 $Definition['TextEnterEmails'] = 'Type email addresses separated by commas here';
-$Definition['Text  Max  Length'] = 'Text  Max  Length';
 $Definition['Thank You!'] = 'Thank You!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'The %s Authenticator does not have any custom configuration options.';
 $Definition['The %s badge has already been given to %s.'] = 'The %s badge has already been given to %s.';
@@ -1132,13 +852,9 @@ $Definition['The Basics'] = 'The Basics';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'The behind-the-scenes URL that shares identity information with Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = 'The content you were looking for has been deleted.';
-$Definition['The conversation has been cleared.'] = 'The conversation has been cleared.';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>';
 $Definition['The default role has not been configured.'] = 'The default role has not been configured.';
 $Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'The Disqus plugin allows users to sign in using their Disqus account. <b>You must register your application with Disqus for this plugin to work.</b>';
-$Definition['The email you entered in use by another member.'] = 'The email you entered in use by another member.';
-$Definition['The email you have entered is already related to an existing account.'] = 'The email you have entered is already related to an existing account.';
-$Definition['The file failed to upload.'] = 'The file failed to upload.';
 $Definition['The following content has been flagged by users for moderator review.'] = 'The following content has been flagged by users for moderator review.';
 $Definition['The following structure changes are required for your database.'] = 'The following structure changes are required for your database.';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
@@ -1152,32 +868,21 @@ $Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of yo
 $Definition['Theme Options'] = 'Theme Options';
 $Definition['Themes'] = 'Themes';
 $Definition['Theming Overview'] = 'Theming Overview';
-$Definition['The name you entered is already in use by another member.'] = 'The name you entered is already in use by another member.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'The Password Authenticator does not have any custom configuration options. ';
-$Definition['The quote had to be converted from %s to %s.'] = 'The quote had to be converted from %s to %s. Some formatting may have been lost.';
 $Definition['There are currently no applicants.'] = 'There are currently no applicants.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'There are no database structure changes required. There may, however, be data changes.';
 $Definition['There are no items awaiting moderation at this time.'] = 'There are no items awaiting moderation at this time.';
-$Definition['There are no tags in the system yet.'] = 'There are no tags in the system yet.';
-$Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'The reCAPTCHA value was not entered correctly. Please try again.';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.';
-$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.';
-$Definition['The response was not in the correct format.'] = 'The response was not in the correct format.';
-$Definition['There was an error connecting to Disqus'] = 'There was an error connecting to Disqus';
-$Definition['There was an error connecting to Facebook'] = 'There was an error connecting to Facebook';
-$Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'There was an error uploading the file. It is most likely because the file is too large.';
 $Definition['The route was saved successfully.'] = 'The route was saved successfully.';
 $Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = 'These are the settings you might need when you configure ProxyConnect on your remote website.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
-$Definition['The site is currently undergoing maintenance.'] = 'The site is currently undergoing maintenance.';
 $Definition['The site is currently undergoing scheduled maintenance.'] = 'The site is currently undergoing scheduled maintenance.';
 $Definition['The specified url code is already in use by another category.'] = 'The specified url code is already in use by another category.';
 $Definition['The structure was successfully executed.'] = 'The structure was successfully executed.';
 $Definition['The text of the pocket.'] = 'Enter the text of the pocket. This will be output exactly as you type it so make sure that you enter valid HTML.';
 $Definition['The update was not successful.'] = 'The update was not successful.';
 $Definition['The update was successful.'] = 'The update was successful.';
-$Definition['The uploaded file was too big (max %s).'] = 'The uploaded file was too big (max %s).';
 $Definition['The URL of your website where you will use ProxyConnect'] = 'The URL of your website where you will use ProxyConnect';
 $Definition['The url that users go to to register for a new account.'] = 'The url that users go to to register for a new account.';
 $Definition['The url that users use to register for a new account.'] = 'The url that users use to register for a new account.';
@@ -1194,42 +899,25 @@ $Definition['The user table was not in the import file.'] = 'The user table was 
 $Definition['The Vanilla 2 Exporter'] = 'The Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
 $Definition['The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.'] = 'The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.';
-$Definition['Third Anniversary'] = 'Third Anniversary';
 $Definition['This action cannot be undone.'] = 'This action cannot be undone.';
-$Definition['This answer was %s.'] = 'This answer was %s.';
-$Definition['This answer was Accepted.'] = 'This answer was Accepted.';
 $Definition['This category has custom permissions.'] = 'This category has custom permissions.';
 $Definition['This category is archived.'] = 'This category is archived.';
 $Definition['This connection is in test-mode.'] = 'This connection is in test-mode.';
 $Definition['This Database'] = 'This Database';
-$Definition['This discussion is related to an undefined foriegn content source.'] = 'This discussion is related to an undefined foriegn content source.';
-$Definition['This discussion was created from comments split from: %s.'] = 'This discussion was created from comments split from: %s.';
-$Definition['This discussion was merged into %s'] = 'This discussion was merged into %s';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
-$Definition['This is a private poll: no-one will see what you voted for.'] = 'This is a private poll: no-one will see what you voted for.';
-$Definition['This is a public poll: others will see what you voted for.'] = 'This is a public poll: others will see what you voted for.';
-$Definition['This is a system account and does not represent a real person.'] = 'This is a system account and does not represent a real person.';
 $Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
-$Definition['This Month\'s Leaders'] = 'This Month\'s Leaders';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
 $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.';
 $Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.';
 $Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'This plugin enables uploading files and attaching them to discussions and comments.';
-$Definition['This question\'s answer has been accepted.'] = 'This question\'s answer has been accepted.';
 $Definition['This show the plugin on only selected discussion pages'] = 'This show the plugin on only selected discussion pages';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
-$Definition['This user has not been verified as a non-spammer.'] = 'This user has not been verified as a non-spammer.';
-$Definition['This user has not made any discussions yet.'] = 'This user has not made any discussions yet.';
-$Definition['This user is verified as a non-spammer'] = 'This user is verified as a non-spammer';
-$Definition['This warning has expired. Do you want to completely delete it?'] = 'This warning has expired. Do you want to completely delete it?';
-$Definition['This Week\'s Leaders'] = 'This Week\'s Leaders';
 $Definition['This will show the panel on every page.'] = 'This will show the panel on every page.';
 $Definition['Thumbnails'] = 'Thumbnails';
-$Definition['Title'] = 'Title';
 $Definition['Titles'] = 'Titles';
 $Definition['TLS'] = 'TLS';
 $Definition['To'] = 'To';
@@ -1237,72 +925,39 @@ $Definition['To embed your entire Vanilla community forum into your web site, co
 $Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
-$Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'To send another confirmation email click <a href="%s">here</a>.';
-$Definition['To use reCAPTCHA you must get an API key from %s'] = 'To use reCAPTCHA you must get an API key from %s';
 $Definition['To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>'] = 'To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>';
 $Definition['Troll'] = 'Troll';
 $Definition['Try Again'] = 'Try Again';
 $Definition['Turn OFF'] = 'Turn OFF';
-$Definition['Turn ON'] = 'Turn ON';
 $Definition['Twitter'] = 'Twitter';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
-$Definition['Twitter Settings'] = 'Twitter Settings';
-$Definition['Type'] = 'Type';
 
 $Definition['Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.'] = 'Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.';
 $Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = 'Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.';
-$Definition['Unannounce'] = 'Unannounce';
-$Definition['Unanswered'] = 'Unanswered';
-$Definition['Unanswered Questions'] = 'Unanswered';
-
-$Definition['unavailable'] = 'unavailable';
-
 $Definition['Unban'] = 'Unban';
-$Definition['Unban User'] = 'Unban User';
-$Definition['Unbookmark'] = 'Unbookmark';
-$Definition['Undefined discussion body.'] = 'Undefined discussion body.';
-$Definition['Undefined discussion subject.'] = 'Undefined discussion subject.';
-$Definition['Undefined foreign content'] = 'Undefined foreign content';
-$Definition['Undo Follow'] = 'Undo Follow';
-$Definition['Unfollow'] = 'Unfollow';
-$Definition['Unhide'] = 'Unhide';
 $Definition['Uninvite'] = 'Uninvite';
 $Definition['UniqueID'] = 'UniqueID';
 $Definition['Universal Code'] = 'Universal Code';
 
 $Definition['unknown'] = 'unknown';
 
-$Definition['Unknown client: %s.'] = 'Unknown client: %s.';
 $Definition['Unlimited'] = 'Unlimited';
-$Definition['Unread'] = 'Unread';
-$Definition['Unread Discussions'] = 'Unread Discussions';
-$Definition['Unsink'] = 'Unsink';
 $Definition['Unviersal Forum Embed Code'] = 'Unviersal Forum Embed Code';
-$Definition['Update'] = 'Update';
-$Definition['Updated badge'] = 'Updated badge';
 $Definition['Url'] = 'Url';
-$Definition['UrlCode'] = 'Url code';
 $Definition['Use an SMTP server to send email'] = 'Use an SMTP server to send email';
 $Definition['Use Categories'] = 'Use Categories';
 $Definition['Use categories to organize discussions'] = 'Use categories to organize discussions';
 $Definition['Use delta indexes'] = 'Use delta indexes (recommended for massive sites)';
 $Definition['Use Facebook names for usernames.'] = 'Use Facebook names for usernames.';
-$Definition['Use My Current Password'] = 'Use My Current Password';
 $Definition['User'] = 'User';
-$Definition['User "%s" does not exist.'] = 'User "%s" does not exist.';
 $Definition['User Count'] = 'Users';
 $Definition['UserDelete'] = 'Remove User Content';
 $Definition['User Deleted'] = 'User Deleted';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
-$Definition['UserKeep'] = 'Keep User Content';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
-$Definition['Username can only contain letters, numbers, and underscores.'] = 'Username can only contain letters, numbers, and underscores.';
-$Definition['Username or email'] = 'Username or email';
-$Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
 $Definition['User Registration Settings'] = 'User Registration Settings';
 $Definition['Users'] = 'Users';
-$Definition['Users Count'] = 'Users Count';
 $Definition['Users that get this reaction get %+d point.'] = 'Users that get this reaction get %+d point.';
 $Definition['Users that get this reaction get %+d points.'] = 'Users that get this reaction get %+d points.';
 $Definition['User Summary'] = 'User Summary';
@@ -1315,29 +970,7 @@ $Definition['Use these fields to create custom profile information. You can ente
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Use Vanilla as a commenting system in your site';
 
-$Definition['ValidateBanned'] = 'That %s is not allowed.';
-$Definition['ValidateBoolean'] = '%s is not a valid boolean.';
-$Definition['ValidateConnection'] = 'The connection parameters you specified failed to open a connection to the database. The database reported the following error: <code>%s</code>';
-$Definition['ValidateDate'] = '%s is not a valid date.';
-$Definition['ValidateDecimal'] = '%s is not a valid decimal.';
-$Definition['ValidateEmail'] = '%s does not appear to be valid.';
-$Definition['ValidateEnum'] = '%s is not valid.';
-$Definition['ValidateFormat'] = 'You are not allowed to post raw html.';
-$Definition['ValidateInteger'] = '%s is not a valid integer.';
-$Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
-$Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
 $Definition['ValidateMinimumAge'] = 'ValidateMinimumAge';
-$Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least one %s.';
-$Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
-$Definition['ValidateRequiredArray'] = 'You must select at least one %s.';
-$Definition['ValidateTag'] = 'Tags cannot contain spaces.';
-$Definition['ValidateTime'] = '%s is not a valid time.';
-$Definition['ValidateTimestamp'] = '%s is not a valid timestamp.';
-$Definition['ValidateUrlStringRelaxed'] = '%s can not contain slashes, quotes or tag characters.';
-$Definition['ValidateUsername'] = 'Usernames must be 3-20 characters and consist of letters, numbers, and underscores.';
-$Definition['ValidateVersion'] = 'The %s field is not a valid version number. See the php version_compare() function for examples of valid version numbers.';
-$Definition['Value'] = 'Value';
-$Definition['Vanilla'] = 'Vanilla';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 $Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.';
@@ -1346,11 +979,8 @@ $Definition['Vanilla Cookie Domain'] = 'Vanilla Cookie Domain';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla is installed!'] = 'Vanilla is installed!';
 $Definition['Vanilla Sphinx Help'] = 'Vanilla Sphinx Help';
-$Definition['Vanilla Statistics'] = 'Vanilla Statistics';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
-$Definition['Vanilla Statistics Plugin'] = 'Vanilla Statistics Plugin';
 $Definition['Verified!'] = 'Verified!';
-$Definition['Verifying your credentials...'] = 'Verifying your credentials...';
 $Definition['Version'] = 'Version';
 $Definition['Version %s'] = 'Version %s';
 
@@ -1364,59 +994,31 @@ $Definition['Video tutorial on managing categories'] = 'Video tutorial on managi
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles &amp; permissions';
 $Definition['Video tutorial on user registration'] = 'Video tutorial on user registration';
 $Definition['View'] = 'View';
-$Definition['View Badge'] = 'View Badge';
 $Definition['View Page'] = 'View Page';
-$Definition['Views'] = 'Views';
-$Definition['Visible'] = 'Visible';
-$Definition['Visit Site'] = 'Visit Site';
-$Definition['Vote'] = 'Vote';
-$Definition['Vote Down'] = 'Vote Down';
-$Definition['Votes'] = 'Votes';
-$Definition['Vote Up'] = 'Vote Up';
 
-$Definition['Want to take part in this discussion? Click one of these:'] = 'Want to take part in this discussion? Click one of these:';
-$Definition['Warn'] = 'Warn';
 $Definition['Warning'] = 'Warning';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.';
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
-$Definition['WarningTitleFormat'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points}.';
-$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
-
-$Definition['was'] = 'was';
-
 $Definition['Website'] = 'Website';
-
-$Definition['weeks'] = 'weeks';
-
 $Definition['Welcome to Vanilla!'] = 'Welcome to Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Welcome to your Dashboard';
 $Definition['We only accept urls that begin with http:// or https://'] = 'We only accept urls that begin with http:// or https://';
-
-$Definition['were'] = 'were';
-
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.';
 $Definition['What\'s the Buzz?'] = 'What\'s the Buzz?';
-$Definition['Where do you want to announce this discussion?'] = 'Where do you want to announce this discussion?';
 $Definition['Where is your Community Forum?'] = 'Where is your Community Forum?';
 $Definition['Where should the plugin be shown?'] = 'Where should the plugin be shown?';
-$Definition['Who\'s Online'] = 'Who\'s Online';
 $Definition['Who\'s Online Settings'] = 'Who\'s Online Settings';
-$Definition['Whos Online'] = 'Whos Online';
-$Definition['Why are you Banning this user?'] = 'Why are you Banning this user?';
 $Definition['Why do you want to join?'] = 'Why do you want to join?';
 $Definition['Within'] = 'Within';
 $Definition['Wordpress'] = 'Wordpress';
 $Definition['WordPress Plugin'] = 'WordPress Plugin';
 $Definition['Wordpress Source'] = 'Wordpress';
-$Definition['Write Comment'] = 'Write Comment';
 
 $Definition['Yes, the following information can be changed later.'] = 'Yes, the following information can be changed later.';
-$Definition['You\'ve been Jailed.'] = 'You\'ve been Jailed.';
 $Definition['You are connected as %s.'] = 'You are connected as %s.';
-$Definition['You are connected as %s through %s.'] = 'You are connected as %s through %s.';
 $Definition['You are now signed in.'] = 'You are now signed in.';
 $Definition['You are previewing the %s theme.'] = 'You are previewing the %s theme.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';
@@ -1435,8 +1037,6 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		large to upload directly to this page you can place it in your /uploads
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
-$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
-$Definition['You do not have any %s yet.'] = 'You do not have any %s yet.';
 $Definition['You do not have permission to view other profiles.'] = 'You do not have permission to view other profiles.';
 $Definition['You have %s invitations left for this month.'] = 'You have %s invitations left for this month.';
 $Definition['You must be authenticated in order to use this form.'] = 'You must be authenticated in order to use this form.';
@@ -1453,8 +1053,6 @@ $Definition['Your changes were saved successfully.'] = 'Your changes were saved 
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
 $Definition['Your invitations were sent successfully.'] = 'Your invitations were sent successfully.';
-
-$Definition[' You should '] = ' You should ';
 
 $Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirm Your Email Address';

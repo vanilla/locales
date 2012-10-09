@@ -279,14 +279,12 @@ $Definition['bookmarks'] = 'bookmarks';
 
 $Definition['Browse Addons'] = 'Browse Addons';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Browse for a new banner logo if you would like to change it:';
+$Definition['By'] = 'By';
 
 $Definition['by'] = 'by';
-
-$Definition['By'] = 'By';
-$Definition['By %s'] = 'By %s';
-
 $Definition['by %s'] = 'by %s';
 
+$Definition['By %s'] = 'By %s';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'By clicking the button below, you will be deleting the user account for %s forever.';
 
 $Definition['by Date'] = 'by Date';
@@ -474,8 +472,8 @@ $Definition['Don\'t announce.'] = 'Don\'t announce.';
 $Definition['Don\'t display for embedded comments.'] = 'Don\'t display for embedded comments.';
 $Definition['Don\'t Refresh'] = 'Don\'t Refresh';
 $Definition['Download Locale List'] = 'Download Locale List';
-$Definition['DownloadLocalePack'] = 'Download';
 $Definition['Download Locale Pack'] = 'Download Locale Pack';
+$Definition['DownloadLocalePack'] = 'Download';
 $Definition['Do you want to expire or delete this warning?'] = 'Do you want to expire or delete this warning?';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
 
@@ -569,10 +567,10 @@ $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to ch
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
 $Definition['Feedback'] = 'Feedback';
 $Definition['Fifth Anniversary'] = 'Fifth Anniversary';
-$Definition['Filename'] = 'Filename';
 $Definition['FileName'] = 'FileName';
-$Definition['File Size'] = 'File Size';
+$Definition['Filename'] = 'Filename';
 $Definition['FileSize'] = 'FileSize';
+$Definition['File Size'] = 'File Size';
 $Definition['FileUpload is currently OFF'] = 'FileUpload is currently OFF';
 $Definition['FileUpload is currently ON'] = 'FileUpload is currently ON';
 $Definition['Finished'] = 'Finished';
@@ -764,8 +762,8 @@ $Definition['Latest Post'] = 'Latest Post';
 $Definition['Leaders'] = 'Leaders';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
-$Definition['Leave a comment'] = 'Leave a comment';
 $Definition['Leave a Comment'] = 'Leave a Comment';
+$Definition['Leave a comment'] = 'Leave a comment';
 $Definition['Leave Comments'] = 'Leave Comments';
 $Definition['Length'] = 'Length';
 $Definition['Level'] = 'Level';
@@ -796,10 +794,10 @@ $Definition['Manage Badges'] = 'Manage Badges';
 $Definition['Manage users'] = 'Manage users';
 $Definition['Managing Categories'] = 'Managing Categories';
 $Definition['Manual'] = 'Manual';
-$Definition['Mark All Viewed'] = 'Mark All Viewed';
 
 $Definition['markallviewed'] = 'markallviewed';
 
+$Definition['Mark All Viewed'] = 'Mark All Viewed';
 $Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
@@ -915,10 +913,10 @@ $Definition['Off Topic'] = 'Off Topic';
 $Definition['OK'] = 'OK';
 $Definition['Okay'] = 'Okay';
 $Definition['OldPassword'] = 'Old password';
+$Definition['On'] = 'On';
 
 $Definition['on'] = 'on';
 
-$Definition['On'] = 'On';
 $Definition['One, two, three...'] = 'One, two, three...';
 $Definition['Only display on mobile browsers.'] = 'Only display on mobile browsers.';
 $Definition['Only show followed categories'] = 'Only show followed categories';
@@ -991,8 +989,8 @@ $Definition['Private Note for Moderators'] = 'Private Note for Moderators';
 $Definition['Problem with credentials.'] = 'Problem with credentials.';
 $Definition['Proceed'] = 'Proceed';
 $Definition['Profile'] = 'Profile';
-$Definition['Profile Fields'] = 'Profile Fields';
 $Definition['Profile  Fields'] = 'Profile  Fields';
+$Definition['Profile Fields'] = 'Profile Fields';
 $Definition['ProfileFieldsCustomDescription'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
 $Definition['Profile Page'] = 'Profile Page';
 $Definition['Profiles'] = 'Profiles';
@@ -1020,10 +1018,10 @@ $Definition['Q&A Options'] = 'Q&A Options';
 $Definition['Q&A Question'] = 'Question';
 $Definition['QnA Accepted Answer'] = 'Answer ✓';
 $Definition['QnA Rejected Answer'] = 'Rejected Answer';
-$Definition['Question'] = 'Question';
 
 $Definition['question'] = 'question';
 
+$Definition['Question'] = 'Question';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 $Definition['Quote'] = 'Quote';
 $Definition['Quote Folding'] = 'Quote Folding';
@@ -1233,7 +1231,6 @@ $Definition['Tell the user why you\'re warning them'] = 'Tell the user why you\'
 $Definition['Tell us why you want to join!'] = 'Tell us why you want to join!';
 $Definition['Temporary (302)'] = 'Temporary (302)';
 $Definition['Tenth Anniversary'] = 'Tenth Anniversary';
-$Definition['Terms of Service'] = 'Terms of Service';
 $Definition['Test'] = 'Test';
 $Definition['Testing'] = 'Testing';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';

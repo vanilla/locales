@@ -30,8 +30,8 @@ $Definition['%s New'] = '%s Ny';
 $Definition['%s new'] = '%s ny';
 $Definition['%s new plural'] = '32423';
 $Definition['%s New Plural'] = '%s Ny';
-$Definition['%s Point'] = '%s Punkt';
 $Definition['%s point'] = '%s punkt';
+$Definition['%s Point'] = '%s Punkt';
 $Definition['%s Points'] = '%s Punkter';
 $Definition['%s said'] = '%s sagde';
 $Definition['%s said:'] = '%s sagde:';
@@ -126,8 +126,8 @@ $Definition['answer'] = 'svar';
 $Definition['Answers'] = 'svare';
 $Definition['Applicants'] = 'Ands¯gere';
 $Definition['Apply Changes'] = 'Anvend ændringer';
-$Definition['Apply for Membership'] = 'Registrer';
 $Definition['Apply for membership'] = 'Ansøg om medlemskab';
+$Definition['Apply for Membership'] = 'Registrer';
 $Definition['Are you sure you want to do that?'] = 'Er du sikker pÂ du vil g¯re det?';
 $Definition['Are you sure you wish to continue?'] = 'lfsdlskfjdsl';
 $Definition['Ask a Question'] = 'Stil et spørgsmål';
@@ -293,8 +293,8 @@ $Definition['File Size'] = 'Filstørrelse';
 $Definition['Forgot?'] = 'Glemt?';
 $Definition['Format his'] = 'hans';
 $Definition['Format their'] = 'deres';
-$Definition['Format You'] = 'Dig';
 $Definition['Format you'] = 'dig';
+$Definition['Format You'] = 'Dig';
 
 $Definition['Garden.Email.SupportAddress'] = 'Underst¯t email';
 $Definition['Garden.Title'] = 'Banner Titel';
@@ -345,10 +345,10 @@ $Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLe
 $Definition['Login with Facebook'] = 'Log ind med Facebook';
 
 $Definition['Male'] = 'Mand';
+$Definition['Message'] = 'Besked';
 
 $Definition['message'] = 'besked';
 
-$Definition['Message'] = 'Besked';
 $Definition['Messages'] = 'Beskeder';
 $Definition['Moderator Activity'] = 'Moderatoraktivitet';
 
@@ -415,6 +415,7 @@ $Definition['Post Comment'] = 'Skriv kommentar';
 $Definition['Post Discussion'] = 'Stil spørgsmål';
 $Definition['Posts.Plural: %s'] = 'Indlæg: %s';
 $Definition['Posts.Singular: %s'] = 'Indlæg: %s';
+$Definition['Posts: %s'] = 'Indlæg: %s';
 $Definition['Powered by Vanilla'] = 'Drevet af Vanilla';
 $Definition['Preview'] = 'Eksempel';
 $Definition['Private Note for Moderators'] = 'Privat note til moderatorer';
@@ -489,6 +490,7 @@ $Definition['Strip images out of signatures'] = 'Fjern billeder fra signaturer';
 $Definition['Target'] = 'MÂl';
 $Definition['Tell the user why you\'re warning them'] = 'Fortæl brugeren hvorfor du giver vedkommende en advarsel';
 $Definition['TermsOfService'] = 'Servicevilkår';
+$Definition['Terms of Service'] = 'Servicevilkår';
 $Definition['TermsOfServiceText'] = '
    <p>You agree, through your use of this service, that you will not use this
    community to post any material which is knowingly false and/or defamatory,
@@ -530,6 +532,7 @@ $Definition['Unknown'] = 'Ukendt';
 $Definition['Unspecified'] = 'Uspecificeret';
 $Definition['Uploading...'] = 'Uploader...';
 $Definition['Username'] = 'Brugernavn';
+$Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Dit burgernavn kan udelukkende indholde bogstaver, tal samt bundstreger og skal være mellem 3 og 20 tegn langt.';
 $Definition['UsernameError'] = 'Dit burgernavn kan udelukkende indholde bogstaver, tal samt bundstreger og skal være mellem 3 og 20 tegn langt.';
 
 $Definition['ValidateBoolean'] = '%s er ikke en gyldig kode.';
@@ -562,15 +565,15 @@ $Definition['Write a comment'] = 'Skriv en kommentar';
 $Definition['Write Comment'] = 'Skriv Kommentar';
 $Definition['Write something about yourself...'] = 'Skriv noget om dig selv...';
 
-$Definition['You'] = 'Dig';
-
 $Definition['you'] = 'dig';
 
+$Definition['You'] = 'Dig';
 $Definition['You already have an account here.'] = 'Du har allerede en bruger her.';
 $Definition['You are connected as %s through %s.'] = 'Du er forbindet som %s igennem %s.';
 $Definition['You are currently only viewing categories that you follow.'] = 'gfgfgfd';
 $Definition['You are currently viewing all categories.'] = 'lfsmfslkdn';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Du kan følge individuelle kategorier og få besked om alle nye indlæg i disse.';
+$Definition['You don\'t have permission to do that.'] = 'Du har ikke tilladelse til at gøre dette.';
 $Definition['You do not have any conversations.'] = 'Du har ikke nogen samtaler.';
 $Definition['You do not have any notifications yet.'] = 'Du har ikke  nogen notifikationer endnu.';
 $Definition['You haven\'t read this yet.'] = 'Du har endnu ikke læst dette.';

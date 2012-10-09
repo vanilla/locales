@@ -183,8 +183,8 @@ $Definition['Banner'] = 'Banner';
 $Definition['Banner Logo'] = 'Banner Logo';
 $Definition['Banning'] = 'Banning';
 $Definition['Banning Options'] = 'Banning Options';
-$Definition['Ban Type'] = 'Type';
 $Definition['BanType'] = 'BanType';
+$Definition['Ban Type'] = 'Type';
 $Definition['Ban User'] = 'Ban User';
 $Definition['Ban Value'] = 'Ban Value';
 $Definition['Basic'] = 'Basic';
@@ -538,10 +538,10 @@ $Definition['Get More Themes'] = 'Get More Themes';
 $Definition['Get the ball rolling in your community by '] = 'Get the ball rolling in your community by ';
 $Definition['Getting Started'] = 'Getting Started';
 $Definition['Getting Started with Vanilla'] = 'Getting Started with Vanilla';
+$Definition['Give'] = 'Give';
 
 $Definition['give'] = 'give';
 
-$Definition['Give'] = 'Give';
 $Definition['Give a Badge to %s'] = 'Give a Badge to %s';
 $Definition['Give an Badge'] = 'Give an Badge';
 $Definition['Give Badge'] = 'Give Badge';
@@ -683,13 +683,13 @@ $Definition['Manage Badges'] = 'Manage Badges';
 $Definition['Manage users'] = 'Manage users';
 $Definition['Managing Categories'] = 'Managing Categories';
 $Definition['Manual'] = 'Manual';
-$Definition['Mark All Viewed'] = 'Mark All Viewed';
 
 $Definition['markallviewed'] = 'markallviewed';
 
+$Definition['Mark All Viewed'] = 'Mark All Viewed';
 $Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
-$Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
+$Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
 $Definition['Mark Read'] = 'Mark Read';
 $Definition['Media'] = 'Media';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
@@ -833,7 +833,6 @@ $Definition['Position'] = 'Position';
 $Definition['Post'] = 'Post';
 $Definition['Post edited by %1$s at %2$s'] = 'Post edited by %1$s at %2$s';
 $Definition['Posts'] = 'Posts';
-$Definition['Posts: %s'] = 'Posts: %s';
 $Definition['Post this anonymously'] = 'Post this anonymously';
 $Definition['Powered by %s'] = 'Powered by %s';
 $Definition['PreferenceBadgeEmail'] = 'Notify me when I earn a badge.';
@@ -865,10 +864,10 @@ $Definition['Public'] = 'Public';
 
 $Definition['Q&A'] = 'Q&A';
 $Definition['Q&A Options'] = 'Q&A Options';
-$Definition['Question'] = 'Question';
 
 $Definition['question'] = 'question';
 
+$Definition['Question'] = 'Question';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 $Definition['Quote on'] = 'on';
 
@@ -1049,7 +1048,6 @@ $Definition['take away'] = 'take away';
 
 $Definition['Tell us why you want to join!'] = 'Tell us why you want to join!';
 $Definition['Tenth Anniversary'] = 'Tenth Anniversary';
-$Definition['Terms of Service'] = 'Terms of Service';
 $Definition['Test'] = 'Test';
 $Definition['Testing'] = 'Testing';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
@@ -1228,7 +1226,6 @@ $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content ass
 $Definition['UserKeep'] = 'Keep User Content';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Username can only contain letters, numbers, and underscores.';
-$Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.';
 $Definition['Username or email'] = 'Username or email';
 $Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
 $Definition['Users Count'] = 'Users Count';
@@ -1345,7 +1342,6 @@ $Definition['You cannot remove an invitation that has been accepted.'] = 'You ca
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
 $Definition['You can only specify up to %s tags.'] = 'You can only specify up to %s tags.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
-$Definition['You don\'t have permission to do that.'] = 'You don\'t have permission to do that.';
 $Definition['You do not have any %s yet.'] = 'You do not have any %s yet.';
 $Definition['You do not have any bookmarks.'] = 'You do not have any bookmarks.';
 $Definition['You do not have any drafts.'] = 'You do not have any drafts.';

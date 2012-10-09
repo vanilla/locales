@@ -44,6 +44,7 @@ $Definition['Account Sync Failed'] = 'Tài khoản không được đồng bộ'
 $Definition['Action'] = 'Hành động';
 $Definition['Add Category'] = 'Th';
 $Definition['Add Connection'] = 'Thêm kết nối';
+$Definition['Add Info &amp; Create Account'] = 'ConnectCreateAccount';
 $Definition['Addons'] = ' Addons';
 $Definition['Add Role'] = 'Add v? tr';
 $Definition['Add User'] = 'Th';
@@ -56,14 +57,16 @@ $Definition['Although the invitation was created successfully, the email failed 
 $Definition['API Status'] = 'Tình trạng API';
 $Definition['Appearance'] = 'C';
 $Definition['Applications'] = '?ng d?ng';
+$Definition['Applied On'] = 'Ngày';
 $Definition['Approve'] = 'Ph';
 $Definition['Archive Discussions'] = 'L?u tr? th?o lu?n';
 $Definition['Authentication'] = 'Ch?ng th?c';
 
-$Definition['Badge Name'] = 'T';
+$Definition['Badge Name'] = 'Tên';
 $Definition['Banner Logo'] = 'Logo Banner';
-$Definition['Banner Title'] = 'Ti';
+$Definition['Banner Title'] = 'Tiêu đề banner';
 $Definition['Basic'] = 'C? b?n';
+$Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
 
 $Definition['Category Url:'] = 'Url danh m?c:';
 $Definition['Change the way that new users register with the site.'] = 'Thay ??i c';
@@ -174,7 +177,7 @@ $Definition['Page'] = 'Trang';
 $Definition['Panel Box'] = 'H?p';
 $Definition['Password Options'] = 'T';
 $Definition['Pending'] = 'Chu?n b?...';
-$Definition['Permission.Category'] = 'Danh m?c';
+$Definition['Permission.Category'] = 'Danh mục';
 $Definition['Please choose an authenticator to configure.'] = 'Ch?n m?t ng??i ch?ng th?c ?? c?u h';
 $Definition['Plugins'] = ' Plugins';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Ng?n ch?n spam tr';
@@ -196,9 +199,9 @@ $Definition['Role Name'] = 'T';
 $Definition['Roles & Permissions'] = 'V? tr';
 $Definition['Roles determine user\'s permissions.'] = 'M?i ng??i d';
 
-$Definition['SaveLocalePack'] = 'L?u';
+$Definition['SaveLocalePack'] = 'Lưu';
 $Definition['Search by user or role.'] = 'T';
-$Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'T';
+$Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Search by user or role.';
 
 $Definition['seconds'] = 'gi';
 

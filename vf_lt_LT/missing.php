@@ -60,7 +60,6 @@ $Definition['Back to Mobile Site'] = 'Back to Mobile Site';
 $Definition['Badge cannot be deleted.'] = 'Badge cannot be deleted.';
 $Definition['Badge deleted.'] = 'Badge deleted.';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
-$Definition['Ban Item'] = 'Item';
 $Definition['Ban List'] = 'Ban List';
 $Definition['Basic'] = 'Basic';
 $Definition['Begin At'] = 'Begin At';
@@ -427,7 +426,6 @@ $Definition['Routes can be used to redirect users to various parts of your site 
 $Definition['Run structure & data scripts'] = 'Run structure & data scripts';
 
 $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
-$Definition['Saved'] = 'Your changes have been saved.';
 $Definition['Save Translations from a Locale Pack'] = 'Save Translations from a Locale Pack';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
@@ -557,7 +555,6 @@ $Definition['Use delta indexes'] = 'Use delta indexes (recommended for massive s
 $Definition['Use Facebook names for usernames.'] = 'Use Facebook names for usernames.';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
-$Definition['UserKeep'] = 'Keep User Content';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
 $Definition['Users that get this reaction get %+d point.'] = 'Users that get this reaction get %+d point.';
 $Definition['Users that get this reaction get %+d points.'] = 'Users that get this reaction get %+d points.';
@@ -566,7 +563,6 @@ $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Use Vanilla as a commenting system in your site';
 

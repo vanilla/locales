@@ -30,7 +30,6 @@ $Definition['Activity item not found.'] = 'Activity item not found.';
 $Definition['Add %s'] = 'Add %s';
 $Definition['Add a new Pocket to your site.'] = 'Add a new Pocket to your site.';
 $Definition['Added By'] = 'Added By';
-$Definition['Add Info &amp; Create Account'] = 'Add Info &amp; Create Account';
 $Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'Add information into the from field in email addresses to help with replies (recommended).';
 $Definition['Adding & Editing Categories'] = 'Adding & Editing Categories';
 $Definition['Add Item'] = 'Add Item';
@@ -64,7 +63,6 @@ $Definition['Application ID'] = 'Application ID';
 $Definition['Application Secret'] = 'Application Secret';
 $Definition['Applied by Administrator'] = 'Applied by Administrator';
 $Definition['Applied Manually'] = 'Applied Manually';
-$Definition['Applied On'] = 'Date';
 $Definition['Apply'] = 'Apply';
 $Definition['Approval'] = 'Approval';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
@@ -114,11 +112,10 @@ $Definition['Below Sidebar'] = 'Below Sidebar';
 $Definition['Blocked'] = 'Blocked';
 $Definition['Blog Comments'] = 'Blog Comments';
 $Definition['Browse Addons'] = 'Browse Addons';
-$Definition['Browse for a new banner logo if you would like to change it:'] = 'Browse for a new banner logo if you would like to change it:';
-$Definition['By %s'] = 'By %s';
 
 $Definition['by %s'] = 'by %s';
 
+$Definition['By %s'] = 'By %s';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'By clicking the button below, you will be deleting the user account for %s forever.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Cannot build profile information if user is not defined.';
@@ -450,8 +447,8 @@ $Definition['Manual'] = 'Manual';
 
 $Definition['markallviewed'] = 'markallviewed';
 
-$Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
+$Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Media'] = 'Media';
 $Definition['Member'] = 'Member';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';

@@ -97,6 +97,7 @@ $Definition['Authentication'] = 'Autentifikacija';
 
 $Definition['Badge Name'] = 'Vardas';
 $Definition['Badge Requests'] = 'Medalių prašymai';
+$Definition['Ban Item'] = 'Įrašas';
 $Definition['Banner'] = 'Reklamjuostė';
 $Definition['Banner Logo'] = 'Reklamjuostės logotipas';
 $Definition['Banner Title'] = 'Reklamjuostės pavadinimas';
@@ -144,10 +145,10 @@ $Definition['Current File:'] = 'Esamas failas:';
 $Definition['Current Theme'] = 'Esama tema';
 
 $Definition['Decline'] = 'Atmesti';
+$Definition['Default'] = 'Numatytas';
 
 $Definition['default'] = 'numatytasis';
 
-$Definition['Default'] = 'Numatytas';
 $Definition['Default  Category'] = 'Numatyta | Kategorija';
 $Definition['Default Locale'] = 'Numatytoji lokalė';
 $Definition['Default Roles'] = 'Numatytosios rolės';
@@ -264,8 +265,8 @@ $Definition['Manage Plugins'] = 'Tvarkyti papildinius';
 $Definition['Manage Roles & Permissions'] = 'Tvarkyti taisykles ir leidimus';
 $Definition['Manage Spam'] = 'Tvarkyti šlamštą';
 $Definition['Manage Themes'] = 'Tvarkyti temas';
-$Definition['Manage users'] = 'Tvarkyti vartotojus';
 $Definition['Manage Users'] = 'Tvarkyti vartotojus';
+$Definition['Manage users'] = 'Tvarkyti vartotojus';
 $Definition['Manage your Plugins'] = 'Tvarkyti tavo papildinius';
 $Definition['Managing Categories'] = 'Tvarkyti kategorijas';
 $Definition['Manual'] = 'Rankinis';
@@ -330,6 +331,7 @@ $Definition['Restore'] = 'Atstatyti';
 $Definition['Reveal Password'] = 'Parodyti slaptažodį';
 $Definition['Role'] = 'Rolė';
 
+$Definition['Saved'] = 'Jūsų pakeitimai buvo išsaugoti.';
 $Definition['SaveLocalePack'] = 'Išsaugota';
 $Definition['Security'] = 'Saugumas';
 $Definition['Select'] = 'Pažymėti';
@@ -387,9 +389,11 @@ $Definition['User'] = 'Naudotojas';
 $Definition['User Count'] = 'Naudotojai';
 $Definition['UserDelete'] = 'Pašalinti naudotojo turinį';
 $Definition['User Deleted'] = 'Naudotojas pašalintas';
+$Definition['UserKeep'] = 'Palinkti vartotojo turinį';
 $Definition['User Registration Settings'] = 'Naudotojo registracijos nustatymai';
 $Definition['Users'] = 'Naudotojai';
 $Definition['User Summary'] = 'Naudotojo reziumė';
+$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Naudok šiuos laukelius sukurti papildomai profilio informacijai sukurti. Galima sukurti tokius laukelius kaip „Šeimynė padėtis“, „Skype“, „Mėgstamas dinozauras“, „Įkalinimo įstaiga“. Būk kūrybingas!';
 
 $Definition['Vanilla Configuration'] = 'Vanilla konfigūracija';
 $Definition['Vanilla Cookie Domain'] = 'Vanilla slapuko domenas';

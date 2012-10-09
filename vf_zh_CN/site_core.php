@@ -96,8 +96,8 @@ $Definition['Activity.PictureChange.FullHeadline'] = '%1$s 修改了 %6$s 的个
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s 修改了 %6$s 的个人头像。';
 $Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s 回答了 %4$s 的 %8$s。';
 $Definition['Activity.SignIn.FullHeadline'] = '%1$s 登录了.';
-$Definition['Activity.SignIn.ProfileHeadline'] = '%1$s 登录了.';
-$Definition['Activity.WallComment.FullHeadline'] = '%1$s 在 %4$s %5$s 发表了内容.';
+$Definition['Activity.SignIn.ProfileHeadline'] = '%1$s 登录了。';
+$Definition['Activity.WallComment.FullHeadline'] = '%1$s 在 %4$s %5$s 发表了内容。';
 $Definition['Activity.WallComment.ProfileHeadline'] = '%1$s 写道:';
 $Definition['Add'] = '添加';
 $Definition['Add a Comment'] = '添加一条回复';
@@ -356,7 +356,7 @@ $Definition['EmailNotification'] = '%1$s
      %2$s';
 $Definition['Email Notifications'] = '电子邮件通知';
 $Definition['Email Or Username'] = '用户名或Email';
-$Definition['EmailPassword'] = '您好 %1$s,
+$Definition['EmailPassword'] = '您好 %1$s，
 
      %2$s 的密码已经被您重置 %3$s. 请使用系统随机的密码登录并修改您的密码:       
 
@@ -379,7 +379,7 @@ $Definition['EmailStoryNotification'] = '%1$s
      祝您开心每一天!';
 $Definition['Email Unavailable'] = '该地址已被占用';
 $Definition['Email visible to other users'] = '电子邮件地址公开';
-$Definition['EmailWelcome'] = '您好 %1$s,
+$Definition['EmailWelcome'] = '您好 %1$s，
     
     %2$s 已经为您创建了爱青大的账户 %3$s. 请使用以下信息登录:
 
@@ -510,7 +510,7 @@ $Definition['In this Conversation'] = '在本次对话中';
 $Definition['Invalid password.'] = '您输入的密码错误，请注意区分大小写。';
 $Definition['Invitations'] = '邀请';
 $Definition['Invite'] = '邀请';
-$Definition['InviteErrorPermission'] = '对不起, 没有权限.';
+$Definition['InviteErrorPermission'] = '对不起,，没有权限。';
 $Definition['IP Address'] = 'IP地址';
 $Definition['IPAddress'] = 'IP 地址';
 $Definition['I remember now!'] = '我现在想起来了！';
@@ -627,7 +627,7 @@ $Definition['Notifictions'] = '提醒';
 $Definition['Notify'] = '通知';
 $Definition['Notify me of private messages.'] = '当有私人消息时通知我。';
 $Definition['Notify me when a badge is requested.'] = '当有人请求徽章时提醒我。';
-$Definition['Notify me when a comment is flagged.'] = '当我的评论被举报时通知我';
+$Definition['Notify me when a comment is flagged.'] = '当一个评论被标记时通知我。';
 $Definition['Notify me when I am added to private conversations.'] = '当我被加到私人聊天中时通知我';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = '当有人对我关注的话题添加回复时通知我。';
 $Definition['Notify me when people comment on my discussions.'] = '当有人对我的话题添加回复时通知我。';
@@ -666,11 +666,11 @@ $Definition['Page Not Found'] = '页面不存在';
 $Definition['PageViews'] = '页面浏览';
 $Definition['ParticipatedHomepageTitle'] = '参与话题';
 $Definition['Password'] = '密码';
-$Definition['PasswordRequest'] = '您好，我们收到对您 %2$s 帐户的密码重置申请 . 如果您需要重置密码，请点击下面的链接进行:
+$Definition['PasswordRequest'] = '您好，我们收到对您的 %2$s 帐户的密码重置申请 . 如果您需要重置密码，请点击下面的链接进行:
 
 %3$s
 
-如果这不是您本人的重置申请，请忽略这封Email.';
+如果这不是您本人的重置申请，请忽略这封Email。';
 $Definition['Passwords don\'t match'] = '密码输入不一致';
 $Definition['Permalink'] = '永久链接';
 
@@ -1065,7 +1065,7 @@ $Definition['You'] = '您';
 
 $Definition['you'] = '您';
 
-$Definition['You\'ve been Jailed.'] = '你已被禁言。';
+$Definition['You\'ve been Jailed.'] = '您已被禁言。';
 $Definition['You already have an account here.'] = '您在这里已经有账号了.';
 $Definition['You are about to ban {User.UserID,user}.'] = '您要封禁 {User.UserID,user}。';
 $Definition['You are about to unban {User.UserID,user}.'] = '您要解封 {User.UserID,user}。';
@@ -1078,7 +1078,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = '您不能使用外部链接的图片作为头像。';
 $Definition['You can only specify up to %s tags.'] = '最多可以使用 %s 个标签。';
 $Definition['You don\'t have permission to do that.'] = '您没有权限完成此操作。';
-$Definition['You do not have any %s yet.'] = '你还没有任何 %s。';
+$Definition['You do not have any %s yet.'] = '您还没有任何 %s。';
 $Definition['You do not have any bookmarks.'] = '未添加关注。';
 $Definition['You do not have any conversations.'] = '目前没有邮件。';
 $Definition['You do not have any drafts.'] = '您没有任何草稿。';

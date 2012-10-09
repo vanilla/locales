@@ -1,65 +1,176 @@
 <?php
 
 $Definition['%s comment'] = '%s ความคิดเห็น';
+$Definition['%s comments'] = '%s ความเห็น';
+$Definition['%s discussion'] = '%s หัวข้อสนทนา';
+$Definition['%s discussions'] = '%s หัวข้อสนทนา';
+$Definition['%s Likes'] = '%s ถูกใจ';
+$Definition['%s message'] = '%s ข้อความ';
+$Definition['%s messages'] = '%s ข้อความ';
+$Definition['%s point'] = '%s คะแนน';
+$Definition['%s points'] = '%s แต้ม';
+$Definition['%s said:'] = '%s พูดว่า:';
+
+$Definition[' - Page %s'] = ' - หน้า %s';
+
+$Definition['1 message'] = '1 ข้อความ';
 
 $Definition['About'] = 'เกี่ยวกับฉัน';
+$Definition['Accept'] = 'ยอมรับ';
 $Definition['Active Users'] = 'ผู้ใช้งาน';
 $Definition['Activity'] = 'ความเคลื่อนไหว';
 $Definition['Add a Comment'] = 'แสดงความคิดเห็น';
+$Definition['Add Image'] = 'เพิ่มรูปภาพ';
 $Definition['Add Message'] = 'เพิ่มข้อความใหม่';
+$Definition['Add People to this Conversation'] = 'เพิ่มเพื่อนสู่การสนทนานี้';
+$Definition['Add Route'] = 'เพิ่มเส้นทาง';
+$Definition['Admin'] = 'ผู้ดูแลระบบ';
+$Definition['Administrator Activity'] = 'กิจกรรมของผู้ดูแลระบบ';
+
+$Definition['administrators'] = 'ผู้ดูแลระบบ';
+
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Transport error: %s';
+$Definition['Agree'] = 'ยอมรับ';
+$Definition['All %s'] = 'ทั้งหมด %s';
+$Definition['All Categories'] = 'หมวดหมู่ทั้งหมด';
 $Definition['All Conversations'] = 'จดหมายทั้งหมด';
 $Definition['All Discussions'] = 'กระทู้ทั้งหมด';
+$Definition['Allow'] = 'อนุญาต';
 $Definition['Allow other members to see your email?'] = 'อนุญาติให้ผู้อื่นเห็นอีเมล์ของคุณ?';
 $Definition['Announce'] = 'ประกาศ';
+$Definition['Announce...'] = 'ประกาศ...';
 $Definition['Announcement'] = 'ประกาศ';
+$Definition['Answer'] = 'คำตอบ';
+
+$Definition['answer'] = 'คำตอบ';
+
+$Definition['Answers'] = 'คำตอบ';
 $Definition['Apply for Membership'] = 'สมัครสมาชิก';
+$Definition['Ask a Question'] = 'ถามคำถาม';
 $Definition['Ask Question'] = 'ตั้งกระทู้';
+$Definition['Attach a file'] = 'แนบไฟล์';
 
 $Definition['Back to Discussions'] = 'กลับสู่กระดานสนทนา';
+$Definition['Back to Profile'] = 'กลับสู่โปร์ไฟล์';
+$Definition['Best Of'] = 'ที่สุดของ';
+$Definition['Best Of...'] = 'ที่สุดของ...';
+$Definition['Bookmark'] = 'บุ๊คมาร์ค';
+$Definition['Bookmarks'] = 'บุ๊คมาร์ค';
+
+$Definition['by'] = 'โดย';
+
+$Definition['By'] = 'โดย';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'ในการอัพโหลดไฟล์ของคุณจะต้องรับรองว่าคุณมีสิทธิที่จะแจกจ่ายไฟล์ภาพนี้และไม่ได้ละเมิดข้อตกลงในการให้บริการ.';
 
 $Definition['Cancel'] = 'ยกเลิก';
 $Definition['Categories'] = 'หมวดหมู่';
 $Definition['Category'] = 'หมวดหมู่';
 $Definition['CategoryID'] = 'หมวดหมู่';
+$Definition['Category Notifications'] = 'การแจ้งเตือนหมวดหมู่';
 $Definition['Change My Password'] = 'เปลี่ยนรหัสผ่าน';
 $Definition['Change My Picture'] = 'เปลี่ยนรูปภาพประจำตัว';
+$Definition['Change Password'] = 'เปลี่ยนรหัสผ่าน';
+$Definition['Change Picture'] = 'เปลี่ยนรูปประจำตัว';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
+
+$Definition['clear'] = 'ล้าง';
+
+$Definition['Clear'] = 'ล้าง';
+$Definition['Clear Conversation History'] = 'ล้างประวัติการสนทนา';
+$Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'คลิก <a href="%s">ที่นี่</a> เพื่อกลับไปยังการสนทนา';
 $Definition['Close'] = 'ปิดกระทู้';
+$Definition['Closed'] = 'ปิด';
+
+$Definition['comment'] = 'ความเห็น';
+
+$Definition['Comment by %s'] = 'ความเห็นโดย %s';
 $Definition['Comments'] = 'ความคิดเห็น';
+$Definition['Confirm Password'] = 'ยืนยันรหัสผ่าน';
 $Definition['Create One.'] = 'สร้างบัญชี.';
 
 $Definition['Dashboard'] = 'แผงควบคุม';
 $Definition['Date'] = 'Applied On';
 $Definition['Delete'] = 'ลบ';
+$Definition['Delete Discussion'] = 'ลบหัวข้อสนทนา';
 $Definition['Discussions'] = 'กระดานสนทนา';
 $Definition['Discussion Title'] = 'หัวข้อกระทู้';
+$Definition['Dislike'] = 'เลิกถูกใจ';
 $Definition['Dismiss'] = 'ยกเลิก';
 $Definition['Don\'t have an account? %s'] = 'ถ้ายังไม่มีบัญชี? %s';
 
 $Definition['Edit'] = 'แก้ไข';
+$Definition['Edit Account'] = 'แก้ไขบัญชี';
+$Definition['Edit Comment'] = 'แก้ไขความเห็น';
+$Definition['Edit Discussion'] = 'แก้ไขการสนทนา';
 $Definition['Edit My Account'] = 'แก้ไขบัญชีของคุณ';
+$Definition['Edit My Profile'] = 'แก้ไขโปร์ไฟล์';
+$Definition['Edit My Thumbnail'] = 'แก้ไขรูปย่อ';
+$Definition['Edit Profile'] = 'แก้ไขข้อมูลส่วนตัว';
+$Definition['Edit Tag'] = 'แก้ไขป้ายกำกับ';
+$Definition['Edit Thumbnail'] = 'แก้ไขรูปย่อ';
+$Definition['Email/Username'] = 'อีเมล์/ชื่อผู้ใช้';
 $Definition['Email Notifications'] = 'แจ้งเตือนทางอีเมล์';
+$Definition['Email Or Username'] = 'อีเมล หรือ ชื่อผู้ใช้';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'อีเมล์ที่ส่งจากระบบจะได้รับชื่อและที่อยู่อีเมล์ดังนี้';
 $Definition['Email Unavailable'] = 'อีเมล์ถูกใช้แล้ว';
 $Definition['Email visible to other users'] = 'แสดงอีเมล์สู่สาธารณะ';
+$Definition['Enter your email address'] = 'ใส่ที่อยู่อีเมลของคุณ';
+$Definition['Enter your Email address'] = 'ใส่ที่อยู่อีเมลของคุณ';
+$Definition['Enter your Email address or username'] = 'กรอกอีเมล์ หรือ ชื่อผู้ใช้ของคุณ';
+$Definition['Enter Your OpenID Url'] = 'ใส่ที่อยู่ Url OpenID ของคุณ';
+$Definition['Error'] = 'ข้อผิดพลาด';
 $Definition['ErrorCredentials'] = 'มีบางอย่างผิดพลาด';
 $Definition['ErrorTermsOfService'] = 'คุณต้องยอมรับเงื่อนไขการให้บริการ';
 
+$Definition['everyone'] = 'ทุกคน';
+
+$Definition['Everything'] = 'ทุกอย่าง';
+$Definition['Expired'] = 'หมดอายุแล้ว';
+$Definition['Expires'] = 'หมดอายุ';
+
+$Definition['Feedback'] = 'ผลตอบรับ';
 $Definition['Female'] = 'หญิง';
+$Definition['FileName'] = 'ชื่อไฟล์';
+$Definition['Filename'] = 'ชื่อไฟล์';
+$Definition['File Size'] = 'ขนาดไฟล์';
+$Definition['FileSize'] = 'ขนาดของไฟล์';
+$Definition['Follow'] = 'ติดตาม';
+$Definition['Follow %s'] = 'ติดตาม %s';
 $Definition['Follows'] = 'ติดตาม';
 $Definition['Forgot?'] = 'ลืมรหัสผ่าน?';
+$Definition['Forgot your password?'] = 'ลืมรหัสผ่าน ?';
 $Definition['Format You'] = 'คุณ';
+$Definition['Friends'] = 'เพื่อน';
 
 $Definition['Garden.Title'] = 'ไตเติ้ล';
 $Definition['Gender'] = 'เพศ';
+$Definition['General'] = 'ทั่วไป';
+$Definition['Generate Password'] = 'สร้างรหัสผ่าน';
+$Definition['Give'] = 'มอบ';
 $Definition['Go'] = 'ค้นหา';
 
+$Definition['he'] = 'เขา';
+$Definition['her'] = 'เธอ';
+
+$Definition['Hide'] = 'ซ่อน';
+$Definition['Hide signatures?'] = 'ซ่อนลายเซ็น?';
+$Definition['Hide signatures always'] = 'ซ่อนลายเซ็นเสมอ';
+$Definition['Hide signatures on my mobile device'] = 'ซ่อนลายเซ็นบนมือถือเสมอ';
+$Definition['Home'] = 'หน้าหลัก';
+
+$Definition['hours'] = 'ชั่วโมง';
+
 $Definition['Howdy, Stranger!'] = 'สวัสดี, แขกผู้มาเยือน!';
+$Definition['How long do you want this warning to last?'] = 'นานแค่ไหนคุณต้องการคำเตือนนี้ไปยังหน้าล่าสุด?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'ข้าพเจ้ายอมรับ <a id="TermsOfService" class="Popup" target="terms" href="%s">ข้อตกลงการให้บริการ</a>';
+
+$Definition['in'] = 'ใน';
+
 $Definition['Inbox'] = 'กล่องจดหมาย';
+$Definition['Insert Image'] = 'ใส่รูปภาพ';
+$Definition['Internal'] = 'ภายใน';
+$Definition['I remember now!'] = 'ฉันจำได้แล้ว!';
 $Definition['Item'] = 'Ban Item';
 
 $Definition['Joined'] = 'เข้าร่วมเมื่อ';
@@ -68,13 +179,32 @@ $Definition['Keep me signed in'] = 'อยู่ในระบบตลอด�
 $Definition['Keep User Content'] = 'UserKeep';
 
 $Definition['Last Active'] = 'ใช้งานล่าสุด';
+$Definition['Last IP'] = 'ไอพีล่าสุด';
+$Definition['Leave a Comment'] = 'ฝากความคิดเห็น';
 $Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLeaveBlank';
 
 $Definition['Male'] = 'ชาย';
 $Definition['Mark All Viewed'] = 'อ่านทั้งหมดแล้ว';
 $Definition['Message'] = 'ข้อความ';
+
+$Definition['message'] = 'ข้อความ';
+
 $Definition['Messages'] = 'ข้อความ';
+
+$Definition['messages'] = 'ข้อความ';
+$Definition['minutes'] = 'นาที';
+
+$Definition['Moderator Activity'] = 'ความเคลื่อนไหวของผู้ดูแล';
+
+$Definition['moderators'] = 'ผู้ดูแล';
+
+$Definition['Moderators'] = 'ผู้ดูแล';
+
+$Definition['months'] = 'เดือน';
+
+$Definition['My Bookmarks'] = 'ที่คั่นหน้าของฉัน';
 $Definition['My Discussions'] = 'กระทู้ของฉัน';
+$Definition['My Drafts'] = 'แบบร่างของฉัน';
 $Definition['My Preferences'] = 'การตั้งค่าของฉัน';
 
 $Definition['Name'] = 'ชื่อ';
@@ -82,43 +212,104 @@ $Definition['Name Unavailable'] = 'ชื่อถูกใช้แล้ว';
 $Definition['New Conversation'] = 'เขียนจดหมาย';
 $Definition['New Discussion'] = 'ตั้งคำถามใหม่';
 $Definition['New Message'] = 'เขียนจดหมาย';
+$Definition['New Password'] = 'รหัสผ่านใหม่';
+$Definition['New Poll'] = 'แบบสำรวจใหม่';
+$Definition['Next'] = 'ถัดไป';
+$Definition['No'] = 'ไม่';
+$Definition['Notification'] = 'แจ้งเตือน';
+$Definition['Notification Preferences'] = 'ตั้งค่าการแจ้งเตือน';
+$Definition['Notifications'] = 'การแจ้งเตือน';
 $Definition['Notify me of private messages.'] = 'แจ้งเตือนเมื่อมีข้อความส่วนตัว';
 $Definition['Notify me when I am added to private conversations.'] = 'แจ้งให้ทราบเมื่อคุณถูกเพิ่มเข้าไปในการสนทนาส่วนตัว';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'แจ้งให้ทราบเมื่อมีคนเก็บบุคมาร์กกระทู้ของคุณ';
 $Definition['Notify me when people comment on my discussions.'] = 'แจ้งให้ทราบเมื่อมีคนแสดงความคิดเห็นในกระทู้';
+$Definition['Notify me when people mention me.'] = 'แจ้งเตือนเมื่อมีคนพูดถึงฉัน.';
 $Definition['Notify me when people mention me in comments.'] = 'แจ้งให้ทราบเมื่อมีคนพูดถึงคุณในความคิดเห็น';
 $Definition['Notify me when people reply to my wall comments.'] = 'แจ้งให้ทราบเมื่อมีคนตอบกลับความคิดเห็นบนผนังของคุณ';
 $Definition['Notify me when people write on my wall.'] = 'แจ้งให้ทรายเมื่อมีคนมาเขียนบนผนังของคุณ';
 
+$Definition['Old Password'] = 'รหัสผ่านเก่า';
+$Definition['OpenID Settings'] = 'ตั้งค่า OpenID';
 $Definition['Options'] = 'ออฟชั่น';
+$Definition['Original'] = 'ต้นฉบับ';
+$Definition['Or you can...'] = 'หรือคุณสามารถ...';
 
+$Definition['Password'] = 'รหัสผ่าน';
+$Definition['Passwords don\'t match'] = 'รหัสผ่านไม่ตรงกัน';
+$Definition['Picture'] = 'รูปภาพ';
+$Definition['Poll'] = 'แบบสำรวจ';
+$Definition['Poll Options'] = 'ตั้งค่าแบบสำรวจ';
+$Definition['Poll Question'] = 'คำถามของแบบสำรวจ';
 $Definition['Popular Discussions'] = 'กระทู้ยอดนิยม';
+$Definition['Popup'] = 'ป๊อปอัพ';
 $Definition['Position'] = 'ตำแหน่ง';
 $Definition['Post Comment'] = 'แสดงความคิดเห็น';
 $Definition['Post Discussion'] = 'ตั้งกระทู้';
 $Definition['Powered by Vanilla'] = 'Powered by Vanilla, <a href="http://vanilla.devstore.in.th">แปลภาษาไทยโดย Vanilla.devstore.in.th</a>';
 $Definition['Preview'] = 'ตัวอย่าง';
+$Definition['Promote'] = 'เลื่อนขั้น';
+$Definition['Public'] = 'สาธารณะ';
+
+$Definition['Q&A'] = 'ถาม&ตอบ';
+$Definition['Q&A Options'] = 'ตั้งค่า ถาม&ตอบ';
+
+$Definition['question'] = 'คำถาม';
 
 $Definition['Question Title'] = 'หัวข้อกระทู้';
+$Definition['Quote'] = 'อ้างอิง';
+$Definition['Quote Settings'] = 'ตั้งค่าการอ้างอิง';
 
+$Definition['Rank'] = 'ระดับ';
+$Definition['Reactions'] = 'ปฏิกิริยา';
+$Definition['Real Name'] = 'ชื่อจริง';
+$Definition['Reason'] = 'เหตุผล';
+$Definition['Reason (optional)'] = 'เหตุผล (ตัวเลิอก)';
 $Definition['Recent Activity'] = 'ความเคลื่อนไหวล่าสุด';
 $Definition['Recent Tutorials'] = 'บทเรียนล่าสุด';
 $Definition['Recipients'] = 'ผู้รับ';
 $Definition['Register'] = 'สมัครสมาชิก';
 $Definition['Register with %s'] = 'สมัครสมาชิก';
+$Definition['Reject'] = 'ปฎิเสธ';
+$Definition['Reject this answer.'] = 'ปฏิเสธคำตอบ';
+$Definition['Remember me'] = 'จำฉันไว้';
 $Definition['Remember me on this computer'] = 'จำฉันไว้ในคอมพิวเตอร์เครื่องนี้';
+$Definition['Removed by'] = 'ถูกลบโดย';
+$Definition['Remove My Picture'] = 'ลบรูปภาพของฉัน';
+$Definition['Remove Warning'] = 'ลบคำเตือน';
+$Definition['Reply'] = 'ตอบกลับ';
 $Definition['Reset Password'] = 'รีเซ็ตรหัสผ่าน';
+$Definition['Revoke'] = 'เรียกคืน';
+$Definition['Revoked badge.'] = 'เรียกคืนเครื่องหมาย';
 $Definition['Roles'] = 'ยศ';
 
 $Definition['Save'] = 'บันทึก';
+$Definition['Save Comment'] = 'บันทึกความเห็น';
 $Definition['Save Draft'] = 'บันทึกข้อความร่าง';
+$Definition['Save Poll'] = 'บันทึกแบบสำรวจ';
 $Definition['Save Preferences'] = 'บันทึกการตั้งค่า';
+$Definition['Save your password'] = 'บันทึกรหัสผ่านของคุณ';
+$Definition['Search results for \'%s\''] = 'ผลลัพธ์การค้นหาสำหรับ \'%s\'';
 $Definition['Security Check'] = 'ตรวจสอบความปลอดภัย';
 $Definition['Select an image on your computer (2mb max)'] = 'เลือกภาพจากคอมพิวเตอร์ของคุณ (2mb max)';
+$Definition['Send a New Message'] = 'ส่งข้อความใหม่';
+$Definition['Send Message'] = 'ส่งข้อความ';
+$Definition['Setting'] = 'ตั้งค่า';
 $Definition['Settings'] = 'การตั้งค่า';
 $Definition['Share'] = 'แชร์';
+
+$Definition['she'] = 'เธอ';
+
 $Definition['SignIn'] = 'เข้าสู่ระบบ';
 $Definition['Sign In'] = 'เข้าสู่ระบบ';
+$Definition['Sign in to vote!'] = 'เข้าสู่ระบบเพื่อออกเสียง!';
+$Definition['Sign In with %s'] = 'เข้าสู่ระบบด้วย %s';
+$Definition['Sign In with Disqus'] = 'เข้าสู่ระบบด้วย Disqus';
+$Definition['Sign In with Google'] = 'เข้าสู่ระบบด้วย Google';
+$Definition['Sign In with OpenID'] = 'เข้าสู่ระบบด้วย OpenID';
+$Definition['Sign In with Twitter'] = 'เข้าสู่ระบบด้วย Twitter';
+
+$Definition['sign out'] = 'ออกจากระบบ';
+
 $Definition['Sign Out'] = 'ออกจากระบบ';
 $Definition['Sign Up'] = 'สมัครสมาชิก';
 $Definition['Sink'] = 'ปล่อยตก';
@@ -128,6 +319,8 @@ $Definition['Start a New Discussion'] = 'ตั้งคำถามใหม่
 $Definition['Start Conversation'] = 'ส่งจดหมาย';
 $Definition['Started by %1$s'] = 'เริ่มโดย %1$s';
 
+$Definition['Target'] = 'เป้าหมาย';
+$Definition['Tell us why you want to join!'] = 'บอกเราทำไมคุณถึงต้องการเข้าร่วม!';
 $Definition['TermsOfServiceText'] = '
    <p>You agree, through your use of this service, that you will not use this
    community to post any material which is knowingly false and/or defamatory,
@@ -150,18 +343,29 @@ $Definition['TermsOfServiceText'] = '
    
    <p>You must be at least 13 years of age to use this service.</p>
 ';
+$Definition['Title'] = 'ชื่อเรื่อง';
 $Definition['Type'] = 'Condition Type';
 
 $Definition['Unannounce'] = 'ยกเลิกประกาศ';
+$Definition['Unread'] = 'ยังไม่ได้อ่าน';
+$Definition['Uploading...'] = 'กำลังอัพโหลด...';
 
 $Definition['ValidateRequired'] = 'กรุณาตรวจสอบช่องว่าง';
 $Definition['Value'] = 'Condition Expression';
+$Definition['Vanilla'] = 'วานิลลา';
 $Definition['Views'] = 'อ่าน';
 $Definition['Visits'] = 'เข้าชม';
 $Definition['Visit Site'] = 'ชมหน้าเว็บ';
+$Definition['Vote'] = 'โหวต';
+$Definition['Votes'] = 'โหวต';
+
+$Definition['Warn'] = 'เตือน';
+
+$Definition['weeks'] = 'สัปดาห์';
 
 $Definition['Write Comment'] = 'เขียนความคิดเห็น';
 
+$Definition['Yes'] = 'ใช่';
 $Definition['You'] = 'คุณ';
 $Definition['You already have an account here.'] = 'ConnectAccountExists';
 $Definition['You do not have any conversations.'] = 'คุณไม่ได้รับข้อความใดๆ';
