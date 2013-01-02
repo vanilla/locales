@@ -47,10 +47,10 @@ $Definition['%s new comments since you last read this.'] = '自上次阅读已�
 $Definition['%s new plural'] = '%s 新';
 $Definition['%s New Plural'] = '%s 新复数';
 $Definition['%s Not Found'] = '%s 未找到';
-$Definition['%s point'] = '%s 点';
 $Definition['%s Point'] = '%s ';
-$Definition['%s Points'] = '%s 点';
+$Definition['%s point'] = '%s 点';
 $Definition['%s points'] = '%s 积分';
+$Definition['%s Points'] = '%s 点';
 $Definition['%s said'] = '%s 说到';
 $Definition['%s said:'] = '%s 说道：';
 $Definition['%s tag(s) found.'] = '有 %s 个标签。';
@@ -136,10 +136,10 @@ $Definition['Announce...'] = '置顶';
 $Definition['Announcement'] = '置顶';
 $Definition['Announcements'] = '置顶';
 $Definition['Announce this discussion'] = '置顶话题';
+$Definition['Answer'] = '答案';
 
 $Definition['answer'] = '答案';
 
-$Definition['Answer'] = '答案';
 $Definition['Answers'] = '回答';
 $Definition['Applicants'] = '申请者';
 $Definition['Apply Changes'] = '应用更改';
@@ -190,10 +190,10 @@ $Definition['Bookmark'] = '关注';
 $Definition['bookmarked discussion'] = '关注的话题';
 
 $Definition['Bookmarked Discussions'] = '关注的话题';
-$Definition['Bookmarks'] = '关注';
 
 $Definition['bookmarks'] = '书签';
 
+$Definition['Bookmarks'] = '关注';
 $Definition['By'] = '被';
 
 $Definition['by'] = '被';
@@ -301,10 +301,10 @@ $Definition['Delete User Content'] = '删除用户内容';
 $Definition['Delete User Forever'] = '彻底删除用户';
 $Definition['Did this answer the question?'] = '答对了？';
 $Definition['Disagree'] = '不同意';
-$Definition['Discussion'] = '话题';
 
 $Definition['discussion'] = '帖子';
 
+$Definition['Discussion'] = '话题';
 $Definition['Discussions'] = '所有话题';
 $Definition['Discussions Page'] = '话题列表页面';
 $Definition['Discussion Title'] = '问题标题';
@@ -386,6 +386,12 @@ $Definition['EmailWelcome'] = '您好 %1$s，
 	  Email: %6$s
 	  Password: %5$s
           Url: %4$s';
+$Definition['EmailWelcomeConnect'] = '您已成功连接至 {Title}。以下是您的信息：
+
+  用户名： {User.Name}
+  Connected With： {ProviderName}
+
+您可以使用该链接访问网站 {/,exurl,domain}。';
 $Definition['EmailWelcomeRegister'] = '恭喜您成功注册了账号 {Title}。以下是您的注册信息：
     
     用户名：{User.Name}
@@ -399,8 +405,8 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">阅读全文</a></p><div class="ClearFix"></div></div>';
 $Definition['English'] = '英语';
-$Definition['Enter your email address'] = '输入您的电子邮件地址';
 $Definition['Enter your Email address'] = '电子邮件';
+$Definition['Enter your email address'] = '输入您的电子邮件地址';
 $Definition['Enter your Email address or username'] = 'Email/用户名';
 $Definition['Enter Your OpenID Url'] = '输入您的OpenID地址';
 $Definition['Erase User Content'] = '清空用户内容';
@@ -427,8 +433,8 @@ $Definition['Female'] = '女';
 $Definition['Fifth Anniversary'] = '五周年';
 $Definition['FileName'] = '文件名';
 $Definition['Filename'] = '文件名';
-$Definition['FileSize'] = '文件大小';
 $Definition['File Size'] = '文件大小';
+$Definition['FileSize'] = '文件大小';
 $Definition['First Anniversary'] = '一周年';
 $Definition['First Comment'] = '第一个回复';
 $Definition['Flag'] = '举报';
@@ -443,8 +449,8 @@ $Definition['Forgot?'] = '忘记密码？';
 $Definition['Forgot your password?'] = '忘记密码?';
 $Definition['Format his'] = '他的';
 $Definition['Format their'] = '他们的';
-$Definition['Format you'] = '您';
 $Definition['Format You'] = '您';
+$Definition['Format you'] = '您';
 $Definition['Format Your'] = '您的';
 $Definition['Fourth Anniversary'] = '四周年';
 $Definition['Friends'] = '好友';
@@ -511,8 +517,8 @@ $Definition['Invalid password.'] = '您输入的密码错误，请注意区分�
 $Definition['Invitations'] = '邀请';
 $Definition['Invite'] = '邀请';
 $Definition['InviteErrorPermission'] = '对不起,，没有权限。';
-$Definition['IP Address'] = 'IP地址';
 $Definition['IPAddress'] = 'IP 地址';
+$Definition['IP Address'] = 'IP地址';
 $Definition['I remember now!'] = '我现在想起来了！';
 
 $Definition['item'] = '条目';
@@ -536,8 +542,8 @@ $Definition['Last IP'] = '最后登录 IP';
 $Definition['Latest %1$s'] = '最后修改 %1$s';
 $Definition['Latest Post'] = '最新发表';
 $Definition['Leaders'] = '活跃用户';
-$Definition['Leave a Comment'] = '添加一条新回复';
 $Definition['Leave a comment'] = '发表新的回复';
+$Definition['Leave a Comment'] = '添加一条新回复';
 $Definition['Leave blank unless connecting to an exising account.'] = '连接已有账户时留空。';
 $Definition['Leave Comments'] = '发表新的回复';
 $Definition['Length'] = '长度';
@@ -561,11 +567,9 @@ $Definition['Merge Discussions'] = '合并话题';
 $Definition['message'] = '消息';
 
 $Definition['Message'] = '消息';
-
-$Definition['messages'] = '消息';
-
 $Definition['Messages'] = '消息';
 
+$Definition['messages'] = '消息';
 $Definition['minutes'] = '分';
 
 $Definition['Moderation'] = '审核';
@@ -601,10 +605,10 @@ $Definition['Name'] = '用户名';
 $Definition['Name Dropper'] = '打着别人旗号招摇的人';
 $Definition['Name Unavailable'] = '名字无效';
 $Definition['New Conversation'] = '新邮件';
-$Definition['New Discussion'] = '新话题';
 
 $Definition['new discussion'] = '新';
 
+$Definition['New Discussion'] = '新话题';
 $Definition['New Message'] = '开始新会话';
 $Definition['New Password'] = '新密码';
 $Definition['New Poll'] = '新的投票';
@@ -672,10 +676,10 @@ $Definition['PasswordRequest'] = '您好，我们收到对您的 %2$s 帐户的�
 
 如果这不是您本人的重置申请，请忽略这封Email。';
 $Definition['Passwords don\'t match'] = '密码输入不一致';
-$Definition['Permalink'] = '永久链接';
 
 $Definition['permalink'] = '传送门';
 
+$Definition['Permalink'] = '永久链接';
 $Definition['Permanent (301)'] = '永久移动 (301)';
 $Definition['PermissionErrorMessage'] = '您没有权限执行该操作。';
 $Definition['PermissionErrorTitle'] = '权限问题';
@@ -713,8 +717,8 @@ $Definition['Private Note for Moderators'] = '发起者的私人笔记';
 $Definition['Problem with credentials.'] = '证书问题';
 $Definition['Proceed'] = '继续';
 $Definition['Profile'] = '个人资料';
-$Definition['Profile  Fields'] = '个人资料  栏目';
 $Definition['Profile Fields'] = '个人资料 栏目';
+$Definition['Profile  Fields'] = '个人资料  栏目';
 $Definition['ProfileFieldsCustomDescription'] = '使用这些栏目填写自定义的信息，比如"状态（单身）", "QQ", or "爱好"。想想吧！';
 $Definition['Profile Page'] = '个人资料页面';
 $Definition['Profile Picture'] = '个人头像';
@@ -784,10 +788,9 @@ $Definition['Revoked badge.'] = '撤销徽章。';
 $Definition['role'] = '角色';
 
 $Definition['RoleID'] = '身份编号';
+$Definition['Roles'] = '角色';
 
 $Definition['roles'] = '角色';
-
-$Definition['Roles'] = '角色';
 
 $Definition['Save'] = '保存';
 $Definition['Save Comment'] = '保存回复';
@@ -826,8 +829,8 @@ $Definition['Signature Code'] = '签名';
 $Definition['Signature invalid.'] = '签名无效。';
 $Definition['Signatures'] = '签名';
 $Definition['Signature Settings'] = '签名设置';
-$Definition['Sign In'] = '登录';
 $Definition['SignIn'] = '登录';
+$Definition['Sign In'] = '登录';
 $Definition['SigningOut'] = '请稍等，正在为您注销。';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>登录</a> 或 <a href="{RegisterUrl,html}">注册</a> 才能回复。';
 $Definition['Sign in to vote!'] = '登录投票。';
@@ -882,8 +885,8 @@ $Definition['Target'] = '目标';
 $Definition['Tell the user why you\'re warning them'] = '告诉用户警告他们的原因';
 $Definition['Tell us why you want to join!'] = '说说您为什么加入！';
 $Definition['Tenth Anniversary'] = '十周年';
-$Definition['Terms of Service'] = '服务条款';
 $Definition['TermsOfService'] = '服务条款';
+$Definition['Terms of Service'] = '服务条款';
 $Definition['TermsOfServiceText'] = ' 
 服务条款<br>
 当您申请用户时，表示您已经同意遵守本规章。 <br>

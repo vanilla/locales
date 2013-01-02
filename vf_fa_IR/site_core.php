@@ -25,8 +25,8 @@ $Definition['%s Agrees'] = '%s موافق‌اند';
 $Definition['%s and you'] = '%s و شما';
 $Definition['%s Awesomes'] = '%s جذاب';
 $Definition['%s changed %s\'s permissions.'] = '%s پروانه‌های %s را تغییر داد.';
-$Definition['%s comment'] = '%s دیدگاه';
 $Definition['%s Comment'] = '%s دیدگاه';
+$Definition['%s comment'] = '%s دیدگاه';
 $Definition['%s Comments'] = '%s دیدگاه';
 $Definition['%s comments'] = '%s دیدگاه';
 $Definition['%s deleted this conversation.'] = '%s این گفت‌وگو را پاک کرده است.';
@@ -40,17 +40,17 @@ $Definition['%s LOLs'] = '%s لول!';
 $Definition['%s mentioned %s in a %s.'] = '%s از %s در یک %s نام برد.';
 $Definition['%s message'] = '%s پیام';
 $Definition['%s messages'] = 'تعداد پیام‌ها : %s';
-$Definition['%s new'] = 'تازه: %s مورد';
 $Definition['%s New'] = '%s تازه';
+$Definition['%s new'] = 'تازه: %s مورد';
 $Definition['%s new comment since you last read this.'] = '%s نظر جدید از آخرین بازدید شما';
 $Definition['%s new comments since you last read this.'] = '%s نظر جدید از آخرین بازدید شما';
 $Definition['%s New Plural'] = '%s دیدگاه تازه';
 $Definition['%s new plural'] = 'تازه: %s مورد';
 $Definition['%s Not Found'] = '%s یافت نشد.';
-$Definition['%s point'] = '%s نقطه';
 $Definition['%s Point'] = '%s امتیاز';
-$Definition['%s points'] = '%s مرحله';
+$Definition['%s point'] = '%s نقطه';
 $Definition['%s Points'] = '%s امتیاز';
+$Definition['%s points'] = '%s مرحله';
 $Definition['%s said'] = '%s گفت';
 $Definition['%s said:'] = '%s گفت:';
 $Definition['%s tag(s) found.'] = '%s برچسب پیدا شد.';
@@ -135,8 +135,8 @@ $Definition['Answer'] = 'پاسخ';
 $Definition['Answers'] = 'جواب‌ها';
 $Definition['Applicants'] = 'تأیید نشده‌ها';
 $Definition['Apply Changes'] = 'اعمال تغییرات';
-$Definition['Apply for Membership'] = 'ثبت‌نام';
 $Definition['Apply for membership'] = 'درخواست عضویت';
+$Definition['Apply for Membership'] = 'ثبت‌نام';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'آیا کاملا مطمئن هستید که می‌خواهید این کار را انجام دهید؟';
 $Definition['Are you sure you want to delete this %s?'] = 'آیا مطمئنید که می‌خواهید این %s را پاک کنید؟';
 $Definition['Are you sure you want to do that?'] = 'آیا برای انجام این کار اطمینان دارید؟';
@@ -215,10 +215,10 @@ $Definition['Child Categories:'] = 'زیردسته‌ها:';
 $Definition['Choose a name to identify yourself on the site.'] = 'یک نام را برای شناسایی خودتان در وب‌گاه انتخاب کنید.';
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'جستار اصلی را که همه‌ی دیدگاه‌ها در آن درهم آمیخته خواهند شد، گزینش کنید:';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'انتخاب کنید که می‌خواهید سوال کنید یا یک بحث را شروع کنید.';
-$Definition['Clear'] = 'پاک کردن';
 
 $Definition['clear'] = 'پاک‌کردن';
 
+$Definition['Clear'] = 'پاک کردن';
 $Definition['Clear Conversation History'] = 'پاک‌کردن حافظهٔ گفت‌وگو';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = '<a href="%s">اینجا</a> را بفشارید تا به جستار بازگردید.';
 $Definition['Click accept or reject beside an answer.'] = 'روی پذیرفتن یا نپذیرفتن کنار یک سوال کلیک کنید.';
@@ -229,10 +229,10 @@ $Definition['Click the %s beside discussions to bookmark them.'] = 'بر روی 
 $Definition['Close'] = 'بستن ';
 $Definition['Closed'] = 'بسته شده';
 $Definition['Close this discussion'] = 'بستن این جستار';
+$Definition['Comment'] = 'دیدگاه';
 
 $Definition['comment'] = 'دیدگاه';
 
-$Definition['Comment'] = 'دیدگاه';
 $Definition['Comment by %s'] = 'فرستنده‌ی دیدگاه: %s';
 $Definition['Commenting not allowed.'] = 'دیدگاه‌نویسی بسته شده است!';
 $Definition['Comments'] = 'دیدگاه‌ها';
@@ -404,8 +404,8 @@ $Definition['Failed to load the poll.'] = 'متاسفانه نتوانستیم �
 $Definition['Feedback'] = 'بازخورد';
 $Definition['Female'] = 'زن';
 $Definition['Fifth Anniversary'] = 'پنجمین سالگرد';
-$Definition['FileName'] = 'نام پرونده';
 $Definition['Filename'] = 'نام پرونده';
+$Definition['FileName'] = 'نام پرونده';
 $Definition['FileSize'] = 'اندازه فایل';
 $Definition['File Size'] = 'اندازهٔ پرونده';
 $Definition['First Anniversary'] = 'اولین سالگرد';
@@ -485,13 +485,13 @@ $Definition['Invalid password.'] = 'گذرواژه‌ای که وارد کردی
 $Definition['Invitations'] = 'فراخوانه‌ها';
 $Definition['Invite'] = 'فراخواندن';
 $Definition['InviteErrorPermission'] = 'متأسفیم، پروانه‌ی دسترسی ندارید.';
-$Definition['IPAddress'] = 'آدرس IP';
 $Definition['IP Address'] = 'نشانی IP';
+$Definition['IPAddress'] = 'آدرس IP';
 $Definition['I remember now!'] = 'هم اکنون به یاد آوردم';
+$Definition['Item'] = 'محروم';
 
 $Definition['item'] = 'جستار';
 
-$Definition['Item'] = 'محروم';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'به نظر می‌رسد که شما این‌جا تازه‌واردید. اگر می‌خواهید که شما هم مشارکت کنید، روی یکی از این دکمه‌ها کلیک کنید!';
 
 $Definition['Jail'] = 'بازداشت';
@@ -532,25 +532,21 @@ $Definition['markallviewed'] = 'انتخاب همه به عنوان دیده ش�
 $Definition['Mark Read'] = 'خواندم';
 $Definition['Merge'] = 'درهم‌آمیزی';
 $Definition['Merge Discussions'] = 'درهم‌آمیزی جستارها';
+$Definition['Message'] = 'پیام';
 
 $Definition['message'] = 'پیام';
 
-$Definition['Message'] = 'پیام';
-
-$Definition['messages'] = 'پیغام ها';
-
 $Definition['Messages'] = 'پیام‌ها';
 
+$Definition['messages'] = 'پیغام ها';
 $Definition['minutes'] = 'دقیقه';
 
 $Definition['Moderation'] = 'برقراری نظم';
 $Definition['Moderation Queue'] = 'برقراری نظم در صف‌ها';
 $Definition['Moderator Activity'] = 'فعالیت های مدیر';
-
-$Definition['moderators'] = 'ناظم‌ها';
-
 $Definition['Moderators'] = 'ناظرها';
 
+$Definition['moderators'] = 'ناظم‌ها';
 $Definition['months'] = 'ماه';
 
 $Definition['More'] = 'بیش‌تر';
@@ -600,6 +596,7 @@ $Definition['Notifictions'] = 'اطلاعیه‌ها';
 $Definition['Notify'] = 'آگاه‌سازی';
 $Definition['Notify me of private messages.'] = 'وقتی پیام خصوصی دریافت می‌کنم، مرا آگاه کن.';
 $Definition['Notify me when a badge is requested.'] = 'به من اطلاع بده همنگامی که یک نشان درخوست شد';
+$Definition['Notify me when a comment is flagged.'] = 'هنگامی که نظر من پرچم گذاری شد به من خبر بده';
 $Definition['Notify me when I am added to private conversations.'] = 'وقتی به یک گفت‌وگوی خصوصی دعوت می‌شوم، مرا آگاه کن.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'وقتی به جستارهای نشان‌دار من دیدگاهی فرستاده شد، مرا آگاه کن.';
 $Definition['Notify me when people comment on my discussions.'] = 'وقتی در جستارهای من دیدگاهی نوشته می‌شود، مرا آگاه کن.';
@@ -784,8 +781,8 @@ $Definition['Signature Code'] = 'رمز امضا';
 $Definition['Signature invalid.'] = 'امضا نامعتبر است.';
 $Definition['Signatures'] = 'امضاها';
 $Definition['Signature Settings'] = 'تنظیمات امضا';
-$Definition['SignIn'] = 'ورود';
 $Definition['Sign In'] = 'ورود';
+$Definition['SignIn'] = 'ورود';
 $Definition['SigningOut'] = 'زمانی که شما را خارج می‌کنیم، یک لحظه صبر کنید.';
 $Definition['Sign In or Register to Comment.'] = 'برای نظردادن، <a href="{SignInUrl,html}"{Popup}>وارد شوید</a> یا <a href="{RegisterUrl,html}">ثبت‌نام کنید</a>.';
 $Definition['Sign in to vote!'] = 'برای رای‌دادن، وارد شوید!';

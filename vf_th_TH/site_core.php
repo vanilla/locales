@@ -188,20 +188,19 @@ $Definition['Mark All Viewed'] = 'อ่านทั้งหมดแล้ว'
 $Definition['Message'] = 'ข้อความ';
 
 $Definition['message'] = 'ข้อความ';
+$Definition['messages'] = 'ข้อความ';
 
 $Definition['Messages'] = 'ข้อความ';
 
-$Definition['messages'] = 'ข้อความ';
 $Definition['minutes'] = 'นาที';
 
 $Definition['Moderator Activity'] = 'ความเคลื่อนไหวของผู้ดูแล';
-
-$Definition['moderators'] = 'ผู้ดูแล';
-
 $Definition['Moderators'] = 'ผู้ดูแล';
 
+$Definition['moderators'] = 'ผู้ดูแล';
 $Definition['months'] = 'เดือน';
 
+$Definition['Most recent by %1$s'] = 'มากที่สุดเมื่อเร็วๆนี้ โดย %1$s';
 $Definition['My Bookmarks'] = 'ที่คั่นหน้าของฉัน';
 $Definition['My Discussions'] = 'กระทู้ของฉัน';
 $Definition['My Drafts'] = 'แบบร่างของฉัน';
@@ -216,6 +215,8 @@ $Definition['New Password'] = 'รหัสผ่านใหม่';
 $Definition['New Poll'] = 'แบบสำรวจใหม่';
 $Definition['Next'] = 'ถัดไป';
 $Definition['No'] = 'ไม่';
+$Definition['Not Authorized (401)'] = 'ไม่ได้รับอนุญาต (401)';
+$Definition['Not Found (404)'] = 'ไม่พบเนื้อหา (404)';
 $Definition['Notification'] = 'แจ้งเตือน';
 $Definition['Notification Preferences'] = 'ตั้งค่าการแจ้งเตือน';
 $Definition['Notifications'] = 'การแจ้งเตือน';
@@ -234,6 +235,7 @@ $Definition['Options'] = 'ออฟชั่น';
 $Definition['Original'] = 'ต้นฉบับ';
 $Definition['Or you can...'] = 'หรือคุณสามารถ...';
 
+$Definition['Page Not Found'] = 'ไม่พบหน้า';
 $Definition['Password'] = 'รหัสผ่าน';
 $Definition['Passwords don\'t match'] = 'รหัสผ่านไม่ตรงกัน';
 $Definition['Picture'] = 'รูปภาพ';
@@ -299,8 +301,8 @@ $Definition['Share'] = 'แชร์';
 
 $Definition['she'] = 'เธอ';
 
-$Definition['SignIn'] = 'เข้าสู่ระบบ';
 $Definition['Sign In'] = 'เข้าสู่ระบบ';
+$Definition['SignIn'] = 'เข้าสู่ระบบ';
 $Definition['Sign in to vote!'] = 'เข้าสู่ระบบเพื่อออกเสียง!';
 $Definition['Sign In with %s'] = 'เข้าสู่ระบบด้วย %s';
 $Definition['Sign In with Disqus'] = 'เข้าสู่ระบบด้วย Disqus';

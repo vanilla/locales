@@ -2,7 +2,7 @@
 
 $Definition['%1$s changed %6$s profile picture.'] = 'Οι %1$s και %6$s  άλλαξαν την εικόνα προφίλ τους.
 ';
-$Definition['%1$s joined.'] = 'Ο/Η %1$s συνδέθηκε.';
+$Definition['%1$s joined.'] = 'Ο/Η %1$s joined.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = 'Ο/Η %1$s αναφέρθηκε %3$s στο %8$s.';
 $Definition['%s Agrees'] = '%s συμφωνεί';
 $Definition['%s and you'] = '%s και εσύ';
@@ -50,8 +50,8 @@ $Definition['Activity.DiscussionMention.FullHeadline'] = 'Ο/Η %1$s αναφέ�
 $Definition['Activity.DiscussionMention.ProfileHeadline'] = 'Ο/Η %1$s αναφέρθηκε %3$s στο %8$s.';
 $Definition['Activity.Import.FullHeadline'] = 'Ο/Η %1$s εισήγαγε δεδομένα.';
 $Definition['Activity.Import.ProfileHeadline'] = 'Ο/Η %1$s εισήγαγε δεδομένα.';
-$Definition['Activity.Join.FullHeadline'] = 'Ο/Η %1$s συνδέθηκε.';
-$Definition['Activity.Join.ProfileHeadline'] = 'Ο/Η %1$s συνδέθηκε.';
+$Definition['Activity.Join.FullHeadline'] = 'Ο/Η %1$s joined.';
+$Definition['Activity.Join.ProfileHeadline'] = 'Ο/Η %1$s joined.';
 $Definition['Activity.JoinApproved.FullHeadline'] = 'Ο/Η %1$s αποδέκτηκε %4$s την αίτηση μέλους.';
 $Definition['Activity.JoinApproved.ProfileHeadline'] = 'Ο/Η %1$s αποδέκτηκε %4$s την αίτηση μέλους.';
 $Definition['Activity.JoinCreated.FullHeadline'] = 'Ο/Η %3$s δημιούργησε ένα λογαριασμό για %1$s.';
@@ -493,7 +493,7 @@ $Definition['wall'] = 'τοίχος';
 
 $Definition['Warn'] = 'προειδοποιώ';
 $Definition['Warnings'] = 'Προειδοποιήσεις';
-$Definition['Welcome Aboard!'] = 'Καλωσόρισες στο χώρο μας!';
+$Definition['Welcome Aboard!'] = 'Welcome aboard!';
 $Definition['Write a comment'] = 'Γράψε ένα σχόλιο';
 $Definition['Write Comment'] = 'Γράψε Σχόλιο';
 $Definition['Write something about yourself...'] = 'Γράψε κάτι για τον εαυτό σου...';

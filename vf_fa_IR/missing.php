@@ -136,7 +136,6 @@ $Definition['Most recent by %1$s'] = 'Most recent by %1$s';
 $Definition['NewApplicantEmail'] = 'New applicant:';
 $Definition['NoBadgesEarned'] = 'Any minute now&hellip;';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
-$Definition['Notify me when a comment is flagged.'] = 'Notify me when a comment is flagged.';
 $Definition['Null Date'] = '-';
 
 $Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';

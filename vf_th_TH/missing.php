@@ -13,7 +13,6 @@ $Definition['%1$s signed in.'] = '%1$s signed in.';
 $Definition['%1$s to %2$s'] = '%1$s to %2$s';
 $Definition['%1$s to %2$s of %3$s'] = '%1$s to %2$s of %3$s';
 $Definition['%1$s updated %6$s profile.'] = '%1$s updated %6$s profile.';
-$Definition['%1$s version %2$s is available.'] = '%1$s version %2$s is available.';
 $Definition['%1$s was added to the %2$s %3$s.'] = '%1$s was added to the %2$s %3$s.';
 $Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s was removed from the %2$s %3$s.';
 $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.';
@@ -34,8 +33,6 @@ $Definition['%s deleted this conversation.'] = '%s deleted this conversation.';
 $Definition['%s has been Jailed.'] = '%s has been Jailed.';
 $Definition['%s has left this conversation.'] = '%s has left this conversation.';
 $Definition['%s Insightfuls'] = '%s Insightfuls';
-$Definition['%s is not a valid email address'] = '%s is not a valid email address';
-$Definition['%s item in queue'] = '%s item in queue';
 $Definition['%s level'] = '%s level';
 $Definition['%s levels'] = '%s levels';
 $Definition['%s LOLs'] = '%s LOLs';
@@ -44,8 +41,8 @@ $Definition['%s New'] = '%s New';
 $Definition['%s new'] = '%s new';
 $Definition['%s new comment since you last read this.'] = '%s new comment since you last read this.';
 $Definition['%s new comments since you last read this.'] = '%s new comments since you last read this.';
-$Definition['%s new plural'] = '%s new';
 $Definition['%s New Plural'] = '%s New Plural';
+$Definition['%s new plural'] = '%s new';
 $Definition['%s Not Found'] = '%s Not Found';
 $Definition['%s Point'] = '%s Point';
 $Definition['%s Points'] = '%s Points';
@@ -74,24 +71,8 @@ $Definition['+%s Guests'] = '+%s Guests';
 
 $Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. The community forum is what all of your users &amp; customers will see when they visit ';
 
-$Definition['1 day'] = '1 day';
-$Definition['1 hour'] = '1 hour';
-$Definition['1 month'] = '1 month';
-$Definition['1 month after being sent'] = '1 month after being sent';
-$Definition['1 week'] = '1 week';
-$Definition['1 week after being sent'] = '1 week after being sent';
-
-$Definition['2 weeks after being sent'] = '2 weeks after being sent';
-
-$Definition['4 hours'] = '4 hours';
-
-$Definition['5 minutes'] = '5 minutes';
-
-$Definition['15 minutes'] = '15 minutes';
-
 $Definition['<General Error>'] = '<General Error>';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
-$Definition['<strong>Categories</strong>'] = '<strong>Categories</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.';
@@ -268,8 +249,8 @@ $Definition['Banned for spamming.'] = 'Banned for spamming.';
 $Definition['Banned users can no longer access the site.'] = 'Banned users can no longer access the site.';
 $Definition['Banning'] = 'Banning';
 $Definition['Banning Options'] = 'Banning Options';
-$Definition['BanType'] = 'BanType';
 $Definition['Ban Type'] = 'Type';
+$Definition['BanType'] = 'BanType';
 $Definition['Ban User'] = 'Ban User';
 $Definition['Ban Value'] = 'Ban Value';
 $Definition['Basic'] = 'Basic';
@@ -761,8 +742,8 @@ $Definition['Invitations will expire'] = 'Invitations will expire';
 $Definition['Invite'] = 'Invite';
 $Definition['Invited by'] = 'Invited by';
 $Definition['InviteErrorPermission'] = 'Sorry, permission denied.';
-$Definition['IP Address'] = 'IP Address';
 $Definition['IPAddress'] = 'IPAddress';
+$Definition['IP Address'] = 'IP Address';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
 
 $Definition['item'] = 'item';
@@ -832,8 +813,8 @@ $Definition['Managing Categories'] = 'Managing Categories';
 $Definition['markallviewed'] = 'markallviewed';
 
 $Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
-$Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
+$Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Mark Read'] = 'Mark Read';
 $Definition['Media'] = 'Media';
 $Definition['Member'] = 'Member';
@@ -865,7 +846,6 @@ $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Most po
 $Definition['Most Recent'] = 'Most Recent';
 $Definition['Most recent:'] = 'Most recent:';
 $Definition['Most recent: %1$s by %2$s'] = 'Most recent: %1$s by %2$s';
-$Definition['Most recent by %1$s'] = 'Most recent by %1$s';
 $Definition['Move discussions in this category to a replacement category.'] = 'Move discussions in this category to a replacement category.';
 $Definition['MyBadgesModuleTitle'] = 'My Badges';
 $Definition['My Forums'] = 'My Forums';
@@ -909,9 +889,7 @@ $Definition['None'] = 'None';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['No results for \'%s\''] = 'No results for \'%s\'';
 $Definition['No Roles'] = 'No Roles';
-$Definition['Not Authorized (401)'] = 'Not Authorized (401)';
 $Definition['Notes'] = 'Notes';
-$Definition['Not Found (404)'] = 'Not Found (404)';
 $Definition['Notifictions'] = 'Notifictions';
 $Definition['Notify'] = 'Notify';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
@@ -955,7 +933,6 @@ $Definition['page'] = 'page';
 
 $Definition['PageDetailsMessage'] = '%1$s to %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
-$Definition['Page Not Found'] = 'Page Not Found';
 $Definition['PageViews'] = 'PageViews';
 $Definition['Panel Box'] = 'Panel Box';
 $Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
@@ -966,10 +943,10 @@ $Definition['PasswordRequest'] = 'Someone has requested to reset your password a
 
 If you did not make this request, disregard this email.';
 $Definition['Pending'] = 'Pending';
-$Definition['Permalink'] = 'Permalink';
 
 $Definition['permalink'] = 'permalink';
 
+$Definition['Permalink'] = 'Permalink';
 $Definition['Permanent (301)'] = 'Permanent (301)';
 $Definition['Permission'] = 'Permission';
 $Definition['PermissionErrorMessage'] = 'You don\'t have permission to do that.';
@@ -1096,10 +1073,10 @@ $Definition['Resetting the password for %s.'] = 'Resetting the password for %s.'
 $Definition['Restart'] = 'Restart';
 $Definition['Restore'] = 'Restore';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
+$Definition['Role'] = 'Role';
 
 $Definition['role'] = 'role';
 
-$Definition['Role'] = 'Role';
 $Definition['RoleID'] = 'role';
 
 $Definition['roles'] = 'roles';
@@ -1215,8 +1192,8 @@ $Definition['Take Action:'] = 'Take Action:';
 $Definition['Tell the user why you\'re warning them'] = 'Tell the user why you\'re warning them';
 $Definition['Temporary (302)'] = 'Temporary (302)';
 $Definition['Tenth Anniversary'] = 'Tenth Anniversary';
-$Definition['TermsOfService'] = 'Terms of Service';
 $Definition['Terms of Service'] = 'Terms of Service';
+$Definition['TermsOfService'] = 'Terms of Service';
 $Definition['Test'] = 'Test';
 $Definition['Testing'] = 'Testing';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
@@ -1382,10 +1359,10 @@ $Definition['Unhide'] = 'Unhide';
 $Definition['Uninvite'] = 'Uninvite';
 $Definition['UniqueID'] = 'UniqueID';
 $Definition['Universal Code'] = 'Universal Code';
-$Definition['Unknown'] = 'Unknown';
 
 $Definition['unknown'] = 'unknown';
 
+$Definition['Unknown'] = 'Unknown';
 $Definition['Unknown client: %s.'] = 'Unknown client: %s.';
 $Definition['Unlimited'] = 'Unlimited';
 $Definition['Unread Discussions'] = 'Unread Discussions';
@@ -1467,10 +1444,10 @@ $Definition['Verified'] = 'Verified';
 $Definition['Verified!'] = 'Verified!';
 $Definition['Verifying your credentials...'] = 'Verifying your credentials...';
 $Definition['Version'] = 'Version';
+$Definition['Version %s'] = 'Version %s';
 
 $Definition['version %s'] = 'version %s';
 
-$Definition['Version %s'] = 'Version %s';
 $Definition['Version %s Installer'] = 'Version %s Installer';
 
 $Definition['via %s'] = 'via %s';

@@ -236,7 +236,7 @@ $Definition['comment'] = 'yorum';
 
 $Definition['Comment As ...'] = '... Olarak Yorum Yap';
 $Definition['Comment by %s'] = '%s tarafından yorum';
-$Definition['Comment in'] = 'içinde';
+$Definition['Comment in'] = 'kategorisi';
 $Definition['Commenting as %1$s (%2$s)'] = '%1$s <span class="SignOutWrap">(%2$s)</span> olarak Yorum Yapılıyor';
 $Definition['Commenting not allowed.'] = 'Yorumlamaya izin verilmiyor.';
 $Definition['Comments'] = 'Yorumlar';
@@ -478,12 +478,12 @@ $Definition['How long do you want this warning to last?'] = 'Bu uyarının ne ka
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '<a id="TermsOfService" class="Popup" target="terms" href="%s">Kuralları</a> kabul ediyorum';
 
-$Definition['in'] = 'içinde';
+$Definition['in'] = 'kategorisi';
 
 $Definition['In <b>%s.</b>'] = '<b>%s.</b> İçinde';
 $Definition['In <b>%s</b> and recent discussions.'] = '<b>%s</b> ve son tartışmalar içinde.';
 $Definition['Inbox'] = 'Gelen Kutusu';
-$Definition['In seconds'] = 'saniyeler içinde';
+$Definition['In seconds'] = 'saniye içinde';
 $Definition['Insert Image'] = 'Resim Ekle';
 $Definition['Insightful'] = 'Bilgili';
 $Definition['Internal'] = 'Dahili';

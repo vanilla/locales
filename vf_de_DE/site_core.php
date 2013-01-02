@@ -11,6 +11,7 @@ $Definition['%1$s on %2$s'] = '%1$s %2$s';
 $Definition['%1$s signed in.'] = '%1$s hat sich angemeldet.';
 $Definition['%1$s to %2$s'] = '%1$s bis %2$s';
 $Definition['%1$s to %2$s of %3$s'] = '%1$s bis %2$s von %3$s';
+$Definition['%1$s updated %6$s profile.'] = '%1$s aktualisierte %6$s Profil.';
 $Definition['%1$s was added to the %2$s %3$s.'] = '%1$s wurde zu dem %2$s %3$s hinzugefügt.';
 $Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s wurde von dem %2$s %3$s entfernt.';
 $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s wurde von dem %2$s %3$s entfernt und zu dem %4$s %5$s hinzugefügt.';
@@ -48,6 +49,7 @@ $Definition['%s Not Found'] = '%s nicht gefunden';
 $Definition['%s point'] = '%s Punkt';
 $Definition['%s Point'] = '%s Punkt';
 $Definition['%s Points'] = '%s Punkte';
+$Definition['%s points'] = '%s Punkte';
 $Definition['%s said'] = '%s schrieb';
 $Definition['%s said:'] = '%s schrieb:';
 $Definition['%s tag(s) found.'] = '%s Tag(s) gefunden.';
@@ -134,10 +136,10 @@ $Definition['Announce...'] = 'Ankündigen...';
 $Definition['Announcement'] = 'Ankündigung';
 $Definition['Announcements'] = 'Ankündigungen';
 $Definition['Announce this discussion'] = 'Diskussion ankündigen';
+$Definition['Answer'] = 'Antwort';
 
 $Definition['answer'] = 'Antwort';
 
-$Definition['Answer'] = 'Antwort';
 $Definition['Answers'] = 'Antworten';
 $Definition['Applicants'] = 'Bewerber';
 $Definition['Apply Changes'] = 'Änderungen annehmen';
@@ -186,9 +188,11 @@ $Definition['Bookmarked Discussions'] = 'Markierte Diskussionen';
 $Definition['bookmarks'] = 'Lesezeichen';
 
 $Definition['Bookmarks'] = 'Lesezeichen';
-$Definition['By'] = 'Nach';
 
 $Definition['by'] = 'nach';
+
+$Definition['By'] = 'Nach';
+
 $Definition['by Date'] = 'nach Datum';
 
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Durch das Hochladen einer Datei garantierst du, dass du die Berechtigung hast, diese Datei zu verbreiten und unsere Nutzungsbestimmungen dabei nicht zu verletzen.';
@@ -230,10 +234,10 @@ $Definition['Click the %s beside discussions to bookmark them.'] = 'Klicke den %
 $Definition['Close'] = 'Schließen';
 $Definition['Closed'] = 'Geschlossen';
 $Definition['Close this discussion'] = 'Diese Diskussion schließen';
+$Definition['Comment'] = 'Kommentieren';
 
 $Definition['comment'] = 'kommentieren';
 
-$Definition['Comment'] = 'Kommentieren';
 $Definition['Comment As ...'] = 'Kommentieren als...';
 $Definition['Comment by %s'] = 'Kommentar von %s';
 $Definition['Commenting as %1$s (%2$s)'] = 'Kommentiere als %1$s <span class="SignOutWrap">(%2$s)</span>';
@@ -290,10 +294,10 @@ $Definition['Delete User Content'] = 'Lösche Nutzerinhalte';
 $Definition['Delete User Forever'] = 'Lösche Nutzer permanent';
 $Definition['Did this answer the question?'] = 'Hat das deine Frage beantwortet?';
 $Definition['Disagree'] = 'Nicht zustimmen';
+$Definition['Discussion'] = 'Diskussion';
 
 $Definition['discussion'] = 'Diskussion';
 
-$Definition['Discussion'] = 'Diskussion';
 $Definition['Discussions'] = 'Diskussionen';
 $Definition['Discussions Page'] = 'Diskussionsseite';
 $Definition['Discussion Title'] = 'Diskussions Thema';
@@ -384,8 +388,8 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lies die gesamte Nachricht hier</a></p><div class="ClearFix"></div></div>';
 $Definition['English'] = 'Englisch';
-$Definition['Enter your email address'] = 'Gib deine E-Mail-Adresse ein';
 $Definition['Enter your Email address'] = 'Gib deine E-Mail-Adresse ein';
+$Definition['Enter your email address'] = 'Gib deine E-Mail-Adresse ein';
 $Definition['Enter your Email address or username'] = 'Gib deine E-Mail-Adresse oder deinen Benutzernamen ein';
 $Definition['Enter Your OpenID Url'] = 'Gib deine OpenID-URL ein';
 $Definition['Erase User Content'] = 'Entferne Benutzerinhalte';
@@ -409,8 +413,8 @@ $Definition['Failed to find discussion for commenting.'] = 'Konnte die Diskussio
 $Definition['Failed to load the poll.'] = 'Fehler beim Laden der Umfrage.';
 $Definition['Female'] = 'Weiblich';
 $Definition['Fifth Anniversary'] = 'Fünfter Jahrestag';
-$Definition['FileName'] = 'Dateiname';
 $Definition['Filename'] = 'Dateiname';
+$Definition['FileName'] = 'Dateiname';
 $Definition['FileSize'] = 'Dateigröße';
 $Definition['File Size'] = 'Dateigröße';
 $Definition['First Anniversary'] = 'Erster Jahrestag';
@@ -442,6 +446,7 @@ $Definition['General'] = 'Generell';
 $Definition['Generate import SQL only'] = 'Generiere nur Import-SQL';
 $Definition['Generate Password'] = 'Passwort generieren';
 $Definition['Give'] = 'Geben';
+$Definition['Give a Badge to %s'] = 'Einen Badge an %s vergeben';
 $Definition['Give Badge'] = 'Badge vergeben';
 $Definition['Given'] = 'Gegeben';
 $Definition['Go'] = 'Los';
@@ -486,13 +491,13 @@ $Definition['Invalid password.'] = 'Das eingegebene Passwort ist falsch. Denke d
 $Definition['Invitations'] = 'Einladungen';
 $Definition['Invite'] = 'Einladen';
 $Definition['InviteErrorPermission'] = 'Entschuldigung, Berechtigung nicht vorhanden.';
-$Definition['IPAddress'] = 'IP-Adresse';
 $Definition['IP Address'] = 'IP-Addresse';
+$Definition['IPAddress'] = 'IP-Adresse';
 $Definition['I remember now!'] = 'Ich erinnere mich!';
-$Definition['Item'] = 'Objekt';
 
 $Definition['item'] = 'Beitrag';
 
+$Definition['Item'] = 'Objekt';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Scheinbar bist du neu hier. Wenn du mitmachen willst, Wähle eine der folgenden Optionen!';
 
 $Definition['Jail'] = 'Gefängnis';
@@ -526,13 +531,13 @@ $Definition['Marking as spam cannot be undone.'] = 'Etwas als Spam zu markieren 
 $Definition['Mark Read'] = 'Als gelesen markieren';
 $Definition['Merge'] = 'Zusammenführen';
 $Definition['Merge Discussions'] = 'Diskussionen zusammenführen';
+$Definition['Message'] = 'Nachricht';
 
 $Definition['message'] = 'Nachricht';
+$Definition['messages'] = 'Nachrichten';
 
-$Definition['Message'] = 'Nachricht';
 $Definition['Messages'] = 'Nachrichten';
 
-$Definition['messages'] = 'Nachrichten';
 $Definition['minutes'] = 'Minuten';
 
 $Definition['Moderation Queue'] = 'Moderationsschlange';
@@ -565,10 +570,10 @@ $Definition['n/a'] = 'n.v.';
 
 $Definition['Name Unavailable'] = 'Name nicht verfügbar';
 $Definition['New Conversation'] = 'Neue Nachricht';
+$Definition['New Discussion'] = 'Neue Diskussion beginnen';
 
 $Definition['new discussion'] = 'neu';
 
-$Definition['New Discussion'] = 'Neue Diskussion beginnen';
 $Definition['New Message'] = 'Neue Nachricht';
 $Definition['New Password'] = 'Neues Passwort';
 $Definition['New Poll'] = 'Neue Umfrage';
@@ -590,6 +595,8 @@ $Definition['Notifications'] = 'Benachrichtigungen';
 $Definition['Notifictions'] = 'Benachrichtigungen';
 $Definition['Notify'] = 'Benachrichtigen';
 $Definition['Notify me of private messages.'] = 'Bei privaten Nachrichten benachrichtigen.';
+$Definition['Notify me when a badge is requested.'] = 'Benachrichtige mich, wenn ein Badge verlangt wird.';
+$Definition['Notify me when a comment is flagged.'] = 'Benachrichtige mich, wenn ein Kommentar markiert wurde.';
 $Definition['Notify me when I am added to private conversations.'] = 'Benachrichtige mich, wenn ich privaten Konversationen hinzugefügt wurde.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Benachrichtige mich, wenn meine Diskussionen markiert wurden.';
 $Definition['Notify me when people comment on my discussions.'] = 'Benachrichtige mich, wenn meine Beiträge kommentiert wurden.';
@@ -667,8 +674,8 @@ $Definition['Private Note for Moderators'] = 'Private Nachricht für Moderatoren
 $Definition['Problem with credentials.'] = 'Problem mit Zertifikaten.';
 $Definition['Proceed'] = 'Fortsetzen';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Profilfelder';
 $Definition['Profile Fields'] = 'Profilfelder';
+$Definition['Profile  Fields'] = 'Profilfelder';
 $Definition['ProfileFieldsCustomDescription'] = 'Benutze diese Felder, um eigene Profilinformationen hinzuzufügen. Du kannst Felder hinzufügen, wie "Beziehnungsstatus", "Skype" oder "Lieblingsdinosaurier". Sei kreativ!';
 $Definition['Profile Page'] = 'Profilseite';
 $Definition['Profile Picture'] = 'Profilbild';
@@ -683,10 +690,10 @@ $Definition['Q&A Options'] = 'Einstellungen zu Fragen & Antworten';
 $Definition['Q&A Question'] = 'Frage';
 $Definition['QnA Accepted Answer'] = 'Antwort ✓';
 $Definition['QnA Rejected Answer'] = 'Antwort ablehnen';
-$Definition['Question'] = 'Frage';
 
 $Definition['question'] = 'Frage';
 
+$Definition['Question'] = 'Frage';
 $Definition['Question Title'] = 'Diskussions Thema';
 $Definition['Quote'] = 'Zitat';
 $Definition['Quote Folding'] = 'Zitat falten';

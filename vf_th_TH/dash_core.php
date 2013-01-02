@@ -2,11 +2,31 @@
 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" ไม่พบ';
 $Definition['%1$s Version %2$s'] = '%1$s รุ่น %2$s';
+$Definition['%1$s version %2$s is available.'] = '%1$s รุ่น %2$s สามารถใช้ได้แล้ว';
+$Definition['%s is not a valid email address'] = '%s ไม่ใช่ที่อยู่อีเมลที่ถูกต้อง';
+$Definition['%s item in queue'] = '%s รายการในคิว';
 $Definition['%s of %s'] = '%s ของ %s';
 $Definition['%s Settings'] = '%s ตั้งค่า';
 $Definition['%s user(s) found.'] = 'พบ %s คน.';
 
 $Definition['(YYYY-mm-dd)'] = '(ปี-เดือน-วัน)';
+
+$Definition['1 day'] = '1 วัน';
+$Definition['1 hour'] = '1 ชั่วโมง';
+$Definition['1 month'] = '1 เดือน';
+$Definition['1 month after being sent'] = '1 เดือนหลังจากที่ถูกส่ง';
+$Definition['1 week'] = '1 สัปดาห์';
+$Definition['1 week after being sent'] = '1 สัปดาห์หลังจากที่ถูกส่ง';
+
+$Definition['2 weeks after being sent'] = '2 สัปดาห์หลังจากที่ถูกส่ง';
+
+$Definition['4 hours'] = '4 ชั่วโมง';
+
+$Definition['5 minutes'] = '5 นาที';
+
+$Definition['15 minutes'] = '15 นาที';
+
+$Definition['<strong>Categories</strong>'] = '<strong>หมวดหมู่</strong>';
 
 $Definition['Abilites'] = 'ความสามารถ';
 $Definition['Add %s'] = 'เพิ่ม %s';
@@ -35,10 +55,9 @@ $Definition['Banner'] = 'โลโก้';
 $Definition['Banner Logo'] = 'โลโก้แบนเนอร์';
 $Definition['Banner Title'] = 'ไตเติ้ล';
 $Definition['Below Sidebar'] = 'อยู่ด้านล่างแถบด้านข้าง';
+$Definition['By %s'] = 'โดย %s';
 
 $Definition['by %s'] = 'โดย %s';
-
-$Definition['By %s'] = 'โดย %s';
 
 $Definition['Category Page Layout'] = 'เค้าโครงหมวดหมู่';
 

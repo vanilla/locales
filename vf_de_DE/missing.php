@@ -2,11 +2,9 @@
 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" not found.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
-$Definition['%1$s updated %6$s profile.'] = '%1$s updated %6$s profile.';
 $Definition['%1$s Version %2$s'] = '%1$s Version %2$s';
 $Definition['%s Likes'] = '%s Likes';
 $Definition['%s LOLs'] = '%s LOLs';
-$Definition['%s points'] = '%s points';
 $Definition['%s WTFs'] = '%s WTFs';
 
 $Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
@@ -34,18 +32,12 @@ $Definition['Activity.SignIn.FullHeadline'] = 'Activity.SignIn.FullHeadline';
 $Definition['Activity.SignIn.ProfileHeadline'] = 'Activity.SignIn.ProfileHeadline';
 $Definition['Activity.WallComment.FullHeadline'] = 'Activity.WallComment.FullHeadline';
 $Definition['Activity.WallComment.ProfileHeadline'] = 'Activity.WallComment.ProfileHeadline';
-$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'Add information into the from field in email addresses to help with replies (recommended).';
 $Definition['Addons'] = 'Addons';
 $Definition['Admin'] = 'Admin';
 $Definition['Administrator'] = 'Administrator';
-$Definition['Allow new users to be registered through email.'] = 'Allow new users to be registered through email.';
-$Definition['Applied by Administrator'] = 'Applied by Administrator';
-$Definition['Applied Manually'] = 'Applied Manually';
-$Definition['Authenticate Url'] = 'Authenticate Url';
 
 $Definition['Badge'] = 'Badge';
 $Definition['Badge Name'] = 'Name';
-$Definition['Badge Requests'] = 'Badge Requests';
 $Definition['Badges'] = 'Badges';
 $Definition['BadgesModuleTitle'] = 'Badges';
 $Definition['Banner'] = 'Banner';
@@ -57,11 +49,7 @@ $Definition['Body'] = 'Body';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.';
 $Definition['CategoriesViewingUnfollowed'] = 'CategoriesViewingUnfollowed';
 $Definition['Combo Breaker'] = 'Combo Breaker';
-$Definition['Comment  Body'] = 'Comment  Body';
 $Definition['Comment in'] = 'in';
-$Definition['Comment  Subject'] = 'Comment  Subject';
-$Definition['Confirmation  Body'] = 'Confirmation  Body';
-$Definition['Criteria'] = 'Criteria';
 
 $Definition['Dashboard'] = 'Dashboard';
 $Definition['Dashboard Home'] = 'Dashboard Home';
@@ -69,17 +57,9 @@ $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Debugger'] = 'Debugger';
-
-$Definition['default'] = 'default';
-
-$Definition['Default'] = 'Default';
-$Definition['Default  Category'] = 'Default  Category';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
-$Definition['Discussion  Body'] = 'Discussion  Body';
-$Definition['Discussion  Subject'] = 'Discussion  Subject';
 $Definition['Dislike'] = 'Dislike';
 
-$Definition['Editing'] = 'Editing';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbeddedNoBodyFormat.'] = 'EmbeddedNoBodyFormat.';
 
@@ -88,18 +68,10 @@ $Definition['Feedback'] = 'Feedback';
 $Definition['Follows'] = 'Follows';
 
 $Definition['Garden'] = 'Garden';
-$Definition['Generate Client ID and Secret'] = 'Generate Client ID and Secret';
-
-$Definition['give'] = 'give';
-
-$Definition['Give a Badge to %s'] = 'Give a Badge to %s';
 $Definition['Gold Plus'] = 'Gold Plus';
 
-$Definition['Hash Algorithm'] = 'Hash Algorithm';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
-$Definition['Hide from the recent discussions page.'] = 'Hide from the recent discussions page.';
-$Definition['Hide this category from the recent discussions page.'] = 'Hide this category from the recent discussions page.';
 $Definition['Home'] = 'Home';
 $Definition['Homepage'] = 'Homepage';
 
@@ -119,8 +91,6 @@ $Definition['Likes'] = 'Likes';
 $Definition['Locale'] = 'en-CA';
 $Definition['LOL'] = 'LOL';
 
-$Definition['Manual'] = 'Manual';
-
 $Definition['markallviewed'] = 'markallviewed';
 
 $Definition['Moderation'] = 'Moderation';
@@ -129,13 +99,10 @@ $Definition['MoneyFormat2'] = '$%7.2f';
 
 $Definition['Name'] = 'Name';
 $Definition['Name Dropper'] = 'Name Dropper';
-$Definition['Notify me when a badge is requested.'] = 'Notify me when a badge is requested.';
-$Definition['Notify me when a comment is flagged.'] = 'Notify me when a comment is flagged.';
 $Definition['Null Date'] = '-';
 
 $Definition['Off Topic'] = 'Off Topic';
 $Definition['Original'] = 'Original';
-$Definition['Outgoing Email Address'] = 'Outgoing Email Address';
 
 $Definition['PageViews'] = 'PageViews';
 $Definition['Panel Box'] = 'Panel Box';
@@ -155,16 +122,10 @@ $Definition['Private Key'] = 'Private Key';
 $Definition['Provider'] = 'Provider';
 $Definition['Public Key'] = 'Public Key';
 
-$Definition['Ranks'] = 'Ranks';
 $Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,was,were} promoted to {Data.Name,plaintext}.';
 $Definition['Ranks.NotificationFormat'] = 'Congratulations! You\'ve been promoted to {Data.Name,plaintext}.';
-$Definition['Register Url'] = 'Register Url';
-$Definition['Reply  To'] = 'Reply  To';
-$Definition['Request'] = 'Request';
 $Definition['Route'] = 'Route';
 
-$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Send a confirmation email when people ask a question or start a discussion over email.';
-$Definition['Sign In Url'] = 'Sign In Url';
 $Definition['Slug'] = 'Slug';
 $Definition['SMTP Host'] = 'SMTP Host';
 $Definition['SMTP Port'] = 'SMTP Port';
@@ -178,16 +139,10 @@ $Definition['Styles'] = 'Styles';
 $Definition['System'] = 'System';
 
 $Definition['Tags'] = 'Tags';
-
-$Definition['take away'] = 'take away';
-
 $Definition['Test'] = 'Test';
 $Definition['Text'] = 'Text';
-$Definition['The specified url code is already in use by another category.'] = 'The specified url code is already in use by another category.';
-$Definition['This connection is in test-mode.'] = 'This connection is in test-mode.';
 $Definition['Thumbnail'] = 'Thumbnail';
 $Definition['Thumbnails'] = 'Thumbnails';
-$Definition['Titles'] = 'Titles';
 $Definition['TLS'] = 'TLS';
 $Definition['Troll'] = 'Troll';
 $Definition['Twitter'] = 'Twitter';
@@ -199,14 +154,14 @@ $Definition['Unviersal Forum Embed Code'] = 'Unviersal Forum Embed Code';
 $Definition['Vanilla'] = 'Vanilla';
 $Definition['Vanilla Cookie Domain'] = 'Vanilla Cookie Domain';
 $Definition['Version'] = 'Version';
-$Definition['Version %s'] = 'Version %s';
 
 $Definition['version %s'] = 'version %s';
+
+$Definition['Version %s'] = 'Version %s';
 
 $Definition['WordPress Plugin'] = 'WordPress Plugin';
 $Definition['WTF'] = 'WTF';
 
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
-$Definition['You must manually apply this rank.'] = 'You must manually apply this rank.';
 
 $Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
