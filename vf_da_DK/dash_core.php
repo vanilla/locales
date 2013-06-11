@@ -1,13 +1,31 @@
 <?php
 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" ikke fundet.';
+$Definition['%s is not a valid email address'] = '%s er ikke en gyldig email-adresse';
+$Definition['%s item in queue'] = '%s i kø';
+$Definition['%s level'] = '%s niveau';
+$Definition['%s levels'] = '%s niveauer';
+$Definition['%s posts'] = '%s indlæg';
 $Definition['%s Settings'] = '%s Indstillinger';
+$Definition['%s site(s) found.'] = '%s side(r) fundet.';
+$Definition['%s times'] = '%s gange';
 $Definition['%s user(s) found.'] = '%s brugere fundet.';
+$Definition['%s user(s) will be affected by this action.'] = '%s bruger(e) vil blive påvirket af denne ændring.';
+$Definition['%s years.'] = '%s år.';
 
-$Definition['1 month after being sent'] = '1 mÂned efter at blive sendt';
+$Definition['(less)'] = '(mindre)';
+$Definition['(more)'] = '(mere)';
+
+$Definition['1 day'] = '1 dag';
+$Definition['1 hour'] = '1 time';
+$Definition['1 month'] = '1 måned';
+$Definition['1 month after being sent'] = '1 måned efter at blive sendt';
+$Definition['1 week'] = '1 uge';
 $Definition['1 week after being sent'] = '1 uge efter at blive sendt';
 
 $Definition['2 weeks after being sent'] = '2 uger efter at blive sendt';
+
+$Definition['15 minutes'] = '15 minutter';
 
 $Definition['Accepted'] = 'Accepteret';
 $Definition['Action'] = 'Handling';
@@ -35,10 +53,8 @@ $Definition['Authentication'] = 'Autentificering';
 
 $Definition['Badge Name'] = 'Navn';
 $Definition['Banner Title'] = 'Banner Titel';
-
-$Definition['by %s'] = 'af %s';
-
 $Definition['By %s'] = 'Af %s';
+$Definition['by %s'] = 'af %s';
 
 $Definition['Category Url:'] = 'Kategori Url:';
 $Definition['Change the way that new users register with the site.'] = 'Lav om pÂ mÂden som nye brugere registrere pÂ.';
@@ -46,9 +62,7 @@ $Definition['Check all permissions that apply for each role'] = 'Tjek alle tilla
 $Definition['Choose a locale pack'] = 'VÊlg en lokal pakke';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'VÊlg og konfigurer dit forums godkendelsesskema.';
 $Definition['Choose who can send out invitations to new members:'] = 'VÊlg hvem der kan sende invitationer til nye medlemmer:';
-
 $Definition['comment(s)'] = 'kommentar(er)';
-
 $Definition['Comments per Page'] = 'Kommentarer per side';
 $Definition['Configure an Authenticator'] = 'Konfigurerer en Godkendelsesprocedurer';
 $Definition['Consumer Key'] = 'Forbruger Kode';
@@ -65,13 +79,10 @@ $Definition['Disable'] = 'Deaktiver';
 $Definition['Disable Google Sign In'] = 'Deaktiver Google Log Ind';
 $Definition['Disable OpenID'] = 'Deaktiver OpenID';
 $Definition['Discussion & Comment Editing'] = 'Diskussion & Kommentar Redigering';
-
 $Definition['discussion(s)'] = 'diskussion(er)';
-
 $Definition['Discussions per Page'] = 'Diskussioner per Side';
 
 $Definition['edit'] = 'rediger';
-
 $Definition['Edit %s'] = 'Rediger %s';
 $Definition['Edit Category'] = 'Rediger Kategori';
 $Definition['EditContentTimeout.Notes'] = 'Note: Vis en bruger har en rolle som kan lave om pÂ indhold, De tilladelser vil lave om pÂ de vÊrdier her.';
@@ -128,13 +139,10 @@ $Definition['Max Comment Length'] = 'Maximum Kommentar lÊngde';
 $Definition['Member'] = 'Medlem';
 $Definition['Messages can appear anywhere in your application.'] = 'Beskeder kan ses overalt i din ans¯gning, og kan blive brugt til informere dine brugere om nyheder og begivenheder. Brug denne side til at re-organisere dine beskeder ved at trÊkke dem op og ned.';
 $Definition['Method'] = 'Metode';
-
 $Definition['minute(s)'] = 'minut(ter)';
-
 $Definition['My Invitations'] = 'Mine Invitationer';
 
 $Definition['never'] = 'Aldrig';
-
 $Definition['New comments in the last day'] = 'Nye kommentarer pÂ den sidste dag';
 $Definition['New comments in the last week'] = 'Nye kommentarer pÂ den sidste uge';
 $Definition['New conversations in the last day'] = 'Nye samtaler pÂ den sidste dag ';
@@ -181,9 +189,7 @@ $Definition['Routes can be used to redirect users to various parts of your site 
 
 $Definition['Saved'] = 'Dine Êndringer er gemt.';
 $Definition['SaveLocalePack'] = 'Gem';
-
 $Definition['seconds'] = 'sekunder';
-
 $Definition['Select the file to import'] = 'VÊlg en fil at importere';
 $Definition['Send %s a Message'] = 'Send %s en Besked';
 $Definition['Sent To'] = 'Sendt til';

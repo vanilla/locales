@@ -42,8 +42,14 @@ $Definition['<strong>Categories</strong> allow you to organize your discussions.
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Huom!</strong> Roolin poistaminen voi aiheuttaa sen, ettei tietyill&auml; k&auml;ytt&auml;jill&auml; ole en&auml;&auml; p&auml;&auml:;sy&auml; palstallesi.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = 'Disqus -lis&auml;osan avulla mahdollistat k&auml;ytt&auml;jien kirjautumisen Disqus-tilins&auml; kautta. <b>Huomioi, ett&auml; lis&auml;osa on rekister&ouml;it&auml;v&auml; Disqusilla ensin.</b>';
 
-$Definition['a Badge'] = 'kunniamerkki';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] | Vahvista sähköpostiosoitteesi';
+$Definition['[%s] Invitation'] = '[%s] | Kutsu';
+$Definition['[%s] Password Reset'] = '[%s] | Salasanan uudelleenasetus';
+$Definition['[%s] Password Reset Request'] = '[%s] | Salasanan vaihtopyynt&ouml;';
 
+$Definition['_Locale'] = 'Kielitiedosto';
+
+$Definition['a Badge'] = 'kunniamerkki';
 $Definition['About.DisableStatistics'] = 'Jos joudut poistamaan raportoinnin k&auml;yt&ouml;st&auml; esimerkiksi business-syist&auml;, tee se lis&auml;&auml;m&auml;ll&auml; oheinen rivi Vanillan asennuksen configuraatio-tiedostoon: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'On ensiarvoisen t&auml;rke&auml;&auml; Vanillan ilmaisena, Open Source-alustana pysymisen kannalta, ett&auml; saamme mitattua sen suorituskyky&auml; ja levinneisyytt&auml;. T&auml;st&auml; syyst&auml; toivomme, ettet poista t&auml;t&auml; lis&auml;osaa k&auml;yt&ouml;st&auml;.';
 $Definition['AboutCommentEmbedding'] = 'Vanillan avulla voit korvata blogisi kommentointitoiminnallisuuden helposti. Itseasiassa, Vanillan avulla voit mahdollistaa kommentoinnin mill&auml; tahansa muullakin sivustolla. ';
@@ -78,9 +84,7 @@ $Definition['Advanced Options'] = 'Lis&auml;valinnat';
 $Definition['Advanced Settings'] = 'Lis&auml;asetukset';
 $Definition['Advanced settings for embedded community elements'] = 'Edistyneet asetukset upotetuille forumin osille';
 $Definition['After'] = 'J&auml;lkeen';
-
 $Definition['a full year.'] = 'koko vuosi.';
-
 $Definition['Alive'] = 'K&auml;yt&ouml;ss&auml;';
 $Definition['All'] = 'Kaikki';
 $Definition['All %1$s'] = 'Kaikki  %1$s';
@@ -152,9 +156,7 @@ $Definition['Blog Comments'] = 'Blogin kommentit';
 $Definition['Browse Addons'] = 'Selaa lis&auml;osia';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Selaa koneeltasi uusi banneri logo vaihtaaksesi sen:';
 $Definition['By %s'] = 'L&auml;hett&auml;j&auml;n&auml; %s';
-
 $Definition['by %s'] = 'L&auml;hett&auml;j&auml;: %s';
-
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Klikkaamalla oheista painiketta poistat j&auml;senen %s k&auml;ytt&auml;j&auml;tilin lopullisesti.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Profiilin tietoja ei voida luoda jos k&auml;ytt&auml;j&auml;&auml; ei ole m&auml;&auml;ritetty.';
@@ -173,6 +175,8 @@ $Definition['Changing the Discussions Menu Link'] = 'Keskustelujen p&auml;&auml;
 $Definition['Check all permissions that apply for each role'] = 'Valitse ne kaikki oikeudet, jotka eri rooleille kuuluvat';
 $Definition['Check all permissions that apply to this role:'] = 'Valitse ne kaikki oikeudet, jotka t&auml;ll&auml; roolilla on:';
 $Definition['Check all roles that should be applied to new/approved users:'] = 'Valitse ne kaikki roolit, joihin uusi/vahvistettu k&auml;ytt&auml;j&auml; kuuluu: ';
+$Definition['Check out my new community!'] = 'Katso uutta yhteisöäni!';
+$Definition['Check out the full list of video tutorials here.'] = 'Katso koko lista video-oppaista täältä.';
 $Definition['Choose a locale pack'] = 'Valitse kielitiedosto';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'Valitse ja aseta forumin autentikoinnin tapa.';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'M&auml;&auml;rit&auml;, miten haluat kohdella k&auml;ytt&auml;j&auml;n %s l&auml;hett&auml;m&auml;&auml; sis&auml;lt&ouml;&auml; (kommentit, viestit, jne).';
@@ -183,9 +187,7 @@ $Definition['Classic table layout used by traditional forums'] = 'Perinteinen, t
 $Definition['Clean Spam'] = 'Tyhjenn&auml; roskaviestit';
 $Definition['Click here to carry on.'] = 'Klikkaa t&auml;st&auml; jatkaaksesi.';
 $Definition['Client ID'] = 'Asiakas ID';
-
 $Definition['comment(s)'] = 'kommentti(a)';
-
 $Definition['Comment Settings'] = 'Kommentoinnin asetukset';
 $Definition['Comments Page'] = 'Kommentti -sivu';
 $Definition['Comments per Page'] = 'Viestej&auml; per sivu';
@@ -222,9 +224,7 @@ $Definition['Current Theme'] = 'Nykyinen teema';
 
 $Definition['Decline'] = 'Hylk&auml;&auml;';
 $Definition['Default'] = 'Oletus';
-
 $Definition['default'] = 'oletus';
-
 $Definition['Default Category Permissions'] = 'Kategorian oletusoikeudet';
 $Definition['Default Locale'] = 'Oletus kielitiedosto';
 $Definition['Default Roles'] = 'Oletusroolit';
@@ -253,9 +253,7 @@ $Definition['Disable OpenID'] = 'Poista OpenID k&auml;yt&ouml;st&auml;';
 $Definition['Disable Signatures'] = 'Poista allekirjoitukset k&auml;yt&ouml;st&auml;.';
 $Definition['Disable Tagging'] = 'Ota taggays pois k&auml;yt&ouml;st&auml;';
 $Definition['Discussion & Comment Editing'] = 'Keskusteluiden ja viestien muokkaus';
-
 $Definition['discussion(s)'] = 'keskustelu(a)';
-
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Keskustelujen jaottelu kategorioihin on suunniteltu helpottamaan forumisi yleist&auml; k&auml;ytt&ouml;kokemusta, keskustelujen seurantaa ja niihin osallistumista. Kategorioiden luomisessa kohtuus on kuitenkin suositeltavaa.';
 $Definition['Discussions Layout'] = 'Keskustelut-sivun ulkoasu';
 $Definition['Discussions per Page'] = 'Keskusteluja per sivu';
@@ -267,13 +265,12 @@ $Definition['Don\'t Refresh'] = '&Auml;l&auml; p&auml;ivit&auml;';
 $Definition['Don\'t use Categories'] = '&Auml;l&auml; k&auml;yt&auml; kategorioita';
 $Definition['Do not display the categories in the side panel.'] = '&Auml;l&auml; listaa kategorioita sivupaneelissa.';
 $Definition['Download Locale List'] = 'Lataa kielitiedostojen listaus';
-$Definition['DownloadLocalePack'] = 'Lataa';
 $Definition['Download Locale Pack'] = 'Lataa kielitiedostopaketti';
+$Definition['DownloadLocalePack'] = 'Lataa';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Raahaa ja pudota kategoriat haluamaasi j&auml;rjestykseen. ';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Raahaa ja pudota kategorioita alla haluamaasi j&auml;rjestykseen. ';
 
 $Definition['edit'] = 'muokkaa';
-
 $Definition['Edit %s'] = 'Muokkaa %s';
 $Definition['Edit/Delete Log'] = 'Muokkaa/poista lokeja';
 $Definition['Edit Category'] = 'Muokkaa forumia';
@@ -318,6 +315,7 @@ $Definition['Every Page'] = 'Kaikilla sivuilla';
 $Definition['Everything is ok.'] = 'Kaikki kunnossa.';
 $Definition['Exclude archived discussions from the discussions list'] = '&Auml;l&auml; n&auml;yt&auml; arkistoituja keskusteluja keskusteluiden p&auml;&auml;n&auml;kym&auml;ss&auml;.';
 $Definition['Existing members send invitations to new members.'] = 'Nykyiset j&auml;senet voivat kutsua uusia j&auml;seni&auml; kutsu-toiminnallisuudella.';
+$Definition['Exit Preview'] = 'Poistu esikatselusta';
 
 $Definition['Facebook Settings'] = 'Facebook Connectin asetukset';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Yhdist&auml;minen tietokantaan ep&auml;onnistui antamallasi k&auml;ytt&auml;j&auml;tunnuksella ja salasanalla. Tarkista tiedot ainakin kirjoitusvirheiden osalta. Tietokannan vastaus:  <code>%s</code>';
@@ -329,6 +327,7 @@ $Definition['FileUpload is currently ON'] = 'Tiedostojen siirto on <strong>k&aum
 $Definition['Finished'] = 'Valmis';
 $Definition['First Visit'] = 'Ensimm&auml;inen k&auml;ynti';
 $Definition['Flood Control'] = 'Floodauksen asetukset';
+$Definition['Force the forum to only be accessible through this url'] = 'Pakota foorumille pääsy vain tämän linkin kautta';
 $Definition['Forum Settings'] = 'Forumin asetukset';
 $Definition['Frequency'] = 'Toistuvuus';
 
@@ -348,10 +347,9 @@ $Definition['Get More Plugins'] = 'Hanki lis&auml;&auml; lis&auml;osia';
 $Definition['Get More Themes'] = 'Hanki lis&auml;&auml; teemoja';
 $Definition['Getting Started'] = 'Aloittaminen';
 $Definition['Getting Started with Vanilla'] = 'Vanillan k&auml;yt&ouml;n aloittaminen';
-
 $Definition['give'] = 'anna';
-
 $Definition['Give an Badge'] = 'My&ouml;nn&auml; kunniamerkki';
+$Definition['Give me a new account'] = 'Anna uusi tunnus';
 $Definition['Gold Plus'] = 'Kulta Plus';
 $Definition['Google Sign In Settings'] = 'Google Sign In -asetukset';
 $Definition['Guest'] = 'Vieras';
@@ -369,6 +367,7 @@ $Definition['Homepage Title'] = 'Kotisivun otsikko';
 $Definition['How to use themes'] = 'Teemojen k&auml;ytt&auml;minen';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Jos lataat logon banneriin, se korvaa nykyisen palstan julkisella puolella n&auml;ytett&auml;v&auml;n asetetun banneriotsikon.';
+$Definition['If your file is small then just upload it here.'] = 'Jos tiedostosi on pieni, lataa se tänne.';
 $Definition['Import'] = 'Tuo';
 $Definition['Importing to Vanilla'] = 'Tuo Vanillaan';
 $Definition['Inbox Page'] = 'Inbox -sivu';
@@ -387,7 +386,6 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['jsConnect Client Libraries'] = 'jsConnectin asiakaskirjastot';
 $Definition['jsConnect Documentation'] = 'jsConnectin ohjeet';
-
 $Definition['JS Connect Settings'] = 'JS Connectin asetukset';
 
 $Definition['Key Type'] = 'Avaimen tyyppi';
@@ -422,36 +420,30 @@ $Definition['Manage Roles & Permissions'] = 'Roolien & oikeuksien hallinnointi';
 $Definition['Manage Routes'] = 'Reittien hallinta';
 $Definition['Manage Spam'] = 'Roskaviestien hallinta';
 $Definition['Manage Themes'] = 'Teemojen hallinta';
-$Definition['Manage users'] = 'Hallinnoi k&auml;ytt&auml;ji&auml;';
 $Definition['Manage Users'] = 'Hallinnoi k&auml;ytt&auml;ji&auml;';
+$Definition['Manage users'] = 'Hallinnoi k&auml;ytt&auml;ji&auml;';
 $Definition['Manage your Plugins'] = 'Lis&auml;osien hallinnointi';
 $Definition['Managing Categories'] = 'Kategorioiden hallinnasta';
-$Definition['Marking things as not spam will put them back in your forum.'] = 'Sis&auml;ll&ouml;n merkitseminen ei roskaviestiksi siirt&auml;&auml; sen takaisin n&auml;kyviin forumissa.';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Sis&auml;ll&ouml;n merkitseminen EI roskaviestiksi siirt&auml;&auml; sen takaisin n&auml;kyviin forumissa.';
+$Definition['Marking things as not spam will put them back in your forum.'] = 'Sis&auml;ll&ouml;n merkitseminen ei roskaviestiksi siirt&auml;&auml; sen takaisin n&auml;kyviin forumissa.';
 $Definition['Max Comment Length'] = 'Viestin maksipituus';
 $Definition['Member'] = 'J&auml;sen';
 $Definition['Member roles'] = 'Valitse ne kaikki roolit, joihin uusi/vahvistettu k&auml;ytt&auml;j&auml; kuuluu.';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Voit n&auml;ytt&auml;&auml; yll&auml;pidon viestej&auml; palstallasi muun sis&auml;ll&ouml;n ulkopuolella. Viesteill&auml; voit tiedottaa k&auml;ytt&auml;jille esimerkiksi uusista tapahtumista tai muusta ajankohtaisesta. T&auml;ll&auml; sivulla saat j&auml;rjestetty&auml; viestit drag&droppaamalla ne haluaamasi j&auml;rjestykseen.';
 $Definition['Method'] = 'Tapa';
-
 $Definition['minute(s)'] = 'minuutti(a)';
-
 $Definition['Mixed Layout'] = 'Yhdistetty ulkoasu';
 $Definition['Moderate'] = 'Moderoi';
 $Definition['Moderator'] = 'Moderaattori';
 $Definition['Moderators have permission to edit most content.'] = 'Moderaattoreilla on oikeus muokata suurinta osaa forumin sis&auml;ll&ouml;st&auml;.';
 $Definition['Modern Layout'] = 'Moderni ulkoasu';
 $Definition['Modern non-table-based layout'] = 'Moderni, ei tableihin perustuva ulkoasu';
-
 $Definition['more than %s deep'] = 'enemm&auml;n kuin %s taso';
 $Definition['more than %s levels deep'] = 'enemm&auml;n kuin %s tasoa';
-
 $Definition['My Invitations'] = 'Omat kutsut';
 
 $Definition['Need More Help?'] = 'Lis&auml;&auml; ohjeita?';
-
 $Definition['never'] = 'ei koskaan';
-
 $Definition['Never - Users Must Refresh Page'] = 'Ei koskaan - K&auml;ytt&auml;jien pit&auml;&auml; itse p&auml;ivitt&auml;&auml; n&auml;kym&auml;';
 $Definition['Never display on mobile browsers.'] = '&Auml;l&auml; n&auml;yt&auml; koskaan selattaessa mobiililaitteella.';
 $Definition['NewApplicantEmail'] = 'Uusi hakemus:';
@@ -496,9 +488,7 @@ $Definition['Other Tutorials'] = 'Muut ohjeet';
 $Definition['Outgoing Email'] = 'L&auml;htev&auml; s&auml;hk&ouml;posti';
 
 $Definition['Page'] = 'Sivu';
-
 $Definition['page'] = 'sivu';
-
 $Definition['Panel Box'] = 'Sivupaneelin laatikko';
 $Definition['Password Options'] = 'Salasana-asetukset';
 $Definition['Pending'] = 'Odottaa vahvistusta';
@@ -526,6 +516,8 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Pikaopas Vani
 
 $Definition['Rate of refresh'] = 'P&auml;ivittymisen taajuus';
 $Definition['Re-Register API Key'] = 'Rekister&ouml;i API-avain uudelleen';
+$Definition['Reaction'] = 'Reaktio';
+$Definition['Reaction Types'] = 'Reaktiotyypit';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Vanillan valmis Forum-lis&auml;osa WordPressille';
 $Definition['Recently Active Users'] = 'Viimeksi aktiiviset k&auml;ytt&auml;j&auml;t';
 $Definition['Recent News'] = 'Viimeisimm&auml;t uutiset';
@@ -569,9 +561,7 @@ $Definition['SaveLocalePack'] = 'Tallenna';
 $Definition['Save Translations from a Locale Pack'] = 'Tallenna k&auml;&auml;nn&ouml;kset kielitiedostosta';
 $Definition['Search by user or role.'] = 'Etsi k&auml;ytt&auml;ji&auml; nimell&auml; tai antamalla se rooli, josta haluat kaikki k&auml;ytt&auml;j&auml;t listattavan.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Etsi k&auml;ytt&auml;ji&auml; nimell&auml; tai antamalla se rooli, josta haluat kaikki k&auml;ytt&auml;j&auml;t listattavan.';
-
 $Definition['seconds'] = 'sekuntia';
-
 $Definition['Security'] = 'Turvallisuus';
 $Definition['Select'] = 'Valitse';
 $Definition['Select a %s'] = 'Valitse %s';
@@ -598,9 +588,7 @@ $Definition['SMTP User'] = 'SMTP K&auml;ytt&auml;j&auml;';
 $Definition['Source'] = 'L&auml;hde';
 $Definition['Start Discussions'] = 'Aloita keskusteluja';
 $Definition['Start Import'] = 'Aloita tuonti';
-
 $Definition['starting your first discussion'] = 'aloitetaan ensimm&auml;ist&auml; keskusteluasi';
-
 $Definition['Statistics'] = 'Statistiikat';
 $Definition['Stop Forum Spam Settings'] = 'Roskaviestien hallinnan asetukset';
 $Definition['Styles'] = 'Tyylit';
@@ -610,9 +598,7 @@ $Definition['Success'] = 'Onnistui';
 $Definition['System'] = 'J&auml;rjestelm&auml;';
 
 $Definition['Table Layout'] = 'Table-ulkoasu';
-
 $Definition['take away'] = 'ota pois';
-
 $Definition['Temporary (302)'] = 'Tilap&auml;inen (302)';
 $Definition['Test'] = 'Testi';
 $Definition['Testing'] = 'Testaus';
@@ -623,6 +609,7 @@ $Definition['Thank You!'] = 'Kiitokset!';
 $Definition['The %s badge has already been given to %s.'] = 'Kunniamerkki %s on jo my&ouml;nnetty k&auml;ytt&auml;j&auml;lle %s.';
 $Definition['The %s has been deleted.'] = ' %s on poistettu.';
 $Definition['The %s locale pack does not exist.'] = 'Valittua kielitiedostoa %s ei ole olemassa.';
+$Definition['The addon has already been downloaded.'] = 'Lisäosa on jo ladattu.';
 $Definition['The banner logo appears at the top of your forum.'] = 'Bannerin logo n&auml;kyy sivustosi yl&auml;osassa.';
 $Definition['The banner title appears on the top-left of every page.'] = 'Bannerin otsikko n&auml;kyy sivustosi yl&auml;osassa vasemmalla puolella joka sivulla.';
 $Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Bannerin otsikko n&auml;kyy sivustosi yl&auml;osassa vasemmalla puolella joka sivulla. Jos lataat logon banneriin, se korvaa nykyisen palstan julkisella puolella n&auml;ytett&auml;v&auml;n asetetun banneriotsikon.';
@@ -631,6 +618,10 @@ $Definition['The banner title appears on your site\'s banner and in your browswe
 $Definition['The basic registration form requires that new users copy text from a "Captcha" image to help prevent spam.'] = '<strong>Perus rekister&ouml;itymislomake edellytt&auml;&auml;</strong> ett&auml; uudet k&auml;ytt&auml;j&auml;t kopioivat tekstin "Captcha" -kuvasta, est&auml;&auml;ksemme roskapostittajien rekister&ouml;itymisen. Toiminnallisuus vaatii, ett&auml; luot ensin tilin <a href="http://recaptcha.net/">recaptcha.net</a> -palvelussa. Rekister&ouml;ityminen sinne on ilmaista. Kun olet luonut tilin, palaa takaisin t&auml;nne ja tee seuraavat asetukset:';
 $Definition['The Basics'] = 'Perusteet';
 $Definition['The content you were looking for has been deleted.'] = 'Sis&auml;lt&ouml; jota yritit katsella, on poistettu.';
+$Definition['The homepage was saved successfully.'] = 'Kotisivut tallennettiin onnistuneesti.';
+$Definition['The import file does not contain any data.'] = 'Tuontitiedosto ei sisällä dataa.';
+$Definition['The import file is not in the correct format.'] = 'Tuontitiedosto ei ole oikeassa formaatissa.';
+$Definition['The invitation was removed successfully.'] = 'Kutsu poistettiin onnistuneesti.';
 $Definition['The invitation was sent successfully.'] = 'Kutsun l&auml;hett&auml;minen onnistui.';
 $Definition['ThemeHelp'] = 'Voit muuttaa teemojen avulla sivustosi ulkoasua ja asettelua.<br />Kun uusi teema on lis&auml;ttyn&auml; kansioon %s, voit ottaa sen k&auml;ytt&ouml;&ouml;n t&auml;&auml;ll&auml;.';
 $Definition['Theme Options'] = 'Teeman asetukset';
@@ -641,8 +632,14 @@ $Definition['There are currently no applicants.'] = 'Ei vahvistettavia j&auml;se
 $Definition['There are no items awaiting moderation at this time.'] = 'Moderoinnin jonossa ei ole mit&auml;&auml;n t&auml;ll&auml; hetkell&auml;.';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'Annetulla s&aumlhk&oumlpostiosoiteella l&ouml;ytyy jo k&auml;ytt&aumlj&aumltili. Ole hyv&auml ja kirjaudu olemassaolevalla tunnuksellasi tai luo uusi.';
 $Definition['The route was saved successfully.'] = 'Reitin tallennus onnistui.';
+$Definition['The site is currently undergoing scheduled maintenance.'] = 'Sivustolla on ajastettu huoltotoiminto käynnissä.';
 $Definition['The update was not successful.'] = 'P&auml;ivitys ep&auml;onnistui';
 $Definition['The update was successful.'] = 'P&auml;ivitys onnistui.';
+$Definition['The url that users go to to register for a new account.'] = 'Osoite johon käyttäjät menevät rekisteröidäkseen uuden tunnuksen.';
+$Definition['The url that users use to register for a new account.'] = 'Osoite jota käyttäjät käyttävät rekisteröidäkseen uuden tunnuksen.';
+$Definition['The url that users use to sign in.'] = 'Linkki jota käyttäjät käyttävät kirjautuakseen sisään.';
+$Definition['The URL where users sign in on your site'] = 'URL jossa käyttäjät kirjautuvat sivullesi sisään';
+$Definition['The URL where users sign out of your site'] = 'URL jossa käyttäjät kirjautuvat sivuiltasi ulos';
 $Definition['The user has been created successfully'] = 'Uuden k&auml;ytt&auml;j&auml;n luominen onnistui';
 $Definition['The user has been deleted.'] = 'K&auml;ytt&auml;j&auml; on poistettu.';
 $Definition['The Vanilla 2 Exporter'] = 'Vanilla 2 Vientity&ouml;kalu';
@@ -662,9 +659,7 @@ $Definition['Turn OFF'] = 'Ota pois k&auml;yt&ouml;st&auml;';
 
 $Definition['Unban'] = 'Peru esto';
 $Definition['Uninvite'] = 'Peru kutsu';
-
 $Definition['unknown'] = 'tuntematon';
-
 $Definition['Unlimited'] = 'Rajoittamaton';
 $Definition['Use an SMTP server to send email'] = 'K&auml;yt&auml; s&auml;hk&ouml;postien l&auml;hett&auml;miseen SMTP-serveri&auml;';
 $Definition['Use Categories'] = 'K&auml;yt&auml; kategorioita';
@@ -733,10 +728,3 @@ $Definition['You must specify an admin username.'] = 'M&auml;&auml;rit&auml; adm
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Yll&auml;pito hyv&auml;ksyy manuaalisesti j&auml;senhakemukset. Saat s&auml;hk&ouml;postitse ilmoituksen kun hakemuksesi on k&auml;sitelty. Kiitos rekister&ouml;itymisest&auml;si!';
 $Definition['Your default locale won\'t display properly'] = 'Oletuskielitiedostosi ei toimi vaaditusti';
 $Definition['Your invitations were sent successfully.'] = 'Kutsujen l&auml;hetys onnistui.';
-
-$Definition['[%s] Confirm Your Email Address'] = '[%s] | Vahvista sähköpostiosoitteesi';
-$Definition['[%s] Invitation'] = '[%s] | Kutsu';
-$Definition['[%s] Password Reset'] = '[%s] | Salasanan uudelleenasetus';
-$Definition['[%s] Password Reset Request'] = '[%s] | Salasanan vaihtopyynt&ouml;';
-
-$Definition['_Locale'] = 'Kielitiedosto';

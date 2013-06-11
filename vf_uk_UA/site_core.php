@@ -8,8 +8,8 @@ $Definition['%s comment'] = '%s коментар';
 $Definition['%s comments'] = '%s коментарів';
 $Definition['%s message'] = '%s повідомлення';
 $Definition['%s messages'] = '%s повідомлень';
-$Definition['%s new'] = '%s нових';
 $Definition['%s New'] = '%s нове';
+$Definition['%s new'] = '%s нових';
 $Definition['%s New Plural'] = '%s нових';
 $Definition['%s new plural'] = '%s нових';
 
@@ -91,9 +91,7 @@ $Definition['Comments'] = 'Коментарі';
 $Definition['Confirm'] = 'Підтвердити';
 $Definition['Confirm Password'] = 'Повторіть пароль';
 $Definition['ConnectName'] = 'Логін';
-
 $Definition['conversation'] = 'бесіду';
-
 $Definition['Create One.'] = 'Зареєструйтесь.';
 
 $Definition['Dashboard'] = 'Консоль';
@@ -192,8 +190,8 @@ $Definition['ErrorTermsOfService'] = 'Ви не прийняли правила 
 $Definition['Female'] = 'Жінка';
 $Definition['Forgot?'] = 'Забули?';
 $Definition['Format his'] = 'його';
-$Definition['Format you'] = 'ви';
 $Definition['Format You'] = 'Ви';
+$Definition['Format you'] = 'ви';
 
 $Definition['Garden.Title'] = 'Текст заголовку';
 $Definition['Gender'] = 'Стать';
@@ -204,7 +202,6 @@ $Definition['GuestModule.Message'] = 'Схоже, що Ви тут вперше.
 $Definition['he'] = 'він';
 $Definition['her'] = 'її';
 $Definition['his'] = 'його';
-
 $Definition['Howdy, Stranger!'] = 'Привіт, незнайомець!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Я приймаю <a id="Умови користування" class="Popup" target="terms" href="%s">Умови користування</a>';
@@ -226,10 +223,8 @@ $Definition['Last Active'] = 'Був в';
 $Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLeaveBlank';
 
 $Definition['Male'] = 'Чоловік';
-
-$Definition['message'] = 'повідомлення';
-
 $Definition['Message'] = 'Повідомлення';
+$Definition['message'] = 'повідомлення';
 $Definition['Messages'] = 'Повідомлення';
 $Definition['Most recent by %1$s'] = 'Останнє від %1$s';
 $Definition['My Bookmarks'] = 'Мої закладки';
@@ -264,9 +259,7 @@ $Definition['Original'] = 'Оригінал';
 $Definition['Password'] = 'Пароль';
 $Definition['Passwords don\'t match'] = 'Паролі не збігаються';
 $Definition['Permalink'] = '#';
-
 $Definition['permalink'] = 'перейти до повідомлення';
-
 $Definition['Permanent (301)'] = 'Постійний (301)';
 $Definition['Position'] = 'Позиція';
 $Definition['Post Comment'] = 'Відправити коментар';
@@ -295,9 +288,7 @@ $Definition['Select an image on your computer (2mb max)'] = 'Виберіть з
 $Definition['Send Message'] = 'Надіслати повідомлення';
 $Definition['Settings'] = 'Налаштуваня';
 $Definition['Share'] = 'Поділитись';
-
 $Definition['she'] = 'вона';
-
 $Definition['Sign In'] = 'Ввійти';
 $Definition['SignIn'] = 'Вхід';
 $Definition['Sign Out'] = 'Вийти';
@@ -364,15 +355,11 @@ $Definition['Write a comment'] = 'Напишіть коментар';
 $Definition['Write Comment'] = 'Написати коментар';
 
 $Definition['You'] = 'Ви';
-
 $Definition['you'] = 'ви';
-
 $Definition['You already have an account here.'] = 'ConnectAccountExists';
 $Definition['You do not have any notifications yet.'] = 'У вас поки що немає сповіщеннь.';
 $Definition['You must agree to the terms of service.'] = 'Ви не прийняли правила користування.';
-
 $Definition['your'] = 'ваш';
-
 $Definition['Your changes have been saved.'] = 'Ваші зміни були збережені.';
 $Definition['Your changes have been saved successfully.'] = 'Ваші зміни були успішно збережені.';
 $Definition['Your changes were saved.'] = 'Ваші зміни були збережені.';

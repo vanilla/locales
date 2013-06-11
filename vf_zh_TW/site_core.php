@@ -11,10 +11,10 @@ $Definition['%s Connect'] = '%s 連接';
 $Definition['%s deleted this conversation.'] = '%s 刪除了該對話';
 $Definition['%s message'] = '%s 訊息';
 $Definition['%s messages'] = '%s 訊息';
-$Definition['%s new'] = '%s 新';
 $Definition['%s New'] = '%s 新';
-$Definition['%s new plural'] = '%s 新';
+$Definition['%s new'] = '%s 新';
 $Definition['%s New Plural'] = '%s 新';
+$Definition['%s new plural'] = '%s 新';
 $Definition['%s said:'] = '%s 說:';
 
 $Definition['1 message'] = '1 訊息';
@@ -63,6 +63,8 @@ $Definition['Add Comment'] = '新增評論';
 $Definition['Add Message'] = '新增公告資訊';
 $Definition['Add People to this Conversation'] = '邀請其他人參與對話';
 $Definition['Add Route'] = '新增路徑';
+$Definition['Administrator Activity'] = '管理員活動';
+$Definition['All Categories'] = '所有分類';
 $Definition['All Conversations'] = '所有對話';
 $Definition['All Discussions'] = '所有討論';
 $Definition['Allow other members to see your email?'] = '其他成員是否可以看到你的 Email 地址';
@@ -72,24 +74,26 @@ $Definition['Announcement'] = '公告';
 $Definition['Applicants'] = '申請者';
 $Definition['Apply for Membership'] = '申請加入';
 $Definition['Are you sure you want to do that?'] = '你確定要這麼做?';
+$Definition['Ask a Question'] = '發表一個討論';
 $Definition['Ask Question'] = '發表討論';
 $Definition['Attach a file'] = '新增文件';
 $Definition['Attachments'] = '附件';
 
 $Definition['Back to Discussions'] = '返回討論';
+$Definition['Back to Profile'] = '返回個人檔案';
 $Definition['Banned'] = '封鎖';
 $Definition['Body'] = '正文';
 $Definition['Bookmark'] = '收藏';
-
 $Definition['bookmarked discussion'] = '收藏的討論';
-
 $Definition['Bookmarked Discussions'] = '收藏的討論';
+$Definition['Bookmarks'] = '收藏';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = '請確保你擁有所上傳的文件的版權, 以及圖片不違反本站的服務條款.';
 
 $Definition['Cancel'] = '取消';
 $Definition['Categories'] = '分類';
 $Definition['Category'] = '分類';
 $Definition['CategoryID'] = '分類';
+$Definition['Category Notifications'] = '分類通知';
 $Definition['Change My Password'] = '修改我的密碼';
 $Definition['Change My Picture'] = '修改我的圖示';
 $Definition['Change Password'] = '修改密碼';
@@ -98,10 +102,8 @@ $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseN
 $Definition['Clear'] = '清除';
 $Definition['Close'] = '關閉';
 $Definition['Closed'] = '已關閉';
-
-$Definition['comment'] = '評論';
-
 $Definition['Comment'] = '評論';
+$Definition['comment'] = '評論';
 $Definition['Comment by %s'] = '被 %s 評論';
 $Definition['Comments'] = '評論';
 $Definition['Confirm'] = '確認';
@@ -110,9 +112,7 @@ $Definition['Confirm Password'] = '確認密碼';
 $Definition['Connect'] = '連接';
 $Definition['ConnectCreateAccount'] = '新增資訊 &amp; 建立帳號';
 $Definition['ConnectName'] = '帳號';
-
 $Definition['conversation'] = '對話';
-
 $Definition['Create One.'] = '建立一個.';
 
 $Definition['Dashboard'] = '控制面板';
@@ -123,9 +123,7 @@ $Definition['Delete'] = '刪除';
 $Definition['Delete Account'] = '刪除帳號';
 $Definition['Delete Conversation'] = '刪除對話';
 $Definition['Delete Discussion'] = '刪除討論';
-
 $Definition['discussion'] = '討論';
-
 $Definition['Discussions'] = '討論';
 $Definition['Discussion Title'] = '討論主題';
 $Definition['Dismiss'] = '忽略公告';
@@ -137,9 +135,11 @@ $Definition['Edit'] = '編輯';
 $Definition['Edit Account'] = '編輯帳號';
 $Definition['Edit Discussion'] = '編輯討論';
 $Definition['Edit My Account'] = '編輯我的帳號';
+$Definition['Edit My Profile'] = '編輯我的個人檔案';
 $Definition['Edit My Thumbnail'] = '編輯我的圖示';
 $Definition['Edit Preferences'] = '編輯偏好設定';
 $Definition['Edit Thumbnail'] = '編輯圖示';
+$Definition['Email/Username'] = '電子信箱/帳號';
 $Definition['EmailInvitation'] = '你好!
 
 	%1$s 邀請你加入 %2$s. 歡迎點擊下面的連結加入:
@@ -217,6 +217,8 @@ $Definition['ErrorRecordNotFound'] = '你找尋的資料不存在';
 $Definition['ErrorTermsOfService'] = '你必須同意服務條款.';
 
 $Definition['Female'] = '女';
+$Definition['Filename'] = '檔案名稱';
+$Definition['File Size'] = '檔案大小';
 $Definition['Follow'] = '訂閱';
 $Definition['Follow %s'] = '訂閱 %s';
 $Definition['Followed by %d people'] = '有 %d 人訂閱';
@@ -239,7 +241,6 @@ $Definition['GuestModule.Message'] = '點下面的按鈕可以加入我們！';
 $Definition['he'] = '他';
 $Definition['her'] = '她的';
 $Definition['his'] = '他的';
-
 $Definition['Howdy, Stranger!'] = '你好, 新朋友！';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '我同意 <a id="TermsOfService" class="Popup" target="terms" href="%s">服務條款</a>';
@@ -262,15 +263,14 @@ $Definition['Keep User Content'] = 'UserKeep';
 
 $Definition['Last Active'] = '最後活動';
 $Definition['Last IP'] = '上次登入IP';
+$Definition['Leave a Comment'] = '發表評論';
 $Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLeaveBlank';
 $Definition['Login with Facebook'] = '使用 Facebook 登入';
 
 $Definition['Male'] = '男';
 $Definition['Mark All Viewed'] = '標記所有為已讀';
 $Definition['Message'] = '公告資訊';
-
 $Definition['message'] = '訊息';
-
 $Definition['Messages'] = '公告資訊';
 $Definition['More Discussions'] = '更多討論';
 $Definition['More Results'] = '更多結果';
@@ -314,12 +314,11 @@ $Definition['PasswordRequest'] = '你好 %1$s,
 
 	  如果你並沒有提出過，請忽略這封信提到的資訊';
 $Definition['Passwords don\'t match'] = '密碼不正確';
-
-$Definition['permalink'] = '永久連結';
-
 $Definition['Permalink'] = '永久連結';
+$Definition['permalink'] = '永久連結';
 $Definition['Permanent (301)'] = '永久移動 (301)';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '頁面切換中，請稍候。如果等待太久，請直接點選 <a href="%s">這裡</a>';
+$Definition['Poll'] = '投票';
 $Definition['Popular'] = '最熱';
 $Definition['Position'] = '位置';
 $Definition['Post Comment'] = '發表評論';
@@ -331,6 +330,7 @@ $Definition['Posts.Singular: %s'] = '文章數: %s';
 $Definition['Posts: %s'] = '文章數: %s';
 $Definition['Powered by Vanilla'] = '以 Vanilla 建置';
 $Definition['Preview'] = '預覽';
+$Definition['Profile'] = '個人檔案';
 $Definition['Profile Picture'] = '個人圖示';
 
 $Definition['Question Title'] = '討論主題';
@@ -340,6 +340,7 @@ $Definition['Recent Activity'] = '最近活動';
 $Definition['Recipients'] = '收件人';
 $Definition['Redirecting...'] = '重定向...';
 $Definition['Register'] = '申請加入';
+$Definition['Register IP'] = '註冊IP';
 $Definition['Register with %s'] = '申請加入';
 $Definition['Remember me on this computer'] = '在這台電腦上記住我';
 $Definition['Remove My Picture'] = '刪除我的圖示';
@@ -348,9 +349,7 @@ $Definition['Reopen'] = '重新打開';
 $Definition['Reply'] = '回覆';
 $Definition['Request a new password'] = '遺忘密碼';
 $Definition['Reset Password'] = '重置密碼';
-
 $Definition['role'] = '角色';
-
 $Definition['RoleID'] = '角色';
 $Definition['Roles'] = '角色';
 
@@ -364,21 +363,17 @@ $Definition['Select an image on your computer (2mb max)'] = '從電腦中選擇�
 $Definition['Send Message'] = '發送訊息';
 $Definition['Settings'] = '設定';
 $Definition['Share'] = '分享';
-
 $Definition['she'] = '她';
-
-$Definition['SignIn'] = '登入';
 $Definition['Sign In'] = '登入';
+$Definition['SignIn'] = '登入';
 $Definition['Sign In with Google'] = '以 Google 帳號登入';
 $Definition['Sign In with OpenID'] = '以 OpenID 帳號登入';
 $Definition['Sign In with Twitter'] = '以 Twitter 帳號登入';
 $Definition['Sign Out'] = '登出';
 $Definition['Sign Up'] = '註冊';
 $Definition['Sink'] = '下沉';
-
 $Definition['somebody'] = '某人';
 $Definition['sorted by'] = '排序依據';
-
 $Definition['Spam'] = '垃圾資訊';
 $Definition['Start a New Conversation'] = '開啟新對話';
 $Definition['Start a New Discussion'] = '開啟新討論';
@@ -420,6 +415,7 @@ $Definition['Type'] = '類型';
 $Definition['Unannounce'] = '取消公告';
 $Definition['Unbookmark'] = '取消訂閱';
 $Definition['Undo Follow'] = '取消訂閱';
+$Definition['Unknown'] = '未知的';
 $Definition['Unsink'] = '取消下沉';
 $Definition['Upload'] = '上傳';
 $Definition['Uploading...'] = '正在上傳...';
@@ -448,9 +444,7 @@ $Definition['Write Comment'] = '新評論';
 $Definition['Write something about yourself...'] = '寫點關於你自己的東西吧...';
 
 $Definition['You'] = '你';
-
 $Definition['you'] = '你';
-
 $Definition['You already have an account here.'] = '你在這裡已經有帳號了.';
 $Definition['You are connected as %s through %s.'] = '你以 %s 連結中，透過 %s.';
 $Definition['You do not have any conversations.'] = '你沒有參與任何對話.';
@@ -458,9 +452,7 @@ $Definition['You do not have any drafts.'] = '你沒有任何草稿.';
 $Definition['You do not have any notifications yet.'] = '你沒有任何訊息.';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = '你已經在 %2$s 秒內發貼 %1$s 次, 為防止惡意灌水, 請等待 %3$s 秒後再重新文章.';
 $Definition['You must agree to the terms of service.'] = '你必須同意服務條款.';
-
 $Definition['your'] = '你的';
-
 $Definition['Your changes have been saved.'] = '你所做的改動已儲存.';
 $Definition['Your invitation has been sent.'] = '你的邀請已經發送';
 $Definition['Your preferences have been saved.'] = '你的偏好設定已儲存';

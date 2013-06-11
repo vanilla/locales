@@ -8,6 +8,8 @@ $Definition['1 week after being sent'] = '1 tydzień po wysłaniu';
 
 $Definition['2 weeks after being sent'] = '2 tygodnie po wysłaniu';
 
+$Definition['_Locale'] = 'Lokalizacja';
+
 $Definition['Accepted'] = 'Zaakceptowane';
 $Definition['Action'] = 'Akcja';
 $Definition['Add Info &amp; Create Account'] = 'Dodaj informacje i utwórz konto';
@@ -39,9 +41,7 @@ $Definition['Check all permissions that apply for each role'] = 'Sprawdź wszyst
 $Definition['Choose a locale pack'] = 'Wybierz pakiet lokalizacyjny';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'Wybierz i skonfiguruj schemat uwierzytelniania na forum.';
 $Definition['Choose who can send out invitations to new members:'] = 'Wybierz kto może wysyłać zaproszenia do nowych członków:';
-
 $Definition['comment(s)'] = 'komentarz(e)';
-
 $Definition['Comments per Page'] = 'Komentarzy na stronę';
 $Definition['Condition Type'] = 'Wpisz';
 $Definition['Configure an Authenticator'] = 'Konfiguruj uwierzytelnianie';
@@ -59,13 +59,10 @@ $Definition['Disable'] = 'Wyłącz';
 $Definition['Disable Google Sign In'] = 'Wyłącz logowanie w Google';
 $Definition['Disable OpenID'] = 'Wyłącz OpenID';
 $Definition['Discussion & Comment Editing'] = 'Edycja dyskusji i komentarzy';
-
 $Definition['discussion(s)'] = 'dyskusja(e)';
-
 $Definition['Discussions per Page'] = 'Dyskusji na stronę';
 
 $Definition['edit'] = 'edytuj';
-
 $Definition['Edit Category'] = 'Edytuj kategorię';
 $Definition['EditContentTimeout.Notes'] = 'Uwaga: Jeśli użytkownik jest w roli, która uprawnia do edycji treści, te uprawnienia nadpiszą każdą wartość zaznaczoną tutaj.';
 $Definition['Edit User'] = 'Edytuj użytkownika';
@@ -121,13 +118,10 @@ $Definition['Member'] = 'Całonek';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Wiadomości mogą pojawić się gdziekolwiek w aplikacji, i mogą być wykorzystywane do informowania użytkowników o nowościach i wydarzeniach. Użyj tej strony do ponownego uporządkowania wiadomości, przeciągając je w górę lub w dół.';
 $Definition['Messages can appear anywhere in your application.'] = 'Wiadomości mogą pojawić się gdziekolwiek w aplikacji, i mogą być wykorzystywane do informowania użytkowników o nowościach i wydarzeniach. Użyj tej strony do ponownego uporządkowania wiadomości, przeciągając je w górę lub w dół.';
 $Definition['Method'] = 'Metoda';
-
 $Definition['minute(s)'] = 'minuta(y)';
-
 $Definition['My Invitations'] = 'Moje zaproszenia';
 
 $Definition['never'] = 'nigdy';
-
 $Definition['New comments in the last day'] = 'Nowe komentarze w ciągu ostatniego dnia';
 $Definition['New comments in the last week'] = 'Nowe komentarze w ciągu ostatniego tygodnia';
 $Definition['New conversations in the last day'] = 'Nowe konwersacje w ciągu ostatniego dnia';
@@ -173,9 +167,7 @@ $Definition['Routes can be used to redirect users to various parts of your site 
 
 $Definition['Saved'] = 'Zmiany zostały zapisane.';
 $Definition['SaveLocalePack'] = 'Zapisz';
-
 $Definition['seconds'] = 'sekundy';
-
 $Definition['Select the file to import'] = 'Wybierz plik do zaimportowania';
 $Definition['Send %s a Message'] = 'Wyślij %s wiadomość';
 $Definition['Sent To'] = 'Wyślij do';
@@ -206,10 +198,8 @@ $Definition['Users'] = 'Użytkownicy';
 
 $Definition['Vanilla.Archive.Description'] = 'Możesz wybrać archiwum forum dyskusyjnego starsze niż określona data. Zarchiwizowane dyskusje są definitywnie zamknięte, dzięki czemu nie zawierają nowych postów.';
 $Definition['Version'] = 'Wersja';
-
-$Definition['version %s'] = 'wersja %s';
-
 $Definition['Version %s'] = 'Wersja %s';
+$Definition['version %s'] = 'wersja %s';
 $Definition['View'] = 'Widok';
 
 $Definition['Warning'] = 'Ostrzeżenie';
@@ -224,5 +214,3 @@ $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Nie możesz wyłączyć plugina OpenID ponieważ jest wymagany do funkcjonowania plugina GoogleSignIn.';
 $Definition['You can place files in your /uploads folder.'] = 'Jeśli plik jest zbyt duży do bezpośredniego uploadu na stronie możesz umieścić go w folderze /uploads. Upewnij się, że nazwa pliku zaczyna się od słowa  <b>export</b> i kończy rozszerzeniem: <b>.txt, .gz</b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Twoje zgłoszenie zostanie sprawdzone przez administratora. Zostaniesz powiadomiony przez e-mail, jeśli zgłoszenie zostanie przyjęte.';
-
-$Definition['_Locale'] = 'Lokalizacja';

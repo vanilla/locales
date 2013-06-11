@@ -8,6 +8,8 @@ $Definition['1 week after being sent'] = '1 седмица след изпращ
 
 $Definition['2 weeks after being sent'] = '2 седмици след изпращането';
 
+$Definition['_Locale'] = 'Локал';
+
 $Definition['Accepted'] = 'Прието';
 $Definition['Action'] = 'Действие';
 $Definition['Add Info &amp; Create Account'] = 'Добавяне на информация &amp; Създаване на акаунт';
@@ -37,9 +39,7 @@ $Definition['Category Url:'] = 'Url на категорията:';
 $Definition['Change the way that new users register with the site.'] = 'Променете начина на регистрация за нови потребители.';
 $Definition['Choose a locale pack'] = 'Изберете езиков пакет';
 $Definition['Choose who can send out invitations to new members:'] = 'Изберете кой може да изпраща покани към нови членове:';
-
 $Definition['comment(s)'] = 'коментар(а)';
-
 $Definition['Comments per Page'] = 'Коментара на страница';
 $Definition['Condition Type'] = 'Тип';
 $Definition['Consumer Key'] = 'Потребителски ключ';
@@ -54,13 +54,10 @@ $Definition['Disable'] = 'Изключване';
 $Definition['Disable Google Sign In'] = 'Изключване на вписването с Google';
 $Definition['Disable OpenID'] = 'Изключване на вписването с OpenID';
 $Definition['Discussion & Comment Editing'] = 'Редактиране на дискусии и коментари';
-
 $Definition['discussion(s)'] = 'дискусия(дискусии)';
-
 $Definition['Discussions per Page'] = 'Дискусии на страниця';
 
 $Definition['edit'] = 'редактиране';
-
 $Definition['Edit Category'] = 'Редактиране на категория';
 $Definition['EditContentTimeout.Notes'] = 'Бележка: Ако потребител е в роля, която му позволява да редактира съдържание, то правата избрани тук ще бъдат игнорирани и вместо тях ще бъдат приложени правата на съответната група.';
 $Definition['Edit User'] = 'Редактиране на потребител';
@@ -118,14 +115,11 @@ $Definition['Max Comment Length'] = 'Максимална дължина на к
 $Definition['Member'] = 'Член';
 $Definition['Messages can appear anywhere in your application.'] = 'Съобщенията могат да се показват навсякъде във форума. Може да ги използвате за да уведомите потребителите за новини или предстоящи събития. Използвайте тази страница да подредите Вашите съобщения, като ги завлачвате вна желаното от Вас място.';
 $Definition['Method'] = 'Метод';
-
 $Definition['minute(s)'] = 'минута/и';
-
 $Definition['Moderator'] = 'Модератор';
 $Definition['My Invitations'] = 'Моите покани';
 
 $Definition['never'] = 'никога';
-
 $Definition['New comments in the last day'] = 'Нови коментари за последния ден';
 $Definition['New comments in the last week'] = 'Нови коментари за последната седмица';
 $Definition['New conversations in the last day'] = 'Нови разговори за последния ден';
@@ -172,9 +166,7 @@ $Definition['Routes'] = 'Маршрути';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Маршрутите могат да се използват за пренасочване на потребителите към различни части на форума в зависимост от URL адреса.';
 
 $Definition['SaveLocalePack'] = 'Запазване';
-
 $Definition['seconds'] = 'секунди';
-
 $Definition['Select the file to import'] = 'Изберете файл';
 $Definition['Send %s a Message'] = 'Изпратете съобщение на %s';
 $Definition['Sent To'] = 'Изпратено до';
@@ -208,9 +200,7 @@ $Definition['Users'] = 'Потребители';
 $Definition['Vanilla.Archive.Description'] = 'Може да изберете да архивирате дискусии по-стари от определена дата. Архивираните дискусии се затварят и не е възможно публикуването на нови мнения.';
 $Definition['Version'] = 'Версия';
 $Definition['Version %s'] = 'Версия %s';
-
 $Definition['version %s'] = 'версия %s';
-
 $Definition['View'] = 'Преглед';
 
 $Definition['Warning'] = 'Внимание';
@@ -222,5 +212,3 @@ $Definition['Within'] = 'в';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Ако по някаква причина се окажете заключени извън форума, винаги можете да влезете с оригиналните e-mail и парола Vanilla email and password  <a href="%1$s">%1$s</a>';
 $Definition['You can place files in your /uploads folder.'] = 'Ако вашият файл е твърде голям,да hf качите директно към тази страница можете да го поставите в папката /uploads. Уверете се, че името на файла започва с думата <b>export</b> и завършва с <b>.txt, .gz</b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Кандидатурата Ви за членство ще бъде разгледана от администратор. Ще бъдете уведомени чрез е-мейл, ако кандидатурата Ви бъде одобрена.';
-
-$Definition['_Locale'] = 'Локал';

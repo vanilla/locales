@@ -25,8 +25,8 @@ $Definition['%s Agrees'] = '%s sutinka';
 $Definition['%s and you'] = '%s ir jūs';
 $Definition['%s Awesomes'] = '%s manymu nuostabus atsakymas';
 $Definition['%s changed %s\'s permissions.'] = '%s pakeite %s\' teises.';
-$Definition['%s comment'] = '%s komentaras';
 $Definition['%s Comment'] = '%s komentaras';
+$Definition['%s comment'] = '%s komentaras';
 $Definition['%s Comments'] = '%s komentarai';
 $Definition['%s comments'] = '%s komentarai';
 $Definition['%s Connect'] = '%s Prijungti';
@@ -40,8 +40,8 @@ $Definition['%s Likes'] = '%s m4gsta';
 $Definition['%s mentioned %s in a %s.'] = '%s paminėjo  %s  %s.';
 $Definition['%s message'] = '%s žinutė';
 $Definition['%s messages'] = '%s žinutės';
-$Definition['%s new'] = '%s nauja';
 $Definition['%s New'] = '%s Naujų';
+$Definition['%s new'] = '%s nauja';
 $Definition['%s new comment since you last read this.'] = '%s naujas komentaras nuo paskutinio prisijungimo.';
 $Definition['%s new comments since you last read this.'] = '%s nauji komentarai nuo paskutinio prisijungimo.';
 $Definition['%s New Plural'] = '%s naujų žinučių';
@@ -71,6 +71,10 @@ $Definition[' - Page %s'] = '- Puslapis %s';
 $Definition['1 message'] = 'viena žinutė';
 
 $Definition['<General Error>'] = '<Bendro pobūdžio klaida>';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] narystė patvirtinta';
+$Definition['[%s] Welcome Aboard!'] = '[%s] Sveiki atvykę!';
+$Definition['[Deleted User]'] = '[Pašalintas narys]';
 
 $Definition['About'] = 'Apie';
 $Definition['Abuse'] = 'Neteisingas vartojimas';
@@ -134,9 +138,7 @@ $Definition['Add People to this Conversation'] = 'Prijungti vartotojus prie šio
 $Definition['Add Route'] = 'Pridėti maršrutą';
 $Definition['Admin'] = 'Administratorius';
 $Definition['Administrator Activity'] = 'Administracijos veiksmas';
-
 $Definition['administrators'] = 'administratoriai';
-
 $Definition['Advanced Stuff'] = 'Sudėtingesnės funkcijos';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Įvyko kritinė klaida atsakant į užklausą.  Serverio atsakymas:  %s';
 $Definition['Agree'] = 'Sutinku';
@@ -156,15 +158,13 @@ $Definition['Announce...'] = 'Pranešk...';
 $Definition['Announcement'] = 'Skelbimas';
 $Definition['Announcements'] = 'Pranešimai';
 $Definition['Announce this discussion'] = 'Priskirk šią temą prie išskirtinių';
-
-$Definition['answer'] = 'atsakymas';
-
 $Definition['Answer'] = 'Atsakyti';
+$Definition['answer'] = 'atsakymas';
 $Definition['Answers'] = 'Atsakymai';
 $Definition['Applicants'] = 'Pareiškėjai';
 $Definition['Apply Changes'] = 'Išsaugoti nustatymus';
-$Definition['Apply for membership'] = 'Prašyti narystės';
 $Definition['Apply for Membership'] = 'Užsiregistruok';
+$Definition['Apply for membership'] = 'Prašyti narystės';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Ar TIKRAI nori atlikti šį veiksmą?';
 $Definition['Are you sure you want to delete this %s?'] = 'Ar esi tikras, kad nori pašalinti  %s?';
 $Definition['Are you sure you want to do that?'] = 'Ar tu tikrai nori tai padaryti?';
@@ -176,9 +176,7 @@ $Definition['Attach a file'] = 'Pridėti failą';
 $Definition['Attachments'] = 'Priedai';
 $Definition['AttemptingSignOut'] = 'Bandai atsijungti, ar tikrai  nori %s? ';
 $Definition['Authenticate URL'] = 'Autentikavimo URL';
-
 $Definition['available'] = 'Pasiekiama';
-
 $Definition['Awaiting Moderation'] = 'Laukia moderacijos';
 $Definition['Awesome'] = 'Nuostabu';
 
@@ -206,21 +204,13 @@ $Definition['Blank Discussion Topic'] = 'Tuščias diskusijos pavadnimas';
 $Definition['Blank Message'] = 'Tuščia žinutė';
 $Definition['Body'] = 'Pranešimo tekstas';
 $Definition['Bookmark'] = 'Įrašyti į adresyną';
-
 $Definition['bookmarked discussion'] = 'Pažymėtos temos';
-
 $Definition['Bookmarked Discussions'] = 'Tavo skirtukai';
-
-$Definition['bookmarks'] = 'adresynas';
-
 $Definition['Bookmarks'] = 'Adresynas';
-
-$Definition['by'] = 'nuo';
-
+$Definition['bookmarks'] = 'adresynas';
 $Definition['By'] = 'Nuo';
-
+$Definition['by'] = 'nuo';
 $Definition['by Date'] = 'pagal datą';
-
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Įkeldamas failą tu patvirtini, kad turi teisę platinti šį failą ir tai nepažeidžia naudojimo taisyklių.';
 
 $Definition['Cancel'] = 'Atsisakyti';
@@ -248,24 +238,18 @@ $Definition['Choose a name to identify yourself on the site.'] = 'Pasirinkti reg
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'Pasirinkti pagrindinę diskusiją, kurioje bus sujungti visi komentarai';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'Pasirinkti, ar norima paklausti, ar pradėti diskusiją';
 $Definition['Clear'] = 'Išvalyti';
-
 $Definition['clear'] = 'išvalyti';
-
 $Definition['Clear Conversation History'] = 'Išvalyti pokalbio istoriją';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'Spausti <a href="%s"> čia </a> , jei norima grįžti į diskusiją.';
 $Definition['Click accept or reject beside an answer.'] = 'Atsakyti į klausimą pasirinkat „patvirtinti“ arba „atmesti“';
-
 $Definition['clicking here'] = 'spausti čia';
-
 $Definition['Click the %s beside discussions to bookmark them.'] = 'Pažymėti skirtuku spaudžiant %s diskusijos šalia ';
 $Definition['Close'] = 'Užverti';
 $Definition['Closed'] = 'Uždaryta';
 $Definition['Close this discussion'] = 'Uždaryti šią diskusiją';
 $Definition['Combo Breaker'] = 'Junginys';
-
-$Definition['comment'] = 'Komentaras';
-
 $Definition['Comment'] = 'Komentuok';
+$Definition['comment'] = 'Komentaras';
 $Definition['Comment As ...'] = 'Komentuoti registracijos vardu ...';
 $Definition['Comment by %s'] = '%s komentaras';
 $Definition['Commenting as %1$s (%2$s)'] = 'Komentuojama kaip  %1$s <span class="SignOutWrap">(%2$s)</span>
@@ -287,9 +271,7 @@ $Definition['Connection'] = 'Jungtis';
 $Definition['ConnectLeaveBlank'] = 'Palik tuščią jei jungiesi prie egzistuojančios paskyros.';
 $Definition['ConnectName'] = 'Registracijos vardas';
 $Definition['ConnectRegisteredName'] = 'Tavo naudotojo vardas: <strong>%s</strong>';
-
 $Definition['conversation'] = 'Dialogai';
-
 $Definition['Core'] = 'Branduolys';
 $Definition['Create Discussions'] = 'Sukurti diskusiją';
 $Definition['Create One.'] = 'Sukurk naują';
@@ -297,9 +279,7 @@ $Definition['Current'] = 'Dabartinis';
 $Definition['Currently: '] = 'Šiuo metu:';
 $Definition['Custom Information'] = 'Papildoma informacija';
 $Definition['Customize'] = 'Redaguoti';
-
 $Definition['customize your profile now'] = 'Redaguoti savo profilį';
-
 $Definition['Customize your Public Profile'] = 'Redaguoti savo viešą profilį';
 $Definition['Custom Profile Fields'] = 'Papildomi profilio laukeliai';
 $Definition['Custom Profile Field Settings'] = 'Nustatymai apie  papildomus profilio laukelius';
@@ -309,9 +289,7 @@ $Definition['Dashboard Home'] = 'Valdymo pulto pradinis puslapis';
 $Definition['Dashboard Summaries'] = 'Valdymo pulto pagrindiniai duomenys';
 $Definition['Date'] = 'Data';
 $Definition['Date Added'] = 'Pridėta';
-
 $Definition['days'] = 'dienos';
-
 $Definition['Define Thumbnail'] = 'Spausk ant nuotraukos ir apibrėžk sritį, kad būtų nukopijuota norima dalis';
 $Definition['Delete'] = 'Šalinti';
 $Definition['Delete %s'] = 'Pašalinti %s';
@@ -324,9 +302,7 @@ $Definition['Delete User Forever'] = 'Pašalinti vartotoją galutinai';
 $Definition['Did this answer the question?'] = 'Ar tai buvo atsakymas į klausimą?';
 $Definition['Disagree'] = 'Nesutikti';
 $Definition['Discussion'] = 'Diskusija';
-
 $Definition['discussion'] = 'diskusija';
-
 $Definition['Discussions'] = 'Diskusijos';
 $Definition['Discussions Page'] = 'Diskusijų puslapis';
 $Definition['Discussion Title'] = 'Diskusijos pavadinimas';
@@ -416,8 +392,8 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Čia - visa istorija</a></p><div class="ClearFix"></div></div>';
 $Definition['English'] = 'Anglų kalba';
-$Definition['Enter your email address'] = 'Įvesk savo el. pašto adresą';
 $Definition['Enter your Email address'] = 'Įvesk savo el. pašto adresą';
+$Definition['Enter your email address'] = 'Įvesk savo el. pašto adresą';
 $Definition['Enter your Email address or username'] = 'Pateik savo el. pašto adresą arba prisijungimo vardą';
 $Definition['Enter Your OpenID Url'] = 'Įvesk savo  OpenID Url \'ą';
 $Definition['Erase User Content'] = 'Ištrini vartotojo žinutes';
@@ -430,9 +406,7 @@ $Definition['ErrorPluginEnableRequired'] = 'Prieš  įjungiant šį įskiepį (p
 $Definition['ErrorPluginVersionMatch'] = 'Įjungtas {0} įskiepis (plugin)  (version {1}) neatitiko versijos reikalavimų ({2}).';
 $Definition['ErrorRecordNotFound'] = 'Ieškomo įrašo nerasta';
 $Definition['ErrorTermsOfService'] = 'Privalai sutikti su naudojimo taisyklėmis';
-
 $Definition['everyone'] = 'visi';
-
 $Definition['Everything'] = 'Viskas';
 $Definition['Expired'] = 'Išnyko';
 $Definition['Expires'] = 'Baigs galioti';
@@ -442,8 +416,8 @@ $Definition['Failed to load the poll.'] = 'Apklausos sukūrimas nepavyko';
 $Definition['Feedback'] = 'Atsiliepimas';
 $Definition['Female'] = 'Moteris';
 $Definition['Fifth Anniversary'] = 'Penktos metinės';
-$Definition['Filename'] = 'Failo pavadinimas';
 $Definition['FileName'] = 'Failo pavadinimas';
+$Definition['Filename'] = 'Failo pavadinimas';
 $Definition['File Size'] = 'Failo dydis';
 $Definition['FileSize'] = 'Failo dydis';
 $Definition['First Anniversary'] = 'Vienerių metų jubiliejus';
@@ -483,9 +457,7 @@ $Definition['Go'] = 'Ieškok';
 $Definition['GuestModule.Message'] = 'Atrodo, kad užsukai čia pirmą sykį. Jei nori prisijungti - spausk vieną iš šių mygtukų!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Lukterėk, pakol būsi atjungtas';
-
 $Definition['he'] = 'Jis';
-
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} gavo <a href="{Url,html}">{Data.Name,text}</a> medalį.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} suspenduotas {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} komentavo <a href="{Url,html}">{Data.Name,text}</a>';
@@ -496,27 +468,19 @@ $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} Pak
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} prisijungė.';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} suspendavimas pašalintas {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} perspėtas {RegardingUserID,you}.';
-
 $Definition['her'] = 'jos';
-
 $Definition['Hide'] = 'Paslėpti';
 $Definition['Hide signatures?'] = 'Paslėpti prierašus?';
 $Definition['Hide signatures always'] = 'Niekada nerodyti prierašų';
 $Definition['Hide signatures on my mobile device'] = 'Nerodyti prierašų mano mobiliam įrenginyje';
-
 $Definition['his'] = 'Jo';
-
 $Definition['Home'] = 'Pradžia';
-
 $Definition['hours'] = 'valandų';
-
 $Definition['Howdy, Stranger!'] = 'Sveikas atvykęs!';
 $Definition['How long do you want this warning to last?'] = 'Kiek šis perspėjimas gali užtrukti?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Sutinku su  <a id="TermsOfService" class="Popup" target="terms" href="%s">naudojimo taisyklėmis</a>';
-
 $Definition['in'] = 'Į';
-
 $Definition['In <b>%s.</b>'] = ' Čia <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Čia <b>%s</b> ir naujose diskusijose.';
 $Definition['Inbox'] = 'Gautos žinutės';
@@ -532,10 +496,8 @@ $Definition['InviteErrorPermission'] = 'Deja, nepakanka teisių';
 $Definition['IPAddress'] = 'IP adresas';
 $Definition['IP Address'] = 'IP adresas';
 $Definition['I remember now!'] = 'Dabar prisiminiau slaptažodį!';
-
-$Definition['item'] = 'įrašas';
-
 $Definition['Item'] = 'Įrašas';
+$Definition['item'] = 'įrašas';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Atrodo, kad esi čia pirmą sykį. Jei nori prisijungti - pasirink vieną iš mygtukų žemiau!';
 
 $Definition['Jail'] = 'Suspendavimas';
@@ -555,8 +517,8 @@ $Definition['Latest %1$s'] = 'Naujausias %1$s
 ';
 $Definition['Latest Post'] = 'Naujausia žinutė';
 $Definition['Leaders'] = 'Vadovai';
-$Definition['Leave a comment'] = 'Komentuoti';
 $Definition['Leave a Comment'] = 'Atsakyk';
+$Definition['Leave a comment'] = 'Komentuoti';
 $Definition['Leave blank unless connecting to an exising account.'] = 'Neužpildyti, jei nenorite prisijungti su jau egzistuojančiu paskyra. ';
 $Definition['Leave Comments'] = 'Komentuoti';
 $Definition['Length'] = 'Ilgis';
@@ -568,31 +530,23 @@ $Definition['Login with Facebook'] = 'Prisijungti per Facebook';
 $Definition['Make me invisible? (Will not show you on the list)'] = 'Paversti mane nematomu? (Nerodyti, kad esi prisijungęs)';
 $Definition['Make this poll anonymous (user votes are not made public).'] = 'Paversti šį balsavimą anoniminiu  ';
 $Definition['Male'] = 'Vyras';
-
-$Definition['markallviewed'] = 'Pažymėti, jog visos žinutės perskaitytos';
-
 $Definition['Mark All Viewed'] = 'Pažymėti, jog viskas perskaityta';
+$Definition['markallviewed'] = 'Pažymėti, jog visos žinutės perskaitytos';
 $Definition['Marking as spam cannot be undone.'] = 'Jei kažką priskirsite brukalams (spamm), tai taip pažymėtos temos/žinutės bus pašalintos galutinai. Šalinti yra gerai, jei norima, kad forumas būtų švarus.';
 $Definition['Mark Read'] = 'Pažymėti, jog perskaityta';
 $Definition['Merge'] = 'Sujungti';
 $Definition['Merge Discussions'] = 'Sujungti diskusijas';
 $Definition['Message'] = 'Žinutė';
-
 $Definition['message'] = 'žinutė';
-$Definition['messages'] = 'žinutės';
-
 $Definition['Messages'] = 'Žinutės';
-
+$Definition['messages'] = 'žinutės';
 $Definition['minutes'] = 'minučių';
-
 $Definition['Moderation'] = 'Valdymas (Moderation)';
 $Definition['Moderation Queue'] = 'Laukiantys patvirtinimo (Moderation Queue)';
 $Definition['Moderator Activity'] = 'Moderatoriaus aktyvumas';
 $Definition['Moderators'] = 'Prižiūrėti';
-
 $Definition['moderators'] = 'moderatoriai';
 $Definition['months'] = 'mėnėsiai';
-
 $Definition['More'] = 'Daugiau';
 $Definition['More Comments'] = 'Daugiau komentarų';
 $Definition['More Discussions'] = 'Daugiau diskusijų';
@@ -611,15 +565,12 @@ $Definition['My Forums'] = 'Mano forumai';
 $Definition['My Preferences'] = 'Mano nuostatos';
 
 $Definition['n/a'] = 'nėra';
-
 $Definition['Name'] = 'Vardas';
 $Definition['Name Dropper'] = 'Vardą paminėjo';
 $Definition['Name Unavailable'] = 'Vardas netinkama';
 $Definition['New Conversation'] = 'Nauja žinutė';
-
-$Definition['new discussion'] = 'naujas';
-
 $Definition['New Discussion'] = 'Nauja diskusija';
+$Definition['new discussion'] = 'naujas';
 $Definition['New Message'] = 'Nauja žinutė';
 $Definition['New Password'] = 'Naujas slaptažodis';
 $Definition['New Poll'] = 'Nauja apklausa';
@@ -642,6 +593,7 @@ $Definition['Notifictions'] = 'Priminimai';
 $Definition['Notify'] = 'Pranešti';
 $Definition['Notify me of private messages.'] = 'Pranešti apie privačias žinutes';
 $Definition['Notify me when a badge is requested.'] = 'Informuoti mane kuomet prašoma ženklelio (badge).';
+$Definition['Notify me when a comment is flagged.'] = 'Pranešti man kuomet komentaras bus pažymėtas.';
 $Definition['Notify me when I am added to private conversations.'] = 'Perspėti mane, kai būsių priskirtas prie privačių pokalbių.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Pranešti, kai komentuojamos temos, kurios yra tarp mano skirtukų.';
 $Definition['Notify me when people comment on my discussions.'] = 'Pranešti, kai komentuojamos mano diskusijos';
@@ -659,16 +611,12 @@ $Definition['OK'] = 'Gerai';
 $Definition['Okay'] = 'Gerai';
 $Definition['Old Password'] = 'Senas slaptažodis';
 $Definition['OldPassword'] = 'Senas slaptažodis';
-
 $Definition['on'] = 'metu';
-
 $Definition['Only show followed categories'] = 'Rodyti tik kategorijas, kurias užsiprenumeravau';
 $Definition['OpenID Settings'] = 'OpenID nustatymai';
 $Definition['Optional Description'] = 'Nebūtinas aprašymas';
 $Definition['Options'] = 'Nustatymai';
-
 $Definition['or'] = 'arba';
-
 $Definition['Organize discussion categories'] = 'Rūšiuoti diskusijų kategorijas';
 $Definition['Organize your Categories'] = 'Rūšiuoti savo kategorijas';
 $Definition['Original'] = 'Originalas';
@@ -688,9 +636,7 @@ $Definition['PasswordRequest'] = 'Kažkas paprašė pakeisti tavo slaptažodį %
 Jei pats nepaprašei pakeisti slaptažodžio - nekreipk dėmėsio į šią žinutę.';
 $Definition['Passwords don\'t match'] = 'Slaptažodžiai nesutampa';
 $Definition['Permalink'] = 'Nuolatinė nuoroda';
-
 $Definition['permalink'] = 'nuolatinė nuoroda';
-
 $Definition['Permanent (301)'] = 'Perkelta (301)';
 $Definition['PermissionErrorMessage'] = 'Tavo teisės nepakankamos šiam puslapiui';
 $Definition['PermissionErrorTitle'] = 'Problema - teisės';
@@ -726,8 +672,8 @@ $Definition['Private Note for Moderators'] = 'Privati žinutė moderatoriams';
 $Definition['Problem with credentials.'] = 'Problema su registracijos vardu / slaptažodžiu';
 $Definition['Proceed'] = 'Tęsti';
 $Definition['Profile'] = 'Profilis';
-$Definition['Profile Fields'] = 'Profilio laukai';
 $Definition['Profile  Fields'] = 'Profilio laukeliai';
+$Definition['Profile Fields'] = 'Profilio laukai';
 $Definition['ProfileFieldsCustomDescription'] = 'Naudok šiuos laukelius sukurti papildomai profilio informacijai sukurti. Galima sukurti tokius laukelius kaip „Šeimynė padėtis“, „Skype“, „Mėgstamas dinozauras“, „Įkalinimo įstaiga“. Būk kūrybingas!';
 $Definition['Profile Page'] = 'Profilio puslapis';
 $Definition['Profile Picture'] = 'Profilio nuotrauka';
@@ -742,10 +688,8 @@ $Definition['Q&A Options'] = 'Kokybės užtikrinimo parinktys';
 $Definition['Q&A Question'] = 'Klausimas';
 $Definition['QnA Accepted Answer'] = 'Atsakymas ✓';
 $Definition['QnA Rejected Answer'] = 'Atmestas atsakymas';
-
-$Definition['question'] = 'klausti';
-
 $Definition['Question'] = 'Klausimas';
+$Definition['question'] = 'klausti';
 $Definition['Question Title'] = 'Klausimo antraštė';
 $Definition['Quote'] = 'Cituoti';
 $Definition['Quote Folding'] = 'Citatų seka';
@@ -763,9 +707,7 @@ $Definition['Reason (optional)'] = 'Priežastis (neprivaloma)';
 $Definition['Recent Activity'] = 'Naujausi įvykiai';
 $Definition['Recent Admin Activity'] = 'Admnistratoriaus naujausi veiksmai';
 $Definition['Recent Discussions'] = 'Naujausios diskusijos';
-
 $Definition['recently'] = 'pastaruoju metu';
-
 $Definition['Recent Moderator Activity'] = 'Moderatoriaus  naujausi veiksmai';
 $Definition['Recent Tutorials'] = 'Naujausios pamokėlės';
 $Definition['Recipients'] = 'Gavėjai';
@@ -796,12 +738,9 @@ $Definition['Request a new password →'] = 'Paprašyti naujo slaptažodžio';
 $Definition['Reset Password'] = 'Anuliuoti slaptažodį';
 $Definition['Revoke'] = 'Anuliuoti';
 $Definition['Revoked badge.'] = 'Atimti medalį';
-
 $Definition['role'] = 'rolė';
-
 $Definition['RoleID'] = 'Rolė';
 $Definition['Roles'] = 'Grupės';
-
 $Definition['roles'] = 'rolės';
 
 $Definition['Save'] = 'Įrašyti';
@@ -820,9 +759,7 @@ $Definition['Security Check'] = 'Apsauginis patikrinimas';
 $Definition['Select an image on your computer (2mb max)'] = 'Pasirinkite paveiksliuką savo kompiuteryje (maksim. 2 mb dydžio )';
 $Definition['Send a New Message'] = 'Išsiųsti naują žinutę';
 $Definition['Send Message'] = 'Siųsti žinutę';
-
 $Definition['sep and'] = 'ir';
-
 $Definition['Set a New Warning Level'] = 'Nustatyti naują perspėjimo lygį';
 $Definition['Set A Password'] = 'Keisti slaptažodį';
 $Definition['Setting'] = 'Parametras';
@@ -830,9 +767,7 @@ $Definition['Settings'] = 'Nustatymai';
 $Definition['Seventh Anniversary'] = 'Septynerių metų jubiliejus';
 $Definition['Share'] = 'Dalintis';
 $Definition['Shared Accounts'] = 'Bendros paskyros';
-
 $Definition['she'] = 'Ji';
-
 $Definition['Shown only on mobile'] = 'Rodyti vien tik mobiliajam įrenginyje';
 $Definition['Show unfollowed categories'] = 'Rodyti kategorijas, kurių neprenumeruoji';
 $Definition['Sign-In URL'] = 'URL prisijungti';
@@ -841,8 +776,8 @@ $Definition['Signature Code'] = 'Prierašas';
 $Definition['Signature invalid.'] = 'Prierašas neteisingas';
 $Definition['Signatures'] = 'Prierašai';
 $Definition['Signature Settings'] = 'Prierašo nustatymai';
-$Definition['Sign In'] = 'Prisijunk';
 $Definition['SignIn'] = 'Prisijungti';
+$Definition['Sign In'] = 'Prisijunk';
 $Definition['SigningOut'] = 'Lukterėk, pakol būsi atjungtas ';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Prisijjunk</a> arba <a href="{RegisterUrl,html}">registruokis</a> norėdamas komentuoti.';
 $Definition['Sign in to vote!'] = 'Prisijunk, jei nori balsuoti';
@@ -853,22 +788,16 @@ $Definition['Sign In with Google'] = 'Prisijunk per Google';
 $Definition['Sign In with OpenID'] = 'Prisijunk per OpenID';
 $Definition['Sign In with Twitter'] = 'Prisijunk per Twitter';
 $Definition['Sign Out'] = 'Atsijunk';
-
 $Definition['sign out'] = 'Atsijunk';
-
 $Definition['Sign Up'] = 'Užsiregistruok';
 $Definition['Sink'] = '„Paskandink“ (sink, t.y. padaryk paskutiniu diskusijoje)';
 $Definition['Sink this discussion'] = 'Pristabdyti šią diskusiją';
 $Definition['Sitemap Settings'] = 'Sitemap nustatymai';
 $Definition['Sixth Anniversary'] = 'Šeštosios metinės';
-
 $Definition['somebody'] = 'Kas nors';
-
 $Definition['Some Code'] = 'Kodo pavyzdys';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Kažkas atsakė į tavo klausimą. Reikia patvrtinti arba atmesti atsakymą.';
-
 $Definition['sorted by'] = 'rūšiavimo principas';
-
 $Definition['Source:'] = 'Šaltinis:';
 $Definition['Spam'] = 'Brukalas';
 $Definition['Spam Queue'] = 'Brukalų eilė';
@@ -911,9 +840,7 @@ $Definition['The conversation has been cleared.'] = 'Ši diskusija ištuštinta'
 $Definition['The email you entered in use by another member.'] = 'El. pašto adresas, kurį pateikei, yra naudojamas kito dalyvio';
 $Definition['The email you have entered is already related to an existing account.'] = 'El. pašto adresas, kurį pateikei, yra jau susietas su kitu registracijos vardu';
 $Definition['The file failed to upload.'] = 'Nepavyko įkelti failo.';
-
 $Definition['their'] = 'jų';
-
 $Definition['The name you entered is already in use by another member.'] = 'Registracijos vardas, kurį pateikei, jau yra naudomas kito nario šiame forume.';
 $Definition['The page you were looking for could not be found.'] = 'Tavo ieškomas puslapis neegzistuoja';
 $Definition['The quote had to be converted from %s to %s.'] = 'Citata buvo konvertuota iš  %s į %s. Kai kurie formatavimo elementai galėjo prapulti.';
@@ -926,9 +853,7 @@ $Definition['There was an error connecting to Facebook'] = 'Jungiantis prie Face
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Failo įkelti  nepavyko - tikriausiai todėl, kad failas per didelis.';
 $Definition['The site is currently undergoing maintenance.'] = 'Forumas tvarkomas';
 $Definition['The uploaded file was too big (max %s).'] = 'Įkeltas failas buvo per didelis  (max %s).';
-
 $Definition['they'] = 'jie';
-
 $Definition['Third Anniversary'] = 'Trečios metinės';
 $Definition['This answer was %s.'] = 'Šis atsaymas buvo %s.';
 $Definition['This answer was Accepted.'] = 'Šis atsakymas tiko.';
@@ -962,9 +887,7 @@ $Definition['Type'] = 'Tipas';
 $Definition['Unannounce'] = 'Pašalinti iš ypatingų grupės';
 $Definition['Unanswered'] = 'Neatsakyta';
 $Definition['Unanswered Questions'] = 'Neatsakyta';
-
 $Definition['unavailable'] = 'nėra';
-
 $Definition['Unban User'] = 'Pašalinti narystės apribojimą';
 $Definition['Unbookmark'] = 'Pašalini iš skirtukų (bookmark)';
 $Definition['Undefined discussion body.'] = 'Diskusija be turinio.';
@@ -1022,9 +945,7 @@ $Definition['Vanilla Statistics'] = 'Vanilla statistika';
 $Definition['Vanilla Statistics Plugin'] = 'Vanilla statistikos įskiepis';
 $Definition['Verified'] = 'Patikrinta';
 $Definition['Verifying your credentials...'] = 'Tikrinama prisijungimo informacija....';
-
 $Definition['via %s'] = 'per  %s';
-
 $Definition['View Badge'] = 'Rodyti medalį';
 $Definition['Views'] = 'Peržiūros';
 $Definition['Visible'] = 'Matomas';
@@ -1036,23 +957,16 @@ $Definition['Votes'] = 'Balsai';
 $Definition['Vote Up'] = 'Balsuoti teigiamai';
 
 $Definition['wall'] = 'siena';
-
 $Definition['Want to take part in this discussion? Click one of these:'] = 'Nori prisijungti prie diskusijos? Spustelėk vieną iš šių:';
 $Definition['Warn'] = 'Įspėti';
 $Definition['Warnings'] = 'Perspėjimas';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} įspėtas {WarnUserID,User} dėl {Points,plural,%s points}.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} įspėtas {WarnUserID,User} dėl {Points,plural,%s points} (just a notice).';
-
 $Definition['was'] = 'buvo';
-
 $Definition['Website'] = 'Svetainė';
-
 $Definition['weeks'] = 'savaitės';
-
 $Definition['Welcome Aboard!'] = 'Sveiki atvykę!';
-
 $Definition['were'] = 'buvo';
-
 $Definition['Where do you want to announce this discussion?'] = 'Kur nori paskelbti apie šią diskusiją?';
 $Definition['Who\'s Online'] = 'Kas prisijungęs';
 $Definition['Whos Online'] = 'Kas prisijungęs';
@@ -1063,10 +977,8 @@ $Definition['Write something about yourself...'] = 'Parašyk ką nors apie save'
 $Definition['WTF'] = 'KPŠ';
 
 $Definition['Yes'] = 'Taip';
-
-$Definition['you'] = 'tu';
-
 $Definition['You'] = 'Tu';
+$Definition['you'] = 'tu';
 $Definition['You\'ve been Jailed.'] = 'Tave pasodino į kalėjimą.';
 $Definition['You already have an account here.'] = 'Tu jau turi paskyrą.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'Tu ruošiesi užblokuoti {User.UserID,user}.';
@@ -1101,9 +1013,7 @@ $Definition['You have to select at least 2 discussions to merge.'] = 'Sujungimui
 $Definition['You must agree to the terms of service.'] = 'Privalai sutikti su naudojimo taisyklėmis';
 $Definition['You need to confirm your email address.'] = 'Privalai patvirtinti savo el. pašto adresą.  Spragtelėk <a href="{/entry/emailconfirmrequest,url}">čia</a> norėdami persiųsti patvirtinimo laišką.';
 $Definition['You need to sign in before you can do this.'] = 'Prieš tai turi prisijungti.';
-
 $Definition['your'] = 'tavo';
-
 $Definition['Your changes have been saved.'] = 'Jūsų pakeitimai buvo išsaugoti.';
 $Definition['Your changes have been saved successfully.'] = 'Tavo pakeitimai buvo sėkmingai išsaugoti.';
 $Definition['Your changes were saved.'] = 'Jūsų pakeitimai buvo išsaugoti.';
@@ -1124,10 +1034,6 @@ $Definition['Your warning was added.'] = 'Tavo įspėjimas buvo pridėtas.';
 $Definition[' You should '] = 'Tu privalai';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} pridėtas {NotifyUserID,you} į <a href="{Url,htmlencode}">conversation</a>.';
-
-$Definition['[%1$s] Membership Approved'] = '[%1$s] narystė patvirtinta';
-$Definition['[%s] Welcome Aboard!'] = '[%s] Sveiki atvykę!';
-$Definition['[Deleted User]'] = '[Pašalintas narys]';
 
 $Definition['↳ No results for \'%s\''] = '↳ Nieko nerasta susijusio su \'%s\'';
 $Definition['↳ Search results for \'%s\''] = '↳ Paieškos rezultatai \'%s\'';

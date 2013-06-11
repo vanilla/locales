@@ -2,7 +2,7 @@
 
 $Definition['%1$s "%2$s" not found.'] = '未找到 %1$s "%2$s"。';
 $Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
-$Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 更新已可用。';
+$Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 可更新。';
 $Definition['%s is not a valid email address'] = '%s 不是有效的电子邮件地址';
 $Definition['%s item in queue'] = '%s 个条目在队列中';
 $Definition['%s level'] = '%s级';
@@ -43,8 +43,14 @@ $Definition['<strong>Categories</strong> allow you to organize your discussions.
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>注意！</strong> 删除用户角色会影响所有用户。';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>注意！</strong> 将讨论移动到其他板块可能导致其消失（或保留），如果移动到的板块有不同的权限或者被删除。';
 
-$Definition['a Badge'] = '一枚徽章';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] 请确认你的邮箱地址';
+$Definition['[%s] Invitation'] = '[%s]邀请';
+$Definition['[%s] Password Reset'] = '[%s]重设密码';
+$Definition['[%s] Password Reset Request'] = '[%s]重设密码请求';
 
+$Definition['_Locale'] = '本地化';
+
+$Definition['a Badge'] = '一枚徽章';
 $Definition['Abilites'] = '能力';
 $Definition['About.DisableStatistics'] = '如果您因为某些商业原因需要关闭数据报告，您可以在安装配置文件中添加下列文字：
  <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
@@ -61,7 +67,7 @@ $Definition['Actions Based on Votes'] = '投票动态';
 $Definition['Activity Item'] = '活跃条目';
 $Definition['Activity item not found.'] = '没有活跃条目。';
 $Definition['Add %s'] = '添加 %s';
-$Definition['Add a new Pocket to your site.'] = '为您的站点添加一个新口袋。';
+$Definition['Add a new Pocket to your site.'] = '为您的站点添加一个新Pocket。';
 $Definition['Add Category'] = '添加版块';
 $Definition['Add Connection'] = '添加连接';
 $Definition['Added By'] = '添加人';
@@ -82,9 +88,7 @@ $Definition['Advanced Options'] = '高级设置';
 $Definition['Advanced Settings'] = '高级设置';
 $Definition['Advanced settings for embedded community elements'] = '嵌入社区元素的高级设置';
 $Definition['After'] = '之后';
-
 $Definition['a full year.'] = '一整年。';
-
 $Definition['Alive'] = '正常';
 $Definition['All'] = '全选';
 $Definition['All %1$s'] = '全选 %1$s';
@@ -97,7 +101,7 @@ $Definition['Allow new users to be registered through email.'] = '允许通过 E
 $Definition['Allow users to dismiss this message'] = '允许用户撤消该消息';
 $Definition['All Pages'] = '所有页面（*）';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = '邀请创建成功，但邮件无法送达。服务器抛如下错误信息: %s';
-$Definition['A message has been sent to your email address with password reset instructions.'] = '重置密码信息已经发送到您的邮箱，请您注意查收！';
+$Definition['A message has been sent to your email address with password reset instructions.'] = '重置密码信息已经发送到您的邮箱。';
 $Definition['API Status'] = 'API 状态';
 $Definition['Appearance'] = '外观';
 $Definition['Applicant'] = '申请者';
@@ -162,13 +166,11 @@ $Definition['Blog Comments'] = '博客回复';
 $Definition['Browse Addons'] = '浏览全部扩展';
 $Definition['Browse for a new banner logo if you would like to change it:'] = '更改站点LOGO: ';
 $Definition['By %s'] = '由 %s';
-
 $Definition['by %s'] = '由 %s';
-
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = '点击下面的按钮，您将永久删除账户%s。';
 
 $Definition['Cannot build profile information if user is not defined.'] = '用户没有定义的情况下不能建立个人资料信息。';
-$Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = '在全站抓取定义。你必须按顺序访问站内各页面以抓取定义。定义抓取后将被放在<code>captured.php</php>和<code>captured_admin.php</code>中。';
+$Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = '在全站抓取定义。您必须按顺序访问站内各页面以抓取定义。定义抓取后将被放在<code>captured.php</php>和<code>captured_admin.php</code>中。';
 $Definition['Categories &amp; Discussions'] = '版块 & 帖子';
 $Definition['Categories are used to help organize discussions.'] = '板块用来组织话题。拖动 或 放下它们以便排序和分级。';
 $Definition['Categories are used to organize discussions.'] = '<strong>板块</strong> 允许您组织您的话题。';
@@ -192,7 +194,7 @@ $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla
 $Definition['Choose a locale pack'] = '选择一个本地化包';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '选择一个孤立的用户将被分配到的角色：';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '选择如何处理用户帐户%s （回复，消息等等）相关联的所有内容。';
-$Definition['Choose md5 if you\'re not sure what to choose.'] = '你可以选择自定义的哈希算法对你的请求计算摘要。客户端一侧也应使用同样的哈希算法。如果你不确定该选哪个，请选择md5。';
+$Definition['Choose md5 if you\'re not sure what to choose.'] = '您可以选择自定义的哈希算法对你的请求计算摘要。客户端一侧也应使用同样的哈希算法。如果你不确定该选哪个，请选择md5。';
 $Definition['Choose the preferred layout for the categories page.'] = '选择板块页面的首选布局。';
 $Definition['Choose the preferred layout for the discussions page.'] = '选择话题页面的首选布局。';
 $Definition['Choose who can send out invitations to new members:'] = '选择哪些用户可以邀请新用户。';
@@ -203,9 +205,7 @@ $Definition['Click here to apply it.'] = '点击应用。';
 $Definition['Click here to carry on.'] = '点击此处继续。';
 $Definition['Click here to carry on to your dashboard'] = '点击此处返回后台首页';
 $Definition['Client ID'] = '客户端 ID';
-
 $Definition['comment(s)'] = '评论';
-
 $Definition['Comment  Body'] = '回复 正文';
 $Definition['Comment Settings'] = '评论设置';
 $Definition['Comments Page'] = '评论页';
@@ -250,9 +250,7 @@ $Definition['Debugger'] = '调试';
 $Definition['Debug Information'] = '调试信息';
 $Definition['Decline'] = '取消';
 $Definition['Default'] = '默认';
-
 $Definition['default'] = '默认';
-
 $Definition['Default %s Permissions'] = '默认 %s 权限';
 $Definition['Default  Category'] = '默认 类别';
 $Definition['Default Category Permissions'] = '默认板块权限';
@@ -278,15 +276,13 @@ $Definition['Disable'] = '关闭';
 $Definition['Disable Content Flagging'] = '禁用内容标记';
 $Definition['Disabled'] = '关闭';
 $Definition['Disabled %1$s'] = '禁用 %1$s';
-$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = '禁用：口袋<b>不会</b>被显示。';
+$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = '禁用：Pocket<b>不会</b>被显示。';
 $Definition['Disable Google Sign In'] = '禁用 Google 登陆';
 $Definition['Disable OpenID'] = '禁用 OpenID';
 $Definition['Disable Signatures'] = '关闭个性签名';
 $Definition['Disable Tagging'] = '禁用标签';
 $Definition['Discussion & Comment Editing'] = '讨论 & 评论编辑';
-
 $Definition['discussion(s)'] = '帖子';
-
 $Definition['Discussion  Body'] = '话题 正文';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = '话题板块用于帮助您的用户组织他们的话题，这对社区很重要。';
 $Definition['Discussions Layout'] = '话题布局';
@@ -296,7 +292,7 @@ $Definition['Display in dashboard. (not recommended)'] = '控制面板中显示�
 $Definition['Display root categories as headings.'] = '标题显示根板块。';
 $Definition['Disqus Settings'] = 'Disqus 设置';
 $Definition['Don\'t display for embedded comments.'] = '不显示嵌入的回复';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '不要嵌入显示你的论坛管理员仪表板（将其弹出到全屏显示）';
+$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '不要嵌入显示您的论坛管理员仪表板（将其弹出到全屏显示）';
 $Definition['Don\'t Refresh'] = '不可刷新。';
 $Definition['Don\'t use Categories'] = '停用版块';
 $Definition['Do not display the categories in the side panel.'] = '在边栏中不显示板块。';
@@ -307,7 +303,6 @@ $Definition['Drag &amp; drop the categories to sort and nest them.'] = '拖动�
 $Definition['Drag and drop the categories below to sort and nest them.'] = '拖动对板块进行排序和分级。';
 
 $Definition['edit'] = '编辑';
-
 $Definition['Edit %s'] = '编辑%s';
 $Definition['Edit/Delete Log'] = '编辑/删除 日志';
 $Definition['Edit Category'] = '编辑分类';
@@ -327,7 +322,7 @@ $Definition['Embed Forum'] = '嵌入社区';
 $Definition['Embed Modules'] = '嵌入模块';
 $Definition['Embed modules from your Vanilla forum into your site'] = '在您的站点中嵌入您的社区的模块';
 $Definition['Embed Vanilla'] = '嵌入vanilla';
-$Definition['Embed your community forum into your website to increase engagement...'] = '将你的社区论坛嵌入你的网站以提升参与度...';
+$Definition['Embed your community forum into your website to increase engagement...'] = '将您的社区论坛嵌入你的网站以提升参与度...';
 $Definition['Embed your entire Vanilla forum'] = '嵌入您的整个 Vanilla 论坛';
 $Definition['Embed your forum in your web site'] = '把论坛嵌入您的网站';
 $Definition['Enable'] = '启用';
@@ -342,21 +337,21 @@ $Definition['Enable this message'] = '激活消息';
 $Definition['Enabling a Locale Pack'] = '启用语言包';
 $Definition['Encourage your friends to join your new community!'] = '鼓励您的朋友加入您的新社区';
 $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = '从1开始，以逗号分隔输入索引。';
-$Definition['Enter a descriptive name.'] = '为口袋输入一个带有描述内容的名字。这个名字只会在这个管理你所有口袋的地方显示，以方便你记住它。';
+$Definition['Enter a descriptive name.'] = '为Pocket输入一个带有描述内容的名字。这个名字只会在这个管理您所有Pocket的地方显示，以方便您记住它。';
 $Definition['Enter a short name for the site.'] = '填写网站的简短名称，这将显示在登录按钮中。';
 $Definition['Enter numbers starting at 1.'] = '从1开始输入的数字。';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = '填写您的 Wordpress博客地址';
 $Definition['Enter the connection settings for your sphinx server below.'] = '在下方填写您的 sphinx 服务器连接设置';
 $Definition['Enter the email address of the person you would like to invite:'] = '输入受邀人的电子邮件地址';
 $Definition['Enter the url to the page you would like to use as your homepage'] = '输入您想要做为默认页（首页）的地址：';
-$Definition['Enter the url to the page you would like to use as your homepage:'] = '输入你想要做为默认页（首页）的url地址：';
+$Definition['Enter the url to the page you would like to use as your homepage:'] = '输入您想要做为默认页（首页）的URL地址：';
 $Definition['Every 1 minute'] = '每分钟';
 $Definition['Every 5 minutes'] = '每5分钟';
 $Definition['Every 5 seconds'] = '每5秒';
 $Definition['Every 10 seconds'] = '每10秒';
 $Definition['Every 30 seconds'] = '每30秒';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = '这里记录所有编辑和删除，使用‘恢复’撤销更改。';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = '你社区中的每个注册用户都有一个公共资料页面，可以在此页面中上传自己的照片，管理资料设置，并跟踪社区内的动态。';
+$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = '您的社区中的每个注册用户都有一个公共的资料页面，可以在此页面中上传自己的照片，管理资料设置，并跟踪社区内的动态。';
 $Definition['Every Page'] = '每页';
 $Definition['Everything is ok.'] = '一切正常。';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '站内的每个用户都需要分配至少一个角色，用户角色决定用户可以做什么。';
@@ -387,7 +382,7 @@ $Definition['From'] = '发件人';
 $Definition['Garden'] = '花园';
 $Definition['Garden.Import.Complete.Description'] = '已经成功完成导入。
    点击 <b>完成</b>。';
-$Definition['Garden.Import.Continue.Description'] = '看来你正在导入进程当中
+$Definition['Garden.Import.Continue.Description'] = '看来您正在导入进程当中
 请选择下列选项中的一个。';
 $Definition['Garden.Import.Description'] = 'Use this page to import data from another forum that was exported using Vanilla\'s exporter. For more information <a href="%s">see our importing documentation</a>.';
 $Definition['Garden.Import.Merge'] = '与当前社区合并';
@@ -410,9 +405,7 @@ $Definition['Get More Themes'] = '从vanilla官方获取模板';
 $Definition['Get the ball rolling in your community by '] = '在你的社区中启动运转';
 $Definition['Getting Started'] = '开始';
 $Definition['Getting Started with Vanilla'] = '开始';
-
 $Definition['give'] = '授予';
-
 $Definition['Give an Badge'] = '发放一个徽章';
 $Definition['Give me a new account'] = '给我创建一个账号';
 $Definition['Given Indexes'] = '已列出的索引';
@@ -433,7 +426,7 @@ $Definition['Hidden for everything!'] = '全部隐藏！';
 $Definition['Hidden for mobile'] = '在移动界面隐藏';
 $Definition['Hide  Fields'] = '隐藏空字段';
 $Definition['Hide from the recent discussions page.'] = '不在最近话题页面显示';
-$Definition['Hide Pocket Locations'] = '隐藏口袋位置';
+$Definition['Hide Pocket Locations'] = '隐藏Pocket位置';
 $Definition['Hide this category from the recent discussions page.'] = '不在最近话题显示此类别';
 $Definition['Hi Pal!
 
@@ -482,7 +475,6 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect 客户端库';
 $Definition['jsConnect Documentation'] = 'jsConnect 文档';
-
 $Definition['JS Connect Settings'] = 'JS Connect 设置';
 
 $Definition['Key Type'] = 'Captcha 密钥类型';
@@ -498,10 +490,10 @@ $Definition['Level'] = '等级';
 $Definition['Likes'] = '喜欢';
 $Definition['Limit the display of this plugin for mobile devices.'] = '限制该插件在手机浏览器上的显示。';
 $Definition['Limit the display of this plugin to "mobile only".'] = '只在移动界面启用此插件。';
-$Definition['Limit the display of this pocket for embedded comments.'] = '只在嵌入评论处显示这个口袋。';
-$Definition['Limit the display of this pocket for mobile devices.'] = '只在移动终端上显示这个口袋。';
-$Definition['Limit the display of this pocket to "mobile only".'] = '只在“仅供移动终端访问”处显示这个口袋。';
-$Definition['Limit the pocket to one or more roles or permissions.'] = '限制口袋仅供一个或多个角色以及权限使用。';
+$Definition['Limit the display of this pocket for embedded comments.'] = '不在嵌入评论处显示这个Pocket。';
+$Definition['Limit the display of this pocket for mobile devices.'] = '不在移动设备上显示这个Pocket。';
+$Definition['Limit the display of this pocket to "mobile only".'] = '只在移动设备上显示这个Pocket。';
+$Definition['Limit the pocket to one or more roles or permissions.'] = '限制Pocket仅供一个或多个角色以及权限使用。';
 $Definition['Link my existing account'] = '连接我的一个已经存在的账户';
 $Definition['Locale Name'] = '语言名称';
 $Definition['Locales'] = '国际化';
@@ -524,9 +516,9 @@ $Definition['Manage Plugins'] = '插件管理';
 $Definition['Manage Roles & Permissions'] = '管理角色 & 权限';
 $Definition['Manage Routes'] = '管理路径';
 $Definition['Manage Spam'] = '管理垃圾信息';
-$Definition['Manage Themes'] = '帖子管理';
-$Definition['Manage users'] = '管理用户';
+$Definition['Manage Themes'] = '主题设置';
 $Definition['Manage Users'] = '管理用户';
+$Definition['Manage users'] = '管理用户';
 $Definition['Manage your Plugins'] = '管理插件';
 $Definition['Managing Categories'] = '管理板块';
 $Definition['Manual'] = '手册';
@@ -540,27 +532,21 @@ $Definition['Message ID'] = '消息 ID';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = '消息可以出现在应用程序中的任何位置。消息可以用来告诉用户新闻和事件。使用本页,通过拖放它们上升或下降来重组你的消息';
 $Definition['Messages can appear anywhere in your application.'] = '消息系统用来在应用的各个地方展示通知，可以用来向用户发布通知和新闻，例如重大更新，重大事件的发生等，在这里，你可以方便的管理你的消息';
 $Definition['Method'] = '注册方式';
-
 $Definition['minute(s)'] = '分钟';
-
 $Definition['Mixed Layout'] = '混合布局';
 $Definition['Moderate'] = '审核';
 $Definition['Moderator'] = '板主';
 $Definition['Moderators have permission to edit most content.'] = '版主有权编辑绝大部分内容。';
 $Definition['Modern Layout'] = 'Modern 外观';
 $Definition['Modern non-table-based layout'] = '不使用表格的现代风格页面编排';
-
 $Definition['more than %s deep'] = '深于 %s 层';
 $Definition['more than %s levels deep'] = '深于 %s 层';
-
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = '大多数口袋不应该在仪表盘中显示。';
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = '大多数Pocket不应该在控制面板中显示。';
 $Definition['Move discussions in this category to a replacement category.'] = '把此分类中的话题转移到另一个分类';
 $Definition['My Invitations'] = '我的邀请';
 
 $Definition['Need More Help?'] = '需要更多帮助?';
-
 $Definition['never'] = '绝不';
-
 $Definition['Never - Users Must Refresh Page'] = '永不 - 用户必须刷新页面';
 $Definition['Never display on mobile browsers.'] = '永不在手机浏览器上显示。';
 $Definition['NewApplicantEmail'] = '新申请者：';
@@ -605,9 +591,8 @@ $Definition['Other Tutorials'] = '其他教程';
 $Definition['Outgoing Email'] = '邮件';
 $Definition['Outgoing Email Address'] = '外送 Email 地址';
 
-$Definition['page'] = '页';
-
 $Definition['Page'] = '页';
+$Definition['page'] = '页';
 $Definition['Panel Box'] = '面板箱';
 $Definition['Password Options'] = '密码选项';
 $Definition['Pending'] = '待定';
@@ -617,12 +602,12 @@ $Definition['Permissions'] = '权限管理';
 $Definition['Place nested categories in a comma-delimited list when they are'] = '分级板块用逗号分隔，当他们';
 $Definition['Please Confirm'] = '请确认';
 $Definition['Plugin'] = '插件';
-$Definition['PluginHelp'] = 'vanilla提供了一个强大的插件系统，能够帮您增加一些有用的功能，例如增加投票，美化模板等等，vanilla默认有很多插件，如果你想好获得更多的插件，请点击这里 <a href="http://vanillaforums.org/addons">获取插件</a> ，从官网获取';
+$Definition['PluginHelp'] = '插件可以为您的站点添加功能。<br />当您向 %s 文件夹添加插件后，您可以在这里选择启用或关闭。';
 $Definition['Plugins'] = '插件';
 $Definition['Pocket'] = '口袋';
-$Definition['Pockets'] = '口袋（自定义HTML块）';
-$Definition['Pockets.BetweenDiscussions.Description'] = '这个口袋将显示在主话题列表中的各个话题之间。由于话题通常都在 &lt;li&gt;..&lt;/li&gt; 标记当中，因此你也需要将口袋放在这些标记当中。';
-$Definition['Pockets allow you to add free-form HTML to various places around the application.'] = '口袋允许你在应用中的多个地方自由添加HTML代码。';
+$Definition['Pockets'] = 'Pocket（自定义HTML块）';
+$Definition['Pockets.BetweenDiscussions.Description'] = '这个Pocket将显示在主话题列表中的各个话题之间。由于话题通常都在 &lt;li&gt;..&lt;/li&gt; 标记当中，因此你也需要将Pocket放在这些标记当中。';
+$Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket允许你在应用中的多个地方自由添加HTML代码。';
 $Definition['Points'] = '分';
 $Definition['Polls'] = '调查';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '限制用户一定时间内的话题和回复数可以防止垃圾信息。';
@@ -698,15 +683,13 @@ $Definition['SaveLocalePack'] = '保存';
 $Definition['Save Translations from a Locale Pack'] = '保存翻译文本至语言包';
 $Definition['Search by user or role.'] = '按用户名搜索，或输入角色查看所有相应用户。';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = '按用户名搜索，或输入角色查看所有相应用户。';
-
 $Definition['seconds'] = '秒';
-
 $Definition['Security'] = '安全';
 $Definition['Select'] = '选择';
 $Definition['Select a %s'] = '选择一个 %s';
 $Definition['Select the file to import'] = '选择要导入的文件';
 $Definition['Select the import source'] = '选择导入源文件';
-$Definition['Select the location of the pocket.'] = '选择口袋位置';
+$Definition['Select the location of the pocket.'] = '选择Pocket位置';
 $Definition['Send %s a Message'] = '向%s发送消息';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = '当有人询问问题或通过邮件发起话题时发送确认邮件';
 $Definition['Send Again'] = '再次发送';
@@ -714,7 +697,7 @@ $Definition['Send Invitations!'] = '发送邀请!';
 $Definition['Send users a welcome email.'] = '给用户发送欢迎邮件。';
 $Definition['Sent To'] = '发送给';
 $Definition['Serialized column "%s" failed to be unserialized.'] = '已序列化的列 "%s" 恢复失败。';
-$Definition['Show all possible pocket locations.'] = '打开此选项以显示所有可放置口袋的位置。打开此选项后只有具备管理口袋权限的用户可以看到这些位置。';
+$Definition['Show all possible pocket locations.'] = '打开此选项以显示所有可放置Pocket的位置。打开此选项后只有具备管理Pocket权限的用户可以看到这些位置。';
 $Definition['Show Pocket Locations'] = '显示可自定义HTML块及其位置';
 $Definition['SignedOut'] = '您已经注销。';
 $Definition['Sign in'] = '登录';
@@ -733,9 +716,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = '诈骗';
 $Definition['Start Discussions'] = '发起新话题';
 $Definition['Start Import'] = '开始导入';
-
 $Definition['starting your first discussion'] = '发布您的第一个话题';
-
 $Definition['Statistics'] = '统计';
 $Definition['Status'] = '状态';
 $Definition['Stop Forum Spam Settings'] = '防灌水设置';
@@ -746,14 +727,12 @@ $Definition['Success'] = '成功';
 $Definition['System'] = '系统';
 
 $Definition['Table Layout'] = '如果您想降低报警级别，请尝试解决报警的问题。';
-
 $Definition['take away'] = '撤销';
-
 $Definition['Temporary (302)'] = '临时移动 (302)';
 $Definition['Test'] = '测试';
 $Definition['Testing'] = '测试中';
-$Definition['Test Mode'] = '测试模式：仅口袋管理员可以看到口袋。';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = '测试模式：仅口袋管理员可以看到口袋。';
+$Definition['Test Mode'] = '测试模式：仅Pocket管理员可以看到此Pocket。';
+$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = '测试模式：仅Pocket管理员可以看到此Pocket。';
 $Definition['Test URL'] = '测试网址';
 $Definition['Text'] = '文本';
 $Definition['TextEnterEmails'] = '在这里输入用半角逗号字符分隔的电子邮件地址';
@@ -801,7 +780,7 @@ $Definition['The site description usually appears in search engines.'] = '站点
 $Definition['The site is currently undergoing scheduled maintenance.'] = '本站点正处于计划维护模式中。';
 $Definition['The specified url code is already in use by another category.'] = '您指定的 Url 已被其他类别使用。';
 $Definition['The structure was successfully executed.'] = '表结构代码已成功执行。';
-$Definition['The text of the pocket.'] = '请为口袋输入文本。请确认输入合法的HTML代码，以便正确显示。';
+$Definition['The text of the pocket.'] = '请为Pocket输入文本。请确认输入合法的HTML代码，以便正确显示。';
 $Definition['The update was not successful.'] = '更新不成功。';
 $Definition['The update was successful.'] = '更新成功。';
 $Definition['The URL of your website where you will use ProxyConnect'] = '你在ProxyConnect中配置的站点链接';
@@ -818,7 +797,7 @@ $Definition['The user has been created successfully'] = '创建用户成功';
 $Definition['The user has been deleted.'] = '此用户已被删除。';
 $Definition['The user table was not in the import file.'] = '导入的文件中不存在用户表。';
 $Definition['The Vanilla 2 Exporter'] = 'Vanilla 2 导入工具';
-$Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla 统计可以将你的论坛仪表盘变成分析报告工具，以便查看任何时间段内论坛的活动。你可以在我们的文档库中 <a href="http://vanillaforums.org/docs/vanillastatistics">查看更多关于 Vanilla 统计的内容</a>。';
+$Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla 统计可以将你的论坛控制面板变成报告分析工具，以便查看任何时间段内论坛的活动。你可以在我们的文档库中 <a href="http://vanillaforums.org/docs/vanillastatistics">查看更多关于 Vanilla 统计的内容</a>。';
 $Definition['The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.'] = 'Wordpress 远程集成管理器无法自动配置 ProxyConnect 系统。请在上面选择“手动集成”，并自行完成配置。';
 $Definition['This action cannot be undone.'] = '此操作不能执行。';
 $Definition['This category has custom permissions.'] = '该板块有单独的权限设置。';
@@ -829,7 +808,7 @@ $Definition['This forum is currently set to invitation only mode.'] = '该论坛
 $Definition['This is a parent category that does not allow discussions.'] = '这是一个父分类，不允许放置话题';
 $Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = '这就是社区论坛的管理仪表板。看看左边列出的设置选项：你可以在这里配置论坛的工作方式。<b>只有拥有管理员角色的用户能够访问论坛中此部分的内容。</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = '这是您第一次访问该论坛。';
-$Definition['This option shows/hides the locations where pockets can go.'] = '这个选项显示/隐藏口袋可以放置的位置，但只有具备增加/编辑口袋权限的用户看到。尝试一下显示这些位置，之后再访问你的站点。';
+$Definition['This option shows/hides the locations where pockets can go.'] = '这个选项显示/隐藏Pocket可以放置的位置，但只有具备增加/编辑Pocket权限的用户看到。尝试一下显示这些位置，之后再访问您的站点。';
 $Definition['This page requires Javascript.'] = '本页面需要 Javascript 的支持。';
 $Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = '这个插件能够提供文件上传的功能，帖子内容和评论中都可以嵌入附件';
 $Definition['This show the plugin on only selected discussion pages'] = '只在被选择的主题页面中显示插件';
@@ -852,9 +831,7 @@ $Definition['Unable to initialize plugin: required connectivity libraries not fo
 $Definition['Unban'] = '撤销屏蔽';
 $Definition['Uninvite'] = '未邀请';
 $Definition['Universal Code'] = '通用代码';
-
 $Definition['unknown'] = '未知';
-
 $Definition['Unlimited'] = '无限制';
 $Definition['Unviersal Forum Embed Code'] = '通用论坛嵌入代码';
 $Definition['Use an SMTP server to send email'] = '使用STMP服务器发送邮件';
@@ -895,9 +872,7 @@ $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla 统计当前
 $Definition['Verified!'] = '已验证!';
 $Definition['Version'] = '版本';
 $Definition['Version %s'] = '版本 %s';
-
 $Definition['version %s'] = '版本 %s';
-
 $Definition['Version %s Installer'] = '版本%s 安装程序';
 $Definition['Video tutorial on advanced settings'] = '高级设置视频教程';
 $Definition['Video tutorial on finding &amp; managing users'] = '查看关于找到 &amp; 管理用户的视频教程';
@@ -915,7 +890,7 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：你的服
 如果需要导入非常大的文件（例如超过200,000条评论），你可能需要考虑更改你的服务器配置。点击 <a href="http://vanillaforums.com/porter">这里</a> 查看更多信息。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：此处供高级用户使用，要求你更改其他web服务器配置。通常仅当你使用专有服务器或VPS服务器时有效。如果你不知道你在做什么，请不要轻易尝试。';
 $Definition['Welcome to Vanilla!'] = '欢迎来到Vanilla!';
-$Definition['Welcome to your Dashboard'] = '欢迎进入你的仪表盘';
+$Definition['Welcome to your Dashboard'] = '欢迎进入您的控制面板';
 $Definition['We only accept urls that begin with http:// or https://'] = '我们只接受以 http:// 或 https:// 开始的链接';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = '我们将按默认设置使用本地邮件服务器。如果您想使用其它STMP 邮件服务器，请在下面设置。';
 $Definition['What\'s the Buzz?'] = '网站动态';
@@ -958,10 +933,3 @@ $Definition['Your changes were saved successfully.'] = '您的更改已经成功
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = '你的配置文件访问权限错误。PHP需要对此文件的读写权限：<code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = '您的默认语言环境将不会正确显示。';
 $Definition['Your invitations were sent successfully.'] = '您的邀请已成功发送。';
-
-$Definition['[%s] Confirm Your Email Address'] = '[%s] 请确认你的邮箱地址';
-$Definition['[%s] Invitation'] = '[%s]邀请';
-$Definition['[%s] Password Reset'] = '[%s]重设密码';
-$Definition['[%s] Password Reset Request'] = '[%s]重设密码请求';
-
-$Definition['_Locale'] = '本地化';

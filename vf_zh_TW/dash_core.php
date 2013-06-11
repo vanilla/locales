@@ -1,6 +1,21 @@
 <?php
 
+$Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
+$Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 更新檔案已經釋出.';
+$Definition['%s is not a valid email address'] = '%s 不是一個有效的電子信箱格式.';
+$Definition['%s item in queue'] = '%s 項目在靜候處理';
+$Definition['%s level'] = '%s 級';
+$Definition['%s levels'] = '%s 級';
+$Definition['%s of %s'] = '%s 的 %s';
+$Definition['%s posts'] = '%s 個文章';
+$Definition['%s site(s) found.'] = '已經找到%s 個網站.';
+$Definition['%s sources(s) found.'] = '已經找到 %s 個資訊來源.';
+$Definition['%s times'] = '%s 次';
 $Definition['%s user(s) found.'] = '找到了 %s 個會員.';
+
+$Definition['[%s] Invitation'] = '[%s] 邀請你加入';
+
+$Definition['_Locale'] = '本地化';
 
 $Definition['Accepted'] = '接受';
 $Definition['Action'] = '操作';
@@ -25,9 +40,7 @@ $Definition['Banner Title'] = 'Banner 標題';
 
 $Definition['Category Url:'] = '分類 Url:';
 $Definition['Choose a locale pack'] = '選擇一個語言';
-
 $Definition['comment(s)'] = '評論';
-
 $Definition['Comments per Page'] = '每頁顯示評論數';
 $Definition['Condition Type'] = '類型';
 $Definition['Conversation Messages'] = '對話訊息';
@@ -40,13 +53,10 @@ $Definition['Disable'] = '停用';
 $Definition['Disable Google Sign In'] = '停用 Google 登入';
 $Definition['Disable OpenID'] = '停用 OpenID';
 $Definition['Discussion & Comment Editing'] = '討論 & 評論編輯';
-
 $Definition['discussion(s)'] = '討論';
-
 $Definition['Discussions per Page'] = '每頁顯示討論數';
 
 $Definition['edit'] = '編輯';
-
 $Definition['Edit Category'] = '編輯分類';
 $Definition['EditContentTimeout.Notes'] = 'Note: If a user is in a role that has permission to edit content, those permissions will override any value selected here.';
 $Definition['Edit User'] = '編輯會員';
@@ -92,14 +102,11 @@ $Definition['Max Comment Length'] = '評論最大長度';
 $Definition['Media'] = '檔案';
 $Definition['Member'] = '成員';
 $Definition['Method'] = '方法';
-
 $Definition['minute(s)'] = '分鐘';
-
 $Definition['Moderator'] = '板主';
 $Definition['My Invitations'] = '我的邀請';
 
 $Definition['never'] = '絕不';
-
 $Definition['New comments in the last day'] = '最近一天評論數';
 $Definition['New comments in the last week'] = '最近一週評論數';
 $Definition['New conversations in the last day'] = '最近一天對話數';
@@ -142,9 +149,7 @@ $Definition['Routes'] = '路徑';
 
 $Definition['Saved'] = '你所做的改動已儲存.';
 $Definition['SaveLocalePack'] = '儲存';
-
 $Definition['seconds'] = '秒';
-
 $Definition['Send %s a Message'] = '發送訊息給 %s';
 $Definition['Send Again'] = '重新發送';
 $Definition['Sent To'] = '發送給';
@@ -170,9 +175,7 @@ $Definition['Users'] = '會員';
 
 $Definition['Version'] = '版本';
 $Definition['Version %s'] = '版本 %s';
-
 $Definition['version %s'] = '版本 %s';
-
 $Definition['View'] = '察看';
 
 $Definition['Warning'] = '警告';
@@ -185,7 +188,3 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 					folder. Make sure the filename begins with the word <b>export</b> and ends
 							with one of <b>.txt, .gz</b>.';
 $Definition['You have %s invitations left for this month.'] = '你本月還可以發送 %s 條邀請.';
-
-$Definition['[%s] Invitation'] = '[%s] 邀請你加入';
-
-$Definition['_Locale'] = '本地化';

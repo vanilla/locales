@@ -8,6 +8,8 @@ $Definition['1 week after being sent'] = '발송 후 1 주 경과';
 
 $Definition['2 weeks after being sent'] = '발송 후 2 주 경과';
 
+$Definition['_Locale'] = '현지화';
+
 $Definition['Accepted'] = '등록되었습니다';
 $Definition['Action'] = '활동';
 $Definition['Add Category'] = '카테고리 추가';
@@ -42,9 +44,7 @@ $Definition['Check all permissions that apply for each role'] = '각 역할에 �
 $Definition['Choose a locale pack'] = '현지화 페키지 선택';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = '포럼의 인증 체계를 선택하고 구성합니다.';
 $Definition['Choose who can send out invitations to new members:'] = '신규회원에게 초대장을 보낼 수 있는 회원을 선택해 주십시오:';
-
 $Definition['comment(s)'] = '개 이상의 댓글을';
-
 $Definition['Comments per Page'] = '페이지당 댓글 수';
 $Definition['Condition Type'] = '유형';
 $Definition['Configure an Authenticator'] = '인증 방식 설정';
@@ -61,9 +61,7 @@ $Definition['Disable'] = '사용 안 함';
 $Definition['Disable Google Sign In'] = '구글 계정으로 로그인 사용 안 함';
 $Definition['Disable OpenID'] = 'OpenID 사용 안 함';
 $Definition['Discussion & Comment Editing'] = '글 & 댓글 수정';
-
 $Definition['discussion(s)'] = '개 이상의 게시글을';
-
 $Definition['Discussions per Page'] = '페이지당 글 수';
 $Definition['Display root categories as headings.'] = '루트 카테고리를 헤딩으로 표시.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '관리자 대시보드 포함하지 않음 (전체화면으로 팝업)';
@@ -72,7 +70,6 @@ $Definition['Do not display the categories in the side panel.'] = '사이드바�
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = '드래그 앤 드롭으로 카테고리의 순서 및 서브 카테고리를 설정하세요.';
 
 $Definition['edit'] = '수정';
-
 $Definition['Edit Category'] = '카테고리 수정';
 $Definition['EditContentTimeout.Notes'] = '참고 : 내용을 수정할 수있는 권한을 가진 회원(운영자 등)이 있다면 현재 선택된 모든 권한보다 우선적인 권한을 가집니다.
 ';
@@ -137,9 +134,7 @@ $Definition['Messages can appear anywhere in your application.'] = '메시지는
 
 <br />메세지 작성 후 목록에서 순서를 변경할 수 있습니다.';
 $Definition['Method'] = '방법';
-
 $Definition['minute(s)'] = '분 동안 게시 불가.';
-
 $Definition['Moderator'] = '운영자';
 $Definition['Moderators have permission to edit most content.'] = '운영자는 포럼의 대부분의 내용을 수정할 수있는 권한을 가지고 있습니다.';
 $Definition['My Invitations'] = '초대하기';
@@ -193,9 +188,7 @@ $Definition['Routes can be used to redirect users to various parts of your site 
 
 $Definition['Saved'] = '변경되었습니다.';
 $Definition['SaveLocalePack'] = '저장';
-
 $Definition['seconds'] = '초 이내에 게시 불가.';
-
 $Definition['Select the file to import'] = '임포트를 원하는 파일을 선택하세요';
 $Definition['Send %s a Message'] = '%s님에게 메세지를 보냅니다';
 $Definition['Status'] = '상태';
@@ -225,9 +218,7 @@ $Definition['Users'] = '사용자';
 $Definition['Vanilla.Archive.Description'] = '다음의 기간보다 오래된 글타레는 보관 모드로 전환할 수 있습니다. 보관 모드가 된 글을 수정이 불가능합니다.';
 $Definition['Version'] = '버전';
 $Definition['Version %s'] = '버전 %s';
-
 $Definition['version %s'] = '버전 %s';
-
 $Definition['View'] = '보기';
 
 $Definition['Warning'] = '경고';
@@ -243,5 +234,3 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You can place files in your /uploads folder.'] = '이 페이지에 업로드할 파일의 용량이 아주 클 경우 /uploads 폴더에 추가할 수 있습니다.
 <br />파일 이름은 <b>export</b>로 시작해야 하며 <b>.txt</b>또는 <b>.gz</b>의 확장자를 가집니다.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = '등록 신청이 접수되었습니다. 신청서는 관리자에 의해 검토되며 승인되는 즉시 이메일로 통보됩니다.';
-
-$Definition['_Locale'] = '현지화';

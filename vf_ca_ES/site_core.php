@@ -16,6 +16,8 @@ $Definition['%s new plural'] = '%s nou';
 
 $Definition['1 message'] = '1 missatge';
 
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Miembro aprobado';
+
 $Definition['About'] = 'Sobre';
 $Definition['Activate'] = 'Activar';
 $Definition['Activity'] = 'Activitat';
@@ -76,9 +78,7 @@ $Definition['Ask Question'] = 'Enviar Discussi';
 $Definition['Back to Discussions'] = 'Tornar a les Discussions';
 $Definition['Banned'] = 'Baneado';
 $Definition['Bookmark'] = 'Preferit';
-
 $Definition['bookmarked discussion'] = 'discussi';
-
 $Definition['Bookmarked Discussions'] = 'Discussions Marcades';
 
 $Definition['Cancel'] = 'Cancelar';
@@ -93,10 +93,8 @@ $Definition['Check all roles that apply to this user:'] = 'Revisar todos los rol
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = 'Cerrar';
 $Definition['Closed'] = 'Tancat';
-
-$Definition['comment'] = 'comentari';
-
 $Definition['Comment'] = 'Comentari';
+$Definition['comment'] = 'comentari';
 $Definition['Comments'] = 'Comentarios';
 $Definition['Confirm'] = 'Confirmar';
 $Definition['Confirm Email'] = 'Confirmar Email';
@@ -104,9 +102,7 @@ $Definition['Confirm Password'] = 'Confirmar Contrasenya';
 $Definition['Connect'] = 'Connectar';
 $Definition['ConnectCreateAccount'] = 'Afegir Info &amp; Crear Compte';
 $Definition['ConnectName'] = 'Nombre Usuario';
-
 $Definition['conversation'] = 'conversa';
-
 $Definition['Create One.'] = 'Crea\'n una.';
 $Definition['Customize your Public Profile'] = 'Personaliza tu Perfil Público';
 
@@ -116,9 +112,7 @@ $Definition['Delete'] = 'Borrar';
 $Definition['Delete Account'] = 'Eliminar Compte';
 $Definition['Delete Conversation'] = 'Eliminar Conversa';
 $Definition['Delete Discussion'] = 'Eliminar Discussi';
-
 $Definition['discussion'] = 'discussi';
-
 $Definition['Discussions'] = 'Discusiones';
 $Definition['Discussion Title'] = 'T';
 $Definition['Dismiss'] = 'Descartar';
@@ -187,7 +181,6 @@ $Definition['GuestModule.Message'] = 'Sembles nou en aquestes contrades. Si vols
 $Definition['he'] = 'Ell';
 $Definition['her'] = 'la seva';
 $Definition['his'] = 'el seu';
-
 $Definition['Howdy, Stranger!'] = 'Benvingut, Foraster!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Estic d\'acord amb <a id="TermsOfService" class="Popup" target="terms" href="%s">les condicions del servei</a>';
@@ -283,19 +276,15 @@ $Definition['Select an image on your computer (2mb max)'] = 'Selecciona una imat
 $Definition['Send Message'] = 'Enviar Missatge';
 $Definition['Settings'] = 'Configuración';
 $Definition['Share'] = 'Compartir';
-
 $Definition['she'] = 'ella';
-
-$Definition['Sign In'] = 'Accedir';
 $Definition['SignIn'] = 'Accedir';
+$Definition['Sign In'] = 'Accedir';
 $Definition['Sign In with Google'] = 'Accedir amb Google';
 $Definition['Sign In with OpenID'] = 'Accedir amb OpenID';
 $Definition['Sign In with Twitter'] = 'Accedir amb Twitter';
 $Definition['Sign Out'] = 'Desconectarse';
 $Definition['Sign Up'] = 'Registrar-se';
-
 $Definition['somebody'] = 'alg';
-
 $Definition['Start a New Conversation'] = 'Iniciar una Nova Conversa';
 $Definition['Start a New Discussion'] = 'Iniciar una Nova Discussi';
 $Definition['Start Conversation'] = 'Iniciar Conversa';
@@ -353,25 +342,19 @@ $Definition['Visits'] = 'Visites';
 $Definition['Visit Site'] = 'Visitar Sitio';
 
 $Definition['wall'] = 'mur';
-
 $Definition['Welcome Aboard!'] = 'Benvingut a la comunitat!';
 $Definition['Write a comment'] = 'Escriu un comentari';
 $Definition['Write Comment'] = 'Escriure Comentari';
 $Definition['Write something about yourself...'] = 'Escriu alguna cosa sobre tu...';
 
-$Definition['you'] = 'tu';
-
 $Definition['You'] = 'Tu';
+$Definition['you'] = 'tu';
 $Definition['You already have an account here.'] = 'Ja tens un compte aqu';
 $Definition['You are connected as %s through %s.'] = 'Est';
 $Definition['You do not have any conversations.'] = 'No tens cap conversa.';
 $Definition['You do not have any notifications yet.'] = 'Encara no tens cap notificaci';
 $Definition['You must agree to the terms of service.'] = 'Has d\'acceptar els termes del servei.';
-
 $Definition['your'] = 'el teu';
-
 $Definition['Your changes have been saved.'] = 'Tus cambios se han guardado';
 $Definition['Your registered username: <strong>%s</strong>'] = 'El teu nom d\'usuari registrat: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = 'Tu configuración se ha guardado.';
-
-$Definition['[%1$s] Membership Approved'] = '[%1$s] Miembro aprobado';

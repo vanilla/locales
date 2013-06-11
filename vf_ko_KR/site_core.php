@@ -11,6 +11,8 @@ $Definition['%s New Plural'] = '%s New';
 
 $Definition['1 message'] = '1개의 메세지';
 
+$Definition['[%1$s] Membership Approved'] = '[%1$s] 승인되었습니다.';
+
 $Definition['Activate'] = '활성화';
 $Definition['Activity'] = '활동내역';
 $Definition['Activity.AboutUpdate.FullHeadline'] = '%1$s: %6$s의 프로필을 업데이트.';
@@ -67,9 +69,7 @@ $Definition['Ask Question'] = '등록하기';
 $Definition['Back to Discussions'] = '목록으로 돌아가기';
 $Definition['Banned'] = '차단됨';
 $Definition['Bookmark'] = '북마크';
-
 $Definition['bookmarked discussion'] = '북마크된 글타레';
-
 $Definition['Bookmarked Discussions'] = '북마크된 글타레';
 $Definition['Bookmarks'] = '북마크';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = '이 파일을 업로드하는 것은 귀하가 이 이미지의 배포권을 가지고 있고 그것이 이용약관에 위배되지 않는다는 것을 증명합니다.';
@@ -84,19 +84,15 @@ $Definition['Change Picture'] = '사진 바꾸기';
 $Definition['Check all roles that apply to this user:'] = '이 유저가 가진 모든 역할 보기:';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = '잠그기';
-
-$Definition['comment'] = '댓글';
-
 $Definition['Comment'] = '댓글';
+$Definition['comment'] = '댓글';
 $Definition['Comments'] = '댓글';
 $Definition['Confirm'] = '확인';
 $Definition['Confirm Email'] = '확인메일';
 $Definition['Confirm Password'] = '패스워드 재확인';
 $Definition['ConnectCreateAccount'] = '정보 입력 &amp; 계정 만들기';
 $Definition['ConnectName'] = '사용자 이름';
-
 $Definition['conversation'] = '대화';
-
 $Definition['Create One.'] = '회원 가입하기';
 $Definition['Customize your Public Profile'] = '공개 프로필 설정';
 
@@ -106,9 +102,7 @@ $Definition['Delete'] = '삭제';
 $Definition['Delete Account'] = '계정 삭제';
 $Definition['Delete Conversation'] = '대화 목록 삭제';
 $Definition['Delete Discussion'] = '글삭제';
-
 $Definition['discussion'] = '게시글';
-
 $Definition['Discussions'] = '글목록';
 $Definition['Discussion Title'] = '글제목';
 $Definition['Don\'t have an account? %s'] = '아직 회원이 아니신가요? %s';
@@ -208,8 +202,8 @@ $Definition['ErrorTermsOfService'] = '서비스 약관에 동의해야합니다.
 
 $Definition['Female'] = '여성';
 $Definition['Forgot?'] = '<br />비밀번호를 잊으셨나요?';
-$Definition['Format you'] = '나';
 $Definition['Format You'] = '나';
+$Definition['Format you'] = '나';
 
 $Definition['Garden.Email.SupportAddress'] = '서포트 이메일';
 $Definition['Garden.Title'] = '배너 이름';
@@ -306,8 +300,8 @@ $Definition['Select an image on your computer (2mb max)'] = '컴퓨터에서 이
 $Definition['Send Message'] = '메세지 보내기';
 $Definition['Settings'] = '설정';
 $Definition['Share'] = '내 상태 공유하기';
-$Definition['SignIn'] = '로그인';
 $Definition['Sign In'] = '로그인';
+$Definition['SignIn'] = '로그인';
 $Definition['Sign In with Google'] = '구글 계정으로 로그인';
 $Definition['Sign In with OpenID'] = 'OpenID로 로그인';
 $Definition['Sign In with Twitter'] = '트위터 계정으로 로그인';
@@ -322,8 +316,8 @@ $Definition['Started by %1$s'] = '작성자 %1$s';
 $Definition['Start your First Discussion'] = '글타래 열기';
 
 $Definition['Target'] = '목적지';
-$Definition['Terms of Service'] = '서비스 약관';
 $Definition['TermsOfService'] = '서비스 약관';
+$Definition['Terms of Service'] = '서비스 약관';
 $Definition['TermsOfServiceText'] = '
    <p>You agree, through your use of this service, that you will not use this
    community to post any material which is knowingly false and/or defamatory,
@@ -378,18 +372,12 @@ $Definition['Write Comment'] = '글 작성하기';
 $Definition['Write something about yourself...'] = '자기소개';
 
 $Definition['You'] = '나';
-
 $Definition['you'] = '나';
-
 $Definition['You already have an account here.'] = '이미 계정을 가지고 있습니다.';
 $Definition['You do not have any conversations.'] = '대화 기록이 없습니다.';
 $Definition['You do not have any notifications yet.'] = '받은 알림이 없습니다.';
 $Definition['You must agree to the terms of service.'] = '서비스 약관에 동의해야합니다.';
-
 $Definition['your'] = '귀하';
-
 $Definition['Your changes have been saved.'] = '변경되었습니다.';
 $Definition['Your registered username: <strong>%s</strong>'] = '귀하의 사용자 이름: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = '설정이 저장되었습니다';
-
-$Definition['[%1$s] Membership Approved'] = '[%1$s] 승인되었습니다.';

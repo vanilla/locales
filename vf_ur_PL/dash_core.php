@@ -74,16 +74,13 @@ $Definition['No results for %s.'] = '<b>%s</b> کےلئے کوئی نتیجہ ن
 $Definition['Operation By'] = 'از';
 
 $Definition['Page'] = 'صفحہ';
-
 $Definition['page'] = 'صفحہ';
-
 $Definition['Permission.Category'] = 'ذمرہ';
 
 $Definition['Reveal Password'] = 'پاسورڈ دکھائیں';
 
 $Definition['Saved'] = 'آپ کی ، کی گئی تبدیلیاں محفوظ ہو گئی ہیں۔';
 $Definition['SaveLocalePack'] = 'محفوظ';
-
 $Definition['seconds'] = 'سیکنڈ';
 
 $Definition['Test'] = 'ٹیسٹ';

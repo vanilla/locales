@@ -45,8 +45,14 @@ $Definition['<strong>Categories</strong> allow you to organize your discussions.
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.';
 
-$Definition['a Badge'] = 'a Badge';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Confirm Your Email Address';
+$Definition['[%s] Invitation'] = '[%s] Invitation';
+$Definition['[%s] Password Reset'] = '[%s] Password Reset';
+$Definition['[%s] Password Reset Request'] = '[%s] Password Reset Request';
 
+$Definition['_Locale'] = 'Locale';
+
+$Definition['a Badge'] = 'a Badge';
 $Definition['Abilites'] = 'Abilites';
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
@@ -83,9 +89,7 @@ $Definition['Advanced Options'] = 'Advanced Options';
 $Definition['Advanced Settings'] = 'Advanced Settings';
 $Definition['Advanced settings for embedded community elements'] = 'Advanced settings for embedded community elements';
 $Definition['After'] = 'After';
-
 $Definition['a full year.'] = 'a full year.';
-
 $Definition['Alive'] = 'Alive';
 $Definition['All'] = 'All';
 $Definition['All %1$s'] = 'All %1$s';
@@ -164,9 +168,7 @@ $Definition['Blog Comments'] = 'Blog Comments';
 $Definition['Browse Addons'] = 'Browse Addons';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Browse for a new banner logo if you would like to change it:';
 $Definition['By %s'] = 'By %s';
-
 $Definition['by %s'] = 'by %s';
-
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'By clicking the button below, you will be deleting the user account for %s forever.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Cannot build profile information if user is not defined.';
@@ -206,9 +208,7 @@ $Definition['Click here to apply it.'] = 'Click here to apply it.';
 $Definition['Click here to carry on.'] = 'Click here to carry on.';
 $Definition['Click here to carry on to your dashboard'] = 'Click here to carry on to your dashboard';
 $Definition['Client ID'] = 'Client ID';
-
 $Definition['comment(s)'] = 'comment(s)';
-
 $Definition['Comment  Body'] = 'Comment  Body';
 $Definition['Comment Settings'] = 'Comment Settings';
 $Definition['Comments Page'] = 'Comments Page';
@@ -256,9 +256,7 @@ $Definition['Debugger'] = 'Debugger';
 $Definition['Debug Information'] = 'Debug Information';
 $Definition['Decline'] = 'Decline';
 $Definition['Default'] = 'Default';
-
 $Definition['default'] = 'default';
-
 $Definition['Default %s Permissions'] = 'Default %s Permissions';
 $Definition['Default  Category'] = 'Default  Category';
 $Definition['Default Category Permissions'] = 'Default Category Permissions';
@@ -291,9 +289,7 @@ $Definition['Disable OpenID'] = 'Disable OpenID';
 $Definition['Disable Signatures'] = 'Disable Signatures';
 $Definition['Disable Tagging'] = 'Disable Tagging';
 $Definition['Discussion & Comment Editing'] = 'Discussion & Comment Editing';
-
 $Definition['discussion(s)'] = 'discussion(s)';
-
 $Definition['Discussion  Body'] = 'Discussion  Body';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['Discussions Layout'] = 'Discussions Layout';
@@ -308,13 +304,12 @@ $Definition['Don\'t Refresh'] = 'Don\'t Refresh';
 $Definition['Don\'t use Categories'] = 'Don\'t use Categories';
 $Definition['Do not display the categories in the side panel.'] = 'Do not display the categories in the side panel.';
 $Definition['Download Locale List'] = 'Download Locale List';
-$Definition['DownloadLocalePack'] = 'Download';
 $Definition['Download Locale Pack'] = 'Download Locale Pack';
+$Definition['DownloadLocalePack'] = 'Download';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Drag &amp; drop the categories to sort and nest them.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
 
 $Definition['edit'] = 'edit';
-
 $Definition['Edit %s'] = 'Edit %s';
 $Definition['Edit/Delete Log'] = 'Edit/Delete Log';
 $Definition['Edit Category'] = 'Edit Category';
@@ -420,9 +415,7 @@ $Definition['Get More Themes'] = 'Get More Themes';
 $Definition['Get the ball rolling in your community by '] = 'Get the ball rolling in your community by ';
 $Definition['Getting Started'] = 'Getting Started';
 $Definition['Getting Started with Vanilla'] = 'Getting Started with Vanilla';
-
 $Definition['give'] = 'give';
-
 $Definition['Give an Badge'] = 'Give an Badge';
 $Definition['Give me a new account'] = 'Give me a new account';
 $Definition['Given Indexes'] = 'Given Indexes';
@@ -497,7 +490,6 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect Client Libraries';
 $Definition['jsConnect Documentation'] = 'jsConnect Documentation';
-
 $Definition['JS Connect Settings'] = 'JS Connect Settings';
 
 $Definition['Key Type'] = 'Key Type';
@@ -541,8 +533,8 @@ $Definition['Manage Roles & Permissions'] = 'Manage Roles & Permissions';
 $Definition['Manage Routes'] = 'Manage Routes';
 $Definition['Manage Spam'] = 'Manage Spam';
 $Definition['Manage Themes'] = 'Manage Themes';
-$Definition['Manage users'] = 'Manage users';
 $Definition['Manage Users'] = 'Manage Users';
+$Definition['Manage users'] = 'Manage users';
 $Definition['Manage your Plugins'] = 'Manage your Plugins';
 $Definition['Managing Categories'] = 'Managing Categories';
 $Definition['Manual'] = 'Manual';
@@ -556,27 +548,21 @@ $Definition['Message ID'] = 'Message ID';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['Method'] = 'Method';
-
 $Definition['minute(s)'] = 'minute(s)';
-
 $Definition['Mixed Layout'] = 'Mixed Layout';
 $Definition['Moderate'] = 'Moderate';
 $Definition['Moderator'] = 'Moderator';
 $Definition['Moderators have permission to edit most content.'] = 'Moderators have permission to edit most content.';
 $Definition['Modern Layout'] = 'Modern Layout';
 $Definition['Modern non-table-based layout'] = 'Modern non-table-based layout';
-
 $Definition['more than %s deep'] = 'more than %s deep';
 $Definition['more than %s levels deep'] = 'more than %s levels deep';
-
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Most pockets shouldn\'t be displayed in the dashboard.';
 $Definition['Move discussions in this category to a replacement category.'] = 'Move discussions in this category to a replacement category.';
 $Definition['My Invitations'] = 'My Invitations';
 
 $Definition['Need More Help?'] = 'Need More Help?';
-
 $Definition['never'] = 'never';
-
 $Definition['Never - Users Must Refresh Page'] = 'Never - Users Must Refresh Page';
 $Definition['Never display on mobile browsers.'] = 'Never display on mobile browsers.';
 $Definition['NewApplicantEmail'] = 'New applicant:';
@@ -621,9 +607,8 @@ $Definition['Other Tutorials'] = 'Other Tutorials';
 $Definition['Outgoing Email'] = 'Outgoing Email';
 $Definition['Outgoing Email Address'] = 'Outgoing Email Address';
 
-$Definition['page'] = 'page';
-
 $Definition['Page'] = 'Page';
+$Definition['page'] = 'page';
 $Definition['Panel Box'] = 'Panel Box';
 $Definition['Password Options'] = 'Password Options';
 $Definition['Pending'] = 'Pending';
@@ -720,9 +705,7 @@ $Definition['SaveLocalePack'] = 'Save';
 $Definition['Save Translations from a Locale Pack'] = 'Save Translations from a Locale Pack';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
-
 $Definition['seconds'] = 'seconds';
-
 $Definition['Security'] = 'Security';
 $Definition['Select'] = 'Select';
 $Definition['Select a %s'] = 'Select a %s';
@@ -755,9 +738,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Spoof';
 $Definition['Start Discussions'] = 'Start Discussions';
 $Definition['Start Import'] = 'Start Import';
-
 $Definition['starting your first discussion'] = 'starting your first discussion';
-
 $Definition['Statistics'] = 'Statistics';
 $Definition['Status'] = 'Status';
 $Definition['Stop Forum Spam Settings'] = 'Stop Forum Spam Settings';
@@ -768,9 +749,7 @@ $Definition['Success'] = 'Success';
 $Definition['System'] = 'System';
 
 $Definition['Table Layout'] = 'Table Layout';
-
 $Definition['take away'] = 'take away';
-
 $Definition['Temporary (302)'] = 'Temporary (302)';
 $Definition['Test'] = 'Test';
 $Definition['Testing'] = 'Testing';
@@ -880,9 +859,7 @@ $Definition['Unable to initialize plugin: required connectivity libraries not fo
 $Definition['Unban'] = 'Unban';
 $Definition['Uninvite'] = 'Uninvite';
 $Definition['Universal Code'] = 'Universal Code';
-
 $Definition['unknown'] = 'unknown';
-
 $Definition['Unlimited'] = 'Unlimited';
 $Definition['Unviersal Forum Embed Code'] = 'Unviersal Forum Embed Code';
 $Definition['Use an SMTP server to send email'] = 'Use an SMTP server to send email';
@@ -923,10 +900,8 @@ $Definition['Vanilla Sphinx Help'] = 'Vanilla Sphinx Help';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
 $Definition['Verified!'] = 'Verified!';
 $Definition['Version'] = 'Version';
-
-$Definition['version %s'] = 'version %s';
-
 $Definition['Version %s'] = 'Version %s';
+$Definition['version %s'] = 'version %s';
 $Definition['Version %s Installer'] = 'Version %s Installer';
 $Definition['Video tutorial on advanced settings'] = 'Video tutorial on advanced settings';
 $Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding &amp; managing users';
@@ -993,10 +968,3 @@ $Definition['Your changes were saved successfully.'] = 'Your changes were saved 
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
 $Definition['Your invitations were sent successfully.'] = 'Your invitations were sent successfully.';
-
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Confirm Your Email Address';
-$Definition['[%s] Invitation'] = '[%s] Invitation';
-$Definition['[%s] Password Reset'] = '[%s] Password Reset';
-$Definition['[%s] Password Reset Request'] = '[%s] Password Reset Request';
-
-$Definition['_Locale'] = 'Locale';

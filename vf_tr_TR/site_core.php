@@ -22,8 +22,8 @@ $Definition['%s Agrees'] = '%s Onay';
 $Definition['%s and you'] = '%s ve siz';
 $Definition['%s Awesomes'] = '%s Harika';
 $Definition['%s changed %s\'s permissions.'] = '%s\'in izinlerini %s değiştirdi.';
-$Definition['%s comment'] = '%s yorum';
 $Definition['%s Comment'] = '%s Yorum';
+$Definition['%s comment'] = '%s yorum';
 $Definition['%s Comments'] = '%s Yorum';
 $Definition['%s comments'] = '%s yorum';
 $Definition['%s Connect'] = '%s Bağlan';
@@ -38,15 +38,15 @@ $Definition['%s LOLs'] = '%s Komik';
 $Definition['%s mentioned %s in a %s.'] = '%s anıldı %s içinde %s.';
 $Definition['%s message'] = '%s mesaj';
 $Definition['%s messages'] = '%s mesajlar';
-$Definition['%s new'] = '%s yeni';
 $Definition['%s New'] = '%s Yeni';
+$Definition['%s new'] = '%s yeni';
 $Definition['%s new comment since you last read this.'] = 'Son okuduğunuzan beri %s yeni yorum var.';
 $Definition['%s new comments since you last read this.'] = 'Son okuduğunuzan beri %s yeni yorum var.';
-$Definition['%s new plural'] = '%s yeni';
 $Definition['%s New Plural'] = '%s Yeni Çoğul';
+$Definition['%s new plural'] = '%s yeni';
 $Definition['%s Not Found'] = '%s Bulunamadı';
-$Definition['%s point'] = '%s puan';
 $Definition['%s Point'] = '%s Puan';
+$Definition['%s point'] = '%s puan';
 $Definition['%s Points'] = '%s Puan';
 $Definition['%s points'] = '%s puan';
 $Definition['%s said'] = '%s dedi';
@@ -68,6 +68,10 @@ $Definition[' - Page %s'] = ' - Sayfa %s';
 $Definition['1 message'] = '1 mesaj';
 
 $Definition['<General Error>'] = '<Genel Hata>';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Üyelik Onaylandı';
+$Definition['[%s] Welcome Aboard!'] = '[%s] Aramıza Hoşgeldin!';
+$Definition['[Deleted User]'] = '[Silinen Kullanıcı]';
 
 $Definition['About'] = 'Hakkında';
 $Definition['Abuse'] = 'Suistimal';
@@ -106,9 +110,7 @@ $Definition['Add People to this Conversation'] = 'Bu Sohbete Kişi Ekle';
 $Definition['Add Route'] = 'Rota Ekle';
 $Definition['Admin'] = 'Yönetici';
 $Definition['Administrator Activity'] = 'Yönetici Etkinliği';
-
 $Definition['administrators'] = 'yöneticiler';
-
 $Definition['Advanced Stuff'] = 'Gelişmiş Öğeler';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'İsteğiniz işlenirken bir hata meydana geldi.<br /> Sunucu belirtilen cevaplı verdi: %s';
 $Definition['Agree'] = 'Kabul';
@@ -129,9 +131,7 @@ $Definition['Announcement'] = 'Duyuru';
 $Definition['Announcements'] = 'Duyurular';
 $Definition['Announce this discussion'] = 'Bu tartışmayı duyur';
 $Definition['Answer'] = 'Cevapla';
-
 $Definition['answer'] = 'cevap';
-
 $Definition['Answers'] = 'Cevaplar';
 $Definition['Applicants'] = 'Başvuranlar';
 $Definition['Apply Changes'] = 'Değişiklikleri Uygula';
@@ -148,9 +148,7 @@ $Definition['Attach a file'] = 'Dosya ekle';
 $Definition['Attachments'] = 'Eklentiler';
 $Definition['AttemptingSignOut'] = 'Oturumu kapatmaya çalışıyorsunuz. %s istediğinizden emin misiniz?';
 $Definition['Authenticate URL'] = 'URL Doğrula';
-
 $Definition['available'] = 'uygun';
-
 $Definition['Awaiting Moderation'] = 'Bekleyen Denetlemeler';
 $Definition['Awesome'] = 'Müthiş';
 
@@ -177,19 +175,13 @@ $Definition['Blank Discussion Topic'] = 'Boş Tartışma Konusu';
 $Definition['Blank Message'] = 'Boş İleti';
 $Definition['Body'] = 'Gövde';
 $Definition['Bookmark'] = 'Yer İşareti';
-
 $Definition['bookmarked discussion'] = 'işaretlenmiş yarışma';
-
 $Definition['Bookmarked Discussions'] = 'İşaretli Tartışmalar';
-
-$Definition['bookmarks'] = 'yer işaretleri';
-
 $Definition['Bookmarks'] = 'Yer İşaretleri';
+$Definition['bookmarks'] = 'yer işaretleri';
 $Definition['By'] = 'Tarafından';
-
 $Definition['by'] = 'tarafından';
 $Definition['by Date'] = 'Tarihe Göre';
-
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Dosya yükleyerek bu resmi dağıtma hakkınızın olduğunu ve Hizmet Şartlarını ihlal etmediğinizi kabul etmiş olursunuz.';
 
 $Definition['Cancel'] = 'İptal';
@@ -215,25 +207,19 @@ $Definition['Child Categories:'] = 'Alt Kategoriler:';
 $Definition['Choose a name to identify yourself on the site.'] = 'Sitede kendini tanıtmak için bir isim seçin.';
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'Bütün yorumların birleştirileceği ana tartışmayı seçin:';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'Soru mu sormak istersiniz yoksa tartışma mı başlatmak?';
-
-$Definition['clear'] = 'temizle';
-
 $Definition['Clear'] = 'Temizle';
+$Definition['clear'] = 'temizle';
 $Definition['Clear Conversation History'] = 'Görüşme Geçmişini Temizle';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = '<a href="%s">Buraya</a> tıklayarak tartışmaya geri dönebilirsiniz.';
 $Definition['Click accept or reject beside an answer.'] = 'Bir cevabın yanındaki kabul et yada reddete tıklayın.';
-
 $Definition['clicking here'] = 'buraya tıklayın';
-
 $Definition['Click the %s beside discussions to bookmark them.'] = 'Tartışmayı işaretlemek için yanındaki %s tıklayın.';
 $Definition['Close'] = 'Kapat';
 $Definition['Closed'] = 'Kapatıldı';
 $Definition['Close this discussion'] = 'Bu tartışmayı kapat';
 $Definition['Combo Breaker'] = 'Kombo Kırıcı';
 $Definition['Comment'] = 'Yorum';
-
 $Definition['comment'] = 'yorum';
-
 $Definition['Comment As ...'] = '... Olarak Yorum Yap';
 $Definition['Comment by %s'] = '%s tarafından yorum';
 $Definition['Comment in'] = 'kategorisi';
@@ -255,9 +241,7 @@ $Definition['Connection'] = 'Bağlantı';
 $Definition['ConnectLeaveBlank'] = 'Zaten varolan bir hesaba bağlanmıyorsanız boş bırakın.';
 $Definition['ConnectName'] = 'Kullanıcı Adı';
 $Definition['ConnectRegisteredName'] = 'Kayıtlı kullanıcı adınız: <strong>%s</strong>';
-
 $Definition['conversation'] = 'görüşme';
-
 $Definition['Core'] = 'Çekirdek';
 $Definition['Create Discussions'] = 'Tartışma Oluştur';
 $Definition['Create One.'] = 'Bir tane oluştur.';
@@ -265,9 +249,7 @@ $Definition['Current'] = 'Şimdiki';
 $Definition['Currently: '] = 'Şimdiki;';
 $Definition['Custom Information'] = 'Özel Bilgiler';
 $Definition['Customize'] = 'Özelleştir';
-
 $Definition['customize your profile now'] = 'profilinizi şimdi özelleştirin';
-
 $Definition['Customize your Public Profile'] = 'Herkese Açık Profilinizi Düzenleyin';
 $Definition['Custom Profile Fields'] = 'Özel Profil Alanları';
 $Definition['Custom Profile Field Settings'] = 'Özel Profil Alanı Ayarları';
@@ -277,9 +259,7 @@ $Definition['Dashboard Home'] = 'Pano Anasayfası';
 $Definition['Dashboard Summaries'] = 'Pano Özetleri';
 $Definition['Date'] = 'Tarih';
 $Definition['Date Added'] = 'Tarih Eklendi';
-
 $Definition['days'] = 'gün';
-
 $Definition['Define Thumbnail'] = 'Küçük resminizi belirtmek için tıklayın ve sürükleyin.';
 $Definition['Delete'] = 'Sil';
 $Definition['Delete %s'] = 'Sil %s';
@@ -291,10 +271,8 @@ $Definition['Delete User Content'] = 'Kullanıcı İçeriğini Sil';
 $Definition['Delete User Forever'] = 'Kullanıcıyı Tamamen Sil';
 $Definition['Did this answer the question?'] = 'Bu sorunuza cevap oldu mu?';
 $Definition['Disagree'] = 'Katılmıyorum';
-
-$Definition['discussion'] = 'tartışma';
-
 $Definition['Discussion'] = 'Tartışma';
+$Definition['discussion'] = 'tartışma';
 $Definition['Discussions'] = 'Tartışmalar';
 $Definition['Discussions Page'] = 'Tartışmalar Sayfası';
 $Definition['Discussion Title'] = 'Tartışma Başlığı';
@@ -394,9 +372,7 @@ $Definition['ErrorPluginEnableRequired'] = 'Bu eklentinin etkinleştirilmesi iç
 $Definition['ErrorPluginVersionMatch'] = 'Etkinleştirilmiş {0} (version {1}) eklentisi sürüm gereksinimlerini karşılayamadı.';
 $Definition['ErrorRecordNotFound'] = 'Talep edilen kayıt bulunamadı.';
 $Definition['ErrorTermsOfService'] = 'Kuralları kabul etmek zorundasınız.';
-
 $Definition['everyone'] = 'herbiri';
-
 $Definition['Everything'] = 'herşey';
 $Definition['Expired'] = 'Süresi Doldu';
 $Definition['Expires'] = 'süresi dolanlar';
@@ -406,8 +382,8 @@ $Definition['Failed to load the poll.'] = 'Anket yüklenemedi.';
 $Definition['Feedback'] = 'Geri Bildirim';
 $Definition['Female'] = 'Kadın';
 $Definition['Fifth Anniversary'] = 'Beşinci Yıldönümü';
-$Definition['Filename'] = 'Dosya Adı';
 $Definition['FileName'] = 'DosyaAdı';
+$Definition['Filename'] = 'Dosya Adı';
 $Definition['File Size'] = 'Dosya Boyutu';
 $Definition['FileSize'] = 'DosyaBoyutu';
 $Definition['First Anniversary'] = 'Birinci Yıldönümü';
@@ -424,8 +400,8 @@ $Definition['Forgot?'] = 'Unuttunuz mu?';
 $Definition['Forgot your password?'] = 'Parolanızı mı unuttunuz?';
 $Definition['Format his'] = 'onun';
 $Definition['Format their'] = 'onların';
-$Definition['Format you'] = 'sen';
 $Definition['Format You'] = 'Siz';
+$Definition['Format you'] = 'sen';
 $Definition['Format Your'] = 'Sizin';
 $Definition['Fourth Anniversary'] = 'Dördüncü Yıldönümü';
 $Definition['Friends'] = 'Arkadaşlar';
@@ -447,9 +423,7 @@ $Definition['Go'] = 'Git';
 $Definition['GuestModule.Message'] = 'Burada yeni gibi görünüyorsunuz. Eğer katılmak istiyorsanız düğmelerden birine tıklayınız.';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Oturumunuz kapatılırken bir saniye bekleyin.';
-
 $Definition['he'] = 'o';
-
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} <a href="{Url,html}">{Data.Name,text}</a> rozeti kazandı.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} {ActivityUserID,you}. kullanıcısını yasakladı.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a> hakkında yorum yaptı.';
@@ -459,27 +433,19 @@ $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} {Ac
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} aramıza katıldı.';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} {ActivityUserID,you}. kullanıcısını yasağını kaldır.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} {RegardingUserID,you}. kullanıcısını uyardı.';
-
 $Definition['her'] = 'onun';
-
 $Definition['Hide'] = 'Sakla';
 $Definition['Hide signatures?'] = 'İmzalar saklansın mı?';
 $Definition['Hide signatures always'] = 'İmzaları devamlı gizle';
 $Definition['Hide signatures on my mobile device'] = 'Mobil cihazımda imzaları gizle';
-
 $Definition['his'] = 'onun';
-
 $Definition['Home'] = 'Anasayfa';
-
 $Definition['hours'] = 'saat';
-
 $Definition['Howdy, Stranger!'] = 'Merhaba, Yabancı!';
 $Definition['How long do you want this warning to last?'] = 'Bu uyarının ne kadar devam etmesini istersiniz?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '<a id="TermsOfService" class="Popup" target="terms" href="%s">Kuralları</a> kabul ediyorum';
-
 $Definition['in'] = 'kategorisi';
-
 $Definition['In <b>%s.</b>'] = '<b>%s.</b> İçinde';
 $Definition['In <b>%s</b> and recent discussions.'] = '<b>%s</b> ve son tartışmalar içinde.';
 $Definition['Inbox'] = 'Gelen Kutusu';
@@ -495,10 +461,8 @@ $Definition['InviteErrorPermission'] = 'Üzgünüm, izin verilmedi.';
 $Definition['IP Address'] = 'IP adresi';
 $Definition['IPAddress'] = 'IPAdress';
 $Definition['I remember now!'] = 'Hatırladım!';
-
-$Definition['item'] = 'öğe';
-
 $Definition['Item'] = 'Öğe';
+$Definition['item'] = 'öğe';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Burada yeni gibi görünüyorsunuz. Eğer katılmak istiyorsanız düğmelerden birine tıklayınız.';
 
 $Definition['Jail'] = 'Hapishane';
@@ -517,8 +481,8 @@ $Definition['Last IP'] = 'Son IP';
 $Definition['Latest %1$s'] = 'En Son %1$s';
 $Definition['Latest Post'] = 'En Son Gönderi';
 $Definition['Leaders'] = 'Liderler';
-$Definition['Leave a comment'] = 'Bir yorum yap';
 $Definition['Leave a Comment'] = 'Bir Yorum Bırak';
+$Definition['Leave a comment'] = 'Bir yorum yap';
 $Definition['Leave blank unless connecting to an exising account.'] = 'Zaten varolan bir hesaba bağlanmıyorsanız boş bırakın.';
 $Definition['Leave Comments'] = 'Yorumlar Yap';
 $Definition['Length'] = 'Uzunluk';
@@ -537,24 +501,16 @@ $Definition['Mark Read'] = 'Okunmuş Olarak İşaretle';
 $Definition['Merge'] = 'Birleştir';
 $Definition['Merge Discussions'] = 'Tartışmaları Birleştir';
 $Definition['Message'] = 'İleti';
-
 $Definition['message'] = 'mesaj';
-
 $Definition['Messages'] = 'İletiler';
-
 $Definition['messages'] = 'mesajlar';
 $Definition['minutes'] = 'dakika';
-
 $Definition['Moderation'] = 'düzenleme';
 $Definition['Moderation Queue'] = 'Düzenleme Kuyruğu';
 $Definition['Moderator Activity'] = 'Moderatör Aktivitesi';
-
-$Definition['moderators'] = 'moderatörler';
-
 $Definition['Moderators'] = 'Moderatörler';
-
+$Definition['moderators'] = 'moderatörler';
 $Definition['months'] = 'Ay';
-
 $Definition['More'] = 'Daha';
 $Definition['More Comments'] = 'Daha Fazla yorum';
 $Definition['More Discussions'] = 'Daha Fazla Tartışma';
@@ -576,10 +532,8 @@ $Definition['Name'] = 'İsim ';
 $Definition['Name Dropper'] = 'İsim Bırakıcı';
 $Definition['Name Unavailable'] = 'İsim Kullanılamaz';
 $Definition['New Conversation'] = 'Yeni Mesaj';
-
-$Definition['new discussion'] = 'yeni';
-
 $Definition['New Discussion'] = 'Yeni Tartışma';
+$Definition['new discussion'] = 'yeni';
 $Definition['New Message'] = 'Yeni Mesaj';
 $Definition['New Password'] = 'Yeni Şifre';
 $Definition['New Poll'] = 'Yeni Anket';
@@ -618,18 +572,14 @@ $Definition[' now.'] = 'şimdi.';
 $Definition['Off Topic'] = 'Alakasız';
 $Definition['OK'] = 'TAMAM';
 $Definition['Okay'] = 'Tamam';
-$Definition['OldPassword'] = 'Eski parola';
 $Definition['Old Password'] = 'Eski Parola';
-
+$Definition['OldPassword'] = 'Eski parola';
 $Definition['on'] = 'içinde';
-
 $Definition['Only show followed categories'] = 'Sadece takip edilen kategorileri göster';
 $Definition['OpenID Settings'] = 'OpenID Ayarları';
 $Definition['Optional Description'] = 'Opsiyonel Tanım';
 $Definition['Options'] = 'Seçenekler';
-
 $Definition['or'] = 'veya';
-
 $Definition['Organize discussion categories'] = 'Tartışma kategorilerini organize edin';
 $Definition['Organize your Categories'] = 'Kategorilerinizi organize edin';
 $Definition['Or you can...'] = 'Yada şunu yapabilirsin...';
@@ -646,10 +596,8 @@ $Definition['PasswordRequest'] = 'Birisi %2$s tarihinde parolanızı sıfırla t
 
 Eğer böyle bir talepte bulunmadıysanız bu e-postayı görmezden gelin.';
 $Definition['Passwords don\'t match'] = 'Parolalar eşleşmiyor';
-
-$Definition['permalink'] = 'kalıcı link';
-
 $Definition['Permalink'] = 'Kalıcı Link';
+$Definition['permalink'] = 'kalıcı link';
 $Definition['PermissionErrorMessage'] = 'Bunu yapmaya izniniz yok.';
 $Definition['PermissionErrorTitle'] = 'İzin Sorunu';
 $Definition['PermissionRequired.Garden.Moderation.Manage'] = 'Bunu yapmak için moderatör olmalısınız.';
@@ -684,8 +632,8 @@ $Definition['Private Note for Moderators'] = 'Moderatör için Özel Not';
 $Definition['Problem with credentials.'] = 'Kimlik bilgisi sorunu.';
 $Definition['Proceed'] = 'Devam Et';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile Fields'] = 'Profil Boşlukları';
 $Definition['Profile  Fields'] = 'Profil Boşlukları';
+$Definition['Profile Fields'] = 'Profil Boşlukları';
 $Definition['ProfileFieldsCustomDescription'] = 'Özel profil bilgisi oluşturmak için bu alanları kullanın. "İlişki Durumu", "Skype", yada "Favori Dinazorunum" gibi şeyler ekleyebilirsiniz. Yaratıcı olun!';
 $Definition['Profile Page'] = 'Profil Sayfası';
 $Definition['Profile Picture'] = 'Profil Fotoğrafı';
@@ -700,9 +648,7 @@ $Definition['Q&A Question'] = 'Soru';
 $Definition['QnA Accepted Answer'] = 'Cevap ✓';
 $Definition['QnA Rejected Answer'] = 'Cevap Reddedildi';
 $Definition['Question'] = 'Soru';
-
 $Definition['question'] = 'soru';
-
 $Definition['Question Title'] = 'Soru Başlığı';
 $Definition['Quote'] = 'Alıntı';
 $Definition['Quote Folding'] = 'Katlanan Alıntı';
@@ -720,9 +666,7 @@ $Definition['Reason (optional)'] = 'Sebep ( İsteğe Bağlı ) ';
 $Definition['Recent Activity'] = 'Son aktivite';
 $Definition['Recent Admin Activity'] = 'Son Yönetici Etkinlikleri';
 $Definition['Recent Discussions'] = 'Son Tartışmalar';
-
 $Definition['recently'] = 'bu aralar';
-
 $Definition['Recent Moderator Activity'] = 'Son Moderatör Etkinlikleri';
 $Definition['Recent Tutorials'] = 'Son Eğitimler';
 $Definition['Recipients'] = 'Alıcılar';
@@ -753,14 +697,10 @@ $Definition['Request a new password →'] = 'Yeni parola iste→';
 $Definition['Reset Password'] = 'Parola Sıfırla';
 $Definition['Revoke'] = 'İptal Et';
 $Definition['Revoked badge.'] = 'Rozeti İptal Et';
-
 $Definition['role'] = 'rol';
-
 $Definition['RoleID'] = 'rol';
-
-$Definition['roles'] = 'roller';
-
 $Definition['Roles'] = 'Roller';
+$Definition['roles'] = 'roller';
 
 $Definition['Save'] = 'Kaydet';
 $Definition['Save Comment'] = 'Yorumu Kaydet';
@@ -778,9 +718,7 @@ $Definition['Security Check'] = 'Güvenlik Kontrolü';
 $Definition['Select an image on your computer (2mb max)'] = 'Bilgisayarınızdan bir resim seçin (En fazla 2mb)';
 $Definition['Send a New Message'] = 'Yeni İleti Gönder';
 $Definition['Send Message'] = 'Mesaj Gönder';
-
 $Definition['sep and'] = 've';
-
 $Definition['Set a New Warning Level'] = 'Yeni Uyarı Seviyesi Ayarla';
 $Definition['Set A Password'] = 'Parola Belirle';
 $Definition['Setting'] = 'Ayar';
@@ -788,9 +726,7 @@ $Definition['Settings'] = 'Ayarlar';
 $Definition['Seventh Anniversary'] = 'Yedinci Yıldönümü';
 $Definition['Share'] = 'Paylaş';
 $Definition['Shared Accounts'] = 'Paylaşılan Hesaplar';
-
 $Definition['she'] = 'o';
-
 $Definition['Shown only on mobile'] = 'Sadece mobilde göster';
 $Definition['Show unfollowed categories'] = 'Takip edilmeyen kategorileri göster';
 $Definition['Sign-In URL'] = 'Oturum Açma URL\'si';
@@ -810,23 +746,17 @@ $Definition['Sign In with Facebook'] = 'Facebook ile Oturum Aç';
 $Definition['Sign In with Google'] = 'Google ile Oturum Aç';
 $Definition['Sign In with OpenID'] = 'OpenID ile Oturum Aç';
 $Definition['Sign In with Twitter'] = 'Twitter ile Oturum Aç';
-
-$Definition['sign out'] = 'oturum kapat';
-
 $Definition['Sign Out'] = 'Oturumu Kapat';
+$Definition['sign out'] = 'oturum kapat';
 $Definition['Sign Up'] = 'Kayıt Ol';
 $Definition['Sink'] = 'Batır';
 $Definition['Sink this discussion'] = 'Bu tartışmayı düşür.';
 $Definition['Sitemap Settings'] = 'Site Haritası Ayarları';
 $Definition['Sixth Anniversary'] = 'Altıncı Yıldönümü';
-
 $Definition['somebody'] = 'biri';
-
 $Definition['Some Code'] = 'Biraz Kod';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Biri sorunuza cevap verdi. Cevabı kabul etmeniz yada reddetmeniz gerekiyor';
-
 $Definition['sorted by'] = 'sıralam ölçütü';
-
 $Definition['Source:'] = 'Kaynak:';
 $Definition['Spam'] = 'İstenmeyen İleti';
 $Definition['Spam Queue'] = 'İstenmeyen İleti Kuyruğu';
@@ -858,8 +788,8 @@ $Definition['Target'] = 'Hedef';
 $Definition['Tell the user why you\'re warning them'] = 'Kullanıcınıza onları neden uyardığınızı söyleyin';
 $Definition['Tell us why you want to join!'] = 'Neden katılmak istediğiniz anlatın!';
 $Definition['Tenth Anniversary'] = 'Onuncu Yıldönümü';
-$Definition['Terms of Service'] = 'Hizmet Şartları';
 $Definition['TermsOfService'] = 'Hizmet Koşulları';
+$Definition['Terms of Service'] = 'Hizmet Şartları';
 $Definition['TermsOfServiceText'] = '
    <p>You agree, through your use of this service, that you will not use this
    community to post any material which is knowingly false and/or defamatory,
@@ -887,9 +817,7 @@ $Definition['The conversation has been cleared.'] = 'Görüşme temizlendi.';
 $Definition['The email you entered in use by another member.'] = 'Girdğiniz e-posta başka bir üye tarafından kullanılıyor.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Girdiğiniz e-posta zaten başka bir hesaba bağlı.';
 $Definition['The file failed to upload.'] = 'Dosya yükleme başarısız.';
-
 $Definition['their'] = 'onların';
-
 $Definition['The name you entered is already in use by another member.'] = 'Girdiğiniz isim zaten başka bir üye tarafından kullanılıyor.';
 $Definition['The page you were looking for could not be found.'] = 'Aradığınız sayfa bulunamadı.';
 $Definition['The quote had to be converted from %s to %s.'] = 'Alıntı %s dan %s a çevirildi. Bazı biçimlendirmeler kaybolmuş olabilir.';
@@ -902,9 +830,7 @@ $Definition['There was an error connecting to Facebook'] = 'Facebook bağlantıs
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Dosya yüklenirken bir hata oldu. Büyük ihtimalle dosya çok büyük olduğu için.';
 $Definition['The site is currently undergoing maintenance.'] = 'Siteye şu anda bakım yapılıyor.';
 $Definition['The uploaded file was too big (max %s).'] = 'Yüklediğiniz dosya çok büyük (en fazla %s).';
-
 $Definition['they'] = 'onlar';
-
 $Definition['Third Anniversary'] = 'Üçüncü Yıldönümü';
 $Definition['This answer was %s.'] = 'Bu cevap %s.';
 $Definition['This answer was Accepted.'] = 'Cevap kabul edildi.';
@@ -937,9 +863,7 @@ $Definition['Type'] = 'Tür';
 $Definition['Unannounce'] = 'Anonsu Geri Al';
 $Definition['Unanswered'] = 'Cevap Geri Alındı';
 $Definition['Unanswered Questions'] = 'Cevap Geri Alındı';
-
 $Definition['unavailable'] = 'kullanılamaz';
-
 $Definition['Unban User'] = 'Kullanıcının Engellemesini Kaldır';
 $Definition['Unbookmark'] = 'İşareti Kaldır';
 $Definition['Undefined discussion body.'] = 'Tanımlanmamış tartışma gövdesi.';
@@ -997,9 +921,7 @@ $Definition['Vanilla Statistics'] = 'vanilla istatistikleri';
 $Definition['Vanilla Statistics Plugin'] = 'vanilla istatistik eklentisi';
 $Definition['Verified'] = 'Doğrulandı';
 $Definition['Verifying your credentials...'] = 'lütfen kimlik bilgilerinizi doğrulayınız.';
-
 $Definition['via %s'] = 'kaynak %s';
-
 $Definition['View Badge'] = 'lütfen rozetinize bakınız.';
 $Definition['Views'] = 'görüntülenme';
 $Definition['Visible'] = 'görünür';
@@ -1011,20 +933,15 @@ $Definition['Votes'] = 'Oylar';
 $Definition['Vote Up'] = 'İyi Oy';
 
 $Definition['wall'] = 'duvar';
-
 $Definition['Want to take part in this discussion? Click one of these:'] = 'Bu tartışmaya katılmak mı istiyorsun? Bunlardan birine tıkla:';
 $Definition['Warn'] = 'Uyar';
 $Definition['Warnings'] = 'Uyarılar';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} tarafından {WarnUserID,User} {Points,plural,%s points} için uyarıldı.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} tarafından {WarnUserID,User} için {Points,plural,%s points} uyarıldı (haberin olsun).';
-
 $Definition['was'] = 'idi';
 $Definition['weeks'] = 'haftalar';
-
 $Definition['Welcome Aboard!'] = 'Aramıza Hoşgeldiniz!';
-
 $Definition['were'] = 'idi';
-
 $Definition['Where do you want to announce this discussion?'] = 'Bu tartışmayı nerde duyurmak istersin?';
 $Definition['Who\'s Online'] = 'Kimler Çevrimiçi';
 $Definition['Whos Online'] = 'Kimler Çevrimiçi';
@@ -1036,9 +953,7 @@ $Definition['WTF'] = 'BU DA NE!';
 
 $Definition['Yes'] = 'Evet';
 $Definition['You'] = 'Sen';
-
 $Definition['you'] = 'sen';
-
 $Definition['You\'ve been Jailed.'] = 'Hapise atıldın.';
 $Definition['You already have an account here.'] = 'Burada mevcut bir hesabınız bulunuyor.';
 $Definition['You are about to ban {User.UserID,user}.'] = '{User.UserID,user} adlı kullanıcıyı engellemek üzeresiniz.';
@@ -1073,9 +988,7 @@ $Definition['You have to select at least 2 discussions to merge.'] = 'Tartışma
 $Definition['You must agree to the terms of service.'] = 'Hizmet Koşullarını kabul etmelisiniz.';
 $Definition['You need to confirm your email address.'] = 'E-posta adresinizi onaylanız gerekiyor. Onaylama e-postasono tekrar göndermek için <a href="{/entry/emailconfirmrequest,url}">buraya tıklayınız</a>.';
 $Definition['You need to sign in before you can do this.'] = 'Bunu yapabilmeniz için önce oturum açmanız gerekli.';
-
 $Definition['your'] = 'sizin';
-
 $Definition['Your changes have been saved.'] = 'Değişiklikleriniz kaydedildi.';
 $Definition['Your changes have been saved successfully.'] = 'Değişiklikleriniz başarıyla kaydedildi.';
 $Definition['Your changes were saved.'] = 'Değişiklikleriniz kaydedildi.';
@@ -1096,10 +1009,6 @@ $Definition['Your warning was added.'] = 'Uyarınız eklendi.';
 $Definition[' You should '] = 'Yapmalısın';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} bir <a href="{Url,htmlencode}">sohbete</a>{NotifyUserID,you} ekledi.';
-
-$Definition['[%1$s] Membership Approved'] = '[%1$s] Üyelik Onaylandı';
-$Definition['[%s] Welcome Aboard!'] = '[%s] Aramıza Hoşgeldin!';
-$Definition['[Deleted User]'] = '[Silinen Kullanıcı]';
 
 $Definition['↳ No results for \'%s\''] = '↳ \'%s\' için arama sonuçları bulunmuyor';
 $Definition['↳ Search results for \'%s\''] = '↳\'%s\' için arama sonuçları';

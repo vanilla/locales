@@ -7,6 +7,8 @@ $Definition['1 week after being sent'] = 'Через 1 тиждень після
 
 $Definition['2 weeks after being sent'] = 'Через 2 тиждені після відправлення';
 
+$Definition['_Locale'] = 'Переклад';
+
 $Definition['Accepted'] = 'Прийнятий';
 $Definition['Action'] = 'Дія';
 $Definition['Add Category'] = 'Додати категорію';
@@ -53,9 +55,7 @@ $Definition['Check all permissions that apply for each role'] = 'Позначт�
 $Definition['Check all permissions that apply to this role:'] = 'Позначте всі дії, дозволені цій ролі:';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'Виберіть та налаштуйте схему аутентифікації на вашім форумі';
 $Definition['Choose who can send out invitations to new members:'] = 'Виберіть, хто може надсилати запрошення новим користувачам:';
-
 $Definition['comment(s)'] = 'коментар(-я, -ів)';
-
 $Definition['Comments per Page'] = 'Коментарів на сторінці';
 $Definition['Condition Type'] = 'Тип';
 $Definition['Configure an Authenticator'] = 'Налаштування аутентикатора';
@@ -75,9 +75,7 @@ $Definition['Did You Know?'] = 'Чи знали Ви?';
 $Definition['Disable'] = 'Виключити';
 $Definition['Disabled'] = 'Виключені';
 $Definition['Discussion & Comment Editing'] = 'Редагування обговорення та коментаря';
-
 $Definition['discussion(s)'] = 'обговорення(-ня, -нь)';
-
 $Definition['Discussions per Page'] = 'Обговорень на сторінці';
 $Definition['Display root categories as headings.'] = 'Відображувати батьківські категорії як заголовки.';
 $Definition['Don\'t Refresh'] = 'Не обновляти';
@@ -86,7 +84,6 @@ $Definition['Do not display the categories in the side panel.'] = 'Не відо
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Перетягуйте категорії, щоб відсортувати і вкласти їх.';
 
 $Definition['edit'] = 'редагувати';
-
 $Definition['Edit Category'] = 'Редагування категорії';
 $Definition['EditContentTimeout.Notes'] = 'Примітка: Якщо у користувача є роль, яка дозволяє йому зміна вмісту, цей дозвіл буде домінувати над будь-яким значенням, вибраним тут.';
 $Definition['Edit Message'] = 'Редагувати повідомлення';
@@ -155,15 +152,11 @@ $Definition['Managing Categories'] = 'Керування категоріями'
 $Definition['Max Comment Length'] = 'Максимальна довжина коментаря';
 $Definition['Messages can appear anywhere in your application.'] = 'Повідомлення можуть зявлятись де завгодно в вашому сайті, і можуть бути використані для оповіщення користувачів про новини та події. Використовуйте цю сторінку, щоб реорганізувати ваші повідомлення, пересуваючи їх вниз чи вверх.';
 $Definition['Method'] = 'Метод';
-
 $Definition['minute(s)'] = 'хвилин(-у, -и)';
-
 $Definition['My Invitations'] = 'Мої запрошення';
 
 $Definition['Need More Help?'] = 'Потрібна допомога?';
-
 $Definition['never'] = 'Ніколи';
-
 $Definition['New comments in the last day'] = 'Нових коментарів за останній день';
 $Definition['New comments in the last week'] = 'Нових коментарів за останній тиждень';
 $Definition['New conversations in the last day'] = 'Нових бесід за останній день';
@@ -215,9 +208,7 @@ $Definition['Routes'] = 'Маршрути';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Маршрути можуть використовуватися для переадресації користувачів в різні частини вашого сайту, впливаючи на URL.';
 
 $Definition['SaveLocalePack'] = 'Зберегти';
-
 $Definition['seconds'] = 'секунд';
-
 $Definition['Select the file to import'] = 'Виберіть файл для імпорту';
 $Definition['SMTP Host'] = 'SMTP сервер';
 $Definition['SMTP Password'] = 'SMTP пароль';
@@ -246,10 +237,8 @@ $Definition['Users'] = 'Користувачі';
 
 $Definition['Vanilla.Archive.Description'] = 'Ви можете вибрати архівацію обговорень форумі, старше зазначеної дати. Обговорення в архіві стають закритими і не допускають нових повідомлень.';
 $Definition['Version'] = 'Версія';
-
-$Definition['version %s'] = 'версія %s';
-
 $Definition['Version %s'] = 'Версія %s';
+$Definition['version %s'] = 'версія %s';
 $Definition['View'] = 'Перегляд';
 $Definition['View Page'] = 'Подивитись сторінку';
 
@@ -262,5 +251,3 @@ $Definition['Within'] = 'Протягом';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Якщо ви коли-небудь заблокуєте ваш форум, ви  завжди зможете війти,  використовуючи оригінальний Email Vanilla та пароль тут: <a href="%1$s">%1$s</a>';
 $Definition['You can place files in your /uploads folder.'] = 'Якщо ваш файл занадто великий для завантаження безпосередньо на цю сторінку, ви можете помістити його в вашу папку /uploads. Переконайтеся, що ім\'я файлу починається зі слова <b>export</b> і закінчується <b>.txt</b> чи <b>.gz</b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Ваш запит буде розглянуто адміністратором. Ви будете сповіщені по Email, якщо все пройде успішно.';
-
-$Definition['_Locale'] = 'Переклад';

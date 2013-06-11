@@ -48,9 +48,7 @@ $Definition['Check all permissions that apply to this role:'] = 'Revisar todos l
 $Definition['Choose a locale pack'] = 'Elegir un "locale pack"';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'Escoge y configura tu esquema de autenticación del foro.';
 $Definition['Choose who can send out invitations to new members:'] = 'Elige quién puede enviar invitaciones a nuevos miembros:';
-
 $Definition['comment(s)'] = 'comentario(s)';
-
 $Definition['Comments per Page'] = 'Comentarios por página';
 $Definition['Condition Type'] = 'Tipo';
 $Definition['Configure an Authenticator'] = 'Configurar un Autenticador';
@@ -66,15 +64,12 @@ $Definition['Disable'] = 'Desactivar';
 $Definition['Disable Google Sign In'] = 'Desactivar Google Sign In';
 $Definition['Disable OpenID'] = 'Desactivar OpenID';
 $Definition['Discussion & Comment Editing'] = 'Discusión y Edición de Comentarios';
-
 $Definition['discussion(s)'] = 'discusion(es)';
-
 $Definition['Discussions per Page'] = 'Discusiones por página';
 $Definition['Don\'t Refresh'] = 'No Actualizar';
 $Definition['Don\'t use Categories'] = 'No usar Categorías';
 
 $Definition['edit'] = 'editar';
-
 $Definition['Edit Category'] = 'Editar Categoría';
 $Definition['EditContentTimeout.Notes'] = 'Nota: Si un usuario tiene un rol que tiene permisos para editar contenido, esos permisos serán anulados por cualquier valor seleccionado aquí.';
 $Definition['Edit User'] = 'Editar Usuario';
@@ -139,14 +134,11 @@ $Definition['Max Comment Length'] = 'Longitud Máxima de Comentario';
 $Definition['Member'] = 'Miembro';
 $Definition['Messages can appear anywhere in your application.'] = 'Los mensajes pueden aparecer en cualquier parte de tu aplicación, y pueden ser utilizados para informar a los usuarios de noticias y eventos. Utiliza esta página para reorganizar tus mensajes arrastrándolos hacia arriba o hacia abajo.';
 $Definition['Method'] = 'Método';
-
 $Definition['minute(s)'] = 'minuto(s)';
-
 $Definition['Moderator'] = 'Moderador';
 $Definition['My Invitations'] = 'Les meves Invitacions';
 
 $Definition['never'] = 'nunca';
-
 $Definition['New comments in the last day'] = 'Nuevos comentarios en el último día';
 $Definition['New comments in the last week'] = 'Nuevos comentarios en la última semana';
 $Definition['New conversations in the last day'] = 'Nuevas conversaciones en el último día';
@@ -191,9 +183,7 @@ $Definition['Routes'] = 'Rutas';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Las Rutas pueden usarse para redireccionar usuarios a varias partes de tu sitio dependiendo la Url';
 
 $Definition['SaveLocalePack'] = 'Guardar';
-
 $Definition['seconds'] = 'segundos';
-
 $Definition['Select the file to import'] = 'Selecciona el fichero a importar';
 $Definition['Send %s a Message'] = 'Enviar un Missatge a %s';
 $Definition['Sent To'] = 'Enviar A';
@@ -227,10 +217,8 @@ $Definition['Users'] = 'Usuarios';
 
 $Definition['Vanilla.Archive.Description'] = 'Puedes elegir archivar discusiones del foro que sean más antiguas que una determinada fecha. Las discusiones archivadas son cerradas, no permitiéndose nuevos envíos.';
 $Definition['Version'] = 'Versión';
-
-$Definition['version %s'] = 'versión %s';
-
 $Definition['Version %s'] = 'Versión %s';
+$Definition['version %s'] = 'versión %s';
 $Definition['View'] = 'Ver';
 
 $Definition['Warning'] = 'Advertencia';

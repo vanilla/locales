@@ -40,8 +40,14 @@ $Definition['15 minutes'] = '15 minučių';
 $Definition['<strong>Categories</strong>'] = '<strong>Kategorijos</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Kategorijos</strong> leidžia organizuoti diskusijas. Kategorijose gali būti tik diskusijos.';
 
-$Definition['a Badge'] = 'Medalis';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Patvirtinti savo el. pašto adresą';
+$Definition['[%s] Invitation'] = '[%s] Pakvietimas';
+$Definition['[%s] Password Reset'] = '[%s] Slaptažodžio keitimas';
+$Definition['[%s] Password Reset Request'] = '[%s] Slaptažodžio keitimo prašymas';
 
+$Definition['_Locale'] = 'Lokalė';
+
+$Definition['a Badge'] = 'Medalis';
 $Definition['Abilites'] = 'Gebėjimai';
 $Definition['About Vanilla Statistics'] = 'Apie Vanilla statistiką';
 $Definition['Above Main Content'] = 'Virš pagrindinio turinio';
@@ -68,9 +74,7 @@ $Definition['Advanced Forum Settings'] = 'Išplėstiniai forumo nustatymai';
 $Definition['Advanced Options'] = 'Išplėstinės parinktys';
 $Definition['Advanced Settings'] = 'Išplėstiniai nustatymai';
 $Definition['After'] = 'Po';
-
 $Definition['a full year.'] = 'visi metai.';
-
 $Definition['Alive'] = 'Įjungtas';
 $Definition['All'] = 'Visi';
 $Definition['All %1$s'] = 'Visi %1$s';
@@ -117,9 +121,7 @@ $Definition['Category Url:'] = 'Kategorijos nuoroda:';
 $Definition['Censored Words'] = 'Cenzūruoti žodžiai';
 $Definition['Change Log'] = 'Pakeitimų žurnalas';
 $Definition['Clean Spam'] = 'Išvalyti brukalus';
-
 $Definition['comment(s)'] = 'komentaras(-ai)';
-
 $Definition['Comment  Body'] = 'Komentaras | Pranešimo tekstas';
 $Definition['Comment Settings'] = 'Komentarų nustatymai';
 $Definition['Comments Page'] = 'Komentarų puslapis';
@@ -146,9 +148,7 @@ $Definition['Current Theme'] = 'Esama tema';
 
 $Definition['Decline'] = 'Atmesti';
 $Definition['Default'] = 'Numatytas';
-
 $Definition['default'] = 'numatytasis';
-
 $Definition['Default  Category'] = 'Numatyta | Kategorija';
 $Definition['Default Locale'] = 'Numatytoji lokalė';
 $Definition['Default Roles'] = 'Numatytosios rolės';
@@ -167,9 +167,7 @@ $Definition['Disabled'] = 'Išjungtas';
 $Definition['Disable Google Sign In'] = 'Išjungti Google prisijungimą';
 $Definition['Disable OpenID'] = 'Išjungti OpenID';
 $Definition['Disable Signatures'] = 'Išjungti parašus';
-
 $Definition['discussion(s)'] = 'diskusija(-os)';
-
 $Definition['Discussion  Body'] = 'Diskusija | Pranešimo tekstas';
 $Definition['Discussions Layout'] = 'Diskusijų išdėstymas';
 $Definition['Discussion  Subject'] = 'Diskusija | Tema';
@@ -179,7 +177,6 @@ $Definition['Download Locale Pack'] = 'Atsiųsti lokalės paketą';
 $Definition['DownloadLocalePack'] = 'Atsiųsti';
 
 $Definition['edit'] = 'redaguoti';
-
 $Definition['Edit %s'] = 'Koreguoti %s';
 $Definition['Edit Category'] = 'Koreguoti kategoriją';
 $Definition['Edit CSS'] = 'Koreguoti CSS';
@@ -218,9 +215,7 @@ $Definition['Generate sphinx.conf'] = 'Generuoti sphinx.conf';
 $Definition['Get More Applications'] = 'Rasti daugiau programų';
 $Definition['Get More Plugins'] = 'Rasti daugiau įskiepių';
 $Definition['Get More Themes'] = 'Rasti daugiau temų';
-
 $Definition['give'] = 'suteikti';
-
 $Definition['Guest'] = 'Svečias';
 
 $Definition['Hash Algorithm'] = 'Maišos algoritmas';
@@ -242,7 +237,6 @@ $Definition['Invited by'] = 'Pakvietė';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect kliento bibliotekos';
 $Definition['jsConnect Documentation'] = 'jsConnect dokumentacija';
-
 $Definition['JS Connect Settings'] = 'JS susijungimo nustatymai';
 
 $Definition['Key Type'] = 'Rakto tipas';
@@ -282,9 +276,7 @@ $Definition['Modern Layout'] = 'Modernus išdėstymas';
 $Definition['My Invitations'] = 'Mano pakvietimai';
 
 $Definition['Need More Help?'] = 'Reikia daugiau pagalbos?';
-
 $Definition['never'] = 'niekada';
-
 $Definition['Notes'] = 'Pastabos';
 $Definition['Not Spam'] = 'Ne brukalas';
 
@@ -296,9 +288,7 @@ $Definition['Other Themes'] = 'Kitos temos';
 $Definition['Outgoing Email Address'] = 'Išsiunčiamasis el. paštas';
 
 $Definition['Page'] = 'Puslapis';
-
 $Definition['page'] = 'puslapis';
-
 $Definition['Password Options'] = 'Slaptažodžio nustatymai';
 $Definition['Pending'] = 'Laukiama';
 $Definition['Permission'] = 'Leidimas';
@@ -358,9 +348,7 @@ $Definition['Subscriber'] = 'Prenumeratorius';
 $Definition['System'] = 'Sistema';
 
 $Definition['Table Layout'] = 'Lentelės išdėstymas';
-
 $Definition['take away'] = 'atimti';
-
 $Definition['Testing'] = 'Testavimas';
 $Definition['Text'] = 'Tekstas';
 $Definition['Thank You!'] = 'Ačiū!';
@@ -379,9 +367,7 @@ $Definition['Turn OFF'] = 'Išjungti';
 
 $Definition['Unban'] = 'Atblokuoti';
 $Definition['Universal Code'] = 'Universalus kodas';
-
 $Definition['unknown'] = 'nežinoma';
-
 $Definition['Unlimited'] = 'Neribota';
 $Definition['Use an SMTP server to send email'] = 'Naudoti SMTP serverį siųsti laiškus';
 $Definition['Use Categories'] = 'Naudoti kategorijas';
@@ -401,10 +387,8 @@ $Definition['Vanilla is installed!'] = 'Vanilla įdiegta!';
 $Definition['Vanilla Sphinx Help'] = 'Vanilla Sphinx pagalba';
 $Definition['Verified!'] = 'Patikrinta!';
 $Definition['Version'] = 'Versija';
-
-$Definition['version %s'] = 'versija %s';
-
 $Definition['Version %s'] = 'Versija %s';
+$Definition['version %s'] = 'versija %s';
 $Definition['View'] = 'Rodyti';
 $Definition['View Page'] = 'Rodyti puslapį';
 
@@ -414,10 +398,3 @@ $Definition['WordPress Plugin'] = 'WordPress įskiepis';
 
 $Definition['You must manually apply this rank.'] = 'Tu turi rankiniu būdu pritaikyti šį rangą.';
 $Definition['Your changes were saved successfully.'] = 'Tavo pakeitimai buvo sėkmingai išsaugoti.';
-
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Patvirtinti savo el. pašto adresą';
-$Definition['[%s] Invitation'] = '[%s] Pakvietimas';
-$Definition['[%s] Password Reset'] = '[%s] Slaptažodžio keitimas';
-$Definition['[%s] Password Reset Request'] = '[%s] Slaptažodžio keitimo prašymas';
-
-$Definition['_Locale'] = 'Lokalė';

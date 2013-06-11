@@ -1,5 +1,6 @@
 <?php
 
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" nicht gefunden.';
 $Definition['%1$s version %2$s is available.'] = '%1$s Version %2$s ist verfügbar.';
 $Definition['%s is not a valid email address'] = '%s ist keine gültige E-Mail-Adresse';
 $Definition['%s item in queue'] = '%s Objekt in der Schlange';
@@ -41,8 +42,15 @@ $Definition['<strong>Categories</strong> allow you to organize your discussions.
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Vorsicht!</strong> Das Löschen von Rollen kann zur Folge haben, dass manche Benutzer keinen Zugang mehr zum Forum haben.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Aufgepasst!</strong> Verschiebt man Diskussionen in Ersatz-Kategorien kann es passieren, dass sie nicht mehr angezeigt werden, weil die Zielkategorie andere Rechte hat als die gelöschte Kategorie.';
 
-$Definition['a Badge'] = 'ein Badge';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Bestätige deine E-Mail-Adresse';
+$Definition['[%s] Invitation'] = '[%s] Einladung';
+$Definition['[%s] Password Reset'] = '[%s] Passwort zurücksetzen';
+$Definition['[%s] Password Reset Request'] = '[%s] Antrag zum zurücksetzen des Passworts';
 
+$Definition['_Locale'] = 'Lokalisierung';
+
+$Definition['a Badge'] = 'ein Badge';
+$Definition['Abilites'] = 'Fähigkeiten';
 $Definition['About.DisableStatistics'] = 'Falls du die Datenübermittlung aus Unternehmensgründen abschalten musst, kannst du das tun indem du diesen Code in der Konfigurationsdatei der Installation hinzufügst: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Es ist absolut notwendig für die Erhaltung dieser kostenlosen, open-source Software, dass wir akkurate Messungen zur Verbreitung und Effektivität von Vanilla erhalten. Daher bitten wir darum, die Datenübermittlung nicht auszuschalten.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla kann als "drop-in" Ersatz für deine Standardkommentarfunktion deines Blogs genutzt werden. Es kann genutzt werden, um Kommentare auf jeder Webseite hinzuzufügen.';
@@ -76,9 +84,7 @@ $Definition['Advanced Options'] = 'Erweiterte Optionen';
 $Definition['Advanced Settings'] = 'Erweiterte Einstellungen';
 $Definition['Advanced settings for embedded community elements'] = 'Erweiterte Einstellungen für eingebundene Community-Elemente';
 $Definition['After'] = 'Nach';
-
 $Definition['a full year.'] = 'ein ganzes Jahr.';
-
 $Definition['Alive'] = 'Funktionsfähig';
 $Definition['All'] = 'Alle';
 $Definition['All %1$s'] = 'Alle %1$s';
@@ -153,10 +159,8 @@ $Definition['Blocked'] = 'Blockiert';
 $Definition['Blog Comments'] = 'Blogkommentare';
 $Definition['Browse Addons'] = 'Addons durchsuchen';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Neues Bannerlogo auswählen, wenn du es ändern möchtest:';
-
-$Definition['by %s'] = 'von %s';
-
 $Definition['By %s'] = 'Von %s';
+$Definition['by %s'] = 'von %s';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Durch Drücken des unten stehenden Buttons wird das Konto von %s unwiederbringlich gelöscht.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Kann die Profilinformationen nicht erstellen, wenn der Nutzer nicht definiert ist.';
@@ -195,9 +199,7 @@ $Definition['Click here to apply it.'] = 'Klicke hier zum anwenden.';
 $Definition['Click here to carry on.'] = 'Hier klicken, um fortzufahren';
 $Definition['Click here to carry on to your dashboard'] = 'Hier klicken, um weiter auf dem Dashboard zu arbeiten';
 $Definition['Client ID'] = 'Client-ID';
-
 $Definition['comment(s)'] = 'Kommentar(e)';
-
 $Definition['Comment  Body'] = 'Kommentartext';
 $Definition['Comment Settings'] = 'Kommentareinstellungen';
 $Definition['Comments Page'] = 'Kommentarseite';
@@ -244,9 +246,7 @@ $Definition['Database Structure Upgrades'] = 'Datenbank-Struktur Upgrades';
 $Definition['Debug Information'] = 'Debug-Informationen';
 $Definition['Decline'] = 'Ablehnen';
 $Definition['Default'] = 'Standard';
-
 $Definition['default'] = 'standard';
-
 $Definition['Default %s Permissions'] = 'Standard %s Rechte';
 $Definition['Default  Category'] = 'Standardkategorie';
 $Definition['Default Category Permissions'] = 'Standard Kategorie Rechte';
@@ -278,9 +278,7 @@ $Definition['Disable OpenID'] = 'OpenID deaktivieren';
 $Definition['Disable Signatures'] = 'Signaturen deaktivieren';
 $Definition['Disable Tagging'] = 'Tagging deaktivieren';
 $Definition['Discussion & Comment Editing'] = 'Bearbeitung von Diskussionen & Kommentaren';
-
 $Definition['discussion(s)'] = 'Diskussion(en)';
-
 $Definition['Discussion  Body'] = 'Diskussionstext';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Diskussionskategorien sind sinnvoll, um deinen Benutzern zu helfen, Diskussionen in einer sinnvollen Art und Weise zu organisieren.';
 $Definition['Discussions Layout'] = 'Diskussions-Layout';
@@ -301,7 +299,6 @@ $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Sortiere
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Sortiere die Kategorien unten per drag and drop.';
 
 $Definition['edit'] = 'bearbeiten';
-
 $Definition['Edit %s'] = 'Bearbeite %s';
 $Definition['Edit/Delete Log'] = 'Log bearbeiten/löschen';
 $Definition['Edit Category'] = 'Kategorie bearbeiten';
@@ -405,9 +402,7 @@ $Definition['Get More Themes'] = 'Mehr Themes';
 $Definition['Get the ball rolling in your community by '] = 'Bringe den Stein ins Rollen in deinem Forum, indem du ';
 $Definition['Getting Started'] = 'Erste Schritte';
 $Definition['Getting Started with Vanilla'] = 'Erste Schritte mit Vanilla';
-
 $Definition['give'] = 'geben';
-
 $Definition['Give an Badge'] = 'Badge vergeben';
 $Definition['Give me a new account'] = 'Gib mir einen neues Konto';
 $Definition['Given Indexes'] = 'Gegebene Indizes';
@@ -476,7 +471,6 @@ $Definition['It appears as though the database you specified does not exist yet.
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Es ist ratsam die maximale Zeichenanzahl in Kommentaren beschränkt zu halten.';
 
 $Definition['jsConnect Documentation'] = 'jsConnect Dokumentation';
-
 $Definition['JS Connect Settings'] = 'jsConnect-Einstellungen';
 
 $Definition['Key Type'] = 'Schlüssel Typ';
@@ -518,8 +512,8 @@ $Definition['Manage Roles & Permissions'] = 'Rollen & Rechte verwalten';
 $Definition['Manage Routes'] = 'Routen verwalten';
 $Definition['Manage Spam'] = 'Spam Einstellungen';
 $Definition['Manage Themes'] = 'Themes verwalten';
-$Definition['Manage users'] = 'Benutzer verwalten';
 $Definition['Manage Users'] = 'Nutzer verwalten';
+$Definition['Manage users'] = 'Benutzer verwalten';
 $Definition['Manage your Plugins'] = 'Verwalte deine Plugins';
 $Definition['Managing Categories'] = 'Verwaltung von Kategorien';
 $Definition['Manual'] = 'Manuell';
@@ -533,26 +527,20 @@ $Definition['Message ID'] = 'Nachrichten ID';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Nachrichten können überall in deiner Anwendung erscheinen und können verwendet werden, um Benutzer über News und Events zu informieren. Benutze diese Seite, um deine Nachrichten per "Drag & Drop" neu anzuordnen.';
 $Definition['Messages can appear anywhere in your application.'] = 'Nachrichten können überall in der Anwendung angezeigt werden, um die Nutzer bspw. über Neuigkeiten zu informieren. Nutze diese Seite, um sie per drag and drop zu verwalten.';
 $Definition['Method'] = 'Methode';
-
 $Definition['minute(s)'] = 'Minute(n)';
-
 $Definition['Mixed Layout'] = 'Gemichtes Layout';
 $Definition['Moderate'] = 'Moderieren';
 $Definition['Moderators have permission to edit most content.'] = 'Moderatoren haben die Berechtigung, einen Großteil des Inhalts zu bearbeiten.';
 $Definition['Modern Layout'] = 'Modernes Layout';
 $Definition['Modern non-table-based layout'] = 'Modernes nicht-tabellenbasiertes Layout';
-
 $Definition['more than %s deep'] = 'mehr als %s tief';
 $Definition['more than %s levels deep'] = 'mehr als %s Ebenen tief';
-
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Die meisten Pockets sollten nicht im Dashboard angezeigt werden.';
 $Definition['Move discussions in this category to a replacement category.'] = 'Verschiebe Diskussionen in eine Ersatz-Kategorie.';
 $Definition['My Invitations'] = 'Meine Einladungen';
 
 $Definition['Need More Help?'] = 'Hilfe?';
-
 $Definition['never'] = 'niemals';
-
 $Definition['Never - Users Must Refresh Page'] = 'Nie – Benutzer müssen die Seite neu laden';
 $Definition['Never display on mobile browsers.'] = 'Niemals in mobilen Browsern anzeigen.';
 $Definition['NewApplicantEmail'] = 'Neuer Bewerber:';
@@ -598,9 +586,7 @@ $Definition['Outgoing Email'] = 'Ausgehende E-Mail';
 $Definition['Outgoing Email Address'] = 'Ausgehende E-Mail-Adresse';
 
 $Definition['Page'] = 'Seite';
-
 $Definition['page'] = 'Seite';
-
 $Definition['Password Options'] = 'Passwort Optionen';
 $Definition['Pending'] = 'Ausstehend';
 $Definition['Permission'] = 'Berechtigung';
@@ -682,9 +668,7 @@ $Definition['SaveLocalePack'] = 'Speichern';
 $Definition['Save Translations from a Locale Pack'] = 'Übersetzungen eines Lokalisationspakets speichern';
 $Definition['Search by user or role.'] = 'Suche nach Nutzern durch Eingabe des Nutzernamens oder gib den Namen einer Rolle an, um alle Nutzer zu sehen die diese Rolle einnehmen.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Suche nach Nutzern durch Eingabe des Benutzernamens oder gib den Namen einer Rolle an, um alle Nutzer zu sehen, denen diese Rolle zugewiesen wurde.';
-
 $Definition['seconds'] = 'Sekunden';
-
 $Definition['Security'] = 'Sicherheit';
 $Definition['Select'] = 'Wähle';
 $Definition['Select a %s'] = 'Wähle eine %s';
@@ -711,11 +695,10 @@ $Definition['SMTP Security'] = 'SMTP Sicherheit';
 $Definition['SMTP User'] = 'SMTP Nutzer';
 $Definition['Source'] = 'Quelle';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Nimm dir einen Moment, um dir zu überlegen, wie du deine Seite beschreiben kannst. Ein guter Name und eine treffende Beschreibung kann deine Position in Suchmaschinenrankings beeinflussen.';
+$Definition['Spoof'] = 'Spoof/Spam';
 $Definition['Start Discussions'] = 'Diskussionen starten';
 $Definition['Start Import'] = 'Import beginnen';
-
 $Definition['starting your first discussion'] = 'Beginne deine erste Diskussion';
-
 $Definition['Statistics'] = 'Statistiken';
 $Definition['Stop Forum Spam Settings'] = 'Stoppe Forum Spam Einstellungen';
 $Definition['Subject'] = 'Betreff';
@@ -723,9 +706,7 @@ $Definition['Subscriber'] = 'Abonnent';
 $Definition['Success'] = 'Erfolg';
 
 $Definition['Table Layout'] = 'Tabellenlayout';
-
 $Definition['take away'] = 'entziehen';
-
 $Definition['Temporary (302)'] = 'Temporär (302)';
 $Definition['Testing'] = 'Teste';
 $Definition['Test Mode'] = 'Test Modus: Das Pocket wird nur Pocket-Administratoren angezeigt.';
@@ -831,9 +812,7 @@ $Definition['Unable to detect PHP GD installed on this system. Vanilla requires 
 $Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = 'Das Plugin konnte nicht initialisiert werden: Erforderliche Verbindungsbibliotheken nicht gefunden. \'fsockopen\' oder \'curl\' sind erforderlich.';
 $Definition['Unban'] = 'Bann aufheben';
 $Definition['Uninvite'] = 'Ausladen';
-
 $Definition['unknown'] = 'unbekannt';
-
 $Definition['Unlimited'] = 'Unbeschränkt';
 $Definition['Use an SMTP server to send email'] = 'Nutze SMTP zum Versenden von E-Mail';
 $Definition['Use Categories'] = 'Kategorien benutzen';
@@ -932,10 +911,3 @@ $Definition['Your changes were saved successfully.'] = 'Die Änderungen wurden e
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Deine Konfigurationsdatei hat nicht die benötigten Berechtigungen. PHP muss Lese- und Schreibrechte für diese Datei besitzen: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = 'Deine Standard-Lokalisierung wird nicht korrekt angezeigt, bis sie unten aktiviert wird. Bitte folgendes aktivieren: %s.';
 $Definition['Your invitations were sent successfully.'] = 'Deine Einladungen wurden erfolgreich versandt.';
-
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Bestätige deine E-Mail-Adresse';
-$Definition['[%s] Invitation'] = '[%s] Einladung';
-$Definition['[%s] Password Reset'] = '[%s] Passwort zurücksetzen';
-$Definition['[%s] Password Reset Request'] = '[%s] Antrag zum zurücksetzen des Passworts';
-
-$Definition['_Locale'] = 'Lokalisierung';

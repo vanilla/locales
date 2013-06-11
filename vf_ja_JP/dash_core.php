@@ -1,14 +1,27 @@
 <?php
 
 $Definition['%s of %s'] = '%s / %s';
+$Definition['%s Settings'] = '%s 設定';
+$Definition['%s times'] = '%s回';
 $Definition['%s unavailable'] = 'その%sは利用できません。';
 $Definition['%s user(s) found.'] = '%s 人のユーザーが見つかりました。';
+$Definition['%s years.'] = '%s 年間。';
 
+$Definition['1 month'] = '一ケ月';
 $Definition['1 month after being sent'] = '送信一ヶ月後';
+$Definition['1 week'] = '一週間';
 $Definition['1 week after being sent'] = '送信一週間後';
 
 $Definition['2 weeks after being sent'] = '送信二週間後';
 
+$Definition['15 minutes'] = '15分間';
+
+$Definition['[%s] Invitation'] = '[%s] 招待状';
+
+$Definition['_Locale'] = 'ロケール';
+
+$Definition['Abilites'] = '
+';
 $Definition['Action'] = 'アクション';
 $Definition['Add Category'] = 'カテゴリを追加';
 $Definition['Adding & Editing Categories'] = 'カテゴリの追加と編集 (英語)';
@@ -48,6 +61,7 @@ $Definition['Banner'] = 'サイトのタイトル';
 $Definition['Banner Logo'] = 'タイトルロゴ';
 $Definition['Banner Title'] = 'タイトル';
 $Definition['Basic'] = '基本';
+$Definition['Basic Information'] = '基本情報';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
 $Definition['By %s'] = '作成者: %s';
 
@@ -62,9 +76,7 @@ $Definition['Check all permissions that apply for each role'] = '以下のロー
 $Definition['Check all permissions that apply to this role:'] = '以下のロールに適用する権限すべてにチェックを入れてください:';
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'フォーラムの認証スキームを選んで設定してください。';
 $Definition['Choose who can send out invitations to new members:'] = '誰が新しいメンバーに招待状を送信できるか、設定してください:';
-
 $Definition['comment(s)'] = '件のコメント';
-
 $Definition['Comments per Page'] = '1 ページに表示する最大コメント数';
 $Definition['Condition Type'] = 'タイプ';
 $Definition['Configure an Authenticator'] = '設定する認証方式';
@@ -88,9 +100,7 @@ $Definition['Disabled %1$s'] = '無効 %1$s';
 $Definition['Disable Google Sign In'] = 'Google アカウントでのログインを無効化';
 $Definition['Disable OpenID'] = 'OpenID を無効化';
 $Definition['Discussion & Comment Editing'] = 'ディスカッション & コメント編集';
-
 $Definition['discussion(s)'] = '件のディスカッション';
-
 $Definition['Discussions per Page'] = '1 ページに表示する最大ディスカッション数';
 $Definition['Display root categories as headings.'] = 'ルート カテゴリを見出しとして表示する。';
 $Definition['Don\'t Refresh'] = 'しない';
@@ -99,7 +109,7 @@ $Definition['Do not display the categories in the side panel.'] = 'カテゴリ�
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'カテゴリを並べ替えたりネストするには、この下のカテゴリをドラッグ &amp; ドロップしてください。';
 
 $Definition['edit'] = '編集';
-
+$Definition['Edit %s'] = '編集%s';
 $Definition['Edit Category'] = 'カテゴリを編集';
 $Definition['EditContentTimeout.Notes'] = '註: ユーザーが内容を編集できるロールに属している場合は、ここで選択する値よりもロールの設定の方が優先されます。';
 $Definition['Edit Role'] = 'ロールを編集';
@@ -180,15 +190,11 @@ $Definition['Max Comment Length'] = 'コメント最大文字数';
 $Definition['Member'] = 'メンバー';
 $Definition['Messages can appear anywhere in your application.'] = 'メッセージはサイトのどこにでも表示でき、ユーザーにニュースやイベントを通知するために使われます。このページでメッセージをドラッグすると、順番を入れ替えることができます。';
 $Definition['Method'] = '方法';
-
 $Definition['minute(s)'] = '分間';
-
 $Definition['Moderator'] = 'モデレータ';
 
 $Definition['Need More Help?'] = '参考情報';
-
 $Definition['never'] = 'なし (無期限)';
-
 $Definition['New comments in the last day'] = '過去一日間の新規コメント数';
 $Definition['New comments in the last week'] = '過去一週間の新規コメント数';
 $Definition['New conversations in the last day'] = '過去一日間の新規会話数';
@@ -245,9 +251,7 @@ $Definition['Routes can be used to redirect users to various parts of your site 
 $Definition['Saved'] = '変更を保存しました。';
 $Definition['SaveLocalePack'] = '保存';
 $Definition['Search by user or role.'] = 'ユーザー名またはロール (管理者:<input type="text" value="Administrator" size="13" onclick="this.select()" />, 申請者:<input type="text" value="Applicant" size="9" onclick="this.select()" />, 利用禁止:<input type="text" value="Banned" size="6" onclick="this.select()" />, ゲスト:<input type="text" value="Guest" size="5" onclick="this.select()" />, メンバー:<input type="text" value="Member" size="7" onclick="this.select()" />, モデレータ:<input type="text" value="Moderator" size="10" onclick="this.select()" />, メール確認待ち:<input type="text" value="Confirm Email" size="15" onclick="this.select()" />) で検索します。';
-
 $Definition['seconds'] = '秒間';
-
 $Definition['Select the file to import'] = 'インポートするファイルを選択してください';
 $Definition['SMTP Host'] = 'SMTP サーバー';
 $Definition['SMTP Password'] = 'SMTP パスワード';
@@ -297,9 +301,7 @@ $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'ネストされたカテゴ
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla エクスポート: %s, ソース: %s';
 $Definition['Version'] = 'バージョン';
 $Definition['Version %s'] = 'バージョン %s';
-
 $Definition['version %s'] = 'バージョン %s';
-
 $Definition['View'] = '表示';
 $Definition['View Page'] = 'ページを表示';
 
@@ -324,7 +326,3 @@ $Definition['You must specify an admin password.'] = '管理者のパスワー�
 $Definition['You must specify an admin username.'] = '管理者のユーザー名は省略できません。';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = '設定ファイルに適切なパーミッションが設定されていません。PHP はこのファイルを読み書きする必要があります: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = '既定のロケールは、下記にて有効化されるまで正しく表示されません。%s を有効化してください。';
-
-$Definition['[%s] Invitation'] = '[%s] 招待状';
-
-$Definition['_Locale'] = 'ロケール';

@@ -43,8 +43,14 @@ $Definition['<strong>Categories</strong> allow you to organize your discussions.
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Akta!</strong> Om du raderar en roll kanske användaren inte kan använda applikationen.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Se upp!</strong> Om du flyttar diskussioner till en ersättande kategori kan det hända att diskussionen försvinner (eller dyker upp) om den nya kategorin har andra behörigheter än kategorin du raderar.';
 
-$Definition['a Badge'] = 'ett emblem';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Bekräfta din e-postadress';
+$Definition['[%s] Invitation'] = '[%s] Inbjudan';
+$Definition['[%s] Password Reset'] = '[%s] Lösenord återställt.';
+$Definition['[%s] Password Reset Request'] = '[%s] återställ lösenord';
 
+$Definition['_Locale'] = 'Språkpaket';
+
+$Definition['a Badge'] = 'ett emblem';
 $Definition['Abilites'] = 'Möjligheter';
 $Definition['AboutCommentEmbedding'] = 'Vanilla kan användas som en inbäddad ersättning för din bloggs ordinarie kommentarsystem. Faktum är att Vanilla kan användas för att lägga till kommentarer till vilken websida som helst.';
 $Definition['AboutEmbedding'] = 'Inbäddning tillåter hela eller delar av din community att bäddas in i andra applikationer och webbsidor.';
@@ -78,9 +84,7 @@ $Definition['Advanced Options'] = 'Avancerade alternativ';
 $Definition['Advanced Settings'] = 'Avancerade inställningar';
 $Definition['Advanced settings for embedded community elements'] = 'Avancerade inställningar för inbäddade element';
 $Definition['After'] = 'Efter';
-
 $Definition['a full year.'] = 'ett helt år.';
-
 $Definition['Alive'] = 'Levande';
 $Definition['All'] = 'Alla';
 $Definition['All %1$s'] = 'Alla %1$s';
@@ -100,6 +104,7 @@ $Definition['Applicant'] = 'Rekryt';
 $Definition['Application'] = 'Applikation';
 $Definition['Application ID'] = 'Applikations-id';
 $Definition['Applications'] = 'Applikationer';
+$Definition['Application Secret'] = 'Delad hemlighet';
 $Definition['Applied by Administrator'] = 'Läggs till av en administratör';
 $Definition['Applied Manually'] = 'Läggs till manuellt';
 $Definition['Applied On'] = 'Datum';
@@ -155,10 +160,8 @@ $Definition['Blocked'] = 'Blockerad';
 $Definition['Blog Comments'] = 'Bloggkommentarer';
 $Definition['Browse Addons'] = 'Visa tillägg';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Bläddra efter en ny logo om du vill ändra den:';
-
-$Definition['by %s'] = 'av %s';
-
 $Definition['By %s'] = 'Av %s';
+$Definition['by %s'] = 'av %s';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Genom att klicka på knappen nedan raderar du användarkontot för %s för alltid.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Kan inte bygga profilinformation om användaren inte är definierad.';
@@ -192,9 +195,7 @@ $Definition['Click here to apply it.'] = 'Klicka här för att utföra.';
 $Definition['Click here to carry on.'] = 'Klicka här för att fortsätta.';
 $Definition['Click here to carry on to your dashboard'] = 'Klicka här för att fortsätta till din Dashboard';
 $Definition['Client ID'] = 'Klient-id';
-
 $Definition['comment(s)'] = 'kommentar(er)';
-
 $Definition['Comment  Body'] = 'Kommentar  Innehåll';
 $Definition['Comment Settings'] = 'Kommentarinställningar';
 $Definition['Comments Page'] = 'Kommentarsida';
@@ -238,10 +239,8 @@ $Definition['Current Theme'] = 'Nuvarande tema';
 $Definition['Database Structure Upgrades'] = 'Uppgraderingar av databasstruktur';
 $Definition['Debug Information'] = 'Debug-information';
 $Definition['Decline'] = 'Neka';
-
-$Definition['default'] = 'standard';
-
 $Definition['Default'] = 'Standard';
+$Definition['default'] = 'standard';
 $Definition['Default %s Permissions'] = 'Ordinarie %s behörigheter';
 $Definition['Default  Category'] = 'Standard  Kategori';
 $Definition['Default Category Permissions'] = 'Ordinarie rättigheter för kategori';
@@ -273,9 +272,7 @@ $Definition['Disable OpenID'] = 'Inaktivera OpenID';
 $Definition['Disable Signatures'] = 'Inaktivera signaturer';
 $Definition['Disable Tagging'] = 'Inaktivera taggning';
 $Definition['Discussion & Comment Editing'] = 'Redigera diskussioner och kommentarer';
-
 $Definition['discussion(s)'] = 'diskussion(er)';
-
 $Definition['Discussion  Body'] = 'Diskussion  Innehåll';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Diskussionskategorier används för att dina användare ska kunna sortera sina diskussioner på ett sätt som hjälper din community.';
 $Definition['Discussions Layout'] = 'Layout på diskussioner';
@@ -290,13 +287,12 @@ $Definition['Don\'t Refresh'] = 'Uppdatera ej';
 $Definition['Don\'t use Categories'] = 'Använd inte kategorier';
 $Definition['Do not display the categories in the side panel.'] = 'Visa inte kategorierna i sidopanelen';
 $Definition['Download Locale List'] = 'Ladda hem språklista';
-$Definition['DownloadLocalePack'] = 'Ladda hem';
 $Definition['Download Locale Pack'] = 'Ladda hem språkpaket';
+$Definition['DownloadLocalePack'] = 'Ladda hem';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Dra och släpp kategorierna för att sortera och nästa dem.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Dra och släpp kategorierna nedan för att sortera och nästa dem.';
 
 $Definition['edit'] = 'redigera';
-
 $Definition['Edit %s'] = 'Redigera %s';
 $Definition['Edit/Delete Log'] = 'Redigera/radera logg';
 $Definition['Edit Category'] = 'Redigera kategori';
@@ -306,6 +302,7 @@ $Definition['Edit Html'] = 'Redigera HTML';
 $Definition['Editing'] = 'Redigering';
 $Definition['Edit Message'] = 'Redigera meddelande';
 $Definition['Edit Role'] = 'Redigera roll';
+$Definition['Edit Route'] = 'Ändra ';
 $Definition['Edit User'] = 'Redigera användare';
 $Definition['Embed Comments'] = 'Bädda in kommentarer';
 $Definition['Embedding is currently DISABLED.'] = 'Inbäddning är för tillfället INAKTIVERAD.';
@@ -394,9 +391,7 @@ $Definition['Get More Themes'] = 'Skaffa fler teman';
 $Definition['Get the ball rolling in your community by '] = 'Sparka igång din community genom att';
 $Definition['Getting Started'] = 'Komma igång';
 $Definition['Getting Started with Vanilla'] = 'Kom igång me Vanilla';
-
 $Definition['give'] = 'ge';
-
 $Definition['Give an Badge'] = 'Ge ett emblem';
 $Definition['Give me a new account'] = 'Ge mig ett nytt konto';
 $Definition['Gold Plus'] = 'Guld plus';
@@ -450,6 +445,7 @@ $Definition['Import'] = 'Importera';
 $Definition['Importing to Vanilla'] = 'Importera till Vanilla';
 $Definition['Inbox Page'] = 'Inkorg-sida';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Installera Vanilla utan .htaccess-fil';
+$Definition['Internaltionalization & Localization'] = 'Internationella och lokala värden';
 $Definition['Introducing Vanilla Comments'] = 'Introducerar Vanilla - Kommentarer';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Introducerar Vanilla - Reaktioner och Emblem';
 $Definition['Invalid category for deletion.'] = 'Ej giltig kategori för borttagning.';
@@ -459,11 +455,11 @@ $Definition['Invitations can be sent from users\' profile pages.'] = 'När du an
 $Definition['Invitations per month'] = 'Inbjudningar per månad';
 $Definition['Invitations will expire'] = 'Inbjudningar kommer att utgå';
 $Definition['Invited by'] = 'Inbjuden av';
+$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Det verkar som att databasen du har angivit inte existerar ännu. Har du skapat den än? Kan du ha skrivit fel namn? Databasen svarade: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Det är en bra idé att hålla ner antalet tecken som tillåts i en kommentar till en rimlig siffra.';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect klientbibliotek';
 $Definition['jsConnect Documentation'] = 'jsConnect dokumentation';
-
 $Definition['JS Connect Settings'] = 'Inställningar för JS Connect';
 
 $Definition['Key Type'] = 'Nyckeltyp';
@@ -518,26 +514,20 @@ $Definition['Message ID'] = 'meddelande-ID';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Meddelanden kan dyka upp överallt i forumet, och kan användas för att informera användarna om nyheter och händelser. Använd denna sida för att organisera meddelanden genom att dra och släppa.';
 $Definition['Messages can appear anywhere in your application.'] = 'Meddelanden kan dyka upp överallt i forumet, och kan användas för att informera användarna om nyheter och händelser. Använd denna sida för att organisera meddelanden genom att dra och släppa.';
 $Definition['Method'] = 'Metod';
-
 $Definition['minute(s)'] = 'minut(er)';
-
 $Definition['Mixed Layout'] = 'Blandad layout';
 $Definition['Moderate'] = 'Moderera';
 $Definition['Moderators have permission to edit most content.'] = 'Moderatorer har tillåtelse att redigera det mesta innehållet.';
 $Definition['Modern Layout'] = 'Modern layout';
 $Definition['Modern non-table-based layout'] = 'Modern, icke tabellbaserad layout';
-
 $Definition['more than %s deep'] = 'mer än %s djup';
 $Definition['more than %s levels deep'] = 'mer än %s nivåer djup';
-
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'De flesta fickor ska inte visas på kontrollpanelen.';
 $Definition['Move discussions in this category to a replacement category.'] = 'Flytta diskussioner i den här kategorin till en ersättande kategori.';
 $Definition['My Invitations'] = 'Mina inbjudningar';
 
 $Definition['Need More Help?'] = 'Behöver du mer hjälp?';
-
 $Definition['never'] = 'aldrig';
-
 $Definition['Never - Users Must Refresh Page'] = 'Aldrig - användare måste uppdatera sidan';
 $Definition['Never display on mobile browsers.'] = 'Visa aldrig i mobila webbläsare.';
 $Definition['NewApplicantEmail'] = 'Ny ansökan:';
@@ -581,9 +571,8 @@ $Definition['Other Tutorials'] = 'Andra guider';
 $Definition['Outgoing Email'] = 'Utgående e-post';
 $Definition['Outgoing Email Address'] = 'Utgående e-postadress';
 
-$Definition['page'] = 'sida';
-
 $Definition['Page'] = 'Sida';
+$Definition['page'] = 'sida';
 $Definition['Password Options'] = 'Alternativ för lösenord';
 $Definition['Pending'] = 'Väntande';
 $Definition['Permission'] = 'Behörighet';
@@ -610,6 +599,7 @@ $Definition['Reaction'] = 'Reaktion';
 $Definition['Reaction Types'] = 'Reaktionstyper';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Färdiggjord Vanilla Comments-plugin för WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Färdiggjord Vanilla Forum-plugin för WordPress';
+$Definition['Realtime progress bars: %s'] = 'Förloppsindikatorer i realtid: %s';
 $Definition['Recalculate Counts'] = 'Räkna om siffror';
 $Definition['Recently Active Users'] = 'Nyligen aktiva användare';
 $Definition['Recent News'] = 'Senaste nyheterna';
@@ -655,9 +645,7 @@ $Definition['Saved'] = 'Dina ändringar har sparats.';
 $Definition['SaveLocalePack'] = 'Spara';
 $Definition['Save Translations from a Locale Pack'] = 'Spara översättningar från ett språkpaket';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Sök efter användare via namn eller skriv in namnet på en roll för att se alla användare som har den rollen.';
-
 $Definition['seconds'] = 'sekunder';
-
 $Definition['Security'] = 'Säkerhet';
 $Definition['Select'] = 'Välj';
 $Definition['Select a %s'] = 'Välj en %s';
@@ -676,6 +664,7 @@ $Definition['Sign in'] = 'Logga in';
 $Definition['Sign In Url'] = 'Inloggnings-URL';
 $Definition['Site Description'] = 'Beskrivning av sajten';
 $Definition['Site Name'] = 'Sajtens namn';
+$Definition['Slug'] = 'Slask';
 $Definition['SMTP Host'] = 'SMTP-server';
 $Definition['SMTP Password'] = 'SMTP-lösenord';
 $Definition['SMTP Port'] = 'SMTP-port';
@@ -685,9 +674,7 @@ $Definition['Source'] = 'Källa';
 $Definition['Spoof'] = 'Bluff';
 $Definition['Start Discussions'] = 'Starta diskussioner';
 $Definition['Start Import'] = 'Starta import';
-
 $Definition['starting your first discussion'] = 'starta din första diskussion';
-
 $Definition['Statistics'] = 'Statistik';
 $Definition['Stop Forum Spam Settings'] = 'Inställningar för att stoppa spam';
 $Definition['Styles'] = 'Stilar';
@@ -696,9 +683,7 @@ $Definition['Subscriber'] = 'Prenumerant';
 $Definition['Success'] = 'Lyckades';
 
 $Definition['Table Layout'] = 'Tabellayout';
-
 $Definition['take away'] = 'ta bort';
-
 $Definition['Temporary (302)'] = 'Temporär (302)';
 $Definition['Testing'] = 'Testar';
 $Definition['Test Mode'] = 'Testläge: Fickan visas endast för fickans administratörer.';
@@ -791,9 +776,7 @@ $Definition['Unable to initialize plugin: required connectivity libraries not fo
 $Definition['Unban'] = 'Ta bort från svartlista';
 $Definition['Uninvite'] = 'Avbryt inbjudan';
 $Definition['Universal Code'] = 'Universell kod';
-
 $Definition['unknown'] = 'okänd';
-
 $Definition['Unlimited'] = 'Obegränsad';
 $Definition['Unviersal Forum Embed Code'] = 'Universell inbäddningskod för forumet';
 $Definition['Use an SMTP server to send email'] = 'Använd en SMTP-server för att skicka e-post';
@@ -878,10 +861,3 @@ $Definition['Your application will be reviewed by an administrator. You will be 
 $Definition['Your changes were saved successfully.'] = 'Dina ändringar sparades.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Din konfigurationsfil har fel behörigheter. PHP behöver kunna läsa och skriva till den här filen: <code>%s</code>';
 $Definition['Your invitations were sent successfully.'] = 'Dina inbjudningar skickades.';
-
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Bekräfta din e-postadress';
-$Definition['[%s] Invitation'] = '[%s] Inbjudan';
-$Definition['[%s] Password Reset'] = '[%s] Lösenord återställt.';
-$Definition['[%s] Password Reset Request'] = '[%s] återställ lösenord';
-
-$Definition['_Locale'] = 'Språkpaket';

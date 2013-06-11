@@ -37,6 +37,9 @@ $Definition['<strong>Categories</strong>'] = '<strong>Danh mục</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = 'C';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Chuy?n c';
 
+$Definition['[%s] Invitation'] = '[%s] Th? m?i';
+$Definition['[%s] Password Reset'] = 'M?t kh?u [%s] ??t l?i';
+
 $Definition['About Vanilla Statistics'] = 'Thống kê tình trạng Vanilla';
 $Definition['Above Main Content'] = 'Tr';
 $Definition['Accepted'] = 'Đã được chấp nhận';
@@ -75,9 +78,7 @@ $Definition['Check all permissions that apply to this role:'] = 'Ki?m tra t?t c?
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'Ch?n v';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Ch?n m?t vi tr? cho ng??i d';
 $Definition['Choose who can send out invitations to new members:'] = 'Ch?n ng??i c';
-
 $Definition['comment(s)'] = 'b';
-
 $Definition['Comments Page'] = 'Trang b';
 $Definition['Comments per Page'] = 'S? b';
 $Definition['Configure an Authenticator'] = 'C?u h';
@@ -94,14 +95,11 @@ $Definition['Disable'] = 'V';
 $Definition['Disable Content Flagging'] = 'V';
 $Definition['Disabled'] = 'V';
 $Definition['Discussion & Comment Editing'] = 'Ch?nh s?a th?o lu?n v';
-
 $Definition['discussion(s)'] = 'th?o lu';
-
 $Definition['Discussions per Page'] = 'S? th?o lu?n tr';
 $Definition['Don\'t use Categories'] = 'C';
 
 $Definition['edit'] = 's?a';
-
 $Definition['Edit Category'] = 'S?a danh m?c';
 $Definition['Edit Message'] = 'S?a tin nh?n';
 $Definition['Edit Role'] = 'S?a v? tr';
@@ -150,9 +148,7 @@ $Definition['Max Comment Length'] = '?? d';
 $Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Tin nh?n xu?t hi?n tr';
 $Definition['Messages can appear anywhere in your application.'] = 'Tin nh?n xu?t hi?n tr';
 $Definition['Method'] = 'Ph??ng th?c';
-
 $Definition['minute(s)'] = 'ph';
-
 $Definition['Move discussions in this category to a replacement category.'] = 'Chuy?n c';
 $Definition['My Invitations'] = 'Th? m?i c?a t';
 
@@ -202,9 +198,7 @@ $Definition['Roles determine user\'s permissions.'] = 'M?i ng??i d';
 $Definition['SaveLocalePack'] = 'Lưu';
 $Definition['Search by user or role.'] = 'T';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Search by user or role.';
-
 $Definition['seconds'] = 'gi';
-
 $Definition['Send %s a Message'] = 'G?i cho %s 1 tin nh?n';
 $Definition['Send Again'] = 'G?i l?i';
 $Definition['Sent To'] = 'G?i t?i';
@@ -240,6 +234,3 @@ $Definition['Within'] = 'Trong';
 
 $Definition['You cannot remove an invitation that has been accepted.'] = 'B?n kh';
 $Definition['You have %s invitations left for this month.'] = 'B?n c';
-
-$Definition['[%s] Invitation'] = '[%s] Th? m?i';
-$Definition['[%s] Password Reset'] = 'M?t kh?u [%s] ??t l?i';

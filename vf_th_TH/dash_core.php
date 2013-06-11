@@ -28,6 +28,8 @@ $Definition['15 minutes'] = '15 นาที';
 
 $Definition['<strong>Categories</strong>'] = '<strong>หมวดหมู่</strong>';
 
+$Definition['[%s] Invitation'] = '[%s] เชิญเพื่อน';
+
 $Definition['Abilites'] = 'ความสามารถ';
 $Definition['Add %s'] = 'เพิ่ม %s';
 $Definition['Add Category'] = 'เพิ่มหมวดหมู่';
@@ -56,13 +58,10 @@ $Definition['Banner Logo'] = 'โลโก้แบนเนอร์';
 $Definition['Banner Title'] = 'ไตเติ้ล';
 $Definition['Below Sidebar'] = 'อยู่ด้านล่างแถบด้านข้าง';
 $Definition['By %s'] = 'โดย %s';
-
 $Definition['by %s'] = 'โดย %s';
 
 $Definition['Category Page Layout'] = 'เค้าโครงหมวดหมู่';
-
 $Definition['comment(s)'] = 'ความคิดเห็น';
-
 $Definition['Comment  Body'] = 'เนื้อหาความเห็น';
 $Definition['Comments Page'] = 'หน้าความเห็น';
 $Definition['Comments per Page'] = 'จำนวนความคิดเห็นแต่ละหน้า';
@@ -71,18 +70,15 @@ $Definition['Confirmation  Body'] = 'ยืนยันเนื้อหา';
 $Definition['Criteria'] = 'เงื่อนไข';
 $Definition['Current Theme'] = 'ธีมปัจจุบัน';
 
-$Definition['default'] = 'ค่าเริ่มต้น';
-
 $Definition['Default'] = 'ค่าเริ่มต้น';
+$Definition['default'] = 'ค่าเริ่มต้น';
 $Definition['Default  Category'] = 'หมวดหมู่เริ่มต้น';
 $Definition['Description'] = 'คำอธิบาย';
 $Definition['Did You Know?'] = 'คุณรู้หรือไม่?';
 $Definition['Disabled'] = 'ปิดใช้งาน';
 $Definition['Disabled %1$s'] = 'ปิดใช้งาน %1$s';
 $Definition['Discussion & Comment Editing'] = 'แก้ไข กระทู้ & ความคิดเห็น';
-
 $Definition['discussion(s)'] = 'กระทู้';
-
 $Definition['Discussion  Body'] = 'เนื้อหาหัวข้อ';
 $Definition['Discussions per Page'] = 'จำนวนกระทู้แต่ละหน้า';
 $Definition['Discussion  Subject'] = 'ชื่อหัวข้อ';
@@ -107,7 +103,6 @@ $Definition['Generate Client ID and Secret'] = 'สร้างรหัส Clie
 $Definition['Get More Applications'] = 'ดาวโหลดแอปพลิเคชั่นอื่น';
 $Definition['Get More Plugins'] = 'ดาวโหลดปลั๊กอินอื่น';
 $Definition['Get More Themes'] = 'ดาวโหลดธีมอื่นๆ';
-
 $Definition['give'] = 'ให้';
 
 $Definition['Hash Algorithm'] = 'อัลกอริทึมแฮช';
@@ -142,9 +137,7 @@ $Definition['Manage Users'] = 'จัดการผู้ใช้งาน';
 $Definition['Manual'] = 'คู่มือ';
 $Definition['Max Comment Length'] = 'ความยาวตัวอักษรในการแสดงความคิดเห็นสูงสุด';
 $Definition['Message ID'] = 'ข้อความที่';
-
 $Definition['minute(s)'] = 'นาที';
-
 $Definition['Mixed Layout'] = 'ผสมเลย์เอ้า';
 
 $Definition['Need More Help?'] = 'ต้องการความช่วยเหลือเพิ่มเติม?';
@@ -177,9 +170,7 @@ $Definition['Role Name'] = 'ชื่อยศ';
 $Definition['Roles & Permissions'] = 'ยศ & การอนุญาต';
 
 $Definition['SaveLocalePack'] = 'บันทึก';
-
 $Definition['seconds'] = 'วินาที';
-
 $Definition['Security'] = 'ความปลอดภัย';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'ส่งอีเมลยืนยันเมื่อมีคนถามคำถามหรือเริ่มสอบถามผ่านทางอีเมล';
 $Definition['Sign In Url'] = 'ที่อยู่เข้าสู่ระบบ';
@@ -189,7 +180,6 @@ $Definition['Start Discussions'] = 'เริ่มหัวข้อ';
 $Definition['Subject'] = 'เรื่อง';
 
 $Definition['take away'] = 'ย้าย';
-
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['The banner logo appears at the top of your forum.'] = 'โลโก้แบนเนอร์จะปรากฎด้านบนของฟอรั่มของคุณ';
 $Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'ชื่อไตเติ้ลจะปรากฎอยู่ด้านซ้ายของทุกหน้า, ถ้าอัพโหลดโลโก้แบนเนอร์ โลโก้แบนเนอร์ก็จะมาแทนที่ตรงนั้น';
@@ -208,5 +198,3 @@ $Definition['Within'] = 'ในช่วง';
 
 $Definition['You must manually apply this rank.'] = 'คุณต้องใช้ตำแหน่งนี้';
 $Definition['Your changes were saved successfully.'] = 'การเปลี่ยนแปลงประสบความสำเร็จ';
-
-$Definition['[%s] Invitation'] = '[%s] เชิญเพื่อน';

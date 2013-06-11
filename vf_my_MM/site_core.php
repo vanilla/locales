@@ -10,10 +10,12 @@ $Definition['%s Connect'] = '%s ချိတ်ဆက်သည်';
 $Definition['%s message'] = '%s စာ';
 $Definition['%s New'] = '%s ခု အသစ်';
 $Definition['%s new'] = '%s ခု အသစ်';
-$Definition['%s new plural'] = '%s ခု အသစ်';
 $Definition['%s New Plural'] = '%s ခု အသစ်';
+$Definition['%s new plural'] = '%s ခု အသစ်';
 
 $Definition['1 message'] = 'စာ ၁ စောင် ရှိ';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] အဖွဲ့ဝင်အဖြစ် အသိအမှတ်ပြုသည်။';
 
 $Definition['About'] = 'အချက်အလက်';
 $Definition['Activity'] = 'လှုပ်ရှားမှု';
@@ -64,9 +66,7 @@ $Definition['Are you sure you want to do that?'] = 'ဒါလုပ်မှာ 
 $Definition['Ask Question'] = 'ဆွေးနွေးချက် တင်သည်';
 
 $Definition['Back to Discussions'] = '​ေဆွးနွေးခြင်းများသို့ ပြန်သွားရန်';
-
 $Definition['bookmarked discussion'] = 'မှတ်ထားတဲ့ ဆွေးနွေးချက်';
-
 $Definition['Bookmarked Discussions'] = 'မှတ်ထားတဲ့ ဆွေးနွေးချက်များ';
 
 $Definition['Cancel'] = 'လက်မခံ';
@@ -78,19 +78,15 @@ $Definition['Change My Picture'] = 'ရုပ်ပုံ ပြောင်း�
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = 'ပိတ်သည်';
 $Definition['Closed'] = '​ပိတ်ထား​သည်';
-
-$Definition['comment'] = 'မှတ်ချက်';
-
 $Definition['Comment'] = 'မှတ်ချက်';
+$Definition['comment'] = 'မှတ်ချက်';
 $Definition['Comments'] = 'မှတ်ချက်များ';
 $Definition['Confirm'] = 'သေချာသည်';
 $Definition['Confirm Password'] = 'လျို့ဝှက်စာလုံး ပြန်ထည့်ရန်';
 $Definition['Connect'] = 'ချိတ်ဆက်သည်';
 $Definition['ConnectCreateAccount'] = 'အချက်အလက် ဖြည့်စွက်ရန် နှင့် ​account ဖန်တီးရန်';
 $Definition['ConnectName'] = 'အသုံးပြုသူ နာမည်';
-
 $Definition['conversation'] = 'သီးသန့်စာ';
-
 $Definition['Create One.'] = 'တစ်ခုဖန်တီးရန်';
 
 $Definition['Dashboard'] = 'ထိန်းချုပ်နေရာ';
@@ -177,7 +173,6 @@ $Definition['GuestModule.Message'] = 'ကြိုဆိုပါတယ်။ �
 $Definition['he'] = 'သူ';
 $Definition['her'] = 'သူမ၏';
 $Definition['his'] = 'သူ၏';
-
 $Definition['Howdy, Stranger!'] = 'မင်္ဂလာပါ!';
 
 $Definition['Inbox'] = 'စာတိုက်';
@@ -295,9 +290,5 @@ $Definition['Write Comment'] = 'မှတ်ချက်ရေးရန်';
 $Definition['Write something about yourself...'] = 'သင့်အကြောင်း တစ်စုံတစ်ခုပေါ့...';
 
 $Definition['You'] = 'သင်';
-
 $Definition['you'] = 'သင်';
-
 $Definition['You already have an account here.'] = 'သင်၏ ​အကောင့် ရှိပြီးသားဖြစ်သည်';
-
-$Definition['[%1$s] Membership Approved'] = '[%1$s] အဖွဲ့ဝင်အဖြစ် အသိအမှတ်ပြုသည်။';

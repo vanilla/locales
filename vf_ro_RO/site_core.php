@@ -1,5 +1,7 @@
 <?php
 
+$Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s a acceptat invitatia lui %4$s.';
+$Definition['%1$s changed %4$s permissions.'] = '%1$s a schimbat permisiunile lui %4$s.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s a schimbat %6$s avatarul.';
 $Definition['%1$s joined.'] = '%1$s s-a alaturat.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s a mentionat %3$s pe %8$s.';
@@ -62,9 +64,7 @@ $Definition['Add Comment'] = 'Adauga un comentariu';
 $Definition['Add Message'] = 'Adauga mesaj';
 $Definition['Add People to this Conversation'] = 'Adauga membrii la conversatie';
 $Definition['Administrator Activity'] = 'Activitate administrator';
-
 $Definition['administrators'] = 'administratori';
-
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Ooops! Eroare in timpul procesarii cererii.<br />Serverul a returnat urmatorul raspuns: %s';
 $Definition['All Categories'] = 'Toate Categoriile';
 $Definition['All Conversations'] = 'Toate discutiile';
@@ -83,9 +83,7 @@ $Definition['Attach a file'] = 'Atasati un fisier';
 $Definition['Back to Discussions'] = 'Inapoi la discutii';
 $Definition['Back to Profile'] = 'Inapoi la profil';
 $Definition['Bookmark'] = 'Favorite';
-
 $Definition['bookmarked discussion'] = 'discutii marcate ca favorite';
-
 $Definition['Bookmarked Discussions'] = 'discutii marcate ca favorite';
 $Definition['Bookmarks'] = 'Marcaje';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Prin incarcarea unui fisier pe care certificati faptul ca aveti dreptul de a distribui aceasta imagine si ca nu incalcati Termenii si Conditiile.';
@@ -103,17 +101,13 @@ $Definition['Choose a name to identify yourself on the site.'] = 'Alege un nume 
 $Definition['Close'] = 'Inchide';
 $Definition['Closed'] = 'Discutie Inchisa';
 $Definition['Comment'] = 'Comenteaza';
-
 $Definition['comment'] = 'comenteaza';
-
 $Definition['Confirm'] = 'Confirma';
 $Definition['Confirm Password'] = 'Confirma Parola';
 $Definition['Connect'] = 'Conecteaza-te';
 $Definition['ConnectCreateAccount'] = 'Adauga informatii &amp; Creaza cont';
 $Definition['ConnectName'] = 'Utilizator';
-
 $Definition['conversation'] = 'conversatie';
-
 $Definition['Create One.'] = 'Vreau un cont acum!';
 
 $Definition['Dashboard'] = 'Panou utilizator';
@@ -123,9 +117,7 @@ $Definition['Delete'] = 'Sterge';
 $Definition['Delete Account'] = 'Sterge contul';
 $Definition['Delete Conversation'] = 'Sterge conversatia';
 $Definition['Delete Discussion'] = 'Sterge discutia';
-
 $Definition['discussion'] = 'discutia';
-
 $Definition['Discussions'] = 'Discutii';
 $Definition['Discussion Title'] = 'Titlul discutiei';
 $Definition['Dismiss'] = 'Revocati';
@@ -235,7 +227,6 @@ $Definition['ErrorCredentials'] = 'Ne pare rau, nu exista cont conform cu e-mail
 $Definition['ErrorPermission'] = 'Ne pare rau, permisiune refuzata.';
 $Definition['ErrorRecordNotFound'] = 'Inregistrarea solicitata nu a putut fi gasita.';
 $Definition['ErrorTermsOfService'] = 'Trebuie sa fiti de acord cu termenii si conditiile.';
-
 $Definition['everyone'] = 'toata lumea';
 
 $Definition['Female'] = 'Feminin';
@@ -245,8 +236,8 @@ $Definition['Flag'] = 'Abuz?';
 $Definition['Forgot?'] = 'Resetare?';
 $Definition['Format his'] = 'al lui';
 $Definition['Format their'] = 'Lor';
-$Definition['Format you'] = 'tu';
 $Definition['Format You'] = 'Tu';
+$Definition['Format you'] = 'tu';
 $Definition['Format Your'] = 'Tau';
 
 $Definition['Gender'] = 'Sex';
@@ -254,16 +245,11 @@ $Definition['Go'] = 'Caut';
 $Definition['GuestModule.Message'] = 'Implica-te acum! <br />Conecteaza-te acum prin:';
 
 $Definition['he'] = 'el';
-
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} alaturat.';
-
 $Definition['her'] = 'al ei';
-
 $Definition['Hide signatures always'] = 'Ascunde semnatura intotdeauna';
 $Definition['Hide signatures on my mobile device'] = 'Ascunde semnaturile pentru dispozitivele mobile';
-
 $Definition['his'] = 'al lui';
-
 $Definition['Home'] = 'Acasa';
 $Definition['Howdy, Stranger!'] = 'Bine ai venit, vizitatorule!';
 $Definition['How long do you want this warning to last?'] = 'Cat de mult vrei sa dureze acest avertisment?';
@@ -291,14 +277,10 @@ $Definition['Login with Facebook'] = 'Intra in cont cu Facebook';
 
 $Definition['Make me invisible? (Will not show you on the list)'] = 'Fa-ma invisibl! (Nu vreau sa fiu afisat in lista!)';
 $Definition['Male'] = 'Masculin';
-
 $Definition['markallviewed'] = 'Vizualizate?';
 $Definition['message'] = 'mesaj';
-
 $Definition['Moderator Activity'] = 'Activitate Moderator';
-
 $Definition['moderators'] = 'moderatori';
-
 $Definition['Most recent by %1$s'] = 'Cele mai recente de %1$s';
 $Definition['My Bookmarks'] = 'Favoritele mele';
 $Definition['My Discussions'] = 'Discutiile mele';
@@ -306,13 +288,10 @@ $Definition['My Drafts'] = 'Ciornele mele';
 $Definition['My Preferences'] = 'Preferintele mele';
 
 $Definition['n/a'] = 'fara';
-
 $Definition['Name Unavailable'] = 'Numele indisponibil';
 $Definition['New Conversation'] = 'Incepeti o noua conversatie';
-
-$Definition['new discussion'] = 'nou';
-
 $Definition['New Discussion'] = 'Incepeti o noua discutie';
+$Definition['new discussion'] = 'nou';
 $Definition['New Message'] = 'Incepeti o noua conversatie';
 $Definition['New Password'] = 'Parola noua';
 $Definition['No discussions were found.'] = 'Nu exista discutii inca. Te invitam sa fii primul care deschide o discutie!';
@@ -325,16 +304,21 @@ $Definition['Notify me of private messages.'] = 'Anunta-ma de mesaje private.';
 $Definition['Notify me when I am added to private conversations.'] = 'Anunta-ma cand sunt adaugat la conversatii private.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Anunta-ma cand cineva comenteaza pe discutiile mele marcate ca favorite.';
 $Definition['Notify me when people comment on my discussions.'] = 'Anunta-ma cand cineva comenteaza pe discu';
+$Definition['Notify me when people mention me.'] = 'Trimite notificare cand sunt mentionat de o persoana.';
 $Definition['Notify me when people mention me in comments.'] = 'Anunta-ma cand sunt mentionat in comentarii.';
 $Definition['Notify me when people reply to my wall comments.'] = 'Anunta-ma cand cineva raspunde la comentariile de pe peretele meu.';
 $Definition['Notify me when people write on my wall.'] = 'Anunta-ma atunci cand cineva scrie pe peretele meu.';
 
+$Definition[' now.'] = 'acum.';
+
 $Definition['Okay'] = 'Gata';
+$Definition['Old Password'] = 'Parola Veche';
 $Definition['Options'] = 'Optiuni';
 $Definition['Or you can...'] = 'Sau poti sa...';
 
 $Definition['PageDetailsMessage'] = '%1$s la %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s la %2$s din %3$s';
+$Definition['Page Not Found'] = 'Pagina nu s-a gasit';
 $Definition['Password'] = 'Parola';
 $Definition['PasswordRequest'] = 'Schimbare parola %1$s,
 
@@ -345,21 +329,33 @@ Cineva, poate chiar tu, a incercat sa schimbe parola de pe %2$s. Daca doresti re
 Daca nu tu ai cerut schimbarea, NU da click pe link-ul respectiv.!';
 $Definition['Passwords don\'t match'] = 'Parola nu se potriveste!';
 $Definition['Permalink'] = 'Link Permanent';
+$Definition['Picture'] = 'Poza';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Asteapta putin! Vei fi redirectionat imediat. Daca nu esti redirectionat, click <a href="%s">aici</a>.';
+$Definition['Popup'] = 'Pop-Up';
 $Definition['Post Comment'] = 'Publica comentrariul';
 $Definition['Post Discussion'] = 'Publica discutia';
 $Definition['Preview'] = 'Previzualizeaza';
+$Definition['Private Note for Moderators'] = 'Nota privata pentru Moderatori';
+$Definition['Profile'] = 'Profil';
 $Definition['Profile Picture'] = 'Avatarul';
 
 $Definition['Question Title'] = 'Titlul discutiei';
+$Definition['Quote'] = 'Citat';
+$Definition['Quote Folding'] = 'Aranjament Citat';
+$Definition['Quote Settings'] = 'Setari Citat';
 
 $Definition['Recent Activity'] = 'Activitati in timp real';
+$Definition['Recent Discussions'] = 'Discutii Recente';
 $Definition['Recipients'] = 'Destinatari';
 $Definition['Redirecting...'] = 'Redirectionare...';
 $Definition['Register'] = 'Aplica pentru inscriere';
+$Definition['Register IP'] = 'Inregistrare IP';
 $Definition['Register with %s'] = 'Aplica pentru inscriere';
 $Definition['Remember me on this computer'] = 'Tine-ma minte pe acest computer';
 $Definition['Remove My Picture'] = 'Sterge avatarul meu';
+$Definition['Remove Picture'] = 'Sterge Poza';
+$Definition['Reopen'] = 'Redeschide';
+$Definition['Reply'] = 'Raspunde';
 $Definition['Request a new password'] = 'Cere o noua parola';
 $Definition['Roles'] = 'Roluri';
 
@@ -373,26 +369,27 @@ $Definition['Select an image on your computer (2mb max)'] = 'Selecteaza o imagin
 $Definition['Send Message'] = 'Trimite mesaj';
 $Definition['Settings'] = 'Setari';
 $Definition['Share'] = 'Da mai departe';
-
 $Definition['she'] = 'ea';
-
+$Definition['Signature Code'] = 'Cod Semnatura';
+$Definition['Signature Settings'] = 'Setari Semnatura';
 $Definition['SignIn'] = 'Intra in cont';
 $Definition['Sign In'] = 'Intra in cont';
+$Definition['Sign In with Facebook'] = 'Inregistrare prin Facebook';
 $Definition['Sign In with Google'] = 'Intra in cont cu Gmail';
 $Definition['Sign In with OpenID'] = 'Intra in cont cu OpenID';
 $Definition['Sign In with Twitter'] = 'Intra in cont cu Twitter';
 $Definition['Sign Out'] = 'Iesi din cont';
 $Definition['Sign Up'] = 'Inregistreaza-te';
 $Definition['Sink'] = 'Expirat';
-
 $Definition['somebody'] = 'cineva';
-
 $Definition['Start a New Conversation'] = 'Incepeti o noua conversatie';
 $Definition['Start a New Discussion'] = 'Incepeti o noua discutie';
 $Definition['Start Conversation'] = 'Incepeti conversatia';
 $Definition['Started by %1$s'] = 'Deschisa de %1$s';
+$Definition['Strip images out of signatures'] = 'Scoate imaginile din semnatura';
 
 $Definition['Tags'] = 'Cuvinte de cautare';
+$Definition['Tell the user why you\'re warning them'] = 'Spune utilizatorului de ce il avertizezi.';
 $Definition['TermsOfService'] = 'Termeni si conditii';
 $Definition['Terms of Service'] = 'Termeni si conditii';
 $Definition['TermsOfServiceText'] = '
@@ -440,14 +437,21 @@ $Definition['TermsOfServiceText'] = '
    
    <h1>SLOGAN NUME SITE</h1>
 ';
+$Definition['The page you were looking for could not be found.'] = 'Pagina pe care o cauti nu a putut fi gasita.';
+$Definition['they'] = 'ei';
 $Definition['This discussion has been closed.'] = 'Aceasta discutie a fost inchisa comentariilor!';
+$Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Imaginea a fost redimensionata pentru a se potrivi in pagina. Click pentru marire.';
+$Definition['This user has been verified as a non-spammer.'] = 'Utilizator a fost verificat pentru spam.';
 $Definition['Thumbnail'] = 'Pictograma';
 $Definition['Transport error: %s'] = 'Ooops! Eroare in timpul procesarii cererii.<br />Serverul a returnat urmatorul raspuns: %s';
 $Definition['Type'] = 'Condition Type';
 
 $Definition['Unannounce'] = 'Neimportant';
 $Definition['Unbookmark'] = 'Sterg din favorite';
+$Definition['Unknown'] = 'Necunoscut';
+$Definition['Unspecified'] = 'Nespecificat';
 $Definition['Upload'] = 'Incarca';
+$Definition['Uploading...'] = 'Se incarca...';
 $Definition['Username'] = 'Utilizator';
 
 $Definition['ValidateBoolean'] = '%s nu este un operator valabil.';
@@ -469,25 +473,27 @@ $Definition['ValidateTimestamp'] = '%s nu este un interval de timp valid.';
 $Definition['ValidateUsername'] = 'Numele de utilizator trebuie sa aibe 3-20 de caractere si constau din litere si numere. Fara simboluri sau punctuatie.';
 $Definition['ValidateVersion'] = 'Versiunea %s invalida. Vezi functia php version_compare() pentru exemplu.';
 $Definition['Value'] = 'Condition Expression';
+$Definition['Verified'] = 'Verificat';
 $Definition['Visits'] = 'Vizite';
 
 $Definition['wall'] = 'perete';
-
+$Definition['Welcome Aboard!'] = 'Bun Venit!';
 $Definition['Write a comment'] = 'Scrie un comentariu';
 $Definition['Write Comment'] = 'Scrie comentariu';
 $Definition['Write something about yourself...'] = 'Descrie-te pe tine...';
 
 $Definition['You'] = 'Tu';
-
 $Definition['you'] = 'tu';
-
 $Definition['You already have an account here.'] = 'Ai deja un cont pe forum.';
 $Definition['You are connected as %s through %s.'] = 'Esti conectat ca %s prin %s.';
+$Definition['You can follow individual categories and be notified of all posts within them.'] = 'Poti urmari categorii individuale si sa fii anuntat despre toate postarile din categoriile respective.';
 $Definition['You do not have any conversations.'] = 'Nu ai nici o conversatie inca.';
 $Definition['You do not have any notifications yet.'] = 'Nu ai nici o notificare inca.';
+$Definition['You haven\'t read this yet.'] = 'Inca nu ai citit asta.';
 $Definition['You must agree to the terms of service.'] = 'Trebuie sa fiti de acord cu termenii si conditiile.';
-
 $Definition['your'] = 'a ta/u';
-
 $Definition['Your changes have been saved.'] = 'Saved';
+$Definition['Your email has been successfully confirmed.'] = 'Email confirmat cu succes.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Numele tau de utilizator inregistrat : <strong>%s</strong>';
+
+$Definition[' You should '] = 'Ar trebui sa';

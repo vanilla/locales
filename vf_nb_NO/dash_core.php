@@ -2,6 +2,10 @@
 
 $Definition['%s user(s) found.'] = '%s funnet';
 
+$Definition['[%s] Invitation'] = '[%s] Invitasjon';
+$Definition['[%s] Password Reset'] = '[%s] Passord nullstilt';
+$Definition['[%s] Password Reset Request'] = '[%s] Forespør nullstilling av passord.';
+
 $Definition['Add Role'] = 'Legg til rolle';
 $Definition['Allow users to dismiss this message'] = 'Tillat brukere å avskjedige denne meldingen.';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Selv om invitasjonen ble laget, kunne ikke e-posten bli sendt. Serveren sier det er fordi: %s';
@@ -94,7 +98,3 @@ $Definition['What\'s the Buzz?'] = 'Ka skjer?';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Du kan ikke fjerne en invitasjon som har blitt akseptert av motager.';
 $Definition['You have %s invitations left for this month.'] = 'Du har %s invitasjoner igjen denne måneden.';
 $Definition['You must be authenticated in order to use this form.'] = 'Du må ha sikkerhetsklarering for å bruke dette skjemaet.';
-
-$Definition['[%s] Invitation'] = '[%s] Invitasjon';
-$Definition['[%s] Password Reset'] = '[%s] Passord nullstilt';
-$Definition['[%s] Password Reset Request'] = '[%s] Forespør nullstilling av passord.';

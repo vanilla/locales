@@ -8,10 +8,10 @@ $Definition['%s comment'] = '%s komentar';
 $Definition['%s comments'] = '%s komentari';
 $Definition['%s Connect'] = '%s Poveži';
 $Definition['%s message'] = '%s poruka';
-$Definition['%s new'] = '%s Novo';
 $Definition['%s New'] = '%s Novo';
-$Definition['%s new plural'] = '%s Novo';
+$Definition['%s new'] = '%s Novo';
 $Definition['%s New Plural'] = '%s Novo';
+$Definition['%s new plural'] = '%s Novo';
 
 $Definition['1 message'] = '1 poruka';
 
@@ -70,9 +70,7 @@ $Definition['Ask Question'] = 'Objavi Diskusiju';
 
 $Definition['Back to Discussions'] = 'Nazad na Diskusije';
 $Definition['Bookmark'] = 'Označi';
-
 $Definition['bookmarked discussion'] = 'označene diskusije';
-
 $Definition['Bookmarked Discussions'] = 'Označene Diskusije';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Postavljanjem ovog fajla potvrđujete da imate pravo distribuiranja ove slike, i da ne narušavate uslove pružanja usluge.';
 
@@ -84,18 +82,14 @@ $Definition['Change My Password'] = 'Promijeni Moju Šifru';
 $Definition['Change My Picture'] = 'Promijeni Moju Sliku';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = 'Zatvori';
-
-$Definition['comment'] = 'komentariši';
-
 $Definition['Comment'] = 'Komentariši';
+$Definition['comment'] = 'komentariši';
 $Definition['Confirm'] = 'Potvrdi';
 $Definition['Confirm Password'] = 'Potvrdi Šifru';
 $Definition['Connect'] = 'Poveži';
 $Definition['ConnectCreateAccount'] = 'Dodaj Info &amp; Kreiraj Account';
 $Definition['ConnectName'] = 'Korisničko ime';
-
 $Definition['conversation'] = 'razgovor';
-
 $Definition['Create One.'] = 'Kreiraj Akaunt.';
 
 $Definition['Dashboard'] = 'Administracija';
@@ -202,7 +196,6 @@ $Definition['GuestModule.Message'] = 'Čini se da ste novi ovdje. Ako se želite
 $Definition['he'] = 'on';
 $Definition['her'] = 'ona';
 $Definition['his'] = 'njegov';
-
 $Definition['Howdy, Stranger!'] = 'Pozdrav, Gost!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Prihvatam <a id="TermsOfService" class="Popup" target="terms" href="%s">uslove pružanja usluge</a>';
@@ -286,9 +279,7 @@ $Definition['SearchBoxPlaceHolder'] = 'Pretraga';
 $Definition['Select an image on your computer (2mb max)'] = 'Odaberite sliku sa svog kompjutera (2mb max)';
 $Definition['Send Message'] = 'Pošalji Poruku';
 $Definition['Share'] = 'Podijeli';
-
 $Definition['she'] = 'ona';
-
 $Definition['SignIn'] = 'Prijavi se';
 $Definition['Sign In'] = 'Prijavi se';
 $Definition['Sign In with Google'] = 'Prijavi Se sa Google';
@@ -296,9 +287,7 @@ $Definition['Sign In with OpenID'] = 'Prijavi Se sa OpenID';
 $Definition['Sign In with Twitter'] = 'Prijavi Se sa Twitter-om';
 $Definition['Sign Out'] = 'Odjavi se';
 $Definition['Sign Up'] = 'Registruj se';
-
 $Definition['somebody'] = 'neko';
-
 $Definition['Start a New Conversation'] = 'Započni Novi Razgovor';
 $Definition['Start a New Discussion'] = 'Započni Novu Diskusiju';
 $Definition['Start Conversation'] = 'Započni Razgovor';
@@ -356,21 +345,17 @@ $Definition['Value'] = 'Condition Expression';
 $Definition['Visits'] = 'Posjete';
 
 $Definition['wall'] = 'Zid';
-
 $Definition['Write a comment'] = 'Napiši komentar';
 $Definition['Write Comment'] = 'Napiši komentar';
 $Definition['Write something about yourself...'] = 'Napišite nešto o sebi...';
 
-$Definition['you'] = 'ti';
-
 $Definition['You'] = 'vi';
+$Definition['you'] = 'ti';
 $Definition['You already have an account here.'] = 'Vi već imate jedan account.';
 $Definition['You are connected as %s through %s.'] = 'Vi ste povezani kao %s preko %s.';
 $Definition['You do not have any conversations.'] = 'Nemate razgovora.';
 $Definition['You do not have any notifications yet.'] = 'Još uvijek nemate obavještenja.';
 $Definition['You must agree to the terms of service.'] = 'Morate prihvatiti uslove pružanja usluge.';
-
 $Definition['your'] = 'tvoj';
-
 $Definition['Your changes have been saved.'] = 'Saved';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Vaše registrovano korisničko ime: <strong>%s</strong>';

@@ -14,6 +14,8 @@ $Definition['%s new plural'] = '%s нов';
 
 $Definition['1 message'] = '1 съобщение';
 
+$Definition['[%1$s] Membership Approved'] = 'Членството на [%1$s] беше одобрено';
+
 $Definition['About'] = 'Относно';
 $Definition['Activate'] = 'Активиране';
 $Definition['Activity'] = 'Активност';
@@ -70,9 +72,7 @@ $Definition['Ask Question'] = 'Публикуване на дискусията'
 $Definition['Back to Discussions'] = 'Обратно към дискусиите';
 $Definition['Banned'] = 'Блокиран';
 $Definition['Bookmark'] = 'Добави в Любими';
-
 $Definition['bookmarked discussion'] = 'любима дискусия';
-
 $Definition['Bookmarked Discussions'] = 'Любими дискусии';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'С качването на този файл, декларирате, че имате правата да го разпространявате и същият не противоречи на Условията за ползване.';
 
@@ -85,9 +85,7 @@ $Definition['Change My Picture'] = 'Смяна на снимката';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = 'Затваряне';
 $Definition['Comment'] = 'Коментар';
-
 $Definition['comment'] = 'коментар';
-
 $Definition['Comments'] = 'Коментари';
 $Definition['Confirm'] = 'Потвърждаване';
 $Definition['Confirm Email'] = 'Потвърждаване на адреса за електронна поща';
@@ -95,9 +93,7 @@ $Definition['Confirm Password'] = 'Потвърдете паролата';
 $Definition['Connect'] = 'Свързване';
 $Definition['ConnectCreateAccount'] = 'Добавяне на информация &amp; Създаване на акаунт';
 $Definition['ConnectName'] = 'Потребител';
-
 $Definition['conversation'] = 'разговор';
-
 $Definition['Create One.'] = 'Създайте един.';
 $Definition['Customize your Public Profile'] = 'Редактиране на публичния профил';
 
@@ -107,9 +103,7 @@ $Definition['Delete'] = 'Изтриване';
 $Definition['Delete Account'] = 'Изтриване на акаунта';
 $Definition['Delete Conversation'] = 'Изтриване на разговора';
 $Definition['Delete Discussion'] = 'Изтриване на дискусията';
-
 $Definition['discussion'] = 'дискусия';
-
 $Definition['Discussions'] = 'Дискусии';
 $Definition['Discussion Title'] = 'Заглавие на дискусията';
 $Definition['Don\'t have an account? %s'] = 'Нямате акаунт? %s';
@@ -213,7 +207,6 @@ $Definition['Go'] = 'Ок';
 $Definition['he'] = 'той';
 $Definition['her'] = 'нейния';
 $Definition['his'] = 'неговия';
-
 $Definition['Howdy, Stranger!'] = 'Здрасти :)';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Приемам <a id="TermsOfService" class="Popup" target="terms" href="%s">Общите условия</a>';
@@ -307,9 +300,7 @@ $Definition['Select an image on your computer (2mb max)'] = 'Изберете и
 $Definition['Send Message'] = 'Изпращане на съобщението';
 $Definition['Settings'] = 'Настройки';
 $Definition['Share'] = 'Сподели';
-
 $Definition['she'] = 'тя';
-
 $Definition['Sign In'] = 'Вход';
 $Definition['SignIn'] = 'Вход';
 $Definition['Sign In with Google'] = 'Влезте с Google';
@@ -317,9 +308,7 @@ $Definition['Sign In with OpenID'] = 'Длезте с OpenID';
 $Definition['Sign In with Twitter'] = 'Длезте с Twitter';
 $Definition['Sign Out'] = 'Изход';
 $Definition['Sign Up'] = 'Регистрация';
-
 $Definition['somebody'] = 'някой';
-
 $Definition['Spam'] = 'Спам';
 $Definition['Start a New Conversation'] = 'Започнете нов разговор';
 $Definition['Start a New Discussion'] = 'Започнете нова дискусии';
@@ -384,26 +373,19 @@ $Definition['Visits'] = 'Посещения';
 $Definition['Visit Site'] = 'Посетете форума';
 
 $Definition['wall'] = 'стена';
-
 $Definition['Welcome Aboard!'] = 'Добре дошли във Форума!';
 $Definition['Write a comment'] = 'Напишете коментар';
 $Definition['Write Comment'] = 'Напишете коментар';
 $Definition['Write something about yourself...'] = 'Напишете нещо за Вас...';
 
 $Definition['You'] = 'Ти';
-
 $Definition['you'] = 'ти';
-
 $Definition['You already have an account here.'] = 'Вече имате акаунт тук.';
 $Definition['You are connected as %s through %s.'] = 'Свързани сте като %s чрез %s.';
 $Definition['You do not have any conversations.'] = 'Нямате разговори.';
 $Definition['You do not have any notifications yet.'] = 'Нямате уведомления.';
 $Definition['You must agree to the terms of service.'] = 'Трябва да се съгласите с условията за ползване.';
-
 $Definition['your'] = 'твоя';
-
 $Definition['Your changes have been saved.'] = 'Промените бяха запазанеи.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Регистрираното Ви потребителско име: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = 'Настройките бяха запазени.';
-
-$Definition['[%1$s] Membership Approved'] = 'Членството на [%1$s] беше одобрено';

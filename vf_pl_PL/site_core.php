@@ -8,17 +8,20 @@ $Definition['%s and you'] = '%s i ty';
 $Definition['%s comment'] = '%s komentarz';
 $Definition['%s comments'] = '%s komentarze';
 $Definition['%s Connect'] = '%s połączenie';
+$Definition['%s discussion'] = '%s dyskusja';
 $Definition['%s message'] = '%s wiadomość';
 $Definition['%s New'] = '%s Nowy(a)';
 $Definition['%s new'] = '%s nowy(a)';
-$Definition['%s new plural'] = '%s nowy(a)';
 $Definition['%s New Plural'] = '%s Nowy(a)';
+$Definition['%s new plural'] = '%s nowy(a)';
 
 $Definition[' - Page %s'] = '- Strona %s';
 
 $Definition['1 message'] = '1 wiadomość';
 
 $Definition['<General Error>'] = '<Błąd ogólny>';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Członkostwo zatwierdzone';
 
 $Definition['About'] = 'o';
 $Definition['Activate'] = 'Aktywacja';
@@ -80,9 +83,7 @@ $Definition['Back to Discussions'] = 'Powrót do dyskusji';
 $Definition['Back to Profile'] = 'Wróć do profilu';
 $Definition['Banned'] = 'Zakazany';
 $Definition['Bookmark'] = 'Zakładka';
-
 $Definition['bookmarked discussion'] = 'dyskusje w zakładkach';
-
 $Definition['Bookmarked Discussions'] = 'Dyskusje w zakładkach';
 $Definition['Bookmarks'] = 'Zakładki';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Przesyłając plik potwierdzasz, że masz prawo do rozpowszechniania tego zdjęcia i że nie narusza ono regulaminu.';
@@ -96,10 +97,8 @@ $Definition['Change My Picture'] = 'Zmień mój obrazek';
 $Definition['Check all roles that apply to this user:'] = 'Sprawdź wszystkie role przypisane użytkownikowi:';
 $Definition['Close'] = 'Zamknij';
 $Definition['Closed'] = 'Zamknięty';
-
-$Definition['comment'] = 'komentuj';
-
 $Definition['Comment'] = 'Komentarz';
+$Definition['comment'] = 'komentuj';
 $Definition['Comments'] = 'Komentarz';
 $Definition['Confirm'] = 'Zatwierdź';
 $Definition['Confirm Email'] = 'E-mail zatwierdzający';
@@ -110,9 +109,7 @@ $Definition['ConnectCreateAccount'] = 'Dodaj informacje i utwórz konto';
 $Definition['ConnectExistingPassword'] = 'Wprowadź hasło do swojego konta.';
 $Definition['ConnectName'] = 'Nazwa użytkownika';
 $Definition['ConnectRegisteredName'] = 'Twoja zarejestrowana nazwa użytkownika: <strong>%s</strong>';
-
 $Definition['conversation'] = 'konwersacja';
-
 $Definition['Create One.'] = 'Utwórz jedno.';
 $Definition['Customize your Public Profile'] = 'Dostosuj swój profil publiczny';
 
@@ -121,9 +118,7 @@ $Definition['Delete'] = 'Usuń';
 $Definition['Delete Account'] = 'Usuń konto';
 $Definition['Delete Conversation'] = 'Usuń konwersację';
 $Definition['Delete Discussion'] = 'Usuń dyskusję';
-
 $Definition['discussion'] = 'dayskusja';
-
 $Definition['Discussions'] = 'Dyskusje';
 $Definition['Discussion Title'] = 'Tytuł dyskusji';
 $Definition['Don\'t have an account? %s'] = 'Nie masz konta? %s';
@@ -239,14 +234,11 @@ $Definition['GuestModule.Message'] = 'Wygląda na to, że jesteś tutaj nowy. Je
 $Definition['he'] = 'on';
 $Definition['her'] = 'jej';
 $Definition['his'] = 'jego';
-
 $Definition['Home'] = 'Strona główna';
 $Definition['Howdy, Stranger!'] = 'Witaj, nieznajomy!';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Akceptuję <a id="TermsOfService" class="Popup" target="terms" href="%s">warunki korzystania z serwisu</a>';
-
 $Definition['in'] = 'w';
-
 $Definition['Inbox'] = 'Skrzynka odbiorcza';
 $Definition['Internal'] = 'Wewnętrzny';
 $Definition['In this Conversation'] = 'W tej konwersacji';
@@ -284,6 +276,7 @@ $Definition['Not Authorized (401)'] = 'Brak autoryzacji (401)';
 $Definition['Not Found (404)'] = 'Nie odnaleziono (404)';
 $Definition['Notifications'] = 'Powiadomienia';
 $Definition['Notify me of private messages.'] = 'Powiadom mnie o prywatnych wiadomościach.';
+$Definition['Notify me when a comment is flagged.'] = 'Informuj mnie kiedy ludzie wspominają mnie w komentarzach.';
 $Definition['Notify me when I am added to private conversations.'] = 'Powiadom mnie gdy dodaję prywatne konwersacje.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Powiadom mnie gdy ktoś skomentuje moje zaznaczone dyskusje.';
 $Definition['Notify me when people comment on my discussions.'] = 'Powiadom mnie gdy ktoś skomentuje moje dyskusje.';
@@ -338,19 +331,15 @@ $Definition['Select an image on your computer (2mb max)'] = 'Wybierz grafikę na
 $Definition['Send Message'] = 'Wyślij wiadomość';
 $Definition['Settings'] = 'Ustawienia';
 $Definition['Share'] = 'Podziel się';
-
 $Definition['she'] = 'ona';
-
-$Definition['SignIn'] = 'Zaloguj się';
 $Definition['Sign In'] = 'Zaloguj się';
+$Definition['SignIn'] = 'Zaloguj się';
 $Definition['Sign In with Google'] = 'Zaloguj się przy pomocy Google';
 $Definition['Sign In with OpenID'] = 'Zaloguj się przy pomocy OpenID';
 $Definition['Sign In with Twitter'] = 'Zaloguj się przy pomocy Twittera';
 $Definition['Sign Out'] = 'Wyloguj';
 $Definition['Sign Up'] = 'Zarejestruj się';
-
 $Definition['somebody'] = 'ktoś';
-
 $Definition['Start a New Conversation'] = 'Rozpocznij nową konwersację';
 $Definition['Start a New Discussion'] = 'Nowa dyskusja';
 $Definition['Start Conversation'] = 'Rozpocznij konwersację';
@@ -413,25 +402,19 @@ $Definition['Visits'] = 'Wizyty';
 $Definition['Visit Site'] = 'Odwiedź stronę';
 
 $Definition['wall'] = 'ściana';
-
 $Definition['Welcome Aboard!'] = 'Witaj na pokładzie!';
 $Definition['Write a comment'] = 'Napisz komentarz';
 $Definition['Write Comment'] = 'Napisz komentarz';
 $Definition['Write something about yourself...'] = 'NApisz coś o sobie...';
 
-$Definition['you'] = 'ty';
-
 $Definition['You'] = 'Ty';
+$Definition['you'] = 'ty';
 $Definition['You already have an account here.'] = 'Masz już tu swoje konto';
 $Definition['You are connected as %s through %s.'] = 'Jesteś połączony jako %s przez %s.';
 $Definition['You do not have any conversations.'] = 'Nie masz jeszcze żadnych konwersacji.';
 $Definition['You do not have any notifications yet.'] = 'Nie masz jeszcze żadnych informacji.';
 $Definition['You must agree to the terms of service.'] = 'Musisz zaakceptować warunki korzystania z serwisu.';
-
 $Definition['your'] = 'twój(twoje)';
-
 $Definition['Your changes have been saved.'] = 'Zmiany zostały zapisane.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Twoja zarejestrowana nazwa użytkownika: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = 'Twoje ustawienia zostały zapisane.';
-
-$Definition['[%1$s] Membership Approved'] = '[%1$s] Członkostwo zatwierdzone';

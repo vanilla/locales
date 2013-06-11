@@ -19,7 +19,6 @@ $Definition['Apply'] = 'အသုံးပြုမည်';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
 
 $Definition['comment(s)'] = 'မှတ်ချက်';
-
 $Definition['Comments per Page'] = 'စာတစ်မျက်နှာတွင် မှတ်ချက် အရေအတွက်';
 $Definition['Conversations'] = 'သီးသန့်စာများ';
 
