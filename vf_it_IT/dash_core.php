@@ -1,5 +1,6 @@
 <?php
 
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" non trovata.';
 $Definition['%1$s Version %2$s'] = '%1$s Versione %2$s';
 $Definition['%s is not a valid email address'] = '%s non è un indirizzo email valido';
 $Definition['%s item in queue'] = 'oggetto in coda';
@@ -101,6 +102,7 @@ $Definition['Are you sure you want to delete this category?'] = 'Sei certo di vo
 $Definition['Are you sure you want to restore %s items?'] = 'Sei certo di voler fare il restore di %s elementi?';
 $Definition['Are you sure you want to restore 1 item?'] = 'Sei certo di voler fare il restore di 1 elemento?';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'Una versione url-friendly del nome categoria per una migliore SEO.';
+$Definition['Authenticate Url'] = 'Autentica URL';
 $Definition['Authentication'] = 'Autenticazione';
 $Definition['Authors can always edit their posts'] = 'L\'autore puo\' sempre modificare i propri messaggi';
 $Definition['Authors can edit for 1 day after posting'] = 'L\'autore puo\' modificare i propri messaggi entro 1 giorno dalla pubblicazione';
@@ -119,6 +121,7 @@ $Definition['Back to Mobile Site'] = 'Torna alla versione Mobile del sito';
 $Definition['Badge cannot be deleted.'] = 'Badge non cancellabile';
 $Definition['Badge deleted.'] = 'Badge cancellato';
 $Definition['Badge Name'] = 'Nome';
+$Definition['Badge Requests'] = 'Richieste Badge';
 $Definition['Banner Logo'] = 'Logo Banner';
 $Definition['Banner Title'] = 'Titolo Banner';
 $Definition['Ban Type'] = 'Tipo';
@@ -168,6 +171,7 @@ $Definition['Current Authenticator'] = 'Attuale sistema di autenticazione';
 $Definition['Current Theme'] = 'Tema attuale';
 
 $Definition['Decline'] = 'Rifiuta';
+$Definition['Default  Category'] = 'Categoria Predefinita';
 $Definition['Delete Role'] = 'Rimuovi Ruolo';
 $Definition['Delete User: %s'] = 'Rimuovi utente: %s';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'cancellando un Ruolo si potrebbe bloccare l\'accesso o l\'iscrizione a molti utenti!';
@@ -230,10 +234,20 @@ $Definition['Get More Themes'] = 'Scarica altri Temi';
 $Definition['Google Sign In Settings'] = 'Impostazioni Login Google';
 $Definition['Guest'] = 'Visitatore';
 
+$Definition['Hash Algorithm'] = 'Algoritmo Hash';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Attenzione, questo è un ruolo speciale, limitato alla sola consultazione.';
 $Definition['Here\'s how to get started:'] = 'Ecco come cominciare:';
 $Definition['Hide from the recent discussions page.'] = 'Nascondi dalla pagina delle discussioni recenti';
 $Definition['Hide this category from the recent discussions page.'] = 'Nascondi questa categoria dalla pagina delle discussioni recenti.';
+$Definition['Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.'] = 'Ciao Pal!↩⏎
+↩⏎
+Scopri il nuovo forum della community che ho appena istituito. E\' un ottimo posto per noi per chattare online con gli altri.↩⏎
+↩⏎
+ Segui il link qui sotto per accedere.';
 $Definition['Homepage Title'] = 'Homepage Titolo';
 
 $Definition['Import'] = 'Importa';
@@ -306,6 +320,7 @@ $Definition['Or Spamblock For'] = 'o Spamblock per';
 $Definition['Other'] = 'Altro';
 $Definition['Other Themes'] = 'Altri Temi';
 $Definition['Outgoing Email'] = 'Email in Uscita';
+$Definition['Outgoing Email Address'] = 'Indirizzo Email in Uscita';
 
 $Definition['Page'] = 'Pagina';
 $Definition['Password Options'] = 'Opzioni Password';
@@ -318,14 +333,17 @@ $Definition['Please Confirm'] = 'Prego confermare';
 $Definition['PluginHelp'] = 'I Plugin ti permettono di aggiungere funzionalita\' al tuo sito.<br />Una volta che un plugin viene aggiunto alla cartella %s, puoi abilitarlo o disabilitarlo da qui.';
 $Definition['Plugins'] = 'Plugin';
 $Definition['Points'] = 'Punti';
+$Definition['Polls'] = 'Sondaggi';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Previeni lo spam sul forum limitando il numero di discussioni &amp; commenti che gli utenti possono inserire in un determinato periodo di tempo.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guida rapida alla realizzazione di temi per Vanilla';
 
+$Definition['Ranks'] = 'Grado';
 $Definition['Recently Active Users'] = 'Utenti attivi';
 $Definition['Recent News'] = 'Ultime notizie';
 $Definition['Refresh Comments'] = 'Aggiorna Commenti';
 $Definition['Register for Membership'] = 'Registrati';
+$Definition['Register Url'] = 'Url di Registrazione';
 $Definition['Registration'] = 'Registrazione';
 $Definition['Registration is currently closed.'] = 'Attenzione - Le registrazioni sono al momento bloccate.';
 $Definition['Remove'] = 'Rimuovi';
@@ -355,8 +373,10 @@ $Definition['seconds'] = 'secondi';
 $Definition['Security'] = 'Sicurezza';
 $Definition['Select the file to import'] = 'Seleziona il file da importare';
 $Definition['Send %s a Message'] = 'Invia un messaggio a %s';
+$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Invia una email di conferma quando le persone fanno una domanda iniziano una discussione tramite e-mail.';
 $Definition['Send Again'] = 'Re-Invia';
 $Definition['Sent To'] = 'Invia a';
+$Definition['Site Description'] = 'Descrizione Sito';
 $Definition['Start Discussions'] = 'Inizia Discussione';
 $Definition['Status'] = 'Stato';
 $Definition['Subject'] = 'Soggetto';
@@ -377,6 +397,8 @@ $Definition['Theming Overview'] = 'Cosa sono i Temi?';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Il sistema di autenticazione via password non prevede alcun dato da configurare';
 $Definition['There are currently no applicants.'] = 'Al momento non sono presenti applicanti.';
 $Definition['There are no items awaiting moderation at this time.'] = 'Al momento non vi sono contenuti in attesa di moderazione.';
+$Definition['The specified url code is already in use by another category.'] = 'Il codice url specificato è già in uso da un\'altra categoria.';
+$Definition['This connection is in test-mode.'] = 'Questa connessione è in modalità di test.';
 $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Questo plugin permette agli utenti di accedere con OpenID. <b>Assicurati di gestire il plugin dalle Impostazioni dopo averlo attivato, per abilitare il Login con OpenID</b>.';
 $Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Questo plugin permette agli utenti di accedere con il proprio account Google. <b>Assicurati di gestire il plugin dalle Impostazioni dopo averlo attivato, per abilitare il Login con Google</b>.';
 $Definition['Titles'] = 'Titoli';
@@ -418,4 +440,6 @@ $Definition['You can place files in your /uploads folder.'] = 'Se il file e\' tr
 		finisca con l\'estensione <b>.txt o .gz</b>.';
 $Definition['You have %s invitations left for this month.'] = 'Hai ancora %s inviti per questo mese';
 $Definition['You must be authenticated in order to use this form.'] = 'Attenzione - E\' necessario essere autenticati per poter utilizzare la form utilizzata.';
+$Definition['You must manually apply this rank.'] = 'E\' necessario applicare manualmente questo livello.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'La tua registrazione verra\' supervisionata da un amministratore. Verrai notificato via email appena la tua registrazione verra\' approvata.';
+$Definition['Your changes were saved successfully.'] = 'Le tue modifiche sono state salvate correttamente.';

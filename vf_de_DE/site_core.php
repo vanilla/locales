@@ -134,7 +134,7 @@ $Definition['All Time Leaders'] = 'Anführer';
 $Definition['Ancient Membership'] = 'Ehemalige Mitgliedschaft';
 $Definition['An invitation has already been sent to the email you entered.'] = 'Eine Einladung wurde bereits an die eingegebene E-Mail-Adresse gesendet.';
 $Definition['Announce'] = 'Ankündigen';
-$Definition['Announce...'] = 'Ankündigen …';
+$Definition['Announce...'] = 'Ankündigen...';
 $Definition['Announcement'] = 'Ankündigung';
 $Definition['Announcements'] = 'Ankündigungen';
 $Definition['Announce this discussion'] = 'Diskussion ankündigen';
@@ -177,7 +177,7 @@ $Definition['Best Answer'] = 'Beste Antwort';
 $Definition['Best Answers'] = 'Beste Antworten';
 $Definition['Blank Discussion Topic'] = 'Leeres Diskussionsthema';
 $Definition['Blank Message'] = 'Leere Nachricht';
-$Definition['Bookmark'] = 'Markieren';
+$Definition['Bookmark'] = 'Lesezeichen setzen';
 $Definition['bookmarked discussion'] = 'markierte Diskussion';
 $Definition['Bookmarked Discussions'] = 'Markierte Diskussionen';
 $Definition['Bookmarks'] = 'Lesezeichen';
@@ -277,7 +277,7 @@ $Definition['discussion'] = 'Diskussion';
 $Definition['Discussions'] = 'Diskussionen';
 $Definition['Discussions Page'] = 'Diskussionsseite';
 $Definition['Discussion Title'] = 'Diskussionsthema';
-$Definition['Dismiss'] = 'Gelesen';
+$Definition['Dismiss'] = 'Verwerfen';
 $Definition['Don\'t announce.'] = 'Nicht ankündigen.';
 $Definition['Don\'t have an account? %s'] = 'Du hast keinen Account? %s';
 $Definition['Do you want to expire or delete this warning?'] = 'Möchtest du diese Warnung auslaufen lassen oder löschen?';
@@ -301,7 +301,7 @@ $Definition['Email'] = 'E-Mail';
 $Definition['Email/Username'] = 'E-Mail/Benutzername';
 $Definition['EmailConfirmEmail'] = 'Du musst deine E-Mail bestätigen, um fortzufahren. Bitte bestätige deine E-Mail, indem du auf den folgenden Link klickst: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
-Einen wunderschönen Tag!';
+Einen wunderschönen Tag noch!';
 $Definition['EmailHeader'] = 'Hallo {User.Name}!
 ';
 $Definition['EmailInvitation'] = 'Hallo!
@@ -338,7 +338,7 @@ Folge diesem Link:
 %2$s
 
 Bis bald!';
-$Definition['Email Unavailable'] = 'E-Mail nicht verfügbar';
+$Definition['Email Unavailable'] = 'E-Mail Adresse nicht verfügbar';
 $Definition['Email visible to other users'] = 'E-Mail für andere Nutzern sichtbar';
 $Definition['EmailWelcome'] = '%2$s hat für dich ein Konto bei %3$s eingerichtet. Deine Zugangsdaten sind:
 
@@ -416,7 +416,7 @@ $Definition['Garden.Email.SupportName'] = 'Support Name';
 $Definition['Garden.Registration.DefaultRoles'] = 'Standardrolle';
 $Definition['Garden.Title'] = 'Bannertitel';
 $Definition['Gender'] = 'Geschlecht';
-$Definition['General'] = 'Generell';
+$Definition['General'] = 'Allgemein';
 $Definition['Generate import SQL only'] = 'Generiere nur Import-SQL';
 $Definition['Generate Password'] = 'Passwort generieren';
 $Definition['Give'] = 'Geben';
@@ -424,7 +424,7 @@ $Definition['Give a Badge to %s'] = 'Einen Badge an %s vergeben';
 $Definition['Give Badge'] = 'Badge vergeben';
 $Definition['Given'] = 'Gegeben';
 $Definition['Go'] = 'Los';
-$Definition['GuestModule.Message'] = 'scheinbar bist du neu hier? Wenn du teilnehmen willst, wähle eine der folgenden Optionen:';
+$Definition['GuestModule.Message'] = 'Es sieht so aus als wärst du neu hier. Wenn du teilnehmen willst, wähle eine der folgenden Optionen:';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Warte einen Moment während du ausgeloggt wirst.';
 $Definition['he'] = 'er';
@@ -444,7 +444,7 @@ $Definition['Hide signatures always'] = 'Signaturen immer verbergen';
 $Definition['Hide signatures on my mobile device'] = 'Signaturen auf meinem Mobilgerät verbergen';
 $Definition['his'] = 'sein';
 $Definition['hours'] = 'Stunden';
-$Definition['Howdy, Stranger!'] = 'Hey Unbekannter!';
+$Definition['Howdy, Stranger!'] = 'Hallo, Fremder!';
 $Definition['How long do you want this warning to last?'] = 'Wie lange möchtest du diesen Hinweis sehen?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Ich stimme den <a id="TermsOfService" class="Popup" target="terms" href="%s">Nutzungsbedingungen</a> zu';
@@ -558,7 +558,7 @@ $Definition['Notify me when people comment on my discussions.'] = 'Benachrichtig
 $Definition['Notify me when people mention me.'] = 'Benachrichtige mich, wenn ich erwähnt werde.';
 $Definition['Notify me when people mention me in comments.'] = 'Benachrichtige mich, wenn ich in Kommentaren erwähnt werde.';
 $Definition['Notify me when people reply to my wall comments.'] = 'Benachrichtige mich, wenn auf meine Pinnwand-Kommentare geantwortet wurde.';
-$Definition['Notify me when people write on my wall.'] = 'Benachrichtige mich, wenn auf meiner Pinnwand kommentiert wurde.';
+$Definition['Notify me when people write on my wall.'] = 'Benachrichtige mich, wenn auf meine Pinnwand geschrieben wurde.';
 $Definition['Not much happening here, yet.'] = 'Hier passiert noch nicht viel.';
 $Definition['Not Verified'] = 'Nicht verifiziert';
 
@@ -607,7 +607,7 @@ $Definition['Popular Discussions'] = 'Beliebte Diskussionen';
 $Definition['Popular Tags'] = 'Beliebte Tags';
 $Definition['Post'] = 'Kommentar';
 $Definition['Post Comment'] = 'Kommentar speichern';
-$Definition['Post Discussion'] = 'Diskussion speichern';
+$Definition['Post Discussion'] = 'Frage stellen';
 $Definition['Post edited by %1$s at %2$s'] = 'Kommentar bearbeitet von %1$s um %2$s';
 $Definition['Posts'] = 'Beiträge';
 $Definition['Posts.Plural: %s'] = 'Beiträge: %s';
@@ -619,7 +619,7 @@ $Definition['PreferenceBadgePopup'] = 'Benachrichtige mich, wenn ich einen Badge
 $Definition['Preview'] = 'Vorschau';
 $Definition['Previous'] = 'Letztes';
 $Definition['Privacy Settings'] = 'Datenschutzeinstellungen';
-$Definition['Private Note for Moderators'] = 'Private Nachricht für Moderatoren';
+$Definition['Private Note for Moderators'] = 'Private Notiz für Moderatoren';
 $Definition['Problem with credentials.'] = 'Problem mit Zertifikaten.';
 $Definition['Proceed'] = 'Fortsetzen';
 $Definition['Profile'] = 'Profil';
@@ -663,7 +663,7 @@ $Definition['Recent Tutorials'] = 'Neue Tutorials';
 $Definition['Recipients'] = 'Empfänger';
 $Definition['RecipientUserID'] = 'Empfänger';
 $Definition['Redirecting...'] = 'Weiterleiten …';
-$Definition['Refetch Page'] = 'Seite neu aufrufen.';
+$Definition['Refetch Page'] = 'Seite neu laden';
 $Definition['Register'] = 'Registrieren';
 $Definition['Register IP'] = 'Registrierungs-IP';
 $Definition['Register with %s'] = 'Registrieren';
@@ -739,7 +739,7 @@ $Definition['Sign In with OpenID'] = 'Anmelden mit OpenID';
 $Definition['Sign In with Twitter'] = 'Anmelden mit Twitter';
 $Definition['Sign Out'] = 'Abmelden';
 $Definition['sign out'] = 'abmelden';
-$Definition['Sign Up'] = 'Anmelden';
+$Definition['Sign Up'] = 'Registrieren';
 $Definition['Sink'] = 'Versenken';
 $Definition['Sink this discussion'] = 'Diskussion versenken';
 $Definition['Sitemap Settings'] = 'Sitemap-Einstellungen';
@@ -858,7 +858,7 @@ $Definition['Unspecified'] = 'Unbestimmt';
 $Definition['Update'] = 'Aktualisieren';
 $Definition['Updated badge'] = 'Badge aktualisieren';
 $Definition['Upload'] = 'Hochladen';
-$Definition['Uploading...'] = 'Hochladen …';
+$Definition['Uploading...'] = 'Hochladen…';
 $Definition['Url'] = 'URL';
 $Definition['UrlCode'] = 'URL-Code';
 $Definition['Use My Current Password'] = 'Benutze mein aktuelles Passwort';
@@ -927,7 +927,7 @@ $Definition['Whos Online'] = 'Wer ist online';
 $Definition['Why are you Banning this user?'] = 'Warum bannst du diesen Benutzer?';
 $Definition['Write a comment'] = 'Schreibe einen Kommentar';
 $Definition['Write Comment'] = 'Kommentieren';
-$Definition['Write something about yourself...'] = 'Beschreibe dich selbst …';
+$Definition['Write something about yourself...'] = 'Beschreibe dich selbst...';
 
 $Definition['Yes'] = 'Ja';
 $Definition['You'] = 'Du';

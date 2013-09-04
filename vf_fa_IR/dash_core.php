@@ -161,7 +161,7 @@ $Definition['Before'] = 'قبلی';
 $Definition['Begin At'] = 'شروع از';
 $Definition['Below Sidebar'] = 'پایین پنل کناری';
 $Definition['Blocked'] = 'قفل شده';
-$Definition['Blog Comments'] = 'دیدگاه‌های وب‌لاگ';
+$Definition['Blog Comments'] = 'دیدگاه‌های وبلاگ';
 $Definition['Browse Addons'] = 'افزونه‌های مرورگر';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'اگر مایل به تغییر لوگوی سردر انجمن‌تان هستید، یک لوگوی تازه انتخاب کنید:';
 $Definition['By %s'] = 'نویسنده: %s';
@@ -291,8 +291,8 @@ $Definition['Don\'t Refresh'] = 'خاموش';
 $Definition['Don\'t use Categories'] = 'ازکارانداختن دسته‌ها';
 $Definition['Do not display the categories in the side panel.'] = 'دسته‌ها را در پنل کناری نشان <b>نده</b>.';
 $Definition['Download Locale List'] = 'دانلود لیست محلی';
-$Definition['Download Locale Pack'] = 'دانلود پکیج محلی';
 $Definition['DownloadLocalePack'] = 'بارگذاری';
+$Definition['Download Locale Pack'] = 'دانلود پکیج محلی';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'بکشید و رها کنید تا دسته ها مرتب شوند و در جای خود قرار گیرند';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'با کشیدن و رها کردن دسته‌های زیر می‌توانید چیدمان آن‌ها را تغییر دهید.';
 
@@ -331,6 +331,7 @@ $Definition['Encourage your friends to join your new community!'] = 'دوستا�
 $Definition['Enter a short name for the site.'] = 'یک نام کوتاه را برای وب‌گاه انتخاب کنید. این نام روی دکمه‌های ورود نشان داده خواهد شد.';
 $Definition['Enter numbers starting at 1.'] = 'وارد کنید اعداد را (شروع از ۱)';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'نشانی وبلاگ وردپرسی خود را وارد کنید و ما آن را از آن‌جا می‌گیریم.';
+$Definition['Enter the connection settings for your sphinx server below.'] = 'تنظیمات ارتباط‌گیری با سرور sphinx خود را در زیر انجام دهید.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'نشانی رایانامه‌ی شخصی که مایلید او را فرابخوانید، وارد کنید';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'نشانی برگه‌ای را که مایلید برگه‌ی خانه‌ی انجمن شما باشد، در جعبه‌ی زیر بنویسید';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'نشانی اینترنتی برگه‌ای را که مایلید برگه‌ی خانه‌ی انجمن شما باشد، در جعبه‌ی زیر وارد کنید';
@@ -356,6 +357,8 @@ $Definition['FileUpload is currently ON'] = 'بارگیری پرونده درح�
 $Definition['Finished'] = 'پایان';
 $Definition['First Visit'] = 'نخستین بازدید';
 $Definition['Flood Control'] = 'مدیریت سیلاب!';
+$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'اجبار به دسترسی به پیشخوان تنها از این نشانی <em>(توصیه نمی‌شود)</em>';
+$Definition['Force the forum to only be accessible through this url'] = 'اجبار به دسترسی به انجمن تنها از این نشانی';
 $Definition['Forum Settings'] = 'تنظیمات انجمن‌';
 $Definition['Frequency'] = 'فرکانس';
 $Definition['From'] = 'از';
@@ -428,6 +431,7 @@ $Definition['Information'] = 'آگهی';
 $Definition['Install Vanilla without a .htaccess file.'] = 'نصب وانیلا بدون پرونده‌ی <b>htaccess.</b>';
 $Definition['Internaltionalization & Localization'] = 'شیوه‌ی نوشتن ترجمه‌پذیر در وانیلا';
 $Definition['Introducing Vanilla Comments'] = 'معرفی نظرات وانیلا';
+$Definition['Introducing Vanilla Reactions and Badges'] = 'آشنا شدن با مدالها و بازخوردهای وانیلا ';
 $Definition['Invalid category for deletion.'] = 'بخش نامعتبر برای پاکسازی';
 $Definition['Invitation'] = 'فراخوانی';
 $Definition['Invitation Code'] = 'کد فراخوانی';
@@ -735,6 +739,7 @@ $Definition['Titles'] = 'عنواین';
 $Definition['To'] = 'به';
 $Definition['To embed your entire Vanilla community forum into your web site, copy and paste this script into the page where you would like the forum to appear.'] = 'برای توکاری همه‌ی انجمن‌ وانیلایتان در درون تارنمایتان،‌این اسکریپت را در همان برگه‌ای که می‌خواهید انجمن‌ در آن به نمایش درآید، بریزید.';
 $Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'برای جاسازی انجمن وانیلایتان در یک نرم‌افزار remote web، از کد جاسازی انجمن یا یکی از ابزارک‌های زیر استفاده کنید. ';
+$Definition['To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>'] = 'برای استفاده از reCAPTCHA شما باید یک کلید API از <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a> تهیه کنید.';
 $Definition['Try Again'] = 'دوباره تلاش کن!';
 $Definition['Turn OFF'] = 'خاموش‌کردن';
 
@@ -788,6 +793,7 @@ $Definition['View'] = 'نمایش';
 $Definition['View Page'] = 'نمایش دسته‌ها';
 
 $Definition['Warning'] = 'هشدار';
+$Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'اخطار:تمام اطلاعات شما به طور کامل از بین خواهد رفت و هیچگونه بازگستی نیز در کار نخواهد بود.';
 $Definition['Warning: This is for advanced users.'] = '<b>هشدار</b>: این بخش برای کاربران باتجربه است و نیاز دارد که تغییراتی اضافی را در کارساز (server) تار خود بدهید. معمولاً در صورتی در دسترس است که میزبان اختصاصی (dedicated host) یا VPS داشته باشید.<br>اگر نمی‌دانید که چه باید انجام دهید، این بخش را رها کنید.';
 $Definition['Welcome to Vanilla!'] = 'خوش آمدید!';
 $Definition['Welcome to your Dashboard'] = 'به پیشخوان انجمن‌تان خوش آمدید.';
@@ -813,6 +819,7 @@ $Definition['You can customize the HTML and CSS for this theme on the %s page.']
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'شما می‌توانید یک شناسه‌ی کاربری تازه بسازید یا اگر از پیش یک شناسه‌ی کاربری دارید، داده‌های درست دسترسی به آن را وارد کنید.';
 $Definition['You can make the categories page your homepage.'] = 'شما می‌توانید در <a href="%s">اینجا</a>، برگه‌ی دسته‌هایتان را به‌عنوان برگه‌ی خانه‌تان قرار دهید.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'شما نمی‌توانید ابزارک %1$s را از کار بیاندازید، زیرا ابزارک %2$s به عنوان یک تابع به آن نیاز دارد.';
+$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'شما تمی توانید پلاگین OpenID  را غیرفعال کنید زیرا پلاگین GoogleSignIn به آن نیاز دارد.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'شما نمی توانید آواتار دیگران را ویرایش کنید';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'شما نمی‌توانید رایانامه‌ای را که پذیرفته شده است، پاک کنید.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'شما نمی‌توانید تنها دسته‌ی موجودی که جستارها را در بر می‌گیرد، پاک کنید';

@@ -42,6 +42,7 @@ $Definition['15 minutes'] = '15 minutos';
 $Definition['<strong>Categories</strong>'] = '<strong>Categorias</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categorias</strong> servem para organizar tópicos. Categorias só podem conter tópicos.';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Atenção!</strong> Deletar um cargo pode fazer com que alguns membros não tem acesso ao site.';
+$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Atenção!</strong> Mover tópicos dentro de categorias de reposição pode resultar em tópicos sumindo (ou aparecendo) caso a categoria de reposição tenha diferentes permissões da categoria sendo apagada.';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirme seu endereço de email';
 $Definition['[%s] Invitation'] = '[%s] Convite';
@@ -90,7 +91,7 @@ $Definition['All'] = 'Todos';
 $Definition['All %1$s'] = 'Todos os %s';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Todas as categorias listadas com uma seleção de 5 tópicos cada';
 $Definition['All Dashboard Pages'] = 'Todas as Páginas do Painel';
-$Definition['All discussions in this category will be permanently deleted.'] = 'Todos os tópicos desta categoria são deletados permanentemente.';
+$Definition['All discussions in this category will be permanently deleted.'] = 'Todos os tópicos desta categoria serão apagados permanentemente.';
 $Definition['All Forum Pages'] = 'Todas as Páginas do Fórum';
 $Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'Todo o conteúdo do membro será substituído com uma mensagem declarando que o conteúdo foi deletado.';
 $Definition['Allow new users to be registered through email.'] = 'Permite que novos usuários se cadastrem através de email.';
@@ -113,7 +114,7 @@ $Definition['Applied On'] = 'Data';
 $Definition['Apply'] = 'Aplicar';
 $Definition['Approval'] = 'Aprovação';
 $Definition['Approve'] = 'Aprovar';
-$Definition['Archive Discussions'] = 'Arquivar Discussões';
+$Definition['Archive Discussions'] = 'Arquivar Tópicos';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Você tem certeza que digitou o nome do host do banco de dados corretamente? Talvez você tenha errado. O banco de dados reportou: <code>%s</code>';
 $Definition['Are you sure you want to delete %s items forever?'] = 'Tem certeza de que deseja deletar %s para sempre?';
 $Definition['Are you sure you want to delete 1 item forever?'] = 'Tem certeza de que deseja deletar 1 item para sempre/';
@@ -165,9 +166,9 @@ $Definition['by %s'] = 'por %s';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ao clicar no botão abaixo, você deletará a conta de %s permanentemente.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Não é possível construir um perfil se o usuário não é definido.';
-$Definition['Categories &amp; Discussions'] = 'Categorias e Discussões';
-$Definition['Categories are used to help organize discussions.'] = 'Categorias são usadas para ajudar a organizar tópicos. Solte &amp; arresta as categorias para organizar e aninhar.';
-$Definition['Categories are used to organize discussions.'] = '<strong>Categorias</strong> ajudam você a organizar suas discussões.';
+$Definition['Categories &amp; Discussions'] = 'Categorias &amp; Tópicos';
+$Definition['Categories are used to help organize discussions.'] = 'Categorias são usadas para ajudar a organizar tópicos. Arraste &amp; solte as categorias para organizar e aninhar.';
+$Definition['Categories are used to organize discussions.'] = '<strong>Categorias</strong> ajudam você a organizar seus tópicos.';
 $Definition['Categories Layout'] = 'Layout de Categorias';
 $Definition['Category Page Layout'] = 'Layout da Página de Categoria';
 $Definition['Category Url:'] = 'URL de Categorias:';
@@ -277,13 +278,13 @@ $Definition['Disable Google Sign In'] = 'Desabilitar Autenticação com Google';
 $Definition['Disable OpenID'] = 'Desabilitar Autenticação com OpenID';
 $Definition['Disable Signatures'] = 'Desabilitar Assinaturas';
 $Definition['Disable Tagging'] = 'Desabilitar Tags';
-$Definition['Discussion & Comment Editing'] = 'Edição de Discussões e Comentários';
-$Definition['discussion(s)'] = 'discussão(s)';
-$Definition['Discussion  Body'] = 'Discussão  Corpo';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Categorias de tópicos são usados para lhe ajudar a organizar seus tópicos de um jeito que faça sentido a sua comunidade.';
-$Definition['Discussions Layout'] = 'Layout de Discussões';
-$Definition['Discussions per Page'] = 'Discussões por Página';
-$Definition['Discussion  Subject'] = 'Discussão  Assunto';
+$Definition['Discussion & Comment Editing'] = 'Edição de Tópicos & Comentários';
+$Definition['discussion(s)'] = 'tópico(s)';
+$Definition['Discussion  Body'] = 'Corpo do Tópico';
+$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Categorias de tópicos são usadas para lhe ajudar a organizar seus tópicos de um jeito que faça sentido a sua comunidade.';
+$Definition['Discussions Layout'] = 'Layout dos Tópicos';
+$Definition['Discussions per Page'] = 'Tópicos por Página';
+$Definition['Discussion  Subject'] = 'Assunto do Tópico';
 $Definition['Display in dashboard. (not recommended)'] = 'Exibir no Painel. (não recomendado)';
 $Definition['Display root categories as headings.'] = 'Mostrar categorias raíz como cabeçalhos.';
 $Definition['Disqus Settings'] = 'Configurações do Disqus';
@@ -293,8 +294,8 @@ $Definition['Don\'t Refresh'] = 'Não Atualize';
 $Definition['Don\'t use Categories'] = 'Não usar Categorias';
 $Definition['Do not display the categories in the side panel.'] = 'Não mostre as categorias no painel lateral.';
 $Definition['Download Locale List'] = 'Baixar Lista de Localização';
-$Definition['Download Locale Pack'] = 'Baixar o Pacote de Localização';
 $Definition['DownloadLocalePack'] = 'Baixar';
+$Definition['Download Locale Pack'] = 'Baixar o Pacote de Localização';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Arraste &amp; Solte categorias para organizar e aninhar.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Arraste e solte as categorias abaixo para organizar e aninhar.';
 
@@ -323,7 +324,7 @@ $Definition['Embed your entire Vanilla forum'] = 'Incorpore o seu fórum Vanilla
 $Definition['Embed your forum in your web site'] = 'Incorpore o fórum em seu site';
 $Definition['Enable'] = 'Habilitar';
 $Definition['Enable/Disable'] = 'Habilitar/Desabilitar';
-$Definition['Enable admin checkboxes on discussions and comments.'] = 'Habilite checkboxes de administradores em tópicos e mensagens.';
+$Definition['Enable admin checkboxes on discussions and comments.'] = 'Habilitar ferramentas de administradores em tópicos e mensagens.';
 $Definition['Enabled'] = 'Ativos';
 $Definition['Enabled %1$s'] = 'Habilitar %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = 'Habilitado: O pocket será exibido.';
@@ -350,7 +351,7 @@ $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; 
 $Definition['Every Page'] = 'Todas as Páginas';
 $Definition['Everything is ok.'] = 'Tudo está OK.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Todos os membros do site estão designados a pelo menos um cargo. Cargos são usados para determinar o que os membros estão permitidos a fazer.';
-$Definition['Exclude archived discussions from the discussions list'] = 'Excluir discussões arquivadas da lista de discussões';
+$Definition['Exclude archived discussions from the discussions list'] = 'Excluir tópicos arquivados da lista de tópicos';
 $Definition['Existing members send invitations to new members.'] = 'Membros existentes enviam convites a novos membros.';
 $Definition['Exit Preview'] = 'Sair da Pre-visualização';
 
@@ -379,6 +380,8 @@ $Definition['Garden.Import.Continue.Description'] = 'Parece que você está no m
 $Definition['Garden.Import.Description'] = 'Utilize esta página para importar conteúdo exportado pelo Vanilla Porter. Para mais informações <a href="%s">veja a nossa importante documentação</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Entre o email e senha do administrador que está importando estes dados.';
 $Definition['Garden.Import.Merge'] = 'Mescle com este fórum.';
+$Definition['Garden.Import.Merge.Description'] = 'Isto irá mesclar todos os dados de usuários e tópicos da importação nesta fórum.
+<b>Cuidado: Caso mescle os mesmos dados duas vezes terá tópicos duplicados.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Sobcrescreva este fórum.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Aviso: todo o conteúdo no seu fórum será sobrescrito.';
 $Definition['Garden.StatisticsDisabled'] = 'Você desabilitou as Estatísticas do Vanilla em seu arquivo de configuração.';
@@ -411,16 +414,16 @@ $Definition['Here\'s how to get started:'] = 'Veja como começar:';
 $Definition['Hidden for everything!'] = 'Ocultar para tudo!';
 $Definition['Hidden for mobile'] = 'Esconder para dispositivos móveis';
 $Definition['Hide  Fields'] = 'Campos  Ocultos';
-$Definition['Hide from the recent discussions page.'] = 'Ocultar da página de discussões recentes';
+$Definition['Hide from the recent discussions page.'] = 'Ocultar da página de tópicos recentes.';
 $Definition['Hide Pocket Locations'] = 'Ocultar o Local dos Pockets';
-$Definition['Hide this category from the recent discussions page.'] = 'Ocultar esta categoria da página de discussões recentes';
+$Definition['Hide this category from the recent discussions page.'] = 'Ocultar esta categoria da página de tópicos recentes.';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.'] = 'Olá amigo!
 
-Dê só uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online..
+Dê uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online.
 
 Siga o link abaixo para fazer o log in.';
 $Definition['Hi Pal!
@@ -429,7 +432,7 @@ Check out the new community forum I\'ve just set up. It\'s a great place for us 
 
 Follow the link below to log in.'] = 'Olá amigo!
 
-Dê uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online.
+Dê só uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online..
 
 Siga o link abaixo para fazer o log in.';
 $Definition['Homepage'] = 'Página Inicial';
@@ -525,7 +528,7 @@ $Definition['Modern non-table-based layout'] = 'Layout moderno não-tabelado';
 $Definition['more than %s deep'] = 'mais fundo que %s';
 $Definition['more than %s levels deep'] = 'mais fundo que %s níveis';
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'A maioria dos pockets não deverão ser exibidos no painel.';
-$Definition['Move discussions in this category to a replacement category.'] = 'Mova tópicos desta categoria para uma categoria reserva.';
+$Definition['Move discussions in this category to a replacement category.'] = 'Mover tópicos desta categoria para uma categoria reserva.';
 $Definition['My Invitations'] = 'Meus convites';
 
 $Definition['Need More Help?'] = 'Precisando de mais ajuda?';
@@ -537,8 +540,8 @@ $Definition['New comments in the last day'] = 'Novos comentários no último dia
 $Definition['New comments in the last week'] = 'Novos comentários na última semana';
 $Definition['New conversations in the last day'] = 'Novas conversas no último dia';
 $Definition['New conversations in the last week'] = 'Novas conversas na última semana';
-$Definition['New discussions in the last day'] = 'Novas discussões no último dia';
-$Definition['New discussions in the last week'] = 'Novas discussões na última semana';
+$Definition['New discussions in the last day'] = 'Novos tópicos do último dia';
+$Definition['New discussions in the last week'] = 'Novos tópicos da última semana';
 $Definition['New messages in the last day'] = 'Novas mensagens no último dia';
 $Definition['New messages in the last week'] = 'Novas mensagens na última semana';
 $Definition['New users are only registered through SSO plugins.'] = 'Novas pessoas somente serão registradas através de plugins de SSO.';
@@ -589,10 +592,11 @@ $Definition['Plugin'] = 'Complemento';
 $Definition['Plugin.Enabled'] = 'Plugin Habilitado';
 $Definition['PluginHelp'] = 'Complementos permitem que você adicione novas funcionalidades ao seu fórum.<br />Uma vez adicionados à pasta %s, você poderá habilitá-los ou desabilitá-los aqui.';
 $Definition['Plugins'] = 'Complementos';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'O pocket é exibido entre cada tópico lista principal de tópicos. Uma vez que tópicos são sempre em tags &lt;li&gt;..&lt;/li&gt;, também será preciso envolver seus pockets nestas tags.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets permitem que você adicione pequenos pedaços de HTML em vários lugares do seu aplicativo.';
 $Definition['Points'] = 'Pontos';
 $Definition['Polls'] = 'Enquetes';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Previna spam em seu fórum limitando o número de comentários e discussões que usuários podem postar em um determinado período de tempo.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Previna spam em seu fórum limitando o número de comentários e tópicos que usuários podem postar em um determinado período de tempo.';
 $Definition['Private Key'] = 'Chave Privada';
 $Definition['Provider'] = 'Provedor';
 $Definition['Proxy Connect'] = 'Conexão Proxy';
@@ -666,7 +670,7 @@ $Definition['Select the file to import'] = 'Selecione o arquivo a importar';
 $Definition['Select the import source'] = 'Selecione a fonte de importação';
 $Definition['Select the location of the pocket.'] = 'Selecione o local do pocket.';
 $Definition['Send %s a Message'] = 'Envie a %s uma Mensagem';
-$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Enviar email de confirmação quandoalgum usuário pergunte alguma coisa ou inicia uma discussão.';
+$Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Enviar um email de confirmação quando algum usuário fizer uma perguntar ou iniciar um tópico.';
 $Definition['Send Again'] = 'Enviar Novamente';
 $Definition['Send Invitations!'] = 'Enviar Convites!';
 $Definition['Send users a welcome email.'] = 'Envie aos usuários um email de boas-vindas.';
@@ -686,7 +690,7 @@ $Definition['SMTP Port'] = 'Porta SMTP';
 $Definition['SMTP Security'] = 'Segurança SMTP';
 $Definition['SMTP User'] = 'Usuário SMTP';
 $Definition['Source'] = 'Fonte';
-$Definition['Start Discussions'] = 'Iniciar Discussões';
+$Definition['Start Discussions'] = 'Iniciar Tópicos';
 $Definition['Start Import'] = 'Começar Importação';
 $Definition['starting your first discussion'] = 'comece o seu primeiro tópico';
 $Definition['Statistics'] = 'Estatísticas';
@@ -772,7 +776,7 @@ $Definition['This connection is in test-mode.'] = 'Esta conexão esté no modo d
 $Definition['This Database'] = 'Este Banco de Dados';
 $Definition['This forum is currently set to invitation only mode.'] = 'Este fórum está configurado somente no modo de convites.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Esta é uma categoria primária que não aceita tópicos.';
-$Definition['This is the first time you\'ve visited the discussion forums.'] = 'Esta é a primeira vez em que você visita o fórum de discussões.';
+$Definition['This is the first time you\'ve visited the discussion forums.'] = 'Esta é a primeira vez em que você visita o fórum de tópicos.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Esta opção exibe/esconde os locais onde os pockets podem ir, mas somente para usuários que têm permissão para adicionar/editar pockets. Tente exibir os locais e então visitar seu site.';
 $Definition['This page requires Javascript.'] = 'Javascript é requerido para esta página.';
 $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Este complemento permite usuários se conectarem com sua conta OpenID. <b>Certifique-se de clicar em Configurações para habilitar este complemento</b>.';
@@ -803,7 +807,7 @@ $Definition['Unlimited'] = 'Ilimitado';
 $Definition['Unviersal Forum Embed Code'] = 'Código Universal de Incorporação do Fórum';
 $Definition['Use an SMTP server to send email'] = 'Use um servidor SMTP para enviar email';
 $Definition['Use Categories'] = 'Usar Categorias';
-$Definition['Use categories to organize discussions'] = 'Usar categorias para organizar discussões';
+$Definition['Use categories to organize discussions'] = 'Usar categorias para organizar tópicos';
 $Definition['Use delta indexes'] = 'Use índices delta (recomendado para sites grandes)';
 $Definition['Use Facebook names for usernames.'] = 'Use nomes do Facebook para nomes de usuários.';
 $Definition['User'] = 'Usuário';
@@ -825,7 +829,7 @@ $Definition['Use the content at this url as your homepage.'] = 'Escolha a págin
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use o plugin para WordPress para configurar os Comentários do Vanilla em seu blog, ou use o código universal para configurar em qualquer outra plataforma.';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Use o Vanilla como sistema de comentários em seu site.';
 
-$Definition['Vanilla.Archive.Description'] = 'Você arquivos mensagens mais antigas que uma determinada data. Discussões arquivadas são efetivamente fechadas, não permitindo novas postagens.';
+$Definition['Vanilla.Archive.Description'] = 'Você arquivos mensagens mais antigas que uma determinada data. Tópicos arquivados são efetivamente fechados, não permitindo novas postagens.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Coloque as categorias aninhas numa lista separada por vírgulas quando elas forem %1$s';
 $Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'O Vanilla pode ser incorporado ao seu site de várias formas. Clique nas abas abaixo para ler mais.';
 $Definition['Vanilla Configuration'] = 'Configurações do Vanilla';

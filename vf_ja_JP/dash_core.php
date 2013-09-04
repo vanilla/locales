@@ -17,13 +17,16 @@ $Definition['2 weeks after being sent'] = '送信二週間後';
 $Definition['15 minutes'] = '15分間';
 
 $Definition['[%s] Invitation'] = '[%s] 招待状';
+$Definition['[%s] Password Reset Request'] = '[%s] パスワード リセット依頼';
 
 $Definition['_Locale'] = 'ロケール';
 
 $Definition['Abilites'] = '
 ';
+$Definition['Accepted'] = '承認済み';
 $Definition['Action'] = 'アクション';
 $Definition['Add Category'] = 'カテゴリを追加';
+$Definition['Add Info &amp; Create Account'] = '情報追加とアカウント作成';
 $Definition['Adding & Editing Categories'] = 'カテゴリの追加と編集 (英語)';
 $Definition['Addons'] = 'アドオン';
 $Definition['Add Role'] = 'ロールを追加';
@@ -41,6 +44,7 @@ $Definition['Applicant'] = '申請者';
 $Definition['Application'] = 'アプリケーション';
 $Definition['ApplicationHelp'] = '「アプリケーション」は、このサイトに規模が大きめの拡張機能を追加します。<br />%s フォルダに追加されたアプリケーションを、ここで有効化または無効化できます。';
 $Definition['Applications'] = 'アプリケーション';
+$Definition['Apply'] = '適用';
 $Definition['Approval'] = '承認制';
 $Definition['Approve'] = '承認';
 $Definition['Archive Discussions'] = '過去のディスカッション';
@@ -67,6 +71,7 @@ $Definition['By %s'] = '作成者: %s';
 
 $Definition['Categories &amp; Discussions'] = 'カテゴリ &amp; ディスカッション';
 $Definition['Categories are used to help organize discussions.'] = 'カテゴリはディスカッションをまとめるのに役立ちます。ドラッグ &amp; ドロップで、並べ替えやネストもできます。';
+$Definition['Categories are used to organize discussions.'] = '<strong>カテゴリ</strong>を使って、ディスカッションを分類することができます。';
 $Definition['Category Page Layout'] = 'カテゴリのページ レイアウト';
 $Definition['Category Url:'] = 'カテゴリ URL:';
 $Definition['Change the look of All Categories'] = '<b>すべてのカテゴリ</b> ページの外観は<a href="%s">こちら</a>から変更できます。';
@@ -84,6 +89,8 @@ $Definition['Configure how nested categories are displayed to users.'] = 'ネス
 $Definition['Configuring Vanilla\'s Homepage'] = 'Vanilla のホーム画面設定 (英語)';
 $Definition['Continue'] = '続行';
 $Definition['Conversation Messages'] = '会話のメッセージ数';
+$Definition['Conversations'] = '会話';
+$Definition['Conversations Setup'] = '会話のセットアップ';
 $Definition['Could not instantiate mail function.'] = 'メールを送信できません。サーバ側の設定に問題があります。';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'インポートファイルを解析できません。%s 行付近で問題が発生しました。';
 $Definition['Current Authenticator'] = '現在の認証方式';
@@ -91,6 +98,7 @@ $Definition['Current File:'] = '現在のファイル:';
 $Definition['Current Theme'] = '現在のテーマ';
 
 $Definition['Decline'] = '却下';
+$Definition['default'] = 'デフォルト';
 $Definition['Default Locale'] = '既定のロケール';
 $Definition['Description'] = '説明';
 $Definition['Did You Know?'] = 'ご存知ですか？';
@@ -121,6 +129,7 @@ $Definition['Enabled: The pocket will be displayed.'] = '有効';
 $Definition['Enable OpenID'] = 'OpenID を有効化';
 $Definition['Enable this message'] = 'このメッセージを有効化する';
 $Definition['Enabling a Locale Pack'] = 'ロケールパックを有効化する(英語)';
+$Definition['Enter the email address of the person you would like to invite:'] = '招待したい方のメールアドレスを入力してください:';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'ホーム画面に設定したいページの URL を入力してください:';
 $Definition['Every 1 minute'] = '1分間隔';
 $Definition['Every 5 minutes'] = '5分間隔';
@@ -138,8 +147,12 @@ $Definition['First Visit'] = '訪問開始';
 $Definition['Forum Settings'] = 'フォーラム設定';
 
 $Definition['Garden.Import.Complete.Description'] = 'インポートに成功しました。<a href="%s">ダッシュボード &gt; ロールと権限</a>に移動して、あなたの「ロール」に権限を設定してください。準備ができたら、<b>完了</b>をクリックしてください。';
+$Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
+   Please choose one of the following options.';
 $Definition['Garden.Import.Description'] = 'このページを使用して、Vanilla のエクスポート機能を使用してエクスポートされた別のフォーラムからのデータをインポートしてください。 詳しくは<a href="%s">インポートについて (英語)</a> を参照してください。';
 $Definition['Garden.Import.InputInstructions'] = 'インポートされるデータの管理者ユーザーのメールアドレスとパスワードを入力してください。';
+$Definition['Garden.Import.Merge.Description'] = 'This will merge all of the user and discussion data from the import into this forum.
+<b>Warning: If you merge the same data twice you will get duplicate discussions.</b>';
 $Definition['Garden.Import.Overwrite.Description'] = '警告: このフォーラムのすべてのデータが上書きされます。';
 $Definition['Get More Applications'] = '他のアプリケーション';
 $Definition['Get more information on creating custom routes'] = '独自のルートを作成するなら、詳しくはこちら';
@@ -148,7 +161,17 @@ $Definition['Get More Themes'] = '他のテーマ';
 $Definition['Google Sign In Settings'] = 'Google ログイン 設定';
 $Definition['Guest'] = 'ゲスト';
 
+$Definition['Hash Algorithm'] = 'ハッシュアルゴリズム';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '注意してください！これはアクティブなセッションには適用されない、特殊なロールです。そのため、権限のオプションは "表示" 権限のみに限定されています。';
+$Definition['Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.'] = 'Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.';
 $Definition['Homepage'] = 'ホーム画面';
 
 $Definition['Import'] = 'インポート';
@@ -157,9 +180,11 @@ $Definition['Information'] = '情報';
 $Definition['Install Vanilla without a .htaccess file.'] = '.htaccess ファイル無しで Vanilla をインストールします。';
 $Definition['Internaltionalization & Localization'] = '国際化と地域化(英語)';
 $Definition['Invitation'] = '招待制';
+$Definition['Invitation Code'] = '招待コード';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'ユーザー登録を招待制にした場合、各ユーザーのプロフィール ページには<a href="%s" class="Popup">招待者リスト</a>と呼ばれるリンクが作成されます。';
 $Definition['Invitations per month'] = '一ヶ月あたりの招待状数';
 $Definition['Invitations will expire'] = '招待状の有効期限';
+$Definition['Invited by'] = '招待者';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '指定されたデータベースが まだ作成されていないようです。データベースは作成済みですか？あるいはデータベース名が間違っている可能性はありませんか？ データベースの報告は次の通りです: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '投稿できる文字数の上限を適度な数値に抑えることを、推奨します。';
 
@@ -167,6 +192,7 @@ $Definition['Key Type'] = 'キーの種類';
 $Definition['Key Value'] = 'キーの値';
 
 $Definition['Last Visit'] = '最終訪問';
+$Definition['Level'] = 'レベル';
 $Definition['Locale Name'] = 'ロケール名';
 $Definition['Locales'] = 'ロケール';
 $Definition['Locales are in your %s folder.'] = 'ロケールは、サイトを既定以外の言語で表示できるようにします。%s フォルダに追加されたロケールを、ここで有効化または無効化できます。';
@@ -186,12 +212,15 @@ $Definition['Manage Themes'] = 'テーマ管理';
 $Definition['Manage Users'] = 'ユーザー管理';
 $Definition['Manage your Plugins'] = 'プラグインを管理する';
 $Definition['Managing Categories'] = 'カテゴリの管理 (英語)';
+$Definition['Manual'] = 'マニュアル';
 $Definition['Max Comment Length'] = 'コメント最大文字数';
 $Definition['Member'] = 'メンバー';
+$Definition['Message ID'] = 'メッセージID';
 $Definition['Messages can appear anywhere in your application.'] = 'メッセージはサイトのどこにでも表示でき、ユーザーにニュースやイベントを通知するために使われます。このページでメッセージをドラッグすると、順番を入れ替えることができます。';
 $Definition['Method'] = '方法';
 $Definition['minute(s)'] = '分間';
 $Definition['Moderator'] = 'モデレータ';
+$Definition['My Invitations'] = '招待者リスト';
 
 $Definition['Need More Help?'] = '参考情報';
 $Definition['never'] = 'なし (無期限)';
@@ -230,6 +259,7 @@ $Definition['Public Key'] = '公開キー';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'テーマ作成のためのクイック スタート ガイド (英語)';
 
+$Definition['Ranks'] = 'ランク';
 $Definition['Recently Active Users'] = '最近 活動したユーザー';
 $Definition['Recent News'] = '最新ニュース';
 $Definition['Refresh Comments'] = 'コメントの自動更新';
@@ -252,15 +282,22 @@ $Definition['Saved'] = '変更を保存しました。';
 $Definition['SaveLocalePack'] = '保存';
 $Definition['Search by user or role.'] = 'ユーザー名またはロール (管理者:<input type="text" value="Administrator" size="13" onclick="this.select()" />, 申請者:<input type="text" value="Applicant" size="9" onclick="this.select()" />, 利用禁止:<input type="text" value="Banned" size="6" onclick="this.select()" />, ゲスト:<input type="text" value="Guest" size="5" onclick="this.select()" />, メンバー:<input type="text" value="Member" size="7" onclick="this.select()" />, モデレータ:<input type="text" value="Moderator" size="10" onclick="this.select()" />, メール確認待ち:<input type="text" value="Confirm Email" size="15" onclick="this.select()" />) で検索します。';
 $Definition['seconds'] = '秒間';
+$Definition['Security'] = 'セキュリティ';
 $Definition['Select the file to import'] = 'インポートするファイルを選択してください';
+$Definition['Send %s a Message'] = '%s にメッセージを送信';
+$Definition['Sent To'] = '送信';
+$Definition['Site Description'] = 'サイトの説明';
 $Definition['SMTP Host'] = 'SMTP サーバー';
 $Definition['SMTP Password'] = 'SMTP パスワード';
 $Definition['SMTP Port'] = 'SMTP ポート';
 $Definition['SMTP Security'] = 'SMTP セキュリティ';
 $Definition['SMTP User'] = 'SMTP ユーザー';
+$Definition['Status'] = 'ステータス';
+$Definition['Subject'] = 'タイトル';
 
 $Definition['Temporary (302)'] = '一時的 (302)';
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
+$Definition['Thank You!'] = 'ありがとうございます！';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'ユーザー認証方式 %s には設定オプションがありません。';
 $Definition['The %s table is not in the correct format.'] = '%s テーブルの形式が不正です。';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = '致命的なエラーが発生したため、アドオンを有効にすることができませんでした: <pre>%s</pre>';
@@ -277,6 +314,8 @@ $Definition['Theming Overview'] = 'テーマの概要 (英語)';
 $Definition['There are currently no applicants.'] = '申請者はいません。';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'このメールアドレスを使用したアカウントがすでに存在しています。新しいアカウントを作成するか、既存のアカウントの認証情報を入力してください。';
 $Definition['The route was saved successfully.'] = 'ルートが保存されました。';
+$Definition['The specified url code is already in use by another category.'] = '指定された url code は他のカテゴリで使用済みです。';
+$Definition['The user and all related content has been deleted.'] = 'このユーザーおよびすべての関連する内容は削除されました。';
 $Definition['The user table was not in the import file.'] = 'ユーザーテーブルはインポートファイルに含まれていませんでした。';
 $Definition['The Vanilla 2 Exporter'] = 'Vanilla Porter プラグイン (英語)';
 $Definition['This category has custom permissions.'] = 'このカテゴリの権限をカスタマイズする';
@@ -284,6 +323,7 @@ $Definition['This forum is currently set to invitation only mode.'] = 'このフ
 $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'このプラグインを使うと、OpenID でログインできます。<b>このプラグインを有効にした後、OpenID を有効化する設定を、必ずクリックしてください</b>。';
 $Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'このプラグインを使うと、Googleアカウントでログインできます。<b>OpenIDプラグインが有効になっている必要があります。また、このプラグインを有効にした後、Google アカウントでのログインを有効化する設定を必ずクリックしてください</b>。';
 $Definition['This theme has additional options.'] = 'このテーマは %s ページでオプションを設定できます。';
+$Definition['Titles'] = 'タイトル';
 $Definition['Try Again'] = '再試行';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect を使うと、Twitter アカウントでログインできます。<b>このプラグインを使うには、Twitter にアプリケーションを登録する必要があります。</b>';
 
@@ -310,6 +350,7 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>: 現在の�
 $Definition['Welcome to Vanilla!'] = 'ようこそ Vanilla へ！';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = '既定ではメールの送信にローカルメールサーバを使用します。独立した SMTP メールサーバを使用する場合は、以下で設定してください。';
 $Definition['What\'s the Buzz?'] = '最近どう？';
+$Definition['Why do you want to join?'] = '参加を希望する理由は？';
 $Definition['Within'] = '制限時間';
 
 $Definition['Yes, the following information can be changed later.'] = 'ここから下の情報は、後で変更できます。';
@@ -324,5 +365,6 @@ $Definition['You must have the PDO module enabled in PHP in order for Vanilla to
 $Definition['You must select a file to import.'] = 'インポートするファイルを選択してください。';
 $Definition['You must specify an admin password.'] = '管理者のパスワードは省略できません。';
 $Definition['You must specify an admin username.'] = '管理者のユーザー名は省略できません。';
+$Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = '管理者が申請を審査します。承認後、メールでお知らせします。';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = '設定ファイルに適切なパーミッションが設定されていません。PHP はこのファイルを読み書きする必要があります: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = '既定のロケールは、下記にて有効化されるまで正しく表示されません。%s を有効化してください。';

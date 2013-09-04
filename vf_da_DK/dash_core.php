@@ -5,6 +5,7 @@ $Definition['%s is not a valid email address'] = '%s er ikke en gyldig email-adr
 $Definition['%s item in queue'] = '%s i kø';
 $Definition['%s level'] = '%s niveau';
 $Definition['%s levels'] = '%s niveauer';
+$Definition['%s of %s'] = '%s af %s';
 $Definition['%s posts'] = '%s indlæg';
 $Definition['%s Settings'] = '%s Indstillinger';
 $Definition['%s site(s) found.'] = '%s side(r) fundet.';
@@ -27,6 +28,7 @@ $Definition['2 weeks after being sent'] = '2 uger efter at blive sendt';
 
 $Definition['15 minutes'] = '15 minutter';
 
+$Definition['Abilites'] = 'Evner';
 $Definition['Accepted'] = 'Accepteret';
 $Definition['Action'] = 'Handling';
 $Definition['Add %s'] = 'Tilføj %s';
@@ -74,8 +76,11 @@ $Definition['Current Authenticator'] = 'NuvÊrende Godkendelsesprocedure';
 $Definition['Current Theme'] = 'NuvÊrende Tema';
 
 $Definition['Decline'] = 'AfslÂ';
+$Definition['Default'] = 'Standard';
+$Definition['Default  Category'] = 'Standard kategorier';
 $Definition['Description'] = 'Beskrivelse';
 $Definition['Disable'] = 'Deaktiver';
+$Definition['Disabled %1$s'] = 'Deaktiverede %1$s';
 $Definition['Disable Google Sign In'] = 'Deaktiver Google Log Ind';
 $Definition['Disable OpenID'] = 'Deaktiver OpenID';
 $Definition['Discussion & Comment Editing'] = 'Diskussion & Kommentar Redigering';
@@ -86,8 +91,10 @@ $Definition['edit'] = 'rediger';
 $Definition['Edit %s'] = 'Rediger %s';
 $Definition['Edit Category'] = 'Rediger Kategori';
 $Definition['EditContentTimeout.Notes'] = 'Note: Vis en bruger har en rolle som kan lave om pÂ indhold, De tilladelser vil lave om pÂ de vÊrdier her.';
+$Definition['Editing'] = 'Redigering';
 $Definition['Edit User'] = 'Rediger Bruger';
 $Definition['Enable'] = 'Aktiver';
+$Definition['Enabled %1$s'] = 'Aktiverede %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
 $Definition['Enable OpenID'] = 'Aktiver OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Indtast email adressen for personen du vil invitere:';
@@ -102,8 +109,20 @@ $Definition['Garden.Import.Description'] = 'Brug denne side til at importere dat
 $Definition['Garden.Import.InputInstructions'] = 'Indtast emailen og kodeord for admin brugeren fra dataen som bliver importeret.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Advarsel: Alt data i dette forum vil blive overskrevet.';
 $Definition['Generate'] = 'Generer';
+$Definition['Generate Client ID and Secret'] = 'Generer Client ID og Secret';
 $Definition['Google Sign In Settings'] = 'Google Sign In Indstillinger';
 $Definition['Guest'] = 'GÊst';
+
+$Definition['Hide from the recent discussions page.'] = 'Skjul fra siden seneste diskussioner.';
+$Definition['Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.'] = 'Hej du!
+
+Tag og tjek vores nye forum ud. Det er et super sted for os til at kommunikere med hinanden. 
+
+Følg linket herunder for at logge ind.';
 
 $Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'ProxyConnect.RimBlurb';
 $Definition['Import'] = 'Importer';

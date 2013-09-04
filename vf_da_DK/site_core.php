@@ -193,21 +193,34 @@ $Definition['Check all roles that apply to this user:'] = 'Tjek alle tilladelser
 $Definition['Child Categories:'] = 'fsfsd';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Clear'] = 'fsfsdf';
+$Definition['clear'] = 'ryd';
+$Definition['Clear Conversation History'] = 'Ryd samtale historikken';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'eejhewjfhewj';
+$Definition['Click accept or reject beside an answer.'] = 'klik accepter eller afvis ud for et svar';
+$Definition['Click the %s beside discussions to bookmark them.'] = 'Klik på %s ud for diskussioner for at bogmærke dem.';
 $Definition['Close'] = 'Luk';
 $Definition['Closed'] = 'Lukket';
+$Definition['Close this discussion'] = 'Luk denne diskussion';
 $Definition['Comment'] = 'Kommenter';
 $Definition['comment'] = 'kommentar';
 $Definition['Comment in'] = 'i';
+$Definition['Commenting not allowed.'] = 'Kommentarer ikke tilladt.';
 $Definition['Comments'] = 'Kommentarer';
 $Definition['Confirm'] = 'BekrÊft';
 $Definition['Confirm Email'] = 'BekrÊft Email';
 $Definition['Confirm Password'] = 'Bekræft password';
 $Definition['Connect'] = 'Forbind';
 $Definition['ConnectCreateAccount'] = 'Tilf¯j Info &amp; Lav Bruger';
+$Definition['Connecting...'] = 'Forbinder…';
+$Definition['Connection'] = 'Forbindelse';
 $Definition['ConnectName'] = 'Brugernavn';
 $Definition['conversation'] = 'samtale';
+$Definition['Core'] = 'Kerne';
+$Definition['Create Discussions'] = 'Opret diskussioner';
 $Definition['Create One.'] = 'Opret en.';
+$Definition['Current'] = 'Nuværende';
+$Definition['Customize'] = 'Tilpas';
+$Definition['customize your profile now'] = 'Tilpas din profil nu';
 $Definition['Customize your Public Profile'] = 'Tilpas din offentlige profil';
 
 $Definition['Date'] = 'Dato';
@@ -219,18 +232,26 @@ $Definition['Delete %s'] = 'Slet %s';
 $Definition['Delete Account'] = 'Slet Bruger';
 $Definition['Delete Conversation'] = 'Slet samtale';
 $Definition['Delete Discussion'] = 'Slet diskussion';
+$Definition['Delete User Forever'] = 'Slet bruger permanent';
+$Definition['Did this answer the question?'] = 'Besvarede dette dit spørsmål?';
+$Definition['Disagree'] = 'Uenig';
 $Definition['Discussions'] = 'Diskussioner';
 $Definition['Discussion Title'] = 'Titel på diskussion';
+$Definition['Dislike'] = 'Synes ikke om';
 $Definition['Dismiss'] = 'Luk';
 $Definition['Don\'t have an account? %s'] = 'Har du ikke en bruger? %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Træk og juster firkanten nedenfor for at definere din thumbnail.';
 
 $Definition['Edit'] = 'Rediger';
 $Definition['Edit Account'] = 'Rediger bruger';
+$Definition['Edit Comment'] = 'Rediger kommentar';
+$Definition['Edit Discussion'] = 'Rediger diskussion';
 $Definition['Edit My Account'] = 'Rediger min bruger';
 $Definition['Edit My Profile'] = 'Rediger min profil';
 $Definition['Edit My Thumbnail'] = 'Rediger min thumbnail';
 $Definition['Edit Preferences'] = 'Rediger Indstillinger';
+$Definition['Edit Profile'] = 'Rediger profil';
+$Definition['Edit Tag'] = 'Rediger tag';
 $Definition['Edit Thumbnail'] = 'Rediger thumbnail';
 $Definition['Email/Username'] = 'Email/brugernavn';
 $Definition['EmailFooter'] = '
@@ -246,11 +267,9 @@ $Definition['EmailInvitation'] = 'Hej!
 Hav en god dag!';
 $Definition['EmailMembershipApproved'] = 'Goddag %1$s,
 
-Dit meldemskab er blevet godkendt. Log ind med det f¯lgende Url:
+Dit meldemskab er blevet godkendt. Log ind med det følgende Url:
 
-  %2$s
-  
-Hav en god dag!';
+  %2$s';
 $Definition['EmailNotification'] = '%1$s
 
 F¯lg linket for at checke det ud:
@@ -258,6 +277,7 @@ F¯lg linket for at checke det ud:
 
 Hav en god dag!';
 $Definition['Email Notifications'] = 'Emailnotifikationer';
+$Definition['Email Or Username'] = 'Email eller Brugernavn';
 $Definition['EmailPassword'] = 'Hello %1$s,
 
 %2$s har nulstillet dit kodeord pÂ %3$s. Dit login er nu:
@@ -304,60 +324,85 @@ Brugernavn: {User.Name}
 Email: {User.Email}
 
 Du kan tilgå siden på {/,exurl,domain}.';
+$Definition['English'] = 'Engelsk';
 $Definition['Enter your Email address'] = 'Indtast din emailadresse';
+$Definition['Enter your email address'] = 'Indtast din Email adresse';
 $Definition['Enter your Email address or username'] = 'Indtast din emailadresse eller dit brugernavn';
+$Definition['Enter Your OpenID Url'] = 'Indtast din OpenID Url';
 $Definition['Error'] = 'Fejl';
+$Definition['ErrorBadInvitationCode'] = 'Invitations koden du leverede er ikke gyldig.';
 $Definition['ErrorCredentials'] = 'Ingen bruger kunne blive fundet med den Email og kodeord..';
 $Definition['ErrorPermission'] = 'Tilladelse nÊgtet.';
 $Definition['ErrorRecordNotFound'] = 'Den ¯nskede optagelse kunne ikke findes.';
 $Definition['ErrorTermsOfService'] = 'Du er n¯d til at acceptere ServicevilkÂrene.';
 $Definition['everyone'] = 'alle';
+$Definition['Expired'] = 'Udløbet';
 
 $Definition['Female'] = 'Kvinde';
+$Definition['FileName'] = 'Filnavn';
 $Definition['Filename'] = 'Filnavn';
 $Definition['File Size'] = 'Filstørrelse';
+$Definition['FileSize'] = 'Filstørrelse';
+$Definition['First Comment'] = 'Første kommentar';
+$Definition['Follow'] = 'Følg';
+$Definition['Follow %s'] = 'Følg %s';
 $Definition['Forgot?'] = 'Glemt?';
+$Definition['Forgot your password?'] = 'Glemt dit password?';
 $Definition['Format his'] = 'hans';
 $Definition['Format their'] = 'deres';
 $Definition['Format You'] = 'Dig';
 $Definition['Format you'] = 'dig';
 $Definition['Format Your'] = 'Din';
+$Definition['Friends'] = 'Venner';
 
 $Definition['Garden.Email.SupportAddress'] = 'Underst¯t email';
 $Definition['Garden.Title'] = 'Banner Titel';
 $Definition['Gender'] = 'Køn';
 $Definition['General'] = 'Generelt';
+$Definition['Generate import SQL only'] = 'Generer kun import SQL';
 $Definition['Generate Password'] = 'Generer Kodeord';
+$Definition['Give'] = 'Giv';
 $Definition['Go'] = 'Gå';
 $Definition['GuestModule.Message'] = 'Det ser ud til at du er ny her. Hvis du vil involveres, klik på en af disse knapper!';
 
 $Definition['he'] = 'ham';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} oprettede sig som bruger.';
 $Definition['her'] = 'hende';
+$Definition['Hide'] = 'Skjul';
+$Definition['Hide signatures?'] = 'Skjul signaturer?';
 $Definition['Hide signatures always'] = 'Skjul altid signaturer';
 $Definition['Hide signatures on my mobile device'] = 'Skjul signaturer på min mobile enhed';
 $Definition['his'] = 'hans';
 $Definition['Home'] = 'Hjem';
+$Definition['hours'] = 'timer';
 $Definition['Howdy, Stranger!'] = 'Goddag fremmede!';
 $Definition['How long do you want this warning to last?'] = 'Hvor længe skal denne advarsel vare?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Jeg accepterer <a id="TermsOfService" class="Popup" target="terms" href="%s">Servicevilkårene</a>';
 $Definition['in'] = 'i';
 $Definition['Inbox'] = 'Indbakke';
+$Definition['In seconds'] = 'I sekunder';
 $Definition['Insert Image'] = 'Indsæt billede';
+$Definition['Insightful'] = 'Indsigtfuld';
 $Definition['Internal'] = 'Intern';
 $Definition['In this Conversation'] = 'I denne samtale';
+$Definition['Invalid password.'] = 'Passwordet du indtastede var forkert. Husk at der forskel på store og små bogstaver i passwords.';
+$Definition['Invitations'] = 'Invitationer';
 $Definition['Invite'] = 'Inviter';
 $Definition['InviteErrorPermission'] = 'Tilladelse nÊgtet.';
 $Definition['I remember now!'] = 'Jeg husker nu!';
 $Definition['Item'] = 'Ban Item';
+$Definition['item'] = 'Genstand';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Det ser ud til du er ny. Hvis du vil blive involveret, klik på en af de her knapper!';
 
+$Definition['Jail'] = 'Fængsel';
+$Definition['Jailed users have reduced abilities.'] = 'Fængslede brugere har begrænsede evner.';
 $Definition['Joined'] = 'Oprettede sig som bruger';
 
 $Definition['Keep me signed in'] = 'Husk mig';
 $Definition['Keep User Content'] = 'UserKeep';
 
+$Definition['Label'] = 'Mærkat';
 $Definition['Last Active'] = 'Sidst aktiv';
 $Definition['Last IP'] = 'Seneste IP';
 $Definition['Leave a Comment'] = 'Efterlad en kommentar';
@@ -468,7 +513,7 @@ $Definition['Roles'] = 'Roller';
 $Definition['Save'] = 'Gem';
 $Definition['Save Draft'] = 'Gem kladde';
 $Definition['Save Preferences'] = 'Gem indstillinger';
-$Definition['Search'] = 'S¯g';
+$Definition['Search'] = 'Søg';
 $Definition['SearchBoxPlaceHolder'] = 'Søg';
 $Definition['Select an image on your computer (2mb max)'] = 'Vælg et billede på din computer (højest 2mb)';
 $Definition['Send Message'] = 'Send Besked';
@@ -486,7 +531,8 @@ $Definition['Sign In with OpenID'] = 'Log ind med OpenID';
 $Definition['Sign In with Twitter'] = 'Log ind med Twitter';
 $Definition['Sign Out'] = 'Log ud';
 $Definition['Sign Up'] = 'Opret profil';
-$Definition['Sink'] = 'Vask';
+$Definition['Sink'] = 'Synk';
+$Definition['Sink this discussion'] = 'Synk denne diskussion';
 $Definition['somebody'] = 'nogen';
 $Definition['Start a New Conversation'] = 'Start en Ny Samtale';
 $Definition['Start a New Discussion'] = 'Ny diskussion';
@@ -534,6 +580,7 @@ $Definition['Twitter Settings'] = 'Twitter Indstillinger';
 
 $Definition['Unbookmark'] = 'Slet BogmÊrke';
 $Definition['Unknown'] = 'Ukendt';
+$Definition['Unsink'] = 'Bjærg';
 $Definition['Unspecified'] = 'Uspecificeret';
 $Definition['Uploading...'] = 'Uploader...';
 $Definition['Username'] = 'Brugernavn';

@@ -168,6 +168,7 @@ $Definition['Start Discussions'] = 'Porneste Discutii';
 $Definition['Status'] = 'Starea';
 $Definition['Subject'] = 'Subiect';
 
+$Definition['take away'] = 'pune deoparte';
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'Va multumim!';
 $Definition['The specified url code is already in use by another category.'] = 'Codul URL introdus este folosit deja de alta categorie.';
