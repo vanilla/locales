@@ -433,7 +433,7 @@ $Definition['hours'] = 'שעות';
 $Definition['Howdy, Stranger!'] = 'שלום זר!';
 $Definition['How long do you want this warning to last?'] = 'כמה זמן אתה רוצה שההזהרה הזאת תימשך?';
 
-$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '%s אני מסכים לתנאי השירות ‪‬במונחים של שירות';
+$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'אני מסכים לתנאי השירות ‪‬במונחים של שירות';
 $Definition['in'] = 'ב';
 $Definition['In <b>%s.</b>'] = 'ב <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'ב <b>%s.</b> ודיונים אחרונים';
