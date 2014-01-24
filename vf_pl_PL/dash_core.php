@@ -8,6 +8,9 @@ $Definition['1 week after being sent'] = '1 tydzień po wysłaniu';
 
 $Definition['2 weeks after being sent'] = '2 tygodnie po wysłaniu';
 
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Potwierdź twój adres email';
+$Definition['[%s] Password Reset Request'] = '[%s] Prośba o ustawienie hasła';
+
 $Definition['_Locale'] = 'Lokalizacja';
 
 $Definition['Accepted'] = 'Zaakceptowane';
@@ -17,6 +20,7 @@ $Definition['Addons'] = 'Dodatki';
 $Definition['Add User'] = 'Dodaj użytkownika';
 $Definition['Advanced'] = 'Zaawansowane';
 $Definition['Advanced Forum Settings'] = 'Zaawansowane ustawienia forum';
+$Definition['A message has been sent to your email address with password reset instructions.'] = 'Na twój email została wysłana wiadomość jak ustawić hasło.';
 $Definition['Appearance'] = 'Wygląd';
 $Definition['Applicant'] = 'Kandydat';
 $Definition['Application'] = 'Applikacja';
@@ -156,6 +160,7 @@ $Definition['Recently Active Users'] = 'Ostatnio aktywni użytkownicy';
 $Definition['Refresh Comments'] = 'Odśwież komentarze';
 $Definition['Registration'] = 'Rejestracja';
 $Definition['Requires: '] = 'Wymagane: ';
+$Definition['Reset my password'] = 'Ustaw ponownie twoje hasło';
 $Definition['Reset password and send email notification to user'] = 'Resetuje hasło i wysyła powiadomienia e-mail do użytkownika';
 $Definition['Reveal Password'] = 'Ujawnij Hasło';
 $Definition['Roles & Permissions'] = 'Role i uprawnienia';
@@ -206,7 +211,7 @@ $Definition['Warning'] = 'Ostrzeżenie';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Domyślnie będziemy starali się korzystać z lokalnego serwera poczty do wysyłania e-mail. Jeśli chcesz użyć oddzielnego serwera poczty SMTP, można skonfigurować go poniżej.
 ';
 $Definition['What\'s the Buzz?'] = 'Co to za Buzz?';
-$Definition['Why do you want to join?'] = 'Chcesz się pryłączyć?';
+$Definition['Why do you want to join?'] = 'Napisz dlaczego chcesz dołączyć do naszego forum?';
 $Definition['Within'] = 'Wewnątrz';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Jeśli masz zablokowane wejście na swoje forum możesz się zalogować używając adresu e-mail i hasła podanego przy rejestracji <a href="%1$s">%1$s</a>';
