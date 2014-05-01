@@ -12,11 +12,15 @@ $Definition['%s new'] = '%s нов';
 $Definition['%s New Plural'] = '%s Нови';
 $Definition['%s new plural'] = '%s нов';
 
+$Definition[' - Page %s'] = ' - Страница %s';
+
 $Definition['1 message'] = '1 съобщение';
 
 $Definition['[%1$s] Membership Approved'] = 'Членството на [%1$s] беше одобрено';
+$Definition['[Deleted User]'] = '[Изтрит потребител]';
 
 $Definition['About'] = 'Относно';
+$Definition['Accept'] = 'Приемане';
 $Definition['Activate'] = 'Активиране';
 $Definition['Activity'] = 'Активност';
 $Definition['Activity.AboutUpdate.FullHeadline'] = '%1$s обнови профила на %6$s.';
@@ -28,8 +32,8 @@ $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s коментир
 $Definition['Activity.Comment'] = 'Коментар';
 $Definition['Activity.CommentMention.FullHeadline'] = '%1$s спомена %3$s в %8$s.';
 $Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s спомена %3$s в %8$s.';
-$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s ти изпрати %8$s.';
-$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s ти изпрати %8$s.';
+$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s ви изпрати %8$s.';
+$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s ви изпрати %8$s.';
 $Definition['Activity.DiscussionComment.FullHeadline'] = '%1$s коментира %4$s %8$s.';
 $Definition['Activity.DiscussionComment.ProfileHeadline'] = '%1$s коментира %4$s %8$s.';
 $Definition['Activity.DiscussionMention.FullHeadline'] = '%1$s спомена %3$s в %8$s.';
@@ -59,7 +63,10 @@ $Definition['Add Comment'] = 'Добавяне на коментар';
 $Definition['Add Message'] = 'Добавяне на съобщение';
 $Definition['Add People to this Conversation'] = 'Добавяне на потребители към този разговор';
 $Definition['Add Route'] = 'Добавяне на маршрут';
+$Definition['Administrator Activity'] = 'Администраторска активност';
+$Definition['administrators'] = 'администратори';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Възникна фатална грешка при изпълнение на заявката.<br />Сървърът върна следния отговор: %s';
+$Definition['All %s'] = 'Всички %s';
 $Definition['All Categories'] = 'Всички категории';
 $Definition['All Conversations'] = 'Всички разговори';
 $Definition['All Discussions'] = 'Всички дискусии';
@@ -68,21 +75,27 @@ $Definition['Announce'] = 'Залепи';
 $Definition['Applicants'] = 'Кандидати';
 $Definition['Apply for Membership'] = 'Кандидаствай за членство';
 $Definition['Are you sure you want to do that?'] = 'Сигурни ли сте?';
+$Definition['Ask a Question'] = 'Задаване на въпрос';
 $Definition['Ask Question'] = 'Публикуване на дискусията';
+$Definition['Attach a file'] = 'Прикачване на файл';
 
 $Definition['Back to Discussions'] = 'Обратно към дискусиите';
+$Definition['Back to Profile'] = 'Връщане към профила';
 $Definition['Banned'] = 'Блокиран';
-$Definition['Bookmark'] = 'Добави в Любими';
+$Definition['Bookmark'] = 'Добави в Отметки';
 $Definition['bookmarked discussion'] = 'любима дискусия';
 $Definition['Bookmarked Discussions'] = 'Любими дискусии';
+$Definition['Bookmarks'] = 'Отметки';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'С качването на този файл, декларирате, че имате правата да го разпространявате и същият не противоречи на Условията за ползване.';
 
 $Definition['Cancel'] = 'Отказ';
 $Definition['Categories'] = 'Категории';
 $Definition['Category'] = 'Категория';
 $Definition['CategoryID'] = 'Категория';
-$Definition['Change My Password'] = 'Смяна на паролата';
-$Definition['Change My Picture'] = 'Смяна на снимката';
+$Definition['Change My Password'] = 'Промяна на паролата';
+$Definition['Change My Picture'] = 'Промяна на снимката';
+$Definition['Change Password'] = 'Промяна на парола';
+$Definition['Change Picture'] = 'Промяна на снимка';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Close'] = 'Затваряне';
 $Definition['Comment'] = 'Коментар';
@@ -113,9 +126,11 @@ $Definition['Drag around and resize the square below to define your thumbnail ic
 $Definition['Edit'] = 'Редактиране';
 $Definition['Edit Account'] = 'Редактиране на акаунта';
 $Definition['Edit My Account'] = 'Редактиране на профила ми';
+$Definition['Edit My Profile'] = 'Редактиране на профила';
 $Definition['Edit My Thumbnail'] = 'Редактиране на аватара ми';
 $Definition['Edit Preferences'] = 'Промяна на настройките';
 $Definition['Email'] = 'E-mail';
+$Definition['Email/Username'] = 'Е-поща/Потребителско име';
 $Definition['EmailInvitation'] = 'Здравейте!
 
 %1$s Ви покани да се присъедините към %2$s. Ако искате да се присъедините, просто натиснете този линк:
@@ -188,6 +203,7 @@ $Definition['EmailWelcomeRegister'] = 'Здравейте {User.Name},
 
 Приятен ден!';
 $Definition['Enter your Email address'] = 'Въведете Вашия адрес за електронна поща';
+$Definition['Error'] = 'Грешка';
 $Definition['ErrorCredentials'] = 'Съжаляваме, не можем да намерим акаунт с това потребителско име и парола.';
 $Definition['ErrorPermission'] = 'Съжаляваме, достъпът е отказан.';
 $Definition['ErrorRecordNotFound'] = 'Търсеният запис не може да бъде открит.';
@@ -225,6 +241,8 @@ $Definition['Keep me signed in'] = 'Запомни ме';
 $Definition['Keep User Content'] = 'UserKeep';
 
 $Definition['Last Active'] = 'Последно активни';
+$Definition['Last IP'] = 'Последен адрес';
+$Definition['Leave a Comment'] = 'Оставяне на коментар';
 $Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLeaveBlank';
 $Definition['Login with Facebook'] = 'Вход с Facebook';
 
@@ -235,6 +253,7 @@ $Definition['Most recent by %1$s'] = 'Последно от %1$s';
 $Definition['My Bookmarks'] = 'Моите любими дискусии';
 $Definition['My Discussions'] = 'Моите дискусии';
 $Definition['My Drafts'] = 'Моите чернови';
+$Definition['My Forums'] = 'Моите форуми';
 $Definition['My Preferences'] = 'Моите настройки';
 
 $Definition['Name'] = 'Име';
@@ -243,8 +262,12 @@ $Definition['New Conversation'] = 'Започнете нов разговор';
 $Definition['New Discussion'] = 'Започнете нова дискусии';
 $Definition['New Message'] = 'Започнете нов разговор';
 $Definition['New Password'] = 'Нова парола';
+$Definition['No'] = 'Не';
 $Definition['No discussions were found.'] = 'Не са намерени дискусии.';
+$Definition['Notification'] = 'Известие';
+$Definition['Notification Preferences'] = 'Настройки за известията';
 $Definition['Notifications'] = 'Уведомления';
+$Definition['Notifictions'] = 'Известия';
 $Definition['Notify me of private messages.'] = 'Уведоми ме за лични съобщения.';
 $Definition['Notify me when I am added to private conversations.'] = 'Уведоми ме, когато съм добавен към личен разговор.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Уведоми ме, когато някой коментира Любимите ми дискусии.';
@@ -255,12 +278,14 @@ $Definition['Notify me when people write on my wall.'] = 'Уведоми ме, �
 
 $Definition['OK'] = 'ОК';
 $Definition['Okay'] = 'Ок';
+$Definition['Old Password'] = 'Стара парола';
 $Definition['OpenID Settings'] = 'OpenID настройки';
 $Definition['Options'] = 'Опции';
 $Definition['Organize your Categories'] = 'Организиране на категориите';
 $Definition['Original'] = 'Оригинал';
 $Definition['Or you can...'] = 'Или можете да...';
 
+$Definition['Page Not Found'] = 'Страницата не беше открита';
 $Definition['Password'] = 'Парола';
 $Definition['PasswordRequest'] = 'Здравейте %1$s,
 
@@ -277,15 +302,19 @@ $Definition['Post Comment'] = 'Публикуване на коментара';
 $Definition['Post Discussion'] = 'Публикуване на дискусията';
 $Definition['Powered by Vanilla'] = 'Задвижва се от Vanilla';
 $Definition['Preview'] = 'Преглед';
+$Definition['Profile'] = 'Профил';
 $Definition['Profile Picture'] = 'Снимка на профила';
 
 $Definition['Question Title'] = 'Заглавие на дискусията';
+$Definition['Quote'] = 'Цитат';
 
+$Definition['Reason (optional)'] = 'Причина (незадължително)';
 $Definition['Recent Activity'] = 'Последна активност';
 $Definition['Recipients'] = 'Получатели';
 $Definition['Redirecting...'] = 'Пренасочване...';
 $Definition['Register'] = 'Кандидаствай за членство';
 $Definition['Register with %s'] = 'Кандидаствай за членство';
+$Definition['Remember me'] = 'Запомняне';
 $Definition['Remember me on this computer'] = 'Запомни ме на този компютър';
 $Definition['Remove My Picture'] = 'Изтрий снимката ми';
 $Definition['Request a new password'] = 'Заяви нова парола';
@@ -298,6 +327,7 @@ $Definition['Save Preferences'] = 'Запази настройките';
 $Definition['Search'] = 'Търсене';
 $Definition['SearchBoxPlaceHolder'] = 'Търсене';
 $Definition['Select an image on your computer (2mb max)'] = 'Изберете изображение от Вашия компютър (максимум 2 МБ)';
+$Definition['Send a New Message'] = 'Изпращане на ново съобщение';
 $Definition['Send Message'] = 'Изпращане на съобщението';
 $Definition['Settings'] = 'Настройки';
 $Definition['Share'] = 'Сподели';
@@ -310,6 +340,7 @@ $Definition['Sign In with Twitter'] = 'Длезте с Twitter';
 $Definition['Sign Out'] = 'Изход';
 $Definition['Sign Up'] = 'Регистрация';
 $Definition['somebody'] = 'някой';
+$Definition['Source:'] = 'Източник:';
 $Definition['Spam'] = 'Спам';
 $Definition['Start a New Conversation'] = 'Започнете нов разговор';
 $Definition['Start a New Discussion'] = 'Започнете нова дискусии';
@@ -348,8 +379,10 @@ $Definition['Type'] = 'Тип';
 
 $Definition['Unbookmark'] = 'Премахване от Любими';
 $Definition['Upload'] = 'Качване';
+$Definition['Uploading...'] = 'Качване...';
 $Definition['Use My Current Password'] = 'Използване на текущата Ви парола';
 $Definition['Username'] = 'Потребител';
+$Definition['Username or email'] = 'Потребителско име или е-поща';
 
 $Definition['ValidateBoolean'] = '%s не е валиден низ.';
 $Definition['ValidateConnection'] = 'Параметрите за връзка, които сте задали не осигуряват достъп до базата данни. Базата данни докладва следната грешка: <code>%s</code>';
@@ -388,5 +421,6 @@ $Definition['You do not have any notifications yet.'] = 'Нямате уведо
 $Definition['You must agree to the terms of service.'] = 'Трябва да се съгласите с условията за ползване.';
 $Definition['your'] = 'твоя';
 $Definition['Your changes have been saved.'] = 'Промените бяха запазанеи.';
+$Definition['Your changes were saved.'] = 'Промените ви бяха съхранени.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Регистрираното Ви потребителско име: <strong>%s</strong>';
 $Definition['Your settings have been saved.'] = 'Настройките бяха запазени.';

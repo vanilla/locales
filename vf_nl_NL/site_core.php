@@ -140,7 +140,7 @@ $Definition['Advanced Stuff'] = 'Geavanceerde dingen';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Er is een fatale fout opgetreden bij het verwerken van het verzoek.<br />De server geeft de volgende reactie: %s';
 $Definition['Agree'] = 'Mee Eens';
 $Definition['All %s'] = 'Alle %s';
-$Definition['All Bookmarks'] = 'Alle Favorieten';
+$Definition['All Bookmarks'] = 'Alle Bladwijzers';
 $Definition['All Categories'] = 'Alle Categorieën';
 $Definition['All Conversations'] = 'Alle Gesprekken';
 $Definition['All Discussions'] = 'Alle Discussies';
@@ -192,9 +192,9 @@ $Definition['Best Of...'] = 'Beste van...';
 $Definition['Blank Discussion Topic'] = 'Blanco Discussieonderwerp';
 $Definition['Blank Message'] = 'Blanco Bericht';
 $Definition['Body'] = 'Inhoud';
-$Definition['bookmarked discussion'] = 'favoriete competitie';
-$Definition['Bookmarked Discussions'] = 'Favoriete Discussies';
-$Definition['Bookmarks'] = 'Favorieten';
+$Definition['bookmarked discussion'] = 'bewaarde competitie';
+$Definition['Bookmarked Discussions'] = 'Bewaarde Discussies';
+$Definition['Bookmarks'] = 'Bladwijzers';
 $Definition['bookmarks'] = 'bladwijzers';
 $Definition['By'] = 'Door';
 $Definition['by'] = 'door';
@@ -230,7 +230,7 @@ $Definition['Clear Conversation History'] = 'Ruim de gespreksgeschiedenis op';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'Klik <a href="%s">hier</a> om terug te gaan naar de discussie.';
 $Definition['Click accept or reject beside an answer.'] = 'Klik op accepteren of weigeren naast een antwoord.';
 $Definition['clicking here'] = 'door hier te klikken';
-$Definition['Click the %s beside discussions to bookmark them.'] = 'Kilk op %s naast discussies om ze als favoriet op te slaan.';
+$Definition['Click the %s beside discussions to bookmark them.'] = 'Kilk op %s naast discussies om ze als bladwijzers toe te voegen.';
 $Definition['Close'] = 'Sluiten';
 $Definition['Closed'] = 'Gesloten';
 $Definition['Close this discussion'] = 'Sluit deze discussie';
@@ -493,8 +493,8 @@ $Definition['Invalid password.'] = 'Het wachtwoord dat je invulde was fout. Denk
 $Definition['Invitations'] = 'Uitnodigingen';
 $Definition['Invite'] = 'Uitnodiging';
 $Definition['InviteErrorPermission'] = 'Sorry, toestemming geweigerd.';
-$Definition['IPAddress'] = 'IP-Adres';
 $Definition['IP Address'] = 'IP-Adres';
+$Definition['IPAddress'] = 'IP-Adres';
 $Definition['I remember now!'] = 'Ohja, nu weet ik het weer!';
 $Definition['Item'] = 'Voorwerp';
 $Definition['item'] = 'voorwerp';
@@ -516,6 +516,7 @@ $Definition['Latest Post'] = 'Laatste Bericht';
 $Definition['Leaders'] = 'Beste Leden';
 $Definition['Leave a Comment'] = 'Laat een reactie achter';
 $Definition['Leave a comment'] = 'Laat een reactie achter';
+$Definition['Leave blank unless connecting to an exising account.'] = 'Laat leeg tenzij je aan een bestaand account aan het koppelen bent.';
 $Definition['Leave Comments'] = 'Laat reacties';
 $Definition['Length'] = 'Lengte';
 $Definition['Level %s'] = 'Niveau %s';
@@ -551,7 +552,7 @@ $Definition['Most recent:'] = 'Meest recent:';
 $Definition['Most recent: %1$s by %2$s'] = 'Meest recent: %1$s door %2$s';
 $Definition['Most recent by %1$s'] = 'Meest recent door %1$s';
 $Definition['MyBadgesModuleTitle'] = 'Mijn Badges';
-$Definition['My Bookmarks'] = 'Mijn Favorieten';
+$Definition['My Bookmarks'] = 'Mijn Bladwijzers';
 $Definition['My Discussions'] = 'Mijn Discussies';
 $Definition['My Drafts'] = 'Mijn Concepten';
 $Definition['My Forums'] = 'Mijn Fora';
@@ -588,7 +589,7 @@ $Definition['Notify me of private messages.'] = 'Stel mij op de hoogte van priv�
 $Definition['Notify me when a badge is requested.'] = 'Stel mij op de hoogte wanneer er een badge is aangevraagd.';
 $Definition['Notify me when a comment is flagged.'] = 'Stel mij op de hoogte wanneer een reactie is gerapporteerd.';
 $Definition['Notify me when I am added to private conversations.'] = 'Stel mij op de hoogte wanneer ik wordt toegevoegd aan een privé-gesprek.';
-$Definition['Notify me when people comment on my bookmarked discussions.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn favoriete discussies';
+$Definition['Notify me when people comment on my bookmarked discussions.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn bewaarde discussies';
 $Definition['Notify me when people comment on my discussions.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn discussies.';
 $Definition['Notify me when people mention me.'] = 'Laat mij weten als gebruikers mij noemen.';
 $Definition['Notify me when people mention me in comments.'] = 'Stel mij op de hoogte wanneer mensen mij noemen in een reactie.';
@@ -600,8 +601,8 @@ $Definition['Not Verified'] = 'Niet Geverifieerd';
 $Definition[' now.'] = 'nu.';
 
 $Definition['Okay'] = 'Oké';
-$Definition['Old Password'] = 'Oud Wachtwoord';
 $Definition['OldPassword'] = 'Oude Wachtwoord';
+$Definition['Old Password'] = 'Oud Wachtwoord';
 $Definition['on'] = 'aan';
 $Definition['Only show followed categories'] = 'Toon alleen gevolgde categorieën';
 $Definition['OpenID Settings'] = 'OpenID Instellingen';
@@ -647,6 +648,8 @@ $Definition['Post edited by %1$s at %2$s'] = 'Bericht bewerkt door %1$s op %2$s'
 $Definition['Post this anonymously'] = 'Publiceer dit bericht anoniem';
 $Definition['Powered by %s'] = 'Aangedreven door %s';
 $Definition['Powered by Vanilla'] = 'Aangedreven door Vanilla';
+$Definition['PreferenceBadgeEmail'] = 'Stel mij op de hoogte als ik een badge ontvang.';
+$Definition['PreferenceBadgePopup'] = 'Stel mij op de hoogte als ik een badge ontvang.';
 $Definition['Preview'] = 'Voorbeeld';
 $Definition['Previous'] = 'Vorige';
 $Definition['Privacy Settings'] = 'Privacyinstellingen';
@@ -654,8 +657,8 @@ $Definition['Private Note for Moderators'] = 'Privéopmerking voor Moderators';
 $Definition['Problem with credentials.'] = 'Probleem met gegevens.';
 $Definition['Proceed'] = 'Ga verder';
 $Definition['Profile'] = 'Profiel';
-$Definition['Profile  Fields'] = 'Profielvelden';
 $Definition['Profile Fields'] = 'Profielvelden';
+$Definition['Profile  Fields'] = 'Profielvelden';
 $Definition['ProfileFieldsCustomDescription'] = 'Gebruik deze velden om aangepaste profielinformatie aan te maken. Je kan dingen invullen als "Relatiestatus", "Skype", of "Favoriete Dinosaurus". Ben creatief!';
 $Definition['Profile Page'] = 'Profielpagina';
 $Definition['Profile Picture'] = 'Profiel Afbeelding';
@@ -669,6 +672,7 @@ $Definition['Q&A Options'] = 'Q&A Opties';
 $Definition['Q&A Question'] = 'Vraag';
 $Definition['QnA Accepted Answer'] = 'Antwoord ✓';
 $Definition['QnA Rejected Answer'] = 'Geweigerd Antwoord';
+$Definition['Question'] = 'Vraag';
 $Definition['question'] = 'vraag';
 $Definition['Question Title'] = 'Vraag Titel';
 $Definition['Quote'] = 'Citeren';
@@ -678,6 +682,8 @@ $Definition['Quote Settings'] = 'Citaat Instellingen';
 $Definition['Quote wrote'] = 'schreef';
 
 $Definition['Rank'] = 'Rang';
+$Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,is,zijn} gepromoveerd tot {Data.Name,plaintext}.';
+$Definition['Ranks.NotificationFormat'] = 'Gefeliciteerd! Je bent gepromoveerd tot {Data.Name,plaintext}.';
 $Definition['Reactions'] = 'Reacties';
 $Definition['Real Name'] = 'Echte Naam';
 $Definition['Reason'] = 'Reden';
@@ -754,8 +760,8 @@ $Definition['Signature Code'] = 'Handtekeningcode';
 $Definition['Signature invalid.'] = 'Handtekening ongeldig.';
 $Definition['Signatures'] = 'Handtekeningen';
 $Definition['Signature Settings'] = 'Handtekening Instellingen';
-$Definition['Sign In'] = 'Inloggen';
 $Definition['SignIn'] = 'Inloggen';
+$Definition['Sign In'] = 'Inloggen';
 $Definition['SigningOut'] = 'Wacht even een seconde terwijl we je uitloggen.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Log In</a> of <a href="{RegisterUrl,html}">Registreer</a> om te reageren.';
 $Definition['Sign in to vote!'] = 'Log in om te stemmen!';
@@ -807,26 +813,15 @@ $Definition['Tenth Anniversary'] = 'Tiende verjaardag';
 $Definition['TermsOfService'] = 'Gebruikersvoorwaarden';
 $Definition['Terms of Service'] = 'Servicevoorwaarden';
 $Definition['TermsOfServiceText'] = '
-   <p>You agree, through your use of this service, that you will not use this
-   community to post any material which is knowingly false and/or defamatory,
-   inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually
-   oriented, threatening, invasive of a person\'s privacy, or otherwise violative
-   of any law. You agree not to post any copyrighted material unless the
-   copyright is owned by you.</p>
+   <p>Je stemt ermee in, door deze dienst te gebruiken, dat je deze community niet zal gebruiken om enig materiaal te uploaden dat bewust misleidend en/of kwetsend, onjuist, beledigend, vulgair, hatelijk, obsceen, profaan, sexueel geörienteerd, bedreigend, iemands privacy schendend, of op een andere wijze een wet overtreed. Je stemt ermee in om geen auteursrechtelijk beschermd materiaal te uploaden tenzij het auteursrecht bij jouw ligt.</p>
    
-   <p>We at this community also reserve the right to reveal your identity (or
-   whatever information we know about you) in the event of a complaint or legal
-   action arising from any message posted by you. We log all internet protocol
-   addresses accessing this web site.</p>
+   <p>Wij bij deze community houden ons het recht voor om jouw identiteit kenbaar te maken (of wat voor informatie we van je weten) in het geval van een klacht of gerechtelijke stappen die een gevolg zijn van een door jouw gepubliceerd bericht. We bewaren alle internet-protocoladressen die deze website binnenkomen.</p>
    
-   <p>Please note that advertisements, chain letters, pyramid schemes, and
-   solicitations are inappropriate on this community.</p>
+   <p>Houd er alstjeblieft rekening mee dat reclame, kettingbrieven, pyramidespelen, en sollicitaties ongepast zijn voor deze community.</p>
    
-   <p>We reserve the right to remove any content for any reason or no reason at
-   all. We reserve the right to terminate any membership for any reason or no
-   reason at all.</p>
+   <p>We houden ons het recht voor enig materiaal te verwijderen, met of zonder enige reden. We houden ons het recht voor elk lidmaatschap te beëindigen, met of zonder enige reden.</p>
    
-   <p>You must be at least 13 years of age to use this service.</p>
+   <p>Je moet op zijn minst 13 jaar oud zijn om deze dienst te gebruiken.</p>
 ';
 $Definition['Text  Max  Length'] = 'Maximale Tekstlengte';
 $Definition['The conversation has been cleared.'] = 'Het gesprek is leeggemaakt.';
@@ -879,6 +874,7 @@ $Definition['Unanswered'] = 'Onbeantwoord';
 $Definition['Unanswered Questions'] = 'Onbeantwoord';
 $Definition['unavailable'] = 'onbeschikbaar';
 $Definition['Unban User'] = 'Hef verbanning op.';
+$Definition['Unbookmark'] = 'Verwijder Bladwijzer';
 $Definition['Undefined discussion body.'] = 'Ongedefinieerde discussieinhoud';
 $Definition['Undefined discussion subject.'] = 'Ongedefiniëerd discussieonderwerp.';
 $Definition['Undefined foreign content'] = 'Ongedefinieerde vreemde inhoud';
@@ -898,6 +894,7 @@ $Definition['Use My Current Password'] = 'Gebruik Mijn Huidige Wachtwoord';
 $Definition['User "%s" does not exist.'] = 'Gebruiker "%s" bestaat niet.';
 $Definition['Username'] = 'Gebruikersnaam';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Gebruikersnaam mag alleen bestaan uit letters, cijfers en underscores.';
+$Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Gebruikersnaam mag alleen bestaan uit letters, cijfers, underscores, en moet tussen de 3 en 20 tekens lang zijn.';
 $Definition['UsernameError'] = 'Gebruikersnaam kan alleen letters, cijfers en underscores bevatten en moet tussen 3 en 20 karakters lang zijn.';
 $Definition['Username or email'] = 'Gebruikersnaam of e-mailadres';
 $Definition['User not found.'] = 'Sorry, er is geen account gevonden gerelateerd aan het ingevoerde e-mailadres en wachtwoord.';
@@ -945,6 +942,8 @@ $Definition['wall'] = 'muur';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'Wil je meedoen in deze discussie? Klik op een van deze:';
 $Definition['Warn'] = 'Waarschuw';
 $Definition['Warnings'] = 'Waarschuwingen';
+$Definition['WarningTitleFormat'] = '{InsertUserID,User} waarschuwde {WarnUserID,User} voor {Points,plural,%s punten}.';
+$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} waarschuwde {WarnUserID,User} voor {Points,plural,%s punten} (alleen een opmerking).';
 $Definition['weeks'] = 'weken';
 $Definition['Welcome Aboard!'] = 'Welkom aan Boord!';
 $Definition['were'] = 'waren';
@@ -965,10 +964,14 @@ $Definition['You are about to ban {User.UserID,user}.'] = 'Je staat op het punt 
 $Definition['You are about to unban {User.UserID,user}.'] = 'Je staat op het punt de verbanning voor {User.UserID,user} op te heffen.';
 $Definition['You are connected as %s through %s.'] = 'Je bent verbonden als %s door %s.';
 $Definition['You are connected through %2$s.'] = 'Je bent verbonden via %2$s.';
+$Definition['You are currently only viewing categories that you follow.'] = 'Je bekijkt momenteel alleen categorieën die je aan het volgen bent.';
+$Definition['You are currently viewing all categories.'] = 'Je bekijkt momenteel alle categorieën.';
 $Definition['You are editing %s\'s signature'] = 'Je bent %s zijn handtekening aan het bewerken.';
+$Definition['You can either ask a question or start a discussion.'] = 'Je kan een vraag stellen of een discussie starten. Kies hieronder wat je wilt doen.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Je kan individuele categorieën volgen en op de hoogte gesteld worden van alle berichten daarin. ';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Je kan de thumbnail van een externe profielfoto niet bewerken.';
 $Definition['You can only specify up to %s tags.'] = 'Je kan alleen tot %s tags toewijzen.';
+$Definition['You can use HTML in your signature.'] = 'Je kunt <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in je handtekening gebruiken.';
 $Definition['You don\'t have permission to do that.'] = 'U heeft geen permissie om die actie uit te voeren.';
 $Definition['You do not have any %s yet.'] = 'Je hebt nog geen %s.';
 $Definition['You do not have any bookmarks.'] = 'Je hebt geen bladwijzers.';

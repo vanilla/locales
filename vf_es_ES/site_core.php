@@ -90,8 +90,8 @@ $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s comentó en tu %
 $Definition['Activity.Comment'] = 'Comentar';
 $Definition['Activity.CommentMention.FullHeadline'] = '%1$s mencionó %3$s en un %8$s.';
 $Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s mencionó %3$s en un %8$s.';
-$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s te envió un %8$s.';
-$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s te envió un %8$s.';
+$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s the ha enviado un %8$s.';
+$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s the ha enviado un %8$s.';
 $Definition['Activity.DiscussionComment.FullHeadline'] = '%1$s comentó en una %8$s de %3$s.';
 $Definition['Activity.DiscussionComment.ProfileHeadline'] = '%1$s comentó en una %8$s de %3$s.';
 $Definition['Activity.DiscussionMention.FullHeadline'] = '%1$s mencionó %3$s en una %8$s.';
@@ -423,7 +423,7 @@ $Definition['Expires'] = 'Expira';
 
 $Definition['Failed to find discussion for commenting.'] = 'Error en encontrar el tema por comentario.';
 $Definition['Failed to load the poll.'] = 'Error al cargar la encuesta ';
-$Definition['Female'] = 'Hembra';
+$Definition['Female'] = 'Mujer';
 $Definition['Fifth Anniversary'] = 'Quinto Aniversario ';
 $Definition['FileName'] = 'Nombre de archivo';
 $Definition['Filename'] = 'Nombre de archivo';
@@ -431,7 +431,7 @@ $Definition['File Size'] = 'Tamaño de archivo';
 $Definition['FileSize'] = 'Tamaño de archivo';
 $Definition['First Anniversary'] = 'Primer Aniversario ';
 $Definition['First Comment'] = 'Primer Comentario';
-$Definition['Flag'] = 'Bandera';
+$Definition['Flag'] = 'Reportar';
 $Definition['Follow'] = 'Seguir';
 $Definition['Follow %s'] = 'Seguir %s';
 $Definition['Followed by %d people'] = 'Seguido por %d personas';
@@ -468,7 +468,7 @@ $Definition['Hang on a sec while we sign you out.'] = 'Espera unos segundos mien
 $Definition['he'] = 'El';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} adquirido la <a href="{Url,html}">{Data.Name,text}</a> insignia.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} bloqueado {ActivityUserID,you}.';
-$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} comentado en <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} ha comentado en <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} ingresado.';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} desbloqueado {ActivityUserID,you}.';
@@ -531,7 +531,7 @@ $Definition['Login with Facebook'] = 'Acceder con Facebook';
 
 $Definition['Make me invisible? (Will not show you on the list)'] = '¿Ser invisible? (No aparecerás en la lista)';
 $Definition['Make this poll anonymous (user votes are not made public).'] = 'Hacer esta encuesta anónima (Los votos no se hacen públicos)';
-$Definition['Male'] = 'Varón';
+$Definition['Male'] = 'Hombre';
 $Definition['Mark All Viewed'] = 'Marcar todo como visto';
 $Definition['markallviewed'] = 'Marcar todos los vistos';
 $Definition['Marking as spam cannot be undone.'] = 'Marcar algo como SPAM causará su eliminación para siempre. Eliminar es una buena forma de mantener limpio el foro';
