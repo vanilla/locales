@@ -423,7 +423,7 @@ Check out the new community forum I\'ve just set up. It\'s a great place for us 
 
 Follow the link below to log in.'] = 'Olá amigo!
 
-Dê uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online.
+Dê só uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online..
 
 Siga o link abaixo para fazer o log in.';
 $Definition['Hi Pal!
@@ -432,7 +432,7 @@ Check out the new community forum I\'ve just set up. It\'s a great place for us 
 
 Follow the link below to log in.'] = 'Olá amigo!
 
-Dê só uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online..
+Dê uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online.
 
 Siga o link abaixo para fazer o log in.';
 $Definition['Homepage'] = 'Página Inicial';

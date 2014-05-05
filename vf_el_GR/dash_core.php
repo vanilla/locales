@@ -379,7 +379,6 @@ $Definition['Garden.Import.Complete.Description'] = 'Η μεταφορά ολο�
    Κάντε κλικ στην <b>Ολοκλήρωση</b> όταν είστε έτοιμος.';
 $Definition['Garden.Import.Continue.Description'] = 'Φαίνεται ότι βρίσκεστε εν μέσω μεταφοράς.
    Παρακαλώ επιλέξτε ένα από τα παρακάτω.';
-$Definition['Garden.Import.Description'] = 'Use this page to import data from another forum that was exported using Vanilla\'s exporter. For more information <a href="%s">see our importing documentation</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Δώστε το email και τον κωδικό του διαχειριστή για να γίνει εισαγωγή των δεδομένων.';
 $Definition['Garden.Import.Merge'] = 'Συνένωση με αυτό το φόρουμ.';
 $Definition['Garden.Import.Merge.Description'] = 'Αυτό θα ενώσει όλα τα στοιχεία των χρηστών και των συζητήσεων από το εισαχθέν φόρουμ σε αυτό το φόρουμ.

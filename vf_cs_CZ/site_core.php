@@ -375,7 +375,6 @@ $Definition['ErrorRecordNotFound'] = 'Požadovaný záznam nebyl nalezen.';
 $Definition['ErrorTermsOfService'] = 'Musíš souhlasit s podmínkami používání služby.';
 $Definition['everyone'] = 'každý';
 $Definition['Everything'] = 'Vše';
-$Definition['Expired'] = 'Vypršel';
 $Definition['Expires'] = 'Vyprší';
 
 $Definition['Failed to find discussion for commenting.'] = 'Nepovedlo se najít diskuzi pro komentování.';
@@ -385,8 +384,8 @@ $Definition['Female'] = 'Žena';
 $Definition['Fifth Anniversary'] = 'Páté výročí';
 $Definition['FileName'] = 'Jméno souboru';
 $Definition['Filename'] = 'Jméno souboru';
-$Definition['File Size'] = 'Velikost souboru';
 $Definition['FileSize'] = 'Velikost souboru';
+$Definition['File Size'] = 'Velikost souboru';
 $Definition['First Anniversary'] = 'První výročí';
 $Definition['First Comment'] = 'První komentář';
 $Definition['Flag'] = 'Nahlásit';

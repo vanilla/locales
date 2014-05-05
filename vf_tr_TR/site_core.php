@@ -458,8 +458,8 @@ $Definition['Invalid password.'] = 'Girdiğiniz parola doğru değil. Unutmayın
 $Definition['Invitations'] = 'Davetiyeler';
 $Definition['Invite'] = 'Davet Et';
 $Definition['InviteErrorPermission'] = 'Üzgünüm, izin verilmedi.';
-$Definition['IP Address'] = 'IP adresi';
 $Definition['IPAddress'] = 'IPAdress';
+$Definition['IP Address'] = 'IP adresi';
 $Definition['I remember now!'] = 'Hatırladım!';
 $Definition['Item'] = 'Öğe';
 $Definition['item'] = 'öğe';
@@ -572,8 +572,8 @@ $Definition[' now.'] = 'şimdi.';
 $Definition['Off Topic'] = 'Alakasız';
 $Definition['OK'] = 'TAMAM';
 $Definition['Okay'] = 'Tamam';
-$Definition['Old Password'] = 'Eski Parola';
 $Definition['OldPassword'] = 'Eski parola';
+$Definition['Old Password'] = 'Eski Parola';
 $Definition['on'] = 'içinde';
 $Definition['Only show followed categories'] = 'Sadece takip edilen kategorileri göster';
 $Definition['OpenID Settings'] = 'OpenID Ayarları';
@@ -632,8 +632,8 @@ $Definition['Private Note for Moderators'] = 'Moderatör için Özel Not';
 $Definition['Problem with credentials.'] = 'Kimlik bilgisi sorunu.';
 $Definition['Proceed'] = 'Devam Et';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Profil Boşlukları';
 $Definition['Profile Fields'] = 'Profil Boşlukları';
+$Definition['Profile  Fields'] = 'Profil Boşlukları';
 $Definition['ProfileFieldsCustomDescription'] = 'Özel profil bilgisi oluşturmak için bu alanları kullanın. "İlişki Durumu", "Skype", yada "Favori Dinazorunum" gibi şeyler ekleyebilirsiniz. Yaratıcı olun!';
 $Definition['Profile Page'] = 'Profil Sayfası';
 $Definition['Profile Picture'] = 'Profil Fotoğrafı';
@@ -735,8 +735,8 @@ $Definition['Signature Code'] = 'İmza Kodu';
 $Definition['Signature invalid.'] = 'İmza geçersiz.';
 $Definition['Signatures'] = 'İmzalar';
 $Definition['Signature Settings'] = 'İmza Ayarları';
-$Definition['SignIn'] = 'Oturum Aç';
 $Definition['Sign In'] = 'Oturum Aç';
+$Definition['SignIn'] = 'Oturum Aç';
 $Definition['SigningOut'] = 'Oturumunuz kapatılırken bir saniye bekleyin.';
 $Definition['Sign In or Register to Comment.'] = 'Yorum yapmak için<a href="{SignInUrl,html}"{Popup}>Oturum Açın</a> yada <a href="{RegisterUrl,html}">Kayıt Olun</a> .';
 $Definition['Sign in to vote!'] = 'Oy vermek için kayıt olun!';
@@ -790,28 +790,6 @@ $Definition['Tell us why you want to join!'] = 'Neden katılmak istediğiniz anl
 $Definition['Tenth Anniversary'] = 'Onuncu Yıldönümü';
 $Definition['TermsOfService'] = 'Hizmet Koşulları';
 $Definition['Terms of Service'] = 'Hizmet Şartları';
-$Definition['TermsOfServiceText'] = '
-   <p>You agree, through your use of this service, that you will not use this
-   community to post any material which is knowingly false and/or defamatory,
-   inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually
-   oriented, threatening, invasive of a person\'s privacy, or otherwise violative
-   of any law. You agree not to post any copyrighted material unless the
-   copyright is owned by you.</p>
-   
-   <p>We at this community also reserve the right to reveal your identity (or
-   whatever information we know about you) in the event of a complaint or legal
-   action arising from any message posted by you. We log all internet protocol
-   addresses accessing this web site.</p>
-   
-   <p>Please note that advertisements, chain letters, pyramid schemes, and
-   solicitations are inappropriate on this community.</p>
-   
-   <p>We reserve the right to remove any content for any reason or no reason at
-   all. We reserve the right to terminate any membership for any reason or no
-   reason at all.</p>
-   
-   <p>You must be at least 13 years of age to use this service.</p>
-';
 $Definition['Text  Max  Length'] = 'Metin  En Çok  Uzunluk';
 $Definition['The conversation has been cleared.'] = 'Görüşme temizlendi.';
 $Definition['The email you entered in use by another member.'] = 'Girdğiniz e-posta başka bir üye tarafından kullanılıyor.';

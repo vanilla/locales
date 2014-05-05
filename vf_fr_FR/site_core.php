@@ -57,8 +57,6 @@ $Definition['(empty message)'] = '(message vide)';
 
 $Definition['+%s Guests'] = '+%s Visiteurs';
 
-$Definition[' - Page %s'] = '- Page %s';
-
 $Definition['<General Error>'] = '<Erreur Générale>';
 
 $Definition['[%1$s] Membership Approved'] = 'Bienvenue sur le forum de %1$s';
@@ -414,8 +412,8 @@ $Definition['Female'] = 'Femme';
 $Definition['Fifth Anniversary'] = '5ième anniversaire';
 $Definition['FileName'] = 'NomFichier';
 $Definition['Filename'] = 'Nom du fichier';
-$Definition['File Size'] = 'Poids du fichier';
 $Definition['FileSize'] = 'PoidFichier';
+$Definition['File Size'] = 'Poids du fichier';
 $Definition['First Anniversary'] = '1er anniversaire';
 $Definition['First Comment'] = '1er commentaire';
 $Definition['Flag'] = 'Signaler un abus';
@@ -487,8 +485,8 @@ $Definition['In this Conversation'] = 'Dans cette conversation';
 $Definition['Invalid password.'] = 'Le mot de passe est invalide. ';
 $Definition['Invite'] = 'Invitez';
 $Definition['InviteErrorPermission'] = 'Désolé, la permission a été refusée.';
-$Definition['IP Address'] = 'Adresse IP';
 $Definition['IPAddress'] = 'Adresse IP';
+$Definition['IP Address'] = 'Adresse IP';
 $Definition['I remember now!'] = 'Je m\'en souviens !';
 $Definition['Item'] = 'Élément';
 $Definition['item'] = 'élément';
@@ -593,8 +591,8 @@ $Definition[' now.'] = 'maintenant.';
 $Definition['Off Topic'] = 'Hors sujet';
 $Definition['OK'] = 'Ok';
 $Definition['Okay'] = 'Oui';
-$Definition['OldPassword'] = 'Ancien mot de passe';
 $Definition['Old Password'] = 'Ancien mot de passe';
+$Definition['OldPassword'] = 'Ancien mot de passe';
 $Definition['on'] = 'sur';
 $Definition['Only show followed categories'] = 'Voir uniquement les catégories suivies.';
 $Definition['OpenID Settings'] = 'Paramètres OpenID';
@@ -753,8 +751,8 @@ $Definition['Sign-Out URL'] = 'URL de déconnexion';
 $Definition['Signature Code'] = 'Code de signature';
 $Definition['Signature invalid.'] = 'Signature invalide.';
 $Definition['Signature Settings'] = 'Options de signature';
-$Definition['SignIn'] = 'Connexion';
 $Definition['Sign In'] = 'Connexion';
+$Definition['SignIn'] = 'Connexion';
 $Definition['SigningOut'] = 'Veuillez patienter pendant que nous vous déconnectons.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Connectez-vous</a> ou <a href="{RegisterUrl,html}">Inscrivez-vous</a> pour commenter.';
 $Definition['Sign in to vote!'] = 'Connectez-vous pour voter !';

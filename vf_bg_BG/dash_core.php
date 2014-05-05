@@ -18,6 +18,7 @@ $Definition['Add User'] = 'Добавяне на потребител';
 $Definition['Administrator'] = 'Администратор';
 $Definition['Advanced'] = 'Разширени';
 $Definition['Advanced Forum Settings'] = 'Разширени настройки на форума';
+$Definition['All %1$s'] = 'Всички %1$s';
 $Definition['Appearance'] = 'Външен вид';
 $Definition['Applicant'] = 'Кандидат';
 $Definition['Application'] = 'Приложение';
@@ -34,6 +35,7 @@ $Definition['Banner'] = 'Банер';
 $Definition['Banner Logo'] = 'Лого';
 $Definition['Banner Title'] = 'Съдържание на текстовия банер';
 $Definition['Ban Type'] = 'Тип';
+$Definition['By %s'] = 'от %s';
 
 $Definition['Category Url:'] = 'Url на категорията:';
 $Definition['Change the way that new users register with the site.'] = 'Променете начина на регистрация за нови потребители.';

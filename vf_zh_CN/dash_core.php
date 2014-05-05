@@ -297,8 +297,8 @@ $Definition['Don\'t Refresh'] = '不可刷新。';
 $Definition['Don\'t use Categories'] = '停用版块';
 $Definition['Do not display the categories in the side panel.'] = '在边栏中不显示板块。';
 $Definition['Download Locale List'] = '下载语言列表';
-$Definition['Download Locale Pack'] = '下载语言包';
 $Definition['DownloadLocalePack'] = '下载';
+$Definition['Download Locale Pack'] = '下载语言包';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = '拖动对板块进行排序和分级。';
 $Definition['Drag and drop the categories below to sort and nest them.'] = '拖动对板块进行排序和分级。';
 
@@ -604,7 +604,6 @@ $Definition['Please Confirm'] = '请确认';
 $Definition['Plugin'] = '插件';
 $Definition['PluginHelp'] = '插件可以为您的站点添加功能。<br />当您向 %s 文件夹添加插件后，您可以在这里选择启用或关闭。';
 $Definition['Plugins'] = '插件';
-$Definition['Pocket'] = '口袋';
 $Definition['Pockets'] = 'Pocket（自定义HTML块）';
 $Definition['Pockets.BetweenDiscussions.Description'] = '这个Pocket将显示在主话题列表中的各个话题之间。由于话题通常都在 &lt;li&gt;..&lt;/li&gt; 标记当中，因此你也需要将Pocket放在这些标记当中。';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket允许你在应用中的多个地方自由添加HTML代码。';

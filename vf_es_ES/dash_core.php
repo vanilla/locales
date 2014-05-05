@@ -228,8 +228,8 @@ $Definition['Don\'t Refresh'] = 'No Actualizar';
 $Definition['Don\'t use Categories'] = 'No usar Categorías';
 $Definition['Do not display the categories in the side panel.'] = 'No mostrar las categorías en panel lateral.';
 $Definition['Download Locale List'] = 'Descargar lista de Lenguaje';
-$Definition['Download Locale Pack'] = 'Descargar pack de Lenguaje';
 $Definition['DownloadLocalePack'] = 'Descargar';
+$Definition['Download Locale Pack'] = 'Descargar pack de Lenguaje';
 
 $Definition['edit'] = 'editar';
 $Definition['Edit %s'] = 'Editar %s';

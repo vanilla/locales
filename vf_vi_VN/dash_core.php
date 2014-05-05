@@ -1,6 +1,6 @@
 <?php
 
-$Definition['%1$s Version %2$s'] = '%1$s Phiên bản %2$s';
+$Definition['%1$s Version %2$s'] = '%1$s phiên bản %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s phiên bản %2$s hiện có.';
 $Definition['%s is not a valid email address'] = '%s là email không hợp lệ';
 $Definition['%s level'] = '%s cấp độ';
@@ -16,7 +16,6 @@ $Definition['%s user(s) will be affected by this action.'] = '%s ng??i d';
 $Definition['%s years.'] = '%s năm.';
 
 $Definition['(more)'] = '(xem thêm)';
-$Definition['(YYYY-mm-dd)'] = '(năm-tháng-ngày)';
 
 $Definition['1 day'] = '1 ngày';
 $Definition['1 hour'] = '1 giờ';
@@ -37,7 +36,6 @@ $Definition['<strong>Categories</strong>'] = '<strong>Danh mục</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = 'C';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Chuy?n c';
 
-$Definition['[%s] Invitation'] = '[%s] Th? m?i';
 $Definition['[%s] Password Reset'] = 'M?t kh?u [%s] ??t l?i';
 
 $Definition['About Vanilla Statistics'] = 'Thống kê tình trạng Vanilla';
@@ -45,6 +43,7 @@ $Definition['Above Main Content'] = 'Tr';
 $Definition['Accepted'] = 'Đã được chấp nhận';
 $Definition['Account Sync Failed'] = 'Tài khoản không được đồng bộ';
 $Definition['Action'] = 'Hành động';
+$Definition['Add %s'] = 'Và %s';
 $Definition['Add Category'] = 'Th';
 $Definition['Add Connection'] = 'Thêm kết nối';
 $Definition['Add Info &amp; Create Account'] = 'ConnectCreateAccount';
@@ -52,6 +51,7 @@ $Definition['Addons'] = ' Addons';
 $Definition['Add Role'] = 'Add v? tr';
 $Definition['Add User'] = 'Th';
 $Definition['Advanced'] = 'C?i ti?n';
+$Definition['All %1$s'] = 'Tất cả %1$s';
 $Definition['All Dashboard Pages'] = 'T?t c? c';
 $Definition['All discussions in this category will be permanently deleted.'] = 'T?t c? c';
 $Definition['All Forum Pages'] = 'T?t c? c';
@@ -70,6 +70,8 @@ $Definition['Banner Logo'] = 'Logo Banner';
 $Definition['Banner Title'] = 'Tiêu đề banner';
 $Definition['Basic'] = 'C? b?n';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
+$Definition['By %s'] = 'Bởi %s';
+$Definition['by %s'] = 'bởi %s';
 
 $Definition['Category Url:'] = 'Url danh m?c:';
 $Definition['Change the way that new users register with the site.'] = 'Thay ??i c';
@@ -78,7 +80,6 @@ $Definition['Check all permissions that apply to this role:'] = 'Ki?m tra t?t c?
 $Definition['Choose and configure your forum\'s authentication scheme.'] = 'Ch?n v';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Ch?n m?t vi tr? cho ng??i d';
 $Definition['Choose who can send out invitations to new members:'] = 'Ch?n ng??i c';
-$Definition['comment(s)'] = 'b';
 $Definition['Comments Page'] = 'Trang b';
 $Definition['Comments per Page'] = 'S? b';
 $Definition['Configure an Authenticator'] = 'C?u h';
@@ -88,24 +89,27 @@ $Definition['Conversations'] = 'Xem h?t';
 $Definition['Current Authenticator'] = 'Ch?ng th?c hi?n t?i';
 $Definition['Current Theme'] = 'Giao di?n hi?n t?i';
 
+$Definition['default'] = 'mặc định';
 $Definition['Delete Category'] = 'X';
 $Definition['Delete Role'] = 'X';
 $Definition['Description'] = 'M';
 $Definition['Disable'] = 'V';
 $Definition['Disable Content Flagging'] = 'V';
 $Definition['Disabled'] = 'V';
+$Definition['Disabled %1$s'] = 'Cấm %1$s';
 $Definition['Discussion & Comment Editing'] = 'Ch?nh s?a th?o lu?n v';
-$Definition['discussion(s)'] = 'th?o lu';
 $Definition['Discussions per Page'] = 'S? th?o lu?n tr';
 $Definition['Don\'t use Categories'] = 'C';
 
 $Definition['edit'] = 's?a';
+$Definition['Edit %s'] = 'Sửa %s';
 $Definition['Edit Category'] = 'S?a danh m?c';
 $Definition['Edit Message'] = 'S?a tin nh?n';
 $Definition['Edit Role'] = 'S?a v? tr';
 $Definition['Edit User'] = 'S?a ng??i d';
 $Definition['Enable'] = 'K';
-$Definition['Enabled'] = 'H?u d?ng';
+$Definition['Enabled'] = 'Cho phép';
+$Definition['Enabled %1$s'] = 'Cho phép %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = 'H?u d?ng';
 $Definition['Enable this message'] = 'H?u d?ng t';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Nh?p ??a ch? email c?a ng??i b?n mu?n m?i:';
@@ -164,8 +168,9 @@ $Definition['New users in the last day'] = 'Nh?ng ng??i d';
 $Definition['New users in the last week'] = 'Nh?ng ng??i d';
 $Definition['None'] = 'B';
 
-$Definition['On'] = 'B?t';
+$Definition['On'] = 'Vào';
 $Definition['Only Allow Each User To Post'] = 'Ch? cho ph';
+$Definition['Operation By'] = 'Bởi';
 $Definition['Or Spamblock For'] = 'Ho?c kh';
 $Definition['Outgoing Email'] = 'Mail ra ngo';
 
@@ -216,6 +221,7 @@ $Definition['ThemeHelp'] = 'Tr? gi';
 $Definition['Themes'] = 'Giao di?n';
 $Definition['There are no items awaiting moderation at this time.'] = 'Kh';
 $Definition['This will show the panel on every page.'] = 'C';
+$Definition['Titles'] = 'Tiêu đề';
 
 $Definition['Uninvite'] = 'Kh';
 $Definition['Use an SMTP server to send email'] = 'Use an SMTP server to send email.';

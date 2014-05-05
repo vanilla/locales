@@ -167,6 +167,7 @@ $Definition['From'] = 'من';
 $Definition['Generate Client ID and Secret'] = 'أنشىء هوية العميل وكلمة السر';
 $Definition['give'] = 'أعطي';
 
+$Definition['Hash Algorithm'] = 'خوارزمية البعثرة Hash Algorithm';
 $Definition['Hide from the recent discussions page.'] = 'إخفاء من صفحة المواضيع الجديدة.';
 $Definition['Hide this category from the recent discussions page.'] = 'إخفاء هذ القسم من صفحة المواضيع الجديدة.';
 $Definition['Hi Pal!

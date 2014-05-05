@@ -274,7 +274,6 @@ $Definition['Garden.Title'] = 'Banner 標題';
 $Definition['Gender'] = '性別';
 $Definition['General'] = '一般';
 $Definition['Generate Password'] = '產生密碼';
-$Definition['Go'] = '衝';
 $Definition['GuestModule.Message'] = '點下面的按鈕可以加入我們！';
 
 $Definition['he'] = '他';
@@ -536,7 +535,6 @@ $Definition['ValidateInteger'] = '%s 不是有效的整數.';
 $Definition['ValidateLength'] = '%1$s 內容太長, 超出限制 %2$s 字符.';
 $Definition['ValidateMatch'] = '%s 字段不正確.';
 $Definition['ValidateMinimumAge'] = 'You must be at least 16 years old to proceed.';
-$Definition['ValidateRequired'] = '%s 是必須的.';
 $Definition['Value'] = 'Condition Expression';
 $Definition['Verified'] = '已驗證';
 $Definition['via %s'] = '透過 %s';

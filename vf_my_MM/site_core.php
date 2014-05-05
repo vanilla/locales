@@ -2,7 +2,6 @@
 
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%4$s ၏ အသင်းဝင်ခွင့် ဖိတ်ကြားမှုကို %1$s သည် လက်ခံလိုက်သည်။';
 $Definition['%1$s changed %4$s permissions.'] = '%4$s ၏ လုပ်ပိုင်ခွင့်ကို %1$s သည် ပြောင်းလဲလိုက်သည်။';
-$Definition['%1$s changed %6$s profile picture.'] = '%1$s ၏ ရုပ်ပုံ ပြောင်းလဲလိုက်သည်';
 $Definition['%1$s joined.'] = '%1$s ဝင်ရောက်လာသည်။';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s သည် %3$s အား %8$s တွင် ရည်ညွှန်း ရေးသားထားသည်။';
 $Definition['%1$s signed in.'] = '%1$s ဝင်ရောက်လာပါသည်။';
@@ -110,7 +109,6 @@ $Definition['bookmarked discussion'] = 'မှတ်သားထားသော�
 $Definition['Bookmarked Discussions'] = 'မှတ်သားထားသောဆွေးနွေးချက်များ';
 $Definition['Bookmarks'] = 'မှတ်ထားခြင်းများ';
 
-$Definition['Cancel'] = 'လက်မခံ';
 $Definition['Categories'] = 'အမျိုးအစားများ';
 $Definition['CategoriesShowFollowed'] = 'စောင့်ကြည့်ထားသော အမျိုးအစားများသာ ပြပါ။';
 $Definition['Category'] = 'အမျိုးအစား';
@@ -124,7 +122,6 @@ $Definition['Change Password'] = 'လျှို့ဝှက်စာလုံ�
 $Definition['Change Picture'] = 'ရုပ်ပုံပြောင်းလဲမည်';
 $Definition['Child Categories'] = 'ဆင့်ပွား အမျိုးအစားများ';
 $Definition['Child Categories:'] = 'ဆင့်ပွား အမျိုးအစားများ :';
-$Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
 $Definition['Clear'] = 'ရှင်းရန်';
 $Definition['clear'] = 'ရှင်းရန်';
 $Definition['clicking here'] = 'ဒီနေရာကို နှိပ်ပါ';
@@ -133,14 +130,11 @@ $Definition['Closed'] = '​ပိတ်ထား​သည်';
 $Definition['Comment'] = 'မှတ်ချက်';
 $Definition['comment'] = 'မှတ်ချက်';
 $Definition['Comments'] = 'မှတ်ချက်များ';
-$Definition['Confirm'] = 'သေချာသည်';
 $Definition['Confirm Password'] = 'လျှို့ဝှက်စာလုံးပြန်ထည့်ရန်';
 $Definition['Connect'] = 'ချိတ်ဆက်သည်';
 $Definition['ConnectAccountExists'] = 'သင်၏ Account ရှိပြီးသားဖြစ်သည်';
-$Definition['ConnectCreateAccount'] = 'အချက်အလက် ဖြည့်စွက်ရန် နှင့် ​account ဖန်တီးရန်';
 $Definition['Connecting...'] = 'ချိတ်ဆက်နေသည်...';
 $Definition['Connection'] = 'ချိတ်ဆက်သည်';
-$Definition['ConnectName'] = 'အသုံးပြုသူ နာမည်';
 $Definition['ConnectRegisteredName'] = 'သင် အဖွဲ့ဝင်ထားသည့် အမည်မှာ : <strong>%s</strong>';
 $Definition['conversation'] = 'ပြောဆိုချက်';
 $Definition['Create One.'] = 'တစ်ခုဖန်တီးရန်';
@@ -148,7 +142,6 @@ $Definition['Current'] = 'ယခု';
 $Definition['Customize'] = 'စိတ်ကြိုက်ပြင်ခြင်း';
 
 $Definition['Dashboard'] = 'ထိန်းချုပ်နေရာ';
-$Definition['Date'] = 'Applied On';
 $Definition['days'] = 'ရက်';
 $Definition['Define Thumbnail'] = 'ရုပ်ပုံအသေး ဖန်တီးရန် ပုံကို ဖိဆွဲပြီးတော့ ထည့်ါ။';
 $Definition['Delete'] = 'ဖျက်သည်။';
@@ -284,18 +277,15 @@ $Definition['Insert Image'] = 'ပုံထည့်ရန်';
 $Definition['In this Conversation'] = 'ယခုပြောဆိုချက်တွင်';
 $Definition['Invite'] = 'ဖိတ်ခေါ်ရန်';
 $Definition['InviteErrorPermission'] = 'သင့်အားဝင်ခွင့်တားမြစ်ထားပါသည်';
-$Definition['Item'] = 'Ban Item';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ကြိုဆိုပါတယ်။ အခုမှ ပထမဆုံး အကြိမ် ရောက်ဖူးတာလား ? ဝင်ရောက် ဆွေးနွေး မေးမြန်းလိုလျှင် အောက်မှာ ရှိတဲ့ button တွေကနေ တဆင့် ဝင်ရောက် ဆွေးနွေးနိုင်သလို အဖွဲ့ ဝင် အသစ်အနေနဲ့လည်း လျှောက်ထားနိုင်ပါတယ်။ ';
 
 $Definition['Joined'] = 'အသင်းဝင်သည့်နေ့ရက်';
 
 $Definition['Keep me signed in'] = 'အမြဲဝင်ထားရန်';
-$Definition['Keep User Content'] = 'UserKeep';
 
 $Definition['Last Active'] = 'နောက်ဆုံးဝင်ရောက်ခဲ့ချိန်';
 $Definition['Last IP'] = 'နောက်ဆုံး IP';
 $Definition['Leave a Comment'] = 'မှတ်ချက်ထားခဲ့ရန်';
-$Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLeaveBlank';
 $Definition['Login with Facebook'] = 'Facebook ဖြင့်ဝင်ရန်';
 
 $Definition['Male'] = 'ယောက်ျားလေး';
@@ -414,28 +404,6 @@ $Definition['Start Conversation'] = 'ပြန်လှန် ပြောဆိ
 $Definition['Started By'] = 'စတင်သူ';
 $Definition['Started by %1$s'] = 'စတင်သူ %1$s';
 
-$Definition['TermsOfServiceText'] = '
-   <p>You agree, through your use of this service, that you will not use this
-   community to post any material which is knowingly false and/or defamatory,
-   inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually
-   oriented, threatening, invasive of a person\'s privacy, or otherwise violative
-   of any law. You agree not to post any copyrighted material unless the
-   copyright is owned by you.</p>
-   
-   <p>We at this community also reserve the right to reveal your identity (or
-   whatever information we know about you) in the event of a complaint or legal
-   action arising from any message posted by you. We log all internet protocol
-   addresses accessing this web site.</p>
-   
-   <p>Please note that advertisements, chain letters, pyramid schemes, and
-   solicitations are inappropriate on this community.</p>
-   
-   <p>We reserve the right to remove any content for any reason or no reason at
-   all. We reserve the right to terminate any membership for any reason or no
-   reason at all.</p>
-   
-   <p>You must be at least 13 years of age to use this service.</p>
-';
 $Definition['their'] = 'သူတို့';
 $Definition['they'] = 'သူတို့';
 $Definition['This discussion has been closed.'] = 'ဒီဆွေးနွေးချက် ကို ပိတ်ထား ပြီးပါပြီ။';
@@ -448,7 +416,6 @@ $Definition['Unknown'] = 'မသိ';
 $Definition['Unread Discussions'] = 'မဖတ်ရသေး ဆွေးနွေးချက်';
 $Definition['Unspecified'] = 'သတ်မှတ်ထားခြင်း မရှိ';
 $Definition['Uploading...'] = 'တင်နေသည် ...';
-$Definition['Username'] = 'အသုံးပြုသူ နာမည်';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'အသုံးပြုသူ အမည်သည် စာလုံး ၊ နံပတ် နှင့် underscores သာ ပါဝင်ခွင့်ရှိသည်။';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'အသုံးပြုသူ အမည်သည် စာလုံး ၊ နံပတ် ၊ underscores တို့ သာ ထည့်သွင်းခွင့်ရှိပြီး စာလုံး 3 လုံးမှ အလုံး 20 ကြားဖြစ်ရမည်။';
 $Definition['UsernameError'] = 'အသုံးပြုသူ အမည်သည် စာလုံး ၊ နံပတ် ၊ underscores တို့ သာ ထည့်သွင်းခွင့်ရှိပြီး စာလုံး 3 လုံးမှ အလုံး 20 ကြားဖြစ်ရမည်။';
@@ -459,7 +426,6 @@ $Definition['ValidateMinimumAge'] = 'You must be at least 16 years old to procee
 $Definition['ValidateRequiredArray'] = 'အနည်းဆုံး %s တစ်ခု ရွေးရန်လိုသည်။';
 $Definition['ValidateTime'] = '%s သည် မှန််ကန်သည့် အချိန် ပုံစံ မဟုတ်ပါ။';
 $Definition['ValidateTimestamp'] = '%s သည် မှန်ကန်သည့် timestamp မဟုတ်ပါ။';
-$Definition['Value'] = 'Condition Expression';
 $Definition['Verified'] = 'စစ်ဆေးပြီး';
 $Definition['via %s'] = 'မှ %s';
 $Definition['Views'] = 'ကြည့်ရှုမှု';

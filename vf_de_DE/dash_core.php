@@ -47,8 +47,6 @@ $Definition['[%s] Invitation'] = '[%s] Einladung';
 $Definition['[%s] Password Reset'] = '[%s] Passwort zurücksetzen';
 $Definition['[%s] Password Reset Request'] = '[%s] Antrag zum zurücksetzen des Passworts';
 
-$Definition['_Locale'] = 'Lokalisierung';
-
 $Definition['a Badge'] = 'ein Badge';
 $Definition['Abilites'] = 'Fähigkeiten';
 $Definition['About.DisableStatistics'] = 'Falls du die Datenübermittlung aus Unternehmensgründen abschalten musst, kannst du das tun indem du diesen Code in der Konfigurationsdatei der Installation hinzufügst: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
@@ -73,7 +71,6 @@ $Definition['Add Info &amp; Create Account'] = 'Infos ergänzen &amp; Konto erst
 $Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'Füge Informationen in das Formularfeld für E-Mail-Adressen ein, um Antworten zu erleichtern (empfohlen).';
 $Definition['Adding & Editing Categories'] = 'Kategorien bearbeiten';
 $Definition['Add Item'] = 'Element hinzufügen';
-$Definition['AddonProblems'] = '<h2>Probleme?</h2><p>Wenn etwas schief geht mit einem Addon und du die Seite nicht verwenden kannst, kannst du das Addon manuell deaktiviren durch das editieren von:</p>%s';
 $Definition['Add Role'] = 'Rolle hinzufügen';
 $Definition['Add User'] = 'Nutzer hinzufügen';
 $Definition['Advanced'] = 'Erweitert';
@@ -103,7 +100,6 @@ $Definition['Appearance'] = 'Aussehen';
 $Definition['Applicant'] = 'Bewerber';
 $Definition['Applicant Role'] = 'Wähle eine Rolle für neue Bewerber.';
 $Definition['Application'] = 'Anwendung';
-$Definition['ApplicationHelp'] = 'Durch Anwendungen kann man grundlegende Funktionen hinzufügen.<br /> Sobald eine Anwendung in den Ordner %s kopiert wurde, kann sie hier aktiviert werden.';
 $Definition['Application ID'] = 'Anwendung-ID';
 $Definition['Applications'] = 'Anwendungen';
 $Definition['Application Secret'] = 'Anwendung-Secret';
@@ -595,7 +591,6 @@ $Definition['Permissions'] = 'Berechtigungen';
 $Definition['Place nested categories in a comma-delimited list when they are'] = 'Platziere verschachtelte Kategorien in einer von Kommata separierten Liste, wenn sie';
 $Definition['Please choose an authenticator to configure.'] = 'Wähle ein Authentifizierungs-Plugin zum Konfigurieren.';
 $Definition['Please Confirm'] = 'Bitte bestätige';
-$Definition['PluginHelp'] = 'Plugins erlauben das Hinzufügen von einfachen Funktionen zur Seite.<br />Sobald ein Plugin in den Ordner %s kopiert wurde, kann es hier aktiviert werden.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Das Pocket wird zwischen jeder Diskussion auf der Hauptdiskussionsliste angezeigt. Da Diskussionen für gewöhnlich in &lt;li&gt;..&lt;/li&gt; Tags eingeschlossen sind, musst du deine Pockets ebenfalls in diese Tags packen.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Mit Pockets kannst du freies HTML an verschiedenen Orten in der Anwendung hinzufügen.';
 $Definition['Points'] = 'Punkte';
@@ -663,7 +658,6 @@ $Definition['Routes can be used to redirect users to various parts of your site 
 $Definition['Run structure & data scripts'] = 'Struktur und Daten Upgrade ausführen';
 
 $Definition['Save Captured Definitions'] = 'Erhaltene Definitionen speichern';
-$Definition['Saved'] = 'Deine Änderungen wurden gespeichert.';
 $Definition['SaveLocalePack'] = 'Speichern';
 $Definition['Save Translations from a Locale Pack'] = 'Übersetzungen eines Lokalisationspakets speichern';
 $Definition['Search by user or role.'] = 'Suche nach Nutzern durch Eingabe des Nutzernamens oder gib den Namen einer Rolle an, um alle Nutzer zu sehen die diese Rolle einnehmen.';
@@ -744,7 +738,6 @@ $Definition['The import file is not in the correct format.'] = 'Die Import-Datei
 $Definition['The invitation was removed successfully.'] = 'Die Einladung wurde erfolgreich entfernt.';
 $Definition['The invitation was sent successfully.'] = 'Die Einladung wurde erfolgreich versandt.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Der Ort der jsonp-formatierten Authentifizierungsdaten.';
-$Definition['ThemeHelp'] = 'Themes erlauben es, das Aussehen der Seite anzupassen.<br />Sobald ein Theme in den Ordner %s kopiert wurde, kann es hier aktiviert werden.';
 $Definition['Theme Options'] = 'Themen-Optionen';
 $Definition['Themes'] = 'Themen';
 $Definition['Theming Overview'] = 'Theming Übersicht';
@@ -864,7 +857,6 @@ $Definition['Warning'] = 'Warnung';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Warning: Alle deine Daten gehen verloren. Nachdem du das Löschen bestätigt hast, wird es keinerlei Daten mehr geben.';
 $Definition['Warning: deleting is permanent'] = '<b>Warnung</b>: Gelöschte Elemente werden aus der Liste entfernt un können nicht wiederhergestellt werden.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warnung</b>: Die Serverkonfiguration unterstützt nicht das schnelle Laden von Daten. Falls sehr grosse Dateien importiert werden (> 200.000 Kommentare), empfiehlt sich eine Anpassung der Konfiguration. Für weitere Informationen <a href="http://vanillaforums.com/porter">hier</a> klicken.';
-$Definition['Warning: This is for advanced users.'] = '<b>Warnung</b>: Dies ist für erfahrene Benutzer gedacht und erfordert zusätzliche Änderungen am Webserver. Dies ist normalerweise nur dann möglich, wenn du dedizierte Server oder VPS-Hosting betreibst. Wähle diese Option nicht, wenn du nicht weißt, was du tust!';
 $Definition['Welcome to Vanilla!'] = 'Willkommen bei Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Willkommen auf deinem Dashboard';
 $Definition['We only accept urls that begin with http:// or https://'] = 'Ausschließlich URLs, die mit http:// oder https:// beginnen sind erlaubt';
