@@ -988,7 +988,7 @@ $Definition['You have selected %1$s.'] = 'Has seleccionado %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Has seleccionado %1$s en esta discusión. ';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Tienes que seleccionar al menos 2 discusiones para unirlas. ';
 $Definition['You must agree to the terms of service.'] = 'Debes aceptar los términos de servicio.';
-$Definition['You need to confirm your email address.'] = 'Es necesario que confirmes tu dirección de correo eletrónico. Haz clic <a href="{/entry/emailconfirmrequest,url}">aquí</a> para enviar el correo de confirmación nuevamente.';
+$Definition['You need to confirm your email address.'] = 'Es necesario que confirmes tu dirección de correo electrónico. Haz clic <a href="{/entry/emailconfirmrequest,url}">aquí</a> para enviar el correo de confirmación nuevamente.';
 $Definition['You need to sign in before you can do this.'] = 'Necesitas iniciar sesión antes de poder hacer esto. ';
 $Definition['your'] = 'tu';
 $Definition['Your changes have been saved.'] = 'Tus cambios se han guardado';

@@ -94,10 +94,16 @@ $Definition['Authentication URL'] = 'URL de Autenticación';
 
 $Definition['Badge cannot be deleted.'] = 'La Insignia no se puede eliminar.';
 $Definition['Badge deleted.'] = 'Insignia eliminada.';
+$Definition['Badge Name'] = 'Nombre';
+$Definition['Ban Item'] = 'Ítem';
+$Definition['Banner Title'] = 'Título de la imagen de logo';
+$Definition['Ban Type'] = 'Tipo';
 
 $Definition['Categories &amp; Discussions'] = 'Categorías &amp; Temas';
 $Definition['Category Url:'] = 'URL de la Categoría:';
 $Definition['Click a tag name to edit. Click x to remove.'] = 'Da clic en la etiqueta para editar el nombre. Clic en X para eliminarla.';
+$Definition['Condition Expression'] = 'Valor';
+$Definition['Condition Type'] = 'Tipo';
 $Definition['Could not find a theme identified by \'%s\''] = 'No se pudo encontrar el diseño identificado por \'%s\'';
 $Definition['Created new badge'] = 'Crear nueva insignia';
 $Definition['Current Theme'] = 'Diseño Actual';
@@ -171,6 +177,7 @@ $Definition['Original Version'] = 'Versión Original';
 $Definition['Other'] = 'Otro';
 $Definition['Other Themes'] = 'Otros Diseños';
 
+$Definition['Permission.Category'] = 'Categoría';
 $Definition['Plugins.Tagging.Enabled'] = 'Plugins.Etiquetado.Activado';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Gruía rápida de cómo crear Diseños para Vanilla';
@@ -181,6 +188,7 @@ $Definition['Reply  To'] = 'Responder a';
 $Definition['Request'] = 'Solicitar';
 $Definition['Roles & Permissions'] = 'Roles & Permisos';
 
+$Definition['Saved'] = 'Se han grabado sus cambios.';
 $Definition['SaveLocalePack'] = 'Guardar';
 $Definition['Security'] = 'Seguridad';
 $Definition['Sign In Url'] = 'URL de inicio de sesión';
@@ -199,6 +207,7 @@ $Definition['To'] = 'Para';
 $Definition['Use Categories'] = 'Usar Categorías';
 $Definition['Use categories to organize discussions'] = 'Usar categorías para organizar los temas';
 $Definition['User Count'] = 'Usuarios';
+$Definition['UserKeep'] = 'Conservar el contenido del usuario';
 $Definition['Users'] = 'Usuarios';
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Usa estos campos para crear nuevos datos de perfil. Puedes incluir cosas como "¿Estado civil?", "Skype" o "Dinosaurio favorito". ¡Sé creativo!';
 
