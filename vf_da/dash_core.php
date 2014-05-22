@@ -32,13 +32,10 @@ $Definition['Abilites'] = 'Evner';
 $Definition['Accepted'] = 'Accepteret';
 $Definition['Action'] = 'Handling';
 $Definition['Add %s'] = 'Tilføj %s';
-$Definition['Add Category'] = 'sfdfs';
 $Definition['Add Info &amp; Create Account'] = 'Tilf¯j Info &amp; Lav Bruger';
-$Definition['AddonProblems'] = 'ffsfsdlksdlfnsd';
 $Definition['Addons'] = 'Tilf¯jelser';
 $Definition['Add User'] = 'Tilf¯j Bruger';
 $Definition['Advanced'] = 'Avanceret';
-$Definition['Advanced Forum Settings'] = 'Avancerede Forum Indstillinger';
 $Definition['All %1$s'] = 'Alle %1$s';
 $Definition['Appearance'] = 'Udseende';
 $Definition['Applicant'] = 'Ans¯ger';
@@ -51,10 +48,8 @@ $Definition['Apply'] = 'Ans¯g';
 $Definition['Approve'] = 'Godkend';
 $Definition['Archive Discussions'] = 'Arkiver Diskussioner';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'En url-version af kategori navnet for bedre SEO.';
-$Definition['Authentication'] = 'Autentificering';
 
 $Definition['Badge Name'] = 'Navn';
-$Definition['Banner Title'] = 'Banner Titel';
 $Definition['By %s'] = 'Af %s';
 $Definition['by %s'] = 'af %s';
 
@@ -67,8 +62,6 @@ $Definition['Choose who can send out invitations to new members:'] = 'VÊlg hvem
 $Definition['comment(s)'] = 'kommentar(er)';
 $Definition['Comments per Page'] = 'Kommentarer per side';
 $Definition['Configure an Authenticator'] = 'Konfigurerer en Godkendelsesprocedurer';
-$Definition['Consumer Key'] = 'Forbruger Kode';
-$Definition['Consumer Secret'] = 'Forbruger Hemmelighed';
 $Definition['Conversation Messages'] = 'Samtale Meddelelser';
 $Definition['Conversations'] = 'Samtaler';
 $Definition['Copy'] = 'Kopier';
@@ -90,12 +83,10 @@ $Definition['Discussions per Page'] = 'Diskussioner per Side';
 $Definition['edit'] = 'rediger';
 $Definition['Edit %s'] = 'Rediger %s';
 $Definition['Edit Category'] = 'Rediger Kategori';
-$Definition['EditContentTimeout.Notes'] = 'Note: Vis en bruger har en rolle som kan lave om pÂ indhold, De tilladelser vil lave om pÂ de vÊrdier her.';
 $Definition['Editing'] = 'Redigering';
 $Definition['Edit User'] = 'Rediger Bruger';
 $Definition['Enable'] = 'Aktiver';
 $Definition['Enabled %1$s'] = 'Aktiverede %1$s';
-$Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
 $Definition['Enable OpenID'] = 'Aktiver OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Indtast email adressen for personen du vil invitere:';
 $Definition['Existing members send invitations to new members.'] = 'Eksisterende medlemer sender invitationer til nye medlemmer.';
@@ -109,7 +100,6 @@ $Definition['Garden.Import.Description'] = 'Brug denne side til at importere dat
 $Definition['Garden.Import.InputInstructions'] = 'Indtast emailen og kodeord for admin brugeren fra dataen som bliver importeret.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Advarsel: Alt data i dette forum vil blive overskrevet.';
 $Definition['Generate'] = 'Generer';
-$Definition['Generate Client ID and Secret'] = 'Generer Client ID og Secret';
 $Definition['Google Sign In Settings'] = 'Google Sign In Indstillinger';
 $Definition['Guest'] = 'GÊst';
 
@@ -124,7 +114,6 @@ Tag og tjek vores nye forum ud. Det er et super sted for os til at kommunikere m
 
 Følg linket herunder for at logge ind.';
 
-$Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'ProxyConnect.RimBlurb';
 $Definition['Import'] = 'Importer';
 $Definition['Invitation Code'] = 'Invitations Kode';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'NÂr du bruger registrer med invitation brugere vil have et link kaldet <a href="%s" class="Popup">Mine Invitationer</a> pÂ deres profil.';
@@ -153,7 +142,6 @@ $Definition['Manage Routes'] = 'Administrer Ruter';
 $Definition['Manage Spam'] = 'Administrer Spam';
 $Definition['Manage Themes'] = 'Administrer Temaer';
 $Definition['Manage Users'] = 'Administrer Brugere';
-$Definition['Manage your Plugins'] = 'Administrer dine Plugins';
 $Definition['Max Comment Length'] = 'Maximum Kommentar lÊngde';
 $Definition['Member'] = 'Medlem';
 $Definition['Messages can appear anywhere in your application.'] = 'Beskeder kan ses overalt i din ans¯gning, og kan blive brugt til informere dine brugere om nyheder og begivenheder. Brug denne side til at re-organisere dine beskeder ved at trÊkke dem op og ned.';
@@ -177,12 +165,10 @@ $Definition['New users in the last week'] = 'Nye brugere i den forrige uge';
 
 $Definition['On'] = 'PÂ';
 $Definition['Only Allow Each User To Post'] = 'Giv kun hver bruger adgang';
-$Definition['Or Spamblock For'] = 'Eller Spamblock  For';
 $Definition['Other Themes'] = 'Andre temaer';
 $Definition['Outgoing Email'] = 'UdgÂende Email';
 
 $Definition['Page'] = 'Side';
-$Definition['Panel Box'] = 'Panel Boks';
 $Definition['Password Options'] = 'Kodeords Indstillinger';
 $Definition['Permission.Category'] = 'Kategori';
 $Definition['Please choose an authenticator to configure.'] = 'VÊlg venligst et godkendelsesskema at konfigurere.';
@@ -193,11 +179,10 @@ $Definition['Public Key'] = 'Offentlig Kode';
 
 $Definition['Recently Active Users'] = 'For nylig Aktive  Brugere';
 $Definition['Refresh Comments'] = 'OpdatÈr Kommentarer';
-$Definition['Registration'] = 'Registrering';
 $Definition['Remove'] = 'Fjern';
 $Definition['Requires: '] = 'KrÊver: ';
 $Definition['Reset password and send email notification to user'] = 'Nulstil kodeord og send email meddelelse til bruger';
-$Definition['Reveal Password'] = 'Afsl¯r Kodeord';
+$Definition['Reveal Password'] = 'Vis kodeord';
 $Definition['Role'] = 'Rolle';
 $Definition['Roles & Permissions'] = 'Roller & Tilladelser';
 $Definition['Roles determine user\'s permissions.'] = 'Hver bruger pÂ dit forum har mindst en rolle. Roller kan blive brugt til at bestemme hvad brugeren kan.';
@@ -217,7 +202,6 @@ $Definition['SMTP Security'] = 'SMTP Sikkerhed';
 $Definition['SMTP User'] = 'SMTP Bruger';
 
 $Definition['Temporary (302)'] = 'Midlertidig (302)';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'Tak!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s Godkendelsesskema har ikke nogen brugerdefineret konfigurationsmuligheder.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'tilf¯jelsen kunne ikke blive aktiveret fordi den genererede en fejl: <pre>%s</pre>';
@@ -226,8 +210,7 @@ $Definition['The banner title appears on the top-left of every page. If a banner
 $Definition['ThemeHelp'] = 'Temaer kan lave om pÂ udseendet &amp; F¯l din side.<br />NÂr et tema er blevet tilf¯jet til %s mappe, Du kan aktivere det her.';
 $Definition['Themes'] = 'Temaer';
 $Definition['There are currently no applicants.'] = 'Der er ikke nogle ans¯gninger.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Denne plugin Giver brugere adgang til at logge ind med OpenID. <b>VÊr sikker pÂ du klikker pÂ indstillinger efter aktiveringen af denne plugin for at aktivere OpenID log ind</b>.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Denne plugin Giver brugere adgang til at logge ind med deres Google bruger. <b>VÊr sikker pÂ du klikker pÂ indstillinger efter aktiveringen af denne plugin for at aktivere Google log ind</b>.';
+$Definition['Thumbnails'] = 'Miniaturer';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect giver brugere adgang til at logge ind med deres Twitter bruger. <b>Du skal registrere din ans¯gning med Twitter for dette plugin til at virke.</b>';
 
 $Definition['Unlimited'] = 'UbegrÊnset';
@@ -247,6 +230,7 @@ $Definition['Within'] = 'Inden';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Hvis du  nogensinde er lÂst ude  af dit forum, kan du altid  logge ind med din oprindelige  Vanilla e-mail og adgangskode  pÂ <a href="%1$s">%1$s</a>';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Du kan ikke  deaktivere %1$s plugin fordi %2$s plugin er n¯dvÊndigt for at virke.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Du kan ikke deaktivere OpenID plugin fordi Google Log ind plugin krÊver det for at fungere.';
+$Definition['You cannot edit the thumbnail of another member.'] = 'Du kan ikke ændre andre medlemmers profilbilleder.';
 $Definition['You can place files in your /uploads folder.'] = 'Hvis din  fil er for
 stor til at uploade direkte til denne side kan du placere den i din /uploads
 mappe. S¯rg for, at filnavnet starter med ordet <b>eksport</ b> og slutter
