@@ -345,6 +345,7 @@ $Definition['Visits'] = 'Visites';
 $Definition['Visit Site'] = 'Visitar Sitio';
 
 $Definition['wall'] = 'mur';
+$Definition['Warning'] = 'Advertencia';
 $Definition['Welcome Aboard!'] = 'Benvingut a la comunitat!';
 $Definition['Write a comment'] = 'Escriu un comentari';
 $Definition['Write Comment'] = 'Escriure Comentari';

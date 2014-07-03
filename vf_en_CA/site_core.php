@@ -92,8 +92,6 @@ $Definition['Activity.AboutUpdate.FullHeadline'] = 'Activity.AboutUpdate.FullHea
 $Definition['Activity.AboutUpdate.ProfileHeadline'] = 'Activity.AboutUpdate.ProfileHeadline';
 $Definition['Activity.AddedToConversation.FullHeadline'] = 'Activity.AddedToConversation.FullHeadline';
 $Definition['Activity.AddedToConversation.ProfileHeadline'] = 'Activity.AddedToConversation.ProfileHeadline';
-$Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s accepted %4$s %8$s.';
-$Definition['Activity.AnswerAccepted.ProfileHeadline'] = 'Activity.AnswerAccepted.ProfileHeadline';
 $Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s commented on your %8$s.';
 $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s commented on your %8$s.';
 $Definition['Activity.Comment'] = 'Comment';
@@ -122,7 +120,6 @@ $Definition['Activity.NewDiscussion.ProfileHeadline'] = 'Activity.NewDiscussion.
 $Definition['Activity.NewRoles'] = 'Activity.NewRoles';
 $Definition['Activity.PictureChange.FullHeadline'] = '%1$s changed %6$s profile picture.';
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s changed %6$s profile picture.';
-$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
 $Definition['Activity.RoleChange.FullHeadline'] = 'Activity.RoleChange.FullHeadline';
 $Definition['Activity.RoleChange.ProfileHeadline'] = 'Activity.RoleChange.ProfileHeadline';
 $Definition['Activity.SignIn.FullHeadline'] = 'Activity.SignIn.FullHeadline';
@@ -477,6 +474,7 @@ $Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you wan
 
 $Definition['Hang on a sec while we sign you out.'] = 'Hang on a sec while we sign you out.';
 $Definition['he'] = 'he';
+$Definition['HeadlingFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} commented on <a href="{Url,html}">{Data.Name,text}</a>';

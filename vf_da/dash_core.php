@@ -50,6 +50,7 @@ $Definition['Archive Discussions'] = 'Arkiver Diskussioner';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'En url-version af kategori navnet for bedre SEO.';
 
 $Definition['Badge Name'] = 'Navn';
+$Definition['Banner Title'] = 'Bannertitel';
 $Definition['By %s'] = 'Af %s';
 $Definition['by %s'] = 'af %s';
 
@@ -61,6 +62,7 @@ $Definition['Choose and configure your forum\'s authentication scheme.'] = 'VÊl
 $Definition['Choose who can send out invitations to new members:'] = 'VÊlg hvem der kan sende invitationer til nye medlemmer:';
 $Definition['comment(s)'] = 'kommentar(er)';
 $Definition['Comments per Page'] = 'Kommentarer per side';
+$Definition['Condition Expression'] = 'Værdi';
 $Definition['Configure an Authenticator'] = 'Konfigurerer en Godkendelsesprocedurer';
 $Definition['Conversation Messages'] = 'Samtale Meddelelser';
 $Definition['Conversations'] = 'Samtaler';
@@ -216,6 +218,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Unlimited'] = 'UbegrÊnset';
 $Definition['User'] = 'Bruger';
 $Definition['User Count'] = 'Brugere';
+$Definition['UserKeep'] = 'Behold brugerindhold';
 $Definition['User Registration Settings'] = 'Bruger Registreringsindstillinger';
 $Definition['Users'] = 'Brugere';
 

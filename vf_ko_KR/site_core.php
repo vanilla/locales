@@ -366,6 +366,7 @@ $Definition['Value'] = 'Condition Expression';
 $Definition['Visits'] = '방문횟수';
 $Definition['Visit Site'] = '사이트 바로가기';
 
+$Definition['Warning'] = '경고';
 $Definition['Welcome Aboard!'] = '환영합니다!';
 $Definition['Write a comment'] = '글 작성하기';
 $Definition['Write Comment'] = '글 작성하기';

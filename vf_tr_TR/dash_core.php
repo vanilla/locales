@@ -13,13 +13,15 @@ $Definition['%s site(s) found.'] = '%s site bulundu';
 $Definition['%s sources(s) found.'] = '%s kaynak bulundu.';
 $Definition['%s times'] = '%s defa';
 $Definition['%s unavailable'] = '%s mevcut değil';
-$Definition['%s user(s) found.'] = '%s kullanıcı bulundu';
+$Definition['%s user(s) found.'] = '%s kullanıcı bulundu.';
 $Definition['%s user(s) will be affected by this action.'] = '%s kullanıcı bu işlemden etkilenecek.';
 $Definition['%s years.'] = '%s yıl.';
 
 $Definition['(less)'] = '(daha az)';
 $Definition['(more)'] = '(daha fazlası)';
 $Definition['(YYYY-mm-dd)'] = '(YYYY-aa-gg)';
+
+$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Topluluk forumu tüm kullanıcılarınızın ve müşterilerinizin ziyaret ettikleri zaman görecekleleri şeydir. ';
 
 $Definition['1 day'] = '1 gün';
 $Definition['1 hour'] = '1 saat';
@@ -40,8 +42,12 @@ $Definition['<strong>Categories</strong>'] = '<strong>Kategoriler</strong>';
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Kategoriler</strong> tartışmalarınızı organize etmenizi sağlar. Kategoriler sadece tartışmaları içerebilir.';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Dikkat Et!</strong> Bir rolü kaldırmak kullanıcıların bir uygulamaya erişimini engelleyebilir. ';
 
+$Definition['_Locale'] = 'Yerel';
+
+$Definition['a Badge'] = 'bir Rozet';
 $Definition['About.DisableStatistics'] = 'Eğer veri bildirimlerini devre dışı bırakmak zorundaysanız, aşağıdaki kodu kurulumunuzun yapılandırma dosyasına ekleyerek yapabilirsiniz:  <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['AboutCommentEmbedding'] = 'Vanilla blogunuzun yerel yorum sistemine alternatif olarak kullanılabilir. Doğrusu, herhangi bir internet sitesine yorum eklemek için de kullanılabilir.';
+$Definition['AboutEmbedding'] = 'Gömme işlemi topluluğunuzun bir parçasını ya da tamamını bir başka uygulama veya web sayfası içine yerleştrirebilmenizi sağlar. ';
 $Definition['About Vanilla Statistics'] = 'Vanilla İstatistikleri Hakkında';
 $Definition['Above Main Content'] = 'Ana İçeriğin Üstünde';
 $Definition['Accepted'] = 'Kabul edildi';
@@ -52,9 +58,10 @@ $Definition['Actions Based on Votes'] = 'Oylara Bağlı Hareketler';
 $Definition['Activity Item'] = 'Etkinlik Öğesi';
 $Definition['Activity item not found.'] = 'Etkinlik öğesi bulunamadı.';
 $Definition['Add %s'] = '%s Ekle';
+$Definition['Add a new Pocket to your site.'] = 'Sitenize yeni bir Cep ekleyin.';
 $Definition['Add Category'] = 'Kategori Ekle';
 $Definition['Add Connection'] = 'Bağlantı Ekle';
-$Definition['Added By'] = 'Tarafından Eklendi';
+$Definition['Added By'] = 'Ekleyen';
 $Definition['Add Info &amp; Create Account'] = 'Bilgi Ekle &amp; Hesap Oluştur';
 $Definition['Adding & Editing Categories'] = 'Kategori Ekleme ve Düzenleme';
 $Definition['Add Item'] = 'Öğe Ekle';
@@ -68,6 +75,7 @@ $Definition['Advanced Embed Settings'] = 'Detaylı Embed Ayarları';
 $Definition['Advanced Forum Settings'] = 'Gelişmiş Forum Ayarları';
 $Definition['Advanced Options'] = 'Gelişmiş Seçenekler';
 $Definition['Advanced Settings'] = 'Gelişmiş Ayarlar';
+$Definition['Advanced settings for embedded community elements'] = 'Gömülü topluluk elementleri için gelişmiş ayarlar';
 $Definition['After'] = 'Sonra';
 $Definition['Alive'] = 'Canlı';
 $Definition['All'] = 'Tümü';
@@ -85,7 +93,7 @@ $Definition['Appearance'] = 'Görünüm';
 $Definition['Applicant'] = 'Başvuran';
 $Definition['Application'] = 'Uygulama';
 $Definition['ApplicationHelp'] = 'Uygulamalar sitenize büyük işlevler eklemenizi sağlar <br/> %s klasörünüze bir uygulama eklendiğinde, buradan etkinleştirebilir veya devre dışı bırakabilirsin.';
-$Definition['Application ID'] = 'Uygulama ID';
+$Definition['Application ID'] = 'Uygulama Kimliği';
 $Definition['Applications'] = 'Uygulamalar';
 $Definition['Application Secret'] = 'Uygulama Sırrı';
 $Definition['Applied Manually'] = 'Elle Uygulandı';
@@ -124,7 +132,7 @@ $Definition['Badge deleted.'] = 'Rozet silindi.';
 $Definition['Badge Name'] = 'İsim';
 $Definition['BadgeRecipientsHeading'] = 'En son alıcılar';
 $Definition['Ban Item'] = 'Öğe';
-$Definition['Ban List'] = 'Yasalı Listesi';
+$Definition['Ban List'] = 'Engel Listesi';
 $Definition['Banner'] = 'Manşet';
 $Definition['Banner Logo'] = 'Manşet Logosu';
 $Definition['Banner Title'] = 'Manşet Başlığı';
@@ -186,6 +194,7 @@ $Definition['Condition Expression'] = 'Değer';
 $Definition['Condition Field'] = 'Alan';
 $Definition['Conditions'] = 'Şartlar';
 $Definition['Condition Type'] = 'Tür';
+$Definition['Configure an Authenticator'] = 'Yetkilendirici Yapılandırması';
 $Definition['Configuring Vanilla\'s Homepage'] = 'Vanilla\'nın Anasayfasını Düzenleme';
 $Definition['Confirmation  Body'] = 'Onaylama Gövdesi';
 $Definition['Confirm email addresses'] = 'Kullanıcılar e-posta adreslerini onaylamalı (önerilir)';
@@ -213,10 +222,12 @@ $Definition['Criteria'] = 'Kriter';
 $Definition['Current File:'] = 'Mevcut Dosya:';
 $Definition['Current Theme'] = 'Mevcut Tema:';
 
+$Definition['Database Structure Upgrades'] = 'Veritabanı Yapı Yükseltmeleri';
 $Definition['Debugger'] = 'Hata Ayıklayıcı';
 $Definition['Debug Information'] = 'Hata Ayıklama Bilgileri';
 $Definition['Decline'] = 'Reddet';
 $Definition['Default'] = 'Varsayılan';
+$Definition['default'] = 'varsayılan';
 $Definition['Default %s Permissions'] = 'Varsayılan %s İzinleri';
 $Definition['Default  Category'] = 'Varsayılan Kategori';
 $Definition['Default Category Permissions'] = 'Varsayılan Kategori İzinleri';
@@ -254,11 +265,13 @@ $Definition['Discussions per Page'] = 'Sayfa başına tartışmalar';
 $Definition['Discussion  Subject'] = 'Tartışma Konusu';
 $Definition['Display in dashboard. (not recommended)'] = 'Panoda Göster. (Tavsiye edilmez.)';
 $Definition['Disqus Settings'] = 'Disqus Ayarları';
+$Definition['Don\'t display for embedded comments.'] = 'Gömülü yorumlar için gösterme.';
 $Definition['Don\'t Refresh'] = 'Yenilemeyiniz';
 $Definition['Don\'t use Categories'] = 'Kategori kullanma';
+$Definition['Do not display the categories in the side panel.'] = 'Kategoriler yan panelde görüntülenmez.';
 $Definition['Download Locale List'] = 'Yerel listeyi indir';
-$Definition['DownloadLocalePack'] = 'İndir';
 $Definition['Download Locale Pack'] = 'Yerel paketi indir';
+$Definition['DownloadLocalePack'] = 'İndir';
 
 $Definition['edit'] = 'düzenle';
 $Definition['Edit %s'] = '%s Düzenle ';
@@ -299,8 +312,10 @@ $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; 
 $Definition['Every Page'] = 'Her Sayfa';
 $Definition['Everything is ok.'] = 'Her şey tamam.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Sitenizdeki her kullanıcı en az bir yetkiye sahiptir. Yetkiler hangi kullanıcının neler yapabileceğini belirler.';
+$Definition['Existing members send invitations to new members.'] = 'Varolan üyeler yeni üyelere davetiye gönderebilir.';
 $Definition['Exit Preview'] = 'Önizlemeden Çık';
 
+$Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Bağı, kullanıcılara kendi Facebook hesaplarını kullanmalarına izin verir. <b>İşe yaraması için uygulamanızı Facebook\'a kaydetmelisiniz.</b>';
 $Definition['Facebook Settings'] = 'Facebook Ayarları';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Veritabanı girdiğiniz kullanıcı adı ve şifreyle başarısız oldu. Yanlış mı yazdınız? Veritabanı iletisi:  <code>%s</code>';
 $Definition['Failure'] = 'Başarısızlık';
@@ -310,7 +325,7 @@ $Definition['FileUpload is currently OFF'] = 'Dosya yüklemesi şuan için KAPAL
 $Definition['FileUpload is currently ON'] = 'Dosya yüklemesi şuan AÇIK';
 $Definition['Finished'] = 'Bitti';
 $Definition['First Visit'] = 'İlk Ziyaret';
-$Definition['Flood Control'] = 'Flood Kontrol';
+$Definition['Flood Control'] = 'Flood Denetimi';
 $Definition['Forum Settings'] = 'Forum Ayarları';
 $Definition['Frequency'] = 'Sıklık';
 
@@ -320,12 +335,15 @@ $Definition['Garden.Import.Merge'] = 'Bu forumla birleştir.';
 $Definition['Garden.Import.Overwrite'] = 'Bu forum üzerine yaz.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Uyarı: Forumdaki tüm veriler üzerine yazılabilir.';
 $Definition['Garden.StatisticsDisabled'] = 'Vanilla İstatistiklerini konfigürasyon dosyanızın içinden devre dışı bırakabilirsiniz.';
+$Definition['Gave badge to users.'] = 'Rozet verilen kullanıcılar.';
 $Definition['Generate'] = 'Oluştur';
 $Definition['Generate sphinx.conf'] = 'sphinx.conf Oluştur';
 $Definition['Get More Applications'] = 'Daha Fazla Uygulama Edinin';
 $Definition['Get More Plugins'] = 'Daha fazla eklenti';
 $Definition['Get More Themes'] = 'Daha fazla tema';
 $Definition['Getting Started'] = 'Başlarken';
+$Definition['Getting Started with Vanilla'] = 'Vanilla ile Başlarken';
+$Definition['give'] = 'al';
 $Definition['Give an Badge'] = 'Bir Rozet Al';
 $Definition['Give me a new account'] = 'Bana yeni bir üyelik ver';
 $Definition['Google Sign In Settings'] = 'Google Giriş Ayarları';
@@ -333,12 +351,32 @@ $Definition['Guest'] = 'Misafir';
 $Definition['Guest roles'] = 'Misafirlere uygulanacak rolleri kontrol et.';
 
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You}  {ActivityUserID,your} kullanıcısının profil resmi değiştirildi.';
+$Definition['Heads up!'] = 'Uyarı!';
 $Definition['Help &amp; Tutorials'] = 'Yardım &amp; Eğitimler';
 $Definition['Here\'s how to get started'] = 'Buradan başlayabilirsin';
 $Definition['Here\'s how to get started:'] = 'Buradan başlayabilirsin:';
 $Definition['Hidden for everything!'] = 'Her şey için gizlendi!';
 $Definition['Hidden for mobile'] = 'Mobile için gizlendi';
 $Definition['Hide  Fields'] = 'Gizli alanlar';
+$Definition['Hide Pocket Locations'] = 'Cep Yerlerini Gizle';
+$Definition['Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.'] = 'Dostum Merhaba!
+
+Yeni forumu henüz oluşturdum, diğer çevrimiçi olanlarla chat yapmak için harika bir yer.
+
+Bu bağlantı ile giriş yapabilirsin.';
+$Definition['Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.'] = 'Dostum Merhaba!
+
+Yeni forumu henüz oluşturdum, diğer çevrimiçi olanlarla chat yapmak için harika bir yer.
+
+Bu bağlantı ile giriş yapabilirsin.';
 $Definition['Homepage'] = 'Anasayfa';
 $Definition['Homepage Title'] = 'Anasayfa Başlığı';
 $Definition['How to use themes'] = 'Temalar nasıl kullanılır?';
@@ -347,13 +385,22 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Dosyanız 20MB\'dan büyükse başka bir servise yüklemelisiniz.';
 $Definition['If your file is small then just upload it here.'] = 'Dosyanız küçükse,onu buraya yükleyin.';
 $Definition['Import'] = 'İçeri aktar.';
+$Definition['Importing to Vanilla'] = 'Vanilla\'ya Aktarma';
 $Definition['Inbox Page'] = 'Gelen Kutusu';
+$Definition['Indexes'] = 'İndeksler';
 $Definition['Information'] = 'Bilgilendirme';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Vanilla\'yı bir .htaccess dosyası olmadan yükleyin.';
+$Definition['Internaltionalization & Localization'] = 'Evrenselleştirme & Yerelleştirme';
+$Definition['Introducing Vanilla Comments'] = 'Vanilla Yorumları Tanıtımı';
+$Definition['Introducing Vanilla Reactions and Badges'] = 'Vanilla Tepki ve Rozet Tanıtımı';
+$Definition['Invalid category for deletion.'] = 'Silmek için geçersiz kategori.';
 $Definition['Invitation'] = 'Davet';
 $Definition['Invitation Code'] = 'Davet Kodu';
+$Definition['Invitations per month'] = 'Her ay için davetiyeler';
+$Definition['Invitations will expire'] = 'Davetiyelerinnin süresi dolacak';
 $Definition['Invited by'] = 'Davet edildi';
 
+$Definition['jsConnect Documentation'] = 'jsConnect Dökümanları';
 $Definition['JS Connect Settings'] = 'JS Bağlantı Ayarları';
 
 $Definition['Key Type'] = 'Anahtar Türü';
@@ -366,6 +413,7 @@ $Definition['Limit the display of this plugin for mobile devices.'] = 'Mobil cih
 $Definition['Link my existing account'] = 'Varolan hesabımı bağla';
 $Definition['Locale Key (Folder)'] = 'Yerel Anahtar (Klasör)';
 $Definition['Locale Name'] = 'Yerel İsim';
+$Definition['Locales'] = 'Yerelleştirme';
 $Definition['Location'] = 'Yer';
 $Definition['LogoBrowse'] = 'Eğer değiştirmek isterseniz yeni banner logoları görüntüleyin:';
 
@@ -391,7 +439,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = '�
 $Definition['Max Comment Length'] = 'En Fazla Yorum Uzunluğu';
 $Definition['Media'] = 'Ortam';
 $Definition['Member'] = 'Üye';
-$Definition['Message ID'] = 'İleti ID';
+$Definition['Message ID'] = 'İleti Kimliği';
 $Definition['Method'] = 'Yöntem';
 $Definition['minute(s)'] = 'dakika(lar)';
 $Definition['Mixed Layout'] = 'Karışık Görünüm';
@@ -436,21 +484,36 @@ $Definition['Organize Categories'] = 'Kategorileri Organize Et';
 $Definition['Original Version'] = 'Orijinal Versiyon';
 $Definition['Other'] = 'Diğer';
 $Definition['Other Themes'] = 'Diğer Temalar';
+$Definition['Outgoing Email'] = 'Giden Eposta';
+$Definition['Outgoing Email Address'] = 'Giden Eposta Adresi';
 
 $Definition['page'] = 'sayfa';
 $Definition['Permission.Category'] = 'Kategori';
+$Definition['Plugin'] = 'Eklenti';
+$Definition['PluginHelp'] = 'Eklentiler web sitenize işlevler eklemenizi sağlar.<br /> Bir eklenti %s klasörüne eklendiğinde, onu buradan etkinleştirebilir veya kapatabilirsiniz. ';
+$Definition['Plugins'] = 'Eklentiler';
+$Definition['Polls'] = 'Anketler';
+$Definition['Private Key'] = 'Özel Anahtar';
+$Definition['Provider'] = 'Sağlayıcı';
 $Definition['Proxy Connect'] = 'Proxy Bağlantısı';
+$Definition['Proxy Connect Test'] = 'Vekil Bağlantı Testi';
 
+$Definition['Ranks'] = 'Dereceler';
 $Definition['Reaction'] = 'Tepki';
 $Definition['Reaction Types'] = 'Tepki Tipleri';
 $Definition['Recently Active Users'] = 'Son Etkin Kullanıcılar';
 $Definition['Recent News'] = 'Yeni Haberler';
 $Definition['Record Content'] = 'İçerik';
 $Definition['Register for Membership'] = 'Üyelik Kayıdı';
+$Definition['Register Url'] = 'Kayıt Adresi';
 $Definition['Registration'] = 'Kayıt';
 $Definition['Remove'] = 'Sil';
+$Definition['Remove Banner Logo'] = 'Manşet Logosunu Kaldır';
 $Definition['Remove Favicon'] = 'Faviconu Sil';
 $Definition['Repeat'] = 'Tekrar';
+$Definition['Repeat Every'] = 'Her Türlü Tekrarla';
+$Definition['Reply  To'] = 'Yanıtla';
+$Definition['Request'] = 'İstek';
 $Definition['Requires'] = 'Gerekli';
 $Definition['Requires: '] = 'Gerekli:';
 $Definition['Require users to confirm their email addresses (recommended)'] = 'Kullanıcılar e-posta adreslerini onaylamalı (önerilir)';
@@ -461,6 +524,7 @@ $Definition['Resetting the password for %s.'] = '%s kullanıcısı için şifre 
 $Definition['Restart'] = 'Yenile';
 $Definition['Restore'] = 'Tamir Et';
 $Definition['Restoring your selection removes the items from this list.'] = 'Tamir ettiğinizde sitenizde bu liste ve geriye dönüş öğeleri silinir.';
+$Definition['Reveal Password'] = 'Parola Alımı';
 $Definition['Role'] = 'Rol';
 $Definition['Role Name'] = 'Rol Adı';
 $Definition['Roles & Permissions'] = 'Roller & İzinler';
@@ -469,9 +533,11 @@ $Definition['Route'] = 'Yol';
 $Definition['Route Expression'] = 'Yol İfadesi';
 $Definition['Routes'] = 'Yollar';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Adrese bağlı olarak sitenizin farklı yerlerine kullanıcıları yollar sayesinde yönlendirebilirsiniz. ';
+$Definition['Run structure & data scripts'] = 'Yapıyı & veri scriptlerini çalıştır';
 
 $Definition['Saved'] = 'Değişiklikleriniz kaydedildi.';
 $Definition['SaveLocalePack'] = 'Kaydet';
+$Definition['Save Translations from a Locale Pack'] = 'Bir yerel paketten çevirileri kaydet';
 $Definition['seconds'] = 'saniyeler';
 $Definition['Security'] = 'Güvenlik';
 $Definition['Select'] = 'Seç';
@@ -486,6 +552,7 @@ $Definition['Sent To'] = 'Alıcı';
 $Definition['SignedOut'] = 'Giriş yaptınız.';
 $Definition['Sign in'] = 'Oturum Aç';
 $Definition['Silver'] = 'Gümüş';
+$Definition['Site Description'] = 'Site Açıklaması';
 $Definition['Site Name'] = 'Site İsmi';
 $Definition['Slug'] = 'Tembel';
 $Definition['SMTP Host'] = 'SMTP Sunucusu';
@@ -495,8 +562,8 @@ $Definition['SMTP Security'] = 'SMTP Güvenliği';
 $Definition['SMTP User'] = 'SMTP Kullanıcısı';
 $Definition['Source'] = 'Kaynak';
 $Definition['Start Import'] = 'İçeri Aktarmayı Başlat';
-$Definition['starting your first discussion'] = 'ilk tartışmayı başlat';
-$Definition['Statistics'] = 'İstetistikler';
+$Definition['starting your first discussion'] = 'ilk tartışmanızı başlatmak';
+$Definition['Statistics'] = 'İstatistikler';
 $Definition['Status'] = 'Durum';
 $Definition['Stop Forum Spam Settings'] = 'İstemneyen İleti Ayarlarını Durdur';
 $Definition['Styles'] = 'Stiller';
@@ -506,20 +573,84 @@ $Definition['Success'] = 'Başarılı';
 $Definition['System'] = 'Sistem';
 
 $Definition['Table Layout'] = 'Tablo Yapısı';
+$Definition['take away'] = 'gel götür';
 $Definition['Temporary (302)'] = 'Temporary  - Geçici (302)';
 $Definition['Testing'] = 'Test Ediliyor';
 $Definition['Text'] = 'Yazı';
 $Definition['TextEnterEmails'] = 'Email adresleri arasına burada birgül koyabilirsiniz';
 $Definition['Thank You!'] = 'Teşekkürler!';
+$Definition['The addon has already been downloaded.'] = 'Eklenti indirildi';
+$Definition['The import file does not contain any data.'] = 'İçeri aktarılacak dosya içerisinde veri yok.';
+$Definition['The import file is not in the correct format.'] = 'İçeri aktarılacak dosya doğru formatta değil.';
+$Definition['The invitation was removed successfully.'] = 'Davetiye başarıyla silindi.';
+$Definition['The invitation was sent successfully.'] = 'Davetiye başarıyla gönderildi.';
+$Definition['ThemeHelp'] = 'Temalar sitenizin görünüşünü ve hissini değiştirmenize izin verir.
+İlk bir temayı %s klasörünüze eklendikten sonra ve onu burada kullanabilirsiniz.';
+$Definition['Theme Options'] = 'Tema Seçenekleri';
+$Definition['Themes'] = 'Temalar';
+$Definition['Theming Overview'] = 'Temalara Genel Bakış';
+$Definition['The structure was successfully executed.'] = 'Yapı başarıyla düzenlendi.';
+$Definition['The update was not successful.'] = 'Güncelleme başarısız.';
+$Definition['The update was successful.'] = 'Güncelleme başarılı.';
+$Definition['The url that users use to sign in.'] = 'Kullanıcıların kullanacağı giriş urlsi.';
+$Definition['The user content will be completely deleted.'] = 'Kullanıcı içeriği tamamen silebilir.';
+$Definition['The user has been created successfully'] = 'Kullanıcı başarıyla oluşturuldu.';
+$Definition['The user has been deleted.'] = 'Kullanıcı silindi.';
+$Definition['This action cannot be undone.'] = 'Bu işlemden geri dönülemez.';
+$Definition['This category has custom permissions.'] = 'Bu kategorinin farklı izinleri mevcut.';
 $Definition['This connection is in test-mode.'] = 'Test modundaki bağlantı';
+$Definition['This Database'] = 'Bu Veritabanı';
+$Definition['This forum is currently set to invitation only mode.'] = 'Bu forum sadece davetiye moduna ayarlandı.';
+$Definition['Thumbnails'] = 'Küçük Resimler';
+$Definition['Titles'] = 'Başlıklar';
+$Definition['Try Again'] = 'Tekrar Deneyin';
+$Definition['Turn OFF'] = 'Kapat';
 
+$Definition['Unban'] = 'Engellemeyi Kaldır';
 $Definition['Uninvite'] = 'Davetsiz';
+$Definition['Universal Code'] = 'Evrensel Kod';
 $Definition['unknown'] = 'bilinmeyen';
 $Definition['Unlimited'] = 'Limitsiz';
+$Definition['Unviersal Forum Embed Code'] = 'Evrensel Forum Gömme Kodu';
+$Definition['Use an SMTP server to send email'] = 'E-posta göndermek için SMTP sunucusu kullan';
 $Definition['Use Categories'] = 'Kategorileri Kullan';
+$Definition['Use categories to organize discussions'] = 'Tartışmaları organize etmede kategorileri kullan';
 $Definition['Use Facebook names for usernames.'] = 'Facebook isimlerini kullanıcı adı olarak kullan.';
+$Definition['User'] = 'Kullanıcı';
+$Definition['User Count'] = 'Kullanıcılar';
+$Definition['UserDelete'] = 'Kullanıcı İçeriğini Sil';
+$Definition['User Deleted'] = 'Silinen Kullanıcı';
 $Definition['UserKeep'] = 'Kullanıcıya Ait İçerik Kalsın';
+$Definition['User Registration Settings'] = 'Kullanıcı Kayıt Ayarları';
+$Definition['Users'] = 'Kullanıcılar';
+$Definition['User Summary'] = 'Kullanıcı Özeti';
+$Definition['UserWipe'] = 'Boş Kullanıcı İçeriği';
 
-$Definition['version %s'] = 'versiyon %s';
+$Definition['Vanilla Configuration'] = 'Vanilla Yapılandırması';
+$Definition['Vanilla Cookie Domain'] = 'Vanilla Çerez Alanı Adı';
+$Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Dışarı Aktarma: %s, Kaynak: %s';
+$Definition['Vanilla is installed!'] = 'Vanilla Yüklendi!';
+$Definition['Vanilla Sphinx Help'] = 'Vanilla Sphinx Yardımı';
+$Definition['Vanilla Statistics are currently disabled'] = 'Vanilla İstatistikleri devre dışı bırakıldı';
+$Definition['Verified!'] = 'Doğrulandı!';
+$Definition['Version'] = 'Versiyon';
+$Definition['Version %s'] = 'Versiyon %s';
+$Definition['version %s'] = 'sürüm %s';
+$Definition['Video tutorial on advanced settings'] = 'Video eğitimleri detaylı ayarları';
+$Definition['View Page'] = 'Sayfa Görüntüleme';
 
+$Definition['Warning'] = 'Uyarı';
+$Definition['What\'s the Buzz?'] = 'Yeni neler var?';
+$Definition['Where is your Community Forum?'] = 'Topluluk forumunuz nerede?';
+$Definition['Who\'s Online Settings'] = 'Kimler Çevrimiçi Ayarları';
+$Definition['Why do you want to join?'] = 'Neden katılmak isteyeceksiniz?';
+
+$Definition['Yes, the following information can be changed later.'] = 'Evet, aşağıdaki bilgi sonradan değiştirilebilir. ';
+$Definition['You are connected as %s.'] = '%s ile bağlandınız.';
+$Definition['You are now signed in.'] = 'Giriş yaptınız.';
+$Definition['You are previewing the %s theme.'] = '%s temasını önizlementesiniz. ';
+$Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Bu tema için %s sayfasında HTML\'i ve CSS\'i özelleştirebilirsiniz. ';
+$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'OpenID eklentisini kaldıramazsınız çünkü GoogleSignIn eklentisinin çalışması için bu eklentiye ihtiyacı var. ';
+$Definition['You cannot edit the thumbnail of another member.'] = 'Bir başka üyenin küçük resmini düzenleyemezsiniz. ';
+$Definition['You cannot remove an invitation that has been accepted.'] = 'Kabul edilen bir davetyeyi kaldıramazsınız. ';
 $Definition['Your changes were saved successfully.'] = 'Değişiklikleriniz başarıyla kaydedildi.';

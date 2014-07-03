@@ -302,9 +302,6 @@ Nazwa użytkownika: {User.Name}
 E-mail: {User.Email}
 
 Masz dostęp do strony {/,url,domain}.';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['Enter your Email address'] = 'Wprowadź swój adres e-mail';
 $Definition['Enter your email address'] = 'Wprowadź swój adres e-mail';
 $Definition['Enter your Email address or username'] = 'Wpisz swój email lub nazwę użytkownika';
@@ -533,8 +530,8 @@ $Definition['Share'] = 'Podziel się';
 $Definition['she'] = 'ona';
 $Definition['Signature Code'] = 'Kod podpisu';
 $Definition['Signature Settings'] = 'Ustawienia podpisu';
-$Definition['Sign In'] = 'Zaloguj się';
 $Definition['SignIn'] = 'Zaloguj się';
+$Definition['Sign In'] = 'Zaloguj się';
 $Definition['Sign In with Facebook'] = 'Zaloguj się z Facebook';
 $Definition['Sign In with Google'] = 'Zaloguj się przy pomocy Google';
 $Definition['Sign In with OpenID'] = 'Zaloguj się przy pomocy OpenID';
@@ -621,6 +618,7 @@ $Definition['Visits'] = 'Wizyt';
 $Definition['Visit Site'] = 'Odwiedź stronę';
 
 $Definition['wall'] = 'tablica';
+$Definition['Warning'] = 'Ostrzeżenie';
 $Definition['Warnings'] = 'Ostrzeżenia';
 $Definition['Welcome Aboard!'] = 'Witaj na pokładzie!';
 $Definition['Where do you want to announce this discussion?'] = 'Gdzie chcesz ogłosić tą dyskusję?';

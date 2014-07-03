@@ -905,6 +905,7 @@ $Definition['Vote Up'] = 'امتیاز مثبت';
 $Definition['wall'] = 'دیوار';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'آیا مایلید در این جستار همکاری کنید؟ یکی از گزینه‌ها را بفشارید:';
 $Definition['Warn'] = 'هشدار دادن';
+$Definition['Warning'] = 'هشدار';
 $Definition['Warnings'] = 'هشدارها';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} به {WarnUserID,User} به‌خاطر {Points,plural,%s points} هشدار داد.';
 $Definition['was'] = 'بود';

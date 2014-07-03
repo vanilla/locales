@@ -15,7 +15,7 @@ $Definition['%s sources(s) found.'] = '%s источников найдено.';
 $Definition['%s times'] = '%s раз';
 $Definition['%s unavailable'] = '%s недоступно';
 $Definition['%s user(s) found.'] = '%s пользователь(ей) найден(о).';
-$Definition['%s user(s) will be affected by this action.'] = 'к %s пользователям будут применено данное действие.';
+$Definition['%s user(s) will be affected by this action.'] = 'к %s пользователю(-ям) будут применено данное действие.';
 $Definition['%s years.'] = '%s лет (год, года).';
 
 $Definition['(less)'] = '(скрыть)';
@@ -106,6 +106,9 @@ $Definition['Authors can edit for 5 minutes after posting'] = 'Автор не �
 $Definition['Authors can edit for 15 minutes after posting'] = 'Автор не сможет редактировать свой пост через 15 минут после публикации';
 $Definition['Authors can edit for 30 minutes after posting'] = 'Автор не сможет редактировать свой пост через 30 минут после публикации';
 $Definition['Authors cannot edit their posts'] = 'Автору вообще нельзя редактировать опубликованные посты';
+$Definition['Authors may always edit'] = 'Авторы всегда могут редактировать';
+$Definition['Authors may edit for %s'] = 'Авторы могут редактировать %s';
+$Definition['Authors may never edit'] = 'Авторы не могут редактировать';
 
 $Definition['Back to all users'] = 'Назад ко всем пользователям';
 $Definition['Back to Mobile Site'] = 'Назад, на мобильную версию';
@@ -283,7 +286,6 @@ Follow the link below to log in.'] = 'Привет чувак!
 $Definition['Homepage'] = 'Главная страница';
 $Definition['How to use themes'] = 'Используй новые темы';
 
-$Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'ProxyConnect.RimBlurb';
 $Definition['Import'] = 'Импорт';
 $Definition['Importing to Vanilla'] = 'Импортировать в Vanill\'u';
 $Definition['Information'] = 'Информация';
@@ -449,7 +451,6 @@ $Definition['Status'] = 'Статус';
 $Definition['Subject'] = 'Тема';
 
 $Definition['take away'] = 'отнять';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'Спасибо!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'Плагин %s не использует индивидуальные настройки';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'Аддон не может быть активирован потому, что он выдает фатальную ошибку: <pre>%s</pre>';

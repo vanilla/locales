@@ -4,7 +4,7 @@
   'Locale' => 'es_ES',
   'Name' => 'Spanish (Spain) Transifex',
   'Description' => 'Spanish (Spain) language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/es_ES/">here</a>.',
-  'Version' => '2014.05.07p1102',
+  'Version' => '2014.07.03p1422',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/es_ES/',
 );

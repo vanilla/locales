@@ -352,9 +352,6 @@ $Definition['EmailWelcomeRegister'] = 'נרשמת בהצלחה לחשבון ב {
    דוא"ל: {} User.Email ⏎
 ⏎
 אתה יכול לגשת לאתר   {exurl,domain,/}';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['English'] = 'אנגלית';
 $Definition['Enter your Email address'] = 'הזן את כתובת הדוא"ל שלך ';
 $Definition['Enter your email address'] = 'הזן את כתובת הדוא"ל שלך';
@@ -722,8 +719,8 @@ $Definition['Signature Code'] = 'קוד חתימה';
 $Definition['Signature invalid.'] = 'חתימה לא תקפה';
 $Definition['Signatures'] = 'חתימות';
 $Definition['Signature Settings'] = 'הגדרות חתימה';
-$Definition['Sign In'] = 'התחבר';
 $Definition['SignIn'] = 'התחבר';
+$Definition['Sign In'] = 'התחבר';
 $Definition['SigningOut'] = 'חכה רגע בזמן שאנחנו מנתקים אותך';
 $Definition['Sign in to vote!'] = 'התחבר להצביע!';
 $Definition['Sign In with %s'] = 'התחבר עם %s';
@@ -920,6 +917,7 @@ $Definition['Vote Up'] = 'הצבע למעלה';
 $Definition['wall'] = 'קיר';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'רוצה להשתתף הדיון הזה? לחץ על אחד מאלה';
 $Definition['Warn'] = 'הזהר';
+$Definition['Warning'] = 'אזהרה';
 $Definition['Warnings'] = 'אזהרות';
 $Definition['Website'] = 'אתר';
 $Definition['weeks'] = 'שבוע אתה';

@@ -396,9 +396,9 @@ Você registrou-se com sucesso em {Title}. Aqui vai a sua informação:(\\n)(\\n
 Você pode acessar o site em {/,url,domain}.(\\n)(\\n)
 
 Tenha um bom dia!';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>(\\n)
 <p>{Excerpt}</p>(\\n)
-<p><a href="{Url}">Mostrar mais</a></p><div class="ClearFix"></div></div>';
+<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>(\\n)
 <p>{Excerpt}</p>(\\n)
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
@@ -502,8 +502,8 @@ $Definition['Invalid password.'] = 'A senha que você digitou está incorreta. L
 $Definition['Invitations'] = 'Convites';
 $Definition['Invite'] = 'Convite';
 $Definition['InviteErrorPermission'] = 'Desculpe, permissão negada.';
-$Definition['IP Address'] = 'Endereço de IP';
 $Definition['IPAddress'] = 'Endereço de IP';
+$Definition['IP Address'] = 'Endereço de IP';
 $Definition['I remember now!'] = 'Agora eu me lembro!';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Parece que você é novo por este pedaço. Se você quer se envolver, clique em algum destes botões!';
 
@@ -612,8 +612,8 @@ $Definition[' now.'] = ' agora.';
 
 $Definition['Off Topic'] = 'Fora de tópico';
 $Definition['Okay'] = 'Ok';
-$Definition['OldPassword'] = 'Senha antiga';
 $Definition['Old Password'] = 'Senha Anterior';
+$Definition['OldPassword'] = 'Senha antiga';
 $Definition['on'] = 'dentro de';
 $Definition['Only show followed categories'] = 'Exibir somente categorias que eu sigo';
 $Definition['OpenID Settings'] = 'Configurações de OpenID';
@@ -778,8 +778,8 @@ $Definition['Signature Code'] = 'Assinatura';
 $Definition['Signature invalid.'] = 'Assinatura inválida.';
 $Definition['Signatures'] = 'Assinaturas';
 $Definition['Signature Settings'] = 'Assinatura';
-$Definition['Sign In'] = 'Entrar';
 $Definition['SignIn'] = 'Entrar';
+$Definition['Sign In'] = 'Entrar';
 $Definition['SigningOut'] = 'Aguarde um momento enquanto desconectamos você.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Entre</a> ou <a href="{RegisterUrl,html}">Registre-se</a> para fazer um comentário.';
 $Definition['Sign in to vote!'] = 'Entre para votar!';
@@ -971,6 +971,7 @@ $Definition['Vote Up'] = 'Votar Positivamente';
 $Definition['wall'] = 'mural';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'Quer participar do tópico? Clique em algum destes:';
 $Definition['Warn'] = 'Aviso';
+$Definition['Warning'] = 'Aviso';
 $Definition['Warnings'] = 'Avisos';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} advertiu {WarnUserID,User} por {Points,plural,%s points}.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} advertiu {WarnUserID,User} por {Points,plural,%s points} (apenas uma notificação).';

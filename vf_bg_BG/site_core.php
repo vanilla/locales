@@ -332,8 +332,8 @@ $Definition['Send Message'] = 'Изпращане на съобщението';
 $Definition['Settings'] = 'Настройки';
 $Definition['Share'] = 'Сподели';
 $Definition['she'] = 'тя';
-$Definition['Sign In'] = 'Вход';
 $Definition['SignIn'] = 'Вход';
+$Definition['Sign In'] = 'Вход';
 $Definition['Sign In with Google'] = 'Влезте с Google';
 $Definition['Sign In with OpenID'] = 'Длезте с OpenID';
 $Definition['Sign In with Twitter'] = 'Длезте с Twitter';
@@ -407,6 +407,7 @@ $Definition['Visits'] = 'Посещения';
 $Definition['Visit Site'] = 'Посетете форума';
 
 $Definition['wall'] = 'стена';
+$Definition['Warning'] = 'Внимание';
 $Definition['Welcome Aboard!'] = 'Добре дошли във Форума!';
 $Definition['Write a comment'] = 'Напишете коментар';
 $Definition['Write Comment'] = 'Напишете коментар';
