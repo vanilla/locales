@@ -509,7 +509,7 @@ $Definition['My Drafts'] = 'Mine kladder';
 $Definition['My Forums'] = 'Mine forums';
 $Definition['My Preferences'] = 'Mine Indstillinger';
 
-$Definition['Name'] = 'Badge Name';
+$Definition['Name'] = 'Navn';
 $Definition['Name Unavailable'] = 'Navn allerede i brug';
 $Definition['New Conversation'] = 'Ny samtale';
 $Definition['New Discussion'] = 'Ny diskussion';
