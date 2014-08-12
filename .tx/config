@@ -3,18 +3,18 @@ host = https://www.transifex.com
 
 [vanilla.site_core]
 file_filter = tx/<lang>/site_core.php
-source_file = tx/en_CA/site_core.php
+source_file = tx-source/site_core.php
 source_lang = en_CA
 type = PHP_ALT_ARRAY
 
 [vanilla.dash_core]
 file_filter = tx/<lang>/dash_core.php
-source_file = tx/en_CA/dash_core.php
+source_file = tx-source/dash_core.php
 source_lang = en_CA
 type = PHP_ALT_ARRAY
 
 [vanilla.archive_core]
 file_filter = tx/<lang>/archive_core.php
-source_file = tx/en_CA/archive_core.php
+source_file = tx-source/archive_core.php
 source_lang = en_CA
 type = PHP_ALT_ARRAY
