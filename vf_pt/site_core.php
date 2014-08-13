@@ -63,6 +63,8 @@ $Definition['Add Message'] = 'Adicionar Mensagem';
 $Definition['Add People to this Conversation'] = 'Acrescentar Pessoas a esta Conversa';
 $Definition['Add Route'] = 'Adicionar Caminho';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Um erro cr&iacute;tico ocorreu ao processar o pedido.<br />O servidor deu a seguinte resposta: %s';
+$Definition['All Categories'] = 'Todas as Categorias';
+$Definition['all categories'] = 'todas as categorias';
 $Definition['All Conversations'] = 'Todas as Conversas';
 $Definition['All Discussions'] = 'Todas as Discuss&otilde;es';
 $Definition['Allow'] = 'Permitir';
@@ -76,6 +78,8 @@ $Definition['Ask Question'] = 'Abra Discuss&atilde;o';
 
 $Definition['Back to Discussions'] = 'Voltar a Discuss&otilde;es';
 $Definition['Banned'] = 'Banido';
+$Definition['Best Of'] = 'O melhor de';
+$Definition['Best Of...'] = 'O melhor de…';
 $Definition['Bookmark'] = 'Ponha nos Favoritos';
 $Definition['bookmarked discussion'] = 'discuss&atilde;o nos favoritos';
 $Definition['Bookmarked Discussions'] = 'Discuss&atilde;o nos Favoritos';
@@ -203,6 +207,7 @@ $Definition['ErrorRecordNotFound'] = 'O registo pedido n&atilde;o foi encontrado
 $Definition['ErrorTermsOfService'] = 'Voc&ecirc; tem de concordar com os Termos de Servi&ccedil;o.';
 
 $Definition['Female'] = 'Feminino';
+$Definition['followed categories'] = 'categorias seguidas';
 $Definition['Forgot?'] = 'Esqueceu-se?';
 $Definition['Format his'] = 'dele';
 $Definition['Format You'] = 'Voc&ecirc;';
@@ -387,6 +392,7 @@ $Definition['ValidateTimestamp'] = '%s n&atilde;o &eacute; um registo de tempo v
 $Definition['ValidateUsername'] = 'Nomes de utilizador devem ter 3-20 characteres, com letras, n&uacute;meros ou underscores.';
 $Definition['ValidateVersion'] = 'O campo %s n&atilde;o &eacute; um n&uacute;mero de vers&atilde;o v&aacute;lido. Ver a fun&ccedil;&atilde;o version_compare() de PHP para exemplos de n&uacute;meros de vers&atilde;o v&aacute;lidos.';
 $Definition['Value'] = 'Condition Expression';
+$Definition['Viewing'] = 'A visualizar';
 $Definition['Visits'] = 'Visitas';
 $Definition['Visit Site'] = 'Visitar Site';
 

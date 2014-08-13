@@ -207,7 +207,6 @@ $Definition['By uploading a file you certify that you have the right to distribu
 $Definition['Cancel'] = 'キャンセル';
 $Definition['Casual'] = 'カジュアル';
 $Definition['Categories'] = 'カテゴリ';
-$Definition['CategoriesViewingUnfollowed'] = 'カテゴリー見ているフォロー解除された';
 $Definition['Category'] = 'カテゴリ';
 $Definition['Category Filter'] = 'カテゴリー･フィルター';
 $Definition['CategoryID'] = 'カテゴリ';

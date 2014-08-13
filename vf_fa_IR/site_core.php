@@ -192,7 +192,6 @@ $Definition['CategoriesShowFollowed'] = 'تنها نمایش دسته‌های �
 $Definition['CategoriesShowUnfollowed'] = 'دسته‌هایی را که دنبال <strong>نمی‌کنم</strong>، نمایش بده.';
 $Definition['CategoriesViewingAll'] = 'شما هم‌اکنون همهٔ دسته‌ها را می‌بینید.';
 $Definition['CategoriesViewingFollowed'] = 'شما هم‌اکنون تنها دسته‌هایی را می‌بینید که آن‌ها را دنبال می‌کنید.';
-$Definition['CategoriesViewingUnfollowed'] = 'دسته های دیده شده دیگر دنبال نمی شوند';
 $Definition['Category'] = 'دسته';
 $Definition['CategoryID'] = 'دسته';
 $Definition['Category Management'] = 'مدیریت دسته‌ها';

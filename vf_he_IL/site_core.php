@@ -216,7 +216,6 @@ $Definition['CategoriesShowFollowed'] = 'הראה רק את הקטגוריות �
 $Definition['CategoriesShowUnfollowed'] = 'הראה קטגוריות מוסתרות';
 $Definition['CategoriesViewingAll'] = 'אתה כרגע מביט בכל הקטגוריות';
 $Definition['CategoriesViewingFollowed'] = 'אתה כרגע מביט רק בקטגוריות שאתה עוקב אחריהם';
-$Definition['CategoriesViewingUnfollowed'] = 'צפיהקטגוריותהפסקלעקוב';
 $Definition['Category'] = 'קטגוריה';
 $Definition['CategoryID'] = 'קטגוריה';
 $Definition['Category Management'] = 'ניהול קטגוריה';

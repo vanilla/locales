@@ -204,7 +204,6 @@ $Definition['By uploading a file you certify that you have the right to distribu
 $Definition['Cancel'] = '取消';
 $Definition['Casual'] = '隨意的';
 $Definition['Categories'] = '分類';
-$Definition['CategoriesViewingUnfollowed'] = '查看未關注分類';
 $Definition['Category'] = '分類';
 $Definition['Category Filter'] = '分類過濾器';
 $Definition['CategoryID'] = '分類';
