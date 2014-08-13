@@ -228,7 +228,6 @@ $Definition['CategoriesShowFollowed'] = 'Only show followed categories';
 $Definition['CategoriesShowUnfollowed'] = 'Show hidden categories';
 $Definition['CategoriesViewingAll'] = 'You are currently viewing all categories.';
 $Definition['CategoriesViewingFollowed'] = 'You are currently only viewing categories that you follow.';
-$Definition['CategoriesViewingUnfollowed'] = 'CategoriesViewingUnfollowed';
 $Definition['Category'] = 'Category';
 $Definition['CategoryID'] = 'Category';
 $Definition['Category Management'] = 'Category Management';
