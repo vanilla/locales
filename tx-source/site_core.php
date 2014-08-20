@@ -339,6 +339,11 @@ $Definition['Edit Preferences'] = 'Edit Preferences';
 $Definition['Edit Profile'] = 'Edit Profile';
 $Definition['Edit Tag'] = 'Edit Tag';
 $Definition['Edit Thumbnail'] = 'Edit Thumbnail';
+$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> in your post.';
+$Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
+$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> in your post.';
+$Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
+$Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
 $Definition['Eighth Anniversary'] = 'Eighth Anniversary';
 $Definition['Email'] = 'Email';
 $Definition['Email/Username'] = 'Email/Username';
@@ -654,6 +659,7 @@ $Definition['PageDetailsMessage'] = '%1$s to %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
 $Definition['Page Not Found'] = 'Page Not Found';
 $Definition['PageViews'] = 'PageViews';
+$Definition['Participated'] = 'Participated';
 $Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
 $Definition['Password'] = 'Password';
 $Definition['PasswordRequest'] = 'Someone has requested to reset your password at %2$s. To reset your password, follow this link:
@@ -1046,6 +1052,8 @@ $Definition['You are connected as %s through %s.'] = 'You are connected as %s th
 $Definition['You are connected through %2$s.'] = 'You are connected through %2$s.';
 $Definition['You are currently only viewing categories that you follow.'] = 'You are currently only viewing categories that you follow.';
 $Definition['You are currently viewing all categories.'] = 'You are currently viewing all categories.';
+$Definition['You are limited to %s recipient.'] = 'You are limited to %s recipient.';
+$Definition['You are limited to %s recipients.'] = 'You are limited to %s recipients.';
 $Definition['You are editing %s\'s signature'] = 'You are editing %s\'s signature';
 $Definition['You can either ask a question or start a discussion.'] = 'You can either ask a question or start a discussion. Choose what you want to do below.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'You can follow individual categories and be notified of all posts within them.';
