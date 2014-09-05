@@ -894,6 +894,7 @@ $Definition['Start your First Discussion'] = 'Start your First Discussion';
 $Definition['Stop following'] = 'Stop following';
 $Definition['Strip images out of signatures'] = 'Strip images out of signatures';
 $Definition['Strip images out of signatures?'] = 'Strip images out of signatures?';
+$Definition['Subject'] = 'Subject';
 $Definition['Suggested Value'] = 'Suggested Value';
 
 $Definition['Tagged'] = 'Tagged';
