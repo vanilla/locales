@@ -262,6 +262,7 @@ $Definition['Redirecting...'] = 'Redireccionant...';
 $Definition['Register'] = 'Registrar-se';
 $Definition['Register with %s'] = 'Registrar-se';
 $Definition['Remember me on this computer'] = 'Recorda\'m en aquest ordinador';
+$Definition['Remove'] = 'Eliminar';
 $Definition['Remove My Picture'] = 'Elimina la meva Fotografia';
 $Definition['Remove Picture'] = 'Eliminar Fotografía';
 $Definition['Reopen'] = 'Reobrir';

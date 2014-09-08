@@ -316,6 +316,7 @@ $Definition['Register'] = 'Кандидаствай за членство';
 $Definition['Register with %s'] = 'Кандидаствай за членство';
 $Definition['Remember me'] = 'Запомняне';
 $Definition['Remember me on this computer'] = 'Запомни ме на този компютър';
+$Definition['Remove'] = 'Премахване';
 $Definition['Remove My Picture'] = 'Изтрий снимката ми';
 $Definition['Request a new password'] = 'Заяви нова парола';
 $Definition['Reset Password'] = 'Възстановяване на парола';

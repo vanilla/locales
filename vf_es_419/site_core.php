@@ -668,8 +668,8 @@ $Definition['Private Note for Moderators'] = 'Una nota privada a los moderadores
 $Definition['Problem with credentials.'] = 'Hubo un problema con su clave.';
 $Definition['Proceed'] = 'Proceder';
 $Definition['Profile'] = 'Perfil';
-$Definition['Profile Fields'] = 'Campos de perfil';
 $Definition['Profile  Fields'] = 'Perfil  Campos';
+$Definition['Profile Fields'] = 'Campos de perfil';
 $Definition['ProfileFieldsCustomDescription'] = 'Usa estos campos para crear nuevos datos de perfil. Puedes incluir cosas como "¿Estado civil?", "Skype" o "Dinosaurio favorito". ¡Sé creativo!';
 $Definition['Profile Page'] = 'Página de perfil';
 $Definition['Profile Picture'] = 'Imagen de perfil';
@@ -805,6 +805,7 @@ $Definition['Start your First Discussion'] = 'Inicia tu primer tema';
 $Definition['Stop following'] = 'Dejar de seguir';
 $Definition['Strip images out of signatures'] = 'Retirar las imágenes de las firmas';
 $Definition['Strip images out of signatures?'] = '¿Retirar las imágenes de las firmas?';
+$Definition['Subject'] = 'Asunto';
 $Definition['Suggested Value'] = 'Valor sugerido ';
 
 $Definition['Tagged'] = 'Etiquetado';

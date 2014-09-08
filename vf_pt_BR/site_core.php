@@ -327,22 +327,22 @@ $Definition['EmailConfirmEmail'] = 'É necessário que você confirme seu endere
 $Definition['EmailFooter'] = '
 Tenha um bom dia!';
 $Definition['EmailHeader'] = 'Olá, {User.Name}! (\\n)';
-$Definition['EmailInvitation'] = 'Olá!(\\n)(\\n)
+$Definition['EmailInvitation'] = 'Olá!
 
 %1$s convidou você a se juntar %2$s. Se você quiser se juntar, você pode clicando neste link:
-(\\n)(\\n)
-  %3$s
-(\\n)(\\n)
+
+%3$s
+
 Tenha um bom dia!';
-$Definition['EmailMembershipApproved'] = 'Olá, %1$s,(\\n)(\\n)
+$Definition['EmailMembershipApproved'] = 'Olá, %1$s,
 
 Você foi aprovado como membro. Entre agora pelo seguinte link:
-(\\n)(\\n)
-  %2$s';
-$Definition['EmailNotification'] = '%1$s(\\n)(\\n)
 
-Siga o link abaixa para verificar:(\\n)
-%2$s(\\n)(\\n)
+%2$s';
+$Definition['EmailNotification'] = '%1$s
+
+Siga o link abaixa para verificar:
+%2$s
 
 Tenha um bom dia!';
 $Definition['Email Notifications'] = 'Notificações de Email';
@@ -379,13 +379,13 @@ $Definition['EmailWelcome'] = 'Olá, %1$s,
 Tenha um bom dia!';
 $Definition['EmailWelcomeConnect'] = 'Olá, {User.Name},
 
-Você conectou-se com succeso a {Title}. Aqui vai a sua informação:(\\n)(\\n)
+Você conectou-se com succeso a {Title}. Aqui vai a sua informação:
 
-  Nome de usuário: {User.Name}(\\n)
-  Conectado com: {ProviderName}(\\n)(\\n)
+  Nome de usuário: {User.Name}
+  Conectado com: {ProviderName}
 
 Você pode acessar o site em {/,url,domain}.
-(\\n)(\\n)
+
 Tenha um bom dia!';
 $Definition['EmailWelcomeRegister'] = 'Olá, {User.Name},(\\n)
 
@@ -449,6 +449,7 @@ $Definition['Format their'] = 'deles';
 $Definition['Format You'] = 'Você';
 $Definition['Format you'] = 'você';
 $Definition['Format Your'] = 'Seu';
+$Definition['Forum'] = 'Fórum';
 $Definition['Fourth Anniversary'] = 'Quarto Aniversário';
 $Definition['Friends'] = 'Amigos';
 $Definition['Full Site'] = 'Todo o site';
@@ -676,8 +677,8 @@ $Definition['Private Note for Moderators'] = 'Nota Privada para Moderadores';
 $Definition['Problem with credentials.'] = 'Problema com credenciais.';
 $Definition['Proceed'] = 'Proceder';
 $Definition['Profile'] = 'Perfil';
-$Definition['Profile  Fields'] = 'Campos  de  Perfil';
 $Definition['Profile Fields'] = 'Campos de Perfil';
+$Definition['Profile  Fields'] = 'Campos  de  Perfil';
 $Definition['ProfileFieldsCustomDescription'] = 'Use estes campos para criar informações personalizadas no seu perfil. Você pode criar algo como "Relacionamento", "Skype", "Dinossauro Favorito". Seja criativo!';
 $Definition['Profile Page'] = 'Página do Perfil';
 $Definition['Profile Picture'] = 'Imagem de Perfil';
@@ -728,6 +729,7 @@ $Definition['Reject this answer.'] = 'Rejeitar esta resposta.';
 $Definition['Remember me'] = 'Lembrar de mim';
 $Definition['Remember me on this computer'] = 'Lembrar-me neste computador';
 $Definition['Remote Configuration'] = 'Configuração Remota';
+$Definition['Remove'] = 'Remover';
 $Definition['Removed by'] = 'Removido por';
 $Definition['Remove My Picture'] = 'Remova Meu Avatar';
 $Definition['Remove Picture'] = 'Remover Imagem';
@@ -817,6 +819,7 @@ $Definition['Start your First Discussion'] = 'Comece seu Primeiro Tópico';
 $Definition['Stop following'] = 'Deixar de Seguir';
 $Definition['Strip images out of signatures'] = 'Tirar imagens de assinaturas';
 $Definition['Strip images out of signatures?'] = 'Tirar imagens da assinatura?';
+$Definition['Subject'] = 'Assunto';
 $Definition['Suggested Value'] = 'Valor Sugerido';
 
 $Definition['Tagged'] = 'Tags';

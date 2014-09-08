@@ -806,6 +806,7 @@ $Definition['Start your First Discussion'] = 'Inicia tu primer tema';
 $Definition['Stop following'] = 'Dejar de seguir';
 $Definition['Strip images out of signatures'] = 'Retirar las imágenes de las firmas';
 $Definition['Strip images out of signatures?'] = '¿Retirar las imágenes de las firmas?';
+$Definition['Subject'] = 'Asunto';
 $Definition['Suggested Value'] = 'Valor sugerido ';
 
 $Definition['Tagged'] = 'Etiquetado';

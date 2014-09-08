@@ -688,6 +688,7 @@ $Definition['Reject this answer.'] = 'Afvis dette svar.';
 $Definition['Remember me'] = 'Husk mig';
 $Definition['Remember me on this computer'] = 'Husk mig på denne computer';
 $Definition['Remote Configuration'] = 'Fjernkonfiguration';
+$Definition['Remove'] = 'Fjern';
 $Definition['Removed by'] = 'Fjernet af';
 $Definition['Remove My Picture'] = 'Slet mit billede';
 $Definition['Remove Picture'] = 'Fjern billede';

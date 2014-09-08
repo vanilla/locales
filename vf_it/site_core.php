@@ -717,6 +717,7 @@ $Definition['Reject this answer.'] = 'Respingi questa risposta';
 $Definition['Remember me'] = 'Ricordami';
 $Definition['Remember me on this computer'] = 'Ricordami su questo computer';
 $Definition['Remote Configuration'] = 'Configurazione Remota';
+$Definition['Remove'] = 'Rimuovi';
 $Definition['Removed by'] = 'Rimosso da';
 $Definition['Remove My Picture'] = 'Rimuovi la Mia Immagine';
 $Definition['Remove Picture'] = 'Rimuovi Immagine';
@@ -806,6 +807,7 @@ $Definition['Start your First Discussion'] = 'Apri la tua Prima Discussione';
 $Definition['Stop following'] = 'Smetti di seguire';
 $Definition['Strip images out of signatures'] = 'Tolgo le immagini dalle firme';
 $Definition['Strip images out of signatures?'] = 'Tolgo le immagini dalle firme?';
+$Definition['Subject'] = 'Soggetto';
 $Definition['Suggested Value'] = 'Valore Suggerito';
 
 $Definition['Tagged'] = 'Taggata';

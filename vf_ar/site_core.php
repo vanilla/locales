@@ -596,6 +596,7 @@ $Definition['Reject this answer.'] = 'رفض هده الاجابة';
 $Definition['Remember me'] = 'تذكرني';
 $Definition['Remember me on this computer'] = 'تذكرني على هذا الجهاز';
 $Definition['Remote Configuration'] = 'الإعدادات عن بعد';
+$Definition['Remove'] = 'إحذف';
 $Definition['Removed by'] = 'حذف من قبل';
 $Definition['Remove My Picture'] = 'إزالة صورتي';
 $Definition['Remove Picture'] = 'حذف الصورة الشخصية';
@@ -679,6 +680,7 @@ $Definition['Start your First Discussion'] = 'ابدأ اول موضوع لك';
 $Definition['Stop following'] = 'الغاء المتابعة';
 $Definition['Strip images out of signatures'] = 'تجريد التواقيع من الصور';
 $Definition['Strip images out of signatures?'] = 'تجريد الصور خارج المواضيع ?';
+$Definition['Subject'] = 'العنوان';
 $Definition['Suggested Value'] = 'القيمة المقترحة';
 
 $Definition['Tagged'] = 'الكلمات الدلالية';

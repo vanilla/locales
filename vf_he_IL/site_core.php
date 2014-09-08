@@ -668,6 +668,7 @@ $Definition['Reject this answer.'] = 'דחה את התשובה הזאת';
 $Definition['Remember me'] = 'זכור אותי';
 $Definition['Remember me on this computer'] = 'תזכור אותי על המחשב הזה';
 $Definition['Remote Configuration'] = 'תצורה מרחוק';
+$Definition['Remove'] = 'הסר';
 $Definition['Removed by'] = 'הוסר על ידי';
 $Definition['Remove My Picture'] = 'הסר את התמונה שלי';
 $Definition['Remove Picture'] = 'הסר תמונה';
@@ -755,6 +756,7 @@ $Definition['Start your First Discussion'] = 'התחל את הדיון הראש�
 $Definition['Stop following'] = 'הפסק לעקוב';
 $Definition['Strip images out of signatures'] = 'הסר את החתימות מהתמונות';
 $Definition['Strip images out of signatures?'] = 'הסר את החתימות מהתמונות?';
+$Definition['Subject'] = 'נושא';
 $Definition['Suggested Value'] = 'הציעו ערך';
 
 $Definition['Tagged'] = 'תויג';

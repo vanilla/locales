@@ -465,8 +465,8 @@ $Definition['Invalid password.'] = 'Ο κωδικός που δώσατε δεν
 $Definition['Invitations'] = 'Προσκλήσεις';
 $Definition['Invite'] = 'Προσκαλέστε';
 $Definition['InviteErrorPermission'] = 'Λυπάμαι, η άδεια δε δόθηκε.';
-$Definition['IP Address'] = 'Διεύθυνση IP';
 $Definition['IPAddress'] = 'Διεύθυνση IP';
+$Definition['IP Address'] = 'Διεύθυνση IP';
 $Definition['I remember now!'] = 'Το θυμήθηκα!';
 $Definition['Item'] = 'Αντικείμενο';
 $Definition['item'] = 'αντικείμενο';
@@ -577,8 +577,8 @@ $Definition[' now.'] = 'τώρα.';
 
 $Definition['Off Topic'] = 'Εκτός Θέματος';
 $Definition['Okay'] = 'Εντάξει';
-$Definition['Old Password'] = 'Παλιός Κωδικός';
 $Definition['OldPassword'] = 'Παλιός Κωδικός';
+$Definition['Old Password'] = 'Παλιός Κωδικός';
 $Definition['on'] = 'σε';
 $Definition['Only show followed categories'] = 'Δείτε μόνο τις κατηγορίες που ακολουθείτε.';
 $Definition['OpenID Settings'] = 'Ρυθμίσεις OpenID';
@@ -783,6 +783,7 @@ $Definition['Start your First Discussion'] = 'Ξεκινήστε την Πωτη
 $Definition['Stop following'] = 'Σταμάτα να ακολουθείς';
 $Definition['Strip images out of signatures'] = 'Αφαιρέστε τις εικόνες απο τις υπογραφές';
 $Definition['Strip images out of signatures?'] = 'Να αφαιρεθούν οι εικόνες από τις υπογραφές;';
+$Definition['Subject'] = 'Θέμα';
 $Definition['Suggested Value'] = 'Προτεινόμενη Τιμή';
 
 $Definition['Tagged'] = 'Σχετιζόμενο';

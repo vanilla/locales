@@ -564,6 +564,7 @@ $Definition['Reject this answer.'] = 'Avböj detta svar.';
 $Definition['Remember me'] = 'Kom ihåg mig';
 $Definition['Remember me on this computer'] = 'Kom ihåg mig på denna dator';
 $Definition['Remote Configuration'] = 'Fjärrinställning';
+$Definition['Remove'] = 'Ta bort';
 $Definition['Removed by'] = 'Borttagen av';
 $Definition['Remove My Picture'] = 'Ta bort min bild';
 $Definition['Remove Picture'] = 'Ta bort bild';
@@ -650,6 +651,7 @@ $Definition['Start your First Discussion'] = 'Starta din första diskussion';
 $Definition['Stop following'] = 'Sluta följa';
 $Definition['Strip images out of signatures'] = 'Rensa ut bilder ur signaturer';
 $Definition['Strip images out of signatures?'] = 'Rensa ut bilder ur signaturer?';
+$Definition['Subject'] = 'Ämne';
 $Definition['Suggested Value'] = 'Föreslaget värde';
 
 $Definition['Tagged'] = 'Taggad';

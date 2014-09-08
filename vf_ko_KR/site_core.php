@@ -286,6 +286,7 @@ $Definition['Recipients'] = '받는 사람';
 $Definition['Register'] = '회원가입';
 $Definition['Register with %s'] = '회원가입';
 $Definition['Remember me on this computer'] = '이 컴퓨터에 내 정보 기억하기';
+$Definition['Remove'] = '삭제';
 $Definition['Remove My Picture'] = '사진 삭제';
 $Definition['Request a new password'] = '새 패스워드 요청';
 $Definition['Reset Password'] = '패스워드 리셋';

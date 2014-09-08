@@ -306,6 +306,7 @@ $Definition['Redirecting...'] = 'Redireccionando...';
 $Definition['Register'] = 'Torne-se Membro';
 $Definition['Register with %s'] = 'Torne-se Membro';
 $Definition['Remember me on this computer'] = 'Lembrar-me neste computador';
+$Definition['Remove'] = 'Remover';
 $Definition['Remove My Picture'] = 'Remover a minha Foto';
 $Definition['Remove Picture'] = 'Eliminar Foto';
 $Definition['Reopen'] = 'Reabrir';

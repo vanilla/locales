@@ -559,8 +559,8 @@ $Definition[' now.'] = ' sekarang.';
 
 $Definition['Off Topic'] = 'Di luar Topik';
 $Definition['Okay'] = 'Oke';
-$Definition['Old Password'] = 'Password Saya';
 $Definition['OldPassword'] = 'Password lama';
+$Definition['Old Password'] = 'Password Saya';
 $Definition['on'] = 'pada';
 $Definition['Only show followed categories'] = 'Hanya tampilkan kategori yang diikuti';
 $Definition['OpenID Settings'] = 'Setelan OpenID';
@@ -671,6 +671,7 @@ $Definition['Reject this answer.'] = 'Tolak jawaban ini.';
 $Definition['Remember me'] = 'Ingat Saya';
 $Definition['Remember me on this computer'] = 'Ingat saya di komputer ini';
 $Definition['Remote Configuration'] = 'Konfigurasi Terkendali';
+$Definition['Remove'] = 'Hilangkan';
 $Definition['Removed by'] = 'Dicabut oleh';
 $Definition['Remove My Picture'] = 'Hapus Gambar Saya';
 $Definition['Remove Picture'] = 'Hapus Gambar';
@@ -761,6 +762,7 @@ $Definition['Start your First Discussion'] = 'Mulai Diskusi Pertama anda';
 $Definition['Stop following'] = 'Berhenti mengikuti';
 $Definition['Strip images out of signatures'] = 'Hapus gambar dari tanda tangan';
 $Definition['Strip images out of signatures?'] = 'Hapuskan gambar dari tanda tangan?';
+$Definition['Subject'] = 'Perihal';
 $Definition['Suggested Value'] = 'Nilai Disarankan';
 
 $Definition['Tagged'] = 'Di-tag';

@@ -663,6 +663,7 @@ $Definition['Reject this answer.'] = '拒絕這個答案';
 $Definition['Remember me'] = '記住我';
 $Definition['Remember me on this computer'] = '在這台電腦上記住我';
 $Definition['Remote Configuration'] = '遠端設定';
+$Definition['Remove'] = '刪除';
 $Definition['Removed by'] = '移除者';
 $Definition['Remove My Picture'] = '刪除我的圖示';
 $Definition['Remove Picture'] = '刪除圖片';
