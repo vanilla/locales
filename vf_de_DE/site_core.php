@@ -151,7 +151,7 @@ $Definition['Apply Changes'] = 'Änderungen annehmen';
 $Definition['Apply for Membership'] = 'Registrieren';
 $Definition['Apply for membership'] = 'Um Mitgliedschaft bewerben';
 $Definition['Approve'] = 'Bestätigen';
-$Definition['Approve Applicant'] = 'Bewerber bestätigen';
+$Definition['Approve Applicant'] = 'Bestätigen';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Bist du dir ABSOLUT sicher, dass du diese Aktion durchführen willst?';
 $Definition['Are you sure you want to delete this %s?'] = 'Bist du dir sicher, dass du dieses %s löschen möchtest?';
 $Definition['Are you sure you want to do that?'] = 'Bist du dir sicher?';
@@ -281,7 +281,7 @@ $Definition['Delete the user and all of the user\'s content. This will cause dis
 $Definition['Delete User Content'] = 'Lösche Nutzerinhalte';
 $Definition['Delete User Forever'] = 'Lösche Nutzer permanent';
 $Definition['Deny'] = 'Ablehnen';
-$Definition['Deny Applicant'] = 'Bewerber ablehnen';
+$Definition['Deny Applicant'] = 'Ablehnen';
 $Definition['Did this answer the question?'] = 'Hat das deine Frage beantwortet?';
 $Definition['Disagree'] = 'Nicht zustimmen';
 $Definition['Discussion'] = 'Diskussion';
