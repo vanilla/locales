@@ -177,7 +177,7 @@ $Definition['Apply Changes'] = 'Apply Changes';
 $Definition['Apply for Membership'] = 'Register';
 $Definition['Apply for membership'] = 'Apply for membership';
 $Definition['Approve'] = 'Approve';
-$Definition['Approve Applicant'] = 'Approve Applicant';
+$Definition['Approve Applicant'] = 'Approve';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Are you ABSOLUTELY sure you want to take this action?';
 $Definition['Are you sure you want to delete this %s?'] = 'Are you sure you want to delete this %s?';
 $Definition['Are you sure you want to do that?'] = 'Are you sure you want to do that?';
@@ -319,7 +319,7 @@ $Definition['Delete the user and all of the user\'s content. This will cause dis
 $Definition['Delete User Content'] = 'Delete User Content';
 $Definition['Delete User Forever'] = 'Delete User Forever';
 $Definition['Deny'] = 'Deny';
-$Definition['Deny Applicant'] = 'Deny Applicant';
+$Definition['Deny Applicant'] = 'Deny';
 $Definition['Did this answer the question?'] = 'Did this answer the question?';
 $Definition['Disagree'] = 'Disagree';
 $Definition['Discussion'] = 'Discussion';
