@@ -272,6 +272,7 @@ $Definition['Every Page'] = 'Cada Página ';
 $Definition['Everything is ok.'] = 'Todo está bien. ';
 $Definition['Exclude archived discussions from the discussions list'] = 'Excluir discusiones archivadas e la lista de discusiones';
 $Definition['Existing members send invitations to new members.'] = 'Los miembros existentes envían invitaciones a nuevos miembros';
+$Definition['Exit Preview'] = 'Salir de previsualización';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect permite a los usuarios conectarse usando su cuenta de Facebook. <b> Debes registrar tú aplicación con Facebook para que este plugin funcione.</b>';
 $Definition['Facebook Settings'] = 'Configuración Facebook';
