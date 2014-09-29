@@ -1,0 +1,1097 @@
+<?php
+
+$Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s підтвердив %4$s запрошення.';
+$Definition['%1$s changed %4$s permissions.'] = '%1$s змінив %4$s права доступу.';
+$Definition['%1$s changed %6$s profile picture.'] = '%1$s змінив зображення.';
+$Definition['%1$s commented on %4$s %8$s.'] = 'Користувач %1$s прокоментував в %4$s %8$s.';
+$Definition['%1$s created an account for %4$s.'] = '%1$s створив аккаунт для %4$s.';
+$Definition['%1$s joined.'] = '%1$s тепер з нами.';
+$Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s згадав %3$s в %8$s.';
+$Definition['%1$s on %2$s'] = '%1$s на %2$s';
+$Definition['%1$s signed in.'] = '%1$s провів вхід.';
+$Definition['%1$s to %2$s'] = '%1$s до %2$s';
+$Definition['%1$s to %2$s of %3$s'] = '%1$s до %2$s із %3$s';
+$Definition['%1$s updated %6$s profile.'] = '%1$s оновив %6$s профіль.';
+$Definition['%1$s was added to the %2$s %3$s.'] = '%1$s додав до %2$s %3$s.';
+$Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s була видалена %2$s %3$s.';
+$Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s була переміщена з %2$s %3$s до %4$s %5$s.';
+$Definition['%1$s wrote on %4$s %5$s.'] = '%1$s написав на %4$s %5$s.';
+$Definition['%3$s approved %2$s membership application.'] = '%3$s затвердили %2$s членство додатків.';
+$Definition['%3$s created an account for %1$s.'] = '%3$s створено аккаунт до %1$s.';
+$Definition['%s$1 to %s$2'] = '%s$1 до %s$2';
+$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 до %s$2 із %s$3';
+$Definition['%s (Current)'] = '%s (Поточний)';
+$Definition['%s Agrees'] = '%s погоджується';
+$Definition['%s and you'] = '%s і Ви';
+$Definition['%s changed %s\'s permissions.'] = '%s змінив %s\'s права доступу.';
+$Definition['%s Comment'] = '%s Коментар';
+$Definition['%s comment'] = '%s коментар';
+$Definition['%s Comments'] = '%s Коментарі';
+$Definition['%s comments'] = '%s коментарів';
+$Definition['%s Connect'] = '%s З\'єднати';
+$Definition['%s day'] = '%s день';
+$Definition['%s days'] = '%s днів';
+$Definition['%s deleted this conversation.'] = '%s видалив це обговорення.';
+$Definition['%s discussion'] = '%s обговорення';
+$Definition['%s discussions'] = '%s обговорення';
+$Definition['%s has been Jailed.'] = '%s був поміщений у в\'язницю:).';
+$Definition['%s has left this conversation.'] = '%s покинув цю розмову.';
+$Definition['%s hour'] = '%s година';
+$Definition['%s hours'] = '%s годин';
+$Definition['%s Insightfuls'] = '%s проникливі';
+$Definition['%s level deep'] = '%s глибина рівня';
+$Definition['%s levels deep'] = '%s глибина рівнів';
+$Definition['%s Likes'] = '%s вподобання';
+$Definition['%s LOLs'] = '%s LOL';
+$Definition['%s mentioned %s in a %s.'] = '%s згаданий %s в %s.';
+$Definition['%s message'] = '%s повідомлення';
+$Definition['%s messages'] = '%s повідомлень';
+$Definition['%s minute'] = '%s хвилина';
+$Definition['%s minutes'] = '%s хвилин';
+$Definition['%s month'] = '%s місяць';
+$Definition['%s months'] = '%s місяців';
+$Definition['%s New'] = '%s нове';
+$Definition['%s new'] = '%s нових';
+$Definition['%s new comment since you last read this.'] = '%s коментар з моменту останнього вашого прочитання.';
+$Definition['%s new comments since you last read this.'] = '%s комент. з моменту останнього вашого прочитання.';
+$Definition['%s New Plural'] = '%s нових';
+$Definition['%s new plural'] = '%s нових';
+$Definition['%s Not Found'] = '%s не знайдено';
+$Definition['%s Point'] = '%s пункт';
+$Definition['%s point'] = '%s пункт';
+$Definition['%s Points'] = '%s пункти';
+$Definition['%s points'] = '%s пункти';
+$Definition['%s said'] = '%s сказав';
+$Definition['%s said:'] = '%s сказав:';
+$Definition['%s tag(s) found.'] = '%s тег(ів) знайдено .';
+$Definition['%s tags in the system'] = '%s тегів в системі';
+$Definition['%s Up Votes'] = '%s +';
+$Definition['%s view'] = '%s перегляд';
+$Definition['%s views'] = '%s перегляди';
+$Definition['%s votes'] = '%s голоси(ів)';
+$Definition['%s was removed from the %s and added to the %s'] = '%s переміщено з %s в %s';
+$Definition['%s year'] = '%s рік';
+$Definition['%s years'] = '%s років';
+
+$Definition['(empty message)'] = '(пусте повідомлення)';
+
+$Definition['+%s Guests'] = '+%s Гостей';
+
+$Definition[' - Page %s'] = ' - Сторінка %s';
+
+$Definition['1 message'] = '1 повідомлення';
+
+$Definition['<General Error>'] = '<Загальна помилка>';
+
+$Definition['[%1$s] Membership Approved'] = '[%1$s] Членство підтверджено';
+$Definition['[%s] Welcome Aboard!'] = '[%s] Вітаємо з нами!';
+
+$Definition['About'] = 'Про себе';
+$Definition['Abuse'] = 'Зловживання';
+$Definition['Accept'] = 'Підтвердити';
+$Definition['Accept this answer.'] = 'Підтвердіть цю відповідь.';
+$Definition['Account Options'] = 'Опції аккаунта';
+$Definition['Activate'] = 'Активувати';
+$Definition['Active'] = 'Активно';
+$Definition['Active Users'] = 'Активні користувачі';
+$Definition['Activity'] = 'Активність';
+$Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s підтвердив %4$s %8$s.';
+$Definition['Activity.BookmarkComment.FullHeadline'] = 'Користувач %1$s прокоментував ваше %8$s.';
+$Definition['Activity.BookmarkComment.ProfileHeadline'] = 'Користувач %1$s прокоментував ваше %8$s.';
+$Definition['Activity.Comment'] = 'Коментувати';
+$Definition['Activity.CommentMention.FullHeadline'] = '%1$s згадав %3$s в %8$s.';
+$Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s згадав %3$s в %8$s.';
+$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s надіслав вам %8$s.';
+$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s надіслав вам %8$s.';
+$Definition['Activity.Join.FullHeadline'] = '%1$s тепер з нами.';
+$Definition['Activity.Join.ProfileHeadline'] = '%1$s тепер з нами.';
+$Definition['Activity.PictureChange.FullHeadline'] = '%1$s змінив зображення.';
+$Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s змінив(ла) зображення користувача %6$s.';
+$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s відповів %4$s %8$s.';
+$Definition['Add'] = 'Додати';
+$Definition['Add a Comment'] = 'Додати коментар';
+$Definition['Add a Message'] = 'Додати повідомлення';
+$Definition['Add another poll option ...'] = 'Додати ще один з варіантів відповіді ...';
+$Definition['Add a Profile Picture'] = 'Додати зображення профілю';
+$Definition['Add a Warning'] = 'Додати повідомлення';
+$Definition['Add Badge'] = 'Додати знак';
+$Definition['Add Comment'] = 'Додати коментар';
+$Definition['Add Cost'] = 'Додати вартість';
+$Definition['Add Image'] = 'Додати зображення';
+$Definition['Add Message'] = 'Додати повідомлення';
+$Definition['Add Note'] = 'Додати нотатку';
+$Definition['Add People to this Conversation'] = 'Добавити співрозмовників';
+$Definition['Add Route'] = 'Додати маршрут';
+$Definition['Administrator Activity'] = 'Активність адміністратора';
+$Definition['administrators'] = 'адміністратори';
+$Definition['Advanced Stuff'] = 'Розширено';
+$Definition['Agree'] = 'Погодження';
+$Definition['Alert'] = 'Тривога';
+$Definition['All %s'] = 'Всі %s';
+$Definition['All Bookmarks'] = 'Всі закладки';
+$Definition['All Categories'] = 'Всі категорії';
+$Definition['all categories'] = 'всі категорії';
+$Definition['All Conversations'] = 'Всі бесіди';
+$Definition['All Discussions'] = 'Всі обговорення';
+$Definition['Allow'] = 'Дозволити';
+$Definition['Allow other members to see your email?'] = 'Дозволити користувачам бачити ваш email';
+$Definition['All Time Leaders'] = 'Всі лідери';
+$Definition['Ancient Membership'] = 'Старий форумчанин';
+$Definition['An invitation has already been sent to the email you entered.'] = 'Запрошення вже було відправлено на адресу електронної пошти яку ви ввели.';
+$Definition['Announce'] = 'Оголошення';
+$Definition['Announce...'] = 'Будь-хто...';
+$Definition['Announcement'] = 'Оголошення';
+$Definition['Announcements'] = 'Оголошення';
+$Definition['Announce this discussion'] = 'Оголосити це обговорення';
+$Definition['Answer'] = 'Відповідь';
+$Definition['answer'] = 'Відповідь';
+$Definition['Answers'] = 'Відповіді';
+$Definition['Applicants'] = 'Здобувачі';
+$Definition['Applicants & Invitations'] = 'Програми та запрошення';
+$Definition['Apply Changes'] = 'Прийняти зміни';
+$Definition['Apply for Membership'] = 'Зареєструватися';
+$Definition['Apply for membership'] = 'Примінити для членів форуму';
+$Definition['Approve'] = 'Підтвердити';
+$Definition['Approve Applicant'] = 'Підтвердити';
+$Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Ви точно ВПЕВНЕНІ, що вибрали цю опцію?';
+$Definition['Are you sure you want to delete this %s?'] = 'Видалити %s?';
+$Definition['Are you sure you want to do that?'] = 'Ви дійсно хочете зробити це ?';
+$Definition['Are you sure you want to do this?'] = 'Точно зробити це?';
+$Definition['Are you sure you wish to continue?'] = 'Продовжити?';
+$Definition['Ask a Question'] = 'Задати питання';
+$Definition['Ask Question'] = 'Створити обговорення';
+$Definition['Attach a file'] = 'Прикріпити файл';
+$Definition['Attachments'] = 'Прикріплені матеріали';
+$Definition['AttemptingSignOut'] = 'Ви намагаєтеся вийти. Ви впевнені, що хочете %s?';
+$Definition['Authenticate URL'] = 'Аутентифікація URL';
+$Definition['Author'] = 'Автоор';
+$Definition['available'] = 'доступно';
+$Definition['Awaiting Moderation'] = 'очікування на модерацію';
+$Definition['Awesome'] = 'Чудово';
+
+$Definition['Back to Discussions'] = 'Назад до обговорень';
+$Definition['Back to Profile'] = 'Повернутись до профілю';
+$Definition['Badge'] = 'Значок';
+$Definition['Badge404'] = 'Значок не знайдено';
+$Definition['Badges'] = 'Значки ';
+$Definition['BadgesModuleTitle'] = 'Значки';
+$Definition['BadgesNobody'] = 'Ніхто поки не використав цей значок';
+$Definition['Ban'] = 'Бан';
+$Definition['Ban.Action'] = 'Бан';
+$Definition['Banned'] = 'Забанений';
+$Definition['Banned for being abusive.'] = 'Забанені за образу';
+$Definition['Banned for spamming.'] = 'Забанено за спам.';
+$Definition['Banned users can no longer access the site.'] = 'Забанений користувач не має доступу до сайту.';
+$Definition['Ban User'] = 'Забанений';
+$Definition['Ban Value'] = 'Кількість бану';
+$Definition['Best Answer'] = 'Найкраща відповідь';
+$Definition['Best Answers'] = 'Найкращі відповіді';
+$Definition['Best Of'] = 'Найкращий ';
+$Definition['Best Of...'] = 'Найкращий з...';
+$Definition['Blank Discussion Topic'] = 'Бланк обговорення';
+$Definition['Blank Message'] = 'Бланк повідомлення';
+$Definition['Blog'] = 'Блог';
+$Definition['Blogs'] = 'Блоги';
+$Definition['Body'] = 'зміст';
+$Definition['Bookmark'] = 'Добавити в закладки';
+$Definition['bookmarked discussion'] = 'список закладок';
+$Definition['Bookmarked Discussions'] = 'Вибрані обговорення';
+$Definition['bookmarks'] = 'закладки';
+$Definition['by Date'] = 'за датою';
+$Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Завантажуючи файл, ви підтверджуєте, що маєте права поширювати це зображення і воно не порушує Правила користування.';
+
+$Definition['Cancel'] = 'Відмінити';
+$Definition['Casual'] = 'Випадково';
+$Definition['Categories'] = 'Категорії';
+$Definition['CategoriesShowFollowed'] = 'Показувати категорії на які підписані';
+$Definition['CategoriesShowUnfollowed'] = 'Показати приховані категорії';
+$Definition['CategoriesViewingAll'] = 'Ви переглядаєте всі категорії.';
+$Definition['CategoriesViewingFollowed'] = 'Ви переглядаєте категорії на які підписані.';
+$Definition['Category'] = 'Категорія';
+$Definition['Category Filter'] = 'Фільтр категорій';
+$Definition['CategoryID'] = 'Категорія';
+$Definition['Category Management'] = 'Керування категоріями';
+$Definition['Category Notifications'] = 'Сповіщення з категорій';
+$Definition['Category to Use'] = 'Використовувати категорії';
+$Definition['Change'] = 'Змінити';
+$Definition['Change My Password'] = 'Змінити мій пароль';
+$Definition['Change My Picture'] = 'Змінити зображення';
+$Definition['Change Password'] = 'Змінити пароль';
+$Definition['Change Picture'] = 'Змінити зображення';
+$Definition['Check all roles that apply to this user:'] = 'Позначте ті ролі, которі слід застосувати до користувача:';
+$Definition['Child Categories'] = 'Дочірні категорії';
+$Definition['Child Categories:'] = 'Дочірні категорії:';
+$Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
+$Definition['Choose the main discussion into which all comments will be merged:'] = 'Виберіть обговорення де категорії будуть об\'єднані:';
+$Definition['Choose whether you want to ask a question or start a discussion.'] = 'Виберіть де ви хочете задати питання чи почати обговорення.';
+$Definition['Clear'] = 'Очистити';
+$Definition['clear'] = 'очистити';
+$Definition['Clear Conversation History'] = 'Очистити історію розмов';
+$Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'Натисніть <a href="%s">here</a> для повернення до обговорення.';
+$Definition['Click accept or reject beside an answer.'] = 'Натисніть прийняти або відхилити відповідь.';
+$Definition['clicking here'] = 'клікання тут';
+$Definition['Click the %s beside discussions to bookmark them.'] = 'Клікніть %s біля обговорення щоб додати в закладки.';
+$Definition['Close'] = 'Закрити';
+$Definition['Closed'] = 'Закрито';
+$Definition['Close this discussion'] = 'Закрити обговорення';
+$Definition['Comment'] = 'Коментувати';
+$Definition['comment'] = 'коментар';
+$Definition['Comment As ...'] = 'Коментувати як ...';
+$Definition['Comment by %s'] = 'Коментар від %s';
+$Definition['Comment in'] = 'в';
+$Definition['Commenting as %1$s (%2$s)'] = 'Коментування як %1$s <span class="SignOutWrap">(%2$s)</span>';
+$Definition['Commenting not allowed.'] = 'Коментування не дозволено.';
+$Definition['Comments'] = 'Коментарі';
+$Definition['Comments are between {UserID,you}.'] = 'Коментування між {UserID,you}.';
+$Definition['Community'] = 'Спільнота';
+$Definition['Community Guidelines'] = 'Принципи спільноти';
+$Definition['Completely delete the warning.'] = 'Повністю видалити попередження.';
+$Definition['Confirm'] = 'Підтвердити';
+$Definition['Confirm Email'] = 'Підтвердити Email';
+$Definition['Confirm Password'] = 'Повторіть пароль';
+$Definition['Connect'] = 'З\'єднатись';
+$Definition['ConnectAccountExists'] = 'Ви маєте тут аккаунт';
+$Definition['ConnectChooseName'] = 'Виберіть ім\'я, щоб ідентифікувати себе на сайті.';
+$Definition['ConnectCreateAccount'] = 'Додати інформацію; створити аккаунт';
+$Definition['ConnectExistingPassword'] = 'Введіть існуючий пароль облікового запису.';
+$Definition['Connecting...'] = 'З\'єднання...';
+$Definition['Connection'] = 'З\'єднання';
+$Definition['ConnectLeaveBlank'] = 'Залиште порожнім, якщо підключенні до існуючого облікового запису.';
+$Definition['ConnectName'] = 'Логін';
+$Definition['ConnectRegisteredName'] = 'Ваше зареєстроване ім\'я користувача:: <strong> %s </strong>';
+$Definition['Contact Us'] = 'Зв\'язатись з нами';
+$Definition['conversation'] = 'бесіду';
+$Definition['Core'] = 'Ядро';
+$Definition['Create Discussions'] = 'Створити обговорення';
+$Definition['Create One.'] = 'Зареєструйтесь.';
+$Definition['Current'] = 'Поточний';
+$Definition['Currently: '] = 'Поточне: ';
+$Definition['Custom Information'] = 'Користувальницькі інформація';
+$Definition['Customize'] = 'Налаштувати';
+$Definition['customize your profile now'] = 'налаштувати ваш профіль зараз';
+$Definition['Customize your Public Profile'] = 'Налаштувати ваш публічний профіль';
+$Definition['Custom Profile Fields'] = 'Користувацькі поля профілю';
+$Definition['Custom Profile Field Settings'] = 'Користувацький профіль. Параметри поля';
+
+$Definition['Dashboard'] = 'Панель керування';
+$Definition['Dashboard Home'] = 'Початкова панель';
+$Definition['Dashboard Summaries'] = 'Початкова панель - Загальне';
+$Definition['Date'] = 'Підтверджено';
+$Definition['Date Added'] = 'Дата - додано';
+$Definition['days'] = 'дні';
+$Definition['Define Thumbnail'] = 'Клацніть і виділіть мишкою область, яка визначить мініатюру аватара.';
+$Definition['Delete'] = 'Видалити';
+$Definition['Delete %s'] = 'Видалити %s';
+$Definition['Delete Account'] = 'Видалити аккаунт';
+$Definition['Delete Conversation'] = 'Видалити бесіду';
+$Definition['Delete Discussion'] = 'Видалити обговорення';
+$Definition['Delete User Content'] = 'Видалити контент користувача';
+$Definition['Delete User Forever'] = 'Видалити користувача нажавжди';
+$Definition['Deny'] = 'Заборонено';
+$Definition['Deny Applicant'] = 'Заборонено';
+$Definition['Did this answer the question?'] = 'Ви отримали відповідь на це питання?';
+$Definition['Disagree'] = 'Не згоден';
+$Definition['Discussion'] = 'Обговорення';
+$Definition['discussion'] = 'обговорення';
+$Definition['Discussions'] = 'Обговорення';
+$Definition['Discussions Page'] = 'Сторінка обговорень';
+$Definition['Discussion Title'] = 'Назва обговорення';
+$Definition['Dislike'] = 'Не подобається';
+$Definition['Dismiss'] = 'Не закріпляти';
+$Definition['Don\'t announce.'] = 'Не оголошувати.';
+$Definition['Don\'t fold quotes'] = 'Не скидає квот';
+$Definition['Don\'t have an account? %s'] = 'Немає облікового запису? %s';
+$Definition['Do you want to expire or delete this warning?'] = 'Видалити це попередження?';
+$Definition['Draft saved at %s'] = 'Чернетка збережена в %s';
+$Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Клацніть і виділіть мишкою область, яка визначить мініатюру аватара.';
+
+$Definition['Earned'] = 'Зароблений';
+$Definition['Edit'] = 'Редагувати';
+$Definition['Edit Account'] = 'Змінити мій аккаунт';
+$Definition['Edit Comment'] = 'Редагувати коментар';
+$Definition['Edit Discussion'] = 'Редагувати обговорення';
+$Definition['Edit My Account'] = 'Змінити мій аккаунт';
+$Definition['Edit My Profile'] = 'Змінити мій профіль';
+$Definition['Edit My Thumbnail'] = 'Змінити мініатюру аватара';
+$Definition['editor.BBCodeHelpText'] = 'Ви можете використовувати <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> у ваших постах.';
+$Definition['editor.HtmlHelpText'] = 'Ви можете використовувати <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">простий Html</a>  у ваших постах.';
+$Definition['editor.MarkdownHelpText'] = 'Ви можете використовувати <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> у ваших постах.';
+$Definition['editor.TextHelpText'] = 'Ви можете використовувати звичайний текст у ваших постах.';
+$Definition['editor.WysiwygHelpText'] = 'Ви використовуєте <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> у ваших постах.';
+$Definition['Edit Preferences'] = 'Редагувати налаштування';
+$Definition['Edit Profile'] = 'Редагувати профіль';
+$Definition['Edit Tag'] = 'Редагувати теги';
+$Definition['Edit Thumbnail'] = 'Змінити мініатюру аватара';
+$Definition['Email/Username'] = 'Email/Ім\'я користувача';
+$Definition['EmailConfirmEmail'] = 'Вам потрібно підтвердити свою адресу електронної пошти, перш ніж продовжувати. Будь ласка, підтвердіть свою адресу електронної пошти, перейшовши за наступним посиланням:{/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['EmailFooter'] = '
+Щасливого дня!';
+$Definition['EmailHeader'] = 'Привіт {User.Name}!
+';
+$Definition['EmailInvitation'] = 'Доброго дня!
+
+%1$s запросив вас приєднатись до %2$s. Якщо ви згідні, перейдіть за посиланням:
+
+  %3$s
+
+Приємного дня!';
+$Definition['EmailMembershipApproved'] = 'Доброго дня, %1$s,
+
+Ваша реєстрація була затверджена! Щоб увійти на сайт, пройдіть за посиланням:
+
+  %2$s
+  
+Приємного дня!';
+$Definition['EmailNotification'] = '%1$s
+
+Перейдіть по посиланню, щоб перевірити:
+%2$s
+
+Приємного дня!';
+$Definition['Email Notifications'] = 'Сповіщення на Email';
+$Definition['Email Or Username'] = 'Email або ім\'я користувача';
+$Definition['EmailPassword'] = 'Доброго дня, %1$s,
+
+%2$s скинув ваш пароль від %3$s. Параметри облікового запису тепер такі:
+
+  Email: %6$s
+  Пароль: %5$s
+  Url: %4$s
+
+Приємного дня!';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'Email, відправлений цим додатком, буде від даного імені та адреси:';
+$Definition['EmailStoryNotification'] = '%1$s
+
+%3$s
+
+---
+Перейдіть по посиланню, щоб перевірити:
+%2$s
+
+Приємного дня!';
+$Definition['Email Unavailable'] = 'Email недоступний';
+$Definition['Email visible to other users'] = 'Email видно іншим користувачами';
+$Definition['EmailWelcome'] = 'Доброго дня, %1$s,
+
+%2$s створив акаунт для вас на %3$s. Параметри облікового запису:
+
+  Email: %6$s
+  Пароль: %5$s
+  Url: %4$s
+
+Приємного дня!';
+$Definition['EmailWelcomeConnect'] = 'Доброго дня, {User.Name},
+
+Ви успішно підключились до {Title}. Ваша інформація:
+
+  Логін: {User.Name}
+  Підключено до: {ProviderName}
+
+Ви можете отримати доступ до сайту тут: {/,url,domain}.
+
+Приємного дня!';
+$Definition['EmailWelcomeRegister'] = 'Доброго дня, {User.Name},
+
+Ви успішно зареєстрували аккаунт на {Title}. Ваша інформація:
+
+  Логін: {User.Name}
+  Email: {User.Email}
+
+Ви можете отримати доступ до сайту тут: {/,url,domain}.
+
+Приємного дня!';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">Читати повністю...</a></p><div class="ClearFix"></div></div>';
+$Definition['Enter your Email address'] = 'Введіт вашу Email адресу';
+$Definition['Enter your email address'] = 'Введіть свій email';
+$Definition['Enter your Email address or username'] = 'Введіт вашу Email адресу або ім\'я користувача';
+$Definition['Enter Your OpenID Url'] = 'Введіть ваш OpenID Url';
+$Definition['Erase User Content'] = 'Затерти каристувацький контент';
+$Definition['Error'] = 'Помилка';
+$Definition['ErrorBadInvitationCode'] = 'Помилка : код запрошення невірний';
+$Definition['ErrorCredentials'] = 'Вибачте, облікового запису за введеної Вами зв\'язкою email-а і пароля не було знайдено.';
+$Definition['ErrorPermission'] = 'Вибачте, відмовлено в доступі.';
+$Definition['ErrorPluginDisableRequired'] = 'Ви не можете відключити плагін {0} тому що плагін {1} потрібен для підтримування роботи.';
+$Definition['ErrorPluginEnableRequired'] = 'Цей плагін вимагає, щоб плагін {0}  був включений перш ніж він може бути самовключений.';
+$Definition['ErrorPluginVersionMatch'] = 'Включений плагін {0} (version {1})  не відповідає вимогам версії ({2}).';
+$Definition['ErrorRecordNotFound'] = 'запис не знайдено.';
+$Definition['ErrorTermsOfService'] = 'Ви не прийняли правила користування.';
+$Definition['Event'] = 'подія';
+$Definition['Events'] = 'Події';
+$Definition['everyone'] = 'всі';
+$Definition['Everything'] = 'Всі';
+$Definition['Expired'] = 'Закінчився строк';
+$Definition['Expires'] = 'Закінчується';
+
+$Definition['Failed to find discussion for commenting.'] = 'Не вдалося знайти обговорення для коментування.';
+$Definition['Failed to load the poll.'] = 'Не вдалося завантажити опитування.';
+$Definition['Feedback'] = 'Зворотній зв\'язок';
+$Definition['Female'] = 'Жінка';
+$Definition['Filename'] = 'Ім\'я файлу';
+$Definition['File Size'] = 'Розмір файлу';
+$Definition['First Anniversary'] = 'перша річниця';
+$Definition['First Comment'] = 'Перший коментар';
+$Definition['Flag'] = 'прапорець';
+$Definition['Follow'] = 'слідувати';
+$Definition['Follow %s'] = 'Слідкувати %s';
+$Definition['Followed by %d people'] = 'Прослідковано за %d';
+$Definition['Followed by %d person'] = 'Прослідковано %d';
+$Definition['followed categories'] = 'категорії на які підписані';
+$Definition['Following %d people'] = 'Слідкування за %d';
+$Definition['Following %d person'] = 'Слідкування %d';
+$Definition['Follows'] = 'Слідкування';
+$Definition['Forgot?'] = 'Забули?';
+$Definition['Forgot your password?'] = 'Забули пароль?';
+$Definition['Format his'] = 'його';
+$Definition['Format their'] = 'їх';
+$Definition['Format You'] = 'Ви';
+$Definition['Format you'] = 'ви';
+$Definition['Format Your'] = 'Ваш';
+$Definition['Forum'] = 'Форум';
+$Definition['Forums'] = 'Форуми';
+$Definition['Fourth Anniversary'] = 'четверта річниця';
+$Definition['Friends'] = 'Друзі';
+$Definition['Full Site'] = 'Повна версія сайту';
+
+$Definition['Garden.Email.SupportAddress'] = 'email підтримки';
+$Definition['Garden.Email.SupportName'] = 'Підтримка ім\'я';
+$Definition['Garden.Registration.DefaultRoles'] = 'роль за замовчуванням';
+$Definition['Garden.Title'] = 'Текст заголовку';
+$Definition['Gender'] = 'Стать';
+$Definition['General'] = 'Загальне';
+$Definition['Generate import SQL only'] = 'Створити тільки SQL імпорт';
+$Definition['Generate Password'] = 'Згенерувати пароль';
+$Definition['Give'] = 'Надати';
+$Definition['Give a Badge to %s'] = 'Взяти значок для %s';
+$Definition['Give Badge'] = 'Взяти значок';
+$Definition['Given'] = 'Надати';
+$Definition['Go'] = '→';
+$Definition['Group'] = 'Група';
+$Definition['group'] = 'група';
+$Definition['Group Info'] = 'Інформація про групу';
+$Definition['Group Leaders'] = 'Лідери групи';
+$Definition['Group Members'] = 'Члени групи';
+$Definition['Groups'] = 'Групи';
+$Definition['groups'] = 'групи';
+$Definition['GuestModule.Message'] = 'Схоже, що Ви тут вперше. Якщо хочете взяти участь, натисніть на одну з цих кнопок!';
+
+$Definition['Hang on a sec while we sign you out.'] = 'Почекайте секунду.';
+$Definition['he'] = 'він';
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} заслужив значок<a href="{Url,html}">{Data.Name,text}</a>.';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} забанений {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Comment'] = 'Користувач  {ActivityUserID,user} прокоментував <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Почав нове обговорення. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} запросив вас до <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} змінив фотографію на сторінці для {ActivityUserID,user}.';
+$Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} тепер з нами.';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} розбанено {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} попередив {RegardingUserID,you}.';
+$Definition['her'] = 'її';
+$Definition['Hide'] = 'Приховати';
+$Definition['Hide my online status from other members'] = 'Приховувати мій статус онлайн';
+$Definition['Hide signatures?'] = 'Приховати підписи??';
+$Definition['Hide signatures always'] = 'Завжди ховати підписи';
+$Definition['Hide signatures on my mobile device'] = 'Ховати підписи на мобільних пристроях';
+$Definition['his'] = 'його';
+$Definition['Home'] = 'Головна';
+$Definition['hours'] = 'год.';
+$Definition['Howdy, Stranger!'] = 'Привіт, незнайомець!';
+$Definition['How long do you want this warning to last?'] = 'Як довго повинно висіти попередження?';
+$Definition['How many levels deep should we start folding up quote trees?'] = 'Який має бути рівень глибини наслідування квот?';
+
+$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Я приймаю <a id="Умови користування" class="Popup" target="terms" href="%s">Умови користування</a>';
+$Definition['Icon'] = 'Іконка';
+$Definition['in'] = 'в';
+$Definition['In <b>%s.</b>'] = 'В <b>%s.</b>';
+$Definition['In <b>%s</b> and recent discussions.'] = 'в <b>%s</b> і поточне обговорення.';
+$Definition['Inbox'] = 'Вхідні';
+$Definition['In seconds'] = 'в сек.';
+$Definition['Insert Image'] = 'Вставити зображення';
+$Definition['Insightful'] = 'проникливий';
+$Definition['Internal'] = 'Внутрішній';
+$Definition['In this Conversation'] = 'В цій бесіді';
+$Definition['Invalid password.'] = 'Пароль, який ви ввели невірний. Пам\'ятайте, що паролі чутливі до регістру.';
+$Definition['Invitations'] = 'Запрошення';
+$Definition['Invite'] = 'Запросити';
+$Definition['InviteErrorPermission'] = 'Вибачте, відмовлено в доступі.';
+$Definition['IP Address'] = 'IP адреса';
+$Definition['I remember now!'] = 'Тепер я згадав!';
+$Definition['Item'] = 'пункт бану';
+$Definition['item'] = 'пункт';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Схоже, що Ви тут вперше. Якщо хочете взяти участь, натисніть на одну з цих кнопок!';
+
+$Definition['Jail'] = 'В\'язниця';
+$Definition['Jailed users have reduced abilities.'] = 'Ув\'язнені у в\'язницю користувачі зменшили здібності.';
+$Definition['Joined'] = 'З нами з';
+$Definition['Joined %s'] = 'Підєднано %s';
+$Definition['Join this Group'] = 'Підєднатись до групи';
+$Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Просто видалити запис користувача, і зберегти весь вміст користувача.';
+$Definition['Just expire the warning.'] = 'Просто закінчується попередження.';
+$Definition['Just you!'] = 'Тільки ви!';
+
+$Definition['Keep me signed in'] = 'запамятати мене';
+$Definition['Keep User Content'] = 'Залишити контент користувача';
+
+$Definition['Label'] = 'Лейбл';
+$Definition['Last Active'] = 'Був в';
+$Definition['Last IP'] = 'Остання IP адреса';
+$Definition['Latest %1$s'] = 'Останні %1$s';
+$Definition['Latest Post'] = 'Останні обговорення';
+$Definition['Leaders'] = 'Лідери';
+$Definition['Leave a Comment'] = 'Залишити коментар';
+$Definition['Leave a comment'] = 'Залишити коментар';
+$Definition['Leave blank unless connecting to an exising account.'] = 'Залиште порожнім, якщо підключенні до існуючого обліковий запис.';
+$Definition['Leave Comments'] = 'Залишити коментар';
+$Definition['Leave Group'] = 'Покинути групу';
+$Definition['Length'] = 'Довжина';
+$Definition['Level %s'] = 'Рівень %s';
+$Definition['Like'] = 'Лайк';
+$Definition['Link to content:'] = 'Посилання до контенту:';
+$Definition['Login with Facebook'] = 'Увійти через Facebook';
+
+$Definition['Major'] = 'Основний';
+$Definition['Make me invisible? (Will not show you on the list)'] = 'Зробити невидимим? (Не буде показано в списку)';
+$Definition['Make this poll anonymous (user votes are not made public).'] = 'Зробити опитування анонімним (голоси користувачів не оприлюднені).';
+$Definition['Male'] = 'Чоловік';
+$Definition['Mark All Viewed'] = 'Позначити все прочитаним';
+$Definition['Mark as Troll'] = 'Відзначити як Троль';
+$Definition['Marking as spam cannot be undone.'] = 'Маркування чогось як спам змусить його видалити назавжди. Видалення є хорошим способом, щоб зберегти ваш форум в чистоті.';
+$Definition['Mark Read'] = 'Позначити прочитаним';
+$Definition['Members'] = 'Члени';
+$Definition['Merge'] = 'Злиття';
+$Definition['Merge Discussions'] = 'З\'єднати обговорення';
+$Definition['Message'] = 'Повідомлення';
+$Definition['message'] = 'повідомлення';
+$Definition['Messages'] = 'Повідомлення';
+$Definition['messages'] = 'повідомлення';
+$Definition['Message to User'] = 'Повідомлення користувачу';
+$Definition['Minor'] = 'Менший';
+$Definition['minutes'] = 'хв.';
+$Definition['Moderation'] = 'Модерація';
+$Definition['Moderation Queue'] = 'Черга на модерацію';
+$Definition['Moderator Activity'] = 'Активність модератора';
+$Definition['Moderators'] = 'Модератори';
+$Definition['moderators'] = 'модератори';
+$Definition['months'] = 'міс.';
+$Definition['More'] = 'Більше';
+$Definition['More About %s'] = 'Більше про %s';
+$Definition['More Comments'] = 'Більше коментарів';
+$Definition['More Discussions'] = 'Більше обговорень';
+$Definition['More Information'] = 'Більше інформації';
+$Definition['More Results'] = 'Більше результатів';
+$Definition['More…'] = 'Більше…';
+$Definition['Most Recent'] = 'Останні';
+$Definition['Most recent:'] = 'Останні:';
+$Definition['Most recent: %1$s by %2$s'] = 'Останні: %1$s by %2$s';
+$Definition['Most recent by %1$s'] = 'Останнє від %1$s';
+$Definition['Most Recent Comment'] = 'Останній коментар';
+$Definition['MyBadgesModuleTitle'] = 'Мої значки';
+$Definition['My Bookmarks'] = 'Мої закладки';
+$Definition['My Discussions'] = 'Мої обговорення';
+$Definition['My Drafts'] = 'Мої чернетки';
+$Definition['My Forums'] = 'Мої форуми';
+$Definition['My Preferences'] = 'Мої налаштування';
+
+$Definition['Name'] = 'Ім\'я значка';
+$Definition['Name the Group'] = 'Назва групи';
+$Definition['Name Unavailable'] = 'Ім\'я недоступне';
+$Definition['New %s'] = 'Новий %s';
+$Definition['New Conversation'] = 'Розпочати нову бесіду';
+$Definition['New Discussion'] = 'Почати нове обговорення';
+$Definition['new discussion'] = 'нове';
+$Definition['New Event'] = 'Нова подія';
+$Definition['New Message'] = 'Розпочати нову бесіду';
+$Definition['New Password'] = 'Новий пароль';
+$Definition['New Poll'] = 'Нове голосування';
+$Definition['Next'] = 'Наступне';
+$Definition['Ninth Anniversary'] = 'Дев\'ята річниця';
+$Definition['No'] = 'Ні';
+$Definition['NoBadgesEarned'] = 'У будь-яку хвилину now&hellip;';
+$Definition['No badges yet.'] = 'Значок поки що відсутній';
+$Definition['No default roles.'] = 'Немає ролей за-замовчуванням';
+$Definition['No discussions were found.'] = 'Не було знайдено жодного обговореня.';
+$Definition['No items tagged with %s.'] = 'Жодних пунктів з %s.';
+$Definition['No results for \'%s\''] = 'Жодного результату для \'%s\'';
+$Definition['No Roles'] = 'Немає ролей';
+$Definition['Not Authorized (401)'] = 'Не авторизований (401)';
+$Definition['Not Found (404)'] = 'Не знайдено (404)';
+$Definition['Notice'] = 'Замітка';
+$Definition['Notification'] = 'Сповіщення';
+$Definition['Notification Preferences'] = 'Налаштування сповіщень';
+$Definition['Notifications'] = 'Сповіщення';
+$Definition['Notifictions'] = 'Сповіщення';
+$Definition['Notify'] = 'Повідомлення';
+$Definition['Notify me of private messages.'] = 'Повідомляти про нові приватні повідомлення.';
+$Definition['Notify me when a badge is requested.'] = 'Повідомити мене, коли значок запитується.';
+$Definition['Notify me when a comment is flagged.'] = 'Повідомити мене коли мій коментар відмічений';
+$Definition['Notify me when I am added to private conversations.'] = 'Повідомляти, коли мене добавляють в приватну бесіду.';
+$Definition['Notify me when people comment on my bookmarked discussions.'] = 'Повідомляти про коментарі в моїх вибраних дискусіях.';
+$Definition['Notify me when people comment on my discussions.'] = 'Повідомляти про коментарі в моїх обговореннях.';
+$Definition['Notify me when people mention me.'] = 'Повідомляти, коли мене згадують.';
+$Definition['Notify me when people mention me in comments.'] = 'Повідомляти, коли мене згадують в коментарях.';
+$Definition['Notify me when people reply to my wall comments.'] = 'Повідомляти про відповіді на мої коментарі на стіні.';
+$Definition['Notify me when people write on my wall.'] = 'Повідомляти про нові записи на стіні.';
+$Definition['Not much happening here, yet.'] = 'Не так багато відбувається тут, поки.';
+$Definition['Not Verified'] = 'Не верифіковано';
+
+$Definition[' now.'] = ' зараз.';
+
+$Definition['Off Topic'] = 'ОФТОП';
+$Definition['Okay'] = 'ОК';
+$Definition['OldPassword'] = 'старого пароля';
+$Definition['Old Password'] = 'Старий пароль';
+$Definition['on'] = 'на';
+$Definition['Online Preferences'] = 'Онлайн налаштування';
+$Definition['Only show followed categories'] = 'Показувати категорії, які прослідковуються мною';
+$Definition['OpenID Settings'] = 'Налаштування OpenID';
+$Definition['Optional Description'] = 'Опціональний опис';
+$Definition['Options'] = 'Функції';
+$Definition['or'] = 'або';
+$Definition['Organize discussion categories'] = 'Організувати категорії для обговорення';
+$Definition['Organize your Categories'] = 'Організувати ваші категорії';
+$Definition['Original'] = 'Оригінал';
+$Definition['Or you can...'] = 'Або ви можете використати';
+$Definition['Other Records'] = 'Інші записи';
+
+$Definition['PageDetailsMessage'] = '%1$s до %2$s';
+$Definition['PageDetailsMessageFull'] = '%1$s до %2$s з %3$s';
+$Definition['Page Not Found'] = 'Не знайдено (404)';
+$Definition['Participated'] = 'Участь';
+$Definition['ParticipatedHomepageTitle'] = 'Було обговорено';
+$Definition['Password'] = 'Пароль';
+$Definition['PasswordRequest'] = 'Хтось запросив зміну паролю  на %2$s. Щоб скинути пароль, перейдіть за цим посиланням: 
+
+%3$s
+
+Якщо ви цього не робили - ігноруйте цей лист.';
+$Definition['Passwords don\'t match'] = 'Паролі не збігаються';
+$Definition['Permalink'] = '#';
+$Definition['permalink'] = 'перейти до повідомлення';
+$Definition['Permanent (301)'] = 'Постійний (301)';
+$Definition['PermissionErrorMessage'] = 'У вас немає прав для доступу.';
+$Definition['PermissionErrorTitle'] = 'Вирішення проблеми';
+$Definition['PermissionRequired.Garden.Moderation.Manage'] = 'Ви маєте бути модератором.';
+$Definition['PermissionRequired.Garden.Settings.Manage'] = 'Ви маєте бути адміністратором.';
+$Definition['PermissionRequired.Javascript'] = 'Ви повинні увімкнути javascript.';
+$Definition['Photogenic'] = 'Фотогенічний';
+$Definition['Picture'] = 'Зображення';
+$Definition['Pin'] = 'Пін';
+$Definition['Pinned'] = 'Запінований';
+$Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Зачекайте, поки ви будете перенаправлені. Якщо ви не перенаправлені, натисніть <a href="%s">тут</a>.';
+$Definition['Poll'] = 'Голосування';
+$Definition['Poll Options'] = 'Налаштування голосування';
+$Definition['Poll Question'] = 'Питання для голосування';
+$Definition['Popular'] = 'Популярні';
+$Definition['Popular Discussions'] = 'Популярні обговорення';
+$Definition['Popular Tags'] = 'Популярні теги';
+$Definition['Popup'] = 'Спливаюче повідомлення';
+$Definition['Position'] = 'Позиція';
+$Definition['Post'] = 'Тема';
+$Definition['Post Comment'] = 'Відправити коментар';
+$Definition['Post Discussion'] = 'Створити обговорення';
+$Definition['Post edited by %1$s at %2$s'] = 'Тема відредагована %1$s в %2$s';
+$Definition['Posts'] = 'Теми';
+$Definition['Posts.Plural: %s'] = 'Теми: %s';
+$Definition['Posts.Singular: %s'] = 'Теми: %s';
+$Definition['Posts: %s'] = 'Теми: %s';
+$Definition['Post this anonymously'] = 'Анонімна тема';
+$Definition['Powered by %s'] = 'Працює на %s';
+$Definition['Powered by Vanilla'] = 'Працює на Vanilla';
+$Definition['PreferenceBadgeEmail'] = 'Повідомити мене, коли я заробив значок.';
+$Definition['PreferenceBadgePopup'] = 'Повідомити мене, коли я заробив значок.';
+$Definition['Preview'] = 'Попередній перегляд';
+$Definition['Previous'] = 'Назад';
+$Definition['Privacy'] = 'Приватний';
+$Definition['Privacy Settings'] = 'Налаштування приватності';
+$Definition['Private'] = 'Приватно';
+$Definition['Private Note for Moderators'] = 'Приватна замітка для модератора';
+$Definition['Problem with credentials.'] = 'Проблема з обліковими даними.';
+$Definition['Proceed'] = 'Продовжити';
+$Definition['Profile'] = 'Профіль';
+$Definition['Profile  Fields'] = 'Поля профілю';
+$Definition['Profile Fields'] = 'Поля профілю';
+$Definition['ProfileFieldsCustomDescription'] = 'У цих полях Ви можете ввести такі речі, як "Сімейний стан", "Skype", або "Улюблений динозаврв". Будьте винахідливі!';
+$Definition['Profile Page'] = 'Сторінка профілю';
+$Definition['Profile Picture'] = 'Картинка профілю';
+$Definition['Profiles'] = 'Профілі';
+$Definition['Promote'] = 'Рекомендувати';
+$Definition['Public'] = 'Публічно';
+
+$Definition['Q&A Accepted'] = 'Дано відповідь ✓';
+$Definition['Q&A Answered'] = 'Дано відповідь';
+$Definition['Q&A Options'] = 'Q&A Опції';
+$Definition['Q&A Question'] = 'Питання';
+$Definition['QnA Accepted Answer'] = 'Відповідь ✓';
+$Definition['QnA Rejected Answer'] = 'Відповідь відхилено';
+$Definition['Question'] = 'Питання';
+$Definition['question'] = 'питання';
+$Definition['Question Title'] = 'Назва обговорення';
+$Definition['Quote'] = 'Квота';
+$Definition['Quote Folding'] = 'Складена квота';
+$Definition['Quote on'] = 'на';
+$Definition['Quote Settings'] = 'Налаштування квот';
+$Definition['Quote wrote'] = 'писав';
+
+$Definition['Rank'] = 'Розряд';
+$Definition['Ranks.ActivityFormat'] = 'Користувач {ActivityUserID,user} {ActivityUserID,plural,was,were} підвищений до {Data.Name,plaintext}.';
+$Definition['Ranks.NotificationFormat'] = 'Вітаємо! Ви були призначені {Data.Name,plaintext}.';
+$Definition['Re: %s'] = 'На: %s';
+$Definition['Reactions'] = 'Реакції';
+$Definition['Real Name'] = 'Справжнє ім\'я';
+$Definition['Reason'] = 'Причина';
+$Definition['Reason (optional)'] = 'Причина (опціонально)';
+$Definition['Recent Activity'] = 'Остання активність';
+$Definition['Recent Admin Activity'] = 'Остання активність адміністратора';
+$Definition['Recent Discussions'] = 'Недавнє обговорення';
+$Definition['recently'] = 'недавні';
+$Definition['Recent Moderator Activity'] = 'Остання активність модератора';
+$Definition['Recent Tutorials'] = 'Свіжі туторіали';
+$Definition['Recipients'] = 'Одержувачі';
+$Definition['RecipientUserID'] = 'одержувача';
+$Definition['Redirecting...'] = 'Реєстрація...';
+$Definition['Refetch Page'] = 'Повторно вибрати сторінки';
+$Definition['Register'] = 'Зареєструватися';
+$Definition['Register IP'] = 'Зареєстрована IP';
+$Definition['Register with %s'] = 'Зареєструватися';
+$Definition['Registration  Fields'] = 'Поля для реєстрації';
+$Definition['Registration URL'] = 'URL для реєстрації';
+$Definition['Reject'] = 'Відкинути';
+$Definition['Reject this answer.'] = 'Відкинути цю відповідь';
+$Definition['Remember me'] = 'Запам\'ятати мене';
+$Definition['Remember me on this computer'] = 'Запамятати мене на цьому компьютері';
+$Definition['Remote Configuration'] = 'Віддалена конфігурація';
+$Definition['Removed by'] = 'Видалено ';
+$Definition['Remove from %s'] = 'Видалити з %s';
+$Definition['Remove Invitation'] = 'Видалити запрошення';
+$Definition['Remove My Picture'] = 'Видалити зображення';
+$Definition['Remove Picture'] = 'Видалити забраження';
+$Definition['Remove Warning'] = 'Видалити попередження';
+$Definition['Rename Forum'] = 'Змінити назву форуму';
+$Definition['Reopen'] = 'Перевідкрити';
+$Definition['Replies'] = 'Відповіді';
+$Definition['Reply'] = 'Відповідь';
+$Definition['Report %s'] = 'Звіт %s';
+$Definition['Reported by: '] = 'Повідомлено: ';
+$Definition['Reported Posts'] = 'Повідомлені теми';
+$Definition['Request a new password'] = 'Запросіть новий пароль';
+$Definition['Request a new password →'] = 'Запит на новий пароль →';
+$Definition['Reset Password'] = 'Очистити пароль';
+$Definition['reverse'] = 'назад';
+$Definition['Revoke'] = 'Анулювати';
+$Definition['Revoked badge.'] = 'Анулювати значок.';
+$Definition['role'] = 'роль';
+$Definition['RoleID'] = 'Роль';
+$Definition['Roles'] = 'Ролі';
+$Definition['roles'] = 'ролі';
+
+$Definition['Save'] = 'Зберегти';
+$Definition['Save Comment'] = 'Зберегти коментар';
+$Definition['Save Draft'] = 'Зберегти чернетку';
+$Definition['Save Poll'] = 'Зберегти голос';
+$Definition['Save Preferences'] = 'Зберегти налаштування';
+$Definition['Save your password'] = 'Зберегти пароль';
+$Definition['Search'] = 'Пошук';
+$Definition['SearchBoxPlaceHolder'] = 'Пошук';
+$Definition['Search for a tag.'] = 'Пошук всього або частини тегу.';
+$Definition['Search results for \'%s\''] = 'Результати пошуку для \'%s\'';
+$Definition['Second Anniversary'] = 'Друга річниця';
+$Definition['Secret'] = 'Секретно';
+$Definition['Sections'] = 'Секції';
+$Definition['Security Check'] = 'Перевірка безпеки - введіть захисний код';
+$Definition['Select an image on your computer (2mb max)'] = 'Виберіть зображення з вашого комп\'ютера (максимум 2 Мб)';
+$Definition['Select one of the following avatars:'] = 'Виберіть одну аватарку із доступних';
+$Definition['Send a New Message'] = 'Відправити повідомлення';
+$Definition['Send Message'] = 'Надіслати повідомлення';
+$Definition['sep and'] = 'і';
+$Definition['Set a New Warning Level'] = 'Встановити новий рівень попередження';
+$Definition['Set A Password'] = 'Вказати пароль';
+$Definition['Setting'] = 'Налаштування';
+$Definition['Settings'] = 'Налаштування';
+$Definition['Seventh Anniversary'] = 'Сьома річниця';
+$Definition['Severity'] = 'Важливо';
+$Definition['Share'] = 'Поділитись';
+$Definition['Shared Accounts'] = 'Розшарені акаунти';
+$Definition['she'] = 'вона';
+$Definition['Shown only on mobile'] = 'Відображається тільки на мобільному';
+$Definition['Show unfollowed categories'] = 'Показати категорії які не слідкуються мною';
+$Definition['Sign-In URL'] = 'URL входу';
+$Definition['Sign-Out URL'] = 'URL виходу';
+$Definition['Signature invalid.'] = 'Підпис невірний.';
+$Definition['Signatures'] = 'Підписи';
+$Definition['Sign In'] = 'Вхід';
+$Definition['SignIn'] = 'Вхід';
+$Definition['SigningOut'] = 'Зачекайте секунду.';
+$Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Увійдіть</a> або <a href="{RegisterUrl,html}">Зареєструйтесь</a> для коментування.';
+$Definition['Sign in to vote!'] = 'Увійдіть для голосування!';
+$Definition['Sign In with %s'] = 'Увійдіть з %s';
+$Definition['Sign In with Disqus'] = 'Увійти з Disqus';
+$Definition['Sign In with Facebook'] = 'Увійти через Facebook';
+$Definition['Sign In with Google'] = 'Увійти з Google';
+$Definition['Sign In with OpenID'] = 'Увійти з OpenID';
+$Definition['Sign In with Twitter'] = 'Увійти з Twitter';
+$Definition['Sign Out'] = 'Вийти';
+$Definition['sign out'] = 'вийти';
+$Definition['Sign Up'] = 'Зареєструватись';
+$Definition['Sink'] = 'Втопити';
+$Definition['Sink this discussion'] = 'Затопити це обговорення';
+$Definition['Sitemap Settings'] = 'Налаштування карти сайту';
+$Definition['Sixth Anniversary'] = 'Шоста річниця';
+$Definition['somebody'] = 'дехто';
+$Definition['Some Code'] = 'Деякий код';
+$Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Хтось відповів на ваше запитання. Ви повинні прийняти / відхилити відповідь.';
+$Definition['sorted by'] = 'упорядковано за';
+$Definition['Source:'] = 'Ресурс:';
+$Definition['Spam'] = 'Спам';
+$Definition['Spam Queue'] = 'Спам черга';
+$Definition['Split'] = 'Роз\'єднати';
+$Definition['Split Comments'] = 'Роз\'яднати коментарі';
+$Definition['Spoiler'] = 'Спойлер';
+$Definition['Spoof User'] = 'Пародія на користувача';
+$Definition['Start'] = 'Старт';
+$Definition['Start a New Conversation'] = 'Розпочати нову бесіду';
+$Definition['Start a New Discussion'] = 'Почати нове обговорення';
+$Definition['Start Conversation'] = 'Розпочати бесіду';
+$Definition['Started By'] = 'Розпочато';
+$Definition['Started by %1$s'] = 'Автор %1$s';
+$Definition['Start your First Discussion'] = 'Почніть своє перше обговорення';
+$Definition['Stop following'] = 'Перестати слідкувати';
+$Definition['Strip images out of signatures'] = 'Полоса картинки з підпису';
+$Definition['Strip images out of signatures?'] = 'Зняти зображення з підписів?';
+$Definition['Suggested Value'] = 'Рекомендоване значення';
+
+$Definition['Tagged'] = 'Позначений';
+$Definition['Tagged with '] = 'Позначений з';
+$Definition['Tagged with "%s"'] = 'Протеговано з "%s"';
+$Definition['Tagging'] = 'Позначення';
+$Definition['Tag Name'] = 'Ім\'я тегу';
+$Definition['Tags'] = 'Теги';
+$Definition['Tags are keywords that users can assign to discussions to help categorize their question with similar questions.'] = 'Теги ключові слова, які користувачі можуть призначити на дискусії, щоб допомогти класифікувати їх питання з подібними питаннями.';
+$Definition['Take Action'] = 'Вжити заходів';
+$Definition['Take Action:'] = 'Вжити заходів:';
+$Definition['Target'] = 'Ціль';
+$Definition['Tell the user why you\'re warning them'] = 'Повідомити користувача про попередження';
+$Definition['Tell us why you want to join!'] = 'Розкажіть нам, чому ви вирішили приєднатися!';
+$Definition['Tenth Anniversary'] = 'Десята річниця';
+$Definition['Terms'] = 'Терміни';
+$Definition['TermsOfService'] = 'Умови обслуговування';
+$Definition['Terms of Service'] = 'Умови використання';
+$Definition['TermsOfServiceText'] = '<p> Ви погоджуєтесь, що за допомогою використання даної послуги , ви не використовуватимете її для розміщення повідомленнь, які є завідомо неправдиві та / або дискредитують,  неточними, образливими , вульгарними , ненависними , образливими , непристойними , сексуальноорієнтованими , загрозливими , що порушує недоторканність приватного життя людини , а також вимоги  будь-якого закону . Ви погоджуєтесь не розміщувати будь-який захищений авторським правом матеріал, якщо тільки авторське право належить вам. < / P>
+<p> Ми в цьому форумі також залишаємо за собою право розкрити Ваші особисті дані (або будь-яку інформацію, про вас ) у разі скарги або юридичної дії, які випливають з будь-яким повідомленням , яке ви розмістили . Ми реєструємо всі інтернет-протоколи, адреси коли ви заходите на цей сайт. < / P>
+<p> Зверніть увагу , що рекламні оголошення , листи щастя, піраміди і прохання є невідповідними на цьому форумі. < / P>
+<p> Ми залишаємо за собою право видалити будь-який контент з будь-якої причини або без причини. Ми залишаємо за собою право припинити будь членство по будь-якої причини чи без причини взагалі. < / P>
+<p> Ваш вік повинен бутине молодше 13 років. < / P>';
+$Definition['Text  Max  Length'] = 'Максимальна довжина тексту';
+$Definition['The conversation has been cleared.'] = 'Обговорення було очищено.';
+$Definition['The email you entered in use by another member.'] = 'Email, який ви ввели, вже використовується іншим користувачем';
+$Definition['The email you have entered is already related to an existing account.'] = 'Email, який ви ввели вже пов\'язаний з існуючим обліковим записом.';
+$Definition['The file failed to upload.'] = 'Неможливо завантажити файл.';
+$Definition['their'] = 'їхній';
+$Definition['The name you entered is already in use by another member.'] = 'Ім\'я, яке ви ввели, вже зайнято';
+$Definition['The page you were looking for could not be found.'] = 'Сторінка, яку ви шукаєте, не знайдена';
+$Definition['The quote had to be converted from %s to %s.'] = 'Квота була переведена з %s в %s. Деяке форматування може бути втрачене.';
+$Definition['There are no tags in the system yet.'] = 'Теги відсутні.';
+$Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'Перевірочний код невірний, спробуйте ще раз.';
+$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Вже існує обліковий запис з таким же ім\'ям користувача (%1$s) або електронною поштою  (%2$s), як у вас. Ви можете або створити новий обліковий запис, або  ввести облікові дані для існуючого облікового запису форуму.';
+$Definition['The response was not in the correct format.'] = 'Відповідь не була у правильному форматі.';
+$Definition['There was an error connecting to Disqus'] = 'Помилка з\'єднання з Disqus';
+$Definition['There was an error connecting to Facebook'] = 'Помилка з\'єднання з Facebook';
+$Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Була помилка завантаження файлу. Це, швидше за все, тому, що файл занадто великий.';
+$Definition['The site is currently undergoing maintenance.'] = 'Сайт в даний час проходить технічне обслуговування.';
+$Definition['The uploaded file was too big (max %s).'] = 'Завантажуваний файл занадто великий (максимум %s).';
+$Definition['they'] = 'вони';
+$Definition['Third Anniversary'] = 'Третя річниця';
+$Definition['This answer was %s.'] = 'Ця відповідь була %s.';
+$Definition['This answer was Accepted.'] = 'Відповідь прийнята.';
+$Definition['This discussion has been closed.'] = 'Це обговорення закрите';
+$Definition['This discussion is related to an undefined foriegn content source.'] = 'Це обговорення пов\'язано з невизначеним чужоземним джерелом контенту.';
+$Definition['This discussion was created from comments split from: %s.'] = 'Ця дискусія була створена з коментарів поділу від: %s.';
+$Definition['This discussion was merged into %s'] = 'Ця дискусія була об\'єднана в %s';
+$Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Зображення було розтягнути. Клікніть щоб збільшити';
+$Definition['This is a private poll: no-one will see what you voted for.'] = 'Це приватне опитування: ніхто не буде бачити, за що ви проголосували.';
+$Definition['This is a public poll: others will see what you voted for.'] = 'Це відкрите голосування: інші будуть бачити, за що ви проголосували.';
+$Definition['This is a system account and does not represent a real person.'] = 'Це системний обліковий запис і не представляє собою реальної людини.';
+$Definition['This Month\'s Leaders'] = 'Лідери місяця';
+$Definition['This question\'s answer has been accepted.'] = 'Відповідь на це питання була прийнята.';
+$Definition['This user has been verified as a non-spammer.'] = 'Цей користувач позначений як не спамер.';
+$Definition['This user has not been verified as a non-spammer.'] = 'Користувач не був перевірений як не спамер.';
+$Definition['This user has not commented yet.'] = 'Цей користувач ще не прокоментував.';
+$Definition['This user has not made any discussions yet.'] = 'Користувач поки що не завів жодного обговорення ще.';
+$Definition['This user is verified as a non-spammer'] = 'Користувач перевірений як не спамер';
+$Definition['This warning has expired. Do you want to completely delete it?'] = 'Це попередження закінчилось. Ви хочете видалити його?';
+$Definition['This Week\'s Leaders'] = 'Лідери тижня';
+$Definition['Thumbnail'] = 'Мініатюра';
+$Definition['Title'] = 'Заголовок';
+$Definition['Topic'] = 'Тема';
+$Definition['Topics'] = 'Теми';
+$Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Щоб відправити ще одне підтвердження електронною поштою натисніть <a href="%s">тут</a>.';
+$Definition['To use reCAPTCHA you must get an API key from %s'] = 'Для використання reCAPTCHA Ви маєте отримати API ключ з %s';
+$Definition['Transport error: %s'] = 'Відбулася невиправна помилка при обробці запиту <br /> Сервер повернув таку відповідь: %s';
+$Definition['Troll'] = 'Троль';
+$Definition['Turn ON'] = 'Увімкнути';
+$Definition['Twitter Settings'] = 'налаштуванняTwitter';
+$Definition['Type'] = 'Тип';
+
+$Definition['Unannounce'] = 'Не оголошення';
+$Definition['Unanswered'] = 'Нема відповідей';
+$Definition['Unanswered Questions'] = 'нема відповідей';
+$Definition['unavailable'] = 'недоступно';
+$Definition['Unban User'] = 'Розбанити користувача';
+$Definition['Unbookmark'] = 'Видалити з закладок';
+$Definition['Undefined discussion body.'] = 'Невизначено текст обговорення';
+$Definition['Undefined discussion subject.'] = 'Невизначено тему обговорення.';
+$Definition['Undefined foreign content'] = 'Не визначено іноземний контент';
+$Definition['Undo Follow'] = 'Скасувати слідкування';
+$Definition['Unfollow'] = 'Не слідкувати';
+$Definition['Unhide'] = 'Не приховувати';
+$Definition['Unknown'] = 'Ніводомо';
+$Definition['Unknown client: %s.'] = 'Невідомий клієнт: %s.';
+$Definition['Unread'] = 'Не прочитано';
+$Definition['Unread Discussions'] = 'Не прочитане обговорення';
+$Definition['Unsink'] = 'Не топити';
+$Definition['Unspecified'] = 'Не скажу';
+$Definition['Upcoming Events'] = 'Наступні події';
+$Definition['Update'] = 'Оновити';
+$Definition['Updated badge'] = 'Оновлений значок';
+$Definition['Upload'] = 'Завантажити';
+$Definition['Uploading...'] = 'Завантаження...';
+$Definition['UrlCode'] = 'Url код';
+$Definition['Use My Current Password'] = 'Використовувати мій поточний пароль';
+$Definition['User "%s" does not exist.'] = 'Користувач "%s" не існує.';
+$Definition['Username'] = 'Логін';
+$Definition['Username can only contain letters, numbers, and underscores.'] = 'Ім\'я користувача може містити тільки букви, цифри та підкреслення.';
+$Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Ім\'я користувача може складатися тільки з букв, цифр та прогалин, і повинно бути від 3 до 20 символів довжиною.';
+$Definition['UsernameError'] = 'Ім\'я користувача може складатися тільки з букв, цифр і повинно бути від 3 до 20 символів довжиною.';
+$Definition['Username or email'] = 'Ім\'я користувача або адреса електронної пошти';
+$Definition['User not found.'] = 'На жаль, жоден обліковий запис не  знайдений пов\'язаний з Email / Ім\'я користувача, що ви ввели.';
+$Definition['Users Count'] = 'Кількість користувачів';
+
+$Definition['ValidateBanned'] = 'Це %s не допускається.';
+$Definition['ValidateBoolean'] = '%s є логічно не допустимим.';
+$Definition['ValidateConnection'] = 'Параметри з\'єднання.
+Не вдалося відкрити з\'єднання з базою даних. База даних повідомляє про таку помилку: <code>%s</code>';
+$Definition['ValidateDate'] = '%s не вірна дата.';
+$Definition['ValidateDecimal'] = '%s не є десятковим значенням.';
+$Definition['ValidateEmail'] = 'Невірний формат Email.';
+$Definition['ValidateEnum'] = '%s не вірно.';
+$Definition['ValidateFormat'] = 'Вам не дозволено редагувати html код.';
+$Definition['ValidateInteger'] = '%s не є допустимим числом.';
+$Definition['ValidateIntegerArray'] = '%s повинен бути розділений комами список номерів.';
+$Definition['ValidateLength'] = 'Поле %1$s на %2$s символа довше, ніж дозволено.';
+$Definition['ValidateMatch'] = 'Поля %s не збігаються.';
+$Definition['ValidateOneOrMoreArrayItemRequired'] = 'Ви повинні обрати хоча б одного %s.';
+$Definition['ValidateRegex'] = '%s не відображається, щоб бути в правильному форматі.';
+$Definition['ValidateRequired'] = 'Поле %s має бути заповненим.';
+$Definition['ValidateRequiredArray'] = 'Ви повинні обрати хоча б одного %s.';
+$Definition['ValidateTag'] = 'Теги не можуть містити пробіли.';
+$Definition['ValidateTime'] = '%s не вірний час.';
+$Definition['ValidateTimestamp'] = '%s не вірний часовий штамп.';
+$Definition['ValidateUrlStringRelaxed'] = '%s не може містити косу риску, котирування або символи тегів.';
+$Definition['ValidateUsername'] = 'Імена користувачів повинні бути 3-20 символів і складатися з букв, цифр і символів підкреслення.';
+$Definition['ValidateVersion'] = 'Це поле %s має не вірний номер версії. Дивіться php version_compare() для прикладу правильної версії.';
+$Definition['Value'] = 'Стан виразу';
+$Definition['Vanilla Statistics'] = 'Статистика Vanilla';
+$Definition['Vanilla Statistics Plugin'] = 'Плагін статистики Vanilla';
+$Definition['Verified'] = 'Перевірено';
+$Definition['Verifying your credentials...'] = 'Перевірка ваших облікових даних ...';
+$Definition['via %s'] = 'через %s';
+$Definition['Video embedding has been disabled.'] = 'Вбудоване відео було деактивовано. URL не були переведені до вбудованих.';
+$Definition['View Badge'] = 'Переглянути значок';
+$Definition['Viewing'] = 'Перегляд';
+$Definition['Views'] = 'Переглядів';
+$Definition['Visible'] = 'Видимо';
+$Definition['Visits'] = 'Візитів';
+$Definition['Visit Site'] = 'На сайт';
+$Definition['Vote'] = 'Голос';
+$Definition['Vote Down'] = 'Опустити голос';
+$Definition['Votes'] = 'Голосування';
+$Definition['Vote Up'] = 'Підняти голос';
+
+$Definition['wall'] = 'стіна';
+$Definition['Want to take part in this discussion? Click one of these:'] = 'Хочете взяти участь у цих дискусіях? Натисніть одну з них:';
+$Definition['Warn'] = 'Попередження';
+$Definition['Warn %s'] = 'Попередження %s';
+$Definition['Warned for'] = 'Попередження для';
+$Definition['Warning'] = 'Попередження';
+$Definition['Warnings'] = 'Попередження';
+$Definition['WarningTitleFormat'] = 'Користувач {InsertUserID,User} попереджений {WarnUserID,User} за {Points,plural,%s points}.';
+$Definition['WarningTitleFormat.Notice'] = 'Користувач {InsertUserID,User} попереджений {WarnUserID,User} за {Points,plural,%s points} (just a notice).';
+$Definition['was'] = 'був';
+$Definition['Website'] = 'Вебсайт';
+$Definition['weeks'] = 'тижнів';
+$Definition['Welcome Aboard!'] = 'Вітаємо на нашому форумі!';
+$Definition['were'] = 'були';
+$Definition['Where do you want to announce this discussion?'] = 'Де ви хочете, щоб розпочати це обговорення?';
+$Definition['Who\'s Online'] = 'Хто онлайн';
+$Definition['Whos Online'] = 'Хто онлайн';
+$Definition['Why are you Banning this user?'] = 'Чому ви забанили цього користувача?';
+$Definition['Write a comment'] = 'Напишіть коментар';
+$Definition['Write Comment'] = 'Написати коментар';
+$Definition['Write something about yourself...'] = 'Напишіть щось про себе...';
+
+$Definition['Yes'] = 'Так';
+$Definition['You'] = 'Ви';
+$Definition['you'] = 'ви';
+$Definition['You\'ve been Jailed.'] = 'Ви потрапили до в\'язниці.';
+$Definition['You already have an account here.'] = 'Такий акаунт вже існує';
+$Definition['You are about to ban {User.UserID,user}.'] = 'Ви збираєтесь забанити {User.UserID,user}.';
+$Definition['You are about to unban {User.UserID,user}.'] = 'Ви збираєтесь розбанити {User.UserID,user}.';
+$Definition['You are allowed to create %s groups.'] = 'Ви можете створити %s груп.';
+$Definition['You are connected as %s through %s.'] = 'Ви підключені як %s за допомогою  %s.';
+$Definition['You are connected through %2$s.'] = 'Ви підключені через %2$s.';
+$Definition['You are currently only viewing categories that you follow.'] = 'Зараз Ви переглядаєте категорії, за якими слідуєте.';
+$Definition['You are currently viewing all categories.'] = 'Ви переглядаєте всі категорії.';
+$Definition['You are editing %s\'s signature'] = 'Ви редагуєте підпис  %s\'s ';
+$Definition['You are limited to %s recipient.'] = 'Ви обмежені до отримувача %s.';
+$Definition['You are limited to %s recipients.'] = 'Ви обмежені до отримувачів %s.';
+$Definition['You can either ask a question or start a discussion.'] = 'Ви можете або задати питання або почати обговорення. Вибирайте те, що ви хочете зробити нижче.';
+$Definition['You can follow individual categories and be notified of all posts within them.'] = 'Ви можете слідкувати за окремими категоріями і отримувати повідомлення всіх повідомлень в них.';
+$Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Ви не можете редагувати ескіз зовні пов\'язаного фотографією в профілі.';
+$Definition['You can only specify up to %s tags.'] = 'Можна вказати тільки до тегів %s.';
+$Definition['You can remove or ban this member from the group.'] = 'Ви можете видалити або забанити цього користувача в групі. Забанені не можуть знову увійти до групи.';
+$Definition['You can use HTML in your signature.'] = 'Ви можете використати<b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Простий Html</a></b> у вашому підписі.';
+$Definition['You don\'t have permission to do that.'] = 'Немає дозволу.';
+$Definition['You do not have any %s yet.'] = 'Немає %s.';
+$Definition['You do not have any bookmarks.'] = 'У вас немає закладок.';
+$Definition['You do not have any conversations.'] = 'Ви не маєте жодних приватних розмов.';
+$Definition['You do not have any drafts.'] = 'Ви не маєте жодних проектів.';
+$Definition['You do not have any notifications yet.'] = 'У вас поки що немає сповіщеннь.';
+$Definition['You do not have enough invitations left.'] = 'Запрошення закінчились';
+$Definition['You do not have permission to write new comments.'] = 'Ви не маєте дозвіл на коментування.';
+$Definition['YouEarnedBadge'] = 'Ви заробили цей значок-';
+$Definition['You have answered questions'] = 'Ви відповіли на запитання';
+$Definition['You have entered an invalid discussion title'] = 'Ви ввели невірну назву обговорення';
+$Definition['You haven\'t read this yet.'] = 'Це ще не прочитано';
+$Definition['You have not started any discussions.'] = 'Ви не розпочали обговорення.';
+$Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'Ви залишили %1$s повідомлень протягом %2$s секунд. Ви повинні почекати не менше %3$s секунд перед тим, як відправляти знову.';
+$Definition['You have selected %1$s.'] = 'Ви вибрали %1$s.';
+$Definition['You have selected %1$s in this discussion.'] = 'Ви вибрали %1$s в цьому обговоренні.';
+$Definition['You have to select at least 2 discussions to merge.'] = 'Ви повинні вибрати хоча б 2 дискусії для злиття.';
+$Definition['You must agree to the terms of service.'] = 'Ви не прийняли правила користування.';
+$Definition['You need to confirm your email address.'] = 'Ви маєте підтвердити свій email. Перейдіть за<a href="{/entry/emailconfirmrequest,url}">посиланням</a> для повторення відправки підтверджувального email.';
+$Definition['You need to sign in before you can do this.'] = 'Ви повинні увійти в систему, перш ніж ви можете зробити це.';
+$Definition['your'] = 'ваш';
+$Definition['Your changes have been saved.'] = 'Ваші зміни були збережені.';
+$Definition['Your changes have been saved successfully.'] = 'Ваші зміни були успішно збережені.';
+$Definition['Your changes were saved.'] = 'Ваші зміни були збережені.';
+$Definition['Your email has been successfully confirmed.'] = 'Ваш email підтверджено.';
+$Definition['Your invitation has been sent.'] = 'Ваше запрошення біло надіслано.';
+$Definition['Your old password was incorrect.'] = 'Невірно введено старий пароль';
+$Definition['Your password has been changed.'] = 'Пароль змінено.';
+$Definition['Your picture has been removed.'] = 'Зображення видалено.';
+$Definition['Your post will appear once it\'s been approved.'] = 'Ваше повідомлення з\'явиться, як тільки це буде схвалено.';
+$Definition['Your preferences have been saved.'] = 'Ваші налаштування були збережені.';
+$Definition['Your private conversations with other members.'] = 'Особисті бесіди з іншими користувачами.';
+$Definition['Your registered username: <strong>%s</strong>'] = 'Ваше зареєстроване ім\'я користувача: <strong>%s</strong>';
+$Definition['Your request has been sent.'] = 'Ваш запит був відправлений. Перевірте свою електронну пошту для отримання подальших інструкцій.';
+$Definition['Your settings have been saved.'] = 'Ваші налаштуваня були збережені.';
+$Definition['Your settings have been saved successfully.'] = 'Ваші налаштування були успішно збережені.';
+$Definition['Your warning was added.'] = 'Ваше попередження було додано.';
+
+$Definition[' You should '] = 'Ви маєте';
+
+$Definition['You were added to a conversation.'] = 'Користувач {InsertUserID,user} додав {NotifyUserID,you} до <a href="{Url,htmlencode}">обговорення</a>.';
+
+$Definition['↳ No results for \'%s\''] = '↳ Жодних результатів \'%s\'';
+$Definition['↳ Search results for \'%s\''] = '↳ Результати пошуку для \'%s\'';
+$Definition['↳ Show All'] = '↳ Показати все';
