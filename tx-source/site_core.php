@@ -1,5 +1,7 @@
 <?php
 
+$Definition['(All)'] = '(All)';
+
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s accepted %4$s invitation for membership.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s changed %4$s permissions.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s changed %6$s profile picture.';
@@ -133,6 +135,7 @@ $Definition['Add Note'] = 'Add Note';
 $Definition['Add People to this Conversation'] = 'Add People to this Conversation';
 $Definition['Add Route'] = 'Add Route';
 $Definition['Admin'] = 'Admin';
+$Definition['Administrator'] = 'Administrator';
 $Definition['Administrator Activity'] = 'Administrator Activity';
 $Definition['administrators'] = 'administrators';
 $Definition['Advanced Stuff'] = 'Advanced Stuff';
@@ -161,6 +164,7 @@ $Definition['Announce this discussion'] = 'Announce this discussion';
 $Definition['Answer'] = 'Answer';
 $Definition['answer'] = 'answer';
 $Definition['Answers'] = 'Answers';
+$Definition['Applicant'] = 'Applicant';
 $Definition['Applicants & Invitations'] = 'Applicants & Invitations';
 $Definition['Applicants'] = 'Applicants';
 $Definition['Apply Changes'] = 'Apply Changes';
@@ -507,6 +511,7 @@ $Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.'
 $Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
 $Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
 $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
+$Definition['Guest'] = 'Guest'];
 $Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Hang on a sec while we sign you out.';
@@ -586,6 +591,7 @@ $Definition['Level %s'] = 'Level %s';
 $Definition['Like'] = 'Like';
 $Definition['Link to content:'] = 'Link to content:';
 $Definition['Locale'] = 'en-CA';
+$Definition['Log'] = 'Log';
 $Definition['Login with Facebook'] = 'Login with Facebook';
 $Definition['LOL'] = 'LOL';
 
@@ -611,6 +617,7 @@ $Definition['minutes'] = 'minutes';
 $Definition['Moderation'] = 'Moderation';
 $Definition['Moderation Queue'] = 'Moderation Queue';
 $Definition['Moderator Activity'] = 'Moderator Activity';
+$Definition['Moderator'] = 'Moderator';
 $Definition['Moderators'] = 'Moderators';
 $Definition['moderators'] = 'moderators';
 $Definition['MoneyFormat2'] = '$%7.2f';
@@ -827,6 +834,7 @@ $Definition['Rename Forum'] = 'Rename Forum';
 $Definition['Reopen'] = 'Reopen';
 $Definition['Replies'] = 'Replies';
 $Definition['Reply'] = 'Reply';
+$Definition['Report'] = 'Report';
 $Definition['Report %s'] = 'Report %s';
 $Definition['Reported by: '] = 'Reported by: ';
 $Definition['Reported Posts'] = 'Reported Posts';
