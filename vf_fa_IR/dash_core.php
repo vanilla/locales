@@ -375,12 +375,9 @@ $Definition['Frequency'] = 'فرکانس';
 $Definition['From'] = 'از';
 
 $Definition['Garden'] = 'بوستان';
-$Definition['Garden.Import.Complete.Description'] = 'شما یک درون‌ریزی را با موفقیت به پایان رسانده‌اید. اگر آمادگی دارید، دکمهٔ <b>پایان</b> را بفشارید. به یاد داشته باشید که به برگهٔ <a href="%s">داشبورد &gt; نقش‌ها و پروانه‌ها</a> بروید و پروانه‌های نقش خودتان را تنظیم کنید.';
-$Definition['Garden.Import.Continue.Description'] = 'گویا در میانهٔ فرآیند درون‌ریزی هستید. لطفاً یکی از گزینه‌های زیر را برگزینید.';
 $Definition['Garden.Import.Description'] = 'از این برگه برای درون‌ریزی داده‌هایی که از یک انجمن‌ دیگر با برون‌ریز وانیلا، آماده کرده‌اید، استفاده کنید. داده‌های بیش‌تر را در <a href="%s">مستندات درون‌ریزی</a> ببینید.';
 $Definition['Garden.Import.InputInstructions'] = 'رایانه و گذرواژهٔ مدیر را از داده‌هایی که درون‌ریزی می‌شود، وارد کنید.';
 $Definition['Garden.Import.Merge'] = 'ادغام کردن با این انجمن‌';
-$Definition['Garden.Import.Merge.Description'] = 'با این گزینه، همهٔ کاربران و جستارهای پروندهٔ درون‌ریز با این انجمن‌ ادغام خواهد شد.';
 $Definition['Garden.Import.Overwrite'] = 'بازنویسی روی این انجمن';
 $Definition['Garden.Import.Overwrite.Description'] = 'هشدار: همهٔ داده‌های این انجمن‌ بازنویسی خواهند شد.';
 $Definition['Garden.StatisticsDisabled'] = 'شما به‌طور مشخص آمارگیر وانیلا را در پروندهٔ پیکربندی‌تان از کار انداخته‌اید.';
@@ -420,15 +417,6 @@ $Definition['Hide  Fields'] = 'فیلد های پنهان';
 $Definition['Hide from the recent discussions page.'] = 'از برگهٔ جستارهای تازه پنهان کن.';
 $Definition['Hide Pocket Locations'] = 'مکان های مخفی پاکت ها';
 $Definition['Hide this category from the recent discussions page.'] = 'این دسته را در برگهٔ جستارهای تازه نشان نده';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'سلام رفیق!
-
-انجمنی را که به‌تازگی ساخته‌ام،‌ یک نگاهی بیانداز. جایی عالی برای ما است که با هم‌دیگر به صورت برخط، گفت‌وگو کنیم.
-
-برای ورود، پیوند زیر را دنبال کن. ';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -863,7 +851,6 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You cannot edit the thumbnail of another member.'] = 'شما نمی توانید چهرک کاربر دیگری را ویرایش کنید.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'شما نمی‌توانید رایانامه‌ای را که پذیرفته شده است، پاک کنید.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'شما نمی‌توانید تنها دستهٔ موجودی که جستارها را در بر می‌گیرد، پاک کنید';
-$Definition['You can place files in your /uploads folder.'] = 'اگر پرونده‌تان برای بارگذاری مستقیم در این برگه خیلی بزرگ است، می‌توانید آن را در پوشه‌ی uploads/ قرار دهید. نام پرونده باید با واژهٔ <b>export</b> آغاز شود و با یکی از پسوندهای <b>txt.</b> یا <b>gz.</b> به پایان برسد.';
 $Definition['You do not have permission to view other profiles.'] = 'شما پروانه‌ای برای دیدن نمایه‌های دیگر ندارید.';
 $Definition['You have %s invitations left for this month.'] = 'شما پروانهٔ فرستادن %s فراخوانهٔ دیگر را در این ماه دارید.';
 $Definition['You must be authenticated in order to use this form.'] = 'برای استفاده از این فرم، اعتبار شما باید تأیید شده باشد.';

@@ -374,13 +374,7 @@ $Definition['Forum Settings'] = 'Foruminställningar';
 $Definition['Frequency'] = 'Frekvens';
 $Definition['From'] = 'Från';
 
-$Definition['Garden.Import.Complete.Description'] = 'Du har avslutat en import med lyckat resultat.
-   Klicka på <b>Färdig</b> när du är redo.';
-$Definition['Garden.Import.Continue.Description'] = 'Det verkar som att du är mitt i en import.
-   Vänligen välj ett av följande alternativ.';
 $Definition['Garden.Import.Merge'] = 'Baka ihop med detta forum.';
-$Definition['Garden.Import.Merge.Description'] = 'Detta kommer att baka ihop all användardata och alla diskussioner från importen till ditt forum.
-<b>Varning: Om du importerar samma data två gånger kommer du att få dubletter.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Skriv över detta forum.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Varning: All data i detta forum kommer att skrivas över.';
 $Definition['Garden.StatisticsDisabled'] = 'Du har inaktiverat Vanilla Statistics specifikt i din konfigurationsfil.';
@@ -423,15 +417,6 @@ $Definition['Hide  Fields'] = 'Dölj  Fält';
 $Definition['Hide from the recent discussions page.'] = 'Göm på sidan för senaste diskussioner.';
 $Definition['Hide Pocket Locations'] = 'Göm fickornas platser';
 $Definition['Hide this category from the recent discussions page.'] = 'Göm denna kategori på sidan för senaste diskussioner.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hej kompis!
-
-Kolla det nya forumet jag nyss har lagt upp. Det är ett perfekt ställe för oss att chatta online.
-
-Följ länken nedan för att logga in.';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -844,8 +829,6 @@ $Definition['View Page'] = 'Visa sida';
 $Definition['Warning'] = 'Varning';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Varning: All din data kommer att förloras. När du har raderat finns det absolut ingen återvändo av något slag.';
 $Definition['Warning: deleting is permanent'] = 'VARNING: raderade objekt tas bort från listan och detta kan inte ångras.';
-$Definition['Warning: Loading tables can be slow.'] = '<b>Varning:</b> Din serverkonfiguration stödjer inte snabb dataladdning.
-Om du importerar en väldigt stor f il (t.ex. över 200 000 kommentarer) så kanske du bör överväga att ändra din konfiguration. Klicka Click <a href="http://vanillaforums.com/porter">här</a> för mer information.';
 $Definition['Welcome to Vanilla!'] = 'Välkommen!';
 $Definition['Welcome to your Dashboard'] = 'Välkommen till din kontrollpanel';
 $Definition['We only accept urls that begin with http:// or https://'] = 'Vi accepterar endast URL som börjar med http:// eller https://';

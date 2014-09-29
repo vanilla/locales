@@ -146,13 +146,8 @@ $Definition['Finished'] = '完了';
 $Definition['First Visit'] = '訪問開始';
 $Definition['Forum Settings'] = 'フォーラム設定';
 
-$Definition['Garden.Import.Complete.Description'] = 'インポートに成功しました。<a href="%s">ダッシュボード &gt; ロールと権限</a>に移動して、あなたの「ロール」に権限を設定してください。準備ができたら、<b>完了</b>をクリックしてください。';
-$Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
-   Please choose one of the following options.';
 $Definition['Garden.Import.Description'] = 'このページを使用して、Vanilla のエクスポート機能を使用してエクスポートされた別のフォーラムからのデータをインポートしてください。 詳しくは<a href="%s">インポートについて (英語)</a> を参照してください。';
 $Definition['Garden.Import.InputInstructions'] = 'インポートされるデータの管理者ユーザーのメールアドレスとパスワードを入力してください。';
-$Definition['Garden.Import.Merge.Description'] = 'This will merge all of the user and discussion data from the import into this forum.
-<b>Warning: If you merge the same data twice you will get duplicate discussions.</b>';
 $Definition['Garden.Import.Overwrite.Description'] = '警告: このフォーラムのすべてのデータが上書きされます。';
 $Definition['Get More Applications'] = '他のアプリケーション';
 $Definition['Get more information on creating custom routes'] = '独自のルートを作成するなら、詳しくはこちら';
@@ -163,15 +158,6 @@ $Definition['Guest'] = 'ゲスト';
 
 $Definition['Hash Algorithm'] = 'ハッシュアルゴリズム';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '注意してください！これはアクティブなセッションには適用されない、特殊なロールです。そのため、権限のオプションは "表示" 権限のみに限定されています。';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.';
 $Definition['Homepage'] = 'ホーム画面';
 
 $Definition['Import'] = 'インポート';
@@ -346,7 +332,6 @@ $Definition['View'] = '表示';
 $Definition['View Page'] = 'ページを表示';
 
 $Definition['Warning'] = '警告';
-$Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>: 現在のサーバ設定では、高速なデータ読み取りができません。とてもサイズの大きなファイル (例. 200,000 コメント以上) をインポートする場合は、設定の変更を検討するといいでしょう。詳しい情報を参照する場合は、<a href="http://vanillaforums.com/blog/help/importing-data/">ここ</a>をクリックしてください。';
 $Definition['Welcome to Vanilla!'] = 'ようこそ Vanilla へ！';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = '既定ではメールの送信にローカルメールサーバを使用します。独立した SMTP メールサーバを使用する場合は、以下で設定してください。';
 $Definition['What\'s the Buzz?'] = '最近どう？';
@@ -359,7 +344,6 @@ $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = '�
 $Definition['You can make the categories page your homepage.'] = 'カテゴリ一覧のページを<a href="%s">こちら</a>でホーム画面として設定できます。';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '%1$s プラグインを無効にできません。%2$s プラグインが動作するために、必要です。';
 $Definition['You cannot remove an invitation that has been accepted.'] = '受信済みの招待状は削除できません。';
-$Definition['You can place files in your /uploads folder.'] = 'このページに直接アップロードできないくらいファイルサイズが大きな場合は、/uploads フォルダにファイルを配置してください。ファイル名は必ず単語 <b>export</b> で始まり、拡張子 <b>.txt または .gz</b> で終わるようにしてください。';
 $Definition['You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.'] = 'MySQL ドライバ for PDO を有効にする必要があります。';
 $Definition['You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.'] = 'PHP の PDO モジュールを有効にする必要があります。';
 $Definition['You must select a file to import.'] = 'インポートするファイルを選択してください。';

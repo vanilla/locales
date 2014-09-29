@@ -243,8 +243,4 @@ $Definition['Within'] = 'Dentro de';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Se alguma vez ficar fechado fora do seu forum, pode sempre iniciar sess&atilde;o usando o seu email Vanilla e password em <a href="%1$s">%1$s</a>';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'N&atilde;o pode desactivar o plugin %1$s porque o plugin %2$s precisa dele para funcionar.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'N&atilde;o pode desactivar o plugin OpenID porque o plugin GoogleSignIn precisa dele para funcionar.';
-$Definition['You can place files in your /uploads folder.'] = 'Se o seu ficheiro &eacute; demasiado
-		grande para fazer o upload directo para esta p&aacute;gina pode coloc&aacute;-lo na pasta /uploads
-		do servidor. Certifique-se que o nome do ficheiro come&ccedil;a com a palavra <b>export</b> e termina
-		com um de <b>.txt, .gz</b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'A sua inscri&ccedil;&atilde;o ser&aacute; revista por um administrador. Ser&aacute; notificado por email quando f&ocirc;r aprovado.';

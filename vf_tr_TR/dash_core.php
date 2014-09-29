@@ -270,8 +270,8 @@ $Definition['Don\'t Refresh'] = 'Yenilemeyiniz';
 $Definition['Don\'t use Categories'] = 'Kategori kullanma';
 $Definition['Do not display the categories in the side panel.'] = 'Kategoriler yan panelde görüntülenmez.';
 $Definition['Download Locale List'] = 'Yerel listeyi indir';
-$Definition['Download Locale Pack'] = 'Yerel paketi indir';
 $Definition['DownloadLocalePack'] = 'İndir';
+$Definition['Download Locale Pack'] = 'Yerel paketi indir';
 
 $Definition['edit'] = 'düzenle';
 $Definition['Edit %s'] = '%s Düzenle ';
@@ -329,8 +329,6 @@ $Definition['Flood Control'] = 'Flood Denetimi';
 $Definition['Forum Settings'] = 'Forum Ayarları';
 $Definition['Frequency'] = 'Sıklık';
 
-$Definition['Garden.Import.Complete.Description'] = 'İçeri aktarma başarıyla tamamlandı.
-  Hazır olduğunuzda <b>Bitti</b> yazısına tıklayınız.';
 $Definition['Garden.Import.Merge'] = 'Bu forumla birleştir.';
 $Definition['Garden.Import.Overwrite'] = 'Bu forum üzerine yaz.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Uyarı: Forumdaki tüm veriler üzerine yazılabilir.';
@@ -359,15 +357,6 @@ $Definition['Hidden for everything!'] = 'Her şey için gizlendi!';
 $Definition['Hidden for mobile'] = 'Mobile için gizlendi';
 $Definition['Hide  Fields'] = 'Gizli alanlar';
 $Definition['Hide Pocket Locations'] = 'Cep Yerlerini Gizle';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Dostum Merhaba!
-
-Yeni forumu henüz oluşturdum, diğer çevrimiçi olanlarla chat yapmak için harika bir yer.
-
-Bu bağlantı ile giriş yapabilirsin.';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.

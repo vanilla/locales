@@ -22,7 +22,7 @@ $Definition['(less)'] = '(menos)';
 $Definition['(more)'] = '(mais)';
 $Definition['(YYYY-mm-dd)'] = '(dd-mm-YYYYY)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. O fórum é o que todos os seus membros &amp; clientes verão quando visitacem ';
+$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. O fórum é o que todos os seus membros &amp; clientes verão quando visitarem ';
 
 $Definition['1 day'] = '1 dia';
 $Definition['1 hour'] = '1 hora';
@@ -46,13 +46,14 @@ $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement ca
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirme seu endereço de email';
 $Definition['[%s] Invitation'] = '[%s] Convite';
-$Definition['[%s] Password Reset'] = '[%s] Recuperação de Senha';
-$Definition['[%s] Password Reset Request'] = '[%s] Requisição de Recuperação de Senha';
+$Definition['[%s] Password Reset'] = '[%s] Recuperar Senha';
+$Definition['[%s] Password Reset Request'] = '[%s] Requsitar Recuperação de Senha';
 
 $Definition['_Locale'] = 'Linguagem';
 
-$Definition['a Badge'] = 'um Distintivo';
+$Definition['a Badge'] = 'um Emblema';
 $Definition['Abilites'] = 'Habilidades';
+$Definition['About.DisableStatistics'] = 'Se você precisar desabilitar este relatório de dados por algum motivo, você pode fazê-lo adicionando a seguinte linha ao arquivo de configuração de sua instalação: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['AboutEmbedding'] = 'Incorporação permite que toda ou parte de sua comunidade seja incorporada em outras aplicações e páginas da web.';
 $Definition['About Vanilla Statistics'] = 'Sobre as Estatística do Vanilla';
 $Definition['Above Main Content'] = 'Acima do conteúdo principal';
@@ -373,15 +374,9 @@ $Definition['Forum Settings'] = 'Fórum';
 $Definition['Frequency'] = 'Frequência';
 $Definition['From'] = 'De';
 
-$Definition['Garden.Import.Complete.Description'] = 'Você completou com sucesso uma importação.
-   Clique em <b>Finalizar</b> quando você estiver pronto.';
-$Definition['Garden.Import.Continue.Description'] = 'Parece que você está no meio de uma importação.
-   Escolha uma das opções abaixo.';
 $Definition['Garden.Import.Description'] = 'Utilize esta página para importar conteúdo exportado pelo Vanilla Porter. Para mais informações <a href="%s">veja a nossa importante documentação</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Entre o email e senha do administrador que está importando estes dados.';
 $Definition['Garden.Import.Merge'] = 'Mescle com este fórum.';
-$Definition['Garden.Import.Merge.Description'] = 'Isto irá mesclar todos os dados de usuários e tópicos da importação nesta fórum.
-<b>Cuidado: Caso mescle os mesmos dados duas vezes terá tópicos duplicados.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Sobcrescreva este fórum.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Aviso: todo o conteúdo no seu fórum será sobrescrito.';
 $Definition['Garden.StatisticsDisabled'] = 'Você desabilitou as Estatísticas do Vanilla em seu arquivo de configuração.';
@@ -417,15 +412,6 @@ $Definition['Hide  Fields'] = 'Campos  Ocultos';
 $Definition['Hide from the recent discussions page.'] = 'Ocultar da página de tópicos recentes.';
 $Definition['Hide Pocket Locations'] = 'Ocultar o Local dos Pockets';
 $Definition['Hide this category from the recent discussions page.'] = 'Ocultar esta categoria da página de tópicos recentes.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Olá amigo!
-
-Dê só uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online..
-
-Siga o link abaixo para fazer o log in.';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -883,7 +869,6 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You cannot edit the thumbnail of another member.'] = 'Você não pode editar a miniatura de outro membro.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Você não pode remover um convite que já foi aceito.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Não é possível remover a última categoria que permite tópicos';
-$Definition['You can place files in your /uploads folder.'] = 'Se o seu arquivo é muito pesado para ser enviado diretamente você pode colocá-lo na pasta /uploads. Certifique-se de que o nome do arquivo começa com <b>export</b> e termina com <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'Você não tem permissão para ver o perfil de outros.';
 $Definition['You have %s invitations left for this month.'] = 'Você tem %s convites sobrando para este mês.';
 $Definition['You must be authenticated in order to use this form.'] = 'Você precisa estar autenticado para usar este formulário.';

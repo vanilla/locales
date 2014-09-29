@@ -289,8 +289,8 @@ $Definition['Don\'t Refresh'] = 'Nicht aktualisieren';
 $Definition['Don\'t use Categories'] = 'Kategorien nicht benutzen';
 $Definition['Do not display the categories in the side panel.'] = 'Kategorien nicht in Seitenleiste anzeigen.';
 $Definition['Download Locale List'] = 'Lokalisierungsliste herunterladen';
-$Definition['DownloadLocalePack'] = 'Herunterladen';
 $Definition['Download Locale Pack'] = 'Lokalisierungspaket herunterladen';
+$Definition['DownloadLocalePack'] = 'Herunterladen';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Sortiere und verschatele die Kategorien per „Drag &amp; Drop“.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Sortiere die Kategorien unten per drag and drop.';
 
@@ -371,15 +371,9 @@ $Definition['Forum Settings'] = 'Forum';
 $Definition['Frequency'] = 'Häufigkeit';
 $Definition['From'] = 'Von';
 
-$Definition['Garden.Import.Complete.Description'] = 'Du hast den Import erfolgreich abgeschlossen.
-   Klicke auf <b>Beenden</b>, wenn du bereit bist.';
-$Definition['Garden.Import.Continue.Description'] = 'Es scheint so, als ob du gerade einen Import tätigst.
-   Bitte wähle eine der folgenden Optionen.';
 $Definition['Garden.Import.Description'] = 'Benutze diese Seite, um Daten aus einem anderen Forum zu importieren, die mit dem Vanillas Exporter exportiert wurden. Weitere Informationen gibt es in der <a href="%s">Dokumentation</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'E-Mail und Passwort des Admins der Import-Quelle.';
 $Definition['Garden.Import.Merge'] = 'Mit dem Forum zusammenführen.';
-$Definition['Garden.Import.Merge.Description'] = 'Dies wird alle Benutzer- und Diskussionsdaten vom Import in das Forum.
-<b>Warnung: Wenn du die selben Daten doppelt zusammführst, wirst du Duplikate der Diskussionen erhalten.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Dieses Forum überschreiben.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Warnung: Alle Daten in diesem Forum werden überschrieben.';
 $Definition['Garden.StatisticsDisabled'] = 'Du hast die Vanilla-Statistiken ausdrücklich deaktiviert in deiner Konfigurationsdatei.';
@@ -421,15 +415,6 @@ $Definition['Hide  Fields'] = 'Verberge  Felder';
 $Definition['Hide from the recent discussions page.'] = 'In der Diskussionsübersicht verbergen.';
 $Definition['Hide Pocket Locations'] = 'Verberge Pocket-Platzierungen';
 $Definition['Hide this category from the recent discussions page.'] = 'Diese Kategorie in der Diskussionsübersicht verbergen.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hey!
-
-Schau dir das neue Forum an, das ich gerade eingerichtet habe. Es ist ein super Ort, um uns gemeinsam auszutauschen.
-
-Folge dem Link, um dich anzumelden.';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -597,9 +582,7 @@ $Definition['Points'] = 'Punkte';
 $Definition['Polls'] = 'Umfragen';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Vermeide Spam im Forum durch das Eingrenzen der Anzahl der Diskussionen und Kommentare, die der Nutzer in einer gegebenen Zeitspanne erstellen kann.';
 $Definition['Proxy Connect'] = 'ProxyConnect';
-$Definition['ProxyConnect.NoAuthenticate'] = 'Es scheint so, als ob wir nicht in der Lage waren, eine angemeldete Session von deiner Authenticator-URL zu erhalten. Bitte stelle sicher, dass du in deiner Anwendung angemeldet bist bevor du den Test durchführst.';
 $Definition['ProxyConnect.RimBlurb'] = 'Wenn du ProxyConnect mit einem offiziell unterstützten Remote-Plugin verwendest, wie bspw. das Wordpress-ProxyConnect-Plugin, sind diese Werte in der Konfigurationsseite jenes Plugins verfügbar.';
-$Definition['ProxyConnect.TestIntro'] = 'Dieses Interface erlaubt es dir, deine Konfiguration zu testen und sicherzustellen, dass ProxyConnect funktioniert.';
 $Definition['ProxyConnect.TestSettings'] = 'Nachdem du ProxyConnect konfiguriert hast, <b>und deine Änderungen gespeichert hast</b>, kannst du deine Einstellungen testen durch einen Klick auf \'ProxyConnect-Einstellungen testen\'';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect wurde konfiguriert, um mit deinem Blog zu arbeiten, <b>%s</b>. Jetzt wäre der richtige Moment, um den Authenticator zu aktivieren und ein bisschen zu testen.';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'ProxyConnect kommt mit verschiedenen vergefertigten <b>Remote Integration Managern</b>. Jeder ist dafür gemacht, den Installationsprozess zu automatisieren. Wenn deine Anwendung in der Liste unten genannt ist, wähle sie jetzt aus. Andernfalls wähle "Manuelle Integration".';
@@ -856,7 +839,6 @@ $Definition['View Page'] = 'Seite anzeigen';
 $Definition['Warning'] = 'Warnung';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Warning: Alle deine Daten gehen verloren. Nachdem du das Löschen bestätigt hast, wird es keinerlei Daten mehr geben.';
 $Definition['Warning: deleting is permanent'] = '<b>Warnung</b>: Gelöschte Elemente werden aus der Liste entfernt un können nicht wiederhergestellt werden.';
-$Definition['Warning: Loading tables can be slow.'] = '<b>Warnung</b>: Die Serverkonfiguration unterstützt nicht das schnelle Laden von Daten. Falls sehr grosse Dateien importiert werden (> 200.000 Kommentare), empfiehlt sich eine Anpassung der Konfiguration. Für weitere Informationen <a href="http://vanillaforums.com/porter">hier</a> klicken.';
 $Definition['Welcome to Vanilla!'] = 'Willkommen bei Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Willkommen auf deinem Dashboard';
 $Definition['We only accept urls that begin with http:// or https://'] = 'Ausschließlich URLs, die mit http:// oder https:// beginnen sind erlaubt';
@@ -886,7 +868,6 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You cannot edit the thumbnail of another member.'] = 'Du kannst den Thumbnail eines anderen Mitglieds nicht bearbeiten.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Du kannst keine Einladung entziehen, die bereits angenommen wurde.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Du kannst nicht die einzig verbleibende Kategorie löschen, die Diskussionen erlaubt.';
-$Definition['You can place files in your /uploads folder.'] = 'Wenn deine Datei zu gross ist, um sie direkt hochzuladen kannst du sie auch in den /uploads-Ordner kopieren. Sie sollte dann mit <b>export</b> beginnen und eine dieser Endungen haben: <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'Du hast keine Berechtigung, dir fremde Profile anzusehen';
 $Definition['You have %s invitations left for this month.'] = 'Du hast diesen Monat noch %s Einladungen übrig.';
 $Definition['You must be authenticated in order to use this form.'] = 'Du musst authentifiziert werden, um dieses Forum benutzen zu können.';

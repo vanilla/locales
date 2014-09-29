@@ -375,14 +375,8 @@ $Definition['Frequency'] = 'Συχνότητα';
 $Definition['From'] = 'Από';
 
 $Definition['Garden'] = 'Κήπος';
-$Definition['Garden.Import.Complete.Description'] = 'Η μεταφορά ολοκληρώθηκε με επιτυχία.
-   Κάντε κλικ στην <b>Ολοκλήρωση</b> όταν είστε έτοιμος.';
-$Definition['Garden.Import.Continue.Description'] = 'Φαίνεται ότι βρίσκεστε εν μέσω μεταφοράς.
-   Παρακαλώ επιλέξτε ένα από τα παρακάτω.';
 $Definition['Garden.Import.InputInstructions'] = 'Δώστε το email και τον κωδικό του διαχειριστή για να γίνει εισαγωγή των δεδομένων.';
 $Definition['Garden.Import.Merge'] = 'Συνένωση με αυτό το φόρουμ.';
-$Definition['Garden.Import.Merge.Description'] = 'Αυτό θα ενώσει όλα τα στοιχεία των χρηστών και των συζητήσεων από το εισαχθέν φόρουμ σε αυτό το φόρουμ.
-<b>Προσοχή: Αν ενώσετε τα ίδια στοιχεία δύο φορές θα έχετε διπλότυπες συζητήσεις.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Αντικατάσταση αυτού του φόρουμ.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Προσοχή: Όλα τα δεδομένα αυτού του φόρουμ θα αντικατασταθούν.';
 $Definition['Garden.StatisticsDisabled'] = 'Έχετε ζητήση απενεργοποίηση των στατιστικών Vanilla στο αρχείο ρυθμίσεων.';
@@ -424,15 +418,6 @@ $Definition['Hide  Fields'] = 'Κρύψε Πεδία';
 $Definition['Hide from the recent discussions page.'] = 'Απόκρυψη από τη σελίδα πρόσφατων συζητήσεων.';
 $Definition['Hide Pocket Locations'] = 'Κρύψε Θέσεις Τσεπών';
 $Definition['Hide this category from the recent discussions page.'] = 'Απόκρυψη αυτής της κατηγορίας από τη σελίδα πρόσφατων συζητήσεων.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Γεια σου φίλε!
-
-Ρίξε μια ματιά στο νέο φόρουμ που έστησα. Είναι ένα καταπληκτικό μέρος για να συζητάμε μέσω διαδικτύου.
-
-Ακολούθησε το σύνδεσμο παρακάτω για να συνδεθείς.';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -613,10 +598,6 @@ $Definition['Use these fields to create custom profile information. You can ente
 
 $Definition['Why do you want to join?'] = 'Γιατί θες να γίνεις μέλος?';
 
-$Definition['You can place files in your /uploads folder.'] = 'If your file is too
-		large to upload directly to this page you can place it in your /uploads
-		folder. Make sure the filename begins with the word <b>export</b> and ends
-		with one of <b>.txt, .gz</b>.';
 $Definition['You must manually apply this rank.'] = 'Πρέπει να δώσετε χειροκίνητα αυτό τον βαθμό.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Η αίτηση σου θα εξεταστεί από τον διαχειριστή του συστήματος. Θα ενημερωθείς μέσω email, αν η αίτηση σου εγκριθεί.';
 $Definition['Your changes were saved successfully.'] = 'Οι αλλαγές σας αποθηκεύτηκαν με επιτυχία.';

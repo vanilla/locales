@@ -129,11 +129,6 @@ $Definition['give'] = 'da';
 $Definition['Hash Algorithm'] = 'Compilare Algoritm';
 $Definition['Hide from the recent discussions page.'] = 'Ascunde din pagina discutiilor recente';
 $Definition['Hide this category from the recent discussions page.'] = 'Ascunde categoria din pagina discutiilor recente';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Salut!⏎ ⏎ Vino sa vezi ce forum am pus pe picioare.⏎ ⏎ Click pe link pentru logare.';
 
 $Definition['Invitation Code'] = 'Codul invitatiei';
 $Definition['Invited by'] = 'Invitat de';

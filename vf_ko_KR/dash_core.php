@@ -231,6 +231,4 @@ $Definition['Within'] = '시간';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = '포럼 사용중 로그아웃 되었다면 다음의 경로에서 바닐라 포럼의 이메일 주소와 패스워드를 사용하여 언제든지 로그인 할 수 있습니다: <a href="%1$s">%1$s</a>';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '플러그인을 해제할 수 없습니다. %2$s이 올바르게 작동하기 위해 %1$s 플러그인이 필요합니다.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = '플러그인을 해제할 수 없습니다. Google SignIn이 올바르게 작동하기 위해 Open ID 플러그인이 필요합니다.';
-$Definition['You can place files in your /uploads folder.'] = '이 페이지에 업로드할 파일의 용량이 아주 클 경우 /uploads 폴더에 추가할 수 있습니다.
-<br />파일 이름은 <b>export</b>로 시작해야 하며 <b>.txt</b>또는 <b>.gz</b>의 확장자를 가집니다.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = '등록 신청이 접수되었습니다. 신청서는 관리자에 의해 검토되며 승인되는 즉시 이메일로 통보됩니다.';

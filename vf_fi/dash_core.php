@@ -737,8 +737,6 @@ $Definition['View Page'] = 'N&auml;yt&auml; sivu';
 
 $Definition['Warning'] = 'Varoitus';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Varoitus: Kaikki tiedot häviävät. Kun poistat ne, tälle toiminnolle ei ole minkäänlaista palautus mahdollisuutta.';
-$Definition['Warning: Loading tables can be slow.'] = '<b>Varoitus</b>: Serverisi asetukset eiv&auml;t tue datan nopeaa importtausta.
-Jos olet tuomassa eritt&auml;in isoa tiedostoa (esim. yli 200,000 viesti&auml;) suosittelemme, ett&auml; vaihdat asetuksia. Klikkaa <a href="http://vanillaforums.com/porter">t&auml;st&auml;</a> saadaksesi lis&auml;tietoja.';
 $Definition['Welcome to Vanilla!'] = 'Tervetuloa Vanillan k&auml;ytt&auml;j&auml;ksi!';
 $Definition['Welcome to your Dashboard'] = 'Tervetuloa hallintapaneeliin';
 $Definition['We only accept urls that begin with http:// or https://'] = 'Hyväksymme vain URL-osoitteet, jotka alkavat http:// tai https://';
@@ -761,10 +759,6 @@ $Definition['You can customize the HTML and CSS for this theme on the %s page.']
 $Definition['You can make the categories page your homepage.'] = 'Voit asettaa kategorian&auml;kym&auml;n forumisi kotisivuksi <a href="%s">t&auml;st&auml;</a>.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'Et voi muokata toisen k&auml;ytt&auml;j&auml;n pikkukuvaa.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Et voi poistaa kutsua joka on jo hyv&auml;ksytty.';
-$Definition['You can place files in your /uploads folder.'] = 'If your file is too
-		large to upload directly to this page you can place it in your /uploads
-		folder. Make sure the filename begins with the word <b>export</b> and ends
-		with one of <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'Muiden j&auml;senien profiilien katselu ei ole sallittua k&auml;ytt&auml;j&auml;tasollasi.';
 $Definition['You have %s invitations left for this month.'] = 'Sinulla on t&auml;ss&auml; kuussa kutsuja j&auml;ljell&auml; %s.';
 $Definition['You must provide at least one recipient'] = 'Valitse ainakin yksi viestin vastaanottaja';

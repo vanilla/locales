@@ -387,12 +387,6 @@ Check out the new community forum I\'ve just set up. It\'s a great place for us 
 
 Follow the link below to log in.'] = 'היי חבוב, 
 בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'היי חבוב, 
-בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
 $Definition['Homepage'] = 'דף הבית';
 $Definition['Homepage Title'] = 'כותרת לדף הבית';
 $Definition['How to use themes'] = 'איך להשתמש בערכות עיצוב';

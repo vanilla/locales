@@ -375,14 +375,8 @@ $Definition['Frequency'] = 'ความถี่';
 $Definition['From'] = 'จาก';
 
 $Definition['Garden'] = 'แปลง';
-$Definition['Garden.Import.Complete.Description'] = 'เสร็จสิ้นการนำเข้า
-   คลิก <b>เสร็จสิ้น</b> เมื่อคุณพร้อม';
-$Definition['Garden.Import.Continue.Description'] = 'เหมือนว่าคุณจะอยู่ในช่วงระหว่างการนำเข้า
-   กรุณาเลือกหนึ่งในตัวเลือกต่อไปนี้';
 $Definition['Garden.Import.InputInstructions'] = 'ใส่อีเมลและรหัสผ่านของผู้ดูแลระบบของข้อมูลที่กำลังถูกนำเข้า';
 $Definition['Garden.Import.Merge'] = 'รวมกับฟอรั่มนี้';
-$Definition['Garden.Import.Merge.Description'] = 'กำลังจะรวมข้อมูลผู้ใช้และกระทู้ทั้งหมดจากการนำเข้าลงในฟอรั่มนี้
-<b>คำเตือน: หากคุณรวมข้อมูลเดิมซ้ำกันสองครั้งคุณจะมีรับกระทู้ที่ซ้ำกัน</b>';
 $Definition['Garden.Import.Overwrite'] = 'เขียนทับฟอรั่มนี้';
 $Definition['Garden.Import.Overwrite.Description'] = 'คำเตือน: ข้อมูลในฟอรั่มนี้จะถูกเขียนทับ';
 $Definition['Garden.StatisticsDisabled'] = 'คุณได้ปิดการใช้งานสถิติวานิลลาในการตั้งค่าของคุณ';
@@ -424,15 +418,6 @@ $Definition['Hide  Fields'] = 'ซ่อนข้อมูล';
 $Definition['Hide from the recent discussions page.'] = 'ซ่อนจากหน้ากระทูัล่าสุด';
 $Definition['Hide Pocket Locations'] = 'ซ่อนที่ตั้ง Pocket';
 $Definition['Hide this category from the recent discussions page.'] = 'ซ่อนหมวดหมู่นี้จากหน้ากระทู้ล่าสุด';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'สวัสดีเพื่อน!
-
-ฟอรั่มนี้เป็นชุมชนออนไลน์ใหม่ที่ฉันได้เพิ่งตั้งขึ้น มันน่าจะเป็นสถานที่ที่ดีสำหรับเราที่จะพูดคุยกันออนไลน์
-
-ตามลิงค์ด้านล่างเพื่อเข้าสู่ระบบ';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -605,9 +590,7 @@ $Definition['Pockets allow you to add free-form HTML to various places around th
 $Definition['Points'] = 'คะแนน';
 $Definition['Polls'] = 'โพลล์';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'ป้องกันสแปมในฟอรั่มของคุณโดยการจำกัดจำนวนของกระทู้และจำนวนความคิดเห็นที่ผู้ใช้สามารถโพสต์ภายในระยะเวลาที่กำหนด';
-$Definition['ProxyConnect.NoAuthenticate'] = 'เหมือนว่าจะไม่สามารถที่จะเรียกเซสชั่น Login จาก AuthenticateURL ที่คุณระบุ โปรดตรวจสอบให้แน่ใจว่าคุณได้เข้าสู่ระบบรีโมทแอปพลิเคชั่นของคุณแล้ว ก่อนที่จะดำเนินการทดสอบนี้';
 $Definition['ProxyConnect.RimBlurb'] = 'ถ้าคุณใช้ ProxyConnect กับรีโมทปลั๊กอินที่รองรับอย่างเป็นทางการเช่น ปลั๊กอินwordpress-proxyconnect ค่าของการตั้งค่าเหล่านั้นจะอยู่ในหน้าจอการตั้งค่าของปลั๊กอินนั้น';
-$Definition['ProxyConnect.TestIntro'] = 'อินเตอร์เฟซนี้จะช่วยให้คุณทดสอบการตั้งค่าของคุณและให้แน่ใจว่า ProxyConnect ทำงาน';
 $Definition['ProxyConnect.TestSettings'] = 'เมื่อคุณได้กำหนดค่า ProxyConnect ด้านล่าง <b>และบันทึกการเปลี่ยนแปลงของคุณ</b>แล้ว คุณสามารถทดสอบการตั้งค่าใหม่ของคุณโดยการกด \'ทดสอบการตั้งค่า ProxyConnect\'';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect ได้รับการกำหนดค่าให้ทำงานร่วมกับบล็อกของคุณ <b>%s</b>. ตอนนี้จะเป็นเวลาที่ดีที่จะเปิดใช้งานระบบเข้าสู่ระบบและทำการทดสอบเล็ก ๆ น้อย ๆ';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect มาพร้อมกับหลายๆ <b>Remote Integration Managers</b> ที่ pre-built มาแล้ว แต่ละอันออกแบบมาเพื่อการติดตั้งโดยอัตโนมัติ กรุณาเลือกรีโมทแอปพลิเคชั่นของคุณถ้ามันปรากฏอยู่ในรายการ Dropdown ด้านล่าง ถ้าไม่มี กรุณาเลือกเลือก "Integration ด้วยตนเอง"';
@@ -857,7 +840,6 @@ $Definition['View Page'] = 'ดูหน้า';
 $Definition['Warning'] = 'คำเตือน';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'คำเตือน: ข้อมูลทั้งหมดของคุณจะหายไป เมื่อคุณลบ จะไม่มีวิธีกู้คืน';
 $Definition['Warning: deleting is permanent'] = 'คำเตือน: รายการที่ถูกลบจะถูกลบออกจากรายการนี้อย่างถาวร';
-$Definition['Warning: Loading tables can be slow.'] = '<b> คำเตือน </b>: ค่าเซิร์ฟเวอร์ของคุณไม่สนับสนุนการโหลดข้อมูลที่รวดเร็ว หากคุณกำลังนำเข้าไฟล์ขนาดใหญ่มาก (เช่น 200,000 ความเห็นหรือมากกว่า) คุณอาจต้องพิจารณาเปลี่ยนการตั้งค่าของคุณ คลิก href="http://vanillaforums.com/porter"> ที่นี่ </a> สำหรับข้อมูลเพิ่มเติม';
 $Definition['Warning: This is for advanced users.'] = '<b> คำเตือน </b>: การตั้งค่านี้สำหรับการตั้งค่าขั้นสูงและคุณจะต้องทำการเปลี่ยนแปลงเพิ่มเติมไปยังเว็บเซิร์ฟเวอร์ของคุณ การตั้งค่านี้มักจะใช้ได้เฉพาะเมื่อคุณมี Dedicated หรือ VPS โฮสติ้ง อย่าพยายามตั้งค่านี้หากคุณไม่ทราบว่าคุณกำลังทำอะไร';
 $Definition['Welcome to Vanilla!'] = 'ยินดีต้อนรับสู่วานิลลา!';
 $Definition['Welcome to your Dashboard'] = 'ยินดีต้อนรับเข้าสู่แผงควบคุมของคุณ';
@@ -887,7 +869,6 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You cannot edit the thumbnail of another member.'] = 'คุณไม่สามารถแก้ไขภาพของสมาชิกคนอื่น';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'คุณไม่สามารถลบคำเชิญที่ได้รับการตอบรับแล้ว';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'คุณไม่สามารถลบหมวดหมู่ที่เหลืออยู่เพียงหมวดหมู่เดียวที่มีกระทู้ได้';
-$Definition['You can place files in your /uploads folder.'] = 'หากไฟล์ของคุณมีขนาดใหญ่เกินไปที่จะอัปโหลดไปยังหน้านี้ คุณสามารถวางไว้ในโฟลเดอร์ /uploads ของคุณ แน่ใจว่าชื่อไฟล์ต้องขึ้นต้นด้วยคำว่า <b>export</b> และสิ้นสุดด้วย <b>.txt หรือ .gz</b>';
 $Definition['You do not have permission to view other profiles.'] = 'คุณไม่ได้รับอนุญาตให้ดูโปรไฟล์ของคนอื่น';
 $Definition['You have %s invitations left for this month.'] = 'คุณมี %s คำเชิญเหลือในเดือนนี้';
 $Definition['You must be authenticated in order to use this form.'] = 'คุณต้องได้รับสิทธิ์ในการใช้แบบฟอร์มนี้';

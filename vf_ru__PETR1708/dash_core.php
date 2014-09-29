@@ -269,15 +269,6 @@ $Definition['Help &amp; Tutorials'] = 'Помочь и Уроки';
 $Definition['Here\'s how to get started:'] = 'Приступаемъ къ работѣ:';
 $Definition['Hide from the recent discussions page.'] = 'Скрыть отъ послѣднихъ страницъ обсужденій.';
 $Definition['Hide this category from the recent discussions page.'] = 'Скрыть эту категорію изъ послѣднихъ страницъ обсужденій.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Приветствуем!»⏎
-»⏎
-Вотъ такой новый формъ мы создали. Здѣсь можно обсуждать все обо всѣмъ! »⏎
-»⏎
-Слѣдуйте ссылкѣ чтобы зайти.';
 $Definition['Homepage'] = 'Главная страница';
 $Definition['How to use themes'] = 'Используй новыя темы';
 
@@ -516,7 +507,6 @@ $Definition['View Page'] = 'Показать страницу';
 $Definition['Warning'] = 'Вниманіе!';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Вниманіе: Все ваши данные будутъ потеряны. Послѣ удаленія, нѣтъ абсолютно никакого способа возстановленія.';
 $Definition['Warning: deleting is permanent'] = 'ПРЕДУПРЕЖДЕНІЕ: удаленные элементы будутъ удалены изъ этого списка и не могутъ быть возвращены.';
-$Definition['Warning: Loading tables can be slow.'] = '<b>Вниманіе</b>! Конфигурація сервера не поддерживаетъ быструю загрузку. Если вы пытаетесь импортировать большой файлъ (> 200.000 комментаріевъ), то вамъ лучше обновить конфигурацію сервера. Для болѣе подробной информаціи <a href="http://vanillaforums.com/porter">перейдите сюда</a>';
 $Definition['Warning: This is for advanced users.'] = '<b>Вниманіе</b>: Это сообщеніе адресовано продвинутымъ пользователямъ и требуетъ, чтобы Вы внесли дополнительныя измѣненія на вашемъ вебъ-серверѣ. Это возможно, если у Васъ есть выдѣленный или виртуальный хостингъ. Ничего не предпринимайте, если не знаете, что необходимо дѣлать.';
 $Definition['Welcome to Vanilla!'] = 'Добро пожаловать!';
 $Definition['Welcome to your Dashboard'] = 'Добро пожаловать въ панель управленія';
@@ -537,7 +527,6 @@ $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'В
 $Definition['You can make the categories page your homepage.'] = 'Страницы категорій можно установить въ качествѣ главной страницы <a href="%s">тутъ</a>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Плагинъ %1$s нельзя отключить потому, что онъ необходимъ для стабильной работы плагина %2$s.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Плагинъ OpenID нельзя отключить потому, что онъ необходимъ для стабильной работы плагина GoogleSignIn.';
-$Definition['You can place files in your /uploads folder.'] = 'Если Вашъ файлъ слишкомъ великъ чтобы загрузить его напрямую — залейте его въ папку /uploads.<br>Затѣмъ вы можете начать <b>экспортъ</b> въ файлы съ расширеніемъ: <b>.txt, .gz</b>.';
 $Definition['You have %s invitations left for this month.'] = 'У Васъ %s пропущенныхъ приглашеній въ этомъ мѣсяцѣ.';
 $Definition['You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.'] = 'Для подключенія къ базѣ данныхъ у Васъ должны быть включены драйвера MySQL.';
 $Definition['You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.'] = 'Включите въ PHP модуль PDO для подключенія къ базѣ данныхъ.';

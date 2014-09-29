@@ -383,13 +383,9 @@ $Definition['Forum Settings'] = 'Настройки форума';
 $Definition['Frequency'] = 'Частота обновлений';
 $Definition['From'] = 'От';
 
-$Definition['Garden.Import.Complete.Description'] = 'Импорт успешно завершён. Нажмите <b>Готово</b> когда будете готовы.';
-$Definition['Garden.Import.Continue.Description'] = 'Похоже, что вы находитесь в процессе импорта. Пожалуйста, выберите один из следующих вариантов.';
 $Definition['Garden.Import.Description'] = 'Эта страница служит для импорта данных из другого форума, который был экспортирован с помощью виджета экспорта Vanilla. Дополнительную информацию вы можете получить в <a href="%s">документации</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Email и пароль администратора для источника импорта.';
 $Definition['Garden.Import.Merge'] = 'Слияние с этим форумом.';
-$Definition['Garden.Import.Merge.Description'] = 'Это объединит все импортируемые данные пользователей и дискуссий с этим форумом.
-<b>Внимание!</b> При объединении одних и тех же данных дважды, вы получите дубликаты дискуссий.';
 $Definition['Garden.Import.Overwrite'] = 'Переписать этот форум.';
 $Definition['Garden.Import.Overwrite.Description'] = '<b>Внимание!</b> Все данные в этом форуме будут перезаписаны.';
 $Definition['Garden.StatisticsDisabled'] = 'Модуль статистики отключен в файле конфигурации.';
@@ -432,15 +428,6 @@ $Definition['Hide  Fields'] = 'Скрыть поля';
 $Definition['Hide from the recent discussions page.'] = 'Скрыть на страницах свежих дискуссий.';
 $Definition['Hide Pocket Locations'] = 'Скрыть расположения карманов';
 $Definition['Hide this category from the recent discussions page.'] = 'Скрыть этот раздел на страницах свежих дискуссий.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Привет приятель!
-
-Зацени, я только что создал новый форум. Думаю, это будет отличное место, для нашего общения. 
-
-Перейди по ссылке ниже для того чтобы присоединиться к нам.';
 $Definition['Homepage'] = 'Главная страница';
 $Definition['Homepage Title'] = 'Заголовок домашней страницы';
 $Definition['How to use themes'] = 'Используй новые темы';
@@ -612,13 +599,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Private Key'] = 'Приватный ключ';
 $Definition['Provider'] = 'Провайдер';
 $Definition['Proxy Connect'] = 'Прокси-соединение';
-$Definition['ProxyConnect.NoAuthenticate'] = 'Не похоже, что есть возможность 
-извлечь сессию из URL аутентификации, который был указан.
-Пожалуйста, убедитесь, что вы вошли в свою удаленного приложения, 
-прежде чем выполнять этот тест.';
 $Definition['ProxyConnect.RimBlurb'] = 'Если вы используете прокси-соединение с официально поддерживаемым плагином удаленного приложения, такой как наш плагин WordPress-proxyconnect, эти значения будут доступны в окне конфигурации этого плагина.';
-$Definition['ProxyConnect.TestIntro'] = 'Этот интерфейс позволит вам проверить вашу конфигурацию и убедиться, что 
-прокси-соединение работает.';
 $Definition['ProxyConnect.TestSettings'] = 'После того, как вы настроили прокси-соединения ниже и <b>сохранения изменений</b> вы можете протестировать введенные параметры, нажав \'Тест настроек прокси-соединения\'';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'Прокси-соединение было настроен на работу с сайтом <b>%s</b>. Теперь самое время, чтобы активировать аутентификатор и провести тестирование.';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Прокси-соединение поставляется с несколькими предварительно построенными <b>менеджерами дистанционной интеграции</b> каждый из которых предназначен для автоматизации процесса установки. Если ваше удаленное приложение присутствует в выпадающем списке ниже, выберите его, в противном случае выберите "Ручная интеграция».';
@@ -894,7 +875,6 @@ $Definition['View Page'] = 'Показать страницу';
 $Definition['Warning'] = 'Внимание!';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = '<b>Внимание!</b> Все ваши данные будут потеряны. После удаления, нет абсолютно никакого способа восстановления.';
 $Definition['Warning: deleting is permanent'] = '<b>Внимание!</b> удаленные элементы будут удалены окончательно и не смогут быть возвращены.';
-$Definition['Warning: Loading tables can be slow.'] = '<b>Внимание</b>! Конфигурация сервера не поддерживает быструю загрузку. Если вы пытаетесь импортировать большой файл (> 200.000 комментариев), то вам лучше обновить конфигурацию сервера. Для более подробной информации <a href="http://vanillaforums.com/porter">перейдите сюда</a>';
 $Definition['Warning: This is for advanced users.'] = '<b>Внимание!</b> Это сообщение адресовано продвинутым пользователям и требует, чтобы вы внесли дополнительные изменения на вашем веб-сервере. Это возможно, если у вас есть выделенный или виртуальный хостинг. Ничего не предпринимайте, если не знаете, что необходимо делать.';
 $Definition['Welcome to Vanilla!'] = 'Добро пожаловать в Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Добро пожаловать в вашу консоль';
@@ -924,7 +904,6 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You cannot edit the thumbnail of another member.'] = 'Вы не можете редактировать миниатюры других пользователей!';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Вы не можете удалить приглашение, которое было принято.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Вы не можете удалить только оставшиеся разделы, что допускают дискуссии';
-$Definition['You can place files in your /uploads folder.'] = 'Если Ваш файл слишком велик чтобы загрузить его напрямую — залейте его в папку /uploads.<br>Затем вы можете начать <b>экспорт</b> в файлы с расширением: <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'Вы не имеете соответствующих прав для просмотра чужих профилей.';
 $Definition['You have %s invitations left for this month.'] = 'У Вас %s пропущенных приглашений в этом месяце.';
 $Definition['You must be authenticated in order to use this form.'] = 'Вы должны быть авторизованы, чтобы использовать эту форму.';

@@ -297,8 +297,8 @@ $Definition['Don\'t Refresh'] = '不可刷新。';
 $Definition['Don\'t use Categories'] = '停用版块';
 $Definition['Do not display the categories in the side panel.'] = '在边栏中不显示板块。';
 $Definition['Download Locale List'] = '下载语言列表';
-$Definition['DownloadLocalePack'] = '下载';
 $Definition['Download Locale Pack'] = '下载语言包';
+$Definition['DownloadLocalePack'] = '下载';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = '拖动对板块进行排序和分级。';
 $Definition['Drag and drop the categories below to sort and nest them.'] = '拖动对板块进行排序和分级。';
 
@@ -380,14 +380,8 @@ $Definition['Frequency'] = '频率';
 $Definition['From'] = '发件人';
 
 $Definition['Garden'] = '花园';
-$Definition['Garden.Import.Complete.Description'] = '已经成功完成导入。
-   点击 <b>完成</b>。';
-$Definition['Garden.Import.Continue.Description'] = '看来您正在导入进程当中
-请选择下列选项中的一个。';
 $Definition['Garden.Import.Description'] = 'Use this page to import data from another forum that was exported using Vanilla\'s exporter. For more information <a href="%s">see our importing documentation</a>.';
 $Definition['Garden.Import.Merge'] = '与当前社区合并';
-$Definition['Garden.Import.Merge.Description'] = '此操作将把所有用户数据和话题数据合并后导入论坛。
-<b>警告：如果你合并相同的数据，你的话题数据将重复。</b>';
 $Definition['Garden.Import.Overwrite'] = '覆盖当前社区';
 $Definition['Garden.StatisticsDisabled'] = '您在您的配置文件中关闭了 Vanilla 统计功能。';
 $Definition['Garden.StatisticsLocal.Explain'] = '此论坛可能正在测试环境中运行，或者目前正在使用私有IP地址。默认情况下，使用私有IP地址的论坛无法被跟踪。';
@@ -428,15 +422,6 @@ $Definition['Hide  Fields'] = '隐藏空字段';
 $Definition['Hide from the recent discussions page.'] = '不在最近话题页面显示';
 $Definition['Hide Pocket Locations'] = '隐藏Pocket位置';
 $Definition['Hide this category from the recent discussions page.'] = '不在最近话题显示此类别';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hi 新来的！
-
-快来看看我新架设的论坛吧！这里也许是我们与他人在线交流最好的地方了。
-
-点击下方链接登录。';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -612,13 +597,7 @@ $Definition['Polls'] = '调查';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '限制用户一定时间内的话题和回复数可以防止垃圾信息。';
 $Definition['Provider'] = '提供者';
 $Definition['Proxy Connect'] = '代理连接';
-$Definition['ProxyConnect.NoAuthenticate'] = '我们无法从你提供的认证
-链接获取已登陆会话。
-请在测试前确认你已在
-远程应用中登陆。';
 $Definition['ProxyConnect.RimBlurb'] = '如果你在 ProxyConnect 中使用了官方支持的远程应用插件，如我们的 wordpress-proxyconnect 插件，那么这些设定值可以在插件配置页面中找到。';
-$Definition['ProxyConnect.TestIntro'] = '你可以在这里测试你的配置以便确认
-ProxyConnect 可以正常工作。';
 $Definition['ProxyConnect.TestSettings'] = '当你配置好下面的 ProxyConnect，<b>并保存之后</b>，你可以点击“测试Test ProxyConnect 配置”';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect 设置完成，已连接到你的博客，%s。现在请激活认证管理器并进行一些测试。';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect 提供了多种预置的 <b>远程集成管理器</b>，它们都用来自动完成设置过程。如果你的远程应用在下拉框之中，请选择，或选择“手动集成”。';
@@ -885,8 +864,6 @@ $Definition['View Page'] = '查看页面';
 $Definition['Warning'] = '警告';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = '警告：你的所有数据将丢失。一旦你删除，将无法恢复。';
 $Definition['Warning: deleting is permanent'] = '警告：被删除条目将从此列表中移除，并且无法恢复。';
-$Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：你的服务器配置不支持快速数据加载功能。
-如果需要导入非常大的文件（例如超过200,000条评论），你可能需要考虑更改你的服务器配置。点击 <a href="http://vanillaforums.com/porter">这里</a> 查看更多信息。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：此处供高级用户使用，要求你更改其他web服务器配置。通常仅当你使用专有服务器或VPS服务器时有效。如果你不知道你在做什么，请不要轻易尝试。';
 $Definition['Welcome to Vanilla!'] = '欢迎来到Vanilla!';
 $Definition['Welcome to your Dashboard'] = '欢迎进入您的控制面板';
@@ -913,10 +890,6 @@ $Definition['You can make the categories page your homepage.'] = '您可以在<a
 $Definition['You cannot edit the thumbnail of another member.'] = '您不可以编辑任何其他成员的缩略图。';
 $Definition['You cannot remove an invitation that has been accepted.'] = '已被接受的邀请不能删除';
 $Definition['You cannot remove the only remaining category that allows discussions'] = '你不能移除仅有的可供话题使用的分类。';
-$Definition['You can place files in your /uploads folder.'] = 'If your file is too
-			large to upload directly to this page you can place it in your /uploads
-					folder. Make sure the filename begins with the word <b>export</b> and ends
-							with one of <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = '你没有查看其他设置资料的权限。';
 $Definition['You have %s invitations left for this month.'] = '本月您还有  %s 个邀请名额，快去邀请您的好友加入吧';
 $Definition['You must be authenticated in order to use this form.'] = '您必须经过验证才可以使用此表';

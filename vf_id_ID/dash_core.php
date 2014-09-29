@@ -297,8 +297,8 @@ $Definition['Don\'t Refresh'] = 'Jangan Segarkan';
 $Definition['Don\'t use Categories'] = 'Jangan Gunakan Kategori';
 $Definition['Do not display the categories in the side panel.'] = 'Jangan tampilkan kategori pada panel sisi.';
 $Definition['Download Locale List'] = 'Unduh Daftar Lokal';
-$Definition['DownloadLocalePack'] = 'Unduh';
 $Definition['Download Locale Pack'] = 'Unduh Paket Lokal';
+$Definition['DownloadLocalePack'] = 'Unduh';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Seret &amp; tempatkan kategori untuk mengurutkannya dan menyarangkannya.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Seret dan tempatkan kategori di bawah ini untuk mengurutkannya dan menyarangkannya.';
 
@@ -375,14 +375,8 @@ $Definition['Frequency'] = 'Frekuensi';
 $Definition['From'] = 'Dari';
 
 $Definition['Garden'] = 'Kebun';
-$Definition['Garden.Import.Complete.Description'] = 'Anda sukses menyelesaikan impor.
-   Klik <b>Selesai</b> saat anda siap.';
-$Definition['Garden.Import.Continue.Description'] = 'Sepertinya anda sedang dalam proses impor.
-   Silahkan pilih salah satu opsi berikut ini.';
 $Definition['Garden.Import.InputInstructions'] = 'Masukkan email dan password admin dari data yang sedang diimpor.';
 $Definition['Garden.Import.Merge'] = 'Satukan dengan forum ini.';
-$Definition['Garden.Import.Merge.Description'] = 'Ini akan menyatukan semua data pengguna dan diskusi dari yang diimpor ke forum ini.
-<b>Peringatan: Bila anda menyatukan data yang sama dua kali anda akan mendapatkan duplikasi diskusi.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Timpa forum ini.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Peringatan: Semua data pada forum ini akan ditimpa.';
 $Definition['Garden.StatisticsDisabled'] = 'Anda telah menonaktifkan Statistik Vanilla pada file konfigurasi anda.';
@@ -424,15 +418,6 @@ $Definition['Hide  Fields'] = 'Sembunyikan  Field';
 $Definition['Hide from the recent discussions page.'] = 'Sembunyikan dari halaman diskusi sekarang.';
 $Definition['Hide Pocket Locations'] = 'Sembunyikan Lokasi Pocket';
 $Definition['Hide this category from the recent discussions page.'] = 'Sembunyikan kategori ini dari halaman diskusi sekarang.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hai Sobat!
-
-Lihat forum komunitas yang baru saja saya buat. Ini adalah tempat yang asyik untuk berbincang dengan lainnya secara daring.
-
-Ikuti tautan di bawah ini untuk masuk.';
 $Definition['Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -603,13 +588,7 @@ $Definition['Polls'] = 'Pemungutan';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Cegah spam di forum anda dengan membatasi jumlah diskusi &amp; komentar yang bisa dikirim pengguna dalam periode waktu tertentu.';
 $Definition['Provider'] = 'Penyedia';
 $Definition['Proxy Connect'] = 'Koneksi Proxy';
-$Definition['ProxyConnect.NoAuthenticate'] = 'Sepertinya kami tidak tampak 
-               mampu menerima sebuah sesi logged-in dari AuthenticateURL yang anda 
-               spesifikasikan. Pastikan anda telah log-in pada aplikasi terkendali anda 
-               sebelum melakukan pengujian ini.';
 $Definition['ProxyConnect.RimBlurb'] = 'Bila anda menggunakan ProxyConnect yang disertai dukungan resmi plugin aplikasi terkendali seperti plugin wordpress-proxyconnect yang kami miliki, nilai-nilai ini akan tersedia pada layar konfigurasi plugin tersebut.';
-$Definition['ProxyConnect.TestIntro'] = 'Antarmuka ini memungkinkan anda untuk menguji konfigurasi anda dan memastikan bahwa 
-   ProxyConnect dapat bekerja.';
 $Definition['ProxyConnect.TestSettings'] = 'Segera setelah anda mengkonfigurasi ProxyConnect di bawah ini, <b>dan menyimpan perubahan anda</b>, anda dapat menguji setelan baru anda dengan menekan \'Tes Setelan ProxyConnect\'';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect telah dikonfigurasi supaya dapat bekerja dengan blog anda, <b>%s</b>. Sekarang saat yang bagus untuk Mengaktivasi autentikator dan lakukan sedikit tes.';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect dikemas bersama beberapa pre-built <b>Remote Integration Managers</b>, yang masing-masing didesain mengotomatisasi proses penyetelannya. Bila aplikasi terkendali anda telah terdaftar pada dropdown di bawah ini, pilihlah sekarang, bila tidak pilihlah "Integrasi Manual".';
@@ -877,8 +856,6 @@ $Definition['View Page'] = 'Lihat Halaman';
 $Definition['Warning'] = 'Peringatan';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Peringatan: Semua data anda akan hilang. Segera setelah anda hapus, sudah tidak ada lagi jalan untuk memulihkannya.';
 $Definition['Warning: deleting is permanent'] = 'Peringatan: item-item yang dihapus dipindahkan dari daftar ini dan tidak dapat dikembalikan lagi.';
-$Definition['Warning: Loading tables can be slow.'] = '<b>Peringatan</b>: Konfigurasi server anda tidak mendukung pemuatan cepat data-data.
-Bila anda mengimpor sebuah file yang sangat besar (misal lebih dari  200.000 komentar) anda mungkin perlu untuk mengubah konfigurasi anda. Klik <a href="http://vanillaforums.com/porter">di sini</a> untuk informasi lebih lanjut.';
 $Definition['Warning: This is for advanced users.'] = '<b>Peringatan</b>: Ini untuk pengguna tingkat lanjut dan memerlukan perubahan tambahan pada web server anda. Ini biasanya hanya tersedia bila anda menggunakan dedicated hosting atau vps. Jangan lakukan ini bila anda tidak yakin untuk melakukannya.';
 $Definition['Welcome to Vanilla!'] = 'Selamat datang di Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Selamat datang di Dashboard anda';
@@ -908,10 +885,6 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You cannot edit the thumbnail of another member.'] = 'Anda tidak dapat mengedit thumbnail dari anggota lain.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Anda tidak dapat menghapus undangan yang telah diterima.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Anda tidak dapat menghapus kategori tersisa yang memperkenankan diskusi';
-$Definition['You can place files in your /uploads folder.'] = 'Bila file anda terlalu
-		besar untuk diunggah secara langsung di halaman ini, anda dapat menempatkannya pada folder
-		/uploads anda. Pastikan nama file dimulai dengan kata <b>export</b> dan akhiri
-		dengan salah satu dari berikut <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'Anda tidak punya izin untuk melihat profil lainnya.';
 $Definition['You have %s invitations left for this month.'] = 'Anda memiliki sisa %s undangan untuk bulan ini.';
 $Definition['You must be authenticated in order to use this form.'] = 'Anda harus terotentifikasi agar bisa menggunakan formulir ini.';

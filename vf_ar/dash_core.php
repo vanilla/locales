@@ -170,15 +170,6 @@ $Definition['give'] = 'أعطي';
 $Definition['Hash Algorithm'] = 'خوارزمية البعثرة Hash Algorithm';
 $Definition['Hide from the recent discussions page.'] = 'إخفاء من صفحة المواضيع الجديدة.';
 $Definition['Hide this category from the recent discussions page.'] = 'إخفاء هذ القسم من صفحة المواضيع الجديدة.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'أهلا يا صديقي!»⏎
-»⏎
-تفقد المنتدى الذي قمت بإعداده للتو.سيكون مكانا مناسبا للتواصل فيما بيننا عندما نكون على الشبكة»⏎
-»⏎
-إتبع هذا الرابط للدخول.';
 $Definition['Html'] = 'لغة HTML';
 
 $Definition['Level'] = 'المستوى';
@@ -233,9 +224,5 @@ $Definition['To'] = 'إلى';
 
 $Definition['Use an SMTP server to send email'] = 'Use an SMTP server to send email.';
 
-$Definition['You can place files in your /uploads folder.'] = 'If your file is too
-		large to upload directly to this page you can place it in your /uploads
-		folder. Make sure the filename begins with the word <b>export</b> and ends
-		with one of <b>.txt, .gz</b>.';
 $Definition['You must manually apply this rank.'] = 'يجب أن تضيف هذة الرتبية يدويا.';
 $Definition['Your changes were saved successfully.'] = 'تم حفظ التغييرات بنجاح.';

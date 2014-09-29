@@ -286,8 +286,6 @@ $Definition['Frequency'] = 'Frecuencia ';
 $Definition['From'] = 'De';
 
 $Definition['Garden'] = 'Jardín';
-$Definition['Garden.Import.Complete.Description'] = 'Has completado exitosamente una importación
-Clic <b> Terminado>/> cuando estés listo. ';
 $Definition['Garden.Import.Description'] = 'Utilice esta página para importar datos de otro foro que se ha exportado utilizando el exportador de vainilla. <a href="%s">Para obtener más information ver nuestra documentación de importación</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Introduce el email y la contraseña del usuario administrador de los datos que se importan';
 $Definition['Garden.Import.Overwrite'] = 'Sobrescribe este foro. ';
@@ -321,15 +319,6 @@ $Definition['Hidden for mobile'] = 'Oculto para móviles';
 $Definition['Hide  Fields'] = 'Esconder  Campos';
 $Definition['Hide from the recent discussions page.'] = 'Esconder de la página de discusiones recientes.';
 $Definition['Hide this category from the recent discussions page.'] = 'Esconde esta categoría de la página de discusiones recientes.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hola!
-
-Échale un ojo a la nueva comunidad que he creado! Es un buen sitio para chatear con otros.
-
-Sigue el enlace de abajo para darte de alta ;)';
 $Definition['How to use themes'] = 'Como usar los temas ';
 
 $Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'ProxyConnect.RimBlurb';
@@ -457,8 +446,6 @@ $Definition['Polls'] = 'Encuestas';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Evita el spam en tu foro limitando el número de discusiones y comentarios que los usuarios pueden enviar dentro de un periodo de tiempo dado.';
 $Definition['Provider'] = 'Proveedor';
 $Definition['Proxy Connect'] = 'Conexión Proxy';
-$Definition['ProxyConnect.TestIntro'] = 'Esta interfaz le permitirá probar la configuración y asegúrese de que 
-ProxyConnect este funcionando.';
 $Definition['Proxy Connect Test'] = 'Prueba de Conexión Proxy';
 
 $Definition['Ranks'] = 'Rangos';
@@ -662,7 +649,6 @@ $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'No se puede desactivar el plugin de OpenID porque el plugin GoogleSingIn lo necesita para poder funcionar.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'No puedes editar el thumbnail de otro usuario.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'No puedes eliminar una invitación que ha sido aceptada.';
-$Definition['You can place files in your /uploads folder.'] = 'Si el archivo es demasiado grande para subirlo directamente a esta página puedes colocarlo en la carpeta /uploads. Asegúrate e que el fichero comienza con la palabra <b>export</b> y termina con alguna de estas dos palabras: <b>.txt ó .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'No tienes permiso para ver otros perfiles. ';
 $Definition['You must be authenticated in order to use this form.'] = 'Debes estar autentificado para poder usar esta forma. ';
 $Definition['You must manually apply this rank.'] = 'Debes configurar este rango manualmente.';

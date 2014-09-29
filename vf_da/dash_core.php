@@ -106,15 +106,6 @@ $Definition['Google Sign In Settings'] = 'Google Sign In Indstillinger';
 $Definition['Guest'] = 'GÊst';
 
 $Definition['Hide from the recent discussions page.'] = 'Skjul fra siden seneste diskussioner.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hej du!
-
-Tag og tjek vores nye forum ud. Det er et super sted for os til at kommunikere med hinanden. 
-
-Følg linket herunder for at logge ind.';
 
 $Definition['Import'] = 'Importer';
 $Definition['Invitation Code'] = 'Invitations Kode';
@@ -234,8 +225,4 @@ $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Hv
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Du kan ikke  deaktivere %1$s plugin fordi %2$s plugin er n¯dvÊndigt for at virke.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Du kan ikke deaktivere OpenID plugin fordi Google Log ind plugin krÊver det for at fungere.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'Du kan ikke ændre andre medlemmers profilbilleder.';
-$Definition['You can place files in your /uploads folder.'] = 'Hvis din  fil er for
-stor til at uploade direkte til denne side kan du placere den i din /uploads
-mappe. S¯rg for, at filnavnet starter med ordet <b>eksport</ b> og slutter
-med en af <b>.txt,. gz</ b>.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Din  ans¯gning vil blive gennemgÂet  af en administrator. Du vil fÂ besked via email, hvis din ans¯gning er godkendt.';

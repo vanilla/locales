@@ -194,8 +194,4 @@ $Definition['What\'s the Buzz?'] = '最近動向';
 $Definition['Who\'s Online Settings'] = '線上會員設定';
 $Definition['Why do you want to join?'] = '為什麼你要加入呢?';
 
-$Definition['You can place files in your /uploads folder.'] = 'If your file is too
-			large to upload directly to this page you can place it in your /uploads
-					folder. Make sure the filename begins with the word <b>export</b> and ends
-							with one of <b>.txt, .gz</b>.';
 $Definition['You have %s invitations left for this month.'] = '你本月還可以發送 %s 條邀請.';

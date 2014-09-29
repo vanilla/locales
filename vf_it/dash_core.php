@@ -242,15 +242,6 @@ $Definition['Heads Up! This is a special role that does not allow active session
 $Definition['Here\'s how to get started:'] = 'Ecco come cominciare:';
 $Definition['Hide from the recent discussions page.'] = 'Nascondi dalla pagina delle discussioni recenti';
 $Definition['Hide this category from the recent discussions page.'] = 'Nascondi questa categoria dalla pagina delle discussioni recenti.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Ciao Pal!↩⏎
-↩⏎
-Scopri il nuovo forum della community che ho appena istituito. E\' un ottimo posto per noi per chattare online con gli altri.↩⏎
-↩⏎
- Segui il link qui sotto per accedere.';
 $Definition['Homepage Title'] = 'Homepage Titolo';
 
 $Definition['Import'] = 'Importa';
@@ -440,10 +431,6 @@ $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Se
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Non puoi disabilitare il plugin %1$s poiche\' il plugin %2$s  lo richiede per funzionare correttamente.';
 $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Non puoi disabilitare il plugin OpenID perche\' il plugin GoogleSignIn lo richiede per funzionare correttamente.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Non puoi rimuovere un invito accettato.';
-$Definition['You can place files in your /uploads folder.'] = 'Se il file e\' troppo
-		grande da caricare direttamente, puoi metterlo nella cartella /uploads
-		. Assicurati che il nome del file inizi con la parola <b>export</b> e
-		finisca con l\'estensione <b>.txt o .gz</b>.';
 $Definition['You have %s invitations left for this month.'] = 'Hai ancora %s inviti per questo mese';
 $Definition['You must be authenticated in order to use this form.'] = 'Attenzione - E\' necessario essere autenticati per poter utilizzare la form utilizzata.';
 $Definition['You must manually apply this rank.'] = 'E\' necessario applicare manualmente questo livello.';
