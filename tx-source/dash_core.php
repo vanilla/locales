@@ -85,6 +85,7 @@ $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong wit
 $Definition['Addons'] = 'Addons';
 $Definition['Administrator'] = 'Administrator';
 $Definition['Advanced'] = 'Advanced';
+$Definition['Advanced Editor Settings'] = 'Advanced Editor Settings';
 $Definition['Advanced Embed Settings'] = 'Advanced Embed Settings';
 $Definition['Advanced Forum Settings'] = 'Advanced Forum Settings';
 $Definition['Advanced Options'] = 'Advanced Options';
