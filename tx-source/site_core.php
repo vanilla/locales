@@ -1229,6 +1229,7 @@ $Definition['You have to select at least 2 discussions to merge.'] = 'You have t
 $Definition['You must agree to the terms of service.'] = 'You must agree to the terms of service.';
 $Definition['You need to confirm your email address.'] = 'You need to confirm your email address. Click <a href="{/entry/emailconfirmrequest,url}">here</a> to resend the confirmation email.';
 $Definition['You need to sign in before you can do this.'] = 'You need to sign in before you can do this.';
+$Definition["You've asked questions that have now been answered"] = "<a href=\"{/discussions/mine?qna=Answered,url}\">You've asked questions that now have answers</a>. Make sure you accept/reject the answers.";
 $Definition['your'] = 'your';
 $Definition['Your changes have been saved.'] = 'Your changes have been saved.';
 $Definition['Your changes have been saved successfully.'] = 'Your changes have been saved successfully.';
