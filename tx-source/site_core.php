@@ -657,6 +657,7 @@ $Definition['Notify me of private messages.'] = 'Notify me of private messages.'
 $Definition['Notify me when a badge is requested.'] = 'Notify me when a badge is requested.';
 $Definition['Notify me when a comment is flagged.'] = 'Notify me when a comment is flagged.';
 $Definition['Notify me when I am added to private conversations.'] = 'Notify me when I am added to private conversations.';
+$Definition['Notify me when people comment on discussions I\'ve participated in.'] = 'Notify me when people comment on discussions I\'ve participated in.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Notify me when people comment on my bookmarked discussions.';
 $Definition['Notify me when people comment on my discussions.'] = 'Notify me when people comment on my discussions.';
 $Definition['Notify me when people mention me.'] = 'Notify me when people mention me.';
