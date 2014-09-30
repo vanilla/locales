@@ -361,7 +361,13 @@ $Definition['Enter the connection settings for your sphinx server below.'] = 'En
 $Definition['Enter the email address of the person you would like to invite:'] = 'Enter the email address of the person you would like to invite:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Enter the url to the page you would like to use as your homepage';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Enter the url to the page you would like to use as your homepage:';
+$Definition['Every %s hour'] = 'Every hour';
+$Definition['Every %s hours'] = 'Every %s hours';
+$Definition['Every %s minute'] = 'Every minute';
+$Definition['Every %s minutes'] = 'Every %s minutes';
 $Definition['Every 1 minute'] = 'Every 1 minute';
+$Definition['Every %s second'] = 'Every second';
+$Definition['Every %s seconds'] = 'Every %s seconds';
 $Definition['Every 10 seconds'] = 'Every 10 seconds';
 $Definition['Every 30 seconds'] = 'Every 30 seconds';
 $Definition['Every 5 minutes'] = 'Every 5 minutes';
@@ -656,12 +662,12 @@ $Definition['Proxy Connect'] = 'Proxy Connect';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".';
 $Definition['Proxy Connect Test'] = 'Proxy Connect Test';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.';
-$Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were 
-               able to retrieve a logged-in session from the AuthenticateURL you 
-               specified. Please make sure you are logged in to your remote application 
+$Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
+               able to retrieve a logged-in session from the AuthenticateURL you
+               specified. Please make sure you are logged in to your remote application
                before performing this test.';
 $Definition['ProxyConnect.RimBlurb'] = 'If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.';
-$Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that 
+$Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that
    ProxyConnect is working.';
 $Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 $Definition['Public Key'] = 'Public Key';
