@@ -511,7 +511,7 @@ $Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.'
 $Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
 $Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
 $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
-$Definition['Guest'] = 'Guest'];
+$Definition['Guest'] = 'Guest';
 $Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Hang on a sec while we sign you out.';
