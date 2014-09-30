@@ -568,6 +568,7 @@ $Definition['ProxyConnect.RimBlurb'] = 'Αν χρησιμοποιείτε το P
 
 $Definition['Ranks'] = 'Βαθμοί';
 $Definition['Register Url'] = 'URL εγγραφής';
+$Definition['Remove'] = 'Αφαίρεση';
 $Definition['Reply  To'] = 'Απάντηση προς';
 $Definition['Request'] = 'Αίτηση';
 $Definition['Require users to confirm their email addresses (recommended)'] = 'Απαιτεί από τους χρήστες να πιστοποιήσουν τη διεύθυνση email (συστήνεται).';
@@ -602,6 +603,7 @@ $Definition['UserKeep'] = 'Διατήρηση Περιεχομένων Χρήσ�
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Χρησιμοποίησε αυτά τα πεδία για να δημιουργήσεις τις πληροφορίες στο προφίλ πελάτη.  Μπορείς να προσθέσεις πεδία όπως «Προσωπική κατάσταση», «Skype ID», «Αγαπημένος Δεινόσαυρος», κτλ.  Γίνεται δημιουργικοί!';
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Χρησιμοποίησε αυτά τα πεδία για να δημιουργήσεις επιπλέον πληροφορίες στο προφίλ πελάτη.  Μπορείς να προσθέσεις πεδία όπως «Προσωπική κατάσταση», «Skype ID», «Αγαπημένος Δεινόσαυρος», κτλ.  Γίνεται δημιουργικοί!';
 
+$Definition['Warning'] = 'Προειδοποίηση';
 $Definition['Why do you want to join?'] = 'Γιατί θες να γίνεις μέλος?';
 
 $Definition['You must manually apply this rank.'] = 'Πρέπει να δώσετε χειροκίνητα αυτό τον βαθμό.';

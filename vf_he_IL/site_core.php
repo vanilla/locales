@@ -586,6 +586,7 @@ $Definition['Powered by Vanilla'] = 'מופעל על ידי וניל';
 $Definition['Preview'] = 'קדימון';
 $Definition['Previous'] = 'קודם';
 $Definition['Privacy Settings'] = 'הגדרות פרטיות';
+$Definition['Private Group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
 $Definition['Private Note for Moderators'] = 'פתק פרטי למנחים';
 $Definition['Problem with credentials.'] = 'בעיה עם האישורים';
 $Definition['Proceed'] = 'המשך';
@@ -598,6 +599,7 @@ $Definition['Profile Picture'] = 'תמונת פרופיל';
 $Definition['Profiles'] = 'פרופילים';
 $Definition['Promote'] = 'קדם';
 $Definition['Public'] = 'ציבור';
+$Definition['Public Group.'] = 'Anyone can see the group and its content. Anyone can join.';
 
 $Definition['Q&A'] = 'שאלות ותשובות';
 $Definition['Q&A Accepted'] = 'ענה ✓';

@@ -57,6 +57,7 @@ $Definition['New discussions in the last day'] = 'Nye brukere siste dagen';
 $Definition['New discussions in the last week'] = 'Nye brukere siste uka';
 $Definition['New users in the last day'] = 'Nye brukere i dag';
 $Definition['New users in the last week'] = 'Nye brukere denne uken';
+$Definition['Notes'] = 'Notater';
 
 $Definition['On'] = 'På';
 
@@ -91,6 +92,7 @@ $Definition['The Password Authenticator does not have any custom configuration o
 $Definition['Uninvite'] = 'Annullér invitasjon';
 $Definition['User Count'] = 'Brukere';
 $Definition['Users'] = 'Brukere';
+$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Bruk disse feltene til å lage egendefinert profilinformasjon. Du kan oppgi ting som "Sivilstatus", "Skype", eller "Yndlingsdinosaur". Vær kreativ!';
 
 $Definition['View'] = 'Se';
 

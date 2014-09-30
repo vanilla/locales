@@ -125,6 +125,7 @@ $Definition['Announcements'] = 'Ogłoszenia';
 $Definition['Announce this discussion'] = 'Ogłoś tą dyskusję';
 $Definition['answer'] = 'odpowiedz';
 $Definition['Answers'] = 'Odpowiedzi';
+$Definition['Applicant'] = 'Kandydat';
 $Definition['Applicants'] = 'Kandydaci';
 $Definition['Apply Changes'] = 'Zastosuj zmiany';
 $Definition['Apply for Membership'] = 'Rejestracja';
@@ -334,6 +335,8 @@ $Definition['Garden.Title'] = 'Banner tytułowy';
 $Definition['Gender'] = 'Płeć';
 $Definition['General'] = 'Główne';
 $Definition['Generate Password'] = 'Generuj hasło';
+$Definition['Group Leaders'] = 'Liderzy';
+$Definition['Guest'] = 'Gość';
 $Definition['GuestModule.Message'] = 'Wygląda na to, że jesteś tutaj nowy. Jeśli chcesz wziąć udział, należy kliknąć jeden z tych przycisków!';
 
 $Definition['he'] = 'on';
@@ -444,8 +447,8 @@ $Definition['Not Verified'] = 'Nie zweryfikowany';
 
 $Definition[' now.'] = 'teraz.';
 
-$Definition['OldPassword'] = 'Stare hasło';
 $Definition['Old Password'] = 'Stare hasło';
+$Definition['OldPassword'] = 'Stare hasło';
 $Definition['on'] = 'na';
 $Definition['Only show followed categories'] = 'Pokaż tylko obserwowane kategorie';
 $Definition['OpenID Settings'] = 'Ustawienia OpenID';

@@ -420,6 +420,7 @@ $Definition['Give a Badge to %s'] = 'Ibigay ang isang Badge sa %s';
 $Definition['Give Badge'] = 'Magbigay ng Badge';
 $Definition['Given'] = 'Ibinigay';
 $Definition['Go'] = 'Umalis';
+$Definition['Group Leaders'] = 'Mga Lider';
 $Definition['GuestModule.Message'] = 'Mukhang ikaw ay bago dito. Kung nais mong makibahagi, i-click ang isa sa mga button na ito!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'MAghintay ng sandali ikaw ay sina-sign out namin';
@@ -687,6 +688,7 @@ $Definition['Replies'] = 'Mga tugon';
 $Definition['Reply'] = 'Sumagot';
 $Definition['Reported by: '] = 'Iniulat ni:';
 $Definition['Reported Posts'] = 'Mga Naiulat na Mga Post';
+$Definition['Report Reason'] = 'Dahilan';
 $Definition['Request a new password'] = 'Humiling ng bagong password';
 $Definition['Request a new password →'] = 'Humiling ng bagong password →';
 $Definition['Reset Password'] = 'I-reset ang Password';

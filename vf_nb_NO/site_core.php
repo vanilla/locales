@@ -72,6 +72,7 @@ $Definition['Announce...'] = 'Annonser...';
 $Definition['Announcement'] = 'Annonsering';
 $Definition['Announcements'] = 'Annonseringer';
 $Definition['Announce this discussion'] = 'Kunngjør diskusjon';
+$Definition['Applicant'] = 'Søker rolle';
 $Definition['Apply for Membership'] = 'Registrer deg';
 $Definition['Apply for membership'] = 'Registrer deg';
 $Definition['Are you sure you want to do that?'] = 'Sikker på dette?';
@@ -178,6 +179,7 @@ $Definition['Garden.Title'] = 'Banner-tittel';
 $Definition['Gender'] = 'Kjønn';
 $Definition['General'] = 'Generelt';
 $Definition['Go'] = 'Søk';
+$Definition['Guest'] = 'Gjest';
 $Definition['GuestModule.Message'] = 'For å engasjere deg på denne siden, klikk på en av disse knappene:';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Slapp av et par sekunder mens vi logger deg av.';

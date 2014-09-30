@@ -60,6 +60,7 @@ $Definition['Add Item'] = 'Добавить запись';
 $Definition['Addons'] = 'Дополненія';
 $Definition['Add Role'] = 'Добавить новую группу';
 $Definition['Add User'] = 'Добавить пользователя';
+$Definition['Administrator'] = 'Администраторъ';
 $Definition['Advanced'] = 'Настройки';
 $Definition['Advanced Forum Settings'] = 'Продвинутыя установки форума';
 $Definition['Advanced Options'] = 'Расширенныя опціи';

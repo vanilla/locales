@@ -433,6 +433,7 @@ $Definition['Give a Badge to %s'] = '%s को एक बैज दिया ज
 $Definition['Give Badge'] = 'बैज दें';
 $Definition['Given'] = 'दिया';
 $Definition['Go'] = 'जाएं';
+$Definition['Group Leaders'] = 'लीडर';
 $Definition['GuestModule.Message'] = 'लगता है कि आप यहाँ नए हैं। यदि आप शामिल होना चाहते हैं, तो इनमें से एक बटन क्लिक करें!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'आपको साइन-आउट करने के लिए हमें कुछ सेकेंड दें।';
@@ -717,6 +718,7 @@ $Definition['Replies'] = 'उत्तर';
 $Definition['Reply'] = 'उत्तर दें';
 $Definition['Reported by: '] = 'इनके द्वारा रिपोर्ट किया गया:';
 $Definition['Reported Posts'] = 'रिपोर्ट किए गए पोस्ट';
+$Definition['Report Reason'] = 'कारण';
 $Definition['Request a new password'] = 'नए पासवर्ड का अनुरोध करें';
 $Definition['Request a new password →'] = 'नए पासवर्ड के लिए अनुरोध करें →';
 $Definition['Reset Password'] = 'पासवर्ड पुनःसेट करें';

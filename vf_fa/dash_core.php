@@ -295,8 +295,8 @@ $Definition['Don\'t Refresh'] = 'خاموش';
 $Definition['Don\'t use Categories'] = 'ازکارانداختن دسته‌ها';
 $Definition['Do not display the categories in the side panel.'] = 'دسته‌ها را در پنل کناری نشان <b>نده</b>.';
 $Definition['Download Locale List'] = 'دانلود فهرست زبان‌ها';
-$Definition['Download Locale Pack'] = 'دانلود بستهٔ زبان';
 $Definition['DownloadLocalePack'] = 'بارگذاری';
+$Definition['Download Locale Pack'] = 'دانلود بستهٔ زبان';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'برای مرتب کردن و زیردسته کردن دسته‌ها، آن‌ها را بکشید و رها کنید.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'با کشیدن و رها کردن دسته‌های زیر می‌توانید چیدمان آن‌ها را تغییر دهید.';
 

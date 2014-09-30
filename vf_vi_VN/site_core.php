@@ -414,6 +414,7 @@ $Definition['Give a Badge to %s'] = 'Trao một huy hiệu cho %s';
 $Definition['Give Badge'] = 'Trao huy hiệu';
 $Definition['Given'] = 'Nhận';
 $Definition['Go'] = 'OK';
+$Definition['Group Leaders'] = 'Leader';
 $Definition['GuestModule.Message'] = 'Còn chờ gì nữa mà không mau đăng nhập hoặc đăng ký để cùng tham gia thảo luận với cộng đồng!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Xin vui lòng chờ giây lát.';
@@ -683,6 +684,7 @@ $Definition['Reopen'] = 'Mở lại';
 $Definition['Replies'] = 'Trả lời';
 $Definition['Reply'] = 'Trả lời';
 $Definition['Reported by: '] = 'Báo cáo bởi:';
+$Definition['Report Reason'] = 'Lý do';
 $Definition['Request a new password'] = 'Yêu cầu mật khẩu mới';
 $Definition['Request a new password →'] = 'Yêu cầu mật khẩu mới →';
 $Definition['Reset Password'] = 'Lấy lại mật khẩu';
