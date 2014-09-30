@@ -105,6 +105,7 @@ $Definition['All Pages'] = 'All Pages';
 $Definition['Allow new users to be registered through email.'] = 'Allow new users to be registered through email.';
 $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss this message';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
+$Definition['API'] = 'API';
 $Definition['API Status'] = 'API Status';
 $Definition['Appearance'] = 'Appearance';
 $Definition['Applicant'] = 'Applicant';
