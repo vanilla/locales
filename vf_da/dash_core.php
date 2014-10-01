@@ -50,6 +50,7 @@ $Definition['Archive Discussions'] = 'Arkiver Diskussioner';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'En url-version af kategori navnet for bedre SEO.';
 
 $Definition['Badge Name'] = 'Navn';
+$Definition['Ban Item'] = 'Element';
 $Definition['Banner Title'] = 'Bannertitel';
 $Definition['By %s'] = 'Af %s';
 $Definition['by %s'] = 'af %s';
@@ -193,6 +194,7 @@ $Definition['Sent To'] = 'Sendt til';
 $Definition['SMTP Password'] = 'SMTP Kodeord';
 $Definition['SMTP Security'] = 'SMTP Sikkerhed';
 $Definition['SMTP User'] = 'SMTP Bruger';
+$Definition['Subject'] = 'Emne';
 
 $Definition['Temporary (302)'] = 'Midlertidig (302)';
 $Definition['Thank You!'] = 'Tak!';

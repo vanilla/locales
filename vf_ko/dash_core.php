@@ -161,6 +161,7 @@ $Definition['My Invitations'] = '초대하기';
 $Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = '가입신청 후 관리자에 의해 검토 및 승인 (후훗 바로 당신이죠).';
 $Definition['New users fill out a simple form and are granted access immediately.'] = '가입신청 폼을 작성 후 바로 사이트 이용가능 .';
 $Definition['None'] = '없음';
+$Definition['Notes'] = '메모';
 
 $Definition['Only Allow Each User To Post'] = '회원별 게시글 제한사항';
 $Definition['Operation By'] = '작성';
@@ -212,6 +213,7 @@ $Definition['seconds'] = '초 이내에 게시 불가.';
 $Definition['Select the file to import'] = '임포트를 원하는 파일을 선택하세요';
 $Definition['Send %s a Message'] = '%s님에게 메세지를 보냅니다';
 $Definition['Status'] = '상태';
+$Definition['Subject'] = '제목';
 
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = '감사합니다!';

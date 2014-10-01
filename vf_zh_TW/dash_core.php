@@ -170,6 +170,7 @@ $Definition['SMTP Port'] = 'SMTP 連接埠';
 $Definition['SMTP Security'] = 'SMTP 安全';
 $Definition['SMTP User'] = 'SMTP 會員';
 $Definition['Status'] = '狀態';
+$Definition['Subject'] = '主旨';
 
 $Definition['Temporary (302)'] = '臨時移動 (302)';
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';

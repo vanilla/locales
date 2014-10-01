@@ -20,6 +20,7 @@ $Definition['%s years.'] = '%s años.';
 
 $Definition['(less)'] = '(menos)';
 $Definition['(more)'] = '(más)';
+$Definition['(YYYY-mm-dd)'] = '(AAAA-mm-dd)';
 
 $Definition['1 day'] = '1 día';
 $Definition['1 hour'] = '1 hora';
@@ -37,6 +38,7 @@ $Definition['5 minutes'] = '5 minutos';
 $Definition['15 minutes'] = '15 minutos';
 
 $Definition['<strong>Categories</strong>'] = '<strong>Categorías</strong>';
+$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = 'Las <strong>categorías</strong> te permiten organizar tus discusiones. Las categorías sólo contienen discusiones.';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirma Tu Dirección de Email ';
 $Definition['[%s] Invitation'] = '[%s] Invitación ';
@@ -78,6 +80,7 @@ $Definition['All %1$s'] = 'Todos %1$s';
 $Definition['All Dashboard Pages'] = 'Todas las paginas del tablero';
 $Definition['All discussions in this category will be permanently deleted.'] = 'Todas las discusiones en este categoría serán permanentemente eliminadas. ';
 $Definition['All Forum Pages'] = 'Todas las paginas del foro';
+$Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'Todo el contenido del usuario será reemplazado con un mensaje informando de que el usuario ha sido eliminado.';
 $Definition['Allow new users to be registered through email.'] = 'Permitir a usuarios nuevos registrarse atraves del email.';
 $Definition['Allow users to dismiss this message'] = 'Permitir a los usuarios omitir este mensaje';
 $Definition['All Pages'] = 'Todas las paginas';
