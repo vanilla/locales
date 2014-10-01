@@ -46,7 +46,6 @@ $Definition['Ask Question'] = 'Objavi Diskusiju';
 
 $Definition['Back to Discussions'] = 'Nazad na Diskusije';
 $Definition['Bookmark'] = 'Označi';
-$Definition['bookmarked discussion'] = 'označene diskusije';
 $Definition['Bookmarked Discussions'] = 'Označene Diskusije';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Postavljanjem ovog fajla potvrđujete da imate pravo distribuiranja ove slike, i da ne narušavate uslove pružanja usluge.';
 
@@ -308,7 +307,6 @@ $Definition['ValidateEnum'] = '%s nije valjan.';
 $Definition['ValidateInteger'] = '%s nije valjan cijeli broj.';
 $Definition['ValidateLength'] = '%1$s je %2$s znakova predug.';
 $Definition['ValidateMatch'] = 'Navedena %s polja se ne podudaraju.';
-$Definition['ValidateMinimumAge'] = 'Morate imati najmanje 16 godina da biste mogli nastaviti.';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Morate odabrati najmanje jedno %s.';
 $Definition['ValidateRegex'] = '%s čini se da nije u ispravnom formatu.';
 $Definition['ValidateRequired'] = '%s je zahtijevano.';

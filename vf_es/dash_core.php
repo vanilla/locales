@@ -126,6 +126,7 @@ $Definition['BadgeRecipientsHeading'] = 'Recipientes más recientes';
 $Definition['Badge Requests'] = 'Peticiones de insignia';
 $Definition['Ban Item'] = 'Articulo';
 $Definition['Ban List'] = 'Lista de bloqueo';
+$Definition['Banner'] = 'Cartel';
 $Definition['Banner Logo'] = 'Logo (Banner)';
 $Definition['Banner Title'] = 'Título del Banner';
 $Definition['Banning'] = 'Bloquear';

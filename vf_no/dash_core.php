@@ -6,6 +6,7 @@ $Definition['[%s] Invitation'] = '[%s] Invitasjon';
 $Definition['[%s] Password Reset'] = '[%s] Passord nullstilt';
 $Definition['[%s] Password Reset Request'] = '[%s] Forespør nullstilling av passord.';
 
+$Definition['Add Info &amp; Create Account'] = 'Legg til info &amp; Opprett konto';
 $Definition['Add Role'] = 'Legg til rolle';
 $Definition['Allow users to dismiss this message'] = 'Tillat brukere å avskjedige denne meldingen.';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Selv om invitasjonen ble laget, kunne ikke e-posten bli sendt. Serveren sier det er fordi: %s';
@@ -15,6 +16,7 @@ $Definition['Approve'] = 'Godkjenn';
 $Definition['Authentication'] = 'Autentisering';
 
 $Definition['Badge Name'] = 'Navn';
+$Definition['Banner'] = 'Fane';
 $Definition['Banner Logo'] = 'Banner-logo';
 $Definition['Banner Title'] = 'Banner-tittel';
 $Definition['Ban Type'] = 'Condition Type';
@@ -60,6 +62,7 @@ $Definition['New users in the last week'] = 'Nye brukere denne uken';
 $Definition['Notes'] = 'Notater';
 
 $Definition['On'] = 'På';
+$Definition['Operation By'] = 'Av';
 
 $Definition['Password Options'] = 'Passord valg';
 $Definition['Pending'] = 'På vent';
@@ -70,6 +73,7 @@ $Definition['Recently Active Users'] = 'Nylig aktive brukere';
 $Definition['Register for Membership'] = 'Registrer deg';
 $Definition['Registration'] = 'Registrering';
 $Definition['Registration is currently closed.'] = 'Registrering på siden er for øyeblikket ikke tilgjengelig.';
+$Definition['Remove'] = 'Fjern';
 $Definition['Reset password and send email notification to user'] = 'Nullstill passord og send brukeren varsel på e-post';
 $Definition['Roles & Permissions'] = 'Roller og rettigheter';
 $Definition['Roles determine user\'s permissions.'] = 'Hver eneste bruker må få minst én rolle. Roller brukes for å bestemme hva brukere har lov til å gjøre.';
@@ -79,6 +83,7 @@ $Definition['SaveLocalePack'] = 'Lagre';
 $Definition['Send %s a Message'] = 'Send %s en melding';
 $Definition['Send Again'] = 'Send på nytt';
 $Definition['Sent To'] = 'Send til';
+$Definition['Subject'] = 'Emne';
 
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['The banner logo appears at the top of your forum.'] = 'Banner-logo vises øverst på toppen av forumet ditt.';
@@ -96,6 +101,7 @@ $Definition['Use these fields to create custom profile information. You can ente
 
 $Definition['View'] = 'Se';
 
+$Definition['Warning'] = 'Advarsel';
 $Definition['Welcome to Vanilla!'] = 'Velkommen!';
 $Definition['What\'s the Buzz?'] = 'Ka skjer?';
 

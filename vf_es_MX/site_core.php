@@ -172,7 +172,6 @@ $Definition['Banned'] = 'Vetado';
 $Definition['Banned for being abusive.'] = 'Vetado por abuso.';
 $Definition['Banned for spamming.'] = 'Vetado por spam.';
 $Definition['Banned users can no longer access the site.'] = 'Los usuarios vetados ya no pueden ingresar a la comunidad.';
-$Definition['BanType'] = 'Tipo de veto';
 $Definition['Ban User'] = 'Vetar usuario';
 $Definition['Ban Value'] = 'Valor del veto';
 $Definition['Best Answer'] = 'Mejor respuesta';
@@ -183,7 +182,6 @@ $Definition['Blank Discussion Topic'] = 'Tema en blanco';
 $Definition['Blank Message'] = 'Mensaje en blanco';
 $Definition['Body'] = 'Cuerpo';
 $Definition['Bookmark'] = 'Marcar como favorito';
-$Definition['bookmarked discussion'] = 'discusión en favoritos';
 $Definition['Bookmarked Discussions'] = 'Temas en favoritos';
 $Definition['Bookmarks'] = 'Favoritos';
 $Definition['bookmarks'] = 'favoritos';
@@ -386,7 +384,6 @@ Para acceder al foro, haga clic en {/,exurl,domain}.
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lea la historia completa aquí</a></p><div class="ClearFix"></div></div>';
-$Definition['EmbeddedNoBodyFormat.'] = 'Formato incrustado sin cuerpo';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lea la historia completa aquí</a></p><div class="ClearFix"></div></div>';
@@ -530,7 +527,6 @@ $Definition['Make me invisible? (Will not show you on the list)'] = '¿Ponerse e
 $Definition['Make this poll anonymous (user votes are not made public).'] = 'Hacer de esta una encuesta anónima (los votos de los usuarios no serán públicos).';
 $Definition['Male'] = 'Masculino';
 $Definition['Mark All Viewed'] = 'Marcar todos como leídos';
-$Definition['markallviewed'] = 'Marcar todos como leídos';
 $Definition['Marking as spam cannot be undone.'] = 'El marcar algo como spam hará que sea eliminado permanentemente. Eliminar es una buena manera de mantener el foro limpio.';
 $Definition['Mark Read'] = 'Marcar como leído';
 $Definition['Merge'] = 'Fusionar';
@@ -567,6 +563,7 @@ $Definition['My Preferences'] = 'Mis preferencias';
 $Definition['n/a'] = 'no disponible';
 $Definition['Name'] = 'Nombre';
 $Definition['Name Unavailable'] = 'Nombre no disponible';
+$Definition['new'] = 'nuevo';
 $Definition['New Conversation'] = 'Nuevo mensaje';
 $Definition['New Discussion'] = 'Nueva conversación';
 $Definition['new discussion'] = 'nuevo';
@@ -622,7 +619,6 @@ $Definition['Other Records'] = 'Otros registros';
 $Definition['PageDetailsMessage'] = '%1$s a %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s a %2$s de %3$s';
 $Definition['Page Not Found'] = 'No se encontró la página';
-$Definition['PageViews'] = 'Páginas vistas';
 $Definition['ParticipatedHomepageTitle'] = 'Coversaciones en las que ha participado';
 $Definition['Password'] = 'Clave';
 $Definition['PasswordRequest'] = 'Hola:
@@ -927,7 +923,6 @@ $Definition['ValidateInteger'] = '%s no es un entero válido.';
 $Definition['ValidateIntegerArray'] = '%s debe ser una lista de números delimitada por comas.';
 $Definition['ValidateLength'] = '%1$s excede por %2$s caracteres el máximo permitido.';
 $Definition['ValidateMatch'] = 'Los campos %s no son iguales.';
-$Definition['ValidateMinimumAge'] = 'Validar edad mínima';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Se debe seleccionar al menos un %s.';
 $Definition['ValidateRegex'] = '%s no parece tener un formato correcto.';
 $Definition['ValidateRequired'] = '%s es obligatorio.';

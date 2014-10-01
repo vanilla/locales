@@ -1,11 +1,15 @@
 <?php
 
+$Definition['bookmarked discussion'] = 'bookmarked competition';
+
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.Merge.Description'] = 'This will merge all of the user and discussion data from the import into this forum.
 <b>Warning: If you merge the same data twice you will get duplicate discussions.</b>';
+
+$Definition['MoneyFormat2'] = '$%7.2f';
 
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were 
                able to retrieve a logged-in session from the AuthenticateURL you 

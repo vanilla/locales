@@ -170,7 +170,6 @@ $Definition['Banned for being abusive.'] = 'به‌خاطر سوءاستفاده
 $Definition['Banned for spamming.'] = 'به‌خاطر هرزنگاری بازداشت شد.';
 $Definition['Banned users can no longer access the site.'] = 'کاربران محروم دیگر نمی‌توانند به این انجمن دسترسی یابند.';
 $Definition['Banner'] = 'سردر';
-$Definition['BanType'] = 'گونه‌ی محرومیت';
 $Definition['Ban User'] = 'بازداشتن کاربر';
 $Definition['Ban Value'] = 'مقدار';
 $Definition['Best Answer'] = 'بهترین پاسخ';
@@ -497,7 +496,6 @@ $Definition['Make me invisible? (Will not show you on the list)'] = 'آیا نا
 $Definition['Make this poll anonymous (user votes are not made public).'] = 'این نظرسنجی را بی‌نام کن (رای‌های کاربران عمومی نخواهند شد)';
 $Definition['Male'] = 'مرد';
 $Definition['Mark All Viewed'] = 'همه را خوانده شده بگیر';
-$Definition['markallviewed'] = 'انتخاب همه به عنوان دیده شده';
 $Definition['Mark Read'] = 'خواندم';
 $Definition['Merge'] = 'درهم‌آمیزی';
 $Definition['Merge Discussions'] = 'درهم‌آمیزی جستارها';
@@ -535,6 +533,7 @@ $Definition['n/a'] = 'نامشخص';
 $Definition['Name'] = 'نام';
 $Definition['Name Dropper'] = 'رها کننده نام';
 $Definition['Name Unavailable'] = 'این نام در دسترس نیست.';
+$Definition['new'] = 'تازه';
 $Definition['New Conversation'] = 'گفت‌وگوی تازه';
 $Definition['New Discussion'] = 'جستار تازه';
 $Definition['new discussion'] = 'تازه';
@@ -592,7 +591,6 @@ $Definition['Other Records'] = 'سایر سوابق';
 $Definition['PageDetailsMessage'] = '%1$s به %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s به %2$s از %3$s';
 $Definition['Page Not Found'] = 'برگه‌ای یافت نشد.';
-$Definition['PageViews'] = 'بازدیدهای برگه';
 $Definition['Password'] = 'گذرواژه';
 $Definition['PasswordRequest'] = '
 درخواستی برای بازیابی گذرواژه‌ی شما در %2$s، دریافت شده است. برای بازیابی گذرواژه‌تان، پیوند زیر را دنبال کنید:<br>%3$s<br>اگر شما این درخواست را نداده‌اید، این رایانامه را نادیده بگیرید.
@@ -886,7 +884,6 @@ $Definition['ValidateFormat'] = 'پروانه‌ی فرستادن کدهای خ�
 $Definition['ValidateInteger'] = 'داده‌ی %s یک عدد صحیح (Integr) نادرست است.';
 $Definition['ValidateLength'] = 'تعداد نویسه‌های %1$s، %2$s تا بیش از حد مجاز است.';
 $Definition['ValidateMatch'] = '%s‌ها هم‌خوانی ندارند.';
-$Definition['ValidateMinimumAge'] = 'سال‌های زندگی شما برای عضویت در این انجمن هنوز کوتاه است!';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'شما دست‌کم باید یک %s را برگزینید.';
 $Definition['ValidateRegex'] = 'به‌نظر می‌رسد که %s دارای قالب (format) درست نیست.';
 $Definition['ValidateRequired'] = '«%s» را وارد کنید.';

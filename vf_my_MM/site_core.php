@@ -102,7 +102,6 @@ $Definition['Ban User'] = 'အသုံးပြုခွင့် ပိတ်�
 $Definition['Best Of'] = 'အကောင်းဆုံး';
 $Definition['Best Of...'] = 'အကောင်းဆုံး ...';
 $Definition['Bookmark'] = 'မှတ်သားထားခြင်း';
-$Definition['bookmarked discussion'] = 'မှတ်သားထားသောဆွေးနွေးချက်';
 $Definition['Bookmarked Discussions'] = 'မှတ်သားထားသောဆွေးနွေးချက်များ';
 $Definition['Bookmarks'] = 'မှတ်သားထားခြင်းများ';
 $Definition['bookmarks'] = 'မှတ်သားထားခြင်းများ';
@@ -312,6 +311,7 @@ $Definition['My Drafts'] = 'စာကြမ်း';
 $Definition['My Preferences'] = 'ကျွန်ုပ်၏ ကိုယ်ရေးအချက်အလက်များ';
 
 $Definition['Name Unavailable'] = 'နာမည် အသုံးပြုပြီးသားဖြစ်သည်';
+$Definition['new'] = 'အသစ်';
 $Definition['New Conversation'] = 'စာ အသစ်';
 $Definition['New Discussion'] = 'စတင် ဆွေးနွေးရန်';
 $Definition['new discussion'] = 'အသစ်';
@@ -449,7 +449,6 @@ $Definition['UsernameError'] = 'အသုံးပြုသူ အမည်သ�
 $Definition['Username or email'] = 'သုံးပြုသူ အမည် သို့မဟုတ် email';
 
 $Definition['ValidateEnum'] = '%s ဟာ မမှန်ကန်ပါ။';
-$Definition['ValidateMinimumAge'] = 'You must be at least 16 years old to proceed.';
 $Definition['ValidateRequiredArray'] = 'အနည်းဆုံး %s တစ်ခု ရွေးရန်လိုသည်။';
 $Definition['ValidateTime'] = '%s သည် မှန််ကန်သည့် အချိန် ပုံစံ မဟုတ်ပါ။';
 $Definition['ValidateTimestamp'] = '%s သည် မှန်ကန်သည့် timestamp မဟုတ်ပါ။';

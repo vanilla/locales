@@ -159,7 +159,6 @@ $Definition['Banned'] = '封鎖';
 $Definition['Banned for being abusive.'] = '因濫用內容而封禁';
 $Definition['Banned for spamming.'] = '因散布垃圾訊息而封禁。';
 $Definition['Banned users can no longer access the site.'] = '被封禁的用戶將不能再訪問本站。';
-$Definition['BanType'] = '封禁類型';
 $Definition['Ban User'] = '封禁用戶';
 $Definition['Ban Value'] = '封禁值';
 $Definition['Best Answer'] = '最佳答案';
@@ -170,7 +169,6 @@ $Definition['Blank Discussion Topic'] = '空白討論主題';
 $Definition['Blank Message'] = '空白信息';
 $Definition['Body'] = '正文';
 $Definition['Bookmark'] = '收藏';
-$Definition['bookmarked discussion'] = '收藏的討論';
 $Definition['Bookmarked Discussions'] = '收藏的討論';
 $Definition['Bookmarks'] = '收藏';
 $Definition['bookmarks'] = '書籤';
@@ -351,7 +349,6 @@ $Definition['EmailWelcomeRegister'] = 'Hello {User.Name},
 You can access the site at {/,url,domain}.
 
 Have a great day！';
-$Definition['EmbeddedNoBodyFormat.'] = '嵌入無正文格式。';
 $Definition['English'] = '英文';
 $Definition['Enter your Email address'] = '輸入你的 Email 地址';
 $Definition['Enter your email address'] = '輸入你的 Email 地址';
@@ -472,7 +469,6 @@ $Definition['Make me invisible? (Will not show you on the list)'] = '讓我隱�
 $Definition['Make this poll anonymous (user votes are not made public).'] = '使此投票匿名（用戶投票不公開）';
 $Definition['Male'] = '男';
 $Definition['Mark All Viewed'] = '標記所有為已讀';
-$Definition['markallviewed'] = '標記所有已查看';
 $Definition['Mark as Troll'] = '標記為煽動性文章';
 $Definition['Mark Read'] = '標示為已讀取';
 $Definition['Merge'] = '合併';
@@ -562,7 +558,6 @@ $Definition['Or you can...'] = '或者你可以...';
 $Definition['Other Records'] = '其它記錄';
 
 $Definition['Page Not Found'] = '找不到頁面';
-$Definition['PageViews'] = '頁面訪問量';
 $Definition['Password'] = '密碼';
 $Definition['PasswordRequest'] = '你好 %1$s,
 
@@ -851,7 +846,6 @@ $Definition['ValidateEnum'] = '%s 無效.';
 $Definition['ValidateInteger'] = '%s 不是有效的整數.';
 $Definition['ValidateLength'] = '%1$s 內容太長, 超出限制 %2$s 字符.';
 $Definition['ValidateMatch'] = '%s 字段不正確.';
-$Definition['ValidateMinimumAge'] = 'You must be at least 16 years old to proceed.';
 $Definition['Value'] = 'Condition Expression';
 $Definition['Vanilla Statistics'] = 'Vanilla 統計數據';
 $Definition['Vanilla Statistics Plugin'] = 'Vanilla 統計插件';

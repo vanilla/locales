@@ -231,6 +231,7 @@ $Definition['My Preferences'] = 'Mine instillinger';
 
 $Definition['Name'] = 'Badge Name';
 $Definition['Name Unavailable'] = 'Navn ikke tilgjengelig.';
+$Definition['new'] = 'ny';
 $Definition['New Conversation'] = 'Ny samtale';
 $Definition['New Discussion'] = 'Ny diskusjon';
 $Definition['new discussion'] = 'ny';
