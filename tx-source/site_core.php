@@ -209,7 +209,6 @@ $Definition['Banned for being abusive.'] = 'Banned for being abusive.';
 $Definition['Banned for spamming.'] = 'Banned for spamming.';
 $Definition['Banned users can no longer access the site.'] = 'Banned users can no longer access the site.';
 $Definition['Banner'] = 'Banner';
-$Definition['BanType'] = 'BanType';
 $Definition['Ban User'] = 'Ban User';
 $Definition['Ban Value'] = 'Ban Value';
 $Definition['Best Answer'] = 'Best Answer';
@@ -223,7 +222,7 @@ $Definition['Blogs'] = 'Blogs';
 $Definition['Body'] = 'Body';
 $Definition['Bold'] = 'Bold';
 $Definition['Bookmark'] = 'Bookmark';
-$Definition['bookmarked discussion'] = 'bookmarked competition';
+$Definition['bookmarked discussion'] = 'bookmarked discussion';
 $Definition['Bookmarked Discussions'] = 'Bookmarked Discussions';
 $Definition['Bookmarks'] = 'Bookmarks';
 $Definition['bookmarks'] = 'bookmarks';
@@ -442,7 +441,6 @@ $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbeddedNoBodyFormat.'] = 'EmbeddedNoBodyFormat.';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
@@ -632,7 +630,6 @@ $Definition['Make this poll anonymous (user votes are not made public).'] = 'Mak
 $Definition['Male'] = 'Male';
 $Definition['Mark All Viewed'] = 'Mark All Viewed';
 $Definition['Mark as Troll'] = 'Mark as Troll';
-$Definition['markallviewed'] = 'markallviewed';
 $Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
 $Definition['Mark Read'] = 'Mark Read';
 $Definition['Member Count'] = 'Members';
@@ -652,7 +649,6 @@ $Definition['Moderator Activity'] = 'Moderator Activity';
 $Definition['Moderator'] = 'Moderator';
 $Definition['Moderators'] = 'Moderators';
 $Definition['moderators'] = 'moderators';
-$Definition['MoneyFormat2'] = '$%7.2f';
 $Definition['months'] = 'months';
 $Definition['More'] = 'More';
 $Definition['More About %s'] = 'More About %s';
@@ -680,6 +676,7 @@ $Definition['Name'] = 'Name';
 $Definition['Name Dropper'] = 'Name Dropper';
 $Definition['Name the Group'] = 'Name the Group';
 $Definition['Name Unavailable'] = 'Name Unavailable';
+$Definition['new'] = 'new';
 $Definition['New Conversation'] = 'New Message';
 $Definition['New Discussion'] = 'New Discussion';
 $Definition['new discussion'] = 'new';
@@ -720,8 +717,8 @@ $Definition['Notify me when people mention me.'] = 'Notify me when people mentio
 $Definition['Notify me when people mention me in comments.'] = 'Notify me when people mention me in comments.';
 $Definition['Notify me when people reply to my wall comments.'] = 'Notify me when people reply to my wall comments.';
 $Definition['Notify me when people write on my wall.'] = 'Notify me when people write on my wall.';
-$Definition['Notify me when there is Event activity.'] = 'Notify me when there is event activity.';
-$Definition['Notify me when there is Group activity.'] = 'Notify me when there is group activity.';
+$Definition['Notify me when there is event activity.'] = 'Notify me when there is event activity.';
+$Definition['Notify me when there is group activity.'] = 'Notify me when there is group activity.';
 $Definition['Not much happening here, yet.'] = 'Not much happening here, yet.';
 $Definition['Not Verified'] = 'Not Verified';
 
@@ -754,7 +751,6 @@ $Definition['Owner'] = 'Owner';
 $Definition['PageDetailsMessage'] = '%1$s to %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
 $Definition['Page Not Found'] = 'Page Not Found';
-$Definition['PageViews'] = 'PageViews';
 $Definition['Participated'] = 'Participated';
 $Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
 $Definition['Password'] = 'Password';
@@ -1131,7 +1127,7 @@ $Definition['ValidateInteger'] = '%s is not a valid integer.';
 $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
 $Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
 $Definition['ValidateMatch'] = 'The %s fields do not match.';
-$Definition['ValidateMinimumAge'] = 'ValidateMinimumAge';
+$Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least one %s.';
 $Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
 $Definition['ValidateRequired'] = '%s is required.';
