@@ -97,6 +97,8 @@ $Definition['Best Of'] = 'O melhor de';
 $Definition['Best Of...'] = 'O melhor de…';
 $Definition['Bold'] = 'Negrito';
 $Definition['Bookmark'] = 'Ponha nos Favoritos';
+$Definition['bookmarked discussion'] = 'discussão marcada
+';
 $Definition['Bookmarked Discussions'] = 'Discuss&atilde;o nos Favoritos';
 $Definition['Browse Groups'] = 'Procurar grupos';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Ao fazer o upload de um ficheiro, voc&ecirc; garante que tens os direitos necess&aacute;rios para distribuir esta imagem, e que tal n&atilde;o viola os Termos de Servi&ccedil;o.';
@@ -113,6 +115,8 @@ $Definition['Change Password'] = 'Mudar Password';
 $Definition['Change Picture'] = 'Mudar Foto';
 $Definition['Check all roles that apply to this user:'] = 'Marque todas as gradua&ccedil;&otilde;es que se aplicam a este utilizador:';
 $Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
+$Definition['Click to re-attach'] = 'Clicar para voltar a anexar
+';
 $Definition['Close'] = 'Fechar';
 $Definition['Closed'] = 'Fechado';
 $Definition['Color'] = 'Cor';
@@ -275,6 +279,8 @@ $Definition['GroupEmptyEvents'] = 'Ora bolas, não há eventos para breve.';
 $Definition['Group Info'] = 'Informações de Grupo';
 $Definition['Group Members'] = 'Membros';
 $Definition['GroupMembersEmpty'] = 'Ainda ninguém aderiu. Passe a palavra!';
+$Definition['Group Options'] = 'Opções de grupo
+';
 $Definition['Groups'] = 'Grupos';
 $Definition['groups'] = 'grupos';
 $Definition['Guest'] = 'Visitante';
@@ -502,6 +508,8 @@ $Definition['TermsOfServiceText'] = '
 ';
 $Definition['the category'] = 'a categoria';
 $Definition['The file failed to upload.'] = 'O ficheiro falhou o upload.';
+$Definition['There aren\'t any groups yet.'] = 'Não tem nenhum grupo ainda.
+';
 $Definition['Thumbnail'] = 'Miniatura';
 $Definition['Toggle full page'] = 'Alternar página inteira';
 $Definition['Toggle HTML view'] = 'Alternar vista de HTML';
@@ -531,6 +539,8 @@ $Definition['ValidateEnum'] = '%s n&atilde;o &eacute; v&aacute;lido.';
 $Definition['ValidateInteger'] = '%s n&atilde;o &eacute; um n&uacute;mero inteiro v&aacute;lido.';
 $Definition['ValidateLength'] = '%1$s tem %2$s caracteres a mais.';
 $Definition['ValidateMatch'] = 'Os campos %s n&atilde;o coincidem.';
+$Definition['ValidateMinimumAge'] = 'Você não tem idade suficiente para participar desta comunidade.
+';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Precisa escolher pelo menos uma %s.';
 $Definition['ValidateRegex'] = '%s parece n&atilde;o estar no formato correcto.';
 $Definition['ValidateRequired'] = '%s &eacute; necess&aacute;rio.';
