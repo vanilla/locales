@@ -624,6 +624,7 @@ $Definition['lasts %s'] = 'lasts %s';
 $Definition['Latest %1$s'] = 'Latest %1$s';
 $Definition['Latest Post'] = 'Latest Post';
 $Definition['Leaders'] = 'Leaders';
+$Definition['Leave %s'] = 'Leave %s';
 $Definition['Leave a Comment'] = 'Leave a Comment';
 $Definition['Leave a comment'] = 'Leave a comment';
 $Definition['Leave a redirect link.'] = 'Leave a redirect link.';
