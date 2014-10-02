@@ -70,6 +70,7 @@ $Definition['AddonProblems'] = '<h2>Problemen?</h2><p>Als er iets misgaat met ee
 $Definition['Add Role'] = 'Voeg een Rol toe';
 $Definition['Add User'] = 'Voeg Gebruiker toe';
 $Definition['Advanced'] = 'Geavanceerd';
+$Definition['Advanced Editor Settings'] = 'Geavanceerde Bewerkingsinstellingen';
 $Definition['Advanced Embed Settings'] = 'Geavanceerde geïntegreede instellingen';
 $Definition['Advanced Forum Settings'] = 'Geavanceerde Forum Instellingen';
 $Definition['AdvancedNotifications'] = 'Geadvanceerde Notificaties';
@@ -326,6 +327,12 @@ $Definition['Enter the connection settings for your sphinx server below.'] = 'Vo
 $Definition['Enter the email address of the person you would like to invite:'] = 'Vul het e-mailadres in van de persoon die je wilt uitnodigen:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Vul de url naar de pagina die je wilt gebruiken als je hoofdpagina in';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Vul de url naar de pagina die je wilt gebruiken als je hoofdpagina in:';
+$Definition['Every %s hour'] = 'Elk uur';
+$Definition['Every %s hours'] = 'Elke %s uur';
+$Definition['Every %s minute'] = 'Elke minuut';
+$Definition['Every %s minutes'] = 'Elke %s minuten';
+$Definition['Every %s second'] = 'Elke seconde';
+$Definition['Every %s seconds'] = 'Elke %s seconden';
 $Definition['Every 1 minute'] = 'Elke minuut';
 $Definition['Every 5 minutes'] = 'Elke 5 minuten';
 $Definition['Every 5 seconds'] = 'Elke 5 seconden';
@@ -360,8 +367,14 @@ $Definition['Forum Settings'] = 'Forum Instellingen';
 $Definition['Frequency'] = 'Frequentie';
 $Definition['From'] = 'Van';
 
+$Definition['Garden.Import.Complete.Description'] = 'U heeft succesvol een importering afgerond.
+Klik <b>Klaar</b> als u klaar bent.';
+$Definition['Garden.Import.Continue.Description'] = 'Het lijkt alsof u midden in een importering zit.
+Kies alstublieft een van de volgende opties.';
 $Definition['Garden.Import.Description'] = 'Gebruik deze pagina om gegevens van een ander forum te importeren welke geëxporteerd zijn met Vanilla\'s exporter. Bekijk voor meer informatie <a href="%s">onze importeer documentatie</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Voer het e-mailadres en het wachtwoord in van de admin gebruiker van de te importeren gegevens.';
+$Definition['Garden.Import.Merge.Description'] = 'Dit zal alles van de gebruiker en de discussiegegevens van de import in dit forum samenvoegen.
+<b>Waarschuwing: Als u dezelfde gegevens twee maal samenvoegt, krijgt u twee maal dezelfde discussie.</b>';
 $Definition['Garden.Import.Overwrite.Description'] = 'Waarschuwing: Alle gegevens van dit forum zullen worden overschreven.';
 $Definition['Garden.StatisticsDisabled'] = 'Je hebt Vanilla Statistieken specifiek uitgeschakeld in je configuratiebestand.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Het lijkt alsof dit forum in een testomgeving draait, of op een andere manier een locaal IP-adres teruggeeft. Standaard worden forums die draaien op locale IP-adressen niet gevolgt.';
@@ -571,7 +584,13 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'De pocket wordt weergeg
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets stellen je in staat om vrije HTML op verschillende plaatsen rond de applicatie toe te passen.';
 $Definition['Points'] = 'Punten';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Voorkom spam op je forum door het aantal discussies &amp; reacties die gebruikers binnen een bepaalde tijd kunnen plaatsen te limiteren.';
+$Definition['ProxyConnect.NoAuthenticate'] = 'Het lijkt er op dat we niet
+in staat zijn om een ingelogde sessie te halen vanaf de Authenticatie-URL die u
+opgaf. Zorg er alstublieft voor dat u ingelogd bent in uw remote app
+voordat u deze test uitvoert.';
 $Definition['ProxyConnect.RimBlurb'] = 'Als je ProxyConnect met een officieel ondersteunde applicatie gebruikt zoals onze wordpress-proxyconnect plugin, zullen deze waardes in het configuratiescherm van die plugin beschikbaar zijn.';
+$Definition['ProxyConnect.TestIntro'] = 'Met deze interface kunt u uw configuratie testen en er voor zorgen dat
+ProxyConnect werkt.';
 $Definition['ProxyConnect.TestSettings'] = 'Wanneer je ProxyConnect hieronder hebt geconfigureerd, <b>en je veranderingen hebt opgeslagen</b>, kun je je nieuwe instellingen testen door op \'Test ProxyConnect-instellingen\' te klikken';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect is geconfigureerd om te werken met je blog, <b>%s</b>. Nu is het een prima tijd om de authenticator te Activeren en een beetje te testen.';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect wordt meegeleverd met een aantal voorgebouwde <b>Externe Integratiemanagers</b>, elk ontworpen om het installatieproces te automatiseren. Als je externe applicatie in de drop-downlijst hieronder staat, selecteer het dan nu, anders kies je "Handmatige Integratie".';
@@ -833,6 +852,8 @@ $Definition['View Page'] = 'Toon Pagina';
 $Definition['Warning'] = 'Waarschuwing';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Waarschuwing: Alle data zal verloren gaan. Wanneer je verwijderd is er geen enkel herstel mogelijk.';
 $Definition['Warning: deleting is permanent'] = 'WAARSCHUWING: verwijderde voorwerpen worden verwijderd van deze lijst en kunnen niet teruggebracht worden.';
+$Definition['Warning: Loading tables can be slow.'] = '<b>Waarschuwing</b>: Uw serverconfiguratie ondersteunt geen snelle data loading.
+ Als u een zeer groot bestand aan het importeren bent (b.v. meer dan 200.000 opmerkingen) zou u kunnen overwegen om uw configuratie te wijzigen. Klik <a href="http://vanillaforums.com/porter">hier</a>; voor meer informatie.';
 $Definition['Warning: This is for advanced users.'] = '<b>Waarschuwing</b>: Dit is voor geavanceerde gebruikers en vereist dat je extra aanpassingen doet aan je webserver. Dit is normaalgesproken alleen beschikbaar wanneer je VPS hosting hebt. Probeer dit niet als je niet weet wat je aan het doen bent.';
 $Definition['Welcome to Vanilla!'] = 'Welkom bij Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Welkom op je Dashboard';
@@ -858,6 +879,10 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You cannot edit the thumbnail of another member.'] = 'Je kan de thumbnail van een andere gebruiker niet aanpassen.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Je kan een geaccepteerde uitnodiging niet verwijderen.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Je kan de enige categorie die discussies toestaat niet verwijderen';
+$Definition['You can place files in your /uploads folder.'] = 'Als uw bestand te
+groot is om direct naar deze pagina te uploaden, kan u het in uw /uploads
+folder zetten. Zorg er voor dat de bestandsnaam begint met het woord <b>export</b> en eindigt
+met een van <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'Je hebt geen toestemming om andere profielen te bekijken.';
 $Definition['You have %s invitations left for this month.'] = 'Je hebt %s uitnodigingen over voor deze maand.';
 $Definition['You must be authenticated in order to use this form.'] = 'Je moet geauthenticeerd zijn om dit forum te kunnen gebruiken.';
