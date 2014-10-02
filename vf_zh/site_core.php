@@ -869,6 +869,7 @@ $Definition['Reason (optional)'] = '原因(可选)';
 $Definition['Recent Activity'] = '近期动态';
 $Definition['Recent Admin Activity'] = '当前在线管理员';
 $Definition['Recent Discussions'] = '近期讨论';
+$Definition['Recent Events'] = '近期活动';
 $Definition['recently'] = '最新';
 $Definition['Recent Moderator Activity'] = '当前在线版主';
 $Definition['Recent Tutorials'] = '最新教程';

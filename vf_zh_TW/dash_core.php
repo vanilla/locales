@@ -177,6 +177,7 @@ $Definition['Test Mode: The pocket will only be displayed for pocket administrat
 $Definition['Thank You!'] = '謝謝！';
 $Definition['The invitation was removed successfully.'] = '邀請已經成功刪除.';
 $Definition['Themes'] = '主題';
+$Definition['To'] = '至';
 
 $Definition['Uninvite'] = '取消邀請';
 $Definition['Unlimited'] = '無限制';

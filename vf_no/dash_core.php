@@ -34,6 +34,7 @@ $Definition['Enter the email address of the person you would like to invite:'] =
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Hver eneste bruker må få minst én rolle. Roller brukes for å bestemme hva brukere har lov til å gjøre.';
 
 $Definition['First Visit'] = 'Første besøk';
+$Definition['From'] = 'Fra';
 
 $Definition['Guest'] = 'Gjest';
 
@@ -93,6 +94,7 @@ $Definition['The invitation was sent successfully.'] = 'Invitasjonen ble sendt!'
 $Definition['ThemeHelp'] = 'Tema-Hjelp';
 $Definition['Themes'] = 'Temaer';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Passord-autentiseringen har ikke noen egendefinerte konfigurerings instillinger.';
+$Definition['To'] = 'Til';
 
 $Definition['Uninvite'] = 'Annullér invitasjon';
 $Definition['User Count'] = 'Brukere';
@@ -104,6 +106,7 @@ $Definition['View'] = 'Se';
 $Definition['Warning'] = 'Advarsel';
 $Definition['Welcome to Vanilla!'] = 'Velkommen!';
 $Definition['What\'s the Buzz?'] = 'Ka skjer?';
+$Definition['Why do you want to join?'] = 'Hvorfor ønsker du å bli med?';
 
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Du kan ikke fjerne en invitasjon som har blitt akseptert av motager.';
 $Definition['You have %s invitations left for this month.'] = 'Du har %s invitasjoner igjen denne måneden.';

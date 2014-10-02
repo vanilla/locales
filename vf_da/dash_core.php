@@ -98,6 +98,7 @@ $Definition['Facebook Connect allows users to sign in using their Facebook accou
 $Definition['Facebook Settings'] = 'Facebook Indstillinger';
 $Definition['First Visit'] = 'F¯rste Bes¯g';
 $Definition['Forum Settings'] = 'Forum Indstillinger';
+$Definition['From'] = 'Fra';
 
 $Definition['Garden.Import.Description'] = 'Brug denne side til at importere data fra et andet forum som var eksporterede via Vanilla\'s eksporter. For mere information <a href="%s">se vores importere dokumentation</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Indtast emailen og kodeord for admin brugeren fra dataen som bliver importeret.';
@@ -206,6 +207,7 @@ $Definition['ThemeHelp'] = 'Temaer kan lave om pÂ udseendet &amp; F¯l din side
 $Definition['Themes'] = 'Temaer';
 $Definition['There are currently no applicants.'] = 'Der er ikke nogle ans¯gninger.';
 $Definition['Thumbnails'] = 'Miniaturer';
+$Definition['To'] = 'Til';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect giver brugere adgang til at logge ind med deres Twitter bruger. <b>Du skal registrere din ans¯gning med Twitter for dette plugin til at virke.</b>';
 
 $Definition['Unlimited'] = 'UbegrÊnset';

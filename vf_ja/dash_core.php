@@ -310,6 +310,7 @@ $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you c
 $Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'このプラグインを使うと、Googleアカウントでログインできます。<b>OpenIDプラグインが有効になっている必要があります。また、このプラグインを有効にした後、Google アカウントでのログインを有効化する設定を必ずクリックしてください</b>。';
 $Definition['This theme has additional options.'] = 'このテーマは %s ページでオプションを設定できます。';
 $Definition['Titles'] = 'タイトル';
+$Definition['To'] = 'あて先';
 $Definition['Try Again'] = '再試行';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect を使うと、Twitter アカウントでログインできます。<b>このプラグインを使うには、Twitter にアプリケーションを登録する必要があります。</b>';
 

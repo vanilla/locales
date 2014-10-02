@@ -104,6 +104,7 @@ $Definition['First Visit'] = '첫 방문';
 $Definition['Force your forum to be viewed through the Remote Url'] = '포럼이 리모트 URL을 통해 보여지도록 강제 설정';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO을 위해 검색 엔진 크롤러는 리모트 URL을 통한 강제 설정에서  제외됩니다.';
 $Definition['Forum Settings'] = '포럼 설정';
+$Definition['From'] = '___(으)로 부터';
 
 $Definition['Garden.Import.Description'] = '다른 포럼에서 익스포트한 데이타를 불러올 수 있습니다. 더 많은 정보는 임포트 관련 문서를 참조하시기 바랍니다: <br /><a href="%s">See our importing documentation</a>.';
 $Definition['Garden.Import.InputInstructions'] = '임포트를 원하는 데이타의 어드민 이메일 주소와 패스워드를 입력하십시오.';
@@ -226,6 +227,7 @@ $Definition['Themes'] = '테마';
 $Definition['There are currently no applicants.'] = '가입 승인 대기자가 없습니다.';
 $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = '이 플러그인을 이용하면 사용자가 OpenID을 사용하여 로그인 할 수 있습니다. <b>OpenID signin의 올바른 작동을 위해 활성화 후 설정버튼을 눌러 세부 설정을 완료 하십시요.</b>.';
 $Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = '플러그인을 이용하면 사용자가 Google 계정을 사용하여 로그인 할 수 있습니다. <b>Google signin의 올바른 작동을 위해 활성화 후 설정버튼을 눌러 세부 설정을 완료 하십시요.</b>.';
+$Definition['To'] = '___에게';
 $Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = '포럼의 소스코드, 또는 플러그인을 사용하여 원격 웹 응용 프로그램에 포럼을 삽입할 수 있습니다.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = '트위터 컨넥트 기능을 이용하여 사용자가 자신의 트위터 계정을 사용하여 로그인할 수 있습니다. <b>이 플러그인을 사용하려면 Twitter에서 응용 프로그램을 등록해야합니다.</b>';
 
