@@ -255,8 +255,8 @@ $Definition['Select an image on your computer (2mb max)'] = 'Odaberite sliku sa 
 $Definition['Send Message'] = 'Pošalji Poruku';
 $Definition['Share'] = 'Podijeli';
 $Definition['she'] = 'ona';
-$Definition['Sign In'] = 'Prijavi se';
 $Definition['SignIn'] = 'Prijavi se';
+$Definition['Sign In'] = 'Prijavi se';
 $Definition['Sign In with Google'] = 'Prijavi Se sa Google';
 $Definition['Sign In with OpenID'] = 'Prijavi Se sa OpenID';
 $Definition['Sign In with Twitter'] = 'Prijavi Se sa Twitter-om';
@@ -319,6 +319,7 @@ $Definition['Value'] = 'Condition Expression';
 $Definition['Visits'] = 'Posjete';
 
 $Definition['wall'] = 'Zid';
+$Definition['Why do you want to join?'] = 'Zašto se želite uključiti?';
 $Definition['Write a comment'] = 'Napiši komentar';
 $Definition['Write Comment'] = 'Napiši komentar';
 $Definition['Write something about yourself...'] = 'Napišite nešto o sebi...';

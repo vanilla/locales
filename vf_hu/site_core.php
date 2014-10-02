@@ -401,6 +401,7 @@ $Definition['Format you'] = 'Te';
 $Definition['Format Your'] = 'te';
 $Definition['Fourth Anniversary'] = 'Negyedik évforduló';
 $Definition['Friends'] = 'Barátok';
+$Definition['From'] = 'tól';
 $Definition['Full Site'] = 'Asztali verzió';
 
 $Definition['Garden.Email.SupportName'] = 'Support név';
@@ -846,6 +847,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'A hét vezetői';
 $Definition['Thumbnail'] = 'Avatar';
 $Definition['Title'] = 'Cím';
+$Definition['To'] = 'Neki';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Hogy egy másik megerősítő email-t küldjünk, kattints ide: <a href="%s">here</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Hogy használhasd a reCAPTCHA-t, szükséged van egy API-ra innen: %s';
 $Definition['Transport error: %s'] = 'Figyelem, a lekérés közben hiba csúszott be, a szerver válasza: %s';
@@ -939,6 +941,7 @@ $Definition['Where do you want to announce this discussion?'] = 'Hol szeretnéd 
 $Definition['Who\'s Online'] = 'Ki van jelen';
 $Definition['Whos Online'] = 'Ki van jelen';
 $Definition['Why are you Banning this user?'] = 'Miért tiltottad ki ezt a felhasználót?';
+$Definition['Why do you want to join?'] = 'Miért szeretnél csatlakozni?';
 $Definition['Write a comment'] = 'Szólj hozzá';
 $Definition['Write Comment'] = 'Szólj hozzá';
 $Definition['Write something about yourself...'] = 'Pár szó magamról...';
@@ -1002,7 +1005,3 @@ $Definition['Your warning was added.'] = 'Figyelmeztetést adunk.';
 $Definition[' You should '] = ' kellene ';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} hozzáadott {NotifyUserID,you} a <a href="{Url,htmlencode}"> társalgáshoz</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Nincs találat ehhez \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Keresési találat ehhez \'%s\'';
-$Definition['↳ Show All'] = '↳ Összes látszik';

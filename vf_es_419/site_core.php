@@ -668,8 +668,8 @@ $Definition['Private Note for Moderators'] = 'Una nota privada a los moderadores
 $Definition['Problem with credentials.'] = 'Hubo un problema con su clave.';
 $Definition['Proceed'] = 'Proceder';
 $Definition['Profile'] = 'Perfil';
-$Definition['Profile  Fields'] = 'Perfil  Campos';
 $Definition['Profile Fields'] = 'Campos de perfil';
+$Definition['Profile  Fields'] = 'Perfil  Campos';
 $Definition['ProfileFieldsCustomDescription'] = 'Usa estos campos para crear nuevos datos de perfil. Puedes incluir cosas como "¿Estado civil?", "Skype" o "Dinosaurio favorito". ¡Sé creativo!';
 $Definition['Profile Page'] = 'Página de perfil';
 $Definition['Profile Picture'] = 'Imagen de perfil';
@@ -868,6 +868,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'Los más influyentes esta semana';
 $Definition['Thumbnail'] = 'Imagen pequeña';
 $Definition['Title'] = 'Título';
+$Definition['To'] = 'Para';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Para enviar un nuevo correo-e de confirmación, <a href="%s">haz clic aquí</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Para usar reCAPTCHA debe obtener una clave de API de %s';
 $Definition['Transport error: %s'] = 'Hubo un error al procesar la solicitud.<br />El servidor arrojó el siguiente resultado: %s';
@@ -1026,7 +1027,3 @@ $Definition['Your warning was added.'] = 'Tu advertencia se agregó correctament
 $Definition[' You should '] = ' Debería ';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} añadió a {NotifyUserID,you} a <a href="{Url,htmlencode}">la conversación</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ No hay ningún resultado para \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Resultados de búsqueda para \'%s\'';
-$Definition['↳ Show All'] = '↳ Mostrar todos';

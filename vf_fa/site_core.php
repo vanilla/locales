@@ -406,6 +406,7 @@ $Definition['Format you'] = 'شما';
 $Definition['Format Your'] = 'مال شما';
 $Definition['Fourth Anniversary'] = 'چهارمین سالگرد';
 $Definition['Friends'] = 'دوستان';
+$Definition['From'] = 'از';
 $Definition['Full Site'] = 'سایت کامل';
 
 $Definition['Garden.Email.SupportAddress'] = 'رایانامه‌ی پشتیبانی';
@@ -457,8 +458,8 @@ $Definition['Invalid password.'] = 'گذرواژه‌ای که وارد کردی
 $Definition['Invitations'] = 'دعوت';
 $Definition['Invite'] = 'فراخواندن';
 $Definition['InviteErrorPermission'] = 'متأسفیم، پروانه‌ی دسترسی ندارید.';
-$Definition['IPAddress'] = 'آدرس IP';
 $Definition['IP Address'] = 'نشانی IP';
+$Definition['IPAddress'] = 'آدرس IP';
 $Definition['I remember now!'] = '← بازگشت به برگه‌ی ورود';
 $Definition['Item'] = 'محروم';
 $Definition['item'] = 'جستار';
@@ -630,8 +631,8 @@ $Definition['Private Note for Moderators'] = 'یادداشت خصوصی برای
 $Definition['Problem with credentials.'] = 'مشکل با داده‌های ورودی';
 $Definition['Proceed'] = 'دسته را پاک کن';
 $Definition['Profile'] = 'نمایه';
-$Definition['Profile Fields'] = 'گزینه‌های نمایه';
 $Definition['Profile  Fields'] = 'گزینه‌های نمایه';
+$Definition['Profile Fields'] = 'گزینه‌های نمایه';
 $Definition['ProfileFieldsCustomDescription'] = 'از این گزینه‌ها برای ایجاد اطلاعات سفارشی در نمایه استفاده کنید. شما می‌توانید چیزهایی مانند "وضعیت ارتباطی"، "اسکایپ"، و یا "دایناسور مورد علاقه" را وارد کنید. خلاق باشید.';
 $Definition['Profile Page'] = 'برگه‌ی رخ‌نما';
 $Definition['Profile Picture'] = 'تصویر نمایه';
@@ -833,6 +834,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'رهبر های این هفته';
 $Definition['Thumbnail'] = 'تصویر بندانگشتی';
 $Definition['Title'] = 'سرنویس';
+$Definition['To'] = 'به';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'برای فرستادن یک رایانه‌ی فعال‌سازی دیگر، <a href="%s">اینجا</a> را بفشارید.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'برای به‌کارگیری reCAPTCHA شما باید یک API key از تارنمای زیر بگیرید:<br>%s';
 $Definition['Troll'] = 'ترول';
@@ -926,6 +928,7 @@ $Definition['Where do you want to announce this discussion?'] = 'کجا می‌�
 $Definition['Who\'s Online'] = 'چه کسی هم اکنون اینجاست؟';
 $Definition['Whos Online'] = 'افراد آنلاین';
 $Definition['Why are you Banning this user?'] = 'چرا این کاربر را محروم می‌کنید؟';
+$Definition['Why do you want to join?'] = 'انگیزه‌ی شما برای عضویت؟';
 $Definition['Write a comment'] = 'دیدگاه‌تان را بنویسید';
 $Definition['Write Comment'] = 'نوشتن دیدگاه';
 $Definition['Write something about yourself...'] = 'درباره خود بنویسید...';
@@ -987,7 +990,3 @@ $Definition['Your warning was added.'] = 'هشدار شما افزوده شد.';
 $Definition[' You should '] = ' شما باید ';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user}، {NotifyUserID,you} را به یک <a href="{Url,htmlencode}">گفت‌وگو</a> دعوت کرد.';
-
-$Definition['↳ No results for \'%s\''] = '↲ نتیجه‌ای برای <b>%s</b> یافت نشد :(';
-$Definition['↳ Search results for \'%s\''] = '↲ نتایج جست‌وجو برای «%s»';
-$Definition['↳ Show All'] = '↲ نمایش همه';

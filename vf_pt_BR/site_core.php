@@ -476,6 +476,7 @@ $Definition['Forum'] = 'Fórum';
 $Definition['Forums'] = 'Foruns';
 $Definition['Fourth Anniversary'] = 'Quarto Aniversário';
 $Definition['Friends'] = 'Amigos';
+$Definition['From'] = 'De';
 $Definition['Full Site'] = 'Todo o site';
 
 $Definition['Garden.Email.SupportAddress'] = 'Email de Suporte';
@@ -541,8 +542,8 @@ $Definition['Invalid password.'] = 'A senha que você digitou está incorreta. L
 $Definition['Invitations'] = 'Convites';
 $Definition['Invite'] = 'Convite';
 $Definition['InviteErrorPermission'] = 'Desculpe, permissão negada.';
-$Definition['IP Address'] = 'Endereço de IP';
 $Definition['IPAddress'] = 'Endereço de IP';
+$Definition['IP Address'] = 'Endereço de IP';
 $Definition['I remember now!'] = 'Agora eu me lembro!';
 $Definition['Italic'] = 'Itálico';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Parece que você é novo por este pedaço. Se você quer se envolver, clique em algum destes botões!';
@@ -671,8 +672,8 @@ $Definition[' now.'] = ' agora.';
 
 $Definition['Off Topic'] = 'Fora de tópico';
 $Definition['Okay'] = 'Ok';
-$Definition['OldPassword'] = 'Senha antiga';
 $Definition['Old Password'] = 'Senha Anterior';
+$Definition['OldPassword'] = 'Senha antiga';
 $Definition['on'] = 'dentro de';
 $Definition['Online Preferences'] = 'Preferências OnLine';
 $Definition['Only show followed categories'] = 'Exibir somente categorias que eu sigo';
@@ -967,6 +968,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'Líderes da Semana';
 $Definition['Thumbnail'] = 'Miniatura';
 $Definition['Title'] = 'Título';
+$Definition['To'] = 'Para';
 $Definition['Topic'] = 'Tópico';
 $Definition['Topics'] = 'Tópicos';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Para enviar outra confirmação de email clique <a href="%s">aqui</a>.';
@@ -1067,6 +1069,7 @@ $Definition['Where do you want to announce this discussion?'] = 'Onde deseja anu
 $Definition['Who\'s Online'] = 'Quem está online?';
 $Definition['Whos Online'] = 'Quem está Online?';
 $Definition['Why are you Banning this user?'] = 'Porque está banindo este usuário?';
+$Definition['Why do you want to join?'] = 'Por que você deseja se juntar?';
 $Definition['Write a comment'] = 'Escreva um comentário';
 $Definition['Write Comment'] = 'Escrever comentário';
 $Definition['Write something about yourself...'] = 'Escreva algo sobre você...';
@@ -1132,7 +1135,3 @@ $Definition['Your warning was added.'] = 'Seu aviso foi adicionado.';
 $Definition[' You should '] = ' Você deve ';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} adicionou {NotifyUserID,you} a uma <a href="{Url,htmlencode}">conversa</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Sem resultados para \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Resultados para \'%s\'';
-$Definition['↳ Show All'] = '↳ Ver tudo';

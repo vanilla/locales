@@ -408,6 +408,7 @@ $Definition['Format you'] = 'คุณ';
 $Definition['Format Your'] = 'ของคุณ';
 $Definition['Fourth Anniversary'] = 'ครบรอบปีที่สี่';
 $Definition['Friends'] = 'เพื่อน';
+$Definition['From'] = 'จาก';
 $Definition['Full Site'] = 'เว็บไซต์เต็มรูปแบบ';
 
 $Definition['Garden.Email.SupportAddress'] = 'ซัพพอร์ทอีเมล์';
@@ -577,8 +578,8 @@ $Definition['Not Verified'] = 'ยังไม่ยืนยัน';
 $Definition[' now.'] = 'ขณะนี้';
 
 $Definition['Off Topic'] = 'ออกทะเล';
-$Definition['Old Password'] = 'รหัสผ่านเก่า';
 $Definition['OldPassword'] = 'รหัสผ่านเก่า';
+$Definition['Old Password'] = 'รหัสผ่านเก่า';
 $Definition['on'] = 'บน';
 $Definition['Only show followed categories'] = 'แสดงเฉพาะหมวดหมู่ที่ติดตาม';
 $Definition['OpenID Settings'] = 'ตั้งค่า OpenID';
@@ -863,6 +864,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'ผู้นำประจำสัปดาห์นี้';
 $Definition['Thumbnail'] = 'รูปย่อ';
 $Definition['Title'] = 'ชื่อเรื่อง';
+$Definition['To'] = 'ถึง';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'ถ้าต้องการส่งอีเมล์ยืนยันอีกครั้ง คลิก <a href="%s">here</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'จะใช้ reCAPTCHA คุณต้องได้รับ API คีย์จาก %s';
 $Definition['Transport error: %s'] = 'เกิดข้อผิดพลาดในขณะที่การประมวลผลคำร้องขอ <br /> เซิร์ฟเวอร์ตอบสนองต่อไปนี้: %s';
@@ -957,6 +959,7 @@ $Definition['Where do you want to announce this discussion?'] = 'คุณต้
 $Definition['Who\'s Online'] = 'มีใครออนไลน์';
 $Definition['Whos Online'] = 'มีใครออนไลน์';
 $Definition['Why are you Banning this user?'] = 'ทำไมคุณเเบนใช้นี้ ?';
+$Definition['Why do you want to join?'] = 'ทำไมคุณต้องการที่จะเข้าร่วม ?';
 $Definition['Write a comment'] = 'เขียนความคิดเห็น';
 $Definition['Write Comment'] = 'เขียนความคิดเห็น';
 $Definition['Write something about yourself...'] = 'เขียนอธิบายสั้นๆเกี่ยวกับตัวเอง...';
@@ -1020,7 +1023,3 @@ $Definition['Your warning was added.'] = 'คำเตือนของคุ�
 $Definition[' You should '] = 'คุณควร';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} ได้รวม {NotifyUserID,you} ที่ <a href="{Url,htmlencode}">การสนทนา</a>.';
-
-$Definition['↳ No results for \'%s\''] = 'ไม่มีผลลัพธ์การค้นหาสำหรับ \'%s\'';
-$Definition['↳ Search results for \'%s\''] = 'ผลลัพธ์การค้นหาสำหรับ \'%s\'';
-$Definition['↳ Show All'] = 'แสดงทั้งหมด';

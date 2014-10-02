@@ -986,7 +986,3 @@ $Definition['Your warning was added.'] = 'Cảnh cáo đã được thêm vào.'
 $Definition[' You should '] = 'Bạn nên';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} đã thêm {NotifyUserID,you} vào một <a href="{Url,htmlencode}">cuộc trao đổi</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Không có kết quả cho \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Kết quả tìm kiếm của \'%s\'';
-$Definition['↳ Show All'] = '↳ Hiện tất cả';

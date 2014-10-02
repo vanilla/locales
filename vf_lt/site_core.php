@@ -415,6 +415,7 @@ $Definition['Format you'] = 'tu';
 $Definition['Format Your'] = 'Tavo';
 $Definition['Fourth Anniversary'] = 'Ketverių metų jubiliejus';
 $Definition['Friends'] = 'Draugai';
+$Definition['From'] = 'Nuo';
 $Definition['Full Site'] = 'Pilnas tinklapio adresas';
 
 $Definition['Garden.Email.SupportAddress'] = 'Paramos el. paštas';
@@ -471,8 +472,8 @@ $Definition['Invalid password.'] = 'Pateiktas slaptažodis netinka. Gal supainio
 $Definition['Invitations'] = 'Kvietimai';
 $Definition['Invite'] = 'Kvietimas';
 $Definition['InviteErrorPermission'] = 'Deja, nepakanka teisių';
-$Definition['IPAddress'] = 'IP adresas';
 $Definition['IP Address'] = 'IP adresas';
+$Definition['IPAddress'] = 'IP adresas';
 $Definition['I remember now!'] = 'Dabar prisiminiau slaptažodį!';
 $Definition['Item'] = 'Įrašas';
 $Definition['item'] = 'įrašas';
@@ -650,8 +651,8 @@ $Definition['Private Note for Moderators'] = 'Privati žinutė moderatoriams';
 $Definition['Problem with credentials.'] = 'Problema su registracijos vardu / slaptažodžiu';
 $Definition['Proceed'] = 'Tęsti';
 $Definition['Profile'] = 'Profilis';
-$Definition['Profile  Fields'] = 'Profilio laukeliai';
 $Definition['Profile Fields'] = 'Profilio laukai';
+$Definition['Profile  Fields'] = 'Profilio laukeliai';
 $Definition['ProfileFieldsCustomDescription'] = 'Naudok šiuos laukelius sukurti papildomai profilio informacijai sukurti. Galima sukurti tokius laukelius kaip „Šeimynė padėtis“, „Skype“, „Mėgstamas dinozauras“, „Įkalinimo įstaiga“. Būk kūrybingas!';
 $Definition['Profile Page'] = 'Profilio puslapis';
 $Definition['Profile Picture'] = 'Profilio nuotrauka';
@@ -757,8 +758,8 @@ $Definition['Signature Code'] = 'Prierašas';
 $Definition['Signature invalid.'] = 'Prierašas neteisingas';
 $Definition['Signatures'] = 'Prierašai';
 $Definition['Signature Settings'] = 'Prierašo nustatymai';
-$Definition['SignIn'] = 'Prisijungti';
 $Definition['Sign In'] = 'Prisijunk';
+$Definition['SignIn'] = 'Prisijungti';
 $Definition['SigningOut'] = 'Lukterėk, pakol būsi atjungtas ';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Prisijjunk</a> arba <a href="{RegisterUrl,html}">registruokis</a> norėdamas komentuoti.';
 $Definition['Sign in to vote!'] = 'Prisijunk, jei nori balsuoti';
@@ -858,6 +859,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'Šios savaitės lyderiai';
 $Definition['Thumbnail'] = 'Miniatiūra';
 $Definition['Title'] = 'Pavadinimas';
+$Definition['To'] = 'Kam';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Norėdami išsiųsti kitą patvirtinimo laišką, spauskite <a href="%s">čia</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Kad naudotumeisi reCAPTCHA, turi gauti  API raktą iš %s';
 $Definition['Transport error: %s'] = 'Įvyko klaida apdorojant užklausą.<br /> Serveris pateikė šį atsakymą: %s';
@@ -1017,7 +1019,3 @@ $Definition['Your warning was added.'] = 'Tavo įspėjimas buvo pridėtas.';
 $Definition[' You should '] = 'Tu privalai';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} pridėtas {NotifyUserID,you} į <a href="{Url,htmlencode}">conversation</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Nieko nerasta susijusio su \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Paieškos rezultatai \'%s\'';
-$Definition['↳ Show All'] = '↳ Rodyti viską';

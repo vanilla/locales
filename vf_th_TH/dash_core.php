@@ -80,6 +80,7 @@ $Definition['Add Role'] = 'เพิ่มยศ';
 $Definition['Add User'] = 'เพิ่มผู้ใช้';
 $Definition['Administrator'] = 'ผู้ดูแลระบบ';
 $Definition['Advanced'] = 'ขั้นสูง';
+$Definition['Advanced Editor Settings'] = 'ตั้งค่าการแก้ไขขั้นสูง';
 $Definition['Advanced Embed Settings'] = 'การตั้งค่าขั้นสูงของการฝังตัว';
 $Definition['Advanced Forum Settings'] = 'ตั้งค่าขั้นสูงของฟอรั่ม';
 $Definition['AdvancedNotifications'] = 'การแจ้งเตือนขั้นสูง';
@@ -340,6 +341,7 @@ $Definition['Enter the connection settings for your sphinx server below.'] = '�
 $Definition['Enter the email address of the person you would like to invite:'] = 'กรอกอีเมล์ของบุคคลที่คุณต้องการที่จะเชิญ:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'ใส่ URL ไปยังหน้าเว็บที่คุณต้องการใช้เป็นหน้าแรกของคุณ';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'ใส่ URL ไปยังหน้าเว็บที่คุณต้องการใช้เป็นหน้าแรกของคุณ:';
+$Definition['Every %s hour'] = 'ทุกๆชั่วโมง';
 $Definition['Every 1 minute'] = 'ทุก 1 นาที';
 $Definition['Every 5 minutes'] = 'ทุก 5 นาที';
 $Definition['Every 5 seconds'] = 'ทุก 5 วินาที';
@@ -375,6 +377,8 @@ $Definition['Frequency'] = 'ความถี่';
 $Definition['From'] = 'จาก';
 
 $Definition['Garden'] = 'แปลง';
+$Definition['Garden.Import.Complete.Description'] = 'การนำเข้าประสบผลสำเร็จ
+   คลิ๊ก <b>เสร็จสิ้น</b> เมื่อคุณพร้อม';
 $Definition['Garden.Import.InputInstructions'] = 'ใส่อีเมลและรหัสผ่านของผู้ดูแลระบบของข้อมูลที่กำลังถูกนำเข้า';
 $Definition['Garden.Import.Merge'] = 'รวมกับฟอรั่มนี้';
 $Definition['Garden.Import.Overwrite'] = 'เขียนทับฟอรั่มนี้';

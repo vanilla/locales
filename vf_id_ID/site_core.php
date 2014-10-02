@@ -403,6 +403,7 @@ $Definition['Format you'] = 'anda';
 $Definition['Format Your'] = 'Anda';
 $Definition['Fourth Anniversary'] = 'Ulangtahun Keempat';
 $Definition['Friends'] = 'Teman';
+$Definition['From'] = 'Dari';
 $Definition['Full Site'] = 'Situs Penuh';
 
 $Definition['Garden.Email.SupportAddress'] = 'Email dukungan';
@@ -562,8 +563,8 @@ $Definition[' now.'] = ' sekarang.';
 
 $Definition['Off Topic'] = 'Di luar Topik';
 $Definition['Okay'] = 'Oke';
-$Definition['OldPassword'] = 'Password lama';
 $Definition['Old Password'] = 'Password Saya';
+$Definition['OldPassword'] = 'Password lama';
 $Definition['on'] = 'pada';
 $Definition['Only show followed categories'] = 'Hanya tampilkan kategori yang diikuti';
 $Definition['OpenID Settings'] = 'Setelan OpenID';
@@ -622,8 +623,8 @@ $Definition['Private Note for Moderators'] = 'Catatan Pribadi untuk Moderator';
 $Definition['Problem with credentials.'] = 'Masalah dengan data kredensial.';
 $Definition['Proceed'] = 'Lanjutkan';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile Fields'] = 'Field Profil';
 $Definition['Profile  Fields'] = 'Profil  Field';
+$Definition['Profile Fields'] = 'Field Profil';
 $Definition['ProfileFieldsCustomDescription'] = 'Gunakan field-field ini untuk membuat informasi profil yang disesuaikan. Anda dapat memasukkan sesuatu seperti "Status Hubungan", "Skype", atau "Dinosaurus Favorit". Berkreasilah!';
 $Definition['Profile Page'] = 'Halaman Profil';
 $Definition['Profile Picture'] = 'Gambar Profil';
@@ -844,6 +845,7 @@ $Definition['This user is verified as a non-spammer'] = 'Pengguna ini sudah terv
 $Definition['This warning has expired. Do you want to completely delete it?'] = 'Peringatan ini telah kadaluarsa. Apakah anda ingin menghapusnya?';
 $Definition['This Week\'s Leaders'] = 'Pemimpin Minggu Ini';
 $Definition['Title'] = 'Judul';
+$Definition['To'] = 'Kepada';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Untuk mengirim email konfirmasi lainnya klik <a href="%s">di sini</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Untuk menggunakan reCAPTCHA anda harus mendapatkan sebuah API key dari %s';
 $Definition['Transport error: %s'] = 'Muncul masalah fatal saat memproses permintaan.<br />Server memberikan respon berikut: %s';
@@ -935,6 +937,7 @@ $Definition['Where do you want to announce this discussion?'] = 'Di mana anda in
 $Definition['Who\'s Online'] = 'Siapa yang Daring';
 $Definition['Whos Online'] = 'Siapa yang Daring';
 $Definition['Why are you Banning this user?'] = 'Mengapa anda mencekal pengguna ini?';
+$Definition['Why do you want to join?'] = 'Mengapa anda ingin bergabung?';
 $Definition['Write a comment'] = 'Tulis komentar';
 $Definition['Write Comment'] = 'Tulis Komentar';
 $Definition['Write something about yourself...'] = 'Tulis sesuatu tentang anda...';
@@ -997,7 +1000,3 @@ $Definition['Your warning was added.'] = 'Peringatan anda telah ditambahkan.';
 $Definition[' You should '] = ' Anda harus ';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} menambahkan {NotifyUserID,you} ke <a href="{Url,htmlencode}">perbincangan</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Tidak ada hasil untuk \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Hasil pencarian untuk \'%s\'';
-$Definition['↳ Show All'] = '↳ Tampilkan Semua';

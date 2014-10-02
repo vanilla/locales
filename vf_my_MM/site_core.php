@@ -462,6 +462,7 @@ $Definition['wall'] = 'မျက်နှာစာ';
 $Definition['Warnings'] = 'သတိပေးချက်များ';
 $Definition['Welcome Aboard!'] = 'မင်္ဂလာပါ!';
 $Definition['Why are you Banning this user?'] = 'ဘာကြောင့် ဒီတစ်ယောက်ကို အသုံးပြုခွင့် ရပ်ဆိုင်းရသလဲ ?';
+$Definition['Why do you want to join?'] = 'သင်ဘာကြောင့် ချိတ်ဆက်ချင်တာလဲ ?';
 $Definition['Write a comment'] = 'မှတ်ချက်ရေးသားရန်';
 $Definition['Write Comment'] = 'မှတ်ချက်ရေးသားရန်';
 $Definition['Write something about yourself...'] = 'သင့်၏အကြောင်း တစ်စုံတစ်ရာ ရေးသားရန်...';

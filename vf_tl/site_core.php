@@ -990,7 +990,3 @@ $Definition['Your warning was added.'] = 'Idinagdag ang iyong babala.';
 $Definition[' You should '] = 'Ikaw ay dapat';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} idinagdag {NotifyUserID,you} sa isang <a href="{Url,htmlencode}"> usapan </a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Walang mga resulta para sa \'%s\'';
-$Definition['↳ Search results for \'%s\''] = 'Mga resulta sa paghahanap sa \'%s\'';
-$Definition['↳ Show All'] = 'Ipakita Lahat';

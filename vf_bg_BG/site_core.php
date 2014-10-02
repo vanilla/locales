@@ -391,6 +391,7 @@ $Definition['Visit Site'] = 'Посетете форума';
 $Definition['wall'] = 'стена';
 $Definition['Warning'] = 'Внимание';
 $Definition['Welcome Aboard!'] = 'Добре дошли във Форума!';
+$Definition['Why do you want to join?'] = 'Защо искате да се присъедините?';
 $Definition['Write a comment'] = 'Напишете коментар';
 $Definition['Write Comment'] = 'Напишете коментар';
 $Definition['Write something about yourself...'] = 'Напишете нещо за Вас...';

@@ -482,6 +482,7 @@ $Definition['Format you'] = 'я';
 $Definition['Format Your'] = 'вашъ';
 $Definition['Fourth Anniversary'] = 'Четвертая годовщина';
 $Definition['Friends'] = 'Друзья';
+$Definition['From'] = 'Отъ';
 $Definition['Full Site'] = 'Полная версія сайта';
 
 $Definition['Garden.Email.SupportAddress'] = 'Email поддержки';
@@ -837,8 +838,8 @@ $Definition['Signature Code'] = 'Подпись';
 $Definition['Signature invalid.'] = 'Подпись недѣйствительна.';
 $Definition['Signatures'] = 'Подписи';
 $Definition['Signature Settings'] = 'Настройки подписи';
-$Definition['Sign In'] = 'Войти';
 $Definition['SignIn'] = 'Входъ';
+$Definition['Sign In'] = 'Войти';
 $Definition['SigningOut'] = 'Подождите. Вы сейчасъ выходите изъ системы.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Войдите</a> или <a href="{RegisterUrl,html}">Зарегистрируйтесь</a> чтобы оставлять комментаріи.';
 $Definition['Sign in to vote!'] = 'Войдите, чтобы голосовать!';
@@ -946,6 +947,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'Лидеры текущей недѣли';
 $Definition['Thumbnail'] = 'Миніатюра';
 $Definition['Title'] = 'Названіе';
+$Definition['To'] = 'Къ';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Для того, чтобы послать другое письмо активаціи, кликните <a href="%s">здѣсь</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Для использованія системы reCAPTCHA вы должны получить API ключъ на сайтѣ %s';
 $Definition['Transport error: %s'] = 'Произошла ошибка при обработкѣ запроса <br /> серверъ вернулъ слѣдующее сообщеніе: %s';
@@ -1045,6 +1047,7 @@ $Definition['Where do you want to announce this discussion?'] = 'Гдѣ вы х�
 $Definition['Who\'s Online'] = 'Кто сейчасъ на сайтѣ?';
 $Definition['Whos Online'] = 'Кто онлайнъ';
 $Definition['Why are you Banning this user?'] = 'Почему вы баните этого пользователя?';
+$Definition['Why do you want to join?'] = 'Почему вы хотите зарегистрироваться?';
 $Definition['Write a comment'] = 'Написать комментарій';
 $Definition['Write Comment'] = 'Комментировать';
 $Definition['Write something about yourself...'] = 'Написать что-нибудь о себѣ...';
@@ -1107,7 +1110,3 @@ $Definition['Your warning was added.'] = 'Ваше предупрежденіе 
 $Definition[' You should '] = 'Вамъ слѣдуетъ';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} добавилъ {NotifyUserID,you} къ <a href="{Url,htmlencode}">бесѣдѣ</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Нѣтъ результатовъ для \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Результаты поиска для \'%s\'';
-$Definition['↳ Show All'] = 'Показать все';

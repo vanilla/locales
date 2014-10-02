@@ -7,6 +7,7 @@ $Definition['%1$s commented on %4$s %8$s.'] = '%1$s 評論了 %4$s %8$s';
 $Definition['%1$s created an account for %4$s.'] = '%1$s 建立了一個帳號 %4$s';
 $Definition['%1$s joined.'] = '%1$s 加入.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s 在 %8$s 中提到了 %3$s.';
+$Definition['%1$s on %2$s'] = '%1$s在%2$s';
 $Definition['%1$s signed in.'] = '%1$s 登入了';
 $Definition['%1$s to %2$s'] = '%1$s 給 %2$s';
 $Definition['%1$s to %2$s of %3$s'] = '%1$s 到 %2$s 於 %3$s';
@@ -90,6 +91,7 @@ $Definition[' - Page %s'] = ' - 第 %s 頁';
 
 $Definition['1 message'] = '1 訊息';
 
+$Definition['[%1$s] Membership Approved'] = '批准了[%1$s]會員';
 $Definition['[%s] Welcome Aboard!'] = '[%s] 歡迎登載！';
 $Definition['[Deleted User]'] = '[已刪除的用戶]';
 
@@ -104,6 +106,7 @@ $Definition['Activate'] = '啟用';
 $Definition['Active'] = '活躍';
 $Definition['Active Users'] = '活躍用戶';
 $Definition['Activity'] = '最新動態';
+$Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s 接受 %4$s %8$s。';
 $Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s 評論了你的 %8$s.';
 $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s 評論了你的 %8$s.';
 $Definition['Activity.Comment'] = '評論';
@@ -115,6 +118,7 @@ $Definition['Activity.Join.FullHeadline'] = '%1$s 加入.';
 $Definition['Activity.Join.ProfileHeadline'] = '%1$s 加入.';
 $Definition['Activity.PictureChange.FullHeadline'] = '%1$s 修改了 %6$s 資料.';
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s 修改了 %6$s 個人圖示.';
+$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s回答了%4$s %8$s。';
 $Definition['Add'] = '新增';
 $Definition['Add a Comment'] = '新增評論';
 $Definition['Add a Message'] = '添加一條訊息';
@@ -134,6 +138,7 @@ $Definition['Administrator'] = '管理員';
 $Definition['Administrator Activity'] = '管理員活動';
 $Definition['administrators'] = '管理員';
 $Definition['Advanced Stuff'] = '進階';
+$Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = '處理請求時發生嚴重錯誤。<br />服務器返回以下響應： %s';
 $Definition['Agree'] = '同意';
 $Definition['Alert'] = '警告';
 $Definition['All %s'] = '所有 %s';
@@ -180,6 +185,7 @@ $Definition['Attach a file'] = '新增文件';
 $Definition['Attach image/file'] = '附加圖片／文件';
 $Definition['Attachments'] = '附件';
 $Definition['Attach this warning to the %s.'] = '將本警告附加至  %s。';
+$Definition['AttemptingSignOut'] = '您正在嘗試退出。您確定要%s嗎？';
 $Definition['Authenticate URL'] = '驗證網址';
 $Definition['Author'] = '作者';
 $Definition['available'] = '可用的';
@@ -189,10 +195,17 @@ $Definition['Awesome'] = '極佳的';
 $Definition['Back to Discussions'] = '返回討論';
 $Definition['Back to Profile'] = '返回個人檔案';
 $Definition['Badge'] = '徽章';
+$Definition['Badge404'] = '徽章沒有找到。';
+$Definition['Badges'] = '徽章';
+$Definition['BadgesModuleTitle'] = '徽章';
+$Definition['BadgesNobody'] = '沒有人已經獲得了這個徽章。';
+$Definition['Ban'] = '潘基文';
+$Definition['Ban.Action'] = '潘基文';
 $Definition['Banned'] = '封鎖';
 $Definition['Banned for being abusive.'] = '因濫用內容而封禁';
 $Definition['Banned for spamming.'] = '因散布垃圾訊息而封禁。';
 $Definition['Banned users can no longer access the site.'] = '被封禁的用戶將不能再訪問本站。';
+$Definition['Banner'] = '橫幅';
 $Definition['Ban User'] = '封禁用戶';
 $Definition['Ban Value'] = '封禁值';
 $Definition['Best Answer'] = '最佳答案';
@@ -219,6 +232,10 @@ $Definition['By uploading a file you certify that you have the right to distribu
 $Definition['Cancel'] = '取消';
 $Definition['Casual'] = '隨意的';
 $Definition['Categories'] = '分類';
+$Definition['CategoriesShowFollowed'] = '僅顯示後面的類別';
+$Definition['CategoriesShowUnfollowed'] = '顯示隱藏類別';
+$Definition['CategoriesViewingAll'] = '您正在查看的所有類別。';
+$Definition['CategoriesViewingFollowed'] = '您目前只能瀏覽您按照類別。';
 $Definition['Category'] = '分類';
 $Definition['Category Filter'] = '分類過濾器';
 $Definition['CategoryID'] = '分類';
@@ -231,9 +248,10 @@ $Definition['Change My Password'] = '修改我的密碼';
 $Definition['Change My Picture'] = '修改我的圖示';
 $Definition['Change Password'] = '修改密碼';
 $Definition['Change Picture'] = '更換圖片';
+$Definition['Check all roles that apply to this user:'] = '檢查適用於該用戶的所有角色：';
 $Definition['Child Categories'] = '兒童分類';
 $Definition['Child Categories:'] = '兒童分類：';
-$Definition['Choose a name to identify yourself on the site.'] = 'ConnectChooseName';
+$Definition['Choose a name to identify yourself on the site.'] = '在網站上選擇一個名稱來標識自己。';
 $Definition['Choose the main discussion into which all comments will be merged:'] = '請選擇主要討論，所有的評論都將被合並到其中：';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = '請選擇您是提問一個問題呢還是發起一個討論。';
 $Definition['Clear'] = '清除';
@@ -248,14 +266,16 @@ $Definition['Close'] = '關閉';
 $Definition['Closed'] = '已關閉';
 $Definition['Close this discussion'] = '關閉這次的討論';
 $Definition['Color'] = '顏色';
+$Definition['Combo Breaker'] = '二合一破碎機';
 $Definition['Comment'] = '評論';
 $Definition['comment'] = '評論';
 $Definition['Comment As ...'] = '作為 …… 評論';
 $Definition['Comment by %s'] = '被 %s 評論';
+$Definition['Commenting as %1$s (%2$s)'] = '在談到為%1$s <span class="SignOutWrap">(%2$s)</span>';
 $Definition['Commenting not allowed.'] = '不允許評論。';
 $Definition['Comments'] = '評論';
 $Definition['comments'] = '意見';
-$Definition['Comments are between {UserID,you}.'] = '評論是{UserID,您}之間的。';
+$Definition['Comments are between {UserID,you}.'] = '評論是{UserID,you}之間的。';
 $Definition['Community'] = '社群';
 $Definition['Community Guidelines'] = '社群指南';
 $Definition['Completely delete the warning.'] = '完全刪除警告。';
@@ -263,11 +283,16 @@ $Definition['Confirm'] = '確認';
 $Definition['Confirm Email'] = '確認 Email';
 $Definition['Confirm Password'] = '確認密碼';
 $Definition['Connect'] = '連接';
+$Definition['ConnectAccountExists'] = '你已經有一個帳戶在這裡。';
+$Definition['ConnectChooseName'] = '選擇一個名稱來標識自己的網站上。';
 $Definition['ConnectCreateAccount'] = '新增資訊 &amp; 建立帳號';
 $Definition['Connected'] = '已連接';
+$Definition['ConnectExistingPassword'] = '請輸入您的現有帳戶的密碼。';
 $Definition['Connecting...'] = '正在連接';
 $Definition['Connection'] = '關聯';
+$Definition['ConnectLeaveBlank'] = '留空，除非連接到一個已經存在的概要賬戶。';
 $Definition['ConnectName'] = '帳號';
+$Definition['ConnectRegisteredName'] = '你註冊的用戶名<strong>：%s的</strong>';
 $Definition['Connect your profile to social networks.'] = '請於此處連接您的個人資料至社交網絡上以便接受活動通知，並分享您的活動給您的朋友和追蹤者。';
 $Definition['Contact Us'] = '聯絡我們';
 $Definition['conversation'] = '對話';
@@ -280,13 +305,14 @@ $Definition['Currently: '] = '現在：';
 $Definition['Custom Information'] = '自訂資訊';
 $Definition['Customize'] = '自訂';
 $Definition['customize your profile now'] = '現在就自訂您的個人檔';
+$Definition['Customize your Public Profile'] = '自定義您的公開信息';
 $Definition['Custom Profile Fields'] = '自訂個人檔';
 $Definition['Custom Profile Field Settings'] = '自訂個人檔的設定';
 
 $Definition['Dashboard'] = '控制台';
 $Definition['Dashboard Home'] = '佈告欄主頁';
 $Definition['Dashboard Summaries'] = '佈告欄綜覽';
-$Definition['Date'] = 'Applied On';
+$Definition['Date'] = '日期';
 $Definition['Date.DefaultDayFormat'] = '%b %e 日';
 $Definition['Date.DefaultFormat'] = '%Y %b %e日';
 $Definition['Date.DefaultTimeFormat'] = '%H:%M';
@@ -294,6 +320,7 @@ $Definition['Date Added'] = '發表時間';
 $Definition['Date Examples'] = '例如：星期一、今天、上週、 3 月 26 日、2004 年 3 月 26 日';
 $Definition['Date within'] = '日期之內';
 $Definition['days'] = '天';
+$Definition['Define Thumbnail'] = '單擊並拖動整個畫面來定義你的縮略圖。';
 $Definition['Delete'] = '刪除';
 $Definition['Delete %s'] = '刪除 %s';
 $Definition['Delete Account'] = '刪除帳號';
@@ -307,6 +334,7 @@ $Definition['Deny'] = '拒絕';
 $Definition['Deny Applicant'] = '拒絕';
 $Definition['Did this answer the question?'] = '它解答問題了嗎？';
 $Definition['Disagree'] = '不同意';
+$Definition['Discussion'] = '討論';
 $Definition['discussion'] = '討論';
 $Definition['Discussion Board'] = '討論板';
 $Definition['Discussions'] = '討論';
@@ -343,7 +371,11 @@ $Definition['Edit Profile'] = '編輯個人檔案';
 $Definition['Edit Tag'] = '編輯標籤';
 $Definition['Edit Thumbnail'] = '編輯圖示';
 $Definition['Eighth Anniversary'] = '八週年紀念';
+$Definition['Email'] = '電子郵件';
 $Definition['Email/Username'] = '電子信箱/帳號';
+$Definition['EmailConfirmEmail'] = '您需要確認您的電子郵件地址，然後才能繼續。請點擊以下鏈接，確認您的電子郵件地址：{/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['EmailFooter'] = '祝您度過美好的一天！';
+$Definition['EmailHeader'] = '{User.Name}你好！';
 $Definition['EmailInvitation'] = '你好!
 
 	%1$s 邀請你加入 %2$s. 歡迎點擊下面的連結加入:
@@ -351,69 +383,60 @@ $Definition['EmailInvitation'] = '你好!
 	  %3$s
 
 	  祝你開心每一天！';
-$Definition['EmailMembershipApproved'] = 'Hello %1$s,
+$Definition['EmailMembershipApproved'] = '%1$s你好，
 
-	You have been approved for membership. Sign in now at the following link:
+您的會員申請已被批准。請通過下面的聯接登錄：
 
-	  %2$s
-	    
-	  Have a great day！';
+%2$s';
 $Definition['EmailNotification'] = '%1$s
 
-	Follow the link below to check it out:
-	%2$s
+通過下面的鏈接查看：
+%2$s
 
-	Have a great day！';
+祝您度過美好的一天。';
 $Definition['Email Notifications'] = 'Email 通知';
 $Definition['Email Or Username'] = '帳號或Email';
-$Definition['EmailPassword'] = 'Hello %1$s,
+$Definition['EmailPassword'] = '%2$s 已在 %3$s 重置了您的密碼。您的登錄憑據如下：
 
-	%2$s has reset your password at %3$s. Your login credentials are now:
-
-	  Email: %6$s
-	    Password: %5$s
-	      Url: %4$s
-
-	      Have a great day！';
+電子郵件：%6$s
+密碼：%5$s
+網址：%4$s';
+$Definition['Email sent from the application will be addressed from the following name and address'] = '從應用程序發送的電子郵件將使用下面的名稱和地址';
+$Definition['Email Source'] = '電子郵件';
 $Definition['EmailStoryNotification'] = '%1$s
 
-	%3$s
+%3$s
 
-	---
-	Follow the link below to check it out:
-	%2$s
+---
+通過以下聯接查看：
+%2$s
 
-	Have a great day！';
+祝您度過美好的一天！';
 $Definition['Email Unavailable'] = 'Email 不可用';
-$Definition['EmailWelcome'] = 'Hello %1$s,
+$Definition['Email visible to other users'] = '電子郵件對其它用戶可見';
+$Definition['EmailWelcome'] = '%2$s 已在 %3$s 為您創建了賬戶。您的登錄憑據如下：
 
-	%2$s has created an account for you at %3$s. Your login credentials are:
+電子郵件：%6$s
+密碼：%5$s
+網址：%4$s';
+$Definition['EmailWelcomeConnect'] = '您已成功連接到{Title}。以下是您的信息：
 
-	  Email: %6$s
-	    Password: %5$s
-	      Url: %4$s
+用戶名： {User.Name}
+連接到：{ProviderName}
 
-	      Have a great day！';
-$Definition['EmailWelcomeConnect'] = 'Hello {User.Name},
+您可以通過{/,exurl,domain}訪問網站。 ';
+$Definition['EmailWelcomeRegister'] = '您已經在{Title}成功註冊了賬戶。以下是您的信息：
 
-	You have successfully connected to {Title}. Here is your information:
+用戶名：{User.Name}
+電子郵件：{User.Email}
 
-	  Username: {User.Name}
-  Connected With: {ProviderName}
-
-You can access the site at {/,url,domain}.
-
-Have a great day！';
-$Definition['EmailWelcomeRegister'] = 'Hello {User.Name},
-
-	You have successfully registered for an account at {Title}. Here is your information:
-
-	  Username: {User.Name}
-  Email: {User.Email}
-
-You can access the site at {/,url,domain}.
-
-Have a great day！';
+您可以通過{/,exurl,domain}訪問網站。';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">在這裡閱讀全文</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">在這裡閱讀全文</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = '表情符號';
 $Definition['English'] = '英文';
 $Definition['Enter your Email address'] = '輸入你的 Email 地址';
@@ -422,8 +445,12 @@ $Definition['Enter your Email address or username'] = '輸入你的 Email 地址
 $Definition['Enter Your OpenID Url'] = '輸入你的 OpenID 網址';
 $Definition['Erase User Content'] = '刪除使用者內容';
 $Definition['Error'] = '錯誤';
+$Definition['ErrorBadInvitationCode'] = '您提供的邀請碼是無效的。';
 $Definition['ErrorCredentials'] = '對不起, 你所輸入的帳號或密碼錯誤.';
 $Definition['ErrorPermission'] = '對不起, 沒有權限.';
+$Definition['ErrorPluginDisableRequired'] = '您不能禁用{0}插件，因為{1}插件需要它才能正常工作。';
+$Definition['ErrorPluginEnableRequired'] = '要啓用該插件，必須先啓用 {0} 插件。';
+$Definition['ErrorPluginVersionMatch'] = '啟用的{0}插件（版本{1}）不符合版本要求（{2}）。';
 $Definition['ErrorRecordNotFound'] = '你找尋的資料不存在';
 $Definition['ErrorTermsOfService'] = '你必須同意服務條款.';
 $Definition['Event'] = '事件';
@@ -441,8 +468,8 @@ $Definition['Female'] = '女';
 $Definition['Fifth Anniversary'] = '五週年紀念';
 $Definition['FileName'] = '文件名稱';
 $Definition['Filename'] = '檔案名稱';
-$Definition['File Size'] = '檔案大小';
 $Definition['FileSize'] = '文件大小';
+$Definition['File Size'] = '檔案大小';
 $Definition['First Anniversary'] = '一週年紀念';
 $Definition['First Comment'] = '第一個評論';
 $Definition['Flag'] = '標記';
@@ -459,14 +486,20 @@ $Definition['Forgot?'] = '忘記了?';
 $Definition['Forgot your password?'] = '忘記密碼？';
 $Definition['Format'] = '格式';
 $Definition['Format his'] = '他的';
+$Definition['Format their'] = '其';
 $Definition['Format You'] = '你';
 $Definition['Format you'] = '你';
+$Definition['Format Your'] = '你的';
 $Definition['Forum'] = '論壇';
 $Definition['Forums'] = '論壇';
 $Definition['Fourth Anniversary'] = '四週年紀念';
 $Definition['Friends'] = '好友';
+$Definition['From'] = '來自';
 $Definition['Full Site'] = '全站';
 
+$Definition['Garden.Email.SupportAddress'] = '支持電子郵件';
+$Definition['Garden.Email.SupportName'] = '支持名稱';
+$Definition['Garden.Registration.DefaultRoles'] = '默認角色';
 $Definition['Garden.Title'] = 'Banner 標題';
 $Definition['Gender'] = '性別';
 $Definition['General'] = '一般';
@@ -474,7 +507,9 @@ $Definition['Generate import SQL only'] = '僅生成導入 SQL';
 $Definition['Generate Password'] = '產生密碼';
 $Definition['Give'] = '給予';
 $Definition['Give a Badge to %s'] = '授予 %s 徽章';
+$Definition['Give Badge'] = '給予徽章';
 $Definition['Given'] = '規定的';
+$Definition['Go'] = '去';
 $Definition['Group'] = '群組';
 $Definition['group'] = '群組';
 $Definition['GroupEmptyAnnouncements'] = '有一天這裡重要的東西會溜走。';
@@ -490,8 +525,18 @@ $Definition['groups'] = '群組';
 $Definition['Guest'] = '訪客';
 $Definition['GuestModule.Message'] = '點下面的按鈕可以加入我們！';
 
+$Definition['Hang on a sec while we sign you out.'] = '稍等片刻，我們馬上讓您退出。';
 $Definition['he'] = '他';
 $Definition['Heading %s'] = '標題 %s';
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You}贏得了 <a href="{Url,html}">{Data.Name,text}</a>徽章。';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} 禁止了 {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user}評論了<a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user}開始了一個新討論。 <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}在 <a href="{Url,html}">{Data.Name,text}</a>提到了您';
+$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}更改了 {ActivityUserID,user}的個人形象圖片。';
+$Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You}加入了。';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} 取消禁止 {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} 警告了{RegardingUserID,you}。';
 $Definition['Help'] = '幫助';
 $Definition['her'] = '她的';
 $Definition['Hide'] = '隱藏';
@@ -524,15 +569,17 @@ $Definition['Insert Image'] = '插入圖片';
 $Definition['Insightful'] = '富有洞察力的';
 $Definition['Internal'] = '內部';
 $Definition['In this Conversation'] = '在該對話';
+$Definition['Invalid password.'] = '您輸入的密碼不正確。請記住，密碼是區分大小寫的。';
 $Definition['Invitations'] = '邀請';
 $Definition['Invite'] = '邀請';
 $Definition['InviteErrorPermission'] = '對不起, 沒有權限.';
 $Definition['Invite Friends'] = '邀請朋友';
 $Definition['Invite friends'] = '邀請朋友';
 $Definition['IPAddress'] = 'IP 地址';
+$Definition['IP Address'] = 'IP 地址';
 $Definition['I remember now!'] = '我現在想起了！';
 $Definition['Italic'] = '斜體';
-$Definition['Item'] = 'Ban Item';
+$Definition['Item'] = '項';
 $Definition['item'] = '項目';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '點下面的按鈕可以加入我們！';
 
@@ -546,7 +593,7 @@ $Definition['Just expire the warning.'] = '警告剛剛過期。';
 $Definition['Just you!'] = '只有你！';
 
 $Definition['Keep me signed in'] = '記住我的登入狀態';
-$Definition['Keep User Content'] = 'UserKeep';
+$Definition['Keep User Content'] = '保留用戶內容';
 
 $Definition['Label'] = '標記';
 $Definition['Last Active'] = '最近一次活動';
@@ -558,13 +605,14 @@ $Definition['Leaders'] = '領導者';
 $Definition['Leave a Comment'] = '發表評論';
 $Definition['Leave a comment'] = '發表評論';
 $Definition['Leave a redirect link.'] = '請輸入重新導向的連結。';
-$Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLeaveBlank';
+$Definition['Leave blank unless connecting to an exising account.'] = '留空，除非連接到一個已經存在的賬戶。';
 $Definition['Leave Comments'] = '發表評論';
 $Definition['Leave Group'] = '離開群組';
 $Definition['Length'] = '長度';
 $Definition['Level %s'] = '級別 %s';
 $Definition['Like'] = '喜歡';
 $Definition['Link to content:'] = '連結內容：';
+$Definition['Locale'] = 'zh-TW';
 $Definition['Log'] = '記錄';
 $Definition['log'] = '日誌';
 $Definition['Login with Facebook'] = '使用 Facebook 登入';
@@ -576,6 +624,7 @@ $Definition['Make this poll anonymous (user votes are not made public).'] = '使
 $Definition['Male'] = '男';
 $Definition['Mark All Viewed'] = '標記所有為已讀';
 $Definition['Mark as Troll'] = '標記為煽動性文章';
+$Definition['Marking as spam cannot be undone.'] = '一些標記為垃圾郵件，則它會被永久刪除。刪除是保持你的論壇乾淨的好方法。';
 $Definition['Mark Read'] = '標示為已讀取';
 $Definition['Member Count'] = '會員';
 $Definition['Members'] = '會員';
@@ -588,6 +637,8 @@ $Definition['messages'] = '信息';
 $Definition['Message to User'] = '發送給用戶的信息';
 $Definition['Minor'] = '較小的';
 $Definition['minutes'] = '分鐘';
+$Definition['Moderation'] = '適度';
+$Definition['Moderation Queue'] = '審核隊列';
 $Definition['Moderator'] = '板主';
 $Definition['Moderator Activity'] = '板主活動';
 $Definition['Moderators'] = '板主';
@@ -606,6 +657,7 @@ $Definition['Most recent: %1$s by %2$s'] = '最新： %1$s 由 %2$s';
 $Definition['Most recent by %1$s'] = '最近更新 %1$s';
 $Definition['Most Recent Comment'] = '最近的評論';
 $Definition['Move'] = '移動';
+$Definition['MyBadgesModuleTitle'] = '我的徽章';
 $Definition['My Bookmarks'] = '我的收藏';
 $Definition['My Discussions'] = '我的討論';
 $Definition['My Drafts'] = '我的草稿';
@@ -618,9 +670,11 @@ $Definition['Name'] = '名字';
 $Definition['Name Dropper'] = '狐假虎威者';
 $Definition['Name the Group'] = '命名群組';
 $Definition['Name Unavailable'] = '名字不可用';
+$Definition['new'] = '新';
 $Definition['New %s'] = '新 %s';
 $Definition['New Conversation'] = '開啟新對話';
 $Definition['New Discussion'] = '開啟新討論';
+$Definition['new discussion'] = '新';
 $Definition['New Event'] = '新事件';
 $Definition['New Group'] = '新群組';
 $Definition['New Groups'] = '新群組';
@@ -630,6 +684,7 @@ $Definition['New Poll'] = '新增投票';
 $Definition['Next'] = '下一個';
 $Definition['Ninth Anniversary'] = '九週年紀念';
 $Definition['No'] = '否';
+$Definition['NoBadgesEarned'] = '現在隨時……';
 $Definition['No badges yet.'] = '還沒有獎牌';
 $Definition['No default roles.'] = '沒有預設角色';
 $Definition['No discussions were found.'] = '找不到討論';
@@ -665,10 +720,13 @@ $Definition[' now.'] = '現在';
 
 $Definition['of'] = '的';
 $Definition['Off Topic'] = '題外話';
+$Definition['OK'] = '行';
 $Definition['Okay'] = '確定';
+$Definition['OldPassword'] = '舊密碼';
 $Definition['Old Password'] = '舊密碼';
 $Definition['on'] = '在之上';
 $Definition['Online Preferences'] = '線上偏好設定';
+$Definition['Only show followed categories'] = '僅顯示關注類別';
 $Definition['OpenID Settings'] = 'OpenID 設定';
 $Definition['Optional Description'] = '選擇性描述';
 $Definition['Options'] = '選項';
@@ -684,19 +742,23 @@ $Definition['Owner'] = '所有者';
 
 $Definition['Page Not Found'] = '找不到頁面';
 $Definition['Participated'] = '已參加';
+$Definition['ParticipatedHomepageTitle'] = '參與討論';
 $Definition['Password'] = '密碼';
-$Definition['PasswordRequest'] = '你好 %1$s,
+$Definition['PasswordRequest'] = '有人在 %2$s 提出了重設密碼的請求，如果希望重設你的密碼，請點選下面連結：
 
-	有人在 %2$s 提出了重設密碼的請求，如果希望重設你的密碼，請點選下面連結：
+%3$s
 
-	  %3$s
-
-	  如果你並沒有提出過，請忽略這封信提到的資訊';
+如果你並沒有提出過，請忽略這封信提到的資訊';
 $Definition['Passwords don\'t match'] = '密碼不正確';
 $Definition['Paste the URL of an image to quickly embed it.'] = '貼上圖片的網址以迅速將其嵌入。';
 $Definition['Permalink'] = '永久連結';
 $Definition['permalink'] = '永久連結';
 $Definition['Permanent (301)'] = '永久移動 (301)';
+$Definition['PermissionErrorMessage'] = '您沒有權限那麼做。';
+$Definition['PermissionErrorTitle'] = '權限問題';
+$Definition['PermissionRequired.Garden.Moderation.Manage'] = '您需要登錄才可這麼做。';
+$Definition['PermissionRequired.Garden.Settings.Manage'] = '您需要登錄才可這麼做。';
+$Definition['PermissionRequired.Javascript'] = '您需要啟用 JavaScript 來做到這一點。';
 $Definition['Photogenic'] = '適於攝影的';
 $Definition['Picture'] = '圖片';
 $Definition['Pin'] = '釘下大頭針';
@@ -722,6 +784,8 @@ $Definition['Posts: %s'] = '文章數: %s';
 $Definition['Post this anonymously'] = '匿名發表';
 $Definition['Powered by %s'] = ' %s 提供技術支持';
 $Definition['Powered by Vanilla'] = '以 Vanilla 建置';
+$Definition['PreferenceBadgeEmail'] = '當我贏得一枚徽章時，通知我。';
+$Definition['PreferenceBadgePopup'] = '當我贏得一枚徽章時，通知我。';
 $Definition['Preview'] = '預覽';
 $Definition['Previous'] = '前一個';
 $Definition['Privacy'] = '隱私';
@@ -735,6 +799,7 @@ $Definition['Proceed'] = '繼續';
 $Definition['Profile'] = '個人檔案';
 $Definition['Profile  Fields'] = '資料欄';
 $Definition['Profile Fields'] = '資料欄';
+$Definition['ProfileFieldsCustomDescription'] = '使用這些字段來創建自定義個人資料信息。您可以輸入像“婚姻狀況”、“Skype”或“最喜歡的恐龍”等信息。要有創意！';
 $Definition['Profile Page'] = '資料頁面';
 $Definition['Profile Picture'] = '個人圖示';
 $Definition['Profiles'] = '個人檔案';
@@ -743,16 +808,26 @@ $Definition['Public'] = '公開';
 $Definition['Public group.'] = '任何人皆可看見群組及其內容。任何人皆可加入。';
 
 $Definition['Q&A'] = '問答';
+$Definition['Q&A Accepted'] = '回答✓';
+$Definition['Q&A Answered'] = '回答';
 $Definition['Q&A Options'] = '問答選項';
+$Definition['Q&A Question'] = '提問';
+$Definition['QnA Accepted Answer'] = '答✓';
+$Definition['QnA Rejected Answer'] = '拒絕回答';
+$Definition['Question'] = '提問';
 $Definition['question'] = '問題';
 $Definition['Questions'] = '問題';
 $Definition['questions'] = '問題';
 $Definition['Question Title'] = '討論主題';
 $Definition['Quote'] = '引用';
 $Definition['Quote Folding'] = '引用摺頁';
+$Definition['Quote on'] = '之上';
 $Definition['Quote Settings'] = '引用設置';
+$Definition['Quote wrote'] = '寫';
 
 $Definition['Rank'] = '排名';
+$Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,was,were}被提升為{Data.Name,plaintext}。';
+$Definition['Ranks.NotificationFormat'] = '恭喜！您已被提升為{Data.Name,plaintext}。';
 $Definition['Re: %s'] = '回覆： %s';
 $Definition['Reactions'] = '反應';
 $Definition['Real Name'] = '真實姓名';
@@ -765,6 +840,7 @@ $Definition['recently'] = '最近';
 $Definition['Recent Moderator Activity'] = '最近的主持人活動';
 $Definition['Recent Tutorials'] = '最近教程';
 $Definition['Recipients'] = '收件人';
+$Definition['RecipientUserID'] = '接受者';
 $Definition['Redirecting...'] = '重定向...';
 $Definition['Refetch Page'] = '重新取得頁面';
 $Definition['Register'] = '申請加入';
@@ -794,6 +870,7 @@ $Definition['Report'] = '報告';
 $Definition['Report %s'] = '報告 %s';
 $Definition['Reported by: '] = '回報人：';
 $Definition['Reported Posts'] = '被舉報的貼子';
+$Definition['Report Notes'] = '註釋';
 $Definition['Report Reason'] = '理由';
 $Definition['Request a new password'] = '遺忘密碼';
 $Definition['Request a new password →'] = '遺忘密碼';
@@ -818,6 +895,7 @@ $Definition['Search'] = '搜尋';
 $Definition['Search %s'] = '搜尋 %s';
 $Definition['search archived'] = '搜尋存檔';
 $Definition['SearchBoxPlaceHolder'] = '搜尋';
+$Definition['Search for a tag.'] = '搜索全部或部分標籤。';
 $Definition['Search results for \'%s\''] = '%s 的搜索結果';
 $Definition['search subcategories'] = '搜尋子類別';
 $Definition['Second Anniversary'] = '二週年紀念';
@@ -830,7 +908,9 @@ $Definition['Send a New Message'] = '發送新信息';
 $Definition['Send Message'] = '發送訊息';
 $Definition['Send Report'] = '發送報告';
 $Definition['Send report'] = '發送報告';
+$Definition['sep and'] = '與';
 $Definition['Set a New Warning Level'] = '設置新警告級別';
+$Definition['Set A Password'] = '設置密碼';
 $Definition['Setting'] = '設置';
 $Definition['Settings'] = '設定';
 $Definition['Seventh Anniversary'] = '七週年紀念';
@@ -846,8 +926,10 @@ $Definition['Signature Code'] = '簽名代碼';
 $Definition['Signature invalid.'] = '無效簽名。';
 $Definition['Signatures'] = '簽名';
 $Definition['Signature Settings'] = '簽名設定';
-$Definition['SignIn'] = '登入';
 $Definition['Sign In'] = '登入';
+$Definition['SignIn'] = '登入';
+$Definition['SigningOut'] = '稍等片刻，我們馬上讓您退出。';
+$Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>登錄</a>或<a href="{RegisterUrl,html}">註冊</a>進行評論。';
 $Definition['Sign in to vote!'] = '登錄投票！';
 $Definition['Sign In with %s'] = '使用 %s 登錄';
 $Definition['Sign In with Disqus'] = '使用 Disqus 登錄';
@@ -870,6 +952,7 @@ $Definition['sorted by'] = '排序依據';
 $Definition['Source:'] = '來源：';
 $Definition['Source Code'] = '代碼';
 $Definition['Spam'] = '垃圾資訊';
+$Definition['Spam Queue'] = '垃圾郵件隊列';
 $Definition['Split'] = '拆分';
 $Definition['Split Comments'] = '分割評論';
 $Definition['Spoiler'] = '劇透';
@@ -881,6 +964,7 @@ $Definition['Start a New Discussion'] = '開啟新討論';
 $Definition['Start Conversation'] = '開啟對話';
 $Definition['Started By'] = '發起者';
 $Definition['Started by %1$s'] = '發起人 %1$s';
+$Definition['Start your First Discussion'] = '開始您的第一個討論';
 $Definition['Stop following'] = '取消訂閱';
 $Definition['Strikethrough'] = '加刪除線';
 $Definition['Strip images out of signatures'] = '去掉簽名中的圖片';
@@ -903,36 +987,27 @@ $Definition['Tell the user why you\'re warning them'] = '告訴用戶為什麼�
 $Definition['Tell us why you want to join!'] = '告訴我們您為什麼要加入！';
 $Definition['Tenth Anniversary'] = '十週年紀念';
 $Definition['Terms'] = '條款';
-$Definition['TermsOfServiceText'] = '
-   <p>You agree, through your use of this service, that you will not use this
-   community to post any material which is knowingly false and/or defamatory,
-   inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually
-   oriented, threatening, invasive of a person\'s privacy, or otherwise violative
-   of any law. You agree not to post any copyrighted material unless the
-   copyright is owned by you.</p>
-   
-   <p>We at this community also reserve the right to reveal your identity (or
-   whatever information we know about you) in the event of a complaint or legal
-   action arising from any message posted by you. We log all internet protocol
-   addresses accessing this web site.</p>
-   
-   <p>Please note that advertisements, chain letters, pyramid schemes, and
-   solicitations are inappropriate on this community.</p>
-   
-   <p>We reserve the right to remove any content for any reason or no reason at
-   all. We reserve the right to terminate any membership for any reason or no
-   reason at all.</p>
-   
-   <p>You must be at least 13 years of age to use this service.</p>
-';
+$Definition['TermsOfService'] = '使用條款';
+$Definition['Terms of Service'] = '服務條款';
+$Definition['TermsOfServiceText'] = '您同意在使用這項服務時，您不會利用此社區發表任何明知虛假的和/或誹謗的、不準確的、辱罵性的、庸俗的、惡意的、騷擾、淫穢、褻瀆、有性導向、威脅的、侵犯他人隱私的或者以其他方式違犯任何法律的信息。您同意不發表任何受版權保護的材料，除非版權歸您所有。 
+
+如果您發布的任何信息導致投訴或法律訴訟，我們保留透露您的身份（或者我們知道的關於您的任何信息）的權利。我們會記錄訪問本網站的所有互聯網協議地址。 
+
+請注意，廣告、連鎖信、傳銷和募捐在本社區都被認為是不適當的。 
+
+我們保留以任何理由或不需任何理由地刪除任何內容的權利。我們保留以任何理由或不需任何理由地終止任何會員資格的權利。 
+
+您必須年滿 13 歲才能使用這項服務。';
 $Definition['Text  Max  Length'] = '文本最大長度';
 $Definition['the category'] = '類別';
 $Definition['The conversation has been cleared.'] = '對話已被清除。';
 $Definition['The email you entered in use by another member.'] = '您輸入的電子郵件已被他人使用。';
 $Definition['The email you have entered is already related to an existing account.'] = '該郵件地址已經是網站的成員.';
+$Definition['The file failed to upload.'] = '上傳文件失敗。';
 $Definition['their'] = '他們的';
 $Definition['The name you entered is already in use by another member.'] = '您輸入的名稱已被他人使用。';
 $Definition['The page you were looking for could not be found.'] = '您搜尋的頁面不存在';
+$Definition['The quote had to be converted from %s to %s.'] = '引述必須由 %s 轉換到 %s。某些格式可能已經丟失。';
 $Definition['There aren\'t any groups yet.'] = '目前還沒有任何群組。';
 $Definition['There are no tags in the system yet.'] = '該系統還未有任何標籤。';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = '驗證碼輸入不正確。請重試。';
@@ -972,7 +1047,9 @@ $Definition['Toggle HTML view'] = '切換 HTML 視圖';
 $Definition['Toggle lights'] = '切換燈號';
 $Definition['Topic'] = '主題';
 $Definition['Topics'] = '主題';
+$Definition['To send another confirmation email click <a href="%s">here</a>.'] = '點擊<a href="%s">此處</a>再次發送確認電子郵件。';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = '要使用驗證碼，您必須從 %s 獲得一個 API 密鑰。';
+$Definition['Transport error: %s'] = '處理請求時發生嚴重錯誤。<br />服務器返回以下響應：%s';
 $Definition['Troll'] = '煽動性文章';
 $Definition['Turn ON'] = '打開';
 $Definition['Twitter Settings'] = 'Twitter 設定';
@@ -980,6 +1057,8 @@ $Definition['Type'] = '類型';
 
 $Definition['Unable to send message, %s is ignoring you.'] = '無法發送訊息，%s 已封鎖你。';
 $Definition['Unannounce'] = '取消公告';
+$Definition['Unanswered'] = '沒有答案';
+$Definition['Unanswered Questions'] = '沒有答案';
 $Definition['unavailable'] = '不可用的';
 $Definition['Unban User'] = '解除封禁用戶';
 $Definition['Unbookmark'] = '取消訂閱';
@@ -990,6 +1069,7 @@ $Definition['Undo Follow'] = '取消訂閱';
 $Definition['Unfollow'] = '未關注';
 $Definition['Unhide'] = '顯示';
 $Definition['Unignore'] = '不忽略';
+$Definition['UniqueID'] = '獨特 ID';
 $Definition['Unknown'] = '未知的';
 $Definition['Unknown client: %s.'] = '未知客戶：%s。';
 $Definition['Unordered list'] = '無序列表';
@@ -1002,6 +1082,8 @@ $Definition['Update'] = '更新';
 $Definition['Updated badge'] = '更新徽章';
 $Definition['Upload'] = '上傳';
 $Definition['Uploading...'] = '正在上傳...';
+$Definition['Url'] = '網址';
+$Definition['UrlCode'] = 'Url 編碼';
 $Definition['Use My Current Password'] = '使用我的當前密碼';
 $Definition['User "%s" does not exist.'] = '用戶“%s”不存在。';
 $Definition['Username'] = '帳號';
@@ -1009,15 +1091,33 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = '�
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = '帳號不能包含非法字符. 長度不能少於3字符.';
 $Definition['UsernameError'] = '帳號不能包含非法字符. 長度不能少於3字符.';
 $Definition['Username or email'] = '用戶名或電子郵件';
+$Definition['User not found.'] = '抱歉，無法找到與您輸入的電子郵件/用戶名相關的賬戶。';
 $Definition['Users Count'] = '用戶數量';
 
+$Definition['ValidateBanned'] = '不允許 %s。';
+$Definition['ValidateBoolean'] = '%s 不是有效的布爾值。';
+$Definition['ValidateConnection'] = '您所指定的連接參數未能打開數據庫連接。數據庫報告了以下錯誤：<code>%s</code>';
+$Definition['ValidateDate'] = '%s 不是有效日期。';
+$Definition['ValidateDecimal'] = '%s 不是有效的小數。';
 $Definition['ValidateEmail'] = '%s 格式錯誤.';
 $Definition['ValidateEnum'] = '%s 無效.';
+$Definition['ValidateFormat'] = '您不允許發佈原始 html。';
 $Definition['ValidateInteger'] = '%s 不是有效的整數.';
+$Definition['ValidateIntegerArray'] = '%s 必須是一個以逗號分隔的數字列表。';
 $Definition['ValidateLength'] = '%1$s 內容太長, 超出限制 %2$s 字符.';
 $Definition['ValidateMatch'] = '%s 字段不正確.';
 $Definition['ValidateMinimumAge'] = '您未達本社群規定之年齡下限，因此無法加入。';
-$Definition['Value'] = 'Condition Expression';
+$Definition['ValidateOneOrMoreArrayItemRequired'] = '您必須選擇至少一個 %s。';
+$Definition['ValidateRegex'] = '%s 似乎不是正確的格式。';
+$Definition['ValidateRequired'] = '%s 是必需的。';
+$Definition['ValidateRequiredArray'] = '您必須至少選擇一個 %s。';
+$Definition['ValidateTag'] = '標籤不能包含空格。';
+$Definition['ValidateTime'] = '%s 不是有效時間。';
+$Definition['ValidateTimestamp'] = '%s 不是有效的時間戳。';
+$Definition['ValidateUrlStringRelaxed'] = '%s 不能包含斜線、引號或標記字符。';
+$Definition['ValidateUsername'] = '用戶名必須為 3-20 個字符，由字母、數字和下劃線組成。';
+$Definition['ValidateVersion'] = '%s 字段不是有效的版本號。查看 PHP version_compare() 函數以參考有效版本號。';
+$Definition['Value'] = '值';
 $Definition['Vanilla Statistics'] = 'Vanilla 統計數據';
 $Definition['Vanilla Statistics Plugin'] = 'Vanilla 統計插件';
 $Definition['Verified'] = '已驗證';
@@ -1035,12 +1135,15 @@ $Definition['Vote Down'] = '否決';
 $Definition['Votes'] = '投票';
 $Definition['Vote Up'] = '贊成';
 
+$Definition['wall'] = '牆';
 $Definition['Want to take part in this discussion? Click one of these:'] = '想要參與這些討論？點擊一個：';
 $Definition['Warn'] = '警告';
 $Definition['Warn %s'] = '警告 %s';
 $Definition['Warned for'] = '警告原因';
 $Definition['Warning'] = '警告';
 $Definition['Warnings'] = '警告';
+$Definition['WarningTitleFormat'] = '{InsertUserID,User} 因{Points,plural,%s points}而警告了{WarnUserID,User}。';
+$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} 因{Points,plural,%s points}而警告了{WarnUserID,User} （只是一份通知）。';
 $Definition['was'] = '是';
 $Definition['Website'] = '網站';
 $Definition['weeks'] = '周';
@@ -1053,6 +1156,7 @@ $Definition['Who\'s Online'] = '線上會員';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = '糟糕！您需先註冊才可發送電子郵件至我們的網站。';
 $Definition['Whos Online'] = '誰在綫';
 $Definition['Why are you Banning this user?'] = '你為什麼要封禁該用戶？';
+$Definition['Why do you want to join?'] = '為什麼你要加入呢?';
 $Definition['Write a comment'] = '寫評論';
 $Definition['Write Comment'] = '新評論';
 $Definition['Write something about yourself...'] = '寫點關於你自己的東西吧...';
@@ -1071,21 +1175,28 @@ $Definition['You are about to unban {User.UserID,user}.'] = '您將要解除封�
 $Definition['You are allowed to create %s groups.'] = '您有權限建立 %s 群組。';
 $Definition['You are connected as %s through %s.'] = '你以 %s 連結中，透過 %s.';
 $Definition['You are connected through %2$s.'] = '您通過 %2$s 進行連接。';
+$Definition['You are currently only viewing categories that you follow.'] = '當前您僅在查看關注的類別。';
+$Definition['You are currently viewing all categories.'] = '當前您正在查看所有類別。';
 $Definition['You are editing %s\'s signature'] = '您正在編輯 %s 的簽名';
 $Definition['You are limited to %s recipient.'] = '收件人上限為 %s 。';
 $Definition['You are limited to %s recipients.'] = '收件人上限為 %s 。';
 $Definition['You can\'t leave the group you started.'] = '您無法離開由您發起的群組。';
+$Definition['You can either ask a question or start a discussion.'] = '您可以提問或開始討論。在下方選擇您要做的。';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = '您可以訂閱個別分類然後在他們有新文章時收到提醒';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = '您無法編輯外部鏈接資料圖片的縮略圖。';
 $Definition['You can only specify up to %s tags.'] = '您只能指定最多%s個標籤。';
 $Definition['You can remove or ban this member from the group.'] = '您可以從群組中移除或禁止該成員。被禁止的成員將無法再加入該群組。';
+$Definition['You can use HTML in your signature.'] = '您可以在簽名中使用<b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">簡單的 Html</a></b>。';
+$Definition['You don\'t have permission to do that.'] = '您沒有權限那麼做。';
 $Definition['You do not have any %s yet.'] = '您還未有任何  %s。';
 $Definition['You do not have any bookmarks.'] = '您沒有任何書籤。';
 $Definition['You do not have any conversations.'] = '你沒有參與任何對話.';
 $Definition['You do not have any drafts.'] = '你沒有任何草稿.';
 $Definition['You do not have any notifications yet.'] = '你沒有任何訊息.';
 $Definition['You do not have enough invitations left.'] = '您餘下的邀請不足。';
+$Definition['You do not have permission to move %1$s of the selected discussions.'] = '您沒有權限移動％選擇討論 %1$s。';
 $Definition['You do not have permission to write new comments.'] = '您沒有發表新評論的權限。';
+$Definition['YouEarnedBadge'] = '您贏得了該徽章';
 $Definition['You have answered questions'] = '您已回答了問題';
 $Definition['You have entered an invalid discussion title'] = '您輸入了無效的討論標題';
 $Definition['You haven\'t read this yet.'] = '您還沒閱讀這個';
@@ -1095,6 +1206,7 @@ $Definition['You have selected %1$s.'] = '您已選擇了 %1$s。';
 $Definition['You have selected %1$s in this discussion.'] = '您在本討論中選擇了 %1$s。';
 $Definition['You have to select at least 2 discussions to merge.'] = '您必須選擇至少 2 個話題進行合併。';
 $Definition['You must agree to the terms of service.'] = '你必須同意服務條款.';
+$Definition['You need to confirm your email address.'] = '您需要確認您的電子郵件地址。點擊<a href="{/entry/emailconfirmrequest,url}">此處</a>來重新發送確認電子郵件。';
 $Definition['You need to sign in before you can do this.'] = '您需要登錄才可這麼做。';
 $Definition['your'] = '你的';
 $Definition['Your changes have been saved.'] = '你所做的改動已儲存.';
@@ -1109,14 +1221,12 @@ $Definition['Your post will appear once it\'s been approved.'] = '您的文章�
 $Definition['Your preferences have been saved.'] = '你的偏好設定已儲存';
 $Definition['Your private conversations with other members.'] = '您同他人的私人對話。';
 $Definition['Your registered username: <strong>%s</strong>'] = '你註冊的帳號: <strong>%s</strong>';
+$Definition['Your request has been sent.'] = '您的請求已發送。進一步的說明，請查看您的電子郵件。';
 $Definition['Your settings have been saved.'] = '你的設定已儲存.';
 $Definition['Your settings have been saved successfully.'] = '您已成功保存設置。';
 $Definition['Your warning was added.'] = '您已添加了警告。';
 
 $Definition[' You should '] = '您應該';
 
+$Definition['You were added to a conversation.'] = '{InsertUserID,user}將{NotifyUserID,you}加入了<a href="{Url,htmlencode}">對話</a>。';
 $Definition['You wrote:'] = '您寫道：';
-
-$Definition['↳ No results for \'%s\''] = ' \'%s\' 沒有任何結果';
-$Definition['↳ Search results for \'%s\''] = '↳ \'%s\' 的搜尋結果';
-$Definition['↳ Show All'] = '↳ 顯示全部';

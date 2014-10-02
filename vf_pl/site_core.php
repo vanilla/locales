@@ -637,6 +637,7 @@ $Definition['Warning'] = 'Ostrzeżenie';
 $Definition['Warnings'] = 'Ostrzeżenia';
 $Definition['Welcome Aboard!'] = 'Witaj na pokładzie!';
 $Definition['Where do you want to announce this discussion?'] = 'Gdzie chcesz ogłosić tą dyskusję?';
+$Definition['Why do you want to join?'] = 'Napisz dlaczego chcesz dołączyć do naszego forum?';
 $Definition['Write a comment'] = 'Napisz komentarz';
 $Definition['Write Comment'] = 'Napisz komentarz';
 $Definition['Write something about yourself...'] = 'Napisz coś o sobie...';
@@ -673,5 +674,3 @@ $Definition['Your settings have been saved.'] = 'Twoje ustawienia zostały zapis
 $Definition['Your settings have been saved successfully.'] = 'Twoje ustawienia zostały poprawnie zapisane.';
 
 $Definition[' You should '] = 'Powinieneś';
-
-$Definition['↳ Show All'] = '↳ Pokaż wszystko';

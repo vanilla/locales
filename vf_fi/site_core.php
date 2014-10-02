@@ -859,6 +859,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'T&auml;m&auml;n viikon johtajat';
 $Definition['Thumbnail'] = 'Pikkukuva';
 $Definition['Title'] = 'Otsikko';
+$Definition['To'] = 'Vastaanottaja';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'L&auml;hett&auml;&auml;ksesi vahvistuss&auml;hk&ouml;postin  uudelleen, klikkaa <a href="%s">t&auml;st&auml;</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'K&auml;ytt&auml;&auml;ksesi reCAPTCHA:aa sinulla pit&auml;&auml; olla ainakin yksi API avain palvelusta %s';
 $Definition['Troll'] = 'Trolli';
@@ -951,6 +952,7 @@ $Definition['Where do you want to announce this discussion?'] = 'Mihin haluat no
 $Definition['Who\'s Online'] = 'Paikalla on';
 $Definition['Whos Online'] = 'Paikalla ovat';
 $Definition['Why are you Banning this user?'] = 'Kerro eston syy?';
+$Definition['Why do you want to join?'] = 'Mit&auml; kautta palstan l&ouml;ysit/mahdollinen suosittelija?';
 $Definition['Write a comment'] = 'L&auml;het&auml; uusi kommentti';
 $Definition['Write Comment'] = 'Vastaa';
 $Definition['Write something about yourself...'] = 'Kerro jotain itsest&auml;si..?';
@@ -1011,7 +1013,3 @@ $Definition['Your warning was added.'] = 'Varoitus on l&auml;hetetty.';
 $Definition[' You should '] = ' Sinun pit&auml;&auml; ';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} lis&auml;si {NotifyUserID,you} sinut <a href="{Url,htmlencode}">keskusteluun</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Ei tuloksia haulla: \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Hakutulokset haulla \'%s\'';
-$Definition['↳ Show All'] = '↳ N&auml;yt&auml; kaikki';

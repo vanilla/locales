@@ -387,6 +387,7 @@ $Definition['Forum'] = 'منتدى';
 $Definition['Forums'] = 'منتديات';
 $Definition['Fourth Anniversary'] = 'الذكرى الرابعة';
 $Definition['Friends'] = 'أصدقاء';
+$Definition['From'] = 'من';
 $Definition['Full Site'] = 'كل الموقع';
 
 $Definition['Garden.Email.SupportAddress'] = 'البريد الإلكتروني للدعم';
@@ -578,8 +579,8 @@ $Definition[' now.'] = ' الٱن';
 
 $Definition['of'] = 'الخاص(ة) ب';
 $Definition['Off Topic'] = 'خارج الموضوع';
-$Definition['Old Password'] = 'كلمة المرور القديمة';
 $Definition['OldPassword'] = 'كلمة المرور قديمة';
+$Definition['Old Password'] = 'كلمة المرور القديمة';
 $Definition['on'] = 'في';
 $Definition['Online Preferences'] = 'خيارات الاتصال';
 $Definition['Only show followed categories'] = 'اظهر فقط الاقسام التي تتابعها';
@@ -869,6 +870,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = 'قيادات هذا الاسبوع';
 $Definition['Thumbnail'] = 'صورة مصغرة';
 $Definition['Title'] = 'العنوان';
+$Definition['To'] = 'إلى';
 $Definition['Topic'] = 'موضوع';
 $Definition['Topics'] = 'مواضيع';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'لإستخدام reCAPTCHA يجب الحصول على مفتاح API من %s.';
@@ -1023,7 +1025,3 @@ $Definition['Your settings have been saved successfully.'] = 'تم حفظ الإ
 $Definition['Your warning was added.'] = 'تمت إضافة تحذيرك';
 
 $Definition[' You should '] = ' يجب عليك ';
-
-$Definition['↳ No results for \'%s\''] = '<br />لا نتائج ل \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '<br />نتائج البحث عن \'%s\'';
-$Definition['↳ Show All'] = '<br />إظهار الكل';

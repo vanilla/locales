@@ -1047,7 +1047,3 @@ $Definition['Your warning was added.'] = 'आपकी चेतावनी क
 $Definition[' You should '] = 'आपको';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} ने {NotifyUserID,you} को <a href="{Url,htmlencode}">बातचीत</a> में जोड़ा है।';
-
-$Definition['↳ No results for \'%s\''] = '↳ \'%s\' के लिए कोई परिणाम नहीं है';
-$Definition['↳ Search results for \'%s\''] = '↳ \'%s\' के लिए खोज परिणाम';
-$Definition['↳ Show All'] = '↳ सब दिखाएं';

@@ -1028,6 +1028,7 @@ $Definition['Where do you want to announce this discussion?'] = 'Де ви хо�
 $Definition['Who\'s Online'] = 'Хто онлайн';
 $Definition['Whos Online'] = 'Хто онлайн';
 $Definition['Why are you Banning this user?'] = 'Чому ви забанили цього користувача?';
+$Definition['Why do you want to join?'] = 'Чому ви вирішили приєднатися?';
 $Definition['Write a comment'] = 'Напишіть коментар';
 $Definition['Write Comment'] = 'Написати коментар';
 $Definition['Write something about yourself...'] = 'Напишіть щось про себе...';
@@ -1094,7 +1095,3 @@ $Definition['Your warning was added.'] = 'Ваше попередження бу
 $Definition[' You should '] = 'Ви маєте';
 
 $Definition['You were added to a conversation.'] = 'Користувач {InsertUserID,user} додав {NotifyUserID,you} до <a href="{Url,htmlencode}">обговорення</a>.';
-
-$Definition['↳ No results for \'%s\''] = '↳ Жодних результатів \'%s\'';
-$Definition['↳ Search results for \'%s\''] = '↳ Результати пошуку для \'%s\'';
-$Definition['↳ Show All'] = '↳ Показати все';

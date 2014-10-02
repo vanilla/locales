@@ -953,6 +953,7 @@ $Definition['Where do you want to announce this discussion?'] = 'Bu tartışmay�
 $Definition['Who\'s Online'] = 'Kimler Çevrimiçi';
 $Definition['Whos Online'] = 'Kimler Çevrimiçi';
 $Definition['Why are you Banning this user?'] = 'Bu kullanıcıyı neden engelliyorsun?';
+$Definition['Why do you want to join?'] = 'Neden katılmak isteyeceksiniz?';
 $Definition['Write a comment'] = 'Bir yorum yaz';
 $Definition['Write Comment'] = 'Yorum Yaz';
 $Definition['Write something about yourself...'] = 'Kendin hakkında birşeyler yaz';
@@ -1016,7 +1017,3 @@ $Definition['Your warning was added.'] = 'Uyarınız eklendi.';
 $Definition[' You should '] = 'Yapmalısın';
 
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} bir <a href="{Url,htmlencode}">sohbete</a>{NotifyUserID,you} ekledi.';
-
-$Definition['↳ No results for \'%s\''] = '↳ \'%s\' için arama sonuçları bulunmuyor';
-$Definition['↳ Search results for \'%s\''] = '↳\'%s\' için arama sonuçları';
-$Definition['↳ Show All'] = '↳ Tümünü Göster';

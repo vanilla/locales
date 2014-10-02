@@ -572,8 +572,8 @@ $Definition[' now.'] = ' teď.';
 $Definition['Off Topic'] = 'Mimo téma';
 $Definition['OK'] = 'Potvrdit';
 $Definition['Okay'] = 'Potvrdit';
-$Definition['Old Password'] = 'Staré heslo';
 $Definition['OldPassword'] = 'Staré heslo';
+$Definition['Old Password'] = 'Staré heslo';
 $Definition['Only show followed categories'] = 'Zobrazit pouze sledované kategorie';
 $Definition['OpenID Settings'] = 'Nastavení OpenID';
 $Definition['Optional Description'] = 'Volitelný popis';
@@ -729,8 +729,8 @@ $Definition['Show unfollowed categories'] = 'Zobrazit i nesledované kategorie';
 $Definition['Signature invalid.'] = 'Neplatný podpis.';
 $Definition['Signatures'] = 'Podpisy';
 $Definition['Signature Settings'] = 'Nastavení podpisu';
-$Definition['Sign In'] = 'Přihlásit se';
 $Definition['SignIn'] = 'Přihlásit se';
+$Definition['Sign In'] = 'Přihlásit se';
 $Definition['SigningOut'] = 'Měj chvilku strpění, než budeš odhlášen.';
 $Definition['Sign In or Register to Comment.'] = 'Abys mohl komentovat, musíš být <a href="{SignInUrl,html}"{Popup}>přihlášený</a> nebo <a href="{RegisterUrl,html}">registrovaný</a>.';
 $Definition['Sign in to vote!'] = 'Přihlaš se, abys mohl hlasovat.';
@@ -984,7 +984,3 @@ $Definition['Your settings have been saved successfully.'] = 'Tvé nastavení by
 $Definition['Your warning was added.'] = 'Tvé varováni bylo přidáno.';
 
 $Definition[' You should '] = ' Měl bys ';
-
-$Definition['↳ No results for \'%s\''] = 'Žádné výsledky pro \'%s\'';
-$Definition['↳ Search results for \'%s\''] = 'Výsledky pro \'%s\'';
-$Definition['↳ Show All'] = 'Ukázat vše';

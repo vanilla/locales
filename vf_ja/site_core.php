@@ -726,8 +726,8 @@ $Definition['Private Note for Moderators'] = 'モデレーターの為の自分�
 $Definition['Problem with credentials.'] = '認証情報に問題があります。';
 $Definition['Proceed'] = '進む';
 $Definition['Profile'] = 'プロフィール';
-$Definition['Profile  Fields'] = 'プロフィールフィールド';
 $Definition['Profile Fields'] = 'プロフィールフィールド';
+$Definition['Profile  Fields'] = 'プロフィールフィールド';
 $Definition['Profile Page'] = 'プロフィールページ';
 $Definition['Profiles'] = 'プロフィール';
 $Definition['Promote'] = 'プロモートする';
@@ -836,8 +836,8 @@ $Definition['Signature Code'] = '署名コード';
 $Definition['Signature invalid.'] = '署名が無効です。';
 $Definition['Signatures'] = '署名';
 $Definition['Signature Settings'] = '署名設定';
-$Definition['SignIn'] = 'ログイン';
 $Definition['Sign In'] = 'ログイン';
+$Definition['SignIn'] = 'ログイン';
 $Definition['Sign in to vote!'] = 'サインインして投票しましょう!';
 $Definition['Sign In with %s'] = '%sでサインインする';
 $Definition['Sign In with Disqus'] = 'Disqusでサインインする';
@@ -1061,6 +1061,7 @@ $Definition['Who\'s Online'] = '誰がオンラインか';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'おっと! 当サイトにメールを送信するには、登録が必要です。';
 $Definition['Whos Online'] = '誰がオンライン';
 $Definition['Why are you Banning this user?'] = 'なぜこのユーザーを禁止しているのですか?';
+$Definition['Why do you want to join?'] = '参加を希望する理由は？';
 $Definition['Write a comment'] = 'コメントを書く';
 $Definition['Write Comment'] = 'コメント内容';
 $Definition['Write something about yourself...'] = 'あなた自身のことについて何か書いてください...';
@@ -1125,7 +1126,3 @@ $Definition['Your warning was added.'] = '警告が追加されました。';
 $Definition[' You should '] = 'あなたは';
 
 $Definition['You wrote:'] = 'あなたは以下のように書きました:';
-
-$Definition['↳ No results for \'%s\''] = '↳ \'%s\' の検索結果はありません。';
-$Definition['↳ Search results for \'%s\''] = '↳ 「<b class="search_term">%s</b>」の検索結果は以下の通りです。';
-$Definition['↳ Show All'] = '↳ すべて表示';

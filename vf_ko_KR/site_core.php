@@ -283,8 +283,8 @@ $Definition['Select an image on your computer (2mb max)'] = '컴퓨터에서 이
 $Definition['Send Message'] = '메세지 보내기';
 $Definition['Settings'] = '설정';
 $Definition['Share'] = '내 상태 공유하기';
-$Definition['Sign In'] = '로그인';
 $Definition['SignIn'] = '로그인';
+$Definition['Sign In'] = '로그인';
 $Definition['Sign In with Google'] = '구글 계정으로 로그인';
 $Definition['Sign In with OpenID'] = 'OpenID로 로그인';
 $Definition['Sign In with Twitter'] = '트위터 계정으로 로그인';
@@ -350,6 +350,7 @@ $Definition['Visit Site'] = '사이트 바로가기';
 
 $Definition['Warning'] = '경고';
 $Definition['Welcome Aboard!'] = '환영합니다!';
+$Definition['Why do you want to join?'] = '가입을 원하는 이유는 무엇입니까?';
 $Definition['Write a comment'] = '글 작성하기';
 $Definition['Write Comment'] = '글 작성하기';
 $Definition['Write something about yourself...'] = '자기소개';
