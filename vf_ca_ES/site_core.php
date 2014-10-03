@@ -53,6 +53,8 @@ $Definition['Announcement'] = 'Anunciament';
 $Definition['Applicant'] = 'Solicitante';
 $Definition['Applicants'] = 'Solicitantes';
 $Definition['Apply for Membership'] = 'Registrar-se';
+$Definition['Approve'] = 'Aprobar';
+$Definition['Approve Applicant'] = 'Aprobar';
 $Definition['Are you sure you want to do that?'] = '¿Estás seguro de que quieres hacerlo?';
 $Definition['Ask Question'] = 'Enviar Discussi';
 

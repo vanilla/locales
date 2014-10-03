@@ -21,8 +21,6 @@ $Definition['[%s] Password Reset Request'] = '[%s] パスワード リセット�
 
 $Definition['_Locale'] = 'ロケール';
 
-$Definition['Abilites'] = '
-';
 $Definition['Accepted'] = '承認済み';
 $Definition['Action'] = 'アクション';
 $Definition['Add Category'] = 'カテゴリを追加';
