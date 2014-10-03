@@ -1035,6 +1035,7 @@ $Definition['their'] = '그들의';
 $Definition['The name you entered is already in use by another member.'] = '입력하신 이름은 다른 회원이 이미 사용하고 있습니다.';
 $Definition['The page you were looking for could not be found.'] = '원하시는 페이지를 찾을 수 없었습니다.';
 $Definition['The quote had to be converted from %s to %s.'] = '인용이 %s 에서 %s 으로 전환되었습니다. 포맷팅 일부가 상실될 수도 있습니다.';
+$Definition['There\'s already a %s with the name %s.'] = '%2$s의 이름을 가진 %1$s가 이미 있습니다. ';
 $Definition['There aren\'t any groups yet.'] = '아직 그룹이 없습니다.';
 $Definition['There are no tags in the system yet.'] = '시스템에 태그가 아직 없습니다.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'reCAPTCHA 값이 올바르게 입력되지 않았습니다. 다시 시도하십시오.';

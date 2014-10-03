@@ -1028,6 +1028,7 @@ $Definition['their'] = 'deres';
 $Definition['The name you entered is already in use by another member.'] = 'Dette brukernavnet er allerede i bruk.';
 $Definition['The page you were looking for could not be found.'] = 'Siden du ser etter finnes ikke, vennligst sjekk adressen på nytt.';
 $Definition['The quote had to be converted from %s to %s.'] = 'Sitatet måtte konverteres fra %s til %s. Noe formatering kan ha gått tapt. ';
+$Definition['There\'s already a %s with the name %s.'] = 'Det finnes allerede en %1$s med navnet %2$s. ';
 $Definition['There aren\'t any groups yet.'] = 'Det finnes ingen grupper ennå.';
 $Definition['There are no tags in the system yet.'] = 'Det er ingen etiketter i systemet ennå. ';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'reCAPTCHA koden ble ikke skrevet inn korrekt.';

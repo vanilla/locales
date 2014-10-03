@@ -600,6 +600,7 @@ $Definition['Run structure & data scripts'] = 'הרץ סקריפטים של מב
 
 $Definition['Save Captured Definitions'] = 'שמור הגדרות';
 $Definition['Saved'] = 'השינויים שלך נשמרו';
+$Definition['SaveLocalePack'] = 'שמור';
 $Definition['seconds'] = 'שניות';
 $Definition['Security'] = 'אבטחה';
 $Definition['Select'] = 'בחר';
