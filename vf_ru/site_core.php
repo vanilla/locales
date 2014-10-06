@@ -514,8 +514,8 @@ $Definition['Female'] = 'Женский';
 $Definition['Fifth Anniversary'] = 'Пятая годовщина';
 $Definition['FileName'] = 'Имя файла';
 $Definition['Filename'] = 'Название файла';
-$Definition['FileSize'] = 'Размер файла';
 $Definition['File Size'] = 'Размер файла';
+$Definition['FileSize'] = 'Размер файла';
 $Definition['First Anniversary'] = 'Первая годовщина';
 $Definition['First Comment'] = 'Первый комментарий';
 $Definition['Flag'] = 'Упрекнуть';
@@ -628,8 +628,8 @@ $Definition['Invite one or more people to join this group.'] = '
         Пригласите в эту группу одного или нескольких человек.
 
 ';
-$Definition['IPAddress'] = 'IP адрес';
 $Definition['IP Address'] = 'IP адрес';
+$Definition['IPAddress'] = 'IP адрес';
 $Definition['I remember now!'] = 'Ой, вспомнил!';
 $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Сообщение';
@@ -891,8 +891,8 @@ $Definition['Private Note for Moderators'] = 'Скрытая заметка дл
 $Definition['Problem with credentials.'] = 'Проблема с учетными данными.';
 $Definition['Proceed'] = 'Продолжить';
 $Definition['Profile'] = 'Профиль';
-$Definition['Profile  Fields'] = 'Поля профиля';
 $Definition['Profile Fields'] = 'Поля профиля';
+$Definition['Profile  Fields'] = 'Поля профиля';
 $Definition['ProfileFieldsCustomDescription'] = 'Эти поля могут быть использованы для вывода произвольной информации в профиле. Вы можете указать такие данные, как "Семейное положение", "Skype", или "Любимый динозавр". Будьте изобретательны!';
 $Definition['Profile Page'] = 'Страница профиля';
 $Definition['Profile Picture'] = 'Личная картинка';
@@ -1021,8 +1021,8 @@ $Definition['Signature Code'] = 'Подпись';
 $Definition['Signature invalid.'] = 'Подпись недействительна.';
 $Definition['Signatures'] = 'Подписи';
 $Definition['Signature Settings'] = 'Настройки подписи';
-$Definition['SignIn'] = 'Вход';
 $Definition['Sign In'] = 'Войти';
+$Definition['SignIn'] = 'Вход';
 $Definition['SigningOut'] = 'Подождите пока система завершит вашу сессию.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Войдите</a> или <a href="{RegisterUrl,html}">Зарегистрируйтесь</a> чтобы комментировать.';
 $Definition['Sign in to vote!'] = 'Войдите, чтобы голосовать!';

@@ -65,7 +65,6 @@ $Definition['Discussions per Page'] = '每頁顯示討論數';
 
 $Definition['edit'] = '編輯';
 $Definition['Edit Category'] = '編輯分類';
-$Definition['EditContentTimeout.Notes'] = 'Note: If a user is in a role that has permission to edit content, those permissions will override any value selected here.';
 $Definition['Editing'] = '編輯中';
 $Definition['Edit User'] = '編輯會員';
 $Definition['Enable'] = '啟用';
@@ -81,7 +80,6 @@ $Definition['Forum Settings'] = '討論區設定';
 $Definition['Frequency'] = '更新頻率';
 $Definition['From'] = '來自';
 
-$Definition['Garden.Import.Description'] = 'Use this page to import data from another forum that was exported using Vanilla\'s exporter. For more information <a href="%s">see our importing documentation</a>.';
 $Definition['Generate'] = '產生';
 $Definition['Guest'] = '訪客';
 
@@ -95,7 +93,6 @@ $Definition['Invited by'] = '邀請人';
 $Definition['Last Visit'] = '最後訪問';
 $Definition['Locale Name'] = '語言名稱';
 $Definition['Locales'] = '語言';
-$Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once an locale has been added to your %s folder, you can enable or disable it here.';
 $Definition['Location'] = '位置';
 
 $Definition['Manage Applicants'] = '管理申請人';
@@ -173,7 +170,6 @@ $Definition['Status'] = '狀態';
 $Definition['Subject'] = '主旨';
 
 $Definition['Temporary (302)'] = '臨時移動 (302)';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = '謝謝！';
 $Definition['The invitation was removed successfully.'] = '邀請已經成功刪除.';
 $Definition['Themes'] = '主題';

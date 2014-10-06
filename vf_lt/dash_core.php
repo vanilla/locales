@@ -179,8 +179,8 @@ $Definition['Discussions Layout'] = 'Diskusijų išdėstymas';
 $Definition['Discussion  Subject'] = 'Diskusija | Tema';
 $Definition['Disqus Settings'] = 'Disqus nustatymai';
 $Definition['Download Locale List'] = 'Atsiųsti lokalių sąrašą';
-$Definition['DownloadLocalePack'] = 'Atsiųsti';
 $Definition['Download Locale Pack'] = 'Atsiųsti lokalės paketą';
+$Definition['DownloadLocalePack'] = 'Atsiųsti';
 
 $Definition['edit'] = 'redaguoti';
 $Definition['Edit %s'] = 'Koreguoti %s';

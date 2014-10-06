@@ -270,8 +270,8 @@ $Definition['Don\'t Refresh'] = 'Yenilemeyiniz';
 $Definition['Don\'t use Categories'] = 'Kategori kullanma';
 $Definition['Do not display the categories in the side panel.'] = 'Kategoriler yan panelde görüntülenmez.';
 $Definition['Download Locale List'] = 'Yerel listeyi indir';
-$Definition['DownloadLocalePack'] = 'İndir';
 $Definition['Download Locale Pack'] = 'Yerel paketi indir';
+$Definition['DownloadLocalePack'] = 'İndir';
 
 $Definition['edit'] = 'düzenle';
 $Definition['Edit %s'] = '%s Düzenle ';

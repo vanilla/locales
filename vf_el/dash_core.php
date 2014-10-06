@@ -293,8 +293,8 @@ $Definition['Don\'t Refresh'] = 'Να μη γίνεται ανανέωση';
 $Definition['Don\'t use Categories'] = 'Να μη χρησιμοποιούνται Κατηγορίες';
 $Definition['Do not display the categories in the side panel.'] = 'Να μην εμφανίζονται οι κατηγορίες στο πλαϊνό πάνελ.';
 $Definition['Download Locale List'] = 'Παραλαβή Λίστας Μεταφράσεων';
-$Definition['DownloadLocalePack'] = 'Παραλαβή';
 $Definition['Download Locale Pack'] = 'Παραλαβή Πακέτου Μετάφρασης';
+$Definition['DownloadLocalePack'] = 'Παραλαβή';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Σύρτε & εναποθέστε τις κατηγορίες για να τις ταξινομήσετε και να τις ενθέσετε.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Σύρτε και εναποθέστες τις παρακάτω κατηγορίες για να τις ταξινομήσετε και να τις εναποθέσετε.';
 

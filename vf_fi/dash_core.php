@@ -281,8 +281,8 @@ $Definition['Don\'t Refresh'] = '&Auml;l&auml; p&auml;ivit&auml;';
 $Definition['Don\'t use Categories'] = '&Auml;l&auml; k&auml;yt&auml; kategorioita';
 $Definition['Do not display the categories in the side panel.'] = '&Auml;l&auml; listaa kategorioita sivupaneelissa.';
 $Definition['Download Locale List'] = 'Lataa kielitiedostojen listaus';
-$Definition['Download Locale Pack'] = 'Lataa kielitiedostopaketti';
 $Definition['DownloadLocalePack'] = 'Lataa';
+$Definition['Download Locale Pack'] = 'Lataa kielitiedostopaketti';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Raahaa ja pudota kategoriat haluamaasi j&auml;rjestykseen. ';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Raahaa ja pudota kategorioita alla haluamaasi j&auml;rjestykseen. ';
 

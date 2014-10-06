@@ -293,8 +293,8 @@ $Definition['Don\'t Refresh'] = 'อย่ารีเฟรช';
 $Definition['Don\'t use Categories'] = 'ไม่ใช้หมวดหมู่';
 $Definition['Do not display the categories in the side panel.'] = 'ไม่แสดงหมวดหมู่ไว้ด้านข้าง';
 $Definition['Download Locale List'] = 'ดาวน์โหลดรายการภาษา';
-$Definition['DownloadLocalePack'] = 'ดาวน์โหลด';
 $Definition['Download Locale Pack'] = 'ดาวน์โหลดแพ็คภาษา';
+$Definition['DownloadLocalePack'] = 'ดาวน์โหลด';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Drag &amp; Drop หมวดหมู่เพื่อจัดเรียงและจัดลำดับชั้น';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag &amp; Drop หมวดหมู่ด้านล่างเพื่อจัดเรียงและจัดลำดับชั้น';
 

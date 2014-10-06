@@ -452,8 +452,8 @@ $Definition['Invalid password.'] = 'Mật khẩu bạn nhập chưa chính xác.
 $Definition['Invitations'] = 'Thư mời';
 $Definition['Invite'] = 'Mời';
 $Definition['InviteErrorPermission'] = 'Xin lỗi, bạn chưa đủ quyền hạn.';
-$Definition['IPAddress'] = 'Địa chỉ IP';
 $Definition['IP Address'] = 'Địa chỉ IP';
+$Definition['IPAddress'] = 'Địa chỉ IP';
 $Definition['I remember now!'] = 'Nhớ rồi!';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Còn chờ gì nữa mà không mau đăng nhập hoặc đăng ký để cùng tham gia thảo luận với cộng đồng!';
 
@@ -564,8 +564,8 @@ $Definition[' now.'] = 'bây giờ.';
 
 $Definition['Off Topic'] = 'Lạc đề';
 $Definition['Okay'] = 'OK';
-$Definition['Old Password'] = 'Mật khẩu cũ';
 $Definition['OldPassword'] = 'Mật khẩu cũ';
+$Definition['Old Password'] = 'Mật khẩu cũ';
 $Definition['on'] = 'bật';
 $Definition['Only show followed categories'] = 'Chỉ hiển thị danh mục đang theo dõi';
 $Definition['OpenID Settings'] = 'Thiết lập OpenID';
@@ -726,8 +726,8 @@ $Definition['Signature Code'] = 'Mã chữ ký';
 $Definition['Signature invalid.'] = 'Chữ ký không hợp lệ';
 $Definition['Signatures'] = 'Chữ ký';
 $Definition['Signature Settings'] = 'Thiết lập chữ ký';
-$Definition['SignIn'] = 'Đăng nhập';
 $Definition['Sign In'] = 'Đăng nhập';
+$Definition['SignIn'] = 'Đăng nhập';
 $Definition['SigningOut'] = 'Xin vui lòng đợi giây lát.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Đăng nhập </a> hoặc <a href="{RegisterUrl,html}">Đăng ký</a> để gửi bình luận.';
 $Definition['Sign in to vote!'] = 'Đăng nhập để vote!';

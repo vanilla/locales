@@ -447,8 +447,8 @@ $Definition['Not Verified'] = 'Nie zweryfikowany';
 
 $Definition[' now.'] = 'teraz.';
 
-$Definition['Old Password'] = 'Stare hasło';
 $Definition['OldPassword'] = 'Stare hasło';
+$Definition['Old Password'] = 'Stare hasło';
 $Definition['on'] = 'na';
 $Definition['Only show followed categories'] = 'Pokaż tylko obserwowane kategorie';
 $Definition['OpenID Settings'] = 'Ustawienia OpenID';
@@ -542,8 +542,8 @@ $Definition['Share'] = 'Podziel się';
 $Definition['she'] = 'ona';
 $Definition['Signature Code'] = 'Kod podpisu';
 $Definition['Signature Settings'] = 'Ustawienia podpisu';
-$Definition['SignIn'] = 'Zaloguj się';
 $Definition['Sign In'] = 'Zaloguj się';
+$Definition['SignIn'] = 'Zaloguj się';
 $Definition['Sign In with Facebook'] = 'Zaloguj się z Facebook';
 $Definition['Sign In with Google'] = 'Zaloguj się przy pomocy Google';
 $Definition['Sign In with OpenID'] = 'Zaloguj się przy pomocy OpenID';
