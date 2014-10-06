@@ -303,8 +303,8 @@ $Definition['Don\'t Refresh'] = 'Nicht aktualisieren';
 $Definition['Don\'t use Categories'] = 'Kategorien nicht benutzen';
 $Definition['Do not display the categories in the side panel.'] = 'Kategorien nicht in Seitenleiste anzeigen.';
 $Definition['Download Locale List'] = 'Lokalisierungsliste herunterladen';
-$Definition['Download Locale Pack'] = 'Lokalisierungspaket herunterladen';
 $Definition['DownloadLocalePack'] = 'Herunterladen';
+$Definition['Download Locale Pack'] = 'Lokalisierungspaket herunterladen';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Sortiere und verschatele die Kategorien per „Drag &amp; Drop“.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Sortiere die Kategorien unten per drag and drop.';
 

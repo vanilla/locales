@@ -296,8 +296,8 @@ $Definition['Don\'t Refresh'] = 'Ne frissíts';
 $Definition['Don\'t use Categories'] = 'Ne használj kategóriákat';
 $Definition['Do not display the categories in the side panel.'] = 'Ne jelenítsd meg a kategóriákat az oldalpanelen.';
 $Definition['Download Locale List'] = 'Nyelvi lista letöltése';
-$Definition['Download Locale Pack'] = 'Nyelvi csomag letöltése';
 $Definition['DownloadLocalePack'] = 'Letöltés';
+$Definition['Download Locale Pack'] = 'Nyelvi csomag letöltése';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Húzd-és-dobd a kategóriákat, hogy rendezd és beágyazd őket.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Húzd-és-dobd az alábbi kategóriákat, hogy rendezd és beágyazd őket.';
 

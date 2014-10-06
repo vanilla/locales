@@ -405,6 +405,7 @@ $Definition['Edit Profile'] = 'Редактировать аккаунт';
 $Definition['Edit Tag'] = 'Редактировать тэг';
 $Definition['Edit Thumbnail'] = 'Редактирование аватара';
 $Definition['Eighth Anniversary'] = 'Восьмая годовщина';
+$Definition['Email'] = 'Электронная почта';
 $Definition['Email/Username'] = 'Почта или Логин';
 $Definition['EmailConfirmEmail'] = 'Вам необходимо подтвердить Ваш email. 
 Для подтверждения нажмите на ссылку ниже: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
@@ -436,6 +437,7 @@ Email: %6$s
 
 Адрес сайте: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Использовать в качестве отправителя следующий адрес электронной почты:';
+$Definition['Email Source'] = 'Электронная почта';
 $Definition['EmailStoryNotification'] = '%1$s
 %3$s
 ---
@@ -672,6 +674,7 @@ $Definition['Locale'] = 'ru-RU';
 $Definition['Log'] = 'Зайти';
 $Definition['log'] = 'журнал';
 $Definition['Login with Facebook'] = 'Войти с Facebook';
+$Definition['LOL'] = 'ЛОЛ';
 
 $Definition['Major'] = 'Главный';
 $Definition['Make me invisible? (Will not show you on the list)'] = 'Сделатьcя невидимым? (Не выдавать присутствие на сайте).';
@@ -854,9 +857,7 @@ $Definition['Photogenic'] = 'Фотогеничный';
 $Definition['Picture'] = 'Изображение';
 $Definition['Pin'] = 'Прикрепить';
 $Definition['Pinned'] = 'Закрепленные';
-$Definition['Please join my group.'] = '
-        Пожалуйста, присоединяйтесь к моей группе.
-
+$Definition['Please join my group.'] = 'Пожалуйста, присоединяйтесь к моей <a href="{Url,html}">группе</a>.
 ';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Пожалуйста, подождите пока вы будете перенаправленны. Если в течении 10 секун ничего не произошло, кликните <a href="%s">тут</a>.';
 $Definition['Poll'] = 'Голосование';
@@ -891,8 +892,8 @@ $Definition['Private Note for Moderators'] = 'Скрытая заметка дл
 $Definition['Problem with credentials.'] = 'Проблема с учетными данными.';
 $Definition['Proceed'] = 'Продолжить';
 $Definition['Profile'] = 'Профиль';
-$Definition['Profile  Fields'] = 'Поля профиля';
 $Definition['Profile Fields'] = 'Поля профиля';
+$Definition['Profile  Fields'] = 'Поля профиля';
 $Definition['ProfileFieldsCustomDescription'] = 'Эти поля могут быть использованы для вывода произвольной информации в профиле. Вы можете указать такие данные, как "Семейное положение", "Skype", или "Любимый динозавр". Будьте изобретательны!';
 $Definition['Profile Page'] = 'Страница профиля';
 $Definition['Profile Picture'] = 'Личная картинка';
@@ -1053,6 +1054,7 @@ $Definition['Split Comments'] = 'Разделить комментарии';
 $Definition['Spoiler'] = 'Спойлер';
 $Definition['Spoof User'] = 'Подделать пользователя';
 $Definition['Start'] = 'Старт';
+$Definition['Start a Group'] = 'Создать группу';
 $Definition['Start a New Conversation'] = 'Новое сообщение (3)';
 $Definition['Start a New Discussion'] = 'Создать дискуссию';
 $Definition['Start Conversation'] = 'Отправить';
@@ -1280,6 +1282,7 @@ $Definition['Who\'s going?'] = '
 
 ';
 $Definition['Who\'s Online'] = 'Кто сейчас на сайте?';
+$Definition['Whoops!'] = 'Ой!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Упс! Вам необходимо зарегистрироваться прежде чем вы сможете отправить письмо на наш сайт.';
 $Definition['Whos Online'] = 'Кто сейчас на сайте?';
 $Definition['Why are you Banning this user?'] = 'За что вы решили отлучить этого пользователя?';

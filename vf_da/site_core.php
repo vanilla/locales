@@ -770,7 +770,7 @@ $Definition['Photogenic'] = 'Fotogen';
 $Definition['Picture'] = 'Billede';
 $Definition['Pin'] = 'Fastgør';
 $Definition['Pinned'] = 'Fastgjort';
-$Definition['Please join my group.'] = 'Venligst tilmeld dig min gruppe.';
+$Definition['Please join my group.'] = 'Venligst tilmeld dig min <a href="{Url,html}">gruppe</a>.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Vent venligst mens du Omdirigerer. Hvis du ikke Omdirigerer, klik her <a href="%s">here</a>.';
 $Definition['Poll'] = 'Afstemning';
 $Definition['Poll Options'] = 'Indstillinger for afstemning';

@@ -792,7 +792,7 @@ $Definition['Photogenic'] = '適於攝影的';
 $Definition['Picture'] = '圖片';
 $Definition['Pin'] = '釘下大頭針';
 $Definition['Pinned'] = '已釘下大頭針';
-$Definition['Please join my group.'] = '請加入我的組。';
+$Definition['Please join my group.'] = '請加入我的<a href="{Url,html}">群組</a>。';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '頁面切換中，請稍候。如果等待太久，請直接點選 <a href="%s">這裡</a>';
 $Definition['Poll'] = '投票';
 $Definition['Poll Options'] = '投票選項';

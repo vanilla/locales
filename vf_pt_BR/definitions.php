@@ -4,7 +4,7 @@
   'Locale' => 'pt_BR',
   'Name' => 'Portuguese (Brazil) Transifex',
   'Description' => 'Portuguese (Brazil) language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/pt_BR/">here</a>.',
-  'Version' => '2014.10.06p0024',
+  'Version' => '2014.10.06p1656',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/pt_BR/',
 );

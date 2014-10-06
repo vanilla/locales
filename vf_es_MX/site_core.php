@@ -63,6 +63,7 @@ $Definition['%s votes'] = '%s votos';
 $Definition['%s was removed from the %s and added to the %s'] = '%s fue retirado de %s y añadido a %s';
 $Definition['%s WTFs'] = '%s ¡qué cosas?';
 
+$Definition['(All)'] = '(Todos)';
 $Definition['(empty message)'] = '(mensaje vacío)';
 
 $Definition['+%s Guests'] = '+%s Invitados';
