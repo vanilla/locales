@@ -514,8 +514,8 @@ $Definition['Female'] = 'Женский';
 $Definition['Fifth Anniversary'] = 'Пятая годовщина';
 $Definition['FileName'] = 'Имя файла';
 $Definition['Filename'] = 'Название файла';
-$Definition['File Size'] = 'Размер файла';
 $Definition['FileSize'] = 'Размер файла';
+$Definition['File Size'] = 'Размер файла';
 $Definition['First Anniversary'] = 'Первая годовщина';
 $Definition['First Comment'] = 'Первый комментарий';
 $Definition['Flag'] = 'Упрекнуть';
@@ -628,8 +628,8 @@ $Definition['Invite one or more people to join this group.'] = '
         Пригласите в эту группу одного или нескольких человек.
 
 ';
-$Definition['IP Address'] = 'IP адрес';
 $Definition['IPAddress'] = 'IP адрес';
+$Definition['IP Address'] = 'IP адрес';
 $Definition['I remember now!'] = 'Ой, вспомнил!';
 $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Сообщение';
@@ -891,8 +891,8 @@ $Definition['Private Note for Moderators'] = 'Скрытая заметка дл
 $Definition['Problem with credentials.'] = 'Проблема с учетными данными.';
 $Definition['Proceed'] = 'Продолжить';
 $Definition['Profile'] = 'Профиль';
-$Definition['Profile Fields'] = 'Поля профиля';
 $Definition['Profile  Fields'] = 'Поля профиля';
+$Definition['Profile Fields'] = 'Поля профиля';
 $Definition['ProfileFieldsCustomDescription'] = 'Эти поля могут быть использованы для вывода произвольной информации в профиле. Вы можете указать такие данные, как "Семейное положение", "Skype", или "Любимый динозавр". Будьте изобретательны!';
 $Definition['Profile Page'] = 'Страница профиля';
 $Definition['Profile Picture'] = 'Личная картинка';
@@ -1021,8 +1021,8 @@ $Definition['Signature Code'] = 'Подпись';
 $Definition['Signature invalid.'] = 'Подпись недействительна.';
 $Definition['Signatures'] = 'Подписи';
 $Definition['Signature Settings'] = 'Настройки подписи';
-$Definition['Sign In'] = 'Войти';
 $Definition['SignIn'] = 'Вход';
+$Definition['Sign In'] = 'Войти';
 $Definition['SigningOut'] = 'Подождите пока система завершит вашу сессию.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Войдите</a> или <a href="{RegisterUrl,html}">Зарегистрируйтесь</a> чтобы комментировать.';
 $Definition['Sign in to vote!'] = 'Войдите, чтобы голосовать!';
@@ -1110,6 +1110,7 @@ $Definition['The %s you were looking for could not be found.'] = '
 
 ';
 $Definition['the category'] = 'категория';
+$Definition['The content you were looking for has been deleted.'] = 'Контент, который вы искали, был удален.';
 $Definition['The conversation has been cleared.'] = 'Диалог был очищен.';
 $Definition['The email you entered in use by another member.'] = 'На указанный Email уже зарегистрирован аккаунт.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Этот Email уже привязан к существующему акаунту.';
@@ -1293,15 +1294,11 @@ $Definition['WTF'] = 'Чтоза#!';
 $Definition['Yes'] = 'Да';
 $Definition['You'] = 'вы';
 $Definition['you'] = 'вы';
-$Definition['You\'re application for this group was denied.'] = 'Ваша заявка на вступление в эту группу была отклонена.';
 $Definition['You\'re banned from joining this group.'] = 'Вам запрещено вступать в эту группу.';
 $Definition['You\'ve already created the maximum number of groups.'] = 'Вы уже создали максимальное количество групп.';
 $Definition['You\'ve applied to join this group.'] = 'Вы подали заявку на вступление в группу.';
-$Definition['You\'ve asked questions that have now been answered'] = '<a href="{/обсуждения/мои?qna=Отвеченные,url}">Вы задали вопросы, на которые имеются ответы</a> Убедитесь, что вы принимаете/отвергаете ответы.';
-$Definition['You\'ve been invited to join {Name}.'] = '
-        Вас пригласили присоединиться к {название}.
-
-';
+$Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Вы задали вопросы, на которые имеются ответы</a> Убедитесь, что вы принимаете/отвергаете ответы.';
+$Definition['You\'ve been invited to join {Name}.'] = 'Вас пригласили присоединиться к {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Вы были заключены в тюрьму.';
 $Definition['You already have an account here.'] = 'У вас здесь уже есть аккаунт';
 $Definition['You are about to ban {User.UserID,user}.'] = 'Вы собираетесь отлучить {User.UserID,user}.';
@@ -1348,6 +1345,7 @@ $Definition['You must agree to the terms of service.'] = 'Вы должны по
 $Definition['You need to confirm your email address.'] = 'Вам нужно подтвердить email адрес. Для того, чтобы повторно послать письмо активации, нажмите <a href="/entry/emailconfirmrequest">здесь</a>.';
 $Definition['You need to sign in before you can do this.'] = 'Вы должны войти в систему прежде, чем вы можете это сделать.';
 $Definition['your'] = 'ваше';
+$Definition['Your application for this group was denied.'] = 'Ваша заявка на вступление в эту группу была отклонена.';
 $Definition['Your changes have been saved.'] = 'Ваши изменения сохранены.';
 $Definition['Your changes have been saved successfully.'] = 'Ваши изменения были успешно сохранены.';
 $Definition['Your changes were saved.'] = 'Ваши изменения сохранены.';

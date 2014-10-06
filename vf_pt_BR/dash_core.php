@@ -295,8 +295,8 @@ $Definition['Don\'t Refresh'] = 'Não Atualize';
 $Definition['Don\'t use Categories'] = 'Não usar Categorias';
 $Definition['Do not display the categories in the side panel.'] = 'Não mostre as categorias no painel lateral.';
 $Definition['Download Locale List'] = 'Baixar Lista de Localização';
-$Definition['Download Locale Pack'] = 'Baixar o Pacote de Localização';
 $Definition['DownloadLocalePack'] = 'Baixar';
+$Definition['Download Locale Pack'] = 'Baixar o Pacote de Localização';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Arraste &amp; Solte categorias para organizar e aninhar.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Arraste e solte as categorias abaixo para organizar e aninhar.';
 
