@@ -297,8 +297,8 @@ $Definition['Don\'t Refresh'] = '不可刷新。';
 $Definition['Don\'t use Categories'] = '停用版块';
 $Definition['Do not display the categories in the side panel.'] = '在边栏中不显示板块。';
 $Definition['Download Locale List'] = '下载语言列表';
-$Definition['DownloadLocalePack'] = '下载';
 $Definition['Download Locale Pack'] = '下载语言包';
+$Definition['DownloadLocalePack'] = '下载';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = '拖动对板块进行排序和分级。';
 $Definition['Drag and drop the categories below to sort and nest them.'] = '拖动对板块进行排序和分级。';
 
