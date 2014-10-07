@@ -800,7 +800,7 @@ $Definition['Photogenic'] = 'Photogenic';
 $Definition['Picture'] = 'Picture';
 $Definition['Pin'] = 'Pin';
 $Definition['Pinned'] = 'Pinned';
-$Definition["Please join my group."] = "Please join my group.";
+$Definition["Please join my group."] = 'Please join my <a href="{Url,html}">group</a>.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.';
 $Definition['Poll'] = 'Poll';
 $Definition['Poll Options'] = 'Poll Options';
