@@ -12,9 +12,3 @@ file_filter = tx/<lang>/dash_core.php
 source_file = tx-source/dash_core.php
 source_lang = en_CA
 type = PHP_ALT_ARRAY
-
-[vanilla.archive_core]
-file_filter = tx/<lang>/archive_core.php
-source_file = tx-source/archive_core.php
-source_lang = en_CA
-type = PHP_ALT_ARRAY
