@@ -369,7 +369,7 @@ $Definition['Edit My Profile'] = 'Edytuj swój profil';
 $Definition['Edit My Thumbnail'] = 'Edytuj swoją miniaturkę';
 $Definition['editor.BBCodeHelpText'] = 'Możesz wykorzystywać <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> w swoim poście.';
 $Definition['editor.HtmlHelpText'] = 'Możesz wykorzystywać <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">prosty HTML</a> w swoim poście.';
-$Definition['editor.MarkdownHelpText'] = 'Możesz wykorzystywać <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> w swoim poście.';
+$Definition['editor.MarkdownHelpText'] = 'Możesz wykorzystywać <a href="http://pl.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> w swoim poście.';
 $Definition['editor.TextHelpText'] = 'Wykorzystujesz tekst niesformatowany w swoim poście.';
 $Definition['editor.WysiwygHelpText'] = 'Wykorzystujesz <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> w swoim poście.';
 $Definition['Edit Preferences'] = 'Edytuj preferencje';

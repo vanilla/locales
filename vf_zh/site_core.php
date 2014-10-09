@@ -373,7 +373,7 @@ $Definition['Edit My Profile'] = '编辑个人资料';
 $Definition['Edit My Thumbnail'] = '编辑缩略图';
 $Definition['editor.BBCodeHelpText'] = '您可以在您的帖子中使用 <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a>。';
 $Definition['editor.HtmlHelpText'] = '您可以在您的帖子中使用 <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a>。';
-$Definition['editor.MarkdownHelpText'] = '您可以在您的帖子中使用 <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a>。';
+$Definition['editor.MarkdownHelpText'] = '您可以在您的帖子中使用 <a href="http://zh.wikipedia.org/wiki/Markdown" target="_new">Markdown</a>。';
 $Definition['editor.TextHelpText'] = '您在您的帖子中使用纯文本。';
 $Definition['editor.WysiwygHelpText'] = '您在您的帖子中使用 <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a>。';
 $Definition['Edit Preferences'] = '编辑首选项';

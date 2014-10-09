@@ -377,7 +377,7 @@ $Definition['Edit My Profile'] = 'プロフィールを編集';
 $Definition['Edit My Thumbnail'] = 'サムネイルを編集';
 $Definition['editor.BBCodeHelpText'] = '投稿には<a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBコード</a>を使用できます';
 $Definition['editor.HtmlHelpText'] = '投稿には<a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">簡単なHTML</a>を使うことができます。';
-$Definition['editor.MarkdownHelpText'] = '投稿には<a href="http://en.wikipedia.org/wiki/Markdown" target="_new">マークダウン</a>を使用できます。';
+$Definition['editor.MarkdownHelpText'] = '投稿には<a href="http://ja.wikipedia.org/wiki/Markdown" target="_new">マークダウン</a>を使用できます。';
 $Definition['editor.TextHelpText'] = '投稿にプレーンテキストを使用しています。';
 $Definition['editor.WysiwygHelpText'] = ' 投稿には<a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a>が使用されます。 ';
 $Definition['Edit Preferences'] = '個人設定を編集';

@@ -24,6 +24,7 @@ $Definition['%s (Current)'] = '%s (الحالي)';
 $Definition['%s Agrees'] = '%s موافق عليه';
 $Definition['%s and you'] = '%s و أنت';
 $Definition['%s Awesomes'] = '%s مدهش';
+$Definition['%s by %s'] = '%s عن طريق %s';
 $Definition['%s changed %s\'s permissions.'] = '%s غيّر صلاحيات %s.';
 $Definition['%s Comment'] = '%s تعليق';
 $Definition['%s comment'] = '%s تعليق';
@@ -44,6 +45,8 @@ $Definition['%s level deep'] = '%s عمق المستوى';
 $Definition['%s levels deep'] = '%s عمق المستويات';
 $Definition['%s Likes'] = '%s محبة';
 $Definition['%s LOLs'] = '%s ضحكة رنانة';
+$Definition['%s member'] = '%s عضو';
+$Definition['%s members'] = '%s عضواً';
 $Definition['%s mentioned %s in a %s.'] = '%s تم ذكره %s في %s.';
 $Definition['%s message'] = '%s رسالة';
 $Definition['%s messages'] = '%s رسائل';
@@ -58,6 +61,7 @@ $Definition['%s new comments since you last read this.'] = 'هناك %s تعلي
 $Definition['%s New Plural'] = '%s جدد';
 $Definition['%s new plural'] = '%s جديد';
 $Definition['%s Not Found'] = '%s غير موجود';
+$Definition['%s not found.'] = 'لم يتم العثور على %s';
 $Definition['%s Point'] = '%s نقطة';
 $Definition['%s point'] = '%s نقطة';
 $Definition['%s Points'] = '%s نقاط';
@@ -73,6 +77,8 @@ $Definition['%s view'] = '%s مشاهدة';
 $Definition['%s views'] = '%s مشاهدة';
 $Definition['%s votes'] = '%s تصويتات';
 $Definition['%s was removed from the %s and added to the %s'] = '%s حذف من %s و اضيف الى the %s';
+$Definition['%s week'] = '%s أسبوع';
+$Definition['%s weeks'] = '%s أسبوع';
 $Definition['%s WTFs'] = '%s إمتعاض';
 $Definition['%s year'] = '%s  سنة';
 $Definition['%s years'] = '%s  سنوات';
@@ -94,6 +100,7 @@ $Definition['[Deleted User]'] = '[حذف المستخدم]';
 
 $Definition['About'] = 'عن الموقع';
 $Definition['AboutToDelete'] = 'أنت على وشك حذف %s.';
+$Definition['AboutToDeleteSelectedDiscussions'] = 'أنت بصدد حذف %1$s من المناقشات المحددة الـ %2$s';
 $Definition['Abuse'] = 'تجاوز';
 $Definition['Accept'] = 'موافقة';
 $Definition['Accept this answer.'] = 'موافقة على هذه الإجابة';
@@ -138,6 +145,9 @@ $Definition['Advanced Stuff'] = 'الطاقم الاداري المتقدم';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'خطأ فادح أثناء معالجة الطلب. <br /> وأرجع الملقم الاستجابة التالية: %s';
 $Definition['Agree'] = 'وافق';
 $Definition['Alert'] = 'إنذار';
+$Definition['Align center'] = 'المحاذاة بالوسط';
+$Definition['Align left'] = 'المحاذاة يساراً';
+$Definition['Align right'] = 'المحاذاة يميناً';
 $Definition['All %s'] = 'كل %s';
 $Definition['All %s...'] = 'الكل %s...';
 $Definition['All Bookmarks'] = 'كل الإشارات المرجعية';
@@ -146,6 +156,7 @@ $Definition['all categories'] = 'جميع الأقسام';
 $Definition['All Conversations'] = 'جميع المشاركات';
 $Definition['All Discussions'] = 'جميع المواضيع';
 $Definition['All Events'] = 'كل الأحداث';
+$Definition['All Members'] = 'جميع الأعضاء';
 $Definition['All members'] = 'كل الأعضاء';
 $Definition['Allow'] = 'السماح';
 $Definition['Allow other members to see your email?'] = 'السماح للأعضاء الآخرين برؤية البريد الالكتروني الخاص بك؟';
@@ -170,7 +181,9 @@ $Definition['Apply for membership'] = 'التقدم بطلب للعضوية';
 $Definition['Approve'] = 'قبول';
 $Definition['Approve Applicant'] = 'قبول';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'هل أنت متأكد تماما من أنك تريد أن تأخذ هذا القرار؟';
+$Definition['Are you attending this event?'] = 'هل ستحضر هذا الحدث؟';
 $Definition['Are you sure you want to delete this %s?'] = 'هل أنت متأكد أنك تريد حذف هذا %s?';
+$Definition['Are you sure you want to do that?'] = 'هل أنت متأكد من أنك تريد فعل هذا؟';
 $Definition['Are you sure you want to do this?'] = 'هل أنت متأكد أنك تريد أن تفعل هذا؟';
 $Definition['Are you sure you want to join this group?'] = 'هل أنت متأكد من رغبتك في الانضمام لهذه المجموعة؟';
 $Definition['Are you sure you want to leave this group?'] = 'هل أنت متأكد من رغبتك في ترك المجموعة؟';
@@ -178,6 +191,7 @@ $Definition['Are you sure you wish to continue?'] = 'هل أنت متأكد أن
 $Definition['Ask a Question'] = 'طرح سؤال';
 $Definition['Ask Question'] = 'طرح سؤال';
 $Definition['Attach a file'] = 'إرفاق ملف';
+$Definition['Attach image/file'] = 'إرفاق صورة/ملف';
 $Definition['Attachments'] = 'المرفقات';
 $Definition['Attach this warning to the %s.'] = 'إرفاق هذا التحذير بـ %s.';
 $Definition['AttemptingSignOut'] = 'انت تحاول تسجيل الخروج. هل أنت متأكد من أنك تريد %s?';
@@ -202,6 +216,7 @@ $Definition['Banned'] = 'محظور';
 $Definition['Banned for being abusive.'] = 'محظور لإستعمال مسيئ';
 $Definition['Banned for spamming.'] = 'محظور بسبب الرسائل المزعجة.';
 $Definition['Banned users can no longer access the site.'] = 'المستخدمون المحظورون لا يمكنهم الدخول الى الموقع.';
+$Definition['Banner'] = 'إعلان';
 $Definition['Ban User'] = 'حظر المستخدم';
 $Definition['Ban Value'] = 'قيمة الحظر';
 $Definition['Best Answer'] = 'أفضل إجابة';
@@ -212,6 +227,7 @@ $Definition['Blank Discussion Topic'] = 'موضوع فارغ المحتوى';
 $Definition['Blank Message'] = 'رسالة فارغة';
 $Definition['Blog'] = 'مدونة';
 $Definition['Blogs'] = 'مدونة';
+$Definition['Body'] = 'جسم';
 $Definition['Bold'] = 'غامق';
 $Definition['Bookmark'] = 'تعليم الموضوع';
 $Definition['bookmarked discussion'] = 'مناقشة مضافة إلى الإشارات المرجعية';
@@ -224,6 +240,7 @@ $Definition['by'] = 'بواسطة';
 $Definition['by Date'] = 'في تاريخ';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'برفعك هذا الملف أنت تشهد أن لديك الحق في توزيع هذه الصورة، وأنه لا يشكل انتهاكا لشروط الخدمة.';
 
+$Definition['Cancel'] = 'إلغاء';
 $Definition['Casual'] = 'غير نظامي';
 $Definition['Categories'] = 'الأقسام';
 $Definition['CategoriesShowFollowed'] = 'اظهر فقط الاقسام المتابعة';
@@ -237,6 +254,7 @@ $Definition['Category Management'] = 'إدارة الأقسام';
 $Definition['Category Notifications'] = 'إخطارات الأقسام';
 $Definition['Category to Use'] = 'القسم المستخدم';
 $Definition['Change'] = 'تغيير';
+$Definition['Change language'] = 'تغيير اللغة';
 $Definition['Change My Password'] = 'تغيير كلمة مروري';
 $Definition['Change My Picture'] = 'تغيير صورتي الشخصية';
 $Definition['Change Password'] = 'تغيير كلمة المرور';
@@ -254,28 +272,40 @@ $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'ان
 $Definition['Click accept or reject beside an answer.'] = 'انقر قبول أو رفض بجانب جواب.';
 $Definition['clicking here'] = 'بالضغط هنا';
 $Definition['Click the %s beside discussions to bookmark them.'] = 'أنقر الـ %s المحاذية للمواضيع لحفظها في المفضلة';
+$Definition['Click to re-attach'] = 'انقر لإعادة الإرفاق';
+$Definition['Close'] = 'إغلاق';
 $Definition['Closed'] = 'مغلق';
 $Definition['Close this discussion'] = 'غلق هذه المشاركة';
+$Definition['Color'] = 'اللون';
 $Definition['Combo Breaker'] = 'تحرير وسرد قاطع';
 $Definition['Comment'] = 'تعليق';
 $Definition['comment'] = 'تعليق';
 $Definition['Comment As ...'] = 'تعليق ك...';
 $Definition['Comment by %s'] = 'تعليق بواسطة %s';
 $Definition['Comment in'] = 'في';
+$Definition['Commenting as %1$s (%2$s)'] = 'التعليق باسم  %1$s <span class="SignOutWrap">(%2$s)</span>';
 $Definition['Commenting not allowed.'] = 'التعليق غير مسموح به.';
+$Definition['Comments'] = 'التعليقات';
+$Definition['comments'] = 'تعليقات';
 $Definition['Comments are between {UserID,you}.'] = 'التعليقات بين {UserID,you}.';
 $Definition['Community'] = 'المجموعة';
 $Definition['Community Guidelines'] = 'إرشادات المجموعة';
 $Definition['Completely delete the warning.'] = 'ازالة التحذير نهائيا';
+$Definition['Confirm'] = 'تأكيد';
+$Definition['Confirm Email'] = 'تأكيد البريد الإلكتروني';
 $Definition['Confirm Password'] = 'تأكيد كلمة المرور';
 $Definition['Connect'] = 'اتصال';
 $Definition['ConnectAccountExists'] = 'لديك حساب هنا مسبقاً.';
 $Definition['ConnectChooseName'] = 'اختر اسماً لتعرف بنفسك على الموقع.';
 $Definition['ConnectCreateAccount'] = 'إضافة معلومات &amp; إنشاء حساب';
 $Definition['Connected'] = 'متصل';
+$Definition['ConnectExistingPassword'] = 'أدخل كلمة المرور الخاصة بحسابك الموجود.';
 $Definition['Connecting...'] = 'إتصال...';
 $Definition['Connection'] = 'وصلة';
+$Definition['ConnectLeaveBlank'] = 'يترك فارغاً، إلا إذا كان مرتبطاً بحساب موجود.';
 $Definition['ConnectName'] = 'اسم المستخدم';
+$Definition['ConnectRegisteredName'] = 'اسم المستخدم المُسَجَّل خاصتك: <strong>%s</strong>';
+$Definition['Connect your profile to social networks.'] = 'اربط ملفك الشخصي بالشبكات الاجتماعية ليتم إعلامك بالأنشطة المتاحة هنا وشارك أنشطتك مع أصدقائك ومتابعيك.';
 $Definition['Contact Us'] = 'اتصل بنا';
 $Definition['conversation'] = 'محادثة';
 $Definition['Core'] = 'قلب';
@@ -298,12 +328,15 @@ $Definition['Date'] = 'تاريخ';
 $Definition['Date.DefaultDayFormat'] = '%Y/%m/%d';
 $Definition['Date.DefaultFormat'] = '%Y/%m/%d';
 $Definition['Date.DefaultYearFormat'] = '%Y/%m/%d';
+$Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'التاريخ. التنسيق المتوقع \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'تاريخ الاضافة';
+$Definition['Date Examples'] = 'أمثلة: الاثنين، اليوم، الأسبوع الماضي، 26 مارس، 3/26/04';
 $Definition['Date within'] = 'ضمن نطاق تاريخ';
 $Definition['days'] = 'أيام';
 $Definition['Define Thumbnail'] = 'انقر و اسحب عبر الصورة الخاصة لتحديد الصورة المصغرة.';
 $Definition['Delete'] = 'مسح';
 $Definition['Delete %s'] = 'حذف %s';
+$Definition['Delete Account'] = 'حذف الحساب';
 $Definition['Delete Conversation'] = 'حذف المشاركة';
 $Definition['Delete Discussion'] = 'حذف الموضوع';
 $Definition['Delete Group'] = 'حذف المجموعة';
@@ -317,6 +350,8 @@ $Definition['Disagree'] = 'تعارض';
 $Definition['Discussion'] = 'مناقشة';
 $Definition['discussion'] = 'موضوع';
 $Definition['Discussion Board'] = 'منصة المناقشة';
+$Definition['Discussions'] = 'مناقشات';
+$Definition['discussions'] = 'مناقشات';
 $Definition['Discussions Page'] = 'صفحة المشاركات';
 $Definition['Discussion Title'] = 'عنوان السؤال';
 $Definition['Dislike'] = 'الغاء الاعجاب';
@@ -327,10 +362,15 @@ $Definition['Don\'t have an account? %s'] = 'ليس لك حساب ؟ %s';
 $Definition['Do you want to expire or delete this warning?'] = 'هل تريد أن تنتهي صلاحيته أو حذف هذا التحذير؟';
 $Definition['Draft saved at %s'] = 'المسودة حفظت في %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'اسحب وحول تغيير حجم المربع أدناه لتحديد الرمز الخاص المصغر.';
+$Definition['Drop image/file'] = 'ترك صورة/ملف';
 
+$Definition['Earned'] = 'مُكتسب';
+$Definition['Edit'] = 'تعديل';
 $Definition['Edit Account'] = 'تعديل الحساب';
 $Definition['Edit Comment'] = 'تعديل التعليق';
 $Definition['Edit Discussion'] = 'تعديل المشاركة';
+$Definition['edited %s'] = 'تم تعديل %s';
+$Definition['Edited %s by %s.'] = 'تم تعديل %s بمعرفة %s.';
 $Definition['Edit My Account'] = 'تعديل حسابي';
 $Definition['Edit My Profile'] = 'تعديل ملفي الشخصي';
 $Definition['Edit My Thumbnail'] = 'تعديل صورتي المصغرة';
@@ -339,15 +379,27 @@ $Definition['editor.HtmlHelpText'] = 'يمكنك استعمال <a href="http://
 $Definition['editor.MarkdownHelpText'] = 'يمكنك استعمال <a href="http://en.wikipedia.org/wiki/Markdown"; target="_new">Markdown</a> في مداخلتك.';
 $Definition['editor.TextHelpText'] = 'إنك تستعمل نصا عاديا في مداخلتك.';
 $Definition['editor.WysiwygHelpText'] = 'أنت تستعمل <a href="https://en.wikipedia.org/wiki/WYSIWYG"; target="_new">Wysiwyg</a> في مداخلتك.';
+$Definition['Edit Preferences'] = 'تعديل التفضيلات';
 $Definition['Edit Profile'] = 'تعديل الملف الشخصي';
 $Definition['Edit Tag'] = 'تعديل علامة';
 $Definition['Edit Thumbnail'] = 'تعديل الصورة المصغرة';
 $Definition['Eighth Anniversary'] = 'الذكرى السنوية الثامنة';
 $Definition['Email'] = 'البريد الإلكتروني';
 $Definition['Email/Username'] = 'البريد الإلكتروني / إسم المستخدم';
+$Definition['EmailConfirmEmail'] = 'أنت بحاجة لتأكيد عنوان بريدك الإلكتروني قبل الاستمرار. يرجى تأكيد عنوان بريدك الإلكتروني بالضغط على الرابط التالي: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 نتمنى لك نهارا سعيدا!';
 $Definition['EmailHeader'] = 'مرحبا بك مجددا، {User.Name}!\\n';
+$Definition['EmailInvitation'] = 'مرحبا!
+
+قام %1$s بدعوتك للانضمام إلى %2$s. إذا كنت تريد الانضمام، يمكنك عمل ذلك بالضغط على هذا الرابط:
+
+%3$s';
+$Definition['EmailMembershipApproved'] = 'مرحباً يا %1$s،
+
+لقد تمت الموافقة على عضويتك. قم بتسجيل الدخول الآن على الرابط التالي:
+
+%2$s';
 $Definition['EmailNotification'] = '%1$s
 
 اتبع هذا الرابط لمشاهدتها:
@@ -356,16 +408,50 @@ $Definition['EmailNotification'] = '%1$s
 نتمنى لك يوماً طيباً!';
 $Definition['Email Notifications'] = 'اخطارات البريد الالكتروني';
 $Definition['Email Or Username'] = 'البريد الإلكتروني أو اسم المستخدم';
+$Definition['EmailPassword'] = 'قام %2$s بإعادة ضبط كلمة المرور خاصتك على %3$s. بيانات الصلاحية لتسجيل الدخول خاصتك الآن هي:
+
+البريد الإلكتروني: %6$s
+كلمة المرور: %5$s
+الرابط: %4$s
+';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'وسيتم تناول البريد الإلكتروني المرسلة من التطبيق من اسم وعنوان التالي';
 $Definition['Email Source'] = 'البريد الإلكتروني';
+$Definition['EmailStoryNotification'] = '%1$s
+
+%3$s
+
+---
+اتبع الرابط الموجود بأسفل لمراجعته:
+%2$s
+
+نتمنى لك يوماً رائعاً!';
 $Definition['Email Unavailable'] = 'البريد الالكتروني غير متوفر';
 $Definition['Email visible to other users'] = 'البريد الالكتروني مرئي لمستخدمين آخرين';
+$Definition['EmailWelcome'] = 'قام %2$s بإنشاء حسابٍ لك على %3$s. بيانات الصلاحية لتسجيل الدخول خاصتك هي:
+
+البريد الإلكتروني: %6$s
+كلمة المرور: %5$s
+الرابط: %4$s';
+$Definition['EmailWelcomeConnect'] = 'لقد قمت بالاتصال بـ {Title} بنجاح. هذه هي المعلومات الخاصة بك:
+
+اسم المستخدم: {User.Name}
+متصل مع: {ProviderName}
+
+يمكنك الوصول إلى الموقع على {/,exurl,domain}.';
 $Definition['EmailWelcomeRegister'] = 'تم تسجيلك بنجاح على موقع {Title}. و هذه معلوماتك:\\n
 \\n
   إسم المستخدم:{User.Name}\\n
   البريد الالكتروني:{User.Email}\\n
 \\n
 تستطيع الدخول إلى الموقع عبر هذا الرابط {/,exurl,domain}.';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">اقرأ القصة كاملة هنا</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">اقرأ القصة كاملةً هنا</a></p><div class="ClearFix"></div></div>';
+$Definition['Emoji'] = 'رموز تعبيرية';
+$Definition['End time?'] = 'إنهاء الوقت؟';
 $Definition['English'] = 'إنقليزية';
 $Definition['Enter your Email address'] = 'أدخل عنوان البريد الالكتروني';
 $Definition['Enter your email address'] = 'أدخل عنوان البريد الالكتروني';
@@ -376,9 +462,13 @@ $Definition['Error'] = 'خطأ';
 $Definition['ErrorBadInvitationCode'] = 'كود الدعوة التي قمت بتوفيرها غير صالحة.';
 $Definition['ErrorCredentials'] = 'آسف، لا يمكن العثور على أي حساب ذات صلة بإسم المستخدم / البريد الإلكتروني وكلمة المرور التي أدخلتها.';
 $Definition['ErrorPermission'] = 'مع الاسف, صلاحياتك غير كافية.';
+$Definition['ErrorPluginDisableRequired'] = 'لا يمكنك تعطيل برنامج {0} المساعد لأن برنامج {1} المساعد يحتاجه، لكي يستطيع تأدية وظيفته.';
+$Definition['ErrorPluginEnableRequired'] = 'هذا البرنامج المساعد يتطلب تمكين البرنامج المساعد {0} قبل أن يُمكن هو نفسه.';
+$Definition['ErrorPluginVersionMatch'] = 'فشل البرنامج المساعد {0} المُمَكَّن (إصدار {1}) في تلبية متطلبات الإصدار({2}).';
 $Definition['ErrorRecordNotFound'] = 'لم يتم العثور على التسجيل المطلوب.';
 $Definition['ErrorTermsOfService'] = 'يجب عليك الموافقة على شروط الخدمة.';
 $Definition['Event'] = 'حدث';
+$Definition['Event Details'] = 'تفاصيل الحدث';
 $Definition['Events'] = 'أحداث';
 $Definition['everyone'] = 'الجميع';
 $Definition['Everything'] = 'الكل';
@@ -428,6 +518,7 @@ $Definition['Garden.Registration.DefaultRoles'] = 'الرتبة الافتراض
 $Definition['Garden.Title'] = 'عنوان الشعار';
 $Definition['Gender'] = 'الجنس';
 $Definition['General'] = 'عام';
+$Definition['Generate import SQL only'] = 'وَلِّد استيراد SQL فقط';
 $Definition['Generate Password'] = 'توليد كلمة المرور';
 $Definition['Give'] = 'منح';
 $Definition['Give a Badge to %s'] = 'إمنح وساما إلى %s';
@@ -443,12 +534,15 @@ $Definition['Group Info'] = 'معلومات المجموعة';
 $Definition['Group Leaders'] = 'القيادات';
 $Definition['Group Members'] = 'مجموعات';
 $Definition['GroupMembersEmpty'] = 'لم ينضم أحد بعد. أخبر الآخرين عنا!';
+$Definition['Group Options'] = 'خيارات المجموعة';
 $Definition['Groups'] = 'مجموعات';
 $Definition['groups'] = 'مجموعات';
+$Definition['Guest'] = 'ضيف';
 $Definition['GuestModule.Message'] = 'يبدو أنك جديد هنا. إذا كنت تريد أن تتورط، انقر فوق أحد هذه الأزرار!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'معلقة على ثانية في حين وقعنا على الخروج.';
 $Definition['he'] = 'هو';
+$Definition['Heading %s'] = 'عنوان %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} حصل على <a href="{Url,html}">{Data.Name,text}</a> كشارة.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} حظر {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} علّق على <a href="{Url,html}">{Data.Name,text}</a>';
@@ -458,6 +552,7 @@ $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} غ�
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You}إنضم الى الموقع.';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} الغى حظر {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} حذّر {RegardingUserID,you}.';
+$Definition['Help'] = 'المساعدة';
 $Definition['her'] = 'لها';
 $Definition['Hide'] = 'اخفاء';
 $Definition['Hide my online status from other members'] = 'إخفاء حالة اتصالي عن باقي أعضاء المجموعة';
@@ -473,11 +568,17 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'أنا أوافق على<a id="TermsOfService" class="Popup" target="terms" href="%s">شروط الإستخدام</a>';
 $Definition['Icon'] = 'أيقونة';
+$Definition['Ignore'] = 'تجاهل';
+$Definition['Ignore List'] = 'قائمة التجاهل';
+$Definition['Ignore Someone'] = 'تجاهل شخص ما';
+$Definition['Image'] = 'صورة';
 $Definition['Image URL'] = 'عنوان الصورة';
 $Definition['in'] = 'في';
 $Definition['In <b>%s.</b>'] = 'في <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'في <b>%s</b> و المشاركات الحديثة.';
 $Definition['Inbox'] = 'البريد الوارد';
+$Definition['Indent'] = 'طلب رسمي';
+$Definition['In recent discussions.'] = 'في المناقشات الحديثة';
 $Definition['In seconds'] = 'في ثواني';
 $Definition['Insert Image'] = 'إضافة صورة';
 $Definition['Insightful'] = 'ثاقبة';
@@ -489,17 +590,22 @@ $Definition['Invite'] = 'دعوة';
 $Definition['InviteErrorPermission'] = 'مع الاسف، الصلاحيات مرفوضة.';
 $Definition['Invite Friends'] = 'دعوة الأصدقاء';
 $Definition['Invite friends'] = 'دعوة الأصدقاء';
+$Definition['Invite one or more people to join this group.'] = 'توجيه الدعوة لشخص أو أكثر للانضمام إلى هذه المجموعة.';
 $Definition['IPAddress'] = 'عنوان الآي بي';
+$Definition['IP Address'] = 'عنوان IP';
 $Definition['I remember now!'] = 'أتذكرها الٱن !';
+$Definition['Italic'] = 'مائل';
 $Definition['Item'] = 'بند';
 $Definition['item'] = 'بند';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'يبدو أنك كنت جديدا هنا. إذا كنت ترغب في الانخراط، انقر فوق أحد هذه الأزرار!';
 
 $Definition['Jail'] = 'سجن';
 $Definition['Jailed users have reduced abilities.'] = 'المستخدمون المسجونون قدراتهم مخفضة.';
+$Definition['Join %s'] = 'انضم إلى %s';
 $Definition['Joined'] = 'مسجل';
 $Definition['Joined %s'] = 'انضم %s';
 $Definition['Join this Group'] = 'انضم لهذه المجموعة';
+$Definition['Join this group to view its content.'] = 'انضم للمجموعة لمشاهدة محتوياتها.';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'فقط حذف سجل المستخدم، والحفاظ على كل محتوى المستخدم.';
 $Definition['Just expire the warning.'] = 'انهاء التحذير.';
 $Definition['Just you!'] = 'فقط انت !';
@@ -510,11 +616,14 @@ $Definition['Keep User Content'] = 'الحفاظ على محتوى المستخ�
 $Definition['Label'] = 'ملصق';
 $Definition['Last Active'] = 'النشاط';
 $Definition['Last IP'] = 'آخر آي بي IP';
+$Definition['lasts %s'] = 'يستمر %s';
 $Definition['Latest %1$s'] = 'آخر %1$s';
 $Definition['Latest Post'] = 'آخر مشاركة';
 $Definition['Leaders'] = 'القيادات';
+$Definition['Leave %s'] = 'اترك %s';
 $Definition['Leave a Comment'] = 'كتابة تعليق';
 $Definition['Leave a comment'] = 'ترك تعليق';
+$Definition['Leave a redirect link.'] = 'اترك رابط إعادة توجيه.';
 $Definition['Leave blank unless connecting to an exising account.'] = 'ConnectLeaveBlank';
 $Definition['Leave Comments'] = 'ترك تعاليق';
 $Definition['Leave Group'] = 'غادر المجموعة';
@@ -522,6 +631,9 @@ $Definition['Length'] = 'الطول';
 $Definition['Level %s'] = 'مستوى %s';
 $Definition['Like'] = 'إعجاب';
 $Definition['Link to content:'] = 'رابط المحتوى :';
+$Definition['Locale'] = 'الإنجليزية-كندا';
+$Definition['Log'] = 'سجل';
+$Definition['log'] = 'سجل';
 $Definition['Login with Facebook'] = 'الدخول بواسطة الفايسبوك';
 $Definition['LOL'] = 'لول';
 
@@ -531,17 +643,25 @@ $Definition['Make this poll anonymous (user votes are not made public).'] = 'ج�
 $Definition['Male'] = 'ٱخر ٱي بي IP';
 $Definition['Mark All Viewed'] = 'إعتبر الكل مشاهدا';
 $Definition['Mark as Troll'] = 'حدد أنها مخالفة';
+$Definition['Mark Category Viewed'] = 'عَلِّمْ التصنيف بأنه شُوهِدَ';
 $Definition['Marking as spam cannot be undone.'] = 'وسم شيء كرسائل اقتحامية يسبب حذفها إلى الأبد. حذفها هو وسيلة جيدة للحفاظ على المنتدى الخاص بك نظيفا.';
 $Definition['Mark Read'] = 'إعتبره مقروئا';
+$Definition['Maybe'] = 'ربما';
+$Definition['Maybe (%s)'] = 'ربما (%s)';
 $Definition['Member Count'] = 'مجموعات';
 $Definition['Members'] = 'مجموعات';
 $Definition['Merge'] = 'دمج';
 $Definition['Merge Discussions'] = 'دمج المواضيع';
+$Definition['Message'] = 'رسالة';
 $Definition['message'] = 'رسالة';
+$Definition['Messages'] = 'الرسائل';
 $Definition['messages'] = 'رسائل';
 $Definition['Message to User'] = 'رسالة إلى المستخدم';
 $Definition['Minor'] = 'قاصر';
 $Definition['minutes'] = 'دقائق';
+$Definition['Moderation'] = 'الإشراف';
+$Definition['Moderation Queue'] = 'قائمة انتظار الإشراف';
+$Definition['Moderator'] = 'مشرف';
 $Definition['Moderator Activity'] = 'نشاط المشرف';
 $Definition['Moderators'] = 'المشرفين';
 $Definition['moderators'] = 'مشرفون';
@@ -558,23 +678,29 @@ $Definition['Most recent:'] = 'الاحدث:';
 $Definition['Most recent: %1$s by %2$s'] = 'الاحدث:%1$s by %2$s';
 $Definition['Most recent by %1$s'] = 'ٱخر مشاركة بواسطة %1$s';
 $Definition['Most Recent Comment'] = 'أحدث التعليقات';
+$Definition['Move'] = 'نقل';
 $Definition['MyBadgesModuleTitle'] = 'شاراتي';
 $Definition['My Bookmarks'] = 'مواضيعي المفضلة';
 $Definition['My Discussions'] = 'مشاركاتي';
 $Definition['My Drafts'] = 'مسوداتي';
 $Definition['My Forums'] = 'منتدياتي';
+$Definition['My Groups'] = 'مجموعاتي';
 $Definition['My Preferences'] = 'تفضيلاتي';
 
 $Definition['n/a'] = 'N/A';
+$Definition['Name'] = 'الاسم';
 $Definition['Name Dropper'] = 'حاذف الإسم';
+$Definition['Name of the Event'] = 'اسم الحدث';
 $Definition['Name the Group'] = 'تسمية المجموعة';
 $Definition['Name Unavailable'] = 'الإسم غير متوفر';
 $Definition['new'] = 'جديد';
 $Definition['New %s'] = 'جديد %s';
+$Definition['New Announcement'] = 'إعلان جديد';
 $Definition['New Conversation'] = 'رسالة جديدة';
 $Definition['New Discussion'] = 'موضوع جديد';
 $Definition['new discussion'] = 'جديد';
 $Definition['New Event'] = 'حدث جديد';
+$Definition['New Group'] = 'مجموعة جديدة';
 $Definition['New Groups'] = 'مجموعات جديدة';
 $Definition['New Message'] = 'رسالة جديدة';
 $Definition['New Password'] = 'كلمة المرور الجديدة';
@@ -584,11 +710,16 @@ $Definition['Ninth Anniversary'] = 'الذكرى السنوية التاسعة';
 $Definition['No'] = 'لا';
 $Definition['NoBadgesEarned'] = 'اي دقيقة now&hellip;';
 $Definition['No badges yet.'] = 'لا شارات حتى الآن.';
+$Definition['Nobody has confirmed their attendance yet.'] = 'لم يؤكد أحد على حضوره بعد.';
+$Definition['Nobody has declined the invitation so far.'] = 'لم يرفض أحد الدعوة إلى الآن.';
+$Definition['Nobody is on the fence right now.'] = 'لم يؤكد أحدهم التزامه إلى الآن.';
 $Definition['No default roles.'] = 'لا رتب إفتراضية.';
 $Definition['No discussions were found.'] = 'لم يتم العثور على اي مشاركة.';
 $Definition['No items tagged with %s.'] = 'لا توجد عناصر ذات الكلمات الدلالية مع %s.';
+$Definition['NoPermissionToDeleteDiscussions'] = 'ليس لديك إذن بحذف %1$s من المناقشات المحددة.';
 $Definition['No results for \'%s\''] = 'لا نتائج \'%s\'';
 $Definition['No Roles'] = 'لا رتب';
+$Definition['Not Attending (%s)'] = 'لن يحضر (%s)';
 $Definition['Not Authorized (401)'] = 'غير مصرح (401)';
 $Definition['Not Found (404)'] = 'لم يتم العثور على طلبك (404)';
 $Definition['Notice'] = 'إشعار';
@@ -601,12 +732,15 @@ $Definition['Notify me of private messages.'] = 'أخطرني ان كان لي �
 $Definition['Notify me when a badge is requested.'] = 'تنبيه عندما يُطلب وسام.';
 $Definition['Notify me when a comment is flagged.'] = 'تنبيه عندما يبلغ عن تعليق مسيىء';
 $Definition['Notify me when I am added to private conversations.'] = 'اخطرني عندما تتم اضافتي في مشاركات خاصة.';
+$Definition['Notify me when people comment on discussions I\'ve participated in.'] = 'أخطرني عند تعليق الآخرين على المناقشات التي اشتركت فيها.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'أخطرني اذا تم التعليق على مواضيعي المفضلة.';
 $Definition['Notify me when people comment on my discussions.'] = 'أخطرني اذا تم التعليق على مواضيعي.';
 $Definition['Notify me when people mention me.'] = 'أخطرني اذا تم ذكري.';
 $Definition['Notify me when people mention me in comments.'] = 'اخطرني عندما يتم ذكري في التعليقات.';
 $Definition['Notify me when people reply to my wall comments.'] = 'أخطرني اذا تم الرد على تعليق على جداري.';
 $Definition['Notify me when people write on my wall.'] = 'أخطرني اذا تمت الكتابة على جداري';
+$Definition['Notify me when there is event activity.'] = 'أخطرني عندما تكون هناك مناسبة.';
+$Definition['Notify me when there is group activity.'] = 'أبلغني عندما يكون هناك فاعلية مجموعة.';
 $Definition['Not much happening here, yet.'] = 'لا يحدث كثيرا هنا، حتى الآن.';
 $Definition['Not Verified'] = 'لم يتم التحقق';
 
@@ -614,8 +748,10 @@ $Definition[' now.'] = ' الٱن';
 
 $Definition['of'] = 'الخاص(ة) ب';
 $Definition['Off Topic'] = 'خارج الموضوع';
-$Definition['Old Password'] = 'كلمة المرور القديمة';
+$Definition['OK'] = 'موافقة';
+$Definition['Okay'] = 'موافقة';
 $Definition['OldPassword'] = 'كلمة المرور قديمة';
+$Definition['Old Password'] = 'كلمة المرور القديمة';
 $Definition['on'] = 'في';
 $Definition['Online Preferences'] = 'خيارات الاتصال';
 $Definition['Only show followed categories'] = 'اظهر فقط الاقسام التي تتابعها';
@@ -625,10 +761,12 @@ $Definition['Options'] = 'خيارات';
 $Definition['or'] = 'أو';
 $Definition['Ordered list'] = 'لائحة تم طلبها';
 $Definition['Organize discussion categories'] = 'نظم أقسام الحوار';
+$Definition['Organizer'] = 'منظم';
 $Definition['Organize your Categories'] = 'نظم اقسامك';
 $Definition['Original'] = 'أصلي';
 $Definition['Or you can...'] = 'أو تستطيع...';
 $Definition['Other Records'] = 'تسجيلات اخرى';
+$Definition['Outdent'] = 'إلغاء التأخير';
 $Definition['Owner'] = 'المالك';
 
 $Definition['PageDetailsMessage'] = '%1$s الى %2$s';
@@ -637,7 +775,13 @@ $Definition['Page Not Found'] = 'الصفحة غير موجودة';
 $Definition['Participated'] = 'شارك';
 $Definition['ParticipatedHomepageTitle'] = 'المواضيع المشارك فيها';
 $Definition['Password'] = 'كلمة المرور';
+$Definition['PasswordRequest'] = 'طلب أحدهم إعادة ضبط كلمة المرور خاصتك على %2$s. لإعادة ضبط كلمة المرور خاصتك، اتبع هذا الرابط:
+
+%3$s
+
+إذا لم تكن أنت من قام بهذا الطلب، فتجاهل رسالة البريد الإلكتروني هذه.';
 $Definition['Passwords don\'t match'] = 'كلمات المرور غير متوافقة';
+$Definition['Paste the URL of an image to quickly embed it.'] = 'الصق عنوان URL الخاص بصورةٍ ما ليتم تضمينه سريعاً.';
 $Definition['Permalink'] = 'رابط دائم';
 $Definition['permalink'] = 'رابط دائم';
 $Definition['Permanent (301)'] = 'دائم (301)';
@@ -651,6 +795,7 @@ $Definition['Picture'] = 'صورة';
 $Definition['Pin'] = 'تعليق';
 $Definition['Pinned'] = 'معلق';
 $Definition['Please join my group.'] = 'الرجاء الانضمام إلى <a href="{Url,html}">مجموعتي</a>.';
+$Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'يرجى الانتظار بينما يتم إعادة توجيهك. إذا لم يتم إعادة توجيهك، انقر <a href="%s">هنا</a>.';
 $Definition['Points'] = 'النقاط';
 $Definition['Poll'] = 'إستطلاع';
 $Definition['Poll Options'] = 'خيارات الاستطلاع';
@@ -673,6 +818,7 @@ $Definition['Post this anonymously'] = 'انشر هذا بخفية';
 $Definition['Powered by %s'] = 'مدعوم من %s';
 $Definition['Powered by Vanilla'] = 'مدعومة بواسطة فانيللا';
 $Definition['PreferenceBadgeEmail'] = 'قم بإعلامي عندما أتلقى وساماً.';
+$Definition['PreferenceBadgePopup'] = 'أخطرني عند حصولي على شارة.';
 $Definition['Preview'] = 'معاينة';
 $Definition['Previous'] = 'السابق';
 $Definition['Privacy'] = 'خصوصية';
@@ -683,9 +829,11 @@ $Definition['Private Note for Moderators'] = 'ملاحظة خاصة للمشرف
 $Definition['Problem with credentials.'] = 'مشكلة مع وثائق التفويض.';
 $Definition['Proceed'] = 'تنفيذ';
 $Definition['Profile'] = 'الملف الشخصي';
-$Definition['Profile Fields'] = 'حقول الصفحة الشخصية';
 $Definition['Profile  Fields'] = 'الصفحة الشخصية  الحقول';
+$Definition['Profile Fields'] = 'حقول الصفحة الشخصية';
+$Definition['ProfileFieldsCustomDescription'] = 'استخدم هذه الحقول لإنشاء معلومات ملف شخصي مخصصة حسب الحاجة. يمكنك إنشاء أشياء مثل "حالة العلاقة الشخصية"، "عنوان Skype"، أو حتى "الديناصور المفضل". كُن مُبدِعاً!';
 $Definition['Profile Page'] = 'صفحة الملف الشخصي';
+$Definition['Profile Picture'] = 'صورة الملف الشخصي';
 $Definition['Profiles'] = 'الملفات الشخصية';
 $Definition['Promote'] = 'ترقية';
 $Definition['Public'] = 'عمومي';
@@ -700,6 +848,7 @@ $Definition['QnA Accepted Answer'] = 'الإجابة ✓';
 $Definition['QnA Rejected Answer'] = 'اجابة مرفوضة';
 $Definition['Question'] = 'سؤال';
 $Definition['question'] = 'سؤال';
+$Definition['Questions'] = 'أسئلة';
 $Definition['questions'] = 'الأسئلة';
 $Definition['Question Title'] = 'عنوان السؤال ';
 $Definition['Quote'] = 'إقتباس';
@@ -709,6 +858,8 @@ $Definition['Quote Settings'] = 'إعدادات الإقتباس';
 $Definition['Quote wrote'] = 'كتب';
 
 $Definition['Rank'] = 'الرتبة';
+$Definition['Ranks.ActivityFormat'] = 'تمت ترقية {ActivityUserID,user} {ActivityUserID,plural,was,were} إلى {Data.Name,plaintext}.';
+$Definition['Ranks.NotificationFormat'] = 'تهانينا! تمت ترقيتك إلى {Data.Name,plaintext}.';
 $Definition['Re: %s'] = 'رد: %s';
 $Definition['Reactions'] = 'ردود الفعل';
 $Definition['Real Name'] = 'الاسم الحقيقي';
@@ -717,11 +868,13 @@ $Definition['Reason (optional)'] = 'السبب (إختياري)';
 $Definition['Recent Activity'] = 'نشاط حديث';
 $Definition['Recent Admin Activity'] = 'النشاط الحديث للمدير';
 $Definition['Recent Discussions'] = 'مشاركات جديدة';
+$Definition['Recent Events'] = 'آخر الأحداث';
 $Definition['recently'] = 'حديثا';
 $Definition['Recent Moderator Activity'] = 'النشاط الحديث للمشرف';
 $Definition['Recent Tutorials'] = 'الدروس الأخيرة';
 $Definition['Recipients'] = 'المستفيدين';
 $Definition['RecipientUserID'] = 'متلق';
+$Definition['Redirecting...'] = 'جاري إعادة التوجيه...';
 $Definition['Refetch Page'] = 'تحديث الصفحة';
 $Definition['Register'] = 'تسجيل';
 $Definition['Register IP'] = 'تسجيل الٱي بي IP';
@@ -744,13 +897,18 @@ $Definition['Rename Forum'] = 'إعادة تسمية المنتدى';
 $Definition['Reopen'] = 'إعادة فتح';
 $Definition['Replies'] = 'ردود';
 $Definition['Reply'] = 'رد';
+$Definition['ReplyOnly'] = 'يمكنك الرد مباشرةً على رسالة البريد الإلكتروني هذه للمتابعة. مُرسلة من {/,exurl}.';
+$Definition['ReplyOrFollow'] = 'رد على رسالة البريد الإلكتروني هذه مباشرةً أو اتبع هذا الرابط الموجود بأسفل لمراجعتها:';
+$Definition['Report'] = 'تقرير';
 $Definition['Report %s'] = 'أبلغ عن %s ';
 $Definition['Reported by: '] = 'ذكرت من قبل: ';
 $Definition['Reported Posts'] = 'مداخلات مبلغ عنها';
+$Definition['Report Notes'] = 'ملاحظات';
 $Definition['Report Reason'] = 'السبب';
 $Definition['Request a new password'] = 'طلب كلمة مرور جديدة';
 $Definition['Request a new password →'] = 'طلب كلمة مرور جديدة →';
 $Definition['Reset Password'] = 'إعادة ضبط كلمة المرور';
+$Definition['Restored'] = 'استُعيدَ';
 $Definition['reverse'] = 'إلغاء';
 $Definition['Revoke'] = 'سحب';
 $Definition['Revoked'] = 'ألغيت';
@@ -760,6 +918,7 @@ $Definition['RoleID'] = 'رتبة';
 $Definition['Roles'] = 'الرتب';
 $Definition['roles'] = 'الأدوار';
 
+$Definition['Save'] = 'حفظ';
 $Definition['Save Comment'] = 'حفظ التعليق';
 $Definition['Save Draft'] = 'حفظ المسودة';
 $Definition['Save Poll'] = 'حفظ الاستطلاع';
@@ -784,6 +943,7 @@ $Definition['Send Report'] = 'إرسال التقرير';
 $Definition['Send report'] = 'أرسل التقرير';
 $Definition['sep and'] = 'و';
 $Definition['Set a New Warning Level'] = 'تعيين مستوى تحذير جديد';
+$Definition['Set A Password'] = 'ضبط كلمة مرور';
 $Definition['Setting'] = 'إعداد';
 $Definition['Settings'] = 'الإعدادات';
 $Definition['Seventh Anniversary'] = 'الذكرى السنوية السابعة';
@@ -817,11 +977,13 @@ $Definition['Sink'] = 'حوض';
 $Definition['Sink this discussion'] = 'إغراق هذه المشاركة';
 $Definition['Sitemap Settings'] = 'إعدادات خريطة الموقع';
 $Definition['Sixth Anniversary'] = 'الذكرى السنوية السادسة';
+$Definition['Social'] = 'اجتماعي';
 $Definition['somebody'] = 'شخص ما';
 $Definition['Some Code'] = 'بعض التعليمات البرمجية';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'لقد أجاب شخص ما عن سؤالك. انت بحاجة الى قبول / رفض الإجابة.';
 $Definition['sorted by'] = 'مصنفة حسب';
 $Definition['Source:'] = 'المصدر :';
+$Definition['Source Code'] = 'رمز';
 $Definition['Spam'] = 'بريد غير مرغوب فيه';
 $Definition['Spam Queue'] = 'قائمة الرسائل غير المرغوب بها';
 $Definition['Split'] = 'تقسيم';
@@ -830,13 +992,16 @@ $Definition['Spoiler'] = 'كشف';
 $Definition['Spoof User'] = 'مستخدم وهمي';
 $Definition['SSL'] = 'بروتوكول طبقة المنافذ الآمنة';
 $Definition['Start'] = 'بداية';
+$Definition['Start a Group'] = 'بدأ مجموعة';
 $Definition['Start a New Conversation'] = 'رسالة جديدة';
 $Definition['Start a New Discussion'] = 'موضوع جديد';
 $Definition['Start Conversation'] = 'ارسل';
 $Definition['Started By'] = 'بدأت بواسطة';
+$Definition['Started by'] = 'بدأ بمعرفة';
 $Definition['Started by %1$s'] = 'بدأت بواسطة %1$s';
 $Definition['Start your First Discussion'] = 'ابدأ اول موضوع لك';
 $Definition['Stop following'] = 'الغاء المتابعة';
+$Definition['Strikethrough'] = 'شطب بخط';
 $Definition['Strip images out of signatures'] = 'تجريد التواقيع من الصور';
 $Definition['Strip images out of signatures?'] = 'تجريد الصور خارج المواضيع ?';
 $Definition['Subject'] = 'العنوان';
@@ -846,6 +1011,7 @@ $Definition['Tagged'] = 'الكلمات الدلالية';
 $Definition['Tagged with '] = 'موسوم بواسطة';
 $Definition['Tagged with "%s"'] = 'وسم بـ "%s"';
 $Definition['Tagging'] = 'وسم';
+$Definition['TagHint'] = 'بدء الكتابة...';
 $Definition['Tag Name'] = 'اسم الكلمة الدلالية';
 $Definition['Tags'] = 'كلمات دلالية';
 $Definition['tags'] = 'علامات';
@@ -883,6 +1049,9 @@ $Definition['TermsOfServiceText'] = '
 
 ';
 $Definition['Text  Max  Length'] = 'النص  الحد الاقصى  الطول';
+$Definition['The %s you were looking for could not be found.'] = ' تعثر العثور على الـ %s الذي كنت تبحث عنه.';
+$Definition['the category'] = 'التصنيف';
+$Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';
 $Definition['The conversation has been cleared.'] = 'تم مسح محادثة.';
 $Definition['The email you entered in use by another member.'] = 'البريد الالكتروني الذي أدخلته قيد الاستخدام من قبل عضو آخر.';
 $Definition['The email you have entered is already related to an existing account.'] = 'يرتبط مسبقا البريد الإلكتروني الذي أدخلته بحساب موجود.';
@@ -890,6 +1059,9 @@ $Definition['The file failed to upload.'] = 'فشل تحميل الملف';
 $Definition['their'] = 'لهم';
 $Definition['The name you entered is already in use by another member.'] = 'الاسم الذي أدخلته قيد الاستخدام من قبل عضو آخر.';
 $Definition['The page you were looking for could not be found.'] = 'الصفحة التي طلبتها غير موجودة';
+$Definition['The quote had to be converted from %s to %s.'] = 'استلزم الأمر تحويل التصريح من %s إلى %s. قد يكون هناك بعض التنسيق قد فُقِدَ.';
+$Definition['There\'s already a %s with the name %s.'] = 'هناك بالفعل %1$s مرتبط بالاسم %2$s.';
+$Definition['There aren\'t any groups yet.'] = 'لا توجد أية مجموعاتٍ بعد.';
 $Definition['There are no tags in the system yet.'] = 'لا كلمات دلالية في هذا الجهاز، بعد.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'لم يتم إدخال قيمة reCAPTCHA بشكل صحيح. يرجى المحاولة مرة أخرى.';
 $Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'يوجد حساب بنفس إسم المستخدم (%1$s) أو البريد (%2$s)  المطلوبين. يمكنك تسجيل حساب جديد أو الدخول بنفس بيانات الحساب الحالي.';
@@ -928,13 +1100,16 @@ $Definition['Toggle HTML view'] = 'تبديل عرض HTML';
 $Definition['Toggle lights'] = 'تبديل الأضواء';
 $Definition['Topic'] = 'موضوع';
 $Definition['Topics'] = 'مواضيع';
+$Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'لإرسال رسالة بريد إلكتروني تأكيدية أخرى انقر <a href="%s">هنا</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'لإستخدام reCAPTCHA يجب الحصول على مفتاح API من %s.';
+$Definition['Transport error: %s'] = 'لقد وقع خطأ فادح أثناء معالجة الطلب. <br /> أخرج الخادم هذا الرد: %s';
 $Definition['Troll'] = 'خارج الموضوع';
 $Definition['Turn ON'] = 'تشغيل';
 $Definition['Twitter'] = 'تويتر';
 $Definition['Twitter Settings'] = 'اعدادات تويتر';
 $Definition['Type'] = 'نوع';
 
+$Definition['Unable to send message, %s is ignoring you.'] = 'غير قادر على إرسال الرسالة، إن %s يتجاهلك.';
 $Definition['Unannounce'] = 'الغاء الاعلان';
 $Definition['Unanswered'] = 'لم يتم الرد عليها';
 $Definition['Unanswered Questions'] = 'لم يتم الرد عليها';
@@ -992,6 +1167,10 @@ $Definition['ValidateRequired'] = '%s مطلوب .';
 $Definition['ValidateRequiredArray'] = 'عليك أن تختار على الأقل واحد %s.';
 $Definition['ValidateTag'] = 'الكلمات الدليلية لا يمكن ان تحتوي على فراغ بين الكلمات.';
 $Definition['ValidateTime'] = '%s ليس وقتا صالحا.';
+$Definition['ValidateTimestamp'] = '%s ليس طابع تاريخ صالح.';
+$Definition['ValidateUrlStringRelaxed'] = 'لا يمكن للـ %s أن يحتوي على أحرف من شرطة مائلة، أو علامات تنصيص أو وسوم.';
+$Definition['ValidateUsername'] = 'يجب أن يكون اسم المستخدم ما بين 3 إلى 20 حرف ويتكون من حروف وأرقام وشَرطَات سفلية.';
+$Definition['ValidateVersion'] = 'الحقل %s ليس رقم إصدار صحيح. راجع وظيفة version_compare() من لغة php، للاطلاع على أمثلة لأرقام إصدارات صحيحة.';
 $Definition['Value'] = 'قيمة';
 $Definition['Vanilla'] = 'فانيللا';
 $Definition['Vanilla Statistics'] = 'احصائيات فانيللا';
@@ -1005,6 +1184,7 @@ $Definition['Viewing'] = 'مشاهدة';
 $Definition['Views'] = 'مشاهدات';
 $Definition['Visible'] = 'مرئي';
 $Definition['Visits'] = 'الزيارات';
+$Definition['Visit Site'] = 'زيارة الموقع';
 $Definition['Vote'] = 'تصويت';
 $Definition['Vote Down'] = 'تصويت سلبي';
 $Definition['Votes'] = 'تصويتات';
@@ -1015,17 +1195,28 @@ $Definition['Want to take part in this discussion? Click one of these:'] = 'تر
 $Definition['Warn'] = 'تحذير';
 $Definition['Warn %s'] = 'حذر من %s ';
 $Definition['Warned for'] = 'تم تحذيره بسبب';
+$Definition['Warning'] = 'تحذير';
 $Definition['Warnings'] = 'تحذيرات';
+$Definition['WarningTitleFormat'] = 'قام {InsertUserID,User} بتحذير {WarnUserID,User} بخصوص {Points,plural,%s points}.';
+$Definition['WarningTitleFormat.Notice'] = 'قام {InsertUserID,User} بتحذير {WarnUserID,User} بخصوص {Points,plural,%s points} (هذه مجرد ملاحظة).';
 $Definition['was'] = 'كان';
 $Definition['Website'] = 'الموقع';
 $Definition['weeks'] = 'الاسابيع';
 $Definition['Welcome Aboard!'] = 'أهلا و سهلا بك !';
 $Definition['were'] = 'كانوا';
+$Definition['What\'s This?'] = 'ماذا يكون هذا؟';
 $Definition['What to search'] = 'المبحوث عنه';
+$Definition['When'] = 'متى';
+$Definition['Where'] = 'أين';
 $Definition['Where do you want to announce this discussion?'] = 'اين تريد اعلان هذا الموضوع.';
+$Definition['Who\'s going?'] = 'من الذي سيذهب؟';
 $Definition['Who\'s Online'] = 'المتواجدون الآن';
+$Definition['Whoops!'] = 'يا لهذا!';
+$Definition['Whoops! You\'ll need to register before you can email our site.'] = 'يا لهذا! ستحتاج للتسجيل قبل أن تستطيع إرسال بريداً إلكترونياً إلى موقعنا.';
 $Definition['Whos Online'] = 'المتصلون الان';
 $Definition['Why are you Banning this user?'] = 'لماذا حظرت هذا المستخدم ؟';
+$Definition['Why do you want to join?'] = 'لم تريد الانضمام؟';
+$Definition['Would you like to accept the invitation to join this group?'] = 'هل تود قبول دعوة الانضمام لهذه المجموعة؟';
 $Definition['Write a comment'] = 'كتابة تعليق';
 $Definition['Write Comment'] = 'كتابة تعليق';
 $Definition['Write something about yourself...'] = 'أكتب شيئا عنك...';
@@ -1033,23 +1224,35 @@ $Definition['Write something about yourself...'] = 'أكتب شيئا عنك...'
 $Definition['Yes'] = 'نعم';
 $Definition['You'] = 'أنت';
 $Definition['you'] = 'أنت';
+$Definition['You\'re banned from joining this group.'] = 'أنت ممنوعٌ من الانضمام إلى هذه المجموعة.';
+$Definition['You\'ve already created the maximum number of groups.'] = 'لقد قمت بالفعل بإنشاء الحد الأقصى المسموح به من عدد المجموعات.';
+$Definition['You\'ve applied to join this group.'] = 'لقد قدمت طلباً للانضمام إلى هذه المجموعة.';
+$Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">لقد سألت أسئلة، لها الآن إجابات</a>.تأكد من قبول/رفض هذه الإجابات.';
+$Definition['You\'ve been invited to join {Name}.'] = 'وُجِهَت إليك دعوة للانضمام إلى {Name}.';
 $Definition['You\'ve been Jailed.'] = 'لقد تم حظرك.';
 $Definition['You already have an account here.'] = 'لديك سابقا حساب هنا.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'أنت على وشك حظر {User.UserID,user}.';
+$Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'أن بصدد نقل %1$s من الـ %2$s الخاص بالمناقشات المحددة.';
+$Definition['You are about to move %s.'] = 'أنت بصدد نقل %s.';
 $Definition['You are about to unban {User.UserID,user}.'] = 'انت بصدد رفع الحظر عن {User.UserID,user}.';
 $Definition['You are allowed to create %s groups.'] = 'مسموح لك بخلق %s مجموعات.';
+$Definition['You are already a member of this group.'] = 'أنت بالفعل عضو في هذه المجموعة.';
+$Definition['You are connected as %s through %s.'] = 'أنت متصل كـ %s من خلال %s.';
 $Definition['You are connected through %2$s.'] = 'أنت متصل عن طريق %2$s';
 $Definition['You are currently only viewing categories that you follow.'] = 'انت تشاهد الان الاقسام التي تتبعها.';
 $Definition['You are currently viewing all categories.'] = 'انت تشاهد الان جميع الاقسام.';
 $Definition['You are editing %s\'s signature'] = 'انت تقوم بتحرير توقيع %s.';
 $Definition['You are limited to %s recipient.'] = 'تم حصرك في  %s مرسل إليه.';
 $Definition['You are limited to %s recipients.'] = 'تم حصرك في  %s مرسل إليهم.';
+$Definition['You aren\'t a %s of this group.'] = 'لست %s في هذه المجموعة.';
 $Definition['You aren\'t allowed to %s this group.'] = 'غير مسموح لك بـ  %s هذه المجموعة.';
 $Definition['You can\'t leave the group you started.'] = 'لا يمكنك ترك المجموعة التي بدأتها';
+$Definition['You can either ask a question or start a discussion.'] = 'يمكنك إما، طرح سؤال أو بدء مناقشة. حدد بأسفل ما الذي تريد أن تفعله.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'تستطيع تتبع اقسام فردية و سيتم إشعارك بكل المشاركات الجديدة المضافة فيها.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'لا يمكنك تحرير الصورة المصغرة على صورة الملف الشخصي ترتبط من الخارج.';
 $Definition['You can only specify up to %s tags.'] = 'يمكنك إضافة حتى %s وسوم بحد أقصى.';
 $Definition['You can remove or ban this member from the group.'] = 'يمكنك حذف أو حظر هذا العضو من المجموعة. الأعضاء المحظورون لن يتمكنوا من الانضمام إلى المجموعة مرة أخرى.';
+$Definition['You can use HTML in your signature.'] = 'يمكنك استخدام <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Html عادي</a></b> في توقيعك.';
 $Definition['You don\'t have permission to do that.'] = 'ليس لديك الصلاحيات لفعل هدا';
 $Definition['You do not have any %s yet.'] = 'ليس لديك أي %s بعد';
 $Definition['You do not have any bookmarks.'] = 'ليس لديك اي موضوع مفضل.';
@@ -1057,12 +1260,14 @@ $Definition['You do not have any conversations.'] = 'ليس لديك اي مشا
 $Definition['You do not have any drafts.'] = 'ليس لديك اي مسودات.';
 $Definition['You do not have any notifications yet.'] = 'ليس لديك اي إخطارات حتى الان.';
 $Definition['You do not have enough invitations left.'] = 'لم يكن لديك ما يكفي من الدعوات.';
+$Definition['You do not have permission to move %1$s of the selected discussions.'] = 'ليس لديك إذن بنقل %1$s من المناقشات المحددة.';
 $Definition['You do not have permission to write new comments.'] = 'ليس لديك الصلاحيات لكتابة تعليق جديد';
 $Definition['YouEarnedBadge'] = 'كسبت هذه الشارة';
 $Definition['You have answered questions'] = 'عندك اسئلة اجيب عليها';
 $Definition['You have entered an invalid discussion title'] = 'عنوان الموضوع الذي ادخلته غير صحيح.';
 $Definition['You haven\'t read this yet.'] = 'أنت لم تقرأ هذا.';
 $Definition['You have not started any discussions.'] = 'لم تبدأ اي مشاركات.';
+$Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'لقد قمت بالنشر لعدد %1$s مرة خلال %2$s ثانية. تم تفعيل مانع الإزعاج على حسابك الآن. يجب عليك الانتظار لمدة %3$s ثانية قبل محاولة النشر مجدداً.';
 $Definition['You have selected %1$s.'] = 'انت اخترت %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'لقد إخترت %1$s في هذا الموضوع.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'يجب عليك تحديد ما لا يقل عن 2 مناقشتين للدمج.';
@@ -1087,6 +1292,10 @@ $Definition['Your registered username: <strong>%s</strong>'] = 'اسم المس�
 $Definition['Your request has been sent.'] = 'تم ارسال طلبك. تحقق من بريدك الالكتروني لمزيد من التعليمات.';
 $Definition['Your settings have been saved.'] = 'تم حفظ إعداداتك.';
 $Definition['Your settings have been saved successfully.'] = 'تم حفظ الإعدادات بنجاح.';
+$Definition['Your status for this event is now: <b>%s</b>'] = 'حالتك بالنسبة لهذا الحدث الآن هي: <b>%s</b>';
 $Definition['Your warning was added.'] = 'تمت إضافة تحذيرك';
 
 $Definition[' You should '] = ' يجب عليك ';
+
+$Definition['You were added to a conversation.'] = 'قام {InsertUserID,user} بإضافة {NotifyUserID,you} إلى <a href="{Url,htmlencode}">محادثة</a>.';
+$Definition['You wrote:'] = 'أنت كتبت:';

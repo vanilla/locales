@@ -791,6 +791,7 @@ $Definition['Pin'] = 'Καρφίτσωμα';
 $Definition['Pinned'] = 'Καρφιτσωμένο';
 $Definition['Please join my group.'] = 'Παρακαλώ εγγραφείτε στην <a href="{Url,html}">ομάδα μου</a>.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Παρακαλώ περιμένετε ενώ ανακατευθύνεστε. Αν δεν ανακατευθυνθείτε, πατήστε <a href="%s">εδώ</a>.';
+$Definition['Points'] = 'Βαθμοί';
 $Definition['Poll'] = 'Ψηφοφορία';
 $Definition['Poll Options'] = 'Επιλογές Ψηφοφορίας';
 $Definition['Poll Question'] = 'Ερώτηση Ψηφοφορίας';

@@ -73,6 +73,7 @@ $Definition['%s was removed from the %s and added to the %s'] = '%s перемі
 $Definition['%s year'] = '%s рік';
 $Definition['%s years'] = '%s років';
 
+$Definition['(All)'] = '(Всі)';
 $Definition['(empty message)'] = '(пусте повідомлення)';
 
 $Definition['+%s Guests'] = '+%s Гостей';
@@ -128,6 +129,7 @@ $Definition['Advanced Stuff'] = 'Розширено';
 $Definition['Agree'] = 'Погодження';
 $Definition['Alert'] = 'Тривога';
 $Definition['All %s'] = 'Всі %s';
+$Definition['All %s...'] = 'Всі %s...';
 $Definition['All Bookmarks'] = 'Всі закладки';
 $Definition['All Categories'] = 'Всі категорії';
 $Definition['all categories'] = 'всі категорії';
@@ -316,7 +318,7 @@ $Definition['Edit My Profile'] = 'Змінити мій профіль';
 $Definition['Edit My Thumbnail'] = 'Змінити мініатюру аватара';
 $Definition['editor.BBCodeHelpText'] = 'Ви можете використовувати <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> у ваших постах.';
 $Definition['editor.HtmlHelpText'] = 'Ви можете використовувати <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">простий Html</a>  у ваших постах.';
-$Definition['editor.MarkdownHelpText'] = 'Ви можете використовувати <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> у ваших постах.';
+$Definition['editor.MarkdownHelpText'] = 'Ви можете використовувати <a href="http://uk.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> у ваших постах.';
 $Definition['editor.TextHelpText'] = 'Ви можете використовувати звичайний текст у ваших постах.';
 $Definition['editor.WysiwygHelpText'] = 'Ви використовуєте <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> у ваших постах.';
 $Definition['Edit Preferences'] = 'Редагувати налаштування';
@@ -549,6 +551,7 @@ $Definition['Length'] = 'Довжина';
 $Definition['Level %s'] = 'Рівень %s';
 $Definition['Like'] = 'Лайк';
 $Definition['Link to content:'] = 'Посилання до контенту:';
+$Definition['Locale'] = 'uk';
 $Definition['Login with Facebook'] = 'Увійти через Facebook';
 
 $Definition['Major'] = 'Основний';
@@ -711,8 +714,8 @@ $Definition['Private Note for Moderators'] = 'Приватна замітка д
 $Definition['Problem with credentials.'] = 'Проблема з обліковими даними.';
 $Definition['Proceed'] = 'Продовжити';
 $Definition['Profile'] = 'Профіль';
-$Definition['Profile Fields'] = 'Поля профілю';
 $Definition['Profile  Fields'] = 'Поля профілю';
+$Definition['Profile Fields'] = 'Поля профілю';
 $Definition['ProfileFieldsCustomDescription'] = 'У цих полях Ви можете ввести такі речі, як "Сімейний стан", "Skype", або "Улюблений динозаврв". Будьте винахідливі!';
 $Definition['Profile Page'] = 'Сторінка профілю';
 $Definition['Profile Picture'] = 'Картинка профілю';

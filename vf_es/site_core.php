@@ -369,7 +369,7 @@ $Definition['Edit My Profile'] = 'Editar mi Perfil';
 $Definition['Edit My Thumbnail'] = 'Editar mi Thumbnail';
 $Definition['editor.BBCodeHelpText'] = 'Puedes usar <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> en tu mensaje.';
 $Definition['editor.HtmlHelpText'] = 'Puedes usar <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> en tu menaje';
-$Definition['editor.MarkdownHelpText'] = 'Puedes usar <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Rebajas</a> en tu mensaje.';
+$Definition['editor.MarkdownHelpText'] = 'Puedes usar <a href="https://es.wikipedia.org/wiki/Markdown" target="_new">Rebajas</a> en tu mensaje.';
 $Definition['editor.TextHelpText'] = 'Estás usando texto plano en el mensaje';
 $Definition['editor.WysiwygHelpText'] = 'Estás usando <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> en tu mensaje.';
 $Definition['Edit Preferences'] = 'Editar Preferencias';
