@@ -374,7 +374,6 @@ $Definition['Plugin'] = 'Плагинъ';
 $Definition['Plugin.Enabled'] = 'Включены';
 $Definition['PluginHelp'] = 'Плагины позволяютъ измѣнять функціональность вашего сайта<br />Для установки плагина помѣстите его въ папку %s и затѣмъ активируйте на этой страницѣ';
 $Definition['Plugins'] = 'Плагины';
-$Definition['Plugins.Tagging.Enabled'] = 'Плагинъ "Теги" Включенъ';
 $Definition['Polls'] = 'Вопросы';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Предотвратите появленіе хлама на форумѣ посредствомъ ограниченія сообщеній  которыя пользователи могутъ размѣщать въ конкретный срокъ времени.';
 $Definition['Private Key'] = 'Приватный ключъ';

@@ -403,7 +403,6 @@ $Definition['give'] = '授予';
 $Definition['Give an Badge'] = '发放一个徽章';
 $Definition['Give me a new account'] = '给我创建一个账号';
 $Definition['Given Indexes'] = '已列出的索引';
-$Definition['Gold Plus'] = '金+';
 $Definition['Guest'] = '访客';
 $Definition['Guest roles'] = '检查所有适用于游客的角色。';
 
@@ -592,7 +591,6 @@ $Definition['Plugins'] = '插件';
 $Definition['Pockets'] = 'Pocket（自定义HTML块）';
 $Definition['Pockets.BetweenDiscussions.Description'] = '这个Pocket将显示在主话题列表中的各个话题之间。由于话题通常都在 &lt;li&gt;..&lt;/li&gt; 标记当中，因此你也需要将Pocket放在这些标记当中。';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket允许你在应用中的多个地方自由添加HTML代码。';
-$Definition['Points'] = '分';
 $Definition['Polls'] = '调查';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '限制用户一定时间内的话题和回复数可以防止垃圾信息。';
 $Definition['Provider'] = '提供者';

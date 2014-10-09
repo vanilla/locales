@@ -860,6 +860,7 @@ $Definition['Pinned'] = 'Закрепленные';
 $Definition['Please join my group.'] = 'Пожалуйста, присоединяйтесь к моей <a href="{Url,html}">группе</a>.
 ';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Пожалуйста, подождите пока вы будете перенаправленны. Если в течении 10 секун ничего не произошло, кликните <a href="%s">тут</a>.';
+$Definition['Points'] = 'Очки';
 $Definition['Poll'] = 'Голосование';
 $Definition['Poll Options'] = 'Опции опроса';
 $Definition['Poll Question'] = 'Предмет опроса';
@@ -892,8 +893,8 @@ $Definition['Private Note for Moderators'] = 'Скрытая заметка дл
 $Definition['Problem with credentials.'] = 'Проблема с учетными данными.';
 $Definition['Proceed'] = 'Продолжить';
 $Definition['Profile'] = 'Профиль';
-$Definition['Profile Fields'] = 'Поля профиля';
 $Definition['Profile  Fields'] = 'Поля профиля';
+$Definition['Profile Fields'] = 'Поля профиля';
 $Definition['ProfileFieldsCustomDescription'] = 'Эти поля могут быть использованы для вывода произвольной информации в профиле. Вы можете указать такие данные, как "Семейное положение", "Skype", или "Любимый динозавр". Будьте изобретательны!';
 $Definition['Profile Page'] = 'Страница профиля';
 $Definition['Profile Picture'] = 'Личная картинка';

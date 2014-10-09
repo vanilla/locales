@@ -376,7 +376,6 @@ $Definition['give'] = 'תן';
 $Definition['Give an Badge'] = 'תן סימול';
 $Definition['Give me a new account'] = 'תן לי חשבון חדש';
 $Definition['Given Indexes'] = 'אינדקסים';
-$Definition['Gold Plus'] = 'זהב פלוס';
 $Definition['Google Sign In Settings'] = 'אפשרות חיבור עם Google Sign In';
 $Definition['Guest'] = 'אורח';
 
@@ -534,9 +533,7 @@ $Definition['Please Confirm'] = 'בבקשה אשר';
 $Definition['Plugin'] = 'תוספת';
 $Definition['Plugin.Enabled'] = 'תוספת.מופעל';
 $Definition['Plugins'] = 'תוספות';
-$Definition['Plugins.Tagging.Enabled'] = 'תוספות.תיוג.מופעל';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets מאפשרים לך לשלב HTML בצורה חופשית בתוך מקומות שונים באפליקציה.';
-$Definition['Points'] = 'נקודות';
 $Definition['Polls'] = 'סקרים';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'תמנע ספאם מהפורום על ידי הגבלה של מספר הדיונים &amp;  תגובות שהמשתמשים יכולים לפרסם בפרק זמן נתון.';
 $Definition['Private Key'] = 'מפתח פרטי';

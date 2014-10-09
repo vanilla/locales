@@ -776,6 +776,7 @@ $Definition['Pin'] = 'Klistra';
 $Definition['Pinned'] = 'Klistrad';
 $Definition['Please join my group.'] = 'Vänligen gå med i min <a href="{Url,html}">grupp</a>.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Vänligen vänta medan du skickas vidare. Om du inte skickas vidare, klicka <a href="%s">här</a>.';
+$Definition['Points'] = 'Poäng';
 $Definition['Poll'] = 'Omröstning';
 $Definition['Poll Options'] = 'Alternativ för omröstning';
 $Definition['Poll Question'] = 'Fråga för omröstning';

@@ -862,6 +862,7 @@ $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Placez les catégories imbr
 $Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'Vanilla peut être intégré dans votre site de plusieurs façons différentes. Cliquez sur les onglets ci-dessous pour en apprendre plus.';
 $Definition['Vanilla Configuration'] = 'Configuration de Vanilla';
 $Definition['Vanilla Cookie Domain'] = 'Cookie Vanilla';
+$Definition['Vanilla Export: %s, Source: %s'] = 'Exportation de Vanille: %s, Source : %s';
 $Definition['Vanilla is installed!'] = 'Vanilla est installé !';
 $Definition['Vanilla Sphinx Help'] = 'Aide Vanilla sphinx';
 $Definition['Vanilla Statistics are currently disabled'] = 'Le module Vanilla Statistics est actuellement désactivé';

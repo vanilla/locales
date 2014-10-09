@@ -562,7 +562,6 @@ $Definition['Outgoing Email Address'] = 'Email διεύθυνση εξερχόμ
 
 $Definition['Pending'] = 'Εκκρεμεί';
 $Definition['Permission.Category'] = 'Κατηγορία';
-$Definition['Points'] = 'Βαθμοί';
 $Definition['Polls'] = 'Δημοσκοπήσεις';
 $Definition['ProxyConnect.RimBlurb'] = 'Αν χρησιμοποιείτε το ProxyConnect με ένα επίσημα υποστηριζόμενο πρόσθετο απομακρυσμένης εφαρμογής, όπως το πρόσθετο wordpress-proxyconnect, αυτές οι τιμές θα είναι διαθέσιμες στην οθόνη ρυθμίσεων του πρόσθετου.';
 

@@ -326,7 +326,6 @@ $Definition['Please choose an authenticator to configure.'] = 'Scegli un sistema
 $Definition['Please Confirm'] = 'Prego confermare';
 $Definition['PluginHelp'] = 'I Plugin ti permettono di aggiungere funzionalita\' al tuo sito.<br />Una volta che un plugin viene aggiunto alla cartella %s, puoi abilitarlo o disabilitarlo da qui.';
 $Definition['Plugins'] = 'Plugin';
-$Definition['Points'] = 'Punti';
 $Definition['Polls'] = 'Sondaggi';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Previeni lo spam sul forum limitando il numero di discussioni &amp; commenti che gli utenti possono inserire in un determinato periodo di tempo.';
 

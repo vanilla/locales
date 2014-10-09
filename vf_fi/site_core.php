@@ -611,6 +611,7 @@ $Definition['PermissionRequired.Javascript'] = 'Sinun pit&auml;&auml; sallia jav
 $Definition['Photogenic'] = 'Valokuvauksellinen';
 $Definition['Picture'] = 'Kuva';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Odota kun sinut uudelleenohjataan. Voit my&ouml,s klikata  <a href="%s">t&auml;st&auml;</a>.';
+$Definition['Points'] = 'Pisteet';
 $Definition['Poll'] = 'Aiheeseen liittyv&auml; kysely';
 $Definition['Poll Options'] = 'Vastausvaihtoehdot';
 $Definition['Poll Question'] = 'Kysymys';

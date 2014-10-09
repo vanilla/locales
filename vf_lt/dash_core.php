@@ -303,7 +303,6 @@ $Definition['Permissions'] = 'Leidimai';
 $Definition['Please Confirm'] = 'Prašau patvirtinti';
 $Definition['Plugin'] = 'Įskiepis';
 $Definition['Plugins'] = 'Įskiepiai';
-$Definition['Points'] = 'Taškai';
 $Definition['Polls'] = 'Apklausos';
 $Definition['Private Key'] = 'Privatus raktas';
 $Definition['Provider'] = 'Tiekėjas';

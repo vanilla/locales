@@ -625,6 +625,7 @@ $Definition['PermissionRequired.Javascript'] = 'Norinti tai atlikti - reikia įj
 $Definition['Photogenic'] = 'Fotogeniškas';
 $Definition['Picture'] = 'Paveiksliukas';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Prašome palaukti, kol būsite nukreipti. Jei jūs nebūsite nukreipti, paspauskite <a href="%s">čia</a>.';
+$Definition['Points'] = 'Taškai';
 $Definition['Poll'] = 'Balsavimas';
 $Definition['Poll Options'] = 'Atsakymo variantai';
 $Definition['Poll Question'] = 'Klausimas';

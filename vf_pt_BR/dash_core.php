@@ -580,7 +580,6 @@ $Definition['PluginHelp'] = 'Complementos permitem que você adicione novas func
 $Definition['Plugins'] = 'Complementos';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'O pocket é exibido entre cada tópico lista principal de tópicos. Uma vez que tópicos são sempre em tags &lt;li&gt;..&lt;/li&gt;, também será preciso envolver seus pockets nestas tags.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets permitem que você adicione pequenos pedaços de HTML em vários lugares do seu aplicativo.';
-$Definition['Points'] = 'Pontos';
 $Definition['Polls'] = 'Enquetes';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Previna spam em seu fórum limitando o número de comentários e tópicos que usuários podem postar em um determinado período de tempo.';
 $Definition['Private Key'] = 'Chave Privada';
@@ -853,7 +852,6 @@ $Definition['Why do you want to join?'] = 'Por que você deseja se juntar?';
 $Definition['Within'] = 'Por dentro';
 $Definition['Wordpress'] = 'WordPress';
 $Definition['WordPress Plugin'] = 'Plugins do WordPress';
-$Definition['Wordpress Source'] = 'WordPress';
 
 $Definition['Yes, the following information can be changed later.'] = 'Sim, as informações a seguir podem ser alteradas mais tarde.';
 $Definition['You are connected as %s.'] = 'Você está conectado como %s.';

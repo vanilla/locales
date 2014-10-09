@@ -800,6 +800,7 @@ $Definition['Pin'] = '引脚';
 $Definition['Pinned'] = '已设引脚';
 $Definition['Please join my group.'] = '请加入我的 <a href="{Url,html}"> 群 </a>。';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '请稍候,如果没有跳转请<a href="%s">点击此处</a>手动跳转.';
+$Definition['Points'] = '分';
 $Definition['Poll'] = '投票';
 $Definition['Poll Options'] = '投票选项';
 $Definition['Poll Question'] = '投票问题';

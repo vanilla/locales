@@ -816,6 +816,7 @@ $Definition['Pin'] = '表示を固定する';
 $Definition['Pinned'] = '表示を固定しました';
 $Definition['Please join my group.'] = '<a href="{Url,html}">グループ</a>に是非ご参加下さい。';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '出力先が変更されるまでお待ち下さい。もし、出力先が変更されない時には、<a href="%s">こちら</a>をクリックして下さい。';
+$Definition['Points'] = 'ポイント';
 $Definition['Poll'] = '投票';
 $Definition['Poll Options'] = '投票 オプション';
 $Definition['Poll Question'] = '投票の質問内容';
