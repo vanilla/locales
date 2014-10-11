@@ -227,7 +227,6 @@ $Definition['Keep me signed in'] = 'ឲ្យ​ខ្ញុំ​នៅ​ត�
 $Definition['Last Active'] = 'សកម្ម​ចុង​ក្រោយ';
 $Definition['Last IP'] = 'IP មុន';
 $Definition['Leave a Comment'] = 'បញ្ចេញ​មតិ';
-$Definition['Locale'] = 'en-CA';
 
 $Definition['Male'] = 'ប្រុស';
 $Definition['Message'] = 'សារ';

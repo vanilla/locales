@@ -48,8 +48,6 @@ $Definition['[%s] Invitation'] = '[%s] Undangan';
 $Definition['[%s] Password Reset'] = '[%s] Password Disetel ulang';
 $Definition['[%s] Password Reset Request'] = '[%s] Permintaan Setel ulang Password';
 
-$Definition['_Locale'] = 'Lokal';
-
 $Definition['a Badge'] = 'Lencana';
 $Definition['Abilites'] = 'Kemampuan';
 $Definition['About.DisableStatistics'] = 'Bila anda perlu untuk menonaktifkan pelaporan data ini untuk beberapa alasan bisnis, anda dapat melakukannya dengan menambahkan baris kode berikut ini pada file konfigurasi instalasi anda: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
@@ -297,8 +295,8 @@ $Definition['Don\'t Refresh'] = 'Jangan Segarkan';
 $Definition['Don\'t use Categories'] = 'Jangan Gunakan Kategori';
 $Definition['Do not display the categories in the side panel.'] = 'Jangan tampilkan kategori pada panel sisi.';
 $Definition['Download Locale List'] = 'Unduh Daftar Lokal';
-$Definition['DownloadLocalePack'] = 'Unduh';
 $Definition['Download Locale Pack'] = 'Unduh Paket Lokal';
+$Definition['DownloadLocalePack'] = 'Unduh';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Seret &amp; tempatkan kategori untuk mengurutkannya dan menyarangkannya.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Seret dan tempatkan kategori di bawah ini untuk mengurutkannya dan menyarangkannya.';
 

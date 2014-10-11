@@ -7,8 +7,6 @@ $Definition['1 week after being sent'] = 'Через 1 тиждень після
 
 $Definition['2 weeks after being sent'] = 'Через 2 тиждені після відправлення';
 
-$Definition['_Locale'] = 'Переклад';
-
 $Definition['Accepted'] = 'Прийнятий';
 $Definition['Action'] = 'Дія';
 $Definition['Add Category'] = 'Додати категорію';

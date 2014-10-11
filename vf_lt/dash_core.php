@@ -45,8 +45,6 @@ $Definition['[%s] Invitation'] = '[%s] Pakvietimas';
 $Definition['[%s] Password Reset'] = '[%s] Slaptažodžio keitimas';
 $Definition['[%s] Password Reset Request'] = '[%s] Slaptažodžio keitimo prašymas';
 
-$Definition['_Locale'] = 'Lokalė';
-
 $Definition['a Badge'] = 'Medalis';
 $Definition['Abilites'] = 'Gebėjimai';
 $Definition['About Vanilla Statistics'] = 'Apie Vanilla statistiką';

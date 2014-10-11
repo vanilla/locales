@@ -551,7 +551,6 @@ $Definition['Length'] = 'Довжина';
 $Definition['Level %s'] = 'Рівень %s';
 $Definition['Like'] = 'Лайк';
 $Definition['Link to content:'] = 'Посилання до контенту:';
-$Definition['Locale'] = 'uk';
 $Definition['Login with Facebook'] = 'Увійти через Facebook';
 
 $Definition['Major'] = 'Основний';

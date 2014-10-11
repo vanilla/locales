@@ -48,8 +48,6 @@ $Definition['[%s] Invitation'] = '[%s] Pozvanie';
 $Definition['[%s] Password Reset'] = '[%s] Zmena Hesla';
 $Definition['[%s] Password Reset Request'] = '[%s] Žiadosť o Zmenu Hesla';
 
-$Definition['_Locale'] = 'Preklad';
-
 $Definition['a Badge'] = 'Odznak';
 $Definition['Abilites'] = 'Schopnosti';
 $Definition['About.DisableStatistics'] = 'Ak musíte vypnúť štatistiky z obchodných dôvodov, môžete tak urobiť pridaním nasledujúceho riadku kódu do vašeho inštalačného súboru: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';

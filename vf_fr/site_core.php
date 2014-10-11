@@ -610,7 +610,6 @@ $Definition['Length'] = 'Longeur';
 $Definition['Level %s'] = 'Niveau %s';
 $Definition['Like'] = 'J\'aime';
 $Definition['Link to content:'] = 'Lien au commentaire:';
-$Definition['Locale'] = 'fr-FR';
 $Definition['Log'] = 'Connexion';
 $Definition['log'] = 'journal';
 $Definition['Login with Facebook'] = 'Se connecter par Facebook';

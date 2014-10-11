@@ -458,8 +458,8 @@ $Definition['Invalid password.'] = 'گذرواژه‌ای که وارد کردی
 $Definition['Invitations'] = 'دعوت';
 $Definition['Invite'] = 'فراخواندن';
 $Definition['InviteErrorPermission'] = 'متأسفیم، پروانه‌ی دسترسی ندارید.';
-$Definition['IP Address'] = 'نشانی IP';
 $Definition['IPAddress'] = 'آدرس IP';
+$Definition['IP Address'] = 'نشانی IP';
 $Definition['I remember now!'] = '← بازگشت به برگه‌ی ورود';
 $Definition['Item'] = 'محروم';
 $Definition['item'] = 'جستار';
@@ -489,7 +489,6 @@ $Definition['Length'] = 'طول';
 $Definition['Level %s'] = 'سطح %s';
 $Definition['Like'] = 'دل خواستن';
 $Definition['Link to content:'] = 'پیوند به محتوا:';
-$Definition['Locale'] = 'fa-IR';
 $Definition['Login with Facebook'] = 'ورود از فیسبوک';
 $Definition['LOL'] = 'لول';
 

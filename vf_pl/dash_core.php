@@ -11,8 +11,6 @@ $Definition['2 weeks after being sent'] = '2 tygodnie po wysłaniu';
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Potwierdź twój adres email';
 $Definition['[%s] Password Reset Request'] = '[%s] Prośba o ustawienie hasła';
 
-$Definition['_Locale'] = 'Lokalizacja';
-
 $Definition['Accepted'] = 'Zaakceptowane';
 $Definition['Action'] = 'Akcja';
 $Definition['Add Info &amp; Create Account'] = 'Dodaj informacje i utwórz konto';

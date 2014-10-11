@@ -47,8 +47,6 @@ $Definition['[%s] Invitation'] = '[%s] | Kutsu';
 $Definition['[%s] Password Reset'] = '[%s] | Salasanan uudelleenasetus';
 $Definition['[%s] Password Reset Request'] = '[%s] | Salasanan vaihtaminen';
 
-$Definition['_Locale'] = 'Kielitiedosto';
-
 $Definition['a Badge'] = 'kunniamerkki';
 $Definition['About.DisableStatistics'] = 'Jos joudut poistamaan raportoinnin k&auml;yt&ouml;st&auml; esimerkiksi business-syist&auml;, tee se lis&auml;&auml;m&auml;ll&auml; oheinen rivi Vanillan asennuksen configuraatio-tiedostoon: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'On ensiarvoisen t&auml;rke&auml;&auml; Vanillan ilmaisena, Open Source-alustana pysymisen kannalta, ett&auml; saamme mitattua sen suorituskyky&auml; ja levinneisyytt&auml;. T&auml;st&auml; syyst&auml; toivomme, ettet poista t&auml;t&auml; lis&auml;osaa k&auml;yt&ouml;st&auml;.';
@@ -281,8 +279,8 @@ $Definition['Don\'t Refresh'] = '&Auml;l&auml; p&auml;ivit&auml;';
 $Definition['Don\'t use Categories'] = '&Auml;l&auml; k&auml;yt&auml; kategorioita';
 $Definition['Do not display the categories in the side panel.'] = '&Auml;l&auml; listaa kategorioita sivupaneelissa.';
 $Definition['Download Locale List'] = 'Lataa kielitiedostojen listaus';
-$Definition['DownloadLocalePack'] = 'Lataa';
 $Definition['Download Locale Pack'] = 'Lataa kielitiedostopaketti';
+$Definition['DownloadLocalePack'] = 'Lataa';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Raahaa ja pudota kategoriat haluamaasi j&auml;rjestykseen. ';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Raahaa ja pudota kategorioita alla haluamaasi j&auml;rjestykseen. ';
 

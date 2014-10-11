@@ -49,8 +49,6 @@ $Definition['[%s] Invitation'] = '[%s] فراخوانی';
 $Definition['[%s] Password Reset'] = '[%s] بازیابی گذرواژه';
 $Definition['[%s] Password Reset Request'] = '[%s] درخواست بازیابی گذرواژه';
 
-$Definition['_Locale'] = 'زبان';
-
 $Definition['a Badge'] = 'یک مدال';
 $Definition['Abilites'] = 'توانایی';
 $Definition['About.DisableStatistics'] = 'اگر که به دلایلی کاری باید این گزارش داده‌ها را از کار بیاندازید، می‌توانید این کار را با افزودن خط <code dir="ltr">$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code> به پرونده‌ی پیکربندی نصب خود انجام دهید.';

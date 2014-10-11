@@ -50,8 +50,6 @@ $Definition['[%s] Invitation'] = '[%s] Einladung';
 $Definition['[%s] Password Reset'] = '[%s] Passwort zurücksetzen';
 $Definition['[%s] Password Reset Request'] = '[%s] Antrag zum zurücksetzen des Passworts';
 
-$Definition['_Locale'] = 'Gebietsschema';
-
 $Definition['a Badge'] = 'ein Badge';
 $Definition['Abilites'] = 'Fähigkeiten';
 $Definition['About.DisableStatistics'] = 'Falls du die Datenübermittlung aus Unternehmensgründen abschalten musst, kannst du das tun indem du diesen Code in der Konfigurationsdatei der Installation hinzufügst: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';

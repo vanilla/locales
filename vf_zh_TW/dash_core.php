@@ -16,8 +16,6 @@ $Definition['%s user(s) found.'] = '找到了 %s 個會員.';
 
 $Definition['[%s] Invitation'] = '[%s] 邀請你加入';
 
-$Definition['_Locale'] = '本地化';
-
 $Definition['Accepted'] = '接受';
 $Definition['Action'] = '操作';
 $Definition['Add %s'] = '新增 %s';

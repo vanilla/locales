@@ -49,8 +49,6 @@ $Definition['[%s] Invitation'] = '[%s] Convite';
 $Definition['[%s] Password Reset'] = '[%s] Recuperar Senha';
 $Definition['[%s] Password Reset Request'] = '[%s] Requsitar Recuperação de Senha';
 
-$Definition['_Locale'] = 'Linguagem';
-
 $Definition['a Badge'] = 'um Emblema';
 $Definition['Abilites'] = 'Habilidades';
 $Definition['About.DisableStatistics'] = 'Se você precisar desabilitar este relatório de dados por algum motivo, você pode fazê-lo adicionando a seguinte linha ao arquivo de configuração de sua instalação: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';

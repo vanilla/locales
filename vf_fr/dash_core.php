@@ -43,8 +43,6 @@ $Definition['[%s] Confirm Your Email Address'] = 'Activer votre abonnement sur %
 $Definition['[%s] Password Reset'] = 'Réinitialisation du mot de passe';
 $Definition['[%s] Password Reset Request'] = '[%s] Demande de renouvellement de mot de passe.';
 
-$Definition['_Locale'] = 'Pack de Langue';
-
 $Definition['a Badge'] = 'un badge';
 $Definition['Abilites'] = 'Permissions';
 $Definition['About.DisableStatistics'] = 'Si vous devez désactiver cette collecte de données pour quelque raison commerciale que ce soit, vous pouvez désactiver ce module en ajoutant la ligne suivante à votre fichier de configuration : <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
@@ -291,8 +289,8 @@ $Definition['Don\'t Refresh'] = 'Ne pas actualiser';
 $Definition['Don\'t use Categories'] = 'Ne pas utiliser les Catégories';
 $Definition['Do not display the categories in the side panel.'] = 'Ne pas afficher les catégories dans la barre de navigation latérale.';
 $Definition['Download Locale List'] = 'Télécharger la liste de localisations';
-$Definition['Download Locale Pack'] = 'Télécharger le pack de localisations';
 $Definition['DownloadLocalePack'] = 'Télécharger';
+$Definition['Download Locale Pack'] = 'Télécharger le pack de localisations';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Glisser &amp; déposer les catégories pour les arranger et les imbriquer.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Glissez-Déposez les catégories ci-dessous pour les trier et les imbriquer.';
 

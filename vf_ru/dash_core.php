@@ -48,8 +48,6 @@ $Definition['[%s] Invitation'] = 'Приглашение [%s]';
 $Definition['[%s] Password Reset'] = '[%s] Сброс пароля';
 $Definition['[%s] Password Reset Request'] = '[%s] Запрос на сброс пароля';
 
-$Definition['_Locale'] = 'Язык';
-
 $Definition['a Badge'] = 'Значок';
 $Definition['Abilites'] = 'Способность';
 $Definition['About.DisableStatistics'] = 'Если вам по каким-то причинам необходимо отключить этот плагин, отредактируйте файл config.php, добавив (или изменив) строку<p> <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code></p>';
@@ -300,8 +298,8 @@ $Definition['Don\'t Refresh'] = 'Не обновлять';
 $Definition['Don\'t use Categories'] = 'Не использовать категории';
 $Definition['Do not display the categories in the side panel.'] = 'Не показывать список категорий в сайдбаре.';
 $Definition['Download Locale List'] = 'Скачать список локалей';
-$Definition['DownloadLocalePack'] = 'Скачать';
 $Definition['Download Locale Pack'] = 'Скачать пакет локализации';
+$Definition['DownloadLocalePack'] = 'Скачать';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Хватайте и перетаскивайте разделы, чтобы разложить их в правильном порядке.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Хватайте и перетаскивайте разделы для сортировки в списке.';
 

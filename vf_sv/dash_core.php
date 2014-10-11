@@ -48,8 +48,6 @@ $Definition['[%s] Invitation'] = '[%s] Inbjudan';
 $Definition['[%s] Password Reset'] = '[%s] Lösenord återställt.';
 $Definition['[%s] Password Reset Request'] = '[%s] återställ lösenord';
 
-$Definition['_Locale'] = 'Språkpaket';
-
 $Definition['a Badge'] = 'ett emblem';
 $Definition['Abilites'] = 'Möjligheter';
 $Definition['AboutCommentEmbedding'] = 'Vanilla kan användas som en inbäddad ersättning för din bloggs ordinarie kommentarsystem. Faktum är att Vanilla kan användas för att lägga till kommentarer till vilken websida som helst.';

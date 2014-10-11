@@ -629,7 +629,6 @@ $Definition['Length'] = '長度';
 $Definition['Level %s'] = '級別 %s';
 $Definition['Like'] = '喜歡';
 $Definition['Link to content:'] = '連結內容：';
-$Definition['Locale'] = 'zh-TW';
 $Definition['Log'] = '記錄';
 $Definition['log'] = '日誌';
 $Definition['Login with Facebook'] = '使用 Facebook 登入';

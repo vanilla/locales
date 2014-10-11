@@ -620,7 +620,6 @@ $Definition['Length'] = 'Lunghezza';
 $Definition['Level %s'] = 'Livello %s';
 $Definition['Like'] = 'Mi piace';
 $Definition['Link to content:'] = 'Link al contenuto:';
-$Definition['Locale'] = 'it-IT';
 $Definition['Login with Facebook'] = 'Accedi con Facebook';
 
 $Definition['Major'] = 'Maggiore';

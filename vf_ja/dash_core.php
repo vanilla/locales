@@ -19,8 +19,6 @@ $Definition['15 minutes'] = '15分間';
 $Definition['[%s] Invitation'] = '[%s] 招待状';
 $Definition['[%s] Password Reset Request'] = '[%s] パスワード リセット依頼';
 
-$Definition['_Locale'] = 'ロケール';
-
 $Definition['Accepted'] = '承認済み';
 $Definition['Action'] = 'アクション';
 $Definition['Add Category'] = 'カテゴリを追加';

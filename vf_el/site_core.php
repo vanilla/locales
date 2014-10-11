@@ -627,7 +627,6 @@ $Definition['Length'] = 'Μήκος';
 $Definition['Level %s'] = 'Επίπεδο %s';
 $Definition['Like'] = 'Μου αρέσει';
 $Definition['Link to content:'] = 'Σύνδεσμος στο περιεχόμενο:';
-$Definition['Locale'] = 'Αγγλικά (Καναδά)';
 $Definition['Log'] = 'Αρχείο καταγραφής';
 $Definition['log'] = 'Σύνδεση';
 $Definition['Login with Facebook'] = 'Σύνδεση μέσω Facebook';

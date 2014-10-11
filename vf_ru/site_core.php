@@ -670,7 +670,6 @@ $Definition['Length'] = 'Длина';
 $Definition['Level %s'] = 'Уровень %s';
 $Definition['Like'] = 'Лайк';
 $Definition['Link to content:'] = 'Ссылка на контент:';
-$Definition['Locale'] = 'ru-RU';
 $Definition['Log'] = 'Зайти';
 $Definition['log'] = 'журнал';
 $Definition['Login with Facebook'] = 'Войти с Facebook';

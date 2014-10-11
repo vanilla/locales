@@ -470,8 +470,8 @@ $Definition['Female'] = 'Weiblich';
 $Definition['Fifth Anniversary'] = 'Fünfter Jahrestag';
 $Definition['FileName'] = 'Dateiname';
 $Definition['Filename'] = 'Dateiname';
-$Definition['FileSize'] = 'Dateigröße';
 $Definition['File Size'] = 'Dateigröße';
+$Definition['FileSize'] = 'Dateigröße';
 $Definition['First Anniversary'] = 'Erster Jahrestag';
 $Definition['First Comment'] = 'Erster Kommentar';
 $Definition['Flag'] = 'Melden';
@@ -612,7 +612,6 @@ $Definition['Leave Comments'] = 'Hinterlasse Kommentare';
 $Definition['Leave Group'] = 'Gruppe verlassen';
 $Definition['Length'] = 'Länge';
 $Definition['Link to content:'] = 'Inhalt verlinken:';
-$Definition['Locale'] = 'de';
 $Definition['log'] = 'loggen';
 $Definition['Login with Facebook'] = 'Login mit Facebook';
 

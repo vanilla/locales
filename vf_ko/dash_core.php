@@ -8,8 +8,6 @@ $Definition['1 week after being sent'] = '발송 후 1 주 경과';
 
 $Definition['2 weeks after being sent'] = '발송 후 2 주 경과';
 
-$Definition['_Locale'] = '현지화';
-
 $Definition['Accepted'] = '등록되었습니다';
 $Definition['Action'] = '활동';
 $Definition['Add Category'] = '카테고리 추가';

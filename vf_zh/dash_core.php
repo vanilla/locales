@@ -48,8 +48,6 @@ $Definition['[%s] Invitation'] = '[%s]邀请';
 $Definition['[%s] Password Reset'] = '[%s]重设密码';
 $Definition['[%s] Password Reset Request'] = '[%s]重设密码请求';
 
-$Definition['_Locale'] = '本地化';
-
 $Definition['a Badge'] = '一枚徽章';
 $Definition['Abilites'] = '能力';
 $Definition['About.DisableStatistics'] = '如果您因为某些商业原因需要关闭数据报告，您可以在安装配置文件中添加下列文字：

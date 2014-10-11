@@ -44,8 +44,6 @@ $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement ca
 $Definition['[%s] Confirm Your Email Address'] = '[%s] подтвердилъ вашъ email адресъ';
 $Definition['[%s] Invitation'] = 'Приглашеніе [%s]';
 
-$Definition['_Locale'] = 'Языкъ';
-
 $Definition['Abilites'] = 'Способность';
 $Definition['About.DisableStatistics'] = 'Если вамъ по какимъ-то причинамъ необходимо отключить этотъ плагинъ, отредактируйте файлъ config.php, добавивъ (или измѣнивъ) строку<p> <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code></p>';
 $Definition['About.VanillaStatistics'] = 'Это очень важный плагинъ, отправляющій статистику использованія вашего форума на сервера Vanillaforums.org. Для того чтобы авторы Vanilla могли сдѣлать движокъ форума еще лучше. Мы просимъ Васъ не отключать отправку статистическихъ данныхъ';

@@ -26,8 +26,6 @@ $Definition['15 minutes'] = '15 នាទី';
 
 $Definition['<strong>Categories</strong>'] = '<strong>ចំណាត់​ក្រុម</strong>';
 
-$Definition['_Locale'] = 'Locale';
-
 $Definition['About Vanilla Statistics'] = 'អំពី​ស្ថិតិ Vanilla';
 $Definition['Accepted'] = 'បាន​ព្រម​ទទួល';
 $Definition['Action'] = 'សកម្មភាព';

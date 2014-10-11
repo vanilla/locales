@@ -616,7 +616,6 @@ $Definition['Length'] = 'Längd';
 $Definition['Level %s'] = 'Nivå %s';
 $Definition['Like'] = 'Gilla';
 $Definition['Link to content:'] = 'Länka till innehåll:';
-$Definition['Locale'] = 'sv';
 $Definition['Log'] = 'Logg';
 $Definition['log'] = 'logg';
 $Definition['Login with Facebook'] = 'Logga in med Facebook';
