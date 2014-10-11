@@ -49,8 +49,6 @@ $Definition['[%s] Invitation'] = '[%s] Invitation';
 $Definition['[%s] Password Reset'] = '[%s] Password Reset';
 $Definition['[%s] Password Reset Request'] = '[%s] Password Reset Request';
 
-$Definition['_Locale'] = 'Locale';
-
 $Definition['a Badge'] = 'a Badge';
 $Definition['a full year.'] = 'a full year.';
 
