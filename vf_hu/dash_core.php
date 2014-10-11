@@ -48,6 +48,8 @@ $Definition['[%s] Invitation'] = '[%s] Meghívás';
 $Definition['[%s] Password Reset'] = '[%s] Új jelszó';
 $Definition['[%s] Password Reset Request'] = '[%s] Új jelszó kérése';
 
+$Definition['_Locale'] = 'hu';
+
 $Definition['a Badge'] = 'egy plecsni';
 $Definition['Abilites'] = 'Képességek';
 $Definition['About.DisableStatistics'] = 'Ha le kell tiltanod ezt az adatküldési opciót, valamilyen üzleti okból, úgy teheted meg, hogy a következő sort adod hozzá a telepítésed konfigurációs file-jához: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
@@ -299,8 +301,8 @@ $Definition['Don\'t Refresh'] = 'Ne frissíts';
 $Definition['Don\'t use Categories'] = 'Ne használj kategóriákat';
 $Definition['Do not display the categories in the side panel.'] = 'Ne jelenítsd meg a kategóriákat az oldalpanelen.';
 $Definition['Download Locale List'] = 'Nyelvi lista letöltése';
-$Definition['Download Locale Pack'] = 'Nyelvi csomag letöltése';
 $Definition['DownloadLocalePack'] = 'Letöltés';
+$Definition['Download Locale Pack'] = 'Nyelvi csomag letöltése';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Húzd-és-dobd a kategóriákat, hogy rendezd és beágyazd őket.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Húzd-és-dobd a lenti kategóriákat azok rendezéséhez és egymásba ágyazásához.';
 

@@ -430,6 +430,7 @@ $Definition['Hide this category from the recent discussions page.'] = 'Скры�
 $Definition['Homepage'] = 'Главная страница';
 $Definition['Homepage Title'] = 'Заголовок домашней страницы';
 $Definition['How to use themes'] = 'Используй новые темы';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Если логотип баннера будет загружен, он заменит заголовок баннера на публичных страницах форума.';
 $Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'Если вы используете Proxy-соединение с официально поддерживаемым плагином удаленного приложения, такой как наш плагин WordPress-proxyconnect, эти значения будут доступны в окне конфигурации этого плагина.';
@@ -439,6 +440,7 @@ $Definition['If you want to decrease the warning level then remove a warning.'] 
 $Definition['Import'] = 'Импорт';
 $Definition['Importing to Vanilla'] = 'Импортировать в Vanill\'u';
 $Definition['Inbox Page'] = 'Страница входящих сообщений';
+$Definition['Indexes'] = 'Индексы';
 $Definition['Information'] = 'Информация';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Установите Vanilla без файла .htaccess';
 $Definition['Internaltionalization & Localization'] = 'Интернационализация и локализация';
