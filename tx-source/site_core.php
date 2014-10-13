@@ -495,6 +495,7 @@ $Definition['First Anniversary'] = 'First Anniversary';
 $Definition['First Comment'] = 'First Comment';
 $Definition['Flag'] = 'Flag';
 $Definition['Folder'] = 'Folder';
+$Definition['Folders'] = 'Folders';
 $Definition['Follow'] = 'Follow';
 $Definition['Follow %s'] = 'Follow %s';
 $Definition['Followed by %d people'] = 'Followed by %d people';
@@ -549,6 +550,7 @@ $Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you wan
 
 $Definition['Hang on a sec while we sign you out.'] = 'Hang on a sec while we sign you out.';
 $Definition['he'] = 'he';
+$Definition['Heading'] = 'Heading';
 $Definition['Heading %s'] = 'Heading %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
