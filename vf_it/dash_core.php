@@ -122,6 +122,7 @@ $Definition['Badge cannot be deleted.'] = 'Badge non cancellabile';
 $Definition['Badge deleted.'] = 'Badge cancellato';
 $Definition['Badge Name'] = 'Nome';
 $Definition['Badge Requests'] = 'Richieste Badge';
+$Definition['Ban Item'] = 'Oggetto';
 $Definition['Banner Logo'] = 'Logo Banner';
 $Definition['Banner Title'] = 'Titolo Banner';
 $Definition['Ban Type'] = 'Tipo';
@@ -173,6 +174,7 @@ $Definition['Current Theme'] = 'Tema attuale';
 
 $Definition['Decline'] = 'Rifiuta';
 $Definition['Default  Category'] = 'Categoria Predefinita';
+$Definition['Delete Category'] = 'Cancella Contenuto';
 $Definition['Delete Role'] = 'Rimuovi Ruolo';
 $Definition['Delete User: %s'] = 'Rimuovi utente: %s';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'cancellando un Ruolo si potrebbe bloccare l\'accesso o l\'iscrizione a molti utenti!';

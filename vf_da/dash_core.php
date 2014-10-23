@@ -1,6 +1,7 @@
 <?php
 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" ikke fundet.';
+$Definition['%1$s version %2$s is available.'] = '%1$s version %2$s er tilgængelig.';
 $Definition['%s is not a valid email address'] = '%s er ikke en gyldig email-adresse';
 $Definition['%s item in queue'] = '%s i kø';
 $Definition['%s level'] = '%s niveau';
@@ -9,13 +10,17 @@ $Definition['%s of %s'] = '%s af %s';
 $Definition['%s posts'] = '%s indlæg';
 $Definition['%s Settings'] = '%s Indstillinger';
 $Definition['%s site(s) found.'] = '%s side(r) fundet.';
+$Definition['%s sources(s) found.'] = '%s kilder(s) fundet.';
 $Definition['%s times'] = '%s gange';
+$Definition['%s unavailable'] = '%s ikke tilgængelig';
 $Definition['%s user(s) found.'] = '%s brugere fundet.';
 $Definition['%s user(s) will be affected by this action.'] = '%s bruger(e) vil blive påvirket af denne ændring.';
 $Definition['%s years.'] = '%s år.';
 
 $Definition['(less)'] = '(mindre)';
 $Definition['(more)'] = '(mere)';
+
+$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Fællesskabs forummet er hvad alle dine brugere og kunder vil se, når de besøger ';
 
 $Definition['1 day'] = '1 dag';
 $Definition['1 hour'] = '1 time';
@@ -26,17 +31,63 @@ $Definition['1 week after being sent'] = '1 uge efter at blive sendt';
 
 $Definition['2 weeks after being sent'] = '2 uger efter at blive sendt';
 
+$Definition['4 hours'] = '4 timer';
+
+$Definition['5 minutes'] = '5 minutter';
+
 $Definition['15 minutes'] = '15 minutter';
 
+$Definition['<strong>Categories</strong>'] = '<strong>Kategorier</strong>';
+$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Kategorier</strong> kan du organisere dine diskussioner. Kategorier kan kun indeholde diskussioner.';
+$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Pas på!</strong> Sletning af en rolle kan resultere i brugere ikke har adgang til programmet.';
+$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Pas på!</strong> Flytte diskussioner ind en udskiftning kategori kan resultere i diskussioner forsvinde (eller vises) Hvis kategorien udskiftning har forskellige tilladelser end kategorien er slettet.';
+
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Bekræft din E-mail-adresse';
+$Definition['[%s] Password Reset'] = '[%s] Nulstilling af adgangskode';
+$Definition['[%s] Password Reset Request'] = '[%s] Password nulstilling anmodning';
+
+$Definition['a Badge'] = 'et Badge';
 $Definition['Abilites'] = 'Evner';
+$Definition['About.DisableStatistics'] = 'Hvis du skal deaktivere denne indberetning af nogle business grund af data, kan du gøre det ved at føje følgende linje til din installation konfigurationsfil: <code>$Configuration [\'Garden\'] [\'Analytics\'] [\'Enabled\'] = FALSE;</code>';
+$Definition['About.VanillaStatistics'] = 'Det er yderst vigtigt at livet i denne gratis, open source software, at vi præcist at måle rækkevidden og effektiviteten af vanille. Vi spørger at du venligst ikke Deaktiver indberetning af disse data.';
+$Definition['AboutCommentEmbedding'] = 'Vanille kan bruges som en drop-in erstatning for din blog\'s native kommentere system. Faktisk, kan det bruges til at føje kommentarer til en side på nettet.';
+$Definition['AboutEmbedding'] = 'Indlejring tillader alle eller en del af dit community for at være integreret i andre programmer & websider.';
+$Definition['About Vanilla Statistics'] = 'Om Vanilla statistik';
+$Definition['Above Main Content'] = 'Over hovedindholdet';
 $Definition['Accepted'] = 'Accepteret';
+$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Få adgang til dit community forum ved at klikke på linket "Besøge webstedet" øverst til venstre på denne side, eller ved ';
+$Definition['Account Sync Failed'] = 'Konto Synkronisering mislykkedes';
 $Definition['Action'] = 'Handling';
+$Definition['Actions Based on Votes'] = 'Aktioner baseret på stemmer';
+$Definition['Activity Item'] = 'Aktiviteten vare';
+$Definition['Activity item not found.'] = 'Aktivitet element blev ikke fundet.';
 $Definition['Add %s'] = 'Tilføj %s';
+$Definition['Add a new Pocket to your site.'] = 'Tilføje en ny lomme til dit websted.';
+$Definition['Add Category'] = 'Tilføj kategori';
+$Definition['Add Connection'] = 'Tilføje forbindelse';
+$Definition['Added By'] = 'Tilføjet af';
 $Definition['Add Info &amp; Create Account'] = 'Tilf¯j Info &amp; Lav Bruger';
+$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'Tilføje oplysninger i den fra felt i e-mail-adresser til at hjælpe med svar (anbefales).';
+$Definition['Adding & Editing Categories'] = 'Tilføje & redigering kategorier';
+$Definition['Add Item'] = 'Tilføj element';
+$Definition['AddonProblems'] = '<h2>Problemer?</h2><p>Hvis noget går galt med en addon, og du kan ikke bruge dit websted, kan du deaktivere dem manuelt ved at redigere:</p> %s';
 $Definition['Addons'] = 'Tilf¯jelser';
+$Definition['Add Role'] = 'Tilføj rolle';
 $Definition['Add User'] = 'Tilf¯j Bruger';
 $Definition['Advanced'] = 'Avanceret';
+$Definition['Advanced Editor Settings'] = 'Avanceret Editor-indstillinger';
+$Definition['Advanced Embed Settings'] = 'Avanceret Embed indstillinger';
+$Definition['Advanced Forum Settings'] = 'Avanceret Forum indstillinger';
+$Definition['Advanced Options'] = 'Avancerede indstillinger';
+$Definition['Advanced Settings'] = 'Avancerede indstillinger';
+$Definition['Advanced settings for embedded community elements'] = 'Avancerede indstillinger for integrerede fællesskabselementerne';
+$Definition['After'] = 'Efter';
+$Definition['a full year.'] = 'et helt år.';
+$Definition['Alive'] = 'I live';
+$Definition['All'] = 'Alle';
 $Definition['All %1$s'] = 'Alle %1$s';
+$Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Alle kategorierne med et udvalg af 5 seneste drøftelser under hver';
+$Definition['A message has been sent to your email address with password reset instructions.'] = 'En besked er blevet sendt til din emailadresse med password reset instruktioner.';
 $Definition['Appearance'] = 'Udseende';
 $Definition['Applicant'] = 'Ans¯ger';
 $Definition['Application'] = 'Ands¯gning';

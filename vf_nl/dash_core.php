@@ -3,7 +3,8 @@
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" niet gevonden.';
 $Definition['%1$s Version %2$s'] = '%1$s Versie %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s versie %2$s is beschikbaar.';
-$Definition['%s is not a valid email address'] = '%s is niet een geldig email addres';
+$Definition['%s is not a valid email address'] = '%s is geen geldig email addres';
+$Definition['%s item in queue'] = '%s item in wachtrij';
 $Definition['%s level'] = '%s niveau';
 $Definition['%s levels'] = '%s niveaus';
 $Definition['%s of %s'] = '%s van %s';
@@ -11,7 +12,7 @@ $Definition['%s Settings'] = '%s Instellingen';
 $Definition['%s site(s) found.'] = '%s site(s) gevonden.';
 $Definition['%s sources(s) found.'] = '%s bronnen(s) gevonden.';
 $Definition['%s times'] = '%s keer';
-$Definition['%s unavailable'] = '%s onbeschikbaar';
+$Definition['%s unavailable'] = '%s niet beschikbaar';
 $Definition['%s user(s) found.'] = '%s gebruiker(s) gevonden.';
 $Definition['%s user(s) will be affected by this action.'] = '%s gebruiker(s) zullen invloed ondervinden van deze actie.';
 $Definition['%s years.'] = '%s jaren.';
@@ -37,8 +38,8 @@ $Definition['5 minutes'] = '5 minuten';
 $Definition['15 minutes'] = '15 minuten';
 
 $Definition['<strong>Categories</strong>'] = '<strong>Categorieën</strong>';
-$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categorieën</strong> Stelt u in staat om uw discussies te organiseren. Categorieën kunnen alleen discussies bevatten.';
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Opgelet!</strong> Het verwijderen van een rol kan resulteren in gebruikers die geen toegang kunnen krijgen tot de applicatie.';
+$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categorieën</strong> stellen u in staat om uw discussies te organiseren. Categorieën kunnen alleen discussies bevatten.';
+$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Opgelet!</strong> Het verwijderen van een rol kan erin resulteren dat gebruikers geen toegang kunnen krijgen tot de applicatie.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Opgelet!</strong> Het verplaatsen van discussies naar een vervangende categorie kan resulteren in discussies die verdwijnen (of verschijnen) als de vervangende categorie andere permissies heeft dan de categorie die wordt verwijderd.';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Bevestig je E-mailadres';
