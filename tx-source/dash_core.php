@@ -791,6 +791,7 @@ $Definition['Thank You!'] = 'Thank You!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'The %s Authenticator does not have any custom configuration options.';
 $Definition['The %s badge has already been given to %s.'] = 'The %s badge has already been given to %s.';
 $Definition['The %s has been deleted.'] = 'The %s has been deleted.';
+$Definition['The %s has been flagged for moderation.'] = 'The %s has been flagged for moderation.';
 $Definition['The %s locale pack does not exist.'] = 'The %s locale pack does not exist.';
 $Definition['The %s table is not in the correct format.'] = 'The %s table is not in the correct format.';
 $Definition['The %s was already approved by %s on %s.'] = 'The %s was already approved by %s on %s.';
