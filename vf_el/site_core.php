@@ -481,8 +481,8 @@ $Definition['Female'] = 'Θηλυκό';
 $Definition['Fifth Anniversary'] = 'Πέμπτη Επέτειος';
 $Definition['FileName'] = 'Όνομα Αρχείου';
 $Definition['Filename'] = 'Όνομα Αρχείου';
-$Definition['File Size'] = 'Μέγεθος Αρχείου';
 $Definition['FileSize'] = 'Μέγεθος αρχείου';
+$Definition['File Size'] = 'Μέγεθος Αρχείου';
 $Definition['First Anniversary'] = 'Πρώτη επέτειος';
 $Definition['First Comment'] = 'Πρώτο Σχόλιο';
 $Definition['Flag'] = 'Σημαία';
@@ -592,8 +592,8 @@ $Definition['InviteErrorPermission'] = 'Λυπάμαι, η άδεια δε δό�
 $Definition['Invite Friends'] = 'Προσκαλέστε Φίλους';
 $Definition['Invite friends'] = 'Προσκαλέστε φίλους';
 $Definition['Invite one or more people to join this group.'] = 'Προσκαλέστε ένα η παραπάνω μέλη να συμμετάσχουν σε αυτό το γκρουπ.';
-$Definition['IPAddress'] = 'Διεύθυνση IP';
 $Definition['IP Address'] = 'Διεύθυνση IP';
+$Definition['IPAddress'] = 'Διεύθυνση IP';
 $Definition['I remember now!'] = 'Το θυμήθηκα!';
 $Definition['Italic'] = 'Πλάγια γραφή';
 $Definition['Item'] = 'Αντικείμενο';
@@ -775,12 +775,19 @@ $Definition['Page Not Found'] = 'Η Σελίδα Δεν Βρέθηκε';
 $Definition['Participated'] = 'Συμμετείχε';
 $Definition['ParticipatedHomepageTitle'] = 'Συμμετοχές Συζητήσεων';
 $Definition['Password'] = 'Κωδικός χρήστη';
+$Definition['Password Contains Username'] = 'Περιέχει ‘Ονομα Χρήστη';
+$Definition['Password Good'] = 'Καλό ';
+$Definition['Password Ok'] = 'Επαρκές';
 $Definition['PasswordRequest'] = 'Κάποιος ζήτησε επαναφορά κωδικού στο %2$s. Για να επαναφέρετε τον κωδικό σας, ακολουθείτε αυτό το σύνδεμο:
 
   %3$s
 
 Αν δεν κάνατε αυο το αίτημα, αγνοήστε αυτό το email.';
 $Definition['Passwords don\'t match'] = 'Οι Κωδικοί δεν ταιριάζουν';
+$Definition['Password Strong'] = 'Ισχυρό';
+$Definition['Password Too Short'] = 'Πολύ Μικρό';
+$Definition['Password Very Weak'] = 'Πολύ ασθενές';
+$Definition['Password Weak'] = 'Ασθενές';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Επικολλήστε το URL μιας εικόνας για να την ενσωματώσετε γρήγορα';
 $Definition['Permalink'] = 'Μόνιμος Σύνδεσμος';
 $Definition['permalink'] = 'μόνιμος σύνδεσμος';

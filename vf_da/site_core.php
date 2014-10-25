@@ -474,11 +474,12 @@ $Definition['Female'] = 'Kvinde';
 $Definition['Fifth Anniversary'] = 'Femte jubilæum';
 $Definition['FileName'] = 'Filnavn';
 $Definition['Filename'] = 'Filnavn';
-$Definition['FileSize'] = 'Filstørrelse';
 $Definition['File Size'] = 'Filstørrelse';
+$Definition['FileSize'] = 'Filstørrelse';
 $Definition['First Anniversary'] = 'Første jubilæum';
 $Definition['First Comment'] = 'Første kommentar';
 $Definition['Folder'] = 'Mappe';
+$Definition['Folders'] = 'Mapper';
 $Definition['Follow'] = 'Følg';
 $Definition['Follow %s'] = 'Følg %s';
 $Definition['Followed by %d people'] = 'Fulgt af %d personer';
@@ -531,6 +532,7 @@ $Definition['GuestModule.Message'] = 'Det ser ud til, at du er ny her. For at ko
 
 $Definition['Hang on a sec while we sign you out.'] = 'Vent et sekund mens vi logger dig ud.';
 $Definition['he'] = 'ham';
+$Definition['Heading'] = 'Hoved';
 $Definition['Heading %s'] = 'Overskrift %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} modtog <a href="{Url,html}">{Data.Name,text}</a> emblemet.';
 $Definition['HeadlineFormat.Ban'] = '{AngåendeBrugerID,Dig} blokerede {AktivitetBrugerID,dig}.';
@@ -732,8 +734,8 @@ $Definition[' now.'] = 'nu.';
 $Definition['of'] = 'af';
 $Definition['Off Topic'] = 'Off topic';
 $Definition['OK'] = 'Ok';
-$Definition['OldPassword'] = 'Gammelt kodeord';
 $Definition['Old Password'] = 'Tidligere kodeord';
+$Definition['OldPassword'] = 'Gammelt kodeord';
 $Definition['on'] = 'til';
 $Definition['Online Preferences'] = 'Online-præferencer';
 $Definition['Only show followed categories'] = 'Vis kun kategorier der følges';
@@ -756,12 +758,18 @@ $Definition['Page Not Found'] = 'Siden blev ikke fundet';
 $Definition['Participated'] = 'Deltog';
 $Definition['ParticipatedHomepageTitle'] = 'Diskussioner deltaget i';
 $Definition['Password'] = 'Kodeord';
+$Definition['Password Contains Username'] = 'Indeholder brugernavn';
+$Definition['Password Good'] = 'God';
 $Definition['PasswordRequest'] = 'Der er en, der har anmodet om at nulstille dit password for %2$s. For at nulstille dit password skal du følge dette link:
 
 %3$s
 
 Hvis det ikke var dig, der sendte anmodningen, skal du bare se bort fra den her e-mail.';
 $Definition['Passwords don\'t match'] = 'Kodeord stemmer ikke overens';
+$Definition['Password Strong'] = 'Stærk';
+$Definition['Password Too Short'] = 'For kort';
+$Definition['Password Very Weak'] = 'Meget svag';
+$Definition['Password Weak'] = 'Svag';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Indsæt en billede-URL for at embedde den hurtigt.';
 $Definition['Permalink'] = 'Permanent link';
 $Definition['permalink'] = 'permanent link';
@@ -937,8 +945,8 @@ $Definition['Signature Code'] = 'Signatur';
 $Definition['Signature invalid.'] = 'Signatur ugyldig.';
 $Definition['Signatures'] = 'Signaturer';
 $Definition['Signature Settings'] = 'Indstillinger for signatur';
-$Definition['SignIn'] = 'Log ind';
 $Definition['Sign In'] = 'Log ind';
+$Definition['SignIn'] = 'Log ind';
 $Definition['SigningOut'] = 'Hæng på et sekund, mens vi logger dig ud.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Log in</a> eller <a href="{RegisterUrl,html}">Registrér</a> for at kommentere.';
 $Definition['Sign in to vote!'] = 'Log ind for at stemme!';
