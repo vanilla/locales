@@ -607,8 +607,8 @@ $Definition['InviteErrorPermission'] = 'Lo siento, permiso denegado.';
 $Definition['Invite Friends'] = 'Invitar a amigos';
 $Definition['Invite friends'] = 'Invitar a amigos';
 $Definition['Invite one or more people to join this group.'] = 'Invite a una o más personas a unirse a este grupo.';
-$Definition['IPAddress'] = 'Dirección IP';
 $Definition['IP Address'] = 'Dirección IP ';
+$Definition['IPAddress'] = 'Dirección IP';
 $Definition['I remember now!'] = '¡Acabo de recordarla!';
 $Definition['Italic'] = 'Inclinado';
 $Definition['Item'] = 'Articulo';
@@ -789,6 +789,8 @@ $Definition['Page Not Found'] = 'Página no encontrada';
 $Definition['Participated'] = 'Participado';
 $Definition['ParticipatedHomepageTitle'] = 'Discusiones en las que se participaron';
 $Definition['Password'] = 'Contraseña';
+$Definition['Password Contains Username'] = 'Contiene nombre de usuario';
+$Definition['Password Good'] = 'Bien';
 $Definition['PasswordRequest'] = 'Hola %1$s,
 
 Alguien ha solicitado resetear tu contraseña en %2$s. Para resetearla, sigue este enlace:
@@ -797,6 +799,10 @@ Alguien ha solicitado resetear tu contraseña en %2$s. Para resetearla, sigue es
 
 Si tu no hiciste esta solicitud, ignora esta solicitud.';
 $Definition['Passwords don\'t match'] = 'Las contraseñas no coinciden.';
+$Definition['Password Strong'] = 'Fuerte';
+$Definition['Password Too Short'] = 'Demasiado corto';
+$Definition['Password Very Weak'] = 'Muy débil';
+$Definition['Password Weak'] = 'Débil';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Pegar la URL de una imagen para incrustarla rápidamente.';
 $Definition['Permalink'] = 'Enlace Permanente';
 $Definition['permalink'] = 'enlace permanente';
@@ -843,8 +849,8 @@ $Definition['Private Note for Moderators'] = 'Nota privada a los moderadores';
 $Definition['Problem with credentials.'] = 'Problemas con credenciales.';
 $Definition['Proceed'] = 'Proceder';
 $Definition['Profile'] = 'Perfil';
-$Definition['Profile Fields'] = 'Campos de Perfil ';
 $Definition['Profile  Fields'] = 'Perfil  Campos';
+$Definition['Profile Fields'] = 'Campos de Perfil ';
 $Definition['ProfileFieldsCustomDescription'] = 'Usa estos campos para personalizar la información del perfil. Puedes agregar cosas como "Estado Civil", "Skype" o "Tu Favorito Dinosaurio". ¡Se creativo!';
 $Definition['Profile Page'] = 'Pagina de Perfil';
 $Definition['Profile Picture'] = 'Fotografía del perfil';
