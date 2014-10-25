@@ -786,6 +786,13 @@ $Definition['Page Not Found'] = 'Page Not Found';
 $Definition['Participated'] = 'Participated';
 $Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
 $Definition['Password'] = 'Password';
+$Definition['Password Too Short'] = 'Too Short';
+$Definition['Password Contains Username'] = 'Contains Username';
+$Definition['Password Very Weak'] = 'Very Weak';
+$Definition['Password Weak'] = 'Weak';
+$Definition['Password Ok'] = 'Ok';
+$Definition['Password Good'] = 'Good';
+$Definition['Password Strong'] = 'Strong';
 $Definition['PasswordRequest'] = 'Someone has requested to reset your password at %2$s. To reset your password, follow this link:
 
   %3$s
