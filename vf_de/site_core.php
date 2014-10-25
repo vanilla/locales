@@ -472,12 +472,13 @@ $Definition['Female'] = 'Weiblich';
 $Definition['Fifth Anniversary'] = 'Fünfter Jahrestag';
 $Definition['FileName'] = 'Dateiname';
 $Definition['Filename'] = 'Dateiname';
-$Definition['FileSize'] = 'Dateigröße';
 $Definition['File Size'] = 'Dateigröße';
+$Definition['FileSize'] = 'Dateigröße';
 $Definition['First Anniversary'] = 'Erster Jahrestag';
 $Definition['First Comment'] = 'Erster Kommentar';
 $Definition['Flag'] = 'Melden';
 $Definition['Folder'] = 'Ordner';
+$Definition['Folders'] = 'Ordner';
 $Definition['Follow'] = 'Folgen';
 $Definition['Follow %s'] = 'Folge %s';
 $Definition['Followed by %d people'] = 'Gefolgt von %d Leuten';
@@ -530,6 +531,7 @@ $Definition['GuestModule.Message'] = 'Es sieht so aus als wärst du neu hier. We
 
 $Definition['Hang on a sec while we sign you out.'] = 'Warte einen Moment während du ausgeloggt wirst.';
 $Definition['he'] = 'er';
+$Definition['Heading'] = 'Überschrift';
 $Definition['Heading %s'] = 'Titel %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} hat den <a href="{Url,html}">{Data.Name,text}</a> Badge verdient.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} hat {ActivityUserID,you} gebannt.';
@@ -753,12 +755,18 @@ $Definition['Page Not Found'] = 'Seite nicht gefunden';
 $Definition['Participated'] = 'Teilgenommen';
 $Definition['ParticipatedHomepageTitle'] = 'Beteiligte Diskussionen';
 $Definition['Password'] = 'Passwort';
+$Definition['Password Contains Username'] = 'beinhaltet Benutzernamen';
+$Definition['Password Good'] = 'gut';
 $Definition['PasswordRequest'] = 'Jemand hat beantragt, dein Passwort bei %2$s zurückzusetzen. Wenn dies beabsichtigt war, folge diesem Link:
 
   %3$s
 
 Ansonsten irgnoriere diese Mail einfach.';
 $Definition['Passwords don\'t match'] = 'Passwörter stimmen nicht überein';
+$Definition['Password Strong'] = 'stark';
+$Definition['Password Too Short'] = 'zu kurz';
+$Definition['Password Very Weak'] = 'sehr schwach';
+$Definition['Password Weak'] = 'schwach';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Füge die URL eines Bildes ein, um es schnell einzugliedern.';
 $Definition['permalink'] = 'Permalink';
 $Definition['PermissionErrorMessage'] = 'Du hast hierfür keine Berechtigung.';
@@ -803,8 +811,8 @@ $Definition['Private Note for Moderators'] = 'Private Notiz für Moderatoren';
 $Definition['Problem with credentials.'] = 'Problem mit Zertifikaten.';
 $Definition['Proceed'] = 'Fortsetzen';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile Fields'] = 'Profilfelder';
 $Definition['Profile  Fields'] = 'Profilfelder';
+$Definition['Profile Fields'] = 'Profilfelder';
 $Definition['ProfileFieldsCustomDescription'] = 'Benutze diese Felder, um eigene Profilinformationen hinzuzufügen. Du kannst Felder hinzufügen, wie "Beziehnungsstatus", "Skype" oder "Lieblingsdinosaurier". Sei kreativ!';
 $Definition['Profile Page'] = 'Profilseite';
 $Definition['Profile Picture'] = 'Profilbild';

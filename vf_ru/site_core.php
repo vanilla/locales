@@ -524,6 +524,7 @@ $Definition['First Anniversary'] = 'Первая годовщина';
 $Definition['First Comment'] = 'Первый комментарий';
 $Definition['Flag'] = 'Упрекнуть';
 $Definition['Folder'] = 'Папка';
+$Definition['Folders'] = ' Папки';
 $Definition['Follow'] = 'Подписаться';
 $Definition['Follow %s'] = 'Следить %s';
 $Definition['Followed by %d people'] = '%d подписчиков';
@@ -581,6 +582,7 @@ $Definition['GuestModule.Message'] = 'Похоже, вы здесь новень
 
 $Definition['Hang on a sec while we sign you out.'] = 'Подождите секунду, пока мы подпишем вас';
 $Definition['he'] = 'он';
+$Definition['Heading'] = 'Заголовок';
 $Definition['Heading %s'] = 'Заголовок %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} удостоились <a href="{Url,html}">{Data.Name,text}</a> значка.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} отлучён пользователем {ActivityUserID,you}.';
@@ -838,6 +840,9 @@ $Definition['Page Not Found'] = 'Страница не найдена';
 $Definition['Participated'] = 'Участник';
 $Definition['ParticipatedHomepageTitle'] = 'Дискуссии с участием';
 $Definition['Password'] = 'Пароль';
+$Definition['Password Contains Username'] = 'Содержит имя пользователя';
+$Definition['Password Good'] = 'Хороший';
+$Definition['Password Ok'] = 'Ок';
 $Definition['PasswordRequest'] = 'Hallo %1$s,
 
 Кто-то просит сбросить %2$s пароль. Если это были вы, пройдите по ссылке ниже:
@@ -847,6 +852,10 @@ $Definition['PasswordRequest'] = 'Hallo %1$s,
 
 Всего хорошего!';
 $Definition['Passwords don\'t match'] = 'Пароль не подходит';
+$Definition['Password Strong'] = 'Сильный';
+$Definition['Password Too Short'] = 'Слишком короткий';
+$Definition['Password Very Weak'] = 'Очень слабый';
+$Definition['Password Weak'] = 'Слабый';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Вставить URL изображения для быстрого прикрепления.';
 $Definition['Permalink'] = '#';
 $Definition['permalink'] = 'ссылка';
@@ -1026,8 +1035,8 @@ $Definition['Signature Code'] = 'Подпись';
 $Definition['Signature invalid.'] = 'Подпись недействительна.';
 $Definition['Signatures'] = 'Подписи';
 $Definition['Signature Settings'] = 'Настройки подписи';
-$Definition['SignIn'] = 'Вход';
 $Definition['Sign In'] = 'Войти';
+$Definition['SignIn'] = 'Вход';
 $Definition['SigningOut'] = 'Подождите пока система завершит вашу сессию.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Войдите</a> или <a href="{RegisterUrl,html}">Зарегистрируйтесь</a> чтобы комментировать.';
 $Definition['Sign in to vote!'] = 'Войдите, чтобы голосовать!';

@@ -122,6 +122,7 @@ $Definition['Activity.PictureChange.FullHeadline'] = '%1$s mudou a imagem de per
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s mudou a imagem de perfil %6$s.';
 $Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s respondeu %4$s %8$s.';
 $Definition['Add'] = 'Adicionar';
+$Definition['Add %s'] = 'Acrescentar %s';
 $Definition['Add a Comment'] = 'Fazer um Comentário';
 $Definition['Add a Message'] = 'Adicionar uma Mensagem';
 $Definition['Add another poll option ...'] = 'Adiciona outra opção para a enquente ...';
@@ -358,6 +359,7 @@ $Definition['Drop image/file'] = 'Soltar imagem ou arquivo';
 
 $Definition['Earned'] = 'Conquistado';
 $Definition['Edit'] = 'Editar';
+$Definition['Edit %s'] = 'Editar %s';
 $Definition['Edit Account'] = 'Editar Conta';
 $Definition['Edit Comment'] = 'Editar Comentário';
 $Definition['Edit Discussion'] = 'Editar Tópico';
@@ -496,6 +498,8 @@ $Definition['FileSize'] = 'Tamanho do Arquivo';
 $Definition['First Anniversary'] = 'Primeiro Aniversário';
 $Definition['First Comment'] = 'Primeiro Comentário';
 $Definition['Flag'] = 'Sinalizar';
+$Definition['Folder'] = 'Pasta';
+$Definition['Folders'] = 'Pastas';
 $Definition['Follow'] = 'Seguir';
 $Definition['Follow %s'] = 'Seguir %s';
 $Definition['Followed by %d people'] = 'Seguido por %d pessoas';
@@ -550,6 +554,7 @@ $Definition['GuestModule.Message'] = 'Parece que você é novo por este pedaço.
 
 $Definition['Hang on a sec while we sign you out.'] = 'Espere um momento enquanto desligamos você.';
 $Definition['he'] = 'ele';
+$Definition['Heading'] = 'Cabeçalho';
 $Definition['Heading %s'] = 'Título %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} conquistou a medalha<a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} baniu {ActivityUserID,you}.';
@@ -639,6 +644,7 @@ $Definition['Length'] = 'Comprimento';
 $Definition['Level %s'] = 'Nível %s';
 $Definition['Like'] = 'Curtir';
 $Definition['Link to content:'] = 'Link para o conteúdo:';
+$Definition['Locale'] = 'Local';
 $Definition['Login with Facebook'] = 'Entre com uma conta Facebook';
 $Definition['LOL'] = 'Huehehuhe';
 
@@ -755,8 +761,8 @@ $Definition['of'] = 'de';
 $Definition['Off Topic'] = 'Fora de tópico';
 $Definition['OK'] = 'Ok';
 $Definition['Okay'] = 'Ok';
-$Definition['Old Password'] = 'Senha Anterior';
 $Definition['OldPassword'] = 'Senha antiga';
+$Definition['Old Password'] = 'Senha Anterior';
 $Definition['on'] = 'dentro de';
 $Definition['Online Preferences'] = 'Preferências OnLine';
 $Definition['Only show followed categories'] = 'Exibir somente categorias que eu sigo';
@@ -779,6 +785,8 @@ $Definition['Page Not Found'] = 'Página não encontrada';
 $Definition['Participated'] = 'Participou';
 $Definition['ParticipatedHomepageTitle'] = 'Tópicos em que eu participo';
 $Definition['Password'] = 'Senha';
+$Definition['Password Contains Username'] = 'Contém Nome de Utilizador';
+$Definition['Password Good'] = 'Bom';
 $Definition['PasswordRequest'] = 'Olá %1$s,
 
 Alguém requisitou uma nova senha em %2$s. Para gerar uma nova senha, siga:
@@ -787,6 +795,10 @@ Alguém requisitou uma nova senha em %2$s. Para gerar uma nova senha, siga:
 
 Se não foi você quem requisitou, por favor, desconsidere este email.';
 $Definition['Passwords don\'t match'] = 'Senhas não batem';
+$Definition['Password Strong'] = 'Forte';
+$Definition['Password Too Short'] = 'Demasiado Curto';
+$Definition['Password Very Weak'] = 'Muito Fraco';
+$Definition['Password Weak'] = 'Fraco';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Cole a URL de uma imagem para incorporá-la rapidamente.';
 $Definition['Permalink'] = 'Link permanente';
 $Definition['permalink'] = 'link permanente';

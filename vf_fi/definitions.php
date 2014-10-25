@@ -2,9 +2,9 @@
 
  $LocaleInfo['vf_fi'] = array (
   'Locale' => 'fi',
-  'Name' => 'Finnish Transifex',
+  'Name' => 'Suomi / Finnish',
   'Description' => 'Finnish language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/fi/">here</a>.',
-  'Version' => '2014.10.11p1226',
+  'Version' => '2014.10.24p2055',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/fi/',
 );

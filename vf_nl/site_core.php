@@ -124,6 +124,7 @@ $Definition['Activity.PictureChange.FullHeadline'] = '%1$s wijzigde %6$s profiel
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s wijzigde %6$s profiel afbeelding.';
 $Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s antwoordde %4$s %8$s.';
 $Definition['Add'] = 'Toevoegen';
+$Definition['Add %s'] = 'Voeg %s toe';
 $Definition['Add a Comment'] = 'Voeg een reactie toe';
 $Definition['Add a Message'] = 'Voeg een Bericht Toe';
 $Definition['Add another poll option ...'] = 'Voeg een andere enquêteoptie toe ...';
@@ -363,6 +364,7 @@ $Definition['Drop image/file'] = 'Versleep beeld/bestand';
 
 $Definition['Earned'] = 'Verdiend';
 $Definition['Edit'] = 'Bewerk';
+$Definition['Edit %s'] = 'Bewerk %s';
 $Definition['Edit Account'] = 'Bewerk Account';
 $Definition['Edit Comment'] = 'Bewerk Reactie';
 $Definition['Edit Discussion'] = 'Bewerk Discussie';
@@ -498,11 +500,13 @@ $Definition['Female'] = 'Vrouw';
 $Definition['Fifth Anniversary'] = 'Vijfde verjaardag';
 $Definition['FileName'] = 'Bestandsnaam';
 $Definition['Filename'] = 'Bestandsnaam';
-$Definition['FileSize'] = 'Bestandsgrootte';
 $Definition['File Size'] = 'Bestandsgrootte';
+$Definition['FileSize'] = 'Bestandsgrootte';
 $Definition['First Anniversary'] = 'Eerste verjaardag';
 $Definition['First Comment'] = 'Eerste bericht';
 $Definition['Flag'] = 'Rapporteer';
+$Definition['Folder'] = 'Map';
+$Definition['Folders'] = 'Mappen';
 $Definition['Follow'] = 'Volg';
 $Definition['Follow %s'] = 'Volg %s';
 $Definition['Followed by %d people'] = 'Gevolgd door %d mensen';
@@ -557,6 +561,7 @@ $Definition['GuestModule.Message'] = 'Het lijkt erop dat je hier nieuw bent. Kli
 
 $Definition['Hang on a sec while we sign you out.'] = 'Wacht even een seconde terwijl we je uitloggen.';
 $Definition['he'] = 'hij';
+$Definition['Heading'] = 'Rubriek';
 $Definition['Heading %s'] = 'Titel %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} heeft de <a href="{Url,html}">{Data.Name,text}</a> badge verdiend.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} heeft {ActivityUserID,you} verbannen.';
@@ -641,6 +646,8 @@ $Definition['Leave Group'] = 'Verlaat groep';
 $Definition['Length'] = 'Lengte';
 $Definition['Level %s'] = 'Niveau %s';
 $Definition['Link to content:'] = 'Link naar content:';
+$Definition['Locale'] = 'Taalgebied
+';
 $Definition['Log'] = 'Aanmelden';
 $Definition['log'] = 'aanmelden';
 $Definition['Login with Facebook'] = 'Log in met Facebook';
@@ -782,6 +789,9 @@ $Definition['Page Not Found'] = 'Pagina Niet Gevonden';
 $Definition['Participated'] = 'Deelgenomen';
 $Definition['ParticipatedHomepageTitle'] = 'Deelgenomen Discussies';
 $Definition['Password'] = 'Wachtwoord';
+$Definition['Password Contains Username'] = 'Bevat Gebruikersnaam';
+$Definition['Password Good'] = 'Goed';
+$Definition['Password Ok'] = 'Oké';
 $Definition['PasswordRequest'] = 'Hallo %1$s,
 
 Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen: 
@@ -790,6 +800,10 @@ Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s.
 
 Mocht jij deze aanvraag niet hebben gedaan dan mag je deze e-mail negeren.';
 $Definition['Passwords don\'t match'] = 'Wachtwoorden komen niet overeen';
+$Definition['Password Strong'] = 'Zeer goed';
+$Definition['Password Too Short'] = 'Te Kort';
+$Definition['Password Very Weak'] = 'Zeer zwak';
+$Definition['Password Weak'] = 'Zwak';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Kopieer de URL van een beeld om het snel toe te voegen.';
 $Definition['PermissionErrorMessage'] = 'U heeft geen rechten om die actie uit te voeren';
 $Definition['PermissionErrorTitle'] = 'Rechtenprobleem';
@@ -833,8 +847,8 @@ $Definition['Private Note for Moderators'] = 'Privéopmerking voor Moderators';
 $Definition['Problem with credentials.'] = 'Probleem met gegevens.';
 $Definition['Proceed'] = 'Ga verder';
 $Definition['Profile'] = 'Profiel';
-$Definition['Profile Fields'] = 'Profielvelden';
 $Definition['Profile  Fields'] = 'Profielvelden';
+$Definition['Profile Fields'] = 'Profielvelden';
 $Definition['ProfileFieldsCustomDescription'] = 'Gebruik deze velden om aangepaste profielinformatie aan te maken. Je kan dingen invullen als "Relatiestatus", "Skype", of "Favoriete Dinosaurus". Ben creatief!';
 $Definition['Profile Page'] = 'Profielpagina';
 $Definition['Profile Picture'] = 'Profiel Afbeelding';

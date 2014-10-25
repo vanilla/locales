@@ -728,6 +728,7 @@ $Definition['Thank You!'] = 'Merci !';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'La méthode d\'authentification %s ne dispose pas d\'options de configuration.';
 $Definition['The %s badge has already been given to %s.'] = 'Le badge %s a déjà été donné à %s.';
 $Definition['The %s has been deleted.'] = 'Le %s a été supprimé.';
+$Definition['The %s has been flagged for moderation.'] = 'Le %s a été signalé pour modération.';
 $Definition['The %s locale pack does not exist.'] = 'Le pack de localisation %s n\'existe pas.';
 $Definition['The %s table is not in the correct format.'] = 'La table %s n\'est pas dans le format correct.';
 $Definition['The %s was already approved by %s on %s.'] = 'Le %s a déjà été approuvé par %s sur %s.';

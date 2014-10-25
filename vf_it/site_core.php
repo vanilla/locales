@@ -123,6 +123,7 @@ $Definition['Activity.PictureChange.FullHeadline'] = '%1$s ha cambiato l\'immagi
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s ha cambiato l\'immagine del profilo di %6$s.';
 $Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s ha risposto alla %4$s di %8$s.';
 $Definition['Add'] = 'Aggiungi';
+$Definition['Add %s'] = 'Aggiungi %s';
 $Definition['Add a Comment'] = 'Aggiungi un Commento';
 $Definition['Add a Message'] = 'Aggiungi un Messaggio';
 $Definition['Add another poll option ...'] = 'Aggiungi un\'altra opzione al sondaggio ...';
@@ -360,6 +361,7 @@ $Definition['Drop image/file'] = 'Spostare immagine/file';
 
 $Definition['Earned'] = 'Ottenuto';
 $Definition['Edit'] = 'Modifica';
+$Definition['Edit %s'] = 'Modifica %s';
 $Definition['Edit Account'] = 'Modifica Account';
 $Definition['Edit Comment'] = 'Modifica Commento';
 $Definition['Edit Discussion'] = 'Modifica Discussione';
@@ -475,11 +477,13 @@ $Definition['Female'] = 'Femmina';
 $Definition['Fifth Anniversary'] = 'Quinto Anniversario';
 $Definition['FileName'] = 'Nome del File';
 $Definition['Filename'] = 'Nome del file';
-$Definition['FileSize'] = 'Dimensioni del File';
 $Definition['File Size'] = 'Dimensioni del File';
+$Definition['FileSize'] = 'Dimensioni del File';
 $Definition['First Anniversary'] = 'Primo Anniversario';
 $Definition['First Comment'] = 'Primo Commento';
 $Definition['Flag'] = 'Segnala';
+$Definition['Folder'] = 'Cartella';
+$Definition['Folders'] = 'Cartelle';
 $Definition['Follow'] = 'Segui';
 $Definition['Follow %s'] = 'Segui %s';
 $Definition['Followed by %d people'] = 'Seguito da %d persone';
@@ -533,6 +537,7 @@ $Definition['GuestModule.Message'] = 'Sembra che tu sia nuovo da queste parti. S
 
 $Definition['Hang on a sec while we sign you out.'] = 'Attendi qualche secondo per essere disconnesso.';
 $Definition['he'] = 'lui';
+$Definition['Heading'] = 'Titolo';
 $Definition['Heading %s'] = 'Intestazione %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} hai ottenuto un <a href="{Url,html}">{Data.Name,text}</a> emblema.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} sei stato/a bannato {ActivityUserID,you}.';
@@ -620,6 +625,7 @@ $Definition['Length'] = 'Lunghezza';
 $Definition['Level %s'] = 'Livello %s';
 $Definition['Like'] = 'Mi piace';
 $Definition['Link to content:'] = 'Link al contenuto:';
+$Definition['Locale'] = 'Luogo';
 $Definition['Login with Facebook'] = 'Accedi con Facebook';
 
 $Definition['Major'] = 'Maggiore';
@@ -756,12 +762,18 @@ $Definition['PageDetailsMessageFull'] = '%1$s a %2$s di %3$s';
 $Definition['Page Not Found'] = 'Pagina Non Trovata';
 $Definition['Participated'] = 'Partecipato';
 $Definition['ParticipatedHomepageTitle'] = 'Discussioni Partecipate';
+$Definition['Password Contains Username'] = 'Contiene il nome utente';
+$Definition['Password Good'] = 'Buono';
 $Definition['PasswordRequest'] = 'Qualcuno ha richiesto la reimpostazione della tua password su %2$s. Per reimpostare la tua password, sequi questo link:
   
   %3$s
   
 Se non hai effettuato questa richiesta, ignora questa e-mail.';
 $Definition['Passwords don\'t match'] = 'Le password non coincidono';
+$Definition['Password Strong'] = 'Ottimo';
+$Definition['Password Too Short'] = 'Troppo corto';
+$Definition['Password Very Weak'] = 'Molto debole';
+$Definition['Password Weak'] = 'Debole';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Incolla l\'URL di un\'immagine per incorporarla velocemente.';
 $Definition['Permanent (301)'] = 'Permanente (301)';
 $Definition['PermissionErrorMessage'] = 'Non hai i permessi per farlo.';
@@ -807,8 +819,8 @@ $Definition['Private Note for Moderators'] = 'Nota Privata per i Moderatori';
 $Definition['Problem with credentials.'] = 'Problema con le credenziali.';
 $Definition['Proceed'] = 'Procedi';
 $Definition['Profile'] = 'Profilo';
-$Definition['Profile Fields'] = 'Campi del Profilo';
 $Definition['Profile  Fields'] = 'Campi del Profilo';
+$Definition['Profile Fields'] = 'Campi del Profilo';
 $Definition['ProfileFieldsCustomDescription'] = 'Utilizza questi campi per creare informazioni del profilo personalizzate. Puoi inserire cose del tipo "Stato Sentimentale", "Skype", oppure "Giochi Preferiti". Usa la tua creatività!';
 $Definition['Profile Page'] = 'Pagina del Profilo';
 $Definition['Profile Picture'] = 'Immagine del Profilo';
@@ -952,7 +964,9 @@ $Definition['sign out'] = 'esci';
 $Definition['Sign Up'] = 'Iscriviti';
 $Definition['Sink'] = 'Declassa';
 $Definition['Sink this discussion'] = 'Declassa questa discussione';
+$Definition['Site'] = 'Sito';
 $Definition['Sitemap Settings'] = 'Impostazioni Sitemap';
+$Definition['Sites'] = 'Siti';
 $Definition['Sixth Anniversary'] = 'Sesto Anniversario';
 $Definition['somebody'] = 'qualcuno';
 $Definition['Some Code'] = 'Qualche Codice';

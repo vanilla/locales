@@ -123,6 +123,7 @@ $Definition['Activity.PictureChange.FullHeadline'] = '%1$s غيرت %6$s صور�
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s غيرت %6$s صورة الملف الشخصي.';
 $Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s اجاب على %4$s %8$s.';
 $Definition['Add'] = 'إضافة';
+$Definition['Add %s'] = 'إضافة %s';
 $Definition['Add a Comment'] = '[حذف المستخدم]';
 $Definition['Add a Message'] = 'إضافة رسالة';
 $Definition['Add another poll option ...'] = 'إضافة خيار آخر للاستطلاع...';
@@ -366,6 +367,7 @@ $Definition['Drop image/file'] = 'ترك صورة/ملف';
 
 $Definition['Earned'] = 'مُكتسب';
 $Definition['Edit'] = 'تعديل';
+$Definition['Edit %s'] = 'تعديل %s';
 $Definition['Edit Account'] = 'تعديل الحساب';
 $Definition['Edit Comment'] = 'تعديل التعليق';
 $Definition['Edit Discussion'] = 'تعديل المشاركة';
@@ -483,11 +485,13 @@ $Definition['Female'] = 'أنثى';
 $Definition['Fifth Anniversary'] = 'الذكرى السنوية الخامسة';
 $Definition['FileName'] = 'اسم الملف';
 $Definition['Filename'] = 'إسم الملف';
-$Definition['FileSize'] = 'حجم الملف';
 $Definition['File Size'] = 'حجم الملف';
+$Definition['FileSize'] = 'حجم الملف';
 $Definition['First Anniversary'] = 'الذكرى السنوية الأولى';
 $Definition['First Comment'] = 'أول تعليق';
 $Definition['Flag'] = 'علم';
+$Definition['Folder'] = 'مجلد';
+$Definition['Folders'] = 'مجلدات';
 $Definition['Follow'] = 'تتبع';
 $Definition['Follow %s'] = 'تتبع %s';
 $Definition['Followed by %d people'] = 'متتبع من طرف %d اعضاء';
@@ -542,6 +546,7 @@ $Definition['GuestModule.Message'] = 'يبدو أنك جديد هنا. إذا ك
 
 $Definition['Hang on a sec while we sign you out.'] = 'معلقة على ثانية في حين وقعنا على الخروج.';
 $Definition['he'] = 'هو';
+$Definition['Heading'] = 'عنوان';
 $Definition['Heading %s'] = 'عنوان %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} حصل على <a href="{Url,html}">{Data.Name,text}</a> كشارة.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} حظر {ActivityUserID,you}.';
@@ -631,6 +636,7 @@ $Definition['Length'] = 'الطول';
 $Definition['Level %s'] = 'مستوى %s';
 $Definition['Like'] = 'إعجاب';
 $Definition['Link to content:'] = 'رابط المحتوى :';
+$Definition['Locale'] = 'مكان';
 $Definition['Log'] = 'سجل';
 $Definition['log'] = 'سجل';
 $Definition['Login with Facebook'] = 'الدخول بواسطة الفايسبوك';
@@ -749,8 +755,8 @@ $Definition['of'] = 'الخاص(ة) ب';
 $Definition['Off Topic'] = 'خارج الموضوع';
 $Definition['OK'] = 'موافقة';
 $Definition['Okay'] = 'موافقة';
-$Definition['OldPassword'] = 'كلمة المرور قديمة';
 $Definition['Old Password'] = 'كلمة المرور القديمة';
+$Definition['OldPassword'] = 'كلمة المرور قديمة';
 $Definition['on'] = 'في';
 $Definition['Online Preferences'] = 'خيارات الاتصال';
 $Definition['Only show followed categories'] = 'اظهر فقط الاقسام التي تتابعها';
@@ -774,12 +780,19 @@ $Definition['Page Not Found'] = 'الصفحة غير موجودة';
 $Definition['Participated'] = 'شارك';
 $Definition['ParticipatedHomepageTitle'] = 'المواضيع المشارك فيها';
 $Definition['Password'] = 'كلمة المرور';
+$Definition['Password Contains Username'] = 'يتضمن اسم المستخدم';
+$Definition['Password Good'] = 'جيد';
+$Definition['Password Ok'] = 'حسنا';
 $Definition['PasswordRequest'] = 'طلب أحدهم إعادة ضبط كلمة المرور خاصتك على %2$s. لإعادة ضبط كلمة المرور خاصتك، اتبع هذا الرابط:
 
 %3$s
 
 إذا لم تكن أنت من قام بهذا الطلب، فتجاهل رسالة البريد الإلكتروني هذه.';
 $Definition['Passwords don\'t match'] = 'كلمات المرور غير متوافقة';
+$Definition['Password Strong'] = 'قوي';
+$Definition['Password Too Short'] = 'قصير جدا';
+$Definition['Password Very Weak'] = 'ضعيف جدا';
+$Definition['Password Weak'] = 'ضعيف';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'الصق عنوان URL الخاص بصورةٍ ما ليتم تضمينه سريعاً.';
 $Definition['Permalink'] = 'رابط دائم';
 $Definition['permalink'] = 'رابط دائم';
@@ -974,7 +987,9 @@ $Definition['sign out'] = 'تسجيل الخروج';
 $Definition['Sign Up'] = 'سوف أسجل';
 $Definition['Sink'] = 'حوض';
 $Definition['Sink this discussion'] = 'إغراق هذه المشاركة';
+$Definition['Site'] = 'موقع';
 $Definition['Sitemap Settings'] = 'إعدادات خريطة الموقع';
+$Definition['Sites'] = 'مواقع';
 $Definition['Sixth Anniversary'] = 'الذكرى السنوية السادسة';
 $Definition['Social'] = 'اجتماعي';
 $Definition['somebody'] = 'شخص ما';
