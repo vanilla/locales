@@ -490,6 +490,7 @@ $Definition['First Anniversary'] = 'יום שנה ראשון';
 $Definition['First Comment'] = 'תגובה ראשונה';
 $Definition['Flag'] = 'סמן';
 $Definition['Folder'] = 'תיקיה';
+$Definition['Folders'] = 'תיקיות';
 $Definition['Follow'] = 'עקוב';
 $Definition['Follow %s'] = 'עקוב %s';
 $Definition['Followed by %d people'] = 'נעקב על ידי %d אנשים';
@@ -544,6 +545,7 @@ $Definition['GuestModule.Message'] = 'זה נראה שאתה חדש כאן. אם
 
 $Definition['Hang on a sec while we sign you out.'] = 'חכה רק רגע בזמן שאנחנו מנתקים אותך.';
 $Definition['he'] = 'הוא';
+$Definition['Heading'] = 'כותרת';
 $Definition['Heading %s'] = 'כותרת %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} הרוויח  <a href="{Url,html}">{Data.Name,text}</a> אות הצטיינות';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} חסם {ActivityUserID,you}.';
@@ -593,8 +595,8 @@ $Definition['InviteErrorPermission'] = 'סליחה, הרשאה נדחתה';
 $Definition['Invite Friends'] = 'הזמן חברים';
 $Definition['Invite friends'] = 'הזמן חברים';
 $Definition['Invite one or more people to join this group.'] = 'הזמן אדם אחד או יותר להצטרף לקבוצה הזו.';
-$Definition['IPAddress'] = 'כתובת איי.פי';
 $Definition['IP Address'] = 'כתובת IP';
+$Definition['IPAddress'] = 'כתובת איי.פי';
 $Definition['I remember now!'] = 'אני זוכר אותך!';
 $Definition['Italic'] = 'נטוי';
 $Definition['Item'] = 'מוצר';
@@ -769,6 +771,7 @@ $Definition['Organize your Categories'] = 'ארגן את הקטגוריות של
 $Definition['Original'] = 'מקורי';
 $Definition['Or you can...'] = 'או שאתה יכול...';
 $Definition['Other Records'] = 'רישומים אחרים';
+$Definition['Outdent'] = 'בליטה';
 $Definition['Owner'] = 'בעלים';
 
 $Definition['PageDetailsMessage'] = '%1$s ל %2$s$s';
@@ -777,12 +780,19 @@ $Definition['Page Not Found'] = 'עמוד לא נמצא';
 $Definition['Participated'] = 'השתתפו';
 $Definition['ParticipatedHomepageTitle'] = 'דיונים משתתפים';
 $Definition['Password'] = 'סיסמה';
+$Definition['Password Contains Username'] = 'מכיל שם משתמש';
+$Definition['Password Good'] = 'טוב';
+$Definition['Password Ok'] = 'בסדר';
 $Definition['PasswordRequest'] = 'מישהו ביקש לאפס את הסיסמה שלך על%2$s s. כדי לאפס את הסיסמה שלך, דרך הקישור הבא: ⏎
 ⏎
 %3$s ⏎
 ⏎
 אם לא הגשת בקשה זו, להתעלם דוא"ל זו.';
 $Definition['Passwords don\'t match'] = 'סיסמאות לא תואמות';
+$Definition['Password Strong'] = 'חזק';
+$Definition['Password Too Short'] = 'קצר מדי';
+$Definition['Password Very Weak'] = 'חלש מאוד';
+$Definition['Password Weak'] = 'חלש';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'הדבק את כתובת האתר של התמונה בכדי לשבץ אותה במהירות';
 $Definition['Permalink'] = 'קישור ל-';
 $Definition['permalink'] = 'פרמלינק';
@@ -831,8 +841,8 @@ $Definition['Private Note for Moderators'] = 'פתק פרטי למנחים';
 $Definition['Problem with credentials.'] = 'בעיה עם האישורים';
 $Definition['Proceed'] = 'המשך';
 $Definition['Profile'] = 'פרופיל';
-$Definition['Profile Fields'] = 'שדות פרופיל';
 $Definition['Profile  Fields'] = 'שדות פרופיל';
+$Definition['Profile Fields'] = 'שדות פרופיל';
 $Definition['ProfileFieldsCustomDescription'] = 'השתמש בשדות אלה כדי ליצור פרופיל מותאם אישית מידע. ניתן להזין דברים כמו "מצב מערכת יחסים", "סקייפ", או "דינוזאור מועדף". היו יצירתיים!';
 $Definition['Profile Page'] = 'עמוד פרופיל';
 $Definition['Profile Picture'] = 'תמונת פרופיל';
@@ -961,8 +971,8 @@ $Definition['Signature Code'] = 'קוד חתימה';
 $Definition['Signature invalid.'] = 'חתימה לא תקפה';
 $Definition['Signatures'] = 'חתימות';
 $Definition['Signature Settings'] = 'הגדרות חתימה';
-$Definition['Sign In'] = 'התחבר';
 $Definition['SignIn'] = 'התחבר';
+$Definition['Sign In'] = 'התחבר';
 $Definition['SigningOut'] = 'חכה רגע בזמן שאנחנו מנתקים אותך';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}> היכנס </a> או  <a href="{RegisterUrl,html}"> הירשם </a> כדי להגיב';
 $Definition['Sign in to vote!'] = 'התחבר להצביע!';

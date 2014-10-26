@@ -588,8 +588,8 @@ $Definition['InviteErrorPermission'] = 'Sorry, brak dostępu.';
 $Definition['Invite Friends'] = 'Zaproś znajomych';
 $Definition['Invite friends'] = 'Zaproś znajomych';
 $Definition['Invite one or more people to join this group.'] = 'Zaproś jedną lub kilka osób do dołączenia do grupy.';
-$Definition['IPAddress'] = 'Adres IP';
 $Definition['IP Address'] = 'Adres IP';
+$Definition['IPAddress'] = 'Adres IP';
 $Definition['I remember now!'] = 'Teraz pamiętam!';
 $Definition['Italic'] = 'Kursywa';
 $Definition['Item'] = 'Przedmiot';
@@ -769,12 +769,19 @@ $Definition['Page Not Found'] = 'Strona nie znaleziona';
 $Definition['Participated'] = 'Uczestniczono';
 $Definition['ParticipatedHomepageTitle'] = 'Dyskusje, w których uczestniczy użytkownik';
 $Definition['Password'] = 'Hasło';
+$Definition['Password Contains Username'] = 'Zawiera nazwę użytkownika/login';
+$Definition['Password Good'] = 'Dobre';
+$Definition['Password Ok'] = 'W porządku';
 $Definition['PasswordRequest'] = 'Ktoś zażądał zresetowania twojego hasła %2$s. By je zresetować odwiedź ten link:
 
 %3$s
 
 Jeśli nie wysłałeś tego żądania, zignoruj tę wiadomość.';
 $Definition['Passwords don\'t match'] = 'Hasła nie pasują';
+$Definition['Password Strong'] = 'Mocne';
+$Definition['Password Too Short'] = 'Za krótkie';
+$Definition['Password Very Weak'] = 'Bardzo słabe';
+$Definition['Password Weak'] = 'Słabe';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Wklej adres URL grafiki, aby ją tu umieścić.';
 $Definition['Permalink'] = 'Link bezpośredni';
 $Definition['permalink'] = 'link bezpośredni';
@@ -823,8 +830,8 @@ $Definition['Private Note for Moderators'] = 'Prywatna notka dla moderatorów';
 $Definition['Problem with credentials.'] = 'Problem z danymi poświadczającymi.';
 $Definition['Proceed'] = 'Kontynuuj';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile Fields'] = 'Pola w profilu';
 $Definition['Profile  Fields'] = 'Pola w profilu';
+$Definition['Profile Fields'] = 'Pola w profilu';
 $Definition['ProfileFieldsCustomDescription'] = 'Pola te służą do dodania w profilu niestandardowych informacji. Mogą to być np. "Stan cywilny", "Skype" lub "Ulubiony dinozaur". Popisz się kreatywnością!';
 $Definition['Profile Page'] = 'Strona profilu';
 $Definition['Profile Picture'] = 'Obrazek profilowy';

@@ -4,7 +4,7 @@
   'Locale' => 'pl',
   'Name' => 'Polski / Polish',
   'Description' => 'Polish language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/pl/">here</a>.',
-  'Version' => '2014.10.24p2055',
+  'Version' => '2014.10.25p2250',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/pl/',
 );
