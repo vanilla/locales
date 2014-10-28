@@ -89,7 +89,7 @@ $Definition['(empty message)'] = '(空白のメッセージ) ';
 
 $Definition['+%s Guests'] = '+%s人のゲスト';
 
-$Definition[' - Page %s'] = '〜%s';
+$Definition[' - Page %s'] = '- %s';
 
 $Definition['1 message'] = '1メッセージ';
 
