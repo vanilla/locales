@@ -79,6 +79,7 @@ $Definition['%s votes'] = '%s הצבעות';
 $Definition['%s was removed from the %s and added to the %s'] = '%s הוסר מה %s וצורף ל %s';
 $Definition['%s week'] = '%s שבוע';
 $Definition['%s weeks'] = '%s שבועות';
+$Definition['%s WTFs'] = '%s מה לעזאזל?';
 $Definition['%s year'] = '%s שנה';
 $Definition['%s years'] = '%s שנים';
 
@@ -755,8 +756,8 @@ $Definition['of'] = 'מ';
 $Definition['Off Topic'] = 'לא בנושא';
 $Definition['OK'] = 'אוקיי';
 $Definition['Okay'] = 'אוקיי';
-$Definition['OldPassword'] = 'סיסמה ישנה';
 $Definition['Old Password'] = 'סיסמה ישנה';
+$Definition['OldPassword'] = 'סיסמה ישנה';
 $Definition['on'] = 'על';
 $Definition['Online Preferences'] = 'העדפות באינטרנט';
 $Definition['Only show followed categories'] = 'הראה רק את הקטגוריות הנעקבות';
