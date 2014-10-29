@@ -3,8 +3,8 @@
  $LocaleInfo['vf_pt_BR'] = array (
   'Locale' => 'pt_BR',
   'Name' => 'Português (Brasil) / Portuguese (Brazil)',
-  'Description' => 'Portuguese (Brazil) language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/pt_BR/">here</a>.',
-  'Version' => '2014.10.24p2055',
+  'Description' => 'Official Portuguese (Brazil) language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/pt_BR/">here</a>.',
+  'Version' => '2014.10.29p1606',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/pt_BR/',
 );

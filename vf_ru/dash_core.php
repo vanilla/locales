@@ -747,6 +747,7 @@ $Definition['Thank You!'] = 'Спасибо!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'Плагин %s не использует индивидуальные настройки';
 $Definition['The %s badge has already been given to %s.'] = 'Значок %s уже давался пользователю %s.';
 $Definition['The %s has been deleted.'] = '%s был удален.';
+$Definition['The %s has been flagged for moderation.'] = '%s помечено для проверки модератором.';
 $Definition['The %s locale pack does not exist.'] = 'Языковой пакет %s отсутствует.';
 $Definition['The %s table is not in the correct format.'] = 'Таблица %s не в том формате.';
 $Definition['The %s was already approved by %s on %s.'] = '%s уже был одобрен пользователем %s %s.';
