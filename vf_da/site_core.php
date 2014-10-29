@@ -319,6 +319,11 @@ $Definition['Dashboard'] = 'Kontrolpanel';
 $Definition['Dashboard Home'] = 'Kontrolpanel hjem';
 $Definition['Dashboard Summaries'] = 'Kontrolpanel oversigter';
 $Definition['Date'] = 'Dato';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dato. Forventer \'mm/dd/åååå\'.';
 $Definition['Date Added'] = 'Tilføjet dato';
 $Definition['Date Examples'] = 'Eksempler: Mandag, i dag, sidste uge, 26. marts, 26/3/04';
@@ -439,6 +444,7 @@ Du kan tilgå siden på {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Læs resten af indlægget her</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Læs resten af indlægget her</a></p><div class="ClearFix"></div></div>';
@@ -474,8 +480,8 @@ $Definition['Female'] = 'Kvinde';
 $Definition['Fifth Anniversary'] = 'Femte jubilæum';
 $Definition['FileName'] = 'Filnavn';
 $Definition['Filename'] = 'Filnavn';
-$Definition['File Size'] = 'Filstørrelse';
 $Definition['FileSize'] = 'Filstørrelse';
+$Definition['File Size'] = 'Filstørrelse';
 $Definition['First Anniversary'] = 'Første jubilæum';
 $Definition['First Comment'] = 'Første kommentar';
 $Definition['Folder'] = 'Mappe';
@@ -582,8 +588,8 @@ $Definition['InviteErrorPermission'] = 'Beklager, adgang nægtet.';
 $Definition['Invite Friends'] = 'Invitér venner';
 $Definition['Invite friends'] = 'Invitér venner';
 $Definition['Invite one or more people to join this group.'] = 'Invitere en eller flere personer til at deltage i denne gruppe.';
-$Definition['IP Address'] = 'IP-adresse';
 $Definition['IPAddress'] = 'IP-adresse';
+$Definition['IP Address'] = 'IP-adresse';
 $Definition['I remember now!'] = 'Jeg husker det nu!';
 $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Element';
@@ -731,11 +737,13 @@ $Definition['Not Verified'] = 'Ikke verificeret';
 
 $Definition[' now.'] = 'nu.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'af';
 $Definition['Off Topic'] = 'Off topic';
 $Definition['OK'] = 'Ok';
-$Definition['Old Password'] = 'Tidligere kodeord';
 $Definition['OldPassword'] = 'Gammelt kodeord';
+$Definition['Old Password'] = 'Tidligere kodeord';
 $Definition['on'] = 'til';
 $Definition['Online Preferences'] = 'Online-præferencer';
 $Definition['Only show followed categories'] = 'Vis kun kategorier der følges';
@@ -760,6 +768,7 @@ $Definition['ParticipatedHomepageTitle'] = 'Diskussioner deltaget i';
 $Definition['Password'] = 'Kodeord';
 $Definition['Password Contains Username'] = 'Indeholder brugernavn';
 $Definition['Password Good'] = 'God';
+$Definition['Password Ok'] = 'Ok';
 $Definition['PasswordRequest'] = 'Der er en, der har anmodet om at nulstille dit password for %2$s. For at nulstille dit password skal du følge dette link:
 
 %3$s
@@ -815,8 +824,8 @@ $Definition['Private Note for Moderators'] = 'Privat note til moderatorer';
 $Definition['Problem with credentials.'] = 'Problemer med adgangsoplysninger.';
 $Definition['Proceed'] = 'Fortsæt';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Profilfelter';
 $Definition['Profile Fields'] = 'Profilfelter';
+$Definition['Profile  Fields'] = 'Profilfelter';
 $Definition['ProfileFieldsCustomDescription'] = 'Brug disse felter til at oprette brugerdefinerede profiloplysninger. Du kan indtaste ting som "Parforholdsstatus", "Skype" eller "Favoritdinosaur". Vær kreativ!';
 $Definition['Profile Page'] = 'Profilside';
 $Definition['Profile Picture'] = 'Profilbillede';
@@ -945,8 +954,8 @@ $Definition['Signature Code'] = 'Signatur';
 $Definition['Signature invalid.'] = 'Signatur ugyldig.';
 $Definition['Signatures'] = 'Signaturer';
 $Definition['Signature Settings'] = 'Indstillinger for signatur';
-$Definition['Sign In'] = 'Log ind';
 $Definition['SignIn'] = 'Log ind';
+$Definition['Sign In'] = 'Log ind';
 $Definition['SigningOut'] = 'Hæng på et sekund, mens vi logger dig ud.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Log in</a> eller <a href="{RegisterUrl,html}">Registrér</a> for at kommentere.';
 $Definition['Sign in to vote!'] = 'Log ind for at stemme!';

@@ -409,6 +409,7 @@ $Definition['EmailPassword'] = '%2$s visszaállította a jelszavad itt: %3$s. Í
   Jelszó: %5$s
   Url: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Az alkalmazás ezen a néven és címen küld emailt';
+$Definition['Email Source'] = 'Email';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -440,6 +441,7 @@ Kattints ide a fórum eléréséhez: {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Olvass tovább</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Olvass tovább</a></p><div class="ClearFix"></div></div>';
@@ -738,11 +740,13 @@ $Definition['Not Verified'] = 'Nem ellenőrzött';
 
 $Definition[' now.'] = 'most.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = '/';
 $Definition['Off Topic'] = 'Off topic';
 $Definition['Okay'] = 'Rendben';
-$Definition['Old Password'] = 'Régi jelszó';
 $Definition['OldPassword'] = 'Régi jelszó';
+$Definition['Old Password'] = 'Régi jelszó';
 $Definition['on'] = 'bekapcsolva';
 $Definition['Online Preferences'] = 'Online beállítások';
 $Definition['Only show followed categories'] = 'Csak a követett kategóriákat mutassa';
@@ -955,8 +959,8 @@ $Definition['Signature Code'] = 'Aláírás';
 $Definition['Signature invalid.'] = 'Az aláírás érvénytelen';
 $Definition['Signatures'] = 'Aláírások';
 $Definition['Signature Settings'] = 'Aláírás beállítások';
-$Definition['Sign In'] = 'Bejelentkezés';
 $Definition['SignIn'] = 'Bejelentkezés';
+$Definition['Sign In'] = 'Bejelentkezés';
 $Definition['SigningOut'] = 'Kérem várjon míg kijelentkezünk.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Jelentkezz be</a> or <a href="{RegisterUrl,html}">Register</a> a hozzászóláshoz.';
 $Definition['Sign in to vote!'] = 'Belépés a szavazáshoz!';

@@ -146,6 +146,7 @@ $Definition['Back to all users'] = 'Zurück zur Nutzerübersicht';
 $Definition['Back to Mobile Site'] = 'Zurück zur mobilen Version der Seite';
 $Definition['Badge cannot be deleted.'] = 'Badge kann nicht gelöscht werden.';
 $Definition['Badge deleted.'] = 'Badge gelöscht.';
+$Definition['Badge Name'] = 'Name';
 $Definition['BadgeRecipientsHeading'] = 'Neueste Empfänger';
 $Definition['Badge Requests'] = 'Badge-Anfragen';
 $Definition['Ban Item'] = 'Element';

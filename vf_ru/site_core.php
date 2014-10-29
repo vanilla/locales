@@ -345,9 +345,11 @@ $Definition['Dashboard'] = 'Консоль';
 $Definition['Dashboard Home'] = 'Главная страница консоли';
 $Definition['Dashboard Summaries'] = 'Сводка консоли';
 $Definition['Date'] = 'Дата';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%A %e <font style="text-transform:lowercase;">%b</font> в %H:%M';
 $Definition['Date.DefaultFormat'] = '%h %i, %Y, %H:%M';
 $Definition['Date.DefaultTimeFormat'] = '%H:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '
         Требуемый формат даты "мм/дд/гггг".
 
@@ -477,6 +479,7 @@ Email: {User.Email}
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читайте полный рассказ здесь</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читайте полный рассказ здесь</a></p><div class="ClearFix"></div></div>';
@@ -519,8 +522,8 @@ $Definition['Female'] = 'Женский';
 $Definition['Fifth Anniversary'] = 'Пятая годовщина';
 $Definition['FileName'] = 'Имя файла';
 $Definition['Filename'] = 'Название файла';
-$Definition['File Size'] = 'Размер файла';
 $Definition['FileSize'] = 'Размер файла';
+$Definition['File Size'] = 'Размер файла';
 $Definition['First Anniversary'] = 'Первая годовщина';
 $Definition['First Comment'] = 'Первый комментарий';
 $Definition['Flag'] = 'Упрекнуть';
@@ -813,12 +816,14 @@ $Definition['Not Verified'] = 'Не подтверждён';
 
 $Definition[' now.'] = 'сейчас';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'из';
 $Definition['Off Topic'] = 'Оффтоп';
 $Definition['OK'] = 'Да';
 $Definition['Okay'] = 'Да';
-$Definition['Old Password'] = 'Старый пароль';
 $Definition['OldPassword'] = 'Старый пароль';
+$Definition['Old Password'] = 'Старый пароль';
 $Definition['on'] = 'на';
 $Definition['Online Preferences'] = 'Онлайн установки';
 $Definition['Only show followed categories'] = 'Показать только те разделы, на которые я подписан.';
@@ -912,8 +917,8 @@ $Definition['Private Note for Moderators'] = 'Скрытая заметка дл
 $Definition['Problem with credentials.'] = 'Проблема с учетными данными.';
 $Definition['Proceed'] = 'Продолжить';
 $Definition['Profile'] = 'Профиль';
-$Definition['Profile  Fields'] = 'Поля профиля';
 $Definition['Profile Fields'] = 'Поля профиля';
+$Definition['Profile  Fields'] = 'Поля профиля';
 $Definition['ProfileFieldsCustomDescription'] = 'Эти поля могут быть использованы для вывода произвольной информации в профиле. Вы можете указать такие данные, как "Семейное положение", "Skype", или "Любимый динозавр". Будьте изобретательны!';
 $Definition['Profile Page'] = 'Страница профиля';
 $Definition['Profile Picture'] = 'Личная картинка';
@@ -1042,8 +1047,8 @@ $Definition['Signature Code'] = 'Подпись';
 $Definition['Signature invalid.'] = 'Подпись недействительна.';
 $Definition['Signatures'] = 'Подписи';
 $Definition['Signature Settings'] = 'Настройки подписи';
-$Definition['Sign In'] = 'Войти';
 $Definition['SignIn'] = 'Вход';
+$Definition['Sign In'] = 'Войти';
 $Definition['SigningOut'] = 'Подождите пока система завершит вашу сессию.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Войдите</a> или <a href="{RegisterUrl,html}">Зарегистрируйтесь</a> чтобы комментировать.';
 $Definition['Sign in to vote!'] = 'Войдите, чтобы голосовать!';

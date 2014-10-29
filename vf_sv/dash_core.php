@@ -290,8 +290,8 @@ $Definition['Don\'t Refresh'] = 'Uppdatera ej';
 $Definition['Don\'t use Categories'] = 'Använd inte kategorier';
 $Definition['Do not display the categories in the side panel.'] = 'Visa inte kategorierna i sidopanelen';
 $Definition['Download Locale List'] = 'Ladda hem språklista';
-$Definition['Download Locale Pack'] = 'Ladda hem språkpaket';
 $Definition['DownloadLocalePack'] = 'Ladda hem';
+$Definition['Download Locale Pack'] = 'Ladda hem språkpaket';
 $Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Dra och släpp kategorierna för att sortera och nästa dem.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Dra och släpp kategorierna nedan för att sortera och nästa dem.';
 

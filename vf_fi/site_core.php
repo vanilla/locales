@@ -575,8 +575,8 @@ $Definition['Not Verified'] = 'Vahvistamaton';
 $Definition[' now.'] = ' nyt.';
 
 $Definition['Okay'] = 'Ok';
-$Definition['Old Password'] = 'Vanha salasana';
 $Definition['OldPassword'] = 'Vanha salasana';
+$Definition['Old Password'] = 'Vanha salasana';
 $Definition['on'] = 'aika';
 $Definition['Only show followed categories'] = 'N&auml;yt&auml; vain seurantaan asetetut kategoriat';
 $Definition['OpenID Settings'] = 'OpenID:n asetukset';

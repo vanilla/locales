@@ -3,13 +3,8 @@
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 
-$Definition['Email Source'] = 'Email';
-$Definition['EmbeddedNoBodyFormat'] = '{Url}';
-
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
-
-$Definition['Null Date'] = '-';
 
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were

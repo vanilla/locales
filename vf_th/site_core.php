@@ -578,8 +578,8 @@ $Definition['Not Verified'] = 'ยังไม่ยืนยัน';
 $Definition[' now.'] = 'ขณะนี้';
 
 $Definition['Off Topic'] = 'ออกทะเล';
-$Definition['Old Password'] = 'รหัสผ่านเก่า';
 $Definition['OldPassword'] = 'รหัสผ่านเก่า';
+$Definition['Old Password'] = 'รหัสผ่านเก่า';
 $Definition['on'] = 'บน';
 $Definition['Only show followed categories'] = 'แสดงเฉพาะหมวดหมู่ที่ติดตาม';
 $Definition['OpenID Settings'] = 'ตั้งค่า OpenID';

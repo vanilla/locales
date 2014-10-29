@@ -326,6 +326,11 @@ $Definition['Dashboard'] = 'Ταμπλό';
 $Definition['Dashboard Home'] = 'Αρχικό Ταμπλό';
 $Definition['Dashboard Summaries'] = 'Περίληψη Ταμπλό';
 $Definition['Date'] = 'Ημερομηνία';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Ημερομηνία. Αναμένεται ‘ηη/μμ/εεεε’.';
 $Definition['Date Added'] = 'Ημερομηνία προσθήκης';
 $Definition['Date Examples'] = 'Παραδείγματα: Δευτέρα, σήμερα, την περασμένη εβδομάδα, 26 Μάρτιου, 26/03/04';
@@ -445,6 +450,7 @@ $Definition['EmailWelcomeRegister'] = 'Δημιουργήσατε με επιτ�
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Διαβάστε ολόκληρη την ιστορία εδώ</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Διαβάστε ολόκληρη την ιστορία εδώ</a></p><div class="ClearFix"></div></div>';
@@ -592,8 +598,8 @@ $Definition['InviteErrorPermission'] = 'Λυπάμαι, η άδεια δε δό�
 $Definition['Invite Friends'] = 'Προσκαλέστε Φίλους';
 $Definition['Invite friends'] = 'Προσκαλέστε φίλους';
 $Definition['Invite one or more people to join this group.'] = 'Προσκαλέστε ένα η παραπάνω μέλη να συμμετάσχουν σε αυτό το γκρουπ.';
-$Definition['IP Address'] = 'Διεύθυνση IP';
 $Definition['IPAddress'] = 'Διεύθυνση IP';
+$Definition['IP Address'] = 'Διεύθυνση IP';
 $Definition['I remember now!'] = 'Το θυμήθηκα!';
 $Definition['Italic'] = 'Πλάγια γραφή';
 $Definition['Item'] = 'Αντικείμενο';
@@ -746,6 +752,8 @@ $Definition['Not Verified'] = 'Μη Επιβεβαιωμένο';
 
 $Definition[' now.'] = 'τώρα.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'του';
 $Definition['Off Topic'] = 'Εκτός Θέματος';
 $Definition['OK'] = 'Εντάξει';
@@ -836,8 +844,8 @@ $Definition['Private Note for Moderators'] = 'Ιδιωτική Σημείωση 
 $Definition['Problem with credentials.'] = 'Πρόβλημα με τα διαπιστευτήρια.';
 $Definition['Proceed'] = 'Προχωρήστε';
 $Definition['Profile'] = 'Προφίλ';
-$Definition['Profile  Fields'] = 'Πεδία  Προφιλ';
 $Definition['Profile Fields'] = 'Πεδία Προφίλ';
+$Definition['Profile  Fields'] = 'Πεδία  Προφιλ';
 $Definition['ProfileFieldsCustomDescription'] = 'Χρησιμοποιήστε αυτά τα πεδία για να δημιουργήσετε προσαρμοσμένες πληροφορίες προφίλ. Μπορείτε να καταγράψετε πράγματα όπως  "Κατάσταση Σχέσης", "Skype", or "Αγαπημένος Δεινόσαυρος". Να είστε δημιουργικός!';
 $Definition['Profile Page'] = 'Σελίδα προφίλ';
 $Definition['Profile Picture'] = 'Εικόνα Προφίλ';

@@ -324,9 +324,11 @@ $Definition['Dashboard'] = '控制台';
 $Definition['Dashboard Home'] = '佈告欄主頁';
 $Definition['Dashboard Summaries'] = '佈告欄綜覽';
 $Definition['Date'] = '日期';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%b %e 日';
 $Definition['Date.DefaultFormat'] = '%Y %b %e日';
 $Definition['Date.DefaultTimeFormat'] = '%H:%M';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '日期。預計\'mm/dd/yyyy\'。';
 $Definition['Date Added'] = '發表時間';
 $Definition['Date Examples'] = '例如：星期一、今天、上週、 3 月 26 日、2004 年 3 月 26 日';
@@ -447,6 +449,7 @@ $Definition['EmailWelcomeRegister'] = '您已經在{Title}成功註冊了賬戶�
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">在這裡閱讀全文</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">在這裡閱讀全文</a></p><div class="ClearFix"></div></div>';
@@ -594,8 +597,8 @@ $Definition['InviteErrorPermission'] = '對不起，沒有權限.';
 $Definition['Invite Friends'] = '邀請朋友';
 $Definition['Invite friends'] = '邀請朋友';
 $Definition['Invite one or more people to join this group.'] = '邀請一或多人加入該組。';
-$Definition['IP Address'] = 'IP 地址';
 $Definition['IPAddress'] = 'IP 地址';
+$Definition['IP Address'] = 'IP 地址';
 $Definition['I remember now!'] = '我現在想起了！';
 $Definition['Italic'] = '斜體';
 $Definition['Item'] = '項';
@@ -749,12 +752,14 @@ $Definition['Not Verified'] = '未驗證';
 
 $Definition[' now.'] = '現在';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = '的';
 $Definition['Off Topic'] = '題外話';
 $Definition['OK'] = '行';
 $Definition['Okay'] = '確定';
-$Definition['Old Password'] = '舊密碼';
 $Definition['OldPassword'] = '舊密碼';
+$Definition['Old Password'] = '舊密碼';
 $Definition['on'] = '在之上';
 $Definition['Online Preferences'] = '線上偏好設定';
 $Definition['Only show followed categories'] = '僅顯示關注類別';
@@ -840,8 +845,8 @@ $Definition['Private Note for Moderators'] = '版主內部記錄';
 $Definition['Problem with credentials.'] = '證書問題。';
 $Definition['Proceed'] = '繼續';
 $Definition['Profile'] = '個人檔案';
-$Definition['Profile  Fields'] = '資料欄';
 $Definition['Profile Fields'] = '資料欄';
+$Definition['Profile  Fields'] = '資料欄';
 $Definition['ProfileFieldsCustomDescription'] = '使用這些字段來創建自定義個人資料信息。您可以輸入像“婚姻狀況”、“Skype”或“最喜歡的恐龍”等信息。要有創意！';
 $Definition['Profile Page'] = '資料頁面';
 $Definition['Profile Picture'] = '個人圖示';

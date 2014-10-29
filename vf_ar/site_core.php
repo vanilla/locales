@@ -326,8 +326,10 @@ $Definition['Dashboard'] = 'لوحة العمل';
 $Definition['Dashboard Home'] = 'لوحة الادارة';
 $Definition['Dashboard Summaries'] = 'ملخصات لوحة الادارة';
 $Definition['Date'] = 'تاريخ';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%Y/%m/%d';
 $Definition['Date.DefaultFormat'] = '%Y/%m/%d';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%Y/%m/%d';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'التاريخ. التنسيق المتوقع \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'تاريخ الاضافة';
@@ -449,6 +451,7 @@ $Definition['EmailWelcomeRegister'] = 'تم تسجيلك بنجاح على مو�
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">اقرأ القصة كاملة هنا</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">اقرأ القصة كاملةً هنا</a></p><div class="ClearFix"></div></div>';
@@ -485,8 +488,8 @@ $Definition['Female'] = 'أنثى';
 $Definition['Fifth Anniversary'] = 'الذكرى السنوية الخامسة';
 $Definition['FileName'] = 'اسم الملف';
 $Definition['Filename'] = 'إسم الملف';
-$Definition['File Size'] = 'حجم الملف';
 $Definition['FileSize'] = 'حجم الملف';
+$Definition['File Size'] = 'حجم الملف';
 $Definition['First Anniversary'] = 'الذكرى السنوية الأولى';
 $Definition['First Comment'] = 'أول تعليق';
 $Definition['Flag'] = 'علم';
@@ -751,12 +754,14 @@ $Definition['Not Verified'] = 'لم يتم التحقق';
 
 $Definition[' now.'] = ' الٱن';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'الخاص(ة) ب';
 $Definition['Off Topic'] = 'خارج الموضوع';
 $Definition['OK'] = 'موافقة';
 $Definition['Okay'] = 'موافقة';
-$Definition['Old Password'] = 'كلمة المرور القديمة';
 $Definition['OldPassword'] = 'كلمة المرور قديمة';
+$Definition['Old Password'] = 'كلمة المرور القديمة';
 $Definition['on'] = 'في';
 $Definition['Online Preferences'] = 'خيارات الاتصال';
 $Definition['Only show followed categories'] = 'اظهر فقط الاقسام التي تتابعها';

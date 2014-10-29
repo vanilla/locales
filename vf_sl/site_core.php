@@ -577,8 +577,8 @@ $Definition['Not Verified'] = 'Ni preverjeno';
 $Definition[' now.'] = 'sedaj.';
 
 $Definition['Okay'] = 'V redu';
-$Definition['Old Password'] = 'Staro geslo';
 $Definition['OldPassword'] = 'Staro geslo';
+$Definition['Old Password'] = 'Staro geslo';
 $Definition['on'] = 'na';
 $Definition['Only show followed categories'] = 'Pokaži samo naslednje kategorije';
 $Definition['OpenID Settings'] = 'Nastavitve OpenID';

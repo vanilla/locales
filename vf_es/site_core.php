@@ -322,6 +322,11 @@ $Definition['Dashboard'] = 'Panel';
 $Definition['Dashboard Home'] = 'Panel de Inicio';
 $Definition['Dashboard Summaries'] = 'Resumen del panel';
 $Definition['Date'] = 'Fecha';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Fecha. Espera \'mm / dd / aaaa\'.';
 $Definition['Date Added'] = 'Fecha Agregada';
 $Definition['Date Examples'] = 'Ejemplos: lunes, hoy, la semana pasada, Mar 26, 26/3/04';
@@ -461,6 +466,7 @@ Puedes acceder al sitio en {/,url,domain}.
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lee la historia completa aquí</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lee la historia completa aquí</a></p><div class="ClearFix"></div></div>';
@@ -496,8 +502,8 @@ $Definition['Female'] = 'Mujer';
 $Definition['Fifth Anniversary'] = 'Quinto Aniversario ';
 $Definition['FileName'] = 'Nombre de archivo';
 $Definition['Filename'] = 'Nombre de archivo';
-$Definition['File Size'] = 'Tamaño de archivo';
 $Definition['FileSize'] = 'Tamaño de archivo';
+$Definition['File Size'] = 'Tamaño de archivo';
 $Definition['First Anniversary'] = 'Primer Aniversario ';
 $Definition['First Comment'] = 'Primer Comentario';
 $Definition['Flag'] = 'Reportar';
@@ -607,8 +613,8 @@ $Definition['InviteErrorPermission'] = 'Lo siento, permiso denegado.';
 $Definition['Invite Friends'] = 'Invitar a amigos';
 $Definition['Invite friends'] = 'Invitar a amigos';
 $Definition['Invite one or more people to join this group.'] = 'Invite a una o más personas a unirse a este grupo.';
-$Definition['IP Address'] = 'Dirección IP ';
 $Definition['IPAddress'] = 'Dirección IP';
+$Definition['IP Address'] = 'Dirección IP ';
 $Definition['I remember now!'] = '¡Acabo de recordarla!';
 $Definition['Italic'] = 'Inclinado';
 $Definition['Item'] = 'Articulo';
@@ -761,12 +767,14 @@ $Definition['Not Verified'] = 'No Verificado';
 
 $Definition[' now.'] = 'ahora';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'de';
 $Definition['Off Topic'] = 'Fuera de tema';
 $Definition['OK'] = 'De acuerdo';
 $Definition['Okay'] = 'Ok';
-$Definition['Old Password'] = 'Contraseña antigua';
 $Definition['OldPassword'] = 'Antigua contraseña';
+$Definition['Old Password'] = 'Contraseña antigua';
 $Definition['on'] = 'en';
 $Definition['Online Preferences'] = 'Preferencias online';
 $Definition['Only show followed categories'] = 'Solo mostrar categorías que sigo ';
@@ -791,6 +799,7 @@ $Definition['ParticipatedHomepageTitle'] = 'Discusiones en las que se participar
 $Definition['Password'] = 'Contraseña';
 $Definition['Password Contains Username'] = 'Contiene nombre de usuario';
 $Definition['Password Good'] = 'Bien';
+$Definition['Password Ok'] = 'Ok';
 $Definition['PasswordRequest'] = 'Hola %1$s,
 
 Alguien ha solicitado resetear tu contraseña en %2$s. Para resetearla, sigue este enlace:
@@ -849,8 +858,8 @@ $Definition['Private Note for Moderators'] = 'Nota privada a los moderadores';
 $Definition['Problem with credentials.'] = 'Problemas con credenciales.';
 $Definition['Proceed'] = 'Proceder';
 $Definition['Profile'] = 'Perfil';
-$Definition['Profile  Fields'] = 'Perfil  Campos';
 $Definition['Profile Fields'] = 'Campos de Perfil ';
+$Definition['Profile  Fields'] = 'Perfil  Campos';
 $Definition['ProfileFieldsCustomDescription'] = 'Usa estos campos para personalizar la información del perfil. Puedes agregar cosas como "Estado Civil", "Skype" o "Tu Favorito Dinosaurio". ¡Se creativo!';
 $Definition['Profile Page'] = 'Pagina de Perfil';
 $Definition['Profile Picture'] = 'Fotografía del perfil';

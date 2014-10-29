@@ -324,6 +324,11 @@ $Definition['Dashboard'] = 'Administration';
 $Definition['Dashboard Home'] = 'Kontrollpanelen';
 $Definition['Dashboard Summaries'] = 'Sammanfattad kontrollpanel';
 $Definition['Date'] = 'Datum';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Datum. Förväntar \'mm/dd/åååå\'.';
 $Definition['Date Added'] = 'Datum tillagt';
 $Definition['Date Examples'] = 'Exempel: måndag, idag, förra veckan 26 mars, 040326';
@@ -437,6 +442,7 @@ $Definition['EmailWelcomeRegister'] = 'Du har registrerat ett konto på {Title}.
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Bild}<strong>{Titel}</strong>
 <p>{Utdrag}</p>
 <p><a href="{Url}">Läs hela berättelsen här</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Bild}<strong>{Titel}</strong>
 <p>{Utdrag}</p>
 <p><a href="{Url}">Läs hela berättelsen här}</a></p><div class="ClearFix"></div></div>';
@@ -472,8 +478,8 @@ $Definition['Female'] = 'Kvinna';
 $Definition['Fifth Anniversary'] = 'Femte årsdagen';
 $Definition['FileName'] = 'Filnamn';
 $Definition['Filename'] = 'Filnamn';
-$Definition['File Size'] = 'Filstorlek';
 $Definition['FileSize'] = 'Filstorlek';
+$Definition['File Size'] = 'Filstorlek';
 $Definition['First Anniversary'] = 'Första årsdagen';
 $Definition['First Comment'] = 'Första kommentar';
 $Definition['Flag'] = 'Flagga';
@@ -734,11 +740,13 @@ $Definition['Not Verified'] = 'Ej verifierad';
 
 $Definition[' now.'] = 'nu.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'av';
 $Definition['Off Topic'] = 'Off topic';
 $Definition['Okay'] = 'Okej';
-$Definition['Old Password'] = 'Gammalt lösenord';
 $Definition['OldPassword'] = 'Gammalt lösenord';
+$Definition['Old Password'] = 'Gammalt lösenord';
 $Definition['on'] = 'på';
 $Definition['Online Preferences'] = 'Onlineinställningar';
 $Definition['Only show followed categories'] = 'Klicka här för att se kategorier du följer';
@@ -820,8 +828,8 @@ $Definition['Private Note for Moderators'] = 'Privat meddelande för moderatorer
 $Definition['Problem with credentials.'] = 'Problem med behörigheter.';
 $Definition['Proceed'] = 'Fortsätt';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Profil  Fält';
 $Definition['Profile Fields'] = 'Profilfält';
+$Definition['Profile  Fields'] = 'Profil  Fält';
 $Definition['ProfileFieldsCustomDescription'] = 'Använd dessa fält för att skapa anpassad profilinformation. Du kan skriva saker som "Relationsstatus", "Skype", eller "Favoritdinosaurie". Var kreativ!';
 $Definition['Profile Page'] = 'Profilsida';
 $Definition['Profile Picture'] = 'Profilbild';

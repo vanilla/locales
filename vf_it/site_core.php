@@ -211,6 +211,7 @@ $Definition['Badge404'] = ' Emblema non trovato.';
 $Definition['Badges'] = 'Emblemi';
 $Definition['BadgesModuleTitle'] = 'Nome Emblema';
 $Definition['BadgesNobody'] = 'Nessuno ancora ha ottenuto questo emblema.';
+$Definition['Ban.Action'] = 'Ban';
 $Definition['Banned'] = 'Bannato';
 $Definition['Banned for being abusive.'] = 'Bannato per essere stato offensivo.';
 $Definition['Banned for spamming.'] = 'Bannato per spamming.';
@@ -279,6 +280,7 @@ $Definition['Comment'] = 'Commenta';
 $Definition['comment'] = 'commenta';
 $Definition['Comment As ...'] = 'Commenta come...';
 $Definition['Comment by %s'] = 'Commento di %s';
+$Definition['Comment in'] = 'in';
 $Definition['Commenting as %1$s (%2$s)'] = 'Stai commentando come %1$s <span class="SignOutWrap">(%2$s)</span>';
 $Definition['Commenting not allowed.'] = 'Commenti non consentiti';
 $Definition['Comments'] = 'Commenti';
@@ -321,8 +323,11 @@ $Definition['Dashboard'] = 'Cruscotto';
 $Definition['Dashboard Home'] = 'Home del Cruscotto';
 $Definition['Dashboard Summaries'] = 'Sommario del Cruscotto';
 $Definition['Date'] = 'Data';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%e %B';
 $Definition['Date.DefaultFormat'] = '%e %B, %1:M%p %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Formato \'mm/gg/aaaa\'.';
 $Definition['Date Added'] = 'Data Aggiunta';
 $Definition['Date Examples'] = 'Esempi: Lunedì, oggi, ultima settimana, 26 Mar, 26/3/04';
@@ -443,6 +448,7 @@ $Definition['EmailWelcomeRegister'] = 'Ti sei registrato con successo sul {Title
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Leggi l\'articolo completo qui</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Leggi l\'articolo completo qui</a></p><div class="ClearFix"></div></div>';
@@ -477,8 +483,8 @@ $Definition['Female'] = 'Femmina';
 $Definition['Fifth Anniversary'] = 'Quinto Anniversario';
 $Definition['FileName'] = 'Nome del File';
 $Definition['Filename'] = 'Nome del file';
-$Definition['File Size'] = 'Dimensioni del File';
 $Definition['FileSize'] = 'Dimensioni del File';
+$Definition['File Size'] = 'Dimensioni del File';
 $Definition['First Anniversary'] = 'Primo Anniversario';
 $Definition['First Comment'] = 'Primo Commento';
 $Definition['Flag'] = 'Segnala';
@@ -589,8 +595,8 @@ $Definition['InviteErrorPermission'] = 'Siamo spiacenti, permesso negato.';
 $Definition['Invite Friends'] = 'Invita Amici';
 $Definition['Invite friends'] = 'Invita gli amici';
 $Definition['Invite one or more people to join this group.'] = 'Invita una o più persone a unirsi a questo gruppo.';
-$Definition['IP Address'] = 'Indirizzo IP';
 $Definition['IPAddress'] = 'Indirizzo IP';
+$Definition['IP Address'] = 'Indirizzo IP';
 $Definition['I remember now!'] = 'Ora ricordo!';
 $Definition['Italic'] = 'Corsivo';
 $Definition['Item'] = 'Elemento';
@@ -740,6 +746,8 @@ $Definition['Not Verified'] = 'Non verificato';
 
 $Definition[' now.'] = ' ora';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'di';
 $Definition['Okay'] = 'Confermo';
 $Definition['OldPassword'] = 'Vecchia password';
@@ -768,6 +776,7 @@ $Definition['Participated'] = 'Partecipato';
 $Definition['ParticipatedHomepageTitle'] = 'Discussioni Partecipate';
 $Definition['Password Contains Username'] = 'Contiene il nome utente';
 $Definition['Password Good'] = 'Buono';
+$Definition['Password Ok'] = 'Ok';
 $Definition['PasswordRequest'] = 'Qualcuno ha richiesto la reimpostazione della tua password su %2$s. Per reimpostare la tua password, sequi questo link:
   
   %3$s
@@ -825,8 +834,8 @@ $Definition['Private Note for Moderators'] = 'Nota Privata per i Moderatori';
 $Definition['Problem with credentials.'] = 'Problema con le credenziali.';
 $Definition['Proceed'] = 'Procedi';
 $Definition['Profile'] = 'Profilo';
-$Definition['Profile  Fields'] = 'Campi del Profilo';
 $Definition['Profile Fields'] = 'Campi del Profilo';
+$Definition['Profile  Fields'] = 'Campi del Profilo';
 $Definition['ProfileFieldsCustomDescription'] = 'Utilizza questi campi per creare informazioni del profilo personalizzate. Puoi inserire cose del tipo "Stato Sentimentale", "Skype", oppure "Giochi Preferiti". Usa la tua creatività!';
 $Definition['Profile Page'] = 'Pagina del Profilo';
 $Definition['Profile Picture'] = 'Immagine del Profilo';

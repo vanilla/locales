@@ -280,6 +280,11 @@ $Definition['Dashboard'] = 'Панель керування';
 $Definition['Dashboard Home'] = 'Початкова панель';
 $Definition['Dashboard Summaries'] = 'Початкова панель - Загальне';
 $Definition['Date'] = 'Підтверджено';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Added'] = 'Дата - додано';
 $Definition['days'] = 'дні';
 $Definition['Define Thumbnail'] = 'Клацніть і виділіть мишкою область, яка визначить мініатюру аватара.';
@@ -406,6 +411,7 @@ $Definition['EmailWelcomeRegister'] = 'Доброго дня, {User.Name},
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читати повністю...</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['Enter your Email address'] = 'Введіт вашу Email адресу';
 $Definition['Enter your email address'] = 'Введіть свій email';
 $Definition['Enter your Email address or username'] = 'Введіт вашу Email адресу або ім\'я користувача';
@@ -642,6 +648,8 @@ $Definition['Not Verified'] = 'Не верифіковано';
 
 $Definition[' now.'] = ' зараз.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['Off Topic'] = 'ОФТОП';
 $Definition['Okay'] = 'ОК';
 $Definition['OldPassword'] = 'старого пароля';
@@ -713,8 +721,8 @@ $Definition['Private Note for Moderators'] = 'Приватна замітка д
 $Definition['Problem with credentials.'] = 'Проблема з обліковими даними.';
 $Definition['Proceed'] = 'Продовжити';
 $Definition['Profile'] = 'Профіль';
-$Definition['Profile  Fields'] = 'Поля профілю';
 $Definition['Profile Fields'] = 'Поля профілю';
+$Definition['Profile  Fields'] = 'Поля профілю';
 $Definition['ProfileFieldsCustomDescription'] = 'У цих полях Ви можете ввести такі речі, як "Сімейний стан", "Skype", або "Улюблений динозаврв". Будьте винахідливі!';
 $Definition['Profile Page'] = 'Сторінка профілю';
 $Definition['Profile Picture'] = 'Картинка профілю';

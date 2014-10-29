@@ -192,6 +192,7 @@ $Definition['Back to Discussions'] = 'Retour aux discussions';
 $Definition['Back to Profile'] = 'Retour au profil';
 $Definition['Badge'] = 'Ecusson';
 $Definition['Badge404'] = 'Badge introuvable';
+$Definition['BadgesModuleTitle'] = 'Badges';
 $Definition['BadgesNobody'] = 'Aucun membre n\'a gagné ce badge pour le moment.';
 $Definition['Ban'] = 'Bannir';
 $Definition['Ban.Action'] = 'Banir';
@@ -310,6 +311,7 @@ $Definition['Date.DefaultDateTimeFormat'] = '%e %B %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%e %b';
 $Definition['Date.DefaultFormat'] = '%e %B %Y';
 $Definition['Date.DefaultTimeFormat'] = '%H:%M';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Date. Attendue "mm/jj/aaaa"';
 $Definition['Date Added'] = 'Date d\'ajout';
 $Definition['Date Examples'] = 'Exemples : lundi, aujourd\'hui, la semaine dernière, le 26 mars, 26/03/04';
@@ -398,6 +400,7 @@ $Definition['EmailPassword'] = 'Bonjour %1$s,
   
 Cordialement,';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Les emails envoyés à partir de l\'application seront adressés de la part du nom et de l\'adresse ci-dessous';
+$Definition['Email Source'] = 'Email';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -437,6 +440,7 @@ Cordialement,';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Voir la suite</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Voir la suite</a></p><div class="ClearFix"></div></div>';
@@ -519,6 +523,7 @@ $Definition['GroupEmptyAnnouncements'] = 'Des choses importantes se passeront ic
 $Definition['GroupEmptyDiscussions'] = 'Terriblement calme ici, n\'est-ce pas ?';
 $Definition['GroupEmptyEvents'] = 'Erreur, il n\'y a pas d\'événement à venir';
 $Definition['Group Info'] = 'Infos';
+$Definition['Group Leaders'] = 'Leaders';
 $Definition['Group Members'] = 'Membres';
 $Definition['GroupMembersEmpty'] = 'Personne n\'a encore rejoint le groupe. Parlez-en autour de vous !';
 $Definition['Group Options'] = 'Options du groupe';
@@ -577,8 +582,8 @@ $Definition['InviteErrorPermission'] = 'Désolé, la permission a été refusée
 $Definition['Invite Friends'] = 'Inviter des amis';
 $Definition['Invite friends'] = 'Inviter des amis';
 $Definition['Invite one or more people to join this group.'] = 'Inviter une ou plusieurs personnes à rejoindre ce groupe.';
-$Definition['IP Address'] = 'Adresse IP';
 $Definition['IPAddress'] = 'Adresse IP';
+$Definition['IP Address'] = 'Adresse IP';
 $Definition['I remember now!'] = 'Je m\'en souviens !';
 $Definition['Italic'] = 'Italique';
 $Definition['Item'] = 'Élément';
@@ -723,12 +728,14 @@ $Definition['Not Verified'] = 'Non vérifié';
 
 $Definition[' now.'] = 'maintenant.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'de';
 $Definition['Off Topic'] = 'Hors sujet';
 $Definition['OK'] = 'Ok';
 $Definition['Okay'] = 'Oui';
-$Definition['Old Password'] = 'Ancien mot de passe';
 $Definition['OldPassword'] = 'Ancien mot de passe';
+$Definition['Old Password'] = 'Ancien mot de passe';
 $Definition['on'] = 'sur';
 $Definition['Online Preferences'] = 'Préférences';
 $Definition['Only show followed categories'] = 'Voir uniquement les catégories suivies.';
@@ -810,8 +817,8 @@ $Definition['Private Note for Moderators'] = 'Message privé pour modérateurs';
 $Definition['Problem with credentials.'] = 'Problème avec le mot de passe ou le nom d\'utilisateur';
 $Definition['Proceed'] = 'Oui, je veux le faire !';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Champs de profil ';
 $Definition['Profile Fields'] = 'Champs de profil';
+$Definition['Profile  Fields'] = 'Champs de profil ';
 $Definition['ProfileFieldsCustomDescription'] = 'Utiliser ces champs pour créer un profile unique. Par exemple, "Mon chanteur préféré". Soyez créatif !';
 $Definition['Profile Page'] = 'Page de profil';
 $Definition['Profile Picture'] = 'Photo de profil';
@@ -824,6 +831,7 @@ $Definition['Q&A'] = 'Questions et Réponses';
 $Definition['Q&A Accepted'] = 'Répondu ✓';
 $Definition['Q&A Answered'] = 'Répondu';
 $Definition['Q&A Options'] = 'Options';
+$Definition['Q&A Question'] = 'Question';
 $Definition['QnA Accepted Answer'] = 'Réponse acceptée';
 $Definition['QnA Rejected Answer'] = 'Réponse rejetée';
 $Definition['Question Title'] = 'Titre de la question';
@@ -954,6 +962,7 @@ $Definition['Some Code'] = 'Code';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Quelqu\'un a répondu. A vous d\'accepter ou de rejeter sa réponse.';
 $Definition['sorted by'] = 'Trié par';
 $Definition['Source:'] = 'Source :';
+$Definition['Source Code'] = 'Code';
 $Definition['Spam Queue'] = 'Spam en attente';
 $Definition['Split'] = 'Diviser';
 $Definition['Split Comments'] = 'Diviser les commentaires';

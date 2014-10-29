@@ -258,6 +258,11 @@ $Definition['Custom Profile Field Settings'] = 'Mga Setting ng Field Custom Prof
 
 $Definition['Dashboard Summaries'] = 'Buod dashboard';
 $Definition['Date'] = 'petsa';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Added'] = 'petsa kung kailan idinagdag';
 $Definition['days'] = 'araw';
 $Definition['Define Thumbnail'] = 'I-clikck at hilahin ang larawan upang itakda ang iyong thumbnail.';
@@ -571,8 +576,8 @@ $Definition[' now.'] = 'ngayon.';
 
 $Definition['Off Topic'] = 'Wala Sa Topiko';
 $Definition['OK'] = 'Ok';
-$Definition['Old Password'] = 'Lumang Password';
 $Definition['OldPassword'] = 'Lumang password';
+$Definition['Old Password'] = 'Lumang Password';
 $Definition['on'] = 'naka-on';
 $Definition['Only show followed categories'] = 'Ipakita lamang ang mga sinusundang kategorya';
 $Definition['OpenID Settings'] = 'Mga Setting ng OpenID ';

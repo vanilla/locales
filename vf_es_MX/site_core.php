@@ -322,6 +322,11 @@ $Definition['Dashboard'] = 'Panel';
 $Definition['Dashboard Home'] = 'Panel de Inicio';
 $Definition['Dashboard Summaries'] = 'Resumen del panel';
 $Definition['Date'] = 'Fecha';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Fecha. Esperada \'dd/mm/yyyy\'';
 $Definition['Date Added'] = 'Fecha Agregada';
 $Definition['Date Examples'] = 'Ejemplos: lunes, hoy, la semana pasada, Mar 26, 26/3/04';
@@ -460,6 +465,7 @@ Puedes acceder al sitio en {/,url,domain}.
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lee la historia completa aquí</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lee la historia completa aquí</a></p><div class="ClearFix"></div></div>';
@@ -495,8 +501,8 @@ $Definition['Female'] = 'Mujer';
 $Definition['Fifth Anniversary'] = 'Quinto Aniversario ';
 $Definition['FileName'] = 'Nombre de archivo';
 $Definition['Filename'] = 'Nombre de archivo';
-$Definition['File Size'] = 'Tamaño de archivo';
 $Definition['FileSize'] = 'Tamaño de archivo';
+$Definition['File Size'] = 'Tamaño de archivo';
 $Definition['First Anniversary'] = 'Primer Aniversario ';
 $Definition['First Comment'] = 'Primer Comentario';
 $Definition['Flag'] = 'Reportar';
@@ -756,6 +762,8 @@ $Definition['Not Verified'] = 'No Verificado';
 
 $Definition[' now.'] = 'ahora';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'de';
 $Definition['Off Topic'] = 'Fuera de tema';
 $Definition['OK'] = 'De acuerdo';
@@ -968,8 +976,8 @@ $Definition['Signature Code'] = 'Código firma';
 $Definition['Signature invalid.'] = 'Firma inválida.';
 $Definition['Signatures'] = 'Firmas';
 $Definition['Signature Settings'] = 'Preferencias de firma';
-$Definition['Sign In'] = 'Acceder';
 $Definition['SignIn'] = 'Iniciar sesión';
+$Definition['Sign In'] = 'Acceder';
 $Definition['SigningOut'] = 'Espera un segundo mientras te desconectas. ';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Accede</a> o <a href="{RegisterUrl,html}">Regístrate</a> para comentar.';
 $Definition['Sign in to vote!'] = '¡Ingresa para votar!';

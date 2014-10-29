@@ -319,6 +319,11 @@ $Definition['Dashboard'] = 'Administrasjon';
 $Definition['Dashboard Home'] = 'Dashboard hjem';
 $Definition['Dashboard Summaries'] = 'Dashboard-sammendrag';
 $Definition['Date'] = 'Applied On';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dato. Forventer `mm/dd/yyyy`.';
 $Definition['Date Added'] = 'Dato lagt til';
 $Definition['Date Examples'] = 'Eksempler: Mandag, i dag, forrige uke, 26.mars.04';
@@ -440,6 +445,7 @@ Du finner forumet på {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Les hele historien her</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Les hele historien her</a></p><div class="ClearFix"></div></div>';
@@ -475,8 +481,8 @@ $Definition['Female'] = 'Kvinne';
 $Definition['Fifth Anniversary'] = 'Femårsjubileum';
 $Definition['FileName'] = 'Filnavn';
 $Definition['Filename'] = 'Filenavn';
-$Definition['File Size'] = 'Filstørrelse';
 $Definition['FileSize'] = 'Filstørrelse';
+$Definition['File Size'] = 'Filstørrelse';
 $Definition['First Anniversary'] = 'Årsjubileum';
 $Definition['First Comment'] = 'Første kommentar';
 $Definition['Flag'] = 'Flagge';
@@ -737,11 +743,13 @@ $Definition['Not Verified'] = 'Ikke verifisert';
 
 $Definition[' now.'] = ' nå.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'av';
 $Definition['Off Topic'] = 'Off topic';
 $Definition['Okay'] = 'Ok';
-$Definition['Old Password'] = 'Gammelt passord';
 $Definition['OldPassword'] = 'Gammelt passord';
+$Definition['Old Password'] = 'Gammelt passord';
 $Definition['on'] = 'på';
 $Definition['Online Preferences'] = 'Nettpreferanser';
 $Definition['Only show followed categories'] = 'Klikk her for å se kategorier du følger';
@@ -825,8 +833,8 @@ $Definition['Private Note for Moderators'] = 'Privat melding til moderatorer';
 $Definition['Problem with credentials.'] = 'Problem med referanser.';
 $Definition['Proceed'] = 'Fortsett';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Profilfelt';
 $Definition['Profile Fields'] = 'Profilfelt';
+$Definition['Profile  Fields'] = 'Profilfelt';
 $Definition['ProfileFieldsCustomDescription'] = 'Bruk disse feltene til å lage egendefinert profilinformasjon. Du kan oppgi ting som "Sivilstatus", "Skype", eller "Yndlingsdinosaur". Vær kreativ!';
 $Definition['Profile Page'] = 'Profilside';
 $Definition['Profile Picture'] = 'Profilbilde';

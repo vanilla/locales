@@ -330,6 +330,7 @@ $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p ';
 $Definition['Date.DefaultDayFormat'] = '%B %e ';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y ';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p ';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Ngày. Định dạng là \'tháng/ngày/năm\'.';
 $Definition['Date Added'] = 'Đã thêm ngày';
 $Definition['Date Examples'] = 'Ví dụ: thứ 2, ngày hôm nay, tuần trước, ngày 26 tháng 3, ngày 26-3-04';
@@ -417,6 +418,7 @@ $Definition['EmailPassword'] = '%2$s đã reset mật khẩu của bạn lúc %3
   Mật khẩu: %5$s
   Url: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Email gửi từ ứng dụng sẽ được ghi là từ tên và địa chỉ sau đây';
+$Definition['Email Source'] = 'Email';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -448,6 +450,7 @@ Bạn có thể truy cập trang web tại {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Đọc chi tiết tại đây</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Đọc chi tiết tại đây</a></p><div class="ClearFix"></div></div>';
@@ -483,8 +486,8 @@ $Definition['Female'] = 'Nữ';
 $Definition['Fifth Anniversary'] = 'Kỷ niệm năm thứ năm';
 $Definition['FileName'] = 'Tên tập tin';
 $Definition['Filename'] = 'Tên file';
-$Definition['File Size'] = 'Kích cỡ file';
 $Definition['FileSize'] = 'Kính thước File';
+$Definition['File Size'] = 'Kích cỡ file';
 $Definition['First Anniversary'] = 'Kỷ niệm năm thứ nhất';
 $Definition['First Comment'] = 'Bình luận đầu tiên';
 $Definition['Flag'] = 'Nội dung xấu';
@@ -594,8 +597,8 @@ $Definition['InviteErrorPermission'] = 'Xin lỗi, bạn chưa đủ quyền h�
 $Definition['Invite Friends'] = 'Mời Bạn bè';
 $Definition['Invite friends'] = 'Mời bạn bè';
 $Definition['Invite one or more people to join this group.'] = 'Mời một hay nhiều người tham gia nhóm này.';
-$Definition['IP Address'] = 'Địa chỉ IP';
 $Definition['IPAddress'] = 'Địa chỉ IP';
+$Definition['IP Address'] = 'Địa chỉ IP';
 $Definition['I remember now!'] = 'Nhớ rồi!';
 $Definition['Italic'] = 'In nghiêng';
 $Definition['Item'] = 'Đề mục';
@@ -749,6 +752,8 @@ $Definition['Not Verified'] = 'Chưa chứng thực.';
 
 $Definition[' now.'] = 'bây giờ.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'của';
 $Definition['Off Topic'] = 'Lạc đề';
 $Definition['Okay'] = 'OK';
@@ -779,6 +784,7 @@ $Definition['ParticipatedHomepageTitle'] = 'Thảo luận tham gia';
 $Definition['Password'] = 'Mật khẩu';
 $Definition['Password Contains Username'] = 'Chứa tên đăng nhập';
 $Definition['Password Good'] = 'Tốt';
+$Definition['Password Ok'] = 'Ok';
 $Definition['PasswordRequest'] = 'Có ai đó yêu cầu reset mật khẩu của bạn tại %2$s. Để reset mật khẩu vui lòng nhấp vào link bên dưới:
 
   %3$s

@@ -317,6 +317,11 @@ $Definition['Dashboard'] = 'Painel';
 $Definition['Dashboard Home'] = 'Página Inicial do Painel';
 $Definition['Dashboard Summaries'] = 'Sumário do Painel';
 $Definition['Date'] = 'Data';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Espera-se \'mm/dd/aaaa\'';
 $Definition['Date Added'] = 'Data adicionada';
 $Definition['Date Examples'] = 'Exemplos: segunda-feira, hoje, na semana passada, 26 de março, 26/03/04';
@@ -453,6 +458,7 @@ Tenha um bom dia!';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>(\\n)
 <p>{Excerpt}</p>(\\n)
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>(\\n)
 <p>{Excerpt}</p>(\\n)
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
@@ -488,8 +494,8 @@ $Definition['Female'] = 'Feminino';
 $Definition['Fifth Anniversary'] = 'Quinto Aniversário';
 $Definition['FileName'] = 'Nome do Arquivo';
 $Definition['Filename'] = 'Nome do arquivo';
-$Definition['File Size'] = 'Tamanho do arquivo';
 $Definition['FileSize'] = 'Tamanho do Arquivo';
+$Definition['File Size'] = 'Tamanho do arquivo';
 $Definition['First Anniversary'] = 'Primeiro Aniversário';
 $Definition['First Comment'] = 'Primeiro Comentário';
 $Definition['Flag'] = 'Sinalizar';
@@ -746,6 +752,8 @@ $Definition['Not much happening here, yet.'] = 'Ainda não está acontecendo mui
 $Definition['Not Verified'] = 'Não Verificado';
 
 $Definition[' now.'] = ' agora.';
+
+$Definition['Null Date'] = '-';
 
 $Definition['of'] = 'de';
 $Definition['Off Topic'] = 'Fora de tópico';

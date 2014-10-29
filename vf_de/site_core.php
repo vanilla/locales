@@ -276,6 +276,7 @@ $Definition['Comment'] = 'Kommentieren';
 $Definition['comment'] = 'kommentieren';
 $Definition['Comment As ...'] = 'Kommentieren als...';
 $Definition['Comment by %s'] = 'Kommentar von %s';
+$Definition['Comment in'] = 'in';
 $Definition['Commenting as %1$s (%2$s)'] = 'Kommentiere als %1$s <span class="SignOutWrap">(%2$s)</span>';
 $Definition['Commenting not allowed.'] = 'Kommentieren nicht erlaubt.';
 $Definition['Comments'] = 'Kommentare';
@@ -317,8 +318,11 @@ $Definition['Custom Profile Field Settings'] = 'Eigene Profilfeldeinstellungen';
 $Definition['Dashboard Home'] = 'Dashboard Startseite';
 $Definition['Dashboard Summaries'] = 'Dashboard Zusammenfassung';
 $Definition['Date'] = 'Datum';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%e. %B ';
 $Definition['Date.DefaultFormat'] = '%e. %B %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Datum.  \'mm/dd/yyyy\' wird erwartet.';
 $Definition['Date Added'] = 'Datum hinzugefügt';
 $Definition['Date Examples'] = 'Beispiele: Montag, heute, letzte Woche, 26. März, 26.3.04';
@@ -439,6 +443,7 @@ Die Adresse der Seite ist {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lies die gesamte Nachricht hier</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lies die gesamte Nachricht hier</a></p><div class="ClearFix"></div></div>';
@@ -732,6 +737,8 @@ $Definition['Not Verified'] = 'Nicht verifiziert';
 
 $Definition[' now.'] = ' jetzt.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'von';
 $Definition['Off Topic'] = 'Vom Thema abweichend';
 $Definition['OK'] = 'Ok';
@@ -762,6 +769,7 @@ $Definition['ParticipatedHomepageTitle'] = 'Beteiligte Diskussionen';
 $Definition['Password'] = 'Passwort';
 $Definition['Password Contains Username'] = 'beinhaltet Benutzernamen';
 $Definition['Password Good'] = 'gut';
+$Definition['Password Ok'] = 'Ok';
 $Definition['PasswordRequest'] = 'Jemand hat beantragt, dein Passwort bei %2$s zurückzusetzen. Wenn dies beabsichtigt war, folge diesem Link:
 
   %3$s
@@ -818,8 +826,8 @@ $Definition['Private Note for Moderators'] = 'Private Notiz für Moderatoren';
 $Definition['Problem with credentials.'] = 'Problem mit Zertifikaten.';
 $Definition['Proceed'] = 'Fortsetzen';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Profilfelder';
 $Definition['Profile Fields'] = 'Profilfelder';
+$Definition['Profile  Fields'] = 'Profilfelder';
 $Definition['ProfileFieldsCustomDescription'] = 'Benutze diese Felder, um eigene Profilinformationen hinzuzufügen. Du kannst Felder hinzufügen, wie "Beziehnungsstatus", "Skype" oder "Lieblingsdinosaurier". Sei kreativ!';
 $Definition['Profile Page'] = 'Profilseite';
 $Definition['Profile Picture'] = 'Profilbild';
@@ -974,6 +982,7 @@ $Definition['Some Code'] = 'Etwas Code';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Jemand hat deine Frage beantwortet. Du musst die Antwort akzeptieren oder ablehnen.';
 $Definition['sorted by'] = 'sortiert nach';
 $Definition['Source:'] = 'Quelle:';
+$Definition['Source Code'] = 'Code';
 $Definition['Spam Queue'] = 'Spam Warteschlange';
 $Definition['Split'] = 'Teilen';
 $Definition['Split Comments'] = 'Kommentare aufteilen';

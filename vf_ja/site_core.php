@@ -470,6 +470,7 @@ $Definition['EmailWelcomeRegister'] = '{User.Name} さん、こんにちは。
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{イメージ}<strong>{タイトル}</strong>
 <p>{抜粋}</p>
 <p> <a href="{Url}">本文全てをここで読む</a> </p> <div class="ClearFix"> </div> </div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{イメージ}<strong>{タイトル}</strong>
 <p>{抜粋}</p>
 <p> <a href="{Url}">本文全てをここで読む</a> </p> <div class="ClearFix"> </div> </div>';
@@ -506,8 +507,8 @@ $Definition['Female'] = '女性';
 $Definition['Fifth Anniversary'] = '５周年';
 $Definition['FileName'] = 'ファイル名';
 $Definition['Filename'] = 'ファイルの名前';
-$Definition['File Size'] = 'ファイルのサイズ';
 $Definition['FileSize'] = 'ファイルサイズ';
+$Definition['File Size'] = 'ファイルのサイズ';
 $Definition['First Anniversary'] = '１周年';
 $Definition['First Comment'] = '最初のコメント';
 $Definition['Flag'] = 'フラッグ';
@@ -617,8 +618,8 @@ $Definition['InviteErrorPermission'] = '申し訳ありません、承認が得�
 $Definition['Invite Friends'] = '友だちを招待する';
 $Definition['Invite friends'] = '友だちを招待する';
 $Definition['Invite one or more people to join this group.'] = '1人以上の人をこのグループへ招待する。';
-$Definition['IP Address'] = 'IPアドレス';
 $Definition['IPAddress'] = 'IPアドレス';
+$Definition['IP Address'] = 'IPアドレス';
 $Definition['I remember now!'] = '思い出した！戻る。';
 $Definition['Italic'] = 'イタリック';
 $Definition['Item'] = 'Ban Item';
@@ -772,11 +773,13 @@ $Definition['Not Verified'] = '確認されていません';
 
 $Definition[' now.'] = '今。';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'の';
 $Definition['Off Topic'] = 'オフトピック';
 $Definition['Okay'] = 'Ok';
-$Definition['Old Password'] = '古いパスワード';
 $Definition['OldPassword'] = '古いパスワード';
+$Definition['Old Password'] = '古いパスワード';
 $Definition['on'] = 'オン';
 $Definition['Online Preferences'] = 'オンライン設定';
 $Definition['Only show followed categories'] = '次のカテゴリーを公開するだけです';
@@ -861,8 +864,8 @@ $Definition['Private Note for Moderators'] = 'モデレーターの為の自分�
 $Definition['Problem with credentials.'] = '認証情報に問題があります。';
 $Definition['Proceed'] = '進む';
 $Definition['Profile'] = 'プロフィール';
-$Definition['Profile  Fields'] = 'プロフィールフィールド';
 $Definition['Profile Fields'] = 'プロフィールフィールド';
+$Definition['Profile  Fields'] = 'プロフィールフィールド';
 $Definition['ProfileFieldsCustomDescription'] = 'これらのフィールドをカスタム プロファイル情報を作成するためにお使い下さい。「関係状況」や「スカイプ」、または「お気に入りの恐竜」のような事柄を入力できます。独創的です！';
 $Definition['Profile Page'] = 'プロフィールページ';
 $Definition['Profile Picture'] = 'プロフィール写真';

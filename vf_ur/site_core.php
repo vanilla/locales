@@ -572,8 +572,8 @@ $Definition['Not Verified'] = 'غیر تصدیق شدہ';
 $Definition[' now.'] = 'ابھی۔';
 
 $Definition['Off Topic'] = 'بند موضوع';
-$Definition['Old Password'] = 'پرانا پاسورڈ';
 $Definition['OldPassword'] = 'پُرانا پاسورڈ';
+$Definition['Old Password'] = 'پرانا پاسورڈ';
 $Definition['on'] = 'پر';
 $Definition['Only show followed categories'] = 'صرف زیرِ اقتداء زمرے دکھائیں';
 $Definition['OpenID Settings'] = 'اوپن آئی ڈی کی ترتیبات';

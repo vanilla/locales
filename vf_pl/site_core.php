@@ -322,6 +322,11 @@ $Definition['Dashboard'] = 'Kokpit';
 $Definition['Dashboard Home'] = 'Panel główny';
 $Definition['Dashboard Summaries'] = 'Panel podsumowań';
 $Definition['Date'] = 'Data';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Oczekiwany format: \'mm/dd/rrrr\'.';
 $Definition['Date Added'] = 'Data dodania';
 $Definition['Date Examples'] = 'Przykłady: Poniedziałek, dzisiaj, w ostatnim tygodniu, 26 marca, 3/26/04';
@@ -445,6 +450,7 @@ Masz dostęp do strony {/,url,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Przeczytaj całą historię tutaj</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Przeczytaj całą historię tutaj</a></p><div class="ClearFix"></div></div>';
@@ -480,8 +486,8 @@ $Definition['Female'] = 'Kobieta';
 $Definition['Fifth Anniversary'] = 'Piąta rocznica';
 $Definition['FileName'] = 'Nazwa pliku';
 $Definition['Filename'] = 'Nazwa pliku';
-$Definition['File Size'] = 'Rozmiar pliku';
 $Definition['FileSize'] = 'Rozmiar pliku';
+$Definition['File Size'] = 'Rozmiar pliku';
 $Definition['First Anniversary'] = 'Pierwsza rocznica';
 $Definition['First Comment'] = 'Pierwszy komentarz';
 $Definition['Flag'] = 'Oznacz';
@@ -588,8 +594,8 @@ $Definition['InviteErrorPermission'] = 'Sorry, brak dostępu.';
 $Definition['Invite Friends'] = 'Zaproś znajomych';
 $Definition['Invite friends'] = 'Zaproś znajomych';
 $Definition['Invite one or more people to join this group.'] = 'Zaproś jedną lub kilka osób do dołączenia do grupy.';
-$Definition['IP Address'] = 'Adres IP';
 $Definition['IPAddress'] = 'Adres IP';
+$Definition['IP Address'] = 'Adres IP';
 $Definition['I remember now!'] = 'Teraz pamiętam!';
 $Definition['Italic'] = 'Kursywa';
 $Definition['Item'] = 'Przedmiot';
@@ -741,6 +747,8 @@ $Definition['Not Verified'] = 'Nie zweryfikowany';
 
 $Definition[' now.'] = 'teraz.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'z';
 $Definition['Off Topic'] = 'Nie na temat';
 $Definition['Okay'] = 'W porządku';
@@ -830,8 +838,8 @@ $Definition['Private Note for Moderators'] = 'Prywatna notka dla moderatorów';
 $Definition['Problem with credentials.'] = 'Problem z danymi poświadczającymi.';
 $Definition['Proceed'] = 'Kontynuuj';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Pola w profilu';
 $Definition['Profile Fields'] = 'Pola w profilu';
+$Definition['Profile  Fields'] = 'Pola w profilu';
 $Definition['ProfileFieldsCustomDescription'] = 'Pola te służą do dodania w profilu niestandardowych informacji. Mogą to być np. "Stan cywilny", "Skype" lub "Ulubiony dinozaur". Popisz się kreatywnością!';
 $Definition['Profile Page'] = 'Strona profilu';
 $Definition['Profile Picture'] = 'Obrazek profilowy';

@@ -8,19 +8,13 @@ $Definition['Applied On'] = 'Date';
 
 $Definition['Ban Type'] = 'Type';
 
-$Definition['Comment in'] = 'in';
 $Definition['Condition Expression'] = 'Value';
 $Definition['Condition Field'] = 'Field';
 $Definition['Condition Type'] = 'Type';
 $Definition['CreateFile'] = 'Create';
 
-$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
-$Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['DownloadLocalePack'] = 'Download';
-
-$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 
 $Definition['Garden.Import.Merge'] = 'Merge with this forum.';
 $Definition['Garden.Import.Overwrite'] = 'Overwrite this forum.';
@@ -28,9 +22,6 @@ $Definition['Garden.Import.Overwrite'] = 'Overwrite this forum.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
-$Definition['Null Date'] = '-';
-
-$Definition['Source Code'] = 'Code';
 
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
 

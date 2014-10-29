@@ -302,6 +302,11 @@ $Definition['Dashboard'] = 'Pano';
 $Definition['Dashboard Home'] = 'Pano Anasayfası';
 $Definition['Dashboard Summaries'] = 'Pano Özetleri';
 $Definition['Date'] = 'Tarih';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Added'] = 'Tarih Eklendi';
 $Definition['days'] = 'gün';
 $Definition['Define Thumbnail'] = 'Küçük resminizi belirtmek için tıklayın ve sürükleyin.';
@@ -406,6 +411,7 @@ Siteye buradan giriş yapabilirsiniz. {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Bütün hikayeyi buradan okuyun</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Bütün hikayeyi buradan okuyun</a></p><div class="ClearFix"></div></div>';
@@ -440,8 +446,8 @@ $Definition['Female'] = 'Kadın';
 $Definition['Fifth Anniversary'] = 'Beşinci Yıldönümü';
 $Definition['FileName'] = 'DosyaAdı';
 $Definition['Filename'] = 'Dosya Adı';
-$Definition['File Size'] = 'Dosya Boyutu';
 $Definition['FileSize'] = 'DosyaBoyutu';
+$Definition['File Size'] = 'Dosya Boyutu';
 $Definition['First Anniversary'] = 'Birinci Yıldönümü';
 $Definition['First Comment'] = 'İlk Yorum';
 $Definition['Flag'] = 'Bayrak Ekle';
@@ -665,6 +671,8 @@ $Definition['Not Verified'] = 'Doğrulanmamış';
 
 $Definition[' now.'] = 'şimdi.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['Off Topic'] = 'Alakasız';
 $Definition['OK'] = 'TAMAM';
 $Definition['Okay'] = 'Tamam';
@@ -733,8 +741,8 @@ $Definition['Private Note for Moderators'] = 'Moderatör için Özel Not';
 $Definition['Problem with credentials.'] = 'Kimlik bilgisi sorunu.';
 $Definition['Proceed'] = 'Devam Et';
 $Definition['Profile'] = 'Profil';
-$Definition['Profile  Fields'] = 'Profil Boşlukları';
 $Definition['Profile Fields'] = 'Profil Boşlukları';
+$Definition['Profile  Fields'] = 'Profil Boşlukları';
 $Definition['ProfileFieldsCustomDescription'] = 'Özel profil bilgisi oluşturmak için bu alanları kullanın. "İlişki Durumu", "Skype", yada "Favori Dinazorunum" gibi şeyler ekleyebilirsiniz. Yaratıcı olun!';
 $Definition['Profile Page'] = 'Profil Sayfası';
 $Definition['Profile Picture'] = 'Profil Fotoğrafı';

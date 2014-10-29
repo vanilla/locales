@@ -326,7 +326,11 @@ $Definition['Dashboard'] = '控制面板';
 $Definition['Dashboard Home'] = '控制面板主页';
 $Definition['Dashboard Summaries'] = '控制面板简介';
 $Definition['Date'] = '日期';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%Y年%m月%d日';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '期望日期 \'mm/dd/yyyy\'';
 $Definition['Date Added'] = '添加时间';
 $Definition['Date Examples'] = '例如：周一，今天，上周，3 月 26 日，04 年 3 月 26 日';
@@ -454,6 +458,7 @@ $Definition['EmailWelcomeRegister'] = '恭喜您成功注册了账号 {Title}。
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">阅读全文</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">阅读全文</a></p><div class="ClearFix"></div></div>';
@@ -601,8 +606,8 @@ $Definition['InviteErrorPermission'] = '对不起,，没有权限。';
 $Definition['Invite Friends'] = '邀请好友';
 $Definition['Invite friends'] = '邀请好友';
 $Definition['Invite one or more people to join this group.'] = '邀请一个或多个人加入该群。';
-$Definition['IP Address'] = 'IP地址';
 $Definition['IPAddress'] = 'IP 地址';
+$Definition['IP Address'] = 'IP地址';
 $Definition['I remember now!'] = '我现在想起来了！';
 $Definition['Italic'] = '斜体';
 $Definition['Item'] = '条目';
@@ -755,6 +760,8 @@ $Definition['Not Verified'] = '没有验证';
 
 $Definition[' now.'] = ' 现在。';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = '的';
 $Definition['Off Topic'] = '题外话';
 $Definition['OK'] = '确定';
@@ -845,8 +852,8 @@ $Definition['Private Note for Moderators'] = '发起者的私人笔记';
 $Definition['Problem with credentials.'] = '证书问题。';
 $Definition['Proceed'] = '继续';
 $Definition['Profile'] = '个人资料';
-$Definition['Profile  Fields'] = '个人资料  栏目';
 $Definition['Profile Fields'] = '个人资料 栏目';
+$Definition['Profile  Fields'] = '个人资料  栏目';
 $Definition['ProfileFieldsCustomDescription'] = '使用这些栏目填写自定义的信息、比如"状态（单身)、"QQ"、"爱好"。想想吧！';
 $Definition['Profile Page'] = '个人资料页面';
 $Definition['Profile Picture'] = '个人头像';

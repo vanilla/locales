@@ -282,6 +282,7 @@ $Definition['Comment'] = 'Reageer';
 $Definition['comment'] = 'reageer';
 $Definition['Comment As ...'] = 'Reageer Als ...';
 $Definition['Comment by %s'] = 'Reactie door %s';
+$Definition['Comment in'] = 'in';
 $Definition['Commenting as %1$s (%2$s)'] = 'Aan het reageren als %1$s <span class="SignOutWrap">(%2$s)</span>';
 $Definition['Commenting not allowed.'] = 'Reageren niet toegestaan.';
 $Definition['Comments'] = 'Reacties';
@@ -324,8 +325,11 @@ $Definition['Dashboard'] = 'Instrumentenbord';
 $Definition['Dashboard Home'] = 'Instrumentenbord start';
 $Definition['Dashboard Summaries'] = 'Dashboardsamenvattingen';
 $Definition['Date'] = 'Datum';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%e %B';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
 $Definition['Date.DefaultTimeFormat'] = '%H:%M';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Datum. Verwacht \'mm/dd/jjjj\'.';
 $Definition['Date Added'] = 'Datum Toegevoegd';
 $Definition['Date Examples'] = 'Voorbeelden: maandag, vandaag, vorige week, 26 maart, 3/26/04';
@@ -465,6 +469,7 @@ Fijne dag verder!';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lees het volledige verhaal hier</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lees het volledige verhaal hier</a></p><div class="ClearFix"></div></div>';
@@ -500,8 +505,8 @@ $Definition['Female'] = 'Vrouw';
 $Definition['Fifth Anniversary'] = 'Vijfde verjaardag';
 $Definition['FileName'] = 'Bestandsnaam';
 $Definition['Filename'] = 'Bestandsnaam';
-$Definition['File Size'] = 'Bestandsgrootte';
 $Definition['FileSize'] = 'Bestandsgrootte';
+$Definition['File Size'] = 'Bestandsgrootte';
 $Definition['First Anniversary'] = 'Eerste verjaardag';
 $Definition['First Comment'] = 'Eerste bericht';
 $Definition['Flag'] = 'Rapporteer';
@@ -607,8 +612,8 @@ $Definition['InviteErrorPermission'] = 'Sorry, toestemming geweigerd.';
 $Definition['Invite Friends'] = 'Nodig vrienden uit';
 $Definition['Invite friends'] = 'Nodig vrienden uit';
 $Definition['Invite one or more people to join this group.'] = 'Nodig één of meer mensen uit om lid te worden van deze groep.';
-$Definition['IP Address'] = 'IP-Adres';
 $Definition['IPAddress'] = 'IP-Adres';
+$Definition['IP Address'] = 'IP-Adres';
 $Definition['I remember now!'] = 'Ohja, nu weet ik het weer!';
 $Definition['Italic'] = 'Cursief';
 $Definition['Item'] = 'Voorwerp';
@@ -761,6 +766,8 @@ $Definition['Not Verified'] = 'Niet Geverifieerd';
 
 $Definition[' now.'] = 'nu.';
 
+$Definition['Null Date'] = '-';
+
 $Definition['of'] = 'van';
 $Definition['Off Topic'] = 'Off topic';
 $Definition['Okay'] = 'Oké';
@@ -847,8 +854,8 @@ $Definition['Private Note for Moderators'] = 'Privéopmerking voor Moderators';
 $Definition['Problem with credentials.'] = 'Probleem met gegevens.';
 $Definition['Proceed'] = 'Ga verder';
 $Definition['Profile'] = 'Profiel';
-$Definition['Profile  Fields'] = 'Profielvelden';
 $Definition['Profile Fields'] = 'Profielvelden';
+$Definition['Profile  Fields'] = 'Profielvelden';
 $Definition['ProfileFieldsCustomDescription'] = 'Gebruik deze velden om aangepaste profielinformatie aan te maken. Je kan dingen invullen als "Relatiestatus", "Skype", of "Favoriete Dinosaurus". Ben creatief!';
 $Definition['Profile Page'] = 'Profielpagina';
 $Definition['Profile Picture'] = 'Profiel Afbeelding';
@@ -1001,6 +1008,7 @@ $Definition['Some Code'] = 'Een beetje Code';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Iemand heeft je vraag beantwoord. Je moet dit antwoord accepteren of weigeren.';
 $Definition['sorted by'] = 'gesorteerd door';
 $Definition['Source:'] = 'Bron:';
+$Definition['Source Code'] = 'Code';
 $Definition['Spam Queue'] = 'Spamlijst';
 $Definition['Split'] = 'Splits';
 $Definition['Split Comments'] = 'Splits Reacties';
