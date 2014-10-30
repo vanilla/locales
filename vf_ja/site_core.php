@@ -1246,7 +1246,6 @@ $Definition['Who\'s going?'] = '誰が行く?';
 $Definition['Who\'s Online'] = '誰がオンラインか';
 $Definition['Whoops!'] = 'おっと！';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'おっと! 当サイトにメールを送信するには、登録が必要です。';
-$Definition['Whos Online'] = '誰がオンライン';
 $Definition['Why are you Banning this user?'] = 'なぜこのユーザーを禁止しているのですか?';
 $Definition['Why do you want to join?'] = '参加を希望する理由は？';
 $Definition['Would you like to accept the invitation to join this group?'] = 'このグループへの招待を承諾しますか?';

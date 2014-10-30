@@ -951,7 +951,6 @@ $Definition['Welcome Aboard!'] = 'Tervetuloa mukaan!';
 $Definition['were'] = 'olivat';
 $Definition['Where do you want to announce this discussion?'] = 'Mihin haluat nostaa t&auml;m&auml;n keskustelun huomioitaviin?';
 $Definition['Who\'s Online'] = 'Paikalla on';
-$Definition['Whos Online'] = 'Paikalla ovat';
 $Definition['Why are you Banning this user?'] = 'Kerro eston syy?';
 $Definition['Why do you want to join?'] = 'Mit&auml; kautta palstan l&ouml;ysit/mahdollinen suosittelija?';
 $Definition['Write a comment'] = 'L&auml;het&auml; uusi kommentti';

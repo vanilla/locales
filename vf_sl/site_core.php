@@ -929,7 +929,6 @@ $Definition['Welcome Aboard!'] = 'Dobrodošli!';
 $Definition['were'] = 'so bili';
 $Definition['Where do you want to announce this discussion?'] = 'Kje želite objaviti to razpravo?';
 $Definition['Who\'s Online'] = 'Kdo je na strani';
-$Definition['Whos Online'] = 'Kdo je na strani';
 $Definition['Why are you Banning this user?'] = 'Zakaj bo ta uporabnik dobil prepoved?';
 $Definition['Write a comment'] = 'Napišite komentar';
 $Definition['Write Comment'] = 'Napišite komentar';

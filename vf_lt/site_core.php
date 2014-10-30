@@ -955,7 +955,6 @@ $Definition['Welcome Aboard!'] = 'Sveiki atvykę!';
 $Definition['were'] = 'buvo';
 $Definition['Where do you want to announce this discussion?'] = 'Kur nori paskelbti apie šią diskusiją?';
 $Definition['Who\'s Online'] = 'Kas prisijungęs';
-$Definition['Whos Online'] = 'Kas prisijungęs';
 $Definition['Why are you Banning this user?'] = 'Kodėl blokuoji šį vartotoją?';
 $Definition['Write a comment'] = 'Parašyti komentarą';
 $Definition['Write Comment'] = 'Rašyti komentarą';

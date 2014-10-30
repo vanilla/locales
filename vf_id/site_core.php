@@ -935,7 +935,6 @@ $Definition['Welcome Aboard!'] = 'Selamat Bergabung!';
 $Definition['were'] = 'telah';
 $Definition['Where do you want to announce this discussion?'] = 'Di mana anda ingin umumkan diskusi ini?';
 $Definition['Who\'s Online'] = 'Siapa yang Daring';
-$Definition['Whos Online'] = 'Siapa yang Daring';
 $Definition['Why are you Banning this user?'] = 'Mengapa anda mencekal pengguna ini?';
 $Definition['Why do you want to join?'] = 'Mengapa anda ingin bergabung?';
 $Definition['Write a comment'] = 'Tulis komentar';

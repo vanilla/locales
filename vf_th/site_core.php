@@ -958,7 +958,6 @@ $Definition['Welcome Aboard!'] = 'ยินดีต้อนรับ';
 $Definition['were'] = 'ได้';
 $Definition['Where do you want to announce this discussion?'] = 'คุณต้องการที่จะประกาศกระทู้นี้ที่ไหน';
 $Definition['Who\'s Online'] = 'มีใครออนไลน์';
-$Definition['Whos Online'] = 'มีใครออนไลน์';
 $Definition['Why are you Banning this user?'] = 'ทำไมคุณเเบนใช้นี้ ?';
 $Definition['Why do you want to join?'] = 'ทำไมคุณต้องการที่จะเข้าร่วม ?';
 $Definition['Write a comment'] = 'เขียนความคิดเห็น';

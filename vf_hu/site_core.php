@@ -1206,7 +1206,6 @@ $Definition['Who\'s going?'] = 'Ki megy?';
 $Definition['Who\'s Online'] = 'Ki van jelen';
 $Definition['Whoops!'] = 'Hoppá!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Hoppá! Mielőtt email-t küldesz nekünk, regisztrálnod kell.';
-$Definition['Whos Online'] = 'Ki van jelen';
 $Definition['Why are you Banning this user?'] = 'Miért tiltottad ki ezt a felhasználót?';
 $Definition['Why do you want to join?'] = 'Miért szeretnél csatlakozni?';
 $Definition['Would you like to accept the invitation to join this group?'] = 'Elfogadod a meghívást ebbe a csoportba?';

@@ -1222,7 +1222,6 @@ $Definition['Who\'s going?'] = 'Ai sẽ tham gia?';
 $Definition['Who\'s Online'] = 'Đang online';
 $Definition['Whoops!'] = 'Oái!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Oái! Bạn cần phải đăng ký trước khi bạn có thể gửi website của chúng tôi qua email';
-$Definition['Whos Online'] = 'Ai Online';
 $Definition['Why are you Banning this user?'] = 'Tại sao bạn ban thành viên này?';
 $Definition['Why do you want to join?'] = 'Vì sao bạn muốn tham gia?';
 $Definition['Would you like to accept the invitation to join this group?'] = 'Bạn có muốn nhận lời mời tham gia nhóm này?';

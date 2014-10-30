@@ -1226,7 +1226,6 @@ $Definition['Who\'s going?'] = 'Ποιος θα πάει;';
 $Definition['Who\'s Online'] = 'Ποιός είναι Συνδεμένος';
 $Definition['Whoops!'] = 'Ωχ!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Ουπς! Θα χρειαστεί να εγγραφείτε πριν μπορέσετε να στείλετε email στην ιστοσελίδα μας.';
-$Definition['Whos Online'] = 'Ποιός είναι Συνδεμένος';
 $Definition['Why are you Banning this user?'] = 'Γιατί Αποκλείετε αυτόν τον χρήστη;';
 $Definition['Why do you want to join?'] = 'Γιατί θες να γίνεις μέλος?';
 $Definition['Would you like to accept the invitation to join this group?'] = 'Θα θέλατε να αποδεχτείτε την πρόσκληση να συμμετάσχετε σε αυτό το γκρουπ?';

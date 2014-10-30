@@ -929,7 +929,6 @@ $Definition['Welcome Aboard!'] = 'خوش آمدید!';
 $Definition['were'] = 'تھے';
 $Definition['Where do you want to announce this discussion?'] = 'آپ اس مباحثہ کا اعلان کہاں کرنا چاہتے ہیں؟';
 $Definition['Who\'s Online'] = 'فی الوقت آن لائن اراکین';
-$Definition['Whos Online'] = 'فی الوقت آن لائن اراکین';
 $Definition['Why are you Banning this user?'] = 'آپ اس صارف کو کیوں معطل کر رہے ہیں؟';
 $Definition['Write a comment'] = 'تبصرہ لکھیں۔۔';
 $Definition['Write Comment'] = 'تبصرہ کریں';

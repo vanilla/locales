@@ -1234,7 +1234,6 @@ $Definition['Who\'s going?'] = '谁会参加？';
 $Definition['Who\'s Online'] = '看看谁在线';
 $Definition['Whoops!'] = '哎哟！';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = '哎呦！您需要注册才能向我们的网站发送电子邮件。';
-$Definition['Whos Online'] = '在线用户';
 $Definition['Why are you Banning this user?'] = '为什么屏蔽此用户？';
 $Definition['Why do you want to join?'] = '为什么你要加入呢?';
 $Definition['Would you like to accept the invitation to join this group?'] = '您希望接受邀请加入该群吗？';

@@ -1209,7 +1209,6 @@ $Definition['Who\'s going?'] = 'Hvem deltar?';
 $Definition['Who\'s Online'] = 'Hvem er online';
 $Definition['Whoops!'] = 'Ups!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Ups! Du må registrere deg før du kan sende e-mail til siden vår. ';
-$Definition['Whos Online'] = 'Hvem er online';
 $Definition['Why are you Banning this user?'] = 'Hvorfor vil du bortvise denne brukeren?';
 $Definition['Why do you want to join?'] = 'Hvorfor ønsker du å bli med?';
 $Definition['Would you like to accept the invitation to join this group?'] = 'Ønsker du å akseptere invitasjonen om å bli med i denne gruppen?';

@@ -1208,7 +1208,6 @@ $Definition['Who\'s going?'] = 'Quem vai?';
 $Definition['Who\'s Online'] = 'Quem está online?';
 $Definition['Whoops!'] = 'Ops!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Ops! Você precisa se registrar antes de poder enviar e-mails ao nosso site.';
-$Definition['Whos Online'] = 'Quem está Online?';
 $Definition['Why are you Banning this user?'] = 'Porque está banindo este usuário?';
 $Definition['Why do you want to join?'] = 'Por que você deseja se juntar?';
 $Definition['Would you like to accept the invitation to join this group?'] = 'Você gostaria de aceitar o convite para participar deste grupo?';

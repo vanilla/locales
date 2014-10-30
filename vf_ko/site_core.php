@@ -1213,7 +1213,6 @@ $Definition['Who\'s going?'] = '누가 갑니까?';
 $Definition['Who\'s Online'] = '온라인 접속자';
 $Definition['Whoops!'] = '어머나!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = '아이고! 사이트에 이메일을 보내기 전에 등록하셔야 합니다.';
-$Definition['Whos Online'] = '누구의 온라인';
 $Definition['Why are you Banning this user?'] = '이 사용자를 금지하는 이유가 무엇입니까?';
 $Definition['Why do you want to join?'] = '가입을 원하는 이유는 무엇입니까?';
 $Definition['Would you like to accept the invitation to join this group?'] = '이 그룹 가입 초대를 수락하시겠습니까?';

@@ -925,7 +925,6 @@ $Definition['Welcome Aboard!'] = 'به انجمن خوش آمدید!';
 $Definition['were'] = 'بودند';
 $Definition['Where do you want to announce this discussion?'] = 'کجا می‌خواهید این خبر را بگذارید؟';
 $Definition['Who\'s Online'] = 'چه کسی هم اکنون اینجاست؟';
-$Definition['Whos Online'] = 'افراد آنلاین';
 $Definition['Why are you Banning this user?'] = 'چرا این کاربر را محروم می‌کنید؟';
 $Definition['Why do you want to join?'] = 'انگیزه‌ی شما برای عضویت؟';
 $Definition['Write a comment'] = 'دیدگاه‌تان را بنویسید';

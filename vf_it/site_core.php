@@ -1209,7 +1209,6 @@ $Definition['Who\'s going?'] = 'Chi parteciperà?';
 $Definition['Who\'s Online'] = 'Chi c\'è Online';
 $Definition['Whoops!'] = 'Oops!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Ops! Dovrai registrarti prima di poter inviare email al nostro sito.';
-$Definition['Whos Online'] = 'Chi c\'è Online';
 $Definition['Why are you Banning this user?'] = 'Perché stai Bannando questo utente?';
 $Definition['Why do you want to join?'] = 'Perche\' vuoi unirti??';
 $Definition['Would you like to accept the invitation to join this group?'] = 'Vuoi accettare l\'invito ad unirti a questo gruppo?';

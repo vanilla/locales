@@ -1233,7 +1233,6 @@ $Definition['Who\'s going?'] = 'מי הולך?';
 $Definition['Who\'s Online'] = 'מי מחובר';
 $Definition['Whoops!'] = 'אופס!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'אופס! אתה נדרש להירשם לפני שאתה יכול לשלוח מייל לאתר שלנו.';
-$Definition['Whos Online'] = 'מי מחובר';
 $Definition['Why are you Banning this user?'] = 'למה אתה מחרים את המשתמש הזה?';
 $Definition['Why do you want to join?'] = 'למה אתה רוצה להצטרך לפורום';
 $Definition['Would you like to accept the invitation to join this group?'] = 'האם ברצונך לקבל את ההזמנה להצטרף לקבוצה הזאת?';

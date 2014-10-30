@@ -1044,7 +1044,6 @@ $Definition['Welcome Aboard!'] = 'Добро пожаловать къ намъ!
 $Definition['were'] = 'гдѣ';
 $Definition['Where do you want to announce this discussion?'] = 'Гдѣ вы хотите объявить эту дискуссію?';
 $Definition['Who\'s Online'] = 'Кто сейчасъ на сайтѣ?';
-$Definition['Whos Online'] = 'Кто онлайнъ';
 $Definition['Why are you Banning this user?'] = 'Почему вы баните этого пользователя?';
 $Definition['Why do you want to join?'] = 'Почему вы хотите зарегистрироваться?';
 $Definition['Write a comment'] = 'Написать комментарій';

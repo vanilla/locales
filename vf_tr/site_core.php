@@ -1065,7 +1065,6 @@ $Definition['When'] = 'Ne Zaman';
 $Definition['Where'] = 'Nerede';
 $Definition['Where do you want to announce this discussion?'] = 'Bu tartışmayı nerde duyurmak istersin?';
 $Definition['Who\'s Online'] = 'Kimler Çevrimiçi';
-$Definition['Whos Online'] = 'Kimler Çevrimiçi';
 $Definition['Why are you Banning this user?'] = 'Bu kullanıcıyı neden engelliyorsun?';
 $Definition['Why do you want to join?'] = 'Neden katılmak isteyeceksiniz?';
 $Definition['Write a comment'] = 'Bir yorum yaz';

@@ -1217,7 +1217,6 @@ $Definition['Who\'s going?'] = '誰會去？';
 $Definition['Who\'s Online'] = '線上會員';
 $Definition['Whoops!'] = '哎呀！';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = '哎呀！您需要先註冊才可給我們發電子郵件。';
-$Definition['Whos Online'] = '誰在綫';
 $Definition['Why are you Banning this user?'] = '你為什麼要封禁該用戶？';
 $Definition['Why do you want to join?'] = '為什麼你要加入呢?';
 $Definition['Would you like to accept the invitation to join this group?'] = '您願意接受加入該組的申請嗎？';

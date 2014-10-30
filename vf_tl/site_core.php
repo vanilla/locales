@@ -929,7 +929,6 @@ $Definition['Welcome Aboard!'] = 'Pagbati sa Pagsali!';
 $Definition['were'] = 'ay';
 $Definition['Where do you want to announce this discussion?'] = 'Kailan mo gustong ianunsyo ang diskusyong ito?';
 $Definition['Who\'s Online'] = 'Sino ang naka-online';
-$Definition['Whos Online'] = 'Sino ang mga naka Online';
 $Definition['Why are you Banning this user?'] = 'Bakit mo binabawalan ang user na ito?';
 $Definition['Write a comment'] = 'Magsulat ng komento';
 $Definition['Write Comment'] = 'Magsulat ng Komentaryo';
