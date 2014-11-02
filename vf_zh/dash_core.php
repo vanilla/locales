@@ -79,6 +79,7 @@ $Definition['Add Role'] = '添加用户角色';
 $Definition['Add User'] = '添加用户';
 $Definition['Administrator'] = '管理员';
 $Definition['Advanced'] = '高级';
+$Definition['Advanced Editor Settings'] = '高级编辑器设定';
 $Definition['Advanced Embed Settings'] = '嵌入高级设置';
 $Definition['Advanced Forum Settings'] = '高级论坛设置';
 $Definition['AdvancedNotifications'] = '高级通知';
@@ -100,6 +101,7 @@ $Definition['Allow users to dismiss this message'] = '允许用户撤消该消�
 $Definition['All Pages'] = '所有页面（*）';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = '邀请创建成功，但邮件无法送达。服务器抛如下错误信息: %s';
 $Definition['A message has been sent to your email address with password reset instructions.'] = '重置密码信息已经发送到您的邮箱。';
+$Definition['API'] = '应用程序接口';
 $Definition['API Status'] = 'API 状态';
 $Definition['Appearance'] = '外观';
 $Definition['Applicant'] = '申请者';
@@ -241,6 +243,7 @@ $Definition['Create a localization CSV'] = '创建一个本地化的 CSV 文件'
 $Definition['Created new badge'] = '创建新徽章';
 $Definition['CreateFile'] = '创建';
 $Definition['Criteria'] = '条件';
+$Definition['Current Authenticator'] = '当前验证方式';
 $Definition['Current File:'] = '正在使用的文件:';
 $Definition['Current Theme'] = '正在使用的模板';
 
@@ -255,6 +258,7 @@ $Definition['Default  Category'] = '默认 类别';
 $Definition['Default Category Permissions'] = '默认板块权限';
 $Definition['Default Locale'] = '默认语言';
 $Definition['Default Roles'] = '默认用户角色';
+$Definition['Define who can upload files on the Roles & Permissions page.'] = '设定能在 <a href="%s">Roles & Permissions</a> 页面上传及管理文件的用户。';
 $Definition['Define your forum homepage'] = '定义您的社区首页';
 $Definition['Define your forum homepage, upload your logo, and more...'] = '定义您的社区首页，上传LOGO，以及其他...';
 $Definition['Delete Badge'] = '删除徽章';
@@ -386,8 +390,15 @@ $Definition['Frequency'] = '频率';
 $Definition['From'] = '发件人';
 
 $Definition['Garden'] = '花园';
+$Definition['Garden.Import.Complete.Description'] = '成功导入数据。
+   准备好后请单击 <b>完成</b>。';
+$Definition['Garden.Import.Continue.Description'] = '该站点正在导入数据。
+   请选择一项操作：';
 $Definition['Garden.Import.Description'] = 'Use this page to import data from another forum that was exported using Vanilla\'s exporter. For more information <a href="%s">see our importing documentation</a>.';
+$Definition['Garden.Import.InputInstructions'] = '输入导入数据的管理员用户与密码。';
 $Definition['Garden.Import.Merge'] = '与当前社区合并';
+$Definition['Garden.Import.Merge.Description'] = '该操作将合并导入数据的所有用户及发帖数据。
+<b>警告: 如果您导入相同的数据，您的论坛将产生重复的发帖。</b>';
 $Definition['Garden.Import.Overwrite'] = '覆盖当前社区';
 $Definition['Garden.Import.Overwrite.Description'] = '警告：本论坛所有数据都将被覆盖。';
 $Definition['Garden.StatisticsDisabled'] = '您在您的配置文件中关闭了 Vanilla 统计功能。';
@@ -459,6 +470,7 @@ $Definition['Introducing Vanilla Reactions and Badges'] = '引入 Vanilla 回应
 $Definition['Invalid category for deletion.'] = '无效的板块删除。';
 $Definition['Invitation'] = '邀请方式';
 $Definition['Invitation Code'] = '邀请码';
+$Definition['Invitations can be sent from users\' profile pages.'] = '当您启用邀请注册后用户将会在他们的个人资料页显示 <a href="%s" class="Popup">我的邀请</a> 链接。';
 $Definition['Invitations per month'] = '每月邀请数';
 $Definition['Invitations will expire'] = '邀请过期';
 $Definition['Invited by'] = '邀请';
@@ -487,6 +499,7 @@ $Definition['Limit the display of this pocket for mobile devices.'] = '不在移
 $Definition['Limit the display of this pocket to "mobile only".'] = '只在移动设备上显示这个Pocket。';
 $Definition['Limit the pocket to one or more roles or permissions.'] = '限制Pocket仅供一个或多个角色以及权限使用。';
 $Definition['Link my existing account'] = '连接我的一个已经存在的账户';
+$Definition['Locale Key (Folder)'] = '语言 (目录名)';
 $Definition['Locale Name'] = '语言名称';
 $Definition['Locales'] = '国际化';
 $Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once an locale has been added to your %s folder, you can enable or disable it here.';
@@ -602,6 +615,7 @@ $Definition['Pockets.BetweenDiscussions.Description'] = '这个Pocket将显示�
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket允许你在应用中的多个地方自由添加HTML代码。';
 $Definition['Polls'] = '调查';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '限制用户一定时间内的话题和回复数可以防止垃圾信息。';
+$Definition['Private Key'] = '私钥';
 $Definition['Provider'] = '提供者';
 $Definition['Proxy Connect'] = '代理连接';
 $Definition['ProxyConnect.RimBlurb'] = '如果你在 ProxyConnect 中使用了官方支持的远程应用插件，如我们的 wordpress-proxyconnect 插件，那么这些设定值可以在插件配置页面中找到。';
@@ -609,6 +623,7 @@ $Definition['ProxyConnect.TestSettings'] = '当你配置好下面的 ProxyConnec
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect 设置完成，已连接到你的博客，%s。现在请激活认证管理器并进行一些测试。';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect 提供了多种预置的 <b>远程集成管理器</b>，它们都用来自动完成设置过程。如果你的远程应用在下拉框之中，请选择，或选择“手动集成”。';
 $Definition['Proxy Connect Test'] = '代理连接测试';
+$Definition['Public Key'] = '公钥';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = '创建Vanilla主题快速指南';
 
@@ -725,9 +740,11 @@ $Definition['TextEnterEmails'] = '在这里输入用半角逗号字符分隔的�
 $Definition['Thank You!'] = '谢谢!';
 $Definition['The %s badge has already been given to %s.'] = '%s 勋章已被授予 %s。';
 $Definition['The %s has been deleted.'] = '%s 已被删除。';
+$Definition['The %s has been flagged for moderation.'] = '%s 被标记为等待审核。';
 $Definition['The %s locale pack does not exist.'] = '%s locale pack 没有退出。';
 $Definition['The %s table is not in the correct format.'] = '%s 表格的格式不正确。';
 $Definition['The %s was already approved by %s on %s.'] = '%s 已被 %s 审批通过于 %s 。';
+$Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = '启用插件失败，因为报告出现以下错误：<pre>%s</pre>';
 $Definition['The addon has already been downloaded.'] = '该扩展已被下载。';
 $Definition['The banner logo appears at the top of your forum.'] = '站点LOGO将显示在论坛顶部';
 $Definition['The banner title appears on the top-left of every page.'] = '站点名称显示在每个页面的左上角';
