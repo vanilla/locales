@@ -922,7 +922,6 @@ $Definition['Welcome Aboard!'] = 'Vítej na Ice & Fire!';
 $Definition['were'] = 'byli';
 $Definition['Where do you want to announce this discussion?'] = 'Kde chceš oznámit tuto diskuzi?';
 $Definition['Who\'s Online'] = 'Kdo je online';
-$Definition['Whos Online'] = 'Kdo je online';
 $Definition['Why are you Banning this user?'] = 'Proč chceš zakázat tohoto uživatele?';
 $Definition['Write a comment'] = 'Napiš komentář';
 $Definition['Write Comment'] = 'Psát komentář';

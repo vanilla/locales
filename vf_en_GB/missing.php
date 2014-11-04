@@ -64,10 +64,8 @@ $Definition['ConnectRegisteredName'] = 'Your registered username: <strong>%s</st
 $Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 $Definition['CreateFile'] = 'Create';
 
-$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
 $Definition['Define Thumbnail'] = 'Click and drag across the picture to define your thumbnail.';
