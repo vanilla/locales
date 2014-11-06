@@ -45,13 +45,6 @@ $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s"
 
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 
-$Definition['Password Contains Username'] = 'Contains Username';
-$Definition['Password Good'] = 'Good';
-$Definition['Password Ok'] = 'Ok';
-$Definition['Password Strong'] = 'Strong';
-$Definition['Password Too Short'] = 'Too Short';
-$Definition['Password Very Weak'] = 'Very Weak';
-$Definition['Password Weak'] = 'Weak';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
                able to retrieve a logged-in session from the AuthenticateURL you

@@ -31,13 +31,6 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 
-$Definition['Password Contains Username'] = 'Contains Username';
-$Definition['Password Good'] = 'Good';
-$Definition['Password Ok'] = 'Ok';
-$Definition['Password Strong'] = 'Strong';
-$Definition['Password Too Short'] = 'Too Short';
-$Definition['Password Very Weak'] = 'Very Weak';
-$Definition['Password Weak'] = 'Weak';
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
                able to retrieve a logged-in session from the AuthenticateURL you
                specified. Please make sure you are logged in to your remote application
