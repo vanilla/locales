@@ -866,6 +866,7 @@ $Definition['Reactions'] = 'Reaktionen';
 $Definition['Real Name'] = 'Echter Name';
 $Definition['Reason'] = 'Grund';
 $Definition['Reason (optional)'] = 'Begründung (optional)';
+$Definition['Recent'] = 'Den letzten';
 $Definition['Recent Activity'] = 'Neue Aktivitäten';
 $Definition['Recent Admin Activity'] = 'Adminaktivität ablehnen';
 $Definition['Recent Discussions'] = 'Neueste Diskussionen';

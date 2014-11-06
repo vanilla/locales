@@ -958,6 +958,7 @@ $Definition['Reactions'] = 'Отклики';
 $Definition['Real Name'] = 'Настоящее имя';
 $Definition['Reason'] = 'Причина';
 $Definition['Reason (optional)'] = 'Причина (опционально)';
+$Definition['Recent'] = 'Последнее';
 $Definition['Recent Activity'] = 'Последняя активность';
 $Definition['Recent Admin Activity'] = 'Последние действия администратора';
 $Definition['Recent Discussions'] = 'Свежие дискуссии';

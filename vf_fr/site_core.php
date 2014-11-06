@@ -859,6 +859,7 @@ $Definition['Reactions'] = 'Réactions';
 $Definition['Real Name'] = 'Nom réel';
 $Definition['Reason'] = 'Raison';
 $Definition['Reason (optional)'] = 'Raison (facultatif)';
+$Definition['Recent'] = 'Récent';
 $Definition['Recent Activity'] = 'Activité Récente';
 $Definition['Recent Admin Activity'] = 'Activité récente de l\'administrateur';
 $Definition['Recent Discussions'] = 'Discussions récentes';
