@@ -1,8 +1,5 @@
 <?php
 
-$Definition['Date.DefaultDayFormat'] = '%B %e';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
-
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 

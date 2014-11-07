@@ -1,5 +1,12 @@
 <?php
 
+$Definition['%s comment html'] = '%s comment';
+$Definition['%s comments html'] = '%s comments';
+$Definition['%s discussion html'] = '%s discussion';
+$Definition['%s discussions html'] = '%s discussions';
+$Definition['%s view html'] = '%s view';
+$Definition['%s views html'] = '%s views';
+
 $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 

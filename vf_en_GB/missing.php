@@ -1,6 +1,12 @@
 <?php
 
+$Definition['%s comment html'] = '%s comment';
+$Definition['%s comments html'] = '%s comments';
+$Definition['%s discussion html'] = '%s discussion';
+$Definition['%s discussions html'] = '%s discussions';
 $Definition['%s new plural'] = '%s new';
+$Definition['%s view html'] = '%s view';
+$Definition['%s views html'] = '%s views';
 
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
