@@ -882,6 +882,7 @@ $Definition['Reactions'] = 'Reaksjoner';
 $Definition['Real Name'] = 'Ekte navn';
 $Definition['Reason'] = 'Årsak';
 $Definition['Reason (optional)'] = 'Årsak (valgfritt)';
+$Definition['Recent'] = 'Nylig';
 $Definition['Recent Activity'] = 'Siste aktiviteter';
 $Definition['Recent Admin Activity'] = 'Siste administratoraktivitet';
 $Definition['Recent Discussions'] = 'Siste diskusjoner';

@@ -871,6 +871,7 @@ $Definition['Reactions'] = 'Reaktioner';
 $Definition['Real Name'] = 'Rigtige navn';
 $Definition['Reason'] = 'Årsag';
 $Definition['Reason (optional)'] = 'Grund (valgfri)';
+$Definition['Recent'] = 'Seneste';
 $Definition['Recent Activity'] = 'Seneste aktivitet';
 $Definition['Recent Admin Activity'] = 'Seneste administratoraktivitet';
 $Definition['Recent Discussions'] = 'Seneste diskussioner';

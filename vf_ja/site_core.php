@@ -912,6 +912,7 @@ $Definition['Reactions'] = 'リアクション';
 $Definition['Real Name'] = '実名';
 $Definition['Reason'] = '理由';
 $Definition['Reason (optional)'] = '理由 (オプション)';
+$Definition['Recent'] = '最近の';
 $Definition['Recent Activity'] = '最近のアクティビティ';
 $Definition['Recent Admin Activity'] = '管理人の最近の活動';
 $Definition['Recent Discussions'] = '最近のディスカッション';

@@ -894,6 +894,7 @@ $Definition['Reactions'] = 'ردود الفعل';
 $Definition['Real Name'] = 'الاسم الحقيقي';
 $Definition['Reason'] = 'السبب';
 $Definition['Reason (optional)'] = 'السبب (إختياري)';
+$Definition['Recent'] = 'حَدِيث ';
 $Definition['Recent Activity'] = 'نشاط حديث';
 $Definition['Recent Admin Activity'] = 'النشاط الحديث للمدير';
 $Definition['Recent Discussions'] = 'مشاركات جديدة';

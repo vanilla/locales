@@ -893,6 +893,7 @@ $Definition['Reactions'] = '反應';
 $Definition['Real Name'] = '真實姓名';
 $Definition['Reason'] = '理由';
 $Definition['Reason (optional)'] = '理由（可選）';
+$Definition['Recent'] = '最近';
 $Definition['Recent Activity'] = '最近活動';
 $Definition['Recent Admin Activity'] = '最近管理活動';
 $Definition['Recent Discussions'] = '最近討論';

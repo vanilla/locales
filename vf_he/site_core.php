@@ -897,6 +897,7 @@ $Definition['Reactions'] = 'תגובות';
 $Definition['Real Name'] = 'שם אמיתי';
 $Definition['Reason'] = 'סיבה';
 $Definition['Reason (optional)'] = 'סיבה (אופציונלי)';
+$Definition['Recent'] = 'האחרון';
 $Definition['Recent Activity'] = 'פעילויות אחרונות';
 $Definition['Recent Admin Activity'] = 'פעילויות אדמין אחרונות';
 $Definition['Recent Discussions'] = 'דיונים אחרונים';

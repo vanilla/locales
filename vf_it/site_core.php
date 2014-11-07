@@ -875,6 +875,7 @@ $Definition['Reactions'] = 'Reazioni';
 $Definition['Real Name'] = 'Nome Reale';
 $Definition['Reason'] = 'Motivazione';
 $Definition['Reason (optional)'] = 'Motivazione (opzionale)';
+$Definition['Recent'] = 'Recente';
 $Definition['Recent Activity'] = 'Attività Recente';
 $Definition['Recent Admin Activity'] = 'Attività Recente dell\'Amministratore';
 $Definition['Recent Discussions'] = 'Discussioni Recenti';

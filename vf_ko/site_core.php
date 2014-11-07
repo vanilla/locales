@@ -888,6 +888,7 @@ $Definition['Reactions'] = '반응';
 $Definition['Real Name'] = '실제 이름';
 $Definition['Reason'] = '이유';
 $Definition['Reason (optional)'] = '이유 (선택)';
+$Definition['Recent'] = '최근';
 $Definition['Recent Activity'] = '최근 활동';
 $Definition['Recent Admin Activity'] = '최근 운영자 활동';
 $Definition['Recent Discussions'] = '최근 토론';

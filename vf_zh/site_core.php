@@ -900,6 +900,7 @@ $Definition['Reactions'] = '反应';
 $Definition['Real Name'] = '真实姓名';
 $Definition['Reason'] = '原因';
 $Definition['Reason (optional)'] = '原因(可选)';
+$Definition['Recent'] = '最近';
 $Definition['Recent Activity'] = '近期动态';
 $Definition['Recent Admin Activity'] = '当前在线管理员';
 $Definition['Recent Discussions'] = '近期讨论';

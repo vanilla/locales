@@ -893,6 +893,7 @@ $Definition['Reactions'] = 'αντιδράσεις';
 $Definition['Real Name'] = 'Πραγματικό Όνομα';
 $Definition['Reason'] = 'Αιτία';
 $Definition['Reason (optional)'] = 'Αιτία (προαιρετικά)';
+$Definition['Recent'] = 'Πρόσφατα';
 $Definition['Recent Activity'] = 'Πρόσφατη Δραστηριότητα';
 $Definition['Recent Admin Activity'] = 'Πρόσφατη Δραστηριότητα Διαχειριστή';
 $Definition['Recent Discussions'] = 'Πρόσφατες Συζητήσεις';
