@@ -244,6 +244,7 @@ $Definition['Bookmarked Discussions'] = 'المشاركات المفضلة';
 $Definition['Bookmarks'] = 'مواضيع مفضلة';
 $Definition['bookmarks'] = 'المفضلات';
 $Definition['Browse Groups'] = 'استعراض المجموعات';
+$Definition['Browse popular groups.'] = 'تصفح المجموعات الشعبية.';
 $Definition['By'] = 'بواسطة';
 $Definition['by'] = 'بواسطة';
 $Definition['by Date'] = 'في تاريخ';
@@ -1307,6 +1308,7 @@ $Definition['You do not have permission to write new comments.'] = 'ليس لد�
 $Definition['YouEarnedBadge'] = 'كسبت هذه الشارة';
 $Definition['You have answered questions'] = 'عندك اسئلة اجيب عليها';
 $Definition['You have entered an invalid discussion title'] = 'عنوان الموضوع الذي ادخلته غير صحيح.';
+$Definition['You haven\'t joined any groups yet.'] = 'لم تنضم إلى أي مجموعات بعد.';
 $Definition['You haven\'t read this yet.'] = 'أنت لم تقرأ هذا.';
 $Definition['You have not started any discussions.'] = 'لم تبدأ اي مشاركات.';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'لقد قمت بالنشر لعدد %1$s مرة خلال %2$s ثانية. تم تفعيل مانع الإزعاج على حسابك الآن. يجب عليك الانتظار لمدة %3$s ثانية قبل محاولة النشر مجدداً.';

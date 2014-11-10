@@ -262,6 +262,7 @@ $Definition['Bookmarked Discussions'] = 'Ваши закладки';
 $Definition['Bookmarks'] = 'Закладки';
 $Definition['bookmarks'] = 'закладки';
 $Definition['Browse Groups'] = 'Обзор групп';
+$Definition['Browse popular groups.'] = 'Обзор популярных групп.';
 $Definition['By'] = 'Отъ';
 $Definition['by'] = 'по';
 $Definition['by Date'] = 'по Датѣ';
@@ -1441,6 +1442,7 @@ $Definition['You do not have permission to write new comments.'] = 'Вы не и
 $Definition['YouEarnedBadge'] = 'Вы заработали этот значок';
 $Definition['You have answered questions'] = 'У Васъ есть вопросы <a href="{/discussions/mine?qna=Answered,url}">съ отвѣтами</a>. Одобрите или отклоните ихъ.';
 $Definition['You have entered an invalid discussion title'] = 'Вы ввели невѣрный заголовокъ обсужденія';
+$Definition['You haven\'t joined any groups yet.'] = 'Вы еще не присоединились ни к одной группе.';
 $Definition['You haven\'t read this yet.'] = 'Вы еще не читали это.';
 $Definition['You have not started any discussions.'] = 'Вы еще не начали какихъ-либо обсужденій.';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'Вы написали %1$s сообщеній за %2$s секундъ. Въ цѣляхъ борьбы со спамомъ вы заблокированы на %3$s секундъ, по прошествіи которыхъ вы снова сможете публиковать сообщенія.';
