@@ -993,6 +993,7 @@ $Definition['Shown only on mobile'] = 'Shown only on mobile';
 $Definition['Show unfollowed categories'] = 'Show unfollowed categories';
 $Definition['Sign-In URL'] = 'Sign-In URL';
 $Definition['Sign-Out URL'] = 'Sign-Out URL';
+$Definition['Signature'] = 'Signature';
 $Definition['Signature Code'] = 'Signature Code';
 $Definition['Signature invalid.'] = 'Signature invalid.';
 $Definition['Signatures'] = 'Signatures';
