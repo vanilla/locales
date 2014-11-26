@@ -527,6 +527,7 @@ $Definition['Format you'] = 'أنت';
 $Definition['Format Your'] = 'لك';
 $Definition['Forum'] = 'منتدى';
 $Definition['Forums'] = 'منتديات';
+$Definition['Forum Signature Settings'] = 'إعدادات توقيع المنتدى';
 $Definition['Fourth Anniversary'] = 'الذكرى الرابعة';
 $Definition['Friends'] = 'أصدقاء';
 $Definition['From'] = 'من';
@@ -596,6 +597,8 @@ $Definition['Ignore'] = 'تجاهل';
 $Definition['Ignore List'] = 'قائمة التجاهل';
 $Definition['Ignore Someone'] = 'تجاهل شخص ما';
 $Definition['Image'] = 'صورة';
+$Definition['images'] = 'صور';
+$Definition['Images not allowed'] = 'الصور غير مسموح بها';
 $Definition['Image URL'] = 'عنوان الصورة';
 $Definition['in'] = 'في';
 $Definition['In <b>%s.</b>'] = 'في <b>%s.</b>';
@@ -711,6 +714,7 @@ $Definition['My Drafts'] = 'مسوداتي';
 $Definition['My Forums'] = 'منتدياتي';
 $Definition['My Groups'] = 'مجموعاتي';
 $Definition['My Preferences'] = 'تفضيلاتي';
+$Definition['My Signature'] = 'توقيعي';
 
 $Definition['n/a'] = 'N/A';
 $Definition['Name'] = 'الاسم';
@@ -992,6 +996,7 @@ $Definition['Shown only on mobile'] = 'يظهر ذلك فقط على الجوا�
 $Definition['Show unfollowed categories'] = 'اظهر الاقسام الغير متابعة';
 $Definition['Sign-In URL'] = 'رابط تسجيل الدخول';
 $Definition['Sign-Out URL'] = 'رابط تسجيل الخروج';
+$Definition['Signature'] = 'توقيع';
 $Definition['Signature Code'] = 'كود التوقيع';
 $Definition['Signature invalid.'] = 'التوقيع غير صحيح.';
 $Definition['Signatures'] = 'التواقيع';
@@ -1297,6 +1302,7 @@ $Definition['You can only specify up to %s tags.'] = 'يمكنك إضافة حت
 $Definition['You can remove or ban this member from the group.'] = 'يمكنك حذف أو حظر هذا العضو من المجموعة. الأعضاء المحظورون لن يتمكنوا من الانضمام إلى المجموعة مرة أخرى.';
 $Definition['You can use HTML in your signature.'] = 'يمكنك استخدام <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Html عادي</a></b> في توقيعك.';
 $Definition['You don\'t have permission to do that.'] = 'ليس لديك الصلاحيات لفعل هدا';
+$Definition['You don\'t have permission to use a signature.'] = 'ليس مسموحا لك باستعمال توقيع.';
 $Definition['You do not have any %s yet.'] = 'ليس لديك أي %s بعد';
 $Definition['You do not have any bookmarks.'] = 'ليس لديك اي موضوع مفضل.';
 $Definition['You do not have any conversations.'] = 'ليس لديك اي مشاركات.';

@@ -4,7 +4,7 @@
   'Locale' => 'ru@petr1708',
   'Name' => 'Русский (PETR1708) / Russian (PETR1708)',
   'Description' => 'Official Russian (PETR1708) language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/ru%40petr1708/">here</a>.',
-  'Version' => '2014.11.10p1211',
+  'Version' => '2014.11.26p1210',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/ru%40petr1708/',
 );

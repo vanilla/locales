@@ -1,5 +1,6 @@
 <?php
 
+$Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s прие поканата на %4$s за членство.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s промени снимката на профила си.';
 $Definition['%1$s joined.'] = '%1$s се присъедини към форума.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s спомена %3$s в %8$s.';
@@ -11,6 +12,8 @@ $Definition['%s New'] = '%s Нов';
 $Definition['%s new'] = '%s нов';
 $Definition['%s New Plural'] = '%s Нови';
 $Definition['%s new plural'] = '%s нов';
+
+$Definition['(All)'] = '(Всички)';
 
 $Definition[' - Page %s'] = ' - Страница %s';
 
@@ -243,7 +246,7 @@ $Definition['My Preferences'] = 'Моите настройки';
 $Definition['Name'] = 'Име';
 $Definition['Name Unavailable'] = 'Името е заето';
 $Definition['New Conversation'] = 'Започнете нов разговор';
-$Definition['New Discussion'] = 'Започнете нова дискусии';
+$Definition['New Discussion'] = 'Започнете нова дискусия';
 $Definition['New Message'] = 'Започнете нов разговор';
 $Definition['New Password'] = 'Нова парола';
 $Definition['No'] = 'Не';
@@ -328,7 +331,7 @@ $Definition['somebody'] = 'някой';
 $Definition['Source:'] = 'Източник:';
 $Definition['Spam'] = 'Спам';
 $Definition['Start a New Conversation'] = 'Започнете нов разговор';
-$Definition['Start a New Discussion'] = 'Започнете нова дискусии';
+$Definition['Start a New Discussion'] = 'Започнете нова дискусия';
 $Definition['Start Conversation'] = 'Започнете разговор';
 $Definition['Started by %1$s'] = 'започната от %1$s';
 $Definition['Start your First Discussion'] = 'Започнете първата дискусия';

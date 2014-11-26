@@ -538,6 +538,8 @@ $Definition['Format you'] = 'você';
 $Definition['Format Your'] = 'Seu';
 $Definition['Forum'] = 'Fórum';
 $Definition['Forums'] = 'Foruns';
+$Definition['Forum Signature Settings'] = 'Configurações de Assinatura do Fórum
+';
 $Definition['Fourth Anniversary'] = 'Quarto Aniversário';
 $Definition['Friends'] = 'Amigos';
 $Definition['From'] = 'De';
@@ -607,6 +609,10 @@ $Definition['Ignore'] = 'Ignorar';
 $Definition['Ignore List'] = 'Lista de ignorados';
 $Definition['Ignore Someone'] = 'Ignorar alguém';
 $Definition['Image'] = 'Imagem';
+$Definition['images'] = 'imagens
+';
+$Definition['Images not allowed'] = 'Imagens não permitidas
+';
 $Definition['Image URL'] = 'URL da imagem';
 $Definition['in'] = 'em';
 $Definition['In <b>%s.</b>'] = 'Em <b>%s.</b>';
@@ -720,6 +726,8 @@ $Definition['My Drafts'] = 'Rascunhos';
 $Definition['My Forums'] = 'Meus Fóruns';
 $Definition['My Groups'] = 'Meus Grupos';
 $Definition['My Preferences'] = 'Preferências';
+$Definition['My Signature'] = 'Minha Assinatura
+';
 
 $Definition['n/a'] = 'não disponível';
 $Definition['Name'] = 'Nome';
@@ -999,6 +1007,8 @@ $Definition['Shown only on mobile'] = 'Exibir somente em dispositivos móveis';
 $Definition['Show unfollowed categories'] = 'Exibir categorias que eu não sigo';
 $Definition['Sign-In URL'] = 'URL para Entrada';
 $Definition['Sign-Out URL'] = 'URL para Saída';
+$Definition['Signature'] = 'Assinatura
+';
 $Definition['Signature Code'] = 'Assinatura';
 $Definition['Signature invalid.'] = 'Assinatura inválida.';
 $Definition['Signatures'] = 'Assinaturas';
@@ -1292,6 +1302,8 @@ $Definition['You can only specify up to %s tags.'] = 'Você só pode especificar
 $Definition['You can remove or ban this member from the group.'] = 'Você pode remover ou banir esse membro desse grupo. Membros Banidos não poderão juntar-se ao grupo novamente';
 $Definition['You can use HTML in your signature.'] = 'Você pode usar <b> <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new"> Html simples </a> </b> em sua assinatura.';
 $Definition['You don\'t have permission to do that.'] = 'Você não tem permissão para fazer isso.';
+$Definition['You don\'t have permission to use a signature.'] = 'Você não tem permissão para usar uma assinatura.
+';
 $Definition['You do not have any %s yet.'] = 'Você ainda não tem %s.';
 $Definition['You do not have any bookmarks.'] = 'Você não tem nenhum favoritos.';
 $Definition['You do not have any conversations.'] = 'Você não tem nenhuma conversa.';
