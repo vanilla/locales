@@ -7,11 +7,8 @@ $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community 
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
-$Definition['Applied On'] = 'Date';
 
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
-$Definition['Ban Item'] = 'Item';
-$Definition['Ban Type'] = 'Type';
 
 $Definition['Categories are used to help organize discussions.'] = 'Categories are used to help organize discussions. Drag &amp; drop the categories to sort and nest them.';
 $Definition['Categories are used to organize discussions.'] = '<strong>Categories</strong> allow you to organize your discussions.';
@@ -22,19 +19,14 @@ $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select 
 $Definition['Condition Expression'] = 'Value';
 $Definition['Condition Field'] = 'Field';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
-$Definition['CreateFile'] = 'Create';
 
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
-$Definition['DownloadLocalePack'] = 'Download';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
-$Definition['Every %s hour'] = 'Every hour';
-$Definition['Every %s minute'] = 'Every minute';
-$Definition['Every %s second'] = 'Every second';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
@@ -45,7 +37,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.Import.Merge'] = 'Merge with this forum.';
 $Definition['Garden.Import.Merge.Description'] = 'This will merge all of the user and discussion data from the import into this forum.
 <b>Warning: If you merge the same data twice you will get duplicate discussions.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Overwrite this forum.';
@@ -60,7 +51,6 @@ $Definition['Guest roles'] = 'Check all roles that should be applied to guests.'
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {ActivityUserID,your} profile picture.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
-$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
@@ -77,8 +67,6 @@ $Definition['NewApplicantEmail'] = 'New applicant:';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 
-$Definition['Operation By'] = 'By';
-
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
@@ -91,12 +79,10 @@ $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test y
 $Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 
 $Definition['Record Content'] = 'Content';
-$Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
-$Definition['SignedOut'] = 'You are signed out.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';

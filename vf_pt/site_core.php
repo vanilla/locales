@@ -538,8 +538,7 @@ $Definition['Format you'] = 'você';
 $Definition['Format Your'] = 'Seu';
 $Definition['Forum'] = 'Fórum';
 $Definition['Forums'] = 'Foruns';
-$Definition['Forum Signature Settings'] = 'Configurações de Assinatura do Fórum
-';
+$Definition['Forum Signature Settings'] = 'Configurações de Assinatura do Fórum';
 $Definition['Fourth Anniversary'] = 'Quarto Aniversário';
 $Definition['Friends'] = 'Amigos';
 $Definition['From'] = 'De';
@@ -609,10 +608,9 @@ $Definition['Ignore'] = 'Ignorar';
 $Definition['Ignore List'] = 'Lista de ignorados';
 $Definition['Ignore Someone'] = 'Ignorar alguém';
 $Definition['Image'] = 'Imagem';
-$Definition['images'] = 'imagens
-';
-$Definition['Images not allowed'] = 'Imagens não permitidas
-';
+$Definition['images'] = 'imagens';
+$Definition['Images not allowed'] = 'Imagens não permitidas';
+$Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'As imagens serão dimensionadas para uma altura máxima de {maxImageHeight}px';
 $Definition['Image URL'] = 'URL da imagem';
 $Definition['in'] = 'em';
 $Definition['In <b>%s.</b>'] = 'Em <b>%s.</b>';
@@ -726,8 +724,7 @@ $Definition['My Drafts'] = 'Rascunhos';
 $Definition['My Forums'] = 'Meus Fóruns';
 $Definition['My Groups'] = 'Meus Grupos';
 $Definition['My Preferences'] = 'Preferências';
-$Definition['My Signature'] = 'Minha Assinatura
-';
+$Definition['My Signature'] = 'Minha Assinatura';
 
 $Definition['n/a'] = 'não disponível';
 $Definition['Name'] = 'Nome';
@@ -1007,11 +1004,11 @@ $Definition['Shown only on mobile'] = 'Exibir somente em dispositivos móveis';
 $Definition['Show unfollowed categories'] = 'Exibir categorias que eu não sigo';
 $Definition['Sign-In URL'] = 'URL para Entrada';
 $Definition['Sign-Out URL'] = 'URL para Saída';
-$Definition['Signature'] = 'Assinatura
-';
+$Definition['Signature'] = 'Assinatura';
 $Definition['Signature Code'] = 'Assinatura';
 $Definition['Signature invalid.'] = 'Assinatura inválida.';
 $Definition['Signatures'] = 'Assinaturas';
+$Definition['Signatures can be up to {maxLength} characters long.'] = 'As assinaturas podem ter até {maxLength} caracteres de extensão';
 $Definition['Signature Settings'] = 'Assinatura';
 $Definition['SignIn'] = 'Entrar';
 $Definition['Sign In'] = 'Entrar';
@@ -1194,6 +1191,7 @@ $Definition['UsernameError'] = 'Nomes de usuários só podem conter letras, núm
 $Definition['Username or email'] = 'Nome de Usuário ou email';
 $Definition['User not found.'] = 'Desculpe, não foi possível encontrar uma conta associada ao nome de usuário/email que você digitou.';
 $Definition['Users Count'] = 'Contagem de Usuários';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = ' Use até {maxImages,plural,%s imagens, %s imagens}.';
 
 $Definition['ValidateBanned'] = 'Este %s não é permitido.';
 $Definition['ValidateBoolean'] = '%s Não é um valor booleano válido.';
@@ -1294,6 +1292,7 @@ $Definition['You are limited to %s recipient.'] = 'Você está limitado a %s rec
 $Definition['You are limited to %s recipients.'] = 'Você está limitado a %s destinatários.';
 $Definition['You aren\'t a %s of this group.'] = 'Você não é um %s desse grupo.';
 $Definition['You aren\'t allowed to %s this group.'] = 'Você não tem permissão para %s neste grupo.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Só tem permissão para {maxImages,plural,%s image,%s images}.';
 $Definition['You can\'t leave the group you started.'] = 'Não é possível deixar o grupo que você criou.';
 $Definition['You can either ask a question or start a discussion.'] = 'Você pode criar um tópico ou fazer uma pergunta. Faça a sua escolha abaixo.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Você pode seguir categorias individuais e ser notificado de todas as postagens delas.';
@@ -1302,8 +1301,7 @@ $Definition['You can only specify up to %s tags.'] = 'Você só pode especificar
 $Definition['You can remove or ban this member from the group.'] = 'Você pode remover ou banir esse membro desse grupo. Membros Banidos não poderão juntar-se ao grupo novamente';
 $Definition['You can use HTML in your signature.'] = 'Você pode usar <b> <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new"> Html simples </a> </b> em sua assinatura.';
 $Definition['You don\'t have permission to do that.'] = 'Você não tem permissão para fazer isso.';
-$Definition['You don\'t have permission to use a signature.'] = 'Você não tem permissão para usar uma assinatura.
-';
+$Definition['You don\'t have permission to use a signature.'] = 'Você não tem permissão para usar uma assinatura.';
 $Definition['You do not have any %s yet.'] = 'Você ainda não tem %s.';
 $Definition['You do not have any bookmarks.'] = 'Você não tem nenhum favoritos.';
 $Definition['You do not have any conversations.'] = 'Você não tem nenhuma conversa.';
