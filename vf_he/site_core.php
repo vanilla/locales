@@ -86,7 +86,7 @@ $Definition['%s votes'] = '%s הצבעות';
 $Definition['%s was removed from the %s and added to the %s'] = '%s הוסר מה %s וצורף ל %s';
 $Definition['%s week'] = '%s שבוע';
 $Definition['%s weeks'] = '%s שבועות';
-$Definition['%s WTFs'] = '%s מה לעזאזל?';
+$Definition['%s WTFs'] = 'WTFs';
 $Definition['%s year'] = '%s שנה';
 $Definition['%s years'] = '%s שנים';
 
