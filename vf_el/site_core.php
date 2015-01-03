@@ -1211,6 +1211,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Πρέπει να επιλ�
 $Definition['ValidateRegex'] = 'Το %s δεν φαίνεται να είναι στη σωστή μορφή.';
 $Definition['ValidateRequired'] = 'Το %s είναι υποχρεωτικό.';
 $Definition['ValidateRequiredArray'] = 'Πρέπει να επιλέξεις τουλάχιστον ένα %s.';
+$Definition['ValidateString'] = '%s δεν είναι έγκυρη συμβολοσειρά. ';
 $Definition['ValidateTag'] = 'Οι ετικέτες δε μπορεί να έχουν κενά';
 $Definition['ValidateTime'] = 'Το %s δεν είναι έγκυρη ώρα.';
 $Definition['ValidateTimestamp'] = 'Το %s δεν είναι έγκυρο timestamp.';

@@ -1233,6 +1233,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Sinun pit&auml;&auml; valit
 $Definition['ValidateRegex'] = '%s ei ole oikeassa muodossa. ';
 $Definition['ValidateRequired'] = '%s on vaadittu.';
 $Definition['ValidateRequiredArray'] = 'Sinun pit&auml;&auml; valita ensin ainakin yksi %s.';
+$Definition['ValidateString'] = '%s ei ole kelpaava merkkijono.';
 $Definition['ValidateTag'] = 'Yksitt&auml;inen tagi ei voi sis&auml;lt&auml;&auml;  v&auml;lily&ouml;nti&auml;.';
 $Definition['ValidateTime'] = '%s on virheellinen aika.';
 $Definition['ValidateTimestamp'] = '%s on virheellinen aikaleima.';

@@ -169,6 +169,7 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';
 $Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
+$Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateTimestamp'] = '%s is not a valid timestamp.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';

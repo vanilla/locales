@@ -1194,6 +1194,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Du må velge minst en %s. '
 $Definition['ValidateRegex'] = '%s virker ikke å være i korrekt format. ';
 $Definition['ValidateRequired'] = '%s er påkrevd';
 $Definition['ValidateRequiredArray'] = 'Du må velge minst en %s. ';
+$Definition['ValidateString'] = '%s er ikke en gyldig streng.';
 $Definition['ValidateTag'] = 'Etiketter kan ikke inneholde mellomrom. ';
 $Definition['ValidateTime'] = '%s er ikke en gyldig tid. ';
 $Definition['ValidateTimestamp'] = '%s er ikke et gyldig tidsstempel. ';

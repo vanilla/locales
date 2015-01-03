@@ -11,6 +11,8 @@ $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
 $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that
    ProxyConnect is working.';
 
+$Definition['ValidateString'] = '%s is not a valid string.';
+
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 

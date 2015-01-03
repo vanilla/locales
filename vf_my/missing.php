@@ -310,6 +310,7 @@ $Definition['ValidateMinimumAge'] = 'You are not old enough to join this communi
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least one %s.';
 $Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
 $Definition['ValidateRequired'] = '%s is required.';
+$Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateTag'] = 'Tags cannot contain spaces.';
 $Definition['ValidateUrlStringRelaxed'] = '%s can not contain slashes, quotes or tag characters.';
 $Definition['ValidateUsername'] = 'Usernames must be 3-20 characters and consist of letters, numbers, and underscores.';

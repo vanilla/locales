@@ -1167,6 +1167,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Du mist mindestens ein %s a
 $Definition['ValidateRegex'] = '%s scheint nicht im korrekten Format zu sein.';
 $Definition['ValidateRequired'] = '%s wird benötigt.';
 $Definition['ValidateRequiredArray'] = 'Du mist mind. ein %s auswählen.';
+$Definition['ValidateString'] = '%s ist keine gültige Zeichenkette.';
 $Definition['ValidateTag'] = 'Tags dürfen keine Leerzeichen enthalten.';
 $Definition['ValidateTime'] = '%s ist keine korrekte Zeit.';
 $Definition['ValidateTimestamp'] = '%s ist kein korrekter Zeitstempel';

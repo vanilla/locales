@@ -1206,6 +1206,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Bạn phải chọn ít nh�
 $Definition['ValidateRegex'] = '%s không phải format đúng.';
 $Definition['ValidateRequired'] = 'Yêu cầu %s.';
 $Definition['ValidateRequiredArray'] = 'Bạn phải chọn ít nhất một %s.';
+$Definition['ValidateString'] = '%s không phải là chuỗi hợp lệ.';
 $Definition['ValidateTag'] = 'Tag không được có dấu cách.';
 $Definition['ValidateTime'] = '%s không phải thời gian chính xác.';
 $Definition['ValidateTimestamp'] = '%s không phải thời gian chính xác.';

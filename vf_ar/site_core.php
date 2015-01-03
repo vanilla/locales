@@ -1215,6 +1215,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'عليك أن تختار ع
 $Definition['ValidateRegex'] = '%s لا يبدو أن تكون في الشكل الصحيح.';
 $Definition['ValidateRequired'] = '%s مطلوب .';
 $Definition['ValidateRequiredArray'] = 'عليك أن تختار على الأقل واحد %s.';
+$Definition['ValidateString'] = '%s ليست سلسلة صحيحة.';
 $Definition['ValidateTag'] = 'الكلمات الدليلية لا يمكن ان تحتوي على فراغ بين الكلمات.';
 $Definition['ValidateTime'] = '%s ليس وقتا صالحا.';
 $Definition['ValidateTimestamp'] = '%s ليس طابع تاريخ صالح.';

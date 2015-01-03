@@ -81,6 +81,7 @@ $Definition['TagHint'] = 'Start to type...';
 $Definition['There\'s already a %s with the name %s.'] = 'There\'s already a %1$s with the name %2$s.';
 
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
+$Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
 
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.

@@ -277,6 +277,7 @@ $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateFormat'] = 'You are not allowed to post raw html.';
 $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
+$Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateTag'] = 'Tags cannot contain spaces.';
 $Definition['ValidateUrlStringRelaxed'] = '%s can not contain slashes, quotes or tag characters.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';

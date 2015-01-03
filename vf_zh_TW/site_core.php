@@ -1200,6 +1200,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = '您必須選擇至少一個
 $Definition['ValidateRegex'] = '%s 似乎不是正確的格式。';
 $Definition['ValidateRequired'] = '%s 是必需的。';
 $Definition['ValidateRequiredArray'] = '您必須至少選擇一個 %s。';
+$Definition['ValidateString'] = '%s并不是一个有效的字符串。';
 $Definition['ValidateTag'] = '標籤不能包含空格。';
 $Definition['ValidateTime'] = '%s 不是有效時間。';
 $Definition['ValidateTimestamp'] = '%s 不是有效的時間戳。';

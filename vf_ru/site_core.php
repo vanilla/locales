@@ -1279,6 +1279,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Вы должны выбр�
 $Definition['ValidateRegex'] = '%s не является корректным.';
 $Definition['ValidateRequired'] = 'Вы не заполнили поле %s.';
 $Definition['ValidateRequiredArray'] = 'Вы должны выбрать хотя бы один %s.';
+$Definition['ValidateString'] = '%s не является допустимой строкой.';
 $Definition['ValidateTag'] = 'Тэги не могут содержать пробелы.';
 $Definition['ValidateTime'] = '%s - неверное время.';
 $Definition['ValidateTimestamp'] = '%s - неправильная метка времени.';

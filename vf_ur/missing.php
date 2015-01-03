@@ -194,6 +194,7 @@ $Definition['ValidateInteger'] = '%s is not a valid integer.';
 $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
 $Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
+$Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateTimestamp'] = '%s is not a valid timestamp.';
 $Definition['ValidateVersion'] = 'The %s field is not a valid version number. See the php version_compare() function for examples of valid version numbers.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';

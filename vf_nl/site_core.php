@@ -1201,6 +1201,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Je moet ten minste één %s
 $Definition['ValidateRegex'] = '%s lijkt niet in het juiste formaat.';
 $Definition['ValidateRequired'] = '%s is vereist.';
 $Definition['ValidateRequiredArray'] = 'Je moet ten minste één %s selecteren.';
+$Definition['ValidateString'] = '%s is geen geldige string.';
 $Definition['ValidateTag'] = 'Tags kunnen geen spaties bevatten.';
 $Definition['ValidateTime'] = '%s is geen geldige tijd.';
 $Definition['ValidateTimestamp'] = '%s is geen geldige timestamp.';

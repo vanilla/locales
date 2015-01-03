@@ -1191,6 +1191,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Du måste välja minst en %
 $Definition['ValidateRegex'] = '%s verkar inte vara i korrekt format.';
 $Definition['ValidateRequired'] = '%s krävs.';
 $Definition['ValidateRequiredArray'] = 'Du måste välja minst en %s.';
+$Definition['ValidateString'] = '%s är inte en giltig sträng.';
 $Definition['ValidateTag'] = 'Taggar får inte innehålla mellanslag.';
 $Definition['ValidateTime'] = '%s är inte en giltig tid.';
 $Definition['ValidateTimestamp'] = '%s är inte en giltig tidstämpel.';

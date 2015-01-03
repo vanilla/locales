@@ -1216,6 +1216,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'אתה חייב לבחור 
 $Definition['ValidateRegex'] = '%s לא נראה כאילו הוא בפורמט הנכון';
 $Definition['ValidateRequired'] = '%s נחוץ';
 $Definition['ValidateRequiredArray'] = 'אתה חייב לבחור לפחות %s אחד';
+$Definition['ValidateString'] = '%s אינה מחרוזת תקפה.';
 $Definition['ValidateTag'] = 'תגים לא יכולים להכיל רווחים';
 $Definition['ValidateTime'] = '%s הוא לא זמן תקף';
 $Definition['ValidateTimestamp'] = '%s היא לא חותמת זמן תקפה';

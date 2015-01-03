@@ -1231,6 +1231,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = '1つ以上選択してく�
 $Definition['ValidateRegex'] = '%sは不正な形式です。';
 $Definition['ValidateRequired'] = '%sは必須です。';
 $Definition['ValidateRequiredArray'] = '少なくとも一つ以上の%sを選択してください。';
+$Definition['ValidateString'] = '%s は有効な文字列ではありません。';
 $Definition['ValidateTag'] = 'タグにスペースを含むことはできません。';
 $Definition['ValidateTime'] = '%s は不正な時刻です。';
 $Definition['ValidateTimestamp'] = '%s は不正なタイムスタンプです。';

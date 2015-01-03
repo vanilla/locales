@@ -279,6 +279,7 @@ $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numb
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least one %s.';
 $Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
+$Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateTag'] = 'Tags cannot contain spaces.';
 $Definition['ValidateTime'] = '%s is not a valid time.';
 $Definition['ValidateTimestamp'] = '%s is not a valid timestamp.';

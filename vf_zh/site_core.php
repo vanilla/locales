@@ -1217,6 +1217,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = '验证一个或多个数组
 $Definition['ValidateRegex'] = '%s的格式不正确。';
 $Definition['ValidateRequired'] = '%s内容不能为空。';
 $Definition['ValidateRequiredArray'] = '数组验证%s。';
+$Definition['ValidateString'] = '%s 不是一个有效的字符串。';
 $Definition['ValidateTag'] = '标签不能包含空格。';
 $Definition['ValidateTime'] = '%s时间验证。';
 $Definition['ValidateTimestamp'] = '%s时间标记验证。';

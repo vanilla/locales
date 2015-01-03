@@ -1193,6 +1193,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Musisz wybrać co najmniej 
 $Definition['ValidateRegex'] = '%s nie wydaje się być w odpowiednim formacie.';
 $Definition['ValidateRequired'] = 'Pole %s jest wymagane.';
 $Definition['ValidateRequiredArray'] = 'Musisz wybrać co najmniej jeden %s.';
+$Definition['ValidateString'] = '%s nie jest prawidłowym wyrażeniem.';
 $Definition['ValidateTag'] = 'Tagi nie mogą zawierać spacji.';
 $Definition['ValidateTime'] = '%s nieodpowiedni format czasu .';
 $Definition['ValidateTimestamp'] = '%s nieodpowiedni datownik.';

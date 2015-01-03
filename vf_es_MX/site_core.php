@@ -1218,6 +1218,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Debes seleccionar al menos 
 $Definition['ValidateRegex'] = '%s no parece estar en el formato correcto.';
 $Definition['ValidateRequired'] = '%s es requerido.';
 $Definition['ValidateRequiredArray'] = 'Tienes que seleccionar al menos uno %s.';
+$Definition['ValidateString'] = '%s no es una cadena válida.';
 $Definition['ValidateTag'] = 'Las etiquetas no deben contener espacios.';
 $Definition['ValidateTime'] = '%s no es un tiempo válido.';
 $Definition['ValidateTimestamp'] = '%s no es un sello válido de tiempo.';

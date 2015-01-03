@@ -131,6 +131,7 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
+$Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
 
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
