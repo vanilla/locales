@@ -1,6 +1,10 @@
 <?php
 
 $Definition['%1$s Version %2$s'] = '%1$s wersja %2$s';
+$Definition['%1$s version %2$s is available.'] = '%1$s wersja %2$s jest dostępna.';
+$Definition['%s level'] = '%s poziom';
+$Definition['%s levels'] = '%s poziomy';
+$Definition['%s of %s'] = '%s z %s';
 $Definition['%s user(s) found.'] = '%s użytkownik odnaleziony.';
 
 $Definition['1 month after being sent'] = '1 miesiąc po wysłaniu';

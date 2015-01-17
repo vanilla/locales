@@ -20,6 +20,7 @@ $Definition['%s years.'] = '%s år.';
 
 $Definition['(less)'] = '(mindre)';
 $Definition['(more)'] = '(mer)';
+$Definition['(YYYY-mm-dd)'] = '(ÅÅÅÅ-mm-dd)';
 
 $Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Communityns forum är det alla dina användare och kunder kommer att se när de besöker';
 
@@ -50,6 +51,8 @@ $Definition['[%s] Password Reset Request'] = '[%s] återställ lösenord';
 
 $Definition['a Badge'] = 'ett emblem';
 $Definition['Abilites'] = 'Möjligheter';
+$Definition['About.DisableStatistics'] = 'Om du är i behov av att avaktivera datarapportering, kan du göra detta genom att lägga till följande rad i konfigurationsfilen:
+<code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['AboutCommentEmbedding'] = 'Vanilla kan användas som en inbäddad ersättning för din bloggs ordinarie kommentarsystem. Faktum är att Vanilla kan användas för att lägga till kommentarer till vilken websida som helst.';
 $Definition['AboutEmbedding'] = 'Inbäddning tillåter hela eller delar av din community att bäddas in i andra applikationer och webbsidor.';
 $Definition['About Vanilla Statistics'] = 'Om Vanilla Statistics';

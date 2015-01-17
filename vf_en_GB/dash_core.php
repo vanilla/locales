@@ -1,15 +1,27 @@
 <?php
 
+$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. The community forum is what all of your users &amp; customers will see when they visit';
+
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categories</strong> allow you to organise your discussions. Categories can only contain discussions.';
 
-$Definition['A url-friendly version of the category name for better SEO.'] = 'A URL-friendly version of the category name for better SEO.';
+$Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
+$Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
+$Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
+$Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
+$Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
+$Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
+$Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
+$Definition['Applied On'] = 'Date';
 $Definition['Authenticate Url'] = 'Authenticate URL';
+
+$Definition['Ban Item'] = 'Item';
 
 $Definition['Categories are used to help organize discussions.'] = 'Categories are used to help organise discussions. Drag &amp; drop the categories to sort and nest them.';
 $Definition['Categories are used to organize discussions.'] = '<strong>Categories</strong> allow you to organise your discussions.';
 $Definition['Category Url:'] = 'Category URL:';
 $Definition['Create & organize discussion categories, manage your users, and more...'] = 'Create & organise discussion categories, manage your users, and more...';
 $Definition['Create & organize discussion categories and manage your users.'] = 'Create & organise discussion categories and manage your users.';
+$Definition['Create a localization CSV'] = 'Create a localisation CSV';
 
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organise their discussions in a way that is meaningful for your community.';
 
@@ -22,6 +34,7 @@ $Definition['Force your forum to be viewed through the Remote Url'] = 'Force you
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote URL.';
 
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'If your file is bigger than 20M then you must upload it to a public URL.';
+$Definition['Internaltionalization & Localization'] = 'Internaltionalisation & Localisation';
 
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customise it.';
 
