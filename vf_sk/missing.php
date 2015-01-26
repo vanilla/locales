@@ -1,43 +1,14 @@
 <?php
 
-$Definition['%s comment html'] = '%s comment';
-$Definition['%s comments html'] = '%s comments';
-$Definition['%s discussion html'] = '%s discussion';
-$Definition['%s discussions html'] = '%s discussions';
 $Definition['%s view html'] = '%s view';
 $Definition['%s views html'] = '%s views';
-
-$Definition['AboutToDelete'] = 'You are about to delete %s.';
-$Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
-
-$Definition['Ban.Action'] = 'Ban';
-
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
-$Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
-$Definition['Define Thumbnail'] = 'Click and drag across the picture to define your thumbnail.';
-$Definition['Deny Applicant'] = 'Deny';
 
-$Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
-$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> in your post.';
-$Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
-$Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
-$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> in your post.';
-$Definition['EmailConfirmEmail'] = 'You need to confirm your email address before you can continue. Please confirm your email address by clicking on the following link: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
-$Definition['EmailFooter'] = '
-Have a great day!';
-$Definition['EmailHeader'] = 'Hello {User.Name}!
-';
-$Definition['EmailInvitation'] = 'Hello!
-
-%1$s has invited you to join %2$s. If you want to join, you can do so by clicking this link:
-
-  %3$s';
 $Definition['EmailMembershipApproved'] = 'Hello %1$s,
 
 You have been approved for membership. Sign in now at the following link:
@@ -96,13 +67,7 @@ $Definition['ErrorPluginEnableRequired'] = 'This plugin requires that the {0} pl
 $Definition['ErrorPluginVersionMatch'] = 'The enabled {0} plugin (version {1}) failed to meet the version requirements ({2}).';
 $Definition['ErrorRecordNotFound'] = 'The requested record could not be found.';
 $Definition['ErrorTermsOfService'] = 'You must agree to the terms of service.';
-$Definition['Every %s hour'] = 'Every hour';
-$Definition['Every %s minute'] = 'Every minute';
-$Definition['Every %s second'] = 'Every second';
 
-$Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
-$Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
-$Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
 $Definition['FollowOnly'] = 'Follow the link below to check it out:';
 $Definition['Format his'] = 'his';
 $Definition['Format their'] = 'their';
@@ -112,8 +77,6 @@ $Definition['Format Your'] = 'Your';
 
 $Definition['Garden.Email.SupportAddress'] = 'Support email';
 $Definition['Garden.Email.SupportName'] = 'Support name';
-$Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
-   Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';

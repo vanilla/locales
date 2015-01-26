@@ -78,6 +78,7 @@ $Definition['Add Role'] = 'Pridať rolu';
 $Definition['Add User'] = 'Pridať Užívateľa';
 $Definition['Administrator'] = 'Administrátor';
 $Definition['Advanced'] = 'Rozšírené';
+$Definition['Advanced Editor Settings'] = 'Pokročilé nastavenia editoru';
 $Definition['Advanced Embed Settings'] = 'Rozšírené Nastavenia Vkladania';
 $Definition['Advanced Forum Settings'] = 'Rozšírené Nastavenia Fóra';
 $Definition['AdvancedNotifications'] = 'Rozšírené Upozornenia';
@@ -94,6 +95,8 @@ $Definition['All Dashboard Pages'] = 'Všetky Stránky Ovládacieho Panelu';
 $Definition['All discussions in this category will be permanently deleted.'] = 'Všetky diskusie v tejto kategórii budú permanentne zmazané.';
 $Definition['All Forum Pages'] = 'Všetky Stránky Fóra';
 $Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'Všetky údaje užívateľa budú nahradené správou že užívateľ bol odstránený.';
+$Definition['Allow embedded content'] = 'Povoliť vložený obsah';
+$Definition['Allow images'] = 'Povoliť obrázky';
 $Definition['Allow new users to be registered through email.'] = 'Povoliť novým užívateľom registráciu cez email.';
 $Definition['Allow users to dismiss this message'] = 'Povoliť užívateľom odmietnúť túto správu';
 $Definition['All Pages'] = 'Všetky Stránky';
@@ -346,14 +349,47 @@ $Definition['Enter the connection settings for your sphinx server below.'] = 'Na
 $Definition['Enter the email address of the person you would like to invite:'] = 'Napíšte emailovú adresu osoby ktorú chcete pozvať:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Napíšte webovú adresu stránky ktorú chcete použiť ako domovskú stránku';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Napíšte webovú adresu stránky ktorú chcete použiť ako domovskú stránku:';
+$Definition['Every %s hour'] = 'Každú hodinu';
+$Definition['Every %s hours'] = 'Každých %s hodín';
+$Definition['Every %s minute'] = 'Každú minútu';
+$Definition['Every %s minutes'] = 'Každých %s minút';
+$Definition['Every %s second'] = 'Každú sekudndu';
+$Definition['Every %s seconds'] = 'Každých %s sekúnd';
 $Definition['Every 1 minute'] = 'Každú 1 minútu';
 $Definition['Every 5 minutes'] = 'Každých 5 minút';
 $Definition['Every 5 seconds'] = 'Každých 5 sekúnd';
 $Definition['Every 10 seconds'] = 'Každých 10 sekúnd';
 $Definition['Every 30 seconds'] = 'Každých 30 sekúnd';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Každá editácia alebo mazanie je zaznamenané tu. Použite &lsquo;Vrátiť späť&rsquo; na vrátenie hociakej zmeny.';
+$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Každý kto sa prihlási získa verejný profil kde môže nahrávať svoje obrázky, upravovať nastavenia profilu, a sledovať super veci ktoré sa dejú na fórum.';
 $Definition['Every Page'] = 'Každá Stránka';
+$Definition['Everything is ok.'] = 'Všetko je v poriadku.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Každý užívateľ na vašej stránke má pridelenú aspoň jednu rolu. Role sú použité na určenie, čo môžu títo užívatelia robiť.';
+$Definition['Exclude archived discussions from the discussions list'] = 'Vylúčiť archivované diskusie zo zoznamu diskusí';
+$Definition['Existing members send invitations to new members.'] = 'Existujúci užívatelia posielajú pozvánky novým.';
+$Definition['Exit Preview'] = 'Zatvoriť náhľad';
+
+$Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect umožní užívateľom používať ich Facebook účet. <b>Musíš registrovať tvoju aplikáciu s Facebookom aby tento plugin fungoval.</b>';
+$Definition['Facebook Settings'] = 'Facebook nastavenia';
+$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Zlyhalo pripojenie do databázy zo zadaným menom a heslom. Nepomýlil si sa? Databáza odkazuje: <code>%s</code>';
+$Definition['Failure'] = 'Chyba';
+$Definition['FaviconBrowse'] = 'Hľadaj novú Favicon keď ju chceš zmeniť:';
+$Definition['FaviconDescription'] = 'Favicon tvojej stránky sa zobrazuje v nadpise prehliadača. Bude zmnšená na 16x16 pixelov.';
+$Definition['FileUpload is currently OFF'] = 'FileUpload je momentálne vypnuté';
+$Definition['FileUpload is currently ON'] = 'FileUpload je momentálne zapnutý';
+$Definition['Finished'] = 'Dokončené';
+$Definition['First Visit'] = 'Prvá návšteva';
+$Definition['Flood Control'] = 'Spamová kontrola';
+$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Vynúti ovládací panel aby bol sprístupnený len cez tento odkaz <em>(neodporúčané)</em>';
+$Definition['Force the forum to only be accessible through this url'] = 'Vynúti ovládací panel aby bol sprístupnený cez tento odkaz ';
+$Definition['Force your forum to be viewed through the Remote Url'] = 'Vynúti tvoje fórum aby mohlo byť zobrazené cez Remote Url';
+$Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'Pre informácie ako zapnúť realtime progress bars, navštív <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>';
+$Definition['Forum Settings'] = 'Nastavenia Fóra';
+$Definition['Frequency'] = 'Frekvencia';
+$Definition['From'] = 'Od';
+
+$Definition['Garden.Import.Complete.Description'] = 'Úspešne si dokončil import.
+Klikni <b>Dokončné</b> ked budeš pripravený.';
 
 $Definition['LogoBrowse'] = 'Hľadať nové logo pre banner, ak ho chcete zmeniť:';
 
