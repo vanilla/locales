@@ -47,6 +47,8 @@ $Definition['%s Insightfuls'] = '%s Zbystril';
 $Definition['%s level deep'] = '%s úroveň hlboko';
 $Definition['%s levels deep'] = '%s úrovne hlboko';
 $Definition['%s Likes'] = '%s Páči sa mi';
+$Definition['%s member'] = '%s užívatel';
+$Definition['%s members'] = '%s užívatel';
 $Definition['%s mentioned %s in a %s.'] = '%s zmienil %s v %s.';
 $Definition['%s message'] = '%s správa';
 $Definition['%s messages'] = '%s správy';
@@ -61,20 +63,30 @@ $Definition['%s new comments since you last read this.'] = '%s nové komentáre 
 $Definition['%s New Plural'] = '%s Nové';
 $Definition['%s new plural'] = '%s nový';
 $Definition['%s Not Found'] = '%s Nebolo Nájdené';
+$Definition['%s not found.'] = '%s nenájdené';
 $Definition['%s Point'] = '%s Bod';
 $Definition['%s point'] = '%s bod';
 $Definition['%s Points'] = '%s Body';
 $Definition['%s points'] = '%s body';
+$Definition['%s result'] = '%s výsledok';
+$Definition['%s results'] = '%s výsledky';
 $Definition['%s said'] = '%s povedal';
 $Definition['%s said:'] = '%s povedal:';
 $Definition['%s tag(s) found.'] = '%s značka(y) nájdené.';
 $Definition['%s tags in the system'] = '%s značiek v systéme';
 $Definition['%s Up Votes'] = '%s Hodnotení Nahor';
 $Definition['%s view'] = '%s zobrazenie';
+$Definition['%s view html'] = '%s prezretia';
+$Definition['%s viewing'] = '%s prezerá';
 $Definition['%s views'] = '%s zobrazenia';
+$Definition['%s views html'] = '%s prezretí';
 $Definition['%s votes'] = '%s hodnotenia';
 $Definition['%s was removed from the %s and added to the %s'] = '%s bol odstránený(á) z %s a pridaný(á) do %s';
+$Definition['%s week'] = '%s týždeň';
+$Definition['%s weeks'] = '%s týždne';
+$Definition['%s WTFs'] = '%s WTF';
 
+$Definition['(All)'] = '(Všetko)';
 $Definition['(empty message)'] = '(prázna správa)';
 
 $Definition['+%s Guests'] = '+%s Hostí';
@@ -186,6 +198,7 @@ $Definition['Attachments'] = 'Prílohy';
 $Definition['Attach this warning to the %s.'] = 'Priraď toto varovanie k %s.';
 $Definition['AttemptingSignOut'] = 'Naozaj sa chcete %s?';
 $Definition['Attending'] = 'Zúčastniť sa';
+$Definition['Attending (%s)'] = 'Účasť (%s)';
 $Definition['Authenticate URL'] = 'Overiť Adresu';
 $Definition['Author'] = 'Autor';
 $Definition['available'] = 'dostupný';
@@ -312,6 +325,11 @@ $Definition['Dashboard'] = 'Ovládací Panel';
 $Definition['Dashboard Home'] = 'Domov Ovládacieho Panelu';
 $Definition['Dashboard Summaries'] = 'Prehľad Ovládacieho Panelu';
 $Definition['Date'] = 'Dátum';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dátum. Očakávaný ´dd/mm/rrrr´.';
 $Definition['Date Added'] = 'Dátum Pridaný';
 $Definition['Date Examples'] = 'Príklad: Pondelok, dnes, minulý týždeň, 26. Marec, 20.04.1993';
@@ -381,15 +399,321 @@ $Definition['EmailInvitation'] = 'Ahoj!
 %1$s Ťa pozval pripojiť sa do %2$s. Ak sa chceš pripojiť, klikni na tento odkaz:
 
 %3$s';
+$Definition['EmailMembershipApproved'] = 'Ahoj %1$s,
 
+Tvoja registácia bola potvrdená. Prihlás sa na následnom odkaze:
+
+  %2$s';
+$Definition['EmailNotification'] = '%1$s
+
+Klikni na odkaz dole:
+%2$s
+
+Pekný deň!';
+$Definition['Email Notifications'] = 'Upozornenia e-mailom';
+$Definition['Email Or Username'] = 'E-mail alebo užívateľské meno';
+$Definition['EmailPassword'] = '%2$s resetoval tvoje heslo na %3$s. Tvoje prihlasovacie údaje sú teraz:
+
+  Email: %6$s
+  Heslo: %5$s
+  Url: %4$s';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail odoslaný z aplikácie sa bude odosielať z nasledujúceho názvu a adresy';
+$Definition['Email Source'] = 'E-mail';
+$Definition['EmailStoryNotification'] = '%1$s
+
+%3$s
+
+---
+Následuj odkaz nižšie:
+%2$s
+
+Pekný deň!';
+$Definition['Email Unavailable'] = 'E-mail nie je k dispozícii';
+$Definition['Email visible to other users'] = 'E-mail viditeľný pre ostatných používatelov';
+$Definition['EmailWelcome'] = '%2$s Ti vytvoril účet na %3$s. Vaše prihlasovacie údaje sú: 
+
+E-mail: %6$s
+Heslo: %5$s
+Url: %4$s';
+$Definition['EmailWelcomeConnect'] = 'Úspešne si sa pripojil k {Title}. Tu sú vaše informácie: 
+
+Meno: {User.Name} 
+Spojený s: {ProviderName} 
+
+Môžetš získať prístup k webu na {/,exurl,domain}.';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">Prečítaj si celý článok tu</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">Prečítaj si celý článok tu</a></p><div class="ClearFix"></div></div>';
+$Definition['End time?'] = 'Čas ukončenia?';
+$Definition['English'] = 'angličtina';
+$Definition['Enter your Email address'] = 'Zadajte vašu emailovú adresu';
+$Definition['Enter your email address'] = 'Zadajte vašu emailovú adresu';
+$Definition['Enter your Email address or username'] = 'Zadajte svoj e-mailovú adresu alebo užívateľské meno';
+$Definition['Enter Your OpenID Url'] = 'Zadajte svoje OpenID Url';
+$Definition['Erase User Content'] = 'Vymaže používateľský obsah';
+$Definition['Error'] = 'Chyba';
+$Definition['ErrorBadInvitationCode'] = 'Zadaný kód je neplatný.';
+$Definition['ErrorCredentials'] = 'Je nám ľúto, žiadny účet s e-mailom/užívateľským menom alebo heslom ktoré ste zadali sa nenašiel.';
+$Definition['ErrorPermission'] = 'Prepáčte, prístup zamietnutý.';
+$Definition['ErrorPluginDisableRequired'] = '{0} plugin nie je možné zakázať, pretože {1} plugin vyžaduje, aby fungoval.';
+$Definition['ErrorPluginEnableRequired'] = 'Tento plugin vyžaduje, aby bol plugin {0} povolený kým je možné ho povoliť.';
+$Definition['ErrorPluginVersionMatch'] = 'Povolený {0} plugin (verzia {1}) sa nepodarilo splniť požiadavky na verziu ({2}).';
+$Definition['ErrorRecordNotFound'] = 'Požadovaný záznam sa nenašiel.';
+$Definition['ErrorTermsOfService'] = 'Musíte súhlasiť s podmienkami poskytovania služby.';
+$Definition['Event'] = 'Udalosť';
+$Definition['Event Details'] = 'Podrobnosti udalosti';
+$Definition['Events'] = 'Udalosti';
+$Definition['everyone'] = 'Všetci';
+$Definition['Everything'] = 'Všetko';
+$Definition['Expired'] = 'Skončila';
+$Definition['Expires'] = 'Vypršal';
+
+$Definition['Failed to delete group.'] = 'Odstránenie skupiny zlyhalo.';
+$Definition['Failed to find discussion for commenting.'] = 'Nepodarilo sa nájsť diskusiu pre komentovanie.';
+$Definition['Failed to load the poll.'] = 'Nepodarilo sa načítať anketu.';
+$Definition['Feedback'] = 'Spätná väzba';
+$Definition['Female'] = 'Žena';
+$Definition['Fifth Anniversary'] = 'Piate výročie';
+$Definition['FileName'] = 'Názov súboru';
+$Definition['Filename'] = 'Názov súboru';
+$Definition['FileSize'] = 'Veľkosť súboru';
+$Definition['File Size'] = 'Veľkosť súboru';
+$Definition['First Anniversary'] = 'Prvé výročie';
+$Definition['First Comment'] = 'Prvý komentár';
+$Definition['Folder'] = 'Priečinok';
+$Definition['Folders'] = 'Priečinky';
+$Definition['Follow'] = 'Následovať';
+$Definition['Follow %s'] = 'Následuj %s';
+$Definition['Followed by %d people'] = 'Sledovaný  %d ľudmi';
+$Definition['Followed by %d person'] = 'Sledovaný  %d ľudmi';
+$Definition['followed categories'] = 'sledované kategórie';
+$Definition['Following %d people'] = 'Sleduje  %d ľudí';
+$Definition['Following %d person'] = 'Sleduje  %d ľudí';
+$Definition['FollowOnly'] = 'Klikni na odkaz nižšie pre otvorenie:';
+$Definition['Forgot?'] = 'Zabudli ste?';
+$Definition['Forgot your password?'] = 'Zabudli ste heslo?';
+$Definition['Format'] = 'Formát';
+$Definition['Format his'] = 'jeho';
+$Definition['Format their'] = 'ich';
+$Definition['Format You'] = 'Ty';
+$Definition['Format you'] = 'ty';
+$Definition['Format Your'] = 'Tvoj';
+$Definition['Forum'] = 'Fórum';
+$Definition['Forums'] = 'Fórum';
+$Definition['Forum Signature Settings'] = 'Fórum podpis nastavenie';
+$Definition['Fourth Anniversary'] = 'Štvrté výročie';
+$Definition['Friends'] = 'Priatelia';
+$Definition['From'] = 'Od';
+$Definition['Full Site'] = 'Plná stránka';
+
+$Definition['Garden.Email.SupportAddress'] = 'Podpora e-mailom';
+$Definition['Garden.Email.SupportName'] = 'Podpora meno';
+$Definition['Garden.Registration.DefaultRoles'] = 'predvolenú rolu';
 $Definition['Garden.Title'] = 'Názov Banneru';
+$Definition['Gender'] = 'Pohlavie';
+$Definition['General'] = 'Všeobecné';
+$Definition['Generate import SQL only'] = 'Generovať iba importovať SQL';
+$Definition['Generate Password'] = 'Vygenerovanie hesla';
+$Definition['Get an audio challenge'] = 'Prijať zvukovú výzvu';
+$Definition['Get a new challenge'] = 'Získajte novú výzvu';
+$Definition['Get a visual challenge'] = 'Získať vizuálne výzvou';
+$Definition['Give'] = 'Daj';
+$Definition['Give a Badge to %s'] = 'Daj odznak  %s';
+$Definition['Give Badge'] = 'Dať odznak';
+$Definition['Given'] = 'Daný';
+$Definition['Go'] = 'Ísť';
+$Definition['Group'] = 'Skupina';
+$Definition['group'] = 'skupina';
+$Definition['GroupEmptyAnnouncements'] = 'Dôležité veci pôjdu tu jeden deň.';
+$Definition['GroupEmptyDiscussions'] = 'Strašne tu je ťicho, nie?';
+$Definition['GroupEmptyEvents'] = 'Jejda, žiadne udalosti neprichádzajú.';
+$Definition['Group Info'] = 'Informácie o skupine';
+$Definition['Group Leaders'] = 'Vodcovia';
+$Definition['Group Members'] = 'Členovia';
+$Definition['GroupMembersEmpty'] = 'Nikto sa pripojil ešte. Šír slovo!';
+$Definition['Group Options'] = 'Možnosti skupiny';
+$Definition['Groups'] = 'Skupiny';
+$Definition['groups'] = 'skupiny';
+$Definition['Guest'] = 'Hosť';
+$Definition['GuestModule.Message'] = 'Vyzerá to, že ste tu nový. Ak sa chcete pripojiť, kliknite na jedno z týchto tlačidiel!';
 
+$Definition['Hang on a sec while we sign you out.'] = 'Vydrž kým ťa odhlásime.';
+$Definition['he'] = 'on';
+$Definition['Heading'] = 'Nadpis';
+$Definition['Heading %s'] = 'Nadpis %s';
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} získal <a href="{Url,html}">{Data.Name,text}</a> odznak.';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} zabanoval {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} komentoval <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Pridal nový príspevok. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ťa spomenul v <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} zmenil obrázok {ActivityUserID,user}.';
+$Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} sa pripojil.';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} odbanoval {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} varoval {RegardingUserID,you}.';
+$Definition['Help'] = 'Pomoc';
+$Definition['her'] = 'jej';
+$Definition['Hide'] = 'Skryť';
+$Definition['Hide my online status from other members'] = 'Skryť môj online status pre ostatných členov';
+$Definition['Hide signatures?'] = 'Skryť podpisy?';
+$Definition['Hide signatures always'] = 'Vždy skryť podpisy';
+$Definition['Hide signatures on my mobile device'] = 'Skryť podpisy na moje mobilnom zariadení';
+$Definition['his'] = 'jeho';
+$Definition['Home'] = 'Domov';
+$Definition['hours'] = 'hodín';
+$Definition['Howdy, Stranger!'] = 'Nazdar cudzinec!';
+$Definition['How long do you want this warning to last?'] = 'Ako dlho chcete toto upozornenie trvalo?';
+$Definition['How many levels deep should we start folding up quote trees?'] = 'Koľko úrovní hlboko by sme začať skladanie citovania?';
+
+$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Súhlasím s <a id="TermsOfService" class="Popup" target="terms" href="%s">podmienkami</a>';
+$Definition['Icon'] = 'Ikona';
+$Definition['Ignore'] = 'Ignorovať';
+$Definition['Ignore List'] = 'Ignorovací zoznam';
+$Definition['Ignore Someone'] = 'Ignorovať niekto';
+$Definition['Image'] = 'Obrázok';
+$Definition['images'] = 'obrázky';
+$Definition['Images not allowed'] = 'Obrázky niesú povolené';
+$Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'Obrázok bude zmenšený do maximálnej výšky {maxImageHeight} px.';
+$Definition['Image URL'] = 'URL adresa obrázka';
 $Definition['in'] = 'v';
+$Definition['In <b>%s.</b>'] = 'V <b>%s</b>';
+$Definition['In <b>%s</b> and recent discussions.'] = 'V <b>%s</b> a posledných diskusiach.';
+$Definition['Inbox'] = 'Doručená pošta';
+$Definition['Incorrect. Try again.'] = 'Nesprávne. Skús znova.';
+$Definition['Indent'] = 'Zarážka';
+$Definition['In recent discussions.'] = 'V posledných diskusiach.';
+$Definition['In seconds'] = 'V sekundách';
+$Definition['Insert Image'] = 'Vložiť obrázok';
+$Definition['Insightful'] = 'Bystrý';
+$Definition['Internal'] = 'Vnútorný';
+$Definition['In this Conversation'] = 'V tejto konverzácii';
+$Definition['Invalid password.'] = 'Zadané heslo je nesprávne. Pamätajte, že heslá snímaju veľlké a malé písmená.';
+$Definition['Invitations'] = 'Pozvánky';
+$Definition['Invite'] = 'Pozvať';
+$Definition['InviteErrorPermission'] = 'Prepáčte, prístup zamietnutý.';
+$Definition['Invite Friends'] = 'Pozvať priateľov';
+$Definition['Invite friends'] = 'Pozvať priateľov';
+$Definition['Invite one or more people to join this group.'] = 'Pozvať jedného alebo viacerých ľudí, aby sa pripojili k tejto skupine.';
+$Definition['IP Address'] = 'IP adresa';
+$Definition['I remember now!'] = 'Spomínam si teraz!';
+$Definition['Italic'] = 'Kurzíva';
 $Definition['Item'] = 'Položka';
+$Definition['item'] = 'položka';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Vyzerá to, že ste tu nový. Ak sa chcete zapojiť, kliknite na jedno z týchto tlačidiel!';
 
+$Definition['Jail'] = 'Väzenie';
+$Definition['Jailed users have reduced abilities.'] = 'Uväznený užívatelia majú znížené schopnosti.';
+$Definition['Join %s'] = 'Pripojiť k %s';
+$Definition['Joined'] = 'Pripojil';
+$Definition['Joined %s'] = 'Pripojil %s';
+$Definition['Join this Group'] = 'Pripojte sa k tejto skupine';
+$Definition['Join this group to view its content.'] = 'Pripoj sa k tejto skupine pre zobrazenie jej obsahu.';
+$Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Stačí odstrániť používateľský záznam a ponechať všetok obsah užívateľa.';
+$Definition['Just expire the warning.'] = 'Len skončí varovanie.';
+$Definition['Just you!'] = 'Len ty!';
+
+$Definition['Keep me signed in'] = 'Zapamätaj si ma';
+$Definition['Keep User Content'] = 'Udržať používateľa obsah';
+
+$Definition['Label'] = 'Štítok';
+$Definition['Last Active'] = 'Naposledy aktívny';
+$Definition['Last IP'] = 'Posledná IP';
+$Definition['lasts %s'] = 'trvá %s';
+$Definition['Latest %1$s'] = 'Posledná %1$ s';
+$Definition['Latest Post'] = 'Posledný príspevok';
+$Definition['Leaders'] = 'Vodcovia';
+$Definition['Leave %s'] = 'Nechajte %s';
+$Definition['Leave a Comment'] = 'Zanechať komentár';
+$Definition['Leave a comment'] = 'Zanechať komentár';
+$Definition['Leave a redirect link.'] = 'Zanechať odkaz na presmerovanie.';
 $Definition['Leave blank unless connecting to an exising account.'] = 'Nechaj prázdne, dokým sa nepripájaš už k existujúcemu účtu.';
+$Definition['Leave Comments'] = 'Zanechať komentár';
+$Definition['Leave Group'] = 'Opustiť skupinu';
+$Definition['Length'] = 'Dĺžka';
+$Definition['Level %s'] = 'Úroveň %s';
+$Definition['Like'] = 'Ako';
+$Definition['Link to content:'] = 'Odkaz na obsah:';
+$Definition['Locale'] = 'Miestne nastavenie';
+$Definition['Log'] = 'Denník';
+$Definition['log'] = 'Denník';
+$Definition['Login with Facebook'] = 'Prihlásiť sa cez Facebook';
+
+$Definition['Make me invisible? (Will not show you on the list)'] = 'Znevideľniť ma? (Nezobrazí sa na zozname)';
+$Definition['Make this poll anonymous (user votes are not made public).'] = 'Anonymná anketa (užívatelové hlasy niesú zverejnené).';
+$Definition['Male'] = 'Muž';
+$Definition['Mark All Viewed'] = 'Označiť všetko ako prečítané';
+$Definition['Mark as Troll'] = 'Označiť ako Troll';
+$Definition['Mark Category Viewed'] = 'Označiť Kategóriu ako prezretú';
+$Definition['Marking as spam cannot be undone.'] = 'Označenie  SPAM vymaze navždy. Odstránenie je dobrý spôsob, ako udržať vaše fórum čisté.';
+$Definition['Mark Read'] = 'Označiť ako prečítané';
+$Definition['Maybe'] = 'Možno';
+$Definition['Maybe (%s)'] = 'Možno (%s)';
+$Definition['Member Count'] = 'Členovia';
+$Definition['Members'] = 'Členovia';
+$Definition['Merge'] = 'Zlúčiť';
+$Definition['Merge Discussions'] = 'Zlúčiť diskusie';
+$Definition['Message'] = 'Správa';
+$Definition['message'] = 'správa';
+$Definition['Messages'] = 'Správy';
+$Definition['messages'] = 'správy';
+$Definition['Message to User'] = 'Správa používateľovi';
+$Definition['Minor'] = 'Drobné';
+$Definition['minutes'] = 'minút';
+$Definition['Moderation'] = 'Moderovanie';
+$Definition['Moderation Queue'] = 'Moderovacia fronta';
+$Definition['Moderator'] = 'Moderátor';
+$Definition['Moderator Activity'] = 'Činnosti moderátora';
+$Definition['Moderators'] = 'Moderátori';
+$Definition['moderators'] = 'Moderátori';
+$Definition['months'] = 'mesiacov';
+$Definition['More'] = 'Viac';
+$Definition['More About %s'] = 'Viac o %s';
+$Definition['More Comments'] = 'Ďalšie komentáre';
+$Definition['More Discussions'] = 'Ďalšie diskusie';
+$Definition['More Information'] = 'Ďalšie informácie';
+$Definition['More Results'] = 'Ďalšie výsledky';
+$Definition['More…'] = 'Viac...';
+$Definition['Most Recent'] = 'Najnovšie';
+$Definition['Most recent:'] = 'Najnovšie:';
+$Definition['Most recent: %1$s by %2$s'] = 'Najnovšie: %1$ od %2$ s';
+$Definition['Most recent by %1$s'] = 'Najnovšie od %1$ s';
+$Definition['Most Recent Comment'] = 'Najnovšie komentáre';
+$Definition['Move'] = 'Presunúť';
+$Definition['MyBadgesModuleTitle'] = 'Moja odznaky';
+$Definition['My Bookmarks'] = 'Moje záložky';
+$Definition['My Discussions'] = 'Moje diskusie';
+$Definition['My Drafts'] = 'Moje návrhy';
+$Definition['My Forums'] = 'Moje fórum';
+$Definition['My Groups'] = 'Moje skupiny';
+$Definition['My Preferences'] = 'Moje preferencie';
+$Definition['My Signature'] = 'Môj podpis';
 
 $Definition['Name'] = 'Meno';
+$Definition['Name Dropper'] = 'Názov kvapkadlo';
+$Definition['Name of the Event'] = 'Názov podujatia';
+$Definition['Name the Group'] = 'Nazvy skupinu';
+$Definition['Name Unavailable'] = 'Názov nie je k dispozícii';
+$Definition['new'] = 'nové';
+$Definition['New %s'] = 'Novú %s';
+$Definition['New Announcement'] = 'Nové oznámenie';
+$Definition['New Conversation'] = 'Nová správa';
+$Definition['New Discussion'] = 'Nová diskusia';
+$Definition['new discussion'] = 'nové';
+$Definition['New Event'] = 'Nová udalosť';
+$Definition['New Group'] = 'Nová skupina';
+$Definition['New Groups'] = 'Nové skupiny';
+$Definition['New Message'] = 'Nová správa';
+$Definition['New Password'] = 'Nové heslo';
+$Definition['New Poll'] = 'Nová Anketa';
+$Definition['Next'] = 'Ďalšie';
+$Definition['Ninth Anniversary'] = 'Deviate výročie';
+$Definition['No'] = 'Nie';
+$Definition['NoBadgesEarned'] = 'Každú chvíľu now&hellip;';
+$Definition['Nobody has confirmed their attendance yet.'] = 'Nikto potvrdil svoju účasť ešte.';
+$Definition['NoPermissionToDeleteDiscussions'] = 'Nemáte povolenie na odstránenie %1$s vybraných diskusií.';
 
 $Definition['Only show followed categories'] = 'Zobraziť iba sledované kategórie';
 

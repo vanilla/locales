@@ -1,82 +1,12 @@
 <?php
 
-$Definition['%s view html'] = '%s view';
-$Definition['%s views html'] = '%s views';
-
-$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
-$Definition['Date.DefaultDayFormat'] = '%B %e';
-$Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
-$Definition['Date.DefaultYearFormat'] = '%B %Y';
-
-$Definition['EmailMembershipApproved'] = 'Hello %1$s,
-
-You have been approved for membership. Sign in now at the following link:
-
-  %2$s';
-$Definition['EmailNotification'] = '%1$s
-
-Follow the link below to check it out:
-%2$s
-
-Have a great day!';
-$Definition['EmailPassword'] = '%2$s has reset your password at %3$s. Your login credentials are now:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s';
-$Definition['Email Source'] = 'Email';
-$Definition['EmailStoryNotification'] = '%1$s
-
-%3$s
-
----
-Follow the link below to check it out:
-%2$s
-
-Have a great day!';
-$Definition['EmailWelcome'] = '%2$s has created an account for you at %3$s. Your login credentials are:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'You have successfully connected to {Title}. Here is your information:
-
-  Username: {User.Name}
-  Connected With: {ProviderName}
-
-You can access the site at {/,exurl,domain}.';
 $Definition['EmailWelcomeRegister'] = 'You have successfully registered for an account at {Title}. Here is your information:
 
   Username: {User.Name}
   Email: {User.Email}
 
 You can access the site at {/,exurl,domain}.';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
-$Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
-$Definition['ErrorBadInvitationCode'] = 'The invitation code you supplied is not valid.';
-$Definition['ErrorCredentials'] = 'Sorry, no account could be found related to the email/username and password you entered.';
-$Definition['ErrorPermission'] = 'Sorry, permission denied.';
-$Definition['ErrorPluginDisableRequired'] = 'You cannot disable the {0} plugin because the {1} plugin requires it in order to function.';
-$Definition['ErrorPluginEnableRequired'] = 'This plugin requires that the {0} plugin be enabled before it can be enabled itself.';
-$Definition['ErrorPluginVersionMatch'] = 'The enabled {0} plugin (version {1}) failed to meet the version requirements ({2}).';
-$Definition['ErrorRecordNotFound'] = 'The requested record could not be found.';
-$Definition['ErrorTermsOfService'] = 'You must agree to the terms of service.';
 
-$Definition['FollowOnly'] = 'Follow the link below to check it out:';
-$Definition['Format his'] = 'his';
-$Definition['Format their'] = 'their';
-$Definition['Format You'] = 'You';
-$Definition['Format you'] = 'you';
-$Definition['Format Your'] = 'Your';
-
-$Definition['Garden.Email.SupportAddress'] = 'Support email';
-$Definition['Garden.Email.SupportName'] = 'Support name';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
@@ -85,55 +15,29 @@ $Definition['Garden.Import.Merge.Description'] = 'This will merge all of the use
 <b>Warning: If you merge the same data twice you will get duplicate discussions.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Overwrite this forum.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Warning: All data in this forum will be overwritten.';
-$Definition['Garden.Registration.DefaultRoles'] = 'default role';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
-$Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.';
-$Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
-$Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
-$Definition['Group Leaders'] = 'Leaders';
-$Definition['Group Members'] = 'Members';
-$Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
-$Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
-$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
-$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
-$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} commented on <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Started a new discussion. <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mentioned you in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {ActivityUserID,your} profile picture.';
-$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} changed the profile picture for {ActivityUserID,user}.';
-$Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} joined.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
-$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
 
-$Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
-$Definition['InviteErrorPermission'] = 'Sorry, permission denied.';
 
 $Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once a locale has been added to your %s folder, you can enable or disable it here.';
 $Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
-$Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
-$Definition['Member Count'] = 'Members';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
-$Definition['MyBadgesModuleTitle'] = 'My Badges';
 
 $Definition['NewApplicantEmail'] = 'New applicant:';
-$Definition['New Conversation'] = 'New Message';
-$Definition['new discussion'] = 'new';
-$Definition['NoBadgesEarned'] = 'Any minute now&hellip;';
-$Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 $Definition['Null Date'] = '-';
