@@ -53,8 +53,6 @@ $Definition['NewApplicantEmail'] = 'New applicant:';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 
-$Definition['Operation By'] = 'By';
-
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
                able to retrieve a logged-in session from the AuthenticateURL you
@@ -66,11 +64,9 @@ $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test y
 $Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 
 $Definition['Record Content'] = 'Content';
-$Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
-$Definition['SignedOut'] = 'You are signed out.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
