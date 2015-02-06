@@ -237,7 +237,7 @@ $Definition['Badge404'] = 'Значекъ не найденъ.';
 $Definition['Badges'] = 'Значки';
 $Definition['BadgesModuleTitle'] = 'Значки';
 $Definition['BadgesNobody'] = 'Никто еще небылъ награжденъ этимъ значкомъ.';
-$Definition['Ban'] = 'Отлучить';
+$Definition['Ban'] = 'Забанить';
 $Definition['Ban.Action'] = 'Заблокировать';
 $Definition['Banned'] = 'Забаненъ';
 $Definition['Banned for being abusive.'] = 'Заблокированъ, за оскорбленія';
@@ -766,7 +766,7 @@ $Definition['Male'] = 'Мужчина';
 $Definition['Mark All Viewed'] = 'Отмѣтить все прочитаннымъ';
 $Definition['Mark as Troll'] = 'Помѣтить какъ вредителя';
 $Definition['Mark Category Viewed'] = 'Отметить категорию просмотренной';
-$Definition['Marking as spam cannot be undone.'] = 'Сообщения помечаемые как спам будут безвозвратно удалены. Удаление является хорошим способом содержать форум в чистоте.';
+$Definition['Marking as spam cannot be undone.'] = 'Сообщения, помечаемые как спам, будут безвозвратно удалены. Удаление является хорошим способом содержать форум в чистоте.';
 $Definition['Mark Read'] = '<span title="Отмѣтить сообщенія въ этой категоріи прочитанными">Прочитано</span>';
 $Definition['Maybe'] = '
         Возможно
