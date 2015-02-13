@@ -190,6 +190,7 @@ $Definition['Comments per Page'] = 'Kommentarer per side';
 $Definition['Condition Expression'] = 'Værdi';
 $Definition['Conditions'] = 'Vilkår';
 $Definition['Configure an Authenticator'] = 'Konfigurerer en Godkendelsesprocedurer';
+$Definition['Configuring Vanilla\'s Homepage'] = 'Konfigurer Vanilla\'s hjemmeside';
 $Definition['Conversation Messages'] = 'Samtale Meddelelser';
 $Definition['Conversations'] = 'Samtaler';
 $Definition['Copy'] = 'Kopier';
@@ -199,6 +200,8 @@ $Definition['Current Theme'] = 'NuvÊrende Tema';
 $Definition['Decline'] = 'AfslÂ';
 $Definition['Default'] = 'Standard';
 $Definition['Default  Category'] = 'Standard kategorier';
+$Definition['Define your forum homepage'] = 'Beskriv dit forums hjemmeside';
+$Definition['Define your forum homepage, upload your logo, and more...'] = 'Beskriv dit forums hjemmeside, upload et logo, og mere....';
 $Definition['Description'] = 'Beskrivelse';
 $Definition['Disable'] = 'Deaktiver';
 $Definition['Disabled %1$s'] = 'Deaktiverede %1$s';
@@ -217,6 +220,8 @@ $Definition['Enable'] = 'Aktiver';
 $Definition['Enabled %1$s'] = 'Aktiverede %1$s';
 $Definition['Enable OpenID'] = 'Aktiver OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Indtast email adressen for personen du vil invitere:';
+$Definition['Enter the url to the page you would like to use as your homepage'] = 'Indtast url adressen på den side du vil bruge som din hjemmeside';
+$Definition['Enter the url to the page you would like to use as your homepage:'] = 'Indtast url adressen på den side du vil bruge som din hjemmeside';
 $Definition['Existing members send invitations to new members.'] = 'Eksisterende medlemer sender invitationer til nye medlemmer.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect giver brugerne mulighed for at logge ind med deres Facebook bruger. <b>Du skal registrere din ans¯gning med Facebook for dette plugin skal virke.</b>';
@@ -232,7 +237,10 @@ $Definition['Generate'] = 'Generer';
 $Definition['Google Sign In Settings'] = 'Google Sign In Indstillinger';
 $Definition['Guest'] = 'GÊst';
 
+$Definition['Help &amp; Tutorials'] = 'Hjælp & Vejledninger';
 $Definition['Hide from the recent discussions page.'] = 'Skjul fra siden seneste diskussioner.';
+$Definition['Homepage'] = 'Hjemmeside';
+$Definition['Homepage Title'] = 'Hjemmeside titel';
 
 $Definition['Import'] = 'Importer';
 $Definition['Invitation Code'] = 'Invitations Kode';
@@ -246,6 +254,7 @@ $Definition['Key Type'] = 'Kode Type';
 $Definition['Key Value'] = 'Kode VÊrdi';
 
 $Definition['Last Visit'] = 'Sidste Bes¯g';
+$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lær hvordan du ændrer din sides udseende, uploader et logo, beskriver siden, vælger et tema og redigerer det.';
 $Definition['Locale Key (Folder)'] = 'sprog Kode (Mappe)';
 $Definition['Locale Name'] = 'sprog Navn';
 $Definition['Locales'] = 'sprog pakker';
@@ -356,6 +365,8 @@ $Definition['The %s Authenticator does not have any custom configuration options
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'tilf¯jelsen kunne ikke blive aktiveret fordi den genererede en fejl: <pre>%s</pre>';
 $Definition['The banner logo appears at the top of your forum.'] = 'banner logoet vil komme frem pÂ toppen af forumet.';
 $Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'banner titlen kommer ¯verst til venstre pÂ hver side. Hvis et banner logo er uploadet, vil det erstatte bannertitlen.';
+$Definition['The homepage title is displayed on your home page.'] = 'Hjemmeside titlen vises på din hjemmeside. Vælg en titel som du vil se på søgemaskiner.';
+$Definition['The homepage was saved successfully.'] = 'Hjemmesiden blev gemt med success!';
 $Definition['ThemeHelp'] = 'Temaer kan lave om pÂ udseendet &amp; F¯l din side.<br />NÂr et tema er blevet tilf¯jet til %s mappe, Du kan aktivere det her.';
 $Definition['Theme Options'] = 'Tema opsætning';
 $Definition['Themes'] = 'Temaer';
