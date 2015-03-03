@@ -753,7 +753,7 @@ $Definition['The basic registration form requires that new users copy text from 
 $Definition['The Basics'] = 'Les bases';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'L\'URL "en-coulisses" qui partage les informations d\'identité avec Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'L\'ID client identifie le site de manière unique. Vous pouvez générer un nouvel ID en cliquant sur le bouton en bas de cette page.';
-$Definition['The content you were looking for has been deleted.'] = 'Le content que vous recherchez a été supprimé.';
+$Definition['The content you were looking for has been deleted.'] = 'Le contenu que vous recherchez a été supprimé.';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'L\'utilisateur de base de données que vous avez spécifié n\'a pas de permission d\'accès sur la base de données. Avez-vous bien créé la base de données ? La base de données renvoie : <code>%s</code>';
 $Definition['The default role has not been configured.'] = 'Le rôle par défaut n\'a pas été configuré.';
 $Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'Le module Disqus permet aux utilisateurs de se connecter en utilisant leur compte Disqus. <b>Vous devez enregistrer votre application avec Disqus pour que ce module fonctionne.</b>';

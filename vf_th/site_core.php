@@ -24,6 +24,7 @@ $Definition['%s (Current)'] = '%s (ปัจจุบัน)';
 $Definition['%s Agrees'] = '%s เห็นด้วย';
 $Definition['%s and you'] = '%s และคุณ';
 $Definition['%s Awesomes'] = '%s สุดยอด';
+$Definition['%s by %s'] = '%s โดย %s';
 $Definition['%s changed %s\'s permissions.'] = '%1$s แก้ไข %4$s สิทธิ์';
 $Definition['%s Comment'] = '%s ความเห็น';
 $Definition['%s comment'] = '%s ความคิดเห็น';
