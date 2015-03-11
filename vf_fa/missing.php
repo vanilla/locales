@@ -1,11 +1,6 @@
 <?php
 
-$Definition['%s comment html'] = '%s comment';
-
-$Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
-$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
-$Definition['Approve Applicant'] = 'Approve';
 
 $Definition['Change tables to InnoDB'] = 'Change tables to InnoDB (see help)';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
