@@ -876,6 +876,7 @@ $Definition['This page requires Javascript.'] = 'This page requires Javascript.'
 $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.';
 $Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.';
 $Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'This plugin enables uploading files and attaching them to discussions and comments.';
+$Definition['This pocket is an ad.'] = 'This pocket is an ad.';
 $Definition['This show the plugin on only selected discussion pages'] = 'This show the plugin on only selected discussion pages';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
@@ -926,6 +927,7 @@ $Definition['Users'] = 'Users';
 $Definition['Users that get this reaction get %+d point.'] = 'Users that get this reaction get %+d point.';
 $Definition['Users that get this reaction get %+d points.'] = 'Users that get this reaction get %+d points.';
 $Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'Users will be assigned to this role until they\'ve confirmed their email addresses.';
+$Definition['Users with the no ads permission will not see this pocket.'] = 'Users with the no ads permission will not see this pocket.';
 $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 
