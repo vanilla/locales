@@ -1,8 +1,5 @@
 <?php
 
-$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
-
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
                able to retrieve a logged-in session from the AuthenticateURL you
                specified. Please make sure you are logged in to your remote application
