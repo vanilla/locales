@@ -444,9 +444,9 @@ $Definition['EmailStoryNotification'] = '%1$s
 	
         %2$s
 
-    如果此邮件对您造成了影响，请您登陆社区，进入个人主页，在通知设置中取消邮件通知的勾选。
+    如果此邮件对您造成了影响，请您登录社区，进入个人主页，在通知设置中取消邮件通知的勾选。
 	
-     祝您开心每一天!';
+     祝您开心每一天！';
 $Definition['Email Unavailable'] = '该地址已被占用';
 $Definition['Email visible to other users'] = '电子邮件地址公开';
 $Definition['EmailWelcome'] = '您好 %1$s，
@@ -670,7 +670,7 @@ $Definition['Link to content:'] = '文章链接';
 $Definition['Locale'] = '地点';
 $Definition['Log'] = '日志';
 $Definition['log'] = '日志';
-$Definition['Login with Facebook'] = '使用 Facebook 登陆';
+$Definition['Login with Facebook'] = '使用 Facebook 登录';
 
 $Definition['Major'] = '成年人';
 $Definition['Make me invisible? (Will not show you on the list)'] = '在线对其他用户不可见（您将不会出现在在线列表中）';

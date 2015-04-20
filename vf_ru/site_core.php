@@ -354,10 +354,10 @@ $Definition['Dashboard'] = 'Консоль';
 $Definition['Dashboard Home'] = 'Главная страница консоли';
 $Definition['Dashboard Summaries'] = 'Сводка консоли';
 $Definition['Date'] = 'Дата';
-$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
-$Definition['Date.DefaultDayFormat'] = '%A %e <font style="text-transform:lowercase;">%b</font> в %H:%M';
-$Definition['Date.DefaultFormat'] = '%h %i, %Y, %H:%M';
-$Definition['Date.DefaultTimeFormat'] = '%H:%M%p';
+$Definition['Date.DefaultDateTimeFormat'] = '%d.%m.%Y %H:%M';
+$Definition['Date.DefaultDayFormat'] = '%e %b';
+$Definition['Date.DefaultFormat'] = '%d.%m.%Y';
+$Definition['Date.DefaultTimeFormat'] = '%H:%M';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '
         Требуемый формат даты "мм/дд/гггг".
@@ -725,7 +725,7 @@ $Definition['Merge'] = 'Объединение';
 $Definition['Merge Discussions'] = 'Объединить дискуссии';
 $Definition['Message'] = 'Сообщение';
 $Definition['message'] = 'сообщение';
-$Definition['Messages'] = 'сообщения';
+$Definition['Messages'] = 'Сообщения';
 $Definition['messages'] = 'сообщения';
 $Definition['Message to User'] = 'Сообщение пользователю';
 $Definition['Minor'] = 'Малый';

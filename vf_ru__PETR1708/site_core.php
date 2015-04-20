@@ -354,7 +354,7 @@ $Definition['Dashboard'] = 'Панель управленія';
 $Definition['Dashboard Home'] = 'Главная страница панели';
 $Definition['Dashboard Summaries'] = '<b>Панель управленія</b>. Основная информація';
 $Definition['Date'] = 'Дата';
-$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDateTimeFormat'] = '%d.%m.%Y %H:%M';
 $Definition['Date.DefaultDayFormat'] = '%A %e <font style="text-transform:lowercase;">%b</font> въ %H:%M';
 $Definition['Date.DefaultFormat'] = '%h %i, %Y, %H:%M';
 $Definition['Date.DefaultTimeFormat'] = 'сегодня въ %H:%M';

@@ -96,6 +96,8 @@ $Definition['All Dashboard Pages'] = '所有控制面板页面';
 $Definition['All discussions in this category will be permanently deleted.'] = '此板块下的所有主题将会彻底删除。';
 $Definition['All Forum Pages'] = '所有论坛讨论区页面';
 $Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = '所有的用户内容将被替换，说明此账户已经删除。';
+$Definition['Allow embedded content'] = '允许嵌入式内容';
+$Definition['Allow images'] = '允许图像';
 $Definition['Allow new users to be registered through email.'] = '允许通过 Email 注册新用户。';
 $Definition['Allow users to dismiss this message'] = '允许用户撤消该消息';
 $Definition['All Pages'] = '所有页面（*）';
@@ -110,6 +112,7 @@ $Definition['Application'] = '应用';
 $Definition['ApplicationHelp'] = '应用帮助。 您可以添加更多应用功能。<br />应用功能被加入到文件夹 %s,您可以在这里激活或关闭它';
 $Definition['Application ID'] = '应用 ID';
 $Definition['Applications'] = '应用';
+$Definition['Application Secret'] = '应用程序密钥';
 $Definition['Applied by Administrator'] = '管理员应用';
 $Definition['Applied Manually'] = '手动应用';
 $Definition['Applied On'] = '日期';
@@ -222,6 +225,8 @@ $Definition['Configure how nested categories are displayed to users.'] = '配置
 $Definition['Configuring Vanilla\'s Homepage'] = '配置 Vanalla 的首页';
 $Definition['Confirmation  Body'] = '确认 正文';
 $Definition['Confirm email addresses'] = '需要用户验证他们的邮箱地址（推荐的）';
+$Definition['Consumer Key'] = '消费键值';
+$Definition['Consumer Secret'] = '消费密钥';
 $Definition['Content flagged as spam is stored here for moderator review.'] = '被标记垃圾信息等待管理员复审';
 $Definition['Content Flagging'] = '内容标记';
 $Definition['Continue'] = '继续';
@@ -279,8 +284,8 @@ $Definition['Disable'] = '关闭';
 $Definition['Disable Content Flagging'] = '禁用内容标记';
 $Definition['Disabled'] = '关闭';
 $Definition['Disabled %1$s'] = '禁用 %1$s';
-$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = '禁用：Pocket<b>不会</b>被显示。';
-$Definition['Disable Google Sign In'] = '禁用 Google 登陆';
+$Definition['Disabled: The pocket will <b>not</b> be displayed.'] = '禁用：Pocket <b>不会</b>被显示。';
+$Definition['Disable Google Sign In'] = '禁用 Google 登录';
 $Definition['Disable OpenID'] = '禁用 OpenID';
 $Definition['Disable Signatures'] = '关闭个性签名';
 $Definition['Disable Tagging'] = '禁用标签';
@@ -441,6 +446,8 @@ $Definition['Hidden for mobile'] = '在移动界面隐藏';
 $Definition['Hide  Fields'] = '隐藏空字段';
 $Definition['Hide from the recent discussions page.'] = '不在最近话题页面显示';
 $Definition['Hide Pocket Locations'] = '隐藏Pocket位置';
+$Definition['Hide signatures for guests'] = '对访客隐藏签名';
+$Definition['Hide signatures on embedded comments'] = '隐藏嵌入式评论上的签名';
 $Definition['Hide this category from the recent discussions page.'] = '不在最近话题显示此类别';
 $Definition['Hi Pal!
 
@@ -531,7 +538,11 @@ $Definition['Managing Categories'] = '管理板块';
 $Definition['Manual'] = '手册';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = '不是垃圾信息将恢复至社区中。';
 $Definition['Marking things as not spam will put them back in your forum.'] = '不是垃圾信息将恢复至社区中。';
+$Definition['Max %s length'] = '最大长度 %s';
 $Definition['Max Comment Length'] = '评论字数上限';
+$Definition['Max height of %s'] = '%s 的最大宽度';
+$Definition['Max height of %s in pixels'] = '%s 的最大高度，单位: 像素';
+$Definition['Max number of %s'] = '%s 的最大数量';
 $Definition['Media'] = '上传管理（富媒体）';
 $Definition['Member'] = '成员';
 $Definition['Member roles'] = '检查所有的，适用于新用户/批准用户的用户角色。';
@@ -610,6 +621,7 @@ $Definition['Place nested categories in a comma-delimited list when they are'] =
 $Definition['Please choose an authenticator to configure.'] = '请选择一个身份验证配置。';
 $Definition['Please Confirm'] = '请确认';
 $Definition['Plugin'] = '插件';
+$Definition['Plugin.Enabled'] = '插件 已启用';
 $Definition['PluginHelp'] = '插件可以为您的站点添加功能。<br />当您向 %s 文件夹添加插件后，您可以在这里选择启用或关闭。';
 $Definition['Plugins'] = '插件';
 $Definition['Pockets'] = 'Pocket（自定义HTML块）';
@@ -620,7 +632,12 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Private Key'] = '私钥';
 $Definition['Provider'] = '提供者';
 $Definition['Proxy Connect'] = '代理连接';
+$Definition['ProxyConnect.NoAuthenticate'] = '看起来我们无法从您指定的 AuthenticateURL 接收到一个已登录会话。
+请确定您在执行此测试前，已经登录到
+您的远程应用程序。';
 $Definition['ProxyConnect.RimBlurb'] = '如果你在 ProxyConnect 中使用了官方支持的远程应用插件，如我们的 wordpress-proxyconnect 插件，那么这些设定值可以在插件配置页面中找到。';
+$Definition['ProxyConnect.TestIntro'] = '此接口允许您测试您的配置，确保
+ProxyConnect 工作正常。';
 $Definition['ProxyConnect.TestSettings'] = '当你配置好下面的 ProxyConnect，<b>并保存之后</b>，你可以点击“测试Test ProxyConnect 配置”';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect 设置完成，已连接到你的博客，%s。现在请激活认证管理器并进行一些测试。';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect 提供了多种预置的 <b>远程集成管理器</b>，它们都用来自动完成设置过程。如果你的远程应用在下拉框之中，请选择，或选择“手动集成”。';
@@ -740,6 +757,7 @@ $Definition['Test URL'] = '测试网址';
 $Definition['Text'] = '文本';
 $Definition['TextEnterEmails'] = '在这里输入用半角逗号字符分隔的电子邮件地址';
 $Definition['Thank You!'] = '谢谢!';
+$Definition['The %s Authenticator does not have any custom configuration options.'] = '%s 验证器没有任何自定义配置选项。';
 $Definition['The %s badge has already been given to %s.'] = '%s 勋章已被授予 %s。';
 $Definition['The %s has been deleted.'] = '%s 已被删除。';
 $Definition['The %s has been flagged for moderation.'] = '%s 被标记为等待审核。';
@@ -760,7 +778,7 @@ $Definition['The client ID uniqely identifies the site.'] = '客户端 ID 是站
 $Definition['The content you were looking for has been deleted.'] = '你所访问的页面不在家，全家都去火星了';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = '你指定的数据库用户没有数据库访问权限。你已经创建数据库了吗？数据库报告：<code>%s</code>';
 $Definition['The default role has not been configured.'] = '默认用户角色还没有配置。';
-$Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'Disqus 插件能使用户使用 Disqus 帐户登陆。<b>你必须在Disque注册你的应用才能启用此插件。</br>';
+$Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'Disqus 插件能使用户使用 Disqus 帐户登录。<b>您必须在 Disque 注册你的应用才能使用此插件。</br>';
 $Definition['The following content has been flagged by users for moderator review.'] = '用户标记了以下内容给版主.';
 $Definition['The following structure changes are required for your database.'] = '以下结构变更需要数据库子支持。';
 $Definition['The homepage title is displayed on your home page.'] = '首页标题显示在您的首页，并将出现在搜索引擎中。';
@@ -781,7 +799,7 @@ $Definition['There are no items awaiting moderation at this time.'] = '没有等
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = '论坛中已经有帐户使用你提供的电子邮件地址。请创建新帐户，或者输入已有帐户的凭据。';
 $Definition['The route was saved successfully.'] = '路由保存成功。';
 $Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = '这些是你在为远程站点配置 ProxyConnect 的过程中可能用到的设置。';
-$Definition['The secret secures the sign in process.'] = '密钥确保登陆过程的安全性。<b>不要</b>将密钥提供给任何人。';
+$Definition['The secret secures the sign in process.'] = '密钥确保登录过程的安全性。<b>请勿</b>将此密钥提供给任何人。';
 $Definition['The site description usually appears in search engines.'] = '站点描述通常被搜索引擎收录。你应当保证描述内容长度在100到150个字符之间。';
 $Definition['The site is currently undergoing scheduled maintenance.'] = '本站点正处于计划维护模式中。';
 $Definition['The specified url code is already in use by another category.'] = '您指定的 Url 已被其他类别使用。';
@@ -816,7 +834,10 @@ $Definition['This is the administrative dashboard for your new community. Check 
 $Definition['This is the first time you\'ve visited the discussion forums.'] = '这是您第一次访问该论坛。';
 $Definition['This option shows/hides the locations where pockets can go.'] = '这个选项显示/隐藏Pocket可以放置的位置，但只有具备增加/编辑Pocket权限的用户看到。尝试一下显示这些位置，之后再访问您的站点。';
 $Definition['This page requires Javascript.'] = '本页面需要 Javascript 的支持。';
+$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = '此插件允许用户使用 OpenID 登录。 <b>请确保您在启用此插件后再点击设置、启用 OpenID 登录</b>。';
+$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = '此插件允许用户使用他们的 Google 帐户 登录。 <b>请确保您在启用此插件后再点击设置、启用 Google 登录</b>.';
 $Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = '这个插件能够提供文件上传的功能，帖子内容和评论中都可以嵌入附件';
+$Definition['This pocket is an ad.'] = '此 Pocket 是一个广告。';
 $Definition['This show the plugin on only selected discussion pages'] = '只在被选择的主题页面中显示插件';
 $Definition['This theme has additional options.'] = '这个主题在 %s 有附加设置。';
 $Definition['This theme has customizable text.'] = '你可以定制这个主题中的文字。';
@@ -831,6 +852,7 @@ $Definition['To prevent abuse, some tools automatically hide content and list it
 $Definition['To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>'] = '欲使用 reCAPTCHA 必须先从 <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a> 获取 API 键值。';
 $Definition['Try Again'] = '重试';
 $Definition['Turn OFF'] = '关闭插件';
+$Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter 连接允许用户使用他们的 Twitter 帐户。<b>您必须在 Twitter 注册您的应用程序才能使此插件正常工作。</b>';
 
 $Definition['Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.'] = '无法检测您的系统是否安装了 PHP GD扩展。Vanilla 论坛程序需要 GD 2.0或更高版本。';
 $Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = '无法初始化插件：未找到连接库，必须提供 “fsockopen” 或 “curl”。';
@@ -859,6 +881,7 @@ $Definition['Users that get this reaction get %+d point.'] = '取得此回应的
 $Definition['Users that get this reaction get %+d points.'] = '取得此回应的用户将获得 %+d 分。';
 $Definition['User Summary'] = '用户简介';
 $Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = '新注册的用户将被设置为此角色，直到他们激活（收到确认信）';
+$Definition['Users with the no ads permission will not see this pocket.'] = '没有广告权限的用户将不会看到此 Pocket。';
 $Definition['UserWipe'] = '屏蔽用户内容';
 $Definition['UserWipeMessage'] = '删除用户并将用户内容替换成 该用户已被删除 的通知。是可见的信息缺失。';
 $Definition['Use the content at this url as your homepage.'] = '默认首页，当用户访问 <strong>%s</strong>时，默认展现的页面，vanilla默认使用 "All Discussions" 页作为默认首页，你可以根据你的喜好来设置你的默认首页。';
@@ -867,6 +890,7 @@ $Definition['Use these fields to create custom profile information. You can ente
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = '用这些字段创建自定义资料信息。你可以输入像 “婚姻状态”，“Skype帐号”，“喜欢的恐龙种类”，等等。发挥你的想象力吧！';
 $Definition['Use Vanilla as a commenting system in your site'] = '使用 Vanilla 作为你站点的评论系统';
 
+$Definition['Vanilla.Archive.Description'] = '您可以选择存档早于特定日期的论坛讨论。存档讨论是有效的关闭，不允许新的回帖。';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = '分级板块用逗号分隔，当他们%1$s';
 $Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'Vanilla可以采用多种方式嵌入你的站点。点击下面的页标以了解更多信息。';
 $Definition['Vanilla Configuration'] = 'Vanilla 配置';
@@ -892,6 +916,8 @@ $Definition['View Page'] = '查看页面';
 $Definition['Warning'] = '警告';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = '警告：你的所有数据将丢失。一旦你删除，将无法恢复。';
 $Definition['Warning: deleting is permanent'] = '警告：被删除条目将从此列表中移除，并且无法恢复。';
+$Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：您的服务器配置不支持快速数据加载。
+如果您导入一个非常大的文件（例如，超过 200,000 个评论），您可能要考虑更改您的配置。点击<a href="http://vanillaforums.com/porter">这里</a>了解更多信息。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：此处供高级用户使用，要求你更改其他web服务器配置。通常仅当你使用专有服务器或VPS服务器时有效。如果你不知道你在做什么，请不要轻易尝试。';
 $Definition['Welcome to Vanilla!'] = '欢迎来到Vanilla!';
 $Definition['Welcome to your Dashboard'] = '欢迎进入您的控制面板';
@@ -907,17 +933,24 @@ $Definition['WordPress Plugin'] = 'WordPress  插件';
 
 $Definition['Yes, the following information can be changed later.'] = '是的，下面的信息今后可以变更。';
 $Definition['You are connected as %s.'] = '你已连接为 %s。';
-$Definition['You are now signed in.'] = '现在你已经登陆。';
+$Definition['You are now signed in.'] = '现在您已经登录。';
 $Definition['You are previewing the %s theme.'] = '你正在预览 %s 主题。';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = '勾选发布垃圾信息的用户旁边的框，屏蔽他们并且删除所有他们的发布内容。 <b>请确认他是垃圾信息来源是使用。</b>';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = '如果您曾经锁定您的论坛，您随时可以使用您原来的 Vanilla 电子邮件地址及密码在 <a href="%1$s">%1$s</a> 登录';
 $Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = '您可以通过这个工具通过用户名封禁 IP 地址，电子邮件地址和单词。';
 $Definition['You can connect to multiple sites that support jsConnect.'] = '你可以连接多个支持 jsConnect 的站点。';
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = '你可以为此主题的 %s 页面定制 HTML 和 CSS 代码。';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = '你可以创建新帐户，或者为已有帐户输入凭据。';
 $Definition['You can make the categories page your homepage.'] = '您可以在<a href="%s">这里</a>将分类设置为首页。';
+$Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '您不能禁用 %1$s 插件，因为 %2$s 插件需要它才能正常工作。';
+$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = '您不能禁用 OpenID 插件，因为 GoogleSignIn 插件需要它才能正常工作。';
 $Definition['You cannot edit the thumbnail of another member.'] = '您不可以编辑任何其他成员的缩略图。';
 $Definition['You cannot remove an invitation that has been accepted.'] = '已被接受的邀请不能删除';
 $Definition['You cannot remove the only remaining category that allows discussions'] = '你不能移除仅有的可供话题使用的分类。';
+$Definition['You can place files in your /uploads folder.'] = '如果您要上传到此页面的文件
+		太大，您可以直接把它放在 /uploads
+		文件夹。确保文件名以 <b>export</b> 开头，并且结尾
+		为 <b>.txt, .gz</b>。';
 $Definition['You do not have permission to view other profiles.'] = '你没有查看其他设置资料的权限。';
 $Definition['You have %s invitations left for this month.'] = '本月您还有  %s 个邀请名额，快去邀请您的好友加入吧';
 $Definition['You must be authenticated in order to use this form.'] = '您必须经过验证才可以使用此表';
@@ -929,6 +962,7 @@ $Definition['You must select a file to import.'] = '您必须选择一个要导�
 $Definition['You must specify an admin password.'] = '您必须指定一个管理员密码。';
 $Definition['You must specify an admin username.'] = '您必须指定一个管理员用户名。';
 $Definition['You need to configure ProxyConnect'] = '你需要配置 ProxyConnect';
+$Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = '您的应用程序将由一名管理员审核。在您的应用程序获得批准后，您将收到电子邮件通知。';
 $Definition['Your changes were saved successfully.'] = '您的更改已经成功保存。';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = '你的配置文件访问权限错误。PHP需要对此文件的读写权限：<code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = '您的默认语言环境将不会正确显示。';
