@@ -20,6 +20,7 @@ $Definition['%s years.'] = '%s év.';
 
 $Definition['(less)'] = '(kevesebb)';
 $Definition['(more)'] = '(több)';
+$Definition['(YYYY-mm-dd)'] = '(ÉÉÉÉ-hh-nn)';
 
 $Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. A közösségi fórum, amit az összes felhasználód &amp;  ügyfeled látni fog, amikor ide látogatnak';
 
@@ -434,6 +435,8 @@ $Definition['Hidden for mobile'] = 'Rejtve mobilra';
 $Definition['Hide  Fields'] = 'Mezők elrejtése';
 $Definition['Hide from the recent discussions page.'] = 'Rejtsd el a legfrissebb beszélgetések lapról.';
 $Definition['Hide Pocket Locations'] = 'Zsebek helyeinek elrejtése';
+$Definition['Hide signatures for guests'] = 'Aláírás elrejtése vendégeknél';
+$Definition['Hide signatures on embedded comments'] = 'Aláírás elrejtése idézett hozzászólásoknál';
 $Definition['Hide this category from the recent discussions page.'] = 'Rejtsd el ezt a kategóriát a legfrissebb beszélgetések lapról.';
 $Definition['Hi Pal!
 
@@ -619,6 +622,7 @@ $Definition['Public Key'] = 'Nyílvános kulcs';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Gyorstalpaló Vanilla témák létrehozásához';
 
+$Definition['Ranks'] = 'Rangok';
 $Definition['Rate of refresh'] = 'Frissítési gyakoriság';
 $Definition['Re-Register API Key'] = 'Regisztráld újra az API kulcsot';
 $Definition['Reaction'] = 'Válasz';
@@ -882,6 +886,8 @@ $Definition['View Page'] = 'Oldal megtekintése';
 $Definition['Warning'] = 'Figyelmeztetés/Riasztás';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Figyelem: Minden adatod törlésre kerül. Törlés után semmilyen lehetőség nincs a helyreállításra.';
 $Definition['Warning: deleting is permanent'] = 'FIGYELEM: a törölt elemek eltűnnek erről a listáról és nem lehet őket helyreállítani.';
+$Definition['Warning: Loading tables can be slow.'] = '<b>Figyelem</b>: A szervered beállításai nem engedélyezik a gyors adattöltést.
+Ha nagy fájlt importálsz (pl. 200.000 hozzászólás fölött), érdemes megváltoztatni a szerverbeállításokat. Kattints <a href="http://vanillaforums.com/porter">ide</a> további információért.';
 $Definition['Warning: This is for advanced users.'] = '<b>Figyelem</b>: Ez csak haladó felhasználóknak való és további módósítások szükségesek a web szervereden. Ez általában csak akkor érhető el, ha dedikált vagy vps hosztolással rendelkezel. Ha nem tudod mit jelent ez, ne próbáld ezt meg használni.';
 $Definition['Welcome to Vanilla!'] = 'Üdvözöllek a Vanilla-n!';
 $Definition['Welcome to your Dashboard'] = 'Üdvözlet a Vezérlőpulton';

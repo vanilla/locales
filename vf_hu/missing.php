@@ -13,9 +13,6 @@ $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test y
 
 $Definition['ValidateString'] = '%s is not a valid string.';
 
-$Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
-If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
-
 $Definition['You can place files in your /uploads folder.'] = 'If your file is too
 		large to upload directly to this page you can place it in your /uploads
 		folder. Make sure the filename begins with the word <b>export</b> and ends

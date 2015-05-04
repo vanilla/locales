@@ -242,6 +242,7 @@ $Definition['Bookmarked Discussions'] = 'Könyvjelzővel ellátott beszélgetés
 $Definition['Bookmarks'] = 'Könyvjelzők';
 $Definition['bookmarks'] = 'könyvjelzők';
 $Definition['Browse Groups'] = 'Csoportok böngészése';
+$Definition['Browse popular groups.'] = 'Népszerű csoportok megtekintése.';
 $Definition['By'] = 'Általa:';
 $Definition['by'] = 'általa:';
 $Definition['by Date'] = 'dátum szerint';
@@ -522,6 +523,7 @@ $Definition['Format you'] = 'Te';
 $Definition['Format Your'] = 'te';
 $Definition['Forum'] = 'Fórum';
 $Definition['Forums'] = 'Fórumok';
+$Definition['Forum Signature Settings'] = 'Aláírás beállítások';
 $Definition['Fourth Anniversary'] = 'Negyedik évforduló';
 $Definition['Friends'] = 'Barátok';
 $Definition['From'] = 'tól';
@@ -591,10 +593,13 @@ $Definition['Ignore'] = 'Mellőzni';
 $Definition['Ignore List'] = 'Mellőzött lista';
 $Definition['Ignore Someone'] = 'Mellőzni valakit';
 $Definition['Image'] = 'Kép';
+$Definition['images'] = 'képek';
+$Definition['Images not allowed'] = 'A képek nincsenek engedélyezve';
+$Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'A képméret le lesz csökkentve {maxImageHeight}pixel magasságra.';
 $Definition['Image URL'] = 'Kép URL';
 $Definition['in'] = 'itt:';
-$Definition['In <b>%s.</b>'] = 'Itt: <b>%s.</b>';
-$Definition['In <b>%s</b> and recent discussions.'] = 'Itt: <b>%s</b>, és a legutóbbi fórumokban.';
+$Definition['In <b>%s.</b>'] = 'Kiemelés itt: <b>%s.</b>';
+$Definition['In <b>%s</b> and recent discussions.'] = 'Kiemelés itt: <b>%s</b>, és a legutóbbi fórumokban.';
 $Definition['Inbox'] = 'Bejövő levelek';
 $Definition['Incorrect. Try again.'] = 'Helytelen. Próbálja újra.';
 $Definition['Indent'] = 'Behúzás';
@@ -705,6 +710,7 @@ $Definition['My Drafts'] = 'Piszkozataim';
 $Definition['My Forums'] = 'Fórumom';
 $Definition['My Groups'] = 'Csoportjaim';
 $Definition['My Preferences'] = 'Saját beállítások';
+$Definition['My Signature'] = 'Aláírásom';
 
 $Definition['Name'] = 'Név';
 $Definition['Name Dropper'] = 'Dropper név';
@@ -962,7 +968,7 @@ $Definition['search subcategories'] = 'keresés az alkategóriákban';
 $Definition['Second Anniversary'] = 'Második évforduló';
 $Definition['Secret'] = 'Titok';
 $Definition['Sections'] = 'Szekciók';
-$Definition['Security Check'] = 'Biztonsági elelnőrzés';
+$Definition['Security Check'] = 'Biztonsági ellenőrzés';
 $Definition['Select an image on your computer (2mb max)'] = 'Válassz egy képet a számítógépedről (max. 2MB).';
 $Definition['Select one of the following avatars:'] = 'Válassz egyet az alábbi avatarok közül:';
 $Definition['Send a New Message'] = 'Új üzenet küldése';
@@ -983,9 +989,11 @@ $Definition['Shown only on mobile'] = 'Csak mobilon látszik';
 $Definition['Show unfollowed categories'] = 'A nem követett kategóriák megjelenítése';
 $Definition['Sign-In URL'] = 'Bejelentkezési URL';
 $Definition['Sign-Out URL'] = 'Kilépési URL';
+$Definition['Signature'] = 'Aláírás';
 $Definition['Signature Code'] = 'Aláírás';
 $Definition['Signature invalid.'] = 'Az aláírás érvénytelen';
 $Definition['Signatures'] = 'Aláírások';
+$Definition['Signatures can be up to {maxLength} characters long.'] = 'Az aláírás {maxLength} karakter hosszú lehet.';
 $Definition['Signature Settings'] = 'Aláírás beállítások';
 $Definition['SignIn'] = 'Bejelentkezés';
 $Definition['Sign In'] = 'Bejelentkezés';
@@ -1052,28 +1060,15 @@ $Definition['Tenth Anniversary'] = 'Tizedik évforduló';
 $Definition['Terms'] = 'Feltételek';
 $Definition['TermsOfService'] = 'Használati feltételek';
 $Definition['Terms of Service'] = 'Szabályzat';
-$Definition['TermsOfServiceText'] = '
-   <p>You agree, through your use of this service, that you will not use this
-   community to post any material which is knowingly false and/or defamatory,
-   inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually
-   oriented, threatening, invasive of a person\'s privacy, or otherwise violative
-   of any law. You agree not to post any copyrighted material unless the
-   copyright is owned by you.</p>
+$Definition['TermsOfServiceText'] = '<p>Jelen szolgáltatás használatával elfogadod, hogy nem fogsz az oldalon tudatosan gyalázkodó, pontatlan, sértő, durva, utálkozó, zaklató, obszcén, profán, szexuális beállítottságú, fenyegető, mások magánéletét megsértő, vagy bármilyen más módon törvénybe ütköző hozzászólásokat közzétenni. Egyetértesz azzal, hogy jogvédett anyagot nem teszel közzé, kivéve, ha a jog a tiéd.</p>
    
-   <p>We at this community also reserve the right to reveal your identity (or
-   whatever information we know about you) in the event of a complaint or legal
-   action arising from any message posted by you. We log all internet protocol
-   addresses accessing this web site.</p>
+   <p>Az oldal üzemeltetői fenntartják a jogot, hogy felfedjék a személyazonosságod (vagy bármilyen információt, amit tudnak rólad) panasz vagy jogi eljárás esetén. Minden idelátogató IP cím rögzítésre kerül.</p>
    
-   <p>Please note that advertisements, chain letters, pyramid schemes, and
-   solicitations are inappropriate on this community.</p>
+   <p>A kéretlen reklámozás, a körlevelek, a piramisjátékok és a kéregetés nem szívesen látott az oldalon.</p>
    
-   <p>We reserve the right to remove any content for any reason or no reason at
-   all. We reserve the right to terminate any membership for any reason or no
-   reason at all.</p>
+   <p>Fenntartjuk a jogot, hogy okkal/ok nélkül bármilyen tartalmat eltávolítsunk. Fenntartjuk a jogot, hogy a tagságot okkal vagy ok nélkül megszüntessük.</p>
    
-   <p>Legalább 13 évesnek kell lenne, hogy ezt a szolgáltatást használhasd.</p>
-';
+   <p>Legalább 13 évesnek kell lenned, hogy ezt a szolgáltatást használhasd.</p>';
 $Definition['Text  Max  Length'] = 'Szöveg maximális hossza';
 $Definition['The %s you were looking for could not be found.'] = 'A %s amit kerestél nem található.';
 $Definition['the category'] = 'kategória';
@@ -1279,6 +1274,7 @@ $Definition['You can only specify up to %s tags.'] = 'Csak %s címkét adhatsz m
 $Definition['You can remove or ban this member from the group.'] = 'Törölheted vagy kitilthatod ezt a felhasználót a csoportból. A kitiltott felhasználók nem tudnak a csoporthoz újra csatlakozni.';
 $Definition['You can use HTML in your signature.'] = '<b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> használható az aláírásban.';
 $Definition['You don\'t have permission to do that.'] = 'Nincs jogosultságod ehhez.';
+$Definition['You don\'t have permission to use a signature.'] = 'Nincs jogosultságod az aláírás használatához.';
 $Definition['You do not have any %s yet.'] = 'Nincs még egyetlen %s-d sem.';
 $Definition['You do not have any bookmarks.'] = 'Nincs könyvjelződ';
 $Definition['You do not have any conversations.'] = 'Nincs semmilyen társalgásod folyamatban.';
@@ -1290,6 +1286,7 @@ $Definition['You do not have permission to write new comments.'] = 'Nincs jogod 
 $Definition['YouEarnedBadge'] = 'Kiérdemelted ezt a plecsnit';
 $Definition['You have answered questions'] = 'Megválaszolt kérdéseid vannak.';
 $Definition['You have entered an invalid discussion title'] = 'Érvénytelen beszélgetés-címet adtál meg.';
+$Definition['You haven\'t joined any groups yet.'] = 'Még nem léptél be egy csoportba sem.';
 $Definition['You haven\'t read this yet.'] = 'Még nem olvastad ezt.';
 $Definition['You have not started any discussions.'] = 'Még semmilyen beszélgetésbe sem kezdtél bele';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = '
