@@ -10,6 +10,10 @@ $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of 
 
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
 $Definition['Ban Item'] = 'Item';
+$Definition['BanReason.1'] = 'Banned by a community manager.';
+$Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
+$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
+$Definition['BanReason.8'] = 'Banned by warnings.';
 $Definition['Ban Type'] = 'Type';
 
 $Definition['Categories are used to help organize discussions.'] = 'Categories are used to help organize discussions. Drag &amp; drop the categories to sort and nest them.';

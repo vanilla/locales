@@ -9,6 +9,10 @@ $Definition['Applicant Role'] = 'Select the role that should be applied for new 
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
+$Definition['BanReason.1'] = 'Banned by a community manager.';
+$Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
+$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
+$Definition['BanReason.8'] = 'Banned by warnings.';
 
 $Definition['Categories are used to help organize discussions.'] = 'Categories are used to help organize discussions. Drag &amp; drop the categories to sort and nest them.';
 $Definition['Categories are used to organize discussions.'] = '<strong>Categories</strong> allow you to organize your discussions.';

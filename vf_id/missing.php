@@ -11,6 +11,11 @@ $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Approve Applicant'] = 'Approve';
 
+$Definition['BanReason.1'] = 'Banned by a community manager.';
+$Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
+$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
+$Definition['BanReason.8'] = 'Banned by warnings.';
+
 $Definition['ConnectName'] = 'Username';
 $Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 

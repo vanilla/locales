@@ -2,6 +2,11 @@
 
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 
+$Definition['BanReason.1'] = 'Banned by a community manager.';
+$Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
+$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
+$Definition['BanReason.8'] = 'Banned by warnings.';
+
 $Definition['Change tables to InnoDB'] = 'Change tables to InnoDB (see help)';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Commenting as %1$s (%2$s)'] = 'Commenting as %1$s <span class="SignOutWrap">(%2$s)</span>';

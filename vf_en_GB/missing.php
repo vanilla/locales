@@ -34,6 +34,10 @@ $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
 $Definition['BadgesModuleTitle'] = 'Badges';
 $Definition['BadgesNobody'] = 'Nobody has earned this badge yet.';
 $Definition['Ban.Action'] = 'Ban';
+$Definition['BanReason.1'] = 'Banned by a community manager.';
+$Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
+$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
+$Definition['BanReason.8'] = 'Banned by warnings.';
 $Definition['Ban Type'] = 'Type';
 
 $Definition['CategoriesShowFollowed'] = 'Only show followed categories';

@@ -24,6 +24,7 @@ $Definition['%s Awesomes'] = '%s Harika';
 $Definition['%s changed %s\'s permissions.'] = '%s\'in izinlerini %s değiştirdi.';
 $Definition['%s Comment'] = '%s Yorum';
 $Definition['%s comment'] = '%s yorum';
+$Definition['%s comment html'] = '%s yorum';
 $Definition['%s Comments'] = '%s Yorum';
 $Definition['%s comments'] = '%s yorum';
 $Definition['%s Connect'] = '%s Bağlan';
