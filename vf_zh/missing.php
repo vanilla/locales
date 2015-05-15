@@ -1,6 +1,5 @@
 <?php
 
-$Definition['BanReason.1'] = 'Banned by a community manager.';
-$Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
-$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
-$Definition['BanReason.8'] = 'Banned by warnings.';
+$Definition['The user isn\'t banned.'] = 'The user isn\'t banned or is banned by some other function.';
+
+$Definition['ValidateUrl'] = 'The %s field is not a valid url.';

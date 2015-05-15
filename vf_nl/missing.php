@@ -24,9 +24,12 @@ $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
+$Definition['The user isn\'t banned.'] = 'The user isn\'t banned or is banned by some other function.';
 
 $Definition['Use delta indexes'] = 'Use delta indexes (recommended for massive sites)';
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
+
+$Definition['ValidateUrl'] = 'The %s field is not a valid url.';
 
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
