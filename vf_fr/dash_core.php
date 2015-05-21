@@ -369,7 +369,7 @@ $Definition['FaviconDescription'] = 'Le favicon de votre site apparaît dans la 
 $Definition['FileUpload is currently OFF'] = 'Le téléversement de fichiers est actuellement *désactivé*';
 $Definition['FileUpload is currently ON'] = 'Le téléversement de fichiers est actuellement *activé*';
 $Definition['Finished'] = 'Fini';
-$Definition['First Visit'] = '1ère visite';
+$Definition['First Visit'] = '1re visite';
 $Definition['Flood Control'] = 'Contrôle des flux';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Forcer l\'accès au tableau de bord via cette url <em>(non recommandé)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Forcer l\'accès à votre forum via cette url unique';
@@ -481,7 +481,7 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Lancez
 
 $Definition['Label this Revision'] = 'Étiqueter cette Révision';
 $Definition['Last time your forum communicated with the statistics server it received the following message:'] = 'La dernière fois que votre forum a communiqué avec le serveur de statistiques, il a reçu le message suivant :';
-$Definition['Last Visit'] = 'Dernière Visite';
+$Definition['Last Visit'] = 'Dernière visite';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Apprenez comment changer l\'apparence de votre forum du tout au tout : téléversez votre logo, définissez votre page d\'accueil, choisissez un thème et personnalisez-le.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apprenez à utiliser les fonctionnalités de base de votre forum.';
 $Definition['Level'] = 'Niveau';
@@ -862,7 +862,7 @@ $Definition['Users will be assigned to this role until they\'ve confirmed their 
 $Definition['Users with the no ads permission will not see this pocket.'] = 'Les utilisateurs sans permission d\'ajout ne pourront pas voir ce bloc.';
 $Definition['UserWipe'] = 'Contenu utilisateur vide';
 $Definition['UserWipeMessage'] = 'Supprimez l\'utilisateur et remplacez tout son contenu utilisateur par un message qui indique que l\'utilisateur a été supprimé. Cela donne une indication visuelle sur le fait qu\'il manquera de l\'information.';
-$Definition['Use the content at this url as your homepage.'] = 'Votre "page d\'accueil" est ce que les gens voient quand ils visitent <strong>%s</strong>. Nous utilisons "Toutes les discussions" comme page d\'accueil par défaut, mais vous pouvez la changer comme bon vous semble. Voici quelques options souvent usitées:';
+$Definition['Use the content at this url as your homepage.'] = 'Votre "page d\'accueil" est ce que les gens voient quand ils visitent <strong style="white-space: nowrap;">%s</strong>. Nous utilisons "Toutes les discussions" comme page d\'accueil par défaut, mais vous pouvez la changer comme bon vous semble. Voici quelques options souvent usitées:';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Utilisez le module WordPress pour intégrer les commentaires Vanilla dans votre blog, ou utilisez le code universel pour les intégrer sur toute autre plateforme.';
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Utilisez ces champs pour créer des informations de profil personnalisées. Vous pouvez entrer des choses comme "Statut de couple", "Identifiant skype", "Dinosaure favori", etc. Soyez créatifs !';
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Utilisez ces champs pour créer des informations de profil personnalisées. Vous pouvez entrer des choses comme "Statut de couple", "Identifiant skype", "Dinosaure favori", etc. Soyez créatifs !';

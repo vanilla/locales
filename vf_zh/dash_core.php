@@ -52,7 +52,7 @@ $Definition['a Badge'] = '一枚徽章';
 $Definition['Abilites'] = '能力';
 $Definition['About.DisableStatistics'] = '如果您因为某些商业原因需要关闭数据报告，您可以在安装配置文件中添加下列文字：
  <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = '以便我们准确的分析覆盖度和有效性，请不要关闭数据报告。这对开源免费的Vanilla相当的重要。';
+$Definition['About.VanillaStatistics'] = '为方便我们准确的分析覆盖度和有效性，请不要关闭数据报告。这对开源免费的Vanilla相当的重要。';
 $Definition['AboutCommentEmbedding'] = 'Vanilla 可以用来更换您的博客自身的评论系统。事实上，它可以用来为任何网页添加评论。';
 $Definition['AboutEmbedding'] = '嵌入技术可以将您的社区嵌入到其他应用程序和网页中。';
 $Definition['About Vanilla Statistics'] = '关于 Vanilla 统计';
@@ -70,10 +70,10 @@ $Definition['Add Category'] = '添加版块';
 $Definition['Add Connection'] = '添加连接';
 $Definition['Added By'] = '添加人';
 $Definition['Add Info &amp; Create Account'] = '起个昵称吧';
-$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = '请填写 Email 地址以助于获得回复（推荐）。';
+$Definition['Add information into the from field in email addresses to help with replies (recommended).'] = '请填写 Email 地址以便于获得回复(推荐)。';
 $Definition['Adding & Editing Categories'] = '添加&编辑板块';
 $Definition['Add Item'] = '添加屏蔽项';
-$Definition['AddonProblems'] = '加载项问题<h2>Probleme?</h2><p>Läuft etwas schief mit einem Add-On? Wen dem so ist kannst du bestimmte Bereich deines Forums wahrscheinlich nicht nutzen. Deaktiviere sie manuell hier:</p>%s';
+$Definition['AddonProblems'] = '加载项问题<h2>问题?</h2><p>如果有一个插件出现错误并且不能正常使用你的网站，你可以通过编辑手动禁用它们：</p>%s';
 $Definition['Addons'] = '加载项';
 $Definition['Add Role'] = '添加用户角色';
 $Definition['Add User'] = '添加用户';
@@ -173,7 +173,7 @@ $Definition['by %s'] = '由 %s';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = '点击下面的按钮，您将永久删除账户%s。';
 
 $Definition['Cannot build profile information if user is not defined.'] = '用户没有定义的情况下不能建立个人资料信息。';
-$Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = '在全站抓取定义。您必须按顺序访问站内各页面以抓取定义。定义抓取后将被放在<code>captured.php</php>和<code>captured_admin.php</code>中。';
+$Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = '全站抓取。您必须按顺序访问站内各页面以抓取。抓取后将被放在<code>captured.php</php>和<code>captured_admin.php</code>中。';
 $Definition['Categories &amp; Discussions'] = '版块 & 帖子';
 $Definition['Categories are used to help organize discussions.'] = '板块用来组织话题。拖动 或 放下它们以便排序和分级。';
 $Definition['Categories are used to organize discussions.'] = '<strong>板块</strong> 允许您组织您的话题。';
@@ -263,7 +263,7 @@ $Definition['Default  Category'] = '默认 类别';
 $Definition['Default Category Permissions'] = '默认板块权限';
 $Definition['Default Locale'] = '默认语言';
 $Definition['Default Roles'] = '默认用户角色';
-$Definition['Define who can upload files on the Roles & Permissions page.'] = '设定能在 <a href="%s">Roles & Permissions</a> 页面上传及管理文件的用户。';
+$Definition['Define who can upload files on the Roles & Permissions page.'] = '设定能在 <a href="%s">角色与权限</a> 页面上传及管理文件的用户。';
 $Definition['Define your forum homepage'] = '定义您的社区首页';
 $Definition['Define your forum homepage, upload your logo, and more...'] = '定义您的社区首页，上传LOGO，以及其他...';
 $Definition['Delete Badge'] = '删除徽章';
@@ -296,7 +296,7 @@ $Definition['Discussion categories are used to help your users organize their di
 $Definition['Discussions Layout'] = '话题布局';
 $Definition['Discussions per Page'] = '每页帖子';
 $Definition['Discussion  Subject'] = '话题 主题';
-$Definition['Display in dashboard. (not recommended)'] = '控制面板中显示。（不推荐）';
+$Definition['Display in dashboard. (not recommended)'] = '控制面板中显示.。（不推荐）';
 $Definition['Display root categories as headings.'] = '标题显示根板块。';
 $Definition['Disqus Settings'] = 'Disqus 设置';
 $Definition['Don\'t display for embedded comments.'] = '不显示嵌入的回复';
@@ -314,7 +314,7 @@ $Definition['edit'] = '编辑';
 $Definition['Edit %s'] = '编辑%s';
 $Definition['Edit/Delete Log'] = '编辑/删除 日志';
 $Definition['Edit Category'] = '编辑分类';
-$Definition['EditContentTimeout.Notes'] = 'Note: If a user is in a role that has permission to edit content, those permissions will override any value selected here.';
+$Definition['EditContentTimeout.Notes'] = '注意：如果用户有权限编写这些内容，这些内容将被覆盖。';
 $Definition['Edit CSS'] = '编辑CSS';
 $Definition['Edit Html'] = '编辑HTML';
 $Definition['Editing'] = '编辑';
@@ -399,7 +399,7 @@ $Definition['Garden.Import.Complete.Description'] = '成功导入数据。
    准备好后请单击 <b>完成</b>。';
 $Definition['Garden.Import.Continue.Description'] = '该站点正在导入数据。
    请选择一项操作：';
-$Definition['Garden.Import.Description'] = 'Use this page to import data from another forum that was exported using Vanilla\'s exporter. For more information <a href="%s">see our importing documentation</a>.';
+$Definition['Garden.Import.Description'] = '使用此页面从另一个论坛通过Garden接口导出导入数据。欲了解更多信息，<a href="%s">查看我们的导入文档。</a>';
 $Definition['Garden.Import.InputInstructions'] = '输入导入数据的管理员用户与密码。';
 $Definition['Garden.Import.Merge'] = '与当前社区合并';
 $Definition['Garden.Import.Merge.Description'] = '该操作将合并导入数据的所有用户及发帖数据。
@@ -511,7 +511,7 @@ $Definition['Link my existing account'] = '连接我的一个已经存在的账�
 $Definition['Locale Key (Folder)'] = '语言 (目录名)';
 $Definition['Locale Name'] = '语言名称';
 $Definition['Locales'] = '国际化';
-$Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once an locale has been added to your %s folder, you can enable or disable it here.';
+$Definition['Locales are in your %s folder.'] = '语言环境设置允许您以支持其他语言的网站。一旦一个区域已被添加到您的%s文件夹内，您将可以启用或禁用在这里。';
 $Definition['Location'] = '位置';
 $Definition['LogoBrowse'] = '上传一个新的图片替换原有的LOGO。';
 $Definition['LogoDescription'] = '站点LOGO显示在站点的顶部，有些主题可能不会显示。';
@@ -798,7 +798,7 @@ $Definition['There are no database structure changes required. There may, howeve
 $Definition['There are no items awaiting moderation at this time.'] = '没有等待审核的条目。';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = '论坛中已经有帐户使用你提供的电子邮件地址。请创建新帐户，或者输入已有帐户的凭据。';
 $Definition['The route was saved successfully.'] = '路由保存成功。';
-$Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = '这些是你在为远程站点配置 ProxyConnect 的过程中可能用到的设置。';
+$Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = '这些是你在为远程站点配置 代理链接的过程中可能用到的设置。';
 $Definition['The secret secures the sign in process.'] = '密钥确保登录过程的安全性。<b>请勿</b>将此密钥提供给任何人。';
 $Definition['The site description usually appears in search engines.'] = '站点描述通常被搜索引擎收录。你应当保证描述内容长度在100到150个字符之间。';
 $Definition['The site is currently undergoing scheduled maintenance.'] = '本站点正处于计划维护模式中。';
@@ -807,7 +807,7 @@ $Definition['The structure was successfully executed.'] = '表结构代码已成
 $Definition['The text of the pocket.'] = '请为Pocket输入文本。请确认输入合法的HTML代码，以便正确显示。';
 $Definition['The update was not successful.'] = '更新不成功。';
 $Definition['The update was successful.'] = '更新成功。';
-$Definition['The URL of your website where you will use ProxyConnect'] = '你在ProxyConnect中配置的站点链接';
+$Definition['The URL of your website where you will use ProxyConnect'] = '你在代理链接中配置的站点链接';
 $Definition['The url that users go to to register for a new account.'] = '用户访问该链接以注册新账户。';
 $Definition['The url that users use to register for a new account.'] = '用户使用该链接以注册新账户。';
 $Definition['The url that users use to sign in.'] = '用户访问该链接以登录。';
