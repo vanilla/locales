@@ -511,6 +511,7 @@ $Definition['Link my existing account'] = '连接我的一个已经存在的账�
 $Definition['Locale Key (Folder)'] = '语言 (目录名)';
 $Definition['Locale Name'] = '语言名称';
 $Definition['Locales'] = '国际化';
+$Definition['Locales allow you to support other languages on your site.'] = '语言选项可以让您的站点支持其他语言。在这里您可以启用或禁用选定的语言。';
 $Definition['Locales are in your %s folder.'] = '语言环境设置允许您以支持其他语言的网站。一旦一个区域已被添加到您的%s文件夹内，您将可以启用或禁用在这里。';
 $Definition['Location'] = '位置';
 $Definition['LogoBrowse'] = '上传一个新的图片替换原有的LOGO。';

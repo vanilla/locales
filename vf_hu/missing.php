@@ -3,6 +3,8 @@
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 
+$Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
+
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
                able to retrieve a logged-in session from the AuthenticateURL you

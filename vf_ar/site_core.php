@@ -170,6 +170,7 @@ $Definition['Allow'] = 'السماح';
 $Definition['Allow other members to see your email?'] = 'السماح للأعضاء الآخرين برؤية البريد الالكتروني الخاص بك؟';
 $Definition['All Time Leaders'] = 'قيادات دائمة';
 $Definition['Already Warned'] = 'تم تحذيره مسبقا';
+$Definition['Also banned for the following:'] = 'و تم الحظر للأسباب التالية:';
 $Definition['Ancient Membership'] = 'العضوية القديمة';
 $Definition['An invitation has already been sent to the email you entered.'] = 'تم ارسال دعوة الى البريد الالكتروني الذي ادخلته.';
 $Definition['Announce'] = 'إعلان';
@@ -224,6 +225,7 @@ $Definition['Ban.Action'] = 'حظر';
 $Definition['Banned'] = 'محظور';
 $Definition['Banned for being abusive.'] = 'محظور لإستعمال مسيئ';
 $Definition['Banned for spamming.'] = 'محظور بسبب الرسائل المزعجة.';
+$Definition['Banned for the following:'] = 'محظور للأسباب التالية:';
 $Definition['Banned users can no longer access the site.'] = 'المستخدمون المحظورون لا يمكنهم الدخول الى الموقع.';
 $Definition['Banner'] = 'إعلان';
 $Definition['BanReason.1'] = 'محظور من طرف مدير المجتمع';
@@ -1122,6 +1124,7 @@ $Definition['There was an error uploading the file. It is most likely because th
 $Definition['The site is currently undergoing maintenance.'] = 'الموقع يخضع حاليا للصيانة.';
 $Definition['The uploaded file was too big (max %s).'] = 'الملف الذي تم تحميله كبير جدا (حد أقصى %s).';
 $Definition['The user has already been warned for this %s.'] = 'لقد تم تحذير هذا المستعمل حول هذا %s. ';
+$Definition['The user isn\'t banned.'] = 'المستخدم غير محظور أو محظور من قبل برنامج فرعي.';
 $Definition['they'] = 'هم';
 $Definition['Third Anniversary'] = 'الذكرى السنوية الثالثة';
 $Definition['This answer was %s.'] = 'الاجابة هي %s.';
@@ -1140,6 +1143,7 @@ $Definition['This user has been verified as a non-spammer.'] = 'تم التحق�
 $Definition['This user has not been verified as a non-spammer.'] = 'تم التحقق بان هذا المستخدم لا يقوم بإرسال رسائل مزعجة.';
 $Definition['This user has not commented yet.'] = 'هذا المستخدم لم يعلق بعد.';
 $Definition['This user has not made any discussions yet.'] = 'هذا المستخدم لم يفتح اي موضوع بعد.';
+$Definition['This user is also banned for other reasons and may stay banned.'] = 'هذا المستخدم محظورٌ أيضاً لسبب آخر و قدم يبقى محظوراً.';
 $Definition['This user is verified as a non-spammer'] = 'تم التحقق من ان هذا المستخدم لا يرسل رسائل مزعجة';
 $Definition['This warning has expired. Do you want to completely delete it?'] = 'انتهت صلاحية هذا التحذير. هل تريد حذفه تماما؟';
 $Definition['This Week\'s Leaders'] = 'قيادات هذا الاسبوع';
@@ -1223,6 +1227,7 @@ $Definition['ValidateString'] = '%s ليست سلسلة صحيحة.';
 $Definition['ValidateTag'] = 'الكلمات الدليلية لا يمكن ان تحتوي على فراغ بين الكلمات.';
 $Definition['ValidateTime'] = '%s ليس وقتا صالحا.';
 $Definition['ValidateTimestamp'] = '%s ليس طابع تاريخ صالح.';
+$Definition['ValidateUrl'] = 'رابط الـ %s هذا ليس رابط url صحيح.';
 $Definition['ValidateUrlStringRelaxed'] = 'لا يمكن للـ %s أن يحتوي على أحرف من شرطة مائلة، أو علامات تنصيص أو وسوم.';
 $Definition['ValidateUsername'] = 'يجب أن يكون اسم المستخدم ما بين 3 إلى 20 حرف ويتكون من حروف وأرقام وشَرطَات سفلية.';
 $Definition['ValidateVersion'] = 'الحقل %s ليس رقم إصدار صحيح. راجع وظيفة version_compare() من لغة php، للاطلاع على أمثلة لأرقام إصدارات صحيحة.';

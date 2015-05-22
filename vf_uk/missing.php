@@ -82,6 +82,7 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} appr
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 
+$Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';
 $Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
 

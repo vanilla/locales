@@ -55,6 +55,8 @@ $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 
+$Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
+
 $Definition['Member Count'] = 'Members';
 
 $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';

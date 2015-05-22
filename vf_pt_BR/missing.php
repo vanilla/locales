@@ -29,6 +29,8 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} appr
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 
+$Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
+
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 
 $Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were

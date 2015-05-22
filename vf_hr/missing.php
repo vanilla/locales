@@ -221,6 +221,7 @@ $Definition['Invalid password.'] = 'The password you entered was incorrect. Reme
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['InviteErrorPermission'] = 'Sorry, permission denied.';
 
+$Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
 $Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once a locale has been added to your %s folder, you can enable or disable it here.';
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';
 $Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';

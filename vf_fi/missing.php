@@ -32,6 +32,8 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 
+$Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
+
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';

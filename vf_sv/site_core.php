@@ -1203,6 +1203,7 @@ $Definition['ValidateString'] = '%s är inte en giltig sträng.';
 $Definition['ValidateTag'] = 'Taggar får inte innehålla mellanslag.';
 $Definition['ValidateTime'] = '%s är inte en giltig tid.';
 $Definition['ValidateTimestamp'] = '%s är inte en giltig tidstämpel.';
+$Definition['ValidateUrl'] = '%s-fältet är inte en giltig URL.';
 $Definition['ValidateUrlStringRelaxed'] = '%s får inte innehålla snedstreck, citattecken eller taggtecken.';
 $Definition['ValidateUsername'] = 'Användarnamn måste ha 3-20 tecken och bestå av bokstäver, siffror och understreck.';
 $Definition['ValidateVersion'] = 'Fältet %s är inte ett giltigt versionsnummer. See PHP-funktionen version_compare() för exempel på giltiga versionsnummer.';
