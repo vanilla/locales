@@ -534,6 +534,7 @@ $Definition['Link my existing account'] = 'Link my existing account';
 $Definition['Locale Key (Folder)'] = 'Locale Key (Folder)';
 $Definition['Locale Name'] = 'Locale Name';
 $Definition['Locales'] = 'Locales';
+$Definition['Locales allow you to support other languages on your site.'] = "Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.";
 $Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once a locale has been added to your %s folder, you can enable or disable it here.';
 $Definition['Location'] = 'Location';
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';
