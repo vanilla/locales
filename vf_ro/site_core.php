@@ -46,6 +46,7 @@ $Definition['%s hour'] = '%s oră';
 $Definition['%s hours'] = '%s ore';
 $Definition['%s Insightfuls'] = '%s Informativ';
 $Definition['%s level deep'] = '%s nivel profund';
+$Definition['%s levels deep'] = '%s nivele';
 $Definition['%s Likes'] = '%s îi place';
 $Definition['%s LOLs'] = '%s râde';
 $Definition['%s member'] = '%s membru';
@@ -397,7 +398,7 @@ $Definition['editor.HtmlHelpText'] = 'Puteţi utiliza <a href="http://htmlguide.
 $Definition['editor.MarkdownHelpText'] = 'Puteți utiliza <a href="http://en.wikipedia.org/wiki/Markdown" target="_new"> Markdown</a> în postarea dumneavoastră.';
 $Definition['editor.TextHelpText'] = 'Utilizați un text simplu în postarea dumneavoastră.';
 $Definition['editor.WysiwygHelpText'] = 'Utilizaţi <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new"> Wysiwyg</a> în postarea dumneavoastră.';
-$Definition['Edit Preferences'] = 'Editare preferintele';
+$Definition['Edit Preferences'] = 'Editare preferințele';
 $Definition['Edit Profile'] = 'Editare Profil';
 $Definition['Edit Tag'] = 'Editare tag';
 $Definition['Edit Thumbnail'] = 'Editare miniatură';
@@ -407,14 +408,14 @@ $Definition['Email/Username'] = 'Email/Nume Utilizator';
 $Definition['EmailConfirmEmail'] = 'Trebuie să confirmați adresa de E-mail înainte de a continua. Vă rugăm să confirmaţi adresa de E-mail făcând click pe link-ul următor: {/ entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 O zi placuta!';
-$Definition['EmailHeader'] = 'Salut {User.Name}!
+$Definition['EmailHeader'] = 'Bună ziua, {User.Name}!
 ';
-$Definition['EmailInvitation'] = 'Buna!
+$Definition['EmailInvitation'] = 'Bună ziua!
 
 %1$s v-a invitat să vă înscrieți pe %2$s. Haideți alături de noi, click pe linkul acesta:
 
   %3$s';
-$Definition['EmailMembershipApproved'] = 'Buna %1$s,
+$Definition['EmailMembershipApproved'] = 'Bună, %1$s.
 
 Cererea de înregistrare a fost aprobată. Puteți intra în cont acum, prin link-ul urmator:
 
@@ -558,7 +559,7 @@ $Definition['Hang on a sec while we sign you out.'] = 'Aăteptați încă o secu
 $Definition['he'] = 'el';
 $Definition['Heading'] = 'Rubrică';
 $Definition['Heading %s'] = 'Titlu %s';
-$Definition['HeadlineFormat.Badge'] = '{ActivityUserID, You} ai câştigat insigna <a href="{Url,html}"> {Data.Name,text}</a>.';
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID, You} ați câştigat insigna <a href="{Url,html}"> {Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID, tine} a blocat {ActivityUserID, you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID, utilizator} a comentat la <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID, utilizator} a început o nouă discuţie. <a href="{Url,html}"> {Data.Name,text}</a>';
@@ -579,8 +580,9 @@ $Definition['Home'] = 'Acasa';
 $Definition['hours'] = 'ore';
 $Definition['Howdy, Stranger!'] = 'Bine ai venit, vizitatorule!';
 $Definition['How long do you want this warning to last?'] = 'Cat de mult vrei sa dureze acest avertisment?';
+$Definition['How many levels deep should we start folding up quote trees?'] = 'La câte nivele doriți să extindem arborele de citate?';
 
-$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Sunt de acord cu <a id="TermsOfService" class="Popup" target="terms" href="%s">termeni si conditii</a>';
+$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Sunt de acord cu <a id="TermsOfService" class="Popup" target="terms" href="%s">termenii și condițiile</a>';
 $Definition['Icon'] = 'Pictogramă';
 $Definition['Ignore'] = 'Ignoră';
 $Definition['Ignore List'] = 'Listă Ignore';
@@ -700,26 +702,27 @@ $Definition['My Discussions'] = 'Discutiile mele';
 $Definition['My Drafts'] = 'Ciornele mele';
 $Definition['My Forums'] = 'Forumurile Mele';
 $Definition['My Groups'] = 'Grupurile mele';
-$Definition['My Preferences'] = 'Preferintele mele';
+$Definition['My Preferences'] = 'Preferințele mele';
 $Definition['My Signature'] = 'Semnătura mea';
 
 $Definition['n/a'] = 'fara';
 $Definition['Name'] = 'Nume';
+$Definition['Name Dropper'] = 'Numele Dropper';
 $Definition['Name of the Event'] = 'Numele evenimentului';
 $Definition['Name the Group'] = 'Denumiți grupul';
 $Definition['Name Unavailable'] = 'Numele indisponibil';
 $Definition['new'] = 'nou';
 $Definition['New %s'] = '%s nou';
 $Definition['New Announcement'] = 'Anunţ nou';
-$Definition['New Conversation'] = 'Incepeti o noua conversatie';
-$Definition['New Discussion'] = 'Incepeti o noua discutie';
+$Definition['New Conversation'] = 'Începeți o conversație nouă';
+$Definition['New Discussion'] = 'Începeți o discuție nouă';
 $Definition['new discussion'] = 'nou';
 $Definition['New Event'] = 'Eveniment nou';
 $Definition['New Group'] = 'Grup nou';
 $Definition['New Groups'] = 'Grupuri noi';
-$Definition['New Message'] = 'Incepeti o noua conversatie';
-$Definition['New Password'] = 'Parola noua';
-$Definition['New Poll'] = 'Poll NOU';
+$Definition['New Message'] = 'Începeți o conversație nouă';
+$Definition['New Password'] = 'Parolă nouă';
+$Definition['New Poll'] = 'Votare nouă';
 $Definition['Next'] = 'Urmatorul';
 $Definition['Ninth Anniversary'] = 'a 9-a Aniversare';
 $Definition['No'] = 'NU';
@@ -739,7 +742,7 @@ $Definition['Not Authorized (401)'] = 'Nu sunteti autorizat(401)';
 $Definition['Not Found (404)'] = 'Nu a fost gasit(404)';
 $Definition['Notice'] = 'Notificare';
 $Definition['Notification'] = 'Notificare';
-$Definition['Notification Preferences'] = 'Preferinte notificari';
+$Definition['Notification Preferences'] = 'Preferințe notificări';
 $Definition['Notifications'] = 'Notificari';
 $Definition['Notifictions'] = 'Notificări';
 $Definition['Notify'] = 'Anunta';
@@ -906,6 +909,7 @@ $Definition['Registration  Fields'] = 'Campurile Inregistrari';
 $Definition['Registration URL'] = 'URL-ul de înregistrare';
 $Definition['Reject'] = 'Respins';
 $Definition['Reject this answer.'] = 'Respinge acest raspuns.';
+$Definition['Remember me'] = 'Ține-mă minte';
 $Definition['Remember me on this computer'] = 'Tine-ma minte pe acest computer';
 $Definition['Remote Configuration'] = 'Configuratie "Remote".';
 $Definition['Remove'] = 'Elimină';
@@ -927,8 +931,8 @@ $Definition['Reported by: '] = 'Raportat de:';
 $Definition['Reported Posts'] = 'Postări raportate';
 $Definition['Report Notes'] = 'Note';
 $Definition['Report Reason'] = 'Motiv';
-$Definition['Request a new password'] = 'Cere o noua parola';
-$Definition['Request a new password →'] = 'Solicita o noua parola ';
+$Definition['Request a new password'] = 'Cere o parolă nouă';
+$Definition['Request a new password →'] = 'Solicitați o parolă nouă ';
 $Definition['Reset Password'] = 'Reseteaza Parola';
 $Definition['Restored'] = 'Restaurat';
 $Definition['reverse'] = 'inversat';
@@ -944,7 +948,7 @@ $Definition['Save'] = 'Salveaza';
 $Definition['Save Comment'] = 'Salveaza comentariul';
 $Definition['Save Draft'] = 'Salveaza ciorna';
 $Definition['Save Poll'] = 'Salveaza Poll-ul';
-$Definition['Save Preferences'] = 'Salveaza preferintele';
+$Definition['Save Preferences'] = 'Salvează preferințele';
 $Definition['Save your password'] = 'Salveaza Parola';
 $Definition['Search'] = 'Cauta';
 $Definition['Search %s'] = 'Căutaţi %s';
@@ -1012,8 +1016,8 @@ $Definition['Split'] = 'Impartit';
 $Definition['Split Comments'] = 'Imparte comentarile';
 $Definition['Spoof User'] = 'Lingură User';
 $Definition['Start a Group'] = 'Inițiați un grup';
-$Definition['Start a New Conversation'] = 'Incepeti o noua conversatie';
-$Definition['Start a New Discussion'] = 'Incepeti o noua discutie';
+$Definition['Start a New Conversation'] = 'Incepeți o conversație nouă';
+$Definition['Start a New Discussion'] = 'Începeți o discuție nouă';
 $Definition['Start Conversation'] = 'Incepeti conversatia';
 $Definition['Started By'] = 'Inceput de ';
 $Definition['Started by'] = 'Inițiat de';
@@ -1028,6 +1032,7 @@ $Definition['Suggested Value'] = 'Valoarea sugerata';
 
 $Definition['Tagged'] = 'Taguit';
 $Definition['Tagged with '] = 'taguit cu ';
+$Definition['Tagged with "%s"'] = 'Taguit cu "%s"';
 $Definition['Tagging'] = 'Taguieste';
 $Definition['TagHint'] = 'Începeţi să tastaţi...';
 $Definition['Tag Name'] = 'Numele tag-ului';
@@ -1044,49 +1049,49 @@ $Definition['Terms'] = 'Termeni';
 $Definition['TermsOfService'] = 'Termeni si conditii';
 $Definition['Terms of Service'] = 'Termeni si conditii';
 $Definition['TermsOfServiceText'] = '
-	<h1>TERMENII SI CONDITIILE DE UTILIZARE:</h1>
-	<p>Noi, echipa NUME SITE si NUME SITE dorim ca prin acest regulament 
-	intern de functionare al acestei comunitati sa intelegeti ca numai asa
-	putem pastra acest site in scopul creat, acela de comunicare si relationare intre persoane, prin reguli simple si corecte! 
-	Se considera ca prin accesarea acestui forum, 
-	ATI LUAT LA CUNOSTIINTA TERMENII SI CONDITIILE 
-	exprimate in continuare, si ca 
-	ATI RESPECTAT INTOCMAI ACESTE REGULI!</p>
+	<h1>TERMENII ȘI CONDIȚIILE DE UTILIZARE:</h1>
+	<p>Noi, echipa de administrare a site-ului dorim ca prin acest regulament 
+	intern de funcționare al acestei comunități să înțelegeți că numai așa
+	putem păstra acest site în scopul creat, acela de comunicare și relaționare între persoane, prin reguli simple, transparente și corecte! 
+	Se consideră că prin accesarea acestui forum, 
+	AȚI LUAT LA CUNOȘTIINȚĂ TERMENII ȘI CONDIȚIILE 
+	exprimate în continuare, și că 
+	AȚI RESPECTAT ÎNTOCMAI ACESTE REGULI!</p>
 	
-   <p>Sunteti de acord, prin utilizarea acestui serviciu, ca nu veti folosi aceasta
-    comunitate pentru a posta orice material care este cu buna stiinta false si / sau defaimatoare,
-    inexact, abuziv, vulgar, rasist, de hartuire, obscen, profan, cu specific sexual, 
-	amenintatoare, care invadeaza intimitatea unei persoane, sau altfel interzise
-    de vreo lege in viguare in Romania sau UE.</p> 
+   <p>Sunteți de acord, prin utilizarea acestui serviciu, că nu veți folosi această
+    comunitate pentru a posta vreun material care este cu buna stiință fals si / sau defăimător,
+    inexact, abuziv, vulgar, rasist, de hărțuire, obscen, profan, cu specific sexual, 
+	amenințător, care invadează intimitatea unei persoane, sau altfel interzis
+    de vreo lege în viguare în România sau UE.</p> 
 	
-	<p>Sunteti de acord sa nu postati orice material protejat de copyright
-	exceptia cazului in care dreptul de autor este detinut de catre dumneavoastra.</p>
+	<p>Sunteți de acord să nu postați vreun material protejat de copyright
+	excepția cazului în care dreptul de autor este deținut de către dumneavoastră.</p>
    
-   <p>Noi cei de la aceasta comunitate ne rezervam de asemenea dreptul de a va divulga identitatea (sau
-    orice informatii pe care le stim despre dvs.), doar in cazul unei plangeri sau 
-	in cazul unei actiuni juridice care decurge din orice mesaj postat de tine. 
-	Noi inregistram prin acest site toate adresele de accesare IP, 
-	asa ca nu cosiderati ca daca folositi date false la inregistrare 
-	nu se va dovedi ca o persoana a publicat un material ilicit.</p>
+   <p>Noi cei de la această comunitate ne rezervăm de asemenea dreptul de a vă divulga identitatea (sau
+    orice informații pe care le știm despre dvs.), STRICT în cazul unei plângeri sau 
+	în cazul unei acțiuni juridice care decurge din orice mesaj postat de către dumneavoastră. 
+	Noi înregistram prin acest site toate adresele de accesare IP, 
+	așa că nu cosiderați că dacă folosiți date false la înregistrare 
+	nu se va dovedi că o persoană a publicat un material ilicit.</p>
    
-   <p>Va rugam sa retineti ca reclamele, scrisorile in lant, schemele piramidale, si
-    solicitarile sunt nepotrivite in aceasta comunitate. 
-	Reactiunea noastra va fi de interzicere a accesului IP-lui respectiv!</p>
+   <p>Vă rugăm să rețineti că reclamele, scrisorile în lanț, schemele piramidale și
+    solicitările sunt nepotrivite în această comunitate. 
+	Reacțiunea noastră va fi de interzicere a accesului IP-lui și utilizatorului respectiv!</p>
    
-   <p>Ne rezervam dreptul de a elimina orice continut pentru orice motiv sau fara motiv! 
-   Ne rezervam dreptul de a interzice orice membru pentru orice motiv sau nici un motiv.
-   Nu stocam date cu privire la CNP, BI, CI, PASAPORT si deasemeni va rugam sa nu 
-   specificati pe acest site asemenea date personale de identificare, 
-   la nimeni si pentru nici un motiv, indiferent care ar fi acesta!</p>
+   <p>Ne rezervăm dreptul de a elimina orice conținut pentru orice motiv mai sus menționat! 
+   Ne rezervăm dreptul de a interzice orice membru pentru orice motiv mai sus menționat.
+   Nu stocăm date cu privire la CNP, BI, CI, PAȘAPORT și deasemeni vă rugăm să nu 
+   specificați pe acest site asemenea date personale de identificare, 
+   la nimeni și pentru nici un motiv, indiferent care ar fi acesta!</p>
    
-   <p>Trebuie sa aveti cel putin 13 ani pentru a utiliza acest serviciu.</p>
+   <p>Trebuie să aveți cel putin 18 ani pentru a utiliza acest serviciu.</p>
    
-   <p>SUNT TOTAL DE ACCORD CU TERMENII SI CONDITIILE DE MAI SUS,
-   SI CA ATARE VOI RESPECTA ACESTE REGULI NECONDITIONAT, 
-   IN CAZ CONTRAR IMI ASUM TOATA RESPONSABILITATEA JURIDICA 
-   ASUPRA FAPTELOR MELE CIVILE SAU/SI PENALE!</p>
+   <p>SUNT TOTAL DE ACCORD CU TERMENII ȘI CONDIȚIILE DE MAI SUS,
+   ȘI CA ATARE VOI RESPECTA ACESTE REGULI NECONDIȚIONAT, 
+   ÎN CAZ CONTRAR ÎMI ASUM TOATĂ RESPONSABILITATEA JURIDICĂ 
+   ASUPRA FAPTELOR MELE CIVILE ȘI/SAU PENALE!</p>
    
-   <h1>SLOGAN NUME SITE</h1>
+
 ';
 $Definition['Text  Max  Length'] = 'Lungimea maxima a text-ului';
 $Definition['The %s you were looking for could not be found.'] = 'Imposibil de găsit %s ';
@@ -1104,7 +1109,7 @@ $Definition['There\'s already a %s with the name %s.'] = 'Există deja %1$s cu n
 $Definition['There aren\'t any groups yet.'] = 'Nu există niciun grup încă.';
 $Definition['There are no tags in the system yet.'] = 'Momentan nu exista tag-uri in sistem.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'Valoarea reCAPTCHA nu a fost introdusa corect';
-$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Exista deja un cont cu acelas utilizator (%1$s) sau e-mail (%2$s). Ai posibilitatea sa creezi un nou count sau sa introduci datele pentru contul aflat deja in sistem.';
+$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Există deja un cont cu același nume de utilizator (%1$s) sau e-mail (%2$s). Aveți posibilitatea să creați un nou count sau să introduceți datele pentru contul aflat deja în sistem.';
 $Definition['The response was not in the correct format.'] = 'Raspunsul nu a fost in formatul corect';
 $Definition['There was an error connecting to Disqus'] = 'Sa produs o eroare in conectarea cu Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Sa produs o eroare in conectarea cu Faceboo';
@@ -1112,6 +1117,7 @@ $Definition['There was an error uploading the file. It is most likely because th
 $Definition['The site is currently undergoing maintenance.'] = 'Websitul este momentan sub mentenanta';
 $Definition['The uploaded file was too big (max %s).'] = 'Fisierul uploadat este prea mare (marimea maxima %s).';
 $Definition['The user has already been warned for this %s.'] = 'Utilizatorul a fost deja avertizat pentru  %s.';
+$Definition['The user isn\'t banned.'] = 'Utilizatorul nu este blocat sau e blocat de către o altă funcție.';
 $Definition['they'] = 'ei';
 $Definition['Third Anniversary'] = 'A 3-a Aniversare';
 $Definition['This answer was %s.'] = 'Acest raspuns a fost %s.';
@@ -1203,6 +1209,7 @@ $Definition['ValidateInteger'] = '%s nu este un numar intreg valid.';
 $Definition['ValidateIntegerArray'] = '%s trebuie să fie o listă de numere despărțite prin virgulă';
 $Definition['ValidateLength'] = '%1$s este cu %2$s caractere mai lung.';
 $Definition['ValidateMatch'] = 'Campurile %s nu se potrivesc.';
+$Definition['ValidateMinimumAge'] = 'Nu aveți vârsta necesară pentru a accesa această comunitate.';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Trebuie sa selectati cel pu';
 $Definition['ValidateRegex'] = '%s nu pare sa fie in formatul corect.';
 $Definition['ValidateRequired'] = '%s este necesar.';
@@ -1255,6 +1262,7 @@ $Definition['Where do you want to announce this discussion?'] = 'Unde doriţi s�
 $Definition['Who\'s going?'] = 'Cine va participa?';
 $Definition['Who\'s Online'] = 'Cine este Online';
 $Definition['Who\'s Online in this Category'] = 'Cine este online în această categorie';
+$Definition['Who\'s Online in this Discussion'] = 'Cine e online în această discuție';
 $Definition['Whoops!'] = 'Hopa!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Hopa! Trebuie să vă  înregistrați înainte de';
 $Definition['Why are you Banning this user?'] = 'De ce blocați acest utilizator?';
@@ -1263,6 +1271,7 @@ $Definition['Would you like to accept the invitation to join this group?'] = 'Do
 $Definition['Write a comment'] = 'Scrie un comentariu';
 $Definition['Write Comment'] = 'Scrie comentariu';
 $Definition['Write something about yourself...'] = 'Descrie-te pe tine...';
+$Definition['WTF'] = 'Ce naiba...';
 
 $Definition['Yes'] = 'da';
 $Definition['You'] = 'Tu';
@@ -1281,7 +1290,7 @@ $Definition['You are about to unban {User.UserID,user}.'] = 'Sunteți pe cale de
 $Definition['You are allowed to create %s groups.'] = 'Aveţi perminisiunea de a crea %s grupuri';
 $Definition['You are already a member of this group.'] = 'Sunteți deja membru al acestui grup';
 $Definition['You are connected as %s through %s.'] = 'Esti conectat ca %s prin %s.';
-$Definition['You are connected through %2$s.'] = 'Sunteți conectat prin %2$s';
+$Definition['You are connected through %2$s.'] = 'Sunteți conectat la %2$s';
 $Definition['You are currently only viewing categories that you follow.'] = 'Vizualizați în acest moment doar categoriile pe care le urmăriți';
 $Definition['You are currently viewing all categories.'] = 'Vizualizați în acest moment toate categoriile';
 $Definition['You are editing %s\'s signature'] = 'Editaţi semnătura lui %s';
