@@ -2,7 +2,7 @@
 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" nu a fost găsit';
 $Definition['%1$s Version %2$s'] = '%1$s versiunea %2$s';
-$Definition['%1$s version %2$s is available.'] = '%1$s versiunea %2$s este disponibila';
+$Definition['%1$s version %2$s is available.'] = '%1$s versiunea %2$s este disponibilă';
 $Definition['%s is not a valid email address'] = '%s nu este o adresă de E-mail validă';
 $Definition['%s item in queue'] = '%s element din șir';
 $Definition['%s level'] = 'nivelul %s';
