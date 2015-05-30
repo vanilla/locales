@@ -268,6 +268,7 @@ $Definition['default'] = 'default';
 $Definition['Default  Category'] = 'Default  Category';
 $Definition['Default %s Permissions'] = 'Default %s Permissions';
 $Definition['Default Category Permissions'] = 'Default Category Permissions';
+$Definition['default type'] = 'default';
 $Definition['Default Locale'] = 'Default Locale';
 $Definition['Default Roles'] = 'Default Roles';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
