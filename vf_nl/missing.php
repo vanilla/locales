@@ -13,6 +13,7 @@ $Definition['Condition Field'] = 'Field';
 $Definition['Condition Type'] = 'Type';
 $Definition['CreateFile'] = 'Create';
 
+$Definition['default type'] = 'default';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['DownloadLocalePack'] = 'Download';
 

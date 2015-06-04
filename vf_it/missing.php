@@ -17,6 +17,7 @@ $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 
+$Definition['default type'] = 'default';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
 $Definition['DownloadLocalePack'] = 'Download';

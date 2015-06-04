@@ -25,6 +25,7 @@ $Definition['Date.DefaultFormat'] = '%B %e, %Y';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
+$Definition['default type'] = 'default';
 $Definition['Deny Applicant'] = 'Deny';
 
 $Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';

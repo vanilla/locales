@@ -64,6 +64,7 @@ $Definition['Date.DefaultFormat'] = '%B %e, %Y';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
+$Definition['default type'] = 'default';
 $Definition['Define Thumbnail'] = 'Click and drag across the picture to define your thumbnail.';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';

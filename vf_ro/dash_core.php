@@ -260,6 +260,7 @@ $Definition['Default  Category'] = 'Categorie implicită';
 $Definition['Default Category Permissions'] = 'Permisiuni categorii implicite';
 $Definition['Default Locale'] = 'Setări locale implicite';
 $Definition['Default Roles'] = 'Roluri implicite';
+$Definition['default type'] = 'implicit';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Definiți cine poate adăuga și gestiona fișiere pe pagina <a href="%s">Roluri & Permisiuni</a> ';
 $Definition['Define your forum homepage'] = 'Definiți pagina de start a forumului';
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Definiți pagina de start a forumului, actualizați logo-ul si mai mult...';

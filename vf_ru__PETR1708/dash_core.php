@@ -261,6 +261,7 @@ $Definition['Default  Category'] = 'Раздѣлъ по умолчанію';
 $Definition['Default Category Permissions'] = 'Разрѣшенія на категоріи по умолчанію';
 $Definition['Default Locale'] = 'Языкъ по-умолчанію';
 $Definition['Default Roles'] = 'Группа для новыхъ пользователей по умолчанію';
+$Definition['default type'] = 'по умолчанию';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Определите, кто уполномочен управлять содержимым страницы <a href="%s">Роли и права</a>.';
 $Definition['Define your forum homepage'] = 'Назначь главную страницу для форума';
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Ты можешь измѣнить главную страницу, загрузить свой логотипъ, и еще много всякой всячины...';

@@ -1,5 +1,7 @@
 <?php
 
+$Definition['default type'] = 'default';
+
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 

@@ -1,5 +1,6 @@
 <?php
 
+$Definition['default type'] = 'default';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 
 $Definition['Every %s hour'] = 'Every hour';

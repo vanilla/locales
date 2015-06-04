@@ -37,6 +37,7 @@ $Definition['Connect your profile to social networks.'] = 'Connect your profile 
 $Definition['CreateFile'] = 'Create';
 
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
+$Definition['default type'] = 'default';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
 $Definition['DownloadLocalePack'] = 'Download';

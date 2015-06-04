@@ -5,6 +5,8 @@ $Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
 $Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
 $Definition['BanReason.8'] = 'Banned by warnings.';
 
+$Definition['default type'] = 'default';
+
 $Definition['EmailWelcomeRegister'] = 'You have successfully registered for an account at {Title}. Here is your information:
 
   Username: {User.Name}
