@@ -263,6 +263,7 @@ $Definition['Default  Category'] = '默认 类别';
 $Definition['Default Category Permissions'] = '默认板块权限';
 $Definition['Default Locale'] = '默认语言';
 $Definition['Default Roles'] = '默认用户角色';
+$Definition['default type'] = '默认';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = '设定能在 <a href="%s">角色与权限</a> 页面上传及管理文件的用户。';
 $Definition['Define your forum homepage'] = '定义您的社区首页';
 $Definition['Define your forum homepage, upload your logo, and more...'] = '定义您的社区首页，上传LOGO，以及其他...';
