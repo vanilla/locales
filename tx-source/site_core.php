@@ -91,6 +91,7 @@ $Definition['%s weeks'] = '%s weeks';
 $Definition['%s WTFs'] = '%s WTFs';
 
 $Definition['(empty message)'] = '(empty message)';
+$Definition['(Spoiler)'] = '(Spoiler)';
 
 $Definition['+%s Guests'] = '+%s Guests';
 
