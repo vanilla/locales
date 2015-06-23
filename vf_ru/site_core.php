@@ -96,6 +96,7 @@ $Definition['%s years'] = '%s года';
 
 $Definition['(All)'] = '(Все)';
 $Definition['(empty message)'] = '(пустое сообщение)';
+$Definition['(Spoiler)'] = '(Спойлер)';
 
 $Definition['+%s Guests'] = '+%s гостей';
 
