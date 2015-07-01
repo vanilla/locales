@@ -1341,6 +1341,8 @@ $Definition['You have selected %1$s.'] = 'You have selected %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'You have selected %1$s in this discussion.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'You have to select at least 2 discussions to merge.';
 $Definition['You must agree to the terms of service.'] = 'You must agree to the terms of service.';
+$Definition['You must be at least %d years old to register.'] = 'You must be at least %d years old to register.';
+$Definition['You must confirm you have received consent to register.'] = 'You must confirm you have received consent to register.';
 $Definition['You need to confirm your email address.'] = 'You need to confirm your email address. Click <a href="{/entry/emailconfirmrequest,url}">here</a> to resend the confirmation email.';
 $Definition['You need to sign in before you can do this.'] = 'You need to sign in before you can do this.';
 $Definition["You've asked questions that have now been answered"] = "<a href=\"{/discussions/mine?qna=Answered,url}\">You've asked questions that now have answers</a>. Make sure you accept/reject the answers.";
