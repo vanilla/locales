@@ -578,7 +578,7 @@ $Definition['Heading %s'] = 'عنوان %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} حصل على <a href="{Url,html}">{Data.Name,text}</a> كشارة.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} حظر {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} علّق على <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.ConversationMessage'] = '{مُعرف مستخدم النشاط، مستخدم} أرسل لك <a href="{Url,html}"> رسالة </a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} أرسل لك <a href="{Url,html}"> رسالة </a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ذكرك في <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} غيّر الصورة الشخصية ل{ActivityUserID,user}.';
