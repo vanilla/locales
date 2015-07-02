@@ -573,6 +573,7 @@ $Definition['Heading %s'] = 'Főcím %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} kiérdemelted a <a href="{Url,html}">{Data.Name,text}</a> plecsnit.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} kitoltotta {ActivityUserID,you}-t.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommentelt itt: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{AktivitásFelhasználóiAzonosító, Felhasználó} küldött egy <a href="{Url,html}"> üzenetet </a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} új beszélgetést kezdett. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} megemlített a  <a href="{Url,html}">{Data.Name,text}</a> -ban';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} megváltoztatta {ActivityUserID,user} profilképét.';
@@ -595,6 +596,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'H
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Elfogadom a <a id="TermsOfService" class="Popup" target="terms" href="%s"> szabályzatot.</a>';
 $Definition['Icon'] = 'Ikon';
+$Definition['I confirm that I have received consent to join this community.'] = 'Mivel %d évnél fiatalabb vagyok, ezért igazolom, hogy engedélyt kaptam a regisztrációhoz.';
 $Definition['Ignore'] = 'Mellőzni';
 $Definition['Ignore List'] = 'Mellőzött lista';
 $Definition['Ignore Someone'] = 'Mellőzni valakit';
@@ -1307,6 +1309,8 @@ $Definition['You have selected %1$s.'] = '%1$s-t válaszottad.';
 $Definition['You have selected %1$s in this discussion.'] = '%1$s-t választottad ebben a beszélgetésben.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Legalább két beszélgetést kell kiválasztanod az összefűzésükhöz.';
 $Definition['You must agree to the terms of service.'] = 'A szabályzatot el kell fogadnod!';
+$Definition['You must be at least %d years old to register.'] = 'Legalább %d évesnek kell lennie a regisztrációhoz.';
+$Definition['You must confirm you have received consent to register.'] = 'Vissza kell igazolnia hogy engedélyt kapott a regisztrációhoz.';
 $Definition['You need to confirm your email address.'] = 'Meg kell erősítened az email címed. Kattints <a href="{/entry/emailconfirmrequest,url}">erre a linkre</a> a megerősítő email újraküldéséhez.';
 $Definition['You need to sign in before you can do this.'] = 'Be kell jelentkezned, hogy ezt megtehesd.';
 $Definition['your'] = 'Tied';

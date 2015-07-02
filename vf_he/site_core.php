@@ -92,6 +92,7 @@ $Definition['%s years'] = '%s שנים';
 
 $Definition['(All)'] = '(הכל)';
 $Definition['(empty message)'] = '(הודעה ריקה)';
+$Definition['(Spoiler)'] = '(ספוילר)';
 
 $Definition['+%s Guests'] = '+%s אורחים';
 
@@ -579,6 +580,7 @@ $Definition['Heading %s'] = 'כותרת %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} הרוויח  <a href="{Url,html}">{Data.Name,text}</a> אות הצטיינות';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} חסם {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} הגיב על <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User}  שלח לך <a href="{Url,html}"> הודעה</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}  ציין אותך ב  <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}שינה את תמונת המשתמש ל {ActivityUserID,user}.';
@@ -601,6 +603,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'אני מסכים לתנאי השירות ‪‬במונחים של שירות';
 $Definition['Icon'] = 'אייקון';
+$Definition['I confirm that I have received consent to join this community.'] = 'כיוון שאני בן/בת פחות מ-%d, אני מאשר/ת שקיבלתי רשות להצטרף לקהילה זו.';
 $Definition['Ignore'] = 'התעלם';
 $Definition['Ignore List'] = 'רשימת ההתעלמויות';
 $Definition['Ignore Someone'] = 'התעלם ממישהו';
@@ -1338,6 +1341,8 @@ $Definition['You have selected %1$s.'] = 'אתה בחרת %1$s';
 $Definition['You have selected %1$s in this discussion.'] = 'אתה בחרת %1$s בדיון הזה';
 $Definition['You have to select at least 2 discussions to merge.'] = 'אתה חייב לבחור לפחות 2 דיונים למזג';
 $Definition['You must agree to the terms of service.'] = 'אתה חייב להסכים לתנאי השירות';
+$Definition['You must be at least %d years old to register.'] = 'עליכם להיות בני לפחות %d כדי להירשם.';
+$Definition['You must confirm you have received consent to register.'] = 'עליכם לאשר שקיבלתם רשות להירשם.';
 $Definition['You need to confirm your email address.'] = 'אתה צריך לאשר את כתובת הדוא"ל שלך.
  <a href="{/entry/emailconfirmrequest,url}">here</a>';
 $Definition['You need to sign in before you can do this.'] = 'אתה צריך להתחבר לפני שתוכל לעשות את זה.';

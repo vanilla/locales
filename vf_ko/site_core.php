@@ -92,6 +92,7 @@ $Definition['%s years'] = '%s년';
 
 $Definition['(All)'] = '(모두)';
 $Definition['(empty message)'] = '(내용 무) ';
+$Definition['(Spoiler)'] = '(스포일러)';
 
 $Definition['+%s Guests'] = '+%s 손님들';
 
@@ -571,6 +572,7 @@ $Definition['Heading %s'] = '헤딩 %s';
 $Definition['HeadlineFormat.Badge'] = '{아이디,당신}이  <a href="{Url,html}">{날짜.이름,글}</a> 배지를 획득했습니다.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You}님이 {ActivityUserID,you}님의 사용을 금지시켰습니다.';
 $Definition['HeadlineFormat.Comment'] = '{아이디, 사용자} commented on <a href="{Url,html}">{날짜.이름,글}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User}님이 <a href="{Url,html}">메시지</a>를 보냈습니다';
 $Definition['HeadlineFormat.Discussion'] = '{아이디, 사용자} 새로운 토론을 시작했습니다. <a href="{Url,html}">{날짜.이름,글}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}님이 <a href="{Url,html}">{Data.Name,text}</a>에서 귀하에 대해 언급했습니다';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}님이 {ActivityUserID,user}의 프로필 사진을 변경했습니다.';
@@ -593,6 +595,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '<a id="TermsOfService" class="Popup" target="terms" href="%s">서비스 약관</a>에 동의합니다.';
 $Definition['Icon'] = '아이콘';
+$Definition['I confirm that I have received consent to join this community.'] = '본인의 나이는 만으로 %d세 미만이므로, 이 커뮤니티 가입에 대한 동의를 받았음을 확인합니다.';
 $Definition['Ignore'] = '무시';
 $Definition['Ignore List'] = '목록 무시';
 $Definition['Ignore Someone'] = '누군가를 무시';
@@ -1318,6 +1321,8 @@ $Definition['You have selected %1$s.'] = '%1$s를 선택하셨습니다.';
 $Definition['You have selected %1$s in this discussion.'] = '이 논의에서 %1$s 을 선택했습니다.';
 $Definition['You have to select at least 2 discussions to merge.'] = '하나로 합치려면 최소한 두 개의 논의를 선택해야 합니다. ';
 $Definition['You must agree to the terms of service.'] = '서비스 약관에 동의하셔야 합니다.';
+$Definition['You must be at least %d years old to register.'] = '등록하려면 만으로 %d세 이상이어야 합니다.';
+$Definition['You must confirm you have received consent to register.'] = '등록에 대한 동의를 받았음을 확인하셔야 합니다.';
 $Definition['You need to confirm your email address.'] = '이메일 주소를 확인하셔야 합니다. 확인 메일을 다시 보내시려면 <a href="{/entry/emailconfirmrequest,url}">여기</a>를 누르십시오.';
 $Definition['You need to sign in before you can do this.'] = '이것을 하려면 접속해야 합니다.';
 $Definition['your'] = '당신의';

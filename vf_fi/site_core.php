@@ -92,6 +92,7 @@ $Definition['%s years'] = '%s vuotta';
 
 $Definition['(All)'] = '(Kaikki)';
 $Definition['(empty message)'] = '(viestiss&auml; ei ole sis&auml;lt&ouml;&auml;)';
+$Definition['(Spoiler)'] = '(Juonipaljastus)';
 
 $Definition['+%s Guests'] = '+%s vierasta';
 
@@ -600,6 +601,7 @@ $Definition['Heading %s'] = 'Otsikko %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} ansaitsi(t) <a href="{Url,html}">{Data.Name,text}</a> kunniamerkin.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} asetit eston j&auml;senelle  {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommentoi seuraavaa: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} lähetti sinulle <a href="{Url,html}">viestin</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mainitsi sinut keskustelussa <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} vaihtoi profiilikuvan j&auml;senelle  {ActivityUserID,user}.';
@@ -622,6 +624,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'K
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Hyv&auml;ksyn <a id="TermsOfService" class="Popup" target="terms" href="%s">k&auml;ytt&ouml;ehdot ja s&auml;&auml;nn&ouml;t</a>';
 $Definition['Icon'] = 'Kuvake';
+$Definition['I confirm that I have received consent to join this community.'] = 'Koska olen alle %d vuotta vanha, vahvistan saaneeni huoltajan suostumuksen tähän yhteisöön liittymistä varten. ';
 $Definition['Ignore'] = 'Jätä huomioimatta';
 $Definition['Ignore List'] = 'Jätä lista huomioimatta';
 $Definition['Ignore Someone'] = 'Jätä jonkun viestit huomioimatta';
@@ -1353,6 +1356,8 @@ $Definition['You have selected %1$s.'] = 'Olet valinnut %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Olet valinnut %1$s t&auml;ss&auml; keskustelussa.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Valitse ainakin kaksi keskustelua ensin yhdist&auml;&auml;ksesi ne.';
 $Definition['You must agree to the terms of service.'] = 'Sinun pit&auml;&auml; hyv&auml;ksy&auml; s&auml;&auml;nn&ouml;t ja k&auml;ytt&ouml;ehdot ensin.';
+$Definition['You must be at least %d years old to register.'] = 'Sinun on oltava vähintään %d vuotta vanha rekisteröityäksesi.';
+$Definition['You must confirm you have received consent to register.'] = 'Sinun on vahvistettava, että olet saanut huoltajan suostumuksen rekisteröitymistä varten.';
 $Definition['You need to confirm your email address.'] = 'Sinun t&auml;ytyy viel&auml; vahvistaa s&auml;hk&ouml;postiosoitteesi. Klikkaa <a href="{/entry/emailconfirmrequest,url}">t&auml;st&auml;</a> l&auml;hett&auml;&auml;ksesi vahvistuss&auml;hk&ouml;postin.';
 $Definition['You need to sign in before you can do this.'] = 'Sinun pit&auml;&auml;  kirjautua sis&auml;&auml;n ensin.';
 $Definition['your'] = 'oman';

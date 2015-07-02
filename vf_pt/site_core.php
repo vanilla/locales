@@ -91,6 +91,7 @@ $Definition['%s years'] = '%s anos';
 
 $Definition['(All)'] = '(Todos)';
 $Definition['(empty message)'] = '(mensagem vazia)';
+$Definition['(Spoiler)'] = '("Spoiler")';
 
 $Definition['+%s Guests'] = '+%s Visitantes';
 
@@ -588,6 +589,7 @@ $Definition['Heading %s'] = 'Título %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} conquistou a medalha<a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} baniu {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} comentou em <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} enviou-lhe uma <a href="{Url,html}">mensagem</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} começou um novo tópico. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mencionou você em <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} mudou a imagem de perfil para {ActivityUserID,user}.';
@@ -610,6 +612,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'V
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Eu concordo com os<a id="TermsOfService" class="Popup" target="terms" href="%s">termos de serviço</a>';
 $Definition['Icon'] = 'Ícone';
+$Definition['I confirm that I have received consent to join this community.'] = 'Uma vez que tenho menos de %d anos de idade, confirmo que recebi autorização para aderir a esta comunidade.';
 $Definition['Ignore'] = 'Ignorar';
 $Definition['Ignore List'] = 'Lista de ignorados';
 $Definition['Ignore Someone'] = 'Ignorar alguém';
@@ -1331,6 +1334,8 @@ $Definition['You have selected %1$s.'] = 'Você selecionou %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Você selecionou %1$s neste tópico.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Você precisa selecionar ao menos 2 tópicos para mesclar.';
 $Definition['You must agree to the terms of service.'] = 'Você precisa concordar com os termos de serviço.';
+$Definition['You must be at least %d years old to register.'] = 'Deve ter pelo menos %d anos de idade para se registar.';
+$Definition['You must confirm you have received consent to register.'] = 'Deve confirmar que recebeu autorização para se registar.';
 $Definition['You need to confirm your email address.'] = 'Você precisa confirmar seu email. Clique <a href="{/entry/emailconfirmrequest,url}">aqui</a> para reenviar a confirmação.';
 $Definition['You need to sign in before you can do this.'] = 'Você precisa entrar antes de fazer isso.';
 $Definition['your'] = 'sua';

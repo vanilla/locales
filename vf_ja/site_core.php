@@ -93,6 +93,7 @@ $Definition['%s years'] = '%s年';
 
 $Definition['(All)'] = '(全て)';
 $Definition['(empty message)'] = '(空白のメッセージ) ';
+$Definition['(Spoiler)'] = '(スポイラー)';
 
 $Definition['+%s Guests'] = '+%s人のゲスト';
 
@@ -596,6 +597,7 @@ $Definition['Heading %s'] = '表題%s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You}は<a href="{Url,html}">{Data.Name,text}</a>のバッジを獲得しています。';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You}が{ActivityUserID,you}を禁止しました。';
 $Definition['HeadlineFormat.Comment'] = ' {ActivityUserID,user} が <a href="{Url,html}">{Data.Name,text}</a>にコメントしました。 ';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} から<a href="{Url,html}">メッセージ</a>が届いてます';
 $Definition['HeadlineFormat.Discussion'] = ' {ActivityUserID,user} 新しいディスカッションを開始しました。 <a href="{Url,html}">{Data.Name,text}</a> ';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} が<a href="{Url,html}">{Data.Name,text}</a>で、あなたについて語っています。';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = ' {RegardingUserID,You} が {ActivityUserID,user}のプロフィール写真を変更しました。 ';
@@ -618,6 +620,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '<a id="TermsOfService" class="Popup" target="terms" href="%s">利用規約</a>に同意します';
 $Definition['Icon'] = 'アイコン';
+$Definition['I confirm that I have received consent to join this community.'] = '私は%d才未満ですので、このコミュニティに参加するための同意を得ていることを確認します。';
 $Definition['Ignore'] = '拒否する';
 $Definition['Ignore List'] = '拒否リスト';
 $Definition['Ignore Someone'] = '誰かを拒否する';
@@ -1351,6 +1354,8 @@ $Definition['You have selected %1$s.'] = 'あなたは %1$s を選択しまし�
 $Definition['You have selected %1$s in this discussion.'] = 'あなたはこのディスカッションにおいて %1$s を選択しました。';
 $Definition['You have to select at least 2 discussions to merge.'] = 'マージするには少なくとも 2 つのディスカッションを選択してください。';
 $Definition['You must agree to the terms of service.'] = '利用規約に同意してください。';
+$Definition['You must be at least %d years old to register.'] = 'ご登録は%d歳以上に限らせて頂きます。';
+$Definition['You must confirm you have received consent to register.'] = 'ご登録に同意頂けていることを確認して頂く必要があります。';
 $Definition['You need to confirm your email address.'] = 'メールアドレスを確認する必要があります。確認のメールを再送するには<a href="{/entry/emailconfirmrequest,url}">ここ</a> をクリックしてください。';
 $Definition['You need to sign in before you can do this.'] = 'その操作を行うにはサインインしてください。';
 $Definition['your'] = 'あなたの';

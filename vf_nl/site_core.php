@@ -593,6 +593,7 @@ $Definition['Heading %s'] = 'Titel %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} heeft de <a href="{Url,html}">{Data.Name,text}</a> badge verdiend.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} heeft {ActivityUserID,you} verbannen.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} reageerde op <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} stuurde je een  <a href="{Url,html}">bericht</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActiviteitGebruikersID,gebruiker} heeft een nieuwe discussie gestart. <a href="{Url,html}">{Gegevens.Naam,tekst}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} noemde jouw in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} veranderde de profielfoto voor {ActivityUserID,user}.';

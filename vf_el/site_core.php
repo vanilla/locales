@@ -92,6 +92,7 @@ $Definition['%s years'] = '%s έτη';
 
 $Definition['(All)'] = '(Όλα)';
 $Definition['(empty message)'] = '(κενό μήνυμα)';
+$Definition['(Spoiler)'] = '(Αποκάλυψη)';
 
 $Definition['+%s Guests'] = '+%s Επισκέπτες';
 
@@ -577,6 +578,7 @@ $Definition['Heading %s'] = 'Τίτλος %s';
 $Definition['HeadlineFormat.Badge'] = 'Ο χρήστης {ActivityUserID,You} κέρδισε το Έμβλημα <a href=\'{Url,html}\'>{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = 'Ο χρήστης {RegardingUserID,You} απέκλησε το χρήστη {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = 'Ο χρήστης {ActivityUserID,user} σχολίασε στο <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} σας έστειλε ένα  <a href="{Url,html}">message</a>';
 $Definition['HeadlineFormat.Discussion'] = 'Ο χρήστης {ActivityUserID,user} ξεκίνησε μία νέα συζήτηση. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = 'Ο χρήστης {ActivityUserID,user} σας ανέφερε στο <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = 'Ο χρήστης {RegardingUserID,You} άλλαξε την εικόνα προφίλ του χρήστη {ActivityUserID,user}.';
@@ -599,6 +601,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Συμφωνώ με τους <a id="TermsOfService" class="Popup" target="terms" href="%s">όρους χρήστης</a>';
 $Definition['Icon'] = 'Εικονίδιο';
+$Definition['I confirm that I have received consent to join this community.'] = 'Καθώς είμαι κάτω από %d ετών, επιβεβαιώνω ότι έχω την άδεια να συμμετέχω σε αυτήν την κοινότητα.';
 $Definition['Ignore'] = 'Αγνόησε';
 $Definition['Ignore List'] = 'Αγνοήστε τη λίστα';
 $Definition['Ignore Someone'] = 'Αγνόησε κάποιον';
@@ -1332,6 +1335,8 @@ $Definition['You have selected %1$s.'] = 'Έχετε επιλέξει %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Έχετε επιλέξει %1$s σε αυτή τη συζήτηση.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Πρέπει να επιλέξετε τουλάχιστον 2 συζητήσεις για συνένωση.';
 $Definition['You must agree to the terms of service.'] = 'Πρέπει να συμφωνήσετε με τους όρους της υπηρεσίας.';
+$Definition['You must be at least %d years old to register.'] = 'Θα πρέπει να είστε τουλάχιστον %d ετών για να εγγραφείτε.';
+$Definition['You must confirm you have received consent to register.'] = 'Θα πρέπει να επιβεβαιώσετε ότι έχετε την άδεια να εγγραφείτε.';
 $Definition['You need to confirm your email address.'] = 'Πρέπει να επιβεβαιώσετε τη διαύθυνση email σας. Πατήστε <a href="{/entry/emailconfirmrequest,url}">εδώ</a> για να σας αποσταλεί το email επιβεβαίωσης.';
 $Definition['You need to sign in before you can do this.'] = 'Πρέπει να συνδεθείτε πριν το κάνετε αυτό.';
 $Definition['your'] = 'δικό σας';

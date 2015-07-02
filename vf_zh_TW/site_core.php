@@ -92,6 +92,7 @@ $Definition['%s years'] = '%s 年';
 
 $Definition['(All)'] = '（所有）';
 $Definition['(empty message)'] = '(空訊息)';
+$Definition['(Spoiler)'] = '（損壞者）';
 
 $Definition['+%s Guests'] = '+%s 位遊客';
 
@@ -575,6 +576,7 @@ $Definition['Heading %s'] = '標題 %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You}贏得了 <a href="{Url,html}">{Data.Name,text}</a>徽章。';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} 禁止了 {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user}評論了<a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} 寄了一個 <a href="{Url,html}"> 留言 </a> 給您';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user}開始了一個新討論。 <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}在 <a href="{Url,html}">{Data.Name,text}</a>提到了您';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}更改了 {ActivityUserID,user}的個人形象圖片。';
@@ -597,6 +599,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '我同意 <a id="TermsOfService" class="Popup" target="terms" href="%s">服務條款</a>';
 $Definition['Icon'] = '圖示';
+$Definition['I confirm that I have received consent to join this community.'] = '因為我小於 %d 歲以下，我確認已經收到許可以加入此社群。';
 $Definition['Ignore'] = '封鎖';
 $Definition['Ignore List'] = '封鎖名單';
 $Definition['Ignore Someone'] = '封鎖某人';
@@ -1322,6 +1325,8 @@ $Definition['You have selected %1$s.'] = '您已選擇了 %1$s。';
 $Definition['You have selected %1$s in this discussion.'] = '您在本討論中選擇了 %1$s。';
 $Definition['You have to select at least 2 discussions to merge.'] = '您必須選擇至少 2 個話題進行合併。';
 $Definition['You must agree to the terms of service.'] = '你必須同意服務條款.';
+$Definition['You must be at least %d years old to register.'] = '您必須至少 %d 歲才能註冊。';
+$Definition['You must confirm you have received consent to register.'] = '您必須確認您已收到許可以註冊。';
 $Definition['You need to confirm your email address.'] = '您需要確認您的電子郵件地址。點擊<a href="{/entry/emailconfirmrequest,url}">此處</a>來重新發送確認電子郵件。';
 $Definition['You need to sign in before you can do this.'] = '您需要登錄才可這麼做。';
 $Definition['your'] = '你的';

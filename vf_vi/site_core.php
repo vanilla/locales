@@ -93,6 +93,7 @@ $Definition['%s years'] = '%s năm';
 
 $Definition['(All)'] = '(Tất cả)';
 $Definition['(empty message)'] = '(thông điệp trống)';
+$Definition['(Spoiler)'] = '(tiết lộ)';
 
 $Definition['+%s Guests'] = '+%s Khách';
 
@@ -575,6 +576,7 @@ $Definition['Heading %s'] = 'Đề mục %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} đã nhận được huy hiệu <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} đã ban {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} gửi bình luận tại <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} đã gửi <a href="{Url,html}">tin nhắn</a> cho bạn';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} đã mở thảo luận mới. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} nhắc đến bạn tại <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} đã đổi ảnh đại diện cho {ActivityUserID,user}.';
@@ -597,6 +599,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'C
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Tôi đồng ý với <a id="TermsOfService" class="Popup" target="terms" href="%s">điều khoản sử dụng dịch vụ</a>';
 $Definition['Icon'] = 'Biểu tượng';
+$Definition['I confirm that I have received consent to join this community.'] = 'Do tôi dưới %d tuổi, tôi xác nhận mình đã được chấp nhận cho gia nhập cộng đồng này.';
 $Definition['Ignore'] = 'Phớt lờ';
 $Definition['Ignore List'] = 'Danh sách Phớt lờ';
 $Definition['Ignore Someone'] = 'Phớt lờ Ai đó';
@@ -1327,6 +1330,8 @@ $Definition['You have selected %1$s.'] = 'Bạn đã chọn %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Bạn đã chọn %1$s trong thảo luận này.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Bạn cần chọn ít nhất 2 thảo luận để ghép.';
 $Definition['You must agree to the terms of service.'] = 'Bạn phải đồng ý với các điều khoản sử dụng dịch vụ.';
+$Definition['You must be at least %d years old to register.'] = 'Bạn phải từ %d tuổi trở lên để đăng ký.';
+$Definition['You must confirm you have received consent to register.'] = 'Bạn phải xác nhận đã được chấp nhận đăng ký.';
 $Definition['You need to confirm your email address.'] = 'Bạn cần phải xác thực địa chỉ email. Nhấp<a href="{/entry/emailconfirmrequest,url}">vào đây</a> để gửi lại email xác thực.';
 $Definition['You need to sign in before you can do this.'] = 'Bạn phải đăng nhập mới có thể thực hiện tác vụ này.';
 $Definition['your'] = 'của bạn';

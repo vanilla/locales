@@ -572,6 +572,7 @@ $Definition['Heading %s'] = 'Nagłówek %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} otrzymuje <a href="{Url,html}">{Data.Name,text}</a> odznakę.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} blokuje {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} skomentował(a) <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{Numer Działania Użytkownika, Użytkownik} wysłał ci <a href="{Url,html}">wiadomość</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Rozpoczyna nową dyskusję. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} wspomina o Tobie w <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} zmienił obrazek profilowy dla {ActivityUserID,user}.';
@@ -594,6 +595,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'J
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Akceptuję <a id="TermsOfService" class="Popup" target="terms" href="%s">warunki korzystania z serwisu</a>';
 $Definition['Icon'] = 'Ikona';
+$Definition['I confirm that I have received consent to join this community.'] = 'Ponieważ mam mniej niż x lat potwierdzam, iż otrzymałem zgodę na przyłączenie się do tej społeczności.';
 $Definition['Ignore'] = 'Ignoruj';
 $Definition['Ignore List'] = 'Lista ignorowanych';
 $Definition['Ignore Someone'] = 'Ignoruj kogoś';
@@ -1314,6 +1316,8 @@ $Definition['You have selected %1$s.'] = 'Wybrano %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Wybrano %1$s w tej dyskusji.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Musisz wybrać co najmniej 2 dyskusje, aby je połączyć.';
 $Definition['You must agree to the terms of service.'] = 'Musisz zaakceptować warunki korzystania z serwisu.';
+$Definition['You must be at least %d years old to register.'] = 'Musisz mieć co najmniej x lat żeby móc się zarejestrować.';
+$Definition['You must confirm you have received consent to register.'] = 'Musisz potwierdzić, że otrzymałeś zgodę na rejestrację.';
 $Definition['You need to confirm your email address.'] = 'Musisz potwierdzić twój adres email. Kliknij <a href="{/entry/emailconfirmrequest,url}">tutaj</a> aby ponownie przesłać mail potwierdzający.';
 $Definition['You need to sign in before you can do this.'] = 'Najpierw musisz się zalogować.';
 $Definition['your'] = 'twój(twoje)';

@@ -565,6 +565,7 @@ $Definition['Heading %s'] = 'Rubrik %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} förvärvade emblemet <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} bannlyste {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommenterade på <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} skickade dig ett <a href="{Url,html}">meddelande</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Startade en ny diskussion. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} nämnde dig i <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} ändrade profilbilden för {ActivityUserID,user}.';
@@ -587,6 +588,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'H
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Jag accepterar <a id="TermsOfService" class="Popup" target="terms" href="%s">användarvillkoren.</a>';
 $Definition['Icon'] = 'Ikon';
+$Definition['I confirm that I have received consent to join this community.'] = 'Eftersom jag är mindre än %d år gammal, jag bekräftar att jag har fått tillstånd att gå med i denna gemenskap. ';
 $Definition['Ignore'] = 'Ignorera';
 $Definition['Ignore List'] = 'Ignorera-lista';
 $Definition['Ignore Someone'] = 'Ignorera Någon';
@@ -1311,6 +1313,8 @@ $Definition['You have selected %1$s.'] = 'Du har valt %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Du har valt %1$s i den här diskussionen';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Du måste välja minst 2 diskussioner att baka ihop.';
 $Definition['You must agree to the terms of service.'] = 'Du måste acceptera användarvillkoren.';
+$Definition['You must be at least %d years old to register.'] = 'Du måste vara minst %d år gammal för att registrera dig. ';
+$Definition['You must confirm you have received consent to register.'] = 'Du måste bekräfta att du har fått tillstånd att gå med. ';
 $Definition['You need to confirm your email address.'] = 'Du måste bekräfta din e-postadress. Klicka <a href="{/entry/emailconfirmrequest,url}">här</a> för att skicka bekräftelsemejlet igen.';
 $Definition['You need to sign in before you can do this.'] = 'Du måste logga in innan du kan göra detta.';
 $Definition['your'] = 'din';

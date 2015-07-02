@@ -614,6 +614,7 @@ $Definition['Heading %s'] = 'Заголовок %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} удостоились <a href="{Url,html}">{Data.Name,text}</a> значка.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} забанен пользователем {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} комментировали <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} отправил вам <a href="{Url,html}">сообщение</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} начал новую дискуссию. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} упомянули вас в <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} изменили свою картинку {ActivityUserID,user}.';
@@ -636,6 +637,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Соглашаюсь с <a id="TermsOfService" class="Popup" target="terms" href="%s">правилами</a> форума';
 $Definition['Icon'] = 'Иконка';
+$Definition['I confirm that I have received consent to join this community.'] = 'Так как я не достиг возраста %d лет, я подтверждаю, что получил согласие присоединиться к этому сообществу.';
 $Definition['Ignore'] = 'Игнорировать';
 $Definition['Ignore List'] = 'Список игнора';
 $Definition['Ignore Someone'] = 'Игнорировать кого-либо';
@@ -1411,6 +1413,8 @@ $Definition['You have selected %1$s.'] = 'Вы выбрали %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Вы выбрали %1$s в этой дискуссии.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Вы должны выбрать хотя бы 2 дискуссии для слияния.';
 $Definition['You must agree to the terms of service.'] = 'Вы должны подтвердить правила использования форума.';
+$Definition['You must be at least %d years old to register.'] = 'Для регистрации вам должно быть как минимум %d лет.';
+$Definition['You must confirm you have received consent to register.'] = 'Вы должны подтвердить получение вами разрешения на регистрацию.';
 $Definition['You need to confirm your email address.'] = 'Вам нужно подтвердить email адрес. Для того, чтобы повторно послать письмо активации, нажмите <a href="/entry/emailconfirmrequest">здесь</a>.';
 $Definition['You need to sign in before you can do this.'] = 'Вы должны войти в систему прежде, чем вы можете это сделать.';
 $Definition['your'] = 'ваше';

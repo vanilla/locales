@@ -92,6 +92,7 @@ $Definition['%s years'] = '%s  سنوات';
 
 $Definition['(All)'] = '(الجميع)';
 $Definition['(empty message)'] = '( رسالة خالية)';
+$Definition['(Spoiler)'] = '(جناح)';
 
 $Definition['+%s Guests'] = '+%s زوار';
 
@@ -577,6 +578,7 @@ $Definition['Heading %s'] = 'عنوان %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} حصل على <a href="{Url,html}">{Data.Name,text}</a> كشارة.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} حظر {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} علّق على <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{مُعرف مستخدم النشاط، مستخدم} أرسل لك <a href="{Url,html}"> رسالة </a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ذكرك في <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} غيّر الصورة الشخصية ل{ActivityUserID,user}.';
@@ -599,6 +601,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'أنا أوافق على<a id="TermsOfService" class="Popup" target="terms" href="%s">شروط الإستخدام</a>';
 $Definition['Icon'] = 'أيقونة';
+$Definition['I confirm that I have received consent to join this community.'] = 'بما أنني أصغر من %d عاماً، أؤكد أنني قد تلقيت المُوَافَقَة على الانضمام إلى هذا المجتمع.';
 $Definition['Ignore'] = 'تجاهل';
 $Definition['Ignore List'] = 'قائمة التجاهل';
 $Definition['Ignore Someone'] = 'تجاهل شخص ما';
@@ -1336,6 +1339,8 @@ $Definition['You have selected %1$s.'] = 'انت اخترت %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'لقد إخترت %1$s في هذا الموضوع.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'يجب عليك تحديد ما لا يقل عن 2 مناقشتين للدمج.';
 $Definition['You must agree to the terms of service.'] = 'يجب ان توافق على شروط الاستخدام.';
+$Definition['You must be at least %d years old to register.'] = 'يجب أن يكون عمرك على الأقل ٪d سنة لتقوم بالتسجيل.';
+$Definition['You must confirm you have received consent to register.'] = 'يجب عليك تأكيد أنك قد تلقيت مُوَافَقَة للتسجيل.';
 $Definition['You need to confirm your email address.'] = 'يجب عليك تأكيد بريدك الالكتروني، انقر <a href="{/entry/emailconfirmrequest,url}">هنا
 </a> لإعادة ارسال التأكيد';
 $Definition['You need to sign in before you can do this.'] = 'يجب عليك التسجيل قبل فعل هدا';

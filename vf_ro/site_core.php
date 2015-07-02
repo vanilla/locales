@@ -562,6 +562,7 @@ $Definition['Heading %s'] = 'Titlu %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, You} ați câştigat insigna <a href="{Url,html}"> {Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID, tine} a blocat {ActivityUserID, you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID, utilizator} a comentat la <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} v-a trimis un <a href="{Url,html}">mesaj</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID, utilizator} a început o nouă discuţie. <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID, utilizator} v-a menționat în <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID, You} a schimbat poza de profil pentru {ActivityUserID, utilizator}.';
@@ -584,6 +585,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'L
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Sunt de acord cu <a id="TermsOfService" class="Popup" target="terms" href="%s">termenii și condițiile</a>';
 $Definition['Icon'] = 'Pictogramă';
+$Definition['I confirm that I have received consent to join this community.'] = 'De vreme ce am sub %d ani, confirm că am primit consimțământul să mă alătur acestei comunități.';
 $Definition['Ignore'] = 'Ignoră';
 $Definition['Ignore List'] = 'Listă Ignore';
 $Definition['Ignore Someone'] = 'Ignorați pe cineva';
@@ -1327,6 +1329,8 @@ $Definition['You have selected %1$s.'] = 'Aţi selectat %1$s';
 $Definition['You have selected %1$s in this discussion.'] = 'Aţi selectat %1$s în această discuţie';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Trebuie să selectați cel puțin 2 discuții pentru a le unifica';
 $Definition['You must agree to the terms of service.'] = 'Trebuie sa fiti de acord cu termenii si conditiile.';
+$Definition['You must be at least %d years old to register.'] = 'Trebuie să aveți cel puțin %d ani pentru a vă înregistra.';
+$Definition['You must confirm you have received consent to register.'] = 'Trebuie să confirmați că ați primit consimțământul să vă înregistrați.';
 $Definition['You need to confirm your email address.'] = 'Trebuie să vă confirmați adresa de E-mail. Faceți click<a href="{/entry/emailconfirmrequest,url}"> aici</a>pentru a rerimite E-mailul de confirmare';
 $Definition['You need to sign in before you can do this.'] = 'Trebuie să vă înscrieți înainte de a putea face acest lucru';
 $Definition['your'] = 'a ta/u';
