@@ -1,45 +1,17 @@
 <?php
 
-$Definition['%s comment html'] = '%s comment';
-$Definition['%s comments html'] = '%s comments';
-$Definition['%s discussion html'] = '%s discussion';
-$Definition['%s discussions html'] = '%s discussions';
-$Definition['%s view html'] = '%s view';
-$Definition['%s views html'] = '%s views';
-
-$Definition['AboutToDelete'] = 'You are about to delete %s.';
-$Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
-$Definition['Approve Applicant'] = 'Approve';
-
-$Definition['BanReason.1'] = 'Banned by a community manager.';
-$Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
-$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
-$Definition['BanReason.8'] = 'Banned by warnings.';
-
-$Definition['ConnectName'] = 'Username';
 $Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 
-$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
 $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
-$Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
-$Definition['default type'] = 'default';
-$Definition['Deny Applicant'] = 'Deny';
 
 $Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
 $Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> in your post.';
 $Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
-$Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
 $Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> in your post.';
-$Definition['Email Source'] = 'Email';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['Every %s hour'] = 'Every hour';
-$Definition['Every %s minute'] = 'Every minute';
-$Definition['Every %s second'] = 'Every second';
-
-$Definition['FollowOnly'] = 'Follow the link below to check it out:';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
@@ -47,17 +19,12 @@ $Definition['Garden.Import.Continue.Description'] = 'It appears as though you ar
    Please choose one of the following options.';
 $Definition['Garden.Import.Merge.Description'] = 'This will merge all of the user and discussion data from the import into this forum.
 <b>Warning: If you merge the same data twice you will get duplicate discussions.</b>';
-$Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.';
 $Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
 $Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
-$Definition['Group Members'] = 'Members';
-$Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent you a <a href="{Url,html}">message</a>';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
-
-$Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
 
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
 
@@ -83,7 +50,6 @@ $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test y
    ProxyConnect is working.';
 $Definition['Public group.'] = 'Anyone can see the group and its content. Anyone can join.';
 
-$Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. Sent from {/,exurl}.';
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
 
 $Definition['Source Code'] = 'Code';

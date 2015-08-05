@@ -1,5 +1,6 @@
 <?php
 
+$Definition['%1$s "%2$s" not found.'] = '未找到 %1$s "%2$s"。';
 $Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 更新檔案已經釋出.';
 $Definition['%s is not a valid email address'] = '%s 不是一個有效的電子信箱格式.';
@@ -10,11 +11,17 @@ $Definition['%s of %s'] = '%s 的 %s';
 $Definition['%s posts'] = '%s 篇文章';
 $Definition['%s Settings'] = '%s 設定';
 $Definition['%s site(s) found.'] = '已經找到%s 個網站.';
-$Definition['%s sources(s) found.'] = '已經找到 %s 個資訊來源.';
+$Definition['%s sources(s) found.'] = '已經找到 %s 個資訊來源。';
 $Definition['%s times'] = '%s 次';
-$Definition['%s user(s) found.'] = '找到了 %s 個會員.';
+$Definition['%s unavailable'] = '%s 無效';
+$Definition['%s user(s) found.'] = '找到了 %s 個會員(們)。';
 $Definition['%s user(s) will be affected by this action.'] = '此操作將影響 %s 位使用者。';
 $Definition['%s years.'] = '%s 年。';
+
+$Definition['(less)'] = '(精簡)';
+$Definition['(more)'] = '(詳細)';
+
+$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '。您的會員與訪客都將訪問到這個論壇';
 
 $Definition['1 day'] = '1 天';
 $Definition['1 hour'] = '1 小時';
@@ -31,8 +38,16 @@ $Definition['5 minutes'] = '5 分鐘';
 
 $Definition['15 minutes'] = '15 分翁';
 
-$Definition['[%s] Invitation'] = '[%s] 邀請你加入';
+$Definition['<strong>Categories</strong>'] = '<strong>討論板</strong>';
+$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '您可以運用<strong>討論板</strong> 來分類各種討論文章。討論板下只能包含討論文章。';
+$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>注意！</strong> 刪除用戶組可能會導致會員無法訪問。';
 
+$Definition['[%s] Confirm Your Email Address'] = '[%s] 請驗證您的電子信箱';
+$Definition['[%s] Invitation'] = '您收到了來自 [%s] 的邀請';
+$Definition['[%s] Password Reset'] = '[%s] 重置密碼';
+$Definition['[%s] Password Reset Request'] = '[%s] 重置密碼請求已發送';
+
+$Definition['a Badge'] = '一枚徽章';
 $Definition['About Vanilla Statistics'] = '關於 Vanilla Statistics';
 $Definition['Above Main Content'] = '主要內容上方';
 $Definition['Accepted'] = '接受';
@@ -59,6 +74,7 @@ $Definition['All Forum Pages'] = '所有討論區頁面';
 $Definition['Allow embedded content'] = '允取遷入內容';
 $Definition['Allow images'] = '允許圖片';
 $Definition['All Pages'] = '所有頁面';
+$Definition['A message has been sent to your email address with password reset instructions.'] = '重置密碼訊息已發送至您的電子信箱了。';
 $Definition['API Status'] = 'API 狀態';
 $Definition['Appearance'] = '外觀';
 $Definition['Applicant'] = '申請者';

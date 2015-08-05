@@ -92,6 +92,7 @@ $Definition['%s years'] = '%s jaren';
 
 $Definition['(All)'] = '(Alle)';
 $Definition['(empty message)'] = '(leeg bericht)';
+$Definition['(Spoiler)'] = '(spoiler)';
 
 $Definition['+%s Guests'] = '+%s Gasten';
 
@@ -615,6 +616,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'V
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Ik ga akkoord met de <a id="TermsOfService" class="Popup" target="terms" href="%s">gebruiksvoorwaarden</a>';
 $Definition['Icon'] = 'Icoon';
+$Definition['I confirm that I have received consent to join this community.'] = 'Aangezien ik jonger dan %d jaar oud ben, bevestig ik dat ik toestemming heb gekregen lid te worden van deze community.';
 $Definition['Ignore'] = 'Negeren';
 $Definition['Ignore List'] = 'Zwarte lijst';
 $Definition['Ignore Someone'] = 'Negeer Iemand';
@@ -1320,6 +1322,8 @@ $Definition['You have selected %1$s.'] = 'U heeft %1$s geselecteerd.';
 $Definition['You have selected %1$s in this discussion.'] = 'U heeft %1$s geselecteerd in deze discussie.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'U dient ten minste 2 discussies te selecteren om deze te kunnen samenvoegen.';
 $Definition['You must agree to the terms of service.'] = 'Je moet akkoord gaan met de gebruiksvoorwaarden.';
+$Definition['You must be at least %d years old to register.'] = 'Je moet minimaal %d jaar oud zijn om te registreren.';
+$Definition['You must confirm you have received consent to register.'] = 'Je moet bevestigen dat je toestemming hebt gekregen te registreren. ';
 $Definition['You need to confirm your email address.'] = 'Je moet je e-mailadres bevestigen. Klik <a href="{/entry/emailconfirmrequest,url}">hier</a> om de confirmatiemail opnieuw te verzenden.';
 $Definition['You need to sign in before you can do this.'] = 'U moet inloggen voordat u deze actie kan uitvoeren.';
 $Definition['your'] = 'jouw';
