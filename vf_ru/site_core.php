@@ -1032,6 +1032,7 @@ $Definition['role'] = 'группа';
 $Definition['RoleID'] = 'группа';
 $Definition['Roles'] = 'Группы';
 $Definition['roles'] = 'роли';
+$Definition['RSS Feed'] = 'RSS-лента';
 
 $Definition['Save'] = 'Сохранить';
 $Definition['Save Comment'] = 'Сохранить исправления';

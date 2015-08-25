@@ -48,6 +48,7 @@ $Definition['[%s] Password Reset'] = '[%s] 重置密碼';
 $Definition['[%s] Password Reset Request'] = '[%s] 重置密碼請求已發送';
 
 $Definition['a Badge'] = '一枚徽章';
+$Definition['Abilites'] = '權限';
 $Definition['About Vanilla Statistics'] = '關於 Vanilla Statistics';
 $Definition['Above Main Content'] = '主要內容上方';
 $Definition['Accepted'] = '接受';
@@ -87,6 +88,7 @@ $Definition['Applied On'] = '日期';
 $Definition['Apply'] = '套用';
 $Definition['Approve'] = '同意';
 $Definition['Archive Discussions'] = '討論歸檔';
+$Definition['A url-friendly version of the category name for better SEO.'] = '一個更易於增加SEO效能的討論版名稱';
 $Definition['Authenticate Url'] = '驗證網址';
 $Definition['Authentication'] = '認証';
 $Definition['Authentication URL'] = '驗證網址';

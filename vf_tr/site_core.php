@@ -2,11 +2,12 @@
 
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s, %4$s tarafından gönderilen üyelik davetini kabul etti.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s %4$s izinlerini değiştirdi.';
-$Definition['%1$s changed %6$s profile picture.'] = '%1$s %6$s profil resmini';
+$Definition['%1$s changed %6$s profile picture.'] = '%1$s profil %6$ s resmi değişti.';
 $Definition['%1$s commented on %4$s %8$s.'] = '%1$s %4$s %8$s hakkında yorum yaptı.';
 $Definition['%1$s created an account for %4$s.'] = '%1$s %4$s için bir hesap oluşturdu.';
 $Definition['%1$s joined.'] = '%1$s katıldı.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s %8$s içinde %3$s kişisinden bahsetti.';
+$Definition['%1$s on %2$s'] = '%1$ Açık %2$ s';
 $Definition['%1$s signed in.'] = '%1$s oturum açtı.';
 $Definition['%1$s to %2$s'] = '%1$s den %2$s';
 $Definition['%1$s updated %6$s profile.'] = '%1$s, %6$s profilini güncelledi.';

@@ -974,6 +974,7 @@ $Definition['role'] = '角色';
 $Definition['RoleID'] = '身份编号';
 $Definition['Roles'] = '角色';
 $Definition['roles'] = '角色';
+$Definition['RSS Feed'] = 'RSS订阅';
 
 $Definition['Save'] = '保存';
 $Definition['Save Comment'] = '保存回复';

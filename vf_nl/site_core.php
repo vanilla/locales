@@ -475,16 +475,12 @@ Je hebt je succesvol verbonden met {Title}. Hier zijn je gegevens:
 Je kunt de website bezoeken op {/,url,domain}.
 
 Fijne dag verder!';
-$Definition['EmailWelcomeRegister'] = 'Hallo {User.Name},
-
-Je hebt je succesvol geregistreerd voor een account bij {Title}. Hier zijn je gegevens:
+$Definition['EmailWelcomeRegister'] = 'Je hebt je succesvol geregistreerd voor een account bij {Title}. Hier zijn je gegevens:
 
   Gebruikersnaam: {User.Name}
   E-mail: {User.Email}
 
-Je kunt de website bezoeken op {/,url,domain}.
-
-Fijne dag verder!';
+Je kunt de website bezoeken op {/,url,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lees het volledige verhaal hier</a></p><div class="ClearFix"></div></div>';
