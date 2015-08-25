@@ -456,25 +456,17 @@ Volg deze link om het te bekijken: %2$s
 Fijne dag verder!';
 $Definition['Email Unavailable'] = 'E-mail Niet beschikbaar';
 $Definition['Email visible to other users'] = 'E-mail zichtbaar voor andere gebruikers';
-$Definition['EmailWelcome'] = 'Hallo %1$s,
-
-%2$s heeft een account voor jou aangemaakt op %3$s. Je inloggegevens zijn:
+$Definition['EmailWelcome'] = '%2$s heeft een account voor jou aangemaakt op %3$s. Je inloggegevens zijn:
 
   E-mail: %6$s
   Wachtwoord: %5$s
-  Url: %4$s
-
-Fijne dag verder!';
-$Definition['EmailWelcomeConnect'] = 'Hallo {User.Name},
-
-Je hebt je succesvol verbonden met {Title}. Hier zijn je gegevens:
+  Url: %4$s';
+$Definition['EmailWelcomeConnect'] = 'Je hebt je succesvol verbonden met {Title}. Hier zijn je gegevens:
 
   Gebruikersnaam: {User.Name}
   Verbonden Met: {ProviderName}
 
-Je kunt de website bezoeken op {/,url,domain}.
-
-Fijne dag verder!';
+Je kunt de website bezoeken op {/,url,domain}.';
 $Definition['EmailWelcomeRegister'] = 'Je hebt je succesvol geregistreerd voor een account bij {Title}. Hier zijn je gegevens:
 
   Gebruikersnaam: {User.Name}
