@@ -945,6 +945,7 @@ $Definition['role'] = 'rol';
 $Definition['RoleID'] = 'rol';
 $Definition['Roles'] = 'Roluri';
 $Definition['roles'] = 'roluri';
+$Definition['RSS Feed'] = 'Știri RSS';
 
 $Definition['Save'] = 'Salvare';
 $Definition['Save Comment'] = 'Salvare comentariu';

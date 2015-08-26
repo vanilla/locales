@@ -982,6 +982,7 @@ $Definition['role'] = 'rol';
 $Definition['RoleID'] = 'rol';
 $Definition['Roles'] = 'Papeles';
 $Definition['roles'] = 'papeles';
+$Definition['RSS Feed'] = 'Canales RSS';
 
 $Definition['Save'] = 'Guardar';
 $Definition['Save Comment'] = 'Guardar Comentario';

@@ -986,6 +986,7 @@ $Definition['role'] = 'ロール';
 $Definition['RoleID'] = 'ロールID';
 $Definition['Roles'] = 'ロール';
 $Definition['roles'] = '役割';
+$Definition['RSS Feed'] = 'RSSフィード';
 
 $Definition['Save'] = '保存';
 $Definition['Save Comment'] = 'コメントを保存する';

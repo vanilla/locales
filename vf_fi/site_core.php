@@ -990,6 +990,7 @@ $Definition['role'] = 'rooli';
 $Definition['RoleID'] = 'rooli';
 $Definition['Roles'] = 'Roolit';
 $Definition['roles'] = 'roolit';
+$Definition['RSS Feed'] = 'RSS-syöte';
 
 $Definition['Save'] = 'Tallenna';
 $Definition['Save Comment'] = 'Tallenna viesti';

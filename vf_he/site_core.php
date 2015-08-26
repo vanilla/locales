@@ -971,6 +971,7 @@ $Definition['role'] = 'תפקיד';
 $Definition['RoleID'] = 'תפקיד';
 $Definition['Roles'] = 'תפקידים';
 $Definition['roles'] = 'תפקידים';
+$Definition['RSS Feed'] = 'הזנת RSS';
 
 $Definition['Save'] = 'שמור';
 $Definition['Save Comment'] = 'שמור תגובה';

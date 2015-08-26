@@ -30,7 +30,6 @@ $Definition['Every %s hour'] = 'Every hour';
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
-$Definition['FollowOnly'] = 'Follow the link below to check it out:';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
@@ -47,7 +46,6 @@ $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be runnin
 $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
-$Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
@@ -81,10 +79,7 @@ $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test y
    ProxyConnect is working.';
 $Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 
-$Definition['Quote on'] = 'on';
-
 $Definition['Record Content'] = 'Content';
-$Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. Sent from {/,exurl}.';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
@@ -122,7 +117,6 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
-$Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
 
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.

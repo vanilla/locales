@@ -967,6 +967,7 @@ $Definition['role'] = '角色';
 $Definition['RoleID'] = '角色';
 $Definition['Roles'] = '角色';
 $Definition['roles'] = '角色';
+$Definition['RSS Feed'] = 'RSS 訊息來源';
 
 $Definition['Save'] = '儲存';
 $Definition['Save Comment'] = '儲存評論';

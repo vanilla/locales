@@ -932,6 +932,7 @@ $Definition['role'] = 'ID du statut';
 $Definition['RoleID'] = 'ID du statut';
 $Definition['Roles'] = 'Statuts';
 $Definition['roles'] = 'rôles';
+$Definition['RSS Feed'] = 'Flux RSS';
 
 $Definition['Save'] = 'Enregistrer';
 $Definition['Save Comment'] = 'Enregistrer la réponse';

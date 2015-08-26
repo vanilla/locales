@@ -968,6 +968,7 @@ $Definition['role'] = 'رتبة';
 $Definition['RoleID'] = 'رتبة';
 $Definition['Roles'] = 'الرتب';
 $Definition['roles'] = 'الأدوار';
+$Definition['RSS Feed'] = '‎تزويد بمقتطفات الأخبار أر أس أس';
 
 $Definition['Save'] = 'حفظ';
 $Definition['Save Comment'] = 'حفظ التعليق';
