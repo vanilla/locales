@@ -380,9 +380,9 @@ $Definition['Failed to connect to the database with the username and password yo
 $Definition['Failure'] = '失败';
 $Definition['Favicon'] = '网站小图标';
 $Definition['FaviconBrowse'] = '上传一个新的Favicon: ';
-$Definition['FaviconDescription'] = 'Favicon显示在浏览器标题栏，他将被缩放到16x16px大小。';
-$Definition['FileUpload is currently OFF'] = 'FileUpload 插件关闭状态';
-$Definition['FileUpload is currently ON'] = 'FileUpload 插件打开状态';
+$Definition['FaviconDescription'] = 'Favicon将显示在浏览器标题栏。它将被缩放到 16pxx16px 的尺寸。';
+$Definition['FileUpload is currently OFF'] = 'FileUpload 插件目前已关闭';
+$Definition['FileUpload is currently ON'] = 'FileUpload 插件目前已开启';
 $Definition['Finished'] = '完成';
 $Definition['First Visit'] = '首次访问';
 $Definition['Flood Control'] = '流量控制';

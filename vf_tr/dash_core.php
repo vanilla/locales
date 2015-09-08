@@ -39,5 +39,13 @@ $Definition['[%s] Password Reset Request'] = '[%s] Şifre sıfırlamak için ger
 
 $Definition['a Badge'] = 'Rozet';
 $Definition['About Vanilla Statistics'] = 'Vanilla İstatistikleri Hakkında';
+$Definition['Add Category'] = 'Kategori ekle';
+$Definition['Added By'] = 'tarafından eklendi';
+$Definition['Add User'] = 'Kullanıcı Ekle';
+$Definition['Administrator'] = 'Yönetici';
+$Definition['Advanced Settings'] = 'Gelişmiş Ayarlar';
 $Definition['a full year.'] = 'bütün yıl';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Senin email adresine şifreni sıfırlamak için talimatları gönderdik.';
+$Definition['Applied On'] = 'Tarih';
+
+$Definition['Homepage Title'] = 'Anasayfa Başlığı';
