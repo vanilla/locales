@@ -66,8 +66,6 @@ $Definition['Browse for a new banner logo if you would like to change it:'] = 'L
 $Definition['By %s'] = '作成者: %s';
 
 $Definition['Categories &amp; Discussions'] = 'カテゴリ &amp; ディスカッション';
-$Definition['Categories are used to help organize discussions.'] = 'カテゴリはディスカッションをまとめるのに役立ちます。ドラッグ &amp; ドロップで、並べ替えやネストもできます。';
-$Definition['Categories are used to organize discussions.'] = '<strong>カテゴリ</strong>を使って、ディスカッションを分類することができます。';
 $Definition['Category Page Layout'] = 'カテゴリのページ レイアウト';
 $Definition['Category Url:'] = 'カテゴリ URL:';
 $Definition['Change the look of All Categories'] = '<b>すべてのカテゴリ</b> ページの外観は<a href="%s">こちら</a>から変更できます。';

@@ -1,7 +1,5 @@
 <?php
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. The community forum is what all of your users &amp; customers will see when they visit';
-
 $Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categories</strong> allow you to organise your discussions. Categories can only contain discussions.';
 
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
@@ -16,8 +14,6 @@ $Definition['Authenticate Url'] = 'Authenticate URL';
 
 $Definition['Ban Item'] = 'Item';
 
-$Definition['Categories are used to help organize discussions.'] = 'Categories are used to help organise discussions. Drag &amp; drop the categories to sort and nest them.';
-$Definition['Categories are used to organize discussions.'] = '<strong>Categories</strong> allow you to organise your discussions.';
 $Definition['Category Url:'] = 'Category URL:';
 $Definition['Create & organize discussion categories, manage your users, and more...'] = 'Create & organise discussion categories, manage your users, and more...';
 $Definition['Create & organize discussion categories and manage your users.'] = 'Create & organise discussion categories and manage your users.';

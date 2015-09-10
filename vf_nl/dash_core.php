@@ -21,8 +21,6 @@ $Definition['(less)'] = '(minder)';
 $Definition['(more)'] = '(meer)';
 $Definition['(YYYY-mm-dd)'] = '(dd-mm-YYYY)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Het community forum is wat alle gebruikers &amp; klanten zullen zien als zij de site bezoeken ';
-
 $Definition['1 day'] = '1 dag';
 $Definition['1 hour'] = '1 uur';
 $Definition['1 month'] = '1 maand';
@@ -56,7 +54,7 @@ $Definition['AboutEmbedding'] = 'Insluiten maakt het mogelijk een deel van of je
 $Definition['About Vanilla Statistics'] = 'Over Vanilla statistieken';
 $Definition['Above Main Content'] = 'Boven Algemene Inhoud';
 $Definition['Accepted'] = 'Aanvaard';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Bezoek je gemeenschapsforum door op de "Bezoek Site"-link aan de linker bovenkant van deze pagina te klikken, of door';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Krijg toegang tot je gemeenschapsforum door te klikken op \'\'Bezoek site\'\' bovenaan de pagina, of door <a href={/,url}>hier te klikken</a>. Het gemeenschapsforum is wat al jouw gebruikers &amp klanten zullen zien wanneer ze de <a href="{/,url,domain}">{/,url,domein}</a> bezoeken.';
 $Definition['Account Sync Failed'] = 'Account synchroniseren is mislukt';
 $Definition['Action'] = 'Actie';
 $Definition['Actions Based on Votes'] = 'Acties gebaseerd op Stemmen';
@@ -170,8 +168,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Kan profielinformatie niet opbouwen als de gebruiker niet gedefinieerd is.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Vang definities door de hele site. Je moet de pagina\'s op de site bezoeken om de definities te kunnen vangen. De gevangen definities zullen in de bestanden <code>captured.php</code> en <code>captured_admin.php</code> worden bewaard.';
 $Definition['Categories &amp; Discussions'] = 'Categorieën &amp; Discussies';
-$Definition['Categories are used to help organize discussions.'] = 'Categorieën worden gebruikt om het organiseren van discussies te helpen. Klik &amp; sleep de categorieën om ze te sorteren en verzamelen.';
-$Definition['Categories are used to organize discussions.'] = '<strong>Categorieën</strong> stellen je in staat om je discussies te organiseren.';
+$Definition['Categories are used to organize discussions.'] = 'Categorieen worden gebruikt om gebruikers te helpen bij het organiseren van hun discussies in een manier die bijdraagt aan de gemeenschap.';
 $Definition['Categories Layout'] = 'Categorieën Lay-out';
 $Definition['Category Page Layout'] = 'Categoriepagina Lay-out';
 $Definition['Category Url:'] = 'Categorie Url:';
@@ -180,7 +177,7 @@ $Definition['Change Log'] = 'Wijzigingenlogboek';
 $Definition['Change tables to InnoDB'] = 'Verander tabellen naar InnoDB (zie help)';
 $Definition['Change the look of All Categories'] = 'Je kan het uiterlijk van de <b>Alle Categorieën</b>pagina <a href="%s">hier</a> veranderen.';
 $Definition['Change the way that new users register with the site.'] = 'Verander de manier waarop nieuwe gebruikers zich kunnen registreren op de site.';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Verander de manier waarop je gemeenschap werkt met plugins. We hebben al populaire plugins meegeleverd met de software, en online zijn er nog meer plugins beschikbaar.';
+$Definition['Change the way your community works with plugins.'] = 'Verander de manier waarop jouw gemeenschap werkt met plugins. We hebben populaire plugins samen gebracht met de software, en er zijn online meer beschikbaar.';
 $Definition['Change your banner'] = 'Verander je banner';
 $Definition['Changing the Discussions Menu Link'] = 'Veranderen van de Discussie Menu-link';
 $Definition['Check all permissions that apply for each role'] = 'Controleer alle rechten die gelden voor elke rol';
@@ -302,7 +299,6 @@ $Definition['Do not display the categories in the side panel.'] = 'Laat de categ
 $Definition['Download Locale List'] = 'Download Localelijst';
 $Definition['DownloadLocalePack'] = 'Download';
 $Definition['Download Locale Pack'] = 'Download Localepakket';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Klik &amp; sleep de categorieën om ze te sorteren en verzamelen.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Klik en sleep de onderstaande categorieën om ze te sorteren en verzamelen.';
 
 $Definition['edit'] = 'bewerk';
@@ -360,7 +356,7 @@ $Definition['Every 5 seconds'] = 'Elke 5 seconden';
 $Definition['Every 10 seconds'] = 'Elke 10 seconden';
 $Definition['Every 30 seconds'] = 'Elke 30 seconden';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Elke bewerking of verwijdering wordt hier opgeslagen. Gebruik &lsquo;Herstel&rsquo; om elke aanpassing ongedaan te maken.';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Iedereen die zich inschrijft voor je gemeenschap krijgt een publieke profielpagina waar ze een foto van zichzelf kunnen uploaden, hun profielinstellingen kunnen beheren, en interessante dingen kunnen volgen die gebeuren in de gemeenschap.';
+$Definition['Everyone who signs up gets a profile page.'] = 'Iedereen die zich inschrijft voor onze gemeenschap krijgt een publieke profielpagina waar ze een foto van zichzelf kunnen uploaden, hun profielinstellingen kunnen beheren, en gave dingen kunnen volgen die gebeuren in de gemeenschap. Je moet <a href="{/profile,url}">je profiel nu personaliseren</a>.';
 $Definition['Every Page'] = 'Elke Pagina';
 $Definition['Everything is ok.'] = 'Alles is ok.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Elke gebruiker van je site is ten minste één rol toegewezen. Rollen worden gebruikt om te bepalen wat gebruikers mogen doen.';
@@ -413,7 +409,6 @@ $Definition['Get More Applications'] = 'Meer Applicaties...';
 $Definition['Get more information on creating custom routes'] = '<br/>Meer informatie over het maken van aangepaste routes';
 $Definition['Get More Plugins'] = 'Meer Plugins...';
 $Definition['Get More Themes'] = 'Haal meer Thema\'s op';
-$Definition['Get the ball rolling in your community by '] = 'Zet je gemeenschap op rolletjes door';
 $Definition['Getting Started'] = 'Aan de Slag';
 $Definition['Getting Started with Vanilla'] = 'Aan de Slag met Vanilla';
 $Definition['give'] = 'geef';
@@ -725,7 +720,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Doe na';
 $Definition['Start Discussions'] = 'Start Discussies';
 $Definition['Start Import'] = 'Start Importeren';
-$Definition['starting your first discussion'] = 'je eerste discussie starten';
+$Definition['Start the first discussion.'] = 'Maak een begin in je gemeenschap door <a href="{/post/discussion,url}">de eerste discussie nu te beginnen</a>.';
 $Definition['Statistics'] = 'Statistieken';
 $Definition['Stop Forum Spam Settings'] = 'Stop Forum Spam Instellingen';
 $Definition['Styles'] = 'Stijlen';
@@ -817,7 +812,7 @@ $Definition['This connection is in test-mode.'] = 'Deze connectie is in test-mod
 $Definition['This Database'] = 'Deze Database';
 $Definition['This forum is currently set to invitation only mode.'] = 'Dit forum is momenteel ingesteld in de alleen-uitnodigingsmodus.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Dit is een moedercategorie die geen discussies toestaat.';
-$Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = 'Dit is het administratiedashboard voor je nieuwe gemeenschap. Bekijk de configuratieopties aan de linkerkant: vanaf hier kun je configureren hoe je gemeenschap werkt. <b>Alleen gebruikers met de "Administrator"-rol kunnen dit deel van je gemeenschap zien. </b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'Dit is de administratieve dashboard voor jouw nieuwe gemeenschap. Bekijk de configuratieopties aan de zijkant. Vanaf hier kun je configureren hoe jouw gemeenschap werkt. <b>Standaard staat ingesteld dat alleen gebruikers in de \'administrator\' rol dit gedeelte van jouw gemeenschap kunnen zien. </b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Dit is de eerste keer dat je de discussieforums hebt bezocht.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Deze optie toont/verbergt de locaties waar pockets kunnen worden vertoont, maar alleen voor gebruikers die toestemming hebben pockets toe te voegen/aan te passen. Probeer de locaties te vertonen en je site te bezoeken.';
 $Definition['This page requires Javascript.'] = 'Deze pagina heeft Javascript nodig.';

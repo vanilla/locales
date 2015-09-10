@@ -44,7 +44,6 @@ $Definition['Basic'] = 'Базовий';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
 
 $Definition['Categories &amp; Discussions'] = 'Категорії та обговорення';
-$Definition['Categories are used to help organize discussions.'] = 'Категорії допомагають організоувати обговорення. Переміщайте  категорії, щоб відсортувати та вкласти їх.';
 $Definition['Category Page Layout'] = 'Розмітка сторінки категорій';
 $Definition['Category Url:'] = 'Адреса категорії:';
 $Definition['Change the way that new users register with the site.'] = 'Змініть спосіб реєстрації нових користувачів на сайті';

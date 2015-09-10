@@ -4,7 +4,7 @@
   'Locale' => 'no',
   'Name' => 'Norsk / Norwegian',
   'Description' => 'Official Norwegian language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/no/">here</a>.',
-  'Version' => '2015.08.26p1301',
+  'Version' => '2015.09.10p1401',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/no/',
 );

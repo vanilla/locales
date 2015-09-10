@@ -21,8 +21,6 @@ $Definition['%s years.'] = '%s лѣтъ (годъ, года).';
 $Definition['(less)'] = '(скрыть)';
 $Definition['(more)'] = '(дальше)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = 'Обшій форумъ это то что видятъ всѣ ваши посѣтители и кліенты когда они посѣщаютъ';
-
 $Definition['1 day'] = '1 день';
 $Definition['1 hour'] = '1 часъ ';
 $Definition['1 month'] = '1 мѣсяцъ';
@@ -57,7 +55,7 @@ $Definition['AboutEmbedding'] = 'Встраивание позволяет по�
 $Definition['About Vanilla Statistics'] = 'О  Vanilla Statistics';
 $Definition['Above Main Content'] = 'Над основным контентом';
 $Definition['Accepted'] = 'Одобренъ(а)';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Перейдите к форуму, нажав кнопку "Перейти на сайт", расположенную в верхней левой части этой страницы, или ';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Зайдите на форум вашего сообщества, нажав на ссылку "Посетить сайт" вверху этой страницы или <a href={/,url}>нажав сюда</a>. Форум сообщества – это то, что увидят все ваши пользователи и клиенты при посещении <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Синхронизация аккаунта не удалась';
 $Definition['Action'] = 'Дѣйствія';
 $Definition['Actions Based on Votes'] = 'Активность, основанная на голосовании';
@@ -173,8 +171,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Невозможно показать данные учетной записи, если пользователь не определен.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Перехватъ настроекъ сайта. Вы должны послѣдовательно посѣтить все страницы сайта, чтобы настройки были сохранены. Все настройки будутъ находиться въ файлахъ <code>captured.php</code> и <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Раздѣлы и Обсужденія';
-$Definition['Categories are used to help organize discussions.'] = 'Категоріи используются для того, чтобы организовать дисскуссіи.<br /> Вы можете дѣлать многоуровневое меню сайта, съ помощью функціи <i>drag and drop</i> въ спискѣ категорій. ';
-$Definition['Categories are used to organize discussions.'] = '<strong>Категоріи</strong> позволяютъ организовать форумъ.';
+$Definition['Categories are used to organize discussions.'] = 'Разделы нужны, чтобы помочь вашим пользователям организовывать обсуждения эффективным для вашего сообщества образом.';
 $Definition['Categories Layout'] = 'Вид разделов';
 $Definition['Category Page Layout'] = 'Шаблонъ страницы категорій';
 $Definition['Category Url:'] = 'URL адресъ:';
@@ -183,7 +180,7 @@ $Definition['Change Log'] = 'Журнал изменений';
 $Definition['Change tables to InnoDB'] = 'Преобразование таблиц в InnoDB (см. справку)';
 $Definition['Change the look of All Categories'] = 'Вы можете измѣнить внѣшній видъ <b>Всѣхъ категорій</b> <a href="%s">здѣсь</a>.';
 $Definition['Change the way that new users register with the site.'] = 'На этой страницѣ вы можете измѣнить настройки регистраціи новыхъ пользователей.';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Настройте Вашъ форумъ, используя встроенныя расширенія и плагины, расположенныя на сайтѣ форума.';
+$Definition['Change the way your community works with plugins.'] = 'Измените работу вашего сообщества с помощью плагинов. Мы собрали комплект популярных плагинов с программным обеспечением, кроме того, есть и другие плагины, доступные онлайн.';
 $Definition['Change your banner'] = 'Установи собственное лого';
 $Definition['Changing the Discussions Menu Link'] = 'Обсужденіе настройки контекстнаго меню';
 $Definition['Check all permissions that apply for each role'] = 'Провѣрьте права доступа, которыя примѣняются въ каждой группѣ.';
@@ -306,7 +303,6 @@ $Definition['Do not display the categories in the side panel.'] = 'Не пока
 $Definition['Download Locale List'] = 'Скачать список локалей';
 $Definition['DownloadLocalePack'] = 'Скачать';
 $Definition['Download Locale Pack'] = 'Скачать пакет локализации';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Перетяните раздѣлы чтобы сортировать и упорядочить ихъ.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Схватите и перетащите категорію для сортировки въ спискѣ.';
 
 $Definition['edit'] = 'редактировать';
@@ -364,7 +360,7 @@ $Definition['Every 5 seconds'] = 'Каждыя 5 сѣкъ';
 $Definition['Every 10 seconds'] = 'Каждыя 10 сѣкъ';
 $Definition['Every 30 seconds'] = 'Каждыя 30 сѣкъ';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Каждое редактированіе или удаленіе здѣсь записывается. Примѣните функцію возстановленія чтобы отмѣнить измѣненія.';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Каждый пользователь форума получает публичный профиль, который позволяет публиковать фотографию, управлять персональными настройками, и отслеживать интересные события, происходящие в обществе.';
+$Definition['Everyone who signs up gets a profile page.'] = 'Все, кто регистрируется в вашем сообществе, получают публичную страницу профиля, где они могут загружать свои изображения, управлять настройками профиля и отслеживать классные вещи, происходящие в сообществе. Вам стоит <a href="{/profile,url}">настроить свой профиль сейчас</a>.';
 $Definition['Every Page'] = 'Каждая страница';
 $Definition['Everything is ok.'] = 'Все в порядке.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Каждому пользователю этого сайта присваивается по крайней мере, одна роль. Роли используются для определения того, кому какие действия доступны.';
@@ -417,7 +413,6 @@ $Definition['Get More Applications'] = 'Новыя приложенія';
 $Definition['Get more information on creating custom routes'] = 'Читайте болѣе подробную информацію о перенаправленіяхъ.';
 $Definition['Get More Plugins'] = 'Новые плагины';
 $Definition['Get More Themes'] = 'Новыя темы';
-$Definition['Get the ball rolling in your community by '] = 'Сдвинуться сообщество с мертвой точки при помощи';
 $Definition['Getting Started'] = 'Обзорная информация';
 $Definition['Getting Started with Vanilla'] = 'Добро пожаловать въ свѣтъ Vanilla!';
 $Definition['give'] = 'дать';
@@ -617,7 +612,7 @@ $Definition['Pending'] = 'Въ ожиданіи';
 $Definition['Permission'] = 'Право';
 $Definition['Permission.Category'] = 'Категорія';
 $Definition['Permissions'] = 'Права';
-$Definition['Place nested categories in a comma-delimited list when they are'] = 'Поместите вложенные категории в разделённый запятой список';
+$Definition['Place nested categories in a comma-delimited list when they are'] = 'Поместите вложенные разделы в разделённый запятой список';
 $Definition['Please choose an authenticator to configure.'] = 'Выберите плагинъ аутентификаціи для настройки';
 $Definition['Please Confirm'] = 'Подтвердите пожалуйста';
 $Definition['Plugin'] = 'Плагинъ';
@@ -735,7 +730,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Притворство';
 $Definition['Start Discussions'] = 'Начать обсужденіе';
 $Definition['Start Import'] = 'Начать импорт';
-$Definition['starting your first discussion'] = 'иконку';
+$Definition['Start the first discussion.'] = 'Оживите ваше сообщество, <a href="{/post/discussion,url}">начав первое обсуждение</a> сейчас.';
 $Definition['Statistics'] = 'Статистика';
 $Definition['Status'] = 'Статусъ';
 $Definition['Stop Forum Spam Settings'] = 'Настройки антиспама';
@@ -829,7 +824,7 @@ $Definition['This connection is in test-mode.'] = 'Данное соединен
 $Definition['This Database'] = 'Эту базу данныхъ';
 $Definition['This forum is currently set to invitation only mode.'] = 'Регистрация на форуме сейчас возможна только по приглашению.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Это материнский раздел, который не допускает создания дискуссий.';
-$Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = 'Это административная панель Вашего новаго сообщества. Въ лѣвой части панели Вы можете настроить параметры конфигураціи. <b>Сдѣлать это могутъ только пользователи съ привилегіями "Администратора".</b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'Это панель управления администратора для вашего нового сообщества. Взгляните на возможности конфигурации сбоку. Оттуда вы можете настроить работу вашего сообщества. <b>По умолчанию только пользователи в статусе "Администратор" могут видеть эту часть вашего сообщества.</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Вы впервые посетили эту дискуссию.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Эта опция показывает/скрывает возможные расположения карманов, но только для администраторов, которые имеют права на добавление/редактирование карманов. Попробуйте включить показ расположений и посетите публичную часть сайта.';
 $Definition['This page requires Javascript.'] = 'Эта страница требует Javascript.';

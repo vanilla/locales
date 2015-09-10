@@ -36,7 +36,6 @@ $Definition['Banner Logo'] = '배너 로고';
 $Definition['Banner Title'] = '배너 이름';
 $Definition['Ban Type'] = '유형';
 
-$Definition['Categories are used to help organize discussions.'] = '카테고리를 사용하여 글타레를 깔끔하게 정리할 수 있습니다.';
 $Definition['Category Page Layout'] = '카테고리 페이지 레이아웃';
 $Definition['Category Url:'] = '카테고리 주소';
 $Definition['Change the way that new users register with the site.'] = '새로운 사용자가 사이트에 등록하는 방식을 변경합니다.';
@@ -68,7 +67,6 @@ $Definition['Display root categories as headings.'] = '루트 카테고리를 �
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '관리자 대시보드 포함하지 않음 (전체화면으로 팝업)';
 $Definition['Don\'t use Categories'] = '카테고리를 사용하지 않음';
 $Definition['Do not display the categories in the side panel.'] = '사이드바에 카테고리를 표시하지 않음.';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = '드래그 앤 드롭으로 카테고리의 순서 및 서브 카테고리를 설정하세요.';
 
 $Definition['edit'] = '수정';
 $Definition['Edit Category'] = '카테고리 수정';

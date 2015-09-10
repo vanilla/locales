@@ -21,8 +21,6 @@ $Definition['%s years.'] = '%s rokov.';
 $Definition['(less)'] = '(menej)';
 $Definition['(more)'] = '(viac)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Komunitné fórum je to, čo vaši užívatelia &amp; zákazníci uvidia pri návšteve ';
-
 $Definition['1 day'] = '1 deň';
 $Definition['1 hour'] = '1 hodinu';
 $Definition['1 month'] = '1 mesiac';
@@ -57,7 +55,6 @@ $Definition['AboutEmbedding'] = 'Vkladanie vašej komunite umožní vložiť odk
 $Definition['About Vanilla Statistics'] = 'O Štatistikách';
 $Definition['Above Main Content'] = 'Nad Hlavný Obsah';
 $Definition['Accepted'] = 'Potvrdený';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Pristúpte na vaše komunitné fórum kliknutím na linku "Navštíviť Stránku" hore naľavo, alebo';
 $Definition['Account Sync Failed'] = 'Synchronizácia Účtu Zlyhala';
 $Definition['Action'] = 'Akcia';
 $Definition['Actions Based on Votes'] = 'Hlasovanie na Základe Akcií';
@@ -172,8 +169,6 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Nie je možne zostaviť informácie o profile, ak užívateľ nie je definovaný.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Zachytiť definície na celej webstránke. Musíte navštíviť stránky po poradí aby definície boli zachytené. Zachytené definície budú uložené do <code>captured.php</code> a <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Kategórie &amp; Diskusie';
-$Definition['Categories are used to help organize discussions.'] = 'Kategórie vám pomôžu organizovať diskusie. Ťahajte & pustite kategórie pre usporiadanie a zoskupenie.';
-$Definition['Categories are used to organize discussions.'] = '<strong>Kategórie</strong> vám umožnia organizovať diskusie.';
 $Definition['Categories Layout'] = 'Vzhľad Kategórií';
 $Definition['Category Page Layout'] = 'Vzhľad Stránky s Kategóriami';
 $Definition['Category Url:'] = 'Adresa Kategórie:';
@@ -182,7 +177,6 @@ $Definition['Change Log'] = 'Záznam Zmien';
 $Definition['Change tables to InnoDB'] = 'Zmeniť tabuľky na InnoDB (viď nápoveda)';
 $Definition['Change the look of All Categories'] = 'Môžete zmeniť vzhľad stránky <b>Všetky Kategórie</b> <a href="%s">tu</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Zmeňte spôsob registrácie nových užívateľov na webstránke.';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Zmeňte spôsob, akým vaša komunita pracuje s doplnkami. Do softvéru sme pridaôi balíček populárnych doplnkov, viac ich môžete nájsť online.';
 $Definition['Change your banner'] = 'Zmeňte svoj banner';
 $Definition['Changing the Discussions Menu Link'] = 'Menenie Odkazu Diskusií v Menu ';
 $Definition['Check all permissions that apply for each role'] = 'Zaškrtnite všetky práva ktoré sa aplikujú pre každú rolu';
@@ -303,7 +297,6 @@ $Definition['Do not display the categories in the side panel.'] = 'Nezobraziť k
 $Definition['Download Locale List'] = 'Stiahnúť List Jazykových Prekladov';
 $Definition['DownloadLocalePack'] = 'Stiahnúť';
 $Definition['Download Locale Pack'] = 'Stiahnúť Jazykový Balíček';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Ťahať &amp; pustiť kategórie pre ich zoradenie a vnorenie.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Ťahať a pustiť kategórie nižšie pre ich zoradenie a vnorenie.';
 
 $Definition['edit'] = 'upraviť';
@@ -361,7 +354,6 @@ $Definition['Every 5 seconds'] = 'Každých 5 sekúnd';
 $Definition['Every 10 seconds'] = 'Každých 10 sekúnd';
 $Definition['Every 30 seconds'] = 'Každých 30 sekúnd';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Každá editácia alebo mazanie je zaznamenané tu. Použite &lsquo;Vrátiť späť&rsquo; na vrátenie hociakej zmeny.';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Každý kto sa prihlási získa verejný profil kde môže nahrávať svoje obrázky, upravovať nastavenia profilu, a sledovať super veci ktoré sa dejú na fórum.';
 $Definition['Every Page'] = 'Každá Stránka';
 $Definition['Everything is ok.'] = 'Všetko je v poriadku.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Každý užívateľ na vašej stránke má pridelenú aspoň jednu rolu. Role sú použité na určenie, čo môžu títo užívatelia robiť.';

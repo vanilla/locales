@@ -23,8 +23,6 @@ $Definition['(less)'] = '(weniger)';
 $Definition['(more)'] = '(mehr)';
 $Definition['(YYYY-mm-dd)'] = '(JJJJ-MM-TT) ';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Das Forum wird von allen Benutzern und Kunden gesehen, wenn sie es besuchen ';
-
 $Definition['1 day'] = '1 Tag';
 $Definition['1 hour'] = '1 Stunde';
 $Definition['1 month'] = '1 Monat';
@@ -59,7 +57,7 @@ $Definition['AboutEmbedding'] = 'Embedding erlaubt es allen oder Teilen der Comm
 $Definition['About Vanilla Statistics'] = 'Über Vanilla Statistik';
 $Definition['Above Main Content'] = 'Über Hauptinhalt';
 $Definition['Accepted'] = 'Akzeptiert';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Auf dein Forum zugreifen, indem du dein "Seite besuchen"-Link in der oberen Ecke dieser Seite anklickst ';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Greifen Sie auf Ihr Community-Forum zu, indem Sie oben den Link „Seite besuchen“ anklicken oder <a href={/,url}>hier klicken</a>. Das Community-Forum ist das, was all Ihre Nutzer und Kunden sehen, wenn sie <a href="{/,url,domain}">{/,url,domain}</a> besuchen.';
 $Definition['Account Sync Failed'] = 'Konto-Synchronisation fehlgeschlagen';
 $Definition['Action'] = 'Aktion';
 $Definition['Actions Based on Votes'] = 'Auf Stimmen basierte Aktionen';
@@ -174,8 +172,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Kann die Profilinformationen nicht erstellen, wenn der Nutzer nicht definiert ist.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Erfassen Sie Definitionen auf Ihrer Seite. Sie müssen die einzelnen Seiten Ihrer Website besuchen, damit Sie die Definitionen erfassen können. Die erfassten Definitionen werden dann abgelegt unter <code>captured.php</code> und <code>captured_admin.php</code>. ';
 $Definition['Categories &amp; Discussions'] = 'Kategorien &amp; Diskussionen';
-$Definition['Categories are used to help organize discussions.'] = 'Kategorien sind nützlich, um ein Forum zu strukturieren. Benutze <i>drag and drop</i>, um die Reihenfolge zu ändern, oder zu verschachteln.';
-$Definition['Categories are used to organize discussions.'] = '<strong>Kategorien</strong> erlauben dir das Forum zu strukturieren.';
+$Definition['Categories are used to organize discussions.'] = 'Kategorien sind dazu da, Benutzern zu helfen, ihre Diskussionen so zu organisieren, wie es für Ihre Community sinnvoll ist.';
 $Definition['Categories Layout'] = 'Kategorienlayout';
 $Definition['Category Page Layout'] = 'Kategorie-Seiten Layout';
 $Definition['Category Url:'] = 'Kategorie Url:';
@@ -184,7 +181,7 @@ $Definition['Change Log'] = 'Versionshinweise';
 $Definition['Change tables to InnoDB'] = 'Ändere Tabellen zu InnoDB (siehe Hilfe)';
 $Definition['Change the look of All Categories'] = 'Du kannst das Aussehen der Seite <b>Alle Kategorien</b> <a href="%s">hier</a> ändern.';
 $Definition['Change the way that new users register with the site.'] = 'Ändere die Möglichkeiten mit denen sich neue Nutzer anmelden können.';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Ändere die Funktionsweise von Vanilla mit Hilfe von Plugins. Wir haben beliebte Plugins bereits integriert in die Software. Zudem gibt es weitere online.';
+$Definition['Change the way your community works with plugins.'] = 'Verändern Sie die Art, wie Ihre Community mit Plugins arbeitet. Wir haben einige beliebte Plugins mit der Software gebündelt, und weitere sind online verfügbar.';
 $Definition['Change your banner'] = 'Banner ändern';
 $Definition['Changing the Discussions Menu Link'] = 'Die Diskussions-Menu Verknüpfung anpassen.';
 $Definition['Check all permissions that apply for each role'] = 'Hake alle Rechte an, die auf die jeweilige Rolle zutreffen';
@@ -307,7 +304,6 @@ $Definition['Do not display the categories in the side panel.'] = 'Kategorien ni
 $Definition['Download Locale List'] = 'Lokalisierungsliste herunterladen';
 $Definition['DownloadLocalePack'] = 'Herunterladen';
 $Definition['Download Locale Pack'] = 'Lokalisierungspaket herunterladen';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Sortiere und verschatele die Kategorien per „Drag &amp; Drop“.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Sortiere die Kategorien unten per drag and drop.';
 
 $Definition['edit'] = 'bearbeiten';
@@ -365,7 +361,7 @@ $Definition['Every 5 seconds'] = 'Alle 5 Sekunden';
 $Definition['Every 10 seconds'] = 'Alle 10 Sekunden';
 $Definition['Every 30 seconds'] = 'Alle 30 Sekunden';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Jede Bearbeitung und Löschung wird hier aufgezeichnet. Benutze &lsquo;Wiederherstellen&rsquo;, um Änderungen rückgängig zu machen.';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Jeder, der sich für dein Forum registriert, erhält ein öffentliches Profil, auf dem er ein Bild hochladen kann, seine Benutzereinstellungen ändern und coole Sachen verfolgen kann, die in deinem Forum passieren.';
+$Definition['Everyone who signs up gets a profile page.'] = 'Alle, die sich bei Ihrer Community anmelden, bekommen eine öffentliche Profilseite, wo sie ein Foto von sich hochladen, ihre Profileinstellungen verwalten und coole Dinge, die in der Community ablaufen, tracken können. Sie sollten <a href="{/profile,url}">jetzt Ihr Profil persönlich anpassen</a>.';
 $Definition['Every Page'] = 'Jede Seite';
 $Definition['Everything is ok.'] = 'Alles paletti.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Jeder Benutzer deiner Seite ist mindestens einer Rolle zugewiesen. Rollen werden verwendet, um zu bestimmen, welche Befugnisse der Benutzer hat.';
@@ -418,7 +414,6 @@ $Definition['Get More Applications'] = 'Mehr Anwendungen';
 $Definition['Get more information on creating custom routes'] = 'Mehr Informationen zur Erstellung von Routen';
 $Definition['Get More Plugins'] = 'Mehr Plugins';
 $Definition['Get More Themes'] = 'Mehr Themes';
-$Definition['Get the ball rolling in your community by '] = 'Bringe den Stein ins Rollen in deinem Forum, indem du ';
 $Definition['Getting Started'] = 'Erste Schritte';
 $Definition['Getting Started with Vanilla'] = 'Erste Schritte mit Vanilla';
 $Definition['give'] = 'geben';
@@ -738,7 +733,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Spoof/Spam';
 $Definition['Start Discussions'] = 'Diskussionen starten';
 $Definition['Start Import'] = 'Import beginnen';
-$Definition['starting your first discussion'] = 'Beginne deine erste Diskussion';
+$Definition['Start the first discussion.'] = 'Bringen Sie den Stein in Ihrer Community ins Rollen, indem sie jetzt gleich <a href="{/post/discussion,url}">die erste Diskussion starten</a>.';
 $Definition['Statistics'] = 'Statistiken';
 $Definition['Status'] = 'Status ';
 $Definition['Stop Forum Spam Settings'] = 'Stoppe Forum Spam Einstellungen';
@@ -832,7 +827,7 @@ $Definition['This connection is in test-mode.'] = 'Diese Verbindung ist im Test-
 $Definition['This Database'] = 'Diese Datenbank';
 $Definition['This forum is currently set to invitation only mode.'] = 'Diesem Forum kann momentan nur durch eine Einladung beigetreten werden.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Dies ist eine übergeordnete Kategorie, in der keine Diskussionen erstellt werden können.';
-$Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = 'Dies ist das administrative Dashboard für dein Forum. Sieh dir die Konfigurationsoptionen auf der linken Seite an. Hier kannst du einstellen, wie dein Forum funktioniert. <b>Nur Benutzer mit Administratorrollen können diesen Bereich des Forums sehen.</b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'Dies ist das Admin-Dashboard für Ihre neue Community. Checken Sie die Konfigurationsoptionen an der Seite. Von dort aus können Sie die Funktionsweisen Ihrer Community konfigurieren. <b>Voreingestellt können nur Nutzer mit der Rolle „Administrator“ diesen Teil Ihrer Community sehen.</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Dies ist dein erster Besuch des Forums.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Diese Option zeigt/versteckt die Orte, an denen Pockets platziert werden können. Dies ist nur sichtbar für Benutzer, die die Berechtigung haben, Pockets hinzuzufügen/zu bearbeiten. Probiere die Option aus und sieh dir dann dein Forum an.';
 $Definition['This page requires Javascript.'] = 'Diese Seite erfordert Javascript.';

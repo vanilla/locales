@@ -22,8 +22,6 @@ $Definition['(less)'] = '(menos)';
 $Definition['(more)'] = '(mais)';
 $Definition['(YYYY-mm-dd)'] = '(dd-mm-YYYYY)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. O fórum é o que todos os seus membros &amp; clientes verão quando visitarem ';
-
 $Definition['1 day'] = '1 dia';
 $Definition['1 hour'] = '1 hora';
 $Definition['1 month'] = '1 mês';
@@ -56,7 +54,6 @@ $Definition['AboutEmbedding'] = 'Incorporação permite que toda ou parte de sua
 $Definition['About Vanilla Statistics'] = 'Sobre as Estatística do Vanilla';
 $Definition['Above Main Content'] = 'Acima do conteúdo principal';
 $Definition['Accepted'] = 'Aceito';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Acesse a sua comunidade clicando no link "Visitar Site" na área superior-esquerda desta página ou por ';
 $Definition['Account Sync Failed'] = 'Sincronização da conta falhou';
 $Definition['Action'] = 'Ação';
 $Definition['Actions Based on Votes'] = 'Ações baseadas em votos';
@@ -167,8 +164,6 @@ $Definition['By clicking the button below, you will be deleting the user account
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Não é possível construir um perfil se o usuário não é definido.';
 $Definition['Categories &amp; Discussions'] = 'Categorias &amp; Tópicos';
-$Definition['Categories are used to help organize discussions.'] = 'Categorias são usadas para ajudar a organizar tópicos. Arraste &amp; solte as categorias para organizar e aninhar.';
-$Definition['Categories are used to organize discussions.'] = '<strong>Categorias</strong> ajudam você a organizar seus tópicos.';
 $Definition['Categories Layout'] = 'Layout de Categorias';
 $Definition['Category Page Layout'] = 'Layout da Página de Categoria';
 $Definition['Category Url:'] = 'URL de Categorias:';
@@ -177,7 +172,6 @@ $Definition['Change Log'] = 'Alterar Registro';
 $Definition['Change tables to InnoDB'] = 'Alterar tabelas para InnoDB (veja a ajuda)';
 $Definition['Change the look of All Categories'] = 'Você pode alterar a aparência da página <b>Todas as Categorias</b> <a href="%s">aqui</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Mude a maneira como novos usuários são registrados no site.';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Use plugins para alterar a maneira como sua comunidade funciona. Nós já adicionamos plugins populares ao programa, e existem muito mais disponíveis online.';
 $Definition['Change your banner'] = 'Alterar o seu banner';
 $Definition['Changing the Discussions Menu Link'] = 'Alterar o Link do Menu de Tópicos';
 $Definition['Check all permissions that apply for each role'] = 'Verifique todas as permissões que se aplicam para cada papel';
@@ -296,7 +290,6 @@ $Definition['Do not display the categories in the side panel.'] = 'Não mostre a
 $Definition['Download Locale List'] = 'Baixar Lista de Localização';
 $Definition['DownloadLocalePack'] = 'Baixar';
 $Definition['Download Locale Pack'] = 'Baixar o Pacote de Localização';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Arraste &amp; Solte categorias para organizar e aninhar.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Arraste e solte as categorias abaixo para organizar e aninhar.';
 
 $Definition['edit'] = 'editar';
@@ -389,7 +382,6 @@ $Definition['Get More Applications'] = 'Pegue Mais Aplicações';
 $Definition['Get more information on creating custom routes'] = 'Veja mais informações sobre como criar rotas personalizáveis.';
 $Definition['Get More Plugins'] = 'Pegue mais complementos';
 $Definition['Get More Themes'] = 'Pegue Mais Temas';
-$Definition['Get the ball rolling in your community by '] = 'Comece a movimento sua comunidade por  ';
 $Definition['Getting Started'] = 'Começando';
 $Definition['Getting Started with Vanilla'] = 'Começando com o Vanilla.';
 $Definition['give'] = 'fornecer';
@@ -676,7 +668,6 @@ $Definition['SMTP User'] = 'Usuário SMTP';
 $Definition['Source'] = 'Fonte';
 $Definition['Start Discussions'] = 'Iniciar Tópicos';
 $Definition['Start Import'] = 'Começar Importação';
-$Definition['starting your first discussion'] = 'comece o seu primeiro tópico';
 $Definition['Statistics'] = 'Estatísticas';
 $Definition['Status'] = 'Estado';
 $Definition['Stop Forum Spam Settings'] = 'Configurações do Stop Forum Spam';

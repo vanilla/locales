@@ -21,8 +21,6 @@ $Definition['(less)'] = '(méně)';
 $Definition['(more)'] = '(více)';
 $Definition['(YYYY-mm-dd)'] = '(RRRR-mm-dd)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Diskuzní fórum je to, co vaši uživatelé a zákazníci uvidí, když navštíví vaše stránky';
-
 $Definition['1 day'] = '1 den';
 $Definition['1 hour'] = '1 hodin';
 $Definition['1 month'] = '1 měsíc';
@@ -54,7 +52,6 @@ $Definition['AboutEmbedding'] = 'Vkládán umožňuje vkládat různé části, 
 $Definition['About Vanilla Statistics'] = 'O Vanilla statistikách';
 $Definition['Above Main Content'] = 'Nad hlavní obsah';
 $Definition['Accepted'] = 'Přijato';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Zobrazte vaše diskuzní fórum kliknutím na odkaz "Zobrazit stránku" v levém horním rohu nebo';
 $Definition['Account Sync Failed'] = 'Synchronizace účtů byla neúspěšná';
 $Definition['Action'] = 'Akce';
 $Definition['Actions Based on Votes'] = 'Akce založené a hlasování';

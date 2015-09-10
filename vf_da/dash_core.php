@@ -20,8 +20,6 @@ $Definition['%s years.'] = '%s år.';
 $Definition['(less)'] = '(mindre)';
 $Definition['(more)'] = '(mere)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Fællesskabs forummet er hvad alle dine brugere og kunder vil se, når de besøger ';
-
 $Definition['1 day'] = '1 dag';
 $Definition['1 hour'] = '1 time';
 $Definition['1 month'] = '1 måned';
@@ -55,7 +53,6 @@ $Definition['AboutEmbedding'] = 'Indlejring tillader alle eller en del af dit co
 $Definition['About Vanilla Statistics'] = 'Om Vanilla statistik';
 $Definition['Above Main Content'] = 'Over hovedindholdet';
 $Definition['Accepted'] = 'Accepteret';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Få adgang til dit community forum ved at klikke på linket "Besøge webstedet" øverst til venstre på denne side, eller ved ';
 $Definition['Account Sync Failed'] = 'Konto Synkronisering mislykkedes';
 $Definition['Action'] = 'Handling';
 $Definition['Actions Based on Votes'] = 'Aktioner baseret på stemmer';
@@ -165,8 +162,6 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Kan ikke opbygge profiloplysninger, hvis brugeren ikke er defineret.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Fange definitioner hele webstedet. Du skal besøge siderne på webstedet for at definitioner til at blive fanget. De erobrede definitioner vil blive sat i <code>captured.php</code> og <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Kategorier &amp; diskussioner';
-$Definition['Categories are used to help organize discussions.'] = 'Kategorier bruges til at hjælpe med at organisere diskussioner. Drag &amp; drop kategorier for at sortere og indlejrer dem.';
-$Definition['Categories are used to organize discussions.'] = '<strong>Kategorier</strong> kan du organisere dine diskussioner.';
 $Definition['Categories Layout'] = 'Kategorier Layout';
 $Definition['Category Page Layout'] = 'Kategori sidelayout';
 $Definition['Category Url:'] = 'Kategori Url:';
@@ -175,7 +170,6 @@ $Definition['Change Log'] = 'Ændringsloggen';
 $Definition['Change tables to InnoDB'] = 'Ændre tabeller til harmløs (Se hjælp)';
 $Definition['Change the look of All Categories'] = 'Du kan ændre udseendet af <b>Alle kategorier</b> side <a href="%s"> her</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Lav om pÂ mÂden som nye brugere registrere pÂ.';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Ændre den måde din Fællesskabet fungerer med plugins. Vi har samlet populære plugins med softwaren, og der er flere tilgængelige online.';
 $Definition['Change your banner'] = 'Ændre din banner';
 $Definition['Changing the Discussions Menu Link'] = 'Ændre linket diskussioner Menu';
 $Definition['Check all permissions that apply for each role'] = 'Tjek alle tilladelser, der gÊlder for hver rolle';
@@ -355,7 +349,6 @@ $Definition['SMTP Security'] = 'SMTP Sikkerhed';
 $Definition['SMTP User'] = 'SMTP Bruger';
 $Definition['Source'] = 'Kilde';
 $Definition['Start Discussions'] = 'Start diskussion';
-$Definition['starting your first discussion'] = 'Starter din første diskussion';
 $Definition['Statistics'] = 'statistik';
 $Definition['Subject'] = 'Emne';
 

@@ -20,8 +20,6 @@ $Definition['%s years.'] = '%s metai.';
 $Definition['(less)'] = '(mažiau)';
 $Definition['(more)'] = '(daugiau)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Bendruomenės <b>forumas</b> yra tai ką matys visi apsilankantys vartotojai.';
-
 $Definition['1 day'] = '1 diena';
 $Definition['1 hour'] = '1 valanda';
 $Definition['1 month'] = '1 mėnuo';

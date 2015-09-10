@@ -20,8 +20,6 @@ $Definition['(less)'] = '(v&auml;hemm&auml;n)';
 $Definition['(more)'] = '(lis&auml;&auml;)';
 $Definition['(YYYY-mm-dd)'] = '(dd-mm-YYYY)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = 'Yhteis&ouml;si forum on se, mink&auml; j&auml;senet &amp; esim. asiakkaasi n&auml;kev&auml;t vieraillessaan   ';
-
 $Definition['1 day'] = '1 p&auml;iv&auml;';
 $Definition['1 hour'] = '1 tunti';
 $Definition['1 month'] = '1 kuukausi';
@@ -55,7 +53,6 @@ $Definition['AboutEmbedding'] = 'Upottamisen avulla voit sis&auml;llytt&auml;&au
 $Definition['About Vanilla Statistics'] = 'Tietoa Vanillan statistiikasta';
 $Definition['Above Main Content'] = 'Muun sis&auml;ll&ouml;n yl&auml;puolella';
 $Definition['Accepted'] = 'Vahvistettu';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Vieraile forumissasi klikkaamalla "Forumin etusivulle" -painiketta ylh&auml;&auml;ll&auml; vasemmalla tai  ';
 $Definition['Account Sync Failed'] = 'Tilin synkronointi ep&auml;onnistui';
 $Definition['Action'] = 'Toiminto';
 $Definition['Actions Based on Votes'] = 'Toiminnot perustuen annettuihin &auml;&auml;niin';
@@ -159,8 +156,6 @@ $Definition['By clicking the button below, you will be deleting the user account
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Profiilin tietoja ei voida luoda jos k&auml;ytt&auml;j&auml;&auml; ei ole m&auml;&auml;ritetty.';
 $Definition['Categories &amp; Discussions'] = 'Kategoriat &amp; keskustelut';
-$Definition['Categories are used to help organize discussions.'] = 'Kategoriat on tarkoitettu helpottamaan keskusteluiden j&auml;rjestely&auml; ja seurattavuutta. Raahaa ja pudota kategoriat haluamaasi j&auml;rjestykseen t&auml;ll&auml; sivulla. Voit my&ouml;s asettaa alakategorioita. Raahaa silloin haluamaasi kategoriaa toisen alapuolella oikealle. ';
-$Definition['Categories are used to organize discussions.'] = '<strong>Kategorioiden</strong> avulla voit j&auml;rjestell&auml; keskusteluja. ';
 $Definition['Categories Layout'] = 'Kategorioiden ulkoasu';
 $Definition['Category Page Layout'] = 'Kategoria-sivun ulkoasu';
 $Definition['Category Url:'] = 'Kategorian Url:';
@@ -281,7 +276,6 @@ $Definition['Do not display the categories in the side panel.'] = '&Auml;l&auml;
 $Definition['Download Locale List'] = 'Lataa kielitiedostojen listaus';
 $Definition['DownloadLocalePack'] = 'Lataa';
 $Definition['Download Locale Pack'] = 'Lataa kielitiedostopaketti';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Raahaa ja pudota kategoriat haluamaasi j&auml;rjestykseen. ';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Raahaa ja pudota kategorioita alla haluamaasi j&auml;rjestykseen. ';
 
 $Definition['edit'] = 'muokkaa';
@@ -617,7 +611,6 @@ $Definition['Source'] = 'L&auml;hde';
 $Definition['Spoof'] = 'Huijaus';
 $Definition['Start Discussions'] = 'Aloita keskusteluja';
 $Definition['Start Import'] = 'Aloita tuonti';
-$Definition['starting your first discussion'] = 'aloitetaan ensimm&auml;ist&auml; keskusteluasi';
 $Definition['Statistics'] = 'Statistiikat';
 $Definition['Stop Forum Spam Settings'] = 'Roskaviestien hallinnan asetukset';
 $Definition['Styles'] = 'Tyylit';

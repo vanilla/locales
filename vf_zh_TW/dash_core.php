@@ -21,8 +21,6 @@ $Definition['%s years.'] = '%s 年。';
 $Definition['(less)'] = '(精簡)';
 $Definition['(more)'] = '(詳細)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '。您的會員與訪客都將訪問到這個論壇';
-
 $Definition['1 day'] = '1 天';
 $Definition['1 hour'] = '1 小時';
 $Definition['1 month'] = '1 個月';

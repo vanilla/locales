@@ -22,8 +22,6 @@ $Definition['(less)'] = '(mai puţin)';
 $Definition['(more)'] = '(mai mult)';
 $Definition['(YYYY-mm-dd)'] = '(AAAA-LL-ZZ)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = 'Forumul comunitar este ceea ce vor vedea toţi utilizatorii și clienţii când vor accesa aplicația';
-
 $Definition['1 day'] = '1 zi';
 $Definition['1 hour'] = '1 oră';
 $Definition['1 month'] = '1 lună';
@@ -58,7 +56,7 @@ $Definition['AboutEmbedding'] = 'Încorporarea permite ca toată sau o parte din
 $Definition['About Vanilla Statistics'] = 'Despre statisticile Vanilla';
 $Definition['Above Main Content'] = 'Conținutul principal de mai sus';
 $Definition['Accepted'] = 'Acceptat';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Accesați forumul comunității dumneavoastră prin click pe linkul ”Vizitați Site” din partea de sus-stânga a paginii, sau prin';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accesează forumul comunității tale apăsând pe link-ul "Vizitează Portalul" din partea de sus a acestei pagini, sau <a href={/,url}>apăsând aici</a>. Forumul comunității este ceea ce vor vedea toți utilizatorii și clienții tăi când vizitează <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Sincronizarea contului eșuată';
 $Definition['Action'] = 'Acţiune';
 $Definition['Actions Based on Votes'] = 'Acţiuni bazate pe voturi';
@@ -172,8 +170,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Nu putem construi informațiile de profil, în cazul în care utilizatorul nu este definit';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Captura definiţii pe tot parcursul site-ului. Trebuie să vizitaţi paginile din site-ul în scopul de definiţii pentru a fi capturat. Definițiile capturat va fi pus în <code>captured.php</code> şi <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Categorii; Discuţii';
-$Definition['Categories are used to help organize discussions.'] = 'Categoriile sunt folosite pentru a ajuta la organizarea discuțiilor. Prin drag & drop puteți sorta și grupa categoriile';
-$Definition['Categories are used to organize discussions.'] = '<strong>Categoriile</strong> vă permit să vă organizaţi discuţiile';
+$Definition['Categories are used to organize discussions.'] = 'Categoriile sunt folosite pentru a-ți ajuta utilizatorii să își organizeze conversațiile într-un mod semnificativ pentru comunitatea ta.';
 $Definition['Categories Layout'] = 'Structura categoriilor';
 $Definition['Category Page Layout'] = 'Structura paginii de categorii';
 $Definition['Category Url:'] = 'Url-ul categoriei:';
@@ -182,7 +179,7 @@ $Definition['Change Log'] = 'Modificare jurnal';
 $Definition['Change tables to InnoDB'] = 'Modificați tabelele în InnoDB (a se vedea Ajutor)';
 $Definition['Change the look of All Categories'] = 'Puteţi modifica aspectul paginii  <b>Toate categoriile</b> pagina<a href="%s">aici</a>';
 $Definition['Change the way that new users register with the site.'] = 'Modoficați modul în care noii utilizatorii se înregistrează';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Modificați modul în care modul în care comunitatea dumneavoastră utilizează plugin-uri. Am atașat softwareului pluginuri polpulare, iar mai multe sunt disponibile online';
+$Definition['Change the way your community works with plugins.'] = 'Schimbă modul în care funcționează comunitatea ta cu plugin-uri. Am grupat plugin-uri populare alături de software, și găsești mai multe disponibile online.';
 $Definition['Change your banner'] = 'Modificați banner';
 $Definition['Changing the Discussions Menu Link'] = 'Modificați link-ul Meniu discuţii';
 $Definition['Check all permissions that apply for each role'] = 'Verificați toate permisiunile care se aplică pentru fiecare rol';
@@ -305,7 +302,6 @@ $Definition['Do not display the categories in the side panel.'] = 'Nu afișați 
 $Definition['Download Locale List'] = 'Descărcați lista de localizare';
 $Definition['DownloadLocalePack'] = 'Descărcați';
 $Definition['Download Locale Pack'] = 'Descărcați pachetul de localizare ';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Drag & drop pentru a sorta şi grupa categoriile';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag & drop pentru a sorta și grupa categoriile de mai jos';
 
 $Definition['edit'] = 'editați';
@@ -363,7 +359,7 @@ $Definition['Every 5 seconds'] = 'Fiecare 5 secunde';
 $Definition['Every 10 seconds'] = 'Fiecare 10 secunde';
 $Definition['Every 30 seconds'] = 'Fiecare 30 de secunde';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Aici se înregistrează fiecare editare sau ştergere. Utilizați "Resturare" pentru a anula orice modificare';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Toți cei care se înscriu în comunitatea dumneavoastră primesc o  pagină de profil public unde pot încărca o imagine de profil, pot gestiona setările de profil, şi pot urmări lucrurile interesante din cadrul comunității';
+$Definition['Everyone who signs up gets a profile page.'] = 'Toată lumea care se înscrie în comunitatea ta primește o pagină publică de profil unde ei pot să își încarce o poză personală, să își gestioneze setările de profil și să urmărească lucrurile interesante care au loc în comunitate. Ar trebui să <a href="{/profile,url}">îți personalizezi profilul tău acum</a>.';
 $Definition['Every Page'] = 'Fiecare pagină';
 $Definition['Everything is ok.'] = 'Totul este ok';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Fiecărui utilizator îi este desemnat cel puțin un rol. Acestea sunt folosite pentru a determina ceea ce este permis utilizatoriilor să facă';
@@ -416,7 +412,6 @@ $Definition['Get More Applications'] = 'Mai multe aplicaţii';
 $Definition['Get more information on creating custom routes'] = 'Obţineți mai multe informaţii despre crearea de rute personalizate';
 $Definition['Get More Plugins'] = 'Mai multe plugin-uri';
 $Definition['Get More Themes'] = 'Mai multe teme';
-$Definition['Get the ball rolling in your community by '] = 'Porniți motoarele comunității dumneavoastră prin';
 $Definition['Getting Started'] = 'Noţiuni de bază';
 $Definition['Getting Started with Vanilla'] = 'Noţiuni de bază cu Vanilla';
 $Definition['give'] = 'oferiți';
@@ -725,7 +720,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Parodie';
 $Definition['Start Discussions'] = 'Începeți discuţii';
 $Definition['Start Import'] = 'Începeți Importul';
-$Definition['starting your first discussion'] = 'Începeți prima discuție';
+$Definition['Start the first discussion.'] = 'Pune-ți comunitatea în mișcare <a href="{/post/discussion,url}">începând prima conversație</a> acum.';
 $Definition['Statistics'] = 'Statistici';
 $Definition['Status'] = 'Statut';
 $Definition['Stop Forum Spam Settings'] = 'Opriți setările de Spam Forum';
@@ -817,7 +812,7 @@ $Definition['This connection is in test-mode.'] = 'Această conexiune este în m
 $Definition['This Database'] = 'Această bază de date';
 $Definition['This forum is currently set to invitation only mode.'] = 'Acest forum se poate accesa momentan doar pe bază de invitație';
 $Definition['This is a parent category that does not allow discussions.'] = 'Aceasta este o categorie părinte, care nu permite discuţii';
-$Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = 'Acesta este tabloul de bord administrativ pentru comunitatea dumneavoastră. Verificați opţiunile de configurare în partea  stângă: de aici puteţi configura modul în care funcţionează comunitatea dumneavoastră. <b>Doar utilizatorii cu rolul de "Administrator" pot vedea această parte din comunitatea dvs.</b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'Acesta este panoul administrativ pentru noua ta comunitate. Verifică opțiunile de configurare din lateral. De acolo poți configura modul în care funcționează comunitatea ta. <b>Implicit, numai utilizatorii cu rolul de "Administrator" pot vedea această parte a comunității tale.</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Aceasta este prima dată când vizitați forumuri de discuţie';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Această opțiune afișează/ascunde locațiile unde pocketurile pot apărea, dar numai utilizatorii cu permisiuni pot edita pocketurile. Încercați afișarea locației și apoi vizitați site-ul pentru a vedea!';
 $Definition['This page requires Javascript.'] = 'Această pagină necesită Javascript';

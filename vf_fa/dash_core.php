@@ -22,8 +22,6 @@ $Definition['(less)'] = '(کم‌تر)';
 $Definition['(more)'] = '(بیش‌تر)';
 $Definition['(YYYY-mm-dd)'] = '(روز-ماه-سال) - به میلادی';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = ' را بفشارید. انجمن جایی است که کاربران و مشتریانتان هنگامی‌که پیوند زیر را باز می‌کنند، با آن روبرو می‌شوند:<br>';
-
 $Definition['1 day'] = '۱ روز';
 $Definition['1 hour'] = '۱ ساعت';
 $Definition['1 month'] = '۱ ماه';
@@ -58,7 +56,6 @@ $Definition['AboutEmbedding'] = 'ویژگی جاسازی امکان می‌ده�
 $Definition['About Vanilla Statistics'] = 'درباره‌ی آمارگیر وانیلا';
 $Definition['Above Main Content'] = 'بالای درون‌مایه‌ی اصلی';
 $Definition['Accepted'] = 'پذیرفته شده';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'دکمهٔ «نمایش انجمن‌» را که در بالای همین برگه قرار دارد، بفشارید تا به انجمن‌تان دسترسی بیابید یا اینکه ';
 $Definition['Account Sync Failed'] = 'همگام‌سازی این شناسه شکست خورد.';
 $Definition['Action'] = 'اقدام';
 $Definition['Actions Based on Votes'] = 'فعالیت ها بر روی امتیازات پایه گذاری می‌شوند';
@@ -168,8 +165,6 @@ $Definition['By clicking the button below, you will be deleting the user account
 
 $Definition['Cannot build profile information if user is not defined.'] = 'اگر کاربری مشخص نشده باشد، نمی‌توانید داده‌های رخ‌نما را بسازید.';
 $Definition['Categories &amp; Discussions'] = 'دسته‌ها و جستارها';
-$Definition['Categories are used to help organize discussions.'] = 'دسته‌ها برای ساماندهی جستارها به‌کار می‌روند. با کشیدن و رها کردن دسته‌ها در لیست، می‌توانید آن‌ها را بازآرایی کنید.';
-$Definition['Categories are used to organize discussions.'] = '<strong>دسته‌ها</strong> به شما امکان ساماندهی جستارهایتان را می‌دهند.';
 $Definition['Categories Layout'] = 'طرح‌بندی دسته‌ها';
 $Definition['Category Page Layout'] = 'طرح‌بندی برگه‌ی دسته؛';
 $Definition['Category Url:'] = 'نشانی دسته:';
@@ -177,7 +172,6 @@ $Definition['Censored Words'] = 'کلمه‌های سانسورشده';
 $Definition['Change Log'] = 'گزارش تغییرات';
 $Definition['Change the look of All Categories'] = 'شما می‌توانید چهره‌ی برگه‌ی <b>همه‌ی دسته‌ها</b> را تغییر دهید. <a href="%s">اینجا</a> را ببینید.';
 $Definition['Change the way that new users register with the site.'] = 'تغییر دادن روش ثبت‌نام کاربران تازه در انجمن';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'کارایی انجمن‌تان را با ابزارک‌ها تغییر دهید. ما دوست‌داشتنی‌ترین ابزارک‌ها را درون نرم‌افزار وانیلا جا داده‌ایم و ابزارک‌های بیش‌تری روی اینترنت در دسترس است.';
 $Definition['Change your banner'] = 'سردر انجمن‌تان را تغیر دهید.';
 $Definition['Changing the Discussions Menu Link'] = 'تغییر پیوند منوی جستارها';
 $Definition['Check all permissions that apply for each role'] = 'پروانه‌هایی را که باید برای هر نقش به‌کار روند، برگزینید.';
@@ -295,7 +289,6 @@ $Definition['Do not display the categories in the side panel.'] = 'دسته‌ه
 $Definition['Download Locale List'] = 'دانلود فهرست زبان‌ها';
 $Definition['DownloadLocalePack'] = 'بارگذاری';
 $Definition['Download Locale Pack'] = 'دانلود بستهٔ زبان';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'برای مرتب کردن و زیردسته کردن دسته‌ها، آن‌ها را بکشید و رها کنید.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'با کشیدن و رها کردن دسته‌های زیر می‌توانید چیدمان آن‌ها را تغییر دهید.';
 
 $Definition['edit'] = 'ویرایش';
@@ -345,7 +338,6 @@ $Definition['Every 5 seconds'] = 'هر 5 ثانیه';
 $Definition['Every 10 seconds'] = 'هر 10 ثانیه';
 $Definition['Every 30 seconds'] = 'هر 30 ثانیه';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'هر پاک‌سازی یا ویرایش در اینجا اندوخته می‌شود. از &lsquo;بازگردانی&rsquo; برای برگرداندن هر تغییری استفاده کنید.';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'کاربرانی که در انجمن‌تان نام‌نویسی می‌کنند، یک برگهٔ نمایه خواهند داشت که در آن می‌توانند تصویری از خودشان را بارگذاری کنند، تنظیمات نمایه‌شان را مدیریت کنند و رویدادهای جالب انجمن را دنبال کنند.';
 $Definition['Every Page'] = 'تمام برگه‌ها';
 $Definition['Everything is ok.'] = 'همه چیز درست است.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'هر کاربر در انجمن شما دست‌کم یک نقش دارد. نقش‌ها آن‌چه را که کاربر اجازه دارد انجام دهد، تعیین می‌کنند.';
@@ -391,7 +383,6 @@ $Definition['Get More Applications'] = 'گرفتن ابزار‌های بیش‌
 $Definition['Get more information on creating custom routes'] = 'درباره‌ی ساختن routeهای شخصی بیش‌تر بدانید.';
 $Definition['Get More Plugins'] = 'گرفتن ابزارک‌های بیش‌تر';
 $Definition['Get More Themes'] = 'گرفتن پوسته‌های بیش‌تر';
-$Definition['Get the ball rolling in your community by '] = 'زندگی را در انجمن‌تان بدمید: ';
 $Definition['Getting Started'] = 'بیایید شروع کنیم';
 $Definition['Getting Started with Vanilla'] = ' آغاز کار با وانیلا';
 $Definition['give'] = 'دادن';
@@ -663,7 +654,6 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'کلاه‌بردار';
 $Definition['Start Discussions'] = 'ساختن جستارها';
 $Definition['Start Import'] = 'آغاز درون‌ریزی';
-$Definition['starting your first discussion'] = 'آغاز نخستین جستار';
 $Definition['Statistics'] = 'آمارگیری';
 $Definition['Status'] = 'وضعیت';
 $Definition['Stop Forum Spam Settings'] = 'متوقف کردن تنظیمات اعمال شده برای هرزنامه‌ها';
@@ -742,7 +732,6 @@ $Definition['This connection is in test-mode.'] = 'این کانکشن در حا
 $Definition['This Database'] = 'همین پایگاه داده';
 $Definition['This forum is currently set to invitation only mode.'] = 'عضویت در این انجمن فعلا تنها توسط دعوت‌نامه صورت می‌گیرد';
 $Definition['This is a parent category that does not allow discussions.'] = 'این یک دسته مادر است و نمی توان جستاری در آن ساخت';
-$Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = 'اینجا پیشخوان مدیریتی انجمن‌ تازهٔ شما است. گزینه‌های پیکربندی آن را که در سمت راست می‌بینید، بررسی کنید: از اینجا می‌توانید چگونگی کارکرد انجمن‌تان را پیکربندی کنید. <b>تنها کاربرانی که دارای نقش مدیر (Administrator) هستند، می‌توانند به این بخش از انجمن‌تان دسترسی داشته باشند.</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'این نخستین باری که شما انجمن‌های گفت‌وگو را مشاهده می‌کنید.';
 $Definition['This page requires Javascript.'] = 'این برگه Javascript می‌خواهد.';
 $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'این ابزارک به کاربران امکان می‌دهد که با OpenID وارد انجمن شوند. <b>مطمئن شوید که بعد از به‌کارگیری این ابزارک، دکمه‌ی تنظیمات را برای به‌کاراندازی ورود با OpenID فشرده‌اید</b>!';

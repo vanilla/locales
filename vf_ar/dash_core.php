@@ -22,8 +22,6 @@ $Definition['(less)'] = '(أقل)';
 $Definition['(more)'] = '(أكثر)';
 $Definition['(YYYY-mm-dd)'] = '(عام-شهر-يوم)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = 'المنتدى العام هو ما سيشاهده زوار الموقع.';
-
 $Definition['1 day'] = 'يوم واحد';
 $Definition['1 hour'] = 'ساعة واحدة';
 $Definition['1 month'] = 'شهر واحد';
@@ -56,7 +54,6 @@ $Definition['AboutEmbedding'] = 'الغرس Embedding يسمح بغرس جزء �
 $Definition['About Vanilla Statistics'] = 'عن احصاءات الفانيلا';
 $Definition['Above Main Content'] = 'فوق المكونات الرئيسية';
 $Definition['Accepted'] = 'تم القبول';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'أدخل لمنتداك عبر النقر على رابط "زيارة الموقع" الموجود في الأعلى لليسار من هذة الصفحة';
 $Definition['Account Sync Failed'] = 'فشل التزامن مع حساب';
 $Definition['Action'] = 'إجراء';
 $Definition['Actions Based on Votes'] = 'الإجراءات على أساس الأصوات';

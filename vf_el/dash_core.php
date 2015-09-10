@@ -21,8 +21,6 @@ $Definition['%s years.'] = '%s έτη.';
 $Definition['(less)'] = '(λιγότερο)';
 $Definition['(more)'] = '(περισσότερο)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Το φόρουμ της κοινότητας είναι αυτό που θα βλέπουν οι χρήστες &amp; και οι πελάτες σας κατά την επίσκεψή τους ';
-
 $Definition['1 day'] = '1 ημέρα';
 $Definition['1 hour'] = '1 ώρα';
 $Definition['1 month'] = '1 μήνας';
@@ -54,7 +52,6 @@ $Definition['AboutEmbedding'] = 'Η Ενσωμάτωση επιτρέπει σε
 $Definition['About Vanilla Statistics'] = 'Σχετικά με τα Στατιστικά του Vanilla';
 $Definition['Above Main Content'] = 'Επάνω από το Κύριο Περιεχόμενο';
 $Definition['Accepted'] = 'Αποδεκτό';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Δείτε το forum κάνοντας κλικ στο σύνδεσμο "Δείτε το site" στο επάνω αριστερά μέρος αυτής της σελίδας ή';
 $Definition['Account Sync Failed'] = 'Ο Συγχρονισμός του Λογαριασμού Απέτυχε';
 $Definition['Action'] = 'Ενέργεια';
 $Definition['Actions Based on Votes'] = 'Ενέργειες με Βάση τις Ψήφους';
@@ -166,8 +163,6 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Δεν είναι δυνατή η συλλογή πληροφοριών προφίλ αν δεν ορίσετε χρήστη.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Συλλογή ορισμών από το χώρο. Πρέπει να επισκεφθείτε τις σελίδες του χώρου για να γίνει συλλογή των ορισμών. Οι ορισμοί που θα συλλεχθούν να εγγραφούν στο <code>captured.php</code> και στο <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Κατηγορίες &amp; Συζητήσεις';
-$Definition['Categories are used to help organize discussions.'] = 'Οι Κατηγορίες χρησιμεύουν στην οργάνωση των συζητήσεων. Σύρετε και εναποθέστε τις κατηγορίες για να τις ταξινομήσετε και να τις ενθέσετε.';
-$Definition['Categories are used to organize discussions.'] = 'Οι <strong>Κατηγορίες</strong> σας επιτρέπουν να οργανώνετε τις συζητήσεις.';
 $Definition['Categories Layout'] = 'Διάταξη Κατηγοριών';
 $Definition['Category Page Layout'] = 'Διάταξη Σελίδας Κατηγορίας';
 $Definition['Category Url:'] = 'Url Κατηγορίας:';
@@ -176,7 +171,6 @@ $Definition['Change Log'] = 'Αλλαγή Καταγραφής';
 $Definition['Change tables to InnoDB'] = 'Αλλαγή πινάκων σε InnoDB (δείτε βοήθεια)';
 $Definition['Change the look of All Categories'] = 'Μπορείτε να αλλάξετε τη μορφή της σελίδα <b>Όλες οι Κατηγορίες</b> <a href="%s">εδώ</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Αλλαγή του τρόπου εγγραφής των χρηστών στο χώρο.';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Αλλάξτε τον τρόπο λειτουργίας της κοινότητας με πρόσθετα. Έχουμε συμπεριλάβει δημοφιλή πρόσθετα με το πρόγραμμα, και υπάρχουν και άλλα διαθέσιμα.';
 $Definition['Change your banner'] = 'Αλλαγή του πανό';
 $Definition['Changing the Discussions Menu Link'] = 'Αλλαγή του Συνδέσμου του Μενού Συζητήσεων';
 $Definition['Check all permissions that apply for each role'] = 'Επιλέξτε όλα τα δικαιώματα που ισχύουν για κάθε ρόλο';
@@ -295,7 +289,6 @@ $Definition['Do not display the categories in the side panel.'] = 'Να μην �
 $Definition['Download Locale List'] = 'Παραλαβή Λίστας Μεταφράσεων';
 $Definition['DownloadLocalePack'] = 'Παραλαβή';
 $Definition['Download Locale Pack'] = 'Παραλαβή Πακέτου Μετάφρασης';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Σύρτε & εναποθέστε τις κατηγορίες για να τις ταξινομήσετε και να τις ενθέσετε.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Σύρτε και εναποθέστες τις παρακάτω κατηγορίες για να τις ταξινομήσετε και να τις εναποθέσετε.';
 
 $Definition['Edit %s'] = 'Επεξεργασία %s';
@@ -346,7 +339,6 @@ $Definition['Every 5 seconds'] = 'Κάθε 5 δευτερόλεπτα';
 $Definition['Every 10 seconds'] = 'Κάθε 10 δευτερόλεπτα';
 $Definition['Every 30 seconds'] = 'Κάθε 30 δευτερόλεπτα';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Εδώ καταγράφεται κάθε αλλαγή ή διαγραφή. Χρησιμοποιήστε το &lsquo;Επαναφορά&rsquo; για να ακυρώσετε οποιαδήποτε αλλαγή.';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Καθένας που εγγράφεται στην κοινότητά σας διαθέτει μία δημόσια σελίδα όπου μπορεί να ανεβάσει μία φωτογραφία του, να διαχειριστεί τις ρυθμίσεις του προφίλ του και να ακολουθεί σπουδαία πράγματα στην κοινότητα.';
 $Definition['Every Page'] = 'Κάθε σελίδα';
 $Definition['Everything is ok.'] = 'Τα πάντα είναι εντάξει.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Κάθε χρήστης στο χώρο σας έχει τουλάχιστον έναν ρόλο. Οι ρόλοι χρησιμεύουν υπολογισμό του τι επιτρέπεται να κάνουν.';
@@ -392,7 +384,6 @@ $Definition['Get More Applications'] = 'Λήψη Νέων Εφαρμογών';
 $Definition['Get more information on creating custom routes'] = 'Λήψη περισσότερων πληροφοριών για τη δημιουργία προσαρμοσμένων δρομολογήσεων.';
 $Definition['Get More Plugins'] = 'Λήψη Νέων Πρόσθετων';
 $Definition['Get More Themes'] = 'Λήψη Νέων Θεμάτων';
-$Definition['Get the ball rolling in your community by '] = 'Ξεκινήστε την κοινότητά σας μέσω';
 $Definition['Getting Started'] = 'Ξεκινώντας';
 $Definition['Getting Started with Vanilla'] = 'Ξεκινώντας με το Vanill';
 $Definition['give'] = 'δώστε';

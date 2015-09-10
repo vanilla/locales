@@ -169,7 +169,7 @@ $Definition['All %s'] = 'Все %s';
 $Definition['All %s...'] = 'Все %s...';
 $Definition['All Bookmarks'] = 'Все закладки';
 $Definition['All Categories'] = 'Все разделы';
-$Definition['all categories'] = 'Все категории';
+$Definition['all categories'] = 'Все разделы';
 $Definition['All Conversations'] = 'Все диалоги';
 $Definition['All Discussions'] = 'Все дискуссии';
 $Definition['All Events'] = 'Все события';
@@ -552,7 +552,7 @@ $Definition['Follow'] = 'Подписаться';
 $Definition['Follow %s'] = 'Следить %s';
 $Definition['Followed by %d people'] = '%d подписчиков';
 $Definition['Followed by %d person'] = 'Подписан %d человек';
-$Definition['followed categories'] = 'Отслеживаемые категории';
+$Definition['followed categories'] = 'Отслеживаемые разделы';
 $Definition['Following %d people'] = 'Следит за %d людми';
 $Definition['Following %d person'] = 'Наблюдается %d пользователями';
 $Definition['FollowOnly'] = 'Проследуйте по ссылке ниже, чтобы проверить:';
@@ -720,7 +720,7 @@ $Definition['Make this poll anonymous (user votes are not made public).'] = 'С�
 $Definition['Male'] = 'Мужской';
 $Definition['Mark All Viewed'] = 'Отметить все прочитанным';
 $Definition['Mark as Troll'] = 'Потметить как троль';
-$Definition['Mark Category Viewed'] = 'Отметить категорию просмотренной';
+$Definition['Mark Category Viewed'] = 'Отметить раздел как просмотренный';
 $Definition['Marking as spam cannot be undone.'] = 'Сообщения, помечаемые как спам, будут безвозвратно удалены. Удаление является хорошим способом содержать форум в чистоте.';
 $Definition['Mark Read'] = '<span title="Отметить посты в этой категории прочитанными">Прочитано</span>';
 $Definition['Maybe'] = '
@@ -1046,7 +1046,7 @@ $Definition['search archived'] = 'поиск в архиве';
 $Definition['SearchBoxPlaceHolder'] = 'Поиск';
 $Definition['Search for a tag.'] = 'Поиск тэга или его части.';
 $Definition['Search results for \'%s\''] = 'Результаты поиска по \'%s\'';
-$Definition['search subcategories'] = 'поиск подкатегорий';
+$Definition['search subcategories'] = 'поиск подразделов';
 $Definition['Second Anniversary'] = 'Вторая годовщина';
 $Definition['Secret'] = 'Секрет';
 $Definition['Sections'] = 'Секции';
@@ -1168,7 +1168,7 @@ $Definition['The %s you were looking for could not be found.'] = '
         %s не может быть найден.
 
 ';
-$Definition['the category'] = 'категория';
+$Definition['the category'] = 'раздел';
 $Definition['The content you were looking for has been deleted.'] = 'Контент, который вы искали, был удален.';
 $Definition['The conversation has been cleared.'] = 'Диалог был очищен.';
 $Definition['The email you entered in use by another member.'] = 'На указанный Email уже зарегистрирован аккаунт.';
@@ -1347,7 +1347,7 @@ $Definition['Who\'s going?'] = '
 
 ';
 $Definition['Who\'s Online'] = 'Кто сейчас на сайте?';
-$Definition['Who\'s Online in this Category'] = 'Кто в этой категории сейчас онлайн';
+$Definition['Who\'s Online in this Category'] = 'Кто в этом разделе сейчас онлайн';
 $Definition['Who\'s Online in this Discussion'] = 'Кто в этой дискуссии сейчас онлайн';
 $Definition['Whoops!'] = 'Ой!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Упс! Вам необходимо зарегистрироваться прежде чем вы сможете отправить письмо на наш сайт.';
