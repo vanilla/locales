@@ -23,8 +23,6 @@ $Definition['(less)'] = '(less)';
 $Definition['(more)'] = '(more)';
 $Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 
-$Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. The community forum is what all of your users &amp; customers will see when they visit ';
-
 $Definition['1 day'] = '1 day';
 $Definition['1 hour'] = '1 hour';
 $Definition['1 month'] = '1 month';
@@ -62,7 +60,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replace
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['Above Main Content'] = 'Above Main Content';
 $Definition['Accepted'] = 'Accepted';
-$Definition['Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by '] = 'Access your community forum by clicking the "Visit Site" link on the top-left of this page, or by ';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Account Sync Failed';
 $Definition['Action'] = 'Action';
 $Definition['Actions Based on Votes'] = 'Actions Based on Votes';
@@ -178,8 +176,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Cannot build profile information if user is not defined.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Categories &amp; Discussions';
-$Definition['Categories are used to help organize discussions.'] = 'Categories are used to help organize discussions. Drag &amp; drop the categories to sort and nest them.';
-$Definition['Categories are used to organize discussions.'] = '<strong>Categories</strong> allow you to organize your discussions.';
+$Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['Categories Layout'] = 'Categories Layout';
 $Definition['Category Page Layout'] = 'Category Page Layout';
 $Definition['Category Url:'] = 'Category Url:';
@@ -188,7 +185,7 @@ $Definition['Change Log'] = 'Change Log';
 $Definition['Change tables to InnoDB'] = 'Change tables to InnoDB (see help)';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Change the way that new users register with the site.';
-$Definition['Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
+$Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Change your banner'] = 'Change your banner';
 $Definition['Changing the Discussions Menu Link'] = 'Changing the Discussions Menu Link';
 $Definition['Check all permissions that apply for each role'] = 'Check all permissions that apply for each role';
@@ -317,7 +314,6 @@ $Definition['Don\'t use Categories'] = 'Don\'t use Categories';
 $Definition['Download Locale List'] = 'Download Locale List';
 $Definition['Download Locale Pack'] = 'Download Locale Pack';
 $Definition['DownloadLocalePack'] = 'Download';
-$Definition['Drag &amp; drop the categories to sort and nest them.'] = 'Drag &amp; drop the categories to sort and nest them.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
 
 $Definition['edit'] = 'edit';
@@ -378,7 +374,7 @@ $Definition['Every 5 seconds'] = 'Every 5 seconds';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
 $Definition['Every Page'] = 'Every Page';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
-$Definition['Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community.';
+$Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community. You should <a href="{/profile,url}">customize your profile now</a>.';
 $Definition['Everything is ok.'] = 'Everything is ok.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Exclude archived discussions from the discussions list';
 $Definition['Existing members send invitations to new members.'] = 'Existing members send invitations to new members.';
@@ -430,7 +426,7 @@ $Definition['Get More Applications'] = 'Get More Applications';
 $Definition['Get more information on creating custom routes'] = 'Get more information on creating custom routes';
 $Definition['Get More Plugins'] = 'Get More Plugins';
 $Definition['Get More Themes'] = 'Get More Themes';
-$Definition['Get the ball rolling in your community by '] = 'Get the ball rolling in your community by ';
+$Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
 $Definition['Getting Started'] = 'Getting Started';
 $Definition['Getting Started with Vanilla'] = 'Getting Started with Vanilla';
 
@@ -773,9 +769,6 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Spoof';
 $Definition['Start Discussions'] = 'Start Discussions';
 $Definition['Start Import'] = 'Start Import';
-
-$Definition['starting your first discussion'] = 'starting your first discussion';
-
 $Definition['Statistics'] = 'Statistics';
 $Definition['Status'] = 'Status';
 $Definition['Stop Forum Spam Settings'] = 'Stop Forum Spam Settings';
@@ -871,7 +864,7 @@ $Definition['This connection is in test-mode.'] = 'This connection is in test-mo
 $Definition['This Database'] = 'This Database';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
-$Definition['This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the left: from here you can configure how your community works. <b>Only users in the "Administrator" role can see this part of your community.</b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the side. From there you can configure how your community works. <b>By default, only users in the "Administrator" role can see this part of your community.</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
