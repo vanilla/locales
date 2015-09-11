@@ -798,6 +798,7 @@ $Definition['on'] = 'on';
 $Definition['Online Preferences'] = 'Online Preferences';
 $Definition['Only show followed categories'] = 'Only show followed categories';
 $Definition['OpenID Settings'] = 'OpenID Settings';
+$Definition['Optional'] = 'Optional';
 $Definition['Optional Description'] = 'Optional Description';
 $Definition['Options'] = 'Options';
 $Definition['or'] = 'or';

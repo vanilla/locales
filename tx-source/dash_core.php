@@ -802,10 +802,8 @@ $Definition['The addon could not be enabled because it generated a fatal error: 
 $Definition['The addon has already been downloaded.'] = 'The addon has already been downloaded.';
 $Definition['The banner logo appears at the top of your forum.'] = 'The banner logo appears at the top of your forum.';
 $Definition['The banner title appears on the top-left of every page.'] = 'The banner title appears on the top-left of every page.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browser\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
-$Definition['The banner title appears on your site\'s banner and in your browswer\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browswer\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
-$Definition['The basic registration form requires that new users copy text from a "Captcha" image to help prevent spam.'] = '<strong>The basic registration form requires</strong> that new users copy text from a "Captcha" image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>The basic registration form requires</strong> new users to copy text from a CAPTCHA image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:';
 $Definition['The Basics'] = 'The Basics';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'The behind-the-scenes URL that shares identity information with Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
@@ -893,12 +891,11 @@ $Definition['Unable to initialize plugin: required connectivity libraries not fo
 $Definition['Unban'] = 'Unban';
 $Definition['Uninvite'] = 'Uninvite';
 $Definition['Universal Code'] = 'Universal Code';
-
 $Definition['unknown'] = 'unknown';
-
 $Definition['Unlimited'] = 'Unlimited';
 $Definition['Unviersal Forum Embed Code'] = 'Unviersal Forum Embed Code';
 $Definition['Use an SMTP server to send email'] = 'Use an SMTP server to send email';
+$Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Use Categories';
 $Definition['Use categories to organize discussions'] = 'Use categories to organize discussions';
 $Definition['Use delta indexes'] = 'Use delta indexes (recommended for massive sites)';
