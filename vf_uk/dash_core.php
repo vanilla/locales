@@ -217,7 +217,6 @@ $Definition['Temporary (302)'] = 'Тимчасовий (302)';
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'Дякую!';
 $Definition['The banner logo appears at the top of your forum.'] = 'Зображення логотипу зявиться вгорі вашого форуму.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Текст заголовку зявляється в лівому верхньому куті на кожній сторінці. Якщо завантажене зображення логотипу, воно замінить текст заголовку на сторінках форуму, які показуються користувачам.';
 $Definition['The homepage was saved successfully.'] = 'Головна сторінка була успішно збереженна.';
 $Definition['ThemeHelp'] = 'Теми дозволяють вам змінити зовнішній вигляд вашого сайту та його сприйняття. <br />Додавши тему в папку %s, ви зможете включити її тут.';
 $Definition['Themes'] = 'Теми';

@@ -190,7 +190,6 @@ $Definition['Thank You!'] = 'Dzięki!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s Autentykator nie wymaga żadnych opcji konfiguracyjnych.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'Dodatek nie może być dostępny z powodu fatalnego blędu: <pre>%s</pre>';
 $Definition['The banner logo appears at the top of your forum.'] = 'Banner logo pojawi się w górnej części forum.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Banner tytułowy pojawi się w lewym górnym rogu każdej strony. Jeśli banner logo zostanie wysłany, zastąpi on banner tytułowy na stronach użytkowników forum.';
 $Definition['ThemeHelp'] = 'Tematy pozwalają na zmianę wyglądu twojej strony.<br />Jeśli temat był dodany do  %s folderu, będzie dostępny tutaj.';
 $Definition['Themes'] = 'Tematy';
 $Definition['There are currently no applicants.'] = 'Obecnie nie ma kandydatów.';

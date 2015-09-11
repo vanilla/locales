@@ -704,7 +704,6 @@ $Definition['The addon could not be enabled because it generated a fatal error: 
 $Definition['The addon has already been downloaded.'] = 'Tillägget har redan laddas ned.';
 $Definition['The banner logo appears at the top of your forum.'] = 'Logon visas i sidhuvudet på ditt forum.';
 $Definition['The banner title appears on the top-left of every page.'] = 'Rubriken i sidhuvudet syns högst upp till vänster på varje sida.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Titeln visas i sidhuvudet i övre vänstra hörnet på varje sida. Om du laddar upp en logo ersätter den titeln på offentliga forumsidor.';
 $Definition['The Basics'] = 'Grunderna';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'Den URL som delar identitetsinformation med Vanilla bakom kulisserna';
 $Definition['The content you were looking for has been deleted.'] = 'Innehållet du söker har blivit raderat.';

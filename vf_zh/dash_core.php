@@ -56,6 +56,7 @@ $Definition['AboutEmbedding'] = '嵌入技术可以将您的社区嵌入到其�
 $Definition['About Vanilla Statistics'] = '关于 Vanilla 统计';
 $Definition['Above Main Content'] = '在主内容以上';
 $Definition['Accepted'] = '接受';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = '点击该页面顶部的“访问网站”链接进入您的社区论坛，或者点击<a href={/,url}>点击此处</a>。您所有用户&amp;客户访问<a href="{/,url,domain}">{/,url,domain}</a>的时候会看到该论坛。';
 $Definition['Account Sync Failed'] = '账户同步失败';
 $Definition['Action'] = '操作';
 $Definition['Actions Based on Votes'] = '投票动态';
@@ -172,6 +173,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = '用户没有定义的情况下不能建立个人资料信息。';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = '全站抓取。您必须按顺序访问站内各页面以抓取。抓取后将被放在<code>captured.php</php>和<code>captured_admin.php</code>中。';
 $Definition['Categories &amp; Discussions'] = '版块 & 帖子';
+$Definition['Categories are used to organize discussions.'] = '分类被用来帮助您的用户组织他们的讨论，这种方式对您的社区来说是很有意义的。';
 $Definition['Categories Layout'] = '板块布局';
 $Definition['Category Page Layout'] = '版块展示方式';
 $Definition['Category Url:'] = '分类 Url:';
@@ -180,6 +182,7 @@ $Definition['Change Log'] = '更改日志';
 $Definition['Change tables to InnoDB'] = '更改表为 InnoDB 结构 (查看帮助)';
 $Definition['Change the look of All Categories'] = '您可以在<a href="%s">这里</a>更改<b>所有板块</b>的外观。';
 $Definition['Change the way that new users register with the site.'] = '选择新用户注册方式';
+$Definition['Change the way your community works with plugins.'] = '通过插件改变您社区的工作方式。我们已经在软件中打包了一些常用的插件，在网上还有更多的插件可供选择。';
 $Definition['Change your banner'] = '更改站点设置';
 $Definition['Changing the Discussions Menu Link'] = '更改话题菜单链接';
 $Definition['Check all permissions that apply for each role'] = '检查每个用户角色的所有权限';
@@ -359,6 +362,7 @@ $Definition['Every 5 seconds'] = '每5秒';
 $Definition['Every 10 seconds'] = '每10秒';
 $Definition['Every 30 seconds'] = '每30秒';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = '这里记录所有编辑和删除，使用‘恢复’撤销更改。';
+$Definition['Everyone who signs up gets a profile page.'] = '在您社区注册的人会获得一个公开的个人页面，在那里他们可以上传他们的个人照片，管理他们的个人设置和跟踪社区中正在发生的趣事。您应该<a href="{/profile,url}">现在就定制您的个人资料</a>。';
 $Definition['Every Page'] = '每页';
 $Definition['Everything is ok.'] = '一切正常。';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '站内的每个用户都需要分配至少一个角色，用户角色决定用户可以做什么。';
@@ -729,6 +733,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = '诈骗';
 $Definition['Start Discussions'] = '发起新话题';
 $Definition['Start Import'] = '开始导入';
+$Definition['Start the first discussion.'] = '现在就通过<a href="{/post/discussion,url}">开始第一个讨论</a>来让您的社区活跃起来吧。';
 $Definition['Statistics'] = '统计';
 $Definition['Status'] = '状态';
 $Definition['Stop Forum Spam Settings'] = '防灌水设置';
@@ -760,10 +765,7 @@ $Definition['The addon could not be enabled because it generated a fatal error: 
 $Definition['The addon has already been downloaded.'] = '该扩展已被下载。';
 $Definition['The banner logo appears at the top of your forum.'] = '站点LOGO将显示在论坛顶部';
 $Definition['The banner title appears on the top-left of every page.'] = '站点名称显示在每个页面的左上角';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '站点名将显示在导航栏的最左边，如果用户上传了站点LOGO，那么将用LOGO代替';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = '标题内容将在你站点的标题栏、和浏览器的标题栏显示。长度不应超过20字符。如果你上传了标题图片，那么图片将在用户看到的论坛页面中替换标题内容。同时，请注意某些主题可能屏蔽此处的标题内容。';
-$Definition['The banner title appears on your site\'s banner and in your browswer\'s title bar.'] = '标题内容将在你站点的标题栏、和浏览器的标题栏显示。长度不应超过20字符。如果你上传了标题图片，那么图片将在用户看到的论坛页面中替换标题内容。同时，请注意某些主题可能屏蔽此处的标题内容。';
-$Definition['The basic registration form requires that new users copy text from a "Captcha" image to help prevent spam.'] = '<strong>基本注册表格要求</strong>新用户输入 "Captcha" 图片中的文字以便屏蔽注册机程序。你需要在 <a href="http://recaptcha.net/">recaptcha.net</a> 拥有帐户。那里的注册过程完全免费并且很简单。一旦注册完成后，回到这里输入这些设置：';
 $Definition['The Basics'] = '基础';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = '此后台链接与 Vanilla 共享身份识别信息。';
 $Definition['The client ID uniqely identifies the site.'] = '客户端 ID 是站点的唯一标识。你可以点击此页最下面的按钮生成新 ID。';
@@ -822,6 +824,7 @@ $Definition['This connection is in test-mode.'] = '此连接处于测试模式�
 $Definition['This Database'] = '该数据库';
 $Definition['This forum is currently set to invitation only mode.'] = '该论坛已经被设置为‘只能邀请加入’模式';
 $Definition['This is a parent category that does not allow discussions.'] = '这是一个父分类，不允许放置话题';
+$Definition['This is the administrative dashboard for your new community.'] = '这是您新社区的管理控制面板。在边上您可以找到配置选项。在那里您能够配置您社区的工作方式。<b>默认情况下，只有具有“管理员”角色的用户才能看见您社区的这部分内容。</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = '这是您第一次访问该论坛。';
 $Definition['This option shows/hides the locations where pockets can go.'] = '这个选项显示/隐藏Pocket可以放置的位置，但只有具备增加/编辑Pocket权限的用户看到。尝试一下显示这些位置，之后再访问您的站点。';
 $Definition['This page requires Javascript.'] = '本页面需要 Javascript 的支持。';

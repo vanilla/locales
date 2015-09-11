@@ -664,7 +664,6 @@ $Definition['The addon could not be enabled because it generated a fatal error: 
 $Definition['The addon has already been downloaded.'] = 'כבר הורדת את התוספת הזאת.';
 $Definition['The banner logo appears at the top of your forum.'] = 'הלוגו של האתר מופיע מעל הפורום.';
 $Definition['The banner title appears on the top-left of every page.'] = 'שם הפורום מופיע בפינה הימנית העליונה של כול עמוד.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'שם הפורום מופיע בפינה הימנית העליונה של כול עמוד. אם יש גם לוגו לאתר הוא יחליף את שם הפורום בדפים המיועדים למשתמשים.';
 $Definition['The Basics'] = 'הבסיס';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'ה-URL חולק מאחורי הקלעים מידע עם Vanilla.';
 $Definition['The content you were looking for has been deleted.'] = 'התוכן שביקשת לראות כבר נמחק מן האתר.';

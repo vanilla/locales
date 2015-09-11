@@ -385,7 +385,6 @@ $Definition['Thank You!'] = 'Grazie!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'L\'Autenticatore %s non possiede opzioni di configurazione standard.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'L\'addon non puo\' essere abilitato perche\' genera un errore fatale: <pre>%s</pre>';
 $Definition['The banner logo appears at the top of your forum.'] = 'Il banner apparirà nella parte superiore del forum';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Il banner, se caricato, apparità nell\'angolo superiore sinistro di ogni pagina.';
 $Definition['The following content has been flagged by users for moderator review.'] = 'I seguenti contenuti sono stati segnalati dagli utenti';
 $Definition['The invitation was removed successfully.'] = 'L\'invito è stato rimosso correttamente';
 $Definition['The invitation was sent successfully.'] = 'L\'invito è stato inviato correttamente';

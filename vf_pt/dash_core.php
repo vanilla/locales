@@ -698,7 +698,6 @@ $Definition['The addon could not be enabled because it generated a fatal error: 
 $Definition['The addon has already been downloaded.'] = 'O complemento já foi baixado.';
 $Definition['The banner logo appears at the top of your forum.'] = 'O banner de logotipo aparece no topo do seu fórum.';
 $Definition['The banner title appears on the top-left of every page.'] = 'O banner do título aparece na parte superior-esquerda de todas as páginas.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'O título do banner aparece no canto esquerdo superior do seu fórum. Se um banner de logotipo é enviado, ele substituirá o título do banner.';
 $Definition['The Basics'] = 'O Básico';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'A URL interna que compartilha informações de identidade com o Vanilla.';
 $Definition['The content you were looking for has been deleted.'] = 'O conteúdo que voê está procurando foi deletado.';

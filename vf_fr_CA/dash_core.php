@@ -50,6 +50,7 @@ $Definition['AboutEmbedding'] = 'L\'intégration vous permet d\'intégrer une pa
 $Definition['About Vanilla Statistics'] = 'À propos de Vanilla Statistiques';
 $Definition['Above Main Content'] = 'Au-dessus du Contenu Principal';
 $Definition['Accepted'] = 'Accepté';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accédez à votre forum communautaire en cliquant sur le lien «Voir le site» en haut de cette page ou en <a href={/,url}> cliquant ici </a>. Le forum communautaire est ce que tous vos utilisateurs & amp; vos clients verront lorsqu\'ils visitent <a href="{/,url,domain}"> {/,URL,nom de domaine} </a>.';
 $Definition['Account Sync Failed'] = 'Synchronisation de comptes échouée';
 $Definition['Actions Based on Votes'] = 'Actions basées sur des votes';
 $Definition['Activity Item'] = 'Élément d\'activité';
@@ -163,6 +164,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Impossible de générer les informations du profil si l\'utilisateur n\'est pas défini.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Capturer les définitions du site. Vous devez parcourir les pages du site afin que les définitions puissent être capturées. Les définitions capturées seront listées dans les fichiers <code>captured.php</code> et <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Catégories & Discussions';
+$Definition['Categories are used to organize discussions.'] = 'Des catégories sont utilisées pour aider vos utilisateurs à organiser leurs discussions d\'une façon qui sera profitable pour votre communauté.';
 $Definition['Categories Layout'] = 'Affichage des catégories';
 $Definition['Category Page Layout'] = 'Mise en page des catégories';
 $Definition['Category Url:'] = 'URL de la catégorie :';
@@ -171,6 +173,7 @@ $Definition['Change Log'] = 'Journal des modifications';
 $Definition['Change tables to InnoDB'] = 'Changer les tables en InnoHB (voir l\'aide)';
 $Definition['Change the look of All Categories'] = 'Vous pouvez modifier l\'aspect de la page <b>Toutes les Catégories</b> <a href="%s">ici</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Changez la manière dont les nouveaux utilisateurs s\'inscrivent dans la communauté.';
+$Definition['Change the way your community works with plugins.'] = 'Changez la façon dont fonctionne votre communauté avec les plugins. Nous avons joint des plugins populaires au logiciel, et d\'autres peuvent être procurés en ligne';
 $Definition['Change your banner'] = 'Changer votre bannière';
 $Definition['Changing the Discussions Menu Link'] = 'Changer le lien du menu discussions';
 $Definition['Check all permissions that apply for each role'] = 'Choisissez toutes les autorisations qui s\'appliquent à chaque statut';
@@ -346,6 +349,7 @@ $Definition['Every 5 seconds'] = 'Toutes les 5 secondes';
 $Definition['Every 10 seconds'] = 'Toutes les 10 secondes';
 $Definition['Every 30 seconds'] = 'Toutes les 30 secondes';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Chaque modification ou suppression est enregistrée ici. Utilisez &lsquo;Restaurer&rsquo; pour annuler un changement quelconque.';
+$Definition['Everyone who signs up gets a profile page.'] = 'Tous ceux qui s’inscrivent à votre communauté obtiennent une page de profil public où ils peuvent télécharger une image d\'eux-mêmes, gérer leurs paramètres de profil, et suivre les trucs fascinants qui se passent dans la communauté. Vous devez <a href="{/profile,url}"> personnaliser votre profil maintenant</a>.';
 $Definition['Every Page'] = 'Toutes les Pages';
 $Definition['Everything is ok.'] = 'Tout va bien.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Au moins un rôle est assigné à chaque utilisateur de votre site. Les rôles servent à déterminer ce que les utilisateurs ont le droit de faire.';
@@ -709,6 +713,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Usurper ';
 $Definition['Start Discussions'] = 'Commencer discussion';
 $Definition['Start Import'] = 'Commencer l\'importation';
+$Definition['Start the first discussion.'] = 'Faites rouler la balle dans votre communauté <a href="{/post/discussion,url}"> en amorçant les premières discussions </a>maintenant.';
 $Definition['Statistics'] = 'Statistiques';
 $Definition['Status'] = 'État';
 $Definition['Stop Forum Spam Settings'] = 'Paramètres de protection contre le spam de forum';
@@ -738,10 +743,7 @@ $Definition['The addon could not be enabled because it generated a fatal error: 
 $Definition['The addon has already been downloaded.'] = 'L\'add-on a déjà été téléchargé.';
 $Definition['The banner logo appears at the top of your forum.'] = 'Le logo du bandeau apparaît en haut de votre forum.';
 $Definition['The banner title appears on the top-left of every page.'] = 'La bannière de titre apparaît en haut à gauche de chaque page.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Le titre du bandeau apparaît en haut à gauche de chaque page. Si un logo de bandeau a été téléchargé, il remplacera le titre du bandeau dans l\'interface utilisateur des pages du forum.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Le titre du bandeau apparaît sur ​​le bandeau de votre site et dans la barre de titre de votre navigateur. Il doit être inférieur à 20 caractères. Si un logo de bandeau a été téléchargé, il remplacera le titre du bandeau dans l\'interface utilisateur des pages du forum. En outre, gardez à l\'esprit que certains thèmes peuvent aussi cacher ce titre.';
-$Definition['The banner title appears on your site\'s banner and in your browswer\'s title bar.'] = 'Le titre du bandeau apparaît sur ​​le bandeau de votre site et dans la barre de titre de votre navigateur. Il doit être inférieur à 20 caractères. Si un logo de bandeau a été téléchargé, il remplacera le titre du bandeau dans l\'interface utilisateur des pages du forum. En outre, gardez à l\'esprit que certains thèmes peuvent aussi cacher ce titre.';
-$Definition['The basic registration form requires that new users copy text from a "Captcha" image to help prevent spam.'] = '<strong>Le formulaire d\'inscription par défaut</strong> demande aux nouveaux utilisateurs de recopier le texte contenu dans une image "Captcha" afin d\'écarter les spammeurs du site. Vous devez avoir préalablement créé un compte sur <a href="http://recaptcha.net/">recaptcha.net</a>. L\'inscription est GRATUITE et facile. Une fois que vous vous êtes inscrit, revenez ci et entrez les paramètres suivants :';
 $Definition['The Basics'] = 'Les bases';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'L\'URL "en-coulisses" qui partage les informations d\'identité avec Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'L\'ID client identifie le site de manière unique. Vous pouvez générer un nouvel ID en cliquant sur le bouton en bas de cette page.';
@@ -800,6 +802,7 @@ $Definition['This connection is in test-mode.'] = 'La connexion est en mode d\'e
 $Definition['This Database'] = 'Cette base de données';
 $Definition['This forum is currently set to invitation only mode.'] = 'Ce forum est actuellement en mode "sur invitation uniquement".';
 $Definition['This is a parent category that does not allow discussions.'] = 'Ceci est une catégorie-mère qui n\'admet pas de conversations.';
+$Definition['This is the administrative dashboard for your new community.'] = 'Voici le tableau de bord administratif de votre nouvelle communauté. Découvrez les options de configuration sur le côté. De là, vous pouvez configurer la façon dont fonctionne votre communauté. <b> Par défaut, seuls les utilisateurs qui ont un rôle d’«administrateur» peuvent voir cette partie de votre communauté.</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'C\'est la première fois que vous visitez les forums de discussion.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Cette option affiche ou masque les emplacements où des blocs peuvent être affichés, mais seulement pour les utilisateurs qui ont la permission d\'ajouter / modifier des blocs de code. Essayez d\'afficher les emplacements, puis visitez votre site.';
 $Definition['This page requires Javascript.'] = 'Cette page nécessite que le Javascript soit activé pour pouvoir fonctionner correctement.';

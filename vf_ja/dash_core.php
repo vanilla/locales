@@ -282,7 +282,6 @@ $Definition['The %s Authenticator does not have any custom configuration options
 $Definition['The %s table is not in the correct format.'] = '%s テーブルの形式が不正です。';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = '致命的なエラーが発生したため、アドオンを有効にすることができませんでした: <pre>%s</pre>';
 $Definition['The banner logo appears at the top of your forum.'] = 'タイトルロゴはヘッダの左上に表示されます。タイトル文字列と置き換えます。';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'タイトルはヘッダの左上に表示されます。タイトルロゴ画像をアップロードすると、タイトル文字列と置き換えます。';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = '指定されたデータベースユーザーには、このデータベースへのアクセス権がありません。データベースは作成済みですか？データベースの報告は次の通りです: <code>%s</code>';
 $Definition['The homepage was saved successfully.'] = 'ホーム画面が保存されました。';
 $Definition['The import file does not contain any data.'] = 'インポートファイルにデータがありません。';

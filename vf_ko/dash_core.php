@@ -217,7 +217,6 @@ $Definition['Thank You!'] = '감사합니다!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s 인증에 대한 사용자 정의 옵션이 없습니다.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = '치명적인 오류가 발생하여 활성화 되지 않았습니다: <pre>%s</pre>';
 $Definition['The banner logo appears at the top of your forum.'] = '로고 이미지가 포럼의 상단에 나타납니다.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '배너 제목은 모든 페이지의 상단 왼쪽에 나타납니다. 로고 이미지를 업로드 하면 텍스트 제목을 대체합니다.';
 $Definition['ThemeHelp'] = '테마 기능을 사용하여 사이트의 디자인을 손쉽게 바꿀 수 있습니다.<br />원하는 테마를 다음의 경로에 추가한 후 목록에서 활성화 하여 사용하세요. %s';
 $Definition['Themes'] = '테마';
 $Definition['There are currently no applicants.'] = '가입 승인 대기자가 없습니다.';

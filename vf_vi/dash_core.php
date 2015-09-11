@@ -214,7 +214,6 @@ $Definition['Status'] = 'Tr?ng th';
 
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['The banner logo appears at the top of your forum.'] = 'Logo banner xu?t hi?n tr';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Ti';
 $Definition['The following content has been flagged by users for moderator review.'] = 'Nh?ng n?i dung sau ?';
 $Definition['The invitation was removed successfully.'] = 'Th? m?i c?a b?n ?';
 $Definition['ThemeHelp'] = 'Tr? gi';

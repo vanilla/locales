@@ -56,6 +56,7 @@ $Definition['AboutEmbedding'] = 'A beágyazás a közösséged részét vagy tel
 $Definition['About Vanilla Statistics'] = 'A Vanilla Statisztikájáról';
 $Definition['Above Main Content'] = 'A tartalom felett';
 $Definition['Accepted'] = 'Elfogadott';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Lépjen be a közösség oldalára az oldal tetején lévő "Belépés" hivatkozásra, vagy <a href={/,url}> ide kattintva </a>. A közösségi fórum az, amit minden felhasználó és vendég lát, amikor ellátogat ide <a href="{/,url,domain}">{/,url,domain</a>';
 $Definition['Account Sync Failed'] = 'A Fiók szinkronizálása sikertelen';
 $Definition['Action'] = 'Művelet';
 $Definition['Actions Based on Votes'] = 'Művelet a szavazáshoz';
@@ -172,6 +173,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Nem készíthetsz profil adatokat ha a felhasználó nem létezik.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Begyűjti a definíciókat az oldalon keresztül. El kell látogatnod az oldalakra, hogy a definíciók be legyenek gyűjtve. A begyűjtött definíciók a <code>captured.php</code> és a <code>captured_admin.php</code> file-okban lesznek letárolva.';
 $Definition['Categories &amp; Discussions'] = 'Kategóriák &amp; Beszélgetések';
+$Definition['Categories are used to organize discussions.'] = 'A kategóriák segítenek az ön felhasználóinak csoportosítani a hozzászólásaikat, oly módon, hogy az jelentőséggel bírjon a csoportjuknak.';
 $Definition['Categories Layout'] = 'Kategóriák elrendezése';
 $Definition['Category Page Layout'] = 'Kategória oldal-elrendezése';
 $Definition['Category Url:'] = 'Kategória Url:';
@@ -180,6 +182,7 @@ $Definition['Change Log'] = 'Változások listája';
 $Definition['Change tables to InnoDB'] = 'Változtasd a táblákat InnoDB-re (lásd súgó)';
 $Definition['Change the look of All Categories'] = 'Megváltoztathatod az <b>Összes kategória</b> oldal kinézetét<a href="%s">here</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Itt megváltoztathatod a regisztráció típusát.';
+$Definition['Change the way your community works with plugins.'] = 'Változtassa meg a csoportja arculatát bővítményekkel. A programot egy köteg népszerű bővítménnyel gazdagítottuk, sőt, még több elérhető az interneten.  ';
 $Definition['Change your banner'] = 'Változtasd meg a bannered';
 $Definition['Changing the Discussions Menu Link'] = 'A Beszélgetések Menü linkjének a megváltoztatása';
 $Definition['Check all permissions that apply for each role'] = 'Minden jogot ellenőrizz, ami minden egyes szerepkörre vonatkozik';
@@ -359,6 +362,7 @@ $Definition['Every 5 seconds'] = '5 másodpercenként';
 $Definition['Every 10 seconds'] = '10 percenként';
 $Definition['Every 30 seconds'] = '30 percenként';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Minden módosítás fel van itt jegyezve. Használd a &lsquo;Visszaállítás&rsquo; -t, hogy visszavonj bármilyen módosítást.';
+$Definition['Everyone who signs up gets a profile page.'] = 'Mindazok, akik regisztrálnak a közösségi oldaladra, kapnak egy nyilvános oldalt, ahova   feltölthetik a saját képeiket,  a beállításaikat  valamint figyelhetik, milyen érdekességek zajlanak a csoportban. <a href="{/profile,url}">Módosítsa a beállításait most</a>.';
 $Definition['Every Page'] = 'Minden oldal';
 $Definition['Everything is ok.'] = 'Minden rendben.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Minden felhasználónak megvan a maga csoportja. Ezeket az Adminisztrációs felületen keresztül tudod követni..';
@@ -720,6 +724,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Svindli';
 $Definition['Start Discussions'] = 'Beszélgetés elindítása';
 $Definition['Start Import'] = 'Import elindítása';
+$Definition['Start the first discussion.'] = 'Legyen az első, <a href="{/post/discussion,url}">aki elkezdi társalgást</a> most.';
 $Definition['Statistics'] = 'Statisztika';
 $Definition['Status'] = 'Állapot';
 $Definition['Stop Forum Spam Settings'] = 'Stop Forum Spam beállítások';
@@ -751,10 +756,7 @@ $Definition['The addon could not be enabled because it generated a fatal error: 
 $Definition['The addon has already been downloaded.'] = 'Az addont mar letöltötted.';
 $Definition['The banner logo appears at the top of your forum.'] = 'A banner/fejléc logó a fórum tetején fog megjelenni.';
 $Definition['The banner title appears on the top-left of every page.'] = 'A banner/fejléc cím minden oldal bal-tetején fog megjelenni.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'A banner/fejléc szöveg minden lap bal felső részén meg fog jelenni. Ha banner/fejléc logó van feltöltve, akkor a szöveg helyett a logót fogják látni a felhasználók az oldalakon.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'A banner/fejléc az oldalad banner sávjában és a böngésződ címsorában fog megjelenni. 20 karakternál rövidebb kell, hogy legyen. Ha banner/fejléc logó van feltöltve, akkor a szöveg helyett a logót fogják látni a felhasználók az oldalakon. Ezenkívül egyes témák elrejthetik ezt a címsort.';
-$Definition['The banner title appears on your site\'s banner and in your browswer\'s title bar.'] = 'A banner/fejléc az oldalad banner sávjában és a böngésződ címsorában fog megjelenni. 20 karakternál rövidebb kell, hogy legyen. Ha banner/fejléc logó van feltöltve, akkor a szöveg helyett a logót fogják látni a felhasználók az oldalakon. Ezenkívül egyes témák elrejthetik ezt a címsort.';
-$Definition['The basic registration form requires that new users copy text from a "Captcha" image to help prevent spam.'] = '<strong>A normál regisztrációs űrlaphoz szükség van arra, hogy </strong> az új felhasználó szöveget másol ide egy "Captcha" képből, hogy a spammereket távol tartsuk az oldaltól. Szükséged lesz egy fiókra itt: <a href="http://recaptcha.net/">recaptcha.net</a>. A regisztráció INGYENES és könnyű. Amint regisztráltál, gyere vissza és add meg az alábbi beállításokat:';
 $Definition['The Basics'] = 'Az alapok';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'A színpad mögötti URL ami személyes adatokat oszt meg a Vanilla-val';
 $Definition['The client ID uniqely identifies the site.'] = 'A kliens ID egyedi módon azonosítja az oldalt. Generálhatsz egy új azonosítót az oldal alján található gombbal.';
@@ -813,6 +815,7 @@ $Definition['This connection is in test-mode.'] = 'A kapcsolat teszt üzemmódba
 $Definition['This Database'] = 'Ez az adatbázis';
 $Definition['This forum is currently set to invitation only mode.'] = 'A fórum jelenleg csak maghívásos alapon működik.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Ez egy olyan szülő kategória, ami nem engedélyez beszélgetéseket.';
+$Definition['This is the administrative dashboard for your new community.'] = 'Az új csoportjának ez az adminisztratív oldala. Ellenőrizze a beállításokat az oldalán. Ott tudja megadni azt, hogy miképp működjön a közösség.<b> Az alap beállítás szerint csak az "adminisztrátor" minőségű felhasználók láthatják a közösségük ezen részét. </b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Ez az első alkalom, hogy a meglátogattad a fórumot.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Ez a beállítás mutatja/rejti el a helyeket, ahova a zsebek mehetnek, de csak azoknak a felhasználóknak, akiknek joguk van zsebek hozzáadására, ileltve szerkesztésére. Próbáld megmutatni a helyeket, majd látogasd meg az oldalad.';
 $Definition['This page requires Javascript.'] = 'Az oldalhoz Javascript kell.';

@@ -357,7 +357,6 @@ $Definition['Thank You!'] = 'Tak!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s Godkendelsesskema har ikke nogen brugerdefineret konfigurationsmuligheder.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'tilf¯jelsen kunne ikke blive aktiveret fordi den genererede en fejl: <pre>%s</pre>';
 $Definition['The banner logo appears at the top of your forum.'] = 'banner logoet vil komme frem pÂ toppen af forumet.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'banner titlen kommer ¯verst til venstre pÂ hver side. Hvis et banner logo er uploadet, vil det erstatte bannertitlen.';
 $Definition['The homepage title is displayed on your home page.'] = 'Hjemmeside titlen vises på din hjemmeside. Vælg en titel som du vil se på søgemaskiner.';
 $Definition['The homepage was saved successfully.'] = 'Hjemmesiden blev gemt med success!';
 $Definition['ThemeHelp'] = 'Temaer kan lave om pÂ udseendet &amp; F¯l din side.<br />NÂr et tema er blevet tilf¯jet til %s mappe, Du kan aktivere det her.';

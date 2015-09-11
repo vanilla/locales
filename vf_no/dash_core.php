@@ -88,7 +88,6 @@ $Definition['Subject'] = 'Emne';
 
 $Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['The banner logo appears at the top of your forum.'] = 'Banner-logo vises øverst på toppen av forumet ditt.';
-$Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Banner-tittel vises i hjørnet øverst til venstre på hver side. Dersom en Banner-logo har blitt lastet opp, vil denne erstatte Banner-tittel.';
 $Definition['The invitation was removed successfully.'] = 'Invitasjonen ble fjernet!';
 $Definition['The invitation was sent successfully.'] = 'Invitasjonen ble sendt!';
 $Definition['ThemeHelp'] = 'Tema-Hjelp';
