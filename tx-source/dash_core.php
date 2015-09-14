@@ -468,7 +468,6 @@ $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to c
 $Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
 
 $Definition['Maintenance Mode'] = 'Maintenance Mode';
-$Definition['Make sure to use a forum theme that meshes well with the look and feel of the remote site.'] = 'Make sure to use a forum theme that meshes well with the look and feel of the remote site.';
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Make sure you select at least one item before continuing.'] = 'Make sure you select at least one item before continuing.';
 $Definition['Manage'] = 'Manage';
@@ -483,8 +482,6 @@ $Definition['Manage Routes'] = 'Manage Routes';
 $Definition['Manage Spam'] = 'Manage Spam';
 $Definition['Manage Themes'] = 'Manage Themes';
 $Definition['Manage Users'] = 'Manage Users';
-$Definition['Manage users'] = 'Manage users';
-$Definition['Manage your Plugins'] = 'Manage your Plugins';
 $Definition['Managing Categories'] = 'Managing Categories';
 $Definition['Manual'] = 'Manual';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
@@ -498,30 +495,22 @@ $Definition['Media'] = 'Media';
 $Definition['Member'] = 'Member';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Message ID'] = 'Message ID';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['Method'] = 'Method';
-
 $Definition['minute(s)'] = 'minute(s)';
-
 $Definition['Mixed Layout'] = 'Mixed Layout';
 $Definition['Moderate'] = 'Moderate';
 $Definition['Moderator'] = 'Moderator';
 $Definition['Moderators have permission to edit most content.'] = 'Moderators have permission to edit most content.';
 $Definition['Modern Layout'] = 'Modern Layout';
 $Definition['Modern non-table-based layout'] = 'Modern non-table-based layout';
-
 $Definition['more than %s deep'] = 'more than %s deep';
-$Definition['more than %s levels deep'] = 'more than %s levels deep';
-
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Most pockets shouldn\'t be displayed in the dashboard.';
 $Definition['Move discussions in this category to a replacement category.'] = 'Move discussions in this category to a replacement category.';
 $Definition['My Invitations'] = 'My Invitations';
 
 $Definition['Need More Help?'] = 'Need More Help?';
-
 $Definition['never'] = 'never';
-
 $Definition['Never - Users Must Refresh Page'] = 'Never - Users Must Refresh Page';
 $Definition['Never display on mobile browsers.'] = 'Never display on mobile browsers.';
 $Definition['New comments in the last day'] = 'New comments in the last day';
@@ -539,7 +528,6 @@ $Definition['New users in the last day'] = 'New users in the last day';
 $Definition['New users in the last week'] = 'New users in the last week';
 $Definition['NewApplicantEmail'] = 'New applicant:';
 $Definition['No Change'] = 'No Change';
-$Definition['No costs yet.'] = 'No costs yet.';
 $Definition['No Items Selected'] = 'No Items Selected';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['None'] = 'None';
@@ -552,8 +540,6 @@ $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.'
 $Definition['Number of blocked registrations'] = 'Number of blocked registrations';
 
 $Definition['On'] = 'On';
-$Definition['One, two, three...'] = 'One, two, three...';
-$Definition['Only Allow Each User To Post'] = 'Only Allow Each User To Post';
 $Definition['Only display on mobile browsers.'] = 'Only display on mobile browsers.';
 $Definition['Operation By'] = 'By';
 $Definition['Or Spamblock For'] = 'Or Spamblock For';
@@ -567,20 +553,15 @@ $Definition['Outgoing Email'] = 'Outgoing Email';
 $Definition['Outgoing Email Address'] = 'Outgoing Email Address';
 
 $Definition['Page'] = 'Page';
-
 $Definition['page'] = 'page';
-
-$Definition['Panel Box'] = 'Panel Box';
 $Definition['Password Options'] = 'Password Options';
 $Definition['Pending'] = 'Pending';
 $Definition['Permission'] = 'Permission';
 $Definition['Permission.Category'] = 'Category';
 $Definition['Permissions'] = 'Permissions';
-$Definition['Place nested categories in a comma-delimited list when they are'] = 'Place nested categories in a comma-delimited list when they are';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['Please Confirm'] = 'Please Confirm';
 $Definition['Plugin'] = 'Plugin';
-$Definition['Plugin.Enabled'] = 'Plugin.Enabled';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Plugins'] = 'Plugins';
 $Definition['Pocket'] = 'Pocket';
@@ -596,7 +577,6 @@ $Definition['Public Key'] = 'Public Key';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
 $Definition['Ranks'] = 'Ranks';
-$Definition['Rate of refresh'] = 'Rate of refresh';
 $Definition['Re-Register API Key'] = 'Re-Register API Key';
 $Definition['Reaction'] = 'Reaction';
 $Definition['Reaction Types'] = 'Reaction Types';
