@@ -278,14 +278,11 @@ $Definition['Discussion  Body'] = 'Discussion  Body';
 $Definition['Discussion  Subject'] = 'Discussion  Subject';
 $Definition['Discussion & Comment Editing'] = 'Discussion & Comment Editing';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
-
 $Definition['discussion(s)'] = 'discussion(s)';
-
 $Definition['Discussions Layout'] = 'Discussions Layout';
 $Definition['Discussions per Page'] = 'Discussions per Page';
 $Definition['Display in dashboard. (not recommended)'] = 'Display in dashboard. (not recommended)';
 $Definition['Display root categories as headings.'] = 'Display root categories as headings.';
-$Definition['Disqus Settings'] = 'Disqus Settings';
 $Definition['Do not display the categories in the side panel.'] = 'Do not display the categories in the side panel.';
 $Definition['Don\'t display for embedded comments.'] = 'Don\'t display for embedded comments.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Don\'t embed your forum admin dashboard (pop it out to full-screen)';
@@ -297,7 +294,6 @@ $Definition['DownloadLocalePack'] = 'Download';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
 
 $Definition['edit'] = 'edit';
-
 $Definition['Edit %s'] = 'Edit %s';
 $Definition['Edit Category'] = 'Edit Category';
 $Definition['Edit CSS'] = 'Edit CSS';
@@ -347,10 +343,6 @@ $Definition['Every %s minutes'] = 'Every %s minutes';
 $Definition['Every 1 minute'] = 'Every 1 minute';
 $Definition['Every %s second'] = 'Every second';
 $Definition['Every %s seconds'] = 'Every %s seconds';
-$Definition['Every 10 seconds'] = 'Every 10 seconds';
-$Definition['Every 30 seconds'] = 'Every 30 seconds';
-$Definition['Every 5 minutes'] = 'Every 5 minutes';
-$Definition['Every 5 seconds'] = 'Every 5 seconds';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
 $Definition['Every Page'] = 'Every Page';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
