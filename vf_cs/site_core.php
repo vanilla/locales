@@ -791,6 +791,7 @@ $Definition['on'] = 'na';
 $Definition['Online Preferences'] = 'Online nastavení';
 $Definition['Only show followed categories'] = 'Zobrazit pouze sledované kategorie';
 $Definition['OpenID Settings'] = 'Nastavení OpenID';
+$Definition['Optional'] = 'Nepovinný';
 $Definition['Optional Description'] = 'Volitelný popis';
 $Definition['Options'] = 'Možnosti';
 $Definition['or'] = 'nebo';

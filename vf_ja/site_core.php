@@ -815,6 +815,7 @@ $Definition['on'] = 'オン';
 $Definition['Online Preferences'] = 'オンライン設定';
 $Definition['Only show followed categories'] = '次のカテゴリーを公開するだけです';
 $Definition['OpenID Settings'] = 'OpenID 設定';
+$Definition['Optional'] = '任意';
 $Definition['Optional Description'] = '任意の記述';
 $Definition['Options'] = 'オプション';
 $Definition['or'] = 'か';

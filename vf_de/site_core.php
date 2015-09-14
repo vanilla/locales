@@ -935,7 +935,6 @@ $Definition['role'] = 'RollenID';
 $Definition['RoleID'] = 'RollenID';
 $Definition['Roles'] = 'Rollen';
 $Definition['roles'] = 'Rollen';
-$Definition['RSVP'] = 'Um Antwort wird gebeten';
 
 $Definition['Save'] = 'Speichern';
 $Definition['Save Comment'] = 'Kommentar speichern';

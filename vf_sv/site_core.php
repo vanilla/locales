@@ -781,6 +781,7 @@ $Definition['on'] = 'på';
 $Definition['Online Preferences'] = 'Onlineinställningar';
 $Definition['Only show followed categories'] = 'Klicka här för att se kategorier du följer';
 $Definition['OpenID Settings'] = 'Inställningar för OpenID';
+$Definition['Optional'] = 'Valfri';
 $Definition['Optional Description'] = 'Alternativ beskrivning';
 $Definition['Options'] = 'Alternativ';
 $Definition['or'] = 'eller';

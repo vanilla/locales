@@ -56,6 +56,7 @@ $Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test y
 $Definition['Public group.'] = 'Anyone can see the group and its content. Anyone can join.';
 
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
+$Definition['RSVP'] = 'Respond';
 
 $Definition['Source Code'] = 'Code';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';

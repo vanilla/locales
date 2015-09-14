@@ -794,6 +794,7 @@ $Definition['on'] = 'bật';
 $Definition['Online Preferences'] = 'Thiết lập trực tuyến';
 $Definition['Only show followed categories'] = 'Chỉ hiển thị danh mục đang theo dõi';
 $Definition['OpenID Settings'] = 'Thiết lập OpenID';
+$Definition['Optional'] = 'Không bắt buộc';
 $Definition['Optional Description'] = 'Thông tin thêm';
 $Definition['Options'] = 'Thiết lập';
 $Definition['or'] = 'hoặc';

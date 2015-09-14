@@ -128,6 +128,7 @@ $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. S
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
 $Definition['Report Notes'] = 'Notes';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
+$Definition['RSVP'] = 'Respond';
 
 $Definition['Saved'] = 'Your changes have been saved.';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';

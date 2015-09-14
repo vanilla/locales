@@ -796,6 +796,7 @@ $Definition['on'] = 'σε';
 $Definition['Online Preferences'] = 'Διαδικτυακές Προτιμήσεις';
 $Definition['Only show followed categories'] = 'Δείτε μόνο τις κατηγορίες που ακολουθείτε.';
 $Definition['OpenID Settings'] = 'Ρυθμίσεις OpenID';
+$Definition['Optional'] = 'Προαιρετικό';
 $Definition['Optional Description'] = 'Προαιρετική Περιγραφή';
 $Definition['Options'] = 'Επιλογές';
 $Definition['or'] = 'ή';

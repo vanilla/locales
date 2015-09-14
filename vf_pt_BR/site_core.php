@@ -801,6 +801,7 @@ $Definition['on'] = 'dentro de';
 $Definition['Online Preferences'] = 'Preferências OnLine';
 $Definition['Only show followed categories'] = 'Exibir somente categorias que eu sigo';
 $Definition['OpenID Settings'] = 'Configurações de OpenID';
+$Definition['Optional'] = 'Opcional';
 $Definition['Optional Description'] = 'Descrição Opcional';
 $Definition['Options'] = 'Opções';
 $Definition['or'] = 'ou';

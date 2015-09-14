@@ -817,6 +817,7 @@ $Definition['on'] = 'aika';
 $Definition['Online Preferences'] = 'Online-mieltymykset ';
 $Definition['Only show followed categories'] = 'N&auml;yt&auml; vain seurantaan asetetut kategoriat';
 $Definition['OpenID Settings'] = 'OpenID:n asetukset';
+$Definition['Optional'] = 'Valinnainen';
 $Definition['Optional Description'] = 'Valinnainen kuvausteksti';
 $Definition['Options'] = 'Valinnat';
 $Definition['or'] = 'tai';

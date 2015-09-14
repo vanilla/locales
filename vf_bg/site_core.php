@@ -812,6 +812,7 @@ $Definition['on'] = 'включен';
 $Definition['Online Preferences'] = 'Онлайн предимства';
 $Definition['Only show followed categories'] = 'Показвай само категориите, които биват следвани';
 $Definition['OpenID Settings'] = 'OpenID настройки';
+$Definition['Optional'] = 'Опционно';
 $Definition['Optional Description'] = 'Незадължително описание';
 $Definition['Options'] = 'Опции';
 $Definition['or'] = 'или';

@@ -84,6 +84,7 @@ $Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnec
 
 $Definition['Record Content'] = 'Content';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
+$Definition['RSVP'] = 'Respond';
 
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['SignedOut'] = 'You are signed out.';

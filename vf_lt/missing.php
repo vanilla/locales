@@ -126,6 +126,7 @@ $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. S
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
+$Definition['RSVP'] = 'Respond';
 
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';

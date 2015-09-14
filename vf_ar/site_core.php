@@ -797,6 +797,7 @@ $Definition['on'] = 'في';
 $Definition['Online Preferences'] = 'خيارات الاتصال';
 $Definition['Only show followed categories'] = 'اظهر فقط الاقسام التي تتابعها';
 $Definition['OpenID Settings'] = 'اعدادات الاوبن اي دي OpenID';
+$Definition['Optional'] = 'اختياري';
 $Definition['Optional Description'] = 'وصف اختياري';
 $Definition['Options'] = 'خيارات';
 $Definition['or'] = 'أو';

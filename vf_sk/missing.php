@@ -115,6 +115,7 @@ $Definition['Report Notes'] = 'Notes';
 $Definition['Report Reason'] = 'Reason';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['RoleID'] = 'role';
+$Definition['RSVP'] = 'Respond';
 
 $Definition['Saved'] = 'Your changes have been saved.';
 $Definition['SaveLocalePack'] = 'Save';

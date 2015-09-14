@@ -263,6 +263,7 @@ $Definition['Report Reason'] = 'Reason';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['RoleID'] = 'role';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
+$Definition['RSVP'] = 'Respond';
 
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Search for a tag.'] = 'Search for all or part of a tag.';

@@ -784,6 +784,7 @@ $Definition['on'] = 'på';
 $Definition['Online Preferences'] = 'Nettpreferanser';
 $Definition['Only show followed categories'] = 'Klikk her for å se kategorier du følger';
 $Definition['OpenID Settings'] = 'ÅpenID innstillinger';
+$Definition['Optional'] = 'Valgfritt';
 $Definition['Optional Description'] = 'Valgfri beskrivelse';
 $Definition['Options'] = 'Instillinger';
 $Definition['or'] = 'eller';

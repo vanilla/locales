@@ -800,6 +800,7 @@ $Definition['on'] = 'על';
 $Definition['Online Preferences'] = 'העדפות באינטרנט';
 $Definition['Only show followed categories'] = 'הראה רק את הקטגוריות הנעקבות';
 $Definition['OpenID Settings'] = 'הגדרות OpenID';
+$Definition['Optional'] = 'אופציונלי';
 $Definition['Optional Description'] = 'תאור אופציונלי';
 $Definition['Options'] = 'אפשריות';
 $Definition['or'] = 'או';

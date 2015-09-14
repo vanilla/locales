@@ -778,6 +778,7 @@ $Definition['on'] = 'til';
 $Definition['Online Preferences'] = 'Online-præferencer';
 $Definition['Only show followed categories'] = 'Vis kun kategorier der følges';
 $Definition['OpenID Settings'] = 'OpenID Indstillinger';
+$Definition['Optional'] = 'Valgfri';
 $Definition['Optional Description'] = 'Valgfri beskrivelse';
 $Definition['Options'] = 'Indstillinger';
 $Definition['or'] = 'eller';

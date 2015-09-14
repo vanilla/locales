@@ -795,6 +795,7 @@ $Definition['on'] = '在之上';
 $Definition['Online Preferences'] = '線上偏好設定';
 $Definition['Only show followed categories'] = '僅顯示關注類別';
 $Definition['OpenID Settings'] = 'OpenID 設定';
+$Definition['Optional'] = '選擇性的';
 $Definition['Optional Description'] = '選擇性描述';
 $Definition['Options'] = '選項';
 $Definition['or'] = '或';

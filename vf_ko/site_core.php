@@ -791,6 +791,7 @@ $Definition['on'] = '온';
 $Definition['Online Preferences'] = '온라인 설정';
 $Definition['Only show followed categories'] = '다음의 카테고리만 나타내기';
 $Definition['OpenID Settings'] = 'OpenID 설정';
+$Definition['Optional'] = '선택 사항';
 $Definition['Optional Description'] = '선택 사항인 설명';
 $Definition['Options'] = '설정';
 $Definition['or'] = '혹은';
