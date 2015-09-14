@@ -2,10 +2,10 @@
 
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s 接受了 %4$s 的邀請成為會員';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s 修改了 %4$s 的權限';
-$Definition['%1$s changed %6$s profile picture.'] = '%1$s 修改了 %6$s 資料.';
+$Definition['%1$s changed %6$s profile picture.'] = '%1$s 修改了 %6$s 個人圖示.';
 $Definition['%1$s commented on %4$s %8$s.'] = '%1$s 評論了 %4$s %8$s';
 $Definition['%1$s created an account for %4$s.'] = '%1$s 建立了一個帳號 %4$s';
-$Definition['%1$s joined.'] = '%1$s 加入.';
+$Definition['%1$s joined.'] = '%1$s 已加入';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s 在 %8$s 中提到了 %3$s.';
 $Definition['%1$s on %2$s'] = '%1$s在%2$s';
 $Definition['%1$s signed in.'] = '%1$s 登入了';
@@ -101,7 +101,7 @@ $Definition[' - Page %s'] = ' - 第 %s 頁';
 $Definition['1 message'] = '1 訊息';
 
 $Definition['[%1$s] Membership Approved'] = '批准了[%1$s]會員';
-$Definition['[%s] Welcome Aboard!'] = '[%s] 歡迎登載！';
+$Definition['[%s] Welcome Aboard!'] = '[%s] 歡迎加入！';
 $Definition['[Deleted User]'] = '[已刪除的用戶]';
 
 $Definition['About'] = '關於';
