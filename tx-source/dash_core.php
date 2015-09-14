@@ -364,7 +364,6 @@ $Definition['FileUpload is currently ON'] = 'FileUpload is currently ON';
 $Definition['Finished'] = 'Finished';
 $Definition['First Visit'] = 'First Visit';
 $Definition['Flood Control'] = 'Flood Control';
-$Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Force the forum to only be accessible through this url';
@@ -378,13 +377,7 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
-$Definition['Garden.Import.Description'] = 'Garden.Import.Description';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.Import.Merge'] = 'Merge with this forum.';
-$Definition['Garden.Import.Merge.Description'] = 'This will merge all of the user and discussion data from the import into this forum.
-<b>Warning: If you merge the same data twice you will get duplicate discussions.</b>';
-$Definition['Garden.Import.Overwrite'] = 'Overwrite this forum.';
-$Definition['Garden.Import.Overwrite.Description'] = 'Warning: All data in this forum will be overwritten.';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
@@ -393,7 +386,6 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assig
 $Definition['Gave badge to users.'] = 'Gave badge to users.';
 $Definition['Generate'] = 'Generate';
 $Definition['Generate Client ID and Secret'] = 'Generate Client ID and Secret';
-$Definition['Generate sphinx.conf'] = 'Generate sphinx.conf';
 $Definition['Get More Applications'] = 'Get More Applications';
 $Definition['Get more information on creating custom routes'] = 'Get more information on creating custom routes';
 $Definition['Get More Plugins'] = 'Get More Plugins';
@@ -401,13 +393,9 @@ $Definition['Get More Themes'] = 'Get More Themes';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
 $Definition['Getting Started'] = 'Getting Started';
 $Definition['Getting Started with Vanilla'] = 'Getting Started with Vanilla';
-
 $Definition['give'] = 'give';
-
-$Definition['Give an Badge'] = 'Give an Badge';
-$Definition['Give me a new account'] = 'Give me a new account';
+$Definition['Give a Badge'] = 'Give a Badge';
 $Definition['Given Indexes'] = 'Given Indexes';
-$Definition['Google Sign In Settings'] = 'Google Sign In Settings';
 $Definition['Guest'] = 'Guest';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
@@ -420,43 +408,20 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 $Definition['Heads up!'] = 'Heads up!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.';
 $Definition['Help &amp; Tutorials'] = 'Help &amp; Tutorials';
-$Definition['Here\'s how to get started'] = 'Here\'s how to get started';
 $Definition['Here\'s how to get started:'] = 'Here\'s how to get started:';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.';
 $Definition['Hidden for everything!'] = 'Hidden for everything!';
 $Definition['Hidden for mobile'] = 'Hidden for mobile';
-$Definition['Hide  Fields'] = 'Hide  Fields';
 $Definition['Hide from the recent discussions page.'] = 'Hide from the recent discussions page.';
 $Definition['Hide Pocket Locations'] = 'Hide Pocket Locations';
-$Definition['Hide this category from the recent discussions page.'] = 'Hide this category from the recent discussions page.';
 $Definition['Hide signatures for guests'] = 'Hide signatures for guests';
 $Definition['Hide signatures on embedded comments'] = 'Hide signatures on embedded comments';
 $Definition['Homepage'] = 'Homepage';
 $Definition['Homepage Title'] = 'Homepage Title';
 $Definition['How to use themes'] = 'How to use themes';
-$Definition['Html'] = 'Html';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
-$Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'If your file is bigger than 20M then you must upload it to a public url.';
-$Definition['If your file is small then just upload it here.'] = 'If your file is small then just upload it here.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
 $Definition['Inbox Page'] = 'Inbox Page';
@@ -464,20 +429,21 @@ $Definition['Indexes'] = 'Indexes';
 $Definition['Information'] = 'Information';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Install Vanilla without a .htaccess file.';
 $Definition['Internaltionalization & Localization'] = 'Internaltionalization & Localization';
-$Definition['Introducing Vanilla Comments'] = 'Introducing Vanilla Comments';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Introducing Vanilla Reactions and Badges';
 $Definition['Invalid category for deletion.'] = 'Invalid category for deletion.';
 $Definition['Invitation'] = 'Invitation';
 $Definition['Invitation Code'] = 'Invitation Code';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
+$Definition['InvitationMessage'] = 'Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.';
 $Definition['Invitations per month'] = 'Invitations per month';
 $Definition['Invitations will expire'] = 'Invitations will expire';
 $Definition['Invited by'] = 'Invited by';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.';
-
-$Definition['JS Connect Settings'] = 'JS Connect Settings';
-
 $Definition['jsConnect Client Libraries'] = 'jsConnect Client Libraries';
 $Definition['jsConnect Documentation'] = 'jsConnect Documentation';
 
@@ -486,19 +452,12 @@ $Definition['Key Value'] = 'Key Value';
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 
 $Definition['Label this Revision'] = 'Label this Revision';
-$Definition['Last time your forum communicated with the statistics server it received the following message:'] = 'Last time your forum communicated with the statistics server it received the following message:';
 $Definition['Last Visit'] = 'Last Visit';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
 $Definition['Level'] = 'Level';
 $Definition['Likes'] = 'Likes';
-$Definition['Limit the display of this plugin for mobile devices.'] = 'Limit the display of this plugin for mobile devices.';
-$Definition['Limit the display of this plugin to "mobile only".'] = 'Limit the display of this plugin to "mobile only".';
-$Definition['Limit the display of this pocket for embedded comments.'] = 'Limit the display of this pocket for embedded comments.';
-$Definition['Limit the display of this pocket for mobile devices.'] = 'Limit the display of this pocket for mobile devices.';
-$Definition['Limit the display of this pocket to "mobile only".'] = 'Limit the display of this pocket to "mobile only".';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limit the pocket to one or more roles or permissions.';
-$Definition['Link my existing account'] = 'Link my existing account';
 $Definition['Locale Key (Folder)'] = 'Locale Key (Folder)';
 $Definition['Locale Name'] = 'Locale Name';
 $Definition['Locales'] = 'Locales';
