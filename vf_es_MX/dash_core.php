@@ -458,7 +458,6 @@ $Definition['How to use themes'] = 'Como usar los temas ';
 $Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si se sube el logotipo de un banner, éste sustituirá al título del banner en las páginas de foros interactivos.';
-$Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'ProxyConnect.RimBlurb';
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Si tu archivo tiene más de 20 MB, debes subirlo a una URL pública.';
 $Definition['If your file is small then just upload it here.'] = 'Si el archivo es pequeño, entonces simplemente cárgalo aquí.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Si quieres disminuir el nivel de advertencia, debes eliminar una advertencia.';
@@ -627,18 +626,6 @@ $Definition['Polls'] = 'Encuestas';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Evita el spam en tu foro limitando el número de discusiones y comentarios que los usuarios pueden enviar dentro de un periodo de tiempo dado.';
 $Definition['Private Key'] = 'Clave privada';
 $Definition['Provider'] = 'Proveedor';
-$Definition['Proxy Connect'] = 'Conexión Proxy';
-$Definition['ProxyConnect.NoAuthenticate'] = 'Parece que no hemos podido
-               recuperar la sesión iniciada con el identificador de URL que
-              has especificado. Por favor, asegúrate de que has iniciado sesión en tu aplicación 
-              remota antes de llevar a cabo esta prueba.';
-$Definition['ProxyConnect.RimBlurb'] = 'Si estás usando ProxyConnect con un complemento de aplicación remota oficialmente compatible, como nuestro complemento WordPress-ProxyConnect, estos valores estarán disponibles en la pantalla de configuración del complemento.';
-$Definition['ProxyConnect.TestIntro'] = 'Con esta interfaz podrás probar tu configuración y asegurarte de que 
-    ProxyConnect está funcionando.';
-$Definition['ProxyConnect.TestSettings'] = 'Una vez que hayas configurado ProxyConnect más abajo y <b>guardado los cambios</b>, puedes probar tu nueva configuración pulsando "Probar la configuración de ProxyConnect".';
-$Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'Se ha configurado ProxyConnect para que funcione con tu blog, <b>%s</b>. Ahora sería un buen momento para activar el autentificador y hacer una pequeña prueba.';
-$Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'ProxyConnect se asigna con varios <b>gestores de integración remota</b> ya creados y diseñados para automatizar el proceso de instalación. Si tu aplicación se encuentra en la lista del menú desplegable de más abajo, selecciónalo ahora o elige la "integración manual".';
-$Definition['Proxy Connect Test'] = 'Prueba de Conexión Proxy';
 $Definition['Public Key'] = 'Clave pública';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Gruía rápida de cómo crear Diseños para Vanilla';
@@ -792,7 +779,6 @@ $Definition['There are no database structure changes required. There may, howeve
 $Definition['There are no items awaiting moderation at this time.'] = 'No hay items esperando moderación en este momento.';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'Ya existe una cuenta en este foro con tu dirección de correo electrónico. Por favor, crea una cuenta nueva o introduce los credenciales para la cuenta existente.';
 $Definition['The route was saved successfully.'] = 'La ruta se ha guardado correctamente.';
-$Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = 'Estas son las configuraciones que quizás necesites para configurar ProxyConnect en tu sitio web remoto.';
 $Definition['The secret secures the sign in process.'] = 'El secreto asegura el proceso de registro. <b>NO</b> le des el secreto a nadie.';
 $Definition['The site description usually appears in search engines.'] = 'La descripción del sitio web normalmente aparece en los motores de búsqueda. Debes intentar que la descripción tenga entre 100 y 150 caracteres.';
 $Definition['The site is currently undergoing scheduled maintenance.'] = 'El sitio está actualmente en mantenimiento programado.';
@@ -801,7 +787,6 @@ $Definition['The structure was successfully executed.'] = 'La estructura fue eje
 $Definition['The text of the pocket.'] = 'Introduce el texto del pocket. Éste aparecerá tal y como lo escribas, así que asegúrate de poner un HTML válido.';
 $Definition['The update was not successful.'] = 'La actualización no fue exitosa. ';
 $Definition['The update was successful.'] = 'La actualización fue exitosa. ';
-$Definition['The URL of your website where you will use ProxyConnect'] = 'La URL del sitio web donde usarás ProxyConnect';
 $Definition['The url that users go to to register for a new account.'] = 'La URL a la que acceden los usuarios para abrir una cuenta nueva.';
 $Definition['The url that users use to register for a new account.'] = 'La url que los usuarios usan para registrar una nueva cuenta. ';
 $Definition['The url that users use to sign in.'] = 'La url que los usuarios usan para ingresar.';
@@ -816,7 +801,6 @@ $Definition['The user has been deleted.'] = 'El usuario ha sido eliminado. ';
 $Definition['The user table was not in the import file.'] = 'La table de usuario no estaba en el archivo importado.';
 $Definition['The Vanilla 2 Exporter'] = 'El exportador Vanilla 2';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Las estadísticas vainilla convierte el panel de tu foro en una herramienta de informe de datos, permitiéndote revisar la actividad en tu foro en períodos de tiempos concretos. Puedes <a href="http://vanillaforums.org/docs/vanillastatistics"> leer más sobre las estadísticas vainilla </a> en nuestra documentación.';
-$Definition['The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.'] = 'El gestor de integración remota de WorPress no ha podido configurar tu sistema ProxyConnect de forma automática. Por favor, elige la integración "manual" más arriba y haz la configuración de forma manual.';
 $Definition['This action cannot be undone.'] = 'Esta acción no se puede deshacer.';
 $Definition['This category has custom permissions.'] = 'Esta categoría tiene permisos personalizados.';
 $Definition['This category is archived.'] = 'Esta categoría esta archivada. ';
@@ -956,7 +940,6 @@ $Definition['You must provide at least one recipient'] = 'Debes proporcionar al 
 $Definition['You must select a file to import.'] = 'Debes seleccionar un archivo para importar.';
 $Definition['You must specify an admin password.'] = 'Debes especificar una contraseña de administrador. ';
 $Definition['You must specify an admin username.'] = 'Debes especificar un nombre de usuario de un administrador.';
-$Definition['You need to configure ProxyConnect'] = 'Necesitas configurar ProxyConnect';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Su solicitud será revisada por un administrador. Si su solicitud es aprobada se le avisará por correo .';
 $Definition['Your changes were saved successfully.'] = 'Tus cambios se han guardado bien.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Tu configuración de archivos no tiene los permisos correctos. PHP necesita leer y escribir en este archivo: <code>%s</code>';

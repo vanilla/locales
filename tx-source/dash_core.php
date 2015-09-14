@@ -482,7 +482,6 @@ $Definition['How to use themes'] = 'How to use themes';
 $Definition['Html'] = 'Html';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
-$Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'If your file is bigger than 20M then you must upload it to a public url.';
 $Definition['If your file is small then just upload it here.'] = 'If your file is small then just upload it here.';
@@ -661,18 +660,6 @@ $Definition['Polls'] = 'Polls';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.';
 $Definition['Private Key'] = 'Private Key';
 $Definition['Provider'] = 'Provider';
-$Definition['Proxy Connect'] = 'Proxy Connect';
-$Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".';
-$Definition['Proxy Connect Test'] = 'Proxy Connect Test';
-$Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.';
-$Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
-               able to retrieve a logged-in session from the AuthenticateURL you
-               specified. Please make sure you are logged in to your remote application
-               before performing this test.';
-$Definition['ProxyConnect.RimBlurb'] = 'If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.';
-$Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that
-   ProxyConnect is working.';
-$Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 $Definition['Public Key'] = 'Public Key';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
@@ -830,7 +817,6 @@ $Definition['The structure was successfully executed.'] = 'The structure was suc
 $Definition['The text of the pocket.'] = 'Enter the text of the pocket. This will be output exactly as you type it so make sure that you enter valid HTML.';
 $Definition['The update was not successful.'] = 'The update was not successful.';
 $Definition['The update was successful.'] = 'The update was successful.';
-$Definition['The URL of your website where you will use ProxyConnect'] = 'The URL of your website where you will use ProxyConnect';
 $Definition['The url that users go to to register for a new account.'] = 'The url that users go to to register for a new account.';
 $Definition['The url that users use to register for a new account.'] = 'The url that users use to register for a new account.';
 $Definition['The url that users use to sign in.'] = 'The url that users use to sign in.';
@@ -845,7 +831,6 @@ $Definition['The user has been deleted.'] = 'The user has been deleted.';
 $Definition['The user table was not in the import file.'] = 'The user table was not in the import file.';
 $Definition['The Vanilla 2 Exporter'] = 'The Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
-$Definition['The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.'] = 'The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.';
 $Definition['Theme Options'] = 'Theme Options';
 $Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
 $Definition['Themes'] = 'Themes';
@@ -854,7 +839,6 @@ $Definition['There are currently no applicants.'] = 'There are currently no appl
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'There are no database structure changes required. There may, however, be data changes.';
 $Definition['There are no items awaiting moderation at this time.'] = 'There are no items awaiting moderation at this time.';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.';
-$Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = 'These are the settings you might need when you configure ProxyConnect on your remote website.';
 $Definition['This action cannot be undone.'] = 'This action cannot be undone.';
 $Definition['This category has custom permissions.'] = 'This category has custom permissions.';
 $Definition['This category is archived.'] = 'This category is archived.';
@@ -997,7 +981,6 @@ $Definition['You must provide at least one recipient'] = 'You must provide at le
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
 $Definition['You must specify an admin password.'] = 'You must specify an admin password.';
 $Definition['You must specify an admin username.'] = 'You must specify an admin username.';
-$Definition['You need to configure ProxyConnect'] = 'You need to configure ProxyConnect';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Your application will be reviewed by an administrator. You will be notified by email if your application is approved.';
 $Definition['Your changes were saved successfully.'] = 'Your changes were saved successfully.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>';

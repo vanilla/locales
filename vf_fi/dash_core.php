@@ -750,7 +750,6 @@ $Definition['You must provide at least one recipient'] = 'Valitse ainakin yksi v
 $Definition['You must select a file to import.'] = 'Valitse tiedosto jonka haluat tuoda';
 $Definition['You must specify an admin password.'] = 'M&auml;&auml;rit&auml; admin-k&auml;ytt&auml;j&auml;n salasana.';
 $Definition['You must specify an admin username.'] = 'M&auml;&auml;rit&auml; admin-k&auml;ytt&auml;j&auml;n k&auml;ytt&auml;j&auml;tunnus.';
-$Definition['You need to configure ProxyConnect'] = 'Sinun on määritettävä ProxyConnect';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Yll&auml;pito hyv&auml;ksyy manuaalisesti j&auml;senhakemukset. Saat s&auml;hk&ouml;postitse ilmoituksen kun hakemuksesi on k&auml;sitelty. Kiitos rekister&ouml;itymisest&auml;si!';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Konfigurointitiedostoon ei ole tarvittavia käyttöoikeuksia. PHP on kyettävä lukemaan ja kirjoittamaan tähän tiedostoon: <code>%s</ code>';
 $Definition['Your default locale won\'t display properly'] = 'Oletuskielitiedostosi ei toimi vaaditusti';

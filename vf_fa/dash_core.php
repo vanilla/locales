@@ -568,8 +568,6 @@ $Definition['Polls'] = 'نظرسنجی ها';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'با ایجاد محدودیت در تعداد جستارها و دیدگاه‌هایی که کاربران می‌توانند در یک دوره‌ی زمانی مشخص بفرستند، از فرستاده شدن اسپم در انجمن‌ جلوگیری کنید.';
 $Definition['Private Key'] = 'کلید خصوصی<br>Private Key';
 $Definition['Provider'] = 'ارائه‌دهنده';
-$Definition['Proxy Connect'] = 'اتصال پراکسی';
-$Definition['Proxy Connect Test'] = 'امتحان‌کردن اتصال پراکسی';
 $Definition['Public Key'] = 'کلید همگانی<br>Public Key';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'راهنمای سریع پوسته‌نویسی برای وانیلا';
@@ -843,7 +841,6 @@ $Definition['You must provide at least one recipient'] = 'بایستی دست‌
 $Definition['You must select a file to import.'] = 'شما باید یک پرونده را برای درون‌ریزی برگزینید.';
 $Definition['You must specify an admin password.'] = 'شما باید یک گذرواژه برای مدیر وارد کنید.';
 $Definition['You must specify an admin username.'] = 'شما باید یک نام کاربری برای مدیر وارد کنید.';
-$Definition['You need to configure ProxyConnect'] = 'شما به تنظیم کردن ProxyConnect نیازمندید';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'درخواست شما از سوی یک مدیر بازبینی خواهد شد. اگر درخواست شما تأیید شود، با رایانامه آگاه خواهید شد.';
 $Definition['Your changes were saved successfully.'] = 'تغییرات شما با موفقیت اعمال شدند';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'پرونده‌ی پیکربندی شما دارای پروانه‌ی درست نیست. PHP باید بتواند پرونده‌ی زیر را بخواند و روی آن بنویسد:<br><code>%s</code>';

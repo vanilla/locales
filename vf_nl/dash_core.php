@@ -452,7 +452,6 @@ $Definition['Homepage Title'] = 'Hoofdpagina Titel';
 $Definition['How to use themes'] = 'Hoe gebruik je thema\'s';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Als een bannerlogo wordt geüpload zal het de bannertitel op forumpagina\'s voor gebruikers vervangen.';
-$Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'Als je ProxyConnect met een officieel ondersteunde externe applicatie-plugin wilt gebruiken zoals onze wordpress-proxyconnect plugin, zullen deze waardes beschikbaar zijn in het configuratiescherm van de desbetreffende plugin.';
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Als je bestand groter is dan 20MB moet je het naar een publieke url uploaden.';
 $Definition['If your file is small then just upload it here.'] = 'Als je bestand klein is kun je het gewoon hier uploaden.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Als je het waarschuwingsniveau wilt verlagen moet je een waarschuwing verwijderen.';
@@ -618,18 +617,6 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'De pocket wordt weergeg
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets stellen je in staat om vrije HTML op verschillende plaatsen rond de applicatie toe te passen.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Voorkom spam op je forum door het aantal discussies &amp; reacties die gebruikers binnen een bepaalde tijd kunnen plaatsen te limiteren.';
 $Definition['Private Key'] = 'Privésleutel';
-$Definition['Proxy Connect'] = 'Proxyverbinding';
-$Definition['ProxyConnect.NoAuthenticate'] = 'Het lijkt er op dat we niet
-in staat zijn om een ingelogde sessie te halen vanaf de Authenticatie-URL die u
-opgaf. Zorg er alstublieft voor dat u ingelogd bent in uw remote app
-voordat u deze test uitvoert.';
-$Definition['ProxyConnect.RimBlurb'] = 'Als je ProxyConnect met een officieel ondersteunde applicatie gebruikt zoals onze wordpress-proxyconnect plugin, zullen deze waardes in het configuratiescherm van die plugin beschikbaar zijn.';
-$Definition['ProxyConnect.TestIntro'] = 'Met deze interface kunt u uw configuratie testen en er voor zorgen dat
-ProxyConnect werkt.';
-$Definition['ProxyConnect.TestSettings'] = 'Wanneer je ProxyConnect hieronder hebt geconfigureerd, <b>en je veranderingen hebt opgeslagen</b>, kun je je nieuwe instellingen testen door op \'Test ProxyConnect-instellingen\' te klikken';
-$Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect is geconfigureerd om te werken met je blog, <b>%s</b>. Nu is het een prima tijd om de authenticator te Activeren en een beetje te testen.';
-$Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect wordt meegeleverd met een aantal voorgebouwde <b>Externe Integratiemanagers</b>, elk ontworpen om het installatieproces te automatiseren. Als je externe applicatie in de drop-downlijst hieronder staat, selecteer het dan nu, anders kies je "Handmatige Integratie".';
-$Definition['Proxy Connect Test'] = 'Proxyverbinding Test';
 $Definition['Public Key'] = 'Openbare Sleutel';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Snelstartgids om Thema\'s voor Vanilla te Creëren';
@@ -778,7 +765,6 @@ $Definition['There are no database structure changes required. There may, howeve
 $Definition['There are no items awaiting moderation at this time.'] = 'Er wachten momenteel geen voorwerpen op moderatie.';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'Er is al een account in dit forum met jouw e-mailadres. Maak alstjeblieft een nieuw account aan, of vul de gegevens in voor het bestaande account.';
 $Definition['The route was saved successfully.'] = 'De route is succesvol opgeslagen.';
-$Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = 'Er zijn instellingen die je misschien nodig hebt wanneer je ProxyConnect op je externe website wilt configureren.';
 $Definition['The secret secures the sign in process.'] = 'Het geheim beveiligt het inlogproces. Geef het geheim <b>NIET</b> aan anderen door.';
 $Definition['The site description usually appears in search engines.'] = 'De sitebeschrijving verschijnt meestal in zoekmachines. Je moet proberen een beschrijving te hebben die tussen de 100 en 150 tekens lang is.';
 $Definition['The site is currently undergoing scheduled maintenance.'] = 'De site ondervindt momenteel geplant onderhoud.';
@@ -787,7 +773,6 @@ $Definition['The structure was successfully executed.'] = 'De structuur is succe
 $Definition['The text of the pocket.'] = 'Voer de tekst in van de pocket. Deze zal precies tonen wat je typt, dus zorg ervoor dat je correcte HTML gebruikt.';
 $Definition['The update was not successful.'] = 'De update was niet succesvol.';
 $Definition['The update was successful.'] = 'De update was succesvol.';
-$Definition['The URL of your website where you will use ProxyConnect'] = 'De URL van je website waar je ProxyConnect zult gebruiken';
 $Definition['The url that users go to to register for a new account.'] = 'De url waar gebruikers naartoe gaan om een nieuw account te registreren.';
 $Definition['The url that users use to register for a new account.'] = 'De url die gebruikers gebruiken om een nieuw account te registreren.';
 $Definition['The url that users use to sign in.'] = 'De url die gebruikers gebruiken om in te loggen.';
@@ -802,7 +787,6 @@ $Definition['The user has been deleted.'] = 'De gebruiker is verwijderd.';
 $Definition['The user table was not in the import file.'] = 'De gebruikerstabel was niet in het importbestand';
 $Definition['The Vanilla 2 Exporter'] = 'De Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics verandert je forumdashboard in een statistiekenrapportagemiddel, waarmee je activiteit op je forum over een specifieke tijdsperiode kunt zien. Je kunt <a href="http://vanillaforums.org/docs/vanillastatistics">meer lezen over Vanilla Statistieken</a> in onze documentatie.';
-$Definition['The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.'] = 'De Wordpress Externe Integratiemanager kon je ProxyConnect-systeem niet automatisch configureren. Kies alstublieft \'Handmatige\' Integratie hierboven en voer een handmatige configuratie uit.';
 $Definition['This action cannot be undone.'] = 'Deze actie kan niet ongedaan gemaakt worden.';
 $Definition['This category has custom permissions.'] = 'Deze categorie heeft aangepaste rechten.';
 $Definition['This category is archived.'] = 'Deze categorie is gearchiveerd.';
@@ -941,7 +925,6 @@ $Definition['You must provide at least one recipient'] = 'Je moet op zijn minst 
 $Definition['You must select a file to import.'] = 'Je moet een bestand selecteren om te importeren.';
 $Definition['You must specify an admin password.'] = 'Je moet een adminstratorwachtwoord aangeven.';
 $Definition['You must specify an admin username.'] = 'Je moet een administratorgebruikersnaam aangeven.';
-$Definition['You need to configure ProxyConnect'] = 'Je moet ProxyConnect configureren';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Je aanvraag zal worden beoordeeld door een beheerder. Als je aavraag is goedgekeurd, zul je  op de hoogte worden gesteld via een e-mail ';
 $Definition['Your changes were saved successfully.'] = 'Je veranderingen zijn succesvol opgeslagen.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Je configuratiebestand heeft niet de juiste rechten. PHP moet kunnen lezen en schrijven naar dit bestand: <code>%s</code>';

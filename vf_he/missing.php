@@ -65,13 +65,6 @@ $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.'
 
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
-$Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
-               able to retrieve a logged-in session from the AuthenticateURL you
-               specified. Please make sure you are logged in to your remote application
-               before performing this test.';
-$Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that
-   ProxyConnect is working.';
-$Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 

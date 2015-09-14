@@ -42,14 +42,6 @@ $Definition['Locales allow you to support other languages on your site.'] = 'Loc
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
-$Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
-               able to retrieve a logged-in session from the AuthenticateURL you
-               specified. Please make sure you are logged in to your remote application
-               before performing this test.';
-$Definition['ProxyConnect.RimBlurb'] = 'If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.';
-$Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that
-   ProxyConnect is working.';
-$Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 

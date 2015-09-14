@@ -282,14 +282,6 @@ $Definition['PreferenceBadgeEmail'] = 'Notify me when I earn a badge.';
 $Definition['PreferenceBadgePopup'] = 'Notify me when I earn a badge.';
 $Definition['Private group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
 $Definition['ProfileFieldsCustomDescription'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
-$Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
-               able to retrieve a logged-in session from the AuthenticateURL you
-               specified. Please make sure you are logged in to your remote application
-               before performing this test.';
-$Definition['ProxyConnect.RimBlurb'] = 'If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.';
-$Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that
-   ProxyConnect is working.';
-$Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
 $Definition['Public group.'] = 'Anyone can see the group and its content. Anyone can join.';
 
 $Definition['Q&A Accepted'] = 'Answered ✓';

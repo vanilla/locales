@@ -423,7 +423,6 @@ $Definition['Homepage Title'] = 'Τίτλος Αρχικής Σελίδας';
 $Definition['How to use themes'] = 'Πως να χρησιμοποιήσετε τα θέματα';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Αν ανεβάσετε ένα λογότυπο, θα αντικαταστήσει τον τίτλο του πανό στο μέρος του φόρουμ που βλέπουν οι χρήστες.';
-$Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'Αν χρησιμοποιείτε το ProxyConnect με ένα επίσημα υποστηριζόμενο πρόσθετο απομακρυσμένης εφαρμογής, όπως το πρόσθετο wordpress-proxyconnect, αυτές οι τιμές θα είναι διαθέσιμες στην οθόνη ρυθμίσεων του πρόσθετου.';
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Αν το αρχείο σας είναι μεγαλύτερο από 20M, τότε πρέπιε να το ανεβάσετε σε ένα δημόσιο url.';
 $Definition['If your file is small then just upload it here.'] = 'Αν το αρχείο σας είναι μικρό, τότε ανεβάστε το απλά εδώ.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Αν θέλετε να μειώσετε το επίπεδο προειδοποιήσενω τότε αφαιρέστε μία προειδοποίηση.';
@@ -554,7 +553,6 @@ $Definition['Outgoing Email Address'] = 'Email διεύθυνση εξερχόμ
 $Definition['Pending'] = 'Εκκρεμεί';
 $Definition['Permission.Category'] = 'Κατηγορία';
 $Definition['Polls'] = 'Δημοσκοπήσεις';
-$Definition['ProxyConnect.RimBlurb'] = 'Αν χρησιμοποιείτε το ProxyConnect με ένα επίσημα υποστηριζόμενο πρόσθετο απομακρυσμένης εφαρμογής, όπως το πρόσθετο wordpress-proxyconnect, αυτές οι τιμές θα είναι διαθέσιμες στην οθόνη ρυθμίσεων του πρόσθετου.';
 
 $Definition['Ranks'] = 'Βαθμοί';
 $Definition['Register Url'] = 'URL εγγραφής';

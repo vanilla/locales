@@ -459,7 +459,6 @@ $Definition['Homepage Title'] = '首页标题';
 $Definition['How to use themes'] = '怎样使用主题';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '上传的站点LOGO将替换页面的站点名称。';
-$Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = '如果你在 ProxyConnect 中使用了官方支持的远程应用插件，如我们的 wordpress-proxyconnect 插件，那么这些设定值可以在插件配置页面中找到。';
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = '如果你的文件大于 20M， 你必须上传到其他的公共地址。';
 $Definition['If your file is small then just upload it here.'] = '小文件请上传到这里。';
 $Definition['If you want to decrease the warning level then remove a warning.'] = '如果您想降低报警级别，请尝试解决报警的问题。';
@@ -628,17 +627,6 @@ $Definition['Polls'] = '调查';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '限制用户一定时间内的话题和回复数可以防止垃圾信息。';
 $Definition['Private Key'] = '私钥';
 $Definition['Provider'] = '提供者';
-$Definition['Proxy Connect'] = '代理连接';
-$Definition['ProxyConnect.NoAuthenticate'] = '看起来我们无法从您指定的 AuthenticateURL 接收到一个已登录会话。
-请确定您在执行此测试前，已经登录到
-您的远程应用程序。';
-$Definition['ProxyConnect.RimBlurb'] = '如果你在 ProxyConnect 中使用了官方支持的远程应用插件，如我们的 wordpress-proxyconnect 插件，那么这些设定值可以在插件配置页面中找到。';
-$Definition['ProxyConnect.TestIntro'] = '此接口允许您测试您的配置，确保
-ProxyConnect 工作正常。';
-$Definition['ProxyConnect.TestSettings'] = '当你配置好下面的 ProxyConnect，<b>并保存之后</b>，你可以点击“测试Test ProxyConnect 配置”';
-$Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect 设置完成，已连接到你的博客，%s。现在请激活认证管理器并进行一些测试。';
-$Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect 提供了多种预置的 <b>远程集成管理器</b>，它们都用来自动完成设置过程。如果你的远程应用在下拉框之中，请选择，或选择“手动集成”。';
-$Definition['Proxy Connect Test'] = '代理连接测试';
 $Definition['Public Key'] = '公钥';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = '创建Vanilla主题快速指南';
@@ -793,7 +781,6 @@ $Definition['There are no database structure changes required. There may, howeve
 $Definition['There are no items awaiting moderation at this time.'] = '没有等待审核的条目。';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = '论坛中已经有帐户使用你提供的电子邮件地址。请创建新帐户，或者输入已有帐户的凭据。';
 $Definition['The route was saved successfully.'] = '路由保存成功。';
-$Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = '这些是你在为远程站点配置 代理链接的过程中可能用到的设置。';
 $Definition['The secret secures the sign in process.'] = '密钥确保登录过程的安全性。<b>请勿</b>将此密钥提供给任何人。';
 $Definition['The site description usually appears in search engines.'] = '站点描述通常被搜索引擎收录。你应当保证描述内容长度在100到150个字符之间。';
 $Definition['The site is currently undergoing scheduled maintenance.'] = '本站点正处于计划维护模式中。';
@@ -802,7 +789,6 @@ $Definition['The structure was successfully executed.'] = '表结构代码已成
 $Definition['The text of the pocket.'] = '请为Pocket输入文本。请确认输入合法的HTML代码，以便正确显示。';
 $Definition['The update was not successful.'] = '更新不成功。';
 $Definition['The update was successful.'] = '更新成功。';
-$Definition['The URL of your website where you will use ProxyConnect'] = '你在代理链接中配置的站点链接';
 $Definition['The url that users go to to register for a new account.'] = '用户访问该链接以注册新账户。';
 $Definition['The url that users use to register for a new account.'] = '用户使用该链接以注册新账户。';
 $Definition['The url that users use to sign in.'] = '用户访问该链接以登录。';
@@ -817,7 +803,6 @@ $Definition['The user has been deleted.'] = '此用户已被删除。';
 $Definition['The user table was not in the import file.'] = '导入的文件中不存在用户表。';
 $Definition['The Vanilla 2 Exporter'] = 'Vanilla 2 导入工具';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla 统计可以将你的论坛控制面板变成报告分析工具，以便查看任何时间段内论坛的活动。你可以在我们的文档库中 <a href="http://vanillaforums.org/docs/vanillastatistics">查看更多关于 Vanilla 统计的内容</a>。';
-$Definition['The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.'] = 'Wordpress 远程集成管理器无法自动配置 ProxyConnect 系统。请在上面选择“手动集成”，并自行完成配置。';
 $Definition['This action cannot be undone.'] = '此操作不能执行。';
 $Definition['This category has custom permissions.'] = '该板块有单独的权限设置。';
 $Definition['This category is archived.'] = '这个板块已经存档';
@@ -957,7 +942,6 @@ $Definition['You must provide at least one recipient'] = '你必须提供至少�
 $Definition['You must select a file to import.'] = '您必须选择一个要导入的文件。';
 $Definition['You must specify an admin password.'] = '您必须指定一个管理员密码。';
 $Definition['You must specify an admin username.'] = '您必须指定一个管理员用户名。';
-$Definition['You need to configure ProxyConnect'] = '你需要配置 ProxyConnect';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = '您的应用程序将由一名管理员审核。在您的应用程序获得批准后，您将收到电子邮件通知。';
 $Definition['Your changes were saved successfully.'] = '您的更改已经成功保存。';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = '你的配置文件访问权限错误。PHP需要对此文件的读写权限：<code>%s</code>';

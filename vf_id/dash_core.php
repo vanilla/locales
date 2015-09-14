@@ -453,7 +453,6 @@ $Definition['Homepage Title'] = 'Judul Laman Beranda';
 $Definition['How to use themes'] = 'Bagaimana menggunakan tema';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Bila sebuah logo diunggah, itu akan menggantikan judul banner pada halaman forum yang dilihat pengguna.';
-$Definition['If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.'] = 'Bila anda menggunakan ProxyConnect dengan dukungan resmi berupa plugin aplikasi terkendali seperti plugin kepunyaan kami wordpress-proxyconnect, nilai-nilai ini akan tersedia pada layar konfigurasi plugin tersebut.';
 $Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Bila file anda lebih besar dari 20M maka anda harus mengunggahnya melalui url publik.';
 $Definition['If your file is small then just upload it here.'] = 'Bila file anda lebih kecil maka cukup mengunggahnya dari sini.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Bila anda ingin mengurangi tingkat peringatan maka hilangkan sebuah peringatan.';
@@ -619,16 +618,6 @@ $Definition['Polls'] = 'Pemungutan';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Cegah spam di forum anda dengan membatasi jumlah diskusi &amp; komentar yang bisa dikirim pengguna dalam periode waktu tertentu.';
 $Definition['Private Key'] = 'Kunci Privat';
 $Definition['Provider'] = 'Penyedia';
-$Definition['Proxy Connect'] = 'Koneksi Proxy';
-$Definition['ProxyConnect.NoAuthenticate'] = 'Tampaknya kami tak dapat menerima sesi masuk dari
-OtentikasiURL yang Anda tentukan. Harap pastikan Anda masuk ke
-aplikasi remote Anda sebelum melakukan tes ini.';
-$Definition['ProxyConnect.RimBlurb'] = 'Bila anda menggunakan ProxyConnect yang disertai dukungan resmi plugin aplikasi terkendali seperti plugin wordpress-proxyconnect yang kami miliki, nilai-nilai ini akan tersedia pada layar konfigurasi plugin tersebut.';
-$Definition['ProxyConnect.TestIntro'] = 'Antarmuka ini mengizinkan Anda menguji konfigurasi dan memastikan bahwa ProxyConnect bekerja dengan baik.';
-$Definition['ProxyConnect.TestSettings'] = 'Segera setelah anda mengkonfigurasi ProxyConnect di bawah ini, <b>dan menyimpan perubahan anda</b>, anda dapat menguji setelan baru anda dengan menekan \'Tes Setelan ProxyConnect\'';
-$Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect telah dikonfigurasi supaya dapat bekerja dengan blog anda, <b>%s</b>. Sekarang saat yang bagus untuk Mengaktivasi autentikator dan lakukan sedikit tes.';
-$Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect dikemas bersama beberapa pre-built <b>Remote Integration Managers</b>, yang masing-masing didesain mengotomatisasi proses penyetelannya. Bila aplikasi terkendali anda telah terdaftar pada dropdown di bawah ini, pilihlah sekarang, bila tidak pilihlah "Integrasi Manual".';
-$Definition['Proxy Connect Test'] = 'Tes Koneksi Proxy';
 $Definition['Public Key'] = 'Key Publik';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Panduan Cepat-Mulai untuk Membuat Tema Vanilla';
@@ -782,7 +771,6 @@ $Definition['There are no database structure changes required. There may, howeve
 $Definition['There are no items awaiting moderation at this time.'] = 'Belum ada item yang menunggu untuk dimoderasi pada saat ini.';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'Sudah ada yang memiliki akun dengan alamat email anda. Silahkan buat akun baru, atau masukkan data kredensial dari akun yang telah ada tersebut.';
 $Definition['The route was saved successfully.'] = 'Route berhasil disimpan.';
-$Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = 'Ini adalah setelan yang mungkin anda butuhkan saat anda mengkonfigurasi ProxyConnect pada situs terkendali anda.';
 $Definition['The secret secures the sign in process.'] = 'Secret mengamankan proses masuk. <b>JANGAN PERNAH</b> memberikan secret kepada siapapun.';
 $Definition['The site description usually appears in search engines.'] = 'Deskripsi situs biasanya tampil pada mesin pencari. Anda harus mencoba membuat deskripsi yang panjangnya antara 100-150 karakter.';
 $Definition['The site is currently undergoing scheduled maintenance.'] = 'Situs sedang dalam jadwal pemeliharaan.';
@@ -791,7 +779,6 @@ $Definition['The structure was successfully executed.'] = 'Struktur berhasil die
 $Definition['The text of the pocket.'] = 'Masukkan teks dari pocket. Ini akan menjadi keluaran persis seperti yang anda ketikkan maka pastikan anda memasukkan HTML yang benar.';
 $Definition['The update was not successful.'] = 'Pembaruan tidak berjalan sukses.';
 $Definition['The update was successful.'] = 'Pembaruan berjalan sukses.';
-$Definition['The URL of your website where you will use ProxyConnect'] = 'URL situs anda yang akan menggunakan ProxyConnect';
 $Definition['The url that users go to to register for a new account.'] = 'Url di mana pengguna mendaftarkan diri untuk akun baru.';
 $Definition['The url that users use to register for a new account.'] = 'Url di mana pengguna mendaftarkan diri untuk akun baru.';
 $Definition['The url that users use to sign in.'] = 'Url di mana pengguna gunakan untuk masuk.';
@@ -806,7 +793,6 @@ $Definition['The user has been deleted.'] = 'Pengguna telah dihapus.';
 $Definition['The user table was not in the import file.'] = 'Tabel pengguna tidak berada dalam file impor.';
 $Definition['The Vanilla 2 Exporter'] = 'Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Statistik Vanilla menjadikan dashboard forum anda menjadi perangkat pelaporan teranalisis, memungkinkan anda untuk meninjau aktivitas forum anda dengan periode waktu tertentu. Anda dapat <a href="http://vanillaforums.org/docs/vanillastatistics">membaca lebih lanjut tentang Statistik Vanilla</a> pada dokumentasi kami.';
-$Definition['The Wordpress Remote Integration Manager has been unable to automatically configure your ProxyConnect system. Please choose \'Manual\' Integration above and perform a manual configuration.'] = 'Wordpress Remote Integration Manager tidak dapat mengkonfigurasi secara otomatis sistem ProxyConnect anda. Silahkan pilih Integrasi \'Manual\' di atas dan lakukan konfigurasi manual.';
 $Definition['This action cannot be undone.'] = 'Aksi ini tidak dapat dibatalkan.';
 $Definition['This category has custom permissions.'] = 'Kategori ini memiliki perizinan yang disesuaikan.';
 $Definition['This category is archived.'] = 'Kategori ini diarsipkan.';
@@ -941,7 +927,6 @@ $Definition['You must provide at least one recipient'] = 'Anda harus menyediakan
 $Definition['You must select a file to import.'] = 'Anda harus memilih sebuah file untuk diimpor.';
 $Definition['You must specify an admin password.'] = 'Anda harus menspesifikasikan password admin.';
 $Definition['You must specify an admin username.'] = 'Anda harus menspesifikasikan username admin.';
-$Definition['You need to configure ProxyConnect'] = 'Anda perlu mengkonfigurasikan ProxyConnect';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Aplikasi anda akan ditinjau oleh administrator. Anda akan diberitahu melalui email bila aplikasi anda disetujui.';
 $Definition['Your changes were saved successfully.'] = 'Perubahan anda berhasil disimpan.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'File konfigurasi anda tidak memiliki perizinan yang benar. PHP harus bisa membaca dan menulis pada file ini: <code>%s</code>';

@@ -38,15 +38,6 @@ $Definition['Locales allow you to support other languages on your site.'] = 'Loc
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 
-$Definition['ProxyConnect.NoAuthenticate'] = 'It doesn\'t seem like we were
-               able to retrieve a logged-in session from the AuthenticateURL you
-               specified. Please make sure you are logged in to your remote application
-               before performing this test.';
-$Definition['ProxyConnect.RimBlurb'] = 'If you are using ProxyConnect with an officially supported remote application plugin such as our wordpress-proxyconnect plugin, these values will be available in that plugin\'s configuration screen.';
-$Definition['ProxyConnect.TestIntro'] = 'This interface will allow you to test your configuration and ensure that
-   ProxyConnect is working.';
-$Definition['ProxyConnect.TestSettings'] = 'Once you have configured ProxyConnect below, <b>and saved your changes</b>, you can test your new settings by pressing \'Test ProxyConnect Settings\'';
-
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
 
