@@ -201,10 +201,8 @@ $Definition['Forum Settings'] = 'Forumo nustatymai';
 $Definition['Frequency'] = 'Dažnis';
 $Definition['From'] = 'Nuo';
 
-$Definition['Garden.Import.Merge'] = 'Susieti su šiuo forumu.';
 $Definition['Generate'] = 'Generuoti';
 $Definition['Generate Client ID and Secret'] = 'Generuoti kliento ID ir paslaptį';
-$Definition['Generate sphinx.conf'] = 'Generuoti sphinx.conf';
 $Definition['Get More Applications'] = 'Rasti daugiau programų';
 $Definition['Get More Plugins'] = 'Rasti daugiau įskiepių';
 $Definition['Get More Themes'] = 'Rasti daugiau temų';
@@ -213,7 +211,6 @@ $Definition['Guest'] = 'Svečias';
 
 $Definition['Hash Algorithm'] = 'Maišos algoritmas';
 $Definition['Hide from the recent discussions page.'] = 'Pasislėpti paskutinių diskusijų puslapyje.';
-$Definition['Hide this category from the recent discussions page.'] = 'Slėpti šią kategoriją paskutinių diskusijų puslapyje.';
 $Definition['Homepage'] = 'Pradžios tinklapis';
 $Definition['Homepage Title'] = 'Pradžios tinklapio pavadinimas';
 $Definition['How to use themes'] = 'Kaip naudoti temas';
@@ -230,7 +227,6 @@ $Definition['Invited by'] = 'Pakvietė';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect kliento bibliotekos';
 $Definition['jsConnect Documentation'] = 'jsConnect dokumentacija';
-$Definition['JS Connect Settings'] = 'JS susijungimo nustatymai';
 
 $Definition['Key Type'] = 'Rakto tipas';
 $Definition['Key Value'] = 'Rakto reikšmė';
@@ -253,8 +249,6 @@ $Definition['Manage Roles & Permissions'] = 'Tvarkyti taisykles ir leidimus';
 $Definition['Manage Spam'] = 'Tvarkyti šlamštą';
 $Definition['Manage Themes'] = 'Tvarkyti temas';
 $Definition['Manage Users'] = 'Tvarkyti vartotojus';
-$Definition['Manage users'] = 'Tvarkyti vartotojus';
-$Definition['Manage your Plugins'] = 'Tvarkyti tavo papildinius';
 $Definition['Managing Categories'] = 'Tvarkyti kategorijas';
 $Definition['Manual'] = 'Rankinis';
 $Definition['Max Comment Length'] = 'Maksumalus komentaro ilgis';
@@ -273,7 +267,6 @@ $Definition['never'] = 'niekada';
 $Definition['Notes'] = 'Pastabos';
 $Definition['Not Spam'] = 'Ne brukalas';
 
-$Definition['One, two, three...'] = 'Vienas, du, trys...';
 $Definition['Organize'] = 'Tvarkyti';
 $Definition['Organize Categories'] = 'Tvarkyti kategorijas';
 $Definition['Original Version'] = 'Originali versija';
@@ -314,14 +307,12 @@ $Definition['Reveal Password'] = 'Parodyti slaptažodį';
 $Definition['Role'] = 'Rolė';
 
 $Definition['Saved'] = 'Jūsų pakeitimai buvo išsaugoti.';
-$Definition['SaveLocalePack'] = 'Išsaugota';
 $Definition['Security'] = 'Saugumas';
 $Definition['Select'] = 'Pažymėti';
 $Definition['Send %s a Message'] = 'Išsiųsti %s žinutę';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Išsiųsti priminimą el. paštu kuomet žmogus užduodą klausimą arba pradeda naują diskusiją el. paštu.';
 $Definition['Send Again'] = 'Siųsti dar kartą';
 $Definition['Send Invitations!'] = 'Siųsti pakvietimus!';
-$Definition['Sign in'] = 'Prisijungti';
 $Definition['Sign In Url'] = 'Prisijungimo nuoroda';
 $Definition['Site Description'] = 'Svetainės aprašymas';
 $Definition['Site Name'] = 'Svetainės pavadinimas';
@@ -371,12 +362,8 @@ $Definition['UserKeep'] = 'Palinkti vartotojo turinį';
 $Definition['User Registration Settings'] = 'Naudotojo registracijos nustatymai';
 $Definition['Users'] = 'Naudotojai';
 $Definition['User Summary'] = 'Naudotojo reziumė';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Naudok šiuos laukelius sukurti papildomai profilio informacijai sukurti. Galima sukurti tokius laukelius kaip „Šeimynė padėtis“, „Skype“, „Mėgstamas dinozauras“, „Įkalinimo įstaiga“. Būk kūrybingas!';
 
-$Definition['Vanilla Configuration'] = 'Vanilla konfigūracija';
-$Definition['Vanilla Cookie Domain'] = 'Vanilla slapuko domenas';
 $Definition['Vanilla is installed!'] = 'Vanilla įdiegta!';
-$Definition['Vanilla Sphinx Help'] = 'Vanilla Sphinx pagalba';
 $Definition['Verified!'] = 'Patikrinta!';
 $Definition['Version'] = 'Versija';
 $Definition['Version %s'] = 'Versija %s';

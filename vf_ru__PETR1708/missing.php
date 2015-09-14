@@ -1,3 +1,3 @@
 <?php
 
-$Definition['RSVP'] = 'Respond';
+$Definition['Html'] = 'HTML';

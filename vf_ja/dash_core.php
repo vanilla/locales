@@ -127,14 +127,11 @@ $Definition['Finished'] = '完了';
 $Definition['First Visit'] = '訪問開始';
 $Definition['Forum Settings'] = 'フォーラム設定';
 
-$Definition['Garden.Import.Description'] = 'このページを使用して、Vanilla のエクスポート機能を使用してエクスポートされた別のフォーラムからのデータをインポートしてください。 詳しくは<a href="%s">インポートについて (英語)</a> を参照してください。';
 $Definition['Garden.Import.InputInstructions'] = 'インポートされるデータの管理者ユーザーのメールアドレスとパスワードを入力してください。';
-$Definition['Garden.Import.Overwrite.Description'] = '警告: このフォーラムのすべてのデータが上書きされます。';
 $Definition['Get More Applications'] = '他のアプリケーション';
 $Definition['Get more information on creating custom routes'] = '独自のルートを作成するなら、詳しくはこちら';
 $Definition['Get More Plugins'] = '他のプラグイン';
 $Definition['Get More Themes'] = '他のテーマ';
-$Definition['Google Sign In Settings'] = 'Google ログイン 設定';
 $Definition['Guest'] = 'ゲスト';
 
 $Definition['Hash Algorithm'] = 'ハッシュアルゴリズム';
@@ -177,7 +174,6 @@ $Definition['Manage Routes'] = 'ルート管理';
 $Definition['Manage Spam'] = 'スパム管理';
 $Definition['Manage Themes'] = 'テーマ管理';
 $Definition['Manage Users'] = 'ユーザー管理';
-$Definition['Manage your Plugins'] = 'プラグインを管理する';
 $Definition['Managing Categories'] = 'カテゴリの管理 (英語)';
 $Definition['Manual'] = 'マニュアル';
 $Definition['Max Comment Length'] = 'コメント最大文字数';
@@ -205,7 +201,6 @@ $Definition['New users in the last day'] = '過去一日間の新規ユーザー
 $Definition['New users in the last week'] = '過去一週間の新規ユーザー数';
 $Definition['None'] = 'なし';
 
-$Definition['Only Allow Each User To Post'] = '1 ユーザーにつき投稿可能な件数';
 $Definition['Organize Categories'] = 'カテゴリ編成';
 $Definition['Or Spamblock For'] = '違反時のスパムブロック時間';
 $Definition['Other'] = 'その他';
@@ -213,7 +208,6 @@ $Definition['Other Themes'] = '他のテーマ';
 $Definition['Outgoing Email'] = 'メール送信';
 
 $Definition['Page'] = '表示対象';
-$Definition['Panel Box'] = 'パネル ボックス';
 $Definition['Password Options'] = 'パスワード オプション';
 $Definition['Permission.Category'] = 'カテゴリ';
 $Definition['Please choose an authenticator to configure.'] = '設定したい認証方式を選んでください。';
@@ -246,11 +240,9 @@ $Definition['Routes'] = 'ルート';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'ルートは URL に基づきユーザーを適切なページへリダイレクトするために使用されます。';
 
 $Definition['Saved'] = '変更を保存しました。';
-$Definition['SaveLocalePack'] = '保存';
 $Definition['Search by user or role.'] = 'ユーザー名またはロール (管理者:<input type="text" value="Administrator" size="13" onclick="this.select()" />, 申請者:<input type="text" value="Applicant" size="9" onclick="this.select()" />, 利用禁止:<input type="text" value="Banned" size="6" onclick="this.select()" />, ゲスト:<input type="text" value="Guest" size="5" onclick="this.select()" />, メンバー:<input type="text" value="Member" size="7" onclick="this.select()" />, モデレータ:<input type="text" value="Moderator" size="10" onclick="this.select()" />, メール確認待ち:<input type="text" value="Confirm Email" size="15" onclick="this.select()" />) で検索します。';
 $Definition['seconds'] = '秒間';
 $Definition['Security'] = 'セキュリティ';
-$Definition['Select the file to import'] = 'インポートするファイルを選択してください';
 $Definition['Send %s a Message'] = '%s にメッセージを送信';
 $Definition['Sent To'] = '送信';
 $Definition['Site Description'] = 'サイトの説明';
@@ -263,7 +255,6 @@ $Definition['Status'] = 'ステータス';
 $Definition['Subject'] = 'タイトル';
 
 $Definition['Temporary (302)'] = '一時的 (302)';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'ありがとうございます！';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'ユーザー認証方式 %s には設定オプションがありません。';
 $Definition['The %s table is not in the correct format.'] = '%s テーブルの形式が不正です。';
@@ -286,8 +277,6 @@ $Definition['The user table was not in the import file.'] = 'ユーザーテー�
 $Definition['The Vanilla 2 Exporter'] = 'Vanilla Porter プラグイン (英語)';
 $Definition['This category has custom permissions.'] = 'このカテゴリの権限をカスタマイズする';
 $Definition['This forum is currently set to invitation only mode.'] = 'このフォーラムは現在、招待制に設定されています。';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'このプラグインを使うと、OpenID でログインできます。<b>このプラグインを有効にした後、OpenID を有効化する設定を、必ずクリックしてください</b>。';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'このプラグインを使うと、Googleアカウントでログインできます。<b>OpenIDプラグインが有効になっている必要があります。また、このプラグインを有効にした後、Google アカウントでのログインを有効化する設定を必ずクリックしてください</b>。';
 $Definition['This theme has additional options.'] = 'このテーマは %s ページでオプションを設定できます。';
 $Definition['Titles'] = 'タイトル';
 $Definition['To'] = 'あて先';

@@ -146,7 +146,6 @@ $Definition['Manage Spam'] = 'Qu?n l';
 $Definition['Manage Themes'] = 'Qu?n l';
 $Definition['Manage Users'] = 'Qu?n l';
 $Definition['Max Comment Length'] = '?? d';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Tin nh?n xu?t hi?n tr';
 $Definition['Messages can appear anywhere in your application.'] = 'Tin nh?n xu?t hi?n tr';
 $Definition['Method'] = 'Ph??ng th?c';
 $Definition['minute(s)'] = 'ph';
@@ -166,13 +165,11 @@ $Definition['New users in the last week'] = 'Nh?ng ng??i d';
 $Definition['None'] = 'B';
 
 $Definition['On'] = 'Vào';
-$Definition['Only Allow Each User To Post'] = 'Ch? cho ph';
 $Definition['Operation By'] = 'Bởi';
 $Definition['Or Spamblock For'] = 'Ho?c kh';
 $Definition['Outgoing Email'] = 'Mail ra ngo';
 
 $Definition['Page'] = 'Trang';
-$Definition['Panel Box'] = 'H?p';
 $Definition['Password Options'] = 'T';
 $Definition['Pending'] = 'Chu?n b?...';
 $Definition['Permission.Category'] = 'Danh mục';
@@ -197,7 +194,6 @@ $Definition['Role Name'] = 'T';
 $Definition['Roles & Permissions'] = 'V? tr';
 $Definition['Roles determine user\'s permissions.'] = 'M?i ng??i d';
 
-$Definition['SaveLocalePack'] = 'Lưu';
 $Definition['Search by user or role.'] = 'T';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Search by user or role.';
 $Definition['seconds'] = 'gi';
@@ -209,14 +205,11 @@ $Definition['SMTP Port'] = 'C?ng SMTP';
 $Definition['SMTP Security'] = 'B?o m?t SMTP';
 $Definition['Status'] = 'Tr?ng th';
 
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['The banner logo appears at the top of your forum.'] = 'Logo banner xu?t hi?n tr';
-$Definition['The following content has been flagged by users for moderator review.'] = 'Nh?ng n?i dung sau ?';
 $Definition['The invitation was removed successfully.'] = 'Th? m?i c?a b?n ?';
 $Definition['ThemeHelp'] = 'Tr? gi';
 $Definition['Themes'] = 'Giao di?n';
 $Definition['There are no items awaiting moderation at this time.'] = 'Kh';
-$Definition['This will show the panel on every page.'] = 'C';
 $Definition['Titles'] = 'Tiêu đề';
 
 $Definition['Uninvite'] = 'Kh';
@@ -231,7 +224,6 @@ $Definition['View'] = 'Xem';
 
 $Definition['Warning'] = 'C?nh b';
 $Definition['Welcome to Vanilla!'] = 'Ch';
-$Definition['Where should the plugin be shown?'] = 'N?i s? g?n v';
 $Definition['Within'] = 'Trong';
 
 $Definition['You cannot remove an invitation that has been accepted.'] = 'B?n kh';

@@ -91,9 +91,7 @@ $Definition['Existing members send invitations to new members.'] = 'Діючі �
 $Definition['First Visit'] = 'Перше відвідування';
 $Definition['Forum Settings'] = 'Налаштування форуму';
 
-$Definition['Garden.Import.Description'] = 'Використовуйте цю сторінку для імпорту даних з іншого форуму, котрі були експортовані за допомогою Vanilla Exporter. Детальну інформацію шукайте в нашій <a href="%s">документації по імпорту</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Введіть Email та пароль адміністратора для даних, котрі будуть імпортовані.';
-$Definition['Garden.Import.Overwrite.Description'] = 'Увага: Всі дані цього форуму будуть перезаписані.';
 $Definition['Get More Applications'] = 'Знайти ще програми';
 $Definition['Get more information on creating custom routes'] = 'Отримати більше інформації про створення користувацьких маршрутів.';
 $Definition['Get More Plugins'] = 'Знайти ще плагіни';
@@ -155,19 +153,16 @@ $Definition['New users in the last day'] = 'Нових користувачів 
 $Definition['New users in the last week'] = 'Нових користувачів за останній тиждень';
 $Definition['None'] = 'Жоден';
 
-$Definition['Only Allow Each User To Post'] = 'Кожен користувач може розмістити лише:';
 $Definition['Organize Categories'] = 'Організація категорій';
 $Definition['Or Spamblock For'] = 'Інакше блокувати на';
 $Definition['Other Themes'] = 'Інші теми';
 $Definition['Outgoing Email'] = 'Вихідні';
 
 $Definition['Page'] = 'Сторінка';
-$Definition['Panel Box'] = 'Панель-контейнер';
 $Definition['Password Options'] = 'Налаштування пароля';
 $Definition['Permission.Category'] = 'Категорія';
 $Definition['Please choose an authenticator to configure.'] = 'Будь-ласка, виберіть аутентикатор для налаштування.';
 $Definition['Plugin'] = 'Плагін';
-$Definition['Plugin.Enabled'] = 'Включені';
 $Definition['PluginHelp'] = 'Плагіни дозволяють вам додати функціональність вашому сайту.<br />Додайте плагін в папку %s, і він може бути включений чи відключений тут.';
 $Definition['Plugins'] = 'Плагіни';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Запобігайте спаму на вашому форумі, обмежуючи кількість обговорень та коментарів, які користувачі можуть створювати (публікувати) протягом заданого проміжку часу.';
@@ -191,9 +186,7 @@ $Definition['Route Expression'] = 'Назва маршруту';
 $Definition['Routes'] = 'Маршрути';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Маршрути можуть використовуватися для переадресації користувачів в різні частини вашого сайту, впливаючи на URL.';
 
-$Definition['SaveLocalePack'] = 'Зберегти';
 $Definition['seconds'] = 'секунд';
-$Definition['Select the file to import'] = 'Виберіть файл для імпорту';
 $Definition['SMTP Host'] = 'SMTP сервер';
 $Definition['SMTP Password'] = 'SMTP пароль';
 $Definition['SMTP Port'] = 'SMTP порт';
@@ -201,7 +194,6 @@ $Definition['SMTP Security'] = 'Протокол безпеки SMTP';
 $Definition['SMTP User'] = 'SMTP користувач';
 
 $Definition['Temporary (302)'] = 'Тимчасовий (302)';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'Дякую!';
 $Definition['The banner logo appears at the top of your forum.'] = 'Зображення логотипу зявиться вгорі вашого форуму.';
 $Definition['The homepage was saved successfully.'] = 'Головна сторінка була успішно збереженна.';

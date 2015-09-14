@@ -26,12 +26,10 @@ $Definition['Force the forum to only be accessible through this url'] = 'Force t
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Force your forum to be viewed through the Remote URL';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote URL.';
 
-$Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'If your file is bigger than 20M then you must upload it to a public URL.';
 $Definition['Internaltionalization & Localization'] = 'Internaltionalisation & Localisation';
 
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customise it.';
 
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organise your messages by dragging them up or down.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organise your messages by dragging them up or down.';
 
 $Definition['Organize'] = 'Organise';
@@ -49,7 +47,6 @@ $Definition['The url that users use to register for a new account.'] = 'The URL 
 $Definition['The url that users use to sign in.'] = 'The URL that users use to sign in.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customise.';
 
-$Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = 'Unable to initialise plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.';
 $Definition['Use categories to organize discussions'] = 'Use categories to organise discussions';
 
 $Definition['We only accept urls that begin with http:// or https://'] = 'We only accept URLs that begin with http:// or https://';

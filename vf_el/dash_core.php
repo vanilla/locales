@@ -346,7 +346,6 @@ $Definition['Flood Control'] = 'Έλεγχος Ροής';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Υποχρεώστε το ταμπλό να είναι προσπελάσιμο μόνο μέσω αυτού του url <em>(δε συστήνεται)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Υποχρεώστε το φόρουμ να είναι προσπελάσιμο μέσα από αυτό το url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Υποχρεώστε το φόρουμ να εμφανίζεται μέσω του Απομακρυσμένου Url';
-$Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'Για πληροφορίες σχετικά με την ενεργοποίηση των ράβδων προόδου σε πραγματικό χρόνο, δείτε το <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Για λόγους SEO, οι μηχανές αναζήτησης εξαιρούνται από την υποχρέωση να βλέπουν το φόρουμ στο απομακρυσμένο url.';
 $Definition['Forum Settings'] = 'Ρυθμίσεις Φόρουμ';
 $Definition['Frequency'] = 'Συχνότητα';
@@ -354,9 +353,6 @@ $Definition['From'] = 'Από';
 
 $Definition['Garden'] = 'Κήπος';
 $Definition['Garden.Import.InputInstructions'] = 'Δώστε το email και τον κωδικό του διαχειριστή για να γίνει εισαγωγή των δεδομένων.';
-$Definition['Garden.Import.Merge'] = 'Συνένωση με αυτό το φόρουμ.';
-$Definition['Garden.Import.Overwrite'] = 'Αντικατάσταση αυτού του φόρουμ.';
-$Definition['Garden.Import.Overwrite.Description'] = 'Προσοχή: Όλα τα δεδομένα αυτού του φόρουμ θα αντικατασταθούν.';
 $Definition['Garden.StatisticsDisabled'] = 'Έχετε ζητήση απενεργοποίηση των στατιστικών Vanilla στο αρχείο ρυθμίσεων.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Αυτό το φόρουμ φαίνεται να εκτελείτε σε δοκιμαστικό περιβάλλον, ή αλλιώς αναφέρει ιδιωτική IP. Από προεπιλογή, τα φόρουμ που εκτελούνται σε ιδιωτική IP δεν ανιχνεύονται.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Αν είστε σίγουρος ότι το φόρουμ είναι προσπελάσιμο από το internet, μπορείτε να υποχρεώσετε την αναφορά στατιστικών εδώ:';
@@ -365,7 +361,6 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = 'Για να λύσετε α�
 $Definition['Gave badge to users.'] = 'Δώστε εμβλήματα στους χρήστες.';
 $Definition['Generate'] = 'Παραγωγή';
 $Definition['Generate Client ID and Secret'] = 'Δημιουργία ID Πελάτη και Μυστικού';
-$Definition['Generate sphinx.conf'] = 'Παραγωγή sphinx.conf';
 $Definition['Get More Applications'] = 'Λήψη Νέων Εφαρμογών';
 $Definition['Get more information on creating custom routes'] = 'Λήψη περισσότερων πληροφοριών για τη δημιουργία προσαρμοσμένων δρομολογήσεων.';
 $Definition['Get More Plugins'] = 'Λήψη Νέων Πρόσθετων';
@@ -373,10 +368,7 @@ $Definition['Get More Themes'] = 'Λήψη Νέων Θεμάτων';
 $Definition['Getting Started'] = 'Ξεκινώντας';
 $Definition['Getting Started with Vanilla'] = 'Ξεκινώντας με το Vanill';
 $Definition['give'] = 'δώστε';
-$Definition['Give an Badge'] = 'Δώστε ένα Έμβλημα';
-$Definition['Give me a new account'] = 'Δώστε μου ένα νέο λογαρισμό';
 $Definition['Given Indexes'] = 'Δώστε τα Indexes';
-$Definition['Google Sign In Settings'] = 'Ρυθμίσεις Google Sign In';
 $Definition['Guest'] = 'Επισκέπτης';
 $Definition['Guest roles'] = 'Επιλέξτε τους ρόλους που πρέπει να ισχύουν για τους επισκέπτες.';
 
@@ -387,32 +379,18 @@ $Definition['HeadlineFormat.RegistrationApproval'] = 'Ο {ActivityUserID,user} �
 $Definition['Heads up!'] = 'Προσέξτε!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Προσέξτε! Αυτός είναι ένας ειδικός ρόλος που δεν επιτρέπει ενεργές συνεδρίες.. Γι αυτό το λόγο, τα δικαιώματα έχουν περιορισθεί σε αυτά της "ανάγνωσης".';
 $Definition['Help &amp; Tutorials'] = 'Βοήθεια &amp; Οδηγοί';
-$Definition['Here\'s how to get started'] = 'Να πως να ξεκινήσετε';
 $Definition['Here\'s how to get started:'] = 'Να πως να ξεκινήσετε:';
 $Definition['Hidden for everything!'] = 'Κρυφό από τα πάντα!';
 $Definition['Hidden for mobile'] = 'Κρυφό από κινητά';
-$Definition['Hide  Fields'] = 'Κρύψε Πεδία';
 $Definition['Hide from the recent discussions page.'] = 'Απόκρυψη από τη σελίδα πρόσφατων συζητήσεων.';
 $Definition['Hide Pocket Locations'] = 'Κρύψε Θέσεις Τσεπών';
 $Definition['Hide signatures for guests'] = 'Αποκρύψτε υπογραφές για τους επισκέπτες';
 $Definition['Hide signatures on embedded comments'] = 'Αποκρύψτε υπογραφές για τα ενσωματωμένα σχόλια';
-$Definition['Hide this category from the recent discussions page.'] = 'Απόκρυψη αυτής της κατηγορίας από τη σελίδα πρόσφατων συζητήσεων.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Γεια σου φίλε!
-
-Ρίξε μια ματιά στο νέο φόρουμ που έστησα. Είναι ένα καταπληκτικό μέρος για να συζητάμε μέσω διαδικτύου.
-
-Ακολούθησε το σύνδεσμο παρακάτω για να συνδεθείς.';
 $Definition['Homepage'] = 'Αρχική Σελίδα';
 $Definition['Homepage Title'] = 'Τίτλος Αρχικής Σελίδας';
 $Definition['How to use themes'] = 'Πως να χρησιμοποιήσετε τα θέματα';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Αν ανεβάσετε ένα λογότυπο, θα αντικαταστήσει τον τίτλο του πανό στο μέρος του φόρουμ που βλέπουν οι χρήστες.';
-$Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Αν το αρχείο σας είναι μεγαλύτερο από 20M, τότε πρέπιε να το ανεβάσετε σε ένα δημόσιο url.';
-$Definition['If your file is small then just upload it here.'] = 'Αν το αρχείο σας είναι μικρό, τότε ανεβάστε το απλά εδώ.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Αν θέλετε να μειώσετε το επίπεδο προειδοποιήσενω τότε αφαιρέστε μία προειδοποίηση.';
 $Definition['Import'] = 'Εισαγωγή';
 $Definition['Importing to Vanilla'] = 'Εισαγωγή στο Vanilla';
@@ -421,11 +399,15 @@ $Definition['Indexes'] = 'Ευρετήρια';
 $Definition['Information'] = 'Πληροφορίες';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Εγκατάσταση του Vanilla χωρίς αρχείο .htaccess.';
 $Definition['Internaltionalization & Localization'] = 'Διεθνοποίηση & Μεταφράσεις';
-$Definition['Introducing Vanilla Comments'] = 'Παρουσίαση των Σχόλιων στο Vanilla';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Παρουσίαση των Δράσεων και των Εμβλημάτων στο Vanilla';
 $Definition['Invalid category for deletion.'] = 'Άκυρη κατηγορία για διαγραφή.';
 $Definition['Invitation'] = 'Πρόσκληση';
 $Definition['Invitation Code'] = 'Κωδικός Πρόσκλησης';
+$Definition['InvitationMessage'] = 'Γεια σου φίλε!
+
+Ρίξε μια ματιά στο νέο φόρουμ που έστησα. Είναι ένα καταπληκτικό μέρος για να συζητάμε μέσω διαδικτύου.
+
+Ακολούθησε το σύνδεσμο παρακάτω για να συνδεθείς.';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Όταν χρησιμοποιείτε την εγραφή μέσω προσκλήσεων οι χρήστες θα έχουν ένα σύνδεσμο με τον τίτλο <a href="%s" class="Popup">Οι προσκλήσεις μου</a> στη σελίδα του προφίλ τους.';
 $Definition['Invitations per month'] = 'Προσκλήσεις ανά μήνα';
 $Definition['Invitations will expire'] = 'Οι προσκλήσεις λήγουν';
@@ -433,26 +415,17 @@ $Definition['Invited by'] = 'Πρόσκληση από';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Φαίνεται ότι η βάση δεδομένων που ορίσατε δεν υπάρχει ακόμη. Την δημιουργήσατε; Μήπως πληκτρολογήσατε λάθος το όνομά της; Η βάση δεδομένων απάντησε: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Είναι καλή ιδέα να διατηρείτε τον μέγιστο αριθμό χαρακτήρων που επιτρέπονται στα σχόλια σε λογικά επίπεδα.';
 
-$Definition['JS Connect Settings'] = 'Ρυθμίσεις JS Connect';
-
 $Definition['Key Type'] = 'Τύπος Κλειδιού';
 $Definition['Key Value'] = 'Τιμή Κλειδιού';
 $Definition['Kick-start your community and increase user engagement.'] = 'Ενεργοποιήστε την κοινότητά σας και αυξήστε τη συμμετοχή των χρηστών.';
 
 $Definition['Label this Revision'] = 'Ονομάστε αυτή την Αναθεώρηση';
-$Definition['Last time your forum communicated with the statistics server it received the following message:'] = 'Την τελευταία φορά που το φόρουμ σας επικοινώνησε με τον εξυπηρετητή των στατιστικών έλαβε το ακόλουθο μήνυμα:';
 $Definition['Last Visit'] = 'Τελευταία Επίσκεψη';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Μάθετε πως να αλλάξετε εντελώς την όψη του φόρουμ σας: ανεβάστε το λογότυπό σας, ορίστε την αρχική σας σελίδα, επιλέξτε ένα θέμα και τροποποιήστε τον.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Μάθετε πώς να χρησιμοποιείτε τις βασικές λειτουργίες του φόρουμ σας.';
 $Definition['Level'] = 'Επίπεδο';
 $Definition['Likes'] = 'Αρέσει';
-$Definition['Limit the display of this plugin for mobile devices.'] = 'Περιορίστε την εμφάνιση αυτού του πρόσθετου για τις κινητές συσκευές.';
-$Definition['Limit the display of this plugin to "mobile only".'] = 'Περιορίστε την εμφάνιση αυτού του πρόσθετου σε "μόνο για κινητά"';
-$Definition['Limit the display of this pocket for embedded comments.'] = 'Περιορίστε την εμφάνιση αυτής της τσέπης για τα ενσωματωμένα σχόλια.';
-$Definition['Limit the display of this pocket for mobile devices.'] = 'Περιορίστε την εμφάνιση αυτής της τσέπης για τις κινητές συσκευές.';
-$Definition['Limit the display of this pocket to "mobile only".'] = 'Περιορίστε την εμφάνιση αυτής της τσέπης σε "μόνο για κινητά".';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Περιορίστε την τσέπη σε έναν ή περισσότερους ρόλους ή δικαιώματα.';
-$Definition['Link my existing account'] = 'Σύνδεση του υπάρχοντος λογαριασμού μου';
 $Definition['Locale Key (Folder)'] = 'Κλειδή Μετάφρασης (Φάκελος)';
 $Definition['Locale Name'] = 'Όνομα Μετάφρασης';
 $Definition['Locales'] = 'Μεταφράσεις';
@@ -462,7 +435,6 @@ $Definition['LogoBrowse'] = 'Αναζήτηση νέου λογότυπου αν
 $Definition['LogoDescription'] = 'Το λογότυπο εμφανίζεται στο επάνω μέρος του χώρου σας. Κάποαι θέματα μπορεί να μην εμφανίσουν αυτό το λογότυπο.';
 
 $Definition['Maintenance Mode'] = 'Λειτουργία Συντήρησης';
-$Definition['Make sure to use a forum theme that meshes well with the look and feel of the remote site.'] = 'Βεβαιωθείτε ότι χρησιμοποιείτε ένα θέμα που μπλέκεται σωστά με την όψη του απομακρυσμένου χώρου.';
 $Definition['Make sure you click View Page'] = 'Βεβαιωθείτε ότι κάνατε κλικ στο <a href="%s">Εμφάνιση Σελίδας</a> για να δείτε πως θα φαίνεται η σελίδα των κατηγοριών μετά την αποθήκευση.';
 $Definition['Make sure you select at least one item before continuing.'] = 'Βεβαιωθείτε ότι επιλέξατε τουλάχιστον ένα αντικείμενο πριν συνεχίσετε.';
 $Definition['Manage'] = 'Διαχείριση';
@@ -477,8 +449,6 @@ $Definition['Manage Routes'] = 'Διαχείριση Δρομολογήσεων'
 $Definition['Manage Spam'] = 'Διαχείριση Spam';
 $Definition['Manage Themes'] = 'Διαχείριση Θεμάτων';
 $Definition['Manage Users'] = 'Διαχείριση Χρηστών';
-$Definition['Manage users'] = 'Διαχείριση χρηστών';
-$Definition['Manage your Plugins'] = 'Διαχείριση των Πρόσθετών σας';
 $Definition['Managing Categories'] = 'Διαχείριση Κατηγοριών';
 $Definition['Manual'] = 'Χειροκίνητα';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Το μαρκάρισμα πραγμάτων ως ΟΧΙ spam θα τα βάλει πάλι πίσω στο φόρουμ σας.';
@@ -488,7 +458,6 @@ $Definition['Media'] = 'Πολυμέσα';
 $Definition['Member'] = 'Μέλος';
 $Definition['Member roles'] = 'Ελέγξτε όλους τους ρόλους που θα πρέπει να ισχύουν για τα νέα/εγκεκριμμένα μέλη.';
 $Definition['Message ID'] = 'ID Μηνύματος';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Τα μηνύματα μπορούν να εμφανισθούν οπουδήποτε στην εφαρμογή σας και μπορεί να χρησιμοποιηθούν για να ενημερώσουν τους χρήστες σας για νέα και για γεγονότα. Χρησιμοποιήστε αυτή τη σελίδα για να αναδιοργανώσετε τα μηνύματα σέρνοντάς τα επάνω ή κάτω.';
 $Definition['Messages can appear anywhere in your application.'] = 'Τα μηνύματα μπορούν να εμφανισθούν οπουδήποτε στην εφαρμογή σας και μπορεί να χρησιμοποιηθούν για να ενημερώσουν τους χρήστες σας για νέα και για γεγονότα. Χρησιμοποιήστε αυτή τη σελίδα για να αναδιοργανώσετε τα μηνύματα σέρνοντάς τα επάνω ή κάτω.';
 $Definition['Method'] = 'Μέθοδος';
 $Definition['Mixed Layout'] = 'Μεικτή Διάταξη';
@@ -497,7 +466,6 @@ $Definition['Moderator'] = 'Συντονιστής';
 $Definition['Moderators have permission to edit most content.'] = 'Οι Συντονιστές έχουν την άδεια να επεξεργαστούν τα περισσότερα περιεχόμενα.';
 $Definition['Modern Layout'] = 'Μοντέρνα Διάταξη';
 $Definition['Modern non-table-based layout'] = 'Μοντέρνα Διάταξη μη-βασιζόμενη-σε-πίνακες';
-$Definition['more than %s levels deep'] = 'βάθος περισσότερο από %s επίπεδα';
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Οι περισσότερες τσέπες δε θα πρέπει να εμφανίζονται στο ταμπλό.';
 $Definition['Move discussions in this category to a replacement category.'] = 'Μετακίνηση των συζητήσεων από αυτή την κατηγορία στην αντικαταστάτρια κατηγορία.';
 $Definition['My Invitations'] = 'Οι Προσκλήσεις μου';
@@ -520,7 +488,6 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['New users in the last day'] = 'Νέοι χρήστες την προηγούμενη ημέρα';
 $Definition['New users in the last week'] = 'Νέοι χρήστες την προηγούμενη εβδομάδα';
 $Definition['No Change'] = 'Καμία αλλαγή';
-$Definition['No costs yet.'] = 'Κανένα κόστος ακόμη.';
 $Definition['No Items Selected'] = 'Δεν έχει Επιλεχθεί Σντικείμενο';
 $Definition['None'] = 'Κανένα';
 $Definition['No results for %s.'] = 'Δε βρέθηκαν αποτελέσματα για τον όρο <b>%s</b>.';
@@ -533,8 +500,6 @@ $Definition['Not Spam'] = 'Όχι Spam';
 $Definition['Number of blocked registrations'] = 'Πλήθος μπλοκαρισμένω εγγραφών';
 
 $Definition['On'] = 'Στις';
-$Definition['One, two, three...'] = 'Ένα, δύο, τρία...';
-$Definition['Only Allow Each User To Post'] = 'Να Επιτρέπετια Μόνο Σε Κάθε Χρήστη Να Δημοσιεύει';
 $Definition['Only display on mobile browsers.'] = 'Να εμφανίζεται μόνο σε φυλλομετρητές για κινητά.';
 $Definition['Operation By'] = 'Από';
 $Definition['Original Version'] = 'Αρχική Έκδοση';
@@ -545,7 +510,6 @@ $Definition['Password Options'] = 'Επιλογές Κωδικού Πρόσβα�
 $Definition['Pending'] = 'Εκκρεμεί';
 $Definition['Permission.Category'] = 'Κατηγορία';
 $Definition['Permissions'] = 'Δικαιώματα';
-$Definition['Place nested categories in a comma-delimited list when they are'] = 'Τοποθετήστε τις ένθετες κατηγορίες σε μια λίστα οριοθετημένη με κόμματα όταν είναι';
 $Definition['Pocket'] = 'Θύλακας';
 $Definition['Pockets'] = 'Θύλακες';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Οι θύλακες σας επιτρέπουν να προσθέτετε ελεύθερης μορφής HTML σε διάφορα σημεία μέσα στην εφαρμογή.';
@@ -575,7 +539,6 @@ $Definition['Run structure & data scripts'] = 'Εκτελέστε δέσμες �
 
 $Definition['Save Captured Definitions'] = 'Αποθηκεύστε Καταγεγραμμένους Ορισμούς ';
 $Definition['Saved'] = 'Οι αλλαγές σας έχουν αποθηκευτεί.';
-$Definition['SaveLocalePack'] = 'Αποθήκευση';
 $Definition['seconds'] = 'δευτερόλεπτα';
 $Definition['Security'] = 'Ασφάλεια';
 $Definition['Select a %s'] = 'Επιλέξτε ένα %s';
@@ -587,7 +550,6 @@ $Definition['Sent To'] = 'Εστάλη στον/ην';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Η σειριοποιημένη στήλη «%s» απέτυχε να απο-σειριοποιηθεί.';
 $Definition['Show Pocket Locations'] = 'Εμφανίστε Τοποθεσίες Θυλάκων';
 $Definition['SignedOut'] = 'Έχετε αποσυνδεθεί.';
-$Definition['Sign in'] = 'Σύνδεση';
 $Definition['Sign In Url'] = 'Διεύθυνση Σύνδεσης';
 $Definition['Site Description'] = 'Περιγραφή Ιστοτόπου';
 $Definition['SMTP Host'] = 'SMTP Κεντρικού Υπολογιστή';
@@ -597,7 +559,6 @@ $Definition['Start Discussions'] = 'Ξεκίνησε τις συζητήσεις
 $Definition['Start Import'] = 'Αρχίστε Εισαγωγή';
 $Definition['Start the first discussion.'] = 'Πάρτε την πρωτοβουλία στην κοινότητά σας <a href="{/post/discussion,url}">ξεκινώντας την πρώτη συζήτηση</a> τώρα.';
 $Definition['Status'] = 'Κατάσταση';
-$Definition['Stop Forum Spam Settings'] = 'Σταματήστε τις Ρυθμίσεις Spam του Φόρουμ ';
 $Definition['Styles'] = 'Στυλ';
 $Definition['Subject'] = 'Θέμα';
 $Definition['Success'] = 'Επιτυχία';
@@ -605,15 +566,12 @@ $Definition['System'] = 'Σύστημα';
 
 $Definition['take away'] = 'πάρτε πίσω';
 $Definition['Test Mode'] = 'Λειτουργία Δοκιμής: Ο θύλακας θα εμφανίζεται μόνο στους διαχειριστές θυλάκων.';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Text'] = 'Κείμενο';
 $Definition['Thank You!'] = 'Ευχαριστούμε!';
 $Definition['The %s table is not in the correct format.'] = 'Ο πίνακας %s δεν είναι στη σωστή μορφή.';
 $Definition['The banner logo appears at the top of your forum.'] = 'Το λογότυπο διαφήμισης εμφανίζεται στην κορυφή του φόρουμ σας.';
 $Definition['The client ID uniqely identifies the site.'] = 'Το αναγνωριστικό πελάτη προσδιορίζει μοναδικά την ιστοσελίδα. Μπορείτε να δημιουργήσετε ένα νέο αναγνωριστικό με το κουμπί στο κάτω μέρος αυτής της σελίδας.';
 $Definition['The content you were looking for has been deleted.'] = 'Το περιεχόμενο που ψάχνετε έχει διαγραφεί.';
-$Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'Το πρόσθετο Disqus επιτρέπει στους χρήστες να συνδεθούν χρησιμοποιώντας το λογαριασμό τους Disqus. <b>Πρέπει να καταχωρίσετε την εφαρμογή σας στο Disqus για να δουλέψει αυτό το πρόσθετο.</b>';
-$Definition['The following content has been flagged by users for moderator review.'] = 'Το παρακάτω περιεχόμενο έχει επισημανθεί από τους χρήστες για αναθεώρηση από τον επόπτη.';
 $Definition['The following structure changes are required for your database.'] = 'Οι παρακάτω αλλαγές δομής απαιτούνται στη βάση δεδομένων σας.';
 $Definition['The homepage title is displayed on your home page.'] = 'Ο τίτλος της αρχικής σελίδας εμφανίζεται στην αρχική σελίδα σας. Διαλέξτε έναν τίτλο που θα θέλατε να δείτε να εμφανίζεται στις μηχανές αναζήτησης.';
 $Definition['Theming Overview'] = 'Επισκόπηση Θεματοποίησης';
@@ -629,27 +587,21 @@ $Definition['The user has been deleted.'] = 'Ο χρήστης διαγράφη�
 $Definition['This connection is in test-mode.'] = 'Η σύνδεση είναι σε δοκιμαστική λειτουργία.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Αυτή είναι η πρώτη φορά που επισκέπτεσθε τα φόρουμ συζήτησης.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Αυτή η επιλογή εμφανίζει/κρύβει τις θέσεις που μπορούν να πάνε οι θύλακες, αλλά μόνο για τους χρήστες που έχουν άδεια να προσθέτουν/επεξεργάζονται θύλακες. Δοκιμάστε να εμφανίσετε τις θέσεις και στη συνέχεια επισκεφθείτε την ιστοσελίδα σας.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Αυτό το πρόσθετο επιτρέπει στους χρήστες να συνδέονται με τους λογαριασμούς τους Google. <b> Βεβαιωθείτε ότι κάνετε κλικ στο κουμπί Ρυθμίσεις μετά την ενεργοποίηση αυτού του πρόσθετου για να ενεργοποιήσετε τη σύνδεση Google</b>.';
 $Definition['This theme has customizable text.'] = 'Αυτό το θέμα έχει κείμενο που μπορείτε να προσαρμόσετε.';
 $Definition['Titles'] = 'Τίτλοι';
 $Definition['To'] = 'Προς';
-$Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'Για να ενσωματώσετε το φόρουμ Vanilla της κοινότητάς σας σε μια απομακρυσμένη δικτυακή εφαρμογή, χρησιμοποιήστε τον κώδικα ενσωμάτωσης φόρουμ ή ένα από τους παρακάτω κώδικες ενσωμάτωσης προσθέτων φόρουμ.';
 
 $Definition['Unban'] = 'Άρετε αποκλεισμό';
 $Definition['Uninvite'] = 'Ακύρωση Πρόσκλησης';
 $Definition['Unlimited'] = 'Απεριόριστα';
 $Definition['Use categories to organize discussions'] = 'Χρησιμοποιήστε κατηγορίες για να οργανώσετε συζητήσεις';
-$Definition['Use delta indexes'] = 'Χρησιμοποιήστε δείκτες δέλτα (συνιστάται για μαζικές ιστοσελίδες)';
 $Definition['UserDeleteMessage'] = 'Διαγράψτε το χρήστη και αφαιρέστε εντελώς όλο το περιεχόμενο του χρήστη. Αυτό μπορεί να προκαλέσει την αποσύνδεση συζητήσεων. Είναι η καλύτερη επιλογή για την αφαίρεση spam.';
 $Definition['UserDeletionPrompt'] = 'Επιλέξτε πως θα γίνει ο χειρισμός όλων των περιεχομένων που σχετίζονται με το λογαριασμό χρήστη για τον %s (σχόλια, μηνύματα, κ.λ.π.).';
 $Definition['UserKeep'] = 'Διατήρηση Περιεχομένων Χρήστη';
 $Definition['User Registration Settings'] = 'Ρυθμίσεις Εγγραφής Χρήστη';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Χρησιμοποιήστε το πρόσθετο WordPress για να δημιουργήσετε Σχόλια Vanilla στο μπλογκ σας ή χρησιμοποιήστε τον ενιαίο κώδικα για να δημιουργήσετε Σχόλια Vanilla σε οποιαδήποτε άλλη πλατφόρμα.';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Χρησιμοποίησε αυτά τα πεδία για να δημιουργήσεις τις πληροφορίες στο προφίλ πελάτη.  Μπορείς να προσθέσεις πεδία όπως «Προσωπική κατάσταση», «Skype ID», «Αγαπημένος Δεινόσαυρος», κτλ.  Γίνεται δημιουργικοί!';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Χρησιμοποίησε αυτά τα πεδία για να δημιουργήσεις επιπλέον πληροφορίες στο προφίλ πελάτη.  Μπορείς να προσθέσεις πεδία όπως «Προσωπική κατάσταση», «Skype ID», «Αγαπημένος Δεινόσαυρος», κτλ.  Γίνεται δημιουργικοί!';
 
 $Definition['Vanilla.Archive.Description'] = 'Μπορείτε να επιλέξετε την αρχειοθέτηση συζητήσεων του φόρουμ παλαιότερων από μια ορισμένη ημερομηνία. Οι αρχειοθετημένες συζητήσεις πρακτικά κλείνουν, μη επιτρέποντας νέες δημοσιεύσεις.';
-$Definition['Vanilla Cookie Domain'] = 'Τομέας Vanilla Cookie';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Εξαγωγή Vanilla: %s, Προέλευση: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Τα Στατιστικά Vanilla είναι προς το παρόν απενεργοποιημένα';
 $Definition['version %s'] = 'έκδοση %s';
@@ -663,7 +615,6 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>{Προειδοποί�
 $Definition['Warning: This is for advanced users.'] = '<b>Προειδοποίηση</b>: Αυτό είναι για προχωρημένους χρήστες και απαιτεί να κάνετε πρόσθετες αλλαγές στο διακομιστή web σας. Αυτό είναι συνήθως διαθέσιμο μόνο αν έχετε αποκλειστική ή vps φιλοξενία. Μην το επιχειρήσετε αν δεν ξέρετε τι κάνετε.';
 $Definition['Welcome to Vanilla!'] = 'Καλώς ήλθατε στο Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Καλώς ήλθατε στον Πίνακα Εργαλείων σας';
-$Definition['Where should the plugin be shown?'] = 'Πού πρέπει να εμφανίζεται το πρόσθετο;';
 $Definition['Why do you want to join?'] = 'Γιατί θες να γίνεις μέλος?';
 
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Επιλέξτε το πλαίσιο δίπλα από το χρήστη που δημοσίευσε το ανεπιθύμητο μήνυμα (spam) για να τον απαγορεύσετε επίσης και να διαγράψετε όλα τα μηνύματα του. <b>Αυτό κάντε το μόνο αν είστε βέβαιοι ότι αυτοί είναι οι spammers. </b>';

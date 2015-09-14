@@ -361,7 +361,6 @@ $Definition['Flood Control'] = 'Kendali Luapan';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Paksakan agar dashboard hanya bisa diakses dari url ini saja <em>(tidak direkomendasikan)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Paksakan forum hanya bisa diakses dari url ini';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Paksakan forum anda untuk bisa dilihat dari Url Terkendali';
-$Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'Untuk informasi bagaimana mengaktifkan indikator progres realistik, lihat <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Untuk kepentingan SEO, crawler mesin pencari tidak disertakan pada paksaan melihat forum dari url terkendali.';
 $Definition['Forum Settings'] = 'Setelan Forum';
 $Definition['Frequency'] = 'Frekuensi';
@@ -370,12 +369,7 @@ $Definition['From'] = 'Dari';
 $Definition['Garden'] = 'Kebun';
 $Definition['Garden.Import.Complete.Description'] = 'Anda berhasi menyelesaikan impor. Klik <b>Selesai</b> jika Anda sudah siap.';
 $Definition['Garden.Import.Continue.Description'] = 'Tampaknya Anda sedang mengimpor. Silakan pilih salah satu opsi berikut.';
-$Definition['Garden.Import.Description'] = 'Deskripsi.Impor.Taman';
 $Definition['Garden.Import.InputInstructions'] = 'Masukkan email dan password admin dari data yang sedang diimpor.';
-$Definition['Garden.Import.Merge'] = 'Satukan dengan forum ini.';
-$Definition['Garden.Import.Merge.Description'] = 'Ini akan menyatukan semua data pengguna dan diskusi dari impor ke dalam forum ini. <b>Peringatan: Jika Anda menyatukan data yang sama dua kali berarti Anda menduplikasi diskusi.</b>';
-$Definition['Garden.Import.Overwrite'] = 'Timpa forum ini.';
-$Definition['Garden.Import.Overwrite.Description'] = 'Peringatan: Semua data pada forum ini akan ditimpa.';
 $Definition['Garden.StatisticsDisabled'] = 'Anda telah menonaktifkan Statistik Vanilla pada file konfigurasi anda.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Forum ini tampaknya berjalan dalam lingkungan ujicoba, atau mungkin melaporkan IP privat, Secara baku, forum berjalan dengan IP privat yang tidak terlacak.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Bila anda yakin forum anda dapat diakses dari internet anda dapat menekankannya pada laporan statistik di sini:';
@@ -384,7 +378,6 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = 'Untuk menyelesaikan masalah 
 $Definition['Gave badge to users.'] = 'Berikan lencana pada pengguna.';
 $Definition['Generate'] = 'Bangkitkan';
 $Definition['Generate Client ID and Secret'] = 'Bangkitkan ID Client dan Secret';
-$Definition['Generate sphinx.conf'] = 'Bangkitkan sphinx.conf';
 $Definition['Get More Applications'] = 'Dapatkan Aplikasi Lainnya';
 $Definition['Get more information on creating custom routes'] = 'Dapatkan informasi lebih lanjut dalam membuat route yang disesuaikan';
 $Definition['Get More Plugins'] = 'Dapatkan Plugin Lainnya';
@@ -392,10 +385,7 @@ $Definition['Get More Themes'] = 'Dapatkan Tema Lainnya';
 $Definition['Getting Started'] = 'Mari Mulai';
 $Definition['Getting Started with Vanilla'] = 'Mari Mulai dengan Vanilla';
 $Definition['give'] = 'berikan';
-$Definition['Give an Badge'] = 'Berikan Lencana';
-$Definition['Give me a new account'] = 'Beri saya akun baru';
 $Definition['Given Indexes'] = 'Indeks yang Diberikan';
-$Definition['Google Sign In Settings'] = 'Setelan Google Sign In';
 $Definition['Guest'] = 'Tamu';
 $Definition['Guest roles'] = 'Periksa semua peran yang harus diterapkan pada tamu.';
 
@@ -408,32 +398,18 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 $Definition['Heads up!'] = 'Perhatian!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Perhatian! Ini adalah peran khusus yang tidak memperkenankan sesi aktif. Atas alasan ini, pilihan izin telah dibatasi hanya untuk "melihat" perizinan.';
 $Definition['Help &amp; Tutorials'] = 'Bantuan &amp; Tutorial';
-$Definition['Here\'s how to get started'] = 'Berikut adalah bagaimana untuk memulai';
 $Definition['Here\'s how to get started:'] = 'Berikut adalah bagaimana untuk memulai:';
 $Definition['Hidden for everything!'] = 'Disembunyikan dari apapun!';
 $Definition['Hidden for mobile'] = 'Disembunyikan dari modus mobile';
-$Definition['Hide  Fields'] = 'Sembunyikan  Field';
 $Definition['Hide from the recent discussions page.'] = 'Sembunyikan dari halaman diskusi sekarang.';
 $Definition['Hide Pocket Locations'] = 'Sembunyikan Lokasi Pocket';
 $Definition['Hide signatures for guests'] = 'Sembunyikan teken bagi tamu';
 $Definition['Hide signatures on embedded comments'] = 'Sembunyikan teken pada komentar tertambat ';
-$Definition['Hide this category from the recent discussions page.'] = 'Sembunyikan kategori ini dari halaman diskusi sekarang.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Hai Sobat!
-
-Lihat forum komunitas yang baru saja saya buat. Ini adalah tempat yang asyik untuk berbincang dengan lainnya secara daring.
-
-Ikuti tautan di bawah ini untuk masuk.';
 $Definition['Homepage'] = 'Laman Beranda';
 $Definition['Homepage Title'] = 'Judul Laman Beranda';
 $Definition['How to use themes'] = 'Bagaimana menggunakan tema';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Bila sebuah logo diunggah, itu akan menggantikan judul banner pada halaman forum yang dilihat pengguna.';
-$Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Bila file anda lebih besar dari 20M maka anda harus mengunggahnya melalui url publik.';
-$Definition['If your file is small then just upload it here.'] = 'Bila file anda lebih kecil maka cukup mengunggahnya dari sini.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Bila anda ingin mengurangi tingkat peringatan maka hilangkan sebuah peringatan.';
 $Definition['Import'] = 'Impor';
 $Definition['Importing to Vanilla'] = 'Mengimpor ke Vanilla';
@@ -442,11 +418,15 @@ $Definition['Indexes'] = 'Indeks';
 $Definition['Information'] = 'Informasi';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Instalasikan Vanilla tanpa file .htaccess.';
 $Definition['Internaltionalization & Localization'] = 'Internasionalisasi & Lokalisasi';
-$Definition['Introducing Vanilla Comments'] = 'Memperkenalkan Komentar Vanilla';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Memperkenalkan Lencana dan Reaksi Vanilla';
 $Definition['Invalid category for deletion.'] = 'Kategori salah untuk penghapusan.';
 $Definition['Invitation'] = 'Undangan';
 $Definition['Invitation Code'] = 'Kode Undangan';
+$Definition['InvitationMessage'] = 'Hai Sobat!
+
+Lihat forum komunitas yang baru saja saya buat. Ini adalah tempat yang asyik untuk berbincang dengan lainnya secara daring.
+
+Ikuti tautan di bawah ini untuk masuk.';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Saat anda menggunakan undangan sebagai pendaftaran pengguna akan memiliki tautan berupa <a href="%s" class="Popup">Undangan Saya</a> pada halaman profil mereka';
 $Definition['Invitations per month'] = 'Undangan per bulan';
 $Definition['Invitations will expire'] = 'Undangan akan kadaluarsa';
@@ -456,26 +436,18 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['jsConnect Client Libraries'] = 'jsHubungkan Pustaka Klien';
 $Definition['jsConnect Documentation'] = 'Dokumentasi jsConnect';
-$Definition['JS Connect Settings'] = 'Setelan JS Connect';
 
 $Definition['Key Type'] = 'Tipe Kunci';
 $Definition['Key Value'] = 'Nilai Kunci';
 $Definition['Kick-start your community and increase user engagement.'] = 'Genjot komunitas anda dan tingkatkan hubungan dengan pengguna.';
 
 $Definition['Label this Revision'] = 'Beri Label Revisi ini';
-$Definition['Last time your forum communicated with the statistics server it received the following message:'] = 'Terakhir kali forum anda berkomunikasi dengan server statistik telah menerima pesan-pesan sebagai berikut:';
 $Definition['Last Visit'] = 'Kunjungan Terakhir';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Pelajari bagaimana mengubah sepenuhnya tampilan dan rasa forum anda: unggah logo anda, setel laman berandanya, memilih sebuah tema dan menyesuaikannya.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Pelajari bagaimana menggunakan fungsional dasar dari forum anda.';
 $Definition['Level'] = 'Tingkat';
 $Definition['Likes'] = 'Suka';
-$Definition['Limit the display of this plugin for mobile devices.'] = 'Batasi tampilan plugin ini hanya untuk perangkat mobile.';
-$Definition['Limit the display of this plugin to "mobile only".'] = 'Batasi tampilan plugin ini hanya untuk "mobile saja".';
-$Definition['Limit the display of this pocket for embedded comments.'] = 'Batasi tampilan pocket ini hanya untuk komentar tertanam.';
-$Definition['Limit the display of this pocket for mobile devices.'] = 'Batasi tampilan pocket ini hanya untuk perangkat mobile.';
-$Definition['Limit the display of this pocket to "mobile only".'] = 'Batasi tampilan pocket ini hanya untuk "mobile saja".';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Batasi pocket ini hanya untuk satu atau lebih peran atau perizinan.';
-$Definition['Link my existing account'] = 'Tautkan akun saya yang sudah ada';
 $Definition['Locale Key (Folder)'] = 'Key Lokal (Folder)';
 $Definition['Locale Name'] = 'Nama Lokal';
 $Definition['Locales'] = 'Lokal';
@@ -486,7 +458,6 @@ $Definition['LogoBrowse'] = 'Ramban logo banner baru bila anda hendak menggantin
 $Definition['LogoDescription'] = 'Logo banner tampil di atas situs anda. Beberapa tema mungkin tidak menampilkan logo ini.';
 
 $Definition['Maintenance Mode'] = 'Mode Pemeliharaan';
-$Definition['Make sure to use a forum theme that meshes well with the look and feel of the remote site.'] = 'Pastikan untuk menggunakan tema forum yang selaras dengan tampilan dan rasa situs yang terkendali.';
 $Definition['Make sure you click View Page'] = 'Pastikan anda klik <a href="%s">Lihat Halaman</a> untuk melihat seperti apa halaman kategori anda setelah disimpan.';
 $Definition['Make sure you select at least one item before continuing.'] = 'Pastikan anda memilih sedikitnya satu item sebelum melanjutkan.';
 $Definition['Manage'] = 'Kelola';
@@ -501,8 +472,6 @@ $Definition['Manage Routes'] = 'Kelola Route';
 $Definition['Manage Spam'] = 'Kelola Spam';
 $Definition['Manage Themes'] = 'Kelola Tema';
 $Definition['Manage Users'] = 'Kelola Pengguna';
-$Definition['Manage users'] = 'Kelola pengguna';
-$Definition['Manage your Plugins'] = 'Kelola Plugin anda';
 $Definition['Managing Categories'] = 'Kelola Kategori';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Menandai sesuatu sebagai BUKAN spam akan menempatkan mereka kembali ke forum anda.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Menandai sesuatu sebagai bukan spam akan menempatkan mereka kembali ke forum anda.';
@@ -514,7 +483,6 @@ $Definition['Max number of %s'] = 'Nomor maks dari %s';
 $Definition['Member'] = 'Anggota';
 $Definition['Member roles'] = 'Periksa semua peran yang seharusnya diterapkan pada pengguna baru/tersetujui.';
 $Definition['Message ID'] = 'ID Pesan';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Pesan dapat tampil di mana saja dalam aplikasi anda, dan dapat digunakan untuk menginformasikan kepada pengguna anda mengenai berita atau acara baru. Gunakan halaman ini untuk mengorganisir ulang pesan anda dengan menyeretnya ke atas atau bawah.';
 $Definition['Messages can appear anywhere in your application.'] = 'Pesan dapat tampil di mana saja dalam aplikasi anda, dan dapat digunakan untuk menginformasikan kepada pengguna anda mengenai berita atau acara baru. Gunakan halaman ini untuk mengorganisir ulang pesan anda dengan menyeretnya ke atas atau bawah. ';
 $Definition['Method'] = 'Metode';
 $Definition['minute(s)'] = 'menit(s)';
@@ -524,7 +492,6 @@ $Definition['Moderators have permission to edit most content.'] = 'Moderator mem
 $Definition['Modern Layout'] = 'Susunan Modern';
 $Definition['Modern non-table-based layout'] = 'Susunan Modern non-table-based';
 $Definition['more than %s deep'] = 'lebih dari %s dalamnya';
-$Definition['more than %s levels deep'] = 'lebih dari %s kedalaman levelnya';
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Pada umumnya pocket tidak seharusnya ditampilkan pada dashboard.';
 $Definition['Move discussions in this category to a replacement category.'] = 'Pindahkan diskusi pada kategori ini ke kategori pengganti.';
 $Definition['My Invitations'] = 'Undangan Saya';
@@ -548,7 +515,6 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['New users in the last day'] = 'Pengguna baru hari ini';
 $Definition['New users in the last week'] = 'Pengguna baru minggu ini';
 $Definition['No Change'] = 'Tidak Berubah';
-$Definition['No costs yet.'] = 'Belum ada biaya.';
 $Definition['No Items Selected'] = 'Tidak Item Dipilih';
 $Definition['None'] = 'Nihil';
 $Definition['No results for %s.'] = 'Tidak ada hasil untuk <b>%s</b>.';
@@ -561,8 +527,6 @@ $Definition['Not Spam'] = 'Bukan Spam';
 $Definition['Number of blocked registrations'] = 'Jumlah pendaftaran yang diblok';
 
 $Definition['On'] = 'Pada';
-$Definition['One, two, three...'] = 'Satu, dua, tiga...';
-$Definition['Only Allow Each User To Post'] = 'Hanya Perkenankan Mengirim Untuk Setiap Penggunanya';
 $Definition['Only display on mobile browsers.'] = 'Hanya ditampilkan pada peramban mobile.';
 $Definition['Operation By'] = 'Oleh';
 $Definition['Organize'] = 'Organisir';
@@ -577,16 +541,13 @@ $Definition['Outgoing Email Address'] = 'Alamat Email Keluar';
 
 $Definition['Page'] = 'Halaman';
 $Definition['page'] = 'halaman';
-$Definition['Panel Box'] = 'Boks Panel';
 $Definition['Password Options'] = 'Opsi Password';
 $Definition['Pending'] = 'Dibekukan';
 $Definition['Permission'] = 'Perizinan';
 $Definition['Permission.Category'] = 'Kategori';
 $Definition['Permissions'] = 'Perizinan';
-$Definition['Place nested categories in a comma-delimited list when they are'] = 'Tempatkan kategori bercabang pada daftar dengan pemisah koma';
 $Definition['Please choose an authenticator to configure.'] = 'Pilih salah satu autentikator untuk mengkonfigurasi';
 $Definition['Please Confirm'] = 'Silahkan Konfirmasi';
-$Definition['Plugin.Enabled'] = 'Plugin.Aktif';
 $Definition['PluginHelp'] = 'Plugin memungkinkan anda untuk menambah fungsionalitas situs anda.<br />Segera setelah sebuah plugin ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
 $Definition['Plugins'] = 'Plugin';
 $Definition['Pocket'] = 'Saku';
@@ -602,7 +563,6 @@ $Definition['Public Key'] = 'Key Publik';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Panduan Cepat-Mulai untuk Membuat Tema Vanilla';
 
 $Definition['Ranks'] = 'Peringkat';
-$Definition['Rate of refresh'] = 'Taksiran penyegaran';
 $Definition['Re-Register API Key'] = 'Daftar-Ulang API Key';
 $Definition['Reaction'] = 'Reaksi';
 $Definition['Reaction Types'] = 'Tipe Reaksi';
@@ -654,15 +614,12 @@ $Definition['Run structure & data scripts'] = 'Jalankan script struktur & data';
 
 $Definition['Save Captured Definitions'] = 'Simpan Definisi Tertangkap';
 $Definition['Saved'] = 'Perubahan anda telah disimpan.';
-$Definition['SaveLocalePack'] = 'Simpan';
-$Definition['Save Translations from a Locale Pack'] = 'Simpan Translasi dari sebuah Paket Lokal';
 $Definition['Search by user or role.'] = 'Pencarian pengguna berdasarkan nama atau masukkan nama dari peran untuk melihat semua pengguna dengan peran tersebut.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Pencarian pengguna berdasarkan nama atau masukkan nama dari peran untuk melihat semua pengguna dengan peran tersebut.';
 $Definition['seconds'] = 'detik';
 $Definition['Security'] = 'Keamanan';
 $Definition['Select'] = 'Pilih';
 $Definition['Select a %s'] = 'Memilih %s';
-$Definition['Select the file to import'] = 'Pilih file untuk diimpor';
 $Definition['Select the import source'] = 'Pilih sumber impor';
 $Definition['Select the location of the pocket.'] = 'Pilih lokasi pocket.';
 $Definition['Send %s a Message'] = 'Kirimkan %s sebuah pesan';
@@ -675,9 +632,7 @@ $Definition['Serialized column "%s" failed to be unserialized.'] = 'Kolom terser
 $Definition['Show all possible pocket locations.'] = 'Nyalakan opsi ini untuk menampilkan semua peluang lokasi pocket. Menyalakan opsi ini akan hanya menampilkan saja kepada pengguna bahwa mereka bisa mengelola pocket.';
 $Definition['Show Pocket Locations'] = 'Tampilkan Lokasi Pocket';
 $Definition['SignedOut'] = 'Anda telah keluar.';
-$Definition['Sign in'] = 'Masuk';
 $Definition['Sign In Url'] = 'Url Sign In';
-$Definition['Silver'] = 'Perak';
 $Definition['Site Description'] = 'Deskripsi Situs';
 $Definition['Site Name'] = 'Nama Situs';
 $Definition['Slug'] = 'Siput';
@@ -693,7 +648,6 @@ $Definition['Start Discussions'] = 'Mulai Dikusi';
 $Definition['Start Import'] = 'Mulai Impor';
 $Definition['Start the first discussion.'] = 'Meriahkan komunitas Anda dengan <a href="{/post/discussion,url}">memulai diskusi pertama</a> sekarang.';
 $Definition['Statistics'] = 'Statistik';
-$Definition['Stop Forum Spam Settings'] = 'Setelan Larangan Spam Forum';
 $Definition['Styles'] = 'Corak';
 $Definition['Subject'] = 'Perihal';
 $Definition['Subscriber'] = 'Langganan';
@@ -706,7 +660,6 @@ $Definition['Temporary (302)'] = 'Sementara (302)';
 $Definition['Test'] = 'Tes';
 $Definition['Testing'] = 'Pengujian';
 $Definition['Test Mode'] = 'Mode Tes: Pocket hanya akan ditampilkan pada pocket administrator.';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Mode Tes: Pocket hanya akan ditampilkan pada pocket administrator.';
 $Definition['Test URL'] = 'Tes URL';
 $Definition['Text'] = 'Teks';
 $Definition['TextEnterEmails'] = 'Ketikkan alamat email dengan tanda pemisah koma di sini';
@@ -725,13 +678,10 @@ $Definition['The banner title appears on the top-left of every page.'] = 'Judul 
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Judul banner akan tampil pada banner situs anda dan pada baris judul peramban anda. Ia harus tidak lebih dari 20 karakter. Bila logo banner diunggah, ia akan menggantikan judul banner pada halaman forum anda. Juga, selalu ingat bahwa beberapa tema mungkin menyembunyikan judul banner ini.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Formulir pendaftaran dasar mewajibkan</strong> pengguna baru untuk menyalin teks dari gambar CAPTCHA guna menghindari spammer dari situs ini. Anda memerlukan akun di <a href="http://recaptcha.net/">recaptcha.net</a>. Pendaftaran GRATIS dan mudah. Setelah mendaftar, kembalilah ke sini dan masukkan setelan berikut:';
 $Definition['The Basics'] = 'Hal Dasar';
-$Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'Behind-the-scenes URL yang berbagi informasi identitas dengan Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'ID client secara unik mengidentifikasi situs. Anda dapat membangkitkan ID baru melalui tombol pada bagian bawah halaman ini.';
 $Definition['The content you were looking for has been deleted.'] = 'Konten yang anda cari sudah dihapus.';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'User dari basisdata yang anda spesifikasikan tidak memiliki izin akses ke basisdata. Sudahkan anda membuat basisdatanya? Basisdata telah melaporkan: <code>%s</code>';
 $Definition['The default role has not been configured.'] = 'Peran baku belum dikonfigurasikan.';
-$Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'Plugin Disqus memungkinkan pengguna masuk dengan akun Disqus mereka. <b>Anda harus mendaftarkan aplikasi anda pada Disqus agar plugin ini bisa bekerja.</b>';
-$Definition['The following content has been flagged by users for moderator review.'] = 'Konten tersebut telah diberi bendera oleh pengguna untuk ditinjau moderator.';
 $Definition['The following structure changes are required for your database.'] = 'Perubahan struktur di bawah ini diperlukan untuk basisdata anda.';
 $Definition['The homepage title is displayed on your home page.'] = 'Judul laman beranda akan ditampilkan pada laman beranda anda. Pilih sebuah judul yang anda ingin tampilkan pada mesin pencari.';
 $Definition['The homepage was saved successfully.'] = 'Laman beranda berhasil disimpan.';
@@ -783,28 +733,18 @@ $Definition['This is the administrative dashboard for your new community.'] = 'I
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Ini adalah kali pertama anda mengunjungi forum diskusi.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Opsi ini menampilkan/menyembunyikan lokasi di mana pocket dapat bekerja, namun hanya untuk pengguna yang mendapat izin untuk menambah/mengeditnya. Cobalah untuk menampilkan lokasinya lalu kunjungi situs anda.';
 $Definition['This page requires Javascript.'] = 'Halaman ini memerlukan Javascript.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Plugin ini memungkinak pengguna masuk dengan OpenID. <b>Pastikan anda telah mengklik Setelan segera setelah mengaktifkan plugin ini untuk mulai mengaktifkan OpenID signin</b>.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Plugin ini memungkinkan pengguna untuk masuk dengan akun Google mereka. <b>Pastikan anda mengklik Setelan segera setelah mengaktifkan plugin ini untuk mulai mengaktifkan Google signin</b>.';
-$Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'Plugin ini menyediakan pengunggahan file dan melampirkannya ke diskusi dan komentar.';
 $Definition['This pocket is an ad.'] = 'Saku ini adalah iklan.';
-$Definition['This show the plugin on only selected discussion pages'] = 'Ini menampilkan plugin yang terpasang pada halaman diskusi terpilih';
 $Definition['This theme has additional options.'] = 'Tema ini punya tambahan opsi pada halaman %s.';
 $Definition['This theme has customizable text.'] = 'Tema ini memiliki teks yang dapat anda sesuaikan.';
-$Definition['This will show the panel on every page.'] = 'Ini akan menampilkan panel di setiap halaman.';
 $Definition['Thumbnails'] = 'Thumbnail';
 $Definition['Titles'] = 'Judul';
 $Definition['To'] = 'Kepada';
-$Definition['To embed your entire Vanilla community forum into your web site, copy and paste this script into the page where you would like the forum to appear.'] = 'Untuk menanamkan seluruh forum komunitas Vanilla ke situs anda, salin dan tempelkan script ini ke laman yang akan dimunculkan forumnya.';
-$Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'Untuk menanamkan forum komunitas Vanilla ke dalam aplikasi web terkendali, gunakan kode tanam forum atau salah satu plugin forum yang tertanam di bawah ini.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Untuk menanamkan forum Vanilla anda pada situs anda, gunakan kode berikut.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Untuk mencegah tindak penyalahgunaan, beberapa perangkat secara otomatis menyembunyikan konten dan daftarnya di sini hingga disetujui secara manual oleh moderator.';
-$Definition['To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>'] = 'Untuk menggunakan reCAPTCHA anda harus mendapatkan API key dari <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>';
 $Definition['Try Again'] = 'Coba Lagi';
 $Definition['Turn OFF'] = 'Matikan';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect memungkinkan pengguna untuk masuk dengan akun Twitter. <b>Anda harus mendaftarkan aplikasi anda dengan Twitter agar plugin ini bisa bekerja.</b>';
 
-$Definition['Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.'] = 'Tidak dapat mendeteksi PHP GD yang terinstallasi pada sistem ini. Vanilla membutuhkan GD versi 2 atau yang lebih baik.';
-$Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = 'Tidak dapat menginisialisasi plugin: connectivity libraries yang dibutuhkan tidak ditemukan, begitu juga dengan \'fsockopen\' atau \'curl\'.';
 $Definition['Unban'] = 'Jangan cekal';
 $Definition['Uninvite'] = 'Jangan undang';
 $Definition['Universal Code'] = 'Kode Universal';
@@ -815,7 +755,6 @@ $Definition['Use an SMTP server to send email'] = 'Gunakan SMTP server untuk men
 $Definition['Use asterisks for wildcards'] = 'Gunakan tanda bintang untuk wildcard, cth: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Gunakan Kategori';
 $Definition['Use categories to organize discussions'] = 'Gunakan kategori untuk mengorganisir diskusi';
-$Definition['Use delta indexes'] = 'Gunakan indeks delta (direkomendasikan untuk situs besar)';
 $Definition['Use Facebook names for usernames.'] = 'Gunakan nama Facebook untuk username.';
 $Definition['User'] = 'Pengguna';
 $Definition['User Count'] = 'Pengguna';
@@ -836,17 +775,12 @@ $Definition['UserWipe'] = 'Konten Kosong Pengguna';
 $Definition['UserWipeMessage'] = 'Hapus pengguna dan timpa semua konten pengguna dengan sebuah pesan yang menyatakan pengguna telah dihapus. Hal ini memberi isyarat visual bahwa telah terjadi kehilangan informasi.';
 $Definition['Use the content at this url as your homepage.'] = 'Pilih laman yang perlu dilihat orang-orang saat mereka berkunjung: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Gunakan plugin WordPress untuk menyetel Komentar Vanilla pada blog anda, atau gunakan kode universal untuk menyetel Komentar Vanilla pada platform lainnya.';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Gunakan field-field ini untuk membuat profil informasiyang disesuaikan. Anda dapat memasukan sesuatu seperti "Status Hubungan", "ID Skype", "Dinosaurus Favorit", dll. Berkreasilah!';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Gunakan field-field ini untuk membuat profil informasi yang disesuaikan. Anda dapat memasukan sesuatu seperti "Status Hubungan", "ID Skype", "Dinosaurus Favorit", dll. Berkreasilah!';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Gunakan Vanilla sebagai sistem komentar pada situs anda';
 
 $Definition['Vanilla.Archive.Description'] = 'Anda dapat memilih arsip diskusi forum yang lebih lama dari tanggal tertentu. Arsip diskusi secara efektif telah ditutup, sehingga tidak memungkinkan kiriman baru.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Tempatkan kategori bercabang dalam daftar dengan tanda pemisah koma saat mereka %1$s';
-$Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'Vanilla dapat ditanamkan pada situs anda dalam bermacam cara. Klik pada tab di bawah ini untuk mengetahui lebih lanjut.';
-$Definition['Vanilla Configuration'] = 'Konfigurasi Vanilla';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Ekspor Vanilla: %s, Sumber: %s';
 $Definition['Vanilla is installed!'] = 'Vanilla telah diinstalasikan!';
-$Definition['Vanilla Sphinx Help'] = 'Bantuan Sphinx Vanilla';
 $Definition['Vanilla Statistics are currently disabled'] = 'Statistik Vanilla saat ini dinonaktifkan';
 $Definition['Verified!'] = 'Terverifikasi!';
 $Definition['Version'] = 'Versi';
@@ -873,7 +807,6 @@ $Definition['We only accept urls that begin with http:// or https://'] = 'Kami h
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Kami akan berupaya untuk menggunakan server mail lokal untuk mengirimkan email secara bakunya. Bila anda ingin menggunakan secara terpisah SMTP mail server, anda dapat mengkonfigurasinya di bawah ini.';
 $Definition['What\'s the Buzz?'] = 'Ada Buzz Baru?';
 $Definition['Where is your Community Forum?'] = 'Di mana Forum Komunitas anda?';
-$Definition['Where should the plugin be shown?'] = 'Di mana seharusnya plugin ditampilkan?';
 $Definition['Who\'s Online Settings'] = 'Setelan Siapa yang Daring';
 $Definition['Why do you want to join?'] = 'Mengapa anda ingin bergabung?';
 $Definition['Within'] = 'Dalam';
@@ -891,7 +824,6 @@ $Definition['You can customize the HTML and CSS for this theme on the %s page.']
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Anda dapat membuat akun baru, atau masukkan data kredensial anda bila anda telah memiliki akun.';
 $Definition['You can make the categories page your homepage.'] = 'Anda dapat menjadikan halaman kategori anda sebagai laman beranda <a href="%s">di sini</a>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Anda tidak dapat menonaktifkan plugin %1$s karena plugin %2$s dibutuhkan agar bisa berfungsi.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Anda tidak dapat menonaktifkan plugin OpenID karena plugin GoogleSignIn membutuhkannya agar bisa berfungsi.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'Anda tidak dapat mengedit thumbnail dari anggota lain.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Anda tidak dapat menghapus undangan yang telah diterima.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Anda tidak dapat menghapus kategori tersisa yang memperkenankan diskusi';

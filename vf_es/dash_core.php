@@ -362,7 +362,6 @@ $Definition['Flood Control'] = 'Control de inundaciones';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Haz que el panel solo sea accesible a través de esta URL <em>(no recomendado)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Haz que el foro sea solo accesible mediante esta URL';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Haz que tu foro se vea a través de una URL remota';
-$Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'Para obtener información sobre cómo habilitar las barras de progreso en tiempo real, echa un vistazo al <a href="http://php.net/manual/en/book.apc.php">caché alternativo de PHP (APC)</a>';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Por motivos de SEO, a las arañas de motores de búsqueda no se les obliga a ver el foro de la URL remota.';
 $Definition['Forum Settings'] = 'Configuración Foro';
 $Definition['Frequency'] = 'Frecuencia ';
@@ -372,13 +371,7 @@ $Definition['Garden'] = 'Jardín';
 $Definition['Garden.Import.Complete.Description'] = 'Has completado una importación correctamente. Haz clic en <b>Finalizado</b> cuando hayas acabado.';
 $Definition['Garden.Import.Continue.Description'] = 'Parece que estás realizando una importación.
      Por favor, elige una de las siguientes opciones.';
-$Definition['Garden.Import.Description'] = 'Utilice esta página para importar datos de otro foro que se ha exportado utilizando el exportador de vainilla. <a href="%s">Para obtener más information ver nuestra documentación de importación</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Introduce el email y la contraseña del usuario administrador de los datos que se importan';
-$Definition['Garden.Import.Merge'] = 'Integrar con este foro.';
-$Definition['Garden.Import.Merge.Description'] = 'Esto integrará todos los datos de usuarios y discusiones de la importación en este foro.
-<b>Advertencia: si integras los mismos datos dos veces, duplicarás las discusiones.</b>';
-$Definition['Garden.Import.Overwrite'] = 'Sobrescribe este foro. ';
-$Definition['Garden.Import.Overwrite.Description'] = 'Advertencia: Todos los datos de este foro se sobreescribirán.';
 $Definition['Garden.StatisticsDisabled'] = 'Usted ha deshabilitado específicamente Estadísticas Vanilla en su archivo de configuración.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Este foro parece estar funcionando en periodo de pruebas o tiene una identificación privada. Por defecto, los foros que funcionan mediante identificación privada no se rastrean.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Si estás seguro de que tu foro es accesible a través de Internet, puedes hacer que emita informes estadísticos aquí:';
@@ -387,7 +380,6 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = 'Para resolver este problema,
 $Definition['Gave badge to users.'] = 'Dar insignias a los usuarios. ';
 $Definition['Generate'] = 'Generar';
 $Definition['Generate Client ID and Secret'] = 'Generar ID y Secreto del cliente';
-$Definition['Generate sphinx.conf'] = 'Generar sphinx.conf';
 $Definition['Get More Applications'] = 'Obtener más Aplicaciones...';
 $Definition['Get more information on creating custom routes'] = '<br/>Obtener más información sobre la creación de rutas propias.';
 $Definition['Get More Plugins'] = 'Obtener más Plugins...';
@@ -395,10 +387,7 @@ $Definition['Get More Themes'] = 'Obtener más Temas';
 $Definition['Getting Started'] = 'Cómo empezar';
 $Definition['Getting Started with Vanilla'] = 'Cómo empezar con Vanilla';
 $Definition['give'] = 'Dar';
-$Definition['Give an Badge'] = 'Dar una Insignia';
-$Definition['Give me a new account'] = 'Dame una nueva cuenta';
 $Definition['Given Indexes'] = 'Índices determinados';
-$Definition['Google Sign In Settings'] = 'Configuración Google SignIn';
 $Definition['Guest'] = 'Invitado';
 $Definition['Guest roles'] = 'Mira todos los roles que deberían ser aplicados a los invitados. ';
 
@@ -411,33 +400,18 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 $Definition['Heads up!'] = '¡Atención!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '¡Atención! Esta es una función especial que no permite sesiones activas. Por ello las opciones de permiso se han limitado para solo "ver" permisos.';
 $Definition['Help &amp; Tutorials'] = 'Ayuda &amp; Tutoriales ';
-$Definition['Here\'s how to get started'] = 'Aquí está cómo empezar';
 $Definition['Here\'s how to get started:'] = 'Aquí está cómo empezar:';
 $Definition['Hidden for everything!'] = '¡Oculto para todo!';
 $Definition['Hidden for mobile'] = 'Oculto para móviles';
-$Definition['Hide  Fields'] = 'Esconder  Campos';
 $Definition['Hide from the recent discussions page.'] = 'Esconder de la página de discusiones recientes.';
 $Definition['Hide Pocket Locations'] = 'Ocultar las ubicaciones de los pockets';
 $Definition['Hide signatures for guests'] = 'Ocultar las firmas de los invitados';
 $Definition['Hide signatures on embedded comments'] = 'Esconder firmas en comentarios incrustados';
-$Definition['Hide this category from the recent discussions page.'] = 'Esconde esta categoría de la página de discusiones recientes.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = '¡Hola, amigo!
-
-Echa un vistazo al nuevo foro comunitario que acabo de crear. Es un lugar fantástico para que podamos conversar en línea.
-
-Haz clic en el siguiente enlace para acceder.';
 $Definition['Homepage'] = 'Página principal';
 $Definition['Homepage Title'] = 'Título de la página principal';
 $Definition['How to use themes'] = 'Como usar los temas ';
-$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si se sube el logotipo de un banner, éste sustituirá al título del banner en las páginas de foros interactivos.';
-$Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Si tu archivo tiene más de 20 MB, debes subirlo a una URL pública.';
-$Definition['If your file is small then just upload it here.'] = 'Si el archivo es pequeño, entonces simplemente cárgalo aquí.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Si quieres disminuir el nivel de advertencia, debes eliminar una advertencia.';
 $Definition['Import'] = 'Importar';
 $Definition['Importing to Vanilla'] = 'Importar a Vanilla';
@@ -446,7 +420,6 @@ $Definition['Indexes'] = 'Índices';
 $Definition['Information'] = 'Información';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Instalar Vanilla sin un archivo .htaccess';
 $Definition['Internaltionalization & Localization'] = 'Internacionalización y Localización';
-$Definition['Introducing Vanilla Comments'] = 'Presentando los Comentarios Vanilla';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Presentando las reacciones e insignias Vanilla ';
 $Definition['Invalid category for deletion.'] = 'Categoría inválida para su eliminación.';
 $Definition['Invitation'] = 'Invitación ';
@@ -460,26 +433,18 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['jsConnect Client Libraries'] = 'Librerías de cliente jsConnect';
 $Definition['jsConnect Documentation'] = 'Documentación jsConnect';
-$Definition['JS Connect Settings'] = 'Configuraron de Conexión JS ';
 
 $Definition['Key Type'] = 'Tipo Clave';
 $Definition['Key Value'] = 'Tipo Valor';
 $Definition['Kick-start your community and increase user engagement.'] = 'Activa tu comunidad y aumenta la participación de los usuarios.';
 
 $Definition['Label this Revision'] = 'Etiqueta esta revisión';
-$Definition['Last time your forum communicated with the statistics server it received the following message:'] = 'La última vez que el foro se comunicó con el servidor de estadísticas recibió el siguiente mensaje:';
 $Definition['Last Visit'] = 'Última Visita';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda a cambiar completamente el aspecto de tu foro: cargando su logotipo, pon tu página de inicio, seleccione un tema y personalizarlo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a utilizar las funciones básicas de su foro.';
 $Definition['Level'] = 'Nivel';
 $Definition['Likes'] = 'Me gusta';
-$Definition['Limit the display of this plugin for mobile devices.'] = 'Limita la visualización de este complemento para dispositivos móviles.';
-$Definition['Limit the display of this plugin to "mobile only".'] = 'Limita la visualización de este complemento a "solo móvil".';
-$Definition['Limit the display of this pocket for embedded comments.'] = 'Limita la visualización de este pocket para comentarios incrustados.';
-$Definition['Limit the display of this pocket for mobile devices.'] = 'Limita la visualización de este pocket en dispositivos móviles';
-$Definition['Limit the display of this pocket to "mobile only".'] = 'Limita la visualización de este pocket a "solo móvil".';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limita el pocket a una o más funciones o permisos.';
-$Definition['Link my existing account'] = 'Vincular mi cuenta existente';
 $Definition['Locale Key (Folder)'] = 'Locale Key (Carpeta)';
 $Definition['Locale Name'] = 'Nombre de localización';
 $Definition['Locales'] = 'Localizaciones';
@@ -490,7 +455,6 @@ $Definition['LogoBrowse'] = 'Busca un nuevo logotipo de banner si quieres cambia
 $Definition['LogoDescription'] = 'El logotipo aparece en la parte superior de su sitio. Algunos temas pueden no mostrar este logo.';
 
 $Definition['Maintenance Mode'] = 'En modo de mantenimiento';
-$Definition['Make sure to use a forum theme that meshes well with the look and feel of the remote site.'] = 'Asegúrate de usar un tema en el foro que encaje bien con el aspecto del sitio web remoto.';
 $Definition['Make sure you click View Page'] = 'Haz clic en <a href="%s">Ver página</a> para ver cómo queda tu página de categorías después de guardarla.';
 $Definition['Make sure you select at least one item before continuing.'] = 'Asegúrese de seleccionar al menos un elemento antes de continuar.';
 $Definition['Manage'] = 'Administrar';
@@ -505,8 +469,6 @@ $Definition['Manage Routes'] = 'Gestionar Rutas';
 $Definition['Manage Spam'] = 'Gestionar Spam';
 $Definition['Manage Themes'] = 'Gestionar Temas';
 $Definition['Manage Users'] = 'Gestionar Usuarios';
-$Definition['Manage users'] = 'Gestión de Usuarios';
-$Definition['Manage your Plugins'] = 'Gestionar tus Plugins';
 $Definition['Managing Categories'] = 'Gestionar Categorías ';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marcar cosas como NO spam las pondrá de nuevo en tu foro. ';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcar cosas como no spam las pondrá de nuevo en tu foro. ';
@@ -519,7 +481,6 @@ $Definition['Media'] = 'Medios';
 $Definition['Member'] = 'Miembro';
 $Definition['Member roles'] = 'Mira todos los roles que deberían ser aplicados a los usuarios nuevos o aprobados. ';
 $Definition['Message ID'] = 'ID Mensaje';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Los mensajes pueden aparecer en cualquier parte de tu aplicación, y pueden ser utilizados para informar a los usuarios de noticias y eventos. Utiliza esta página para reorganizar tus mensajes arrastrándolos hacia arriba o hacia abajo.';
 $Definition['Messages can appear anywhere in your application.'] = 'Los mensajes pueden aparecer en cualquier parte de tu aplicación, y pueden ser utilizados para informar a los usuarios de noticias y eventos. Utiliza esta página para reorganizar tus mensajes arrastrándolos hacia arriba o hacia abajo.';
 $Definition['Method'] = 'Método';
 $Definition['minute(s)'] = 'minuto(s)';
@@ -530,7 +491,6 @@ $Definition['Moderators have permission to edit most content.'] = 'Los moderador
 $Definition['Modern Layout'] = 'Layout moderno ';
 $Definition['Modern non-table-based layout'] = 'Diseño sin tabla moderno';
 $Definition['more than %s deep'] = 'más de %s de fondo';
-$Definition['more than %s levels deep'] = 'más de %s niveles de fondo';
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'La mayoría de bolsillos no deben ser mostrados en el panel.';
 $Definition['Move discussions in this category to a replacement category.'] = 'Traslada las discusiones de esta categoría a una categoría sustitutiva.';
 $Definition['My Invitations'] = 'Mis Invitaciones';
@@ -554,7 +514,6 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['New users in the last day'] = 'Nuevos usuarios en el último día';
 $Definition['New users in the last week'] = 'Nuevos usuarios en la última semana';
 $Definition['No Change'] = 'No cambios';
-$Definition['No costs yet.'] = 'Sin costes todavía.';
 $Definition['No Items Selected'] = 'No items seleccionados ';
 $Definition['None'] = 'Ninguno';
 $Definition['No results for %s.'] = 'No resultados para <b>%s</b>';
@@ -569,8 +528,6 @@ $Definition['Not Spam'] = 'No Spam';
 $Definition['Number of blocked registrations'] = 'Número de registros bloqueados. ';
 
 $Definition['On'] = 'En';
-$Definition['One, two, three...'] = 'Uno, dos, tres...';
-$Definition['Only Allow Each User To Post'] = 'Solo permitir a cada usuario enviar';
 $Definition['Only display on mobile browsers.'] = 'Solo mostrar en navegadores móviles. ';
 $Definition['Operation By'] = 'Por';
 $Definition['Organize'] = 'Organizar ';
@@ -585,17 +542,14 @@ $Definition['Outgoing Email Address'] = 'Correo saliente';
 
 $Definition['Page'] = 'Página';
 $Definition['page'] = 'página';
-$Definition['Panel Box'] = 'Caja de control';
 $Definition['Password Options'] = 'Opciones de Contraseña';
 $Definition['Pending'] = 'Pendiente';
 $Definition['Permission'] = 'Permiso';
 $Definition['Permission.Category'] = 'Permiso. Categoría ';
 $Definition['Permissions'] = 'Permisos ';
-$Definition['Place nested categories in a comma-delimited list when they are'] = 'Coloca las categorías anidadas en una lista separada por comas cuando sean';
 $Definition['Please choose an authenticator to configure.'] = 'Por favor elige un autenticador para configurar.';
 $Definition['Please Confirm'] = 'Por favor confirmar ';
 $Definition['Plugin'] = 'Complemento';
-$Definition['Plugin.Enabled'] = 'Complemento.Habilitado';
 $Definition['PluginHelp'] = 'Los plugins te permiten añadir funcionalidad a tu sitio.<br />Una vez añadido un plugin a la carpeta %s, puedes activarlo o desactivarlo aquí.';
 $Definition['Pocket'] = 'Bolsillo';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'El pocket se muestra entre cada una de las discusiones de la lista principal de discusiones. Como las discusiones están normalmente &lt;li&gt;..&lt;/li&gt; etiquetadas, tendrás que etiquetar también tus pockets.';
@@ -609,7 +563,6 @@ $Definition['Public Key'] = 'Clave pública';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guía rápida para crear plantillas para Vanilla';
 
 $Definition['Ranks'] = 'Rangos';
-$Definition['Rate of refresh'] = 'Frecuencia de actualización';
 $Definition['Re-Register API Key'] = 'Re-registra la API Key';
 $Definition['Reaction'] = 'Reacción ';
 $Definition['Reaction Types'] = 'Tipos de reacción';
@@ -661,15 +614,12 @@ $Definition['Run structure & data scripts'] = 'Ejecutar scripts de estructura y 
 
 $Definition['Save Captured Definitions'] = 'Definiciones capturadas guardadas ';
 $Definition['Saved'] = 'Tus cambios han sido guardados.';
-$Definition['SaveLocalePack'] = 'Guardar';
-$Definition['Save Translations from a Locale Pack'] = 'Ahora traducciones con un paquete local';
 $Definition['Search by user or role.'] = 'Busca usuarios por nombre o ingresa el nombre de un rol para ver todos los usuarios con ese rol.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Busca usuarios por nombre o ingresa el nombre de un rol para ver todos los usuarios con ese rol.';
 $Definition['seconds'] = 'segundos';
 $Definition['Security'] = 'Seguridad';
 $Definition['Select'] = 'Seleccionar';
 $Definition['Select a %s'] = 'Seleccionar un %s';
-$Definition['Select the file to import'] = 'Selecciona el fichero a importar';
 $Definition['Select the import source'] = 'Selecciona la fuente de importación';
 $Definition['Select the location of the pocket.'] = 'Selecciona la ubicación de este pocket.';
 $Definition['Send %s a Message'] = 'Enviar un Mensaje a %s';
@@ -682,9 +632,7 @@ $Definition['Serialized column "%s" failed to be unserialized.'] = 'No se pudier
 $Definition['Show all possible pocket locations.'] = 'Activa esta opción para mostrar todas las ubicaciones de pockets posibles. Al activar esta opción, solo se mostrarán las ubicaciones a los usuarios que puedan gestionar pockets.';
 $Definition['Show Pocket Locations'] = 'Mostrar las ubicaciones de Pocket';
 $Definition['SignedOut'] = 'Estas saliendo. ';
-$Definition['Sign in'] = 'Ingresa';
 $Definition['Sign In Url'] = 'Registrarse';
-$Definition['Silver'] = 'Plateado';
 $Definition['Site Description'] = 'Descripción del sitio';
 $Definition['Site Name'] = 'Nombre del Sitio';
 $Definition['SMTP Host'] = 'Host SMTP';
@@ -700,7 +648,6 @@ $Definition['Start Import'] = 'Iniciar Importación ';
 $Definition['Start the first discussion.'] = 'Pon la maquinaria de tu comunidad en marcha <a href="{/post/discussion,url}">empezando la primera discusión</a> ahora.';
 $Definition['Statistics'] = 'Estadísticas ';
 $Definition['Status'] = 'Estado';
-$Definition['Stop Forum Spam Settings'] = 'Configuración de bloqueo de spam en el foro';
 $Definition['Styles'] = 'Estilos ';
 $Definition['Subject'] = 'Asunto';
 $Definition['Subscriber'] = 'Suscriptor';
@@ -713,7 +660,6 @@ $Definition['Temporary (302)'] = 'Temporal (302)';
 $Definition['Test'] = 'Prueba';
 $Definition['Testing'] = 'Probando';
 $Definition['Test Mode'] = 'Modo de prueba: el pocket solo se mostrará a los administradores de Pocket.';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Test URL'] = 'Prueba URL';
 $Definition['Text'] = 'Texto';
 $Definition['TextEnterEmails'] = 'Escribe la direcciones de email separadas por una coma, aquí';
@@ -732,13 +678,10 @@ $Definition['The banner title appears on the top-left of every page.'] = 'El tí
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'El título del banner aparece en el banner de tu sitio web y en la barra de título del navegador. Debe tener menos de 20 caracteres. Si se sube el logotipo de un banner, éste reemplzará el título del banner en las páginas de foros interactivos. También ten en cuenta que algunas plantillas podrían ocultar este título.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>El formulario básico de registro exige</strong> que los nuevos usuarios copien texto de una imagen CAPTCHA para mantener a los anunciantes fuera del sitio. Necesitas una cuenta en <a href="http://recaptcha.net/"> recaptcha.net </a>. La inscripción es GRATUITA y fácil. Una vez que te hayas registrado, vuelve aquí e introduce los siguientes valores:';
 $Definition['The Basics'] = 'Los Básicos';
-$Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'La URL oculta que comparte información de identidad con Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'La identificación del cliente reconoce exclusivamente el sitio web. Puedes crear una nueva identificación con el botón en la parte inferior de esta página.';
 $Definition['The content you were looking for has been deleted.'] = 'El contenido que buscas ha sido eliminado.';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'El usuario de la base de datos que has especificado no tiene permiso para acceder a la misma. ¿Ya la has creado? La base de datos ha creado un informe: <code>%s</code>';
 $Definition['The default role has not been configured.'] = 'No se ha configuración la función predeterminada.';
-$Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'Con el complemento Disqus los usuarios podrán registrarse utilizando sus cuentas en Disqus. <b>Debes registrar tu aplicación con Disqus para que funcione este complemento.</b>';
-$Definition['The following content has been flagged by users for moderator review.'] = 'El siguiente contenido ha sido marcado por los usuarios para que lo revise el moderador.';
 $Definition['The following structure changes are required for your database.'] = 'Los siguientes cambios en la estructura son requeridos por tu base de datos. ';
 $Definition['The homepage title is displayed on your home page.'] = 'El título de la página principal se muestra en tu página principal. Elige el título que te gustaría que apareciera en los motores de búsqueda.';
 $Definition['The homepage was saved successfully.'] = 'La página principal se ha guardado con éxito.';
@@ -790,28 +733,18 @@ $Definition['This is the administrative dashboard for your new community.'] = 'E
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Esta es la primera vez que visitó los foros de discusión.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Esta opción muestra/oculta las ubicaciones a donde pueden ir los pockets, pero solo para los usuarios con permiso para añadir/editar pockets. Prueba a mostrar las ubicaciones y luego visita tu sitio.';
 $Definition['This page requires Javascript.'] = 'Esta página requiere Javascript.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Este plugin permite a los usuarios iniciar sesión con su cuenta de OpenID. <b>Asegúrese de que haga click en Configuración después de habilitar este plugin para habilitar el inicio de sesión con OpenID </b>.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Este plugin permite a los usuarios iniciar sesión con su cuenta de Google. <b>Asegúrese de que haga click en Configuración después de habilitar este plugin para habilitar el inicio de sesión con Google </b>.';
-$Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'Este plugin permite la carga de archivos y adjuntarlos a las discusiones y comentarios.';
 $Definition['This pocket is an ad.'] = 'Este bolsillo es un anuncio.';
-$Definition['This show the plugin on only selected discussion pages'] = 'Esto te muestra el plugin solamente en las páginas de debates seleccionadas';
 $Definition['This theme has additional options.'] = 'Este tema tiene opciones adicionales en la página %s.';
 $Definition['This theme has customizable text.'] = 'Este tema tiene texto que puedes personalizar. ';
-$Definition['This will show the panel on every page.'] = 'Esto mostrará el panel en cada página. ';
 $Definition['Thumbnails'] = 'Miniaturas de imagen';
 $Definition['Titles'] = 'Titulos';
 $Definition['To'] = 'A';
-$Definition['To embed your entire Vanilla community forum into your web site, copy and paste this script into the page where you would like the forum to appear.'] = 'Para incrustar tu foro comunitario de Vanilla entero en tu página web, copia y pega este script en la página donde te gustaría que apareciera el foro.';
-$Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'Para insertar tu foro Vanilla en una aplicación web remota, usa el código de inserción del foro o uno de los complementos de inserción del foro que aparecen más abajo.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Para insertar tu foro Vanilla en tu sitio web, usa el siguiente código. ';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Para evitar abusos, algunas herramientas esconden contenidos automáticamente y los registran aquí hasta que sea aprobado manualmente por un moderador.';
-$Definition['To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>'] = 'Para usar el reCAPTCHA, debes obtener una clave API en <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>';
 $Definition['Try Again'] = 'Trata otra vez';
 $Definition['Turn OFF'] = 'Apague';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect permite a los usuarios iniciar sesión con su cuenta de Twitter. <b>Debes registrar tu aplicación con Twitter para que este plugin funcione.</b>';
 
-$Definition['Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.'] = 'No se pudo detectar el PHP GD instalado en este sistema. Vanilla requiere GD versión 2 o superior.';
-$Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = 'No se pudo iniciar el complemento: no se encontraron las bibliotecas de conectividad requeridas. Se necesita "fsockopen" o "curl".';
 $Definition['Unban'] = 'Desbloquear. ';
 $Definition['Uninvite'] = 'Anular la invitación';
 $Definition['Universal Code'] = 'Código Universal ';
@@ -822,7 +755,6 @@ $Definition['Use an SMTP server to send email'] = 'Usar un Servidor SMTP para el
 $Definition['Use asterisks for wildcards'] = 'Utiliza los asteriscos de comodines, por ejemplo, &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Usa categorías';
 $Definition['Use categories to organize discussions'] = 'Usar categorías para organizar discusiones';
-$Definition['Use delta indexes'] = 'Usa índices delta (recomendado para páginas web de gran tamaño)';
 $Definition['Use Facebook names for usernames.'] = 'Usar nombres de Facebook para nombres de usuario.';
 $Definition['User'] = 'Usuario';
 $Definition['User Count'] = 'Usuarios';
@@ -843,18 +775,12 @@ $Definition['UserWipe'] = 'Contenido de usuario vacío';
 $Definition['UserWipeMessage'] = 'Eliminar al usuario y reemplaza el contenido del usuario con un mensaje que diga que el usuario ha sido eliminado. Esto da una indicación visual de que hay información perdida.  ';
 $Definition['Use the content at this url as your homepage.'] = 'Elige la página que deberían ver los usuarios cuando visiten:  <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Usa el plugin de WordPress para instalar los Comentarios Vanilla en tu blog, o usa el código universal para instalar Comentarios Vanilla en otra plataforma. ';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Usa estos campos para personalizar la información del perfil. Puedes agregar cosas como "Estado Civil", "Skype" o "Tu Favorito Dinosaurio". ¡Se creativo!';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Usa estos campos para crear información de tu perfil personalizada. Puedes introducir elementos como "Estado de las relaciones", "Usuario Skype", "Dinosaurio favorito", etc. ¡Sé creativo!';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Usa Vanilla como un sistema de comentarios en tu sitio ';
 
 $Definition['Vanilla.Archive.Description'] = 'Puedes elegir archivar discusiones del foro que sean más antiguas que una determinada fecha. Las discusiones archivadas son cerradas, no permitiéndose nuevos envíos.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Pon las categorías anidadas en una lista separada por comas cuando sean %1$s';
-$Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'Vanilla se puede insertar en tu sitio web de muchas maneras. Haz clic en las siguientes pestañas para saber más';
-$Definition['Vanilla Configuration'] = 'Configuración Vanilla ';
-$Definition['Vanilla Cookie Domain'] = 'Dominio con cookies Vanilla';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Exportar Vanilla: %s, Fuente: %s';
 $Definition['Vanilla is installed!'] = '¡Vanilla está instalado!';
-$Definition['Vanilla Sphinx Help'] = 'Ayuda de Sphinx para Vanilla';
 $Definition['Vanilla Statistics are currently disabled'] = 'Las estadísticas vainilla están desactivadas actualmente';
 $Definition['Verified!'] = '¡Verificado!';
 $Definition['Version'] = 'Versión';
@@ -882,7 +808,6 @@ $Definition['We only accept urls that begin with http:// or https://'] = 'Solo a
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Vamos a tratar de utilizar por defecto el servidor de correo local para enviar correo electrónico. Si quieres utilizar un servidor de correo SMTP separado, puedes configurarlo debajo.';
 $Definition['What\'s the Buzz?'] = '¿Qué es el Buzz?';
 $Definition['Where is your Community Forum?'] = '¿Dónde está tu Foro Comunitario?';
-$Definition['Where should the plugin be shown?'] = '¿Dónde debería mostrarse el complemento?';
 $Definition['Who\'s Online Settings'] = 'Configuración de Quien esta en linea';
 $Definition['Why do you want to join?'] = '¿Por qué quieres entrar?';
 $Definition['Within'] = 'Dentro de';
@@ -900,7 +825,6 @@ $Definition['You can customize the HTML and CSS for this theme on the %s page.']
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Puedes crear una nueva cuenta o ingresar tus credenciales si ya tienes una cuenta existente. ';
 $Definition['You can make the categories page your homepage.'] = 'Puedes convertir tu página de categorías en tu página principal  <a href="%s">aquí</a>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'No se puede desactivar el plugin de %1$s  porque el plugin %2$s lo necesita para poder funcionar.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'No se puede desactivar el plugin de OpenID porque el plugin GoogleSingIn lo necesita para poder funcionar.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'No puedes editar el thumbnail de otro usuario.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'No puedes eliminar una invitación que ha sido aceptada.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'No puedes eliminar la única categoría existente que permite que haya discusiones';

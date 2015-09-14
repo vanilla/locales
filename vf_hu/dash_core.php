@@ -363,7 +363,6 @@ $Definition['Flood Control'] = 'Flood-védelem';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Kényszerítsd a vezérlőpultot, hogy csak ezen az url-en keresztül lehessen elérni <em>(nem javasolt)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Kényszerítsd a fórumot, hogy csak ezen az url-en keresztül lehessen elérni';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Kényszerítsd a fórumot, hogy csak a Távoli Url-en keresztül lehessen megtekinteni';
-$Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'Valósidejű folyamatjelző csík engedélyezéséhez, nézd meg a  <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a> oldalt';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO okok miatt, a kereső botok nincsenek kényszerítve, hogy a fórumot a távoli url-en keresztül nézzék.';
 $Definition['Forum Settings'] = 'Fórum Beállítások';
 $Definition['Frequency'] = 'Gyakoriság';
@@ -374,10 +373,6 @@ Kattints a <b>Befejezés</b> gombra, ha készen vagy.';
 $Definition['Garden.Import.Continue.Description'] = 'Úgy tűnik folyamatban van egy import.
 Válassz a következő opciók közül.';
 $Definition['Garden.Import.InputInstructions'] = 'Ad meg annak az admin felhasználónak az email címét es a jelszavátm, ahonnan az adat importálva lesz.';
-$Definition['Garden.Import.Merge'] = 'Fűzd össze ezt a fórumot.';
-$Definition['Garden.Import.Merge.Description'] = 'Ez egyesíti minden felhasználó és beszélgetés adatait ezzel a fórummal. <b>Figyelem: Ha azonos adatokat többször egyesítesz, az duplikált bejegyzésekhez vezet.</b>';
-$Definition['Garden.Import.Overwrite'] = 'Írd felül.';
-$Definition['Garden.Import.Overwrite.Description'] = 'Figyelem: A fórum minden adat felülírásra kerül.';
 $Definition['Garden.StatisticsDisabled'] = 'Kimondottan kikapcsoltad a Vanilla Statisztikát a konfigurációs file-odban.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Úgy tűnik ez a fórum teszt környezetben fut, vagy legalábbis privát IP címet jelent le. Alapértelmezés szerint, privát IP-n futó fórumok nincsenek nyomonkövetve.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Ha biztos vagy abban, hogy a fórum elérhető az Itnernetről, akkor itt kényszerítheted ki a statisztika használatát:';
@@ -386,7 +381,6 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = 'A mgoldáshoz állítsd 777-
 $Definition['Gave badge to users.'] = 'Plecsni adása felhasználóknak.';
 $Definition['Generate'] = 'Generál';
 $Definition['Generate Client ID and Secret'] = 'Client ID és Secret generálása';
-$Definition['Generate sphinx.conf'] = 'sphinx.conf generálása';
 $Definition['Get More Applications'] = 'Szerezz több programot';
 $Definition['Get more information on creating custom routes'] = 'Szerezz több információt egyedi utak létrehozásával kapcsolatban';
 $Definition['Get More Plugins'] = 'Szerezz több beépülő modult';
@@ -394,10 +388,7 @@ $Definition['Get More Themes'] = 'Szerezz több témát';
 $Definition['Getting Started'] = 'Bevezetés';
 $Definition['Getting Started with Vanilla'] = 'Bevezetés a Vanilla-ba';
 $Definition['give'] = 'ad';
-$Definition['Give an Badge'] = 'Adj egy plecsnit';
-$Definition['Give me a new account'] = 'Adj egy új fiókot';
 $Definition['Given Indexes'] = 'Adott indexek';
-$Definition['Google Sign In Settings'] = 'Google bejelentkezési beállítások';
 $Definition['Guest'] = 'Vendég';
 $Definition['Guest roles'] = 'Ellenőrizz minden szerepkört, amit vendégekhez hozzá kell rendelni.';
 
@@ -410,32 +401,18 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 $Definition['Heads up!'] = 'Figyelem!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Figyelem, ez egy speciális feladat amit nem csak a megfelelő jogosultsággal rendelkező felhasználók láthatnak.';
 $Definition['Help &amp; Tutorials'] = 'Súgó és Bevezetők';
-$Definition['Here\'s how to get started'] = 'Íme, hogyan kezdj hozzá';
 $Definition['Here\'s how to get started:'] = 'Íme, hogyan kezdj hozzá:';
 $Definition['Hidden for everything!'] = 'Mindenkinek rejtve!';
 $Definition['Hidden for mobile'] = 'Rejtve mobilra';
-$Definition['Hide  Fields'] = 'Mezők elrejtése';
 $Definition['Hide from the recent discussions page.'] = 'Rejtsd el a legfrissebb beszélgetések lapról.';
 $Definition['Hide Pocket Locations'] = 'Zsebek helyeinek elrejtése';
 $Definition['Hide signatures for guests'] = 'Aláírás elrejtése vendégeknél';
 $Definition['Hide signatures on embedded comments'] = 'Aláírás elrejtése idézett hozzászólásoknál';
-$Definition['Hide this category from the recent discussions page.'] = 'Rejtsd el ezt a kategóriát a legfrissebb beszélgetések lapról.';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'Szia!
-
-Egy új közösségi fórumot hoztam létre. Nagyszerű lehetőség, hogy együtt legyünk online..
-
-Kattints az alábbi linkre, hogy bejelentkezz:';
 $Definition['Homepage'] = 'Főoldal';
 $Definition['Homepage Title'] = 'Honlap címe';
 $Definition['How to use themes'] = 'Hogyan használj témákat';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Ha egy banner logo-t feltöltesz, le fogja cserélni a banner címsort a felhasználói fórum oldalakon.';
-$Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'Ha a file-od nagyobb, mint 20M, akkor az nyilvános url-re kell feltöltened.';
-$Definition['If your file is small then just upload it here.'] = 'Ha a file-od elég kicsi, ide feltöltheted.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Ha csökkenteni szeretnéd a figyelmeztetési szintet, akkor törölnöd kell egy figyelmeztetést.';
 $Definition['Import'] = 'Importálás';
 $Definition['Importing to Vanilla'] = 'Importálás a Vanilla-ba';
@@ -444,11 +421,15 @@ $Definition['Indexes'] = 'Indexek';
 $Definition['Information'] = 'Információ';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Vanilla telepítése .htaccess file nélkül.';
 $Definition['Internaltionalization & Localization'] = 'Lokalizáció és nemzetközi beállítások';
-$Definition['Introducing Vanilla Comments'] = 'Bemutatjuk a Vanilla Kommenteket';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Vanilla Válaszok és Plecsnik bemutatása';
 $Definition['Invalid category for deletion.'] = 'Hibás törléshez megadott kategória.';
 $Definition['Invitation'] = 'Meghívásos típus';
 $Definition['Invitation Code'] = 'Meghívási kód';
+$Definition['InvitationMessage'] = 'Szia!
+
+Egy új közösségi fórumot hoztam létre. Nagyszerű lehetőség, hogy együtt legyünk online..
+
+Kattints az alábbi linkre, hogy bejelentkezz:';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Ha meghívásos regisztráció-típust használsz, a felhasználók profilja tartalmazni fog egy <a href="%s" class="Popup">Meghívóim</a> linket.';
 $Definition['Invitations per month'] = 'Havi meghívások';
 $Definition['Invitations will expire'] = 'Le fognak a meghívások járni';
@@ -458,26 +439,18 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect kliens könyvtárak';
 $Definition['jsConnect Documentation'] = 'jsConnect dokumentáció';
-$Definition['JS Connect Settings'] = 'JS Connect beállítások';
 
 $Definition['Key Type'] = 'Kulcs típus';
 $Definition['Key Value'] = 'Kulcs értéke';
 $Definition['Kick-start your community and increase user engagement.'] = 'Indítsd el a közösséged és erősítsd a felhasználói elkötelezettséget.';
 
 $Definition['Label this Revision'] = 'Cimkézd meg ezt a verziót';
-$Definition['Last time your forum communicated with the statistics server it received the following message:'] = 'Az utolsó alkalommal, amikor a fórumod a statisztika szerverrel kommunikált, ezt az üzenetet kapta:';
 $Definition['Last Visit'] = 'Utolsó belépés';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Ismerd meg, hogy tudod teljesen lecserélni a fórumod kinézetét: tölts fel logókat, állítsd be a honlapod, válassz egy témát és tedd egyedivé.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Ismerd meg, hogy használd az alapvető fórum-funkciókat.';
 $Definition['Level'] = 'Szint';
 $Definition['Likes'] = 'Like-ok';
-$Definition['Limit the display of this plugin for mobile devices.'] = 'Korlátozd a modul megjelenését mobil eszközökön.';
-$Definition['Limit the display of this plugin to "mobile only".'] = 'Korlátozd a modul megjelenését "csak mobil" eszközökre.';
-$Definition['Limit the display of this pocket for embedded comments.'] = 'Korlátozd a zseb megjelenését beágyazott tartalmon.';
-$Definition['Limit the display of this pocket for mobile devices.'] = 'Korlátozd a zseb megjelenését mobil eszközökön.';
-$Definition['Limit the display of this pocket to "mobile only".'] = 'Korlátozd a zseb megjelenését "csak mobil" eszközökre.';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Korlátozd a zsebet egy vagy több szerepkörre, jogosultságra.';
-$Definition['Link my existing account'] = 'Kapcsold össze egy jelenlegi fiókommal';
 $Definition['Locale Key (Folder)'] = 'Nyelv kulcsa (mappa)';
 $Definition['Locale Name'] = 'Nyelv neve';
 $Definition['Locales'] = 'Fordítások';
@@ -488,7 +461,6 @@ $Definition['LogoBrowse'] = 'Tallóz be egy új banner logot, ha meg szeretnéd 
 $Definition['LogoDescription'] = 'A banner logo az oldalad tetején fog megjelenni. Néhány téma esetleg nem fogja ezt a logot megjeleníteni.';
 
 $Definition['Maintenance Mode'] = 'Karbantartási üzemmód';
-$Definition['Make sure to use a forum theme that meshes well with the look and feel of the remote site.'] = 'Győződj meg arról, hogy a fórum kinézete passzol a távoli oldal kinézetéhez.';
 $Definition['Make sure you click View Page'] = 'Kattints a <a href="%s">Oldal megtekintése</a> -re, hogy lásd hogyan fog a kategória oldalad kinézni a mentés után.';
 $Definition['Make sure you select at least one item before continuing.'] = 'Legalább egy elemet válassz ki, mielőtt folytatnád.';
 $Definition['Manage'] = 'Kezelés';
@@ -503,8 +475,6 @@ $Definition['Manage Routes'] = 'Utak kezelése';
 $Definition['Manage Spam'] = 'Spam kezelése';
 $Definition['Manage Themes'] = 'Témák kezelése';
 $Definition['Manage Users'] = 'Felhasználók kezelése';
-$Definition['Manage users'] = 'Felhasználók kezelése';
-$Definition['Manage your Plugins'] = 'Beépülő modulok kezelése';
 $Definition['Managing Categories'] = 'Kategóriák kezelése';
 $Definition['Manual'] = 'Kézikönyv';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Ha valamit úgy jelölsz, mint NEM spam, vissza fogja azt juttatni a fórumodba.';
@@ -518,7 +488,6 @@ $Definition['Media'] = 'Média';
 $Definition['Member'] = 'Tag';
 $Definition['Member roles'] = 'Ellenőrizd le az összes szerepkört, amit új/jóváhagyottt felhasználóhoz kell hozzárendelni.';
 $Definition['Message ID'] = 'Üzenetazonosító';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Az üzenetek bárhol megjeleníthetőek a fórumban. Ezzel a módszerrel értesíteni tudod a felhasználókat az új hírekről és eseményekről. Az üzenetek újraszervezését az üzenet lefelé illetve felfelé való mozgatásával érheted el. ';
 $Definition['Messages can appear anywhere in your application.'] = 'Az üzenetek bárhol megjeleníthetőek a fórumban. Ezzel a módszerrel értesíteni tudod a felhasználókat az új hírekről és eseményekről. Az üzenetek újraszervezését az üzenet lefelé illetve felfelé való mozgatásával érheted el. ';
 $Definition['Method'] = 'Eljárás';
 $Definition['minute(s)'] = 'perc';
@@ -529,7 +498,6 @@ $Definition['Moderators have permission to edit most content.'] = 'A moderátoro
 $Definition['Modern Layout'] = 'Modern elrendezés';
 $Definition['Modern non-table-based layout'] = 'Modern nem-táblázat-alapú elrendezés';
 $Definition['more than %s deep'] = 'több, mint %s mély';
-$Definition['more than %s levels deep'] = 'több, mint %s szint mély';
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'A legtöbb zsebet nem lenne szabad a vezérlőpulton megjeleníteni.';
 $Definition['Move discussions in this category to a replacement category.'] = 'Mozgasd át a kategórián belüli beszélgetéseket egy csere kategóriába.';
 $Definition['My Invitations'] = 'Saját meghívásaim';
@@ -553,7 +521,6 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['New users in the last day'] = 'Új felhasználók tegnapról';
 $Definition['New users in the last week'] = 'Új felhasználók a múlt hétről';
 $Definition['No Change'] = 'Nincs változás';
-$Definition['No costs yet.'] = 'Nincs még költség.';
 $Definition['No Items Selected'] = 'Nincs elem kijelölve';
 $Definition['None'] = 'Semmi';
 $Definition['No results for %s.'] = 'Nincs eredménye <b>%s</b>-nek.';
@@ -566,8 +533,6 @@ $Definition['Not Spam'] = 'Nem spam';
 $Definition['Number of blocked registrations'] = 'Zárolt regisztrációk száma';
 
 $Definition['On'] = 'Rajta';
-$Definition['One, two, three...'] = 'Egy, két, há...';
-$Definition['Only Allow Each User To Post'] = 'Minden felhasználó csak ennyi bejegyzést hozhat létre';
 $Definition['Only display on mobile browsers.'] = 'Csak mobil böngészőkön jelenjen meg.';
 $Definition['Operation By'] = 'által';
 $Definition['Organize'] = 'Rendezd';
@@ -582,13 +547,11 @@ $Definition['Outgoing Email Address'] = 'Kimenő email cím';
 
 $Definition['Page'] = 'Oldal';
 $Definition['page'] = 'oldal';
-$Definition['Panel Box'] = 'Panel doboz';
 $Definition['Password Options'] = 'Jelszó beállítása';
 $Definition['Pending'] = 'Függőben';
 $Definition['Permission'] = 'Jogosultság';
 $Definition['Permission.Category'] = 'Kategória';
 $Definition['Permissions'] = 'Jogosultságok';
-$Definition['Place nested categories in a comma-delimited list when they are'] = 'Helyezd a beáagyazott kategóriákat vesszővel elválasztott listába, amikor ';
 $Definition['Please choose an authenticator to configure.'] = 'Kérlek válassz egy hitelesítési módot';
 $Definition['Please Confirm'] = 'Kérlek hagyd jóva';
 $Definition['Plugin'] = 'Beépülő modul';
@@ -607,7 +570,6 @@ $Definition['Public Key'] = 'Nyílvános kulcs';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Gyorstalpaló Vanilla témák létrehozásához';
 
 $Definition['Ranks'] = 'Rangok';
-$Definition['Rate of refresh'] = 'Frissítési gyakoriság';
 $Definition['Re-Register API Key'] = 'Regisztráld újra az API kulcsot';
 $Definition['Reaction'] = 'Válasz';
 $Definition['Reaction Types'] = 'Válasz típusok';
@@ -659,15 +621,12 @@ $Definition['Run structure & data scripts'] = 'Adat és szerkezet szkriptek futt
 
 $Definition['Save Captured Definitions'] = 'Begyűjtött definíók ';
 $Definition['Saved'] = 'A változásokat elmentettük';
-$Definition['SaveLocalePack'] = 'Mentés';
-$Definition['Save Translations from a Locale Pack'] = 'Mentsd le a fordítást egy nyelvi csomagból';
 $Definition['Search by user or role.'] = 'Keress felhasználókat a megadott névvel, vagy adj megy egy szerepkört, hogy olyan felhasználókat találj, akik az adott szerepkörrel rendelkeznek.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Keress felhasználókat a megadott névvel, vagy adj megy egy szerepkört, hogy olyan felhasználókat találj, akik az adott szerepkörrel rendelkeznek.';
 $Definition['seconds'] = 'másodperc';
 $Definition['Security'] = 'Biztonság';
 $Definition['Select'] = 'Válassz';
 $Definition['Select a %s'] = 'Válassz egy %s-t';
-$Definition['Select the file to import'] = 'Válaszd ki a fájlt a feltöltéshez';
 $Definition['Select the import source'] = 'Válaszd ki az import forrását';
 $Definition['Select the location of the pocket.'] = 'Válaszd ki a zseb helyét.';
 $Definition['Send %s a Message'] = 'Üzenet küldése %s -nak/nek';
@@ -680,9 +639,7 @@ $Definition['Serialized column "%s" failed to be unserialized.'] = 'A "%s" szeri
 $Definition['Show all possible pocket locations.'] = 'Kapcsold be azt az opciót, hogy zsebek minden lehetséges helyét megmutassa. Ennek az opciónak a bekapcsolása csak azoknak a felhasználóknak fogja a zsebek helyét megmutatni, akik jogosultak rá.';
 $Definition['Show Pocket Locations'] = 'Zsebek helyeinek megmutatása';
 $Definition['SignedOut'] = 'Kijelentkeztél.';
-$Definition['Sign in'] = 'Bejelentkezés';
 $Definition['Sign In Url'] = 'Bejelentkezési Url';
-$Definition['Silver'] = 'Ezüst';
 $Definition['Site Description'] = 'Oldal leírás';
 $Definition['Site Name'] = 'Oldal neve';
 $Definition['SMTP Host'] = 'SMTP-gazdagép';
@@ -698,7 +655,6 @@ $Definition['Start Import'] = 'Import elindítása';
 $Definition['Start the first discussion.'] = 'Legyen az első, <a href="{/post/discussion,url}">aki elkezdi társalgást</a> most.';
 $Definition['Statistics'] = 'Statisztika';
 $Definition['Status'] = 'Állapot';
-$Definition['Stop Forum Spam Settings'] = 'Stop Forum Spam beállítások';
 $Definition['Styles'] = 'Stílusok';
 $Definition['Subject'] = 'Tárgy';
 $Definition['Subscriber'] = 'Előfizető';
@@ -711,7 +667,6 @@ $Definition['Temporary (302)'] = 'Ideiglenes (302)';
 $Definition['Test'] = 'Teszt';
 $Definition['Testing'] = 'Tesztelés';
 $Definition['Test Mode'] = 'Teszt üzemmód: A zseb csak zseb adminisztrátoroknak lesz megjelenítve.';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Teszt üzemmód: A zseb csak zseb adminisztrátoroknak lesz megjelenítve.';
 $Definition['Test URL'] = 'Teszt URL';
 $Definition['Text'] = 'Szöveg';
 $Definition['TextEnterEmails'] = 'Adj meg vesszővel elválasztott email címeket';
@@ -730,13 +685,10 @@ $Definition['The banner title appears on the top-left of every page.'] = 'A bann
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'A banner/fejléc az oldalad banner sávjában és a böngésződ címsorában fog megjelenni. 20 karakternál rövidebb kell, hogy legyen. Ha banner/fejléc logó van feltöltve, akkor a szöveg helyett a logót fogják látni a felhasználók az oldalakon. Ezenkívül egyes témák elrejthetik ezt a címsort.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Az alapszintű regisztrációs űrlapon</strong> az új felhasználóknak be kell másolniuk a képen megjelenített karaktereket (CAPTCHA) – ez a levélszemétküldők távol tartására szolgál. Ehhez regisztrálnod kell a <a href="http://recaptcha.net/">recaptcha.net</a> oldalon. A regisztráció INGYENES és egyszerű. Miután regisztráltál, térj vissza erre az oldalra, és add meg a következő beállításokat:';
 $Definition['The Basics'] = 'Az alapok';
-$Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'A színpad mögötti URL ami személyes adatokat oszt meg a Vanilla-val';
 $Definition['The client ID uniqely identifies the site.'] = 'A kliens ID egyedi módon azonosítja az oldalt. Generálhatsz egy új azonosítót az oldal alján található gombbal.';
 $Definition['The content you were looking for has been deleted.'] = 'A tartalom, amit kerestél törölve lett.';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'Az általad megadott felhasználónak nincs joga az adatbázis eléréséhez. Létrehoztad már az adatbázist? Ezt jelentette az adatbázis: <code>%s</code>';
 $Definition['The default role has not been configured.'] = 'Az alapértelmezett szerepkör nincs beállítva.';
-$Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'A Disqus modul segítségével a felhasználók bejelentkezhetnek a Disqus fiókjuk segítségével. <b>Az alkalmazásod regisztrálni kell a Disqus-nál, hogy ez a modul működni tudjon.</b>';
-$Definition['The following content has been flagged by users for moderator review.'] = 'A felhasználók moderátori felülvizsgálatot kértek az alábbi tartalomra.';
 $Definition['The following structure changes are required for your database.'] = 'A következő szerkezeti változások szükségesek az adatbázisodban.';
 $Definition['The homepage title is displayed on your home page.'] = 'A kezdőlap címe megjelenik a kezdőlapon. Válassz olyan címet, amit a keresőoldalakon is látni szeretnél.';
 $Definition['The homepage was saved successfully.'] = 'A honlap sikeresen mentve lett.';
@@ -788,28 +740,18 @@ $Definition['This is the administrative dashboard for your new community.'] = 'A
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Ez az első alkalom, hogy a meglátogattad a fórumot.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Ez a beállítás mutatja/rejti el a helyeket, ahova a zsebek mehetnek, de csak azoknak a felhasználóknak, akiknek joguk van zsebek hozzáadására, ileltve szerkesztésére. Próbáld megmutatni a helyeket, majd látogasd meg az oldalad.';
 $Definition['This page requires Javascript.'] = 'Az oldalhoz Javascript kell.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Ez a modul engedélyezi a felhasználóknak az OpenID-vel történő bejelentkezést. <b>Győződj meg, hogy a Beállításokra kattintasz, miután engedélyezed ezt a modult, hogy engedélyezd az OpenID bejelentkezést</b>.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Ez a modul engedélyezi a felhasználóknak a google fiókukkal történő bejelentkezést. <b>Győződj meg, hogy a Beállításokra kattintasz, miután engedélyezed ezt a modult, hogy engedélyezd a Google bejelentkezést</b>.';
-$Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'A modul fájlok feltöltését engedélyezi, illetve ezek csatolását beszélgetésekehez, illetve kommentekhez.';
 $Definition['This pocket is an ad.'] = 'Ez a zseb egy hirdetés.';
-$Definition['This show the plugin on only selected discussion pages'] = 'Ez csak kiválasztott oldalalkon jeleníti meg a modult';
 $Definition['This theme has additional options.'] = 'A téma további beállításokkal rendelkezik a %s oldalon.';
 $Definition['This theme has customizable text.'] = 'Ebben a témaban személyre szabható szöveg van.';
-$Definition['This will show the panel on every page.'] = 'Ez meg fogja a panelt jeleníteni minden oldalon.';
 $Definition['Thumbnails'] = 'Miniatűrök';
 $Definition['Titles'] = 'Címek';
 $Definition['To'] = 'Neki';
-$Definition['To embed your entire Vanilla community forum into your web site, copy and paste this script into the page where you would like the forum to appear.'] = 'A teljes Vanilla közösségi fórumod beágyazásához a weboldaladba, másold ezt a szkriptet abba az oldalba, ahol látni szeretnéd a fórumod.';
-$Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'A Vanilla közösségi fórumod beágyazásához egy távoli webalkalmazásba, használd a fórum beágyazó kódját vagy használd valamelyik fórum beágyazó modult az alábbiak közül.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'A Vanilla fórum beágyazásához a weboldaladba, használd az alábbi kódot.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'A visszaélések megakadályozása miatt némelyik segédprogram automatikusan elrejti a tartalmat és itt jeleníti meg, ameddig egy moderátor kézzel nem engedélyezi azt.';
-$Definition['To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>'] = 'A reCAPTCHA használatához szükséged van egy API kulcsra innen: <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>';
 $Definition['Try Again'] = 'Próbáld újra';
 $Definition['Turn OFF'] = 'Kapcsold KI';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect segítségével a felhasználók a Twitter fiókjukkal jelentkezhetnek be. <b>Regisztrálnod kell az alkalmazásod a Twitterrel, hogy használhasd ezt a modult.</b>';
 
-$Definition['Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.'] = 'Nem található PHP GD ezen a rendszeren. Vanilla-nak GD 2-es verzióra, vagy jobbra van szüksége.';
-$Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = 'Nem sikerült a beépülő modul inicializálása: a szükséges kapcsolódási könyvtárar nem találhatóak, vagy \'fsockopen\' kell, vagy \'curl\'.';
 $Definition['Unban'] = 'Tiltás visszavonása';
 $Definition['Uninvite'] = 'Meghívó visszavonása';
 $Definition['Universal Code'] = 'Általános kód';
@@ -820,7 +762,6 @@ $Definition['Use an SMTP server to send email'] = 'Használj SMTP szervert email
 $Definition['Use asterisks for wildcards'] = 'Helyettesítő karakterként használj csillagot, például: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Használj kategóriákat';
 $Definition['Use categories to organize discussions'] = 'Használj kategóriákat a beszélgetések rendszerezésére';
-$Definition['Use delta indexes'] = 'Használj delta indexeket (nagy oldalakhoz ajánlott)';
 $Definition['Use Facebook names for usernames.'] = 'Használj Facebook neveket felhasználói nevekhez.';
 $Definition['User'] = 'Felhasználó';
 $Definition['User Count'] = 'Felhasználók';
@@ -841,18 +782,12 @@ $Definition['UserWipe'] = 'Üres felhasználói tartalom';
 $Definition['UserWipeMessage'] = 'Töröld a felhasználót és cseréld le a felhasználó összes tartalmát egy üzenettel, miszerint a felhasználó törölve lett. Ez ad egy látható nyomot, hogy információ hiányzik.';
 $Definition['Use the content at this url as your homepage.'] = 'Válaszd ki az oldalt, amit az emberek fognak látni, amikor ide látogatnak: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Használd a WordPress modult, hogy beállítsd a Vanilla Hozzászólásokat a blogodon, vagy használd az univerzális kódot, hogy beállítsd a Vanilla Hozzászólásokat bármilyen más platformon.';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Használd az alábbi mezőket személyes profil adatok megadására. Ilyesmiket adhatsz meg, mint "Állapota", "Skype", or "Kedvenc dinoszaurusz". Legyél kreatív!';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Használd az alábbi mezőket személyes profil adatok megadására. Ilyesmiket adhatsz meg, mint "Állapota", "Skype", or "Kedvenc dinoszaurusz". Legyél kreatív!';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Használd a Vanilla-t az oldalad hozzászólási rendszereként';
 
 $Definition['Vanilla.Archive.Description'] = 'A bizonyos dátumnál idősebb beszélgetések automatikusan archiválhatók. Az archivált beszélgetések gyakorlatilag lezártnak tekintendők, nem lehet bennük új hozzászólást létrehozni.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Helyezd a beágyazott kategóriákat egy veszővel elválasztott listába, ha %1$s';
-$Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'Vanilla-t többféleképpen lehet beáagyazni az oldaladba. Kattints az alábbi fülekre, hogy többet megtudj.';
-$Definition['Vanilla Configuration'] = 'Vanilla Beállítások';
-$Definition['Vanilla Cookie Domain'] = 'Vanilla cookie-tartomány';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Forrás: %s';
 $Definition['Vanilla is installed!'] = 'Vanilla telepitve van!';
-$Definition['Vanilla Sphinx Help'] = 'Vanilla Sphinx Súgó';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statisztika jelenleg le van tiltva';
 $Definition['Verified!'] = 'Ellenőrizve!';
 $Definition['Version'] = 'verzió';
@@ -880,7 +815,6 @@ $Definition['We only accept urls that begin with http:// or https://'] = 'Csak o
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Megpróbáljuk a helyik mail szervert használni alapértelmezettként email küldéséhez. Ha másik SMTP mail szervert szeretnél használni, itt beállíthatod.';
 $Definition['What\'s the Buzz?'] = 'Mi a helyzet?';
 $Definition['Where is your Community Forum?'] = 'Hol van a közösségi fórumod?';
-$Definition['Where should the plugin be shown?'] = 'Hol jelennek meg a beépülő modulok?';
 $Definition['Who\'s Online Settings'] = 'Ki Van Online beállítások';
 $Definition['Why do you want to join?'] = 'Miért szeretnél csatlakozni?';
 $Definition['Within'] = 'Időtartamban';
@@ -898,7 +832,6 @@ $Definition['You can customize the HTML and CSS for this theme on the %s page.']
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Létrehozhatsz egy új fiókot, vagy megadhatod egy meglévő fiók hitelesítési adatait.';
 $Definition['You can make the categories page your homepage.'] = 'Beállíthatod a kategória oldalt a honlapodnak <a href="%s">az alábbi helyen</a>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Nem tilthatod le a %1$s modult, mert a %2$s modulnak szüksége van rá a működéshez.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Nem tilthatod le a OpenID modult, mert a GoogleSignIn modulnak szüksége van rá a működéshez.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'Nem szerkesztheted más tag miniatűrjét.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'A meghívőt nem tudod visszavonni, mert már elfogadták.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Nem törölheted az egyetlen megmaradt kategóriát, amiben lehet beszélgetéseket létrehozni.';

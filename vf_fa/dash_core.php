@@ -340,17 +340,12 @@ $Definition['Flood Control'] = 'مدیریت سیلاب!';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'اجبار به دسترسی به پیشخوان تنها از این نشانی <em>(توصیه نمی‌شود)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'اجبار به دسترسی به انجمن تنها از این نشانی';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'انجمن‌تان را وادار کنید از طریق Remote Url دیده شود.';
-$Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'برای گرفتن اطلاعات دربارهٔ چگونگی به کاراندازی نوار پیشرفت لحظه‌ای، پیوند <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a> را ببینید.';
 $Definition['Forum Settings'] = 'تنظیمات انجمن‌';
 $Definition['Frequency'] = 'فرکانس';
 $Definition['From'] = 'از';
 
 $Definition['Garden'] = 'بوستان';
-$Definition['Garden.Import.Description'] = 'از این برگه برای درون‌ریزی داده‌هایی که از یک انجمن‌ دیگر با برون‌ریز وانیلا، آماده کرده‌اید، استفاده کنید. داده‌های بیش‌تر را در <a href="%s">مستندات درون‌ریزی</a> ببینید.';
 $Definition['Garden.Import.InputInstructions'] = 'رایانه و گذرواژه‌ی مدیر را از داده‌هایی که درون‌ریزی می‌شود، وارد کنید.';
-$Definition['Garden.Import.Merge'] = 'ادغام کردن با این انجمن‌';
-$Definition['Garden.Import.Overwrite'] = 'بازنویسی روی این انجمن';
-$Definition['Garden.Import.Overwrite.Description'] = 'هشدار: همه‌ی داده‌های این انجمن‌ بازنویسی خواهند شد.';
 $Definition['Garden.StatisticsDisabled'] = 'شما به‌طور مشخص آمارگیر وانیلا را در پرونده‌ی پیکربندی‌تان از کار انداخته‌اید.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'به نظر می‌رسد که این انجمن‌ در یک محیط آزمایشی اجرا می‌شود یا این‌که از یک IP خصوصی بهره می‌برد. انجمن‌های در حال اجرا روی IPهای خصوصی، ردگیری نمی‌شوند.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'اگر اطمینان دارید که انجمن‌ شما روی اینترنت در دسترس است، می‌توانید آن را واردار کنید که آمارها را گزارش کند. اینجا:';
@@ -359,7 +354,6 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = 'برای حل این مشک�
 $Definition['Gave badge to users.'] = 'مدل به کاربران داده شده';
 $Definition['Generate'] = 'ساختن';
 $Definition['Generate Client ID and Secret'] = 'ساخت ClientID و Secret';
-$Definition['Generate sphinx.conf'] = 'ساخت sphinx.conf';
 $Definition['Get More Applications'] = 'گرفتن ابزار‌های بیش‌تر';
 $Definition['Get more information on creating custom routes'] = 'درباره‌ی ساختن routeهای شخصی بیش‌تر بدانید.';
 $Definition['Get More Plugins'] = 'گرفتن ابزارک‌های بیش‌تر';
@@ -367,10 +361,7 @@ $Definition['Get More Themes'] = 'گرفتن پوسته‌های بیش‌تر';
 $Definition['Getting Started'] = 'بیایید شروع کنیم';
 $Definition['Getting Started with Vanilla'] = ' آغاز کار با وانیلا';
 $Definition['give'] = 'دادن';
-$Definition['Give an Badge'] = 'یک مدال بدهید';
-$Definition['Give me a new account'] = 'یک شناسه‌ی تازه به من بده!';
 $Definition['Given Indexes'] = 'فهرست‌های داده‌شده';
-$Definition['Google Sign In Settings'] = 'تنظیمات Google Sign In';
 $Definition['Guest'] = 'مهمان (Guest)';
 $Definition['Guest roles'] = 'نقش‌هایی را که باید برای مهمان‌های انجمن‌ به کار روند، برگزینید.';
 
@@ -378,30 +369,16 @@ $Definition['Hash Algorithm'] = 'الگوریتم رمزگذاری';
 $Definition['Heads up!'] = 'به هوش!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'به هوش! این یک نقش ویژه است که امکان به‌کارگیری بخش‌ها را نمی‌دهد. برای همین، گزینه‌های پروانه به پروانه‌های «نمایش» محدود شده‌اند.';
 $Definition['Help &amp; Tutorials'] = 'کمک و آموزش‌ها';
-$Definition['Here\'s how to get started'] = 'اینجا چگونگی شروع را به شما نشان می‌دهد';
 $Definition['Here\'s how to get started:'] = 'راهنمای آغاز کار با وانیلا:';
 $Definition['Hidden for everything!'] = 'پنهان برای تمام‌چیزها!';
 $Definition['Hidden for mobile'] = 'پنهان برای تلفن‌همراه';
-$Definition['Hide  Fields'] = 'فیلد های پنهان';
 $Definition['Hide from the recent discussions page.'] = 'از برگهٔ جستارهای تازه پنهان کن.';
 $Definition['Hide Pocket Locations'] = 'مکان های مخفی پاکت ها';
-$Definition['Hide this category from the recent discussions page.'] = 'این دسته را در برگهٔ جستارهای تازه نشان نده';
-$Definition['Hi Pal!
-
-Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
-
-Follow the link below to log in.'] = 'سلام رفیق!
-
-انجمنی را که به‌تازگی ساخته‌ام،‌یک نگاهی بیانداز. جایی عالی برای ما است که با هم‌دیگر به صورت برخط، چت کنیم.
-
-برای ورود، پیوند زیر را دنبال کن. ';
 $Definition['Homepage'] = 'برگه‌ی خانه';
 $Definition['Homepage Title'] = 'عنوانبرگهٔ خانگی';
 $Definition['How to use themes'] = 'چگونگی بهره‌گیری از پوسته‌ها';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'اگر یک لوگو بارگذاری شود، جایگزین سرنویس سردر در برگه‌های انجمن خواهد شد.';
-$Definition['If your file is bigger than 20M then you must upload it to a public url.'] = 'اگر فایل شما بیشتر از ۲۰ مگابایت است شما باید آن را با یک آدرس عمومی آپلود کنید';
-$Definition['If your file is small then just upload it here.'] = 'اگر پروندهٔ شما کوچک است، پس همین‌}ا بارگذاری‌اش کنید.';
 $Definition['Import'] = 'درون‌ریزی';
 $Definition['Importing to Vanilla'] = 'درون‌ریزی به وانیلا';
 $Definition['Inbox Page'] = 'برگهٔ صندوق ورودی';
@@ -413,6 +390,11 @@ $Definition['Introducing Vanilla Reactions and Badges'] = 'آشنا شدن با 
 $Definition['Invalid category for deletion.'] = 'دستهٔ نامعتبر برای پاک‌سازی';
 $Definition['Invitation'] = 'فراخوانی';
 $Definition['Invitation Code'] = 'کد فراخوانی';
+$Definition['InvitationMessage'] = 'سلام رفیق!
+
+انجمنی را که به‌تازگی ساخته‌ام،‌یک نگاهی بیانداز. جایی عالی برای ما است که با هم‌دیگر به صورت برخط، چت کنیم.
+
+برای ورود، پیوند زیر را دنبال کن. ';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'هنگامی‌که از روش فراخوانه برای ثبت‌نام بهره می‌برید، کاربران پیوندی به نام <a href="%s" class="Popup">فراخوانه‌های من</a> را در برگه‌های رخ‌نمایشان خواهند داشت.';
 $Definition['Invitations per month'] = 'شمار فراخوانه‌ها در ماه';
 $Definition['Invitations will expire'] = 'تاریخ انقضای فراخوانه‌ها:';
@@ -420,22 +402,16 @@ $Definition['Invited by'] = 'فراخوانده از سوی:';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'گویا پایگاه داده‌ای که نام آن را وارد کرده‌اید، هنوز موجود نیست. آیا مطمئنید که آن را ساخته‌اید؟ شاید اشتباه تایپی دارید؟<br><br>گزارش پایگاه داده:<code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'توصیه می‌شود بیشینه‌ی شمار نویسه‌ها در یک دیدگاه را روی یک عدد معقول، پایین نگه دارید.';
 
-$Definition['JS Connect Settings'] = 'تنظیمات انصال JS';
-
 $Definition['Key Type'] = 'گونه‌ی کلید<br>Key Type';
 $Definition['Key Value'] = 'ارزش کلید<br>Key Value';
 $Definition['Kick-start your community and increase user engagement.'] = 'انجمن‌تان را راه‌بیاندازید و ارتباط کاربران با خودتان را افزایش دهید.';
 
 $Definition['Label this Revision'] = 'این بازبینی را برچسب بزنید';
-$Definition['Last time your forum communicated with the statistics server it received the following message:'] = 'آخرین باری که انجمن‌ شما با کارساز آمارگیر ارتباط گرفت، پیام زیر دریافت شد:';
 $Definition['Last Visit'] = 'آخرین بازدید';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'بیاموزید که چگونه حس و سیمای انجمن‌تان را زیرورو کنید: لوگویتان را بارگذاری کنید، برگهٔ خانه‌تان را مشخص کنید، یک پوسته برگزینید و آن را سفارشی کنید.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'یاد بگیرید چگونه از توانمندی‌های پایه‌ٔ انجمن خود استفاده کنید';
 $Definition['Level'] = 'مرحله';
 $Definition['Likes'] = 'لایک‌ها';
-$Definition['Limit the display of this plugin for mobile devices.'] = 'نمایش این افزونه برای دستگاه‌های تلفن همراه محدود شود.';
-$Definition['Limit the display of this plugin to "mobile only".'] = 'نمایش این افزونه به «تنها موبایل» محدود شود.';
-$Definition['Link my existing account'] = 'شناسه‌ی کاربری مرا لینک کن.';
 $Definition['Locale Key (Folder)'] = 'کلید محلی(پوشه)';
 $Definition['Locale Name'] = 'نام زبان';
 $Definition['Locales'] = 'زبان‌ها';
@@ -445,7 +421,6 @@ $Definition['LogoBrowse'] = 'اگر مایل به تغییر لوگوی سردر
 $Definition['LogoDescription'] = 'لوگوی سردر در بالای انجمن‌تان‌ به نمایش در می‌آید. برخی پوسته‌ها ممکن است که این لوگو را نمایش ندهند.';
 
 $Definition['Maintenance Mode'] = 'پیام انجمن:';
-$Definition['Make sure to use a forum theme that meshes well with the look and feel of the remote site.'] = 'مطمئن شوید که از پوسته‌ای استفاده می‌کنید که که با تارنمای remote شما هماهنگی مناسب را دارد.';
 $Definition['Make sure you click View Page'] = 'حتماً <a href="%s">نمایش دسته‌ها</a> را پس از اندوختن دسته فشار دهید تا ببینید که دسته‌هایتان چگونه نمایش داده می‌شوند.';
 $Definition['Make sure you select at least one item before continuing.'] = 'پیش از ادامه‌ی کار، اطمینان بدست آورید که دست‌کم یک مورد را گزینش کرده‌اید.';
 $Definition['Manage'] = 'مدیریت';
@@ -460,8 +435,6 @@ $Definition['Manage Routes'] = 'مدیریت Routes';
 $Definition['Manage Spam'] = 'مدیریت اسپم‌ها‌';
 $Definition['Manage Themes'] = 'مدیریت پوسته‌ها';
 $Definition['Manage Users'] = 'مدیریت کاربران';
-$Definition['Manage users'] = 'مدیریت کاربران';
-$Definition['Manage your Plugins'] = 'ابزارک‌هایتان را مدیریت کنید.';
 $Definition['Managing Categories'] = 'مدیریت دسته‌ها';
 $Definition['Manual'] = 'عادی';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'نشانه‌گذاری چیزی به عنوان «هرزنامه نیست»، آن را به انجمن‌ بر خواهد گرداند.';
@@ -471,7 +444,6 @@ $Definition['Media'] = 'رسانه';
 $Definition['Member'] = 'عضو (Member)';
 $Definition['Member roles'] = 'نقش‌هایی را که باید برای کاربران تازه یا تأیید شده به کار روند، برگزینید.';
 $Definition['Message ID'] = 'ID پیام';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'پیام‌ها می‌توانند در هر جایی از انجمن شما نمایش داده شوند و برای آگاه‌سازی کاربرانتان از خبرها و رویدادها مورد استفاده قرار گیرند. برای ساماندهی پیام‌هایتان در این برگه، آن‌ها را به بالا یا پایین بکشید.';
 $Definition['Messages can appear anywhere in your application.'] = 'پیام‌ها می‌توانند در هر جایی از انجمن شما نمایش داده شوند و برای آگاه‌سازی کاربرانتان از خبرها و رویدادها مورد استفاده قرار گیرند. برای ساماندهی پیام‌هایتان در این برگه، آن‌ها را به بالا یا پایین بکشید.';
 $Definition['Method'] = 'روش';
 $Definition['minute(s)'] = 'دقیقه';
@@ -481,7 +453,6 @@ $Definition['Moderator'] = 'ناظم (Moderator)';
 $Definition['Moderators have permission to edit most content.'] = 'مدیران قادر خواهند بود تا تمام پست ها را ویرایش کنند';
 $Definition['Modern Layout'] = 'طرح مدرن';
 $Definition['more than %s deep'] = 'فرورفتگی بیش‌تر از %s';
-$Definition['more than %s levels deep'] = 'بیشتر از %s مرحله عمیق شدند';
 $Definition['Move discussions in this category to a replacement category.'] = 'جابه‌جایی جستارهای این دسته به دسته‌ی جای‌گزین.';
 $Definition['My Invitations'] = 'فراخوانه‌های من';
 
@@ -503,7 +474,6 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['New users in the last day'] = 'کاربران تازه‌ی امروز';
 $Definition['New users in the last week'] = 'کاربران تازه در این هفته';
 $Definition['No Change'] = 'بدون تغییر';
-$Definition['No costs yet.'] = 'هیچ ارزشی تا کنون ندارد';
 $Definition['No Items Selected'] = 'هیچ موردی انتخاب نشده است';
 $Definition['None'] = 'هیچی!';
 $Definition['No results for %s.'] = 'نتیجه‌ای برای <b>%s</b> یافت نشد :(';
@@ -515,8 +485,6 @@ $Definition['Not Spam'] = 'اسپم نیست ';
 $Definition['Number of blocked registrations'] = 'شمار کاربران قفل شده';
 
 $Definition['On'] = 'در ساعت و تاریخ';
-$Definition['One, two, three...'] = 'یک،دو،سه،...';
-$Definition['Only Allow Each User To Post'] = 'هر کاربر چندتا بفرستد؟';
 $Definition['Only display on mobile browsers.'] = 'فقط بر روی دستگاه های موبایل نمایش داده شود';
 $Definition['Operation By'] = 'از سوی';
 $Definition['Organize'] = 'سازمان دهی';
@@ -531,13 +499,11 @@ $Definition['Outgoing Email Address'] = 'آدرس رایانامه نامعتب�
 
 $Definition['Page'] = 'نمایش پیام در';
 $Definition['page'] = 'برگه';
-$Definition['Panel Box'] = 'قاب';
 $Definition['Password Options'] = 'گزینه‌های گذرواژه';
 $Definition['Pending'] = 'نامشخص';
 $Definition['Permission'] = 'اجازهٔ دسترسی';
 $Definition['Permission.Category'] = 'دسته';
 $Definition['Permissions'] = 'سطح دسترسی‌ها';
-$Definition['Place nested categories in a comma-delimited list when they are'] = 'زیردسته‌ها را با ویرگول جدا کن، هنگامی که آن‌ها';
 $Definition['Please choose an authenticator to configure.'] = 'لطفاً یک اعتبارسنج را برای پیکربندی انتخاب کنید.';
 $Definition['Please Confirm'] = 'لطفاً تأیید کنید.';
 $Definition['Plugin'] = 'ابزارک';
@@ -554,7 +520,6 @@ $Definition['Public Key'] = 'کلید همگانی<br>Public Key';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'راهنمای سریع پوسته‌نویسی برای وانیلا';
 
 $Definition['Ranks'] = 'رنک';
-$Definition['Rate of refresh'] = 'امتیاز دوباره‌سازی';
 $Definition['Re-Register API Key'] = 'ثبت دوباره‌ی API Key';
 $Definition['Reaction'] = 'واکنش';
 $Definition['Reaction Types'] = 'انواع واکنش';
@@ -600,14 +565,12 @@ $Definition['Routes can be used to redirect users to various parts of your site 
 $Definition['Run structure & data scripts'] = 'اجرای اسکریپت‌های داده‌ها و ساختار';
 
 $Definition['Saved'] = 'تغییرات شما اندوخته شد.';
-$Definition['SaveLocalePack'] = 'اندوختن';
 $Definition['Search by user or role.'] = '<b>شیوه‌های جست‌وجو</b>:<br> 1. جست‌وجوی کاربر از روی «نام»<br>2. جست‌وجوی کاربر از روی رایانامه‌اش<br>3. جست‌وجوی کاربر از روی آخرین IP ثبت شده برای وی<br>4. جستجوی کاربران از روی «نقش»؛ نام یک «نقش» را وارد کنید تا همه‌ی کاربرانی که آن نقش را دارند، بیابید.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = '<b>شیوه‌های جست‌وجو</b>:<br> 1. جست‌وجوی کاربر از روی «نام»<br>2. جست‌وجوی کاربر از روی رایانامه‌اش<br>3. جست‌وجوی کاربر از روی آخرین IP ثبت شده برای وی<br>4. جستجوی کاربران از روی «نقش»؛ نام یک «نقش» را وارد کنید تا همه‌ی کاربرانی که آن نقش را دارند، بیابید.';
 $Definition['seconds'] = 'ثانیه';
 $Definition['Security'] = 'امنیت';
 $Definition['Select'] = 'گزینش';
 $Definition['Select a %s'] = 'انتخاب یک %s';
-$Definition['Select the file to import'] = 'فایل را انتخاب کرده تا وارد شود';
 $Definition['Select the import source'] = 'پرونده‌ای را که می‌خواهید درون‌ریزی کنید، گزینش کنید.';
 $Definition['Select the location of the pocket.'] = 'انتخاب مکان پاکت';
 $Definition['Send %s a Message'] = 'برای %s پیامی بفرستید.';
@@ -618,9 +581,7 @@ $Definition['Send users a welcome email.'] = 'به کاربران یک ';
 $Definition['Sent To'] = 'فرستادن به';
 $Definition['Show Pocket Locations'] = 'نمایش محل قرارگیری پاکت ها';
 $Definition['SignedOut'] = 'شما خارج شده‌اید';
-$Definition['Sign in'] = 'ورود';
 $Definition['Sign In Url'] = 'نشانی اینترنتی درون آمدن';
-$Definition['Silver'] = 'نقره‌ای';
 $Definition['Site Description'] = 'توصیف تارنما';
 $Definition['Site Name'] = 'نام تارنما';
 $Definition['SMTP Host'] = 'میزبان SMTP';
@@ -635,7 +596,6 @@ $Definition['Start Discussions'] = 'ساختن جستارها';
 $Definition['Start Import'] = 'آغاز درون‌ریزی';
 $Definition['Statistics'] = 'آمارگیری';
 $Definition['Status'] = 'وضعیت';
-$Definition['Stop Forum Spam Settings'] = 'متوقف کردن تنظیمات اعمال شده برای هرزنامه‌ها';
 $Definition['Subject'] = 'عنوان';
 $Definition['Subscriber'] = 'مشترک';
 $Definition['Success'] = 'موفقیت';
@@ -665,7 +625,6 @@ $Definition['The Basics'] = 'پایه‌ها';
 $Definition['The content you were looking for has been deleted.'] = 'درون‌مایه‌ای که در پی آن بودید، پاک شده است.';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'نام کاربری‌ای که وارد کردید، پروانه‌ی دسترسی به پایگاه داده را ندارد. آیا هیچ پایگاه داده‌ای ساخته‌اید؟<br><br>گزارش پایگاه داده:‌';
 $Definition['The default role has not been configured.'] = 'نقش پیش‌فرض، پیکربندی نشده است.';
-$Definition['The following content has been flagged by users for moderator review.'] = 'کاربر مورد نظر برای بازرسی توسط مدیران علامت گذاری شد';
 $Definition['The following structure changes are required for your database.'] = 'تغییرات ساختاری زیر برای پایگاه داده‌ی شما نیاز است.';
 $Definition['The homepage was saved successfully.'] = 'برگه‌ی خانه‌ی شما باموفقیت اندوخته شد.';
 $Definition['The import file does not contain any data.'] = 'پرونده‌ی درون‌ریز هیچ داده‌ای را در بر ندارد.';
@@ -710,25 +669,16 @@ $Definition['This forum is currently set to invitation only mode.'] = 'عضوی�
 $Definition['This is a parent category that does not allow discussions.'] = 'این یک دسته مادر است و نمی توان جستاری در آن ساخت';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'این نخستین باری که شما انجمن‌های گفت‌وگو را مشاهده می‌کنید.';
 $Definition['This page requires Javascript.'] = 'این برگه Javascript می‌خواهد.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'این ابزارک به کاربران امکان می‌دهد که با OpenID وارد انجمن شوند. <b>مطمئن شوید که بعد از به‌کارگیری این ابزارک، دکمه‌ی تنظیمات را برای به‌کاراندازی ورود با OpenID فشرده‌اید</b>!';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'این ابزارک به کاربران امکان می‌دهد که با شناسه‌های گوگل‌شان وارد انجمن شوند. <b>مطمئن شوید که بعد از به‌کارگیری این ابزارک، دکمه‌ی تنظیمات را برای به‌کاراندازی ورود با شناسه‌ی Google [در برگه‌ی ورود] فشرده‌اید</b>!';
-$Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'این ابزارک بارگذاری پرونده‌ها و پیوست‌شان به جستارها را به کار می‌اندازد.';
-$Definition['This show the plugin on only selected discussion pages'] = 'این گزینه افزونه را تنها در مباحث انتخاب شده نمایش می دهد';
 $Definition['This theme has additional options.'] = 'این پوسته دارای امکانات اضافی در برگه‌ی %s است.';
 $Definition['This theme has customizable text.'] = 'این پوسته دارای متنی است که می‌توانید آن را شخصی‌سازی کنید.';
-$Definition['This will show the panel on every page.'] = ' نمایش پنل روی همه برگه‌ها';
 $Definition['Thumbnails'] = 'تصاویر بندانگشتی';
 $Definition['Titles'] = 'عنواین';
 $Definition['To'] = 'به';
-$Definition['To embed your entire Vanilla community forum into your web site, copy and paste this script into the page where you would like the forum to appear.'] = 'برای توکاری همه‌ی انجمن‌ وانیلایتان در درون تارنمایتان،‌این اسکریپت را در همان برگه‌ای که می‌خواهید انجمن‌ در آن به نمایش درآید، بریزید.';
-$Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'برای جاسازی انجمن وانیلایتان در یک نرم‌افزار remote web، از کد جاسازی انجمن یا یکی از ابزارک‌های زیر استفاده کنید. ';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'برای جاسازی انجمن وانیلایتان در تارنمای‌تان از کد زیر استفاده کنید.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'برای پرهیز از درون‌مایهٔ جفنگ، سامانه به طور خودکار آن درون‌مایه را پنهان و در اینجا لیست می‌کند تا زمانی‌که به طور دستی از سوی یک ناظم تأیید شود.';
-$Definition['To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>'] = 'برای استفاده از reCAPTCHA شما باید یک کلید API از <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a> تهیه کنید.';
 $Definition['Try Again'] = 'دوباره تلاش کن!';
 $Definition['Turn OFF'] = 'خاموش‌کردن';
 
-$Definition['Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.'] = 'روی این سامانه PHP GD یافت نشد. وانیلا به نسخهٔ ‌۲ یا بالاتر GD نیاز دارد.';
 $Definition['Unban'] = 'آزادکردن';
 $Definition['Uninvite'] = 'برگرداندن فراخوانه';
 $Definition['Universal Code'] = 'کد جهانی';
@@ -760,12 +710,8 @@ $Definition['Use Vanilla as a commenting system in your site'] = 'از وانی�
 
 $Definition['Vanilla.Archive.Description'] = 'شما می‌توانید جستارهای انجمن‌ را که کهنه‌تر از یک تاریخ مشخص هستند، بایگانی کنید. جستارهای بایگانی شده خودکار بسته می‌شوند.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'زیردسته‌ها را با ویرگول جدا کن، هتگامی که آن‌ها %1$s دارند.';
-$Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'وانیلا می‌تواند د در درون تارنمای شما به شیوه‌های گوناگونی توکار شود. بر روی سربرگ‌های زیر بفشارید تا بیش‌تر بدانید.';
-$Definition['Vanilla Configuration'] = 'تنظیمات وانیلا';
-$Definition['Vanilla Cookie Domain'] = 'پیکربندی وانیلا';
 $Definition['Vanilla Export: %s, Source: %s'] = 'برون‌ریز وانیلا %s، پرونده: %s';
 $Definition['Vanilla is installed!'] = 'وانیلا نصب شد!';
-$Definition['Vanilla Sphinx Help'] = 'کمک وانیلا';
 $Definition['Vanilla Statistics are currently disabled'] = 'آمارگیر وانیلا هم‌اکنون از کار افتاد.';
 $Definition['Verified!'] = 'تأیید شد!';
 $Definition['Version'] = 'نسخه';
@@ -790,11 +736,9 @@ $Definition['We only accept urls that begin with http:// or https://'] = 'ما �
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = '<br>ما تلاش خواهیم کرد که به صورت پیش‌فرض local mail server را برای فرستادن رایانامه به کار بگیریم. اگر می‌خواهید که از یک SMTP mail server جداگانه استفاده کنید، می‌توانید با گذاشتن تیک زیر آن را پیکربندی کنید.';
 $Definition['What\'s the Buzz?'] = 'آمار اخیر انجمن‌';
 $Definition['Where is your Community Forum?'] = 'انجمن‌تان کجا است؟';
-$Definition['Where should the plugin be shown?'] = 'افزونه باید کجا نمایان شود';
 $Definition['Who\'s Online Settings'] = 'تنظیمات چه کسی حاضر است';
 $Definition['Why do you want to join?'] = 'انگیزه‌ی شما برای عضویت؟';
 $Definition['Within'] = 'در مدت';
-$Definition['Wordpress'] = 'وردپرس';
 $Definition['WordPress Plugin'] = 'ابزارک WordPress';
 
 $Definition['Yes, the following information can be changed later.'] = 'داده‌های زیر بعدها نیز قابل تغییر است.';
@@ -808,7 +752,6 @@ $Definition['You can customize the HTML and CSS for this theme on the %s page.']
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'شما می‌توانید یک شناسه‌ی کاربری تازه بسازید یا اگر از پیش یک شناسه‌ی کاربری دارید، داده‌های درست دسترسی به آن را وارد کنید.';
 $Definition['You can make the categories page your homepage.'] = 'شما می‌توانید در <a href="%s">اینجا</a>، برگه‌ی دسته‌هایتان را به‌عنوان برگه‌ی خانه‌تان قرار دهید.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'شما نمی‌توانید ابزارک %1$s را از کار بیاندازید، زیرا ابزارک %2$s به عنوان یک تابع به آن نیاز دارد.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'شما تمی توانید پلاگین OpenID  را غیرفعال کنید زیرا پلاگین GoogleSignIn به آن نیاز دارد.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'شما نمی توانید چهرک کاربر دیگری را ویرایش کنید.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'شما نمی‌توانید رایانامه‌ای را که پذیرفته شده است، پاک کنید.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'شما نمی‌توانید تنها دسته‌ی موجودی که جستارها را در بر می‌گیرد، پاک کنید';

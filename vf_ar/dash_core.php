@@ -160,8 +160,6 @@ $Definition['give'] = 'أعطي';
 
 $Definition['Hash Algorithm'] = 'خوارزمية البعثرة Hash Algorithm';
 $Definition['Hide from the recent discussions page.'] = 'إخفاء من صفحة المواضيع الجديدة.';
-$Definition['Hide this category from the recent discussions page.'] = 'إخفاء هذ القسم من صفحة المواضيع الجديدة.';
-$Definition['Html'] = 'لغة HTML';
 
 $Definition['Level'] = 'المستوى';
 
@@ -170,7 +168,6 @@ $Definition['Message ID'] = 'ترقيم الرسالة';
 $Definition['minute(s)'] = 'دقائق';
 $Definition['Mixed Layout'] = 'تخطيط مختلط';
 
-$Definition['One, two, three...'] = 'واحد، إثنين، ثلاث...';
 $Definition['Outgoing Email'] = 'البريد الصادر';
 $Definition['Outgoing Email Address'] = 'عنوان البريد الصادر';
 
@@ -206,7 +203,6 @@ $Definition['Start Discussions'] = 'كتابة مواضيع';
 $Definition['Subject'] = 'العنوان';
 
 $Definition['take away'] = 'خذ من';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'شكرا لك!';
 $Definition['The specified url code is already in use by another category.'] = 'الرابط المطلوب مستخدم من قبل قسم آخر.';
 $Definition['This connection is in test-mode.'] = 'هذا الإتصال في حالة الإختبار';

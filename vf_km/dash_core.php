@@ -37,4 +37,3 @@ $Definition['Operation By'] = 'ដោយ';
 $Definition['Permission.Category'] = 'ចំណាត់​ក្រុម';
 
 $Definition['Saved'] = 'បន្លាស់​ប្ដូរ​របស់​អ្នក​ត្រូវ​បាន​រក្សា​ទុក។';
-$Definition['SaveLocalePack'] = 'រក្សា​ទុក';

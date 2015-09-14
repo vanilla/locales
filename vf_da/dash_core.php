@@ -211,11 +211,8 @@ $Definition['First Visit'] = 'F¯rste Bes¯g';
 $Definition['Forum Settings'] = 'Forum Indstillinger';
 $Definition['From'] = 'Fra';
 
-$Definition['Garden.Import.Description'] = 'Brug denne side til at importere data fra et andet forum som var eksporterede via Vanilla\'s eksporter. For mere information <a href="%s">se vores importere dokumentation</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Indtast emailen og kodeord for admin brugeren fra dataen som bliver importeret.';
-$Definition['Garden.Import.Overwrite.Description'] = 'Advarsel: Alt data i dette forum vil blive overskrevet.';
 $Definition['Generate'] = 'Generer';
-$Definition['Google Sign In Settings'] = 'Google Sign In Indstillinger';
 $Definition['Guest'] = 'GÊst';
 
 $Definition['Help &amp; Tutorials'] = 'Hjælp & Vejledninger';
@@ -274,7 +271,6 @@ $Definition['New users in the last day'] = 'Nye brugere pÂ den sidste dag';
 $Definition['New users in the last week'] = 'Nye brugere i den forrige uge';
 
 $Definition['On'] = 'PÂ';
-$Definition['Only Allow Each User To Post'] = 'Giv kun hver bruger adgang';
 $Definition['Operation By'] = 'Af';
 $Definition['Organize Categories'] = 'Organiser kategorierne';
 $Definition['Original Version'] = 'Original version';
@@ -312,12 +308,10 @@ $Definition['Routes'] = 'Ruter';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Ruter kan blive brugt til at f¯re brugere hen til forskellige steder pÂ siden.';
 
 $Definition['Saved'] = 'Dine Êndringer er gemt.';
-$Definition['SaveLocalePack'] = 'Gem';
 $Definition['seconds'] = 'sekunder';
 $Definition['Security'] = 'Sikkerhed';
 $Definition['Select'] = 'Vælg';
 $Definition['Select a %s'] = 'Vælg en %s';
-$Definition['Select the file to import'] = 'VÊlg en fil at importere';
 $Definition['Send %s a Message'] = 'Send %s en Besked';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Send en bekræftelses email når folk stiller et spørgsmål eller starter en diskussion over email.';
 $Definition['Send Again'] = 'Send igen';
@@ -325,9 +319,7 @@ $Definition['Send Invitations!'] = 'Send invitationer!';
 $Definition['Send users a welcome email.'] = 'Sender brugerne en velkomst email.';
 $Definition['Sent To'] = 'Sendt til';
 $Definition['SignedOut'] = 'Du er logget ud.';
-$Definition['Sign in'] = 'Log ind';
 $Definition['Sign In Url'] = 'Log ind url';
-$Definition['Silver'] = 'Sølv';
 $Definition['Site Description'] = 'Side beskrivelse';
 $Definition['Site Name'] = 'Side navn';
 $Definition['SMTP Host'] = 'SMTP udbyder';
@@ -372,6 +364,5 @@ $Definition['Within'] = 'Inden';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Hvis du  nogensinde er lÂst ude  af dit forum, kan du altid  logge ind med din oprindelige  Vanilla e-mail og adgangskode  pÂ <a href="%1$s">%1$s</a>';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Du kan ikke  deaktivere %1$s plugin fordi %2$s plugin er n¯dvÊndigt for at virke.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Du kan ikke deaktivere OpenID plugin fordi Google Log ind plugin krÊver det for at fungere.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'Du kan ikke ændre andre medlemmers profilbilleder.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Din  ans¯gning vil blive gennemgÂet  af en administrator. Du vil fÂ besked via email, hvis din ans¯gning er godkendt.';

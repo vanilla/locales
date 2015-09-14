@@ -354,7 +354,6 @@ $Definition['Flood Control'] = 'Spamová kontrola';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Vynúti ovládací panel aby bol sprístupnený len cez tento odkaz <em>(neodporúčané)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Vynúti ovládací panel aby bol sprístupnený cez tento odkaz ';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Vynúti tvoje fórum aby mohlo byť zobrazené cez Remote Url';
-$Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'Pre informácie ako zapnúť realtime progress bars, navštív <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>';
 $Definition['Forum Settings'] = 'Nastavenia Fóra';
 $Definition['Frequency'] = 'Frekvencia';
 $Definition['From'] = 'Od';

@@ -50,7 +50,6 @@ $Definition['Manage Roles & Permissions'] = 'Behandle roller og rettigheter';
 $Definition['Manage Themes'] = 'Behandle temaer';
 $Definition['Manage Users'] = 'Behandle brukere';
 $Definition['Member'] = 'Medlem';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Meldinger kan vises hvor som helst på siden din, og kan brukes for å informere brukere om nyheter og eventer. Denne siden brukes for å organisere dine beskjeder ved å dra de opp eller ned.';
 $Definition['Messages can appear anywhere in your application.'] = 'Meldinger kan vises hvor som helst på siden din, og kan brukes for å informere brukere om nyheter og eventer. Denne siden brukes for å organisere dine beskjeder ved å dra de opp eller ned.';
 $Definition['My Invitations'] = 'Mine invitasjoner';
 
@@ -80,13 +79,11 @@ $Definition['Roles & Permissions'] = 'Roller og rettigheter';
 $Definition['Roles determine user\'s permissions.'] = 'Hver eneste bruker må få minst én rolle. Roller brukes for å bestemme hva brukere har lov til å gjøre.';
 
 $Definition['Saved'] = 'Dine endringer har blitt lagret';
-$Definition['SaveLocalePack'] = 'Lagre';
 $Definition['Send %s a Message'] = 'Send %s en melding';
 $Definition['Send Again'] = 'Send på nytt';
 $Definition['Sent To'] = 'Send til';
 $Definition['Subject'] = 'Emne';
 
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['The banner logo appears at the top of your forum.'] = 'Banner-logo vises øverst på toppen av forumet ditt.';
 $Definition['The invitation was removed successfully.'] = 'Invitasjonen ble fjernet!';
 $Definition['The invitation was sent successfully.'] = 'Invitasjonen ble sendt!';
@@ -98,7 +95,6 @@ $Definition['To'] = 'Til';
 $Definition['Uninvite'] = 'Annullér invitasjon';
 $Definition['User Count'] = 'Brukere';
 $Definition['Users'] = 'Brukere';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Bruk disse feltene til å lage egendefinert profilinformasjon. Du kan oppgi ting som "Sivilstatus", "Skype", eller "Yndlingsdinosaur". Vær kreativ!';
 
 $Definition['View'] = 'Se';
 

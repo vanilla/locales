@@ -126,7 +126,6 @@ $Definition['Moderator'] = 'Moderátor';
 
 $Definition['Notes'] = 'Poznámky';
 
-$Definition['Only Allow Each User To Post'] = 'Povolit každému uživateli odeslat jen';
 $Definition['Operation By'] = 'Podle';
 $Definition['Or Spamblock For'] = 'Jinak ho zablokuj na';
 
@@ -143,10 +142,8 @@ $Definition['Reveal Password'] = 'Odhalit heslo';
 $Definition['Roles & Permissions'] = 'Role & Oprávnění';
 
 $Definition['Saved'] = 'Provedené změny byly uloženy.';
-$Definition['SaveLocalePack'] = 'Uložit';
 $Definition['seconds'] = 'sekundy';
 $Definition['Send %s a Message'] = 'Poslat %s zprávu';
-$Definition['Sign in'] = 'Přihlásit se';
 $Definition['Site Description'] = 'Popis stránky';
 
 $Definition['The banner logo appears at the top of your forum.'] = 'Logo záhlaví se zobrazuje v hlavičce vašeho fóra. ';
@@ -160,7 +157,6 @@ $Definition['User'] = 'Uživatel';
 $Definition['User Count'] = 'Uživatelé';
 $Definition['UserKeep'] = 'Ponechat obsah uživatele';
 $Definition['Users'] = 'Uživatelé';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Zde můžeš zadat volitelné informace jako například tvůj Skype, oblíbené filmy nebo třeba oblíbeného dinosaura.';
 
 $Definition['Within'] = 'Během';
 

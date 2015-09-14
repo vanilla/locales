@@ -209,26 +209,20 @@ $Definition['Forum Settings'] = 'Impostazioni Forum';
 $Definition['Frequency'] = 'Frequenza';
 $Definition['From'] = 'Da';
 
-$Definition['Garden.Import.Description'] = 'Usa questa pagina per importare dati provenienti da un altro forum esportati con il Vanilla exporter. Per maggiori informazioni <a href="%s">visualizza i nostri documenti relativi all\'importazione</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Inserisci email e password dell\'admin dei dati importati.';
-$Definition['Garden.Import.Overwrite'] = 'Sovrascrivi questo forum.';
-$Definition['Garden.Import.Overwrite.Description'] = 'Attenzione: Tutti i dati di questo forum verranno sovrascritti.';
 $Definition['Generate'] = 'Genera';
 $Definition['Generate Client ID and Secret'] = 'Genera ID Client e Chiave Segreta';
-$Definition['Generate sphinx.conf'] = 'Genera sphinx.conf';
 $Definition['Get More Applications'] = 'Scarica altre Applicazioni';
 $Definition['Get more information on creating custom routes'] = 'Ottieni maggiori informazioni sulla creazione di percorsi.';
 $Definition['Get More Plugins'] = 'Scarica altri Plugin';
 $Definition['Get More Themes'] = 'Scarica altri Temi';
 $Definition['give'] = 'dare';
-$Definition['Google Sign In Settings'] = 'Impostazioni Login Google';
 $Definition['Guest'] = 'Visitatore';
 
 $Definition['Hash Algorithm'] = 'Algoritmo Hash';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Attenzione, questo è un ruolo speciale, limitato alla sola consultazione.';
 $Definition['Here\'s how to get started:'] = 'Ecco come cominciare:';
 $Definition['Hide from the recent discussions page.'] = 'Nascondi dalla pagina delle discussioni recenti';
-$Definition['Hide this category from the recent discussions page.'] = 'Nascondi questa categoria dalla pagina delle discussioni recenti.';
 $Definition['Homepage Title'] = 'Homepage Titolo';
 
 $Definition['Import'] = 'Importa';
@@ -263,12 +257,10 @@ $Definition['Manage Routes'] = 'Gestisci Percorsi';
 $Definition['Manage Spam'] = 'Gestisci Spam';
 $Definition['Manage Themes'] = 'Gestisci Temi';
 $Definition['Manage Users'] = 'Gestione Utenti';
-$Definition['Manage your Plugins'] = 'Gestisci i tuoi Plugin';
 $Definition['Manual'] = 'Manuale';
 $Definition['Max Comment Length'] = 'Lunghezza massima Commenti';
 $Definition['Member'] = 'Utente';
 $Definition['Message ID'] = 'ID Messaggio';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Gli avvisi compariranno in tutte le pagine del tuo forum, per questo sono molto utili per avvisare i tuoi utenti di novità nel forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Gli Avvisi possono apparire ovunque nella tua applicazione, e possono essere usati per informare gli utenti di news ed eventi. Usa guesta pagina per riorganizzare i tuoi messaggi, trascinandoli su o giu.';
 $Definition['Method'] = 'Metodo';
 $Definition['minute(s)'] = 'minuto(i)';
@@ -293,8 +285,6 @@ $Definition['New users in the last week'] = 'Nuovi iscritti la scorsa settimana'
 $Definition['None'] = 'Nessuno';
 
 $Definition['On'] = 'il';
-$Definition['One, two, three...'] = 'Uno, due, tre...';
-$Definition['Only Allow Each User To Post'] = 'Permetti agli utenti di inserire';
 $Definition['Only display on mobile browsers.'] = 'Mostra solo su browser mobile';
 $Definition['Operation By'] = 'di';
 $Definition['Or Spamblock For'] = 'o Spamblock per';
@@ -346,12 +336,10 @@ $Definition['Route Expression'] = 'Espressione Percorso';
 $Definition['Routes'] = 'Percorsi';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'I percorsi possono essere usati per reindirizzare gli utenti verso varie parti del sito a seconda dell\' url.';
 
-$Definition['SaveLocalePack'] = 'Salva';
 $Definition['Search by user or role.'] = 'Cerca utenti per nome o visualizzali tutti in base al ruolo.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Cerca utenti per nome o visualizzali tutti in base al ruolo.';
 $Definition['seconds'] = 'secondi';
 $Definition['Security'] = 'Sicurezza';
-$Definition['Select the file to import'] = 'Seleziona il file da importare';
 $Definition['Send %s a Message'] = 'Invia un messaggio a %s';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Invia una email di conferma quando le persone fanno una domanda iniziano una discussione tramite e-mail.';
 $Definition['Send Again'] = 'Re-Invia';
@@ -365,12 +353,10 @@ $Definition['Subject'] = 'Soggetto';
 
 $Definition['take away'] = 'togliere';
 $Definition['Temporary (302)'] = 'Temporaneo (302)';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = 'Grazie!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'L\'Autenticatore %s non possiede opzioni di configurazione standard.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'L\'addon non puo\' essere abilitato perche\' genera un errore fatale: <pre>%s</pre>';
 $Definition['The banner logo appears at the top of your forum.'] = 'Il banner apparirà nella parte superiore del forum';
-$Definition['The following content has been flagged by users for moderator review.'] = 'I seguenti contenuti sono stati segnalati dagli utenti';
 $Definition['The invitation was removed successfully.'] = 'L\'invito è stato rimosso correttamente';
 $Definition['The invitation was sent successfully.'] = 'L\'invito è stato inviato correttamente';
 $Definition['ThemeHelp'] = 'Guida ai Temi';
@@ -381,8 +367,6 @@ $Definition['There are currently no applicants.'] = 'Al momento non sono present
 $Definition['There are no items awaiting moderation at this time.'] = 'Al momento non vi sono contenuti in attesa di moderazione.';
 $Definition['The specified url code is already in use by another category.'] = 'Il codice url specificato è già in uso da un\'altra categoria.';
 $Definition['This connection is in test-mode.'] = 'Questa connessione è in modalità di test.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Questo plugin permette agli utenti di accedere con OpenID. <b>Assicurati di gestire il plugin dalle Impostazioni dopo averlo attivato, per abilitare il Login con OpenID</b>.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Questo plugin permette agli utenti di accedere con il proprio account Google. <b>Assicurati di gestire il plugin dalle Impostazioni dopo averlo attivato, per abilitare il Login con Google</b>.';
 $Definition['Titles'] = 'Titoli';
 $Definition['To'] = 'A';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect permette agli utenti di accedere con il proprio account Twitter. <b>Affinche\' il plugin funzioni, devi registrare la tua applicazione su Twitter.</b>';
@@ -414,7 +398,6 @@ $Definition['Within'] = 'Ogni';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Se ti capita di rimanere fuori dal tuo forum, puoi sempre accedere utilizzando email e password Vanilla originali su <a href="%1$s">%1$s</a>';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Non puoi disabilitare il plugin %1$s poiche\' il plugin %2$s  lo richiede per funzionare correttamente.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Non puoi disabilitare il plugin OpenID perche\' il plugin GoogleSignIn lo richiede per funzionare correttamente.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Non puoi rimuovere un invito accettato.';
 $Definition['You have %s invitations left for this month.'] = 'Hai ancora %s inviti per questo mese';
 $Definition['You must be authenticated in order to use this form.'] = 'Attenzione - E\' necessario essere autenticati per poter utilizzare la form utilizzata.';

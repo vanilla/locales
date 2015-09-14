@@ -82,11 +82,8 @@ $Definition['Facebook Settings'] = 'Ustawienia Facebooka';
 $Definition['First Visit'] = 'Pierwsza wizyta';
 $Definition['Forum Settings'] = 'Ustawienia forum';
 
-$Definition['Garden.Import.Description'] = 'Użyj tej strony aby zaimportować dane z innego forum, które było wyeksportowane przez eksporter Vanilli. Więcej informacji  na temat importu znajdziesz na naszej <a href="%s">stronie</a>.';
 $Definition['Garden.Import.InputInstructions'] = 'Wprowadź adres e-mail i hasło admina ze strony, z której dane chcesz zaimportować.';
-$Definition['Garden.Import.Overwrite.Description'] = 'Ostrzeżenie: Wszystkie dane z tego forum zostaną nadpisane.';
 $Definition['Generate'] = 'Generuj';
-$Definition['Google Sign In Settings'] = 'Ustawienia logowania w Google';
 $Definition['Guest'] = 'Gość';
 
 $Definition['Information'] = 'Informacja';
@@ -117,10 +114,8 @@ $Definition['Manage Routes'] = 'Zarządzanie trasami';
 $Definition['Manage Spam'] = 'Zarządzanie spamem';
 $Definition['Manage Themes'] = 'Zarządzanie tematami';
 $Definition['Manage Users'] = 'Zarządzanie użytkownikami';
-$Definition['Manage your Plugins'] = 'Zarządzanie twoimi wtyczkami';
 $Definition['Max Comment Length'] = 'Makasymalna dlugość komentarza';
 $Definition['Member'] = 'Całonek';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = 'Wiadomości mogą pojawić się gdziekolwiek w aplikacji, i mogą być wykorzystywane do informowania użytkowników o nowościach i wydarzeniach. Użyj tej strony do ponownego uporządkowania wiadomości, przeciągając je w górę lub w dół.';
 $Definition['Messages can appear anywhere in your application.'] = 'Wiadomości mogą pojawić się gdziekolwiek w aplikacji, i mogą być wykorzystywane do informowania użytkowników o nowościach i wydarzeniach. Użyj tej strony do ponownego uporządkowania wiadomości, przeciągając je w górę lub w dół.';
 $Definition['Method'] = 'Metoda';
 $Definition['minute(s)'] = 'minuta(y)';
@@ -173,9 +168,7 @@ $Definition['Routes'] = 'Trasy';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Trasy mogą być użyte do przekierowywania użytkowników do różnych części witryny w zależności od url.';
 
 $Definition['Saved'] = 'Zmiany zostały zapisane.';
-$Definition['SaveLocalePack'] = 'Zapisz';
 $Definition['seconds'] = 'sekundy';
-$Definition['Select the file to import'] = 'Wybierz plik do zaimportowania';
 $Definition['Send %s a Message'] = 'Wyślij %s wiadomość';
 $Definition['Sent To'] = 'Wyślij do';
 $Definition['SMTP Host'] = 'Host SMTP';
@@ -192,8 +185,6 @@ $Definition['The banner logo appears at the top of your forum.'] = 'Banner logo 
 $Definition['ThemeHelp'] = 'Tematy pozwalają na zmianę wyglądu twojej strony.<br />Jeśli temat był dodany do  %s folderu, będzie dostępny tutaj.';
 $Definition['Themes'] = 'Tematy';
 $Definition['There are currently no applicants.'] = 'Obecnie nie ma kandydatów.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Ta wtyczka pozwala użytkownikom logować się przy pomocy OpenID. <b>Upewnij się, że kliknąłeś przycisk Ustawienia po włączeniu tej wtyczki, aby umożliwić logowanie przy pomocy OpenID</b>.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Ta wtyczka pozwala użytkownikom logować się przy pomocy swojego konta w Google. <b>Upewnij się, że kliknąłeś przycisk Ustawienia po włączeniu tej wtyczki, aby umożliwić logowanie przy pomocy konta Google</b>.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect umożliwia użytkownikom logowanie się przy użyciu swojego konta na Twitterze. <b>Musisz zarejestrować swoją aplikację na Twitterze by ten plugin mógł działać.</b>';
 
 $Definition['Unlimited'] = 'Nielimitowane';
@@ -217,5 +208,4 @@ $Definition['Within'] = 'Wewnątrz';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Jeśli masz zablokowane wejście na swoje forum możesz się zalogować używając adresu e-mail i hasła podanego przy rejestracji <a href="%1$s">%1$s</a>';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Nie możesz wyłączyć plugina %1$s ponieważ jest wymagany do funkcjonowania plugina %2$s.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'Nie możesz wyłączyć plugina OpenID ponieważ jest wymagany do funkcjonowania plugina GoogleSignIn.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Twoje zgłoszenie zostanie sprawdzone przez administratora. Zostaniesz powiadomiony przez e-mail, jeśli zgłoszenie zostanie przyjęte.';

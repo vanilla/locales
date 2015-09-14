@@ -101,15 +101,11 @@ $Definition['For SEO purposes, search engine crawlers are excluded from being fo
 $Definition['Forum Settings'] = '포럼 설정';
 $Definition['From'] = '___(으)로 부터';
 
-$Definition['Garden.Import.Description'] = '다른 포럼에서 익스포트한 데이타를 불러올 수 있습니다. 더 많은 정보는 임포트 관련 문서를 참조하시기 바랍니다: <br /><a href="%s">See our importing documentation</a>.';
 $Definition['Garden.Import.InputInstructions'] = '임포트를 원하는 데이타의 어드민 이메일 주소와 패스워드를 입력하십시오.';
-$Definition['Garden.Import.Overwrite.Description'] = '경고: 이 포럼에 있는 모든 데이터를 새로 덮어 씁니다.';
 $Definition['Generate'] = '생성';
 $Definition['Get more information on creating custom routes'] = '사용자 지정 라우팅 경로에 대한 정보';
-$Definition['Google Sign In Settings'] = '구글 계정 로그인 설정';
 $Definition['Guest'] = '손님';
 
-$Definition['Here\'s how to get started'] = '시작하기';
 $Definition['Homepage'] = '메인';
 
 $Definition['Import'] = '임포트';
@@ -128,7 +124,6 @@ $Definition['Locales are in your %s folder.'] = '현지화 기능으로 포럼�
 <br />다음의 경로에 원하는 언어팩을 추가한 후 목록에서 활성화 시켜 사용하십시요: %s';
 $Definition['Location'] = '위치';
 
-$Definition['Make sure to use a forum theme that meshes well with the look and feel of the remote site.'] = '포럼을 원격으로 삽입할 경우 알맞은 테마를 사용하여 디자인이 잘 어우러지게 하는 것이 중요합니다.';
 $Definition['Manage Applicants'] = '가입 승인 대기자 관리';
 $Definition['Manage Applications'] = '어플리케이션 관리';
 $Definition['Manage Categories'] = '카테고리 관리';
@@ -139,12 +134,8 @@ $Definition['Manage Routes'] = '라우팅 경로 설정';
 $Definition['Manage Spam'] = '스팸 관리';
 $Definition['Manage Themes'] = '테마 관리';
 $Definition['Manage Users'] = '사용자 관리';
-$Definition['Manage your Plugins'] = '플러그인 관리';
 $Definition['Max Comment Length'] = '최대 댓글 길이';
 $Definition['Member'] = '회원';
-$Definition['Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.'] = '메시지는 포럼에 어디에나 나타날 수 있으며, 뉴스나 공지, 이벤트 등의 정보를 알리기 위해 사용할 수 있습니다.
-
-<br />메세지 작성 후 목록에서 순서를 변경할 수 있습니다.';
 $Definition['Messages can appear anywhere in your application.'] = '메시지는 포럼에 어디에나 나타날 수 있으며, 뉴스나 공지, 이벤트 등의 정보를 알리기 위해 사용할 수 있습니다.
 
 <br />메세지 작성 후 목록에서 순서를 변경할 수 있습니다.';
@@ -159,7 +150,6 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['None'] = '없음';
 $Definition['Notes'] = '메모';
 
-$Definition['Only Allow Each User To Post'] = '회원별 게시글 제한사항';
 $Definition['Operation By'] = '작성';
 $Definition['Organize Categories'] = '카테고리 설정';
 $Definition['Or Spamblock For'] = '초과할 경우';
@@ -167,10 +157,8 @@ $Definition['Other Themes'] = '다른 테마들';
 $Definition['Outgoing Email'] = '이메일 설정';
 
 $Definition['Page'] = '페이지';
-$Definition['Panel Box'] = '패널 박스';
 $Definition['Password Options'] = '패스워드 옵션';
 $Definition['Permission.Category'] = '카테고리';
-$Definition['Place nested categories in a comma-delimited list when they are'] = '다음의 조건에서 쉽표로 목록을 구분합니다:';
 $Definition['Please choose an authenticator to configure.'] = '설정하기 원하는 인증 방식을 선택하세요.';
 $Definition['Plugin'] = '플러그인';
 $Definition['PluginHelp'] = '플러그인을 사용하여 포럼에 여러가지 기능을 추가할 수 있습니다.<br />원하는 플러그인을 다음 경로에 추가한 후 아래 목록에서 버튼을 눌러 활성화 합니다. %s';
@@ -204,14 +192,11 @@ $Definition['Routes'] = '라우팅 경로 설정';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = '라우팅 경로는 URL에 따라 사용자를 리디렉션하는데 사용할 수 있습니다.';
 
 $Definition['Saved'] = '변경되었습니다.';
-$Definition['SaveLocalePack'] = '저장';
 $Definition['seconds'] = '초 이내에 게시 불가.';
-$Definition['Select the file to import'] = '임포트를 원하는 파일을 선택하세요';
 $Definition['Send %s a Message'] = '%s님에게 메세지를 보냅니다';
 $Definition['Status'] = '상태';
 $Definition['Subject'] = '제목';
 
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
 $Definition['Thank You!'] = '감사합니다!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s 인증에 대한 사용자 정의 옵션이 없습니다.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = '치명적인 오류가 발생하여 활성화 되지 않았습니다: <pre>%s</pre>';
@@ -219,10 +204,7 @@ $Definition['The banner logo appears at the top of your forum.'] = '로고 이�
 $Definition['ThemeHelp'] = '테마 기능을 사용하여 사이트의 디자인을 손쉽게 바꿀 수 있습니다.<br />원하는 테마를 다음의 경로에 추가한 후 목록에서 활성화 하여 사용하세요. %s';
 $Definition['Themes'] = '테마';
 $Definition['There are currently no applicants.'] = '가입 승인 대기자가 없습니다.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = '이 플러그인을 이용하면 사용자가 OpenID을 사용하여 로그인 할 수 있습니다. <b>OpenID signin의 올바른 작동을 위해 활성화 후 설정버튼을 눌러 세부 설정을 완료 하십시요.</b>.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = '플러그인을 이용하면 사용자가 Google 계정을 사용하여 로그인 할 수 있습니다. <b>Google signin의 올바른 작동을 위해 활성화 후 설정버튼을 눌러 세부 설정을 완료 하십시요.</b>.';
 $Definition['To'] = '___에게';
-$Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = '포럼의 소스코드, 또는 플러그인을 사용하여 원격 웹 응용 프로그램에 포럼을 삽입할 수 있습니다.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = '트위터 컨넥트 기능을 이용하여 사용자가 자신의 트위터 계정을 사용하여 로그인할 수 있습니다. <b>이 플러그인을 사용하려면 Twitter에서 응용 프로그램을 등록해야합니다.</b>';
 
 $Definition['Unlimited'] = '무제한';
@@ -233,7 +215,6 @@ $Definition['User Count'] = '사용자';
 $Definition['UserKeep'] = '사용자 컨텐츠 유지';
 $Definition['User Registration Settings'] = '사용자 등록 설정';
 $Definition['Users'] = '사용자';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = '이 필드를 사용해 사용자 지정 프로필 정보를 만드세요. "결혼/연애 상태", "스카이프" 또는 "제일 좋아하는 공룡" 같은 항목을 입력할 수 있습니다. 창의적으로 만드세요! ';
 
 $Definition['Vanilla.Archive.Description'] = '다음의 기간보다 오래된 글타레는 보관 모드로 전환할 수 있습니다. 보관 모드가 된 글을 수정이 불가능합니다.';
 $Definition['Version'] = '버전';
@@ -250,5 +231,4 @@ $Definition['Within'] = '시간';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = '포럼 사용중 로그아웃 되었다면 다음의 경로에서 바닐라 포럼의 이메일 주소와 패스워드를 사용하여 언제든지 로그인 할 수 있습니다: <a href="%1$s">%1$s</a>';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '플러그인을 해제할 수 없습니다. %2$s이 올바르게 작동하기 위해 %1$s 플러그인이 필요합니다.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = '플러그인을 해제할 수 없습니다. Google SignIn이 올바르게 작동하기 위해 Open ID 플러그인이 필요합니다.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = '등록 신청이 접수되었습니다. 신청서는 관리자에 의해 검토되며 승인되는 즉시 이메일로 통보됩니다.';
