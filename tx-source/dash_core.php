@@ -627,18 +627,13 @@ $Definition['Routes can be used to redirect users to various parts of your site 
 $Definition['Run structure & data scripts'] = 'Run structure & data scripts';
 
 $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
-$Definition['Save Translations from a Locale Pack'] = 'Save Translations from a Locale Pack';
 $Definition['Saved'] = 'Your changes have been saved.';
-$Definition['SaveLocalePack'] = 'Save';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
-
 $Definition['seconds'] = 'seconds';
-
 $Definition['Security'] = 'Security';
 $Definition['Select'] = 'Select';
 $Definition['Select a %s'] = 'Select a %s';
-$Definition['Select the file to import'] = 'Select the file to import';
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Select the location of the pocket.'] = 'Select the location of the pocket.';
 $Definition['Send %s a Message'] = 'Send %s a Message';
@@ -650,10 +645,8 @@ $Definition['Sent To'] = 'Sent To';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['Show Pocket Locations'] = 'Show Pocket Locations';
-$Definition['Sign in'] = 'Sign in';
 $Definition['Sign In Url'] = 'Sign In Url';
 $Definition['SignedOut'] = 'You are signed out.';
-$Definition['Silver'] = 'Silver';
 $Definition['Site Description'] = 'Site Description';
 $Definition['Site Name'] = 'Site Name';
 $Definition['Slug'] = 'Slug';
@@ -669,7 +662,6 @@ $Definition['Start Discussions'] = 'Start Discussions';
 $Definition['Start Import'] = 'Start Import';
 $Definition['Statistics'] = 'Statistics';
 $Definition['Status'] = 'Status';
-$Definition['Stop Forum Spam Settings'] = 'Stop Forum Spam Settings';
 $Definition['Styles'] = 'Styles';
 $Definition['Subject'] = 'Subject';
 $Definition['Subscriber'] = 'Subscriber';
@@ -677,13 +669,10 @@ $Definition['Success'] = 'Success';
 $Definition['System'] = 'System';
 
 $Definition['Table Layout'] = 'Table Layout';
-
 $Definition['take away'] = 'take away';
-
 $Definition['Temporary (302)'] = 'Temporary (302)';
 $Definition['Test'] = 'Test';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
 $Definition['Test URL'] = 'Test URL';
 $Definition['Testing'] = 'Testing';
 $Definition['Text'] = 'Text';
@@ -703,13 +692,10 @@ $Definition['The banner title appears on the top-left of every page.'] = 'The ba
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browser\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>The basic registration form requires</strong> new users to copy text from a CAPTCHA image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:';
 $Definition['The Basics'] = 'The Basics';
-$Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'The behind-the-scenes URL that shares identity information with Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = 'The content you were looking for has been deleted.';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>';
 $Definition['The default role has not been configured.'] = 'The default role has not been configured.';
-$Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'The Disqus plugin allows users to sign in using their Disqus account. <b>You must register your application with Disqus for this plugin to work.</b>';
-$Definition['The following content has been flagged by users for moderator review.'] = 'The following content has been flagged by users for moderator review.';
 $Definition['The following structure changes are required for your database.'] = 'The following structure changes are required for your database.';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
 $Definition['The homepage was saved successfully.'] = 'The homepage was saved successfully.';
@@ -761,22 +747,14 @@ $Definition['This is the administrative dashboard for your new community.'] = 'T
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
-$Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.';
-$Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.';
-$Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'This plugin enables uploading files and attaching them to discussions and comments.';
 $Definition['This pocket is an ad.'] = 'This pocket is an ad.';
-$Definition['This show the plugin on only selected discussion pages'] = 'This show the plugin on only selected discussion pages';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
-$Definition['This will show the panel on every page.'] = 'This will show the panel on every page.';
 $Definition['Thumbnails'] = 'Thumbnails';
 $Definition['Titles'] = 'Titles';
 $Definition['To'] = 'To';
-$Definition['To embed your entire Vanilla community forum into your web site, copy and paste this script into the page where you would like the forum to appear.'] = 'To embed your entire Vanilla community forum into your web site, copy and paste this script into the page where you would like the forum to appear.';
-$Definition['To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.'] = 'To embed your Vanilla community forum into a remote web application, use the forum embed code or one of the forum embed plugins below.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
-$Definition['To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>'] = 'To use reCAPTCHA you must get an API key from <a href=\'http://recaptcha.net/api/getkey\'>http://recaptcha.net/api/getkey</a>';
 $Definition['Try Again'] = 'Try Again';
 $Definition['Turn OFF'] = 'Turn OFF';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
