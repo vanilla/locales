@@ -759,8 +759,6 @@ $Definition['Try Again'] = 'Try Again';
 $Definition['Turn OFF'] = 'Turn OFF';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
-$Definition['Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.'] = 'Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.';
-$Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = 'Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.';
 $Definition['Unban'] = 'Unban';
 $Definition['Uninvite'] = 'Uninvite';
 $Definition['Universal Code'] = 'Universal Code';
@@ -771,12 +769,9 @@ $Definition['Use an SMTP server to send email'] = 'Use an SMTP server to send em
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Use Categories';
 $Definition['Use categories to organize discussions'] = 'Use categories to organize discussions';
-$Definition['Use delta indexes'] = 'Use delta indexes (recommended for massive sites)';
 $Definition['Use Facebook names for usernames.'] = 'Use Facebook names for usernames.';
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!';
-$Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Use Vanilla as a commenting system in your site';
 $Definition['User'] = 'User';
 $Definition['User Count'] = 'Users';
@@ -796,20 +791,14 @@ $Definition['Users with the no ads permission will not see this pocket.'] = 'Use
 $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 
-$Definition['Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.'] = 'Vanilla can be embedded into your site in a variety of ways. Click the tabs below to find out more.';
-$Definition['Vanilla Configuration'] = 'Vanilla Configuration';
-$Definition['Vanilla Cookie Domain'] = 'Vanilla Cookie Domain';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla is installed!'] = 'Vanilla is installed!';
-$Definition['Vanilla Sphinx Help'] = 'Vanilla Sphinx Help';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 $Definition['Verified!'] = 'Verified!';
 $Definition['Version'] = 'Version';
-
 $Definition['version %s'] = 'version %s';
-
 $Definition['Version %s'] = 'Version %s';
 $Definition['Version %s Installer'] = 'Version %s Installer';
 $Definition['Video tutorial on advanced settings'] = 'Video tutorial on advanced settings';
@@ -833,11 +822,9 @@ $Definition['Welcome to Vanilla!'] = 'Welcome to Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Welcome to your Dashboard';
 $Definition['What\'s the Buzz?'] = 'What\'s the Buzz?';
 $Definition['Where is your Community Forum?'] = 'Where is your Community Forum?';
-$Definition['Where should the plugin be shown?'] = 'Where should the plugin be shown?';
 $Definition['Who\'s Online Settings'] = 'Who\'s Online Settings';
 $Definition['Why do you want to join?'] = 'Why do you want to join?';
 $Definition['Within'] = 'Within';
-$Definition['Wordpress'] = 'Wordpress';
 $Definition['WordPress Plugin'] = 'WordPress Plugin';
 
 $Definition['Yes, the following information can be changed later.'] = 'Yes, the following information can be changed later.';
@@ -856,7 +843,6 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
-$Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.'] = 'You cannot disable the OpenID plugin because the GoogleSignIn plugin requires it in order to function.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'You cannot edit the thumbnail of another member.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'You cannot remove an invitation that has been accepted.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
