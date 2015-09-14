@@ -128,14 +128,6 @@ $Definition['Are you sure you\'ve entered the correct database host name? Maybe 
 $Definition['Authenticate Url'] = 'Authenticate Url';
 $Definition['Authentication'] = 'Authentication';
 $Definition['Authentication URL'] = 'Authentication URL';
-$Definition['Authors can always edit their posts'] = 'Authors can always edit their posts';
-$Definition['Authors can edit for 1 day after posting'] = 'Authors can edit for 1 day after posting';
-$Definition['Authors can edit for 1 month after posting'] = 'Authors can edit for 1 month after posting';
-$Definition['Authors can edit for 1 week after posting'] = 'Authors can edit for 1 week after posting';
-$Definition['Authors can edit for 15 minutes after posting'] = 'Authors can edit for 15 minutes after posting';
-$Definition['Authors can edit for 30 minutes after posting'] = 'Authors can edit for 30 minutes after posting';
-$Definition['Authors can edit for 5 minutes after posting'] = 'Authors can edit for 5 minutes after posting';
-$Definition['Authors cannot edit their posts'] = 'Authors cannot edit their posts';
 $Definition['Authors may always edit'] = 'Authors may always edit';
 $Definition['Authors may edit for %s'] = 'Authors may edit for %s';
 $Definition['Authors may never edit'] = 'Authors may never edit';
