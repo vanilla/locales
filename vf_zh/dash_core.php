@@ -766,6 +766,7 @@ $Definition['The addon has already been downloaded.'] = '该扩展已被下载�
 $Definition['The banner logo appears at the top of your forum.'] = '站点LOGO将显示在论坛顶部';
 $Definition['The banner title appears on the top-left of every page.'] = '站点名称显示在每个页面的左上角';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = '标题内容将在你站点的标题栏、和浏览器的标题栏显示。长度不应超过20字符。如果你上传了标题图片，那么图片将在用户看到的论坛页面中替换标题内容。同时，请注意某些主题可能屏蔽此处的标题内容。';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>基本注册表单要求</strong> 新用户从验证码图片复制文字来使网站垃圾信息制造者被挡在网站之外。你需要一个<a href="http://recaptcha.net/">recaptcha.net</a>的账户。注册是免费的而且很容易。一旦你注册，回来这里并输入以下设置：';
 $Definition['The Basics'] = '基础';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = '此后台链接与 Vanilla 共享身份识别信息。';
 $Definition['The client ID uniqely identifies the site.'] = '客户端 ID 是站点的唯一标识。你可以点击此页最下面的按钮生成新 ID。';
@@ -857,6 +858,7 @@ $Definition['unknown'] = '未知';
 $Definition['Unlimited'] = '无限制';
 $Definition['Unviersal Forum Embed Code'] = '通用论坛嵌入代码';
 $Definition['Use an SMTP server to send email'] = '使用SMTP服务器发送邮件';
+$Definition['Use asterisks for wildcards'] = '使用星号代表通配符，例如&lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = '使用板块';
 $Definition['Use categories to organize discussions'] = '使用板块组织话题';
 $Definition['Use delta indexes'] = '使用 delta 索引（推荐超大站点使用）';

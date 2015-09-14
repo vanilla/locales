@@ -854,6 +854,7 @@ $Definition['on'] = 'на';
 $Definition['Online Preferences'] = 'Онлайн установки';
 $Definition['Only show followed categories'] = 'Показать только те разделы, на которые я подписан.';
 $Definition['OpenID Settings'] = 'Настройки OpenID';
+$Definition['Optional'] = 'Опционально';
 $Definition['Optional Description'] = 'Дополнительное описание';
 $Definition['Options'] = 'Настройки';
 $Definition['or'] = 'или';

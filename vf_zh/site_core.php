@@ -804,6 +804,7 @@ $Definition['on'] = '在';
 $Definition['Online Preferences'] = '在线设定';
 $Definition['Only show followed categories'] = '只显示一下板块';
 $Definition['OpenID Settings'] = 'OpenID 设置';
+$Definition['Optional'] = '可选择的';
 $Definition['Optional Description'] = '可选的描述';
 $Definition['Options'] = '选项';
 $Definition['or'] = '或';
@@ -976,6 +977,7 @@ $Definition['RoleID'] = '身份编号';
 $Definition['Roles'] = '角色';
 $Definition['roles'] = '角色';
 $Definition['RSS Feed'] = 'RSS订阅';
+$Definition['RSVP'] = '敬请回复';
 
 $Definition['Save'] = '保存';
 $Definition['Save Comment'] = '保存回复';

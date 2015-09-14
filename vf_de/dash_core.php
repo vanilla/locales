@@ -766,6 +766,7 @@ $Definition['The addon has already been downloaded.'] = 'Das Addon wurde bereits
 $Definition['The banner logo appears at the top of your forum.'] = 'Das banner logo erscheint oberhalb des Forums.';
 $Definition['The banner title appears on the top-left of every page.'] = 'Der Bannertitel erscheint in der oberen linken Ecke auf jeder Seite.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Der Bannertitel wird auf jeder Seite oben links angezeigt und in der Titelleiste deines Browsers. Er sollte weniger als 20 Zeichen haben. Wurde ein Logo hochgeladen, wird dies stattdessen auf allen Seiten angezeigt. Beachte auch, dass manche Themen diesen Titel verstecken.';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Das einfache Anmeldeformular verlangt von</strong> neuen Usern, Text von einem CAPTCHA-Bild zu kopieren, um Spammer von der Seite fernzuhalten. Sie benötigen einen Account bei <a href="http://recaptcha.net/">recaptcha.net</a>. Die Anmeldung ist GRATIS und einfach. Sobald Sie sich angemeldet haben, kommen Sie hierher zurück und geben Sie die folgenden Einstellungen ein:';
 $Definition['The Basics'] = 'Die Basics';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'Die versteckte URL, die Identitätsinformationen mit Vanilla teilt.';
 $Definition['The client ID uniqely identifies the site.'] = 'Die Client-ID identifiziert die Seite eindeutig. Du kannst eine neue ID generieren mit dem Button auf dieser Seite.';
@@ -857,6 +858,7 @@ $Definition['unknown'] = 'unbekannt';
 $Definition['Unlimited'] = 'Unbeschränkt';
 $Definition['Unviersal Forum Embed Code'] = 'Unvierseller Forums-Einbettungscode ';
 $Definition['Use an SMTP server to send email'] = 'Nutze SMTP zum Versenden von E-Mail';
+$Definition['Use asterisks for wildcards'] = 'Verwenden Sie Sternchen als Stellvertretersymbol, z.B. &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Kategorien benutzen';
 $Definition['Use categories to organize discussions'] = 'Nutze Kategorien um Diskussionen zu strukturieren';
 $Definition['Use delta indexes'] = 'Benutze Delta Indizes (empfohlen für sehr große Seiten)';

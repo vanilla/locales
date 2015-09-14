@@ -751,6 +751,7 @@ $Definition['The addon has already been downloaded.'] = 'De addon is al gedownlo
 $Definition['The banner logo appears at the top of your forum.'] = 'Het banner-logo verschijnt bovenaan je forum.';
 $Definition['The banner title appears on the top-left of every page.'] = 'De bannertitel verschijnt aan de linker bovenkant van elke pagina.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'De bannertitel wordt getoond op de banner van je website en in de titelbalk van je browser. Het moet korter zijn dan 20 tekens. Als een bannerlogo is geüpload, zal het de bannertitel vervangen op forumpagina\'s die de gebruiker ziet. Onthoud ook dat sommige thema\'s deze titel kunnen verbergen.';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Het basis registratieformulier vraagt van</strong>  nieuwe gebruikers om tekst van een CAPTCHA afbeelding te kopiëren om spammers buiten de site te houden. U heeft een account nodig op <a href="http://recaptcha.net/">recaptcha.net</a>. Aanmelden is GRATIS en gemakkelijk. Zodra u zich heeft aangemeld, kom dan hier terug en vul de volgende settings in:';
 $Definition['The Basics'] = 'De Basis';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'De achter-de-schermen URL die identiteitsinformatie met Vanilla deelt';
 $Definition['The client ID uniqely identifies the site.'] = 'De client ID identificeert de site op een unieke manier. Je kunt een nieuw ID genereren met de knop aan het einde van deze pagina.';
@@ -842,6 +843,7 @@ $Definition['unknown'] = 'onbekend';
 $Definition['Unlimited'] = 'Onbeperkt';
 $Definition['Unviersal Forum Embed Code'] = 'Universele Forum-insluitcode';
 $Definition['Use an SMTP server to send email'] = 'Gebruik een SMTP server om e-mail te verzenden';
+$Definition['Use asterisks for wildcards'] = 'Gebruik sterretjes voor wildcards, bijv. &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Gebruik Categorieën';
 $Definition['Use categories to organize discussions'] = 'Gebruik categorieën om discussies te organiseren';
 $Definition['Use delta indexes'] = 'Gebruik delta indexen (aanbevolen voor grote websites)';

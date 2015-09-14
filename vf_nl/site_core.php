@@ -795,6 +795,7 @@ $Definition['on'] = 'aan';
 $Definition['Online Preferences'] = 'Online voorkeuren';
 $Definition['Only show followed categories'] = 'Toon alleen gevolgde categorieën';
 $Definition['OpenID Settings'] = 'OpenID Instellingen';
+$Definition['Optional'] = 'Optioneel';
 $Definition['Optional Description'] = 'Optionele Beschrijving';
 $Definition['Options'] = 'Opties';
 $Definition['or'] = 'of';

@@ -812,6 +812,7 @@ $Definition['on'] = 'en';
 $Definition['Online Preferences'] = 'Preferencias online';
 $Definition['Only show followed categories'] = 'Solo mostrar categorías que sigo ';
 $Definition['OpenID Settings'] = 'Configuración OpenID';
+$Definition['Optional'] = 'Opcional';
 $Definition['Optional Description'] = 'Descripción Opcional';
 $Definition['Options'] = 'Opciones';
 $Definition['or'] = 'o';
@@ -983,6 +984,7 @@ $Definition['RoleID'] = 'rol';
 $Definition['Roles'] = 'Papeles';
 $Definition['roles'] = 'papeles';
 $Definition['RSS Feed'] = 'Canales RSS';
+$Definition['RSVP'] = 'Confirma tu asistencia';
 
 $Definition['Save'] = 'Guardar';
 $Definition['Save Comment'] = 'Guardar Comentario';

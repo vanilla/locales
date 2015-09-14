@@ -763,6 +763,7 @@ $Definition['The addon has already been downloaded.'] = 'Дополнение у
 $Definition['The banner logo appears at the top of your forum.'] = 'Логотип отображается на всех страницах и заменяет название форума на загруженное изображение.';
 $Definition['The banner title appears on the top-left of every page.'] = 'Заголовок выводится в левом вверху каждой страницы.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Заголовок сайта выводится в шапке сайта и в строке заголовка браузера. Он должен быть меньше 20 символов. Если загружен логотип, он будет выводиться вместо заголовка на страницах форума. Также имейте в виду, что некоторые темы могут не показывать этот заголовок.';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Для базовой формы регистрации </strong> пользователи должны скопировать текст из контрольного изображения, чтобы не допустить появления спамеров на сайте. Вам понадобится учетная запись на <a href="http://recaptcha.net/">recaptcha.net</a>. Регистрация БЕСПЛАТНАЯ и простая. После регистрации возвращайтесь сюда и введите следующие настройки:';
 $Definition['The Basics'] = 'Основы';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'Закадровый URL, который разделяет идентификационную информации с Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'ID клиента идентифицирует ваш сайт. Вы можете сгенерировать новый идентификатор при помощью кнопки в нижней части этой страницы.';
@@ -854,6 +855,7 @@ $Definition['unknown'] = 'неизвестно';
 $Definition['Unlimited'] = 'Не ограничено';
 $Definition['Unviersal Forum Embed Code'] = 'Универсальный код вставки форума';
 $Definition['Use an SMTP server to send email'] = 'Использовать SMTP-сервер для отправки писем';
+$Definition['Use asterisks for wildcards'] = 'Используйте звездочки для специальных символов, например, &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Использовать разделы';
 $Definition['Use categories to organize discussions'] = 'Используйте разделы для организации дискуссий';
 $Definition['Use delta indexes'] = 'Использовать дельта-индексы (рекомендуется для массивных сайтов)';

@@ -778,6 +778,7 @@ $Definition['on'] = 'pe';
 $Definition['Online Preferences'] = 'Preferinţe online';
 $Definition['Only show followed categories'] = 'Afișează doar categoriile urmărite';
 $Definition['OpenID Settings'] = 'Setari pentru OpenID';
+$Definition['Optional'] = 'Opțional';
 $Definition['Optional Description'] = 'Descriere optionala';
 $Definition['Options'] = 'Optiuni';
 $Definition['or'] = 'sau';
@@ -946,6 +947,7 @@ $Definition['RoleID'] = 'rol';
 $Definition['Roles'] = 'Roluri';
 $Definition['roles'] = 'roluri';
 $Definition['RSS Feed'] = 'Știri RSS';
+$Definition['RSVP'] = 'Vă rugăm să răspundeți';
 
 $Definition['Save'] = 'Salvare';
 $Definition['Save Comment'] = 'Salvare comentariu';

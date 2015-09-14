@@ -751,6 +751,7 @@ $Definition['The addon has already been downloaded.'] = 'Extensia a fost deja de
 $Definition['The banner logo appears at the top of your forum.'] = 'Logo-ul banner apare în partea de sus a forumului';
 $Definition['The banner title appears on the top-left of every page.'] = 'Titlul banner-ului apare în partea stânga-sus a fiecărei pagini';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Titlul banner-ului apare pe banner-ul site-ului şi în bara de titlu a browser-ului. Ar trebui să fie mai mică de 20 de caractere. Dacă un logo banner este încărcat, acesta va înlocui titlul banner-ului. De asemenea, rețineți că unele teme vor ascunde acest titlu';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Formularul de înregistrare de bază cere</strong> noilor utilizatori să copieze textul dintr-o imagine CAPTCHA pentru a nu permite accesul spammer-ilor. Aveți nevoie de un cont la <a href="http://recaptcha.net/">recaptcha.net</a>. Înregistrarea este GRATUITĂ și simplă. După înregistrare, întoarceți-vă în această pagină și introduceți următoarele setări:';
 $Definition['The Basics'] = 'Elementele de bază';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'URL-ul din spate partajează informaţii deidentitatea cu Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'Id-ul client identifică site-ul. Puteţi genera un ID nou cu butonul din partea de jos a acestei pagini';
@@ -842,6 +843,7 @@ $Definition['unknown'] = 'necunoscut';
 $Definition['Unlimited'] = 'Nelimitat';
 $Definition['Unviersal Forum Embed Code'] = 'Codul universal de încorporare al forumului';
 $Definition['Use an SMTP server to send email'] = 'Utilizaţi un server SMTP pentru a trimite e-mail';
+$Definition['Use asterisks for wildcards'] = 'Folosiți asterisc pentru wildcards. De ex.: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Utilizați categorii';
 $Definition['Use categories to organize discussions'] = 'Utilizaţi categorii pentru a organiza discuţii';
 $Definition['Use delta indexes'] = 'Utilizați indexuri delta (recomandat pentru site-uri masive)';

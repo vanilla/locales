@@ -744,6 +744,7 @@ $Definition['The addon has already been downloaded.'] = 'L\'add-on a déjà ét�
 $Definition['The banner logo appears at the top of your forum.'] = 'Le logo du bandeau apparaît en haut de votre forum.';
 $Definition['The banner title appears on the top-left of every page.'] = 'La bannière de titre apparaît en haut à gauche de chaque page.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Le titre du bandeau apparaît sur ​​le bandeau de votre site et dans la barre de titre de votre navigateur. Il doit être inférieur à 20 caractères. Si un logo de bandeau a été téléchargé, il remplacera le titre du bandeau dans l\'interface utilisateur des pages du forum. En outre, gardez à l\'esprit que certains thèmes peuvent aussi cacher ce titre.';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Le formulaire d\'inscription de base demande</strong> aux nouveaux utilisateurs de copier le texte d\'une image CAPTCHA pour protéger le site des spammeurs. Vous avez besoin d\'un compte sur <a href="http://recaptcha.net/">recaptcha.net</a>. L\'inscription est GRATUITE et facile. Une fois inscrit, revenez ici et entrez les paramètres suivants :';
 $Definition['The Basics'] = 'Les bases';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'L\'URL "en-coulisses" qui partage les informations d\'identité avec Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'L\'ID client identifie le site de manière unique. Vous pouvez générer un nouvel ID en cliquant sur le bouton en bas de cette page.';
@@ -835,6 +836,7 @@ $Definition['unknown'] = 'inconnu';
 $Definition['Unlimited'] = 'Illimitées';
 $Definition['Unviersal Forum Embed Code'] = 'Code universel d\'intégration de forum';
 $Definition['Use an SMTP server to send email'] = 'Utiliser un serveur SMTP pour envoyer des courriels';
+$Definition['Use asterisks for wildcards'] = 'Utilisez des astérisques pour les caractères de remplacement, Ex. :  &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Utiliser les Catégories';
 $Definition['Use categories to organize discussions'] = 'Utiliser les catégories pour organiser les discussions';
 $Definition['Use delta indexes'] = 'Utiliser des index delta (recommandé pour les sites gigantesques)';

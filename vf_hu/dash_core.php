@@ -757,6 +757,7 @@ $Definition['The addon has already been downloaded.'] = 'Az addont mar letöltö
 $Definition['The banner logo appears at the top of your forum.'] = 'A banner/fejléc logó a fórum tetején fog megjelenni.';
 $Definition['The banner title appears on the top-left of every page.'] = 'A banner/fejléc cím minden oldal bal-tetején fog megjelenni.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'A banner/fejléc az oldalad banner sávjában és a böngésződ címsorában fog megjelenni. 20 karakternál rövidebb kell, hogy legyen. Ha banner/fejléc logó van feltöltve, akkor a szöveg helyett a logót fogják látni a felhasználók az oldalakon. Ezenkívül egyes témák elrejthetik ezt a címsort.';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Az alapszintű regisztrációs űrlapon</strong> az új felhasználóknak be kell másolniuk a képen megjelenített karaktereket (CAPTCHA) – ez a levélszemétküldők távol tartására szolgál. Ehhez regisztrálnod kell a <a href="http://recaptcha.net/">recaptcha.net</a> oldalon. A regisztráció INGYENES és egyszerű. Miután regisztráltál, térj vissza erre az oldalra, és add meg a következő beállításokat:';
 $Definition['The Basics'] = 'Az alapok';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'A színpad mögötti URL ami személyes adatokat oszt meg a Vanilla-val';
 $Definition['The client ID uniqely identifies the site.'] = 'A kliens ID egyedi módon azonosítja az oldalt. Generálhatsz egy új azonosítót az oldal alján található gombbal.';
@@ -848,6 +849,7 @@ $Definition['unknown'] = 'ismeretlen';
 $Definition['Unlimited'] = 'Korlátlan';
 $Definition['Unviersal Forum Embed Code'] = 'Univerzális fórum beágyazó kód';
 $Definition['Use an SMTP server to send email'] = 'Használj SMTP szervert email küldésére';
+$Definition['Use asterisks for wildcards'] = 'Helyettesítő karakterként használj csillagot, például: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Használj kategóriákat';
 $Definition['Use categories to organize discussions'] = 'Használj kategóriákat a beszélgetések rendszerezésére';
 $Definition['Use delta indexes'] = 'Használj delta indexeket (nagy oldalakhoz ajánlott)';

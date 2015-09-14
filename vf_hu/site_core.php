@@ -789,6 +789,7 @@ $Definition['on'] = 'bekapcsolva';
 $Definition['Online Preferences'] = 'Online beállítások';
 $Definition['Only show followed categories'] = 'Csak a követett kategóriákat mutassa';
 $Definition['OpenID Settings'] = 'OpenID beállítások';
+$Definition['Optional'] = 'Nem kötelező';
 $Definition['Optional Description'] = 'Opcionális leírás';
 $Definition['Options'] = 'Beállítás';
 $Definition['or'] = 'vagy';
@@ -959,6 +960,7 @@ $Definition['role'] = 'szerep';
 $Definition['RoleID'] = 'szerep';
 $Definition['Roles'] = 'Szerepek';
 $Definition['roles'] = 'szerepek';
+$Definition['RSVP'] = 'Válaszkérés';
 
 $Definition['Save'] = 'Mentés';
 $Definition['Save Comment'] = 'Hozzászólás mentése';
