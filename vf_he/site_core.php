@@ -464,12 +464,14 @@ $Definition['EmailWelcomeConnect'] = 'התחברת בהצלחה ל{Title}. לה�
 מחובר באמצעות: {ProviderName}
 
 ניתן לגשת לאתר ב {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'נרשמת בהצלחה לחשבון ב {Title}. הנה הפרטים שלך: ⏎
-⏎
-   שם משתמש: {} User.Name ⏎
-   דוא"ל: {} User.Email ⏎
-⏎
-אתה יכול לגשת לאתר   {exurl,domain,/}';
+$Definition['EmailWelcomeRegister'] = 'נרשמת בהצלחה לחשבון ב {Title}. להלן פרטי הכניסה שלך:
+
+
+שם משתמש: {User.Name}
+דוא"ל: {User.Email} 
+
+
+תוכל לנווט לאתר בקישור הבא: {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{תמונה }<strong>{כותרת }</strong>
 <p>{קטע }</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן</a></p><div class="ClearFix"></div></div>';
@@ -571,7 +573,7 @@ $Definition['Group Options'] = 'אפשרויות קבוצה';
 $Definition['Groups'] = 'קבוצות';
 $Definition['groups'] = 'קבוצות';
 $Definition['Guest'] = 'אורח';
-$Definition['GuestModule.Message'] = 'זה נראה שאתה חדש כאן. אם אתה רוצה להיות מעורב, לחץ על אחד מהכפתורים האלה!';
+$Definition['GuestModule.Message'] = 'ברוך הבא! אם הינך חדש בפורום, תוכל להירשם על ידי לחיצה על אחד הלחצנים מטה. אחרת, באפשרותך לבצע התחברות.';
 
 $Definition['Hang on a sec while we sign you out.'] = 'חכה רק רגע בזמן שאנחנו מנתקים אותך.';
 $Definition['he'] = 'הוא';
@@ -597,7 +599,7 @@ $Definition['Hide signatures on my mobile device'] = 'החבא חתימות על
 $Definition['his'] = 'שלו';
 $Definition['Home'] = 'בית';
 $Definition['hours'] = 'שעות';
-$Definition['Howdy, Stranger!'] = 'שלום זר!';
+$Definition['Howdy, Stranger!'] = 'שלום, אורח!';
 $Definition['How long do you want this warning to last?'] = 'כמה זמן אתה רוצה שההזהרה הזאת תימשך?';
 $Definition['How many levels deep should we start folding up quote trees?'] = 'אחרי כמה רמות תרצה שנתחיל לקפל ציטוטים?';
 
@@ -637,7 +639,7 @@ $Definition['I remember now!'] = 'אני זוכר אותך!';
 $Definition['Italic'] = 'נטוי';
 $Definition['Item'] = 'מוצר';
 $Definition['item'] = 'פריט';
-$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'זה נראה שאתה חדש כאן. אם אתה רוצה להיות מעורב, לחץ על אחד מהכפתורים האלה!';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ברוך הבא! אם הינך חדש בפורום, תוכל להירשם על ידי לחיצה על אחד הלחצנים מטה. אחרת, באפשרותך לבצע התחברות.';
 
 $Definition['Jail'] = 'כלא';
 $Definition['Jailed users have reduced abilities.'] = 'למשתמשים כלואים יש יכולות מופחתות';
