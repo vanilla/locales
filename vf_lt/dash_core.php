@@ -35,9 +35,6 @@ $Definition['5 minutes'] = '5 minutės';
 
 $Definition['15 minutes'] = '15 minučių';
 
-$Definition['<strong>Categories</strong>'] = '<strong>Kategorijos</strong>';
-$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Kategorijos</strong> leidžia organizuoti diskusijas. Kategorijose gali būti tik diskusijos.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Patvirtinti savo el. pašto adresą';
 $Definition['[%s] Invitation'] = '[%s] Pakvietimas';
 $Definition['[%s] Password Reset'] = '[%s] Slaptažodžio keitimas';
@@ -140,7 +137,6 @@ $Definition['Continue Import'] = 'Tęsti įkėlimą';
 $Definition['Conversation Messages'] = 'Žinutės';
 $Definition['Conversations'] = 'Pokalbiai';
 $Definition['Conversations Setup'] = 'Pokalbių nustatymai';
-$Definition['Converting from the <Embed> Vanilla Plugin'] = 'Verčiama iš <Embed> Vanilla Plugin';
 $Definition['Copy'] = 'Kopijuoti';
 $Definition['Could not find a theme identified by \'%s\''] = 'Tema \'%s\' nerasta';
 $Definition['CreateFile'] = 'Sukurti';
@@ -173,7 +169,6 @@ $Definition['discussion(s)'] = 'diskusija(-os)';
 $Definition['Discussion  Body'] = 'Diskusija | Pranešimo tekstas';
 $Definition['Discussions Layout'] = 'Diskusijų išdėstymas';
 $Definition['Discussion  Subject'] = 'Diskusija | Tema';
-$Definition['Disqus Settings'] = 'Disqus nustatymai';
 $Definition['Download Locale List'] = 'Atsiųsti lokalių sąrašą';
 $Definition['DownloadLocalePack'] = 'Atsiųsti';
 $Definition['Download Locale Pack'] = 'Atsiųsti lokalės paketą';
@@ -192,10 +187,6 @@ $Definition['Enabled'] = 'Įgalinta';
 $Definition['Enabled %1$s'] = 'Įgalinta %1$s';
 $Definition['Encourage your friends to join your new community!'] = 'Padrąsink draugus prisijungti prie naujos bendruomenės!';
 $Definition['Every 1 minute'] = 'Kas 1 minutę';
-$Definition['Every 5 minutes'] = 'Kas 5 minutes';
-$Definition['Every 5 seconds'] = 'Kas 5 sekundes';
-$Definition['Every 10 seconds'] = 'Kas 10 sekundžių';
-$Definition['Every 30 seconds'] = 'Kas 30 sekundžių';
 $Definition['Every Page'] = 'Kiekvienas puslapis';
 $Definition['Everything is ok.'] = 'Viskas yra gerai.';
 $Definition['Exit Preview'] = 'Uždaryti peržiūrą';

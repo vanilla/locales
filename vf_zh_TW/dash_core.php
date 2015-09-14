@@ -36,8 +36,6 @@ $Definition['5 minutes'] = '5 分鐘';
 
 $Definition['15 minutes'] = '15 分翁';
 
-$Definition['<strong>Categories</strong>'] = '<strong>討論板</strong>';
-$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '您可以運用<strong>討論板</strong> 來分類各種討論文章。討論板下只能包含討論文章。';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>注意！</strong> 刪除用戶組可能會導致會員無法訪問。';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] 請驗證您的電子信箱';
@@ -139,7 +137,6 @@ $Definition['Disable OpenID'] = '停用 OpenID';
 $Definition['Discussion & Comment Editing'] = '討論 & 評論編輯';
 $Definition['discussion(s)'] = '討論';
 $Definition['Discussions per Page'] = '每頁顯示討論數';
-$Definition['Disqus Settings'] = 'Disqus 設定';
 $Definition['Don\'t Refresh'] = '不要重新整理';
 $Definition['Download Locale List'] = '下載語系清單';
 $Definition['DownloadLocalePack'] = '下載';
@@ -163,10 +160,6 @@ $Definition['Every %s minutes'] = '每 %s 分鐘';
 $Definition['Every %s second'] = '每秒';
 $Definition['Every %s seconds'] = '每 %s 秒';
 $Definition['Every 1 minute'] = '每 1 分鐘';
-$Definition['Every 5 minutes'] = '每 5 分鐘';
-$Definition['Every 5 seconds'] = '每 5 秒';
-$Definition['Every 10 seconds'] = '每 10 秒';
-$Definition['Every 30 seconds'] = '每 30 秒';
 $Definition['Every Page'] = '每頁';
 $Definition['Everything is ok.'] = '一切正常。';
 $Definition['Exit Preview'] = '離開預覽模式';

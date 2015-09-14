@@ -35,8 +35,6 @@ $Definition['5 minutes'] = '5 minutter';
 
 $Definition['15 minutes'] = '15 minutter';
 
-$Definition['<strong>Categories</strong>'] = '<strong>Kategorier</strong>';
-$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Kategorier</strong> kan du organisere dine diskussioner. Kategorier kan kun indeholde diskussioner.';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Pas på!</strong> Sletning af en rolle kan resultere i brugere ikke har adgang til programmet.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Pas på!</strong> Flytte diskussioner ind en udskiftning kategori kan resultere i diskussioner forsvinde (eller vises) Hvis kategorien udskiftning har forskellige tilladelser end kategorien er slettet.';
 
@@ -121,14 +119,6 @@ $Definition['A url-friendly version of the category name for better SEO.'] = 'En
 $Definition['Authenticate Url'] = 'Godkende Url';
 $Definition['Authentication'] = 'Godkendelse';
 $Definition['Authentication URL'] = 'Godkendelse URL';
-$Definition['Authors can always edit their posts'] = 'Forfattere kan altid redigere deres indlæg';
-$Definition['Authors can edit for 1 day after posting'] = 'Forfattere kan redigere i 1 dag efter oprettelse';
-$Definition['Authors can edit for 1 month after posting'] = 'Forfattere kan redigere for 1 måned efter oprettelse';
-$Definition['Authors can edit for 1 week after posting'] = 'Forfattere kan redigere i 1 uge efter oprettelse';
-$Definition['Authors can edit for 5 minutes after posting'] = 'Forfattere kan redigere i 5 minutter efter oprettelse';
-$Definition['Authors can edit for 15 minutes after posting'] = 'Forfattere kan redigere i 15 minutter efter oprettelse';
-$Definition['Authors can edit for 30 minutes after posting'] = 'Forfattere kan redigere i 30 minutter efter oprettelse';
-$Definition['Authors cannot edit their posts'] = 'Forfattere ikke kan redigere deres indlæg';
 $Definition['Authors may always edit'] = 'Forfattere kan altid redigere';
 $Definition['Authors may edit for %s'] = 'Forfattere kan redigere til %s';
 $Definition['Authors may never edit'] = 'Forfatterne må aldrig redigere';
@@ -160,14 +150,12 @@ $Definition['by %s'] = 'af %s';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ved at klikke på knappen nedenfor, du vil være at slette brugerkontoen for %s for evigt.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Kan ikke opbygge profiloplysninger, hvis brugeren ikke er defineret.';
-$Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Fange definitioner hele webstedet. Du skal besøge siderne på webstedet for at definitioner til at blive fanget. De erobrede definitioner vil blive sat i <code>captured.php</code> og <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Kategorier &amp; diskussioner';
 $Definition['Categories Layout'] = 'Kategorier Layout';
 $Definition['Category Page Layout'] = 'Kategori sidelayout';
 $Definition['Category Url:'] = 'Kategori Url:';
 $Definition['Censored Words'] = 'Censurerede ord';
 $Definition['Change Log'] = 'Ændringsloggen';
-$Definition['Change tables to InnoDB'] = 'Ændre tabeller til harmløs (Se hjælp)';
 $Definition['Change the look of All Categories'] = 'Du kan ændre udseendet af <b>Alle kategorier</b> side <a href="%s"> her</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Lav om pÂ mÂden som nye brugere registrere pÂ.';
 $Definition['Change your banner'] = 'Ændre din banner';
@@ -175,7 +163,6 @@ $Definition['Changing the Discussions Menu Link'] = 'Ændre linket diskussioner 
 $Definition['Check all permissions that apply for each role'] = 'Tjek alle tilladelser, der gÊlder for hver rolle';
 $Definition['Check all permissions that apply to this role:'] = 'Kontrollér alle tilladelser, der gælder for denne rolle:';
 $Definition['Choose a locale pack'] = 'VÊlg en lokal pakke';
-$Definition['Choose and configure your forum\'s authentication scheme.'] = 'VÊlg og konfigurer dit forums godkendelsesskema.';
 $Definition['Choose who can send out invitations to new members:'] = 'VÊlg hvem der kan sende invitationer til nye medlemmer:';
 $Definition['Client ID'] = 'Klient ID';
 $Definition['comment(s)'] = 'kommentar(er)';

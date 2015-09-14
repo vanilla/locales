@@ -41,7 +41,6 @@ $Definition['Category Url:'] = '카테고리 주소';
 $Definition['Change the way that new users register with the site.'] = '새로운 사용자가 사이트에 등록하는 방식을 변경합니다.';
 $Definition['Check all permissions that apply for each role'] = '각 역할에 할당된 모든 사용 권한을 확인';
 $Definition['Choose a locale pack'] = '현지화 페키지 선택';
-$Definition['Choose and configure your forum\'s authentication scheme.'] = '포럼의 인증 체계를 선택하고 구성합니다.';
 $Definition['Choose who can send out invitations to new members:'] = '신규회원에게 초대장을 보낼 수 있는 회원을 선택해 주십시오:';
 $Definition['comment(s)'] = '개 이상의 댓글을';
 $Definition['Comments per Page'] = '페이지당 댓글 수';

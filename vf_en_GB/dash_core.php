@@ -1,7 +1,5 @@
 <?php
 
-$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Categories</strong> allow you to organise your discussions. Categories can only contain discussions.';
-
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
@@ -15,7 +13,6 @@ $Definition['Authenticate Url'] = 'Authenticate URL';
 $Definition['Ban Item'] = 'Item';
 
 $Definition['Category Url:'] = 'Category URL:';
-$Definition['Create & organize discussion categories, manage your users, and more...'] = 'Create & organise discussion categories, manage your users, and more...';
 $Definition['Create & organize discussion categories and manage your users.'] = 'Create & organise discussion categories and manage your users.';
 $Definition['Create a localization CSV'] = 'Create a localisation CSV';
 

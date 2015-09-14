@@ -32,8 +32,6 @@ $Definition['5 minutes'] = '5 phút';
 
 $Definition['15 minutes'] = '15 phút';
 
-$Definition['<strong>Categories</strong>'] = '<strong>Danh mục</strong>';
-$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = 'C';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Chuy?n c';
 
 $Definition['[%s] Password Reset'] = 'M?t kh?u [%s] ??t l?i';
@@ -77,7 +75,6 @@ $Definition['Category Url:'] = 'Url danh m?c:';
 $Definition['Change the way that new users register with the site.'] = 'Thay ??i c';
 $Definition['Check all permissions that apply for each role'] = 'Ki?m tra t?t c? c';
 $Definition['Check all permissions that apply to this role:'] = 'Ki?m tra t?t c? c';
-$Definition['Choose and configure your forum\'s authentication scheme.'] = 'Ch?n v';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Ch?n m?t vi tr? cho ng??i d';
 $Definition['Choose who can send out invitations to new members:'] = 'Ch?n ng??i c';
 $Definition['Comments Page'] = 'Trang b';

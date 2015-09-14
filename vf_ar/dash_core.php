@@ -37,8 +37,6 @@ $Definition['5 minutes'] = '٥ دقائق';
 
 $Definition['15 minutes'] = '١٥ دقيقة';
 
-$Definition['<strong>Categories</strong>'] = '<strong>أقسام</strong>';
-$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>الأقسام</strong> يسمح لك بترتيب المواضيع في أقسام. الأقسام تحتوي على المواضيع فقط';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>تنبيه!</strong> حذف الصلاحية قد يؤدي إلى عدم قدرة المستخدمين على الدخول للبرنامج.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>تنبيه!</strong> نقل المواضيع إلى أقسام أخرى قد يسبب إختفاء أو (ظهور) تلك المواضيع على حسب إعدادات تلك الأقسام.';
 
@@ -153,10 +151,6 @@ $Definition['Enabled'] = 'نشط';
 $Definition['Enabled %1$s'] = 'مفعل %1$s';
 $Definition['Enter numbers starting at 1.'] = 'أدخل الأرقام ابتدأً من واحد.';
 $Definition['Every 1 minute'] = 'كل دقيقة';
-$Definition['Every 5 minutes'] = 'كل 5 دقائق';
-$Definition['Every 5 seconds'] = 'كل 5 ثواني';
-$Definition['Every 10 seconds'] = 'كل 10 ثانية';
-$Definition['Every 30 seconds'] = 'كل 30 ثانية';
 $Definition['Every Page'] = 'كل الصفحات';
 
 $Definition['From'] = 'من';

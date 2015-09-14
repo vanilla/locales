@@ -9,7 +9,6 @@ $Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
 $Definition['BanReason.8'] = 'Banned by warnings.';
 
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
-$Definition['Change tables to InnoDB'] = 'Change tables to InnoDB (see help)';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Commenting as %1$s (%2$s)'] = 'Commenting as %1$s <span class="SignOutWrap">(%2$s)</span>';

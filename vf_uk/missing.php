@@ -27,7 +27,6 @@ $Definition['BanReason.8'] = 'Banned by warnings.';
 $Definition['Ban Type'] = 'Type';
 
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
-$Definition['Change tables to InnoDB'] = 'Change tables to InnoDB (see help)';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';

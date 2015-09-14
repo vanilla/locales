@@ -45,7 +45,6 @@ $Definition['Category Url:'] = 'Url kategorii:';
 $Definition['Change the way that new users register with the site.'] = 'Zmień sposób, w jaki nowy użytkownik może zarejestrować się na stronie.';
 $Definition['Check all permissions that apply for each role'] = 'Sprawdź wszystkie uprawnienia, przypisane do każdej roli.';
 $Definition['Choose a locale pack'] = 'Wybierz pakiet lokalizacyjny';
-$Definition['Choose and configure your forum\'s authentication scheme.'] = 'Wybierz i skonfiguruj schemat uwierzytelniania na forum.';
 $Definition['Choose who can send out invitations to new members:'] = 'Wybierz kto może wysyłać zaproszenia do nowych członków:';
 $Definition['comment(s)'] = 'komentarz(e)';
 $Definition['Comments per Page'] = 'Komentarzy na stronę';

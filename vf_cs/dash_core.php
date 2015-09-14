@@ -36,8 +36,6 @@ $Definition['5 minutes'] = '5 minut';
 
 $Definition['15 minutes'] = '15 minut';
 
-$Definition['<strong>Categories</strong>'] = '<strong>Kategorie</strong>';
-$Definition['<strong>Categories</strong> allow you to organize your discussions. Categories can only contain discussions.'] = '<strong>Kategorie</strong> umožňují lepší rozdělení fóra a lze do nich vkládat diskuse.';
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Pozor!</strong> Smazání role se může projevit u uživatelů, kteří nemají k aplikaci přístup.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Pozor!</strong> Přesouvání diskuzí do náhradní kategorie může vést k mizení (objevování) příspěvku v závislosti na jiných právech dané kategorie.';
 
@@ -106,10 +104,6 @@ $Definition['Every %s minutes'] = 'Každých %s minut';
 $Definition['Every %s second'] = 'Každou sekundu';
 $Definition['Every %s seconds'] = 'Každých %s sekund';
 $Definition['Every 1 minute'] = 'Každou 1 minutu';
-$Definition['Every 5 minutes'] = 'Každých 5 minut';
-$Definition['Every 5 seconds'] = 'Každých 5 sekund';
-$Definition['Every 10 seconds'] = 'Každých 10 sekund';
-$Definition['Every 30 seconds'] = 'Každých 30 sekund';
 
 $Definition['Forum Settings'] = 'Nastavení fóra';
 
