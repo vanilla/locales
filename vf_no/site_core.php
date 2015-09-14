@@ -957,6 +957,7 @@ $Definition['RoleID'] = 'rolle';
 $Definition['Roles'] = 'Roller';
 $Definition['roles'] = 'roller';
 $Definition['RSS Feed'] = 'RSS-feed';
+$Definition['RSVP'] = 'Svar';
 
 $Definition['Save'] = 'Lagre';
 $Definition['Save Comment'] = 'Lagre kommentar';

@@ -963,6 +963,7 @@ $Definition['role'] = 'rol';
 $Definition['RoleID'] = 'rol';
 $Definition['Roles'] = 'Rollen';
 $Definition['roles'] = 'rollen';
+$Definition['RSVP'] = 'Reageren';
 
 $Definition['Save'] = 'Opslaan';
 $Definition['Save Comment'] = 'Sla Reactie op';

@@ -55,6 +55,7 @@ $Definition['AboutEmbedding'] = 'Dengan penanaman, memungkinkan semua atau sebag
 $Definition['About Vanilla Statistics'] = 'Mengenai Statistik Vanilla';
 $Definition['Above Main Content'] = 'Atas Konten Utama';
 $Definition['Accepted'] = 'Diterima';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Akses forum komunitas Anda dengan mengklik tautan "Kunjungi Situs" di puncak laman ini, atau dengan <a href={/,url}>mengklik di sini</a>. Semua pengguna & konsumen Anda akan melihat forum komunitas saat mereka mengunjungi <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Sinkronisasi Akun Gagal';
 $Definition['Action'] = 'Aksi';
 $Definition['Actions Based on Votes'] = 'Aksi berdasarkan voting';
@@ -78,6 +79,7 @@ $Definition['Advanced'] = 'Mahir';
 $Definition['Advanced Editor Settings'] = 'Setelan penyunting mahir';
 $Definition['Advanced Embed Settings'] = 'Setelan Mahir Penanaman';
 $Definition['Advanced Forum Settings'] = 'Setelan Mahir Forum';
+$Definition['AdvancedNotifications'] = 'PemberitahuanLanjut';
 $Definition['Advanced Options'] = 'Opsi Mahir';
 $Definition['Advanced Settings'] = 'Setelan Mahir';
 $Definition['Advanced settings for embedded community elements'] = 'Setelan mahir untuk elemen komunitas tertanam';
@@ -169,6 +171,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Cannot build profile information if user is not defined.'] = 'Tidak dapat membuat informasi profil bila pengguna tidak didefinisikan.';
 $Definition['Capture definitions throughout the site. You must visit the pages in the site in order for the definitions to be captured. The captured definitions will be put in the <code>captured.php</code> and <code>captured_admin.php</code>.'] = 'Menangkap seluruh definisi di situs. Anda harus mengunjungi situs untuk definisi yang akan ditangkap. Definisi yang ditangkap akan ditempatkan pada <code>captured.php</code> dan <code>captured_admin.php</code>.';
 $Definition['Categories &amp; Discussions'] = 'Kategori &amp; Diskusi';
+$Definition['Categories are used to organize discussions.'] = 'Kategori digunakan untuk membantu para pengguna Anda mengorganisir diskusi mereka agar dapat berguna bagi komunitas Anda.';
 $Definition['Categories Layout'] = 'Susunan Kategori';
 $Definition['Category Page Layout'] = 'Susunan Halaman Kategori';
 $Definition['Category Url:'] = 'Url Kategori:';
@@ -177,6 +180,7 @@ $Definition['Change Log'] = 'Ubah Log';
 $Definition['Change tables to InnoDB'] = 'Ubah tabel ke InnoDB (lihat bantuan)';
 $Definition['Change the look of All Categories'] = 'Anda dapat mengubah tampilan halaman <b>Semua Kategori</b> <a href="%s">di sini</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Ubah cara pendaftaran pengguna di situs.';
+$Definition['Change the way your community works with plugins.'] = 'Ubah kinerja komunitas Anda dengan plugin. Kami telah membundel aneka plugin populer dengan peranti lunak, dan lain-lain yang tersedia di daring.';
 $Definition['Change your banner'] = 'Ubah banner anda';
 $Definition['Changing the Discussions Menu Link'] = 'Pengubahan Tautan Menu Diskusi';
 $Definition['Check all permissions that apply for each role'] = 'Periksa semua perizinan yang diterapkan untuk setiap perannya';
@@ -356,6 +360,7 @@ $Definition['Every 5 seconds'] = 'Setiap 5 detik';
 $Definition['Every 10 seconds'] = 'Setiap 10 detik';
 $Definition['Every 30 seconds'] = 'Setiap 30 detik';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Setiap pengeditan atau penghapusan direkam di sini. Gunakan &lsquo;Pulihkan&rsquo; untuk membatalkan perubahan apapun.';
+$Definition['Everyone who signs up gets a profile page.'] = 'Semua anggota yang mendaftar masuk ke komunitas Anda memiliki laman profil publik di mana mereka dapat mengunggah foto mereka, mengelola setelan profil, serta bersosialisasi dalam komunitas. Sebaiknya Anda <a href="{/profile,url}">mengatur profil Anda sekarang</a>.';
 $Definition['Every Page'] = 'Setiap Halaman';
 $Definition['Everything is ok.'] = 'Semuanya ok.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Setiap pengguna di situs anda diberikan setidaknya satu peran. Peran digunakan untuk menentukan apa saja yang boleh dilakukan oleh pengguna tersebut.';
@@ -384,8 +389,15 @@ $Definition['Frequency'] = 'Frekuensi';
 $Definition['From'] = 'Dari';
 
 $Definition['Garden'] = 'Kebun';
+$Definition['Garden.Import.Complete.Description'] = 'Anda berhasi menyelesaikan impor.
+Klik <b>Selesai</b> jika Anda sudah siap.';
+$Definition['Garden.Import.Continue.Description'] = 'Tampaknya Anda sedang mengimpor.
+   Silakan pilih salah satu opsi berikut.';
+$Definition['Garden.Import.Description'] = 'Deskripsi.Impor.Taman';
 $Definition['Garden.Import.InputInstructions'] = 'Masukkan email dan password admin dari data yang sedang diimpor.';
 $Definition['Garden.Import.Merge'] = 'Satukan dengan forum ini.';
+$Definition['Garden.Import.Merge.Description'] = 'Ini akan menyatukan semua data pengguna dan diskusi dari impor ke dalam forum ini.
+<b>Peringatan: Jika Anda menyatukan data yang sama dua kali berarti Anda menduplikasi diskusi.</b>';
 $Definition['Garden.Import.Overwrite'] = 'Timpa forum ini.';
 $Definition['Garden.Import.Overwrite.Description'] = 'Peringatan: Semua data pada forum ini akan ditimpa.';
 $Definition['Garden.StatisticsDisabled'] = 'Anda telah menonaktifkan Statistik Vanilla pada file konfigurasi anda.';
@@ -415,6 +427,8 @@ $Definition['Hash Algorithm'] = 'Hash Algoritma';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} telah menambahkan sebuah akun {RegardingUserID,user}.';
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} telah mengubah foto profil {ActivityUserID,your}.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} telah menyetujui aplikasi {RegardingUserID,user}.';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Perhatian!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Perhatian! Ini adalah peran khusus yang tidak memperkenankan sesi aktif. Atas alasan ini, pilihan izin telah dibatasi hanya untuk "melihat" perizinan.';
 $Definition['Help &amp; Tutorials'] = 'Bantuan &amp; Tutorial';
@@ -465,6 +479,7 @@ $Definition['Invited by'] = 'Diundang oleh';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Tampaknya basisdata yang anda spesifikasikan belum tersedia. Sudahkah anda membuatnya? Apakah anda salah tulis nama? Basisdata melaporkan: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Adalah ide yang bagus menjaga jumlah maksimal dari karakter yang diperkenankan pada komentar di bawah ukuran yang rasional.';
 
+$Definition['jsConnect Client Libraries'] = 'jsHubungkan Pustaka Klien';
 $Definition['jsConnect Documentation'] = 'Dokumentasi jsConnect';
 $Definition['JS Connect Settings'] = 'Setelan JS Connect';
 
@@ -489,6 +504,7 @@ $Definition['Link my existing account'] = 'Tautkan akun saya yang sudah ada';
 $Definition['Locale Key (Folder)'] = 'Key Lokal (Folder)';
 $Definition['Locale Name'] = 'Nama Lokal';
 $Definition['Locales'] = 'Lokal';
+$Definition['Locales allow you to support other languages on your site.'] = 'Bahasa mengizinkan Anda mendukung bahasa lainnya pada situs Anda. Aktif dan nonaktifkan bahasa yang Anda inginkan agar tersedia di sini.';
 $Definition['Locales are in your %s folder.'] = 'Dengan Lokal memungkinkan anda untuk mendukung bahasa lainnya pada situs anda. Segera setelah sebuah lokal ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
 $Definition['Location'] = 'Lokasi';
 $Definition['LogoBrowse'] = 'Ramban logo banner baru bila anda hendak menggantinya:';
@@ -515,6 +531,7 @@ $Definition['Manage your Plugins'] = 'Kelola Plugin anda';
 $Definition['Managing Categories'] = 'Kelola Kategori';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Menandai sesuatu sebagai BUKAN spam akan menempatkan mereka kembali ke forum anda.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Menandai sesuatu sebagai bukan spam akan menempatkan mereka kembali ke forum anda.';
+$Definition['Max %s length'] = 'Maks. %s panjang';
 $Definition['Max Comment Length'] = 'Maks Panjang Komentar';
 $Definition['Max height of %s'] = 'Tinggi maks dari %s';
 $Definition['Max height of %s in pixels'] = 'Tinggi maks dari %s dalam piksel';
@@ -594,16 +611,27 @@ $Definition['Permissions'] = 'Perizinan';
 $Definition['Place nested categories in a comma-delimited list when they are'] = 'Tempatkan kategori bercabang pada daftar dengan pemisah koma';
 $Definition['Please choose an authenticator to configure.'] = 'Pilih salah satu autentikator untuk mengkonfigurasi';
 $Definition['Please Confirm'] = 'Silahkan Konfirmasi';
+$Definition['Plugin.Enabled'] = 'Plugin.Aktif';
 $Definition['PluginHelp'] = 'Plugin memungkinkan anda untuk menambah fungsionalitas situs anda.<br />Segera setelah sebuah plugin ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
 $Definition['Plugins'] = 'Plugin';
+$Definition['Pocket'] = 'Saku';
 $Definition['Pockets'] = 'Pocket';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket ditampilkan di antara setiap diskusinya pada daftar diskusi utama. Semenjak diskusi yang biasanya dalam tag &lt;li&gt;..&lt;/li&gt; maka anda pun perlu untuk membungkus pocket bersamaan dengan tag tersebut.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket memungkinkan anda untuk menambahkan free-form HTML ke berbagai tempat di aplikasi.';
 $Definition['Polls'] = 'Pemungutan';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Cegah spam di forum anda dengan membatasi jumlah diskusi &amp; komentar yang bisa dikirim pengguna dalam periode waktu tertentu.';
+$Definition['Private Key'] = 'Kunci Privat';
 $Definition['Provider'] = 'Penyedia';
 $Definition['Proxy Connect'] = 'Koneksi Proxy';
+$Definition['ProxyConnect.NoAuthenticate'] = 'Tampaknya kami tak dapat
+     menerima sesi masuk dari
+OtentikasiURL yang Anda
+     tentukan. Harap pastikan Anda masuk ke
+aplikasi remote Anda
+     sebelum melakukan tes ini.';
 $Definition['ProxyConnect.RimBlurb'] = 'Bila anda menggunakan ProxyConnect yang disertai dukungan resmi plugin aplikasi terkendali seperti plugin wordpress-proxyconnect yang kami miliki, nilai-nilai ini akan tersedia pada layar konfigurasi plugin tersebut.';
+$Definition['ProxyConnect.TestIntro'] = 'Antarmuka ini mengizinkan Anda menguji konfigurasi dan memastikan bahwa
+ProxyConnect bekerja dengan baik.';
 $Definition['ProxyConnect.TestSettings'] = 'Segera setelah anda mengkonfigurasi ProxyConnect di bawah ini, <b>dan menyimpan perubahan anda</b>, anda dapat menguji setelan baru anda dengan menekan \'Tes Setelan ProxyConnect\'';
 $Definition['ProxyConnect has been configured to work with your blog, <b>%s</b>. Now would be a good time to Activate the authenticator and do a little testing.'] = 'ProxyConnect telah dikonfigurasi supaya dapat bekerja dengan blog anda, <b>%s</b>. Sekarang saat yang bagus untuk Mengaktivasi autentikator dan lakukan sedikit tes.';
 $Definition['Proxy Connect ships with several pre-built <b>Remote Integration Managers</b>, each designed to automate the setup process. If your remote application is listed in the dropdown below, select it now, otherwise choose "Manual Integration".'] = 'Proxy Connect dikemas bersama beberapa pre-built <b>Remote Integration Managers</b>, yang masing-masing didesain mengotomatisasi proses penyetelannya. Bila aplikasi terkendali anda telah terdaftar pada dropdown di bawah ini, pilihlah sekarang, bila tidak pilihlah "Integrasi Manual".';
@@ -648,6 +676,7 @@ $Definition['Rescan'] = 'Pindai ulang';
 $Definition['Reset my password'] = 'Setel ulang password saya';
 $Definition['Reset password and send email notification to user'] = 'Perbarui password dan kirim email notifikasi ke pengguna';
 $Definition['Resetting the password for %s.'] = 'Penyetelan ulang password untuk %s.';
+$Definition['Restart'] = 'Mulai ulang';
 $Definition['Restore'] = 'Pulihkan';
 $Definition['Restoring your selection removes the items from this list.'] = 'Saat anda memulihkan, item-item akan dihilangkan dari daftar ini dan dikembalikan lagi ke situs.';
 $Definition['Reveal Password'] = 'Ungkap Password';
@@ -656,6 +685,7 @@ $Definition['Role Name'] = 'Nama Peran';
 $Definition['Roles & Permissions'] = 'Peran & Perizinan';
 $Definition['Roles determine user\'s permissions.'] = 'Setiap pengguna di situs anda setidaknya diterapkan satu peran. Peran digunakan untukmenentukan apa saja yang boleh dilakukan oleh pengguna.';
 $Definition['Role to Grant'] = 'Peran Keputusan';
+$Definition['Route'] = 'Rute';
 $Definition['Route Expression'] = 'Ekspresi Route';
 $Definition['Routes'] = 'Route';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Route dapat digunakan untuk mengalihkan pengguna ke bermacam bagian dari situs anda tergantung dari url-nya.';
@@ -686,8 +716,10 @@ $Definition['Show Pocket Locations'] = 'Tampilkan Lokasi Pocket';
 $Definition['SignedOut'] = 'Anda telah keluar.';
 $Definition['Sign in'] = 'Masuk';
 $Definition['Sign In Url'] = 'Url Sign In';
+$Definition['Silver'] = 'Perak';
 $Definition['Site Description'] = 'Deskripsi Situs';
 $Definition['Site Name'] = 'Nama Situs';
+$Definition['Slug'] = 'Siput';
 $Definition['SMTP Host'] = 'Host SMTP';
 $Definition['SMTP Password'] = 'Password SMTP';
 $Definition['SMTP Port'] = 'Port SMTP';
@@ -698,6 +730,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spoof'] = 'Lelucon';
 $Definition['Start Discussions'] = 'Mulai Dikusi';
 $Definition['Start Import'] = 'Mulai Impor';
+$Definition['Start the first discussion.'] = 'Meriahkan komunitas Anda dengan <a href="{/post/discussion,url}">memulai diskusi pertama</a> sekarang.';
 $Definition['Statistics'] = 'Statistik';
 $Definition['Stop Forum Spam Settings'] = 'Setelan Larangan Spam Forum';
 $Definition['Styles'] = 'Corak';
@@ -708,6 +741,7 @@ $Definition['System'] = 'Sistem';
 
 $Definition['Table Layout'] = 'Susunan Tabel';
 $Definition['take away'] = 'ambil';
+$Definition['Temporary (302)'] = 'Sementara (302)';
 $Definition['Test'] = 'Tes';
 $Definition['Testing'] = 'Pengujian';
 $Definition['Test Mode'] = 'Mode Tes: Pocket hanya akan ditampilkan pada pocket administrator.';
@@ -719,6 +753,7 @@ $Definition['Thank You!'] = 'Terima Kasih!';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'Autentikator %s tidak memiliki opsi konfigurasi yang disesuaikan.';
 $Definition['The %s badge has already been given to %s.'] = 'Lencana %s sudah diberikan kepada %s.';
 $Definition['The %s has been deleted.'] = '%s sudah dihapus.';
+$Definition['The %s has been flagged for moderation.'] = '%s telah dipanjikan untuk moderasi.';
 $Definition['The %s locale pack does not exist.'] = 'Paket lokal %s tidak tersedia.';
 $Definition['The %s table is not in the correct format.'] = 'Tabel %s tidak dalam format yang benar.';
 $Definition['The %s was already approved by %s on %s.'] = '%s sudah disetujui oleh %s pada %s.';
@@ -727,6 +762,8 @@ $Definition['The addon has already been downloaded.'] = 'Addon sudah diunduh.';
 $Definition['The banner logo appears at the top of your forum.'] = 'Banner logo akan tampil di posisi atas forum Anda.';
 $Definition['The banner title appears on the top-left of every page.'] = 'Judul banner akan tampil di posisi kiri-atas setiap halaman.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Judul banner akan tampil pada banner situs anda dan pada baris judul peramban anda. Ia harus tidak lebih dari 20 karakter. Bila logo banner diunggah, ia akan menggantikan judul banner pada halaman forum anda. Juga, selalu ingat bahwa beberapa tema mungkin menyembunyikan judul banner ini.';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Formulir pendaftaran dasar mewajibkan</strong> pengguna baru untuk menyalin teks dari gambar CAPTCHA guna menghindari spammer dari situs ini. Anda memerlukan akun di <a href="http://recaptcha.net/">recaptcha.net</a>. Pendaftaran GRATIS dan mudah. Setelah mendaftar, kembalilah ke sini dan masukkan setelan berikut:';
+$Definition['The Basics'] = 'Hal Dasar';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'Behind-the-scenes URL yang berbagi informasi identitas dengan Vanilla';
 $Definition['The client ID uniqely identifies the site.'] = 'ID client secara unik mengidentifikasi situs. Anda dapat membangkitkan ID baru melalui tombol pada bagian bawah halaman ini.';
 $Definition['The content you were looking for has been deleted.'] = 'Konten yang anda cari sudah dihapus.';
@@ -784,12 +821,14 @@ $Definition['This connection is in test-mode.'] = 'Koneksi ini dalam modus-tes.'
 $Definition['This Database'] = 'Basisdata Ini';
 $Definition['This forum is currently set to invitation only mode.'] = 'Forum ini telah disetel pada modus hanya mengundang saja.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Ini adalah induk kategori yang tidak memperkenankan diskusi.';
+$Definition['This is the administrative dashboard for your new community.'] = 'Ini adalah dasbor administratif untuk komunitas baru Anda. Simaklah opsi konfigurasi di samping. Dari situ Anda dapat mengatur kinerja komunitas Anda. <b>Secara default, hanya pengguna dengan status "Administrator" dapat melihat bagian komunitas ini.</b>';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Ini adalah kali pertama anda mengunjungi forum diskusi.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Opsi ini menampilkan/menyembunyikan lokasi di mana pocket dapat bekerja, namun hanya untuk pengguna yang mendapat izin untuk menambah/mengeditnya. Cobalah untuk menampilkan lokasinya lalu kunjungi situs anda.';
 $Definition['This page requires Javascript.'] = 'Halaman ini memerlukan Javascript.';
 $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you click Settings after enabling this plugin to enable OpenID signin</b>.'] = 'Plugin ini memungkinak pengguna masuk dengan OpenID. <b>Pastikan anda telah mengklik Setelan segera setelah mengaktifkan plugin ini untuk mulai mengaktifkan OpenID signin</b>.';
 $Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Plugin ini memungkinkan pengguna untuk masuk dengan akun Google mereka. <b>Pastikan anda mengklik Setelan segera setelah mengaktifkan plugin ini untuk mulai mengaktifkan Google signin</b>.';
 $Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'Plugin ini menyediakan pengunggahan file dan melampirkannya ke diskusi dan komentar.';
+$Definition['This pocket is an ad.'] = 'Saku ini adalah iklan.';
 $Definition['This show the plugin on only selected discussion pages'] = 'Ini menampilkan plugin yang terpasang pada halaman diskusi terpilih';
 $Definition['This theme has additional options.'] = 'Tema ini punya tambahan opsi pada halaman %s.';
 $Definition['This theme has customizable text.'] = 'Tema ini memiliki teks yang dapat anda sesuaikan.';
@@ -815,6 +854,7 @@ $Definition['unknown'] = 'tidak diketahui';
 $Definition['Unlimited'] = 'Tidak terbatas';
 $Definition['Unviersal Forum Embed Code'] = 'Kode Tanam Universal Forum';
 $Definition['Use an SMTP server to send email'] = 'Gunakan SMTP server untuk mengirim email';
+$Definition['Use asterisks for wildcards'] = 'Gunakan tanda bintang untuk wildcard, cth: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Gunakan Kategori';
 $Definition['Use categories to organize discussions'] = 'Gunakan kategori untuk mengorganisir diskusi';
 $Definition['Use delta indexes'] = 'Gunakan indeks delta (direkomendasikan untuk situs besar)';
@@ -833,6 +873,7 @@ $Definition['Users that get this reaction get %+d point.'] = 'Pengguna yang mend
 $Definition['Users that get this reaction get %+d points.'] = 'Pengguna yang mendapat reaksi ini mendapat %+d poin.';
 $Definition['User Summary'] = 'Ringkasan Pengguna';
 $Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'Para pengguna akan diterapkan pada peran ini hingga mereka mengkonfirmasi alamat email mereka.';
+$Definition['Users with the no ads permission will not see this pocket.'] = 'Pengguna dengan izin bebas iklan takkan melihat saku ini.';
 $Definition['UserWipe'] = 'Konten Kosong Pengguna';
 $Definition['UserWipeMessage'] = 'Hapus pengguna dan timpa semua konten pengguna dengan sebuah pesan yang menyatakan pengguna telah dihapus. Hal ini memberi isyarat visual bahwa telah terjadi kehilangan informasi.';
 $Definition['Use the content at this url as your homepage.'] = 'Pilih laman yang perlu dilihat orang-orang saat mereka berkunjung: <strong style="white-space: nowrap;">%s</strong>';
@@ -866,6 +907,8 @@ $Definition['View Page'] = 'Lihat Halaman';
 $Definition['Warning'] = 'Peringatan';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Peringatan: Semua data anda akan hilang. Segera setelah anda hapus, sudah tidak ada lagi jalan untuk memulihkannya.';
 $Definition['Warning: deleting is permanent'] = 'Peringatan: item-item yang dihapus dipindahkan dari daftar ini dan tidak dapat dikembalikan lagi.';
+$Definition['Warning: Loading tables can be slow.'] = '<b>Peringatan</b>: Konfigurasi server Anda tak mendukung muatan data cepat.
+Jika Anda mengimpor berkas berukuran sangat besar (cth: lebih dari 200.000 komentar) mungkin sebaiknya Anda mengganti konfigurasi Anda. Klik <a href="http://vanillaforums.com/porter">di sini</a> untuk informasi lebih jauh.';
 $Definition['Warning: This is for advanced users.'] = '<b>Peringatan</b>: Ini untuk pengguna tingkat lanjut dan memerlukan perubahan tambahan pada web server anda. Ini biasanya hanya tersedia bila anda menggunakan dedicated hosting atau vps. Jangan lakukan ini bila anda tidak yakin untuk melakukannya.';
 $Definition['Welcome to Vanilla!'] = 'Selamat datang di Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Selamat datang di Dashboard anda';
@@ -895,6 +938,10 @@ $Definition['You cannot disable the OpenID plugin because the GoogleSignIn plugi
 $Definition['You cannot edit the thumbnail of another member.'] = 'Anda tidak dapat mengedit thumbnail dari anggota lain.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Anda tidak dapat menghapus undangan yang telah diterima.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Anda tidak dapat menghapus kategori tersisa yang memperkenankan diskusi';
+$Definition['You can place files in your /uploads folder.'] = 'Jika berkas Anda terlalu
+           besar untuk diunggah langsung ke laman ini Anda dapat memasukkannya ke folder
+           /unggah Anda. Pastikan nama berkas dimulai dengan kata <b>ekspor</b> dan berakhir
+           dengan salah satu dari ekstensi <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'Anda tidak punya izin untuk melihat profil lainnya.';
 $Definition['You have %s invitations left for this month.'] = 'Anda memiliki sisa %s undangan untuk bulan ini.';
 $Definition['You must be authenticated in order to use this form.'] = 'Anda harus terotentifikasi agar bisa menggunakan formulir ini.';

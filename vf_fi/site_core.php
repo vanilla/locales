@@ -992,7 +992,7 @@ $Definition['RoleID'] = 'rooli';
 $Definition['Roles'] = 'Roolit';
 $Definition['roles'] = 'roolit';
 $Definition['RSS Feed'] = 'RSS-syöte';
-$Definition['RSVP'] = 'Vastausta pyydetään.';
+$Definition['RSVP'] = 'Vastausta';
 
 $Definition['Save'] = 'Tallenna';
 $Definition['Save Comment'] = 'Tallenna viesti';
