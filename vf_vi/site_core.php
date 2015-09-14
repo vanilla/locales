@@ -965,6 +965,7 @@ $Definition['role'] = 'vai trò';
 $Definition['RoleID'] = 'vai trò';
 $Definition['Roles'] = 'Vai trò';
 $Definition['roles'] = 'vai trò';
+$Definition['RSVP'] = 'Hồi đáp';
 
 $Definition['Save'] = 'Lưu';
 $Definition['Save Comment'] = 'Lưu bình luận';

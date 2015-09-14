@@ -970,6 +970,7 @@ $Definition['RoleID'] = 'رتبة';
 $Definition['Roles'] = 'الرتب';
 $Definition['roles'] = 'الأدوار';
 $Definition['RSS Feed'] = '‎تزويد بمقتطفات الأخبار أر أس أس';
+$Definition['RSVP'] = 'أجبني لو سمحت';
 
 $Definition['Save'] = 'حفظ';
 $Definition['Save Comment'] = 'حفظ التعليق';

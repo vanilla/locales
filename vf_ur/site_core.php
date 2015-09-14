@@ -705,6 +705,7 @@ $Definition['role'] = 'کردار';
 $Definition['RoleID'] = 'کردار';
 $Definition['Roles'] = 'کردار';
 $Definition['roles'] = 'کردار';
+$Definition['RSVP'] = 'فورا جواب';
 
 $Definition['Save'] = 'محفوظ';
 $Definition['Save Comment'] = 'تبصرہ محفوظ کریں';

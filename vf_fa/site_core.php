@@ -740,6 +740,7 @@ $Definition['role'] = 'نقش';
 $Definition['RoleID'] = 'نقش';
 $Definition['Roles'] = 'نقش(ها)';
 $Definition['roles'] = 'قوانین';
+$Definition['RSVP'] = 'پاسخ دهید';
 
 $Definition['Save'] = 'اندوختن';
 $Definition['Save Comment'] = 'ذخیرهٔ دیدگاه';

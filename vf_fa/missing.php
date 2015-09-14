@@ -117,7 +117,6 @@ $Definition['Ranks.NotificationFormat'] = 'Congratulations! You\'ve been promote
 $Definition['RecipientUserID'] = 'recipient';
 $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. Sent from {/,exurl}.';
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
-$Definition['RSVP'] = 'Respond';
 
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['Source Code'] = 'Code';

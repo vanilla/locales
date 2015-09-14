@@ -963,6 +963,7 @@ $Definition['RoleID'] = 'funkce';
 $Definition['Roles'] = 'Funkce';
 $Definition['roles'] = 'role';
 $Definition['RSS Feed'] = 'RSS Kanál';
+$Definition['RSVP'] = 'Odpovězte prosím';
 
 $Definition['Save'] = 'Uložit';
 $Definition['Save Comment'] = 'Uložit komentář';

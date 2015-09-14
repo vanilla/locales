@@ -964,6 +964,7 @@ $Definition['RoleID'] = '역할';
 $Definition['Roles'] = '역할';
 $Definition['roles'] = '역할';
 $Definition['RSS Feed'] = 'RSS 피드';
+$Definition['RSVP'] = '답장';
 
 $Definition['Save'] = '저장';
 $Definition['Save Comment'] = '코멘트 저장';

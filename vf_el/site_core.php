@@ -969,6 +969,7 @@ $Definition['RoleID'] = 'ρόλος';
 $Definition['Roles'] = 'Ρόλοι';
 $Definition['roles'] = 'ρόλοι';
 $Definition['RSS Feed'] = 'Ροή δεδομένων RSS';
+$Definition['RSVP'] = 'Απαντήστε';
 
 $Definition['Save'] = 'Αποθήκευση';
 $Definition['Save Comment'] = 'Αποθήκευση Σχόλιου';

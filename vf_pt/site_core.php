@@ -977,6 +977,7 @@ $Definition['RoleID'] = 'cargo';
 $Definition['Roles'] = 'Cargos';
 $Definition['roles'] = 'cargos';
 $Definition['RSS Feed'] = 'Fluxo RSS';
+$Definition['RSVP'] = 'Responder';
 
 $Definition['Save'] = 'Salvar';
 $Definition['Save Comment'] = 'Salvar Comentário';
