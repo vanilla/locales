@@ -383,6 +383,7 @@ $Definition['Get More Themes'] = 'Haal meer Thema\'s op';
 $Definition['Getting Started'] = 'Aan de Slag';
 $Definition['Getting Started with Vanilla'] = 'Aan de Slag met Vanilla';
 $Definition['give'] = 'geef';
+$Definition['Give a Badge'] = 'Geef een Badge';
 $Definition['Given Indexes'] = 'Gegeven Indexen';
 $Definition['Guest'] = 'Gast';
 $Definition['Guest roles'] = 'Activeer alle rollen die aan gasten gegeven moeten worden.';
@@ -406,6 +407,7 @@ $Definition['Hide signatures on embedded comments'] = 'Verberg handtekeningen in
 $Definition['Homepage'] = 'Hoofdpagina';
 $Definition['Homepage Title'] = 'Hoofdpagina Titel';
 $Definition['How to use themes'] = 'Hoe gebruik je thema\'s';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Als een bannerlogo wordt geüpload zal het de bannertitel op forumpagina\'s voor gebruikers vervangen.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Als je het waarschuwingsniveau wilt verlagen moet je een waarschuwing verwijderen.';
@@ -420,6 +422,11 @@ $Definition['Introducing Vanilla Reactions and Badges'] = 'Voorgesteld: Vanilla 
 $Definition['Invalid category for deletion.'] = 'Ongeldige categorie om te verwijderen.';
 $Definition['Invitation'] = 'Uitnodiging';
 $Definition['Invitation Code'] = 'Uitnodigingscode';
+$Definition['InvitationMessage'] = 'Hey vriend!
+
+Bekijk mijn nieuwe gemeenschapsforum die ik net heb gestart. Het is een geweldige plek om met elkaar op het internet te praten.
+
+Volg de link hieronder om in te loggen.';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Wanneer je registratie via uitnodiging gebruikt, staat er bij gebruikers de link <a href="%s" class="Popup">Mijn Uitnodigingen</a> op de profielpagina\'s.';
 $Definition['Invitations per month'] = 'Uitnodigingen per maand';
 $Definition['Invitations will expire'] = 'Uitnodigingen zullen aflopen';

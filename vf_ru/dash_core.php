@@ -387,6 +387,7 @@ $Definition['Get More Themes'] = 'Новые темы';
 $Definition['Getting Started'] = 'Обзорная информация';
 $Definition['Getting Started with Vanilla'] = 'Добро пожаловать в мир Vanilla!';
 $Definition['give'] = 'дать';
+$Definition['Give a Badge'] = 'Дать значок';
 $Definition['Given Indexes'] = 'Выданные индексы';
 $Definition['Guest'] = 'Гость';
 $Definition['Guest roles'] = 'Отметить все группы, которые относятся к гостям.';
@@ -410,6 +411,7 @@ $Definition['Hide signatures on embedded comments'] = 'Скрыть подпис
 $Definition['Homepage'] = 'Главная страница';
 $Definition['Homepage Title'] = 'Заголовок домашней страницы';
 $Definition['How to use themes'] = 'Используй новые темы';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Если логотип баннера будет загружен, он заменит заголовок баннера на публичных страницах форума.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Если вы хотите уменьшить уровень предупреждений, тогда удалите предупреждение.';

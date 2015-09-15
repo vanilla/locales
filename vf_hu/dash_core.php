@@ -411,6 +411,7 @@ $Definition['Hide signatures on embedded comments'] = 'Aláírás elrejtése id�
 $Definition['Homepage'] = 'Főoldal';
 $Definition['Homepage Title'] = 'Honlap címe';
 $Definition['How to use themes'] = 'Hogyan használj témákat';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Ha egy banner logo-t feltöltesz, le fogja cserélni a banner címsort a felhasználói fórum oldalakon.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Ha csökkenteni szeretnéd a figyelmeztetési szintet, akkor törölnöd kell egy figyelmeztetést.';

@@ -388,6 +388,7 @@ $Definition['Get More Themes'] = 'Obtener más Temas';
 $Definition['Getting Started'] = 'Cómo empezar';
 $Definition['Getting Started with Vanilla'] = 'Cómo empezar con Vanilla';
 $Definition['give'] = 'Dar';
+$Definition['Give a Badge'] = 'Dar una Insignia';
 $Definition['Given Indexes'] = 'Índices determinados';
 $Definition['Guest'] = 'Invitado';
 $Definition['Guest roles'] = 'Mira todos los roles que deberían ser aplicados a los invitados. ';
@@ -411,6 +412,7 @@ $Definition['Hide signatures on embedded comments'] = 'Esconder firmas en coment
 $Definition['Homepage'] = 'Página de Incio';
 $Definition['Homepage Title'] = 'Título de Página de Inicio';
 $Definition['How to use themes'] = 'Como usar los temas ';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si se sube el logotipo de un banner, éste sustituirá al título del banner en las páginas de foros interactivos.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Si quieres disminuir el nivel de advertencia, debes eliminar una advertencia.';
@@ -425,6 +427,11 @@ $Definition['Introducing Vanilla Reactions and Badges'] = 'Presentando las reacc
 $Definition['Invalid category for deletion.'] = 'Categoría inválida para su eliminación.';
 $Definition['Invitation'] = 'Invitación ';
 $Definition['Invitation Code'] = 'Código de Invitación';
+$Definition['InvitationMessage'] = '¡Hola, amigo!
+
+Echa un vistazo al nuevo foro comunitario que acabo de crear. Es un lugar fantástico para que podamos conversar en línea.
+
+Haz clic en el siguiente enlace para acceder.';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Cuando usas el registro por invitación, los usuarios tendrán un enlace llamado <a href="%s" class="Popup">Mis Invitaciones</a> en su página de perfil.';
 $Definition['Invitations per month'] = 'Invitaciones por mes';
 $Definition['Invitations will expire'] = 'Invitaciones que expiran';

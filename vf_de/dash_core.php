@@ -388,6 +388,7 @@ $Definition['Get More Themes'] = 'Mehr Themes';
 $Definition['Getting Started'] = 'Erste Schritte';
 $Definition['Getting Started with Vanilla'] = 'Erste Schritte mit Vanilla';
 $Definition['give'] = 'geben';
+$Definition['Give a Badge'] = 'Badge vergeben';
 $Definition['Given Indexes'] = 'Gegebene Indizes';
 $Definition['Guest'] = 'Gast';
 $Definition['Guest roles'] = 'Markiere alle Rollen, die auf Gäste zutreffen.';
@@ -411,6 +412,7 @@ $Definition['Hide signatures on embedded comments'] = 'Signaturen in eingebettet
 $Definition['Homepage'] = 'Homepage ';
 $Definition['Homepage Title'] = 'Homepage Titel';
 $Definition['How to use themes'] = 'Wie benutzt man Themen';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Wenn ein Bannerlogo hochgeladen wird, wird es das Logo ersetzen, das im Forumtitel angezeigt wird.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Wenn du das Warnungslevel verringern möchtest, dann entferne eine Warnung.';

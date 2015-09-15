@@ -388,6 +388,7 @@ $Definition['Get More Themes'] = 'Pegue Mais Temas';
 $Definition['Getting Started'] = 'Começando';
 $Definition['Getting Started with Vanilla'] = 'Começando com o Vanilla.';
 $Definition['give'] = 'fornecer';
+$Definition['Give a Badge'] = 'Dar um Distintivo';
 $Definition['Given Indexes'] = 'Índices Fornecidos';
 $Definition['Guest'] = 'Convidado';
 $Definition['Guest roles'] = 'Marque todos os cargos que serão aplicados a visitantes.';

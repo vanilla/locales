@@ -376,6 +376,7 @@ $Definition['Get More Themes'] = 'Obtenir plus de thèmes';
 $Definition['Getting Started'] = 'Vos premiers pas';
 $Definition['Getting Started with Vanilla'] = 'Vos premiers pas avec Vanilla';
 $Definition['give'] = 'donner';
+$Definition['Give a Badge'] = 'Donnez-moi un badge';
 $Definition['Given Indexes'] = 'Index donnés';
 $Definition['Guest'] = 'Invité';
 $Definition['Guest roles'] = 'Vérifiez tous les rôles qui seront appliqués aux invités.';
@@ -399,6 +400,7 @@ $Definition['Hide signatures on embedded comments'] = 'Cacher les signatures sur
 $Definition['Homepage'] = 'Page d\'accueil';
 $Definition['Homepage Title'] = 'Titre de la page d\'index';
 $Definition['How to use themes'] = 'Comment utiliser des thèmes';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si un logo de bandeau a été téléchargé, il remplacera le titre du bandeau dans l\'interface utilisateur des pages du forum.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Si vous voulez diminuer le niveau d\'alerte, enlevez une alerte.';
@@ -412,6 +414,11 @@ $Definition['Internaltionalization & Localization'] = 'Internaltionalisation & L
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Une introduction aux réactions et badges sur Vanilla';
 $Definition['Invalid category for deletion.'] = 'Catégorie invalide pour la suppression.';
 $Definition['Invitation Code'] = 'Code d\'invitation';
+$Definition['InvitationMessage'] = 'Salut mon pote !
+
+Regarde le nouveau forum communautaire que je viens de mettre en place. C\'est un super endroit pour chatter ensemble.
+
+Suis le lien ci-dessous pour y accéder.';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Lorsque vous utilisez la méthode d\'inscription par invitation, les utilisateurs auront un lien nommé <a href="%s" class="Popup">Mes Invitations</a> sur leurs pages de profil.';
 $Definition['Invitations per month'] = 'Invitations par mois';
 $Definition['Invitations will expire'] = 'Les invitations expireront';

@@ -17,7 +17,6 @@ $Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
 $Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
 
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent you a <a href="{Url,html}">message</a>';
-$Definition['Html'] = 'HTML';
 
 $Definition['Member Count'] = 'Members';
 

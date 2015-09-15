@@ -389,6 +389,7 @@ $Definition['Get More Themes'] = 'Λήψη Νέων Θεμάτων';
 $Definition['Getting Started'] = 'Ξεκινώντας';
 $Definition['Getting Started with Vanilla'] = 'Ξεκινώντας με το Vanill';
 $Definition['give'] = 'δώστε';
+$Definition['Give a Badge'] = 'Δώστε ένα Έμβλημα';
 $Definition['Given Indexes'] = 'Δώστε τα Indexes';
 $Definition['Guest'] = 'Επισκέπτης';
 $Definition['Guest roles'] = 'Επιλέξτε τους ρόλους που πρέπει να ισχύουν για τους επισκέπτες.';

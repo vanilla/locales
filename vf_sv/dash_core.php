@@ -390,6 +390,7 @@ $Definition['Get More Themes'] = 'Skaffa fler teman';
 $Definition['Getting Started'] = 'Komma igång';
 $Definition['Getting Started with Vanilla'] = 'Kom igång me Vanilla';
 $Definition['give'] = 'ge';
+$Definition['Give a Badge'] = 'Ge ett emblem';
 $Definition['Given Indexes'] = 'Givna Index';
 $Definition['Guest'] = 'Gäst';
 $Definition['Guest roles'] = 'Kryssa för alla roller som ska gälla för gäster.';
@@ -413,6 +414,7 @@ $Definition['Hide signatures on embedded comments'] = 'Dölj signaturer på inb�
 $Definition['Homepage'] = 'Hemsida';
 $Definition['Homepage Title'] = 'Hemsidans titel';
 $Definition['How to use themes'] = 'Hur man använder teman';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Om du laddar upp en logo kommer den att ersätta rubriken i sidhuvudet som användarna ser i forumet.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Vill du sänka varningsnivån, så ta bort en varning.';

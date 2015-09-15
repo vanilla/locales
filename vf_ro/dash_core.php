@@ -387,6 +387,7 @@ $Definition['Get More Themes'] = 'Mai multe teme';
 $Definition['Getting Started'] = 'Noţiuni de bază';
 $Definition['Getting Started with Vanilla'] = 'Noţiuni de bază cu Vanilla';
 $Definition['give'] = 'oferiți';
+$Definition['Give a Badge'] = 'Oferiți o insignă';
 $Definition['Given Indexes'] = 'Indexuri disponibile';
 $Definition['Guest'] = 'Vizitator';
 $Definition['Guest roles'] = 'Verificați toate rolurile care ar trebui să fie aplicate pentru vizitatori';
@@ -410,6 +411,7 @@ $Definition['Hide signatures on embedded comments'] = 'Ascunde semnături pentru
 $Definition['Homepage'] = 'Pagina de start';
 $Definition['Homepage Title'] = 'Titlu pagina de start';
 $Definition['How to use themes'] = 'Cum să utilizaţi teme';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Dacă un logo pentru banner este încărcat, acesta va înlocui titlul banner-ului  pe pagina de forum a utilizatorului';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Dacă doriţi să reduceți nivelul de avertizare eliminați un avertisment';

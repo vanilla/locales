@@ -385,6 +385,7 @@ $Definition['Get More Themes'] = 'Dapatkan Tema Lainnya';
 $Definition['Getting Started'] = 'Mari Mulai';
 $Definition['Getting Started with Vanilla'] = 'Mari Mulai dengan Vanilla';
 $Definition['give'] = 'berikan';
+$Definition['Give a Badge'] = 'Berikan Lencana';
 $Definition['Given Indexes'] = 'Indeks yang Diberikan';
 $Definition['Guest'] = 'Tamu';
 $Definition['Guest roles'] = 'Periksa semua peran yang harus diterapkan pada tamu.';
@@ -408,6 +409,7 @@ $Definition['Hide signatures on embedded comments'] = 'Sembunyikan teken pada ko
 $Definition['Homepage'] = 'Laman Beranda';
 $Definition['Homepage Title'] = 'Judul Laman Beranda';
 $Definition['How to use themes'] = 'Bagaimana menggunakan tema';
+$Definition['Html'] = 'HTML';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Bila sebuah logo diunggah, itu akan menggantikan judul banner pada halaman forum yang dilihat pengguna.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Bila anda ingin mengurangi tingkat peringatan maka hilangkan sebuah peringatan.';

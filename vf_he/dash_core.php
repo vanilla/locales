@@ -389,6 +389,7 @@ $Definition['Get More Themes'] = 'הוסף ערכות נושא';
 $Definition['Getting Started'] = 'למתחילים';
 $Definition['Getting Started with Vanilla'] = 'איך להתחיל עם Vanilla';
 $Definition['give'] = 'תן';
+$Definition['Give a Badge'] = 'תן סימול';
 $Definition['Given Indexes'] = 'אינדקסים';
 $Definition['Guest'] = 'אורח';
 $Definition['Guest roles'] = 'סמן את כל התפקידים אשר צריכים לחול על אורח.';
