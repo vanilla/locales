@@ -1,6 +1,6 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '未找到 %1$s "%2$s"。';
+$Definition['%1$s "%2$s" not found.'] = '找不到 %1$s "%2$s"。';
 $Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 更新檔案已經釋出.';
 $Definition['%s is not a valid email address'] = '%s 不是一個有效的電子信箱格式.';
@@ -91,7 +91,7 @@ $Definition['Authentication URL'] = '驗證網址';
 
 $Definition['Badge Name'] = '名字';
 $Definition['Ban Item'] = '項目';
-$Definition['Banner Title'] = 'Banner 標題';
+$Definition['Banner Title'] = '橫幅標題';
 $Definition['Ban Type'] = '類型';
 $Definition['Basic'] = '基礎';
 $Definition['By %s'] = '由 %s';

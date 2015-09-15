@@ -54,6 +54,7 @@ $Definition['AboutEmbedding'] = 'Incorporação permite que toda ou parte de sua
 $Definition['About Vanilla Statistics'] = 'Sobre as Estatística do Vanilla';
 $Definition['Above Main Content'] = 'Acima do conteúdo principal';
 $Definition['Accepted'] = 'Aceito';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Aceda ao fórum da sua comunidade clicando na ligação "Visitar o Site" localizada no topo desta página, ou <a href={/,url}>clicando aqui</a>. O fórum da comunidade é aquilo que todos os seus utilizadores &amp; clientes irão ver quando visitarem <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Sincronização da conta falhou';
 $Definition['Action'] = 'Ação';
 $Definition['Actions Based on Votes'] = 'Ações baseadas em votos';
@@ -160,6 +161,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Não é possível construir um perfil se o usuário não é definido.';
 $Definition['Categories &amp; Discussions'] = 'Categorias &amp; Tópicos';
+$Definition['Categories are used to organize discussions.'] = 'As categorias são utilizadas para ajudar os seus utilizadores a organizarem as suas conversas de um modo que seja significativo para a comunidade.';
 $Definition['Categories Layout'] = 'Layout de Categorias';
 $Definition['Category Page Layout'] = 'Layout da Página de Categoria';
 $Definition['Category Url:'] = 'URL de Categorias:';
@@ -242,6 +244,7 @@ $Definition['Default Category Permissions'] = 'Categorias de Permissões Padrão
 $Definition['Default Locale'] = 'Linguagem Padrão';
 $Definition['Default Roles'] = 'Cargos Padrão';
 $Definition['default type'] = 'padrão';
+$Definition['Define who can upload files on the Roles & Permissions page.'] = 'Defina quem poderá carregar e gerir ficheiros na página <a href="%s">Funções e Autorizações</a>.';
 $Definition['Define your forum homepage'] = 'Defina sua página inicial';
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Defina a sua página inicial, o seu logo e muito mais...';
 $Definition['Delete Badge'] = 'Deletar Distintivo';
@@ -329,12 +332,15 @@ $Definition['Enter the connection settings for your sphinx server below.'] = 'Di
 $Definition['Enter the email address of the person you would like to invite:'] = 'Coloque o endereço de email da pessoa que deseja convidar:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Digite a URL que você deseja utilizar como página principal.';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Coloque a URL da página que seja ser sua página inicial:';
+$Definition['Every %s hour'] = 'A cada hora';
 $Definition['Every %s hours'] = 'A cada %s horas';
 $Definition['Every %s minute'] = 'Todos os minutos';
 $Definition['Every %s minutes'] = 'A cada %s minutos';
+$Definition['Every %s second'] = 'A cada segundo';
 $Definition['Every %s seconds'] = 'A cada %s segundos';
 $Definition['Every 1 minute'] = 'A cada 1 minuto';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Todas as edições e deletamentos são registrados aqui. Clique em &lsquo;Restaurar&rsquo; para desfazer qualquer alteração.';
+$Definition['Everyone who signs up gets a profile page.'] = 'Todos aqueles que se inscreverem na sua comunidade irão obter uma página de perfil público, na qual poderão carregar uma fotografia deles mesmos, gerir as definições dos respetivos perfis e acompanhar coisas interessantes que se passam na comunidade. Deverá <a href="{/profile,url}">personalizar o seu perfil agora mesmo</a>.';
 $Definition['Every Page'] = 'Todas as Páginas';
 $Definition['Everything is ok.'] = 'Tudo está OK.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Todos os membros do site estão designados a pelo menos um cargo. Cargos são usados para determinar o que os membros estão permitidos a fazer.';
@@ -370,6 +376,7 @@ $Definition['Garden.Import.InputInstructions'] = 'Entre o email e senha do admin
 $Definition['Garden.StatisticsDisabled'] = 'Você desabilitou as Estatísticas do Vanilla em seu arquivo de configuração.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Este fórum parece estar a funcionar num ambiente de teste, ou apresenta um IP privado. Por defeito, os fóruns que funcionam com IPs privados não são rastreados.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Se você tem certeza que o seu fórum está acessível pela internet, você pode força-lo a relatar estatísticas aqui:';
+$Definition['Garden.StatisticsReadonly.Explain'] = 'O seu ficheiro config.php parece ser apenas de leitura. Isto significa que o Vanilla não poderá registar automaticamente a InstallationID e o InstallationSecret do seu fórum.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'Para resolver este problema, atribua o modo 777 ao arquivo conf/config.php.';
 $Definition['Gave badge to users.'] = 'Dar Distintivo a usuário';
 $Definition['Generate'] = 'Gerar';
@@ -389,6 +396,7 @@ $Definition['Hash Algorithm'] = 'Algoritmo Hash';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} adicionou uma conta para {RegardingUserID,user}.';
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} alterou {ActivityUserID,your} foto de perfil.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} aprovou as aplicações de {RegardingUserID,user}.';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Veja!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Atenção! Esta é uma função especial que não permite sessões ativas. Por esta razão, as opções de autorização foram limitadas às autorizações de "visualização".';
@@ -426,6 +434,7 @@ $Definition['Invitations can be sent from users\' profile pages.'] = 'Quando voc
 $Definition['Invitations per month'] = 'Convites por mês';
 $Definition['Invitations will expire'] = 'Convites irão expirar';
 $Definition['Invited by'] = 'Convidado por';
+$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Parece que a base de dados que especificou ainda não existe. Já a criou? Ter-se-á enganado ao escrever o nome? A base de dados relatou: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'É uma boa ideia manter o número de caracteres permitidos em comentários abaixo de um valor razoável.';
 
 $Definition['jsConnect Client Libraries'] = 'Bibliotecas do Cliente do jsConnect';
@@ -469,7 +478,10 @@ $Definition['Manage Users'] = 'Gerir Usuários';
 $Definition['Managing Categories'] = 'Gerenciar Categorias';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marcando coisas como NÃO spam fará com que elas retornem ao fórum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcando coisas como não sendo spam irá fazer com que elas voltem ao fórum.';
+$Definition['Max %s length'] = 'Máximo de %s de comprimento';
 $Definition['Max Comment Length'] = 'Máximo Comprimento de Mensagem';
+$Definition['Max height of %s'] = 'Altura máxima de %s';
+$Definition['Max height of %s in pixels'] = 'Altura máxima de %s em pixeis';
 $Definition['Max number of %s'] = 'Número máximo de %s';
 $Definition['Media'] = 'Mídia';
 $Definition['Member'] = 'Membro';
@@ -670,6 +682,7 @@ $Definition['The addon could not be enabled because it generated a fatal error: 
 $Definition['The addon has already been downloaded.'] = 'O complemento já foi baixado.';
 $Definition['The banner logo appears at the top of your forum.'] = 'O banner de logotipo aparece no topo do seu fórum.';
 $Definition['The banner title appears on the top-left of every page.'] = 'O banner do título aparece na parte superior-esquerda de todas as páginas.';
+$Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'O título do banner aparece no banner do seu site e na barra de título do seu site. Deverá conter menos de 20 carateres. Se for carregado um banner de lgótipo, o mesmo irá substituir o título de banner nas páginas do fórum visíveis para o utilizador. Tenha ainda em atenção que alguns temas poderão também ocultar este título.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>O formulário de registo básico exige que</strong> os novos utilizadores copiem o texto de uma imagem de CAPTCHA, a fim de manter os spammers longe do site. Precisa de ter uma conta em <a href="http://recaptcha.net/">recaptcha.net</a>. A inscrição é GRATUITA e fácil. Assim que se tiver inscrito, regresse aqui e introduza as seguintes definições:';
 $Definition['The Basics'] = 'O Básico';
 $Definition['The client ID uniqely identifies the site.'] = 'A ID de cliente identifica o site individualmente. Pode gerar uma nova ID com o botão que se encontra localizado no fundo desta página.';
@@ -795,6 +808,7 @@ $Definition['Warning: All of your data will be lost. Once you delete, there is a
 $Definition['Warning: deleting is permanent'] = 'AVISO: itens deletados são removidos desta lista e não podem ser resgatados.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Aviso</b>: A sua configuração de servidor não permite o carregamento rápido dos dados.
 Se estiver a importar um ficheiro muito grande (por ex. com mais de 200.000 comentários) poderá querer ponderar a hipótese de alterar as suas configurações. Clique <a href="http://vanillaforums.com/porter">aqui</a> para obter mais informações.';
+$Definition['Warning: This is for advanced users.'] = '<b>Aviso</b>: Esta função destina-se a utilizadores avançados e exige que faça alterações adicionais no seu servidor web. Normalmente, só se encontra disponível se tiver um hosting vps ou dedicado. Não tente fazer isto se não souber o que está a fazer.';
 $Definition['Welcome to Vanilla!'] = 'Bem-vindo ao Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Bem-vindo ao seu Painel';
 $Definition['We only accept urls that begin with http:// or https://'] = 'Nós só aceitamos URL que comecem com http:// ou https://';
@@ -809,6 +823,8 @@ $Definition['WordPress Plugin'] = 'Plugins do WordPress';
 $Definition['Yes, the following information can be changed later.'] = 'Sim, as informações a seguir podem ser alteradas mais tarde.';
 $Definition['You are connected as %s.'] = 'Você está conectado como %s.';
 $Definition['You are now signed in.'] = 'Agora você está conectado.';
+$Definition['You are previewing the %s theme.'] = 'Está a pré-visualizar o tema %s.';
+$Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Marque a caixa ao lado do utilizador que publicou o spam para o banir e apagar todas as suas publicações. <b>Faça isto apenas se tiver a certeza que se trata de spammers.</b>';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Se você ficou trancado para fora de seu fórum, sempre poderá entrar com as informaçaões originais do seu fórum Vanilla <a href="%1$s">%1$s</a>';
 $Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Você pode banir endereços de IP, domínios de email,  e palavras em nomes de usuários utilizando esta ferramenta.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Você pode se conectar a múltiplos sites que suportam o jsConnect.';

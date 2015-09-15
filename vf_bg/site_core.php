@@ -987,6 +987,7 @@ $Definition['RoleID'] = 'роля';
 $Definition['Roles'] = 'Роли';
 $Definition['roles'] = 'роли';
 $Definition['RSS Feed'] = 'RSS емисия';
+$Definition['RSVP'] = 'Отговорете';
 
 $Definition['Save'] = 'Запазване';
 $Definition['Save Comment'] = 'Запазване на коментар';
