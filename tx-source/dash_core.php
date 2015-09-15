@@ -849,8 +849,6 @@ $Definition['You cannot remove the only remaining category that allows discussio
 $Definition['You do not have permission to view other profiles.'] = 'You do not have permission to view other profiles.';
 $Definition['You have %s invitations left for this month.'] = 'You have %s invitations left for this month.';
 $Definition['You must be authenticated in order to use this form.'] = 'You must be authenticated in order to use this form.';
-$Definition['You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.'] = 'You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.';
-$Definition['You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.'] = 'You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.';
 $Definition['You must manually apply this rank.'] = 'You must manually apply this rank.';
 $Definition['You must provide at least one recipient'] = 'You must provide at least one recipient';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
