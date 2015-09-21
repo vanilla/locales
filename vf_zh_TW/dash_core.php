@@ -65,6 +65,7 @@ $Definition['Advanced Options'] = '進階選項';
 $Definition['Advanced Settings'] = '進階設定';
 $Definition['After'] = '後';
 $Definition['a full year.'] = '一整年。';
+$Definition['Alive'] = '活著';
 $Definition['All'] = '全部';
 $Definition['All %1$s'] = '所有 %1$s';
 $Definition['All Forum Pages'] = '所有討論區頁面';

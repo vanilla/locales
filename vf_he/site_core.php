@@ -123,8 +123,8 @@ $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s הגיב על ה
 $Definition['Activity.Comment'] = 'הגב';
 $Definition['Activity.CommentMention.FullHeadline'] = '%1$s ציין %3$s s ב %8$s .';
 $Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s ציין %3$s s ב %8$s .';
-$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s שלח לך %1$s';
-$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s שלח לך %1$s';
+$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s שלח לך %8$s';
+$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s שלח לך %8$s';
 $Definition['Activity.Join.FullHeadline'] = '%1$s הצטרף';
 $Definition['Activity.Join.ProfileHeadline'] = '%1$s הצטרף';
 $Definition['Activity.PictureChange.FullHeadline'] = '%1$s שינה %1$s תמונת פרופיל';
@@ -447,10 +447,10 @@ $Definition['EmailStoryNotification'] = '%1$s
 %3$s
 
 ---
-הכנס לקישור הבא כדי לבדוק את זה:
+לחצ\\י על הקישור הנ"ל למעבר:
 %2$s
 
-יום נפלא!';
+שיהיה לך יום נפלא!';
 $Definition['Email Unavailable'] = 'דוא"ל זמין';
 $Definition['Email visible to other users'] = 'שליחת גלויות למשתמשים אחרים';
 $Definition['EmailWelcome'] = '%2$s יצר חשבון עבורך ב%3$s. פרטי ההזדהות שלך:
@@ -526,7 +526,7 @@ $Definition['Followed by %d person'] = 'נעקב על ידי %d איש';
 $Definition['followed categories'] = 'קטגוריות למעקב';
 $Definition['Following %d people'] = 'עוקב אחרי %d אנשים';
 $Definition['Following %d person'] = 'עוקב אחרי %d איש';
-$Definition['FollowOnly'] = 'הכנס לקישור הבא כדי לבדוק את זה:';
+$Definition['FollowOnly'] = 'לחצ\\י על הקישור הנ"ל למעבר:';
 $Definition['Follows'] = 'עוקב';
 $Definition['Forgot?'] = 'שכחת?';
 $Definition['Forgot your password?'] = 'שכחת את הסיסמה שלך?';
@@ -582,7 +582,7 @@ $Definition['Heading %s'] = 'כותרת %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} הרוויח  <a href="{Url,html}">{Data.Name,text}</a> אות הצטיינות';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} חסם {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} הגיב על <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User}  שלח לך <a href="{Url,html}"> הודעה</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User}  שלח לך <a href="{Url,html}">הודעה</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}  ציין אותך ב  <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}שינה את תמונת המשתמש ל {ActivityUserID,user}.';
@@ -874,7 +874,7 @@ $Definition['Posts.Singular: %s'] = 'הודעות: %s\';';
 $Definition['Posts: %s'] = 'הודעות: %s';
 $Definition['Post this anonymously'] = 'פרסם את זה בצורה אנונימית';
 $Definition['Powered by %s'] = 'מופעל על ידי %s';
-$Definition['Powered by Vanilla'] = 'מופעל על ידי וניל';
+$Definition['Powered by Vanilla'] = 'מופעל על ידי Vanilla';
 $Definition['PreferenceBadgeEmail'] = 'דווח לי כאשר אני מרוויח אות הצטיינות';
 $Definition['PreferenceBadgePopup'] = 'הודע לי כאשר אני מקבל תג';
 $Definition['Preview'] = 'תצוגה מקדימה';
