@@ -830,8 +830,6 @@ met een van <b>.txt, .gz</b>.';
 $Definition['You do not have permission to view other profiles.'] = 'Je hebt geen toestemming om andere profielen te bekijken.';
 $Definition['You have %s invitations left for this month.'] = 'Je hebt %s uitnodigingen over voor deze maand.';
 $Definition['You must be authenticated in order to use this form.'] = 'Je moet geauthenticeerd zijn om dit forum te kunnen gebruiken.';
-$Definition['You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.'] = 'Je moet de MySQL-driver voor PDO geactiveerd hebben om Vanilla te kunnen aansluiten aan je database.';
-$Definition['You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.'] = 'Je moet de PDO-module in PHP geactiveerd hebben om Vanilla aan te sluiten aan je database.';
 $Definition['You must manually apply this rank.'] = 'Je moet deze rank handmatig toepassen.';
 $Definition['You must provide at least one recipient'] = 'Je moet op zijn minst één ontvanger aangeven';
 $Definition['You must select a file to import.'] = 'Je moet een bestand selecteren om te importeren.';

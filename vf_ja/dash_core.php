@@ -314,8 +314,6 @@ $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = '�
 $Definition['You can make the categories page your homepage.'] = 'カテゴリ一覧のページを<a href="%s">こちら</a>でホーム画面として設定できます。';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '%1$s プラグインを無効にできません。%2$s プラグインが動作するために、必要です。';
 $Definition['You cannot remove an invitation that has been accepted.'] = '受信済みの招待状は削除できません。';
-$Definition['You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.'] = 'MySQL ドライバ for PDO を有効にする必要があります。';
-$Definition['You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.'] = 'PHP の PDO モジュールを有効にする必要があります。';
 $Definition['You must select a file to import.'] = 'インポートするファイルを選択してください。';
 $Definition['You must specify an admin password.'] = '管理者のパスワードは省略できません。';
 $Definition['You must specify an admin username.'] = '管理者のユーザー名は省略できません。';

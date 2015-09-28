@@ -844,8 +844,6 @@ einer der folgenden Endungen <b>.txt, .gz</b> endet. ';
 $Definition['You do not have permission to view other profiles.'] = 'Du hast keine Berechtigung, dir fremde Profile anzusehen';
 $Definition['You have %s invitations left for this month.'] = 'Du hast diesen Monat noch %s Einladungen übrig.';
 $Definition['You must be authenticated in order to use this form.'] = 'Du musst authentifiziert werden, um dieses Forum benutzen zu können.';
-$Definition['You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.'] = 'Du musst den MySQL Treiber für PDO aktivieren, damit Vanilla sich mit der Datenbank verbinden kann.';
-$Definition['You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.'] = 'Du musst das PDO-Modul in PHP aktivieren, damit Vanilla sich mit der Datenbank verbinden kann.';
 $Definition['You must manually apply this rank.'] = 'Du musst diesen Rang manuell vergeben.';
 $Definition['You must provide at least one recipient'] = 'Du musst mindestens einen Empfänger angeben.';
 $Definition['You must select a file to import.'] = 'Du musst eine Import-Datei auswählen.';

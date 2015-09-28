@@ -758,8 +758,6 @@ $Definition['You cannot remove the only remaining category that allows discussio
 $Definition['You do not have permission to view other profiles.'] = 'شما پروانه‌ای برای مشاهده‌ی رخ‌نماهای دیگر ندارید.';
 $Definition['You have %s invitations left for this month.'] = 'شما پروانه‌ی فرستادن %s فراخوانه‌ی دیگر را در این ماه دارید.';
 $Definition['You must be authenticated in order to use this form.'] = 'برای استفاده از این فرم، اعتبار شما باید تأیید شده باشد.';
-$Definition['You must have the MySQL driver for PDO enabled in order for Vanilla to connect to your database.'] = 'بایستی MySQL driver برای PDO به کار گرفته شده باشد تا وانیلا بتواند با پایگاه داده‌ی شما ارتباط بگیرد.';
-$Definition['You must have the PDO module enabled in PHP in order for Vanilla to connect to your database.'] = 'بایستی ماژول PDO در PHP به کار گرفته شده باشد تا وانیلا بتواند با پایگاه داده‌ی شما ارتباط بگیرد.';
 $Definition['You must manually apply this rank.'] = 'شما باید این رنک را به صورت دستی اعمال کنید';
 $Definition['You must provide at least one recipient'] = 'بایستی دست‌کم یک دریافت کننده را مشخص کنید.';
 $Definition['You must select a file to import.'] = 'شما باید یک پرونده را برای درون‌ریزی برگزینید.';
