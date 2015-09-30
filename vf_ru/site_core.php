@@ -151,8 +151,7 @@ $Definition['Add Cost'] = 'Добавить цену';
 $Definition['Add Image'] = 'Добавить картинку';
 $Definition['Add Message'] = 'Добавить сообщение';
 $Definition['Add Note'] = 'Добавить заметку';
-$Definition['Add People to this Conversation'] = 'Добавить собеседника 
-<i>(введите имя)</i>';
+$Definition['Add People to this Conversation'] = 'Добавить собеседника в диалог';
 $Definition['Add Route'] = 'Добавить перенаправление';
 $Definition['Admin'] = 'Админ';
 $Definition['Administrator'] = 'Администратор';
@@ -211,6 +210,7 @@ $Definition['Are you sure you want to delete this %s?'] = 'Вы уверены, 
 $Definition['Are you sure you want to do that?'] = 'Вы уверены, что хотите сделать это?';
 $Definition['Are you sure you want to do this?'] = 'Вы уверены, что хотите сделать это?';
 $Definition['Are you sure you want to join this group?'] = 'Вы уверены, что хотите присоединиться к этой группе?';
+$Definition['Are you sure you want to leave this conversation?'] = 'Вы уверены, что хотите покинуть этот диалог?';
 $Definition['Are you sure you want to leave this group?'] = 'Вы уверены, что хотите выйти из этой группы?';
 $Definition['Are you sure you wish to continue?'] = 'Вы уверены, что хотите продолжить?
 ';
@@ -703,6 +703,7 @@ $Definition['Leave a comment'] = 'Комментировать';
 $Definition['Leave a redirect link.'] = 'Оставьте ссылку переадресации.';
 $Definition['Leave blank unless connecting to an exising account.'] = 'Оставьте пустым, если не хотите быть подключены к существующей учетной записи.';
 $Definition['Leave Comments'] = 'Комментировать';
+$Definition['Leave Conversation'] = 'Покинуть диалог';
 $Definition['Leave Group'] = 'Покинуть группу';
 $Definition['Length'] = 'Длина';
 $Definition['Level %s'] = 'Уровень %s';
@@ -827,7 +828,7 @@ $Definition['Notify'] = 'Уведомлять';
 $Definition['Notify me of private messages.'] = 'Уведомлять о новых личных сообщениях.';
 $Definition['Notify me when a badge is requested.'] = 'Уведомлять, когда запрашивается значок.';
 $Definition['Notify me when a comment is flagged.'] = 'Уведомлять, когда о комментарии сообщили модератору.';
-$Definition['Notify me when I am added to private conversations.'] = 'Уведомлять, когда меня приглашают к приватной беседе.';
+$Definition['Notify me when I am added to private conversations.'] = 'Уведомлять, когда меня приглашают к приватному диалогу.';
 $Definition['Notify me when people comment on discussions I\'ve participated in.'] = 'Уведомить меня, когда кто-то комментирует обсуждения, в которых я участвую.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Уведомлять о комментариях в дискуссиях из моих закладок.';
 $Definition['Notify me when people comment on my discussions.'] = 'Уведомлять о новых комментариях в моих дискуссиях.';
@@ -1116,7 +1117,7 @@ $Definition['Start'] = 'Старт';
 $Definition['Start a Group'] = 'Создать группу';
 $Definition['Start a New Conversation'] = 'Новое сообщение (3)';
 $Definition['Start a New Discussion'] = 'Создать дискуссию';
-$Definition['Start Conversation'] = 'Отправить';
+$Definition['Start Conversation'] = 'Инициировать диалог';
 $Definition['Started By'] = 'Начал';
 $Definition['Started by'] = '
         Автор
@@ -1173,6 +1174,7 @@ $Definition['The %s you were looking for could not be found.'] = '
 $Definition['the category'] = 'раздел';
 $Definition['The content you were looking for has been deleted.'] = 'Контент, который вы искали, был удален.';
 $Definition['The conversation has been cleared.'] = 'Диалог был очищен.';
+$Definition['The CSRF token is invalid.'] = 'CSRF токен некорректен.';
 $Definition['The email you entered in use by another member.'] = 'На указанный Email уже зарегистрирован аккаунт.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Этот Email уже привязан к существующему акаунту.';
 $Definition['The file failed to upload.'] = 'Невозможно загрузить файл.';
@@ -1417,6 +1419,7 @@ $Definition['You have selected %1$s in this discussion.'] = 'Вы выбрали
 $Definition['You have to select at least 2 discussions to merge.'] = 'Вы должны выбрать хотя бы 2 дискуссии для слияния.';
 $Definition['You must agree to the terms of service.'] = 'Вы должны подтвердить правила использования форума.';
 $Definition['You must be at least %d years old to register.'] = 'Для регистрации вам должно быть как минимум %d лет.';
+$Definition['You must be signed in.'] = 'Вы должны авторизоваться.';
 $Definition['You must confirm you have received consent to register.'] = 'Вы должны подтвердить получение вами разрешения на регистрацию.';
 $Definition['You need to confirm your email address.'] = 'Вам нужно подтвердить email адрес. Для того, чтобы повторно послать письмо активации, нажмите <a href="/entry/emailconfirmrequest">здесь</a>.';
 $Definition['You need to sign in before you can do this.'] = 'Вы должны войти в систему прежде, чем вы можете это сделать.';
@@ -1432,7 +1435,7 @@ $Definition['Your password has been changed.'] = 'Ваш пароль был и�
 $Definition['Your picture has been removed.'] = 'Ваша фотография была удалена.';
 $Definition['Your post will appear once it\'s been approved.'] = 'Ваше сообщение появится после одобрения.';
 $Definition['Your preferences have been saved.'] = 'Ваши настройки были сохранены.';
-$Definition['Your private conversations with other members.'] = 'Ваши приватные беседы с другими пользователями.';
+$Definition['Your private conversations with other members.'] = 'Ваши приватные диалоги с другими пользователями.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Ваше имя при регистрации: <strong>%s</strong>';
 $Definition['Your request has been sent.'] = 'Ссылка для подтверждения выслана вам на почту, пожалуйста проверьте.';
 $Definition['Your settings have been saved.'] = 'Ваши настройки были сохранены.';
@@ -1442,5 +1445,5 @@ $Definition['Your warning was added.'] = 'Ваше предупреждение 
 
 $Definition[' You should '] = 'Вам следует';
 
-$Definition['You were added to a conversation.'] = '{InsertUserID,user} добавлен {NotifyUserID,you} к <a href="{Url,htmlencode}">диалогу</a>.';
+$Definition['You were added to a conversation.'] = '{InsertUserID,user} добавил(а) {NotifyUserID,you} к <a href="{Url,htmlencode}">диалогу</a>.';
 $Definition['You wrote:'] = 'Вы написали:';
