@@ -11,13 +11,10 @@ $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong wit
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 
-$Definition['Badge Name'] = 'Name';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
-$Definition['Ban Item'] = 'Item';
 $Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
 $Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
 $Definition['BanReason.8'] = 'Banned by warnings.';
-$Definition['Ban Type'] = 'Type';
 
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
@@ -26,7 +23,6 @@ $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Condition Expression'] = 'Value';
 $Definition['Condition Field'] = 'Field';
-$Definition['Condition Type'] = 'Type';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 $Definition['CreateFile'] = 'Create';

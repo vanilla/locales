@@ -75,16 +75,15 @@ $Definition['%s results'] = '%s kết quả';
 $Definition['%s said'] = '%s nói';
 $Definition['%s said:'] = '%s nói:';
 $Definition['%s tag(s) found.'] = 'Tìm thấy %s thẻ.';
-$Definition['%s tags in the system'] = '%s tag trong hệ thống';
+$Definition['%s tags in the system'] = '%s thẻ trong hệ thống';
 $Definition['%s Up Votes'] = '%s Up';
 $Definition['%s view'] = '%s lượt xem';
 $Definition['%s view html'] = '%s lượt xem';
 $Definition['%s viewing'] = '%s đang xem';
 $Definition['%s views'] = '%s lượt xem';
 $Definition['%s views html'] = '%s lượt xem';
-$Definition['%s votes'] = '%s vote';
-$Definition['%s was removed from the %s and added to the %s'] = '%s was removed from the %s and added to the %s
-';
+$Definition['%s votes'] = '%s biểu quyết';
+$Definition['%s was removed from the %s and added to the %s'] = '%s đã được gỡ bỏ khỏi %s và thêm vào %s';
 $Definition['%s week'] = '%s tuần';
 $Definition['%s weeks'] = '%s tuần';
 $Definition['%s WTFs'] = '%s CLGT';
@@ -150,14 +149,14 @@ $Definition['Add Route'] = 'Thêm route';
 $Definition['Admin'] = 'Quản trị viên';
 $Definition['Administrator'] = 'Quản trị viên';
 $Definition['Administrator Activity'] = 'Hoạt động của admin';
-$Definition['administrators'] = 'admin';
+$Definition['administrators'] = 'quản trị viên';
 $Definition['Advanced Stuff'] = 'Nâng cao';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Có lỗi xảy ra trong quá trình thực hiện tác vụ.<br />Máy chủ trả về phản hồi sau: %s';
 $Definition['Agree'] = 'Đồng ý';
 $Definition['Alert'] = 'Cảnh cáo';
-$Definition['Align center'] = 'Xếp lề trung tâm';
-$Definition['Align left'] = 'Xếp lề trái';
-$Definition['Align right'] = 'Xếp lề phải';
+$Definition['Align center'] = 'Căn lề trung tâm';
+$Definition['Align left'] = 'Căn lề trái';
+$Definition['Align right'] = 'Căn lề phải';
 $Definition['All %s'] = 'Tất cả %s';
 $Definition['All %s...'] = 'Tất cả %s...';
 $Definition['All Bookmarks'] = 'Theo dõi';
@@ -169,8 +168,8 @@ $Definition['All Events'] = 'Tất cả các Sự kiện';
 $Definition['All Members'] = 'Tất cả Thành viên';
 $Definition['All members'] = 'Tất cả thành viên';
 $Definition['Allow'] = 'Cho phép';
-$Definition['Allow other members to see your email?'] = 'Hiển thị email công khai?';
-$Definition['All Time Leaders'] = 'Leader';
+$Definition['Allow other members to see your email?'] = 'Hiển thị thư công khai?';
+$Definition['All Time Leaders'] = 'Người dẫn đầu trong tất cả thời gian';
 $Definition['Already Warned'] = 'Đã bị cảnh cáo';
 $Definition['Also banned for the following:'] = 'Cũng bị cấm vì lý do sau:';
 $Definition['Ancient Membership'] = 'Thành viên Trưởng lão';
@@ -210,7 +209,7 @@ $Definition['Attach this warning to the %s.'] = 'Đính kèm cảnh cáo này đ
 $Definition['AttemptingSignOut'] = 'Bạn có chắc là mình muốn %s?';
 $Definition['Attending'] = 'Sẽ tham dự';
 $Definition['Attending (%s)'] = 'Sẽ tham dự (%s)';
-$Definition['Authenticate URL'] = 'URL xác thực';
+$Definition['Authenticate URL'] = 'Liên kết xác thực';
 $Definition['Author'] = 'Tác giả';
 $Definition['available'] = 'khả dụng';
 $Definition['Awaiting Moderation'] = 'Chờ duyệt';
@@ -225,9 +224,9 @@ $Definition['BadgesModuleTitle'] = 'Huy hiệu';
 $Definition['BadgesNobody'] = 'Chưa ai đạt được huy hiệu này.';
 $Definition['Ban'] = 'Cấm';
 $Definition['Ban.Action'] = 'Cấm';
-$Definition['Banned'] = 'Đã bị ban';
+$Definition['Banned'] = 'Đã bị Cấm';
 $Definition['Banned for being abusive.'] = 'Bị ban vì lạm dụng';
-$Definition['Banned for spamming.'] = 'Bị ban vì spam.';
+$Definition['Banned for spamming.'] = 'Bị cấm vì phát tán nội dung rác.';
 $Definition['Banned for the following:'] = 'Bị cấm vì lý do sau:';
 $Definition['Banned users can no longer access the site.'] = 'Thành viên bị ban không thể truy cập site.';
 $Definition['Banner'] = 'Biểu ngữ';
@@ -235,13 +234,13 @@ $Definition['BanReason.1'] = 'Bị quản lý cộng đồng cấm.';
 $Definition['BanReason.2'] = 'Bị cấm theo địa chỉ IP, email, hoặc tên.';
 $Definition['BanReason.4'] = 'Bị quản lý cộng đồng cấm tạm thời.';
 $Definition['BanReason.8'] = 'Bị cấm theo cảnh báo.';
-$Definition['Ban User'] = 'Ban thành viên';
-$Definition['Ban Value'] = 'Giá trị ban';
+$Definition['Ban User'] = 'Cấm thành viên';
+$Definition['Ban Value'] = 'Giá trị cấm';
 $Definition['Best Answer'] = 'Câu trả lời hay nhất';
 $Definition['Best Answers'] = 'Câu trả lời hay nhất';
 $Definition['Best Of'] = 'Hay nhất';
 $Definition['Best Of...'] = 'Hay nhất...';
-$Definition['Blank Discussion Topic'] = 'Thảo luậntrống';
+$Definition['Blank Discussion Topic'] = 'Thảo luận trống';
 $Definition['Blank Message'] = 'Thông điệp trống';
 $Definition['Blogs'] = 'Blog';
 $Definition['Body'] = 'Nội dung';
@@ -256,7 +255,7 @@ $Definition['Browse popular groups.'] = 'Tìm nhóm nổi tiếng.';
 $Definition['By'] = 'Theo';
 $Definition['by'] = 'theo';
 $Definition['by Date'] = 'theo Ngày';
-$Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Trước khi upload, bạn phải đảm bảo rằng mình có quyền chia sẻ hình ảnh này, và đồng thời nó không vi phạm các điều khoản về sử dụng dịch vụ.';
+$Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Trước khi tải lên, bạn phải đảm bảo rằng mình có quyền chia sẻ hình ảnh này, và đồng thời nó không vi phạm các điều khoản về sử dụng dịch vụ.';
 
 $Definition['Cancel'] = 'Thôi';
 $Definition['Casual'] = 'Vui';
@@ -280,7 +279,7 @@ $Definition['Change Picture'] = 'Đổi ảnh đại diện';
 $Definition['Check all roles that apply to this user:'] = 'Kiểm tra vai trò của thành viên này:';
 $Definition['Child Categories'] = 'Danh mục con';
 $Definition['Child Categories:'] = 'Danh mục con:';
-$Definition['Choose a name to identify yourself on the site.'] = 'Chọn username.';
+$Definition['Choose a name to identify yourself on the site.'] = 'Chọn một tên để nhận biết chính bạn trên trang web.';
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'Chọn thảo luận để ghép tất cả bình luận vào:';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'Bạn muốn đặt câu hỏi hay mở thảo luận?';
 $Definition['Clear'] = 'Xóa';
@@ -311,11 +310,11 @@ $Definition['Community Guidelines'] = 'Nội quy Cộng đồng';
 $Definition['Completely delete the warning.'] = 'Gỡ hoàn toàn cảnh cáo.';
 $Definition['Confirm'] = 'Xác nhận';
 $Definition['Confirmed email address'] = 'Địa chỉ email đã xác nhận';
-$Definition['Confirm Email'] = 'Xác nhận email';
+$Definition['Confirm Email'] = 'Thư xác nhận';
 $Definition['Confirm Password'] = 'Xác nhận mật khẩu';
 $Definition['Connect'] = 'Kết nối';
 $Definition['ConnectAccountExists'] = 'Bạn đã có một tài khoản tại đây.';
-$Definition['ConnectChooseName'] = 'Chọn username';
+$Definition['ConnectChooseName'] = 'Chọn một tên để nhận biết chính bạn trên trang web.';
 $Definition['ConnectCreateAccount'] = 'Thêm thông tin &amp; Tạo tài khoản';
 $Definition['Connected'] = 'Đã kết nối';
 $Definition['ConnectExistingPassword'] = 'Nhập mật khẩu hiện tại.';
@@ -323,7 +322,7 @@ $Definition['Connecting...'] = 'Đang kết nối...';
 $Definition['Connection'] = 'Kết nối';
 $Definition['ConnectLeaveBlank'] = 'Để trống trừ phi bạn đang kết nối với một tài khoản đã tồn tại.';
 $Definition['ConnectName'] = 'Tên đăng nhập';
-$Definition['ConnectRegisteredName'] = 'Username đăng ký: <strong>%s</strong>';
+$Definition['ConnectRegisteredName'] = 'Tên tài khoản đăng ký: <strong>%s</strong>';
 $Definition['Connect your profile to social networks.'] = 'Kết nối hồ sơ của bạn đến các mạng xã hội để được thông báo các hoạt động ở đây và chia sẻ hoạt động của bạn với bạn bè và người theo dõi.';
 $Definition['Contact Us'] = 'Liên Hệ với Chúng Tôi';
 $Definition['conversation'] = 'cuộc trao đổi';
@@ -340,9 +339,9 @@ $Definition['Customize your Public Profile'] = 'Tùy chỉnh hồ sơ';
 $Definition['Custom Profile Fields'] = 'Tùy chỉnh thông tin thêm';
 $Definition['Custom Profile Field Settings'] = 'Thiết lập thông tin thêm';
 
-$Definition['Dashboard'] = 'Admin CP';
-$Definition['Dashboard Home'] = 'Admin CP';
-$Definition['Dashboard Summaries'] = 'Tóm lược dashboard';
+$Definition['Dashboard'] = 'Bảng tin';
+$Definition['Dashboard Home'] = 'Trang chủ bảng tin';
+$Definition['Dashboard Summaries'] = 'Tóm lược bảng tin';
 $Definition['Date'] = 'Ngày';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p ';
 $Definition['Date.DefaultDayFormat'] = '%B %e ';
@@ -354,7 +353,7 @@ $Definition['Date Added'] = 'Đã thêm ngày';
 $Definition['Date Examples'] = 'Ví dụ: thứ 2, ngày hôm nay, tuần trước, ngày 26 tháng 3, ngày 26-3-04';
 $Definition['Date within'] = 'Ngày trong';
 $Definition['days'] = 'ngày';
-$Definition['Define Thumbnail'] = 'Căn chỉnh hình ảnh để tạo thumbnail ưng ý.';
+$Definition['Define Thumbnail'] = 'Căn chỉnh hình ảnh để tạo ảnh thu nhỏ ưng ý.';
 $Definition['Delete'] = 'Xóa';
 $Definition['Delete %s'] = 'Xóa %s';
 $Definition['Delete Account'] = 'Xóa tài khoản';
@@ -398,7 +397,7 @@ $Definition['edited %s'] = 'đã sửa %s';
 $Definition['Edited %s by %s.'] = 'Đã sửa %s bởi %s.';
 $Definition['Edit My Account'] = 'Sửa tài khoản';
 $Definition['Edit My Profile'] = 'Sửa hồ sơ';
-$Definition['Edit My Thumbnail'] = 'Sửa thumbnail';
+$Definition['Edit My Thumbnail'] = 'Sửa ảnh thu nhỏ';
 $Definition['editor.BBCodeHelpText'] = 'Bạn có thể dùng <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> trong bài đăng của mình.';
 $Definition['editor.HtmlHelpText'] = 'Bạn có thể dùng <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Html Đơn giản</a> trong bài đăng của mình.';
 $Definition['editor.MarkdownHelpText'] = 'Bạn có thể dùng <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> trong bài đăng của mình.';
@@ -406,11 +405,12 @@ $Definition['editor.TextHelpText'] = 'Bạn đang sử dụng văn bản thườ
 $Definition['editor.WysiwygHelpText'] = 'Bạn đang dùng <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> trong bài đăng của mình.';
 $Definition['Edit Preferences'] = 'Sửa thiết lập';
 $Definition['Edit Profile'] = 'Sửa hồ sơ';
-$Definition['Edit Tag'] = 'Sửa tag';
-$Definition['Edit Thumbnail'] = 'Sửa thumbnail';
+$Definition['Edit Tag'] = 'Sửa thẻ';
+$Definition['Edit Thumbnail'] = 'Sửa ảnh thu nhỏ';
 $Definition['Eighth Anniversary'] = 'Kỷ niệm năm thứ tám';
-$Definition['Email/Username'] = 'Email/Tên người dùng';
-$Definition['EmailConfirmEmail'] = 'Xin vui lòng xác thực địa chỉ email của bạn bằng cách nhấp vào link sau: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['Email'] = 'Thư';
+$Definition['Email/Username'] = 'Địa chỉ thư/Tên người dùng';
+$Definition['EmailConfirmEmail'] = 'Xin vui lòng xác thực địa chỉ thư của bạn bằng cách nhấp vào liên kết sau: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 Chúc bạn một ngày vui!';
 $Definition['EmailHeader'] = 'Chào {User.Name}!
@@ -431,41 +431,41 @@ Nhấp vào link sau để xem:
 %2$s
 
 Chúc bạn một ngày tốt lành!';
-$Definition['Email Notifications'] = 'Các thông báo qua email';
-$Definition['Email Or Username'] = 'Email hoặc Username';
-$Definition['EmailPassword'] = '%2$s đã reset mật khẩu của bạn lúc %3$s. Thông tin đăng nhập hiện tại của bạn là:
+$Definition['Email Notifications'] = 'Các thông báo qua thư';
+$Definition['Email Or Username'] = 'Địa chỉ thư hoặc tên đăng nhập';
+$Definition['EmailPassword'] = '%2$s đã khởi tạo lại mật khẩu của bạn lúc %3$s. Thông tin đăng nhập hiện tại của bạn là:
 
-  Email: %6$s
+  Địa chỉ thư: %6$s
   Mật khẩu: %5$s
-  Url: %4$s';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'Email gửi từ ứng dụng sẽ được ghi là từ tên và địa chỉ sau đây';
+  Liên kết: %4$s';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'Thư gửi từ ứng dụng sẽ được gửi với tên và địa chỉ sau đây';
 $Definition['Email Source'] = 'Email';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
 
 ---
-Nhấp vào link sau để xem:
+Nhấp vào liên kết sau để xem:
 %2$s
 
 Chúc bạn một ngày tốt lành!';
-$Definition['Email Unavailable'] = 'Không thể sử dụng địa chỉ email này';
-$Definition['Email visible to other users'] = 'Email hiển thị công khai';
+$Definition['Email Unavailable'] = 'Không thể sử dụng địa chỉ thư này';
+$Definition['Email visible to other users'] = 'Thư hiển thị công khai';
 $Definition['EmailWelcome'] = '%2$s đã tạo tài khoản cho bạn lúc %3$s. Thông tin đăng nhập của bạn là:
 
-  Email: %6$s
+  Địa chỉ thư: %6$s
   Mật khẩu: %5$s
-  Url: %4$s';
+  Địa chỉ liên kết: %4$s';
 $Definition['EmailWelcomeConnect'] = 'Bạn đã kết nối thành công tại {Title} với thông tin như sau:
 
-  Username: {User.Name}
+  Tên đăng nhập: {User.Name}
   Kết nối với: {ProviderName}
 
 Bạn có thể truy cập trang web tại {/,exurl,domain}.';
 $Definition['EmailWelcomeRegister'] = 'Bạn đã đăng ký thành công tài khoản tại {Title} với thông tin như sau:
 
-  Username: {User.Name}
-  Email: {User.Email}
+  Tên đăng nhập: {User.Name}
+  Địa chỉ thư: {User.Email}
 
 Bạn có thể truy cập trang web tại {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
@@ -477,14 +477,14 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p><a href="{Url}">Đọc chi tiết tại đây</a></p><div class="ClearFix"></div></div>';
 $Definition['End time?'] = 'Giờ kết thúc?';
 $Definition['English'] = 'Tiếng Anh';
-$Definition['Enter your Email address'] = 'Nhập địa chỉ email của bạn';
-$Definition['Enter your email address'] = 'Nhập địa chỉ email của bạn';
-$Definition['Enter your Email address or username'] = 'Nhập địa chỉ email hoặc username của bạn';
-$Definition['Enter Your OpenID Url'] = 'Nhập OpenID Url của bạn';
+$Definition['Enter your Email address'] = 'Nhập địa chỉ thư của bạn';
+$Definition['Enter your email address'] = 'Nhập địa chỉ thư của bạn';
+$Definition['Enter your Email address or username'] = 'Nhập địa chỉ thư hoặc tên đăng nhập của bạn';
+$Definition['Enter Your OpenID Url'] = 'Nhập liên kết OpenID của bạn';
 $Definition['Erase User Content'] = 'Xóa';
 $Definition['Error'] = 'Lỗi';
 $Definition['ErrorBadInvitationCode'] = 'Mã thư mời không đúng.';
-$Definition['ErrorCredentials'] = 'Xin lỗi, không thể tìm thấy tài khoản nào có email/username như yêu cầu.';
+$Definition['ErrorCredentials'] = 'Xin lỗi, không thể tìm thấy tài khoản nào có địa chỉ thư/tên đăng nhập như yêu cầu.';
 $Definition['ErrorPermission'] = 'Xin lỗi, bạn chưa đủ quyền hạn.';
 $Definition['ErrorPluginDisableRequired'] = 'Bạn không thể tắt plugin {0} vì plugin {1} sẽ không thể hoạt động nếu thiếu nó.';
 $Definition['ErrorPluginEnableRequired'] = 'Plugin này yêu cầu phải bật plugin {0} trước.';
@@ -501,14 +501,14 @@ $Definition['Expires'] = 'Hết hạn';
 
 $Definition['Failed to delete group.'] = 'Không thể xóa nhóm.';
 $Definition['Failed to find discussion for commenting.'] = 'Không thể tìm thấy thảo luận để bình luận.';
-$Definition['Failed to load the poll.'] = 'Không thể load trưng cầu';
+$Definition['Failed to load the poll.'] = 'Không thể tải trưng cầu';
 $Definition['Feedback'] = 'Phản hồi';
 $Definition['Female'] = 'Nữ';
 $Definition['Fifth Anniversary'] = 'Kỷ niệm năm thứ năm';
 $Definition['FileName'] = 'Tên tập tin';
-$Definition['Filename'] = 'Tên file';
-$Definition['FileSize'] = 'Kính thước File';
-$Definition['File Size'] = 'Kích cỡ file';
+$Definition['Filename'] = 'Tên tập tin';
+$Definition['FileSize'] = 'Kính thước Tập tin';
+$Definition['File Size'] = 'Kích cỡ tập tin';
 $Definition['First Anniversary'] = 'Kỷ niệm năm thứ nhất';
 $Definition['First Comment'] = 'Bình luận đầu tiên';
 $Definition['Flag'] = 'Nội dung xấu';
@@ -539,7 +539,7 @@ $Definition['Friends'] = 'Bạn';
 $Definition['From'] = 'Từ';
 $Definition['Full Site'] = 'Trang Web Đầy đủ';
 
-$Definition['Garden.Email.SupportAddress'] = 'Email hỗ trợ';
+$Definition['Garden.Email.SupportAddress'] = 'Thư hỗ trợ';
 $Definition['Garden.Email.SupportName'] = 'Tên người hỗ trợ';
 $Definition['Garden.Registration.DefaultRoles'] = 'vai trò mặc định';
 $Definition['Garden.Title'] = 'Tiêu đề banner';
@@ -575,7 +575,7 @@ $Definition['he'] = 'anh ấy';
 $Definition['Heading'] = 'Tiêu đề';
 $Definition['Heading %s'] = 'Đề mục %s';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} đã nhận được huy hiệu <a href="{Url,html}">{Data.Name,text}</a>.';
-$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} đã ban {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} đã cấm {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} gửi bình luận tại <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} đã gửi <a href="{Url,html}">tin nhắn</a> cho bạn';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} đã mở thảo luận mới. <a href="{Url,html}">{Data.Name,text}</a>';
@@ -608,13 +608,13 @@ $Definition['Image'] = 'Ảnh';
 $Definition['images'] = 'ảnh';
 $Definition['Images not allowed'] = 'Ảnh không được phép sử dụng';
 $Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'Hình ảnh sẽ bị thu nhỏ xuống chiều cao tối đa là {maxImageHeight}px.';
-$Definition['Image URL'] = 'URL Ảnh';
+$Definition['Image URL'] = 'Liên kết Ảnh';
 $Definition['in'] = 'trong';
 $Definition['In <b>%s.</b>'] = 'Trong <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Trong <b>%s</b> và thảo luận gần đây.';
 $Definition['Inbox'] = 'Hộp thư';
 $Definition['Incorrect. Try again.'] = 'Không chính xác. Hãy thử lại.';
-$Definition['Indent'] = 'Giảm lề';
+$Definition['Indent'] = 'Thụt lề';
 $Definition['In recent discussions.'] = 'Trong các cuộc thảo luận gần đây.';
 $Definition['In seconds'] = 'giây';
 $Definition['Insert Image'] = 'Chèn ảnh';
@@ -636,7 +636,7 @@ $Definition['Item'] = 'Đề mục';
 $Definition['item'] = 'đề mục';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Còn chờ gì nữa mà không mau đăng nhập hoặc đăng ký để cùng tham gia thảo luận với cộng đồng!';
 
-$Definition['Jail'] = 'Ban';
+$Definition['Jail'] = 'Cho ra đảo';
 $Definition['Jailed users have reduced abilities.'] = 'Thành viên bị ban có quyền hạn hạn chế.';
 $Definition['Join %s'] = 'Tham gia %s';
 $Definition['Joined'] = 'Gia nhập';
@@ -754,7 +754,7 @@ $Definition['Nobody has declined the invitation so far.'] = 'Hiện chưa có ai
 $Definition['Nobody is on the fence right now.'] = 'Hiện không có ai đang do dự.';
 $Definition['No default roles.'] = 'Không có vai trò mặc định nào.';
 $Definition['No discussions were found.'] = 'Không tìm thấy gì cả.';
-$Definition['No items tagged with %s.'] = 'Không item nào có tag %s.';
+$Definition['No items tagged with %s.'] = 'Không mục nào có thẻ %s.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Bạn không có quyền xóa %1$s của các cuộc thảo luận được lựa chọn.';
 $Definition['No results for \'%s\''] = 'Không tìm thấy kết quả nào có từ khóa \'%s\'';
 $Definition['No Roles'] = 'Không có vai trò nào.';
@@ -789,7 +789,8 @@ $Definition['Null Date'] = '-';
 
 $Definition['of'] = 'của';
 $Definition['Off Topic'] = 'Lạc đề';
-$Definition['Okay'] = 'OK';
+$Definition['OK'] = 'Đồng ý';
+$Definition['Okay'] = 'Đồng ý';
 $Definition['OldPassword'] = 'Mật khẩu cũ';
 $Definition['Old Password'] = 'Mật khẩu cũ';
 $Definition['on'] = 'bật';
@@ -806,8 +807,8 @@ $Definition['Organizer'] = 'Người tổ chức';
 $Definition['Organize your Categories'] = 'Sắp xếp danh mục';
 $Definition['Original'] = 'Gốc';
 $Definition['Or you can...'] = 'Hoặc bạn có thể...';
-$Definition['Other Records'] = 'Các record khác';
-$Definition['Outdent'] = 'Giảm lề';
+$Definition['Other Records'] = 'Các bản ghi khác';
+$Definition['Outdent'] = 'Lui lề';
 $Definition['Owner'] = 'Người sở hữu';
 
 $Definition['PageDetailsMessage'] = '%1$s đến %2$s';
@@ -818,21 +819,21 @@ $Definition['ParticipatedHomepageTitle'] = 'Thảo luận tham gia';
 $Definition['Password'] = 'Mật khẩu';
 $Definition['Password Contains Username'] = 'Chứa tên đăng nhập';
 $Definition['Password Good'] = 'Tốt';
-$Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Có ai đó yêu cầu reset mật khẩu của bạn tại %2$s. Để reset mật khẩu vui lòng nhấp vào link bên dưới:
+$Definition['Password Ok'] = 'Đồng ý';
+$Definition['PasswordRequest'] = 'Có ai đó yêu cầu reset mật khẩu của bạn tại %2$s. Để reset mật khẩu vui lòng nhấp vào liên kết bên dưới:
 
   %3$s
 
-Nếu không phải bạn thực hiện yêu cầu, vui lòng bỏ qua email này.';
+Nếu không phải bạn thực hiện yêu cầu, vui lòng bỏ qua thư này.';
 $Definition['Passwords don\'t match'] = 'Mật khẩu không khớp';
-$Definition['Password Strong'] = 'Mạnh mẽ';
+$Definition['Password Strong'] = 'Mạnh';
 $Definition['Password Too Short'] = 'Quá ngắn';
 $Definition['Password Very Weak'] = 'Rất yếu';
 $Definition['Password Weak'] = 'Yếu ';
 $Definition['Paste the URL of an image to quickly embed it.'] = 'Dán URL của một ảnh để nhanh chóng nhúng nó.';
 $Definition['Permalink'] = 'Liên kết';
 $Definition['permalink'] = 'liên kết cố định';
-$Definition['Permanent (301)'] = '(301) Cố định';
+$Definition['Permanent (301)'] = '(301) Vĩnh viễn';
 $Definition['PermissionErrorMessage'] = 'Bạn không đủ quyền hạn để thực hiện tác vụ này.';
 $Definition['PermissionErrorTitle'] = 'Chưa đủ quyền hạn.';
 $Definition['PermissionRequired.Garden.Moderation.Manage'] = 'Phải có quyền của mod mới có thể thực hiện tác vụ này.';
@@ -880,7 +881,7 @@ $Definition['Proceed'] = 'Đồng ý';
 $Definition['Profile'] = 'Hồ sơ';
 $Definition['Profile Fields'] = 'Trường Hồ sơ';
 $Definition['Profile  Fields'] = 'Trường Hồ sơ';
-$Definition['ProfileFieldsCustomDescription'] = 'Dùng những field này để tạo thêm thông tin trong hồ sơ cá nhân. Ví dụ "Tình trạng quan hệ", "Yahoo", hay "Con vật yêu thích".';
+$Definition['ProfileFieldsCustomDescription'] = 'Dùng những trường này để tạo thêm thông tin trong hồ sơ cá nhân. Ví dụ "Tình trạng quan hệ", "Yahoo", hay "Con vật yêu thích".';
 $Definition['Profile Page'] = 'Hồ sơ';
 $Definition['Profile Picture'] = 'Ảnh đại diện';
 $Definition['Profiles'] = 'Hồ sơ';
@@ -925,18 +926,18 @@ $Definition['Recent Tutorials'] = 'Tutorial gần đây';
 $Definition['Recipients'] = 'Người nhận';
 $Definition['RecipientUserID'] = 'người nhận';
 $Definition['Redirecting...'] = 'Đang chuyển...';
-$Definition['Refetch Page'] = 'Load lại trang';
+$Definition['Refetch Page'] = 'Tải lại trang';
 $Definition['Register'] = 'Đăng ký';
 $Definition['Register IP'] = 'Đăng ký IP';
 $Definition['Register with %s'] = 'Đăng ký';
-$Definition['Registration  Fields'] = 'Field đăng ký';
+$Definition['Registration  Fields'] = 'Trường đăng ký';
 $Definition['Registration URL'] = 'URL Đăng ký';
 $Definition['Reject'] = 'Từ chối';
 $Definition['Reject this answer.'] = 'Từ chối câu trả lời này';
 $Definition['Remember me'] = 'Nhớ';
 $Definition['Remember me on this computer'] = 'Lưu mật khẩu';
 $Definition['Remote Configuration'] = 'Thiết lập từ xa';
-$Definition['Remove'] = 'X';
+$Definition['Remove'] = 'Loại bỏ';
 $Definition['Removed by'] = 'Xóa bởi';
 $Definition['Remove from %s'] = 'Xóa khỏi %s';
 $Definition['Remove Invitation'] = 'Xóa Thư mời';
@@ -947,8 +948,8 @@ $Definition['Rename Forum'] = 'Đổi tên diễn đàn';
 $Definition['Reopen'] = 'Mở lại';
 $Definition['Replies'] = 'Trả lời';
 $Definition['Reply'] = 'Trả lời';
-$Definition['ReplyOnly'] = 'Bạn có thể trả lời trực tiếp email này để hồi đáp. Gửi từ {/,exurl}.';
-$Definition['ReplyOrFollow'] = 'Trả lời trực tiếp email này hoặc theo liên kết dưới đây để xem:';
+$Definition['ReplyOnly'] = 'Bạn có thể trả lời trực tiếp thư này để hồi đáp. Gửi từ {/,exurl}.';
+$Definition['ReplyOrFollow'] = 'Trả lời trực tiếp thư này hoặc theo liên kết dưới đây để xem:';
 $Definition['Report'] = 'Phản ánh';
 $Definition['Report %s'] = 'Phản ánh %s';
 $Definition['Reported by: '] = 'Báo cáo bởi:';
@@ -979,7 +980,7 @@ $Definition['Search'] = 'Tìm kiếm';
 $Definition['Search %s'] = 'Tìm kiếm %s';
 $Definition['search archived'] = 'tìm kiếm đã được lưu trữ';
 $Definition['SearchBoxPlaceHolder'] = 'Tìm kiếm';
-$Definition['Search for a tag.'] = 'Tìm kiếm tất cả hoặc chỉ một phần của tag.';
+$Definition['Search for a tag.'] = 'Tìm kiếm tất cả hoặc chỉ một phần của thẻ.';
 $Definition['Search results for \'%s\''] = 'Kết quả tìm kiếm của từ khóa \'%s\'';
 $Definition['search subcategories'] = 'tìm kiếm hạng mục phụ';
 $Definition['Second Anniversary'] = 'Kỷ niệm năm thứ hai';
@@ -1016,7 +1017,7 @@ $Definition['SignIn'] = 'Đăng nhập';
 $Definition['Sign In'] = 'Đăng nhập';
 $Definition['SigningOut'] = 'Xin vui lòng đợi giây lát.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Đăng nhập </a> hoặc <a href="{RegisterUrl,html}">Đăng ký</a> để gửi bình luận.';
-$Definition['Sign in to vote!'] = 'Đăng nhập để vote!';
+$Definition['Sign in to vote!'] = 'Đăng nhập để biểu quyết!';
 $Definition['Sign In with %s'] = 'Đăng nhập bằng %s';
 $Definition['Sign In with Disqus'] = 'Đăng nhập bằng Disqus';
 $Definition['Sign In with Facebook'] = 'Đăng nhập bằng Facebook';
@@ -1032,7 +1033,7 @@ $Definition['Site'] = 'Trang web';
 $Definition['Sitemap Settings'] = 'Thiết lập sitemap';
 $Definition['Sites'] = 'Các trang web';
 $Definition['Sixth Anniversary'] = 'Kỷ niệm năm thứ sáu';
-$Definition['Social'] = 'Xã hội';
+$Definition['Social'] = 'Mạng xã hội';
 $Definition['somebody'] = 'ai đó';
 $Definition['Some Code'] = 'Mã';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'Có người đã trả lời câu hỏi của bạn. Bạn cần phải chấp nhận hoặc từ chối câu trả lời của họ.';
@@ -1044,7 +1045,7 @@ $Definition['Spam Queue'] = 'Danh sách spam';
 $Definition['Split'] = 'Chia';
 $Definition['Split Comments'] = 'Chia bình luận';
 $Definition['Spoiler'] = 'Nói trước';
-$Definition['Spoof User'] = 'Ngụy trang thành viên';
+$Definition['Spoof User'] = 'Giả mạo thành viên';
 $Definition['Start'] = 'Bắt đầu';
 $Definition['Start a Group'] = 'Bắt đầu Nhóm';
 $Definition['Start a New Conversation'] = 'Gửi tin nhắn';
@@ -1062,15 +1063,15 @@ $Definition['Subject'] = 'Tiêu đề';
 $Definition['Suggested Value'] = 'Giá trị đề xuất';
 
 $Definition['Tagged'] = 'Được tag';
-$Definition['Tagged with '] = 'Được tag với';
-$Definition['Tagged with "%s"'] = 'Đã tag "%s"';
-$Definition['Tagging'] = 'Tag';
+$Definition['Tagged with '] = 'Được đánh dấu với';
+$Definition['Tagged with "%s"'] = 'Đã đánh thẻ "%s"';
+$Definition['Tagging'] = 'Đánh thẻ';
 $Definition['TagHint'] = 'Bắt đầu đánh máy...';
-$Definition['Tag Name'] = 'Tên tag';
-$Definition['Tags'] = 'Tag';
+$Definition['Tag Name'] = 'Tên thẻ';
+$Definition['Tags'] = 'Thẻ';
 $Definition['tags'] = 'thẻ';
-$Definition['Tags are keywords that users can assign to discussions to help categorize their question with similar questions.'] = 'Tag là những từ khóa mà thành viên gán cho thảo luận nhằm mục đích phân loại.';
-$Definition['Take Action'] = 'OK';
+$Definition['Tags are keywords that users can assign to discussions to help categorize their question with similar questions.'] = 'Thẻ là những từ khóa mà thành viên gán cho thảo luận nhằm mục đích phân loại.';
+$Definition['Take Action'] = 'Hành động';
 $Definition['Take Action:'] = 'Hành động:';
 $Definition['Target'] = 'Mục tiêu';
 $Definition['Tell the user why you\'re warning them'] = 'Tại sao bạn cảnh cáo thành viên này';
@@ -1079,52 +1080,39 @@ $Definition['Tenth Anniversary'] = 'Kỷ niệm năm thứ mười';
 $Definition['Terms'] = 'Điều khoản';
 $Definition['TermsOfService'] = 'Điều khoản sử dụng dịch vụ';
 $Definition['Terms of Service'] = 'Điều khoản sử dụng dịch vụ';
-$Definition['TermsOfServiceText'] = '
- <p>You agree, through your use of this service, that you will not use this
- community to post any material which is knowingly false and/or defamatory,
- inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually
- oriented, threatening, invasive of a person\'s privacy, or otherwise violative
- of any law. You agree not to post any copyrighted material unless the
- copyright is owned by you.</p>
- 
- <p>We at this community also reserve the right to reveal your identity (or
- whatever information we know about you) in the event of a complaint or legal
- action arising from any message posted by you. We log all internet protocol
- addresses accessing this web site.</p>
- 
- <p>Please note that advertisements, chain letters, pyramid schemes, and
- solicitations are inappropriate on this community.</p>
- 
- <p>We reserve the right to remove any content for any reason or no reason at
- all. We reserve the right to terminate any membership for any reason or no
- reason at all.</p>
- 
- <p>You must be at least 13 years of age to use this service.</p>
-';
+$Definition['TermsOfServiceText'] = 'Bạn đồng ý, thông qua việc sử dụng dịch vụ này, rằng bạn sẽ không sử dụng nó để gửi những nội dung mang tính sai trái hoặc/và phỉ báng, không chính xác, xỉ nhục, thô lỗ, bạo lực, thù hằn, quấy rối, xúc phạm, tục tĩu, có thiên hướng tình dục, đe dọa, tới cá nhân người khác,  hoặc các nội dung có tính vi phạm pháp luật. Bạn đồng ý không gửi bất cứ nội dung nào đã được bảo vệ bản quyền trừ khi nó được bạn sở hữu.
+
+Chúng tôi cũng sẵn sàng cung cấp thông tin nhận dạng của bạn (hoặc bất cứ thông tin nào mà chúng tôi biết về bạn) trong trường hợp nhận yêu cầu từ phía pháp luật về những nội dung bạn đã đăng. Chúng tôi ghi lại mọi địa chỉ giao thức được sử dụng để truy cập trang này.
+
+Xin lưu ý mọi hành động với mục đích gửi thư quảng cáo, thư dây chuyền (hay còn gọi là thư bất hạnh), chào mời kinh doanh đa cấp và mời mọc hoàn toàn không phù hợp trong diễn đàn.
+
+Chúng tôi được quyền loại bỏ bất cứ nội dung nào với bất kì lý do nào bằng mọi giá. Chúng tôi được quyền kết thúc quyền thành viên vì bất cứ lý do nào bằng mọi giá.
+
+Để có thể sử dụng dịch vụ này, bạn ít nhất phải từ 13 tuổi trở lên.\';';
 $Definition['Text  Max  Length'] = 'Độ dài tối đa văn bản';
 $Definition['The %s you were looking for could not be found.'] = 'Không thể tìm thấy %s bạn đang tìm kiếm.';
 $Definition['the category'] = 'hạng mục';
 $Definition['The content you were looking for has been deleted.'] = 'Nội dung bạn đang tìm kiếm đã bị xóa.';
 $Definition['The conversation has been cleared.'] = 'Cuộc trao đổi đã bị xóa.';
 $Definition['The CSRF token is invalid.'] = 'Dấu hiệu CSRF không hợp lệ.';
-$Definition['The email you entered in use by another member.'] = 'Email này đã có thành viên đăng ký.';
-$Definition['The email you have entered is already related to an existing account.'] = 'Email này đã có thành viên đăng ký.';
-$Definition['The file failed to upload.'] = 'Upload không thành công.';
+$Definition['The email you entered in use by another member.'] = 'Thư  này đã có thành viên sử dụng.';
+$Definition['The email you have entered is already related to an existing account.'] = 'Thư này đã có thành viên sử dụng.';
+$Definition['The file failed to upload.'] = 'Tải lên không thành công.';
 $Definition['their'] = 'của họ';
 $Definition['The name you entered is already in use by another member.'] = 'Tên này đã được đăng ký.';
 $Definition['The page you were looking for could not be found.'] = 'Không thể tìm thấy trang bạn yêu cầu';
 $Definition['The quote had to be converted from %s to %s.'] = 'Trích dẫn được chuyển từ %s sang %s. Một vài style có thể không chính xác.';
 $Definition['There\'s already a %s with the name %s.'] = 'Hiện có %1$s với tên %2$s.';
 $Definition['There aren\'t any groups yet.'] = 'Hiện không có nhóm nào.';
-$Definition['There are no tags in the system yet.'] = 'Hiện chưa có tag nào trong hệ thống.';
+$Definition['There are no tags in the system yet.'] = 'Hiện chưa có thẻ nào trong hệ thống.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'Mã xác nhận không chính xác. Vui lòng thử lại.';
-$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Hiện có một tài khoản trùng username (%1$s) hoặc email (%2$s) với bạn. Bạn có thể tạo tài khoản mới, hoặc nhập mật khẩu để đăng nhập vào tài khoản hiện có.';
+$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Hiện có một tài khoản trùng tên đăng nhập (%1$s) hoặc địa chỉ thư(%2$s) với bạn. Bạn có thể tạo tài khoản mới, hoặc nhập mật khẩu để đăng nhập vào tài khoản hiện có.';
 $Definition['The response was not in the correct format.'] = 'Phản hồi không hợp lệ.';
 $Definition['There was an error connecting to Disqus'] = 'Xảy ra lỗi trong quá trình kết nối với Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Xảy ra lỗi trong quá trình kết nối với Facebook';
-$Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Xảy ra lỗi trong quá trình upload file. Có thể vì kích cỡ file quá lớn.';
+$Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Xảy ra lỗi trong quá trình tải lên tập tin. Có thể vì kích cỡ tập tin quá lớn.';
 $Definition['The site is currently undergoing maintenance.'] = 'Trang web đang được bảo trì.';
-$Definition['The uploaded file was too big (max %s).'] = 'File quá lớn (tối đa %s)';
+$Definition['The uploaded file was too big (max %s).'] = 'Tập tin quá lớn (tối đa %s)';
 $Definition['The user has already been warned for this %s.'] = 'Người dùng đã bị cảnh cáo vì điều %s này.';
 $Definition['The user isn\'t banned.'] = 'Thành viên không bị cấm hoặc bị một vài chức năng khác cấm.';
 $Definition['they'] = 'họ';
@@ -1135,7 +1123,7 @@ $Definition['This discussion has been closed.'] = 'Thảo luận đã bị khóa
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'Cuộc thảo luận này có liên quan đến một nguồn nội dung ngoại lai chưa xác định.';
 $Definition['This discussion was created from comments split from: %s.'] = 'Thảo luận này được mở từ những bình luận chia ra từ: %s.';
 $Definition['This discussion was merged into %s'] = 'Thảo luận này đã được ghép với %s';
-$Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Hình này đã được resize. Nhấp vào để xem đầy đủ.';
+$Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Hình này đã được chỉnh lại kích thước. Nhấp vào để xem đầy đủ.';
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'Đây là trưng cầu kín: không ai thấy lựa chọn của bạn.';
 $Definition['This is a public poll: others will see what you voted for.'] = 'Đây là trưng cầu công khai: người khác sẽ thấy lựa chọn của bạn.';
 $Definition['This is a system account and does not represent a real person.'] = 'Đây chỉ là một tài khoản ảo và không đại diện cho danh tính thật.';
@@ -1157,7 +1145,7 @@ $Definition['Toggle HTML view'] = 'Bật/tắt chế độ xem HTML';
 $Definition['Toggle lights'] = 'Bật/tắt đèn';
 $Definition['Topic'] = 'Chủ đề';
 $Definition['Topics'] = 'Chủ đề';
-$Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Để gửi lại email kích hoạt, vui lòng nhấp <a href="%s">vào đây</a>.';
+$Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Để gửi lại thư kích hoạt, vui lòng nhấp <a href="%s">vào đây</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Để sử dụng reCAPTCHA, bạn phải lấy API key từ %s';
 $Definition['Transport error: %s'] = 'Có lỗi xảy ra trong quá trình thực hiện tác vụ.<br />Máy chủ trả về phản hồi sau: %s';
 $Definition['Troll'] = 'Phá hoại';
@@ -1172,13 +1160,13 @@ $Definition['Unannounce'] = 'Gỡ chú ý';
 $Definition['Unanswered'] = 'Chưa trả lời';
 $Definition['Unanswered Questions'] = 'Chưa trả lời';
 $Definition['unavailable'] = 'không khả dụng';
-$Definition['Unban User'] = 'Gỡ ban thành viên';
+$Definition['Unban User'] = 'Bỏ cấm thành viên';
 $Definition['Unbookmark'] = 'Thôi theo dõi';
 $Definition['Undefined discussion body.'] = 'Nội dung thảo luận không xác định.';
 $Definition['Undefined discussion subject.'] = 'Chủ đề thảo luận không xác định.';
 $Definition['Undefined foreign content'] = 'Nội dung ngoại lai chưa xác định';
-$Definition['Undo Follow'] = 'Thôi theo dõi';
-$Definition['Unfollow'] = 'Thôi theo dõi';
+$Definition['Undo Follow'] = 'Ngừng theo dõi';
+$Definition['Unfollow'] = 'Ngừng theo dõi';
 $Definition['Unhide'] = 'Thôi ẩn';
 $Definition['Unignore'] = 'Bỏ phớt lờ';
 $Definition['Unknown'] = 'Không rõ';
@@ -1187,39 +1175,39 @@ $Definition['Unordered list'] = 'Danh sách không sắp xếp';
 $Definition['Unread'] = 'Chưa đọc';
 $Definition['Unread Discussions'] = 'Thảo luận chưa đọc';
 $Definition['Unsink'] = 'Hiện';
-$Definition['Unspecified'] = 'Không nêu';
+$Definition['Unspecified'] = 'Không xác định';
 $Definition['Upcoming Events'] = 'Sự kiện Sắp tới';
 $Definition['Update'] = 'Cập nhật';
 $Definition['Updated badge'] = 'Huy hiệu vừa cập nhật';
 $Definition['Upload'] = 'Tải lên';
-$Definition['Uploading...'] = 'Đang upload...';
+$Definition['Uploading...'] = 'Đang tải...';
 $Definition['UrlCode'] = 'Mã Url';
 $Definition['Use My Current Password'] = 'Dùng mật khẩu hiện tại của tôi';
 $Definition['User "%s" does not exist.'] = 'Thành viên "%s" không tồn tại.';
 $Definition['Username'] = 'Tên người dùng';
-$Definition['Username can only contain letters, numbers, and underscores.'] = 'Username chỉ được bao gồm chữ latin, số, và gạch chân.';
-$Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Username phải từ 3-20 ký tự, chỉ bao gồm chữ latin thông thường, số hoặc gạch dưới.';
-$Definition['UsernameError'] = 'Username phải từ 3-20 ký tự, chỉ bao gồm chữ latin thông thường, số hoặc gạch dưới.';
-$Definition['Username or email'] = 'Username hoặc email';
-$Definition['User not found.'] = 'Xin lỗi, không thể tìm thấy tài khoản nào có email/username như yêu cầu.';
+$Definition['Username can only contain letters, numbers, and underscores.'] = 'Tên đăng nhập chỉ được bao gồm chữ cái,  chữ số, và kí tự gạch chân.';
+$Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Tên đăng nhập phải từ 3-20 ký tự, chỉ bao gồm chữ cái thông thường, số hoặc kí tự gạch dưới.';
+$Definition['UsernameError'] = 'Tên đăng nhập phải từ 3-20 ký tự, chỉ bao gồm chữ cái thông thường, số hoặc kí tự gạch dưới.';
+$Definition['Username or email'] = 'Tên đăng nhập hoặc địa chỉ thư';
+$Definition['User not found.'] = 'Xin lỗi, không thể tìm thấy tài khoản nào có địa chỉ thư/tên đăng nhập như yêu cầu.';
 $Definition['Users Count'] = 'Số lương thành viên';
 $Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Sử dụng tới {maxImages,plural,%s ảnh, %s ảnh}.';
 
 $Definition['ValidateBanned'] = '%s không được phép.';
-$Definition['ValidateBoolean'] = '%s không phải hàm boolean.';
+$Definition['ValidateBoolean'] = '%s không phải là giá trị logic hợp lệ.';
 $Definition['ValidateConnection'] = 'Không thể kết nối đến cơ sở dữ liệu. Xảy ra lỗi sau: <code>%s</code>';
 $Definition['ValidateDate'] = '%s không phải ngày chính xác.';
 $Definition['ValidateDecimal'] = '%s không phải số.';
 $Definition['ValidateEmail'] = '%s không chính xác.';
 $Definition['ValidateEnum'] = '%s không chính xác.';
 $Definition['ValidateFormat'] = 'Bạn không thể dùng loại mã HTML này.';
-$Definition['ValidateInteger'] = '%s không phải hàm integer.';
+$Definition['ValidateInteger'] = '%s không phải  là số tự nhiên hợp lệ.';
 $Definition['ValidateIntegerArray'] = '%s phải được chia bằng dấu phẩy.';
 $Definition['ValidateLength'] = '%1$s dài hơn cho phép %2$s ký tự.';
 $Definition['ValidateMatch'] = '%s không trùng khớp.';
 $Definition['ValidateMinimumAge'] = 'Bạn không đủ tuổi để tham gia cộng đồng này.';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Bạn phải chọn ít nhất một %s.';
-$Definition['ValidateRegex'] = '%s không phải format đúng.';
+$Definition['ValidateRegex'] = '%s không phải định dạng đúng.';
 $Definition['ValidateRequired'] = 'Yêu cầu %s.';
 $Definition['ValidateRequiredArray'] = 'Bạn phải chọn ít nhất một %s.';
 $Definition['ValidateString'] = '%s không phải là chuỗi hợp lệ.';
@@ -1228,7 +1216,7 @@ $Definition['ValidateTime'] = '%s không phải thời gian chính xác.';
 $Definition['ValidateTimestamp'] = '%s không phải thời gian chính xác.';
 $Definition['ValidateUrl'] = 'Ô %s không phải là một liên kết hợp lệ.';
 $Definition['ValidateUrlStringRelaxed'] = '%s không được bao gồm gạch chéo, dấu ngoặc đơn hoặc ngoặc kép.';
-$Definition['ValidateUsername'] = 'Username phải từ 3-20 ký tự, chỉ bao gồm chữ latin thông thường, số hoặc gạch dưới.';
+$Definition['ValidateUsername'] = 'Tên đăng nhập phải từ 3-20 ký tự, chỉ bao gồm chữ cái thông thường, số hoặc kí tự gạch dưới.';
 $Definition['ValidateVersion'] = '%s không phải phiên bản chính xác. Kiểm tra hàm php version_compare() để xem ví dụ về phiên bản đúng.';
 $Definition['Value'] = 'Giá trị';
 $Definition['Vanilla'] = 'Thường';
@@ -1246,15 +1234,15 @@ $Definition['Visits'] = 'Lượt truy cập';
 $Definition['Visit Site'] = 'Trang chủ';
 $Definition['Vote'] = 'Bình chọn';
 $Definition['Vote Down'] = 'Down';
-$Definition['Votes'] = 'Vote';
-$Definition['Vote Up'] = 'Up';
+$Definition['Votes'] = 'Lượt đánh giá';
+$Definition['Vote Up'] = 'Bỏ phiếu';
 
 $Definition['wall'] = 'tường';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'Muốn tham gia thảo luận?';
 $Definition['Warn'] = 'Cảnh cáo';
 $Definition['Warn %s'] = 'Cảnh cáo %s';
 $Definition['Warned for'] = 'Cảnh cáo về việc';
-$Definition['Warning'] = 'C?nh b';
+$Definition['Warning'] = 'Cảnh báo';
 $Definition['Warnings'] = 'Cảnh cáo';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} cảnh cáo {WarnUserID,User} {Points,plural,%s points}.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} cảnh cáo {WarnUserID,User} {Points,plural,%s points} (just a notice).';
@@ -1289,7 +1277,7 @@ $Definition['You\'ve already created the maximum number of groups.'] = 'Bạn đ
 $Definition['You\'ve applied to join this group.'] = 'Bạn đã đăng ký tham gia nhóm này.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Bạn đã hỏi câu hỏi hiện đã được trả lời</a>. Hãy đảm bảo bạn đã chấp nhận/từ chối các câu trả lời.';
 $Definition['You\'ve been invited to join {Name}.'] = 'Bạn đã được mời tham gia {Name}.';
-$Definition['You\'ve been Jailed.'] = 'Bạn đã bị ban.';
+$Definition['You\'ve been Jailed.'] = 'Bạn đã bị cấm.';
 $Definition['You already have an account here.'] = 'Bạn đã có một tài khoản tại đây.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'Bạn chuẩn bị ban {User.UserID,user}.';
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'Bạn sắp di chuyển %1$s trong số %2$s của cuộc thảo luận được chọn.';
@@ -1307,11 +1295,11 @@ $Definition['You are limited to %s recipients.'] = 'Bạn bị giới hạn đ�
 $Definition['You aren\'t a %s of this group.'] = 'Bạn không phải là %s của nhóm này.';
 $Definition['You aren\'t allowed to %s this group.'] = 'Bạn không được phép %s nhóm này.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Bạn chỉ được cho phép {maxImages,plural,%s ảnh,%s ảnh}.';
-$Definition['You can\'t leave the group you started.'] = 'Bạn không thể rời khỏi nhóm bạn đã bắt đầu.';
+$Definition['You can\'t leave the group you started.'] = 'Bạn không thể rời khỏi nhóm bạn đã tạo.';
 $Definition['You can either ask a question or start a discussion.'] = 'Bạn có thể đặt câu hỏi hay mở thảo luận nhằm chia sẻ thông tin thú vị. Cứ mạnh dạn đừng lăn tăn.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Bạn có thể theo dõi danh mục và nhận thông báo về tất cả các bài trong danh mục này.';
-$Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Bạn không thể sửa thumbnail của ảnh đại diện này.';
-$Definition['You can only specify up to %s tags.'] = 'Bạn chỉ có thể đặt %s tag.';
+$Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Bạn không thể sửa ảnh thu nhỏ của ảnh đại diện này.';
+$Definition['You can only specify up to %s tags.'] = 'Bạn chỉ có thể đặt %s thẻ.';
 $Definition['You can remove or ban this member from the group.'] = 'Bạn có thể xóa hoặc cấm thành viên này khỏi nhóm. Các thành viên bị cấm sẽ không bao giờ có thể tham gia nhóm nữa.';
 $Definition['You can use HTML in your signature.'] = 'Bạn có thể dùng <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">mã HTML đơn giản</a></b> trong chữ ký.';
 $Definition['You don\'t have permission to do that.'] = 'Bạn không có đủ quyền hạn để thực hiện tác vụ này.';
@@ -1338,14 +1326,14 @@ $Definition['You must agree to the terms of service.'] = 'Bạn phải đồng �
 $Definition['You must be at least %d years old to register.'] = 'Bạn phải từ %d tuổi trở lên để đăng ký.';
 $Definition['You must be signed in.'] = 'Bạn cần phải đăng nhập.';
 $Definition['You must confirm you have received consent to register.'] = 'Bạn phải xác nhận đã được chấp nhận đăng ký.';
-$Definition['You need to confirm your email address.'] = 'Bạn cần phải xác thực địa chỉ email. Nhấp<a href="{/entry/emailconfirmrequest,url}">vào đây</a> để gửi lại email xác thực.';
+$Definition['You need to confirm your email address.'] = 'Bạn cần phải xác thực địa chỉ thư. Nhấp<a href="{/entry/emailconfirmrequest,url}">vào đây</a> để gửi lại thư xác thực.';
 $Definition['You need to sign in before you can do this.'] = 'Bạn phải đăng nhập mới có thể thực hiện tác vụ này.';
 $Definition['your'] = 'của bạn';
 $Definition['Your application for this group was denied.'] = 'Đăng ký tham gia nhóm này của bạn đã bị từ chối.';
 $Definition['Your changes have been saved.'] = 'Đã lưu.';
 $Definition['Your changes have been saved successfully.'] = 'Đã lưu.';
 $Definition['Your changes were saved.'] = 'Đã lưu thay đổi.';
-$Definition['Your email has been successfully confirmed.'] = 'Email của bạn đã được xác thực thành công.';
+$Definition['Your email has been successfully confirmed.'] = 'Thư của bạn đã được xác thực thành công.';
 $Definition['Your invitation has been sent.'] = 'Thư mời đã được gửi.';
 $Definition['Your old password was incorrect.'] = 'Mật khẩu cũ không đúng.';
 $Definition['Your password has been changed.'] = 'Mật khẩu đã được thay đổi thành công.';
@@ -1353,8 +1341,8 @@ $Definition['Your picture has been removed.'] = 'Đã xóa ảnh đại diện.'
 $Definition['Your post will appear once it\'s been approved.'] = 'Bài của bạn sẽ hiển thị sau khi được duyệt.';
 $Definition['Your preferences have been saved.'] = 'Đã lưu thiết lập.';
 $Definition['Your private conversations with other members.'] = 'Những cuộc trao đổi cá nhân của bạn với các thành viên khác.';
-$Definition['Your registered username: <strong>%s</strong>'] = 'Username đăng ký: <strong>%s</strong>';
-$Definition['Your request has been sent.'] = 'Yêu cầu của bạn đã được gửi. Kiểm tra email để biết thêm chi tiết.';
+$Definition['Your registered username: <strong>%s</strong>'] = 'Tên đăng nhập đã đăng ký: <strong>%s</strong>';
+$Definition['Your request has been sent.'] = 'Yêu cầu của bạn đã được gửi. Kiểm tra thư để biết thêm chi tiết.';
 $Definition['Your settings have been saved.'] = 'Đã lưu thiết lập.';
 $Definition['Your settings have been saved successfully.'] = 'Thiết lập đã được lưu.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Trạng thái bây giờ của bạn đối với sự kiện này là: <b>%s</b>';
