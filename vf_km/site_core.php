@@ -391,5 +391,3 @@ $Definition['Your request has been sent.'] = 'បាន​ផ្ញើ​សំ�
 $Definition['Your settings have been saved.'] = 'បាន​រក្សា​ទុក​ការ​កំណត់​របស់​អ្នក។';
 $Definition['Your settings have been saved successfully.'] = 'បាន​រក្សា​ទុក​ការ​កំណត់​របស់​អ្នក​ដោយ​ជោគជ័យ។';
 $Definition['Your warning was added.'] = 'បាន​បន្ថែម​ការ​ព្រមាន​របស់​អ្នក។';
-
-$Definition[' You should '] = 'អ្នក​គួរ​តែ';

@@ -989,7 +989,4 @@ $Definition['Your request has been sent.'] = 'آپ کی درخواست بھیج 
 $Definition['Your settings have been saved.'] = 'آپ کی ترجیحات کو محفوظ کردیا گیا ہے۔';
 $Definition['Your settings have been saved successfully.'] = 'آپ کی ترجیحات کو کامیابی سے محفوظ کردیا گیا ہے۔';
 $Definition['Your warning was added.'] = 'آپ کی تنبیہہ شامل کردی گئی ہے۔';
-
-$Definition[' You should '] = 'آپ کو کرنا چاہئے';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} نے {NotifyUserID,you}  کو اس <a href="{Url,htmlencode}">  گفتگو </a> میں شامل کیا ہے۔';

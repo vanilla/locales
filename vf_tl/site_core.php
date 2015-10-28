@@ -990,7 +990,4 @@ $Definition['Your request has been sent.'] = 'Ipinadala na ang kahilingan mo. I-
 $Definition['Your settings have been saved.'] = 'Ang mga setting mo ay nai-save na.';
 $Definition['Your settings have been saved successfully.'] = 'Ang iyong mga setting ay matagumpay na nai-save.';
 $Definition['Your warning was added.'] = 'Idinagdag ang iyong babala.';
-
-$Definition[' You should '] = 'Ikaw ay dapat';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} idinagdag {NotifyUserID,you} sa isang <a href="{Url,htmlencode}"> usapan </a>.';

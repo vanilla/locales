@@ -1386,8 +1386,5 @@ $Definition['Your settings have been saved.'] = 'Asetuksesi on tallennettu.';
 $Definition['Your settings have been saved successfully.'] = 'Asetuksesi on tallennettu.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Tilasi tässä tapahtumassa on nyt: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Varoitus on l&auml;hetetty.';
-
-$Definition[' You should '] = ' Sinun pit&auml;&auml; ';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} lis&auml;si {NotifyUserID,you} sinut <a href="{Url,htmlencode}">keskusteluun</a>.';
 $Definition['You wrote:'] = 'Sinä kirjoitit:';

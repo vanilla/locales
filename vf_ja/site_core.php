@@ -1384,8 +1384,5 @@ $Definition['Your settings have been saved.'] = '設定を保存しました。'
 $Definition['Your settings have been saved successfully.'] = '設定を保存しました。';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'このイベントでのあなたの現在の状態: <b>%s</b>';
 $Definition['Your warning was added.'] = '警告が追加されました。';
-
-$Definition[' You should '] = 'あなたは';
-
 $Definition['You were added to a conversation.'] = '<a href="{Url,htmlencode}">会話</a>するために、{InsertUserID,user} が{NotifyUserID,you}を加えました。';
 $Definition['You wrote:'] = 'あなたは以下のように書きました:';

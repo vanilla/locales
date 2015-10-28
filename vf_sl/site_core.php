@@ -988,7 +988,4 @@ $Definition['Your request has been sent.'] = 'Vaša zahteva je bila poslana. Za 
 $Definition['Your settings have been saved.'] = 'Vaše nastavitve so bile shranjene.';
 $Definition['Your settings have been saved successfully.'] = 'Vaše nastavitve so bile uspešno shranjene.';
 $Definition['Your warning was added.'] = 'Vaše opozorilo je bilo dodano.';
-
-$Definition[' You should '] = 'Morate';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} je dodal/-a {NotifyUserID,you} v <a href="{Url,htmlencode}">pogovor</a>.';

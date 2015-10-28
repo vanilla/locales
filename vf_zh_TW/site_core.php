@@ -1357,8 +1357,5 @@ $Definition['Your settings have been saved.'] = '您的設定已儲存.';
 $Definition['Your settings have been saved successfully.'] = '您已成功保存設置。';
 $Definition['Your status for this event is now: <b>%s</b>'] = '現在您在本活動的狀態為：<b>%s</b>';
 $Definition['Your warning was added.'] = '您已添加了警告。';
-
-$Definition[' You should '] = '您應該';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user}將{NotifyUserID,you}加入了<a href="{Url,htmlencode}">對話</a>。';
 $Definition['You wrote:'] = '您寫道：';

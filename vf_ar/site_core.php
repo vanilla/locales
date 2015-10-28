@@ -1370,8 +1370,5 @@ $Definition['Your settings have been saved.'] = 'تم حفظ إعداداتك.';
 $Definition['Your settings have been saved successfully.'] = 'تم حفظ الإعدادات بنجاح.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'حالتك بالنسبة لهذا الحدث الآن هي: <b>%s</b>';
 $Definition['Your warning was added.'] = 'تمت إضافة تحذيرك';
-
-$Definition[' You should '] = ' يجب عليك ';
-
 $Definition['You were added to a conversation.'] = 'قام {InsertUserID,user} بإضافة {NotifyUserID,you} إلى <a href="{Url,htmlencode}">محادثة</a>.';
 $Definition['You wrote:'] = 'أنت كتبت:';

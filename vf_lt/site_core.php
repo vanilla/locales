@@ -1077,7 +1077,4 @@ $Definition['Your request has been sent.'] = 'Tavo užklausa buvo išsiųsta. El
 $Definition['Your settings have been saved.'] = 'Jūsų nustatymai buvo išsaugoti.';
 $Definition['Your settings have been saved successfully.'] = 'Jūsų nustatymai buvo išsaugoti sėkmingai.';
 $Definition['Your warning was added.'] = 'Tavo įspėjimas buvo pridėtas.';
-
-$Definition[' You should '] = 'Tu privalai';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} pridėtas {NotifyUserID,you} į <a href="{Url,htmlencode}">conversation</a>.';

@@ -1351,9 +1351,6 @@ $Definition['Your settings have been saved.'] = '설정이 저장되었습니다
 $Definition['Your settings have been saved successfully.'] = '설정이 성공적으로 저장되었습니다.';
 $Definition['Your status for this event is now: <b>%s</b>'] = '이 이벤트에 대한 당신의 현재 상황: <b>%s</b>';
 $Definition['Your warning was added.'] = '경고가 추가되었습니다.';
-
-$Definition[' You should '] = '당신이 해야할 것은';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} 가 {NotifyUserID,you} 에게  <a href="{Url,htmlencode}">대화</a> 를 더함.
 ';
 $Definition['You wrote:'] = '당신:';

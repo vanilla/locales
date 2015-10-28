@@ -1042,7 +1042,4 @@ $Definition['Your request has been sent.'] = 'आपके अनुरोध �
 $Definition['Your settings have been saved.'] = 'आपकी सेटिंग को सहेज लिया गया है।';
 $Definition['Your settings have been saved successfully.'] = 'आपकी सेटिंग को सफलतापूर्वक सहेज लिया गया है।';
 $Definition['Your warning was added.'] = 'आपकी चेतावनी को जोड़ दिया गया है।';
-
-$Definition[' You should '] = 'आपको';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} ने {NotifyUserID,you} को <a href="{Url,htmlencode}">बातचीत</a> में जोड़ा है।';

@@ -1359,8 +1359,5 @@ $Definition['Your settings have been saved.'] = 'Setările dumneavoastră au fos
 $Definition['Your settings have been saved successfully.'] = 'Setările dumneavoastră au fost salvate cu succes';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Statusul dumneavoastră pentru acest eveniment este: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Avertismentul dumneavoastră a fost adăugat';
-
-$Definition[' You should '] = 'Ar trebui sa';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} v-a adăugat {NotifyUserID,you}  <a href="{Url,htmlencode}">conversației</a>';
 $Definition['You wrote:'] = 'Ați scris:';

@@ -302,5 +302,3 @@ $Definition['You must agree to the terms of service.'] = 'Morate se složiti sa 
 $Definition['You need to confirm your email address.'] = 'Morate potvrditi email adresu. Kliknuti <a href="{/entry/emailconfirmrequest,url}">here</a> za ponovno slanje poruke za potvrdu.';
 $Definition['your'] = 'tvoje';
 $Definition['Your email has been successfully confirmed.'] = 'Vaša email adrese je uspešno potvrđena.';
-
-$Definition[' You should '] = 'Trebalo bi';

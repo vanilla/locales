@@ -1365,8 +1365,5 @@ $Definition['Your settings have been saved.'] = 'Οι ρυθμίσεις σας 
 $Definition['Your settings have been saved successfully.'] = 'Οι ρυθμίσεις σας έχουν αποθηκευτεί επιτυχώς.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Η κατάστασή σας για την εκδήλωση αυτή είναι τώρα:<b>%s</b>';
 $Definition['Your warning was added.'] = 'Η προειδοποίησή σας προστέθηκε.';
-
-$Definition[' You should '] = 'Θα έπρεπε';
-
 $Definition['You were added to a conversation.'] = 'Ο χρήστης {InsertUserID,user} πρόσθεσε το χρήστη {NotifyUserID,you} σε μία <a href="{Url,htmlencode}">συνομιλία</a>.';
 $Definition['You wrote:'] = 'Εσύ έγραψες:';

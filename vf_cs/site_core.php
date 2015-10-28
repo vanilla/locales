@@ -1343,8 +1343,5 @@ $Definition['Your settings have been saved.'] = 'Tvé nastavení bylo uloženo.'
 $Definition['Your settings have been saved successfully.'] = 'Tvé nastavení bylo úspěšně uloženo.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Tvůj status pro tuto událost je nyní: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Tvé varováni bylo přidáno.';
-
-$Definition[' You should '] = ' Měl bys ';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} přidán {NotifyUserID,you} do <a href="{Url,htmlencode}">konverzace</a>.';
 $Definition['You wrote:'] = 'Napsal jsi:';

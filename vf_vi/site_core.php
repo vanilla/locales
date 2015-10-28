@@ -1347,8 +1347,5 @@ $Definition['Your settings have been saved.'] = 'Đã lưu thiết lập.';
 $Definition['Your settings have been saved successfully.'] = 'Thiết lập đã được lưu.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Trạng thái bây giờ của bạn đối với sự kiện này là: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Cảnh cáo đã được thêm vào.';
-
-$Definition[' You should '] = 'Bạn nên';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} đã thêm {NotifyUserID,you} vào một <a href="{Url,htmlencode}">cuộc trao đổi</a>.';
 $Definition['You wrote:'] = 'Bạn đã viết là:';

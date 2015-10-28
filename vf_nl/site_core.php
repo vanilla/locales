@@ -1339,8 +1339,5 @@ $Definition['Your settings have been saved.'] = 'Je instellingen zijn opgeslagen
 $Definition['Your settings have been saved successfully.'] = 'Je instellingen zijn succesvol bewaard';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Uw status voor dit evenement is nu: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Uw waarschuwing is toegevoegd.';
-
-$Definition[' You should '] = 'Je zou';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} voegde {NotifyUserID,you} toe aan een <a href="{Url,htmlencode}">gesprek</a>.';
 $Definition['You wrote:'] = 'Jij schreef:';

@@ -1100,7 +1100,4 @@ $Definition['Your request has been sent.'] = 'Ваш запит був відп�
 $Definition['Your settings have been saved.'] = 'Ваші налаштуваня були збережені.';
 $Definition['Your settings have been saved successfully.'] = 'Ваші налаштування були успішно збережені.';
 $Definition['Your warning was added.'] = 'Ваше попередження було додано.';
-
-$Definition[' You should '] = 'Ви маєте';
-
 $Definition['You were added to a conversation.'] = 'Користувач {InsertUserID,user} додав {NotifyUserID,you} до <a href="{Url,htmlencode}">обговорення</a>.';

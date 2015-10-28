@@ -1345,8 +1345,5 @@ $Definition['Your settings have been saved.'] = 'Dine innstillinger har blitt la
 $Definition['Your settings have been saved successfully.'] = 'Lagringen av innstillingene dine var vellykket. ';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Din status for dette arrangementet er nå:<b>%s</b>';
 $Definition['Your warning was added.'] = 'Din advarsel ble lagt til';
-
-$Definition[' You should '] = ' Du bør';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} lagt til {NotifyUserID,you} til en <a href="{Url,htmlencode}">samtale</a>.';
 $Definition['You wrote:'] = 'Du skrev:';

@@ -1376,8 +1376,5 @@ $Definition['Your settings have been saved.'] = 'ההגדרות שלך נשמר�
 $Definition['Your settings have been saved successfully.'] = 'ההגדרות שלך נשמרו בהצלחה';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'הסטטוס לאירוע זה הוא כרגע: <b>%s</b>';
 $Definition['Your warning was added.'] = 'ההזהרה שלך נוספה';
-
-$Definition[' You should '] = 'אתה צריך';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} המשתמש {NotifyUserID,you} נוסף ל <a href="{Url,htmlencode}"> שיחה </a>';
 $Definition['You wrote:'] = 'כתבת: ';

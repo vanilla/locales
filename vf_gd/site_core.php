@@ -553,7 +553,4 @@ $Definition['You must agree to the terms of service.'] = 'Feumaidh tu aontachadh
 $Definition['You need to confirm your email address.'] = 'Feumaidh tu an seòladh puist-d agad a dhearbhadh. Briog <a href="{/entry/emailconfirmrequest,url}">an-seo</a> gus post-d dearbhaidh ùr a chur.';
 $Definition['your'] = 'agad';
 $Definition['Your email has been successfully confirmed.'] = 'Tha thu air a\' phost-d agad a dhearbhadh.';
-
-$Definition[' You should '] = 'Bu chòir dhut';
-
 $Definition['You were added to a conversation.'] = 'Chuir {InsertUserID,user} {NotifyUserID,you} ri <a href="{Url,htmlencode}">còmhradh</a>.';

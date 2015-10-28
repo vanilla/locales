@@ -1165,7 +1165,4 @@ $Definition['Your request has been sent.'] = 'İsteğiniz gönderildi. İlave bi
 $Definition['Your settings have been saved.'] = 'Ayarlarınız kaydedildi.';
 $Definition['Your settings have been saved successfully.'] = 'Ayarlarınız başarıyla kaydedildi.';
 $Definition['Your warning was added.'] = 'Uyarınız eklendi.';
-
-$Definition[' You should '] = 'Yapmalısın';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} bir <a href="{Url,htmlencode}">sohbete</a>{NotifyUserID,you} ekledi.';

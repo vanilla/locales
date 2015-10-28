@@ -1373,8 +1373,5 @@ $Definition['Your settings have been saved.'] = '设置已保存。';
 $Definition['Your settings have been saved successfully.'] = '设置保存成功。';
 $Definition['Your status for this event is now: <b>%s</b>'] = '您对于该活动的状态现在是：<b>%s</b>';
 $Definition['Your warning was added.'] = '警告添加成功。';
-
-$Definition[' You should '] = ' 您应该 ';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} 添加 {NotifyUserID,you} 到一个 <a href="{Url,htmlencode}">会话</a>中。';
 $Definition['You wrote:'] = '您写道：';

@@ -1046,8 +1046,5 @@ $Definition['Your settings have been saved.'] = 'การตั้งค่า�
 $Definition['Your settings have been saved successfully.'] = 'การตั้งค่าของคุณถูกบันทึกแล้วเรียบร้อยแล้ว';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'สถานะของคุณสำหรับอีเวนท์ตอนนี้: <b>%s</b>';
 $Definition['Your warning was added.'] = 'คำเตือนของคุณถูกบันทึกแล้ว';
-
-$Definition[' You should '] = 'คุณควร';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} ได้รวม {NotifyUserID,you} ที่ <a href="{Url,htmlencode}">การสนทนา</a>.';
 $Definition['You wrote:'] = 'คุณเขียนแล้ว:';

@@ -1381,8 +1381,5 @@ $Definition['Your settings have been saved.'] = 'Настройките бяха
 $Definition['Your settings have been saved successfully.'] = 'Вашите настройки бяха запазени успешно.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Вашият статут за това събитие сега е: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Вашето предупреждение беше добавено.';
-
-$Definition[' You should '] = 'Вие трябва да';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} добави {NotifyUserID,you} към <a href="{Url,htmlencode}">разговора</a>';
 $Definition['You wrote:'] = 'Вие написахте:';

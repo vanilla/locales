@@ -1338,8 +1338,5 @@ $Definition['Your settings have been saved.'] = 'A beállításaid elmentve.';
 $Definition['Your settings have been saved successfully.'] = 'A beállításaid mentése sikeres.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'A státuszod az eseménnyel kapcsolatban: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Figyelmeztetést adunk.';
-
-$Definition[' You should '] = ' kellene ';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} hozzáadott {NotifyUserID,you} a <a href="{Url,htmlencode}"> társalgáshoz</a>.';
 $Definition['You wrote:'] = 'Ezt írtad:';

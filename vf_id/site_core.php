@@ -1132,7 +1132,4 @@ $Definition['Your request has been sent.'] = 'Permintaan anda telah dikirimkan. 
 $Definition['Your settings have been saved.'] = 'Setelan anda berhasil disimpan.';
 $Definition['Your settings have been saved successfully.'] = 'Setelan anda berhasil disimpan.';
 $Definition['Your warning was added.'] = 'Peringatan anda telah ditambahkan.';
-
-$Definition[' You should '] = ' Anda harus ';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} menambahkan {NotifyUserID,you} ke <a href="{Url,htmlencode}">perbincangan</a>.';

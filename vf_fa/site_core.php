@@ -1030,7 +1030,4 @@ $Definition['Your request has been sent.'] = 'درخواست شما فرستاد
 $Definition['Your settings have been saved.'] = 'تنظیمات شما اندوخته شد.';
 $Definition['Your settings have been saved successfully.'] = 'تنظیمات شما با موفقیت ذخیره شدند.';
 $Definition['Your warning was added.'] = 'هشدار شما افزوده شد.';
-
-$Definition[' You should '] = ' شما باید ';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user}، {NotifyUserID,you} را به یک <a href="{Url,htmlencode}">گفت‌وگو</a> دعوت کرد.';
