@@ -1335,6 +1335,7 @@ $Definition['You do not have any conversations.'] = 'You do not have any convers
 $Definition['You do not have any drafts.'] = 'You do not have any drafts.';
 $Definition['You do not have any notifications yet.'] = 'You do not have any notifications yet.';
 $Definition['You do not have enough invitations left.'] = 'You do not have enough invitations left.';
+$Definition['You do not have permission to edit all of the posts you are trying to merge.'] = 'You do not have permission to edit all of the posts you are trying to merge.';
 $Definition['You do not have permission to move %1$s of the selected discussions.'] = 'You do not have permission to move %1$s of the selected discussions.';
 $Definition['You do not have permission to write new comments.'] = 'You do not have permission to write new comments.';
 $Definition['YouEarnedBadge'] = 'You earned this badge';
@@ -1372,8 +1373,5 @@ $Definition['Your settings have been saved.'] = 'Your settings have been saved.'
 $Definition['Your settings have been saved successfully.'] = 'Your settings have been saved successfully.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Your status for this event is now: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Your warning was added.';
-
-$Definition[' You should '] = ' You should ';
-
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} added {NotifyUserID,you} to a <a href="{Url,htmlencode}">conversation</a>.';
 $Definition['You wrote:'] = 'You wrote:';
