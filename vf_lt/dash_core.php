@@ -177,7 +177,6 @@ $Definition['edit'] = 'redaguoti';
 $Definition['Edit %s'] = 'Koreguoti %s';
 $Definition['Edit Category'] = 'Koreguoti kategoriją';
 $Definition['Edit CSS'] = 'Koreguoti CSS';
-$Definition['Edit Html'] = 'Koreguoti Html';
 $Definition['Editing'] = 'Redagavimas';
 $Definition['Edit Message'] = 'Koreguoti žinutę';
 $Definition['Edit User'] = 'Koreguoti vartotoją';

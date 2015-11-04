@@ -890,7 +890,6 @@ $Definition['User not found.'] = 'معذرت ، آپ کے درج کئے گئے �
 $Definition['Users Count'] = 'صارفین کی تعداد';
 
 $Definition['ValidateBanned'] = '%s کی اجازت نہیں ہے۔';
-$Definition['ValidateFormat'] = 'آپ کو خام html پوسٹ کرنے کی اجازت نہیں۔';
 $Definition['ValidateLength'] = '%1$s میں %2$s حروف زیادہ ہیں۔';
 $Definition['ValidateMatch'] = ' %s فیلڈز آپس میں مطابقت نہیں رکھتیں';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'کم از کم ایک  %s. کا چناؤ ضروری ہے۔';
@@ -951,7 +950,6 @@ $Definition['You can either ask a question or start a discussion.'] = 'آپ سو
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'آپ انفرادی زمرہ جات کی پیروی کر سکتے ہیں اور ان میں ہونے والی ساری سرگرمیوں کی آپ کو اطلاع ملتی رہے گی۔';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'آپ بیرونی کسی سائٹ سے منسلک کوائف نامہ کی تصویر سے منتخب کیا گیا تھمب نیل مدون نہیں کر سکتے۔';
 $Definition['You can only specify up to %s tags.'] = 'آپ %s تک ٹیگ لگا سکتے ہیں۔';
-$Definition['You can use HTML in your signature.'] = 'آپ اپنے دستخط میں <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new"> سادہ ایچ ٹی ایم ایل </a></b> کا استعمال کرسکتے ہیں۔';
 $Definition['You don\'t have permission to do that.'] = 'آپ کو ایسا کرنے کی اجازت نہیں ہے۔';
 $Definition['You do not have any %s yet.'] = 'آپ کے پاس ابھی کوئی بھی %s نہیں ہے۔';
 $Definition['You do not have any bookmarks.'] = 'آپ  کے پاس کوئی بک مارک نہیں ہے۔';

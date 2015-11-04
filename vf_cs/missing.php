@@ -22,6 +22,8 @@ $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to k
 $Definition['DownloadLocalePack'] = 'Download';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
+$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
+$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
@@ -109,6 +111,7 @@ $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 
+$Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 
@@ -124,4 +127,5 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		large to upload directly to this page you can place it in your /uploads
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
+$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';

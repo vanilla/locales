@@ -293,7 +293,6 @@ $Definition['Edit/Delete Log'] = 'Editare/Ștergere jurnal';
 $Definition['Edit Category'] = 'Editare categorii';
 $Definition['EditContentTimeout.Notes'] = 'Dacă un utilizator are un rol care are permisiunea de a edita conținutul, acele permisiuni o vor suprascrie pe aceasta';
 $Definition['Edit CSS'] = 'Editare CSS';
-$Definition['Edit Html'] = 'Editare Html';
 $Definition['Editing'] = 'Editare';
 $Definition['Edit Message'] = 'Editare mesaj';
 $Definition['Edit Role'] = 'Editare rol';

@@ -1300,7 +1300,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Nie możesz edytować miniatury, która jest podlinkowana z zewnętrznego serwera.';
 $Definition['You can only specify up to %s tags.'] = 'Maksymalna liczba tagów: %s.';
 $Definition['You can remove or ban this member from the group.'] = 'Możesz usunąć lub zbanować tego członka grupy. Zbanowani członkowie nie będą mogli ponownie dołączyć do grupy.';
-$Definition['You can use HTML in your signature.'] = 'Możesz użyć <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">prostego kodu HTML</a></b> w swoim podpisie. ';
+$Definition['You can use HTML in your signature.'] = 'Możesz użyć <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">prostego kodu HTML</a></b> w swoim podpisie.';
 $Definition['You don\'t have permission to do that.'] = 'Nie masz takich uprawnień.';
 $Definition['You don\'t have permission to use a signature.'] = 'Nie masz uprawnień do korzystania z podpisu.';
 $Definition['You do not have any %s yet.'] = 'Nie masz jeszcze nic w: %s.';

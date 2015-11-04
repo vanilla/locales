@@ -296,7 +296,6 @@ $Definition['Edit/Delete Log'] = 'Log módosítása/törlése';
 $Definition['Edit Category'] = 'Kategória módosítása';
 $Definition['EditContentTimeout.Notes'] = 'Ha a felhasználó egy olyan szerepkörben van, aminek van módosítási jogosultsága, azok a jogosultságok felül fogják ezt bírálni..';
 $Definition['Edit CSS'] = 'CSS módosítása';
-$Definition['Edit Html'] = 'Html módosítása';
 $Definition['Editing'] = 'Módosítás';
 $Definition['Edit Message'] = 'Üzenet módosítása';
 $Definition['Edit Role'] = 'Szerepkör módosítása';

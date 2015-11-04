@@ -402,7 +402,7 @@ $Definition['editor.BBCodeHelpText'] = '投稿には<a href="http://en.wikipedia
 $Definition['editor.HtmlHelpText'] = '投稿には<a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">簡単なHTML</a>を使うことができます。';
 $Definition['editor.MarkdownHelpText'] = '投稿には<a href="http://ja.wikipedia.org/wiki/Markdown" target="_new">マークダウン</a>を使用できます。';
 $Definition['editor.TextHelpText'] = '投稿にプレーンテキストを使用しています。';
-$Definition['editor.WysiwygHelpText'] = ' 投稿には<a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a>が使用されます。 ';
+$Definition['editor.WysiwygHelpText'] = '投稿には<a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a>が使用されます。';
 $Definition['Edit Preferences'] = '個人設定を編集';
 $Definition['Edit Profile'] = 'プロフィールを編集';
 $Definition['Edit Tag'] = 'タグを編集
@@ -1238,7 +1238,7 @@ $Definition['ValidateDate'] = '%sは不正な日付です。';
 $Definition['ValidateDecimal'] = '%sは不正な小数値です。';
 $Definition['ValidateEmail'] = '%sは不正なメールアドレス文字列です。';
 $Definition['ValidateEnum'] = '%sは不正な値です。';
-$Definition['ValidateFormat'] = 'htmlをそのまま投稿することは認められていません。';
+$Definition['ValidateFormat'] = 'HTMLをそのまま投稿することは認められていません。';
 $Definition['ValidateInteger'] = '%sは不正な整数です。';
 $Definition['ValidateIntegerArray'] = '%sはカンマ区切りの数値でなくてはいけません。';
 $Definition['ValidateLength'] = '%1$sは%2$s文字 長すぎます。';
@@ -1338,7 +1338,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = '外部からリンクされたプロフィール写真のサムネイルを編集することはできません。';
 $Definition['You can only specify up to %s tags.'] = '%s個以内のタグのみを特定できます。';
 $Definition['You can remove or ban this member from the group.'] = 'このメンバーをグループから削除または参加禁止にできます。参加禁止になったメンバーはグループには参加できなくなります。';
-$Definition['You can use HTML in your signature.'] = 'シグネチャには <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> を使用することができます。';
+$Definition['You can use HTML in your signature.'] = 'シグネチャには <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> を使用することができます。';
 $Definition['You don\'t have permission to do that.'] = '許可されていません。';
 $Definition['You don\'t have permission to use a signature.'] = 'あなたは署名を使う許可を得ていません。';
 $Definition['You do not have any %s yet.'] = 'あなたはまだ%sを持っていません。';

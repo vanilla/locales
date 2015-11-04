@@ -390,7 +390,7 @@ $Definition['editor.BBCodeHelpText'] = 'Du kannst <a href="http://de.wikipedia.o
 $Definition['editor.HtmlHelpText'] = 'Du kannst <a href="http://www.cheatography.com/karionis/cheat-sheets/html5-deutsch/" target="_new">einfaches HTML</a> in deinem Beitrag nutzen.';
 $Definition['editor.MarkdownHelpText'] = 'Du kannst <a href="http://de.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in deinem Beitrag nutzen.';
 $Definition['editor.TextHelpText'] = 'Du nutzt einfachen Text in deinem Beitrag.';
-$Definition['editor.WysiwygHelpText'] = 'Du nutzt den <a href="https://de.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg-Editor</a> in deinem Beitrag.';
+$Definition['editor.WysiwygHelpText'] = 'Du nutzt den <a href="https://de.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG-Editor</a> in deinem Beitrag.';
 $Definition['Edit Preferences'] = 'Einstellungen bearbeiten';
 $Definition['Edit Profile'] = 'Profil bearbeiten';
 $Definition['Edit Tag'] = 'Tag bearbeiten';
@@ -1267,7 +1267,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Du kannst das Miniaturbild eines extern verlinkten Profilbilds nicht ändern.';
 $Definition['You can only specify up to %s tags.'] = 'Du kannst maximal %s Tags setzen.';
 $Definition['You can remove or ban this member from the group.'] = 'Du kannst dieses Mitglied aus der Gruppe entfernen oder sperren. Gesperrte Mitglieder sind nicht in der Lage, der Gruppe wieder beizutreten.';
-$Definition['You can use HTML in your signature.'] = 'Du kannst <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in Deiner Signatur verwenden.';
+$Definition['You can use HTML in your signature.'] = 'Du kannst <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in Deiner Signatur verwenden.';
 $Definition['You don\'t have permission to do that.'] = 'Du hast keine Berechtigung hierfür.';
 $Definition['You don\'t have permission to use a signature.'] = 'Du hast nicht die Berechtigungen, eine Signatur zu verwenden.';
 $Definition['You do not have any %s yet.'] = 'Du hast noch keine %s.';

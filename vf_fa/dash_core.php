@@ -282,7 +282,6 @@ $Definition['Edit/Delete Log'] = 'ویرایش/پاک کردن لاگ‌ها';
 $Definition['Edit Category'] = 'ویرایش دسته';
 $Definition['EditContentTimeout.Notes'] = 'توجه: اگر کاربری در نقشی است که پروانه‌ی ویرایش درون‌مایه را دارد، روی هر گزینشی که در اینجا داشته باشید، سوار می‌شود';
 $Definition['Edit CSS'] = 'ویرایش CSS';
-$Definition['Edit Html'] = 'ویرایش Html';
 $Definition['Editing'] = 'ویرایش';
 $Definition['Edit Message'] = 'ویرایش پیام‌ها';
 $Definition['Edit Role'] = 'ویرایش نقش';

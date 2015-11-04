@@ -8,9 +8,9 @@ $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 
 $Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
-$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> in your post.';
+$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
 $Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
-$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> in your post.';
+$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 
 $Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
@@ -43,6 +43,7 @@ $Definition['TagHint'] = 'Start to type...';
 $Definition['There\'s already a %s with the name %s.'] = 'There\'s already a %1$s with the name %2$s.';
 $Definition['The user isn\'t banned.'] = 'The user isn\'t banned or is banned by some other function.';
 
+$Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
 $Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateUrl'] = 'The %s field is not a valid url.';
@@ -50,3 +51,4 @@ $Definition['Video embedding has been disabled.'] = 'Video embedding has been di
 
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">You\'ve asked questions that now have answers</a>. Make sure you accept/reject the answers.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
+$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';

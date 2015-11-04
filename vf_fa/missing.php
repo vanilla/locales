@@ -26,10 +26,10 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = 'D
 $Definition['Deny Applicant'] = 'Deny';
 
 $Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
-$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> in your post.';
+$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
 $Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
 $Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
-$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> in your post.';
+$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
@@ -132,6 +132,7 @@ $Definition['User not found.'] = 'Sorry, no account could be found related to th
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
+$Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
 $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
 $Definition['ValidateString'] = '%s is not a valid string.';
@@ -150,5 +151,5 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
-$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
+$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';

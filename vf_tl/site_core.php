@@ -880,7 +880,6 @@ $Definition['ValidateDate'] = '%s ay hindi valid na petsa.';
 $Definition['ValidateDecimal'] = '%s ay hindi tunay na decimal';
 $Definition['ValidateEmail'] = '%s ay nagpapakitang hindi valid.';
 $Definition['ValidateEnum'] = '%s ay hindi valid';
-$Definition['ValidateFormat'] = 'Hindi ka pinapayagang mag post ng raw html.';
 $Definition['ValidateInteger'] = '%s ay hindi isang valid na integer.';
 $Definition['ValidateIntegerArray'] = '%s dapat na isang comma-delimited na talaan ng mga numero.';
 $Definition['ValidateLength'] = '%1$s ay %2$s masyadong mahaba ang mga karakter.';
@@ -950,7 +949,6 @@ $Definition['You can either ask a question or start a discussion.'] = 'Pwede mo 
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Maaari mong sundan ang mga indibidwal na mga kategorya at ma-notify sa lahat ng mga post sa loob ng mga ito.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Hindi mo pwedeng i-edit ang thumbnail ng isang naka-link na larawan ng profile mula sa labas.';
 $Definition['You can only specify up to %s tags.'] = 'Maaari ka lamang tumukoy hanggang %s na tags.';
-$Definition['You can use HTML in your signature.'] = 'Maaari kang gumamit ng <b> <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simpleng Html</a> </b> sa iyong lagda.';
 $Definition['You don\'t have permission to do that.'] = 'Wala kang pahintulot para gawin iyan.';
 $Definition['You do not have any %s yet.'] = 'Wala ka pang %s.';
 $Definition['You do not have any bookmarks.'] = 'Wala kang anumang mga bookmark.';

@@ -169,7 +169,7 @@ $Definition['Answers'] = 'Réponses';
 $Definition['answers'] = 'réponses';
 $Definition['Applicant'] = 'Candidat';
 $Definition['Applicants'] = 'Candidats';
-$Definition['Applicants & Invitations'] = 'Applications et invitations';
+$Definition['Applicants & Invitations'] = 'Candidats et invitations';
 $Definition['Apply Changes'] = 'Appliquer les changements';
 $Definition['Apply for Membership'] = 'S\'inscrire';
 $Definition['Apply for membership'] = 'Faire une demande d\'inscription';
@@ -379,7 +379,7 @@ $Definition['editor.BBCodeHelpText'] = 'Vous pouvez utiliser le format <a href="
 $Definition['editor.HtmlHelpText'] = 'Vous pouvez utiliser le format <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML simple</a>.';
 $Definition['editor.MarkdownHelpText'] = 'Vous pouvez utiliser le format <a href="http://fr.wikipedia.org/wiki/Markdown" target="_new">Markdown</a>.';
 $Definition['editor.TextHelpText'] = 'Vous utilisez le texte brut dans votre message.';
-$Definition['editor.WysiwygHelpText'] = 'Vous utilisez un éditeur <a href="http://fr.wikipedia.org/wiki/Wysiwyg" target="_new">Wysiwyg</a>.';
+$Definition['editor.WysiwygHelpText'] = 'Vous utilisez un éditeur <a href="http://fr.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a>.';
 $Definition['Edit Preferences'] = 'Modifier les Préférences de Notification';
 $Definition['Edit Profile'] = 'Modifier le profil';
 $Definition['Edit Tag'] = 'Modification du tag';

@@ -294,7 +294,6 @@ $Definition['Edit/Delete Log'] = 'Edit/Hapus Log';
 $Definition['Edit Category'] = 'Edit Kategori';
 $Definition['EditContentTimeout.Notes'] = 'Bila seorang pengguna dalam peran yang memiliki perizinan untuk mengedit konten, perizinan tersebut akan menimpa yang ini.';
 $Definition['Edit CSS'] = 'Sunting CSS';
-$Definition['Edit Html'] = 'Sunting HTML';
 $Definition['Editing'] = 'Pengeditan';
 $Definition['Edit Message'] = 'Edit Pesan';
 $Definition['Edit Role'] = 'Edit Peran';

@@ -1227,7 +1227,7 @@ $Definition['ValidateDate'] = '%s הוא לא תאריך תקף';
 $Definition['ValidateDecimal'] = '%s הוא לא דסימל תקף';
 $Definition['ValidateEmail'] = '%s נראה כלא תקף';
 $Definition['ValidateEnum'] = '%s לא תקף';
-$Definition['ValidateFormat'] = 'אתה לא רשאי לפרסם html  גולמי';
+$Definition['ValidateFormat'] = 'אתה לא רשאי לפרסם html גולמי';
 $Definition['ValidateInteger'] = '\'%s הוא לא מספר שלם תקף';
 $Definition['ValidateIntegerArray'] = '\'%s חייבת להיות רשימת מספרים מופרדת בפסיקים';
 $Definition['ValidateLength'] = '%s הוא %2$s$s תיבות ארוך מדי';
@@ -1329,7 +1329,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'אתה לא יכול לערוך את התמונה המזערית של תמונת פרופיל מקישור חיצוני';
 $Definition['You can only specify up to %s tags.'] = 'אתה יכול לציין רק עד %s תגים';
 $Definition['You can remove or ban this member from the group.'] = 'אתה יכול למחוק או לחסום משתמש זה מהקבוצה. משתמשים חסומים לא יוכלו להצטרף לקבוצה שוב.';
-$Definition['You can use HTML in your signature.'] = 'אתה יכול להשתמש  <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new"> ב-HTML פשוט </a></b> בחתימה שלך';
+$Definition['You can use HTML in your signature.'] = 'אתה יכול להשתמש <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new"> ב-HTML פשוט </a></b> בחתימה שלך';
 $Definition['You don\'t have permission to do that.'] = 'אין לך רשות לעשות את זה';
 $Definition['You don\'t have permission to use a signature.'] = 'אין לך הרשאות להשתמש בחתימה.';
 $Definition['You do not have any %s yet.'] = 'אין לך %s עדיין';

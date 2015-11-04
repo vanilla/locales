@@ -1029,7 +1029,6 @@ $Definition['ValidateDate'] = '%s bukan tanggal yang benar.';
 $Definition['ValidateDecimal'] = '%s bukan desimal yang benar.';
 $Definition['ValidateEmail'] = '%s tampak tidak benar.';
 $Definition['ValidateEnum'] = '%s tidak benar.';
-$Definition['ValidateFormat'] = 'Anda tidak diperkenankan mengirimkan html mentah.';
 $Definition['ValidateInteger'] = '%s bukan integer yang benar.';
 $Definition['ValidateIntegerArray'] = '%s harus berupa daftar angka yang dipisahkan tanda koma.';
 $Definition['ValidateLength'] = '%1$s kelebihan %2$s karakter panjangnya.';
@@ -1094,7 +1093,6 @@ $Definition['You can either ask a question or start a discussion.'] = 'Anda dapa
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Anda dapat mengikuti kategori individual dan diberi tahu tentang semua kiriman yang ada padanya.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Anda tidak bisa mengedit thumbnail dari sebuah gambar profil yang tertaut secara eksternal.';
 $Definition['You can only specify up to %s tags.'] = 'Anda hanya dapat menspesifikasikan %s tag.';
-$Definition['You can use HTML in your signature.'] = 'Anda dapat menggunakan <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Html Sederhana</a></b> pada tanda tangan anda.';
 $Definition['You don\'t have permission to do that.'] = 'Anda tidak memiliki izin untuk melakukannya.';
 $Definition['You do not have any %s yet.'] = 'Anda belum memiliki %s.';
 $Definition['You do not have any bookmarks.'] = 'Anda tidak memiliki bookmark.';

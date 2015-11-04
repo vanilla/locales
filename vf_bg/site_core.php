@@ -398,10 +398,8 @@ $Definition['Edit My Account'] = 'Редактиране на профила м�
 $Definition['Edit My Profile'] = 'Редактиране на профила';
 $Definition['Edit My Thumbnail'] = 'Редактиране на аватара ми';
 $Definition['editor.BBCodeHelpText'] = 'Можете да използвате <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> в публикацията си.';
-$Definition['editor.HtmlHelpText'] = 'Можете да използвате <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> във вашата публикация.';
 $Definition['editor.MarkdownHelpText'] = 'Можете да използвате <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> във вашата публикация.';
 $Definition['editor.TextHelpText'] = 'Вие използвате обикновен текст в публикацията си.';
-$Definition['editor.WysiwygHelpText'] = 'Използвате <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> във вашата публикация.';
 $Definition['Edit Preferences'] = 'Промяна на настройките';
 $Definition['Edit Profile'] = 'Редактиране на профила';
 $Definition['Edit Tag'] = 'Редактиране на етикет';
@@ -1234,7 +1232,6 @@ $Definition['ValidateDate'] = '%s не е валидна дата.';
 $Definition['ValidateDecimal'] = '%s не е валидна десетична стойност.';
 $Definition['ValidateEmail'] = '%s не е валиден.';
 $Definition['ValidateEnum'] = '%s не е валиден.';
-$Definition['ValidateFormat'] = 'Не е разрешено да публикувате необработен html.';
 $Definition['ValidateInteger'] = '%s не е валиден низ.';
 $Definition['ValidateIntegerArray'] = '%s трябва да е разделени със запетаи списък с числа.';
 $Definition['ValidateLength'] = '%1$s е превишава позволената дължина с %2$s характера.';
@@ -1335,7 +1332,6 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Не можете да редактирате миниатюрата на външно свързана профилна снимка.';
 $Definition['You can only specify up to %s tags.'] = 'Можете да посочите само дo %s етикета.';
 $Definition['You can remove or ban this member from the group.'] = 'Можете да премахнете или да забраните този потребител от групата. Блокираните членове няма да могат да се присъединят към групата отново.';
-$Definition['You can use HTML in your signature.'] = 'Можете да използвате <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Прост Html</a></b> във вашия подпис.';
 $Definition['You don\'t have permission to do that.'] = 'Нямате разрешение да направите това.';
 $Definition['You don\'t have permission to use a signature.'] = 'Нямате разрешение да използвате подпис.';
 $Definition['You do not have any %s yet.'] = 'Все още нямате никакви %s.';

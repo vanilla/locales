@@ -885,7 +885,6 @@ $Definition['ValidateDate'] = '%s ni veljaven zapis datuma.';
 $Definition['ValidateDecimal'] = '%s ni veljaven decimalni zapis.';
 $Definition['ValidateEmail'] = '%s ni videti veljaven.';
 $Definition['ValidateEnum'] = '%s ni veljaven.';
-$Definition['ValidateFormat'] = 'Ni vam dovoljeno objaviti neobdelano kodo html.';
 $Definition['ValidateInteger'] = '%s ni veljavno celo število.';
 $Definition['ValidateIntegerArray'] = '%s mora bit seznam števil ločen z vejico.';
 $Definition['ValidateLength'] = '%1$s je %2$s znakov predolg.';
@@ -950,7 +949,6 @@ $Definition['You can either ask a question or start a discussion.'] = 'Lahko pos
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Sledite lahko posameznim kategorijam in ste nato obveščani o vseh sporočilih znotraj teh kategorij.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Ne morete urejati sličica od zunaj povezane slike profila.';
 $Definition['You can only specify up to %s tags.'] = 'Določite lahko do %s oznak.';
-$Definition['You can use HTML in your signature.'] = 'V svojem podpisu lahko uporabite  <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">preprost HTML</a></b>';
 $Definition['You don\'t have permission to do that.'] = 'Nimate dovoljenj za to.';
 $Definition['You do not have any %s yet.'] = 'Zaenkrat nimate nobenega %s.';
 $Definition['You do not have any bookmarks.'] = 'Nimate nobenega zaznamka.';

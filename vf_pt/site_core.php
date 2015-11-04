@@ -398,7 +398,7 @@ $Definition['editor.BBCodeHelpText'] = 'Você pode usar <a href="http://en.wikip
 $Definition['editor.HtmlHelpText'] = 'Você pode usar <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML simples</a> no seu post.';
 $Definition['editor.MarkdownHelpText'] = 'Você pode usar <a href="http://pt.wikipedia.org/wiki/Markdown" target="_new">Marcação em texto simples(Markdown)</a> no seu post.';
 $Definition['editor.TextHelpText'] = 'Você está usando texto sem formatação no seu post';
-$Definition['editor.WysiwygHelpText'] = 'Você está usando <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> no seu post';
+$Definition['editor.WysiwygHelpText'] = 'Você está usando <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> no seu post.';
 $Definition['Edit Preferences'] = 'Editar Preferências';
 $Definition['Edit Profile'] = 'Editar Perfil';
 $Definition['Edit Tag'] = 'Editar Tag';
@@ -1318,7 +1318,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Você não pode editar a miniatura de uma imagem externa.';
 $Definition['You can only specify up to %s tags.'] = 'Você só pode especificar até %s tags.';
 $Definition['You can remove or ban this member from the group.'] = 'Você pode remover ou banir esse membro desse grupo. Membros Banidos não poderão juntar-se ao grupo novamente';
-$Definition['You can use HTML in your signature.'] = 'Você pode usar <b> <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new"> Html simples </a> </b> em sua assinatura.';
+$Definition['You can use HTML in your signature.'] = 'Você pode usar <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML simples</a></b> em sua assinatura.';
 $Definition['You don\'t have permission to do that.'] = 'Você não tem permissão para fazer isso.';
 $Definition['You don\'t have permission to use a signature.'] = 'Você não tem permissão para usar uma assinatura.';
 $Definition['You do not have any %s yet.'] = 'Você ainda não tem %s.';

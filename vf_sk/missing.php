@@ -12,6 +12,8 @@ $Definition['Change the way your community works with plugins.'] = 'Change the w
 
 $Definition['default type'] = 'default';
 
+$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
+$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
 $Definition['EmailWelcomeRegister'] = 'You have successfully registered for an account at {Title}. Here is your information:
 
   Username: {User.Name}
@@ -190,7 +192,7 @@ $Definition['ValidateDate'] = '%s is not a valid date.';
 $Definition['ValidateDecimal'] = '%s is not a valid decimal.';
 $Definition['ValidateEmail'] = '%s does not appear to be valid.';
 $Definition['ValidateEnum'] = '%s is not valid.';
-$Definition['ValidateFormat'] = 'You are not allowed to post raw html.';
+$Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
 $Definition['ValidateInteger'] = '%s is not a valid integer.';
 $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
 $Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
@@ -229,7 +231,7 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
-$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
+$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
 $Definition['YouEarnedBadge'] = 'You earned this badge';
 $Definition['You need to confirm your email address.'] = 'You need to confirm your email address. Click <a href="{/entry/emailconfirmrequest,url}">here</a> to resend the confirmation email.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';

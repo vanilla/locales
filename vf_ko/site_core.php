@@ -1203,7 +1203,7 @@ $Definition['ValidateDate'] = '%s는 유효한 날짜가 아닙니다.';
 $Definition['ValidateDecimal'] = '%s는 유효한 소수가 아닙니다.';
 $Definition['ValidateEmail'] = '%s은 유효하지 않음.';
 $Definition['ValidateEnum'] = '%s가 유효하지 않습니다.';
-$Definition['ValidateFormat'] = 'html로 게시물을 올릴 수 없습니다.';
+$Definition['ValidateFormat'] = 'HTML로 게시물을 올릴 수 없습니다.';
 $Definition['ValidateInteger'] = '%s 는 유효한 정수가 아닙니다.';
 $Definition['ValidateIntegerArray'] = '%s  숫자에서 쉼표를 지워야 합니다.';
 $Definition['ValidateLength'] = '%1$s 는 %2$s 만큼 글자 수가 너무 깁니다.';
@@ -1305,7 +1305,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = '외부에 링크된 프로파일 사진의 섬네일은 수정할 수 없습니다.';
 $Definition['You can only specify up to %s tags.'] = ' %s 태그까지만 명시할 수 있습니다.';
 $Definition['You can remove or ban this member from the group.'] = '해당 그룹에서 이 회원을 제거 또는 추방할 수 있습니다. 추방된 회원은 해당 그룹에 다시 가입할 수 없습니다.';
-$Definition['You can use HTML in your signature.'] = '<b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new"> 간단한 Html </a></b>을 시그내쳐에 사용할 수 있습니다.';
+$Definition['You can use HTML in your signature.'] = '<b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">간단한 HTML</a></b> 을 시그내쳐에 사용할 수 있습니다.';
 $Definition['You don\'t have permission to do that.'] = '이것을 하도록 허용되지 않았습니다.';
 $Definition['You don\'t have permission to use a signature.'] = '서명을 이용할 권한이 없습니다.';
 $Definition['You do not have any %s yet.'] = '아직 %s가 전혀 없습니다.';

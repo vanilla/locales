@@ -370,7 +370,6 @@ $Definition['You'] = 'អ្នក';
 $Definition['you'] = 'អ្នក';
 $Definition['You already have an account here.'] = 'អ្នក​មាន​គណនី​មួយ​នៅ​ទីនេះ​ហើយ។';
 $Definition['You are connected as %s through %s.'] = 'អ្នក​ត្រូវ​បាន​តភ្ជាប់​ជា %s តាម​រយៈ %s។';
-$Definition['You can use HTML in your signature.'] = 'អ្នក​អាច​ប្រើ <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Html ធម្មតា</a></b> នៅ​ក្នុង​ហត្ថលេខា​របស់​អ្នក។';
 $Definition['You don\'t have permission to do that.'] = 'អ្នក​មិន​មាន​សិទ្ធិ​ធ្វើ​បែប​នោះ​ទេ។';
 $Definition['You do not have any %s yet.'] = 'អ្នក​មិន​ទាន់​មាន %s ទេ។';
 $Definition['You haven\'t read this yet.'] = 'អ្នក​មិន​ទាន់​អាន​របស់​នេះ​ទេ។';

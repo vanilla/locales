@@ -972,7 +972,6 @@ $Definition['ValidateDate'] = '%s nėra tinkama data.';
 $Definition['ValidateDecimal'] = '%s nėra tinkama trupmena.';
 $Definition['ValidateEmail'] = 'Neatrodo, kad %s  būtų tinkamas';
 $Definition['ValidateEnum'] = '%s nėra tinkama.';
-$Definition['ValidateFormat'] = 'Tau neledžiama publikuoti gryno html kodo.';
 $Definition['ValidateInteger'] = '%s nėra tinkamas skaičius.';
 $Definition['ValidateIntegerArray'] = '%s turi būti kableliais atskirtas narių sąrašas.';
 $Definition['ValidateLength'] = '%1$s yra per ilgas %2$s ženklais.';
@@ -1039,7 +1038,6 @@ $Definition['You can either ask a question or start a discussion.'] = 'Diskusij�
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Gali sekti atskiras kategorijas ir gauti pranešimus apie visas naujas žinutes šiose kategorijose';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Tu negali keisti išoriškai sujungto profilio paveikslo miniatiūros.';
 $Definition['You can only specify up to %s tags.'] = 'Galima nurodyti tik %s žymių.';
-$Definition['You can use HTML in your signature.'] = 'Naudokite <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Paprastą Html kodą</a></b> savo prieraše.';
 $Definition['You don\'t have permission to do that.'] = 'Neturi leidimo atlikti šį veiksmą.';
 $Definition['You do not have any %s yet.'] = 'Tu dar neturi %s.';
 $Definition['You do not have any bookmarks.'] = 'Tu neturi jokių adresyno įrašų.';

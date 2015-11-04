@@ -288,7 +288,6 @@ $Definition['Edit/Delete Log'] = 'Upraviť/Odstrániť Záznam';
 $Definition['Edit Category'] = 'Upraviť Kategóriu';
 $Definition['EditContentTimeout.Notes'] = 'Ak užívateľ má priradenú rolu ktorá ma právo upraviť obsah, tie práva nahratie toto.';
 $Definition['Edit CSS'] = 'Upraviť CSS';
-$Definition['Edit Html'] = 'Upraviť HTML';
 $Definition['Editing'] = 'Upravovanie';
 $Definition['Edit Message'] = 'Upraviť Správu';
 $Definition['Edit Role'] = 'Upraviť Rolu';

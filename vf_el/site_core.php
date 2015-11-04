@@ -401,10 +401,10 @@ $Definition['Edit My Account'] = 'Επεξεργασία του Λογαριασ
 $Definition['Edit My Profile'] = 'Επεξεργασία του Προφίλ Μου';
 $Definition['Edit My Thumbnail'] = 'Επεξεργασία της Μικρογραφίας μου';
 $Definition['editor.BBCodeHelpText'] = 'Τώρα μπορείτε να χρησιμοποιήσετε το <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> στο post σας.';
-$Definition['editor.HtmlHelpText'] = 'Μπορείτε να χρησιμοποιήσετε το <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> στη δημοσίευσή σας.';
+$Definition['editor.HtmlHelpText'] = 'Μπορείτε να χρησιμοποιήσετε το <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> στη δημοσίευσή σας.';
 $Definition['editor.MarkdownHelpText'] = 'Μπορείτε να χρησιμοποιήσετε το <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> στη δημοσίευσή σας.';
 $Definition['editor.TextHelpText'] = 'Χρησιμοποιείτε απλό κείμενο στη δημοσίευσή σας.';
-$Definition['editor.WysiwygHelpText'] = 'Χρησιμοποιείτε το <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> στη δημοσίευσή σας.';
+$Definition['editor.WysiwygHelpText'] = 'Χρησιμοποιείτε το <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> στη δημοσίευσή σας.';
 $Definition['Edit Preferences'] = 'Επεξεργασία Προτιμήσεων';
 $Definition['Edit Profile'] = 'Επεξεργασία Προφίλ';
 $Definition['Edit Tag'] = 'Επεξεργασία Ετικέτας';
@@ -1218,7 +1218,7 @@ $Definition['ValidateDate'] = 'Το %s δεν είναι έγκυρη ημερο
 $Definition['ValidateDecimal'] = 'Το %s δεν είναι έγκυρος δεκαδικός.';
 $Definition['ValidateEmail'] = 'Το %s δεν φαίνεται να είναι έγκυρο.';
 $Definition['ValidateEnum'] = 'Το %s δεν είναι έγκυρο.';
-$Definition['ValidateFormat'] = 'Δεν επιτρέπετε να δημοσιεύσετε html.';
+$Definition['ValidateFormat'] = 'Δεν επιτρέπετε να δημοσιεύσετε HTML.';
 $Definition['ValidateInteger'] = 'Το %s δεν είναι έγκυρος ακέραιος.';
 $Definition['ValidateIntegerArray'] = 'Το %s πρέπει να είναι μία λίστα με αριθμούς που χωρίζονται με κόμμα.';
 $Definition['ValidateLength'] = 'Το %1$s είναι κατά %2$s χαρακτήρες μεγαλύτερο.';
@@ -1319,7 +1319,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Δεν μπορείτε να επεξεργαστείτε τη μικρογραφία μιας εξωτερικά συνδεδεμένης εικόνας προφίλ';
 $Definition['You can only specify up to %s tags.'] = 'Μπορείτε να καθορίστετε μόνο μέχρι %s ετικέτες.';
 $Definition['You can remove or ban this member from the group.'] = 'Μπορείτε να αφαιρέσετε ή να αποκλείσετε αυτό το μέλος από την ομάδα. Τα αποκλεισμένα μέλη δεν θα μπορούν να γίνουν ξανά μέλη αυτής της ομάδας.';
-$Definition['You can use HTML in your signature.'] = 'Μπορείτε να χρησιμοποιήσετε <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Απλή Html</a></b> στην υπογραφή σας.';
+$Definition['You can use HTML in your signature.'] = 'Μπορείτε να χρησιμοποιήσετε <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Απλή HTML</a></b> στην υπογραφή σας.';
 $Definition['You don\'t have permission to do that.'] = 'Δεν έχετε την άδεια να το κάνετε αυτό.';
 $Definition['You don\'t have permission to use a signature.'] = 'Δεν έχετε άδεια να χρησιμοποιήσετε υπογραφή.';
 $Definition['You do not have any %s yet.'] = 'Δεν έχετε κανένα %s ακόμη.';

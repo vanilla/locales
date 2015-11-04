@@ -76,10 +76,10 @@ $Definition['DownloadLocalePack'] = 'Download';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
-$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> in your post.';
+$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
 $Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
 $Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
-$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> in your post.';
+$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
 $Definition['EmailConfirmEmail'] = 'You need to confirm your email address before you can continue. Please confirm your email address by clicking on the following link: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailInvitation'] = 'Hello!
 
@@ -345,7 +345,7 @@ $Definition['ValidateDate'] = '%s is not a valid date.';
 $Definition['ValidateDecimal'] = '%s is not a valid decimal.';
 $Definition['ValidateEmail'] = '%s does not appear to be valid.';
 $Definition['ValidateEnum'] = '%s is not valid.';
-$Definition['ValidateFormat'] = 'You are not allowed to post raw html.';
+$Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
 $Definition['ValidateInteger'] = '%s is not a valid integer.';
 $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
 $Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
@@ -383,7 +383,7 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
-$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> in your signature.';
+$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
 $Definition['YouEarnedBadge'] = 'You earned this badge';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
 $Definition['Your request has been sent.'] = 'Your request has been sent. Check your email for further instructions.';

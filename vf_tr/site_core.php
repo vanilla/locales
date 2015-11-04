@@ -1050,7 +1050,6 @@ $Definition['ValidateDate'] = '%s geçerli bir tarih değil.';
 $Definition['ValidateDecimal'] = '%s geçerli bir ondalık sayı değiil.';
 $Definition['ValidateEmail'] = '%s geçerli görünmüyor.';
 $Definition['ValidateEnum'] = '%s geçerli değil.';
-$Definition['ValidateFormat'] = 'Ham html göndermeye izininiz yok.';
 $Definition['ValidateInteger'] = '%s geçerli bir tamsayı değildir.';
 $Definition['ValidateIntegerArray'] = '%s virgülle ayrılmış numaraların listesinde olmalı.';
 $Definition['ValidateLength'] = '%1$s is %2$s fazla karakter içeriyor.';
@@ -1127,7 +1126,6 @@ $Definition['You can either ask a question or start a discussion.'] = 'Bir soru 
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'Belli kategorileri takip edebilir ve bunlar içindeki bütün gönderiler için bildirim alabilirsiniz.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Dışarıya bağlı bir profil resminin küçük resmini düzenleyemezsiniz.';
 $Definition['You can only specify up to %s tags.'] = 'En fazla %s etiket belirtebilirsiniz.';
-$Definition['You can use HTML in your signature.'] = 'İmzanızda <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Basit Html</a></b> kullanabilirsiniz.';
 $Definition['You don\'t have permission to do that.'] = 'Bunun için izniniz yok.';
 $Definition['You do not have any %s yet.'] = 'Size ait hiç %s yok.';
 $Definition['You do not have any bookmarks.'] = 'Hiç işaretlemeniz yok.';

@@ -296,7 +296,6 @@ $Definition['Edit/Delete Log'] = 'Redigera/radera logg';
 $Definition['Edit Category'] = 'Redigera kategori';
 $Definition['EditContentTimeout.Notes'] = 'Om en användare har en roll som har behörighet att redigera innehåll, kommer de behörigheterna att överskrida dessa.';
 $Definition['Edit CSS'] = 'Redigera CSS';
-$Definition['Edit Html'] = 'Redigera HTML';
 $Definition['Editing'] = 'Redigering';
 $Definition['Edit Message'] = 'Redigera meddelande';
 $Definition['Edit Role'] = 'Redigera roll';

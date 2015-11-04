@@ -926,7 +926,6 @@ $Definition['ValidateDate'] = 'داده‌ی %s یک تاریخ نادرست ا�
 $Definition['ValidateDecimal'] = 'داده‌ی %s یک ارزش ده‌دهی (Decimal) نادرست است';
 $Definition['ValidateEmail'] = 'به‌نظر می‌رسد که %s نادرست است.';
 $Definition['ValidateEnum'] = '%s نادرست است.';
-$Definition['ValidateFormat'] = 'پروانه‌ی فرستادن کدهای خام html را ندارید.';
 $Definition['ValidateInteger'] = 'داده‌ی %s یک عدد صحیح (Integr) نادرست است.';
 $Definition['ValidateLength'] = 'تعداد نویسه‌های %1$s، %2$s تا بیش از حد مجاز است.';
 $Definition['ValidateMatch'] = '%s‌ها هم‌خوانی ندارند.';
