@@ -1274,6 +1274,7 @@ $Definition['You do not have any conversations.'] = 'Vous n\'avez aucune convers
 $Definition['You do not have any drafts.'] = 'Vous n\'avez pas de brouillon.';
 $Definition['You do not have any notifications yet.'] = 'Vous n\'avez aucune notification pour l\'instant.';
 $Definition['You do not have enough invitations left.'] = 'Il ne vous reste plus assez d\'invitations.';
+$Definition['You do not have permission to edit all of the posts you are trying to merge.'] = 'Vous n\'avez pas la permission de modifier tous les commentaires à fusionner.';
 $Definition['You do not have permission to move %1$s of the selected discussions.'] = 'Vous n\'avez pas la permission de déplacer %1$s des discussions sélectionnées.';
 $Definition['You do not have permission to write new comments.'] = 'Vous n\'avez pas la permission d\'écrire de nouvelles réponses.';
 $Definition['YouEarnedBadge'] = 'Vous avez gagné un badge !';

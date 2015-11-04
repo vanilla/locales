@@ -1336,6 +1336,7 @@ $Definition['You do not have any conversations.'] = '目前没有邮件。';
 $Definition['You do not have any drafts.'] = '您没有任何草稿。';
 $Definition['You do not have any notifications yet.'] = '您没有收到任何通知。';
 $Definition['You do not have enough invitations left.'] = '您没有足够的邀请。';
+$Definition['You do not have permission to edit all of the posts you are trying to merge.'] = '您没有权限来编辑您尝试合并的所有帖子。';
 $Definition['You do not have permission to move %1$s of the selected discussions.'] = '您无权移动选中讨论中的 %1$s。';
 $Definition['You do not have permission to write new comments.'] = '您没有权限发表新的回复。';
 $Definition['YouEarnedBadge'] = '您获得了此徽章';
