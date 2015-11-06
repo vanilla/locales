@@ -1466,6 +1466,7 @@ $Definition['You do not have any conversations.'] = 'Вы необщительн
 $Definition['You do not have any drafts.'] = 'У васъ нѣтъ ни одного черновика.';
 $Definition['You do not have any notifications yet.'] = 'У васъ нѣтъ сообщеній.';
 $Definition['You do not have enough invitations left.'] = 'У васъ не хватаетъ приглашеній.';
+$Definition['You do not have permission to edit all of the posts you are trying to merge.'] = 'У вас недостаточно прав, чтобы редактировать публикации, которые вы пытаетесь объединить.';
 $Definition['You do not have permission to move %1$s of the selected discussions.'] = 'У вас нет разрешения переместить %1$s из выбранных обсуждений.';
 $Definition['You do not have permission to write new comments.'] = 'Вы не имѣете права комментировать.';
 $Definition['YouEarnedBadge'] = 'Вы заработали этот значок';
