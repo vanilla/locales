@@ -604,6 +604,7 @@ $Definition['Hide signatures on my mobile device'] = '在移动设备上隐藏�
 $Definition['his'] = '他的';
 $Definition['Home'] = '主页';
 $Definition['hours'] = '小时';
+$Definition['How can we help you?'] = '我能帮助你吗？';
 $Definition['Howdy, Stranger!'] = '您好，游客！';
 $Definition['How long do you want this warning to last?'] = '您想让这个警告持续多久？';
 $Definition['How many levels deep should we start folding up quote trees?'] = '我们应该从多少层深开始折叠引用树？';

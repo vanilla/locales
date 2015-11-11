@@ -580,6 +580,7 @@ $Definition['Hide signatures on my mobile device'] = 'Masquer les signatures sur
 $Definition['his'] = 'son';
 $Definition['Home'] = 'Accueil';
 $Definition['hours'] = 'heures';
+$Definition['How can we help you?'] = 'Comment peut-on vous aider?';
 $Definition['Howdy, Stranger!'] = 'Bienvenue sur le forum !';
 $Definition['How long do you want this warning to last?'] = 'Durée de l\'avertissement ?';
 $Definition['How many levels deep should we start folding up quote trees?'] = 'À partir de quel niveau de profondeur devrions-nous commencer à replier les citations ?';
