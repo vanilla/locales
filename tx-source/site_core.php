@@ -597,6 +597,7 @@ $Definition['Hide signatures on my mobile device'] = 'Hide signatures on my mobi
 $Definition['his'] = 'his';
 $Definition['Home'] = 'Home';
 $Definition['hours'] = 'hours';
+$Definition['How can we help you?'] = 'How can we help you?';
 $Definition['Howdy, Stranger!'] = 'Howdy, Stranger!';
 $Definition['How long do you want this warning to last?'] = 'How long do you want this warning to last?';
 $Definition['How many levels deep should we start folding up quote trees?'] = 'How many levels deep should we start folding up quote trees?';
