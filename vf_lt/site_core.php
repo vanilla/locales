@@ -1,8 +1,8 @@
 <?php
 
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s patvirtino %4$s kvietimą būti nariu.';
-$Definition['%1$s changed %4$s permissions.'] = '%1$s pakeitė %4$s teisess.';
-$Definition['%1$s changed %6$s profile picture.'] = '%1$s pakeitė %6$s profilio piešiniuką.';
+$Definition['%1$s changed %4$s permissions.'] = '%1$s pakeitė %4$s teises.';
+$Definition['%1$s changed %6$s profile picture.'] = '%1$s pakeitė %6$s profilio paveiksliuką.';
 $Definition['%1$s commented on %4$s %8$s.'] = '%1$s pakomentavo %4$s %8$s.';
 $Definition['%1$s created an account for %4$s.'] = '%1$s sukūrė paskyrą  %4$s.';
 $Definition['%1$s joined.'] = '%1$s prisijungė';

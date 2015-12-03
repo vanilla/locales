@@ -4,7 +4,7 @@
   'Locale' => 'zh_TW',
   'Name' => '中文（台灣） / Chinese (Taiwan)',
   'Description' => 'Official Chinese (Taiwan) language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/zh_TW/">here</a>.',
-  'Version' => '2015.11.04p1301',
+  'Version' => '2015.12.02p1601',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/zh_TW/',
 );
