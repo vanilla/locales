@@ -686,6 +686,7 @@ $Definition['Hide signatures on my mobile device'] = 'Скрывать подп�
 $Definition['his'] = 'его';
 $Definition['Home'] = 'Домой';
 $Definition['hours'] = 'часъ(овъ)';
+$Definition['How can we help you?'] = 'Как мы можем вам помочь?';
 $Definition['Howdy, Stranger!'] = 'Привѣтствуемъ Васъ!';
 $Definition['How long do you want this warning to last?'] = 'На какой срокъ вынести предупрежденіе?';
 $Definition['How many levels deep should we start folding up quote trees?'] = 'На сколько уровней в глубину позволять встраивать цитаты?';
