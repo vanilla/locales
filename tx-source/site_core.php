@@ -79,6 +79,8 @@ $Definition['%s said:'] = '%s said:';
 $Definition['%s tag(s) found.'] = '%s tag(s) found.';
 $Definition['%s tags in the system'] = '%s tags in the system';
 $Definition['%s Up Votes'] = '%s Up Votes';
+$Definition['%s user'] = '%s user';
+$Definition['%s users'] = '%s users';
 $Definition['%s view'] = '%s view';
 $Definition['%s view html'] = '%s view';
 $Definition['%s viewing'] = '%s viewing';
@@ -108,6 +110,7 @@ $Definition['[%s] Welcome Aboard!'] = '[%s] Welcome Aboard!';
 $Definition['[Deleted User]'] = '[Deleted User]';
 
 $Definition['About'] = 'About';
+$Definition['About %s users'] = 'About %s users';
 $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Abuse'] = 'Abuse';
