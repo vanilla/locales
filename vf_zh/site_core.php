@@ -77,6 +77,8 @@ $Definition['%s said:'] = '%s 说道：';
 $Definition['%s tag(s) found.'] = '有 %s 个标签。';
 $Definition['%s tags in the system'] = '系统中有 %s 个标签';
 $Definition['%s Up Votes'] = '%s 投票最多';
+$Definition['%s user'] = '%s 用户';
+$Definition['%s users'] = '%s 用户';
 $Definition['%s view'] = '%s 浏览';
 $Definition['%s view html'] = '%s 次浏览';
 $Definition['%s viewing'] = '%s 浏览';
@@ -107,6 +109,7 @@ $Definition['[%s] Welcome Aboard!'] = '[%s] 欢迎登录！';
 $Definition['[Deleted User]'] = '[删除用户]';
 
 $Definition['About'] = '关于';
+$Definition['About %s users'] = '关于 %s 用户';
 $Definition['AboutToDelete'] = '您即将删除 %s。';
 $Definition['AboutToDeleteSelectedDiscussions'] = '您即将删除 %2$s 选中讨论中的 %1$s。';
 $Definition['Abuse'] = '滥用';
