@@ -183,7 +183,9 @@ $Definition['Check all permissions that apply for each role'] = 'Check all permi
 $Definition['Check all permissions that apply to this role:'] = 'Check all permissions that apply to this role:';
 $Definition['Check out my new community!'] = 'Check out my new community!';
 $Definition['Check out the full list of video tutorials here.'] = 'Check out the full list of video tutorials here.';
-$Definition['Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.'] = 'Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
+$Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a locale pack'] = 'Choose a locale pack';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choose a role that orphaned users will be assigned to:';
@@ -415,7 +417,6 @@ $Definition['Heads up!'] = 'Heads up!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.';
 $Definition['Help &amp; Tutorials'] = 'Help &amp; Tutorials';
 $Definition['Here\'s how to get started:'] = 'Here\'s how to get started:';
-$Definition['Hi Pal!'] = 'Hi Pal!';
 $Definition['Hidden for everything!'] = 'Hidden for everything!';
 $Definition['Hidden for mobile'] = 'Hidden for mobile';
 $Definition['Hide from the recent discussions page.'] = 'Hide from the recent discussions page.';
