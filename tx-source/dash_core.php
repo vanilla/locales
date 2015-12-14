@@ -461,7 +461,7 @@ $Definition['Key Value'] = 'Key Value';
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 
 $Definition['Label this Revision'] = 'Label this Revision';
-$Definition['Large images will be scaled down to a max width of %spx and a max height of %spx'] = 'Large images will be scaled down to a max width of %spx and a max height of %spx';
+$Definition['Large images will be scaled down.'] = 'Large images will be scaled down to a max width of %spx and a max height of %spx.';
 $Definition['Last Visit'] = 'Last Visit';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
@@ -653,7 +653,6 @@ $Definition['Select the location of the pocket.'] = 'Select the location of the 
 $Definition['Send %s a Message'] = 'Send %s a Message';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Send a confirmation email when people ask a question or start a discussion over email.';
 $Definition['Send a Test Email'] = 'Send a Test Email';
-$Definition['Send Email'] = 'Send Email';
 $Definition['Send Again'] = 'Send Again';
 $Definition['Send Invitations!'] = 'Send Invitations!';
 $Definition['Send users a welcome email.'] = 'Send users a welcome email.';
@@ -691,9 +690,8 @@ $Definition['Temporary (302)'] = 'Temporary (302)';
 $Definition['Test'] = 'Test';
 $Definition['Test Email'] = 'Test Email';
 $Definition['Test email from %s'] = 'Test email from %s';
-$Definition['Test Email Message'] = '<p>Danish dragée danish chupa chups. Gingerbread cheesecake dessert. Chocolate cake wafer cheesecake gingerbread pie topping carrot cake tart. Ice cream marzipan wafer halvah tootsie roll.</p>'.
-            '<ol><li>list item one</li><li>list item two</li></ol>'.
-            '<p>Candy bonbon pastry jujubes lollipop wafer biscuit biscuit. Topping brownie sesame snaps sweet roll pie. Croissant danish biscuitsoufflé caramels jujubes jelly. Dragée danish caramels lemon drops dragée.</p>';
+$Definition['Test Email Message'] = '<p>This is a test email message.</p>'.
+            '<p>You can configure the appearance of your forum\'s emails by navigating to the Email page in the dashboard.</p>';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
 $Definition['Test URL'] = 'Test URL';
 $Definition['Testing'] = 'Testing';
