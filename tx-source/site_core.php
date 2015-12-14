@@ -695,6 +695,7 @@ $Definition['Locale'] = 'Locale';
 $Definition['log'] = 'log';
 $Definition['Log'] = 'Log';
 $Definition['Login with Facebook'] = 'Login with Facebook';
+$Definition['LoginCredentials'] = '<p>Your login credentials are:<br></p><p>Email: %s<br>Password: %s</p>';
 $Definition['LOL'] = 'LOL';
 
 $Definition['Major'] = 'Major';
@@ -1389,7 +1390,6 @@ $Definition['Your changes were saved.'] = 'Your changes were saved.';
 $Definition['Your email has been successfully confirmed.'] = 'Your email has been successfully confirmed.';
 $Definition['Your invitation has been sent.'] = 'Your invitation has been sent.';
 $Definition['You haven\'t joined any groups yet.'] = 'You haven\'t joined any groups yet.';
-$Definition['Your login credentials are:'] = 'Your login credentials are:';
 $Definition['Your old password was incorrect.'] = 'Your old password was incorrect.';
 $Definition['Your password has been changed.'] = 'Your password has been changed.';
 $Definition['Your picture has been removed.'] = 'Your picture has been removed.';
