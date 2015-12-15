@@ -605,7 +605,7 @@ $Definition['Hello {User.Name}!'] = 'Hello {User.Name}!';
 $Definition['Hello %s!'] = 'Hello %s!';
 $Definition['Help'] = 'Help';
 $Definition['her'] = 'her';
-$Definition['Here is your information:'] = 'Here is your information:';
+$Definition['Find your account information below.'] = 'Find your account information below.';
 $Definition['Hide'] = 'Hide';
 $Definition['Hide my online status from other members'] = 'Hide my online status from other members';
 $Definition['Hide signatures?'] = 'Hide signatures?';
@@ -695,12 +695,6 @@ $Definition['Locale'] = 'Locale';
 $Definition['log'] = 'log';
 $Definition['Log'] = 'Log';
 $Definition['Login with Facebook'] = 'Login with Facebook';
-$Definition['LoginCredentials'] = 'Your login credentials are:
-
-Email: %s
-Password: %s'
-
-;
 $Definition['LOL'] = 'LOL';
 
 $Definition['Major'] = 'Major';
