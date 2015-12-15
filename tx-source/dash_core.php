@@ -789,7 +789,6 @@ $Definition['Universal Code'] = 'Universal Code';
 $Definition['unknown'] = 'unknown';
 $Definition['Unlimited'] = 'Unlimited';
 $Definition['Universal Forum Embed Code'] = 'Universal Forum Embed Code';
-$Definition['Unviersal Forum Embed Code'] = 'Universal Forum Embed Code';
 $Definition['Upload New Email Logo'] = 'Upload New Email Logo';
 $Definition['Use an SMTP server to send email'] = 'Use an SMTP server to send email';
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
