@@ -698,7 +698,9 @@ $Definition['Login with Facebook'] = 'Login with Facebook';
 $Definition['LoginCredentials'] = 'Your login credentials are:
 
 Email: %s
-Password: %s';
+Password: %s'
+
+;
 $Definition['LOL'] = 'LOL';
 
 $Definition['Major'] = 'Major';
