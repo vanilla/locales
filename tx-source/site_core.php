@@ -695,7 +695,10 @@ $Definition['Locale'] = 'Locale';
 $Definition['log'] = 'log';
 $Definition['Log'] = 'Log';
 $Definition['Login with Facebook'] = 'Login with Facebook';
-$Definition['LoginCredentials'] = '<p>Your login credentials are:<br></p><p>Email: %s<br>Password: %s</p>';
+$Definition['LoginCredentials'] = 'Your login credentials are:
+
+Email: %s
+Password: %s';
 $Definition['LOL'] = 'LOL';
 
 $Definition['Major'] = 'Major';
