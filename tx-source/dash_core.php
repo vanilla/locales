@@ -690,8 +690,9 @@ $Definition['Temporary (302)'] = 'Temporary (302)';
 $Definition['Test'] = 'Test';
 $Definition['Test Email'] = 'Test Email';
 $Definition['Test email from %s'] = 'Test email from %s';
-$Definition['Test Email Message'] = '<p>This is a test email message.</p>'.
-            '<p>You can configure the appearance of your forum\'s emails by navigating to the Email page in the dashboard.</p>';
+$Definition['Test Email Message'] = '<p>This is a test email message.</p>
+
+<p>You can configure the appearance of your forum\'s emails by navigating to the Email page in the dashboard.</p>';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
 $Definition['Test URL'] = 'Test URL';
 $Definition['Testing'] = 'Testing';
