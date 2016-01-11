@@ -745,7 +745,6 @@ $Definition['Uninvite'] = 'Intrekken';
 $Definition['Universal Code'] = 'Universele Code';
 $Definition['unknown'] = 'onbekend';
 $Definition['Unlimited'] = 'Onbeperkt';
-$Definition['Unviersal Forum Embed Code'] = 'Universele Forum-insluitcode';
 $Definition['Use an SMTP server to send email'] = 'Gebruik een SMTP server om e-mail te verzenden';
 $Definition['Use asterisks for wildcards'] = 'Gebruik sterretjes voor wildcards, bijv. &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Gebruik Categorieën';

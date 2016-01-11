@@ -627,7 +627,6 @@ $Definition['Leave %s'] = 'Nechajte %s';
 $Definition['Leave a Comment'] = 'Zanechať komentár';
 $Definition['Leave a comment'] = 'Zanechať komentár';
 $Definition['Leave a redirect link.'] = 'Zanechať odkaz na presmerovanie.';
-$Definition['Leave blank unless connecting to an exising account.'] = 'Nechaj prázdne, dokým sa nepripájaš už k existujúcemu účtu.';
 $Definition['Leave Comments'] = 'Zanechať komentár';
 $Definition['Leave Group'] = 'Opustiť skupinu';
 $Definition['Length'] = 'Dĺžka';

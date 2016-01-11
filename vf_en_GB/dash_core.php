@@ -10,7 +10,10 @@ $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of 
 $Definition['Applied On'] = 'Date';
 $Definition['Authenticate Url'] = 'Authenticate URL';
 
+$Definition['Background Color'] = 'Background Colour';
 $Definition['Ban Item'] = 'Item';
+$Definition['Button Background Color'] = 'Button Background Colour';
+$Definition['Button Text Color'] = 'Button Text Colour';
 
 $Definition['Category Url:'] = 'Category URL:';
 $Definition['Create & organize discussion categories and manage your users.'] = 'Create & organise discussion categories and manage your users.';
@@ -35,12 +38,18 @@ $Definition['Messages can appear anywhere in your application.'] = 'Messages can
 $Definition['Organize'] = 'Organise';
 $Definition['Organize Categories'] = 'Organise Categories';
 
+$Definition['Page Color'] = 'Page Colour';
+$Definition['Preview Colors'] = 'Preview Colours';
+
 $Definition['Register Url'] = 'Register URL';
 $Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Routes can be used to redirect users to various parts of your site depending on the URL.';
 
+$Definition['Save Colors'] = 'Save Colours';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialised column "%s" failed to be unserialized.';
 $Definition['Sign In Url'] = 'Sign In URL';
+$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Spruce up your emails by adding a logo and customizing the colours.';
 
+$Definition['Text Color'] = 'Text Colour';
 $Definition['The specified url code is already in use by another category.'] = 'The specified URL code is already in use by another category.';
 $Definition['The url that users go to to register for a new account.'] = 'The URL that users go to to register for a new account.';
 $Definition['The url that users use to register for a new account.'] = 'The URL that users use to register for a new account.';

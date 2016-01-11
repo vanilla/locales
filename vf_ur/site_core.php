@@ -486,7 +486,6 @@ $Definition['Latest Post'] = 'تازہ ترین پوسٹ';
 $Definition['Leaders'] = 'لیڈرز';
 $Definition['Leave a Comment'] = 'تبصرہ کریں';
 $Definition['Leave a comment'] = 'تبصرہ کریں';
-$Definition['Leave blank unless connecting to an exising account.'] = 'خالی چھوڑ دیں اگر کسی پہلے سے موجود کھاتے سے منسلک کررہے ہیں۔';
 $Definition['Leave Comments'] = 'تبصرے کریں';
 $Definition['Length'] = 'لمبائی';
 $Definition['Level %s'] = 'درجہ %s';

@@ -683,7 +683,6 @@ $Definition['Uninvite'] = 'برگرداندن فراخوانه';
 $Definition['Universal Code'] = 'کد جهانی';
 $Definition['unknown'] = 'ناشناخته';
 $Definition['Unlimited'] = 'بی‌پایان';
-$Definition['Unviersal Forum Embed Code'] = 'قرار دادن کد جهانی در انجمن';
 $Definition['Use an SMTP server to send email'] = 'یک SMTP server را برای فرستادن رایانامه به‌کار بگیر';
 $Definition['Use Categories'] = 'به‌کارگیری دسته‌ها';
 $Definition['Use categories to organize discussions'] = 'از دسته‌ها برای ساماندهی جستارها استفاده کنید.';

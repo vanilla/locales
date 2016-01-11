@@ -611,7 +611,6 @@ $Definition['Latest Post'] = 'Kiriman Terbaru';
 $Definition['Leaders'] = 'Pemimpin';
 $Definition['Leave a Comment'] = 'Tinggalkan sebuah Komentar';
 $Definition['Leave a comment'] = 'Tinggalkan sebuah Komentar';
-$Definition['Leave blank unless connecting to an exising account.'] = 'Biarkan kosong kecuali terhubung ke sebuah akun yang telah ada.';
 $Definition['Leave Comments'] = 'Tinggalkan sebuah Komentar';
 $Definition['Length'] = 'Panjang';
 $Definition['Like'] = 'Suka';

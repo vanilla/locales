@@ -550,7 +550,6 @@ $Definition['Latest Post'] = 'Останні обговорення';
 $Definition['Leaders'] = 'Лідери';
 $Definition['Leave a Comment'] = 'Залишити коментар';
 $Definition['Leave a comment'] = 'Залишити коментар';
-$Definition['Leave blank unless connecting to an exising account.'] = 'Залиште порожнім, якщо підключенні до існуючого обліковий запис.';
 $Definition['Leave Comments'] = 'Залишити коментар';
 $Definition['Leave Group'] = 'Покинути групу';
 $Definition['Length'] = 'Довжина';

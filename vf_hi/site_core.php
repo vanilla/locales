@@ -495,7 +495,6 @@ $Definition['Latest Post'] = 'नवीनतम पोस्ट';
 $Definition['Leaders'] = 'लीडर';
 $Definition['Leave a Comment'] = 'टिप्पणी छोड़ें';
 $Definition['Leave a comment'] = 'टिप्पणी छोड़ें';
-$Definition['Leave blank unless connecting to an exising account.'] = 'खाली छोड़ें जबतक मौजूदा अकाउंट के साथ न जोड़ना हो।';
 $Definition['Leave Comments'] = 'टिप्पणियाँ छोड़ें';
 $Definition['Length'] = 'लंबाई';
 $Definition['Level %s'] = 'स्तर %s';

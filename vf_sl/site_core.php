@@ -490,7 +490,6 @@ $Definition['Latest Post'] = 'Najnovejše sporočilo';
 $Definition['Leaders'] = 'Vodilni';
 $Definition['Leave a Comment'] = 'Napišite komentar';
 $Definition['Leave a comment'] = 'Napiši komentar';
-$Definition['Leave blank unless connecting to an exising account.'] = 'Pustite prazno razen če se povezujete z obstoječim računom.';
 $Definition['Leave Comments'] = 'Napišite komentar';
 $Definition['Length'] = 'Dolžina';
 $Definition['Level %s'] = 'Raven %s';

@@ -492,7 +492,6 @@ $Definition['Latest Post'] = 'โพสต์ล่าสุด';
 $Definition['Leaders'] = 'ผู้นำ';
 $Definition['Leave a Comment'] = 'ฝากความคิดเห็น';
 $Definition['Leave a comment'] = 'ฝากความคิดเห็น';
-$Definition['Leave blank unless connecting to an exising account.'] = 'ปล่อยว่างไว้ เว้นแต่จะเชื่อมต่อไปยังบัญชีที่มีอยู่แล้ว';
 $Definition['Leave Comments'] = 'ฝากความคิดเห็น';
 $Definition['Length'] = 'ความยาว';
 $Definition['Level %s'] = 'ระดับ %s';

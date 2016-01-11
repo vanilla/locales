@@ -757,7 +757,6 @@ $Definition['Uninvite'] = '取消邀請';
 $Definition['Universal Code'] = '通用程式碼';
 $Definition['unknown'] = '未知';
 $Definition['Unlimited'] = '無限制';
-$Definition['Unviersal Forum Embed Code'] = '通用討論版內嵌程式碼';
 $Definition['Use an SMTP server to send email'] = '利用SMTP伺服器來寄送電子郵件';
 $Definition['Use asterisks for wildcards'] = '以星號作為萬用字元，例如：&lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = '使用分類';

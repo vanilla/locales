@@ -483,7 +483,6 @@ $Definition['Latest Post'] = 'Pinakabagong Post';
 $Definition['Leaders'] = 'Mga Lider';
 $Definition['Leave a Comment'] = 'Mag-iwan ng Komento';
 $Definition['Leave a comment'] = 'Mag-iwan ng komento';
-$Definition['Leave blank unless connecting to an exising account.'] = 'Iwanang blangko maliban kung kokonekta sa isang umiiral na account.';
 $Definition['Leave Comments'] = 'Mag-iwan ng Mga Komento';
 $Definition['Length'] = 'Haba';
 $Definition['Level %s'] = 'Lebel %s';

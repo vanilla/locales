@@ -589,7 +589,6 @@ $Definition['Latest Post'] = 'En Son Gönderi';
 $Definition['Leaders'] = 'Liderler';
 $Definition['Leave a Comment'] = 'Bir Yorum Bırak';
 $Definition['Leave a comment'] = 'Bir yorum yap';
-$Definition['Leave blank unless connecting to an exising account.'] = 'Zaten varolan bir hesaba bağlanmıyorsanız boş bırakın.';
 $Definition['Leave Comments'] = 'Yorumlar Yap';
 $Definition['Leave Group'] = 'Gruptan Ayrıl';
 $Definition['Length'] = 'Uzunluk';

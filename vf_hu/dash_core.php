@@ -757,7 +757,6 @@ $Definition['Uninvite'] = 'Meghívó visszavonása';
 $Definition['Universal Code'] = 'Általános kód';
 $Definition['unknown'] = 'ismeretlen';
 $Definition['Unlimited'] = 'Korlátlan';
-$Definition['Unviersal Forum Embed Code'] = 'Univerzális fórum beágyazó kód';
 $Definition['Use an SMTP server to send email'] = 'Használj SMTP szervert email küldésére';
 $Definition['Use asterisks for wildcards'] = 'Helyettesítő karakterként használj csillagot, például: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Használj kategóriákat';

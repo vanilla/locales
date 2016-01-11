@@ -526,7 +526,6 @@ $Definition['Latest Post'] = 'آخرین ارسال';
 $Definition['Leaders'] = 'مدیران';
 $Definition['Leave a Comment'] = 'گذاشتن یک دیدگاه';
 $Definition['Leave a comment'] = 'گذاشتن یک دیدگاه';
-$Definition['Leave blank unless connecting to an exising account.'] = 'خالی بگذارید، مگر در صورت وصل شدن به یک شناسه‌ی کاربری موجود';
 $Definition['Leave Comments'] = 'ترک کردن دیدگاه‌ها';
 $Definition['Length'] = 'طول';
 $Definition['Level %s'] = 'سطح %s';

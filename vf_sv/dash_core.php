@@ -753,7 +753,6 @@ $Definition['Uninvite'] = 'Avbryt inbjudan';
 $Definition['Universal Code'] = 'Universell kod';
 $Definition['unknown'] = 'okänd';
 $Definition['Unlimited'] = 'Obegränsad';
-$Definition['Unviersal Forum Embed Code'] = 'Universell inbäddningskod för forumet';
 $Definition['Use an SMTP server to send email'] = 'Använd en SMTP-server för att skicka e-post';
 $Definition['Use asterisks for wildcards'] = 'Använd asterisker för vildsökning, t.ex. &Isqou;*hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Använd kategorier';

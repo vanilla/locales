@@ -751,7 +751,6 @@ $Definition['Uninvite'] = 'Jangan undang';
 $Definition['Universal Code'] = 'Kode Universal';
 $Definition['unknown'] = 'tidak diketahui';
 $Definition['Unlimited'] = 'Tidak terbatas';
-$Definition['Unviersal Forum Embed Code'] = 'Kode Tanam Universal Forum';
 $Definition['Use an SMTP server to send email'] = 'Gunakan SMTP server untuk mengirim email';
 $Definition['Use asterisks for wildcards'] = 'Gunakan tanda bintang untuk wildcard, cth: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Gunakan Kategori';

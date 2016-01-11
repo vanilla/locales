@@ -629,7 +629,6 @@ $Definition['Unban'] = 'Peru esto';
 $Definition['Uninvite'] = 'Peru kutsu';
 $Definition['unknown'] = 'tuntematon';
 $Definition['Unlimited'] = 'Rajoittamaton';
-$Definition['Unviersal Forum Embed Code'] = 'Unviersaali Foorumin Upotus Koodi';
 $Definition['Use an SMTP server to send email'] = 'K&auml;yt&auml; s&auml;hk&ouml;postien l&auml;hett&auml;miseen SMTP-serveri&auml;';
 $Definition['Use Categories'] = 'K&auml;yt&auml; kategorioita';
 $Definition['Use categories to organize discussions'] = 'K&auml;yt&auml; kategorioita keskustelujen j&auml;rjest&auml;miseen.';

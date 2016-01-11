@@ -749,7 +749,6 @@ $Definition['Uninvite'] = 'Anulare invitație';
 $Definition['Universal Code'] = 'Cod universal';
 $Definition['unknown'] = 'necunoscut';
 $Definition['Unlimited'] = 'Nelimitat';
-$Definition['Unviersal Forum Embed Code'] = 'Codul universal de încorporare al forumului';
 $Definition['Use an SMTP server to send email'] = 'Utilizaţi un server SMTP pentru a trimite e-mail';
 $Definition['Use asterisks for wildcards'] = 'Folosiți asterisc pentru wildcards. De ex.: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Utilizați categorii';

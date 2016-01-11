@@ -755,7 +755,6 @@ $Definition['Uninvite'] = 'Ngừng mời';
 $Definition['Universal Code'] = 'Mã chung';
 $Definition['unknown'] = 'không rõ';
 $Definition['Unlimited'] = 'Không giới hạn';
-$Definition['Unviersal Forum Embed Code'] = 'Mã nhúng diễn đàn';
 $Definition['Use an SMTP server to send email'] = 'Sử dụng một máy chủ SMTP để gửi thư điện tử';
 $Definition['Use asterisks for wildcards'] = 'Sử dụng dấu sao cho ký tự đại diện, ví dụ như \' * @hotmail.com\'';
 $Definition['Use Categories'] = 'Sử dụng danh mục';

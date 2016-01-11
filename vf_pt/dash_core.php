@@ -758,7 +758,6 @@ $Definition['Uninvite'] = 'Desconvidar';
 $Definition['Universal Code'] = 'Código Universal';
 $Definition['unknown'] = 'desconhecido';
 $Definition['Unlimited'] = 'Ilimitado';
-$Definition['Unviersal Forum Embed Code'] = 'Código Universal de Incorporação do Fórum';
 $Definition['Use an SMTP server to send email'] = 'Use um servidor SMTP para enviar email';
 $Definition['Use asterisks for wildcards'] = 'Utilize asteriscos para os símbolos "wildcards", por ex: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Usar Categorias';

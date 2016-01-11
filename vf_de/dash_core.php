@@ -36,7 +36,7 @@ $Definition['4 hours'] = '4 Stunden';
 
 $Definition['5 minutes'] = '5 Minuten';
 
-$Definition['15 minutes'] = '15 Minutes';
+$Definition['15 minutes'] = '15 Minuten';
 
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Vorsicht!</strong> Das Löschen von Rollen kann zur Folge haben, dass manche Benutzer keinen Zugang mehr zum Forum haben.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Aufgepasst!</strong> Verschiebt man Diskussionen in Ersatz-Kategorien kann es passieren, dass sie nicht mehr angezeigt werden, weil die Zielkategorie andere Rechte hat als die gelöschte Kategorie.';
@@ -759,7 +759,6 @@ $Definition['Uninvite'] = 'Ausladen';
 $Definition['Universal Code'] = 'Universeller Code';
 $Definition['unknown'] = 'unbekannt';
 $Definition['Unlimited'] = 'Unbeschränkt';
-$Definition['Unviersal Forum Embed Code'] = 'Unvierseller Forums-Einbettungscode ';
 $Definition['Use an SMTP server to send email'] = 'Nutze SMTP zum Versenden von E-Mail';
 $Definition['Use asterisks for wildcards'] = 'Verwenden Sie Sternchen als Stellvertretersymbol, z.B. &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Kategorien benutzen';

@@ -757,7 +757,6 @@ $Definition['Uninvite'] = 'בטל הזמנה';
 $Definition['Universal Code'] = 'קוד אוניברסלי';
 $Definition['unknown'] = 'לא ידוע';
 $Definition['Unlimited'] = 'לא מוגבל';
-$Definition['Unviersal Forum Embed Code'] = 'קוד אוניברסלי לשילוב הפורום';
 $Definition['Use an SMTP server to send email'] = 'תשתמש בשרת SMTP כדי לשלוח מיילים.';
 $Definition['Use asterisks for wildcards'] = 'השתמש בכוכביות עבור תוויות כלליות, לדוגמא &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'תשתמש בקטגוריות.';

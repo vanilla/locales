@@ -760,7 +760,6 @@ $Definition['Uninvite'] = 'Ακύρωση Πρόσκλησης';
 $Definition['Universal Code'] = 'Γενικός Κωδικός';
 $Definition['unknown'] = 'άγνωστο';
 $Definition['Unlimited'] = 'Απεριόριστα';
-$Definition['Unviersal Forum Embed Code'] = 'Ενσωματωμένος Κώδικας Γενικού Φόρουμ';
 $Definition['Use an SMTP server to send email'] = 'Χρησιμοποιήστε ένα διακομιστή SMTP για να στέλνετε email';
 $Definition['Use asterisks for wildcards'] = 'Χρησιμοποιήστε αστερίσκους για μπαλαντέρ, π.χ. &Isquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Κατηγορίες Χρήσης';

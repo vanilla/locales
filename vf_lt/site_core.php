@@ -560,7 +560,6 @@ $Definition['Latest Post'] = 'Naujausia žinutė';
 $Definition['Leaders'] = 'Vadovai';
 $Definition['Leave a Comment'] = 'Atsakyk';
 $Definition['Leave a comment'] = 'Komentuoti';
-$Definition['Leave blank unless connecting to an exising account.'] = 'Neužpildyti, jei nenorite prisijungti su jau egzistuojančiu paskyra. ';
 $Definition['Leave Comments'] = 'Komentuoti';
 $Definition['Length'] = 'Ilgis';
 $Definition['Level %s'] = 'Lygis  %s';

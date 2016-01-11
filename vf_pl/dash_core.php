@@ -12,7 +12,7 @@ $Definition['1 week after being sent'] = '1 tydzień po wysłaniu';
 
 $Definition['2 weeks after being sent'] = '2 tygodnie po wysłaniu';
 
-$Definition['[%s] Confirm Your Email Address'] = '[%s] Potwierdź twój adres email';
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Potwierdź swój adres email';
 $Definition['[%s] Password Reset Request'] = '[%s] Prośba o ustawienie hasła';
 
 $Definition['Accepted'] = 'Zaakceptowane';
@@ -25,7 +25,7 @@ $Definition['Advanced Forum Settings'] = 'Zaawansowane ustawienia forum';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Na twój email została wysłana wiadomość jak ustawić hasło.';
 $Definition['Appearance'] = 'Wygląd';
 $Definition['Applicant'] = 'Kandydat';
-$Definition['Application'] = 'Applikacja';
+$Definition['Application'] = 'Aplikacja';
 $Definition['ApplicationHelp'] = 'Aplikacje umożliwiają dodawanie dużych grup funkcjonalności witryny.<br />Gdy aplikacje zostały dodane do folderu %s, można włączyć lub wyłączyć je tutaj.';
 $Definition['Application ID'] = 'ID aplikacji';
 $Definition['Applications'] = 'Aplikacje';
@@ -58,7 +58,7 @@ $Definition['Copy'] = 'Kopiuj';
 $Definition['Current Authenticator'] = 'Aktualny wystawca uwierzytelnienia';
 $Definition['Current Theme'] = 'Aktualny temat';
 
-$Definition['Decline'] = 'Odmień';
+$Definition['Decline'] = 'Odrzuć';
 $Definition['Description'] = 'Opis';
 $Definition['Disable'] = 'Wyłącz';
 $Definition['Disable Google Sign In'] = 'Wyłącz logowanie w Google';
@@ -115,7 +115,7 @@ $Definition['Manage Spam'] = 'Zarządzanie spamem';
 $Definition['Manage Themes'] = 'Zarządzanie tematami';
 $Definition['Manage Users'] = 'Zarządzanie użytkownikami';
 $Definition['Max Comment Length'] = 'Makasymalna dlugość komentarza';
-$Definition['Member'] = 'Całonek';
+$Definition['Member'] = 'Członek';
 $Definition['Messages can appear anywhere in your application.'] = 'Wiadomości mogą pojawić się gdziekolwiek w aplikacji, i mogą być wykorzystywane do informowania użytkowników o nowościach i wydarzeniach. Użyj tej strony do ponownego uporządkowania wiadomości, przeciągając je w górę lub w dół.';
 $Definition['Method'] = 'Metoda';
 $Definition['minute(s)'] = 'minuta(y)';

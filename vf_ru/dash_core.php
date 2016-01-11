@@ -759,7 +759,6 @@ $Definition['Uninvite'] = 'Отменить приглашение';
 $Definition['Universal Code'] = 'Универсальный код';
 $Definition['unknown'] = 'неизвестно';
 $Definition['Unlimited'] = 'Не ограничено';
-$Definition['Unviersal Forum Embed Code'] = 'Универсальный код вставки форума';
 $Definition['Use an SMTP server to send email'] = 'Использовать SMTP-сервер для отправки писем';
 $Definition['Use asterisks for wildcards'] = 'Используйте звездочки для специальных символов, например, &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use Categories'] = 'Использовать разделы';
