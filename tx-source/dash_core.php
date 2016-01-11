@@ -395,7 +395,6 @@ $Definition['Gave badge to users.'] = 'Gave badge to users.';
 $Definition['Generate'] = 'Generate';
 $Definition['Generate Client ID and Secret'] = 'Generate Client ID and Secret';
 $Definition['Get More Applications'] = 'Get More Applications';
-$Definition['Get more information on creating custom routes'] = 'Get more information on creating custom routes';
 $Definition['Get More Plugins'] = 'Get More Plugins';
 $Definition['Get More Themes'] = 'Get More Themes';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
@@ -463,6 +462,7 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Kick-s
 $Definition['Label this Revision'] = 'Label this Revision';
 $Definition['Large images will be scaled down.'] = 'Large images will be scaled down to a max width of %spx and a max height of %spx.';
 $Definition['Last Visit'] = 'Last Visit';
+$Definition['Learn about custom routing.'] = 'Learn about custom routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
 $Definition['Level'] = 'Level';
@@ -636,7 +636,7 @@ $Definition['Roles determine user\'s permissions.'] = 'Every user in your site i
 $Definition['Route'] = 'Route';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes'] = 'Routes';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Routes can be used to redirect users to various parts of your site depending on the url.';
+$Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 $Definition['Run structure & data scripts'] = 'Run structure & data scripts';
 
 $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
