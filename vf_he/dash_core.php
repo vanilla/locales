@@ -383,7 +383,6 @@ $Definition['Gave badge to users.'] = 'תן תג למשתמשים.';
 $Definition['Generate'] = 'צור';
 $Definition['Generate Client ID and Secret'] = 'צור תעודת זהות של משתמש וסוד';
 $Definition['Get More Applications'] = 'הוסף אפליקציות';
-$Definition['Get more information on creating custom routes'] = 'למידע נוסף על יצירת נתיבים חלופיים';
 $Definition['Get More Plugins'] = 'הוסף תוספות';
 $Definition['Get More Themes'] = 'הוסף ערכות נושא';
 $Definition['Getting Started'] = 'למתחילים';
@@ -615,7 +614,6 @@ $Definition['Role to Grant'] = 'התפקיד שיינתן';
 $Definition['Route'] = 'נתיב';
 $Definition['Route Expression'] = 'שם הנתיב';
 $Definition['Routes'] = 'נתיבים';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'נתיבים יכולים לשמש לניתוב המשתמים לחלקים שונים של האתר, בהתאם ל-URL.';
 $Definition['Run structure & data scripts'] = 'הרץ סקריפטים של מבנה ונתונים';
 
 $Definition['Save Captured Definitions'] = 'שמור הגדרות';

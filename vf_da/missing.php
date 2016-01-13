@@ -70,6 +70,7 @@ $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.'
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 
 $Definition['Record Content'] = 'Content';
+$Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
@@ -117,3 +118,4 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
+$Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';

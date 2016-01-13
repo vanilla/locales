@@ -383,7 +383,6 @@ $Definition['Gave badge to users.'] = 'Δώστε εμβλήματα στους 
 $Definition['Generate'] = 'Παραγωγή';
 $Definition['Generate Client ID and Secret'] = 'Δημιουργία ID Πελάτη και Μυστικού';
 $Definition['Get More Applications'] = 'Λήψη Νέων Εφαρμογών';
-$Definition['Get more information on creating custom routes'] = 'Λήψη περισσότερων πληροφοριών για τη δημιουργία προσαρμοσμένων δρομολογήσεων.';
 $Definition['Get More Plugins'] = 'Λήψη Νέων Πρόσθετων';
 $Definition['Get More Themes'] = 'Λήψη Νέων Θεμάτων';
 $Definition['Getting Started'] = 'Ξεκινώντας';
@@ -618,7 +617,6 @@ $Definition['Role to Grant'] = 'Ρόλος για Χορήγηση';
 $Definition['Route'] = 'Δρομολόγηση';
 $Definition['Route Expression'] = 'Έκφραση Δρομολόγησης';
 $Definition['Routes'] = 'Διαδρομές';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Οι διαδρομές μπορούν να χρησιμοποιηθούν για να ανακατευθύνουν χρήστες σε διάφορα μέρη της ιστοσελίδας σας ανάλογα το url. ';
 $Definition['Run structure & data scripts'] = 'Εκτελέστε δέσμες ενεργειών δομής και δεδομένων';
 
 $Definition['Save Captured Definitions'] = 'Αποθηκεύστε Καταγεγραμμένους Ορισμούς ';

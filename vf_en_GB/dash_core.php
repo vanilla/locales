@@ -42,7 +42,6 @@ $Definition['Page Color'] = 'Page Colour';
 $Definition['Preview Colors'] = 'Preview Colours';
 
 $Definition['Register Url'] = 'Register URL';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Routes can be used to redirect users to various parts of your site depending on the URL.';
 
 $Definition['Save Colors'] = 'Save Colours';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialised column "%s" failed to be unserialized.';
