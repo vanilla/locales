@@ -381,7 +381,6 @@ $Definition['Gave badge to users.'] = '將徽章給予用戶。';
 $Definition['Generate'] = '產生';
 $Definition['Generate Client ID and Secret'] = '產生Client ID與密鑰資料';
 $Definition['Get More Applications'] = '下載更多應用程式';
-$Definition['Get more information on creating custom routes'] = '取得關於建立自訂流程的更多資訊';
 $Definition['Get More Plugins'] = '下載更多外掛';
 $Definition['Get More Themes'] = '下載更多佈景主題';
 $Definition['Getting Started'] = '開始使用';
@@ -615,7 +614,6 @@ $Definition['Role to Grant'] = '核准職務';
 $Definition['Route'] = '路徑';
 $Definition['Route Expression'] = '路徑表達式';
 $Definition['Routes'] = '轉送功能';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = '轉送功能可依網址內容，將訪客轉送到網站的不同部分。';
 $Definition['Run structure & data scripts'] = '執行結構與資料程序';
 
 $Definition['Save Captured Definitions'] = '儲存已擷取之定義';

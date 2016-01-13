@@ -377,7 +377,6 @@ $Definition['Gave badge to users.'] = 'Gaf badge aan gebruikers.';
 $Definition['Generate'] = 'Genereer';
 $Definition['Generate Client ID and Secret'] = 'Genereer Client-ID en Secret';
 $Definition['Get More Applications'] = 'Meer Applicaties...';
-$Definition['Get more information on creating custom routes'] = '<br/>Meer informatie over het maken van aangepaste routes';
 $Definition['Get More Plugins'] = 'Meer Plugins...';
 $Definition['Get More Themes'] = 'Haal meer Thema\'s op';
 $Definition['Getting Started'] = 'Aan de Slag';
@@ -607,7 +606,6 @@ $Definition['Roles & Permissions'] = 'Rollen & Rechten';
 $Definition['Roles determine user\'s permissions.'] = 'Elke gebruiker van je site is ten minste één rol toegewezen. Rollen worden gebruikt om te bepalen wat gebruikers mogen doen.';
 $Definition['Role to Grant'] = 'Rol om te Geven';
 $Definition['Route Expression'] = 'Route Expressie';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Routes kunnen worden gebruikt om gebruikers, op basis van de url, te leiden naar verschillende delen van je site.';
 $Definition['Run structure & data scripts'] = 'Activeer structuur & data scripts';
 
 $Definition['Save Captured Definitions'] = 'Sla Gevangen Definities op';

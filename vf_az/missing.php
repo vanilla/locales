@@ -308,6 +308,7 @@ $Definition['Report Reason'] = 'Reason';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['RoleID'] = 'role';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
+$Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 $Definition['RSVP'] = 'Respond';
 
 $Definition['Saved'] = 'Your changes have been saved.';
@@ -439,5 +440,6 @@ $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="ht
 $Definition['YouEarnedBadge'] = 'You earned this badge';
 $Definition['You need to confirm your email address.'] = 'You need to confirm your email address. Click <a href="{/entry/emailconfirmrequest,url}">here</a> to resend the confirmation email.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
+$Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';
 $Definition['Your request has been sent.'] = 'Your request has been sent. Check your email for further instructions.';
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} added {NotifyUserID,you} to a <a href="{Url,htmlencode}">conversation</a>.';

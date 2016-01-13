@@ -381,7 +381,6 @@ $Definition['Gave badge to users.'] = 'Plecsni adása felhasználóknak.';
 $Definition['Generate'] = 'Generál';
 $Definition['Generate Client ID and Secret'] = 'Client ID és Secret generálása';
 $Definition['Get More Applications'] = 'Szerezz több programot';
-$Definition['Get more information on creating custom routes'] = 'Szerezz több információt egyedi utak létrehozásával kapcsolatban';
 $Definition['Get More Plugins'] = 'Szerezz több beépülő modult';
 $Definition['Get More Themes'] = 'Szerezz több témát';
 $Definition['Getting Started'] = 'Bevezetés';
@@ -616,7 +615,6 @@ $Definition['Role to Grant'] = 'Szerepkör megadása';
 $Definition['Route'] = 'Út';
 $Definition['Route Expression'] = 'Út kifejezés';
 $Definition['Routes'] = 'Utak';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Az utak segítségével lehet az url-től függően az oldal különböző helyeire a felhasználókat átirányítani.';
 $Definition['Run structure & data scripts'] = 'Adat és szerkezet szkriptek futtatása';
 
 $Definition['Save Captured Definitions'] = 'Begyűjtött definíók ';

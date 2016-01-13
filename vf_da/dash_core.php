@@ -305,7 +305,6 @@ $Definition['Roles determine user\'s permissions.'] = 'Hver bruger pÂ dit forum
 $Definition['Route'] = 'Rute';
 $Definition['Route Expression'] = 'Rute Udtryk';
 $Definition['Routes'] = 'Ruter';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Ruter kan blive brugt til at f¯re brugere hen til forskellige steder pÂ siden.';
 
 $Definition['Saved'] = 'Dine Êndringer er gemt.';
 $Definition['seconds'] = 'sekunder';

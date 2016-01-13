@@ -165,7 +165,6 @@ $Definition['Roles determine user\'s permissions.'] = 'Każdy użytkownik witryn
 $Definition['Route'] = 'Trasa';
 $Definition['Route Expression'] = 'Wyrażenie trasy';
 $Definition['Routes'] = 'Trasy';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Trasy mogą być użyte do przekierowywania użytkowników do różnych części witryny w zależności od url.';
 
 $Definition['Saved'] = 'Zmiany zostały zapisane.';
 $Definition['seconds'] = 'sekundy';

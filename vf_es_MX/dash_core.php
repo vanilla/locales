@@ -389,7 +389,6 @@ $Definition['Gave badge to users.'] = 'Dar medallas a los usuarios. ';
 $Definition['Generate'] = 'Generar';
 $Definition['Generate Client ID and Secret'] = 'Generar ID y Secreto del cliente';
 $Definition['Get More Applications'] = 'Obtener más aplicaciones...';
-$Definition['Get more information on creating custom routes'] = '<br/>Obtener más información sobre la creación de rutas propias.';
 $Definition['Get More Plugins'] = 'Obtener más plugins.';
 $Definition['Get More Themes'] = 'Obtener más temas';
 $Definition['Getting Started'] = 'Cómo empezar';
@@ -625,7 +624,6 @@ $Definition['Role to Grant'] = 'Conceder rol';
 $Definition['Route'] = 'Ruta';
 $Definition['Route Expression'] = 'Expresión de Ruta';
 $Definition['Routes'] = 'Rutas';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Las Rutas pueden usarse para redireccionar usuarios a varias partes de tu sitio dependiendo la URL.';
 $Definition['Run structure & data scripts'] = 'Estructura y Data Scripts';
 
 $Definition['Save Captured Definitions'] = 'Definiciones capturadas guardadas ';

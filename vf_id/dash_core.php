@@ -378,7 +378,6 @@ $Definition['Gave badge to users.'] = 'Berikan lencana pada pengguna.';
 $Definition['Generate'] = 'Bangkitkan';
 $Definition['Generate Client ID and Secret'] = 'Bangkitkan ID Client dan Secret';
 $Definition['Get More Applications'] = 'Dapatkan Aplikasi Lainnya';
-$Definition['Get more information on creating custom routes'] = 'Dapatkan informasi lebih lanjut dalam membuat route yang disesuaikan';
 $Definition['Get More Plugins'] = 'Dapatkan Plugin Lainnya';
 $Definition['Get More Themes'] = 'Dapatkan Tema Lainnya';
 $Definition['Getting Started'] = 'Mari Mulai';
@@ -610,7 +609,6 @@ $Definition['Role to Grant'] = 'Peran Keputusan';
 $Definition['Route'] = 'Rute';
 $Definition['Route Expression'] = 'Ekspresi Route';
 $Definition['Routes'] = 'Route';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Route dapat digunakan untuk mengalihkan pengguna ke bermacam bagian dari situs anda tergantung dari url-nya.';
 $Definition['Run structure & data scripts'] = 'Jalankan script struktur & data';
 
 $Definition['Save Captured Definitions'] = 'Simpan Definisi Tertangkap';
