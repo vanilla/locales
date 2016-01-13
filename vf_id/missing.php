@@ -40,7 +40,6 @@ $Definition['Private group.'] = 'Anyone can see the group, but only members can 
 $Definition['Public group.'] = 'Anyone can see the group and its content. Anyone can join.';
 
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
-$Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 $Definition['RSVP'] = 'Respond';
 
 $Definition['Source Code'] = 'Code';
@@ -63,4 +62,3 @@ $Definition['We\'ve received a request to change your password.'] = 'We\'ve rece
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">You\'ve asked questions that now have answers</a>. Make sure you accept/reject the answers.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
-$Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';

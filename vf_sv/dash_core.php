@@ -383,6 +383,7 @@ $Definition['Gave badge to users.'] = 'Gav emblem till användare.';
 $Definition['Generate'] = 'Generera';
 $Definition['Generate Client ID and Secret'] = 'Generera klient-ID och hemlig kod';
 $Definition['Get More Applications'] = 'Skaffa fler applikationer';
+$Definition['Get more information on creating custom routes'] = 'Skaffa mer information om att skapa anpassade roller';
 $Definition['Get More Plugins'] = 'Skaffa fler plugins';
 $Definition['Get More Themes'] = 'Skaffa fler teman';
 $Definition['Getting Started'] = 'Komma igång';
@@ -613,6 +614,7 @@ $Definition['Role to Grant'] = 'Roll att godkänna';
 $Definition['Route'] = 'URL-alias';
 $Definition['Route Expression'] = 'URL-alias, reguljärt uttryck';
 $Definition['Routes'] = 'URL-alias';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Rutter kan användas för att omdirigera användare till olika delar av din webbplats beroende på webbadressen.';
 $Definition['Run structure & data scripts'] = 'Kör struktur- & datascripts';
 
 $Definition['Save Captured Definitions'] = 'Spara Fångade Definitioner';

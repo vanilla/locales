@@ -111,7 +111,6 @@ $Definition['Ranks.NotificationFormat'] = 'Congratulations! You\'ve been promote
 $Definition['RecipientUserID'] = 'recipient';
 $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. Sent from {/,exurl}.';
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
-$Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['Source Code'] = 'Code';
@@ -162,4 +161,3 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
-$Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';

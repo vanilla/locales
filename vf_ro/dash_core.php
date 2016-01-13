@@ -380,6 +380,7 @@ $Definition['Gave badge to users.'] = 'A dat insigna utilizatorilor';
 $Definition['Generate'] = 'Generați';
 $Definition['Generate Client ID and Secret'] = 'Generați Client ID şi Secret';
 $Definition['Get More Applications'] = 'Mai multe aplicaţii';
+$Definition['Get more information on creating custom routes'] = 'Obţineți mai multe informaţii despre crearea de rute personalizate';
 $Definition['Get More Plugins'] = 'Mai multe plugin-uri';
 $Definition['Get More Themes'] = 'Mai multe teme';
 $Definition['Getting Started'] = 'Noţiuni de bază';
@@ -608,6 +609,7 @@ $Definition['Role to Grant'] = 'Rol de aprobat';
 $Definition['Route'] = 'Traseu';
 $Definition['Route Expression'] = 'Expresia traseului';
 $Definition['Routes'] = 'Rute';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Traseele pot fi folosite pentru a redirecţiona utilizatorii la diferite părţi ale site-ului în funcţie de URL';
 $Definition['Run structure & data scripts'] = 'Rulați structura și scripturile de date';
 
 $Definition['Save Captured Definitions'] = 'Salvaţi definiții captate';

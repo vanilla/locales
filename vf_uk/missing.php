@@ -125,7 +125,6 @@ $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. S
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
 $Definition['Report Notes'] = 'Notes';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
-$Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 $Definition['RSVP'] = 'Respond';
 
 $Definition['Saved'] = 'Your changes have been saved.';
@@ -189,4 +188,3 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		with one of <b>.txt, .gz</b>.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
-$Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';

@@ -376,6 +376,7 @@ $Definition['Gave badge to users.'] = 'Donner le badge aux utilisateurs.';
 $Definition['Generate'] = 'Genérer';
 $Definition['Generate Client ID and Secret'] = 'Générer un Identifiant et Secret';
 $Definition['Get More Applications'] = 'Obtenir plus d\'applications';
+$Definition['Get more information on creating custom routes'] = 'Plus d\'informations sur la création de redirections personnalisées';
 $Definition['Get More Plugins'] = 'Obtenir plus de modules complémentaires';
 $Definition['Get More Themes'] = 'Obtenir plus de thèmes';
 $Definition['Getting Started'] = 'Vos premiers pas';
@@ -613,6 +614,7 @@ $Definition['Role to Grant'] = 'Rôle à attribuer';
 $Definition['Route'] = 'Redirection';
 $Definition['Route Expression'] = 'Libellé de la redirection';
 $Definition['Routes'] = 'Redirections';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Les redirections peuvent être utilisées pour rediriger les utilisateurs vers différentes parties de votre forum, en fonction de l\'URL.';
 $Definition['Run structure & data scripts'] = 'Exécuter les scripts de structure et de données';
 
 $Definition['Save Captured Definitions'] = 'Enregistrer les Définitions Capturées';

@@ -93,6 +93,7 @@ $Definition['Forum Settings'] = 'Налаштування форуму';
 
 $Definition['Garden.Import.InputInstructions'] = 'Введіть Email та пароль адміністратора для даних, котрі будуть імпортовані.';
 $Definition['Get More Applications'] = 'Знайти ще програми';
+$Definition['Get more information on creating custom routes'] = 'Отримати більше інформації про створення користувацьких маршрутів.';
 $Definition['Get More Plugins'] = 'Знайти ще плагіни';
 $Definition['Get More Themes'] = 'Знайти ще теми';
 
@@ -183,6 +184,7 @@ $Definition['Roles determine user\'s permissions.'] = 'Кожен користу
 $Definition['Route'] = 'Маршрут';
 $Definition['Route Expression'] = 'Назва маршруту';
 $Definition['Routes'] = 'Маршрути';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Маршрути можуть використовуватися для переадресації користувачів в різні частини вашого сайту, впливаючи на URL.';
 
 $Definition['seconds'] = 'секунд';
 $Definition['SMTP Host'] = 'SMTP сервер';

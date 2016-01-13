@@ -380,6 +380,7 @@ $Definition['Gave badge to users.'] = 'Huy hiệu cho người dùng.';
 $Definition['Generate'] = 'Tạo ra';
 $Definition['Generate Client ID and Secret'] = 'Tạo ra ID và chuỗi bí mật';
 $Definition['Get More Applications'] = 'Nhận thêm ứng dụng khác';
+$Definition['Get more information on creating custom routes'] = 'Xem thêm thông tin về việc tạo ra tùy chỉnh';
 $Definition['Get More Plugins'] = 'Lấy thêm Plugin';
 $Definition['Get More Themes'] = 'Tải thêm giao diện';
 $Definition['Getting Started'] = 'Bắt đầu';
@@ -614,6 +615,7 @@ $Definition['Role to Grant'] = 'Vai trò để cấp';
 $Definition['Route'] = 'Định tuyến';
 $Definition['Route Expression'] = 'Biểu hiện định tuyến';
 $Definition['Routes'] = 'Định tuyến';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Định tuyến có thể được sử dụng để chuyển hướng người dùng đến những vị trí khác nhau của trang web của bạn tùy thuộc vào url.';
 $Definition['Run structure & data scripts'] = 'Chạy các mã cấu trúc & dữ liệu';
 
 $Definition['Save Captured Definitions'] = 'Lưu lại định nghĩa';

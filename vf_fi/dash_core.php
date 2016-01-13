@@ -334,6 +334,7 @@ $Definition['Gave badge to users.'] = 'Antoi kunniamerkin k&auml;ytt&auml;jille.
 $Definition['Generate'] = 'Luo';
 $Definition['Generate Client ID and Secret'] = 'Luo Client ID ja Secret';
 $Definition['Get More Applications'] = 'Hanki lis&auml;&auml; laajennuksia';
+$Definition['Get more information on creating custom routes'] = 'Lis&auml;tietoja reittien luomisesta l&ouml;yd&auml;t t&auml;&auml;lt&auml;.';
 $Definition['Get More Plugins'] = 'Hanki lis&auml;&auml; lis&auml;osia';
 $Definition['Get More Themes'] = 'Hanki lis&auml;&auml; teemoja';
 $Definition['Getting Started'] = 'Aloittaminen';
@@ -530,6 +531,7 @@ $Definition['Role to Grant'] = 'My&ouml;nnett&auml;v&auml; rooli';
 $Definition['Route'] = 'Reitti';
 $Definition['Route Expression'] = 'Reitin nimi';
 $Definition['Routes'] = 'Reitit';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Reittien avulla voit ohjata sivustosi k&auml;ytt&auml;ji&auml; eri osioihin riippuen valitusta osoitteesta.';
 
 $Definition['Save Captured Definitions'] = 'Tallenna ker&auml;tyt kielim&auml;&auml;ritelm&auml;t';
 $Definition['Saved'] = 'Muutokset tallennettiin.';

@@ -381,6 +381,7 @@ $Definition['Gave badge to users.'] = 'Дал значок пользовате�
 $Definition['Generate'] = 'Генерировать';
 $Definition['Generate Client ID and Secret'] = 'Создать кодъ кліента и тайнъ -ую -ое';
 $Definition['Get More Applications'] = 'Новыя приложенія';
+$Definition['Get more information on creating custom routes'] = 'Читайте болѣе подробную информацію о перенаправленіяхъ.';
 $Definition['Get More Plugins'] = 'Новые плагины';
 $Definition['Get More Themes'] = 'Новыя темы';
 $Definition['Getting Started'] = 'Обзорная информация';
@@ -616,6 +617,7 @@ $Definition['Role to Grant'] = 'Роль предоставлять';
 $Definition['Route'] = 'Перенаправленіе';
 $Definition['Route Expression'] = 'Формированіе перенаправленія';
 $Definition['Routes'] = 'Перенаправленія';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Перенаправленія могутъ быть использованы для автоматической переадресаціи пользователей на различныя части вашего сайта въ зависимости отъ URL.';
 $Definition['Run structure & data scripts'] = 'Запустить обновленіе структуры и скриптовъ';
 
 $Definition['Save Captured Definitions'] = 'Сохранить захваченные параметры';

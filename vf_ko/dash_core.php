@@ -103,6 +103,7 @@ $Definition['From'] = '___(으)로 부터';
 
 $Definition['Garden.Import.InputInstructions'] = '임포트를 원하는 데이타의 어드민 이메일 주소와 패스워드를 입력하십시오.';
 $Definition['Generate'] = '생성';
+$Definition['Get more information on creating custom routes'] = '사용자 지정 라우팅 경로에 대한 정보';
 $Definition['Guest'] = '손님';
 
 $Definition['Homepage'] = '메인';
@@ -188,6 +189,7 @@ $Definition['Roles determine user\'s permissions.'] = '포럼의 모든 회원�
 ';
 $Definition['Route'] = '라우팅 경로';
 $Definition['Routes'] = '라우팅 경로 설정';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = '라우팅 경로는 URL에 따라 사용자를 리디렉션하는데 사용할 수 있습니다.';
 
 $Definition['Saved'] = '변경되었습니다.';
 $Definition['seconds'] = '초 이내에 게시 불가.';

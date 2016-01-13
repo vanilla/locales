@@ -354,6 +354,7 @@ $Definition['Gave badge to users.'] = 'مدل به کاربران داده شد�
 $Definition['Generate'] = 'ساختن';
 $Definition['Generate Client ID and Secret'] = 'ساخت ClientID و Secret';
 $Definition['Get More Applications'] = 'گرفتن ابزار‌های بیش‌تر';
+$Definition['Get more information on creating custom routes'] = 'درباره‌ی ساختن routeهای شخصی بیش‌تر بدانید.';
 $Definition['Get More Plugins'] = 'گرفتن ابزارک‌های بیش‌تر';
 $Definition['Get More Themes'] = 'گرفتن پوسته‌های بیش‌تر';
 $Definition['Getting Started'] = 'بیایید شروع کنیم';
@@ -559,6 +560,7 @@ $Definition['Roles determine user\'s permissions.'] = 'هر کاربر در ان
 $Definition['Role to Grant'] = 'نقش اعطایی';
 $Definition['Route Expression'] = 'نام Route / نشانی مبدأ';
 $Definition['Routes'] = 'مسیرها';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Routes می‌توانند کاربران را بسته به نشانی، به بخش‌های مختلفی از تارنمایتان هدایت کنند.<br>';
 $Definition['Run structure & data scripts'] = 'اجرای اسکریپت‌های داده‌ها و ساختار';
 
 $Definition['Saved'] = 'تغییرات شما اندوخته شد.';
