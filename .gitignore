@@ -13,3 +13,4 @@ Makefile.in
 /missing
 tx/*
 .idea
+.phpintel
