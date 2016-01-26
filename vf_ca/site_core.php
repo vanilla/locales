@@ -1,8 +1,14 @@
 <?php
 
+$Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s acceptada invitació per ser membre';
+$Definition['%1$s changed %4$s permissions.'] = '%1$s permissos canviats.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s ha canviat la seva foto de perfil.';
+$Definition['%1$s commented on %4$s %8$s.'] = '%1$s comentat a %4$s %8$s.';
+$Definition['%1$s created an account for %4$s.'] = '%1$s compte creat per %4$s.';
 $Definition['%1$s joined.'] = '%1$s s\'ha registrat.';
 $Definition['%1$s mentioned %3$s in a %8$s.'] = '%1$s va fer esment de %3$s en un %8$s.';
+$Definition['%1$s on %2$s'] = '%1$s a %2$s';
+$Definition['%1$s signed in.'] = '%1$s connectat';
 $Definition['%s and you'] = '%s i tu';
 $Definition['%s comment'] = '%s comentari';
 $Definition['%s comments'] = '%s comentaris';
