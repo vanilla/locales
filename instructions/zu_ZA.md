@@ -21,4 +21,6 @@ Here are some additional guidelines we’d like you to consider while translatin
 
 - Please do not translate anything in curly braces, `{ }`, as that is an instruction for the developers.
 
+- Where there are characters such as %s please copy that bit over and translate the rest. Same with %1$s, %2$s etc. These indicate a field that will be automatically populated by other translations or data.
+
 - As we can’t preview translations on the page, be aware that there might be an impact on the site design if the translation is much longer than source language – please flag any translated strings if they are 50% longer than the source string, by using the tag ‘length’.
