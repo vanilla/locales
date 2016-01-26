@@ -11,5 +11,3 @@ $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect
 $Definition['Test Email Message'] = '<p>This is a test email message.</p>
 
 <p>You can configure the appearance of your forum\'s emails by navigating to the Email page in the dashboard.</p>';
-
-$Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';
