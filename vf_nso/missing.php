@@ -56,8 +56,6 @@ $Definition['Garden.Registration.DefaultRoles'] = 'default role';
 $Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.';
 $Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
 $Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
-$Definition['Group Leaders'] = 'Leaders';
-$Definition['Group Members'] = 'Members';
 $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 $Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
 
@@ -76,14 +74,7 @@ $Definition['I confirm that I have received consent to join this community.'] = 
 $Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
 $Definition['InviteErrorPermission'] = 'Sorry, permission denied.';
 
-$Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
-$Definition['Member Count'] = 'Members';
 $Definition['MyBadgesModuleTitle'] = 'My Badges';
-
-$Definition['new discussion'] = 'new';
-
-$Definition['Ranks.NotificationFormat'] = 'Congratulations! You\'ve been promoted to {Data.Name,plaintext}.';
-$Definition['RecipientUserID'] = 'recipient';
 
 $Definition['TermsOfServiceText'] = 'You agree, through your use of this service, that you will not use this
 community to post any material which is knowingly false and/or defamatory,
@@ -106,39 +97,8 @@ reason at all.
 
 You must be at least 13 years of age to use this service.';
 
-$Definition['Unanswered Questions'] = 'Unanswered';
-$Definition['UrlCode'] = 'Url code';
-$Definition['UsernameError'] = 'Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.';
-$Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
-
-$Definition['ValidateBanned'] = 'That %s is not allowed.';
-$Definition['ValidateBoolean'] = '%s is not a valid boolean.';
-$Definition['ValidateConnection'] = 'The connection parameters you specified failed to open a connection to the database. The database reported the following error: <code>%s</code>';
-$Definition['ValidateDate'] = '%s is not a valid date.';
-$Definition['ValidateDecimal'] = '%s is not a valid decimal.';
-$Definition['ValidateEmail'] = '%s does not appear to be valid.';
-$Definition['ValidateEnum'] = '%s is not valid.';
-$Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
-$Definition['ValidateInteger'] = '%s is not a valid integer.';
-$Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
-$Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
-$Definition['ValidateMatch'] = 'The %s fields do not match.';
-$Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
-$Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least one %s.';
-$Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
-$Definition['ValidateRequired'] = '%s is required.';
-$Definition['ValidateRequiredArray'] = 'You must select at least one %s.';
-$Definition['ValidateString'] = '%s is not a valid string.';
-$Definition['ValidateTag'] = 'Tags cannot contain spaces.';
 $Definition['ValidateTime'] = '%s is not a valid time.';
-$Definition['ValidateTimestamp'] = '%s is not a valid timestamp.';
-$Definition['ValidateUrl'] = 'The %s field is not a valid url.';
-$Definition['ValidateUrlStringRelaxed'] = '%s can not contain slashes, quotes or tag characters.';
-$Definition['ValidateUsername'] = 'Usernames must be 3-20 characters and consist of letters, numbers, and underscores.';
-$Definition['ValidateVersion'] = 'The %s field is not a valid version number. See the php version_compare() function for examples of valid version numbers.';
-$Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
 
-$Definition['WarningTitleFormat'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points}.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
 $Definition['We\'ve received a request to change your password.'] = 'We\'ve received a request to change your password at %s. If you didn\'t make this request, please ignore this email.';
 
