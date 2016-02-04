@@ -92,6 +92,8 @@ $Definition['%s was removed from the %s and added to the %s'] = '%s e tlošitšw
 $Definition['%s week'] = '%s beke';
 $Definition['%s weeks'] = '%s dibeke';
 $Definition['%s WTFs'] = '%s diWTF';
+$Definition['%s year'] = '%s ngwaga';
+$Definition['%s years'] = '%s mengwaga';
 
 $Definition['(All)'] = '(Ka moka)';
 $Definition['(empty message)'] = '(molaetša wo o se nago selo)';
@@ -418,6 +420,7 @@ $Definition['Edit Thumbnail'] = 'Ngwala Seswantšho';
 $Definition['Eighth Anniversary'] = 'Letšatši la Segopotšo la Seswai';
 $Definition['Email'] = 'Imeile';
 $Definition['Email/Username'] = 'Imeile/Leina la Modiriši';
+$Definition['EmailConfirmEmail'] = 'O swanetše go kgonthiša aterese ya gago ya imeile pele o ka tšwela pele. Hle kgonthiša aterese ya gago ya imeile ka go kgotla linki e latelago: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 O thabele letšatši!';
 $Definition['EmailHeader'] = 'Thobela {User.Name}!
@@ -440,10 +443,100 @@ Latela linki ka mo tlase go e lekola:
 O thabele letšatši!';
 $Definition['Email Notifications'] = 'Romela Imeile ya Ditsebišo';
 $Definition['Email Or Username'] = 'Imeile Goba Leina la Modiriši';
+$Definition['EmailPassword'] = '%2$s e bušeditše phasewete ya gago sekeng ka %3$s. Ga bjale ditaba tša gago tša go tsena ke:
+
+Imeile: %6$s
+Phasewete: %5$s
+Url: %4$s';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'Imeile yeo e rometšwego go tšwa go kgopelo e tla dirwa leineng le le latelago le aterese ';
 $Definition['Email Source'] = 'Imeile';
+$Definition['EmailStoryNotification'] = '%1$s
+
+%3$s
+
+---
+Latela linki ya ka mo tlase gore o tloge:
+%2$s
+
+O thabele letšatši!';
 $Definition['Email Unavailable'] = 'Imeile ga e Gona';
 $Definition['Email visible to other users'] = 'Imeile e a bonala go badiriši ba bangwe';
+$Definition['EmailWelcome'] = '%2$s e go hlametše akhaonte ka %3$s. Ditaba tša gago tša go tsena ke:
 
+Imeile: %6$s
+Phasewete: %5$s
+Url: %4$s';
+$Definition['EmailWelcomeConnect'] = 'O kgokagane ka katlego le {Title}. Tshedimošo ya gago še:
+
+Leina la modiriši: {User.Name}
+Kgokagane le: {ProviderName}
+
+O ka fihlelela wepesaete ye go {/,exurl,domain}.';
+$Definition['EmailWelcomeRegister'] = ' O atlegile go ingwadišetša akhaonte go {Title}. Tshedimošo ya gago še:
+
+Leina la modiriši: {User.Name}
+Imeile: {User.Email}
+
+O ka tsena wepsaeteng ka {/,exurl,domain}.';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">Bala taba ka botlalo mo</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">Bala taba ka botlalo mo</a></p><div class="ClearFix"></div></div>';
+$Definition['End time?'] = 'Na ke nako ya go fetša?';
+$Definition['English'] = 'Sepedi';
+$Definition['Enter your Email address'] = 'Tsenya aterese ya gago ya Imeile';
+$Definition['Enter your email address'] = 'Tsenya aterese ya gago ya imeile';
+$Definition['Enter your Email address or username'] = 'Tsenya aterese ya gago ya Imeile goba leina la modiriši';
+$Definition['Enter Your OpenID Url'] = 'Tsenya OpenID ya Gago Url';
+$Definition['Erase User Content'] = 'Phumola Diteng tša Modiriši';
+$Definition['Error'] = 'Phošo';
+$Definition['ErrorBadInvitationCode'] = 'Khoute ya taletšo yeo o e neilego ga e šome.';
+$Definition['ErrorCredentials'] = 'Tshwarelo, ga go na akhaonte yeo e hweditšwego yeo e tswalanago le imeile/leina la modiriši le phasewete yeo o e ngwadilego.';
+$Definition['ErrorPermission'] = 'Tshwarelo, tumelelo e gannwe.';
+$Definition['ErrorPluginDisableRequired'] = 'O ka se time {0} ka gobane {1} e a nyakega gore e šome.';
+$Definition['ErrorPluginEnableRequired'] = 'Karolo ye e e nyakega gore {0} e kgonege pele e ka ikgontšha.';
+$Definition['ErrorPluginVersionMatch'] = 'Se se kgontšhitšwego {0} (mohuta {1}) se paletšwe ke go fihlelela dinyakwa tša mohuta ({2}).';
+$Definition['ErrorRecordNotFound'] = 'Pego ya kgopelo ga se ya hwetšwa.';
+$Definition['ErrorTermsOfService'] = 'O swanetše go dumelelana le mabaka a tirelo.';
+$Definition['Event'] = 'Tiragalo';
+$Definition['Event Details'] = 'Ditaba ka Botlalo tša Tiragalo';
+$Definition['Events'] = 'Ditiragalo';
+$Definition['everyone'] = 'bohle';
+$Definition['Everything'] = 'Dilo ka Moka';
+$Definition['Expired'] = 'Feletšwe ke Nako';
+$Definition['Expires'] = 'E Felelwa ke Nako';
+
+$Definition['Failed to delete group.'] = 'E paletšwe ke go phumola sehlopha.';
+$Definition['Failed to find discussion for commenting.'] = 'E paletšwe ke go hwetša poledišano ya poledišano.';
+$Definition['Failed to load the poll.'] = 'E paletšwe ke go tsenya legoro.';
+$Definition['Feedback'] = 'Ditlamorago';
+$Definition['Female'] = 'Mosadi';
+$Definition['Fifth Anniversary'] = 'Letšatši la Segopotšo la Bohlano';
+$Definition['FileName'] = 'LeinalaFaele';
+$Definition['Filename'] = 'Leinalafaele';
+$Definition['FileSize'] = 'BogolobjaFaele';
+$Definition['File Size'] = 'Bogolo bja Faele';
+$Definition['Find your account information below.'] = 'Hwetša tshedimošo ya akhoante ya gago ka mo tlase.';
+$Definition['First Anniversary'] = 'Letšatši la Segopotšo la Bohlano';
+$Definition['First Comment'] = 'Tlhaloso ya Mathomo';
+$Definition['Flag'] = 'Folaga';
+$Definition['Folder'] = 'Foltara';
+$Definition['Folders'] = 'Difoltara';
+$Definition['Follow'] = 'Latela';
+$Definition['Follow %s'] = 'Latela %s';
+$Definition['Followed by %d people'] = 'E latelwa ke batho ba %d';
+$Definition['Followed by %d person'] = 'E latelwa ke motho wa %d';
+$Definition['followed categories'] = 'e latetše magoro';
+$Definition['Following %d people'] = 'Go latela %d batho';
+$Definition['Following %d person'] = 'Go latela %d motho ';
+$Definition['FollowOnly'] = 'Latela linki ka mo tlase gore o e swaye:';
+$Definition['Follows'] = 'E a Latela';
+$Definition['Forgot?'] = 'O lebetše?';
+$Definition['Forgot your password?'] = 'O lebetše phasewete ya gago?';
+$Definition['Format'] = 'Sebopego';
 $Definition['Format his'] = 'monna';
 $Definition['Format their'] = 'ya bona';
 $Definition['Format You'] = 'Wena';
@@ -451,19 +544,124 @@ $Definition['Format you'] = 'wena';
 $Definition['Format Your'] = 'Ya gago';
 $Definition['Forum'] = 'Foramo';
 $Definition['Forums'] = 'Diforamo';
+$Definition['Forum Signature Settings'] = 'Dipeakanyo tša Foramo ya Mosaeno';
+$Definition['Fourth Anniversary'] = 'Letšatši la Segopotšo la Bone';
+$Definition['Friends'] = 'Bagwera';
 $Definition['From'] = 'Go Tloga go';
+$Definition['Full Site'] = 'Pono ka Botlalo';
 
+$Definition['Garden.Email.SupportAddress'] = 'Emeile ya thekgo';
+$Definition['Garden.Email.SupportName'] = 'Leina la thekgo';
+$Definition['Garden.Registration.DefaultRoles'] = 'tema ya ka mehla';
 $Definition['Garden.Title'] = 'Taba ya Sehlogo';
+$Definition['Gender'] = 'Bong';
+$Definition['General'] = 'Ka Kakaretšo';
+$Definition['Generate import SQL only'] = 'Hlama Kamogelo ya SQL feela';
+$Definition['Generate Password'] = 'Hlama Phasewete';
+$Definition['Get an audio challenge'] = 'Hwetša tlhohlo ya seo se theetšwago';
+$Definition['Get a new challenge'] = 'Hwetša tlhohlo e mpsha';
+$Definition['Get a visual challenge'] = 'Hwetša tlhohlo ya go bonwa';
+$Definition['Give'] = 'Nea';
+$Definition['Give a Badge to %s'] = 'Nea %s Petšhe';
+$Definition['Give Badge'] = 'Nea Petšhe';
+$Definition['Given'] = 'Neilwe';
+$Definition['Go'] = 'Eya';
+$Definition['Group'] = 'Sehlopha';
+$Definition['group'] = 'sehlopha';
+$Definition['GroupEmptyAnnouncements'] = 'Dilo tša bohlokwa di tla ya mo ka letšatši le lengwe.';
+$Definition['GroupEmptyDiscussions'] = 'Ga go kgahliše ka mo, isn&rsquo;t it?';
+$Definition['GroupEmptyEvents'] = 'Banna, ga go na ditiragalo tše di tlago.';
+$Definition['Group Info'] = 'Tshedimošo ya Sehlopha';
 $Definition['Group Leaders'] = 'Baetapele';
 $Definition['Group Members'] = 'Maloko';
+$Definition['GroupMembersEmpty'] = 'Ga go na yo a šetšego a tsene. Kwalakwatša molaetša!';
+$Definition['Group Options'] = 'Dikgetho tša Sehlopha';
+$Definition['Groups'] = 'Dihlopha';
+$Definition['groups'] = 'dihlopha';
 $Definition['Guest'] = 'Moeng';
+$Definition['GuestModule.Message'] = 'Go bonala eka o yo mofsa mo. Ge o nyaka go tsena, kgotla e nngwe ya dikonotswana tše!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Emanyana ge re dutše re go ntšha.';
+$Definition['Have a great day!'] = 'O be le letšatši le lebotse!';
+$Definition['he'] = 'monna';
+$Definition['Heading'] = 'Hlogo';
+$Definition['Heading %s'] = 'Hlogo %s';
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} hweditše <a href="{Url,html}">{Data.Name,text}</a> petšhe.';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} thibetšwe {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} boletše ka <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} re go rometše <a href="{Url,html}">molaetša</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Re thomile poledišano e mpsha. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} o boletše ka wena go <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} o fetošitše seswantšho sa kanegelo bakeng sa {ActivityUserID,user}.';
+$Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} tsenetše.';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} ga se gwa thibelwa {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} lemošitšwe {RegardingUserID,you}.';
+$Definition['Hello!'] = 'Thobela!';
+$Definition['Hello %s!'] = 'Thobela %s!';
+$Definition['Hello {User.Name}!'] = 'Thobela {User.Name}!';
+$Definition['Help'] = 'Thuša';
+$Definition['her'] = 'mosadi';
+$Definition['Hide'] = 'Uta';
+$Definition['Hide my online status from other members'] = 'Uta boemo bja ka inthaneteng go maloko a mangwe';
+$Definition['Hide signatures?'] = 'Na re ka uta mesaeno?';
+$Definition['Hide signatures always'] = 'Dula o utile mesaeno';
+$Definition['Hide signatures on my mobile device'] = 'Uta mesaeno sedirišweng sa ka sa founo';
 $Definition['his'] = 'monna';
+$Definition['Home'] = 'Gae';
+$Definition['hours'] = 'diiri';
+$Definition['How can we help you?'] = 'Re ka go thuša bjang';
+$Definition['Howdy, Stranger!'] = 'Go re\'ng, Monna!';
+$Definition['How long do you want this warning to last?'] = 'O nyaka gore temošo ye e tšee lebaka le lekaakang?';
+$Definition['How many levels deep should we start folding up quote trees?'] = 'Re swanetše go tsenelela kudu go fihla kae gore re thome go phutha dihlare tše di tsopotšwego?';
 
+$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Ke dumelelana le <a id="TermsOfService" class="Popup" target="terms" href="%s">melao ya tirelo</a>';
+$Definition['Icon'] = 'Leswao';
+$Definition['I confirm that I have received consent to join this community.'] = 'Ka ge ke le ka tlase ga mengwaga e %d, ke kgonthiša gore ke hweditše tumelelo ya go tlatša setšhaba se.';
+$Definition['Ignore'] = 'Hlokomologa';
+$Definition['Ignore List'] = 'Hlokomologa Lenaneo';
+$Definition['Ignore Someone'] = 'Hlokomologa Motho';
+$Definition['Image'] = 'Seswantšho';
+$Definition['images'] = 'Diswantšho';
+$Definition['Images not allowed'] = 'Diswantšho ga se tša dumelelwa';
+$Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'Diswantšho di tla kalwa go fihla bophagamong bjo bo feletšego {maximageHeight}px.';
+$Definition['Image URL'] = 'Seswantšho sa URL';
 $Definition['in'] = 'go';
+$Definition['In <b>%s.</b>'] = 'Go <b>%s.</b>';
+$Definition['In <b>%s</b> and recent discussions.'] = 'Go <b>%s.</b> le dipoledišano tša morago bjale.';
+$Definition['Inbox'] = 'Lepokisi la Melaetša';
+$Definition['Incorrect. Try again.'] = 'Ga se ya nepagala. Leka gape.';
+$Definition['Indent'] = 'Tsenelela';
+$Definition['In recent discussions.'] = 'Dipoledišanong tša morago bjale.';
+$Definition['In seconds'] = 'Ka metsotswana';
+$Definition['Insert Image'] = 'Tsenya Seswantšho';
+$Definition['Insightful'] = 'Temogo';
+$Definition['Internal'] = 'Ka Gare';
+$Definition['In this Conversation'] = 'Poledišanong ye';
+$Definition['Invalid password.'] = 'Phasewete ye o e tsentšhitšego e be e sa Nepagala. Gopola gore diphasewete di ya ka taba.';
+$Definition['Invitations'] = 'Ditaletšo';
+$Definition['Invite'] = 'Laletša';
+$Definition['InviteErrorPermission'] = 'Tshwarelo, tumelelo e gannwe.';
+$Definition['Invite Friends'] = 'Laletša Bagwera';
+$Definition['Invite friends'] = 'Laletša bagwera';
+$Definition['Invite one or more people to join this group.'] = 'Laletša motho o tee goba ba bantši gore ba tlatše sehlopha se.';
+$Definition['IPAddress'] = 'AtereseyaIP';
+$Definition['IP Address'] = 'Aterese ya IP';
+$Definition['I remember now!'] = 'Ga bjale kea gopola!';
+$Definition['Italic'] = 'Sekame';
 $Definition['Item'] = 'Selo';
+$Definition['item'] = 'selo';
+$Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Go bonala eka o yo mofsa mo. Ge o nyaka go tsena, kgotla e nngwe ya dikonotswana tše!';
 
+$Definition['Jail'] = 'Kgolego';
+$Definition['Jailed users have reduced abilities.'] = 'Badiriši ba kgolegong ba fokoditše bokgoni.';
+$Definition['Join %s'] = 'Tsenela %s';
+$Definition['Joined'] = 'Tladitše';
+$Definition['Joined %s'] = 'Tladitše %s';
+$Definition['Join this Community Now'] = 'Tsenela Tikologo ye Gona Bjale';
+$Definition['Join this Group'] = 'Tsenela Sehlopha se';
+$Definition['Join this group to view its content.'] = 'Tsenela sehlopha se gore o bone diteng tša gona.';
+$Definition['Just delete the user record, and keep all of the user\'s content.'] = 'E no phumola pego ya modiriši, gomme o boloke diteng ka moka tša modiriši.';
+$Definition['Just expire the warning.'] = 'Fetiša nako ya temošo.';
 $Definition['Just you!'] = 'Wena feela!';
 
 $Definition['Keep me signed in'] = 'Dula o ntsentšhitše';
@@ -532,11 +730,25 @@ $Definition['More Results'] = 'Dipoelo tše Ntši';
 $Definition['More…'] = 'Tše ntši...';
 $Definition['Most Recent'] = 'Tša Morago Bjale';
 $Definition['Most recent:'] = 'Tša morago bjale:';
-$Definition['Most recent: %1$s by %2$s'] = 'Tša morago bjale: %1$s by %2$s';
+$Definition['Most recent: %1$s by %2$s'] = 'Ya morago bjale ka %1$s';
 $Definition['Most recent by %1$s'] = 'Ya morago bjale ka %1$s';
 $Definition['Most Recent Comment'] = 'Tlhaloso ya Moragorago Bjale';
+$Definition['Move'] = 'Šutha';
+$Definition['MyBadgesModuleTitle'] = 'Dipetšhe tša ka';
+$Definition['My Bookmarks'] = 'Maswao a ka';
+$Definition['My Discussions'] = 'Dipoledišano tša ka';
+$Definition['My Drafts'] = 'Ditlhamo tša ka';
+$Definition['My Forums'] = 'Diforamo tša ka';
+$Definition['My Groups'] = 'Dihlopha tša ka';
+$Definition['My Preferences'] = 'Dikgetho tša ka';
+$Definition['My Signature'] = 'Mosaeno wa ka';
 
+$Definition['n/a'] = 'ga e šome';
 $Definition['Name'] = 'Leina';
+$Definition['Name Dropper'] = 'Molahlegi wa Leina';
+$Definition['Name of the Event'] = 'Leina la Tiragalo';
+$Definition['Name the Group'] = 'Leina la Sehlopha';
+$Definition['Name Unavailable'] = 'Leina ga le Gona';
 $Definition['new'] = 'mpsha';
 $Definition['New %s'] = 'Mpsha %s';
 $Definition['New Announcement'] = 'Tsebišo e Mpsha';
@@ -574,7 +786,7 @@ $Definition['Notifictions'] = 'Ditsebišo';
 $Definition['Notify'] = 'Tsebiša';
 $Definition['Notify me of private messages.'] = 'Ntsebiše ka melaetša yaka ya diphiri.';
 $Definition['Notify me when a badge is requested.'] = 'Ntsebiše ge petšhe e kgopetšwe.';
-$Definition['Notify me when a comment is flagged.'] = 'Ntsebiše ge tlhaloso e na le leswao.';
+$Definition['Notify me when a comment is flagged.'] = 'Ntsebiše ge tshwaytshwayo e na le leswao.';
 $Definition['Notify me when I am added to private conversations.'] = 'Ntsebiše ge ke tsenywa dipoledišanong tša sephiri.';
 $Definition['Notify me when people comment on discussions I\'ve participated in.'] = 'Ntsebiše ge batho ba bolela ka dipoledišano tše ke kgathilego tema go tšona.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'Ntsebiše ge batho ba bolela ka dipoledišano tše ke di swailego.';
@@ -663,7 +875,7 @@ $Definition['Popup'] = 'Tšwelela';
 $Definition['Position'] = 'Lefelo';
 $Definition['Post'] = 'Phara';
 $Definition['post'] = 'phara';
-$Definition['Post Comment'] = 'Phara Tlhaloso';
+$Definition['Post Comment'] = 'Phara Tshwayotshwayo';
 $Definition['Post Discussion'] = 'Botšiša Potšišo';
 $Definition['Post edited by %1$s at %2$s'] = 'Sepharwa se ngwadilwe ke %1$s ka %2$s';
 $Definition['Posts'] = 'Dipharwa';
@@ -787,7 +999,7 @@ $Definition['Save Poll'] = 'Boloka Kagego';
 $Definition['Save Preferences'] = 'Boloka Dikakanyo';
 $Definition['Save your password'] = 'Boloka phasewete';
 $Definition['Search'] = 'Tsoma';
-$Definition['Search %s'] = 'Tsoma %s';
+$Definition['Search %s'] = 'tša go tsongwa di bolokilwe %s';
 $Definition['search archived'] = 'tša go tsongwa di bolokilwe';
 $Definition['SearchBoxPlaceHolder'] = 'Tsoma';
 $Definition['Search for a tag.'] = 'Tsoma ka moka goba karolo ya leswao.';
@@ -892,18 +1104,38 @@ $Definition['Tenth Anniversary'] = 'Letšatši la Segopotšo la Lesome';
 $Definition['Terms'] = 'Melawana';
 $Definition['TermsOfService'] = 'Melawana ya Tirelo';
 $Definition['Terms of Service'] = 'Melawana ya Tirelo';
+$Definition['TermsOfServiceText'] = 'Ge o diriša tirelo ye, o dumela gore o ka se diriše tikologo ye go phara
+selo le ge e le sefe seo se tsebjago gore ke maaka le/goba se nyatšiša,
+se sa nepagala, se goboša, se rogana, se na le lehloyo, se tlaiša, e le sa ditšhila,
+se se gabotse, se hlohleletša thobalano, se tšhošetša, se utolla diphri tša motho,
+goba se roba molao ofe goba ofe. O dumela gore o ka se phare dilo tšeo di
+kopišitšwego ntle le ge e le wena mong wa selo seo.
+
+Rena tikologong ye re na le tokelo ya go utolla boitsebišo bja gago
+(goba tshedimošo efe goba efe yeo re e tsebago ka wena) ge go ka ba le pelaelo
+goba kgato ya semolao go tšwa go molaetša ofe goba ofe wo o o pharilego.
+Re boloka tshedimošo ka moka ya inthaneteng yeo e tsenago wepesaeteng ye.
+
+Hle hlokomela gore dipapatšo, mangwalo, dihlotswana tša go humiša ba bangwe
+ka pela, le tše dingwe ga se tša dumelelwa tikologong ye.
+
+Re na le tokelo ya go tloša diteng dife goba dife ka mabaka afe goba afe
+goba ka ntle le lebaka. Re na le matshwanedi a go kgaotša boleloko ka mabaka
+afe goba afe goba ka ntle le mabaka.
+
+O swanetše go ba le bonyenyane mengwaga e 13 gore o diriše tirelo ye.';
 $Definition['Text  Max  Length'] = 'Botelele bja Mafelelo bja Sengwalwa';
 $Definition['The %s you were looking for could not be found.'] = '%s yeo o bego o e tsoma ga se ya hwetšwa.';
 $Definition['the category'] = 'legoro';
 $Definition['The content you were looking for has been deleted.'] = 'Diteng tšeo o bego o di nyaka di phumotšwe.';
 $Definition['The conversation has been cleared.'] = 'Poledišano e lokišitšwe.';
 $Definition['The CSRF token is invalid.'] = 'Karata ya CSRF ga e šome.';
-$Definition['The email you entered in use by another member.'] = 'Imeile yeo o e ngwadilego e dirišwa ke leloko le lengwe.';
+$Definition['The email you entered in use by another member.'] = 'Emeile yeo o e ngwadilego e dirišwa ke leloko le lengwe.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Imeile yeo o e ngwadilego e šetše e amana le akhaonte yeo e lego gona.';
 $Definition['The file failed to upload.'] = 'Faele e paletšwe ke go tsenya.';
 $Definition['their'] = 'ya bona';
 $Definition['The name you entered is already in use by another member.'] = 'Leina leo o le ngwadilego le šetše le dirišwa ke leloko le lengwe.';
-$Definition['The page you were looking for could not be found.'] = 'Letlakala leo o bego o le tsoma ga se la hwetšwa.';
+$Definition['The page you were looking for could not be found.'] = 'Letlakala leo o bego o le nyaka ga se la hwetšwa.';
 $Definition['The quote had to be converted from %s to %s.'] = 'Tsopolo e swanetše go fetošetšwa go tloga go %s go ya go %s. Phetošo e itšego e ka ba e timetše.';
 $Definition['There\'s already a %s with the name %s.'] = 'Go šetše go na le %1$s le leina la %2$s.';
 $Definition['There aren\'t any groups yet.'] = 'Ga se gwa hlwa go eba le dihlopha.';
@@ -914,7 +1146,7 @@ $Definition['The response was not in the correct format.'] = 'Karabelo e be e se
 $Definition['There was an error connecting to Disqus'] = 'Go bile le phošo ya go kgokagana le Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Go bile le phošo ya go kgokagana le Facebook';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Go bile le phošo ya go tsenya faele. Go na le kgonagalo e kgolo ka gore faele ke e kgolo kudu.';
-$Definition['The site is currently undergoing maintenance.'] = 'Ga bjale lefelo le sa lekolwa.';
+$Definition['The site is currently undergoing maintenance.'] = 'Ga bjale lefelo le sa lokišwa.';
 $Definition['The uploaded file was too big (max %s).'] = 'Faele yeo e tsentšwego e be e le e kgolo kudu (mafelelo %s).';
 $Definition['The user has already been warned for this %s.'] = 'Modiriši o šetše a lemošitšwe ka se %s.';
 $Definition['The user isn\'t banned.'] = 'Modiriši ga se a thibelwa goba o thibetšwe ka mošomo o mongwe.';
@@ -928,7 +1160,7 @@ $Definition['This discussion was created from comments split from: %s.'] = 'Pole
 $Definition['This discussion was merged into %s'] = 'Poledišano ye e kopantšwe go ba %s';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Seswantšho se se neilwe bogolo bjo bongwe gore se lekane letlakala. Kgotla gore o godiše.';
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'Ye ke karolo ya sephiri: ga go na motho yo a tla bonago seo o se boutetšego.';
-$Definition['This is a public poll: others will see what you voted for.'] = 'Ye ke karolo ya bohle: ba bangwe ba tla bona seo o se boutetšego.';
+$Definition['This is a public poll: others will see what you voted for.'] = 'Ye ke karolo ya bohle: ba bangwe ba tla bona seo o se kgethetšego.';
 $Definition['This is a system account and does not represent a real person.'] = 'Ye ke akhaonte ya tshepedišo e bile ga e emele motho wa kgonthe.';
 $Definition['This Month\'s Leaders'] = 'Baetapele ba Kgwedi ye';
 $Definition['This question\'s answer has been accepted.'] = 'Karabo ya potšišo ye e amogetšwe.';
@@ -1016,6 +1248,7 @@ $Definition['ValidateRequired'] = '%s e a nyakega.';
 $Definition['ValidateRequiredArray'] = 'O swanetše go kgetha bonyenyane e tee %s.';
 $Definition['ValidateString'] = '%s ga se karolo ya maleba.';
 $Definition['ValidateTag'] = 'Maswao ga a na dikgoba.';
+$Definition['ValidateTime'] = '%s ga se nako ya maleba.';
 $Definition['ValidateTimestamp'] = '%s ga se setempe sa kgonthe.';
 $Definition['ValidateUrl'] = 'Karolo ya %s ga se url ya kgonthe.';
 $Definition['ValidateUrlStringRelaxed'] = '%s e ka se be le mesego, ditsopolo goba ditlhako tša maswao.';
@@ -1047,22 +1280,114 @@ $Definition['Warned for'] = 'Lemošitšwe ka';
 $Definition['Warning'] = 'Temošo';
 $Definition['Warnings'] = 'Ditemošo';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} lemošitšwe {WarnUserID,User} bakeng sa {Points,plural,%s points}.';
+$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} lemošitšwe {WarnUserID,User} ka {Points,plural,%s points} (tsebišo feela).';
 $Definition['was'] = 'e be e le';
+$Definition['We\'ve received a request to change your password.'] = 'Re hweditše kgopelo ya gore re fetoše phasewete ya gago ka %s. Ge e ba o se wa dira kgopelo ye, hle hlokomologa imeile ye.';
+$Definition['Website'] = 'Wepesaete';
+$Definition['weeks'] = 'dibeke';
+$Definition['Welcome Aboard!'] = 'O a Amogetšwe';
+$Definition['were'] = 'ke be ke';
+$Definition['What\'s This?'] = 'Ke\'ng se?';
+$Definition['What to search'] = 'Seo o ka se tsomago';
+$Definition['When'] = 'Neng';
+$Definition['Where'] = 'Kae';
+$Definition['Where do you want to announce this discussion?'] = 'O ka rata go tsebiša poledišano ye kae?';
+$Definition['Who\'s going?'] = 'Ke mang yo a yago?';
+$Definition['Who\'s Online'] = 'Ke mang yo a lego Inthaneteng';
+$Definition['Who\'s Online in this Category'] = 'Ke Mang yo a Lego Inthaneteng Legorong le';
+$Definition['Who\'s Online in this Discussion'] = 'Ke Mang yo a Lego Inthaneteng Poledišanong ye';
+$Definition['Whoops!'] = 'Eiš!';
+$Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Eiš! O tla swanelwa ke go ngwadiša pele o ka romela imeile ya wepesaete ya rena.';
+$Definition['Why are you Banning this user?'] = 'Ke ka baka la\'ng o Thibela modiriši yo?';
 $Definition['Why do you want to join?'] = 'Ke ka baka la\'ng o nyaka go tsena?';
+$Definition['Would you like to accept the invitation to join this group?'] = 'Na o ka rata go amogela taletšo ya gore o tsenele sehlopha se?';
+$Definition['Write a comment'] = 'Ngwala tlhaloso';
+$Definition['Write Comment'] = 'Ngwala Tlhaloso';
+$Definition['Write something about yourself...'] = 'Ngwala ka ga wena...';
 
+$Definition['Yes'] = 'Ee';
 $Definition['You'] = 'Wena';
 $Definition['you'] = 'wena';
+$Definition['You\'re banned from joining this group.'] = 'O thibetšwe gore o se ke wa ba karolo ya sehlopha se.';
+$Definition['You\'ve already created the maximum number of groups.'] = 'O šetše o hlamile tekanyo e feletšego ya dihlopha.';
+$Definition['You\'ve applied to join this group.'] = 'O dirile kgopelo sehlopheng se.';
+$Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">O botšišitše dipotšišo tšeo ga bjale di nago le dikarabo</a>. Kgonthiša gore o amogela/gana dikarabo.';
+$Definition['You\'ve been invited to join {Name}.'] = 'O laleditšwe gore o tsene {Leina}.';
+$Definition['You\'ve been Jailed.'] = 'O Golegilwe.';
 $Definition['You already have an account here.'] = 'O šetše o na le akhaonte mo.';
+$Definition['You are about to ban {User.UserID,user}.'] = 'O kgauswi le go thibela [User.UserID,user].';
+$Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'O kgauswi le go šuthiša %1$s ya %2$s ya dipoledišano tše di kgethilwego.';
+$Definition['You are about to move %s.'] = 'O kgauswi le go šuthiša %s.';
+$Definition['You are about to unban {User.UserID,user}.'] = 'O kgauswi le go tloša thibelo {User.UserID,user}.';
+$Definition['You are allowed to create %s groups.'] = 'O dumeletšwe go hlama dihlopha tša %s.';
+$Definition['You are already a member of this group.'] = 'O šetše o le leloko la sehlopha se.';
+$Definition['You are connected as %s through %s.'] = 'O kgokagantšwe o le %s ka %s.';
+$Definition['You are connected through %2$s.'] = 'O kgokagantšwe ka %2$s.';
 $Definition['You are currently only viewing categories that you follow.'] = 'Ga bjale o bona feela magoro ao o a latelago.';
 $Definition['You are currently viewing all categories.'] = 'Ga bjale o bona magoro ka moka.';
+$Definition['You are editing %s\'s signature'] = 'O ngwala go mosaeno wa %s\'s';
+$Definition['You are limited to %s recipient.'] = 'O lekanyeditšwe go moamogedi wa %s.';
+$Definition['You are limited to %s recipients.'] = 'O lekanyeditšwe go baamogedi ba %s.';
+$Definition['You aren\'t a %s of this group.'] = 'Ga se wena %s ya sehlopha se.';
+$Definition['You aren\'t allowed to %s this group.'] = 'Ga se wa dumelelwa go %s sehlopha se.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'O dumeletšwe feela {maxImages,plural,%s image,%s images}.';
+$Definition['You can\'t leave the group you started.'] = 'O ka se tlogele sehlopha seo o se thomilego.';
+$Definition['You can either ask a question or start a discussion.'] = 'O ka botšiša potšišo goba wa thoma poledišano. Kgetha seo o nyakago go se dira ka mo tlase.';
+$Definition['You can follow individual categories and be notified of all posts within them.'] = 'O ka latela magoro a batho gomme wa tsebišwa ka dilo ka moka ka gare ga ona.';
+$Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'O ka se ngwale diswantšhong tša seswantšho seo se nyalanago le kanegelo ya motho';
+$Definition['You can only specify up to %s tags.'] = 'O ka hlalosa feela go fihla go maswao a %s.';
+$Definition['You can remove or ban this member from the group.'] = 'O ka tloša goba wa thibela leloko le sehlopheng. Maloko ao a thibetšwego a ka se kgone go tlatša sehlopha gape.';
+$Definition['You can use HTML in your signature.'] = 'O ka diriša <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML e Bonolo</a></b> mosaenong wa gago.';
 $Definition['You don\'t have permission to do that.'] = 'Ga se wa dumelelwa go dira seo';
+$Definition['You don\'t have permission to use a signature.'] = 'Ga o na tumelelo ya go diriša mosaeno.';
+$Definition['You do not have any %s yet.'] = 'Ga se wa hlwa o eba le %s efe goba efe.';
+$Definition['You do not have any bookmarks.'] = 'Ga o na maswao afe goba afe.';
+$Definition['You do not have any conversations.'] = 'Ga o na dipoledišano dife goba dife.';
+$Definition['You do not have any drafts.'] = 'Ga o na ditlhamo dife goba dife.';
+$Definition['You do not have any notifications yet.'] = 'Ga o na ditsebišo dife goba dife.';
+$Definition['You do not have enough invitations left.'] = 'Ga o na ditaletšo tše di lekanego tše di šetšego.';
+$Definition['You do not have permission to edit all of the posts you are trying to merge.'] = 'Ga se wa dumelelwa go ngwala dikarolo ka moka tšeo o lekago go di kopanya.';
+$Definition['You do not have permission to move %1$s of the selected discussions.'] = 'Ga se wa dumelelwa go šuthiša %1$s ya dipoledišano tše di kgethilwego.';
+$Definition['You do not have permission to write new comments.'] = 'Ga se wa dumelelwa go ngwala ditlhaloso tše difsa.';
+$Definition['YouEarnedBadge'] = 'O hweditše petšhe ye';
+$Definition['You have answered questions'] = 'O arabile dipotšišo';
+$Definition['You have been approved for membership.'] = 'O dumeletšwe go ba leloko.';
+$Definition['You have entered an invalid discussion title'] = 'O ngwadile sehlogo se se fošagetšego sa poledišano';
 $Definition['You haven\'t joined any groups yet.'] = 'Ga se wa hlwa o tsenya sehlopheng.';
+$Definition['You haven\'t read this yet.'] = 'Ga se wa hlwa o bala se.';
+$Definition['You have not started any discussions.'] = 'Ga se wa hlwa o thoma dipoledišano dife goba dife.';
+$Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'O pharile makga a %1$s ka metsotswana e %2$s. Go thibela ditšhila ga bjale go a šoma akhaonteng ya gago. O swanetše go leta bonyenyane ka metsotswana e %3$s pele re leka go phara gape. ';
+$Definition['You have selected %1$s.'] = 'O kgethile %1$s.';
+$Definition['You have selected %1$s in this discussion.'] = 'O kgethile %1$s poledišanong ye.';
+$Definition['You have successfully connected to {Title}.'] = 'O kgokagane ka katlego le {Title}.';
+$Definition['You have successfully registered for an account at {Title}.'] = 'O ngwadišitše akhaonte ye ka katlego go {Title}.';
+$Definition['You have to select at least 2 discussions to merge.'] = 'O swanetše go kgetha bonyanyane dipoledišano tše 2 tše o ka di kopanyago.';
+$Definition['You must agree to the terms of service.'] = 'O swanetše go dumelelana le mabaka a tirelo.';
+$Definition['You must be at least %d years old to register.'] = 'O swanetše go ba le bonyenyane mengwaga e %d gore o ngwadiše.';
+$Definition['You must be signed in.'] = 'O swanetše go ba o tsene.';
+$Definition['You must confirm you have received consent to register.'] = 'O swanetše go kgonthiša gore o hweditše tumelelo ya go ngwadiša.';
+$Definition['You need to confirm your email address.'] = 'O swanetše go kgonthiša atrese ya gago ya emeile. Kgotla a href="{/entry/emailconfirmrequest,url}">mo</a> gore o romele emeile ya kgonthišetšo.';
+$Definition['You need to confirm your email address before you can continue.'] = 'O swanetše go kgonthiša atrese ya gago ya emeile pele o ka tšwela pele.';
+$Definition['You need to sign in before you can do this.'] = 'O swanetše go tsena pele o ka dira se.';
+$Definition['your'] = 'ya gago';
+$Definition['Your application for this group was denied.'] = 'Kgopelo ya gago ya sehlopha se e gannwe.';
 $Definition['Your changes have been saved.'] = 'Diphetogo tša gago di bolokilwe.';
+$Definition['Your changes have been saved successfully.'] = 'Diphetogo tša gago di bolokilwe ka katlego.';
+$Definition['Your changes were saved.'] = 'Diphetogo tša gago di bolokilwe.';
+$Definition['Your email has been successfully confirmed.'] = 'Imeile ya gago e kgonthišeditšwe ka katlego.';
+$Definition['Your invitation has been sent.'] = 'Thomelo ya gago e rometšwe.';
 $Definition['Your old password was incorrect.'] = 'Phasewete ya gago ya kgale e be e sa nepagala.';
 $Definition['Your password has been changed.'] = 'Phasewete ya gago e fetošitšwe.';
 $Definition['Your password reset token has expired.'] = 'Setlankana sa gago sa go beakanya phasewete se feletšwe ke nako. Leka go diriša pušetšosekeng gape.';
+$Definition['Your picture has been removed.'] = 'Seswantšho sa gago se tlošitšwe.';
+$Definition['Your post will appear once it\'s been approved.'] = 'Se o se pharilego se tla tšwelela ge se dumeletšwe.';
+$Definition['Your preferences have been saved.'] = 'Dikgetho tša gago di bolokilwe.';
+$Definition['Your private conversations with other members.'] = 'Dipoledišano tša gago tša sephiri le maloko a mangwe.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Leina la gago la modiriši leo le ngwadišitšwego: <strong>%s</strong>';
+$Definition['Your request has been sent.'] = 'Kgopelo ya gago e rometšwe. Lekola emeile ya gago gore o bone ditaelo tše dingwe.';
 $Definition['Your settings have been saved.'] = 'Dipeakanyo tša gago di bolokilwe.';
 $Definition['Your settings have been saved successfully.'] = 'Dipeakanyo tša gago di bolokilwe ka katlego.';
+$Definition['Your status for this event is now: <b>%s</b>'] = 'Ga bjale boemo bja gago bja tiragalo ye ke: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Temošo ya gago e tsentšwe.';
+$Definition['You were added to a conversation.'] = '{InsertUserID,user} go tsentšwe {NotifyUserID,you} to a <a href="{Url,htmlencode}">poledišano</a>.';
 $Definition['You wrote:'] = 'O ngwadile:';
