@@ -454,7 +454,9 @@ $Definition['Key Value'] = '金鑰值';
 $Definition['Kick-start your community and increase user engagement.'] = '啟動您的社群討論版，並且提升讀者之間的互動性。';
 
 $Definition['Label this Revision'] = '為本次改版加上標籤';
+$Definition['Large images will be scaled down.'] = '大型圖檔將被縮小至最大寬度 %s px 及 最大高度 %s px 。';
 $Definition['Last Visit'] = '最後訪問';
+$Definition['Learn about custom routing.'] = '了解更多自訂路由。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '學習如何徹底改變討論版的外觀設計：上傳您的專屬標誌、設定首頁名稱、選擇視覺主題、並且改變各種自訂選項。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '學習使用討論版的各種基本功能。';
 $Definition['Level'] = '等級';
@@ -626,6 +628,7 @@ $Definition['Role to Grant'] = '核准職務';
 $Definition['Route'] = '路徑';
 $Definition['Route Expression'] = '路徑表達式';
 $Definition['Routes'] = '轉送功能';
+$Definition['Routes are used to redirect users.'] = '路由的作用是依要求的網址將使用者重新導向。';
 $Definition['Run structure & data scripts'] = '執行結構與資料程序';
 
 $Definition['Save Captured Definitions'] = '儲存已擷取之定義';
@@ -662,6 +665,7 @@ $Definition['SMTP User'] = 'SMTP 會員';
 $Definition['Source'] = '來源';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '請花些時間思考一下如何介紹您的網站。給網站一個有意義的名稱、以及簡潔有力的介紹，對搜尋引擎排名是有幫助的。';
 $Definition['Spoof'] = '偽裝';
+$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = '加入標誌和自訂顏色來美化您的 email。';
 $Definition['Start Discussions'] = '開始討論';
 $Definition['Start Import'] = '開始匯入';
 $Definition['Start the first discussion.'] = '請現在就<a href="{/post/discussion,url}">開始第一個討論串</a>，讓您的社群討論版馬上動起來。';
@@ -679,6 +683,9 @@ $Definition['Temporary (302)'] = '臨時移動 (302)';
 $Definition['Test'] = '測試';
 $Definition['Test Email'] = '測試信';
 $Definition['Test email from %s'] = '由 %s 送出的測試電子郵件';
+$Definition['Test Email Message'] = '<p>這是一封測試 email 訊息。</p>
+
+<p>您可以從儀表板前往 Email 頁面來設定您的論壇 email 外觀。</p>';
 $Definition['Testing'] = '測試中';
 $Definition['Test Mode'] = '測試模式：只有pocket管理者才能看到pocket顯示。';
 $Definition['Test URL'] = '測試網址';
@@ -718,6 +725,7 @@ $Definition['Theme Options'] = '主題選項';
 $Definition['Themes'] = '主題';
 $Definition['Theming Overview'] = '主題概觀';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = '密碼認證功能沒有任何自訂選項。';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = '上傳圖片時出現錯誤。您上傳的 email 標誌可為下列檔案類型：gif、jpg、png。';
 $Definition['There are currently no applicants.'] = '目前沒有任何人申請新帳號。';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = '目前不需要更動資料庫結構，但資料內容可能有所改變。';
 $Definition['There are no items awaiting moderation at this time.'] = '目前沒有任何項目等待審閱。';
@@ -763,6 +771,7 @@ $Definition['Thumbnails'] = '縮圖';
 $Definition['Titles'] = '標題';
 $Definition['To'] = '至';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = '如果您想將Vanilla討論版內嵌至網站上，請使用以下的程式碼。';
+$Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = '太多郵件地址了！我們一次最多將寄送至 %s 個地址。';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = '為了避免濫用，有些工具會自動隱藏內容、並且條列在這裡，等待以人工方式審閱之後准許發佈。';
 $Definition['Try Again'] = '重試';
 $Definition['Turn OFF'] = '關閉';
@@ -771,6 +780,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Unban'] = '取消封鎖';
 $Definition['Uninvite'] = '取消邀請';
 $Definition['Universal Code'] = '通用程式碼';
+$Definition['Universal Forum Embed Code'] = '通用論壇內嵌碼';
 $Definition['unknown'] = '未知';
 $Definition['Unlimited'] = '無限制';
 $Definition['Upload New Email Logo'] = '上傳新的電子郵件標誌';
@@ -855,6 +865,7 @@ $Definition['You can place files in your /uploads folder.'] = '如果您的檔�
 		大，無法直接上傳到這個頁面上，可以將它放置在「/uploads」
 		資料夾中。請確定檔案名稱的開頭是「<b>export</b>」，結尾是
 		「<b>.txt或.gz</b>」。';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = '您可以關閉下方開關來寄送純文字 email。';
 $Definition['You do not have permission to view other profiles.'] = '您沒有權限閱讀其他個人資料。';
 $Definition['You have %s invitations left for this month.'] = '你本月還可以發送 %s 條邀請.';
 $Definition['You must be authenticated in order to use this form.'] = '您必須經過身分認證，才能使用這份表單。';

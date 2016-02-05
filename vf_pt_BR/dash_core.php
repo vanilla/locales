@@ -177,6 +177,9 @@ $Definition['Check all permissions that apply for each role'] = 'Verifique todas
 $Definition['Check all permissions that apply to this role:'] = 'Marque todas as autorizações que deseja aplicar a esta função:';
 $Definition['Check out my new community!'] = 'Veja minha nova comunidade!';
 $Definition['Check out the full list of video tutorials here.'] = 'Veja a lista completa de video tutorais aqui.';
+$Definition['Check out the new community forum I\'ve just set up.'] = 'Olá amigo!
+
+Vê o novo fórum da comunidade que acabei de criar. É um ótimo sítio para nós falarmos um com o outro online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'A Vanilla é a plataforma de comunidade mais simples e poderosa do mundo. É super fácil de utilizar . Comece por este vídeo de apresentação e prossiga com os passos abaixo. Divirta-se!';
 $Definition['Choose a locale pack'] = 'Escolha um pacote de localização';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Escolha a função que será aplicada a usuários órfãos:';
@@ -450,7 +453,9 @@ $Definition['Key Value'] = 'Valor de chave';
 $Definition['Kick-start your community and increase user engagement.'] = 'Dê o ponta-pé inicial em sua comunidade e aumente o engajamento.';
 
 $Definition['Label this Revision'] = 'Coloque um label nesta revisão';
+$Definition['Large images will be scaled down.'] = 'As imagens grandes serão reduzidas até uma largura máxima de %spx e uma altura máxima de %spx.';
 $Definition['Last Visit'] = 'Última visita';
+$Definition['Learn about custom routing.'] = 'Aprenda sobre roteamento personalizado.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda como alterar completamente a aparência do seu fórum: enviar seu logo, configurar sua página principal, escolher um tema e customizá-lo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a como usar as funções básicas do seu fórum.';
 $Definition['Level'] = 'Nível';
@@ -566,6 +571,7 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'O pocket é exibido ent
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets permitem que você adicione pequenos pedaços de HTML em vários lugares do seu aplicativo.';
 $Definition['Polls'] = 'Enquetes';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Previna spam em seu fórum limitando o número de comentários e tópicos que usuários podem postar em um determinado período de tempo.';
+$Definition['Preview Colors'] = 'Pré-visualizar Cores';
 $Definition['Private Key'] = 'Chave privada';
 $Definition['Provider'] = 'Provedor';
 $Definition['Public Key'] = 'Chave pública';
@@ -620,6 +626,7 @@ $Definition['Role to Grant'] = 'Função a conceder';
 $Definition['Route'] = 'Rota';
 $Definition['Route Expression'] = 'Expressão da rota';
 $Definition['Routes'] = 'Rotas';
+$Definition['Routes are used to redirect users.'] = 'As rotas são usadas para redirecionar os utilizadores dependendo do URL solicitado.';
 $Definition['Run structure & data scripts'] = 'Execute os scripts de estrutura e dados';
 
 $Definition['Save Captured Definitions'] = 'Salvar definições capturadas';
@@ -656,6 +663,7 @@ $Definition['SMTP User'] = 'Usuário SMTP';
 $Definition['Source'] = 'Fonte';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Dedique um pouco de tempo a pensar sobre como descreve o seu site aqui. Dar ao seu site um título significativo e uma descrição concisa, poderá ajudar a posicioná-lo melhor nos motores de busca.';
 $Definition['Spoof'] = 'Imitações';
+$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Dê mais realce aos seus e-mails, adicionando um logótipo e personalizando as cores.';
 $Definition['Start Discussions'] = 'Iniciar tópicos';
 $Definition['Start Import'] = 'Começar iImportação';
 $Definition['Start the first discussion.'] = 'Dê o pontapé de saída na nossa comunidade <a href="{/post/discussion,url}">iniciando a primeira conversa</a> agora mesmo.';
@@ -672,6 +680,9 @@ $Definition['Temporary (302)'] = 'Temporário (302)';
 $Definition['Test'] = 'Teste';
 $Definition['Test Email'] = 'E-mail de prova';
 $Definition['Test email from %s'] = 'E-mail de prova de %s';
+$Definition['Test Email Message'] = '<p>Esta é uma mensagem de email de teste.</p>
+
+<p>Pode configurar a aparência dos e-mails do seu fórum ao navegar na página E-mail no painel de bordo.</p>';
 $Definition['Testing'] = 'Testando';
 $Definition['Test Mode'] = 'Modo de teste: o pocket será exibido somente para administradores de pocket.';
 $Definition['Test URL'] = 'URL de teste';
@@ -711,6 +722,7 @@ $Definition['Theme Options'] = 'Opções de tema';
 $Definition['Themes'] = 'Temas';
 $Definition['Theming Overview'] = 'Visão geral do tema';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'O autenticador de senha não tem nenhuma opção de configuração personalizada.';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Ocorreu um erro ao carregar a imagem. O seu logotipo de e-mail pode ser carregado num dos seguintes tipos de ficheiro: gif, jpg, png ';
 $Definition['There are currently no applicants.'] = 'Não há candidatos no momento.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Não são necessárias mudanças estruturais no banco de dados. É possível, entretando, que haja mudanças de dados.';
 $Definition['There are no items awaiting moderation at this time.'] = 'Não existem ítens esperando moderação no momento.';
@@ -756,6 +768,7 @@ $Definition['Thumbnails'] = 'Miniaturas';
 $Definition['Titles'] = 'Títulos';
 $Definition['To'] = 'Para';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Para incorporar o fórum do Vanilla em outro site, use o seguinte código.';
+$Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Demasiados endereços! Enviamos até %s endereços de cada vez.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Para prevenir abuso, algumas ferramentas automaticamente escondem conteúdo e listam aqui até que seja aprovado por um moderador.';
 $Definition['Try Again'] = 'Tente novamente';
 $Definition['Turn OFF'] = 'Desconectar';
@@ -764,6 +777,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Unban'] = 'Desbanir';
 $Definition['Uninvite'] = 'Desconvidar';
 $Definition['Universal Code'] = 'Código universal';
+$Definition['Universal Forum Embed Code'] = 'Código Incorporado do Fórum Universal';
 $Definition['unknown'] = 'desconhecido';
 $Definition['Unlimited'] = 'Ilimitado';
 $Definition['Upload New Email Logo'] = 'Incluir novo logo de e-mail';
@@ -848,6 +862,7 @@ $Definition['You can place files in your /uploads folder.'] = 'Se o seu ficheiro
 		grande para carregar diretamente nesta página, pode colocá-lo na sua
 		pasta de carregamentos. Assegure-se de que o nome do ficheiro começa com a palavra <b>export</b> e que acaba
 		com <b>.txt, ou .gz</b>.';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = 'Pode enviar e-mails em texto simples ao desativar o botão em baixo.';
 $Definition['You do not have permission to view other profiles.'] = 'Você não tem autorização para ver o perfil de outros.';
 $Definition['You have %s invitations left for this month.'] = 'Você tem %s convites sobrando para este mês.';
 $Definition['You must be authenticated in order to use this form.'] = 'Você precisa estar autenticado para usar este formulário.';
