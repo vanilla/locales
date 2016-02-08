@@ -442,6 +442,7 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Lancez
 $Definition['Label this Revision'] = 'Étiqueter cette Révision';
 $Definition['Large images will be scaled down.'] = 'Les grandes images seront redimensionnées à une largeur maximale de %spx et une hauteur maximale de %spx.';
 $Definition['Last Visit'] = 'Dernière visite';
+$Definition['Learn about custom routing.'] = 'Apprenez-en à propos du routage personnalisé.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Apprenez comment changer l\'apparence de votre forum du tout au tout : téléchargez votre logo, définissez votre page d\'accueil, choisissez un thème et personnalisez-le.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apprenez à utiliser les fonctionnalités de base de votre forum.';
 $Definition['Level'] = 'Niveau';
@@ -613,6 +614,7 @@ $Definition['Role to Grant'] = 'Rôle à attribuer';
 $Definition['Route'] = 'Redirection';
 $Definition['Route Expression'] = 'Libellé de la redirection';
 $Definition['Routes'] = 'Redirections';
+$Definition['Routes are used to redirect users.'] = 'Les routages sont utilisés pour rediriger les utilisateurs en fonction de l\'URL demandée.';
 $Definition['Run structure & data scripts'] = 'Exécuter les scripts de structure et de données';
 
 $Definition['Save Captured Definitions'] = 'Enregistrer les Définitions Capturées';
