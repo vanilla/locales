@@ -474,12 +474,12 @@ $Definition['EmailWelcomeConnect'] = '{Title}에 성공적으로 접속되었습
 
 {/,exurl,domain}의 사이트에 접속할 수 있습니다.';
 $Definition['EmailWelcomeRegister'] = '성공적으로 {Title}에 계정을 만들었습니다. 계정 정보는 다음과 같습니다:닉네임: {User.Name}이메일: {User.Email}이제 사이트 {/,exurl,domain} 를 접속하실 수 있습니다.';
-$Definition['EmbeddedDiscussionFormat'] = ' <div class="EmbeddedContent">{이미지}<strong>{제목}</strong>
-<p>{발췌 내용}</p>
+$Definition['EmbeddedDiscussionFormat'] = ' <div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">더 자세한 내용은 여기에서 확인하세요</a></p><div class="ClearFix"></div></div> ';
 $Definition['EmbeddedNoBodyFormat'] = '{Url} ';
-$Definition['EmbededDiscussionFormat'] = ' <div class="EmbeddedContent">{이미지}<strong>{제목}</strong>
-<p>{발췌 내용}</p>
+$Definition['EmbededDiscussionFormat'] = ' <div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">자세한 내용은 여기에서 확인하세요</a></p><div class="ClearFix"></div></div> ';
 $Definition['Emoji'] = '이모지';
 $Definition['End time?'] = '종료 시간?';

@@ -500,12 +500,12 @@ $Definition['EmailWelcomeRegister'] = '{User.Name} さん、こんにちは。
 {/,exurl,domain} からサイトにアクセスできます。
 
 では、よい一日をお過ごしください！';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{イメージ}<strong>{タイトル}</strong>
-<p>{抜粋}</p>
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p> <a href="{Url}">本文全てをここで読む</a> </p> <div class="ClearFix"> </div> </div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{イメージ}<strong>{タイトル}</strong>
-<p>{抜粋}</p>
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p> <a href="{Url}">本文全てをここで読む</a> </p> <div class="ClearFix"> </div> </div>';
 $Definition['Emoji'] = '絵文字';
 $Definition['End time?'] = '終了時間?';

@@ -777,7 +777,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Unban'] = 'Ta bort från svartlista';
 $Definition['Uninvite'] = 'Avbryt inbjudan';
 $Definition['Universal Code'] = 'Universell kod';
-$Definition['Universal Forum Embed Code'] = 'Inbäddad kod';
+$Definition['Universal Forum Embed Code'] = 'Universell inbäddad kod för forum';
 $Definition['unknown'] = 'okänd';
 $Definition['Unlimited'] = 'Obegränsad';
 $Definition['Upload New Email Logo'] = 'Ladda upp ny e-postlogotyp';

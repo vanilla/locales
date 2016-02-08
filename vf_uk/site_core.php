@@ -504,8 +504,8 @@ $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читати повністю...</a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Зображення}<strong>{Назва}</strong>
-<p>{Уривок}</p>
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">Читати повну історію тут</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Емоджі';
 $Definition['End time?'] = 'Час закінчення?';

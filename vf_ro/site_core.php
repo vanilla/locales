@@ -471,9 +471,9 @@ $Definition['EmailWelcomeRegister'] = 'V-ați înregistrat cu succes prin contul
   Email: {User.Email}
 
 Puteti accesa site-ul la {/,url,domain}.';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent"> {imagine} <strong>{Title}</strong> <p>{extras}</p> <p><a href="{Url}"> Citiți mai mult aici</a></p> <div class="ClearFix"></div></div>';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent"> {Image} <strong>{Title}</strong> <p>{Excerpt}</p> <p><a href="{Url}"> Citiți mai mult aici</a></p> <div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent"> {imagine} <strong>{Title}</strong> <p>{extras}</p> <p><a href="{Url}"> Citiți mai mult aici</a></p> <div class="ClearFix"></div></div>';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent"> {Image} <strong>{Title}</strong> <p>{Excerpt}</p> <p><a href="{Url}"> Citiți mai mult aici</a></p> <div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoticon';
 $Definition['End time?'] = 'Oră de sfârşit?';
 $Definition['English'] = 'Engleză';

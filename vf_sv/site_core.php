@@ -471,12 +471,12 @@ $Definition['EmailWelcomeConnect'] = 'Du har framgångsrikt anslutit till {Title
 
 Du kommer åt sajten på {/,exurl,domain}.';
 $Definition['EmailWelcomeRegister'] = 'Du har registrerat ett konto på {Title}. Här är din information: ⏎ ⏎ Användarnamn: {User.Name} ⏎ E-post: {User.Email} ⏎ ⏎ Du kan komma åt webbplatsen på {/, exurl, domän}.';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Bild}<strong>{Titel}</strong>
-<p>{Utdrag}</p>
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">Läs hela berättelsen här</a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Bild}<strong>{Titel}</strong>
-<p>{Utdrag}</p>
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">Läs hela berättelsen här}</a></p><div class="ClearFix"></div></div>';
 $Definition['End time?'] = 'Sluttid?';
 $Definition['English'] = 'Engelska';
