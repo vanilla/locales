@@ -360,7 +360,7 @@ $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Tarih. \'gg/aa/yyyy\' bekler.';
 $Definition['Date Added'] = 'Tarih Eklendi';
 $Definition['Date Examples'] = 'Örnekler: Pazartesi, bugün, geçen hafta, 26 Mart, 26/3/04';
-$Definition['Date within'] = 'Arası tarih';
+$Definition['Date within'] = 'Tarih aralığı';
 $Definition['days'] = 'gün';
 $Definition['Define Thumbnail'] = 'Küçük resminizi belirtmek için tıklayın ve sürükleyin.';
 $Definition['Delete'] = 'Sil';
@@ -795,7 +795,7 @@ $Definition[' now.'] = 'şimdi.';
 
 $Definition['Null Date'] = '-';
 
-$Definition['of'] = '-nin';
+$Definition['of'] = '/';
 $Definition['Off Topic'] = 'Alakasız';
 $Definition['OK'] = 'TAMAM';
 $Definition['Okay'] = 'Tamam';
