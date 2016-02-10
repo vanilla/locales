@@ -479,12 +479,12 @@ Conectado com: {ProviderName}
 Você pode acessar o site em {/,url,domain}.
 
 Tenha um bom dia!';
-$Definition['EmailWelcomeRegister'] = 'Você se registrou com sucesso em {Title}. Suas credenciais são:(\\n)(\\n)
+$Definition['EmailWelcomeRegister'] = 'Você se registrou com sucesso em {Title}. Suas credenciais são:
 
-Nome de usuário: {User.Name}(\\n)
-Email: {User.Email}(\\n)(\\n)
+Nome de usuário: {User.Name}
+Email: {User.Email}
 
-Você pode acessar o site em {/,url,domain}.(\\n)(\\n)';
+Você pode acessar o site em {/,url,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>(\\n)
 <p>{Excerpt}</p>(\\n)
 <p><a href="{Url}">Leia a história completa aqui</a></p><div class="ClearFix"></div></div>';
