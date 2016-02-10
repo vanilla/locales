@@ -1113,16 +1113,15 @@ $Definition['Tenth Anniversary'] = 'Décimo Aniversario';
 $Definition['Terms'] = 'Términos';
 $Definition['TermsOfService'] = 'Términos de Servicio';
 $Definition['Terms of Service'] = 'Términos de Servicio';
-$Definition['TermsOfServiceText'] = '
-   <p>Usted acepta que mediante el uso de este servicio, que no usará esta comunidad para publicar cualquier material que sea conocidamente falso y/o difamatorio, inexacto, abusivo, vulgar, de odio, de acoso, obsceno, blasfemo, sexual, amenazante, invasivo a la privacidad de una persona, o que infrinja de uno u otro modo cualquier ley. Acepta no publicar ningún material con derechos de autor a menos que el derecho de autor sea de su propiedad.</p>
-   
-   <p>Nosotros en esta comunidad también nos reservamos el derecho de revelar tu identidad (o cualquier información que sabemos de ti) en el caso de una queja o acción legal derivada de un mensaje publicado por ti. Registramos todas las direcciones de protocolo de Internet que acceden a este sitio web.</p>
-   
-   <p>Por favor ten en cuenta que los anuncios, cartas en cadena, esquemas piramidales y solicitudes son inapropiadas en esta comunidad. </p>
-   
-   <p>Nos reservamos el derecho a eliminar cualquier contenido. Nos reservamos el derecho a terminar cualquier membresía.</p>
-   
-   <p>Debes tener al menos 13 años para usar este servicio.</p>';
+$Definition['TermsOfServiceText'] = 'Usted acepta que mediante el uso de este servicio, que no usará esta comunidad para publicar cualquier material que sea conocidamente falso y/o difamatorio, inexacto, abusivo, vulgar, de odio, de acoso, obsceno, blasfemo, sexual, amenazante, invasivo a la privacidad de una persona, o que infrinja de uno u otro modo cualquier ley. Acepta no publicar ningún material con derechos de autor a menos que el derecho de autor sea de su propiedad.
+
+Nosotros en esta comunidad también nos reservamos el derecho de revelar tu identidad (o cualquier información que sabemos de ti) en el caso de una queja o acción legal derivada de un mensaje publicado por ti. Registramos todas las direcciones de protocolo de Internet que acceden a este sitio web.
+
+Por favor ten en cuenta que los anuncios, cartas en cadena, esquemas piramidales y solicitudes son inapropiadas en esta comunidad.
+
+Nos reservamos el derecho a eliminar cualquier contenido. Nos reservamos el derecho a terminar cualquier membresía.
+
+Debes tener al menos 13 años para usar este servicio.';
 $Definition['Text  Max  Length'] = 'Texto  Máx  Longitud';
 $Definition['The %s you were looking for could not be found.'] = 'El %s que estás buscando no se pudo encontrar.';
 $Definition['the category'] = 'la categoría';

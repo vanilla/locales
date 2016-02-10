@@ -393,9 +393,10 @@ $Definition['Edit Profile'] = 'Modifier le profil';
 $Definition['Edit Tag'] = 'Modifier le tag';
 $Definition['Edit Thumbnail'] = 'Modifier l\'avatar';
 $Definition['Eighth Anniversary'] = 'Huitième Anniversaire';
-$Definition['Email/Username'] = 'Adresse email / Nom d\'utilisateur';
+$Definition['Email/Username'] = 'L\'email / nom d\'utilisateur';
 $Definition['EmailConfirmEmail'] = 'Vous devez confirmer votre adresse email pour continuer. Confirmez votre adresse email en cliquant sur ce lien : {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
-$Definition['EmailFooter'] = 'Passez une bonne journée !';
+$Definition['EmailFooter'] = '
+Passez une bonne journée !';
 $Definition['EmailHeader'] = 'Bonjour {User.Name} !
 ';
 $Definition['EmailInvitation'] = 'Bonjour,
@@ -1049,29 +1050,15 @@ $Definition['Tenth Anniversary'] = 'Dixième anniversaire';
 $Definition['Terms'] = 'Conditions';
 $Definition['TermsOfService'] = 'Conditions d\'utilisation';
 $Definition['Terms of Service'] = 'Conditions d\'Utilisation';
-$Definition['TermsOfServiceText'] = '
-   <p>Vous acceptez, en participant à ce service, de ne pas utiliser ce
-   forum pour publier des informations que vous savez fausses ou diffamatoires,
-   inexactes, vulgaires, haineuses, obscènes, menaçantes, tendancieuses,
-   attentatoires à la vie privée, ou plus généralement en violation de la loi et du règlement.
-   Vous vous engagez à ne pas diffuser de contenu qui violerait des règles de  
-   propriété intellectuelle, hormis si vous êtes titulaire des droits afférents.</p>
-   
-   <p>Votre identité peut être fournie aux autorités judiciaires dans le cadre
-   d\'une enquête ou une action judiciaire à votre encontre. Toutes les adresse IP
-   utilisées pour accéder au forum sont conservées.</p>
-   
-   <p>La publicité, les chaînes, les mécanismes à diffusion pyramidale et toute forme
-   de sollicitations commerciales ne sont pas acceptées sur ce forum.</p>
-   
-   <p>Nous nous réservons le droit de retirer tout contenu  pour quelque raison que ce soit et sans justification.
-   Nous nous réservons également le droit de mettre fin à toute participation sans avoir
-   à le justifier.</p>
+$Definition['TermsOfServiceText'] = 'Vous acceptez, en participant à ce service, de ne pas utiliser ce forum pour publier des informations que vous savez fausses ou diffamatoires, inexactes, vulgaires, haineuses, obscènes, menaçantes, tendancieuses, attentatoires à la vie privée, ou plus généralement en violation de la loi et du règlement. Vous vous engagez à ne pas diffuser de contenu qui violerait des règles de propriété intellectuelle, hormis si vous êtes titulaire des droits afférents.
 
-   <p>Vous devez également avoir au moins 13 ans pour participer au forum.</p>
+Votre identité peut être fournie aux autorités judiciaires dans le cadre d\'une enquête ou une action judiciaire à votre encontre. Toutes les adresses IP utilisées pour accéder au forum sont conservées.
 
+La publicité, les chaînes, les mécanismes à diffusion pyramidale et toute forme de sollicitations commerciales ne sont pas acceptées sur ce forum.
+   
+Nous nous réservons le droit de retirer tout contenu  pour quelque raison que ce soit et sans justification. Nous nous réservons également le droit de mettre fin à toute participation sans avoir à le justifier.
 
-';
+Vous devez également avoir au moins 13 ans pour participer au forum.';
 $Definition['Text  Max  Length'] = 'Longueur de texte maximale';
 $Definition['The %s you were looking for could not be found.'] = 'Le %s que vous recherchiez n\'a pas pu être trouvé.';
 $Definition['the category'] = 'la catégorie';
