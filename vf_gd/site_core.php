@@ -19,11 +19,15 @@ $Definition['%s Awesomes'] = '%s sgoinneil';
 $Definition['%s changed %s\'s permissions.'] = 'Dh\'atharraich %s na ceadan aig %s.';
 $Definition['%s Comment'] = '%s bheachd';
 $Definition['%s comment'] = '%s bheachd';
+$Definition['%s comment html'] = '%s bheachd';
 $Definition['%s Comments'] = '%s beachdan';
 $Definition['%s comments'] = '%s beachdan';
+$Definition['%s comments html'] = '%s beachdan';
 $Definition['%s deleted this conversation.'] = 'Sguab %s às an còmhradh seo.';
 $Definition['%s discussion'] = '%s deasbad';
+$Definition['%s discussion html'] = '%s deasbad';
 $Definition['%s discussions'] = '%s deasbadan';
+$Definition['%s discussions html'] = '%s deasbadan';
 $Definition['%s has been Jailed.'] = 'Chaidh %s a chur sa phrìosan.';
 $Definition['%s has left this conversation.'] = 'Dh\'fhàg %s an còmhradh seo.';
 $Definition['%s Insightfuls'] = '%s tuigseach';
@@ -46,6 +50,8 @@ $Definition['%s said:'] = 'Thuirt %s:';
 $Definition['%s tag(s) found.'] = 'Chaidh %s taga(ichean) a lorg.';
 $Definition['%s tags in the system'] = 'Tha %s taga(ichean) san t-siotam';
 $Definition['%s Up Votes'] = '%s bhòta(ichean) suas';
+$Definition['%s view html'] = '%s view';
+$Definition['%s views html'] = '%s views';
 $Definition['%s votes'] = '%s bhòta(ichean)';
 $Definition['%s was removed from the %s and added to the %s'] = 'Chaidh %s a thoirt air falbh o %s \'s a chur ri %s';
 $Definition['%s WTFs'] = '%s dè fon ghrèin?';
@@ -65,6 +71,8 @@ $Definition['[%s] Welcome Aboard!'] = '[%s] Fàilte ort!';
 $Definition['[Deleted User]'] = '[Ball air a sguabadh às]';
 
 $Definition['About'] = 'Mu dhèidhinn';
+$Definition['AboutToDelete'] = 'You are about to delete %s.';
+$Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Abuse'] = 'Droch-dhìol.';
 $Definition['Accept'] = 'Gabh ris';
 $Definition['Accept this answer.'] = 'Gabh ris an fhreagairt seo.';
@@ -82,6 +90,8 @@ $Definition['Activity.ConversationMessage.FullHeadline'] = 'Chuir %1$s %8$s thug
 $Definition['Activity.ConversationMessage.ProfileHeadline'] = 'Chuir %1$s %8$s thugad.';
 $Definition['Activity.Join.FullHeadline'] = 'Ghabh %1$s ballrachd.';
 $Definition['Activity.Join.ProfileHeadline'] = 'Ghabh %1$s ballrachd.';
+$Definition['Activity.PictureChange.FullHeadline'] = '%1$s changed %6$s profile picture.';
+$Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s changed %6$s profile picture.';
 $Definition['Activity.QuestionAnswer.FullHeadline'] = 'Dh\'fhreagair %1$s do %4$s %8$s.';
 $Definition['Add a Comment'] = 'Cuir beachd ris';
 $Definition['Add a Message'] = 'Cuir teachdaireachd ris';
@@ -98,7 +108,6 @@ $Definition['Add Route'] = 'Cuir slighe ris';
 $Definition['Admin'] = 'Rianaire';
 $Definition['Administrator Activity'] = 'Gnìomhan rianachd';
 $Definition['administrators'] = 'rianairean';
-$Definition['Advanced Stuff'] = 'Stuth adhartach';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Tachair mearachd mharbhtach le pròiseasadh an iarrtais.<br />Seo freagairt an fhrithealaiche: %s';
 $Definition['Agree'] = 'Aontaich ris';
 $Definition['Alert'] = 'Caismeachd';
@@ -119,6 +128,7 @@ $Definition['Answers'] = 'Freagairtean';
 $Definition['Apply Changes'] = 'Cuir na h-atharraichean an sàs';
 $Definition['Apply for Membership'] = 'Clàraich';
 $Definition['Apply for membership'] = 'Iarr ballrachd';
+$Definition['Approve Applicant'] = 'Approve';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'A bheil thu CINNTEACH gu bheil thu airson seo a dhèanamh?';
 $Definition['Are you sure you want to delete this %s?'] = 'A bheil thu cinnteach gu bheil thu airson a\' %s seo a sguabadh às?';
 $Definition['Are you sure you want to do this?'] = 'A bheil thu cinnteach gu bheil thu airson seo a dhèanamh?';
@@ -190,16 +200,23 @@ $Definition['Comment'] = 'Beachd';
 $Definition['comment'] = 'beachdaich';
 $Definition['Comment As ...'] = 'Beachdaich mar...';
 $Definition['Comment by %s'] = 'Beachd le %s';
+$Definition['Comment in'] = 'in';
 $Definition['Commenting as %1$s (%2$s)'] = 'A\' beachdachadh mar %1$s <span class="SignOutWrap">(%2$s)</span>';
 $Definition['Commenting not allowed.'] = 'Chan eil beachdachadh ceadaichte.';
 $Definition['Comments'] = 'Beachdan';
 $Definition['Comments are between {UserID,you}.'] = 'Tha na beachdan eadar {UserID,you}.';
 $Definition['Completely delete the warning.'] = 'Sguab às an rabhadh gu tur.';
 $Definition['Confirm Password'] = 'Dearbh am facal-faire';
+$Definition['ConnectAccountExists'] = 'You already have an account here.';
 $Definition['ConnectChooseName'] = 'Tagh ainm gus d\' aithneachadh air an làrach-lìn.';
+$Definition['ConnectCreateAccount'] = 'Add Info &amp; Create Account';
+$Definition['ConnectExistingPassword'] = 'Enter your existing account password.';
 $Definition['Connecting...'] = 'A\' ceangal ris...';
 $Definition['Connection'] = 'Ceangal';
+$Definition['ConnectLeaveBlank'] = 'Leave blank unless connecting to an exising account.';
 $Definition['ConnectName'] = 'Far-ainm';
+$Definition['ConnectRegisteredName'] = 'Your registered username: <strong>%s</strong>';
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 $Definition['conversation'] = 'còmhradh';
 $Definition['Create Discussions'] = 'Cruthaich còmhraidhean';
 $Definition['Create One.'] = 'Cruthaich fear.';
@@ -215,7 +232,13 @@ $Definition['Custom Profile Field Settings'] = 'Roghainnean nan raointean pròif
 $Definition['Dashboard Home'] = 'Dachaigh an deas-bhùird';
 $Definition['Dashboard Summaries'] = 'Gearr-chunntasan an deas-bhùird';
 $Definition['Date'] = 'Ceann-là';
+$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
+$Definition['Date.DefaultDayFormat'] = '%B %e';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Added'] = 'Ceann-là a chuir ris';
+$Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
 $Definition['days'] = 'làithean';
 $Definition['Define Thumbnail'] = 'Briog air an dealbh is slaod gus an dealbhag agad a shònrachadh.';
 $Definition['Delete %s'] = 'Sguab às %s';
@@ -224,6 +247,7 @@ $Definition['Delete Discussion'] = 'Sguab às an còmhradh';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'Sguab às am ball is gach susbaint aige. Thèid deasbaidean \'nam fuigheall le seo le coltas air gun do fhreagair daoine air beachdan nach eil ann tuilleadh. Seo sàr-roghainn gus cuidhteas fhaighinn dhe shusbaint spama.';
 $Definition['Delete User Content'] = 'Sguab às susbaint a\' bhuill';
 $Definition['Delete User Forever'] = 'Sguab às am ball gu buan';
+$Definition['Deny Applicant'] = 'Deny';
 $Definition['Did this answer the question?'] = 'A bheil seo a\' freagairt a\' cheist agad?';
 $Definition['Discussions Page'] = 'Duilleag nan deasbaidean';
 $Definition['Discussion Title'] = 'Tiotal a\' chòmhraidh';
@@ -240,6 +264,9 @@ $Definition['Edit Discussion'] = 'Deasaich an deasbad';
 $Definition['Edit My Account'] = 'Deasaich an cunntas agam';
 $Definition['Edit My Profile'] = 'Deasaich a\' phròifil agam';
 $Definition['Edit My Thumbnail'] = 'Deasaich an dealbhag agam';
+$Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
+$Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
+$Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
 $Definition['Edit Profile'] = 'Deasaich a\' phròifil';
 $Definition['Edit Tag'] = 'Deasaich an taga';
 $Definition['Edit Thumbnail'] = 'Deasaich an dealbhag';
@@ -306,6 +333,7 @@ $Definition['EmailWelcomeRegister'] = 'Tha thu air cunntas a chlàradh air {Titl
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Leugh an sgeulachd shlàn an-seo</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Leugh an sgeulachd shlàn an-seo</a></p><div class="ClearFix"></div></div>';
@@ -345,6 +373,7 @@ $Definition['Followed by %d people'] = '\'Ga leantainn le %d daoine';
 $Definition['Followed by %d person'] = '\'Ga leantainn le %d neach';
 $Definition['Following %d people'] = 'A\' leantainn %d daoine';
 $Definition['Following %d person'] = 'A\' leantainn %d neach';
+$Definition['FollowOnly'] = 'Follow the link below to check it out:';
 $Definition['Forgot?'] = 'Air a dhìochuimhneachadh?';
 $Definition['Forgot your password?'] = 'Na dhìochuimhnich thu am facal-faire agad?';
 $Definition['Format his'] = 'aige';
@@ -358,6 +387,7 @@ $Definition['Friends'] = 'Caraidean';
 $Definition['Garden.Email.SupportAddress'] = 'Post-d an sgioba taice';
 $Definition['Garden.Email.SupportName'] = 'Ainm an sgioba taice';
 $Definition['Garden.Registration.DefaultRoles'] = 'ùghdarras tùsail';
+$Definition['Garden.Title'] = 'Banner Title';
 $Definition['Gender'] = 'Gnè';
 $Definition['General'] = 'Coitchean';
 $Definition['Generate import SQL only'] = 'Gin SQL ion-phortaidh a-mhàin';
@@ -367,13 +397,25 @@ $Definition['Give a Badge to %s'] = 'Thoir suaicheantas do %s';
 $Definition['Give Badge'] = 'Thoir suaicheantas';
 $Definition['Given'] = 'Air a thoirt';
 $Definition['Go'] = 'Siuthad';
+$Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.';
+$Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
+$Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
+$Definition['Group Leaders'] = 'Leaders';
+$Definition['Group Members'] = 'Members';
+$Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 $Definition['GuestModule.Message'] = 'Tha thu \'nad bhall ùr an-seo a-rèir coltais. Briog air fear dhe na putanan seo ma tha thu airson pàirt a ghabhail!';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Fuirich greis fhad \'s a tha sinn gad logadh a-mach.';
 $Definition['he'] = 'e';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} bhuannaich thu an suaicheantas <a href="{Url,html}">{Data.Name,text}</a>.';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = 'Thug {ActivityUserID,user} beachd seachad air <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Started a new discussion. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mentioned you in <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} changed the profile picture for {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = 'Clàraich {ActivityUserID,You}.';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
+$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
 $Definition['Hide signatures always'] = 'Falaich na h-earr-sgrìobhaidhean an-còmhnaidh';
 $Definition['Hide signatures on my mobile device'] = 'Falaich na h-earr-sgrìobhaidhean air an inneal-làimhe agam';
 $Definition['his'] = 'aige';
@@ -383,6 +425,7 @@ $Definition['How long do you want this warning to last?'] = 'Dè cho fad \'s a m
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Tha mi ag aontachadh ri <a id="TermsOfService" class="Popup" target="terms" href="%s">teirmichean a\' chleachdaidh</a>';
 $Definition['Insert Image'] = 'Cuir dealbh ris';
+$Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
 $Definition['InviteErrorPermission'] = 'Tha sinn duilich ach chaidh cead a dhiùltadh.';
 $Definition['I remember now!'] = 'Tha cuimhne agam a-nis!';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Tha thu \'nad bhall ùr an-seo a-rèir coltais. Briog air fear dhe na putanan seo ma tha thu airson pàirt a ghabhail!';
@@ -398,6 +441,8 @@ $Definition['Leave a comment'] = 'Thoir beachd seachad';
 $Definition['Leave Comments'] = 'Thoir beachdan seachad';
 
 $Definition['Male'] = 'Fireann';
+$Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
+$Definition['Member Count'] = 'Members';
 $Definition['message'] = 'teachdaireachd';
 $Definition['Moderator Activity'] = 'Gnìomhan maorsainneachd';
 $Definition['moderators'] = 'maoir';
@@ -416,10 +461,13 @@ $Definition['My Drafts'] = 'Na dreachdan agam';
 $Definition['n/a'] = 'chan eil seo iomchaidh';
 $Definition['Name Unavailable'] = 'Chan eil an t-ainm ri fhaighinn';
 $Definition['new'] = 'ùr';
+$Definition['New Conversation'] = 'New Message';
 $Definition['New Discussion'] = 'Còmhradh ùr';
 $Definition['new discussion'] = 'ùr';
 $Definition['New Password'] = 'Facal-faire ùr';
+$Definition['NoBadgesEarned'] = 'Any minute now&hellip;';
 $Definition['No badges yet.'] = 'Chan eil suaicheantas agad fhathast.';
+$Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
 $Definition['Not Authorized (401)'] = 'Gun chead (401)';
 $Definition['Not Found (404)'] = 'Cha deach a lorg (404)';
 $Definition['Notification'] = 'Fios';
@@ -440,33 +488,62 @@ $Definition['Notify me when people write on my wall.'] = 'Cuir fios thugam nuair
 
 $Definition[' now.'] = ' an-dràsta.';
 
+$Definition['Null Date'] = '-';
+
+$Definition['OldPassword'] = 'Old password';
 $Definition['Old Password'] = 'An seann fhacal-faire';
 $Definition['Only show followed categories'] = 'Na seall ach na roinnean a leanas mi orra';
 $Definition['Options'] = 'Roghainnean';
 $Definition['Or you can...'] = 'No \'s urrainn dhut...';
 
+$Definition['PageDetailsMessage'] = '%1$s to %2$s';
+$Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
 $Definition['Page Not Found'] = 'Cha deach an duilleag a lorg';
+$Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
 $Definition['Password'] = 'Facal-faire';
+$Definition['PasswordRequest'] = 'Someone has requested to reset your password at %2$s. To reset your password, follow this link:
+
+  %3$s
+
+If you did not make this request, disregard this email.';
 $Definition['Passwords don\'t match'] = 'Chan eil an dà fhacal-faire co-ionnann';
 $Definition['PermissionErrorMessage'] = 'Chan eil cead agad gus seo a dhèanamh.';
 $Definition['PermissionErrorTitle'] = 'Duilgheadas le cead';
+$Definition['PermissionRequired.Garden.Moderation.Manage'] = 'You need to be a moderator to do that.';
+$Definition['PermissionRequired.Garden.Settings.Manage'] = 'You need to be an administrator to do that.';
+$Definition['PermissionRequired.Javascript'] = 'You need to enable javascript to do that.';
 $Definition['Picture'] = 'Dealbh';
 $Definition['Poll'] = 'Cunntas-bheachd';
 $Definition['Popup'] = 'Priob-uinneag';
 $Definition['Post Comment'] = 'Sgrìobh beachd';
 $Definition['Post Discussion'] = 'Faighnich ceist';
+$Definition['Posts.Plural: %s'] = 'Posts: %s';
+$Definition['Posts.Singular: %s'] = 'Posts: %s';
 $Definition['PreferenceBadgeEmail'] = 'Cuir fios thugam nuair a bhuannaich mi suaicheantas.';
 $Definition['PreferenceBadgePopup'] = 'Cuir fios thugam nuair a bhuannaich mi suaicheantas.';
 $Definition['Preview'] = 'Ro-sheall';
+$Definition['Private group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
 $Definition['Private Note for Moderators'] = 'Nòta prìobhaideach dha na maoir';
 $Definition['Profile'] = 'Pròifil';
+$Definition['ProfileFieldsCustomDescription'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
+$Definition['Public group.'] = 'Anyone can see the group and its content. Anyone can join.';
 
+$Definition['Q&A Accepted'] = 'Answered ✓';
+$Definition['Q&A Answered'] = 'Answered';
+$Definition['Q&A Question'] = 'Question';
+$Definition['QnA Accepted Answer'] = 'Answer ✓';
+$Definition['QnA Rejected Answer'] = 'Rejected Answer';
 $Definition['Quote'] = 'Iomradh';
 $Definition['Quote Folding'] = 'Pasgadh nan iomraidhean';
+$Definition['Quote on'] = 'on';
 $Definition['Quote Settings'] = 'Roghainnean nan iomraidhean';
+$Definition['Quote wrote'] = 'wrote';
 
+$Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,was,were} promoted to {Data.Name,plaintext}.';
+$Definition['Ranks.NotificationFormat'] = 'Congratulations! You\'ve been promoted to {Data.Name,plaintext}.';
 $Definition['Recent Activity'] = 'Gnìomhan o chionn ghoirid';
 $Definition['Recent Discussions'] = 'Deasbaidean o chionn ghoirid';
+$Definition['RecipientUserID'] = 'recipient';
 $Definition['Refetch Page'] = 'Faigh an duilleag as ùr';
 $Definition['Register'] = 'Clàraich';
 $Definition['Register IP'] = 'Clàraich IP';
@@ -475,16 +552,23 @@ $Definition['Remember me on this computer'] = 'Cuimhnich mi air a\' choimpiutair
 $Definition['Remove Picture'] = 'Thoir an dealbh air falbh';
 $Definition['Reopen'] = 'Fosgail as ùr';
 $Definition['Reply'] = 'Freagair';
+$Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. Sent from {/,exurl}.';
+$Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
+$Definition['Report Notes'] = 'Notes';
+$Definition['Report Reason'] = 'Reason';
 $Definition['Request a new password'] = 'Iarr facal-faire ùr';
 $Definition['Revoke'] = 'Cùl-ghairm';
 $Definition['Revoked badge.'] = 'Suaicheantas air a chùl-ghairm.';
+$Definition['RoleID'] = 'role';
 $Definition['Roles'] = 'Dreuchdan';
 
 $Definition['Save Comment'] = 'Sàbhail am beachd';
+$Definition['Saved'] = 'Your changes have been saved.';
 $Definition['Save Draft'] = 'Sàbhal dreachd';
 $Definition['Save Preferences'] = 'Sàbhail na roghainnean';
 $Definition['Search'] = 'Lorg';
 $Definition['SearchBoxPlaceHolder'] = 'Lorg';
+$Definition['Search for a tag.'] = 'Search for all or part of a tag.';
 $Definition['Select an image on your computer (2mb max)'] = 'Tagh dealbh air a\' choimpiutair agad (2MB air a char as motha)';
 $Definition['sep and'] = 'agus';
 $Definition['Share'] = 'Co-roinn';
@@ -496,17 +580,42 @@ $Definition['SigningOut'] = 'Fuirich greis fhad \'s a tha sinn gad logadh a-mach
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Log a-steach</a> no <a href="{RegisterUrl,html}">clàraich</a> gus beachd a thoirt seachad.';
 $Definition['Sign In with Facebook'] = 'Log a-steach le Facebook';
 $Definition['Sign Up'] = 'Clàraich';
+$Definition['Source Code'] = 'Code';
 $Definition['Split Comments'] = 'Roinn na beachdan';
 $Definition['Spoiler'] = 'Pìos-millidh';
+$Definition['Start a New Conversation'] = 'New Message';
 $Definition['Start a New Discussion'] = 'Còmhradh ùr';
 $Definition['Started by %1$s'] = 'Air a thòiseachadh le %1$s';
 $Definition['Strip images out of signatures'] = 'Thoir dealbh air falbh on na h-earr-sgrìobhaidhean';
 
+$Definition['TagHint'] = 'Start to type...';
 $Definition['Tell the user why you\'re warning them'] = 'Innis dhan bhall carson a fhuair e rabhadh';
 $Definition['TermsOfService'] = 'Teirmichean a\' chleachdaidh';
 $Definition['Terms of Service'] = 'Teirmichean a\' chleachdaidh';
+$Definition['TermsOfServiceText'] = 'You agree, through your use of this service, that you will not use this
+community to post any material which is knowingly false and/or defamatory,
+inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually
+oriented, threatening, invasive of a person\'s privacy, or otherwise violative
+of any law. You agree not to post any copyrighted material unless the
+copyright is owned by you.
+
+We at this community also reserve the right to reveal your identity (or
+whatever information we know about you) in the event of a complaint or legal
+action arising from any message posted by you. We log all internet protocol
+addresses accessing this web site.
+
+Please note that advertisements, chain letters, pyramid schemes, and
+solicitations are inappropriate on this community.
+
+We reserve the right to remove any content for any reason or no reason at
+all. We reserve the right to terminate any membership for any reason or no
+reason at all.
+
+You must be at least 13 years of age to use this service.';
 $Definition['their'] = 'aca';
 $Definition['The page you were looking for could not be found.'] = 'Chan eil an duilleag a bha thu a sireadh ann.';
+$Definition['The quote had to be converted from %s to %s.'] = 'The quote had to be converted from %s to %s. Some formatting may have been lost.';
+$Definition['There\'s already a %s with the name %s.'] = 'There\'s already a %1$s with the name %2$s.';
 $Definition['they'] = 'iad';
 $Definition['This discussion has been closed.'] = 'Chaidh an deasbaid seo a dhùnadh.';
 $Definition['This discussion was created from comments split from: %s.'] = 'Chaidh an còmhradh seo a chruthachadh o bheachdan air an roinneadh o: %s.';
@@ -516,24 +625,51 @@ $Definition['This user has not commented yet.'] = 'Cha tug am ball seo beachd se
 $Definition['Thumbnail'] = 'Dealbhag';
 $Definition['Transport error: %s'] = 'Tachair mearachd mharbhtach le pròiseasadh an iarrtais.<br />Seo freagairt an fhrithealaiche: %s';
 
+$Definition['Unanswered Questions'] = 'Unanswered';
 $Definition['Unknown'] = 'Chan eil fios';
 $Definition['Unspecified'] = 'Gun sònrachadh';
 $Definition['Updated badge'] = 'Suaicheantas air ùrachadh';
 $Definition['Upload'] = 'Luchdaich suas';
 $Definition['Uploading...'] = '\'Ga luchdadh suas...';
+$Definition['UrlCode'] = 'Url code';
 $Definition['User "%s" does not exist.'] = 'Chan eil an cleachdaiche "%s" ann.';
 $Definition['Username'] = 'Far-ainm';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Chan fhaod ach litrichean, àireamhan \'s fo-loidhnichean a bhith ann am far-ainm is feumaidh e bhith eadar 3 is 20 caractar a dh\'fhaid.';
 $Definition['UsernameError'] = 'Chan fhaod ach litrichean, àireamhan \'s fo-loidhnichean a bhith ann am far-ainm is feumaidh e bhith eadar 3 is 20 caractar a dh\'fhaid.';
+$Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
 
+$Definition['ValidateBanned'] = 'That %s is not allowed.';
+$Definition['ValidateBoolean'] = '%s is not a valid boolean.';
+$Definition['ValidateConnection'] = 'The connection parameters you specified failed to open a connection to the database. The database reported the following error: <code>%s</code>';
+$Definition['ValidateDate'] = '%s is not a valid date.';
+$Definition['ValidateDecimal'] = '%s is not a valid decimal.';
+$Definition['ValidateEmail'] = '%s does not appear to be valid.';
+$Definition['ValidateEnum'] = '%s is not valid.';
+$Definition['ValidateInteger'] = '%s is not a valid integer.';
+$Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numbers.';
+$Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
 $Definition['ValidateMatch'] = 'Chan eil an dà raon %s co-ionnann.';
+$Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
+$Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least one %s.';
+$Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
+$Definition['ValidateRequired'] = '%s is required.';
+$Definition['ValidateRequiredArray'] = 'You must select at least one %s.';
+$Definition['ValidateTag'] = 'Tags cannot contain spaces.';
+$Definition['ValidateTime'] = '%s is not a valid time.';
+$Definition['ValidateTimestamp'] = '%s is not a valid timestamp.';
+$Definition['ValidateUrlStringRelaxed'] = '%s can not contain slashes, quotes or tag characters.';
+$Definition['ValidateUsername'] = 'Usernames must be 3-20 characters and consist of letters, numbers, and underscores.';
+$Definition['ValidateVersion'] = 'The %s field is not a valid version number. See the php version_compare() function for examples of valid version numbers.';
 $Definition['Verified'] = 'Air a dhearbhadh';
 $Definition['via %s'] = 'tro %s';
+$Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
 $Definition['View Badge'] = 'Seall an suaicheantas';
 $Definition['Visits'] = 'Tadhailean';
 
 $Definition['wall'] = 'balla';
 $Definition['Warnings'] = 'Rabhaidhean';
+$Definition['WarningTitleFormat'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points}.';
+$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
 $Definition['Welcome Aboard!'] = 'Fàilte ort!';
 $Definition['Write a comment'] = 'Sgrìobh beachd';
 $Definition['Write Comment'] = 'Sgrìobh beachd';
@@ -541,9 +677,12 @@ $Definition['Write something about yourself...'] = 'Sgrìobh rudeigin mud dheidh
 
 $Definition['You'] = 'thu';
 $Definition['you'] = 'thu';
+$Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">You\'ve asked questions that now have answers</a>. Make sure you accept/reject the answers.';
 $Definition['You are currently only viewing categories that you follow.'] = 'Chan eil thu a\' sealltainn ach na roinnean a leanas tu orra.';
 $Definition['You are currently viewing all categories.'] = 'Tha thu a\' sealltainn na h-uile roinn an-dràsta.';
+$Definition['You can either ask a question or start a discussion.'] = 'You can either ask a question or start a discussion. Choose what you want to do below.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = '\'S urrainn dhut leantainn air roinnean fa leth is fios fhaighinn mu gach post annta.';
+$Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
 $Definition['You don\'t have permission to do that.'] = 'Chan eil cead agad gus seo a dhèanamh.';
 $Definition['You do not have any notifications yet.'] = 'Chan deach fios a chur thugad fhathast.';
 $Definition['You do not have permission to write new comments.'] = 'Chan eil cead agad gus beachdan ùra a thoirt seachad.';
@@ -553,4 +692,5 @@ $Definition['You must agree to the terms of service.'] = 'Feumaidh tu aontachadh
 $Definition['You need to confirm your email address.'] = 'Feumaidh tu an seòladh puist-d agad a dhearbhadh. Briog <a href="{/entry/emailconfirmrequest,url}">an-seo</a> gus post-d dearbhaidh ùr a chur.';
 $Definition['your'] = 'agad';
 $Definition['Your email has been successfully confirmed.'] = 'Tha thu air a\' phost-d agad a dhearbhadh.';
+$Definition['Your request has been sent.'] = 'Your request has been sent. Check your email for further instructions.';
 $Definition['You were added to a conversation.'] = 'Chuir {InsertUserID,user} {NotifyUserID,you} ri <a href="{Url,htmlencode}">còmhradh</a>.';

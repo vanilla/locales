@@ -7,7 +7,6 @@ $Definition['%s is not a valid email address'] = '%s, geçersiz bir mail adresid
 $Definition['%s item in queue'] = '%s öğe sırada';
 $Definition['%s level'] = 'Seviye %s';
 $Definition['%s levels'] = 'Seviye %s';
-$Definition['%s Settings'] = '%s Ayarlar';
 $Definition['%s site(s) found.'] = '%s site(ler) bulunamdı.';
 $Definition['%s unavailable'] = '%s kullanılamaz';
 $Definition['%s user(s) found.'] = '%s kullanıcı(lar) bulunamadı.';
@@ -42,11 +41,11 @@ $Definition['a Badge'] = 'Rozet';
 $Definition['About Vanilla Statistics'] = 'Vanilla İstatistikleri Hakkında';
 $Definition['Add Category'] = 'Kategori ekle';
 $Definition['Added By'] = 'tarafından eklendi';
+$Definition['Add Info &amp; Create Account'] = 'Bilgi Gir &amp; Hesap Oluştur';
 $Definition['Add User'] = 'Kullanıcı Ekle';
-$Definition['Administrator'] = 'Yönetici';
 $Definition['Advanced Settings'] = 'Gelişmiş Ayarlar';
 $Definition['a full year.'] = 'bütün yıl';
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'Senin email adresine şifreni sıfırlamak için talimatları gönderdik.';
+$Definition['Applicant'] = 'Başvuran';
 $Definition['Applied On'] = 'Tarih';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Doğru veritabanı adını girdiğinizden emin misiniz? Belki, yanlış girmiş olabilirsiniz. Veritabanı raporu: <code>%s</code> ';
 $Definition['Are you sure you want to delete %s items forever?'] = '%s öğeyi kalıcı olarak silmek istediğinizden emin misiniz?';
@@ -55,9 +54,6 @@ $Definition['Are you sure you want to delete this badge? This is irreversible an
 $Definition['Are you sure you want to delete this category?'] = 'Bu kategoriyi silmek istediğinizden emin misiniz?';
 $Definition['Are you sure you want to restore %s items?'] = '%s öğeyi geri getirmek istediğinizden emin misiniz?';
 $Definition['Are you sure you want to restore 1 item?'] = 'Öğeyi geri getirmek istediğinizden emin misiniz?';
-$Definition['Authenticate Url'] = 'Onaylama Adresi';
-$Definition['Authentication'] = 'Kimlik Doğrulama';
-$Definition['Authentication URL'] = 'Kimlik Doğrulama Adresi';
 $Definition['Authors may always edit'] = 'Yazarlar her zaman değiştirebilirler';
 $Definition['Authors may never edit'] = 'Yazarlar hiçbir zaman değiştiremezler';
 
@@ -75,11 +71,25 @@ $Definition['Banner Title'] = 'Afiş Başlığı';
 $Definition['Banning'] = 'Yasaklama';
 $Definition['Banning Options'] = 'Yasaklama Ayarları';
 $Definition['Ban Type'] = 'Tip';
-$Definition['Basic'] = 'Temel';
 $Definition['Basic Information'] = 'Temel Bilgiler';
 $Definition['Before'] = 'Önce';
 
 $Definition['Check out my new community!'] = 'Yeni topluluğumu gözden geçir!';
+$Definition['Condition Expression'] = 'değer';
 $Definition['Condition Type'] = 'Tip';
 
+$Definition['DownloadLocalePack'] = 'İndir';
+
 $Definition['Homepage Title'] = 'Anasayfa Başlığı';
+
+$Definition['Notes'] = 'Notlar';
+
+$Definition['Operation By'] = 'Tarafından';
+
+$Definition['Permission.Category'] = 'Kategori';
+
+$Definition['The content you were looking for has been deleted.'] = 'Aradığın içerik silindi.';
+
+$Definition['UserKeep'] = 'Kullanıcıya Ait İçerik Kalsın';
+
+$Definition['Why do you want to join?'] = 'Neden katılmak isteyeceksiniz?';

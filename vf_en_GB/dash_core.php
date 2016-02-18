@@ -8,7 +8,6 @@ $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong wit
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Applied On'] = 'Date';
-$Definition['Authenticate Url'] = 'Authenticate URL';
 
 $Definition['Background Color'] = 'Background Colour';
 $Definition['Ban Item'] = 'Item';

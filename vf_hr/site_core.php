@@ -61,3 +61,13 @@ $Definition['%s new comments since you last read this.'] = '%s novi komentara od
 $Definition['%s new plural'] = '%s novo';
 $Definition['%s Not Found'] = '%s nije pronađeno';
 $Definition['%s not found.'] = '%s nije pronađeno';
+
+$Definition['Activity.CommentMention.FullHeadline'] = '%1$s je spomenuo/la %3$s u %8$s.';
+$Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s je spomenuo/la %3$s u %8$s.';
+$Definition['Activity.Join.FullHeadline'] = '%1$s se pridružio/la.';
+$Definition['Activity.Join.ProfileHeadline'] = '%1$s se pridružio/la.';
+$Definition['Activity.PictureChange.FullHeadline'] = '%1$s je promijenio/la %6$s profilnu fotografiju.';
+$Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s je promijenio/la %6$s profilnu fotografiju.';
+
+$Definition['PageDetailsMessage'] = '%1$s prema %2$s';
+$Definition['PageDetailsMessageFull'] = '%1$s za %2$s o %3$s';

@@ -155,7 +155,6 @@ $Definition['Admin'] = 'Umlawuli';
 $Definition['Administrator'] = 'Umlawuli';
 $Definition['Administrator Activity'] = 'Umsebenzi Womlawuli';
 $Definition['administrators'] = 'abalawuli';
-$Definition['Advanced Stuff'] = 'Izinto Eziseqophelweni Eliphezulu';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Kuvele iphutha elibucayi ngesikhathi kucubungulwa isicelo.<br />Iseva ibuyise impendulo elandelayo: %s';
 $Definition['Agree'] = 'Vuma';
 $Definition['Alert'] = 'Isiqwashisi';
@@ -993,6 +992,7 @@ $Definition['RSVP'] = 'Phendula';
 
 $Definition['Save'] = 'Londoloza';
 $Definition['Save Comment'] = 'Londoloza Ukuphawula';
+$Definition['Saved'] = 'Izinguquko zakho zilondoloziwe.';
 $Definition['Save Draft'] = 'Londoloza Okusalungiswa';
 $Definition['Save Poll'] = 'Londoloza Inhlolovo';
 $Definition['Save Preferences'] = 'Londoloza Okuthandwayo';

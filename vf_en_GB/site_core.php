@@ -1,8 +1,10 @@
 <?php
 
 $Definition['Align center'] = 'Align centre';
+$Definition['Approve Applicant'] = 'Approve';
 
 $Definition['Color'] = 'Colour';
+$Definition['ConnectCreateAccount'] = 'Add Info &amp; Create Account';
 $Definition['Customize'] = 'Customise';
 $Definition['customize your profile now'] = 'customise your profile now';
 $Definition['Customize your Public Profile'] = 'Customise your Public Profile';

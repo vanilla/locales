@@ -25,7 +25,6 @@ $Definition['5 minutes'] = '5 នាទី';
 $Definition['15 minutes'] = '15 នាទី';
 
 $Definition['About Vanilla Statistics'] = 'អំពី​ស្ថិតិ Vanilla';
-$Definition['Accepted'] = 'បាន​ព្រម​ទទួល';
 $Definition['Action'] = 'សកម្មភាព';
 $Definition['Add Info &amp; Create Account'] = 'បន្ថែម​ព័ត៌មាន &amp; បង្កើត​គណនី';
 $Definition['API Status'] = 'ស្ថានភាព API';
@@ -35,5 +34,3 @@ $Definition['Badge Name'] = 'ឈ្មោះ';
 $Definition['Operation By'] = 'ដោយ';
 
 $Definition['Permission.Category'] = 'ចំណាត់​ក្រុម';
-
-$Definition['Saved'] = 'បន្លាស់​ប្ដូរ​របស់​អ្នក​ត្រូវ​បាន​រក្សា​ទុក។';

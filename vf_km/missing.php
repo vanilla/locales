@@ -1,9 +1,5 @@
 <?php
 
-$Definition['%s comment html'] = '%s comment';
-$Definition['%s comments html'] = '%s comments';
-$Definition['%s discussion html'] = '%s discussion';
-$Definition['%s discussions html'] = '%s discussions';
 $Definition['%s view html'] = '%s view';
 $Definition['%s views html'] = '%s views';
 

@@ -6,7 +6,9 @@ $Definition['%s Not Found'] = '%s Tapılmadı';
 $Definition['%s said'] = '%s dedi';
 $Definition['%s said:'] = '%s dedi:';
 $Definition['%s view'] = '%s baxış';
+$Definition['%s view html'] = '%s baxış';
 $Definition['%s views'] = '%s baxış';
+$Definition['%s views html'] = '%s baxış';
 $Definition['%s votes'] = '%s səs';
 
 $Definition['(empty message)'] = '(boş mesaj)';

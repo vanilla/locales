@@ -25,7 +25,6 @@ $Definition['Activity.PictureChange.FullHeadline'] = '%1$s changed %6$s profile 
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s changed %6$s profile picture.';
 $Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
 $Definition['Apply for Membership'] = 'Register';
-$Definition['Approve Applicant'] = 'Approve';
 $Definition['AttemptingSignOut'] = 'You are attempting to sign out. Are you sure you want to %s?';
 
 $Definition['Back to Discussions'] = 'Back to Competitions';
@@ -62,7 +61,6 @@ $Definition['Condition Type'] = 'Type';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['ConnectAccountExists'] = 'You already have an account here.';
 $Definition['ConnectChooseName'] = 'Choose a name to identify yourself on the site.';
-$Definition['ConnectCreateAccount'] = 'Add Info &amp; Create Account';
 $Definition['ConnectExistingPassword'] = 'Enter your existing account password.';
 $Definition['ConnectLeaveBlank'] = 'Leave blank unless connecting to an exising account.';
 $Definition['ConnectName'] = 'Username';
