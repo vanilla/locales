@@ -4,8 +4,8 @@
   'Locale' => 'hr',
   'Name' => 'Hrvatski / Croatian',
   'Description' => 'Official Croatian language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/hr/">here</a>.',
-  'Version' => '2016.02.18p1301',
+  'Version' => '2016.02.18p1401',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/hr/',
-  'License' => 'GPLv2',
+  'License' => 'CC BY-SA 4.0',
 );
