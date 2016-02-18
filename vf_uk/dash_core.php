@@ -95,7 +95,9 @@ $Definition['Garden.Import.InputInstructions'] = 'Введіть Email та па
 $Definition['Get More Applications'] = 'Знайти ще програми';
 $Definition['Get More Plugins'] = 'Знайти ще плагіни';
 $Definition['Get More Themes'] = 'Знайти ще теми';
+$Definition['Getting Started'] = 'Початок';
 
+$Definition['Help &amp; Tutorials'] = 'Допомога та посібники';
 $Definition['Homepage'] = 'Головна сторінка';
 
 $Definition['Import'] = 'Імпорт';
@@ -155,6 +157,7 @@ $Definition['None'] = 'Жоден';
 $Definition['Organize Categories'] = 'Організація категорій';
 $Definition['Or Spamblock For'] = 'Інакше блокувати на';
 $Definition['Other Themes'] = 'Інші теми';
+$Definition['Other Tutorials'] = 'Інші посібники';
 $Definition['Outgoing Email'] = 'Вихідні';
 
 $Definition['Page'] = 'Сторінка';
@@ -190,6 +193,7 @@ $Definition['SMTP Password'] = 'SMTP пароль';
 $Definition['SMTP Port'] = 'SMTP порт';
 $Definition['SMTP Security'] = 'Протокол безпеки SMTP';
 $Definition['SMTP User'] = 'SMTP користувач';
+$Definition['Statistics'] = 'Статистика';
 
 $Definition['Temporary (302)'] = 'Тимчасовий (302)';
 $Definition['Thank You!'] = 'Дякую!';

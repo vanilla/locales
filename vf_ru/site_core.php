@@ -73,10 +73,10 @@ $Definition['%s not found.'] = '
         %s не найден.
 
 ';
-$Definition['%s Point'] = '%s очко';
+$Definition['%s Point'] = '%s балл';
 $Definition['%s point'] = 'Баллов: %s';
-$Definition['%s Points'] = '%s очков';
-$Definition['%s points'] = '%s очков';
+$Definition['%s Points'] = '%s баллов';
+$Definition['%s points'] = '%s баллов';
 $Definition['%s result'] = '%s результат';
 $Definition['%s results'] = '%s результаты';
 $Definition['%s said'] = '%s сказали';
