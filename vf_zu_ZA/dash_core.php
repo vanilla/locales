@@ -13,6 +13,7 @@ $Definition['Ban Type'] = 'Thayipha';
 $Definition['Condition Expression'] = 'Inani';
 $Definition['Condition Type'] = 'Thayipha';
 
+$Definition['default type'] = 'okumisiwe';
 $Definition['DownloadLocalePack'] = 'Ehlisa';
 
 $Definition['Notes'] = 'Amanothi';
@@ -23,6 +24,7 @@ $Definition['Permission.Category'] = 'Isigaba';
 
 $Definition['The content you were looking for has been deleted.'] = 'Okuqukethwe obukubheka kucishiwe.';
 
+$Definition['User Count'] = 'Abasebenzisi';
 $Definition['UserKeep'] = 'Gcina Okuqukethwe Komsebenzisi';
 
 $Definition['Why do you want to join?'] = 'Kungani ufuna ukujoyina?';

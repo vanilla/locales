@@ -23,7 +23,6 @@ $Definition['Condition Field'] = 'Field';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['CreateFile'] = 'Create';
 
-$Definition['default type'] = 'default';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
 
@@ -115,7 +114,6 @@ $Definition['This theme has customizable text.'] = 'This theme has text that you
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
-$Definition['User Count'] = 'Users';
 $Definition['UserDelete'] = 'Remove User Content';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';

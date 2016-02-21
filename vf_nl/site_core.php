@@ -915,6 +915,7 @@ $Definition['Powered by %s'] = 'Aangedreven door %s';
 $Definition['Powered by Vanilla'] = 'Aangedreven door Vanilla';
 $Definition['PreferenceBadgeEmail'] = 'Stel mij op de hoogte als ik een badge ontvang.';
 $Definition['PreferenceBadgePopup'] = 'Stel mij op de hoogte als ik een badge ontvang.';
+$Definition['Preferences'] = 'Voorkeuren';
 $Definition['Preview'] = 'Voorbeeld';
 $Definition['Previous'] = 'Vorige';
 $Definition['Privacy Settings'] = 'Privacyinstellingen';
