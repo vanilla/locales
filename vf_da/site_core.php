@@ -1112,6 +1112,7 @@ Vi forbeholder os retten til at fjerne indhold for hvilken som helst grund eller
 Du skal være mindst 13 år for at bruge denne service.';
 $Definition['Text  Max  Length'] = 'Maksimal længde på tekst';
 $Definition['Thank You!'] = 'Tak!';
+$Definition['The %s has been flagged for moderation.'] = '%sen er blevet markeret til moderering.';
 $Definition['The %s you were looking for could not be found.'] = '%s du søgte på kunne ikke findes.';
 $Definition['the category'] = 'kategorien';
 $Definition['The content you were looking for has been deleted.'] = 'Indholdet du leder efter, er blevet slettet.';

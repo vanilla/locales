@@ -1126,6 +1126,7 @@ $Definition['TermsOfServiceText'] = '이 서비스를 사용함으로써 이 커
 이 서비스를 이용하려면 적어도 13살 이상이어야 합니다.';
 $Definition['Text  Max  Length'] = '텍스트 최대 길이';
 $Definition['Thank You!'] = '감사합니다!';
+$Definition['The %s has been flagged for moderation.'] = '%는 조정을 위해 표시 되었습니다.';
 $Definition['The %s you were looking for could not be found.'] = '당신이 찾고 있는 %s를 찾을 수 없습니다.';
 $Definition['the category'] = '해당 카테고리';
 $Definition['The content you were looking for has been deleted.'] = '보고 계시는 콘텐츠는 삭제되었습니다.';

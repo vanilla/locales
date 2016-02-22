@@ -1052,6 +1052,7 @@ Taglay namin ang karapatan na alisin ang anumang nilalaman para sa anumang dahil
 
 Dapat ay hindi ka bababa sa 13 taong gulang upang gumamit ng serbisyong ito.';
 $Definition['Text  Max  Length'] = 'Maximum na Haba ng Text';
+$Definition['The %s has been flagged for moderation.'] = 'Na-flag ang %s dahil ito ay imo-moderate.';
 $Definition['The %s you were looking for could not be found.'] = 'Hindi mahanap ang %s na hinahanap mo.';
 $Definition['the category'] = 'ang kategoryang ito';
 $Definition['The content you were looking for has been deleted.'] = 'Nabura na ang content na hinahanap mo.';

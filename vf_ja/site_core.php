@@ -1173,6 +1173,7 @@ $Definition['TermsOfServiceText'] = '
 ';
 $Definition['Text  Max  Length'] = 'テキストの最大文字数';
 $Definition['Thank You!'] = 'ありがとうございます！';
+$Definition['The %s has been flagged for moderation.'] = '%sは節度の関係でフラグが立てられました。';
 $Definition['The %s you were looking for could not be found.'] = 'お探しの%sは見つかりませんでした。';
 $Definition['the category'] = 'カテゴリー';
 $Definition['The content you were looking for has been deleted.'] = 'あなたが見ていたコンテンツは削除されました。';

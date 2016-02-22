@@ -1156,6 +1156,7 @@ $Definition['TermsOfServiceText'] = '
 ';
 $Definition['Text  Max  Length'] = 'النص  الحد الاقصى  الطول';
 $Definition['Thank You!'] = 'شكرا لك!';
+$Definition['The %s has been flagged for moderation.'] = '%s وضعت لها علامة، طلباً لإخضاعها للإشراف.';
 $Definition['The %s you were looking for could not be found.'] = ' تعثر العثور على الـ %s الذي كنت تبحث عنه.';
 $Definition['the category'] = 'التصنيف';
 $Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';

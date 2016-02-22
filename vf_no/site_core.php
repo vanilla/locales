@@ -1119,6 +1119,7 @@ $Definition['TermsOfServiceText'] = '
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Text  Max  Length'] = 'Maksimal lengde på tekst';
+$Definition['The %s has been flagged for moderation.'] = '%s har blitt flagget for moderering. ';
 $Definition['The %s you were looking for could not be found.'] = '%s du så etter ble ikke funnet. ';
 $Definition['the category'] = 'kategorien';
 $Definition['The content you were looking for has been deleted.'] = 'Innholdet du søkte etter har blitt slett. ';

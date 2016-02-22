@@ -1150,6 +1150,7 @@ $Definition['TermsOfServiceText'] = '<p> Ви погоджуєтесь, що з�
 <p> Ваш вік повинен бутине молодше 13 років. < / P>';
 $Definition['Text  Max  Length'] = 'Максимальна довжина тексту';
 $Definition['Thank You!'] = 'Дякую!';
+$Definition['The %s has been flagged for moderation.'] = '%s було позначено для модерації.';
 $Definition['The %s you were looking for could not be found.'] = ' %s, що ви шукали, не було знайдено.';
 $Definition['the category'] = 'категорія';
 $Definition['The content you were looking for has been deleted.'] = 'Дані, які ви шукали, було видалено.';

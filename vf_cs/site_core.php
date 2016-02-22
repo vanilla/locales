@@ -1120,6 +1120,7 @@ $Definition['TermsOfServiceText'] = '
 <p>Tuto službu mohou používat pouze osoby starší třinácti let.</p>
 ';
 $Definition['Text  Max  Length'] = 'Text  Max  Délka';
+$Definition['The %s has been flagged for moderation.'] = '%s byl označen k úpravě.';
 $Definition['The %s you were looking for could not be found.'] = '%s, který jsi hledal nemohl být nalezen.';
 $Definition['the category'] = 'této kategorii';
 $Definition['The content you were looking for has been deleted.'] = 'Obsah, který jsi hledal byl vymazán.';

@@ -1134,6 +1134,7 @@ Osoby nieprzestrzegające regulaminu będą najpierw ostrzeżone, a w dalszej ko
 Rejestrując się na forum zobowiązujesz się do przestrzegania niniejszego regulaminu.';
 $Definition['Text  Max  Length'] = 'Maksymalna długość tekstu';
 $Definition['Thank You!'] = 'Dzięki!';
+$Definition['The %s has been flagged for moderation.'] = '%s został oznaczony do zmoderowania. ';
 $Definition['The %s you were looking for could not be found.'] = 'Poszukiwana %s nie została znaleziona.';
 $Definition['the category'] = 'kategoria';
 $Definition['The content you were looking for has been deleted.'] = 'Szukana treść została usunięta.';
