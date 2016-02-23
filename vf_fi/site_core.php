@@ -1198,6 +1198,7 @@ $Definition['Text'] = 'Teksti';
 $Definition['Text  Max  Length'] = 'Tekstin  maksimi  pituus';
 $Definition['Thank You!'] = 'Kiitokset!';
 $Definition['The %s has been deleted.'] = ' %s on poistettu.';
+$Definition['The %s has been flagged for moderation.'] = '%s on merkitty tarkastettavaksi.';
 $Definition['The %s you were looking for could not be found.'] = 'Etsimääsi kohdetta %s ei löytynyt.';
 $Definition['the category'] = 'kategoria';
 $Definition['The content you were looking for has been deleted.'] = 'Etsimäsi sisältö on poistettu.';
