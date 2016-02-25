@@ -1,51 +1,20 @@
 <?php
 
-$Definition['%s comment html'] = '%s comment';
-$Definition['%s comments html'] = '%s comments';
-$Definition['%s discussion html'] = '%s discussion';
-$Definition['%s discussions html'] = '%s discussions';
-$Definition['%s new plural'] = '%s new';
-$Definition['%s view html'] = '%s view';
-$Definition['%s views html'] = '%s views';
-
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
-$Definition['AboutToDelete'] = 'You are about to delete %s.';
-$Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
-$Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s accepted %4$s %8$s.';
-$Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s commented on your %8$s.';
-$Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s commented on your %8$s.';
-$Definition['Activity.Comment'] = 'Comment';
-$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s sent you a %8$s.';
-$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s sent you a %8$s.';
-$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
-$Definition['Apply for Membership'] = 'Register';
-$Definition['Approve Applicant'] = 'Approve';
-$Definition['AttemptingSignOut'] = 'You are attempting to sign out. Are you sure you want to %s?';
 
-$Definition['Back to Discussions'] = 'Back to Competitions';
-$Definition['Badge404'] = 'Badge not found.';
+$Definition['Badge Name'] = 'Name';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
-$Definition['BadgesModuleTitle'] = 'Badges';
-$Definition['BadgesNobody'] = 'Nobody has earned this badge yet.';
-$Definition['Ban.Action'] = 'Ban';
-$Definition['BanReason.1'] = 'Banned by a community manager.';
-$Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
-$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
-$Definition['BanReason.8'] = 'Banned by warnings.';
+$Definition['Ban Item'] = 'Item';
+$Definition['Ban Type'] = 'Type';
 
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
-$Definition['CategoriesShowFollowed'] = 'Only show followed categories';
-$Definition['CategoriesShowUnfollowed'] = 'Show hidden categories';
-$Definition['CategoriesViewingAll'] = 'You are currently viewing all categories.';
-$Definition['CategoriesViewingFollowed'] = 'You are currently only viewing categories that you follow.';
-$Definition['CategoryID'] = 'Category';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
@@ -53,31 +22,14 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
-$Definition['Comment in'] = 'in';
-$Definition['Commenting as %1$s (%2$s)'] = 'Commenting as %1$s <span class="SignOutWrap">(%2$s)</span>';
+$Definition['Condition Expression'] = 'Value';
 $Definition['Condition Field'] = 'Field';
+$Definition['Condition Type'] = 'Type';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
-$Definition['ConnectAccountExists'] = 'You already have an account here.';
-$Definition['ConnectChooseName'] = 'Choose a name to identify yourself on the site.';
-$Definition['ConnectCreateAccount'] = 'Add Info &amp; Create Account';
-$Definition['ConnectExistingPassword'] = 'Enter your existing account password.';
-$Definition['ConnectLeaveBlank'] = 'Leave blank unless connecting to an exising account.';
-$Definition['ConnectName'] = 'Username';
-$Definition['ConnectRegisteredName'] = 'Your registered username: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 $Definition['CreateFile'] = 'Create';
 
-$Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
-$Definition['Date.DefaultDayFormat'] = '%B %e';
-$Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
-$Definition['Date.DefaultYearFormat'] = '%B %Y';
-$Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
-$Definition['default type'] = 'default';
-$Definition['Define Thumbnail'] = 'Click and drag across the picture to define your thumbnail.';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
-$Definition['Deny Applicant'] = 'Deny';
 $Definition['DownloadLocalePack'] = 'Download';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
@@ -267,7 +219,6 @@ $Definition['PermissionRequired.Javascript'] = 'You need to enable javascript to
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
-$Definition['Post Discussion'] = 'Ask Question';
 $Definition['Posts.Plural: %s'] = 'Posts: %s';
 $Definition['Posts.Singular: %s'] = 'Posts: %s';
 $Definition['PreferenceBadgeEmail'] = 'Notify me when I earn a badge.';
@@ -288,7 +239,6 @@ $Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plu
 $Definition['Ranks.NotificationFormat'] = 'Congratulations! You\'ve been promoted to {Data.Name,plaintext}.';
 $Definition['RecipientUserID'] = 'recipient';
 $Definition['Record Content'] = 'Content';
-$Definition['Register with %s'] = 'Register';
 $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. Sent from {/,exurl}.';
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
 $Definition['Report Notes'] = 'Notes';
@@ -358,7 +308,6 @@ $Definition['This is the administrative dashboard for your new community.'] = 'T
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
-$Definition['Transport error: %s'] = 'A fatal error occurred while processing the request.<br />The server returned the following response: %s';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Unanswered Questions'] = 'Unanswered';
@@ -368,6 +317,7 @@ $Definition['User Count'] = 'Users';
 $Definition['UserDelete'] = 'Remove User Content';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
+$Definition['UserKeep'] = 'Keep User Content';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
 $Definition['UsernameError'] = 'Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.';
 $Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
