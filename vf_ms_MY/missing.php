@@ -33,38 +33,6 @@ $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to k
 $Definition['DownloadLocalePack'] = 'Download';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
-$Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
-$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
-$Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
-$Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
-$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
-$Definition['EmailConfirmEmail'] = 'You need to confirm your email address before you can continue. Please confirm your email address by clicking on the following link: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
-$Definition['EmailFooter'] = '
-Have a great day!';
-$Definition['EmailHeader'] = 'Hello {User.Name}!
-';
-$Definition['EmailInvitation'] = 'Hello!
-
-%1$s has invited you to join %2$s. If you want to join, you can do so by clicking this link:
-
-  %3$s';
-$Definition['EmailMembershipApproved'] = 'Hello %1$s,
-
-You have been approved for membership. Sign in now at the following link:
-
-  %2$s';
-$Definition['EmailNotification'] = '%1$s
-
-Follow the link below to check it out:
-%2$s
-
-Have a great day!';
-$Definition['EmailPassword'] = '%2$s has reset your password at %3$s. Your login credentials are now:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s';
-$Definition['Email Source'] = 'Email';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -74,41 +42,9 @@ Follow the link below to check it out:
 %2$s
 
 Have a great day!';
-$Definition['EmailWelcome'] = '%2$s has created an account for you at %3$s. Your login credentials are:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'You have successfully connected to {Title}. Here is your information:
-
-  Username: {User.Name}
-  Connected With: {ProviderName}
-
-You can access the site at {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'You have successfully registered for an account at {Title}. Here is your information:
-
-  Username: {User.Name}
-  Email: {User.Email}
-
-You can access the site at {/,exurl,domain}.';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
-$Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
-$Definition['ErrorBadInvitationCode'] = 'The invitation code you supplied is not valid.';
-$Definition['ErrorCredentials'] = 'Sorry, no account could be found related to the email/username and password you entered.';
-$Definition['ErrorPermission'] = 'Sorry, permission denied.';
-$Definition['ErrorPluginDisableRequired'] = 'You cannot disable the {0} plugin because the {1} plugin requires it in order to function.';
-$Definition['ErrorPluginEnableRequired'] = 'This plugin requires that the {0} plugin be enabled before it can be enabled itself.';
-$Definition['ErrorPluginVersionMatch'] = 'The enabled {0} plugin (version {1}) failed to meet the version requirements ({2}).';
-$Definition['ErrorRecordNotFound'] = 'The requested record could not be found.';
-$Definition['ErrorTermsOfService'] = 'You must agree to the terms of service.';
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
@@ -117,34 +53,17 @@ $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
-$Definition['FollowOnly'] = 'Follow the link below to check it out:';
-$Definition['Format his'] = 'his';
-$Definition['Format their'] = 'their';
-$Definition['Format You'] = 'You';
-$Definition['Format you'] = 'you';
-$Definition['Format Your'] = 'Your';
 
-$Definition['Garden.Email.SupportAddress'] = 'Support email';
-$Definition['Garden.Email.SupportName'] = 'Support name';
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.Registration.DefaultRoles'] = 'default role';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
-$Definition['Garden.Title'] = 'Banner Title';
-$Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.';
-$Definition['GroupEmptyDiscussions'] = 'Awfully quiet in here, isn&rsquo;t it?';
-$Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
-$Definition['Group Leaders'] = 'Leaders';
-$Definition['Group Members'] = 'Members';
-$Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
-$Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';

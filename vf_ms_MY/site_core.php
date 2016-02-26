@@ -74,12 +74,12 @@ $Definition['%s Point'] = '%s Mata';
 $Definition['%s point'] = '%s mata';
 $Definition['%s Points'] = '%s Mata';
 $Definition['%s points'] = '%s mata';
-$Definition['%s posts'] = '%s pendapat';
+$Definition['%s posts'] = '%s catatan';
 $Definition['%s result'] = '%s keputusan';
 $Definition['%s results'] = '%s keputusan';
 $Definition['%s said'] = '%s berkata';
 $Definition['%s said:'] = '%s berkata:';
-$Definition['%s Settings'] = '%s Seting';
+$Definition['%s Settings'] = '%s Tetapan';
 $Definition['%s tag(s) found.'] = '%s tag dijumpai.';
 $Definition['%s tags in the system'] = '%s tag dalam sistem';
 $Definition['%s Up Votes'] = '%s Undian Pujian';
@@ -141,7 +141,7 @@ $Definition['Add'] = 'Tambah';
 $Definition['Add %s'] = 'Tambah %s';
 $Definition['Add a Comment'] = 'Tambah Komen';
 $Definition['Add a Message'] = 'Tambah Komen';
-$Definition['Add another poll option ...'] = 'Tambah pilihan suara lain ...';
+$Definition['Add another poll option ...'] = 'Tambah pilihan undi lain ...';
 $Definition['Add a Profile Picture'] = 'Tambah Gambar Profil';
 $Definition['Add a time?'] = 'Tambah masa?';
 $Definition['Add a Warning'] = 'Tambah Amaran';
@@ -391,6 +391,203 @@ $Definition['Delete User Content'] = 'Padam Kandungan Pengguna';
 $Definition['Delete User Forever'] = 'Padam Pengguna Selamanya';
 $Definition['Deny'] = 'Menafikan';
 $Definition['Deny Applicant'] = 'Menafikan';
+$Definition['Did this answer the question?'] = 'Adakah ini menjawab soalan?';
+$Definition['Disagree'] = 'Tidak Setuju';
+$Definition['Discussion'] = 'Perbincangan';
+$Definition['discussion'] = 'perbincangan';
+$Definition['Discussion Board'] = 'Papan Perbincangan';
+$Definition['Discussions'] = 'Perbincangan';
+$Definition['discussions'] = 'perbincangan';
+$Definition['Discussions Page'] = 'Laman Perbincangan';
+$Definition['Discussion Title'] = 'Tajuk Perbincangan';
+$Definition['Dislike'] = 'Benci';
+$Definition['Dismiss'] = 'Buang';
+$Definition['Documentation'] = 'Pendokumenan';
+$Definition['Don\'t announce.'] = 'Jangan umum.';
+$Definition['Don\'t fold quotes'] = 'Petikan mengenai keteguhan';
+$Definition['Don\'t have an account? %s'] = 'Tidak mempunyai akaun? %s';
+$Definition['Download'] = 'Muat turun';
+$Definition['Download the sounds as MP3'] = 'Muat turun bunyi sebagai MP3';
+$Definition['Do you want to expire or delete this warning?'] = 'Adakah anda ingin meluputkan atau memadam amaran ini?';
+$Definition['Draft saved at %s'] = 'Draf disimpan di %s';
+$Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Seret di sekeliling dan mengubah saiz kotak segi empat di bawah untuk menentukan ikon lakaran kecil anda.';
+$Definition['Drop image/file'] = 'Lepaskan imej / fail';
+
+$Definition['Earned'] = 'Memperoleh';
+$Definition['Edit Account'] = 'Edit Akaun';
+$Definition['Edit Comment'] = 'Edit Komen';
+$Definition['Edit Discussion'] = 'Edit Perbincangan';
+$Definition['edited %s'] = 'telah mengedit %s';
+$Definition['Edited %s by %s.'] = '%s telah diedit oleh %s.  ';
+$Definition['Editing'] = 'Mengedit';
+$Definition['Edit My Account'] = 'Edit Akaun Saya';
+$Definition['Edit My Profile'] = 'Edit Profil Saya';
+$Definition['Edit My Thumbnail'] = 'Edit Lakaran Kecil Saya';
+$Definition['editor.BBCodeHelpText'] = 'Anda boleh menggunakan  <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> dalam catatan anda.';
+$Definition['editor.HtmlHelpText'] = 'Anda boleh menggunakan <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> dalam catatan anda.';
+$Definition['editor.MarkdownHelpText'] = 'Anda boleh menggunakan <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> dalam catatan anda..';
+$Definition['editor.TextHelpText'] = 'Anda menggunakan teks biasa dalam catatan anda.';
+$Definition['editor.WysiwygHelpText'] = 'Anda sedang menggunakan <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> dalam catatan anda.';
+$Definition['Edit Preferences'] = 'Edit Keutamaan';
+$Definition['Edit Profile'] = 'Edit Profil';
+$Definition['Edit Thumbnail'] = 'Edit Lakaran Kecil';
+$Definition['Eighth Anniversary'] = 'Ulang Tahun kelapan';
+$Definition['Email'] = 'E-mel';
+$Definition['Email/Username'] = 'E-mel/Nama Pengguna';
+$Definition['EmailConfirmEmail'] = 'Anda perlu mengesahkan alamat e-mel anda sebelum anda boleh meneruskan. Sila klik pada pautan berikut untuk mengesahkan alamat e-mel anda: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['EmailFooter'] = '
+ Semoga hari anda menyeronokkan!';
+$Definition['EmailHeader'] = 'Hello {User.Name}!
+';
+$Definition['EmailInvitation'] = 'Hello!
+
+%1$s telah menjemput anda untuk menyertai %2$s. Jika anda ingin menyertai, anda boleh klik pautan ini untuk berbuat demikian:
+
+%3$s';
+$Definition['EmailMembershipApproved'] = 'Hello %1$s,
+
+Keahlian anda telah diluluskan. Log masuk sekarang melalui pautan yang berikut:
+
+%2$s';
+$Definition['EmailNotification'] = '%1$s
+
+Gunakan pautan di bawah untuk menerokainya:
+%2$s
+
+Semoga hari anda menyeronokkan!';
+$Definition['Email Notifications'] = 'Pemberitahuan E-mel';
+$Definition['Email Or Username'] = 'E-mel Atau Nama Pengguna';
+$Definition['EmailPassword'] = '%2$s telah menetapkan semula kata laluan anda di %3$s. Butiran log masuk anda ialah:
+
+E-mel: %6$s
+Kata Laluan: %5$s
+Url: %4$s';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mel yang dihantar daripada permohonan itu akan ditangani mengikut nama dan alamat berikut';
+$Definition['Email Source'] = 'E-mel';
+$Definition['Email Unavailable'] = 'E-mel Tidak tersedia';
+$Definition['Email visible to other users'] = 'E-mel boleh dilihat oleh pengguna lain';
+$Definition['EmailWelcome'] = '%2$s telah mencipta akaun untuk anda di %3$s. Butiran log masuk anda ialah:
+
+E-mel: %6$s
+Kata Laluan: %5$s
+Url: %4$s';
+$Definition['EmailWelcomeConnect'] = 'Anda telah bersambung dengan {Title}. Inilah maklumat untuk anda:
+
+Nama Pengguna: {User.Name}
+Bersambung Dengan: {ProviderName}
+
+Anda boleh mengakses laman di {/,exurl,domain}.';
+$Definition['EmailWelcomeRegister'] = 'Anda telah mendaftarkan akaun di {Title}. Inilah maklumat untuk anda:
+
+Nama Pengguna: {User.Name}
+E-mel: {User.Email}
+
+Anda boleh mengakses laman di {/,exurl,domain}.';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">Baca cerita yang lengkap di sini</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedNoBodyFormat'] = '{Url}';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">Baca cerita lengkap di sini</a></p><div class="ClearFix"></div></div>';
+$Definition['Enabled'] = 'Diaktifkan';
+$Definition['End time?'] = 'Masa tamat?';
+$Definition['English'] = 'Bahasa Inggeris';
+$Definition['Enter your Email address'] = 'Masukkan alamat E-mel anda';
+$Definition['Enter your email address'] = 'Masukkan alamat e-mel anda';
+$Definition['Enter your Email address or username'] = 'Masukkan alamat e-mel atau nama pengguna anda';
+$Definition['Enter Your OpenID Url'] = 'Masukkan OpenID Url Anda';
+$Definition['Erase User Content'] = 'Padam Kandungan Pengguna';
+$Definition['Error'] = 'Ralat';
+$Definition['ErrorBadInvitationCode'] = 'Kod jemputan yang anda dibekalkan tidak sah.';
+$Definition['ErrorCredentials'] = 'Maaf, tiada akaun didapati berkaitan dengan e-mel / nama pengguna dan kata laluan yang anda masukkan.';
+$Definition['ErrorPermission'] = 'Maaf, kebenaran dinafikan.';
+$Definition['ErrorPluginDisableRequired'] = 'Anda tidak boleh mematikan plugin {0} kerana plugin {1} memerlukannya untuk berfungsi.';
+$Definition['ErrorPluginEnableRequired'] = 'Plugin ini memerlukan plugin {0} diaktifkan sebelum ia dapat diaktifkan sendiri.';
+$Definition['ErrorPluginVersionMatch'] = 'Plugin {0} (versi {1}) yang diaktifkan gagal untuk memenuhi syarat-syarat versi ({2}).';
+$Definition['ErrorRecordNotFound'] = 'Rekod yang diminta tidak dapat dijumpai.';
+$Definition['ErrorTermsOfService'] = 'Anda mesti bersetuju dengan syarat-syarat perkhidmatan.';
+$Definition['Event'] = 'Peristiwa';
+$Definition['Event Details'] = 'Butiran Peristiwa';
+$Definition['Events'] = 'Peristiwa';
+$Definition['everyone'] = 'setiap orang';
+$Definition['Everything'] = 'Semua';
+$Definition['Expired'] = 'Tamat';
+$Definition['Expires'] = 'Tamat';
+
+$Definition['Failed to delete group.'] = 'Gagal untuk memadam kumpulan.';
+$Definition['Failed to find discussion for commenting.'] = 'Gagal untuk mencari perbincangan komen.';
+$Definition['Failed to load the poll.'] = 'Gagal untuk memuatkan undi.';
+$Definition['Feedback'] = 'Maklum Balas';
+$Definition['Female'] = 'Perempuan';
+$Definition['Fifth Anniversary'] = 'Ulang Tahun Kelima';
+$Definition['FileName'] = 'NamaFail';
+$Definition['Filename'] = 'Nama fail';
+$Definition['FileSize'] = 'SaizFail';
+$Definition['File Size'] = 'Saiz Fail';
+$Definition['First Anniversary'] = 'Ulang Tahun Pertama';
+$Definition['First Comment'] = 'Komen Pertama';
+$Definition['Flag'] = 'Bendera';
+$Definition['Folders'] = 'Folder';
+$Definition['Follow'] = 'Ikuti';
+$Definition['Follow %s'] = 'Ikuti %s';
+$Definition['Followed by %d people'] = 'Diikuti oleh %d orang';
+$Definition['Followed by %d person'] = 'Diikuti oleh %d orang';
+$Definition['followed categories'] = 'kategori yang diikuti';
+$Definition['Following %d people'] = 'Sedang mengikuti %d orang';
+$Definition['Following %d person'] = 'Sedang mengikuti %d orang';
+$Definition['FollowOnly'] = 'Gunakan pautan di bawah untuk menerokainya:';
+$Definition['Follows'] = 'Ikuti';
+$Definition['Forgot?'] = 'Lupa?';
+$Definition['Forgot your password?'] = 'Lupa kata laluan anda?';
+$Definition['Format his'] = 'dia';
+$Definition['Format their'] = 'mereka';
+$Definition['Format You'] = 'Anda';
+$Definition['Format you'] = 'anda';
+$Definition['Format Your'] = 'Anda';
+$Definition['Forum'] = 'Foru';
+$Definition['Forums'] = 'Forum';
+$Definition['Forum Signature Settings'] = 'Tetapan Tandatangan Forum';
+$Definition['Fourth Anniversary'] = 'Ulang Tahun Keempat';
+$Definition['Friends'] = 'Rakan-rakan';
+$Definition['From'] = 'Dari';
+$Definition['Full Site'] = 'Laman Web Lengkap';
+
+$Definition['Garden.Email.SupportAddress'] = 'E-mel Sokongan';
+$Definition['Garden.Email.SupportName'] = 'Nama sokongan';
+$Definition['Garden.Registration.DefaultRoles'] = 'peranan lalai';
+$Definition['Garden.Title'] = 'Tajuk Rentang';
+$Definition['Gender'] = 'Jantina';
+$Definition['General'] = 'Umum';
+$Definition['Generate import SQL only'] = 'Menjana import SQL sahaja';
+$Definition['Generate Password'] = 'Menjana Kata Laluan';
+$Definition['Get an audio challenge'] = 'Dapatkan cabaran audio';
+$Definition['Get a new challenge'] = 'Dapatkan cabaran baru';
+$Definition['Get a visual challenge'] = 'Dapatkan cabaran visual';
+$Definition['Give'] = 'Beri';
+$Definition['Give a Badge to %s'] = 'Berikan Lencana kepada %s';
+$Definition['Give Badge'] = 'Berikan Lencana';
+$Definition['Given'] = 'Diberi';
+$Definition['Go'] = 'Pergi';
+$Definition['Group'] = 'Kumpula';
+$Definition['group'] = 'kumpulan';
+$Definition['GroupEmptyAnnouncements'] = 'Perkara penting akan pergi ke sini satu hari.';
+$Definition['GroupEmptyDiscussions'] = 'Melampau tenang di sini, kan?';
+$Definition['GroupEmptyEvents'] = 'Cheh, tiada aktiviti yang akan datang.';
+$Definition['Group Info'] = 'Membentuk Kumpulan dengan';
+$Definition['Group Leaders'] = 'Pemimpin-pemimpin';
+$Definition['Group Members'] = 'Ahli-ahli';
+$Definition['GroupMembersEmpty'] = 'Belum ada peserta. Sebarkan berita ini!';
+$Definition['Group Options'] = 'Pilihan Kumpulan';
+$Definition['Groups'] = 'Kumpulan-kumpulan';
+$Definition['groups'] = 'kumpulan-kumpulan';
+$Definition['Guest'] = 'Tetamu';
+$Definition['GuestModule.Message'] = 'Ia kelihatan anda baru datang ke sini. Jika anda ingin terlibat, klik salah satu butang ini!';
+
+$Definition['Hang on a sec while we sign you out.'] = 'Sila tunggu sekejap sementara kami log anda keluar.';
+$Definition['Have a great day!'] = 'Semoga hari anda menyeronokkan!';
+$Definition['he'] = 'dia';
+$Definition['Heading'] = 'Menuju';
 
 $Definition['in'] = 'dalam';
 
