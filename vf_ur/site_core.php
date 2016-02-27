@@ -490,28 +490,37 @@ $Definition['EmailWelcomeConnect'] = 'آپ نے کا کامیابی سے {Title}
 کے ساتھ کنیکٹ: {ProviderName}
 
 آپ {/,exurl,domain} پر سائیٹ رسائی کر سکتے ہیں۔';
-$Definition['EmailWelcomeRegister'] = 'آپ {عنوان} میں ایک اکاؤنٹ کے لیے کامیابی سے رجسٹر ہیں ۔ آپ کی معلومات یہاں ہے: صارف کا نام: {User.Name} ای میل: {User.Email} آپ رسائی کر سکتے ہیں کہ سائٹ پر {/، ایاورل، ڈومین} ۔';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent"> {تصویر} <p>{اقتباس}</p> <strong>{عنوان}</strong> <p><a href="{Url}"> پڑھ مکمل کہانی یہاں</a></p> <div class="ClearFix"></div></div>';
+$Definition['EmailWelcomeRegister'] = 'آپ نے {Title} میں ایک اکاؤنٹ کے لیے کامیابی سے رجسٹر کیا۔ آپ کی معلومات یہاں ہے:
+
+صارف کا نام: {User.Name}
+ای میل: {User.Email}
+
+آپ یہاں سے سائٹ تک رسائی حاصل کرسکتے ہیں {/,exurl,domain}۔';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent"> {Image} <p>{Excerpt}</p>
+ <strong>{Title}</strong>
+ <p><a href="{Url}">یہاں مکمل کہانی پڑھیں</a></p> <div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent"> {تصویر} <p>{اقتباس}</p> <strong>{عنوان}</strong> <p><a href="{Url}"> پڑھ مکمل کہانی یہاں</a></p> <div class="ClearFix"></div></div>';
-$Definition['Emoji'] = 'ایموجا';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}">مکمل تحریر یہاں پڑھیں</a></p><div class="ClearFix"></div></div>';
+$Definition['Emoji'] = 'ایموجی';
 $Definition['Enabled'] = 'اہل';
 $Definition['End time?'] = 'عرصہ اختتام؟';
 $Definition['English'] = 'انگريزی';
-$Definition['Enter your Email address'] = 'آپ کا ای میل ایڈریس داخل کریں';
-$Definition['Enter your email address'] = 'آپ کا ای میل ایڈریس داخل کریں';
-$Definition['Enter your Email address or username'] = 'آپ کا ای میل ایڈریس یا صارف نام داخل کریں';
-$Definition['Enter Your OpenID Url'] = 'آپ اوپاناد Url داخل کریں';
+$Definition['Enter your Email address'] = 'اپنا ای میل ایڈریس داخل کریں';
+$Definition['Enter your email address'] = 'اپنا ای میل ایڈریس داخل کریں';
+$Definition['Enter your Email address or username'] = 'اپنا ای میل ایڈریس یا صارف نام داخل کریں';
+$Definition['Enter Your OpenID Url'] = 'اپنی OpenID Url داخل کریں';
 $Definition['Erase User Content'] = 'صارف کے مشمولات مٹائیں';
 $Definition['Error'] = 'نقص';
-$Definition['ErrorBadInvitationCode'] = 'آپ مہیا کئے، دعوت ضابطہ جائز نہیں ہے ۔';
-$Definition['ErrorCredentials'] = 'معاف کیجئے گا، کوئی اکاؤنٹ کے ای میل/صارف نام اور پاس ورڈ داخل کرنے سے متعلق نہیں مل سکی ۔';
-$Definition['ErrorPermission'] = 'معاف کیجئے گا، اجازت نہیں دی ۔';
+$Definition['ErrorBadInvitationCode'] = 'آپ کا مہیا کردہ دعوت کوڈ درست نہیں ہے۔';
+$Definition['ErrorCredentials'] = 'معاف کیجئے گا، آپ کے داخل کردہ ای میل/صارف نام اور پاس ورڈ سے متعلق کوئی اکاؤنٹ نہیں مل سکا۔';
+$Definition['ErrorPermission'] = 'معاف کیجئے گا، اجازت نہیں دی۔';
 $Definition['ErrorPluginDisableRequired'] = '{1} پلگ ان اس فعل کے لئے کی ضرورت ہے کیونکہ آپ {0} پلگ ان کو نااہل نہیں کر سکتا ۔';
-$Definition['ErrorPluginEnableRequired'] = 'اس پلگ ان کی ضرورت ہے کہ یہ خود کو اہل بنا سکنے سے قبل کو {0} پلگ ان اہل ہو ۔';
-$Definition['ErrorPluginVersionMatch'] = 'اہل {0} پلگ ان (ورژن {1}) ورژن ({2}) ضروریات کو پورا کرنے میں ناکام رہا ۔';
-$Definition['ErrorRecordNotFound'] = 'درخواست کردہ ریکارڈ نہیں مل سکا ۔';
-$Definition['ErrorTermsOfService'] = 'آپ کی خدمت کی شرائط کو اتفاق کرنا چاہیے ۔';
+$Definition['ErrorPluginEnableRequired'] = 'اس پلگ ان کی ضرورت ہے کہ یہ خود کو اہل بنا سکے اس سے قبل {0} پلگ ان فعال ہونا چاہئے۔';
+$Definition['ErrorPluginVersionMatch'] = 'اہل {0} پلگ ان (ورژن {1}) ورژن ({2}) کی ضروریات کو پورا کرنے میں ناکام رہا۔';
+$Definition['ErrorRecordNotFound'] = 'درخواست کردہ ریکارڈ نہیں مل سکا۔';
+$Definition['ErrorTermsOfService'] = 'آپ کو خدمت کی شرائط سے اتفاق کرنا چاہیے۔';
 $Definition['Event'] = 'تقریب';
 $Definition['Event Details'] = 'واقعہ کی تفصیلات';
 $Definition['Events'] = 'واقعات';
@@ -520,15 +529,14 @@ $Definition['Everything'] = 'ہر چیز';
 $Definition['Expired'] = 'مدت ختم ہو گئی';
 $Definition['Expires'] = 'زاید میعاد از';
 
-$Definition['Failed to delete group.'] = 'گروپ کو حذف کرنے میں ناکام رہا ۔';
-$Definition['Failed to find discussion for commenting.'] = 'تبصرہ کے لیے بحث کو تلاش کرنے میں ناکام رہا ۔';
-$Definition['Failed to load the poll.'] = 'سروے کے مطابق لوڈ نہیں کر سکا ۔';
+$Definition['Failed to delete group.'] = 'گروپ کو حذف کرنے میں ناکام رہا۔';
+$Definition['Failed to find discussion for commenting.'] = 'تبصرہ کے لیے بحث کو تلاش کرنے میں ناکام رہا۔';
+$Definition['Failed to load the poll.'] = 'پول لوڈ نہیں کر سکا۔';
 $Definition['Feedback'] = 'آپ کی رائے';
-$Definition['Female'] = 'مادہ';
+$Definition['Female'] = 'عورت';
 $Definition['Fifth Anniversary'] = 'پانچویں سالگرہ';
 $Definition['FileName'] = 'نام مسل';
 $Definition['Filename'] = 'نام مسل';
-$Definition['FileSize'] = 'فالیسای';
 $Definition['File Size'] = 'فائل کا سائز';
 $Definition['Find your account information below.'] = 'اپنے اکاؤنٹ کی معلومات نیچے تلاش کریں ۔';
 $Definition['First Anniversary'] = 'پہلی برسی';
@@ -538,18 +546,18 @@ $Definition['Folder'] = 'پوشہ';
 $Definition['Folders'] = 'پوشے';
 $Definition['Follow'] = 'کی پیروی کریں';
 $Definition['Follow %s'] = '%S کی پیروی کریں';
-$Definition['Followed by %d people'] = '%D لوگوں کی طرف سے پیروی';
-$Definition['Followed by %d person'] = '%D شخص کی طرف سے پیروی';
-$Definition['followed categories'] = 'پیروی زمرہ جات';
-$Definition['Following %d people'] = 'مندرجہ ذیل %d لوگ';
-$Definition['Following %d person'] = 'درج ذیل %d شخص';
-$Definition['FollowOnly'] = 'اسے باہر کی جانچ پڑتال کے لیے نیچے ربط کی پیروی کریں:';
-$Definition['Follows'] = 'مندرجہ ذیل ہے';
+$Definition['Followed by %d people'] = '%d لوگوں کی طرف سے پیروی';
+$Definition['Followed by %d person'] = '%d شخص کی طرف سے پیروی';
+$Definition['followed categories'] = 'پیروی کردہ زمرہ جات';
+$Definition['Following %d people'] = '%d لوگوں کی پیروی کر رہا ہے';
+$Definition['Following %d person'] = '%d شخص کی پیروی کر رہا ہے';
+$Definition['FollowOnly'] = 'اسے جانچ پڑتال کرنے کے لیے نیچے ربط کی پیروی کریں:';
+$Definition['Follows'] = 'پیروی کرتا ہے';
 $Definition['Forgot?'] = 'بھول گئے ہیں؟';
-$Definition['Forgot your password?'] = 'آپ کا پاس ورڈ بھول گئے ہیں؟';
+$Definition['Forgot your password?'] = 'اپنا پاس ورڈ بھول گئے ہیں؟';
 $Definition['Format'] = 'وضع';
-$Definition['Format his'] = 'اپنی';
-$Definition['Format their'] = 'ان';
+$Definition['Format his'] = 'اس کی';
+$Definition['Format their'] = 'ان کا';
 $Definition['Format You'] = 'آپ';
 $Definition['Format you'] = 'آپ';
 $Definition['Format Your'] = 'آپ';
@@ -561,29 +569,29 @@ $Definition['Friends'] = 'دوستوں';
 $Definition['From'] = 'سے';
 $Definition['Full Site'] = 'مکمل سائٹ';
 
-$Definition['Garden.Email.SupportAddress'] = 'ای میل کی حمایت';
+$Definition['Garden.Email.SupportAddress'] = 'سپورٹ ای میل';
 $Definition['Garden.Email.SupportName'] = 'حمایت کا نام';
 $Definition['Garden.Registration.DefaultRoles'] = 'طے شدہ کردار';
 $Definition['Garden.Title'] = 'بینر عنوان';
 $Definition['Gender'] = 'صنف';
 $Definition['General'] = 'عمومی';
-$Definition['Generate import SQL only'] = 'تخلیق صرف SQL درآمد کریں';
+$Definition['Generate import SQL only'] = 'صرف SQL درآمد تخلیق کریں';
 $Definition['Generate Password'] = 'پاس ورڈ کی تخلیق';
 $Definition['Get an audio challenge'] = 'ایک آڈیو چیلنج حاصل کریں';
 $Definition['Get a new challenge'] = 'ایک نیا چیلنج حاصل کریں';
 $Definition['Get a visual challenge'] = 'ایک بصری چیلنج حاصل کریں';
 $Definition['Give'] = 'دینا';
-$Definition['Give a Badge to %s'] = '%S پر ایک بلا دے';
-$Definition['Give Badge'] = 'بلا دے';
+$Definition['Give a Badge to %s'] = '%s پر ایک بلا دیں';
+$Definition['Give Badge'] = 'بلا دیں';
 $Definition['Given'] = 'دیا';
-$Definition['Go'] = 'جانا';
+$Definition['Go'] = 'جائیں';
 $Definition['Group'] = 'گروپ';
 $Definition['group'] = 'گروپ';
-$Definition['GroupEmptyAnnouncements'] = 'اہم چیزیں یہاں ایک دن جائیں گے ۔';
-$Definition['GroupEmptyDiscussions'] = 'یہاں میں بہت پرسکون، نہیں ہے؟';
+$Definition['GroupEmptyAnnouncements'] = 'اہم چیزیں یہاں ایک دن جائیں گی۔';
+$Definition['GroupEmptyDiscussions'] = 'یہاں بہت پرسکون، نہ&rsquo;یں ہے؟';
 $Definition['GroupEmptyEvents'] = 'و سنیپ کریں، کوئی وقوعات نہیں آ رہے ہیں ۔';
 $Definition['Group Info'] = 'گروپ کی معلومات';
-$Definition['Group Leaders'] = 'رہنماؤں';
+$Definition['Group Leaders'] = 'لیڈران';
 $Definition['Group Members'] = 'ارکان';
 $Definition['GroupMembersEmpty'] = 'کوئی بھی ابھی تک ملا ۔ لفظ پھیل گئی!';
 $Definition['Group Options'] = 'گروپ کے اختیارات';
