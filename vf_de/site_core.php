@@ -660,7 +660,7 @@ $Definition['It looks like you\'re new here. If you want to get involved, click 
 
 $Definition['Jail'] = 'Gefängnis';
 $Definition['Jailed users have reduced abilities.'] = 'Gefangene Benutzer haben verringerte Rechte.';
-$Definition['Join %s'] = 'Beutreten zu %s ';
+$Definition['Join %s'] = '%s beitreten';
 $Definition['Joined'] = 'Beigetreten';
 $Definition['Joined %s'] = 'Ist %s beigetreten';
 $Definition['Join this Community Now'] = 'Jetzt gleich der Community beitreten';
