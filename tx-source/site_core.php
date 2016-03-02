@@ -1372,7 +1372,7 @@ $Definition['Vote'] = 'Vote';
 $Definition['Vote Down'] = 'Vote Down';
 $Definition['Votes'] = 'Votes';
 $Definition['Vote Up'] = 'Vote Up';
-$Definition['Voting for the idea is now %s.'] = 'Voting for the idea is now %s.';
+$Definition['Voting for the idea is %s.'] = 'Voting for the idea is %s.';
 
 $Definition['wall'] = 'wall';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'Want to take part in this discussion? Click one of these:';
