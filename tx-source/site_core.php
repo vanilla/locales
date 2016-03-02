@@ -829,6 +829,7 @@ $Definition['No Roles'] = 'No Roles';
 $Definition['Not Attending (%s)'] = 'Not Attending (%s)';
 $Definition['Not Authorized (401)'] = 'Not Authorized (401)';
 $Definition['Not Found (404)'] = 'Not Found (404)';
+$Definition['Notes'] = 'Notes';
 $Definition['Notice'] = 'Notice';
 $Definition['Notification'] = 'Notification';
 $Definition['Notification Preferences'] = 'Notification Preferences';
