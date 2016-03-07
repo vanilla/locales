@@ -375,6 +375,7 @@ $Definition['Date Added'] = 'Fecha agregada';
 $Definition['Date Examples'] = 'Ejemplo: lunes, hoy, la semana pasada, martes 26, 26/03/04';
 $Definition['Date within'] = 'Fecha dentro';
 $Definition['days'] = 'días';
+$Definition['Decline'] = 'Declinar';
 $Definition['Default'] = 'Predeterminado';
 $Definition['default'] = 'predeterminado';
 $Definition['Define Thumbnail'] = 'Haz clic y arrastra la imagen para establecer su miniatura.';
@@ -393,6 +394,8 @@ $Definition['Delete User Forever'] = 'Eliminar el usuario para siempre';
 $Definition['Deny'] = 'Denegar';
 $Definition['Deny Applicant'] = 'Denegar';
 $Definition['Did this answer the question?'] = '¿Esto respondió la pregunta?';
+$Definition['Disable'] = 'Desactivar';
+$Definition['Disabled'] = 'Desactivar';
 $Definition['Disagree'] = 'No estoy de acuerdo';
 $Definition['Discussion'] = 'Conversación';
 $Definition['discussion'] = 'conversación';
@@ -521,6 +524,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lee la historia completa aquí</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Activar';
 $Definition['Enabled'] = 'Habilitado';
 $Definition['End time?'] = '¿Fin del tiempo?';
 $Definition['English'] = 'Inglés';

@@ -399,6 +399,7 @@ $Definition['Date Added'] = 'Дата добавления';
 $Definition['Date Examples'] = 'Примеры: Понедельник, сегодня, на прошлой неделе, 26 марта, 3/26/04';
 $Definition['Date within'] = 'Дата в течение';
 $Definition['days'] = 'дней';
+$Definition['Decline'] = 'Отклонить';
 $Definition['Default'] = 'По умолчанию';
 $Definition['default'] = 'по умолчанию';
 $Definition['Define Thumbnail'] = 'Кликните и обозначьте на изображении область, которая станет вашей миниатюрой.';
@@ -417,6 +418,8 @@ $Definition['Delete User Forever'] = 'Удалить пользователя н
 $Definition['Deny'] = 'Запретить';
 $Definition['Deny Applicant'] = 'Запретить';
 $Definition['Did this answer the question?'] = 'Это ответ на вопрос?';
+$Definition['Disable'] = 'Выключить';
+$Definition['Disabled'] = 'Выключено';
 $Definition['Disagree'] = 'Не согласиться';
 $Definition['Discussion'] = 'Дискуссия';
 $Definition['discussion'] = 'дискуссия';
@@ -535,6 +538,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читайте полный рассказ здесь</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Эмодзи';
+$Definition['Enable'] = 'Включить';
 $Definition['Enabled'] = 'Включено';
 $Definition['End time?'] = '
         Время завершения?

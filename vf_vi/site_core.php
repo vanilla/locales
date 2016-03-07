@@ -378,6 +378,7 @@ $Definition['Date Added'] = 'Đã thêm ngày';
 $Definition['Date Examples'] = 'Ví dụ: thứ 2, ngày hôm nay, tuần trước, ngày 26 tháng 3, ngày 26-3-04';
 $Definition['Date within'] = 'Ngày trong';
 $Definition['days'] = 'ngày';
+$Definition['Decline'] = 'Từ chối';
 $Definition['Default'] = 'Mặc định';
 $Definition['default'] = 'mặc định';
 $Definition['Define Thumbnail'] = 'Căn chỉnh hình ảnh để tạo ảnh thu nhỏ ưng ý.';
@@ -396,6 +397,8 @@ $Definition['Delete User Forever'] = 'Xóa thành viên mãi mãi';
 $Definition['Deny'] = 'Từ chối';
 $Definition['Deny Applicant'] = 'Từ chối';
 $Definition['Did this answer the question?'] = 'Câu trả lời này có thỏa mãn?';
+$Definition['Disable'] = 'Tắt';
+$Definition['Disabled'] = 'Vô hiệu hóa';
 $Definition['Disagree'] = 'Không đồng ý';
 $Definition['Discussion'] = 'Bài viết';
 $Definition['discussion'] = 'bài viết';
@@ -507,6 +510,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Đọc chi tiết tại đây</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Bật';
 $Definition['Enabled'] = 'Cho phép';
 $Definition['End time?'] = 'Giờ kết thúc?';
 $Definition['English'] = 'Tiếng Anh';

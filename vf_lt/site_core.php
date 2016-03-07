@@ -349,6 +349,7 @@ $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Added'] = 'Pridėta';
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
 $Definition['days'] = 'dienos';
+$Definition['Decline'] = 'Atmesti';
 $Definition['Default'] = 'Numatytas';
 $Definition['default'] = 'numatytasis';
 $Definition['Define Thumbnail'] = 'Spausk ant nuotraukos ir apibrėžk sritį, kad būtų nukopijuota norima dalis';
@@ -364,6 +365,8 @@ $Definition['Delete User Content'] = 'Pašalinti vartotojo žinutes';
 $Definition['Delete User Forever'] = 'Pašalinti vartotoją galutinai';
 $Definition['Deny Applicant'] = 'Deny';
 $Definition['Did this answer the question?'] = 'Ar tai buvo atsakymas į klausimą?';
+$Definition['Disable'] = 'Išjungti';
+$Definition['Disabled'] = 'Išjungtas';
 $Definition['Disagree'] = 'Nesutikti';
 $Definition['Discussion'] = 'Diskusija';
 $Definition['discussion'] = 'diskusija';
@@ -463,6 +466,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Čia - visa istorija</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Įgalinti';
 $Definition['Enabled'] = 'Įgalinta';
 $Definition['English'] = 'Anglų kalba';
 $Definition['Enter your Email address'] = 'Įvesk savo el. pašto adresą';

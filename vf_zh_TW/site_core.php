@@ -380,6 +380,7 @@ $Definition['Date Added'] = '發表時間';
 $Definition['Date Examples'] = '例如：星期一、今天、上週、 3 月 26 日、2004 年 3 月 26 日';
 $Definition['Date within'] = '日期之內';
 $Definition['days'] = '天';
+$Definition['Decline'] = '拒絕';
 $Definition['Default'] = '預設';
 $Definition['default'] = '預設';
 $Definition['Define Thumbnail'] = '單擊並拖動整個畫面來定義你的縮略圖。';
@@ -398,6 +399,8 @@ $Definition['Delete User Forever'] = '永久刪除使用者';
 $Definition['Deny'] = '拒絕';
 $Definition['Deny Applicant'] = '拒絕';
 $Definition['Did this answer the question?'] = '它解答問題了嗎？';
+$Definition['Disable'] = '停用';
+$Definition['Disabled'] = '已停用';
 $Definition['Disagree'] = '不同意';
 $Definition['Discussion'] = '討論';
 $Definition['discussion'] = '討論';
@@ -510,6 +513,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">在這裡閱讀全文</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = '表情符號';
+$Definition['Enable'] = '啟用';
 $Definition['Enabled'] = '啟用';
 $Definition['End time?'] = '結束時間？';
 $Definition['English'] = '英文';

@@ -325,6 +325,7 @@ $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Added'] = 'تاریخ افزوده‌شدن';
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
 $Definition['days'] = 'روز';
+$Definition['Decline'] = 'رد';
 $Definition['Default'] = 'پیش فرض';
 $Definition['default'] = 'پیش‌فرض';
 $Definition['Define Thumbnail'] = 'برای مشخص‌کردن تصویر بندانگشتی‌تان، اطراف تصویر را کلیک کنید و بکشید.';
@@ -341,6 +342,8 @@ $Definition['Delete User Content'] = 'پاک کردن داده‌های کارب
 $Definition['Delete User Forever'] = 'پاک کردن کاربر برای همیشه';
 $Definition['Deny Applicant'] = 'Deny';
 $Definition['Did this answer the question?'] = 'آیا با این پاسخ‌تان را گرفتید؟';
+$Definition['Disable'] = 'از کار بیانداز';
+$Definition['Disabled'] = 'خاموش';
 $Definition['Disagree'] = 'مخالف';
 $Definition['Discussion'] = 'جستار';
 $Definition['discussion'] = 'جستار';
@@ -444,6 +447,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'به‌کار بگیر';
 $Definition['Enabled'] = 'روشن';
 $Definition['English'] = 'انگلیسی';
 $Definition['Enter your Email address'] = 'نشانی رایانامه‌تان را وارد کنید';

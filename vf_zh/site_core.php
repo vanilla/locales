@@ -380,6 +380,7 @@ $Definition['Date Added'] = '添加时间';
 $Definition['Date Examples'] = '例如：周一，今天，上周，3 月 26 日，04 年 3 月 26 日';
 $Definition['Date within'] = '包含日期';
 $Definition['days'] = '天';
+$Definition['Decline'] = '取消';
 $Definition['Default'] = '默认';
 $Definition['default'] = '默认';
 $Definition['Define Thumbnail'] = '点击并拖动图片以选定区域作为您的头像缩略图。';
@@ -398,6 +399,8 @@ $Definition['Delete User Forever'] = '彻底删除用户';
 $Definition['Deny'] = '拒绝';
 $Definition['Deny Applicant'] = '拒绝';
 $Definition['Did this answer the question?'] = '答对了？';
+$Definition['Disable'] = '关闭';
+$Definition['Disabled'] = '关闭';
 $Definition['Disagree'] = '不同意';
 $Definition['Discussion'] = '话题';
 $Definition['discussion'] = '帖子';
@@ -518,6 +521,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">阅读全文</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = '表情符号';
+$Definition['Enable'] = '启用';
 $Definition['Enabled'] = '激活';
 $Definition['End time?'] = '结束时间？';
 $Definition['English'] = '英语';

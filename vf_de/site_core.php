@@ -367,6 +367,7 @@ $Definition['Date Added'] = 'Datum hinzugefügt';
 $Definition['Date Examples'] = 'Beispiele: Montag, heute, letzte Woche, 26. März, 26.3.04';
 $Definition['Date within'] = 'Datum innerhalb';
 $Definition['days'] = 'Tage';
+$Definition['Decline'] = 'Ablehnen';
 $Definition['Default'] = 'Standard';
 $Definition['default'] = 'Standard';
 $Definition['Define Thumbnail'] = 'Klicke und ziehe über das Bild, um dein Profilbild festzulegen.';
@@ -385,6 +386,8 @@ $Definition['Delete User Forever'] = 'Lösche Nutzer permanent';
 $Definition['Deny'] = 'Ablehnen';
 $Definition['Deny Applicant'] = 'Ablehnen';
 $Definition['Did this answer the question?'] = 'Hat das deine Frage beantwortet?';
+$Definition['Disable'] = 'Deaktivieren';
+$Definition['Disabled'] = 'Deaktiviert';
 $Definition['Disagree'] = 'Nicht zustimmen';
 $Definition['Discussion'] = 'Diskussion';
 $Definition['discussion'] = 'Diskussion';
@@ -494,6 +497,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lies die gesamte Nachricht hier</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Aktivieren';
 $Definition['Enabled'] = 'Aktiviert';
 $Definition['End time?'] = 'Endzeit?';
 $Definition['English'] = 'Englisch';

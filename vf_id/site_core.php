@@ -375,6 +375,7 @@ $Definition['Date Added'] = 'Tanggal Ditambahkan';
 $Definition['Date Examples'] = 'Contoh: Senin, hari ini, minggu lalu, 26 Mar, 26/3/04';
 $Definition['Date within'] = 'Tanggal dalam';
 $Definition['days'] = 'hari';
+$Definition['Decline'] = 'Tolak';
 $Definition['Default'] = 'Baku';
 $Definition['default'] = 'bawaan';
 $Definition['Define Thumbnail'] = 'Klik dan seret lintas gambar untuk menentukan thumbnail anda.';
@@ -393,6 +394,8 @@ $Definition['Delete User Forever'] = 'Hapus Pengguna Selamanya';
 $Definition['Deny'] = 'Tolak';
 $Definition['Deny Applicant'] = 'Tolak';
 $Definition['Did this answer the question?'] = 'Apakah ini menjawab pertanyaannya?';
+$Definition['Disable'] = 'Nonaktifkan';
+$Definition['Disabled'] = 'Nonaktif';
 $Definition['Disagree'] = 'Tidak setuju';
 $Definition['Discussion'] = 'Diskusi';
 $Definition['discussion'] = 'diskusi';
@@ -504,6 +507,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Baca cerita selengkapnya di sini</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Aktifkan';
 $Definition['Enabled'] = 'Aktif';
 $Definition['End time?'] = 'Waktu akhir?';
 $Definition['English'] = 'Inggris';

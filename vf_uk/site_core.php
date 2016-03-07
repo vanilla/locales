@@ -372,6 +372,7 @@ $Definition['Date Added'] = 'Дата - додано';
 $Definition['Date Examples'] = 'Приклади: понеділок, сьогодні, минулого тижня, 26 січня, 3/26/04';
 $Definition['Date within'] = 'Дата не пізніше';
 $Definition['days'] = 'дні';
+$Definition['Decline'] = 'Відхилити';
 $Definition['Define Thumbnail'] = 'Клацніть і виділіть мишкою область, яка визначить мініатюру аватара.';
 $Definition['Delete'] = 'Видалити';
 $Definition['Delete %s'] = 'Видалити %s';
@@ -385,6 +386,8 @@ $Definition['Delete User Forever'] = 'Видалити користувача н
 $Definition['Deny'] = 'Заборонено';
 $Definition['Deny Applicant'] = 'Заборонено';
 $Definition['Did this answer the question?'] = 'Ви отримали відповідь на це питання?';
+$Definition['Disable'] = 'Виключити';
+$Definition['Disabled'] = 'Виключені';
 $Definition['Disagree'] = 'Не згоден';
 $Definition['Discussion'] = 'Обговорення';
 $Definition['discussion'] = 'обговорення';
@@ -515,6 +518,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читати повну історію тут</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Емоджі';
+$Definition['Enable'] = 'Включити';
 $Definition['Enabled'] = 'Включені';
 $Definition['End time?'] = 'Час закінчення?';
 $Definition['English'] = 'Англійська';

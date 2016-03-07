@@ -376,6 +376,7 @@ $Definition['Date Added'] = 'Hozzáadva';
 $Definition['Date Examples'] = 'Példa: Hétfő, ma, múlt héten, Már. 26, 04/03/26';
 $Definition['Date within'] = 'Ezen belül';
 $Definition['days'] = 'nap';
+$Definition['Decline'] = 'Elutasít';
 $Definition['Default'] = 'Alapértelmezett';
 $Definition['default'] = 'alapértelmezett';
 $Definition['Define Thumbnail'] = 'Rajzolj keretet a képben, ami a kis képed lesz!';
@@ -394,6 +395,8 @@ $Definition['Delete User Forever'] = 'Felhasználó végleges törlése';
 $Definition['Deny'] = 'Elutasít';
 $Definition['Deny Applicant'] = 'Elutasít';
 $Definition['Did this answer the question?'] = 'Válasz volt a kérdésedre?';
+$Definition['Disable'] = 'Tilt';
+$Definition['Disabled'] = 'Tiltott';
 $Definition['Disagree'] = 'Elutasítom';
 $Definition['Discussion'] = 'Beszélgetés';
 $Definition['discussion'] = 'beszélgetés';
@@ -504,6 +507,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Olvass tovább</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Engedélyez';
 $Definition['Enabled'] = 'Engedélyezett';
 $Definition['End time?'] = 'Véget ér?';
 $Definition['English'] = 'Angol';

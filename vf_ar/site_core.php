@@ -504,6 +504,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">اقرأ القصة كاملةً هنا</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'رموز تعبيرية';
+$Definition['Enable'] = 'تفعيل';
 $Definition['Enabled'] = 'نشط';
 $Definition['End time?'] = 'إنهاء الوقت؟';
 $Definition['English'] = 'إنقليزية';

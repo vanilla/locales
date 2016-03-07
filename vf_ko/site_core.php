@@ -371,6 +371,7 @@ $Definition['Date Added'] = '날짜 추가됨';
 $Definition['Date Examples'] = '예: 월요일, 오늘, 지난 주, 3월 26일, 3/26/04';
 $Definition['Date within'] = '날짜 이내';
 $Definition['days'] = '일';
+$Definition['Decline'] = '거부';
 $Definition['Define Thumbnail'] = '썸네일을 만드시려면 사진에 클릭하고 드래그하십시오.';
 $Definition['Delete'] = '지우기';
 $Definition['Delete %s'] = '삭제 %s';
@@ -384,6 +385,7 @@ $Definition['Delete User Forever'] = '영원히 삭제된 사용자 ';
 $Definition['Deny'] = '거절';
 $Definition['Deny Applicant'] = '거절';
 $Definition['Did this answer the question?'] = '이게 질문에 맞는 답글이었습니까?';
+$Definition['Disable'] = '사용 안 함';
 $Definition['Disagree'] = '동의 안함';
 $Definition['Discussion'] = '논의';
 $Definition['discussion'] = '토론';
@@ -488,6 +490,7 @@ $Definition['EmbededDiscussionFormat'] = ' <div class="EmbeddedContent">{Image}<
 <p>{Excerpt}</p>
 <p><a href="{Url}">자세한 내용은 여기에서 확인하세요</a></p><div class="ClearFix"></div></div> ';
 $Definition['Emoji'] = '이모지';
+$Definition['Enable'] = '사용';
 $Definition['End time?'] = '종료 시간?';
 $Definition['English'] = '영어';
 $Definition['Enter your Email address'] = '이메일 주소를 입력하세요.';

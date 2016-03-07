@@ -380,6 +380,7 @@ $Definition['Date Added'] = 'Lis&auml;tty';
 $Definition['Date Examples'] = 'Esimerkkejä: maanantai, tänään, viime viikolla, 26. marraskuuta, 3/26/04';
 $Definition['Date within'] = 'Aikaväli';
 $Definition['days'] = 'p&auml;iv&auml;&auml;';
+$Definition['Decline'] = 'Hylk&auml;&auml;';
 $Definition['Default'] = 'Oletus';
 $Definition['default'] = 'oletus';
 $Definition['Define Thumbnail'] = 'M&auml;&auml;rit&auml; pikkukuva klikkaamalla ja raahaamalla valinta sopivaan kohtaan josta haluat kuvan rajattavan.';
@@ -398,6 +399,8 @@ $Definition['Delete User Forever'] = 'Poista j&auml;sen pysyv&auml;sti';
 $Definition['Deny'] = 'Kiellä';
 $Definition['Deny Applicant'] = 'Kiellä';
 $Definition['Did this answer the question?'] = 'Oliko t&auml;m&auml; vastaus kysymykseesi?';
+$Definition['Disable'] = 'Poista k&auml;yt&ouml;st&auml;';
+$Definition['Disabled'] = 'Pois k&auml;yt&ouml;st&auml;';
 $Definition['Disagree'] = 'Hylk&auml;&auml;';
 $Definition['Discussion'] = 'Keskustelu';
 $Definition['discussion'] = 'keskustelu';
@@ -531,6 +534,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lue koko juttu t&auml;&auml;lt&auml;</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Ota k&auml;ytt&ouml;&ouml;n';
 $Definition['Enabled'] = 'Ota k&auml;ytt&ouml;&ouml;n: Valittu Tasku n&auml;ytet&auml;&auml;n.';
 $Definition['End time?'] = 'Lopetusaika?';
 $Definition['English'] = 'Englanti';

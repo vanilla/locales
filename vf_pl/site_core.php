@@ -374,6 +374,7 @@ $Definition['Date Added'] = 'Data dodania';
 $Definition['Date Examples'] = 'Przykłady: Poniedziałek, dzisiaj, w ostatnim tygodniu, 26 marca, 3/26/04';
 $Definition['Date within'] = 'Data pomiędzy';
 $Definition['days'] = 'dni';
+$Definition['Decline'] = 'Odrzuć';
 $Definition['Define Thumbnail'] = 'Kliknij i przeciągnij przez obrazek aby wykadrować miniaturę.';
 $Definition['Delete'] = 'Usuń';
 $Definition['Delete %s'] = 'Usuń %s';
@@ -387,6 +388,7 @@ $Definition['Delete User Forever'] = 'Usuń na zawsze użytkownika.';
 $Definition['Deny'] = 'Odrzuć';
 $Definition['Deny Applicant'] = 'Odrzuć';
 $Definition['Did this answer the question?'] = 'Czy odpowiedziałeś na pytanie?';
+$Definition['Disable'] = 'Wyłącz';
 $Definition['Disagree'] = 'Brak zgody';
 $Definition['Discussion'] = 'Dyskusja';
 $Definition['discussion'] = 'dyskusja';
@@ -500,6 +502,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Przeczytaj całą historię tutaj</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Dostępny';
 $Definition['End time?'] = 'Czas zakończenia?';
 $Definition['English'] = 'Angielski';
 $Definition['Enter your Email address'] = 'Wprowadź swój adres e-mail';

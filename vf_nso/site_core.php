@@ -377,6 +377,7 @@ $Definition['Date Added'] = 'Letšatši Leo le Ngwadilwego';
 $Definition['Date Examples'] = 'Mehlala: Mošupologo, lehono, beke ya go feta, Mar 26, 3/26/04';
 $Definition['Date within'] = 'Letšatšikgwedi ka gare';
 $Definition['days'] = 'matšatši';
+$Definition['Decline'] = 'Theoga';
 $Definition['Default'] = 'Ka Mehla';
 $Definition['default'] = 'ka mehla';
 $Definition['Define Thumbnail'] = 'Kgotla le go goga go feta seswantšho go hlalosa seswantšho sa gago.';
@@ -395,6 +396,8 @@ $Definition['Delete User Forever'] = 'Phumola Modiriši sa Ruri';
 $Definition['Deny'] = 'Gana';
 $Definition['Deny Applicant'] = 'Gana';
 $Definition['Did this answer the question?'] = 'Na se se arabile potšišo ye?';
+$Definition['Disable'] = 'Tloša';
+$Definition['Disabled'] = 'Tlošitše';
 $Definition['Disagree'] = 'Ganana';
 $Definition['Discussion'] = 'Poledišano';
 $Definition['discussion'] = 'poledišano';
@@ -506,6 +509,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Bala taba ka botlalo mo</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Butšwe';
 $Definition['Enabled'] = 'Butšwe';
 $Definition['End time?'] = 'Na ke nako ya go fetša?';
 $Definition['English'] = 'Sepedi';

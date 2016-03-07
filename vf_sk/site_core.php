@@ -370,6 +370,7 @@ $Definition['Date Added'] = 'Dátum Pridaný';
 $Definition['Date Examples'] = 'Príklad: Pondelok, dnes, minulý týždeň, 26. Marec, 20.04.1993';
 $Definition['Date within'] = 'Dátum medzi';
 $Definition['days'] = 'dni';
+$Definition['Decline'] = 'Odmietnúť';
 $Definition['Default'] = 'Predvolený';
 $Definition['default'] = 'predvolený';
 $Definition['Define Thumbnail'] = 'Klikni a natiahni na obrázku pre prispôsobenie miniatúry.';
@@ -388,6 +389,8 @@ $Definition['Delete User Forever'] = 'Vymazať užívatela navždy';
 $Definition['Deny'] = 'Zakázať';
 $Definition['Deny Applicant'] = 'Zakázať';
 $Definition['Did this answer the question?'] = 'Bola tvoja otázka zodpovedaná?';
+$Definition['Disable'] = 'Vypnúť';
+$Definition['Disabled'] = 'Vypnuté';
 $Definition['Disagree'] = 'Nesúhlasiť';
 $Definition['Discussion'] = 'Diskusia';
 $Definition['discussion'] = 'diskusia';
@@ -497,6 +500,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Prečítaj si celý článok tu</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Zapnuté';
 $Definition['Enabled'] = 'Zapnuté';
 $Definition['End time?'] = 'Čas ukončenia?';
 $Definition['English'] = 'angličtina';

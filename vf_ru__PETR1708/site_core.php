@@ -334,6 +334,7 @@ $Definition['Date.DefaultYearFormat'] = '%e <font style="text-transform:lowercas
 $Definition['Date Added'] = 'Дата добавленія';
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
 $Definition['days'] = 'дней';
+$Definition['Decline'] = 'Отклонить';
 $Definition['Default'] = 'По умолчанію';
 $Definition['default'] = 'по умолчанію';
 $Definition['Define Thumbnail'] = 'Кликните и выберите область на основной фотографіи, которая будетъ отображаться въ миніатюрахъ на сайтѣ.';
@@ -348,6 +349,8 @@ $Definition['Delete User Content'] = 'Удалить сообщенія поль
 $Definition['Delete User Forever'] = 'Удалить пользователя навсегда';
 $Definition['Deny Applicant'] = 'Deny';
 $Definition['Did this answer the question?'] = 'Это отвѣтъ на вопросъ?';
+$Definition['Disable'] = 'Выключить';
+$Definition['Disabled'] = 'Выключено';
 $Definition['Disagree'] = 'Не согласиться';
 $Definition['Discussion'] = 'Только на страницахъ дискуссій';
 $Definition['discussion'] = 'тему';
@@ -515,6 +518,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Прочитайте подробно тутъ</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Включить';
 $Definition['Enabled'] = 'Включено';
 $Definition['Enter your Email address'] = 'Адресъ вашей почты';
 $Definition['Enter your email address'] = 'Введите вашъ email адресъ';

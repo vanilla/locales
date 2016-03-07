@@ -380,6 +380,7 @@ $Definition['Date Added'] = 'תאריך הוסף';
 $Definition['Date Examples'] = 'לדוגמא: שני, היום, לפני שבוע, 26 במרץ, 26/3/04';
 $Definition['Date within'] = 'תאריך ב';
 $Definition['days'] = 'ימים';
+$Definition['Decline'] = 'דחה';
 $Definition['Default'] = 'ברירת המחדל';
 $Definition['default'] = 'ברירת מחדל';
 $Definition['Define Thumbnail'] = 'לחץ וגרור לאורך התמונה להגדיר את התמונה המזערית שלך';
@@ -398,6 +399,8 @@ $Definition['Delete User Forever'] = 'מחק משתמש לנצח';
 $Definition['Deny'] = 'דחה';
 $Definition['Deny Applicant'] = 'דחה';
 $Definition['Did this answer the question?'] = 'האם תשובה זו עונה על השאלה?';
+$Definition['Disable'] = 'כבה';
+$Definition['Disabled'] = 'כבוי';
 $Definition['Disagree'] = 'לא מסכים';
 $Definition['Discussion'] = 'דיון';
 $Definition['discussion'] = 'שיחה';
@@ -513,6 +516,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{תמונ
 <p>{קטע מתוך }</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן </a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'אמוג׳י';
+$Definition['Enable'] = 'אפשר';
 $Definition['Enabled'] = 'מאופשר';
 $Definition['End time?'] = 'זמן סיום?';
 $Definition['English'] = 'אנגלית';

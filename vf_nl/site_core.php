@@ -377,6 +377,7 @@ $Definition['Date Added'] = 'Datum Toegevoegd';
 $Definition['Date Examples'] = 'Voorbeelden: maandag, vandaag, vorige week, 26 maart, 3/26/04';
 $Definition['Date within'] = 'Datum in';
 $Definition['days'] = 'dagen';
+$Definition['Decline'] = 'Afslaan';
 $Definition['Default'] = 'Standaard';
 $Definition['default'] = 'standaard';
 $Definition['Define Thumbnail'] = 'Klik en sleep over de afbeelding om de thumbnail te definiëren.';
@@ -395,6 +396,8 @@ $Definition['Delete User Forever'] = 'Verwijder Gebruiker voor Altijd';
 $Definition['Deny'] = 'Weigeren';
 $Definition['Deny Applicant'] = 'Weigeren';
 $Definition['Did this answer the question?'] = 'Heeft dit de vraag beantwoord?';
+$Definition['Disable'] = 'Deactiveer';
+$Definition['Disabled'] = 'Gedeactiveerd';
 $Definition['Disagree'] = 'Oneens';
 $Definition['Discussion'] = 'Discussie';
 $Definition['discussion'] = 'discussie';
@@ -512,6 +515,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lees het volledige verhaal hier</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Inschakelen';
 $Definition['Enabled'] = 'Ingeschakeld';
 $Definition['End time?'] = 'Eindtijdstip?';
 $Definition['English'] = 'Engels';

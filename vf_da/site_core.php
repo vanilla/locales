@@ -370,6 +370,7 @@ $Definition['Date Added'] = 'Tilføjet dato';
 $Definition['Date Examples'] = 'Eksempler: Mandag, i dag, sidste uge, 26. marts, 26/3/04';
 $Definition['Date within'] = 'Dato indenfor';
 $Definition['days'] = 'dage';
+$Definition['Decline'] = 'AfslÂ';
 $Definition['Default'] = 'Standard';
 $Definition['Define Thumbnail'] = 'Klik og træk hen over billedet for at definere en miniature-version af dit profilbillede.';
 $Definition['Delete'] = 'Slet';
@@ -384,6 +385,7 @@ $Definition['Delete User Forever'] = 'Slet bruger permanent';
 $Definition['Deny'] = 'Afvis';
 $Definition['Deny Applicant'] = 'Afvis';
 $Definition['Did this answer the question?'] = 'Besvarede dette dit spørsmål?';
+$Definition['Disable'] = 'Deaktiver';
 $Definition['Disagree'] = 'Uenig';
 $Definition['Discussion'] = 'Diskussion';
 $Definition['discussion'] = 'diskussion';
@@ -495,6 +497,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Læs resten af indlægget her</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Smiley';
+$Definition['Enable'] = 'Aktiver';
 $Definition['End time?'] = 'Slut tid?';
 $Definition['English'] = 'Engelsk';
 $Definition['Enter your Email address'] = 'Indtast din emailadresse';

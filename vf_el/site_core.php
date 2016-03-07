@@ -379,6 +379,7 @@ $Definition['Date Added'] = 'Ημερομηνία προσθήκης';
 $Definition['Date Examples'] = 'Παραδείγματα: Δευτέρα, σήμερα, την περασμένη εβδομάδα, 26 Μάρτιου, 26/03/04';
 $Definition['Date within'] = 'Ημερομηνία εντός';
 $Definition['days'] = 'ημέρες';
+$Definition['Decline'] = 'Απόρριψη';
 $Definition['Default'] = 'Προεπιλεγμένο';
 $Definition['default'] = 'προεπιλεγμένο';
 $Definition['Define Thumbnail'] = 'Πατήστε και τραβήξτε  την εικόνατην για να καθορίσετε τη μικρογραφία σας.';
@@ -397,6 +398,8 @@ $Definition['Delete User Forever'] = 'Διαγραφή Χρήστη για Πά�
 $Definition['Deny'] = 'Άρνηση';
 $Definition['Deny Applicant'] = 'Άρνηση';
 $Definition['Did this answer the question?'] = 'Απάντησε αυτό στην ερώτηση;';
+$Definition['Disable'] = 'Απενεργοποίηση';
+$Definition['Disabled'] = 'Απενεργοποιημένο';
 $Definition['Disagree'] = 'Διαφωνώ';
 $Definition['Discussion'] = 'Συζήτηση';
 $Definition['discussion'] = 'συζήτηση';
@@ -509,6 +512,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Διαβάστε ολόκληρη την ιστορία εδώ</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Χαρακτήρες Emoji';
+$Definition['Enable'] = 'Ενεργοποίηση';
 $Definition['Enabled'] = 'Ενεργοποιημένο';
 $Definition['End time?'] = 'Χρόνος λήξης;';
 $Definition['English'] = 'Αγγλικά';

@@ -377,6 +377,7 @@ $Definition['Date Added'] = 'Datum tillagt';
 $Definition['Date Examples'] = 'Exempel: måndag, idag, förra veckan 26 mars, 040326';
 $Definition['Date within'] = 'Datum inom';
 $Definition['days'] = 'dagar';
+$Definition['Decline'] = 'Neka';
 $Definition['Default'] = 'Standard';
 $Definition['default'] = 'standard';
 $Definition['Define Thumbnail'] = 'Klicka och dra över bilden för att beskära din miniatyr.';
@@ -395,6 +396,8 @@ $Definition['Delete User Forever'] = 'Radera användare permanent';
 $Definition['Deny'] = 'Neka';
 $Definition['Deny Applicant'] = 'Neka';
 $Definition['Did this answer the question?'] = 'Besvarade detta din fråga?';
+$Definition['Disable'] = 'Inaktivera';
+$Definition['Disabled'] = 'Inaktiverad';
 $Definition['Disagree'] = 'Avböj';
 $Definition['Discussion'] = 'Diskussion';
 $Definition['discussion'] = 'diskussion';
@@ -499,6 +502,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Läs hela berättelsen här}</a></p><div class="ClearFix"></div></div>';
+$Definition['Enable'] = 'Aktivera';
 $Definition['Enabled'] = 'Aktiverad';
 $Definition['End time?'] = 'Sluttid?';
 $Definition['English'] = 'Engelska';

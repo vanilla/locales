@@ -376,6 +376,7 @@ $Definition['Date Added'] = '追加された日時';
 $Definition['Date Examples'] = '例: 月曜日、今日、先週、5月26日、3/26/04';
 $Definition['Date within'] = '内の日付';
 $Definition['days'] = '日';
+$Definition['Decline'] = '却下';
 $Definition['default'] = 'デフォルト';
 $Definition['Define Thumbnail'] = 'サムネイルの範囲を決めるためには、クリック&ドラッグで写真の範囲を決めて下さい。';
 $Definition['Delete'] = '削除';
@@ -390,6 +391,8 @@ $Definition['Delete User Forever'] = '永久ユーザーを削除する';
 $Definition['Deny'] = '拒否する';
 $Definition['Deny Applicant'] = '否定する';
 $Definition['Did this answer the question?'] = 'これは問題解決のお役に立ちましたか？';
+$Definition['Disable'] = '無効化';
+$Definition['Disabled'] = '無効';
 $Definition['Disagree'] = '同意しません';
 $Definition['Discussion'] = 'ディスカッション';
 $Definition['discussion'] = 'ディスカッション';
@@ -521,6 +524,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p> <a href="{Url}">本文全てをここで読む</a> </p> <div class="ClearFix"> </div> </div>';
 $Definition['Emoji'] = '絵文字';
+$Definition['Enable'] = '有効化';
 $Definition['Enabled'] = '有効';
 $Definition['End time?'] = '終了時間?';
 $Definition['English'] = '英語';
