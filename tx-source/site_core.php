@@ -402,6 +402,8 @@ $Definition['Delete User Forever'] = 'Delete User Forever';
 $Definition['Deny'] = 'Deny';
 $Definition['Deny Applicant'] = 'Deny';
 $Definition['Did this answer the question?'] = 'Did this answer the question?';
+$Definition['Disable'] = 'Disable';
+$Definition['Disabled'] = 'Disabled';
 $Definition['Disagree'] = 'Disagree';
 $Definition['Discussion'] = 'Discussion';
 $Definition['discussion'] = 'discussion';
@@ -514,6 +516,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
+$Definition['Enable'] = 'Enable';
 $Definition['Enabled'] = 'Enabled';
 $Definition['End time?'] = 'End time?';
 $Definition['English'] = 'English';
