@@ -207,6 +207,8 @@ $Definition['Apply for Membership'] = 'Hae j&auml;senyytt&auml;';
 $Definition['Apply for membership'] = 'Hae j&auml;senyytt&auml;';
 $Definition['Approve'] = 'Hyväksy';
 $Definition['Approve Applicant'] = 'Hyväksy';
+$Definition['Approved'] = 'Hyväksytty
+';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Oletko T&Auml;YSIN VARMA ett&auml; haluat suorittaa valitun toiminnon?';
 $Definition['Are you attending this event?'] = 'Oletko mukana tässä tapahtumassa?';
 $Definition['Are you sure you want to delete this %s?'] = 'Oletko varma ett&auml; haluat poistaa t&auml;m&auml;n %s?';
@@ -381,6 +383,7 @@ $Definition['Date Examples'] = 'Esimerkkejä: maanantai, tänään, viime viikol
 $Definition['Date within'] = 'Aikaväli';
 $Definition['days'] = 'p&auml;iv&auml;&auml;';
 $Definition['Decline'] = 'Hylk&auml;&auml;';
+$Definition['Declined'] = 'Estetty ';
 $Definition['Default'] = 'Oletus';
 $Definition['default'] = 'oletus';
 $Definition['Define Thumbnail'] = 'M&auml;&auml;rit&auml; pikkukuva klikkaamalla ja raahaamalla valinta sopivaan kohtaan josta haluat kuvan rajattavan.';

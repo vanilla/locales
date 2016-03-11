@@ -47,6 +47,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanille kan bruges som en drop-in erstat
 $Definition['AboutEmbedding'] = 'Indlejring tillader alle eller en del af dit community for at være integreret i andre programmer & websider.';
 $Definition['About Vanilla Statistics'] = 'Om Vanilla statistik';
 $Definition['Above Main Content'] = 'Over hovedindholdet';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Få adgang til dit fællesskab ved at klikke "Besøg side"-linket i toppen af denne side, eller ved at <a href={/,url}>klikke her</a>. Fællesskabforummet er det som alle brugere &amp; kunder vil se når de besøger <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Konto Synkronisering mislykkedes';
 $Definition['Action'] = 'Handling';
 $Definition['Actions Based on Votes'] = 'Aktioner baseret på stemmer';
@@ -110,6 +111,7 @@ $Definition['Authors may edit for %s'] = 'Forfattere kan redigere til %s';
 $Definition['Authors may never edit'] = 'Forfatterne må aldrig redigere';
 $Definition['Auto-Fetch New Comments'] = 'Auto-hente nye kommentarer';
 
+$Definition['Background Color'] = 'Baggrundsfarve';
 $Definition['Back to all users'] = 'Tilbage til alle brugere';
 $Definition['Back to Mobile Site'] = 'Tilbage til Mobile Site';
 $Definition['Badge cannot be deleted.'] = 'Badge kan ikke slettes.';
@@ -130,10 +132,13 @@ $Definition['Blocked'] = 'Blokeret';
 $Definition['Blog Comments'] = 'Blog kommentarer';
 $Definition['Browse Addons'] = 'Gennemse Addons';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Søg efter et nyt banner logo hvis du ønsker at ændre det:';
+$Definition['Button Background Color'] = 'Knappers baggrundsfarve';
+$Definition['Button Text Color'] = 'Knappers tekstfarve';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ved at klikke på knappen nedenfor, du vil være at slette brugerkontoen for %s for evigt.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Kan ikke opbygge profiloplysninger, hvis brugeren ikke er defineret.';
 $Definition['Categories &amp; Discussions'] = 'Kategorier &amp; diskussioner';
+$Definition['Categories are used to organize discussions.'] = 'Kategorier bruges til at hjælpe dine brugere med at organisere deres diskussioner på en måde der er meningsfuld for dit fællesskab.';
 $Definition['Categories Layout'] = 'Kategorier Layout';
 $Definition['Category Page Layout'] = 'Kategori sidelayout';
 $Definition['Category Url:'] = 'Kategori Url:';
@@ -146,6 +151,9 @@ $Definition['Change your banner'] = 'Ændre din banner';
 $Definition['Changing the Discussions Menu Link'] = 'Ændre linket diskussioner Menu';
 $Definition['Check all permissions that apply for each role'] = 'Tjek alle tilladelser, der gÊlder for hver rolle';
 $Definition['Check all permissions that apply to this role:'] = 'Kontrollér alle tilladelser, der gælder for denne rolle:';
+$Definition['Check out the new community forum I\'ve just set up.'] = 'Hej ven!
+
+Tjek det nye fællesskabsforum jeg lige har sat op. Det er alletiders sted for os til at chatte med hinanden online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a locale pack'] = 'VÊlg en lokal pakke';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
@@ -186,7 +194,9 @@ $Definition['DownloadLocalePack'] = 'Download';
 
 $Definition['Edit Category'] = 'Rediger Kategori';
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
+$Definition['Edit HTML'] = 'Rediger HTML';
 $Definition['Edit User'] = 'Rediger Bruger';
+$Definition['Email Styles'] = 'E-mail-stilarter';
 $Definition['Enable'] = 'Aktiver';
 $Definition['Enabled %1$s'] = 'Aktiverede %1$s';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
@@ -196,9 +206,11 @@ $Definition['Enter a short name for the site.'] = 'Enter a short name for the si
 $Definition['Enter the email address of the person you would like to invite:'] = 'Indtast email adressen for personen du vil invitere:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Indtast url adressen på den side du vil bruge som din hjemmeside';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Indtast url adressen på den side du vil bruge som din hjemmeside';
+$Definition['Error sending email. Please review the addresses and try again.'] = 'Fejl ved e-mail-afsendelse. Gennemse venligst adresserne og prøv igen.';
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
+$Definition['Everyone who signs up gets a profile page.'] = 'Alle der registrerer sig i fællesskabet får en offentlig profilside hvor de kan uploade et billede af dem selv, styre deres profilindstillinger, og finde spændende ting der foregår i fællesskabet. Du bør <a href="{/profile,url}">tilpasse din profil nu</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Hver bruger pÂ dit forum har mindst en rolle. Roller kan blive brugt til at bestemme hvad brugeren kan.';
 $Definition['Existing members send invitations to new members.'] = 'Eksisterende medlemer sender invitationer til nye medlemmer.';
 
@@ -220,6 +232,7 @@ $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is a
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 $Definition['Generate'] = 'Generer';
+$Definition['Give a Badge'] = 'Giv et badge';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
@@ -229,8 +242,12 @@ $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Help &amp; Tutorials'] = 'Hjælp & Vejledninger';
 $Definition['Hide from the recent discussions page.'] = 'Skjul fra siden seneste diskussioner.';
+$Definition['Hide signatures for guests'] = 'Skjul underskrifter for gæster';
+$Definition['Hide signatures on embedded comments'] = 'Skjul underskrifter på indlejrede kommentarer';
 $Definition['Homepage'] = 'Hjemmeside';
 $Definition['Homepage Title'] = 'Hjemmeside titel';
+$Definition['Html'] = 'HTML';
+$Definition['HTML Emails'] = 'HTML e-mails';
 
 $Definition['Import'] = 'Importer';
 $Definition['Invitation Code'] = 'Invitations Kode';
@@ -248,11 +265,14 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['Key Type'] = 'Kode Type';
 $Definition['Key Value'] = 'Kode VÊrdi';
 
+$Definition['Large images will be scaled down.'] = 'Store billeder vil blive nedskaleret til en maks bredde på %spx og en maks højde på %spx.';
 $Definition['Last Visit'] = 'Sidste Bes¯g';
+$Definition['Learn about custom routing.'] = 'Lær om tilpasset routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lær hvordan du ændrer din sides udseende, uploader et logo, beskriver siden, vælger et tema og redigerer det.';
 $Definition['Locale Key (Folder)'] = 'sprog Kode (Mappe)';
 $Definition['Locale Name'] = 'sprog Navn';
 $Definition['Locales'] = 'sprog pakker';
+$Definition['Locales allow you to support other languages on your site.'] = 'Lokaliseringer lader dig støtte andre sprog på din side. Aktiver og deaktiver lokaliseringer som du gerne vil gøre tilgængelige her.';
 $Definition['Locales are in your %s folder.'] = 'Sprog pakker giver dig mulighed for at underst¯tte andre sprog pÂ denne side. NÂr en sprog pakke er blevet tilf¯jet til %s mappe, Du kan slÂ det til her.';
 $Definition['Location'] = 'Placering';
 $Definition['LogoBrowse'] = 'Søg efter et nyt banner logo hvis du ønsker at ændre det:';
@@ -269,7 +289,11 @@ $Definition['Manage Routes'] = 'Administrer Ruter';
 $Definition['Manage Spam'] = 'Administrer Spam';
 $Definition['Manage Themes'] = 'Administrer Temaer';
 $Definition['Manage Users'] = 'Administrer Brugere';
+$Definition['Max %s length'] = 'Maks %s længde';
 $Definition['Max Comment Length'] = 'Maximum Kommentar lÊngde';
+$Definition['Max height of %s'] = 'Maks højde på %s';
+$Definition['Max height of %s in pixels'] = 'Maks højde på %s i pixels';
+$Definition['Max number of %s'] = 'Maks antal %s';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Messages can appear anywhere in your application.'] = 'Beskeder kan ses overalt i din ans¯gning, og kan blive brugt til informere dine brugere om nyheder og begivenheder. Brug denne side til at re-organisere dine beskeder ved at trÊkke dem op og ned.';
 $Definition['Method'] = 'Metode';
@@ -301,6 +325,7 @@ $Definition['Original Version'] = 'Original version';
 $Definition['Other Themes'] = 'Andre temaer';
 $Definition['Outgoing Email'] = 'UdgÂende Email';
 
+$Definition['Page Color'] = 'Sidefarve';
 $Definition['Password Options'] = 'Kodeords Indstillinger';
 $Definition['Permission.Category'] = 'Kategori';
 $Definition['Permissions'] = 'Rettigheder';
@@ -309,12 +334,14 @@ $Definition['PluginHelp'] = 'Plugins giver dig mulighed for at tilf¯je funktion
 $Definition['Plugins'] = 'Tilføjelser';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Forhindrer spam pÂ dit forum ved at begrÊnse antallet af diskussioner &amp; kommentarer, som brugerne kan skrive inden for en given periode.';
+$Definition['Preview Colors'] = 'Forhåndsvisning af farver';
 $Definition['Private Key'] = 'Privat Kode';
 $Definition['Public Key'] = 'Offentlig Kode';
 
 $Definition['Recently Active Users'] = 'For nylig Aktive  Brugere';
 $Definition['Record Content'] = 'Content';
 $Definition['Refresh Comments'] = 'OpdatÈr Kommentarer';
+$Definition['Remove Email Logo'] = 'Fjern e-mail-logo';
 $Definition['Requires: '] = 'KrÊver: ';
 $Definition['Reset password and send email notification to user'] = 'Nulstil kodeord og send email meddelelse til bruger';
 $Definition['Restart'] = 'Genstart';
@@ -327,7 +354,9 @@ $Definition['Roles determine user\'s permissions.'] = 'Hver bruger pÂ dit forum
 $Definition['Route'] = 'Rute';
 $Definition['Route Expression'] = 'Rute Udtryk';
 $Definition['Routes'] = 'Ruter';
+$Definition['Routes are used to redirect users.'] = 'Router bruges til at omdirrigere brugere afhængigt af hvilken URL der er anmodet om.';
 
+$Definition['Save Colors'] = 'Gem farver';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = 'sekunder';
 $Definition['Security'] = 'Sikkerhed';
@@ -335,6 +364,7 @@ $Definition['Select'] = 'Vælg';
 $Definition['Send %s a Message'] = 'Send %s en Besked';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Send en bekræftelses email når folk stiller et spørgsmål eller starter en diskussion over email.';
 $Definition['Send Again'] = 'Send igen';
+$Definition['Send a Test Email'] = 'Send en test-e-mail';
 $Definition['Send Invitations!'] = 'Send invitationer!';
 $Definition['Send users a welcome email.'] = 'Sender brugerne en velkomst email.';
 $Definition['Sent To'] = 'Sendt til';
@@ -348,36 +378,53 @@ $Definition['SMTP Password'] = 'SMTP Kodeord';
 $Definition['SMTP Security'] = 'SMTP Sikkerhed';
 $Definition['SMTP User'] = 'SMTP Bruger';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
+$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Gør dine e-mails mere spændende ved at tilføje et logo og tilpasse farverne.';
 $Definition['Start Discussions'] = 'Start diskussion';
+$Definition['Start the first discussion.'] = 'Få bolden til at rulle i dit fællesskab ved at <a href="{/post/discussion,url}">starte den første diskussion</a> nu.';
 $Definition['Statistics'] = 'statistik';
 
 $Definition['Temporary (302)'] = 'Midlertidig (302)';
+$Definition['Test Email'] = 'Test-e-mail';
+$Definition['Test email from %s'] = 'Test e-mail fra %s';
+$Definition['Test Email Message'] = '<p>Dette er en e-mail-testbesked.</p>
+
+<p>Du kan konfigurere udseendet på dit forums e-mails ved at navigere til e-mail-siden i instrumentbrættet.</p>';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
+$Definition['Text Color'] = 'Tekstfarve';
 $Definition['TextEnterEmails'] = 'Type email addresses separated by commas here';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s Godkendelsesskema har ikke nogen brugerdefineret konfigurationsmuligheder.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'tilf¯jelsen kunne ikke blive aktiveret fordi den genererede en fejl: <pre>%s</pre>';
 $Definition['The banner logo appears at the top of your forum.'] = 'banner logoet vil komme frem pÂ toppen af forumet.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browser\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Den grundlæggende registreringsformular kræver</strong> at nye brugere kopierer tekst fra et CAPTCHA-billede for at holde spammere væk fra siden. Du skal have en konto på <a href="http://recaptcha.net/">recaptcha.net</a>. Registrering er GRATIS og nemt. Kom tilbage hertil når du har registreret dig og indtast følgende indstillinger: ';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = 'Indholdet du leder efter, er blevet slettet.';
+$Definition['The email has been sent.'] = 'E-mailen er sendt.';
 $Definition['The homepage title is displayed on your home page.'] = 'Hjemmeside titlen vises på din hjemmeside. Vælg en titel som du vil se på søgemaskiner.';
 $Definition['The homepage was saved successfully.'] = 'Hjemmesiden blev gemt med success!';
 $Definition['ThemeHelp'] = 'Temaer kan lave om pÂ udseendet &amp; F¯l din side.<br />NÂr et tema er blevet tilf¯jet til %s mappe, Du kan aktivere det her.';
 $Definition['Theme Options'] = 'Tema opsætning';
 $Definition['Themes'] = 'Temaer';
 $Definition['Theming Overview'] = 'Tema overblik';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Der er sket en fejl ved upload af billedet. Dit e-mail-logo kan uploades i et af følgende filformater: gif, jpg, png';
 $Definition['There are currently no applicants.'] = 'Der er ikke nogle ans¯gninger.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
 $Definition['The text of the pocket.'] = 'Enter the text of the pocket. This will be output exactly as you type it so make sure that you enter valid HTML.';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
+$Definition['This is the administrative dashboard for your new community.'] = 'Dette er det administrative instrumentbræt for dit nye fællesskab. Tjek konfigurationsmulighederne ud i siden. Derfra kan du konfigurere hvordan dit fællesskab fungerer. <b>Som standard er det kun brugere i "Administrator"-rollen der kan se denne del af dit fællesskab.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
+$Definition['This pocket is an ad.'] = 'Denne lomme er en reklame.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
 $Definition['Thumbnails'] = 'Miniaturer';
+$Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'For mange adresser! Vi vil sende op til %s adresser på en gang.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect giver brugere adgang til at logge ind med deres Twitter bruger. <b>Du skal registrere din ans¯gning med Twitter for dette plugin til at virke.</b>';
 
+$Definition['Universal Forum Embed Code'] = 'Universel forum-indlejringskode';
 $Definition['Unlimited'] = 'UbegrÊnset';
+$Definition['Upload New Email Logo'] = 'Upload nyt e-mail-logo';
+$Definition['Use asterisks for wildcards'] = 'Brug asterikser til wildcards, f.eks. &lsquo;*@hotmail.com&rsquo;';
 $Definition['User Count'] = 'Brugere';
 $Definition['UserDelete'] = 'Remove User Content';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
@@ -385,6 +432,7 @@ $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content ass
 $Definition['UserKeep'] = 'Behold brugerindhold';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
 $Definition['User Registration Settings'] = 'Bruger Registreringsindstillinger';
+$Definition['Users with the no ads permission will not see this pocket.'] = 'Brugere med ingen reklamer-tilladelsen vil ikke se denne lomme.';
 $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
@@ -409,4 +457,5 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 		large to upload directly to this page you can place it in your /uploads
 		folder. Make sure the filename begins with the word <b>export</b> and ends
 		with one of <b>.txt, .gz</b>.';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = 'Du kan sende e-mails med almindelig tekst ved at deaktivere vælgeren forneden.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
