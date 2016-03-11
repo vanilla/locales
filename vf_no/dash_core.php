@@ -57,6 +57,7 @@ $Definition['DownloadLocalePack'] = 'Last ned';
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Edit HTML'] = 'Rediger HTML';
 $Definition['Edit User'] = 'Rediger bruker';
+$Definition['Email Styles'] = 'Epost-stiler';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enable this message'] = 'Slå på denne meldingen';
@@ -109,6 +110,8 @@ $Definition['Invitations can be sent from users\' profile pages.'] = 'When you u
 
 $Definition['Large images will be scaled down.'] = 'Store bilder vil nedskaleres til en maksbredde på %spx og makshøyde på %spx.';
 $Definition['Last Visit'] = 'Siste besøk';
+$Definition['Learn about custom routing.'] = 'Lær om egendefinert routing.';
+$Definition['Locales allow you to support other languages on your site.'] = 'Localer lar deg støtte andre språk på siden din. Aktiver og deaktiver localer du ønsker å gjøre tilgjengelig her.';
 $Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once a locale has been added to your %s folder, you can enable or disable it here.';
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';
 $Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
@@ -159,6 +162,7 @@ $Definition['Reset password and send email notification to user'] = 'Nullstill p
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['Roles & Permissions'] = 'Roller og rettigheter';
 $Definition['Roles determine user\'s permissions.'] = 'Hver eneste bruker må få minst én rolle. Roller brukes for å bestemme hva brukere har lov til å gjøre.';
+$Definition['Routes are used to redirect users.'] = 'Router brukes for å videresende brukere avhengig av den forespurte URL-en.';
 
 $Definition['Save Colors'] = 'Lagre farger';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
