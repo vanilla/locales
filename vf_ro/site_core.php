@@ -824,6 +824,7 @@ $Definition['OK'] = 'Ok';
 $Definition['Okay'] = 'Gata';
 $Definition['OldPassword'] = 'Parola veche';
 $Definition['Old Password'] = 'Parola Veche';
+$Definition['On'] = 'pe';
 $Definition['on'] = 'pe';
 $Definition['Online Preferences'] = 'Preferinţe online';
 $Definition['Only show followed categories'] = 'Afișează doar categoriile urmărite';

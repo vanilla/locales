@@ -823,6 +823,7 @@ $Definition['Off Topic'] = 'Di luar Topik';
 $Definition['Okay'] = 'Oke';
 $Definition['OldPassword'] = 'Password lama';
 $Definition['Old Password'] = 'Password Saya';
+$Definition['On'] = 'Pada';
 $Definition['on'] = 'pada';
 $Definition['Online Preferences'] = 'Preferensi Daring';
 $Definition['Only show followed categories'] = 'Hanya tampilkan kategori yang diikuti';

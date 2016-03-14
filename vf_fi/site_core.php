@@ -865,6 +865,7 @@ $Definition['Off Topic'] = 'Aiheen vierestä';
 $Definition['Okay'] = 'Ok';
 $Definition['OldPassword'] = 'Vanha salasana';
 $Definition['Old Password'] = 'Vanha salasana';
+$Definition['On'] = '@';
 $Definition['on'] = 'aika';
 $Definition['Online Preferences'] = 'Online-mieltymykset ';
 $Definition['Only show followed categories'] = 'N&auml;yt&auml; vain seurantaan asetetut kategoriat';

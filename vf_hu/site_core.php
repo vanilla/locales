@@ -836,6 +836,7 @@ $Definition['Off Topic'] = 'Off topic';
 $Definition['Okay'] = 'Rendben';
 $Definition['OldPassword'] = 'Régi jelszó';
 $Definition['Old Password'] = 'Régi jelszó';
+$Definition['On'] = 'Rajta';
 $Definition['on'] = 'bekapcsolva';
 $Definition['Online Preferences'] = 'Online beállítások';
 $Definition['Only show followed categories'] = 'Csak a követett kategóriákat mutassa';

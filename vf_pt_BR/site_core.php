@@ -843,6 +843,7 @@ $Definition['Off Topic'] = 'Fora de tópico';
 $Definition['Okay'] = 'Ok';
 $Definition['OldPassword'] = 'Senha antiga';
 $Definition['Old Password'] = 'Senha anterior';
+$Definition['On'] = 'Ligado';
 $Definition['on'] = 'dentro de';
 $Definition['Online Preferences'] = 'Preferências online';
 $Definition['Only show followed categories'] = 'Exibir somente categorias que eu sigo';

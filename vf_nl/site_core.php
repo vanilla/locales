@@ -840,6 +840,7 @@ $Definition['Off Topic'] = 'Off topic';
 $Definition['Okay'] = 'Oké';
 $Definition['OldPassword'] = 'Oude Wachtwoord';
 $Definition['Old Password'] = 'Oud Wachtwoord';
+$Definition['On'] = 'Op';
 $Definition['on'] = 'aan';
 $Definition['Online Preferences'] = 'Online voorkeuren';
 $Definition['Only show followed categories'] = 'Toon alleen gevolgde categorieën';

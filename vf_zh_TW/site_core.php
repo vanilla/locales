@@ -845,6 +845,7 @@ $Definition['OK'] = '確認';
 $Definition['Okay'] = '確定';
 $Definition['OldPassword'] = '舊密碼';
 $Definition['Old Password'] = '舊密碼';
+$Definition['On'] = '時間';
 $Definition['on'] = '之上';
 $Definition['Online Preferences'] = '線上偏好設定';
 $Definition['Only show followed categories'] = '僅顯示關注類別';

@@ -816,6 +816,7 @@ $Definition['Off Topic'] = 'Off topic';
 $Definition['OK'] = 'Ok';
 $Definition['OldPassword'] = 'Gammelt kodeord';
 $Definition['Old Password'] = 'Tidligere kodeord';
+$Definition['On'] = 'PÂ';
 $Definition['on'] = 'til';
 $Definition['Online Preferences'] = 'Online-præferencer';
 $Definition['Only show followed categories'] = 'Vis kun kategorier der følges';

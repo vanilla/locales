@@ -826,11 +826,13 @@ $Definition[' now.'] = 'اب۔';
 $Definition['Null Date'] = '-';
 
 $Definition['of'] = 'کا';
+$Definition['Off'] = 'بند';
 $Definition['Off Topic'] = 'بند موضوع';
 $Definition['OK'] = 'ٹھيک';
 $Definition['Okay'] = 'ٹھیک ہے';
 $Definition['OldPassword'] = 'پرانا پاس ورڈ';
 $Definition['Old Password'] = 'پرانا پاس ورڈ';
+$Definition['On'] = 'پر';
 $Definition['on'] = 'پر';
 $Definition['Online Preferences'] = 'آن لائن ترجیحات';
 $Definition['Only show followed categories'] = 'صرف پیروی کردہ زمرہ جات دکھائیں';

@@ -689,6 +689,7 @@ $Definition['OK'] = 'تأیید';
 $Definition['Okay'] = 'بله';
 $Definition['OldPassword'] = 'گذرواژهٔ قدیمی';
 $Definition['Old Password'] = 'گذرواژه‌ی پیشین';
+$Definition['On'] = 'در ساعت و تاریخ';
 $Definition['on'] = 'در تاریخ';
 $Definition['Only show followed categories'] = 'فقط دسته‌هایی را که دنبال می‌کنم، نمایش بده.';
 $Definition['OpenID Settings'] = 'تنظیمات OpenID';

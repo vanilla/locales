@@ -849,6 +849,7 @@ $Definition['OK'] = 'אוקיי';
 $Definition['Okay'] = 'אוקיי';
 $Definition['OldPassword'] = 'סיסמה ישנה';
 $Definition['Old Password'] = 'סיסמה ישנה';
+$Definition['On'] = 'מופעל';
 $Definition['on'] = 'על';
 $Definition['Online Preferences'] = 'העדפות באינטרנט';
 $Definition['Only show followed categories'] = 'הראה רק את הקטגוריות הנעקבות';

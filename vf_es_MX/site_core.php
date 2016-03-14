@@ -853,6 +853,7 @@ $Definition['OK'] = 'Ok';
 $Definition['Okay'] = 'Ok';
 $Definition['OldPassword'] = 'Antigua contraseña';
 $Definition['Old Password'] = 'Antigua contraseña';
+$Definition['On'] = 'En';
 $Definition['on'] = 'en';
 $Definition['Online Preferences'] = 'Preferencias online';
 $Definition['Only show followed categories'] = 'Solo mostrar las categorías que sigo ';

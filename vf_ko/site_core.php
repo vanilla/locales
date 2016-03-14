@@ -813,6 +813,7 @@ $Definition[' now.'] = '지금.';
 $Definition['Null Date'] = '- ';
 
 $Definition['of'] = '의';
+$Definition['Off'] = '끄기';
 $Definition['Off Topic'] = '오프 토픽';
 $Definition['OK'] = '예';
 $Definition['Okay'] = '좋음';

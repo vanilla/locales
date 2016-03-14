@@ -18,6 +18,7 @@ $Definition['DownloadLocalePack'] = 'ڈاؤن لوڈ کریں';
 
 $Definition['Notes'] = 'نوٹ';
 
+$Definition['On'] = 'پر';
 $Definition['Operation By'] = 'از';
 
 $Definition['Permission.Category'] = 'زمرہ';

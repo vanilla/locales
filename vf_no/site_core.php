@@ -804,6 +804,7 @@ $Definition['Off Topic'] = 'Off topic';
 $Definition['Okay'] = 'Ok';
 $Definition['OldPassword'] = 'Gammelt passord';
 $Definition['Old Password'] = 'Gammelt passord';
+$Definition['On'] = 'På';
 $Definition['on'] = 'på';
 $Definition['Online Preferences'] = 'Nettpreferanser';
 $Definition['Only show followed categories'] = 'Klikk her for å se kategorier du følger';

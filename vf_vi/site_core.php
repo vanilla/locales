@@ -842,6 +842,7 @@ $Definition['OK'] = 'Đồng ý';
 $Definition['Okay'] = 'Đồng ý';
 $Definition['OldPassword'] = 'Mật khẩu cũ';
 $Definition['Old Password'] = 'Mật khẩu cũ';
+$Definition['On'] = 'Bật';
 $Definition['on'] = 'bật';
 $Definition['Online Preferences'] = 'Thiết lập trực tuyến';
 $Definition['Only show followed categories'] = 'Chỉ hiển thị danh mục đang theo dõi';

@@ -843,6 +843,7 @@ $Definition['OK'] = 'Εντάξει';
 $Definition['Okay'] = 'Εντάξει';
 $Definition['OldPassword'] = 'Παλιός Κωδικός';
 $Definition['Old Password'] = 'Παλιός Κωδικός';
+$Definition['On'] = 'Στις';
 $Definition['on'] = 'σε';
 $Definition['Online Preferences'] = 'Διαδικτυακές Προτιμήσεις';
 $Definition['Only show followed categories'] = 'Δείτε μόνο τις κατηγορίες που ακολουθείτε.';
