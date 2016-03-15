@@ -821,11 +821,12 @@ $Definition[' now.'] = 'teraz.';
 $Definition['Null Date'] = '-';
 
 $Definition['of'] = 'z';
+$Definition['Off'] = 'Wył.';
 $Definition['Off Topic'] = 'Nie na temat';
 $Definition['Okay'] = 'W porządku';
 $Definition['OldPassword'] = 'Stare hasło';
 $Definition['Old Password'] = 'Stare hasło';
-$Definition['On'] = 'Włączone';
+$Definition['On'] = 'Wł.';
 $Definition['on'] = 'na';
 $Definition['Online Preferences'] = 'Preferencje online';
 $Definition['Only show followed categories'] = 'Pokaż tylko obserwowane kategorie';
