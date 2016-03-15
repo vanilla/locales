@@ -849,6 +849,7 @@ $Definition[' now.'] = ' 现在。';
 $Definition['Null Date'] = '-';
 
 $Definition['of'] = '的';
+$Definition['Off'] = '关';
 $Definition['Off Topic'] = '题外话';
 $Definition['OK'] = '确定';
 $Definition['Okay'] = '确定';
