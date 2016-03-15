@@ -872,6 +872,7 @@ $Definition['Owner'] = 'Owner';
 
 $Definition['page'] = 'page';
 $Definition['Page'] = 'Page';
+$Definition['Page %s'] = 'Page %s';
 $Definition['Page %1$s of %2$s'] = 'Page %1$s of %2$s';
 $Definition['PageDetailsMessage'] = '%1$s to %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
