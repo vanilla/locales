@@ -701,11 +701,13 @@ $Definition[' now.'] = 'dabar.';
 
 $Definition['Null Date'] = '-';
 
+$Definition['Off'] = 'Išjungta';
 $Definition['Off Topic'] = 'Ne į temą';
 $Definition['OK'] = 'Gerai';
 $Definition['Okay'] = 'Gerai';
 $Definition['OldPassword'] = 'Senas slaptažodis';
 $Definition['Old Password'] = 'Senas slaptažodis';
+$Definition['On'] = 'Įjungti';
 $Definition['on'] = 'metu';
 $Definition['Only show followed categories'] = 'Rodyti tik kategorijas, kurias užsiprenumeravau';
 $Definition['OpenID Settings'] = 'OpenID nustatymai';

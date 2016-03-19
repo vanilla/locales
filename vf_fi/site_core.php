@@ -861,11 +861,12 @@ $Definition[' now.'] = ' nyt.';
 $Definition['Null Date'] = '-';
 
 $Definition['of'] = 'kohteesta';
+$Definition['Off'] = 'Pois käytöstä';
 $Definition['Off Topic'] = 'Aiheen vierestä';
 $Definition['Okay'] = 'Ok';
 $Definition['OldPassword'] = 'Vanha salasana';
 $Definition['Old Password'] = 'Vanha salasana';
-$Definition['On'] = '@';
+$Definition['On'] = 'Käytössä';
 $Definition['on'] = 'aika';
 $Definition['Online Preferences'] = 'Online-mieltymykset ';
 $Definition['Only show followed categories'] = 'N&auml;yt&auml; vain seurantaan asetetut kategoriat';

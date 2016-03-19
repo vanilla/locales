@@ -13,11 +13,17 @@ $Definition['Ban Type'] = 'Thayipha';
 $Definition['Condition Expression'] = 'Inani';
 $Definition['Condition Type'] = 'Thayipha';
 
+$Definition['Decline'] = 'Enqaba';
 $Definition['default type'] = 'okumisiwe';
+$Definition['Disable'] = 'Yekisa ';
+$Definition['Disabled'] = 'Abakhubazekile';
 $Definition['DownloadLocalePack'] = 'Ehlisa';
+
+$Definition['Enable'] = 'Vumela';
 
 $Definition['Notes'] = 'Amanothi';
 
+$Definition['On'] = 'Eduze';
 $Definition['Operation By'] = 'Ngokuthi';
 
 $Definition['Permission.Category'] = 'Isigaba';

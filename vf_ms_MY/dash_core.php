@@ -13,11 +13,17 @@ $Definition['Ban Type'] = 'Taip';
 $Definition['Condition Expression'] = 'Nilai';
 $Definition['Condition Type'] = 'Taip';
 
+$Definition['Decline'] = 'Penurunan';
 $Definition['default type'] = 'lalai';
+$Definition['Disable'] = 'Mematikan';
+$Definition['Disabled'] = 'Kurang Upaya';
 $Definition['DownloadLocalePack'] = 'Muat turun';
+
+$Definition['Enable'] = 'Membolehkan';
 
 $Definition['Notes'] = 'Nota-nota';
 
+$Definition['On'] = 'Pada';
 $Definition['Operation By'] = 'Menurut';
 
 $Definition['Permission.Category'] = 'Kategori';

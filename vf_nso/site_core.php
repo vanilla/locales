@@ -122,6 +122,7 @@ $Definition['Accepted'] = 'Amogetšwe';
 $Definition['Accept this answer.'] = 'Amogela karabo ye.';
 $Definition['Access the Site'] = 'Fihlelela Wepesaete ye';
 $Definition['Account Options'] = 'Dikgetho tša Akhaonte';
+$Definition['Actions'] = 'Tiro';
 $Definition['Activate'] = 'Bula';
 $Definition['Active'] = 'E a šoma';
 $Definition['Active Users'] = 'Badiriši ba ka Mehla';
@@ -863,6 +864,8 @@ $Definition['Owner'] = 'Mong';
 
 $Definition['Page'] = 'Letlakala';
 $Definition['page'] = 'letlakala';
+$Definition['Page %1$s of %2$s'] = 'Letlakala  %1$s ya %2$s';
+$Definition['Page %s'] = 'Letlakala %s';
 $Definition['PageDetailsMessage'] = 'go';
 $Definition['PageDetailsMessageFull'] = 'go ya';
 $Definition['Page Not Found'] = 'Letlakala ga se la Hwetšwa';

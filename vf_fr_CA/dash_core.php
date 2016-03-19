@@ -492,7 +492,7 @@ $Definition['Notify me when people start new discussions.'] = 'M\'avertir à cha
 $Definition['Not Spam'] = 'Non spam';
 $Definition['Number of blocked registrations'] = 'Nombre d\'inscriptions bloquées';
 
-$Definition['On'] = 'Actif';
+$Definition['On'] = 'Activé';
 $Definition['Only display on mobile browsers.'] = 'Seulement afficher sur des navigateurs mobiles.';
 $Definition['Operation By'] = 'Par';
 $Definition['Organize'] = 'Organiser';
