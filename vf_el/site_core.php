@@ -842,13 +842,13 @@ $Definition[' now.'] = 'τώρα.';
 $Definition['Null Date'] = '-';
 
 $Definition['of'] = 'του';
-$Definition['Off'] = 'Απενεργοποίηση';
+$Definition['Off'] = 'Όχι';
 $Definition['Off Topic'] = 'Εκτός Θέματος';
 $Definition['OK'] = 'Εντάξει';
 $Definition['Okay'] = 'Εντάξει';
 $Definition['OldPassword'] = 'Παλιός Κωδικός';
 $Definition['Old Password'] = 'Παλιός Κωδικός';
-$Definition['On'] = 'Στις';
+$Definition['On'] = 'Ναι';
 $Definition['on'] = 'σε';
 $Definition['Online Preferences'] = 'Διαδικτυακές Προτιμήσεις';
 $Definition['Only show followed categories'] = 'Δείτε μόνο τις κατηγορίες που ακολουθείτε.';
