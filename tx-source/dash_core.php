@@ -401,11 +401,8 @@ $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limit th
 $Definition['Locale Key (Folder)'] = 'Locale Key (Folder)';
 $Definition['Locale Name'] = 'Locale Name';
 $Definition['Locales'] = 'Locales';
-$Definition['Locales allow you to support other languages on your site.'] = "Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.";
-$Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once a locale has been added to your %s folder, you can enable or disable it here.';
 $Definition['Location'] = 'Location';
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';
-$Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
 
 $Definition['Maintenance Mode'] = 'Maintenance Mode';
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
@@ -424,8 +421,7 @@ $Definition['Manage Themes'] = 'Manage Themes';
 $Definition['Manage Users'] = 'Manage Users';
 $Definition['Managing Categories'] = 'Managing Categories';
 $Definition['Manual'] = 'Manual';
-$Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
-$Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
+
 $Definition['Max Comment Length'] = 'Max Comment Length';
 $Definition['Max height of %s'] = 'Max height of %s';
 $Definition['Max height of %s in pixels'] = 'Max height of %s in pixels';
@@ -433,7 +429,6 @@ $Definition['Max number of %s'] = 'Max number of %s';
 $Definition['Max %s length'] = 'Max %s length';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Message ID'] = 'Message ID';
-$Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['Method'] = 'Method';
 $Definition['minute(s)'] = 'minute(s)';
 $Definition['Mixed Layout'] = 'Mixed Layout';
