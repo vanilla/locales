@@ -493,6 +493,8 @@ $Definition['Role Name'] = 'Role Name';
 $Definition['Roles & Permissions'] = 'Roles & Permissions';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 $Definition['Role to Grant'] = 'Role to Grant';
+$Definition['Route'] = 'Route';
+$Definition['Routes'] = 'Routes';
 $Definition['Run structure & data scripts'] = 'Run structure & data scripts';
 
 $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
@@ -537,12 +539,10 @@ $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for poc
 $Definition['Test URL'] = 'Test URL';
 $Definition['Text Color'] = 'Text Color';
 $Definition['TextEnterEmails'] = 'Type email addresses separated by commas here';
-
 $Definition['The %s badge has already been given to %s.'] = 'The %s badge has already been given to %s.';
 $Definition['The %s locale pack does not exist.'] = 'The %s locale pack does not exist.';
 $Definition['The %s table is not in the correct format.'] = 'The %s table is not in the correct format.';
 $Definition['The %s was already approved by %s on %s.'] = 'The %s was already approved by %s on %s.';
-
 $Definition['The Basics'] = 'The Basics';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = 'The content you were looking for has been deleted.';
@@ -557,7 +557,6 @@ $Definition['Themes'] = 'Themes';
 $Definition['Theming Overview'] = 'Theming Overview';
 $Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png';
 $Definition['There are currently no applicants.'] = 'There are currently no applicants.';
-
 $Definition['There are no items awaiting moderation at this time.'] = 'There are no items awaiting moderation at this time.';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
@@ -578,7 +577,6 @@ $Definition['The user content will be completely deleted.'] = 'The user content 
 $Definition['The user content will remain untouched.'] = 'The user content will remain untouched.';
 $Definition['The user has been created successfully'] = 'The user has been created successfully';
 $Definition['The user has been deleted.'] = 'The user has been deleted.';
-
 $Definition['This action cannot be undone.'] = 'This action cannot be undone.';
 $Definition['This category has custom permissions.'] = 'This category has custom permissions.';
 $Definition['This category is archived.'] = 'This category is archived.';
@@ -586,9 +584,7 @@ $Definition['This connection is in test-mode.'] = 'This connection is in test-mo
 $Definition['This Database'] = 'This Database';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
-
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
-
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
 $Definition['This pocket is an ad.'] = 'This pocket is an ad.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
@@ -669,5 +665,3 @@ $Definition['You must specify an admin username.'] = 'You must specify an admin 
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
 $Definition['Your invitations were sent successfully.'] = 'Your invitations were sent successfully.';
-$Definition['Routes'] = 'Routes';
-$Definition['Route'] = 'Route';
