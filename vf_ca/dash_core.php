@@ -8,13 +8,9 @@ $Definition['1 month'] = '1 mes';
 $Definition['1 month after being sent'] = '1 mes després de ser enviat';
 $Definition['1 week'] = '1 semana';
 $Definition['1 week after being sent'] = '1 setmana després de ser enviat';
-
 $Definition['2 weeks after being sent'] = '2 setmanes després de ser enviat';
-
 $Definition['4 hours'] = '4 hores';
-
 $Definition['5 minutes'] = '5 minuts';
-
 $Definition['15 minutes'] = '15 minuts';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirma el teu compte de correu';
@@ -66,7 +62,6 @@ $Definition['Edit CSS'] = 'Editar CSS';
 $Definition['Edit HTML'] = 'Editar HTML';
 $Definition['Edit Message'] = 'Editar missatge';
 $Definition['Edit Role'] = 'Editar rol';
-$Definition['Edit Route'] = 'Editar ruta';
 $Definition['Edit User'] = 'Editar usuari';
 $Definition['Every %s hour'] = 'Cada hora';
 $Definition['Every %s hours'] = 'Cada %s hores';
@@ -88,7 +83,6 @@ $Definition['give'] = 'donar';
 
 $Definition['Html'] = 'HTML';
 
-$Definition['Import'] = 'Importar';
 $Definition['Information'] = 'Informació';
 $Definition['Invitation Code'] = 'Codi d\'invitació';
 $Definition['Invited by'] = 'Convidat per';

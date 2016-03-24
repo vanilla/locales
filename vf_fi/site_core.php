@@ -411,7 +411,7 @@ $Definition['Deny Applicant'] = 'Kiellä';
 $Definition['Description'] = 'Kuvaus';
 $Definition['Did this answer the question?'] = 'Oliko t&auml;m&auml; vastaus kysymykseesi?';
 $Definition['Disable'] = 'Poista k&auml;yt&ouml;st&auml;';
-$Definition['Disabled'] = 'Pois k&auml;yt&ouml;st&auml;';
+$Definition['Disabled'] = 'Ei Käytössä ';
 $Definition['Disagree'] = 'Hylk&auml;&auml;';
 $Definition['Discussion'] = 'Keskustelu';
 $Definition['discussion'] = 'keskustelu';
@@ -546,7 +546,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lue koko juttu t&auml;&auml;lt&auml;</a></p><div class="ClearFix"></div></div>';
 $Definition['Enable'] = 'Ota k&auml;ytt&ouml;&ouml;n';
-$Definition['Enabled'] = 'Ota k&auml;ytt&ouml;&ouml;n: Valittu Tasku n&auml;ytet&auml;&auml;n.';
+$Definition['Enabled'] = 'Käytössä';
 $Definition['End time?'] = 'Lopetusaika?';
 $Definition['English'] = 'Englanti';
 $Definition['Enter your Email address'] = 'Anna s&auml;hk&ouml;postiosoitteesi';

@@ -1,5 +1,3 @@
 <?php
 
-$Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
-
-$Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
+$Definition['You can place files in your /uploads folder.'] = 'If your file is too large to upload directly to this page you can place it in your /uploads folder. Make sure the filename begins with the word <b>export</b> and ends with one of <b>.txt, .gz</b>.';

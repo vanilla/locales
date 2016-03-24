@@ -25,13 +25,9 @@ $Definition['1 month'] = 'شهر واحد';
 $Definition['1 month after being sent'] = 'شهر واحد بعد الإرسال';
 $Definition['1 week'] = 'أسبوع واحد';
 $Definition['1 week after being sent'] = 'أسبوع واحد بعد الإرسال';
-
 $Definition['2 weeks after being sent'] = 'أسبوعين بعد الإرسال';
-
 $Definition['4 hours'] = '٤ ساعات';
-
 $Definition['5 minutes'] = '٥ دقائق';
-
 $Definition['15 minutes'] = '١٥ دقيقة';
 
 $Definition['[%s] Invitation'] = 'دعوة [%s]';
@@ -53,7 +49,6 @@ $Definition['Add Info &amp; Create Account'] = 'إضافة معلومات &amp; 
 $Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'أضف عنوان البريد في حقل من، للردود البريدية (يفضل هذا)';
 $Definition['Adding & Editing Categories'] = 'إضافة وتحرير الأقسام';
 $Definition['Add Item'] = 'أضف عنصرا';
-$Definition['AddonProblems'] = '<h2>مشاكل؟</h2><p> إذا حدث خلل مع أحد الإضافات وتعذر عليك إستخدام الموقع فيمكنك تعطيلها يدويا بتحرير:</p> %s';
 $Definition['Addons'] = 'الإضافات';
 $Definition['Add Role'] = 'أضف دور';
 $Definition['Add User'] = 'أضف مستخدم';
@@ -66,7 +61,6 @@ $Definition['Advanced settings for embedded community elements'] = 'إعدادا
 $Definition['After'] = 'بعد';
 $Definition['Alive'] = 'حي';
 $Definition['All %1$s'] = 'كل %1$s';
-$Definition['All categories listed with a selection of 5 recent discussions under each'] = 'كل الأقسام المختارة مع عرض 5 مواضيع حديثة تحت كل منها';
 $Definition['All Dashboard Pages'] = 'كل صفحات لوحة التحكم';
 $Definition['All discussions in this category will be permanently deleted.'] = 'كل المواضيع في هذا القسم سيتم حذفها نهائيا.';
 $Definition['All Forum Pages'] = 'كل صفحات المنتدى';
@@ -74,7 +68,6 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow new users to be registered through email.'] = 'يمكن الأعضاء الجدد التسجيل بإستخدام عنوان البريد.';
 $Definition['Allow users to dismiss this message'] = 'إسمح للمستخدم بإغلاق هذة الرسالة';
 $Definition['All Pages'] = 'كل الصفحات';
-$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'على الرغم بأن الدعوة قد تم تكوينها بنجاح إلا أن فشلت في الوصول. لقد حصل الخلل التالي: %s';
 $Definition['Applicant'] = 'صاحب الطلب';
 $Definition['Applicant Role'] = 'حدد دور المشترك الجديد. هذا يعمل فقط في حالة إستخدام طريقة <b>إعتماد</b> التسجيل.';
 $Definition['Application'] = 'تطبيق';
@@ -104,7 +97,6 @@ $Definition['Browse for a new banner logo if you would like to change it:'] = 'L
 
 $Definition['Categories Layout'] = 'تصميم الأقسام';
 $Definition['Category Url:'] = 'رابط القسم:';
-$Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Change your banner'] = 'تغير البنر';
 $Definition['comment(s)'] = 'تعليقات';
 $Definition['Comment  Body'] = 'نص التعليق';
@@ -118,7 +110,6 @@ $Definition['Criteria'] = 'المتطلبات';
 
 $Definition['Default  Category'] = 'قسم قياسي';
 $Definition['default type'] = 'قياسي';
-$Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Delete Category'] = 'حذف القسم';
 $Definition['Disabled %1$s'] = 'تعطيل %1$s';
 $Definition['discussion(s)'] = 'مواضيع';
@@ -136,10 +127,6 @@ $Definition['Every %s second'] = 'Every second';
 $Definition['Every 1 minute'] = 'كل دقيقة';
 $Definition['Every Page'] = 'كل الصفحات';
 
-$Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
-   Click <b>Finished</b> when you are ready.';
-$Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
-   Please choose one of the following options.';
 $Definition['Generate Client ID and Secret'] = 'أنشىء هوية العميل وكلمة السر';
 $Definition['give'] = 'أعطي';
 
@@ -196,7 +183,6 @@ $Definition['Start Discussions'] = 'كتابة مواضيع';
 $Definition['take away'] = 'خذ من';
 $Definition['TextEnterEmails'] = 'Type email addresses separated by commas here';
 $Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';
-$Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
 $Definition['The specified url code is already in use by another category.'] = 'الرابط المطلوب مستخدم من قبل قسم آخر.';
 $Definition['This connection is in test-mode.'] = 'هذا الإتصال في حالة الإختبار';
 $Definition['Titles'] = 'العناوين';
@@ -210,16 +196,10 @@ $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 
-$Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
-If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Why do you want to join?'] = 'لم تريد الانضمام؟';
 
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'If you are ever locked out of your forum you can always log in using your original Vanilla email and password at <a href="%1$s">%1$s</a>';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
-$Definition['You can place files in your /uploads folder.'] = 'If your file is too
-		large to upload directly to this page you can place it in your /uploads
-		folder. Make sure the filename begins with the word <b>export</b> and ends
-		with one of <b>.txt, .gz</b>.';
 $Definition['You must manually apply this rank.'] = 'يجب أن تضيف هذة الرتبية يدويا.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';

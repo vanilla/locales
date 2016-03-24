@@ -15,13 +15,9 @@ $Definition['1 month'] = '1 ខែ';
 $Definition['1 month after being sent'] = '1 ខែ​ក្រោយ​ពេល​បាន​ផ្ញើ';
 $Definition['1 week'] = '1 សប្ដាហ៍';
 $Definition['1 week after being sent'] = '1 សប្ដាហ៍​ក្រោយ​ពេល​បាន​ផ្ញើ';
-
 $Definition['2 weeks after being sent'] = '2 សប្ដាហ៍​ក្រោយ​បាន​ផ្ញើ';
-
 $Definition['4 hours'] = '4 ម៉ោង';
-
 $Definition['5 minutes'] = '5 នាទី';
-
 $Definition['15 minutes'] = '15 នាទី';
 
 $Definition['Action'] = 'សកម្មភាព';

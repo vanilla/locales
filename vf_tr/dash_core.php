@@ -20,13 +20,9 @@ $Definition['1 month'] = '1 ay';
 $Definition['1 month after being sent'] = '1 ay önce gönderildi';
 $Definition['1 week'] = '1 hafta';
 $Definition['1 week after being sent'] = '1 hafta önce gönderildi.';
-
 $Definition['2 weeks after being sent'] = '2 hafta önce gönderildi.';
-
 $Definition['4 hours'] = '4 saat';
-
 $Definition['5 minutes'] = '5 dakika';
-
 $Definition['15 minutes'] = '15 dakika';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Email adresini tekrar yaz';
@@ -43,7 +39,6 @@ $Definition['Advanced Settings'] = 'Gelişmiş Ayarlar';
 $Definition['a full year.'] = 'bütün yıl';
 $Definition['Applicant'] = 'Başvuran';
 $Definition['Applied On'] = 'Tarih';
-$Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Doğru veritabanı adını girdiğinizden emin misiniz? Belki, yanlış girmiş olabilirsiniz. Veritabanı raporu: <code>%s</code> ';
 $Definition['Are you sure you want to delete %s items forever?'] = '%s öğeyi kalıcı olarak silmek istediğinizden emin misiniz?';
 $Definition['Are you sure you want to delete 1 item forever?'] = 'Öğeyi kalıcı olarak silmek istediğinizden emin misiniz?';
 $Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = 'Bu rozeti silmek istediğinizden emin misiniz? Bu işlem geri alınamaz ve rozet, bu rozete sahip olan kişilerden kaldırılacak.';
