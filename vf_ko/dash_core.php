@@ -8,10 +8,6 @@ $Definition['1 week after being sent'] = '발송 후 1 주 경과';
 
 $Definition['2 weeks after being sent'] = '발송 후 2 주 경과';
 
-$Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
-$Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['Action'] = '활동';
 $Definition['Add Category'] = '카테고리 추가';
 $Definition['Add Info &amp; Create Account'] = '정보 입력 &amp; 계정 만들기';
@@ -22,8 +18,6 @@ $Definition['Add User'] = '사용자 추가';
 $Definition['Advanced Forum Settings'] = '고급 포럼 설정';
 $Definition['Applicant'] = '가입 승인 대기자';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
-$Definition['ApplicationHelp'] = '어플리케이션을 사용하여 포럼에 대량의 기능을 쉽게 추가할 수 있습니다.<br />
-사용하기 원하는 어플리케이션을 다음의 경로에 추가한 후 목록에서 활성화 하여 사용합니다: %s';
 $Definition['Applications'] = '어플리케이션';
 $Definition['Applied On'] = '날짜';
 $Definition['Archive Discussions'] = '글타레 보관하기';
@@ -42,7 +36,6 @@ $Definition['Change the look of All Categories'] = 'You can change the look of t
 $Definition['Change the way that new users register with the site.'] = '새로운 사용자가 사이트에 등록하는 방식을 변경합니다.';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check all permissions that apply for each role'] = '각 역할에 할당된 모든 사용 권한을 확인';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a locale pack'] = '현지화 페키지 선택';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Choose who can send out invitations to new members:'] = '신규회원에게 초대장을 보낼 수 있는 회원을 선택해 주십시오:';
@@ -72,7 +65,6 @@ $Definition['Discussion & Comment Editing'] = '글 & 댓글 수정';
 $Definition['discussion(s)'] = '개 이상의 게시글을';
 $Definition['Discussions per Page'] = '페이지당 글 수';
 $Definition['Display root categories as headings.'] = '루트 카테고리를 헤딩으로 표시.';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '관리자 대시보드 포함하지 않음 (전체화면으로 팝업)';
 $Definition['Don\'t use Categories'] = '카테고리를 사용하지 않음';
 $Definition['Do not display the categories in the side panel.'] = '사이드바에 카테고리를 표시하지 않음.';
 $Definition['DownloadLocalePack'] = '다운로드';
@@ -92,19 +84,6 @@ $Definition['Enter the url to the page you would like to use as your homepage'] 
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '포럼의 모든 회원들에게는 하나 이상의 역할(Role)이 할당됩니다.
-이것은 사용자가 할 수 있는 일과 할 수 없는 일을 결정하는 권한을 설정하는데 사용됩니다.
-<br />
-<ul>
-  <li><strong>Banned: </strong>차단된 회원</li>
-  <li><strong>Guest:</strong> 손님</li>
-  <li><strong>Applicant:</strong> 가입 승인 대기자</li>
-  <li><strong>Member:</strong> 정회원</li>
-  <li><strong>Moderator:</strong> 운영자</li>
-  <li><strong>Adminstrator:</strong> 사이트 관리자</li>
-  <li><strong>Confirm Email:</strong> 정회원이 되려면 이메일 인증을 해야 합니다. 이메일 인증이 필요한 회원은 이곳으로 분류됩니다.</li>
-</ul>
-';
 $Definition['Exclude archived discussions from the discussions list'] = '보관 처리된 글을 글목록에서 표시하지 않기.';
 $Definition['Existing members send invitations to new members.'] = '기존 회원이 신규 회원을 초대.';
 
@@ -114,7 +93,6 @@ $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to ch
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
 $Definition['First Visit'] = '첫 방문';
 $Definition['Force your forum to be viewed through the Remote Url'] = '포럼이 리모트 URL을 통해 보여지도록 강제 설정';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO을 위해 검색 엔진 크롤러는 리모트 URL을 통한 강제 설정에서  제외됩니다.';
 $Definition['Forum Settings'] = '포럼 설정';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
@@ -122,11 +100,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = '임포트를 원하는 데이타의 어드민 이메일 주소와 패스워드를 입력하십시오.';
-$Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 $Definition['Generate'] = '생성';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
@@ -145,11 +118,9 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = '초대하기 기능을 사용하여 가입자를 받을 경우 회원들에게 <a href="%s" class="Popup">초대하기</a> 링크가 프로필 페이지에 생성됩니다.';
 $Definition['Invitations per month'] = '월별 초대 횟수';
 $Definition['Invitations will expire'] = '초대 기간 만료';
 $Definition['Invited by'] = '다음의 사용자가 당신을 초대하였습니다';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '댓글의 길이를 제한하면 글의 길이를 일정하게 유지할 수 있습니다.';
 
 $Definition['Last Visit'] = '최근 방문한 날짜';
 $Definition['Locale Name'] = '언어 이름';

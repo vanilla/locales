@@ -6,11 +6,6 @@ $Definition['[%s] Invitation'] = '[%s] Invitasjon';
 $Definition['[%s] Password Reset'] = '[%s] Passord nullstilt';
 $Definition['[%s] Password Reset Request'] = '[%s] Forespør nullstilling av passord.';
 
-$Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
-$Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Få tilgang til samfunnsforumet ditt ved å klikke lenken "Besøk side" øverst på siden, eller ved å <a href={/,url}>klikke her</a>. Samfunnsforumet er det alle brukerne og kundene dine kommer til å se når de besøker <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Add Info &amp; Create Account'] = 'Legg til info &amp; Opprett konto';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Add Role'] = 'Legg til rolle';
@@ -20,7 +15,6 @@ $Definition['Allow users to dismiss this message'] = 'Tillat brukere å avskjedi
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Selv om invitasjonen ble laget, kunne ikke e-posten bli sendt. Serveren sier det er fordi: %s';
 $Definition['Applicant'] = 'Søker rolle';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
-$Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 
 $Definition['Background Color'] = 'Bakgrunnsfarge';
 $Definition['Badge Name'] = 'Navn';
@@ -39,7 +33,6 @@ $Definition['Check all permissions that apply to this role:'] = 'Kryss av alle r
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hei, kamerat!
 
 Sjekk ut det nye samfunnsforumet jeg akkurat opprettet. Det er et kjempefint sted for oss å snakke sammen på nettet.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Condition Field'] = 'Field';
 $Definition['Configure an Authenticator'] = 'Konfigurer en autentisering';
@@ -68,8 +61,6 @@ $Definition['Error sending email. Please review the addresses and try again.'] =
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
-$Definition['Everyone who signs up gets a profile page.'] = 'Alle som registrerer seg i samfunnet ditt får en offentlig profilside der de kan laste opp et bilde av seg selv, administrere profilinnstillinger, og spore kule ting som skjer i samfunnet. Du burde <a href="{/profile,url}">tilpasse profilen din nå</a>.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Hver eneste bruker må få minst én rolle. Roller brukes for å bestemme hva brukere har lov til å gjøre.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
@@ -81,11 +72,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 $Definition['Give a Badge'] = 'Gi et skilt';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
@@ -94,7 +80,6 @@ $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {Ac
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Øy! Dette er en spesiell rolle som ikke tillater aktive sessions. Av denne grunn har tillatelse valgene vært begrenset til "Se" tillatelser. Dvs. Kun "Se" og ikke "Skriv". ';
 $Definition['Hide signatures for guests'] = 'Skjul signaturer for gjester';
 $Definition['Hide signatures on embedded comments'] = 'Skjul signaturer på innsatte kommentarer';
 $Definition['Html'] = 'HTML';
@@ -106,11 +91,9 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 
 $Definition['Large images will be scaled down.'] = 'Store bilder vil nedskaleres til en maksbredde på %spx og makshøyde på %spx.';
 $Definition['Last Visit'] = 'Siste besøk';
-$Definition['Learn about custom routing.'] = 'Lær om egendefinert routing.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Localer lar deg støtte andre språk på siden din. Aktiver og deaktiver localer du ønsker å gjøre tilgjengelig her.';
 $Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once a locale has been added to your %s folder, you can enable or disable it here.';
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';

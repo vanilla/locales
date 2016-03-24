@@ -34,9 +34,6 @@ $Definition['5 minutes'] = '5 minutos';
 
 $Definition['15 minutes'] = '15 minutos';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Atenção!</strong> Deletar uma função pode fazer com que alguns membros não tenham acesso ao site.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Atenção!</strong> Mover tópicos para uma categoria de reposição pode provocar tópicos que sumem (ou aparecem) caso a categoria de reposição tenha diferentes autorizações da que está sendo apagada.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirme seu e-mail';
 $Definition['[%s] Invitation'] = '[%s] Convite';
 $Definition['[%s] Password Reset'] = '[%s] Recuperar senha';
@@ -44,13 +41,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Solicitar recuperação de se
 
 $Definition['a Badge'] = 'uma medalha';
 $Definition['Abilites'] = 'Habilidades';
-$Definition['About.DisableStatistics'] = 'Se você precisar desabilitar este relatório de dados por algum motivo, você pode fazê-lo adicionando a seguinte linha ao arquivo de configuração de sua instalação: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'É de vital importância para a perduração deste software livre e de código aberto, que consigamos medir com precisão o alcance e a efetividade do Vanilla. Pedimos que, por favor, não desative os informes destes dados.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla pode ser usado como um substituto para a sessão original de comentários do seu blog. Aliás, pode ser usado para incluir comentários em qualquer site.';
-$Definition['AboutEmbedding'] = 'Incorporação permite que toda ou parte da sua comunidade seja incorporada em outras aplicações ou sites.';
-$Definition['About Vanilla Statistics'] = 'Sobre as estatística do Vanilla';
 $Definition['Above Main Content'] = 'Acima do conteúdo principal';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Acesse o fórum da sua comunidade clicando em "Visitar site" na parte superior desta página ou <a href={/,url}>clicando aqui</a>. O fórum da comunidade é o que todos os seus usuários &amp; clientes verão ao visitar <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Sincronização da conta falhou';
 $Definition['Action'] = 'Ação';
 $Definition['Actions Based on Votes'] = 'Ações baseadas em votos';
@@ -94,7 +85,6 @@ $Definition['API Status'] = 'Situação da API';
 $Definition['Applicant'] = 'Candidato';
 $Definition['Applicant Role'] = 'Selecione a função que deverá ser aplicada a novos membros registrados. Isto só vale se você tiver o método de registro de <b>aprovação</b>.';
 $Definition['Application'] = 'Candidatura';
-$Definition['ApplicationHelp'] = 'Aplicações permitem que você adicione amplos grupos de funcionalidade ao seu site.<br />Uma vez que a aplicação for adicionada à pasta %s, você poderá habilitá-la aqui.';
 $Definition['Application ID'] = 'ID de candidatura';
 $Definition['Applications'] = 'Aplicações';
 $Definition['Application Secret'] = 'Segredo de aplicação';
@@ -233,7 +223,6 @@ $Definition['Delete Category'] = 'Excluir categoria';
 $Definition['Delete Role'] = 'Excluir função';
 $Definition['Delete User'] = 'Excluir usuário';
 $Definition['Delete User: %s'] = 'Excluir usuário; %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = 'Excluir uma função pode provocar que usuários não tenham acesso ao site.';
 $Definition['Deleting category...'] = 'Excluindo categoria...';
 $Definition['Deleting forever cannot be undone.'] = 'Excluir é uma boa maneira de manter seu fórum limpo.';
 $Definition['Deleting role...'] = 'Excluindo função...';
@@ -251,21 +240,18 @@ $Definition['Disable Tagging'] = 'Desabilitar tags';
 $Definition['Discussion & Comment Editing'] = 'Edição de tópicos e comentários';
 $Definition['discussion(s)'] = 'tópico(s)';
 $Definition['Discussion  Body'] = 'Corpo do tópico';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Categorias de tópicos são usadas para ajudar você a organizar seus tópicos de um jeito que faça sentido para sua comunidade.';
 $Definition['Discussions Layout'] = 'Layout dos tópicos';
 $Definition['Discussions per Page'] = 'Tópicos por página';
 $Definition['Discussion  Subject'] = 'Título do tópico';
 $Definition['Display in dashboard. (not recommended)'] = 'Exibir no Painel. (não recomendado)';
 $Definition['Display root categories as headings.'] = 'Mostrar categorias-raiz como cabeçalhos.';
 $Definition['Don\'t display for embedded comments.'] = 'Não mostrar para comentários incorporados.';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Não incorporar o painel de administração (será exibido em um pop up em tela cheia)';
 $Definition['Don\'t Refresh'] = 'Não atualize';
 $Definition['Don\'t use Categories'] = 'Não usar categorias';
 $Definition['Do not display the categories in the side panel.'] = 'Não mostrar as categorias no painel lateral.';
 $Definition['Download Locale List'] = 'Baixar lista de localização';
 $Definition['DownloadLocalePack'] = 'Baixar';
 $Definition['Download Locale Pack'] = 'Baixar pacote de localização';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Arraste e solte as categorias abaixo para organizar e montar a estrutura.';
 
 $Definition['Edit/Delete Log'] = 'Editar/Excluir registro';
 $Definition['Edit Category'] = 'Editar categoria';
@@ -302,8 +288,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Digite
 $Definition['Enter a descriptive name.'] = 'Dê um nome descritivo ao pocket. Este nome não será exibido em nenhum lugar exceto quando você estiver gerenciando seus pockets aqui. Somente serve para ajudar você a se lembrar dos seus pockets.';
 $Definition['Enter a short name for the site.'] = 'Digite uma abreviação para o nome do site. Ela será exibida nos botões de login.';
 $Definition['Enter numbers starting at 1.'] = 'Digite números começando por 1.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Digite o endereço do seu blog WordPress e nós faremos o resto.';
-$Definition['Enter the connection settings for your sphinx server below.'] = 'Digite as configurações de conexão do servidor do sphinx abaixo.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Coloque o endereço de e-mail da pessoa que deseja convidar:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Digite a URL que você deseja utilizar como página principal.';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Coloque a URL da página que você deseja utilizar como página principal:';
@@ -315,11 +299,8 @@ $Definition['Every %s minutes'] = 'Cada %s minutos';
 $Definition['Every %s second'] = 'Cada segundo';
 $Definition['Every %s seconds'] = 'Cada %s segundos';
 $Definition['Every 1 minute'] = 'Cada 1 minuto';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Todas as edições e exclusões são registradas aqui. Clique em &lsquo;Restaurar&rsquo; para desfazer qualquer alteração.';
-$Definition['Everyone who signs up gets a profile page.'] = 'Todos aqueles que se inscreverem na sua comunidade irão obter uma página de perfil público, na qual poderão carregar uma fotografia deles mesmos, gerir as definições dos respetivos perfis e acompanhar coisas interessantes que se passam na comunidade. Deverá <a href="{/profile,url}">personalizar o seu perfil agora mesmo</a>.';
 $Definition['Every Page'] = 'Todas as páginas';
 $Definition['Everything is ok.'] = 'Tudo está OK.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'A todos os membros do site é assignada, pelo menos, uma função. As funções são usadas para determinar o que os membros podem fazer.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Excluir tópicos arquivados da lista de tópicos';
 $Definition['Existing members send invitations to new members.'] = 'Membros registrados enviam convites a novos membros.';
 $Definition['Exit Preview'] = 'Sair da pré-visualização';
@@ -334,10 +315,8 @@ $Definition['FileUpload is currently ON'] = 'Envio de arquivo está ATIVADO.';
 $Definition['Finished'] = 'Finalizado';
 $Definition['First Visit'] = 'Primeira visita';
 $Definition['Flood Control'] = 'Controle de Flood';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force o Painel a ser acessado somento através desta URL <em>(não recomendado)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Force o fórum a ser acessível somente através desta URL';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Force o seu fórum a ser visto através de uma URL remota';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Para fins SEO, crawlers de mecanismos de busca não precisam passar pela URL remota para ver o fórum.';
 $Definition['Forum Settings'] = 'Configurações de fórum';
 $Definition['Frequency'] = 'Frequência';
 
@@ -346,9 +325,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Coloque o e-mail e senha do administrador que está importando estes dados.';
-$Definition['Garden.StatisticsDisabled'] = 'Você desabilitou as estatísticas do Vanilla em seu arquivo de configuração.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'Se você tem certeza que o seu fórum está acessível pela internet, você pode força-lo a fornecer estatísticas aqui:';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'Para resolver este problema, atribua o modo 777 ao arquivo conf/config.php.';
 $Definition['Gave badge to users.'] = 'Dar medalha a usuários';
 $Definition['Generate'] = 'Gerar';
 $Definition['Generate Client ID and Secret'] = 'Gerar o ID do cliente e a chave secreta';
@@ -379,8 +355,6 @@ $Definition['How to use themes'] = 'Como usar temas';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'E-mails HTML';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Se um logo for atualizado, ele irá substituir os usados nas páginas do usuário.';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'Caso queira diminuir o nível do aviso e, então, removê-lo.';
 $Definition['Import'] = 'Importar';
 $Definition['Importing to Vanilla'] = 'Importando para o Vanilla';
 $Definition['Inbox Page'] = 'Caixa de entrada';
@@ -396,11 +370,9 @@ $Definition['InvitationMessage'] = 'Olá amigo!
 Dê uma olhada no novo fórum que eu acabei de montar. É um ótimo lugar para bater papo online.
 
 Siga o link abaixo para fazer o log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Quando você utiliza o registro por meio de convites de usuários, eles terão acesso à seção <a href="%s" class="Popup">Meus convites</a> em seus perfis.';
 $Definition['Invitations per month'] = 'Convites por mês';
 $Definition['Invitations will expire'] = 'Convites prestes a expirar';
 $Definition['Invited by'] = 'Convidado por';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'É uma boa ideia manter o número de caracteres permitidos em comentários abaixo de um valor razoável.';
 
 $Definition['jsConnect Client Libraries'] = 'Bibliotecas jsConnect do cliente';
 $Definition['jsConnect Documentation'] = 'Documentação do jsConnect';
@@ -412,9 +384,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Dê o 
 $Definition['Label this Revision'] = 'Coloque um label nesta revisão';
 $Definition['Large images will be scaled down.'] = 'As imagens grandes serão reduzidas até uma largura máxima de %spx e uma altura máxima de %spx.';
 $Definition['Last Visit'] = 'Última visita';
-$Definition['Learn about custom routing.'] = 'Aprenda sobre roteamento personalizado.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda como alterar completamente a aparência do seu fórum: enviar seu logo, configurar sua página principal, escolher um tema e customizá-lo.';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a como usar as funções básicas do seu fórum.';
 $Definition['Level'] = 'Nível';
 $Definition['Likes'] = 'Curtidas';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limite o pocket para um ou mais funções ou autorizações.';

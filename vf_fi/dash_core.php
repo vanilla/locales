@@ -33,22 +33,13 @@ $Definition['5 minutes'] = '5 minuuttia';
 
 $Definition['15 minutes'] = '15 minuuttia';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Huom!</strong> Roolin poistaminen voi aiheuttaa sen, ettei tietyill&auml; k&auml;ytt&auml;jill&auml; ole en&auml;&auml; p&auml;&auml:;sy&auml; palstallesi.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = 'Disqus -lis&auml;osan avulla mahdollistat k&auml;ytt&auml;jien kirjautumisen Disqus-tilins&auml; kautta. <b>Huomioi, ett&auml; lis&auml;osa on rekister&ouml;it&auml;v&auml; Disqusilla ensin.</b>';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] | Vahvista sähköpostiosoitteesi';
 $Definition['[%s] Invitation'] = '[%s] | Kutsu';
 $Definition['[%s] Password Reset'] = '[%s] | Salasanan uudelleenasetus';
 $Definition['[%s] Password Reset Request'] = '[%s] | Salasanan vaihtaminen';
 
 $Definition['a Badge'] = 'kunniamerkki';
-$Definition['About.DisableStatistics'] = 'Jos joudut poistamaan raportoinnin k&auml;yt&ouml;st&auml; esimerkiksi business-syist&auml;, tee se lis&auml;&auml;m&auml;ll&auml; oheinen rivi Vanillan asennuksen configuraatio-tiedostoon: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'On ensiarvoisen t&auml;rke&auml;&auml; Vanillan ilmaisena, Open Source-alustana pysymisen kannalta, ett&auml; saamme mitattua sen suorituskyky&auml; ja levinneisyytt&auml;. T&auml;st&auml; syyst&auml; toivomme, ettet poista t&auml;t&auml; lis&auml;osaa k&auml;yt&ouml;st&auml;.';
-$Definition['AboutCommentEmbedding'] = 'Vanillan avulla voit korvata blogisi kommentointitoiminnallisuuden helposti. Itseasiassa, Vanillan avulla voit mahdollistaa kommentoinnin mill&auml; tahansa muullakin sivustolla. ';
-$Definition['AboutEmbedding'] = 'Upottamisen avulla voit sis&auml;llytt&auml;&auml; forumisi kokonaan tai osittain muihin omiin sivustoihisi.';
-$Definition['About Vanilla Statistics'] = 'Tietoa Vanillan statistiikasta';
 $Definition['Above Main Content'] = 'Muun sis&auml;ll&ouml;n yl&auml;puolella';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Mene yhteisöfoorumillesi painamalla "Vieraile sivulla" -linkkiä tämän sivun yläosassa, tai <a href={/,url}>painamalla tästä</a>. Yhteisöfoorumi on se, mitä kaikki käyttäjäsi tai asiakkaasi näkevät, kun he vierailevat sivustolla <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Tilin synkronointi ep&auml;onnistui';
 $Definition['Action'] = 'Toiminto';
 $Definition['Actions Based on Votes'] = 'Toiminnot perustuen annettuihin &auml;&auml;niin';
@@ -88,7 +79,6 @@ $Definition['Although the invitation was created successfully, the email failed 
 $Definition['Applicant'] = 'Hakija';
 $Definition['Applicant Role'] = 'Valitse rooli, jota k&auml;ytet&auml;&auml;n j&auml;senyytt&auml; hakevien uusien k&auml;ytt&auml;jien kohdalla. T&auml;m&auml; valinta on k&auml;yt&ouml;ss&auml; vain jos olet valinnut rekister&ouml;itymistavaksi manuaalisen <b>hyv&auml;ksynn&auml;n</b> yll&auml;pidon toimesta.';
 $Definition['Application'] = 'Laajennus';
-$Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Application ID'] = 'Aplikaation ID';
 $Definition['Applications'] = 'Laajennukset';
 $Definition['Application Secret'] = 'Aplikaation Secret-koodi';
@@ -155,7 +145,6 @@ $Definition['Check out the full list of video tutorials here.'] = 'Katso koko li
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hei kamu!
 
 Katso uusi yhteisöfoorumi, jonka olen juuri perustanut. Se on mahtava paikka, jossa voimme jutella toisillemme internetissä. ';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a locale pack'] = 'Valitse kielitiedosto';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Valitse rooli mikä annetaan käyttäjille oletuksena:';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'M&auml;&auml;rit&auml;, miten haluat kohdella k&auml;ytt&auml;j&auml;n %s l&auml;hett&auml;m&auml;&auml; sis&auml;lt&ouml;&auml; (kommentit, viestit, jne).';
@@ -223,7 +212,6 @@ $Definition['Delete Category'] = 'Poista kategoria';
 $Definition['Delete Role'] = 'Poista rooli';
 $Definition['Delete User'] = 'Poista k&auml;ytt&auml;j&auml;';
 $Definition['Delete User: %s'] = 'Poista k&auml;ytt&auml;j&auml;: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = '<strong>Huom!</strong> Roolin poistaminen voi aiheuttaa sen, ettei tietyill&auml; k&auml;ytt&auml;jill&auml; ole en&auml;&auml; p&auml;&auml:;sy&auml; palstallesi.';
 $Definition['Deleting category...'] = 'Poistetaan kategoriaa..';
 $Definition['Deleting forever cannot be undone.'] = 'Poistaminen on hyv&auml; tapa pit&auml;&auml; forum siistin&auml;.';
 $Definition['Deleting role...'] = 'Poistetaan rooli..';
@@ -241,21 +229,18 @@ $Definition['Disable Tagging'] = 'Ota taggays pois k&auml;yt&ouml;st&auml;';
 $Definition['Discussion & Comment Editing'] = 'Keskusteluiden ja viestien muokkaus';
 $Definition['discussion(s)'] = 'keskustelu(a)';
 $Definition['Discussion  Body'] = 'Keskustelun Rakenne';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Keskustelujen jaottelu kategorioihin on suunniteltu helpottamaan forumisi yleist&auml; k&auml;ytt&ouml;kokemusta, keskustelujen seurantaa ja niihin osallistumista. Kategorioiden luomisessa kohtuus on kuitenkin suositeltavaa.';
 $Definition['Discussions Layout'] = 'Keskustelut-sivun ulkoasu';
 $Definition['Discussions per Page'] = 'Keskusteluja per sivu';
 $Definition['Discussion  Subject'] = 'Keskustelun Aihe';
 $Definition['Display in dashboard. (not recommended)'] = 'N&auml;yt&auml; kojelaudalla. (ei suositeltu)';
 $Definition['Display root categories as headings.'] = 'Kohtele p&auml;&auml;kategorioita otsikoina.';
 $Definition['Don\'t display for embedded comments.'] = 'Älä näytä upotetuille kommenteille.';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '&Auml;l&auml; k&auml;yt&auml; upotusta adminin kojelaudan osalta. (Avataan erillisessä ikkunassa.)';
 $Definition['Don\'t Refresh'] = '&Auml;l&auml; p&auml;ivit&auml;';
 $Definition['Don\'t use Categories'] = '&Auml;l&auml; k&auml;yt&auml; kategorioita';
 $Definition['Do not display the categories in the side panel.'] = '&Auml;l&auml; listaa kategorioita sivupaneelissa.';
 $Definition['Download Locale List'] = 'Lataa kielitiedostojen listaus';
 $Definition['DownloadLocalePack'] = 'Lataa';
 $Definition['Download Locale Pack'] = 'Lataa kielitiedostopaketti';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Raahaa ja pudota kategorioita alla haluamaasi j&auml;rjestykseen. ';
 
 $Definition['Edit/Delete Log'] = 'Muokkaa/poista lokeja';
 $Definition['Edit Category'] = 'Muokkaa forumia';
@@ -290,7 +275,6 @@ $Definition['Enabling a Locale Pack'] = 'Kielitiedoston k&auml;ytt&ouml;&ouml;no
 $Definition['Encourage your friends to join your new community!'] = 'Kannusta ystäviäsi liittymään uuteen yhteisöösi!';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Anna sivustollesi lyhyt nimi. T&auml;t&auml; k&auml;ytet&auml;&auml;n kirjautumis -painikkeissa.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Anna Wordpress blogisi osoite niin me jatkamme tästä.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Anna kutsuttavan henkil&ouml;n s&auml;hk&ouml;postiosoite:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Anna sen sivun url jota haluat k&auml;ytett&auml;v&auml;n forumin etusivuna';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Anna sen sivun url jota haluat k&auml;ytett&auml;v&auml;n forumin etusivuna:';
@@ -299,8 +283,6 @@ $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
 $Definition['Every 1 minute'] = 'Minuutin v&auml;lein';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Jokainen muokkaus ja poisto tallennetaan t&auml;nne. K&auml;yt&auml; toimintoa &lsquo;Peruuta&rsquo; kumotaksesi muutokset.';
-$Definition['Everyone who signs up gets a profile page.'] = 'Kaikki yhteisöösi rekisteröityvät saavat julkisen profiilisivun, jossa he voivat lisätä kuvan itsestään, hallita profiilinsa asetuksia, ja seurata siistejä juttuja yhteisössä. Sinun tulisi <a href="{/profile,url}">kustomoida profiilisi nyt</a>.';
 $Definition['Every Page'] = 'Kaikilla sivuilla';
 $Definition['Everything is ok.'] = 'Kaikki kunnossa.';
 $Definition['Exclude archived discussions from the discussions list'] = '&Auml;l&auml; n&auml;yt&auml; arkistoituja keskusteluja keskusteluiden p&auml;&auml;n&auml;kym&auml;ss&auml;.';
@@ -309,7 +291,6 @@ $Definition['Exit Preview'] = 'Poistu esikatselusta';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['Facebook Settings'] = 'Facebook Connectin asetukset';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Yhdist&auml;minen tietokantaan ep&auml;onnistui antamallasi k&auml;ytt&auml;j&auml;tunnuksella ja salasanalla. Tarkista tiedot ainakin kirjoitusvirheiden osalta. Tietokannan vastaus:  <code>%s</code>';
 $Definition['Failure'] = 'Virhe';
 $Definition['FaviconBrowse'] = 'Selaa omalta koneelta uusi favicon vaihtaaksesi sen:';
 $Definition['FaviconDescription'] = 'Sivustosi favicon n&auml;ytet&auml;&auml;n selainpalkissa vasemmalla olevana pikkukuvana. Asettamasi kuva pienennet&auml;&auml;n automaattisesti kokoon 16x16 pikseli&auml;.';
@@ -327,11 +308,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.StatisticsDisabled'] = 'Olet poistanut Vanillan statistiikan raportit k&auml;yt&ouml;st&auml; configuraatio-tiedostossasi.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'Vaikuttaa silt&auml; ett&auml; forumisi on asennettu testiymp&auml;rist&ouml;&ouml;n paikallisesti, tai sen ip-osoite on muusta syyst&auml; yksityinen. Oletuksena emme pysty seuraamaan statistiikkoja forumeista, joiden ip-osoite ei ole julkinen.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'Jos olet varma siit&auml; ett&auml; forumisi on internetiss&auml; tavoitettavissa, voit pakottaa tilastojen raportoinnin ohessa:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Config.php-tiedosto vaikuttaa olevan vain luku -muodossa. T&auml;st&auml; syyst&auml; Vanilla ei pysty kirjoittamaan siihen.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'Ratkaistaksesi t&auml;m&auml;n ongelman, aseta tiedostolle oikeudet 777 sijainnissa conf/config.php.';
 $Definition['Gave badge to users.'] = 'Antoi kunniamerkin k&auml;ytt&auml;jille.';
 $Definition['Generate'] = 'Luo';
 $Definition['Generate Client ID and Secret'] = 'Luo Client ID ja Secret';
@@ -364,7 +340,6 @@ $Definition['How to use themes'] = 'Teemojen k&auml;ytt&auml;minen';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML-sähköpostit';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Jos lataat logon banneriin, se korvaa nykyisen palstan julkisella puolella n&auml;ytett&auml;v&auml;n asetetun banneriotsikon.';
 $Definition['Import'] = 'Tuo';
 $Definition['Importing to Vanilla'] = 'Tuo Vanillaan';
 $Definition['Inbox Page'] = 'Inbox -sivu';
@@ -379,11 +354,9 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['Invitations per month'] = 'Kutsuja per kuukausi';
 $Definition['Invitations will expire'] = 'Kutsujen voimassaoloaika';
 $Definition['Invited by'] = 'Kutsujana';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'On suositeltavaa pit&auml;&auml; maksimimerkkim&auml;&auml;r&auml; viesteiss&auml; j&auml;rkeviss&auml; mitoissa.';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnectin asiakaskirjastot';
 $Definition['jsConnect Documentation'] = 'jsConnectin ohjeet';
@@ -394,8 +367,6 @@ $Definition['Key Value'] = 'Avaimen arvo';
 $Definition['Label this Revision'] = 'Anna t&auml;lle versiolle tunniste';
 $Definition['Large images will be scaled down.'] = 'Isot kuvat skaalataan maksimileveyteen %spx ja maksimikorkeuteen %spx. ';
 $Definition['Last Visit'] = 'K&auml;ynyt';
-$Definition['Learn about custom routing.'] = 'Lue lisää mukautetusta reitityksestä.';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'Opi, miten k&auml;ytt&auml;&auml; forumisi perustoiminnallisuuksia.';
 $Definition['Level'] = 'Taso';
 $Definition['Likes'] = 'Tykk&auml;ykset';
 $Definition['Locale Key (Folder)'] = 'Kielitiedoston avain (Kansio)';

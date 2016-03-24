@@ -34,9 +34,6 @@ $Definition['5 minutes'] = '5 minuter';
 
 $Definition['15 minutes'] = '15 minuter';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Akta!</strong> Om du raderar en roll kanske användaren inte kan använda applikationen.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Se upp!</strong> Om du flyttar diskussioner till en ersättande kategori kan det hända att diskussionen försvinner (eller dyker upp) om den nya kategorin har andra behörigheter än kategorin du raderar.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Bekräfta din e-postadress';
 $Definition['[%s] Invitation'] = '[%s] Inbjudan';
 $Definition['[%s] Password Reset'] = '[%s] Lösenord återställt.';
@@ -44,14 +41,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] återställ lösenord';
 
 $Definition['a Badge'] = 'ett emblem';
 $Definition['Abilites'] = 'Möjligheter';
-$Definition['About.DisableStatistics'] = 'Om du är i behov av att avaktivera datarapportering, kan du göra detta genom att lägga till följande rad i konfigurationsfilen:
-<code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'Det är väldigt viktigt för fortlevnaden av denna gratis opensource-mjukvaran att vi säkert kan mäta Vanillas räckvidd och effektivitet. Vi ber dig därför att inte avaktivera rapporteringen av denna data. ';
-$Definition['AboutCommentEmbedding'] = 'Vanilla kan användas som en inbäddad ersättning för din bloggs ordinarie kommentarsystem. Faktum är att Vanilla kan användas för att lägga till kommentarer till vilken websida som helst.';
-$Definition['AboutEmbedding'] = 'Inbäddning tillåter hela eller delar av din community att bäddas in i andra applikationer och webbsidor.';
-$Definition['About Vanilla Statistics'] = 'Om Vanilla Statistics';
 $Definition['Above Main Content'] = 'Ovanför huvudinnehållet';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Gå in i ditt gruppforum genom att klicka på länken "Visit Site" överst på denna sida, eller genom att <a href={/,url}>klicka här</a>. Gruppforumet är vad alla dina användare och kunder kommer att se när de besöker <a href="{/,url,domain}">{/,url,domän}</a>.';
 $Definition['Account Sync Failed'] = 'Synkronisering av kontot misslyckades.';
 $Definition['Action'] = 'Agerande';
 $Definition['Actions Based on Votes'] = 'Agerande baserat på röster';
@@ -95,7 +85,6 @@ $Definition['API Status'] = 'API-status';
 $Definition['Applicant'] = 'Rekryt';
 $Definition['Applicant Role'] = 'Välj rollen som bör tilldelas nya sökande. Detta fungerar endast om du har <b>godkännande</b>-registreringsmetoden.';
 $Definition['Application'] = 'Applikation';
-$Definition['ApplicationHelp'] = 'Applikationer låter dig lägga till stora grupper av funktionalitet till din sida.<br />När en applikation har lagts till i din %s-mapp kan du aktivera och inaktivera den här.';
 $Definition['Application ID'] = 'Applikations-id';
 $Definition['Applications'] = 'Applikationer';
 $Definition['Application Secret'] = 'Delad hemlighet';
@@ -165,7 +154,6 @@ $Definition['Check out the full list of video tutorials here.'] = 'Kolla hela li
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hej kompis!
 
 Kolla in det nya användarforumet jag just skapat. Det är en bra plats för oss att chatta med varandra online.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla är den enklaste och kraftfullaste community-plattformen i världen. Det är superenkelt att använda. Börja mer introduktionsvideon och fortsätt med stegen nedan. Håll till godo!';
 $Definition['Choose a locale pack'] = 'Välj ett språkpaket';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Välj en roll som okategoriserade användare tilldelas:';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Välj hur allt innehåll förknippat med användaren %s ska hanteras (kommentarer, meddelanden osv).';
@@ -237,7 +225,6 @@ $Definition['Delete Category'] = 'Radera kategori';
 $Definition['Delete Role'] = 'Radera roll';
 $Definition['Delete User'] = 'Radera användare';
 $Definition['Delete User: %s'] = 'Radera användare: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = 'Att radera en roll kan göra att användaren inte får tillgång till applikationen.';
 $Definition['Deleting category...'] = 'Raderar kategori...';
 $Definition['Deleting forever cannot be undone.'] = 'Att radera är ett bra sätt att hålla ditt forum rent.';
 $Definition['Deleting role...'] = 'Raderar roll...';
@@ -255,21 +242,18 @@ $Definition['Disable Tagging'] = 'Inaktivera taggning';
 $Definition['Discussion & Comment Editing'] = 'Redigera diskussioner och kommentarer';
 $Definition['discussion(s)'] = 'diskussion(er)';
 $Definition['Discussion  Body'] = 'Diskussion  Innehåll';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Diskussionskategorier används för att dina användare ska kunna sortera sina diskussioner på ett sätt som hjälper din community.';
 $Definition['Discussions Layout'] = 'Layout på diskussioner';
 $Definition['Discussions per Page'] = 'Diskussioner per sida';
 $Definition['Discussion  Subject'] = 'Diskussion  Ämne';
 $Definition['Display in dashboard. (not recommended)'] = 'Visa på kontrollpanelen (rekommenderas ej).';
 $Definition['Display root categories as headings.'] = 'Visa huvudkategorier som rubriker.';
 $Definition['Don\'t display for embedded comments.'] = 'Visa inte inbäddade kommentarer.';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Bädda inte in ditt forums administratörssida (öppna den i fullskärm)';
 $Definition['Don\'t Refresh'] = 'Uppdatera ej';
 $Definition['Don\'t use Categories'] = 'Använd inte kategorier';
 $Definition['Do not display the categories in the side panel.'] = 'Visa inte kategorierna i sidopanelen';
 $Definition['Download Locale List'] = 'Ladda hem språklista';
 $Definition['DownloadLocalePack'] = 'Ladda hem';
 $Definition['Download Locale Pack'] = 'Ladda hem språkpaket';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Dra och släpp kategorierna nedan för att sortera och nästa dem.';
 
 $Definition['Edit/Delete Log'] = 'Redigera/radera logg';
 $Definition['Edit Category'] = 'Redigera kategori';
@@ -306,8 +290,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Ange e
 $Definition['Enter a descriptive name.'] = 'Skriv ett beskrivande namn för fickan. Namnet kommer inte att visas någonstans utom när du hanterar dina fickor, så den används bara för att hjälpa dig minnas fickan.';
 $Definition['Enter a short name for the site.'] = 'Skriv ett kort smeknamn för sajten. Detta visas på inloggningsknapparna.';
 $Definition['Enter numbers starting at 1.'] = 'Skriv nummer, börja med 1.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Skriv in adressen till din Wordpress-blogg, så börjar vi där.';
-$Definition['Enter the connection settings for your sphinx server below.'] = 'Skriv in uppkopplingsinställningarna för din sphinx-server nedan.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Skriv in e-postadressen till den du vill bjuda in:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Skriv in URL till sidan du vill använda som hemsida:';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Skriv in URL till sidan du vill använda som hemsida:';
@@ -319,18 +301,14 @@ $Definition['Every %s minutes'] = 'Var %s minut';
 $Definition['Every %s second'] = 'Varje sekund';
 $Definition['Every %s seconds'] = 'Var %s sekund';
 $Definition['Every 1 minute'] = 'Varje minut';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Varje redigering och radering sparas här. Använd &lsquo;Återskapa&rsquo; för att ångra någon ändring.';
-$Definition['Everyone who signs up gets a profile page.'] = 'Alla som registrerar sig på din grupp får en officiell profilsida där de kan ladda upp profilbilder av sig själva, sköta sina egna profilinställningar och söka efter roliga saker som pågår i gruppen. Du bör <a href="{/profile,url}">anpassa din profil nu</a>.';
 $Definition['Every Page'] = 'Varje sida';
 $Definition['Everything is ok.'] = 'Allt är ok.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Varje användare i forumet har minst en roll. Roller används för att ange vad användaren har rätt att göra.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Visa inte arkiverade diskussioner i diskussionslistan';
 $Definition['Existing members send invitations to new members.'] = 'Befintliga medlemmar skickar inbjudningar till nya medlemmar.';
 $Definition['Exit Preview'] = 'Stäng förhandsvisning';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect låter användare logga in med sina Facebook-konton. <b>Du måste registrera din applikation hos Facebook för att denna plugin ska fungera.</b>';
 $Definition['Facebook Settings'] = 'Facebook-inställningar';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Misslyckades att koppla upp mot databasen med användarnamnet och lösenordet du angav. Skrev du dem fel? Databasens svar: <code>%s</code>';
 $Definition['Failure'] = 'Misslyckande';
 $Definition['Favicon'] = 'Favoritikon';
 $Definition['FaviconBrowse'] = 'Bläddra efter en ny favicon om du vill ändra den:';
@@ -340,10 +318,8 @@ $Definition['FileUpload is currently ON'] = 'FileUpload är för närvarande PÅ
 $Definition['Finished'] = 'Färdig';
 $Definition['First Visit'] = 'Första besök';
 $Definition['Flood Control'] = 'Flood-kontroll';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Tvinga kontrollpanelen att endast vara tillgänglig via denna URL <em>(rekommenderas ej).</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Tvinga ditt forum att endast vara tillgängligt via denna URL';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Tvinga ditt forum att visas genom en fjärr-URL';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'För SEO ändamål, är sökrobotar uteslutna från att tvingas se forumet i fjärrläsare.';
 $Definition['Forum Settings'] = 'Foruminställningar';
 $Definition['Frequency'] = 'Frekvens';
 
@@ -353,11 +329,6 @@ Klicka på <b>Klar</b> när du är redo.';
 $Definition['Garden.Import.Continue.Description'] = 'Det verkar som att du är mitt i en importering.
 Vänligen välj ett av följander alternativ.';
 $Definition['Garden.Import.InputInstructions'] = 'Skriv in administatöranvändarens e-post och lösenord från datan som importeras.';
-$Definition['Garden.StatisticsDisabled'] = 'Du har inaktiverat Vanilla Statistics specifikt i din konfigurationsfil.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'Detta forum verkar köras i en testmiljö, eller körs på annat sätt under ett internt IP. Som standard sparas inte trafik för forum som körs under interna IP.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'Om du är säker på att ditt forum är tillgängligt från internet kan du tvinga det att rapportera statistik här:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Din fil config.php verkar vara read-only. Detta innebär att Vanilla inte kommer att kunna registrera ditt forums installationID och InstallationSecret automatiskt.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'För att lösa detta problem, ställ in CHMOD 777 på filen conf/config.php';
 $Definition['Gave badge to users.'] = 'Gav emblem till användare.';
 $Definition['Generate'] = 'Generera';
 $Definition['Generate Client ID and Secret'] = 'Generera klient-ID och hemlig kod';
@@ -378,7 +349,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} godk
 $Definition['HeadlineFormat.Status'] = '{AktivitetAnvändar-ID,användare}';
 $Definition['HeadlineFormat.WallPost'] = '{GällandeAnvändarID,du} &rarr; {AktivitetAnvändarID,du}';
 $Definition['Heads up!'] = 'Se upp!';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'OBS! Det här är en speciell roll som inte tillåter aktiva sessioner. Av den här anledningen kan endast "visning" tillåtas.';
 $Definition['Help &amp; Tutorials'] = 'Hjälp &amp; guider';
 $Definition['Here\'s how to get started:'] = 'Så här kommer du igång:';
 $Definition['Hidden for everything!'] = 'Dold för alla!';
@@ -393,8 +363,6 @@ $Definition['How to use themes'] = 'Hur man använder teman';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML e-post';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Om du laddar upp en logo kommer den att ersätta rubriken i sidhuvudet som användarna ser i forumet.';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'Vill du sänka varningsnivån, så ta bort en varning.';
 $Definition['Import'] = 'Importera';
 $Definition['Importing to Vanilla'] = 'Importera till Vanilla';
 $Definition['Inbox Page'] = 'Inkorg-sida';
@@ -409,12 +377,9 @@ $Definition['InvitationMessage'] = 'Hej kompis!
 Kolla det nya forumet jag nyss har lagt upp. Det är ett perfekt ställe för oss att chatta online.
 
 Följ länken nedan för att logga in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'När du använder registrering via inbjudan, kommer användare få en länk som heter <a href="%s" class="Popup">Mina inbjudningar</a> på sina profilsidor.';
 $Definition['Invitations per month'] = 'Inbjudningar per månad';
 $Definition['Invitations will expire'] = 'Inbjudningar kommer att utgå';
 $Definition['Invited by'] = 'Inbjuden av';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Det verkar som att databasen du har angivit inte existerar ännu. Har du skapat den än? Kan du ha skrivit fel namn? Databasen svarade: <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Det är en bra idé att hålla ner antalet tecken som tillåts i en kommentar till en rimlig siffra.';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect klientbibliotek';
 $Definition['jsConnect Documentation'] = 'jsConnect dokumentation';
@@ -426,9 +391,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Sparka
 $Definition['Label this Revision'] = 'Märk denna revidering';
 $Definition['Large images will be scaled down.'] = 'Stora bilder förminskas till en maxbredd på %spx och en maxhöjd på %spx. ';
 $Definition['Last Visit'] = 'Senaste besök';
-$Definition['Learn about custom routing.'] = 'Lär dig om anpassad dirigering.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lär dig att helt ändra ditt forums utseende och känsla: ladda upp din logo, välj din startsida, välj ett tema och anpassa det.';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'Lär dig att använda de grundläggande funktionerna i ditt forum.';
 $Definition['Level'] = 'Nivå';
 $Definition['Likes'] = 'Gillar';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Begränsa fickan till en eller flera roller eller behörigheter.';

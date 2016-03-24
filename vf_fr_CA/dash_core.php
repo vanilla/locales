@@ -29,22 +29,13 @@ $Definition['2 weeks after being sent'] = '2 semaines après avoir été envoyé
 
 $Definition['4 hours'] = '4 heures';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Attention !</strong> Supprimer un statut peut entraîner l\'interdiction d\'accès au service des utilisateurs auquel ce statut a été attribué.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Attention !</strong> Déplacer des discussions dans une catégorie de substitution peut entraîner la disparition (ou la réapparition) des discussions si la catégorie de substitution a des permissions différentes de celles de la catégorie en cours de suppression.';
-
 $Definition['[%s] Confirm Your Email Address'] = ' %s Confirmer votre adresse email ';
 $Definition['[%s] Password Reset'] = 'Réinitialisation du mot de passe';
 $Definition['[%s] Password Reset Request'] = '[%s] Demande de renouvellement de mot de passe.';
 
 $Definition['a Badge'] = 'un Badge';
 $Definition['Abilites'] = 'Permissions';
-$Definition['About.DisableStatistics'] = 'Si vous devez désactiver cette collecte de données pour quelque raison commerciale que ce soit, vous pouvez désactiver ce module en ajoutant la ligne suivante à votre fichier de configuration : <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'Il est important, pour que ce logiciel gratuit et open-source continue à évoluer, que nous puissions mesurer avec précision la portée et l\'efficacité de Vanilla. Nous vous demandons, s\'il vous plaît, ne pas désactiver la collecte de ces données.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla peut être utilisé comme un module de remplacement du système de gestion des commentaires de votre blog. En tant que tel, il peut être utilisé pour ajouter des commentaires sur n\'importe quel page de votre site web.';
-$Definition['AboutEmbedding'] = 'L\'intégration vous permet d\'intégrer une partie ou la totalité de votre communauté dans d\'autres applications ou pages web.';
-$Definition['About Vanilla Statistics'] = 'À propos de Vanilla Statistiques';
 $Definition['Above Main Content'] = 'Au-dessus du Contenu Principal';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accédez à votre forum communautaire en cliquant sur le lien «Voir le site» en haut de cette page ou en <a href={/,url}> cliquant ici </a>. La communauté est ce que tous vos utilisateurs & amp; vos clients verront lorsqu\'ils visitent <a href="{/,url,domain}"> {/,URL,nom de domaine} </a>.';
 $Definition['Account Sync Failed'] = 'Synchronisation de comptes échouée';
 $Definition['Actions Based on Votes'] = 'Actions basées sur des votes';
 $Definition['Activity Item'] = 'Élément d\'activité';
@@ -86,8 +77,6 @@ $Definition['Although the invitation was created successfully, the email failed 
 $Definition['API Status'] = 'Statut de l\'API';
 $Definition['Applicant'] = 'Candidat';
 $Definition['Applicant Role'] = 'Sélectionner le statut qui sera appliqué aux nouveaux candidats. Ceci ne vous concerne que si vous avez choisi la méthode d\'enregistrement par approbation.';
-$Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de nombreuses fonctionnalités à votre forum Vanilla.<br />
-Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Application ID'] = 'ID de l\'application / Clé de l\'API';
 $Definition['Application Secret'] = 'Clé secrète';
 $Definition['Applied by Administrator'] = 'Appliqué par l\'Administrateur';
@@ -154,7 +143,6 @@ $Definition['Check all permissions that apply to this role:'] = 'Vérifiez toute
 $Definition['Check out my new community!'] = 'Venez visiter ma nouvelle communauté';
 $Definition['Check out the full list of video tutorials here.'] = 'Vous trouverez la liste complète des tutoriels vidéo ici.';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Venez voir la nouvelle communauté récemment créée. C\'est l\'endroit idéal pour discuter en ligne. ';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla est la plus simple et la plus puissante des plateformes communautaires qui soit. L\'utiliser est d\'une simplicité enfantine. Commencez avec cette vidéo d\'introduction et continuez en suivant les étapes ci-dessous. Profitez-en bien !';
 $Definition['Choose a locale pack'] = 'Choisissez un pack de langue';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choisissez un rôle qui sera attribué aux utilisateurs orphelins :';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choisissez la manière de gérer tout le contenu associé au compte utilisateur <i>%s</i> (commentaires, messages, etc).';
@@ -224,7 +212,6 @@ $Definition['Delete Category'] = 'Supprimer une Catégorie';
 $Definition['Delete Role'] = 'Supprimer le statut';
 $Definition['Delete User'] = 'Supprimer l\'Utilisateur';
 $Definition['Delete User: %s'] = 'Supprimer l\'Utilisateur : %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = 'Supprimer un statut peut mener à avoir des utilisateurs sans accès à l\'application.';
 $Definition['Deleting category...'] = 'Catégorie en cours de suppression';
 $Definition['Deleting forever cannot be undone.'] = 'La suppression est un bon moyen de garder votre forum propre.';
 $Definition['Deleting role...'] = 'Rôle en cours de suppression';
@@ -240,21 +227,18 @@ $Definition['Disable Signatures'] = 'Désactiver les signatures';
 $Definition['Disable Tagging'] = 'Désactiver le marquage de contenu';
 $Definition['Discussion & Comment Editing'] = 'Modification des Discussions & Commentaires';
 $Definition['Discussion  Body'] = 'Discussion|Texte';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Les Catégories de discussions sont utilisées pour aider les utilisateurs à organiser leurs discussions d\'une manière qui soit significative pour votre communauté.';
 $Definition['Discussions Layout'] = 'Mise en page des discussions';
 $Definition['Discussions per Page'] = 'Discussions par Page';
 $Definition['Discussion  Subject'] = 'Discussion|Sujet';
 $Definition['Display in dashboard. (not recommended)'] = 'Afficher dans le tableau de bord. (non recommandé)';
 $Definition['Display root categories as headings.'] = 'Afficher les catégories de base en tant que titres.';
 $Definition['Don\'t display for embedded comments.'] = 'Ne pas afficher pour les commentaires intégrés.';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Ne pas intégrer votre tableau de bord admin (affichage en plein écran)';
 $Definition['Don\'t Refresh'] = 'Ne pas actualiser';
 $Definition['Don\'t use Categories'] = 'Ne pas utiliser les Catégories';
 $Definition['Do not display the categories in the side panel.'] = 'Ne pas afficher les catégories dans la barre de navigation latérale.';
 $Definition['Download Locale List'] = 'Télécharger la liste de localisations';
 $Definition['DownloadLocalePack'] = 'Télécharger';
 $Definition['Download Locale Pack'] = 'Télécharger le pack de localisations';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Glissez-Déposez les catégories ci-dessous pour les trier et les imbriquer.';
 
 $Definition['Edit/Delete Log'] = 'Modifier/Effacer les logs';
 $Definition['Edit Category'] = 'Modifier la catégorie';
@@ -291,8 +275,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Entrez
 $Definition['Enter a descriptive name.'] = 'Renseignez un nom descriptif pour le bloc. Ce nom ne sera affiché nulle part, sauf dans cet espace de gestion des blocs, il est donc utilisé uniquement pour vous aider à vous souvenir du bloc.';
 $Definition['Enter a short name for the site.'] = 'Entrez un nom court pour désigner le site. Celui-ci sera affiché sur les boutons de connexion.';
 $Definition['Enter numbers starting at 1.'] = 'Entrer des nombres commençant à 1.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Entrez l\'adresse de votre blog Wordpress et nous nous occuperons du reste.';
-$Definition['Enter the connection settings for your sphinx server below.'] = 'Entrez les paramètres de connexion à votre serveur sphinx ci-dessous.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Indiquez l\'adresse de courriel de la personne à inviter :';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Entrez l\'url vers la page que vous souhaitez utiliser comme page d\'accueil';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Entrez l\'url que vous souhaitez utiliser en tant que page d\'accueil :';
@@ -304,18 +286,14 @@ $Definition['Every %s minutes'] = 'Toutes les %s minutes';
 $Definition['Every %s second'] = 'Chaque seconde';
 $Definition['Every %s seconds'] = 'Toutes les %s secondes';
 $Definition['Every 1 minute'] = 'Toutes les minutes';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Chaque modification ou suppression est enregistrée ici. Utilisez &lsquo;Restaurer&rsquo; pour annuler un changement quelconque.';
-$Definition['Everyone who signs up gets a profile page.'] = 'Tous ceux qui s’inscrivent à votre communauté obtiennent une page de profil public où ils peuvent télécharger une image d\'eux-mêmes, gérer leurs paramètres de profil, et suivre les dernières nouvelles qui se passent dans la communauté. Vous devez <a href="{/profile,url}"> personnaliser votre profil maintenant</a>.';
 $Definition['Every Page'] = 'Chaque page';
 $Definition['Everything is ok.'] = 'Tout va bien.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Au moins un rôle est assigné à chaque utilisateur de votre site. Les rôles servent à déterminer ce que les utilisateurs ont le droit de faire.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Exclure les discussions archivées de la liste des discussions';
 $Definition['Existing members send invitations to new members.'] = 'Les membres existants envoient des invitations aux nouveaux membres.';
 $Definition['Exit Preview'] = 'Quitter l\'aperçu';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = '<b>Facebook Connect</b> permet aux utilisateurs de se connecter en utilisant leur compte Facebook.<br /><b>Vous devez enregistrer votre application avec Facebook pour que ce module fonctionne.</b>';
 $Definition['Facebook Settings'] = 'Paramètres Facebook';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Échec de la connexion à la base de données avec les identifiants fournis. Les avez-vous bien entrés ? Attention aux fautes de frappe. La base de donné a renvoyé : <code>%s</code>';
 $Definition['Failure'] = 'Échec';
 $Definition['FaviconBrowse'] = 'Naviguez à la recherche d\'un nouveau favicon si vous souhaitez le changer :';
 $Definition['FaviconDescription'] = 'Le favicon de votre site apparaît dans la barre des titres de votre navigateur. L\'échelle sera ajustée à du 16x16.';
@@ -324,10 +302,8 @@ $Definition['FileUpload is currently ON'] = 'Le téléversement de fichiers est 
 $Definition['Finished'] = 'Fini';
 $Definition['First Visit'] = '1re visite';
 $Definition['Flood Control'] = 'Contrôle des flux';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Forcer l\'accès au tableau de bord via cette url <em>(non recommandé)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Forcer l\'accès à votre forum via cette url unique';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Forcer à voir votre forum via l\'url distante';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Pour des questions de référencement web, les robots d\'indexation des moteurs de recherche sont exclus de la règle forçant à voir le forum via l\'url distante.';
 $Definition['Forum Settings'] = 'Paramètres du forum';
 $Definition['Frequency'] = 'Fréquence';
 
@@ -337,11 +313,6 @@ Cliquez sur <b> Terminé </ b> lorsque vous êtes prêt.';
 $Definition['Garden.Import.Continue.Description'] = 'Il semblerait que le processus d\'importation soit en cours d\'exécution.
 Merci de choisir l\'une des options suivantes.';
 $Definition['Garden.Import.InputInstructions'] = 'Entrez l\'email et le mot de passe de l\'utilisateur administrateur des données importées.';
-$Definition['Garden.StatisticsDisabled'] = 'Vous avez désactivé spécifiquement le module Vanilla Statistics dans votre fichier de configuration.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'Ce forum semble fonctionner dans un environnement de test ou dispose d\'une adresse IP privée. Par défaut, les forums avec une adresse privée ne sont pas suivis';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'Si vous êtes certain que ce forum est accessible par Internet, vous pouvez ici le forcer à alimenter des statistiques :';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Votre fichier config.php semble être en lecture seule. Cela signifie que Vanilla ne pourra pas être en mesure d\'enregistrer les identifiants et mots de passe de votre installation.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'Pour résoudre ce problème, assigner le mode de fichier 777 à votre fichier conf/config.php.';
 $Definition['Gave badge to users.'] = 'Donner le badge aux utilisateurs.';
 $Definition['Generate'] = 'Genérer';
 $Definition['Generate Client ID and Secret'] = 'Générer un Identifiant et Secret';
@@ -362,7 +333,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} a ap
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,vous} &rarr; {ActivityUserID,vous}';
 $Definition['Heads up!'] = 'Attention ! ';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Attention ! Ceci est un statut particulier qui n\'autorise pas de sessions actives. Pour cette raison, les options d\'autorisation ont été limitées à la seule fonction "visualisation".';
 $Definition['Help &amp; Tutorials'] = 'Aide &amp; tutoriels';
 $Definition['Here\'s how to get started:'] = 'Voici comment commencer :';
 $Definition['Hidden for everything!'] = 'Caché pour tout !';
@@ -377,8 +347,6 @@ $Definition['How to use themes'] = 'Comment utiliser des thèmes';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'Email HTML';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si un logo de bandeau a été téléchargé, il remplacera le titre du bandeau dans l\'interface utilisateur des pages du forum.';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'Si vous voulez diminuer le niveau d\'alerte, enlevez une alerte.';
 $Definition['Import'] = 'Importer';
 $Definition['Importing to Vanilla'] = 'Importer vers Vanilla';
 $Definition['Inbox Page'] = 'Boîte de réception';
@@ -394,12 +362,9 @@ $Definition['InvitationMessage'] = 'Bonjour !
 Regardez la nouvelle communauté que je viens de mettre en place. C\'est un super endroit pour discuter ensemble.
 
 Suis le lien ci-dessous pour y accéder.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Lorsque vous utilisez la méthode d\'inscription par invitation, les utilisateurs auront un lien nommé <a href="%s" class="Popup">Mes Invitations</a> sur leurs pages de profil.';
 $Definition['Invitations per month'] = 'Invitations par mois';
 $Definition['Invitations will expire'] = 'Les invitations expireront';
 $Definition['Invited by'] = 'Invité par';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Il semblerait que la base de données spécifiée n\'existe pas encore. L\'avez-vous déjà créée ? Avez-vous fait une faute de frappe dans son nom ? La base de données renvoie : <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Il est conseillé de maintenir le nombre maximum de caractères autorisés dans un commentaire à un nombre raisonnablement bas.';
 
 $Definition['jsConnect Client Libraries'] = 'Librairies client jsConnect';
 $Definition['jsConnect Documentation'] = 'Documentation jsConnect';
@@ -411,9 +376,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Lancez
 $Definition['Label this Revision'] = 'Étiqueter cette Révision';
 $Definition['Large images will be scaled down.'] = 'Les grandes images seront redimensionnées à une largeur maximale de %spx et une hauteur maximale de %spx.';
 $Definition['Last Visit'] = 'Dernière visite';
-$Definition['Learn about custom routing.'] = 'Apprenez-en à propos du routage personnalisé.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Apprenez comment changer l\'apparence de votre forum du tout au tout : téléchargez votre logo, définissez votre page d\'accueil, choisissez un thème et personnalisez-le.';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'Apprenez à utiliser les fonctionnalités de base de votre forum.';
 $Definition['Level'] = 'Niveau';
 $Definition['Likes'] = 'Aime';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limiter ce bloc à un ou plusieurs statuts ou permissions.';

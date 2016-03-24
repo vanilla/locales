@@ -39,11 +39,6 @@ $Definition['[%s] Password Reset Request'] = '[%s] Slaptažodžio keitimo prašy
 
 $Definition['a Badge'] = 'Medalis';
 $Definition['Abilites'] = 'Gebėjimai';
-$Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
-$Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
-$Definition['About Vanilla Statistics'] = 'Apie Vanilla statistiką';
 $Definition['Above Main Content'] = 'Virš pagrindinio turinio';
 $Definition['Account Sync Failed'] = 'Paskyros sinchronizavimas nepavyko';
 $Definition['Action'] = 'Veiksmas';
@@ -76,7 +71,6 @@ $Definition['API Status'] = 'API būsena';
 $Definition['Applicant'] = 'Prašytojas';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['Application'] = 'Programa';
-$Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Application ID'] = 'Programos ID';
 $Definition['Applications'] = 'Programos';
 $Definition['Application Secret'] = 'Programos paslaptis';
@@ -113,7 +107,6 @@ $Definition['Censored Words'] = 'Cenzūruoti žodžiai';
 $Definition['Change Log'] = 'Pakeitimų žurnalas';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Clean Spam'] = 'Išvalyti brukalus';
 $Definition['comment(s)'] = 'komentaras(-ai)';
@@ -204,11 +197,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 $Definition['Generate'] = 'Generuoti';
 $Definition['Generate Client ID and Secret'] = 'Generuoti kliento ID ir paslaptį';
 $Definition['Get More Applications'] = 'Rasti daugiau programų';
@@ -238,7 +226,6 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['Invitations per month'] = 'Pakvietimų per mėnesį';
 $Definition['Invitations will expire'] = 'Pakvietimai nustos galioti';
 $Definition['Invited by'] = 'Pakvietė';

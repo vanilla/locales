@@ -33,9 +33,6 @@ $Definition['5 minutes'] = '5 דקות';
 
 $Definition['15 minutes'] = '15 דקות';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>זהירות!</strong> מחיקת תפקיד עלולה למנוע מהמשתמש גישה לתוכנה.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>זהירות!</strong> הזזת דיונים לקטגוריה חלופית עלולה לגרום להעילמותם (או הופעתם) של דיונים אם לקטגוריה החדשה יש הרשאות שונות משל זו המקורית.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] לאישור כתובת הדוא"ל';
 $Definition['[%s] Invitation'] = '[%s] הזמנה';
 $Definition['[%s] Password Reset'] = '[%s] אפס סיסמא';
@@ -43,13 +40,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] בקשה לאיפוס סיס�
 
 $Definition['a Badge'] = 'תג';
 $Definition['Abilites'] = 'יכולות';
-$Definition['About.DisableStatistics'] = 'אם הינך חייב\\ת לבטל דיווח נתונים זה מסיבות עסקיות כלשהן, תוכל\\י לעשות זאת ע"י הוספת השורה הנ"ל לקובץ הקונפיגורציה: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'זה חשוב בצורה משמעותית לחיי תוכנת הקוד פתוח החינמית הזאת שאנו נמדוד את היעילות של ונילה. אנו מבקשים ממך אנא אל תבטל את דיווח המידע.';
-$Definition['AboutCommentEmbedding'] = 'ונילה יכולה לשמש כתחליף למערכת התגובות המקורית של הבלוג שלך. למעשה, היא יכולה לשמש להוספת תגובות לכל דף באינטרנט. ';
-$Definition['AboutEmbedding'] = 'הטבעה מאפשר לכל או חלק מהקהילה שלך להיות מוטבעת ליישומים ודפי אינרטנט אחרים';
-$Definition['About Vanilla Statistics'] = 'אודות הסטטיסטיקות של Vanilla';
 $Definition['Above Main Content'] = 'מעל לתוכן הראשי';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'קבל גישה לפורום הקהילה שלך על ידי לחיצה על הקישור "בקר באתר" בראש העמוד הזה, על על ידי <a href={/,url}>לחיצה כאן</a>. פורום הקהילה הוא מה שכל המשתמשים &amp; הלקוחות שלך רואים כאשר הם מבקרים <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'סנכרון החשבון נכשל';
 $Definition['Action'] = 'פעולה';
 $Definition['Actions Based on Votes'] = 'פעולות המבסוסות על הצבעות';
@@ -93,8 +84,6 @@ $Definition['API Status'] = 'סטטוס ה-API';
 $Definition['Applicant'] = 'מועמד';
 $Definition['Applicant Role'] = 'בחר את התפקיד שצריך להיות משוייך למועמדים חדשים. זה תקף רק אם יש לך את <b>האישור</b> שיטת רישות.';
 $Definition['Application'] = 'אפליקציה';
-$Definition['ApplicationHelp'] = 'אפליקציות מאפשרות לך להוסיף פונקציונליות רבה לאתר שלך.<br />
-ברגע שהאפליקציה נמצאת בתיקיית %s , תוכל לאפשר או לכבות אותה כאן.';
 $Definition['Application ID'] = 'תעודת זהות היישום';
 $Definition['Applications'] = 'תוכנות';
 $Definition['Application Secret'] = 'שאלה סודית';
@@ -165,7 +154,6 @@ $Definition['Check out the full list of video tutorials here.'] = 'בדוק את
 $Definition['Check out the new community forum I\'ve just set up.'] = 'היי חבר/ה,
 
 בקר/י בפורום הקהילה החדש שפתחתי. זה אחלה מקום בשבילנו לצ\'וטט זה עם זה באינטרנט.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'ונילה היא פלטפורמת הקהילה היא קלה והכי עוצמתית בעולם. הוא קלה במיוחד לשימוש. התחל עם סרטון היכרות והמשך עם הצעדים למטה. תהנה!';
 $Definition['Choose a locale pack'] = 'בחר בחבילת הלוקאליזציה הזו.';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'בחר בתפקיד שכל המשתמשים חסר התפקיד יקבלו.';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'בחר כיצד לנהל את כל התוכן המשוייך לחשבון המשתמש של %s (הערות, הודעות וכו\')';
@@ -237,7 +225,6 @@ $Definition['Delete Category'] = 'מחק קטגוריה';
 $Definition['Delete Role'] = 'מחק תפקיד';
 $Definition['Delete User'] = 'מחק משתמש';
 $Definition['Delete User: %s'] = 'מחק משתמש: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = 'מחיקת תפקיד עלולה למנוע גישה מהמשתמשים לתוכנה';
 $Definition['Deleting category...'] = 'מוחק קטגוריה...';
 $Definition['Deleting forever cannot be undone.'] = 'מחיקה היא דרך טובה לשמירת הפורום שלך נקי.';
 $Definition['Deleting role...'] = 'מוחק תפקיד...';
@@ -255,21 +242,18 @@ $Definition['Disable Tagging'] = 'כבה אפשרות להוספת תיוגים'
 $Definition['Discussion & Comment Editing'] = 'דיון & עריכת תגובה';
 $Definition['discussion(s)'] = 'דיונים';
 $Definition['Discussion  Body'] = 'גוף הדיון';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'קטגוריות לדיונים מסייעות למשתמשים שלך לארגן את הדיונים שלה בצורה משמעותית.';
 $Definition['Discussions Layout'] = 'עיצוב הדיונים';
 $Definition['Discussions per Page'] = 'מספר דיונים לעמוד';
 $Definition['Discussion  Subject'] = 'נושא הדיון';
 $Definition['Display in dashboard. (not recommended)'] = 'הצג בלוח הבקרה. (לא מומלץ)';
 $Definition['Display root categories as headings.'] = 'הצג את קטגוריות הבסיס ככותרות.';
 $Definition['Don\'t display for embedded comments.'] = 'אל תציג על הודעות מוטמעות';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'על תטמיע את לוח הבקרה של אדמין הפורום (במקום, גרום לו להפתח על מסך מלא)';
 $Definition['Don\'t Refresh'] = 'אל תרענן';
 $Definition['Don\'t use Categories'] = 'אל תשתמש בקטגוריות';
 $Definition['Do not display the categories in the side panel.'] = 'אל תציג את הקטגוריות בפאנל הצדדי';
 $Definition['Download Locale List'] = 'הורד את רשימת הלוקאליזציות';
 $Definition['DownloadLocalePack'] = 'הורדה';
 $Definition['Download Locale Pack'] = 'הורד את חבילת הלוקאליזציה';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'גרור את הקטגוריות המופיעות מטה על מנת לסדר אותן';
 
 $Definition['Edit/Delete Log'] = 'ערוך / מחק לוג';
 $Definition['Edit Category'] = 'ערוך קטגוריה';
@@ -306,8 +290,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'הכנ
 $Definition['Enter a descriptive name.'] = 'הכנס שם תיאורי עבור הכיס. השם לא יוצג באף מקום חוץ מאשר כאשר תנהל את הכיסים שלך כאן אז זה משמש רק כדי לעזור לך לזכור את הכיס.';
 $Definition['Enter a short name for the site.'] = 'הכנס שם קצר לאתר. זה מוצג על כפתורי ההתחברות.';
 $Definition['Enter numbers starting at 1.'] = 'הכנס מספרים, התחל ב-1.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'הכנס את כתובת בלוג ה-Wordpress שלך, ואנחנו כבר נעשה את השאר.';
-$Definition['Enter the connection settings for your sphinx server below.'] = 'הכנס את נתוני הקישור לשרת ה-Sphinx שלך מטה.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'הכנס את כתובת הדוא"ל של האדם אותו תרצה להזמין:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'הכנס את ה-URL של הדף אותו תרצה להפוך לדף הבית שלך.';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'הכנס את ה-URL של הדף אותו תרצה להפוך לדף הבית שלך:';
@@ -319,19 +301,14 @@ $Definition['Every %s minutes'] = 'כל %s דקות';
 $Definition['Every %s second'] = 'כל שנייה';
 $Definition['Every %s seconds'] = 'כל %s שניות';
 $Definition['Every 1 minute'] = 'כל דקה ';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'כל עריכה או מחיקה נשמרת כאן. השתמש ב- &lsquo;Restore&rsquo; על מנת לבטל כל שינוי.';
-$Definition['Everyone who signs up gets a profile page.'] = 'כל מי שנרשם לקהילה שלך מקבל עמוד פרופיל ציבורי בו הם יכולים להעלות תמונה של עצמם, לנהל את אפשרויות הפרופיל שלהם, ולעקוב אחר דברים מגניבים המתרחשים בקהילה. אתה צריך <a href="{/profile,url}">להתאים אישית את הפרופיל שלך כעת</a>.';
 $Definition['Every Page'] = 'כל עמוד';
 $Definition['Everything is ok.'] = 'הכול תקין.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'לכל משתמש באתר יש לפחות תפקיד אחד מוגדר. התפקידים מאפשרים להגדיר מה מותר ואסור לכל משתמש לעשות.';
 $Definition['Exclude archived discussions from the discussions list'] = 'אל תציג דיונים מהארכיון ברשימת הדיונים.';
 $Definition['Existing members send invitations to new members.'] = 'משתמשים ותיקים יכולים לשלוח הזמנות למשתמשים חדשים.';
 $Definition['Exit Preview'] = 'צא מתצוגה מקדימה';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'התחברות באמצעות פייסבוק מאפשרת למשתמשם להכנס באמצעות שימוש בחשבונות פייסבוק שלהם. <b> אתה חייב לרשות את היישום שלך עם פייסבוק על מנת שהתוסף הזה יעבוד.</b>';
 $Definition['Facebook Settings'] = 'הגדרות פייסבוק.';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'הייתה תקלה בהתחברות למאגר הנתונים עם שם המשתמש והסיסמה שיפקת.
-אולי טעית בהקלדה? מאגר הנתונים דיווח: <code>%s</code>';
 $Definition['Failure'] = 'נכשל';
 $Definition['Favicon'] = 'אייקון';
 $Definition['FaviconBrowse'] = 'חפש פאביקון חדש אם ברצונך לשנות אותו:';
@@ -341,10 +318,8 @@ $Definition['FileUpload is currently ON'] = 'העלאת קבצים כרגע מו
 $Definition['Finished'] = 'סיים';
 $Definition['First Visit'] = 'ביקור ראשון';
 $Definition['Flood Control'] = 'מניעת הצפה';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'חסום את הגישה לעמוד הראשית לכול כתובת מלבד ה-URL הבא <em>(לא מומלץ)</em> ';
 $Definition['Force the forum to only be accessible through this url'] = 'אפשר לגשת לפורום רק דרך הכתובת הבאה';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'אפשר צפייה בפורום רק דרך הכתובת הבאה';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'בשביל לקדם את האתר במנועי חיפוש, הגישה לכתובת ה-URL הנוכחית חסומה לרובוטי חיפוש.';
 $Definition['Forum Settings'] = 'הגדרות הפורום';
 $Definition['Frequency'] = 'תדירות';
 
@@ -352,11 +327,6 @@ $Definition['Garden'] = 'גן';
 $Definition['Garden.Import.Complete.Description'] = 'אתה סיימת בהצלחה ייבוא. לחץ <b>סיום</b> כאשר אתה מוכן.';
 $Definition['Garden.Import.Continue.Description'] = 'נראה כי אתה באמצע תהליך של ייבוא. אנא בחר אחת מהאפשרויות הבאות.';
 $Definition['Garden.Import.InputInstructions'] = 'הכנס את הדוא"ל והסיסמא של משתמש האדמין מהמידע שייובא.';
-$Definition['Garden.StatisticsDisabled'] = 'אתה ביטלת במיוחד את ונילה סטטיסטיקס בקובץ הקונפיגורציה שלך.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'נראה שהפורום הזה עובד בסביבת בדיקה, או שהוא מדווח לIP פרטי. בברירת מחדל, פורומים הרצים על IP פרטי לא נעקבים.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'אם אתה בטוח שהפורום שלך נגיש מהאינטרנט אתה יכול להכריח אותו לדווח על סטטיסטיקות כאן: ';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'נדמה שקובץ ה-config.php שלך הוא לקריאה בלבד. זה אומר שונילה לא יוכל לרשום באופן אוטומטי את InstallationID-ו InstallationSecret של הפורום שלך.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'כדי לפתור בעיה זאת, שייך מצב קובץ 777 לקובץ conf/config.php שלך.';
 $Definition['Gave badge to users.'] = 'תן תג למשתמשים.';
 $Definition['Generate'] = 'צור';
 $Definition['Generate Client ID and Secret'] = 'צור תעודת זהות של משתמש וסוד';
@@ -377,7 +347,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} אש
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'זהירות!';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'זהירות! זהו תפקיד מיוחד שאינו מאפשר פעילות. מסיבה זו, ההרשאות של תפקיד זה מוגלות ל\'צפייה\' בלבד.';
 $Definition['Help &amp; Tutorials'] = 'עזרה &amp; הדרכה';
 $Definition['Here\'s how to get started:'] = 'הדרך הקלה להתחיל:';
 $Definition['Hidden for everything!'] = 'מוסתר להכל!';
@@ -391,8 +360,6 @@ $Definition['Homepage Title'] = 'כותרת לדף הבית';
 $Definition['How to use themes'] = 'איך להשתמש בערכות עיצוב';
 $Definition['HTML Emails'] = 'אימיילים HTML';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'עם העלית לוגו לבאנר, הוא יחליף את הכותרת של הבאנר בדפי פורום כפי שהמשתמשים רואים אותם.';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'אם אתה רוצה להוריד את רמת האזהרה, הסר את האזהרה.';
 $Definition['Import'] = 'יבא';
 $Definition['Importing to Vanilla'] = 'מייבא לתוך Vanilla';
 $Definition['Inbox Page'] = 'דף דואר נכנס';
@@ -405,12 +372,9 @@ $Definition['Invalid category for deletion.'] = 'קטגוריה לא תקינה 
 $Definition['Invitation Code'] = 'קוד הזמנה';
 $Definition['InvitationMessage'] = 'היי חבוב, 
 בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'כשאתה משתמש בהרשמה באמצעות הזמנה למשתמשים יהיה לינק שיראה <a href="%s" class="Popup">ההזמנות שלי</a> בדפי הפרופיל שלהם.';
 $Definition['Invitations per month'] = 'הזמנות לחודש';
 $Definition['Invitations will expire'] = 'תוקפן של ההזמנות יפוג';
 $Definition['Invited by'] = 'הוזמן על ידי';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'מאגר הנתונים שבחרת לא קיים. כבר יצרת אותו? אולי טעית בשם? מאגר הנתונים המדובר: <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'מומלץ להגביל את מספר האותיות בתגובה לכמות סבירה.';
 
 $Definition['jsConnect Client Libraries'] = 'ספריות jsConnect Client';
 $Definition['jsConnect Documentation'] = 'תיעוד jsConnect';
@@ -422,9 +386,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'תן �
 $Definition['Label this Revision'] = 'תייג את התיקון';
 $Definition['Large images will be scaled down.'] = 'תמונות גדולות יוקטנו לרוחב מרבי של %spx ואורך מרבי של %spx. ';
 $Definition['Last Visit'] = 'ביקור אחרון';
-$Definition['Learn about custom routing.'] = 'למד/י על ניתוב מותאם אישית.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'למד איך לשנות חלוטין את המראה וההרגשה של הפורום: הוסף לוגו, קבע את הפורום כדף הבית, בחר ערכת נושא ותעצב את הפורום לפי טעמך האישי.';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'הדרכה על האפשרויות הבסיסיות של הפורום';
 $Definition['Level'] = 'רמה';
 $Definition['Likes'] = 'לייקים';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'הגבל את הכיסים לאחד יותר תפקידים או הרשאות.';

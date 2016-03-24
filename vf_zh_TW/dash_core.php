@@ -33,9 +33,6 @@ $Definition['5 minutes'] = '5 分鐘';
 
 $Definition['15 minutes'] = '15 分翁';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>請 注 意！</strong> 刪除用戶組可能會導致會員無法訪問。';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>請注意！</strong> 將討論串移往另外一區時，如果新討論區和即將刪除的討論區權限設定不同，則可能導致難以預期的消失或出現情形。';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] 請驗證您的電子信箱';
 $Definition['[%s] Invitation'] = '您收到了來自 [%s] 的邀請';
 $Definition['[%s] Password Reset'] = '[%s] 重置密碼';
@@ -43,13 +40,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] 重置密碼請求已發送';
 
 $Definition['a Badge'] = '一枚徽章';
 $Definition['Abilites'] = '權限';
-$Definition['About.DisableStatistics'] = '如果您因為特定商務理由，而必須關閉資料報表功能，可以在您的安裝設定檔中加入以下幾行敘述：<code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = '由於精準測量資訊到達率和有效度，對於Vanilla這個免費開放原始碼軟體相當重要，所以我們請您不要關閉此項資料的報表功能。';
-$Definition['AboutCommentEmbedding'] = 'Vanilla可以用於直接取代您網站上的留言系統，甚至可以用於將留言功能加在任何網頁上。';
-$Definition['AboutEmbedding'] = '內嵌功能讓您可以將留言板的全部、或是一部分嵌入其他應用程式或網頁中。';
-$Definition['About Vanilla Statistics'] = '關於 Vanilla Statistics';
 $Definition['Above Main Content'] = '主要內容上方';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = '點按一下本頁頂部「造訪網站」連結或 <a href={/,url}>點按此處</a>，就可以前往您的討論版；您的使用者或客戶來到<a href="{/,url,domain}">{/,url,domain}</a>時，就會看到這個討論版。';
 $Definition['Account Sync Failed'] = '帳號同步失敗';
 $Definition['Action'] = '操作';
 $Definition['Actions Based on Votes'] = '以投票結果為基礎的行動';
@@ -93,7 +84,6 @@ $Definition['API Status'] = 'API 狀態';
 $Definition['Applicant'] = '申請者';
 $Definition['Applicant Role'] = '選擇將賦予新申請帳號的職務名稱；僅在您使用「<b>核准</b>」註冊方式時適用。';
 $Definition['Application'] = '應用程式';
-$Definition['ApplicationHelp'] = '您可以利用應用程式來為網站增加大量功能。<br />當您將應用程式新增到 %s 資料夾後，即可在此處啟用或關閉功能。';
 $Definition['Application ID'] = '應用程式 ID';
 $Definition['Applications'] = '應用程式';
 $Definition['Application Secret'] = '應用程式密鑰';
@@ -163,7 +153,6 @@ $Definition['Check out the full list of video tutorials here.'] = '請參閱這�
 $Definition['Check out the new community forum I\'ve just set up.'] = '嗨！
 
 看看我架設的這個新論壇。這是一個我們交流的好地方。';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla是全世界最簡單、功能最強的社群討論版平台。它使用非常簡便，只要跟著這段教學影片完成下列步驟就可以了。祝您一切順利！';
 $Definition['Choose a locale pack'] = '選擇一個語言';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '請選擇一個職務，以賦予無職務的用戶：';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '請選擇如何處理與%s用戶帳號相關的內容（ 如留言、私訊）。';
@@ -235,7 +224,6 @@ $Definition['Delete Category'] = '刪除分類';
 $Definition['Delete Role'] = '刪除職務';
 $Definition['Delete User'] = '刪除使用者';
 $Definition['Delete User: %s'] = '刪除使用者: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = '刪除某一職務，可能導致使用者無法使用相關應用工具。';
 $Definition['Deleting category...'] = '刪除分類……';
 $Definition['Deleting forever cannot be undone.'] = '刪除某些內容是保持留言版乾淨的好方法。';
 $Definition['Deleting role...'] = '刪除職務……';
@@ -253,21 +241,18 @@ $Definition['Disable Tagging'] = '關閉標籤功能';
 $Definition['Discussion & Comment Editing'] = '討論 & 評論編輯';
 $Definition['discussion(s)'] = '討論';
 $Definition['Discussion  Body'] = '討論內容';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = '討論串分類的用途，在於協助用戶以對社群有意義的方式來整理討論內容。';
 $Definition['Discussions Layout'] = '討論串樣式';
 $Definition['Discussions per Page'] = '每頁顯示討論數';
 $Definition['Discussion  Subject'] = '討論主題';
 $Definition['Display in dashboard. (not recommended)'] = '顯示在控制台中（不建議使用）。';
 $Definition['Display root categories as headings.'] = '顯示頂層分類作為頁首。';
 $Definition['Don\'t display for embedded comments.'] = '不在內嵌討論串中顯示。';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '不內嵌討論版管理控制台（彈出後以全螢幕顯示）';
 $Definition['Don\'t Refresh'] = '不要重新整理';
 $Definition['Don\'t use Categories'] = '不使用分類';
 $Definition['Do not display the categories in the side panel.'] = '不將分類顯示在邊欄上。';
 $Definition['Download Locale List'] = '下載語系清單';
 $Definition['DownloadLocalePack'] = '下載';
 $Definition['Download Locale Pack'] = '下載語言包';
-$Definition['Drag and drop the categories below to sort and nest them.'] = '以拖放方式為分類排序或設定階層。';
 
 $Definition['Edit/Delete Log'] = '編輯／刪除記錄';
 $Definition['Edit Category'] = '編輯分類';
@@ -304,8 +289,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = '輸入
 $Definition['Enter a descriptive name.'] = '請輸入能清楚描述這個pocket的名稱；這個名稱只會在您管理pocket的時候出現，主要是為了協助您記得這個pocket。';
 $Definition['Enter a short name for the site.'] = '請為這個網站取一個簡短名稱，這個名稱會出現在登入按鈕上。';
 $Definition['Enter numbers starting at 1.'] = '請輸入從1開始的數字。';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = '請輸入您的Wordpress網站位址，接下來的部分則由我們代勞。';
-$Definition['Enter the connection settings for your sphinx server below.'] = '請在下面輸入您Sphinx伺服器的連線設定。';
 $Definition['Enter the email address of the person you would like to invite:'] = '請輸入你邀請對象的 Email 地址:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = '請輸入您希望作為首頁的網頁位址';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = '請輸入您希望作為首頁的網頁位址：';
@@ -317,18 +300,14 @@ $Definition['Every %s minutes'] = '每 %s 分鐘';
 $Definition['Every %s second'] = '每秒';
 $Definition['Every %s seconds'] = '每 %s 秒';
 $Definition['Every 1 minute'] = '每 1 分鐘';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = '所有的編輯或刪除動作都會記錄在這裡；請使用Use &lsquo;回復&rsquo;來取消任何變動。 to undo any change.';
-$Definition['Everyone who signs up gets a profile page.'] = '每一位在留言版上註冊的用戶，都會擁有一個可供其他人閱覽的個人專屬頁面；在頁面上，用戶可以上傳自己的照片、管理個人資料設定、或是關注版上正在發生的有趣事物。請<a href="{/profile,url}">現在就設定您的專屬頁面</a>。';
 $Definition['Every Page'] = '每頁';
 $Definition['Everything is ok.'] = '一切正常。';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '您網站上的每一位用戶都有一個指定職務；這個職務會決定這位用戶有哪些權限。';
 $Definition['Exclude archived discussions from the discussions list'] = '將已封存的討論串移出討論列表';
 $Definition['Existing members send invitations to new members.'] = '現有用戶可以傳送邀請給新用戶。';
 $Definition['Exit Preview'] = '離開預覽模式';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect功能讓用戶可以透過自己的Facebook帳號登入；<b>您必須在Facebook網站上註冊您的應用程式，以便使用這項功能。</b>';
 $Definition['Facebook Settings'] = 'Facebook 設定';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = '無法以您提供的帳號和密碼連結資料庫。會不會是拼錯了呢？資料庫回報的訊息是：<code>%s</code>';
 $Definition['Failure'] = '失敗';
 $Definition['FaviconBrowse'] = '如果您想要更換網站小圖像，請瀏覽新的圖檔：';
 $Definition['FaviconDescription'] = '您網站的小圖像已經出現在瀏覽器的標題欄上，並且會被縮小為16x16像素的尺寸。';
@@ -337,10 +316,8 @@ $Definition['FileUpload is currently ON'] = '目前已開啟 FileUpload';
 $Definition['Finished'] = '已完成';
 $Definition['First Visit'] = '第一次訪問';
 $Definition['Flood Control'] = '溢位控制';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = '強制規定只能從這個網址使用控制台<em>（不建議使用）</em>';
 $Definition['Force the forum to only be accessible through this url'] = '強制規定討論版只能透過這個網址進入';
 $Definition['Force your forum to be viewed through the Remote Url'] = '強制規定您的討論版只能從這個遠端網址進入';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = '為SEO目的起見，已避免搜尋引擎被強制分析遠端網址上的討論版。';
 $Definition['Forum Settings'] = '討論區設定';
 $Definition['Frequency'] = '更新頻率';
 
@@ -350,11 +327,6 @@ $Definition['Garden.Import.Complete.Description'] = '您已成功完成匯入作
 $Definition['Garden.Import.Continue.Description'] = '目前您的匯入作業應該還在進行中。
    請選擇下列選項之一。';
 $Definition['Garden.Import.InputInstructions'] = '請輸入匯入資料的管理員電子郵件位址與密碼。';
-$Definition['Garden.StatisticsDisabled'] = '您已經在設定檔案中刻意關閉了Vanilla Statistics統計功能。';
-$Definition['Garden.StatisticsLocal.Explain'] = '這個討論版目前應該是在測試環境中執行，或者回報的是一個區域網內IP位址；系統預設為不追蹤使用區域網內IP位址的討論版。';
-$Definition['Garden.StatisticsLocal.Resolve'] = '如果您確定討論版可以從外部internet網路連線，可以在這裡強制系統回報統計數字：';
-$Definition['Garden.StatisticsReadonly.Explain'] = '您的config.php檔案應已設為唯讀，所以Vanilla無法自動註冊您討論版的InstallationID與InstallationSecret資料。';
-$Definition['Garden.StatisticsReadonly.Resolve'] = '如果要解決這個問題，請將conf/config.php檔案的權限設為777。';
 $Definition['Gave badge to users.'] = '將徽章給予用戶。';
 $Definition['Generate'] = '產生';
 $Definition['Generate Client ID and Secret'] = '產生Client ID與密鑰資料';
@@ -375,7 +347,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user}同�
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = '注意！';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '請注意！這是一個不允許使用主控時程的特殊職務，因此權限已經設為僅限「閱覽」。';
 $Definition['Help &amp; Tutorials'] = '說明與教學';
 $Definition['Here\'s how to get started:'] = '以下是入門教學:';
 $Definition['Hidden for everything!'] = '已對所有用戶端隱藏！';
@@ -390,8 +361,6 @@ $Definition['How to use themes'] = '如何使用佈景主題';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML電子郵件';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '如果用戶已上傳橫幅標誌，將會取代用戶端討論版頁面上的橫幅標題。';
-$Definition['If you want to decrease the warning level then remove a warning.'] = '如果您想降低警告層級，請關閉警告訊息。';
 $Definition['Import'] = '匯入';
 $Definition['Importing to Vanilla'] = '匯入Vanilla';
 $Definition['Inbox Page'] = '收件匣頁面';
@@ -407,12 +376,9 @@ $Definition['InvitationMessage'] = '您好！
 歡迎您過來看看我剛設立的全新社群討論版，一起在這裡跟大家透過網路聊天吧！
 
 請利用下列的連結登入。';
-$Definition['Invitations can be sent from users\' profile pages.'] = '如果您使用了邀請註冊功能，用戶的專屬個人頁面上會出現稱為「<a href="%s" class="Popup">我的邀請函</a>」的連結。';
 $Definition['Invitations per month'] = '每月邀請數';
 $Definition['Invitations will expire'] = '邀請過期';
 $Definition['Invited by'] = '邀請人';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '您所指定的資料庫似乎還沒有建立；您確定已經建立了嗎？會不會是名稱拼錯了呢？資料庫回報的訊息是：<code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '將留言字數限制在一個合理數值之下，是一個不錯的想法。';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect 客戶端函式庫';
 $Definition['jsConnect Documentation'] = 'jsConnect 文件';
@@ -424,9 +390,6 @@ $Definition['Kick-start your community and increase user engagement.'] = '啟動
 $Definition['Label this Revision'] = '為本次改版加上標籤';
 $Definition['Large images will be scaled down.'] = '大型圖檔將被縮小至最大寬度 %s px 及 最大高度 %s px 。';
 $Definition['Last Visit'] = '最後訪問';
-$Definition['Learn about custom routing.'] = '了解更多自訂路由。';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '學習如何徹底改變討論版的外觀設計：上傳您的專屬標誌、設定首頁名稱、選擇視覺主題、並且改變各種自訂選項。';
-$Definition['Learn how to use the basic functionality of your forum.'] = '學習使用討論版的各種基本功能。';
 $Definition['Level'] = '等級';
 $Definition['Likes'] = '個讚';
 $Definition['Limit the pocket to one or more roles or permissions.'] = '將pocket限制為一種（或多種）職務或權限。';

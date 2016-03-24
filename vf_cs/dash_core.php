@@ -33,18 +33,9 @@ $Definition['5 minutes'] = '5 minut';
 
 $Definition['15 minutes'] = '15 minut';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Pozor!</strong> Smazání role se může projevit u uživatelů, kteří nemají k aplikaci přístup.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Pozor!</strong> Přesouvání diskuzí do náhradní kategorie může vést k mizení (objevování) příspěvku v závislosti na jiných právech dané kategorie.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Potvrď svoji e-mailovou adresu';
 
 $Definition['Abilites'] = 'Schopnosti';
-$Definition['About.DisableStatistics'] = 'Pokud máte požadavek na zakázání sledování statistik, přidejte do konfiguračního souboru instalace tento řádek:
-<code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'K životu tohoto systému Vanilla, který je zdarma a open-source, jsou tyto statistiky důležité. Nezakazujte tedy prosím reportování těchto statistik.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla může být použita místo vašeho stávajícího komentářového systému na vašem blogu. Ve skutečnosti může být použita pro komentáře na jakékoliv stránce vašeho webu.';
-$Definition['AboutEmbedding'] = 'Vkládán umožňuje vkládat různé části, nebo celou diskuzi do vašich aplikací nebo webových stránek.';
-$Definition['About Vanilla Statistics'] = 'O Vanilla statistikách';
 $Definition['Above Main Content'] = 'Nad hlavní obsah';
 $Definition['Account Sync Failed'] = 'Synchronizace účtů byla neúspěšná';
 $Definition['Action'] = 'Akce';
@@ -71,7 +62,6 @@ $Definition['All Pages'] = 'Všechny stránky';
 $Definition['API Status'] = 'Stav API';
 $Definition['Applicant'] = 'Uchazeč';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
-$Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Applications'] = 'Aplikace';
 $Definition['Applied On'] = 'Datum';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'Hezčí URL pro lepší SEO.';
@@ -87,7 +77,6 @@ $Definition['Ban Type'] = 'Druh';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Change your banner'] = 'Změňte záhlaví';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Comments Page'] = 'Komentáře';
 $Definition['Condition Expression'] = 'Hodnota';
@@ -126,11 +115,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 $Definition['Getting Started'] = 'Začínáme';
 $Definition['Getting Started with Vanilla'] = 'Začínáme s Vanilla';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
@@ -149,8 +133,6 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Je dobré nastavit maximální počet znaků povolených v komentáři na rozumně nízkou velikost.';
 
 $Definition['Locales are in your %s folder.'] = 'Locales allow you to support other languages on your site. Once a locale has been added to your %s folder, you can enable or disable it here.';
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';

@@ -33,9 +33,6 @@ $Definition['5 minutes'] = 'Metsotso e 5';
 
 $Definition['15 minutes'] = 'Metsotso e 15';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Sebatakgomo!</strong> Go phumola tema go ka feleletša ka gore badiriši ba se sa kgona go tsena.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Sebatakgomo!</strong> Go iša dipoledišano go legoro la go lokiša go ka feleletša ka dipoledišano tše di hwelelago (goba di tšwelelago) ge go lokiša go na le ditumelelo tša go fapana go feta legoro leo le phumolwago.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Kgonthiša Aterese ya Gago ya Imeile';
 $Definition['[%s] Invitation'] = '[%s] Taletšo';
 $Definition['[%s] Password Reset'] = '[%s] Pušetšosekeng ya Phasewete';
@@ -43,13 +40,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Kgopelo ya Pušetšosekeng ya
 
 $Definition['a Badge'] = 'Petšhe';
 $Definition['Abilites'] = 'Bokgoni';
-$Definition['About.DisableStatistics'] = 'Ge e ba o swanetše go tloša pego ye ya datha ka mabaka a kgwebo, o ka dira bjalo ka go tsenya mothalo o latelago faeleng ya gago ya go hloma: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = MAAKA;</code>';
-$Definition['About.VanillaStatistics'] = 'E bohlokwa kudu bophelong bjo bja go se be le kgateletšo, gore re lekanye phihlelelo ka nepo le katlego ya Vanilla. Re kgopela gore hle o se ke wa tima pego ya datha ye.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla e ka dirišwa legatong la tshepedišo e nngwe ya polelo. Tabeng yeo, e ka dirišwa go tsenya mantšu letlakaleng lefe goba lefe wepesaeteng.';
-$Definition['AboutEmbedding'] = 'Go hloma go dumelela dikarolo ka moka goba karolo ya tikologo ya geno gore e hlome dikgopelong tše dingwe le matlakala a wepesaete';
-$Definition['About Vanilla Statistics'] = 'Mabapi le Dipalopalo tša Vanilla';
 $Definition['Above Main Content'] = 'Ka Godimo ga Diteng tše Dikgolo';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Go fihlelela tikologo ya geno ka go kgotla linki ya "Etela Lefelo" godimo ga letlakala le, goba ka <a href={/,url}>go kgotla mo</a>. Lekgotla la tikologo ke seo badiriši ba gago ka moka &amp; bareki ba tla bona ge ba etela <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Akhaonte e Paletšwe ke go Nyalantšha';
 $Definition['Action'] = 'Kgato';
 $Definition['Actions Based on Votes'] = 'Dikgato tše di Theilwego Diboutung';
@@ -93,7 +84,6 @@ $Definition['API Status'] = 'Boemo bja API';
 $Definition['Applicant'] = 'Mokgopedi';
 $Definition['Applicant Role'] = 'Kgetha tema yeo e swanetšego go dirišwa ke bakgopedi ba bafsa. Se se šoma feela ge o na le mokgwa wa go ingwadiša wa <b>approval</b> .';
 $Definition['Application'] = 'Kgopelo';
-$Definition['ApplicationHelp'] = 'Dikgopelo di go dumelela go tsenya dihlopha tše dikgolo tša go šoma wepesaeteng ya gago.<br />Ge kgopelo e tsentšwe foltareng ya gago ya %s, o ka e bula goba go e tswalela mo.';
 $Definition['Application ID'] = 'Boitsebišo bja Kgopelo';
 $Definition['Applications'] = 'Dikgopelo';
 $Definition['Application Secret'] = 'Sephiri sa Kgopelo';
@@ -163,7 +153,6 @@ $Definition['Check out the full list of video tutorials here.'] = 'Lekola lenane
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Thobela Thaka!
 
 Lekola lefelo le lefsa la tikologo leo ke sa tšwago go le hloma. Ke lefelo le lebotse leo re ka boledišanago ka lona inthaneteng.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla e bonolo, sethala se maatla kudu sa tikologo mo lefaseng. E bonolo kudu go e diriša. Thoma ka bidio ye ya matseno gomme o tšwele pele ka megato ye e lego ka mo tlase. Ipshine!';
 $Definition['Choose a locale pack'] = 'Kgetha sephuthelwana sa lefelo';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Kgetha tema yeo e tla abelwago badiriši ba ditšhiwana:';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Kgetha kamoo go swanetšego go swaraganwa le diteng ka moka tše di amanago le akhaonte ya modiriši ya %s (ditlhaloso, melaetša, bj bj).';
@@ -235,7 +224,6 @@ $Definition['Delete Category'] = 'Phumola Legoro';
 $Definition['Delete Role'] = 'Phumola Legoro';
 $Definition['Delete User'] = 'Phumola Modiriši';
 $Definition['Delete User: %s'] = 'Phumola Modiriši: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = 'Go phumola legoro go ka feleletša ka gore badiriši ba se kgone go tsena selong.';
 $Definition['Deleting category...'] = 'Go phumola legoro...';
 $Definition['Deleting forever cannot be undone.'] = 'Go phumola ke tsela e botse ya go boloka legoro le hlwekile.';
 $Definition['Deleting role...'] = 'Go phumola legoro...';
@@ -253,21 +241,18 @@ $Definition['Disable Tagging'] = 'Tloša Maswao';
 $Definition['Discussion & Comment Editing'] = 'Go Ngwala Poledišano le Tlhaloso';
 $Definition['discussion(s)'] = '(di)poledišano';
 $Definition['Discussion  Body'] = 'Karolo ya Poledišano';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Magoro a poledišano a dirišetšwa go thuša badiriši ba gago gore ba rulaganye dipoledišano tša bona ka tsela yeo e nago le morero bakeng sa tikologo ya geno.';
 $Definition['Discussions Layout'] = 'Mohlala wa Dipoledišano';
 $Definition['Discussions per Page'] = 'Dipoledišano ka Letlakala';
 $Definition['Discussion  Subject'] = 'Taba ya Poledišano';
 $Definition['Display in dashboard. (not recommended)'] = 'Bontšha mešomong. (ga e kgothaletšwe)';
 $Definition['Display root categories as headings.'] = 'Bontšha magoro a motheo e le dihlogo.';
 $Definition['Don\'t display for embedded comments.'] = 'O se ke wa bontšha ditlhaloso tše di hlomilwego.';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'O se ke wa hloma taolo ya legoro mešomong (e bee ka ntle sekirining ka botlalo)';
 $Definition['Don\'t Refresh'] = 'O se ke wa Mpshafatša';
 $Definition['Don\'t use Categories'] = 'O se ke wa Diriša Magoro';
 $Definition['Do not display the categories in the side panel.'] = 'Ga se gwa bontšhwa magoro karolong ya ka thoko.';
 $Definition['Download Locale List'] = 'Taonelouta Lenaneo la Lefelo';
 $Definition['DownloadLocalePack'] = 'Taonelouta';
 $Definition['Download Locale Pack'] = 'Taonelouta Sephuthelwana sa Lefelo';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Goga le go bea magoro ka mo tlase gore o a arole le go a kopanya.';
 
 $Definition['Edit/Delete Log'] = 'Ngwala/Phumola Lloko';
 $Definition['Edit Category'] = 'Ngwala Legoro';
@@ -304,8 +289,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Tsenya
 $Definition['Enter a descriptive name.'] = 'Ngwala leina la tlhaloso bakeng sa sephuthelwana. Leina le le ka se bonale kae goba kae ntle le ge go laolwa mekotla ya gago mo gore e dirišwe feela go go thuša go gopola sephuthelwana.';
 $Definition['Enter a short name for the site.'] = 'Ngwala leina le lekopana la lefelo le. Se se bontšhwa dikonotswaneng tša go tsena.';
 $Definition['Enter numbers starting at 1.'] = 'Ngwala dinomoro tše di thomago ka 1.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Ngwala aterese ya Poloko ya Bogatišetšo bja gago gomme re tla tšwela pele.';
-$Definition['Enter the connection settings for your sphinx server below.'] = 'Ngwala dipeakanyo tša kgokagano bakeng sa sebara ya sefinikisi ka mo tlase.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Ngwala aterese ya imeile ya motho yo o ka ratago go mo laletša:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Ngwala url letlakaleng le o ka ratago go le diriša e le la mathomong';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Ngwala url letlakaleng leo o ka ratago go le diriša e le la mathomong:';
@@ -317,18 +300,14 @@ $Definition['Every %s minutes'] = 'Metsotso e mengwe le e mengwe e %s';
 $Definition['Every %s second'] = 'Motsotswana o mongwe le o mongwe';
 $Definition['Every %s seconds'] = 'Metsotswana e mengwe le e mengwe e %s';
 $Definition['Every 1 minute'] = 'Motsotso o mongwe le o mongwe o 1';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Go ngwala go gongwe le go gongwe go ngwadilwe mo. Diriša &isquo;Bušetša&rsquo; go phumola phetogo efe goba efe.';
-$Definition['Everyone who signs up gets a profile page.'] = 'Yo mongwe le yo mongwe yo a ngwadišago tikologong ya geno o hwetša letlakala la sephuthelwana sa setšhaba moo ba ka tsenyago seswantšho sa bona, ba laola dipeakanyo tša bona, le go lekola dilo tše dibotse tikologong. O swanetše <a href="{/profile,url}">tlwaelana le sephuthelwana sa gago gona bjale</a>.';
 $Definition['Every Page'] = 'Letlakala le Lengwe le le Lengwe';
 $Definition['Everything is ok.'] = 'Tšohle di gabotse.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Modiriši yo mongwe le yo mongwe lefelong la gago o abetšwe bonyenyane tema e tee. Ditema di dirišetšwa go bona seo badiriši ba ka dumelelwago go se dira.';
 $Definition['Exclude archived discussions from the discussions list'] = 'O se akaretše dipoledišano tše di bolokilwego lenaneong la dipoledišano';
 $Definition['Existing members send invitations to new members.'] = 'Maloko ao a lego gona a romela ditaletšo go maloko a mafsa.';
 $Definition['Exit Preview'] = 'Etšwa go Ponelopele';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Kgokagano ya Facebook e dumelela badiriši go tsena ba diriša akhaonte ya bona ya Facebook. <b>O swanetše go ngwadiša kgopelo ya gago ka Facebook gore selo se se šome.</b>';
 $Definition['Facebook Settings'] = 'Dipeakanyo tša Facebook';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'E paletšwe ke go kgokagana le tathapeisi le leina la modiriši le phasewete yeo o e tsentšego. Na o ngwadile e fošagetšego? Tathapeisi e begile: <code>%s</code>';
 $Definition['Failure'] = 'Go palelwa';
 $Definition['Favicon'] = 'Fabikhone';
 $Definition['FaviconBrowse'] = 'Fetleka gore o hwetše fabikhone ge o ka rata go e fetoša:';
@@ -338,10 +317,8 @@ $Definition['FileUpload is currently ON'] = 'Go Tsenya Faele ga bjale go BULEGIL
 $Definition['Finished'] = 'Feditšwe';
 $Definition['First Visit'] = 'Ketelo ya Pele';
 $Definition['Flood Control'] = 'Taolo ya Mafula';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Gapeletša seo se lego pele gore se fihlelelwe ka url ye <em>(ga e kgothaletšwe)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Gapeletša foramo gore e fihlelelwe feela ka url ye';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Gapeletša legoro la gago gore le bonwe ka Url ya Kgojana';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Ka morero wa SEO, bafetleki ba go tsoma ga ba akaretšwe kgapeletšong ya go bogela foramo go url yeo e lego lekatana.';
 $Definition['Forum Settings'] = 'Dipeakanyo tša Foramo';
 $Definition['Frequency'] = 'Makga';
 
@@ -351,11 +328,6 @@ Kgotla <b>Feditšwe</b> ge o itokišitše.';
 $Definition['Garden.Import.Continue.Description'] = 'Go bonagala eka o amogela se sengwe.
 Hle kgetha e nngwe ya dilo tše di latelago.';
 $Definition['Garden.Import.InputInstructions'] = 'Ngwala imeile le phasewete ya modiriši wa taolo go tloga go tatha yeo e amogelwago.';
-$Definition['Garden.StatisticsDisabled'] = 'O timile ka go lebanya Dipalopalo tša Vanilla faeleng ya gago ya go beakanya.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'Karolo ye e bonala e sepedišana le tikologo ya teko goba e ka ba e bega IP ya sephiri. Go ka no itiragalela gore diforamo tšeo di sepedišwago ka diIP tša sephiri di se lemogwe.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'Ge e ba o kgodišegile gore diforamo tša gago di a fihlelelega inthaneteng o ka e gapeletša gore e bege dipalopalo mo:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Faele ya gago ya config.php e bonala e le ya go balwa feela. Se se bolela gore Vanilla e ka se kgone go ngwadiša ka maitirišo foramo ya gago ya go Hlongwa le Diphiri tša go Hlongwa.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'Gore o rarolle bothata bjo, abela mokgwa wa faele wa 777 faeleng ya gago ya conf/config.php.';
 $Definition['Gave badge to users.'] = 'Badiriši ba neilwe dipetšhe.';
 $Definition['Generate'] = 'Laola';
 $Definition['Generate Client ID and Secret'] = 'Laola Boitsebišo bja Mothwadi le Sephiri';
@@ -376,7 +348,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} e du
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Sebatakgomo!';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Sebatakgomo! Ye ke tema e kgethegilego yeo e sa dumelelego dikarolo tše di šomago. Ka baka leo, karolo ya tumelelo e lekanyeditšwe gore go "bonwe" ditumelelo.';
 $Definition['Help &amp; Tutorials'] = 'Thuša &amp; Dithuto';
 $Definition['Here\'s how to get started:'] = 'O thoma ka tsela ye:';
 $Definition['Hidden for everything!'] = 'E utilwe dilong tšohle!';
@@ -391,8 +362,6 @@ $Definition['How to use themes'] = 'Kamoo go ka dirišwago sehlogo';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'Diimeile tša HTML';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Ge e ba leswao la sehlogo le tsentšwe, e tla tšea legato la leswao la sehlogo go matlakala a foramo ya modiriši.';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'Ge e ba o nyaka go fokotša tekanyo ya temošo gona tloša temošo.';
 $Definition['Import'] = 'Amogela';
 $Definition['Importing to Vanilla'] = 'E Romela go Vanilla';
 $Definition['Inbox Page'] = 'Letlakala la Melaetša';
@@ -408,12 +377,9 @@ $Definition['InvitationMessage'] = 'Go re\'ng Thaka!
 Bona tikologo e mpsha yeo ke sa tšwago go e hloma. Ke lefelo le lebotse go rena go boledišana inthaneteng.
 
 Latela linki yeo e lego ka mo tlase gore o tsene.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Ge o diriša boingwadišo ka tirišo ya taletšo e tla ba le linki yeo e bitšwago <a href="%s" class="Popup">Ditaletšo tša ka</a> matlakaleng a dikanegelo tša bona.';
 $Definition['Invitations per month'] = 'Ditaletšo ka kgwedi';
 $Definition['Invitations will expire'] = 'Ditaletšo di tla felelwa ke nako';
 $Definition['Invited by'] = 'Laleditšwe ke';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Go bonala eka tathapeisi yeo o e kgethilego ga se ya hlwa e eba gona. Na o šetše o e hlamile? Na o ngwadile leina le le fošagetšego? Tathapeisi e begile: <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Ke gabotse go boloka ditlhaka tše itšego tša botlalo tše di dumeletšwego tlhalosong ya ka mo tlase go fihla tekanyong e swanetšego.';
 
 $Definition['jsConnect Client Libraries'] = 'jsKgokaganya Makgobapuku a Mothwadi';
 $Definition['jsConnect Documentation'] = 'jsKgokaganya Dingwalwa';
@@ -425,9 +391,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Thoma 
 $Definition['Label this Revision'] = 'Bea leswao la Pušeletšo';
 $Definition['Large images will be scaled down.'] = 'Diswantšho tše dikgolo di tla bewa sekaleng go fihla tekanyong ya bophara ya %spx le bophagamo bja mafelelo bja %spx.';
 $Definition['Last Visit'] = 'Ketelo ya Mafelelo';
-$Definition['Learn about custom routing.'] = 'Ithute ka mokgwa o tlwaetšwego.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Ithute kamoo o ka fetošago ka botlalo ponagalo ya foramo ya gago gomme o kwe: tsenya lloko ya gago, beakanya letlakala la gago la mathomo, kgetha sehlogo gomme o tlwaelane le sona.';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'Ithute kamoo o ka dirišago go šoma ga motheo ga foramo ya gago.';
 $Definition['Level'] = 'Tekanyo';
 $Definition['Likes'] = 'Mmamoratwa';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Lekanyetša sekhwama go tema e tee goba tše dintši goba ditumelelo.';

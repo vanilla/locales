@@ -14,10 +14,6 @@ $Definition['2 weeks after being sent'] = '2 tygodnie po wysłaniu';
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Potwierdź swój adres email';
 $Definition['[%s] Password Reset Request'] = '[%s] Prośba o ustawienie hasła';
 
-$Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
-$Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['Action'] = 'Akcja';
 $Definition['Add Info &amp; Create Account'] = 'Dodaj informacje i utwórz konto';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
@@ -27,7 +23,6 @@ $Definition['Advanced Forum Settings'] = 'Zaawansowane ustawienia forum';
 $Definition['Applicant'] = 'Kandydat';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['Application'] = 'Aplikacja';
-$Definition['ApplicationHelp'] = 'Aplikacje umożliwiają dodawanie dużych grup funkcjonalności witryny.<br />Gdy aplikacje zostały dodane do folderu %s, można włączyć lub wyłączyć je tutaj.';
 $Definition['Application ID'] = 'ID aplikacji';
 $Definition['Applications'] = 'Aplikacje';
 $Definition['Application Secret'] = 'Tajne Zastosowanie';
@@ -48,7 +43,6 @@ $Definition['Change the look of All Categories'] = 'You can change the look of t
 $Definition['Change the way that new users register with the site.'] = 'Zmień sposób, w jaki nowy użytkownik może zarejestrować się na stronie.';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check all permissions that apply for each role'] = 'Sprawdź wszystkie uprawnienia, przypisane do każdej roli.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a locale pack'] = 'Wybierz pakiet lokalizacyjny';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Choose who can send out invitations to new members:'] = 'Wybierz kto może wysyłać zaproszenia do nowych członków:';
@@ -92,7 +86,6 @@ $Definition['Enter the email address of the person you would like to invite:'] =
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Każdy użytkownik witryny jest przypisany do przynajmniej jednej roli. Role są używane do określenia tego, co użytkownicy mogą zrobić.';
 $Definition['Existing members send invitations to new members.'] = 'Istniejący członkowie wysyłają zaproszenia do nowych członków.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect pozwala użytkownikom na logowanie się przy użyciu ich kont na Facebooku. <b>Musisz zarejestrować swoją aplikację na Facebooku żeby ten plugin zadziałał.</b>';
@@ -107,11 +100,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Wprowadź adres e-mail i hasło admina ze strony, z której dane chcesz zaimportować.';
-$Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 $Definition['Generate'] = 'Generuj';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
@@ -128,11 +116,9 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Podczas korzystania z rejestracji za pomocą zaproszenia użytkownicy będą mieli łącze o nazwie <a href="%s" class="Popup">Moje zaproszenia</a> na swoich stronach profilowych.';
 $Definition['Invitations per month'] = 'Zaproszenia na miesiąc';
 $Definition['Invitations will expire'] = 'Zaproszenia wygasłe';
 $Definition['Invited by'] = 'Zaproszony przez';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Dobrym pomysłem jest wykorzystanie takiej ilości znaków w komentarzu by zachować rozsądne rozmiary.';
 
 $Definition['Key Type'] = 'Typ klucza';
 $Definition['Key Value'] = 'Wartość klucza';

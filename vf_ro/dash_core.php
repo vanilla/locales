@@ -34,9 +34,6 @@ $Definition['5 minutes'] = '5 minute';
 
 $Definition['15 minutes'] = '15 minute';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Atenție!</strong> Ştergerea unui rol poate duce la imposibilitatea ca unii utilizatori să acceseze aplicația';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Atenție!</strong> Mutarea discuţiilor într-o categorie de înlocuire poate duce la dispariția (sau apariția) acestora în cazul în care categoria de înlocuire are permisiuni diferite față de categoria eliminată';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirmați adresa de E-mail';
 $Definition['[%s] Invitation'] = '[%s] Invitație';
 $Definition['[%s] Password Reset'] = '[%s] Resetarea parolei';
@@ -44,13 +41,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Cerere pentru resetarea parol
 
 $Definition['a Badge'] = 'o insignă';
 $Definition['Abilites'] = 'Abilități';
-$Definition['About.DisableStatistics'] = 'Dacă trebuie să dezactivaţi aceste date de raportare dintr-un motiv de afaceri, puteţi face acest lucru prin adăugarea următoarei linii la fişierul de configurare al instalării: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'Este extrem de important pentru durata de viaţă a acestui software gratuit, open-source, să putem măsura cu precizie expansiunea şi eficienţa Vanilla. De aceea vă rugăm să nu dezactivaţi raportarea acestor date';
-$Definition['AboutCommentEmbedding'] = 'Vanilla poate fi folosit ca înlocuire pentru sistemul de comentarii implicit al unui blog. De fapt acesta poate fi utilizat pentru a adăuga comentarii la orice pagină web';
-$Definition['AboutEmbedding'] = 'Încorporarea permite ca toată sau o parte din comunitatea dumneavoastră să fie încorporată în alte aplicaţii & pagini web';
-$Definition['About Vanilla Statistics'] = 'Despre statisticile Vanilla';
 $Definition['Above Main Content'] = 'Conținutul principal de mai sus';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accesează forumul comunității tale apăsând pe link-ul "Vizitează Portalul" din partea de sus a acestei pagini, sau <a href={/,url}>apăsând aici</a>. Forumul comunității este ceea ce vor vedea toți utilizatorii și clienții tăi când vizitează <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Sincronizarea contului eșuată';
 $Definition['Action'] = 'Acţiune';
 $Definition['Actions Based on Votes'] = 'Acţiuni bazate pe voturi';
@@ -94,7 +85,6 @@ $Definition['API Status'] = 'Statut API';
 $Definition['Applicant'] = 'Solicitant';
 $Definition['Applicant Role'] = 'Selectaţi rolul care trebuie să se aplice pentru noii solicitanţi. Acest lucru se aplică numai dacă aveţi metodă de înregistrare prin <b>approval</b>';
 $Definition['Application'] = 'Aplicație';
-$Definition['ApplicationHelp'] = 'Aplicaţiile vă permit să adăugaţi grupuri mari de funcţionalități site-ului dumneavoastră. < br / > Odată ce o aplicație a fost adăugată dosarului %s, o puteţi activa sau dezactiva de aici';
 $Definition['Application ID'] = 'ID-ul aplicației';
 $Definition['Applications'] = 'Aplicaţii';
 $Definition['Application Secret'] = 'Aplicarea Secret';
@@ -163,7 +153,6 @@ $Definition['Check out the full list of video tutorials here.'] = 'Vizitați lis
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Salut!
 
 Vino să vezi noul forum pe care tocmai l-am deschis. E un loc super tare unde să discutăm online.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla este ce mai simplă și puternică platformaă de comunitate din lume. E super uşor de utilizat. Începeți cu acest video introductiv şi continuaţi cu paşii de mai jos. Succes!';
 $Definition['Choose a locale pack'] = 'Alegeți un pachet de localizare';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Alegeți un rol care va fi atribuit utlizatorilor ”orfani”:';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Alege modul de gestionare al conținutului asociat cu contul de utilizator pentru %s (comentarii, mesaje, etc)';
@@ -235,7 +224,6 @@ $Definition['Delete Category'] = 'Ştergeţi categoria';
 $Definition['Delete Role'] = 'Ştergeţi rol';
 $Definition['Delete User'] = 'Ștergeți utilizator';
 $Definition['Delete User: %s'] = 'Ștergeți utilizatorul: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = 'Ştergerea unui rol poate duce la imposibilitatea ca unii utilizatori să mai aibă acces';
 $Definition['Deleting category...'] = 'Ştergere categorie...';
 $Definition['Deleting forever cannot be undone.'] = 'Ştergerea este o modalitate bună de a păstra forumul curat';
 $Definition['Deleting role...'] = 'Ştergere rol...';
@@ -253,21 +241,18 @@ $Definition['Disable Tagging'] = 'Dezactivaţi Etichetare';
 $Definition['Discussion & Comment Editing'] = 'Editare discuții & comentarii';
 $Definition['discussion(s)'] = 'Discuție(i)';
 $Definition['Discussion  Body'] = 'Cuprinsul discuției';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Categoriile de discuții sunt folosite pentru a ajuta la organizarea acestora astfel încât să fie semnificative pentru comunitatea dumneavoastră';
 $Definition['Discussions Layout'] = 'Aspect discuții';
 $Definition['Discussions per Page'] = 'Discuţii pe pagină';
 $Definition['Discussion  Subject'] = 'Subiectul discuției';
 $Definition['Display in dashboard. (not recommended)'] = 'Afişare în tabloul de bord (nerecomandat)';
 $Definition['Display root categories as headings.'] = 'Afişați categoriile de bază ca titluri';
 $Definition['Don\'t display for embedded comments.'] = 'Nu afișați pentru comentariile încorporate';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Nu încorporați tabloul de administrator al forumului (afișați în ecran complet)';
 $Definition['Don\'t Refresh'] = 'Nu reîmprospătați';
 $Definition['Don\'t use Categories'] = 'Nu utilizați categorii';
 $Definition['Do not display the categories in the side panel.'] = 'Nu afișați categoriile în panoul lateral';
 $Definition['Download Locale List'] = 'Descărcați lista de localizare';
 $Definition['DownloadLocalePack'] = 'Descărcați';
 $Definition['Download Locale Pack'] = 'Descărcați pachetul de localizare ';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag & drop pentru a sorta și grupa categoriile de mai jos';
 
 $Definition['Edit/Delete Log'] = 'Editare/Ștergere jurnal';
 $Definition['Edit Category'] = 'Editare categorii';
@@ -304,8 +289,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Introd
 $Definition['Enter a descriptive name.'] = 'Introduceți un nume sugestiv pentru pocket. Acest nume nu va fi afișat nicăieri altundeva decât când administrați pocket-urile aici deci e folosit doar pentru reamintire.';
 $Definition['Enter a short name for the site.'] = 'Introduceţi un nume scurt pentru site. Acesta va fi afişat pe butoanele de conectare';
 $Definition['Enter numbers starting at 1.'] = 'Introduceţi numere începând de la 1.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Introduceţi adresa dumneavoastră de blog Wordpress iar noi vom continua de acolo';
-$Definition['Enter the connection settings for your sphinx server below.'] = 'Introduceţi setările de conexiune pentru serverul sphink de mai jos';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Introduceţi adresa de e-mail a persoanei pe care doriţi să o invitați:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Introduceţi adresa url a paginii pe care doriţi să o utilizaţi ca pagină de start';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Introduceţi adresa url a paginii pe care doriţi să o utilizaţi ca pagină de start';
@@ -317,18 +300,14 @@ $Definition['Every %s minutes'] = 'Fiecare %s minute';
 $Definition['Every %s second'] = 'Fiecare secundă';
 $Definition['Every %s seconds'] = 'Fiecare %s secunde';
 $Definition['Every 1 minute'] = 'Fiecare 1 minut';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Aici se înregistrează fiecare editare sau ştergere. Utilizați "Resturare" pentru a anula orice modificare';
-$Definition['Everyone who signs up gets a profile page.'] = 'Toată lumea care se înscrie în comunitatea ta primește o pagină publică de profil unde ei pot să își încarce o poză personală, să își gestioneze setările de profil și să urmărească lucrurile interesante care au loc în comunitate. Ar trebui să <a href="{/profile,url}">îți personalizezi profilul tău acum</a>.';
 $Definition['Every Page'] = 'Fiecare pagină';
 $Definition['Everything is ok.'] = 'Totul este ok';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Fiecărui utilizator îi este desemnat cel puțin un rol. Acestea sunt folosite pentru a determina ceea ce este permis utilizatoriilor să facă';
 $Definition['Exclude archived discussions from the discussions list'] = 'Excludeți discuţiile arhivate din lista de discuţii';
 $Definition['Existing members send invitations to new members.'] = 'Membrii existenţi trimit invitaţii pentru noi membri';
 $Definition['Exit Preview'] = 'Ieşire Previzualizare';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Conectarea Facebook permite utilizatorilor să se conecteze folosind contul de Facebook. <b>Pentru ca acest plugin să funcționeze trebuie să vă înregistraţi cu contul de Facebook </b>';
 $Definition['Facebook Settings'] = 'Setări Facebook';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Nu a reuşit să se conecteze la baza de date cu numele de utilizator şi parole. Ați tipărit greșit? Baza de date a raportat: <code>%s</code>';
 $Definition['Failure'] = 'Eşec';
 $Definition['Favicon'] = 'Favorite';
 $Definition['FaviconBrowse'] = 'Răsfoiți pentru o noua pictogramă Favorite dacă doriţi să o schimbați:';
@@ -338,10 +317,8 @@ $Definition['FileUpload is currently ON'] = 'Încărcarea fișierelor este în p
 $Definition['Finished'] = 'Terminat';
 $Definition['First Visit'] = 'Prima vizită';
 $Definition['Flood Control'] = 'Inundaţii Control';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Restricționați tabloul de bord pentru a fi accesibil doar prin intermediul acestui URL <em>(nu este recomandat)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Restricționați forumul pentru a fi accesibil doar prin intermediul acestui URL';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Restricționați forumul pentru a putea fi vizualizat doar prin intermediul URL-ului la distanță';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'În scopuri SEO, motoarele de căutare sunt oprite de la a vedea forumul în adresa remote.';
 $Definition['Forum Settings'] = 'Setări forum';
 $Definition['Frequency'] = 'Frecvenţa';
 
@@ -351,11 +328,6 @@ Când sunteţi gata, faceţi click pe <b>Terminat</b>';
 $Definition['Garden.Import.Continue.Description'] = 'Se pare că vă aflaţi în mijlocul unui import.
 Vă rugăm să alegeţi una dintre următoarele opţiuni';
 $Definition['Garden.Import.InputInstructions'] = 'Introduceţi emailul şi parola de utilizator admin din datele importate.';
-$Definition['Garden.StatisticsDisabled'] = 'Aţi dezactivat Statistiiile Vanilla în fișierul de configurare';
-$Definition['Garden.StatisticsLocal.Explain'] = 'Acest forum pare să fie difuzat într-un mediu de testare, sau raportează un IP privat. În mod implicit, forumurile care rulează pe IP-uri private nu sunt urmărite';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'Dacă sunteţi sigur că forumul este accesibil de pe internet îl puteţi forţa să raporteze statistici aici:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Fişierul config.php pare a fi doar în modul citire. Acest lucru înseamnă că Vanilla nu va putea să înregistreze în mod automat InstallationID şi InstallationSecret pe forum';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'Pentru a rezolva această problemă, atribuiți modul de fişier 777 fişierului conf/config.php';
 $Definition['Gave badge to users.'] = 'A dat insigna utilizatorilor';
 $Definition['Generate'] = 'Generați';
 $Definition['Generate Client ID and Secret'] = 'Generați Client ID şi Secret';
@@ -376,7 +348,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} a ap
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Atenție!';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Atenție! Acesta este un rol special, care nu permite sesiuni active. Din acest motiv, opţiunile de permisiunea au fost limitate la "Vizualizare" ';
 $Definition['Help &amp; Tutorials'] = 'Tutoriale Ajutor';
 $Definition['Here\'s how to get started:'] = 'Iată cum să începeţi:';
 $Definition['Hidden for everything!'] = 'Ascuns pentru tot!';
@@ -391,8 +362,6 @@ $Definition['How to use themes'] = 'Cum să utilizaţi teme';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'Mesaje email HTML';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Dacă un logo pentru banner este încărcat, acesta va înlocui titlul banner-ului  pe pagina de forum a utilizatorului';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'Dacă doriţi să reduceți nivelul de avertizare eliminați un avertisment';
 $Definition['Importing to Vanilla'] = 'Import pe Vanilla';
 $Definition['Inbox Page'] = 'Mesaje primite';
 $Definition['Indexes'] = 'Indexuri';
@@ -406,12 +375,9 @@ $Definition['InvitationMessage'] = 'Salut!
 
 Vizitează noua comunitate pe care am creat-o. Este un loc minunat unde putem discuta online.
 Urmează link-ul de mai jos pentru autentificare';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Atunci când utilizaţi înregistrarea prin invitaţie, utilizatorii vor avea un link numit <a href="%s" class="Popup"> Invitațiile mele</a> pe paginile lor de profil';
 $Definition['Invitations per month'] = 'Invitații pe lună';
 $Definition['Invitations will expire'] = 'Invitaţiile vor expira';
 $Definition['Invited by'] = 'Invitat de';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Se pare că baza de date specificată nu există încă. Ați creat-o deja? Ați introdus greşit numele? Baza de date a raportat: <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Este o idee bună de a păstra numărul maxim de caractere permis într-un comentariu la o dimensiune rezonabilă';
 
 $Definition['jsConnect Client Libraries'] = 'Librărie conectare client JS';
 $Definition['jsConnect Documentation'] = 'Documentație conectare JS';
@@ -423,9 +389,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Iniţi
 $Definition['Label this Revision'] = 'Etichetați această revizuire';
 $Definition['Large images will be scaled down.'] = 'Imaginile mari vor fi micșorate până la o lățime maximă de %spx și o înălțime maximă de %spx.';
 $Definition['Last Visit'] = 'Ultima vizită';
-$Definition['Learn about custom routing.'] = 'Mai multe informații despre rutarea personalizată.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aflaţi cum să schimbați complet aspectul forum-ului: încărcaţi-vă logo-ul, setaţi o pagină de start, alegeţi o temă şi personalizaţi-o';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'Aflaţi cum să utilizaţi funcţionalitățile de bază ale forumului';
 $Definition['Level'] = 'Nivel';
 $Definition['Likes'] = 'Aprecieri';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limitați pocketul la un singur sau la mai multe roluri sau permisiuni.';

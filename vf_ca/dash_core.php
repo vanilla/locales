@@ -20,7 +20,6 @@ $Definition['15 minutes'] = '15 minuts';
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirma el teu compte de correu';
 
 $Definition['Abilites'] = 'Habilitats';
-$Definition['About Vanilla Statistics'] = 'Sobre les estadístiques de Vanilla';
 $Definition['Action'] = 'Acció';
 $Definition['Add Category'] = 'Afegir categoria';
 $Definition['Add Connection'] = 'Afegir connexió';

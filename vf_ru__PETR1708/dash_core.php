@@ -33,17 +33,10 @@ $Definition['5 minutes'] = '5 минутъ';
 
 $Definition['15 minutes'] = '15 минутъ';
 
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Вниманіе!</strong> Перемѣщеніе темы въ другую категорію можетъ привести къ ее исчезновенію, если замѣняемая категорія имѣетъ другіе права';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] подтвердилъ вашъ email адресъ';
 $Definition['[%s] Invitation'] = 'Приглашеніе [%s]';
 
 $Definition['Abilites'] = 'Способность';
-$Definition['About.DisableStatistics'] = 'Если вамъ по какимъ-то причинамъ необходимо отключить этотъ плагинъ, отредактируйте файлъ config.php, добавивъ (или измѣнивъ) строку<p> <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code></p>';
-$Definition['About.VanillaStatistics'] = 'Это очень важный плагинъ, отправляющій статистику использованія вашего форума на сервера Vanillaforums.org. Для того чтобы авторы Vanilla могли сдѣлать движокъ форума еще лучше. Мы просимъ Васъ не отключать отправку статистическихъ данныхъ';
-$Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
-$Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Зайдите на форум вашего сообщества, нажав на ссылку "Посетить сайт" вверху этой страницы или <a href={/,url}>нажав сюда</a>. Форум сообщества – это то, что увидят все ваши пользователи и клиенты при посещении <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Action'] = 'Дѣйствія';
 $Definition['Add Category'] = 'Добавить категорію';
 $Definition['Added By'] = 'Добавилъ';
@@ -71,7 +64,6 @@ $Definition['API Status'] = 'API статусъ';
 $Definition['Applicant'] = 'Кандидатъ';
 $Definition['Applicant Role'] = 'Выберите группу для новыхъ кандидатовъ';
 $Definition['Application'] = 'Приложеніе';
-$Definition['ApplicationHelp'] = 'Съ помощью приложеній вы можете измѣнить базовую функціональность форума.<br />Сразу послѣ того, какъ вы загрузите приложеніе въ эту %s категорію, вы сможете активировать его въ этой панели.';
 $Definition['Application ID'] = 'ID Приложенія';
 $Definition['Applications'] = 'Приложенія';
 $Definition['Application Secret'] = 'Скрытый пароль';
@@ -118,7 +110,6 @@ $Definition['Check all permissions that apply to this role:'] = 'Провѣрь�
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Здравствуйте, Друг!
 
 Взгляните на только что созданный мной новый форум сообщества. Это замечательное место, где мы можем общаться друг с другом онлайн.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a locale pack'] = 'Выберите локализацію';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Какъ обрабатывать содержимое для %s ? (отзывы, увѣдомленія, и т.д.).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
@@ -180,7 +171,6 @@ $Definition['Disable Tagging'] = 'Выключить теги';
 $Definition['Discussion & Comment Editing'] = 'Редактированіе Темъ и Отзывовъ';
 $Definition['discussion(s)'] = 'Темъ';
 $Definition['Discussion  Body'] = 'Обсужденіе Основное поле';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Категоріи помогаютъ упростить навигацію по форуму, а также разбить темы на группы. Напримѣръ, темы про мотоциклы нужно отнести въ категорію "мото", а про автомобили — въ категорію "авто"';
 $Definition['Discussions per Page'] = 'Темъ на страницѣ';
 $Definition['Discussion  Subject'] = 'Обсужденіе Тема';
 $Definition['Display root categories as headings.'] = 'Показывать главныя категоріи какъ заголовки.';
@@ -188,7 +178,6 @@ $Definition['Don\'t Refresh'] = 'Не обновлять';
 $Definition['Don\'t use Categories'] = 'Не использовать категоріи';
 $Definition['Do not display the categories in the side panel.'] = 'Не показывать списокъ категорій въ сайдбаре.';
 $Definition['DownloadLocalePack'] = 'Download';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Схватите и перетащите категорію для сортировки въ спискѣ.';
 
 $Definition['Edit/Delete Log'] = 'Логъ редактированія';
 $Definition['Edit Category'] = 'Редактировать категорію';
@@ -219,15 +208,11 @@ $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
 $Definition['Every 1 minute'] = 'Каждую минуту';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Каждое редактированіе или удаленіе здѣсь записывается. Примѣните функцію возстановленія чтобы отмѣнить измѣненія.';
-$Definition['Everyone who signs up gets a profile page.'] = 'Все, кто регистрируется в вашем сообществе, получают публичную страницу профиля, где они могут загружать свои изображения, управлять настройками профиля и отслеживать классные вещи, происходящие в сообществе. Вам стоит <a href="{/profile,url}">настроить свой профиль сейчас</a>.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Каждый пользователь сайта состоитъ минимумъ въ одной группѣ. Настройка группъ опредѣляетъ, что пользователь, состоящій въ группѣ, можетъ дѣлать на сайтѣ';
 $Definition['Exclude archived discussions from the discussions list'] = 'Исключить архивъ дискуссій изъ списка обсужденій';
 $Definition['Existing members send invitations to new members.'] = 'Зарегистрированные пользователи приглашаютъ новыхъ пользователей.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Подключеніе черезъ Facebook позволитъ использовать Facebook аккаунтъ. <b>Для того, чтобы плагинъ работалъ, вы должны быть зарегистрированы на Facebook.</b>';
 $Definition['Facebook Settings'] = 'Настройки Facebook';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Ошибка при подключеніи къ базѣ данныхъ. Неправильно введенъ логинъ или пароль. Провѣрьте, правильно ли выбранъ языкъ ввода данныхъ. <code>%s</code>';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
 $Definition['Forum Settings'] = 'Настройки форума';
@@ -238,11 +223,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Email и пароль администратора для источника импорта.';
-$Definition['Garden.StatisticsDisabled'] = 'Модуль статистики отключенъ въ файлѣ конфигураціи.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'Форумъ работаетъ въ тестовомъ режимѣ, или расположенъ на частномъ IP-адресѣ.<br>По умолчанію форумы, работающіе на частныхъ IP-адресахъ, не отслѣживаются.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'Если Вы увѣрены, что Вашъ форумъ доступенъ изъ интернета, Вы можете получить здѣсь отчетъ о статистикѣ.';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Вашъ config.php имѣетъ атрибуты "только для чтенія". Поэтому форумъ не сможетъ автоматически регистрировать InstallationID и InstallationSecret.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'Для рѣшенія возникшей проблемы, назначьте атрибуты 777 вашему файлу conf/config.php.';
 $Definition['Generate'] = 'Генерировать';
 $Definition['Generate Client ID and Secret'] = 'Создать кодъ кліента и тайнъ -ую -ое';
 $Definition['Get More Applications'] = 'Новыя приложенія';
@@ -259,7 +239,6 @@ $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {Ac
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Здѣсь недоступны активныя соединенія. По этой причинѣ Вамъ отказано въ доступѣ.';
 $Definition['Help &amp; Tutorials'] = 'Помочь и Уроки';
 $Definition['Here\'s how to get started:'] = 'Приступаемъ къ работѣ:';
 $Definition['Hide from the recent discussions page.'] = 'Скрыть отъ послѣднихъ страницъ обсужденій.';
@@ -281,12 +260,9 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Если включена регистрація по инвайтамъ, на страницахъ профилей пользователей<br>отображается дополнительная ссылка, называемая <a href="%s" class="Popup">Мои приглашенія</a>';
 $Definition['Invitations per month'] = 'Приглашеній въ мѣсяцъ';
 $Definition['Invitations will expire'] = 'Приглашеніе истекаетъ';
 $Definition['Invited by'] = 'Приглашенъ';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Базы данныхъ съ такимъ именемъ не существуетъ. Возможно Вы ошиблись при наборѣ или попробуйте создать новую БДЪ. <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Опція ниже поможетъ вамъ сократить максимальное количество символовъ въ отзывахъ до разумнаго размѣра.';
 
 $Definition['Key Type'] = 'Типъ ключа';
 $Definition['Key Value'] = 'Значеніе ключа';
@@ -294,7 +270,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Нас
 
 $Definition['Large images will be scaled down.'] = 'Большие изображения можно уменьшить до максимальной ширины %spx и максимальной высоты %spx.';
 $Definition['Last Visit'] = 'Послѣдній визитъ';
-$Definition['Learn about custom routing.'] = 'Узнать о пользовательской маршрутизации.';
 $Definition['Level'] = 'Уровень';
 $Definition['Locale Key (Folder)'] = 'Ключъ локализаціи (папка)';
 $Definition['Locale Name'] = 'Названіе';

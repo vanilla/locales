@@ -32,22 +32,13 @@ $Definition['5 minutes'] = '5 minutter';
 
 $Definition['15 minutes'] = '15 minutter';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Pas på!</strong> Sletning af en rolle kan resultere i brugere ikke har adgang til programmet.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Pas på!</strong> Flytte diskussioner ind en udskiftning kategori kan resultere i diskussioner forsvinde (eller vises) Hvis kategorien udskiftning har forskellige tilladelser end kategorien er slettet.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Bekræft din E-mail-adresse';
 $Definition['[%s] Password Reset'] = '[%s] Nulstilling af adgangskode';
 $Definition['[%s] Password Reset Request'] = '[%s] Password nulstilling anmodning';
 
 $Definition['a Badge'] = 'et Badge';
 $Definition['Abilites'] = 'Evner';
-$Definition['About.DisableStatistics'] = 'Hvis du skal deaktivere denne indberetning af nogle business grund af data, kan du gøre det ved at føje følgende linje til din installation konfigurationsfil: <code>$Configuration [\'Garden\'] [\'Analytics\'] [\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'Det er yderst vigtigt at livet i denne gratis, open source software, at vi præcist at måle rækkevidden og effektiviteten af vanille. Vi spørger at du venligst ikke Deaktiver indberetning af disse data.';
-$Definition['AboutCommentEmbedding'] = 'Vanille kan bruges som en drop-in erstatning for din blog\'s native kommentere system. Faktisk, kan det bruges til at føje kommentarer til en side på nettet.';
-$Definition['AboutEmbedding'] = 'Indlejring tillader alle eller en del af dit community for at være integreret i andre programmer & websider.';
-$Definition['About Vanilla Statistics'] = 'Om Vanilla statistik';
 $Definition['Above Main Content'] = 'Over hovedindholdet';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Få adgang til dit fællesskab ved at klikke "Besøg side"-linket i toppen af denne side, eller ved at <a href={/,url}>klikke her</a>. Fællesskabforummet er det som alle brugere &amp; kunder vil se når de besøger <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Konto Synkronisering mislykkedes';
 $Definition['Action'] = 'Handling';
 $Definition['Actions Based on Votes'] = 'Aktioner baseret på stemmer';
@@ -89,7 +80,6 @@ $Definition['Although the invitation was created successfully, the email failed 
 $Definition['Applicant'] = 'Ans¯ger';
 $Definition['Applicant Role'] = 'Vælg den rolle, der skal anvendes for nye ansøgere. Dette gælder kun hvis du har <b>godkendelse</b> registrering metode.';
 $Definition['Application'] = 'Ands¯gning';
-$Definition['ApplicationHelp'] = 'Ans¯gninger giver dig mulighed for at lave store grupper af funktionalitet til din site.<br />NÂr en ans¯gning er blevet tilf¯jet til din %s mappe, Du kan sÊtte det til her.';
 $Definition['Application ID'] = 'Ands¯gnings ID';
 $Definition['Applications'] = 'Ans¯gninger';
 $Definition['Application Secret'] = 'Ans¯gnings Hemmelighed';
@@ -154,7 +144,6 @@ $Definition['Check all permissions that apply to this role:'] = 'Kontrollér all
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hej ven!
 
 Tjek det nye fællesskabsforum jeg lige har sat op. Det er alletiders sted for os til at chatte med hinanden online.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a locale pack'] = 'VÊlg en lokal pakke';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Choose who can send out invitations to new members:'] = 'VÊlg hvem der kan sende invitationer til nye medlemmer:';
@@ -210,8 +199,6 @@ $Definition['Error sending email. Please review the addresses and try again.'] =
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
-$Definition['Everyone who signs up gets a profile page.'] = 'Alle der registrerer sig i fællesskabet får en offentlig profilside hvor de kan uploade et billede af dem selv, styre deres profilindstillinger, og finde spændende ting der foregår i fællesskabet. Du bør <a href="{/profile,url}">tilpasse din profil nu</a>.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Hver bruger pÂ dit forum har mindst en rolle. Roller kan blive brugt til at bestemme hvad brugeren kan.';
 $Definition['Existing members send invitations to new members.'] = 'Eksisterende medlemer sender invitationer til nye medlemmer.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect giver brugerne mulighed for at logge ind med deres Facebook bruger. <b>Du skal registrere din ans¯gning med Facebook for dette plugin skal virke.</b>';
@@ -226,11 +213,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Indtast emailen og kodeord for admin brugeren fra dataen som bliver importeret.';
-$Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 $Definition['Generate'] = 'Generer';
 $Definition['Give a Badge'] = 'Giv et badge';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
@@ -256,19 +238,15 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'NÂr du bruger registrer med invitation brugere vil have et link kaldet <a href="%s" class="Popup">Mine Invitationer</a> pÂ deres profil.';
 $Definition['Invitations per month'] = 'Invitationer per mÂned';
 $Definition['Invitations will expire'] = 'Invitationer vil udl¯be';
 $Definition['Invited by'] = 'Inviteret af';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Der er en god ide at holde maximum numre af tegn tilladt i en kommentar ned til en god st¯rrelse.';
 
 $Definition['Key Type'] = 'Kode Type';
 $Definition['Key Value'] = 'Kode VÊrdi';
 
 $Definition['Large images will be scaled down.'] = 'Store billeder vil blive nedskaleret til en maks bredde på %spx og en maks højde på %spx.';
 $Definition['Last Visit'] = 'Sidste Bes¯g';
-$Definition['Learn about custom routing.'] = 'Lær om tilpasset routing.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lær hvordan du ændrer din sides udseende, uploader et logo, beskriver siden, vælger et tema og redigerer det.';
 $Definition['Locale Key (Folder)'] = 'sprog Kode (Mappe)';
 $Definition['Locale Name'] = 'sprog Navn';
 $Definition['Locales'] = 'sprog pakker';

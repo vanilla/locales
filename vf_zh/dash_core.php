@@ -33,9 +33,6 @@ $Definition['5 minutes'] = '5分钟';
 
 $Definition['15 minutes'] = '15分钟';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>注意！</strong> 删除用户角色会影响所有用户。';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>注意！</strong> 将讨论移动到其他板块可能导致其消失（或保留），如果移动到的板块有不同的权限或者被删除。';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] 请确认你的邮箱地址';
 $Definition['[%s] Invitation'] = '[%s]邀请';
 $Definition['[%s] Password Reset'] = '[%s]重设密码';
@@ -43,14 +40,7 @@ $Definition['[%s] Password Reset Request'] = '[%s]重设密码请求';
 
 $Definition['a Badge'] = '一枚徽章';
 $Definition['Abilites'] = '能力';
-$Definition['About.DisableStatistics'] = '如果您因为某些商业原因需要关闭数据报告，您可以在安装配置文件中添加下列文字：
- <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = '为方便我们准确的分析覆盖度和有效性，请不要关闭数据报告。这对开源免费的Vanilla相当的重要。';
-$Definition['AboutCommentEmbedding'] = 'Vanilla 可以用来更换您的博客自身的评论系统。事实上，它可以用来为任何网页添加评论。';
-$Definition['AboutEmbedding'] = '嵌入技术可以将您的社区嵌入到其他应用程序和网页中。';
-$Definition['About Vanilla Statistics'] = '关于 Vanilla 统计';
 $Definition['Above Main Content'] = '在主内容以上';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = '点击该页面顶部的“访问网站”链接进入您的社区论坛，或者点击<a href={/,url}>点击此处</a>。您所有用户&amp;客户访问<a href="{/,url,domain}">{/,url,domain}</a>的时候会看到该论坛。';
 $Definition['Account Sync Failed'] = '账户同步失败';
 $Definition['Action'] = '操作';
 $Definition['Actions Based on Votes'] = '投票动态';
@@ -95,7 +85,6 @@ $Definition['API Status'] = 'API 状态';
 $Definition['Applicant'] = '申请者';
 $Definition['Applicant Role'] = '选择适用于新申请用户的角色。只有在使用“审核方式”的注册方式时有效。';
 $Definition['Application'] = '应用';
-$Definition['ApplicationHelp'] = '应用帮助。 您可以添加更多应用功能。<br />应用功能被加入到文件夹 %s,您可以在这里激活或关闭它';
 $Definition['Application ID'] = '应用 ID';
 $Definition['Applications'] = '应用';
 $Definition['Application Secret'] = '应用程序密钥';
@@ -165,7 +154,6 @@ $Definition['Check out the full list of video tutorials here.'] = '视频教程�
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi，新朋友！
 
 快来看看我新架设的论坛吧！这里也许是我们与他人在线交流最好的地方了。';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla 是一个简洁，高效的社区平台。她懂得使用简单，先看看下面的介绍视频吧。玩得开心。';
 $Definition['Choose a locale pack'] = '选择一个本地化包';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '选择一个孤立的用户将被分配到的角色：';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '选择如何处理用户帐户%s （回复，消息等等）相关联的所有内容。';
@@ -237,7 +225,6 @@ $Definition['Delete Category'] = '删除板块';
 $Definition['Delete Role'] = '删除用户角色';
 $Definition['Delete User'] = '删除用户';
 $Definition['Delete User: %s'] = '删除用户: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = '删除一个用户角色，可能会导致用户无法访问应用程序。';
 $Definition['Deleting category...'] = '正在删除板块...';
 $Definition['Deleting forever cannot be undone.'] = '经常删除无用信息是保持论坛干净的好方式。';
 $Definition['Deleting role...'] = '正在删除用户角色...';
@@ -255,21 +242,18 @@ $Definition['Disable Tagging'] = '禁用标签';
 $Definition['Discussion & Comment Editing'] = '讨论 & 评论编辑';
 $Definition['discussion(s)'] = '帖子';
 $Definition['Discussion  Body'] = '话题 正文';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = '话题板块用于帮助您的用户组织他们的话题，这对社区很重要。';
 $Definition['Discussions Layout'] = '话题布局';
 $Definition['Discussions per Page'] = '每页帖子';
 $Definition['Discussion  Subject'] = '话题 主题';
 $Definition['Display in dashboard. (not recommended)'] = '控制面板中显示.。（不推荐）';
 $Definition['Display root categories as headings.'] = '标题显示根板块。';
 $Definition['Don\'t display for embedded comments.'] = '不显示嵌入的回复';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = '不要嵌入显示您的论坛管理员仪表板（将其弹出到全屏显示）';
 $Definition['Don\'t Refresh'] = '不可刷新。';
 $Definition['Don\'t use Categories'] = '停用版块';
 $Definition['Do not display the categories in the side panel.'] = '在边栏中不显示板块。';
 $Definition['Download Locale List'] = '下载语言列表';
 $Definition['DownloadLocalePack'] = '下载';
 $Definition['Download Locale Pack'] = '下载语言包';
-$Definition['Drag and drop the categories below to sort and nest them.'] = '拖动对板块进行排序和分级。';
 
 $Definition['Edit/Delete Log'] = '编辑/删除 日志';
 $Definition['Edit Category'] = '编辑分类';
@@ -306,8 +290,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = '从1�
 $Definition['Enter a descriptive name.'] = '为Pocket输入一个带有描述内容的名字。这个名字只会在这个管理您所有Pocket的地方显示，以方便您记住它。';
 $Definition['Enter a short name for the site.'] = '填写网站的简短名称，这将显示在登录按钮中。';
 $Definition['Enter numbers starting at 1.'] = '从1开始输入的数字。';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = '填写您的 Wordpress博客地址';
-$Definition['Enter the connection settings for your sphinx server below.'] = '在下方填写您的 sphinx 服务器连接设置';
 $Definition['Enter the email address of the person you would like to invite:'] = '输入受邀人的电子邮件地址';
 $Definition['Enter the url to the page you would like to use as your homepage'] = '输入您想要做为默认页（首页）的地址：';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = '输入您想要做为默认页（首页）的URL地址：';
@@ -319,18 +301,14 @@ $Definition['Every %s minutes'] = '每 %s 分钟';
 $Definition['Every %s second'] = '每秒';
 $Definition['Every %s seconds'] = '每 %s 秒';
 $Definition['Every 1 minute'] = '每分钟';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = '这里记录所有编辑和删除，使用‘恢复’撤销更改。';
-$Definition['Everyone who signs up gets a profile page.'] = '在您社区注册的人会获得一个公开的个人页面，在那里他们可以上传他们的个人照片，管理他们的个人设置和跟踪社区中正在发生的趣事。您应该<a href="{/profile,url}">现在就定制您的个人资料</a>。';
 $Definition['Every Page'] = '每页';
 $Definition['Everything is ok.'] = '一切正常。';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '站内的每个用户都需要分配至少一个角色，用户角色决定用户可以做什么。';
 $Definition['Exclude archived discussions from the discussions list'] = '不将话题列表中的话题存档';
 $Definition['Existing members send invitations to new members.'] = '老用户邀请新用户方式';
 $Definition['Exit Preview'] = '退出预览';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = '允许用户使用Facebook账户登录。 <b>您必须注册Facebook的应用程序才能使用这个插件。</b>';
 $Definition['Facebook Settings'] = 'Facebook 设置';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = '使用您输入的用户名和密码连接数据库失败。忘记输入？数据库返回信息：<code>%s</code>';
 $Definition['Failure'] = '失败';
 $Definition['Favicon'] = '网站小图标';
 $Definition['FaviconBrowse'] = '上传一个新的Favicon: ';
@@ -340,10 +318,8 @@ $Definition['FileUpload is currently ON'] = 'FileUpload 插件目前已开启';
 $Definition['Finished'] = '完成';
 $Definition['First Visit'] = '首次访问';
 $Definition['Flood Control'] = '流量控制';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = '强迫只能通过这个链接访问控制台 <em>（不推荐）</em>';
 $Definition['Force the forum to only be accessible through this url'] = '只允许使用该地址访问论坛';
 $Definition['Force your forum to be viewed through the Remote Url'] = '强迫只能通过远程链接访问论坛';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = '为取得更好的搜索引擎收录优化效果，搜索引擎的爬虫不会被强迫通过远程链接访问论坛。';
 $Definition['Forum Settings'] = '论坛设置';
 $Definition['Frequency'] = '频率';
 
@@ -353,11 +329,6 @@ $Definition['Garden.Import.Complete.Description'] = '成功导入数据。
 $Definition['Garden.Import.Continue.Description'] = '该站点正在导入数据。
    请选择一项操作：';
 $Definition['Garden.Import.InputInstructions'] = '输入导入数据的管理员用户与密码。';
-$Definition['Garden.StatisticsDisabled'] = '您在您的配置文件中关闭了 Vanilla 统计功能。';
-$Definition['Garden.StatisticsLocal.Explain'] = '此论坛可能正在测试环境中运行，或者目前正在使用私有IP地址。默认情况下，使用私有IP地址的论坛无法被跟踪。';
-$Definition['Garden.StatisticsLocal.Resolve'] = '如果你确认你的论坛可以通过公网访问，可以在这里强迫论坛将统计报告发送至：';
-$Definition['Garden.StatisticsReadonly.Explain'] = '您的 config.php 文件属性为只读。这意味着 Vanilla 无法自动为您的社区创建安装ID 和密匙。';
-$Definition['Garden.StatisticsReadonly.Resolve'] = '设置 conf/config.php 权限777可以解决这个问题。';
 $Definition['Gave badge to users.'] = '授予用户徽章。';
 $Definition['Generate'] = '生成';
 $Definition['Generate Client ID and Secret'] = '产生客户端 ID 及密匙';
@@ -378,7 +349,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} 批�
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = '网站标题与图标';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '注意了！有一个特殊角色不会允许活动的会话。鉴于这种情况，权限设置将被限制为“浏览”。';
 $Definition['Help &amp; Tutorials'] = '帮助和教程';
 $Definition['Here\'s how to get started:'] = '如何开始：';
 $Definition['Hidden for everything!'] = '全部隐藏！';
@@ -393,8 +363,6 @@ $Definition['How to use themes'] = '怎样使用主题';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML 电子邮件';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '上传的站点LOGO将替换页面的站点名称。';
-$Definition['If you want to decrease the warning level then remove a warning.'] = '如果您想降低报警级别，请尝试解决报警的问题。';
 $Definition['Import'] = '导入';
 $Definition['Importing to Vanilla'] = '导入到Vanilla';
 $Definition['Inbox Page'] = '站内信页面';
@@ -410,12 +378,9 @@ $Definition['InvitationMessage'] = 'Hi 新来的！
 快来看看我新架设的论坛吧！这里也许是我们与他人在线交流最好的地方了。
 
 点击下方链接登录。';
-$Definition['Invitations can be sent from users\' profile pages.'] = '当您启用邀请注册后用户将会在他们的个人资料页显示 <a href="%s" class="Popup">我的邀请</a> 链接。';
 $Definition['Invitations per month'] = '每月邀请数';
 $Definition['Invitations will expire'] = '邀请过期';
 $Definition['Invited by'] = '邀请';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '你指定的数据库可能还不存在。你创建完毕了吗？名称输入正确了吗？数据库报告：<code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '设置合理的评论字数上限。';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect 客户端库';
 $Definition['jsConnect Documentation'] = 'jsConnect 文档';
@@ -427,9 +392,6 @@ $Definition['Kick-start your community and increase user engagement.'] = '启动
 $Definition['Label this Revision'] = '标记这份修订版';
 $Definition['Large images will be scaled down.'] = '大图片将被按比例缩减到最大宽度 %spx，最大高度 %spx。';
 $Definition['Last Visit'] = '上次访问';
-$Definition['Learn about custom routing.'] = '了解自定义路由。';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '学习如何完全改变您的社区的外观和感觉：上传LOGO；设置首页及布局；选择一个主题并个性化主题。';
-$Definition['Learn how to use the basic functionality of your forum.'] = '学习如何使用论坛的基本功能。';
 $Definition['Level'] = '等级';
 $Definition['Likes'] = '喜欢';
 $Definition['Limit the pocket to one or more roles or permissions.'] = '限制Pocket仅供一个或多个角色以及权限使用。';

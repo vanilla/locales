@@ -24,7 +24,6 @@ $Definition['5 minutes'] = '5 នាទី';
 
 $Definition['15 minutes'] = '15 នាទី';
 
-$Definition['About Vanilla Statistics'] = 'អំពី​ស្ថិតិ Vanilla';
 $Definition['Action'] = 'សកម្មភាព';
 $Definition['Add Info &amp; Create Account'] = 'បន្ថែម​ព័ត៌មាន &amp; បង្កើត​គណនី';
 $Definition['API Status'] = 'ស្ថានភាព API';

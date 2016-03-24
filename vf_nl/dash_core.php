@@ -33,9 +33,6 @@ $Definition['5 minutes'] = '5 minuten';
 
 $Definition['15 minutes'] = '15 minuten';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Opgelet!</strong> Het verwijderen van een rol kan erin resulteren dat gebruikers geen toegang kunnen krijgen tot de applicatie.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Opgelet!</strong> Het verplaatsen van discussies naar een vervangende categorie kan resulteren in discussies die verdwijnen (of verschijnen) als de vervangende categorie andere permissies heeft dan de categorie die wordt verwijderd.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Bevestig je E-mailadres';
 $Definition['[%s] Invitation'] = '[%s] Uitnodiging';
 $Definition['[%s] Password Reset'] = '[%s] Wachtwoord gereset';
@@ -43,13 +40,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Wachtwoord-reset Aangevraagd'
 
 $Definition['a Badge'] = 'een Badge';
 $Definition['Abilites'] = 'Mogelijkheden';
-$Definition['About.DisableStatistics'] = 'Indien je de datarapportage vanwege bedrijfsredenen moet uitschakelen, kun je dat doen door de volgende regel toe te voegen aan het configuratiebestand van je installatie: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'Het is essentieel voor het voortbestaan van deze gratis open-source software dat we het bereik en de effectiviteit van Vanilla nauwkeurig meten. We vragen je om a.u.b. de rapportage van deze gegevens niet uit te schakelen.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla kan worden gebruikt als een directe vervanging voor het reactiesysteem op je blog. Sterker nog, het kan gebruikt worden om reacties toe te voegen aan elke pagina op het web.';
-$Definition['AboutEmbedding'] = 'Insluiten maakt het mogelijk een deel van of je gehele community in te sluiten in andere applicaties & websites.';
-$Definition['About Vanilla Statistics'] = 'Over Vanilla statistieken';
 $Definition['Above Main Content'] = 'Boven Algemene Inhoud';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Krijg toegang tot je gemeenschapsforum door te klikken op \'\'Bezoek site\'\' bovenaan de pagina, of door <a href={/,url}>hier te klikken</a>. Het gemeenschapsforum is wat al jouw gebruikers &amp klanten zullen zien wanneer ze de <a href="{/,url,domain}">{/,url,domein}</a> bezoeken.';
 $Definition['Account Sync Failed'] = 'Account synchroniseren is mislukt';
 $Definition['Action'] = 'Actie';
 $Definition['Actions Based on Votes'] = 'Acties gebaseerd op Stemmen';
@@ -93,7 +84,6 @@ $Definition['API Status'] = 'API-status';
 $Definition['Applicant'] = 'Aanvrager';
 $Definition['Applicant Role'] = 'Selecteer de rol die moet wordne toegepast op nieuwe aanvragers. Dit geldt alleen als je de <b>goedkeuring</b>-registratiemethode gebruikt.';
 $Definition['Application'] = 'Applicatie';
-$Definition['ApplicationHelp'] = 'Met Applicaties kun je grote groepen van functionaliteit toevoegen aan je site<br />Zodra een applicatie is toegevoegd aan je map %s, kan je die op deze pagina in- of uitschakelen.';
 $Definition['Application ID'] = 'Applicatie ID';
 $Definition['Applications'] = 'Applicaties';
 $Definition['Application Secret'] = 'Applicatie Geheim';
@@ -161,7 +151,6 @@ $Definition['Check out the full list of video tutorials here.'] = 'Bekijk de vol
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hey Maat!
 
 Check het nieuwe community forum dat ik net heb opgezet. Een geweldige plek om online met elkaar te chatten.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is het simpelste, meest krachtige gemeenschapsplatform in de wereld. Het is extreem makkelijk om te gebruiken. Start met deze inleidende video en ga verder met de onderstaande stappen. Veel plezier!';
 $Definition['Choose a locale pack'] = 'Kies een localepakket';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Kies een rol die toegepast zal worden aan zwevende gebruikers:';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Kies wat te doen met alle inhoud die geassociëerd is met het gebruikersaccount van %s (reacties, berichten, etc).';
@@ -232,7 +221,6 @@ $Definition['Delete Category'] = 'Verwijder Categorie';
 $Definition['Delete Role'] = 'Verwijder Rol';
 $Definition['Delete User'] = 'Verwijder Gebruiker';
 $Definition['Delete User: %s'] = 'Verwijder Gebruiker: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = 'Het verwijderen van een rol kan ervoor zorgen dat gebruikers geen toegang kunnen krijgen tot de applicatie.';
 $Definition['Deleting category...'] = 'Categorie wordt verwijderd...';
 $Definition['Deleting forever cannot be undone.'] = 'Verwijderen is een goede manier om je forum schoon te houden.';
 $Definition['Deleting role...'] = 'Rol aan het verwijderen...';
@@ -250,21 +238,18 @@ $Definition['Disable Tagging'] = 'Deactiveer Taggen';
 $Definition['Discussion & Comment Editing'] = 'Discussie & Reactie Bewerken';
 $Definition['discussion(s)'] = 'discussie(s)';
 $Definition['Discussion  Body'] = 'Discussieinhoud';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussiecategorieën worden gebruikt om je gebruikers te helpen hun discussies te organiseren op een manier die betekenis heeft voor je gemeenschap.';
 $Definition['Discussions Layout'] = 'Discussielay-out';
 $Definition['Discussions per Page'] = 'Discussies per Pagina';
 $Definition['Discussion  Subject'] = 'Discussieonderwerp';
 $Definition['Display in dashboard. (not recommended)'] = 'Toon in dashboard. (niet aangeraden)';
 $Definition['Display root categories as headings.'] = 'Toon hoofdcategorieën als koppen.';
 $Definition['Don\'t display for embedded comments.'] = 'Laat niet zien voor ingesloten reacties.';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Sluit het administratiedashboard van je forum niet in (vergroot het naar volledig scherm)';
 $Definition['Don\'t Refresh'] = 'Niet opnieuw laden';
 $Definition['Don\'t use Categories'] = 'Gebruik geen Categorieën';
 $Definition['Do not display the categories in the side panel.'] = 'Laat de categorieën niet zien in het zijpaneel.';
 $Definition['Download Locale List'] = 'Download Localelijst';
 $Definition['DownloadLocalePack'] = 'Download';
 $Definition['Download Locale Pack'] = 'Download Localepakket';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Klik en sleep de onderstaande categorieën om ze te sorteren en verzamelen.';
 
 $Definition['Edit/Delete Log'] = 'Bewerk/Verwijder Log';
 $Definition['Edit Category'] = 'Bewerk Categorie';
@@ -301,8 +286,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Voer e
 $Definition['Enter a descriptive name.'] = 'Voer een beschrijvende naam in voor de pocket. Deze naam zal nergens worden afgebeeld, alleen hier wanneer je je pockets aanpast zodat het alleen gebruikt wordt om je de pocket te helpen herinneren.';
 $Definition['Enter a short name for the site.'] = 'Voer een korte naam voor de site in. Deze zal worden afgebeeld op de inlogknoppen.';
 $Definition['Enter numbers starting at 1.'] = 'Voer getallen in vanaf 1.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Vul het adres van je Wordpress-blog in en wij zullen de rest voor je doen.';
-$Definition['Enter the connection settings for your sphinx server below.'] = 'Voeg de connectieinstellingen voor je sphinx-server hieronder in.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Vul het e-mailadres in van de persoon die je wilt uitnodigen:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Vul de url naar de pagina die je wilt gebruiken als je hoofdpagina in';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Vul de url naar de pagina die je wilt gebruiken als je hoofdpagina in:';
@@ -314,18 +297,14 @@ $Definition['Every %s minutes'] = 'Elke %s minuten';
 $Definition['Every %s second'] = 'Elke seconde';
 $Definition['Every %s seconds'] = 'Elke %s seconden';
 $Definition['Every 1 minute'] = 'Elke minuut';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Elke bewerking of verwijdering wordt hier opgeslagen. Gebruik &lsquo;Herstel&rsquo; om elke aanpassing ongedaan te maken.';
-$Definition['Everyone who signs up gets a profile page.'] = 'Iedereen die zich inschrijft voor onze gemeenschap krijgt een publieke profielpagina waar ze een foto van zichzelf kunnen uploaden, hun profielinstellingen kunnen beheren, en gave dingen kunnen volgen die gebeuren in de gemeenschap. Je moet <a href="{/profile,url}">je profiel nu personaliseren</a>.';
 $Definition['Every Page'] = 'Elke Pagina';
 $Definition['Everything is ok.'] = 'Alles is ok.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Elke gebruiker van je site is ten minste één rol toegewezen. Rollen worden gebruikt om te bepalen wat gebruikers mogen doen.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Sluit gearchiveerde discussies uit van de discussielijst';
 $Definition['Existing members send invitations to new members.'] = 'Bestaande leden verzenden uitnodigingen naar nieuwe leden.';
 $Definition['Exit Preview'] = 'Sluit Voorbeeld';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect laat gebruikers inloggen met een Facebook account. <b>Je moet de applicatie registreren bij Facebook om deze plugin te laten werken.</b>';
 $Definition['Facebook Settings'] = 'Facebook Instellingen';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Kon niet aansluiten bij de database met de gebruikersnaam en wachtwoord die je hebt ingevuld. Heb je ze verkeerd ingetypt? De database gaf aan: <code>%s</code>';
 $Definition['Failure'] = 'Mislukt';
 $Definition['FaviconBrowse'] = 'Zoek een nieuwe favicon als je hem wilt veranderen:';
 $Definition['FaviconDescription'] = 'De favicon van je website wordt getoond in de titelbalk van je browser. Het zal worden vervormd naar 16x16 pixels.';
@@ -334,10 +313,8 @@ $Definition['FileUpload is currently ON'] = 'UploadBestand is momenteel AAN';
 $Definition['Finished'] = 'Afgerond';
 $Definition['First Visit'] = 'Eerste Bezoek';
 $Definition['Flood Control'] = 'Overstromingscontrole';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Forceer het dashboard om alleen toegankelijk te zijn via deze url <em>(niet aangeraden)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Forceer het forum om alleen toegankelijk te zijn via deze url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Forceer je forum om zichtbaar te zijn via de Afgelegen Url';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Voor SEO-zaken worden crawlers van zoekmachines niet geforceerd om het forum te bekijken vanaf de externe url.';
 $Definition['Forum Settings'] = 'Forum Instellingen';
 $Definition['Frequency'] = 'Frequentie';
 
@@ -347,11 +324,6 @@ Klik <b>Klaar</b> als u klaar bent.';
 $Definition['Garden.Import.Continue.Description'] = 'Het lijkt alsof u midden in een importering zit.
 Kies alstublieft een van de volgende opties.';
 $Definition['Garden.Import.InputInstructions'] = 'Voer het e-mailadres en het wachtwoord in van de admin gebruiker van de te importeren gegevens.';
-$Definition['Garden.StatisticsDisabled'] = 'Je hebt Vanilla Statistieken specifiek uitgeschakeld in je configuratiebestand.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'Het lijkt alsof dit forum in een testomgeving draait, of op een andere manier een locaal IP-adres teruggeeft. Standaard worden forums die draaien op locale IP-adressen niet gevolgt.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'Als je er zeker van bent dat je forum toegankelijk is via het internet kun je het hier forceren om statistieken te rapporteren:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Je config.php-bestand lijkt alleen-lezen te zijn. Dit betekent dat Vanilla je forum\'s InstallationID en InstallationSecret niet automatisch kan registreren. ';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'Om dit probleem op te lossen, moet je de bestandmodus 777 aan je conf/config.php-bestand toewijzen.';
 $Definition['Gave badge to users.'] = 'Gaf badge aan gebruikers.';
 $Definition['Generate'] = 'Genereer';
 $Definition['Generate Client ID and Secret'] = 'Genereer Client-ID en Secret';
@@ -372,7 +344,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} acce
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,jij} &rarr; {ActivityUserID,jij}';
 $Definition['Heads up!'] = 'Let Op!';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Let Op! Dit is een speciale rol die actieve sessies niet toestaat. Voor deze reden zijn de permissieinstellignen gelimiteerd naar "bekijk" permissies.';
 $Definition['Help &amp; Tutorials'] = 'Hulp & Handleidingen';
 $Definition['Here\'s how to get started:'] = 'Zo ga je aan de slag:';
 $Definition['Hidden for everything!'] = 'Verborgen voor alles!';
@@ -387,8 +358,6 @@ $Definition['How to use themes'] = 'Hoe gebruik je thema\'s';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML E-mails';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Als een bannerlogo wordt geüpload zal het de bannertitel op forumpagina\'s voor gebruikers vervangen.';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'Als je het waarschuwingsniveau wilt verlagen moet je een waarschuwing verwijderen.';
 $Definition['Import'] = 'Importeer';
 $Definition['Importing to Vanilla'] = 'Importeren naar Vanilla';
 $Definition['Inbox Page'] = 'Inbox-pagina';
@@ -404,12 +373,9 @@ $Definition['InvitationMessage'] = 'Hey vriend!
 Bekijk mijn nieuwe gemeenschapsforum die ik net heb gestart. Het is een geweldige plek om met elkaar op het internet te praten.
 
 Volg de link hieronder om in te loggen.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Wanneer je registratie via uitnodiging gebruikt, staat er bij gebruikers de link <a href="%s" class="Popup">Mijn Uitnodigingen</a> op de profielpagina\'s.';
 $Definition['Invitations per month'] = 'Uitnodigingen per maand';
 $Definition['Invitations will expire'] = 'Uitnodigingen zullen aflopen';
 $Definition['Invited by'] = 'Uitgenodigd door';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Het lijkt alsof de database die je hebt doorgegeven nog niet bestaat. Heb je hem al gemaakt? Heb je de naam verkeerd getypt? De database gaf aan: <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Het is een goed idee om het maximum aantal tekens in een reactie tot een redelijke omvang te houden.';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect Client-bibliotheken';
 $Definition['jsConnect Documentation'] = 'jsConnect Documentatie';
@@ -421,9 +387,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Geef j
 $Definition['Label this Revision'] = 'Label deze Revisie';
 $Definition['Large images will be scaled down.'] = 'Grote afbeeldingen worden kleiner gemaakt tot een max breedte van %spx en en max hoogte van %spx.';
 $Definition['Last Visit'] = 'Laatste Bezoek';
-$Definition['Learn about custom routing.'] = 'Leer over custom routing.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Leer hoe je het uiterlijk van je forum compleet kan veranderen: upload je logo, maak je hoofdpagina, kies een thema en pas het aan. ';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'Leer hoe je de basisfunctionaliteit van je forum kan gebruiken.';
 $Definition['Level'] = 'Niveau';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limiteer de pocket naar een of meer rollen of rechten.';
 $Definition['Locale Key (Folder)'] = 'Locale-sleutel (Map)';

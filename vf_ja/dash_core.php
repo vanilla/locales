@@ -30,7 +30,6 @@ $Definition['Allow users to dismiss this message'] = 'このメッセージを�
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = '招待状の作成は成功しましたが、メールの送信に失敗しました。サーバのエラー報告は次の通りです: %s';
 $Definition['Applicant'] = '申請者';
 $Definition['Application'] = 'アプリケーション';
-$Definition['ApplicationHelp'] = '「アプリケーション」は、このサイトに規模が大きめの拡張機能を追加します。<br />%s フォルダに追加されたアプリケーションを、ここで有効化または無効化できます。';
 $Definition['Applications'] = 'アプリケーション';
 $Definition['Approval'] = '承認制';
 $Definition['Archive Discussions'] = '過去のディスカッション';
@@ -90,7 +89,6 @@ $Definition['Don\'t Refresh'] = 'しない';
 $Definition['Don\'t use Categories'] = 'カテゴリを使用しない';
 $Definition['Do not display the categories in the side panel.'] = 'カテゴリ一覧をサイドパネルに表示しない。';
 $Definition['DownloadLocalePack'] = 'ダウンロード';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'カテゴリを並べ替えたりネストするには、この下のカテゴリをドラッグ &amp; ドロップしてください。';
 
 $Definition['Edit Category'] = 'カテゴリを編集';
 $Definition['EditContentTimeout.Notes'] = '註: ユーザーが内容を編集できるロールに属している場合は、ここで選択する値よりもロールの設定の方が優先されます。';
@@ -108,13 +106,11 @@ $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
 $Definition['Every 1 minute'] = '1分間隔';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '当サイトに参加する全てのユーザは、いずれか一つ以上のロールに所属します。ロールは、どのユーザーが何をしてよいのかを判別する基準に使われます。';
 $Definition['Exclude archived discussions from the discussions list'] = 'アーカイブ化したディスカッションをディスカッション一覧に表示しない';
 $Definition['Existing members send invitations to new members.'] = '既存のメンバーが新規メンバーに招待状を送ります。';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect を使うと、Facebook アカウントでログインできます。<b>このプラグインを使うには、Facebook にアプリケーションを登録する必要があります。</b>';
 $Definition['Facebook Settings'] = 'Facebook 設定';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = '入力されたユーザー名とパスワードでは、データベースに接続できません。入力ミスの可能性はありませんか？データベースの報告は次の通りです: <code>%s</code>';
 $Definition['Finished'] = '完了';
 $Definition['First Visit'] = '訪問開始';
 $Definition['Forum Settings'] = 'フォーラム設定';
@@ -129,7 +125,6 @@ $Definition['Get More Plugins'] = '他のプラグイン';
 $Definition['Get More Themes'] = '他のテーマ';
 
 $Definition['Hash Algorithm'] = 'ハッシュアルゴリズム';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '注意してください！これはアクティブなセッションには適用されない、特殊なロールです。そのため、権限のオプションは "表示" 権限のみに限定されています。';
 $Definition['Homepage'] = 'ホーム画面';
 
 $Definition['Import'] = 'インポート';
@@ -143,12 +138,9 @@ $Definition['InvitationMessage'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
 
 Follow the link below to log in.';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'ユーザー登録を招待制にした場合、各ユーザーのプロフィール ページには<a href="%s" class="Popup">招待者リスト</a>と呼ばれるリンクが作成されます。';
 $Definition['Invitations per month'] = '一ヶ月あたりの招待状数';
 $Definition['Invitations will expire'] = '招待状の有効期限';
 $Definition['Invited by'] = '招待者';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '指定されたデータベースが まだ作成されていないようです。データベースは作成済みですか？あるいはデータベース名が間違っている可能性はありませんか？ データベースの報告は次の通りです: <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '投稿できる文字数の上限を適度な数値に抑えることを、推奨します。';
 
 $Definition['Key Type'] = 'キーの種類';
 $Definition['Key Value'] = 'キーの値';

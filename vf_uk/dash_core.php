@@ -17,7 +17,6 @@ $Definition['Add User'] = 'Додати користувача';
 $Definition['Allow users to dismiss this message'] = 'Дозволити користувачам відхиляти це повідомлення';
 $Definition['Applicant'] = 'Здобувач';
 $Definition['Application'] = 'Програма';
-$Definition['ApplicationHelp'] = 'Програми дозволяють вам додати великі групи функціональності вашого сайту. <br /> Додайте додаток до папки %s, і його можна буде включити або відключати тут.';
 $Definition['Applications'] = 'Програми';
 $Definition['Applied On'] = 'Підтверджено';
 $Definition['Approval'] = 'З підтвердженням';
@@ -71,7 +70,6 @@ $Definition['Don\'t Refresh'] = 'Не обновляти';
 $Definition['Don\'t use Categories'] = 'Не використовувати категорії';
 $Definition['Do not display the categories in the side panel.'] = 'Не відображувати категорії в боковій панелі.';
 $Definition['DownloadLocalePack'] = 'Завантажити';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Перетягуйте категорії, щоб відсортувати і вкласти їх.';
 
 $Definition['Edit Category'] = 'Редагування категорії';
 $Definition['EditContentTimeout.Notes'] = 'Примітка: Якщо у користувача є роль, яка дозволяє йому зміна вмісту, цей дозвіл буде домінувати над будь-яким значенням, вибраним тут.';
@@ -88,7 +86,6 @@ $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
 $Definition['Every 1 minute'] = 'Кожну 1 хвилину';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Кожен користувач на вашому сайті повинен володіти хоча б однією роллю. Ролі використовуються для визначення, що користувачі можуть робити.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Виключати архівні обговорення зі списку обговорень';
 $Definition['Existing members send invitations to new members.'] = 'Діючі користувачі надсилають запрошення новим учасникам.';
 
@@ -113,10 +110,8 @@ $Definition['Importing to Vanilla'] = 'Імпортування в Vanilla';
 $Definition['Information'] = 'Інформація';
 $Definition['Internaltionalization & Localization'] = 'Інтернаціоналізація та локалізація';
 $Definition['Invitation Code'] = 'Код запрошення';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Коли ви використовуєте реєстрацію за запрошеннями, у користувачів з\'явиться посилання <a href="%s" class="Popup">Мої Запрошення</a> на їх сторінках профілю.';
 $Definition['Invitations per month'] = 'Запрошень в місяць';
 $Definition['Invitations will expire'] = 'Запрошення будуть втрачати силу';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Непогана ідея обмежити максимальну кількість символів, дозволене в коментарі, до розумного розміру.';
 
 $Definition['Key Type'] = 'Тип ключа';
 $Definition['Key Value'] = 'Значення ключа';
