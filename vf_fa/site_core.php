@@ -341,6 +341,7 @@ $Definition['Delete the user and all of the user\'s content. This will cause dis
 $Definition['Delete User Content'] = 'پاک کردن داده‌های کاربر';
 $Definition['Delete User Forever'] = 'پاک کردن کاربر برای همیشه';
 $Definition['Deny Applicant'] = 'Deny';
+$Definition['Description'] = 'توضیح';
 $Definition['Did this answer the question?'] = 'آیا با این پاسخ‌تان را گرفتید؟';
 $Definition['Disable'] = 'از کار بیانداز';
 $Definition['Disabled'] = 'خاموش';
@@ -661,6 +662,7 @@ $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to 
 $Definition['No results for \'%s\''] = 'نتیجه‌ای برای <b>%s</b> یافت نشد :(';
 $Definition['No Roles'] = 'نقشی وجود ندارد.';
 $Definition['Not Authorized (401)'] = 'Not Authorized; 401';
+$Definition['Notes'] = 'یادداشت';
 $Definition['Not Found (404)'] = 'Not Found; 404';
 $Definition['Notification'] = 'آگاه‌سازی';
 $Definition['Notification Preferences'] = 'تنظیمات آگاه‌سازی';

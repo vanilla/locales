@@ -798,6 +798,7 @@ $Definition['No results for \'%s\''] = '%s\' کے لئے کوئی نتائج ن�
 $Definition['No Roles'] = 'کوئی کردار نہیں';
 $Definition['Not Attending (%s)'] = 'شرکت نہیں کر رہے (%s)';
 $Definition['Not Authorized (401)'] = '(401) مجاز نہیں';
+$Definition['Notes'] = 'نوٹ';
 $Definition['Not Found (404)'] = '(404) نہیں ملا';
 $Definition['Notice'] = 'نوٹس';
 $Definition['Notification'] = 'اعلان';

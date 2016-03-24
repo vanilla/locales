@@ -147,6 +147,7 @@ $Definition['Add'] = 'إضافة';
 $Definition['Add %s'] = 'إضافة %s';
 $Definition['Add a Comment'] = '[حذف المستخدم]';
 $Definition['Add a Message'] = 'إضافة رسالة';
+$Definition['Add an explanation'] = 'أضف توضيحاً';
 $Definition['Add another poll option ...'] = 'إضافة خيار آخر للاستطلاع...';
 $Definition['Add a Profile Picture'] = 'إضافة صورة الملف الشخصي';
 $Definition['Add a time?'] = 'إضافة وقت؟';
@@ -184,6 +185,7 @@ $Definition['All members'] = 'كل الأعضاء';
 $Definition['Allow'] = 'السماح';
 $Definition['Allow other members to see your email?'] = 'السماح للأعضاء الآخرين برؤية البريد الالكتروني الخاص بك؟';
 $Definition['All Time Leaders'] = 'قيادات دائمة';
+$Definition['Already Offered'] = 'مُقدم بالفعل';
 $Definition['Already Warned'] = 'تم تحذيره مسبقا';
 $Definition['Also banned for the following:'] = 'و تم الحظر للأسباب التالية:';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'لقد تم إرسال رسالة بريدية على عنوانك البريدي يتضمن تعليمات تصفير كلمة الدخول.';
@@ -307,6 +309,7 @@ $Definition['Choose the main discussion into which all comments will be merged:'
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'اختيار ما إذا كنت تريد أن تسأل سؤالا أو بدء مناقشة.';
 $Definition['Clear'] = 'مسح';
 $Definition['clear'] = 'مسح';
+$Definition['Clear %s'] = 'محو %s';
 $Definition['Clear Conversation History'] = 'مسح تاريخ المشاركة';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'انقر <a href="%s">هنا</a> للرجوع الى الموضوع.';
 $Definition['Click accept or reject beside an answer.'] = 'انقر قبول أو رفض بجانب جواب.';
@@ -330,6 +333,7 @@ $Definition['comments'] = 'تعليقات';
 $Definition['Comments are between {UserID,you}.'] = 'التعليقات بين {UserID,you}.';
 $Definition['Community'] = 'المجموعة';
 $Definition['Community Guidelines'] = 'إرشادات المجموعة';
+$Definition['Completed'] = 'مكتمل';
 $Definition['Completely delete the warning.'] = 'ازالة التحذير نهائيا';
 $Definition['Confirm'] = 'تأكيد';
 $Definition['Confirmed email address'] = 'عنوان بريد إلكتروني متحقق منه';
@@ -383,6 +387,7 @@ $Definition['days'] = 'أيام';
 $Definition['Declined'] = 'تم الرفض';
 $Definition['Default'] = 'قياسي';
 $Definition['default'] = 'قياسي';
+$Definition['Default Status'] = 'الحالة الافتراضية';
 $Definition['Define Thumbnail'] = 'انقر و اسحب عبر الصورة الخاصة لتحديد الصورة المصغرة.';
 $Definition['Delete'] = 'مسح';
 $Definition['Delete %s'] = 'حذف %s';
@@ -642,6 +647,13 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'أنا أوافق على<a id="TermsOfService" class="Popup" target="terms" href="%s">شروط الإستخدام</a>';
 $Definition['Icon'] = 'أيقونة';
 $Definition['I confirm that I have received consent to join this community.'] = 'بما أنني أصغر من %d عاماً، أؤكد أنني قد تلقيت المُوَافَقَة على الانضمام إلى هذا المجتمع.';
+$Definition['Idea'] = 'الفكرة';
+$Definition['idea'] = 'فكرة';
+$Definition['Ideas'] = 'أفكار';
+$Definition['ideas'] = 'أفكار';
+$Definition['Idea Status'] = 'حالة الفكرة';
+$Definition['Idea Statuses'] = 'حالات الفكرة';
+$Definition['Ideation'] = 'تّفكير';
 $Definition['Ignore'] = 'تجاهل';
 $Definition['Ignore List'] = 'قائمة التجاهل';
 $Definition['Ignore Someone'] = 'تجاهل شخص ما';
@@ -656,7 +668,9 @@ $Definition['In <b>%s</b> and recent discussions.'] = 'في <b>%s</b> و الم�
 $Definition['Inbox'] = 'البريد الوارد';
 $Definition['Incorrect. Try again.'] = 'خطأ. حاول مرة أخرى.';
 $Definition['Indent'] = 'طلب رسمي';
+$Definition['In Progress'] = 'قيد التنفيذ';
 $Definition['In recent discussions.'] = 'في المناقشات الحديثة';
+$Definition['In Review'] = 'في استعراض';
 $Definition['In seconds'] = 'في ثواني';
 $Definition['Insert Image'] = 'إضافة صورة';
 $Definition['Insightful'] = 'ثاقبة';
@@ -696,9 +710,11 @@ $Definition['Label'] = 'ملصق';
 $Definition['Last Active'] = 'النشاط';
 $Definition['Last IP'] = 'آخر آي بي IP';
 $Definition['lasts %s'] = 'يستمر %s';
+$Definition['Last Updated'] = 'آخر تحديث';
 $Definition['Latest %1$s'] = 'آخر %1$s';
 $Definition['Latest Post'] = 'آخر مشاركة';
 $Definition['Leaders'] = 'القيادات';
+$Definition['Learn more about %s'] = 'تعلم المزيد عن %s';
 $Definition['Leave %s'] = 'اترك %s';
 $Definition['Leave a Comment'] = 'كتابة تعليق';
 $Definition['Leave a comment'] = 'ترك تعليق';
@@ -783,6 +799,7 @@ $Definition['new discussion'] = 'جديد';
 $Definition['New Event'] = 'حدث جديد';
 $Definition['New Group'] = 'مجموعة جديدة';
 $Definition['New Groups'] = 'مجموعات جديدة';
+$Definition['New Idea'] = 'فكرة جديدة';
 $Definition['New Message'] = 'رسالة جديدة';
 $Definition['New Password'] = 'كلمة المرور الجديدة';
 $Definition['New Poll'] = 'إستطلاع جديد';
@@ -802,6 +819,7 @@ $Definition['No results for \'%s\''] = 'لا نتائج \'%s\'';
 $Definition['No Roles'] = 'لا رتب';
 $Definition['Not Attending (%s)'] = 'لن يحضر (%s)';
 $Definition['Not Authorized (401)'] = 'غير مصرح (401)';
+$Definition['Notes'] = 'ملاحظات';
 $Definition['Not Found (404)'] = 'لم يتم العثور على طلبك (404)';
 $Definition['Notice'] = 'إشعار';
 $Definition['Notification'] = 'إشعار';
@@ -813,6 +831,7 @@ $Definition['Notify me of private messages.'] = 'أخطرني ان كان لي �
 $Definition['Notify me when a badge is requested.'] = 'تنبيه عندما يُطلب وسام.';
 $Definition['Notify me when a comment is flagged.'] = 'تنبيه عندما يبلغ عن تعليق مسيىء';
 $Definition['Notify me when I am added to private conversations.'] = 'اخطرني عندما تتم اضافتي في مشاركات خاصة.';
+$Definition['Notify me when my ideas\' statuses change.'] = 'اخبرني عندما يتم تغيير حالات أفكاري.';
 $Definition['Notify me when people comment on discussions I\'ve participated in.'] = 'أخطرني عند تعليق الآخرين على المناقشات التي اشتركت فيها.';
 $Definition['Notify me when people comment on my bookmarked discussions.'] = 'أخطرني اذا تم التعليق على مواضيعي المفضلة.';
 $Definition['Notify me when people comment on my discussions.'] = 'أخطرني اذا تم التعليق على مواضيعي.';
@@ -822,6 +841,7 @@ $Definition['Notify me when people reply to my wall comments.'] = 'أخطرني 
 $Definition['Notify me when people write on my wall.'] = 'أخطرني اذا تمت الكتابة على جداري';
 $Definition['Notify me when there is event activity.'] = 'أخطرني عندما تكون هناك مناسبة.';
 $Definition['Notify me when there is group activity.'] = 'أبلغني عندما يكون هناك فاعلية مجموعة.';
+$Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'اخبرني عندما تتغير الحالة على فكرة قُمت بالتصويت عليها.';
 $Definition['Not much happening here, yet.'] = 'لا يحدث كثيرا هنا، حتى الآن.';
 $Definition['Not Verified'] = 'لم يتم التحقق';
 
@@ -840,6 +860,7 @@ $Definition['On'] = 'تشغيل';
 $Definition['on'] = 'في';
 $Definition['Online Preferences'] = 'خيارات الاتصال';
 $Definition['Only show followed categories'] = 'اظهر فقط الاقسام التي تتابعها';
+$Definition['Open'] = 'فتح';
 $Definition['OpenID Settings'] = 'اعدادات الاوبن اي دي OpenID';
 $Definition['Optional'] = 'اختياري';
 $Definition['Optional Description'] = 'وصف اختياري';
@@ -936,6 +957,7 @@ $Definition['ProfileFieldsCustomDescription'] = 'استخدم هذه الحقو�
 $Definition['Profile Page'] = 'صفحة الملف الشخصي';
 $Definition['Profile Picture'] = 'صورة الملف الشخصي';
 $Definition['Profiles'] = 'الملفات الشخصية';
+$Definition['Progress on an idea you voted on!'] = 'جار التقدم على الفكرة التي قُمت بالتصويت عليها!';
 $Definition['Promote'] = 'ترقية';
 $Definition['Public'] = 'عمومي';
 $Definition['Public group.'] = 'الجميع بإمكانه رؤية المجموعة و ما تحتويه. الجميع بإمكانه الانضمام.';
@@ -1116,6 +1138,10 @@ $Definition['Started By'] = 'بدأت بواسطة';
 $Definition['Started by'] = 'بدأ بمعرفة';
 $Definition['Started by %1$s'] = 'بدأت بواسطة %1$s';
 $Definition['Start your First Discussion'] = 'ابدأ اول موضوع لك';
+$Definition['status'] = 'الحالة';
+$Definition['Status: %s'] = 'الحالة:';
+$Definition['Statuses'] = 'الحالات';
+$Definition['statuses'] = 'الحالات';
 $Definition['Stop following'] = 'الغاء المتابعة';
 $Definition['Strikethrough'] = 'شطب بخط';
 $Definition['Strip images out of signatures'] = 'تجريد التواقيع من الصور';
@@ -1188,7 +1214,9 @@ $Definition['The response was not in the correct format.'] = 'الاجابة ل�
 $Definition['There was an error connecting to Disqus'] = 'حدث خطأ أثناء الاتصال إلى Disqus';
 $Definition['There was an error connecting to Facebook'] = 'هناك خطأ في الاتصال بالفيسبوك';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'هناك خطأ في تحميل الملف. على الارجح لأن الملف كبير جدا.';
+$Definition['These tags are reserved and cannot be used: %s'] = 'هذه العلامات محفوظة ولا يمكن استخدامها: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'الموقع يخضع حاليا للصيانة.';
+$Definition['The status for "%s" has changed to %s.'] = 'الحالات الخاصة ب  "%s" قد تغيرت إلى %s.';
 $Definition['The uploaded file was too big (max %s).'] = 'الملف الذي تم تحميله كبير جدا (حد أقصى %s).';
 $Definition['The user has already been warned for this %s.'] = 'لقد تم تحذير هذا المستعمل حول هذا %s. ';
 $Definition['The user isn\'t banned.'] = 'المستخدم غير محظور أو محظور من قبل برنامج فرعي.';
@@ -1251,6 +1279,7 @@ $Definition['UniqueID'] = 'معرفك الخاص';
 $Definition['Unknown'] = 'مجهول';
 $Definition['Unknown client: %s.'] = 'عميل مجهول: %s.';
 $Definition['Unordered list'] = 'قائمة لم يتم طلبها';
+$Definition['Unpin'] = 'إفتح';
 $Definition['Unread'] = 'غير مقروء';
 $Definition['Unread Discussions'] = 'مواضيع غير مقروئة';
 $Definition['Unsink'] = 'الغاء الاغراق';
@@ -1265,6 +1294,7 @@ $Definition['UrlCode'] = 'رمز الرابط';
 $Definition['Use My Current Password'] = 'استعمال كلمة مروري الحالية';
 $Definition['User "%s" does not exist.'] = 'المستخدم "%s" لا يوجد.';
 $Definition['Username'] = 'اسم المستخدم';
+$Definition['Username already exists.'] = 'اسم المستخدم موجود بالفعل.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'يمكن لإسم المستخدم فقط ان يحتوي على حروف وأرقام، و الشرطة السفلية.';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'عدد المستخدمين';
 $Definition['UsernameError'] = 'إسم المستخدم يمكن أن يحتوي فقط على الحروف، الأرقام، شرطاة سفلية، و يجب ان يحتوي بين 3 و 20 حرفا.';
@@ -1316,6 +1346,7 @@ $Definition['Vote'] = 'تصويت';
 $Definition['Vote Down'] = 'تصويت سلبي';
 $Definition['Votes'] = 'تصويتات';
 $Definition['Vote Up'] = 'تصويت ايجابي';
+$Definition['Voting for the idea is %s.'] = 'التصويت للفكرة هو  %s.';
 
 $Definition['wall'] = 'الجدار';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'ترغب في المشاركة في هذا النقاش؟ انقر فوق واحدة من هذه:';

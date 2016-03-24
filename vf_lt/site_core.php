@@ -364,6 +364,7 @@ $Definition['Delete the user and all of the user\'s content. This will cause dis
 $Definition['Delete User Content'] = 'Pašalinti vartotojo žinutes';
 $Definition['Delete User Forever'] = 'Pašalinti vartotoją galutinai';
 $Definition['Deny Applicant'] = 'Deny';
+$Definition['Description'] = 'Aprašymas';
 $Definition['Did this answer the question?'] = 'Ar tai buvo atsakymas į klausimą?';
 $Definition['Disable'] = 'Išjungti';
 $Definition['Disabled'] = 'Išjungtas';
@@ -678,6 +679,7 @@ $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to 
 $Definition['No results for \'%s\''] = 'Nėra rezultatų apie \'%s\'';
 $Definition['No Roles'] = 'Vaidmenų nėra';
 $Definition['Not Authorized (401)'] = 'Neautorizuota (401)';
+$Definition['Notes'] = 'Pastabos';
 $Definition['Not Found (404)'] = 'Nerasta (404)';
 $Definition['Notification'] = 'Pranešimas';
 $Definition['Notification Preferences'] = 'Pranešimų nustatymai';

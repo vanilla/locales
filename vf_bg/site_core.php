@@ -101,7 +101,7 @@ $Definition['%s years'] = '%s години';
 
 $Definition['(All)'] = '(Всички)';
 $Definition['(empty message)'] = '(празно съобщение)';
-$Definition['(Spoiler)'] = '(Спойлер)';
+$Definition['(Spoiler)'] = '(Разкриване на сюжета)';
 
 $Definition['+%s Guests'] = '+%s гости';
 
@@ -831,6 +831,7 @@ $Definition['No results for \'%s\''] = 'Няма резултати за \'%s\''
 $Definition['No Roles'] = 'Няма роли';
 $Definition['Not Attending (%s)'] = 'Не присъства (%s)';
 $Definition['Not Authorized (401)'] = 'Не е оторизиран (401)';
+$Definition['Notes'] = 'Бележки';
 $Definition['Not Found (404)'] = 'Не е открит (404)';
 $Definition['Notice'] = 'Уведомление';
 $Definition['Notification'] = 'Известие';
@@ -1142,7 +1143,7 @@ $Definition['Spam'] = 'Спам';
 $Definition['Spam Queue'] = 'Опашка за спам';
 $Definition['Split'] = 'Разделяне';
 $Definition['Split Comments'] = 'Разделяне на коментарите';
-$Definition['Spoiler'] = 'Нещо, което разваля впечатлението';
+$Definition['Spoiler'] = 'Разкриване на сюжета';
 $Definition['Spoof User'] = 'Потребител, който сменя самоличността си';
 $Definition['Start'] = 'Начало';
 $Definition['Start a Group'] = 'Стартиране на група';

@@ -810,6 +810,7 @@ $Definition['No results for \'%s\''] = 'Ayikho imiphumela yokuthi \'%s\'';
 $Definition['No Roles'] = 'Azikho Izindima';
 $Definition['Not Attending (%s)'] = 'Ngeke Athamele (%s)';
 $Definition['Not Authorized (401)'] = 'Awugunyaziwe (401)';
+$Definition['Notes'] = 'Amanothi';
 $Definition['Not Found (404)'] = 'Akutholakali (404)';
 $Definition['Notice'] = 'Isaziso';
 $Definition['Notification'] = 'Isaziso';

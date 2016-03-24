@@ -189,6 +189,7 @@ $Definition['Delete User Content'] = 'Eliminar contingut de l\'usuari';
 $Definition['Delete User Forever'] = 'Eliminar usuari per sempre';
 $Definition['Deny'] = 'Denegar';
 $Definition['Deny Applicant'] = 'Denegar';
+$Definition['Description'] = 'Descripció';
 $Definition['Disable'] = 'Desactivar';
 $Definition['Disabled'] = 'Desactivat';
 $Definition['Discussion'] = 'Discusió';

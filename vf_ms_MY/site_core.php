@@ -791,6 +791,7 @@ $Definition['No results for \'%s\''] = 'Tiada keputusan untuk \'%s\'';
 $Definition['No Roles'] = 'Tiada Peranan';
 $Definition['Not Attending (%s)'] = 'Tidak Menghadiri (%s)';
 $Definition['Not Authorized (401)'] = 'Tidak diberi kuasa (401)';
+$Definition['Notes'] = 'Nota-nota';
 $Definition['Not Found (404)'] = 'Tidak Dijumpai (404)';
 $Definition['Notice'] = 'Notis';
 $Definition['Notification'] = 'Pemberitahuan';

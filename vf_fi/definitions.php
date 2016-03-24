@@ -4,7 +4,7 @@
   'Locale' => 'fi',
   'Name' => 'Suomi / Finnish',
   'Description' => 'Official Finnish language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/fi/">here</a>.',
-  'Version' => '2016.03.21p1501',
+  'Version' => '2016.03.23p1701',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/fi/',
   'License' => 'CC BY-SA 4.0',
