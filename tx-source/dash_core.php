@@ -34,9 +34,6 @@ $Definition['4 hours'] = '4 hours';
 
 $Definition['5 minutes'] = '5 minutes';
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.';
-$Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.';
-
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirm Your Email Address';
 $Definition['[%s] Invitation'] = '[%s] Invitation';
 $Definition['[%s] Password Reset'] = '[%s] Password Reset';
@@ -46,13 +43,7 @@ $Definition['a Badge'] = 'a Badge';
 $Definition['a full year.'] = 'a full year.';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'A url-friendly version of the category name for better SEO.';
 $Definition['Abilites'] = 'Abilites';
-$Definition['About Vanilla Statistics'] = 'About Vanilla Statistics';
-$Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
-$Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
-$Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['Above Main Content'] = 'Above Main Content';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account Sync Failed'] = 'Account Sync Failed';
 $Definition['Action'] = 'Action';
 $Definition['Actions Based on Votes'] = 'Actions Based on Votes';
@@ -98,7 +89,6 @@ $Definition['Applicant Role'] = 'Select the role that should be applied for new 
 $Definition['Application'] = 'Application';
 $Definition['Application ID'] = 'Application ID';
 $Definition['Application Secret'] = 'Application Secret';
-$Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Applications'] = 'Applications';
 $Definition['Applied by Administrator'] = 'Applied by Administrator';
 $Definition['Applied Manually'] = 'Applied Manually';
@@ -166,7 +156,6 @@ $Definition['Check out the full list of video tutorials here.'] = 'Check out the
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a locale pack'] = 'Choose a locale pack';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choose a role that orphaned users will be assigned to:';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
@@ -238,7 +227,6 @@ $Definition['Delete Category'] = 'Delete Category';
 $Definition['Delete Role'] = 'Delete Role';
 $Definition['Delete User'] = 'Delete User';
 $Definition['Delete User: %s'] = 'Delete User: %s';
-$Definition['Deleting a role can result in users not having access to the application.'] = 'Deleting a role can result in users not having access to the application.';
 $Definition['Deleting category...'] = 'Deleting category...';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
 $Definition['Deleting role...'] = 'Deleting role...';
@@ -256,7 +244,6 @@ $Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'Disabled: T
 $Definition['Discussion  Body'] = 'Discussion  Body';
 $Definition['Discussion  Subject'] = 'Discussion  Subject';
 $Definition['Discussion & Comment Editing'] = 'Discussion & Comment Editing';
-$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['discussion(s)'] = 'discussion(s)';
 $Definition['Discussions Layout'] = 'Discussions Layout';
 $Definition['Discussions per Page'] = 'Discussions per Page';
@@ -264,13 +251,11 @@ $Definition['Display in dashboard. (not recommended)'] = 'Display in dashboard. 
 $Definition['Display root categories as headings.'] = 'Display root categories as headings.';
 $Definition['Do not display the categories in the side panel.'] = 'Do not display the categories in the side panel.';
 $Definition['Don\'t display for embedded comments.'] = 'Don\'t display for embedded comments.';
-$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Don\'t embed your forum admin dashboard (pop it out to full-screen)';
 $Definition['Don\'t Refresh'] = 'Don\'t Refresh';
 $Definition['Don\'t use Categories'] = 'Don\'t use Categories';
 $Definition['Download Locale List'] = 'Download Locale List';
 $Definition['Download Locale Pack'] = 'Download Locale Pack';
 $Definition['DownloadLocalePack'] = 'Download';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
 
 $Definition['Edit Category'] = 'Edit Category';
 $Definition['Edit CSS'] = 'Edit CSS';
@@ -307,8 +292,6 @@ $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Enter 
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
 $Definition['Enter numbers starting at 1.'] = 'Enter numbers starting at 1.';
-$Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Enter the address of your Wordpress Blog and we\'ll take it from there.';
-$Definition['Enter the connection settings for your sphinx server below.'] = 'Enter the connection settings for your sphinx server below.';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Enter the email address of the person you would like to invite:';
 $Definition['Enter the url to the page you would like to use as your homepage'] = 'Enter the url to the page you would like to use as your homepage';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Enter the url to the page you would like to use as your homepage:';
@@ -320,10 +303,8 @@ $Definition['Every %s minutes'] = 'Every %s minutes';
 $Definition['Every 1 minute'] = 'Every 1 minute';
 $Definition['Every %s second'] = 'Every second';
 $Definition['Every %s seconds'] = 'Every %s seconds';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
+
 $Definition['Every Page'] = 'Every Page';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
-$Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community. You should <a href="{/profile,url}">customize your profile now</a>.';
 $Definition['Everything is ok.'] = 'Everything is ok.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Exclude archived discussions from the discussions list';
 $Definition['Existing members send invitations to new members.'] = 'Existing members send invitations to new members.';
@@ -331,7 +312,6 @@ $Definition['Exit Preview'] = 'Exit Preview';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['Facebook Settings'] = 'Facebook Settings';
-$Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>';
 $Definition['Failure'] = 'Failure';
 $Definition['Favicon'] = 'Favicon';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
@@ -341,8 +321,6 @@ $Definition['FileUpload is currently ON'] = 'FileUpload is currently ON';
 $Definition['Finished'] = 'Finished';
 $Definition['First Visit'] = 'First Visit';
 $Definition['Flood Control'] = 'Flood Control';
-$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
-$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
 $Definition['Force the forum to only be accessible through this url'] = 'Force the forum to only be accessible through this url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Force your forum to be viewed through the Remote Url';
 $Definition['Forum Settings'] = 'Forum Settings';
@@ -354,11 +332,6 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
-$Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
-$Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
-$Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
-$Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 $Definition['Gave badge to users.'] = 'Gave badge to users.';
 $Definition['Generate'] = 'Generate';
 $Definition['Generate Client ID and Secret'] = 'Generate Client ID and Secret';
@@ -380,7 +353,6 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} appr
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Heads up!';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.';
 $Definition['Help &amp; Tutorials'] = 'Help &amp; Tutorials';
 $Definition['Here\'s how to get started:'] = 'Here\'s how to get started:';
 $Definition['Hidden for everything!'] = 'Hidden for everything!';
@@ -395,8 +367,6 @@ $Definition['How to use themes'] = 'How to use themes';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML Emails';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
-$Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
 $Definition['Inbox Page'] = 'Inbox Page';
@@ -407,7 +377,6 @@ $Definition['Internaltionalization & Localization'] = 'Internaltionalization & L
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Introducing Vanilla Reactions and Badges';
 $Definition['Invalid category for deletion.'] = 'Invalid category for deletion.';
 $Definition['Invitation Code'] = 'Invitation Code';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -416,8 +385,6 @@ Follow the link below to log in.';
 $Definition['Invitations per month'] = 'Invitations per month';
 $Definition['Invitations will expire'] = 'Invitations will expire';
 $Definition['Invited by'] = 'Invited by';
-$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
-$Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.';
 $Definition['jsConnect Client Libraries'] = 'jsConnect Client Libraries';
 $Definition['jsConnect Documentation'] = 'jsConnect Documentation';
 
@@ -428,9 +395,6 @@ $Definition['Kick-start your community and increase user engagement.'] = 'Kick-s
 $Definition['Label this Revision'] = 'Label this Revision';
 $Definition['Large images will be scaled down.'] = 'Large images will be scaled down to a max width of %spx and a max height of %spx.';
 $Definition['Last Visit'] = 'Last Visit';
-$Definition['Learn about custom routing.'] = 'Learn about custom routing.';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
-$Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
 $Definition['Level'] = 'Level';
 $Definition['Likes'] = 'Likes';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limit the pocket to one or more roles or permissions.';
