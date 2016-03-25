@@ -158,4 +158,5 @@ Ha nagy fájlt importálsz (pl. 200.000 hozzászólás fölött), érdemes megv�
 $Definition['Warning: This is for advanced users.'] = '<b>Figyelem</b>: Ez csak haladó felhasználóknak való és további módósítások szükségesek a web szervereden. Ez általában csak akkor érhető el, ha dedikált vagy vps hosztolással rendelkezel. Ha nem tudod mit jelent ez, ne próbáld ezt meg használni.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Többféle oldalhoz kapcsolódhatsz, amik támogatják a jsConnect-et.';
+$Definition['You can place files in your /uploads folder.'] = 'Ha a fájl túl nagy ahhoz, hogy közvetlenül feltöltse erre a lapra, az /uploads mappába is helyezheti. Ügyeljen arra, hogy a fájlnév az <b>export</b> szóval kezdődjön, és <b>.txt vagy .gz</b> kiterjesztéssel végződjön.';
 $Definition['You must select a file to import.'] = 'Meg kell adnod egy file-t az importáláshoz..';

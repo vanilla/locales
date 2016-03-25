@@ -100,6 +100,7 @@ $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin Siap-sedi
 $Definition['Realtime progress bars: %s'] = 'Baris progres realistik: %s';
 $Definition['Restoring your selection removes the items from this list.'] = 'Saat anda memulihkan, item-item akan dihilangkan dari daftar ini dan dikembalikan lagi ke situs.';
 $Definition['Route Expression'] = 'Ekspresi Route';
+$Definition['Routes are used to redirect users.'] = 'Route dapat digunakan untuk mengalihkan pengguna ke bermacam bagian dari situs anda tergantung dari url-nya.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Pencarian pengguna berdasarkan nama atau masukkan nama dari peran untuk melihat semua pengguna dengan peran tersebut.';
 $Definition['Select the import source'] = 'Pilih sumber impor';
@@ -150,4 +151,5 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Peringatan</b>: Konfig
 $Definition['Warning: This is for advanced users.'] = '<b>Peringatan</b>: Ini untuk pengguna tingkat lanjut dan memerlukan perubahan tambahan pada web server anda. Ini biasanya hanya tersedia bila anda menggunakan dedicated hosting atau vps. Jangan lakukan ini bila anda tidak yakin untuk melakukannya.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Anda dapat terhubung ke multi situs yang mendukung jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Jika berkas Anda terlalu besar untuk diunggah langsung ke laman ini Anda dapat memasukkannya ke folder /uploads Anda. Pastikan nama berkas dimulai dengan kata <b>ekspor</b> dan berakhir dengan salah satu dari ekstensi <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Anda harus memilih sebuah file untuk diimpor.';

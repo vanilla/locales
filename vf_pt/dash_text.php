@@ -157,4 +157,5 @@ Se estiver a importar um ficheiro muito grande (por ex. com mais de 200.000 come
 $Definition['Warning: This is for advanced users.'] = '<b>Aviso</b>: Esta função destina-se a utilizadores avançados e exige que faça alterações adicionais no seu servidor web. Normalmente, só se encontra disponível se tiver um hosting vps ou dedicado. Não tente fazer isto se não souber o que está a fazer.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Você pode se conectar a múltiplos sites que suportam o jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Se o seu ficheiro for demasiado grande para carregar diretamente nesta página, pode colocá-lo na sua pasta de carregamentos. Assegure-se de que o nome do ficheiro começa com a palavra <b>export</b> e que acaba com <b>.txt, ou .gz</b>.';
 $Definition['You must select a file to import.'] = 'Você precisa selecionar um arquivo para importar.';

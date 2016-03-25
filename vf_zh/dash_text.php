@@ -158,4 +158,5 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：您的服
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：此处供高级用户使用，要求你更改其他web服务器配置。通常仅当你使用专有服务器或VPS服务器时有效。如果你不知道你在做什么，请不要轻易尝试。';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = '你可以连接多个支持 jsConnect 的站点。';
+$Definition['You can place files in your /uploads folder.'] = '如果您要上传到此页面的文件 太大，您可以直接把它放在 /uploads 文件夹。确保文件名以 <b>export</b> 开头，并且结尾 为 <b>.txt, .gz</b>。';
 $Definition['You must select a file to import.'] = '您必须选择一个要导入的文件。';

@@ -157,4 +157,5 @@ Ge e ba o amogela faele e kgolo kudu (go feta ditlhaloso tše di fetago 200 000)
 $Definition['Warning: This is for advanced users.'] = '<b>Temošo</b>: Se ke bakeng sa badiriši bao ba gatetšego pele gomme se nyaka gore o dire diphetogo tše di oketšegilego bakeng sa go thuša sebara ya gago ya wepesaete. Gantši se se hwetšwa feela ge o neetše goba o le go kamogelo ya vps. O se ke wa leka go dira se ge e ba o sa se tsebe.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'O ka kgokaganya diwepesaete tše dintši tše di thekgago jsKgokagano.';
+$Definition['You can place files in your /uploads folder.'] = 'Ge e ba faele ya gago e le e kgolo kudu gore e ka tsenywa thwii letlakaleng le o ka e bea foltareng ya tše o di tsenyago. Kgonthišega gore leina la faele le thoma ka lentšu <b>romela</b> la fela ka e nngwe ya <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'O swanetše go kgetha faele yeo e romelwago.';

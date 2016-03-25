@@ -143,4 +143,5 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your serv
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Você pode se conectar a múltiplos sites que suportam o jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Se o seu ficheiro for demasiado grande para carregar diretamente nesta página, pode colocá-lo na sua pasta de carregamentos. Assegure-se de que o nome do ficheiro começa com a palavra <b>export</b> e que acaba com <b>.txt, ou .gz</b>.';
 $Definition['You must select a file to import.'] = 'Você precisa selecionar um arquivo para importar.';

@@ -157,4 +157,5 @@ Se stai importando un file molto largo (es. oltre 200,000 commenti) potresti con
 $Definition['Warning: This is for advanced users.'] = '<b>Attenzione</b>: Questo è per utenti avanzati e richiede che tu faccia ulteriori modifiche al server della tua web. Questo di solito è disponibile solo se tu hai un hosting in VPS. Non provarci se non sai quello che stai facendo.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'È possibile connettersi a diversi siti che supportano jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Se il file è troppo lungo per poter essere caricato direttamente su questa pagina è possibile inserirlo tra o vostri /uploads folder. Assicurarsi che il nome del file inizi con la parola <b>export</ b> e finisca con uno dei <b> .txt, .gz </ b>.';
 $Definition['You must select a file to import.'] = 'Devi selezionare un file da importare.';

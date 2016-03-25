@@ -158,4 +158,5 @@ Si vous importez un fichier trop volumineux (par exemple plus de 200.000 comment
 $Definition['Warning: This is for advanced users.'] = '<b>Avertissement</b>: Ces possibilités sont réservées aux utilisateurs expérimentés et impliquent des modifications de la configuration de votre serveur web, qui ne sont possibles que si vous disposez d\'un hébergement dédié. Ne faites ces manipulations qu\'en connaissance de cause.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Vous pouvez vous connecter aux multiples sites qui prennent en charge jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Si votre fichier est trop volumineux pour être directement chargé sur cette page, vous pouvez aussi le placer dans votre dossier /uploads. Assurez-vous cependant que le nom du fichier commence par le mot <b>export</ b> et se termine par l\'une des extensions suivantes <b> Txt, .gz </ b>.';
 $Definition['You must select a file to import.'] = 'Vous devez sélectionner un fichier à importer.';

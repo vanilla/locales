@@ -159,4 +159,5 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>אזהרה</b>: הגד
 $Definition['Warning: This is for advanced users.'] = '<b>אזהרה</b>: זה למשתמשים מתקדמים ודרוש שתעשה שינויים נוסיף לשרת האינטרנט שלך. זה בדרך כלל זמין רק אם אתה מסור או vps hosting. אל תנסה את זה אם אתה לא יודע מה אתה עושה.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'ניתן להתחבר לאתרים שונים שתומכים ב-jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'הקובץ שלך גדול מדי כדי להעלות אותו ישירות לדף הזה אתה יכול לשים אותו בתיקיית /uploads שלך. וודא כי שם הקובץ מתחיל עם המילה <b>export</b> ונגמר עם אחת מהאופציות <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'בחר קובץ לייבוא.';

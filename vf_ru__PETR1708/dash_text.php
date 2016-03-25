@@ -112,4 +112,5 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your serv
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Вниманіе</b>: Это сообщеніе адресовано продвинутымъ пользователямъ и требуетъ, чтобы Вы внесли дополнительныя измѣненія на вашемъ вебъ-серверѣ. Это возможно, если у Васъ есть выдѣленный или виртуальный хостингъ. Ничего не предпринимайте, если не знаете, что необходимо дѣлать.';
 
+$Definition['You can place files in your /uploads folder.'] = 'Если ваш файл слишком велик, чтобы загрузить его прямо на этой странице, вы можете закачать его альтернативным способом в папку /uploads. Убедитесь, что имя файла начинается с слово <b>export</b> и заканчивается одним из этих расширений: <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Вы должны выбрать файлъ для импорта';

@@ -156,4 +156,5 @@ Dacă importaţi un fişier foarte mare (de ex. peste 200.000 Comentarii), aţi 
 $Definition['Warning: This is for advanced users.'] = '<b>Avertisment</b>: acest lucru este pentru utilizatori avansaţi şi necesită să faceţi modificări suplimentare la serverul de web. Acest lucru este, de obicei, disponibil numai dacă aveți hosting dedicat sau vps. Nu încercaţi acest lucru dacă nu aveți cunoștințele necesare';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Vă puteţi conecta la mai multe site-uri care acceptă jsConnect';
+$Definition['You can place files in your /uploads folder.'] = 'Dacă fişierul este prea mare pentru a-l încărca direct pe această pagină plasaţi-l în dosarul încărcări. Asiguraţi-vă că numele fişierului începe cu cuvântul <b>export</b> şi se termină cu unul dintre <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Trebuie să selectați un fișier pentru import';

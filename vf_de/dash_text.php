@@ -157,4 +157,5 @@ Wenn Sie eine sehr große Datei importieren (z.B. über 200,000 Kommentare), sol
 $Definition['Warning: This is for advanced users.'] = '<b>Warnung</b>: Dies ist für fortgeschrittene Benutzer und erfordert zusätzliche Änderungen an Ihrem Web-Server. Das ist normalerweise nur möglich, wenn Sie über ein dedicated oder vps-Hosting verfügen. Führen Sie keine Änderungen durch, wenn Sie nicht genau wissen, was Sie tun! ';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Du kannst das Forum mit mehreren Seiten verbinden, die jsConnect unterstützen.';
+$Definition['You can place files in your /uploads folder.'] = 'Wenn Ihre Datei zu groß für einen direkten Upload auf diese Seite ist, können Sie sie in Ihrem /uploads Ordner platzieren. Stellen Sie sicher, dass der Dateiname mit <b>export</b> beginnt und mit einer der folgenden Endungen <b>.txt, .gz</b> endet. ';
 $Definition['You must select a file to import.'] = 'Du musst eine Import-Datei auswählen.';
