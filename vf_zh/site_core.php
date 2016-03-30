@@ -112,7 +112,7 @@ $Definition['1 message'] = '1 条信息';
 $Definition['<General Error>'] = '<一般错误>';
 
 $Definition['[%1$s] Membership Approved'] = '[%1$s] 的成员资格已批准';
-$Definition['[%s] Welcome Aboard!'] = '[%s] 欢迎登录！';
+$Definition['[%s] Welcome Aboard!'] = '[%s] 欢迎注册！';
 $Definition['[Deleted User]'] = '[删除用户]';
 
 $Definition['About'] = '关于';
