@@ -487,23 +487,6 @@ Latela linki ya ka mo tlase gore o tloge:
 O thabele letšatši!';
 $Definition['Email Unavailable'] = 'Imeile ga e Gona';
 $Definition['Email visible to other users'] = 'Imeile e a bonala go badiriši ba bangwe';
-$Definition['EmailWelcome'] = '%2$s e go hlametše akhaonte ka %3$s. Ditaba tša gago tša go tsena ke:
-
-Imeile: %6$s
-Phasewete: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'O kgokagane ka katlego le {Title}. Tshedimošo ya gago še:
-
-Leina la modiriši: {User.Name}
-Kgokagane le: {ProviderName}
-
-O ka fihlelela wepesaete ye go {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = ' O atlegile go ingwadišetša akhaonte go {Title}. Tshedimošo ya gago še:
-
-Leina la modiriši: {User.Name}
-Imeile: {User.Email}
-
-O ka tsena wepsaeteng ka {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Bala taba ka botlalo mo</a></p><div class="ClearFix"></div></div>';

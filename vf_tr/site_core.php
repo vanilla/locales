@@ -494,18 +494,6 @@ Göz atmak için bu bağlantıyı takip edin:
 İyi günler!';
 $Definition['Email Unavailable'] = 'E-posta Kullanılamaz';
 $Definition['Email visible to other users'] = 'Diğer kullanıcılar Email\'i görebilir.';
-$Definition['EmailWelcome'] = '%2$s sizin için %3$s \'de hesap oluşturdu. Oturum açma bilgileriniz:⏎ ⏎ E-Posta: %6$s⏎ Parola: %5$s⏎ Url: %4$s';
-$Definition['EmailWelcomeConnect'] = '{Title} \'a başarıyla bağlanıldı. İşte bilgileriniz:
-
-Kullanıcı Adı: {User.Name}
-Bağlantı Kurulan: {ProviderName}
-Siteye {/,exurl,domain} üzerinden ulaşabilirsiniz.';
-$Definition['EmailWelcomeRegister'] = '{Title} üzerinde başarıyla hesap oluşturdunuz. Bilgileriniz burada:
-
-  Kullanıcı Adı: {User.Name}
-  E-posta: {User.Email}
-
-Siteye buradan giriş yapabilirsiniz. {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Bütün hikayeyi buradan okuyun</a></p><div class="ClearFix"></div></div>';
@@ -763,6 +751,42 @@ $Definition['Moderator'] = 'Moderatör';
 $Definition['Moderator Activity'] = 'Moderatör Aktivitesi';
 $Definition['Moderators'] = 'Moderatörler';
 $Definition['moderators'] = 'moderatörler';
+$Definition['month.letter.1'] = 'O';
+$Definition['month.letter.2'] = 'Ş';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'N';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'H';
+$Definition['month.letter.7'] = 'T';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'E';
+$Definition['month.letter.10'] = 'E';
+$Definition['month.letter.11'] = 'K';
+$Definition['month.letter.12'] = 'A';
+$Definition['month.long.1'] = 'Ocak';
+$Definition['month.long.2'] = 'Şubat';
+$Definition['month.long.3'] = 'Mart';
+$Definition['month.long.4'] = 'Nisan';
+$Definition['month.long.5'] = 'Mayıs';
+$Definition['month.long.6'] = 'Haziran';
+$Definition['month.long.7'] = 'Temmuz';
+$Definition['month.long.8'] = 'Ağustos';
+$Definition['month.long.9'] = 'Eylül';
+$Definition['month.long.10'] = 'Ekim';
+$Definition['month.long.11'] = 'Kasım';
+$Definition['month.long.12'] = 'Aralık';
+$Definition['month.short.1'] = 'Oca';
+$Definition['month.short.2'] = 'Şub';
+$Definition['month.short.3'] = 'Mar';
+$Definition['month.short.4'] = 'Nis';
+$Definition['month.short.5'] = 'May';
+$Definition['month.short.6'] = 'Haz';
+$Definition['month.short.7'] = 'Tem';
+$Definition['month.short.8'] = 'Ağu';
+$Definition['month.short.9'] = 'Eyl';
+$Definition['month.short.10'] = 'Eki';
+$Definition['month.short.11'] = 'Kas';
+$Definition['month.short.12'] = 'Ara';
 $Definition['months'] = 'Ay';
 $Definition['More'] = 'Daha';
 $Definition['More About %s'] = '%s Hakkında Daha Fazla';
@@ -1358,6 +1382,27 @@ $Definition['WarningTitleFormat'] = '{InsertUserID,User} tarafından {WarnUserID
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} tarafından {WarnUserID,User} için {Points,plural,%s points} uyarıldı (haberin olsun).';
 $Definition['was'] = 'idi';
 $Definition['We\'ve received a request to change your password.'] = '%s tarihinde şifreni değiştirme isteği aldık. Bu isteği yapan sen değilsen, lütfen bu e-postayı görmezden gel.';
+$Definition['weekday.letter.1'] = 'P';
+$Definition['weekday.letter.2'] = 'S';
+$Definition['weekday.letter.3'] = 'Ç';
+$Definition['weekday.letter.4'] = 'P';
+$Definition['weekday.letter.5'] = 'C';
+$Definition['weekday.letter.6'] = 'C';
+$Definition['weekday.letter.7'] = 'P';
+$Definition['weekday.long.1'] = 'Pazartesi';
+$Definition['weekday.long.2'] = 'Salı';
+$Definition['weekday.long.3'] = 'Çarşamba';
+$Definition['weekday.long.4'] = 'Perşembe';
+$Definition['weekday.long.5'] = 'Cuma';
+$Definition['weekday.long.6'] = 'Cumartesi';
+$Definition['weekday.long.7'] = 'Pazar';
+$Definition['weekday.short.1'] = 'Pzt';
+$Definition['weekday.short.2'] = 'Sal';
+$Definition['weekday.short.3'] = 'Çar';
+$Definition['weekday.short.4'] = 'Per';
+$Definition['weekday.short.5'] = 'Cum';
+$Definition['weekday.short.6'] = 'Cmt';
+$Definition['weekday.short.7'] = 'Paz';
 $Definition['weeks'] = 'haftalar';
 $Definition['Welcome Aboard!'] = 'Aramıza Hoşgeldiniz!';
 $Definition['were'] = 'idi';

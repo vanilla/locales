@@ -313,23 +313,6 @@ Thoir sùil air leis a\' cheangal gu h-ìosal:
 Mar sin leat!';
 $Definition['Email Unavailable'] = 'Chan eil am post-d ri fhaighinn';
 $Definition['Email visible to other users'] = 'Chì cleachdaichean eile am post-d';
-$Definition['EmailWelcome'] = 'Chruthaich %2$s cunntas dhut air %3$s. Seo am fiosrachadh logaidh a-steach agad:
-
-Post-d: %6$s
-Facal-faire: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Tha thu air ceangal ri {Title}. Seo am fiosrachadh agad:
-
-  Ainm-cleachdaiche: {User.Name}
-  Ceangailte ri: {ProviderName}
-
-\'S urrainn dhut an làrach inntrigeadh a-nis air {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Tha thu air cunntas a chlàradh air {Title}. Seo am fiosrachadh agad:
-
-  Far-ainm: {User.Name}
-  Post-d: {User.Email}
-
-\'S urrainn dhut tadhal air an làrach-lìn air {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Leugh an sgeulachd shlàn an-seo</a></p><div class="ClearFix"></div></div>';
@@ -446,6 +429,42 @@ $Definition['Member Count'] = 'Members';
 $Definition['message'] = 'teachdaireachd';
 $Definition['Moderator Activity'] = 'Gnìomhan maorsainneachd';
 $Definition['moderators'] = 'maoir';
+$Definition['month.letter.1'] = 'F';
+$Definition['month.letter.2'] = 'G';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'G';
+$Definition['month.letter.5'] = 'C';
+$Definition['month.letter.6'] = 'Ò';
+$Definition['month.letter.7'] = 'I';
+$Definition['month.letter.8'] = 'L';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'D';
+$Definition['month.letter.11'] = 'S';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'dhen Fhaoilleach';
+$Definition['month.long.2'] = 'dhen Ghearran';
+$Definition['month.long.3'] = 'dhen Mhàrt';
+$Definition['month.long.4'] = 'dhen Ghiblean';
+$Definition['month.long.5'] = 'dhen Chèitean';
+$Definition['month.long.6'] = 'dhen Ògmhios';
+$Definition['month.long.7'] = 'dhen Iuchar';
+$Definition['month.long.8'] = 'dhen Lùnastal';
+$Definition['month.long.9'] = 'dhen t-Sultain';
+$Definition['month.long.10'] = 'dhen Dàmhair';
+$Definition['month.long.11'] = 'dhen t-Samhain';
+$Definition['month.long.12'] = 'dhen Dùbhlachd';
+$Definition['month.short.1'] = 'Faoi';
+$Definition['month.short.2'] = 'Gearr';
+$Definition['month.short.3'] = 'Màrt';
+$Definition['month.short.4'] = 'Gibl';
+$Definition['month.short.5'] = 'Cèit';
+$Definition['month.short.6'] = 'Ògmh';
+$Definition['month.short.7'] = 'Iuch';
+$Definition['month.short.8'] = 'Lùna';
+$Definition['month.short.9'] = 'Sult';
+$Definition['month.short.10'] = 'Dàmh';
+$Definition['month.short.11'] = 'Samh';
+$Definition['month.short.12'] = 'Dùbh';
 $Definition['More'] = 'Barrachd';
 $Definition['More Comments'] = 'Barrachd bheachdan';
 $Definition['More Discussions'] = 'Barrachd dheasbadan';
@@ -670,6 +689,27 @@ $Definition['wall'] = 'balla';
 $Definition['Warnings'] = 'Rabhaidhean';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points}.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
+$Definition['weekday.letter.1'] = 'L';
+$Definition['weekday.letter.2'] = 'M';
+$Definition['weekday.letter.3'] = 'C';
+$Definition['weekday.letter.4'] = 'A';
+$Definition['weekday.letter.5'] = 'H';
+$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.7'] = 'D';
+$Definition['weekday.long.1'] = 'DiLuain';
+$Definition['weekday.long.2'] = 'DiMàirt';
+$Definition['weekday.long.3'] = 'DiCiadain';
+$Definition['weekday.long.4'] = 'DiarDaoin';
+$Definition['weekday.long.5'] = 'DihAoine';
+$Definition['weekday.long.6'] = 'DiSathairne';
+$Definition['weekday.long.7'] = 'DiDòmhnaich';
+$Definition['weekday.short.1'] = 'DiL';
+$Definition['weekday.short.2'] = 'DiM';
+$Definition['weekday.short.3'] = 'DiC';
+$Definition['weekday.short.4'] = 'Dia';
+$Definition['weekday.short.5'] = 'Dih';
+$Definition['weekday.short.6'] = 'DiS';
+$Definition['weekday.short.7'] = 'DiD';
 $Definition['Welcome Aboard!'] = 'Fàilte ort!';
 $Definition['Write a comment'] = 'Sgrìobh beachd';
 $Definition['Write Comment'] = 'Sgrìobh beachd';

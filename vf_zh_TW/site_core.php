@@ -498,23 +498,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 祝您度過美好的一天！';
 $Definition['Email Unavailable'] = 'Email 不可用';
 $Definition['Email visible to other users'] = '電子郵件對其它用戶可見';
-$Definition['EmailWelcome'] = '%2$s 已在 %3$s 為您創建了賬戶。您的登錄憑據如下：
-
-電子郵件：%6$s
-密碼：%5$s
-網址：%4$s';
-$Definition['EmailWelcomeConnect'] = '您已成功連接到{Title}。以下是您的信息：
-
-用戶名： {User.Name}
-連接到：{ProviderName}
-
-您可以通過{/,exurl,domain}訪問網站。 ';
-$Definition['EmailWelcomeRegister'] = '您已經在{Title}成功註冊了賬戶。以下是您的信息：
-
-用戶名：{User.Name}
-電子郵件：{User.Email}
-
-您可以通過{/,exurl,domain}訪問網站。';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">在這裡閱讀全文</a></p><div class="ClearFix"></div></div>';
@@ -775,6 +758,42 @@ $Definition['Moderator'] = '板主';
 $Definition['Moderator Activity'] = '板主活動';
 $Definition['Moderators'] = '板主';
 $Definition['moderators'] = '板主';
+$Definition['month.letter.1'] = '1';
+$Definition['month.letter.2'] = '2';
+$Definition['month.letter.3'] = '3';
+$Definition['month.letter.4'] = '4';
+$Definition['month.letter.5'] = '5';
+$Definition['month.letter.6'] = '6';
+$Definition['month.letter.7'] = '7';
+$Definition['month.letter.8'] = '8';
+$Definition['month.letter.9'] = '9';
+$Definition['month.letter.10'] = '10';
+$Definition['month.letter.11'] = '11';
+$Definition['month.letter.12'] = '12';
+$Definition['month.long.1'] = '1月';
+$Definition['month.long.2'] = '2月';
+$Definition['month.long.3'] = '3月';
+$Definition['month.long.4'] = '4月';
+$Definition['month.long.5'] = '5月';
+$Definition['month.long.6'] = '6月';
+$Definition['month.long.7'] = '7月';
+$Definition['month.long.8'] = '8月';
+$Definition['month.long.9'] = '9月';
+$Definition['month.long.10'] = '10月';
+$Definition['month.long.11'] = '11月';
+$Definition['month.long.12'] = '12月';
+$Definition['month.short.1'] = '1月';
+$Definition['month.short.2'] = '2月';
+$Definition['month.short.3'] = '3月';
+$Definition['month.short.4'] = '4月';
+$Definition['month.short.5'] = '5月';
+$Definition['month.short.6'] = '6月';
+$Definition['month.short.7'] = '7月';
+$Definition['month.short.8'] = '8月';
+$Definition['month.short.9'] = '9月';
+$Definition['month.short.10'] = '10月';
+$Definition['month.short.11'] = '11月';
+$Definition['month.short.12'] = '12月';
 $Definition['months'] = '月';
 $Definition['More'] = '更多';
 $Definition['More About %s'] = '更多關於 %s';
@@ -1383,6 +1402,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} 因{Points,plura
 $Definition['was'] = '是';
 $Definition['We\'ve received a request to change your password.'] = '我們在 %s 收到更改密碼的要求。若你並未提出此要求，請忽略這封信件。';
 $Definition['Website'] = '網站';
+$Definition['weekday.letter.1'] = '一';
+$Definition['weekday.letter.2'] = '二';
+$Definition['weekday.letter.3'] = '三';
+$Definition['weekday.letter.4'] = '四';
+$Definition['weekday.letter.5'] = '五';
+$Definition['weekday.letter.6'] = '六';
+$Definition['weekday.letter.7'] = '日';
+$Definition['weekday.long.1'] = '星期一';
+$Definition['weekday.long.2'] = '星期二';
+$Definition['weekday.long.3'] = '星期三';
+$Definition['weekday.long.4'] = '星期四';
+$Definition['weekday.long.5'] = '星期五';
+$Definition['weekday.long.6'] = '星期六';
+$Definition['weekday.long.7'] = '星期日';
+$Definition['weekday.short.1'] = '週一';
+$Definition['weekday.short.2'] = '週二';
+$Definition['weekday.short.3'] = '週三';
+$Definition['weekday.short.4'] = '週四';
+$Definition['weekday.short.5'] = '週五';
+$Definition['weekday.short.6'] = '週六';
+$Definition['weekday.short.7'] = '週日';
 $Definition['weeks'] = '周';
 $Definition['Welcome Aboard!'] = '歡迎加入！';
 $Definition['were'] = '是';

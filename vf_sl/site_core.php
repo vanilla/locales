@@ -347,23 +347,6 @@ Za ogled sledite povezavi:
 Želimo Vam lep dan!';
 $Definition['Email Unavailable'] = 'E-pošta ni na voljo';
 $Definition['Email visible to other users'] = 'E-pošta vidna drugim uporabnikom';
-$Definition['EmailWelcome'] = '%2$s je za vas ustvaril/-a račun ob %3$s. Vaša poverila za prijavo so:
-
-  E-pošta: %6$s
-  Geslo: %5$s
-  Povezava: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Uspešno ste se povezali na {Title}. Tukaj so vaše podrobnosti:
-
-  Uporabniško ime: {User.Name}
-  Povezani z: {ProviderName}
-
-Do strani lahko dostopate prek {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Uspešno ste se vpisali na {Title}. Tukaj so vaše podrobnosti:
-
-  Uporabniško ime: {User.Name}
-  E-pošta: {User.Email}
-
-Do strani lahko dostopate prek {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Več si lahko preberete tukaj</a></p><div class="ClearFix"></div></div>';
@@ -520,6 +503,42 @@ $Definition['Moderation Queue'] = 'Vrsta za moderiranje';
 $Definition['Moderator Activity'] = 'Dejavnost moderatorja';
 $Definition['Moderators'] = 'Moderatorji';
 $Definition['moderators'] = 'moderatorji';
+$Definition['month.letter.1'] = 'j';
+$Definition['month.letter.2'] = 'f';
+$Definition['month.letter.3'] = 'm';
+$Definition['month.letter.4'] = 'a';
+$Definition['month.letter.5'] = 'm';
+$Definition['month.letter.6'] = 'j';
+$Definition['month.letter.7'] = 'j';
+$Definition['month.letter.8'] = 'a';
+$Definition['month.letter.9'] = 's';
+$Definition['month.letter.10'] = 'o';
+$Definition['month.letter.11'] = 'n';
+$Definition['month.letter.12'] = 'd';
+$Definition['month.long.1'] = 'januar';
+$Definition['month.long.2'] = 'februar';
+$Definition['month.long.3'] = 'marec';
+$Definition['month.long.4'] = 'april';
+$Definition['month.long.5'] = 'maj';
+$Definition['month.long.6'] = 'junij';
+$Definition['month.long.7'] = 'julij';
+$Definition['month.long.8'] = 'avgust';
+$Definition['month.long.9'] = 'september';
+$Definition['month.long.10'] = 'oktober';
+$Definition['month.long.11'] = 'november';
+$Definition['month.long.12'] = 'december';
+$Definition['month.short.1'] = 'jan.';
+$Definition['month.short.2'] = 'feb.';
+$Definition['month.short.3'] = 'mar.';
+$Definition['month.short.4'] = 'apr.';
+$Definition['month.short.5'] = 'maj';
+$Definition['month.short.6'] = 'jun.';
+$Definition['month.short.7'] = 'jul.';
+$Definition['month.short.8'] = 'avg.';
+$Definition['month.short.9'] = 'sep.';
+$Definition['month.short.10'] = 'okt.';
+$Definition['month.short.11'] = 'nov.';
+$Definition['month.short.12'] = 'dec.';
 $Definition['months'] = 'mesecev';
 $Definition['More'] = 'Več';
 $Definition['More Comments'] = 'Več komentarjev';
@@ -928,6 +947,27 @@ $Definition['WarningTitleFormat'] = '{InsertUserID,User} je opozoril/-a {WarnUse
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} je opozoril/-a {WarnUserID,User} za {Points,plural,%s points} (samo obvestilo).';
 $Definition['was'] = 'je bil/-a';
 $Definition['Website'] = 'Spletišče';
+$Definition['weekday.letter.1'] = 'p';
+$Definition['weekday.letter.2'] = 't';
+$Definition['weekday.letter.3'] = 's';
+$Definition['weekday.letter.4'] = 'č';
+$Definition['weekday.letter.5'] = 'p';
+$Definition['weekday.letter.6'] = 's';
+$Definition['weekday.letter.7'] = 'n';
+$Definition['weekday.long.1'] = 'ponedeljek';
+$Definition['weekday.long.2'] = 'torek';
+$Definition['weekday.long.3'] = 'sreda';
+$Definition['weekday.long.4'] = 'četrtek';
+$Definition['weekday.long.5'] = 'petek';
+$Definition['weekday.long.6'] = 'sobota';
+$Definition['weekday.long.7'] = 'nedelja';
+$Definition['weekday.short.1'] = 'pon.';
+$Definition['weekday.short.2'] = 'tor.';
+$Definition['weekday.short.3'] = 'sre.';
+$Definition['weekday.short.4'] = 'čet.';
+$Definition['weekday.short.5'] = 'pet.';
+$Definition['weekday.short.6'] = 'sob.';
+$Definition['weekday.short.7'] = 'ned.';
 $Definition['weeks'] = 'tednov';
 $Definition['Welcome Aboard!'] = 'Dobrodošli!';
 $Definition['were'] = 'so bili';

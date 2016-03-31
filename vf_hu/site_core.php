@@ -493,23 +493,6 @@ Kattints a linkre, hogy megtekintsd:
 Legyen szép napod!';
 $Definition['Email Unavailable'] = 'Nincs email cím';
 $Definition['Email visible to other users'] = 'Az emailed láthatatlan a többi felhasználó számára.';
-$Definition['EmailWelcome'] = '%2$s létrehozott neked egy fiókot itt %3$s. A bejelnetkezéshez szükséges adatok:
-
-  Email: %6$s
-  Jelszó: %5$s
-  Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Sikeresen kapcsolódtál {Title}. Az adataid:
-
-  Felhasználónév: {User.Name}
-  Kapcsolódva: {ProviderName}
-
-You can access the site at {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Sikeresen regisztráltál {Title}. Részletek:
-
-  Felhasználó név: {User.Name}
-  Email: {User.Email}
-
-Kattints ide a fórum eléréséhez: {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Olvass tovább</a></p><div class="ClearFix"></div></div>';
@@ -768,6 +751,42 @@ $Definition['Moderator'] = 'Moderátor';
 $Definition['Moderator Activity'] = 'Moderátori tevékenység';
 $Definition['Moderators'] = 'Moderátor';
 $Definition['moderators'] = 'moderátorok';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'Á';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'Sz';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'január';
+$Definition['month.long.2'] = 'február';
+$Definition['month.long.3'] = 'március';
+$Definition['month.long.4'] = 'április';
+$Definition['month.long.5'] = 'május';
+$Definition['month.long.6'] = 'június';
+$Definition['month.long.7'] = 'július';
+$Definition['month.long.8'] = 'augusztus';
+$Definition['month.long.9'] = 'szeptember';
+$Definition['month.long.10'] = 'október';
+$Definition['month.long.11'] = 'november';
+$Definition['month.long.12'] = 'december';
+$Definition['month.short.1'] = 'jan.';
+$Definition['month.short.2'] = 'febr.';
+$Definition['month.short.3'] = 'márc.';
+$Definition['month.short.4'] = 'ápr.';
+$Definition['month.short.5'] = 'máj.';
+$Definition['month.short.6'] = 'jún.';
+$Definition['month.short.7'] = 'júl.';
+$Definition['month.short.8'] = 'aug.';
+$Definition['month.short.9'] = 'szept.';
+$Definition['month.short.10'] = 'okt.';
+$Definition['month.short.11'] = 'nov.';
+$Definition['month.short.12'] = 'dec.';
 $Definition['months'] = 'hónapok';
 $Definition['More'] = 'Tovább';
 $Definition['More About %s'] = 'Többet róla: %s';
@@ -1364,6 +1383,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} figyelmeztette {
 $Definition['was'] = 'volt';
 $Definition['We\'ve received a request to change your password.'] = 'Kérés érkezett %s jelszavad megváltoztatására. Kérünk, hagyd figyelmen kívül ezt a levelet, ha nem te kérted a változtatást.';
 $Definition['Website'] = 'Weboldal';
+$Definition['weekday.letter.1'] = 'H';
+$Definition['weekday.letter.2'] = 'K';
+$Definition['weekday.letter.3'] = 'Sz';
+$Definition['weekday.letter.4'] = 'Cs';
+$Definition['weekday.letter.5'] = 'P';
+$Definition['weekday.letter.6'] = 'Sz';
+$Definition['weekday.letter.7'] = 'V';
+$Definition['weekday.long.1'] = 'hétfő';
+$Definition['weekday.long.2'] = 'kedd';
+$Definition['weekday.long.3'] = 'szerda';
+$Definition['weekday.long.4'] = 'csütörtök';
+$Definition['weekday.long.5'] = 'péntek';
+$Definition['weekday.long.6'] = 'szombat';
+$Definition['weekday.long.7'] = 'vasárnap';
+$Definition['weekday.short.1'] = 'H';
+$Definition['weekday.short.2'] = 'K';
+$Definition['weekday.short.3'] = 'Sze';
+$Definition['weekday.short.4'] = 'Cs';
+$Definition['weekday.short.5'] = 'P';
+$Definition['weekday.short.6'] = 'Szo';
+$Definition['weekday.short.7'] = 'V';
 $Definition['weeks'] = 'hét';
 $Definition['Welcome Aboard!'] = 'Üdv köztünk!';
 $Definition['were'] = 'volt';

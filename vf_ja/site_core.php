@@ -497,35 +497,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 では、よい一日をお過ごしください！';
 $Definition['Email Unavailable'] = 'メールアドレスは登録済みです';
 $Definition['Email visible to other users'] = '他のメンバーにメールアドレスを公開する';
-$Definition['EmailWelcome'] = '%1$s さん、こんにちは。
-
-%2$s さんが、%3$s に あなたのアカウントを作成しました。あなたの認証情報は、次の通りです:
-
-  メールアドレス: %6$s
-  パスワード: %5$s
-  URL: %4$s
-
-では、よい一日をお過ごしください！';
-$Definition['EmailWelcomeConnect'] = '{User.Name} さん、こんにちは。
-
-{Title} に接続しました。あなたの情報は、次の通りです:
-
-  ユーザー名: {User.Name}
-  接続プロバイダ: {ProviderName}
-
-{/,exurl,domain} からサイトにアクセスできます。
-
-では、よい一日をお過ごしください！';
-$Definition['EmailWelcomeRegister'] = '{User.Name} さん、こんにちは。
-
-{Title} のアカウントで登録されました。あなたの情報は、次の通りです:
-
-  ユーザー名: {User.Name}
-  メールアドレス: {User.Email}
-
-{/,exurl,domain} からサイトにアクセスできます。
-
-では、よい一日をお過ごしください！';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p> <a href="{Url}">本文全てをここで読む</a> </p> <div class="ClearFix"> </div> </div>';
@@ -784,6 +755,42 @@ $Definition['Moderator'] = 'モデレータ';
 $Definition['Moderator Activity'] = 'モデレーターのアクティビティ';
 $Definition['Moderators'] = 'モデレーター';
 $Definition['moderators'] = 'モデレーター';
+$Definition['month.letter.1'] = '1';
+$Definition['month.letter.2'] = '2';
+$Definition['month.letter.3'] = '3';
+$Definition['month.letter.4'] = '4';
+$Definition['month.letter.5'] = '5';
+$Definition['month.letter.6'] = '6';
+$Definition['month.letter.7'] = '7';
+$Definition['month.letter.8'] = '8';
+$Definition['month.letter.9'] = '9';
+$Definition['month.letter.10'] = '10';
+$Definition['month.letter.11'] = '11';
+$Definition['month.letter.12'] = '12';
+$Definition['month.long.1'] = '1月';
+$Definition['month.long.2'] = '2月';
+$Definition['month.long.3'] = '3月';
+$Definition['month.long.4'] = '4月';
+$Definition['month.long.5'] = '5月';
+$Definition['month.long.6'] = '6月';
+$Definition['month.long.7'] = '7月';
+$Definition['month.long.8'] = '8月';
+$Definition['month.long.9'] = '9月';
+$Definition['month.long.10'] = '10月';
+$Definition['month.long.11'] = '11月';
+$Definition['month.long.12'] = '12月';
+$Definition['month.short.1'] = '1月';
+$Definition['month.short.2'] = '2月';
+$Definition['month.short.3'] = '3月';
+$Definition['month.short.4'] = '4月';
+$Definition['month.short.5'] = '5月';
+$Definition['month.short.6'] = '6月';
+$Definition['month.short.7'] = '7月';
+$Definition['month.short.8'] = '8月';
+$Definition['month.short.9'] = '9月';
+$Definition['month.short.10'] = '10月';
+$Definition['month.short.11'] = '11月';
+$Definition['month.short.12'] = '12月';
 $Definition['months'] = '月';
 $Definition['More'] = 'もっと';
 $Definition['More About %s'] = '%sについてもっと詳しく';
@@ -1383,6 +1390,27 @@ $Definition['WarningTitleFormat.Notice'] = ' {Points,plural,%s points} のため
 $Definition['was'] = 'だった';
 $Definition['We\'ve received a request to change your password.'] = 'パスワード変更依頼を %s に受領しました。もし依頼を出されていない場合には、このメールは無視していただきますようお願いします。';
 $Definition['Website'] = 'ウェブサイト';
+$Definition['weekday.letter.1'] = '月';
+$Definition['weekday.letter.2'] = '火';
+$Definition['weekday.letter.3'] = '水';
+$Definition['weekday.letter.4'] = '木';
+$Definition['weekday.letter.5'] = '金';
+$Definition['weekday.letter.6'] = '土';
+$Definition['weekday.letter.7'] = '日';
+$Definition['weekday.long.1'] = '月曜日';
+$Definition['weekday.long.2'] = '火曜日';
+$Definition['weekday.long.3'] = '水曜日';
+$Definition['weekday.long.4'] = '木曜日';
+$Definition['weekday.long.5'] = '金曜日';
+$Definition['weekday.long.6'] = '土曜日';
+$Definition['weekday.long.7'] = '日曜日';
+$Definition['weekday.short.1'] = '月';
+$Definition['weekday.short.2'] = '火';
+$Definition['weekday.short.3'] = '水';
+$Definition['weekday.short.4'] = '木';
+$Definition['weekday.short.5'] = '金';
+$Definition['weekday.short.6'] = '土';
+$Definition['weekday.short.7'] = '日';
 $Definition['weeks'] = '週';
 $Definition['Welcome Aboard!'] = 'ようこそ！';
 $Definition['were'] = 'だった';

@@ -181,12 +181,6 @@ $Definition['EmailHeader'] = 'សួស្ដី {User.Name}!
 ';
 $Definition['Email Source'] = 'អ៊ីមែល';
 $Definition['Email Unavailable'] = 'មិន​មាន​អ៊ីមែល';
-$Definition['EmailWelcomeRegister'] = 'អ្នក​បាន​ចុះឈ្មោះ​ឈ្មោះ​គណនី​មួយ​ដោយ​ជោគជ័យ​នៅ {Title} ។ នេះ​គឺ​ជា​ព័ត៌មាន​របស់​អ្នក៖
-
-ឈ្មោះ​អ្នក​ប្រើ៖ {User.Name}
-អ៊ីមែល៖ {User.Email}
-
-អ្នក​អាច​ចូល​វេបសាយ​បាន​នៅ {/,exurl,domain} ។';
 $Definition['Enter your Email address or username'] = 'បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល ឬ​ឈ្មោះ​អ្នក​ប្រើ​របស់​អ្នក';
 $Definition['ErrorTermsOfService'] = 'អ្នក​ត្រូវ​តែ​យល់​ព្រម​ទៅ​នឹង​លក្ខខណ្ឌ​សេវាកម្ម។';
 $Definition['everyone'] = 'គ្រប់​គ្នា';
@@ -241,6 +235,42 @@ $Definition['messages'] = 'សារ';
 $Definition['Moderation'] = 'ការសម្របសម្រួល';
 $Definition['Moderator Activity'] = 'សកម្មភាព​អ្នក​សម្រប​សម្រួល';
 $Definition['moderators'] = 'អ្នក​សម្រប​សម្រួល';
+$Definition['month.letter.1'] = '1';
+$Definition['month.letter.2'] = '2';
+$Definition['month.letter.3'] = '3';
+$Definition['month.letter.4'] = '4';
+$Definition['month.letter.5'] = '5';
+$Definition['month.letter.6'] = '6';
+$Definition['month.letter.7'] = '7';
+$Definition['month.letter.8'] = '8';
+$Definition['month.letter.9'] = '9';
+$Definition['month.letter.10'] = '10';
+$Definition['month.letter.11'] = '11';
+$Definition['month.letter.12'] = '12';
+$Definition['month.long.1'] = 'មករា';
+$Definition['month.long.2'] = 'កុម្ភៈ';
+$Definition['month.long.3'] = 'មីនា';
+$Definition['month.long.4'] = 'មេសា';
+$Definition['month.long.5'] = 'ឧសភា';
+$Definition['month.long.6'] = 'មិថុនា';
+$Definition['month.long.7'] = 'កក្កដា';
+$Definition['month.long.8'] = 'សីហា';
+$Definition['month.long.9'] = 'កញ្ញា';
+$Definition['month.long.10'] = 'តុលា';
+$Definition['month.long.11'] = 'វិច្ឆិកា';
+$Definition['month.long.12'] = 'ធ្នូ';
+$Definition['month.short.1'] = 'មករា';
+$Definition['month.short.2'] = 'កុម្ភៈ';
+$Definition['month.short.3'] = 'មីនា';
+$Definition['month.short.4'] = 'មេសា';
+$Definition['month.short.5'] = 'ឧសភា';
+$Definition['month.short.6'] = 'មិថុនា';
+$Definition['month.short.7'] = 'កក្កដា';
+$Definition['month.short.8'] = 'សីហា';
+$Definition['month.short.9'] = 'កញ្ញា';
+$Definition['month.short.10'] = 'តុលា';
+$Definition['month.short.11'] = 'វិច្ឆិកា';
+$Definition['month.short.12'] = 'ធ្នូ';
 $Definition['Most recent by %1$s'] = 'ថ្មីៗ​ដោយ %1$s';
 $Definition['My Bookmarks'] = 'ការចំណាំ​របស់​ខ្ញុំ';
 $Definition['My Discussions'] = 'ការ​ពិភាក្សា​របស់​ខ្ញុំ';
@@ -369,6 +399,27 @@ $Definition['Visits'] = 'ទស្សនា';
 $Definition['Visit Site'] = 'មើល​វេបសាយ';
 
 $Definition['Warnings'] = 'ការ​ព្រមាន';
+$Definition['weekday.letter.1'] = 'ច';
+$Definition['weekday.letter.2'] = 'អ';
+$Definition['weekday.letter.3'] = 'ពុ';
+$Definition['weekday.letter.4'] = 'ព្រ';
+$Definition['weekday.letter.5'] = 'សុ';
+$Definition['weekday.letter.6'] = 'ស';
+$Definition['weekday.letter.7'] = 'អា';
+$Definition['weekday.long.1'] = 'ច័ន្ទ';
+$Definition['weekday.long.2'] = 'អង្គារ';
+$Definition['weekday.long.3'] = 'ពុធ';
+$Definition['weekday.long.4'] = 'ព្រហស្បតិ៍';
+$Definition['weekday.long.5'] = 'សុក្រ';
+$Definition['weekday.long.6'] = 'សៅរ៍';
+$Definition['weekday.long.7'] = 'អាទិត្យ';
+$Definition['weekday.short.1'] = 'ច័ន្ទ';
+$Definition['weekday.short.2'] = 'អង្គារ';
+$Definition['weekday.short.3'] = 'ពុធ';
+$Definition['weekday.short.4'] = 'ព្រហស្បតិ៍';
+$Definition['weekday.short.5'] = 'សុក្រ';
+$Definition['weekday.short.6'] = 'សៅរ៍';
+$Definition['weekday.short.7'] = 'អាទិត្យ';
 $Definition['Write a comment'] = 'សរសេរ​មតិ​មួយ';
 $Definition['Write something about yourself...'] = 'សរសេរ​អ្វី​ខ្លះ​អំពី​ខ្លួន​អ្នក...';
 

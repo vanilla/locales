@@ -252,9 +252,9 @@ $Definition['Banned for spamming.'] = '因为垃圾信息被屏蔽。';
 $Definition['Banned for the following:'] = '做了这些事情会被ban:';
 $Definition['Banned users can no longer access the site.'] = '屏蔽用户不能登录站点。';
 $Definition['Banner'] = '导航';
-$Definition['BanReason.1'] = '被社群經理查禁';
-$Definition['BanReason.2'] = '因 IP 位址、電子郵件，或名稱而被禁用。';
-$Definition['BanReason.4'] = '被社群經理暫時查禁';
+$Definition['BanReason.1'] = '被社区管理员屏蔽。';
+$Definition['BanReason.2'] = '因 IP 地址、邮箱地址或用户名而被屏蔽。';
+$Definition['BanReason.4'] = '被社区管理员暂时屏蔽。';
 $Definition['BanReason.8'] = '警告禁止';
 $Definition['Ban User'] = '屏蔽用户';
 $Definition['Ban Value'] = '屏蔽内容';
@@ -292,10 +292,10 @@ $Definition['CategoriesViewingAll'] = '您正在浏览所有的版块。';
 $Definition['CategoriesViewingFollowed'] = '现在展示的是我关注的版块，还有许多待发掘的版块内容哦！';
 $Definition['Category'] = '版块';
 $Definition['Category Filter'] = '类别筛选器';
-$Definition['CategoryID'] = '板块';
+$Definition['CategoryID'] = '版块';
 $Definition['Category Management'] = '版块管理';
-$Definition['Category Notifications'] = '板块通知';
-$Definition['Category to Use'] = '使用板块';
+$Definition['Category Notifications'] = '版块通知';
+$Definition['Category to Use'] = '使用版块';
 $Definition['Change'] = '更改';
 $Definition['Change language'] = '更改语言';
 $Definition['Change My Password'] = '修改密码';
@@ -504,25 +504,6 @@ $Definition['EmailStoryNotification'] = '%1$s
      祝您开心每一天！';
 $Definition['Email Unavailable'] = '该地址已被占用';
 $Definition['Email visible to other users'] = '电子邮件地址公开';
-$Definition['EmailWelcome'] = '您好 %1$s，
-    
-    %2$s 已经为您创建了账户 %3$s. 请使用以下信息登录:
-
-	  Email: %6$s
-	  Password: %5$s
-          Url: %4$s';
-$Definition['EmailWelcomeConnect'] = '您已成功连接至 {Title}。以下是您的信息：
-
-  用户名： {User.Name}
-  Connected With： {ProviderName}
-
-您可以使用该链接访问网站 {/,exurl,domain}。';
-$Definition['EmailWelcomeRegister'] = '恭喜您成功注册了账号 {Title}。以下是您的注册信息：
-    
-    用户名：{User.Name}
-    邮件：{User.Email}
-
-您可以用过 {/,url,domain} 访问站点。';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">阅读全文</a></p><div class="ClearFix"></div></div>';
@@ -778,10 +759,46 @@ $Definition['minutes'] = '分';
 $Definition['Moderate'] = '审核';
 $Definition['Moderation'] = '审核';
 $Definition['Moderation Queue'] = '审核队列';
-$Definition['Moderator'] = '板主';
+$Definition['Moderator'] = '版主';
 $Definition['Moderator Activity'] = '发起人动态';
 $Definition['Moderators'] = '版主';
 $Definition['moderators'] = '发起人';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'A';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = '一月';
+$Definition['month.long.2'] = '二月';
+$Definition['month.long.3'] = '三月';
+$Definition['month.long.4'] = '四月';
+$Definition['month.long.5'] = '五岳';
+$Definition['month.long.6'] = '六月';
+$Definition['month.long.7'] = '七月';
+$Definition['month.long.8'] = '八月';
+$Definition['month.long.9'] = '九月';
+$Definition['month.long.10'] = '十月';
+$Definition['month.long.11'] = '十一月';
+$Definition['month.long.12'] = '十二月';
+$Definition['month.short.1'] = '一月';
+$Definition['month.short.2'] = '二月';
+$Definition['month.short.3'] = '三月';
+$Definition['month.short.4'] = '四月';
+$Definition['month.short.5'] = '五月';
+$Definition['month.short.6'] = '六月';
+$Definition['month.short.7'] = '七月';
+$Definition['month.short.8'] = '八月';
+$Definition['month.short.9'] = '九月';
+$Definition['month.short.10'] = '十月';
+$Definition['month.short.11'] = '十一月';
+$Definition['month.short.12'] = '十二月';
 $Definition['months'] = '月';
 $Definition['More'] = '更多';
 $Definition['More About %s'] = '关于 %s 的更多信息';
@@ -881,7 +898,7 @@ $Definition['Old Password'] = '旧密码';
 $Definition['On'] = '在';
 $Definition['on'] = '在';
 $Definition['Online Preferences'] = '在线设定';
-$Definition['Only show followed categories'] = '只显示一下板块';
+$Definition['Only show followed categories'] = '只显示以下版块';
 $Definition['Open'] = '开放的';
 $Definition['OpenID Settings'] = 'OpenID 设置';
 $Definition['Optional'] = '可选择的';
@@ -889,7 +906,7 @@ $Definition['Optional Description'] = '可选的描述';
 $Definition['Options'] = '选项';
 $Definition['or'] = '或';
 $Definition['Ordered list'] = '有序列表';
-$Definition['Organize discussion categories'] = '管理话题板块';
+$Definition['Organize discussion categories'] = '管理话题版块';
 $Definition['Organizer'] = '组织者';
 $Definition['Organize your Categories'] = '组织分类';
 $Definition['Original'] = '原始图';
@@ -1113,7 +1130,7 @@ $Definition['Share'] = '分享';
 $Definition['Shared Accounts'] = '分享帐号';
 $Definition['she'] = '她';
 $Definition['Shown only on mobile'] = '只在移动设备上显示';
-$Definition['Show unfollowed categories'] = '显示没有订阅的板块';
+$Definition['Show unfollowed categories'] = '显示没有订阅的版块';
 $Definition['Sign-In URL'] = '登录 URL';
 $Definition['Sign-Out URL'] = '注销 URL';
 $Definition['Signature'] = '签名';
@@ -1367,7 +1384,6 @@ $Definition['ValidateUrlStringRelaxed'] = '%s 不能包含斜杠、引号或标�
 $Definition['ValidateUsername'] = '用户名必须是字母，数字或下划线的组合，并且必须在3-20个字符之间。';
 $Definition['ValidateVersion'] = '字段 %s 不是一个合法的版本数。请参考 php 函数 version_compare() 中的合法版本数示例。';
 $Definition['Value'] = '值';
-$Definition['Vanilla'] = '香草';
 $Definition['Vanilla Statistics'] = 'Vanilla 统计';
 $Definition['Vanilla Statistics Plugin'] = 'Vanilla 统计插件';
 $Definition['Verified'] = '已验证';
@@ -1399,6 +1415,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} 由于 {Points,p
 $Definition['was'] = '是';
 $Definition['We\'ve received a request to change your password.'] = '我们已在 %s 收到更改您密码的请求。如果您没有提出这个请求，请忽略此邮件。';
 $Definition['Website'] = '网站';
+$Definition['weekday.letter.1'] = '星期一';
+$Definition['weekday.letter.2'] = '星期二';
+$Definition['weekday.letter.3'] = '星期三';
+$Definition['weekday.letter.4'] = '星期四';
+$Definition['weekday.letter.5'] = '星期五';
+$Definition['weekday.letter.6'] = '星期六';
+$Definition['weekday.letter.7'] = '星期天';
+$Definition['weekday.long.1'] = '星期一';
+$Definition['weekday.long.2'] = '星期二';
+$Definition['weekday.long.3'] = '星期三';
+$Definition['weekday.long.4'] = '星期四';
+$Definition['weekday.long.5'] = '星期五';
+$Definition['weekday.long.6'] = '星期六';
+$Definition['weekday.long.7'] = '星期天';
+$Definition['weekday.short.1'] = '星期一';
+$Definition['weekday.short.2'] = '星期二';
+$Definition['weekday.short.3'] = '星期三';
+$Definition['weekday.short.4'] = '星期四';
+$Definition['weekday.short.5'] = '星期五';
+$Definition['weekday.short.6'] = '星期六';
+$Definition['weekday.short.7'] = '星期天';
 $Definition['weeks'] = '周';
 $Definition['Welcome Aboard!'] = '欢迎加入！';
 $Definition['were'] = '是';
@@ -1439,8 +1476,8 @@ $Definition['You are allowed to create %s groups.'] = '您被允许创建 %s 个
 $Definition['You are already a member of this group.'] = '您已经是该群成员了。';
 $Definition['You are connected as %s through %s.'] = '您作为 %s 登录，通过 %s。';
 $Definition['You are connected through %2$s.'] = '您已通过 %2$s 方式连接。';
-$Definition['You are currently only viewing categories that you follow.'] = '您当前正查看您加星的板块。';
-$Definition['You are currently viewing all categories.'] = '您正在查看所有板块。';
+$Definition['You are currently only viewing categories that you follow.'] = '您当前正查看您加星的版块。';
+$Definition['You are currently viewing all categories.'] = '您正在查看所有版块。';
 $Definition['You are editing %s\'s signature'] = '您正在编辑 %s 的个性签名。';
 $Definition['You are limited to %s recipient.'] = '您被限制在 %s 个收件人。';
 $Definition['You are limited to %s recipients.'] = '您被限制在 %s 个收件人。';

@@ -5,7 +5,7 @@ $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement ca
 
 $Definition['About.DisableStatistics'] = '如果您因为某些商业原因需要关闭数据报告，您可以在安装配置文件中添加下列文字：
  <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
-$Definition['About.VanillaStatistics'] = '为方便我们准确的分析覆盖度和有效性，请不要关闭数据报告。这对开源免费的Vanilla相当的重要。';
+$Definition['About.VanillaStatistics'] = '为方便我们准确的分析覆盖度和有效性，请不要关闭数据报告。这对开源、免费的 Vanilla 来说相当重要。';
 $Definition['AboutCommentEmbedding'] = 'Vanilla 可以用来更换您的博客自身的评论系统。事实上，它可以用来为任何网页添加评论。';
 $Definition['AboutEmbedding'] = '嵌入技术可以将您的社区嵌入到其他应用程序和网页中。';
 $Definition['About Vanilla Statistics'] = '关于 Vanilla 统计';
@@ -19,7 +19,7 @@ $Definition['Are you sure you\'ve entered the correct database host name? Maybe 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = '点击下面的按钮，您将永久删除账户%s。';
 
 $Definition['Change the way your community works with plugins.'] = '通过插件改变您社区的工作方式。我们已经在软件中打包了一些常用的插件，在网上还有更多的插件可供选择。';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla 是一个简洁，高效的社区平台。她懂得使用简单，先看看下面的介绍视频吧。玩得开心。';
+$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla 是全世界最简洁，最好用的社区平台。它极其容易上手。先看看下面的介绍视频吧。希望您使用愉快。';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '选择一个孤立的用户将被分配到的角色：';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '选择如何处理用户帐户%s （回复，消息等等）相关联的所有内容。';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = '您可以选择自定义的哈希算法对你的请求计算摘要。客户端一侧也应使用同样的哈希算法。如果你不确定该选哪个，请选择md5。';
@@ -28,9 +28,9 @@ $Definition['Could not parse import file. The problem is near line %s.'] = '无�
 $Definition['Create a localization CSV'] = '创建一个本地化的 CSV 文件';
 
 $Definition['Define who can upload files on the Roles & Permissions page.'] = '设定能在 <a href="%s">角色与权限</a> 页面上传及管理文件的用户。';
-$Definition['Define your forum homepage, upload your logo, and more...'] = '定义您的社区首页，上传LOGO，以及其他...';
+$Definition['Define your forum homepage, upload your logo, and more...'] = '定义您的社区首页，上传 Logo，以及其他...';
 $Definition['Deleting a role can result in users not having access to the application.'] = '删除一个用户角色，可能会导致用户无法访问应用程序。';
-$Definition['Deleting forever cannot be undone.'] = '经常删除无用信息是保持论坛干净的好方式。';
+$Definition['Deleting forever cannot be undone.'] = '经常删除无用信息是保持论坛干净的好办法。';
 $Definition['Disable Google Sign In'] = '禁用 Google 登录';
 $Definition['Disable OpenID'] = '禁用 OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = '话题板块用于帮助您的用户组织他们的话题，这对社区很重要。';
@@ -66,10 +66,10 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = '设置 conf/config.php 权�
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '注意了！有一个特殊角色不会允许活动的会话。鉴于这种情况，权限设置将被限制为“浏览”。';
 
-$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '上传的站点LOGO将替换页面的站点名称。';
+$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '上传的站点 Logo 将替换页面的站点名称。';
 $Definition['If you want to decrease the warning level then remove a warning.'] = '如果您想降低报警级别，请尝试解决报警的问题。';
 $Definition['Import'] = '导入';
-$Definition['Importing to Vanilla'] = '导入到Vanilla';
+$Definition['Importing to Vanilla'] = '导入到 Vanilla 中';
 $Definition['Invitations can be sent from users\' profile pages.'] = '当您启用邀请注册后用户将会在他们的个人资料页显示 <a href="%s" class="Popup">我的邀请</a> 链接。';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '你指定的数据库可能还不存在。你创建完毕了吗？名称输入正确了吗？数据库报告：<code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '设置合理的评论字数上限。';
@@ -77,11 +77,11 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 $Definition['Kick-start your community and increase user engagement.'] = '启动您的社区，增加用户参与。';
 
 $Definition['Learn about custom routing.'] = '了解自定义路由。';
-$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '学习如何完全改变您的社区的外观和感觉：上传LOGO；设置首页及布局；选择一个主题并个性化主题。';
+$Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '学习如何完全改变您的社区的外观和感觉：上传 Logo；设置首页及布局；选择一个主题并个性化主题。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '学习如何使用论坛的基本功能。';
 $Definition['Locales allow you to support other languages on your site.'] = '语言选项可以让您的站点支持其他语言。在这里您可以启用或禁用选定的语言。';
 $Definition['Locales are in your %s folder.'] = '语言环境设置允许您以支持其他语言的网站。一旦一个区域已被添加到您的%s文件夹内，您将可以启用或禁用在这里。';
-$Definition['LogoDescription'] = '站点LOGO显示在站点的顶部，有些主题可能不会显示。';
+$Definition['LogoDescription'] = '站点 Logo 显示在站点的顶部，有些主题可能不会显示。';
 
 $Definition['Make sure you click View Page'] = '点击<a href="%s">这里</a>预览板块页面。';
 $Definition['Manage Routes'] = '管理路径';
@@ -111,23 +111,23 @@ $Definition['Select the import source'] = '选择导入源文件';
 $Definition['Serialized column "%s" failed to be unserialized.'] = '已序列化的列 "%s" 恢复失败。';
 $Definition['Show all possible pocket locations.'] = '打开此选项以显示所有可放置Pocket的位置。打开此选项后只有具备管理Pocket权限的用户可以看到这些位置。';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '花些时间思考一下如何在这里描述你的站点。为你的站点选择一个有意义的标题和简短的描述，将非常有益于提高站点在搜索引擎中的排名。';
-$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = '添加标志和自定义颜色，装饰您的电子邮件。';
+$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = '在电子邮件中添加 Logo 和自定义颜色。';
 $Definition['Start Import'] = '开始导入';
 $Definition['Start the first discussion.'] = '现在就通过<a href="{/post/discussion,url}">开始第一个讨论</a>来让您的社区活跃起来吧。';
 
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s 验证器没有任何自定义配置选项。';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = '启用插件失败，因为报告出现以下错误：<pre>%s</pre>';
 $Definition['The addon has already been downloaded.'] = '该扩展已被下载。';
-$Definition['The banner logo appears at the top of your forum.'] = '站点LOGO将显示在论坛顶部';
+$Definition['The banner logo appears at the top of your forum.'] = '站点 Logo 将显示在论坛顶部';
 $Definition['The banner title appears on the top-left of every page.'] = '站点名称显示在每个页面的左上角';
-$Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = '标题内容将在你站点的标题栏、和浏览器的标题栏显示。长度不应超过20字符。如果你上传了标题图片，那么图片将在用户看到的论坛页面中替换标题内容。同时，请注意某些主题可能屏蔽此处的标题内容。';
+$Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = '标题内容将在你站点的标题栏、和浏览器的标题栏显示。长度不应超过20字符。如果你上传了 Logo，那么图片将在用户看到的论坛页面中替换标题内容。同时，请注意某些主题可能屏蔽此处的标题内容。';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>基本注册表单要求</strong> 新用户从验证码图片复制文字来使网站垃圾信息制造者被挡在网站之外。你需要一个<a href="http://recaptcha.net/">recaptcha.net</a>的账户。注册是免费的而且很容易。一旦你注册，回来这里并输入以下设置：';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = '你指定的数据库用户没有数据库访问权限。你已经创建数据库了吗？数据库报告：<code>%s</code>';
 $Definition['The following structure changes are required for your database.'] = '以下结构变更需要数据库子支持。';
 $Definition['The import file does not contain any data.'] = '导入的文件不包含任何数据。';
 $Definition['The import file is not in the correct format.'] = '导入的文件格式不正确。';
 $Definition['The location of the jsonp formatted authentication data.'] = '保存 jsonp 格式认证信息的地方。';
-$Definition['ThemeHelp'] = '和wordpress类似，vanilla也提供了强大的模板功能，你可以从官网下载模板文件，然后解压到 %s 文件夹，在后台你就能够看到模板选项，点击启用即可完成美化.';
+$Definition['ThemeHelp'] = '主题功能允许您自由地更换网站的样式和风格。将主题包放置在 %s 文件夹下，您就能在后台看到该主题和启用它的选项。';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = '密码认证器不提供任何配置选项。';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = '数据库结构不需要盖面。但是数据库表中的数据可能发生变化。';
 $Definition['The route was saved successfully.'] = '路由保存成功。';

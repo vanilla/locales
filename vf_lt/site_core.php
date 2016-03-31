@@ -443,23 +443,6 @@ Spausk šią nuorodą, kad pamatytum:
 Smagios dienos!';
 $Definition['Email Unavailable'] = 'El. pašto adresas netinkamas';
 $Definition['Email visible to other users'] = 'El. pašto adresas matomas visiems vartotojams';
-$Definition['EmailWelcome'] = '%2$s sukurė tau paskyrą %3$s. Tavo prisijungimo duomenys:
-
-El. paštas: %6$s
-Slaptažodis: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Sėkmingai prisijungei prie  {Title}. Čia tavo informacija:
-
-Registracijos vardas: {User.Name}
-Prisijungęs su: {ProviderName}
-
-Į puslapį pateksi {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Jūs sėkmingai sukūrėte savo paskyrą {Title}. Štai jūsų informacija:
-
-Naudotojo vardas: {User.Name}
-El. pašto adresas: {User.Email}
-
-Puslapį rasite {/,exurl,domain}';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Čia - visa istorija</a></p><div class="ClearFix"></div></div>';
@@ -638,6 +621,42 @@ $Definition['Moderator'] = 'Moderatorius';
 $Definition['Moderator Activity'] = 'Moderatoriaus aktyvumas';
 $Definition['Moderators'] = 'Prižiūrėti';
 $Definition['moderators'] = 'moderatoriai';
+$Definition['month.letter.1'] = 'S';
+$Definition['month.letter.2'] = 'V';
+$Definition['month.letter.3'] = 'K';
+$Definition['month.letter.4'] = 'B';
+$Definition['month.letter.5'] = 'G';
+$Definition['month.letter.6'] = 'B';
+$Definition['month.letter.7'] = 'L';
+$Definition['month.letter.8'] = 'R';
+$Definition['month.letter.9'] = 'R';
+$Definition['month.letter.10'] = 'S';
+$Definition['month.letter.11'] = 'L';
+$Definition['month.letter.12'] = 'G';
+$Definition['month.long.1'] = 'sausio';
+$Definition['month.long.2'] = 'vasario';
+$Definition['month.long.3'] = 'kovo';
+$Definition['month.long.4'] = 'balandžio';
+$Definition['month.long.5'] = 'gegužės';
+$Definition['month.long.6'] = 'birželio';
+$Definition['month.long.7'] = 'liepos';
+$Definition['month.long.8'] = 'rugpjūčio';
+$Definition['month.long.9'] = 'rugsėjo';
+$Definition['month.long.10'] = 'spalio';
+$Definition['month.long.11'] = 'lapkričio';
+$Definition['month.long.12'] = 'gruodžio';
+$Definition['month.short.1'] = 'saus.';
+$Definition['month.short.2'] = 'vas.';
+$Definition['month.short.3'] = 'kov.';
+$Definition['month.short.4'] = 'bal.';
+$Definition['month.short.5'] = 'geg.';
+$Definition['month.short.6'] = 'birž.';
+$Definition['month.short.7'] = 'liep.';
+$Definition['month.short.8'] = 'rugp.';
+$Definition['month.short.9'] = 'rugs.';
+$Definition['month.short.10'] = 'spal.';
+$Definition['month.short.11'] = 'lapkr.';
+$Definition['month.short.12'] = 'gruod.';
 $Definition['months'] = 'mėnėsiai';
 $Definition['More'] = 'Daugiau';
 $Definition['More Comments'] = 'Daugiau komentarų';
@@ -1097,6 +1116,27 @@ $Definition['WarningTitleFormat'] = '{InsertUserID,User} įspėtas {WarnUserID,U
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} įspėtas {WarnUserID,User} dėl {Points,plural,%s points} (just a notice).';
 $Definition['was'] = 'buvo';
 $Definition['Website'] = 'Svetainė';
+$Definition['weekday.letter.1'] = 'P';
+$Definition['weekday.letter.2'] = 'A';
+$Definition['weekday.letter.3'] = 'T';
+$Definition['weekday.letter.4'] = 'K';
+$Definition['weekday.letter.5'] = 'P';
+$Definition['weekday.letter.6'] = 'Š';
+$Definition['weekday.letter.7'] = 'S';
+$Definition['weekday.long.1'] = 'pirmadienis';
+$Definition['weekday.long.2'] = 'antradienis';
+$Definition['weekday.long.3'] = 'trečiadienis';
+$Definition['weekday.long.4'] = 'ketvirtadienis';
+$Definition['weekday.long.5'] = 'penktadienis';
+$Definition['weekday.long.6'] = 'šeštadienis';
+$Definition['weekday.long.7'] = 'sekmadienis';
+$Definition['weekday.short.1'] = 'pr';
+$Definition['weekday.short.2'] = 'an';
+$Definition['weekday.short.3'] = 'tr';
+$Definition['weekday.short.4'] = 'kt';
+$Definition['weekday.short.5'] = 'pn';
+$Definition['weekday.short.6'] = 'št';
+$Definition['weekday.short.7'] = 'sk';
 $Definition['weeks'] = 'savaitės';
 $Definition['Welcome Aboard!'] = 'Sveiki atvykę!';
 $Definition['were'] = 'buvo';

@@ -488,23 +488,6 @@ Landela isixhumanisi esingezansi ukuze usihlole:
 Ube nosuku oluhle!';
 $Definition['Email Unavailable'] = 'I-imeyili Ayitholakali';
 $Definition['Email visible to other users'] = 'I-imeyili iyabonakala kwabanye abasebenzisi';
-$Definition['EmailWelcome'] = 'U-%2$s ukwakhele i-akhawunti ku-%3$s. Izifakazo zakho zokungena zithi:
-
-  I-imeyili: %6$s
-  Iphasiwedi: %5$s
-  I-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Uxhume ngokuphumelelayo kokuthi {Title}. Nalu ulwazi lwakho:
-
-  Igama lomsebenzisi: {User.Name}
-  Ixhunywe Ngokuthi: {ProviderName}
-
-Ungakwazi ukufinyelela isayithi kokuthi {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Uyibhalisele ngempumelelo i-akhawunti kokuthi {Title}. Nalu ulwazi lwakho:
-
-  Igama lomsebenzisi: {User.Name}
-  I-imeyili: {User.Email}
-
-Ungakwazi ukufinyelela isayithi kokuthi {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Funda indaba egcwele lapha</a></p><div class="ClearFix"></div></div>';
@@ -753,6 +736,42 @@ $Definition['Moderator'] = 'Umlamuleli';
 $Definition['Moderator Activity'] = 'Umsebenzi Womlamuleli';
 $Definition['Moderators'] = 'Abalamuleli';
 $Definition['moderators'] = 'abalamuleli';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'E';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'Januwari';
+$Definition['month.long.2'] = 'Februwari';
+$Definition['month.long.3'] = 'Mashi';
+$Definition['month.long.4'] = 'Ephreli';
+$Definition['month.long.5'] = 'Meyi';
+$Definition['month.long.6'] = 'Juni';
+$Definition['month.long.7'] = 'Julayi';
+$Definition['month.long.8'] = 'Agasti';
+$Definition['month.long.9'] = 'Septhemba';
+$Definition['month.long.10'] = 'Okthoba';
+$Definition['month.long.11'] = 'Novemba';
+$Definition['month.long.12'] = 'Disemba';
+$Definition['month.short.1'] = 'Jan';
+$Definition['month.short.2'] = 'Feb';
+$Definition['month.short.3'] = 'Mas';
+$Definition['month.short.4'] = 'Eph';
+$Definition['month.short.5'] = 'Mey';
+$Definition['month.short.6'] = 'Jun';
+$Definition['month.short.7'] = 'Jul';
+$Definition['month.short.8'] = 'Aga';
+$Definition['month.short.9'] = 'Sep';
+$Definition['month.short.10'] = 'Okt';
+$Definition['month.short.11'] = 'Nov';
+$Definition['month.short.12'] = 'Dis';
 $Definition['months'] = 'izinyanga';
 $Definition['More'] = 'Okwengeziwe';
 $Definition['More About %s'] = 'Okwengeziwe Mayelana %s';
@@ -1347,6 +1366,27 @@ $Definition['WarningTitleFormat.Notice'] = 'U-{InsertUserID,User} uxwayise u-{Wa
 $Definition['was'] = 'ibithi';
 $Definition['We\'ve received a request to change your password.'] = 'Sithole isicelo sokushintsha iphasiwedi yakho ngo-%s. Uma ungazange usenze lesi sicelo, sicela uyizibe le imeyili.';
 $Definition['Website'] = 'Iwebhusayithi';
+$Definition['weekday.letter.1'] = 'M';
+$Definition['weekday.letter.2'] = 'B';
+$Definition['weekday.letter.3'] = 'T';
+$Definition['weekday.letter.4'] = 'S';
+$Definition['weekday.letter.5'] = 'H';
+$Definition['weekday.letter.6'] = 'M';
+$Definition['weekday.letter.7'] = 'S';
+$Definition['weekday.long.1'] = 'UMsombuluko';
+$Definition['weekday.long.2'] = 'ULwesibili';
+$Definition['weekday.long.3'] = 'ULwesithathu';
+$Definition['weekday.long.4'] = 'ULwesine';
+$Definition['weekday.long.5'] = 'ULwesihlanu';
+$Definition['weekday.long.6'] = 'UMgqibelo';
+$Definition['weekday.long.7'] = 'ISonto';
+$Definition['weekday.short.1'] = 'Mso';
+$Definition['weekday.short.2'] = 'Bil';
+$Definition['weekday.short.3'] = 'Tha';
+$Definition['weekday.short.4'] = 'Sin';
+$Definition['weekday.short.5'] = 'Hla';
+$Definition['weekday.short.6'] = 'Mgq';
+$Definition['weekday.short.7'] = 'Son';
 $Definition['weeks'] = 'amaviki';
 $Definition['Welcome Aboard!'] = 'Siyakwamukela Ngaphakathi!';
 $Definition['were'] = 'abethi';

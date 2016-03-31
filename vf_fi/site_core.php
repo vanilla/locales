@@ -509,35 +509,6 @@ Napsauta alla olevaa linkkiä nähdäksesi lisää:
 Hyvää päivänjatkoa! ';
 $Definition['Email Unavailable'] = 'S&auml;hk&ouml;postiosoite ei saatavilla';
 $Definition['Email visible to other users'] = 'S&auml;hk&ouml;postiosoite n&auml;kyviss&auml; muille j&auml;senille';
-$Definition['EmailWelcome'] = 'Hello %1$s,
-
-%2$s has created an account for you at %3$s. Your login credentials are:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s
-
-Have a great day!';
-$Definition['EmailWelcomeConnect'] = 'Hello {User.Name},
-
-You have successfully connected to {Title}. Here is your information:
-
-  Username: {User.Name}
-  Connected With: {ProviderName}
-
-You can access the site at {/,url,domain}.
-
-Have a great day!';
-$Definition['EmailWelcomeRegister'] = 'Hei {User.Name},
-
-Rekisteröitymisesi palstalle {Title} onnistui. Ohessa käyttäjätietosi:
-
-  Tunnus: {User.Name}
-  Sähköposti: {User.Email}
-
-Sivuston osoite on {/,exurl,domain}.
-
-Tervetuloa!';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lue koko juttu t&auml;&auml;lt&auml;</a></p><div class="ClearFix"></div></div>';
@@ -793,6 +764,42 @@ $Definition['Moderator'] = 'Moderaattori';
 $Definition['Moderator Activity'] = 'Moderaattorien loki';
 $Definition['Moderators'] = 'Moderaattorit';
 $Definition['moderators'] = 'moderaattorit';
+$Definition['month.letter.1'] = 'T';
+$Definition['month.letter.2'] = 'H';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'H';
+$Definition['month.letter.5'] = 'T';
+$Definition['month.letter.6'] = 'K';
+$Definition['month.letter.7'] = 'H';
+$Definition['month.letter.8'] = 'E';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'L';
+$Definition['month.letter.11'] = 'M';
+$Definition['month.letter.12'] = 'J';
+$Definition['month.long.1'] = 'tammikuuta';
+$Definition['month.long.2'] = 'helmikuuta';
+$Definition['month.long.3'] = 'maaliskuuta';
+$Definition['month.long.4'] = 'huhtikuuta';
+$Definition['month.long.5'] = 'toukokuuta';
+$Definition['month.long.6'] = 'kesäkuuta';
+$Definition['month.long.7'] = 'heinäkuuta';
+$Definition['month.long.8'] = 'elokuuta';
+$Definition['month.long.9'] = 'syyskuuta';
+$Definition['month.long.10'] = 'lokakuuta';
+$Definition['month.long.11'] = 'marraskuuta';
+$Definition['month.long.12'] = 'joulukuuta';
+$Definition['month.short.1'] = 'tammikuuta';
+$Definition['month.short.2'] = 'helmikuuta';
+$Definition['month.short.3'] = 'maaliskuuta';
+$Definition['month.short.4'] = 'huhtikuuta';
+$Definition['month.short.5'] = 'toukokuuta';
+$Definition['month.short.6'] = 'kesäkuuta';
+$Definition['month.short.7'] = 'heinäkuuta';
+$Definition['month.short.8'] = 'elokuuta';
+$Definition['month.short.9'] = 'syyskuuta';
+$Definition['month.short.10'] = 'lokakuuta';
+$Definition['month.short.11'] = 'marraskuuta';
+$Definition['month.short.12'] = 'joulukuuta';
 $Definition['months'] = 'kuukautta';
 $Definition['More'] = 'Lis&auml;&auml;';
 $Definition['More About %s'] = 'Lisätietoa aiheesta %s';
@@ -1405,6 +1412,27 @@ $Definition['WarningTitleFormat.Notice'] = '{SyötäKäyttäjätunnus,Käyttäj�
 $Definition['was'] = 'oli';
 $Definition['We\'ve received a request to change your password.'] = 'Meitä pyydettiin vaihtamaan %s salasanasi. Jos et ole itse pyytänyt salasanan vaihtamista, niin jätä tämä sähköposti huomioitta.';
 $Definition['Website'] = 'Kotisivu';
+$Definition['weekday.letter.1'] = 'M';
+$Definition['weekday.letter.2'] = 'T';
+$Definition['weekday.letter.3'] = 'K';
+$Definition['weekday.letter.4'] = 'T';
+$Definition['weekday.letter.5'] = 'P';
+$Definition['weekday.letter.6'] = 'L';
+$Definition['weekday.letter.7'] = 'S';
+$Definition['weekday.long.1'] = 'maanantaina';
+$Definition['weekday.long.2'] = 'tiistaina';
+$Definition['weekday.long.3'] = 'keskiviikkona';
+$Definition['weekday.long.4'] = 'torstaina';
+$Definition['weekday.long.5'] = 'perjantaina';
+$Definition['weekday.long.6'] = 'lauantaina';
+$Definition['weekday.long.7'] = 'sunnuntaina';
+$Definition['weekday.short.1'] = 'ma';
+$Definition['weekday.short.2'] = 'ti';
+$Definition['weekday.short.3'] = 'ke';
+$Definition['weekday.short.4'] = 'to';
+$Definition['weekday.short.5'] = 'pe';
+$Definition['weekday.short.6'] = 'la';
+$Definition['weekday.short.7'] = 'su';
 $Definition['weeks'] = 'viikkoa';
 $Definition['Welcome Aboard!'] = 'Tervetuloa mukaan!';
 $Definition['were'] = 'olivat';

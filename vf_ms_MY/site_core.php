@@ -483,23 +483,6 @@ Gunakan pautan di bawah untuk menerokainya:
 Semoga hari anda menyeronokkan!';
 $Definition['Email Unavailable'] = 'E-mel Tidak tersedia';
 $Definition['Email visible to other users'] = 'E-mel boleh dilihat oleh pengguna lain';
-$Definition['EmailWelcome'] = '%2$s telah mencipta akaun untuk anda di %3$s. Butiran log masuk anda ialah:
-
-E-mel: %6$s
-Kata Laluan: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Anda telah bersambung dengan {Title}. Inilah maklumat untuk anda:
-
-Nama Pengguna: {User.Name}
-Bersambung Dengan: {ProviderName}
-
-Anda boleh mengakses laman di {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Anda telah mendaftarkan akaun di {Title}. Inilah maklumat untuk anda:
-
-Nama Pengguna: {User.Name}
-E-mel: {User.Email}
-
-Anda boleh mengakses laman di {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Baca cerita lengkap di sini</a></p><div class="ClearFix"></div></div>';
@@ -733,6 +716,42 @@ $Definition['Moderation Queue'] = 'Baris Gilir Penyederhanaan';
 $Definition['Moderator Activity'] = 'Aktiviti Moderator';
 $Definition['Moderators'] = 'Moderator-moderator';
 $Definition['moderators'] = 'moderator-moderator';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'A';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'O';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'Januari';
+$Definition['month.long.2'] = 'Februari';
+$Definition['month.long.3'] = 'Mac';
+$Definition['month.long.4'] = 'April';
+$Definition['month.long.5'] = 'Mei';
+$Definition['month.long.6'] = 'Jun';
+$Definition['month.long.7'] = 'Julai';
+$Definition['month.long.8'] = 'Ogos';
+$Definition['month.long.9'] = 'September';
+$Definition['month.long.10'] = 'Oktober';
+$Definition['month.long.11'] = 'November';
+$Definition['month.long.12'] = 'Disember';
+$Definition['month.short.1'] = 'Jan';
+$Definition['month.short.2'] = 'Feb';
+$Definition['month.short.3'] = 'Mac';
+$Definition['month.short.4'] = 'Apr';
+$Definition['month.short.5'] = 'Mei';
+$Definition['month.short.6'] = 'Jun';
+$Definition['month.short.7'] = 'Jul';
+$Definition['month.short.8'] = 'Ogo';
+$Definition['month.short.9'] = 'Sep';
+$Definition['month.short.10'] = 'Okt';
+$Definition['month.short.11'] = 'Nov';
+$Definition['month.short.12'] = 'Dis';
 $Definition['months'] = 'bulan-bulan';
 $Definition['More'] = 'Lanjut';
 $Definition['More About %s'] = 'Maklumat Lanjut Mengenai %s';
@@ -1309,6 +1328,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} memberi amaran k
 $Definition['was'] = 'telah';
 $Definition['We\'ve received a request to change your password.'] = 'Kami telah menerima permintaan untuk menukar kata laluan anda di %s. Jika anda tidak membuat permintaan ini, sila abaikan e-mel ini.';
 $Definition['Website'] = 'Laman Web';
+$Definition['weekday.letter.1'] = 'I';
+$Definition['weekday.letter.2'] = 'S';
+$Definition['weekday.letter.3'] = 'R';
+$Definition['weekday.letter.4'] = 'K';
+$Definition['weekday.letter.5'] = 'J';
+$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.7'] = 'A';
+$Definition['weekday.long.1'] = 'Isnin';
+$Definition['weekday.long.2'] = 'Selasa';
+$Definition['weekday.long.3'] = 'Rabu';
+$Definition['weekday.long.4'] = 'Khamis';
+$Definition['weekday.long.5'] = 'Jumaat';
+$Definition['weekday.long.6'] = 'Sabtu';
+$Definition['weekday.long.7'] = 'Ahad';
+$Definition['weekday.short.1'] = 'Isn';
+$Definition['weekday.short.2'] = 'Sel';
+$Definition['weekday.short.3'] = 'Rab';
+$Definition['weekday.short.4'] = 'Kha';
+$Definition['weekday.short.5'] = 'Jum';
+$Definition['weekday.short.6'] = 'Sab';
+$Definition['weekday.short.7'] = 'Ahd';
 $Definition['weeks'] = 'minggu-minggu';
 $Definition['Welcome Aboard!'] = 'Selamat Datang!';
 $Definition['were'] = 'telah';

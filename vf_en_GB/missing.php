@@ -116,18 +116,6 @@ Follow the link below to check it out:
 %2$s
 
 Have a great day!';
-$Definition['EmailWelcomeConnect'] = 'You have successfully connected to {Title}. Here is your information:
-
-  Username: {User.Name}
-  Connected With: {ProviderName}
-
-You can access the site at {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'You have successfully registered for an account at {Title}. Here is your information:
-
-  Username: {User.Name}
-  Email: {User.Email}
-
-You can access the site at {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
@@ -221,6 +209,42 @@ $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s"
 $Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
 $Definition['Member Count'] = 'Members';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'A';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'January';
+$Definition['month.long.2'] = 'February';
+$Definition['month.long.3'] = 'March';
+$Definition['month.long.4'] = 'April';
+$Definition['month.long.5'] = 'May';
+$Definition['month.long.6'] = 'June';
+$Definition['month.long.7'] = 'July';
+$Definition['month.long.8'] = 'August';
+$Definition['month.long.9'] = 'September';
+$Definition['month.long.10'] = 'October';
+$Definition['month.long.11'] = 'November';
+$Definition['month.long.12'] = 'December';
+$Definition['month.short.1'] = 'Jan';
+$Definition['month.short.2'] = 'Feb';
+$Definition['month.short.3'] = 'Mar';
+$Definition['month.short.4'] = 'Apr';
+$Definition['month.short.5'] = 'May';
+$Definition['month.short.6'] = 'Jun';
+$Definition['month.short.7'] = 'Jul';
+$Definition['month.short.8'] = 'Aug';
+$Definition['month.short.9'] = 'Sep';
+$Definition['month.short.10'] = 'Oct';
+$Definition['month.short.11'] = 'Nov';
+$Definition['month.short.12'] = 'Dec';
 $Definition['MyBadgesModuleTitle'] = 'My Badges';
 
 $Definition['NewApplicantEmail'] = 'New applicant:';
@@ -402,6 +426,27 @@ $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is f
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points}.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
 $Definition['We\'ve received a request to change your password.'] = 'We\'ve received a request to change your password at %s. If you didn\'t make this request, please ignore this email.';
+$Definition['weekday.letter.1'] = 'M';
+$Definition['weekday.letter.2'] = 'T';
+$Definition['weekday.letter.3'] = 'W';
+$Definition['weekday.letter.4'] = 'T';
+$Definition['weekday.letter.5'] = 'F';
+$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.7'] = 'S';
+$Definition['weekday.long.1'] = 'Monday';
+$Definition['weekday.long.2'] = 'Tuesday';
+$Definition['weekday.long.3'] = 'Wednesday';
+$Definition['weekday.long.4'] = 'Thursday';
+$Definition['weekday.long.5'] = 'Friday';
+$Definition['weekday.long.6'] = 'Saturday';
+$Definition['weekday.long.7'] = 'Sunday';
+$Definition['weekday.short.1'] = 'Mon';
+$Definition['weekday.short.2'] = 'Tue';
+$Definition['weekday.short.3'] = 'Wed';
+$Definition['weekday.short.4'] = 'Thu';
+$Definition['weekday.short.5'] = 'Fri';
+$Definition['weekday.short.6'] = 'Sat';
+$Definition['weekday.short.7'] = 'Sun';
 
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">You\'ve asked questions that now have answers</a>. Make sure you accept/reject the answers.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';

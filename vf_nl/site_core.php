@@ -500,23 +500,6 @@ Volg deze link om het te bekijken: %2$s
 Fijne dag verder!';
 $Definition['Email Unavailable'] = 'E-mail Niet beschikbaar';
 $Definition['Email visible to other users'] = 'E-mail zichtbaar voor andere gebruikers';
-$Definition['EmailWelcome'] = '%2$s heeft een account voor jou aangemaakt op %3$s. Je inloggegevens zijn:
-
-  E-mail: %6$s
-  Wachtwoord: %5$s
-  Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Je hebt je succesvol verbonden met {Title}. Hier zijn je gegevens:
-
-  Gebruikersnaam: {User.Name}
-  Verbonden Met: {ProviderName}
-
-Je kunt de website bezoeken op {/,url,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Je hebt je succesvol geregistreerd voor een account bij {Title}. Hier zijn je gegevens:
-
-  Gebruikersnaam: {User.Name}
-  E-mail: {User.Email}
-
-Je kunt de website bezoeken op {/,url,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lees het volledige verhaal hier</a></p><div class="ClearFix"></div></div>';
@@ -770,6 +753,42 @@ $Definition['Moderator'] = 'Bemiddelaar';
 $Definition['Moderator Activity'] = 'Moderator Activiteiten';
 $Definition['Moderators'] = 'Bemiddelaars';
 $Definition['moderators'] = 'bemiddelaars';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'A';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'januari';
+$Definition['month.long.2'] = 'februari';
+$Definition['month.long.3'] = 'maart';
+$Definition['month.long.4'] = 'april';
+$Definition['month.long.5'] = 'mei';
+$Definition['month.long.6'] = 'juni';
+$Definition['month.long.7'] = 'juli';
+$Definition['month.long.8'] = 'augustus';
+$Definition['month.long.9'] = 'september';
+$Definition['month.long.10'] = 'oktober';
+$Definition['month.long.11'] = 'november';
+$Definition['month.long.12'] = 'december';
+$Definition['month.short.1'] = 'jan.';
+$Definition['month.short.2'] = 'feb.';
+$Definition['month.short.3'] = 'mrt.';
+$Definition['month.short.4'] = 'apr.';
+$Definition['month.short.5'] = 'mei';
+$Definition['month.short.6'] = 'jun.';
+$Definition['month.short.7'] = 'jul.';
+$Definition['month.short.8'] = 'aug.';
+$Definition['month.short.9'] = 'sep.';
+$Definition['month.short.10'] = 'okt.';
+$Definition['month.short.11'] = 'nov.';
+$Definition['month.short.12'] = 'dec.';
 $Definition['months'] = 'maanden';
 $Definition['More'] = 'Meer';
 $Definition['More About %s'] = 'Meer over %s';
@@ -1358,6 +1377,27 @@ $Definition['Warnings'] = 'Waarschuwingen';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} waarschuwde {WarnUserID,User} voor {Points,plural,%s punten}.';
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} waarschuwde {WarnUserID,User} voor {Points,plural,%s punten} (alleen een opmerking).';
 $Definition['We\'ve received a request to change your password.'] = 'Wij hebben een verzoek ontvangen om uw wachtwoord te wijzigen op %s. Als u dit verzoek niet heeft verstuurd, negeert u dan deze e-mail. ';
+$Definition['weekday.letter.1'] = 'M';
+$Definition['weekday.letter.2'] = 'D';
+$Definition['weekday.letter.3'] = 'W';
+$Definition['weekday.letter.4'] = 'D';
+$Definition['weekday.letter.5'] = 'V';
+$Definition['weekday.letter.6'] = 'Z';
+$Definition['weekday.letter.7'] = 'Z';
+$Definition['weekday.long.1'] = 'maandag';
+$Definition['weekday.long.2'] = 'dinsdag';
+$Definition['weekday.long.3'] = 'woensdag';
+$Definition['weekday.long.4'] = 'donderdag';
+$Definition['weekday.long.5'] = 'vrijdag';
+$Definition['weekday.long.6'] = 'zaterdag';
+$Definition['weekday.long.7'] = 'zondag';
+$Definition['weekday.short.1'] = 'ma';
+$Definition['weekday.short.2'] = 'di';
+$Definition['weekday.short.3'] = 'wo';
+$Definition['weekday.short.4'] = 'do';
+$Definition['weekday.short.5'] = 'vr';
+$Definition['weekday.short.6'] = 'za';
+$Definition['weekday.short.7'] = 'zo';
 $Definition['weeks'] = 'weken';
 $Definition['Welcome Aboard!'] = 'Welkom aan Boord!';
 $Definition['were'] = 'waren';

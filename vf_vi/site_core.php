@@ -496,23 +496,6 @@ Nhấp vào liên kết sau để xem:
 Chúc bạn một ngày tốt lành!';
 $Definition['Email Unavailable'] = 'Không thể sử dụng địa chỉ thư này';
 $Definition['Email visible to other users'] = 'Thư hiển thị công khai';
-$Definition['EmailWelcome'] = '%2$s đã tạo tài khoản cho bạn lúc %3$s. Thông tin đăng nhập của bạn là:
-
-  Địa chỉ thư: %6$s
-  Mật khẩu: %5$s
-  Địa chỉ liên kết: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Bạn đã kết nối thành công tại {Title} với thông tin như sau:
-
-  Tên đăng nhập: {User.Name}
-  Kết nối với: {ProviderName}
-
-Bạn có thể truy cập trang web tại {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Bạn đã đăng ký thành công tài khoản tại {Title} với thông tin như sau:
-
-  Tên đăng nhập: {User.Name}
-  Địa chỉ thư: {User.Email}
-
-Bạn có thể truy cập trang web tại {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Đọc chi tiết tại đây</a></p><div class="ClearFix"></div></div>';
@@ -772,6 +755,42 @@ $Definition['Moderator'] = 'Điều hành viên';
 $Definition['Moderator Activity'] = 'Hoạt động của mod';
 $Definition['Moderators'] = 'Mod';
 $Definition['moderators'] = 'mod';
+$Definition['month.letter.1'] = '1';
+$Definition['month.letter.2'] = '2';
+$Definition['month.letter.3'] = '3';
+$Definition['month.letter.4'] = '4';
+$Definition['month.letter.5'] = '5';
+$Definition['month.letter.6'] = '6';
+$Definition['month.letter.7'] = '7';
+$Definition['month.letter.8'] = '8';
+$Definition['month.letter.9'] = '9';
+$Definition['month.letter.10'] = '10';
+$Definition['month.letter.11'] = '11';
+$Definition['month.letter.12'] = '12';
+$Definition['month.long.1'] = 'tháng 1';
+$Definition['month.long.2'] = 'tháng 2';
+$Definition['month.long.3'] = 'tháng 3';
+$Definition['month.long.4'] = 'tháng 4';
+$Definition['month.long.5'] = 'tháng 5';
+$Definition['month.long.6'] = 'tháng 6';
+$Definition['month.long.7'] = 'tháng 7';
+$Definition['month.long.8'] = 'tháng 8';
+$Definition['month.long.9'] = 'tháng 9';
+$Definition['month.long.10'] = 'tháng 10';
+$Definition['month.long.11'] = 'tháng 11';
+$Definition['month.long.12'] = 'tháng 12';
+$Definition['month.short.1'] = 'thg 1';
+$Definition['month.short.2'] = 'thg 2';
+$Definition['month.short.3'] = 'thg 3';
+$Definition['month.short.4'] = 'thg 4';
+$Definition['month.short.5'] = 'thg 5';
+$Definition['month.short.6'] = 'thg 6';
+$Definition['month.short.7'] = 'thg 7';
+$Definition['month.short.8'] = 'thg 8';
+$Definition['month.short.9'] = 'thg 9';
+$Definition['month.short.10'] = 'thg 10';
+$Definition['month.short.11'] = 'thg 11';
+$Definition['month.short.12'] = 'thg 12';
 $Definition['months'] = 'tháng';
 $Definition['More'] = 'Thêm';
 $Definition['More About %s'] = 'Thêm thông tin về %s';
@@ -1372,6 +1391,27 @@ $Definition['WarningTitleFormat'] = '{InsertUserID,User} cảnh cáo {WarnUserID
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} cảnh cáo {WarnUserID,User} {Points,plural,%s points} (just a notice).';
 $Definition['was'] = 'đã';
 $Definition['We\'ve received a request to change your password.'] = 'Chúng tôi đã nhận được yêu cầu thay đổi mật khẩu của bạn tại %s. Nếu bạn không yêu cầu việc đó, vui lòng bỏ qua email này.';
+$Definition['weekday.letter.1'] = 'T2';
+$Definition['weekday.letter.2'] = 'T3';
+$Definition['weekday.letter.3'] = 'T4';
+$Definition['weekday.letter.4'] = 'T5';
+$Definition['weekday.letter.5'] = 'T6';
+$Definition['weekday.letter.6'] = 'T7';
+$Definition['weekday.letter.7'] = 'CN';
+$Definition['weekday.long.1'] = 'Thứ Hai';
+$Definition['weekday.long.2'] = 'Thứ Ba';
+$Definition['weekday.long.3'] = 'Thứ Tư';
+$Definition['weekday.long.4'] = 'Thứ Năm';
+$Definition['weekday.long.5'] = 'Thứ Sáu';
+$Definition['weekday.long.6'] = 'Thứ Bảy';
+$Definition['weekday.long.7'] = 'Chủ Nhật';
+$Definition['weekday.short.1'] = 'Th 2';
+$Definition['weekday.short.2'] = 'Th 3';
+$Definition['weekday.short.3'] = 'Th 4';
+$Definition['weekday.short.4'] = 'Th 5';
+$Definition['weekday.short.5'] = 'Th 6';
+$Definition['weekday.short.6'] = 'Th 7';
+$Definition['weekday.short.7'] = 'CN';
 $Definition['weeks'] = 'tuần';
 $Definition['Welcome Aboard!'] = 'Chào mừng gia nhập!';
 $Definition['were'] = 'đã';

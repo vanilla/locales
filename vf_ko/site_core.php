@@ -480,18 +480,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 좋은 하루 되시길 바랍니다! ';
 $Definition['Email Unavailable'] = '사용할 수 없는 이메일';
 $Definition['Email visible to other users'] = '다른 사용자들에게 이메일 보여주기';
-$Definition['EmailWelcome'] = '%2$s 님이 %3$s에 귀하의 계정을 만들었습니다. 귀하의 로그인 정보는 다음과 같습니다:
-
-이메일: %6$s
-암호: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = '{Title}에 성공적으로 접속되었습니다. 귀하의 정보는 다음과 같습니다:
-
-사용자명: {User.Name}
-연결 대상: {ProviderName}
-
-{/,exurl,domain}의 사이트에 접속할 수 있습니다.';
-$Definition['EmailWelcomeRegister'] = '성공적으로 {Title}에 계정을 만들었습니다. 계정 정보는 다음과 같습니다:닉네임: {User.Name}이메일: {User.Email}이제 사이트 {/,exurl,domain} 를 접속하실 수 있습니다.';
 $Definition['EmbeddedDiscussionFormat'] = ' <div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">더 자세한 내용은 여기에서 확인하세요</a></p><div class="ClearFix"></div></div> ';
@@ -748,6 +736,42 @@ $Definition['Moderator'] = '운영자';
 $Definition['Moderator Activity'] = '관리자 활동';
 $Definition['Moderators'] = '관리자';
 $Definition['moderators'] = '관리자';
+$Definition['month.letter.1'] = '1월';
+$Definition['month.letter.2'] = '2월';
+$Definition['month.letter.3'] = '3월';
+$Definition['month.letter.4'] = '4월';
+$Definition['month.letter.5'] = '5월';
+$Definition['month.letter.6'] = '6월';
+$Definition['month.letter.7'] = '7월';
+$Definition['month.letter.8'] = '8월';
+$Definition['month.letter.9'] = '9월';
+$Definition['month.letter.10'] = '10월';
+$Definition['month.letter.11'] = '11월';
+$Definition['month.letter.12'] = '12월';
+$Definition['month.long.1'] = '1월';
+$Definition['month.long.2'] = '2월';
+$Definition['month.long.3'] = '3월';
+$Definition['month.long.4'] = '4월';
+$Definition['month.long.5'] = '5월';
+$Definition['month.long.6'] = '6월';
+$Definition['month.long.7'] = '7월';
+$Definition['month.long.8'] = '8월';
+$Definition['month.long.9'] = '9월';
+$Definition['month.long.10'] = '10월';
+$Definition['month.long.11'] = '11월';
+$Definition['month.long.12'] = '12월';
+$Definition['month.short.1'] = '1월';
+$Definition['month.short.2'] = '2월';
+$Definition['month.short.3'] = '3월';
+$Definition['month.short.4'] = '4월';
+$Definition['month.short.5'] = '5월';
+$Definition['month.short.6'] = '6월';
+$Definition['month.short.7'] = '7월';
+$Definition['month.short.8'] = '8월';
+$Definition['month.short.9'] = '9월';
+$Definition['month.short.10'] = '10월';
+$Definition['month.short.11'] = '11월';
+$Definition['month.short.12'] = '12월';
 $Definition['months'] = '개월';
 $Definition['More'] = '더';
 $Definition['More About %s'] = '%s에 대해 더 알아보기';
@@ -1337,6 +1361,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} 가 {WarnUserID,
 $Definition['was'] = '였다';
 $Definition['We\'ve received a request to change your password.'] = '%s의 시각에 회원님의 비밀번호를 변경해 달라는 요청을 받았습니다. 회원님께서 요청한 것이 아니면 이 이메일을 무시하십시오.';
 $Definition['Website'] = '웹사이트';
+$Definition['weekday.letter.1'] = '월';
+$Definition['weekday.letter.2'] = '화';
+$Definition['weekday.letter.3'] = '수';
+$Definition['weekday.letter.4'] = '목';
+$Definition['weekday.letter.5'] = '금';
+$Definition['weekday.letter.6'] = '토';
+$Definition['weekday.letter.7'] = '일';
+$Definition['weekday.long.1'] = '월요일';
+$Definition['weekday.long.2'] = '화요일';
+$Definition['weekday.long.3'] = '수요일';
+$Definition['weekday.long.4'] = '목요일';
+$Definition['weekday.long.5'] = '금요일';
+$Definition['weekday.long.6'] = '토요일';
+$Definition['weekday.long.7'] = '일요일';
+$Definition['weekday.short.1'] = '월';
+$Definition['weekday.short.2'] = '화';
+$Definition['weekday.short.3'] = '수';
+$Definition['weekday.short.4'] = '목';
+$Definition['weekday.short.5'] = '금';
+$Definition['weekday.short.6'] = '토';
+$Definition['weekday.short.7'] = '일';
 $Definition['weeks'] = '주';
 $Definition['Welcome Aboard!'] = '어서오세요!';
 $Definition['were'] = '있었음';

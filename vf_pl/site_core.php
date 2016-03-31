@@ -486,25 +486,6 @@ Przejdź pod poniższy link by to sprawdzić:
 Miłego dnia!';
 $Definition['Email Unavailable'] = 'E-mail niedostępny';
 $Definition['Email visible to other users'] = 'E-mail widzialny dla innych użytkowników';
-$Definition['EmailWelcome'] = '%2$s twoje konto zostało utworzone na %3$s. Oto dane do zalogowania:
-
-E-mail: %6$s
-Hasło: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Zostałeś połączony z {Title}. Oto twoje informacje:
-
-Nazwa użytkownika: {User.Name}
-Połączenie przez: {ProviderName}
-
-Masz dostęp do strony {/,url,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Witaj {User.Name},
-
-Zarejestrowałeś konto w {Title}. Oto twoje informacje:
-
-Nazwa użytkownika: {User.Name}
-E-mail: {User.Email}
-
-Masz dostęp do strony {/,url,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Przeczytaj całą historię tutaj</a></p><div class="ClearFix"></div></div>';
@@ -756,6 +737,42 @@ $Definition['Moderation Queue'] = 'Kolejka moderacji';
 $Definition['Moderator Activity'] = 'Aktywność moderatora';
 $Definition['Moderators'] = 'Moderatorzy';
 $Definition['moderators'] = 'moderatorzy';
+$Definition['month.letter.1'] = 's';
+$Definition['month.letter.2'] = 'l';
+$Definition['month.letter.3'] = 'm';
+$Definition['month.letter.4'] = 'k';
+$Definition['month.letter.5'] = 'm';
+$Definition['month.letter.6'] = 'c';
+$Definition['month.letter.7'] = 'l';
+$Definition['month.letter.8'] = 's';
+$Definition['month.letter.9'] = 'w';
+$Definition['month.letter.10'] = 'p';
+$Definition['month.letter.11'] = 'l';
+$Definition['month.letter.12'] = 'g';
+$Definition['month.long.1'] = 'stycznia';
+$Definition['month.long.2'] = 'lutego';
+$Definition['month.long.3'] = 'marca';
+$Definition['month.long.4'] = 'kwietnia';
+$Definition['month.long.5'] = 'maja';
+$Definition['month.long.6'] = 'czerwca';
+$Definition['month.long.7'] = 'lipca';
+$Definition['month.long.8'] = 'sierpnia';
+$Definition['month.long.9'] = 'września';
+$Definition['month.long.10'] = 'października';
+$Definition['month.long.11'] = 'listopada';
+$Definition['month.long.12'] = 'grudnia';
+$Definition['month.short.1'] = 'sty';
+$Definition['month.short.2'] = 'lut';
+$Definition['month.short.3'] = 'mar';
+$Definition['month.short.4'] = 'kwi';
+$Definition['month.short.5'] = 'maj';
+$Definition['month.short.6'] = 'cze';
+$Definition['month.short.7'] = 'lip';
+$Definition['month.short.8'] = 'sie';
+$Definition['month.short.9'] = 'wrz';
+$Definition['month.short.10'] = 'paź';
+$Definition['month.short.11'] = 'lis';
+$Definition['month.short.12'] = 'gru';
 $Definition['months'] = 'miesiące';
 $Definition['More'] = 'Więcej';
 $Definition['More About %s'] = 'Więcej na temat %s';
@@ -1340,6 +1357,27 @@ $Definition['WarningTitleFormat.Notice'] = 'Użytkownik {InsertUserID,User} ostr
 $Definition['was'] = 'został';
 $Definition['We\'ve received a request to change your password.'] = 'Otrzymaliśmy prośbę o zmianę Twojego hasła na %s. Jeśli nie Ty ją wysłałeś, zignoruj tę wiadomość.';
 $Definition['Website'] = 'Strona internetowa';
+$Definition['weekday.letter.1'] = 'P';
+$Definition['weekday.letter.2'] = 'W';
+$Definition['weekday.letter.3'] = 'Ś';
+$Definition['weekday.letter.4'] = 'C';
+$Definition['weekday.letter.5'] = 'P';
+$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.7'] = 'N';
+$Definition['weekday.long.1'] = 'poniedziałek';
+$Definition['weekday.long.2'] = 'wtorek';
+$Definition['weekday.long.3'] = 'środa';
+$Definition['weekday.long.4'] = 'czwartek';
+$Definition['weekday.long.5'] = 'piątek';
+$Definition['weekday.long.6'] = 'sobota';
+$Definition['weekday.long.7'] = 'niedziela';
+$Definition['weekday.short.1'] = 'pon.';
+$Definition['weekday.short.2'] = 'wt.';
+$Definition['weekday.short.3'] = 'śr.';
+$Definition['weekday.short.4'] = 'czw.';
+$Definition['weekday.short.5'] = 'pt.';
+$Definition['weekday.short.6'] = 'sob.';
+$Definition['weekday.short.7'] = 'niedz.';
 $Definition['weeks'] = 'tygodnie';
 $Definition['Welcome Aboard!'] = 'Witaj na pokładzie!';
 $Definition['were'] = 'zostali';

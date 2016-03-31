@@ -489,23 +489,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 %2$s';
 $Definition['Email Unavailable'] = 'อีเมล์ถูกใช้แล้ว';
 $Definition['Email visible to other users'] = 'แสดงอีเมล์สู่สาธารณะ';
-$Definition['EmailWelcome'] = '%2$s ได้สร้างบัญชีสำหรับคุณเมื่อ %3$s. รหัสเข้าสู่ระบบของคุณคือ:
-
-  อีเมล์: %6$s
-  รหัสผ่าน: %5$s
-  Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'คุณเชื่อมต่อกับ {Title} ได้สำเร็จ. นี่คือข้อมูลของคุณ:
-
-  ชื่อผู้ใช้: {User.Name}
-  เชื่อมต่อโดย: {ProviderName}
-
-คุณสามารถเข้าใช้งานเว็บไซต์ได้ที่ {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'คุณประสบความสำเร็จในการลงทะเบียน {Title}. นี่คือข้อมูลรายละเอียดของคุณ:
-
-  ชื่อผู้ใช้: {User.Name}
-  อีเมล์: {User.Email}
-
-คุณสามารถเริ่มใช้งานได้ที่ {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">อ่านเรื่องเต็มได้ที่นี่</a></p><div class="ClearFix"></div></div>';
@@ -766,6 +749,42 @@ $Definition['Moderator'] = 'โมเดอเรเตอร์';
 $Definition['Moderator Activity'] = 'ความเคลื่อนไหวของโมเดอเรเตอร์';
 $Definition['Moderators'] = 'โมเดอเรเตอร์';
 $Definition['moderators'] = 'โมเดอเรเตอร์';
+$Definition['month.letter.1'] = 'ม.ค.';
+$Definition['month.letter.2'] = 'ก.พ.';
+$Definition['month.letter.3'] = 'มี.ค.';
+$Definition['month.letter.4'] = 'เม.ย.';
+$Definition['month.letter.5'] = 'พ.ค.';
+$Definition['month.letter.6'] = 'มิ.ย.';
+$Definition['month.letter.7'] = 'ก.ค.';
+$Definition['month.letter.8'] = 'ส.ค.';
+$Definition['month.letter.9'] = 'ก.ย.';
+$Definition['month.letter.10'] = 'ต.ค.';
+$Definition['month.letter.11'] = 'พ.ย.';
+$Definition['month.letter.12'] = 'ธ.ค.';
+$Definition['month.long.1'] = 'มกราคม';
+$Definition['month.long.2'] = 'กุมภาพันธ์';
+$Definition['month.long.3'] = 'มีนาคม';
+$Definition['month.long.4'] = 'เมษายน';
+$Definition['month.long.5'] = 'พฤษภาคม';
+$Definition['month.long.6'] = 'มิถุนายน';
+$Definition['month.long.7'] = 'กรกฎาคม';
+$Definition['month.long.8'] = 'สิงหาคม';
+$Definition['month.long.9'] = 'กันยายน';
+$Definition['month.long.10'] = 'ตุลาคม';
+$Definition['month.long.11'] = 'พฤศจิกายน';
+$Definition['month.long.12'] = 'ธันวาคม';
+$Definition['month.short.1'] = 'ม.ค.';
+$Definition['month.short.2'] = 'ก.พ.';
+$Definition['month.short.3'] = 'มี.ค.';
+$Definition['month.short.4'] = 'เม.ย.';
+$Definition['month.short.5'] = 'พ.ค.';
+$Definition['month.short.6'] = 'มิ.ย.';
+$Definition['month.short.7'] = 'ก.ค.';
+$Definition['month.short.8'] = 'ส.ค.';
+$Definition['month.short.9'] = 'ก.ย.';
+$Definition['month.short.10'] = 'ต.ค.';
+$Definition['month.short.11'] = 'พ.ย.';
+$Definition['month.short.12'] = 'ธ.ค.';
 $Definition['months'] = 'เดือน';
 $Definition['More'] = 'ต่อไป';
 $Definition['More About %s'] = 'เพิ่มเติมเกี่ยวกับ %s';
@@ -1382,6 +1401,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} เตือน 
 $Definition['was'] = 'ได้';
 $Definition['We\'ve received a request to change your password.'] = 'เราได้รับคำขอให้เปลี่ยนรหัสผ่านของคุณที่ %s หากคุณไม่ได้สร้างคำขอนี้ โปรดอย่าสนใจอีเมลนี้';
 $Definition['Website'] = 'เว็บไซต์';
+$Definition['weekday.letter.1'] = 'จ';
+$Definition['weekday.letter.2'] = 'อ';
+$Definition['weekday.letter.3'] = 'พ';
+$Definition['weekday.letter.4'] = 'พฤ';
+$Definition['weekday.letter.5'] = 'ศ';
+$Definition['weekday.letter.6'] = 'ส';
+$Definition['weekday.letter.7'] = 'อา';
+$Definition['weekday.long.1'] = 'วันจันทร์';
+$Definition['weekday.long.2'] = 'วันอังคาร';
+$Definition['weekday.long.3'] = 'วันพุธ';
+$Definition['weekday.long.4'] = 'วันพฤหัสบดี';
+$Definition['weekday.long.5'] = 'วันศุกร์';
+$Definition['weekday.long.6'] = 'วันเสาร์';
+$Definition['weekday.long.7'] = 'วันอาทิตย์';
+$Definition['weekday.short.1'] = 'จ.';
+$Definition['weekday.short.2'] = 'อ.';
+$Definition['weekday.short.3'] = 'พ.';
+$Definition['weekday.short.4'] = 'พฤ.';
+$Definition['weekday.short.5'] = 'ศ.';
+$Definition['weekday.short.6'] = 'ส.';
+$Definition['weekday.short.7'] = 'อา.';
 $Definition['weeks'] = 'สัปดาห์';
 $Definition['Welcome Aboard!'] = 'ยินดีต้อนรับ';
 $Definition['were'] = 'ได้';

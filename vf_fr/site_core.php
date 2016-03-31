@@ -473,28 +473,6 @@ Suivez ce lien pour en savoir plus :
 Cordialement,';
 $Definition['Email Unavailable'] = 'Email indisponible';
 $Definition['Email visible to other users'] = 'Adresse e-mail visible par les autres utilisateurs.';
-$Definition['EmailWelcome'] = '
-%2$s vous a créé un compte sur %3$s. Vos informations de connexion sont :
-
-  Courriel : %6$s
-  Mot de passe : %5$s
-  Url : %4$s';
-$Definition['EmailWelcomeConnect'] = 'Vous êtes connecté à {Title}. Voici les informations correspondantes :
-
-  Utilisateur: {User.Name}
-  Connecté par : {ProviderName}
-
-Vous pouvez accéder au site à l\'adresse {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Bonjour {User.Name},
-
-La création de votre compte sur {Title} a réussi. Voici les informations correspondantes :
-
-  Utilisateur : {User.Name}
-  Email : {User.Email}
-
-Vous pouvez accéder au site à l\'adresse {/,exurl,domain}.
-
-Cordialement,';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Voir la suite</a></p><div class="ClearFix"></div></div>';
@@ -739,6 +717,42 @@ $Definition['Moderator'] = 'Modérateur';
 $Definition['Moderator Activity'] = 'Activité du modérateur';
 $Definition['Moderators'] = 'Modérateurs';
 $Definition['moderators'] = 'modérateurs';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'A';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'janvier';
+$Definition['month.long.2'] = 'février';
+$Definition['month.long.3'] = 'mars';
+$Definition['month.long.4'] = 'avril';
+$Definition['month.long.5'] = 'mai';
+$Definition['month.long.6'] = 'juin';
+$Definition['month.long.7'] = 'juillet';
+$Definition['month.long.8'] = 'août';
+$Definition['month.long.9'] = 'septembre';
+$Definition['month.long.10'] = 'octobre';
+$Definition['month.long.11'] = 'novembre';
+$Definition['month.long.12'] = 'décembre';
+$Definition['month.short.1'] = 'janv.';
+$Definition['month.short.2'] = 'févr.';
+$Definition['month.short.3'] = 'mars';
+$Definition['month.short.4'] = 'avr.';
+$Definition['month.short.5'] = 'mai';
+$Definition['month.short.6'] = 'juin';
+$Definition['month.short.7'] = 'juil.';
+$Definition['month.short.8'] = 'août';
+$Definition['month.short.9'] = 'sept.';
+$Definition['month.short.10'] = 'oct.';
+$Definition['month.short.11'] = 'nov.';
+$Definition['month.short.12'] = 'déc.';
 $Definition['months'] = 'mois';
 $Definition['More'] = 'Plus';
 $Definition['More About %s'] = 'A propos de %s';
@@ -1309,6 +1323,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} a averti {WarnUs
 $Definition['was'] = 'était';
 $Definition['We\'ve received a request to change your password.'] = 'Nous avons reçu une demande de changement de votre mot de passe sur %s. Si vous n\'avez pas fait cette demande, merci d\'ignorer ce courriel.';
 $Definition['Website'] = 'Site internet';
+$Definition['weekday.letter.1'] = 'L';
+$Definition['weekday.letter.2'] = 'M';
+$Definition['weekday.letter.3'] = 'M';
+$Definition['weekday.letter.4'] = 'J';
+$Definition['weekday.letter.5'] = 'V';
+$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.7'] = 'D';
+$Definition['weekday.long.1'] = 'lundi';
+$Definition['weekday.long.2'] = 'mardi';
+$Definition['weekday.long.3'] = 'mercredi';
+$Definition['weekday.long.4'] = 'jeudi';
+$Definition['weekday.long.5'] = 'vendredi';
+$Definition['weekday.long.6'] = 'samedi';
+$Definition['weekday.long.7'] = 'dimanche';
+$Definition['weekday.short.1'] = 'lun.';
+$Definition['weekday.short.2'] = 'mar.';
+$Definition['weekday.short.3'] = 'mer.';
+$Definition['weekday.short.4'] = 'jeu.';
+$Definition['weekday.short.5'] = 'ven.';
+$Definition['weekday.short.6'] = 'sam.';
+$Definition['weekday.short.7'] = 'dim.';
 $Definition['weeks'] = 'semaines';
 $Definition['Welcome Aboard!'] = 'Bienvenue !';
 $Definition['were'] = 'étaient';

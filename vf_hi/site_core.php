@@ -349,23 +349,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 आपका दिन शुभ हो!';
 $Definition['Email Unavailable'] = 'ईमेल उपलब्ध नहीं है';
 $Definition['Email visible to other users'] = 'अन्य उपयोगकर्ताओं को ईमेल नज़र आएगा';
-$Definition['EmailWelcome'] = '%2$s ने %3$s पर आपके लिए एक अकाउंट बनाया है।आपके लॉगिन विवरण हैं:
-
-ईमेल: %6$s
-पासवर्ड: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'आप सफलतापूर्वक {Title} से कनेक्ट हो गए हैं। यह रही आपकी जानकारी:
-
-उपयोगकर्तानाम: {User.Name}
-इनसे जुड़े हुए: {ProviderName}
-
-आप इस साइट को {/,exurl,domain} पर देख सकते हैं।';
-$Definition['EmailWelcomeRegister'] = 'आपने {Title} पर अकाउंट के लिए सफलतापूर्वक पंजीकरण कर लिया है। आपकी जानकारी यह रही :
-
-उपयोगकर्ता नाम: {User.Name}
-ईमेल: {User.Email}
-
-आप {/,exurl,domain} पर साइट का प्रयोग कर सकते हैं।';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">पूरी कहानी यहाँ पढ़ें</a></p><div class="ClearFix"></div></div>';
@@ -529,6 +512,42 @@ $Definition['Moderation Queue'] = 'मोडरेशन पंक्ति';
 $Definition['Moderator Activity'] = 'मोडरेटर गतिविधि';
 $Definition['Moderators'] = 'मोडरेटर';
 $Definition['moderators'] = 'मोडरेटर';
+$Definition['month.letter.1'] = 'ज';
+$Definition['month.letter.2'] = 'फ़';
+$Definition['month.letter.3'] = 'मा';
+$Definition['month.letter.4'] = 'अ';
+$Definition['month.letter.5'] = 'म';
+$Definition['month.letter.6'] = 'जू';
+$Definition['month.letter.7'] = 'जु';
+$Definition['month.letter.8'] = 'अ';
+$Definition['month.letter.9'] = 'सि';
+$Definition['month.letter.10'] = 'अ';
+$Definition['month.letter.11'] = 'न';
+$Definition['month.letter.12'] = 'दि';
+$Definition['month.long.1'] = 'जनवरी';
+$Definition['month.long.2'] = 'फ़रवरी';
+$Definition['month.long.3'] = 'मार्च';
+$Definition['month.long.4'] = 'अप्रैल';
+$Definition['month.long.5'] = 'मई';
+$Definition['month.long.6'] = 'जून';
+$Definition['month.long.7'] = 'जुलाई';
+$Definition['month.long.8'] = 'अगस्त';
+$Definition['month.long.9'] = 'सितंबर';
+$Definition['month.long.10'] = 'अक्तूबर';
+$Definition['month.long.11'] = 'नवंबर';
+$Definition['month.long.12'] = 'दिसंबर';
+$Definition['month.short.1'] = 'जन॰';
+$Definition['month.short.2'] = 'फ़र॰';
+$Definition['month.short.3'] = 'मार्च';
+$Definition['month.short.4'] = 'अप्रैल';
+$Definition['month.short.5'] = 'मई';
+$Definition['month.short.6'] = 'जून';
+$Definition['month.short.7'] = 'जुल॰';
+$Definition['month.short.8'] = 'अग॰';
+$Definition['month.short.9'] = 'सित॰';
+$Definition['month.short.10'] = 'अक्तू॰';
+$Definition['month.short.11'] = 'नव॰';
+$Definition['month.short.12'] = 'दिस॰';
 $Definition['months'] = 'महिने';
 $Definition['More'] = 'और अधिक';
 $Definition['More Comments'] = 'और अधिक टिप्पणियाँ';
@@ -983,6 +1002,27 @@ $Definition['WarningTitleFormat'] = '{InsertUserID,User} ने {Points,plural,%
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} ने {Points,plural,%s points} के लिए {WarnUserID,User} को चेतावनी दी है (केवल एक नोटिस)।';
 $Definition['was'] = 'था';
 $Definition['Website'] = 'वेबसाइट';
+$Definition['weekday.letter.1'] = 'सो';
+$Definition['weekday.letter.2'] = 'मं';
+$Definition['weekday.letter.3'] = 'बु';
+$Definition['weekday.letter.4'] = 'गु';
+$Definition['weekday.letter.5'] = 'शु';
+$Definition['weekday.letter.6'] = 'श';
+$Definition['weekday.letter.7'] = 'र';
+$Definition['weekday.long.1'] = 'सोमवार';
+$Definition['weekday.long.2'] = 'मंगलवार';
+$Definition['weekday.long.3'] = 'बुधवार';
+$Definition['weekday.long.4'] = 'गुरुवार';
+$Definition['weekday.long.5'] = 'शुक्रवार';
+$Definition['weekday.long.6'] = 'शनिवार';
+$Definition['weekday.long.7'] = 'रविवार';
+$Definition['weekday.short.1'] = 'सोम';
+$Definition['weekday.short.2'] = 'मंगल';
+$Definition['weekday.short.3'] = 'बुध';
+$Definition['weekday.short.4'] = 'गुरु';
+$Definition['weekday.short.5'] = 'शुक्र';
+$Definition['weekday.short.6'] = 'शनि';
+$Definition['weekday.short.7'] = 'रवि';
 $Definition['weeks'] = 'सप्ताह';
 $Definition['Welcome Aboard!'] = 'यहाँ पर आपका स्वागत है!';
 $Definition['were'] = 'थे';

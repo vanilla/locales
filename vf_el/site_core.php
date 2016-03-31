@@ -497,23 +497,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 Να έχετε μία υπέροχη μέρα!';
 $Definition['Email Unavailable'] = 'Μη Διαθέσιμο Email';
 $Definition['Email visible to other users'] = 'Το email σας να είναι ορατό στους άλλους χρήστες';
-$Definition['EmailWelcome'] = 'Ο χρήστης %2$s δημιούργησε έναν λογαριασμό για εσάς στο  %3$s. Τα στοιχεία της σύνδεσής σας είναι:
-
-  Email: %6$s
-  Κωδικός: %5$s
-  Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Συνδεθήκατε με επιτυχία στο {Title}. Ορίστε οι πληροφορίες σας:
-
-  Όνομα Χρήστη: {User.Name}
-  Σύνδεση με: {ProviderName}
-
-Μπορείτε να επισκεφθείτε το χώρο στη διεύθυνση {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Δημιουργήσατε με επιτυχία ένα λογαριασμό στο {Title}. Οι προσωπικές σας πληροφορίες είναι:
-
- Όνομα χρήστη: {User.Name}
- Email: {User.Email}
-
-Μπορείτε να δείτε το χώρο στη διεύθυνση {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Διαβάστε ολόκληρη την ιστορία εδώ</a></p><div class="ClearFix"></div></div>';
@@ -773,6 +756,42 @@ $Definition['Moderator'] = 'Συντονιστής';
 $Definition['Moderator Activity'] = 'Δραστηριότητα Συντονιστή';
 $Definition['Moderators'] = 'Συντονιστές';
 $Definition['moderators'] = 'συντονιστές';
+$Definition['month.letter.1'] = 'Ι';
+$Definition['month.letter.2'] = 'Φ';
+$Definition['month.letter.3'] = 'Μ';
+$Definition['month.letter.4'] = 'Α';
+$Definition['month.letter.5'] = 'Μ';
+$Definition['month.letter.6'] = 'Ι';
+$Definition['month.letter.7'] = 'Ι';
+$Definition['month.letter.8'] = 'Α';
+$Definition['month.letter.9'] = 'Σ';
+$Definition['month.letter.10'] = 'Ο';
+$Definition['month.letter.11'] = 'Ν';
+$Definition['month.letter.12'] = 'Δ';
+$Definition['month.long.1'] = 'Ιανουαρίου';
+$Definition['month.long.2'] = 'Φεβρουαρίου';
+$Definition['month.long.3'] = 'Μαρτίου';
+$Definition['month.long.4'] = 'Απριλίου';
+$Definition['month.long.5'] = 'Μαΐου';
+$Definition['month.long.6'] = 'Ιουνίου';
+$Definition['month.long.7'] = 'Ιουλίου';
+$Definition['month.long.8'] = 'Αυγούστου';
+$Definition['month.long.9'] = 'Σεπτεμβρίου';
+$Definition['month.long.10'] = 'Οκτωβρίου';
+$Definition['month.long.11'] = 'Νοεμβρίου';
+$Definition['month.long.12'] = 'Δεκεμβρίου';
+$Definition['month.short.1'] = 'Ιαν';
+$Definition['month.short.2'] = 'Φεβ';
+$Definition['month.short.3'] = 'Μαρ';
+$Definition['month.short.4'] = 'Απρ';
+$Definition['month.short.5'] = 'Μαΐ';
+$Definition['month.short.6'] = 'Ιουν';
+$Definition['month.short.7'] = 'Ιουλ';
+$Definition['month.short.8'] = 'Αυγ';
+$Definition['month.short.9'] = 'Σεπ';
+$Definition['month.short.10'] = 'Οκτ';
+$Definition['month.short.11'] = 'Νοε';
+$Definition['month.short.12'] = 'Δεκ';
 $Definition['months'] = 'μήνες';
 $Definition['More'] = 'Περισσότερα';
 $Definition['More About %s'] = 'Περισσότερα Σχετικά με %s';
@@ -1390,6 +1409,27 @@ $Definition['WarningTitleFormat.Notice'] = 'Ο χρήστης {InsertUserID,User
 $Definition['was'] = 'ήταν';
 $Definition['We\'ve received a request to change your password.'] = 'Λάβαμε ένα αίτημα για να αλλάξετε κωδικό πρόσβασης σας στο %s. Αν δεν υποβάλλατε εσείς αυτό το αίτημα, παρακαλούμε αγνοήστε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου.';
 $Definition['Website'] = 'Ιστοσελίδα';
+$Definition['weekday.letter.1'] = 'Δ';
+$Definition['weekday.letter.2'] = 'Τ';
+$Definition['weekday.letter.3'] = 'Τ';
+$Definition['weekday.letter.4'] = 'Π';
+$Definition['weekday.letter.5'] = 'Π';
+$Definition['weekday.letter.6'] = 'Σ';
+$Definition['weekday.letter.7'] = 'Κ';
+$Definition['weekday.long.1'] = 'Δευτέρα';
+$Definition['weekday.long.2'] = 'Τρίτη';
+$Definition['weekday.long.3'] = 'Τετάρτη';
+$Definition['weekday.long.4'] = 'Πέμπτη';
+$Definition['weekday.long.5'] = 'Παρασκευή';
+$Definition['weekday.long.6'] = 'Σάββατο';
+$Definition['weekday.long.7'] = 'Κυριακή';
+$Definition['weekday.short.1'] = 'Δευ';
+$Definition['weekday.short.2'] = 'Τρί';
+$Definition['weekday.short.3'] = 'Τετ';
+$Definition['weekday.short.4'] = 'Πέμ';
+$Definition['weekday.short.5'] = 'Παρ';
+$Definition['weekday.short.6'] = 'Σάβ';
+$Definition['weekday.short.7'] = 'Κυρ';
 $Definition['weeks'] = 'εβδομάδες';
 $Definition['Welcome Aboard!'] = 'Καλωσήλθατε στο χώρο μας!';
 $Definition['were'] = 'ήταν';

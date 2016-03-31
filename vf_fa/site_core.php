@@ -419,28 +419,6 @@ $Definition['EmailStoryNotification'] = '
 ';
 $Definition['Email Unavailable'] = 'این رایانامه در دسترس نیست';
 $Definition['Email visible to other users'] = 'نمایش نشانی رایانامه برای دیگر کاربران';
-$Definition['EmailWelcome'] = '
-کاربر %2$s برای شما یک شناسه‌ی کاربری در %3$s ساخته است. داده‌های ورود شما به انجمن عبارتند از:
-<br>
-<br>Email: %6$s
-<br>Password: %5$s
-<br>Url: %4$s';
-$Definition['EmailWelcomeConnect'] = '
-شما باموفقیت به {Title} وصل شده‌اید. داده‌های ارتباط شما عبارتند از:
-<br>
-<br>Username: {User.Name}
-<br>Connected With: {ProviderName}
-<br>
-نشانی دسترسی به انجمن: {/,exurl,domain}.
-';
-$Definition['EmailWelcomeRegister'] = '
-ثبت‌نام شما در {Title} با موفقیت انجام شده است. داده‌های شناسه‌ی کاربری شما عبارتند از:
-<br>
-<br>Username: {User.Name}
-<br>Email: {User.Email}
-<br>
-نشانی دسترسی به انجمن: {/,exurl,domain}.
-';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
@@ -619,6 +597,42 @@ $Definition['Moderator'] = 'ناظم (Moderator)';
 $Definition['Moderator Activity'] = 'فعالیت‌های ناظم';
 $Definition['Moderators'] = 'مدیران انجمن';
 $Definition['moderators'] = 'ناظم‌ها';
+$Definition['month.letter.1'] = 'ژ';
+$Definition['month.letter.2'] = 'ف';
+$Definition['month.letter.3'] = 'م';
+$Definition['month.letter.4'] = 'آ';
+$Definition['month.letter.5'] = 'م';
+$Definition['month.letter.6'] = 'ژ';
+$Definition['month.letter.7'] = 'ژ';
+$Definition['month.letter.8'] = 'ا';
+$Definition['month.letter.9'] = 'س';
+$Definition['month.letter.10'] = 'ا';
+$Definition['month.letter.11'] = 'ن';
+$Definition['month.letter.12'] = 'د';
+$Definition['month.long.1'] = 'ژانویهٔ';
+$Definition['month.long.2'] = 'فوریهٔ';
+$Definition['month.long.3'] = 'مارس';
+$Definition['month.long.4'] = 'آوریل';
+$Definition['month.long.5'] = 'مهٔ';
+$Definition['month.long.6'] = 'ژوئن';
+$Definition['month.long.7'] = 'ژوئیهٔ';
+$Definition['month.long.8'] = 'اوت';
+$Definition['month.long.9'] = 'سپتامبر';
+$Definition['month.long.10'] = 'اکتبر';
+$Definition['month.long.11'] = 'نوامبر';
+$Definition['month.long.12'] = 'دسامبر';
+$Definition['month.short.1'] = 'ژانویهٔ';
+$Definition['month.short.2'] = 'فوریهٔ';
+$Definition['month.short.3'] = 'مارس';
+$Definition['month.short.4'] = 'آوریل';
+$Definition['month.short.5'] = 'مهٔ';
+$Definition['month.short.6'] = 'ژوئن';
+$Definition['month.short.7'] = 'ژوئیهٔ';
+$Definition['month.short.8'] = 'اوت';
+$Definition['month.short.9'] = 'سپتامبر';
+$Definition['month.short.10'] = 'اکتبر';
+$Definition['month.short.11'] = 'نوامبر';
+$Definition['month.short.12'] = 'دسامبر';
 $Definition['months'] = 'ماه';
 $Definition['More'] = 'بیش';
 $Definition['More Comments'] = 'دیدگاه‌های بیش‌تر';
@@ -1093,6 +1107,27 @@ $Definition['WarningTitleFormat'] = '{InsertUserID,User} به {WarnUserID,User} 
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
 $Definition['was'] = 'بود';
 $Definition['Website'] = 'تارنما';
+$Definition['weekday.letter.1'] = 'د';
+$Definition['weekday.letter.2'] = 'س';
+$Definition['weekday.letter.3'] = 'چ';
+$Definition['weekday.letter.4'] = 'پ';
+$Definition['weekday.letter.5'] = 'ج';
+$Definition['weekday.letter.6'] = 'ش';
+$Definition['weekday.letter.7'] = 'ی';
+$Definition['weekday.long.1'] = 'دوشنبه';
+$Definition['weekday.long.2'] = 'سه‌شنبه';
+$Definition['weekday.long.3'] = 'چهارشنبه';
+$Definition['weekday.long.4'] = 'پنجشنبه';
+$Definition['weekday.long.5'] = 'جمعه';
+$Definition['weekday.long.6'] = 'شنبه';
+$Definition['weekday.long.7'] = 'یکشنبه';
+$Definition['weekday.short.1'] = 'دوشنبه';
+$Definition['weekday.short.2'] = 'سه‌شنبه';
+$Definition['weekday.short.3'] = 'چهارشنبه';
+$Definition['weekday.short.4'] = 'پنجشنبه';
+$Definition['weekday.short.5'] = 'جمعه';
+$Definition['weekday.short.6'] = 'شنبه';
+$Definition['weekday.short.7'] = 'یکشنبه';
 $Definition['weeks'] = 'هفته‌ها';
 $Definition['Welcome Aboard!'] = 'به انجمن خوش آمدید!';
 $Definition['were'] = 'بودند';

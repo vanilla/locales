@@ -482,23 +482,6 @@ Følg linket for at checke det ud:
 Hav en god dag!';
 $Definition['Email Unavailable'] = 'Email allerede i brug';
 $Definition['Email visible to other users'] = 'Email synlig for andre brugere';
-$Definition['EmailWelcome'] = '%2$s har oprettet en bruger for dig på %3$s. Dine adgangsoplysninger er nu:
-
-Email: %6$s
-Kodeord: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Du har successfuldt forbundet dig til {Title}. Her er dine informationer:
-
-Brugernavn: {User.Name}
-Forbundet med: {ProviderName}
-
-Du kan tilgå siden på {/,url,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Du har nu registreret en bruger på {Title}. Her er dine informationer:
-
-Brugernavn: {User.Name}
-Email: {User.Email}
-
-Du kan tilgå siden på {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Læs resten af indlægget her</a></p><div class="ClearFix"></div></div>';
@@ -746,6 +729,42 @@ $Definition['Moderation Queue'] = 'Moderationskø';
 $Definition['Moderator Activity'] = 'Moderatoraktivitet';
 $Definition['Moderators'] = 'Moderatorer';
 $Definition['moderators'] = 'moderatorer';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'A';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'januar';
+$Definition['month.long.2'] = 'februar';
+$Definition['month.long.3'] = 'marts';
+$Definition['month.long.4'] = 'april';
+$Definition['month.long.5'] = 'maj';
+$Definition['month.long.6'] = 'juni';
+$Definition['month.long.7'] = 'juli';
+$Definition['month.long.8'] = 'august';
+$Definition['month.long.9'] = 'september';
+$Definition['month.long.10'] = 'oktober';
+$Definition['month.long.11'] = 'november';
+$Definition['month.long.12'] = 'december';
+$Definition['month.short.1'] = 'jan.';
+$Definition['month.short.2'] = 'feb.';
+$Definition['month.short.3'] = 'mar.';
+$Definition['month.short.4'] = 'apr.';
+$Definition['month.short.5'] = 'maj';
+$Definition['month.short.6'] = 'jun.';
+$Definition['month.short.7'] = 'jul.';
+$Definition['month.short.8'] = 'aug.';
+$Definition['month.short.9'] = 'sep.';
+$Definition['month.short.10'] = 'okt.';
+$Definition['month.short.11'] = 'nov.';
+$Definition['month.short.12'] = 'dec.';
 $Definition['months'] = 'måneder';
 $Definition['More'] = 'Mere';
 $Definition['More About %s'] = 'Mere om %s';
@@ -1315,6 +1334,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} advarede {WarnUs
 $Definition['was'] = 'var';
 $Definition['We\'ve received a request to change your password.'] = 'Vi har modtaget en anmodning om at ændre din adgangskode hos %s. Hvis du ikke lavede anmodning, så ignorerer venligst denne e-mail.';
 $Definition['Website'] = 'Hjemmeside';
+$Definition['weekday.letter.1'] = 'M';
+$Definition['weekday.letter.2'] = 'T';
+$Definition['weekday.letter.3'] = 'O';
+$Definition['weekday.letter.4'] = 'T';
+$Definition['weekday.letter.5'] = 'F';
+$Definition['weekday.letter.6'] = 'L';
+$Definition['weekday.letter.7'] = 'S';
+$Definition['weekday.long.1'] = 'mandag';
+$Definition['weekday.long.2'] = 'tirsdag';
+$Definition['weekday.long.3'] = 'onsdag';
+$Definition['weekday.long.4'] = 'torsdag';
+$Definition['weekday.long.5'] = 'fredag';
+$Definition['weekday.long.6'] = 'lørdag';
+$Definition['weekday.long.7'] = 'søndag';
+$Definition['weekday.short.1'] = 'man.';
+$Definition['weekday.short.2'] = 'tir.';
+$Definition['weekday.short.3'] = 'ons.';
+$Definition['weekday.short.4'] = 'tor.';
+$Definition['weekday.short.5'] = 'fre.';
+$Definition['weekday.short.6'] = 'lør.';
+$Definition['weekday.short.7'] = 'søn.';
 $Definition['weeks'] = 'uger';
 $Definition['Welcome Aboard!'] = 'Velkommen ombord!';
 $Definition['were'] = 'var';

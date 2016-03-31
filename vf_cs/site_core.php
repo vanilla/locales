@@ -473,23 +473,6 @@ Pokud chceš zprávu zobrazit, klikni na následující odkaz:
 Pěkný den!';
 $Definition['Email Unavailable'] = 'E-mail není dostupný';
 $Definition['Email visible to other users'] = 'E-mail vidí ostatní uživatelé';
-$Definition['EmailWelcome'] = '%2$s ti vytvořil účet na %3$s. Tvoje přihlašovací údaje jsou:
-
- E-mail: %6$s
- Heslo: %5$s
- Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Byl jsi úspěšně zaregistrován na {Title} s následujícími údaji:
-
- Uživatelské jméno: {User.Name}
- Připojen s: {ProviderName}
-
-Na stránku přejdeš kliknutím na následující odkaz: {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Byl jsi úspěšně zaregistrován s účtem {Title}. Tvůj účet byl vytvořen s následujícími údaji:
-
- Uživatelské jméno: {User.Name}
- E-mail: {User.Email}
-
-Na stránku můžeš přejít kliknutím na odkaz zde: {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Celou konverzaci přečíst zde</a></p><div class="ClearFix"></div></div>';
@@ -744,6 +727,42 @@ $Definition['Moderator'] = 'Moderátor';
 $Definition['Moderator Activity'] = 'Moderátorská aktivita';
 $Definition['Moderators'] = 'Moderátoři';
 $Definition['moderators'] = 'moderátoři';
+$Definition['month.letter.1'] = '1';
+$Definition['month.letter.2'] = '2';
+$Definition['month.letter.3'] = '3';
+$Definition['month.letter.4'] = '4';
+$Definition['month.letter.5'] = '5';
+$Definition['month.letter.6'] = '6';
+$Definition['month.letter.7'] = '7';
+$Definition['month.letter.8'] = '8';
+$Definition['month.letter.9'] = '9';
+$Definition['month.letter.10'] = '10';
+$Definition['month.letter.11'] = '11';
+$Definition['month.letter.12'] = '12';
+$Definition['month.long.1'] = 'ledna';
+$Definition['month.long.2'] = 'února';
+$Definition['month.long.3'] = 'března';
+$Definition['month.long.4'] = 'dubna';
+$Definition['month.long.5'] = 'května';
+$Definition['month.long.6'] = 'června';
+$Definition['month.long.7'] = 'července';
+$Definition['month.long.8'] = 'srpna';
+$Definition['month.long.9'] = 'září';
+$Definition['month.long.10'] = 'října';
+$Definition['month.long.11'] = 'listopadu';
+$Definition['month.long.12'] = 'prosince';
+$Definition['month.short.1'] = 'led';
+$Definition['month.short.2'] = 'úno';
+$Definition['month.short.3'] = 'bře';
+$Definition['month.short.4'] = 'dub';
+$Definition['month.short.5'] = 'kvě';
+$Definition['month.short.6'] = 'čvn';
+$Definition['month.short.7'] = 'čvc';
+$Definition['month.short.8'] = 'srp';
+$Definition['month.short.9'] = 'zář';
+$Definition['month.short.10'] = 'říj';
+$Definition['month.short.11'] = 'lis';
+$Definition['month.short.12'] = 'pro';
 $Definition['months'] = 'měsíce';
 $Definition['More'] = 'Více';
 $Definition['More About %s'] = 'Více o %s';
@@ -1321,6 +1340,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} varován {WarnUs
 $Definition['was'] = 'byl(a)';
 $Definition['We\'ve received a request to change your password.'] = 'Obdrželi jsme požadavek na změnu vašeho hesla na %s. Pokud jste nevznesli tento požadavek, tak prosím ignorujte tento email.';
 $Definition['Website'] = 'Webová stránka';
+$Definition['weekday.letter.1'] = 'P';
+$Definition['weekday.letter.2'] = 'Ú';
+$Definition['weekday.letter.3'] = 'S';
+$Definition['weekday.letter.4'] = 'Č';
+$Definition['weekday.letter.5'] = 'P';
+$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.7'] = 'N';
+$Definition['weekday.long.1'] = 'pondělí';
+$Definition['weekday.long.2'] = 'úterý';
+$Definition['weekday.long.3'] = 'středa';
+$Definition['weekday.long.4'] = 'čtvrtek';
+$Definition['weekday.long.5'] = 'pátek';
+$Definition['weekday.long.6'] = 'sobota';
+$Definition['weekday.long.7'] = 'neděle';
+$Definition['weekday.short.1'] = 'po';
+$Definition['weekday.short.2'] = 'út';
+$Definition['weekday.short.3'] = 'st';
+$Definition['weekday.short.4'] = 'čt';
+$Definition['weekday.short.5'] = 'pá';
+$Definition['weekday.short.6'] = 'so';
+$Definition['weekday.short.7'] = 'ne';
 $Definition['weeks'] = 'týdnů';
 $Definition['Welcome Aboard!'] = 'Vítej na Ice & Fire!';
 $Definition['were'] = 'byli';

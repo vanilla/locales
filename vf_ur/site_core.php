@@ -479,23 +479,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 ایک عظیم پائیں!';
 $Definition['Email Unavailable'] = 'ای میل دستیاب نہیں';
 $Definition['Email visible to other users'] = 'ای میل دیگر صارفین کے لیے ظاہر';
-$Definition['EmailWelcome'] = '%2$s نے %3$s پر آپ کے لئے ایک اکاؤنٹ بنایا ہے۔ آپ کی لاگ ان ساکھیں ہیں:
-
-ای میل: %6$s
-پاس ورڈ: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'آپ نے کا کامیابی سے {Title} سے کنیکٹ کیا۔ آپ کی معلومات یہاں ہے:
-
- صارف کا نام: {User.Name}
-کے ساتھ کنیکٹ: {ProviderName}
-
-آپ {/,exurl,domain} پر سائیٹ رسائی کر سکتے ہیں۔';
-$Definition['EmailWelcomeRegister'] = 'آپ نے {Title} میں ایک اکاؤنٹ کے لیے کامیابی سے رجسٹر کیا۔ آپ کی معلومات یہاں ہے:
-
-صارف کا نام: {User.Name}
-ای میل: {User.Email}
-
-آپ یہاں سے سائٹ تک رسائی حاصل کرسکتے ہیں {/,exurl,domain}۔';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent"> {Image} <p>{Excerpt}</p>
  <strong>{Title}</strong>
  <p><a href="{Url}">یہاں مکمل کہانی پڑھیں</a></p> <div class="ClearFix"></div></div>';
@@ -741,6 +724,42 @@ $Definition['Moderator'] = 'معتدل';
 $Definition['Moderator Activity'] = 'معتدل سرگرمی';
 $Definition['Moderators'] = 'منتظمین';
 $Definition['moderators'] = 'منتظمین';
+$Definition['month.letter.1'] = 'J';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'A';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'J';
+$Definition['month.letter.7'] = 'J';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'جنوری';
+$Definition['month.long.2'] = 'فروری';
+$Definition['month.long.3'] = 'مارچ';
+$Definition['month.long.4'] = 'اپریل';
+$Definition['month.long.5'] = 'مئی';
+$Definition['month.long.6'] = 'جون';
+$Definition['month.long.7'] = 'جولائی';
+$Definition['month.long.8'] = 'اگست';
+$Definition['month.long.9'] = 'ستمبر';
+$Definition['month.long.10'] = 'اکتوبر';
+$Definition['month.long.11'] = 'نومبر';
+$Definition['month.long.12'] = 'دسمبر';
+$Definition['month.short.1'] = 'جنوری';
+$Definition['month.short.2'] = 'فروری';
+$Definition['month.short.3'] = 'مارچ';
+$Definition['month.short.4'] = 'اپریل';
+$Definition['month.short.5'] = 'مئی';
+$Definition['month.short.6'] = 'جون';
+$Definition['month.short.7'] = 'جولائی';
+$Definition['month.short.8'] = 'اگست';
+$Definition['month.short.9'] = 'ستمبر';
+$Definition['month.short.10'] = 'اکتوبر';
+$Definition['month.short.11'] = 'نومبر';
+$Definition['month.short.12'] = 'دسمبر';
 $Definition['months'] = 'ماہ';
 $Definition['More'] = 'زیادہ';
 $Definition['More About %s'] = '%s کے بارے میں مزید';
@@ -1325,6 +1344,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} نے {WarnUserID
 $Definition['was'] = 'تھا';
 $Definition['We\'ve received a request to change your password.'] = 'ہمیں %s پر آپ کا پاس ورڈ تبدیل کرنے کی درخواست موصول ہوئے ہیں۔ اگر آپ نے یہ درخواست نہیں کی ہے تو، براہ مہربانی اس ای میل کو نظر انداز کریں۔';
 $Definition['Website'] = 'ویب سائٹ';
+$Definition['weekday.letter.1'] = 'M';
+$Definition['weekday.letter.2'] = 'T';
+$Definition['weekday.letter.3'] = 'W';
+$Definition['weekday.letter.4'] = 'T';
+$Definition['weekday.letter.5'] = 'F';
+$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.7'] = 'S';
+$Definition['weekday.long.1'] = 'سوموار';
+$Definition['weekday.long.2'] = 'منگل';
+$Definition['weekday.long.3'] = 'بدھ';
+$Definition['weekday.long.4'] = 'جمعرات';
+$Definition['weekday.long.5'] = 'جمعہ';
+$Definition['weekday.long.6'] = 'ہفتہ';
+$Definition['weekday.long.7'] = 'اتوار';
+$Definition['weekday.short.1'] = 'سوموار';
+$Definition['weekday.short.2'] = 'منگل';
+$Definition['weekday.short.3'] = 'بدھ';
+$Definition['weekday.short.4'] = 'جمعرات';
+$Definition['weekday.short.5'] = 'جمعہ';
+$Definition['weekday.short.6'] = 'ہفتہ';
+$Definition['weekday.short.7'] = 'اتوار';
 $Definition['weeks'] = 'ہفتے';
 $Definition['Welcome Aboard!'] = 'بیرون ملک میں خوش آمدید!';
 $Definition['were'] = 'تھے';

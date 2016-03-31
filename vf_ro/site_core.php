@@ -489,23 +489,6 @@ Urmați link-ul de mai jos pentru mai multe informații:
 %2$s';
 $Definition['Email Unavailable'] = 'Email indisponibil';
 $Definition['Email visible to other users'] = 'E-mail-ul vizibil pentru alți utilizatori';
-$Definition['EmailWelcome'] = '%2$s a creat un cont pentru dumneavoastră pe %3$s. Datele de autentificare sunt:
-
-  Email: %6$s
-  Parola: %5$s
-  Adresa Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'V-ați înregistrat cu succes la forumul {Title}. Datele de conectare sunt:
-
-  Utilizator: {User.Name}
-  Conectat cu: {ProviderName}
-
-Puteți accesa site-ul la {/,url,domain}.';
-$Definition['EmailWelcomeRegister'] = 'V-ați înregistrat cu succes prin contul de {Title}. Datele de conectare sunt:
-
-  Utilizator: {User.Name}
-  Email: {User.Email}
-
-Puteti accesa site-ul la {/,url,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent"> {Image} <strong>{Title}</strong> <p>{Excerpt}</p> <p><a href="{Url}"> Citiți mai mult aici</a></p> <div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent"> {Image} <strong>{Title}</strong> <p>{Excerpt}</p> <p><a href="{Url}"> Citiți mai mult aici</a></p> <div class="ClearFix"></div></div>';
@@ -755,6 +738,42 @@ $Definition['Moderation Queue'] = 'Moderare a listei de așteptare';
 $Definition['Moderator Activity'] = 'Activitate Moderator';
 $Definition['Moderators'] = 'Moderatorii';
 $Definition['moderators'] = 'moderatori';
+$Definition['month.letter.1'] = 'I';
+$Definition['month.letter.2'] = 'F';
+$Definition['month.letter.3'] = 'M';
+$Definition['month.letter.4'] = 'A';
+$Definition['month.letter.5'] = 'M';
+$Definition['month.letter.6'] = 'I';
+$Definition['month.letter.7'] = 'I';
+$Definition['month.letter.8'] = 'A';
+$Definition['month.letter.9'] = 'S';
+$Definition['month.letter.10'] = 'O';
+$Definition['month.letter.11'] = 'N';
+$Definition['month.letter.12'] = 'D';
+$Definition['month.long.1'] = 'ianuarie';
+$Definition['month.long.2'] = 'februarie';
+$Definition['month.long.3'] = 'martie';
+$Definition['month.long.4'] = 'aprilie';
+$Definition['month.long.5'] = 'mai';
+$Definition['month.long.6'] = 'iunie';
+$Definition['month.long.7'] = 'iulie';
+$Definition['month.long.8'] = 'august';
+$Definition['month.long.9'] = 'septembrie';
+$Definition['month.long.10'] = 'octombrie';
+$Definition['month.long.11'] = 'noiembrie';
+$Definition['month.long.12'] = 'decembrie';
+$Definition['month.short.1'] = 'ian.';
+$Definition['month.short.2'] = 'feb.';
+$Definition['month.short.3'] = 'mar.';
+$Definition['month.short.4'] = 'apr.';
+$Definition['month.short.5'] = 'mai';
+$Definition['month.short.6'] = 'iun.';
+$Definition['month.short.7'] = 'iul.';
+$Definition['month.short.8'] = 'aug.';
+$Definition['month.short.9'] = 'sept.';
+$Definition['month.short.10'] = 'oct.';
+$Definition['month.short.11'] = 'nov.';
+$Definition['month.short.12'] = 'dec.';
 $Definition['months'] = 'luni';
 $Definition['More'] = 'Mai mult';
 $Definition['More About %s'] = 'Mai multe despre %s';
@@ -1383,6 +1402,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} avertizat {WarnU
 $Definition['was'] = 'a fost';
 $Definition['We\'ve received a request to change your password.'] = 'Am primit o cerere de schimbare a parolei dumneavoastră la %s. Dacă nu ați făcut această cerere, va rugăm să ignorați acest email.';
 $Definition['Website'] = 'Pagina Web';
+$Definition['weekday.letter.1'] = 'L';
+$Definition['weekday.letter.2'] = 'M';
+$Definition['weekday.letter.3'] = 'M';
+$Definition['weekday.letter.4'] = 'J';
+$Definition['weekday.letter.5'] = 'V';
+$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.7'] = 'D';
+$Definition['weekday.long.1'] = 'luni';
+$Definition['weekday.long.2'] = 'marți';
+$Definition['weekday.long.3'] = 'miercuri';
+$Definition['weekday.long.4'] = 'joi';
+$Definition['weekday.long.5'] = 'vineri';
+$Definition['weekday.long.6'] = 'sâmbătă';
+$Definition['weekday.long.7'] = 'duminică';
+$Definition['weekday.short.1'] = 'lun.';
+$Definition['weekday.short.2'] = 'mar.';
+$Definition['weekday.short.3'] = 'mie.';
+$Definition['weekday.short.4'] = 'joi';
+$Definition['weekday.short.5'] = 'vin.';
+$Definition['weekday.short.6'] = 'sâm.';
+$Definition['weekday.short.7'] = 'dum.';
 $Definition['weeks'] = 'săptămâni';
 $Definition['Welcome Aboard!'] = 'Bun Venit!';
 $Definition['were'] = 'au fost';

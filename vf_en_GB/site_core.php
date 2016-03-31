@@ -17,11 +17,6 @@ $Definition['EmailPassword'] = '%2$s has reset your password at %3$s. Your login
   Email: %6$s
   Password: %5$s
   URL: %4$s';
-$Definition['EmailWelcome'] = '%2$s has created an account for you at %3$s. Your login credentials are:
-
-  Email: %6$s
-  Password: %5$s
-  URL: %4$s';
 $Definition['Enter Your OpenID Url'] = 'Enter Your OpenID URL';
 
 $Definition['FileSize'] = 'File Size';

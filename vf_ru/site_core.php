@@ -516,30 +516,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 Всего вам хорошего!';
 $Definition['Email Unavailable'] = 'Почта недоступна';
 $Definition['Email visible to other users'] = 'Email виден другим пользователям';
-$Definition['EmailWelcome'] = '%2$s создал аккаунт для вас на сайте %3$s.
-
-Вот ваши данные:
-Email: %6$s
-Пароль: %5$s
-
-Адрес сайта: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Вы успешно присоединились к сайту {Title}.
-
-Вот ваши данные:
-Имя пользователя: {User.Name}
-Присоединил: {ProviderName}
-
-Адрес сайта: {/,url,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Здравствуйте, {User.Name}!
-
-Вы успешно зарегистрировались на {Title}.
-
-Вот ваши данные:
-Имя пользователя: {User.Name}
-Email: {User.Email}
-Сайт доступен по ссылке {/,exurl,domain}.
-
-Благодарим вас за внимание!';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читайте полный рассказ здесь</a></p><div class="ClearFix"></div></div>';
@@ -815,6 +791,42 @@ $Definition['Moderator'] = 'Модератор';
 $Definition['Moderator Activity'] = 'Модераторская активность';
 $Definition['Moderators'] = 'Модераторы';
 $Definition['moderators'] = 'модераторы';
+$Definition['month.letter.1'] = 'Я';
+$Definition['month.letter.2'] = 'Ф';
+$Definition['month.letter.3'] = 'М';
+$Definition['month.letter.4'] = 'А';
+$Definition['month.letter.5'] = 'М';
+$Definition['month.letter.6'] = 'И';
+$Definition['month.letter.7'] = 'И';
+$Definition['month.letter.8'] = 'А';
+$Definition['month.letter.9'] = 'С';
+$Definition['month.letter.10'] = 'О';
+$Definition['month.letter.11'] = 'Н';
+$Definition['month.letter.12'] = 'Д';
+$Definition['month.long.1'] = 'января';
+$Definition['month.long.2'] = 'февраля';
+$Definition['month.long.3'] = 'марта';
+$Definition['month.long.4'] = 'апреля';
+$Definition['month.long.5'] = 'мая';
+$Definition['month.long.6'] = 'июня';
+$Definition['month.long.7'] = 'июля';
+$Definition['month.long.8'] = 'августа';
+$Definition['month.long.9'] = 'сентября';
+$Definition['month.long.10'] = 'октября';
+$Definition['month.long.11'] = 'ноября';
+$Definition['month.long.12'] = 'декабря';
+$Definition['month.short.1'] = 'янв.';
+$Definition['month.short.2'] = 'февр.';
+$Definition['month.short.3'] = 'мар.';
+$Definition['month.short.4'] = 'апр.';
+$Definition['month.short.5'] = 'мая';
+$Definition['month.short.6'] = 'июн.';
+$Definition['month.short.7'] = 'июл.';
+$Definition['month.short.8'] = 'авг.';
+$Definition['month.short.9'] = 'сент.';
+$Definition['month.short.10'] = 'окт.';
+$Definition['month.short.11'] = 'нояб.';
+$Definition['month.short.12'] = 'дек.';
 $Definition['months'] = 'месяцев';
 $Definition['More'] = 'Ещё';
 $Definition['More About %s'] = 'Подробнее о %s';
@@ -1457,6 +1469,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} предупре
 $Definition['was'] = 'было';
 $Definition['We\'ve received a request to change your password.'] = 'Мы получили запрос на смену вашего пароля в %s. Если вы не делали этот запрос, пожалуйста, проигнорируйте это письмо.';
 $Definition['Website'] = 'Вебсайт';
+$Definition['weekday.letter.1'] = 'пн';
+$Definition['weekday.letter.2'] = 'вт';
+$Definition['weekday.letter.3'] = 'ср';
+$Definition['weekday.letter.4'] = 'чт';
+$Definition['weekday.letter.5'] = 'пт';
+$Definition['weekday.letter.6'] = 'сб';
+$Definition['weekday.letter.7'] = 'вс';
+$Definition['weekday.long.1'] = 'понедельник';
+$Definition['weekday.long.2'] = 'вторник';
+$Definition['weekday.long.3'] = 'среда';
+$Definition['weekday.long.4'] = 'четверг';
+$Definition['weekday.long.5'] = 'пятница';
+$Definition['weekday.long.6'] = 'суббота';
+$Definition['weekday.long.7'] = 'воскресенье';
+$Definition['weekday.short.1'] = 'пн';
+$Definition['weekday.short.2'] = 'вт';
+$Definition['weekday.short.3'] = 'ср';
+$Definition['weekday.short.4'] = 'чт';
+$Definition['weekday.short.5'] = 'пт';
+$Definition['weekday.short.6'] = 'сб';
+$Definition['weekday.short.7'] = 'вс';
 $Definition['weeks'] = 'недели';
 $Definition['Welcome Aboard!'] = 'Добро пожаловать к нам!';
 $Definition['were'] = 'где';

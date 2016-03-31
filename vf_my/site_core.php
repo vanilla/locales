@@ -220,35 +220,6 @@ $Definition['EmailPassword'] = 'Hello %1$s,
 
 Have a great day!';
 $Definition['Email Unavailable'] = 'email အသုံးပြု၍မရပါ';
-$Definition['EmailWelcome'] = 'Hello %1$s,
-
-%2$s has created an account for you at %3$s. Your login credentials are:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s
-
-Have a great day!';
-$Definition['EmailWelcomeConnect'] = 'Hello {User.Name},
-
-You have successfully connected to {Title}. Here is your information:
-
-  Username: {User.Name}
-  Connected With: {ProviderName}
-
-You can access the site at {/,url,domain}.
-
-Have a great day!';
-$Definition['EmailWelcomeRegister'] = 'Hello {User.Name},
-
-You have successfully registered for an account at {Title}. Here is your information:
-
-  Username: {User.Name}
-  Email: {User.Email}
-
-You can access the site at {/,url,domain}.
-
-Have a great day!';
 $Definition['English'] = 'အင်္ဂလိပ်';
 $Definition['Enter your email address'] = 'email လိပ်စာ ထည့်ပါ';
 $Definition['Enter your Email address or username'] = 'သင့် Email လိပ်စာ သို့မဟုတ် အသုံးပြုသူ အမည်ထည့်ပါ။';
@@ -323,6 +294,42 @@ $Definition['Minor'] = 'အငယ်စား';
 $Definition['Moderator Activity'] = 'အုပ်ချုပ်ရေး လှုပ်ရှားမှု';
 $Definition['Moderators'] = 'Moderator';
 $Definition['moderators'] = 'အုပ်ချုပ်ရေးများ';
+$Definition['month.letter.1'] = 'ဇ';
+$Definition['month.letter.2'] = 'ဖ';
+$Definition['month.letter.3'] = 'မ';
+$Definition['month.letter.4'] = 'ဧ';
+$Definition['month.letter.5'] = 'မ';
+$Definition['month.letter.6'] = 'ဇ';
+$Definition['month.letter.7'] = 'ဇ';
+$Definition['month.letter.8'] = 'ဩ';
+$Definition['month.letter.9'] = 'စ';
+$Definition['month.letter.10'] = 'အ';
+$Definition['month.letter.11'] = 'န';
+$Definition['month.letter.12'] = 'ဒ';
+$Definition['month.long.1'] = 'ဇန်နဝါရီ';
+$Definition['month.long.2'] = 'ဖေဖော်ဝါရီ';
+$Definition['month.long.3'] = 'မတ်';
+$Definition['month.long.4'] = 'ဧပြီ';
+$Definition['month.long.5'] = 'မေ';
+$Definition['month.long.6'] = 'ဇွန်';
+$Definition['month.long.7'] = 'ဇူလိုင်';
+$Definition['month.long.8'] = 'ဩဂုတ်';
+$Definition['month.long.9'] = 'စက်တင်ဘာ';
+$Definition['month.long.10'] = 'အောက်တိုဘာ';
+$Definition['month.long.11'] = 'နိုဝင်ဘာ';
+$Definition['month.long.12'] = 'ဒီဇင်ဘာ';
+$Definition['month.short.1'] = 'ဇန်';
+$Definition['month.short.2'] = 'ဖေ';
+$Definition['month.short.3'] = 'မတ်';
+$Definition['month.short.4'] = 'ဧပြီ';
+$Definition['month.short.5'] = 'မေ';
+$Definition['month.short.6'] = 'ဇွန်';
+$Definition['month.short.7'] = 'ဇူ';
+$Definition['month.short.8'] = 'ဩ';
+$Definition['month.short.9'] = 'စက်';
+$Definition['month.short.10'] = 'အောက်';
+$Definition['month.short.11'] = 'နို';
+$Definition['month.short.12'] = 'ဒီ';
 $Definition['More'] = 'ထပ်ပြီးတော့';
 $Definition['More Discussions'] = 'ဒီထက်ပိုသော ဆွေးနွေးချက်များ';
 $Definition['Most Recent'] = 'နောက်ဆုံးပြန်စာ';
@@ -484,6 +491,27 @@ $Definition['Votes'] = 'ထောက်ခံမှု';
 
 $Definition['wall'] = 'မျက်နှာစာ';
 $Definition['Warnings'] = 'သတိပေးချက်များ';
+$Definition['weekday.letter.1'] = 'တ';
+$Definition['weekday.letter.2'] = 'အ';
+$Definition['weekday.letter.3'] = 'ဗ';
+$Definition['weekday.letter.4'] = 'က';
+$Definition['weekday.letter.5'] = 'သ';
+$Definition['weekday.letter.6'] = 'စ';
+$Definition['weekday.letter.7'] = 'တ';
+$Definition['weekday.long.1'] = 'တနင်္လာ';
+$Definition['weekday.long.2'] = 'အင်္ဂါ';
+$Definition['weekday.long.3'] = 'ဗုဒ္ဓဟူး';
+$Definition['weekday.long.4'] = 'ကြာသပတေး';
+$Definition['weekday.long.5'] = 'သောကြာ';
+$Definition['weekday.long.6'] = 'စနေ';
+$Definition['weekday.long.7'] = 'တနင်္ဂနွေ';
+$Definition['weekday.short.1'] = 'တနင်္လာ';
+$Definition['weekday.short.2'] = 'အင်္ဂါ';
+$Definition['weekday.short.3'] = 'ဗုဒ္ဓဟူး';
+$Definition['weekday.short.4'] = 'ကြာသပတေး';
+$Definition['weekday.short.5'] = 'သောကြာ';
+$Definition['weekday.short.6'] = 'စနေ';
+$Definition['weekday.short.7'] = 'တနင်္ဂနွေ';
 $Definition['Welcome Aboard!'] = 'မင်္ဂလာပါ!';
 $Definition['Why are you Banning this user?'] = 'ဘာကြောင့် ဒီတစ်ယောက်ကို အသုံးပြုခွင့် ရပ်ဆိုင်းရသလဲ ?';
 $Definition['Why do you want to join?'] = 'သင်ဘာကြောင့် ချိတ်ဆက်ချင်တာလဲ ?';

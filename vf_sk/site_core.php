@@ -485,24 +485,6 @@ Následuj odkaz nižšie:
 Pekný deň!';
 $Definition['Email Unavailable'] = 'E-mail nie je k dispozícii';
 $Definition['Email visible to other users'] = 'E-mail viditeľný pre ostatných používatelov';
-$Definition['EmailWelcome'] = '%2$s Ti vytvoril účet na %3$s. Vaše prihlasovacie údaje sú: 
-
-E-mail: %6$s
-Heslo: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Úspešne si sa pripojil k {Title}. Tu sú vaše informácie: 
-
-Meno: {User.Name} 
-Spojený s: {ProviderName} 
-
-Môžetš získať prístup k webu na {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Registrácia pre účet na {Title} bola úspešná. Tu nájdete vaše informácie:
-
-
-Používateľské meno: {User.Name}
-  E-mail: {User.Email}
-
-Prístup na stránku je tu: {/,exurl,domain}';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Prečítaj si celý článok tu</a></p><div class="ClearFix"></div></div>';
@@ -757,6 +739,42 @@ $Definition['Moderator'] = 'Moderátor';
 $Definition['Moderator Activity'] = 'Činnosti moderátora';
 $Definition['Moderators'] = 'Moderátori';
 $Definition['moderators'] = 'Moderátori';
+$Definition['month.letter.1'] = 'j';
+$Definition['month.letter.2'] = 'f';
+$Definition['month.letter.3'] = 'm';
+$Definition['month.letter.4'] = 'a';
+$Definition['month.letter.5'] = 'm';
+$Definition['month.letter.6'] = 'j';
+$Definition['month.letter.7'] = 'j';
+$Definition['month.letter.8'] = 'a';
+$Definition['month.letter.9'] = 's';
+$Definition['month.letter.10'] = 'o';
+$Definition['month.letter.11'] = 'n';
+$Definition['month.letter.12'] = 'd';
+$Definition['month.long.1'] = 'januára';
+$Definition['month.long.2'] = 'februára';
+$Definition['month.long.3'] = 'marca';
+$Definition['month.long.4'] = 'apríla';
+$Definition['month.long.5'] = 'mája';
+$Definition['month.long.6'] = 'júna';
+$Definition['month.long.7'] = 'júla';
+$Definition['month.long.8'] = 'augusta';
+$Definition['month.long.9'] = 'septembra';
+$Definition['month.long.10'] = 'októbra';
+$Definition['month.long.11'] = 'novembra';
+$Definition['month.long.12'] = 'decembra';
+$Definition['month.short.1'] = 'jan';
+$Definition['month.short.2'] = 'feb';
+$Definition['month.short.3'] = 'mar';
+$Definition['month.short.4'] = 'apr';
+$Definition['month.short.5'] = 'máj';
+$Definition['month.short.6'] = 'jún';
+$Definition['month.short.7'] = 'júl';
+$Definition['month.short.8'] = 'aug';
+$Definition['month.short.9'] = 'sep';
+$Definition['month.short.10'] = 'okt';
+$Definition['month.short.11'] = 'nov';
+$Definition['month.short.12'] = 'dec';
 $Definition['months'] = 'mesiacov';
 $Definition['More'] = 'Viac';
 $Definition['More About %s'] = 'Viac o %s';
@@ -1353,6 +1371,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} varoval {WarnUse
 $Definition['was'] = 'bola';
 $Definition['We\'ve received a request to change your password.'] = 'Dostali sme žiadosť o zmenu vašeho hesla na %s. Ak ste túto žiadosč neodoslali vy, prosím ignorujte tento e-mail.';
 $Definition['Website'] = 'Webová stránka';
+$Definition['weekday.letter.1'] = 'p';
+$Definition['weekday.letter.2'] = 'u';
+$Definition['weekday.letter.3'] = 's';
+$Definition['weekday.letter.4'] = 'š';
+$Definition['weekday.letter.5'] = 'p';
+$Definition['weekday.letter.6'] = 's';
+$Definition['weekday.letter.7'] = 'n';
+$Definition['weekday.long.1'] = 'pondelok';
+$Definition['weekday.long.2'] = 'utorok';
+$Definition['weekday.long.3'] = 'streda';
+$Definition['weekday.long.4'] = 'štvrtok';
+$Definition['weekday.long.5'] = 'piatok';
+$Definition['weekday.long.6'] = 'sobota';
+$Definition['weekday.long.7'] = 'nedeľa';
+$Definition['weekday.short.1'] = 'po';
+$Definition['weekday.short.2'] = 'ut';
+$Definition['weekday.short.3'] = 'st';
+$Definition['weekday.short.4'] = 'št';
+$Definition['weekday.short.5'] = 'pi';
+$Definition['weekday.short.6'] = 'so';
+$Definition['weekday.short.7'] = 'ne';
 $Definition['weeks'] = 'týždne';
 $Definition['Welcome Aboard!'] = 'Vitajte u nás!';
 $Definition['were'] = 'boli';

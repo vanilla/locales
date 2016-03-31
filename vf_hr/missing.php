@@ -123,23 +123,6 @@ Follow the link below to check it out:
 %2$s
 
 Have a great day!';
-$Definition['EmailWelcome'] = '%2$s has created an account for you at %3$s. Your login credentials are:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'You have successfully connected to {Title}. Here is your information:
-
-  Username: {User.Name}
-  Connected With: {ProviderName}
-
-You can access the site at {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'You have successfully registered for an account at {Title}. Here is your information:
-
-  Username: {User.Name}
-  Email: {User.Email}
-
-You can access the site at {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';

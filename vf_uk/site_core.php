@@ -491,35 +491,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 Приємного дня!';
 $Definition['Email Unavailable'] = 'Email недоступний';
 $Definition['Email visible to other users'] = 'Email видно іншим користувачами';
-$Definition['EmailWelcome'] = 'Доброго дня, %1$s,
-
-%2$s створив акаунт для вас на %3$s. Параметри облікового запису:
-
-  Email: %6$s
-  Пароль: %5$s
-  Url: %4$s
-
-Приємного дня!';
-$Definition['EmailWelcomeConnect'] = 'Доброго дня, {User.Name},
-
-Ви успішно підключились до {Title}. Ваша інформація:
-
-  Логін: {User.Name}
-  Підключено до: {ProviderName}
-
-Ви можете отримати доступ до сайту тут: {/,url,domain}.
-
-Приємного дня!';
-$Definition['EmailWelcomeRegister'] = 'Доброго дня, {User.Name},
-
-Ви успішно зареєстрували аккаунт на {Title}. Ваша інформація:
-
-  Логін: {User.Name}
-  Email: {User.Email}
-
-Ви можете отримати доступ до сайту тут: {/,url,domain}.
-
-Приємного дня!';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читати повністю...</a></p><div class="ClearFix"></div></div>';
@@ -777,6 +748,42 @@ $Definition['Moderator'] = 'Модератор';
 $Definition['Moderator Activity'] = 'Активність модератора';
 $Definition['Moderators'] = 'Модератори';
 $Definition['moderators'] = 'модератори';
+$Definition['month.letter.1'] = 'С';
+$Definition['month.letter.2'] = 'Л';
+$Definition['month.letter.3'] = 'Б';
+$Definition['month.letter.4'] = 'К';
+$Definition['month.letter.5'] = 'Т';
+$Definition['month.letter.6'] = 'Ч';
+$Definition['month.letter.7'] = 'Л';
+$Definition['month.letter.8'] = 'С';
+$Definition['month.letter.9'] = 'В';
+$Definition['month.letter.10'] = 'Ж';
+$Definition['month.letter.11'] = 'Л';
+$Definition['month.letter.12'] = 'Г';
+$Definition['month.long.1'] = 'січня';
+$Definition['month.long.2'] = 'лютого';
+$Definition['month.long.3'] = 'березня';
+$Definition['month.long.4'] = 'квітня';
+$Definition['month.long.5'] = 'травня';
+$Definition['month.long.6'] = 'червня';
+$Definition['month.long.7'] = 'липня';
+$Definition['month.long.8'] = 'серпня';
+$Definition['month.long.9'] = 'вересня';
+$Definition['month.long.10'] = 'жовтня';
+$Definition['month.long.11'] = 'листопада';
+$Definition['month.long.12'] = 'грудня';
+$Definition['month.short.1'] = 'січ.';
+$Definition['month.short.2'] = 'лют.';
+$Definition['month.short.3'] = 'бер.';
+$Definition['month.short.4'] = 'квіт.';
+$Definition['month.short.5'] = 'трав.';
+$Definition['month.short.6'] = 'черв.';
+$Definition['month.short.7'] = 'лип.';
+$Definition['month.short.8'] = 'серп.';
+$Definition['month.short.9'] = 'вер.';
+$Definition['month.short.10'] = 'жовт.';
+$Definition['month.short.11'] = 'лист.';
+$Definition['month.short.12'] = 'груд.';
 $Definition['months'] = 'міс.';
 $Definition['More'] = 'Більше';
 $Definition['More About %s'] = 'Більше про %s';
@@ -1358,6 +1365,27 @@ $Definition['WarningTitleFormat.Notice'] = 'Користувач {InsertUserID,U
 $Definition['was'] = 'був';
 $Definition['We\'ve received a request to change your password.'] = 'Ми отримали запит змінити ваш пароль в %s. Якщо ви не подавали цей запит, будь ласка, проігноруйте це повідомлення.';
 $Definition['Website'] = 'Вебсайт';
+$Definition['weekday.letter.1'] = 'П';
+$Definition['weekday.letter.2'] = 'В';
+$Definition['weekday.letter.3'] = 'С';
+$Definition['weekday.letter.4'] = 'Ч';
+$Definition['weekday.letter.5'] = 'П';
+$Definition['weekday.letter.6'] = 'С';
+$Definition['weekday.letter.7'] = 'Н';
+$Definition['weekday.long.1'] = 'понеділок';
+$Definition['weekday.long.2'] = 'вівторок';
+$Definition['weekday.long.3'] = 'середа';
+$Definition['weekday.long.4'] = 'четвер';
+$Definition['weekday.long.5'] = 'пʼятниця';
+$Definition['weekday.long.6'] = 'субота';
+$Definition['weekday.long.7'] = 'неділя';
+$Definition['weekday.short.1'] = 'Пн';
+$Definition['weekday.short.2'] = 'Вт';
+$Definition['weekday.short.3'] = 'Ср';
+$Definition['weekday.short.4'] = 'Чт';
+$Definition['weekday.short.5'] = 'Пт';
+$Definition['weekday.short.6'] = 'Сб';
+$Definition['weekday.short.7'] = 'Нд';
 $Definition['weeks'] = 'тижнів';
 $Definition['Welcome Aboard!'] = 'Вітаємо на нашому форумі!';
 $Definition['were'] = 'були';

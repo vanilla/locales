@@ -456,23 +456,6 @@ Sundan ang link sa ibaba upang tignan ito:
 Magandang araw sa iyo!';
 $Definition['Email Unavailable'] = 'HIndi Magagamit Ang Email';
 $Definition['Email visible to other users'] = 'Ang Email ay nakikita ng ibang mga gumagamit';
-$Definition['EmailWelcome'] = 'Si %2$s ay lumikha ng  account para sa iyo sa %3$s. Ang iyong mga kredensyal sa pag-log in ay:
-
-Email: %6$s
-Password: %5$s
-Url: %4$s';
-$Definition['EmailWelcomeConnect'] = 'Matagumpay kang na-konekta sa {Title}. Heto na ang iyong impormasyon: 
-
-Username: {User.Name} 
-Konektado Sa: {ProviderName} 
-
-Maaari mong ma-access ang site sa {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'Matagumpay kang nagrehistro para sa isang account sa {Title}. Heto ang inyong mga impormasyon: 
-
-Username: {User.Name} 
-Email: {User.Email} 
-
-Maaari mong ma-access ang site sa {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Basahin ang buong kwento dito</a></p><div class="ClearFix"></div></div>';
@@ -701,6 +684,42 @@ $Definition['Moderation Queue'] = 'Pila Ng Moderasyon';
 $Definition['Moderator Activity'] = 'Aktibidad Ng Nangangasiwa';
 $Definition['Moderators'] = 'Mga Nangangasiwa';
 $Definition['moderators'] = 'mga tagapangasiwa';
+$Definition['month.letter.1'] = 'Ene';
+$Definition['month.letter.2'] = 'Peb';
+$Definition['month.letter.3'] = 'Mar';
+$Definition['month.letter.4'] = 'Abr';
+$Definition['month.letter.5'] = 'May';
+$Definition['month.letter.6'] = 'Hun';
+$Definition['month.letter.7'] = 'Hul';
+$Definition['month.letter.8'] = 'Ago';
+$Definition['month.letter.9'] = 'Set';
+$Definition['month.letter.10'] = 'Okt';
+$Definition['month.letter.11'] = 'Nob';
+$Definition['month.letter.12'] = 'Dis';
+$Definition['month.long.1'] = 'Enero';
+$Definition['month.long.2'] = 'Pebrero';
+$Definition['month.long.3'] = 'Marso';
+$Definition['month.long.4'] = 'Abril';
+$Definition['month.long.5'] = 'Mayo';
+$Definition['month.long.6'] = 'Hunyo';
+$Definition['month.long.7'] = 'Hulyo';
+$Definition['month.long.8'] = 'Agosto';
+$Definition['month.long.9'] = 'Setyembre';
+$Definition['month.long.10'] = 'Oktubre';
+$Definition['month.long.11'] = 'Nobyembre';
+$Definition['month.long.12'] = 'Disyembre';
+$Definition['month.short.1'] = 'Ene';
+$Definition['month.short.2'] = 'Peb';
+$Definition['month.short.3'] = 'Mar';
+$Definition['month.short.4'] = 'Abr';
+$Definition['month.short.5'] = 'May';
+$Definition['month.short.6'] = 'Hun';
+$Definition['month.short.7'] = 'Hul';
+$Definition['month.short.8'] = 'Ago';
+$Definition['month.short.9'] = 'Set';
+$Definition['month.short.10'] = 'Okt';
+$Definition['month.short.11'] = 'Nob';
+$Definition['month.short.12'] = 'Dis';
 $Definition['months'] = 'mga buwan';
 $Definition['More'] = 'Iba pa';
 $Definition['More About %s'] = 'Iba pang Impormasyon tungkol sa %s';
@@ -1248,6 +1267,27 @@ $Definition['WarningTitleFormat'] = '{InsertUserID,User} ay nagbabala {WarnUserI
 $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} ay nagbabala {WarnUserID,User} para sa {Points,plural,%s points} (isa lamang paalala).';
 $Definition['was'] = 'ay';
 $Definition['We\'ve received a request to change your password.'] = 'Natanggap na namin ang iyong request para ibahin ang iyong password sa %s. Kung hindi ikaw ang nag-request nito, wag nang pansinin ang email na ito.';
+$Definition['weekday.letter.1'] = 'Lun';
+$Definition['weekday.letter.2'] = 'Mar';
+$Definition['weekday.letter.3'] = 'Miy';
+$Definition['weekday.letter.4'] = 'Huw';
+$Definition['weekday.letter.5'] = 'Biy';
+$Definition['weekday.letter.6'] = 'Sab';
+$Definition['weekday.letter.7'] = 'Lin';
+$Definition['weekday.long.1'] = 'Lunes';
+$Definition['weekday.long.2'] = 'Martes';
+$Definition['weekday.long.3'] = 'Miyerkules';
+$Definition['weekday.long.4'] = 'Huwebes';
+$Definition['weekday.long.5'] = 'Biyernes';
+$Definition['weekday.long.6'] = 'Sabado';
+$Definition['weekday.long.7'] = 'Linggo';
+$Definition['weekday.short.1'] = 'Lun';
+$Definition['weekday.short.2'] = 'Mar';
+$Definition['weekday.short.3'] = 'Miy';
+$Definition['weekday.short.4'] = 'Huw';
+$Definition['weekday.short.5'] = 'Biy';
+$Definition['weekday.short.6'] = 'Sab';
+$Definition['weekday.short.7'] = 'Lin';
 $Definition['weeks'] = 'Mga linggo';
 $Definition['Welcome Aboard!'] = 'Pagbati sa Pagsali!';
 $Definition['were'] = 'ay';

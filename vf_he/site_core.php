@@ -499,25 +499,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 שיהיה לך יום נפלא!';
 $Definition['Email Unavailable'] = 'דוא"ל זמין';
 $Definition['Email visible to other users'] = 'שליחת גלויות למשתמשים אחרים';
-$Definition['EmailWelcome'] = '%2$s יצר חשבון עבורך ב%3$s. פרטי ההזדהות שלך:
-
-אימייל: %6$s
-סיסמה: %5$s
-כתובת אינטרנט: %4$s';
-$Definition['EmailWelcomeConnect'] = 'התחברת בהצלחה ל{Title}. להלן המידע שלך:
-
-שם משתמש: {User.Name}
-מחובר באמצעות: {ProviderName}
-
-ניתן לגשת לאתר ב {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'נרשמת בהצלחה לחשבון ב {Title}. להלן פרטי הכניסה שלך:
-
-
-שם משתמש: {User.Name}
-דוא"ל: {User.Email} 
-
-
-תוכל לנווט לאתר בקישור הבא: {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{תמונה }<strong>{כותרת }</strong>
 <p>{קטע }</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן</a></p><div class="ClearFix"></div></div>';
@@ -778,6 +759,42 @@ $Definition['Moderator'] = 'מנהל';
 $Definition['Moderator Activity'] = 'פעילות מנהל';
 $Definition['Moderators'] = 'מנהלים';
 $Definition['moderators'] = 'מנהלים';
+$Definition['month.letter.1'] = '1';
+$Definition['month.letter.2'] = '2';
+$Definition['month.letter.3'] = '3';
+$Definition['month.letter.4'] = '4';
+$Definition['month.letter.5'] = '5';
+$Definition['month.letter.6'] = '6';
+$Definition['month.letter.7'] = '7';
+$Definition['month.letter.8'] = '8';
+$Definition['month.letter.9'] = '9';
+$Definition['month.letter.10'] = '10';
+$Definition['month.letter.11'] = '11';
+$Definition['month.letter.12'] = '12';
+$Definition['month.long.1'] = 'ינואר';
+$Definition['month.long.2'] = 'פברואר';
+$Definition['month.long.3'] = 'מרץ';
+$Definition['month.long.4'] = 'אפריל';
+$Definition['month.long.5'] = 'מאי';
+$Definition['month.long.6'] = 'יוני';
+$Definition['month.long.7'] = 'יולי';
+$Definition['month.long.8'] = 'אוגוסט';
+$Definition['month.long.9'] = 'ספטמבר';
+$Definition['month.long.10'] = 'אוקטובר';
+$Definition['month.long.11'] = 'נובמבר';
+$Definition['month.long.12'] = 'דצמבר';
+$Definition['month.short.1'] = 'ינו׳';
+$Definition['month.short.2'] = 'פבר׳';
+$Definition['month.short.3'] = 'מרץ';
+$Definition['month.short.4'] = 'אפר׳';
+$Definition['month.short.5'] = 'מאי';
+$Definition['month.short.6'] = 'יוני';
+$Definition['month.short.7'] = 'יולי';
+$Definition['month.short.8'] = 'אוג׳';
+$Definition['month.short.9'] = 'ספט׳';
+$Definition['month.short.10'] = 'אוק׳';
+$Definition['month.short.11'] = 'נוב׳';
+$Definition['month.short.12'] = 'דצמ׳';
 $Definition['months'] = 'חודשים';
 $Definition['More'] = 'עוד';
 $Definition['More About %s'] = 'עוד על %s';
@@ -1400,6 +1417,27 @@ $Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User}  הוזהר {War
 $Definition['was'] = 'היה';
 $Definition['We\'ve received a request to change your password.'] = 'קיבלנו את בקשתך לשינוי סיסמא ב-%s. אם לא ביצעת בקשה זו, נא התעלם מהמייל.';
 $Definition['Website'] = 'אתר';
+$Definition['weekday.letter.1'] = 'ב׳';
+$Definition['weekday.letter.2'] = 'ג׳';
+$Definition['weekday.letter.3'] = 'ד׳';
+$Definition['weekday.letter.4'] = 'ה׳';
+$Definition['weekday.letter.5'] = 'ו׳';
+$Definition['weekday.letter.6'] = 'ש׳';
+$Definition['weekday.letter.7'] = 'א׳';
+$Definition['weekday.long.1'] = 'יום שני';
+$Definition['weekday.long.2'] = 'יום שלישי';
+$Definition['weekday.long.3'] = 'יום רביעי';
+$Definition['weekday.long.4'] = 'יום חמישי';
+$Definition['weekday.long.5'] = 'יום שישי';
+$Definition['weekday.long.6'] = 'יום שבת';
+$Definition['weekday.long.7'] = 'יום ראשון';
+$Definition['weekday.short.1'] = 'יום ב׳';
+$Definition['weekday.short.2'] = 'יום ג׳';
+$Definition['weekday.short.3'] = 'יום ד׳';
+$Definition['weekday.short.4'] = 'יום ה׳';
+$Definition['weekday.short.5'] = 'יום ו׳';
+$Definition['weekday.short.6'] = 'שבת';
+$Definition['weekday.short.7'] = 'יום א׳';
 $Definition['weeks'] = 'שבוע אתה';
 $Definition['Welcome Aboard!'] = 'ברוכים הבאים';
 $Definition['were'] = 'היו';

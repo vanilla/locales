@@ -488,23 +488,6 @@ $Definition['EmailStoryNotification'] = '%1$s
 نتمنى لك يوماً رائعاً!';
 $Definition['Email Unavailable'] = 'البريد الالكتروني غير متوفر';
 $Definition['Email visible to other users'] = 'البريد الالكتروني مرئي لمستخدمين آخرين';
-$Definition['EmailWelcome'] = 'قام %2$s بإنشاء حسابٍ لك على %3$s. بيانات الصلاحية لتسجيل الدخول خاصتك هي:
-
-البريد الإلكتروني: %6$s
-كلمة المرور: %5$s
-الرابط: %4$s';
-$Definition['EmailWelcomeConnect'] = 'لقد قمت بالاتصال بـ {Title} بنجاح. هذه هي المعلومات الخاصة بك:
-
-اسم المستخدم: {User.Name}
-متصل مع: {ProviderName}
-
-يمكنك الوصول إلى الموقع على {/,exurl,domain}.';
-$Definition['EmailWelcomeRegister'] = 'تم تسجيلك بنجاح على موقع {Title}. و هذه معلوماتك:\\n
-\\n
-  إسم المستخدم:{User.Name}\\n
-  البريد الالكتروني:{User.Email}\\n
-\\n
-تستطيع الدخول إلى الموقع عبر هذا الرابط {/,exurl,domain}.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">اقرأ القصة كاملة هنا</a></p><div class="ClearFix"></div></div>';
@@ -761,6 +744,42 @@ $Definition['Moderator'] = 'مشرف';
 $Definition['Moderator Activity'] = 'نشاط المشرف';
 $Definition['Moderators'] = 'المشرفين';
 $Definition['moderators'] = 'مشرفون';
+$Definition['month.letter.1'] = 'ي';
+$Definition['month.letter.2'] = 'ف';
+$Definition['month.letter.3'] = 'م';
+$Definition['month.letter.4'] = 'أ';
+$Definition['month.letter.5'] = 'و';
+$Definition['month.letter.6'] = 'ن';
+$Definition['month.letter.7'] = 'ل';
+$Definition['month.letter.8'] = 'غ';
+$Definition['month.letter.9'] = 'س';
+$Definition['month.letter.10'] = 'ك';
+$Definition['month.letter.11'] = 'ب';
+$Definition['month.letter.12'] = 'د';
+$Definition['month.long.1'] = 'يناير';
+$Definition['month.long.2'] = 'فبراير';
+$Definition['month.long.3'] = 'مارس';
+$Definition['month.long.4'] = 'أبريل';
+$Definition['month.long.5'] = 'مايو';
+$Definition['month.long.6'] = 'يونيو';
+$Definition['month.long.7'] = 'يوليو';
+$Definition['month.long.8'] = 'أغسطس';
+$Definition['month.long.9'] = 'سبتمبر';
+$Definition['month.long.10'] = 'أكتوبر';
+$Definition['month.long.11'] = 'نوفمبر';
+$Definition['month.long.12'] = 'ديسمبر';
+$Definition['month.short.1'] = 'يناير';
+$Definition['month.short.2'] = 'فبراير';
+$Definition['month.short.3'] = 'مارس';
+$Definition['month.short.4'] = 'أبريل';
+$Definition['month.short.5'] = 'مايو';
+$Definition['month.short.6'] = 'يونيو';
+$Definition['month.short.7'] = 'يوليو';
+$Definition['month.short.8'] = 'أغسطس';
+$Definition['month.short.9'] = 'سبتمبر';
+$Definition['month.short.10'] = 'أكتوبر';
+$Definition['month.short.11'] = 'نوفمبر';
+$Definition['month.short.12'] = 'ديسمبر';
 $Definition['months'] = 'أشهر';
 $Definition['More'] = 'المزيد';
 $Definition['More About %s'] = 'المزيد عن %s';
@@ -1360,6 +1379,27 @@ $Definition['WarningTitleFormat.Notice'] = 'قام {InsertUserID,User} بتحذ�
 $Definition['was'] = 'كان';
 $Definition['We\'ve received a request to change your password.'] = 'لقد تلقينا طلبا لتغيير كلمة المرور الخاصة بك في %s. إذا كنت لم تتقدم بهذا الطلب، يُرجى تجاهل هذا البريد الإلكتروني.';
 $Definition['Website'] = 'الموقع';
+$Definition['weekday.letter.1'] = 'ن';
+$Definition['weekday.letter.2'] = 'ث';
+$Definition['weekday.letter.3'] = 'ر';
+$Definition['weekday.letter.4'] = 'خ';
+$Definition['weekday.letter.5'] = 'ج';
+$Definition['weekday.letter.6'] = 'س';
+$Definition['weekday.letter.7'] = 'ح';
+$Definition['weekday.long.1'] = 'الاثنين';
+$Definition['weekday.long.2'] = 'الثلاثاء';
+$Definition['weekday.long.3'] = 'الأربعاء';
+$Definition['weekday.long.4'] = 'الخميس';
+$Definition['weekday.long.5'] = 'الجمعة';
+$Definition['weekday.long.6'] = 'السبت';
+$Definition['weekday.long.7'] = 'الأحد';
+$Definition['weekday.short.1'] = 'الاثنين';
+$Definition['weekday.short.2'] = 'الثلاثاء';
+$Definition['weekday.short.3'] = 'الأربعاء';
+$Definition['weekday.short.4'] = 'الخميس';
+$Definition['weekday.short.5'] = 'الجمعة';
+$Definition['weekday.short.6'] = 'السبت';
+$Definition['weekday.short.7'] = 'الأحد';
 $Definition['weeks'] = 'الاسابيع';
 $Definition['Welcome Aboard!'] = 'أهلا و سهلا بك !';
 $Definition['were'] = 'كانوا';
