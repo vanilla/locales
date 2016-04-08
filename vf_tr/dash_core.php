@@ -12,6 +12,8 @@ $Definition['%s unavailable'] = '%s kullanılamaz';
 $Definition['%s user(s) found.'] = '%s kullanıcı(lar) bulunamadı.';
 $Definition['%s years.'] = '%s yıllar';
 
+$Definition['(less)'] = '(daha az)';
+$Definition['(more)'] = '(daha çok)';
 $Definition['(YYYY-mm-dd)'] = '(YYYY-aa-gg)';
 
 $Definition['1 day'] = '1 gün';
@@ -37,7 +39,15 @@ $Definition['Add Info &amp; Create Account'] = 'Bilgi Gir &amp; Hesap Oluştur';
 $Definition['Add User'] = 'Kullanıcı Ekle';
 $Definition['Advanced Settings'] = 'Gelişmiş Ayarlar';
 $Definition['a full year.'] = 'bütün yıl';
+$Definition['Allow embedded content'] = 'Gömüü içeriğe izin ver';
+$Definition['Allow images'] = 'Resimlere izin ver';
+$Definition['Allow users to dismiss this message'] = 'Kullanıcılara bu iletiyi göz ardı etme imkanı sağla';
+$Definition['All Pages'] = 'Tüm Sayfalar';
+$Definition['API Status'] = 'API Durumu';
 $Definition['Applicant'] = 'Başvuran';
+$Definition['Application'] = 'Uygulama';
+$Definition['Application ID'] = 'Uygulama Kimliği';
+$Definition['Applications'] = 'Uygulamalar';
 $Definition['Applied On'] = 'Tarih';
 $Definition['Are you sure you want to delete %s items forever?'] = '%s öğeyi kalıcı olarak silmek istediğinizden emin misiniz?';
 $Definition['Are you sure you want to delete 1 item forever?'] = 'Öğeyi kalıcı olarak silmek istediğinizden emin misiniz?';

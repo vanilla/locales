@@ -4,8 +4,12 @@
   'Locale' => 'it',
   'Name' => 'Italiano / Italian',
   'Description' => 'Official Italian language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/it/">here</a>.',
-  'Version' => '2016.03.31p1737',
+  'Version' => '2016.04.08p1520',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/it/',
   'License' => 'CC BY-SA 4.0',
+  'PercentComplete' => 98,
+  'NumComplete' => 2175,
+  'DenComplete' => 2219,
+  'Icon' => 'it.png',
 );
