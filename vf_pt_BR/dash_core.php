@@ -140,9 +140,9 @@ $Definition['Check all permissions that apply for each role'] = 'Verifique todas
 $Definition['Check all permissions that apply to this role:'] = 'Marque todas as autorizações que deseja aplicar a esta função:';
 $Definition['Check out my new community!'] = 'Veja minha nova comunidade!';
 $Definition['Check out the full list of video tutorials here.'] = 'Veja a lista completa de video tutorais aqui.';
-$Definition['Check out the new community forum I\'ve just set up.'] = 'Olá amigo!
+$Definition['Check out the new community forum I\'ve just set up.'] = 'E aí, colega!
 
-Vê o novo fórum da comunidade que acabei de criar. É um ótimo sítio para nós falarmos um com o outro online.';
+Veja essa nova comunidade que eu acabei de criar. É um ótimo lugar para conversarmos online.';
 $Definition['Choose a locale pack'] = 'Escolha um pacote de localização';
 $Definition['Choose the preferred layout for the categories page.'] = 'Escolha o layout preferido para a página de categorias.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Escolha o layout de sua preferência para a página de tópicos.';
@@ -348,7 +348,7 @@ $Definition['Key Type'] = 'Tipo de chave';
 $Definition['Key Value'] = 'Valor de chave';
 
 $Definition['Label this Revision'] = 'Coloque um label nesta revisão';
-$Definition['Large images will be scaled down.'] = 'As imagens grandes serão reduzidas até uma largura máxima de %spx e uma altura máxima de %spx.';
+$Definition['Large images will be scaled down.'] = 'Imagens grandes serão redimensionadas para uma largura máxima de %spx e uma altura máxima de %spx.';
 $Definition['Last Visit'] = 'Última visita';
 $Definition['Level'] = 'Nível';
 $Definition['Likes'] = 'Curtidas';
