@@ -7,4 +7,5 @@
   'Version' => '2012.10.05p1534',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/ur_PK/',
+  'Hidden' => true,
 );

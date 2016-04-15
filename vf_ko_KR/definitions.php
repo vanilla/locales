@@ -7,4 +7,5 @@
   'Version' => '2014.10.05p2341',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/ko_KR/',
+  'Hidden' => true,
 );

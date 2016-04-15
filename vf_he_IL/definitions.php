@@ -7,4 +7,5 @@
   'Version' => '2014.09.29p1654',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/he_IL/',
+  'Hidden' => true,
 );

@@ -7,4 +7,5 @@
   'Version' => '2012.10.08p2132',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/lt/',
+  'Hidden' => true,
 );

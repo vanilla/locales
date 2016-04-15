@@ -7,4 +7,5 @@
   'Version' => '2012.10.08p2131',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/da/',
+  'Hidden' => true,
 );

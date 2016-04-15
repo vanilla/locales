@@ -7,4 +7,5 @@
   'Version' => '2014.10.03p1726',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/tr_TR/',
+  'Hidden' => true,
 );

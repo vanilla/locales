@@ -7,4 +7,5 @@
   'Version' => '2014.09.23p1351',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/cs_CZ/',
+  'Hidden' => true,
 );
