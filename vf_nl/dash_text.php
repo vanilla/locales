@@ -157,4 +157,8 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Waarschuwing</b>: Uw s
 $Definition['Warning: This is for advanced users.'] = '<b>Waarschuwing</b>: Dit is voor geavanceerde gebruikers en vereist dat je extra aanpassingen doet aan je webserver. Dit is normaalgesproken alleen beschikbaar wanneer je VPS hosting hebt. Probeer dit niet als je niet weet wat je aan het doen bent.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Je kan aan meerdere sites die jsConnect ondersteunen aansluiten.';
+$Definition['You can place files in your /uploads folder.'] = 'Als uw bestand te
+groot is om direct naar deze pagina te uploaden, kan u het in uw /uploads
+folder zetten. Zorg er voor dat de bestandsnaam begint met het woord <b>export</b> en eindigt
+met een van <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Je moet een bestand selecteren om te importeren.';

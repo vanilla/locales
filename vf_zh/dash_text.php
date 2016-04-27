@@ -11,7 +11,7 @@ $Definition['AboutEmbedding'] = '嵌入技术可以将您的社区或社区的�
 $Definition['About Vanilla Statistics'] = '关于 Vanilla 统计';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = '点击该页面顶部的“访问网站”链接进入您的社区论坛，或者点击<a href={/,url}>点击此处</a>。当您的用户或客户访问 <a href="{/,url,domain}">{/,url,domain}</a> 的时候就会看到该论坛。';
 $Definition['AddonProblems'] = '<h2>遇到问题了？</h2><p>如果有插件出现错误并且网站不能正常使用了，您可以通过编辑这些选项手动禁用它们：</p>%s';
-$Definition['All categories listed with a selection of 5 recent discussions under each'] = '所有版块以及最新的 5 条话题';
+$Definition['All categories listed with a selection of 5 recent discussions under each'] = '各个版块中的最近 5 条话题';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = '邀请已成功创建，但邮件发送失败。服务器返回如下错误信息: %s';
 $Definition['ApplicationHelp'] = '应用程序让您可以为网站添加更多功能。<br />当您将应用程序放置到文件夹 %s 后，您可以在这里启用或禁用它。';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '您确定输入了正确的数据库主机地址了吗？或许您写错了？数据库返回信息：<code>%s</code>';
@@ -38,7 +38,7 @@ $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)
 $Definition['Drag and drop the categories below to sort and nest them.'] = '拖动版块进行排序和分级。';
 
 $Definition['EditContentTimeout.Notes'] = '注意：如果用户有权限编写这些内容，这些内容将被覆盖。';
-$Definition['Edit Route'] = '编辑路径';
+$Definition['Edit Route'] = '编辑路由';
 $Definition['Embed your community forum into your website to increase engagement...'] = '将您的社区论坛嵌入你的网站以提升参与度...';
 $Definition['Enter a descriptive name.'] = '请输入一个能描述该 Pocket 的名字。这个名字只有在管理 Pocket 时被用到，因此它只是方便您记住这个 Pocket。';
 $Definition['Enter a short name for the site.'] = '填写网站的简称，这将显示在登录按钮中。';
@@ -46,7 +46,7 @@ $Definition['Enter the address of your Wordpress Blog and we\'ll take it from th
 $Definition['Enter the connection settings for your sphinx server below.'] = '在下方填写您的 sphinx 服务器的连接设置';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = '这里记录所有编辑和删除，使用“恢复”撤销更改。';
 $Definition['Everyone who signs up gets a profile page.'] = '在您社区注册的账户会获得一个公开的个人页面，在那里他们可以上传个人照片，管理他们的个人设置和跟踪社区中正在发生的趣事。您应该<a href="{/profile,url}">现在就定制您的个人资料</a>。';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '网站的每个用户都需要分配至少一个角色。用户角色决定用户可以做什么。';
+$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '网站的每个用户都需要被分配至少一个角色。用户角色决定了用户可以做什么。';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect 让用户可以使用 Facebook 账户登录论坛。<b>您必须注册 Facebook 的应用程序才能使用这个插件。</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = '使用您输入的用户名和密码连接数据库失败。是忘记输入了吗？数据库返回信息：<code>%s</code>';
@@ -76,7 +76,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = '启动您的社区并增加用户参与度。';
 
-$Definition['Learn about custom routing.'] = '了解自定义路径。';
+$Definition['Learn about custom routing.'] = '了解自定义路由。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '学习如何完全改变您的社区的外观和感觉：上传 Logo；设置首页及布局；选择一个主题并个性化主题。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '学习如何使用论坛的基本功能。';
 $Definition['Locales allow you to support other languages on your site.'] = '语言选项可以让您的网站支持其他语言。在这里您可以启用或禁用选定的语言。';
@@ -84,7 +84,7 @@ $Definition['Locales are in your %s folder.'] = '语言环境设置允许您的�
 $Definition['LogoDescription'] = '站点 Logo 显示在站点的顶部，有些主题可能不会显示。';
 
 $Definition['Make sure you click View Page'] = '点击<a href="%s">这里</a>预览版块页面。';
-$Definition['Manage Routes'] = '管理路径';
+$Definition['Manage Routes'] = '管理路由';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = '标记为不是垃圾信息的条目会被恢复到论坛中。';
 $Definition['Marking things as not spam will put them back in your forum.'] = '标记为不是垃圾信息的条目会被恢复到论坛中。';
 $Definition['Messages can appear anywhere in your application.'] = '消息系统在应用中的许多地方被用到，它可以用来向用户发布通知和新闻。在这里，您可以自由地拖动、管理您的消息。';
@@ -103,8 +103,8 @@ $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = '已有的用�
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = '已有的用于 Wordpress 的 Vanilla 论坛插件';
 $Definition['Realtime progress bars: %s'] = '实时进度条：%s';
 $Definition['Restoring your selection removes the items from this list.'] = '当您选择恢复，这些条目将从此删除并恢复到社区中。';
-$Definition['Route Expression'] = '路径展示';
-$Definition['Routes are used to redirect users.'] = '使用路径功能来重定向用户请求的网址。';
+$Definition['Route Expression'] = '路由展示';
+$Definition['Routes are used to redirect users.'] = '使用路由功能来重定向用户请求的网址。';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = '按用户名搜索，或输入角色查看所有相应用户。';
 $Definition['Select the import source'] = '选择导入源文件';
