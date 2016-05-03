@@ -499,6 +499,7 @@ $Definition['Enter your Email address'] = 'Gib deine E-Mail-Adresse ein';
 $Definition['Enter your email address'] = 'Gib deine E-Mail-Adresse ein';
 $Definition['Enter your Email address or username'] = 'Gib deine E-Mail-Adresse oder deinen Benutzernamen ein';
 $Definition['Enter Your OpenID Url'] = 'Gib deine OpenID-URL ein';
+$Definition['Enter your search term.'] = 'Gib einen Suchbegriff ein.';
 $Definition['Erase User Content'] = 'Entferne Benutzerinhalte';
 $Definition['Error'] = 'Fehler';
 $Definition['ErrorBadInvitationCode'] = 'Der eingegebene Einladungscode ist falsch.';
