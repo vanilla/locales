@@ -673,6 +673,7 @@ $Definition['Insightful'] = 'Insightful';
 $Definition['Internal'] = 'Internal';
 $Definition['In this Conversation'] = 'In this Conversation';
 $Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
+$Definition['Invalid photo URL.'] = 'Invalid photo URL.';
 $Definition['Invitation'] = 'Invitation';
 $Definition['Invitations'] = 'Invitations';
 $Definition['Invite'] = 'Invite';
