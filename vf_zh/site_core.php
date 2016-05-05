@@ -677,6 +677,7 @@ $Definition['Insightful'] = '有见地';
 $Definition['Internal'] = '内部';
 $Definition['In this Conversation'] = '在本次对话中';
 $Definition['Invalid password.'] = '您输入的密码错误，请注意区分大小写。';
+$Definition['Invalid photo URL.'] = '无效的照片 URL。';
 $Definition['Invitation'] = '邀请方式';
 $Definition['Invitations'] = '邀请';
 $Definition['Invite'] = '邀请';
