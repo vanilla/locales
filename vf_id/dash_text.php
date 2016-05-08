@@ -73,6 +73,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Genjot komunitas anda dan tingkatkan hubungan dengan pengguna.';
 
+$Definition['Learn about custom routing.'] = 'Pelajari lebih lanjut tentang kostumasi route';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Pelajari bagaimana mengubah sepenuhnya tampilan dan rasa forum anda: unggah logo anda, setel laman berandanya, memilih sebuah tema dan menyesuaikannya.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Pelajari bagaimana menggunakan fungsional dasar dari forum anda.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Bahasa mengizinkan Anda mendukung bahasa lainnya pada situs Anda. Aktif dan nonaktifkan bahasa yang Anda inginkan agar tersedia di sini.';
@@ -107,6 +108,7 @@ $Definition['Select the import source'] = 'Pilih sumber impor';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Kolom terserialisasi "%s" gagal untuk tidak diserialisasikan.';
 $Definition['Show all possible pocket locations.'] = 'Nyalakan opsi ini untuk menampilkan semua peluang lokasi pocket. Menyalakan opsi ini akan hanya menampilkan saja kepada pengguna bahwa mereka bisa mengelola pocket.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Luangkan waktu untuk berpikir bagaimana anda menggambarkan situs anda di sini. Berikan situs anda judul yang berarti dan deskripsi yang singkat akan membantu posisi anda di mesin pencari.';
+$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Rapikan email Anda dengan menambahkan logo dan menyesuaikan warna.';
 $Definition['Start Import'] = 'Mulai Impor';
 $Definition['Start the first discussion.'] = 'Meriahkan komunitas Anda dengan <a href="{/post/discussion,url}">memulai diskusi pertama</a> sekarang.';
 
@@ -133,6 +135,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['This is the administrative dashboard for your new community.'] = 'Ini adalah dasbor administratif untuk komunitas baru Anda. Simaklah opsi konfigurasi di samping. Dari situ Anda dapat mengatur kinerja komunitas Anda. <b>Secara default, hanya pengguna dengan status "Administrator" dapat melihat bagian komunitas ini.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Opsi ini menampilkan/menyembunyikan lokasi di mana pocket dapat bekerja, namun hanya untuk pengguna yang mendapat izin untuk menambah/mengeditnya. Cobalah untuk menampilkan lokasinya lalu kunjungi situs anda.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Untuk menanamkan forum Vanilla anda pada situs anda, gunakan kode berikut.';
+$Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Terlalu banyak alamat tujuan! Kami akan mengirim hingga %s alamat dalam satu waktu';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Untuk mencegah tindak penyalahgunaan, beberapa perangkat secara otomatis menyembunyikan konten dan daftarnya di sini hingga disetujui secara manual oleh moderator.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect memungkinkan pengguna untuk masuk dengan akun Twitter. <b>Anda harus mendaftarkan aplikasi anda dengan Twitter agar plugin ini bisa bekerja.</b>';
 
