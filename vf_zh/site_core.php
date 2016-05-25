@@ -578,7 +578,7 @@ $Definition['Forum Signature Settings'] = '论坛签名设置';
 $Definition['Fourth Anniversary'] = '四周年';
 $Definition['Friends'] = '好友';
 $Definition['From'] = '自';
-$Definition['Full Site'] = '整个站点';
+$Definition['Full Site'] = '桌面版';
 
 $Definition['Garden.Email.SupportAddress'] = '支持电子邮件';
 $Definition['Garden.Email.SupportName'] = '支持名字';
