@@ -672,6 +672,7 @@ $Definition['Insert Image'] = 'Insert Image';
 $Definition['Insightful'] = 'Insightful';
 $Definition['Internal'] = 'Internal';
 $Definition['In this Conversation'] = 'In this Conversation';
+$Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 $Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
 $Definition['Invalid photo URL.'] = 'Invalid photo URL.';
 $Definition['Invitation'] = 'Invitation';
