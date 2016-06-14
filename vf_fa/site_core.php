@@ -754,7 +754,6 @@ $Definition['Popup'] = 'پنجره بالاپر';
 $Definition['Position'] = 'جای پیام';
 $Definition['Post'] = 'بدیوار زدن';
 $Definition['Post Comment'] = 'فرستادن دیدگاه';
-$Definition['Post Discussion'] = 'فرستادن جستار';
 $Definition['Post edited by %1$s at %2$s'] = 'آخرین تغییرات در %2$s توسط %1$s';
 $Definition['Posts'] = 'ارسال‌ها';
 $Definition['Posts.Plural: %s'] = 'ارسال‌ها: %s';

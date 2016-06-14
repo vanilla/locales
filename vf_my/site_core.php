@@ -391,7 +391,6 @@ $Definition['Poll'] = 'မဲ';
 $Definition['Popular'] = 'လူကြည့်အများဆုံး';
 $Definition['Popular Tags'] = 'အသုံးပြုမှုများသည့် Tags';
 $Definition['Post Comment'] = 'မှတ်ချက်ရေးသားပါ';
-$Definition['Post Discussion'] = 'ဆွေးနွေးချက်ရေးသားပါ';
 $Definition['Post edited by %1$s at %2$s'] = ' %1$s သည် %2$s အချိန်တွင် ပြင်ထားသည်';
 $Definition['Preview'] = 'စာကြမ်းနမူနာ';
 $Definition['Privacy Settings'] = 'ကိုယ်ရေးအချက်အလက် ပြုပြင်ချက်';

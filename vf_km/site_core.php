@@ -314,7 +314,6 @@ $Definition['PermissionErrorTitle'] = 'បញ្ហា​ការ​អនុ�
 $Definition['Picture'] = 'រូបថត';
 $Definition['Popup'] = 'ផុស​ឡើង';
 $Definition['Post Comment'] = 'ផ្សាយ​មតិ';
-$Definition['Post Discussion'] = 'សួរ​សំណួរ';
 $Definition['Preview'] = 'មើល​ជា​មុន';
 $Definition['Private Note for Moderators'] = 'កំណត់​ចំណាំ​សម្ងាត់​សម្រាប់​អ្នក​សម្រប​សម្រួល';
 $Definition['Profile'] = 'ប្រវត្តិរូប';

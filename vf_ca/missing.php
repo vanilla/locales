@@ -120,6 +120,7 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
+$Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 $Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
 $Definition['InvitationMessage'] = 'Hi Pal!
 

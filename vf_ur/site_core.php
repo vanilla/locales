@@ -923,7 +923,6 @@ $Definition['Position'] = 'پوزیشن';
 $Definition['Post'] = 'پوسٹ';
 $Definition['post'] = 'پوسٹ';
 $Definition['Post Comment'] = 'رائے پوسٹ کریں';
-$Definition['Post Discussion'] = 'سوال پوچھیں';
 $Definition['Post edited by %1$s at %2$s'] = '%2$s پر %1$s کی جانب سے پوسٹ ترمیم کی گئی';
 $Definition['Posts'] = 'مراسلات';
 $Definition['Posts.Plural: %s'] = 'مراسلات: %s';

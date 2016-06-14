@@ -190,6 +190,7 @@ $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingU
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
+$Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 $Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
@@ -283,7 +284,6 @@ $Definition['PermissionRequired.Javascript'] = 'You need to enable javascript to
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
-$Definition['Post Discussion'] = 'Ask Question';
 $Definition['Posts.Plural: %s'] = 'Posts: %s';
 $Definition['Posts.Singular: %s'] = 'Posts: %s';
 $Definition['PreferenceBadgeEmail'] = 'Notify me when I earn a badge.';

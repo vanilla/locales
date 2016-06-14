@@ -535,7 +535,6 @@ $Definition['Picture'] = 'Dealbh';
 $Definition['Poll'] = 'Cunntas-bheachd';
 $Definition['Popup'] = 'Priob-uinneag';
 $Definition['Post Comment'] = 'Sgrìobh beachd';
-$Definition['Post Discussion'] = 'Faighnich ceist';
 $Definition['Posts.Plural: %s'] = 'Posts: %s';
 $Definition['Posts.Singular: %s'] = 'Posts: %s';
 $Definition['PreferenceBadgeEmail'] = 'Cuir fios thugam nuair a bhuannaich mi suaicheantas.';

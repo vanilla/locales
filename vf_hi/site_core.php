@@ -660,7 +660,6 @@ $Definition['Popup'] = 'पॉपअप';
 $Definition['Position'] = 'स्थिति';
 $Definition['Post'] = 'पोस्ट';
 $Definition['Post Comment'] = 'टिप्पणी पोस्ट करें';
-$Definition['Post Discussion'] = 'प्रश्न पूछें';
 $Definition['Post edited by %1$s at %2$s'] = '%2$s पर %1$s द्वारा पोस्ट संपादित किया गया ';
 $Definition['Posts'] = 'पोस्ट';
 $Definition['Posts.Plural: %s'] = 'पोस्ट: %s';

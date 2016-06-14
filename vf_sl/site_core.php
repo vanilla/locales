@@ -644,7 +644,6 @@ $Definition['Popup'] = 'Pojavno okno';
 $Definition['Position'] = 'Položaj';
 $Definition['Post'] = 'Sporočilo';
 $Definition['Post Comment'] = 'Napiši komentar';
-$Definition['Post Discussion'] = 'Postavi vprašanje';
 $Definition['Post edited by %1$s at %2$s'] = 'Sporočilo uredil %1$s ob %2$s';
 $Definition['Posts'] = 'Sporočila';
 $Definition['Posts.Plural: %s'] = 'Sporočila: %s';

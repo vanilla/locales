@@ -257,7 +257,6 @@ $Definition['PermissionErrorTitle'] = 'Problem sa pravima pristupa';
 $Definition['Picture'] = 'Slika';
 $Definition['Poll'] = 'Anketa';
 $Definition['Post Comment'] = 'Pošalji komentar';
-$Definition['Post Discussion'] = 'Postavi pitanje';
 $Definition['Preview'] = 'Pregled';
 $Definition['Private Note for Moderators'] = 'Privatno obaveštenje za moderatore';
 $Definition['Profile'] = 'Profil';

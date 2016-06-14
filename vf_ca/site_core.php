@@ -514,7 +514,6 @@ $Definition['Popular Groups'] = 'Grups populars';
 $Definition['Popular Tags'] = 'Etiquetes populars';
 $Definition['Position'] = 'Posición';
 $Definition['Post Comment'] = 'Enviar Comentari';
-$Definition['Post Discussion'] = 'Enviar Discussi';
 $Definition['Preview'] = 'Previsualitzar';
 $Definition['Previous'] = 'Anterior';
 $Definition['Privacy'] = 'Privacitat';

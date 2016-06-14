@@ -777,7 +777,6 @@ $Definition['Popup'] = 'Iškylantysis langas';
 $Definition['Position'] = 'Pozicija';
 $Definition['Post'] = 'Žinutė';
 $Definition['Post Comment'] = 'Siųsk';
-$Definition['Post Discussion'] = 'Publikuoti';
 $Definition['Post edited by %1$s at %2$s'] = 'Žinutė redaguota %1$s  %2$s';
 $Definition['Posts'] = 'Žinutės';
 $Definition['Posts.Plural: %s'] = 'Žinutės: %s';
