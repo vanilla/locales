@@ -166,6 +166,7 @@ $Definition['Admin'] = 'Admin';
 $Definition['Administrator'] = 'Administrator';
 $Definition['Administrator Activity'] = 'Administrator Activity';
 $Definition['administrators'] = 'administrators';
+$Definition['Administrators and moderators'] = 'Administrators and moderators';
 $Definition['Advanced'] = 'Advanced';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'A fatal error occurred while processing the request.<br />The server returned the following response: %s';
 $Definition['Agree'] = 'Agree';
