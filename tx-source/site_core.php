@@ -1113,6 +1113,7 @@ $Definition['Sections'] = 'Sections';
 $Definition['Security Check'] = 'Security Check';
 $Definition['Select a %s'] = 'Select a %s';
 $Definition['Select a category...'] = 'Select a category...';
+$Definition['Select a community.'] = 'Select a community.';
 $Definition['Select an image on your computer (2mb max)'] = 'Select an image on your computer (2mb max)';
 $Definition['Select one of the following avatars:'] = 'Select one of the following avatars:';
 $Definition['Send'] = 'Send';

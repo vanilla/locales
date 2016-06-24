@@ -957,6 +957,7 @@ $Definition['Position'] = 'Pozíció';
 $Definition['Post'] = 'Hozzászólás';
 $Definition['post'] = 'hozzászólás';
 $Definition['Post Comment'] = 'Hozzászólás küldése';
+$Definition['Post Discussion'] = 'Utólagos megbeszélés';
 $Definition['Post edited by %1$s at %2$s'] = 'A bejegyzést %1$s szerkesztette %2$s -kor';
 $Definition['Posts'] = 'Bejegyzések';
 $Definition['Posts.Plural: %s'] = 'Bejegyzések: %s';
