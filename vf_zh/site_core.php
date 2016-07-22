@@ -164,6 +164,7 @@ $Definition['Add Route'] = '添加路由';
 $Definition['Admin'] = '管理';
 $Definition['Administrator'] = '管理员';
 $Definition['Administrator Activity'] = '管理员动态';
+$Definition['Administrator and moderator'] = '管理员和版主';
 $Definition['administrators'] = '管理员';
 $Definition['Advanced'] = '高级';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = '处理请求时发生致命错误。<br />服务器返回如下内容：%s';

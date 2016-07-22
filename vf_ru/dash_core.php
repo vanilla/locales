@@ -17,6 +17,7 @@ $Definition['%s years.'] = '%s лет.';
 
 $Definition['(less)'] = '(меньше)';
 $Definition['(more)'] = '(больше)';
+$Definition['(YYYY-mm-dd)'] = '(ГГГГ-мес-дн)';
 
 $Definition['1 day'] = '1 день';
 $Definition['1 hour'] = '1 час ';
@@ -110,7 +111,7 @@ $Definition['Ban List'] = 'Бан-лист';
 $Definition['Banner'] = 'Баннер';
 $Definition['Banner Logo'] = 'Лого баннера ';
 $Definition['Banner Title'] = 'Заголовок баннера';
-$Definition['Banning'] = 'Бан';
+$Definition['Banning'] = 'Баны';
 $Definition['Banning Options'] = 'Настройки бана';
 $Definition['Ban Type'] = 'Тип';
 $Definition['Basic Information'] = 'Основная информация';
@@ -119,7 +120,7 @@ $Definition['Begin At'] = 'Начните в';
 $Definition['Below Sidebar'] = 'Под боковой панелью';
 $Definition['Blocked'] = 'Заблокированно';
 $Definition['Blog Comments'] = 'Комментарии блога';
-$Definition['Browse Addons'] = 'Просмотреть дополнения';
+$Definition['Browse Addons'] = 'Все дополнения';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Просто укажите новый баннер, если вы хотите сменить текущий:';
 $Definition['Button Background Color'] = 'Кнопка цвета фона';
 $Definition['Button Text Color'] = 'Кнопка цвета текста';
@@ -278,7 +279,7 @@ $Definition['Every Page'] = 'Каждая страница';
 $Definition['Everything is ok.'] = 'Все в порядке.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Исключить архив дискуссий из списка обсуждений';
 $Definition['Existing members send invitations to new members.'] = 'Зарегистрированные пользователи посылают приглашения новым пользователям.';
-$Definition['Exit Preview'] = 'Завершить просмотр';
+$Definition['Exit Preview'] = 'Покинуть предпросмотр';
 
 $Definition['Facebook Settings'] = 'Настройки Facebook';
 $Definition['Failure'] = 'Неудача';
@@ -310,7 +311,7 @@ $Definition['Guest roles'] = 'Отметить все группы, которы
 
 $Definition['Hash Algorithm'] = 'Алгоритм хеширования';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} создал аккаунт для {RegardingUserID,user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{ActivityUserID,your} изменил картинку профиля пользователя {RegardingUserID,You}.';
+$Definition['HeadlineFormat.PictureChange'] = '{ActivityUserID,user} изменил картинку профиля пользователя {RegardingUserID,user}.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} одобрил заявки пользователя {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
@@ -645,7 +646,7 @@ $Definition['You are connected as %s.'] = 'Вы подключены как %s.'
 $Definition['You are previewing the %s theme.'] = 'Вы просматриваете тему %s';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Установите флажок рядом с пользователем, который опубликовал спам, чтобы также отлучить его и удалить все его публикации. <b>Делайте это только если вы уверены, что это спамер!</b>';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Вы всегда можете использовать пароль на <a href="%1$s">%1$s</a>.';
-$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Вы можете отлучить по IP-адресу, домену email-адресов и слов в именах пользователей.  ';
+$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Вы можете заблокировать по IP-адресу, домену email-адресов и словам в именах пользователей.  ';
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Вы можете настроить HTML и CSS для этой темы на странице %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Вы можете либо создать новый аккаунт, либо ввести учетные данные уже существующего аккаунта.';
 $Definition['You can make the categories page your homepage.'] = 'Страницы разделов можно установить в качестве главной страницы <a href="%s">тут</a>.';

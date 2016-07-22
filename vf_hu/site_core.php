@@ -1100,6 +1100,7 @@ $Definition['Sections'] = 'Szekciók';
 $Definition['Security Check'] = 'Biztonsági ellenőrzés';
 $Definition['Select a %s'] = 'Válassz egy %s-t';
 $Definition['Select a category...'] = 'Válasszon kategóriát...';
+$Definition['Select a community.'] = 'Válassz egy közösséget.';
 $Definition['Select an image on your computer (2mb max)'] = 'Válassz egy képet a számítógépedről (max. 2MB).';
 $Definition['Select one of the following avatars:'] = 'Válassz egyet az alábbi avatarok közül:';
 $Definition['Send'] = 'Elküld';

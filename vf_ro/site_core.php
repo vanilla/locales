@@ -162,6 +162,7 @@ $Definition['Add Note'] = 'Adăugați o notă';
 $Definition['Add People to this Conversation'] = 'Adăugați membri la conversație';
 $Definition['Add Route'] = 'Adăugați ruta';
 $Definition['Administrator Activity'] = 'Activitate administrator';
+$Definition['Administrator and moderator'] = 'Administrator și moderator';
 $Definition['administrators'] = 'administratori';
 $Definition['Advanced'] = 'Avansat';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'Ooops! Eroare în timpul procesării cererii.<br />Serverul a returnat următorul raspuns: %s';
