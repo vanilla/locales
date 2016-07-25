@@ -183,6 +183,7 @@ $Definition['All Categories'] = 'Все разделы';
 $Definition['all categories'] = 'Все разделы';
 $Definition['All Conversations'] = 'Все диалоги';
 $Definition['All Discussions'] = 'Все дискуссии';
+$Definition['All discussions marked as viewed.'] = 'Все дискуссии отмечены как просмотренные.';
 $Definition['All Events'] = 'Все события';
 $Definition['All Members'] = '
         Все участники
@@ -308,6 +309,7 @@ $Definition['Category'] = 'Раздел';
 $Definition['Category Filter'] = 'Фильтр разделов';
 $Definition['CategoryID'] = 'Раздел';
 $Definition['Category Management'] = 'Менеджер разделов';
+$Definition['Category marked as viewed.'] = 'Раздел отмечен как просмотренный.';
 $Definition['Category Notifications'] = 'Уведомления раздела';
 $Definition['Category to Use'] = 'Используемый раздел';
 $Definition['Change'] = 'Изменить';
