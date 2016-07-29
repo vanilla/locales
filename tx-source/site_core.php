@@ -1251,6 +1251,7 @@ $Definition['The %s has been deleted.'] = 'The %s has been deleted.';
 $Definition['The %s has been flagged for moderation.'] = 'The %s has been flagged for moderation.';
 $Definition['The %s you were looking for could not be found.'] = 'The %s you were looking for could not be found.';
 $Definition['the category'] = 'the category';
+$Definition['The connection data has not been verified.'] = 'The connection data has not been verified.';
 $Definition['The content you were looking for has been deleted.'] = 'The content you were looking for has been deleted.';
 $Definition['The conversation has been cleared.'] = 'The conversation has been cleared.';
 $Definition['The CSRF token is invalid.'] = 'The CSRF token is invalid.';
