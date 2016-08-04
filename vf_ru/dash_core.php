@@ -335,7 +335,7 @@ $Definition['Indexes'] = 'Индексы';
 $Definition['Information'] = 'Информация';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Установите Vanilla без файла .htaccess';
 $Definition['Internaltionalization & Localization'] = 'Интернационализация и локализация';
-$Definition['Introducing Vanilla Reactions and Badges'] = 'Введение в Отклики и Значки Vanilla';
+$Definition['Introducing Vanilla Reactions and Badges'] = 'Введение в Реакции и Значки Vanilla';
 $Definition['Invalid category for deletion.'] = 'Неверный раздел для удаления.';
 $Definition['Invitation Code'] = 'Код инвайта';
 $Definition['InvitationMessage'] = 'Привет, приятель!
@@ -456,7 +456,7 @@ $Definition['Public Key'] = 'Публичный ключ';
 
 $Definition['Ranks'] = 'Ранг';
 $Definition['Re-Register API Key'] = 'Перерегистрировать ключ API';
-$Definition['Reaction Types'] = 'Типы откликов';
+$Definition['Reaction Types'] = 'Типы реакций';
 $Definition['Recalculate Counts'] = 'Пересчитать счетчики';
 $Definition['Recently Active Users'] = 'Последние активные пользователи';
 $Definition['Recent News'] = 'Свежие новости';
