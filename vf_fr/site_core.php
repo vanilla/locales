@@ -588,7 +588,7 @@ $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} avez gagné le badge
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banni {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} a posté une réponse sur <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} vous a envoyé un <a href="{Url,html}">message</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} a commencé une nouvelle discussion. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} vous a mentionné dans <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} avez changé de photo {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,User} a rejoint la communauté.';
