@@ -157,4 +157,5 @@ Si planeas hacer grandes cargas (ej. más de 200,000 comentarios) quizás necesi
 $Definition['Warning: This is for advanced users.'] = '<b>Advertencia</b>:Esto es para usuarios avanzados y requerirá cambios adicionales en su servidor web. Recomendamos no modificarlo. ';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Puedes conectarte en múltiples sitios que suporten jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Si tu archivo es demasiado grande para subirlo directamente a esta página puedes subirlo a la carpeta /uploads. Asegúrate de que el nombre de archivo empieza con <b>export</b> y termina con <b>.txt</b> ó <b>.gz</b>.';
 $Definition['You must select a file to import.'] = 'Debes seleccionar un archivo para importar.';

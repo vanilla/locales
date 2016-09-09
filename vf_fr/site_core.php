@@ -608,7 +608,7 @@ $Definition['his'] = 'son';
 $Definition['Home'] = 'Accueil';
 $Definition['hours'] = 'heures';
 $Definition['How can we help you?'] = 'Comment peut-on vous aider?';
-$Definition['Howdy, Stranger!'] = 'Salutations, Étranger!';
+$Definition['Howdy, Stranger!'] = 'Salutations, Étranger !';
 $Definition['How long do you want this warning to last?'] = 'Durée de l\'avertissement ?';
 $Definition['How many levels deep should we start folding up quote trees?'] = 'À partir de quel niveau devrions-nous commencer à cacher les citations ? ';
 
@@ -668,7 +668,7 @@ $Definition['Join this Group'] = 'Rejoindre ce groupe';
 $Definition['Join this group to view its content.'] = 'Rejoignez ce groupe pour voir son contenu.';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Efface uniquement les données de l\'utilisateur et conserve tout son contenu.';
 $Definition['Just expire the warning.'] = 'Supprimer l\'avertissement.';
-$Definition['Just you!'] = 'Vous seulement!';
+$Definition['Just you!'] = 'Vous uniquement !';
 
 $Definition['Keep me signed in'] = 'Se souvenir de moi';
 $Definition['Keep User Content'] = 'Conserver le Contenu de l\'Utilisateur';
@@ -970,6 +970,7 @@ $Definition['Quote wrote'] = 'a écrit';
 $Definition['Rank'] = 'Grade';
 $Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,a atteint,ont atteint} le grade  {Data.Name,plaintext}.';
 $Definition['Ranks.NotificationFormat'] = 'Félicitations! Vous avez atteint le grade:  {Data.Name,plaintext}.';
+$Definition['Re: %s'] = 'Re : %s';
 $Definition['React'] = 'Réagir';
 $Definition['Reaction'] = 'Réaction';
 $Definition['Reactions'] = 'Réactions';

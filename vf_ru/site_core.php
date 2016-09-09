@@ -319,7 +319,7 @@ $Definition['Change My Picture'] = 'Изменить моё изображени
 $Definition['Change Password'] = 'Изменение пароля';
 $Definition['Change Picture'] = 'Изменение изображения';
 $Definition['Check all roles that apply to this user:'] = 'Проверьте все группы, в которых может состоять этот пользователь:';
-$Definition['Check it out'] = 'Посмотрите';
+$Definition['Check it out'] = 'Перейдите к материалу';
 $Definition['Child Categories'] = 'Дочерние разделы';
 $Definition['Child Categories:'] = 'Дочерние разделы:';
 $Definition['Choose a name to identify yourself on the site.'] = 'Выберите имя для идентификации себя на сайте';
@@ -469,7 +469,7 @@ $Definition['editor.HtmlHelpText'] = 'Вы можете использовать
 $Definition['editor.MarkdownHelpText'] = 'Вы можете использовать <a href="https://ru.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> в вашей публикации.';
 $Definition['editor.TextHelpText'] = 'Вы используете простой текст в вашей публикации.';
 $Definition['editor.WysiwygHelpText'] = 'Вы используете <a href="https://ru.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> в вашей публикации.';
-$Definition['Edit Preferences'] = 'Изменить предпочтения';
+$Definition['Edit Preferences'] = 'Изменить настройки';
 $Definition['Edit Profile'] = 'Редактировать профиль';
 $Definition['Edit Tag'] = 'Редактировать тэг';
 $Definition['Edit Thumbnail'] = 'Редактирование аватара';
@@ -850,7 +850,7 @@ $Definition['My Discussions'] = 'Мои дискуссии';
 $Definition['My Drafts'] = 'Черновики';
 $Definition['My Forums'] = 'Мои форумы';
 $Definition['My Groups'] = 'Мои группы';
-$Definition['My Preferences'] = 'Мои предпочтения';
+$Definition['My Preferences'] = 'Настройки';
 $Definition['My Signature'] = 'Моя подпись';
 
 $Definition['n/a'] = 'Нет данных';
@@ -1033,7 +1033,7 @@ $Definition['Powered by %s'] = 'Работает на %s';
 $Definition['Powered by Vanilla'] = 'Создано Vanilla';
 $Definition['PreferenceBadgeEmail'] = 'Уведомлять, когда я получаю значок.';
 $Definition['PreferenceBadgePopup'] = 'Уведомлять, когда я получаю значок.';
-$Definition['Preferences'] = 'Предпочтения';
+$Definition['Preferences'] = 'Настройка';
 $Definition['Preview'] = 'Предпросмотр';
 $Definition['Previous'] = 'Назад';
 $Definition['Privacy'] = 'Конфиденциальность';

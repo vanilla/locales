@@ -8,6 +8,7 @@ $Definition['%s item in queue'] = '%s öğe sırada';
 $Definition['%s level'] = 'Seviye %s';
 $Definition['%s levels'] = 'Seviye %s';
 $Definition['%s site(s) found.'] = '%s site(ler) bulunamdı.';
+$Definition['%s times'] = '%s kere';
 $Definition['%s unavailable'] = '%s kullanılamaz';
 $Definition['%s user(s) found.'] = '%s kullanıcı(lar) bulunamadı.';
 $Definition['%s years.'] = '%s yıllar';
@@ -33,12 +34,18 @@ $Definition['[%s] Password Reset'] = '[%s] Şifre Sıfırlama';
 $Definition['[%s] Password Reset Request'] = '[%s] Şifre sıfırlamak için gerekli';
 
 $Definition['a Badge'] = 'Rozet';
+$Definition['Abilites'] = 'Yetenekler';
 $Definition['Add Category'] = 'Kategori ekle';
 $Definition['Added By'] = 'tarafından eklendi';
 $Definition['Add Info &amp; Create Account'] = 'Bilgi Gir &amp; Hesap Oluştur';
 $Definition['Add User'] = 'Kullanıcı Ekle';
+$Definition['Advanced Editor Settings'] = 'Gelişmiş Düzenleyici Ayarları';
+$Definition['Advanced Forum Settings'] = 'Gelişmiş Forum Ayarları';
+$Definition['Advanced Options'] = 'Gelişmiş Ayarlar';
 $Definition['Advanced Settings'] = 'Gelişmiş Ayarlar';
+$Definition['After'] = 'Sonra';
 $Definition['a full year.'] = 'bütün yıl';
+$Definition['All Forum Pages'] = 'Tüm Forum Sayfaları';
 $Definition['Allow embedded content'] = 'Gömüü içeriğe izin ver';
 $Definition['Allow images'] = 'Resimlere izin ver';
 $Definition['Allow users to dismiss this message'] = 'Kullanıcılara bu iletiyi göz ardı etme imkanı sağla';
@@ -58,6 +65,7 @@ $Definition['Are you sure you want to restore 1 item?'] = 'Öğeyi geri getirmek
 $Definition['Authors may always edit'] = 'Yazarlar her zaman değiştirebilirler';
 $Definition['Authors may never edit'] = 'Yazarlar hiçbir zaman değiştiremezler';
 
+$Definition['Background Color'] = 'Arkaplan Rengi';
 $Definition['Back to all users'] = 'Tüm kullanıcılara geri dön';
 $Definition['Back to Mobile Site'] = 'Mobil siteye geri dön';
 $Definition['Badge cannot be deleted.'] = 'Rozet silinemez.';
@@ -74,22 +82,66 @@ $Definition['Banning Options'] = 'Yasaklama Ayarları';
 $Definition['Ban Type'] = 'Tip';
 $Definition['Basic Information'] = 'Temel Bilgiler';
 $Definition['Before'] = 'Önce';
+$Definition['Blog Comments'] = 'Blog Yorumları';
+$Definition['Button Background Color'] = 'Buton Arkaplan Rengi';
+$Definition['Button Text Color'] = 'Buton Yazı Rengi';
 
+$Definition['Category Url:'] = 'Kategori Url:';
+$Definition['Censored Words'] = 'Yasaklı Kelimeler';
 $Definition['Check out my new community!'] = 'Yeni topluluğumu gözden geçir!';
+$Definition['Client ID'] = 'İstemci ID';
+$Definition['Comment Settings'] = 'Yorum Ayarları';
 $Definition['Condition Expression'] = 'değer';
 $Definition['Condition Type'] = 'Tip';
+$Definition['CreateFile'] = 'Oluştur';
+$Definition['Current File:'] = 'Şimdiki Dosya:';
+$Definition['Current Theme'] = 'Şimdiki Tema';
 
+$Definition['default type'] = 'öntanımlı';
+$Definition['Delete User'] = 'Kullanıcıyı Sil';
+$Definition['Delete User: %s'] = 'Kullanıcıyı Sil: %s';
+$Definition['Did You Know?'] = 'Biliyor muydun?';
 $Definition['DownloadLocalePack'] = 'İndir';
 
+$Definition['Edit CSS'] = 'CSS Düzenle';
+$Definition['Edit HTML'] = 'HTML Düzenle';
+$Definition['Edit Message'] = 'Mesaj Düzenle';
+$Definition['Every %s hour'] = 'Her saat';
+$Definition['Every %s hours'] = 'Her %s saat';
+$Definition['Every %s minute'] = 'Her dakika';
+$Definition['Every %s minutes'] = 'Her %s dakika';
+
+$Definition['Homepage'] = 'Anasayfa';
 $Definition['Homepage Title'] = 'Anasayfa Başlığı';
+$Definition['Html'] = 'HTML';
+
+$Definition['Level'] = 'Seviye';
+$Definition['Likes'] = 'Beğeniler';
 
 $Definition['Notes'] = 'Notlar';
 
 $Definition['Operation By'] = 'Tarafından';
 
 $Definition['Permission.Category'] = 'Kategori';
+$Definition['Plugin'] = 'Eklenti';
+$Definition['Plugins'] = 'Eklentiler';
+$Definition['Polls'] = 'Anketler';
 
+$Definition['Record Content'] = 'İçeriği';
+$Definition['Restart'] = 'Yeniden Başlat';
+
+$Definition['Select'] = 'Seç';
+$Definition['SignedOut'] = 'Çıkış yaptınız.';
+$Definition['Site Description'] = 'Site Açıklaması';
+$Definition['Site Name'] = 'Site İsmi';
+$Definition['SMTP Host'] = 'SMTP Sunucusu';
+$Definition['SMTP Password'] = 'SMTP Şifresi';
+$Definition['SMTP User'] = 'SMTP Kullanıcısı';
+$Definition['Statistics'] = 'İstatistikler';
+
+$Definition['Text Color'] = 'Yazı Rengi';
 $Definition['The content you were looking for has been deleted.'] = 'Aradığın içerik silindi.';
+$Definition['Theme Options'] = 'Tema Ayarları';
 
 $Definition['UserKeep'] = 'Kullanıcıya Ait İçerik Kalsın';
 
