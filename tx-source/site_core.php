@@ -1570,3 +1570,8 @@ $Definition['Your status for this event is now: <b>%s</b>'] = 'Your status for t
 $Definition['Your warning was added.'] = 'Your warning was added.';
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} added {NotifyUserID,you} to a <a href="{Url,htmlencode}">conversation</a>.';
 $Definition['You wrote:'] = 'You wrote:';
+
+$Definition['Remove file'] = 'Remove file';
+$Definition['Inserted'] = 'Inserted';
+$Definition['This image has been inserted into the body of text.'] = 'This image has been inserted into the body of text.';
+
