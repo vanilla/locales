@@ -38,6 +38,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Password Reset Request';
 
 $Definition['a Badge'] = 'a Badge';
 $Definition['Abilites'] = 'Abilities';
+$Definition['Abilities'] = 'Abilities';
 $Definition['Above Main Content'] = 'Above Main Content';
 $Definition['Account Sync Failed'] = 'Account Sync Failed';
 $Definition['Action'] = 'Action';
