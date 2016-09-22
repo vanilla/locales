@@ -617,6 +617,7 @@ $Definition['Have a great day!'] = 'Have a great day!';
 $Definition['he'] = 'he';
 $Definition['Heading'] = 'Heading';
 $Definition['Heading %s'] = 'Heading %s';
+$Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} commented on <a href="{Url,html}">{Data.Name,text}</a>';
@@ -1570,3 +1571,8 @@ $Definition['Your status for this event is now: <b>%s</b>'] = 'Your status for t
 $Definition['Your warning was added.'] = 'Your warning was added.';
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} added {NotifyUserID,you} to a <a href="{Url,htmlencode}">conversation</a>.';
 $Definition['You wrote:'] = 'You wrote:';
+
+$Definition['Remove file'] = 'Remove file';
+$Definition['Inserted'] = 'Inserted';
+$Definition['This image has been inserted into the body of text.'] = 'This image has been inserted into the body of text.';
+
