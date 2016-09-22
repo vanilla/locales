@@ -588,7 +588,7 @@ $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} avez gagné le badge
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banni {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} a posté une réponse sur <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} vous a envoyé un <a href="{Url,html}">message</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} a commencé une nouvelle discussion. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} a crée une nouvelle discussion. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} vous a mentionné dans <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} avez changé de photo {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,User} a rejoint la communauté.';
@@ -613,7 +613,7 @@ $Definition['How long do you want this warning to last?'] = 'Durée de l\'averti
 $Definition['How many levels deep should we start folding up quote trees?'] = 'À partir de quel niveau devrions-nous commencer à cacher les citations ? ';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'J\'accepte les <a id="TermsOfService" class="Popup" target="terms" href="%s">conditions d\'utilisation du forum</a>';
-$Definition['Icon'] = 'Icone';
+$Definition['Icon'] = 'Icône';
 $Definition['I confirm that I have received consent to join this community.'] = 'Étant âgé de moins de %d ans, je confirme avoir reçu la permission de rejoindre cette communauté.';
 $Definition['Idea'] = 'Idée';
 $Definition['idea'] = 'Idée';
