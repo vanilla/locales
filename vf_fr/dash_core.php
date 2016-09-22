@@ -436,9 +436,9 @@ $Definition['Pocket'] = 'Bloc';
 $Definition['Pockets'] = 'Blocs';
 $Definition['Polls'] = 'Sondages';
 $Definition['Preview Colors'] = 'Prévisualisation des couleurs';
-$Definition['Private Key'] = 'Clé Privée';
+$Definition['Private Key'] = 'Clé Secrète';
 $Definition['Provider'] = 'Fournisseur';
-$Definition['Public Key'] = 'Clé publique';
+$Definition['Public Key'] = 'Clé du site';
 
 $Definition['Ranks'] = 'Grades';
 $Definition['Re-Register API Key'] = 'Pré-enregistrer la clé API';

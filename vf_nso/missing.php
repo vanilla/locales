@@ -1,5 +1,7 @@
 <?php
 
+$Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
+
 $Definition['month.letter.1'] = 'J';
 $Definition['month.letter.2'] = 'F';
 $Definition['month.letter.3'] = 'M';

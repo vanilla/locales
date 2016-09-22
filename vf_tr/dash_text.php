@@ -5,3 +5,11 @@ $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement ca
 
 $Definition['About Vanilla Statistics'] = 'Vanilla İstatistikleri Hakkında';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Doğru veritabanı adını girdiğinizden emin misiniz? Belki, yanlış girmiş olabilirsiniz. Veritabanı raporu: <code>%s</code> ';
+
+$Definition['Continue Import'] = 'İçe Aktarmaya Devam';
+
+$Definition['Disable OpenID'] = 'OpenID Devre Dışı Bırak';
+
+$Definition['The banner logo appears at the top of your forum.'] = 'Forumunuzun en başında gözükecek olan logo.';
+
+$Definition['You must select a file to import.'] = 'İçe aktarmak için bir dosya seçmek zorundasınız.';

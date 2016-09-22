@@ -89,6 +89,7 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
+$Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.

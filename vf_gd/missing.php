@@ -20,6 +20,7 @@ $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent 
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
+$Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 
 $Definition['Large images will be scaled down.'] = 'Large images will be scaled down to a max width of %spx and a max height of %spx.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
