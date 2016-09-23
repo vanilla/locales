@@ -35,7 +35,6 @@ $Definition['[%s] Password Reset'] = '[%s] Zmena Hesla';
 $Definition['[%s] Password Reset Request'] = '[%s] Žiadosť o Zmenu Hesla';
 
 $Definition['a Badge'] = 'Odznak';
-$Definition['Abilites'] = 'Schopnosti';
 $Definition['Above Main Content'] = 'Nad Hlavný Obsah';
 $Definition['Account Sync Failed'] = 'Synchronizácia Účtu Zlyhala';
 $Definition['Action'] = 'Akcia';

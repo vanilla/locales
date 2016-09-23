@@ -34,7 +34,6 @@ $Definition['[%s] Password Reset'] = '[%s] Slaptažodžio keitimas';
 $Definition['[%s] Password Reset Request'] = '[%s] Slaptažodžio keitimo prašymas';
 
 $Definition['a Badge'] = 'Medalis';
-$Definition['Abilites'] = 'Gebėjimai';
 $Definition['Above Main Content'] = 'Virš pagrindinio turinio';
 $Definition['Account Sync Failed'] = 'Paskyros sinchronizavimas nepavyko';
 $Definition['Action'] = 'Veiksmas';

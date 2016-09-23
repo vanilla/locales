@@ -160,4 +160,5 @@ Klicka <a href="http://vanillaforums.com/porter">här</a> för mer information.'
 $Definition['Warning: This is for advanced users.'] = '<b>Varning</b>: Det här är för avancerade användare och kräver att du gör ytterligare ändringar i din webbserver. Det här är vanligen endast tillgängligt om du har en dedikerad värd eller en vps-värd. Försök inte att göra detta om du inte vet vad du gör.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Du kan koppla upp dig mot många sajter som stödjer jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Om din fil är för stor för att ladda upp direkt till sidan kan du placera den i din /uploads katalog. Kontrollera att filnamnet börjar med ordet <b>export</b> och avslutas med något av <b>.txt, .gz<b>';
 $Definition['You must select a file to import.'] = 'Du måste välja en fil att importera.';

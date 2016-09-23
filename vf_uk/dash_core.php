@@ -6,6 +6,7 @@ $Definition['1 month after being sent'] = 'Через 1 місяць після 
 $Definition['1 week after being sent'] = 'Через 1 тиждень після відправлення';
 $Definition['2 weeks after being sent'] = 'Через 2 тиждені після відправлення';
 
+$Definition['Abilites'] = 'Здібності';
 $Definition['Action'] = 'Дія';
 $Definition['Add Category'] = 'Додати категорію';
 $Definition['Add Info &amp; Create Account'] = 'Додати інформацію; створити аккаунт';
@@ -13,6 +14,8 @@ $Definition['Adding & Editing Categories'] = 'Створення та редаг
 $Definition['Addons'] = 'Розширення';
 $Definition['Add Role'] = 'Додати роль';
 $Definition['Add User'] = 'Додати користувача';
+$Definition['Allow embedded content'] = 'Дозволити вбудований контент';
+$Definition['Allow images'] = 'Дозволити зображення';
 $Definition['Allow users to dismiss this message'] = 'Дозволити користувачам відхиляти це повідомлення';
 $Definition['Applicant'] = 'Здобувач';
 $Definition['Application'] = 'Програма';
@@ -21,6 +24,7 @@ $Definition['Applied On'] = 'Підтверджено';
 $Definition['Approval'] = 'З підтвердженням';
 $Definition['Archive Discussions'] = 'Архів обговорень';
 
+$Definition['Background Color'] = 'Колір фону';
 $Definition['Badge Name'] = 'Ім\'я';
 $Definition['Ban Item'] = 'пункт бану';
 $Definition['Banner'] = 'Заголовок';
@@ -28,14 +32,20 @@ $Definition['Banner Logo'] = 'Логотип';
 $Definition['Banner Title'] = 'Текст заголовку';
 $Definition['Ban Type'] = 'Тип';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
+$Definition['Button Background Color'] = 'Фоновий колір кнопки';
+$Definition['Button Text Color'] = 'Колір тексту кнопки';
 
 $Definition['Categories &amp; Discussions'] = 'Категорії та обговорення';
+$Definition['Categories are used to organize discussions.'] = 'Категорії використовуються для того, щоб допомогти вашим користувачам організувати обговорення відповідним для вашої спільноти чином.';
 $Definition['Category Page Layout'] = 'Розмітка сторінки категорій';
 $Definition['Category Url:'] = 'Адреса категорії:';
 $Definition['Change the way that new users register with the site.'] = 'Змініть спосіб реєстрації нових користувачів на сайті';
 $Definition['Changing the Discussions Menu Link'] = 'Зміна посилання меню обговорень';
 $Definition['Check all permissions that apply for each role'] = 'Позначте всі права, які слід застосувати до кожної ролі';
 $Definition['Check all permissions that apply to this role:'] = 'Позначте всі дії, дозволені цій ролі:';
+$Definition['Check out the new community forum I\'ve just set up.'] = 'Привіт, друже!
+
+Зазирни на новий форум спільноти, щойно створений мною. Це чудове місце, щоб потеревенити одне з одним онлайн.';
 $Definition['Choose who can send out invitations to new members:'] = 'Виберіть, хто може надсилати запрошення новим користувачам:';
 $Definition['comment(s)'] = 'коментар(-я, -ів)';
 $Definition['Comments per Page'] = 'Коментарів на сторінці';
@@ -69,14 +79,17 @@ $Definition['Do not display the categories in the side panel.'] = 'Не відо
 $Definition['DownloadLocalePack'] = 'Завантажити';
 
 $Definition['Edit Category'] = 'Редагування категорії';
+$Definition['Edit HTML'] = 'Редагувати HTML';
 $Definition['Edit Message'] = 'Редагувати повідомлення';
 $Definition['Edit User'] = 'Редагувати користувача';
+$Definition['Email Styles'] = 'Стилі електронного листа';
 $Definition['Enable'] = 'Включити';
 $Definition['Enabled: The pocket will be displayed.'] = 'Включені';
 $Definition['Enable this message'] = 'Активувати це повідомлення';
 $Definition['Enabling a Locale Pack'] = 'Включення пакету перекладу';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Введіть адресу Email людини, яку хочете запросити:';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'Введіть посилання на сторінку, яку хочете зробити головною:';
+$Definition['Error sending email. Please review the addresses and try again.'] = 'Помилка під час надсилання повідомлення. Будь ласка, перевірте адресу та спробуйте ще раз.';
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
@@ -91,19 +104,30 @@ $Definition['Get More Applications'] = 'Знайти ще програми';
 $Definition['Get More Plugins'] = 'Знайти ще плагіни';
 $Definition['Get More Themes'] = 'Знайти ще теми';
 $Definition['Getting Started'] = 'Початок';
+$Definition['Give a Badge'] = 'Дати відзнаку';
 
 $Definition['Help &amp; Tutorials'] = 'Допомога та посібники';
+$Definition['Hide signatures for guests'] = 'Приховати підписи для гостей';
+$Definition['Hide signatures on embedded comments'] = 'Приховати підписи у вбудованих відгуках';
 $Definition['Homepage'] = 'Головна сторінка';
+$Definition['Html'] = 'HTML';
+$Definition['HTML Emails'] = 'Електронні адреси HTML';
 
 $Definition['Information'] = 'Інформація';
 $Definition['Internaltionalization & Localization'] = 'Інтернаціоналізація та локалізація';
 $Definition['Invitation Code'] = 'Код запрошення';
+$Definition['InvitationMessage'] = 'Привіт, друже!
+
+Зазирни на новий форум спільноти, щойно створений мною. Це чудове місце, щоб потеревенити одне з одним онлайн.
+
+Перейти за посиланням нижче, щоб увійти на сайт.';
 $Definition['Invitations per month'] = 'Запрошень в місяць';
 $Definition['Invitations will expire'] = 'Запрошення будуть втрачати силу';
 
 $Definition['Key Type'] = 'Тип ключа';
 $Definition['Key Value'] = 'Значення ключа';
 
+$Definition['Large images will be scaled down.'] = 'Великі зображення будуть зменшені до максимальної ширини %spx та максимальної висоти %spx.';
 $Definition['Last Visit'] = 'Останнє відвідування';
 $Definition['Locale Name'] = 'Назва перекладу';
 $Definition['Locales'] = 'Переклади';
@@ -120,7 +144,11 @@ $Definition['Manage Spam'] = 'Керування спамом';
 $Definition['Manage Themes'] = 'Керування темами';
 $Definition['Manage Users'] = 'Керування  користувачами';
 $Definition['Managing Categories'] = 'Керування категоріями';
+$Definition['Max %s length'] = 'Максимальна довжина %s ';
 $Definition['Max Comment Length'] = 'Максимальна довжина коментаря';
+$Definition['Max height of %s'] = 'Максимальна висота %s';
+$Definition['Max height of %s in pixels'] = 'Максимальна висота %s у пікселях';
+$Definition['Max number of %s'] = 'Максимальна кількість %s';
 $Definition['Method'] = 'Метод';
 $Definition['minute(s)'] = 'хвилин(-у, -и)';
 $Definition['My Invitations'] = 'Мої запрошення';
@@ -148,10 +176,12 @@ $Definition['Other Themes'] = 'Інші теми';
 $Definition['Other Tutorials'] = 'Інші посібники';
 $Definition['Outgoing Email'] = 'Вихідні';
 
+$Definition['Page Color'] = 'Колір сторінки';
 $Definition['Password Options'] = 'Налаштування пароля';
 $Definition['Permission.Category'] = 'Категорія';
 $Definition['Plugin'] = 'Плагін';
 $Definition['Plugins'] = 'Плагіни';
+$Definition['Preview Colors'] = 'Попередній перегляд кольорів';
 $Definition['Private Key'] = 'Приватний ключ';
 $Definition['Public Key'] = 'Публічний ключ';
 
@@ -159,6 +189,7 @@ $Definition['Recently Active Users'] = 'Нещодавно активні кор
 $Definition['Recent News'] = 'Свіжі новини';
 $Definition['Refresh Comments'] = 'Обновлення коментарів';
 $Definition['Registration'] = 'Реєстрація';
+$Definition['Remove Email Logo'] = 'Видалити логотип пошти';
 $Definition['Reset password and send email notification to user'] = 'Очистити пароль оповістити про це користувача поштою';
 $Definition['Reveal Password'] = 'Показати пароль';
 $Definition['Role'] = 'Роль';
@@ -168,8 +199,10 @@ $Definition['Roles determine user\'s permissions.'] = 'Кожен користу
 $Definition['Route'] = 'Маршрут';
 $Definition['Routes'] = 'Маршрути';
 
+$Definition['Save Colors'] = 'Зберегти кольори';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = 'секунд';
+$Definition['Send a Test Email'] = 'Надіслати тестового електронного листа';
 $Definition['SMTP Host'] = 'SMTP сервер';
 $Definition['SMTP Password'] = 'SMTP пароль';
 $Definition['SMTP Port'] = 'SMTP порт';
@@ -178,20 +211,33 @@ $Definition['SMTP User'] = 'SMTP користувач';
 $Definition['Statistics'] = 'Статистика';
 
 $Definition['Temporary (302)'] = 'Тимчасовий (302)';
+$Definition['Test Email'] = 'Тестовий електронний лист';
+$Definition['Test email from %s'] = 'Тестовий електронний лист від %s';
+$Definition['Test Email Message'] = '<p>Це тестове електронне повідомлення.</p>
+
+<p>Ви можете налаштувати вигляд своїх повідомлень з форуму, якщо перейдете на сторінку "Електронний лист" в особистому кабінеті.</p>';
+$Definition['Text Color'] = 'Колір тексту';
 $Definition['The content you were looking for has been deleted.'] = 'Дані, які ви шукали, було видалено.';
+$Definition['The email has been sent.'] = 'Повідомлення надіслано.';
 $Definition['The homepage was saved successfully.'] = 'Головна сторінка була успішно збереженна.';
 $Definition['Themes'] = 'Теми';
 $Definition['Theming Overview'] = 'Огляд тем';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Сталася помилка при завантаженні зображення. Логотип вашої електронної пошти можна завантажити в 1 з наступних форматів: gif, jpg, png';
 $Definition['There are currently no applicants.'] = 'На даний час немає користувачів, котрі очікують підтвердження реєстрації.';
 $Definition['This category has custom permissions.'] = 'Ця категорія має користувацькі права';
+$Definition['This pocket is an ad.'] = 'Цей блок є рекламним.';
 
+$Definition['Universal Forum Embed Code'] = 'Універсальний код вбудовування для форумів';
 $Definition['Unlimited'] = 'Необмежено';
+$Definition['Upload New Email Logo'] = 'Завантажити новий логотип ';
 $Definition['Use an SMTP server to send email'] = 'Використовувати SMTP-сервер для відправки Email.';
+$Definition['Use asterisks for wildcards'] = 'Використовуйте символ зірочки для імені, напр. &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use categories to organize discussions'] = 'Використовувати категорії для організації обговорень';
 $Definition['User Count'] = 'Користувачі';
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['UserKeep'] = 'Залишити контент користувача';
 $Definition['User Registration Settings'] = 'Налаштування реєстрації користувачів';
+$Definition['Users with the no ads permission will not see this pocket.'] = 'Користувачі без дозволу на відображення реклами не побачать цей блок.';
 
 $Definition['Vanilla.Archive.Description'] = 'Ви можете вибрати архівацію обговорень форумі, старше зазначеної дати. Обговорення в архіві стають закритими і не допускають нових повідомлень.';
 $Definition['Version'] = 'Версія';
@@ -205,4 +251,5 @@ $Definition['Why do you want to join?'] = 'Чому ви вирішили при
 $Definition['Within'] = 'Протягом';
 
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Якщо ви коли-небудь заблокуєте ваш форум, ви  завжди зможете війти,  використовуючи оригінальний Email Vanilla та пароль тут: <a href="%1$s">%1$s</a>';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = 'Ви можете надсилати листи у вигляді звичайного тексту, увімкнувши перемикач, розташований нижче.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';

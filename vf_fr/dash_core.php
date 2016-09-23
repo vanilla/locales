@@ -32,7 +32,7 @@ $Definition['[%s] Password Reset'] = 'Réinitialisation du mot de passe';
 $Definition['[%s] Password Reset Request'] = '[%s] Demande de renouvellement de mot de passe.';
 
 $Definition['a Badge'] = 'un Badge';
-$Definition['Abilites'] = 'Permissions';
+$Definition['Abilites'] = 'Capacités';
 $Definition['Above Main Content'] = 'Au-dessus du Contenu Principal';
 $Definition['Account Sync Failed'] = 'Synchronisation de comptes échouée';
 $Definition['Actions Based on Votes'] = 'Actions basées sur des votes';

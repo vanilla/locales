@@ -33,7 +33,7 @@ $Definition['[%s] Password Reset'] = '[%s] Nulstilling af adgangskode';
 $Definition['[%s] Password Reset Request'] = '[%s] Password nulstilling anmodning';
 
 $Definition['a Badge'] = 'et Badge';
-$Definition['Abilites'] = 'Evner';
+$Definition['Abilites'] = 'Muligheder';
 $Definition['Above Main Content'] = 'Over hovedindholdet';
 $Definition['Account Sync Failed'] = 'Konto Synkronisering mislykkedes';
 $Definition['Action'] = 'Handling';

@@ -578,6 +578,7 @@ $Definition['Hang on a sec while we sign you out.'] = 'Подождите сек
 $Definition['Have a great day!'] = 'Приятного вам дня!';
 $Definition['he'] = 'онъ';
 $Definition['Heading'] = 'Заголовок';
+$Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} ответил(а) на ваш вопрос: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} удостоились <a href="{Url,html}">{Data.Name,text}</a> значка.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} были забанены {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} комментировали <a href="{Url,html}">{Data.Name,text}</a>';
@@ -623,6 +624,7 @@ $Definition['Incorrect. Try again.'] = 'Не правильно. Повтори�
 $Definition['In Progress'] = 'В процессе';
 $Definition['In Review'] = 'На рассмотрении';
 $Definition['In seconds'] = ' въ секундахъ';
+$Definition['Inserted'] = 'Вставлено';
 $Definition['Insert Image'] = 'Вставить картинку въ сообщеніе';
 $Definition['Insightful'] = 'Проницательно';
 $Definition['Internal'] = 'Внутренній';
@@ -968,6 +970,7 @@ $Definition['Remote Configuration'] = 'Удаленная настройка';
 $Definition['Remove'] = 'Удалить';
 $Definition['Remove %s'] = 'Удалить %s';
 $Definition['Removed by'] = 'Удалено';
+$Definition['Remove file'] = 'Удалить файл';
 $Definition['Remove Icon'] = 'Удалить иконку';
 $Definition['Remove My Picture'] = 'Удалить мое изображеніе';
 $Definition['Remove Picture'] = 'Удалить изображеніе';
@@ -1155,6 +1158,7 @@ $Definition['This discussion has been closed.'] = 'Сія тема была за
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'Сіе обсужденіе было связанно съ неосознаннымъ внѣшнимъ источникомъ.';
 $Definition['This discussion was created from comments split from: %s.'] = 'Сія дискуссія была создана изъ комментаріевъ, выдѣленныхъ изъ: %s.';
 $Definition['This discussion was merged into %s'] = 'Сія тема была перемѣщена';
+$Definition['This image has been inserted into the body of text.'] = 'Это изображение было вставлено в текст.';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Изображеніе было уменьшено. Нажмите для увеличенія.';
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'Это приватный опросъ: никто не будетъ видѣть что вы голосовали.';
 $Definition['This is a public poll: others will see what you voted for.'] = 'Это общественный опросъ: другіе будутъ видѣть что вы голосовали.';

@@ -1,5 +1,9 @@
 <?php
 
+$Definition['Abilites'] = 'Abilities';
+
+$Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
+
 $Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 
 $Definition['month.letter.1'] = 'J';

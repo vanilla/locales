@@ -35,7 +35,6 @@ $Definition['[%s] Password Reset'] = '[%s] Pušetšosekeng ya Phasewete';
 $Definition['[%s] Password Reset Request'] = '[%s] Kgopelo ya Pušetšosekeng ya Phasewete';
 
 $Definition['a Badge'] = 'Petšhe';
-$Definition['Abilites'] = 'Bokgoni';
 $Definition['Above Main Content'] = 'Ka Godimo ga Diteng tše Dikgolo';
 $Definition['Account Sync Failed'] = 'Akhaonte e Paletšwe ke go Nyalantšha';
 $Definition['Action'] = 'Kgato';

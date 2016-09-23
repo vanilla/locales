@@ -32,7 +32,7 @@ $Definition['15 minutes'] = '15 минутъ';
 $Definition['[%s] Confirm Your Email Address'] = '[%s] подтвердилъ вашъ email адресъ';
 $Definition['[%s] Invitation'] = 'Приглашеніе [%s]';
 
-$Definition['Abilites'] = 'Способность';
+$Definition['Abilites'] = 'Возможности';
 $Definition['Action'] = 'Дѣйствія';
 $Definition['Add Category'] = 'Добавить категорію';
 $Definition['Added By'] = 'Добавилъ';

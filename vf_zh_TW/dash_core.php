@@ -35,7 +35,7 @@ $Definition['[%s] Password Reset'] = '[%s] 重置密碼';
 $Definition['[%s] Password Reset Request'] = '[%s] 重置密碼請求已發送';
 
 $Definition['a Badge'] = '一枚徽章';
-$Definition['Abilites'] = '權限';
+$Definition['Abilites'] = '能力';
 $Definition['Above Main Content'] = '主要內容上方';
 $Definition['Account Sync Failed'] = '帳號同步失敗';
 $Definition['Action'] = '操作';

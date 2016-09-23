@@ -15,6 +15,7 @@ $Definition['15 minutes'] = '15分間';
 $Definition['[%s] Invitation'] = '[%s] 招待状';
 $Definition['[%s] Password Reset Request'] = '[%s] パスワード リセット依頼';
 
+$Definition['Abilites'] = '能力';
 $Definition['Action'] = 'アクション';
 $Definition['Add Category'] = 'カテゴリを追加';
 $Definition['Add Info &amp; Create Account'] = '情報追加とアカウント作成';
@@ -24,6 +25,8 @@ $Definition['Add Role'] = 'ロールを追加';
 $Definition['Add User'] = 'ユーザーを追加';
 $Definition['Advanced Forum Settings'] = '高度なフォーラム設定';
 $Definition['All %1$s'] = 'すべて %1$s';
+$Definition['Allow embedded content'] = '埋め込みコンテンツを許可';
+$Definition['Allow images'] = '画像を許可';
 $Definition['Allow users to dismiss this message'] = 'このメッセージを閉じることをユーザーに許可する';
 $Definition['Applicant'] = '申請者';
 $Definition['Application'] = 'アプリケーション';
@@ -32,6 +35,7 @@ $Definition['Approval'] = '承認制';
 $Definition['Archive Discussions'] = '過去のディスカッション';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'SEO に適したカテゴリ名の URL フレンドリー バージョン';
 
+$Definition['Background Color'] = '背景の色';
 $Definition['Badge Name'] = '名前';
 $Definition['Banner'] = 'サイトのタイトル';
 $Definition['Banner Logo'] = 'タイトルロゴ';
@@ -39,6 +43,7 @@ $Definition['Banner Title'] = 'タイトル';
 $Definition['Ban Type'] = 'タイプ';
 $Definition['Basic Information'] = '基本情報';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
+$Definition['Button Text Color'] = 'ボタンのテキストの色';
 
 $Definition['Categories &amp; Discussions'] = 'カテゴリ &amp; ディスカッション';
 $Definition['Category Page Layout'] = 'カテゴリのページ レイアウト';
@@ -48,6 +53,9 @@ $Definition['Change the way that new users register with the site.'] = '新規�
 $Definition['Changing the Discussions Menu Link'] = 'ディスカッション メニュー リンクの変更 (英語)';
 $Definition['Check all permissions that apply for each role'] = '以下のロールに適用する権限すべてにチェックを入れてください';
 $Definition['Check all permissions that apply to this role:'] = '以下のロールに適用する権限すべてにチェックを入れてください:';
+$Definition['Check out the new community forum I\'ve just set up.'] = 'こんにちは!
+
+たった今立ち上げた新しいコミュニティー・フォーラムを見てください。お互いにオンラインでチャットをする最高の場所です。';
 $Definition['Choose who can send out invitations to new members:'] = '誰が新しいメンバーに招待状を送信できるか、設定してください:';
 $Definition['comment(s)'] = '件のコメント';
 $Definition['Comments per Page'] = '1 ページに表示する最大コメント数';
@@ -82,8 +90,10 @@ $Definition['Do not display the categories in the side panel.'] = 'カテゴリ�
 $Definition['DownloadLocalePack'] = 'ダウンロード';
 
 $Definition['Edit Category'] = 'カテゴリを編集';
+$Definition['Edit HTML'] = 'HTMLを編集';
 $Definition['Edit Role'] = 'ロールを編集';
 $Definition['Edit User'] = 'ユーザーを編集';
+$Definition['Email Styles'] = 'Eメールスタイル';
 $Definition['Enable'] = '有効化';
 $Definition['Enabled %1$s'] = '有効 %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = '有効';
@@ -92,6 +102,7 @@ $Definition['Enable this message'] = 'このメッセージを有効化する';
 $Definition['Enabling a Locale Pack'] = 'ロケールパックを有効化する(英語)';
 $Definition['Enter the email address of the person you would like to invite:'] = '招待したい方のメールアドレスを入力してください:';
 $Definition['Enter the url to the page you would like to use as your homepage:'] = 'ホーム画面に設定したいページの URL を入力してください:';
+$Definition['Error sending email. Please review the addresses and try again.'] = 'Eメール送信にエラーが発生しました。アドレスを確認してやり直してください。';
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
@@ -109,7 +120,10 @@ $Definition['Get More Plugins'] = '他のプラグイン';
 $Definition['Get More Themes'] = '他のテーマ';
 
 $Definition['Hash Algorithm'] = 'ハッシュアルゴリズム';
+$Definition['Hide signatures for guests'] = 'ゲスト向け署名を非表示にする';
+$Definition['Hide signatures on embedded comments'] = '埋め込みコメントの署名を非表示にする';
 $Definition['Homepage'] = 'ホーム画面';
+$Definition['HTML Emails'] = 'HTML Eメール';
 
 $Definition['Information'] = '情報';
 $Definition['Install Vanilla without a .htaccess file.'] = '.htaccess ファイル無しで Vanilla をインストールします。';
@@ -127,6 +141,7 @@ $Definition['Invited by'] = '招待者';
 $Definition['Key Type'] = 'キーの種類';
 $Definition['Key Value'] = 'キーの値';
 
+$Definition['Large images will be scaled down.'] = '大きな画像は最大幅%spxと最大高%spxに縮小されます。';
 $Definition['Last Visit'] = '最終訪問';
 $Definition['Level'] = 'レベル';
 $Definition['Locale Name'] = 'ロケール名';
@@ -145,7 +160,11 @@ $Definition['Manage Themes'] = 'テーマ管理';
 $Definition['Manage Users'] = 'ユーザー管理';
 $Definition['Managing Categories'] = 'カテゴリの管理 (英語)';
 $Definition['Manual'] = 'マニュアル';
+$Definition['Max %s length'] = '％の最高丈';
 $Definition['Max Comment Length'] = 'コメント最大文字数';
+$Definition['Max height of %s'] = '％の最高度';
+$Definition['Max height of %s in pixels'] = 'ピクセルでの％の最高度';
+$Definition['Max number of %s'] = '％の最高数';
 $Definition['Message ID'] = 'メッセージID';
 $Definition['Method'] = '方法';
 $Definition['minute(s)'] = '分間';
@@ -172,11 +191,13 @@ $Definition['Organize Categories'] = 'カテゴリ編成';
 $Definition['Or Spamblock For'] = '違反時のスパムブロック時間';
 $Definition['Other Themes'] = '他のテーマ';
 $Definition['Outgoing Email'] = 'メール送信';
+$Definition['Outgoing Email Address'] = '送信先Eメールアドレス';
 
 $Definition['Password Options'] = 'パスワード オプション';
 $Definition['Permission.Category'] = 'カテゴリ';
 $Definition['Plugin'] = 'プラグイン';
 $Definition['Plugins'] = 'プラグイン';
+$Definition['Preview Colors'] = '色をプレビューする';
 $Definition['Private Key'] = 'プライベート キー';
 $Definition['Public Key'] = '公開キー';
 
@@ -185,6 +206,7 @@ $Definition['Recently Active Users'] = '最近 活動したユーザー';
 $Definition['Recent News'] = '最新ニュース';
 $Definition['Refresh Comments'] = 'コメントの自動更新';
 $Definition['Registration'] = '登録';
+$Definition['Remove Email Logo'] = 'Eメールロゴを削除';
 $Definition['Requires: '] = '動作要件: ';
 $Definition['Reset my password'] = 'パスワードのリセット';
 $Definition['Reset password and send email notification to user'] = 'パスワードをリセットして、ユーザーにメールで通知';
@@ -196,10 +218,12 @@ $Definition['Roles determine user\'s permissions.'] = '当サイトに参加す�
 $Definition['Route'] = 'ルート';
 $Definition['Routes'] = 'ルート';
 
+$Definition['Save Colors'] = '色を保存する';
 $Definition['Search by user or role.'] = 'ユーザー名またはロール (管理者:<input type="text" value="Administrator" size="13" onclick="this.select()" />, 申請者:<input type="text" value="Applicant" size="9" onclick="this.select()" />, 利用禁止:<input type="text" value="Banned" size="6" onclick="this.select()" />, ゲスト:<input type="text" value="Guest" size="5" onclick="this.select()" />, メンバー:<input type="text" value="Member" size="7" onclick="this.select()" />, モデレータ:<input type="text" value="Moderator" size="10" onclick="this.select()" />, メール確認待ち:<input type="text" value="Confirm Email" size="15" onclick="this.select()" />) で検索します。';
 $Definition['seconds'] = '秒間';
 $Definition['Security'] = 'セキュリティ';
 $Definition['Send %s a Message'] = '%s にメッセージを送信';
+$Definition['Send a Test Email'] = 'テストEメールを送付';
 $Definition['Sent To'] = '送信';
 $Definition['Site Description'] = 'サイトの説明';
 $Definition['SMTP Host'] = 'SMTP サーバー';
@@ -209,8 +233,14 @@ $Definition['SMTP Security'] = 'SMTP セキュリティ';
 $Definition['SMTP User'] = 'SMTP ユーザー';
 
 $Definition['Temporary (302)'] = '一時的 (302)';
+$Definition['Test Email'] = 'テストEメール';
+$Definition['Test Email Message'] = '<p>これはテストEメールのメッセージです。</p>
+
+<p>ダッシュボードのEメールページへ進んで、フォーラムのEメールの見え方を設定することができます。</p>';
+$Definition['Text Color'] = 'テキストの色';
 $Definition['The %s table is not in the correct format.'] = '%s テーブルの形式が不正です。';
 $Definition['The content you were looking for has been deleted.'] = 'あなたが見ていたコンテンツは削除されました。';
+$Definition['The email has been sent.'] = 'Eメールが送信されました。';
 $Definition['The homepage was saved successfully.'] = 'ホーム画面が保存されました。';
 $Definition['Theme Options'] = 'テーマ オプション';
 $Definition['Themes'] = 'テーマ';
@@ -221,15 +251,20 @@ $Definition['The specified url code is already in use by another category.'] = '
 $Definition['The user and all related content has been deleted.'] = 'このユーザーおよびすべての関連する内容は削除されました。';
 $Definition['This category has custom permissions.'] = 'このカテゴリの権限をカスタマイズする';
 $Definition['This forum is currently set to invitation only mode.'] = 'このフォーラムは現在、招待制に設定されています。';
+$Definition['This pocket is an ad.'] = 'このポケットは広告です。';
 $Definition['This theme has additional options.'] = 'このテーマは %s ページでオプションを設定できます。';
 $Definition['Titles'] = 'タイトル';
 
+$Definition['Universal Forum Embed Code'] = '全般的フォーラム埋め込みコード';
 $Definition['Unlimited'] = '無制限';
+$Definition['Upload New Email Logo'] = '新しいEメールロゴをアップロード';
 $Definition['Use an SMTP server to send email'] = 'メールの送信に SMTP サーバを使用';
+$Definition['Use asterisks for wildcards'] = 'ワイルドカードにアスタリスクを使用してください。例: &lsquo;*@hotmail.com&rsquo;';
 $Definition['Use categories to organize discussions'] = 'ディスカッションを整理するためカテゴリを使用する';
 $Definition['User Count'] = 'ユーザー';
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['User Registration Settings'] = 'ユーザー登録設定';
+$Definition['Users with the no ads permission will not see this pocket.'] = '全ての宣伝を拒否しているユーザーはこのポケットが見れません。';
 $Definition['Use the content at this url as your homepage.'] = '"ホーム画面" は <strong>%s</strong> にアクセスしたときに表示されます。既定では "すべてのディスカッション" がホーム画面になっていますが、この設定は自由に変更できます。以下は代表的なオプションです:';
 
 $Definition['Vanilla.Archive.Description'] = '特定の日付より古いディスカッションをアーカイブ化できます。アーカイブ化されたディスカッションは事実上 閉じられ、新しいコメントを受け付けなくなります。';

@@ -7,6 +7,7 @@ $Definition['1 month after being sent'] = '발송 후 1개월 경과';
 $Definition['1 week after being sent'] = '발송 후 1 주 경과';
 $Definition['2 weeks after being sent'] = '발송 후 2 주 경과';
 
+$Definition['Abilites'] = '능력';
 $Definition['Action'] = '활동';
 $Definition['Add Category'] = '카테고리 추가';
 $Definition['Add Info &amp; Create Account'] = '정보 입력 &amp; 계정 만들기';
@@ -14,12 +15,15 @@ $Definition['Addons'] = '추가 기능';
 $Definition['Add Role'] = '역할 추가하기';
 $Definition['Add User'] = '사용자 추가';
 $Definition['Advanced Forum Settings'] = '고급 포럼 설정';
+$Definition['Allow embedded content'] = '임베디드 된 콘텐츠 허용';
+$Definition['Allow images'] = '이미지 허용';
 $Definition['Applicant'] = '가입 승인 대기자';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['Applications'] = '어플리케이션';
 $Definition['Applied On'] = '날짜';
 $Definition['Archive Discussions'] = '글타레 보관하기';
 
+$Definition['Background Color'] = '배경 색상';
 $Definition['Badge Name'] = '이름';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
 $Definition['Ban Item'] = '항목';
@@ -27,12 +31,18 @@ $Definition['Banner'] = '배너';
 $Definition['Banner Logo'] = '배너 로고';
 $Definition['Banner Title'] = '배너 이름';
 $Definition['Ban Type'] = '유형';
+$Definition['Button Background Color'] = '버튼 배경 색상';
+$Definition['Button Text Color'] = '버튼 텍스트 색상';
 
+$Definition['Categories are used to organize discussions.'] = '사용자가 토론을 커뮤티니에 의미있는 방식으로 정리 할 수 있도록 카테고리가 사용됩니다. ';
 $Definition['Category Page Layout'] = '카테고리 페이지 레이아웃';
 $Definition['Category Url:'] = '카테고리 주소';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way that new users register with the site.'] = '새로운 사용자가 사이트에 등록하는 방식을 변경합니다.';
 $Definition['Check all permissions that apply for each role'] = '각 역할에 할당된 모든 사용 권한을 확인';
+$Definition['Check out the new community forum I\'ve just set up.'] = '안녕하세요 친구!
+
+제가 방금 만든 새 커뮤니티를 확인해보세요. 온라인에서 서로 대화를 나눌 수 있는 좋은 장소입니다. ';
 $Definition['Choose a locale pack'] = '현지화 페키지 선택';
 $Definition['Choose who can send out invitations to new members:'] = '신규회원에게 초대장을 보낼 수 있는 회원을 선택해 주십시오:';
 $Definition['comment(s)'] = '개 이상의 댓글을';
@@ -62,13 +72,16 @@ $Definition['Do not display the categories in the side panel.'] = '사이드바�
 $Definition['DownloadLocalePack'] = '다운로드';
 
 $Definition['Edit Category'] = '카테고리 수정';
+$Definition['Edit HTML'] = 'HTML 편집';
 $Definition['Edit User'] = '사용자 수정';
+$Definition['Email Styles'] = '이메일 스타일';
 $Definition['Enable'] = '사용';
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enable OpenID'] = 'OpenID 활성화';
 $Definition['Enter the email address of the person you would like to invite:'] = '초대하고 싶은 사람의 이메일 주소를 입력하세요 :';
 $Definition['Enter the url to the page you would like to use as your homepage'] = '포럼의 홈페이지로 사용하기를 원하는 URL을 입력하세요';
+$Definition['Error sending email. Please review the addresses and try again.'] = '이메일 전송 오류. 주소를 확인하고 다시 시도하세요. ';
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
@@ -83,6 +96,7 @@ $Definition['Force your forum to be viewed through the Remote Url'] = '포럼이
 $Definition['Forum Settings'] = '포럼 설정';
 
 $Definition['Generate'] = '생성';
+$Definition['Give a Badge'] = '배지 주기';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
@@ -90,7 +104,11 @@ $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {Ac
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
+$Definition['Hide signatures for guests'] = '게스트에게 서명 숨기기';
+$Definition['Hide signatures on embedded comments'] = '임베디드 된 게시물에 서명 숨기기';
 $Definition['Homepage'] = '메인';
+$Definition['Html'] = 'HTML';
+$Definition['HTML Emails'] = 'HTML 이메일';
 
 $Definition['Information'] = '정보';
 $Definition['Invitation Code'] = '초대장 등록 코드';
@@ -103,6 +121,7 @@ $Definition['Invitations per month'] = '월별 초대 횟수';
 $Definition['Invitations will expire'] = '초대 기간 만료';
 $Definition['Invited by'] = '다음의 사용자가 당신을 초대하였습니다';
 
+$Definition['Large images will be scaled down.'] = '큰 이미지는 최대 폭 %spx, 최대 높이 %spx로 축소됩니다.   ';
 $Definition['Last Visit'] = '최근 방문한 날짜';
 $Definition['Locale Name'] = '언어 이름';
 $Definition['Locales'] = '언어 설정';
@@ -118,7 +137,11 @@ $Definition['Manage Roles & Permissions'] = '역할 및 권한 설정';
 $Definition['Manage Spam'] = '스팸 관리';
 $Definition['Manage Themes'] = '테마 관리';
 $Definition['Manage Users'] = '사용자 관리';
+$Definition['Max %s length'] = '최대 %s 길이';
 $Definition['Max Comment Length'] = '최대 댓글 길이';
+$Definition['Max height of %s'] = '최대 높이 %s';
+$Definition['Max height of %s in pixels'] = '픽셀 단위로 최대 높이 %s';
+$Definition['Max number of %s'] = '최대 %s';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Method'] = '방법';
 $Definition['minute(s)'] = '분 동안 게시 불가.';
@@ -138,16 +161,19 @@ $Definition['Or Spamblock For'] = '초과할 경우';
 $Definition['Other Themes'] = '다른 테마들';
 $Definition['Outgoing Email'] = '이메일 설정';
 
+$Definition['Page Color'] = '페이지 색상';
 $Definition['Password Options'] = '패스워드 옵션';
 $Definition['Permission.Category'] = '카테고리';
 $Definition['Plugin'] = '플러그인';
 $Definition['Plugins'] = '플러그인';
+$Definition['Preview Colors'] = '색상 미리보기';
 
 $Definition['Recently Active Users'] = '사용자 최신 활동내역';
 $Definition['Recent News'] = '새로운 뉴스';
 $Definition['Record Content'] = 'Content';
 $Definition['Refresh Comments'] = '새로고침';
 $Definition['Registration'] = '사용자 등록 설정';
+$Definition['Remove Email Logo'] = '이메일 로고 제거';
 $Definition['Reset password and send email notification to user'] = '패스워드를 재설정하고 사용자에게 이메일 통지를 보냅니다.';
 $Definition['Reveal Password'] = '패스워드 보이기';
 $Definition['Role'] = '역할(Role)';
@@ -168,24 +194,38 @@ $Definition['Roles determine user\'s permissions.'] = '포럼의 모든 회원�
 $Definition['Route'] = '라우팅 경로';
 $Definition['Routes'] = '라우팅 경로 설정';
 
+$Definition['Save Colors'] = '색상 저장';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = '초 이내에 게시 불가.';
 $Definition['Send %s a Message'] = '%s님에게 메세지를 보냅니다';
+$Definition['Send a Test Email'] = '테스트 이메일 전송';
 $Definition['SignedOut'] = 'You are signed out.';
 
+$Definition['Test Email'] = '테스트 이메일';
+$Definition['Test email from %s'] = '%s님의 테스트 이메일';
+$Definition['Test Email Message'] = '<p>이것은 테스트 이메일 메시지입니다.</p>
+
+<p>대시보드에서 이메일 페이지로 이동하여 포럼의 이메일 외관을 설정하실 수 있습니다.</p>';
+$Definition['Text Color'] = '텍스트 색상';
 $Definition['TextEnterEmails'] = 'Type email addresses separated by commas here';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = '보고 계시는 콘텐츠는 삭제되었습니다.';
+$Definition['The email has been sent.'] = '이메일이 전송되었습니다.';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
 $Definition['Themes'] = '테마';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = '이미지를 업로드하는데 오류가 발생했습니다. 이메일 로고는 다음 파일 형식 중 하나로 업로드 할 수 있습니다: gif, jpg, png';
 $Definition['There are currently no applicants.'] = '가입 승인 대기자가 없습니다.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
+$Definition['This pocket is an ad.'] = '이 포켓은 광고입니다.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
 
+$Definition['Universal Forum Embed Code'] = '유니버셜 포럼 임베드 코드 ';
 $Definition['Unlimited'] = '무제한';
+$Definition['Upload New Email Logo'] = '새 이메일 로고 업로드';
 $Definition['Use an SMTP server to send email'] = 'SMPT 서버를 사용하여 이메일 발송';
+$Definition['Use asterisks for wildcards'] = '와일드카드에 별표를 사용하세요. 예)&lsquo;*@hotmail.com&rsquo;';
 $Definition['Use categories to organize discussions'] = '카테고리를 사용하여 글타레를 정리합니다';
 $Definition['User Count'] = '사용자';
 $Definition['UserDelete'] = 'Remove User Content';
@@ -194,6 +234,7 @@ $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content ass
 $Definition['UserKeep'] = '사용자 컨텐츠 유지';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
 $Definition['User Registration Settings'] = '사용자 등록 설정';
+$Definition['Users with the no ads permission will not see this pocket.'] = '광고 제거 권한이 있는 사용자는 이 포켓이 보이지 않습니다. ';
 $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
@@ -215,4 +256,5 @@ $Definition['You can also ban the users that posted the spam and delete all of t
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = '포럼 사용중 로그아웃 되었다면 다음의 경로에서 바닐라 포럼의 이메일 주소와 패스워드를 사용하여 언제든지 로그인 할 수 있습니다: <a href="%1$s">%1$s</a>';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '플러그인을 해제할 수 없습니다. %2$s이 올바르게 작동하기 위해 %1$s 플러그인이 필요합니다.';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = '아래 토글을 사용하지 않도록 설정하여 일반 텍스트로 이메일을 전송하실 수 있습니다. ';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';

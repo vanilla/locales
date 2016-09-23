@@ -13,11 +13,14 @@ $Definition['2 weeks after being sent'] = '2 tygodnie po wysłaniu';
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Potwierdź swój adres email';
 $Definition['[%s] Password Reset Request'] = '[%s] Prośba o ustawienie hasła';
 
+$Definition['Abilites'] = 'Umiejętności';
 $Definition['Action'] = 'Akcja';
 $Definition['Add Info &amp; Create Account'] = 'Dodaj informacje i utwórz konto';
 $Definition['Addons'] = 'Dodatki';
 $Definition['Add User'] = 'Dodaj użytkownika';
 $Definition['Advanced Forum Settings'] = 'Zaawansowane ustawienia forum';
+$Definition['Allow embedded content'] = 'Zezwalaj na osadzoną zawartość';
+$Definition['Allow images'] = 'Zezwalaj na zdjęcia';
 $Definition['Applicant'] = 'Kandydat';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['Application'] = 'Aplikacja';
@@ -28,6 +31,7 @@ $Definition['Applied On'] = 'Data';
 $Definition['Archive Discussions'] = 'Archiwum dyskusji';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'Wersja url-friendly od nazw kategorii usprawniająca SEO.';
 
+$Definition['Background Color'] = 'Kolor tła';
 $Definition['Badge Name'] = 'Nazwisko';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
 $Definition['Ban Item'] = 'Przedmiot';
@@ -35,11 +39,17 @@ $Definition['Banner'] = 'Baner';
 $Definition['Banner Logo'] = 'Logo Banner';
 $Definition['Banner Title'] = 'Banner tytułowy';
 $Definition['Ban Type'] = 'Wpisz';
+$Definition['Button Background Color'] = 'Przycisk Kolor tła';
+$Definition['Button Text Color'] = 'Przycisk Kolor tekstu';
 
+$Definition['Categories are used to organize discussions.'] = 'Kategorie pomagają użytkownikom w organizowaniu dyskusji w sposób odpowiedni dla danej społeczności.';
 $Definition['Category Url:'] = 'Url kategorii:';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way that new users register with the site.'] = 'Zmień sposób, w jaki nowy użytkownik może zarejestrować się na stronie.';
 $Definition['Check all permissions that apply for each role'] = 'Sprawdź wszystkie uprawnienia, przypisane do każdej roli.';
+$Definition['Check out the new community forum I\'ve just set up.'] = 'Cześć!
+
+Sprawdź nowe forum, które udało mi się ostatnio założyć. To świetnie miejsce do rozmawiania on-line.';
 $Definition['Choose a locale pack'] = 'Wybierz pakiet lokalizacyjny';
 $Definition['Choose who can send out invitations to new members:'] = 'Wybierz kto może wysyłać zaproszenia do nowych członków:';
 $Definition['comment(s)'] = 'komentarz(e)';
@@ -67,11 +77,14 @@ $Definition['Discussions per Page'] = 'Dyskusji na stronę';
 $Definition['DownloadLocalePack'] = 'Ściągnij';
 
 $Definition['Edit Category'] = 'Edytuj kategorię';
+$Definition['Edit HTML'] = 'Edytuj kod HTML';
 $Definition['Edit User'] = 'Edytuj użytkownika';
+$Definition['Email Styles'] = 'Style wiadomości e-mail';
 $Definition['Enable'] = 'Dostępny';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enable OpenID'] = 'Dostępne OpenID';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Wprowadź adres e-mail osoby, którą chcesz zaprosić:';
+$Definition['Error sending email. Please review the addresses and try again.'] = 'Błąd wysyłania wiadomości e-mail. Sprawdź adres i spróbuj ponownie.';
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
@@ -84,6 +97,7 @@ $Definition['First Visit'] = 'Pierwsza wizyta';
 $Definition['Forum Settings'] = 'Ustawienia forum';
 
 $Definition['Generate'] = 'Generuj';
+$Definition['Give a Badge'] = 'Przyznaj odznakę';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
@@ -91,6 +105,10 @@ $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {Ac
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
+$Definition['Hide signatures for guests'] = 'Ukryj podpisy gości';
+$Definition['Hide signatures on embedded comments'] = 'Zezwalaj na osadzone komentarze';
+$Definition['Html'] = 'HTML';
+$Definition['HTML Emails'] = 'Wiadomości e-mail w formacie HTML';
 
 $Definition['Information'] = 'Informacja';
 $Definition['Invitation Code'] = 'Kod zaproszenia';
@@ -106,6 +124,7 @@ $Definition['Invited by'] = 'Zaproszony przez';
 $Definition['Key Type'] = 'Typ klucza';
 $Definition['Key Value'] = 'Wartość klucza';
 
+$Definition['Large images will be scaled down.'] = 'Duże zdjęcia są zmniejszane do szerokości wynoszącej maksymalnie %s px i długości wynoszącej maksymalnie %s px.';
 $Definition['Last Visit'] = 'Ostatnia wizyta';
 $Definition['Locale Key (Folder)'] = 'Klucz lokalizacji (folder)';
 $Definition['Locale Name'] = 'Nazwa lokalizacji';
@@ -122,7 +141,11 @@ $Definition['Manage Roles & Permissions'] = 'Zarządzanie rolami i uprawnieniami
 $Definition['Manage Spam'] = 'Zarządzanie spamem';
 $Definition['Manage Themes'] = 'Zarządzanie tematami';
 $Definition['Manage Users'] = 'Zarządzanie użytkownikami';
+$Definition['Max %s length'] = '%s: maksymalna długość ';
 $Definition['Max Comment Length'] = 'Makasymalna dlugość komentarza';
+$Definition['Max height of %s'] = '%s: maksymalna wysokość';
+$Definition['Max height of %s in pixels'] = '%s: maksymalna wysokość w pikselach ';
+$Definition['Max number of %s'] = '%s: maksymalna liczba';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Method'] = 'Metoda';
 $Definition['minute(s)'] = 'minuta(y)';
@@ -152,10 +175,12 @@ $Definition['Or Spamblock For'] = 'Lub do Spambloku';
 $Definition['Other Themes'] = 'Inne tematy';
 $Definition['Outgoing Email'] = 'E-mail wychodzący';
 
+$Definition['Page Color'] = 'Kolor strony';
 $Definition['Password Options'] = 'Opcje hasła';
 $Definition['Permission.Category'] = 'Kategoria';
 $Definition['Plugin'] = 'Wtyczka';
 $Definition['Plugins'] = 'Wtyczki';
+$Definition['Preview Colors'] = 'Podgląd kolorów';
 $Definition['Private Key'] = 'Klucz prywatny';
 $Definition['Public Key'] = 'Klucz publiczny';
 
@@ -163,6 +188,7 @@ $Definition['Recently Active Users'] = 'Ostatnio aktywni użytkownicy';
 $Definition['Record Content'] = 'Content';
 $Definition['Refresh Comments'] = 'Odśwież komentarze';
 $Definition['Registration'] = 'Rejestracja';
+$Definition['Remove Email Logo'] = 'Usuń logo wiadomości e-mail';
 $Definition['Requires: '] = 'Wymagane: ';
 $Definition['Reset my password'] = 'Ustaw ponownie twoje hasło';
 $Definition['Reset password and send email notification to user'] = 'Resetuje hasło i wysyła powiadomienia e-mail do użytkownika';
@@ -172,9 +198,11 @@ $Definition['Roles determine user\'s permissions.'] = 'Każdy użytkownik witryn
 $Definition['Route'] = 'Trasa';
 $Definition['Routes'] = 'Trasy';
 
+$Definition['Save Colors'] = 'Zapisz kolory';
 $Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = 'sekundy';
 $Definition['Send %s a Message'] = 'Wyślij %s wiadomość';
+$Definition['Send a Test Email'] = 'Wyślij testową wiadomość e-mail';
 $Definition['Sent To'] = 'Wyślij do';
 $Definition['SignedOut'] = 'You are signed out.';
 $Definition['SMTP Host'] = 'Host SMTP';
@@ -184,19 +212,31 @@ $Definition['SMTP Security'] = 'Zabezpieczenia SMTP';
 $Definition['SMTP User'] = 'Użytkownik SMTP';
 
 $Definition['Temporary (302)'] = 'Czasowe (302)';
+$Definition['Test Email'] = 'Testowa wiadomość e-mail';
+$Definition['Test email from %s'] = 'Wiadomość testowa od %s';
+$Definition['Test Email Message'] = '<p>To jest testowa wiadomość e-mail.</p>
+
+<p>Możesz skonfigurować widoczność swoich wiadomości na forum, przechodząc do strony Wiadomości e-mail na pulpicie.</p>';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
+$Definition['Text Color'] = 'Kolor tekstu';
 $Definition['TextEnterEmails'] = 'Type email addresses separated by commas here';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = 'Szukana treść została usunięta.';
+$Definition['The email has been sent.'] = 'Wiadomość e-mail została wysłana.';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
 $Definition['Themes'] = 'Tematy';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Podczas przesyłania zdjęcia wystąpił błąd. Jako logo wiadomości e-mail można przesłać plik w jednym z następujących formatów: gif, jpg, png.';
 $Definition['There are currently no applicants.'] = 'Obecnie nie ma kandydatów.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
+$Definition['This pocket is an ad.'] = 'Ten element Pocket to reklama.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
 
+$Definition['Universal Forum Embed Code'] = 'Kod osadzania dla forum ogólnego';
 $Definition['Unlimited'] = 'Nielimitowane';
+$Definition['Upload New Email Logo'] = 'Prześlij nowe logo wiadomości e-mail';
+$Definition['Use asterisks for wildcards'] = 'Użyj gwiazdek dla symboli wieloznacznych, np. &lsquo;*@hotmail.com&rsquo;';
 $Definition['User Count'] = 'Użytkownicy';
 $Definition['UserDelete'] = 'Remove User Content';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
@@ -204,6 +244,7 @@ $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content ass
 $Definition['UserKeep'] = 'Zatrzymaj treści użytkownika.';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
 $Definition['User Registration Settings'] = 'Ustawienia rejestracji użytkownika';
+$Definition['Users with the no ads permission will not see this pocket.'] = 'Użytkownicy z zablokowanymi reklamami nie zobaczą tego elementu Pocket.';
 $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
@@ -225,4 +266,5 @@ $Definition['You can also ban the users that posted the spam and delete all of t
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Jeśli masz zablokowane wejście na swoje forum możesz się zalogować używając adresu e-mail i hasła podanego przy rejestracji <a href="%1$s">%1$s</a>';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Nie możesz wyłączyć plugina %1$s ponieważ jest wymagany do funkcjonowania plugina %2$s.';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = 'Wyłączenie poniższego przełącznika umożliwia wysyłanie zwykłych wiadomości tekstowych.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';

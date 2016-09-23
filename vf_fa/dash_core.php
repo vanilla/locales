@@ -36,7 +36,6 @@ $Definition['[%s] Password Reset'] = '[%s] بازیابی گذرواژه';
 $Definition['[%s] Password Reset Request'] = '[%s] درخواست بازیابی گذرواژه';
 
 $Definition['a Badge'] = 'یک مدال';
-$Definition['Abilites'] = 'توانایی';
 $Definition['Above Main Content'] = 'بالای درون‌مایه‌ی اصلی';
 $Definition['Account Sync Failed'] = 'همگام‌سازی این شناسه شکست خورد.';
 $Definition['Action'] = 'اقدام';

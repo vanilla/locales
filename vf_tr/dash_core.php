@@ -34,7 +34,6 @@ $Definition['[%s] Password Reset'] = '[%s] Şifre Sıfırlama';
 $Definition['[%s] Password Reset Request'] = '[%s] Şifre sıfırlamak için gerekli';
 
 $Definition['a Badge'] = 'Rozet';
-$Definition['Abilites'] = 'Yetenekler';
 $Definition['Add Category'] = 'Kategori ekle';
 $Definition['Added By'] = 'tarafından eklendi';
 $Definition['Add Info &amp; Create Account'] = 'Bilgi Gir &amp; Hesap Oluştur';
