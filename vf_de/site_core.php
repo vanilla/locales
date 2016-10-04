@@ -1220,6 +1220,7 @@ $Definition['The email you have entered is already related to an existing accoun
 $Definition['The file failed to upload.'] = 'Fehler beim Hochladen der Datei.';
 $Definition['their'] = 'ihr';
 $Definition['The name you entered is already in use by another member.'] = 'Der angegebene Name wird von einem anderen Nutzer bereits verwendet.';
+$Definition['The email you entered is in use by another member.'] = 'Die eingegebene E-Mail-Adresse wird bereits von einem anderen Mitglied verwendet.';
 $Definition['The page you were looking for could not be found.'] = 'Die gewünschte Seite konnte nicht gefunden werden.';
 $Definition['The quote had to be converted from %s to %s.'] = 'Das Zitat musste von %s zu %s geändert werden. Einige Formatierungen könnten dabei verloren gegangen sein.';
 $Definition['There\'s already a %s with the name %s.'] = 'Es gibt bereits ein %1$s mit dem Namen %2$s. ';
@@ -1463,9 +1464,9 @@ $Definition['You can use HTML in your signature.'] = 'Du kannst <b><a href="http
 $Definition['You don\'t have permission to do that.'] = 'Du hast keine Berechtigung hierfür.';
 $Definition['You don\'t have permission to use a signature.'] = 'Du hast nicht die Berechtigungen, eine Signatur zu verwenden.';
 $Definition['You do not have any %s yet.'] = 'Du hast noch keine %s.';
-$Definition['You do not have any bookmarks.'] = 'Du hast keine Lesezeichen.';
+$Definition['You do not have any bookmarks.'] = 'Du hast noch keine Lesezeichen.';
 $Definition['You do not have any conversations.'] = 'Du hast noch keine Konversationen.';
-$Definition['You do not have any drafts.'] = 'Du hast keine Entwürfe.';
+$Definition['You do not have any drafts.'] = 'Du hast noch keine Entwürfe.';
 $Definition['You do not have any notifications yet.'] = 'Du hast noch keine Benachrichtigungen.';
 $Definition['You do not have enough invitations left.'] = 'Du hast nicht genügend Einladungen übrig.';
 $Definition['You do not have permission to edit all of the posts you are trying to merge.'] = 'Sie haben nicht die Erlaubnis, alle Beiträge zu bearbeiten, die Sie einzufügen versuchen.';
