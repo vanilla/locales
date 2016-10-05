@@ -675,6 +675,7 @@ $Definition['In recent discussions.'] = 'In recent discussions.';
 $Definition['In Review'] = 'In Review';
 $Definition['In seconds'] = 'In seconds';
 $Definition['Insert Image'] = 'Insert Image';
+$Definition['Inserted'] = 'Inserted';
 $Definition['Insightful'] = 'Insightful';
 $Definition['Internal'] = 'Internal';
 $Definition['In this Conversation'] = 'In this Conversation';
@@ -967,6 +968,7 @@ $Definition['Play the sound again'] = 'Play the sound again';
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.';
 $Definition['Points'] = 'Points';
+$Definition['poll'] = 'Poll';
 $Definition['Poll'] = 'Poll';
 $Definition['Poll Options'] = 'Poll Options';
 $Definition['Poll Question'] = 'Poll Question';
@@ -1067,6 +1069,7 @@ $Definition['Remote Configuration'] = 'Remote Configuration';
 $Definition['Remove'] = 'Remove';
 $Definition['Removed by'] = 'Removed by';
 $Definition['Remove %s'] = 'Remove %s';
+$Definition['Remove file'] = 'Remove file';
 $Definition['Remove from %s'] = 'Remove from %s';
 $Definition['Remove Icon'] = 'Remove Icon';
 $Definition['Remove Invitation'] = 'Remove Invitation';
@@ -1265,7 +1268,7 @@ $Definition['The connection data has not been verified.'] = 'The connection data
 $Definition['The content you were looking for has been deleted.'] = 'The content you were looking for has been deleted.';
 $Definition['The conversation has been cleared.'] = 'The conversation has been cleared.';
 $Definition['The CSRF token is invalid.'] = 'The CSRF token is invalid.';
-$Definition['The email you entered in use by another member.'] = 'The email you entered in use by another member.';
+$Definition['The email you entered is in use by another member.'] = 'The email you entered is in use by another member.';
 $Definition['The email you have entered is already related to an existing account.'] = 'The email you have entered is already related to an existing account.';
 $Definition['The file failed to upload.'] = 'The file failed to upload.';
 $Definition['their'] = 'their';
@@ -1296,6 +1299,7 @@ $Definition['This discussion has been closed.'] = 'This discussion has been clos
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'This discussion is related to an undefined foriegn content source.';
 $Definition['This discussion was created from comments split from: %s.'] = 'This discussion was created from comments split from: %s.';
 $Definition['This discussion was merged into %s'] = 'This discussion was merged into %s';
+$Definition['This image has been inserted into the body of text.'] = 'This image has been inserted into the body of text.';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'This image has been resized to fit in the page. Click to enlarge.';
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'This is a private poll: no-one will see what you voted for.';
 $Definition['This is a public poll: others will see what you voted for.'] = 'This is a public poll: others will see what you voted for.';
@@ -1573,8 +1577,4 @@ $Definition['Your status for this event is now: <b>%s</b>'] = 'Your status for t
 $Definition['Your warning was added.'] = 'Your warning was added.';
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} added {NotifyUserID,you} to a <a href="{Url,htmlencode}">conversation</a>.';
 $Definition['You wrote:'] = 'You wrote:';
-
-$Definition['Remove file'] = 'Remove file';
-$Definition['Inserted'] = 'Inserted';
-$Definition['This image has been inserted into the body of text.'] = 'This image has been inserted into the body of text.';
 
