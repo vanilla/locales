@@ -961,6 +961,7 @@ $Definition['Please join my group.'] = 'Por favor, únete a mi <a href="{Url,htm
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Por favor espera mientras te redireccionamos. Si no eres redireccionado, haz click <a href="%s">aquí</a>.';
 $Definition['Points'] = 'Puntos ';
 $Definition['Poll'] = 'Encuesta';
+$Definition['poll'] = 'Encuesta';
 $Definition['Poll Options'] = 'Opciones de la encuesta';
 $Definition['Poll Question'] = 'Preguntas de la encuesta';
 $Definition['Popular Discussions'] = 'Hilos Populares';

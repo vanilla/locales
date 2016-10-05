@@ -917,6 +917,7 @@ $Definition['Play the sound again'] = 'Jouer le son à nouveau';
 $Definition['Please join my group.'] = 'Merci de joindre mon <a href="{Url,html}">groupe</a>.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Vous allez être redirigé. Si vous n\'êtes pas redirigé, cliquez <a href="%s">ici</a>.';
 $Definition['Poll'] = 'Sondage';
+$Definition['poll'] = 'Sondage';
 $Definition['Poll Options'] = 'Options de sondage';
 $Definition['Poll Question'] = 'Question de sondage';
 $Definition['Popular'] = 'Populaire';
