@@ -930,6 +930,7 @@ $Definition['Play the sound again'] = 'Afspil lyden igen';
 $Definition['Please join my group.'] = 'Venligst tilmeld dig min <a href="{Url,html}">gruppe</a>.';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Vent venligst mens du Omdirigerer. Hvis du ikke Omdirigerer, klik her <a href="%s">here</a>.';
 $Definition['Poll'] = 'Afstemning';
+$Definition['poll'] = 'Afstemning';
 $Definition['Poll Options'] = 'Indstillinger for afstemning';
 $Definition['Poll Question'] = 'Afstemningsspørgsmål';
 $Definition['Popular'] = 'Populær';
@@ -1194,7 +1195,6 @@ $Definition['The connection data has not been verified.'] = 'Forbindelsesdataen 
 $Definition['The content you were looking for has been deleted.'] = 'Indholdet du leder efter, er blevet slettet.';
 $Definition['The conversation has been cleared.'] = 'Samtalen er blevet ryddet.';
 $Definition['The CSRF token is invalid.'] = 'CSRF token er ugyldig.';
-$Definition['The email you entered in use by another member.'] = 'Emailadressen du indtastede er i brug af en anden bruger.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Emailadressen du indtastede er allerede tilknyttet en eksisterende konto.';
 $Definition['The file failed to upload.'] = 'Filen blev ikke uploadet.';
 $Definition['their'] = 'deres';

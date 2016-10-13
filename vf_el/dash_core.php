@@ -39,6 +39,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Αίτηση Επαναφορ
 
 $Definition['a Badge'] = 'ένα Σήμα';
 $Definition['Abilites'] = 'Ικανότητες';
+$Definition['Abilities'] = 'Ικανότητες';
 $Definition['Above Main Content'] = 'Επάνω από το Κύριο Περιεχόμενο';
 $Definition['Account Sync Failed'] = 'Ο Συγχρονισμός του Λογαριασμού Απέτυχε';
 $Definition['Action'] = 'Ενέργεια';

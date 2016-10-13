@@ -256,6 +256,7 @@ $Definition['PermissionErrorMessage'] = 'Nemata prava pristupa za tu akciju.';
 $Definition['PermissionErrorTitle'] = 'Problem sa pravima pristupa';
 $Definition['Picture'] = 'Slika';
 $Definition['Poll'] = 'Anketa';
+$Definition['poll'] = 'Anketa';
 $Definition['Post Comment'] = 'Pošalji komentar';
 $Definition['Preview'] = 'Pregled';
 $Definition['Private Note for Moderators'] = 'Privatno obaveštenje za moderatore';

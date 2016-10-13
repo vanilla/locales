@@ -878,6 +878,7 @@ $Definition['Please join my group.'] = 'Pakiusap ay sumali sa aking <a href="{Ur
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Pakisuyong maghintay habang inililipat ka. Kung hindi ka nailipat, I-click <a href="%s">dito</a>.';
 $Definition['Points'] = 'Mga Puntos';
 $Definition['Poll'] = 'Pagbobotohan';
+$Definition['poll'] = 'Pagbobotohan';
 $Definition['Poll Options'] = 'Mga Opsyon ng Botohan';
 $Definition['Poll Question'] = 'Tanong sa Botohan';
 $Definition['Popular'] = 'Sikat';
@@ -1131,7 +1132,6 @@ $Definition['The connection data has not been verified.'] = 'Ang koneksyon ng da
 $Definition['The content you were looking for has been deleted.'] = 'Nabura na ang content na hinahanap mo.';
 $Definition['The conversation has been cleared.'] = 'Ang pag-uusap ay inalis.';
 $Definition['The CSRF token is invalid.'] = 'Ang CSRF token ay hindi valid.';
-$Definition['The email you entered in use by another member.'] = 'Ang inyong ginagamit na email ay pagmamay-ari na ng iba';
 $Definition['The email you have entered is already related to an existing account.'] = 'Ang email na ipinasok mo ay nakaugnay na sa isang umiiral na account.';
 $Definition['The file failed to upload.'] = 'Nabigong i-upload ang file.';
 $Definition['their'] = 'kanilang';

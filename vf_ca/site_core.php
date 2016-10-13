@@ -509,6 +509,7 @@ $Definition['Play the sound again'] = 'Torna a reproduir el so';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Si us plau, espera mentres et redireccionem. Si no ets redireccionat, clica <a href="%s">aqu';
 $Definition['Points'] = 'Punts';
 $Definition['Poll'] = 'Enquesta';
+$Definition['poll'] = 'Enquesta';
 $Definition['Poll Options'] = 'Opcions de l\'enquesta';
 $Definition['Popular Groups'] = 'Grups populars';
 $Definition['Popular Tags'] = 'Etiquetes populars';

@@ -33,6 +33,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Demande de renouvellement de 
 
 $Definition['a Badge'] = 'un Badge';
 $Definition['Abilites'] = 'Capacités';
+$Definition['Abilities'] = 'Capacités';
 $Definition['Above Main Content'] = 'Au-dessus du Contenu Principal';
 $Definition['Account Sync Failed'] = 'Synchronisation de comptes échouée';
 $Definition['Actions Based on Votes'] = 'Actions basées sur des votes';

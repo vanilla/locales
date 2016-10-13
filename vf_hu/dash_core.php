@@ -36,6 +36,8 @@ $Definition['[%s] Password Reset'] = '[%s] Új jelszó';
 $Definition['[%s] Password Reset Request'] = '[%s] Új jelszó kérése';
 
 $Definition['a Badge'] = 'egy plecsni';
+$Definition['Abilites'] = 'Képességek';
+$Definition['Abilities'] = 'Képességek';
 $Definition['Above Main Content'] = 'A tartalom felett';
 $Definition['Account Sync Failed'] = 'A Fiók szinkronizálása sikertelen';
 $Definition['Action'] = 'Művelet';

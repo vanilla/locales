@@ -966,6 +966,7 @@ $Definition['Please join my group.'] = '請加入我的<a href="{Url,html}">群�
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '頁面切換中，請稍候。如果等待太久，請直接點選 <a href="%s">這裡</a>';
 $Definition['Points'] = '點數';
 $Definition['Poll'] = '投票';
+$Definition['poll'] = '投票';
 $Definition['Poll Options'] = '投票選項';
 $Definition['Poll Question'] = '投票問題';
 $Definition['Popular'] = '最熱';
@@ -1254,7 +1255,6 @@ $Definition['The connection data has not been verified.'] = '連線資料尚未�
 $Definition['The content you were looking for has been deleted.'] = '您尋找的內容已被刪除。';
 $Definition['The conversation has been cleared.'] = '對話已被清除。';
 $Definition['The CSRF token is invalid.'] = '跨網站請求偽造記號無效。';
-$Definition['The email you entered in use by another member.'] = '您輸入的電子郵件已被他人使用。';
 $Definition['The email you have entered is already related to an existing account.'] = '該郵件地址已經是網站的成員.';
 $Definition['The file failed to upload.'] = '上傳文件失敗。';
 $Definition['their'] = '他們的';

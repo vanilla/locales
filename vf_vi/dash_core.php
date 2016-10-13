@@ -37,6 +37,7 @@ $Definition['[%s] Password Reset Request'] = 'Yêu cầu khởi tạo lại mậ
 
 $Definition['a Badge'] = 'Một huân chương';
 $Definition['Abilites'] = 'Các khả năng';
+$Definition['Abilities'] = 'Các khả năng';
 $Definition['Above Main Content'] = 'Phía trên nội dung chính';
 $Definition['Account Sync Failed'] = 'Tài khoản không được đồng bộ';
 $Definition['Action'] = 'Hành động';

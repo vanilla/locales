@@ -1,6 +1,7 @@
 <?php
 
 $Definition['Abilites'] = 'Kakayahan';
+$Definition['Abilities'] = 'Kakayahan';
 $Definition['Add Info &amp; Create Account'] = 'Magdagdag ng Info &amp; Gumawa ng Account';
 $Definition['Allow embedded content'] = 'Payagan ang naka-embed na nilalaman';
 $Definition['Allow images'] = 'Pahintulutan ang mga larawan';
@@ -8,6 +9,7 @@ $Definition['Applicant'] = 'Aplikante';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['Applied On'] = 'petsa';
 
+$Definition['Background Color'] = 'Kulay ng Background';
 $Definition['Badge Name'] = 'Pangalan';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
 $Definition['Ban Item'] = 'Gamit';
@@ -101,6 +103,7 @@ $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqe
 $Definition['The content you were looking for has been deleted.'] = 'Nabura na ang content na hinahanap mo.';
 $Definition['The email has been sent.'] = 'Ang email ay naipadala na.';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'May pagkakamaling nangyari sa pag-uupload ng larawan. Ang logo ng iyong email ay maaaring i-upload sa isa sa mga sumusunod na uri ng file: gif, jpg, png';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
 $Definition['This pocket is an ad.'] = 'Ang pocket na ito ay isang ad.';

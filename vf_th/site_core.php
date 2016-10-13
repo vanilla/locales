@@ -945,6 +945,7 @@ $Definition['Please join my group.'] = 'โปรดเข้าร่วม <a 
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'กรุณารอสักครู่ในขณะที่คุณได้รับการเปลี่ยนจุดหมาย ถ้าคุณไม่ได้รับการเปลี่ยนจุดหมาย คลิกที่ <a href="%s">here</a>.';
 $Definition['Points'] = 'คะแนน';
 $Definition['Poll'] = 'แบบสำรวจ';
+$Definition['poll'] = 'แบบสำรวจ';
 $Definition['Poll Options'] = 'ตั้งค่าแบบสำรวจ';
 $Definition['Poll Question'] = 'คำถามของแบบสำรวจ';
 $Definition['Popular'] = 'ยอดฮิต';
@@ -1238,7 +1239,6 @@ $Definition['the category'] = 'หมวดหมู่';
 $Definition['The content you were looking for has been deleted.'] = 'เนื้อหาที่คุณต้องการดูถูกลบไปแล้ว';
 $Definition['The conversation has been cleared.'] = 'การสนทนาได้รับการลบ';
 $Definition['The CSRF token is invalid.'] = 'โทเคน CSRF ไม่ถูกต้อง';
-$Definition['The email you entered in use by another member.'] = 'อีเมล์ที่คุณใส่ได้มีการใช้งานโดยสมาชิกคนอื่นแล้ว';
 $Definition['The email you have entered is already related to an existing account.'] = 'อีเมล์ที่คุณใส่มีการเกี่ยวข้องกับบัญชีที่มีอยู่แล้ว';
 $Definition['The file failed to upload.'] = 'อัปโหลดไฟล์ล้มเหลว';
 $Definition['their'] = 'ของพวกเขา';

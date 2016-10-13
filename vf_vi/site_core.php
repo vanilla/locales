@@ -962,6 +962,7 @@ $Definition['Please join my group.'] = 'Hãy tham gia <a href="{Url,html}"> nhó
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Bạn sẽ được tự động chuyển sang trang mới trong giây lát. Nếu không có gì xảy ra, vui lòng nhấp <a href="%s">vào đây</a>.';
 $Definition['Points'] = 'Điểm';
 $Definition['Poll'] = 'Trưng cầu';
+$Definition['poll'] = 'Trưng cầu';
 $Definition['Poll Options'] = 'Lựa chọn trưng cầu';
 $Definition['Poll Question'] = 'Câu hỏi trưng cầu';
 $Definition['Popular'] = 'Sôi nổi';
@@ -1247,7 +1248,6 @@ $Definition['The connection data has not been verified.'] = 'Dữ liệu kết n
 $Definition['The content you were looking for has been deleted.'] = 'Nội dung bạn đang tìm kiếm đã bị xóa.';
 $Definition['The conversation has been cleared.'] = 'Cuộc trao đổi đã bị xóa.';
 $Definition['The CSRF token is invalid.'] = 'Dấu hiệu CSRF không hợp lệ.';
-$Definition['The email you entered in use by another member.'] = 'Thư  này đã có thành viên sử dụng.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Thư này đã có thành viên sử dụng.';
 $Definition['The file failed to upload.'] = 'Tải lên không thành công.';
 $Definition['their'] = 'của họ';

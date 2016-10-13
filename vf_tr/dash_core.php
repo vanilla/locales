@@ -96,6 +96,7 @@ $Definition['CreateFile'] = 'Oluştur';
 $Definition['Current File:'] = 'Şimdiki Dosya:';
 $Definition['Current Theme'] = 'Şimdiki Tema';
 
+$Definition['Decline'] = 'Geri çevir';
 $Definition['default type'] = 'öntanımlı';
 $Definition['Delete User'] = 'Kullanıcıyı Sil';
 $Definition['Delete User: %s'] = 'Kullanıcıyı Sil: %s';

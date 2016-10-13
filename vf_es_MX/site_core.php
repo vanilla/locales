@@ -958,6 +958,7 @@ $Definition['Please join my group.'] = 'Por favor, únete a mi <a href="{Url,htm
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Por favor espera mientras te redireccionamos. Si no pasa nada, haz clic <a href="%s">aquí</a>.';
 $Definition['Points'] = 'Puntos';
 $Definition['Poll'] = 'Encuesta';
+$Definition['poll'] = 'Encuesta';
 $Definition['Poll Options'] = 'Opciones de la encuesta';
 $Definition['Poll Question'] = 'Pregunta de la encuesta';
 $Definition['Popular Discussions'] = 'Conversaciones Populares';
@@ -1239,7 +1240,7 @@ $Definition['The connection data has not been verified.'] = 'Los datos de la con
 $Definition['The content you were looking for has been deleted.'] = 'El contenido que buscas ha sido eliminado.';
 $Definition['The conversation has been cleared.'] = 'La conversación ha sido eliminada.';
 $Definition['The CSRF token is invalid.'] = 'El tóken CSRF es inválido.';
-$Definition['The email you entered in use by another member.'] = 'El correo electrónico que escribiste ya está en uso por otro usuario.';
+$Definition['The email you entered is in use by another member.'] = 'El correo electrónico que has introducido está en uso por otro miembro.';
 $Definition['The email you have entered is already related to an existing account.'] = 'El correo electrónico que escribiste está relacionado con una cuenta existente.';
 $Definition['The file failed to upload.'] = 'El archivo no completó su carga.';
 $Definition['their'] = 'su';

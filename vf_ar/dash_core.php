@@ -35,6 +35,7 @@ $Definition['[%s] Password Reset'] = '[%s] إستعادة كلمة الدخول'
 $Definition['[%s] Password Reset Request'] = '[%s] طلب إستعادة كلمة الدخول';
 
 $Definition['Abilites'] = 'القدرات';
+$Definition['Abilities'] = 'القدرات';
 $Definition['Above Main Content'] = 'فوق المكونات الرئيسية';
 $Definition['Account Sync Failed'] = 'فشل التزامن مع حساب';
 $Definition['Action'] = 'إجراء';

@@ -889,6 +889,7 @@ $Definition['Please join my group.'] = 'Hle tlatša <a href="{Url,html}">sehloph
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Hle ema ge o sa romelwa go gongwe. Ge eba o sa romelwe go gongwe, kgotla <a href="%s">mo</a>.';
 $Definition['Points'] = 'Dintlha';
 $Definition['Poll'] = 'Lesolo';
+$Definition['poll'] = 'Lesolo';
 $Definition['Poll Options'] = 'Dikgetho tša Lesolo';
 $Definition['Poll Question'] = 'Potšišo ya Lesolo';
 $Definition['Popular'] = 'Mmamoratwa';
@@ -1173,7 +1174,6 @@ $Definition['the category'] = 'legoro';
 $Definition['The content you were looking for has been deleted.'] = 'Diteng tšeo o bego o di nyaka di phumotšwe.';
 $Definition['The conversation has been cleared.'] = 'Poledišano e lokišitšwe.';
 $Definition['The CSRF token is invalid.'] = 'Karata ya CSRF ga e šome.';
-$Definition['The email you entered in use by another member.'] = 'Emeile yeo o e ngwadilego e dirišwa ke leloko le lengwe.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Imeile yeo o e ngwadilego e šetše e amana le akhaonte yeo e lego gona.';
 $Definition['The file failed to upload.'] = 'Faele e paletšwe ke go tsenya.';
 $Definition['their'] = 'ya bona';

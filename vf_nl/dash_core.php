@@ -36,6 +36,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Wachtwoord-reset Aangevraagd'
 
 $Definition['a Badge'] = 'een Badge';
 $Definition['Abilites'] = 'Mogelijkheden';
+$Definition['Abilities'] = 'Mogelijkheden';
 $Definition['Above Main Content'] = 'Boven Algemene Inhoud';
 $Definition['Account Sync Failed'] = 'Account synchroniseren is mislukt';
 $Definition['Action'] = 'Actie';

@@ -602,7 +602,7 @@ $Definition['Heading %s'] = 'Titlu %s';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} a răspuns la întrebarea dumneavoastră: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, You} ați câştigat insigna <a href="{Url,html}"> {Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID, tine} a blocat {ActivityUserID, you}.';
-$Definition['HeadlineFormat.Comment'] = '{ActivityUserID, utilizator} a comentat la <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} a comentat la <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} v-a trimis un <a href="{Url,html}">mesaj</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID, utilizator} a început o nouă discuţie. <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID, utilizator} v-a menționat în <a href="{Url,html}"> {Data.Name,text}</a>';
@@ -947,6 +947,7 @@ $Definition['Please join my group.'] = 'Alăturați-vă grupului meu <a href="{U
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Asteapta putin! Vei fi redirectionat imediat. Daca nu esti redirectionat, click <a href="%s">aici</a>.';
 $Definition['Points'] = 'Puncte';
 $Definition['Poll'] = 'Sondaj';
+$Definition['poll'] = 'Sondaj';
 $Definition['Poll Options'] = 'Optiuni pentru Poll';
 $Definition['Poll Question'] = 'Intrebarile Poll-ului';
 $Definition['Popular Discussions'] = 'Discuti Populare';
@@ -1258,7 +1259,6 @@ $Definition['The connection data has not been verified.'] = 'Conexiunea de date 
 $Definition['The content you were looking for has been deleted.'] = 'Conţinutul căutat a fost şters.';
 $Definition['The conversation has been cleared.'] = 'Conversația a fost curățată';
 $Definition['The CSRF token is invalid.'] = 'Token-ul CSRF nu este valid.';
-$Definition['The email you entered in use by another member.'] = 'E-mail-ul introdus este folosit de un alt utilizator.';
 $Definition['The email you have entered is already related to an existing account.'] = 'E-mail-ul introdus este atașat deja unui cont. ';
 $Definition['The file failed to upload.'] = 'Fisierul nu a reusit sa fie incarcat.';
 $Definition['their'] = 'a lor';

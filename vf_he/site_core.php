@@ -971,6 +971,7 @@ $Definition['Please join my group.'] = 'אנא הצטרף אל <a href="{Url,htm
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'אנא המתן בזמן שאתה מועבר. אם אתה לא מועבר, לחץ <a href="%s">כאן </a>';
 $Definition['Points'] = 'נקודות';
 $Definition['Poll'] = 'סקר';
+$Definition['poll'] = 'סקר';
 $Definition['Poll Options'] = 'אפשרויות סקר';
 $Definition['Poll Question'] = 'שאלת סקר';
 $Definition['Popular'] = 'פופולרי';
@@ -1270,7 +1271,6 @@ $Definition['The connection data has not been verified.'] = 'נתוני החיב
 $Definition['The content you were looking for has been deleted.'] = 'התוכן שביקשת לראות כבר נמחק מן האתר.';
 $Definition['The conversation has been cleared.'] = 'השיחה נוקתה';
 $Definition['The CSRF token is invalid.'] = 'אסימון ה- CSRF אינו חוקי';
-$Definition['The email you entered in use by another member.'] = 'הדוא"ל שהזנת נמצא בשימוש משתמש אחר.';
 $Definition['The email you have entered is already related to an existing account.'] = 'הדוא"ל שהזנת נמצא בשימוש חשבון קיים.';
 $Definition['The file failed to upload.'] = 'הקובץ לא הועלה';
 $Definition['their'] = 'שלהם';

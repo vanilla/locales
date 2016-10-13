@@ -35,6 +35,8 @@ $Definition['[%s] Password Reset'] = '[%s] | Salasanan uudelleenasetus';
 $Definition['[%s] Password Reset Request'] = '[%s] | Salasanan vaihtaminen';
 
 $Definition['a Badge'] = 'kunniamerkki';
+$Definition['Abilites'] = 'Kyvyt';
+$Definition['Abilities'] = 'Kyvyt';
 $Definition['Above Main Content'] = 'Muun sis&auml;ll&ouml;n yl&auml;puolella';
 $Definition['Account Sync Failed'] = 'Tilin synkronointi ep&auml;onnistui';
 $Definition['Action'] = 'Toiminto';

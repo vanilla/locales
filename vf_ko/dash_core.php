@@ -8,6 +8,7 @@ $Definition['1 week after being sent'] = '발송 후 1 주 경과';
 $Definition['2 weeks after being sent'] = '발송 후 2 주 경과';
 
 $Definition['Abilites'] = '능력';
+$Definition['Abilities'] = '능력';
 $Definition['Action'] = '활동';
 $Definition['Add Category'] = '카테고리 추가';
 $Definition['Add Info &amp; Create Account'] = '정보 입력 &amp; 계정 만들기';

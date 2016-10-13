@@ -7,6 +7,7 @@ $Definition['[%s] Password Reset'] = '[%s] Passord nullstilt';
 $Definition['[%s] Password Reset Request'] = '[%s] Forespør nullstilling av passord.';
 
 $Definition['Abilites'] = 'Egenskaper';
+$Definition['Abilities'] = 'Egenskaper';
 $Definition['Add Info &amp; Create Account'] = 'Legg til info &amp; Opprett konto';
 $Definition['Add Role'] = 'Legg til rolle';
 $Definition['Allow embedded content'] = 'Tillat innsatt innhold';

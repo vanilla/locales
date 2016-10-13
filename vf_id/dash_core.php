@@ -36,6 +36,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Permintaan Setel ulang Passwo
 
 $Definition['a Badge'] = 'Lencana';
 $Definition['Abilites'] = 'Kemampuan';
+$Definition['Abilities'] = 'Kemampuan';
 $Definition['Above Main Content'] = 'Atas Konten Utama';
 $Definition['Account Sync Failed'] = 'Sinkronisasi Akun Gagal';
 $Definition['Action'] = 'Aksi';

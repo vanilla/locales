@@ -952,6 +952,7 @@ $Definition['Please join my group.'] = 'Vänligen gå med i min <a href="{Url,ht
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Vänligen vänta medan du skickas vidare. Om du inte skickas vidare, klicka <a href="%s">här</a>.';
 $Definition['Points'] = 'Poäng';
 $Definition['Poll'] = 'Omröstning';
+$Definition['poll'] = 'Omröstning';
 $Definition['Poll Options'] = 'Alternativ för omröstning';
 $Definition['Poll Question'] = 'Fråga för omröstning';
 $Definition['Popular'] = 'Populär';
@@ -1244,7 +1245,6 @@ $Definition['The connection data has not been verified.'] = 'Anslutningsdata har
 $Definition['The content you were looking for has been deleted.'] = 'Innehållet du söker har blivit raderat.';
 $Definition['The conversation has been cleared.'] = 'Konversationen har rensats.';
 $Definition['The CSRF token is invalid.'] = 'CSRF-symbolen är inte giltig.';
-$Definition['The email you entered in use by another member.'] = 'E-postadressen används redan av en medlem.';
 $Definition['The email you have entered is already related to an existing account.'] = 'E-postadressen du har angivit används redan på forumet.';
 $Definition['The file failed to upload.'] = 'Filuppladdningen misslyckades.';
 $Definition['their'] = 'deras';

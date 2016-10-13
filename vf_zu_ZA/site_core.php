@@ -926,6 +926,7 @@ $Definition['Please join my group.'] = 'Ngicela ujoyine <a href="{Url,html}">iqe
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Sicela ulinde njengoba uqondiswa kabusha. Uma ungaqondiswa kabusha, chofoza <a href="%s">lapha</a>.';
 $Definition['Points'] = 'Amaphoyinti';
 $Definition['Poll'] = 'Inhlolovo';
+$Definition['poll'] = 'Inhlolovo';
 $Definition['Poll Options'] = 'Okukhethwayo Kwenhlolovo';
 $Definition['Poll Question'] = 'Umbuzo Wonhlolovo';
 $Definition['Popular'] = 'Okudumile';
@@ -1202,7 +1203,6 @@ $Definition['the category'] = 'isigaba';
 $Definition['The content you were looking for has been deleted.'] = 'Okuqukethwe obukubheka kucishiwe.';
 $Definition['The conversation has been cleared.'] = 'Inkulumo isuliwe.';
 $Definition['The CSRF token is invalid.'] = 'Ithokheni ye-CSRF ayilungile.';
-$Definition['The email you entered in use by another member.'] = 'I-imeyili oyifakile isetshenziswa elinye ilungu.';
 $Definition['The email you have entered is already related to an existing account.'] = 'I-imeyili oyifakile isivele ihlobene ne-akhawunti ekhona kakade.';
 $Definition['The file failed to upload.'] = 'Ifayela lihlulekile ukulayisha.';
 $Definition['their'] = 'yabo';

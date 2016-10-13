@@ -950,6 +950,7 @@ $Definition['Please join my group.'] = 'الرجاء الانضمام إلى <a 
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'يرجى الانتظار بينما يتم إعادة توجيهك. إذا لم يتم إعادة توجيهك، انقر <a href="%s">هنا</a>.';
 $Definition['Points'] = 'النقاط';
 $Definition['Poll'] = 'إستطلاع';
+$Definition['poll'] = 'إستطلاع';
 $Definition['Poll Options'] = 'خيارات الاستطلاع';
 $Definition['Poll Question'] = 'سؤال الاستطلاع';
 $Definition['Popular'] = 'شعبي';
@@ -1237,7 +1238,6 @@ $Definition['The connection data has not been verified.'] = 'لم يتم الت�
 $Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';
 $Definition['The conversation has been cleared.'] = 'تم مسح محادثة.';
 $Definition['The CSRF token is invalid.'] = 'رمز الـ CSRF غيرصالح.';
-$Definition['The email you entered in use by another member.'] = 'البريد الالكتروني الذي أدخلته قيد الاستخدام من قبل عضو آخر.';
 $Definition['The email you have entered is already related to an existing account.'] = 'يرتبط مسبقا البريد الإلكتروني الذي أدخلته بحساب موجود.';
 $Definition['The file failed to upload.'] = 'فشل تحميل الملف';
 $Definition['their'] = 'لهم';

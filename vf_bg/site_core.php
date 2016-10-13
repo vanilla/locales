@@ -961,6 +961,7 @@ $Definition['Please join my group.'] = 'Моля, присъединете се 
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Моля изчакайте да бъдете пренасочени. Ако не бъдете пренасочени, натиснете<a href="%s">тук</a>.';
 $Definition['Points'] = 'Точки';
 $Definition['Poll'] = 'Гласуване';
+$Definition['poll'] = 'Гласуване';
 $Definition['Poll Options'] = 'Опции за анкетата';
 $Definition['Poll Question'] = 'Въпрос от анкета';
 $Definition['Popular'] = 'Популярни';
@@ -1255,7 +1256,6 @@ $Definition['the category'] = 'категорията';
 $Definition['The content you were looking for has been deleted.'] = 'Съдържанието, което търсите, е било изтрито.';
 $Definition['The conversation has been cleared.'] = 'Разговорът беше изчистен';
 $Definition['The CSRF token is invalid.'] = 'CSRF маркерът е невалиден.';
-$Definition['The email you entered in use by another member.'] = 'Имейлът, който сте въвели, се използва от друг член.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Имейлът, който въведохте, вече е свързан със съществуващ акаунт.';
 $Definition['The file failed to upload.'] = 'Неуспех при качването на файла.';
 $Definition['their'] = 'техен';

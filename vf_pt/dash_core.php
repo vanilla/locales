@@ -37,6 +37,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Requsitar Recuperação de Se
 
 $Definition['a Badge'] = 'um Emblema';
 $Definition['Abilites'] = 'Habilidades';
+$Definition['Abilities'] = 'Habilidades';
 $Definition['Above Main Content'] = 'Acima do conteúdo principal';
 $Definition['Account Sync Failed'] = 'Sincronização da conta falhou';
 $Definition['Action'] = 'Ação';

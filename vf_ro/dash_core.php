@@ -37,6 +37,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Cerere pentru resetarea parol
 
 $Definition['a Badge'] = 'o insignă';
 $Definition['Abilites'] = 'Abilități';
+$Definition['Abilities'] = 'Abilități';
 $Definition['Above Main Content'] = 'Conținutul principal de mai sus';
 $Definition['Account Sync Failed'] = 'Sincronizarea contului eșuată';
 $Definition['Action'] = 'Acţiune';

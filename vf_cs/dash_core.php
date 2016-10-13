@@ -32,6 +32,7 @@ $Definition['15 minutes'] = '15 minut';
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Potvrď svoji e-mailovou adresu';
 
 $Definition['Abilites'] = 'Schopnosti';
+$Definition['Abilities'] = 'Schopnosti';
 $Definition['Above Main Content'] = 'Nad hlavní obsah';
 $Definition['Account Sync Failed'] = 'Synchronizace účtů byla neúspěšná';
 $Definition['Action'] = 'Akce';

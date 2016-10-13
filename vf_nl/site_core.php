@@ -958,6 +958,7 @@ $Definition['Please join my group.'] = 'Neem deel aan mijn <a href="{Url,html}">
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Je wordt doorgestuurd, even geduld alsjeblieft. Als je niet wordt doorgestuurd, klik dan  <a href="%s">hier</a>.';
 $Definition['Points'] = 'Punten';
 $Definition['Poll'] = 'Toppen';
+$Definition['poll'] = 'Toppen';
 $Definition['Poll Options'] = 'Pollopties';
 $Definition['Poll Question'] = 'Pollvraag';
 $Definition['Popular'] = 'Populair';
@@ -1235,7 +1236,6 @@ $Definition['The connection data has not been verified.'] = 'De verbindingdsgege
 $Definition['The content you were looking for has been deleted.'] = 'De inhoud waar je naar op zoek bent is verwijderd.';
 $Definition['The conversation has been cleared.'] = 'Het gesprek is leeggemaakt.';
 $Definition['The CSRF token is invalid.'] = 'Het CSRF-token is ongeldig.';
-$Definition['The email you entered in use by another member.'] = 'Het ingevulde e-mailadres wordt gebruikt door een ander lid.';
 $Definition['The email you have entered is already related to an existing account.'] = 'Het ingevulde e-mailadres is al gekoppeld aan een bestaand account.';
 $Definition['The file failed to upload.'] = 'Het uploaden van het bestand is mislukt.';
 $Definition['their'] = 'hun';

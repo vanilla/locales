@@ -12,10 +12,12 @@ $Definition['1 week after being sent'] = '送信一週間後';
 $Definition['2 weeks after being sent'] = '送信二週間後';
 $Definition['15 minutes'] = '15分間';
 
+$Definition['[%s] Confirm Your Email Address'] = '[%s] Eメールアドレスを確認';
 $Definition['[%s] Invitation'] = '[%s] 招待状';
 $Definition['[%s] Password Reset Request'] = '[%s] パスワード リセット依頼';
 
 $Definition['Abilites'] = '能力';
+$Definition['Abilities'] = '能力';
 $Definition['Action'] = 'アクション';
 $Definition['Add Category'] = 'カテゴリを追加';
 $Definition['Add Info &amp; Create Account'] = '情報追加とアカウント作成';
@@ -43,9 +45,11 @@ $Definition['Banner Title'] = 'タイトル';
 $Definition['Ban Type'] = 'タイプ';
 $Definition['Basic Information'] = '基本情報';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
+$Definition['Button Background Color'] = 'ボタンの背景の色';
 $Definition['Button Text Color'] = 'ボタンのテキストの色';
 
 $Definition['Categories &amp; Discussions'] = 'カテゴリ &amp; ディスカッション';
+$Definition['Categories are used to organize discussions.'] = 'カテゴリーは、ユーザーがコミュニティーにとって有意義な方法で、ディスカッションを整理できるようにするために使われます。';
 $Definition['Category Page Layout'] = 'カテゴリのページ レイアウト';
 $Definition['Category Url:'] = 'カテゴリ URL:';
 $Definition['Change the look of All Categories'] = '<b>すべてのカテゴリ</b> ページの外観は<a href="%s">こちら</a>から変更できます。';
@@ -118,11 +122,13 @@ $Definition['Forum Settings'] = 'フォーラム設定';
 $Definition['Get More Applications'] = '他のアプリケーション';
 $Definition['Get More Plugins'] = '他のプラグイン';
 $Definition['Get More Themes'] = '他のテーマ';
+$Definition['Give a Badge'] = 'バッジを授与';
 
 $Definition['Hash Algorithm'] = 'ハッシュアルゴリズム';
 $Definition['Hide signatures for guests'] = 'ゲスト向け署名を非表示にする';
 $Definition['Hide signatures on embedded comments'] = '埋め込みコメントの署名を非表示にする';
 $Definition['Homepage'] = 'ホーム画面';
+$Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML Eメール';
 
 $Definition['Information'] = '情報';
@@ -193,6 +199,7 @@ $Definition['Other Themes'] = '他のテーマ';
 $Definition['Outgoing Email'] = 'メール送信';
 $Definition['Outgoing Email Address'] = '送信先Eメールアドレス';
 
+$Definition['Page Color'] = 'ページの色';
 $Definition['Password Options'] = 'パスワード オプション';
 $Definition['Permission.Category'] = 'カテゴリ';
 $Definition['Plugin'] = 'プラグイン';
@@ -234,6 +241,7 @@ $Definition['SMTP User'] = 'SMTP ユーザー';
 
 $Definition['Temporary (302)'] = '一時的 (302)';
 $Definition['Test Email'] = 'テストEメール';
+$Definition['Test email from %s'] = '%sからのテストEメール';
 $Definition['Test Email Message'] = '<p>これはテストEメールのメッセージです。</p>
 
 <p>ダッシュボードのEメールページへ進んで、フォーラムのEメールの見え方を設定することができます。</p>';
@@ -245,6 +253,7 @@ $Definition['The homepage was saved successfully.'] = 'ホーム画面が保存�
 $Definition['Theme Options'] = 'テーマ オプション';
 $Definition['Themes'] = 'テーマ';
 $Definition['Theming Overview'] = 'テーマの概要 (英語)';
+$Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = '画像のアップロードにエラーが発生しました。Eメールロゴは以下のいずれかのファイルタイプでアップロードできます: gif、jpg、png';
 $Definition['There are currently no applicants.'] = '申請者はいません。';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'このメールアドレスを使用したアカウントがすでに存在しています。新しいアカウントを作成するか、既存のアカウントの認証情報を入力してください。';
 $Definition['The specified url code is already in use by another category.'] = '指定された url code は他のカテゴリで使用済みです。';
@@ -284,6 +293,7 @@ $Definition['Yes, the following information can be changed later.'] = 'ここか
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'メールアドレスとパスワードを使って、いつでも <a href="%1$s">%1$s</a> からログインできます。';
 $Definition['You can make the categories page your homepage.'] = 'カテゴリ一覧のページを<a href="%s">こちら</a>でホーム画面として設定できます。';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '%1$s プラグインを無効にできません。%2$s プラグインが動作するために、必要です。';
+$Definition['You can send emails in plain text by disabling the toggle below.'] = '以下のトグルを無効にすることで、標準テキストでEメールを送付することができます。';
 $Definition['You must specify an admin password.'] = '管理者のパスワードは省略できません。';
 $Definition['You must specify an admin username.'] = '管理者のユーザー名は省略できません。';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = '設定ファイルに適切なパーミッションが設定されていません。PHP はこのファイルを読み書きする必要があります: <code>%s</code>';

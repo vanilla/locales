@@ -388,6 +388,7 @@ $Definition['PermissionErrorTitle'] = 'လုပ်ပိုင်ခွင့�
 $Definition['PermissionRequired.Garden.Settings.Manage'] = 'သင် သည် အုပ်ချုပ်ရေးမှူး ဖြစ်ရန် လိုအပ်ပါသည်။';
 $Definition['Picture'] = 'ရုပ်ပုံ';
 $Definition['Poll'] = 'မဲ';
+$Definition['poll'] = 'မဲ';
 $Definition['Popular'] = 'လူကြည့်အများဆုံး';
 $Definition['Popular Tags'] = 'အသုံးပြုမှုများသည့် Tags';
 $Definition['Post Comment'] = 'မှတ်ချက်ရေးသားပါ';

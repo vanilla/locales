@@ -902,6 +902,7 @@ $Definition['Please join my group.'] = 'Sila sertai <a href="{Url,html}">kumpula
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Sila tunggu sementara anda diarahkan. Jika anda tidak diarahkan, klik <a href="%s"> sini </a>.';
 $Definition['Points'] = 'Mata';
 $Definition['Poll'] = 'Pungutan Suara';
+$Definition['poll'] = 'Pungutan Suara';
 $Definition['Poll Options'] = 'Pilihan Pungutan Suara';
 $Definition['Poll Question'] = 'Soalan Pungutan Suara';
 $Definition['Popular Discussions'] = 'Perbincangan Popular';
@@ -1170,7 +1171,6 @@ $Definition['the category'] = 'kategori';
 $Definition['The content you were looking for has been deleted.'] = 'Kandungan yang anda cari telah dipadam.';
 $Definition['The conversation has been cleared.'] = 'Perbualan tersebut telah dipadam.';
 $Definition['The CSRF token is invalid.'] = 'Token CSRF adalah tidak sah.';
-$Definition['The email you entered in use by another member.'] = 'E-mel yang anda masukkan telah digunakan oleh seorang ahli lain.';
 $Definition['The email you have entered is already related to an existing account.'] = 'E-mel yang anda masukkan telah dikaitkan dengan suatu akaun yang sedia ada.';
 $Definition['The file failed to upload.'] = 'Gagal untuk memuat naik fail tersebut.';
 $Definition['their'] = 'mereka';

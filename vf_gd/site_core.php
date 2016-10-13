@@ -533,6 +533,7 @@ $Definition['PermissionRequired.Garden.Settings.Manage'] = 'You need to be an ad
 $Definition['PermissionRequired.Javascript'] = 'You need to enable javascript to do that.';
 $Definition['Picture'] = 'Dealbh';
 $Definition['Poll'] = 'Cunntas-bheachd';
+$Definition['poll'] = 'Cunntas-bheachd';
 $Definition['Popup'] = 'Priob-uinneag';
 $Definition['Post Comment'] = 'Sgrìobh beachd';
 $Definition['Posts.Plural: %s'] = 'Posts: %s';

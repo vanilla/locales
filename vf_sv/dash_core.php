@@ -37,6 +37,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] återställ lösenord';
 
 $Definition['a Badge'] = 'ett emblem';
 $Definition['Abilites'] = 'Förmågor';
+$Definition['Abilities'] = 'Förmågor';
 $Definition['Above Main Content'] = 'Ovanför huvudinnehållet';
 $Definition['Account Sync Failed'] = 'Synkronisering av kontot misslyckades.';
 $Definition['Action'] = 'Agerande';

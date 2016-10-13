@@ -14,6 +14,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Potwierdź swój adres em
 $Definition['[%s] Password Reset Request'] = '[%s] Prośba o ustawienie hasła';
 
 $Definition['Abilites'] = 'Umiejętności';
+$Definition['Abilities'] = 'Umiejętności';
 $Definition['Action'] = 'Akcja';
 $Definition['Add Info &amp; Create Account'] = 'Dodaj informacje i utwórz konto';
 $Definition['Addons'] = 'Dodatki';

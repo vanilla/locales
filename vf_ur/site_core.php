@@ -912,6 +912,7 @@ $Definition['Please join my group.'] = 'براہ کرم میرے<a href="{Url,ht
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'آپ کو ری ڈائریکٹ کئے جانے کے دوران انتظار کریں۔ اگر آپ کو ری ڈائریکٹ نہیں کیا جاتا تو، <a href="%s"> یہاں</a> کلک کریں۔';
 $Definition['Points'] = 'پوائنٹس';
 $Definition['Poll'] = 'سروے';
+$Definition['poll'] = 'سروے';
 $Definition['Poll Options'] = 'سروے کے اختیارات';
 $Definition['Poll Question'] = 'سروے کے سوال';
 $Definition['Popular'] = 'مقبول';
@@ -1183,7 +1184,6 @@ $Definition['the category'] = 'زمرہ';
 $Definition['The content you were looking for has been deleted.'] = 'آپ جس کے لئے تلاش کر رہے تھے وہ مواد حذف کر دیا گیا ہے۔';
 $Definition['The conversation has been cleared.'] = 'گفتگو کو صاف کر دیا گیا ہے۔';
 $Definition['The CSRF token is invalid.'] = 'CSRF ٹوکن غلط ہے۔';
-$Definition['The email you entered in use by another member.'] = 'آپ کی داخل کردہ ای میل کسی دوسرے صارف کے استعمال میں ہے۔';
 $Definition['The email you have entered is already related to an existing account.'] = 'آپ کا داخل کردہ ای میل پہلے ہی موجودہ اکاؤنٹ سے منسلک ہے۔';
 $Definition['The file failed to upload.'] = 'مسل اپ لوڈ کرنے میں ناکام۔';
 $Definition['their'] = 'ان کا';

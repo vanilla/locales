@@ -36,6 +36,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] בקשה לאיפוס סיס�
 
 $Definition['a Badge'] = 'תג';
 $Definition['Abilites'] = 'יכולות';
+$Definition['Abilities'] = 'יכולות';
 $Definition['Above Main Content'] = 'מעל לתוכן הראשי';
 $Definition['Account Sync Failed'] = 'סנכרון החשבון נכשל';
 $Definition['Action'] = 'פעולה';

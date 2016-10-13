@@ -578,6 +578,7 @@ $Definition['Have a great day!'] = 'Ha en fin dag!';
 $Definition['he'] = 'han';
 $Definition['Heading'] = 'Overskrift';
 $Definition['Heading %s'] = 'Overskrift %s';
+$Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} svarte på spørsmålet ditt: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{AktivitetBruker-ID, Deg} fikk <a href="{Url,html}">{Data.Name,text}</a> merket. ';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} utestengte {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommenterte på <a href="{Url,html}">{Data.Name,text}</a>
@@ -776,6 +777,7 @@ $Definition['Most recent:'] = 'Siste:';
 $Definition['Most recent: %1$s by %2$s'] = 'Nyeste: %1$s av %2$s';
 $Definition['Most recent by %1$s'] = 'Nyeste av %1$s';
 $Definition['Most Recent Comment'] = 'Siste kommentar';
+$Definition['Most recent discussion'] = 'Nyligste diskusjon';
 $Definition['Move'] = 'Flytt';
 $Definition['MyBadgesModuleTitle'] = 'Mine skilt';
 $Definition['My Bookmarks'] = 'Mine bokmerker';
@@ -800,6 +802,7 @@ $Definition['new discussion'] = 'ny';
 $Definition['New Event'] = 'Nytt arrangement';
 $Definition['New Group'] = 'Ny gruppe';
 $Definition['New Groups'] = 'Nye grupper';
+$Definition['New Icon'] = 'Nytt Ikon';
 $Definition['New Idea'] = 'Ny ide';
 $Definition['New Message'] = 'Ny samtale';
 $Definition['New Password'] = 'Nytt passord';
@@ -916,6 +919,7 @@ $Definition['Please join my group.'] = 'Bli med i <a href="{Url,html}">gruppen</
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Vennligst vent mens du omdirigeres. Hvis du ikke omdirigeres, klikk
 <a href="%s">her</a>.';
 $Definition['Points'] = 'Poeng';
+$Definition['poll'] = 'Poll';
 $Definition['Poll Options'] = 'Poll-alternativer';
 $Definition['Poll Question'] = 'Poll-spørsmål';
 $Definition['Popular'] = 'Populær';
@@ -1195,7 +1199,6 @@ $Definition['The connection data has not been verified.'] = 'Tilknytningsdataen 
 $Definition['The content you were looking for has been deleted.'] = 'Innholdet du søkte etter har blitt slett. ';
 $Definition['The conversation has been cleared.'] = 'Samtalen har blitt slettet. ';
 $Definition['The CSRF token is invalid.'] = 'CSRF-tokenet er ugyldig.';
-$Definition['The email you entered in use by another member.'] = 'e-post adressen er allerede i bruk.';
 $Definition['The email you have entered is already related to an existing account.'] = 'E-post adressen du har skrevet inn er allerede i bruk av noen på dette forumet';
 $Definition['The file failed to upload.'] = 'Filen ble ikke lastet opp. ';
 $Definition['their'] = 'deres';

@@ -929,6 +929,7 @@ $Definition['Please join my group.'] = 'Připoj se prosím k mé <a href="{Url,h
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Počkejte na přesměrování. Pokud se stránka nepřesměruje, <a href="%s">pokračujte zde</a>.';
 $Definition['Points'] = 'Body';
 $Definition['Poll'] = 'Anketa';
+$Definition['poll'] = 'Anketa';
 $Definition['Poll Options'] = 'Možnosti ankety';
 $Definition['Poll Question'] = 'Otázka do ankety';
 $Definition['Popular'] = 'Populární';
@@ -1199,7 +1200,6 @@ $Definition['The connection data has not been verified.'] = 'Data o připojení 
 $Definition['The content you were looking for has been deleted.'] = 'Obsah, který jsi hledal byl vymazán.';
 $Definition['The conversation has been cleared.'] = 'Konverzace byla vyčištěna.';
 $Definition['The CSRF token is invalid.'] = 'CSRF je neplatné.';
-$Definition['The email you entered in use by another member.'] = 'E-mail, který jsi vložil používá jiný uživatel.';
 $Definition['The email you have entered is already related to an existing account.'] = 'S e-mailem, který jsi zadal už je zaregistrován jiný uživatel';
 $Definition['The file failed to upload.'] = 'Soubor se nepovedlo odeslat.';
 $Definition['their'] = 'jejich';

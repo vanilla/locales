@@ -941,6 +941,7 @@ $Definition['Please join my group.'] = '제 <a href="{Url,html}">그룹에</a> �
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '리디렉트 되고 있으니 기다려 주십시오. 만약 리디렉트되지 않으면, <a href="%s"> 여기 </a> 를 클릭하십시오.';
 $Definition['Points'] = '포인트';
 $Definition['Poll'] = '여론 조사';
+$Definition['poll'] = '여론 조사';
 $Definition['Poll Options'] = '투표 옵션';
 $Definition['Poll Question'] = '여론 조사 질문';
 $Definition['Popular'] = '인기';
@@ -1215,7 +1216,6 @@ $Definition['The connection data has not been verified.'] = '연결 데이터가
 $Definition['The content you were looking for has been deleted.'] = '보고 계시는 콘텐츠는 삭제되었습니다.';
 $Definition['The conversation has been cleared.'] = '대화가 삭제되었습니다.';
 $Definition['The CSRF token is invalid.'] = 'CSRF 토큰이 올바르지 않습니다.';
-$Definition['The email you entered in use by another member.'] = '입력하신 이메일은 다른 회원이 이미 사용하고 있습니다.';
 $Definition['The email you have entered is already related to an existing account.'] = '입력하신 이메일은 이미 존재하는 계정과 연결되어 있습니다.';
 $Definition['The file failed to upload.'] = '파일 올리기 실패했습니다.';
 $Definition['their'] = '그들의';
