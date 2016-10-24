@@ -1,32 +1,46 @@
 <?php
 
-$Definition['Accepted'] = 'Prihvaćeno';
 $Definition['Add Info &amp; Create Account'] = 'Dodaj Info &amp; Kreiraj Account';
-$Definition['Apply'] = 'Apliciraj';
 
+$Definition['Badge Name'] = 'Name';
+$Definition['Ban Type'] = 'Condition Type';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
 
+$Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['Conversations'] = 'Razgovori';
+
+$Definition['default type'] = 'default';
 
 $Definition['Enabled: The pocket will be displayed.'] = 'Enabled';
 $Definition['Enter the email address of the person you would like to invite:'] = 'Ukucajte email adresu osobe koju želite pozvati:';
+$Definition['Every %s hour'] = 'Every hour';
+$Definition['Every %s minute'] = 'Every minute';
+$Definition['Every %s second'] = 'Every second';
 
 $Definition['Invitation Code'] = 'Pozivni Kod';
+$Definition['InvitationMessage'] = 'Hi Pal!
+
+Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
+
+Follow the link below to log in.';
 $Definition['Invited by'] = 'Pozvao';
 
 $Definition['My Invitations'] = 'Moje Pozivnice';
 
 $Definition['On'] = 'Uključeno';
+$Definition['Operation By'] = 'By';
 
 $Definition['Permission.Category'] = 'Kategorija';
 
-$Definition['SaveLocalePack'] = 'Snimi';
+$Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
+
+$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Send %s a Message'] = 'Pošalji %s  Poruku';
 $Definition['Sent To'] = 'Pošalji';
 
-$Definition['Test Mode: The pocket will only be displayed for pocket administrators.'] = 'Test Mode';
-$Definition['Thank You!'] = 'Hvala vam!';
+$Definition['User Count'] = 'Users';
+$Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 
 $Definition['Why do you want to join?'] = 'Zašto se želite uključiti?';
 
-$Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Vaš zahtjev će pregledati administrator. Bit ćete obaviješteni putem emaila kad vaš zahtjev bude odobren.';
+$Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
