@@ -186,6 +186,7 @@ $Definition['All discussions marked as viewed.'] = 'All discussions marked as vi
 $Definition['All Events'] = 'All Events';
 $Definition['All Members'] = 'All Members';
 $Definition['All members'] = 'All members';
+$Definition['All Notifications'] = 'All Notifications';
 $Definition['Allow'] = 'Allow';
 $Definition['Allow other members to see your email?'] = 'Allow other members to see your email?';
 $Definition['All Time Leaders'] = 'All Time Leaders';
