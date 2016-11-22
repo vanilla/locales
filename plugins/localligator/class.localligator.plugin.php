@@ -36,13 +36,13 @@ class LocalligatorPlugin extends Gdn_Plugin {
     private $translationFiles = [
         'Vanilla' => PATH_ROOT.'/locales/tx-source/site_core.php',
         'Dashboard' => PATH_ROOT.'/locales/tx-source/dash_core.php',
-        'Ignore' => PATH_PLUGINS."/localligator/strings/ignore.php"
+        'Ignore' => PATH_ROOT."/conf/localligator/ignore.php"
     ];
 
     private static $informUser = true;
 
     /** @var Storage of untranslated codes */
-    const UNTRANSLATED_FILE_NAME = PATH_PLUGINS."/localligator/strings/untranslated.php";
+    const UNTRANSLATED_FILE_NAME = PATH_ROOT."/conf/localligator/untranslated.php";
 
     /**
      * Fetch the site core translation strings.
