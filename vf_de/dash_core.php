@@ -122,6 +122,7 @@ $Definition['Begin At'] = 'Starten bei';
 $Definition['Below Sidebar'] = 'Unter der Seitenleiste';
 $Definition['Blocked'] = 'Blockiert';
 $Definition['Blog Comments'] = 'Blogkommentare';
+$Definition['Bookmark a discussion using its star icon.'] = 'Lese eine Diskussion mit seinem Stern';
 $Definition['Browse Addons'] = 'Addons durchsuchen';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Neues Bannerlogo auswählen, wenn du es ändern möchtest:';
 $Definition['Button Background Color'] = 'Hintergrund-Farbe von Knöpfen';

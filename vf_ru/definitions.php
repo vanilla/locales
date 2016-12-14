@@ -5,7 +5,7 @@
   'Name' => 'Русский / Russian',
   'EnName' => 'Russian',
   'Description' => 'Official Russian language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/ru/">here</a>.',
-  'Version' => '2016.10.13p1206',
+  'Version' => '2016.12.14p1309',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/ru/',
   'License' => 'CC BY-SA 4.0',

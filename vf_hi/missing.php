@@ -138,7 +138,7 @@ $Definition['Roles determine user\'s permissions.'] = 'Every user in your site i
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 $Definition['RSVP'] = 'Respond';
 
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
+$Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['SignedOut'] = 'You are signed out.';
 $Definition['Source Code'] = 'Code';
