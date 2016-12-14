@@ -1,4 +1,4 @@
-<?php if (!defined('APPLICATION')) exit();
+<?php 
 $Definition[' - Page %s'] = ' - Page %s';
 $Definition[' now.'] = ' now.';
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s accepted %4$s invitation for membership.';
