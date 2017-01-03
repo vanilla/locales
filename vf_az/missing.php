@@ -297,7 +297,7 @@ $Definition['RSVP'] = 'Respond';
 
 $Definition['Saved'] = 'Your changes have been saved.';
 $Definition['SearchBoxPlaceHolder'] = 'Search';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
+$Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Search for a tag.'] = 'Search for all or part of a tag.';
 $Definition['sep and'] = 'and';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
