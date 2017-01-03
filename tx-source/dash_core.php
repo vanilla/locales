@@ -1,4 +1,4 @@
-<?php if (!defined('APPLICATION')) exit();
+<?php 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" not found.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Version %2$s';
