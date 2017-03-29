@@ -1368,6 +1368,7 @@ $Definition['Visible'] = 'Sichtbar';
 $Definition['Visits'] = 'Besuche';
 $Definition['Visit Site'] = 'Seite anzeigen';
 $Definition['Vote'] = 'Stimme';
+$Definition['vote-verb'] = 'Abstimmen';
 $Definition['Vote Down'] = 'Abwählen';
 $Definition['Votes'] = 'Stimmen';
 $Definition['Vote Up'] = 'Aufwerten';

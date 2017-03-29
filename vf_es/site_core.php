@@ -1394,6 +1394,7 @@ $Definition['Views'] = 'Vistas ';
 $Definition['Visits'] = 'Visitas';
 $Definition['Visit Site'] = 'Visitar Sitio';
 $Definition['Vote'] = 'Votar';
+$Definition['vote-verb'] = 'Votar';
 $Definition['Vote Down'] = 'Votar en contra';
 $Definition['Votes'] = 'Votos';
 $Definition['Vote Up'] = 'Votar a favor';
