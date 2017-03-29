@@ -1395,6 +1395,7 @@ $Definition['Visible'] = 'Visible';
 $Definition['Visit Site'] = 'Visit Site';
 $Definition['Visits'] = 'Visits';
 $Definition['Vote'] = 'Vote';
+$Definition['vote-verb'] = 'Vote';
 $Definition['Vote Down'] = 'Vote Down';
 $Definition['Vote Up'] = 'Vote Up';
 $Definition['Votes'] = 'Votes';
