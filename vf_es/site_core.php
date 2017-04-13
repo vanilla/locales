@@ -48,8 +48,8 @@ $Definition['%s has reset your password at %s.'] = '%s ha restablecido tu contra
 $Definition['%s hour'] = '%s hora';
 $Definition['%s hours'] = '%s horas';
 $Definition['%s Insightfuls'] = '%s Perspicaces';
-$Definition['%s level deep'] = '%s profundiad de nivel';
-$Definition['%s levels deep'] = '%s profunidad de niveles';
+$Definition['%s level deep'] = '%s nivel de profundidad';
+$Definition['%s levels deep'] = '%s niveles de profundidad';
 $Definition['%s Likes'] = '%s Me gusta';
 $Definition['%s LOLs'] = '%s jaja';
 $Definition['%s member'] = '%s miembro';
@@ -511,7 +511,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lee la historia completa aquí</a></p><div class="ClearFix"></div></div>';
-$Definition['Emoji'] = 'Texto ininteligible';
+$Definition['Emoji'] = 'Emoticonos';
 $Definition['Enable'] = 'Activar';
 $Definition['Enabled'] = 'Habilitado';
 $Definition['End time?'] = '¿Fin del tiempo?';
@@ -816,6 +816,7 @@ $Definition['Most recent by %1$s'] = 'Más reciente por %1$s';
 $Definition['Most Recent Comment'] = 'Comentario más reciente';
 $Definition['Most recent discussion'] = 'Conversación más reciente';
 $Definition['Move'] = 'Mover';
+$Definition['Mute'] = 'Silenciar';
 $Definition['MyBadgesModuleTitle'] = 'Mis Medallas';
 $Definition['My Bookmarks'] = 'Marcadores';
 $Definition['My Discussions'] = 'Mis Hilos';
@@ -1328,6 +1329,7 @@ $Definition['UniqueID'] = 'ÚnicoID';
 $Definition['Unknown'] = 'Desconocido';
 $Definition['unknown'] = 'desconocido ';
 $Definition['Unknown client: %s.'] = 'Cliente desconocido %s. ';
+$Definition['Unmute'] = 'Des-silenciar';
 $Definition['Unordered list'] = 'Lista sin ordenar';
 $Definition['Unpin'] = 'Desanclar';
 $Definition['Unread'] = 'Sin leer ';

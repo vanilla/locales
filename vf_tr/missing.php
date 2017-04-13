@@ -20,7 +20,6 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
-$Definition['Condition Field'] = 'Field';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';

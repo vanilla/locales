@@ -976,18 +976,8 @@ $Definition['Questions'] = 'Spørsmål';
 $Definition['questions'] = 'spørsmål';
 $Definition['Question Title'] = 'Diskusjonstittel';
 $Definition['Quote'] = 'Sitat';
-$Definition['Quote Folding'] = 'Sitatbretting';
-$Definition['Quote on'] = 'på';
-$Definition['Quote Settings'] = 'Sitatinnstillinger';
-$Definition['Quote wrote'] = 'skrev';
 
-$Definition['Rank'] = 'Rangering';
-$Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural, ble, ble} forfremmet til
-{Data.Name,plaintext}.';
-$Definition['Ranks.NotificationFormat'] = 'Gratulerer! Du har blitt forfremmet til {Data.Name,plaintext}.';
-$Definition['Re: %s'] = 'Re:%s';
 $Definition['React'] = 'Reager';
-$Definition['Reactions'] = 'Reaksjoner';
 $Definition['Read the full story here'] = 'Les hele historien her
 ';
 $Definition['Real Name'] = 'Ekte navn';

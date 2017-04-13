@@ -8,12 +8,14 @@ $Definition['About.VanillaStatistics'] = 'إنه من الضروري لضمان 
 $Definition['AboutCommentEmbedding'] = 'يمكن إستخدام فانيلا كبديل جاهز لنظام التعليقات في مدونتك. في الحقيقة يمكن إستخدامه لإضافة التعليقات لأي صفحة على الشبكة.';
 $Definition['AboutEmbedding'] = 'الغرس Embedding يسمح بغرس جزء أو كل برنامج فانيلا في برامج أو صفحات أخرى.';
 $Definition['About Vanilla Statistics'] = 'عن احصاءات الفانيلا';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'قم بدخول المنتدى عن طريق الضغط على رابط "زيارة الموقع" في الأعلى في هذه الصفحة أو  <a href={/,url}>بالضغط هنا</a>. المنتدى سيراه كل من أعضاؤك وعملاؤك عندما يزورون الرابط <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['AddonProblems'] = '<h2>مشاكل؟</h2><p> إذا حدث خلل مع أحد الإضافات وتعذر عليك إستخدام الموقع فيمكنك تعطيلها يدويا بتحرير:</p> %s';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'كل الأقسام المختارة مع عرض 5 مواضيع حديثة تحت كل منها';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'على الرغم بأن الدعوة قد تم تكوينها بنجاح إلا أن فشلت في الوصول. لقد حصل الخلل التالي: %s';
 $Definition['ApplicationHelp'] = 'التطبيقات تسمح لك بإضافة مجموعة كبيرة من الإمكانيات للموقع.<br>عند إضافة تطبيق إلى ملف %s ، يمكنك تنشيطه أو تعطيله هنا.';
 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
+$Definition['Choose a role that orphaned users will be assigned to:'] = 'اختر مجموعة يضم لها الأعضاء الذين بلا مجموعة:';
 
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 

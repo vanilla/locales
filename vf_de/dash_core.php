@@ -420,9 +420,11 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['New users in the last day'] = 'Neue Nutzer in den letzten 24h';
 $Definition['New users in the last week'] = 'Neue Nutzer in der letzten Woche';
 $Definition['No Change'] = 'Keine Veränderung';
+$Definition['No drafts.'] = 'Keine Entwürfe.';
 $Definition['No Items Selected'] = 'Keine Elemente ausgewählt';
 $Definition['No results for %s.'] = 'Keine Ergebnisse für <b>%s</b>.';
 $Definition['Notes'] = 'Notizen';
+$Definition['Notifications will appear here.'] = 'Hier erscheinen Benachrichtigungen.';
 $Definition['NotifyApplicant'] = 'Benachrichtige mich, wenn sich jemand um eine Mitgliedschaft bewirbt.';
 $Definition['Notify me when people comment on a discussion.'] = 'Benachrichtige mich, wenn jemand eine Diskussion kommentiert.';
 $Definition['Notify me when people start new discussions.'] = 'Benachrichtige mich, wenn jemand eine neue Diskussion beginnt.';
@@ -664,4 +666,5 @@ $Definition['You must specify an admin password.'] = 'Du musst ein Adminpasswort
 $Definition['You must specify an admin username.'] = 'Du musst einen Admin-Benutzernamen angeben.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Deine Konfigurationsdatei hat nicht die benötigten Berechtigungen. PHP muss Lese- und Schreibrechte für diese Datei besitzen: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = 'Deine Standard-Lokalisierung wird nicht korrekt angezeigt, bis sie unten aktiviert wird. Bitte folgendes aktivieren: %s.';
+$Definition['Your inbox is empty.'] = 'Dein Posteingang ist leer.';
 $Definition['Your invitations were sent successfully.'] = 'Deine Einladungen wurden erfolgreich versandt.';
