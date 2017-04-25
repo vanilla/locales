@@ -947,6 +947,8 @@ $Definition['Please wait while you are redirected. If you are not redirected, cl
 $Definition['Points'] = 'Points';
 $Definition['Poll'] = 'Poll';
 $Definition['poll'] = 'Poll';
+$Definition['Polls'] = 'Polls';
+$Definition['polls'] = 'Polls';
 $Definition['Poll Options'] = 'Poll Options';
 $Definition['Poll Question'] = 'Poll Question';
 $Definition['Popular'] = 'Popular';
