@@ -986,12 +986,14 @@ $Definition['Previous'] = 'قبلي';
 $Definition['Privacy'] = 'حريم خصوصي';
 $Definition['Privacy Settings'] = 'تنظيمات حريم خصوصي';
 $Definition['Private'] = 'خصوصي';
+$Definition['Private group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
 $Definition['Private Note for Moderators'] = 'يادداشت خصوصي براي مديران انجمن';
 $Definition['Problem with credentials.'] = 'مشكل با اطلاعات';
 $Definition['Proceed'] = 'ادامه';
 $Definition['Profile'] = 'پروفايل';
 $Definition['Profile Fields'] = 'كادرهاي پروفايل';
 $Definition['Profile  Fields'] = 'كادرهاي پروفايل';
+$Definition['ProfileFieldsCustomDescription'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
 $Definition['Profile Page'] = 'صفحه پروفايل';
 $Definition['Profile Picture'] = 'تصوير پروفايل';
 $Definition['Profiles'] = 'پروفايل';
@@ -1018,6 +1020,8 @@ $Definition['Quote Settings'] = 'تنظيمات نقل قول';
 $Definition['Quote wrote'] = 'نوشته است';
 
 $Definition['Rank'] = 'رتبه بندي';
+$Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,was,were} ارتقاء داده شده به {Data.Name,plaintext}.';
+$Definition['Ranks.NotificationFormat'] = 'تبريك ميگويم! شما به {Data.Name,plaintext} ارتقاء داده شديد.';
 $Definition['Re: %s'] = 'پاسخ : %s';
 $Definition['React'] = 'واكنش';
 $Definition['Reaction'] = 'واكنش';
@@ -1046,16 +1050,262 @@ $Definition['Registration URL'] = 'آدرس وب ثبت نام';
 $Definition['Reject'] = 'رد كردن';
 $Definition['Reject this answer.'] = 'رد كردن اين پاسخ';
 $Definition['Remember me'] = 'ذخيره';
+$Definition['Remember me on this computer'] = 'من را روي اين كامپيوتر بياد داشته باش';
+$Definition['Remote Configuration'] = 'پيكربندي راه دور';
+$Definition['Remove'] = 'حذف';
+$Definition['Remove %s'] = 'حذف %s';
+$Definition['Removed by'] = 'حذف توسط';
+$Definition['Remove file'] = 'حذف فايل';
+$Definition['Remove from %s'] = 'حذف از %s';
+$Definition['Remove Icon'] = 'حذف آيكن';
+$Definition['Remove Invitation'] = 'حذف دعوتنامه';
+$Definition['Remove My Picture'] = 'حذف تصوير من';
+$Definition['Remove Picture'] = 'حذف تصوير';
+$Definition['Remove Warning'] = 'تصوير هشدار';
+$Definition['Rename Forum'] = 'تغييرنام انجمن';
+$Definition['Reopen'] = 'بازگشايي مجدد';
+$Definition['Replies'] = 'پاسخ ها';
+$Definition['Reply'] = 'پاسخ';
+$Definition['ReplyOnly'] = 'براي دنبال كردن ميتوانيد مستقيما ً به اين ايميل پاسخ دهيد. ارسال شده از طرف {/,exurl}.';
+$Definition['ReplyOrFollow'] = 'براي بررسي مستقيماً به اين ايميل پاسخ داده و يا اينكه لينك زير را دنبال كنيد :';
+$Definition['Report'] = 'گزارش';
+$Definition['Report %s'] = 'گزارش %s';
+$Definition['Reported'] = 'گزارش شده';
+$Definition['Reported by: '] = 'گزارش شده توسط : ';
+$Definition['Reported Posts'] = 'نوشته هاي گزارش شده';
 $Definition['Report Notes'] = 'يادداشت';
 $Definition['Report Reason'] = 'دليل';
+$Definition['Reputation'] = 'اعتبار';
+$Definition['Request a new password'] = 'درخواست كلمه عبور جديد';
+$Definition['Request a new password →'] = 'درخواست كلمه عبور جديد →';
+$Definition['Request another password reset.'] = 'درخواست بازنشاني كلمه عبور ديگر.';
+$Definition['Reset Password'] = 'بازنشاني كلمه عبور';
+$Definition['Reset Your Password'] = 'بازنشاني كلمه عبور خود';
+$Definition['Restore'] = 'بازيابي';
+$Definition['Restored'] = 'بازيابي شد';
+$Definition['Return to %s'] = 'بازگشت به %s';
+$Definition['reverse'] = 'معكوس';
+$Definition['Revoke'] = 'لغو كردن';
+$Definition['Revoked'] = 'لغو شد';
+$Definition['Revoked badge.'] = 'مدال لغو شده.';
+$Definition['role'] = 'نقش';
+$Definition['RoleID'] = 'نقش';
+$Definition['Roles'] = 'نقش';
+$Definition['roles'] = 'نقش';
+$Definition['RSS Feed'] = 'بازخورد RSS';
+$Definition['RSVP'] = 'پاسخ';
 
+$Definition['Save'] = 'ذخيره';
+$Definition['Save Comment'] = 'ذخيره ديدگاه';
+$Definition['Saved'] = 'تغييرات شما ذخيره شد.';
+$Definition['Save Draft'] = 'ذخيره پيشنويس';
+$Definition['Save Poll'] = 'ذخيره نظرسنجي';
+$Definition['Save Preferences'] = 'ذخيره تنظيمات';
+$Definition['Save your password'] = 'ذخيره كلمه عبور خود';
+$Definition['Search'] = 'جستجو';
+$Definition['Search %s'] = 'جستجو %s';
+$Definition['search archived'] = 'جستجوي بايگاني';
+$Definition['SearchBoxPlaceHolder'] = 'جستجو';
+$Definition['Search for a tag.'] = 'جستجوي تمام يا بخشي از برچسب.';
+$Definition['Search results for \'%s\''] = 'نتايج جستجو براي \'%s\'';
+$Definition['search subcategories'] = 'جستجوي زيردسته ها';
+$Definition['Second Anniversary'] = 'سالگرد دوم';
+$Definition['Secret'] = 'محرمانه';
+$Definition['Sections'] = 'بخش ها';
+$Definition['Security Check'] = 'بررسي امنيتي';
+$Definition['Select a %s'] = 'انتخاب يك %s';
+$Definition['Select a category...'] = 'انتخاب يك دسته بندي...';
+$Definition['Select a community.'] = 'انتخاب يك انجمن.';
+$Definition['Select an image on your computer (2mb max)'] = 'انتخاب يك تصوير از روي كامپيوتر خود (حداكثر 2 مگابايت)';
+$Definition['Select one of the following avatars:'] = 'يكي از اين آواتارها را انتخاب كنيد:';
+$Definition['Send'] = 'ارسال';
+$Definition['Send a New Message'] = 'ارسال يك پيام جديد';
+$Definition['Send Message'] = 'ارسال پيام';
+$Definition['Send Report'] = 'ارسال گزارش';
+$Definition['Send report'] = 'ارسال گزارش';
+$Definition['sep and'] = 'و';
+$Definition['Set a New Warning Level'] = 'تنظيم يك سطح هشدار';
+$Definition['Set A Password'] = 'تنظيم يك كلمه عبور';
+$Definition['Setting'] = 'تنظيم';
+$Definition['Settings'] = 'تنظيمات';
+$Definition['Seventh Anniversary'] = 'سالگرد هفتم';
+$Definition['Severity'] = 'دقت';
+$Definition['Share'] = 'اشتراك';
+$Definition['Shared Accounts'] = 'حساب هاي كاربري اشتراك گذاشته شده';
+$Definition['she'] = 'او';
+$Definition['Shown only on mobile'] = 'فقط روي موبايل نمايش داده شود';
+$Definition['Show unfollowed categories'] = 'نمايش دسته هايي كه دنبال نميكنم';
+$Definition['Sign-In URL'] = 'آدرس وب ورود';
+$Definition['Sign-Out URL'] = 'آدرس وب خروج';
+$Definition['Signature'] = 'امضاء';
+$Definition['Signature Code'] = 'كد امضاء';
+$Definition['Signature invalid.'] = 'امضاء معتبر نيست.';
+$Definition['Signatures'] = 'امضاء';
+$Definition['Signatures can be up to {maxLength} characters long.'] = 'امضاء ميتواند حداكثر تا {maxLength} كاراكتر طول داشته باشد.';
+$Definition['Signature Settings'] = 'تنظيمات امضاء';
+$Definition['SignIn'] = 'ورود';
+$Definition['Sign In'] = 'ورود';
 $Definition['SigningOut'] = 'چند ثانيه تحمل كرده تا ما شما را از سيستم خارج كنيم.';
+$Definition['Sign In Now'] = 'وارد شويد';
+$Definition['Sign In or Register to Comment.'] = 'جهت ارسال ديدگاه <a href="{SignInUrl,html}"{Popup}>وارد شويد</a> و يا <a href="{RegisterUrl,html}">ثبت نام كنيد</a>.';
+$Definition['Sign in to vote!'] = 'ورود براي راي دهي!';
+$Definition['Sign In with %s'] = 'ورود توسط %s';
+$Definition['Sign In with Disqus'] = 'ورود توسط ديسكاس';
+$Definition['Sign In with Facebook'] = 'ورود توسط فيسبوك';
+$Definition['Sign In with Google'] = 'ورود توسط گوگل';
+$Definition['Sign In with OpenID'] = 'ورود توسط OpenID';
+$Definition['Sign In with Twitter'] = 'ورود توسط توئيتر';
+$Definition['Sign Out'] = 'خروج';
+$Definition['sign out'] = 'خروج';
+$Definition['Sign Up'] = 'ثبت نام';
+$Definition['Sink'] = 'پايين بردن';
+$Definition['Sink this discussion'] = 'پايين بردن اين گفتگو';
+$Definition['Site'] = 'سايت';
+$Definition['Sitemap Settings'] = 'تنظيمات نقشه سايت';
+$Definition['Sites'] = 'سايت';
+$Definition['Sixth Anniversary'] = 'ششمين سالگرد';
+$Definition['Social'] = 'اجتماعي';
+$Definition['somebody'] = 'شخصي';
+$Definition['Some Code'] = 'مقداري كد';
+$Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'شخصي به پرسش شما پاسخ داده است. نياز است كه پاسخ را قبول / رد كنيد.';
+$Definition['sorted by'] = 'ترتيب براساس';
+$Definition['Source'] = 'منبع';
+$Definition['Source:'] = 'منبع:';
+$Definition['Source Code'] = 'كد';
+$Definition['Spam'] = 'هرزنامه';
+$Definition['Spam Queue'] = 'صف هرزنامه';
+$Definition['Split'] = 'جداسازي';
+$Definition['Split Comments'] = 'جداسازي ديدگاه';
+$Definition['Spoiler'] = 'اسپويلر';
+$Definition['Spoof User'] = 'كاربر جعلي';
+$Definition['Start'] = 'شروع';
+$Definition['Start a Group'] = 'شروع يك گروه';
 $Definition['Start a New Conversation'] = 'پيام جديد';
 $Definition['Start a New Discussion'] = 'گفتگوي جديد';
+$Definition['Start Conversation'] = 'شروع محاوره';
+$Definition['Started By'] = 'شروع توسط';
+$Definition['Started by'] = 'شروع توسط';
+$Definition['Started by %1$s'] = 'شروع توسط %1$s';
+$Definition['Start your First Discussion'] = 'اولين گفتگوي خود را شروع كنيد';
+$Definition['Status'] = 'وضعيت';
+$Definition['status'] = 'وضعيت';
+$Definition['Status: %s'] = 'وضعيت: %s';
+$Definition['Statuses'] = 'وضعيت';
+$Definition['statuses'] = 'وضعيت';
+$Definition['Stop following'] = 'دنبال نكردن';
+$Definition['Strikethrough'] = 'خط خورده';
+$Definition['Strip images out of signatures'] = 'پاك كردن تصاوير امضاء ها';
+$Definition['Strip images out of signatures?'] = 'تصاوير درون امضاء ها پاك شوند؟';
+$Definition['Subject'] = 'موضوع';
+$Definition['Subscriber'] = 'مشترك';
+$Definition['Success'] = 'موفق';
+$Definition['Suggested Value'] = 'مقدار پيشنهاد شده';
+$Definition['System'] = 'سيستم';
 
+$Definition['Tagged'] = 'برچسب خورده';
+$Definition['Tagged with '] = 'برچسب شده با ';
+$Definition['Tagged with "%s"'] = 'برچسب شده با "%s"';
+$Definition['Tagging'] = 'برچسب زدن';
+$Definition['TagHint'] = 'شروع نوشتن ...';
+$Definition['Tag Name'] = 'نام برچسب';
+$Definition['Tags'] = 'برچسب';
+$Definition['tags'] = 'برچسب';
+$Definition['Tags are keywords that users can assign to discussions to help categorize their question with similar questions.'] = 'برچسب ها كلماتي هستند كه كاربران ميتوانند به گفتگوهاي خود اختصاص داده تا به آنها كمك كرده پرسش هاي خود را با پرسش هاي مشابه ديگر طبقه بندي كنند.';
+$Definition['Take Action'] = 'شروع عمليات';
+$Definition['Take Action:'] = 'شروع عمليات :';
+$Definition['Target'] = 'مقصد';
+$Definition['Tell the user why you\'re warning them'] = 'به كاربر بگوييد چرا به آنها هشدار ميدهيد';
+$Definition['Tell us why you want to join!'] = 'به ما بگويد چرا ميخواهيد عضو شويد!';
+$Definition['Tenth Anniversary'] = 'دهمين سالگرد';
+$Definition['Terms'] = 'شرايط';
+$Definition['TermsOfService'] = 'شرايط خدمات';
+$Definition['Terms of Service'] = 'شرايط خدمات';
+$Definition['TermsOfServiceText'] = 'شما می پذیرید که : از درج و نشر مطالب غلط، بکار بردن کلمات رکیک، دروغ و بی احترامی به کاربران، دین‌، عقاید و اعتقادات، اشخاص و اقشار، ارگان‌ها و ادارات، سازمانها و مسئولین خلاف قوانین می‌باشد و می‌بایست از ایجاد گروه‌های سیاسی، ارسال‌های مرتبط یا استفاده از تصویر کاربری و تصویر پس زمینه پروفایل مرتبط خودداری نماييد. شما می پذیرید که : هيچگونه نوشته و موضوعي كه شامل حق كپي رايت باشد را ارسال نخواهيد كرد مگر اينكه حق كپي رايت آن براي خود شما باشد.
+هرگونه خرید و فروش یا امور تبلیغاتی در فضای سایت ممنوع بوده و جهت امور تبلیغاتی باید با مدیریت سایت هماهنگی شود.
+تيم مديريت حق دارد درصورت لزوم هرگونه اطلاعاتي كه درمورد شما دارد را در اختيار مراجع قانوني كشوري قرار دهد.
+ما تمامي آدرس هاي پروتوكل اينترنتي كه به اين سايت دسترسي داشته باشد را ذخيره ميكنيم .
+شما می پذیرید که : - تیم مدیریت توانایی و حق پاک کردن، ویرایش و یا مسدود کردن هر حساب کاربری در هر زمان که مورد نیاز باشد با دليل و يا حتي بدون هيچ دليلي را دارد. - تیم مدیریت در صورت مشاهده‌ هرزنامه، حق اقدام به مسدود یا حذف کردن ِ حساب ِ اسپمر را دارد. - تیم مدیریت در جهت حمایت از قانون کپی رایت، پس از بررسی شکایات و ادعاها، ارسالهای غیر قانونی را حذف میکند. 
+براي استفاده از اين خدمات حداقل شما بايد 13 سال سن داشته باشيد
+';
+$Definition['Test'] = 'آزمايش';
+$Definition['Testing'] = 'آزمايش كردن';
+$Definition['Text'] = 'متن';
+$Definition['Text  Max  Length'] = 'حداكثر طول متن';
+$Definition['Thank You!'] = 'سپاسگذاريم!';
+$Definition['The %s has been deleted.'] = '%s حذف شد.';
+$Definition['The %s has been flagged for moderation.'] = '%s جهت بررسي مدير علامت خورد.';
+$Definition['The %s you were looking for could not be found.'] = '%s چيزي كه شما بدنبالش هستيد يافت نشد.';
+$Definition['the category'] = 'دسته بندي';
+$Definition['The connection data has not been verified.'] = 'اتصال داده تائيد نشده است.';
+$Definition['The content you were looking for has been deleted.'] = 'محتوايي كه بدنبالش هستيد يافت نشد.';
+$Definition['The conversation has been cleared.'] = 'محاوره پاك شد.';
+$Definition['The CSRF token is invalid.'] = 'رمز CSRF معتبر نميباشد.';
+$Definition['The email you entered is in use by another member.'] = 'ايميلي كه شما وارد كرده ايد توسط عضو ديگري درحال استفاده ميباشد.';
+$Definition['The email you have entered is already related to an existing account.'] = 'ايميلي كه شما وارد كرده ايد هم اكنون مربوط به يك حساب كاربري ديگري ميباشد.';
+$Definition['The file failed to upload.'] = 'آپلود فايل با خطا روبرو شد.';
 $Definition['their'] = 'ايشان';
+$Definition['The name you entered is already in use by another member.'] = 'نامي كه شما وارد كرده ايد توسط عضو ديگري درحال استفاده ميباشد.';
+$Definition['The page you were looking for could not be found.'] = 'صفحه اي كه شما بدنبالش هستيد يافت نشد.';
+$Definition['The quote had to be converted from %s to %s.'] = 'نقل قول بايد از %s به %s تبديل شود. بعضي از فرمتهايش شايد حذف شود.';
+$Definition['There\'s already a %s with the name %s.'] = 'از قبل %1$s در نام %2$s وجود دارد.';
+$Definition['There aren\'t any groups yet.'] = 'هنوز هيچ گروهي وجود ندارد.';
+$Definition['There are no tags in the system yet.'] = 'هنوز هيچگونه برچسبي در سيستم وجود ندارد.';
+$Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'مقدار كدامنيتي بدرستي وارد نشده است. لطفا ً‌دوباره تلاش كنيد.';
+$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'كدامنيتي بدرستي تكميل نشده است. لطفاً‌ دوباره تلاش كنيد.';
+$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'هم اكنون يك حساب كاربري با نام كاربري مشابه (%1$s) و يا ايميل (%2$s) مثل شما وجود دارد. شما ميتوانيد يك حساب كاربري جديدي ايجاد كرده، و يا اطلاعات ورود به حساب كاربري موجود خود در انجمن را وارد كنيد..';
+$Definition['The response was not in the correct format.'] = 'پاسخ در فرمت صحيحي نميباشد.';
+$Definition['There was an error connecting to Disqus'] = 'خطايي در اتصال با Disqus وجود دارد';
+$Definition['There was an error connecting to Facebook'] = 'خطايي در اتصال با Facebook وجود دارد';
+$Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'خطايي در آپلود فايل وجود دارد. معمولا ً اين خطاها بخاطر حجم زياد فايل پيش مي آيد.';
+$Definition['These tags are reserved and cannot be used: %s'] = 'اين برچسب ها رزرو شده و نميتوان از آنها استفاده كرد : %s';
+$Definition['The site is currently undergoing maintenance.'] = 'وبسايت هم اكنون در حال تعمير و نگهداري ميباشد.';
+$Definition['The status for "%s" has changed to %s.'] = 'وضعيت "%s" به %s تغيير يافت.';
+$Definition['The uploaded file was too big (max %s).'] = 'فايل آپلود شده بسيار حجيم ميباشد ( حداكثر %s ).';
+$Definition['The user has already been warned for this %s.'] = 'كاربر قبلا ً‌براي %s هشدار دريافت كرده است.';
+$Definition['The user isn\'t banned.'] = 'كاربر مسدود نميباشد و يا اينكه توسط توابع ديگري مسدود شده است.';
+$Definition['they'] = 'آنها';
+$Definition['Third Anniversary'] = 'سومين سالگرد';
+$Definition['This answer was %s.'] = 'اين پاسخ بود %s .';
+$Definition['This answer was Accepted.'] = 'این پاسخ پذیرفته شد.';
+$Definition['This discussion has been closed.'] = 'اين گفتگو بسته شده است .';
+$Definition['This discussion is related to an undefined foriegn content source.'] = 'اين گفتگو مربوط به يك منبع محتواي خارجي ميباشد .';
+$Definition['This discussion was created from comments split from: %s.'] = 'اين گفتگو از ديدگاه هاي جدا شده از : %s ايجاد شده است.';
+$Definition['This discussion was merged into %s'] = 'اين گفتگو به %s ادغام شده است.';
+$Definition['This image has been inserted into the body of text.'] = 'اين تصوير به داخل متن درج شده است.';
+$Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'اين تصوير براي هم اندازه شدن صفحه تغيير اندازه داده شده. براي بزرگ شدن كليك كنيد.';
+$Definition['This is a private poll: no-one will see what you voted for.'] = 'اين يك نظرسنجي خصوصي ميباشد : هيچكس راي شما را نخواهيد ديد .';
+$Definition['This is a public poll: others will see what you voted for.'] = 'اين يك نظرسنجي عمومي ميباشد : هركسي ميتواند راي شما را ببيند.';
+$Definition['This is a system account and does not represent a real person.'] = 'اين حساب كاربري سيستمي ميباشد و متعلق به شخص واقعي نميباشد.';
+$Definition['This Month\'s Leaders'] = 'پيشتازان اين ماه';
+$Definition['This question\'s answer has been accepted.'] = 'پاسخ اين سوال پذيرفته شده است.';
+$Definition['This user has been verified as a non-spammer.'] = 'اين كاربر بعنوان غير-هرزنامه نگار تائيد شد.';
+$Definition['This user has not been verified as a non-spammer.'] = 'اين كاربر بعنوان غير-هرزنامه نگار تائيد نشده است .';
+$Definition['This user has not commented yet.'] = 'اين كاربر هنوز هيچ ديدگاهي ارسال نكرده است.';
+$Definition['This user has not made any discussions yet.'] = 'اين كاربر هنوز هيچگونه گفتگويي را ايجاد نكرده است.';
+$Definition['This user is also banned for other reasons and may stay banned.'] = 'اين كاربر همچنين بدليل ديگري نيز مسدود ميباشد و ممكن است مسدود بماند.';
+$Definition['This user is verified as a non-spammer'] = 'اين كاربر بعنوان غير-هرزنامه نگار تائيد شد.';
+$Definition['This warning has expired. Do you want to completely delete it?'] = 'اين هشدار منقضي شده است . مايل هستيد آن را كاملا ً حذف كنيد ؟';
+$Definition['This Week\'s Leaders'] = 'پيشتازان اين هفته';
+$Definition['Thumbnail'] = 'بندانگشتي';
+$Definition['Title'] = 'عنوان';
+$Definition['To'] = 'به';
+$Definition['Toggle full page'] = 'تعويض به صفحه كامل';
+$Definition['Toggle HTML view'] = 'تعويض به نماي HTML';
+$Definition['Toggle lights'] = 'تعويض به ساده';
+$Definition['Topic'] = 'موضوع';
+$Definition['Topics'] = 'موضوع';
+$Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'براي ارسال يك ايميل تائيديه ديگر <a href="%s">اينجا</a> را كليك كنيد.';
+$Definition['To use reCAPTCHA you must get an API key from %s'] = 'براي استفاده از كدامنيتي reCAPTCHA  شما بايد كليد API  را از  %s دريافت كنيد.';
 $Definition['Transport error: %s'] = 'هنگام پردازش درخواست يك خطاي مهلك رخ داد.<br />سرويس دهنده خطاي ذيل را بازگرداند : %s';
+$Definition['Troll'] = 'شبح';
+$Definition['Try Again'] = 'سعي مجدد';
+$Definition['Turn ON'] = 'روشن كردن';
+$Definition['Twitter Settings'] = 'تنظيمات Twitter';
+$Definition['Type'] = 'تايپ كردن';
+$Definition['Type the text:'] = 'تايپ كردن متن';
+$Definition['Type what you hear:'] = 'تايپ كردن چيزي كه ميشنويد :';
 
+$Definition['Unable to send message, %s is ignoring you.'] = 'عدم امكان ارسال پيام ، %s شما را مسدود كرده است.';
 $Definition['Username'] = 'نام كاربري';
 
 $Definition['weekday.letter.1'] = 'M';
@@ -1087,4 +1337,5 @@ $Definition['You are currently only viewing categories that you follow.'] = 'ش�
 $Definition['You are currently viewing all categories.'] = 'شما درحال مشاهده همه دسته بندي ها هستيد.';
 $Definition['You don\'t have permission to do that.'] = 'شما مجوز اين كار را نداريد.';
 $Definition['You must agree to the terms of service.'] = 'شما بايد با شرايط خدمات موافقت نماييد.';
+$Definition['Your changes have been saved.'] = 'تغييرات شما ذخيره شد.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'نام كاربري ثبت شده شما: <strong>%s</strong>';
