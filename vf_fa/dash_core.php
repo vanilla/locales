@@ -496,7 +496,7 @@ $Definition['Run structure & data scripts'] = 'اجراي ساختار و اسك
 
 $Definition['Save Captured Definitions'] = 'ذخيره تعاريف گرفته شده';
 $Definition['Save Colors'] = 'ذخيره رنگ ها';
-$Definition['Search by user or role.'] = 'جستجوي كاربران بر اساس نام و يا وارد كردن نام نقش تا تمام كاربراني كه اين نقش را دارند را ببينيد.';
+$Definition['Search by user or role.'] = 'جستجوی کاربر براساس نام یا ایمیل، بطور دلخواه میتوانید از کاراکتر  % برای جستجو استفاده کنید. همچنین میتوانید براساس شناسه کاربری ، نام یک نقش و یا  &ldquo;محروم شده &ldquo; جستجوی خود را انجام دهید.';
 $Definition['seconds'] = 'ثانيه';
 $Definition['Security'] = 'امنيتي';
 $Definition['Select'] = 'انتخاب';

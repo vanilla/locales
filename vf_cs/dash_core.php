@@ -169,7 +169,6 @@ $Definition['Roles & Permissions'] = 'Role & Oprávnění';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Save Colors'] = 'Uložit barvy';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = 'sekundy';
 $Definition['Send %s a Message'] = 'Poslat %s zprávu';
 $Definition['Send a Test Email'] = 'Zaslat testovací email';

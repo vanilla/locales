@@ -986,6 +986,7 @@ $Definition['Visible'] = 'नज़र आ रहा है';
 $Definition['Visits'] = 'विज़िट';
 $Definition['Visit Site'] = 'साइट विज़िट करें';
 $Definition['Vote'] = 'वोट';
+$Definition['Vote (action)'] = 'वोट';
 $Definition['Vote Down'] = 'वोट डाउन करें';
 $Definition['Votes'] = 'वोट';
 $Definition['Vote Up'] = 'वोट अप करें';

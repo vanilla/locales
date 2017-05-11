@@ -495,7 +495,6 @@ $Definition['Run structure & data scripts'] = 'Adat és szerkezet szkriptek futt
 
 $Definition['Save Captured Definitions'] = 'Begyűjtött definíók ';
 $Definition['Save Colors'] = 'Színek mentése';
-$Definition['Search by user or role.'] = 'Keress felhasználókat a megadott névvel, vagy adj megy egy szerepkört, hogy olyan felhasználókat találj, akik az adott szerepkörrel rendelkeznek.';
 $Definition['seconds'] = 'másodperc';
 $Definition['Security'] = 'Biztonság';
 $Definition['Select'] = 'Válassz';

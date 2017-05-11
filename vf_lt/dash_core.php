@@ -316,7 +316,6 @@ $Definition['Role'] = 'Rolė';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Save Colors'] = 'Išsaugokite spalvas';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Security'] = 'Saugumas';
 $Definition['Select'] = 'Pažymėti';
 $Definition['Send %s a Message'] = 'Išsiųsti %s žinutę';

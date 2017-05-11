@@ -348,7 +348,7 @@ $Definition['Routes'] = 'Перенаправленія';
 $Definition['Run structure & data scripts'] = 'Запустить обновленіе структуры и скриптовъ';
 
 $Definition['Save Colors'] = 'Сохранить цвета';
-$Definition['Search by user or role.'] = 'Поискъ по имени пользователя или группѣ';
+$Definition['Search by user or role.'] = 'Ищите пользователей по имени или электронной почте, по желанию используя % a как маску. Вы также можете искать по ID пользователя, названию роли и &ldquo;забаненым&rdquo;. Примечание: «а» перед «как» - это не опечатка. Просто сервис перевода не сохранял его без этого. ';
 $Definition['seconds'] = 'секундъ';
 $Definition['Security'] = 'Безопасность';
 $Definition['Send %s a Message'] = 'Отправить %s сообщеніе';

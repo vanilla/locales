@@ -500,7 +500,7 @@ $Definition['Run structure & data scripts'] = 'Запустить обновле
 
 $Definition['Save Captured Definitions'] = 'Сохранить захваченные параметры';
 $Definition['Save Colors'] = 'Сохранить цвета';
-$Definition['Search by user or role.'] = 'Поиск по имени пользователя или группе';
+$Definition['Search by user or role.'] = 'Ищите пользователей по имени или электронной почте, по желанию используя % a как маску. Вы также можете искать по ID пользователя, названию роли и &ldquo;забаненым&rdquo;. Примечание: «а» перед «как» - это не опечатка. Просто сервис перевода не сохранял его без этого. ';
 $Definition['seconds'] = 'секунд';
 $Definition['Security'] = 'Безопасность';
 $Definition['Select'] = 'Выбрать';

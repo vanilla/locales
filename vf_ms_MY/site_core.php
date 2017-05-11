@@ -1312,6 +1312,7 @@ $Definition['Visible'] = 'Boleh Lihat';
 $Definition['Visits'] = 'Lawatan';
 $Definition['Visit Site'] = 'Lawati Laman';
 $Definition['Vote'] = 'Undi';
+$Definition['Vote (action)'] = 'Undi';
 $Definition['Vote Down'] = 'Benci';
 $Definition['Votes'] = 'Undian';
 $Definition['Vote Up'] = 'Puji';

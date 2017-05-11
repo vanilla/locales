@@ -1327,6 +1327,7 @@ $Definition['Visible'] = 'ظاہر';
 $Definition['Visits'] = 'دورے';
 $Definition['Visit Site'] = 'سائٹ ملاحظہ کریں';
 $Definition['Vote'] = 'ووٹ';
+$Definition['Vote (action)'] = 'ووٹ';
 $Definition['Vote Down'] = 'ووٹ دیں';
 $Definition['Votes'] = 'ووٹ';
 $Definition['Vote Up'] = 'ووٹ اپ';

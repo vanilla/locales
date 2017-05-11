@@ -488,7 +488,6 @@ $Definition['Run structure & data scripts'] = 'Activeer structuur & data scripts
 
 $Definition['Save Captured Definitions'] = 'Sla gevangen definities op';
 $Definition['Save Colors'] = 'Bewaar kleuren';
-$Definition['Search by user or role.'] = 'Zoek gebruikers bij naam of voer de naam van een rol in om alle gebruikers met die rol te zien.';
 $Definition['seconds'] = 'seconden';
 $Definition['Security'] = 'Beveiliging';
 $Definition['Select'] = 'Selecteer';

@@ -493,7 +493,6 @@ $Definition['Run structure & data scripts'] = 'הרץ סקריפטים של מב
 
 $Definition['Save Captured Definitions'] = 'שמור הגדרות';
 $Definition['Save Colors'] = 'שמור צבעים';
-$Definition['Search by user or role.'] = 'חפש משתמשים לפי שם או לפי שם התפקיד כדי לצפות בכל המשתמשים עם התפקיד הזה.';
 $Definition['seconds'] = 'שניות';
 $Definition['Security'] = 'אבטחה';
 $Definition['Select'] = 'בחר';

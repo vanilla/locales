@@ -501,7 +501,6 @@ $Definition['Run structure & data scripts'] = 'Struktur und Daten Upgrade ausfü
 
 $Definition['Save Captured Definitions'] = 'Erhaltene Definitionen speichern';
 $Definition['Save Colors'] = 'Farben speichern';
-$Definition['Search by user or role.'] = 'Suche nach Nutzern durch Eingabe des Nutzernamens oder gib den Namen einer Rolle an, um alle Nutzer zu sehen die diese Rolle einnehmen.';
 $Definition['seconds'] = 'Sekunden';
 $Definition['Security'] = 'Sicherheit';
 $Definition['Select'] = 'Wähle';

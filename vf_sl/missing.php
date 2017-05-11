@@ -81,6 +81,7 @@ $Definition['Group Members'] = 'Members';
 $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent you a <a href="{Url,html}">message</a>';
@@ -126,6 +127,7 @@ $Definition['Password Weak'] = 'Weak';
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
+$Definition['polls'] = 'Polls';
 $Definition['Private group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
 $Definition['Public group.'] = 'Anyone can see the group and its content. Anyone can join.';
 

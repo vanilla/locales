@@ -960,6 +960,8 @@ $Definition['Poll'] = 'نظرسنجي';
 $Definition['poll'] = 'نظرسنجي';
 $Definition['Poll Options'] = 'گزينه هاي نظرسنجي';
 $Definition['Poll Question'] = 'پرسش نظرسنجي';
+$Definition['Polls'] = 'نظرسنجي';
+$Definition['polls'] = 'نظرسنجي';
 $Definition['Popular'] = 'محبوب';
 $Definition['Popular Discussions'] = 'گفتگوهاي محبوب';
 $Definition['Popular Groups'] = 'گروه هاي محبوب';
@@ -1307,6 +1309,8 @@ $Definition['Type what you hear:'] = 'تايپ كردن چيزي كه ميشنو
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'عدم امكان ارسال پيام ، %s شما را مسدود كرده است.';
 $Definition['Username'] = 'نام كاربري';
+
+$Definition['Vote (action)'] = 'Vote';
 
 $Definition['weekday.letter.1'] = 'M';
 $Definition['weekday.letter.2'] = 'س';

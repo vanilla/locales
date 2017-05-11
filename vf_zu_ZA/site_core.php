@@ -1350,6 +1350,7 @@ $Definition['Visible'] = 'Okubonakalayo';
 $Definition['Visits'] = 'Ukuvakasha';
 $Definition['Visit Site'] = 'Vakashela Isayithi';
 $Definition['Vote'] = 'Vota';
+$Definition['Vote (action)'] = 'Vota';
 $Definition['Vote Down'] = 'Vota Phansi';
 $Definition['Votes'] = 'Amavoti';
 $Definition['Vote Up'] = 'Vota Phezulu';

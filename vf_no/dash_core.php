@@ -125,7 +125,6 @@ $Definition['Roles & Permissions'] = 'Roller og rettigheter';
 $Definition['Roles determine user\'s permissions.'] = 'Hver eneste bruker må få minst én rolle. Roller brukes for å bestemme hva brukere har lov til å gjøre.';
 
 $Definition['Save Colors'] = 'Lagre farger';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Send %s a Message'] = 'Send %s en melding';
 $Definition['Send Again'] = 'Send på nytt';
 $Definition['Send a Test Email'] = 'Send en e-post for testing';

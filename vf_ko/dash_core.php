@@ -196,7 +196,6 @@ $Definition['Route'] = '라우팅 경로';
 $Definition['Routes'] = '라우팅 경로 설정';
 
 $Definition['Save Colors'] = '색상 저장';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = '초 이내에 게시 불가.';
 $Definition['Send %s a Message'] = '%s님에게 메세지를 보냅니다';
 $Definition['Send a Test Email'] = '테스트 이메일 전송';

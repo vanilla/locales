@@ -534,6 +534,7 @@ $Definition['PermissionRequired.Javascript'] = 'You need to enable javascript to
 $Definition['Picture'] = 'Dealbh';
 $Definition['Poll'] = 'Cunntas-bheachd';
 $Definition['poll'] = 'Cunntas-bheachd';
+$Definition['polls'] = 'Polls';
 $Definition['Popup'] = 'Priob-uinneag';
 $Definition['Post Comment'] = 'Sgrìobh beachd';
 $Definition['Posts.Plural: %s'] = 'Posts: %s';
@@ -684,6 +685,7 @@ $Definition['via %s'] = 'tro %s';
 $Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
 $Definition['View Badge'] = 'Seall an suaicheantas';
 $Definition['Visits'] = 'Tadhailean';
+$Definition['Vote (action)'] = 'Vote';
 
 $Definition['wall'] = 'balla';
 $Definition['Warnings'] = 'Rabhaidhean';

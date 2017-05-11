@@ -198,7 +198,6 @@ $Definition['Reveal Password'] = 'كشف كلمة المرور';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Save Colors'] = 'حفظ الألوان';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = 'ثواني';
 $Definition['Security'] = 'الأمان';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'أرسل رسالة تأكيد عند يسأل أحدهم سؤال أو يبدأ محادثة عبر البريد.';

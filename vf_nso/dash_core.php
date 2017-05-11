@@ -495,7 +495,6 @@ $Definition['Run structure & data scripts'] = 'Sepediša sengwalwa sa sebopego l
 
 $Definition['Save Captured Definitions'] = 'Boloka Ditlhaloso tše di Hweditšwego';
 $Definition['Save Colors'] = 'Boloka Mebala';
-$Definition['Search by user or role.'] = 'Tsoma badiriši ka maina goba ngwala leina la tema go bona badiriši bao ba nago le tema yeo.';
 $Definition['seconds'] = 'metsotswana';
 $Definition['Security'] = 'Bahlokomedi';
 $Definition['Select'] = 'Kgetha';

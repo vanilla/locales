@@ -881,6 +881,7 @@ $Definition['Poll'] = 'Pagbobotohan';
 $Definition['poll'] = 'Pagbobotohan';
 $Definition['Poll Options'] = 'Mga Opsyon ng Botohan';
 $Definition['Poll Question'] = 'Tanong sa Botohan';
+$Definition['polls'] = 'Polls';
 $Definition['Popular'] = 'Sikat';
 $Definition['Popular Discussions'] = 'Mga Sikat na Diskusyon';
 $Definition['Popular Groups'] = 'Mga Popular na Grupo';
@@ -1273,6 +1274,8 @@ $Definition['Visible'] = 'Nakikita';
 $Definition['Visits'] = 'Mga Pagbisita';
 $Definition['Visit Site'] = 'Bisitahin Ang Site';
 $Definition['Vote'] = '
+Bumoto';
+$Definition['Vote (action)'] = '
 Bumoto';
 $Definition['Vote Down'] = 'Tanggihan';
 $Definition['Votes'] = 'Boto';

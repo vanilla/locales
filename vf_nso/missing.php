@@ -2,6 +2,7 @@
 
 $Definition['Abilites'] = 'Abilities';
 
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
 
 $Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
@@ -42,6 +43,8 @@ $Definition['month.short.9'] = 'Sep';
 $Definition['month.short.10'] = 'Oct';
 $Definition['month.short.11'] = 'Nov';
 $Definition['month.short.12'] = 'Dec';
+
+$Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 
 $Definition['weekday.letter.1'] = 'M';
 $Definition['weekday.letter.2'] = 'T';

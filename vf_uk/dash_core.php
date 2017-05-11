@@ -285,7 +285,6 @@ $Definition['Route'] = 'Маршрут';
 $Definition['Routes'] = 'Маршрути';
 
 $Definition['Save Colors'] = 'Зберегти кольори';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = 'секунд';
 $Definition['Security'] = 'Безпека';
 $Definition['Send Again'] = 'Надіслати знову';

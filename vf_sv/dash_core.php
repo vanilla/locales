@@ -495,7 +495,6 @@ $Definition['Run structure & data scripts'] = 'Kör struktur- & datascripts';
 
 $Definition['Save Captured Definitions'] = 'Spara Fångade Definitioner';
 $Definition['Save Colors'] = 'Spara färger';
-$Definition['Search by user or role.'] = 'Sök efter användare via namn eller skriv in namnet på en roll för att se alla användare som har den rollen.';
 $Definition['seconds'] = 'sekunder';
 $Definition['Security'] = 'Säkerhet';
 $Definition['Select'] = 'Välj';

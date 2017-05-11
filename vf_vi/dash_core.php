@@ -494,7 +494,6 @@ $Definition['Run structure & data scripts'] = 'Chạy các mã cấu trúc & d�
 
 $Definition['Save Captured Definitions'] = 'Lưu lại định nghĩa';
 $Definition['Save Colors'] = 'Lưu Màu sắc';
-$Definition['Search by user or role.'] = 'Tìm kiếm người dùng theo tên, hoặc nhập tên của một vai trò để xem tất cả các người dùng co vai trò đó.';
 $Definition['seconds'] = 'giây';
 $Definition['Security'] = 'Bảo mật';
 $Definition['Select'] = 'Chọn';

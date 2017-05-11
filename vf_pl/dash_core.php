@@ -200,7 +200,6 @@ $Definition['Route'] = 'Trasa';
 $Definition['Routes'] = 'Trasy';
 
 $Definition['Save Colors'] = 'Zapisz kolory';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['seconds'] = 'sekundy';
 $Definition['Send %s a Message'] = 'Wyślij %s wiadomość';
 $Definition['Send a Test Email'] = 'Wyślij testową wiadomość e-mail';

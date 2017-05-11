@@ -184,6 +184,7 @@ $Definition['All discussions marked as viewed.'] = 'جميع المناقشات 
 $Definition['All Events'] = 'كل الأحداث';
 $Definition['All Members'] = 'جميع الأعضاء';
 $Definition['All members'] = 'كل الأعضاء';
+$Definition['All Notifications'] = 'كل الإشعارات';
 $Definition['Allow'] = 'السماح';
 $Definition['Allow other members to see your email?'] = 'السماح للأعضاء الآخرين برؤية البريد الالكتروني الخاص بك؟';
 $Definition['All Time Leaders'] = 'قيادات دائمة';
@@ -605,6 +606,7 @@ $Definition['Have a great day!'] = 'أتمنى لك يوماً عظيماً!';
 $Definition['he'] = 'هو';
 $Definition['Heading'] = 'عنوان';
 $Definition['Heading %s'] = 'عنوان %s';
+$Definition['HeadlineFormat.AcceptAnswer'] = 'قبل {ActivityUserID,You} إجابة {NotifyUserID,your}.';
 $Definition['HeadlineFormat.Answer'] = 'لقد أجاب {ActivityUserID,user} عن سؤالك: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} حصل على <a href="{Url,html}">{Data.Name,text}</a> كشارة.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} حظر {ActivityUserID,you}.';
@@ -717,6 +719,7 @@ $Definition['Leave blank unless connecting to an existing account.'] = 'اترك
 $Definition['Leave Comments'] = 'ترك تعاليق';
 $Definition['Leave Conversation'] = 'مغادرة المحادثة';
 $Definition['Leave Group'] = 'غادر المجموعة';
+$Definition['Leaving'] = 'مغادرة';
 $Definition['Length'] = 'الطول';
 $Definition['Level %s'] = 'مستوى %s';
 $Definition['Like'] = 'إعجاب';
@@ -806,6 +809,7 @@ $Definition['Most recent by %1$s'] = 'ٱخر مشاركة بواسطة %1$s';
 $Definition['Most Recent Comment'] = 'أحدث التعليقات';
 $Definition['Most recent discussion'] = 'المناقشات الأحدث';
 $Definition['Move'] = 'نقل';
+$Definition['Mute'] = 'كتم';
 $Definition['MyBadgesModuleTitle'] = 'شاراتي';
 $Definition['My Bookmarks'] = 'مواضيعي المفضلة';
 $Definition['My Discussions'] = 'مشاركاتي';
@@ -953,6 +957,8 @@ $Definition['Poll'] = 'إستطلاع';
 $Definition['poll'] = 'إستطلاع';
 $Definition['Poll Options'] = 'خيارات الاستطلاع';
 $Definition['Poll Question'] = 'سؤال الاستطلاع';
+$Definition['Polls'] = 'إستطلاعات';
+$Definition['polls'] = 'إستطلاعات';
 $Definition['Popular'] = 'شعبي';
 $Definition['Popular Discussions'] = 'مشاركات شعبية';
 $Definition['Popular Groups'] = 'مجموعات شهيرة';
@@ -1238,6 +1244,7 @@ $Definition['The connection data has not been verified.'] = 'لم يتم الت�
 $Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';
 $Definition['The conversation has been cleared.'] = 'تم مسح محادثة.';
 $Definition['The CSRF token is invalid.'] = 'رمز الـ CSRF غيرصالح.';
+$Definition['The email you entered is in use by another member.'] = 'عنوان البريد الإلكتروني الذي أدخلته مُستخدم من قبل عضو آخر. ';
 $Definition['The email you have entered is already related to an existing account.'] = 'يرتبط مسبقا البريد الإلكتروني الذي أدخلته بحساب موجود.';
 $Definition['The file failed to upload.'] = 'فشل تحميل الملف';
 $Definition['their'] = 'لهم';
@@ -1319,6 +1326,7 @@ $Definition['Unignore'] = 'إلغاء التجاهل';
 $Definition['UniqueID'] = 'معرفك الخاص';
 $Definition['Unknown'] = 'مجهول';
 $Definition['Unknown client: %s.'] = 'عميل مجهول: %s.';
+$Definition['Unmute'] = 'إلغاء الكتم';
 $Definition['Unordered list'] = 'قائمة لم يتم طلبها';
 $Definition['Unpin'] = 'إفتح';
 $Definition['Unread'] = 'غير مقروء';
@@ -1385,6 +1393,7 @@ $Definition['Visible'] = 'مرئي';
 $Definition['Visits'] = 'الزيارات';
 $Definition['Visit Site'] = 'زيارة الموقع';
 $Definition['Vote'] = 'تصويت';
+$Definition['Vote (action)'] = 'تصويت';
 $Definition['Vote Down'] = 'تصويت سلبي';
 $Definition['Votes'] = 'تصويتات';
 $Definition['Vote Up'] = 'تصويت ايجابي';
@@ -1469,6 +1478,7 @@ $Definition['You are limited to %s recipient.'] = 'تم حصرك في  %s مرس
 $Definition['You are limited to %s recipients.'] = 'تم حصرك في  %s مرسل إليهم.';
 $Definition['You aren\'t a %s of this group.'] = 'لست %s في هذه المجموعة.';
 $Definition['You aren\'t allowed to %s this group.'] = 'غير مسموح لك بـ  %s هذه المجموعة.';
+$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'تغادر الآن %1$s. انقر الرابط للانتقال إلى %2$s.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'مسموح لك فقط ب {maxImages,plural,%s صور,%s صور}. ';
 $Definition['You can\'t leave the group you started.'] = 'لا يمكنك ترك المجموعة التي بدأتها';
 $Definition['You can either ask a question or start a discussion.'] = 'يمكنك إما، طرح سؤال أو بدء مناقشة. حدد بأسفل ما الذي تريد أن تفعله.';

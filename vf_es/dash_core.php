@@ -497,7 +497,6 @@ $Definition['Run structure & data scripts'] = 'Ejecutar scripts de estructura y 
 
 $Definition['Save Captured Definitions'] = 'Definiciones capturadas guardadas ';
 $Definition['Save Colors'] = 'Guardar colores';
-$Definition['Search by user or role.'] = 'Busca usuarios por nombre o ingresa el nombre de un rol para ver todos los usuarios con ese rol.';
 $Definition['seconds'] = 'segundos';
 $Definition['Security'] = 'Seguridad';
 $Definition['Select'] = 'Seleccionar';

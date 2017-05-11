@@ -498,7 +498,6 @@ $Definition['Run structure & data scripts'] = '运行表结构代码和数据代
 
 $Definition['Save Captured Definitions'] = '保存已抓取的定义';
 $Definition['Save Colors'] = '保存颜色';
-$Definition['Search by user or role.'] = '按用户名搜索，或输入角色查看所有相应用户。';
 $Definition['seconds'] = '秒';
 $Definition['Security'] = '安全';
 $Definition['Select'] = '选择';

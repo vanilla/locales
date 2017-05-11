@@ -934,6 +934,7 @@ $Definition['Visible'] = 'Vidna';
 $Definition['Visits'] = 'Obiskov';
 $Definition['Visit Site'] = 'Obišči stran';
 $Definition['Vote'] = 'Glas';
+$Definition['Vote (action)'] = 'Glas';
 $Definition['Vote Down'] = 'Glasuj proti';
 $Definition['Votes'] = 'Glasovi';
 $Definition['Vote Up'] = 'Glasuj za';

@@ -493,7 +493,6 @@ $Definition['Run structure & data scripts'] = 'Rulați structura și scripturile
 
 $Definition['Save Captured Definitions'] = 'Salvaţi definiții captate';
 $Definition['Save Colors'] = 'Salvare culori';
-$Definition['Search by user or role.'] = 'Căutați utilizatori după nume sau introduceţi un rol pentru a vedea toţi utilizatorii cu acest rol';
 $Definition['seconds'] = 'secunde';
 $Definition['Security'] = 'Securitate';
 $Definition['Select'] = 'Selectaţi';

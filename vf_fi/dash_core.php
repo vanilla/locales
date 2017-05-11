@@ -470,7 +470,6 @@ $Definition['Routes'] = 'Reitit';
 
 $Definition['Save Captured Definitions'] = 'Tallenna ker&auml;tyt kielim&auml;&auml;ritelm&auml;t';
 $Definition['Save Colors'] = 'Tallenna värit';
-$Definition['Search by user or role.'] = 'Etsi k&auml;ytt&auml;ji&auml; nimell&auml; tai antamalla se rooli, josta haluat kaikki k&auml;ytt&auml;j&auml;t listattavan.';
 $Definition['seconds'] = 'sekuntia';
 $Definition['Security'] = 'Turvallisuus';
 $Definition['Select'] = 'Valitse';

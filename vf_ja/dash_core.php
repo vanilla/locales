@@ -226,7 +226,6 @@ $Definition['Route'] = 'ルート';
 $Definition['Routes'] = 'ルート';
 
 $Definition['Save Colors'] = '色を保存する';
-$Definition['Search by user or role.'] = 'ユーザー名またはロール (管理者:<input type="text" value="Administrator" size="13" onclick="this.select()" />, 申請者:<input type="text" value="Applicant" size="9" onclick="this.select()" />, 利用禁止:<input type="text" value="Banned" size="6" onclick="this.select()" />, ゲスト:<input type="text" value="Guest" size="5" onclick="this.select()" />, メンバー:<input type="text" value="Member" size="7" onclick="this.select()" />, モデレータ:<input type="text" value="Moderator" size="10" onclick="this.select()" />, メール確認待ち:<input type="text" value="Confirm Email" size="15" onclick="this.select()" />) で検索します。';
 $Definition['seconds'] = '秒間';
 $Definition['Security'] = 'セキュリティ';
 $Definition['Send %s a Message'] = '%s にメッセージを送信';

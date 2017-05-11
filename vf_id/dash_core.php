@@ -494,7 +494,6 @@ $Definition['Run structure & data scripts'] = 'Jalankan script struktur & data';
 
 $Definition['Save Captured Definitions'] = 'Simpan Definisi Tertangkap';
 $Definition['Save Colors'] = 'Simpan Warna';
-$Definition['Search by user or role.'] = 'Pencarian pengguna berdasarkan nama atau masukkan nama dari peran untuk melihat semua pengguna dengan peran tersebut.';
 $Definition['seconds'] = 'detik';
 $Definition['Security'] = 'Keamanan';
 $Definition['Select'] = 'Pilih';

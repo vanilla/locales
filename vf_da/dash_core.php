@@ -492,7 +492,6 @@ $Definition['Run structure & data scripts'] = 'Kør struktur og data scripts.';
 
 $Definition['Save Captured Definitions'] = 'Gem indfangede definitioner';
 $Definition['Save Colors'] = 'Gem farver';
-$Definition['Search by user or role.'] = 'Søg efter bruger ved navn eller indtast navnet på en rolle for at se alle brugere med den rolle.';
 $Definition['seconds'] = 'sekunder';
 $Definition['Security'] = 'Sikkerhed';
 $Definition['Select'] = 'Vælg';

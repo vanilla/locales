@@ -497,7 +497,6 @@ $Definition['Run structure & data scripts'] = 'Εκτελέστε δέσμες �
 
 $Definition['Save Captured Definitions'] = 'Αποθηκεύστε Καταγεγραμμένους Ορισμούς ';
 $Definition['Save Colors'] = 'Αποθήκευση Χρωμάτων';
-$Definition['Search by user or role.'] = 'Αναζητήστε για χρήστες με βάση το όνομα ή εισάγετε το όνομα ενός ρόλου για να δείτε όλους τους χρήστες με αυτόν το ρόλο.';
 $Definition['seconds'] = 'δευτερόλεπτα';
 $Definition['Security'] = 'Ασφάλεια';
 $Definition['Select'] = 'Επιλέξτε';

@@ -494,7 +494,6 @@ $Definition['Run structure & data scripts'] = '執行結構與資料程序';
 
 $Definition['Save Captured Definitions'] = '儲存已擷取之定義';
 $Definition['Save Colors'] = '儲存顏色';
-$Definition['Search by user or role.'] = '依名稱搜尋使用者，或輸入職務名稱以列出所有相關用戶名稱。';
 $Definition['seconds'] = '秒';
 $Definition['Security'] = '安全性';
 $Definition['Select'] = '選擇';

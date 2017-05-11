@@ -55,7 +55,6 @@ $Definition['Permission.Category'] = 'Roinn';
 $Definition['Record Content'] = 'Content';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['SignedOut'] = 'You are signed out.';
 
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
