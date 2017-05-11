@@ -4,8 +4,6 @@ $Definition['Access your community forum by clicking the "Visit Site" link.'] = 
 
 $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community. You should <a href="{/profile,url}">customize your profile now</a>.';
 
-$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
-
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
 
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
