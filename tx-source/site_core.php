@@ -553,6 +553,7 @@ $Definition['Following %d people'] = 'Following %d people';
 $Definition['Following %d person'] = 'Following %d person';
 $Definition['FollowOnly'] = 'Follow the link below to check it out:';
 $Definition['Follows'] = 'Follows';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.';
 $Definition['Forgot your password?'] = 'Forgot your password?';
 $Definition['Forgot?'] = 'Forgot?';
 $Definition['Format'] = 'Format';
@@ -1552,4 +1553,4 @@ $Definition['Your settings have been saved.'] = 'Your settings have been saved.'
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Your status for this event is now: <b>%s</b>';
 $Definition['Your warning was added.'] = 'Your warning was added.';
 
-// Last edited by beckyvb (10.0.10.1)2016-11-22 15:51:15
+// Last edited by Patrick Kelly 2017-05-15 17:31:15
