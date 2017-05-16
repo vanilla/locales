@@ -182,6 +182,7 @@ $Definition['All discussions marked as viewed.'] = 'تمام گفتگوها بع
 $Definition['All Events'] = 'تمام رويدادها';
 $Definition['All Members'] = 'تمام اعضاء';
 $Definition['All members'] = 'تمام اعضاء';
+$Definition['All Notifications'] = 'تمام اطلاع رساني ها';
 $Definition['Allow'] = 'اجازه دادن';
 $Definition['Allow other members to see your email?'] = 'اجازه دادن به ديگر اعضاء براي ديدن ايميل شما؟';
 $Definition['All Time Leaders'] = 'پيشتاز هميشگي';
@@ -609,6 +610,7 @@ $Definition['Have a great day!'] = 'روز خوبي داشته باشيد!';
 $Definition['he'] = 'او';
 $Definition['Heading'] = 'عنوان';
 $Definition['Heading %s'] = 'عنوان %s';
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} پاسخ را {NotifyUserID,your}  پذيرفت.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} به سوال شما پاسخ داد: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} مدال <a href="{Url,html}">{Data.Name,text}</a> را دريافت كرد.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} مسدود شد {ActivityUserID,you}.';
@@ -719,6 +721,7 @@ $Definition['Leave blank unless connecting to an existing account.'] = 'جهت �
 $Definition['Leave Comments'] = 'گذاشتن ديدگاه';
 $Definition['Leave Conversation'] = 'گذاشتن محاوره';
 $Definition['Leave Group'] = 'ترك گروه';
+$Definition['Leaving'] = 'ترك كردن';
 $Definition['Length'] = 'طول';
 $Definition['Level %s'] = 'سطح %s';
 $Definition['Like'] = 'خوشم اومد';
@@ -1308,6 +1311,7 @@ $Definition['Type the text:'] = 'تايپ كردن متن';
 $Definition['Type what you hear:'] = 'تايپ كردن چيزي كه ميشنويد :';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'عدم امكان ارسال پيام ، %s شما را مسدود كرده است.';
+$Definition['Unannounce'] = 'اعلام نشده';
 $Definition['Username'] = 'نام كاربري';
 
 $Definition['Vote (action)'] = 'Vote';

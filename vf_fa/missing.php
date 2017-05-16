@@ -1,7 +1,5 @@
 <?php
 
-$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
-
 $Definition['Unanswered Questions'] = 'Unanswered';
 $Definition['UrlCode'] = 'Url code';
 $Definition['UsernameError'] = 'Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.';
