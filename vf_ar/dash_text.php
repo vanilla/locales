@@ -24,6 +24,8 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 
+$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'التنوب رسائل البريد الإلكتروني الخاصة بك عن طريق إضافة شعار وتخصيص الألوان.';
+
 $Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
 
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.

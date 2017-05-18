@@ -212,8 +212,8 @@ $Definition['Description'] = 'توضيحات';
 $Definition['Did You Know?'] = 'آيا ميدانستيد ؟';
 $Definition['Disable'] = 'غيرفعال';
 $Definition['Disable Content Flagging'] = 'غيرفعال كردن نشانه گذاري محتوا';
-$Definition['Disabled'] = 'غيرفعال شد';
-$Definition['Disabled %1$s'] = 'غيرفعال شد %1$s';
+$Definition['Disabled'] = 'غيرفعال';
+$Definition['Disabled %1$s'] = 'غيرفعال %1$s';
 $Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'غيرفعال شد: بسته ديگر <b>نمايش</b> داده نخواهد شد.';
 $Definition['Disable Signatures'] = 'غيرفعال كردن امضاء';
 $Definition['Disable Tagging'] = 'غيرفعال كردن برچسب زدن';
@@ -254,7 +254,7 @@ $Definition['Embed your forum in your web site'] = 'درج انجمن در وب�
 $Definition['Enable'] = 'فعال';
 $Definition['Enable/Disable'] = 'فعال/ غيرفعال';
 $Definition['Enable admin checkboxes on discussions and comments.'] = 'فعالسازي جعبه تيك خور مدير در ديدگاه ها و گفتگو ها.';
-$Definition['Enabled %1$s'] = 'فعال شد %1$s';
+$Definition['Enabled %1$s'] = 'فعال %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = 'فعال شد: بسته نمايش داده خواهد شد.';
 $Definition['Enable embedding to use blog comments.'] = 'جهت اينكه اين جواب دهد، شما بايد درج كردن را فعال كنيد.';
 $Definition['Enable OpenID'] = 'فعالسازي OpenID';
@@ -288,7 +288,7 @@ $Definition['FileUpload is currently OFF'] = 'FileUpload درحال حاضر خ�
 $Definition['FileUpload is currently ON'] = 'FileUpload درحال حاضر روشن ميباشد';
 $Definition['Finished'] = 'تمام شد';
 $Definition['First Visit'] = 'اولين بازديد';
-$Definition['Flood Control'] = 'كنترل سيل';
+$Definition['Flood Control'] = 'كنترل سيل ارسال';
 $Definition['Force the forum to only be accessible through this url'] = 'انجمن را اجبار ميكند تا فقط از طريق اين آدرس وب قابل دسترس باشد';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'انجمن را اجبار ميكند تا فقط از طريق آدرس وب از راه دور قابل مشاهده باشد';
 $Definition['Forum Settings'] = 'تنظيمات انجمن';
@@ -298,9 +298,9 @@ $Definition['Garden'] = 'گاردن';
 $Definition['Gave badge to users.'] = 'دادني مدال به كاربران.';
 $Definition['Generate'] = 'توليد';
 $Definition['Generate Client ID and Secret'] = 'توليد شناسه كلاينت و امنيتي';
-$Definition['Get More Applications'] = 'گرفتن اپليكيشن بيشتر';
-$Definition['Get More Plugins'] = 'گرفتن پلاگين بيشتر';
-$Definition['Get More Themes'] = 'گرفتن قالب بيشتر';
+$Definition['Get More Applications'] = 'دريافت اپليكيشن بيشتر';
+$Definition['Get More Plugins'] = 'دريافت پلاگين بيشتر';
+$Definition['Get More Themes'] = 'دريافت قالب بيشتر';
 $Definition['Getting Started'] = 'آغاز بكار';
 $Definition['Getting Started with Vanilla'] = 'آغاز بكار با وانيلا';
 $Definition['give'] = 'دادن مدال';
