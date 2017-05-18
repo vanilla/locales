@@ -584,6 +584,7 @@ $Definition['Following %d people'] = 'Следит за %d людми';
 $Definition['Following %d person'] = 'Наблюдается %d пользователями';
 $Definition['FollowOnly'] = 'Проследуйте по ссылке ниже, чтобы проверить:';
 $Definition['Follows'] = 'Следят';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Чтобы сделать пароль более надежным, увеличьте его длину или комбинируйте буквы верхнего и нижнего регистра, цифры и символы.';
 $Definition['Forgot?'] = 'Забыли?';
 $Definition['Forgot your password?'] = 'Забыли ваш пароль?';
 $Definition['Format'] = 'Формат';

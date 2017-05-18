@@ -558,6 +558,7 @@ $Definition['Following %d people'] = '%d kişiyi yakip ediyor';
 $Definition['Following %d person'] = '%d kişiyi yakip ediyor';
 $Definition['FollowOnly'] = 'Buna bakmak için aşağıdaki bağlantıyı takip et:';
 $Definition['Follows'] = 'Takipler';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Daha güçlü bir şifre için şifrenin uzunluğunu arttırın veya küçük ve büyük harfleri, rakamları ve sembolleri bir arada kullanın.';
 $Definition['Forgot?'] = 'Unuttunuz mu?';
 $Definition['Forgot your password?'] = 'Parolanızı mı unuttunuz?';
 $Definition['Format his'] = 'onun';

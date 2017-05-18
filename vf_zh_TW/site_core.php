@@ -563,6 +563,7 @@ $Definition['Following %d people'] = '訂閱 %s 人';
 $Definition['Following %d person'] = '訂閱 %s 人';
 $Definition['FollowOnly'] = '點選下列連結以查看內容：';
 $Definition['Follows'] = '訂閱';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = '加強密碼強度，請增加其長度或結合大小寫字母、數字或符號。';
 $Definition['Forgot?'] = '忘記了?';
 $Definition['Forgot your password?'] = '忘記密碼？';
 $Definition['Format'] = '格式';

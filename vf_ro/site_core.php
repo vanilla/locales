@@ -550,6 +550,7 @@ $Definition['Following %d people'] = 'Urmăriți %d persoane';
 $Definition['Following %d person'] = 'Urmăriți %d';
 $Definition['FollowOnly'] = 'Urmaţi link-ul de mai jos:';
 $Definition['Follows'] = 'Urmărește';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Pentru o parolă mai puternică, măriți lungimea acesteia sau combinați litere mici, litere mari, cifre și simboluri.';
 $Definition['Forgot?'] = 'Resetare?';
 $Definition['Forgot your password?'] = 'Ați uitat parola?';
 $Definition['Format his'] = 'al lui';

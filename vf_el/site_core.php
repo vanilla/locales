@@ -562,6 +562,7 @@ $Definition['Following %d people'] = 'Ακολουθεί %d ανθρώπους';
 $Definition['Following %d person'] = 'Ακολουθεί %d άτομο';
 $Definition['FollowOnly'] = 'Ακολουθήστε τον παρακάτω σύνδεσμο για να το δείτε:';
 $Definition['Follows'] = 'Ακολουθεί';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Για ένα πιο ισχυρό κωδικό πρόσβασης, αυξήστε το μήκος του ή συνδυάστε κεφαλαία  και μικρά γράμματα, αριθμούς και σύμβολα.';
 $Definition['Forgot?'] = 'Τον ξεχάσατε;';
 $Definition['Forgot your password?'] = 'Ξεχάσατε τον κωδικό σας;';
 $Definition['Format'] = 'Μορφοποίηση';

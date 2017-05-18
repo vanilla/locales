@@ -536,6 +536,7 @@ $Definition['Following %d people'] = 'Слѣдитъ за %d людми';
 $Definition['Following %d person'] = 'Слѣдитъ за %d человѣкомъ';
 $Definition['FollowOnly'] = 'Follow the link below to check it out:';
 $Definition['Follows'] = 'Слѣдятъ';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Чтобы сделать пароль более надежным, увеличьте его длину или комбинируйте буквы верхнего и нижнего регистра, цифры и символы.';
 $Definition['Forgot?'] = 'Забыли?';
 $Definition['Forgot your password?'] = 'Забыли вашъ пароль?';
 $Definition['Format his'] = 'его';

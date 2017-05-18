@@ -557,6 +557,7 @@ $Definition['Following %d people'] = '%d embert követ';
 $Definition['Following %d person'] = '%d személyt követ';
 $Definition['FollowOnly'] = 'Kattints ide, hogy megtekintsd:';
 $Definition['Follows'] = 'Követés';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Hogy jelszavad erősebb legyen, növeld meg hosszúságát, használj kis és nagybetűket, számokat és szimbólumokat.';
 $Definition['Forgot?'] = 'Elfelejtetted?';
 $Definition['Forgot your password?'] = 'Elfelejtetted a jelszavad?';
 $Definition['Format'] = 'Formátum';

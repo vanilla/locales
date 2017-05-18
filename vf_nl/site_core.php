@@ -564,6 +564,7 @@ $Definition['Following %d people'] = 'Volgt %d mensen';
 $Definition['Following %d person'] = 'Volgt %d persoon';
 $Definition['FollowOnly'] = 'Volg de link hieronder om het te bekijken:';
 $Definition['Follows'] = 'Volgt';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Verhoog de lengte of combineer hoofdletters, kleine letters, cijfers en symbolen voor een sterker wachtwoord. ';
 $Definition['Forgot?'] = 'Vergeten?';
 $Definition['Forgot your password?'] = 'Wachtwoord vergeten?';
 $Definition['Format'] = 'Opmaak';

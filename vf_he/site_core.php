@@ -564,6 +564,7 @@ $Definition['Following %d people'] = 'עוקב אחרי %d אנשים';
 $Definition['Following %d person'] = 'עוקב אחרי %d איש';
 $Definition['FollowOnly'] = 'לחצ\\י על הקישור הנ"ל למעבר:';
 $Definition['Follows'] = 'עוקב';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'כדי לחזק את הסיסמה יש להאריך אותה או לשלב אותיות גדולות וקטנות, ספרות וסמלים.';
 $Definition['Forgot?'] = 'שכחת?';
 $Definition['Forgot your password?'] = 'שכחת את הסיסמה שלך?';
 $Definition['Format'] = 'פורמט';

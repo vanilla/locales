@@ -544,6 +544,7 @@ $Definition['Following %d people'] = '%d 명 팔로우 중';
 $Definition['Following %d person'] = '%d 명 팔로우 중';
 $Definition['FollowOnly'] = '링크를 클릭하여 확인하세요:';
 $Definition['Follows'] = '팔로우';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = '더욱 안전한 패스워드를 만드실 수 있도록 길이를 늘리시거나 또는 대문자, 소문자, 숫자, 기호를 조합해 주시기 바랍니다.';
 $Definition['Forgot?'] = '잊어버리셨습니까?';
 $Definition['Forgot your password?'] = '비밀번호 찾기';
 $Definition['Format'] = '형식';

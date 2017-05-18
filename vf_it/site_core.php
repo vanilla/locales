@@ -556,6 +556,7 @@ $Definition['Following %d people'] = 'Seguendo %d persone';
 $Definition['Following %d person'] = 'Seguendo %d persona';
 $Definition['FollowOnly'] = 'Segui il link qui sotto per dare un\'occhiata:';
 $Definition['Follows'] = 'Segue';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Per una password più complessa, aumenta la sua lunghezza o combina lettere maiuscole e minuscole, numeri e simboli.';
 $Definition['Forgot?'] = 'Dimenticato?';
 $Definition['Forgot your password?'] = 'Dimenticato la tua password?';
 $Definition['Format'] = 'Formato';

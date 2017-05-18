@@ -562,6 +562,7 @@ $Definition['Following %d people'] = '%d人の人をフォローしています'
 $Definition['Following %d person'] = '%d人フォローしています';
 $Definition['FollowOnly'] = '以下のリンクから確認して下さい:';
 $Definition['Follows'] = 'フォロー';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = '強力なパスワードにするには、文字数を増やしたり、大文字と小文字、数字や記号を組み合わせてください。';
 $Definition['Forgot?'] = '<br />パスワードを忘れた';
 $Definition['Forgot your password?'] = 'パスワードを忘れましたか？';
 $Definition['Format'] = 'フォーマット';

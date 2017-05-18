@@ -547,6 +547,7 @@ $Definition['followed categories'] = 'sledované kategórie';
 $Definition['Following %d people'] = 'Sleduje  %d ľudí';
 $Definition['Following %d person'] = 'Sleduje  %d ľudí';
 $Definition['FollowOnly'] = 'Klikni na odkaz nižšie pre otvorenie:';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Na vytvorenie silnejšieho hesla zväčšite jeho dĺžku alebo skombinujte veľké a malé písmená, číslice a symboly.';
 $Definition['Forgot?'] = 'Zabudli ste?';
 $Definition['Forgot your password?'] = 'Zabudli ste heslo?';
 $Definition['Format'] = 'Formát';

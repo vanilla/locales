@@ -528,6 +528,7 @@ $Definition['Following %d people'] = 'Følger %d personer';
 $Definition['Following %d person'] = 'Følger %d person';
 $Definition['FollowOnly'] = 'Følg lenkene under for å sjekke det ut:';
 $Definition['Follows'] = 'Følgere';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'For et sterkere passord, bør du forlenge det eller kombinere store og små bokstaver, tall og symboler.';
 $Definition['Forgot?'] = 'Glemt?';
 $Definition['Forgot your password?'] = 'Glemt passord?';
 $Definition['Format his'] = 'hans';

@@ -557,6 +557,7 @@ $Definition['Following %d people'] = 'Följer %d personer';
 $Definition['Following %d person'] = 'Följer %d person';
 $Definition['FollowOnly'] = 'Följ länken nedan för att kolla in det:';
 $Definition['Follows'] = 'Följare';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'För ett starkare lösenord, öka längden på det eller kombinera versaler och gemener, siffror och symboler.';
 $Definition['Forgot?'] = '<br/>Glömt lösenordet?';
 $Definition['Forgot your password?'] = 'Glömt ditt lösenord?';
 $Definition['Format his'] = 'hans';

@@ -560,6 +560,7 @@ $Definition['Following %d people'] = 'Theo đuôi %d người';
 $Definition['Following %d person'] = 'Theo đuôi %d người';
 $Definition['FollowOnly'] = 'Hãy theo đường dẫn dưới đây để kiểm tra:';
 $Definition['Follows'] = 'Theo đuôi';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Để tạo mật khẩu mạnh hơn, hãy tăng độ dài của nó, hoặc kết hợp giữa các chữ cái hoa và thường, các chữ số, và các ký hiệu.';
 $Definition['Forgot?'] = 'Quên?';
 $Definition['Forgot your password?'] = 'Quên mật khẩu?';
 $Definition['Format'] = 'Định dạng';

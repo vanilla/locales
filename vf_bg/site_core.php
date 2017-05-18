@@ -567,6 +567,7 @@ $Definition['Following %d people'] = 'Следване на %d човека';
 $Definition['Following %d person'] = 'Следване на %d лице';
 $Definition['FollowOnly'] = 'Последвайте връзката по-долу, за да я проверите:';
 $Definition['Follows'] = 'Следва';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'За по-сигурна парола увеличете дължината ѝ или комбинирайте главни и малки букви, цифри и символи. ';
 $Definition['Forgot?'] = 'Забравихте ли нещо?';
 $Definition['Forgot your password?'] = 'Забравили сте паролата си?';
 $Definition['Format'] = 'Формат';

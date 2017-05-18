@@ -548,6 +548,7 @@ $Definition['Following %d people'] = 'Obserwujesz %d osób';
 $Definition['Following %d person'] = 'Obserwuje %d';
 $Definition['FollowOnly'] = 'Skorzystaj z łącza poniżej, aby sprawdzić:';
 $Definition['Follows'] = 'Obserwuje';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Aby otrzymać silniejsze hasło, zwiększ jego długość lub połącz duże i małe litery, cyfry oraz symbole.';
 $Definition['Forgot?'] = 'Zapomniałeś?';
 $Definition['Forgot your password?'] = 'Zapomniałeś hasło?';
 $Definition['Format his'] = 'jego';

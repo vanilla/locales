@@ -556,6 +556,7 @@ $Definition['Following %d people'] = 'Mengikuti %d orang';
 $Definition['Following %d person'] = 'Mengikuti %d orang';
 $Definition['FollowOnly'] = 'Klik tautan di bawah untuk melihatnya:';
 $Definition['Follows'] = 'Ikuti';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Untuk kata kunci yang kuat, perbanyak jumlah huruf atau kombinasikan huruf kapital dan huruf kecil dengan angka dan simbol.';
 $Definition['Forgot?'] = 'Lupa?';
 $Definition['Forgot your password?'] = 'Lupa password anda?';
 $Definition['Format his'] = 'ia';

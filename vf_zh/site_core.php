@@ -569,6 +569,7 @@ $Definition['Following %d people'] = '关注 %s 人';
 $Definition['Following %d person'] = '关注 %s 人';
 $Definition['FollowOnly'] = '请通过下面的链接来查看：';
 $Definition['Follows'] = '关注';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = '增强密码强度，可以增加密码长度或者使用大小写字母、数字和符号组合。';
 $Definition['Forgot?'] = '忘记密码？';
 $Definition['Forgot your password?'] = '忘记密码？';
 $Definition['Format'] = '格式';

@@ -514,6 +514,7 @@ $Definition['Following %d people'] = 'Sinusindan ang %d katao';
 $Definition['Following %d person'] = 'Sinusundan ang %d na tao';
 $Definition['FollowOnly'] = 'Sundan ang link sa ibaba upang makita ito:';
 $Definition['Follows'] = 'Sinusundan';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Para sa mas matibay na password, habaan ito o pagsama-samahin ang malalaki at maliliit na letra, mga numero, at mga simbolo.';
 $Definition['Forgot?'] = 'Nalimutan?';
 $Definition['Forgot your password?'] = 'Nalimutan ang iyong password?';
 $Definition['Format his'] = 'kanya';

@@ -573,6 +573,7 @@ $Definition['Following %d people'] = 'Seurannassa %d k&auml;ytt&auml;j&auml;&aum
 $Definition['Following %d person'] = 'Seurannassa %d k&auml;ytt&auml;j&auml;&auml;';
 $Definition['FollowOnly'] = 'Seuraa alla olevaa linkkiä nähdäksesi lisää:';
 $Definition['Follows'] = 'Seurannat';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Jotta vahvemman salasanan, tee siitä pidempi tai yhdistele pieniä ja isoja kirjaimia, numeroita ja merkkejä.';
 $Definition['Forgot?'] = '<br /><small>Salasana unohtunut?</small>';
 $Definition['Forgot your password?'] = 'Salasana unohtunut?';
 $Definition['Format'] = 'Alusta';

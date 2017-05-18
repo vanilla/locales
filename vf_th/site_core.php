@@ -554,6 +554,7 @@ $Definition['Following %d people'] = 'ติดตาม %d คน';
 $Definition['Following %d person'] = 'ติดตาม %d คน';
 $Definition['FollowOnly'] = 'ตามลิงค์ด้านล่างเพื่อดู:';
 $Definition['Follows'] = 'ติดตาม';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'เพิ่มความยาวของรหัสผ่าน หรือใช้ตัวอักษรทั้งพิมพ์ใหญ่และพิมพ์เล็ก ตัวเลข และสัญลักษณ์เพื่อให้รหัสผ่านปลอดภัยยิ่งขึ้น';
 $Definition['Forgot?'] = 'ลืม?';
 $Definition['Forgot your password?'] = 'ลืมรหัสผ่าน ?';
 $Definition['Format'] = 'รูปแบบ';

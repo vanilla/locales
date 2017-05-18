@@ -553,6 +553,7 @@ $Definition['Following %d people'] = 'يتتبع %d شخص';
 $Definition['Following %d person'] = 'يتتبع %d شخص';
 $Definition['FollowOnly'] = 'اتبع الرابط في الأسفل لتراها:';
 $Definition['Follows'] = 'يتبع';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'لتكوين كلمة مرور أكثر قوة، قُم بزيادة طولها أو قم بمزج أحرف كبيرة و أحرف صغيرة مع أرقام ورموز.';
 $Definition['Forgot?'] = 'نسيتها ؟';
 $Definition['Forgot your password?'] = 'نسيت كلمة المرور؟';
 $Definition['Format'] = 'تنسيق';

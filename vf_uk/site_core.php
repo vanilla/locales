@@ -554,6 +554,7 @@ $Definition['Following %d people'] = 'Слідкування за %d';
 $Definition['Following %d person'] = 'Слідкування %d';
 $Definition['FollowOnly'] = 'Перейдіть за посиланням нижче, щоб оцінити:';
 $Definition['Follows'] = 'Слідкування';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Щоб пароль був надійнішим, зробіть його довшим або використайте одночасно великі та малі літери, цифри і символи. ';
 $Definition['Forgot?'] = 'Забули?';
 $Definition['Forgot your password?'] = 'Забули пароль?';
 $Definition['Format'] = 'Формат';

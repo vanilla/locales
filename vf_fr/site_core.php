@@ -537,6 +537,7 @@ $Definition['Following %d people'] = '%d personnes suivies';
 $Definition['Following %d person'] = '%d personne suivie';
 $Definition['FollowOnly'] = 'Suivez le lien ci-dessous pour y accéder :';
 $Definition['Follows'] = 'Suivis';
+$Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Pour un mot de passe plus sécurisé, augmentez sa longueur ou mélangez des lettres majuscules et minuscules ainsi que des numéros et des symboles.';
 $Definition['Forgot?'] = '<br /><div style="padding: 6px; margin-bottom: 10px;">Mot de passe oublié ?</div>';
 $Definition['Forgot your password?'] = 'Mot de passe oublié?';
 $Definition['Format his'] = 'son';
@@ -1467,7 +1468,7 @@ $Definition['You must agree to the terms of service.'] = 'Vous devez accepter le
 $Definition['You must be at least %d years old to register.'] = 'Vous devez avoir au moins %d ans pour vous enregistrer.';
 $Definition['You must be signed in.'] = 'Vous devez être enregistré.';
 $Definition['You must confirm you have received consent to register.'] = 'Vous devez confirmer avoir reçu la permission de vous inscrire.';
-$Definition['You need to confirm your email address.'] = 'Vous devez confirmer votre adresse email. <a href="{/entry/emailconfirmrequest,url}">Cliquez ici</a> pour renvoyer l\'email de confirmation.';
+$Definition['You need to confirm your email address.'] = 'Vous devez confirmer votre adresse email. <a href="{/entry/emailconfirmrequest,url}">Cliquez ici</a> pour renvoyer l\'email de confirmation. Vérifiez vos spams si vous ne le trouvez pas.';
 $Definition['You need to confirm your email address before you can continue.'] = 'Vous devez confirmer votre adresse email avant de pouvoir continuer.';
 $Definition['You need to sign in before you can do this.'] = 'Vous devez vous connecter avant de faire ceci.';
 $Definition['your'] = 'votre';
