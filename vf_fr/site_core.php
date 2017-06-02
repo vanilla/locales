@@ -1200,6 +1200,7 @@ $Definition['The email you have entered is already related to an existing accoun
 $Definition['The file failed to upload.'] = 'Le fichier n\'a pu être envoyé.';
 $Definition['their'] = 'leur';
 $Definition['The name you entered is already in use by another member.'] = 'Le nom que vous avez entré est déjà utilisé par un autre membre.';
+$Definition['The email you entered is in use by another member.'] = 'L\'adresse e-mail saisie est déjà utilisée par un autre membre.';
 $Definition['The page you were looking for could not be found.'] = 'La page que vous recherchez n\'a pu être trouvée.';
 $Definition['The quote had to be converted from %s to %s.'] = 'La citation a dû être convertie de %s à %s. Des éléments de formatage ont peut-être été perdus.';
 $Definition['There\'s already a %s with the name %s.'] = 'Il y a déjà un %1$s avec comme nom %2$s.';

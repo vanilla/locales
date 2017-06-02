@@ -1256,6 +1256,7 @@ $Definition['The email you have entered is already related to an existing accoun
 $Definition['The file failed to upload.'] = 'El archivo falló al subirlo.';
 $Definition['their'] = 'su';
 $Definition['The name you entered is already in use by another member.'] = 'El nombre que escribiste está siendo usado por otro usuario.';
+$Definition['The email you entered is in use by another member.'] = 'El correo electrónico que has introducido está en uso por otro miembro.';
 $Definition['The page you were looking for could not be found.'] = 'La página que estabas buscando no se ha encontrado';
 $Definition['The quote had to be converted from %s to %s.'] = 'La cita se tubo que convertir de %s a %s. Algunos formatos se pueden haber perdido.';
 $Definition['There\'s already a %s with the name %s.'] = 'Ya hay un %1$s con el nombre %2$s.';
