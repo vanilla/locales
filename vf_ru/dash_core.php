@@ -667,3 +667,11 @@ $Definition['Your configuration file does not have the correct permissions. PHP 
 $Definition['Your default locale won\'t display properly'] = 'Ваше местоположение по умолчанию не отображается правильно. Пожалуйста, выберите его: %s.';
 $Definition['Your inbox is empty.'] = 'Ваш список сообщений пуст.';
 $Definition['Your invitations were sent successfully.'] = 'Ваш инвайт был успешно отослан';
+
+$Definition['Send PM'] = 'ЛС';
+$Definition['Reply'] = 'Ответить';
+
+
+$Definition['notifications'] = 'оповещений';
+
+$Definition['Avatars'] = 'Аватары';
