@@ -1,6 +1,6 @@
 <?php
-$Definition['&laquo; hide previous quotes'] = 'Hide Previous Quotes';
-$Definition['&raquo; show previous quotes'] = 'Show Previous Quotes';
+$Definition['&laquo; hide previous quotes'] = '&laquo; hide previous quotes';
+$Definition['&raquo; show previous quotes'] = '&raquo; show previous quotes';
 $Definition[' - Page %s'] = ' - Page %s';
 $Definition[' now.'] = ' now.';
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s accepted %4$s invitation for membership.';
