@@ -1027,7 +1027,7 @@ $Definition['Question Title'] = 'Título de la pregunta';
 $Definition['Quote'] = 'Citar';
 $Definition['Quote Folding'] = 'Expansión de la cita';
 $Definition['Quote on'] = 'en';
-$Definition['Quote Settings'] = 'Opciones de citado';
+$Definition['Quote Settings'] = 'Opciones de citar';
 $Definition['Quote wrote'] = 'escribió ';
 
 $Definition['Rank'] = 'Clasificación';

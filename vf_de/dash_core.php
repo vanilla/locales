@@ -314,7 +314,7 @@ $Definition['Guest roles'] = 'Markiere alle Rollen, die auf Gäste zutreffen.';
 
 $Definition['Hash Algorithm'] = 'Hash-Algorithmus';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} hat ein Konto für {RegardingUserID,user} angelegt.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} hast {ActivityUserID,your} Profilbild geändert.';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} hat das Profilbild geändert.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} hat der Bewerbung von {RegardingUserID,user} zugestimmt.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user} ';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you} ';
@@ -501,6 +501,7 @@ $Definition['Run structure & data scripts'] = 'Struktur und Daten Upgrade ausfü
 
 $Definition['Save Captured Definitions'] = 'Erhaltene Definitionen speichern';
 $Definition['Save Colors'] = 'Farben speichern';
+$Definition['Search by user or role.'] = 'Suche nach Benutzern mit Hilfe des Namens oder der Email Adresse, dabei kannst du % als Platzhalter verwenden. Außerdem kannst du nach User ID, Rollenbezeichnung oder auch dem &ldquo;banned&rdquo; Status filtern.';
 $Definition['seconds'] = 'Sekunden';
 $Definition['Security'] = 'Sicherheit';
 $Definition['Select'] = 'Wähle';

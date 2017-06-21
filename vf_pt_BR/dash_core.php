@@ -494,6 +494,7 @@ $Definition['Run structure & data scripts'] = 'Execute os scripts de estrutura e
 
 $Definition['Save Captured Definitions'] = 'Salvar definições capturadas';
 $Definition['Save Colors'] = 'Salvar cores';
+$Definition['Search by user or role.'] = 'Procure usuários por nome ou email, opcionalmente usando % como wildcard. Você pode procurar por ID de usuário, nome da classe, ou &ldquo;banido&rdquo;.';
 $Definition['seconds'] = 'segundos';
 $Definition['Security'] = 'Segurança';
 $Definition['Select'] = 'Selecionar';

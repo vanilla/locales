@@ -5,7 +5,7 @@
   'Name' => 'Español / Spanish',
   'EnName' => 'Spanish',
   'Description' => 'Official Spanish language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/es/">here</a>.',
-  'Version' => '2017.05.17p1501',
+  'Version' => '2017.06.12p1301',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/es/',
   'License' => 'CC BY-SA 4.0',
