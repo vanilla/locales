@@ -494,7 +494,6 @@ $Definition['Run structure & data scripts'] = 'Rhedeg sgriptiau strwythur & data
 
 $Definition['Save Captured Definitions'] = 'Arbed diffiniadau a gasglwyd';
 $Definition['Save Colors'] = 'Cadw lliwiau';
-$Definition['Search by user or role.'] = 'Chwilio am ddefnyddwyr wrth eu henw, neu rhowch enw rôl i weld holl ddefnyddwyr y rôl honno.';
 $Definition['seconds'] = 'eiliadau';
 $Definition['Security'] = 'Diogelwch';
 $Definition['Select'] = 'Dewiswch';

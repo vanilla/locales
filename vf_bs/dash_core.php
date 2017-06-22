@@ -34,7 +34,6 @@ $Definition['Permission.Category'] = 'Kategorija';
 
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
 $Definition['Send %s a Message'] = 'Pošalji %s  Poruku';
 $Definition['Sent To'] = 'Pošalji';
 

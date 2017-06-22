@@ -89,6 +89,7 @@ $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {Ac
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
+$Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
@@ -142,6 +143,7 @@ $Definition['RSVP'] = 'Respond';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
+$Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['SignedOut'] = 'You are signed out.';
 $Definition['Source Code'] = 'Code';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
@@ -203,6 +205,9 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 
 $Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
+$Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
+$Definition['ValidateMinLengthPlural'] = '%1$s is %2$s characters too short.';
+$Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
 $Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateUrl'] = 'The %s field is not a valid url.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';

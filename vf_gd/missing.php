@@ -20,6 +20,7 @@ $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs 
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent you a <a href="{Url,html}">message</a>';
+$Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
@@ -41,6 +42,7 @@ $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect
 $Definition['RSVP'] = 'Respond';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
+$Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
 
 $Definition['Test Email Message'] = '<p>This is a test email message.</p>
@@ -53,6 +55,9 @@ $Definition['This is the administrative dashboard for your new community.'] = 'T
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
 
 $Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
+$Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
+$Definition['ValidateMinLengthPlural'] = '%1$s is %2$s characters too short.';
+$Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
 $Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateUrl'] = 'The %s field is not a valid url.';
 
