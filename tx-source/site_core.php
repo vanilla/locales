@@ -1421,6 +1421,7 @@ $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numb
 $Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
 $Definition['ValidateMatch'] = 'The %s fields do not match.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
+$Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
 $Definition['ValidateMinLengthPlural'] = '%1$s is %2$s characters too short.';
 $Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least one %s.';
