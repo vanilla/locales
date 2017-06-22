@@ -191,6 +191,7 @@ $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 $Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
@@ -207,6 +208,7 @@ $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
+$Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
@@ -306,6 +308,7 @@ $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">grou
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['poll'] = 'Poll';
+$Definition['polls'] = 'Polls';
 $Definition['Posts.Plural: %s'] = 'Posts: %s';
 $Definition['Posts.Singular: %s'] = 'Posts: %s';
 $Definition['PreferenceBadgeEmail'] = 'Notify me when I earn a badge.';
@@ -343,6 +346,7 @@ $Definition['Search by user or role.'] = 'Search for users by name or email, opt
 $Definition['Search for a tag.'] = 'Search for all or part of a tag.';
 $Definition['sep and'] = 'and';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
+$Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['SignedOut'] = 'You are signed out.';
 $Definition['SignIn'] = 'Sign In';
 $Definition['SigningOut'] = 'Hang on a sec while we sign you out.';
@@ -428,6 +432,9 @@ $Definition['ValidateIntegerArray'] = '%s must be a comma-delimited list of numb
 $Definition['ValidateLength'] = '%1$s is %2$s characters too long.';
 $Definition['ValidateMatch'] = 'The %s fields do not match.';
 $Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
+$Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
+$Definition['ValidateMinLengthPlural'] = '%1$s is %2$s characters too short.';
+$Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least one %s.';
 $Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
 $Definition['ValidateRequired'] = '%s is required.';
@@ -443,6 +450,7 @@ $Definition['ValidateVersion'] = 'The %s field is not a valid version number. Se
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 $Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
+$Definition['Vote (action)'] = 'Vote';
 
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
