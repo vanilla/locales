@@ -265,6 +265,7 @@ $Definition['by %s'] = 'par %s';
 $Definition['by Date'] = 'par date';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'En téléchargeant un fichier, vous certifiez que vous avez le droit de distribuer cette image et qu\'elle ne viole pas les conditions d\'utilisation.';
 
+$Definition['Can\'t post discussions.'] = 'Ne peut pas ouvrir de discussions.';
 $Definition['Cancel'] = 'Annuler';
 $Definition['Casual'] = 'Occasionnel';
 $Definition['Categories'] = 'Catégories';
@@ -511,6 +512,7 @@ $Definition['everyone'] = 'tous';
 $Definition['Everything'] = 'Toute catégorie';
 $Definition['Expired'] = 'Expiré';
 $Definition['Expires'] = 'Expire le';
+$Definition['expires %s'] = 'expire %s';
 
 $Definition['Failed to delete group.'] = 'Échec lors de la suppression du groupe.';
 $Definition['Failed to find discussion for commenting.'] = 'Discussion égarée';
