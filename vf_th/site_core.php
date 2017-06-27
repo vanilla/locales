@@ -49,6 +49,7 @@ $Definition['%s has reset your password at %s.'] = '%s ได้รีเซ็�
 $Definition['%s hour'] = '%s ชั่วโมง';
 $Definition['%s hours'] = '%s ชั่วโมง';
 $Definition['%s Insightfuls'] = '%s ลึกซึ้ง';
+$Definition['%s is jailed.'] = '%s ถูกจำคุก';
 $Definition['%s level deep'] = 'ลึก %s ระดับ';
 $Definition['%s levels deep'] = 'ลึก %s ระดับ';
 $Definition['%s Likes'] = '%s ถูกใจ';

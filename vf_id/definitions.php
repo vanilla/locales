@@ -5,7 +5,7 @@
   'Name' => 'Indonesia / Indonesian',
   'EnName' => 'Indonesian',
   'Description' => 'Official Indonesian language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/id/">here</a>.',
-  'Version' => '2017.06.22p1435',
+  'Version' => '2017.06.27p1110',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/id/',
   'License' => 'CC BY-SA 4.0',

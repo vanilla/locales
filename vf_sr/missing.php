@@ -1,39 +1,22 @@
 <?php
 
-$Definition['%s view html'] = '%s view';
-$Definition['%s views html'] = '%s views';
-
 $Definition['Abilites'] = 'Abilities';
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
-$Definition['AboutToDelete'] = 'You are about to delete %s.';
-$Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
-$Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s commented on your %8$s.';
-$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Applied On'] = 'Date';
-$Definition['Approve Applicant'] = 'Approve';
-$Definition['AttemptingSignOut'] = 'You are attempting to sign out. Are you sure you want to %s?';
 
-$Definition['Back to Discussions'] = 'Back to Competitions';
 $Definition['Badge Name'] = 'Name';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
-$Definition['Ban.Action'] = 'Ban';
 $Definition['Ban Item'] = 'Item';
-$Definition['BanReason.1'] = 'Banned by a community manager.';
-$Definition['BanReason.4'] = 'Temporarily banned by a community manager.';
-$Definition['BanReason.8'] = 'Banned by warnings.';
 $Definition['Ban Type'] = 'Type';
 
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
-$Definition['CategoriesShowFollowed'] = 'Only show followed categories';
-$Definition['CategoriesViewingFollowed'] = 'You are currently only viewing categories that you follow.';
-$Definition['CategoryID'] = 'Category';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
@@ -45,45 +28,17 @@ $Definition['Condition Expression'] = 'Value';
 $Definition['Condition Field'] = 'Field';
 $Definition['Condition Type'] = 'Type';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
-$Definition['ConnectChooseName'] = 'Choose a name to identify yourself on the site.';
-$Definition['ConnectCreateAccount'] = 'Add Info &amp; Create Account';
-$Definition['ConnectExistingPassword'] = 'Enter your existing account password.';
-$Definition['ConnectRegisteredName'] = 'Your registered username: <strong>%s</strong>';
 $Definition['CreateFile'] = 'Create';
 
-$Definition['Date.DefaultDayFormat'] = '%B %e';
-$Definition['Date.DefaultYearFormat'] = '%B %Y';
-$Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
 $Definition['default type'] = 'default';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
 $Definition['DownloadLocalePack'] = 'Download';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
-$Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
-$Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
-$Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
-$Definition['EmailNotification'] = '%1$s
-
-Follow the link below to check it out:
-%2$s
-
-Have a great day!';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
-<p>{Excerpt}</p>
-<p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
-$Definition['ErrorBadInvitationCode'] = 'The invitation code you supplied is not valid.';
-$Definition['ErrorCredentials'] = 'Sorry, no account could be found related to the email/username and password you entered.';
-$Definition['ErrorPermission'] = 'Sorry, permission denied.';
-$Definition['ErrorPluginDisableRequired'] = 'You cannot disable the {0} plugin because the {1} plugin requires it in order to function.';
-$Definition['ErrorPluginEnableRequired'] = 'This plugin requires that the {0} plugin be enabled before it can be enabled itself.';
-$Definition['ErrorPluginVersionMatch'] = 'The enabled {0} plugin (version {1}) failed to meet the version requirements ({2}).';
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
@@ -92,10 +47,7 @@ $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
-$Definition['FollowOnly'] = 'Follow the link below to check it out:';
 
-$Definition['Garden.Email.SupportAddress'] = 'Support email';
-$Definition['Garden.Email.SupportName'] = 'Support name';
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
@@ -106,27 +58,15 @@ $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be runnin
 $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears to be read-only. This means that Vanilla will be unable to automatically register your forum\'s InstallationID and InstallationSecret.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
-$Definition['GroupEmptyAnnouncements'] = 'Important stuff will go here one day.';
-$Definition['GroupEmptyEvents'] = 'Aw snap, no events are coming up.';
-$Definition['Group Members'] = 'Members';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
-$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
-$Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
-$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent you a <a href="{Url,html}">message</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Started a new discussion. <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mentioned you in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {ActivityUserID,your} profile picture.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Html'] = 'HTML';
 
-$Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
-$Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
-$Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -141,60 +81,30 @@ $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to c
 $Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
-$Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 
 $Definition['NewApplicantEmail'] = 'New applicant:';
-$Definition['New Conversation'] = 'New Message';
-$Definition['NoBadgesEarned'] = 'Any minute now&hellip;';
-$Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
-$Definition['Null Date'] = '-';
 
 $Definition['Operation By'] = 'By';
 
-$Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
-$Definition['Password Contains Username'] = 'Contains Username';
-$Definition['Password Good'] = 'Good';
-$Definition['Password Strong'] = 'Strong';
-$Definition['Password Too Short'] = 'Too Short';
 $Definition['Permission.Category'] = 'Category';
-$Definition['PermissionRequired.Garden.Settings.Manage'] = 'You need to be an administrator to do that.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
-$Definition['Posts.Plural: %s'] = 'Posts: %s';
-$Definition['Posts.Singular: %s'] = 'Posts: %s';
-$Definition['Private group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
-$Definition['ProfileFieldsCustomDescription'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
 
-$Definition['Q&A Accepted'] = 'Answered ✓';
-$Definition['Q&A Answered'] = 'Answered';
-$Definition['Q&A Question'] = 'Question';
-$Definition['QnA Rejected Answer'] = 'Rejected Answer';
-$Definition['Quote on'] = 'on';
-$Definition['Quote wrote'] = 'wrote';
-
-$Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,was,were} promoted to {Data.Name,plaintext}.';
-$Definition['RecipientUserID'] = 'recipient';
 $Definition['Record Content'] = 'Content';
-$Definition['Report Notes'] = 'Notes';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
-$Definition['RSVP'] = 'Respond';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
-$Definition['Search for a tag.'] = 'Search for all or part of a tag.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
-$Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['SignedOut'] = 'You are signed out.';
-$Definition['SigningOut'] = 'Hang on a sec while we sign you out.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
 
-$Definition['TagHint'] = 'Start to type...';
 $Definition['Test Email Message'] = '<p>This is a test email message.</p>
 
 <p>You can configure the appearance of your forum\'s emails by navigating to the Email page in the dashboard.</p>';
@@ -205,7 +115,6 @@ $Definition['The basic registration form requires new users to copy text from a 
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
 $Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
-$Definition['The quote had to be converted from %s to %s.'] = 'The quote had to be converted from %s to %s. Some formatting may have been lost.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
 $Definition['The text of the pocket.'] = 'Enter the text of the pocket. This will be output exactly as you type it so make sure that you enter valid HTML.';
@@ -223,24 +132,11 @@ $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['UserKeep'] = 'Keep User Content';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
-$Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
 $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 
-$Definition['ValidateBanned'] = 'That %s is not allowed.';
-$Definition['ValidateBoolean'] = '%s is not a valid boolean.';
-$Definition['ValidateEmail'] = '%s does not appear to be valid.';
-$Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
-$Definition['ValidateInteger'] = '%s is not a valid integer.';
-$Definition['ValidateMinimumAge'] = 'You are not old enough to join this community.';
-$Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
-$Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
-$Definition['ValidateString'] = '%s is not a valid string.';
-$Definition['ValidateTag'] = 'Tags cannot contain spaces.';
-$Definition['ValidateTimestamp'] = '%s is not a valid timestamp.';
-$Definition['ValidateUrl'] = 'The %s field is not a valid url.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 
@@ -248,16 +144,9 @@ $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are remo
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
-$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} warned {WarnUserID,User} for {Points,plural,%s points} (just a notice).';
-$Definition['We\'ve received a request to change your password.'] = 'We\'ve received a request to change your password at %s. If you didn\'t make this request, please ignore this email.';
 
-$Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">You\'ve asked questions that now have answers</a>. Make sure you accept/reject the answers.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'If you are ever locked out of your forum you can always log in using your original Vanilla email and password at <a href="%1$s">%1$s</a>';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
 $Definition['You can place files in your /uploads folder.'] = 'If your file is too large to upload directly to this page you can place it in your /uploads folder. Make sure the filename begins with the word <b>export</b> and ends with one of <b>.txt, .gz</b>.';
-$Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
-$Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
-$Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';
-$Definition['You were added to a conversation.'] = '{InsertUserID,user} added {NotifyUserID,you} to a <a href="{Url,htmlencode}">conversation</a>.';
