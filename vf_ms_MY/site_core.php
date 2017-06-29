@@ -871,6 +871,7 @@ $Definition['PageDetailsMessage'] = '%1$s ke %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s ke %2$s daripada %3$s';
 $Definition['Page Not Found'] = 'Halaman Tidak Dijumpai';
 $Definition['Participated'] = 'Dilibatkan';
+$Definition['Participated Discussions'] = 'Perbincangan Dilibatkan';
 $Definition['ParticipatedHomepageTitle'] = 'Perbincangan Dilibatkan';
 $Definition['Password'] = 'Kata Laluan';
 $Definition['Password Contains Username'] = 'Mengandungi Nama Pengguna';

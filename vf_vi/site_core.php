@@ -950,6 +950,7 @@ $Definition['PageDetailsMessage'] = '%1$s đến %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s đến %2$s trên %3$s';
 $Definition['Page Not Found'] = 'Trang này không tồn tại.';
 $Definition['Participated'] = 'Đã tham gia';
+$Definition['Participated Discussions'] = 'Bài viết tham gia';
 $Definition['ParticipatedHomepageTitle'] = 'Bài viết tham gia';
 $Definition['Password'] = 'Mật khẩu';
 $Definition['Password Contains Username'] = 'Chứa tên đăng nhập';

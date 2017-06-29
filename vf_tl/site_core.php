@@ -870,6 +870,7 @@ $Definition['PageDetailsMessage'] = '%1$s hanggang %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s hanggang %2$s ng %3$s';
 $Definition['Page Not Found'] = 'Ang Pahina Ay Hindi Makita';
 $Definition['Participated'] = 'Sumali';
+$Definition['Participated Discussions'] = 'Sinalihang Mga Diskusyon';
 $Definition['ParticipatedHomepageTitle'] = 'Sinalihang Mga Diskusyon';
 $Definition['Password Contains Username'] = 'Naglalaman ng Username';
 $Definition['Password Good'] = 'Ayos';

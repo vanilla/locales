@@ -892,6 +892,7 @@ $Definition['PageDetailsMessage'] = '%1$s kuya ku-%2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s kuya ku-%2$s kokungu-%3$s';
 $Definition['Page Not Found'] = 'Ikhasi Alitholakali';
 $Definition['Participated'] = 'Ubambe iqhaza';
+$Definition['Participated Discussions'] = 'Izingxoxo Zokubamba Iqhaza';
 $Definition['ParticipatedHomepageTitle'] = 'Izingxoxo Zokubamba Iqhaza';
 $Definition['Password'] = 'Iphasiwedi';
 $Definition['Password Contains Username'] = 'Iqukethe Igama Lomsebenzisi';

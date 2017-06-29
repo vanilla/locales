@@ -905,6 +905,7 @@ $Definition['PageDetailsMessage'] = '%1$s til %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s til %2$s av %3$s';
 $Definition['Page Not Found'] = 'Siden ble ikke funnet';
 $Definition['Participated'] = 'Deltok';
+$Definition['Participated Discussions'] = 'Deltatte diskusjoner';
 $Definition['ParticipatedHomepageTitle'] = 'Deltatte diskusjoner';
 $Definition['Password'] = 'Passord';
 $Definition['Password Contains Username'] = 'Inneholder brukernavn';

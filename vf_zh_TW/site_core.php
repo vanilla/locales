@@ -954,6 +954,7 @@ $Definition['PageDetailsMessage'] = '%1$s 到 %2$s';
 $Definition['PageDetailsMessageFull'] = '%3$s 中的 %1$s 到 %2$s';
 $Definition['Page Not Found'] = '找不到頁面';
 $Definition['Participated'] = '已參加';
+$Definition['Participated Discussions'] = '參與討論';
 $Definition['ParticipatedHomepageTitle'] = '參與討論';
 $Definition['Password'] = '密碼';
 $Definition['Password Contains Username'] = '包含用戶名';

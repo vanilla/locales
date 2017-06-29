@@ -941,6 +941,7 @@ $Definition['PageDetailsMessage'] = '%1$s za %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s za %2$s od %3$s';
 $Definition['Page Not Found'] = 'Stranica nije pronađena';
 $Definition['Participated'] = 'Učestvovao/la';
+$Definition['Participated Discussions'] = 'Učestvovali u diskusijama';
 $Definition['ParticipatedHomepageTitle'] = 'Učestvovali u diskusijama';
 $Definition['Password'] = 'Šifra';
 $Definition['Password Contains Username'] = 'Sadrži korisničko ime';

@@ -8,6 +8,8 @@ $Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 
 $Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 
+$Definition['Make Leader'] = 'Leader';
+
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Show previous quotes'] = '&raquo; show previous quotes';
 

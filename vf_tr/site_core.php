@@ -946,6 +946,7 @@ $Definition['PageDetailsMessage'] = '%1$s den %2$s e';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s yyy';
 $Definition['Page Not Found'] = 'Sayfa Bulunamadı';
 $Definition['Participated'] = 'Katıldı';
+$Definition['Participated Discussions'] = 'Katılılan Tartışmalar';
 $Definition['ParticipatedHomepageTitle'] = 'Katılılan Tartışmalar';
 $Definition['Password'] = 'Parola';
 $Definition['Password Contains Username'] = 'Kullanıcı Adı İçerir';

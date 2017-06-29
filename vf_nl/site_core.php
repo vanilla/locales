@@ -946,6 +946,7 @@ $Definition['PageDetailsMessage'] = '%1$s naar %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s naar %2$s van %3$s';
 $Definition['Page Not Found'] = 'Pagina Niet Gevonden';
 $Definition['Participated'] = 'Deelgenomen';
+$Definition['Participated Discussions'] = 'Deelgenomen Discussies';
 $Definition['ParticipatedHomepageTitle'] = 'Deelgenomen Discussies';
 $Definition['Password'] = 'Wachtwoord';
 $Definition['Password Contains Username'] = 'Bevat Gebruikersnaam';

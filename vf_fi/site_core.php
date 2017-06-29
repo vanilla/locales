@@ -957,6 +957,7 @@ $Definition['PageDetailsMessage'] = '%1$s kohteeseen %2$s ';
 $Definition['PageDetailsMessageFull'] = '%1$s kohteeseen %2$s kohteesta %3$s ';
 $Definition['Page Not Found'] = 'Sivua ei l&ouml;ytynyt';
 $Definition['Participated'] = 'Osallistui';
+$Definition['Participated Discussions'] = 'Keskustelut joihin osallistunut';
 $Definition['ParticipatedHomepageTitle'] = 'Keskustelut joihin osallistunut';
 $Definition['Password'] = 'Salasana';
 $Definition['Password Contains Username'] = 'Sisältää käyttäjätunnuksen';

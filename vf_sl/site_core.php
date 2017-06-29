@@ -617,6 +617,7 @@ $Definition['Other Records'] = 'Drugi zapisi';
 $Definition['PageDetailsMessage'] = '%1$s do %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s do %2$s od %3$s';
 $Definition['Page Not Found'] = 'Strani ni bila najdena';
+$Definition['Participated Discussions'] = 'Udeležba v razpravah';
 $Definition['ParticipatedHomepageTitle'] = 'Udeležba v razpravah';
 $Definition['Password'] = 'Geslo';
 $Definition['PasswordRequest'] = 'Nekdo je zahteval ponastavitev vašega gesla ob %2$s. Če želite ponastaviti svoje geslo sledite povezavi:

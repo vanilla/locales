@@ -928,6 +928,7 @@ $Definition['PageDetailsMessage'] = '%1$s به %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s به %2$s به %3$s';
 $Definition['Page Not Found'] = 'صفحه يافت نشد';
 $Definition['Participated'] = 'مشترك';
+$Definition['Participated Discussions'] = 'مشترك گفتگوها';
 $Definition['ParticipatedHomepageTitle'] = 'مشترك گفتگوها';
 $Definition['Password'] = 'كلمه عبور';
 $Definition['Password Contains Username'] = 'حاوي نام كاربري';

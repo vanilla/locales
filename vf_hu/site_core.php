@@ -946,6 +946,7 @@ $Definition['PageDetailsMessage'] = '%1$s - %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s - %2$s / %3$s';
 $Definition['Page Not Found'] = 'Lap nem található';
 $Definition['Participated'] = 'résztvevő';
+$Definition['Participated Discussions'] = 'résztvevő vita témák';
 $Definition['ParticipatedHomepageTitle'] = 'résztvevő vita témák';
 $Definition['Password'] = 'Jelszó';
 $Definition['Password Contains Username'] = 'felhasználónevet tartalmaz';

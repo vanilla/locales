@@ -930,6 +930,7 @@ $Definition['PageDetailsMessage'] = '%1$s ke %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s ke %2$s dari %3$s';
 $Definition['Page Not Found'] = 'Halaman Tidak Ditemukan';
 $Definition['Participated'] = 'Mengikuti';
+$Definition['Participated Discussions'] = 'Diskusi Berpartisipasi';
 $Definition['ParticipatedHomepageTitle'] = 'Diskusi Berpartisipasi';
 $Definition['Password'] = 'Sandi';
 $Definition['Password Contains Username'] = 'Mengandung Nama Pengguna';

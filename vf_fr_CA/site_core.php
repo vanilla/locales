@@ -909,6 +909,7 @@ $Definition['PageDetailsMessage'] = '%1$s à %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s à %2$s sur %3$s';
 $Definition['Page Not Found'] = 'Page introuvable';
 $Definition['Participated'] = 'Participation';
+$Definition['Participated Discussions'] = 'Discussions auxquelles vous participez';
 $Definition['ParticipatedHomepageTitle'] = 'Discussions auxquelles vous participez';
 $Definition['Password'] = 'Mot de passe';
 $Definition['Password Contains Username'] = 'Contient Nom d\'Utilisateur';

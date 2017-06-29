@@ -951,6 +951,7 @@ $Definition['PageDetailsMessage'] = 'Ο χρήστης %1$s στον χρήστ�
 $Definition['PageDetailsMessageFull'] = 'Ο χρήστης %1$s στο χρήστη %2$s του %3$s';
 $Definition['Page Not Found'] = 'Η Σελίδα Δεν Βρέθηκε';
 $Definition['Participated'] = 'Συμμετείχε';
+$Definition['Participated Discussions'] = 'Συμμετοχές Συζητήσεων';
 $Definition['ParticipatedHomepageTitle'] = 'Συμμετοχές Συζητήσεων';
 $Definition['Password'] = 'Κωδικός χρήστη';
 $Definition['Password Contains Username'] = 'Περιέχει ‘Ονομα Χρήστη';

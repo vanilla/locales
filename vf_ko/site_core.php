@@ -929,6 +929,7 @@ $Definition['PageDetailsMessage'] = '%2$s 에서 %1$s';
 $Definition['PageDetailsMessageFull'] = '%3$s의 %2$s에게 %1$s';
 $Definition['Page Not Found'] = '페이지를 찾을 수 없습니다';
 $Definition['Participated'] = '참여됨';
+$Definition['Participated Discussions'] = '참여한 토론';
 $Definition['ParticipatedHomepageTitle'] = '참여한 토론';
 $Definition['Password'] = '비밀번호';
 $Definition['Password Contains Username'] = '사용자 이름을 포함';

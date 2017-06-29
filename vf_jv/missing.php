@@ -228,6 +228,7 @@ $Definition['Locales are in your %s folder.'] = 'Locales allow you to support ot
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';
 $Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
 
+$Definition['Make Leader'] = 'Leader';
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
 $Definition['Member Count'] = 'Members';

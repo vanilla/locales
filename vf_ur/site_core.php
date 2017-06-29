@@ -878,6 +878,7 @@ $Definition['PageDetailsMessage'] = '%1$sسے %2$s';
 $Definition['PageDetailsMessageFull'] = '%3$s میں سے %1$s سے %2$s';
 $Definition['Page Not Found'] = 'صفحہ نہیں ملا';
 $Definition['Participated'] = 'شرکت کی';
+$Definition['Participated Discussions'] = 'شرکتی بات چیت';
 $Definition['ParticipatedHomepageTitle'] = 'شرکتی بات چیت';
 $Definition['Password'] = 'پاس ورڈ';
 $Definition['Password Contains Username'] = 'صارف نام کا حامل ہے';

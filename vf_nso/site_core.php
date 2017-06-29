@@ -855,6 +855,7 @@ $Definition['PageDetailsMessage'] = 'go';
 $Definition['PageDetailsMessageFull'] = 'go ya';
 $Definition['Page Not Found'] = 'Letlakala ga se la Hwetšwa';
 $Definition['Participated'] = 'Kgathile tema';
+$Definition['Participated Discussions'] = 'Dipoledišano tše di Kgathilego Tema';
 $Definition['ParticipatedHomepageTitle'] = 'Dipoledišano tše di Kgathilego Tema';
 $Definition['Password'] = 'Phasewete';
 $Definition['Password Contains Username'] = 'E na le Leina la Modiriši';

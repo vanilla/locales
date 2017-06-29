@@ -942,6 +942,7 @@ $Definition['PageDetailsMessage'] = '%1$s ถึง %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s ถึง %2$s ของ %3$s';
 $Definition['Page Not Found'] = 'ไม่พบหน้า';
 $Definition['Participated'] = 'เข้าร่วม';
+$Definition['Participated Discussions'] = 'กระทู้ที่มีการเข้าร่วม';
 $Definition['ParticipatedHomepageTitle'] = 'กระทู้ที่มีการเข้าร่วม';
 $Definition['Password'] = 'รหัสผ่าน';
 $Definition['Password Contains Username'] = 'มีชื่อผู้ใช้';

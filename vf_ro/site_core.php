@@ -933,6 +933,7 @@ $Definition['PageDetailsMessage'] = '%1$s la %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s la %2$s din %3$s';
 $Definition['Page Not Found'] = 'Pagina nu s-a gasit';
 $Definition['Participated'] = 'Participat';
+$Definition['Participated Discussions'] = 'Discușii la care s-a participat';
 $Definition['ParticipatedHomepageTitle'] = 'Discușii la care s-a participat';
 $Definition['Password'] = 'Parola';
 $Definition['Password Contains Username'] = 'Conţine numele de utilizator';

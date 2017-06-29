@@ -917,6 +917,7 @@ $Definition['PageDetailsMessage'] = '%1$s k %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s k %2$s z %3$s';
 $Definition['Page Not Found'] = 'Stránka nenalezena';
 $Definition['Participated'] = 'Přispívané';
+$Definition['Participated Discussions'] = 'Přispívané diskuze';
 $Definition['ParticipatedHomepageTitle'] = 'Přispívané diskuze';
 $Definition['Password'] = 'Heslo';
 $Definition['Password Contains Username'] = 'Obsahuje uživatelské jméno';

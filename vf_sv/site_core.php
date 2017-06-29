@@ -940,6 +940,7 @@ $Definition['PageDetailsMessage'] = '%1$s till %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s till %2$s av %3$s';
 $Definition['Page Not Found'] = 'Sidan kunde inte hittas.';
 $Definition['Participated'] = 'Deltagit';
+$Definition['Participated Discussions'] = 'Deltagande diskussioner';
 $Definition['ParticipatedHomepageTitle'] = 'Deltagande diskussioner';
 $Definition['Password'] = 'Lösenord';
 $Definition['Password Contains Username'] = 'Innehåller användarnamn';

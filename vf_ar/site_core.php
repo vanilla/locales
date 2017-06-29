@@ -937,6 +937,7 @@ $Definition['PageDetailsMessage'] = '%1$s الى %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s الى %2$s من %3$s';
 $Definition['Page Not Found'] = 'الصفحة غير موجودة';
 $Definition['Participated'] = 'شارك';
+$Definition['Participated Discussions'] = 'المواضيع المشارك فيها';
 $Definition['ParticipatedHomepageTitle'] = 'المواضيع المشارك فيها';
 $Definition['Password'] = 'كلمة المرور';
 $Definition['Password Contains Username'] = 'يتضمن اسم المستخدم';

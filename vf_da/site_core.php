@@ -920,6 +920,7 @@ $Definition['PageDetailsMessage'] = '%1$s til %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s til %2$s ud af %3$s';
 $Definition['Page Not Found'] = 'Siden blev ikke fundet';
 $Definition['Participated'] = 'Deltog';
+$Definition['Participated Discussions'] = 'Diskussioner deltaget i';
 $Definition['ParticipatedHomepageTitle'] = 'Diskussioner deltaget i';
 $Definition['Password'] = 'Kodeord';
 $Definition['Password Contains Username'] = 'Indeholder brugernavn';

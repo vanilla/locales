@@ -829,6 +829,7 @@ $Definition['Page %s'] = '%s pslp.';
 $Definition['PageDetailsMessage'] = '%1$s iki %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s iki %2$s iš %3$s';
 $Definition['Page Not Found'] = 'Puslapis nerastas';
+$Definition['Participated Discussions'] = 'Diskusijos, kuriose dalyvauta';
 $Definition['ParticipatedHomepageTitle'] = 'Diskusijos, kuriose dalyvauta';
 $Definition['Password'] = 'Slaptažodis';
 $Definition['Password Contains Username'] = 'Yra lankytojo vardas';

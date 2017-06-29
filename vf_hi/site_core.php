@@ -631,6 +631,7 @@ $Definition['Other Records'] = 'अन्य रिकॉर्ड';
 $Definition['PageDetailsMessage'] = '%1$s से %2$s';
 $Definition['PageDetailsMessageFull'] = '%3$s का %1$s से %2$s';
 $Definition['Page Not Found'] = 'पेज नहीं मिला';
+$Definition['Participated Discussions'] = 'भाग ली गई चर्चाएं';
 $Definition['ParticipatedHomepageTitle'] = 'भाग ली गई चर्चाएं';
 $Definition['Password'] = 'पासवर्ड';
 $Definition['PasswordRequest'] = 'किसी ने %2$s पर आपके पासवर्ड को पुनःसेट करने के लिए अनुरोध किया है। अपना पासवर्ड पुनःसेट करने के लिए, इस लिंक को फोलो करें:

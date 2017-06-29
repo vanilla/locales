@@ -956,6 +956,7 @@ $Definition['PageDetailsMessage'] = '%1$s до %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s до %2$s от %3$s';
 $Definition['Page Not Found'] = 'Страницата не беше открита';
 $Definition['Participated'] = 'Участвал';
+$Definition['Participated Discussions'] = 'Дискусии, в които е взето участие';
 $Definition['ParticipatedHomepageTitle'] = 'Дискусии, в които е взето участие';
 $Definition['Password'] = 'Парола';
 $Definition['Password Contains Username'] = 'Съдържа потребителско име';

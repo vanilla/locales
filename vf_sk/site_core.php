@@ -932,6 +932,7 @@ $Definition['PageDetailsMessage'] = '%1$s až %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s až %2$s z %3$s';
 $Definition['Page Not Found'] = 'Stránka nebola nájdená';
 $Definition['Participated'] = 'Zúčastnený';
+$Definition['Participated Discussions'] = 'Zúčastnené diskusie';
 $Definition['ParticipatedHomepageTitle'] = 'Zúčastnené diskusie';
 $Definition['Password'] = 'Heslo';
 $Definition['Password Contains Username'] = 'Obsahuje používateľské meno';

@@ -940,6 +940,7 @@ $Definition['PageDetailsMessage'] = '%1$s до %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s до %2$s з %3$s';
 $Definition['Page Not Found'] = 'Не знайдено (404)';
 $Definition['Participated'] = 'Участь';
+$Definition['Participated Discussions'] = 'Було обговорено';
 $Definition['ParticipatedHomepageTitle'] = 'Було обговорено';
 $Definition['Password'] = 'Пароль';
 $Definition['Password Contains Username'] = 'Містить ім\'я користувача';

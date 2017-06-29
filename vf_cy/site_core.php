@@ -856,6 +856,7 @@ $Definition['PageDetailsMessage'] = '%1$s i %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s i %2$s o %3$s';
 $Definition['Page Not Found'] = 'Heb ganfod Tudalen';
 $Definition['Participated'] = 'Cymryd rhan';
+$Definition['Participated Discussions'] = 'Trafodaethau wedi cymryd rhan';
 $Definition['ParticipatedHomepageTitle'] = 'Trafodaethau wedi cymryd rhan';
 $Definition['Password'] = 'Cyfrinair';
 $Definition['Password Contains Username'] = 'Cynnwys enw defnyddiwr';

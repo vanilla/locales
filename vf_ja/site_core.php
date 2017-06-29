@@ -950,6 +950,7 @@ $Definition['PageDetailsMessage'] = '%1$sから%2$s';
 $Definition['PageDetailsMessageFull'] = '%3$s の%1$sから%2$s';
 $Definition['Page Not Found'] = 'ページが見つかりません';
 $Definition['Participated'] = '参加済み';
+$Definition['Participated Discussions'] = 'ディスカッションに参加しました';
 $Definition['ParticipatedHomepageTitle'] = 'ディスカッションに参加しました';
 $Definition['Password'] = 'パスワード';
 $Definition['Password Contains Username'] = 'ユーザー名が含まれています';

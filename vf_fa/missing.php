@@ -2,6 +2,8 @@
 
 $Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 
+$Definition['Make Leader'] = 'Leader';
+
 $Definition['Show previous quotes'] = '&raquo; show previous quotes';
 
 $Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
