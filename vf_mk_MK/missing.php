@@ -1,34 +1,11 @@
 <?php
 
-$Definition['%s comment html'] = '%s comment';
-$Definition['%s comments html'] = '%s comments';
-$Definition['%s discussion html'] = '%s discussion';
-$Definition['%s discussions html'] = '%s discussions';
-$Definition['%s new plural'] = '%s new';
-$Definition['%s view html'] = '%s view';
-$Definition['%s views html'] = '%s views';
-
 $Definition['Abilites'] = 'Abilities';
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
-$Definition['AboutToDelete'] = 'You are about to delete %s.';
-$Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
-$Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s accepted %4$s %8$s.';
-$Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s commented on your %8$s.';
-$Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s commented on your %8$s.';
-$Definition['Activity.Comment'] = 'Comment';
-$Definition['Activity.CommentMention.FullHeadline'] = '%1$s mentioned %3$s in a %8$s.';
-$Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s mentioned %3$s in a %8$s.';
-$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s sent you a %8$s.';
-$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s sent you a %8$s.';
-$Definition['Activity.Join.FullHeadline'] = '%1$s joined.';
-$Definition['Activity.Join.ProfileHeadline'] = '%1$s joined.';
-$Definition['Activity.PictureChange.FullHeadline'] = '%1$s changed %6$s profile picture.';
-$Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s changed %6$s profile picture.';
-$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
@@ -208,7 +185,6 @@ $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
-$Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
@@ -248,8 +224,6 @@ $Definition['Null Date'] = '-';
 $Definition['OldPassword'] = 'Old password';
 $Definition['Operation By'] = 'By';
 
-$Definition['PageDetailsMessage'] = '%1$s to %2$s';
-$Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
 $Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
 $Definition['Password Contains Username'] = 'Contains Username';
 $Definition['Password Good'] = 'Good';
@@ -311,7 +285,6 @@ $Definition['Search by user or role.'] = 'Search for users by name or email, opt
 $Definition['Search for a tag.'] = 'Search for all or part of a tag.';
 $Definition['sep and'] = 'and';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
-$Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['SignedOut'] = 'You are signed out.';
 $Definition['SignIn'] = 'Sign In';
 $Definition['SigningOut'] = 'Hang on a sec while we sign you out.';
@@ -365,7 +338,6 @@ $Definition['This is the administrative dashboard for your new community.'] = 'T
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
-$Definition['Transport error: %s'] = 'A fatal error occurred while processing the request.<br />The server returned the following response: %s';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Unanswered Questions'] = 'Unanswered';
