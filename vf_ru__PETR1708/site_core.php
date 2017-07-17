@@ -1375,6 +1375,7 @@ $Definition['You are connected through %2$s.'] = 'Вы подключены че
 $Definition['You are currently only viewing categories that you follow.'] = 'Вы просматриваете только тѣ категоріи, на которыя подписаны.';
 $Definition['You are currently viewing all categories.'] = 'Вы просматриваете все категоріи';
 $Definition['You are editing %s\'s signature'] = 'Вы отредактировали подпись %s';
+$Definition['You are jailed.'] = 'Вы в тюрьме.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Вы покидаете %1$s. Нажмите на ссылку, чтобы перейти к %2$sю';
 $Definition['You are now signed in.'] = 'Теперь вы вошли';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Вам разрешается только {maxImages,plural,%s изображение,%s изображений}.';

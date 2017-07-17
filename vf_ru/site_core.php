@@ -1599,6 +1599,7 @@ $Definition['You are connected through %2$s.'] = 'Вы подключены че
 $Definition['You are currently only viewing categories that you follow.'] = 'Вы сейчас видите только свои отслеживаемые разделы.';
 $Definition['You are currently viewing all categories.'] = 'Вы просматриваете все разделы.';
 $Definition['You are editing %s\'s signature'] = 'Вы редактируете подпись %s';
+$Definition['You are jailed.'] = 'Вы в тюрьме.';
 $Definition['You are limited to %s recipient.'] = 'Вы ограничены  %s получателем.';
 $Definition['You are limited to %s recipients.'] = 'Вы ограничены количеством получателей:  %s.';
 $Definition['You aren\'t a %s of this group.'] = 'Вы не являетесь %s этой группы.';
