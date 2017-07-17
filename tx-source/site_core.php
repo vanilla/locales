@@ -1543,6 +1543,7 @@ $Definition['You are currently viewing all categories.'] = 'You are currently vi
 $Definition['You are editing %s\'s signature'] = 'You are editing %s\'s signature';
 $Definition['You are limited to %s recipient.'] = 'You are limited to %s recipient.';
 $Definition['You are limited to %s recipients.'] = 'You are limited to %s recipients.';
+$Definition['You are jailed.'] = 'You are jailed.';
 $Definition['You aren\'t a %s of this group.'] = 'You aren\'t a %s of this group.';
 $Definition['You aren\'t allowed to %s this group.'] = 'You aren\'t allowed to %s this group.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'You are now leaving %1$s. Click the link to continue to %2$s.';
