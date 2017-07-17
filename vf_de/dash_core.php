@@ -1,6 +1,6 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" nicht gefunden.';
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" nicht gefunden.vat';
 $Definition['%1$s %2$s'] = '%1$s %2$s ';
 $Definition['%1$s Version %2$s'] = '%1$s Version %2$s ';
 $Definition['%1$s version %2$s is available.'] = '%1$s Version %2$s ist verfügbar.';
@@ -36,7 +36,7 @@ $Definition['[%s] Invitation'] = '[%s] Einladung';
 $Definition['[%s] Password Reset'] = '[%s] Passwort zurücksetzen';
 $Definition['[%s] Password Reset Request'] = '[%s] Antrag zum zurücksetzen des Passworts';
 
-$Definition['a Badge'] = 'ein Badge';
+$Definition['a Badge'] = 'ein Abzeichen';
 $Definition['Abilites'] = 'Fähigkeiten';
 $Definition['Abilities'] = 'Fähigkeiten';
 $Definition['Above Main Content'] = 'Über Hauptinhalt';
