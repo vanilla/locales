@@ -1112,7 +1112,6 @@ $Definition['Search %s'] = 'Suche %s';
 $Definition['search archived'] = 'Suche im Archiv';
 $Definition['SearchBoxPlaceHolder'] = 'Suchen';
 $Definition['Search for a tag.'] = 'Nach allem suchen oder nach einem Tag.';
-$Definition['Search groups members'] = 'Suche Gruppenmitglieder';
 $Definition['Search results for \'%s\''] = 'Suchergebnisse für \'%s\'';
 $Definition['search subcategories'] = 'Unterkategorien durchsuchen';
 $Definition['Second Anniversary'] = 'Zweiter Jahrestag';

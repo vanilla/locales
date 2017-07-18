@@ -1150,7 +1150,6 @@ $Definition['Search %s'] = '搜索 %s';
 $Definition['search archived'] = '搜索存档';
 $Definition['SearchBoxPlaceHolder'] = '搜索';
 $Definition['Search for a tag.'] = '搜索全部或部分标签。';
-$Definition['Search groups members'] = '搜索群成员';
 $Definition['Search results for \'%s\''] = '在结果中搜索 \'%s\'';
 $Definition['search subcategories'] = '搜索子版块';
 $Definition['Second Anniversary'] = '两周年';
