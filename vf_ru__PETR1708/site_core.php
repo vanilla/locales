@@ -1040,6 +1040,7 @@ $Definition['Save your password'] = 'Сохранить пароль';
 $Definition['Search'] = 'Поискъ';
 $Definition['SearchBoxPlaceHolder'] = 'Поискъ';
 $Definition['Search for a tag.'] = 'Search for all or part of a tag.';
+$Definition['Search group members'] = 'Поиск участников группы';
 $Definition['Search results for \'%s\''] = 'Результаты поиска по \'%s\'';
 $Definition['Second Anniversary'] = 'Двухлѣтіе';
 $Definition['Sections'] = 'Раздѣлы';

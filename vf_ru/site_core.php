@@ -1197,6 +1197,7 @@ $Definition['Search %s'] = 'Поиск %s';
 $Definition['search archived'] = 'поиск в архиве';
 $Definition['SearchBoxPlaceHolder'] = 'Поиск';
 $Definition['Search for a tag.'] = 'Поиск тэга или его части.';
+$Definition['Search group members'] = 'Поиск участников группы';
 $Definition['Search results for \'%s\''] = 'Результаты поиска по \'%s\'';
 $Definition['search subcategories'] = 'поиск подразделов';
 $Definition['Second Anniversary'] = 'Вторая годовщина';

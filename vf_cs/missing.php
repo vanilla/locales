@@ -6,8 +6,6 @@ $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs 
 
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
 
-$Definition['Make Leader'] = 'Leader';
-
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
