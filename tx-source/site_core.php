@@ -555,6 +555,7 @@ $Definition['expires %s'] = 'expires %s';
 $Definition['Failed to delete group.'] = 'Failed to delete group.';
 $Definition['Failed to find discussion for commenting.'] = 'Failed to find discussion for commenting.';
 $Definition['Failed to load the poll.'] = 'Failed to load the poll.';
+$Definition['Favorites'] = 'Favorites';
 $Definition['Feedback'] = 'Feedback';
 $Definition['Female'] = 'Female';
 $Definition['Fifth Anniversary'] = 'Fifth Anniversary';
