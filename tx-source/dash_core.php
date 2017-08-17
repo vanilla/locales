@@ -149,6 +149,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
 $Definition['Choose a locale pack'] = 'Choose a locale pack';
+$Definition['Choose Avatar'] = 'Choose Avatar';
 $Definition['Choose the preferred layout for the categories page.'] = 'Choose the preferred layout for the categories page.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Choose the preferred layout for the discussions page.';
 $Definition['Choose who can send out invitations to new members:'] = 'Choose who can send out invitations to new members:';
@@ -439,6 +440,7 @@ $Definition['Operation By'] = 'By';
 $Definition['Organize'] = 'Organize';
 $Definition['Organize Categories'] = 'Organize Categories';
 $Definition['Original Version'] = 'Original Version';
+$Definition['Or select an image on your computer (2mb max)'] = 'Or select an image on your computer (2mb max)';
 $Definition['Or Spamblock For'] = 'Or Spamblock For';
 $Definition['Other Themes'] = 'Other Themes';
 $Definition['Other Tutorials'] = 'Other Tutorials';
