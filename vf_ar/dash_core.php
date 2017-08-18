@@ -97,6 +97,7 @@ $Definition['Ban Item'] = 'بند';
 $Definition['Banner'] = 'إعلان';
 $Definition['Banner Title'] = 'عنوان الشعار';
 $Definition['Ban Type'] = 'نوع';
+$Definition['Bookmark a discussion using its star icon.'] = 'علّم النقاش باستخدام أيقونة النجمة الخاصة به';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
 $Definition['Button Background Color'] = 'زر لون الخلفية';
 $Definition['Button Text Color'] = 'زر لون النص';
@@ -169,7 +170,9 @@ $Definition['Message ID'] = 'ترقيم الرسالة';
 $Definition['minute(s)'] = 'دقائق';
 $Definition['Mixed Layout'] = 'تخطيط مختلط';
 
+$Definition['No drafts.'] = 'لا يوجد مسودات';
 $Definition['Notes'] = 'ملاحظات';
+$Definition['Notifications will appear here.'] = 'الإشعارات ستظهر هنا.';
 
 $Definition['Operation By'] = 'بواسطة';
 $Definition['Outgoing Email'] = 'البريد الصادر';
@@ -244,3 +247,4 @@ $Definition['You can make the categories page your homepage.'] = 'You can make y
 $Definition['You can send emails in plain text by disabling the toggle below.'] = 'يمكنك إرسال رسائل البريد الإلكتروني في هيئة نص عادي عن طريق تعطيل التبديل أدناه.';
 $Definition['You must manually apply this rank.'] = 'يجب أن تضيف هذة الرتبية يدويا.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
+$Definition['Your inbox is empty.'] = 'صندوقك الوارد فارغ';

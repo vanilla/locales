@@ -1207,7 +1207,7 @@ $Definition['TermsOfServiceText'] = 'Vous acceptez, en participant à ce service
 Votre identité peut être fournie aux autorités judiciaires dans le cadre d\'une enquête ou une action judiciaire à votre encontre. Toutes les adresses IP utilisées pour accéder au forum sont conservées.
 
 La publicité, les chaînes, les mécanismes à diffusion pyramidale et toute forme de sollicitations commerciales ne sont pas acceptées sur ce forum.
-   
+
 Nous nous réservons le droit de retirer tout contenu  pour quelque raison que ce soit et sans justification. Nous nous réservons également le droit de mettre fin à toute participation sans avoir à le justifier.
 
 Vous devez également avoir au moins 13 ans pour participer au forum.';
