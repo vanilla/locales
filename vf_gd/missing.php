@@ -31,6 +31,8 @@ $Definition['Locales allow you to support other languages on your site.'] = 'Loc
 
 $Definition['Make Leader'] = 'Leader';
 
+$Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
+
 $Definition['Password Contains Username'] = 'Contains Username';
 $Definition['Password Good'] = 'Good';
 $Definition['Password Ok'] = 'Ok';

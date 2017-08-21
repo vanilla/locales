@@ -434,6 +434,7 @@ $Definition['Operation By'] = 'Por';
 $Definition['Organize'] = 'Organizar ';
 $Definition['Organize Categories'] = 'Organizar Categorías ';
 $Definition['Original Version'] = 'Versión Original';
+$Definition['Or select an image on your computer (2mb max)'] = 'O escoge una imagen de tu computadora (2 mb máx.).';
 $Definition['Or Spamblock For'] = 'O bloquéalo durante';
 $Definition['Other Themes'] = 'Otros temas';
 $Definition['Other Tutorials'] = 'Otros Tutoriales ';

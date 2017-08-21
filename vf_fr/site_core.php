@@ -25,6 +25,7 @@ $Definition['%s: %s'] = '%s : %s';
 $Definition['%s Agrees'] = '%s accepte';
 $Definition['%s and %s others'] = '%s et %s autres';
 $Definition['%s and you'] = 'Entre %s et vous';
+$Definition['%s Answers'] = '%s réponses';
 $Definition['%s Awesomes'] = '%s Génial ! ';
 $Definition['%s by %s'] = '%s par %s';
 $Definition['%s changed %s\'s permissions.'] = '%s a changé les autorisations de %s';
@@ -330,6 +331,7 @@ $Definition['comments'] = 'réponses';
 $Definition['Comments are between {UserID,you}.'] = 'Les réponses sont entre {UserID,you}.';
 $Definition['Community'] = 'Communauté';
 $Definition['Community Guidelines'] = 'Conseils et instructions générales';
+$Definition['Community Home'] = 'Foyer de la communauté';
 $Definition['Completed'] = 'Terminé';
 $Definition['Completely delete the warning.'] = 'Supprime complètement l\'avertissement. ';
 $Definition['Confirm'] = 'Confirmer';
@@ -525,9 +527,11 @@ $Definition['Expired'] = 'Expiré';
 $Definition['Expires'] = 'Expire le';
 $Definition['expires %s'] = 'expire %s';
 
+$Definition['Facebook Connect'] = 'Connexion Facebook';
 $Definition['Failed to delete group.'] = 'Échec lors de la suppression du groupe.';
 $Definition['Failed to find discussion for commenting.'] = 'Discussion égarée';
 $Definition['Failed to load the poll.'] = 'Échec du chargement de ce sondage. ';
+$Definition['Favorites'] = 'Favoris';
 $Definition['Feedback'] = 'Retour';
 $Definition['Female'] = 'Femme';
 $Definition['Fifth Anniversary'] = 'Cinquième Anniversaire';
@@ -537,6 +541,7 @@ $Definition['FileSize'] = 'Taille du fichier';
 $Definition['File Size'] = 'Taille du fichier';
 $Definition['Find your account information below.'] = 'Retrouvez les informations relatives à votre compte ci-dessous.';
 $Definition['First Anniversary'] = '1er anniversaire';
+$Definition['First Answer'] = 'Première réponse';
 $Definition['First Comment'] = 'Premier commentaire';
 $Definition['Flag'] = 'Signaler un abus';
 $Definition['Folder'] = 'Dossier';
@@ -817,7 +822,7 @@ $Definition['My Preferences'] = 'Mes préférences';
 $Definition['My Signature'] = 'Ma Signature';
 
 $Definition['Name'] = 'Nom';
-$Definition['Name Dropper'] = 'Snob';
+$Definition['Name Dropper'] = 'Mentions';
 $Definition['Name of the Event'] = 'Nom de l\'évènement';
 $Definition['Name the Group'] = 'Nom du groupe';
 $Definition['Name Unavailable'] = 'Nom déjà utilisé';
@@ -1207,7 +1212,7 @@ $Definition['TermsOfServiceText'] = 'Vous acceptez, en participant à ce service
 Votre identité peut être fournie aux autorités judiciaires dans le cadre d\'une enquête ou une action judiciaire à votre encontre. Toutes les adresses IP utilisées pour accéder au forum sont conservées.
 
 La publicité, les chaînes, les mécanismes à diffusion pyramidale et toute forme de sollicitations commerciales ne sont pas acceptées sur ce forum.
-
+   
 Nous nous réservons le droit de retirer tout contenu  pour quelque raison que ce soit et sans justification. Nous nous réservons également le droit de mettre fin à toute participation sans avoir à le justifier.
 
 Vous devez également avoir au moins 13 ans pour participer au forum.';
@@ -1282,6 +1287,7 @@ $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Pour utiliser
 $Definition['Transport error: %s'] = 'Une erreur fatale est survenue pendant l\'exécution de la requête.<br />Le serveur a renvoyé l\'erreur suivante : %s';
 $Definition['Try Again'] = 'Réessayer';
 $Definition['Turn ON'] = 'Activer';
+$Definition['Twitter Connect'] = 'Connexion Twitter';
 $Definition['Twitter Settings'] = 'Paramètres Twitter';
 $Definition['Type'] = 'Écrire';
 $Definition['Type the text:'] = 'Tapez le texte :';
