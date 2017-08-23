@@ -1144,6 +1144,7 @@ $Definition['Saved'] = 'Your changes have been saved.';
 $Definition['Save Draft'] = 'Save Draft';
 $Definition['Save Poll'] = 'Save Poll';
 $Definition['Save Preferences'] = 'Save Preferences';
+$Definition['Save Thumbnail'] = 'Save Thumbnail';
 $Definition['Save your password'] = 'Save your password';
 $Definition['Search'] = 'Search';
 $Definition['Search %s'] = 'Search %s';
