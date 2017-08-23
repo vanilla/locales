@@ -145,6 +145,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'سلام 
 
 از انجمن جديد من كه به تازگي راه اندازي كردم ديدن كنيد. جاي بسيار خوبي براي اين است كه بصورت آنلاين با هم به گفتگو بپردازيم.';
 $Definition['Choose a locale pack'] = 'يك بسته زبان را انتخاب كنيد';
+$Definition['Choose Avatar'] = 'انتخاب آوتار';
 $Definition['Choose the preferred layout for the categories page.'] = 'چيدمان مورد نظر براي صفحه دسته بندي ها را انتخاب كنيد.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'چيدمان مورد نظر براي صفحه گفتگوها را انتخاب كنيد.';
 $Definition['Choose who can send out invitations to new members:'] = 'انتخاب كنيد چه كسي ميتواند به كاربران جديد دعوتنامه ارسال كند:';
@@ -432,6 +433,7 @@ $Definition['Operation By'] = 'توسط';
 $Definition['Organize'] = 'سازماندهي';
 $Definition['Organize Categories'] = 'سازماندهي دسته بندي ها';
 $Definition['Original Version'] = 'نسخه اصلي';
+$Definition['Or select an image on your computer (2mb max)'] = 'یا تصویر را از کامپیوتر خود انتخاب کنید (حداکثر 2 مگابایت)';
 $Definition['Or Spamblock For'] = 'يا مسدود كردن هرزنامه براي';
 $Definition['Other Themes'] = 'قالب هاي ديگر';
 $Definition['Other Tutorials'] = 'آموزش هاي ديگر';
