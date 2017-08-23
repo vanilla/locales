@@ -107,7 +107,7 @@ $Definition['+%s Guests'] = '+%s Invités';
 $Definition['<General Error>'] = '<Erreur Générale>';
 
 $Definition['[%1$s] Membership Approved'] = 'Bienvenue sur le forum de %1$s';
-$Definition['[%s] Welcome Aboard!'] = '[%s] vous souhaite la bienvenue !';
+$Definition['[%s] Welcome Aboard!'] = '[%s] Bienvenue!';
 $Definition['[Deleted User]'] = '[Utilisateur supprimé]';
 
 $Definition['About'] = 'À propos…';
@@ -118,7 +118,7 @@ $Definition['Abuse'] = 'Abus';
 $Definition['Accept'] = 'Accepter';
 $Definition['Accepted'] = 'Accepter';
 $Definition['Accept this answer.'] = 'Accepter cette réponse';
-$Definition['Access the Site'] = 'Accéder au Site';
+$Definition['Access the Site'] = 'Accéder au site';
 $Definition['Account Options'] = 'Options du compte';
 $Definition['Activate'] = 'Activer';
 $Definition['Active'] = 'Actifs';
@@ -179,7 +179,7 @@ $Definition['All Members'] = 'Tous les Membres';
 $Definition['All members'] = 'Tous les membres';
 $Definition['All Notifications'] = 'Toutes les notifications';
 $Definition['Allow'] = 'Autoriser';
-$Definition['Allow other members to see your email?'] = 'Autoriser les autres membres à voir votre adresse email ?';
+$Definition['Allow other members to see your email?'] = 'Autoriser les autres membres à voir votre adresse courriel?';
 $Definition['All Time Leaders'] = 'Leaders';
 $Definition['Already Offered'] = 'Déjà offert';
 $Definition['Already Warned'] = 'Déjà Averti';
@@ -208,13 +208,13 @@ $Definition['Apply for membership'] = 'Faire une demande d\'inscription';
 $Definition['Approve'] = 'Accepter';
 $Definition['Approve Applicant'] = 'Accepter';
 $Definition['Approved'] = 'Approuvé';
-$Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Êtes-vous certain  de vouloir faire cela ?';
-$Definition['Are you attending this event?'] = 'Serez-vous présent à cet évènement ?';
-$Definition['Are you sure you want to delete this %s?'] = 'Êtes-vous certain de vouloir supprimer cette %s ?';
-$Definition['Are you sure you want to do that?'] = 'Êtes-vous sûr de vouloir faire cela ?';
-$Definition['Are you sure you want to do this?'] = 'Êtes-vous sûr de vouloir faire cela ?';
-$Definition['Are you sure you want to join this group?'] = 'Êtes-vous sûr de vouloir rejoindre ce groupe ?';
-$Definition['Are you sure you want to leave this conversation?'] = 'Êtes-vous certain de vouloir quitter cette conversation ?';
+$Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Êtes-vous certain de vouloir faire cela?';
+$Definition['Are you attending this event?'] = 'Serez-vous présent à cet évènement?';
+$Definition['Are you sure you want to delete this %s?'] = 'Êtes-vous certain de vouloir supprimer cette %s?';
+$Definition['Are you sure you want to do that?'] = 'Êtes-vous sûr de vouloir faire cela?';
+$Definition['Are you sure you want to do this?'] = 'Êtes-vous sûr de vouloir faire cela?';
+$Definition['Are you sure you want to join this group?'] = 'Êtes-vous sûr de vouloir rejoindre ce groupe?';
+$Definition['Are you sure you want to leave this conversation?'] = 'Êtes-vous certain de vouloir quitter cette conversation?';
 $Definition['Are you sure you want to leave this group?'] = 'Êtes-vous sûr de vouloir quitter ce groupe ?';
 $Definition['Are you sure you wish to continue?'] = 'Voulez-vous vraiment continuer?';
 $Definition['Ask a Question'] = 'Poser une question';
@@ -223,7 +223,7 @@ $Definition['Attach a file'] = 'Joindre un fichier';
 $Definition['Attach image/file'] = 'Joindre une image ou un fichier';
 $Definition['Attachments'] = 'Pièces jointes';
 $Definition['Attach this warning to the %s.'] = 'Joindre cet avertissement aux %s.';
-$Definition['AttemptingSignOut'] = 'Vous êtes sur le point de fermer la session. Êtes-vous certain de vouloir %s ?';
+$Definition['AttemptingSignOut'] = 'Vous êtes sur le point de fermer la session. Êtes-vous certain de vouloir %s?';
 $Definition['Attending'] = 'Seront présents';
 $Definition['Attending (%s)'] = 'Participe à (%s)';
 $Definition['Authenticate URL'] = 'Vérifier l\'URL';
@@ -247,7 +247,7 @@ $Definition['Banned for the following:'] = 'Banni pour la raison suivante :';
 $Definition['Banned users can no longer access the site.'] = 'Un membre banni ne peut plus accéder au site.';
 $Definition['Banner'] = 'Bandeau';
 $Definition['BanReason.1'] = 'Banni par un administrateur';
-$Definition['BanReason.2'] = 'Banni à cause de l\'adresse IP, e-mail ou nom.';
+$Definition['BanReason.2'] = 'Banni à cause de l\'adresse IP, courriel ou nom.';
 $Definition['BanReason.4'] = 'Temporairement banni par un administrateur';
 $Definition['BanReason.8'] = 'Banni suite à des alertes.';
 $Definition['Ban User'] = 'Bannir un membre';
@@ -299,7 +299,7 @@ $Definition['Change My Picture'] = 'Modifier ma photo de profil';
 $Definition['Change Password'] = 'Modifier le mot de passe';
 $Definition['Change Picture'] = 'Modifier la photo de profil';
 $Definition['Check all roles that apply to this user:'] = 'Cochez tous les statuts qui s\'appliquent à cet utilisateur.';
-$Definition['Check it out'] = 'Découvrez-le';
+$Definition['Check it out'] = 'voir sur le site';
 $Definition['Child Categories'] = 'Sous-catégories ';
 $Definition['Child Categories:'] = 'Sous-catégories :';
 $Definition['Choose a name to identify yourself on the site.'] = 'Choisissez un nom pour vous identifier sur le forum.';
@@ -335,11 +335,11 @@ $Definition['Community Home'] = 'Foyer de la communauté';
 $Definition['Completed'] = 'Terminé';
 $Definition['Completely delete the warning.'] = 'Supprime complètement l\'avertissement. ';
 $Definition['Confirm'] = 'Confirmer';
-$Definition['Confirmed email address'] = 'Adresse e-mail confirmée';
-$Definition['Confirm Email'] = 'E-mail de confirmation';
-$Definition['Confirm My Email Address'] = 'Confirmer mon adresse e-mail';
+$Definition['Confirmed email address'] = 'Adresse courriel confirmée';
+$Definition['Confirm Email'] = 'Courriel de confirmation';
+$Definition['Confirm My Email Address'] = 'Confirmer mon adresse courriel';
 $Definition['Confirm Password'] = 'Confirmer le mot de passe';
-$Definition['Confirm Your Email Address'] = 'Confirmez votre adresse e-mail';
+$Definition['Confirm Your Email Address'] = 'Confirmez votre adresse courriel';
 $Definition['Connect'] = 'Connectez-vous';
 $Definition['ConnectAccountExists'] = 'Vous avez déjà un compte ici.';
 $Definition['ConnectChooseName'] = 'Choisissez un nom pour vous identifier sur le site.';
@@ -414,7 +414,7 @@ $Definition['Dislike'] = 'Je n\'aime pas';
 $Definition['Dismiss'] = 'Rejeter';
 $Definition['Don\'t announce.'] = 'Ne pas annoncer.';
 $Definition['Don\'t fold quotes'] = 'Ne pas cacher les citations';
-$Definition['Don\'t have an account? %s'] = 'Pas encore inscrit ? %s';
+$Definition['Don\'t have an account? %s'] = 'Pas encore inscrit? %s';
 $Definition['Download'] = 'Télécharger';
 $Definition['Download the sounds as MP3'] = 'Télécharger les sons en MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Voulez-vous supprimer cet avertissement?';
@@ -445,8 +445,9 @@ $Definition['Edit Profile'] = 'Modifier le profil';
 $Definition['Edit Tag'] = 'Modifier le tag';
 $Definition['Edit Thumbnail'] = 'Modifier l\'avatar';
 $Definition['Eighth Anniversary'] = 'Huitième Anniversaire';
-$Definition['Email/Username'] = 'Email / Nom d\'utilisateur';
-$Definition['EmailConfirmEmail'] = 'Vous devez confirmer votre adresse email pour continuer. Confirmez votre adresse email en cliquant sur ce lien : {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['Email'] = 'Courriel';
+$Definition['Email/Username'] = 'Courriel / Nom d\'utilisateur';
+$Definition['EmailConfirmEmail'] = 'Vous devez confirmer votre adresse courriel pour continuer. Confirmez votre adresse courriel en cliquant sur ce lien : {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 Passez une bonne journée !';
 $Definition['EmailHeader'] = 'Bonjour {User.Name} !
@@ -469,18 +470,18 @@ Suivez ce lien pour en savoir plus :
 %2$s
 
 Bonne journée ! ';
-$Definition['Email Notifications'] = 'Notifications d\'email';
-$Definition['Email Or Username'] = 'Email ou nom d\'utilisateur';
+$Definition['Email Notifications'] = 'Notifications de courriel';
+$Definition['Email Or Username'] = 'Courriel ou nom d\'utilisateur';
 $Definition['EmailPassword'] = 'Bonjour %1$s,
 
 %2$s a réinitialisé votre mot de passe sur %3$s. Vos informations de connexion sont désormais :
 
-  Adresse E-mail : %6$s
-  Mot de passe : %5$s
-  Url : %4$s
-  ';
-$Definition['Email sent from the application will be addressed from the following name and address'] = 'Les emails envoyés à partir de l\'application seront adressés de la part du nom et de l\'adresse ci-dessous';
-$Definition['Email Source'] = 'Email';
+ Adresse Courriel: %6$s
+ Mot de passe : %5$s
+ Url : %4$s
+ ';
+$Definition['Email sent from the application will be addressed from the following name and address'] = 'Les courriel envoyés à partir de l\'application seront adressés de la part du nom et de l\'adresse ci-dessous';
+$Definition['Email Source'] = 'Courriel';
 $Definition['EmailStoryNotification'] = '%1$s
 
 %3$s
@@ -490,8 +491,8 @@ Suivez ce lien pour en savoir plus :
 %2$s
 
 Cordialement,';
-$Definition['Email Unavailable'] = 'Email indisponible';
-$Definition['Email visible to other users'] = 'Adresse e-mail visible par les autres utilisateurs.';
+$Definition['Email Unavailable'] = 'Courriel indisponible';
+$Definition['Email visible to other users'] = 'Adresse courriel visible par les autres utilisateurs.';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Voir la suite</a></p><div class="ClearFix"></div></div>';
@@ -501,11 +502,11 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p><a href="{Url}">Voir la suite</a></p><div class="ClearFix"></div></div>';
 $Definition['Enable'] = 'Activer';
 $Definition['Enabled'] = 'Activées';
-$Definition['End time?'] = 'Heure de fin ?';
+$Definition['End time?'] = 'Heure de fin?';
 $Definition['English'] = 'Anglais';
 $Definition['Enter your Email address'] = 'Entrez votre adresse email';
-$Definition['Enter your email address'] = 'Entrez votre adresse email';
-$Definition['Enter your Email address or username'] = 'Entrez votre adresse Email ou votre nom d\'utilisateur';
+$Definition['Enter your email address'] = 'Entrez votre adresse courriel';
+$Definition['Enter your Email address or username'] = 'Entrez votre adresse courriel ou votre nom d\'utilisateur';
 $Definition['Enter Your OpenID Url'] = 'Entrez votre url OpenID';
 $Definition['Enter your search term.'] = 'Entrez les mots à chercher.';
 $Definition['Erase User Content'] = 'Effacer le Contenu de l\'Utilisateur';
@@ -556,7 +557,7 @@ $Definition['Following %d person'] = '%d personne suivie';
 $Definition['FollowOnly'] = 'Suivez le lien ci-dessous pour y accéder :';
 $Definition['Follows'] = 'Suivis';
 $Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Pour un mot de passe plus sécurisé, augmentez sa longueur ou mélangez des lettres majuscules et minuscules ainsi que des numéros et des symboles.';
-$Definition['Forgot?'] = '<br /><div style="padding: 6px; margin-bottom: 10px;">Mot de passe oublié ?</div>';
+$Definition['Forgot?'] = '<br/><div style=\'padding: 6px; margin-bottom: 10px;\'>Mot de passe oublié?</div>';
 $Definition['Forgot your password?'] = 'Mot de passe oublié?';
 $Definition['Format his'] = 'son';
 $Definition['Format their'] = 'leur';
@@ -569,7 +570,7 @@ $Definition['Friends'] = 'Amis';
 $Definition['From'] = 'De';
 $Definition['Full Site'] = 'Site complet';
 
-$Definition['Garden.Email.SupportAddress'] = 'Email d\'aide';
+$Definition['Garden.Email.SupportAddress'] = 'Courriel d\'aide';
 $Definition['Garden.Email.SupportName'] = 'Nom du support';
 $Definition['Garden.Registration.DefaultRoles'] = 'Statut par défaut';
 $Definition['Garden.Title'] = 'Titre de la bannière';
@@ -588,7 +589,7 @@ $Definition['Go'] = 'Ok';
 $Definition['Group'] = 'Groupe';
 $Definition['group'] = 'groupe';
 $Definition['GroupEmptyAnnouncements'] = 'Des choses importantes se passeront ici un jour.';
-$Definition['GroupEmptyDiscussions'] = 'Terriblement calme ici, n\'est-ce pas ?';
+$Definition['GroupEmptyDiscussions'] = 'Terriblement calme ici, n\'est-ce pas?';
 $Definition['GroupEmptyEvents'] = 'Erreur, il n\'y a pas d\'événement à venir';
 $Definition['Group Icon'] = 'Icône du groupe';
 $Definition['Group Info'] = 'Infos';
@@ -611,7 +612,7 @@ $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepter {Not
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} a répondu à votre question : <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} avez gagné le badge <a href="{Url,html}">{Data.Name,text}</a> .';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banni {ActivityUserID,you}.';
-$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} a posté une réponse sur <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} a publié une réponse sur <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} vous a envoyé un <a href="{Url,html}">message</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} a crée une nouvelle discussion. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} vous a mentionné dans <a href="{Url,html}">{Data.Name,text}</a>';
@@ -636,8 +637,8 @@ $Definition['Home'] = 'Accueil';
 $Definition['hours'] = 'heures';
 $Definition['How can we help you?'] = 'Comment peut-on vous aider?';
 $Definition['Howdy, Stranger!'] = 'Salutations, Étranger !';
-$Definition['How long do you want this warning to last?'] = 'Durée de l\'avertissement ?';
-$Definition['How many levels deep should we start folding up quote trees?'] = 'À partir de quel niveau devrions-nous commencer à cacher les citations ? ';
+$Definition['How long do you want this warning to last?'] = 'Durée de l\'avertissement?';
+$Definition['How many levels deep should we start folding up quote trees?'] = 'À partir de quel niveau devrions-nous commencer à cacher les citations?';
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'J\'accepte les <a id="TermsOfService" class="Popup" target="terms" href="%s">conditions d\'utilisation du forum</a>';
 $Definition['Icon'] = 'Icône';
@@ -734,7 +735,7 @@ $Definition['Major'] = 'Majeure';
 $Definition['Make %s'] = 'Faire %s
 ';
 $Definition['Make Leader'] = 'Chef';
-$Definition['Make me invisible? (Will not show you on the list)'] = 'Me rendre invisible ? (Vous n\'apparaîtrez pas dans la liste)';
+$Definition['Make me invisible? (Will not show you on the list)'] = 'Me rendre invisible? (Vous n\'apparaîtrez pas dans la liste)';
 $Definition['Make this poll anonymous (user votes are not made public).'] = 'Participez anonymement au sondage (le vote de chaque membre ne sera pas visible).';
 $Definition['Male'] = 'Homme';
 $Definition['Manage Members'] = 'Gérer les Membres';
@@ -1059,8 +1060,8 @@ $Definition['Rename Forum'] = 'Renommer le forum';
 $Definition['Reopen'] = 'Réouvrir';
 $Definition['Replies'] = 'Réponses';
 $Definition['Reply'] = 'Répondre';
-$Definition['ReplyOnly'] = 'Vous pouvez directement répondre à ce mail pour suivre le fil. Envoyé à partir de {/, exURL}.';
-$Definition['ReplyOrFollow'] = 'Répondez directement à ce mail ou suivez le lien ci-dessous pour y accéder :';
+$Definition['ReplyOnly'] = 'Vous pouvez directement répondre à ce courriel pour suivre le fil. Envoyé à partir de {/, exURL}.';
+$Definition['ReplyOrFollow'] = 'Répondez directement à ce courriel ou suivez le lien ci-dessous pour y accéder :';
 $Definition['Report'] = 'Signalement';
 $Definition['Report %s'] = 'Signaler %s';
 $Definition['Reported'] = 'Signalé';
@@ -1182,7 +1183,7 @@ $Definition['statuses'] = 'états';
 $Definition['Stop following'] = 'Arrêter le suivi';
 $Definition['Strikethrough'] = 'Barré';
 $Definition['Strip images out of signatures'] = 'Supprimer les images de la signature';
-$Definition['Strip images out of signatures?'] = 'Dépouiller les signatures de toute image ?';
+$Definition['Strip images out of signatures?'] = 'Dépouiller les signatures de toute image?';
 $Definition['Subject'] = 'Sujet';
 $Definition['Subscriber'] = 'Abonné';
 $Definition['Success'] = 'Réussite';
@@ -1228,8 +1229,8 @@ $Definition['The connection data has not been verified.'] = 'Les données de con
 $Definition['The content you were looking for has been deleted.'] = 'Le contenu que vous recherchez a été supprimé.';
 $Definition['The conversation has been cleared.'] = 'Cette conversation a été effacée.';
 $Definition['The CSRF token is invalid.'] = 'Le jeton CSRF est invalide.';
-$Definition['The email you entered is in use by another member.'] = 'L\'adresse e-mail saisie est déjà utilisée par un autre membre.';
-$Definition['The email you have entered is already related to an existing account.'] = 'L\'email que vous avez inscrit est déjà associé à un compte existant.';
+$Definition['The email you entered is in use by another member.'] = 'L\'adresse courriel saisie est déjà utilisée par un autre membre.';
+$Definition['The email you have entered is already related to an existing account.'] = 'L\'adresse courriel que vous avez inscrit est déjà associé à un compte existant.';
 $Definition['The file failed to upload.'] = 'Le fichier n\'a pu être envoyé.';
 $Definition['their'] = 'leur';
 $Definition['The name you entered is already in use by another member.'] = 'Le nom que vous avez entré est déjà utilisé par un autre membre.';
@@ -1240,7 +1241,7 @@ $Definition['There aren\'t any groups yet.'] = 'Il n\'y a pas encore de groupes.
 $Definition['There are no tags in the system yet.'] = 'Aucun tag n\'est actuellement répertorié dans le système.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'La valeur reCAPTCHA n\'as pas été saisie correctement. Veuillez recommencer.';
 $Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'Le contrôle par reCAPTCHA n\'est pas correct. Veuillez réessayer.';
-$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Il existe déjà un compte avec le même nom d\'utilisateur (%1$s) ou le même email (%2$s). Vous pouvez soit créer un nouveau compte, soit entrer les identifiants de votre compte existant.';
+$Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Il existe déjà un compte avec le même nom d\'utilisateur (%1$s) ou le même courriel (%2$s). Vous pouvez soit créer un nouveau compte, soit entrer les identifiants de votre compte existant.';
 $Definition['The response was not in the correct format.'] = 'La réponse ne répond pas à un format correct';
 $Definition['There was an error connecting to Disqus'] = 'Il y a eu une erreur lors de la connexion à Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Une erreur s\'est produite lors de la connexion à Facebook';
@@ -1272,7 +1273,7 @@ $Definition['This user has not commented yet.'] = 'Cet utilisateur n\'a pas enco
 $Definition['This user has not made any discussions yet.'] = 'Cet utilisateur n\'a démarré aucune discussion.';
 $Definition['This user is also banned for other reasons and may stay banned.'] = 'L\'utilisateur est également banni pour d\'autres raisons et pourra rester banni.';
 $Definition['This user is verified as a non-spammer'] = 'Cet utilisateur a été vérifié comme non-spammeur';
-$Definition['This warning has expired. Do you want to completely delete it?'] = 'Cet avertissement a expiré. Voulez-vous le supprimer complétement ?';
+$Definition['This warning has expired. Do you want to completely delete it?'] = 'Cet avertissement a expiré. Voulez-vous le supprimer complétement?';
 $Definition['This Week\'s Leaders'] = 'Les leaders de la semaine';
 $Definition['Thumbnail'] = 'Avatar';
 $Definition['Title'] = 'Titre';
@@ -1388,7 +1389,7 @@ $Definition['Vote Up'] = 'Voter pour';
 $Definition['Voting for the idea is %s.'] = 'Le vote pour l\'idée est %s.';
 
 $Definition['wall'] = 'mur';
-$Definition['Want to take part in this discussion? Click one of these:'] = 'Vous voulez participer à la discussion ? Cliquez sur l\'un de ceux-ci :';
+$Definition['Want to take part in this discussion? Click one of these:'] = 'Vous voulez participer à la discussion? Cliquez sur l\'un de ceux-ci :';
 $Definition['Warn'] = 'Avertir';
 $Definition['Warn %s'] = 'Avertir %s';
 $Definition['Warned for'] = 'Avertit pour';
@@ -1422,22 +1423,22 @@ $Definition['weekday.short.5'] = 'ven.';
 $Definition['weekday.short.6'] = 'sam.';
 $Definition['weekday.short.7'] = 'dim.';
 $Definition['weeks'] = 'semaines';
-$Definition['Welcome Aboard!'] = 'Bienvenue !';
+$Definition['Welcome Aboard!'] = 'Bienvenue!';
 $Definition['were'] = 'étaient';
-$Definition['What\'s This?'] = 'Qu\'est ce que c\'est ?';
+$Definition['What\'s This?'] = 'Qu\'est ce que c\'est?';
 $Definition['What to search'] = 'Quoi chercher';
 $Definition['When'] = 'Quand';
 $Definition['Where'] = 'Où';
-$Definition['Where do you want to announce this discussion?'] = 'Où voulez-vous annoncer cette conversation ?';
-$Definition['Who\'s going?'] = 'Qui y va ?';
+$Definition['Where do you want to announce this discussion?'] = 'Où voulez-vous annoncer cette conversation?';
+$Definition['Who\'s going?'] = 'Qui y va?';
 $Definition['Who\'s Online'] = 'Qui est en ligne';
 $Definition['Who\'s Online in this Category'] = 'Qui est en ligne dans cette catégorie';
 $Definition['Who\'s Online in this Discussion'] = 'Qui est en ligne dans cette Discussion';
 $Definition['Whoops!'] = 'Oups !';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Oups ! Vous devrez vous inscrire avant de pouvoir envoyer un mail à notre site.';
-$Definition['Why are you Banning this user?'] = 'Pourquoi bannissez-vous cet utilisateur ?';
-$Definition['Why do you want to join?'] = 'Pourquoi voulez-vous vous inscrire ?';
-$Definition['Would you like to accept the invitation to join this group?'] = 'Souhaitez-vous accepter l\'invitation à rejoindre ce groupe ?';
+$Definition['Why are you Banning this user?'] = 'Pourquoi bannissez-vous cet utilisateur?';
+$Definition['Why do you want to join?'] = 'Pourquoi voulez-vous vous inscrire?';
+$Definition['Would you like to accept the invitation to join this group?'] = 'Souhaitez-vous accepter l\'invitation à rejoindre ce groupe?';
 $Definition['Write a comment'] = 'Répondre';
 $Definition['Write Comment'] = 'Répondre';
 $Definition['Write something about yourself...'] = 'Écrivez quelque chose sur vous...';
@@ -1510,12 +1511,12 @@ $Definition['You must agree to the terms of service.'] = 'Vous devez accepter le
 $Definition['You must be at least %d years old to register.'] = 'Vous devez avoir au moins %d ans pour vous enregistrer.';
 $Definition['You must be signed in.'] = 'Vous devez être enregistré.';
 $Definition['You must confirm you have received consent to register.'] = 'Vous devez confirmer avoir reçu la permission de vous inscrire.';
-$Definition['You need to confirm your email address.'] = 'Vous devez confirmer votre adresse email. <a href="{/entry/emailconfirmrequest,url}">Cliquez ici</a> pour renvoyer l\'email de confirmation. Vérifiez vos spams si vous ne le trouvez pas.';
-$Definition['You need to confirm your email address before you can continue.'] = 'Vous devez confirmer votre adresse email avant de pouvoir continuer.';
+$Definition['You need to confirm your email address.'] = 'Vous devez confirmer votre adresse courriel. <a href="{/entry/emailconfirmrequest,url}">Cliquez ici</a> pour renvoyer le courriel de confirmation. Vérifiez vos spams si vous ne le trouvez pas.';
+$Definition['You need to confirm your email address before you can continue.'] = 'Vous devez confirmer votre adresse courriel avant de pouvoir continuer.';
 $Definition['You need to sign in before you can do this.'] = 'Vous devez vous connecter avant de faire ceci.';
 $Definition['your'] = 'votre';
 $Definition['Your application for this group was denied.'] = 'Votre demande à rejoindre ce groupe a été refusée.';
-$Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Votre candidature sera examinée par un administrateur. Si elle est approuvée, vous serez informé par email.';
+$Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Votre requête a été envoyée. Vérifiez vos courriels pour la suite des instructions.';
 $Definition['Your changes have been saved.'] = 'Vos modifications ont été enregistrées.';
 $Definition['Your changes have been saved successfully.'] = 'Vos modifications ont bien été prises en compte.';
 $Definition['Your changes were saved.'] = 'Vos changements ont été enregistrés.';
