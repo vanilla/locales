@@ -279,6 +279,7 @@ $Definition['NoBadgesEarned'] = 'Any minute now&hellip;';
 $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 $Definition['Null Date'] = '-';
 
 $Definition['OldPassword'] = 'Old password';

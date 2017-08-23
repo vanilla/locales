@@ -409,7 +409,7 @@ $Definition['No drafts.'] = 'Aucun brouillon.';
 $Definition['No Items Selected'] = 'Aucun élement sélectionné';
 $Definition['No results for %s.'] = 'Pas de résultats pour <b>%s</b>.';
 $Definition['Notes'] = 'Remarques';
-$Definition['Notifications will appear here.'] = 'Les notifications apparaîtrons ici.';
+$Definition['Notifications will appear here.'] = 'Les notifications apparaîtront ici.';
 $Definition['NotifyApplicant'] = 'Notifiez-moi si quelqu\'un pose sa candidature pour devenir membre.';
 $Definition['Notify me when people comment on a discussion.'] = 'M\'avertir en cas de commentaire';
 $Definition['Notify me when people start new discussions.'] = 'M\'avertir à chaque nouvelle discussion';
@@ -623,7 +623,7 @@ $Definition['We will attempt to use the local mail server to send email by defau
 $Definition['What\'s the Buzz?'] = 'Quoi de neuf ?';
 $Definition['Where is your Community Forum?'] = 'Comment accéder à votre communauté en ligne ?';
 $Definition['Who\'s Online Settings'] = 'Paramètres "qui est en ligne"';
-$Definition['Why do you want to join?'] = 'Pourquoi voulez-vous vous inscrire ?';
+$Definition['Why do you want to join?'] = 'Pourquoi voulez-vous vous inscrire?';
 $Definition['Within'] = 'Dans l\'intervalle de';
 $Definition['WordPress Plugin'] = 'Module WordPress';
 
