@@ -1444,6 +1444,7 @@ $Definition['ValidateOneOrMoreArrayItemRequired'] = 'You must select at least on
 $Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
 $Definition['ValidateRequired'] = '%s is required.';
 $Definition['ValidateRequiredArray'] = 'You must select at least one %s.';
+$Definition['ValidateStrength'] = 'The supplied %s is too weak. Try using a stronger password and use the strength meter as a guide.';
 $Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateTag'] = 'Tags cannot contain spaces.';
 $Definition['ValidateTime'] = '%s is not a valid time.';
