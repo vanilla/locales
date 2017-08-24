@@ -195,6 +195,7 @@ $Definition['All Discussions'] = 'All Discussions';
 $Definition['All discussions marked as viewed.'] = 'All discussions marked as viewed.';
 $Definition['All Events'] = 'All Events';
 $Definition['All Members'] = 'All Members';
+$Definition['All Messages'] = 'All Messages';
 $Definition['All members'] = 'All members';
 $Definition['All Notifications'] = 'All Notifications';
 $Definition['All Statuses'] = 'All Statuses';
