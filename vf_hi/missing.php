@@ -189,6 +189,7 @@ $Definition['ValidateMinimumAge'] = 'You are not old enough to join this communi
 $Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
 $Definition['ValidateMinLengthPlural'] = '%1$s is %2$s characters too short.';
 $Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
+$Definition['ValidateStrength'] = 'The supplied %s is too weak. Try using a stronger password and use the strength meter as a guide.';
 $Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateUrl'] = 'The %s field is not a valid url.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';

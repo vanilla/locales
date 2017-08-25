@@ -147,6 +147,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Здра�
 
 Взгляните на только что созданный мной новый форум сообщества. Это замечательное место, где мы можем общаться друг с другом онлайн.';
 $Definition['Choose a locale pack'] = 'Выберите локализацию';
+$Definition['Choose Avatar'] = 'Выбрать изображение';
 $Definition['Choose the preferred layout for the categories page.'] = 'Выберите предпочтительный вид страницы разделов.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Выберите предпочтительный вид страницы дискуссий.';
 $Definition['Choose who can send out invitations to new members:'] = 'Укажите, кто может приглашать новых пользователей:';
@@ -436,6 +437,7 @@ $Definition['Operation By'] = 'От';
 $Definition['Organize'] = 'Организуй';
 $Definition['Organize Categories'] = 'Сортировка разделов';
 $Definition['Original Version'] = 'Исходная версия';
+$Definition['Or select an image on your computer (2mb max)'] = 'Или выберите изображение с вашего компьютера (макс: 2 мб.)';
 $Definition['Or Spamblock For'] = 'или заблокировать на';
 $Definition['Other Themes'] = 'Другие темы';
 $Definition['Other Tutorials'] = 'Другие руководства';

@@ -10,6 +10,7 @@ $Definition['Access your community forum by clicking the "Visit Site" link.'] = 
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['ApplicationHelp'] = 'Съ помощью приложеній вы можете измѣнить базовую функціональность форума.<br />Сразу послѣ того, какъ вы загрузите приложеніе въ эту %s категорію, вы сможете активировать его въ этой панели.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Вы увѣрены, что правильно ввели имя хоста базы данныхъ? Возможно Вы ошиблись при наборѣ. <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Необходима роль "unconfirmed" для использования подтверждения по email.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Нажавъ на кнопку ниже, вы удалите учетную запись %s навсегда.';
 
@@ -66,6 +67,8 @@ $Definition['Locales are in your %s folder.'] = 'Локализація позв
 $Definition['Make sure you click View Page'] = 'Кликните <a href="%s">по ссылкѣ</a>, чтобы увидѣть какіе страницы категорій появятся послѣ сохраненія.';
 $Definition['Manage Routes'] = 'Управленіе перенаправленіями';
 $Definition['Messages can appear anywhere in your application.'] = 'Сообщенія могутъ быть отображены въ любомъ мѣстѣ сайта пользователя.<br>Напримѣръ, это можетъ быть использовано для информированія о новостяхъ.<br>На этой страницѣ можно управлять ими съ помощью перетаскиванія.';
+
+$Definition['No unconfirmed role available for email confirmation.'] = 'Необходима роль "unconfirmed" для использования подтверждения по email. Пожалуйста, добавьте её, для использования этой настройки. ';
 
 $Definition['Please choose an authenticator to configure.'] = 'Выберите плагинъ аутентификаціи для настройки';
 $Definition['PluginHelp'] = 'Плагины позволяютъ измѣнять функціональность вашего сайта<br />Для установки плагина помѣстите его въ папку %s и затѣмъ активируйте на этой страницѣ';

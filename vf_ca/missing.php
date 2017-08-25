@@ -241,6 +241,7 @@ $Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
 $Definition['ValidateMinLengthPlural'] = '%1$s is %2$s characters too short.';
 $Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
 $Definition['ValidateRegex'] = '%s does not appear to be in the correct format.';
+$Definition['ValidateStrength'] = 'The supplied %s is too weak. Try using a stronger password and use the strength meter as a guide.';
 $Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateTag'] = 'Tags cannot contain spaces.';
 $Definition['ValidateTime'] = '%s is not a valid time.';

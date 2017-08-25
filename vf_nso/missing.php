@@ -54,6 +54,7 @@ $Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
 $Definition['ValidateMinLengthPlural'] = '%1$s is %2$s characters too short.';
 $Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
+$Definition['ValidateStrength'] = 'The supplied %s is too weak. Try using a stronger password and use the strength meter as a guide.';
 
 $Definition['weekday.letter.1'] = 'M';
 $Definition['weekday.letter.2'] = 'T';
