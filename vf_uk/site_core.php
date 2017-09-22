@@ -430,6 +430,7 @@ $Definition['Don\'t have an account? %s'] = 'Немає облікового з�
 $Definition['Download'] = 'Завантажити';
 $Definition['Download the sounds as MP3'] = 'Завантажити звуки в MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Видалити це попередження?';
+$Definition['Draft.Delete'] = 'Видалити';
 $Definition['Draft saved at %s'] = 'Чернетка збережена в %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Клацніть і виділіть мишкою область, яка визначить мініатюру аватара.';
 $Definition['Drop image/file'] = 'Перетягнути зображення/файл';

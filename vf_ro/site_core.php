@@ -440,6 +440,7 @@ $Definition['Don\'t have an account? %s'] = 'Nu aveți cont? %s';
 $Definition['Download'] = 'Descărcați';
 $Definition['Download the sounds as MP3'] = 'Descărcați sunetele în format MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Vreți să expire sau sa stergeți aceast avertisment?';
+$Definition['Draft.Delete'] = 'Ștergere';
 $Definition['Draft saved at %s'] = 'Salvat ca ciornă în %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Stabiliți și redimensionați pătratul de mai jos pentru a defini pictograma dvs. thumbnail.';
 $Definition['Drop image/file'] = 'Adăugați imagine/fişier';

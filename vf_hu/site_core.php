@@ -442,6 +442,7 @@ $Definition['Don\'t have an account? %s'] = 'Nincs még fiókod? %s';
 $Definition['Download'] = 'Letöltés';
 $Definition['Download the sounds as MP3'] = 'Hang letöltése MP3 formátumban';
 $Definition['Do you want to expire or delete this warning?'] = 'Törölni akarod ezt a figyelmeztetést?';
+$Definition['Draft.Delete'] = 'Törlés';
 $Definition['Draft saved at %s'] = 'Piszkozat mentve: %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'A kocka méretánek beállításával megszabhatod, hogy mennyi látszódjon az Avatarodon.';
 $Definition['Drop image/file'] = 'Dobd ide a képet/fájlt';

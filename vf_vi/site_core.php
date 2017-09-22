@@ -443,6 +443,7 @@ $Definition['Don\'t have an account? %s'] = 'Chưa có tài khoản? %s';
 $Definition['Download'] = 'Tải xuống';
 $Definition['Download the sounds as MP3'] = 'Tải âm thanh xuống dưới dạng MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Bạn có muốn gỡ cảnh cáo này?';
+$Definition['Draft.Delete'] = 'Xóa';
 $Definition['Draft saved at %s'] = 'Đã lưu nháp lúc %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Căn chỉnh ô vuông bên dưới để tạo thumbnail ưng ý.';
 $Definition['Drop image/file'] = 'Bỏ ảnh/tập tin';

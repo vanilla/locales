@@ -166,6 +166,7 @@ $Definition['Discussion Title'] = 'ចំណង​ជើង​ពិភាក្
 $Definition['Dismiss'] = 'បំបាត់';
 $Definition['Don\'t announce.'] = 'កុំ​ប្រកាស។';
 $Definition['Don\'t have an account? %s'] = 'មិន​មាន​គណនី​ទេ? %s';
+$Definition['Draft.Delete'] = 'លុប';
 
 $Definition['Edit'] = 'កែប្រែ';
 $Definition['Edit Account'] = 'កែប្រែ​គណនី';

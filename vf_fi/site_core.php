@@ -446,6 +446,7 @@ $Definition['Don\'t have an account? %s'] = 'Ei viel&auml; k&auml;ytt&auml;j&aum
 $Definition['Download'] = 'Lataa';
 $Definition['Download the sounds as MP3'] = 'Lataa äänet MP3-tiedostona';
 $Definition['Do you want to expire or delete this warning?'] = 'Haluatko asettaa t&auml;lle varoitukselle p&auml;&auml;ttymisp&auml;iv&auml;n tai poistaa sen kokonaan?';
+$Definition['Draft.Delete'] = 'Poista';
 $Definition['Draft saved at %s'] = 'Luonnos tallennettu %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Croppaa kuva raahaamalla ja valitun alueen kokoa s&auml;&auml;t&auml;m&auml;ll&auml; sopivaksi.';
 $Definition['Drop image/file'] = 'Pudota kuva/tiedosto';

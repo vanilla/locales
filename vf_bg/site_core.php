@@ -443,6 +443,7 @@ $Definition['Don\'t have an account? %s'] = 'Нямате акаунт? %s';
 $Definition['Download'] = 'Изтегляне';
 $Definition['Download the sounds as MP3'] = 'Изтегли звуците като MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Искате ли това пердупреждение да изтече или да го изтриете?';
+$Definition['Draft.Delete'] = 'Изтриване';
 $Definition['Draft saved at %s'] = 'Черновата запазена на %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Можете да завлачите наоколо и да реоразмерите квадрата по-долу за да определите външния вид на аватара си.';
 $Definition['Drop image/file'] = 'Пускане на изображение/файл';

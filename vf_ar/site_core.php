@@ -435,6 +435,7 @@ $Definition['Don\'t have an account? %s'] = 'ليس لك حساب ؟ %s';
 $Definition['Download'] = 'تحميل';
 $Definition['Download the sounds as MP3'] = 'حمل هذه الصوتيات على صيغة MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'هل تريد أن تنتهي صلاحيته أو حذف هذا التحذير؟';
+$Definition['Draft.Delete'] = 'مسح';
 $Definition['Draft saved at %s'] = 'المسودة حفظت في %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'اسحب وحول تغيير حجم المربع أدناه لتحديد الرمز الخاص المصغر.';
 $Definition['Drop image/file'] = 'ترك صورة/ملف';

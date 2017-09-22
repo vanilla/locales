@@ -396,6 +396,7 @@ $Definition['Don\'t announce.'] = 'Не объявлять.';
 $Definition['Don\'t have an account? %s'] = 'Нѣтъ аккаунта? %s';
 $Definition['Download the sounds as MP3'] = 'Скачать аудио в виде MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Вы хотите отмѣтить это предупрежденіе какъ устарѣвшее или удалить?';
+$Definition['Draft.Delete'] = 'Удалить';
 $Definition['Draft saved at %s'] = 'Черновикъ сохраненъ %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Выдѣлите и измѣните размѣръ вашего аватара.';
 

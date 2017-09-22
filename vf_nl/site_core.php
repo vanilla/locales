@@ -440,6 +440,7 @@ $Definition['Don\'t fold quotes'] = 'Verberg quotes niet';
 $Definition['Don\'t have an account? %s'] = 'Heb je nog geen account? <br />%s';
 $Definition['Download the sounds as MP3'] = 'Download de geluiden als MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Wil je deze waarschuwing laten vervallen of verwijderen?';
+$Definition['Draft.Delete'] = 'Verwijder';
 $Definition['Draft saved at %s'] = 'Concept opgeslagen op %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Sleep het kader in de onderstaande afbeelding om je thumbnail te definiëren.';
 $Definition['Drop image/file'] = 'Versleep beeld/bestand';

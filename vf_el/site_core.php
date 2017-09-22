@@ -445,6 +445,7 @@ $Definition['Don\'t have an account? %s'] = 'Δεν έχετε λογαριασ�
 $Definition['Download'] = 'Κάντε λήψη';
 $Definition['Download the sounds as MP3'] = 'Κάντε λήψη των ήχων ως MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Θέλετε να λήξει ή να διαγράψετε αυτή την προειδοποίηση;';
+$Definition['Draft.Delete'] = 'Διαγραφή';
 $Definition['Draft saved at %s'] = 'Το Προσχέδιο αποθηκεύτηκε στο %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Σύρετε και αλλάξτε το μέγεθος του τετραγώνου παρακάτω για να ορίσετε το εικονίδιο της μικρογραφίας σας.';
 $Definition['Drop image/file'] = 'τοποθέτησε την εικόνα/αρχείο';

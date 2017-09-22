@@ -430,6 +430,7 @@ $Definition['Don\'t have an account? %s'] = '계정이 없으세요? %s';
 $Definition['Download'] = '다운로드';
 $Definition['Download the sounds as MP3'] = '사운드를 MP3로 다운로드 하기 ';
 $Definition['Do you want to expire or delete this warning?'] = '이 경고메시지를 종료하거나 삭제하시겠습니까?';
+$Definition['Draft.Delete'] = '지우기';
 $Definition['Draft saved at %s'] = '작성중 초안이 %s에서 저장됨';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = '썸네일 아이콘을 만드시려면 아래 사각형을 드래그하고 사이즈를 조정하십시오.';
 $Definition['Drop image/file'] = '이미지/파일 드롭';

@@ -79,6 +79,7 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = 'D
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
 $Definition['Deny Applicant'] = 'Deny';
 $Definition['DownloadLocalePack'] = 'Download';
+$Definition['Draft.Delete'] = 'Delete';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';

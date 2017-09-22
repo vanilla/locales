@@ -254,6 +254,7 @@ $Definition['Discussion Title'] = 'Tiotal a\' chòmhraidh';
 $Definition['Dismiss'] = 'Leig seachad';
 $Definition['Don\'t have an account? %s'] = 'Nach eil cunntas agad? %s';
 $Definition['Do you want to expire or delete this warning?'] = 'A bheil thu airson an rabhadh seo a sguabadh às no gum falbh an ùine air?';
+$Definition['Draft.Delete'] = 'Delete';
 $Definition['Draft saved at %s'] = 'Chaidh an dreachd a shàbhaladh air %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Slaod mu thimcheall is thoir meud ùr air a\' cheàrnag gu h-ìosal gus an dealbhag agad a shònrachadh.';
 

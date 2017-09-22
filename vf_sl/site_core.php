@@ -288,6 +288,7 @@ $Definition['Dismiss'] = 'Prekliči';
 $Definition['Don\'t announce.'] = 'Ne objavi';
 $Definition['Don\'t have an account? %s'] = 'Nimate računa? %s';
 $Definition['Do you want to expire or delete this warning?'] = 'Ali želite opozorilo izbrisati?';
+$Definition['Draft.Delete'] = 'Izbriši';
 $Definition['Draft saved at %s'] = 'Osnutek shranjen ob %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Povlecite in spremenite velikost kvadrata in tako določite svojo sličico.';
 

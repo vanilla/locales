@@ -422,6 +422,7 @@ $Definition['Don\'t have an account? %s'] = 'Nemáš účet? %s';
 $Definition['Download'] = 'Stáhnout';
 $Definition['Download the sounds as MP3'] = 'Stáhnout zvuky jako MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Chceš toto varování odstranit nebo nebo ho nechat expirovat?';
+$Definition['Draft.Delete'] = 'Smazat';
 $Definition['Draft saved at %s'] = 'Koncept uložen v %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Pro definici tvého náhledu uprav velikost plochy čtverce.';
 $Definition['Drop image/file'] = 'Přetáhni obrázek/soubor';

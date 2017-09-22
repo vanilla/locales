@@ -447,6 +447,7 @@ $Definition['Don\'t have an account? %s'] = 'حساب كاربري نداريد�
 $Definition['Download'] = 'دانلود';
 $Definition['Download the sounds as MP3'] = 'دانلود صداها به فرمت MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'آيا ميخواهيد اين هشدا را منقضي و يا حذف كنيد؟';
+$Definition['Draft.Delete'] = 'حذف';
 $Definition['Draft saved at %s'] = 'پيش نويس در %s ذخيره شد';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'براي تعريف آيكن بندانگشتي خود مربع زير را كشيده و تغيير اندازه دهيد.';
 $Definition['Drop image/file'] = 'انداختن تصوير / فايل';

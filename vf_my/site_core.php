@@ -176,6 +176,7 @@ $Definition['Dislike'] = 'မကြိုက်';
 $Definition['Dismiss'] = 'ပယ်ဖျက်';
 $Definition['Don\'t announce.'] = 'ကြေငြာထုတ် မထုတ်';
 $Definition['Don\'t have an account? %s'] = 'Account မရှိလျှင်? %s';
+$Definition['Draft.Delete'] = 'ဖျက်သည်။';
 $Definition['Draft saved at %s'] = 'စာကြမ်းကို %s တွင် သိမ်းထားသည်';
 
 $Definition['Earned'] = 'ရရှိသည်';

@@ -418,6 +418,7 @@ $Definition['Don\'t have an account? %s'] = 'Tidak mempunyai akaun? %s';
 $Definition['Download'] = 'Muat turun';
 $Definition['Download the sounds as MP3'] = 'Muat turun bunyi sebagai MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Adakah anda ingin meluputkan atau memadam amaran ini?';
+$Definition['Draft.Delete'] = 'Padam';
 $Definition['Draft saved at %s'] = 'Draf disimpan di %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Seret di sekeliling dan mengubah saiz kotak segi empat di bawah untuk menentukan ikon lakaran kecil anda.';
 $Definition['Drop image/file'] = 'Lepaskan imej / fail';

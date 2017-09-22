@@ -15,6 +15,7 @@ $Definition['Although the invitation was created successfully, the email failed 
 $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de nombreuses fonctionnalités à votre forum Vanilla.<br />
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type "non-confirmé" est nécessaire pour utiliser la confirmation mail.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'En cliquant le bouton ci-dessous, vous supprimez définitivement le compte utilisateur de %s.';
 
@@ -90,6 +91,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'M
 $Definition['Messages can appear anywhere in your application.'] = 'Les messages peuvent apparaître n\'importe où dans votre application, et peuvent être utilisés pour informer vos utilisateurs des nouvelles et des événements. Utilisez cette page pour réorganiser vos messages en les faisant glisser en haut ou en bas.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Notifiez-moi quand des personnes commenteront sur mes extensions.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Le site à besoin d\'un statut "non-confirmé" pour utiliser la confirmation mail. Merci d\'en ajouter un pour activer ce paramètre.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Veuillez choisir une méthode d\'authentification à configurer.';
 $Definition['PluginHelp'] = 'Les modules  complémentaires vous permettent d\'ajouter des fonctionnalités à votre site.<br />Une fois qu\'un module  complémentaire a été ajouté à votre dossier %s, vous pouvez l\'activer ou le désactiver ici.';

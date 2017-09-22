@@ -441,6 +441,7 @@ $Definition['Don\'t have an account? %s'] = 'Nemate nalog? %s';
 $Definition['Download'] = 'Preuzmite';
 $Definition['Download the sounds as MP3'] = 'Preuzmite melodije u formatu MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Želite li da ovo upozorenje istekne ili želite da ga obrišete?';
+$Definition['Draft.Delete'] = 'Obrišite';
 $Definition['Draft saved at %s'] = 'Skica sačuvana kao %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Prevuci i promeni veličinu kvadrata ispod da bi definisao svoj umanjeni prikaz slika.';
 $Definition['Drop image/file'] = 'Ubaci sliku/datoteku';

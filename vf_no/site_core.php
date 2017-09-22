@@ -414,6 +414,7 @@ $Definition['Don\'t have an account? %s'] = 'Har du ikke konto? %s';
 $Definition['Download'] = 'Last ned';
 $Definition['Download the sounds as MP3'] = 'Last ned lydene som MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Ønsker du å slette eller la advarselen utløpe?';
+$Definition['Draft.Delete'] = 'Slett';
 $Definition['Draft saved at %s'] = 'Utkast lagret på %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Dra rundt og endre størrelsen på plassen nedenfor for å definere ikonet.';
 $Definition['Drop image/file'] = 'Dropp bilde/fil';

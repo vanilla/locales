@@ -418,6 +418,7 @@ $Definition['Don\'t have an account? %s'] = 'Awunayo i-akhawunti? %s';
 $Definition['Download'] = 'Ehlisa';
 $Definition['Download the sounds as MP3'] = 'Ehlisa imisindo njenge-MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Ingabe ufuna ukuba lesi sixwayiso siphelelwe isikhathi noma ukusicisha?';
+$Definition['Draft.Delete'] = 'Cisha';
 $Definition['Draft saved at %s'] = 'Okusalungiswa kulondoloziwe njengokuthi %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Hudula bese ushintsha usayizi wesikwele ngezansi ukuze uchaze uphawu lwakho lwesithonjana.';
 $Definition['Drop image/file'] = 'Dedela umfanekiso/ifayela';

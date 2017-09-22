@@ -440,6 +440,7 @@ $Definition['Don\'t have an account? %s'] = '¿No tienes cuenta? %s';
 $Definition['Download'] = 'Descargar';
 $Definition['Download the sounds as MP3'] = 'Descargar los sonidos como MP3';
 $Definition['Do you want to expire or delete this warning?'] = '¿Quieres eliminar o que caduque esta advertencia? ';
+$Definition['Draft.Delete'] = 'Borrar';
 $Definition['Draft saved at %s'] = 'Borrador guardado en %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Arrastra y cambia el tamaño del cuadrado sobre la foto para definir tu icono thumbnail.';
 $Definition['Drop image/file'] = 'Sube imagen o archivo';

@@ -442,6 +442,7 @@ $Definition['Don\'t have an account? %s'] = 'Hesabınız yok mu? %s';
 $Definition['Download'] = 'İndir';
 $Definition['Download the sounds as MP3'] = 'Sesleri MP3 olarak indir';
 $Definition['Do you want to expire or delete this warning?'] = 'Bu uyarının süresini mi oldurmak istersin yoksa silmek mi?';
+$Definition['Draft.Delete'] = 'Sil';
 $Definition['Draft saved at %s'] = 'Taslak %s\'ye kaydedildi.';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Küçük resim simgesini belirlemek için aşağıdaki kareyi sürükleyin ve yeniden boyutlandırın.';
 $Definition['Drop image/file'] = 'Görsel/dosya bırak';

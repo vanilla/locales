@@ -290,6 +290,7 @@ $Definition['Dismiss'] = 'ख़ारिज करें';
 $Definition['Don\'t announce.'] = 'घोषित न करें।';
 $Definition['Don\'t have an account? %s'] = 'क्या आपके पास अकाउंट नहीं है? %s';
 $Definition['Do you want to expire or delete this warning?'] = 'क्या आप इस चेतावनी को समाप्त करना या हटाना चाहते हैं?';
+$Definition['Draft.Delete'] = 'हटाएं';
 $Definition['Draft saved at %s'] = 'ड्राफ्ट को %s पर सहेजा गया';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'अपना थंबनेल आइकॉन परिभाषित करने के लिए नीचे दिए गए चौकोर को खींचें और उसका माप बदलें।';
 

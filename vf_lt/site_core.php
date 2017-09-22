@@ -410,6 +410,7 @@ $Definition['Don\'t have an account? %s'] = 'Dar neturi paskyros?  %s';
 $Definition['Download'] = 'Atsiųsti';
 $Definition['Download the sounds as MP3'] = 'Atsiųsk garsą MP3 pavidalu';
 $Definition['Do you want to expire or delete this warning?'] = 'Ar šį perspėjimą pažymėti pasenusiu, ar pašalinti?';
+$Definition['Draft.Delete'] = 'Šalinti';
 $Definition['Draft saved at %s'] = 'Juodraštis išsaugotas kaip %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Apibrėžk sritį, kad nurodytum savo miniatūros dydį.';
 

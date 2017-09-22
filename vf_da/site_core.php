@@ -429,6 +429,7 @@ $Definition['Don\'t fold quotes'] = 'Undgå at folde citater';
 $Definition['Don\'t have an account? %s'] = 'Har du ikke en bruger? %s';
 $Definition['Download the sounds as MP3'] = 'Download lydene som MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Ønsker du at lade denne advarsel udløbe, eller vil du slette den?';
+$Definition['Draft.Delete'] = 'Slet';
 $Definition['Draft saved at %s'] = 'Kladde gemt %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Træk og juster firkanten nedenfor for at definere din thumbnail.';
 $Definition['Drop image/file'] = 'Slip billede/fil';

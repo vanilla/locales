@@ -445,6 +445,7 @@ $Definition['Don\'t have an account? %s'] = 'אין לך חשבון?';
 $Definition['Download'] = 'הורדה';
 $Definition['Download the sounds as MP3'] = 'הורידו את השמע לקובץ MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'אתה רוצה לפקוע או למחוק את ההזהרה הזאת?';
+$Definition['Draft.Delete'] = 'מחק';
 $Definition['Draft saved at %s'] = 'טיוטה נשמרה ב %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'גרור ושנה את הגודל של הריבוע למטה להגדיר את האייקון שלך';
 $Definition['Drop image/file'] = 'השלך תמונה/קובץ';

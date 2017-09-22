@@ -440,6 +440,7 @@ $Definition['Don\'t have an account? %s'] = 'Belum punya akun? %s';
 $Definition['Download'] = 'Unduh';
 $Definition['Download the sounds as MP3'] = 'Unduh audio sebagai MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Apakah anda ingin mengkadaluarsakan atau menghapus peringatan ini?';
+$Definition['Draft.Delete'] = 'Hapus';
 $Definition['Draft saved at %s'] = 'Draf disimpan pada %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Seret dan setel kotak di bawah ini untuk menetapkan icon thumbnail anda.';
 $Definition['Drop image/file'] = 'Lepas gambar/berkas';

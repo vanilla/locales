@@ -409,6 +409,7 @@ $Definition['Don\'t have an account? %s'] = 'Walang account? %s';
 $Definition['Download'] = 'I-download';
 $Definition['Download the sounds as MP3'] = 'I-download ang tunog bilang MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Nais mo bang mag-expire o tanggalin ang babalang ito?';
+$Definition['Draft.Delete'] = 'Burahin';
 $Definition['Draft saved at %s'] = 'Draft nai-save sa %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'I-drag sa paligid at baguhin ang laki ng plaza sa ibaba upang tukuyin ang iyong icon ng thumbnail.';
 $Definition['Drop image/file'] = 'I-hulog ang Larawan/file';

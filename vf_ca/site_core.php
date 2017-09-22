@@ -204,6 +204,7 @@ $Definition['Don\'t announce.'] = 'No anunciar.';
 $Definition['Don\'t have an account? %s'] = 'No tens un compte? %s';
 $Definition['Download'] = 'Descarregar';
 $Definition['Download the sounds as MP3'] = 'Descarregar els sons com a MP3';
+$Definition['Draft.Delete'] = 'Borrar';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Arrastra i canvia el tamany del quadre sobre la foto per a definir la teva icona en miniatura.';
 
 $Definition['Edit'] = 'Editar';

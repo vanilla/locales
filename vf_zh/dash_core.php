@@ -146,6 +146,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi，新�
 
 快来看看我新架设的论坛吧！这里也许是我们与他人在线交流最好的地方了。';
 $Definition['Choose a locale pack'] = '选择一个本地化包';
+$Definition['Choose Avatar'] = '选择头像';
 $Definition['Choose the preferred layout for the categories page.'] = '选择版块页面的首选布局。';
 $Definition['Choose the preferred layout for the discussions page.'] = '选择话题页面的首选布局。';
 $Definition['Choose who can send out invitations to new members:'] = '选择哪些用户可以邀请新用户。';
@@ -434,6 +435,7 @@ $Definition['Operation By'] = '由';
 $Definition['Organize'] = '组织';
 $Definition['Organize Categories'] = '版块管理';
 $Definition['Original Version'] = '原始版本';
+$Definition['Or select an image on your computer (2mb max)'] = '或在您的计算机中选择一张图片 (最大2MB) ';
 $Definition['Or Spamblock For'] = '否则阻止发布';
 $Definition['Other Themes'] = '其他可用主题';
 $Definition['Other Tutorials'] = '其他教程';

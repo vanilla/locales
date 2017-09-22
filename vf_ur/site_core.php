@@ -410,6 +410,7 @@ $Definition['Don\'t have an account? %s'] = 'ایک اکاؤنٹ نہیں ہے؟
 $Definition['Download'] = 'ڈاؤن لوڈ کریں';
 $Definition['Download the sounds as MP3'] = 'آواز کو MP3 میں ڈاؤن لوڈ کریں';
 $Definition['Do you want to expire or delete this warning?'] = 'کیا آپ اس کی میعاد ختم یا اس انتباہ کو حذف کرنا چاہتے ہیں؟';
+$Definition['Draft.Delete'] = 'حذف کریں';
 $Definition['Draft saved at %s'] = 'ڈرافٹ %s پر محفوظ کیا گیا';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'آپ کے تھمب نیل کا آئکن کی وضاحت کرنے کے لئے ذیل مربع کا سائز تبدیل کریں اور ارد گرد گھسیٹیں۔';
 $Definition['Drop image/file'] = 'تصویر/فائل ڈراپ کریں';

@@ -417,6 +417,7 @@ $Definition['Don\'t have an account? %s'] = 'Na ga o na akhaonte? %s';
 $Definition['Download'] = 'Taonelouta';
 $Definition['Download the sounds as MP3'] = 'Taonelouta medumo e le MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Na o nyaka go lahla goba go phumola temošo ye?';
+$Definition['Draft.Delete'] = 'Phumola';
 $Definition['Draft saved at %s'] = 'Tlhamo e bolokilwe e le %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Gogagoga gomme o fetoša bogolo ka mo tlase gore o hlalose seswantšho sa leswao la gago.';
 $Definition['Drop image/file'] = 'Tloša seswantšho/faele';

@@ -446,6 +446,7 @@ $Definition['Don\'t have an account? %s'] = '沒有帳號？ %s';
 $Definition['Download'] = '下載';
 $Definition['Download the sounds as MP3'] = '以 MP3 格式下載聲音';
 $Definition['Do you want to expire or delete this warning?'] = '確定要將這個警告刪除或設定為過期？';
+$Definition['Draft.Delete'] = '刪除';
 $Definition['Draft saved at %s'] = '草稿儲存於 %s ';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = '拖動並縮放下面的方塊，確定圖示範圍';
 $Definition['Drop image/file'] = '將圖片／文件丟到垃圾桶';

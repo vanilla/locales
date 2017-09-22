@@ -437,6 +437,7 @@ $Definition['Don\'t have an account? %s'] = 'アカウントをお持ちです�
 $Definition['Download'] = 'ダウンロード';
 $Definition['Download the sounds as MP3'] = '音声をMP3としてダウンロードする';
 $Definition['Do you want to expire or delete this warning?'] = 'この警告を終了または削除しますか?';
+$Definition['Draft.Delete'] = '削除';
 $Definition['Draft saved at %s'] = '下書きを%sに保存しました';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'サムネイルアイコンを定義するには下の四角をドラッグして点線で囲み、リサイズしてください。';
 $Definition['Drop image/file'] = '画像/ファイルをドロップする';

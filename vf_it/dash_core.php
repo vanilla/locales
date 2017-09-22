@@ -120,6 +120,7 @@ $Definition['Begin At'] = 'Comincia A';
 $Definition['Below Sidebar'] = 'Di seguito la barra laterale';
 $Definition['Blocked'] = 'Bloccato';
 $Definition['Blog Comments'] = 'Commenti sul blog';
+$Definition['Bookmark a discussion using its star icon.'] = 'Segnalire una discussione utilizzando la sua icona della stella.';
 $Definition['Browse Addons'] = 'Dai un\'occhiata alle estensioni';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Carica un nuovo logo banner dal tuo PC:';
 $Definition['Button Background Color'] = 'Bottone del colore di sfondo';
