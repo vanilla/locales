@@ -146,6 +146,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = '¡Hola am
 
 Mira la nueva comunidad que cree. Es un lugar increíble para tener conversaciones en línea.';
 $Definition['Choose a locale pack'] = 'Elige un Pack de Lenguaje Local';
+$Definition['Choose Avatar'] = 'Elige Avatar';
 $Definition['Choose the preferred layout for the categories page.'] = 'Elige un layout para la página de categorías.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Elige un layout para la página de conversaciones';
 $Definition['Choose who can send out invitations to new members:'] = 'Elige quién puede enviar invitaciones a nuevos miembros:';
@@ -495,6 +496,7 @@ $Definition['Run structure & data scripts'] = 'Estructura y Data Scripts';
 
 $Definition['Save Captured Definitions'] = 'Definiciones capturadas guardadas ';
 $Definition['Save Colors'] = 'Guardar colores';
+$Definition['Search by user or role.'] = 'Busca usuarios por nombre o email, opcionalmente usando % como un comodín. También puedes buscarlos por su ID de usuario, el nombre de un rol, o &ldquo;banned&rdquo;.';
 $Definition['seconds'] = 'segundos';
 $Definition['Security'] = 'Seguridad';
 $Definition['Select'] = 'Seleccionar';

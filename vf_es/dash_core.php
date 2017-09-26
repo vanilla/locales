@@ -146,6 +146,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = '¡Hola!
 
 Echa un vistazo al nuevo foro comunitario que acabo de crear. Es un sitio perfecto para charlar online.';
 $Definition['Choose a locale pack'] = 'Elegir un "locale pack"';
+$Definition['Choose Avatar'] = 'Elige Avatar';
 $Definition['Choose the preferred layout for the categories page.'] = 'Elige el diseño preferido para la página de categorías.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Elige el diseño preferido para la página de discusiones.';
 $Definition['Choose who can send out invitations to new members:'] = 'Elige quién puede enviar invitaciones a nuevos miembros:';
@@ -435,6 +436,7 @@ $Definition['Operation By'] = 'Por';
 $Definition['Organize'] = 'Organizar ';
 $Definition['Organize Categories'] = 'Organizar Categorías ';
 $Definition['Original Version'] = 'Versión Original';
+$Definition['Or select an image on your computer (2mb max)'] = 'O selecciona una imagen de tu ordenador (2mb max)';
 $Definition['Or Spamblock For'] = 'O bloquéalo (spamblock) durante';
 $Definition['Other Themes'] = 'Otros temas';
 $Definition['Other Tutorials'] = 'Otros Tutoriales ';
@@ -497,6 +499,7 @@ $Definition['Run structure & data scripts'] = 'Ejecutar scripts de estructura y 
 
 $Definition['Save Captured Definitions'] = 'Definiciones capturadas guardadas ';
 $Definition['Save Colors'] = 'Guardar colores';
+$Definition['Search by user or role.'] = 'Busca usuarios por nombre o email, opcionalmente usando % como un comodín. También puedes buscarlos por su ID de usuario, el nombre de un rol, o &ldquo;banned&rdquo;.';
 $Definition['seconds'] = 'segundos';
 $Definition['Security'] = 'Seguridad';
 $Definition['Select'] = 'Seleccionar';
