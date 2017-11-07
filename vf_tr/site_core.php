@@ -98,7 +98,7 @@ $Definition['%s viewing'] = '%s kişi görüntülüyor';
 $Definition['%s views'] = '%s görüntülenme';
 $Definition['%s views html'] = '%s görüntülenme';
 $Definition['%s votes'] = '%s oy';
-$Definition['%s was removed from the %s and added to the %s'] = '%s %s\'den silinip %s\'ye eklendi';
+$Definition['%s was removed from the %s and added to the %s'] = '%s, %s\'den silinip %s\'ye eklendi';
 $Definition['%s week'] = '%s hafta';
 $Definition['%s weeks'] = '%s hafta';
 $Definition['%s year'] = '%s yıl';
@@ -119,7 +119,7 @@ $Definition['1 message'] = '1 mesaj';
 $Definition['<General Error>'] = '<Genel Hata>';
 
 $Definition['[%1$s] Membership Approved'] = '[%1$s] Üyelik Onaylandı';
-$Definition['[%s] Welcome Aboard!'] = '[%s] Aramıza Hoşgeldin!';
+$Definition['[%s] Welcome Aboard!'] = '[%s] Aramıza Hoş Geldin!';
 $Definition['[Deleted User]'] = '[Silinen Kullanıcı]';
 
 $Definition['About'] = 'Hakkında';
