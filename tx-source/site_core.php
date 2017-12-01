@@ -858,6 +858,7 @@ $Definition['Most recent by %1$s'] = 'Most recent by %1$s';
 $Definition['Most Recent Comment'] = 'Most Recent Comment';
 $Definition['Most recent discussion'] = 'Most recent discussion';
 $Definition['Move'] = 'Move';
+$Definition['Moved: %s'] = 'Moved: %s';
 $Definition['Mute'] = 'Mute';
 $Definition['MyBadgesModuleTitle'] = 'My Badges';
 $Definition['My Bookmarks'] = 'My Bookmarks';
