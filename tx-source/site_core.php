@@ -1380,6 +1380,8 @@ $Definition['Twitter Settings'] = 'Twitter Settings';
 $Definition['Type'] = 'Type';
 $Definition['Type the text:'] = 'Type the text:';
 $Definition['Type what you hear:'] = 'Type what you hear:';
+$Definition['Type your comment'] = 'Type your comment';
+$Definition['Type your message'] = 'Type your message';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Unable to send message, %s is ignoring you.';
 $Definition['Unannounce'] = 'Unannounce';
