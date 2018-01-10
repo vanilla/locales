@@ -13,6 +13,7 @@ $Definition['AddonProblems'] = '<h2>مشاكل؟</h2><p> إذا حدث خلل م
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'كل الأقسام المختارة مع عرض 5 مواضيع حديثة تحت كل منها';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'على الرغم بأن الدعوة قد تم تكوينها بنجاح إلا أن فشلت في الوصول. لقد حصل الخلل التالي: %s';
 $Definition['ApplicationHelp'] = 'التطبيقات تسمح لك بإضافة مجموعة كبيرة من الإمكانيات للموقع.<br>عند إضافة تطبيق إلى ملف %s ، يمكنك تنشيطه أو تعطيله هنا.';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'يجب إضافة مجموعة "غير مفعل" كمجموعة افتراضية كي تستخدم لتفعيل البريد الإلكتروني.';
 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'اختر مجموعة يضم لها الأعضاء الذين بلا مجموعة:';

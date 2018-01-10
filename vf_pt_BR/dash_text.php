@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Embora o convite tenha sido criado com sucesso, o e-mail falhou ao ser enviado. O servidor relatou o seguinte erro: %s';
 $Definition['ApplicationHelp'] = 'Aplicações permitem que você adicione amplos grupos de funcionalidade ao seu site.<br />Uma vez que a aplicação for adicionada à pasta %s, você poderá habilitá-la aqui.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Você tem certeza de que digitou o nome do host do banco de dados corretamente? Talvez você tenha se equivocado. O banco de dados reportou: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Uma função (role) com valor "não-confirmado" é necessária para usar confirmação de email.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ao clicar no botão abaixo, você excluirá a conta de %s para sempre.';
 
@@ -89,6 +90,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'M
 $Definition['Messages can appear anywhere in your application.'] = 'Mensagens podem aparecer em qualquer lugar de sua aplicação, e podem ser usadas para informar usuários de novidades e eventos. Use esta página para organizar as mensagens movendo-as para cima ou para baixo.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Notifique-me quando pessoas comentarem em meus complementos.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'O site precisa de uma função (role) com o valor "não-confirmado" para usar confirmação de email. Por favor adicione uma para habilitar esta opção.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Por favor, escolha um autenticador para configurar.';
 $Definition['PluginHelp'] = 'Complementos permitem que você inclua novas funcionalidades ao seu fórum.<br />Uma vez adicionados à pasta %s, você poderá habilitá-los ou desabilitá-los aqui.';

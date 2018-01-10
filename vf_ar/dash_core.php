@@ -109,6 +109,7 @@ $Definition['Change your banner'] = 'تغير البنر';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'مرحباً يا صديقي!
 
 تحقّق من المنتدى الجديد للمجتمع الذي قمت بإنشائه للتو. إنه مكان رائع بالنسبة لنا للدردشة مع بعضنا البعض عبر الإنترنت.';
+$Definition['Choose Avatar'] = 'اختر صورة شخصية';
 $Definition['comment(s)'] = 'تعليقات';
 $Definition['Comment  Body'] = 'نص التعليق';
 $Definition['Comments Page'] = 'صفحة التعليقات';
@@ -175,6 +176,7 @@ $Definition['Notes'] = 'ملاحظات';
 $Definition['Notifications will appear here.'] = 'الإشعارات ستظهر هنا.';
 
 $Definition['Operation By'] = 'بواسطة';
+$Definition['Or select an image on your computer (2mb max)'] = 'أو اختر صورة من جهازك (الحد الأقصى 2MB).';
 $Definition['Outgoing Email'] = 'البريد الصادر';
 $Definition['Outgoing Email Address'] = 'عنوان البريد الصادر';
 
@@ -201,6 +203,7 @@ $Definition['Reveal Password'] = 'كشف كلمة المرور';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Save Colors'] = 'حفظ الألوان';
+$Definition['Search by user or role.'] = 'ابحث عن الأعضاء باستخدام الاسم أو البريد الإلكتروني، وكذلك بإمكانك استخدام % كبدل. وكذلك بإمكانك البحث باستخدام رقم العضوية، اسم المجموعة أو &ldquo;محظور&rdquo;.';
 $Definition['seconds'] = 'ثواني';
 $Definition['Security'] = 'الأمان';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'أرسل رسالة تأكيد عند يسأل أحدهم سؤال أو يبدأ محادثة عبر البريد.';
