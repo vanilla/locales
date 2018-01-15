@@ -14,3 +14,4 @@ Makefile.in
 tx/*
 .idea
 .phpintel
+.DS_Store
