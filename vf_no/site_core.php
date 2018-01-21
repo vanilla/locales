@@ -815,6 +815,7 @@ $Definition['Most recent by %1$s'] = 'Nyeste av %1$s';
 $Definition['Most Recent Comment'] = 'Siste kommentar';
 $Definition['Most recent discussion'] = 'Nyligste diskusjon';
 $Definition['Move'] = 'Flytt';
+$Definition['Moved: %s'] = 'Flyttet: %s';
 $Definition['Mute'] = 'Demp';
 $Definition['MyBadgesModuleTitle'] = 'Mine skilt';
 $Definition['My Bookmarks'] = 'Mine bokmerker';
@@ -1306,6 +1307,8 @@ $Definition['Twitter Settings'] = 'Twitter-innstillinger';
 $Definition['Type'] = 'Condition Type';
 $Definition['Type the text:'] = 'Skriv teksten:';
 $Definition['Type what you hear:'] = 'Skriv det du hører:';
+$Definition['Type your comment'] = 'Skriv kommentaren din';
+$Definition['Type your message'] = 'Skriv meldingen din';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Klarer ikke å sende melding, %s ignorerer deg. ';
 $Definition['Unannounce'] = 'Fjern kunngjøring';

@@ -850,6 +850,7 @@ $Definition['Most recent by %1$s'] = 'En son %1$s tarafından';
 $Definition['Most Recent Comment'] = 'En Son Yorum';
 $Definition['Most recent discussion'] = 'En güncel tartışma';
 $Definition['Move'] = 'Taşı';
+$Definition['Moved: %s'] = 'Taşındı: %s';
 $Definition['Mute'] = 'Sustur';
 $Definition['MyBadgesModuleTitle'] = 'Rozetlerim';
 $Definition['My Bookmarks'] = 'Yer İşaretlerim';
@@ -1350,6 +1351,8 @@ $Definition['Twitter Settings'] = 'Twitter Ayarları';
 $Definition['Type'] = 'Tür';
 $Definition['Type the text:'] = 'Metni yaz:';
 $Definition['Type what you hear:'] = 'Duyduğunu yaz:';
+$Definition['Type your comment'] = 'Yorumunuzu yazın';
+$Definition['Type your message'] = 'Mesajınızı yazın';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Mesaj gönderilemedi, %s seni görmezden geliyor.';
 $Definition['Unannounce'] = 'Anonsu Geri Al';

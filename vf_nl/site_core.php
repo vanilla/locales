@@ -850,6 +850,7 @@ $Definition['Most recent by %1$s'] = 'Meest recent door %1$s';
 $Definition['Most Recent Comment'] = 'Laatste reactie';
 $Definition['Most recent discussion'] = 'Meest recente discussie';
 $Definition['Move'] = 'Verplaatsen';
+$Definition['Moved: %s'] = 'Verplaatst: %s';
 $Definition['Mute'] = 'Dempen';
 $Definition['MyBadgesModuleTitle'] = 'Mijn Badges';
 $Definition['My Bookmarks'] = 'Mijn Bladwijzers';
@@ -1342,6 +1343,8 @@ $Definition['Turn ON'] = 'Zet AAN';
 $Definition['Twitter Settings'] = 'Twitter Instellingen';
 $Definition['Type the text:'] = 'Type de tekst:';
 $Definition['Type what you hear:'] = 'Type wat u hoort:';
+$Definition['Type your comment'] = 'Type je opmerking';
+$Definition['Type your message'] = 'Type je bericht';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Bericht kan niet verzonden worden, %s negeert je.';
 $Definition['Unannounce'] = 'Niet Aankondigen';

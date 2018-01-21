@@ -1305,6 +1305,8 @@ $Definition['Twitter Settings'] = 'Paramètres Twitter';
 $Definition['Type'] = 'Écrire';
 $Definition['Type the text:'] = 'Tapez le texte :';
 $Definition['Type what you hear:'] = 'Tapez ce que vous entendez :';
+$Definition['Type your comment'] = 'Saisissez votre commentaire';
+$Definition['Type your message'] = 'Saisissez votre message';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Impossible d\'envoyer un message, %s vous ignore.';
 $Definition['Unannounce'] = 'Désannoncer';

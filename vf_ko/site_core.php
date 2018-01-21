@@ -834,6 +834,7 @@ $Definition['Most recent by %1$s'] = '%1$s의 최근 활동';
 $Definition['Most Recent Comment'] = '가장 최근 코멘트';
 $Definition['Most recent discussion'] = '가장 최근의 토론';
 $Definition['Move'] = '이동';
+$Definition['Moved: %s'] = '이동: %s';
 $Definition['Mute'] = '알림 끄기';
 $Definition['MyBadgesModuleTitle'] = '내 배지들';
 $Definition['My Bookmarks'] = '내 즐겨찾기';
@@ -1327,6 +1328,8 @@ $Definition['Twitter Settings'] = '트위터 설정';
 $Definition['Type'] = '입력';
 $Definition['Type the text:'] = '텍스트를 입력하세요:';
 $Definition['Type what you hear:'] = '들은 것을 입력하세요:';
+$Definition['Type your comment'] = '댓글을 입력하세요. ';
+$Definition['Type your message'] = '메시지를 입력하세요.';
 
 $Definition['Unable to send message, %s is ignoring you.'] = '메시지를 보낼 수 없습니다. %s이(가) 귀하를 무시하고 있습니다.';
 $Definition['Unannounce'] = '발표 없음';

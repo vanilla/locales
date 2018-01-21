@@ -148,6 +148,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Hey!
 
 Schau dir das neue Forum an, das ich gerade eingerichtet habe. Es ist ein super Ort, um uns gemeinsam auszutauschen.';
 $Definition['Choose a locale pack'] = 'Wähle eine Lokalisierung';
+$Definition['Choose Avatar'] = 'Wähle einen Avatar';
 $Definition['Choose the preferred layout for the categories page.'] = 'Wähle das bevorzugte Layout für die Kategorien-Seite.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Wähle das bevorzugte Layout für die Diskussions-Seite.';
 $Definition['Choose who can send out invitations to new members:'] = 'Wähle wer Einladungen an neue Mitglieder versenden kann:';
@@ -437,6 +438,7 @@ $Definition['Operation By'] = 'Von';
 $Definition['Organize'] = 'Anordnen';
 $Definition['Organize Categories'] = 'Kategorien sortieren';
 $Definition['Original Version'] = 'Originalversion';
+$Definition['Or select an image on your computer (2mb max)'] = 'Wähle ein Bild auf deinem Computer aus (max. 2 MB)';
 $Definition['Or Spamblock For'] = 'oder blocke für';
 $Definition['Other Themes'] = 'Andere Themes';
 $Definition['Other Tutorials'] = 'Andere Tutorials';

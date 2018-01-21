@@ -844,6 +844,7 @@ $Definition['Most recent by %1$s'] = 'Останнє від %1$s';
 $Definition['Most Recent Comment'] = 'Останній коментар';
 $Definition['Most recent discussion'] = 'Останнє обговорення';
 $Definition['Move'] = 'Перемістити';
+$Definition['Moved: %s'] = 'Переміщено: %s';
 $Definition['MyBadgesModuleTitle'] = 'Мої значки';
 $Definition['My Bookmarks'] = 'Мої закладки';
 $Definition['My Discussions'] = 'Мої обговорення';
@@ -1344,6 +1345,8 @@ $Definition['Twitter Settings'] = 'Налаштування Twitter';
 $Definition['Type'] = 'Тип';
 $Definition['Type the text:'] = 'Введіть текст:';
 $Definition['Type what you hear:'] = 'Запишіть, що ви чуєте:';
+$Definition['Type your comment'] = 'Напишіть Ваш коментар';
+$Definition['Type your message'] = 'Напишіть Ваше повідомлення';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Неможливо надіслати повідомлення, %s ігнорує вас.';
 $Definition['Unannounce'] = 'Не оголошення';

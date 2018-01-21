@@ -782,6 +782,7 @@ $Definition['Most recent by %1$s'] = 'Pinakabago ni %1$s';
 $Definition['Most Recent Comment'] = 'Pinakabagong Komento';
 $Definition['Most recent discussion'] = 'Ang Pinakabagong Talakayan';
 $Definition['Move'] = 'Ilipat';
+$Definition['Moved: %s'] = 'Nailipat sa:';
 $Definition['Mute'] = 'I-mute';
 $Definition['MyBadgesModuleTitle'] = 'Ang Aking Mga Badge';
 $Definition['My Bookmarks'] = 'Ang Aking Mga Bookmark';
@@ -1241,6 +1242,8 @@ $Definition['Twitter Settings'] = 'Mga Setting ng Twitter';
 $Definition['Type'] = 'I-type';
 $Definition['Type the text:'] = 'I-type ang text:';
 $Definition['Type what you hear:'] = 'I-type kung ano ang iyong narinig:';
+$Definition['Type your comment'] = 'I-type ang iyong komento';
+$Definition['Type your message'] = 'I-type ang iyong mensahe';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Hindi makapagpadala ng mensahe, hindi ka pinapansin ni %s.';
 $Definition['Unannounce'] = 'Hindi naipatalastas';

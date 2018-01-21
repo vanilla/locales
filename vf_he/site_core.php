@@ -858,6 +858,7 @@ $Definition['Most recent by %1$s'] = 'הודעה אחרונה על ידי %1$s';
 $Definition['Most Recent Comment'] = 'התגובה האחרונה ביותר';
 $Definition['Most recent discussion'] = 'השיחות האחרונות ביותר';
 $Definition['Move'] = 'להזיז';
+$Definition['Moved: %s'] = 'זזו: %s';
 $Definition['Mute'] = 'השתקה';
 $Definition['MyBadgesModuleTitle'] = 'התגים שלי';
 $Definition['My Bookmarks'] = 'הסימניות שלי';
@@ -1384,6 +1385,8 @@ $Definition['Twitter Settings'] = 'הגדרות טוויטר';
 $Definition['Type'] = 'סוג';
 $Definition['Type the text:'] = 'הקלידו את הטקסט:';
 $Definition['Type what you hear:'] = 'הקלידו את מה שאתם שומעים:';
+$Definition['Type your comment'] = 'הקלד/י את תגובתך';
+$Definition['Type your message'] = 'הקלד/י את הודעתך';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'לא ניתן לשלוח הודעה, %s מתעלם ממך.';
 $Definition['Unannounce'] = 'הסר הכרזה';

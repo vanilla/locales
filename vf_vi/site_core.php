@@ -853,6 +853,7 @@ $Definition['Most recent by %1$s'] = '%1$s mới mở';
 $Definition['Most Recent Comment'] = 'Bình luận mới nhất';
 $Definition['Most recent discussion'] = 'Thảo luận gần đây nhất';
 $Definition['Move'] = 'Di chuyển';
+$Definition['Moved: %s'] = 'Đã chuyển: %s';
 $Definition['Mute'] = 'Tắt tiếng';
 $Definition['MyBadgesModuleTitle'] = 'Huy hiệu';
 $Definition['My Bookmarks'] = 'Theo dõi';
@@ -1359,6 +1360,8 @@ $Definition['Twitter Settings'] = 'Thiết lập Twitter';
 $Definition['Type'] = 'Loại';
 $Definition['Type the text:'] = 'Gõ văn bản:';
 $Definition['Type what you hear:'] = 'Gõ những gì bạn nghe:';
+$Definition['Type your comment'] = 'Nhập bình luận của bạn';
+$Definition['Type your message'] = 'Nhập tin nhắn của bạn';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Không thể gửi tin nhắn, %s đang phớt lờ bạn.';
 $Definition['Unannounce'] = 'Gỡ chú ý';

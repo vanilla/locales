@@ -845,6 +845,7 @@ $Definition['Most recent by %1$s'] = 'Senaste av %1$s';
 $Definition['Most Recent Comment'] = 'Senaste kommentar';
 $Definition['Most recent discussion'] = 'Senaste diskussion';
 $Definition['Move'] = 'Referens';
+$Definition['Moved: %s'] = 'Flyttad: %s';
 $Definition['Mute'] = 'Stäng av ljud';
 $Definition['MyBadgesModuleTitle'] = 'Mina Emblem';
 $Definition['My Bookmarks'] = 'Mina bokmärken';
@@ -1355,6 +1356,8 @@ $Definition['Twitter Settings'] = 'Inställningar för Twitter';
 $Definition['Type'] = 'Typ';
 $Definition['Type the text:'] = 'Skriv texten:';
 $Definition['Type what you hear:'] = 'Skriv vad du hör:';
+$Definition['Type your comment'] = 'Skriv din kommentar';
+$Definition['Type your message'] = 'Skriv ditt meddelande';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Meddelandet kunde inte sändas, %s ignorerar dig. ';
 $Definition['Unannounce'] = 'Ta bort tillkännagivande';

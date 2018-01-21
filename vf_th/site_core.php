@@ -847,6 +847,7 @@ $Definition['Most recent by %1$s'] = 'ล่าสุดโดย %1$s';
 $Definition['Most Recent Comment'] = 'ความเห็นล่าสุด';
 $Definition['Most recent discussion'] = 'กระทู้ล่าสุด';
 $Definition['Move'] = 'เคลื่อนย้าย';
+$Definition['Moved: %s'] = 'ย้ายแล้ว: %s';
 $Definition['Mute'] = 'ปิดเสียง';
 $Definition['MyBadgesModuleTitle'] = 'แบดจ์ของฉัน';
 $Definition['My Bookmarks'] = 'ที่คั่นหน้าของฉัน';
@@ -1366,6 +1367,8 @@ $Definition['Twitter Settings'] = 'ตั้งค่า Twitter';
 $Definition['Type'] = 'Condition Type';
 $Definition['Type the text:'] = 'กรอกข้อความ:';
 $Definition['Type what you hear:'] = 'กรอกตามที่คุณได้ยิน:';
+$Definition['Type your comment'] = 'พิมพ์ความคิดเห็นของคุณ';
+$Definition['Type your message'] = 'พิมพ์ข้อความของคุณ';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'ส่งข้อความไม่ได้ เนื่องจาก %s ตั้งเป็นไม่สนใจคุณ';
 $Definition['Unannounce'] = 'ยกเลิกประกาศ';

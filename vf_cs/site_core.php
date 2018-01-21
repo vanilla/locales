@@ -825,6 +825,7 @@ $Definition['Most recent by %1$s'] = 'Poslední komentář napsal(a) %1$s';
 $Definition['Most Recent Comment'] = 'Poslední komentář';
 $Definition['Most recent discussion'] = 'Nejnovější diskuze';
 $Definition['Move'] = 'Přesunout';
+$Definition['Moved: %s'] = 'Přesunuto: %';
 $Definition['Mute'] = 'Vypnout zvuk';
 $Definition['MyBadgesModuleTitle'] = 'Moje odznaky';
 $Definition['My Bookmarks'] = 'Záložky';
@@ -1309,6 +1310,8 @@ $Definition['Twitter Settings'] = 'Nastavení Twitteru';
 $Definition['Type'] = 'Druh';
 $Definition['Type the text:'] = 'Napiš text:';
 $Definition['Type what you hear:'] = 'Napiš, co slyšíš:';
+$Definition['Type your comment'] = 'Napište svůj komentář';
+$Definition['Type your message'] = 'Napište svou zprávu';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Nelze odeslat zprávu, %s tě ignoruje.';
 $Definition['Unannounce'] = 'Smazat oznámení';

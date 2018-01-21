@@ -841,6 +841,7 @@ $Definition['Most recent by %1$s'] = 'Più recente di %1$s';
 $Definition['Most Recent Comment'] = 'Commenti Più Recenti';
 $Definition['Most recent discussion'] = 'Discussione più recente';
 $Definition['Move'] = 'Sposta';
+$Definition['Moved: %s'] = 'Spostato: %s';
 $Definition['Mute'] = 'Silenzia';
 $Definition['MyBadgesModuleTitle'] = 'I miei badge';
 $Definition['My Bookmarks'] = 'I Miei Preferiti';
@@ -1345,6 +1346,8 @@ $Definition['Twitter Settings'] = 'Impostazioni di Twitter';
 $Definition['Type'] = 'Scrivi';
 $Definition['Type the text:'] = 'Scrivi il testo:';
 $Definition['Type what you hear:'] = 'Trascrivi ciò che senti:';
+$Definition['Type your comment'] = 'Scrivi il tuo commento';
+$Definition['Type your message'] = 'Scrivi il tuo messaggio';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Impossibile inviare il messaggio, %s ti sta ignorando.';
 $Definition['Unannounce'] = 'Togli annuncio';

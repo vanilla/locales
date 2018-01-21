@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Obwohl die Einladung erfolgreich erstellt wurde, konnte die E-Mail nicht versandt werden. Der Server meldet: %s';
 $Definition['ApplicationHelp'] = 'Applikationen erlauben es Ihnen, große Gruppen von Funktionen zu Ihrer Seite hinzuzufügen.<br />Sobald eine Applikation zu Ihrem %s Ordner hinzugefügt wurde, können Sie sie hier an- und ausschalten.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Bist du dir sicher, dass du den korrekten Namen des Datenbank-Hosts eingegeben hast? Vielleicht hast du dich vertippt? Die Datenbank antwortete: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Eine Rolle mit dem Standardtyp "unbestätigt" ist erforderlich, um die E-Mail-Bestätigung zu verwenden.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Durch Drücken des unten stehenden Buttons wird das Konto von %s unwiederbringlich gelöscht.';
 
@@ -89,6 +90,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'W
 $Definition['Messages can appear anywhere in your application.'] = 'Nachrichten können überall in der Anwendung angezeigt werden, um die Nutzer bspw. über Neuigkeiten zu informieren. Nutze diese Seite, um sie per drag and drop zu verwalten.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Benachrichtige mich, wenn jemand meine Addons kommentiert.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Die Website benötigt eine Rolle mit dem Standardtyp "unbestätigt", um die E-Mail-Bestätigung zu verwenden. Bitte fügen Sie einen hinzu, um diese Einstellung zu aktivieren.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Wähle ein Authentifizierungs-Plugin zum Konfigurieren.';
 $Definition['PluginHelp'] = 'Plugins ermöglichen es Ihnen, weitere Funktionalitäten zu Ihrer Seite hinzuzufügen. <br />Wenn ein Plugin zu Ihrem %s Ordner hinzugefügt wurde, können Sie es hier ein- oder ausschalten. ';

@@ -836,6 +836,7 @@ $Definition['Most recent by %1$s'] = 'Terkini oleh %1$s';
 $Definition['Most Recent Comment'] = 'Komentar Terbaru';
 $Definition['Most recent discussion'] = 'Diskusi terbaru';
 $Definition['Move'] = 'Pindah';
+$Definition['Moved: %s'] = 'Dipindahkan: %s';
 $Definition['Mute'] = 'Senyapkan';
 $Definition['MyBadgesModuleTitle'] = 'Lencana Saya';
 $Definition['My Bookmarks'] = 'Bookmark Saya';
@@ -1345,6 +1346,8 @@ $Definition['Twitter Settings'] = 'Setelan Twitter';
 $Definition['Type'] = 'Tipe Kondisi';
 $Definition['Type the text:'] = 'Ketikkan teksnya:';
 $Definition['Type what you hear:'] = 'Ketikkan apa yang Anda dengar:';
+$Definition['Type your comment'] = 'Ketik komentar Anda ';
+$Definition['Type your message'] = 'Ketik pesan Anda';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Gagal mengirim pesan, %s mengabaikan Anda.';
 $Definition['Unannounce'] = 'Tidak umumkan';

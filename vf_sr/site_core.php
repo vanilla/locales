@@ -846,6 +846,7 @@ $Definition['Most recent by %1$s'] = 'Najnoviji od %1$s';
 $Definition['Most Recent Comment'] = 'Najnoviji komentar';
 $Definition['Most recent discussion'] = 'Najskorija diskusija';
 $Definition['Move'] = 'Premesti';
+$Definition['Moved: %s'] = 'Pomereno: %s';
 $Definition['Mute'] = 'Prigušiti ton';
 $Definition['MyBadgesModuleTitle'] = 'Moje značke';
 $Definition['My Bookmarks'] = 'Moji omiljeni';
@@ -1347,6 +1348,8 @@ $Definition['Twitter Settings'] = 'Podešavanja Tvitera';
 $Definition['Type'] = 'Tip';
 $Definition['Type the text:'] = 'Ukucaj tekst:';
 $Definition['Type what you hear:'] = 'Otkucajte šta čujete:';
+$Definition['Type your comment'] = 'Ukucajte svoj komentar';
+$Definition['Type your message'] = 'Ukucajte svoju poruku';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Poruka ne može da se pošalje, %s vas ignoriše.';
 $Definition['Unannounce'] = 'Otkaži obaveštenje';

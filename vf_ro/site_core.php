@@ -837,6 +837,7 @@ $Definition['Most recent by %1$s'] = 'Cele mai recente de %1$s';
 $Definition['Most Recent Comment'] = 'Cel mai recent comentariu';
 $Definition['Most recent discussion'] = 'Cea mai recentă discuție';
 $Definition['Move'] = 'Mutați';
+$Definition['Moved: %s'] = 'Mutat: %s';
 $Definition['Mute'] = 'Dezactivare sunet';
 $Definition['MyBadgesModuleTitle'] = 'Insignele mele';
 $Definition['My Bookmarks'] = 'Favoritele mele';
@@ -1370,6 +1371,8 @@ $Definition['Twitter Settings'] = 'Setări Twitter';
 $Definition['Type'] = 'Condition Type';
 $Definition['Type the text:'] = 'Introduceți textul:';
 $Definition['Type what you hear:'] = 'Introduceți ceea ce auziți:';
+$Definition['Type your comment'] = 'Scrieți comentariul';
+$Definition['Type your message'] = 'Scrieți mesajul';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Imposibil de a trimite mesajul, %s vă ignoră';
 $Definition['Unannounce'] = 'Neimportant';

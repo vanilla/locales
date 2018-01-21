@@ -886,6 +886,7 @@ $Definition['Most recent by %1$s'] = 'Последний от %1$s';
 $Definition['Most Recent Comment'] = 'Последний комментарий';
 $Definition['Most recent discussion'] = 'Последняя дискуссия';
 $Definition['Move'] = 'Переместить';
+$Definition['Moved: %s'] = 'Перенесено: %s';
 $Definition['Mute'] = 'Отключить уведомления';
 $Definition['MyBadgesModuleTitle'] = 'Мои значки';
 $Definition['My Bookmarks'] = 'Закладки';
@@ -1429,6 +1430,8 @@ $Definition['Twitter Settings'] = 'Настройки входа через Twit
 $Definition['Type'] = 'Тип';
 $Definition['Type the text:'] = 'Введите текст:';
 $Definition['Type what you hear:'] = 'Введите, то что слышите:';
+$Definition['Type your comment'] = 'Введите свой комментарий';
+$Definition['Type your message'] = 'Введите свое сообщение';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Невозможно послать сообщение, %s игнорирует вас.';
 $Definition['Unannounce'] = 'Деанонсировать';

@@ -855,6 +855,7 @@ $Definition['Most recent by %1$s'] = '最新の %1$s';
 $Definition['Most Recent Comment'] = '一番最近のコメント';
 $Definition['Most recent discussion'] = '最も最近のディスカッション';
 $Definition['Move'] = '移動';
+$Definition['Moved: %s'] = '以下を移動させました: %s';
 $Definition['Mute'] = '消音';
 $Definition['MyBadgesModuleTitle'] = 'わたしのバッジ';
 $Definition['My Bookmarks'] = 'フォロー中のディスカッション';
@@ -1360,6 +1361,8 @@ $Definition['Twitter Settings'] = 'Twitter 設定';
 $Definition['Type'] = 'タイプ';
 $Definition['Type the text:'] = '文章をタイプしてください';
 $Definition['Type what you hear:'] = '聞いた内容を入力してください';
+$Definition['Type your comment'] = 'コメントを入力して下さい';
+$Definition['Type your message'] = 'メッセージを入力して下さい';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'メッセージを送信することができません。 %sはあなたを拒否しています。';
 $Definition['Unannounce'] = 'お知らせ解除';

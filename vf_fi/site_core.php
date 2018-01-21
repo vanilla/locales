@@ -862,6 +862,7 @@ $Definition['Most recent by %1$s'] = 'Uusin viesti: %1$s';
 $Definition['Most Recent Comment'] = 'Viimeisimmät kommentit.';
 $Definition['Most recent discussion'] = 'Viimeisin keskustelu';
 $Definition['Move'] = 'Siirrä';
+$Definition['Moved: %s'] = 'Siirretty: %s';
 $Definition['Mute'] = 'Mykistä';
 $Definition['MyBadgesModuleTitle'] = 'Kunniamerkkini';
 $Definition['My Bookmarks'] = 'Suosikkiaiheeni';
@@ -1380,6 +1381,8 @@ $Definition['Twitter Settings'] = 'Twitterin asetukset';
 $Definition['Type'] = 'Tyyppi';
 $Definition['Type the text:'] = 'Kirjoita teksti:';
 $Definition['Type what you hear:'] = 'Kirjoita kuulemasi:';
+$Definition['Type your comment'] = 'Kirjoita kommenttisi';
+$Definition['Type your message'] = 'Kirjoita viestisi';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Viestin lähettäminen ei onnistunut, %s on jättänyt viestisi huomioimatta.';
 $Definition['Unannounce'] = 'Poista huomioitavista';

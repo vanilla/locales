@@ -851,6 +851,7 @@ $Definition['Most recent by %1$s'] = 'Legújabb üzenet %1$s által';
 $Definition['Most Recent Comment'] = 'Legfrissebb komment';
 $Definition['Most recent discussion'] = 'Legfrissebb beszélgetés';
 $Definition['Move'] = 'Mozgatás';
+$Definition['Moved: %s'] = 'Áthelyezve: %s';
 $Definition['Mute'] = 'Némítás';
 $Definition['MyBadgesModuleTitle'] = 'Plecsnieim';
 $Definition['My Bookmarks'] = 'Könyvjelzőim';
@@ -1352,6 +1353,8 @@ $Definition['Twitter Settings'] = 'Twitter beállítások';
 $Definition['Type'] = 'Típus';
 $Definition['Type the text:'] = 'Írja be a szöveget:';
 $Definition['Type what you hear:'] = 'Gépelje be, amit hall:';
+$Definition['Type your comment'] = 'Írd be hozzászólásodat';
+$Definition['Type your message'] = 'Írd be üzenetedet';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Nem küldhető el az üzenet, %s mellőz téged.';
 $Definition['Unannounce'] = 'Kiemelés törlése';

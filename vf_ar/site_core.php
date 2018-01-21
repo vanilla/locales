@@ -842,6 +842,7 @@ $Definition['Most recent by %1$s'] = 'ٱخر مشاركة بواسطة %1$s';
 $Definition['Most Recent Comment'] = 'أحدث التعليقات';
 $Definition['Most recent discussion'] = 'المناقشات الأحدث';
 $Definition['Move'] = 'نقل';
+$Definition['Moved: %s'] = 'توجيه: س s%';
 $Definition['Mute'] = 'كتم';
 $Definition['MyBadgesModuleTitle'] = 'شاراتي';
 $Definition['My Bookmarks'] = 'مواضيعي المفضلة';
@@ -1349,6 +1350,8 @@ $Definition['Twitter Settings'] = 'اعدادات تويتر';
 $Definition['Type'] = 'نوع';
 $Definition['Type the text:'] = 'اكتب النص:';
 $Definition['Type what you hear:'] = 'اكتب ما تسمعه:';
+$Definition['Type your comment'] = 'اكتب تعليقك';
+$Definition['Type your message'] = 'اكتب رسالتك';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'غير قادر على إرسال الرسالة، إن %s يتجاهلك.';
 $Definition['Unannounce'] = 'الغاء الاعلان';

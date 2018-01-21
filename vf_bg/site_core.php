@@ -859,6 +859,7 @@ $Definition['Most recent by %1$s'] = 'Последно от %1$s';
 $Definition['Most Recent Comment'] = 'Най-нов коментар';
 $Definition['Most recent discussion'] = 'Най-скорошна дискусия';
 $Definition['Move'] = 'Премести';
+$Definition['Moved: %s'] = 'Преместено: %s';
 $Definition['Mute'] = 'Заглуши';
 $Definition['MyBadgesModuleTitle'] = 'Моите значки';
 $Definition['My Bookmarks'] = 'Моите любими дискусии';
@@ -1382,6 +1383,8 @@ $Definition['Twitter Settings'] = 'Twitter настройки';
 $Definition['Type'] = 'Тип';
 $Definition['Type the text:'] = 'Въведете текста:';
 $Definition['Type what you hear:'] = 'Напишете, каквото чувате';
+$Definition['Type your comment'] = 'Въведете коментара си';
+$Definition['Type your message'] = 'Въведете съобщението си';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Невъзможно е да изпратите съобщение, %s ви инорира.';
 $Definition['Unannounce'] = 'Отмяна на известието';

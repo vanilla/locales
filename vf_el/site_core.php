@@ -854,6 +854,7 @@ $Definition['Most recent by %1$s'] = 'Πιο πρόσφατο από το χρή
 $Definition['Most Recent Comment'] = 'Πιο Πρόσφατο Σχόλιο';
 $Definition['Most recent discussion'] = 'Η πιο πρόσφατη συζήτηση';
 $Definition['Move'] = 'Μετακίνησε';
+$Definition['Moved: %s'] = 'Μετακινήθηκαν: %s';
 $Definition['Mute'] = 'Σίγαση';
 $Definition['MyBadgesModuleTitle'] = 'Τα Εμβλήματά μου';
 $Definition['My Bookmarks'] = 'Τα Αγαπημένα μου';
@@ -1375,6 +1376,8 @@ $Definition['Twitter Settings'] = 'Ρυθμίσεις Twitter';
 $Definition['Type'] = 'Τύπος';
 $Definition['Type the text:'] = 'Πληκτρολογήστε το κείμενο:';
 $Definition['Type what you hear:'] = 'Πληκτρολογήστε ό,τι ακούτε:';
+$Definition['Type your comment'] = 'Πληκτρολογήστε το σχόλιο σας';
+$Definition['Type your message'] = 'Πληκτρολογήστε το μήνυμα σας';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Δεν μπορείτε να στείλετε μήνυμα,%s σας αγνοεί.';
 $Definition['Unannounce'] = 'Ακύρωση Ανακοίνωσης';

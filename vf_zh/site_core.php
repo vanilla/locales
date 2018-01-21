@@ -862,6 +862,7 @@ $Definition['Most recent by %1$s'] = '%1$s 最近评论';
 $Definition['Most Recent Comment'] = '最近评论';
 $Definition['Most recent discussion'] = '最近讨论';
 $Definition['Move'] = '移动';
+$Definition['Moved: %s'] = '感动：%s';
 $Definition['Mute'] = '静音';
 $Definition['MyBadgesModuleTitle'] = '我的徽章';
 $Definition['My Bookmarks'] = '我的书签';
@@ -1382,6 +1383,8 @@ $Definition['Twitter Settings'] = 'Twitter 设置';
 $Definition['Type'] = '类型';
 $Definition['Type the text:'] = '输入文本：';
 $Definition['Type what you hear:'] = '输入您所听到的：';
+$Definition['Type your comment'] = '输入您的评论';
+$Definition['Type your message'] = '输入您的信息';
 
 $Definition['Unable to send message, %s is ignoring you.'] = '无法发送站内信，%s 已忽略您。';
 $Definition['Unannounce'] = '取消置顶';
