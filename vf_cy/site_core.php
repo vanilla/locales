@@ -417,6 +417,7 @@ $Definition['Don\'t have an account? %s'] = 'Heb gyfrif? %s';
 $Definition['Download'] = 'Lawrlwytho';
 $Definition['Download the sounds as MP3'] = 'Llwytho i lawr y synau fel MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Ydych chi am derfynu neu ddileu y rhybudd yma?';
+$Definition['Draft.Delete'] = 'Dileu';
 $Definition['Draft saved at %s'] = 'Cadwyd drafft ar %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Llusgwch o amgylch ac ailfeintio y sgwâr isod i ddiffinio eich eicon mân-lun.';
 $Definition['Drop image/file'] = 'Gollwng/ffeil delwedd';

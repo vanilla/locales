@@ -112,6 +112,7 @@ $Definition['Discussions'] = 'Diskusije';
 $Definition['Discussion Title'] = 'Naziv Diskusije';
 $Definition['Don\'t have an account? %s'] = 'Nemate account? %s';
 $Definition['Download'] = 'DownloadLocalePack';
+$Definition['Draft.Delete'] = 'Obriši';
 $Definition['Draft saved at %s'] = 'Nacrt snimljen u %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Povucite i promijenite veličinu kvadrata ispod da biste utvrdili vašu minijaturnu sliku (ikonu).';
 
