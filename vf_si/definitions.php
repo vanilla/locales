@@ -5,7 +5,7 @@
   'Name' => 'සිංහල / Sinhala',
   'EnName' => 'Sinhala',
   'Description' => 'Official Sinhala language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/si/">here</a>.',
-  'Version' => '2018.01.21p1511',
+  'Version' => '2018.01.21p1904',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/si/',
   'License' => 'CC BY-SA 4.0',
