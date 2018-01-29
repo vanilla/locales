@@ -445,6 +445,7 @@ $Definition['Discussions Page'] = 'Discussions Page';
 $Definition['Discussion Title'] = 'Discussion Title';
 $Definition['Dislike'] = 'Dislike';
 $Definition['Dismiss'] = 'Dismiss';
+$Definition['Divider'] = "Divider";
 $Definition['Documentation'] = 'Documentation';
 $Definition['Don\'t announce.'] = 'Don\'t announce.';
 $Definition['Don\'t fold quotes'] = 'Don\'t fold quotes';
