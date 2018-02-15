@@ -146,6 +146,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Ciao Pal!
 
 Scopri il nuovo forum della community che ho appena creato. È un posto perfetto per chiacchierare tra noi online.';
 $Definition['Choose a locale pack'] = 'Seleziona un pack locale';
+$Definition['Choose Avatar'] = 'Scegli un Avatar';
 $Definition['Choose the preferred layout for the categories page.'] = 'Scegliere il layout preferito per la pagina delle categorie.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Scegliere il layout preferito per la pagina delle discussioni.';
 $Definition['Choose who can send out invitations to new members:'] = 'Scegli chi puo\' inviare inviti ai nuovi membri:';
@@ -348,7 +349,7 @@ $Definition['Likes'] = 'Mi Piace';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limita il pocket a uno o più ruoli o autorizzazioni.';
 $Definition['Locale Key (Folder)'] = 'Locale Key (Cartella)';
 $Definition['Locale Name'] = 'Nome Locale';
-$Definition['Locales'] = 'Locali';
+$Definition['Locales'] = 'Traduzioni';
 $Definition['Location'] = 'Sede';
 $Definition['LogoBrowse'] = 'Cerca un nuovo logo banner se desideri cambiarlo:';
 
@@ -404,9 +405,11 @@ $Definition['New users fill out a simple form and are granted access immediately
 $Definition['New users in the last day'] = 'Nuovi utenti iscritti ieri';
 $Definition['New users in the last week'] = 'Nuovi utenti iscritti la scorsa settimana';
 $Definition['No Change'] = 'Nessun cambio';
+$Definition['No drafts.'] = 'Nessuna bozza';
 $Definition['No Items Selected'] = 'Nessun oggetto selezionato';
 $Definition['No results for %s.'] = 'Nessun risultato per <b>%s</b>.';
 $Definition['Notes'] = 'Appunti';
+$Definition['Notifications will appear here.'] = 'Le notifiche appaiono qua';
 $Definition['NotifyApplicant'] = 'Inviami notifiche quando qualcuno vuole iscriversi.';
 $Definition['Notify me when people comment on a discussion.'] = 'Inviami notifiche quando gli utenti commentano una discussione.';
 $Definition['Notify me when people start new discussions.'] = 'Inviami notifiche quando gli utenti iniziano una nuova discussione.';
@@ -419,6 +422,7 @@ $Definition['Operation By'] = 'Da';
 $Definition['Organize'] = 'Organizza';
 $Definition['Organize Categories'] = 'Organizza Categorie';
 $Definition['Original Version'] = 'Versione Originale';
+$Definition['Or select an image on your computer (2mb max)'] = 'O seleziona un\'immagine dal tuo computer (massimo 2mb)';
 $Definition['Or Spamblock For'] = 'o Spamblock per';
 $Definition['Other Themes'] = 'Altri Temi';
 $Definition['Other Tutorials'] = 'Altri Tutorial';
@@ -481,6 +485,7 @@ $Definition['Run structure & data scripts'] = 'Esecuzione di struttura & data sc
 
 $Definition['Save Captured Definitions'] = 'Salva le definizioni fissate';
 $Definition['Save Colors'] = 'Salva i Colori';
+$Definition['Search by user or role.'] = 'Cerca per gli utenti tramite nome o email, puoi anche utilizzare la wildcard %. Puoi anche cercare tramite user ID, il nome del ruolo o &ldquo;bannato&rdquo;.';
 $Definition['seconds'] = 'secondi';
 $Definition['Security'] = 'Sicurezza';
 $Definition['Select'] = 'Seleziona';
@@ -644,4 +649,5 @@ $Definition['You must specify an admin password.'] = 'È necessario specificare 
 $Definition['You must specify an admin username.'] = 'È necessario specificare un nome utente per l\'admin.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Il file di configurazione non dispone delle autorizzazioni corrette. PHP deve essere in grado di leggere e scrivere in questo file: <code>%s</code>';
 $Definition['Your default locale won\'t display properly'] = 'Le versioni internazionali di default non vengono visualizzate correttamente fino a quando non vengono abilitate di seguito. Si prega di abilitare il seguente: %s.';
+$Definition['Your inbox is empty.'] = 'La tua posta in arrivo è vuota.';
 $Definition['Your invitations were sent successfully.'] = 'I tuoi inviti sono stati inviati con successo.';

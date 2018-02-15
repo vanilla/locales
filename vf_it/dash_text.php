@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Invito creato correttamente, ma non è stato possibile inviare l\' email per il seguente motivo: %s';
 $Definition['ApplicationHelp'] = 'Le applicazioni ti permettono di aggiungere vasti gruppi di funzionalita\' al tuo sito.<br />Una volta che un\'applicazione viene aggiunta nella tua cartella %s, puoi abilitarla o disabilitarla da qui.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Sei sicuro di aver inserito il corretto host nome del database? Forse lo hai trascritto male? Il database indica: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un ruolo con tipo di default "non confermato" è richiesto per la conferma dell\'email.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Cliccando sul seguente pulsante, cancellerai l\'account di %s per sempre';
 
@@ -89,6 +90,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'M
 $Definition['Messages can appear anywhere in your application.'] = 'Gli Avvisi possono apparire ovunque nella tua applicazione, e possono essere usati per informare gli utenti di news ed eventi. Usa questa pagina per riorganizzare i tuoi messaggi, trascinandoli su o giù.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Inviami notifiche quando gli utenti commentano le mie risposte.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Il sito richiede almeno un ruolo con un tipo di default "non confermato" per confermare l\'email. Aggiungine uno per abilitare quest\'impostazione.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Scegli un sistema di autenticazione da configurare';
 $Definition['PluginHelp'] = 'I Plugin ti permettono di aggiungere funzionalità al tuo sito.<br />Una volta che un plugin viene aggiunto alla tua cartella %s, puoi abilitarlo o disabilitarlo da qui.';

@@ -847,6 +847,7 @@ $Definition['Most recent by %1$s'] = 'جديدترين توسط %1$s';
 $Definition['Most Recent Comment'] = 'جديدترين ديدگاه';
 $Definition['Most recent discussion'] = 'جديدترين گفتگو';
 $Definition['Move'] = 'انتقال';
+$Definition['Moved: %s'] = 'منتقل شد : %s';
 $Definition['Mute'] = 'بي صدا';
 $Definition['MyBadgesModuleTitle'] = 'مدال هاي من';
 $Definition['My Bookmarks'] = 'بوكمارك هاي من';
@@ -1351,6 +1352,8 @@ $Definition['Twitter Settings'] = 'تنظيمات Twitter';
 $Definition['Type'] = 'تايپ كردن';
 $Definition['Type the text:'] = 'تايپ كردن متن';
 $Definition['Type what you hear:'] = 'تايپ كردن چيزي كه ميشنويد :';
+$Definition['Type your comment'] = 'دیدگاه خود را بنویسید';
+$Definition['Type your message'] = 'پیام خود را بنویسید';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'عدم امكان ارسال پيام ، %s شما را مسدود كرده است.';
 $Definition['Unannounce'] = 'اعلام نشده';
