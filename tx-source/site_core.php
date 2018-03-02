@@ -1472,6 +1472,7 @@ $Definition['via %s'] = 'via %s';
 $Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
 $Definition['View'] = 'View';
 $Definition['View Badge'] = 'View Badge';
+$Definition['View Post'] = 'View Post';
 $Definition['Viewing'] = 'Viewing';
 $Definition['Views'] = 'Views';
 $Definition['Visible'] = 'Visible';
