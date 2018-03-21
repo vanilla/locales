@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'La invitación se ha creado correctamente, pero no se ha podido enviar el correo electrónico. El servidor ha creado un informe del siguiente error:  %s';
 $Definition['ApplicationHelp'] = 'Las aplicaciones te permiten añadir largos grupos de funcionalidad a tu sitio. <br /> Una vez que una aplicación ha sido añadida a la carpeta %s, puedes activarlas o desactivarlas aquí.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '¿Estas seguro de haber ingresado el nombre correcto del servidor? ¿Quizá te equivocaste? La base de datos reporto: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Se requiere un rol con el tipo predeterminado "sin confirmar" para usar la confirmación por correo electrónico.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Al hacer clic en el botón de más abajo, se eliminará la cuenta de usuario de %s definitivamente.';
 
@@ -90,6 +91,7 @@ $Definition['Messages can appear anywhere in your application.'] = 'Los mensajes
 $Definition['Notify me when people comment on my addons.'] = 'Notificarme cuando la gente comenta en mis extensiones. 
 
 ';
+$Definition['No unconfirmed role available for email confirmation.'] = 'El sitio necesita un rol con el tipo predeterminado "sin confirmar" para usar la confirmación por correo electrónico. Por favor, agregue uno para habilitar esta configuración.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Por favor elige un autenticador para configurar.';
 $Definition['PluginHelp'] = 'Los plugins te permiten añadir funcionalidad a tu sitio.<br />Una vez añadido un plugin a la carpeta %s, puedes activarlo o desactivarlo aquí.';

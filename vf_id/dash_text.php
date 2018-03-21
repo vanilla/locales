@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Sekalipun undangan berhasil dibuat, namun email gagal terkirim. Server melaporkan error berikut: %s';
 $Definition['ApplicationHelp'] = 'Aplikasi memungkinkan anda untuk menambah grup yang lebih besar dari fungsionalitas pada situs anda.<br />Segera setelah aplikasi ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Anda yakin telah mengisi nama host basisdata dengan benar? Mungkin anda salah mengetiknya? Basisdata melaporkan: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Peran dengan tipe default "belum dikonfirmasi" diperlukan untuk menggunakan konfirmasi email.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Dengan mengklik tombol di bawah ini, anda akan menghapus akun pengguna %s selamanya.';
 
@@ -87,6 +88,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'M
 $Definition['Messages can appear anywhere in your application.'] = 'Pesan dapat tampil di mana saja dalam aplikasi anda, dan dapat digunakan untuk menginformasikan kepada pengguna anda mengenai berita atau acara baru. Gunakan halaman ini untuk mengorganisir ulang pesan anda dengan menyeretnya ke atas atau bawah. ';
 
 $Definition['Notify me when people comment on my addons.'] = 'Beritahu saya saat orang-orang berkomentar pada addon saya.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Situs ini membutuhkan peran dengan tipe default "unconfirmed" untuk menggunakan email konfirmasi. Harap tambahkan satu untuk mengaktifkan setelan ini.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Pilih salah satu autentikator untuk mengkonfigurasi';
 $Definition['PluginHelp'] = 'Plugin memungkinkan anda untuk menambah fungsionalitas situs anda.<br />Segera setelah sebuah plugin ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';

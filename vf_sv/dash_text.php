@@ -15,6 +15,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Fastän inbjudan skapades misslyckades skickandet av meddelandet. Servern rapporterade följande: %s';
 $Definition['ApplicationHelp'] = 'Applikationer låter dig lägga till stora grupper av funktionalitet till din sida.<br />När en applikation har lagts till i din %s-mapp kan du aktivera och inaktivera den här.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Är du säker på att du skrivit in rätt värdnamn till databasen? Kanske råkade du skriva fel? Databasen svarade: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'En roll med standard typ "Obekräftat" är tvungen att bekräfta sin e-post.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Genom att klicka på knappen nedan raderar du användarkontot för %s för alltid.';
 
@@ -90,6 +91,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'O
 $Definition['Messages can appear anywhere in your application.'] = 'Meddelanden kan dyka upp överallt i forumet, och kan användas för att informera användarna om nyheter och händelser. Använd denna sida för att organisera meddelanden genom att dra och släppa.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Meddela mig när någon kommenterar mina tillägg.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Den här sidan kräver rollen "obekräftad" för att kunna bekräfta sin e-post. Vänligen lägg till en för att använda denna funktion.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Vänligen välj en autentisering att konfigurera.';
 $Definition['PluginHelp'] = 'Pluginer låter dig lägga till funktionalitet till din site. <br />Så fort en plugin har lagts till din %s mapp, kan du aktivera eller inaktivera den här.';

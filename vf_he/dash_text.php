@@ -16,6 +16,7 @@ $Definition['ApplicationHelp'] = 'אפליקציות מאפשרות לך להו�
 ברגע שהאפליקציה נמצאת בתיקיית %s , תוכל לאפשר או לכבות אותה כאן.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'האם אתה בטוח שהכנסת את שם השרת המארח בצורה תקינה? אולי שגית בהקלדה? תגובה השרת היתה:
 <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'תפקיד עם סוג ברירת המחדל "unconfirmed" נדרש להשתמש אישור דוא"ל.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'על ידי לחיצה על הכפתור שמלמטה, תמחק את רשומות המשתמש של %s לצמיתות.';
 
@@ -90,6 +91,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = '�
 $Definition['Messages can appear anywhere in your application.'] = 'הודעות יכולות להופיע בכל מקום בתוך התוכנה שלך, ויכולות לשמש על מנת להודיע למשתמשים על אירועים או חדשות. השתמש בעמוד זה על מנת לארגן את ההודעות שלך על ידי גרירתם ממקום למקום.';
 
 $Definition['Notify me when people comment on my addons.'] = 'תודיע לי כשמשתמשים מגיבים על התוספים שלי.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'האתר צריך תפקיד עם סוג ברירת המחדל "לא מאושר" להשתמש אישור דוא"ל. הוסף אחד כדי לאפשר הגדרה זו.';
 
 $Definition['Please choose an authenticator to configure.'] = 'אנא בחר מאמת כדי להגדיר.';
 $Definition['PluginHelp'] = 'תוספים מאפשרים לך להוסיף פונקציונליות לאתר שלך. <br />ברגע שתוסף הוסף לתיקיית ה-%s שלך, אתה יכול לאפשר או לבטל אותו כאן.';

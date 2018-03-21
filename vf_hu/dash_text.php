@@ -15,6 +15,7 @@ $Definition['Although the invitation was created successfully, the email failed 
 Habát a meghívás sikeresen el lett küldve, az email elküldése közben hiba csőszott be. A server ezt a hibaüzenetet adta: %s';
 $Definition['ApplicationHelp'] = 'Az alkalmazások segítségével nagy számú funkcionalitást adhatsz az oldaladhoz.<br />Amint egy alklamazás a %s mappához hozzá lett adva, itt engedélyezheted vagy tilthatod le.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Biztos hogy a megfelelő adatbázis hoszt nevet adtad meg? Elírás, esetleg? Az adatbázis a következő választ adta: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Az e-mailes visszaigazolás használatához az "alapértelmezés nélküli" típusú szerep szükséges.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ha rákattintasz az alábbi gombra, örökre törölni fogod %s felhasználói fiókját.';
 
@@ -90,6 +91,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'H
 $Definition['Messages can appear anywhere in your application.'] = 'Az üzenetek bárhol megjeleníthetőek a fórumban. Ezzel a módszerrel értesíteni tudod a felhasználókat az új hírekről és eseményekről. Az üzenetek újraszervezését az üzenet lefelé illetve felfelé való mozgatásával érheted el. ';
 
 $Definition['Notify me when people comment on my addons.'] = 'Értesítsenek, ha hozzászólnak egy addon-omhoz.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Az oldalnak szüksége van az alapértelmezett "érvénytelenített" típusú szerepre az e-mail megerősítéséhez. A beállítás engedélyezéséhez adj hozzá egyet.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Kérlek válassz egy hitelesítési módot';
 $Definition['PluginHelp'] = 'Beépülő modulok segítségével adhatsz új funkcionalitást az oldaladhoz.<br />Amint egy modul a %s mappádba bekerült, itt fogod tudni engedélyezni vagy letiltani.';

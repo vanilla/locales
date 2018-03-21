@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Vaikka kutsun luominen onnistui, s&auml;hk&ouml;postia ei voitu l&auml;hett&auml;&auml;.  Serveri palautti oheisen virheen: %s';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Oletko varma, ett&auml; annoit oikean tietokannan is&auml;nn&auml;n nimen? Tarkistathan oikeikirjoituksen jatkaaksesi. Tietokannan vastaus oli: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Rastin oletustyypin kanssa "vahvistamaton" tarvitaan sähköpostin vahvistuksen käyttämiseen.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Klikkaamalla oheista painiketta poistat j&auml;senen %s k&auml;ytt&auml;j&auml;tilin lopullisesti.';
 
@@ -80,6 +81,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'S
 $Definition['Messages can appear anywhere in your application.'] = 'Voit n&auml;ytt&auml;&auml; yll&auml;pidon viestej&auml; palstallasi muun sis&auml;ll&ouml;n ulkopuolella. Viesteill&auml; voit tiedottaa k&auml;ytt&auml;jille esimerkiksi uusista tapahtumista tai muusta ajankohtaisesta. T&auml;ll&auml; sivulla voit j&auml;rjest&auml;&auml; viestit vet&auml;m&auml;ll&auml; ja pudottamalla ne haluamaasi j&auml;rjestykseen.';
 
 $Definition['Notify me when people comment on my addons.'] = 'L&auml;het&auml; minulle ilmoitus, kun l&auml;hett&auml;mi&auml;ni lis&auml;osia kommentoidaan.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Sivusto tarvitsee roolilla oletustyypin "vahvistamaton" sähköpostivahvistuksen käyttämiseksi. Ota tämä asetus käyttöön valitsemalla yksi.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Valitse konfiguroitavaksi ainakin yksi autentikoija.';
 $Definition['PluginHelp'] = 'Lis&auml;osien avulla voit laajentaa sivustosi toiminnallisuuksia. <br />Kun lis&auml;osa on lis&auml;tty serverillesi kansioon %s, voit ottaa sen k&auml;ytt&ouml;&ouml;n tai poistaa k&auml;yt&ouml;st&auml; ohessa.';

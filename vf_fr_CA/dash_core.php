@@ -65,6 +65,7 @@ $Definition['All Dashboard Pages'] = 'Toutes les pages du Tableau de bord';
 $Definition['All discussions in this category will be permanently deleted.'] = 'Toutes les discussions de cette catégorie seront supprimées de façon permanente.';
 $Definition['All Forum Pages'] = 'Toutes les pages du forum';
 $Definition['All of the user content will be replaced with a message stating the user has been deleted.'] = 'Tout le contenu utilisateur sera remplacé par un message faisant état du fait que l\'utilisateur a été supprimé.';
+$Definition['Allow embedded content'] = 'Autoriser le contenu intégré';
 $Definition['Allow images'] = 'Autoriser les images';
 $Definition['Allow new users to be registered through email.'] = 'Permettre aux nouveaux utilisateurs de s\'enregistrer par email.';
 $Definition['Allow users to dismiss this message'] = 'Autoriser les utilisateurs à désactiver ce message.';

@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Selv om invitationen blev oprettet, lykkedes det ikke at sende mailen. Serveren rapporterede følgende fejl: %s';
 $Definition['ApplicationHelp'] = 'Applikationer giver dig mulighed for at lave store grupper af funktionalitet til din site.<br />Når en applikation er blevet tilføjet til din %s mappe, kan du aktivere eller deaktivere den her.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Er du sikker på du har indtastet det korrekte database værtsnavn? Måske du har skrevet det forkert? Databasen rapporterede: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'En rolle med standardtype "ubekræftet" er påkrævet for at bruge e-mail-bekræftelse.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ved at klikke på knappen nedenfor, sletter du brugerkontoen for %s for evigt.';
 
@@ -89,6 +90,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'H
 $Definition['Messages can appear anywhere in your application.'] = 'Beskeder kan ses overalt i forummet og kan bruges til at orientere dine brugere om nyheder og hændelser. Brug denne side til at organisere dine beskeder ved at trække dem op eller ned.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Orientér mig når folk skriver kommentarer om mine tilføjelser.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Webstedet har brug for en rolle med standardtype "ubekræftet" for at bruge e-mail-bekræftelse. Tilføj venligst en for at aktivere denne indstilling.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Vælg venligst en måde at tillade login på.';
 $Definition['PluginHelp'] = 'Tilføjelser tillader dig at tilføje funktioner til dit forum.<br />Når en tilføjelse er blevet tilføjet til folderen %s, kan du aktivere og deaktivere det her.';

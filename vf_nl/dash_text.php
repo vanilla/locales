@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Hoewel de uitnodiging succesvol is gemaakt, kon de e-mail niet worden verzonden. De server gaf deze foutmelding: %s';
 $Definition['ApplicationHelp'] = 'Met applicaties kun je grote groepen van functionaliteit toevoegen aan je site.<br />Zodra een applicatie is toegevoegd aan je map %s, kan je die op deze pagina in- of uitschakelen.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Weet je zeker van dat je de goede database hostnaam hebt ingevuld? Misschien heb je het verkeerd ingetypt? De database gaf dit aan: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Een rol met standaardtype "niet-bevestigd" is vereist om e-mailbevestiging te gebruiken.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Door op de onderstaande knop te klikken, verwijder je het gebruikersaccount van %s permanent.';
 
@@ -89,6 +90,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'H
 $Definition['Messages can appear anywhere in your application.'] = 'Berichten kunnen overal in de applicatie verschijnen en kunnen worden ingezet om je gebruikers te informeren over nieuws en evenementen. Gebruik deze pagina om de berichten te ordenen door ze omhoog of omlaag te verslepen.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn add-ons.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'De site heeft een rol nodig met standaardtype "niet bevestigd" om e-mailbevestiging te gebruiken. Voeg er een toe om deze instelling in te schakelen.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Kies de verificator die je wilt configureren.';
 $Definition['PluginHelp'] = 'Met plug-ins kan je functionaliteit aan je site toevoegen.<br />Zodra een plugin is toegevoegd aan de map %s, kan je hem op deze pagina in- of uitschakelen.';

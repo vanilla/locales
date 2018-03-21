@@ -7,6 +7,7 @@ $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community 
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['ApplicationHelp'] = 'Додатки дозволяють вам додати великі групи функціональності вашого сайту. <br /> Додайте додаток до папки %s, і його можна буде включити або відключати тут.';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Роль із типовим типом "непідтверджений" потрібна для підтвердження електронною поштою.';
 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
@@ -46,6 +47,8 @@ $Definition['LogoDescription'] = 'The banner logo appears at the top of your sit
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Manage Routes'] = 'Керування маршрутами';
 $Definition['Messages can appear anywhere in your application.'] = 'Повідомлення можуть зявлятись де завгодно в вашому сайті, і можуть бути використані для оповіщення користувачів про новини та події. Використовуйте цю сторінку, щоб реорганізувати ваші повідомлення, пересуваючи їх вниз чи вверх.';
+
+$Definition['No unconfirmed role available for email confirmation.'] = 'На сайті потрібна роль за замовчуванням "непідтверджений", щоб використовувати підтвердження електронною поштою. Додайте одну, щоб увімкнути це налаштування.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Будь-ласка, виберіть аутентикатор для налаштування.';
 $Definition['PluginHelp'] = 'Плагіни дозволяють вам додати функціональність вашому сайту.<br />Додайте плагін в папку %s, і він може бути включений чи відключений тут.';

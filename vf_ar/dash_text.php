@@ -20,14 +20,32 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'اخت�
 
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 
+$Definition['Everyone who signs up gets a profile page.'] = 'يحصل كل من اشترك في مجتمعك على صفحة ملف شخصي عام حيث يمكنه تحميل صورة لنفسه ، وإدارة إعدادات ملفه الشخصي ، وتتبع الأشياء الرائعة في المنتدى. يجب 
+<a href="{/profile,url}">تخصيص الملف الشخصي الان</a>.';
+
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
 
-$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'التنوب رسائل البريد الإلكتروني الخاصة بك عن طريق إضافة شعار وتخصيص الألوان.';
+$Definition['Learn about custom routing.'] = 'تعرف على التوجيه المخصص';
+$Definition['Locales allow you to support other languages on your site.'] = 'تتيح لك اللغات المحلية دعم لغات أخرى على موقعك. تمكين وتعطيل اللغات التي تريد إتاحتها هنا.';
 
+$Definition['No unconfirmed role available for email confirmation.'] = 'يحتاج الموقع إلى دور بنوع افتراضي "غير مؤكد" لاستخدام تأكيد البريد الإلكتروني. الرجاء إضافة واحد لتمكين هذا الإعداد.';
+
+$Definition['Routes are used to redirect users.'] = 'تُستخدم المسارات لإعادة توجيه المستخدمين بناءً على عنوان URL المطلوب.
+';
+
+$Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'التنوب رسائل البريد الإلكتروني الخاصة بك عن طريق إضافة شعار وتخصيص الألوان.';
+$Definition['Start the first discussion.'] = 'الحصول على الكرة المتداول في مجتمعك من قبل<a href="{/post/discussion,url}">بدء المناقشة الأولى</a>الآن.';
+
+$Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>نموذج التسجيل الأساسي يتطلب</strong> مستخدمين جدد لنسخ نص من صورة CAPTCHA لإبقاء مرسلي البريد غير المرغوب فيه خارج الموقع. أنت بحاجة إلى حساب على <a href="http://recaptcha.net/">recaptcha.net</a>. Sالاشتراك مجاني وسهل. بمجرد تسجيل الاشتراك ، ارجع إلى هنا وأدخل الإعدادات التالية:';
 $Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
+$Definition['This is the administrative dashboard for your new community.'] = 'هذه هي لوحة التحكم الإدارية لمجتمعك الجديد. تحقق من خيارات التكوين إلى الجانب. من هناك يمكنك تكوين كيفية عمل مجتمعك.
+<b>بشكل افتراضي ، يمكن فقط للمستخدمين في دور "المسؤول" رؤية هذا الجزء من مجتمعك.</b>';
+$Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'عناوين كثيرة جدا! سنرسل حتى %s عناوين في وقت واحد.';
 
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
+
+$Definition['You can place files in your /uploads folder.'] = 'إذا كان حجم ملفك كبيرًا جدًا بحيث لا يمكن تحميله مباشرةً إلى هذه الصفحة ، يمكنك وضعه في مجلد / uploads. تأكد من أن اسم الملف يبدأ بالكلمة<b>تصدير</b> وينتهي بواحد من<b>.txt, .gz</b>.';

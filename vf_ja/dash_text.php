@@ -1,8 +1,10 @@
 <?php
 
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'このページの上部にある[サイトにアクセス]リンクをクリックするか、<a href={/,url}>ここをクリック</a>してコミュニティフォーラムにアクセスしてください。コミュニティフォーラムは、お客様が<a href="{/,url,domain}">{/,url,domain}</a>にアクセスしたときに表示されるすべてのユーザー&amp;を表示します。';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = '招待状の作成は成功しましたが、メールの送信に失敗しました。サーバのエラー報告は次の通りです: %s';
 $Definition['ApplicationHelp'] = '「アプリケーション」は、このサイトに規模が大きめの拡張機能を追加します。<br />%s フォルダに追加されたアプリケーションを、ここで有効化または無効化できます。';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'データベース ホスト名は正しく入力されましたか？ 入力ミスの可能性はありませんか？データベースの報告は次の通りです: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = '電子メール確認を使用するには、デフォルトタイプ「未確認」のロールが必要です。';
 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'インポートファイルを解析できません。%s 行付近で問題が発生しました。';
@@ -13,6 +15,7 @@ $Definition['Disable OpenID'] = 'OpenID を無効化';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'カテゴリを並べ替えたりネストするには、この下のカテゴリをドラッグ &amp; ドロップしてください。';
 
 $Definition['EditContentTimeout.Notes'] = '註: ユーザーが内容を編集できるロールに属している場合は、ここで選択する値よりもロールの設定の方が優先されます。';
+$Definition['Everyone who signs up gets a profile page.'] = 'コミュニティにサインアップするすべての人は、自分自身の写真をアップロードし、プロフィール設定を管理し、コミュニティで行われているクールなものを追跡できる公開プロフィールページを取得します。 <a href="{/profile,url}">プロフィールを今すぐカスタマイズしてください</a>。';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '当サイトに参加する全てのユーザは、いずれか一つ以上のロールに所属します。ロールは、どのユーザーが何をしてよいのかを判別する基準に使われます。';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect を使うと、Facebook アカウントでログインできます。<b>このプラグインを使うには、Facebook にアプリケーションを登録する必要があります。</b>';
@@ -32,11 +35,15 @@ $Definition['Invitations can be sent from users\' profile pages.'] = 'ユーザ�
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '指定されたデータベースが まだ作成されていないようです。データベースは作成済みですか？あるいはデータベース名が間違っている可能性はありませんか？ データベースの報告は次の通りです: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '投稿できる文字数の上限を適度な数値に抑えることを、推奨します。';
 
+$Definition['Learn about custom routing.'] = 'カスタムルーティングについて学びます。';
+$Definition['Locales allow you to support other languages on your site.'] = 'ロケールを使用すると、サイトで他の言語をサポートすることができます。ここで使用可能にしたいロケールを有効または無効にします。';
 $Definition['Locales are in your %s folder.'] = 'ロケールは、サイトを既定以外の言語で表示できるようにします。%s フォルダに追加されたロケールを、ここで有効化または無効化できます。';
 
 $Definition['Make sure you click View Page'] = '<a href="%s">ページを表示</a>をクリックすると、保存後にカテゴリ ページがどのように見えるかを確認することができます。';
 $Definition['Manage Routes'] = 'ルート管理';
 $Definition['Messages can appear anywhere in your application.'] = 'メッセージはサイトのどこにでも表示でき、ユーザーにニュースやイベントを通知するために使われます。このページでメッセージをドラッグすると、順番を入れ替えることができます。';
+
+$Definition['No unconfirmed role available for email confirmation.'] = 'サイトでは、確認の電子メールを使用するために、デフォルトタイプ「未確認」のロールが必要です。この設定を有効にするには、1を追加してください。';
 
 $Definition['Please choose an authenticator to configure.'] = '設定したい認証方式を選んでください。';
 $Definition['PluginHelp'] = '「プラグイン」は、このサイトの機能を拡張します。<br />%s フォルダに追加されたプラグインを、ここで有効化または無効化できます。';
@@ -45,6 +52,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'テーマ作成のためのクイック スタート ガイド (英語)';
 
 $Definition['Route Expression'] = 'ルート式';
+$Definition['Routes are used to redirect users.'] = 'ルートは、要求されたURLに応じてユーザーをリダイレクトするために使用されます。';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'ユーザー名またはロール (管理者:<input type="text" value="Administrator" size="13" onclick="this.select()" />, 申請者:<input type="text" value="Applicant" size="9" onclick="this.select()" />, 利用禁止:<input type="text" value="Banned" size="6" onclick="this.select()" />, ゲスト:<input type="text" value="Guest" size="5" onclick="this.select()" />, メンバー:<input type="text" value="Member" size="7" onclick="this.select()" />, モデレータ:<input type="text" value="Moderator" size="10" onclick="this.select()" />, メール確認待ち:<input type="text" value="Confirm Email" size="15" onclick="this.select()" />) で検索します。';
 

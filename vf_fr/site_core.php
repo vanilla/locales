@@ -562,7 +562,7 @@ $Definition['Following %d person'] = '%d personne suivie';
 $Definition['FollowOnly'] = 'Suivez le lien ci-dessous pour y accéder :';
 $Definition['Follows'] = 'Suivis';
 $Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Pour un mot de passe plus sécurisé, augmentez sa longueur ou mélangez des lettres majuscules et minuscules ainsi que des numéros et des symboles.';
-$Definition['Forgot?'] = '<br /><div style="padding: 6px; margin-bottom: 10px;">Mot de passe oublié ?</div>';
+$Definition['Forgot?'] = 'Oublié ?';
 $Definition['Forgot your password?'] = 'Mot de passe oublié?';
 $Definition['Format his'] = 'son';
 $Definition['Format their'] = 'leur';

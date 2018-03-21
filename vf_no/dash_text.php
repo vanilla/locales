@@ -8,6 +8,7 @@ $Definition['Access your community forum by clicking the "Visit Site" link.'] = 
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Selv om invitasjonen ble laget, kunne ikke e-posten bli sendt. Serveren sier det er fordi: %s';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'En rolle med standard typen "ubekreftet" er nødvendig for å kunne bruke e-postbekreftelse.';
 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
@@ -47,6 +48,8 @@ $Definition['LogoDescription'] = 'The banner logo appears at the top of your sit
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Messages can appear anywhere in your application.'] = 'Meldinger kan vises hvor som helst på siden din, og kan brukes for å informere brukere om nyheter og eventer. Denne siden brukes for å organisere dine beskjeder ved å dra de opp eller ned.';
 
+$Definition['No unconfirmed role available for email confirmation.'] = 'Nettstedet trenger en rolle med standard typen "ubekreftet" for å bruke e-postbekreftelse. Vennligst legg til en for å aktivere denne innstillingen.';
+
 $Definition['Please choose an authenticator to configure.'] = 'Vennligst velg en autentisering å konfigurere.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
@@ -76,3 +79,5 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
+
+$Definition['You can place files in your /uploads folder.'] = 'Hvis filen din er for stor til å laste opp direkte til denne siden, kan du plassere den i mappen din / opplastinger. Kontroller at filnavnet begynner med ordet <b>eksporter</b> og slutter med en av <b>.txt, .gz</b>.';

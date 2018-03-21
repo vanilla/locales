@@ -15,6 +15,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Αν και η πρόσκληση δημιουργήθηκε με επιτυχία, απέτυχε η αποστολή του μηνύματος. Ο εξυπηρετητής απάντησε με το ακόλουθο σφάλμα: %s';
 $Definition['ApplicationHelp'] = 'Οι Εφαρμογές σας επιτρέπουν να προσθέτετε μεγάλες ομάδες λειτουργικότητας στο χώρο σας.<br />Όταν μια εφαρμογή προστεθεί στο φάκελο %s, μπορείτε να την ενεργοποιήσετε ή να την απενεργοποιήσετε εδώ.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Είστε σίγουρος ότι δώσατε το σωστό όνομα εξυπηρετητή της βάσης δεδομένων; Μήπως το πληκτρολογήσατε λάθος; Η βάση δεδομένων ανέφερε: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Ένας ρόλος με προεπιλεγμένο τύπο "unconfirmed" απαιτείται για να χρησιμοποιήσετε την επιβεβαίωση ηλεκτρονικού ταχυδρομείου.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Αν κάνετε κλικ στο παρακάτω πλήκτρο, θα σβύσετε το λογαριασμό χρήστη του %s για πάντα.';
 
@@ -88,6 +89,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = '�
 $Definition['Messages can appear anywhere in your application.'] = 'Τα μηνύματα μπορούν να εμφανισθούν οπουδήποτε στην εφαρμογή σας και μπορεί να χρησιμοποιηθούν για να ενημερώσουν τους χρήστες σας για νέα και για γεγονότα. Χρησιμοποιήστε αυτή τη σελίδα για να αναδιοργανώσετε τα μηνύματα σέρνοντάς τα επάνω ή κάτω.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Ειδοποίησέ με όταν οι άλλοι σχολιάζουν τα πρόσθετά μου.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Ο ιστότοπος χρειάζεται ένα ρόλο με προεπιλεγμένο τύπο "unconfirmed" για να χρησιμοποιήσει την επιβεβαίωση μέσω ηλεκτρονικού ταχυδρομείου. Προσθέστε ένα για να ενεργοποιήσετε αυτή τη ρύθμιση.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Παρακαλούμε διαλέξτε έναν ελεγκτή ταυτότητας για να τον ρυθμίσετε.';
 $Definition['PluginHelp'] = 'Τα Plugins σας επιτρέπουν την προσθήκη λειτουργικότητας στην ιστοσελίδα σας.<br />Μόλις ένα plugin έχει προστεθεί στο %s φάκελο σας, μπορείτε να το ενεργοποιήσετε ή να το απενεργοποιήσετε εδώ.';
@@ -156,4 +158,5 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>{Προειδοποί�
 $Definition['Warning: This is for advanced users.'] = '<b>Προειδοποίηση</b>: Αυτό είναι για προχωρημένους χρήστες και απαιτεί να κάνετε πρόσθετες αλλαγές στο διακομιστή web σας. Αυτό είναι συνήθως διαθέσιμο μόνο αν έχετε αποκλειστική ή vps φιλοξενία. Μην το επιχειρήσετε αν δεν ξέρετε τι κάνετε.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Μπορείτε να συνδεθείτε σε πολλαπλές ιστοσελίδες που υποστηρίζουν το jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Εάν το αρχείο σας είναι πολύ μεγάλο για να φορτώσετε απευθείας σε αυτήν τη σελίδα, μπορείτε να το τοποθετήσετε στο φάκελο / μεταφορτωτές. Βεβαιωθείτε ότι το όνομα του αρχείου ξεκινά με τη λέξη <b>εξαγωγή</b> και τελειώνει με ένα <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Πρέπει να επιλέξετε ένα αρχείο για εισαγωγή';
