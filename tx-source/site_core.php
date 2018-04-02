@@ -1451,6 +1451,7 @@ $Definition['Upload New Icon'] = 'Upload New Icon';
 $Definition['Upload New Picture'] = 'Upload New Picture';
 $Definition['Url'] = 'Url';
 $Definition['UrlCode'] = 'Url code';
+$Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
 $Definition['Use My Current Password'] = 'Use My Current Password';
 $Definition['User'] = 'User';
 $Definition['User "%s" does not exist.'] = 'User "%s" does not exist.';
