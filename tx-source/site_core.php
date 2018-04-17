@@ -541,7 +541,6 @@ $Definition['Enable'] = 'Enable';
 $Definition['Enabled'] = 'Enabled';
 $Definition['End time?'] = 'End time?';
 $Definition['English'] = 'English';
-$Definition['Enter Password'] = 'Enter Password';
 $Definition['Enter your Email address'] = 'Enter your Email address';
 $Definition['Enter your email address'] = 'Enter your email address';
 $Definition['Enter your Email address or username'] = 'Enter your Email address or username';
