@@ -387,6 +387,7 @@ $Definition['conversation'] = 'conversation';
 $Definition['Copy'] = 'Copy';
 $Definition['Core'] = 'Core';
 $Definition['Couldn\'t confirm email.'] = 'Couldn\'t confirm email.';
+$Definition['Couldn\'t find an account associated with that email/username.'] = 'Couldn\'t find an account associated with that email/username.';
 $Definition['Created'] = 'Created';
 $Definition['Create an Account'] = 'Create an Account';
 $Definition['Create Discussions'] = 'Create Discussions';
