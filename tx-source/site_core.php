@@ -587,6 +587,7 @@ $Definition['Flag'] = 'Flag';
 $Definition['Folder'] = 'Folder';
 $Definition['Folders'] = 'Folders';
 $Definition['Follow'] = 'Follow';
+$Definition['Following'] = 'Following';
 $Definition['Follow %s'] = 'Follow %s';
 $Definition['Followed by %d people'] = 'Followed by %d people';
 $Definition['Followed by %d person'] = 'Followed by %d person';
