@@ -35,7 +35,7 @@ $Definition['[%s] Invitation'] = '[%s] Invitación ';
 $Definition['[%s] Password Reset'] = '[%s] Restablecer Contraseña ';
 $Definition['[%s] Password Reset Request'] = 'Solicitud de restablecimiento de contraseña [%s]';
 
-$Definition['a Badge'] = 'una Insignia ';
+$Definition['a Badge'] = 'una Medalla ';
 $Definition['Abilites'] = 'Habilidades';
 $Definition['Abilities'] = 'Habilidades';
 $Definition['Above Main Content'] = 'Por encima de la pagina principal';
@@ -88,7 +88,7 @@ $Definition['Approval'] = 'Aprobación';
 $Definition['Archive Discussions'] = 'Archivar Discusiones';
 $Definition['Are you sure you want to delete %s items forever?'] = '¿Seguro que quieres eliminar estos %s items para siempre? ';
 $Definition['Are you sure you want to delete 1 item forever?'] = '¿Seguro que quieres eliminar 1 item para siempre?';
-$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = '¿Estás seguro de que quieres borrar esta credencial? Esto es irreversible y revocará las credenciales de todos los usuarios que la tuvieran.';
+$Definition['Are you sure you want to delete this badge? This is irreversible and will revoke the badge from all users who have it.'] = '¿Estás seguro de que quieres borrar esta medalla? Esto es irreversible y revocará las medalla de todos los usuarios que la tuvieran.';
 $Definition['Are you sure you want to delete this category?'] = '¿Seguro que quieres eliminar esta categoría? ';
 $Definition['Are you sure you want to restore %s items?'] = '¿Estas seguro de que deseas restaurar %s articulos?';
 $Definition['Are you sure you want to restore 1 item?'] = '¿Estas seguro de que deseas restaurar 1 articulo?';
@@ -314,7 +314,7 @@ $Definition['Guest roles'] = 'Mira todos los roles que deberían ser aplicados a
 
 $Definition['Hash Algorithm'] = 'Algoritmo Hash';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} agregada una cuenta para {RegardingUserID,user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} cambiada {ActivityUserID,your} la imagen de perfil.';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} cambiada {ActivityUserID,your} imagen de perfil.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} ha aprobado las aplicaciones para {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';

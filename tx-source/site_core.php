@@ -1515,6 +1515,7 @@ $Definition['ValidateUrl'] = 'The %s field is not a valid url.';
 $Definition['ValidateUrlStringRelaxed'] = '%s can not contain slashes, quotes or tag characters.';
 $Definition['ValidateUsername'] = 'Usernames must be 3-20 characters and consist of letters, numbers, and underscores.';
 $Definition['ValidateVersion'] = 'The %s field is not a valid version number. See the php version_compare() function for examples of valid version numbers.';
+$Definition['Validation Failed'] = 'Please review the errors below.';
 $Definition['Value'] = 'Value';
 $Definition['Vanilla'] = 'Vanilla';
 $Definition['Vanilla Statistics'] = 'Vanilla Statistics';

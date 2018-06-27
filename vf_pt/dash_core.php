@@ -147,6 +147,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Olá amig
 
 Vê o novo fórum da comunidade que acabei de criar. É um ótimo sítio para nós falarmos um com o outro online.';
 $Definition['Choose a locale pack'] = 'Selecione um pacote de linguagem';
+$Definition['Choose Avatar'] = 'Escolher Avatar';
 $Definition['Choose the preferred layout for the categories page.'] = 'Escolha o layout preferido para a página de categorias.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Escolha o layout de sua preferência para a página de tópicos.';
 $Definition['Choose who can send out invitations to new members:'] = 'Escolha quem pode mandor convites para novos membros:';
@@ -434,6 +435,7 @@ $Definition['Operation By'] = 'Por';
 $Definition['Organize'] = 'Organizar';
 $Definition['Organize Categories'] = 'Organizar Categorias';
 $Definition['Original Version'] = 'Versão Original';
+$Definition['Or select an image on your computer (2mb max)'] = 'Ou selecione uma imagem no seu computador (máximio de 2 MB)';
 $Definition['Or Spamblock For'] = 'Ou bloquer por';
 $Definition['Other Themes'] = 'Outros Temas';
 $Definition['Other Tutorials'] = 'Outros Tutoriais';
@@ -498,6 +500,7 @@ $Definition['Run structure & data scripts'] = 'Execute os scripts de estrutura &
 
 $Definition['Save Captured Definitions'] = 'Salvar Definições Capturadas';
 $Definition['Save Colors'] = 'Guardar Cores';
+$Definition['Search by user or role.'] = 'Procure utilizadores por nome ou e-mail, utilizando opcionalmente % como um caráter de substituição. Também pode procurar por Id. de utilizador, o nome de uma função, ou &ldquo;banidos&ldquo;.';
 $Definition['seconds'] = 'segundos';
 $Definition['Security'] = 'Segurança';
 $Definition['Select'] = 'Selecionar';

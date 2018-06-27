@@ -30,9 +30,9 @@ $Definition['5 minutes'] = '5分钟';
 $Definition['15 minutes'] = '15分钟';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] 请确认您的电子邮件地址';
-$Definition['[%s] Invitation'] = '[%s]邀请';
-$Definition['[%s] Password Reset'] = '[%s]重设密码';
-$Definition['[%s] Password Reset Request'] = '[%s]重设密码请求';
+$Definition['[%s] Invitation'] = '[%s] 邀请';
+$Definition['[%s] Password Reset'] = '[%s] 重设密码';
+$Definition['[%s] Password Reset Request'] = '[%s] 重设密码请求';
 
 $Definition['a Badge'] = '一枚徽章';
 $Definition['Abilites'] = '能力';
@@ -180,7 +180,7 @@ $Definition['Content Flagging'] = '内容标记';
 $Definition['Conversation Messages'] = '对话消息';
 $Definition['Conversations'] = '站内信';
 $Definition['Conversations Setup'] = '站内信设置';
-$Definition['Could not find a theme identified by \'%s\''] = '无法找到主题 \'%s\'';
+$Definition['Could not find a theme identified by \'%s\''] = '无法找到主题“%s”';
 $Definition['Could not instantiate mail function.'] = '邮件服务异常。';
 $Definition['Could not link the addon.'] = '无法连接扩展。';
 $Definition['Could not open %s.'] = '无法打开 %s。';
@@ -341,7 +341,7 @@ $Definition['Invalid category for deletion.'] = '无法删除无效版块。';
 $Definition['Invitation Code'] = '邀请码';
 $Definition['InvitationMessage'] = 'Hi 新来的！
 
-快来看看我新架设的论坛吧！这里也许是我们与他人在线交流最好的地方了。
+快来看看我新架设的论坛吧！这里是我们与其他人在线交流最棒的地方了。
 
 点击下方链接登录。';
 $Definition['Invitations per month'] = '每月邀请数';
@@ -391,7 +391,7 @@ $Definition['Message ID'] = '消息 ID';
 $Definition['Method'] = '注册方式';
 $Definition['minute(s)'] = '分钟';
 $Definition['Mixed Layout'] = '混合布局';
-$Definition['Moderators have permission to edit most content.'] = '版主有权编辑绝大部分内容。';
+$Definition['Moderators have permission to edit most content.'] = '版主有编辑绝大部分内容的权限。';
 $Definition['Modern Layout'] = '现代风格排版';
 $Definition['Modern non-table-based layout'] = '不使用表格的现代风格排版';
 $Definition['more than %s deep'] = '深于 %s 层';
@@ -435,7 +435,7 @@ $Definition['Operation By'] = '由';
 $Definition['Organize'] = '组织';
 $Definition['Organize Categories'] = '版块管理';
 $Definition['Original Version'] = '原始版本';
-$Definition['Or select an image on your computer (2mb max)'] = '或在您的计算机中选择一张图片 (最大2MB) ';
+$Definition['Or select an image on your computer (2mb max)'] = '或在您的计算机中选择一张图片（最大2MB）';
 $Definition['Or Spamblock For'] = '否则阻止发布';
 $Definition['Other Themes'] = '其他可用主题';
 $Definition['Other Tutorials'] = '其他教程';
@@ -615,7 +615,7 @@ $Definition['Users that get this reaction get %+d point.'] = '取得此回应的
 $Definition['Users that get this reaction get %+d points.'] = '取得此回应的用户将获得 %+d 分。';
 $Definition['User Summary'] = '用户简介';
 $Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = '新注册的用户将被设置为此角色，直到他们通过邮件确认信激活账户。';
-$Definition['Users with the no ads permission will not see this pocket.'] = '没有广告权限的用户将不会看到此 Pocket。';
+$Definition['Users with the no ads permission will not see this pocket.'] = '拥有无广告权限的用户将不会看到此 Pocket。';
 $Definition['UserWipe'] = '屏蔽用户内容';
 $Definition['UserWipeMessage'] = '删除用户并将用户发布的内容替换为“该用户已被删除”的消息。这样能比较明显地提示有信息缺失。';
 $Definition['Use the content at this url as your homepage.'] = '默认首页。当用户访问 <strong>%s</strong> 时，默认显示的页面。';

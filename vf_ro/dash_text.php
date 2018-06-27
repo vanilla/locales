@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Cu toate că invitaţia a fost creată cu succes, trimiterea E-mailului a eșuat. Serverul a raportat următoarea eroare: %s';
 $Definition['ApplicationHelp'] = 'Aplicaţiile vă permit să adăugaţi grupuri mari de funcţionalități site-ului dumneavoastră. < br / > Odată ce o aplicație a fost adăugată dosarului %s, o puteţi activa sau dezactiva de aici';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Sunteţi sigur că aţi introdus numele de gazdă a bazei de date corect? Poate ați tastat greşit ? Baza de date a raportat: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un rol cu tipul implicit "neconfirmat" îi este necesar să folosească confirmarea prin email.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Făcând click pe butonul de mai jos, veți şterge contul de utilizator %s pentru totdeauna';
 
@@ -88,6 +89,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'D
 $Definition['Messages can appear anywhere in your application.'] = 'Mesajele pot apărea oriunde în aplicaţia dumneavoastră, şi pot fi utilizate pentru a informa utilizatorii de ştiri şi evenimente. Utilizaţi această pagină pentru a reorganiza mesajele prin drag & drop';
 
 $Definition['Notify me when people comment on my addons.'] = 'Anunţă-mă când oamenii comentează extensiile mele';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Acest site necesită un rol cu tipul implicit "neconfirmat" care să folosească confirmarea prin email. Te rugăm să adaugi unul pentru a activa această setare.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Vă rugăm să alegeţi o autentificator pentru a configura';
 $Definition['PluginHelp'] = 'Plugin-urile vă permit să adăugaţi funcţionalități site-ului dvs. < br / > o dată un plug-in a fost adăugat dosarul %s, puteţi activa sau dezactiva de aici.';

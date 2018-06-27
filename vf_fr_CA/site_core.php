@@ -614,7 +614,7 @@ $Definition['Have a great day!'] = 'Passez une bonne journée!';
 $Definition['he'] = 'il';
 $Definition['Heading'] = 'Titres';
 $Definition['Heading %s'] = 'Titre %s';
-$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepter {NotifyUserID,your} réponse.';
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} a accepté {NotifyUserID,your} réponse.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} a répondu à votre question : <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} avez gagné le badge <a href="{Url,html}">{Data.Name,text}</a> .';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banni {ActivityUserID,you}.';

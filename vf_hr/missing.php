@@ -1,23 +1,11 @@
 <?php
 
-$Definition['%s view html'] = '%s view';
-$Definition['%s views html'] = '%s views';
-
 $Definition['Abilites'] = 'Abilities';
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
-$Definition['AboutToDelete'] = 'You are about to delete %s.';
-$Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
-$Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s accepted %4$s %8$s.';
-$Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s commented on your %8$s.';
-$Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s commented on your %8$s.';
-$Definition['Activity.Comment'] = 'Comment';
-$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s sent you a %8$s.';
-$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s sent you a %8$s.';
-$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
@@ -198,7 +186,6 @@ $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
-$Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
@@ -300,7 +287,6 @@ $Definition['Search by user or role.'] = 'Search for users by name or email, opt
 $Definition['Search for a tag.'] = 'Search for all or part of a tag.';
 $Definition['sep and'] = 'and';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
-$Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['SignedOut'] = 'You are signed out.';
 $Definition['SignIn'] = 'Sign In';
 $Definition['SigningOut'] = 'Hang on a sec while we sign you out.';
