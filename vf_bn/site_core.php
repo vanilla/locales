@@ -2,6 +2,10 @@
 
 $Definition['ConnectCreateAccount'] = 'তথ্য দিন ও অ্যাকাউন্ট তৈরি করুন';
 
+$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
+$Definition['editor.fileErrorSize'] = 'File size is too large.';
+$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
+
 $Definition['month.letter.1'] = 'জা';
 $Definition['month.letter.2'] = 'ফে';
 $Definition['month.letter.3'] = 'মা';

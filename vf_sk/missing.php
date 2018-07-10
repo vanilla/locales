@@ -2,6 +2,8 @@
 
 $Definition['Abilites'] = 'Abilities';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['activities'] = 'Activities';
+$Definition['animals-nature'] = 'Animals and Nature';
 
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
@@ -9,6 +11,8 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
 
 $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community. You should <a href="{/profile,url}">customize your profile now</a>.';
+
+$Definition['food-drink'] = 'Food and Drink';
 
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
    Please choose one of the following options.';
@@ -48,18 +52,34 @@ $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
+$Definition['objects'] = 'Objects';
+
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 
 $Definition['Record Content'] = 'Content';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
+$Definition['richEditor.description.inlineMenu'] = 'An inline formatting menu will show up when you select text. Hit tab to get into that menu.';
+$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to get to the paragraph menu. From there you will be able to pick one style. Nothing defaults to paragraph.';
+$Definition['richEditor.description.title'] = 'Rich Text Editor.';
+$Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
+$Definition['richEditor.menu.blockquote'] = 'Blockquote';
+$Definition['richEditor.menu.code'] = 'Inline Code Block';
+$Definition['richEditor.menu.codeBlock'] = 'Code Block';
+$Definition['richEditor.menu.inline'] = 'Inline Style Menu';
+$Definition['richEditor.menu.link'] = 'Link';
+$Definition['richEditor.menu.paragraph'] = 'Paragraph Style Menu';
+$Definition['richEditor.menu.strike'] = 'Strike Through';
+$Definition['richEditor.menu.subheading'] = 'Subheading';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['SignedOut'] = 'You are signed out.';
+$Definition['smileys-people'] = 'Smileys and People';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
+$Definition['symbols'] = 'Symbols';
 
 $Definition['Test Email Message'] = '<p>This is a test email message.</p>
 
@@ -79,6 +99,7 @@ $Definition['This is the administrative dashboard for your new community.'] = 'T
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
+$Definition['travel-places'] = 'Travel and Places';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
@@ -91,6 +112,7 @@ $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 
+$Definition['Validation Failed'] = 'Please review the errors below.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 

@@ -2,6 +2,8 @@
 
 $Definition['Abilites'] = 'Abilities';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['activities'] = 'Activities';
+$Definition['animals-nature'] = 'Animals and Nature';
 
 $Definition['BanReason.1'] = 'Banned by a community manager.';
 $Definition['BanReason.2'] = 'Banned by IP address, email, or name.';
@@ -16,6 +18,8 @@ Check out the new community forum I\'ve just set up. It\'s a great place for us 
 $Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
 $Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community. You should <a href="{/profile,url}">customize your profile now</a>.';
+
+$Definition['food-drink'] = 'Food and Drink';
 
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
@@ -33,6 +37,8 @@ $Definition['Make Leader'] = 'Leader';
 
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
+$Definition['objects'] = 'Objects';
+
 $Definition['Password Contains Username'] = 'Contains Username';
 $Definition['Password Good'] = 'Good';
 $Definition['Password Ok'] = 'Ok';
@@ -42,12 +48,27 @@ $Definition['Password Very Weak'] = 'Very Weak';
 $Definition['Password Weak'] = 'Weak';
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
 
+$Definition['richEditor.description.inlineMenu'] = 'An inline formatting menu will show up when you select text. Hit tab to get into that menu.';
+$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to get to the paragraph menu. From there you will be able to pick one style. Nothing defaults to paragraph.';
+$Definition['richEditor.description.title'] = 'Rich Text Editor.';
+$Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
+$Definition['richEditor.menu.blockquote'] = 'Blockquote';
+$Definition['richEditor.menu.code'] = 'Inline Code Block';
+$Definition['richEditor.menu.codeBlock'] = 'Code Block';
+$Definition['richEditor.menu.heading'] = 'Heading';
+$Definition['richEditor.menu.inline'] = 'Inline Style Menu';
+$Definition['richEditor.menu.link'] = 'Link';
+$Definition['richEditor.menu.paragraph'] = 'Paragraph Style Menu';
+$Definition['richEditor.menu.strike'] = 'Strike Through';
+$Definition['richEditor.menu.subheading'] = 'Subheading';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 $Definition['RSVP'] = 'Respond';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Show previous quotes'] = '&raquo; show previous quotes';
+$Definition['smileys-people'] = 'Smileys and People';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
+$Definition['symbols'] = 'Symbols';
 
 $Definition['Test Email Message'] = '<p>This is a test email message.</p>
 
@@ -55,6 +76,7 @@ $Definition['Test Email Message'] = '<p>This is a test email message.</p>
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>The basic registration form requires</strong> new users to copy text from a CAPTCHA image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:';
 $Definition['The user isn\'t banned.'] = 'The user isn\'t banned or is banned by some other function.';
 $Definition['This is the administrative dashboard for your new community.'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the side. From there you can configure how your community works. <b>By default, only users in the "Administrator" role can see this part of your community.</b>';
+$Definition['travel-places'] = 'Travel and Places';
 
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
 
@@ -65,6 +87,7 @@ $Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
 $Definition['ValidateStrength'] = 'The supplied %s is too weak. Try using a stronger password and use the strength meter as a guide.';
 $Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateUrl'] = 'The %s field is not a valid url.';
+$Definition['Validation Failed'] = 'Please review the errors below.';
 
 $Definition['We\'ve received a request to change your password.'] = 'We\'ve received a request to change your password at %s. If you didn\'t make this request, please ignore this email.';
 

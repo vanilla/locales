@@ -1,5 +1,9 @@
 <?php
 
+$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
+$Definition['editor.fileErrorSize'] = 'File size is too large.';
+$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
+
 $Definition['month.letter.1'] = 'ජ';
 $Definition['month.letter.2'] = 'පෙ';
 $Definition['month.letter.3'] = 'මා';

@@ -121,6 +121,9 @@ $Definition['Edit Account'] = 'Uredi Account';
 $Definition['Edit My Account'] = 'Uredi Moj Account';
 $Definition['Edit My Thumbnail'] = 'Uredi Moju Minijaturu';
 $Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
+$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
+$Definition['editor.fileErrorSize'] = 'File size is too large.';
+$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
 $Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
 $Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
 $Definition['Edit Preferences'] = 'Uredi Povlastice';
@@ -369,6 +372,9 @@ $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link 
 $Definition['Report Notes'] = 'Notes';
 $Definition['Report Reason'] = 'Reason';
 $Definition['Request a new password'] = 'Podnesi zahtjev za novu šifru';
+$Definition['richEditor.menu.bold'] = 'Bold';
+$Definition['richEditor.menu.italic'] = 'Italic';
+$Definition['richEditor.menu.spoiler'] = 'Spoiler';
 $Definition['RoleID'] = 'role';
 $Definition['Roles'] = 'Dozvole';
 
