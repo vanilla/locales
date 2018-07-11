@@ -482,9 +482,9 @@ $Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgr
 $Definition['editor.MarkdownHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in your post.';
 $Definition['editor.TextHelpText'] = 'You are using plain text in your post.';
 $Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
-$Definition['editor.fileErrorSize'] = 'File size is too large.'
-$Definition['editor.fileErrorFormat'] = 'File format is not allowed.'
-$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.'
+$Definition['editor.fileErrorSize'] = 'File size is too large.';
+$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
+$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
 $Definition['Edit Preferences'] = 'Edit Preferences';
 $Definition['Edit Profile'] = 'Edit Profile';
 $Definition['Edit Tag'] = 'Edit Tag';

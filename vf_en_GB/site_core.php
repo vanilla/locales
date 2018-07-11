@@ -12,6 +12,9 @@ $Definition['Customize your Public Profile'] = 'Customise your Public Profile';
 $Definition['Date.DefaultDateTimeFormat'] = '%e %B %Y %H:%M';
 $Definition['Date.DefaultTimeFormat'] = '%H:%M';
 
+$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
+$Definition['editor.fileErrorSize'] = 'File size is too large.';
+$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
 $Definition['EmailPassword'] = '%2$s has reset your password at %3$s. Your login credentials are now:
 
   Email: %6$s

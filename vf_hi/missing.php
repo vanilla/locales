@@ -8,7 +8,9 @@ $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community 
 $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['activities'] = 'Activities';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
+$Definition['animals-nature'] = 'Animals and Nature';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Approve Applicant'] = 'Approve';
@@ -63,6 +65,7 @@ $Definition['Facebook Connect allows users to sign in using their Facebook accou
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
 $Definition['FollowOnly'] = 'Follow the link below to check it out:';
+$Definition['food-drink'] = 'Food and Drink';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
@@ -120,6 +123,8 @@ $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.'
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 $Definition['Null Date'] = '-';
 
+$Definition['objects'] = 'Objects';
+
 $Definition['Password Contains Username'] = 'Contains Username';
 $Definition['Password Good'] = 'Good';
 $Definition['Password Ok'] = 'Ok';
@@ -139,6 +144,21 @@ $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. S
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
 $Definition['Report Notes'] = 'Notes';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
+$Definition['richEditor.description.inlineMenu'] = 'An inline formatting menu will show up when you select text. Hit tab to get into that menu.';
+$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to get to the paragraph menu. From there you will be able to pick one style. Nothing defaults to paragraph.';
+$Definition['richEditor.description.title'] = 'Rich Text Editor.';
+$Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
+$Definition['richEditor.menu.blockquote'] = 'Blockquote';
+$Definition['richEditor.menu.bold'] = 'Bold';
+$Definition['richEditor.menu.code'] = 'Inline Code Block';
+$Definition['richEditor.menu.codeBlock'] = 'Code Block';
+$Definition['richEditor.menu.heading'] = 'Heading';
+$Definition['richEditor.menu.inline'] = 'Inline Style Menu';
+$Definition['richEditor.menu.italic'] = 'Italic';
+$Definition['richEditor.menu.link'] = 'Link';
+$Definition['richEditor.menu.paragraph'] = 'Paragraph Style Menu';
+$Definition['richEditor.menu.strike'] = 'Strike Through';
+$Definition['richEditor.menu.subheading'] = 'Subheading';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 $Definition['RSVP'] = 'Respond';
@@ -147,9 +167,11 @@ $Definition['Search by user or role.'] = 'Search for users by name or email, opt
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['SignedOut'] = 'You are signed out.';
+$Definition['smileys-people'] = 'Smileys and People';
 $Definition['Source Code'] = 'Code';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
+$Definition['symbols'] = 'Symbols';
 
 $Definition['TagHint'] = 'Start to type...';
 $Definition['Test Email Message'] = '<p>This is a test email message.</p>
@@ -172,6 +194,7 @@ $Definition['This is the administrative dashboard for your new community.'] = 'T
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
+$Definition['travel-places'] = 'Travel and Places';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
@@ -192,6 +215,7 @@ $Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
 $Definition['ValidateStrength'] = 'The supplied %s is too weak. Try using a stronger password and use the strength meter as a guide.';
 $Definition['ValidateString'] = '%s is not a valid string.';
 $Definition['ValidateUrl'] = 'The %s field is not a valid url.';
+$Definition['Validation Failed'] = 'Please review the errors below.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 $Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
