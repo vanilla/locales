@@ -924,6 +924,7 @@ $Definition['Nobody is on the fence right now.'] = 'Nobody is on the fence right
 $Definition['No default roles.'] = 'No default roles.';
 $Definition['No discussions were found.'] = 'No discussions were found.';
 $Definition['No items tagged with %s.'] = 'No items tagged with %s.';
+$Definition['There aren\'t any more groups invites.'] = 'There aren\'t any more groups invites.';
 $Definition['None'] = 'None';
 $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
 $Definition['No results'] = 'No results';
