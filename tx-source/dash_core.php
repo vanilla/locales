@@ -674,3 +674,12 @@ $Definition['Your configuration file does not have the correct permissions. PHP 
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
 $Definition['Your inbox is empty.'] = 'Your inbox is empty.';
 $Definition['Your invitations were sent successfully.'] = 'Your invitations were sent successfully.';
+
+// Editor settings
+$Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
+$Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their
+original formatting rules. Aside from this exception, the selected post format below will take precedence.';
+$Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
+$Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
+$Definition['MobileInputFormatter.Notes'] = 'If mobile devices should have the same experience,
+specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
