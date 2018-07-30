@@ -683,3 +683,4 @@ $Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysi
 $Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
 $Definition['MobileInputFormatter.Notes'] = 'If mobile devices should have the same experience,
 specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
+$Definition['Note:'] = 'Note:';
