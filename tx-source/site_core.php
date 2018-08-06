@@ -1527,6 +1527,7 @@ $Definition['Video embedding has been disabled.'] = 'Video embedding has been di
 $Definition['View'] = 'View';
 $Definition['View Badge'] = 'View Badge';
 $Definition['View Post'] = 'View Post';
+$Definition['View Results'] = 'View Results';
 $Definition['Viewing'] = 'Viewing';
 $Definition['Views'] = 'Views';
 $Definition['Visible'] = 'Visible';
