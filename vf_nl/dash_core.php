@@ -54,6 +54,7 @@ $Definition['Add Item'] = 'Voeg item toe';
 $Definition['Addons'] = 'Add-ons';
 $Definition['Add Role'] = 'Voeg een rol toe';
 $Definition['Add User'] = 'Voeg gebruiker toe';
+$Definition['Advanced Category Settings'] = 'Geavanceerde categorie-instellingen';
 $Definition['Advanced Editor Settings'] = 'Geavanceerde bewerkingsinstellingen';
 $Definition['Advanced Embed Settings'] = 'Geavanceerde geïntegreede instellingen';
 $Definition['Advanced Forum Settings'] = 'Geavanceerde foruminstellingen';

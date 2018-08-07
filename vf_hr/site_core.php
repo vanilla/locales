@@ -177,10 +177,6 @@ $Definition['Advanced'] = 'Napredno';
 
 $Definition['Comment'] = 'Komentar';
 
-$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
-$Definition['editor.fileErrorSize'] = 'File size is too large.';
-$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
-
 $Definition['Hide previous quotes'] = '&laquo; sakrij prijašnje citate';
 
 $Definition['month.letter.1'] = '1.';

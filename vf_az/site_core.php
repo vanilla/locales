@@ -49,10 +49,6 @@ $Definition['answer'] = 'cavab ver';
 
 $Definition['Comment'] = 'Rəy bildir';
 
-$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
-$Definition['editor.fileErrorSize'] = 'File size is too large.';
-$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
-
 $Definition['month.letter.1'] = '1';
 $Definition['month.letter.2'] = '2';
 $Definition['month.letter.3'] = '3';

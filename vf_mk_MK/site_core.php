@@ -215,10 +215,6 @@ $Definition['Applicants & Invitations'] = 'Кандидати и покани';
 
 $Definition['Comment'] = 'Коментар';
 
-$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
-$Definition['editor.fileErrorSize'] = 'File size is too large.';
-$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
-
 $Definition['Hide previous quotes'] = '&laquo; сокриј ги претходните реплики';
 
 $Definition['month.letter.1'] = 'ј';

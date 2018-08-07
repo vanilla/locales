@@ -15,11 +15,16 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
 
+$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
+$Definition['editor.fileErrorSize'] = 'File size is too large.';
+$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
 $Definition['editor.HtmlHelpText'] = 'You can use <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a> in your post.';
 $Definition['editor.WysiwygHelpText'] = 'You are using <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> in your post.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community. You should <a href="{/profile,url}">customize your profile now</a>.';
 
 $Definition['food-drink'] = 'Food and Drink';
+$Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
+$Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
 
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
@@ -28,12 +33,16 @@ $Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
+$Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
+$Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
 $Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 
 $Definition['Large images will be scaled down.'] = 'Large images will be scaled down to a max width of %spx and a max height of %spx.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
 
 $Definition['Make Leader'] = 'Leader';
+$Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
+$Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the same experience, specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
 
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 

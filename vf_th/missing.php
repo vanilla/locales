@@ -4,9 +4,7 @@ $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
-$Definition['activities'] = 'Activities';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
-$Definition['animals-nature'] = 'Animals and Nature';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 
@@ -40,7 +38,8 @@ $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
-$Definition['food-drink'] = 'Food and Drink';
+$Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
+$Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
@@ -61,6 +60,8 @@ $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Html'] = 'HTML';
 
+$Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
+$Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -77,41 +78,27 @@ $Definition['LogoDescription'] = 'The banner logo appears at the top of your sit
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
+$Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
+$Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the same experience, specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
 
 $Definition['NewApplicantEmail'] = 'New applicant:';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
-$Definition['objects'] = 'Objects';
-
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 
 $Definition['Record Content'] = 'Content';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
-$Definition['richEditor.description.inlineMenu'] = 'An inline formatting menu will show up when you select text. Hit tab to get into that menu.';
-$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to get to the paragraph menu. From there you will be able to pick one style. Nothing defaults to paragraph.';
-$Definition['richEditor.description.title'] = 'Rich Text Editor.';
-$Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
-$Definition['richEditor.menu.blockquote'] = 'Blockquote';
-$Definition['richEditor.menu.code'] = 'Inline Code Block';
-$Definition['richEditor.menu.codeBlock'] = 'Code Block';
-$Definition['richEditor.menu.inline'] = 'Inline Style Menu';
-$Definition['richEditor.menu.link'] = 'Link';
-$Definition['richEditor.menu.paragraph'] = 'Paragraph Style Menu';
-$Definition['richEditor.menu.strike'] = 'Strike Through';
-$Definition['richEditor.menu.subheading'] = 'Subheading';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['SignedOut'] = 'You are signed out.';
-$Definition['smileys-people'] = 'Smileys and People';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
-$Definition['symbols'] = 'Symbols';
 
 $Definition['Test Email Message'] = '<p>This is a test email message.</p>
 
@@ -131,7 +118,6 @@ $Definition['This is the administrative dashboard for your new community.'] = 'T
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
-$Definition['travel-places'] = 'Travel and Places';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
@@ -145,7 +131,6 @@ $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 
-$Definition['Validation Failed'] = 'Please review the errors below.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 

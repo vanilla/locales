@@ -44,6 +44,7 @@ $Definition['Add Item'] = 'Добавить запись';
 $Definition['Addons'] = 'Дополненія';
 $Definition['Add Role'] = 'Добавить новую группу';
 $Definition['Add User'] = 'Добавить пользователя';
+$Definition['Advanced Category Settings'] = 'расширенные настройки раздела';
 $Definition['Advanced Forum Settings'] = 'Продвинутыя установки форума';
 $Definition['Advanced Options'] = 'Расширенныя опціи';
 $Definition['Advanced Settings'] = 'Дополнительныя настройки';
@@ -93,6 +94,7 @@ $Definition['Button Text Color'] = 'Кнопка цвета текста';
 
 $Definition['Categories &amp; Discussions'] = 'Раздѣлы и Обсужденія';
 $Definition['Categories are used to organize discussions.'] = 'Разделы нужны, чтобы помочь вашим пользователям организовывать обсуждения эффективным для вашего сообщества образом.';
+$Definition['Category Following'] = 'Следующий Раздел';
 $Definition['Category Page Layout'] = 'Шаблонъ страницы категорій';
 $Definition['Category Url:'] = 'URL адресъ:';
 $Definition['Change the look of All Categories'] = 'Вы можете измѣнить внѣшній видъ <b>Всѣхъ категорій</b> <a href="%s">здѣсь</a>.';

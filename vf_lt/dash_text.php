@@ -8,6 +8,7 @@ $Definition['About Vanilla Statistics'] = 'Apie Vanilla statistiką';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Pereikite į  savo bendruomenės svarstymų aikštę pasirinkę „Aplankyti svetainę“ nuorodą šio tinklalapio viršuje, arba <a href={/,url}> eikite čia</a>. Bendruomenės svarstymų aikštė bus tai, ką pirmiausiai pamatys visi apsilankę lankytojai: <a href={/,url,domain}>{/,url,domain}</a>.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Rolė nepatvirtintiems naudotojams privaloma.';
 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
@@ -48,6 +49,8 @@ $Definition['LogoDescription'] = 'The banner logo appears at the top of your sit
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
+
+$Definition['No unconfirmed role available for email confirmation.'] = 'Tinklapiui reikia rolės nepatvirtintiems nariams, kad galėtum naudoti el. pašto patvirtinimą. Sukurkite rolė, kad įjungtum šią funkciją';
 
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';

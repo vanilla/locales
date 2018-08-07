@@ -30,6 +30,9 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = 'D
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
+$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
+$Definition['editor.fileErrorSize'] = 'File size is too large.';
+$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
@@ -42,6 +45,8 @@ $Definition['Facebook Connect allows users to sign in using their Facebook accou
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
 $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled to 16x16 pixels.';
 $Definition['food-drink'] = 'Food and Drink';
+$Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
+$Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
@@ -65,6 +70,8 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 $Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
+$Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
+$Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
 $Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
@@ -83,6 +90,8 @@ $Definition['Make Leader'] = 'Leader';
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
+$Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
+$Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the same experience, specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
 
 $Definition['NewApplicantEmail'] = 'New applicant:';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';

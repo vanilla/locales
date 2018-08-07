@@ -52,6 +52,7 @@ $Definition['Add Item'] = 'Sukurti įrašą';
 $Definition['Addons'] = 'Priedai';
 $Definition['Add Role'] = 'Pridėti rolę';
 $Definition['Add User'] = 'Sukurti naudotoją';
+$Definition['Advanced Category Settings'] = 'Išplėstiniai kategorijų nustatymai';
 $Definition['Advanced Embed Settings'] = 'Išplėstiniai įterpimo nustatymai';
 $Definition['Advanced Forum Settings'] = 'Išplėstiniai forumo nustatymai';
 $Definition['Advanced Options'] = 'Išplėstinės parinktys';
@@ -114,6 +115,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Sveikas, 
 
 
 Apsilankyk mano naujoje bendruomenės svarstymų aikštėje, kurią ką tik įrengiau. Tai puiki vieta mudviem paplepėti tinkle.';
+$Definition['Choose Avatar'] = 'Pasirinkti avatarą';
 $Definition['Clean Spam'] = 'Išvalyti brukalus';
 $Definition['comment(s)'] = 'komentaras(-ai)';
 $Definition['Comment  Body'] = 'Komentaras | Pranešimo tekstas';
@@ -282,6 +284,7 @@ $Definition['Operation By'] = 'Nuo';
 $Definition['Organize'] = 'Tvarkyti';
 $Definition['Organize Categories'] = 'Tvarkyti kategorijas';
 $Definition['Original Version'] = 'Originali versija';
+$Definition['Or select an image on your computer (2mb max)'] = 'Arba pasirinkti paveiksliuką iš kompiuterio (2mb max)';
 $Definition['Other Themes'] = 'Kitos temos';
 $Definition['Outgoing Email Address'] = 'Išsiunčiamasis el. paštas';
 
@@ -316,6 +319,7 @@ $Definition['Role'] = 'Rolė';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Save Colors'] = 'Išsaugokite spalvas';
+$Definition['Search by user or role.'] = 'Narių galima ieškoti naudojant slapyvardį arba el. pašto adresą. Taipogi galima ieškoti pagal naudotojo ID, rolės pavadinimą, arba &ldquo;banned&rdquo;.';
 $Definition['Security'] = 'Saugumas';
 $Definition['Select'] = 'Pažymėti';
 $Definition['Send %s a Message'] = 'Išsiųsti %s žinutę';
