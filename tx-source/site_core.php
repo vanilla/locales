@@ -1767,3 +1767,6 @@ $Definition['Embed'] = 'Embed';
 $Definition['▼'] = '▼';
 $Definition['Error'] = 'Error';
 $Definition['▲'] = '▲';
+
+// Quotes
+$Definition['Toggle Quote'] = 'Toggle Quote';
