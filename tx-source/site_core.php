@@ -1762,11 +1762,8 @@ $Definition['Flags'] = 'Flags';
 $Definition['Image'] = 'Image';
 $Definition['Insert Media'] = 'Insert Media';
 $Definition['Paste the URL of the media you want.'] = 'Paste the URL of the media you want.';
-$Definition['http://'] = 'http://';
 $Definition['Embed'] = 'Embed';
-$Definition['▼'] = '▼';
 $Definition['Error'] = 'Error';
-$Definition['▲'] = '▲';
 
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Toggle Quote';
