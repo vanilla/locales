@@ -1768,5 +1768,6 @@ $Definition['▼'] = '▼';
 $Definition['Error'] = 'Error';
 $Definition['▲'] = '▲';
 
-// Quotes
+// Quotes/Formats
 $Definition['Toggle Quote'] = 'Toggle Quote';
+$Definition['Spoiler Warning'] = 'Spoiler Warning';
