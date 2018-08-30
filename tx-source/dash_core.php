@@ -675,7 +675,7 @@ $Definition['Your default locale won\'t display properly'] = 'Your default local
 $Definition['Your inbox is empty.'] = 'Your inbox is empty.';
 $Definition['Your invitations were sent successfully.'] = 'Your invitations were sent successfully.';
 
-// Editor settings
+// Posting settings
 $Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
 $Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
 $Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
@@ -686,3 +686,5 @@ $Definition['Note:'] = 'Note:';
 $Definition['Post Format'] = 'Post Format';
 $Definition['Reinterpret All Posts As Wysiwyg'] = 'Reinterpret All Posts As Wysiwyg';
 $Definition['Mobile Format'] = 'Mobile Format';
+$Definition['Enable Rich Quotes'] = 'Enable Rich Quotes';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
