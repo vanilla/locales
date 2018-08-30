@@ -1697,9 +1697,6 @@ $Definition['You were added to a conversation.'] = '{InsertUserID,user} added {N
 $Definition['You wrote:'] = 'You wrote:';
 
 // Rich Editor
-// Dashboard
-$Definition['Enable Rich Quotes'] = 'Enable Rich Quotes';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
 
 // Long Descriptions
 $Definition['richEditor.description.title'] = 'Rich Text Editor.';
@@ -1707,6 +1704,7 @@ $Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s st
 $Definition['richEditor.description.inlineMenu'] = 'An inline formatting menu will show up when you select text. Hit tab to get into that menu.';
 $Definition['richEditor.description.embed'] = 'Some elements, such as rich link embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using the arrow keys inside of the editor and delete them with the delete or backspace key.';
 $Definition['richEditor.externalEmbed.description'] = 'This is an embed external element. It can be deleted using the delete key or the backspace key. To view the full element, press the preview button below.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
 
 // Formatting Menus
 $Definition['Inline Level Formatting Menu'] = 'Inline Level Formatting Menu';
@@ -1742,7 +1740,6 @@ $Definition['Inline Menu Available'] = 'Inline Menu Available';
 $Definition['Emoji'] = 'Emoji';
 $Definition['Emojis'] = 'Emojis';
 $Definition['Insert an emoji in your message.'] = 'Insert an emoji in your message.';
-$Definition['Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Jump past emoji list, to emoji categories.';
 $Definition['Emoji Categories'] = 'Emoji Categories';
 $Definition['Jump to emoji category: '] = 'Jump to emoji category: ';
