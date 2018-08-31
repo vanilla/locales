@@ -189,6 +189,7 @@ $Definition['All'] = 'All';
 $Definition['All %s'] = 'All %s';
 $Definition['All %s...'] = 'All %s...';
 $Definition['All Bookmarks'] = 'All Bookmarks';
+$Definition['All Badges'] = 'All Badges';
 $Definition['All Categories'] = 'All Categories';
 $Definition['all categories'] = 'all categories';
 $Definition['All Conversations'] = 'All Conversations';
