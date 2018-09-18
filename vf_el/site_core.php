@@ -138,7 +138,7 @@ $Definition['Actions'] = 'Ενέργειες';
 $Definition['Activate'] = 'Ενεργοποίηση';
 $Definition['Active'] = 'Ενεργός';
 $Definition['Active Users'] = 'Ενεργοί Χρήστες';
-$Definition['activities'] = 'Δραστηριότητες';
+$Definition['Activities'] = 'Δραστηριότητες';
 $Definition['Activity'] = 'Δραστηριότητα';
 $Definition['Activity.AnswerAccepted.FullHeadline'] = 'Ο χρήστης %1$s αποδέχτηκε %4$s %8$s.';
 $Definition['Activity.BookmarkComment.FullHeadline'] = 'Ο χρήστης %1$s σχολίασε στο %8$s σας.';
@@ -209,7 +209,6 @@ $Definition['Analytics'] = 'Αναλύσεις';
 $Definition['Ancient Membership'] = 'Αρχείο Μέλος';
 $Definition['An error has occurred, please try again.'] = 'Παρουσιάστηκε σφάλμα. Παρακαλώ προσπαθήστε ξανά.
 ';
-$Definition['animals-nature'] = 'Ζώα και Φύση';
 $Definition['An invitation has already been sent to the email you entered.'] = 'Έχει σταλεί ήδη μία πρόσκληση στο email που δώσατε.';
 $Definition['Announce'] = 'Ανακοίνωση';
 $Definition['Announce...'] = 'Ανακοινώστε...';
@@ -593,7 +592,6 @@ $Definition['First Anniversary'] = 'Πρώτη επέτειος';
 $Definition['First Answer'] = 'Πρώτη Απάντηση';
 $Definition['First Comment'] = 'Πρώτο Σχόλιο';
 $Definition['Flag'] = 'Σημαία';
-$Definition['flags'] = 'σημαίες';
 $Definition['Folder'] = 'Φάκελος';
 $Definition['Folders'] = 'Φάκελοι';
 $Definition['Follow'] = 'Ακολουθήστε';
@@ -606,7 +604,6 @@ $Definition['Following %d people'] = 'Ακολουθεί %d ανθρώπους';
 $Definition['Following %d person'] = 'Ακολουθεί %d άτομο';
 $Definition['FollowOnly'] = 'Ακολουθήστε τον παρακάτω σύνδεσμο για να το δείτε:';
 $Definition['Follows'] = 'Ακολουθεί';
-$Definition['food-drink'] = 'Φαγητό και Ποτό';
 $Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'Για ένα πιο ισχυρό κωδικό πρόσβασης, αυξήστε το μήκος του ή συνδυάστε κεφαλαία  και μικρά γράμματα, αριθμούς και σύμβολα.';
 $Definition['Forgot?'] = 'Τον ξεχάσατε;';
 $Definition['Forgot Password?'] = 'Ξεχάσατε τον Κωδικό σας;';
@@ -798,6 +795,7 @@ $Definition['Leaving'] = 'Αποχώρηση';
 $Definition['Length'] = 'Μήκος';
 $Definition['Level %s'] = 'Επίπεδο %s';
 $Definition['Like'] = 'Μου αρέσει';
+$Definition['Link'] = 'Σύνδεσμος';
 $Definition['Link to content:'] = 'Σύνδεσμος στο περιεχόμενο:';
 $Definition['Locale'] = 'Τοπικές Ρυθμίσεις';
 $Definition['Log'] = 'Αρχείο καταγραφής';
@@ -970,7 +968,7 @@ $Definition[' now.'] = 'τώρα.';
 
 $Definition['Null Date'] = '-';
 
-$Definition['objects'] = 'Αντικείμενα';
+$Definition['Objects'] = 'Αντικείμενα';
 $Definition['of'] = 'του';
 $Definition['Off'] = 'Όχι';
 $Definition['Off Topic'] = 'Εκτός Θέματος';
@@ -1187,6 +1185,8 @@ $Definition['richEditor.description.inlineMenu'] = 'Ένα μενού σε σε�
 $Definition['richEditor.description.paragraphMenu'] = 'Για να επεξεργαστείτε το στυλ μιας παραγράφου, πατήστε στην καρτέλα για να μεταβείτε στο μενού της παραγράφου. Από εκεί θα έχετε τη δυνατότητα να επιλέξετε ένα στυλ. Τίποτα δεν έχει προεπιλογή στην παράγραφο.
 ';
 $Definition['richEditor.description.title'] = 'Επεξεργαστής Εμπλουτισμένου Κειμένου';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Χρησιμοποιήστε τις συντομεύσεις πληκτρολογίου, «μετακίνηση προς τα πάνω» και «μετακίνηση προς τα κάτω» για να μετακινηθείτε στις διαθέσιμες κατηγορίες όταν το μενού είναι ανοιχτό.
+';
 $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Χρησιμοποιήστε τις συντομεύσεις πληκτρολογίου, «μετακίνηση προς τα πάνω» και «μετακίνηση προς τα κάτω» για να μετακινηθείτε στις διαθέσιμες κατηγορίες όταν το μενού είναι ανοιχτό.
 ';
 $Definition['richEditor.menu.blockquote'] = 'Blockquote
@@ -1288,8 +1288,6 @@ $Definition['Sites'] = 'Ιστότοποι';
 $Definition['Sixth Anniversary'] = 'Έκτη Επέτειος';
 $Definition['Smileys & Faces'] = 'Smileys & Faces
 ';
-$Definition['smileys-people'] = 'Smileys και Άνθρωποι
-';
 $Definition['Social'] = 'Kοινωνικός';
 $Definition['somebody'] = 'κάποιος';
 $Definition['Some Code'] = 'Κώδικας';
@@ -1326,7 +1324,7 @@ $Definition['Subject'] = 'Θέμα';
 $Definition['Subscriber'] = 'Συνδρομητής';
 $Definition['Success'] = 'Επιτυχία';
 $Definition['Suggested Value'] = 'Προτεινόμενη Τιμή';
-$Definition['symbols'] = 'Σύμβολα';
+$Definition['Symbols'] = 'Σύμβολα';
 $Definition['System'] = 'Σύστημα';
 
 $Definition['Tagged'] = 'Σχετιζόμενο';
@@ -1440,7 +1438,6 @@ $Definition['Topics'] = 'Θέματα';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'Για να στείλετε ένα νέο email επιβεβαίωσης πατήστε <a href="%s">εδώ</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'Για να χρησιμοποιήσετε το reCAPTCHA πρέπει να πάρετε ένα κλειδί API από %s';
 $Definition['Transport error: %s'] = 'Ένα καίριο λάθος προέκυψε κατά τη διάρκεια της επεξεργασίας του αιτήματός σας.<br />Ο εξυπηρετητής επέστρεψε την εξής απάντηση: %s';
-$Definition['travel-places'] = 'Ταξίδι και Μέρη';
 $Definition['Troll'] = 'Τρολ';
 $Definition['Try Again'] = 'Δοκιμάστε Ξανά';
 $Definition['Turn ON'] = 'Ενεργοποίηση';

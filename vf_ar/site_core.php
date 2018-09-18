@@ -139,7 +139,7 @@ $Definition['Actions'] = 'إجراءات ';
 $Definition['Activate'] = 'تفعيل';
 $Definition['Active'] = 'فعال';
 $Definition['Active Users'] = 'مستخدمون نشطون';
-$Definition['activities'] = 'أنشطة';
+$Definition['Activities'] = 'أنشطة';
 $Definition['Activity'] = 'نشاط';
 $Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s وافق على %4$s %8$s.';
 $Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s علّق على %8$s.';
@@ -209,7 +209,6 @@ $Definition['A message has been sent to your email address with password reset i
 $Definition['Analytics'] = 'تحليلات';
 $Definition['Ancient Membership'] = 'العضوية القديمة';
 $Definition['An error has occurred, please try again.'] = 'حدث خطأ ما، يُرجى المحاولة مرة أخرى.';
-$Definition['animals-nature'] = 'الحيوانات والطبيعة';
 $Definition['An invitation has already been sent to the email you entered.'] = 'تم ارسال دعوة الى البريد الالكتروني الذي ادخلته.';
 $Definition['Announce'] = 'إعلان';
 $Definition['Announce...'] = 'إعلان...';
@@ -582,7 +581,6 @@ $Definition['First Anniversary'] = 'الذكرى السنوية الأولى';
 $Definition['First Answer'] = 'الجواب الأول';
 $Definition['First Comment'] = 'أول تعليق';
 $Definition['Flag'] = 'علم';
-$Definition['flags'] = 'أعلام';
 $Definition['Folder'] = 'مجلد';
 $Definition['Folders'] = 'مجلدات';
 $Definition['Follow'] = 'تتبع';
@@ -595,7 +593,6 @@ $Definition['Following %d people'] = 'يتتبع %d شخص';
 $Definition['Following %d person'] = 'يتتبع %d شخص';
 $Definition['FollowOnly'] = 'اتبع الرابط في الأسفل لتراها:';
 $Definition['Follows'] = 'يتبع';
-$Definition['food-drink'] = 'الطعام والشراب';
 $Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'لتكوين كلمة مرور أكثر قوة، قُم بزيادة طولها أو قم بمزج أحرف كبيرة و أحرف صغيرة مع أرقام ورموز.';
 $Definition['Forgot?'] = 'نسيتها ؟';
 $Definition['Forgot Password?'] = 'هل نسيت كلمة المرور؟';
@@ -783,6 +780,7 @@ $Definition['Leaving'] = 'مغادرة';
 $Definition['Length'] = 'الطول';
 $Definition['Level %s'] = 'مستوى %s';
 $Definition['Like'] = 'إعجاب';
+$Definition['Link'] = 'رابط';
 $Definition['Link to content:'] = 'رابط المحتوى :';
 $Definition['Locale'] = 'مكان';
 $Definition['Log'] = 'سجل';
@@ -952,7 +950,7 @@ $Definition[' now.'] = ' الٱن';
 
 $Definition['Null Date'] = '-';
 
-$Definition['objects'] = 'أشياء';
+$Definition['Objects'] = 'أشياء';
 $Definition['of'] = 'الخاص(ة) ب';
 $Definition['Off'] = 'إيقاف التشغيل';
 $Definition['Off Topic'] = 'خارج الموضوع';
@@ -1164,6 +1162,7 @@ $Definition['richEditor.description.inlineMenu'] = 'ستظهر قائمة تنس
 ';
 $Definition['richEditor.description.paragraphMenu'] = 'لتحرير نمط أحد الفقرات، انقر فوق علامة التبويب للوصول إلى قائمة الفقرة. من هناك ستتمكن من اختيار نمط واحد. لا يوجد شيء افتراضي للفقرة.';
 $Definition['richEditor.description.title'] = 'محرر النصوص المُنَسَقة.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'استخدم اختصارات لوحة المفاتيح "صفحة لأعلى" و "صفحة لأسفل" للتنقل بين الفئات المتاحة عندما تكون القائمة مفتوحة.';
 $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'استخدم اختصارات لوحة المفاتيح "صفحة لأعلى" و "صفحة لأسفل" للتنقل بين الفئات المتاحة عندما تكون القائمة مفتوحة.';
 $Definition['richEditor.menu.blockquote'] = 'عنصر الاقتباس';
 $Definition['richEditor.menu.bold'] = 'غامق';
@@ -1261,7 +1260,6 @@ $Definition['Sitemap Settings'] = 'إعدادات خريطة الموقع';
 $Definition['Sites'] = 'مواقع';
 $Definition['Sixth Anniversary'] = 'الذكرى السنوية السادسة';
 $Definition['Smileys & Faces'] = 'الوجوه والوجوه الضاحكة';
-$Definition['smileys-people'] = 'الوجوه الضاحكة والأشخاص';
 $Definition['Social'] = 'اجتماعي';
 $Definition['somebody'] = 'شخص ما';
 $Definition['Some Code'] = 'بعض التعليمات البرمجية';
@@ -1295,7 +1293,7 @@ $Definition['Strip images out of signatures'] = 'تجريد التواقيع م�
 $Definition['Strip images out of signatures?'] = 'تجريد الصور خارج المواضيع ?';
 $Definition['Subject'] = 'العنوان';
 $Definition['Suggested Value'] = 'القيمة المقترحة';
-$Definition['symbols'] = 'رموز';
+$Definition['Symbols'] = 'رموز';
 
 $Definition['Tagged'] = 'الكلمات الدلالية';
 $Definition['Tagged with '] = 'موسوم بواسطة';
@@ -1405,7 +1403,6 @@ $Definition['Topics'] = 'مواضيع';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'لإرسال رسالة بريد إلكتروني تأكيدية أخرى انقر <a href="%s">هنا</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'لإستخدام reCAPTCHA يجب الحصول على مفتاح API من %s.';
 $Definition['Transport error: %s'] = 'لقد وقع خطأ فادح أثناء معالجة الطلب. <br /> أخرج الخادم هذا الرد: %s';
-$Definition['travel-places'] = 'السفر والأماكن';
 $Definition['Troll'] = 'خارج الموضوع';
 $Definition['Turn ON'] = 'تشغيل';
 $Definition['Twitter'] = 'تويتر';
