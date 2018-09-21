@@ -24,7 +24,7 @@ $Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the 
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
 $Definition['richEditor.description.embed'] = 'Some elements, such as rich link embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using the arrow keys inside of the editor and delete them with the delete or backspace key.';
-$Definition['richEditor.description.inlineMenu'] = 'An inline formatting menu will show up when you select text. Hit tab to get into that menu.';
+$Definition['richEditor.description.inlineMenu'] = 'An text formatting menu will show up when you select text. Hit tab to get into that menu.';
 $Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to get to the paragraph menu. From there you will be able to pick one style. Nothing defaults to paragraph.';
 $Definition['richEditor.description.title'] = 'Rich Text Editor.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
@@ -33,7 +33,7 @@ $Definition['richEditor.externalEmbed.description'] = 'This is an embed external
 $Definition['richEditor.menu.blockquote'] = 'Blockquote';
 $Definition['richEditor.menu.code'] = 'Inline Code Block';
 $Definition['richEditor.menu.codeBlock'] = 'Code Block';
-$Definition['richEditor.menu.inline'] = 'Inline Style Menu';
+$Definition['richEditor.menu.inline'] = 'Text Style Menu';
 $Definition['richEditor.menu.link'] = 'Link';
 $Definition['richEditor.menu.paragraph'] = 'Paragraph Style Menu';
 $Definition['richEditor.menu.strike'] = 'Strike Through';

@@ -172,6 +172,7 @@ $Definition['Align right'] = 'Aligner à droite';
 $Definition['All'] = 'Toutes';
 $Definition['All %s'] = 'Toutes les %s';
 $Definition['All %s...'] = 'Tout %s';
+$Definition['All Badges'] = 'Tous les badges';
 $Definition['All Bookmarks'] = 'Tous les favoris';
 $Definition['All Categories'] = 'Toutes les catégories';
 $Definition['all categories'] = 'toutes les catégories';

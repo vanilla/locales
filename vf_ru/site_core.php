@@ -190,6 +190,7 @@ $Definition['Align right'] = 'Выровнять по правому краю';
 $Definition['All'] = 'Все';
 $Definition['All %s'] = 'Все %s';
 $Definition['All %s...'] = 'Все %s...';
+$Definition['All Badges'] = 'Все значки';
 $Definition['All Bookmarks'] = 'Все закладки';
 $Definition['All Categories'] = 'Все разделы';
 $Definition['all categories'] = 'Все разделы';
@@ -1790,5 +1791,3 @@ $Definition['Your status for this event is now: <b>%s</b>'] = 'Сейчас ва
 $Definition['Your warning was added.'] = 'Ваше предупреждение было опубликовано.';
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} добавил(а) {NotifyUserID,you} к <a href="{Url,htmlencode}">диалогу</a>.';
 $Definition['You wrote:'] = 'Вы написали:';
-
-$Definition['×'] = 'x';

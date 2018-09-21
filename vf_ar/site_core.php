@@ -187,6 +187,7 @@ $Definition['Align right'] = 'المحاذاة يميناً';
 $Definition['All'] = 'الكل';
 $Definition['All %s'] = 'كل %s';
 $Definition['All %s...'] = 'الكل %s...';
+$Definition['All Badges'] = 'كل الشارات';
 $Definition['All Bookmarks'] = 'كل الإشارات المرجعية';
 $Definition['All Categories'] = 'جميع الأقسام';
 $Definition['all categories'] = 'جميع الأقسام';
@@ -209,6 +210,7 @@ $Definition['A message has been sent to your email address with password reset i
 $Definition['Analytics'] = 'تحليلات';
 $Definition['Ancient Membership'] = 'العضوية القديمة';
 $Definition['An error has occurred, please try again.'] = 'حدث خطأ ما، يُرجى المحاولة مرة أخرى.';
+$Definition['Animals & Nature'] = 'حيوانات و طبيعة';
 $Definition['An invitation has already been sent to the email you entered.'] = 'تم ارسال دعوة الى البريد الالكتروني الذي ادخلته.';
 $Definition['Announce'] = 'إعلان';
 $Definition['Announce...'] = 'إعلان...';
@@ -524,6 +526,7 @@ $Definition['EmailStoryNotification'] = '%1$s
 نتمنى لك يوماً رائعاً!';
 $Definition['Email Unavailable'] = 'البريد الالكتروني غير متوفر';
 $Definition['Email visible to other users'] = 'البريد الالكتروني مرئي لمستخدمين آخرين';
+$Definition['Embed'] = 'تضمين';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">اقرأ القصة كاملة هنا</a></p><div class="ClearFix"></div></div>';
@@ -533,6 +536,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p><a href="{Url}">اقرأ القصة كاملةً هنا</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'رموز تعبيرية';
 $Definition['Emoji Categories'] = 'فئات الرموز التعبيرية';
+$Definition['Emojis'] = 'رموز تعبيرية';
 $Definition['Enable'] = 'تفعيل';
 $Definition['Enabled'] = 'نشط';
 $Definition['End time?'] = 'إنهاء الوقت؟';
@@ -581,6 +585,7 @@ $Definition['First Anniversary'] = 'الذكرى السنوية الأولى';
 $Definition['First Answer'] = 'الجواب الأول';
 $Definition['First Comment'] = 'أول تعليق';
 $Definition['Flag'] = 'علم';
+$Definition['Flags'] = 'أعلام';
 $Definition['Folder'] = 'مجلد';
 $Definition['Folders'] = 'مجلدات';
 $Definition['Follow'] = 'تتبع';
@@ -593,12 +598,24 @@ $Definition['Following %d people'] = 'يتتبع %d شخص';
 $Definition['Following %d person'] = 'يتتبع %d شخص';
 $Definition['FollowOnly'] = 'اتبع الرابط في الأسفل لتراها:';
 $Definition['Follows'] = 'يتبع';
+$Definition['Food & Drink'] = 'طعام و شراب';
 $Definition['For a stronger password, increase its length or combine upper and lowercase letters, digits, and symbols.'] = 'لتكوين كلمة مرور أكثر قوة، قُم بزيادة طولها أو قم بمزج أحرف كبيرة و أحرف صغيرة مع أرقام ورموز.';
 $Definition['Forgot?'] = 'نسيتها ؟';
 $Definition['Forgot Password?'] = 'هل نسيت كلمة المرور؟';
 $Definition['Forgot password?'] = 'هل نسيت كلمة المرور؟';
 $Definition['Forgot your password?'] = 'نسيت كلمة المرور؟';
 $Definition['Format'] = 'تنسيق';
+$Definition['Format as blockquote'] = 'صيغة اقتباس فقرة';
+$Definition['Format as Bold'] = 'صيغة الخط العريض';
+$Definition['Format as code block'] = 'صيغة رمز معترض';
+$Definition['Format as Inline Code'] = 'تنسيق كـ رمز مضمّن';
+$Definition['Format as Italic'] = 'صيغة الخط المائل ';
+$Definition['Format as Link'] = 'صيغة رابط';
+$Definition['Format as Paragraph'] = 'صيغة الفقرة';
+$Definition['Format as spoiler'] = 'صيغة تنبيه المفسد';
+$Definition['Format as Strikethrough'] = 'صيغة توسيط';
+$Definition['Format as Subtitle'] = 'صيغة عنوان فرعي';
+$Definition['Format as Title'] = 'صيغة عنوان';
 $Definition['Format his'] = 'له';
 $Definition['Format their'] = 'هم';
 $Definition['Format You'] = 'أنت';
@@ -708,6 +725,7 @@ $Definition['Inbox'] = 'البريد الوارد';
 $Definition['Incorrect. Try again.'] = 'خطأ. حاول مرة أخرى.';
 $Definition['Indent'] = 'طلب رسمي';
 $Definition['In emoji category: '] = 'في فئة الرموز التعبيرية:';
+$Definition['Inline Level Formatting Menu'] = 'قائمة تنسيق المستوى المضمن';
 $Definition['Inline Menu Available'] = 'قائمة مضمنة متاحة';
 $Definition['In Progress'] = 'قيد التنفيذ';
 $Definition['In recent discussions.'] = 'في المناقشات الحديثة';
@@ -717,6 +735,8 @@ $Definition['Insert an embedded web page, or video into your message'] = 'أدر
 $Definition['Insert an emoji in your message.'] = 'أدرج رمزًا تعبيريًا في رسالتك.';
 $Definition['Inserted'] = 'تم الإدخال';
 $Definition['Insert Image'] = 'إضافة صورة';
+$Definition['Insert Media'] = 'إدخال ميديا';
+$Definition['Insert Url'] = 'أدخل عنوان Url';
 $Definition['Insightful'] = 'ثاقبة';
 $Definition['Internal'] = 'داخلي';
 $Definition['In this Conversation'] = 'في هذه المشاركة';
@@ -751,6 +771,7 @@ $Definition['Join this Group'] = 'انضم لهذه المجموعة';
 $Definition['Join this group to view its content.'] = 'انضم للمجموعة لمشاهدة محتوياتها.';
 $Definition['Jumped to emoji category: '] = 'انْتَقَلَ إلى فئة الرموز التعبيرية:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'التنقل من قائمة الرموز التعبيرية السابقة، إلى فئات الرموز التعبيرية.';
+$Definition['Jump to emoji category: '] = 'انتقل إلى فئة الرموز التعبيرية';
 $Definition['Jump to first tracked post.'] = 'القفز إلى أول منشور يتم تتبعه.';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'فقط حذف سجل المستخدم، والحفاظ على كل محتوى المستخدم.';
 $Definition['Just expire the warning.'] = 'انهاء التحذير.';
@@ -780,6 +801,7 @@ $Definition['Leaving'] = 'مغادرة';
 $Definition['Length'] = 'الطول';
 $Definition['Level %s'] = 'مستوى %s';
 $Definition['Like'] = 'إعجاب';
+$Definition['Line Level Formatting Menu'] = 'قائمة تنسيق مستوى الخط';
 $Definition['Link'] = 'رابط';
 $Definition['Link to content:'] = 'رابط المحتوى :';
 $Definition['Locale'] = 'مكان';
@@ -985,6 +1007,8 @@ $Definition['Page %s'] = 'صفحة  %s';
 $Definition['PageDetailsMessage'] = '%1$s الى %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s الى %2$s من %3$s';
 $Definition['Page Not Found'] = 'الصفحة غير موجودة';
+$Definition['Paragraph'] = 'فقرة';
+$Definition['Paragraph Code Block'] = 'صيغة فقرة معترضة';
 $Definition['Participated'] = 'شارك';
 $Definition['Participated Discussions'] = 'المواضيع المشارك فيها';
 $Definition['ParticipatedHomepageTitle'] = 'المواضيع المشارك فيها';
@@ -1158,12 +1182,15 @@ $Definition['reverse'] = 'إلغاء';
 $Definition['Revoke'] = 'سحب';
 $Definition['Revoked'] = 'ألغيت';
 $Definition['Revoked badge.'] = 'شارة مسحوبة.';
+$Definition['richEditor.description.embed'] = 'قد يتم إدراج بعض العناصر إلى المحرر ،  كإدراج الروابط والصور ومؤشرات التحميل ورسائل الخطأ. يمكنك الانتقال إلى هذه العناصر باستخدام مفاتيح الأسهم الموجودة داخل المحرر وحذفها باستخدام مفتاح الحذف أو مفتاح مسافة للخلف.';
 $Definition['richEditor.description.inlineMenu'] = 'ستظهر قائمة تنسيق مضمنة عند تحديد النص. انقر على علامة التبويب للوصول إلى تلك القائمة.
 ';
 $Definition['richEditor.description.paragraphMenu'] = 'لتحرير نمط أحد الفقرات، انقر فوق علامة التبويب للوصول إلى قائمة الفقرة. من هناك ستتمكن من اختيار نمط واحد. لا يوجد شيء افتراضي للفقرة.';
 $Definition['richEditor.description.title'] = 'محرر النصوص المُنَسَقة.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'استخدم اختصارات لوحة المفاتيح "صفحة لأعلى" و "صفحة لأسفل" للتنقل بين الفئات المتاحة عندما تكون القائمة مفتوحة.';
 $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'استخدم اختصارات لوحة المفاتيح "صفحة لأعلى" و "صفحة لأسفل" للتنقل بين الفئات المتاحة عندما تكون القائمة مفتوحة.';
+$Definition['richEditor.externalEmbed.description'] = 'إن هذا عنصر خارجي مدرج يمكن حذفه بالضغط على مفتاح الحذف أو مفتاح المسافة للخلف.
+لرؤية العنصر كاملا اضغط على زر العرض بالأسفل. ';
 $Definition['richEditor.menu.blockquote'] = 'عنصر الاقتباس';
 $Definition['richEditor.menu.bold'] = 'غامق';
 $Definition['richEditor.menu.code'] = 'مجموعة أكواد مضمنة';
@@ -1260,6 +1287,7 @@ $Definition['Sitemap Settings'] = 'إعدادات خريطة الموقع';
 $Definition['Sites'] = 'مواقع';
 $Definition['Sixth Anniversary'] = 'الذكرى السنوية السادسة';
 $Definition['Smileys & Faces'] = 'الوجوه والوجوه الضاحكة';
+$Definition['Smileys & People'] = 'وجوه ضاحكة و ناس';
 $Definition['Social'] = 'اجتماعي';
 $Definition['somebody'] = 'شخص ما';
 $Definition['Some Code'] = 'بعض التعليمات البرمجية';
@@ -1272,6 +1300,7 @@ $Definition['Spam Queue'] = 'قائمة الرسائل غير المرغوب ب�
 $Definition['Split'] = 'تقسيم';
 $Definition['Split Comments'] = 'تقسيم التعليقات';
 $Definition['Spoiler'] = 'كشف';
+$Definition['Spoiler Warning'] = 'تحذيرات المفسد';
 $Definition['Spoof User'] = 'مستخدم وهمي';
 $Definition['SSL'] = 'بروتوكول طبقة المنافذ الآمنة';
 $Definition['Start'] = 'بداية';
@@ -1292,6 +1321,8 @@ $Definition['Strikethrough'] = 'شطب بخط';
 $Definition['Strip images out of signatures'] = 'تجريد التواقيع من الصور';
 $Definition['Strip images out of signatures?'] = 'تجريد الصور خارج المواضيع ?';
 $Definition['Subject'] = 'العنوان';
+$Definition['Sub Subtitle'] = 'عنوان فرعي متفرع';
+$Definition['Subtitle'] = 'عنوان فرعي';
 $Definition['Suggested Value'] = 'القيمة المقترحة';
 $Definition['Symbols'] = 'رموز';
 
@@ -1398,11 +1429,13 @@ $Definition['To'] = 'إلى';
 $Definition['Toggle full page'] = 'تبديك كامل الصفحة';
 $Definition['Toggle HTML view'] = 'تبديل عرض HTML';
 $Definition['Toggle lights'] = 'تبديل الأضواء';
+$Definition['Toggle Quote'] = 'تبديل اقتباس';
 $Definition['Topic'] = 'موضوع';
 $Definition['Topics'] = 'مواضيع';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'لإرسال رسالة بريد إلكتروني تأكيدية أخرى انقر <a href="%s">هنا</a>.';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'لإستخدام reCAPTCHA يجب الحصول على مفتاح API من %s.';
 $Definition['Transport error: %s'] = 'لقد وقع خطأ فادح أثناء معالجة الطلب. <br /> أخرج الخادم هذا الرد: %s';
+$Definition['Travel & Places'] = 'ترحال و أماكن';
 $Definition['Troll'] = 'خارج الموضوع';
 $Definition['Turn ON'] = 'تشغيل';
 $Definition['Twitter'] = 'تويتر';
@@ -1501,6 +1534,7 @@ $Definition['Video embedding has been disabled.'] = 'إدخال الفيديوه
 $Definition['View Badge'] = 'مشاهدة الشارة';
 $Definition['Viewing'] = 'مشاهدة';
 $Definition['View Post'] = 'عرض المشاركة';
+$Definition['View Results'] = 'إظهار النتائج';
 $Definition['Views'] = 'مشاهدات';
 $Definition['Visible'] = 'مرئي';
 $Definition['Visits'] = 'الزيارات';

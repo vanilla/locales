@@ -170,6 +170,7 @@ $Definition['Agree'] = 'Согласенъ';
 $Definition['Alert'] = 'Предупрежденіе';
 $Definition['All'] = 'Все';
 $Definition['All %s'] = 'Все %s';
+$Definition['All Badges'] = 'Все значки';
 $Definition['All Bookmarks'] = 'Все закладки';
 $Definition['All Categories'] = 'Все категоріи';
 $Definition['all categories'] = 'все категоріи';
@@ -1555,5 +1556,3 @@ $Definition['Your settings have been saved.'] = 'Ваши настройки б�
 $Definition['Your settings have been saved successfully.'] = 'Ваши настройки были успѣшно сохранены.';
 $Definition['Your warning was added.'] = 'Ваше предупрежденіе было добавлено.';
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} добавилъ {NotifyUserID,you} къ <a href="{Url,htmlencode}">бесѣдѣ</a>.';
-
-$Definition['×'] = 'x';
