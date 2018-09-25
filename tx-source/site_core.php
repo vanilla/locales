@@ -1178,13 +1178,13 @@ $Definition['Revoked'] = 'Revoked';
 $Definition['Revoked badge.'] = 'Revoked badge.';
 $Definition['richEditor.description.title'] = 'Rich Text Editor.';
 $Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to get to the paragraph menu. From there you will be able to pick one style. Nothing defaults to paragraph.';
-$Definition['richEditor.description.inlineMenu'] = 'An inline formatting menu will show up when you select text. Hit tab to get into that menu.';
+$Definition['richEditor.description.inlineMenu'] = 'An text formatting menu will show up when you select text. Hit tab to get into that menu.';
 $Definition['richEditor.menu.blockquote'] = 'Blockquote';
 $Definition['richEditor.menu.bold'] = 'Bold';
 $Definition['richEditor.menu.code'] = 'Inline Code Block';
 $Definition['richEditor.menu.codeBlock'] = 'Code Block';
 $Definition['richEditor.menu.heading'] = 'Heading';
-$Definition['richEditor.menu.inline'] = 'Inline Style Menu';
+$Definition['richEditor.menu.inline'] = 'Text Style Menu';
 $Definition['richEditor.menu.italic'] = 'Italic';
 $Definition['richEditor.menu.link'] = 'Link';
 $Definition['richEditor.menu.paragraph'] = 'Paragraph Style Menu';
@@ -1702,14 +1702,14 @@ $Definition['You wrote:'] = 'You wrote:';
 
 // Long Descriptions
 $Definition['richEditor.description.title'] = 'Rich Text Editor.';
-$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to get to the paragraph menu. From there you will be able to pick one style. Nothing defaults to paragraph.';
-$Definition['richEditor.description.inlineMenu'] = 'An inline formatting menu will show up when you select text. Hit tab to get into that menu.';
-$Definition['richEditor.description.embed'] = 'Some elements, such as rich link embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using the arrow keys inside of the editor and delete them with the delete or backspace key.';
-$Definition['richEditor.externalEmbed.description'] = 'This is an embed external element. It can be deleted using the delete key or the backspace key. To view the full element, press the preview button below.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
+$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to navigate to the paragraph menu.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'A text formatting menu will open when you select text. Hit tab to navigate to that menu.';
+$Definition['richEditor.description.embed'] = 'Some elements, such as embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using arrow keys inside of the editor and delete them with the delete or backspace key.';
+$Definition['richEditor.externalEmbed.description'] = 'This is an embed. It can be deleted using the delete key or the backspace key.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when the emoji menu is open.';
 
 // Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Inline Level Formatting Menu';
+$Definition['Inline Level Formatting Menu'] = 'Text Format Menu';
 $Definition['Format as Bold'] = 'Format as Bold';
 $Definition['Bold'] = 'Bold';
 $Definition['Format as Italic'] = 'Format as Italic';
@@ -1717,16 +1717,15 @@ $Definition['Italic'] = 'Italic';
 $Definition['Format as Strikethrough'] = 'Format as Strikethrough';
 $Definition['Strikethrough'] = 'Strikethrough';
 $Definition['Format as Inline Code'] = 'Format as Inline Code';
-$Definition['Paragraph Code Block'] = 'Paragraph Code Block';
+$Definition['Paragraph Code Block'] = 'Code Block';
 $Definition['Format as Link'] = 'Format as Link';
 $Definition['Link'] = 'Link';
 $Definition['Insert Url'] = 'Insert Url';
 $Definition['Paste or type a link…'] = 'Paste or type a link…';
-$Definition['×'] = '×';
 $Definition['Close'] = 'Close';
-$Definition['Line Level Formatting Menu'] = 'Line Level Formatting Menu';
+$Definition['Line Level Formatting Menu'] = 'Paragraph Format Menu';
 $Definition['Paragraph'] = 'Paragraph';
-$Definition['Format as Paragraph'] = 'Format as Paragraph';
+$Definition['Format as Paragraph'] = 'Format as a normal paragraph';
 $Definition['Subtitle'] = 'Subtitle';
 $Definition['Format as Title'] = 'Format as Title';
 $Definition['Sub Subtitle'] = 'Sub Subtitle';
@@ -1736,16 +1735,16 @@ $Definition['Format as blockquote'] = 'Format as blockquote';
 $Definition['Format as code block'] = 'Format as code block';
 $Definition['Spoiler'] = 'Spoiler';
 $Definition['Format as spoiler'] = 'Format as spoiler';
-$Definition['Inline Menu Available'] = 'Inline Menu Available';
+$Definition['Inline Menu Available'] = 'Text Format Menu Available';
 
 // Emoji Picker
 $Definition['Emoji'] = 'Emoji';
 $Definition['Emojis'] = 'Emojis';
 $Definition['Insert an emoji in your message.'] = 'Insert an emoji in your message.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Jump past emoji list, to emoji categories.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Jump past emoji list, to emoji category buttons.';
 $Definition['Emoji Categories'] = 'Emoji Categories';
-$Definition['Jump to emoji category: '] = 'Jump to emoji category: ';
-$Definition['In emoji category: '] = 'In emoji category: ';
+$Definition['Jump to emoji category: %s'] = 'Jump to emoji category: %s';
+$Definition['In emoji category: %s'] = 'In emoji category: %s';
 
 // Emoji Categories
 $Definition['Smileys & People'] = 'Smileys & People';
