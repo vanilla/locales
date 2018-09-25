@@ -587,7 +587,7 @@ $Definition['This forum is currently set to invitation only mode.'] = 'Ce forum 
 $Definition['This is a parent category that does not allow discussions.'] = 'Ceci est une catégorie-mère qui n\'admet pas de conversations.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'C\'est la première fois que vous visitez les forums de discussion.';
 $Definition['This page requires Javascript.'] = 'Cette page nécessite que le Javascript soit activé pour pouvoir fonctionner correctement.';
-$Definition['This pocket is an ad.'] = 'Ce bloc est un ajout.';
+$Definition['This pocket is an ad.'] = 'Ce bloc est une publicité.';
 $Definition['This theme has additional options.'] = 'Ce thème possède des options supplémentaires';
 $Definition['This theme has customizable text.'] = 'Ce thème possède des sections de texte configurables';
 $Definition['Thumbnails'] = 'Vignettes d\'aperçu';
@@ -616,7 +616,7 @@ $Definition['Users that get this reaction get %+d point.'] = 'Les utilisateurs q
 $Definition['Users that get this reaction get %+d points.'] = 'Les utilisateurs qui suscitent cette réaction reçoivent %+d points.';
 $Definition['User Summary'] = 'Résumé utilisateur';
 $Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'Les utilisateurs seront affectés à ce statut jusqu\'à ce qu\'ils aient confirmé leur adresse email.';
-$Definition['Users with the no ads permission will not see this pocket.'] = 'Les utilisateurs sans permission d\'ajout ne pourront pas voir ce bloc.';
+$Definition['Users with the no ads permission will not see this pocket.'] = 'Les utilisateurs avec la permission no ads ne verront pas ce bloc.';
 $Definition['UserWipe'] = 'Contenu utilisateur vide';
 $Definition['UserWipeMessage'] = 'Supprimez l\'utilisateur et remplacez tout son contenu utilisateur par un message qui indique que l\'utilisateur a été supprimé. Cela donne une indication visuelle sur le fait qu\'il manquera de l\'information.';
 $Definition['Use the content at this url as your homepage.'] = 'Votre "page d\'accueil" est ce que les gens voient quand ils visitent <strong style="white-space: nowrap;">%s</strong>. Nous utilisons "Toutes les conversations" comme page d\'accueil par défaut, mais vous pouvez la changer comme bon vous semble. Voici quelques options souvent utilisées:';

@@ -22,6 +22,7 @@ $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs 
 
 $Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
 $Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
+$Definition['Format as Paragraph'] = 'Format as a normal paragraph';
 
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
@@ -30,11 +31,16 @@ $Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
+$Definition['Inline Level Formatting Menu'] = 'Text Format Menu';
+$Definition['Inline Menu Available'] = 'Text Format Menu Available';
 $Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
 $Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
 $Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 
+$Definition['Jump past emoji list, to emoji categories.'] = 'Jump past emoji list, to emoji category buttons.';
+
 $Definition['Large images will be scaled down.'] = 'Large images will be scaled down to a max width of %spx and a max height of %spx.';
+$Definition['Line Level Formatting Menu'] = 'Paragraph Format Menu';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
 
 $Definition['Make Leader'] = 'Leader';
@@ -43,6 +49,7 @@ $Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the 
 
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
+$Definition['Paragraph Code Block'] = 'Code Block';
 $Definition['Password Contains Username'] = 'Contains Username';
 $Definition['Password Good'] = 'Good';
 $Definition['Password Ok'] = 'Ok';
@@ -52,13 +59,13 @@ $Definition['Password Very Weak'] = 'Very Weak';
 $Definition['Password Weak'] = 'Weak';
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
 
-$Definition['richEditor.description.embed'] = 'Some elements, such as rich link embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using the arrow keys inside of the editor and delete them with the delete or backspace key.';
-$Definition['richEditor.description.inlineMenu'] = 'An text formatting menu will show up when you select text. Hit tab to get into that menu.';
-$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to get to the paragraph menu. From there you will be able to pick one style. Nothing defaults to paragraph.';
+$Definition['richEditor.description.embed'] = 'Some elements, such as embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using arrow keys inside of the editor and delete them with the delete or backspace key.';
+$Definition['richEditor.description.inlineMenu'] = 'A text formatting menu will open when you select text. Hit tab to navigate to that menu.';
+$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to navigate to the paragraph menu.';
 $Definition['richEditor.description.title'] = 'Rich Text Editor.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when the emoji menu is open.';
 $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
-$Definition['richEditor.externalEmbed.description'] = 'This is an embed external element. It can be deleted using the delete key or the backspace key. To view the full element, press the preview button below.';
+$Definition['richEditor.externalEmbed.description'] = 'This is an embed. It can be deleted using the delete key or the backspace key.';
 $Definition['richEditor.menu.blockquote'] = 'Blockquote';
 $Definition['richEditor.menu.code'] = 'Inline Code Block';
 $Definition['richEditor.menu.codeBlock'] = 'Code Block';
