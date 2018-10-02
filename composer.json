@@ -1,0 +1,5 @@
+{
+	"name": "vanilla/locales",
+	"description": "Official locales for Vanilla Forums auto-generated from Transifex.",
+	"type": "vanilla-locales"	
+}
