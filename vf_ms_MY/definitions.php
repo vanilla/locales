@@ -5,7 +5,7 @@
   'Name' => 'Bahasa Melayu / Malay',
   'EnName' => 'Malay (Malaysia)',
   'Description' => 'Official Malay language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/ms_MY/">here</a>.',
-  'Version' => '2018.09.25p1202',
+  'Version' => '2018.09.30p1102',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/ms_MY/',
   'License' => 'CC BY-SA 4.0',
