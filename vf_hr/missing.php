@@ -10,7 +10,6 @@ $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong wit
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Applied On'] = 'Date';
-$Definition['Apply for Membership'] = 'Register';
 $Definition['Approve Applicant'] = 'Approve';
 $Definition['AttemptingSignOut'] = 'You are attempting to sign out. Are you sure you want to %s?';
 
@@ -279,7 +278,6 @@ $Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plu
 $Definition['Ranks.NotificationFormat'] = 'Congratulations! You\'ve been promoted to {Data.Name,plaintext}.';
 $Definition['RecipientUserID'] = 'recipient';
 $Definition['Record Content'] = 'Content';
-$Definition['Register with %s'] = 'Register';
 $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. Sent from {/,exurl}.';
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
 $Definition['Report Notes'] = 'Notes';

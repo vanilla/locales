@@ -325,7 +325,7 @@ $Definition['Change My Picture'] = 'Cambiar mi imagen';
 $Definition['Change Password'] = 'Cambiar contraseña';
 $Definition['Change Picture'] = 'Cambiar imagen';
 $Definition['Check all roles that apply to this user:'] = 'Revisa todos los roles de este usuario:';
-$Definition['Check it out'] = 'Chécalo';
+$Definition['Check it out'] = 'Ver';
 $Definition['Child Categories'] = 'Sub-categorías';
 $Definition['Child Categories:'] = 'Sub-categorías:';
 $Definition['Choose a name to identify yourself on the site.'] = 'Elige un nombre para identificarte en el sitio.';
@@ -672,7 +672,7 @@ $Definition['Have a great day!'] = '¡Ten un buen día!';
 $Definition['he'] = 'él';
 $Definition['Heading'] = 'Encabezando';
 $Definition['Heading %s'] = 'Encabezando %s';
-$Definition['HeadlineFormat.AcceptAnswer'] = 'Ene';
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} ha aceptado la respuesta de {NotifyUserID,your}.';
 $Definition['HeadlineFormat.Answer'] = '{ActividadUsuarioID,usuario} respondió tu pregunta:
 <a href="{Url,html}"> {Fecha.Nombre,texto}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} has ganado la medalla <a href="{Url,html}">{Data.Name,text}</a>.';

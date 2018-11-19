@@ -174,6 +174,29 @@ $Definition['Administrator Activity'] = 'Aktivnosti administratora';
 $Definition['Administrator and moderator'] = 'Administrator i moderator';
 $Definition['administrators'] = 'administratori';
 $Definition['Advanced'] = 'Napredno';
+$Definition['Agree'] = 'Slažem se';
+$Definition['Alert'] = 'Upozorenje';
+$Definition['Align center'] = 'Poravnaj u centar';
+$Definition['Align left'] = 'Poravnaj lijevo';
+$Definition['Align right'] = 'Poravnaj desno';
+$Definition['All %s'] = 'Sve %s';
+$Definition['All %s...'] = 'Sve %s...';
+$Definition['All Bookmarks'] = 'Svi Favoriti';
+$Definition['All Categories'] = 'Sve Kategorije';
+$Definition['all categories'] = 'sve kategorije';
+$Definition['All Conversations'] = 'Svi razgovori';
+$Definition['All Discussions'] = 'Sve Rasprave';
+$Definition['All Events'] = 'Svi Događaji';
+$Definition['All Members'] = 'Svi Članovi';
+$Definition['All members'] = 'Svi članovi';
+$Definition['Allow'] = 'Dozvoli';
+$Definition['Announce this discussion'] = 'Oglasi ovu raspravu';
+$Definition['Answer'] = 'Odgovor';
+$Definition['answer'] = 'odgovor';
+$Definition['Answers'] = 'Odgovori';
+$Definition['answers'] = 'odgovori';
+$Definition['Apply for Membership'] = 'Registriraj se';
+$Definition['Apply for membership'] = 'Prijavite se za članstvo';
 
 $Definition['Comment'] = 'Komentar';
 
@@ -218,6 +241,9 @@ $Definition['month.short.12'] = 'pro';
 
 $Definition['PageDetailsMessage'] = '%1$s prema %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s za %2$s o %3$s';
+
+$Definition['Register'] = 'Registriraj se';
+$Definition['Register with %s'] = 'Registriraj se';
 
 $Definition['Show previous quotes'] = '&laquo; prikaži prethodne citate';
 
