@@ -5,11 +5,11 @@
   'Name' => 'Occitan',
   'EnName' => 'Occitan',
   'Description' => 'Official Occitan language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/oc/">here</a>.',
-  'Version' => '2018.09.30p1102',
+  'Version' => '2018.11.19p1503',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/oc/',
   'License' => 'CC BY-SA 4.0',
   'PercentComplete' => 0,
   'NumComplete' => 0,
-  'DenComplete' => 2423,
+  'DenComplete' => 2425,
 );
