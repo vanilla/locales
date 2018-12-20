@@ -37,6 +37,7 @@ $Definition['[%s] Password Reset Request'] = '[%s] Şifre sıfırlamak için ger
 $Definition['a Badge'] = 'Rozet';
 $Definition['Above Main Content'] = 'Ana İçeriğin Üzerinde';
 $Definition['Account Sync Failed'] = 'Hesap Eşitlemesinde Hata Oluştu';
+$Definition['Action'] = 'Hareketler';
 $Definition['Add Category'] = 'Kategori ekle';
 $Definition['Add Connection'] = 'Bağlantı ekle';
 $Definition['Added By'] = 'tarafından eklendi';
@@ -119,6 +120,7 @@ $Definition['Decline'] = 'Geri çevir';
 $Definition['default type'] = 'öntanımlı';
 $Definition['Delete User'] = 'Kullanıcıyı Sil';
 $Definition['Delete User: %s'] = 'Kullanıcıyı Sil: %s';
+$Definition['Description'] = 'Tanım';
 $Definition['Did You Know?'] = 'Biliyor muydun?';
 $Definition['DownloadLocalePack'] = 'İndir';
 

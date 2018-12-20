@@ -53,6 +53,7 @@ $Definition['Add Item'] = 'افزودن آيتم';
 $Definition['Addons'] = 'افزونه ها';
 $Definition['Add Role'] = 'افزودن نقشه';
 $Definition['Add User'] = 'افزودن كاربر';
+$Definition['Advanced Category Settings'] = 'تنظیمات پیشرفته دسته بندی ';
 $Definition['Advanced Editor Settings'] = 'تنظيمات پيشرفته ويرايشگر';
 $Definition['Advanced Embed Settings'] = 'تنظيمات پيشرفته درج';
 $Definition['Advanced Forum Settings'] = 'تنظيمات پيشرفته انجمن';
@@ -129,6 +130,7 @@ $Definition['Cannot build profile information if user is not defined.'] = 'اگ�
 $Definition['Categories &amp; Discussions'] = 'دسته بندي ها و گفتگوها';
 $Definition['Categories are used to organize discussions.'] = 'دسته بندي ها براي كمك به سازماندهي گفتگوهاي كاربران به يك روش بامعنا در انجمن شما مورد استفاده قرار ميگرد.';
 $Definition['Categories Layout'] = 'چيدمان دسته بندي ها';
+$Definition['Category Following'] = 'دنبال کنندگان دسته ';
 $Definition['Category Page Layout'] = 'چيدمان صفحه دسته بندي';
 $Definition['Category Url:'] = 'آدرس وب دسته بندي:';
 $Definition['Censored Words'] = 'كلمات سانسور شده';
@@ -259,6 +261,7 @@ $Definition['Enabled %1$s'] = 'فعال %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = 'فعال شد: بسته نمايش داده خواهد شد.';
 $Definition['Enable embedding to use blog comments.'] = 'جهت اينكه اين جواب دهد، شما بايد درج كردن را فعال كنيد.';
 $Definition['Enable OpenID'] = 'فعالسازي OpenID';
+$Definition['Enable Rich Quotes'] = 'فعال کردن نقل قول های تو در تو';
 $Definition['Enabling a Locale Pack'] = 'فعالسازي يك بسته زبان';
 $Definition['Encourage your friends to join your new community!'] = 'دوستان خود را تشويق كرده تا به انجمن جديد شما بپيوندند!';
 $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'ليستي از فهرستهايي كه با كاما از هم جدا شدند را وارد كنيد، شروع از 1.';
@@ -291,6 +294,8 @@ $Definition['Finished'] = 'تمام شد';
 $Definition['First Visit'] = 'اولين بازديد';
 $Definition['Flood Control'] = 'كنترل سيل ارسال';
 $Definition['Force the forum to only be accessible through this url'] = 'انجمن را اجبار ميكند تا فقط از طريق اين آدرس وب قابل دسترس باشد';
+$Definition['ForceWysiwyg.Notes1'] = 'گزینه زیر را بررسی کنید و به ویرایشگر بگوید تا مطالب قدیمی را به عنوان Wysiwyg تغییر دهد.';
+$Definition['ForceWysiwyg.Notes2'] = 'این تنظیم فقط اگر Wysiwyg به عنوان فرمت پست در بالا انتخاب شود، اعمال خواهد شد. هدف از این گزینه این است که قالب فرمت را عادی سازی کند. اگر پست های قدیمی تر با یک فرمت دیگر، مانند نشانه گذاری یا BBCode بارگذاری شده اند، این گزینه Wysiwyg را اجبارا جایگزین می کند.';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'انجمن را اجبار ميكند تا فقط از طريق آدرس وب از راه دور قابل مشاهده باشد';
 $Definition['Forum Settings'] = 'تنظيمات انجمن';
 $Definition['Frequency'] = 'تكرار';
@@ -333,6 +338,8 @@ $Definition['HTML Emails'] = 'ايميل هاي HTML';
 $Definition['Inbox Page'] = 'صفحه صندوق ورودي';
 $Definition['Indexes'] = 'فهرست ها';
 $Definition['Information'] = 'اطلاعات';
+$Definition['InputFormatter.Notes1'] = 'قالب پیشفرض ویرایشگر را برای مطالب انجمن انتخاب کنید.';
+$Definition['InputFormatter.Notes2'] = 'ویرایشگر قالب های پست های قدیمی را هنگام ویرایش آنها تشخیص می دهد و قوانین قالب بندی اولیه خود را بارگذاری می کنند. بجز این استثنا، فرمت مطلب انتخاب شده در زیر مقدم است.';
 $Definition['Install Vanilla without a .htaccess file.'] = 'نصب وانيلا بدون فايل htaccess. .';
 $Definition['Internaltionalization & Localization'] = 'بين المللي و بومي سازي';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'معرفي مدال ها و واكنش هاي وانيلا';
@@ -390,6 +397,9 @@ $Definition['Message ID'] = 'شناسه پيام';
 $Definition['Method'] = 'روش';
 $Definition['minute(s)'] = 'دقيقه';
 $Definition['Mixed Layout'] = 'چيدمان مختلط';
+$Definition['Mobile Format'] = 'فرمت موبایل';
+$Definition['MobileInputFormatter.Notes1'] = 'یک فرمت ویرایش برای دستگاه های تلفن همراه مشخص کنید.';
+$Definition['MobileInputFormatter.Notes2'] = 'اگر دستگاه های تلفن همراه باید تجربه یکسان را داشته باشند، موارد بالا را مشخص کنید. اگر کاربران مشکلات مربوط به ویرایش در موبایل را گزارش کنند، اینجا امکانات خوبی برای تغییر موجود است.';
 $Definition['Moderators have permission to edit most content.'] = 'مديران مجوز ويرايش بيشتر محتوا را دارند.';
 $Definition['Modern Layout'] = 'چيدمان مدرن';
 $Definition['Modern non-table-based layout'] = 'چيدمان مدرن برپايه غيرجدولي';
@@ -419,6 +429,7 @@ $Definition['No Change'] = 'بدون تغيير';
 $Definition['No drafts.'] = 'بدون پیش نویس.';
 $Definition['No Items Selected'] = 'هيچ آيتمي انتخاب نشده است';
 $Definition['No results for %s.'] = 'هيچ نتيجه اي براي <b>%s</b> وجود ندارد.';
+$Definition['Note:'] = 'توجه:';
 $Definition['Notes'] = 'يادداشت';
 $Definition['Notifications will appear here.'] = 'اطلاع رساني ها در اينجا نمايش داده ميشود.';
 $Definition['NotifyApplicant'] = 'هنگامي كه شخصي درخواست عضويت ميكند به من اطلاع رساني شود.';
@@ -451,6 +462,7 @@ $Definition['Plugins'] = 'پلاگين';
 $Definition['Pocket'] = 'بسته';
 $Definition['Pockets'] = 'بسته';
 $Definition['Polls'] = 'نظرسنجي';
+$Definition['Post Format'] = 'فرمت مطلب';
 $Definition['Preview Colors'] = 'پیش نمایش رنگ';
 $Definition['Private Key'] = 'كليد خصوصي';
 $Definition['Provider'] = 'ارائه كننده';
@@ -468,6 +480,8 @@ $Definition['Register for Membership'] = 'ثبت نام براي عضويت';
 $Definition['Register Url'] = 'آدرس وب ثبت نام';
 $Definition['Registration'] = 'عضويت';
 $Definition['Registration is currently closed.'] = 'عضويت درحال حاضر بسته است.';
+$Definition['Reinterpret All Posts As Wysiwyg'] = 'همه مطالب را به عنوان Wysiwyg تعریف کنید
+';
 $Definition['Remove Banner Logo'] = 'حذف لوگوي بنر';
 $Definition['Remove Email Logo'] = 'حذف لوگوي ايميل';
 $Definition['Remove Favicon'] = 'حذف فاوآيكن';
@@ -487,6 +501,7 @@ $Definition['Reset password and send email notification to user'] = 'بازنش�
 $Definition['Resetting the password for %s.'] = 'بازنشاني كلمه عبور براي %s.';
 $Definition['Restart'] = 'شروع مجدد';
 $Definition['Reveal Password'] = 'نمايش كلمه عبور';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'از گزینه زیر برای فعال کردن نقل قول ها برای ویرایشگر غنی استفاده کنید. فقط در صورتی اعمال خواهد شد که قالب بندی پیش فرض "غنی" باشد.';
 $Definition['Role'] = 'نقشه';
 $Definition['Role Name'] = 'نام نقشه';
 $Definition['Roles & Permissions'] = 'نقش ها و مجوزها';
