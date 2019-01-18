@@ -1386,6 +1386,7 @@ $Definition['These tags are reserved and cannot be used: %s'] = 'These tags are 
 $Definition['The site is currently undergoing maintenance.'] = 'The site is currently undergoing maintenance.';
 $Definition['The status for "%s" has changed to %s.'] = 'The status for "%s" has changed to %s.';
 $Definition['The uploaded file was too big (max %s).'] = 'The uploaded file was too big (max %s).';
+$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.';
 $Definition['The user has already been warned for this %s.'] = 'The user has already been warned for this %s.';
 $Definition['The user isn\'t banned.'] = 'The user isn\'t banned or is banned by some other function.';
 $Definition['they'] = 'they';
