@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>¡Ojo!</strong> Eliminar un rol puede causar que los usuarios no tengan acceso a la aplicación.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>¡Ojo!</strong> Trasladar conversaciones a una categoría de remplazo puede causar errores si la categoría de remplazo tiene diferentes permisos que la primera.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Se requiere un rol con el tipo predeterminado "sin confirmar" para usar la confirmación por correo electrónico.';
 $Definition['About.DisableStatistics'] = 'Si necesitas eliminar este contenido debido algún problema con tu organización,  puedes hacerlo mediante la siguiente configuración:  <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Es de vital importancia utilizar software de código abierto para poder medir la efectividad de Vanilla. Te pedimos no deshabilitar el reporte.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla puede usarse como un remplazo para el viejo sistema de comentarios de tu blog. De hecho, puede usarse para agregar comentarios a cualquier página.';
@@ -14,7 +15,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'A pesar de haber creado exitosamente la invitación, la dirección de correo electrónico falló. El servidor reporta el siguiente error: %s';
 $Definition['ApplicationHelp'] = 'Las aplicaciones te permiten añadir largos grupos de funcionalidad a tu sitio. <br /> Una vez que una aplicación ha sido añadida a la carpeta %s, puedes activarlas o desactivarlas aquí.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '¿Estas seguro de haber ingresado el nombre correcto del servidor? Tal vez lo escribiste mal. La base de datos reportó lo siguiente: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Se requiere un rol con el tipo predeterminado "sin confirmar" para usar la confirmación por correo electrónico.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Al hacer clic en el botón borrarás la cuenta del usuario para %s siempre.';
 
@@ -89,8 +89,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcar cosas como no spam las pondrá de nuevo en tu foro. ';
 $Definition['Messages can appear anywhere in your application.'] = 'Los mensajes pueden aparecer en cualquier parte de tu aplicación y pueden ser utilizados para informar a los usuarios de noticias y eventos. Utiliza esta página para reorganizar tus mensajes arrastrándolos hacia arriba o hacia abajo.';
 
-$Definition['Notify me when people comment on my addons.'] = 'Notificarme cuando la gente comenta en mis extensiones. ';
 $Definition['No unconfirmed role available for email confirmation.'] = 'El sitio necesita un rol con el tipo predeterminado "sin confirmar" para usar la confirmación por correo electrónico. Por favor, agregue uno para habilitar esta configuración.';
+$Definition['Notify me when people comment on my addons.'] = 'Notificarme cuando la gente comenta en mis extensiones. ';
 
 $Definition['Please choose an authenticator to configure.'] = 'Por favor elige un autentificador para configurar.';
 $Definition['PluginHelp'] = 'Los plugins te permiten añadir funcionalidad a tu sitio.<br />Una vez añadido un plugin a la carpeta %s, puedes activarlo o desactivarlo aquí.';
