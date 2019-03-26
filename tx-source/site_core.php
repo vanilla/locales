@@ -1395,7 +1395,7 @@ $Definition['they'] = 'they';
 $Definition['Third Anniversary'] = 'Third Anniversary';
 $Definition['This answer was %s.'] = 'This answer was %s.';
 $Definition['This answer was Accepted.'] = 'This answer was Accepted.';
-$Definition['This discussion has a more <a href="%1$s">recent version</a>.'] = 'This discussion has a more <a href="%1$s">recent version</a>.';
+$Definition['This discussion has a more <0>recent version</0>.'] = 'This discussion has a more <0>recent version</0>.';
 $Definition['This discussion has been closed.'] = 'This discussion has been closed.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'This discussion is related to an undefined foriegn content source.';
 $Definition['This discussion was created from comments split from: %s.'] = 'This discussion was created from comments split from: %s.';
