@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>請 注 意！</strong> 刪除用戶組可能會導致會員無法訪問。';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>請注意！</strong> 將討論串移往另外一區時，如果新討論區和即將刪除的討論區權限設定不同，則可能導致難以預期的消失或出現情形。';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = '需要一個 "尚未確認" 的預設角色才能使用電子郵件確認功能。';
 $Definition['About.DisableStatistics'] = '如果您因為特定商務理由，而必須關閉資料報表功能，可以在您的安裝設定檔中加入以下幾行敘述：<code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = '由於精準測量資訊到達率和有效度，對於Vanilla這個免費開放原始碼軟體相當重要，所以我們請您不要關閉此項資料的報表功能。';
 $Definition['AboutCommentEmbedding'] = 'Vanilla可以用於直接取代您網站上的留言系統，甚至可以用於將留言功能加在任何網頁上。';
@@ -14,7 +15,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = '雖然已成功建立邀請，但電子郵件無法送達；伺服器已回報下列錯誤訊息：%s';
 $Definition['ApplicationHelp'] = '您可以利用應用程式來為網站增加大量功能。<br />當您將應用程式新增到 %s 資料夾後，即可在此處啟用或關閉功能。';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '您確定已經輸入正確的資料庫主機名稱嗎？會不會拼錯了呢？資料庫回報的訊息是：<code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = '需要一個 "尚未確認" 的預設角色才能使用電子郵件確認功能。';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = '如果您點按以下的按鈕，將會永久刪除%s的帳號。';
 
@@ -89,8 +89,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = '標示為「非垃圾訊息」的內容，會重新在討論版上出現。';
 $Definition['Messages can appear anywhere in your application.'] = '訊息可以在您應用程式中的任何地方出現，並且可以用於將新聞或活動內容告知用戶；請利用這個頁面，以上下拖放方式來重新整理訊息。';
 
-$Definition['Notify me when people comment on my addons.'] = '有人在附加元件中留言時請通知我。';
 $Definition['No unconfirmed role available for email confirmation.'] = '網站需要一個 "尚未確認" 的預設角色才能使用電子郵件確認功能，請新增一個以啟用這個設定。';
+$Definition['Notify me when people comment on my addons.'] = '有人在附加元件中留言時請通知我。';
 
 $Definition['Please choose an authenticator to configure.'] = '請選擇需要設定的認證功能。';
 $Definition['PluginHelp'] = '插件能幫您的網站增加額外功能。<br />當您將插件加入%s資料夾後，即可在此處啟用或關閉功能。';
@@ -159,4 +159,5 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：您的伺
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：本功能限進階用戶使用、並且需要您對網頁伺服器進行額外的調整，通常只在使用專屬伺服器或VPS時才會需要。如果您不知道這項功能的用法，請不要嘗試使用。';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = '您可以和多個支援jsConnect的網站連線。';
+$Definition['You can place files in your /uploads folder.'] = '如果您的檔案太大而無法直接上傳到此頁面，您可以將它放置在 /uploads 資料夾。確認檔案名稱起始為 <b>export</b> 且結尾為<b>.txt 或 .gz</b>。';
 $Definition['You must select a file to import.'] = '您必須選擇要匯入的檔案。';
