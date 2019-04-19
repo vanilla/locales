@@ -1,6 +1,7 @@
 <?php
 
 $Definition['%1$s "%2$s" not found.'] = '未找到 %1$s “%2$s”。';
+$Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 可更新。';
 $Definition['%s is not a valid email address'] = '%s 不是有效的电子邮件地址';
@@ -17,6 +18,7 @@ $Definition['%s years.'] = '%s年。';
 
 $Definition['(less)'] = '（收缩）';
 $Definition['(more)'] = '（展开）';
+$Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 
 $Definition['1 day'] = '1天';
 $Definition['1 hour'] = '1小时';
@@ -75,6 +77,7 @@ $Definition['Allow images'] = '允许图像';
 $Definition['Allow new users to be registered through email.'] = '允许用户通过电子邮件地址注册新账户。';
 $Definition['Allow users to dismiss this message'] = '允许用户撤消该消息';
 $Definition['All Pages'] = '所有页面';
+$Definition['API'] = 'API';
 $Definition['API Status'] = 'API 状态';
 $Definition['Applicant'] = '申请者';
 $Definition['Applicant Role'] = '选择适用于新申请用户的角色。只有在使用“审核方式”的注册方式时有效。';
@@ -131,6 +134,7 @@ $Definition['Cannot build profile information if user is not defined.'] = '用�
 $Definition['Categories &amp; Discussions'] = '版块与话题';
 $Definition['Categories are used to organize discussions.'] = '使用版块来管理用户的帖子，这对您的社区来说很有意义。';
 $Definition['Categories Layout'] = '版块布局';
+$Definition['Category Following'] = '类别跟踪';
 $Definition['Category Page Layout'] = '版块页面布局';
 $Definition['Category Url:'] = '版块链接：';
 $Definition['Censored Words'] = '敏感词';
@@ -286,6 +290,7 @@ $Definition['Exit Preview'] = '退出预览';
 
 $Definition['Facebook Settings'] = 'Facebook 设置';
 $Definition['Failure'] = '失败';
+$Definition['Favicon'] = 'Favicon';
 $Definition['FaviconBrowse'] = '上传一个新的 Favicon：';
 $Definition['FaviconDescription'] = 'Favicon 将显示在浏览器标题栏。它将被缩放到 16x16 像素的尺寸。';
 $Definition['FileUpload is currently OFF'] = 'FileUpload 插件目前已关闭';
@@ -298,6 +303,7 @@ $Definition['Force your forum to be viewed through the Remote Url'] = '只允许
 $Definition['Forum Settings'] = '论坛设置';
 $Definition['Frequency'] = '频率';
 
+$Definition['Garden'] = 'Garden';
 $Definition['Gave badge to users.'] = '授予用户徽章。';
 $Definition['Generate'] = '生成';
 $Definition['Generate Client ID and Secret'] = '生成客户端 ID 及密匙';
@@ -365,7 +371,7 @@ $Definition['Locale Key (Folder)'] = '语言（目录名）';
 $Definition['Locale Name'] = '语言名称';
 $Definition['Locales'] = '多语言';
 $Definition['Location'] = '位置';
-$Definition['LogoBrowse'] = '上传一个新的图片替换原有的 Logo。';
+$Definition['LogoBrowse'] = '更改网站 Logo： ';
 
 $Definition['Maintenance Mode'] = '维护模式';
 $Definition['Make sure you select at least one item before continuing.'] = '请至少选择一个条目再进行下一步。';
@@ -451,6 +457,7 @@ $Definition['Permissions'] = '权限';
 $Definition['Please Confirm'] = '请确认';
 $Definition['Plugin'] = '插件';
 $Definition['Plugins'] = '插件';
+$Definition['Pocket'] = 'Pocket';
 $Definition['Pockets'] = 'Pockets（自定义 HTML 块）';
 $Definition['Polls'] = '投票';
 $Definition['Preview Colors'] = '预览颜色';
@@ -482,7 +489,7 @@ $Definition['Reply  To'] = '回复收件人';
 $Definition['Request'] = '请求';
 $Definition['Requires'] = '需要';
 $Definition['Requires: '] = '需求: ';
-$Definition['Require users to confirm their email addresses (recommended)'] = '需要用户确认他们的电子邮件地址（推荐）';
+$Definition['Require users to confirm their email addresses (recommended)'] = '用户需要验证电子邮件地址（推荐）';
 $Definition['Rescan'] = '重新扫描';
 $Definition['Reset my password'] = '重置我的密码';
 $Definition['Reset password and send email notification to user'] = '重设密码并向用户发送提醒邮件';
@@ -492,7 +499,7 @@ $Definition['Reveal Password'] = '显示密码';
 $Definition['Role'] = '角色';
 $Definition['Role Name'] = '用户角色名称';
 $Definition['Roles & Permissions'] = '身份与权限';
-$Definition['Roles determine user\'s permissions.'] = '网站的每个用户都需要分配至少一个角色，用户角色决定用户可以做什么。';
+$Definition['Roles determine user\'s permissions.'] = '网站的每个用户都需要被分配至少一个角色。用户角色决定了用户可以做什么。';
 $Definition['Role to Grant'] = '角色授权';
 $Definition['Route'] = '路由';
 $Definition['Routes'] = '路由';
@@ -667,3 +674,17 @@ $Definition['Your configuration file does not have the correct permissions. PHP 
 $Definition['Your default locale won\'t display properly'] = '如果您不启用一项本地化选项，默认的语言就无法正常显示。请启用以下语言：%s。';
 $Definition['Your inbox is empty.'] = '您的收件箱是空的。';
 $Definition['Your invitations were sent successfully.'] = '您的邀请已成功发送。';
+
+// Posting settings
+$Definition['InputFormatter.Notes1'] = '为社区中的文章选择编辑器的默认格式。';
+$Definition['InputFormatter.Notes2'] = '编辑时，编辑器将自动检测旧文章的格式，并加载其原始格式规则。除此例外情况外，以下选定的日志格式将优先。';
+$Definition['ForceWysiwyg.Notes1'] = '请检查以下选项，以告知编辑器要将所有旧版发布重新解释为 Wysiwyg。';
+$Definition['ForceWysiwyg.Notes2'] = '只有当将 Wysiwyg 设置为以上发布格式时，此项设置才会生效。该选项的目的是让编辑器格式实现标准化。如果加载的较旧发布采用了其他格式进行编辑，例如 Markdown 或 BBCode，则该选项会强制应用 Wysiwyg。';
+$Definition['MobileInputFormatter.Notes1'] = '请为移动设备指定一个编辑格式。';
+$Definition['MobileInputFormatter.Notes2'] = '如果移动设备应有相同的体验，请指定与以上相同的格式。如果用户报告有关移动编辑的问题，则这是进行更改的合适选项。';
+$Definition['Note:'] = '注意：';
+$Definition['Post Format'] = '发布格式';
+$Definition['Reinterpret All Posts As Wysiwyg'] = '将全部发布重新解释为 Wysiwyg';
+$Definition['Mobile Format'] = '移动端格式';
+$Definition['Enable Rich Quotes'] = '启用富文本引用';
+$Definition['RichEditor.QuoteEnable.Notes'] = '使用以下选项以启用 Rich Editor 的引用功能。只有当默认的格式器为“Rich”时，系统才会应用该设置。';
