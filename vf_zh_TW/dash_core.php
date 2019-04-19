@@ -1,6 +1,7 @@
 <?php
 
 $Definition['%1$s "%2$s" not found.'] = '找不到 %1$s "%2$s"。';
+$Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 更新檔案已經釋出.';
 $Definition['%s is not a valid email address'] = '%s 不是一個有效的電子信箱格式.';
@@ -17,6 +18,7 @@ $Definition['%s years.'] = '%s 年。';
 
 $Definition['(less)'] = '(精簡)';
 $Definition['(more)'] = '(詳細)';
+$Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 
 $Definition['1 day'] = '1 天';
 $Definition['1 hour'] = '1 小時';
@@ -27,7 +29,7 @@ $Definition['1 week after being sent'] = '送出後 1 星期';
 $Definition['2 weeks after being sent'] = '送出後 2 星期';
 $Definition['4 hours'] = '4 小時';
 $Definition['5 minutes'] = '5 分鐘';
-$Definition['15 minutes'] = '15 分翁';
+$Definition['15 minutes'] = '15 分鐘';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] 請驗證您的電子信箱';
 $Definition['[%s] Invitation'] = '您收到了來自 [%s] 的邀請';
@@ -54,6 +56,7 @@ $Definition['Add Item'] = '新增項目';
 $Definition['Addons'] = '附加元件';
 $Definition['Add Role'] = '新增繳色';
 $Definition['Add User'] = '新增會員';
+$Definition['Advanced Category Settings'] = '進階分類設定';
 $Definition['Advanced Editor Settings'] = '進階編輯設定';
 $Definition['Advanced Embed Settings'] = '進階內嵌設定';
 $Definition['Advanced Forum Settings'] = '進階討論區設定';
@@ -74,6 +77,7 @@ $Definition['Allow images'] = '允許圖片';
 $Definition['Allow new users to be registered through email.'] = '允許新用戶透過電子郵件註冊帳號。';
 $Definition['Allow users to dismiss this message'] = '允許用戶關閉此訊息';
 $Definition['All Pages'] = '所有頁面';
+$Definition['API'] = 'API';
 $Definition['API Status'] = 'API 狀態';
 $Definition['Applicant'] = '申請者';
 $Definition['Applicant Role'] = '選擇將賦予新申請帳號的職務名稱；僅在您使用「<b>核准</b>」註冊方式時適用。';
@@ -122,7 +126,7 @@ $Definition['Blocked'] = '已封鎖';
 $Definition['Blog Comments'] = '網站評論';
 $Definition['Bookmark a discussion using its star icon.'] = '使用星星圖示來標記討論串';
 $Definition['Browse Addons'] = '瀏覽附加元件';
-$Definition['Browse for a new banner logo if you would like to change it:'] = '瀏覽您希望更換的新橫幅標誌：';
+$Definition['Browse for a new banner logo if you would like to change it:'] = '如果您想要更換橫幅標誌，請瀏覽新的圖檔：';
 $Definition['Button Background Color'] = '按鈕背景色';
 $Definition['Button Text Color'] = '按鈕文字色';
 
@@ -130,6 +134,7 @@ $Definition['Cannot build profile information if user is not defined.'] = '如�
 $Definition['Categories &amp; Discussions'] = '分類與討論';
 $Definition['Categories are used to organize discussions.'] = '分類的用途，在於協助用戶以對社群有意義的方式來整理討論內容。';
 $Definition['Categories Layout'] = '分類樣式';
+$Definition['Category Following'] = '類別追蹤';
 $Definition['Category Page Layout'] = '分類頁面樣式';
 $Definition['Category Url:'] = '分類 Url:';
 $Definition['Censored Words'] = '禁用詞句';
@@ -285,6 +290,7 @@ $Definition['Exit Preview'] = '離開預覽模式';
 
 $Definition['Facebook Settings'] = 'Facebook 設定';
 $Definition['Failure'] = '失敗';
+$Definition['Favicon'] = 'Favicon';
 $Definition['FaviconBrowse'] = '如果您想要更換網站小圖像，請瀏覽新的圖檔：';
 $Definition['FaviconDescription'] = '您網站的小圖像已經出現在瀏覽器的標題欄上，並且會被縮小為16x16像素的尺寸。';
 $Definition['FileUpload is currently OFF'] = '目前已關閉 FileUpload';
@@ -451,6 +457,8 @@ $Definition['Permissions'] = '權限';
 $Definition['Please Confirm'] = '請確認';
 $Definition['Plugin'] = '外掛';
 $Definition['Plugins'] = '外掛';
+$Definition['Pocket'] = 'Pocket';
+$Definition['Pockets'] = 'Pockets';
 $Definition['Polls'] = '投票';
 $Definition['Preview Colors'] = '預覽色彩';
 $Definition['Private Key'] = '私鑰';
@@ -640,7 +648,7 @@ $Definition['We will attempt to use the local mail server to send email by defau
 $Definition['What\'s the Buzz?'] = '最近動向';
 $Definition['Where is your Community Forum?'] = '您的社群討論區在哪裡？';
 $Definition['Who\'s Online Settings'] = '線上會員設定';
-$Definition['Why do you want to join?'] = '為什麼你要加入呢?';
+$Definition['Why do you want to join?'] = '為什麼您要加入呢?';
 $Definition['Within'] = '在';
 $Definition['WordPress Plugin'] = 'WordPress 外掛程式';
 
@@ -666,3 +674,17 @@ $Definition['Your configuration file does not have the correct permissions. PHP 
 $Definition['Your default locale won\'t display properly'] = '您的預設語言包必須在下方啟用，否則無法正確顯示；請啟用以下部分：%s。';
 $Definition['Your inbox is empty.'] = '你的收件匣是空的';
 $Definition['Your invitations were sent successfully.'] = '您的邀請已經成功送出。';
+
+// Posting settings
+$Definition['InputFormatter.Notes1'] = '為社群的貼文選取編輯器的預設格式。';
+$Definition['InputFormatter.Notes2'] = '編輯器將在編輯舊貼文時自動偵測舊貼文的格式，並載入其原始格式規則。除了此例外，以下選取的貼文格式將具有較高的優先順序。';
+$Definition['ForceWysiwyg.Notes1'] = '勾選以下選項來告訴編輯器以 Wysiwyg 重新解譯所有舊貼文。';
+$Definition['ForceWysiwyg.Notes2'] = '此設定僅會在 Wysiwyg 在上方被選為貼文格式時生效。此選項的目的是使編輯器的格式標準化。如果載入以其他格式，例如 markdown 或 BBCode 編輯的舊貼文，此選項將強制使用 Wysiwyg。';
+$Definition['MobileInputFormatter.Notes1'] = '指定行動裝置的編輯格式。';
+$Definition['MobileInputFormatter.Notes2'] = '如果行動裝置應該具有相同的體驗，請指定與上述相同的選項。如果使用者回報行動編輯的問題，請變更此選項。';
+$Definition['Note:'] = '注意事項：';
+$Definition['Post Format'] = '貼文格式';
+$Definition['Reinterpret All Posts As Wysiwyg'] = '以 Wysiwyg 重新解譯所有貼文';
+$Definition['Mobile Format'] = '行動格式';
+$Definition['Enable Rich Quotes'] = '啟用 Rich Quotes';
+$Definition['RichEditor.QuoteEnable.Notes'] = '使用以下選項來啟用 Rich Editor 的引述。這僅在預設格式器為「Rich」時適用。';
