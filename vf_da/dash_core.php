@@ -1,6 +1,8 @@
 <?php
 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" ikke fundet.';
+$Definition['%1$s %2$s'] = '%1$s %2$s';
+$Definition['%1$s Version %2$s'] = '%1$s Version %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s version %2$s er tilgængelig.';
 $Definition['%s is not a valid email address'] = '%s er ikke en gyldig mail adresse';
 $Definition['%s item in queue'] = '%s i kø';
@@ -16,6 +18,7 @@ $Definition['%s years.'] = '%s år.';
 
 $Definition['(less)'] = '(mindre)';
 $Definition['(more)'] = '(mere)';
+$Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 
 $Definition['1 day'] = '1 dag';
 $Definition['1 hour'] = '1 time';
@@ -29,6 +32,7 @@ $Definition['5 minutes'] = '5 minutter';
 $Definition['15 minutes'] = '15 minutter';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] Bekræft din mail adresse';
+$Definition['[%s] Invitation'] = '[%s] Invitation';
 $Definition['[%s] Password Reset'] = '[%s] Nulstilling af adgangskode';
 $Definition['[%s] Password Reset Request'] = '[%s] Anmodning om nulstilling af adgangskode';
 
@@ -52,6 +56,7 @@ $Definition['Add Item'] = 'Tilføj element';
 $Definition['Addons'] = 'Udvidelser';
 $Definition['Add Role'] = 'Tilføj rolle';
 $Definition['Add User'] = 'Tilføj bruger';
+$Definition['Advanced Category Settings'] = 'Avancerede Kategori-indstillinger ';
 $Definition['Advanced Editor Settings'] = 'Avancerede editor indstillinger';
 $Definition['Advanced Embed Settings'] = 'Avancerede indlejringsindstillinger';
 $Definition['Advanced Forum Settings'] = 'Avancerede forum indstillinger';
@@ -72,6 +77,7 @@ $Definition['Allow images'] = 'Tillad billeder';
 $Definition['Allow new users to be registered through email.'] = 'Tillad nye brugere at registere via mail.';
 $Definition['Allow users to dismiss this message'] = 'Tillad brugere at afvise denne meddelelse';
 $Definition['All Pages'] = 'Alle sider';
+$Definition['API'] = 'API';
 $Definition['API Status'] = 'API status';
 $Definition['Applicant'] = 'Ansøger';
 $Definition['Applicant Role'] = 'Vælg den rolle, der skal anvendes for nye ansøgere. Dette gælder kun hvis du bruger <b>Godkendelse</b> registreringsmetoden.';
@@ -106,6 +112,7 @@ $Definition['BadgeRecipientsHeading'] = 'Seneste modtagere';
 $Definition['Badge Requests'] = 'Mærkeanmodninger';
 $Definition['Ban Item'] = 'Element';
 $Definition['Ban List'] = 'Blokeringer';
+$Definition['Banner'] = 'Banner';
 $Definition['Banner Logo'] = 'Bannerlogo';
 $Definition['Banner Title'] = 'Bannertitel';
 $Definition['Banning'] = 'Blokering';
@@ -119,7 +126,7 @@ $Definition['Blocked'] = 'Blokeret';
 $Definition['Blog Comments'] = 'Blogkommentarer';
 $Definition['Bookmark a discussion using its star icon.'] = 'Bogmærk en diskussion vha. dens stjerne ikon.';
 $Definition['Browse Addons'] = 'Gennemse udvidelser';
-$Definition['Browse for a new banner logo if you would like to change it:'] = 'Søg efter et nyt banner logo hvis du ønsker at ændre det:';
+$Definition['Browse for a new banner logo if you would like to change it:'] = 'Søg efter et nyt bannerlogo hvis du ønsker at ændre det:';
 $Definition['Button Background Color'] = 'Knappers baggrundsfarve';
 $Definition['Button Text Color'] = 'Knappers tekstfarve';
 
@@ -127,6 +134,7 @@ $Definition['Cannot build profile information if user is not defined.'] = 'Kan i
 $Definition['Categories &amp; Discussions'] = 'Kategorier og diskussioner';
 $Definition['Categories are used to organize discussions.'] = 'Kategorier bruges til at hjælpe dine brugere med at organisere deres diskussioner på en måde der er meningsfuld for dit fællesskab.';
 $Definition['Categories Layout'] = 'Layout af kategorier';
+$Definition['Category Following'] = 'Kategorifølgere ';
 $Definition['Category Page Layout'] = 'Sidelayout for kategori';
 $Definition['Category Url:'] = 'Kategori url:';
 $Definition['Censored Words'] = 'Censurerede ord';
@@ -143,6 +151,7 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'Hej ven!
 
 Tjek det nye fællesskabsforum jeg lige har sat op. Det er alle tiders sted for os at snakke med hinanden online.';
 $Definition['Choose a locale pack'] = 'Vælg en sprogpakke';
+$Definition['Choose Avatar'] = 'Vælg Avatar ';
 $Definition['Choose the preferred layout for the categories page.'] = 'Vælg det foretrukne layout af siden med kategorier.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'Vælg det foretrukne layout af siden med diskussioner.';
 $Definition['Choose who can send out invitations to new members:'] = 'Vælg hvem der kan sende invitationer til nye medlemmer:';
@@ -168,7 +177,7 @@ $Definition['Configure an Authenticator'] = 'Konfigurér en godkendelsesprocedur
 $Definition['Configure how nested categories are displayed to users.'] = 'Angiv hvordan underkategorier bliver vist til brugere.';
 $Definition['Configuring Vanilla\'s Homepage'] = 'Konfigurér Vanillas hjemmeside';
 $Definition['Confirmation  Body'] = 'Indhold af bekræftelse';
-$Definition['Confirm email addresses'] = 'Kræv at brugere bekræfter deres mail adresser (anbefalet)';
+$Definition['Confirm email addresses'] = 'Kræv at brugere bekræfter deres mail adresser (anbefales)';
 $Definition['Consumer Key'] = 'Offentlig nøgle';
 $Definition['Consumer Secret'] = 'Privat nøgle';
 $Definition['Content flagged as spam is stored here for moderator review.'] = 'Indhold markeret som spam gemmes her så moderatorer kan gennemse det.';
@@ -331,6 +340,7 @@ $Definition['HTML Emails'] = 'HTML mails';
 
 $Definition['Inbox Page'] = 'Side for Indboks';
 $Definition['Indexes'] = 'Indicer';
+$Definition['Information'] = 'Information';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Install Vanilla uden en .htaccess fil.';
 $Definition['Internaltionalization & Localization'] = 'Regionale og lokale indstillinger';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Introduktion til Vanilla reaktioner og mærker';
@@ -345,6 +355,9 @@ $Definition['Invitations per month'] = 'Invitationer per måned';
 $Definition['Invitations will expire'] = 'Invitationer vil udløbe';
 $Definition['Invited by'] = 'Inviteret af';
 
+$Definition['jsConnect Client Libraries'] = 'jsConnect Client Libraries';
+$Definition['jsConnect Documentation'] = 'jsConnect Documentation';
+
 $Definition['Key Type'] = 'Nøgletype';
 $Definition['Key Value'] = 'Nøgleværdi';
 
@@ -352,6 +365,7 @@ $Definition['Label this Revision'] = 'Navngiv denne revision';
 $Definition['Large images will be scaled down.'] = 'Store billeder vil blive nedskaleret til en maks. bredde på %spx og en maks. højde på %spx.';
 $Definition['Last Visit'] = 'Sidste besøg';
 $Definition['Level'] = 'Niveau';
+$Definition['Likes'] = 'Likes';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Begræns lommen til en eller flere roller eller tilladelser.';
 $Definition['Locale Key (Folder)'] = 'Sprognøgle (mappe)';
 $Definition['Locale Name'] = 'Navn på sprogpakke';
@@ -428,6 +442,7 @@ $Definition['Operation By'] = 'Af';
 $Definition['Organize'] = 'Organisér';
 $Definition['Organize Categories'] = 'Organisér kategorier';
 $Definition['Original Version'] = 'Oprindelig udgave';
+$Definition['Or select an image on your computer (2mb max)'] = 'Eller vælg et billede på din computer (2mb maks) ';
 $Definition['Or Spamblock For'] = 'Eller bloker spam for';
 $Definition['Other Themes'] = 'Andre temaer';
 $Definition['Other Tutorials'] = 'Andre vejledninger';
@@ -484,7 +499,7 @@ $Definition['Reveal Password'] = 'Vis adgangskode';
 $Definition['Role'] = 'Rolle';
 $Definition['Role Name'] = 'Navn på rolle';
 $Definition['Roles & Permissions'] = 'Roller og tilladelser';
-$Definition['Roles determine user\'s permissions.'] = 'Hver bruger af dit forum har mindst en rolle. Roller bliver brugt til at bestemme hvad brugeren kan og ikke kan.';
+$Definition['Roles determine user\'s permissions.'] = 'Hver bruger i dit forum har mindst en rolle. Roller bruges til at bestemme hvad brugeren har tilladelse til at gøre.';
 $Definition['Role to Grant'] = 'Rolle som skal gives';
 $Definition['Route'] = 'Rute';
 $Definition['Routes'] = 'Ruter';
@@ -492,6 +507,7 @@ $Definition['Run structure & data scripts'] = 'Kør struktur og data scripts.';
 
 $Definition['Save Captured Definitions'] = 'Gem indfangede definitioner';
 $Definition['Save Colors'] = 'Gem farver';
+$Definition['Search by user or role.'] = 'Søg efter brugere efter navn eller e-mail, eventuelt med % som valgfrit wildcard. Du kan også søge efter bruger-ID, navnet på en rolle eller  &ldquo;banned&rdquo;.';
 $Definition['seconds'] = 'sekunder';
 $Definition['Security'] = 'Sikkerhed';
 $Definition['Select'] = 'Vælg';
@@ -508,11 +524,13 @@ $Definition['SignedOut'] = 'Du er logget ud.';
 $Definition['Sign In Url'] = 'Log ind url';
 $Definition['Site Description'] = 'Beskrivelse af side';
 $Definition['Site Name'] = 'Navn på side';
+$Definition['Slug'] = 'Slug';
 $Definition['SMTP Host'] = 'SMTP udbyder';
 $Definition['SMTP Password'] = 'SMTP adgangskode';
 $Definition['SMTP Port'] = 'SMTP port';
 $Definition['SMTP Security'] = 'SMTP sikkerhed';
 $Definition['SMTP User'] = 'SMTP bruger';
+$Definition['Spoof'] = 'Spoof';
 $Definition['Start Discussions'] = 'Start diskussioner';
 $Definition['Statistics'] = 'Statistik';
 $Definition['Styles'] = 'Stilarter';
@@ -526,6 +544,7 @@ $Definition['Test Email Message'] = '<p>Dette er en test mail.</p>
 
 <p>Du kan konfigurere udseendet på dit forums mails ved at navigere til mailsiden på dashboardet.</p>';
 $Definition['Test Mode'] = 'Testtilstand: denne lomme vises kun til administratorer af lommer.';
+$Definition['Test URL'] = 'Test URL';
 $Definition['Text Color'] = 'Tekstfarve';
 $Definition['TextEnterEmails'] = 'Indtast mailadresser adskilt af komma her';
 $Definition['The %s badge has already been given to %s.'] = 'Mærket %s er allerede blevet givet til %s.';
@@ -596,7 +615,7 @@ $Definition['User Count'] = 'Brugere';
 $Definition['UserDelete'] = 'Fjern brugers indhold';
 $Definition['User Deleted'] = 'Bruger slettet';
 $Definition['UserDeleteMessage'] = 'Fjern brugeren og slet vedkommendes indhold fuldstændigt. Dette kan føre til at diskussioner bliver usammenhængende. Dette er den bedste metode til at fjerne spam.';
-$Definition['UserDeletionPrompt'] = 'Vælg hvordan alt indholdet (kommentarer, beskeder, etc.) tilknyttet brugerkontoen for %s skal håndteres.';
+$Definition['UserDeletionPrompt'] = 'Vælg hvordan indholdet (kommentarer, beskeder, etc.) for brugerkonto %s skal håndteres.';
 $Definition['UserKeep'] = 'Behold brugerindhold';
 $Definition['UserKeepMessage'] = 'Slet brugeren men behold vedkommendes indhold.';
 $Definition['User Registration Settings'] = 'Indstilinger for registrering af brugere';
@@ -614,6 +633,9 @@ $Definition['Vanilla.Archive.Description'] = 'Du kan vælge at  arkivere diskuss
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Vis indlejrede kategorier i en kommaadskilt liste når de er %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla er nu installeret!';
 $Definition['Verified!'] = 'Bekræftet!';
+$Definition['Version'] = 'Version';
+$Definition['Version %s'] = 'Version %s';
+$Definition['version %s'] = 'version %s';
 $Definition['Version %s Installer'] = 'Version %s installationsprogram';
 $Definition['View Page'] = 'Vis side';
 
@@ -628,6 +650,7 @@ $Definition['Where is your Community Forum?'] = 'Hvor er dit fællesskabsforum?'
 $Definition['Who\'s Online Settings'] = 'Indstillinger for "Hvem er online"';
 $Definition['Why do you want to join?'] = 'Hvorfor vil du gerne deltage?';
 $Definition['Within'] = 'Inden';
+$Definition['WordPress Plugin'] = 'WordPress Plugin';
 
 $Definition['Yes, the following information can be changed later.'] = 'Ja, det følgende information kan ændres senere.';
 $Definition['You are connected as %s.'] = 'Du er forbundet som %s.';
@@ -652,3 +675,17 @@ $Definition['Your default locale won\'t display properly'] = 'Dit standard sprog
  Aktivér venligst følgende: %s.';
 $Definition['Your inbox is empty.'] = 'Din indbakke er tom.';
 $Definition['Your invitations were sent successfully.'] = 'Dine invitationer blev sendt uden fejl.';
+
+// Posting settings
+$Definition['InputFormatter.Notes1'] = 'Vælg editorens standardformat for opslag i gruppen  ';
+$Definition['InputFormatter.Notes2'] = 'Editoren vil auto-detektere formatet på ældre opslag under redigering og hente deres originale formateringsregler. Udover denne undtagelse vil det nedenstående valgte opslagsformat være gældende. ';
+$Definition['ForceWysiwyg.Notes1'] = 'Se nedenstående valgmulighed for at bede editoren om at genoversætte alle gamle opslag som Wysiwyg. ';
+$Definition['ForceWysiwyg.Notes2'] = 'Denne indstilling vil kun gælde hvis Wysiwyg er valgt som ovenstående Opslagsformat. Formålet med denne valgmulighed er at normalisere Editor-formatet. Hvis ældre opslag, som er redigeret med et andet format såsom markdown eller BBCode hentes, vil denne valgmulighed gennemtvinge Wysiwyg. ';
+$Definition['MobileInputFormatter.Notes1'] = 'Specificer et redigeringsformat for mobile enheder. ';
+$Definition['MobileInputFormatter.Notes2'] = 'Hvis mobile enheder skal have samme oplevelse så specificer den samme som foroven. Hvis brugere rapporterer problemer med mobil redigering, er det en god ide at ændre denne indstilling. ';
+$Definition['Note:'] = 'Note: ';
+$Definition['Post Format'] = 'Opslagsformat ';
+$Definition['Reinterpret All Posts As Wysiwyg'] = 'Genoversæt Alle Opslag Som Wysiwyg  ';
+$Definition['Mobile Format'] = 'Mobilt Format ';
+$Definition['Enable Rich Quotes'] = 'Slå Rich Citater Til ';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Brug følgende valgmulighed til at slå citater til for Rich Editor. Dette vil kun gælde hvis standardformateringen er "Rich". ';
