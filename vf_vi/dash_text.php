@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Chú ý!</strong> Xóa vai trò có thể khiến thành viên không thể truy cập trang.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Chú ý!</strong> Chuyển bài viết tới một danh mục mới có thể khiến việc hiển thị không chính xác nếu danh mục đích có quyền khác với quyền trong danh mục đã bị xóa';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Để sử dụng tính năng xác nhận địa chỉ email, cần có một vai trò với loại mặc định là "chưa xác nhận".';
 $Definition['About.DisableStatistics'] = 'Nếu phải tắt tính năng báo cáo dữ liệu, bạn có thể thự hiện bằng cách thêm dòng sau vào tập tin cấu hình: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Vì đây là một phần mềm miễn phí, nguồn mở, nên chúng tôi mong bạn hãy luôn bật chế độ báo cáo dữ liệu để hỗ trợ cho đội ngũ phát triển phần mềm.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla có thể sử dụng như một hệ thống giao tiếp bằng cách kéo thả trong blog của bạn. Nó có thể sử dụng để thêm các bình luận vào bất cứ vị trí nào của trang.';
@@ -88,6 +89,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Đánh dấu những thứ là không phải thư rác sẽ đặt chúng trở lại trong diễn đàn của bạn.';
 $Definition['Messages can appear anywhere in your application.'] = 'Tin nhắn có thể xuất hiện bất cứ nơi nào trong ứng dụng của bạn, và có thể được sử dụng để thông báo cho người dùng về tin tức và sự kiện. Sử dụng Trang này để tái tổ chức thư của bạn bằng cách kéo chúng lên hoặc xuống.';
 
+$Definition['No unconfirmed role available for email confirmation.'] = 'Website này cần một vai trò với loại mặc định là "chưa xác nhận" để sử dụng tính năng xác nhận địa chỉ email. Vui lòng thêm một vai trò để bật thiết lập này.';
 $Definition['Notify me when people comment on my addons.'] = 'Thông báo cho tôi khi có người nhận xét về addons của tôi.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Hãy chọn một xác thực để cấu hình.';
@@ -107,6 +109,7 @@ $Definition['Routes are used to redirect users.'] = 'Các đường truyền nà
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Tìm kiếm người dùng theo tên, hoặc nhập tên của một vai trò để xem tất cả các người dùng co vai trò đó.';
 $Definition['Select the import source'] = 'Chọn nguồn nhập';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
 $Definition['Show all possible pocket locations.'] = 'Bật tùy chọn này để hiển thị tất cả các địa điểm của túi. Bật tùy chọn này sẽ chỉ hiển thị các địa điểm để người dùng có thể quản lý túi.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Dành một ít thời gian suy nghĩ về cách bạn mô tả trang web của bạn ở đây. Cung cấp cho trang của bạn một tiêu đề phù hợp và một mô tả chính xác để phục vụ cho các cỗ máy tìm kiếm.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Trau chuốt email của bạn bằng cách thêm một lô-gô và tùy chỉnh màu sắc.';
@@ -131,6 +134,7 @@ $Definition['There are no database structure changes required. There may, howeve
 $Definition['The route was saved successfully.'] = 'Định tuyến đã được lưu thành công.';
 $Definition['The text of the pocket.'] = 'Nhập tên của gói. Nó sẽ hiển thị chính xác những gì bạn đã nhập vì thế hãy đảm bảo bạn nhập đúng mã HTML.';
 $Definition['The user table was not in the import file.'] = 'Trong tập tin nhập thiếu bảng thông tin người dùng.';
+$Definition['The Vanilla 2 Exporter'] = 'The Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistic biến bảng điều khiển diễn đàn của bạn thành công cụ báo cáo thống kê, cho phép bạn xem lại các hoạt động trên diễn đàn trong khoảng thời gian cụ thể. Bạn có thể <a href="http://vanillaforums.org/docs/vanillastatistics"> đọc thêm về Vanilla Statistic</a> trong tài liệu của chúng tôi.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Đây là bảng điều khiển quản trị cho cộng đồng của bạn. Kiểm tra các tùy chọn cấu hình ở bên phải trang. Từ đây bạn có thể cấu hình cách hoạt động của cộng đồng. <b>Mặc định, chỉ người dùng có vai trò "Quản trị viên" có thể thấy tính năng này.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Tùy chọn hiển thị/ẩn địa điểm nơi túi có thể đi, nhưng chỉ dành cho người dùng có quyền thêm/chỉnh sửa túi. Thử hiển thị các địa điểm và truy cập vào trang web của bạn.';
@@ -155,4 +159,5 @@ Nếu bạn đang nhập một tập tin rất lớn (ví dụ: hơn 200.000 bì
 $Definition['Warning: This is for advanced users.'] = '<b>Cảnh báo</b>: phần này là dành cho người dùng cao cấp và yêu cầu phải thực hiện các thay đổi cho máy chủ web. Nó chỉ dùng được nếu bạn có một máy chủ riêng. Đừng cố thử nếu bạn không biết những gì bạn đang làm.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Bạn có thể kết nối với nhiều trang web hỗ trợ jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Nếu tệp của bạn quá lớn để đăng tải trực tiếp lên trang này, bạn có thể đặt tệp đó vào thư mục /uploads (tệp tải lên) của mình. Hãy đảm bảo là tên tệp bắt đầu bằng từ <b>export</b> và kết thúc bằng một trong hai dạng <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Bạn phải chọn một tệp để nhập.';

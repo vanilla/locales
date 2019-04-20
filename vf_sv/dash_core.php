@@ -1,6 +1,7 @@
 <?php
 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" hittades inte.';
+$Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s version %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s version %2$s är tillgänglig.';
 $Definition['%s is not a valid email address'] = '%s är inte en giltig e-postadress';
@@ -55,6 +56,7 @@ $Definition['Add Item'] = 'Lägg till objekt';
 $Definition['Addons'] = 'Addons (tillägg)';
 $Definition['Add Role'] = 'Lägg till roll';
 $Definition['Add User'] = 'Lägg till användare';
+$Definition['Advanced Category Settings'] = 'Avancerade kategoriinställningar';
 $Definition['Advanced Editor Settings'] = 'Avancerade redaktörsinställningar';
 $Definition['Advanced Embed Settings'] = 'Avancerade inställningar för inbäddning';
 $Definition['Advanced Forum Settings'] = 'Avancerade inställningar för forum';
@@ -75,6 +77,7 @@ $Definition['Allow images'] = 'Tillåt bilder';
 $Definition['Allow new users to be registered through email.'] = 'Tillåt nya användare att registreras via e-post.';
 $Definition['Allow users to dismiss this message'] = 'Tillåt användare att ignorera detta meddelande';
 $Definition['All Pages'] = 'Alla sidor';
+$Definition['API'] = 'API';
 $Definition['API Status'] = 'API-status';
 $Definition['Applicant'] = 'Rekryt';
 $Definition['Applicant Role'] = 'Välj rollen som bör tilldelas nya sökande. Detta fungerar endast om du har <b>godkännande</b>-registreringsmetoden.';
@@ -131,6 +134,7 @@ $Definition['Cannot build profile information if user is not defined.'] = 'Kan i
 $Definition['Categories &amp; Discussions'] = 'Kategorier & diskussioner';
 $Definition['Categories are used to organize discussions.'] = 'Kategorier används för att hjälpa dina användare att organisera sina diskussioner på ett sätt som är meningsfullt för ditt community.';
 $Definition['Categories Layout'] = 'Kategorilayout';
+$Definition['Category Following'] = 'Category Following';
 $Definition['Category Page Layout'] = 'Layout för kategorisidan';
 $Definition['Category Url:'] = 'Kategori-URL:';
 $Definition['Censored Words'] = 'Censurerade ord';
@@ -234,7 +238,7 @@ $Definition['Don\'t Refresh'] = 'Uppdatera ej';
 $Definition['Don\'t use Categories'] = 'Använd inte kategorier';
 $Definition['Do not display the categories in the side panel.'] = 'Visa inte kategorierna i sidopanelen';
 $Definition['Download Locale List'] = 'Ladda hem språklista';
-$Definition['DownloadLocalePack'] = 'Ladda hem';
+$Definition['DownloadLocalePack'] = 'Ladda ner';
 $Definition['Download Locale Pack'] = 'Ladda hem språkpaket';
 
 $Definition['Edit/Delete Log'] = 'Redigera/radera logg';
@@ -336,6 +340,7 @@ $Definition['HTML Emails'] = 'HTML e-post';
 
 $Definition['Inbox Page'] = 'Inkorg-sida';
 $Definition['Indexes'] = 'Index';
+$Definition['Information'] = 'Information';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Installera Vanilla utan .htaccess-fil';
 $Definition['Internaltionalization & Localization'] = 'Internationella och lokala värden';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Introducerar Vanilla - Reaktioner och Emblem';
@@ -450,6 +455,8 @@ $Definition['Permission'] = 'Behörighet';
 $Definition['Permission.Category'] = 'Kategori';
 $Definition['Permissions'] = 'Behörigheter';
 $Definition['Please Confirm'] = 'Vänligen bekräfta';
+$Definition['Plugin'] = 'Plugin';
+$Definition['Plugins'] = 'Plugins';
 $Definition['Pocket'] = 'Ficka';
 $Definition['Pockets'] = 'Fickor';
 $Definition['Polls'] = 'Omröstningar';
@@ -626,6 +633,9 @@ $Definition['Vanilla.Archive.Description'] = 'Du kan välja att arkivera forum-d
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Placera kapslade kategorier i en lista åtskild av komman när de är %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla är installerat!';
 $Definition['Verified!'] = 'Bekräftad!';
+$Definition['Version'] = 'Version';
+$Definition['Version %s'] = 'Version %s';
+$Definition['version %s'] = 'version %s';
 $Definition['Version %s Installer'] = 'Installering för version %s';
 $Definition['View Page'] = 'Visa sida';
 
@@ -640,6 +650,7 @@ $Definition['Where is your Community Forum?'] = 'Var finns ditt Communitys forum
 $Definition['Who\'s Online Settings'] = 'Inställningar för "Vem är online?"';
 $Definition['Why do you want to join?'] = 'Varför vill du gå med?';
 $Definition['Within'] = 'Inom';
+$Definition['WordPress Plugin'] = 'WordPress Plugin';
 
 $Definition['Yes, the following information can be changed later.'] = 'Ja, följande information kan ändras senare.';
 $Definition['You are connected as %s.'] = 'Du är uppkopplad som %s.';
@@ -663,3 +674,17 @@ $Definition['Your configuration file does not have the correct permissions. PHP 
 $Definition['Your default locale won\'t display properly'] = 'Din förinställda språkvariant kommer inte att visas förrän den är aktiverad nedan. Vänligen aktivera följande: %s.';
 $Definition['Your inbox is empty.'] = 'Din inkorg är tom.';
 $Definition['Your invitations were sent successfully.'] = 'Dina inbjudningar skickades.';
+
+// Posting settings
+$Definition['InputFormatter.Notes1'] = 'Välj textredigerarens standardformat för inlägg i forumet.';
+$Definition['InputFormatter.Notes2'] = 'Textredigeraren identifierar formatet för gamla inlägg när de redigeras och laddar deras ursprungliga formateringsregler. Bortsett från detta undantag kommer det valda inläggsformatet nedan att ha företräde.';
+$Definition['ForceWysiwyg.Notes1'] = 'Markera alternativet nedan för att säga åt textredigeraren att omtolka alla gamla inlägg som Wysiwyg.';
+$Definition['ForceWysiwyg.Notes2'] = 'Den här inställningen träder bara i kraft om Wysiwyg valdes som inläggsformat ovan. Syftet med detta alternativ är att normalisera redigeringsformatet. Om äldre inlägg som redigerats med ett annat format, till exempel markdown eller BBCode, laddas, kommer detta alternativ att ändra formatet till Wysiwyg.';
+$Definition['MobileInputFormatter.Notes1'] = 'Ange ett redigeringsformat för mobila enheter.';
+$Definition['MobileInputFormatter.Notes2'] = 'Om mobila enheter ska ha samma upplevelse, ange samma som ovan. Om användare rapporterar problem med mobilredigering är det här ett bra alternativ att ändra.';
+$Definition['Note:'] = 'Notering:';
+$Definition['Post Format'] = 'Inläggsformat';
+$Definition['Reinterpret All Posts As Wysiwyg'] = 'Omtolka alla inlägg som Wysiwyg';
+$Definition['Mobile Format'] = 'Mobilformat';
+$Definition['Enable Rich Quotes'] = 'Aktivera Rich-citat';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Använd följande alternativ för att aktivera citat för Rich Editor. Detta gäller bara om standardformatet är "Rich".';
