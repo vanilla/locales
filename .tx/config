@@ -1,19 +1,19 @@
 [main]
 host = https://www.transifex.com
 
-[vanilla.site_core]
+[vanilla.site_core-php--transifex]
 file_filter = tx/<lang>/site_core.php
 source_file = tx-source/site_core.php
 source_lang = en
 type = PHP_ALT_ARRAY
 
-[vanilla.dash_core]
+[vanilla.dash-core-php--transifex]
 file_filter = tx/<lang>/dash_core.php
 source_file = tx-source/dash_core.php
 source_lang = en
 type = PHP_ALT_ARRAY
 
-[vanilla.dash_text]
+[vanilla.dash_text-php--transifex]
 file_filter = tx/<lang>/dash_text.php
 source_file = tx-source/dash_text.php
 source_lang = en
