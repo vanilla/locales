@@ -48,20 +48,29 @@ $Definition["Delete an Article"] = "Delete an Article";
 $Definition["Deleted Articles"] = "Deleted Articles";
 $Definition["Draft Options"] = "Draft Options";
 $Definition["Draft saved <0/>"] = "Draft saved <0/>";
+
 $Definition["Error saving draft."] = "Error saving draft.";
 $Definition["Everywhere"] = "Everywhere";
 $Definition["Example: Appearance"] = "Example: Appearance";
+
 $Definition["Filter"] = "Filter";
 $Definition["Filter Results"] = "Filter Results";
+
 $Definition["General Appearance"] = "General Appearance";
+
 $Definition["Hello Home Page. Links are below:"] = "Hello Home Page. Links are below:";
+
 $Definition["Insert Article Here"] = "Insert Article Here";
+
 $Definition["Knowledge"] = "Knowledge";
 $Definition["Knowledge Base"] = "Knowledge Base";
 $Definition["Knowledge Base Item"] = "Knowledge Base Item";
 $Definition["Knowledge Bases"] = "Knowledge Bases";
+
 $Definition["Load More"] = "Load More";
+
 $Definition["More Articles"] = "More Articles";
+
 $Definition["Navigation Manager"] = "Navigation Manager";
 $Definition["New Article"] = "New Article";
 $Definition["New Category"] = "New Category";
@@ -70,14 +79,17 @@ $Definition["New Name: "] = "New Name: ";
 $Definition["No \"deleted\" knowledge bases found."] = "No \"deleted\" knowledge bases found.";
 $Definition["No Permission"] = "No Permission";
 $Definition["No knowledge bases found."] = "No knowledge bases found.";
+
 $Definition["On This Page"] = "On This Page";
 $Definition["Organize Categories"] = "Organize Categories";
 $Definition["Other Articles"] = "Other Articles";
 $Definition["Other Languages"] = "Other Languages";
+
 $Definition["Page Location"] = "Page Location";
 $Definition["Page not found"] = "Page not found";
 $Definition["Please try again later."] = "Please try again later.";
 $Definition["Publish"] = "Publish";
+
 $Definition["Related Articles"] = "Related Articles";
 $Definition["Remove Article Link"] = "Remove Article Link";
 $Definition["Remove Link"] = "Remove Link";
@@ -86,6 +98,7 @@ $Definition["Restore an Article"] = "Restore an Article";
 $Definition["Retry"] = "Retry";
 $Definition["Revision History"] = "Revision History";
 $Definition["Revisions"] = "Revisions";
+
 $Definition["Saving draft..."] = "Saving draft...";
 $Definition["Search Page"] = "Search Page";
 $Definition["Search Results"] = "Search Results";
@@ -95,6 +108,7 @@ $Definition["Select where you want to place your Article."] = "Select where you 
 $Definition["Set Page Location"] = "Set Page Location";
 $Definition["Sub folder"] = "Sub folder";
 $Definition["Subcategories"] = "Subcategories";
+
 $Definition["Thanks for your feedback!"] = "Thanks for your feedback!";
 $Definition["There are no categories here."] = "There are no categories here.";
 $Definition["There are no knowledge bases"] = "There are no knowledge bases";
@@ -108,12 +122,15 @@ $Definition["This will create an article that is a copy of this discussion. The 
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "This will remove the link to the article, but will not remove the article itself.";
 $Definition["Top Left"] = "Top Left";
 $Definition["Type your message."] = "Type your message.";
+
 $Definition["Unknown User"] = "Unknown User";
-$Definition["User: "] = "User: ";
+
 $Definition["View Article"] = "View Article";
 $Definition["View all articles from category: \"<0/>\"."] = "View all articles from category: \"<0/>\".";
+
 $Definition["Was this article helpful?"] = "Was this article helpful?";
 $Definition["Write Discussion"] = "Write Discussion";
+
 $Definition["You can see this message because you have special permissions."] = "You can see this message because you have special permissions.";
 $Definition["You don't have permission to view this resource."] = "You don't have permission to view this resource.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "You need to <0>Sign In</0> to vote on this article";
