@@ -1,6 +1,5 @@
 <?php
 
-$Definition[" by "] = " by ";
 $Definition["(No Body)"] = "(No Body)";
 $Definition["(Untitled)"] = "(Untitled)";
 $Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> out of <1 /> people found this helpful";
@@ -13,9 +12,11 @@ $Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Are you sure y
 $Definition["Are you sure you want to delete this knowledge base?"] = "Are you sure you want to delete this knowledge base?";
 $Definition["Are you sure you want to purge this knowledge base?"] = "Are you sure you want to purge this knowledge base?";
 $Definition["Are you sure you want to restore this knowledge base?"] = "Are you sure you want to restore this knowledge base?";
+$Definition["Article"] = "Article";
 $Definition["article"] = "article";
 $Definition["Article One"] = "Article One";
 $Definition["Article Options"] = "Article Options";
+$Definition["Article Revisions"] = "Article Revisions";
 $Definition["Article Three"] = "Article Three";
 $Definition["Article Two"] = "Article Two";
 $Definition["Articles"] = "Articles";
