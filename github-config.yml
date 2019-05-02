@@ -1,0 +1,19 @@
+filters:
+  - filter_type: file
+    source_file: tx-source/site_core.php
+    file_format: PHP_ALT_ARRAY
+    source_language: en
+    translation_files_expression: vf_<lang>/
+  - filter_type: file
+    source_file: tx-source/dash_core.php
+    file_format: PHP_ALT_ARRAY
+    source_language: en
+    translation_files_expression: vf_<lang>/
+  - filter_type: file
+    source_file: tx-source/dash_text.php
+    file_format: PHP_ALT_ARRAY
+    source_language: en
+    translation_files_expression: vf_<lang>/
+settings:
+    language_mapping:
+        ru@petr1708: ru__PETR1708
