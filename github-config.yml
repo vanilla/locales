@@ -3,27 +3,22 @@ filters:
     source_file: tx-source/site_core.php
     file_format: PHP_ALT_ARRAY
     source_language: en
-    translation_files_expression: vf_<lang>/
+    translation_files_expression: vf_<lang>/site_core.php
   - filter_type: file
     source_file: tx-source/site_kb.php
     file_format: PHP_ALT_ARRAY
     source_language: en
-    translation_files_expression: vf_<lang>/
+    translation_files_expression: vf_<lang>/site_kb.php
   - filter_type: file
     source_file: tx-source/dash_core.php
     file_format: PHP_ALT_ARRAY
     source_language: en
-    translation_files_expression: vf_<lang>/
+    translation_files_expression: vf_<lang>/dash_core.php
   - filter_type: file
     source_file: tx-source/dash_text.php
     file_format: PHP_ALT_ARRAY
     source_language: en
-    translation_files_expression: vf_<lang>/
-  - filter_type: file
-      source_file: tx-source/site_kb.php
-      file_format: PHP_ALT_ARRAY
-      source_language: en
-      translation_files_expression: vf_<lang>/
+    translation_files_expression: vf_<lang>/dash_text.php
 settings:
     language_mapping:
         ru@petr1708: ru__PETR1708
