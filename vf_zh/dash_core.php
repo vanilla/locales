@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = '更改网站 Logo： ';
 
 $Definition['Maintenance Mode'] = '维护模式';
 $Definition['Make sure you select at least one item before continuing.'] = '请至少选择一个条目再进行下一步。';
+$Definition['Add your site to trusted domains.'] = '当嵌入选项启用后，确保您的网站有添加到  %s。';
 $Definition['Manage'] = '管理';
 $Definition['Manage Applicants'] = '管理申请人';
 $Definition['Manage Applications'] = '管理应用';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = '这个主题在 %s 有附�
 $Definition['This theme has customizable text.'] = '您可以定制这个主题中的文字。';
 $Definition['Thumbnails'] = '缩略图';
 $Definition['Titles'] = '标题';
+$Definition['trusted domains'] = '信任的域名';
 $Definition['Turn OFF'] = '关闭插件';
 
 $Definition['Uninvite'] = '未邀请';
