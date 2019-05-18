@@ -375,7 +375,7 @@ $Definition['LogoBrowse'] = 'Busca un nuevo logotipo de banner si quieres cambia
 
 $Definition['Maintenance Mode'] = 'En modo de mantenimiento';
 $Definition['Make sure you select at least one item before continuing.'] = 'Asegúrese de seleccionar al menos un elemento antes de continuar.';
-$Definition['Add your site to trusted domains.'] = 'Cerciórese de que su sitio esté agregado a 1%s cuando la incrustación este habilitada.';
+$Definition['Add your site to trusted domains.'] = 'Cerciórese de que su sitio esté agregado a %s cuando la incrustación este habilitada.';
 $Definition['Manage'] = 'Administrar';
 $Definition['Manage Applicants'] = 'Gestionar Solicitantes';
 $Definition['Manage Applications'] = 'Gestionar Aplicaciones';
