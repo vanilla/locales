@@ -319,10 +319,10 @@ $Definition['Guest roles'] = 'Marque todas as funções que serão aplicadas a v
 
 $Definition['Hash Algorithm'] = 'Algoritmo Hash';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} criou uma conta para {RegardingUserID,user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,Você} mudou a fotografia do perfil {ActivityUserID,your}.';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} mudou a fotografia do perfil {ActivityUserID,your}.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} aprovou o registro de {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.WallPost'] = 'HeadlineFormat.WallPost';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Líderes';
 $Definition['Help &amp; Tutorials'] = 'Ajuda e Tutoriais';
 $Definition['Here\'s how to get started:'] = 'Veja como começar:';
@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Procure um novo logo caso queira alterá-lo:';
 
 $Definition['Maintenance Mode'] = 'Modo de manutenção';
 $Definition['Make sure you select at least one item before continuing.'] = 'Escolha ao menos um item antes de continuar.';
+$Definition['Add your site to trusted domains.'] = 'Certifique-se de que seu site esteja adicionado a %s quando a incorporação estiver habilitada.';
 $Definition['Manage'] = 'Administrar';
 $Definition['Manage Applicants'] = 'Administrar candidatos';
 $Definition['Manage Applications'] = 'Administrar Aplicações';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'Este tema tem opções adic
 $Definition['This theme has customizable text.'] = 'Este tema tem texto personalizável.';
 $Definition['Thumbnails'] = 'Miniaturas';
 $Definition['Titles'] = 'Títulos';
+$Definition['trusted domains'] = 'domínios confiáveis';
 $Definition['Turn OFF'] = 'Desconectar';
 
 $Definition['Uninvite'] = 'Desconvidar';
