@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Søg efter et nyt bannerlogo hvis du ønsker at æn
 
 $Definition['Maintenance Mode'] = 'Vedligeholdelsestilstand';
 $Definition['Make sure you select at least one item before continuing.'] = 'Vælg mindst et element før du fortsætter.';
+$Definition['Add your site to trusted domains.'] = 'Sørg for at din side er tilføjet til %s, når indlejring er aktiveret.';
 $Definition['Manage'] = 'Vedligehold';
 $Definition['Manage Applicants'] = 'Administrér ansøgere';
 $Definition['Manage Applications'] = 'Administrér applikationer';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'Dette tema har yderligere i
 $Definition['This theme has customizable text.'] = 'Dette tema har tekst som du kan tilpasse.';
 $Definition['Thumbnails'] = 'Miniaturer';
 $Definition['Titles'] = 'Titler';
+$Definition['trusted domains'] = 'pålidelige domæner';
 $Definition['Turn OFF'] = 'SLUK';
 
 $Definition['Uninvite'] = 'Tilbagetræk invitation.';
