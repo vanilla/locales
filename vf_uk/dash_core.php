@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to c
 
 $Definition['Maintenance Mode'] = 'Режим обслуговування';
 $Definition['Make sure you select at least one item before continuing.'] = 'Make sure you select at least one item before continuing.';
+$Definition['Add your site to trusted domains.'] = 'Переконайтеся, що ваш сайт додано до %s, коли вбудовування увімкнено.';
 $Definition['Manage'] = 'Курування';
 $Definition['Manage Applicants'] = 'Керування здобувачами';
 $Definition['Manage Applications'] = 'Керування додатками';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'This theme has additional o
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
 $Definition['Thumbnails'] = 'Thumbnails';
 $Definition['Titles'] = 'Titles';
+$Definition['trusted domains'] = 'довірені домени';
 $Definition['Turn OFF'] = 'Turn OFF';
 
 $Definition['Uninvite'] = 'Uninvite';
