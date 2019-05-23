@@ -378,6 +378,7 @@ $Definition['LogoBrowse'] = 'Αναζήτηση νέου λογότυπου αν
 
 $Definition['Maintenance Mode'] = 'Λειτουργία Συντήρησης';
 $Definition['Make sure you select at least one item before continuing.'] = 'Βεβαιωθείτε ότι επιλέξατε τουλάχιστον ένα αντικείμενο πριν συνεχίσετε.';
+$Definition['Add your site to trusted domains.'] = 'Σιγουρευτείτε ότι η ιστοσελίδα σας έχει προστεθεί στο %s όταν η ενσωμάτωση είναι ενεργοποιημένη.';
 $Definition['Manage'] = 'Διαχείριση';
 $Definition['Manage Applicants'] = 'Διαχείριση Αιτήσεων';
 $Definition['Manage Applications'] = 'Διαχείριση Εφαρμογών';
@@ -602,6 +603,7 @@ $Definition['This theme has additional options.'] = 'Αυτό το θέμα έχ
 $Definition['This theme has customizable text.'] = 'Αυτό το θέμα έχει κείμενο που μπορείτε να προσαρμόσετε.';
 $Definition['Thumbnails'] = 'Μικρογραφίες';
 $Definition['Titles'] = 'Τίτλοι';
+$Definition['trusted domains'] = 'αξιόπιστες διευθύνσεις';
 $Definition['Turn OFF'] = 'Απενεργοποίηση';
 
 $Definition['Uninvite'] = 'Ακύρωση Πρόσκλησης';
