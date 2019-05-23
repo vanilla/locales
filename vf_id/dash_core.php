@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Ramban logo banner baru bila anda hendak menggantin
 
 $Definition['Maintenance Mode'] = 'Mode Pemeliharaan';
 $Definition['Make sure you select at least one item before continuing.'] = 'Pastikan anda memilih sedikitnya satu item sebelum melanjutkan.';
+$Definition['Add your site to trusted domains.'] = 'Pastikan situs Anda sudah ditambahkan ke %s saat pelekatan diaktifkan.';
 $Definition['Manage'] = 'Kelola';
 $Definition['Manage Applicants'] = 'Kelola Pelamar';
 $Definition['Manage Applications'] = 'Kelola Aplikasi';
@@ -600,6 +601,7 @@ $Definition['This theme has additional options.'] = 'Tema ini punya tambahan ops
 $Definition['This theme has customizable text.'] = 'Tema ini memiliki teks yang dapat anda sesuaikan.';
 $Definition['Thumbnails'] = 'Thumbnail';
 $Definition['Titles'] = 'Judul';
+$Definition['trusted domains'] = 'domain terpercaya';
 $Definition['Turn OFF'] = 'Matikan';
 
 $Definition['Uninvite'] = 'Jangan undang';
