@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'LogoBrowse';
 
 $Definition['Maintenance Mode'] = 'Maintenance Mode';
 $Definition['Make sure you select at least one item before continuing.'] = 'Make sure you select at least one item before continuing.';
+$Definition['Add your site to trusted domains.'] = '埋め込みが有効になると、あなたのサイトが%sに追加されることを確認してください。';
 $Definition['Manage'] = '管理';
 $Definition['Manage Applicants'] = '申請者管理';
 $Definition['Manage Applications'] = 'アプリケーション管理';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'このテーマは %s ペ�
 $Definition['This theme has customizable text.'] = 'This theme has customizable text.';
 $Definition['Thumbnails'] = 'Thumbnails';
 $Definition['Titles'] = 'タイトル';
+$Definition['trusted domains'] = '信頼済みドメイン';
 $Definition['Turn OFF'] = 'Turn OFF';
 
 $Definition['Uninvite'] = 'Uninvite';
