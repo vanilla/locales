@@ -319,10 +319,10 @@ $Definition['Guest roles'] = 'Controleer alle rollen die aan gasten gegeven moet
 
 $Definition['Hash Algorithm'] = 'Hash-algoritme';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} heeft een account aangemaakt voor {RegardingUserID,user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,Jij} veranderde {ActivityUserID,jouw} profielfoto.';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} veranderde {ActivityUserID,your} profielfoto.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} accepteerde de aanvragen van {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,jij} &rarr; {ActivityUserID,jij}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Let op!';
 $Definition['Help &amp; Tutorials'] = 'Hulp & Handleidingen';
 $Definition['Here\'s how to get started:'] = 'Zo ga je aan de slag:';
@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Zoek een nieuw bannerlogo als je dit wilt verandere
 
 $Definition['Maintenance Mode'] = 'Onderhoudsmodus';
 $Definition['Make sure you select at least one item before continuing.'] = 'Zorg ervoor dat je op zijn minst één voorwerp kiest voordat je doorgaat.';
+$Definition['Add your site to trusted domains.'] = 'Let erop dat uw site is toegevoegd aan %s als embedding is ingeschakeld.';
 $Definition['Manage'] = 'Beheer';
 $Definition['Manage Applicants'] = 'Beheer aanvragers';
 $Definition['Manage Applications'] = 'Beheer applicaties';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'Dit thema heeft extra optie
 $Definition['This theme has customizable text.'] = 'Dit thema heeft tekst die je kunt aanpassen.';
 $Definition['Thumbnails'] = 'Miniatuurafbeeldingen';
 $Definition['Titles'] = 'Titels';
+$Definition['trusted domains'] = 'vertrouwde domeinen';
 $Definition['Turn OFF'] = 'Zet UIT';
 
 $Definition['Uninvite'] = 'Intrekken';

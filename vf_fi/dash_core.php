@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Selaa bannerin uusi logo koneeltasi vaihtaaksesi se
 
 $Definition['Maintenance Mode'] = 'Huoltotila';
 $Definition['Make sure you select at least one item before continuing.'] = 'Tee ainakin yksi valinta ensin jatkaaksesi.';
+$Definition['Add your site to trusted domains.'] = 'Varmista, että sivustosi on lisätty kohteeseen %s upotuksen ollessa päällä.';
 $Definition['Manage'] = 'Hallinnoi';
 $Definition['Manage Applicants'] = 'J&auml;senhakemusten hallinta';
 $Definition['Manage Applications'] = 'Hallinnoi laajennuksia';
@@ -600,6 +601,7 @@ $Definition['This theme has additional options.'] = 'This theme has additional o
 $Definition['This theme has customizable text.'] = 'Teema sis&auml;lt&auml;&auml; teksti&auml;, jota voit muokata.';
 $Definition['Thumbnails'] = 'Pikkukuvat';
 $Definition['Titles'] = 'Titles';
+$Definition['trusted domains'] = 'luotetut verkkotunnukset';
 $Definition['Turn OFF'] = 'Ota pois k&auml;yt&ouml;st&auml;';
 
 $Definition['Uninvite'] = 'Peru kutsu';

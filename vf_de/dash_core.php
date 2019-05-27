@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Neues Bannerlogo auswählen, um es zu ändern.';
 
 $Definition['Maintenance Mode'] = 'Wartungsmodus';
 $Definition['Make sure you select at least one item before continuing.'] = 'Stelle sicher, dass du mindestens ein Element auswählst bevor du fortfährst.';
+$Definition['Add your site to trusted domains.'] = 'Stellen Sie sicher, dass Ihre Website zu %s hinzugefügt ist, wenn die Einbettung aktiviert ist.';
 $Definition['Manage'] = 'Verwalten';
 $Definition['Manage Applicants'] = 'Bewerber verwalten';
 $Definition['Manage Applications'] = 'Anwendungen verwalten';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'Dieses Thema hat zusätzlic
 $Definition['This theme has customizable text.'] = 'Dieses Thema hat Text, den du anpassen kannst.';
 $Definition['Thumbnails'] = 'Thumbnails ';
 $Definition['Titles'] = 'Titel';
+$Definition['trusted domains'] = 'vertrauenswürdige Domains';
 $Definition['Turn OFF'] = 'Ausschalten';
 
 $Definition['Uninvite'] = 'Ausladen';

@@ -373,6 +373,7 @@ $Definition['LogoBrowse'] = 'Naviguez à la recherche d\'une nouveau logo banni�
 
 $Definition['Maintenance Mode'] = 'Mode maintenance';
 $Definition['Make sure you select at least one item before continuing.'] = 'Sélectionnez au moins un élément avant de continuer.';
+$Definition['Add your site to trusted domains.'] = 'Veillez à ce que votre site soit ajouté à %s lors de l\'activation de l\'imbrication.';
 $Definition['Manage'] = 'Gérer';
 $Definition['Manage Applicants'] = 'Gestion des candidats';
 $Definition['Manage Applications'] = 'Gestion des applications';
@@ -597,6 +598,7 @@ $Definition['This theme has additional options.'] = 'Ce thème possède des opti
 $Definition['This theme has customizable text.'] = 'Ce thème possède des sections de texte configurables';
 $Definition['Thumbnails'] = 'Vignettes d\'aperçu';
 $Definition['Titles'] = 'Titres';
+$Definition['trusted domains'] = 'domaines de confiance';
 $Definition['Turn OFF'] = 'Désactiver';
 
 $Definition['Uninvite'] = 'Retirer l\'invitation';

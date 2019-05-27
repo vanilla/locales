@@ -372,6 +372,7 @@ $Definition['LogoBrowse'] = 'חיפוש לוגו חדש לבאנר אם ברצו
 
 $Definition['Maintenance Mode'] = 'מצב תחזוקה';
 $Definition['Make sure you select at least one item before continuing.'] = 'וודא שבחרת לפחות פריט אחד לפני שאתה ממשיך.';
+$Definition['Add your site to trusted domains.'] = 'ודא/י שהאתר שלך מתווסף ל-%s כשהטמעה זמינה.';
 $Definition['Manage'] = 'ניהול';
 $Definition['Manage Applicants'] = 'ניהול מועמדים';
 $Definition['Manage Applications'] = 'ניהול אפליקציות';
@@ -596,6 +597,7 @@ $Definition['This theme has additional options.'] = 'לערכת הנושא הז�
 $Definition['This theme has customizable text.'] = 'בערכת הנושא הזאת יש מלל שאתה יכול להתאים אישית.';
 $Definition['Thumbnails'] = 'תמונות מקדימות';
 $Definition['Titles'] = 'כותרות';
+$Definition['trusted domains'] = 'תחומים מהימנים';
 $Definition['Turn OFF'] = 'כיבוי';
 
 $Definition['Uninvite'] = 'ביטול הזמנה';

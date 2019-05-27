@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Bläddra efter en ny logo om du vill ändra den:';
 
 $Definition['Maintenance Mode'] = 'Underhållsläge';
 $Definition['Make sure you select at least one item before continuing.'] = 'Se till att välja minst ett objekt innan du fortsätter.';
+$Definition['Add your site to trusted domains.'] = 'Kontrollera att din sajt är tillagd i %s när inbäddning är aktiverad.';
 $Definition['Manage'] = 'Hantera';
 $Definition['Manage Applicants'] = 'Hantera ansökningar';
 $Definition['Manage Applications'] = 'Hantera applikationer';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'Temat har fler alternativ p
 $Definition['This theme has customizable text.'] = 'Det här temat har text som du kan anpassa.';
 $Definition['Thumbnails'] = 'Tumnaglar';
 $Definition['Titles'] = 'Rubriker';
+$Definition['trusted domains'] = 'pålitliga domäner';
 $Definition['Turn OFF'] = 'Stäng AV';
 
 $Definition['Uninvite'] = 'Avbryt inbjudan';

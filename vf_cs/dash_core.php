@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to c
 
 $Definition['Maintenance Mode'] = 'Maintenance Mode';
 $Definition['Make sure you select at least one item before continuing.'] = 'Make sure you select at least one item before continuing.';
+$Definition['Add your site to trusted domains.'] = 'Když je povoleno vkládání, zajistěte, aby byl váš web přidán do umístění %s.';
 $Definition['Manage'] = 'Manage';
 $Definition['Manage Applicants'] = 'Manage Applicants';
 $Definition['Manage Applications'] = 'Manage Applications';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'This theme has additional o
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
 $Definition['Thumbnails'] = 'Thumbnails';
 $Definition['Titles'] = 'Titles';
+$Definition['trusted domains'] = 'důvěryhodné domény';
 $Definition['Turn OFF'] = 'Turn OFF';
 
 $Definition['Uninvite'] = 'Uninvite';

@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Chọn một biểu trưng biểu ngữ mới nếu
 
 $Definition['Maintenance Mode'] = 'Chế độ bảo trì';
 $Definition['Make sure you select at least one item before continuing.'] = 'Đảm bảo rằng bạn chọn ít nhất một mục trước khi tiếp tục.';
+$Definition['Add your site to trusted domains.'] = 'Hãy đảm bảo trang web của bạn đã được thêm vào %s khi tính năng nhúng được bật.';
 $Definition['Manage'] = 'Quản lý';
 $Definition['Manage Applicants'] = 'Quản lý người nộp đơn';
 $Definition['Manage Applications'] = 'Quản lý ứng dụng';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'Chủ đề này có các t
 $Definition['This theme has customizable text.'] = 'Chủ đề này có văn bản mà bạn có thể tùy chỉnh.';
 $Definition['Thumbnails'] = 'Hình thu nhỏ';
 $Definition['Titles'] = 'Tiêu đề';
+$Definition['trusted domains'] = 'miền đáng tin cậy';
 $Definition['Turn OFF'] = 'Tắt';
 
 $Definition['Uninvite'] = 'Ngừng mời';

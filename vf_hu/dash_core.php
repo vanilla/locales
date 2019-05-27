@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Tallóz be egy új banner logot, ha meg szeretnéd 
 
 $Definition['Maintenance Mode'] = 'Karbantartási üzemmód';
 $Definition['Make sure you select at least one item before continuing.'] = 'Legalább egy elemet válassz ki, mielőtt folytatnád.';
+$Definition['Add your site to trusted domains.'] = 'Győződj meg róla, hogy oldalad  %s része legyen, amikor a beágyazás engedélyezve van.';
 $Definition['Manage'] = 'Kezelés';
 $Definition['Manage Applicants'] = 'Jelentkezők kezelése';
 $Definition['Manage Applications'] = 'Programok kezelése';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'A téma további beállít�
 $Definition['This theme has customizable text.'] = 'Ebben a témaban személyre szabható szöveg van.';
 $Definition['Thumbnails'] = 'Miniatűrök';
 $Definition['Titles'] = 'Címek';
+$Definition['trusted domains'] = 'megbízható domének';
 $Definition['Turn OFF'] = 'Kapcsold KI';
 
 $Definition['Uninvite'] = 'Meghívó visszavonása';

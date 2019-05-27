@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = '如果您想要更換橫幅標誌，請瀏覽新的
 
 $Definition['Maintenance Mode'] = '維護模式';
 $Definition['Make sure you select at least one item before continuing.'] = '請務必在繼續之前先選取至少一個項目。';
+$Definition['Add your site to trusted domains.'] = '啟用嵌入時，請確認您的網站已新增到 %s。';
 $Definition['Manage'] = '管理';
 $Definition['Manage Applicants'] = '管理申請人';
 $Definition['Manage Applications'] = '管理應用程式';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = '這個視覺主題在%s頁�
 $Definition['This theme has customizable text.'] = '這個視覺主題有可以自訂內容的文字。';
 $Definition['Thumbnails'] = '縮圖';
 $Definition['Titles'] = '標題';
+$Definition['trusted domains'] = '受信任的網域';
 $Definition['Turn OFF'] = '關閉';
 
 $Definition['Uninvite'] = '取消邀請';

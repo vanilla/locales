@@ -375,6 +375,7 @@ $Definition['LogoBrowse'] = 'Procure um novo logo caso queira troca-lo.';
 
 $Definition['Maintenance Mode'] = 'Modo de Manutenção';
 $Definition['Make sure you select at least one item before continuing.'] = 'Escolha ao menos um item antes de continuar.';
+$Definition['Add your site to trusted domains.'] = 'Certifique-se de que o seu site é adicionado a %s quando a inserção estiver ativa.';
 $Definition['Manage'] = 'Gerenciar';
 $Definition['Manage Applicants'] = 'Gerir Aplicantes';
 $Definition['Manage Applications'] = 'Gerir Aplicações';
@@ -599,6 +600,7 @@ $Definition['This theme has additional options.'] = 'Este tema tem opções adic
 $Definition['This theme has customizable text.'] = 'Este tema tem texto personalizável.';
 $Definition['Thumbnails'] = 'Miniaturas';
 $Definition['Titles'] = 'Títulos';
+$Definition['trusted domains'] = 'domínios de confiança';
 $Definition['Turn OFF'] = 'Desligar';
 
 $Definition['Uninvite'] = 'Desconvidar';
