@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Huom!</strong> Roolin poistaminen voi aiheuttaa sen, ettei tietyill&auml; k&auml;ytt&auml;jill&auml; ole en&auml;&auml; p&auml;&auml:;sy&auml; palstallesi.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Huom!</strong> Jos keskusteluja siirretään korvaavaan kategoriaan, keskusteluja saattaa hävitä (tai ilmestyä), jos korvaavassa kategoriassa on erilaiset oikeudet kuin poistettavassa kategoriassa.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Rastin oletustyypin kanssa "vahvistamaton" tarvitaan sähköpostin vahvistuksen käyttämiseen.';
 $Definition['About.DisableStatistics'] = 'Jos joudut poistamaan raportoinnin k&auml;yt&ouml;st&auml; esimerkiksi business-syist&auml;, tee se lis&auml;&auml;m&auml;ll&auml; oheinen rivi Vanilla-asennuksesi konfiguraatiotiedostoon: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Jotta Vanilla voisi pysyä ilmaisena Open Source-alustana, on ensiarvoisen t&auml;rke&auml;&auml; , ett&auml; voimme mitata sen levikki&auml; ja suorituskyky&auml;. Pyydämme, ettet poista k&auml;yt&ouml;st&auml; näiden tietojen raportointia.';
 $Definition['AboutCommentEmbedding'] = 'Vanillan avulla voit kätevästi korvata blogisi kommentointijärjestelmän. Itse asiassa kommentoinnin voi Vanillan avulla lisätä mille tahansa verkkosivulle.';
@@ -14,7 +15,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Vaikka kutsun luominen onnistui, s&auml;hk&ouml;postia ei voitu l&auml;hett&auml;&auml;.  Serveri palautti oheisen virheen: %s';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Oletko varma, ett&auml; annoit oikean tietokannan is&auml;nn&auml;n nimen? Tarkistathan oikeikirjoituksen jatkaaksesi. Tietokannan vastaus oli: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Rastin oletustyypin kanssa "vahvistamaton" tarvitaan sähköpostin vahvistuksen käyttämiseen.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Klikkaamalla oheista painiketta poistat j&auml;senen %s k&auml;ytt&auml;j&auml;tilin lopullisesti.';
 
@@ -43,12 +43,15 @@ $Definition['Embed your community forum into your website to increase engagement
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Anna sivustollesi lyhyt nimi. T&auml;t&auml; k&auml;ytet&auml;&auml;n kirjautumis -painikkeissa.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Anna Wordpress blogisi osoite niin me jatkamme tästä.';
+$Definition['Enter the connection settings for your sphinx server below.'] = 'Enter the connection settings for your sphinx server below.';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Jokainen muokkaus ja poisto tallennetaan t&auml;nne. K&auml;yt&auml; toimintoa &lsquo;Peruuta&rsquo; kumotaksesi muutokset.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Kaikki yhteisöösi rekisteröityvät saavat julkisen profiilisivun, jossa he voivat lisätä kuvan itsestään, hallita profiilinsa asetuksia, ja seurata siistejä juttuja yhteisössä. Sinun tulisi <a href="{/profile,url}">kustomoida profiilisi nyt</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Jokaiselle sivustosi käyttäjälle annetaan ainakin yksi rooli. Roolien avulla määritellään, mitä käyttäjillä on lupa tehdä.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connectin avulla käyttäjät voivat kirjautua Facebook-tiliään käyttämällä. <b>Sinun täytyy rekisteröidä sovelluksesi Facebookissa, jotta tämä liitännäinen toimisi.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Yhdist&auml;minen tietokantaan ep&auml;onnistui antamallasi k&auml;ytt&auml;j&auml;tunnuksella ja salasanalla. Tarkista tiedot ainakin kirjoitusvirheiden osalta. Tietokannan vastaus:  <code>%s</code>';
+$Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
+$Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Tuonti onnistui.
    Klikkaa <b>Finished</b>, kun olet valmis.';
@@ -61,17 +64,22 @@ $Definition['Garden.StatisticsLocal.Resolve'] = 'Jos olet varma, ett&auml; fooru
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Config.php-tiedosto vaikuttaa olevan vain luku -muodossa. T&auml;st&auml; syyst&auml; Vanilla ei pysty tallentamaan siihen foorumisi asennus-ID:tä ja asennusavainta.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'Ratkaise t&auml;m&auml; ongelma asettamalla tiedostolle conf/config.php oikeudet 777.';
 
+$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Tiedoksi! Tämä on erityinen rooli, joka ei salli aktiivisia istuntoja. Siitä syystä käyttöoikeusvaihtoehdot on rajoitettu ”vain katselu” -oikeuksiksi.';
+
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Jos lataat logon banneriin, se korvaa nykyisen palstan julkisella puolella n&auml;ytett&auml;v&auml;n asetetun banneriotsikon.';
+$Definition['If you want to decrease the warning level then remove a warning.'] = 'Mikäli haluat pienentää varoitustasoa, poista siinä tapauksessa varoitus.';
 $Definition['Import'] = 'Tuo';
 $Definition['Importing to Vanilla'] = 'Tuo Vanillaan';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
+$Definition['Invitations can be sent from users\' profile pages.'] = 'Kun käytät rekisteröitymistä kutsun pohjalta, käyttäjät näkevät profiilisivuillaan linkin nimeltä <a href="%s" class="Popup">Omat kutsuni</a>.';
+$Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Vaikuttaisi siltä, ettei määrittämääsi tietokantaa ole vielä olemassa. Oletko vielä luonut sen? Kirjoititko nimen väärin? Tietokanta antoi seuraavan ilmoituksen: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'On suositeltavaa pit&auml;&auml; maksimimerkkim&auml;&auml;r&auml; viesteiss&auml; j&auml;rkeviss&auml; mitoissa.';
+
+$Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 
 $Definition['Learn about custom routing.'] = 'Lue lisää mukautetusta reitityksestä.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Opi muuttamaan foorumisi ulkonäköä ja käyttötuntumaa: lataa logosi, aseta kotisivusi, valitse teema ja muokkaa sitä.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Opi k&auml;ytt&auml;m&auml;&auml;n foorumisi perustoimintoja.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Lokalisoinnin avulla sivustoasi voidaan käyttää muillakin kielillä. Ota tarvitsemasi kielet tässä käyttöön tai pois käytöstä. ';
-$Definition['Locales are in your %s folder.'] = 'Lokalisoinnin avulla sivustoasi voidaan käyttää muillakin kielillä. Kun tietty lokaali on lisätty kansioon %s, voit ottaa sen käyttöön tai pois käytöstä tässä.';
 $Definition['LogoDescription'] = 'Bannerin logo n&auml;kyy sivustosi yl&auml;osassa. Kaikki teemat eiv&auml;t v&auml;ltt&auml;m&auml;tt&auml; tue logon n&auml;ytt&auml;mist&auml;.';
 
 $Definition['Make sure you click View Page'] = 'Muista aina tarkistaa <a href="%s">n&auml;kym&auml;</a> tehty&auml;si siihen muutoksia.';
@@ -80,12 +88,13 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'S
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Sis&auml;ll&ouml;n merkitseminen ei roskaviestiksi tuo sen taas n&auml;kyviin foorumissa.';
 $Definition['Messages can appear anywhere in your application.'] = 'Voit n&auml;ytt&auml;&auml; yll&auml;pidon viestej&auml; palstallasi muun sis&auml;ll&ouml;n ulkopuolella. Viesteill&auml; voit tiedottaa k&auml;ytt&auml;jille esimerkiksi uusista tapahtumista tai muusta ajankohtaisesta. T&auml;ll&auml; sivulla voit j&auml;rjest&auml;&auml; viestit vet&auml;m&auml;ll&auml; ja pudottamalla ne haluamaasi j&auml;rjestykseen.';
 
-$Definition['Notify me when people comment on my addons.'] = 'L&auml;het&auml; minulle ilmoitus, kun l&auml;hett&auml;mi&auml;ni lis&auml;osia kommentoidaan.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Sivusto tarvitsee roolilla oletustyypin "vahvistamaton" sähköpostivahvistuksen käyttämiseksi. Ota tämä asetus käyttöön valitsemalla yksi.';
+$Definition['Notify me when people comment on my addons.'] = 'L&auml;het&auml; minulle ilmoitus, kun l&auml;hett&auml;mi&auml;ni lis&auml;osia kommentoidaan.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Valitse konfiguroitavaksi ainakin yksi autentikoija.';
 $Definition['PluginHelp'] = 'Lis&auml;osien avulla voit laajentaa sivustosi toiminnallisuuksia. <br />Kun lis&auml;osa on lis&auml;tty serverillesi kansioon %s, voit ottaa sen k&auml;ytt&ouml;&ouml;n tai poistaa k&auml;yt&ouml;st&auml; ohessa.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Tasku näytetään keskustelujen pääluettelossa jokaisen keskustelun välissä. Koska keskustelutunnisteet ovat yleensä &lt;li&gt;..&lt;/li&gt;, sinun tarvitsee paketoida myös oma taskusi näihin tunnisteisiin.';
+$Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Taskut sallivat vapaamuotoisen HTML:n lisäämisen sovelluksen eri kohtiin.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Ehkäise foorumille tulevia roskaviestejä rajoittamalla sitä, kuinka monta uutta keskustelua ja/tai kommenttia yksitt&auml;inen k&auml;ytt&auml;j&auml; voi l&auml;hett&auml;&auml; määrätyn ajan puitteissa.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Pikaopas Vanillan uusien teemojen tekemiseen';
@@ -100,7 +109,7 @@ $Definition['Routes are used to redirect users.'] = 'Reiteillä voidaan ohjata k
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Etsi k&auml;ytt&auml;ji&auml; nimell&auml; tai antamalla se rooli, josta haluat listata kaikki k&auml;ytt&auml;j&auml;t.';
 $Definition['Select the import source'] = 'Valitse tuontil&auml;hde';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialisoidun sarakkeen "%s" serialisointia ei voitu kumota.';
-$Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
+$Definition['Show all possible pocket locations.'] = 'Ota tämä vaihtoehto käyttöön näyttääksesi kaikki mahdolliset taskujen sijainnit. Tämän vaihtoehdon ottaminen käyttöön näyttää sijainnit ainoastaan niille käyttäjille, jotka voivat hallita taskuja.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Pohdi hetkisen, kuinka kuvailet tässä sivustoasi. Jos sivustollasi on järkevä otsikko ja täsmällinen kuvaus, se voi parantaa sivustosi sijoitusta hakukoneissa.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Parantele sähköpostiviestejäsi lisäämällä niihin logo ja muokkaamalla värejä. ';
 $Definition['Start Import'] = 'Aloita tuonti';
@@ -114,18 +123,24 @@ $Definition['The banner title appears on the top-left of every page.'] = 'Banner
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Bannerin otsikko n&auml;kyy sivustosi bannerin yhteydess&auml; sek&auml; selaimen otsikkopalkissa. Sen maksipituus on 20 merkki&auml;. Jos lataat banneriin logon, se korvaa forumin julkisella puolella k&auml;ytt&auml;jille n&auml;kyv&auml;n bannerin otsikon. Huomioithan my&ouml;s ett&auml; kaikki teemat eiv&auml;t n&auml;yt&auml; otsikkoa oletuksena.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>Tavallinen rekisteröitymiskaavake vaatii</strong> uusia käyttäjiä kopioimaan tekstin CAPTCHA-kuvasta, jotta spämmerit pysyvät poissa sivustolta. Tarvitset tilin <a href="http://recaptcha.net/">recaptcha.net</a>-sivustolle. Rekisteröityminen sivustolle on ILMAISTA ja helppoa. Kun olet rekisteröitynyt, tule takaisin tänne ja syötä seuraavat asetukset: ';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'Määrittelemälläsi tietokantakäyttäjällä ei ole käyttöoikeutta tietokantaan. Oletko jo luonut tietokannan? Tietokanta ilmoittaa: <code>%s</code>';
+$Definition['The following structure changes are required for your database.'] = 'Tietokantasi tarvitsee seuraavat rakenteen muutokset.';
 $Definition['The import file does not contain any data.'] = 'Tuontitiedosto ei sisällä dataa.';
 $Definition['The import file is not in the correct format.'] = 'Tuontitiedosto ei ole oikeassa formaatissa.';
+$Definition['The location of the jsonp formatted authentication data.'] = 'jsonp-muotoiltujen todentamistietojen sijainti.';
 $Definition['ThemeHelp'] = 'Voit muuttaa teemojen avulla sivustosi ulkoasua ja asettelua.<br />Kun uusi teema on lis&auml;ttyn&auml; kansioon %s, voit ottaa sen k&auml;ytt&ouml;&ouml;n t&auml;&auml;ll&auml;.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Autentikointi salasanalla ei vaadi erillisi&auml; asetuksia. ';
+$Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Muutoksia tietokannan rakenteeseen ei tarvita. Silti tiedot saattavat muuttua.';
 $Definition['The route was saved successfully.'] = 'Reitin tallennus onnistui.';
-$Definition['The text of the pocket.'] = 'Enter the text of the pocket. This will be output exactly as you type it so make sure that you enter valid HTML.';
+$Definition['The text of the pocket.'] = 'Syötä taskun teksti. Se tulostetaan juuri sellaisena kuin olet sen kirjoittanut, joten varmistathan, että syötät käypää HTML-koodia.';
+$Definition['The user table was not in the import file.'] = 'Käyttäjätaulukkoa ei löytynyt tuontitiedostosta.';
 $Definition['The Vanilla 2 Exporter'] = 'Vanilla 2 Vientity&ouml;kalu';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanillan statistiikka-lis&auml;osan avulla seuraat forumisi aktiivisuutta helposti suoraan yll&auml;pidon kojelaudalta. Voit tutkia tilastoja eri aikav&auml;leill&auml;. Lis&auml;tietoja <a href="http://vanillaforums.org/docs/vanillastatistics">Vanillan statistiikasta</a> l&ouml;yd&auml;t dokumentaatiostamme.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Tämä on uuden yhteisösi ylläpitäjän kojelauta. Katso hallinta-asetukset sivusta. Sieltä voit määrittää, kuinka yhteisösi toimii. <b>Oletuksena vain käyttäjät, joilla on "Ylläpitäjä"-rooli, voivat nähdä tämän osion yhteisöstäsi.</b>';
-$Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
+$Definition['This option shows/hides the locations where pockets can go.'] = 'Tämä vaihtoehto näyttää/kätkee sijainnit, jossa voi olla taskuja, mutta ainoastaan niiden käyttäjien kohdalla, joilla on oikeudet lisätä/muokata taskuja. Kokeile sijaintien näyttämistä ja käy sitten sivullasi.';
+$Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Käytä seuraavaa koodia upottaaksesi Vanilla-keskustelupalstan omaan verkkosivustoosi.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Liian monta osoitetta! Lähetämme maksimissaan %s osoitetta kerralla. ';
-$Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
+$Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Väärinkäytön estämiseksi jotkin työkalut piilottavat sisällön automaattisesti ja luetteloivat sen tänne siihen asti, kun joku valvojista hyväksyy sen manuaalisesti.';
+$Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect mahdollistaa sen, että käyttäjät voivat kirjautua sisään Twitter-tiliään käyttämällä. <b>Sinun tarvitsee rekisteröidä sovelluksesi Twitteriin, jotta tämä laajennus voi toimia.</b>';
 
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'WordPress-liitännäisellä voit ottaa WordPress-blogissasi käyttöön Vanilla-kommentoinnin. Vaihtoehtoisesti voit käyttää yleispätevää koodia, jolla Vanilla-kommentoinnin voi pystyttää mille tahansa muulle alustalle.';
 
