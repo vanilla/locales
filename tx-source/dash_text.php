@@ -107,6 +107,10 @@ $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Warning: Only enable this feature if you are sure that all of your subdomains are configured for HTTPS with valid certificates.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'When enabled, this rule applies to all of your site\'s subdomains as well.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'We recommend starting with a max age of 1 week and then increasing it to 1 month then 1 year once you see your site works as expected.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Warning: It\'s great to support HSTS preloading as a best practice. However, you must submit your site to hstspreload.org to ensure that it is successfully pre-loaded (i.e. to get the full protection for the intended configuration).';
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
