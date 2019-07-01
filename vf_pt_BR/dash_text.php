@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Atenção!</strong> Deletar uma função pode fazer com que alguns membros não tenham acesso ao site.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Atenção!</strong> Mover discussões para uma sala de discussão substituta pode fazer de discussões desaparecerem (ou aparecerem), caso essa sala substituta possua níveis de autorização diferentes da sala que está sendo apagada .';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Uma função (role) com valor "não-confirmado" é necessária para usar confirmação de email.';
 $Definition['About.DisableStatistics'] = 'Se você precisar desabilitar este relatório de dados por algum motivo, você pode fazê-lo adicionando a seguinte linha ao arquivo de configuração de sua instalação: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'É de vital importância para a perduração deste software livre e de código aberto, que consigamos medir com precisão o alcance e a efetividade do Vanilla. Pedimos que, por favor, não desative os informes destes dados.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla pode ser usado como um substituto para a sessão original de comentários do seu blog. Aliás, pode ser usado para incluir comentários em qualquer site.';
@@ -14,7 +15,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Embora o convite tenha sido criado com sucesso, o e-mail falhou ao ser enviado. O servidor relatou o seguinte erro: %s';
 $Definition['ApplicationHelp'] = 'Aplicações permitem que você adicione amplos grupos de funcionalidade ao seu site.<br />Uma vez que a aplicação for adicionada à pasta %s, você poderá habilitá-la aqui.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Você tem certeza de que digitou o nome do host do banco de dados corretamente? Talvez você tenha se equivocado. O banco de dados reportou: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Uma função (role) com valor "não-confirmado" é necessária para usar confirmação de email.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ao clicar no botão abaixo, você excluirá a conta de %s para sempre.';
 
@@ -80,7 +80,6 @@ $Definition['Learn about custom routing.'] = 'Aprenda sobre roteamento personali
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda como alterar completamente a aparência do seu fórum: enviar seu logo, configurar sua página principal, escolher um tema e customizá-lo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a como usar as funções básicas do seu fórum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Idiomas permitem que você de suporte a outros idiomas em seu site. Ative e desative os idiomas para torná-los disponíveis, aqui.';
-$Definition['Locales are in your %s folder.'] = 'Localizações permitem que você tenha seu fórum em outros idiomas. Uma vez que a localização for adicionada à pasta %s, você poderá habilitar ou desabilitar ela aqui.';
 $Definition['LogoDescription'] = 'O logo aparece no topo do seu site. Alguns temas podem não exibir este logo.';
 
 $Definition['Make sure you click View Page'] = 'Certifique-se de clicar em <a href="%s">Visualizar Página</a> para ver como suas salas ficarão após serem salvas.';
@@ -89,8 +88,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcando coisas como não sendo spam irá fazer com que elas voltem ao fórum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mensagens podem aparecer em qualquer lugar de sua aplicação, e podem ser usadas para informar usuários de novidades e eventos. Use esta página para organizar as mensagens movendo-as para cima ou para baixo.';
 
-$Definition['Notify me when people comment on my addons.'] = 'Notifique-me quando pessoas comentarem em meus complementos.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'O site precisa de uma função (role) com o valor "não-confirmado" para usar confirmação de email. Por favor adicione uma para habilitar esta opção.';
+$Definition['Notify me when people comment on my addons.'] = 'Notifique-me quando pessoas comentarem em meus complementos.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Por favor, escolha um autenticador para configurar.';
 $Definition['PluginHelp'] = 'Complementos permitem que você inclua novas funcionalidades ao seu fórum.<br />Uma vez adicionados à pasta %s, você poderá habilitá-los ou desabilitá-los aqui.';
@@ -108,6 +107,10 @@ $Definition['Route Expression'] = 'Expressão da Rota';
 $Definition['Routes are used to redirect users.'] = 'Rotas são usadas para redirecionar os usuários dependendo da URL solicitada.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Procure usuários por nome ou digite o nome de uma função para ver todos os membros.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Aviso: Apenas habilite essa opção se você tiver certeza que todos os teus domínios estão configurados para HTTPS com certificados válidos.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Quando habilitado, estas regras também se aplicam a todos os teus subdomínios.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Nós recomendamos começar com uma max age de 1 semana e então aumentá-la para 1 mês e então 1 anos depois de você ver que o teu site está funcionando como esperado.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Aviso: É bom oferecer suporte à preloading HSTS como uma boa prática. Ainda assim, você deve enviar o teu site à hstspreload.org para assegurar que ele está realmente precarregado (i.e. para conseguir toda a proteção para a configuração almejada).';
 $Definition['Select the import source'] = 'Selecione a fonte de importação';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Não foi possível desserializar a coluna serializada "%s". ';
 $Definition['Show all possible pocket locations.'] = 'Ative esta opção para exibir todas as localizações de pockets. As localizações somente serão exibidas a membros que podem gerenciar pockets.';
