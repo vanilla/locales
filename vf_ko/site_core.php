@@ -1441,6 +1441,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = '답변이 올바른 포맷이 아닙니다.';
 $Definition['There was an error connecting to Disqus'] = 'Disqus 연결에 오류가 있습니다';
 $Definition['There was an error connecting to Facebook'] = '페이스북 연결에 오류가 있음.';
+$Definition['There was an error displaying this embed.'] = '해당 embed를 표시하는데 에러가 발생했습니다.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = '파일 올리는데 오류가 있습니다. 아마도 파일 크기가 너무 크기 때문일 것입니다.';
 $Definition['These tags are reserved and cannot be used: %s'] = '이 태그는 보류되어 있으며 사용할 수 없습니다: %s';
 $Definition['The site is currently undergoing maintenance.'] = '사이트 정비 중입니다.';
