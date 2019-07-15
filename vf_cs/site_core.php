@@ -1445,6 +1445,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Odezva nebyla ve správném formátu.';
 $Definition['There was an error connecting to Disqus'] = 'Chyba při připojování k Disqus.';
 $Definition['There was an error connecting to Facebook'] = 'Při spojování s Facebookem došlo k chybě.';
+$Definition['There was an error displaying this embed.'] = 'Při zobrazování této integrace se vyskytla chyba.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Při odesílání souboru došlo k chybě. S největší pravděpodobností je soubor příliš veliký.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Tyto značky jsou vyhrazeny a nemohou být použity:%s';
 $Definition['The site is currently undergoing maintenance.'] = 'Stránka je v současnosti pod údržbou.';
