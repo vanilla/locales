@@ -1455,6 +1455,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Het antwoord was niet in het juiste formaat.';
 $Definition['There was an error connecting to Disqus'] = 'Er is een fout opgetreden bij het verbinden met Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Er is een fout opgetreden bij het verbinden met Facebook';
+$Definition['There was an error displaying this embed.'] = 'Er is een fout opgetreden bij het tonen van deze embed.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Er is een fout opgetreden bij het uploaden van het bestand. Dit komt waarschijnlijk omdat het bestand te groot is.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Deze labels zijn gereserveerd en kunnen niet worden gebruikt: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'De site ondervindt momenteel onderhoud.';
