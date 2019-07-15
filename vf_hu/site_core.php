@@ -1445,6 +1445,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Nem megfelelő formátumú válasz.';
 $Definition['There was an error connecting to Disqus'] = 'Probléma merült fel a Disqus-szal történő kommunikáció során';
 $Definition['There was an error connecting to Facebook'] = 'Probléma merült fel a Facbook-kal történő kommunikáció során';
+$Definition['There was an error displaying this embed.'] = 'Hiba történt a beágyazott tartalom megjelenítésekor.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Hiba történt a file feltöltése közben. Valószínűleg túl nagy a file.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Ezek a tagek el vannak foglalva és nem lehet használni őket: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Az oldalon karbantartást végzünk.';
