@@ -1468,6 +1468,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = '回答が正しいフォーマットではありませんでした。';
 $Definition['There was an error connecting to Disqus'] = 'Disqusに接続する際にエラーが発生しました';
 $Definition['There was an error connecting to Facebook'] = 'Facebookに接続する際にエラーが発生しました';
+$Definition['There was an error displaying this embed.'] = 'この埋め込みの表示中にエラーが発生しました。';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'ファイルのアップロード中にエラーが発生しました。最も可能性の高い原因はファイルが大きすぎることです。';
 $Definition['These tags are reserved and cannot be used: %s'] = 'これらのタグは予約されており、使用できません: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'このサイトは現在メンテナンス中です。';
