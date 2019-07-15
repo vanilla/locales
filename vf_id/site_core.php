@@ -1454,6 +1454,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Respon tidak dalam format yang benar.';
 $Definition['There was an error connecting to Disqus'] = 'Terjadi masalah saat terhubung ke Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Terjadi masalah saat terhubung ke Facebook';
+$Definition['There was an error displaying this embed.'] = 'Terjadi kesalahan saat menampilkan sematan ini.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Terjadi masalah saat mengunggah file. Ini biasanya akibat file yang terlalu besar.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Tanda ini telah terpakai dan tidak dapat digunakan: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Situs sedang dalam pemeliharaan.';
