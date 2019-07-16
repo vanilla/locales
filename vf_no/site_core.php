@@ -1462,6 +1462,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Svaret var ikke i korrekt format. ';
 $Definition['There was an error connecting to Disqus'] = 'Det oppstod en feil ved tilkobling til Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Det oppstod en feil ved tilkobling til Facebook';
+$Definition['There was an error displaying this embed.'] = 'Det oppsto en feil ved visningen av denne innebyggingen.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Det oppstod en feil ved opplasting av filen. Det skjedde mest sannsynlig fordi filen er for stor. ';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Disse taggene er reservert og kan ikke brukes: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Siden gjennomgår for tiden vedlikeholdsarbeid. ';

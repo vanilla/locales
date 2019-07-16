@@ -1463,6 +1463,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'उत्तर सही फॉर्मेट में नहीं डाला गया था।';
 $Definition['There was an error connecting to Disqus'] = 'डिस्कस से कनेक्ट करने में एक त्रुटि हुई।';
 $Definition['There was an error connecting to Facebook'] = 'फेसबुक से कनेक्ट करने में एक त्रुटि हुई';
+$Definition['There was an error displaying this embed.'] = 'इस एम्बेड को प्रदर्शित करने में एक एरर हुआ था। ';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'फाइल अपलोड करने में एक त्रुटि हुई। संभावना है कि यह इसलिए हुआ होगा कि फाइल बहुत बड़ी है।';
 $Definition['These tags are reserved and cannot be used: %s'] = 'ये टैग आरक्षित हैं और इनका उपयोग नहीं किया जा सकता है:% s';
 $Definition['The site is currently undergoing maintenance.'] = 'साइट में फिलहाल रखरखाव का कार्य प्रगति पर है।';

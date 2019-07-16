@@ -1445,6 +1445,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Ang tugon ay wala sa tamang format.';
 $Definition['There was an error connecting to Disqus'] = 'Nagkaroon ng error sa pagkonekta sa Disqus';
 $Definition['There was an error connecting to Facebook'] = 'May nangyaring mali sa pagkonekta sa Facebook';
+$Definition['There was an error displaying this embed.'] = 'Nagkaroon ng error sa pagpapakita ng embed na ito.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'May nangyaring error sa pag-upload ng file. Malamang na dahil napalalaki ng file.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Nakareserba ang mga tag na ito at hindi magagamit: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Ang site na ito ay kasalukuyang nasa ilalim ng pagmamantini.';

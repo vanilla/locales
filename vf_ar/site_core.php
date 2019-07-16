@@ -1461,6 +1461,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'الاجابة ليست في شكل صحيح.';
 $Definition['There was an error connecting to Disqus'] = 'حدث خطأ أثناء الاتصال إلى Disqus';
 $Definition['There was an error connecting to Facebook'] = 'هناك خطأ في الاتصال بالفيسبوك';
+$Definition['There was an error displaying this embed.'] = 'لقد حدث خطأ أثناء عرض هذا التضمين.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'هناك خطأ في تحميل الملف. على الارجح لأن الملف كبير جدا.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'هذه العلامات محفوظة ولا يمكن استخدامها: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'الموقع يخضع حاليا للصيانة.';

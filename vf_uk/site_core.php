@@ -1448,6 +1448,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Відповідь не була у правильному форматі.';
 $Definition['There was an error connecting to Disqus'] = 'Помилка з\'єднання з Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Помилка з\'єднання з Facebook';
+$Definition['There was an error displaying this embed.'] = 'Сталася помилка при відтворенні цього вбудовування.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Була помилка завантаження файлу. Це, швидше за все, тому, що файл занадто великий.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Ці теги зарезервовані і не можуть бути використані: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Сайт в даний час проходить технічне обслуговування.';

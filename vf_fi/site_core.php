@@ -1469,6 +1469,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Vastaus annettiin v&auml;&auml;r&auml;ss&auml; muodossa';
 $Definition['There was an error connecting to Disqus'] = 'Disqusiin yhdist&auml;minen ep&auml;onnistui';
 $Definition['There was an error connecting to Facebook'] = 'Facebookiin yhdist&auml;minen ep&auml;onnistui';
+$Definition['There was an error displaying this embed.'] = 'Upotetun kohteen näyttämisessä tapahtui virhe.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Tiedoston siirto ep&auml;onnistui. Todenn&auml;k&ouml;isin syy siihen on tiedoston liian suuri koko.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Seuraavat tunnisteet on varattu, eikä niitä voi käyttää: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Sivusto on t&auml;ll&auml; hetkell&auml; huoltotilassa.';

@@ -1475,6 +1475,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Raspunsul nu a fost in formatul corect';
 $Definition['There was an error connecting to Disqus'] = 'Sa produs o eroare in conectarea cu Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Sa produs o eroare in conectarea cu Faceboo';
+$Definition['There was an error displaying this embed.'] = 'A avut loc o eroare la afișarea acestui încorporat.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Sa produs o eroare in urma uploadari fisierului. Posibil din cauza ca fisierul este mai mare decat dimensiunea maxima admisa.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Aceste etichete sunt rezervate și nu pot fi folosite: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Websitul este momentan sub mentenanta';
