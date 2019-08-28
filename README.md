@@ -14,3 +14,7 @@ To contribute, please create an account on Transifex.com and request access to a
 We [moved our Transifex project](https://open.vanillaforums.com/discussion/28108/vanillas-transifex-moved-rejoin-your-team#latest) in October 2014. This removed all contributors _automatically_. Please rejoin your teams! We apologize for the inconvenience and definitely didn't intend to remove you.
 
 Our contributors have given Vanilla terrific international language support. Thanks for your support!
+
+### Updating locales with transifex translations
+
+Translations in transifex are automatically added to transifex branch. You'll need to create a pull request to merge transfiex branch to master. Make sure transifex branch does not get deleted.
