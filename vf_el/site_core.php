@@ -1048,7 +1048,7 @@ $Definition['Optional'] = 'Προαιρετικό';
 $Definition['Optional Description'] = 'Προαιρετική Περιγραφή';
 $Definition['Options'] = 'Επιλογές';
 $Definition['or'] = 'ή';
-$Definition['Ordered list'] = 'Ταξινομημένη λίστα';
+$Definition['Ordered List'] = 'Ταξινομημένη Λίστα';
 $Definition["Organize"] = "Οργανώστε";
 $Definition['Organize discussion categories'] = 'Οργανώστε τις κατηγορίες συζητήσεων';
 $Definition['Organizer'] = 'Διοργανωτής ';
@@ -1466,6 +1466,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Η απάντηση δεν ήταν στη σωστή μορφή.';
 $Definition['There was an error connecting to Disqus'] = 'Προέκυψε σφάλμα κατά τη σύνδεσή σας στο Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Προέκυψε σφάλμα κατά τη σύνδεσή σας στο Facebook';
+$Definition['There was an error displaying this embed.'] = 'Παρουσιάστηκε κ σφάλμα κατά την εμφάνιση αυτής της ενσωμάτωσης.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Προέκυψε σφάλμα στο ανέβασμα του αρχείου. Το πιθανότερο είναι ότι το αρχείο είναι πολύ μεγάλο.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Οι ετικέτες είναι ήδη κρατημένες και δεν μπορούν να χρησιμοποιηθούν: %s ';
 $Definition['The site is currently undergoing maintenance.'] = 'Ο χώρος βρίσκεται αυτή τη στιγμή υπό συντήρηση.';
