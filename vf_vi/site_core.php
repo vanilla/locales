@@ -1041,7 +1041,7 @@ $Definition['Optional'] = 'Không bắt buộc';
 $Definition['Optional Description'] = 'Thông tin thêm';
 $Definition['Options'] = 'Thiết lập';
 $Definition['or'] = 'hoặc';
-$Definition['Ordered list'] = 'Danh sách đã sắp xếp';
+$Definition['Ordered List'] = 'Danh sách theo thứ tự';
 $Definition["Organize"] = "Tổ chức";
 $Definition['Organize discussion categories'] = 'Sắp xếp danh mục bài viết';
 $Definition['Organizer'] = 'Người tổ chức';
@@ -1443,6 +1443,7 @@ $Definition['There is already an account with the same username (%1$s) or email 
 $Definition['The response was not in the correct format.'] = 'Phản hồi không hợp lệ.';
 $Definition['There was an error connecting to Disqus'] = 'Xảy ra lỗi trong quá trình kết nối với Disqus';
 $Definition['There was an error connecting to Facebook'] = 'Xảy ra lỗi trong quá trình kết nối với Facebook';
+$Definition['There was an error displaying this embed.'] = 'Xảy ra lỗi khi hiển thị tập tin nhúng này.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Xảy ra lỗi trong quá trình tải lên tập tin. Có thể vì kích cỡ tập tin quá lớn.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Các thẻ này đã được lưu trữ và không thể được sử dụng: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Trang web đang được bảo trì.';
