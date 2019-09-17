@@ -1,8 +1,9 @@
 <?php
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Akta!</strong> Om du raderar en roll kanske användaren inte kan använda applikationen.';
+$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Se upp!</strong> Om du raderar en roll kanske användaren inte kan använda applikationen.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Se upp!</strong> Om du flyttar diskussioner till en ersättande kategori kan det hända att diskussionen försvinner (eller dyker upp) om den nya kategorin har andra behörigheter än kategorin du raderar.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'En roll med standard typ "Obekräftat" är tvungen att bekräfta sin e-post.';
 $Definition['About.DisableStatistics'] = 'Om du är i behov av att avaktivera datarapportering, kan du göra detta genom att lägga till följande rad i konfigurationsfilen:
 <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Det är väldigt viktigt för fortlevnaden av denna gratis opensource-mjukvaran att vi säkert kan mäta Vanillas räckvidd och effektivitet. Vi ber dig därför att inte avaktivera rapporteringen av denna data. ';
@@ -15,7 +16,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Fastän inbjudan skapades misslyckades skickandet av meddelandet. Servern rapporterade följande: %s';
 $Definition['ApplicationHelp'] = 'Applikationer låter dig lägga till stora grupper av funktionalitet till din sida.<br />När en applikation har lagts till i din %s-mapp kan du aktivera och inaktivera den här.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Är du säker på att du skrivit in rätt värdnamn till databasen? Kanske råkade du skriva fel? Databasen svarade: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'En roll med standard typ "Obekräftat" är tvungen att bekräfta sin e-post.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Genom att klicka på knappen nedan raderar du användarkontot för %s för alltid.';
 
@@ -81,7 +81,6 @@ $Definition['Learn about custom routing.'] = 'Lär dig om anpassad dirigering.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lär dig att helt ändra ditt forums utseende och känsla: ladda upp din logo, välj din startsida, välj ett tema och anpassa det.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lär dig att använda de grundläggande funktionerna i ditt forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales låter dig stödja andra språk på din sida. Aktivera eller inaktivera locales som du vill göra tillgängliga här.';
-$Definition['Locales are in your %s folder.'] = 'Språkvarianter låter dig stödja andra språk på din site. Så fort en språkvariant har lagts till i din %s mapp, kan du aktivera eller inaktivera den här.';
 $Definition['LogoDescription'] = 'Logon dyker upp överst på din hemsida. En del teman kanske inte visar den här logon.';
 
 $Definition['Make sure you click View Page'] = 'Se till att klicka på <a href="%s">Visa sida</a> för att se hur din kategorisida ser ut efter att du har sparat.';
@@ -90,8 +89,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'O
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Om du markerar saker som ej spam så visas de igen i ditt forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Meddelanden kan dyka upp överallt i forumet, och kan användas för att informera användarna om nyheter och händelser. Använd denna sida för att organisera meddelanden genom att dra och släppa.';
 
-$Definition['Notify me when people comment on my addons.'] = 'Meddela mig när någon kommenterar mina tillägg.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Den här sidan kräver rollen "obekräftad" för att kunna bekräfta sin e-post. Vänligen lägg till en för att använda denna funktion.';
+$Definition['Notify me when people comment on my addons.'] = 'Meddela mig när någon kommenterar mina tillägg.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Vänligen välj en autentisering att konfigurera.';
 $Definition['PluginHelp'] = 'Pluginer låter dig lägga till funktionalitet till din site. <br />Så fort en plugin har lagts till din %s mapp, kan du aktivera eller inaktivera den här.';
@@ -109,6 +108,10 @@ $Definition['Route Expression'] = 'URL-alias, reguljärt uttryck';
 $Definition['Routes are used to redirect users.'] = 'Rutter används för att omdirigera användare beroende på den begärda webbadressen .';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Sök efter användare via namn eller skriv in namnet på en roll för att se alla användare som har den rollen.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Varning! Aktivera bara denna funktion om du är säker på att alla dina subdomäner är konfigurerade för HTTPS med giltiga certifikat.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'När denna regel är aktiverad så gäller den även din sajts alla subdomäner.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Vi rekommenderar att du startar med en ålder på max en vecka, och sen ökar upp till en månad, och sen ett år, när du sett att din sajt fungerar som väntat.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Varning! HSTS så att krypterad trafik alltid körs via https är bra att använda rutinmässigt för alla webbplatser. Men innan du aktiverar HSTS så så måste din sajt först verifieras hos hstspreload.org så att den är korrekt konfigurerad för fullt skydd.';
 $Definition['Select the import source'] = 'Välj importkällan';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serie kolumnen "%s" misslyckades att oserialisera.';
 $Definition['Show all possible pocket locations.'] = 'Aktivera det här valet för att visa alla tänkbara placeringar av fickor. Aktivering av valet kommer endast visa platserna för användare som kan hantera fickor.';
