@@ -14,3 +14,9 @@ To contribute, please create an account on Transifex.com and request access to a
 We [moved our Transifex project](https://open.vanillaforums.com/discussion/28108/vanillas-transifex-moved-rejoin-your-team#latest) in October 2014. This removed all contributors _automatically_. Please rejoin your teams! We apologize for the inconvenience and definitely didn't intend to remove you.
 
 Our contributors have given Vanilla terrific international language support. Thanks for your support!
+
+### Updating locales with transifex translations
+
+Translations made in Transifex are automatically added to the **transifex** branch. You'll need to create a pull request to merge the transifex branch to master. Make sure the transifex branch does not get deleted so that it can continue to be used by Transifex.
+
+If you make changes to source strings you should make a PR against the transifex branch rather than master so that they will be automatically synchronized with Transifex. If you accidentally add new source strings to master, just merge master back into the transifex branch.
