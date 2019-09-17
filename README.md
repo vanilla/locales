@@ -17,4 +17,6 @@ Our contributors have given Vanilla terrific international language support. Tha
 
 ### Updating locales with transifex translations
 
-Translations in transifex are automatically added to transifex branch. You'll need to create a pull request to merge transfiex branch to master. Make sure transifex branch does not get deleted.
+Translations made in Transifex are automatically added to the **transifex** branch. You'll need to create a pull request to merge the transifex branch to master. Make sure the transifex branch does not get deleted so that it can continue to be used by Transifex.
+
+If you make changes to source strings you should make a PR against the transifex branch rather than master so that they will be automatically synchronized with Transifex. If you accidentally add new source strings to master, just merge master back into the transifex branch.
