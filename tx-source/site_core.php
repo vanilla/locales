@@ -1277,6 +1277,7 @@ $Definition['Roles'] = 'Roles';
 $Definition['roles'] = 'roles';
 $Definition['RSS Feed'] = 'RSS Feed';
 $Definition['RSVP'] = 'Respond';
+
 $Definition['Save'] = 'Save';
 $Definition['Save Comment'] = 'Save Comment';
 $Definition['Saved'] = 'Your changes have been saved.';
@@ -1319,6 +1320,7 @@ $Definition['Seventh Anniversary'] = 'Seventh Anniversary';
 $Definition['Severity'] = 'Severity';
 $Definition['Share'] = 'Share';
 $Definition['Shared Accounts'] = 'Shared Accounts';
+$Definition['Share on Facebook'] = 'Share on Facebook';
 $Definition['she'] = 'she';
 $Definition['show'] = 'show';
 $Definition['Shown only on mobile'] = 'Shown only on mobile';
