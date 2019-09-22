@@ -137,6 +137,7 @@ $Definition['About %s users'] = 'حول مُستخدمي %s';
 $Definition['AboutToDelete'] = 'أنت على وشك حذف %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'أنت بصدد حذف %1$s من المناقشات المحددة الـ %2$s';
 $Definition['Abuse'] = 'تجاوز';
+$Definition['Abusive Behavior'] = 'سلوك مُسيء';
 $Definition['Accept'] = 'موافقة';
 $Definition['Accepted'] = 'تم القبول';
 $Definition['Accept this answer.'] = 'موافقة على هذه الإجابة';
@@ -213,6 +214,7 @@ $Definition['All Time Leaders'] = 'قيادات دائمة';
 $Definition['Already Offered'] = 'مُقدم بالفعل';
 $Definition['Already Warned'] = 'تم تحذيره مسبقا';
 $Definition['Also banned for the following:'] = 'و تم الحظر للأسباب التالية:';
+$Definition["Also delete this user's content."] = "احذف أيضاً المحتوى الخاص بهذا المستخدم.";
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'لقد تم إرسال رسالة بريدية على عنوانك البريدي يتضمن تعليمات تصفير كلمة الدخول.';
 $Definition['Analytics'] = 'تحليلات';
 $Definition['Ancient Membership'] = 'العضوية القديمة';
@@ -274,6 +276,7 @@ $Definition['Badge404'] = 'شارة غير موجودة';
 $Definition['Badges'] = 'شارات';
 $Definition['BadgesModuleTitle'] = 'شارات';
 $Definition['BadgesNobody'] = 'لم يحصل أحد على هذه الشارة حتى الآن.';
+$Definition['Bad login, double-check your credentials and try again.'] = 'تسجيل دخول خاطئ. يرجى التأكد من بيانات إثبات الهوية والمحاولة مرة أخرى.';
 $Definition['Ban'] = 'حظر';
 $Definition['Ban.Action'] = 'حظر';
 $Definition['Banned'] = 'محظور';
@@ -471,6 +474,7 @@ $Definition['discussions'] = 'مناقشات';
 $Definition['Discussions Page'] = 'صفحة المشاركات';
 $Definition['Discussion List'] = 'قائمة المناقشة';
 $Definition['Discussion Title'] = 'عنوان السؤال';
+$Definition['Discussion Type'] = 'مناقشة';
 $Definition['Dislike'] = 'الغاء الاعجاب';
 $Definition['Dismiss'] = 'رفض';
 $Definition['Documentation'] = 'توثيق';
@@ -576,6 +580,8 @@ $Definition['Enter your email to continue.'] = 'أدخل بريدك الإلكت
 $Definition['Enter your Email address or username'] = 'أدخل البريد الالكتروني أو إسم المستخدم';
 $Definition['Enter your email address or username to continue.'] = 'أدخل عنوان بريدك الإلكتروني أو اسم المستخدم الخاص بك للمتابعة.';
 $Definition['Enter Your OpenID Url'] = 'ادخل رابط الاوبن اي دي OpenID';
+$Definition['Enter Your Password'] = 'أدخل كلمة المرور الخاصة بك';
+$Definition['Enter your password to continue.'] = 'أنت تحاول إجراء عملية ذات حساسية محتملة. يرجى إدخال كلمة المرور للمتابعة.';
 $Definition['Enter your search term.'] = 'أدخل لفظ البحث';
 $Definition['Erase User Content'] = 'محو محتوى العضو';
 $Definition['Enter your username to continue.'] = 'أدخل اسم المستخدم الخاص بك للمتابعة.';
@@ -762,6 +768,7 @@ $Definition['In recent discussions.'] = 'في المناقشات الحديثة'
 $Definition['In Review'] = 'في استعراض';
 $Definition['In seconds'] = 'في ثواني';
 $Definition['Insert'] = 'إدراج';
+$Definition['Insert an image'] = 'إدراج صورة';
 $Definition['Inserted'] = 'تم الإدخال';
 $Definition['Insert Image'] = 'إضافة صورة';
 $Definition['Insert an embedded web page, or video into your message'] = 'أدرج صفحة ويب مضمنة، أو فيديو في رسالتك';
@@ -992,6 +999,7 @@ $Definition['No Roles'] = 'لا رتب';
 $Definition['Not Attending (%s)'] = 'لن يحضر (%s)';
 $Definition['Not Authorized (401)'] = 'غير مصرح (401)';
 $Definition['Notes'] = 'ملاحظات';
+$Definition['Notes description'] = 'يمكنك إضافة ملاحظات إلى أحد المستخدمين بحيث تكون مرئية للمشرفين فقط.';
 $Definition['Not Found (404)'] = 'لم يتم العثور على طلبك (404)';
 $Definition['Notice'] = 'إشعار';
 $Definition['No Title'] = 'بدون عنوان';
@@ -1129,6 +1137,8 @@ $Definition['Powered by Vanilla'] = 'مدعومة بواسطة فانيللا';
 $Definition["PPT"] = "ملف استعراض بصيغة PPT";
 $Definition['PreferenceBadgeEmail'] = 'أخطرني عند حصولي على شارة.';
 $Definition['PreferenceBadgePopup'] = 'أخطرني عند حصولي على شارة.';
+$Definition['PreferencesRankEmail'] = 'إشعاري حين تغير تصنيفي.';
+$Definition['PreferencesRankPopup'] = 'إشعاري حين تغير تصنيفي.';
 $Definition['Preferences'] = 'تفضيلات';
 $Definition['Preview'] = 'معاينة';
 $Definition['Previous'] = 'السابق';
@@ -1164,6 +1174,7 @@ $Definition['question'] = 'سؤال';
 $Definition['Questions'] = 'أسئلة';
 $Definition['questions'] = 'الأسئلة';
 $Definition['Question Title'] = 'عنوان السؤال ';
+$Definition['Question Type'] = 'سؤال';
 $Definition['Quick Links'] = 'روابط سريعة
 ';
 $Definition['Quote'] = 'إقتباس';
@@ -1241,6 +1252,7 @@ $Definition['Reset Password'] = 'إعادة ضبط كلمة المرور';
 $Definition['Reset Your Password'] = 'إعادة ضبط كلمة المرور الخاصة بك';
 $Definition['Restore'] = 'Restore';
 $Definition['Restored'] = 'استُعيدَ';
+$Definition['Restore deleted content.'] = 'استعادة المحتوى المحذوف.';
 $Definition['Return to %s'] = 'الرجوع إلى %s';
 $Definition['reverse'] = 'إلغاء';
 $Definition["Revision"] = "مراجعة";
@@ -1269,6 +1281,7 @@ $Definition['Roles'] = 'الرتب';
 $Definition['roles'] = 'الأدوار';
 $Definition['RSS Feed'] = '‎تزويد بمقتطفات الأخبار أر أس أس';
 $Definition['RSVP'] = 'أجبني لو سمحت';
+
 $Definition['Save'] = 'حفظ';
 $Definition['Save Comment'] = 'حفظ التعليق';
 $Definition['Saved'] = 'تم حفظ التغييرات.';
@@ -1311,6 +1324,7 @@ $Definition['Seventh Anniversary'] = 'الذكرى السنوية السابعة
 $Definition['Severity'] = 'قساوة';
 $Definition['Share'] = 'شارك';
 $Definition['Shared Accounts'] = 'الحسابات المشتركة';
+$Definition['Share on Facebook'] = 'المشاركة عبر الفيسبوك';
 $Definition['she'] = 'هي';
 $Definition['show'] = 'إظهار';
 $Definition['Shown only on mobile'] = 'يظهر ذلك فقط على الجوال';
@@ -1359,6 +1373,7 @@ $Definition['Source'] = 'Source';
 $Definition['Source:'] = 'المصدر :';
 $Definition['Source Code'] = 'رمز';
 $Definition['Spam'] = 'بريد غير مرغوب فيه';
+$Definition['Spamming'] = 'إرسال رسائل بريد إلكتروني مزعجة';
 $Definition['Spam Queue'] = 'قائمة الرسائل غير المرغوب بها';
 $Definition['Split'] = 'تقسيم';
 $Definition['Split Comments'] = 'تقسيم التعليقات';
@@ -1463,6 +1478,7 @@ $Definition['There was an error connecting to Disqus'] = 'حدث خطأ أثنا
 $Definition['There was an error connecting to Facebook'] = 'هناك خطأ في الاتصال بالفيسبوك';
 $Definition['There was an error displaying this embed.'] = 'لقد حدث خطأ أثناء عرض هذا التضمين.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'هناك خطأ في تحميل الملف. على الارجح لأن الملف كبير جدا.';
+$Definition['These notes can only be seen by moderators.'] = 'لا يمكن رؤية هذه الملاحظات إلا بواسطة المشرفين.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'هذه العلامات محفوظة ولا يمكن استخدامها: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'الموقع يخضع حاليا للصيانة.';
 $Definition['The status for "%s" has changed to %s.'] = 'الحالات الخاصة ب  "%s" قد تغيرت إلى %s.';
@@ -1510,6 +1526,7 @@ $Definition['To send another confirmation email click <a href="%s">here</a>.'] =
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'لإستخدام reCAPTCHA يجب الحصول على مفتاح API من %s.';
 $Definition['Transport error: %s'] = 'لقد وقع خطأ فادح أثناء معالجة الطلب. <br /> أخرج الخادم هذا الرد: %s';
 $Definition['Troll'] = 'خارج الموضوع';
+$Definition['Troll.Content'] = '<b> مُتَصَيِّدُ </b> <ul> <li> تم وضع علامة على هذا المستخدم كمُتَصَيِّدُ. </li> <li> المحتوى الخاص بهم مرئي فقط للمشرفين وللمُتَصَيِّد </li> <li> لا تظهر هذه الرسالة للمُتَصَيِّدُ.</li></ul>';
 $Definition['Try Again'] = 'Try Again';
 $Definition['Turn ON'] = 'تشغيل';
 $Definition['Twitter'] = 'تويتر';
@@ -1699,6 +1716,7 @@ $Definition['You\'ve been Jailed.'] = 'لقد تم حظرك.';
 $Definition['You\'ve been warned.'] = 'لقد تم تحذيرك.';
 $Definition['You already have an account here.'] = 'لديك حساب هنا مسبقاً.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'أنت على وشك حظر {User.UserID,user}.';
+$Definition["You are about to delete all of a user's content."] = "أنت على وشك حذف جميع المحتوى الخاص بـ{User.UserID,user}.";
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'أن بصدد نقل %1$s من الـ %2$s الخاص بالمناقشات المحددة.';
 $Definition['You are about to move %s.'] = 'أنت بصدد نقل %s.';
 $Definition['You are about to unban {User.UserID,user}.'] = 'انت بصدد رفع الحظر عن {User.UserID,user}.';
@@ -1717,6 +1735,7 @@ $Definition['You aren\'t allowed to %s this group.'] = 'غير مسموح لك �
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'تغادر الآن %1$s. انقر الرابط للانتقال إلى %2$s.';
 $Definition['You are now signed in.'] = 'You are now signed in.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'مسموح لك فقط ب {maxImages,plural,%s صور,%s صور}. ';
+$Definition['you can also drag-and-drop'] = 'يمكنك أيضاً السحب والإفلات';
 $Definition['You can\'t leave the group you started.'] = 'لا يمكنك ترك المجموعة التي بدأتها';
 $Definition['You can either ask a question or start a discussion.'] = 'يمكنك إما، طرح سؤال أو بدء مناقشة. حدد بأسفل ما الذي تريد أن تفعله.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'تستطيع تتبع اقسام فردية و سيتم إشعارك بكل المشاركات الجديدة المضافة فيها.';
