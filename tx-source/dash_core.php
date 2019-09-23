@@ -601,6 +601,7 @@ $Definition['This Database'] = 'This Database';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
+$Definition['This link has been blocked for containing illegal characters.'] = 'This link has been blocked for containing illegal characters.';
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
 $Definition['This pocket is an ad.'] = 'This pocket is an ad.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
