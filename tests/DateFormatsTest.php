@@ -32,7 +32,7 @@ class DateFormatsTest extends AbstractLocalesTest {
             // Just checking for an error.
             $f = strftime($format, self::$testTime);
             $this->assertIsString($f);
-            $this->assertFalse(strpos($f, '%'));
+            $this->assertFalse(strpos($f, '%'), "$f contains a percent sign for format: $format.");
         } else {
             $basename = basename($dir);
             $this->markTestSkipped("The $basename locale doesn't have $format.");
