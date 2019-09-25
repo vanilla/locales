@@ -15,3 +15,4 @@ tx/*
 .idea
 .phpintel
 .DS_Store
+vendor
