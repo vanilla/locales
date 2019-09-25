@@ -1,5 +1,13 @@
 {
 	"name": "vanilla/locales",
 	"description": "Official locales for Vanilla Forums auto-generated from Transifex.",
-	"type": "vanilla-locales"	
+	"type": "vanilla-locales",
+    "autoload-dev": {
+        "psr-4": {
+            "Garden\\Locales\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
 }
