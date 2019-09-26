@@ -305,7 +305,7 @@ $Definition['Dashboard Summaries'] = '<b>Панель управленія</b>. 
 $Definition['Date'] = 'Дата';
 $Definition['Date.DefaultDateTimeFormat'] = '%e %B %Y г., %H:%M';
 $Definition['Date.DefaultDayFormat'] = '%A %e <font style="text-transform:lowercase;">%b</font> въ %H:%M';
-$Definition['Date.DefaultFormat'] = '%h %i, %Y, %H:%M';
+$Definition['Date.DefaultFormat'] = '%B %e, %Y';
 $Definition['Date.DefaultTimeFormat'] = '%H:%M';
 $Definition['Date.DefaultYearFormat'] = '%e <font style="text-transform:lowercase;">%b</font> %Y';
 $Definition['Date Added'] = 'Дата добавленія';
