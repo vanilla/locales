@@ -232,6 +232,7 @@ $Definition['Discussions per Page'] = 'Discussions par Page';
 $Definition['Discussion  Subject'] = 'Discussion|Sujet';
 $Definition['Display in dashboard. (not recommended)'] = 'Afficher dans le tableau de bord. (non recommandé)';
 $Definition['Display root categories as headings.'] = 'Afficher les catégories de base en tant que titres.';
+$Definition['Domain is invalid.'] = 'Le domaine n\'est pas valide.';
 $Definition['Don\'t display for embedded comments.'] = 'Ne pas afficher pour les commentaires intégrés.';
 $Definition['Don\'t Refresh'] = 'Ne pas actualiser';
 $Definition['Don\'t use Categories'] = 'Ne pas utiliser les Catégories';
@@ -637,7 +638,7 @@ $Definition['UserWipe'] = 'Contenu utilisateur vide';
 $Definition['UserWipeMessage'] = 'Supprimez l\'utilisateur et remplacez tout son contenu utilisateur par un message qui indique que l\'utilisateur a été supprimé. Cela donne une indication visuelle sur le fait qu\'il manquera de l\'information.';
 $Definition['Use the content at this url as your homepage.'] = 'Votre "page d\'accueil" est ce que les gens voient quand ils visitent <strong style="white-space: nowrap;">%s</strong>. Nous utilisons "Toutes les conversations" comme page d\'accueil par défaut, mais vous pouvez la changer comme bon vous semble. Voici quelques options souvent utilisées:';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Utiliser Vanilla comme système de commentaires sur votre site';
-
+$Definition['Url Invalid.'] = 'L\'URL n\'est pas valide.';
 $Definition['Vanilla.Archive.Description'] = 'Vous pouvez choisir d\'archiver les discussions du forum antérieures à une certaine date. Les discussions archivées sont clôturées de manière effective et n\'acceptent pas de nouvelles publications.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Placez les catégories imbriquées dans une liste délimitée par des virgules quand elles ont %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla est installé!';
