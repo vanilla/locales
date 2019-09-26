@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = '??? ???????? ?? ?????? ???????';
 $Definition['Discussion  Subject'] = 'عنوان الموضوع';
 $Definition['Display in dashboard. (not recommended)'] = 'Display in dashboard. (not recommended)';
 $Definition['Display root categories as headings.'] = 'Display root categories as headings.';
+$Definition['Domain is invalid.'] = 'اسم النطاق غير صحيح. ';
 $Definition['Don\'t display for embedded comments.'] = 'Don\'t display for embedded comments.';
 $Definition['Don\'t Refresh'] = 'Don\'t Refresh';
 $Definition['Don\'t use Categories'] = '?? ?????? ?????????';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'UserWipe';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 $Definition['Use the content at this url as your homepage.'] = 'Use the content at this url as your homepage.';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Use Vanilla as a commenting system in your site';
-
+$Definition['Url Invalid.'] = 'رابط غير صحيح. ';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla is installed!';
