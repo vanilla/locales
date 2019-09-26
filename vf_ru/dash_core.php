@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Дискуссий на странице'
 $Definition['Discussion  Subject'] = 'Предмет дискуссии';
 $Definition['Display in dashboard. (not recommended)'] = 'Показывать в консоли (не рекомендуется).';
 $Definition['Display root categories as headings.'] = 'Показывать главные разделы как заголовки.';
+$Definition['Domain is invalid.'] = 'Недействительным домен. ';
 $Definition['Don\'t display for embedded comments.'] = 'Не отображать встраиваемые комментарии.';
 $Definition['Don\'t Refresh'] = 'Не обновлять';
 $Definition['Don\'t use Categories'] = 'Не использовать разделы';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'Пустой контент пользователя'
 $Definition['UserWipeMessage'] = 'Удалить пользователя и заменить все его реплики сообщением о том, что пользователь был удален. Это дает понять, что есть недостающая информация.';
 $Definition['Use the content at this url as your homepage.'] = 'Главная страница, которую посетители будут видеть, заходя по адресу <b>%s</b>. По умолчанию показываются "Все темы", но вы можете использовать всё, что захотите. Вот несколько популярных вариантов: ';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Используйте Vanilla как систему комментариев на вашем сайте';
-
+$Definition['Url Invalid.'] = 'URL недействительный. ';
 $Definition['Vanilla.Archive.Description'] = 'Вы можете настроить архивацию дискуссий на форуме старше определенной даты. Архивированные дискуссии практически закрываются, что не позволяет добавить в них новые комментарии.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Сколько уровней вложенности отображать в разделах: %1$s';
 $Definition['Vanilla is installed!'] = 'Форум Vanilla установлен!';
