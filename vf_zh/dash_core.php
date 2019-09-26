@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = '每页显示帖子数量';
 $Definition['Discussion  Subject'] = '话题主题';
 $Definition['Display in dashboard. (not recommended)'] = '在控制面板中显示。（不推荐）';
 $Definition['Display root categories as headings.'] = '将根版块作为标题显示。';
+$Definition['Domain is invalid.'] = '域名无效。';
 $Definition['Don\'t display for embedded comments.'] = '不显示嵌入的回复';
 $Definition['Don\'t Refresh'] = '不可刷新';
 $Definition['Don\'t use Categories'] = '禁用版块';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = '屏蔽用户内容';
 $Definition['UserWipeMessage'] = '删除用户并将用户发布的内容替换为“该用户已被删除”的消息。这样能比较明显地提示有信息缺失。';
 $Definition['Use the content at this url as your homepage.'] = '默认首页。当用户访问 <strong>%s</strong> 时，默认显示的页面。';
 $Definition['Use Vanilla as a commenting system in your site'] = '使用 Vanilla 作为你站点的评论系统';
-
+$Definition['Url Invalid.'] = '网址无效。';
 $Definition['Vanilla.Archive.Description'] = '您可以选择存档早于特定日期的论坛讨论。存档讨论是有效的关闭，不允许新的回帖。';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = '分级版块使用半角逗号分隔，当他们 %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla 已安装！';
