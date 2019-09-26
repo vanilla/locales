@@ -24,17 +24,17 @@ class DateFormatsTest extends AbstractLocalesTest {
         self::$testTime = strtotime('2019-09-25 12:25 PM EDT');
     }
 
-    protected function assertDateFormatNotSmokey(string $dir, string $format) {
+    protected function assertDateFormatNotSmokey(string $dir, string $key) {
         $defs = $this->loadTranslations($dir);
-        $format = $defs[$format] ?? null;
+        $format = $defs[$key] ?? null;
+        $basename = basename($dir);
 
         if ($format !== null) {
             // Just checking for an error.
             $f = strftime($format, self::$testTime);
             $this->assertIsString($f);
-            $this->assertFalse(strpos($f, '%'), "$f contains a percent sign for format: $format.");
+            $this->assertFalse(strpos($f, '%'), "$f contains a percent sign for $key: $format.");
         } else {
-            $basename = basename($dir);
             $this->markTestSkipped("The $basename locale doesn't have $format.");
         }
     }
