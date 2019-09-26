@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Diskussioner per sida';
 $Definition['Discussion  Subject'] = 'Diskussion  Ämne';
 $Definition['Display in dashboard. (not recommended)'] = 'Visa på kontrollpanelen (rekommenderas ej).';
 $Definition['Display root categories as headings.'] = 'Visa huvudkategorier som rubriker.';
+$Definition['Domain is invalid.'] = 'Domänen är ogiltig.';
 $Definition['Don\'t display for embedded comments.'] = 'Visa inte inbäddade kommentarer.';
 $Definition['Don\'t Refresh'] = 'Uppdatera ej';
 $Definition['Don\'t use Categories'] = 'Använd inte kategorier';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'Tomt användarinnehåll';
 $Definition['UserWipeMessage'] = 'Radera användaren och ersätt allt användarinnehåll med ett meddelande som säger att användaren har blivit borttagen. Detta ger en synlig signal att det saknas information.';
 $Definition['Use the content at this url as your homepage.'] = 'Välj sidan som människor ska se när de besöker: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Använd Vanilla som kommentarssystem på din sajt';
-
+$Definition['Url Invalid.'] = 'Ogiltig URL.';
 $Definition['Vanilla.Archive.Description'] = 'Du kan välja att arkivera forum-diskussioner som är äldre än ett visst datum. Arkiverade diskussioner stängs av helt och hållet och tillåter inga nya meddelanden.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Placera kapslade kategorier i en lista åtskild av komman när de är %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla är installerat!';
