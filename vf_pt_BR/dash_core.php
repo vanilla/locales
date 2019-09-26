@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Discussões por página';
 $Definition['Discussion  Subject'] = 'Título da discussão';
 $Definition['Display in dashboard. (not recommended)'] = 'Exibir no Painel. (não recomendado)';
 $Definition['Display root categories as headings.'] = 'Mostrar salas de primeiro nível como cabeçalhos.';
+$Definition['Domain is invalid.'] = 'O domínio é inválido.';
 $Definition['Don\'t display for embedded comments.'] = 'Não mostrar para comentários incorporados.';
 $Definition['Don\'t Refresh'] = 'Não atualize';
 $Definition['Don\'t use Categories'] = 'Não usar salas de discussão';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'Conteúdo de usuário vazio';
 $Definition['UserWipeMessage'] = 'UserWipeMessage';
 $Definition['Use the content at this url as your homepage.'] = 'Escolha a página que os membros irão ver quando visitarem: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Use o Vanilla como sistema de comentários em seu site.';
-
+$Definition['Url Invalid.'] = 'URL inválido.';
 $Definition['Vanilla.Archive.Description'] = 'Você pode escolher arquivar mensagens mais antigas que uma determinada data. Discussões arquivadas são efetivamente fechadas, não permitindo novas mensagens.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Coloque as salas de discussão numa lista separada por vírgulas quando elas forem %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla está instalado!';
