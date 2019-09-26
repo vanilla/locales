@@ -2,19 +2,19 @@
 
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" nu a fost găsit';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
-$Definition['%1$s Version %2$s'] = '%1$s versiunea %2$s';
+$Definition['%1$s Version %2$s'] = '%1$s Versiunea %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s versiunea %2$s este disponibilă';
 $Definition['%s is not a valid email address'] = '%s nu este o adresă de E-mail validă';
 $Definition['%s item in queue'] = '%s element din șir';
 $Definition['%s level'] = 'nivelul %s';
 $Definition['%s levels'] = 'nivelele %s';
-$Definition['%s site(s) found.'] = '%s site-uri găsite';
-$Definition['%s sources(s) found.'] = '%s surse găsite';
+$Definition['%s site(s) found.'] = '%s site(uri) găsite.';
+$Definition['%s sources(s) found.'] = '%s sursă(e) găsite.';
 $Definition['%s times'] = '%s ori';
 $Definition['%s unavailable'] = '%s indisponibil';
-$Definition['%s user(s) found.'] = '%s utilizator(i) găsit';
-$Definition['%s user(s) will be affected by this action.'] = ' %s utilizator(i) vor fi afectați de această acţiune';
-$Definition['%s years.'] = '%s ani';
+$Definition['%s user(s) found.'] = '%s utilizator(i) găsiţi.';
+$Definition['%s user(s) will be affected by this action.'] = ' %s utilizator(i) vor fi afectați de această acţiune.';
+$Definition['%s years.'] = '%s ani.';
 
 $Definition['(less)'] = '(mai puţin)';
 $Definition['(more)'] = '(mai mult)';
@@ -36,10 +36,10 @@ $Definition['[%s] Invitation'] = '[%s] Invitație';
 $Definition['[%s] Password Reset'] = '[%s] Resetarea parolei';
 $Definition['[%s] Password Reset Request'] = '[%s] Cerere pentru resetarea parolei';
 
-$Definition['a Badge'] = 'o insignă';
+$Definition['a Badge'] = 'o Insignă';
 $Definition['Abilites'] = 'Abilități';
 $Definition['Abilities'] = 'Abilități';
-$Definition['Above Main Content'] = 'Conținutul principal de mai sus';
+$Definition['Above Main Content'] = 'Deasupra Conţinutului Principal';
 $Definition['Account Sync Failed'] = 'Sincronizarea contului eșuată';
 $Definition['Action'] = 'Acţiune';
 $Definition['Actions Based on Votes'] = 'Acţiuni bazate pe voturi';
@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Discuţii pe pagină';
 $Definition['Discussion  Subject'] = 'Subiectul discuției';
 $Definition['Display in dashboard. (not recommended)'] = 'Afişare în tabloul de bord (nerecomandat)';
 $Definition['Display root categories as headings.'] = 'Afişați categoriile de bază ca titluri';
+$Definition['Domain is invalid.'] = 'Domeniul este nevalid.';
 $Definition['Don\'t display for embedded comments.'] = 'Nu afișați pentru comentariile încorporate';
 $Definition['Don\'t Refresh'] = 'Nu reîmprospătați';
 $Definition['Don\'t use Categories'] = 'Nu utilizați categorii';
@@ -638,7 +639,7 @@ $Definition['UserWipe'] = 'Conţinutul de utilizator gol';
 $Definition['UserWipeMessage'] = 'Ștergeți utilizator şi înlocuiți conţinutul utilizatorului cu un mesaj în care se specifică faptul că utilizatorul a fost șters. Acest lucru oferă o indicaţie vizuală că nu există informaţii care lipsesc';
 $Definition['Use the content at this url as your homepage.'] = 'Alegeți pagina pe care vizitatorii ar trebui să o vadă când se loghează: <strong style="white-space: nowrap;"> %s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Utilizaţi Vanilla ca un sistem de comentarii pentru site-ul dumneavoastră';
-
+$Definition['Url Invalid.'] = 'URL-ul este nevalid.';
 $Definition['Vanilla.Archive.Description'] = 'Puteţi alege să arhivați discuțiile mai vechi de o anumită dată de pe forum. Discuţiile arhivate sunt închise în mod eficient, astfel încât să nu permită mesaje noi';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Afișați categoriile grupate într-o listă delimitată prin virgulă atunci când sunt %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla este instalat!';
