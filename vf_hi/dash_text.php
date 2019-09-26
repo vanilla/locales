@@ -81,7 +81,6 @@ $Definition['Learn about custom routing.'] = 'कस्टम रूटिंग
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'अपने फ़ोरम के स्वरूप और अनुभव को पूरी तरह से बदलना सीखें: अपना लोगो अपलोड करें, अपना मुखपृष्ठ सेट करें, एक थीम चुनें और इसे अपनी पसंद के अनुसार बनाएँ।';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'अपने फ़ोरम की मूल कार्य का उपयोग करना सीखें.';
 $Definition['Locales allow you to support other languages on your site.'] = 'लोकेल्स आपको अपनी साइट पर अन्य भाषाओं का समर्थन करने की अनुमति देते हैं। उन लोकेल्स को सक्षम और अक्षम करें जिन्हें आप यहां उपलब्ध कराना चाहते हैं।';
-$Definition['Locales are in your %s folder.'] = 'लोकैएल्स आपको अपनी साइट पर अन्य भाषाओं का समर्थन करने की अनुमति देते हैं। एक बार आपके %s फ़ोल्डर में एक लोकेल जुड़ जाने के बाद, आप इसे यहाँ सक्षम या अक्षम कर सकते हैं।';
 $Definition['LogoDescription'] = 'आपकी साइट के शीर्ष पर बैनर लोगो दिखाई देता है। कुछ थीम इस लोगो को प्रदर्शित नहीं कर सकते हैं।';
 
 $Definition['Make sure you click View Page'] = 'आपके कैटेगरी के पेज सहेजने के बाद कैसी दिखती हैं, यह सुनिश्चित करने के लिए आप <a href="%s"> देखें पेज </a> पर क्लिक करें.';
@@ -109,6 +108,10 @@ $Definition['Route Expression'] = 'रूट एक्सप्रेशन';
 $Definition['Routes are used to redirect users.'] = 'रूट का उपयोग उपयोगकर्ताओं को अनुरोधित URL के आधार पर पुनर्निर्देशित करने के लिए किया जाता है।';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'नाम से यूज़र्स को खोजें या उस भूमिका वाले सभी यूज़र्स को देखने के लिए किसी एक भूमिका का नाम दर्ज करें.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'चेतावनी: इस सुविधा को केवल तब सक्षम करें जब आप सुनिश्चित हों कि आपके सभी उपडोमेन को मान्य सर्टिफ़िकेट युक्त HTTPS के लिए कॉन्फ़िगर किया गया है।';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'सक्रीय किए जाने पर यह नियम आपकी साइट के सभी उपडोमेन पर भी लागू होता है।';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'हम अधिकतम 1 सप्ताह के समय के साथ शुरू करने और जब आप अपनी साइट को उम्मीद के मुताबिक काम करते देखते हैं तब इसे 1 महीने और फिर 1 वर्ष तक बढ़ाने की सलाह देते हैं।';
+$Definition['Security.Hsts.SubmitWarning'] = 'चेतावनी: एक बेहतरीन कार्य प्रणाली के रूप में HSTS प्रीलोडिंग का समर्थन करना सबसे अच्छा है। फ़िर भी, अपनी साईट का सफ़लतापूर्वक प्रीलोड सुनिश्चित करने के लिए आपको अपनी साईट को hstspreload.org पर सबमिट करना आवश्यक है। (अर्थात इच्छित कॉन्फ़िगरेशन के लिए पूर्ण सुरक्षा प्राप्त करना)।';
 $Definition['Select the import source'] = 'आयात स्रोत चुनें';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'सीरियलाइज्ड कॉलम "% s" को अनसीरियलाइज्ड  नहीं किया जा सका.';
 $Definition['Show all possible pocket locations.'] = 'सभी संभावित पॉकेट स्थानों को दिखाने के लिए इस विकल्प को शुरू करें. 
