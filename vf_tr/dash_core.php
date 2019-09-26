@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Sayfa Başına Tartışmalar';
 $Definition['Discussion  Subject'] = 'Tartışma Konusu';
 $Definition['Display in dashboard. (not recommended)'] = 'Kontrol panelinde görüntüleyin. (tavsiye edilmez)';
 $Definition['Display root categories as headings.'] = 'Kök kategorilerini başlık olarak görüntüleyin.';
+$Definition['Domain is invalid.'] = 'Etki alanı geçersiz.';
 $Definition['Don\'t display for embedded comments.'] = 'Gömülü yorumlar için görüntüleme.';
 $Definition['Don\'t Refresh'] = 'Yenileme';
 $Definition['Don\'t use Categories'] = 'Kategorileri kullanmayın';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'Boş Kullanıcı İçeriği';
 $Definition['UserWipeMessage'] = 'Kullanıcıyı silin ve kullanıcının tüm içeriğini, kullanıcının silindiğini belirten bir mesajla değiştirin. Bu, eksik bilgi olduğuna dair görsel bir ipucu verir.';
 $Definition['Use the content at this url as your homepage.'] = 'İnsanların ziyaret ederken görmeleri gereken sayfayı seçin: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Vanilla\'yı sitenizdeki bir yorumlama sistemi olarak kullanın';
-
+$Definition['Url Invalid.'] = 'Url Geçersiz.';
 $Definition['Vanilla.Archive.Description'] = 'Forum tartışmalarını belirli bir tarihten eski arşivlemeyi seçebilirsiniz. Arşivlenmiş tartışmalar etkin bir şekilde kapatılmamış ve yeni gönderilere izin verilmemiştir.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'İç içe geçmiş kategorileri, %1$s’de virgülle ayrılmış bir listeye yerleştirin.';
 $Definition['Vanilla is installed!'] = 'Vanilya yüklü!';
