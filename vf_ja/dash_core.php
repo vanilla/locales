@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = '1 ページに表示する最大ディス
 $Definition['Discussion  Subject'] = 'Discussion  Subject';
 $Definition['Display in dashboard. (not recommended)'] = 'Display in dashboard. (not recommended)';
 $Definition['Display root categories as headings.'] = 'ルート カテゴリを見出しとして表示する。';
+$Definition['Domain is invalid.'] = 'ドメインが無効です。';
 $Definition['Don\'t display for embedded comments.'] = 'Don\'t display for embedded comments.';
 $Definition['Don\'t Refresh'] = 'しない';
 $Definition['Don\'t use Categories'] = 'カテゴリを使用しない';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'UserWipe';
 $Definition['UserWipeMessage'] = 'UserWipeMessage';
 $Definition['Use the content at this url as your homepage.'] = '"ホーム画面" は <strong>%s</strong> にアクセスしたときに表示されます。既定では "すべてのディスカッション" がホーム画面になっていますが、この設定は自由に変更できます。以下は代表的なオプションです:';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Use Vanilla as a commenting system in your site';
-
+$Definition['Url Invalid.'] = 'URLが無効です。';
 $Definition['Vanilla.Archive.Description'] = '特定の日付より古いディスカッションをアーカイブ化できます。アーカイブ化されたディスカッションは事実上 閉じられ、新しいコメントを受け付けなくなります。';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'ネストされたカテゴリが次の条件に合致する場合は、カンマ区切りのリストとして表示されます: %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla is installed!';
