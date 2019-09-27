@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Số bài viết mỗi trang';
 $Definition['Discussion  Subject'] = 'Chủ đề thảo luận';
 $Definition['Display in dashboard. (not recommended)'] = 'Hiển thị trong bảng điều khiển. (không khuyến cáo)';
 $Definition['Display root categories as headings.'] = 'Hiển thị danh mục gốc như tiêu đề.';
+$Definition['Domain is invalid.'] = 'Tên miền không hợp lệ.';
 $Definition['Don\'t display for embedded comments.'] = 'Không hiển thị bài viết nhúng.';
 $Definition['Don\'t Refresh'] = 'Không làm tươi';
 $Definition['Don\'t use Categories'] = 'Không sử dụng danh mục';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'Nội dung trống';
 $Definition['UserWipeMessage'] = 'Xóa người dùng và thay thế tất cả nội dung của người dùng với một tin nhắn cho biết người dùng đã bị xóa. Điều này sẽ cho biết lý do bị thiếu thông tin.';
 $Definition['Use the content at this url as your homepage.'] = 'Chọn trang mà người sẽ thấy khi họ truy cập vào: <strong style="white-space: nowrap;"> %s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Sử dụng Vanilla như một hệ thống bình luận trên trang của bạn.';
-
+$Definition['Url Invalid.'] = 'Url Không hợp lệ.';
 $Definition['Vanilla.Archive.Description'] = 'Bạn có thể chọn để lưu trữ các bài viết cũ hơn một ngày chỉ định. Các bài viết bị lưu trữ nằm ở trạng thái đóng cửa, không cho phép gửi bình luận mới.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Đặt các danh mục lồng nhau thành một danh sách sử dụng dấu chấm phẩy để ngăn cách khi chúng là %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla đã được cài đặt!';
