@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = '每頁顯示討論數';
 $Definition['Discussion  Subject'] = '討論主題';
 $Definition['Display in dashboard. (not recommended)'] = '顯示在控制台中（不建議使用）。';
 $Definition['Display root categories as headings.'] = '顯示頂層分類作為頁首。';
+$Definition['Domain is invalid.'] = '網域無效。';
 $Definition['Don\'t display for embedded comments.'] = '不在內嵌討論串中顯示。';
 $Definition['Don\'t Refresh'] = '不要重新整理';
 $Definition['Don\'t use Categories'] = '不使用分類';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = '用戶相關內容是空白的。';
 $Definition['UserWipeMessage'] = '刪除這位用戶的帳號、並將所有相關內容以「本用戶已被刪除」的訊息取代；這樣的作法可以為該用戶的狀況提供說明。';
 $Definition['Use the content at this url as your homepage.'] = '選擇讓訪客觀看的網頁：<strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = '使用Vanilla作為您網站上的留言版系統。';
-
+$Definition['Url Invalid.'] = '網址無效。';
 $Definition['Vanilla.Archive.Description'] = '您可以選擇封存某個特定日期之前的討論串；已封存的討論串將會關閉，不接受新的留言。';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = '當有階層的分類為%1$s時，置入以逗號區隔的列表。';
 $Definition['Vanilla is installed!'] = '已安裝 Vanilla！';

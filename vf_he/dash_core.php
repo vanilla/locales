@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'מספר דיונים לעמוד';
 $Definition['Discussion  Subject'] = 'נושא הדיון';
 $Definition['Display in dashboard. (not recommended)'] = 'הצג בלוח הבקרה. (לא מומלץ)';
 $Definition['Display root categories as headings.'] = 'הצג את קטגוריות הבסיס ככותרות.';
+$Definition['Domain is invalid.'] = 'דומיין לא חוקי.';
 $Definition['Don\'t display for embedded comments.'] = 'אל תציג על הודעות מוטמעות';
 $Definition['Don\'t Refresh'] = 'אל תרענן';
 $Definition['Don\'t use Categories'] = 'אל תשתמש בקטגוריות';
@@ -636,7 +637,7 @@ $Definition['UserWipe'] = 'תוכן משתמש ריק';
 $Definition['UserWipeMessage'] = 'מחק  את המשתמש והחלף את כל התוכן של המשתמש באמצעות הודעה המצהירה כי המשתמש נמחק. זה מעניק סימן ויזואלי שישנו מידע חסר.';
 $Definition['Use the content at this url as your homepage.'] = 'בחירת הדף שאנשים יראו כאשר יבקרו: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'הוסף את Vanilla כמערכת התגובות באתר שלך.';
-
+$Definition['Url Invalid.'] = 'כתובת URL לא חוקית.';
 $Definition['Vanilla.Archive.Description'] = 'אתה יכול לבחור להכניס לארכיון דיוני פורום הישנים יותר מתאריך מסויים. דיונים בארכיון הם נעולים, מה שלא מאפשר בהם פרסומים נוספים.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'הנח קטגוריות מקוננות ברשימה והפרד בפסיק כאשר הן %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla הותקנה בהצלחה!';

@@ -235,6 +235,7 @@ $Definition['Discussions per Page'] = 'Συζητήσεις ανά Σελίδα'
 $Definition['Discussion  Subject'] = 'Θέμα Συζήτησης';
 $Definition['Display in dashboard. (not recommended)'] = 'Εμφάνιση στο ταμπλό (δε συστήνεται)';
 $Definition['Display root categories as headings.'] = 'Εμφάνιση των αρχικών κατηγοριών ως κεφαλίδες.';
+$Definition['Domain is invalid.'] = 'Μη έγκυρος τομέας.';
 $Definition['Don\'t display for embedded comments.'] = 'Να μην εμφανίζεται για ενσωματωμένα σχόλια.';
 $Definition['Don\'t Refresh'] = 'Να μη γίνεται ανανέωση';
 $Definition['Don\'t use Categories'] = 'Να μη χρησιμοποιούνται Κατηγορίες';
@@ -642,7 +643,7 @@ $Definition['UserWipe'] = 'Περιεχόμενο Κενού Χρήστη';
 $Definition['UserWipeMessage'] = 'Διαγράψτε το χρήστη και αντικαταστήστε όλο το περιεχόμενο του χρήστη με ένα μήνυμα που να δηλώνει ότι ο χρήστης έχει διαγραφεί. Αυτό δίνει μία οπτική ένδειξη ότι υπάρχουν ελλιπείς πληροφορίες.';
 $Definition['Use the content at this url as your homepage.'] = 'Επιλέξτε τη σελίδα που θα πρέπει να βλέπει ο κόσμος όταν επισκέπτεται: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Χρησιμοποιήστε το Vanilla στην ιστοσελίδα σας ως ένα σύστημα σχολιασμού.';
-
+$Definition['Url Invalid.'] = 'Μη έγκυρο URL.';
 $Definition['Vanilla.Archive.Description'] = 'Μπορείτε να επιλέξετε την αρχειοθέτηση συζητήσεων του φόρουμ παλαιότερων από μια ορισμένη ημερομηνία. Οι αρχειοθετημένες συζητήσεις πρακτικά κλείνουν, μη επιτρέποντας νέες δημοσιεύσεις.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Τοποθετήστε ένθετες κατηγορίες σε μία λίστα οριοθετημένη με κόμματα όταν είναι %1$s';
 $Definition['Vanilla is installed!'] = 'Το Vanilla έχει εγκατασταθεί!';

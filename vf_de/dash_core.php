@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Diskussionen pro Seite';
 $Definition['Discussion  Subject'] = 'Diskussionsbetreff';
 $Definition['Display in dashboard. (not recommended)'] = 'Im Dashboard anzeigen. (nicht empfohlen)';
 $Definition['Display root categories as headings.'] = 'Überkategorien als Überschriften anzeigen.';
+$Definition['Domain is invalid.'] = 'Die Domain ist ungültig. ';
 $Definition['Don\'t display for embedded comments.'] = 'Eingebettete Kommentare nicht anzeigen.';
 $Definition['Don\'t Refresh'] = 'Nicht aktualisieren';
 $Definition['Don\'t use Categories'] = 'Kategorien nicht benutzen';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'Leere Benutzerinhalte';
 $Definition['UserWipeMessage'] = 'Entferne den Benutzer und ersetze jeglichen von ihm erstellten Inhalt mit einer Nachricht, dass der Benutzer gelöscht wurde. Dies gibt den Besuchern einen Hinweis, dass Inhalt in Diskussionen fehlt.';
 $Definition['Use the content at this url as your homepage.'] = 'Die "homepage" ist, was Besuchern angezeigt wird, wenn sie <strong>%s</strong> aufrufen. Die Standardeinstellung ist "Alle Diskussionen" aber du kannst nutzen, was du möchtest. Hier sind einige beliebte Optionen:';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Benutze Vanilla als Kommentarsystem auf deiner Seite';
-
+$Definition['Url Invalid.'] = 'URL ungültig.';
 $Definition['Vanilla.Archive.Description'] = 'Du kannst einstellen, dass Diskussionen die ein bestimmtes Alter überschreiten automatisch archiviert werden. In archivierten Diskussionen können keine neuen Beiträge erstellt werden.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Plaziere verschachtelte Kategorien in einer Komma-separierten Liste wenn sie %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla ist installiert!';

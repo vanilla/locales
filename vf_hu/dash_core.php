@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Beszélgetés oldalanként';
 $Definition['Discussion  Subject'] = 'Beszélgetés témakör';
 $Definition['Display in dashboard. (not recommended)'] = 'Jelenítsd meg a vezérlőpulton. (nem javasolt)';
 $Definition['Display root categories as headings.'] = 'Jelenítsd meg a gyökérkategóriákat fejlécekként.';
+$Definition['Domain is invalid.'] = 'A domén érvénytelen.';
 $Definition['Don\'t display for embedded comments.'] = 'Ne jeleníts meg beágyazott kommenteket.';
 $Definition['Don\'t Refresh'] = 'Ne frissíts';
 $Definition['Don\'t use Categories'] = 'Ne használj kategóriákat';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'Üres felhasználói tartalom';
 $Definition['UserWipeMessage'] = 'Töröld a felhasználót és cseréld le a felhasználó összes tartalmát egy üzenettel, miszerint a felhasználó törölve lett. Ez ad egy látható nyomot, hogy információ hiányzik.';
 $Definition['Use the content at this url as your homepage.'] = 'Válaszd ki az oldalt, amit az emberek fognak látni, amikor ide látogatnak: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Használd a Vanilla-t az oldalad hozzászólási rendszereként';
-
+$Definition['Url Invalid.'] = 'Az URL érvénytelen.';
 $Definition['Vanilla.Archive.Description'] = 'A bizonyos dátumnál idősebb beszélgetések automatikusan archiválhatók. Az archivált beszélgetések gyakorlatilag lezártnak tekintendők, nem lehet bennük új hozzászólást létrehozni.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Helyezd a beágyazott kategóriákat egy veszővel elválasztott listába, ha %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla telepitve van!';

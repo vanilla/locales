@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Discussies per pagina';
 $Definition['Discussion  Subject'] = 'Discussieonderwerp';
 $Definition['Display in dashboard. (not recommended)'] = 'Toon in het dashboard. (niet aangeraden)';
 $Definition['Display root categories as headings.'] = 'Toon hoofdcategorieën als koppen.';
+$Definition['Domain is invalid.'] = 'Domein is ongeldig.';
 $Definition['Don\'t display for embedded comments.'] = 'Laat niet zien voor ingesloten reacties.';
 $Definition['Don\'t Refresh'] = 'Niet opnieuw laden';
 $Definition['Don\'t use Categories'] = 'Gebruik geen categorieën';
@@ -639,7 +640,7 @@ $Definition['UserWipe'] = 'Leeg gebruikersinhoud';
 $Definition['UserWipeMessage'] = 'Verwijder de gebruiker en vervang alle gebruikersinhoud met een bericht dat aantoont dat de gebruiker is verwijderd. Dit geeft een visuele hint dat er informatie mist.';
 $Definition['Use the content at this url as your homepage.'] = 'Kies de pagina die mensen zullen zien wanneer ze <strong style="white-space: nowrap;">%s</strong> bezoeken.';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Gebruik Vanilla als een reactiesysteem op je website';
-
+$Definition['Url Invalid.'] = 'Ongeldige URL.';
 $Definition['Vanilla.Archive.Description'] = 'Je kunt ervoor kiezen om forumdiscussies die ouder zijn dan een bepaalde datum te archiveren. Gearchiveerde discussies zijn gesloten, nieuwe berichten worden niet toegestaan.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Plaats genestelde categorieën in een door komma\'s gescheiden lijst als ze %1$s zijn';
 $Definition['Vanilla is installed!'] = 'Vanilla is geïnstalleerd!';

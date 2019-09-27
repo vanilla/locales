@@ -234,6 +234,7 @@ $Definition['Discussions per Page'] = 'Keskusteluja per sivu';
 $Definition['Discussion  Subject'] = 'Keskustelun Aihe';
 $Definition['Display in dashboard. (not recommended)'] = 'N&auml;yt&auml; kojelaudalla. (ei suositeltu)';
 $Definition['Display root categories as headings.'] = 'Kohtele p&auml;&auml;kategorioita otsikoina.';
+$Definition['Domain is invalid.'] = 'Verkkotunnus ei ole kelvollinen.';
 $Definition['Don\'t display for embedded comments.'] = 'Älä näytä upotetuille kommenteille.';
 $Definition['Don\'t Refresh'] = '&Auml;l&auml; p&auml;ivit&auml;';
 $Definition['Don\'t use Categories'] = '&Auml;l&auml; k&auml;yt&auml; kategorioita';
@@ -640,7 +641,7 @@ $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 $Definition['Use the content at this url as your homepage.'] = 'Valitse sivu jonka k&auml;vij&auml;t oletuksena n&auml;kev&auml;t vieraillessaan osoitteessa: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Käytä Vanillaa järjestelmänä kommenteillesi sivustollesi';
-
+$Definition['Url Invalid.'] = 'Verkko-osoite ei ole kelvollinen.';
 $Definition['Vanilla.Archive.Description'] = 'Voit asettaa arkistoitavaksi keskustelut, jotka ovat ajalta ennen valittua p&auml;iv&auml;m&auml;&auml;r&auml;&auml;. Arkistoidut kategoriat suljetaan, ilman mahdollisuutta l&auml;hett&auml;&auml; niihin uusia viestej&auml; tai aiheita.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'N&auml;yt&auml; alakategoriat toisistaan pilkuilla erotettuna listana kun ne ovat %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla on nyt asennettu!';
