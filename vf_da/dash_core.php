@@ -632,6 +632,7 @@ $Definition['User Registration Settings'] = 'Indstilinger for registrering af br
 $Definition['Users that get this reaction get %+d point.'] = 'Brugere der får denne reaktion får %+d point.';
 $Definition['Users that get this reaction get %+d points.'] = 'Brugere der får denne reaktion får %+d points.';
 $Definition['Users will not be warned when following links that match a Trusted Domain.'] = 'Brugere vil ikke blive advaret når de følger links som matcher et Sikkert Domæne. ';
+$Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Brugere bliver viderestillet til dette URL, når de har accepteret en invitation. Det kan være et URL eller en sti til viderestilling inden for sitet. ';
 $Definition['User Summary'] = 'Oversigt over bruger';
 $Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'Brugere bliver tildelt denne rolle indtil de har bekræftet deres mail adresse.';
 $Definition['Users with the no ads permission will not see this pocket.'] = 'Brugere med der er fritaget for reklamer vil ikke se denne lomme.';
@@ -639,7 +640,6 @@ $Definition['UserWipe'] = 'Indhold af ny bruger';
 $Definition['UserWipeMessage'] = 'Slet brugeren og erstat alt brugerens indhold med en besked om at brugeren er blevet slettet.  Dette giver et visuelt vink om, at der mangler information.';
 $Definition['Use the content at this url as your homepage.'] = 'Vælg siden som folk ser når de besøger: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Brug Vanilla som et kommentarsystem på din side.';
-
 $Definition['Vanilla.Archive.Description'] = 'Du kan vælge at  arkivere diskussioner ældre end en bestemt  dato. Arkiverede diskussioner er effektivt lukket, så ingen nye indlæg kan skrives.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Vis indlejrede kategorier i en kommaadskilt liste når de er %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla er nu installeret!';
