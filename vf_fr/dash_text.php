@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Hé, faîtes gaffe !</strong> Supprimer un statut peut entraîner l\'interdiction d\'accès au service des utilisateurs auquel ce statut a été attribué.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Hé, faîtes gaffe !</strong> Déplacer des discussions dans une catégorie de substitution peut entraîner la disparition (ou la réapparition) des discussions si la catégorie de substitution a des permissions différentes de celles de la catégorie en cours de suppression.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type "non-confirmé" est nécessaire pour utiliser la confirmation mail.';
 $Definition['About.DisableStatistics'] = 'Si vous devez désactiver cette collecte de données pour quelque raison commerciale que ce soit, vous pouvez désactiver ce module en ajoutant la ligne suivante à votre fichier de configuration : <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Il est important, pour que ce logiciel gratuit et open-source continue à évoluer, que nous puissions mesurer avec précision la portée et l\'efficacité de Vanilla. Nous vous demandons, s\'il vous plaît, ne pas désactiver la collecte de ces données.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla peut être utilisé comme un module de remplacement du système de gestion des commentaires de votre blog. En tant que tel, il peut être utilisé pour ajouter des commentaires sur n\'importe quel page de votre site web.';
@@ -15,7 +16,6 @@ $Definition['Although the invitation was created successfully, the email failed 
 $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de nombreuses fonctionnalités à votre forum Vanilla.<br />
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type "non-confirmé" est nécessaire pour utiliser la confirmation mail.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'En cliquant le bouton ci-dessous, vous supprimez définitivement le compte utilisateur de %s.';
 
@@ -81,7 +81,6 @@ $Definition['Learn about custom routing.'] = 'Apprenez-en à propos du routage p
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Apprenez comment changer l\'apparence de votre forum du tout au tout : téléchargez votre logo, définissez votre page d\'accueil, choisissez un thème et personnalisez-le.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apprenez à utiliser les fonctionnalités de base de votre forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Les locales vous permettent de gérer d\'autres langues sur votre site. Activez et désactivez les locales que vous voulez rendre disponibles ici.';
-$Definition['Locales are in your %s folder.'] = 'Les packs de langue vous permettent d\'utiliser plusieurs langues sur votre forum.<br />Une fois qu\'un pack de langue a été déposé dans le dossier %s, vous pouvez l\'activer ou le désactiver ici.';
 $Definition['LogoDescription'] = 'Le logo bannière apparaît en haut de votre site. Il est possible que certains thèmes n\'affichent pas ce logo.';
 
 $Definition['Make sure you click View Page'] = 'Cliquez sur <a href="%s">Voir la Page</a> pour voir à quoi ressemblera votre page catégories une fois que vous aurez sauvegardé.';
@@ -90,8 +89,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marquer des éléments comme non-spam les replacera dans votre forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Les messages peuvent apparaître n\'importe où dans votre application, et peuvent être utilisés pour informer vos utilisateurs des nouvelles et des événements. Utilisez cette page pour réorganiser vos messages en les faisant glisser en haut ou en bas.';
 
-$Definition['Notify me when people comment on my addons.'] = 'Notifiez-moi quand des personnes commenteront sur mes extensions.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Le site à besoin d\'un statut "non-confirmé" pour utiliser la confirmation mail. Merci d\'en ajouter un pour activer ce paramètre.';
+$Definition['Notify me when people comment on my addons.'] = 'Notifiez-moi quand des personnes commenteront sur mes extensions.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Veuillez choisir une méthode d\'authentification à configurer.';
 $Definition['PluginHelp'] = 'Les modules  complémentaires vous permettent d\'ajouter des fonctionnalités à votre site.<br />Une fois qu\'un module  complémentaire a été ajouté à votre dossier %s, vous pouvez l\'activer ou le désactiver ici.';
@@ -109,6 +108,10 @@ $Definition['Route Expression'] = 'Libellé de la redirection';
 $Definition['Routes are used to redirect users.'] = 'Les routages sont utilisés pour rediriger les utilisateurs en fonction de l\'URL demandée.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Recherchez les utilisateurs par nom ou entrez le nom d\'un rôle pour voir tous les utilisateurs avec ce rôle.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Avertissement : n\'activez cette fonctionnalité que si vous êtes sûr que tous vos sous-domaines sont configurés en HTTPS avec des certificats valides.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Lorsqu\'elle est activée, cette règle s\'applique à tous les sous-domaines de votre site.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Une fois que vous voyez que votre site fonctionne comme prévu, nous vous recommandons de commencer avec un âge maximum d\'une semaine, puis de passer à un mois, puis à un an.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Avertissement : c\'est très bien d\'adopter les bonnes pratiques du HSTS preloading. Cependant, vous devez soumettre votre site à hstspreload.org pour être sûr qu\'il est bien préchargé (c\'est-à-dire pour obtenir la protection complète de la configuration voulue).';
 $Definition['Select the import source'] = 'Choisissez le fichier à importer';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'La colonne sérialisée "%s" n\'a pas pu être dé-sérialisée.';
 $Definition['Show all possible pocket locations.'] = 'Activez cette option pour afficher tous les emplacements de blocs disponibles. En activant cette option, les emplacements seront uniquement visibles par les utilisateurs qui peuvent gérer les blocs.';

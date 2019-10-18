@@ -15,14 +15,25 @@ $Definition['Ban Type'] = 'Тип';
 
 $Definition['Condition Type'] = 'Тип';
 
+$Definition['Decline'] = 'Откажи';
+$Definition['default type'] = 'по подразбиране';
+$Definition['Description'] = 'Описание';
+$Definition['Disable'] = 'Забрани';
+$Definition['Disabled'] = 'Забранено';
 $Definition['DownloadLocalePack'] = 'Изтегляне';
+
+$Definition['Enable'] = 'Разреши';
 
 $Definition['Notes'] = 'Бележки';
 
+$Definition['On'] = 'Включено';
 $Definition['Operation By'] = 'От';
 
 $Definition['Permission.Category'] = 'Категория';
+$Definition['Polls'] = 'Анкети ';
 
 $Definition['The content you were looking for has been deleted.'] = 'Съдържанието, което търсите, е било изтрито.';
+
+$Definition['User Count'] = 'Потребители';
 
 $Definition['Why do you want to join?'] = 'Защо искате да се присъедините?';

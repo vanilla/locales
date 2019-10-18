@@ -80,7 +80,7 @@ $Definition['Learn about custom routing.'] = 'Özel yönlendirme hakkında bilgi
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Forumunuzun görünüşünü ve hissini nasıl değiştireceğinizi öğrenin: logonuzu yükleyin, ana sayfanızı ayarlayın, bir tema seçin ve özelleştirin.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Forumunuzun temel işlevlerini nasıl kullanacağınızı öğrenin.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Yerel ayarlar, sitenizdeki diğer dilleri desteklemenizi sağlar. Burada kullanılabilir yapmak istediğiniz yerel ayarları etkinleştirin ve devre dışı bırakın.';
-$Definition['LogoDescription'] = 'Banner logosu sitenizin en üstünde görünür. Bazı temalar bu logoyu göstermeyebilir.';
+$Definition['LogoDescription'] = 'Tanıtım logosu sitenizin en üstünde görünür. Bazı temalar bu logoyu göstermeyebilir.';
 
 $Definition['Make sure you click View Page'] = 'Kategoriler sayfanızın kaydettikten sonra nasıl göründüğünü görmek için <a href="%s">Sayfayı Görüntüle</a> seçeneğini tıkladığınızdan emin olun.';
 $Definition['Manage Routes'] = 'Yönlendirmeleri Yönet';
@@ -114,7 +114,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Uyarı: HSTS önyüklemesini en iy
 $Definition['Select the import source'] = 'İçe aktarma kaynağını seçin';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serileştirilmiş sütun "%s" serileştirilemedi.';
 $Definition['Show all possible pocket locations.'] = 'Tüm olası cep konumlarını göstermek için bu seçeneği açın. Bu seçeneği açmak, sadece yerleri yönetebilecek kullanıcılara yerleri gösterecektir.';
-$Definition['Spend a little time thinking about how you describe your site here.'] = 'Sitenizi burada nasıl tanımladığınızı düşünerek biraz zaman geçirin. Sitenize anlamlı bir başlık ve kısa bir açıklama vermek, arama motorlarında konumunuzu yardımcı olabilir.';
+$Definition['Spend a little time thinking about how you describe your site here.'] = 'Sitenizi burada nasıl tanımladığınızı düşünerek biraz zaman geçirin. Sitenize anlamlı bir başlık ve kısa bir açıklama vermek, arama motorlarında konumunuzu belirlemekte ve sağlamlaştımakta yardımcı olabilir.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Logo ekleyerek ve renkleri özelleştirerek e-postalarınızı yükseltin.';
 $Definition['Start Import'] = 'İçe Aktarımı Başlat';
 $Definition['Start the first discussion.'] = '<a href="{/post/discussion,url}">İlk tartışma başlığını şimdi açarak</a> topluluğunuza hareket kazandırın.';

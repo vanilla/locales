@@ -481,6 +481,7 @@ $Definition['Dislike'] = 'Δε μου αρέσει';
 $Definition['Dismiss'] = 'Απόρριψη';
 $Definition['Documentation'] = 'Tεκμηρίωση
 ';
+$Definition['Domain is invalid.'] = 'Μη έγκυρος τομέας.';
 $Definition['Don\'t announce.'] = 'Χωρίς ανακοίνωση.';
 $Definition['Don\'t fold quotes'] = 'Μην αναδιπλώνετε φράσεις';
 $Definition['Don\'t have an account? %s'] = 'Δεν έχετε λογαριασμό; %s';
@@ -1582,6 +1583,7 @@ $Definition['Upload New Icon'] = 'Φόρτωση νέου εικονιδίου';
 $Definition['Upload New Picture'] = 'Ανεβάστε Νέα Εικόνα';
 $Definition['Url'] = 'Διεύθυνση URL';
 $Definition['UrlCode'] = 'Κώδικας Url';
+$Definition['Url Invalid.'] = 'Μη έγκυρο URL.';
 $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Χρησιμοποιήστε τις συντομεύσεις πληκτρολογίου, «μετακίνηση προς τα πάνω» και «μετακίνηση προς τα κάτω» για να μετακινηθείτε στις διαθέσιμες κατηγορίες όταν το μενού είναι ανοιχτό.
 ';
 $Definition['Use My Current Password'] = 'Χρήση του Τρέχοντος Κωδικού Μου';

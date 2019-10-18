@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Figyelem!</strong> Egy szerep törlése azt erdeményezheti, hogy felhasználók nem fognak hozzáférni az alkalmazáshoz.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Figyelem!</strong> Beszélgetések atmozgatása egy másik kategóriába azt erdeményezheti, hogy beszélgetések eltűnnek (vagy megjelennek) ha a másik kategória más jogokkal rendelkezik, mint amiben a beszélgetés eredetileg szerepelt (ahonnan törölve lett).';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Az e-mailes visszaigazolás használatához az "alapértelmezés nélküli" típusú szerep szükséges.';
 $Definition['About.DisableStatistics'] = 'Ha le kell tiltanod ezt az adatküldési opciót, valamilyen üzleti okból, úgy teheted meg, hogy a következő sort adod hozzá a telepítésed konfigurációs file-jához: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Életbevágóan fontos ennek az ingyenes, nyílt forrású software-nek, hogy pontosan mérjük azt, hogy mennyire elérhető és hatékony a Vanilla. Arra kérünk, hogy legyél kedves és ne kapcsold ki az adatküldést.';
 $Definition['AboutCommentEmbedding'] = 'A Vanilla használható a blogod beágyazott hozzászólási rendszereként is. Sőt, arra is használható, hogy bármilyen weboldalhoz hozzászólásokat tudj adni.';
@@ -15,7 +16,6 @@ $Definition['Although the invitation was created successfully, the email failed 
 Habát a meghívás sikeresen el lett küldve, az email elküldése közben hiba csőszott be. A server ezt a hibaüzenetet adta: %s';
 $Definition['ApplicationHelp'] = 'Az alkalmazások segítségével nagy számú funkcionalitást adhatsz az oldaladhoz.<br />Amint egy alklamazás a %s mappához hozzá lett adva, itt engedélyezheted vagy tilthatod le.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Biztos hogy a megfelelő adatbázis hoszt nevet adtad meg? Elírás, esetleg? Az adatbázis a következő választ adta: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Az e-mailes visszaigazolás használatához az "alapértelmezés nélküli" típusú szerep szükséges.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ha rákattintasz az alábbi gombra, örökre törölni fogod %s felhasználói fiókját.';
 
@@ -81,7 +81,6 @@ $Definition['Learn about custom routing.'] = 'Tudjon meg többet az egyedi útvo
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Ismerd meg, hogy tudod teljesen lecserélni a fórumod kinézetét: tölts fel logókat, állítsd be a honlapod, válassz egy témát és tedd egyedivé.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Ismerd meg, hogy használd az alapvető fórum-funkciókat.';
 $Definition['Locales allow you to support other languages on your site.'] = 'A területi beállítások lehetővé teszik, hogy a webhely további nyelveket is támogasson. Itt engedélyezheti és tilthatja le a kívánt területi beállításokat.';
-$Definition['Locales are in your %s folder.'] = 'Nyelvi csomagok segítségével tudsz az oldaladon más nyelveket támogatni. Amint egy csomag a %s mappához hozzá lett adva, itt fogod tudni engedélyezni vagy letiltani.';
 $Definition['LogoDescription'] = 'A banner logo az oldalad tetején fog megjelenni. Néhány téma esetleg nem fogja ezt a logot megjeleníteni.';
 
 $Definition['Make sure you click View Page'] = 'Kattints a <a href="%s">Oldal megtekintése</a> -re, hogy lásd hogyan fog a kategória oldalad kinézni a mentés után.';
@@ -90,8 +89,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'H
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ha valamit úgy jelölsz, mint nem spam, vissza fogja azt juttatni a fórumodba.';
 $Definition['Messages can appear anywhere in your application.'] = 'Az üzenetek bárhol megjeleníthetőek a fórumban. Ezzel a módszerrel értesíteni tudod a felhasználókat az új hírekről és eseményekről. Az üzenetek újraszervezését az üzenet lefelé illetve felfelé való mozgatásával érheted el. ';
 
-$Definition['Notify me when people comment on my addons.'] = 'Értesítsenek, ha hozzászólnak egy addon-omhoz.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Az oldalnak szüksége van az alapértelmezett "érvénytelenített" típusú szerepre az e-mail megerősítéséhez. A beállítás engedélyezéséhez adj hozzá egyet.';
+$Definition['Notify me when people comment on my addons.'] = 'Értesítsenek, ha hozzászólnak egy addon-omhoz.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Kérlek válassz egy hitelesítési módot';
 $Definition['PluginHelp'] = 'Beépülő modulok segítségével adhatsz új funkcionalitást az oldaladhoz.<br />Amint egy modul a %s mappádba bekerült, itt fogod tudni engedélyezni vagy letiltani.';
@@ -109,6 +108,10 @@ $Definition['Route Expression'] = 'Út kifejezés';
 $Definition['Routes are used to redirect users.'] = 'Az útvonalak a felhasználókat átirányítják a kért URL alapján.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Keress felhasználókat a megadott névvel, vagy adj megy egy szerepkört, hogy olyan felhasználókat találj, akik az adott szerepkörrel rendelkeznek.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Figyelem: Csak akkor engedélyezze ezt a funkciót, ha biztos benne, hogy az összes altartomány érvényes tanúsítványokkal rendelkező HTTPS-re van konfigurálva.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Ha engedélyezve van, ez a szabály az összes webhely altartományára is vonatkozik.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Javasoljuk, hogy kezdje legfeljebb 1 hetes időszakkal, majd növelje 1 hónapra, majd 1 évre, amint látja, hogy a webhelye a várt módon működik.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Figyelem: Nagyszerű a HSTS előzetes betöltésének a támogatása, mint legjobb gyakorlat. A webhelyét azonban el kell küldenie a hstspreload.org oldalra annak biztosítása érdekében, hogy sikeres az előzetes betöltés (azaz a tervezett konfiguráció teljes védelme érdekében).';
 $Definition['Select the import source'] = 'Válaszd ki az import forrását';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'A "%s" szerializált oszlopot nem sikerült vissza szerializálni.';
 $Definition['Show all possible pocket locations.'] = 'Kapcsold be azt az opciót, hogy zsebek minden lehetséges helyét megmutassa. Ennek az opciónak a bekapcsolása csak azoknak a felhasználóknak fogja a zsebek helyét megmutatni, akik jogosultak rá.';

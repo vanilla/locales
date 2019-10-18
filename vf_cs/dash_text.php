@@ -106,6 +106,10 @@ $Definition['Route Expression'] = 'Vyjádření trasy ';
 $Definition['Routes are used to redirect users.'] = 'Trasy se používají k přesměrování uživatelů v závislosti na požadované adrese URL.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Vyhledejte uživatele podle jména nebo zadejte název role a zobrazte všechny uživatele s touto rolí.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Upozornění: Tuto funkci aktivujte pouze tehdy, pokud jste si jisti, že všechny subdomény máte nakonfigurovány na HTTPS s platnými certifikáty.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Po aktivaci se toto pravidlo použije také na veškeré subdomény vašich stránek.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Doporučujeme začít s maximálním stářím 1 týdne a zvýšit je na 1 měsíc teprve tehdy, když uvidíte, že stránky fungují podle očekávání.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Upozornění: Nejlepší postup je podpora preloadu HSTS. Aby byl však preload stránek úspěšný, musíte je odeslat do hstspreload.org (tj. získat plnou ochranu uvažované konfigurace).';
 $Definition['Select the import source'] = 'Vyberte zdroj importu ';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Zrušení serializace serializovaného sloupce „%s“ se nezdařilo.';
 $Definition['Show all possible pocket locations.'] = 'Zapněte tuto možnost, pokud chcete zobrazit všechna možná umístění kapes. Zapnutí této možnosti zobrazí umístění pouze uživatelům, kteří mohou spravovat kapsy.';

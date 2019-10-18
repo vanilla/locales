@@ -163,6 +163,7 @@ $Definition['Discussion'] = 'ការ​ពិភាក្សា';
 $Definition['discussion'] = 'ការពិភាក្សា';
 $Definition['Discussions'] = 'ការ​ពិភាក្សា';
 $Definition['Discussion Title'] = 'ចំណង​ជើង​ពិភាក្សា';
+$Definition['Discussion Type'] = 'ការ​ពិភាក្សា';
 $Definition['Dismiss'] = 'បំបាត់';
 $Definition['Don\'t announce.'] = 'កុំ​ប្រកាស។';
 $Definition['Don\'t have an account? %s'] = 'មិន​មាន​គណនី​ទេ? %s';
@@ -324,6 +325,7 @@ $Definition['Q&A'] = 'សំណួរ​ចម្លើយ';
 $Definition['Q&A Options'] = 'ជម្រើស​សំណួរ​ចម្លើយ';
 $Definition['Q&A Question'] = 'សំណួរ';
 $Definition['Question'] = 'សំណួរ';
+$Definition['Question Type'] = 'សំណួរ';
 
 $Definition['Rank'] = 'ចំណាត់​ថ្នាក់';
 $Definition['Ranks.NotificationFormat'] = 'អបអរសាទរ! អ្នក​ត្រូវ​បាន​ដំឡើង​ជា {Data.Name,plaintext} ហើយ។';

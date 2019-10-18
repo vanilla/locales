@@ -107,6 +107,10 @@ $Definition['Route Expression'] = 'Reittilauseke';
 $Definition['Routes are used to redirect users.'] = 'Reiteillä voidaan ohjata käyttäjiä uuteen paikkaan heidän pyytämästään URL-osoitteesta riippuen.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Etsi k&auml;ytt&auml;ji&auml; nimell&auml; tai antamalla se rooli, josta haluat listata kaikki k&auml;ytt&auml;j&auml;t.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Varoitus: Ota tämä ominaisuus käyttöön vain, jos olet varma, että kaikki aliverkkotunnuksesi on määritetty HTTPS:lle toimivilla varmenteilla.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Kun käytössä, tämä sääntö koskee myös kaikkia sivustosi aliverkkotunnuksia.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Suosittelemme aloittamaan korkeintaan yhden viikon iässä ja nostamalla sitä ensin 1 kuukauteen ja sitten 1 vuoteen, kun näet sivustosi toimivan odotetusti.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Varoitus: On hienoa tukea HSTS: n esilatausta parhaana käytäntönä. Sinun on kuitenkin ladattava sivustosi hstspreload.org-sivulle varmistaaksesi, että esilataus on onnistunut (ts. saadaksesi täyden suojan suunnitellulle kokoonpanolle).';
 $Definition['Select the import source'] = 'Valitse tuontil&auml;hde';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialisoidun sarakkeen "%s" serialisointia ei voitu kumota.';
 $Definition['Show all possible pocket locations.'] = 'Ota tämä vaihtoehto käyttöön näyttääksesi kaikki mahdolliset taskujen sijainnit. Tämän vaihtoehdon ottaminen käyttöön näyttää sijainnit ainoastaan niille käyttäjille, jotka voivat hallita taskuja.';

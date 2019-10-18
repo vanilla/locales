@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>注意了！</strong> 删除用户角色可能会导致用户无法使用程序。';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>注意了！</strong>如果话题被移动到的版块与将要被删除的版块有不同的权限设置，这些话题可能会不可见（或本应不可见却被显示出来）。';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = '需要使用默认类型“未经确认”的角色才能使用电子邮件确认。';
 $Definition['About.DisableStatistics'] = '如果您因为某些商业原因需要关闭数据报告，您可以在安装配置文件中添加下面这行代码：
  <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = '为方便我们准确地分析覆盖度和有效性，请不要关闭数据报告。这对开源、免费的 Vanilla 来说相当重要。';
@@ -15,7 +16,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = '邀请已成功创建，但邮件发送失败。服务器返回如下错误信息: %s';
 $Definition['ApplicationHelp'] = '应用程序让您可以为网站添加更多功能。<br />当您将应用程序放置到文件夹 %s 后，您可以在这里启用或禁用它。';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '您确定输入了正确的数据库主机地址了吗？或许您写错了？数据库返回信息：<code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = '需要使用默认类型“未经确认”的角色才能使用电子邮件确认。';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = '点击下面的按钮，您将永久删除账户 %s。';
 
@@ -81,7 +81,6 @@ $Definition['Learn about custom routing.'] = '了解自定义路由。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '学习如何完全改变您的社区的外观和感觉：上传 Logo；设置首页及布局；选择一个主题并个性化主题。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '学习如何使用论坛的基本功能。';
 $Definition['Locales allow you to support other languages on your site.'] = '语言选项可以让您的网站支持其他语言。在这里您可以启用或禁用选定的语言。';
-$Definition['Locales are in your %s folder.'] = '语言环境设置允许您的网站支持更多语言。当一种新语言被添加到 %s 文件夹中后，您就可以在这里选择启用或禁用它。';
 $Definition['LogoDescription'] = '站点 Logo 显示在站点的顶部，有些主题可能不会显示。';
 
 $Definition['Make sure you click View Page'] = '点击<a href="%s">这里</a>预览版块页面。';
@@ -90,8 +89,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = '标记为不是垃圾信息的条目会被恢复到论坛中。';
 $Definition['Messages can appear anywhere in your application.'] = '消息系统在应用中的许多地方被用到，它可以用来向用户发布通知和新闻。在这里，您可以自由地拖动、管理您的消息。';
 
-$Definition['Notify me when people comment on my addons.'] = '当有人评论我的扩展时通知我。';
 $Definition['No unconfirmed role available for email confirmation.'] = '该网站需要使用默认类型“未经确认”的角色才能使用电子邮件确认。请添加一个启用此设置。';
+$Definition['Notify me when people comment on my addons.'] = '当有人评论我的扩展时通知我。';
 
 $Definition['Please choose an authenticator to configure.'] = '请选择一个身份验证配置。';
 $Definition['PluginHelp'] = '插件可以为您的网站添加更多功能。<br />当一个新插件被添加到 %s 文件夹中后，您就可以在这里选择启用或关闭它。';
@@ -109,6 +108,10 @@ $Definition['Route Expression'] = '路由展示';
 $Definition['Routes are used to redirect users.'] = '使用路由功能来重定向用户请求的网址。';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = '按用户名搜索，或输入角色查看所有相应用户。';
+$Definition['Security.Hsts.HTTPSWarning'] = '警告：仅当您确定所有子域都配置为具有有效证书的HTTPS，方可启用此功能。';
+$Definition['Security.Hsts.IncludeSubDomains'] = '启用后，此规则也适用于您网站的所有子域。';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = '我们建议您从最长1周开始，如果网站运作符合预期，可再增加到1个月，之后增至1年。';
+$Definition['Security.Hsts.SubmitWarning'] = '警告：支持HSTS预加载这一最佳实践很好。但是，你必须将站点提交到hstspreload.org以确保预加载成功（即获得对预期配置的完全保护）。';
 $Definition['Select the import source'] = '选择导入源文件';
 $Definition['Serialized column "%s" failed to be unserialized.'] = '已序列化的列 "%s" 恢复失败。';
 $Definition['Show all possible pocket locations.'] = '打开此选项以显示所有可放置 Pocket 的位置。开启后只有具备管理 Pocket 权限的用户可以看到这些位置。';

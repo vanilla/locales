@@ -285,15 +285,18 @@ $Definition['LogoBrowse'] = 'Hľadať nové logo pre banner, ak ho chcete zmeni�
 
 $Definition['Notes'] = 'Poznámky';
 
+$Definition['On'] = 'Zapnuté';
 $Definition['Operation By'] = 'Od';
 
 $Definition['Permission.Category'] = 'Kategória';
+$Definition['Polls'] = 'Hlasovania';
 
 $Definition['Require users to confirm their email addresses (recommended)'] = 'Vyžadovať od užívateľov potvrdenie ich emailovej adresy (odporučené)';
 $Definition['Roles determine user\'s permissions.'] = 'Každý užívateľ na vašej stránke má pridelenú aspoň jednu rolu. Role sú použité na určenie, čo môžu títo užívatelia robiť.';
 
 $Definition['The content you were looking for has been deleted.'] = 'Obsah, ktorý ste hľadali, bol vymazaný.';
 
+$Definition['User Count'] = 'Užívatelia';
 $Definition['UserDeletionPrompt'] = 'Zvoľte ako naložiť so všetkými dátami užívateľa %s (komentáre, správy, atď).';
 $Definition['UserKeep'] = 'Udržať používateľa obsah';
 

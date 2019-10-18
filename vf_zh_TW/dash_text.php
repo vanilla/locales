@@ -80,7 +80,6 @@ $Definition['Learn about custom routing.'] = '了解更多自訂路由。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '學習如何徹底改變討論版的外觀設計：上傳您的專屬標誌、設定首頁名稱、選擇視覺主題、並且改變各種自訂選項。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '學習使用討論版的各種基本功能。';
 $Definition['Locales allow you to support other languages on your site.'] = '多語系功能允許您的網站支援其他語言；請在這裡啟用或關閉您在網站上提供的語言。';
-$Definition['Locales are in your %s folder.'] = '多語系功能讓您的網站支援多國語言；當您在%s資料夾中加入某個語言之後，就可以在這裡將它開啟或關閉。';
 $Definition['LogoDescription'] = '橫幅標誌會出現在您網站的頂端，但有些視覺主題可能不會顯示這個標誌。';
 
 $Definition['Make sure you click View Page'] = '在存檔之後，請務必點按「<a href="%s">閱覽網頁</a>」看看分類網頁的樣子。';
@@ -108,6 +107,10 @@ $Definition['Route Expression'] = '路徑表達式';
 $Definition['Routes are used to redirect users.'] = '路由的作用是依要求的網址將使用者重新導向。';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = '依名稱搜尋使用者，或輸入職務名稱以列出所有相關用戶名稱。';
+$Definition['Security.Hsts.HTTPSWarning'] = '警告：如果您確定所有子域都配置為具有有效證書的HTTPS，則僅啟用此功能。';
+$Definition['Security.Hsts.IncludeSubDomains'] = '啟用後，此規則也適用於您網站的所有子網域。';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = '我們建議先從最多 1 週開始，再逐漸增加到 1 個月，一旦您的網站如預期運作，則可增加到 1 年。';
+$Definition['Security.Hsts.SubmitWarning'] = '警告：支援以 HSTS 預載作為首選操作固然很好，但您必須先將網站提交至 hstspreload.org 以確保它會順利預載（即獲得對預期組態的全面保護）。';
 $Definition['Select the import source'] = '請選擇匯入來源';
 $Definition['Serialized column "%s" failed to be unserialized.'] = '序列欄位「%s」無法解除序列。';
 $Definition['Show all possible pocket locations.'] = '開啟這個選項來顯示所有可以放置pocket的位置。如果開啟這項功能，將只會向有權限管理pocket的用戶顯示位置。';
