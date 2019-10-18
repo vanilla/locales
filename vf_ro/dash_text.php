@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Atenție!</strong> Ştergerea unui rol poate duce la imposibilitatea ca unii utilizatori să acceseze aplicația';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Atenție!</strong> Mutarea discuţiilor într-o categorie de înlocuire poate duce la dispariția (sau apariția) acestora în cazul în care categoria de înlocuire are permisiuni diferite față de categoria eliminată';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un rol cu tipul implicit "neconfirmat" îi este necesar să folosească confirmarea prin email.';
 $Definition['About.DisableStatistics'] = 'Dacă trebuie să dezactivaţi aceste date de raportare dintr-un motiv de afaceri, puteţi face acest lucru prin adăugarea următoarei linii la fişierul de configurare al instalării: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Este extrem de important pentru durata de viaţă a acestui software gratuit, open-source, să putem măsura cu precizie expansiunea şi eficienţa Vanilla. De aceea vă rugăm să nu dezactivaţi raportarea acestor date';
 $Definition['AboutCommentEmbedding'] = 'Vanilla poate fi folosit ca înlocuire pentru sistemul de comentarii implicit al unui blog. De fapt acesta poate fi utilizat pentru a adăuga comentarii la orice pagină web';
@@ -14,7 +15,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Cu toate că invitaţia a fost creată cu succes, trimiterea E-mailului a eșuat. Serverul a raportat următoarea eroare: %s';
 $Definition['ApplicationHelp'] = 'Aplicaţiile vă permit să adăugaţi grupuri mari de funcţionalități site-ului dumneavoastră. < br / > Odată ce o aplicație a fost adăugată dosarului %s, o puteţi activa sau dezactiva de aici';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Sunteţi sigur că aţi introdus numele de gazdă a bazei de date corect? Poate ați tastat greşit ? Baza de date a raportat: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un rol cu tipul implicit "neconfirmat" îi este necesar să folosească confirmarea prin email.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Făcând click pe butonul de mai jos, veți şterge contul de utilizator %s pentru totdeauna';
 
@@ -68,6 +68,7 @@ $Definition['Heads Up! This is a special role that does not allow active session
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Dacă un logo pentru banner este încărcat, acesta va înlocui titlul banner-ului  pe pagina de forum a utilizatorului';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Dacă doriţi să reduceți nivelul de avertizare eliminați un avertisment';
+$Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Import pe Vanilla';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Atunci când utilizaţi înregistrarea prin invitaţie, utilizatorii vor avea un link numit <a href="%s" class="Popup"> Invitațiile mele</a> pe paginile lor de profil';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Se pare că baza de date specificată nu există încă. Ați creat-o deja? Ați introdus greşit numele? Baza de date a raportat: <code>%s</code>';
@@ -79,7 +80,6 @@ $Definition['Learn about custom routing.'] = 'Mai multe informații despre rutar
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aflaţi cum să schimbați complet aspectul forum-ului: încărcaţi-vă logo-ul, setaţi o pagină de start, alegeţi o temă şi personalizaţi-o';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aflaţi cum să utilizaţi funcţionalitățile de bază ale forumului';
 $Definition['Locales allow you to support other languages on your site.'] = 'Localizările vă permit să sprijiniți și alte limbi pe site-ul dvs. Activați şi dezactivați localizările pe care doriţi să le faceţi disponibile aici';
-$Definition['Locales are in your %s folder.'] = 'Localizările vă permit să sprijiniți și alte limbi pe site-ul dvs. Odată ce o localizare a fost adăugată dosarului %s, o puteţi activa sau dezactiva de aici';
 $Definition['LogoDescription'] = 'Logo-ul banner apare în partea de sus a site-ului. Unele teme nu vorafişa acest logo';
 
 $Definition['Make sure you click View Page'] = 'Asiguraţi-vă că faceţi click pe <a href="%s">Vizualizare pagină</a> pentru a vedea cum va arăta pagina de categorii după salvare';
@@ -88,8 +88,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'D
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Demarcarea Spam va pune elementele înapoi în forum';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesajele pot apărea oriunde în aplicaţia dumneavoastră, şi pot fi utilizate pentru a informa utilizatorii de ştiri şi evenimente. Utilizaţi această pagină pentru a reorganiza mesajele prin drag & drop';
 
-$Definition['Notify me when people comment on my addons.'] = 'Anunţă-mă când oamenii comentează extensiile mele';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Acest site necesită un rol cu tipul implicit "neconfirmat" care să folosească confirmarea prin email. Te rugăm să adaugi unul pentru a activa această setare.';
+$Definition['Notify me when people comment on my addons.'] = 'Anunţă-mă când oamenii comentează extensiile mele';
 
 $Definition['Please choose an authenticator to configure.'] = 'Vă rugăm să alegeţi o autentificator pentru a configura';
 $Definition['PluginHelp'] = 'Plugin-urile vă permit să adăugaţi funcţionalități site-ului dvs. < br / > o dată un plug-in a fost adăugat dosarul %s, puteţi activa sau dezactiva de aici.';
@@ -107,6 +107,10 @@ $Definition['Route Expression'] = 'Expresia traseului';
 $Definition['Routes are used to redirect users.'] = 'Rutele sunt folosite pentru a redirecționa utilizatorii în funcție de URL-ul solicitat.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Căutați utilizatori după nume sau introduceţi un rol pentru a vedea toţi utilizatorii cu acest rol';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Atenție: activați această funcție doar dacă sunteți sigur(ă) că toate subdomeniile dvs. sunt configurate pentru HTTPS cu certificate valide.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Când este activată, această regulă se aplică și tuturor subdomeniilor site-ului dvs.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Vă recomandăm să începeți cu o vârstă maximă de 1 săptămână și apoi să o creșteți la 1 lună, apoi 1 an, după ce vedeți că site-ul dvs. funcționează conform așteptărilor.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Atenție: este foarte bine să acceptați preîncărcarea HSTS ca recomandare. Cu toate acestea, trebuie să vă înregistrați site-ul pe hstspreload.org (de exemplu, pentru a primi protecție completă pentru configurația dorită).';
 $Definition['Select the import source'] = 'Selectaţi sursa de import';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Coloana cu serii \'%s\' nu a reușit să fie deserializată';
 $Definition['Show all possible pocket locations.'] = 'Activați această opțiune pentru a afișa toate locațiile posibile pentru pocketuri. Pornind această opțiune va afișa locațiile posibile doar utilizatorilor care pot administra pocketuri.';

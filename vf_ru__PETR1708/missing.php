@@ -143,6 +143,7 @@ $Definition['This is the administrative dashboard for your new community.'] = 'T
 $Definition['Troll.Content'] = '<b>Troll</b> <ul> <li>This user has been marked as a troll.</li> <li>Their content is only visible to moderators and the troll.</li> <li>This message does not appear for the troll.</li></ul>';
 
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
+$Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Users will be redirected to this URL after accepting an invitation. It can be a full URL or a path to redirect within the site.';
 
 $Definition['ValidateFormat'] = 'You are not allowed to post raw HTML.';
 $Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';

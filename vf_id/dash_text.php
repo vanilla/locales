@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Perhatian!</strong> Menghapus sebuah peran akan berakibat pengguna tidak mempunyai akses lagi ke aplikasi.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Perhatian!</strong> Memindahkan diskusi ke kategori pengganti dapat menyebabkan diskusi menghilang (atau muncul) bila kategori pengganti mempunyai perizinan yang berbeda dari kategori yang dihapus.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Peran dengan tipe default "belum dikonfirmasi" diperlukan untuk menggunakan konfirmasi email.';
 $Definition['About.DisableStatistics'] = 'Bila anda perlu untuk menonaktifkan pelaporan data ini untuk beberapa alasan bisnis, anda dapat melakukannya dengan menambahkan baris kode berikut ini pada file konfigurasi instalasi anda: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Adalah sangat penting bagi kesinambungan status gratis dari perangkat lunak terbuka yang pencapaiannya dan efektivitas dari Vanilla kami ukur dengan akurat. Kami meminta anda agar tidak menonaktifkan pelaporan dari data ini.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla dapat pula digunakan sebagai pengganti dari sistem komentar bawaan dari blog anda. Bahkan sebenarnya, ia dapat digunakan untuk menambah komentar di setiap halaman di situs.';
@@ -14,7 +15,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Sekalipun undangan berhasil dibuat, namun email gagal terkirim. Server melaporkan error berikut: %s';
 $Definition['ApplicationHelp'] = 'Aplikasi memungkinkan anda untuk menambah grup yang lebih besar dari fungsionalitas pada situs anda.<br />Segera setelah aplikasi ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Anda yakin telah mengisi nama host basisdata dengan benar? Mungkin anda salah mengetiknya? Basisdata melaporkan: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Peran dengan tipe default "belum dikonfirmasi" diperlukan untuk menggunakan konfirmasi email.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Dengan mengklik tombol di bawah ini, anda akan menghapus akun pengguna %s selamanya.';
 
@@ -78,7 +78,6 @@ $Definition['Learn about custom routing.'] = 'Pelajari lebih lanjut tentang kost
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Pelajari bagaimana mengubah sepenuhnya tampilan dan rasa forum anda: unggah logo anda, setel laman berandanya, memilih sebuah tema dan menyesuaikannya.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Pelajari bagaimana menggunakan fungsional dasar dari forum anda.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Bahasa mengizinkan Anda mendukung bahasa lainnya pada situs Anda. Aktif dan nonaktifkan bahasa yang Anda inginkan agar tersedia di sini.';
-$Definition['Locales are in your %s folder.'] = 'Dengan Lokal memungkinkan anda untuk mendukung bahasa lainnya pada situs anda. Segera setelah sebuah lokal ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
 $Definition['LogoDescription'] = 'Logo banner tampil di atas situs anda. Beberapa tema mungkin tidak menampilkan logo ini.';
 
 $Definition['Make sure you click View Page'] = 'Pastikan anda klik <a href="%s">Lihat Halaman</a> untuk melihat seperti apa halaman kategori anda setelah disimpan.';
@@ -87,8 +86,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Menandai sesuatu sebagai bukan spam akan menempatkan mereka kembali ke forum anda.';
 $Definition['Messages can appear anywhere in your application.'] = 'Pesan dapat tampil di mana saja dalam aplikasi anda, dan dapat digunakan untuk menginformasikan kepada pengguna anda mengenai berita atau acara baru. Gunakan halaman ini untuk mengorganisir ulang pesan anda dengan menyeretnya ke atas atau bawah. ';
 
-$Definition['Notify me when people comment on my addons.'] = 'Beritahu saya saat orang-orang berkomentar pada addon saya.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Situs ini membutuhkan peran dengan tipe default "unconfirmed" untuk menggunakan email konfirmasi. Harap tambahkan satu untuk mengaktifkan setelan ini.';
+$Definition['Notify me when people comment on my addons.'] = 'Beritahu saya saat orang-orang berkomentar pada addon saya.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Pilih salah satu autentikator untuk mengkonfigurasi';
 $Definition['PluginHelp'] = 'Plugin memungkinkan anda untuk menambah fungsionalitas situs anda.<br />Segera setelah sebuah plugin ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
@@ -106,6 +105,10 @@ $Definition['Route Expression'] = 'Ekspresi Route';
 $Definition['Routes are used to redirect users.'] = 'Route dapat digunakan untuk mengalihkan pengguna ke bermacam bagian dari situs anda tergantung dari url-nya.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Pencarian pengguna berdasarkan nama atau masukkan nama dari peran untuk melihat semua pengguna dengan peran tersebut.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Peringatan: Aktifkan fitur ini hanya jika Anda yakin semua subdomain Anda dikonfigurasikan untuk HTTPS dengan sertifikat yang valid.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Saat diaktifkan, aturan ini juga berlaku untuk semua subdomain situs Anda.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Kami menyarankan mulai dengan usia maksimal 1 minggu dan kemudian meningkat menjadi 1 bulan kemudian 1 tahun setelah Anda melihat situs Anda berfungsi seperti yang diharapkan.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Peringatan: Sangat bagus untuk mendukung prapemuatan HSTS sebagai praktik terbaik. Namun, Anda harus mengajukan situs Anda ke hstspreload.org untuk memastikan bahwa situs tersebut berhasil menjalankan proses prapemuatan (yaitu untuk mendapatkan perlindungan penuh untuk konfigurasi yang dimaksud).';
 $Definition['Select the import source'] = 'Pilih sumber impor';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Kolom terserialisasi "%s" gagal untuk tidak diserialisasikan.';
 $Definition['Show all possible pocket locations.'] = 'Nyalakan opsi ini untuk menampilkan semua peluang lokasi pocket. Menyalakan opsi ini akan hanya menampilkan saja kepada pengguna bahwa mereka bisa mengelola pocket.';

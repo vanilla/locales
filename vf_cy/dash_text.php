@@ -14,6 +14,7 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Er i\'r gwahoddiad gael ei greu\'n llwyddiannus, ni lwyddwyd anfon yr ebost. Adroddodd y gweinydd y gwall canlynol: %s';
 $Definition['ApplicationHelp'] = 'Mae rhaglenni yn caniatáu i chi ychwanegu grwpiau mawr o ffwythiannau i\'ch safle. < br / > unwaith y bydd rhaglen wedi\'i ychwanegu at eich ffolder %s, gallwch ei alluogi neu analluogi yma.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ydych chi\'n siŵr bod wedi rhoi enw\'r gweinydd cronfa ddata cywir? Ydych chi wedi ei gamdeipio? Adroddodd y gronfa ddata: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Mae angen rōl gyda\'r math diofyn "heb ei gadarnhau" er mwyn gallu defnyddio e-bost cadarnhau.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Drwy glicio ar y botwm isod, byddwch yn dileu cyfrif defnyddiwr ar gyfer %s am byth.';
 
@@ -79,7 +80,6 @@ $Definition['Learn about custom routing.'] = 'Dysgwch am lwybro personol.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Dysgwch sut i newid naws eich fforwm yn llwyr: uwchlwytho eich logo, gosod eich hafan, dewisw thema ac addasu.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Dysgu sut i ddefnyddio swyddogaeth sylfaenol eich Fforwm.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Mae\'r locales yn caniatáu ichi gefnogi ieithoedd eraill ar eich safle. Galluogwch neu analluogwch y locales yr hoffech eu darparu yma.';
-$Definition['Locales are in your %s folder.'] = 'Mae\'r locales yn caniatáu ichi gefnogi ieithoedd eraill ar eich safle. Unwaith mae\'r locale wedi\'i ychwanegu at eich ffolder %s, gallwch ei alluogi neu analluogi yma.';
 $Definition['LogoDescription'] = 'Mae\'r logo baner yn ymddangos ar frig eich safle. Efallai na fydd rhai themâu yn arddangos y logo hwn.';
 
 $Definition['Make sure you click View Page'] = 'Gofalwch glicio <a href="%s"> golwg tudalen</a> i weld sut mae\'ch tudalen gategorïau yn edrych ar ôl arbed.';
@@ -89,6 +89,7 @@ $Definition['Marking things as not spam will put them back in your forum.'] = 'B
 $Definition['Messages can appear anywhere in your application.'] = 'Gall negeseuon ymddangos unrhyw le yn y rhaglen, a gellir eu defnyddio i roi gwybod i\'ch defnyddwyr am newyddion a digwyddiadau. Defnyddiwch y dudalen hon i ail-drefnu eich negeseuon drwy eu llusgo i fyny neu i lawr.';
 
 $Definition['Notify me when people comment on my addons.'] = 'Rhoi gwybod i mi pan mae pobl yn gwneud sylwadau ar fy ychwanegion';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Mae angen rôl ar y safle gyda\'r math diofyn "heb ei gadarnhau" er mwyn defnyddio ebost cadarnhau. Ychwanegwch un i alluogi\'r gosodiad hwn.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Dewiswch ddilyswr i\'w ffurfweddu.';
 $Definition['PluginHelp'] = 'Mae ategion yn caniatáu i chi ychwanegu ffwythiannau i\'ch safle. < br / > unwaith mae ategyn wedi\'i ychwanegu i\'ch ffolder %s, gallwch ei alluogi neu analluogi yma.';
@@ -157,4 +158,5 @@ Os ydych yn Mewnforio ffeil fawr iawn (e.e. dros 200,000 o sylwadau), ystyriwch 
 $Definition['Warning: This is for advanced users.'] = '<b>Rhybudd</b>: Mae hyn ar gyfer defnyddwyr profiadol ac yn gofyn am wneud newidiadau ychwanegol i weinydd eich gwefan. Fel arfer mae angen gwesteio neilltuedig neu vps ar gyfer hyn. Peidiwch ceisio gwneud hyn os nad ydych yn gwybod beth rydych yn ei wneud.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Gallwch gysylltu â safleoedd lluosog sy\'n cefnogi jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Os yw\'ch ffeil yn rhy fawr i\'w lwytho\'n uniongyrchol i\'r dudalen hon, gallwch ei roi yn eich ffolder /llwytho. Sicrhewch fod enw\'r ffeil yn dechrau gyda\'r gair <b> export </b> ac diweddu gydag un o <b> .txt, .gz </b>.';
 $Definition['You must select a file to import.'] = 'Rhaid i chi ddewis ffeil i\'w mewnforio.';

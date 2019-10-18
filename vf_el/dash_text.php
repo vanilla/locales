@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Προσοχή!</strong> Η διαγραφή ενός ρόλου μπορεί να έχει ως αποτέλεσμα οι χρήστες να μην έχουν πρόσβαση στην εφαρμογή.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Προσοχή!</strong> Η μετακίνηση συζητήσεων σε νέες κατηγορίες μπορεί να έχει ως αποτέλεσμα να εξαφανισθούν (ή να εμφανισθούν) αν η αντικαθιστώσα κατηγορία έχει διαφορετικά δικαιώματα από αυτήν που διαγράφεται.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Ένας ρόλος με προεπιλεγμένο τύπο "unconfirmed" απαιτείται για να χρησιμοποιήσετε την επιβεβαίωση ηλεκτρονικού ταχυδρομείου.';
 $Definition['About.DisableStatistics'] = 'Αν πρέπει να διαγράψετε αυτά τα στοιχεία για κάποιο λόγο, μπορείτε να προσθέσετε την ακόλουθη γραμμή στο αρχείο ρυθμίσεων της εγκατάστασής σας:
 <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Είναι εξαιρετικά σημαντικό για τη βιωσιμότητα αυτού του δωρεάν προγράμματος ανοικτού λογισμικού να μπορούμε να μετρούμε με ακρίβεια την απήχηση και την αποτελεσματικότητα του Vanilla. Σας ζητούμε να μην απενεργοποιήσετε την αναφορά αυτών των δεδομένων.';
@@ -15,7 +16,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Αν και η πρόσκληση δημιουργήθηκε με επιτυχία, απέτυχε η αποστολή του μηνύματος. Ο εξυπηρετητής απάντησε με το ακόλουθο σφάλμα: %s';
 $Definition['ApplicationHelp'] = 'Οι Εφαρμογές σας επιτρέπουν να προσθέτετε μεγάλες ομάδες λειτουργικότητας στο χώρο σας.<br />Όταν μια εφαρμογή προστεθεί στο φάκελο %s, μπορείτε να την ενεργοποιήσετε ή να την απενεργοποιήσετε εδώ.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Είστε σίγουρος ότι δώσατε το σωστό όνομα εξυπηρετητή της βάσης δεδομένων; Μήπως το πληκτρολογήσατε λάθος; Η βάση δεδομένων ανέφερε: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Ένας ρόλος με προεπιλεγμένο τύπο "unconfirmed" απαιτείται για να χρησιμοποιήσετε την επιβεβαίωση ηλεκτρονικού ταχυδρομείου.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Αν κάνετε κλικ στο παρακάτω πλήκτρο, θα σβύσετε το λογαριασμό χρήστη του %s για πάντα.';
 
@@ -79,7 +79,6 @@ $Definition['Learn about custom routing.'] = 'Μάθετε σχετικά με �
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Μάθετε πως να αλλάξετε εντελώς την όψη του φόρουμ σας: ανεβάστε το λογότυπό σας, ορίστε την αρχική σας σελίδα, επιλέξτε ένα θέμα και τροποποιήστε τον.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Μάθετε πώς να χρησιμοποιείτε τις βασικές λειτουργίες του φόρουμ σας.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Οι τοποθεσίες σας επιτρέπουν να υποστηρίζετε άλλες γλώσσες στην ιστοσελίδα σας.';
-$Definition['Locales are in your %s folder.'] = 'Οι μεταφράσεις σας επιτρέπουν να υποστηρίζετε άλλες γλώσσες στο χώρο σας. Όταν μία μετάφραση προστεθεί στο φάκελο %s, μπορείτε να την ενεργοποιήσετε ή να την απενεργοποιήσετε εδώ';
 $Definition['LogoDescription'] = 'Το λογότυπο εμφανίζεται στο επάνω μέρος του χώρου σας. Κάποαι θέματα μπορεί να μην εμφανίσουν αυτό το λογότυπο.';
 
 $Definition['Make sure you click View Page'] = 'Βεβαιωθείτε ότι κάνατε κλικ στο <a href="%s">Εμφάνιση Σελίδας</a> για να δείτε πως θα φαίνεται η σελίδα των κατηγοριών μετά την αποθήκευση.';
@@ -88,8 +87,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Το μαρκάρισμα πραγμάτων ως όχι spam θα τα βάλει πάλι πίσω στο φόρουμ σας.';
 $Definition['Messages can appear anywhere in your application.'] = 'Τα μηνύματα μπορούν να εμφανισθούν οπουδήποτε στην εφαρμογή σας και μπορεί να χρησιμοποιηθούν για να ενημερώσουν τους χρήστες σας για νέα και για γεγονότα. Χρησιμοποιήστε αυτή τη σελίδα για να αναδιοργανώσετε τα μηνύματα σέρνοντάς τα επάνω ή κάτω.';
 
-$Definition['Notify me when people comment on my addons.'] = 'Ειδοποίησέ με όταν οι άλλοι σχολιάζουν τα πρόσθετά μου.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Ο ιστότοπος χρειάζεται ένα ρόλο με προεπιλεγμένο τύπο "unconfirmed" για να χρησιμοποιήσει την επιβεβαίωση μέσω ηλεκτρονικού ταχυδρομείου. Προσθέστε ένα για να ενεργοποιήσετε αυτή τη ρύθμιση.';
+$Definition['Notify me when people comment on my addons.'] = 'Ειδοποίησέ με όταν οι άλλοι σχολιάζουν τα πρόσθετά μου.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Παρακαλούμε διαλέξτε έναν ελεγκτή ταυτότητας για να τον ρυθμίσετε.';
 $Definition['PluginHelp'] = 'Τα Plugins σας επιτρέπουν την προσθήκη λειτουργικότητας στην ιστοσελίδα σας.<br />Μόλις ένα plugin έχει προστεθεί στο %s φάκελο σας, μπορείτε να το ενεργοποιήσετε ή να το απενεργοποιήσετε εδώ.';
@@ -107,6 +106,10 @@ $Definition['Route Expression'] = 'Έκφραση Δρομολόγησης';
 $Definition['Routes are used to redirect users.'] = 'Οι δρομολογήσεις χρησιμοποιούνται για να ανακατευθύνουν τους χρήστες ανάλογα με τη διεύθυνση URL που ζητήθηκε.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Αναζητήστε για χρήστες με βάση το όνομα ή εισάγετε το όνομα ενός ρόλου για να δείτε όλους τους χρήστες με αυτόν το ρόλο.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Προειδοποίηση: Ενεργοποιήστε αυτήν τη λειτουργία μόνο αν είστε βέβαιοι ότι όλοι οι υποτομείς σας έχουν ρυθμιστεί για HTTPS με έγκυρα πιστοποιητικά.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Όταν είναι ενεργοποιημένος, αυτός ο κανόνας ισχύει και για όλους τους υποτομείς του ιστότοπού σας.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Σας συνιστούμε να αρχίσετε με μέγιστη περίοδο 1 εβδομάδας και στη συνέχεια να την αυξήσετε σε 1 μήνα και κατόπιν σε 1 χρόνο αφού δείτε ότι ο ιστότοπός σας λειτουργεί όπως αναμένεται.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Προειδοποίηση: Είναι σημαντικό να υποστηρίζετε την προφόρτωση HSTS ως βέλτιστη πρακτική. Ωστόσο, πρέπει να υποβάλετε τον ιστότοπό σας στον hstspreload.org για να βεβαιωθείτε ότι είναι επιτυχώς προ-φορτωμένος (δηλ. για να έχετε πλήρη προστασία της προτιθέμενης διαμόρφωσης).';
 $Definition['Select the import source'] = 'Επιλέξτε την πηγή εισαγωγής';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Η σειριοποιημένη στήλη «%s» απέτυχε να απο-σειριοποιηθεί.';
 $Definition['Show all possible pocket locations.'] = 'Ενεργοποιήστε αυτή την επιλογή για να εμφανίσετε όλες τις πιθανές τοποθεσίες θυλάκων. Ενεργοποιώντας αυτή την επιλογή θα εμφανίζεται μόνο τις τοποθεσίες σε χρήστες που μπορούν να διαχειριστούν θύλακες.';

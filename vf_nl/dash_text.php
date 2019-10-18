@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Opgelet!</strong> Het verwijderen van een rol kan ertoe leiden dat gebruikers geen toegang kunnen krijgen tot de applicatie.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Opgelet!</strong> Het verplaatsen van discussies naar een vervangende categorie kan leiden tot discussies die verdwijnen (of verschijnen) als de vervangende categorie andere permissies heeft dan de categorie die wordt verwijderd.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Een rol met standaardtype "niet-bevestigd" is vereist om e-mailbevestiging te gebruiken.';
 $Definition['About.DisableStatistics'] = 'Indien je de datarapportage vanwege bedrijfsredenen moet uitschakelen, kun je dat doen door de volgende regel toe te voegen aan het configuratiebestand van je installatie: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Het is essentieel voor het voortbestaan van deze gratis open-source software dat we het bereik en de effectiviteit van Vanilla nauwkeurig meten. We vragen je om a.u.b. de rapportage van deze gegevens niet uit te schakelen.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla kan worden gebruikt als een directe vervanging voor het reactiesysteem op je blog. Sterker nog, het kan gebruikt worden om reacties toe te voegen aan elke pagina op het web.';
@@ -14,7 +15,6 @@ $Definition['All categories listed with a selection of 5 recent discussions unde
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Hoewel de uitnodiging succesvol is gemaakt, kon de e-mail niet worden verzonden. De server gaf deze foutmelding: %s';
 $Definition['ApplicationHelp'] = 'Met applicaties kun je grote groepen van functionaliteit toevoegen aan je site.<br />Zodra een applicatie is toegevoegd aan je map %s, kan je die op deze pagina in- of uitschakelen.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Weet je zeker van dat je de goede database hostnaam hebt ingevuld? Misschien heb je het verkeerd ingetypt? De database gaf dit aan: <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Een rol met standaardtype "niet-bevestigd" is vereist om e-mailbevestiging te gebruiken.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Door op de onderstaande knop te klikken, verwijder je het gebruikersaccount van %s permanent.';
 
@@ -80,7 +80,6 @@ $Definition['Learn about custom routing.'] = 'Leer over aangepaste routes.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Leer hoe je het uiterlijk van je forum compleet kan veranderen: upload je logo, maak je hoofdpagina, kies een thema en pas het aan.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Leer hoe je de basisfunctionaliteit van je forum kan gebruiken.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales maken het mogelijk om andere talen op je site te ondersteunen. Schakel locaties die je beschikbaar wilt maken hier in en uit.';
-$Definition['Locales are in your %s folder.'] = 'Locales maken het mogelijk om andere talen op je site te ondersteunen. Zodra een locale is toegevoegd aan de map %s , kan je het op deze pagina in- of uitschakelen.';
 $Definition['LogoDescription'] = 'Het bannerlogo wordt aan de bovenkant van je site getoond. Sommige thema\'s zullen dit logo niet tonen.';
 
 $Definition['Make sure you click View Page'] = 'Zorg ervoor dat je  <a href="%s">Bekijk pagina</a> aanklikt om te zien hoe je categoriepagina\'s eruitzien na het opslaan.';
@@ -89,8 +88,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'H
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Het markeren van dingen als geen spam zal ze terugzetten op je forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Berichten kunnen overal in de applicatie verschijnen en kunnen worden ingezet om je gebruikers te informeren over nieuws en evenementen. Gebruik deze pagina om de berichten te ordenen door ze omhoog of omlaag te verslepen.';
 
-$Definition['Notify me when people comment on my addons.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn add-ons.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'De site heeft een rol nodig met standaardtype "niet bevestigd" om e-mailbevestiging te gebruiken. Voeg er een toe om deze instelling in te schakelen.';
+$Definition['Notify me when people comment on my addons.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn add-ons.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Kies de verificator die je wilt configureren.';
 $Definition['PluginHelp'] = 'Met plug-ins kan je functionaliteit aan je site toevoegen.<br />Zodra een plugin is toegevoegd aan de map %s, kan je hem op deze pagina in- of uitschakelen.';
@@ -108,6 +107,10 @@ $Definition['Route Expression'] = 'Route-expressie';
 $Definition['Routes are used to redirect users.'] = 'Routes worden gebruikt om gebruikers door te verwijzen, afhankelijk van de URL.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Zoek gebruikers bij naam of voer de naam van een rol in om alle gebruikers met die rol te zien.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Waarschuwing: Schakel deze functie alleen in als je er zeker van bent dat alle subdomeinen geconfigureerd zijn voor HTTPS met geldige certificaten.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Wanneer ingeschakeld geldt deze regel ook voor alle subdomeinen van je site. ';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'We raden aan om met een maximale tijd van 1 week te beginnen en deze vervolgens met 1 maand en dan 1 jaar te verhogen, zodra je ziet dat je site werkt als verwacht. ';
+$Definition['Security.Hsts.SubmitWarning'] = 'Waarschuwing: Het is geweldig om HSTS-preloading te steunen als de optimale werkwijze. Je dient echter je site aan te melden bij hstspreload.org om ervoor te zorgen dat deze succesvol gepreload is (d.w.z. om de volledige bescherming van de bedoelde configuratie te krijgen).';
 $Definition['Select the import source'] = 'Selecteer een importeerbron';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Gecodeerde kolom "%s" kon niet gedecodeerd worden. ';
 $Definition['Show all possible pocket locations.'] = 'Zet deze optie aan om alle mogelijke pocketlocaties te zien. Het aanzetten van deze optie zal de locaties alleen tonen aan gebruikers die pockets mogen aanpassen.';

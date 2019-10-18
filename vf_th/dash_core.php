@@ -90,16 +90,26 @@ $Definition['Ban Type'] = 'Condition Type';
 
 $Definition['Condition Expression'] = 'ค่า';
 
+$Definition['Decline'] = 'ปฏิเสธ';
+$Definition['default type'] = 'ค่าเริ่มต้น';
+$Definition['Description'] = 'คำอธิบาย';
+$Definition['Disable'] = 'ปิดใช้งาน';
+$Definition['Disabled'] = 'ปิดใข้งานอยู่';
 $Definition['DownloadLocalePack'] = 'ดาวน์โหลด';
+
+$Definition['Enable'] = 'เปิดใช้งาน';
 
 $Definition['Notes'] = 'หมายเหตุ';
 
+$Definition['On'] = 'เปิด';
 $Definition['Operation By'] = 'โดย';
 
 $Definition['Permission.Category'] = 'หมวดหมู่';
+$Definition['Polls'] = 'โพล';
 
 $Definition['The content you were looking for has been deleted.'] = 'เนื้อหาที่คุณต้องการดูถูกลบไปแล้ว';
 
+$Definition['User Count'] = 'ผู้ใช้งาน';
 $Definition['UserKeep'] = 'เก็บเนื้อหาของผู้ใช้';
 
 $Definition['Why do you want to join?'] = 'ทำไมคุณต้องการที่จะเข้าร่วม ?';

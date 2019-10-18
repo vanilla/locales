@@ -123,6 +123,10 @@ $Definition['Route Expression'] = '루트 표현';
 $Definition['Routes are used to redirect users.'] = '루트는 요청된 URL에 따라 사용자에게 다시 연결(redirect)하기 위해 사용됩니다.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = '이름으로 사용자를 검색하거나 역할 이름을 입력하여 해당 역할을 맡은 사용자 모두를 확인하세요.';
+$Definition['Security.Hsts.HTTPSWarning'] = '경고: 모든 서브도메인이 유효한 인증서를 통해 HTTPS를 사용하는 것으로 구성된 것이 확실할 경우에만 이 기능을 활성화하십시오.';
+$Definition['Security.Hsts.IncludeSubDomains'] = '활성화할 경우, 해당 룰이 귀하의 사이트의 모든 서브도메인에도 적용됩니다.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = '최대 수명을 1주로 시작한 후에 귀하의 사이트가 정상적으로 작동되는 것을 확인하면서 1개월, 1년으로 늘려가는 것을 권장드립니다.';
+$Definition['Security.Hsts.SubmitWarning'] = '경고: HSTS 프리로딩을 모범 사례로서 지원하게 되어 기쁩니다. 다만, 귀하의 사이트가 성공적으로 프리로드되게 하려면 (즉, 설정에서 의도한 대로 완전한 프로텍션을 받으려면) hstspreload.org에 사이트를 제출해 주셔야 합니다.';
 $Definition['Select the import source'] = '가져오기 소스를 선택하세요';
 $Definition['Serialized column "%s" failed to be unserialized.'] = '직렬화된 칼럼 "%s"을(를) 직렬화 해제하는데 실패하였습니다.';
 $Definition['Show all possible pocket locations.'] = '포켓의 가능한 위치를 모두 보여주려면 이 옵션을 사용하세요. 이 옵션을 켜면 사용자가 포켓을 관리할 수 있는 위치만을 보여줍니다. ';

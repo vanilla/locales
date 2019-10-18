@@ -80,7 +80,6 @@ $Definition['Learn about custom routing.'] = 'Tìm hiểu về tuyến đường
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Tìm hiểu cách làm thế nào để thay đổi giao diện của diễn đàn: tải lên logo, thiết lập trang chủ, chọn một chủ đề và tùy chỉnh nó.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Học cách làm thế nào để sử dụng các chức năng cơ bản của diễn đàn.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Địa phương hóa cho phép bạn hỗ trợ các ngôn ngữ khác trên trang. Bật hoặc tắ ngôn ngữ bạn muốn tại đây.';
-$Definition['Locales are in your %s folder.'] = 'Địa phương hóa cho phép bạn hỗ trợ các ngôn ngữ khác trên trang. Ngôn ngữ sẽ được thêm vào thư mục %s, bạn có thể bật hoặc tắ ngôn ngữ bạn muốn tại đây.';
 $Definition['LogoDescription'] = 'Biểu tượng biểu ngữ xuất hiện ở phía trên cùng của trang web. Một số chủ đề không hiển thị biểu tượng này.';
 
 $Definition['Make sure you click View Page'] = 'Hãy đảm bảo bạn đã bấm vào <a href="%s">Xem trang</a> để xem trang danh mục sau khi lưu trông như thế nào.';
@@ -108,6 +107,10 @@ $Definition['Route Expression'] = 'Biểu hiện định tuyến';
 $Definition['Routes are used to redirect users.'] = 'Các đường truyền này được dùng để chuyển hướng người dùng tuỳ vào địa chỉ URL được yêu cầu.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Tìm kiếm người dùng theo tên, hoặc nhập tên của một vai trò để xem tất cả các người dùng co vai trò đó.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Lưu ý: Chỉ bật tính năng này nếu bạn chắc chắn rằng tất cả các tên miền phụ của mình được định cấu hình cho HTTPS với chứng chỉ hợp lệ.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Khi bật, quy tắc này cũng áp dụng cho tất cả các tên miền phụ của trang web mà bạn sở hữu.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'Bạn nên bắt đầu với vòng đời tối đa là 1 tuần, sau đó tăng lên 1 tháng, rồi tăng lên 1 năm sau khi bạn thấy trang web của mình hoạt động như dự kiến.';
+$Definition['Security.Hsts.SubmitWarning'] = 'Lưu ý: Cách tốt nhất là bạn nên hỗ trợ tính năng tải trước HSTS. Tuy nhiên, bạn phải gửi trang web của mình đến hstspreload.org để đảm bảo rằng trang web đó được tải trước thành công (tức là nhận được sự bảo vệ toàn diện cho cấu hình mong muốn).';
 $Definition['Select the import source'] = 'Chọn nguồn nhập';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
 $Definition['Show all possible pocket locations.'] = 'Bật tùy chọn này để hiển thị tất cả các địa điểm của túi. Bật tùy chọn này sẽ chỉ hiển thị các địa điểm để người dùng có thể quản lý túi.';

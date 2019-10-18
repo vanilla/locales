@@ -109,6 +109,10 @@ $Definition['Routes are used to redirect users.'] = 'تُستخدم المسار
 ';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'ابحث عن المستخدمين بالاسم أو أدخل اسم الدور لرؤية جميع المستخدمين الذين لديهم هذا الدور.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'تحذير: قم بتمكين هذه الميزة فقط إذا كنت متأكداً من أن جميع مجالاتك الفرعية مهيئة لـ HTTPS مع شهادات صالحة.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'عند التمكين فستنطبق هذه القاعدة على جميع المجالات الفرعية لموقعك كذلك.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'نوصي بالبدء بعمرٍ يبلغ أسبوعاً 1 كحد أقصى ثم زيادته إلى شهرٍ 1 ثم سنة 1 بمجرد رؤية أن موقعك يعمل كما هو متوقع.';
+$Definition['Security.Hsts.SubmitWarning'] = 'تحذير: من الرائع دعم التحميل المسبق HSTS كأفضل ممارسة، ومع ذلك يجب عليك إرسال موقعك إلى hstspreload.org لضمان تحميله مسبقاً بنجاح (أي للحصول على الحماية الكاملة للتهيئة المقصودة).';
 $Definition['Select the import source'] = 'حدد مصدر الاستيراد';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'فشل العمود المتسلسل "%s" في أن يكون غير متسلسل.';
 $Definition['Show all possible pocket locations.'] = 'قم بتشغيل هذا الخيار لإظهار جميع مواقع الجيب الممكنة. يؤدي تشغيل هذا الخيار إلى إظهار المواقع للمستخدمين الذين يمكنهم إدارة الجيوب فقط.';

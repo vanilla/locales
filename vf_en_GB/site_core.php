@@ -1,5 +1,7 @@
 <?php
 
+$Definition['%s New Plural'] = '%s New';
+
 $Definition['Align center'] = 'Align centre';
 $Definition['Approve Applicant'] = 'Approve';
 
@@ -23,6 +25,7 @@ $Definition['FileSize'] = 'File Size';
 
 $Definition['Not Authorized (401)'] = 'Not Authorised (401)';
 
+$Definition['Organize'] = 'Organise';
 $Definition['Organize discussion categories'] = 'Organise discussion categories';
 $Definition['Organizer'] = 'Organiser';
 $Definition['Organize your Categories'] = 'Organise your Categories';

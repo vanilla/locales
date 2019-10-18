@@ -80,7 +80,6 @@ $Definition['Learn about custom routing.'] = 'کسب اطلاع در مورد م
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'يادبگيريد چگونه كاملاً‌ظاهر انجمن خود را تغيير دهيد : لوگوي خود را آپلود كنيد، صفحه اصلي خود را تنظيم كنيد، قالبي را انتخاب و سفارشي كنيد.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'يادبگيريد چگونه از قابليتهاي ابتدايي انجمن خود استفاده كنيد.';
 $Definition['Locales allow you to support other languages on your site.'] = 'بومي سازي به شما اجازه ميدهد تا از ديگر زبان ها را بر روي سايت خود پشتيباني كنيد. زبان هاي موجودي را كه مايل هستيد را ميتوانيد از اينجا فعال يا غيرفعال كنيد.';
-$Definition['Locales are in your %s folder.'] = 'بومي سازي به شما اجازه ميدهد تا از ديگر زبان ها را بر روي سايت خود پشتيباني كنيد. هنگامي كه زباني به پوشه %s اضافه كرديد، ميتوانيد از اينجا آن را فعال يا غيرفعال كنيد.';
 $Definition['LogoDescription'] = 'لوگوي بنر در بالاي سايت شما نمايش داده ميشود. بعضي از قالب ها شايد اين لوگو را نمايش ندهند.';
 
 $Definition['Make sure you click View Page'] = 'براي ديدن ظاهر صفحه دسته بندي هاي خود پس از ذخيره كردن مطمئن شويد كه بر روي <a href="%s"> نمايش صفحه </a> كليك كنيد.';

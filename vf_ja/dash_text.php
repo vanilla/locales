@@ -107,6 +107,10 @@ $Definition['Route Expression'] = 'ルート式';
 $Definition['Routes are used to redirect users.'] = 'ルートは、要求されたURLに応じてユーザーをリダイレクトするために使用されます。';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'ユーザー名またはロール (管理者:<input type="text" value="Administrator" size="13" onclick="this.select()" />, 申請者:<input type="text" value="Applicant" size="9" onclick="this.select()" />, 利用禁止:<input type="text" value="Banned" size="6" onclick="this.select()" />, ゲスト:<input type="text" value="Guest" size="5" onclick="this.select()" />, メンバー:<input type="text" value="Member" size="7" onclick="this.select()" />, モデレータ:<input type="text" value="Moderator" size="10" onclick="this.select()" />, メール確認待ち:<input type="text" value="Confirm Email" size="15" onclick="this.select()" />) で検索します。';
+$Definition['Security.Hsts.HTTPSWarning'] = '警告：全てのサブドメインに有効な証明書があり、HTTPSに完全対応していることを確認できた場合にのみ、この機能を有効にしてください。';
+$Definition['Security.Hsts.IncludeSubDomains'] = '有効にすると、このルールはあなたのサイトのサブドメイン全てに対しても適用されます。';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'サイトが想定通りに動くのを確認してから、まず最大1週間試してみて、1月、1年と段階的に延長するのがお勧めです。';
+$Definition['Security.Hsts.SubmitWarning'] = '警告：HSTSプリロードをベストプラクティスとして適用するのは素晴らしいことです。しかし、ご自分のサイトをhstspreload.orgでチェックして、きちんとプリロードされるか確認しなければなりません（設定通り完全に保護された状態にするため）。';
 $Definition['Select the import source'] = 'インポート元を選択する';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'シリアライズされたカラム"%s"のシリアライズを解除できませんでした。';
 $Definition['Show all possible pocket locations.'] = 'このオプションを有効にして、利用可能なポケット ロケーションをすべて表示します。このオプションを有効にすることで表示されるロケーションは、ユーザーが管理できるポケットのロケーションだけです。';

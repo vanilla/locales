@@ -79,7 +79,6 @@ $Definition['Learn about custom routing.'] = 'Ithute ka mokgwa o tlwaetšwego.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Ithute kamoo o ka fetošago ka botlalo ponagalo ya foramo ya gago gomme o kwe: tsenya lloko ya gago, beakanya letlakala la gago la mathomo, kgetha sehlogo gomme o tlwaelane le sona.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Ithute kamoo o ka dirišago go šoma ga motheo ga foramo ya gago.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Mafelo a go dumelela go thekga maleme a mangwe wepesaeteng ya gago. Bula le go tswalela mafelo ao o nyakago gore a be gona mo.';
-$Definition['Locales are in your %s folder.'] = 'Mafelo a go dumelela go thekga maleme a mangwe wepesaeteng ya gago. Ge lefelo le tsentšwe foltareng ya gago ya %s, o ka e bula goba wa e tswalela mo.';
 $Definition['LogoDescription'] = 'Leswao la sehlogo le bonala kua godimo ga wepesaete ya gago. Dihlogo tše dingwe di ka no se bontšhe leswao le.';
 
 $Definition['Make sure you click View Page'] = 'Kgonthišega gore o kgotla <a href="%s">Bona Letlakala</a> go bona gore letlakala la gago la magoro le bjang ka morago ga go boloka.';

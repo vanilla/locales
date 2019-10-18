@@ -3,6 +3,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>זהירות!</strong> מחיקת תפקיד עלולה למנוע מהמשתמש גישה לתוכנה.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>זהירות!</strong> הזזת דיונים לקטגוריה חלופית עלולה לגרום להעילמותם (או הופעתם) של דיונים אם לקטגוריה החדשה יש הרשאות שונות משל זו המקורית.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'תפקיד עם סוג ברירת המחדל "לא מאושר" נדרש להשתמש אישור דוא"ל.';
 $Definition['About.DisableStatistics'] = 'אם הינכם חייבים לבטל דיווח נתונים זה מסיבות עסקיות כלשהן, תוכלו לעשות זאת ע"י הוספת השורה הנ"ל לקובץ הקונפיגורציה: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'זה חשוב בצורה משמעותית לחיי תוכנת הקוד פתוח החינמית הזאת שאנו נמדוד את היעילות של ונילה. אנו מבקשים ממך אנא אל תבטל את דיווח המידע.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla יכולה לשמש כתחליף למערכת התגובות המקורית של הבלוג שלך. למעשה, היא יכולה לשמש להוספת תגובות לכל דף באינטרנט. ';
@@ -16,7 +17,6 @@ $Definition['ApplicationHelp'] = 'אפליקציות מאפשרות לך להו�
 ברגע שהאפליקציה נמצאת בתיקיית %s , תוכל לאפשר או לכבות אותה כאן.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'הנכם בטוחים שכתבתם את שם השרת המארח בצורה תקינה? אולי שגית בהקלדה? תגובה השרת היתה:
 <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'תפקיד עם סוג ברירת המחדל "לא מאושר" נדרש להשתמש אישור דוא"ל.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'על ידי לחיצה על הכפתור שמלמטה, תמחק את רשומות המשתמש של %s לצמיתות.';
 
@@ -81,7 +81,6 @@ $Definition['Learn about custom routing.'] = 'למד/י על ניתוב מותא
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'למד איך לשנות חלוטין את המראה וההרגשה של הפורום: הוסף לוגו, קבע את הפורום כדף הבית, בחר ערכת נושא ותעצב את הפורום לפי טעמך האישי.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'הדרכה על האפשרויות הבסיסיות של הפורום';
 $Definition['Locales allow you to support other languages on your site.'] = 'איזורים מאפשרים לך לתמוך בשפות אחרות באתר שלך. אפשר ובטל איזורים שאתרצה להפוך לזמינים כאן.';
-$Definition['Locales are in your %s folder.'] = 'איזורים מאפשרים לך לתמוך בשפות אחרות באתר שלך. ברגע שאיזור הוסף לתקיית ה-%s שלך, באפשרותך לאפשר או לבטל אותו כאן.';
 $Definition['LogoDescription'] = 'לוגו הבאנר מופיע בראש העמוד שלך. חלק מערכות הנושא עלולות שלא להציג את הלוגו הזה.';
 
 $Definition['Make sure you click View Page'] = 'וודאו לחיצה ב<a href="%s">צפה בדף</a> על מנת לראות כיצד דף הקטגוריות שלך נראה לאחר שמירה.';
@@ -90,8 +89,8 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'סימון דברים כלא ספאם יחזיר אותם אל הפורום.';
 $Definition['Messages can appear anywhere in your application.'] = 'הודעות יכולות להופיע בכל מקום בתוך התוכנה שלך, ויכולות לשמש על מנת להודיע למשתמשים על אירועים או חדשות. השתמש בעמוד זה על מנת לארגן את ההודעות שלך על ידי גרירתם ממקום למקום.';
 
-$Definition['Notify me when people comment on my addons.'] = 'תודיע לי כשמשתמשים מגיבים על התוספים שלי.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'האתר צריך תפקיד עם סוג ברירת המחדל "לא מאושר" להשתמש אישור דוא"ל. הוסף אחד כדי לאפשר הגדרה זו.';
+$Definition['Notify me when people comment on my addons.'] = 'תודיע לי כשמשתמשים מגיבים על התוספים שלי.';
 
 $Definition['Please choose an authenticator to configure.'] = 'אנא בחר מאמת כדי להגדיר.';
 $Definition['PluginHelp'] = 'תוספים מאפשרים לך להוסיף פונקציונליות לאתר שלך. <br />ברגע שתוסף הוסף לתיקיית ה-%s שלך, באפשרותך לאפשר או לבטל אותו כאן.';
@@ -109,6 +108,10 @@ $Definition['Route Expression'] = 'שם הנתיב';
 $Definition['Routes are used to redirect users.'] = 'נעשה שימוש בנתבים כדי לנתב מחדש משתמשים בהתאם ל-URL המבוקש.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'חפש משתמשים לפי שם או לפי שם התפקיד כדי לצפות בכל המשתמשים עם התפקיד הזה.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'אזהרה: יש לאפשר תכונה זו רק אם את/ה בטוח/ה שכל תחומי המשנה שלך מוגדרים ל-HTTPS עם הרשאות תקפות.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'במצב מאופשר, חוק זה חל גם על כל תחומי המשנה באתר שלך.';
+$Definition['Security.Hsts.MaxAgeRecommendation'] = 'אנו ממליצים להתחיל בגיל מרבי של שבוע ולהעלות אוֹתו לחודש ולאחר מכן לשנה ברגע שתראה/י שהאתר שלך עובד בהתאם לציפיות.';
+$Definition['Security.Hsts.SubmitWarning'] = 'אזהרה: מעולה לתמוך בטעינה מראש של HSTS כשיטת עבודה מומלצת. עם זאת, עליך לשלוח את האתר שלך ל-hstspreload.org כדי להטיח שהוא ייטען מראש בהצלחה (כלומר, כדי לקבל את מלוא ההגנה לקונפיגורציה המתוכננת).';
 $Definition['Select the import source'] = 'בחר מה לייבא';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'טור ממושך "%s" נכשל להיות לא ממושך.';
 $Definition['Show all possible pocket locations.'] = 'הפעל אפשרות זאת כדי להראות את כל מקומות הכיסים האפשריים. הפעלת אפשרות זאת תראה המיקומים רק למשתמשים שיכולים לנהל כיסים.';
