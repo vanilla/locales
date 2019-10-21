@@ -43,7 +43,7 @@ $Definition['Commenting as %1$s (%2$s)'] = 'Commenting as %1$s <span class="Sign
 $Definition['Condition Field'] = 'Field';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['ConnectExistingPassword'] = 'Enter your existing account password.';
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
 
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
