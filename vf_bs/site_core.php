@@ -95,7 +95,6 @@ $Definition['ConnectAccountExists'] = 'Vi već imate jedan account.';
 $Definition['ConnectCreateAccount'] = 'Dodaj Info &amp; Kreiraj Account';
 $Definition['ConnectName'] = 'Korisničko ime';
 $Definition['ConnectRegisteredName'] = 'Vaše registrovano korisničko ime: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 $Definition['conversation'] = 'razgovor';
 $Definition['Create One.'] = 'Kreiraj Akaunt.';
 

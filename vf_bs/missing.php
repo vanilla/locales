@@ -13,6 +13,7 @@ $Definition['Categories are used to organize discussions.'] = 'Categories are us
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
 
 $Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
 $Definition['editor.fileErrorSize'] = 'File size is too large.';

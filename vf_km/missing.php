@@ -52,7 +52,7 @@ $Definition['Condition Type'] = 'Type';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['ConnectLeaveBlank'] = 'Leave blank unless connecting to an exising account.';
 $Definition['ConnectRegisteredName'] = 'Your registered username: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
 $Definition['CreateFile'] = 'Create';
 
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
