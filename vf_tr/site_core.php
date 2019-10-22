@@ -618,6 +618,7 @@ $Definition['FileName'] = 'DosyaAdı';
 $Definition['Filename'] = 'Dosya Adı';
 $Definition['FileSize'] = 'DosyaBoyutu';
 $Definition['File Size'] = 'Dosya Boyutu';
+$Definition['Find the matching ban rule(s).'] = 'Eşleşen yasak kuralını(larını) bulun.';
 $Definition['Find your account information below.'] = 'Hesap bilgilerin aşağıdadır.';
 $Definition['First Answer'] = 'İlk Yanıt';
 $Definition['First Anniversary'] = 'Birinci Yıldönümü';
