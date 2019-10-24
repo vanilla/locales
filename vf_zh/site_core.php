@@ -623,6 +623,7 @@ $Definition['FileName'] = '文件名';
 $Definition['Filename'] = '文件名';
 $Definition['FileSize'] = '文件大小';
 $Definition['File Size'] = '文件大小';
+$Definition['Find the matching ban rule(s).'] = '寻找匹配的封禁规则。';
 $Definition['Find your account information below.'] = '通过下面可以找到您的帐户信息。';
 $Definition['First Answer'] = '第一个回答';
 $Definition['First Anniversary'] = '一周年';
