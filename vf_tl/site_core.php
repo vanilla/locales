@@ -618,6 +618,7 @@ $Definition['FileName'] = 'FileName';
 $Definition['Filename'] = 'Filename';
 $Definition['FileSize'] = 'FileSize';
 $Definition['File Size'] = 'Laki ng File';
+$Definition['Find the matching ban rule(s).'] = 'Hanapin ang (mga) katugmang panuntunan sa pagbabawal.';
 $Definition['Find your account information below.'] = 'Hanapin ang impormasyon ng account mo sa ibaba.';
 $Definition['First Answer'] = 'Unang Sagot';
 $Definition['First Anniversary'] = 'Unang Anibersaryo';
