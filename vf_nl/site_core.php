@@ -625,6 +625,7 @@ $Definition['FileName'] = 'Bestandsnaam';
 $Definition['Filename'] = 'Bestandsnaam';
 $Definition['FileSize'] = 'Bestandsgrootte';
 $Definition['File Size'] = 'Bestandsgrootte';
+$Definition['Find the matching ban rule(s).'] = 'Zoek de overeenkomende verbodsregel(s).';
 $Definition['Find your account information below.'] = 'U kunt uw accountgegevens hieronder vinden. ';
 $Definition['First Answer'] = 'Eerste Antwoord';
 $Definition['First Anniversary'] = 'Eerste verjaardag';
