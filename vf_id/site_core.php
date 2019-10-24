@@ -617,6 +617,7 @@ $Definition['FileName'] = 'NamaBerkas';
 $Definition['Filename'] = 'Nama file';
 $Definition['FileSize'] = 'UkuranBerkas';
 $Definition['File Size'] = 'Ukuran File';
+$Definition['Find the matching ban rule(s).'] = 'Temukan aturan pelarangan yang cocok.';
 $Definition['Find your account information below.'] = 'Temukan informasi akun Anda di bawah.';
 $Definition['First Answer'] = 'Jawaban Pertama';
 $Definition['First Anniversary'] = 'Ulangtahun Pertama';
