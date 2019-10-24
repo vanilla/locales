@@ -621,6 +621,7 @@ $Definition['FileName'] = 'Όνομα Αρχείου';
 $Definition['Filename'] = 'Όνομα Αρχείου';
 $Definition['FileSize'] = 'Μέγεθος αρχείου';
 $Definition['File Size'] = 'Μέγεθος Αρχείου';
+$Definition['Find the matching ban rule(s).'] = 'Βρείτε τον κανόνα(-ες) απαγόρευσης που ταιριάζει.';
 $Definition['Find your account information below.'] = 'Βρείτε τα στοιχεία του λογαριασμού σας παρακάτω.';
 $Definition['First Answer'] = 'Πρώτη Απάντηση';
 $Definition['First Anniversary'] = 'Πρώτη επέτειος';
