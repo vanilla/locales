@@ -619,6 +619,7 @@ $Definition['FileName'] = 'फाइलनाम';
 $Definition['Filename'] = 'फाइल नाम';
 $Definition['FileSize'] = 'फाइलमाप';
 $Definition['File Size'] = 'फाइल माप';
+$Definition['Find the matching ban rule(s).'] = 'मैचिंग प्रतिबंध नियम खोजें।';
 $Definition['Find your account information below.'] = 'नीचे अपने खाते की जानकारी प्राप्त करें.';
 $Definition['First Answer'] = 'पहला उत्तर';
 $Definition['First Anniversary'] = 'पहली सालगिरह';
