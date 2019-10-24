@@ -616,6 +616,7 @@ $Definition['FileName'] = 'Dateiname';
 $Definition['Filename'] = 'Dateiname';
 $Definition['FileSize'] = 'Dateigröße';
 $Definition['File Size'] = 'Dateigröße';
+$Definition['Find the matching ban rule(s).'] = 'Finde die passenden Sperrregeln.';
 $Definition['Find your account information below.'] = 'Ihre Kontodaten folgen im Anschluss.';
 $Definition['First Answer'] = 'Erste Antwort';
 $Definition['First Anniversary'] = 'Erster Jahrestag';
