@@ -619,6 +619,7 @@ $Definition['FileName'] = 'Fájl neve';
 $Definition['Filename'] = 'Fájl neve';
 $Definition['FileSize'] = 'Fájl mérete';
 $Definition['File Size'] = 'Fájl mérete';
+$Definition['Find the matching ban rule(s).'] = 'Találd meg a meghatározott tiltási szabály(oka)t.';
 $Definition['Find your account information below.'] = 'Alább találhatók a fiókod adatai.';
 $Definition['First Answer'] = 'Első Válasz';
 $Definition['First Anniversary'] = 'Első évforduló';
