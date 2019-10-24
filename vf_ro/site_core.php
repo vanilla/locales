@@ -609,6 +609,7 @@ $Definition['FileName'] = 'Nume Fișier';
 $Definition['Filename'] = 'Nume fișier';
 $Definition['FileSize'] = 'Dimensiune Fișier';
 $Definition['File Size'] = 'Mărime fișier';
+$Definition['Find the matching ban rule(s).'] = 'Găseşte regulile de interzicere potrivite.';
 $Definition['Find your account information below.'] = 'Aflați mai jos detalii despre contul dumneavoastră.';
 $Definition['First Answer'] = 'Primul răspuns';
 $Definition['First Anniversary'] = 'Prima Aniversare';
