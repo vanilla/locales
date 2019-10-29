@@ -628,6 +628,7 @@ $Definition['FileName'] = 'Tiedoston nimi';
 $Definition['Filename'] = 'Tiedoston nimi';
 $Definition['FileSize'] = 'Tiedoston koko';
 $Definition['File Size'] = 'Tiedoston koko';
+$Definition['Find the matching ban rule(s).'] = 'Löydä vastaavat estosäännöt.';
 $Definition['Find your account information below.'] = 'Löydät käyttäjätilisi tiedot alta.';
 $Definition['First Answer'] = 'Ensimmäinen vastaus';
 $Definition['First Anniversary'] = 'Ensimm&auml;inen vuosip&auml;iv&auml;';

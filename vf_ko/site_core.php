@@ -615,6 +615,7 @@ $Definition['FileName'] = '파일 이름';
 $Definition['Filename'] = '파일 이름';
 $Definition['FileSize'] = '파일 사이즈';
 $Definition['File Size'] = '파일 사이즈';
+$Definition['Find the matching ban rule(s).'] = '부합하는 금지 규칙을 찾으세요.';
 $Definition['Find your account information below.'] = '아래에서 계정 정보를 확인할 수 있습니다.';
 $Definition['First Answer'] = '첫번째 답변';
 $Definition['First Anniversary'] = '첫 번째 기념일';

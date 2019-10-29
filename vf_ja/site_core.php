@@ -626,6 +626,7 @@ $Definition['FileName'] = 'ファイル名';
 $Definition['Filename'] = 'ファイルの名前';
 $Definition['FileSize'] = 'ファイルサイズ';
 $Definition['File Size'] = 'ファイルのサイズ';
+$Definition['Find the matching ban rule(s).'] = '一致する禁止ルールを見つけてください。';
 $Definition['Find your account information below.'] = 'あなたのアカウント情報は以下の通りです。';
 $Definition['First Answer'] = '最初の回答';
 $Definition['First Anniversary'] = '１周年';

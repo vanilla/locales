@@ -617,6 +617,7 @@ $Definition['FileName'] = 'Tên tập tin';
 $Definition['Filename'] = 'Tên tập tin';
 $Definition['FileSize'] = 'Kính thước Tập tin';
 $Definition['File Size'] = 'Kích cỡ tập tin';
+$Definition['Find the matching ban rule(s).'] = 'Tìm (các) quy tắc cấm tương ứng.';
 $Definition['Find your account information below.'] = 'Xem thông tin tài khoản của bạn dưới đây.';
 $Definition['First Answer'] = 'Câu Trả lời Thứ nhất';
 $Definition['First Anniversary'] = 'Kỷ niệm năm thứ nhất';

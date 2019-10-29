@@ -619,6 +619,7 @@ $Definition['FileName'] = 'Filnavn';
 $Definition['Filename'] = 'Filnavn';
 $Definition['FileSize'] = 'Filstørrelse';
 $Definition['File Size'] = 'Filstørrelse';
+$Definition['Find the matching ban rule(s).'] = 'Find den eller de matchende forbudsregler.';
 $Definition['Find your account information below.'] = 'Find dine kontooplysninger nedenfor.';
 $Definition['First Answer'] = 'Første svar';
 $Definition['First Anniversary'] = 'Første jubilæum';

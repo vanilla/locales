@@ -618,6 +618,7 @@ $Definition['FileName'] = '文件名稱';
 $Definition['Filename'] = '檔案名稱';
 $Definition['FileSize'] = '文件大小';
 $Definition['File Size'] = '檔案大小';
+$Definition['Find the matching ban rule(s).'] = '尋找能配合的禁制規則。';
 $Definition['Find your account information below.'] = '下面是你的帳戶資訊。';
 $Definition['First Answer'] = '第一答案';
 $Definition['First Anniversary'] = '一週年紀念';
