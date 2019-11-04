@@ -795,7 +795,6 @@ $Definition['Italic'] = 'Italic';
 $Definition['Item'] = 'Item';
 $Definition['item'] = 'item';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
-$Definition['Category does not exist,
 $Definition['Jail'] = 'Jail';
 $Definition['Jailed users have reduced abilities.'] = 'Jailed users have reduced abilities.';
 $Definition['Join'] = 'Join';
