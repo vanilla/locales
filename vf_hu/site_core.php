@@ -330,6 +330,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Rejtett kategóriák mutatása';
 $Definition['CategoriesViewingAll'] = 'Minden kategóriát látsz';
 $Definition['CategoriesViewingFollowed'] = 'Csak a követett kategóriákat látod.';
 $Definition['Category'] = 'Kategória';
+$Definition['Category does not exist.'] = 'A kategória nem létezik.';
 $Definition['Category Filter'] = 'Kategória szűrő';
 $Definition['CategoryID'] = 'Kategória';
 $Definition['Category List'] = 'Kategóriák listája';
@@ -797,7 +798,6 @@ $Definition['Italic'] = 'Dőlt';
 $Definition['Item'] = 'Elem';
 $Definition['item'] = 'tétel';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Úgy tűnik, hogy új vagy itt! Ha csatlakozni akarsz, klikkelj valamelyik gombra.';
-
 $Definition['Jail'] = 'Börtön';
 $Definition['Jailed users have reduced abilities.'] = 'A bebörtönzött felhasználóknak csökkentek a képességei.';
 $Definition['Join'] = 'Csatlakozás';
