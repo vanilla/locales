@@ -330,6 +330,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Εμφάνιση κρυμμένων �
 $Definition['CategoriesViewingAll'] = 'Βλέπετε όλες τις κατηγορίες';
 $Definition['CategoriesViewingFollowed'] = 'Βλέπετε μόνο τις κατηγορίες που ακολουθείτε.';
 $Definition['Category'] = 'Κατηγορία';
+$Definition['Category does not exist.'] = 'Η κατηγορία δεν υπάρχει.';
 $Definition['Category Filter'] = 'Φίλτρο Κατηγορίας';
 $Definition['CategoryID'] = 'Κατηγορία';
 $Definition['Category List'] = 'Λίστα Κατηγοριών';
@@ -802,7 +803,6 @@ $Definition['Italic'] = 'Πλάγια γραφή';
 $Definition['Item'] = 'Αντικείμενο';
 $Definition['item'] = 'αντικείμενο';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Φαίνεται πως είστε νέος εδώ. Αν θέλεις να συμμετέχετε, πάτησε ένα από αυτά τα πλήκτρα!';
-
 $Definition['Jail'] = 'Φυλακή';
 $Definition['Jailed users have reduced abilities.'] = 'Οι Φυλακισμένοι χρήστες έχουν περιοριμένες δυνατότητες.';
 $Definition['Join'] = 'Συμμετοχή';
