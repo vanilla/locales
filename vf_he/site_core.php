@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = 'הראה קטגוריות מוסתר�
 $Definition['CategoriesViewingAll'] = 'אתה כרגע רואה את כל הקטגוריות';
 $Definition['CategoriesViewingFollowed'] = 'אתה כרגע רואה רק את הקטגוריות שאתה עוקב אחריהם';
 $Definition['Category'] = 'קטגוריה';
+$Definition['Category does not exist.'] = 'הקטגוריה אינה קיימת';
 $Definition['Category Filter'] = 'מסנן קטגוריות';
 $Definition['CategoryID'] = 'קטגוריה';
 $Definition['Category List'] = 'רשימת קטגוריות';
@@ -799,7 +800,6 @@ $Definition['Italic'] = 'נטוי';
 $Definition['Item'] = 'מוצר';
 $Definition['item'] = 'פריט';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ברוך הבא! אם הינך חדש בפורום, תוכל להירשם על ידי לחיצה על אחד הלחצנים מטה. אחרת, באפשרותך לבצע התחברות.';
-
 $Definition['Jail'] = 'כלא';
 $Definition['Jailed users have reduced abilities.'] = 'למשתמשים כלואים יש יכולות מופחתות';
 $Definition['Join'] = 'הצטרף';
