@@ -330,6 +330,7 @@ $Definition['CategoriesShowUnfollowed'] = 'N&auml;yt&auml; piilotetut kategoriat
 $Definition['CategoriesViewingAll'] = 'Olet asettanut n&auml;kyviin kaikki kategoriat';
 $Definition['CategoriesViewingFollowed'] = 'Olet asettanut n&auml;kyviin vain kategoriat, joita seuraat.';
 $Definition['Category'] = 'Kategoria';
+$Definition['Category does not exist.'] = 'Kategoriaa ei ole olemassa.';
 $Definition['Category Filter'] = 'Kategoriasuodatin';
 $Definition['CategoryID'] = 'Kategoria';
 $Definition['Category List'] = 'Kategorialista';
@@ -806,7 +807,6 @@ $Definition['Italic'] = 'Kursiivi';
 $Definition['Item'] = 'Kohde';
 $Definition['item'] = 'kohta';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Vaikuttaa silt&auml; ett&auml; olet uusi t&auml;&auml;ll&auml;? Jos haluat osallistua keskusteluihin, rekister&ouml;idy valitsemalla joku painikkeista ohessa! ';
-
 $Definition['Jail'] = 'Vankila';
 $Definition['Jailed users have reduced abilities.'] = 'Vankilaan laitetuilla k&auml;ytt&auml;jill&auml; on v&auml;hemm&auml;n toiminnallisuuksia k&auml;yt&ouml;ss&auml;&auml;n.';
 $Definition['Join'] = 'Liity';
