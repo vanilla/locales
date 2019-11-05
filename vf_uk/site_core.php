@@ -330,6 +330,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Показати приховані �
 $Definition['CategoriesViewingAll'] = 'Ви переглядаєте всі категорії.';
 $Definition['CategoriesViewingFollowed'] = 'Зараз Ви переглядаєте категорії, за якими слідуєте.';
 $Definition['Category'] = 'Категорія';
+$Definition['Category does not exist.'] = 'Категорія не існує.';
 $Definition['Category Filter'] = 'Фільтр категорій';
 $Definition['CategoryID'] = 'Категорія';
 $Definition['Category List'] = 'Список категорій';
@@ -804,7 +805,6 @@ $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Елемент';
 $Definition['item'] = 'пункт';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Схоже, що Ви тут вперше. Якщо хочете взяти участь, натисніть на одну з цих кнопок!';
-
 $Definition['Jail'] = 'В\'язниця';
 $Definition['Jailed users have reduced abilities.'] = 'Ув\'язнені у в\'язницю користувачі зменшили здібності.';
 $Definition['Join'] = 'Приєднатися';
