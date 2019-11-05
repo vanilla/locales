@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = 'اظهر الاقسام المخفي�
 $Definition['CategoriesViewingAll'] = 'انت تشاهد الان جميع الاقسام.';
 $Definition['CategoriesViewingFollowed'] = 'انت تشاهد الان الاقسام التي تتبعها.';
 $Definition['Category'] = 'القسم';
+$Definition['Category does not exist.'] = 'الفئة غير موجودة.';
 $Definition['Category Filter'] = 'فلترة الفئات';
 $Definition['CategoryID'] = 'القسم';
 $Definition['Category List'] = 'قائمة الفئات
@@ -797,7 +798,6 @@ $Definition['Italic'] = 'مائل';
 $Definition['Item'] = 'بند';
 $Definition['item'] = 'بند';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'يبدو أنك كنت جديدا هنا. إذا كنت ترغب في الانخراط، انقر فوق أحد هذه الأزرار!';
-
 $Definition['Jail'] = 'سجن';
 $Definition['Jailed users have reduced abilities.'] = 'المستخدمون المسجونون قدراتهم مخفضة.';
 $Definition['Join'] = 'الانضمام';
