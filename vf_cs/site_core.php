@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Zobrazovat i nesledované kategorie';
 $Definition['CategoriesViewingAll'] = 'Nyní jsou zobrazeny všechny kategorie';
 $Definition['CategoriesViewingFollowed'] = 'Nyní jsou zobrazeny pouze sledované kategorie';
 $Definition['Category'] = 'Kategorie';
+$Definition['Category does not exist.'] = 'Kategorie neexistuje.';
 $Definition['Category Filter'] = 'Filtr kategorií';
 $Definition['CategoryID'] = 'Kategorie';
 $Definition['Category List'] = 'Seznam kategorií';
@@ -795,7 +796,6 @@ $Definition['Italic'] = 'Kurziva';
 $Definition['Item'] = 'Položka';
 $Definition['item'] = 'položka';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Vypadá to, že jsi tu nový. Pokud se chceš zaregistrovat, klikni na jedno z následujících tlačítek.';
-
 $Definition['Jail'] = 'Vězení';
 $Definition['Jailed users have reduced abilities.'] = 'Uvěznění uživatelé mají omezené možnosti.';
 $Definition['Join'] = 'Přidej se';
