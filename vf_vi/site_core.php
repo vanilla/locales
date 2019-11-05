@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Hiện danh mục ẩn';
 $Definition['CategoriesViewingAll'] = 'Bạn đang xem tất cả danh mục.';
 $Definition['CategoriesViewingFollowed'] = 'Bạn đang xem các danh mục mà bạn theo dõi.';
 $Definition['Category'] = 'Danh mục';
+$Definition['Category does not exist.'] = 'Category does not exist.';
 $Definition['Category Filter'] = 'Lọc hạng mục';
 $Definition['CategoryID'] = 'Danh mục';
 $Definition['Category List'] = 'Danh sách Danh mục';
@@ -795,7 +796,6 @@ $Definition['Italic'] = 'In nghiêng';
 $Definition['Item'] = 'Mục';
 $Definition['item'] = 'đề mục';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Còn chờ gì nữa mà không mau đăng nhập hoặc đăng ký để cùng tham gia thảo luận với cộng đồng!';
-
 $Definition['Jail'] = 'Cho ra đảo';
 $Definition['Jailed users have reduced abilities.'] = 'Thành viên bị ban có quyền hạn hạn chế.';
 $Definition['Join'] = 'Tham gia';
