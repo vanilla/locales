@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Verborgene Kategorien zeigen';
 $Definition['CategoriesViewingAll'] = 'Du betrachtest alle Kategorien.';
 $Definition['CategoriesViewingFollowed'] = 'Du betrachtest gerade nur Kategorien, denen du folgst.';
 $Definition['Category'] = 'Kategorie';
+$Definition['Category does not exist.'] = 'Die Kategorie existiert nicht. ';
 $Definition['Category Filter'] = 'Kategoriefilter';
 $Definition['CategoryID'] = 'Kategorie';
 $Definition['Category List'] = 'Kategorienliste';
@@ -794,7 +795,6 @@ $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'Beitrag';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Scheinbar bist du neu hier. Wenn du mitmachen willst, Wähle eine der folgenden Optionen!';
-
 $Definition['Jail'] = 'Gefängnis';
 $Definition['Jailed users have reduced abilities.'] = 'Gefangene Benutzer haben verringerte Rechte.';
 $Definition['Join'] = 'Beitreten';
