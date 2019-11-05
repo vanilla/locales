@@ -330,6 +330,7 @@ $Definition['CategoriesShowUnfollowed'] = '隠されているカテゴリーを�
 $Definition['CategoriesViewingAll'] = 'あなたは現在全てのカテゴリーを見ています。';
 $Definition['CategoriesViewingFollowed'] = 'あなたは現在、あなたがフォローしているカテゴリーだけを見ています。';
 $Definition['Category'] = 'カテゴリ';
+$Definition['Category does not exist.'] = 'カテゴリーは存在しません。';
 $Definition['Category Filter'] = 'カテゴリー･フィルター';
 $Definition['CategoryID'] = 'カテゴリ';
 $Definition['Category List'] = 'カテゴリーリスト';
@@ -806,7 +807,6 @@ $Definition['Italic'] = 'イタリック';
 $Definition['Item'] = 'Ban Item';
 $Definition['item'] = 'アイテム';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '初めてですか？　参加するには、どちらかのボタンをクリックしてください！';
-
 $Definition['Jail'] = '拘束';
 $Definition['Jailed users have reduced abilities.'] = '投獄されたユーザーは能力が制限されます。';
 $Definition['Join'] = '参加';
