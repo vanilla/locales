@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = '숨겨진 카테고리 나타내기';
 $Definition['CategoriesViewingAll'] = '모든 카테고리를 보고 있습니다.';
 $Definition['CategoriesViewingFollowed'] = '팔로우하는 카테고리에서 볼 수만 있습니다. ';
 $Definition['Category'] = '카테고리';
+$Definition['Category does not exist.'] = '카테고리가 존재하지 않습니다.';
 $Definition['Category Filter'] = '카테고리 필터';
 $Definition['CategoryID'] = '카테고리';
 $Definition['Category List'] = '카테고리 목록 ';
@@ -793,7 +794,6 @@ $Definition['Italic'] = '이탤릭체';
 $Definition['Item'] = '항목';
 $Definition['item'] = '항목';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '새로 오신 회원인가보네요. 참여하시길 원하신다면 다음의 버튼 중 하나를 눌러주세요!';
-
 $Definition['Jail'] = '감옥';
 $Definition['Jailed users have reduced abilities.'] = '수감된 사용자들의 능력은 감소됩니다. ';
 $Definition['Join'] = '가입';
