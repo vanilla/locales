@@ -331,6 +331,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Vis skjulte kategorier';
 $Definition['CategoriesViewingAll'] = 'Du ser nu alle kategorier.';
 $Definition['CategoriesViewingFollowed'] = 'Du ser nu kun kategorier, som du følger.';
 $Definition['Category'] = 'Kategori';
+$Definition['Category does not exist.'] = 'Kategori findes ikke.';
 $Definition['Category Filter'] = 'Kategorifilter';
 $Definition['CategoryID'] = 'Kategori';
 $Definition['Category List'] = 'Kategoriliste';
@@ -798,7 +799,6 @@ $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'Genstand';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Det ser ud til, at du er ny. Hvis du vil involveres, klik på en af disse knapper!';
-
 $Definition['Jail'] = 'Fængsel';
 $Definition['Jailed users have reduced abilities.'] = 'Fængslede brugere har begrænsede evner.';
 $Definition['Join'] = 'Bliv medlem';
