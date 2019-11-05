@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Klicka här för att se kategorier du
 $Definition['CategoriesViewingAll'] = 'Du ser nu alla kategorier i forumet.';
 $Definition['CategoriesViewingFollowed'] = 'Du ser nu bara kategorierna du följer i forumet.';
 $Definition['Category'] = 'Kategori';
+$Definition['Category does not exist.'] = 'Kategorin finns inte.';
 $Definition['Category Filter'] = 'Kategorifilter';
 $Definition['CategoryID'] = 'Kategori';
 $Definition['Category List'] = 'Kategorilista';
@@ -794,7 +795,6 @@ $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Objekt';
 $Definition['item'] = 'objekt';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Du verkar vara ny här? Om du vill vara med, klicka på en av följande knappar:';
-
 $Definition['Jail'] = 'Fängelse';
 $Definition['Jailed users have reduced abilities.'] = 'Fängslade användare har begränsade möjligheter.';
 $Definition['Join'] = 'Anslut';
