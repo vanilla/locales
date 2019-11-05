@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Toon verborgen categorieën';
 $Definition['CategoriesViewingAll'] = 'Je bekijkt momenteel alle categorieën.';
 $Definition['CategoriesViewingFollowed'] = 'Je bekijkt momenteel alleen categorieën die je aan het volgen bent.';
 $Definition['Category'] = 'Categorie';
+$Definition['Category does not exist.'] = 'Categorie bestaat niet.';
 $Definition['Category Filter'] = 'Categoriefilter';
 $Definition['CategoryID'] = 'Categorie';
 $Definition['Category List'] = 'Categoriënlijst';
@@ -803,7 +804,6 @@ $Definition['Italic'] = 'Cursief';
 $Definition['Item'] = 'Voorwerp';
 $Definition['item'] = 'voorwerp';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Het lijkt erop dat je hier nieuw bent. Klik op één van deze knoppen om je aan te melden!';
-
 $Definition['Jail'] = 'Gevangenis';
 $Definition['Jailed users have reduced abilities.'] = 'Opgesloten gebruikers hebben minder bevoegdheden.';
 $Definition['Join'] = 'Word lid';
