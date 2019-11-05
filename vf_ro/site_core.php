@@ -329,6 +329,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Afișare categorii ascunse';
 $Definition['CategoriesViewingAll'] = 'Momentan vizualizați toate categoriile.';
 $Definition['CategoriesViewingFollowed'] = 'Momentan vizualizați doar categoriile pe care le urmăriți.';
 $Definition['Category'] = 'Categorie';
+$Definition['Category does not exist.'] = 'Categoria nu există.';
 $Definition['Category Filter'] = 'Filtru categorii';
 $Definition['CategoryID'] = 'Categorie';
 $Definition['Category List'] = 'Listă categorii';
@@ -787,7 +788,6 @@ $Definition['Italic'] = 'Cursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'obiect';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Implicați-vă acum! <br />Conectați-vă acum prin:';
-
 $Definition['Jail'] = 'inchisoare';
 $Definition['Jailed users have reduced abilities.'] = 'Utilizatorii aflati la inchisoare au abilitatiile reduse.';
 $Definition['Join'] = 'Alăturați-vă';
