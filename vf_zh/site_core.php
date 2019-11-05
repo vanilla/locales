@@ -330,6 +330,7 @@ $Definition['CategoriesShowUnfollowed'] = '展示隐藏的的版块';
 $Definition['CategoriesViewingAll'] = '您正在查看所有版块。';
 $Definition['CategoriesViewingFollowed'] = '现在展示的是我关注的版块。';
 $Definition['Category'] = '版块';
+$Definition['Category does not exist.'] = '类别不存在。';
 $Definition['Category Filter'] = '版块过滤器';
 $Definition['CategoryID'] = '版块';
 $Definition['Category List'] = '类别清单';
@@ -801,7 +802,6 @@ $Definition['Italic'] = '斜体';
 $Definition['Item'] = '条目';
 $Definition['item'] = '条目';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '新手上路，加入请点击其中一个按钮:';
-
 $Definition['Jail'] = '禁言';
 $Definition['Jailed users have reduced abilities.'] = '禁言用户无法使用一些功能。';
 $Definition['Join'] = '加入';
