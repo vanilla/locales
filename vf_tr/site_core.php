@@ -330,6 +330,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Gizlenen kategorileri göster';
 $Definition['CategoriesViewingAll'] = 'Şu anda tüm kategorileri görüntülüyorsunuz.';
 $Definition['CategoriesViewingFollowed'] = 'Şu anda sadece takip ettiğiniz kategorileri görüntülüyorsunuz.';
 $Definition['Category'] = 'Kategori';
+$Definition['Category does not exist.'] = 'Kategori mevcut değil.';
 $Definition['Category Filter'] = 'Kategori Filtresi';
 $Definition['CategoryID'] = 'Kategori';
 $Definition['Category List'] = 'Kategori Listesi';
@@ -796,7 +797,6 @@ $Definition['Italic'] = 'İtalik';
 $Definition['Item'] = 'Öğe';
 $Definition['item'] = 'öğe';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Burada yeni gibi görünüyorsunuz. Eğer katılmak istiyorsanız düğmelerden birine tıklayınız.';
-
 $Definition['Jail'] = 'Hapishane';
 $Definition['Jailed users have reduced abilities.'] = 'Hapishanedeki kullanıcıların yetkileri kısıtlanmıştır.';
 $Definition['Join'] = 'Katıl';
