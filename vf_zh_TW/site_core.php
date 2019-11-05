@@ -330,6 +330,7 @@ $Definition['CategoriesShowUnfollowed'] = '顯示隱藏類別';
 $Definition['CategoriesViewingAll'] = '當前您正在查看所有類別。';
 $Definition['CategoriesViewingFollowed'] = '您目前只能瀏覽您追蹤的類別。';
 $Definition['Category'] = '分類';
+$Definition['Category does not exist.'] = '類別不存在。';
 $Definition['Category Filter'] = '分類篩選';
 $Definition['CategoryID'] = '分類';
 $Definition['Category List'] = '類別列表';
@@ -796,7 +797,6 @@ $Definition['Italic'] = '斜體';
 $Definition['Item'] = '項目';
 $Definition['item'] = '項目';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '點下面的按鈕可以加入我們！';
-
 $Definition['Jail'] = '監禁';
 $Definition['Jailed users have reduced abilities.'] = '封鎖的使用者會減少能夠使用的功能';
 $Definition['Join'] = '加入';
