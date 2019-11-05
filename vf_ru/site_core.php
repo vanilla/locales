@@ -343,6 +343,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Показать скрытые ра�
 $Definition['CategoriesViewingAll'] = 'Вы просматриваете все разделы.';
 $Definition['CategoriesViewingFollowed'] = 'Вы сейчас видите только свои отслеживаемые разделы.';
 $Definition['Category'] = 'Раздел';
+$Definition['Category does not exist.'] = 'Категория не существует';
 $Definition['Category Filter'] = 'Фильтр разделов';
 $Definition['CategoryID'] = 'Раздел';
 $Definition['Category List'] = 'Список Разделов';
@@ -823,7 +824,6 @@ $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Сообщение';
 $Definition['item'] = 'Вклад';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Похоже, вы новенький! Присоединяйтесь к нам, кликнув одну из кнопок ниже!';
-
 $Definition['Jail'] = 'Тюрьма';
 $Definition['Jailed users have reduced abilities.'] = 'Заключенные пользователи ограниченны в возможностях.';
 $Definition['Join'] = 'Вступить';
