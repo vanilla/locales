@@ -1283,6 +1283,7 @@ $Definition['RSS Feed'] = 'RSS 訊息來源';
 $Definition['RSVP'] = 'RSVP 協議';
 
 $Definition['Save'] = '儲存';
+$Definition['Save Avatar'] = '儲存頭像';
 $Definition['Save Comment'] = '儲存評論';
 $Definition['Saved'] = '您的更動已被儲存。';
 $Definition['Save Draft'] = '儲存草稿';
@@ -1299,6 +1300,7 @@ $Definition['Search for a tag.'] = '搜索全部或部分標籤。';
 $Definition['Search group members'] = '搜尋群組成員';
 $Definition['Search Groups'] = '搜尋群組';
 $Definition['Search groups'] = '搜尋群組';
+$Definition['search only in followed categories'] = '只在以下類別中搜尋';
 $Definition['Search results for \'%s\''] = '%s 的搜索結果';
 $Definition['search subcategories'] = '搜尋子類別';
 $Definition['Second Anniversary'] = '二週年紀念';
