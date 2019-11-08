@@ -1290,6 +1290,7 @@ $Definition['RSS Feed'] = 'RSS емисия';
 $Definition['RSVP'] = 'Отговорете';
 
 $Definition['Save'] = 'Запазване';
+$Definition['Save Avatar'] = 'Save Avatar';
 $Definition['Save Comment'] = 'Запазване на коментар';
 $Definition['Saved'] = 'Промените бяха запазанеи.';
 $Definition['Save Draft'] = 'Запази черновата';
@@ -1306,6 +1307,7 @@ $Definition['Search for a tag.'] = 'Търсене на цял етикет ил
 $Definition['Search group members'] = 'Търсене членове на групата';
 $Definition['Search Groups'] = 'Търсене на групи';
 $Definition['Search groups'] = 'Търсене на групи';
+$Definition['search only in followed categories'] = 'търсене само в следваните категории';
 $Definition['Search results for \'%s\''] = 'Резултати от търсенето за \'%s\'';
 $Definition['search subcategories'] = 'търсене на подкатегории';
 $Definition['Second Anniversary'] = 'Втора годишнина';
