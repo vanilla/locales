@@ -1283,6 +1283,7 @@ $Definition['RSS Feed'] = 'RSS Feed';
 $Definition['RSVP'] = 'Odgovorite';
 
 $Definition['Save'] = 'Sačuvaj';
+$Definition['Save Avatar'] = 'Sačuvaj avatar';
 $Definition['Save Comment'] = 'Sačuvaj komentar';
 $Definition['Saved'] = 'Vaše izmene su sačuvane.';
 $Definition['Save Draft'] = 'Sačuvaj nacrt';
@@ -1299,6 +1300,7 @@ $Definition['Search for a tag.'] = 'Pretražite sve ili deo oznake.';
 $Definition['Search group members'] = 'Pretraži članove grupe';
 $Definition['Search Groups'] = 'Pretraži grupe';
 $Definition['Search groups'] = 'Pretraži grupe';
+$Definition['search only in followed categories'] = 'pretražujte samo u sledećim kategorijama';
 $Definition['Search results for \'%s\''] = 'Rezultati pretrage za \'%s\'';
 $Definition['search subcategories'] = 'pretražite potkategorije';
 $Definition['Second Anniversary'] = 'Druga godišnjica';
