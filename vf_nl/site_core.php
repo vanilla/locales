@@ -1292,6 +1292,7 @@ $Definition['RSS Feed'] = 'RSS Feed';
 $Definition['RSVP'] = 'Reageren';
 
 $Definition['Save'] = 'Opslaan';
+$Definition['Save Avatar'] = 'Sla Avatar op';
 $Definition['Save Comment'] = 'Sla Reactie op';
 $Definition['Saved'] = 'Je wijzigingen zijn opgeslagen.';
 $Definition['Save Draft'] = 'Concept Opslaan';
@@ -1308,6 +1309,7 @@ $Definition['Search for a tag.'] = 'Zoek voor alles of voor een deel van een tag
 $Definition['Search group members'] = 'Zoek groepsleden';
 $Definition['Search Groups'] = 'Groepen Doorzoeken';
 $Definition['Search groups'] = 'Groepen doorzoeken:';
+$Definition['search only in followed categories'] = 'zoek enkel in gevolgde categorieën';
 $Definition['Search results for \'%s\''] = 'Zoekresultaten voor \'%s\'';
 $Definition['search subcategories'] = 'zoek in subcategorieën';
 $Definition['Second Anniversary'] = 'Tweede verjaardag';
