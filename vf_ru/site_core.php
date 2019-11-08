@@ -1334,6 +1334,7 @@ $Definition['RSS Feed'] = 'RSS-лента';
 $Definition['RSVP'] = 'Ответить';
 
 $Definition['Save'] = 'Сохранить';
+$Definition['Save Avatar'] = 'Сохранить аватар';
 $Definition['Save Comment'] = 'Сохранить исправления';
 $Definition['Saved'] = 'Сохранено.';
 $Definition['Save Draft'] = 'В черновик';
@@ -1350,6 +1351,7 @@ $Definition['Search for a tag.'] = 'Поиск тэга или его части
 $Definition['Search group members'] = 'Поиск участников группы';
 $Definition['Search Groups'] = 'Поиск групп';
 $Definition['Search groups'] = 'Поиск групп';
+$Definition['search only in followed categories'] = 'искать только в категориях, на которые оформлена подписка';
 $Definition['Search results for \'%s\''] = 'Результаты поиска по \'%s\'';
 $Definition['search subcategories'] = 'поиск подразделов';
 $Definition['Second Anniversary'] = 'Вторая годовщина';
