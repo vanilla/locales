@@ -1281,6 +1281,7 @@ $Definition['RSS Feed'] = 'RSS Kanál';
 $Definition['RSVP'] = 'Odpovězte prosím';
 
 $Definition['Save'] = 'Uložit';
+$Definition['Save Avatar'] = 'Save Avatar';
 $Definition['Save Comment'] = 'Uložit komentář';
 $Definition['Saved'] = 'Provedené změny byly uloženy.';
 $Definition['Save Draft'] = 'Uložit koncept';
@@ -1297,6 +1298,7 @@ $Definition['Search for a tag.'] = 'Najít štítek.';
 $Definition['Search group members'] = 'Vyhledat členy skupiny';
 $Definition['Search Groups'] = 'Vyhledávací skupiny';
 $Definition['Search groups'] = 'Vyhledávací skupiny';
+$Definition['search only in followed categories'] = 'vyhledávat pouze v následujících kategoriích';
 $Definition['Search results for \'%s\''] = 'Hledej výsledky pro \'%s\'';
 $Definition['search subcategories'] = 'prohledat podkategorie';
 $Definition['Second Anniversary'] = 'Druhé výročí';
