@@ -1285,6 +1285,7 @@ $Definition['RSS Feed'] = '‎تزويد بمقتطفات الأخبار أر أ
 $Definition['RSVP'] = 'أجبني لو سمحت';
 
 $Definition['Save'] = 'حفظ';
+$Definition['Save Avatar'] = 'حفظ الصورة الرمزية';
 $Definition['Save Comment'] = 'حفظ التعليق';
 $Definition['Saved'] = 'تم حفظ التغييرات.';
 $Definition['Save Draft'] = 'حفظ المسودة';
@@ -1301,6 +1302,7 @@ $Definition['Search for a tag.'] = 'البحث عن كل أو جزء من الع
 $Definition['Search group members'] = 'البحث في أعضاء المجموعة ';
 $Definition['Search Groups'] = 'مجموعات البحث';
 $Definition['Search groups'] = 'مجموعات البحث';
+$Definition['search only in followed categories'] = 'ابحث فقط في الفئات التالية';
 $Definition['Search results for \'%s\''] = 'نتائج البحث عن \'%s\'';
 $Definition['search subcategories'] = 'البحث في الفئات الفرعية';
 $Definition['Second Anniversary'] = 'الذكرى السنوية الثانية';
