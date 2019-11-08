@@ -1291,6 +1291,7 @@ $Definition['RSS Feed'] = 'Ροή δεδομένων RSS';
 $Definition['RSVP'] = 'Απαντήστε';
 
 $Definition['Save'] = 'Αποθήκευση';
+$Definition['Save Avatar'] = 'Αποθηκεύστε το Avatar';
 $Definition['Save Comment'] = 'Αποθήκευση Σχόλιου';
 $Definition['Saved'] = 'Οι αλλαγές σας έχουν αποθηκευτεί.';
 $Definition['Save Draft'] = 'Αποθήκευση Προσχέδιου';
@@ -1307,6 +1308,7 @@ $Definition['Search for a tag.'] = 'Αναζήτηση ολόκληρης ή μ�
 $Definition['Search group members'] = 'Αναζήτηση μελών ομάδας';
 $Definition['Search Groups'] = 'Αναζήτηση Ομάδων';
 $Definition['Search groups'] = 'Αναζητήστε ομάδες';
+$Definition['search only in followed categories'] = 'αναζήτηση μόνο στις κατηγορίες που ακολουθείτε';
 $Definition['Search results for \'%s\''] = 'Αποτελέσματα αναζήτηση για \'%s\'';
 $Definition['search subcategories'] = 'αναζήτηση υποκατηγοριών';
 $Definition['Second Anniversary'] = 'Δεύτερη Επέτειος';
