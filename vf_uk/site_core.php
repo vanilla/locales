@@ -1290,6 +1290,7 @@ $Definition['RSS Feed'] = 'RSS канал';
 $Definition['RSVP'] = 'Відповісти';
 
 $Definition['Save'] = 'Зберегти';
+$Definition['Save Avatar'] = 'Зберегти аватарку';
 $Definition['Save Comment'] = 'Зберегти коментар';
 $Definition['Saved'] = 'Ваші зміни були збережені.';
 $Definition['Save Draft'] = 'Зберегти чернетку';
@@ -1306,6 +1307,7 @@ $Definition['Search for a tag.'] = 'Пошук всього або частин�
 $Definition['Search group members'] = 'Шукати членів групи';
 $Definition['Search Groups'] = 'Шукати в групах';
 $Definition['Search groups'] = 'Шукати в групах';
+$Definition['search only in followed categories'] = 'Шукати тільки у наступних категоріях ';
 $Definition['Search results for \'%s\''] = 'Результати пошуку для \'%s\'';
 $Definition['search subcategories'] = 'шукати підкатегорії';
 $Definition['Second Anniversary'] = 'Друга річниця';
