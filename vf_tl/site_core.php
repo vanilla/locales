@@ -1282,6 +1282,7 @@ $Definition['RSS Feed'] = 'RSS Feed';
 $Definition['RSVP'] = 'Sumagot';
 
 $Definition['Save'] = 'I-save';
+$Definition['Save Avatar'] = 'I-save ang Avatar';
 $Definition['Save Comment'] = 'I-Save ang Komentaryo';
 $Definition['Saved'] = 'Ang iyong mga pagbabago ay nai-save.';
 $Definition['Save Draft'] = 'I-save Ang Draft';
@@ -1298,6 +1299,7 @@ $Definition['Search for a tag.'] = 'Magsaliksik ng lahat o bahagi ng tag';
 $Definition['Search group members'] = 'Hanapin ang mga miyembro sa grupo';
 $Definition['Search Groups'] = 'Maghanap sa Mga Grupo';
 $Definition['Search groups'] = 'Maghanap sa mga grupo';
+$Definition['search only in followed categories'] = 'hanapin lang sa mga kategoryang sinusubaybayan';
 $Definition['Search results for \'%s\''] = 'Resulta sa pananaliksik ng \'%s\'';
 $Definition['search subcategories'] = 'maghanap ng mga subcategory';
 $Definition['Second Anniversary'] = 'Ikalawang Anibersaryo';
