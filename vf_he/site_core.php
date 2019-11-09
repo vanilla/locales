@@ -1288,6 +1288,7 @@ $Definition['RSS Feed'] = 'הזנת RSS';
 $Definition['RSVP'] = 'כריש';
 
 $Definition['Save'] = 'שמור';
+$Definition['Save Avatar'] = 'שמור אווטאר';
 $Definition['Save Comment'] = 'שמור תגובה';
 $Definition['Saved'] = 'השינויים שלך נשמרו';
 $Definition['Save Draft'] = 'שמור טיוטה';
@@ -1304,6 +1305,7 @@ $Definition['Search for a tag.'] = 'חפש אחר כל, או חלק מתג';
 $Definition['Search group members'] = 'חפש חברי קבוצה';
 $Definition['Search Groups'] = 'חפש ק';
 $Definition['Search groups'] = 'חפש קבוצות';
+$Definition['search only in followed categories'] = 'חפש רק בקטגוריות שבמעקב';
 $Definition['Search results for \'%s\''] = 'תוצאות חיפוש עבור  \'%s\'';
 $Definition['search subcategories'] = 'חפש תת-קטגוריות';
 $Definition['Second Anniversary'] = 'יום שנה שני';
