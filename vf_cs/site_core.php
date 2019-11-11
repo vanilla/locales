@@ -1047,6 +1047,7 @@ $Definition['Only show followed categories'] = 'Zobrazit pouze sledované katego
 $Definition['Open'] = 'Otevřít';
 $Definition["Open Folder"] = "Otevřít složku ";
 $Definition['OpenID Settings'] = 'Nastavení OpenID';
+$Definition['OpenID signin has been disabled.'] = 'Přihlášení přes OpenID bylo deaktivováno.';
 $Definition['Optional'] = 'Nepovinný';
 $Definition['Optional Description'] = 'Volitelný popis';
 $Definition['Options'] = 'Možnosti';
@@ -1281,7 +1282,7 @@ $Definition['RSS Feed'] = 'RSS Kanál';
 $Definition['RSVP'] = 'Odpovězte prosím';
 
 $Definition['Save'] = 'Uložit';
-$Definition['Save Avatar'] = 'Save Avatar';
+$Definition['Save Avatar'] = 'Uložit avatar';
 $Definition['Save Comment'] = 'Uložit komentář';
 $Definition['Saved'] = 'Provedené změny byly uloženy.';
 $Definition['Save Draft'] = 'Uložit koncept';
