@@ -1280,6 +1280,7 @@ $Definition['RSS Feed'] = 'ฟีด RSS';
 $Definition['RSVP'] = 'ตอบกลับ';
 
 $Definition['Save'] = 'บันทึก';
+$Definition['Save Avatar'] = 'บันทึกอวาตาร์';
 $Definition['Save Comment'] = 'บันทึกความเห็น';
 $Definition['Saved'] = 'การเปลี่ยนแปลงของคุณได้รับการบันทึกแล้ว';
 $Definition['Save Draft'] = 'บันทึกร่าง';
@@ -1296,6 +1297,7 @@ $Definition['Search for a tag.'] = 'ค้นหาทั้งหมดหร�
 $Definition['Search group members'] = 'ค้นหาสมาชิกกลุ่ม';
 $Definition['Search Groups'] = 'กลุ่มการค้นหา';
 $Definition['Search groups'] = 'กลุ่มการค้นหา';
+$Definition['search only in followed categories'] = 'search only in followed categories';
 $Definition['Search results for \'%s\''] = 'ผลลัพธ์การค้นหาสำหรับ \'%s\'';
 $Definition['search subcategories'] = 'ค้นหมวดหมู่ย่อย';
 $Definition['Second Anniversary'] = 'ครบรอบปีที่สอง';

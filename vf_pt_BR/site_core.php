@@ -1288,6 +1288,7 @@ $Definition['RSS Feed'] = 'Feed RSS';
 $Definition['RSVP'] = 'Responder';
 
 $Definition['Save'] = 'Salvar';
+$Definition['Save Avatar'] = 'Salvar Avatar';
 $Definition['Save Comment'] = 'Salvar comentário';
 $Definition['Saved'] = 'Suas alterações foram salvas.';
 $Definition['Save Draft'] = 'Salvar rascunho';
@@ -1304,6 +1305,7 @@ $Definition['Search for a tag.'] = 'Pesquisar por todo o conteúdo ou por um ró
 $Definition['Search group members'] = 'Procurar membros do grupo';
 $Definition['Search Groups'] = 'Grupos de Pesquisa';
 $Definition['Search groups'] = 'Grupos de pesquisa';
+$Definition['search only in followed categories'] = 'pesquisar apenas nas categorias seguidas';
 $Definition['Search results for \'%s\''] = 'Resultados de pesquisa para \'%s\'';
 $Definition['search subcategories'] = 'pesquisar subsalas ';
 $Definition['Second Anniversary'] = 'Segundo aniversário';

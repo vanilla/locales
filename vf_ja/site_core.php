@@ -1292,6 +1292,7 @@ $Definition['RSS Feed'] = 'RSSフィード';
 $Definition['RSVP'] = 'RSVPは';
 
 $Definition['Save'] = '保存';
+$Definition['Save Avatar'] = 'アバターを保存する';
 $Definition['Save Comment'] = 'コメントを保存する';
 $Definition['Saved'] = '変更を保存しました。';
 $Definition['Save Draft'] = '下書きとして保存';
@@ -1308,6 +1309,7 @@ $Definition['Search for a tag.'] = 'すべてを検索、またはタグの一�
 $Definition['Search group members'] = 'グループメンバーを検索';
 $Definition['Search Groups'] = '検索グループ';
 $Definition['Search groups'] = '検索グループ';
+$Definition['search only in followed categories'] = 'フォロー中のカテゴリー内でのみ検索';
 $Definition['Search results for \'%s\''] = '｢%s｣の検索結果';
 $Definition['search subcategories'] = 'サブカテゴリを検索する
 ';

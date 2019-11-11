@@ -1277,6 +1277,7 @@ $Definition['RSS Feed'] = 'Știri RSS';
 $Definition['RSVP'] = 'Răspundeți';
 
 $Definition['Save'] = 'Salvare';
+$Definition['Save Avatar'] = 'Caută avatarul';
 $Definition['Save Comment'] = 'Salvare comentariu';
 $Definition['Saved'] = 'Modificările au fost salvate.';
 $Definition['Save Draft'] = 'Salvare ciornă';
@@ -1293,6 +1294,7 @@ $Definition['Search for a tag.'] = 'Căutare pentru toate sau o parte din o etic
 $Definition['Search group members'] = 'Caută membrii grupului';
 $Definition['Search Groups'] = 'Căutare grupuri';
 $Definition['Search groups'] = 'Căutare grupuri';
+$Definition['search only in followed categories'] = 'caută numai în categoriile urmărite';
 $Definition['Search results for \'%s\''] = 'Rezultatele cautari pentru " \'%s\' "';
 $Definition['search subcategories'] = 'Căutaţi subcategorii';
 $Definition['Second Anniversary'] = 'A 2-a Aniversare';

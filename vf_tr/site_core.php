@@ -1282,6 +1282,7 @@ $Definition['RSS Feed'] = 'RSS Beslemesi';
 $Definition['RSVP'] = 'LCV';
 
 $Definition['Save'] = 'Kaydet';
+$Definition['Save Avatar'] = 'Avatarı Kaydet';
 $Definition['Save Comment'] = 'Yorumu Kaydet';
 $Definition['Saved'] = 'Değişiklikleriniz kaydedildi.';
 $Definition['Save Draft'] = 'Taslak Kaydet';
@@ -1298,6 +1299,7 @@ $Definition['Search for a tag.'] = 'Etiketin hepsini yada bir bölümünü ara';
 $Definition['Search group members'] = 'Grup üyeleri ara';
 $Definition['Search Groups'] = 'Grup Ara';
 $Definition['Search groups'] = 'Grup ara';
+$Definition['search only in followed categories'] = 'yalnızca takip edilen kategorilerde ara';
 $Definition['Search results for \'%s\''] = '\'%s\' için arama sonuçları';
 $Definition['search subcategories'] = 'alt kategoriler ara';
 $Definition['Second Anniversary'] = 'İkinci Yıldönümü';

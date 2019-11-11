@@ -1291,6 +1291,7 @@ $Definition['RSS Feed'] = 'Flux RSS';
 $Definition['RSVP'] = 'Répondre';
 
 $Definition['Save'] = 'Enregistrer';
+$Definition['Save Avatar'] = 'Enregistrer l\'avatar';
 $Definition['Save Comment'] = 'Enregistrer la réponse';
 $Definition['Saved'] = 'Vos modifications ont été enregistrées.';
 $Definition['Save Draft'] = 'Enregistrer brouillon';
@@ -1307,6 +1308,7 @@ $Definition['Search for a tag.'] = 'Rechercher sur tout ou partie d\'un tag <i>(
 $Definition['Search group members'] = 'Rechercher des membres du groupe';
 $Definition['Search Groups'] = 'Groupes de recherche';
 $Definition['Search groups'] = 'Groupes de recherche';
+$Definition['search only in followed categories'] = 'rechercher seulement dans les catégories suivantes';
 $Definition['Search results for \'%s\''] = 'Rechercher des résultats pour \'%s\'';
 $Definition['search subcategories'] = 'Chercher dans les sous-catégories';
 $Definition['Second Anniversary'] = 'Second anniversaire';

@@ -1287,6 +1287,7 @@ $Definition['RSS Feed'] = 'RSS 订阅';
 $Definition['RSVP'] = '敬请评论';
 
 $Definition['Save'] = '保存';
+$Definition['Save Avatar'] = '保存头像';
 $Definition['Save Comment'] = '保存评论';
 $Definition['Saved'] = '保存';
 $Definition['Save Draft'] = '保存草稿';
@@ -1303,6 +1304,7 @@ $Definition['Search for a tag.'] = '搜索全部或部分标签。';
 $Definition['Search group members'] = '搜索组成员';
 $Definition['Search Groups'] = '搜索群组';
 $Definition['Search groups'] = '搜索群组';
+$Definition['search only in followed categories'] = '仅在以下类别中搜索';
 $Definition['Search results for \'%s\''] = '在结果中搜索 \'%s\'';
 $Definition['search subcategories'] = '搜索子版块';
 $Definition['Second Anniversary'] = '两周年';

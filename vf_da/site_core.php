@@ -1286,6 +1286,7 @@ $Definition['RSS Feed'] = 'RSS feed';
 $Definition['RSVP'] = 'Svar';
 
 $Definition['Save'] = 'Gem';
+$Definition['Save Avatar'] = 'Gem avatar ';
 $Definition['Save Comment'] = 'Gem kommentar';
 $Definition['Saved'] = 'Dine Êndringer er gemt.';
 $Definition['Save Draft'] = 'Gem kladde';
@@ -1302,6 +1303,7 @@ $Definition['Search for a tag.'] = 'Søg efter alle eller dele af et mærke.';
 $Definition['Search group members'] = 'Søg efter gruppemedlemmer';
 $Definition['Search Groups'] = 'Søg i grupper';
 $Definition['Search groups'] = 'Søg i grupper';
+$Definition['search only in followed categories'] = 'søg kun i fulgte kategorier ';
 $Definition['Search results for \'%s\''] = 'Søgeresultater for \'%s\'';
 $Definition['search subcategories'] = 'Søg i underkategorier';
 $Definition['Second Anniversary'] = 'Andet jubilæum';

@@ -1284,6 +1284,7 @@ $Definition['RSS Feed'] = 'RSS Feed';
 $Definition['RSVP'] = 'Válaszkérés';
 
 $Definition['Save'] = 'Mentés';
+$Definition['Save Avatar'] = 'Avatar mentése';
 $Definition['Save Comment'] = 'Hozzászólás mentése';
 $Definition['Saved'] = 'A változásokat elmentettük';
 $Definition['Save Draft'] = 'Piszkozat mentése';
@@ -1300,6 +1301,7 @@ $Definition['Search for a tag.'] = 'Keresés címke egy részére.';
 $Definition['Search group members'] = 'Csoporttagok keresése';
 $Definition['Search Groups'] = 'Csoportok keresése';
 $Definition['Search groups'] = 'Csoportok keresése';
+$Definition['search only in followed categories'] = 'keresés csak a követett kategóriákban';
 $Definition['Search results for \'%s\''] = 'Keresés erre: \'%s\'';
 $Definition['search subcategories'] = 'keresés az alkategóriákban';
 $Definition['Second Anniversary'] = 'Második évforduló';

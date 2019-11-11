@@ -1294,6 +1294,7 @@ $Definition['RSS Feed'] = 'RSS-syöte';
 $Definition['RSVP'] = 'Vastausta';
 
 $Definition['Save'] = 'Tallenna';
+$Definition['Save Avatar'] = 'Tallenna avatar';
 $Definition['Save Comment'] = 'Tallenna viesti';
 $Definition['Saved'] = 'Muutokset tallennettiin.';
 $Definition['Save Draft'] = 'Tallenna luonnos';
@@ -1310,6 +1311,7 @@ $Definition['Search for a tag.'] = 'Etsi koko tagia tai osaa siit&auml;.';
 $Definition['Search group members'] = 'Etsi ryhmän jäseniä';
 $Definition['Search Groups'] = 'Hae ryhmiä';
 $Definition['Search groups'] = 'Hae ryhmiä';
+$Definition['search only in followed categories'] = 'hae vain seuratuista kategorioista';
 $Definition['Search results for \'%s\''] = 'Tulokset haulla \'%s\'';
 $Definition['search subcategories'] = 'etsi alakategorioita';
 $Definition['Second Anniversary'] = 'Toinen vuosip&auml;iv&auml;';

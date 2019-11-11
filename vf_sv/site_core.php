@@ -1281,6 +1281,7 @@ $Definition['RSS Feed'] = 'RSS-flöde';
 $Definition['RSVP'] = 'Besvara';
 
 $Definition['Save'] = 'Spara';
+$Definition['Save Avatar'] = 'Spara Avatar';
 $Definition['Save Comment'] = 'Spara kommentar';
 $Definition['Saved'] = 'Dina ändringar har sparats.';
 $Definition['Save Draft'] = 'Spara utkast';
@@ -1297,6 +1298,7 @@ $Definition['Search for a tag.'] = 'Sök för hela eller delar av en tagg.';
 $Definition['Search group members'] = 'Sök efter gruppmedlemmar';
 $Definition['Search Groups'] = 'Sök grupper';
 $Definition['Search groups'] = 'Sök grupper';
+$Definition['search only in followed categories'] = 'sök endast i följda kategorier';
 $Definition['Search results for \'%s\''] = 'Sökresultat för \'%s\'';
 $Definition['search subcategories'] = 'sök underkategorier';
 $Definition['Second Anniversary'] = 'Andra årsdagen';

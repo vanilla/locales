@@ -1287,6 +1287,7 @@ $Definition['RSS Feed'] = 'RSS-feed';
 $Definition['RSVP'] = 'Svar';
 
 $Definition['Save'] = 'Lagre';
+$Definition['Save Avatar'] = 'Lagre avatar';
 $Definition['Save Comment'] = 'Lagre kommentar';
 $Definition['Saved'] = 'Dine endringer har blitt lagret';
 $Definition['Save Draft'] = 'Lagre utkast';
@@ -1303,6 +1304,7 @@ $Definition['Search for a tag.'] = 'Søk etter hele eller deler av en etikett. '
 $Definition['Search group members'] = 'Søk gruppemedlemmer';
 $Definition['Search Groups'] = 'Søkegrupper';
 $Definition['Search groups'] = 'Søkegrupper';
+$Definition['search only in followed categories'] = 'søk kun i fulgte kategorier';
 $Definition['Search results for \'%s\''] = 'Resultater for \'%s\'';
 $Definition['search subcategories'] = 'søk underkategorier';
 $Definition['Second Anniversary'] = 'Toårsjubileum';
