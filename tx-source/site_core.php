@@ -1047,6 +1047,7 @@ $Definition['Only show followed categories'] = 'Only show followed categories';
 $Definition['Open'] = 'Open';
 $Definition["Open Folder"] = "Open Folder";
 $Definition['OpenID Settings'] = 'OpenID Settings';
+$Definition['OpenID signin has been disabled.'] = 'OpenID signin has been disabled.';
 $Definition['Optional'] = 'Optional';
 $Definition['Optional Description'] = 'Optional Description';
 $Definition['Options'] = 'Options';
