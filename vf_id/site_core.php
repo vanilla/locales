@@ -1047,6 +1047,7 @@ $Definition['Only show followed categories'] = 'Hanya tampilkan kategori yang di
 $Definition['Open'] = 'Buka';
 $Definition["Open Folder"] = "Buka Folder";
 $Definition['OpenID Settings'] = 'Setelan OpenID';
+$Definition['OpenID signin has been disabled.'] = 'Masuk dengan OpenID telah dinonaktifkan.';
 $Definition['Optional'] = 'Opsional';
 $Definition['Optional Description'] = 'Deskripsi Opsional';
 $Definition['Options'] = 'Opsi';
