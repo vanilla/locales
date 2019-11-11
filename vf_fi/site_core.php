@@ -1058,6 +1058,7 @@ $Definition['Only show followed categories'] = 'N&auml;yt&auml; vain seurantaan 
 $Definition['Open'] = 'Avoin';
 $Definition["Open Folder"] = "Avaa kansio";
 $Definition['OpenID Settings'] = 'OpenID:n asetukset';
+$Definition['OpenID signin has been disabled.'] = 'OpenID-sisäänkirjautuminen ei ole käytössä.';
 $Definition['Optional'] = 'Valinnainen';
 $Definition['Optional Description'] = 'Valinnainen kuvausteksti';
 $Definition['Options'] = 'Valinnat';
