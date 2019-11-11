@@ -1052,6 +1052,7 @@ $Definition['Only show followed categories'] = 'Mostrar somente salas de discuss
 $Definition['Open'] = 'Abrir';
 $Definition["Open Folder"] = "Abrir pasta";
 $Definition['OpenID Settings'] = 'Configurações de OpenID';
+$Definition['OpenID signin has been disabled.'] = 'O acesso via OpenID foi desativado.';
 $Definition['Optional'] = 'Opcional';
 $Definition['Optional Description'] = 'Descrição opcional';
 $Definition['Options'] = 'Opções';
