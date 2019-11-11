@@ -1046,6 +1046,7 @@ $Definition['Only show followed categories'] = 'Nur verfolgte Kategorien zeigen'
 $Definition['Open'] = 'Offen';
 $Definition["Open Folder"] = "Offener Ordner";
 $Definition['OpenID Settings'] = 'OpenID-Einstellungen';
+$Definition['OpenID signin has been disabled.'] = 'Die OpenID-Anmeldung wurde deaktiviert.';
 $Definition['Optional'] = 'Optional';
 $Definition['Optional Description'] = 'Optionale Beschreibung';
 $Definition['Options'] = 'Optionen';
