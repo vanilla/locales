@@ -1048,6 +1048,7 @@ $Definition['Only show followed categories'] = 'Ipakita lamang ang mga sinusunda
 $Definition['Open'] = 'Bukas';
 $Definition["Open Folder"] = "Buksan ang Folder";
 $Definition['OpenID Settings'] = 'Mga Setting ng OpenID ';
+$Definition['OpenID signin has been disabled.'] = 'Ang OpenID signin ay hindi na pinagana.';
 $Definition['Optional'] = 'Opsyonal';
 $Definition['Optional Description'] = 'Opsyonal na Paglalarawan';
 $Definition['Options'] = 'Mga Opsyon';
