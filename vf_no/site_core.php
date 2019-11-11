@@ -1049,6 +1049,7 @@ $Definition['Only show followed categories'] = 'Klikk her for å se kategorier d
 $Definition['Open'] = 'Åpne';
 $Definition["Open Folder"] = "Åpne mappe";
 $Definition['OpenID Settings'] = 'ÅpenID innstillinger';
+$Definition['OpenID signin has been disabled.'] = 'Pålogging med OpenID er blitt deaktivert.';
 $Definition['Optional'] = 'Valgfritt';
 $Definition['Optional Description'] = 'Valgfri beskrivelse';
 $Definition['Options'] = 'Instillinger';
