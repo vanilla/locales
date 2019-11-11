@@ -115,6 +115,9 @@ $Definition["There are no categories here."] = "Il n'y a pas de catégorie ici."
 $Definition["There are no knowledge bases"] = "Il n'y a pas de base de connaissances";
 $Definition["There was an error"] = "Une erreur s'est produite";
 $Definition["This article has been deleted."] = "Cet article a été supprimé.";
+$Definition["This article hasn't been translated yet."] = "Cet article n'a pas encore été traduit.
+";
+$Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Cet article n'a pas encore été traduit. Le texte original de l'article a été chargé pour faciliter la traduction.";
 $Definition["This category does not have any articles."] = "Cette catégorie ne contient aucun article.";
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "C'est une action destructrice. Vous ne pourrez pas restaurer votre brouillon.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Il s'agit d'une action non destructrice. Vous pourrez restaurer votre article si vous le souhaitez.";
