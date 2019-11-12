@@ -1047,6 +1047,7 @@ $Definition['Only show followed categories'] = 'Chỉ hiển thị danh mục đ
 $Definition['Open'] = 'Mở';
 $Definition["Open Folder"] = "Mở Thư mục";
 $Definition['OpenID Settings'] = 'Thiết lập OpenID';
+$Definition['OpenID signin has been disabled.'] = 'Tính năng đăng nhập OpenID đã tắt.';
 $Definition['Optional'] = 'Không bắt buộc';
 $Definition['Optional Description'] = 'Thông tin thêm';
 $Definition['Options'] = 'Thiết lập';
