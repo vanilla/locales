@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s accepted %4$s invitation for membership.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s changed %4$s permissions.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s changed %6$s profile picture.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(All)';
 $Definition['(empty message)'] = '(empty message)';
 $Definition['(Spoiler)'] = '(Spoiler)';
 $Definition["(Outdated)"] = "(Outdated)";
+$Definition["(Untitled)"] = "(Untitled)";
 
 $Definition['+%s Guests'] = '+%s Guests';
 
