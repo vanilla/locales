@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s zaakceptował(a) %4$s zaproszenie.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s zmienił(a) %4$s uprawnienia.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s zmienił(a) %6$s obrazek profilowy.';
@@ -123,6 +122,7 @@ $Definition['(All)'] = '(Wszystko)';
 $Definition['(empty message)'] = '(pusta wiadomość)';
 $Definition['(Spoiler)'] = '(Spoiler)';
 $Definition["(Outdated)"] = "(Nieaktualne)";
+$Definition["(Untitled)"] = "(Bez tytułu)";
 
 $Definition['+%s Guests'] = '+%s Gości';
 
@@ -1058,6 +1058,7 @@ $Definition['Only show followed categories'] = 'Pokaż tylko obserwowane kategor
 $Definition['Open'] = 'Otwórz';
 $Definition["Open Folder"] = "Otwórz folder";
 $Definition['OpenID Settings'] = 'Ustawienia OpenID';
+$Definition['OpenID signin has been disabled.'] = 'Logowanie za pomocą OpenID zostało wyłączone.';
 $Definition['Optional'] = 'Opcjonalne';
 $Definition['Optional Description'] = 'Opcjonalny opis';
 $Definition['Options'] = 'Opcje';
@@ -1148,8 +1149,8 @@ $Definition['Powered by Vanilla'] = 'Zasilane przez Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Powiadom mnie, gdy otrzymam odznakę.';
 $Definition['PreferenceBadgePopup'] = 'Powiadom mnie, gdy otrzymam odznakę.';
-$Definition['PreferencesRankEmail'] = 'Powiadom mnie, kiedy moja ranga ulegnie zmianie.';
-$Definition['PreferencesRankPopup'] = 'Powiadom mnie, kiedy moja ranga ulegnie zmianie.';
+$Definition['PreferenceRankEmail'] = 'Powiadom mnie, kiedy moja ranga ulegnie zmianie.';
+$Definition['PreferenceRankPopup'] = 'Powiadom mnie, kiedy moja ranga ulegnie zmianie.';
 $Definition['Preferences'] = 'Preferencje';
 $Definition['Preview'] = 'Podgląd';
 $Definition['Previous'] = 'Poprzedni';

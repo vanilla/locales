@@ -379,7 +379,6 @@ $Definition['Connection'] = 'اتصال';
 $Definition['ConnectLeaveBlank'] = 'جهت اتصال به يك حساب كاربري موجود خالي بگذاريد.';
 $Definition['ConnectName'] = 'نام كاربري';
 $Definition['ConnectRegisteredName'] = 'نام كاربري ثبت شده شما: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'پروفايل خود را با شبكه هاي اجتماعي متصل كرده تا از فعاليتها در اينجا باخبر شده و فعاليت ها را با دوستان و دنبال كنندگان خود به اشتراك بگذاريد.';
 $Definition['Contact Us'] = 'تماس با ما';
 $Definition['Continue'] = 'ادامه';
 $Definition['conversation'] = 'محاوره';

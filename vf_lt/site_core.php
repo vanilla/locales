@@ -355,7 +355,6 @@ $Definition['Connection'] = 'Jungtis';
 $Definition['ConnectLeaveBlank'] = 'Palik tuščią jei jungiesi prie egzistuojančios paskyros.';
 $Definition['ConnectName'] = 'Registracijos vardas';
 $Definition['ConnectRegisteredName'] = 'Tavo naudotojo vardas: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 $Definition['Continue'] = 'Tęsti';
 $Definition['conversation'] = 'Dialogai';
 $Definition['Copy'] = 'Kopijuoti';

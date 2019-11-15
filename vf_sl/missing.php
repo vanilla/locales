@@ -30,7 +30,7 @@ $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Condition Field'] = 'Field';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
 $Definition['CreateFile'] = 'Create';
 
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
@@ -155,8 +155,8 @@ $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">grou
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['polls'] = 'Polls';
-$Definition['PreferencesRankEmail'] = 'Notify me when my rank changes.';
-$Definition['PreferencesRankPopup'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankPopup'] = 'Notify me when my rank changes.';
 $Definition['Private group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
 $Definition['Public group.'] = 'Anyone can see the group and its content. Anyone can join.';
 

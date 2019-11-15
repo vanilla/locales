@@ -365,7 +365,6 @@ $Definition['Connection'] = 'Veza';
 $Definition['ConnectLeaveBlank'] = 'Ostavite prazno ako se ne povežete s postojećim računom.';
 $Definition['ConnectName'] = 'Korisničko ime';
 $Definition['ConnectRegisteredName'] = 'Vaše registrirano korisničko ime: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Povežite svoj profil s društvenim mrežama kako biste bili obaviješteni o aktivnostima ovdje i podijelite svoju aktivnost s prijateljima i sljedbenicima.';
 $Definition['Contact Us'] = 'Kontaktirajte nas';
 $Definition['Continue'] = 'Nastaviti';
 $Definition['conversation'] = 'razgovor';

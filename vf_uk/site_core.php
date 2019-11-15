@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s підтвердив %4$s запрошення.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s змінив %4$s права доступу.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s змінив(ла) зображення користувача %6$s.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Всі)';
 $Definition['(empty message)'] = '(пусте повідомлення)';
 $Definition['(Spoiler)'] = '(Спойлер)';
 $Definition["(Outdated)"] = "(Застаріле)";
+$Definition["(Untitled)"] = "(Без назви)";
 
 $Definition['+%s Guests'] = '+%s Гостей';
 
@@ -1147,8 +1147,8 @@ $Definition['Powered by Vanilla'] = 'Працює на Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Повідомити мене, коли я заробив значок.';
 $Definition['PreferenceBadgePopup'] = 'Повідомити мене, коли я заробив значок.';
-$Definition['PreferencesRankEmail'] = 'Повідомте, коли зміниться мій ранг.';
-$Definition['PreferencesRankPopup'] = 'Повідомте, коли зміниться мій ранг.';
+$Definition['PreferenceRankEmail'] = 'Повідомте, коли зміниться мій ранг.';
+$Definition['PreferenceRankPopup'] = 'Повідомте, коли зміниться мій ранг.';
 $Definition['Preferences'] = 'Налаштування';
 $Definition['Preview'] = 'Попередній перегляд';
 $Definition['Previous'] = 'Назад';

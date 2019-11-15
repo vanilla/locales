@@ -13,6 +13,7 @@ $Definition['Categories are used to organize discussions.'] = 'Categories are us
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
 
 $Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
 $Definition['editor.fileErrorSize'] = 'File size is too large.';
@@ -103,8 +104,8 @@ $Definition['Password Too Short'] = 'Too Short';
 $Definition['Password Very Weak'] = 'Very Weak';
 $Definition['Password Weak'] = 'Weak';
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
-$Definition['PreferencesRankEmail'] = 'Notify me when my rank changes.';
-$Definition['PreferencesRankPopup'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankPopup'] = 'Notify me when my rank changes.';
 
 $Definition['richEditor.description.embed'] = 'Some elements, such as embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using arrow keys inside of the editor and delete them with the delete or backspace key.';
 $Definition['richEditor.description.inlineMenu'] = 'A text formatting menu will open when you select text. Hit tab to navigate to that menu.';

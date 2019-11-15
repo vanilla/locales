@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s accepterede %4$s invitation om medlemskab.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s ændrede %4$s tilladelser.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s skiftede %6$s profilbillede.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Alle)';
 $Definition['(empty message)'] = '(tom besked)';
 $Definition['(Spoiler)'] = '(Spoiler)';
 $Definition["(Outdated)"] = "(Forældet)";
+$Definition["(Untitled)"] = "(Unavngivet)";
 
 $Definition['+%s Guests'] = '+%s gæster';
 
@@ -1051,6 +1051,7 @@ $Definition['Only show followed categories'] = 'Vis kun kategorier der følges';
 $Definition['Open'] = 'Åben';
 $Definition["Open Folder"] = "Åben Mappe";
 $Definition['OpenID Settings'] = 'OpenID Indstillinger';
+$Definition['OpenID signin has been disabled.'] = 'OpenID-login er deaktiveret.';
 $Definition['Optional'] = 'Valgfri';
 $Definition['Optional Description'] = 'Valgfri beskrivelse';
 $Definition['Options'] = 'Indstillinger';
@@ -1141,8 +1142,8 @@ $Definition['Powered by Vanilla'] = 'Drevet af Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Underret mig, når jeg modtager et emblem.';
 $Definition['PreferenceBadgePopup'] = 'Underret mig, når jeg modtager et emblem.';
-$Definition['PreferencesRankEmail'] = 'Giv mig besked når min rangering ændrer sig.';
-$Definition['PreferencesRankPopup'] = 'Giv mig besked når min rangering ændrer sig.';
+$Definition['PreferenceRankEmail'] = 'Giv mig besked når min rangering ændrer sig.';
+$Definition['PreferenceRankPopup'] = 'Giv mig besked når min rangering ændrer sig.';
 $Definition['Preferences'] = 'Præferencer';
 $Definition['Preview'] = 'Forhåndsvisning';
 $Definition['Previous'] = 'Forrige';

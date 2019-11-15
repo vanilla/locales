@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s a acceptat invitația lui %4$s.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s a schimbat permisiunile lui %4$s.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s a schimbat avatarul la %6$s .';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Toate)';
 $Definition['(empty message)'] = '(mesaj gol)';
 $Definition['(Spoiler)'] = '(Avertisment sinopsis)';
 $Definition["(Outdated)"] = "(Depășit)";
+$Definition["(Untitled)"] = "(Fără titlu)";
 
 $Definition['+%s Guests'] = '+%s Invitați';
 
@@ -1134,8 +1134,8 @@ $Definition['Powered by Vanilla'] = 'Sprijinit de Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Anunţă-mă când am câştigat o insignă.';
 $Definition['PreferenceBadgePopup'] = 'Anunţă-mă când am câştigat o insignă.';
-$Definition['PreferencesRankEmail'] = 'Anunță-mă când rangul meu se modifică.';
-$Definition['PreferencesRankPopup'] = 'Anunță-mă când rangul meu se modifică.';
+$Definition['PreferenceRankEmail'] = 'Anunță-mă când rangul meu se modifică.';
+$Definition['PreferenceRankPopup'] = 'Anunță-mă când rangul meu se modifică.';
 $Definition['Preferences'] = 'Preferințe';
 $Definition['Preview'] = 'Previzualizare';
 $Definition['Previous'] = 'Anterior';

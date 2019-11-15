@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s menerima undangan %4$s untuk keanggotaan.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s mengubah perizinan %4$s.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s mengubah gambar profil %6$s.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Semua)';
 $Definition['(empty message)'] = '(pesan kosong)';
 $Definition['(Spoiler)'] = '(Spoiler)';
 $Definition["(Outdated)"] = "(Usang)";
+$Definition["(Untitled)"] = "(Tanpa judul)";
 
 $Definition['+%s Guests'] = '+%s Tamu';
 
@@ -1138,8 +1138,8 @@ $Definition['Powered by Vanilla'] = 'Didukung oleh Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Beritahu saya bila saya mendapat lencana.';
 $Definition['PreferenceBadgePopup'] = 'Beritahu saya bila saya mendapat lencana.';
-$Definition['PreferencesRankEmail'] = 'Beritahu saya ketika peringkat saya berubah';
-$Definition['PreferencesRankPopup'] = 'Beritahu saya ketika peringkat saya berubah';
+$Definition['PreferenceRankEmail'] = 'Beritahu saya ketika peringkat saya berubah';
+$Definition['PreferenceRankPopup'] = 'Beritahu saya ketika peringkat saya berubah';
 $Definition['Preferences'] = 'Preferensi';
 $Definition['Preview'] = 'Pratayang';
 $Definition['Previous'] = 'Sebelumnya';

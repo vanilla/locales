@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s接受了%4$s的邀请。';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s修改了%3$s的权限。';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s更换了%6$s的个人头像。';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '（全部）';
 $Definition['(empty message)'] = '（空信息）';
 $Definition['(Spoiler)'] = '（剧透内容）';
 $Definition["(Outdated)"] = "（已过期）";
+$Definition["(Untitled)"] = "（无标题）";
 
 $Definition['+%s Guests'] = '+%s 来访者';
 
@@ -1144,8 +1144,8 @@ $Definition['Powered by Vanilla'] = '基于 Vanilla 构建';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = '当我获得一枚新徽章时通知我。';
 $Definition['PreferenceBadgePopup'] = '当我获得一枚新徽章时通知我。';
-$Definition['PreferencesRankEmail'] = '我的排名发生变化时通知我';
-$Definition['PreferencesRankPopup'] = '我的排名发生变化时通知我';
+$Definition['PreferenceRankEmail'] = '我的排名发生变化时通知我';
+$Definition['PreferenceRankPopup'] = '我的排名发生变化时通知我';
 $Definition['Preferences'] = '偏好设置';
 $Definition['Preview'] = '预览';
 $Definition['Previous'] = '上一页';

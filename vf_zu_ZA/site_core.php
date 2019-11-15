@@ -347,7 +347,6 @@ $Definition['Connection'] = 'Uxhumano';
 $Definition['ConnectLeaveBlank'] = 'Shiya kungenalutho ngaphandle kwalapho uxhuma ku-akhawunti ekhona kakade.';
 $Definition['ConnectName'] = 'Igama lomsebenzisi';
 $Definition['ConnectRegisteredName'] = 'Igama lakho lomsebenzisi elibhalisiwe: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Xhuma iphrofayela yakho kumanethiwekhi ezokuxhumana ukuze waziswe ngomsebenzi lapha bese wabelana ngomsebenzi wakho nabangane bakho nabalandeli.';
 $Definition['Contact Us'] = 'Sithinte';
 $Definition['Continue'] = 'Qhubeka';
 $Definition['conversation'] = 'inkulumo';

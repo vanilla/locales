@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s が %4$s に参加しました。';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s が %4$s の権限を変更しました。';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s が%6$sプロフィール画像を変更しました。';
@@ -115,6 +114,7 @@ $Definition['(All)'] = '(全て)';
 $Definition['(empty message)'] = '(空白のメッセージ) ';
 $Definition['(Spoiler)'] = '(ネタバレ)';
 $Definition["(Outdated)"] = "（古い）";
+$Definition["(Untitled)"] = "（無題）";
 
 $Definition['+%s Guests'] = '+%s人のゲスト';
 
@@ -1149,8 +1149,8 @@ $Definition['Powered by Vanilla'] = 'Vanillaにより駆動された';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'バッジを獲得したら通知を受け取る。';
 $Definition['PreferenceBadgePopup'] = 'バッジを獲得したら通知を受け取る。';
-$Definition['PreferencesRankEmail'] = 'ランクに変動があったら知らせてください。';
-$Definition['PreferencesRankPopup'] = 'ランクに変動があったら知らせてください。';
+$Definition['PreferenceRankEmail'] = 'ランクに変動があったら知らせてください。';
+$Definition['PreferenceRankPopup'] = 'ランクに変動があったら知らせてください。';
 $Definition['Preferences'] = '個人設定';
 $Definition['Preview'] = 'プレビュー';
 $Definition['Previous'] = '前の';

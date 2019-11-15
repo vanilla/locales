@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s, %4$s tarafından gönderilen üyelik davetini kabul etti.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s %4$s izinlerini değişti.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s %6$s profil resmini değiştirdi.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Tümü)';
 $Definition['(empty message)'] = '(boş mesaj)';
 $Definition['(Spoiler)'] = '(Spoiler)';
 $Definition["(Outdated)"] = "(Eski)";
+$Definition["(Untitled)"] = "(Başlıksız)";
 
 $Definition['+%s Guests'] = '+%s Misafir';
 
@@ -1139,8 +1139,8 @@ $Definition['Powered by Vanilla'] = 'Powered by Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Rozet kazandığımda bana bildir.';
 $Definition['PreferenceBadgePopup'] = 'Rozet kazandığımda bana bildir.';
-$Definition['PreferencesRankEmail'] = 'Sıralamam değiştiğinde bana bildir.';
-$Definition['PreferencesRankPopup'] = 'Sıralamam değiştiğinde bana bildir. ';
+$Definition['PreferenceRankEmail'] = 'Sıralamam değiştiğinde bana bildir. ';
+$Definition['PreferenceRankPopup'] = 'Sıralamam değiştiğinde bana bildir. ';
 $Definition['Preferences'] = 'Tercihler';
 $Definition['Preview'] = 'Önizleme';
 $Definition['Previous'] = 'Önceki';

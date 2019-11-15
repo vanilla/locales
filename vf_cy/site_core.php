@@ -348,7 +348,6 @@ $Definition['Connection'] = 'Cysylltiad';
 $Definition['ConnectLeaveBlank'] = 'Gadewch yn wag oni bai eich bod yn cysyllt â chyfrif sy\'n bodoli.';
 $Definition['ConnectName'] = 'Enw defnyddiwr';
 $Definition['ConnectRegisteredName'] = 'Eich enw defnyddiwr cofrestredig: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Cysylltwch eich proffil â rhwydweithiau cymdeithasol i gael eu hysbysu o\'r gweithgaredd yma a rhannu eich gweithgaredd â\'ch ffrindiau a dilynwyr.';
 $Definition['Contact Us'] = 'Cysylltwch â ni';
 $Definition['Continue'] = 'Yn parhau';
 $Definition['conversation'] = 'sgwrs';

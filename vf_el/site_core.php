@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = 'Ο χρήστης %1$s αποδέχτηκε την πρόσκληση μέλους του χρήστη %4$s.';
 $Definition['%1$s changed %4$s permissions.'] = 'Ο χρήστης %1$s άλλαξε τα δικαιώματα του χρήστη %4$s.';
 $Definition['%1$s changed %6$s profile picture.'] = 'Ο χρήστης %1$s άλλαξε την εικόνα προφίλ του %6$s.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Όλα)';
 $Definition['(empty message)'] = '(κενό μήνυμα)';
 $Definition['(Spoiler)'] = '(Αποκάλυψη)';
 $Definition["(Outdated)"] = "(Ξεπερασμένο)";
+$Definition["(Untitled)"] = "(Χωρίς τίτλο)";
 
 $Definition['+%s Guests'] = '+%s Επισκέπτες';
 
@@ -1145,8 +1145,8 @@ $Definition['Powered by Vanilla'] = 'Τροφοδοτείται από το Vani
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Ειδοποίησέ με όταν αποκτώ ένα έμβλημα.';
 $Definition['PreferenceBadgePopup'] = 'Ειδοποίησέ με όταν αποκτώ ένα έμβλημα.';
-$Definition['PreferencesRankEmail'] = 'Ειδοποιήστε με όταν αλλάξει η κατάταξή μου.';
-$Definition['PreferencesRankPopup'] = 'Ειδοποιήστε με όταν αλλάξει η κατάταξή μου.';
+$Definition['PreferenceRankEmail'] = 'Ειδοποιήστε με όταν αλλάξει η κατάταξή μου.';
+$Definition['PreferenceRankPopup'] = 'Ειδοποιήστε με όταν αλλάξει η κατάταξή μου.';
 $Definition['Preferences'] = 'Προτιμήσεις';
 $Definition['Preview'] = 'Προεπισκόπηση';
 $Definition['Previous'] = 'Προηγούμενη';

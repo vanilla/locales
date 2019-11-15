@@ -2,6 +2,8 @@
 
 $Definition['Add your site to trusted domains.'] = 'Make sure your site is added to %s when embedding is enabled.';
 
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
+
 $Definition['Enter your password to continue.'] = 'You are attempting to perform a potentially sensitive operation. Please enter your password to continue.';
 
 $Definition['ImageUploadLimits.Height1'] = 'Max Image Height';
@@ -13,8 +15,8 @@ $Definition['ImageUploadLimits.Width2'] = 'Images will be scaled down if they ex
 
 $Definition['Notes description'] = 'You can add notes to a user which are only visible to moderators.';
 
-$Definition['PreferencesRankEmail'] = 'Notify me when my rank changes.';
-$Definition['PreferencesRankPopup'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankPopup'] = 'Notify me when my rank changes.';
 
 $Definition['Security.Hsts.HTTPSWarning'] = 'Warning: Only enable this feature if you are sure all your subdomains are configured for HTTPS with valid certificates.';
 $Definition['Security.Hsts.IncludeSubDomains'] = 'When enabled, this rule applies to all of your site\'s subdomains as well.';

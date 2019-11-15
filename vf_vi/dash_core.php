@@ -1,13 +1,13 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" không tìm thấy.';
+$Definition['%1$s "%2$s" not found.'] = '%1$s &quot;%2$s&quot; không tìm thấy.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
-$Definition['%1$s Version %2$s'] = '%1$s phiên bản %2$s';
-$Definition['%1$s version %2$s is available.'] = '%1$s phiên bản %2$s hiện có.';
-$Definition['%s is not a valid email address'] = '%s là email không hợp lệ';
-$Definition['%s item in queue'] = '%s thứ đang nằm trong hàng đợi';
-$Definition['%s level'] = '%s cấp độ';
-$Definition['%s levels'] = '%s các cấp độ';
+$Definition['%1$s Version %2$s'] = '%1$s Phiên bản %2$s';
+$Definition['%1$s version %2$s is available.'] = '%1$s phiên bản %2$s có sẵn.';
+$Definition['%s is not a valid email address'] = '%s không phải là địa chỉ email hợp lệ';
+$Definition['%s item in queue'] = '%s mục trong hàng đợi';
+$Definition['%s level'] = 'mức %s';
+$Definition['%s levels'] = '%s cấp';
 $Definition['%s site(s) found.'] = '%s trang được tìm thấy.';
 $Definition['%s sources(s) found.'] = '%s nguồn được tìm thấy.';
 $Definition['%s times'] = '%s lần';

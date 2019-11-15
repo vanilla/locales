@@ -347,7 +347,6 @@ $Definition['Connection'] = 'Sambungan';
 $Definition['ConnectLeaveBlank'] = 'Biarkan kosong melainkan anda sedang menyambung kepada akaun yang sedia ada.';
 $Definition['ConnectName'] = 'Nama Pengguna';
 $Definition['ConnectRegisteredName'] = 'Nama pengguna berdaftar anda: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Menyambung profil anda kepada rangkaian sosial supaya menerima pemberitahuan tentang aktiviti di sini dan berkongsi aktiviti anda dengan rakan-rakan dan pengikut anda.';
 $Definition['Contact Us'] = 'Hubungi Kami';
 $Definition['Continue'] = 'Terus';
 $Definition['conversation'] = 'perbualan';

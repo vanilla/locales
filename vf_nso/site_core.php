@@ -346,7 +346,6 @@ $Definition['Connection'] = 'Kgokagano';
 $Definition['ConnectLeaveBlank'] = 'Tlogela go sa ngwalwa selo ntle le ge go kgokaganywa le akhaonte ya gona bjale.';
 $Definition['ConnectName'] = 'Leina la Modiriši';
 $Definition['ConnectRegisteredName'] = 'Leina la gago la modiriši leo le ngwadišitšwego: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Kgokaganya kanegelo ya gaog le dineteweke tša leago gore di tsebišwe modiro mo le go abelana le bagwera ba gago le balatedi.';
 $Definition['Contact Us'] = 'Ikgokaganye le Rena';
 $Definition['Continue'] = 'Tšwela Pele';
 $Definition['conversation'] = 'poledišano';

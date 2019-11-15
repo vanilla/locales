@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s وافق على %4$s دعوة';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s غير %4$s صلاحيات';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s غيرت %6$s صورة الملف الشخصي.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(الجميع)';
 $Definition['(empty message)'] = '( رسالة خالية)';
 $Definition['(Spoiler)'] = '(جناح)';
 $Definition["(Outdated)"] = "(قديمة) ";
+$Definition["(Untitled)"] = "(بدون عنوان) ";
 
 $Definition['+%s Guests'] = '+%s زوار';
 
@@ -1140,8 +1140,8 @@ $Definition['Powered by Vanilla'] = 'مدعومة بواسطة فانيللا';
 $Definition["PPT"] = "ملف استعراض بصيغة PPT";
 $Definition['PreferenceBadgeEmail'] = 'أخطرني عند حصولي على شارة.';
 $Definition['PreferenceBadgePopup'] = 'أخطرني عند حصولي على شارة.';
-$Definition['PreferencesRankEmail'] = 'إشعاري حين تغير تصنيفي.';
-$Definition['PreferencesRankPopup'] = 'إشعاري حين تغير تصنيفي.';
+$Definition['PreferenceRankEmail'] = 'إشعاري حين تغير تصنيفي.';
+$Definition['PreferenceRankPopup'] = 'إشعاري حين تغير تصنيفي.';
 $Definition['Preferences'] = 'تفضيلات';
 $Definition['Preview'] = 'معاينة';
 $Definition['Previous'] = 'السابق';

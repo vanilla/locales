@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1 קיבל את ההזמנה של %4$ לחברות';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s שינה%4$ss הרשאות';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s שינה %1$s תמונת פרופיל';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(הכל)';
 $Definition['(empty message)'] = '(הודעה ריקה)';
 $Definition['(Spoiler)'] = '(ספוילר)';
 $Definition["(Outdated)"] = "(התאריך עבר)";
+$Definition["(Untitled)"] = "(ללא כותרת)";
 
 $Definition['+%s Guests'] = '+%s אורחים';
 
@@ -1145,8 +1145,8 @@ $Definition['Powered by Vanilla'] = 'מופעל על ידי Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'הודע לי כאשר אני מקבל תג';
 $Definition['PreferenceBadgePopup'] = 'הודע לי כאשר אני מקבל תג';
-$Definition['PreferencesRankEmail'] = 'הודיעו לי כשהדירוג שלי משתנה.';
-$Definition['PreferencesRankPopup'] = 'תודיעו לי כשהדירוג שלי משתנה.';
+$Definition['PreferenceRankEmail'] = 'הודיעו לי כשהדירוג שלי משתנה.';
+$Definition['PreferenceRankPopup'] = 'הודיעו לי כשהדירוג שלי משתנה.';
 $Definition['Preferences'] = 'העדפות';
 $Definition['Preview'] = 'תצוגה מקדימה';
 $Definition['Previous'] = 'קודם';

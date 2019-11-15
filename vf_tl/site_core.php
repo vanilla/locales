@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = 'Si %1$s ay tinanggap ang imbitasyon sa pagpapamiyembro ni %4$s.';
 $Definition['%1$s changed %4$s permissions.'] = 'Si %1$s ay pinalitan ang mga pahintulot ni %4$s.';
 $Definition['%1$s changed %6$s profile picture.'] = 'Si %1$s ay pinalitan ang %6$s profile picture.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Lahat)';
 $Definition['(empty message)'] = '(walang mensahe)';
 $Definition['(Spoiler)'] = '(Spoiler)';
 $Definition["(Outdated)"] = "(Lipas na sa panahon)";
+$Definition["(Untitled)"] = "(Walang Pamagat)";
 
 $Definition['+%s Guests'] = '+%s Mga Bisita';
 
@@ -1139,8 +1139,8 @@ $Definition['Powered by Vanilla'] = 'Pinapaandar ng  Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Ipaalam sa akin kapag kumita ako ng badge.';
 $Definition['PreferenceBadgePopup'] = 'Ipaalam sa akin kapag kumita ako ng badge.';
-$Definition['PreferencesRankEmail'] = 'Sabihan ako kapag nagbago ang aking antas.';
-$Definition['PreferencesRankPopup'] = 'Sabihan ako kapag nagbago ang aking antas.';
+$Definition['PreferenceRankEmail'] = 'Sabihan ako kapag nagbago ang aking antas.';
+$Definition['PreferenceRankPopup'] = 'Sabihan ako kapag nagbago ang aking antas.';
 $Definition['Preferences'] = 'Mga Preperensya';
 $Definition['Preview'] = 'Preview';
 $Definition['Previous'] = 'Nakaraan';

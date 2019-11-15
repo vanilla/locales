@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s는 %4$s의 멤버쉽 초대를 승인했습니다.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s는 %4$s의 권한을 변경했습니다.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s 가 %6$s의 프로필 사진을 변경했습니다.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(모두)';
 $Definition['(empty message)'] = '(내용 무) ';
 $Definition['(Spoiler)'] = '(스포일러)';
 $Definition["(Outdated)"] = "(구식)";
+$Definition["(Untitled)"] = "(제목 없음)";
 
 $Definition['+%s Guests'] = '+%s 손님들';
 
@@ -1136,8 +1136,8 @@ $Definition['Powered by Vanilla'] = '바닐라가 구동';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = '뱃지를 받으면 알려주십시오.';
 $Definition['PreferenceBadgePopup'] = '뱃지를 받으면 알려주십시오.';
-$Definition['PreferencesRankEmail'] = '제 랭크가 변경되면 알려주세요.';
-$Definition['PreferencesRankPopup'] = '제 랭크가 변경되면 알려주세요.';
+$Definition['PreferenceRankEmail'] = '제 랭크가 변경되면 알려주세요.';
+$Definition['PreferenceRankPopup'] = '제 랭크가 변경되면 알려주세요.';
 $Definition['Preferences'] = '환경설정';
 $Definition['Preview'] = '미리보기';
 $Definition['Previous'] = '이전';

@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s đã gia nhập theo lời mời của %4$s.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s đã thay đổi quyền hạn của %4$s.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s đã thay đổi ảnh đại diện của %6$s.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Tất cả)';
 $Definition['(empty message)'] = '(thông điệp trống)';
 $Definition['(Spoiler)'] = '(tiết lộ)';
 $Definition["(Outdated)"] = "(Đã cũ)";
+$Definition["(Untitled)"] = "(Không có tiêu đề)";
 
 $Definition['+%s Guests'] = '+%s Khách';
 
@@ -1138,8 +1138,8 @@ $Definition['Powered by Vanilla'] = 'Sử dụng Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Thông báo khi tôi nhận được huy hiệu.';
 $Definition['PreferenceBadgePopup'] = 'Thông báo khi tôi nhận được huy hiệu.';
-$Definition['PreferencesRankEmail'] = 'Thông báo cho tôi khi thứ hạng của tôi thay đổi.';
-$Definition['PreferencesRankPopup'] = 'Thông báo cho tôi khi thứ hạng của tôi thay đổi.';
+$Definition['PreferenceRankEmail'] = 'Thông báo cho tôi khi thứ hạng của tôi thay đổi.';
+$Definition['PreferenceRankPopup'] = 'Thông báo cho tôi khi thứ hạng của tôi thay đổi.';
 $Definition['Preferences'] = 'Sở thích';
 $Definition['Preview'] = 'Xem trước';
 $Definition['Previous'] = 'Trước';

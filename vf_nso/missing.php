@@ -3,6 +3,8 @@
 $Definition['Abilites'] = 'Abilities';
 $Definition['Add your site to trusted domains.'] = 'Make sure your site is added to %s when embedding is enabled.';
 
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
+
 $Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
 $Definition['editor.fileErrorSize'] = 'File size is too large.';
 $Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
@@ -76,8 +78,8 @@ $Definition['Notes description'] = 'You can add notes to a user which are only v
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
 $Definition['Paragraph Code Block'] = 'Code Block';
-$Definition['PreferencesRankEmail'] = 'Notify me when my rank changes.';
-$Definition['PreferencesRankPopup'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankPopup'] = 'Notify me when my rank changes.';
 
 $Definition['richEditor.description.embed'] = 'Some elements, such as embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using arrow keys inside of the editor and delete them with the delete or backspace key.';
 $Definition['richEditor.description.inlineMenu'] = 'A text formatting menu will open when you select text. Hit tab to navigate to that menu.';

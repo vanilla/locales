@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s 接受了 %4$s 的邀請成為會員';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s 修改了 %4$s 的權限';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s 修改了 %6$s 個人圖示.';
@@ -115,6 +114,7 @@ $Definition['(All)'] = '（所有）';
 $Definition['(empty message)'] = '(空訊息)';
 $Definition['(Spoiler)'] = '（防雷）';
 $Definition["(Outdated)"] = "（已過期）";
+$Definition["(Untitled)"] = "（未命名）";
 
 $Definition['+%s Guests'] = '+%s 位遊客';
 
@@ -1139,8 +1139,8 @@ $Definition['Powered by Vanilla'] = '以 Vanilla 建置';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = '當我贏得一枚徽章時，通知我。';
 $Definition['PreferenceBadgePopup'] = '當我贏得一枚徽章時，通知我。';
-$Definition['PreferencesRankEmail'] = '我的排名有變動時通知我。';
-$Definition['PreferencesRankPopup'] = '我的排名有變動時通知我。';
+$Definition['PreferenceRankEmail'] = '我的排名有變動時通知我。';
+$Definition['PreferenceRankPopup'] = '我的排名有變動時通知我。';
 $Definition['Preferences'] = '偏好';
 $Definition['Preview'] = '預覽';
 $Definition['Previous'] = '前一個';

@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s aksepterte invitasjon fra %4$s.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s endret rettighetene til %4$s.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s endret profilbildet til %6$s.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Alle)';
 $Definition['(empty message)'] = '(tom melding)';
 $Definition['(Spoiler)'] = '(Spoiler)';
 $Definition["(Outdated)"] = "(Utdatert)";
+$Definition["(Untitled)"] = "(Uten tittel)";
 
 $Definition['+%s Guests'] = '+%s Gjester';
 
@@ -1143,8 +1143,8 @@ $Definition['Powered by Vanilla'] = 'Levert av Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Varsle meg når jeg får et merke. ';
 $Definition['PreferenceBadgePopup'] = 'Varsle meg når jeg får et merke. ';
-$Definition['PreferencesRankEmail'] = 'Varsle meg når rankingen min endres.';
-$Definition['PreferencesRankPopup'] = 'Varsle meg når rankingen min endres.';
+$Definition['PreferenceRankEmail'] = 'Varsle meg når rankingen min endres.';
+$Definition['PreferenceRankPopup'] = 'Varsle meg når rankingen min endres.';
 $Definition['Preferences'] = 'Preferanser';
 $Definition['Preview'] = 'Forhåndsvis';
 $Definition['Previous'] = 'Forrige';

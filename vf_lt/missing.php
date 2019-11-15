@@ -11,6 +11,7 @@ $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
+$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
 
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
@@ -69,8 +70,8 @@ $Definition['Notes description'] = 'You can add notes to a user which are only v
 $Definition['Paragraph Code Block'] = 'Code Block';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
-$Definition['PreferencesRankEmail'] = 'Notify me when my rank changes.';
-$Definition['PreferencesRankPopup'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';
+$Definition['PreferenceRankPopup'] = 'Notify me when my rank changes.';
 
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['richEditor.description.embed'] = 'Some elements, such as embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using arrow keys inside of the editor and delete them with the delete or backspace key.';

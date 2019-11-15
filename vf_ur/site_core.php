@@ -343,7 +343,6 @@ $Definition['Connection'] = 'کنکشن';
 $Definition['ConnectLeaveBlank'] = 'ایک موجودہ اکاؤنٹ سے منسلک ہو تب تک خالی چھوڑ دیں۔';
 $Definition['ConnectName'] = 'صارف کا نام';
 $Definition['ConnectRegisteredName'] = 'آپ کا رجسٹرڈ صارف کا نام: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'یہاں کی سرگرمیوں کی اطلاع حاصل کرنے اور اپنے دوستوں اور پیروکاروں کے ساتھ اپنی سرگرمی کا اشتراک کرنے کے لئے اپنا پروفائل سوشل نیٹ ورک سے کنیکٹ کریں۔';
 $Definition['Contact Us'] = 'ہم سے رابطہ کریں';
 $Definition['Continue'] = 'جاری رکھیں';
 $Definition['conversation'] = 'گفتگو';

@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s hyv&auml;ksyi j&auml;senen %4$s kutsun palstalle.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s vaihtoi j&auml;senen %4$s k&auml;ytt&auml;j&auml;oikeuksia.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s vaihtoi %6$s profiilikuvan.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Kaikki)';
 $Definition['(empty message)'] = '(viestiss&auml; ei ole sis&auml;lt&ouml;&auml;)';
 $Definition['(Spoiler)'] = '(Juonipaljastus)';
 $Definition["(Outdated)"] = "(Vanhentunut)";
+$Definition["(Untitled)"] = "(Nimetön)";
 
 $Definition['+%s Guests'] = '+%s vierasta';
 
@@ -1151,8 +1151,8 @@ $Definition['Powered by Vanilla'] = 'Vanillan tarjoama';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'L&auml;het&auml; ilmoitus kun saan uuden kunniamerkin.';
 $Definition['PreferenceBadgePopup'] = 'L&auml;het&auml; ilmoitus kun saan uuden kunniamerkin.';
-$Definition['PreferencesRankEmail'] = 'Ilmoita minulle, kun asemani muuttuu.';
-$Definition['PreferencesRankPopup'] = 'Ilmoita minulle, kun asemani muuttuu.';
+$Definition['PreferenceRankEmail'] = 'Ilmoita minulle, kun asemani muuttuu.';
+$Definition['PreferenceRankPopup'] = 'Ilmoita minulle, kun asemani muuttuu.';
 $Definition['Preferences'] = 'Asetukset';
 $Definition['Preview'] = 'Esikatselu';
 $Definition['Previous'] = 'Edellinen';

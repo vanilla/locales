@@ -216,7 +216,6 @@ $Definition['Connection'] = 'Ceangal';
 $Definition['ConnectLeaveBlank'] = 'Leave blank unless connecting to an exising account.';
 $Definition['ConnectName'] = 'Far-ainm';
 $Definition['ConnectRegisteredName'] = 'Your registered username: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 $Definition['conversation'] = 'còmhradh';
 $Definition['Create Discussions'] = 'Cruthaich còmhraidhean';
 $Definition['Create One.'] = 'Cruthaich fear.';

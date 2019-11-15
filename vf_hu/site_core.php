@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s elfogadta %4$s meghívását.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s megváltoztatta %4$s jogait.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s megváltoztatta %6$s profil képét.';
@@ -115,6 +114,7 @@ $Definition['(All)'] = '(Összes)';
 $Definition['(empty message)'] = '(üres)';
 $Definition['(Spoiler)'] = '(Cselekmény részletezése )';
 $Definition["(Outdated)"] = "(Elavult)";
+$Definition["(Untitled)"] = "(Cím nélküli)";
 
 $Definition['+%s Guests'] = '+%s Vendég';
 
@@ -1140,9 +1140,8 @@ $Definition['Powered by Vanilla'] = 'Vanilla által üzemeltetett';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Értesítsenek, ha kiérdemlek egy plecsnit.';
 $Definition['PreferenceBadgePopup'] = 'Értesítsenek, ha kiérdemlek egy plecsnit.';
-$Definition['PreferencesRankEmail'] = 'Értesítést kérek, ha a rangom megváltozik.';
-$Definition['PreferencesRankPopup'] = '	
-Értesítést kérek, ha a rangom megváltozik.';
+$Definition['PreferenceRankEmail'] = 'Értesítést kérek, ha a rangom megváltozik.';
+$Definition['PreferenceRankPopup'] = 'Értesítést kérek, ha a rangom megváltozik.';
 $Definition['Preferences'] = 'Preferenciák';
 $Definition['Preview'] = 'Előnézet';
 $Definition['Previous'] = 'Előző';

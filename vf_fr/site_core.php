@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s a accepté l\'invitation de %4$s. ';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s a changé les autorisations de %4$s.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s a changé %6$s photo de profil.';
@@ -116,6 +115,7 @@ $Definition['(All)'] = '(Tous)';
 $Definition['(empty message)'] = '(message vide)';
 $Definition['(Spoiler)'] = '(Révéler)';
 $Definition["(Outdated)"] = "(Dépassé)";
+$Definition["(Untitled)"] = "(Sans titre)";
 
 $Definition['+%s Guests'] = '+%s Invités';
 
@@ -1148,8 +1148,8 @@ $Definition['Powered by Vanilla'] = 'Propulsé par Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Prévenez-moi quand je reçois un badge.';
 $Definition['PreferenceBadgePopup'] = 'Prévenez-moi quand je reçois un badge.';
-$Definition['PreferencesRankEmail'] = 'Avertissez-moi quand mon rang change.';
-$Definition['PreferencesRankPopup'] = 'Avertissez-moi quand mon rang change.';
+$Definition['PreferenceRankEmail'] = 'Avertissez-moi quand mon rang change.';
+$Definition['PreferenceRankPopup'] = 'Avertissez-moi quand mon rang change.';
 $Definition['Preferences'] = 'Préférences';
 $Definition['Preview'] = 'Aperçu';
 $Definition['Previous'] = 'Précédent';

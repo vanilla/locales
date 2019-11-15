@@ -284,7 +284,6 @@ $Definition['Connection'] = 'Подключеніе';
 $Definition['ConnectLeaveBlank'] = 'Оставьте пустымъ, если не хотите быть подключены къ существующей учетной записи.';
 $Definition['ConnectName'] = 'Имя';
 $Definition['ConnectRegisteredName'] = 'Ваше имя при регистраціи: <strong>%s</strong>';
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to be notified of activity here and share your activity with your friends and followers.';
 $Definition['conversation'] = 'діалоги';
 $Definition['Copy'] = 'Копировать';
 $Definition['Core'] = 'Ядро';

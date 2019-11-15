@@ -1,5 +1,4 @@
 <?php
-
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s potvrdil %4$s pozvání k členství.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s upravil %4$s přístupová práva.';
 $Definition['%1$s changed %6$s profile picture.'] = '%1$s upravil %6$s profilový obrázek.';
@@ -114,6 +113,7 @@ $Definition['(All)'] = '(Všechny)';
 $Definition['(empty message)'] = '(prázdná zpráva)';
 $Definition['(Spoiler)'] = '(Spoiler)';
 $Definition["(Outdated)"] = "(zastaralé) ";
+$Definition["(Untitled)"] = "(nepojmenováno)";
 
 $Definition['+%s Guests'] = '+%s návštěvníků';
 
@@ -1138,8 +1138,8 @@ $Definition['Powered by Vanilla'] = 'Provozuje Vanilla';
 $Definition["PPT"] = "PPT";
 $Definition['PreferenceBadgeEmail'] = 'Upozornit mě, když získám odznak.';
 $Definition['PreferenceBadgePopup'] = 'Upozornit mě, když získám odznak.';
-$Definition['PreferencesRankEmail'] = 'Zašlete mi upozornění, když se změní mé pořadí.';
-$Definition['PreferencesRankPopup'] = 'Zašlete mi upozornění, když se změní mé pořadí.';
+$Definition['PreferenceRankEmail'] = 'Zašlete mi upozornění, když se změní mé pořadí.';
+$Definition['PreferenceRankPopup'] = 'Zašlete mi upozornění, když se změní mé pořadí.';
 $Definition['Preferences'] = 'Předvolby';
 $Definition['Preview'] = 'Náhled';
 $Definition['Previous'] = 'Předchozí';
