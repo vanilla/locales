@@ -1056,6 +1056,7 @@ $Definition['Only show followed categories'] = 'Toon alleen gevolgde categorieë
 $Definition['Open'] = 'Open';
 $Definition["Open Folder"] = "Open map";
 $Definition['OpenID Settings'] = 'OpenID Instellingen';
+$Definition['OpenID signin has been disabled.'] = 'OpenID aanmelden is uitgeschakeld';
 $Definition['Optional'] = 'Optioneel';
 $Definition['Optional Description'] = 'Optionele Beschrijving';
 $Definition['Options'] = 'Opties';

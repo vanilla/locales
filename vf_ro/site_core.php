@@ -1041,6 +1041,7 @@ $Definition['Only show followed categories'] = 'Afișare doar categorii urmărit
 $Definition['Open'] = 'Deschidere';
 $Definition["Open Folder"] = "Deschide folderul";
 $Definition['OpenID Settings'] = 'Setari pentru OpenID';
+$Definition['OpenID signin has been disabled.'] = 'Autentificarea cu OpenID a fost dezactivată.';
 $Definition['Optional'] = 'Opțional';
 $Definition['Optional Description'] = 'Descriere optionala';
 $Definition['Options'] = 'Optiuni';

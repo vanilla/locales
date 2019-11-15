@@ -1048,6 +1048,7 @@ $Definition['Only show followed categories'] = 'Mostra solamente le categorie ch
 $Definition['Open'] = 'Apri';
 $Definition["Open Folder"] = "Apri la Cartella";
 $Definition['OpenID Settings'] = 'Impostazioni OpenID';
+$Definition['OpenID signin has been disabled.'] = 'L\'accesso tramite OpenID è stato disattivato.';
 $Definition['Optional'] = 'Facoltativo';
 $Definition['Optional Description'] = 'Descrizione Opzionale';
 $Definition['Options'] = 'Opzioni';

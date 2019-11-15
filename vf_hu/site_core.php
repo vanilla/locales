@@ -1049,6 +1049,7 @@ $Definition['Only show followed categories'] = 'Csak a követett kategóriákat 
 $Definition['Open'] = 'Megnyitás';
 $Definition["Open Folder"] = "Mappa megnyitása";
 $Definition['OpenID Settings'] = 'OpenID beállítások';
+$Definition['OpenID signin has been disabled.'] = 'Az OpenID bejelentkezés le lett tiltva.';
 $Definition['Optional'] = 'Nem kötelező';
 $Definition['Optional Description'] = 'Opcionális leírás';
 $Definition['Options'] = 'Beállítás';

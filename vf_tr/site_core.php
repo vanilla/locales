@@ -1048,6 +1048,7 @@ $Definition['Only show followed categories'] = 'Sadece takip edilen kategorileri
 $Definition['Open'] = 'Aç';
 $Definition["Open Folder"] = "Klasör Aç";
 $Definition['OpenID Settings'] = 'OpenID Ayarları';
+$Definition['OpenID signin has been disabled.'] = 'OpenID ile giriş devre dışı bırakıldı.';
 $Definition['Optional'] = 'İsteğe bağlı';
 $Definition['Optional Description'] = 'Opsiyonel Tanım';
 $Definition['Options'] = 'Seçenekler';

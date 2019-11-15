@@ -1050,6 +1050,7 @@ $Definition['Only show followed categories'] = 'केवल फोलो की
 $Definition['Open'] = 'खुला ';
 $Definition["Open Folder"] = "फोल्डर खोलें";
 $Definition['OpenID Settings'] = 'OpenID सेटिंग';
+$Definition['OpenID signin has been disabled.'] = 'ओपनआईडी साइनइन को निष्क्रिय कर दिया गया है।';
 $Definition['Optional'] = 'वैकल्पिक';
 $Definition['Optional Description'] = 'वैकल्पिक वर्णन';
 $Definition['Options'] = 'विकल्प';

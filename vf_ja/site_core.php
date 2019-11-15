@@ -1058,6 +1058,7 @@ $Definition['Only show followed categories'] = '次のカテゴリーを公開�
 $Definition['Open'] = 'オープン';
 $Definition["Open Folder"] = "フォルダーを開く";
 $Definition['OpenID Settings'] = 'OpenID 設定';
+$Definition['OpenID signin has been disabled.'] = 'OpenIDのサインインは無効になっています。';
 $Definition['Optional'] = '任意';
 $Definition['Optional Description'] = '任意の記述';
 $Definition['Options'] = 'オプション';

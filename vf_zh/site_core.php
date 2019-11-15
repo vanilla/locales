@@ -1053,6 +1053,7 @@ $Definition['Only show followed categories'] = '只显示以下版块';
 $Definition['Open'] = '开放的';
 $Definition["Open Folder"] = "打开文件夹";
 $Definition['OpenID Settings'] = 'OpenID 设置';
+$Definition['OpenID signin has been disabled.'] = 'OpenID登录已被禁用。';
 $Definition['Optional'] = '可选择的';
 $Definition['Optional Description'] = '可选的描述';
 $Definition['Options'] = '选项';

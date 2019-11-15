@@ -1048,6 +1048,7 @@ $Definition['Only show followed categories'] = '僅顯示關注類別';
 $Definition['Open'] = '開啟';
 $Definition["Open Folder"] = "開啟資料夾";
 $Definition['OpenID Settings'] = 'OpenID 設定';
+$Definition['OpenID signin has been disabled.'] = 'OpenID 登入已被停用。';
 $Definition['Optional'] = '選擇性的';
 $Definition['Optional Description'] = '選擇性描述';
 $Definition['Options'] = '選項';

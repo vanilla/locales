@@ -1049,6 +1049,7 @@ $Definition['Only show followed categories'] = 'اظهر فقط الاقسام �
 $Definition['Open'] = 'فتح';
 $Definition["Open Folder"] = "فتح المجلد";
 $Definition['OpenID Settings'] = 'اعدادات الاوبن اي دي OpenID';
+$Definition['OpenID signin has been disabled.'] = 'تم تعطيل تسجيل دخول OpenID.';
 $Definition['Optional'] = 'اختياري';
 $Definition['Optional Description'] = 'وصف اختياري';
 $Definition['Options'] = 'خيارات';

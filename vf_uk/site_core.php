@@ -1056,6 +1056,7 @@ $Definition['Only show followed categories'] = 'Показувати катег�
 $Definition['Open'] = 'Відкрити';
 $Definition["Open Folder"] = "Відкрити папку";
 $Definition['OpenID Settings'] = 'Налаштування OpenID';
+$Definition['OpenID signin has been disabled.'] = 'Вхід через OpenID було відключено.';
 $Definition['Optional'] = 'Додатково';
 $Definition['Optional Description'] = 'Опціональний опис';
 $Definition['Options'] = 'Функції';

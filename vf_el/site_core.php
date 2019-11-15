@@ -1054,6 +1054,7 @@ $Definition['Only show followed categories'] = 'Δείτε μόνο τις κα�
 $Definition['Open'] = 'Ανοικτή';
 $Definition["Open Folder"] = "Άνοιγμα Φακέλου";
 $Definition['OpenID Settings'] = 'Ρυθμίσεις OpenID';
+$Definition['OpenID signin has been disabled.'] = 'Η είσοδος με το OpenID έχει απενεργοποιηθεί.';
 $Definition['Optional'] = 'Προαιρετικό';
 $Definition['Optional Description'] = 'Προαιρετική Περιγραφή';
 $Definition['Options'] = 'Επιλογές';

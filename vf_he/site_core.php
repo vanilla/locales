@@ -1052,6 +1052,7 @@ $Definition['Only show followed categories'] = 'הראה רק את הקטגור�
 $Definition['Open'] = 'פתח';
 $Definition["Open Folder"] = "פתח תיקייה";
 $Definition['OpenID Settings'] = 'הגדרות OpenID';
+$Definition['OpenID signin has been disabled.'] = 'כניסה באמצעות OpenID אינה זמינה.';
 $Definition['Optional'] = 'אופציונלי';
 $Definition['Optional Description'] = 'תאור אופציונלי';
 $Definition['Options'] = 'אפשריות';
