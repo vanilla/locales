@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Gömülü içeriğe izin ver';
 $Definition['Allow images'] = 'Resimlere izin ver';
 $Definition['Allow new users to be registered through email.'] = 'Yeni kullanıcıların e-posta yoluyla kayıt olmalarına izin verin.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Bu bağlantının API erişim belirteçleri vermesine izin ver.';
 $Definition['Allow users to dismiss this message'] = 'Kullanıcılara bu iletiyi göz ardı etme imkanı sağla';
 $Definition['All Pages'] = 'Tüm Sayfalar';
 $Definition['API'] = 'API';
