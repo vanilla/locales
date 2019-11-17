@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = '允许嵌入式内容';
 $Definition['Allow images'] = '允许图像';
 $Definition['Allow new users to be registered through email.'] = '允许用户通过电子邮件地址注册新账户。';
+$Definition['Allow this connection to issue API access tokens.'] = '允许此连接分发API（应用编程接口）访问令牌。';
 $Definition['Allow users to dismiss this message'] = '允许用户撤消该消息';
 $Definition['All Pages'] = '所有页面';
 $Definition['API'] = 'API';
