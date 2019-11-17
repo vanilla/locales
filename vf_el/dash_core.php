@@ -77,6 +77,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Επιτρέψτε ενσωματωμένο περιεχόμενο';
 $Definition['Allow images'] = 'Επιτρέψτε εικόνες';
 $Definition['Allow new users to be registered through email.'] = 'Να επιτρέπεται στους νέους χρήστες να γράφονται μέσω email.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Allow this connection to issue API access tokens.';
 $Definition['Allow users to dismiss this message'] = 'Επιτρέπει στους χρήστες να αποκρύψουν αυτό το μήνυμα.';
 $Definition['All Pages'] = 'Όλες οι Σελίδες';
 $Definition['API'] = 'API';
