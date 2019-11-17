@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Povolit vložený obsah';
 $Definition['Allow images'] = 'Povolit obrázky';
 $Definition['Allow new users to be registered through email.'] = 'Allow new users to be registered through email.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Povolit tomuto připojení vydávat přístupové tokeny pro API.';
 $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss this message';
 $Definition['All Pages'] = 'Všechny stránky';
 $Definition['API'] = 'API';
