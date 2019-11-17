@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = '埋め込みコンテンツを許可';
 $Definition['Allow images'] = '画像を許可';
 $Definition['Allow new users to be registered through email.'] = 'Allow new users to be registered through email.';
+$Definition['Allow this connection to issue API access tokens.'] = 'APIアクセストークンを発行するには、この接続を許可してください。';
 $Definition['Allow users to dismiss this message'] = 'このメッセージを閉じることをユーザーに許可する';
 $Definition['All Pages'] = 'All Pages';
 $Definition['API'] = 'API';
