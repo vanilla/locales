@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Tillat innsatt innhold';
 $Definition['Allow images'] = 'Tillat bilder';
 $Definition['Allow new users to be registered through email.'] = 'Allow new users to be registered through email.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Tillat denne forbindelsen for å utstede API-tilgangstegn.';
 $Definition['Allow users to dismiss this message'] = 'Tillat brukere å avskjedige denne meldingen.';
 $Definition['All Pages'] = 'All Pages';
 $Definition['API'] = 'API';
