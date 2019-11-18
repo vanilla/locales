@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'אפשר תוכן מוטמע';
 $Definition['Allow images'] = 'אפשר תמונות';
 $Definition['Allow new users to be registered through email.'] = 'אפשר למשתמשים חדשים להירשם באמצעות כתובת דוא"ל.';
+$Definition['Allow this connection to issue API access tokens.'] = 'אפשר/י לחיבור זה להנפיק אסימוני גישה ל-API.';
 $Definition['Allow users to dismiss this message'] = 'אפשר למשתמשים לבחור \'אל תראה לי שוב\' לגבי הודעה זו';
 $Definition['All Pages'] = 'כל הדפים';
 $Definition['API'] = 'API';
