@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Beágyazott tartalom engedélyezése';
 $Definition['Allow images'] = 'Képek engedélyezése';
 $Definition['Allow new users to be registered through email.'] = 'Engedélyezd, hogy új felhasználók emailen keresztül regisztráljanak.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Engedélyezze, hogy a kapcsolat API hozzáférési tokeneket adjon ki.';
 $Definition['Allow users to dismiss this message'] = 'Engedélyezi a felhasználóknak, hogy elvessék ezt az üzenetet';
 $Definition['All Pages'] = 'Összes oldal';
 $Definition['API'] = 'API';
