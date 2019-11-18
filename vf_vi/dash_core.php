@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Tất cả nội dung được nhúng';
 $Definition['Allow images'] = 'Cho phép ảnh';
 $Definition['Allow new users to be registered through email.'] = 'Cho phép thành viên mới được đăng ký thông qua thư.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Cho phép kết nối này phát hành token truy cập API.';
 $Definition['Allow users to dismiss this message'] = 'Cho phép thành viên bỏ qua thông điệp';
 $Definition['All Pages'] = 'Tất cả các trang';
 $Definition['API'] = 'API';
