@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Salli upotettu sisältö';
 $Definition['Allow images'] = 'Salli kuvat';
 $Definition['Allow new users to be registered through email.'] = 'Allow new users to be registered through email.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Anna tälle yhteydelle valtuudet API-käyttöoikeustunnusten myöntämiseen';
 $Definition['Allow users to dismiss this message'] = 'Salli k&auml;ytt&auml;jien ohittaa t&auml;m&auml; viesti';
 $Definition['All Pages'] = 'kaikilla sivuilla';
 $Definition['API'] = 'API';

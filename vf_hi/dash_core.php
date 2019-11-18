@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'एम्बेडेड सामग्री की अनुमति दें';
 $Definition['Allow images'] = 'तस्वीरों की अनुमति दें';
 $Definition['Allow new users to be registered through email.'] = 'नए यूज़र्स को ईमेल के माध्यम से पंजीकृत होने की अनुमति दें.';
+$Definition['Allow this connection to issue API access tokens.'] = 'इस कनेक्शन को API एक्सेस टोकन जारी करने की अनुमति दें।';
 $Definition['Allow users to dismiss this message'] = 'यूज़र्स को यह संदेश खारिज करने की अनुमति दें';
 $Definition['All Pages'] = 'सारे पृष्ठ';
 $Definition['API'] = 'API';

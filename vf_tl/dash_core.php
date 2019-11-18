@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Payagan ang naka-embed na nilalaman';
 $Definition['Allow images'] = 'Pahintulutan ang mga larawan';
 $Definition['Allow new users to be registered through email.'] = 'Allow new users to be registered through email.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Payagan ang koneksyong ito na mag-isyu ng mga token para sa pag-access sa API.';
 $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss this message';
 $Definition['All Pages'] = 'All Pages';
 $Definition['API'] = 'API';

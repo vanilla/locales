@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'السماح للمحتوى الذي تم تضمينه';
 $Definition['Allow images'] = 'السماح للصور';
 $Definition['Allow new users to be registered through email.'] = 'يمكن الأعضاء الجدد التسجيل بإستخدام عنوان البريد.';
+$Definition['Allow this connection to issue API access tokens.'] = 'اسمح لهذا الاتصال بإصدار رموز الوصول إلى واجهة برمجة التطبيقات.';
 $Definition['Allow users to dismiss this message'] = 'إسمح للمستخدم بإغلاق هذة الرسالة';
 $Definition['All Pages'] = 'كل الصفحات';
 $Definition['API'] = 'API';

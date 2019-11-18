@@ -76,6 +76,8 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Ingesloten inhoud toestaan';
 $Definition['Allow images'] = 'Afbeeldingen toestaan';
 $Definition['Allow new users to be registered through email.'] = 'Toestaan dat nieuwe gebruikers via e-mail geregistreerd worden.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Sta deze verbinding toe API-toegangstokens uit te geven.
+';
 $Definition['Allow users to dismiss this message'] = 'Gebruikers toestaan dit bericht af te wijzen';
 $Definition['All Pages'] = 'Alle pagina\'s';
 $Definition['API'] = 'API';

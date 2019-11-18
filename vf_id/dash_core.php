@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Izinkan konten tertambat';
 $Definition['Allow images'] = 'Izinkan gambar';
 $Definition['Allow new users to be registered through email.'] = 'Perkenankan pengguna baru untuk mendaftar melalui email.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Izinkan koneksi ini untuk membuat token akses API.';
 $Definition['Allow users to dismiss this message'] = 'Perbolehkan pengguna untuk menutup pesan ini';
 $Definition['All Pages'] = 'Semua Halaman';
 $Definition['API'] = 'API';

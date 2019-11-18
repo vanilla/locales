@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Tillåt inbäddat innehåll';
 $Definition['Allow images'] = 'Tillåt bilder';
 $Definition['Allow new users to be registered through email.'] = 'Tillåt nya användare att registreras via e-post.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Ge anslutningen tillstånd att utfärda tokens för API-åtkomst.';
 $Definition['Allow users to dismiss this message'] = 'Tillåt användare att ignorera detta meddelande';
 $Definition['All Pages'] = 'Alla sidor';
 $Definition['API'] = 'API';

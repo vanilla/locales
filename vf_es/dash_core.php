@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'Permitir contenido incrustado';
 $Definition['Allow images'] = 'Permitir imágenes';
 $Definition['Allow new users to be registered through email.'] = 'Permitir a usuarios nuevos registrarse atraves del email.';
+$Definition['Allow this connection to issue API access tokens.'] = 'Permitir a esta conexión emitir identificadores de acceso API.';
 $Definition['Allow users to dismiss this message'] = 'Permitir a los usuarios omitir este mensaje';
 $Definition['All Pages'] = 'Todas las paginas';
 $Definition['API'] = 'API';

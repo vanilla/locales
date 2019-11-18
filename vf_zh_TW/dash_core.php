@@ -76,6 +76,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = '允取遷入內容';
 $Definition['Allow images'] = '允許圖片';
 $Definition['Allow new users to be registered through email.'] = '允許新用戶透過電子郵件註冊帳號。';
+$Definition['Allow this connection to issue API access tokens.'] = '允許此連接發出 API 存取符記。';
 $Definition['Allow users to dismiss this message'] = '允許用戶關閉此訊息';
 $Definition['All Pages'] = '所有頁面';
 $Definition['API'] = 'API';
