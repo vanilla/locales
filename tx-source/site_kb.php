@@ -1,5 +1,5 @@
 <?php
-
+// phpcs:ignoreFile
 $Definition["(No Body)"] = "(No Body)";
 $Definition["(Untitled)"] = "(Untitled)";
 $Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> out of <1 /> people found this helpful";
@@ -117,6 +117,9 @@ $Definition["There was an error"] = "There was an error";
 $Definition["This article has been deleted."] = "This article has been deleted.";
 $Definition["This article hasn't been translated yet."] = "This article hasn't been translated yet.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "This article hasn't been translated yet. The original article text has been loaded to aid translation.";
+$Definition['This article is not translated yet or it is out of date.'] = 'This article is not translated yet or it is out of date.';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.';
+$Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'This article was edited in its source locale. Edit this article to update its translation and clear this message.';
 $Definition["This category does not have any articles."] = "This category does not have any articles.";
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "This is a destructive action. You will not be able to restore your draft.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "This is a non-destructive action. You will be able to restore your article if you wish.";
@@ -137,3 +140,5 @@ $Definition["Write Discussion"] = "Write Discussion";
 $Definition["You can see this message because you have special permissions."] = "You can see this message because you have special permissions.";
 $Definition["You don't have permission to view this resource."] = "You don't have permission to view this resource.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "You need to <0>Sign In</0> to vote on this article";
+
+
