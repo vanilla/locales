@@ -715,6 +715,7 @@ $Definition['Hello!'] = 'Hello!';
 $Definition['Hello %s!'] = 'Hello %s!';
 $Definition['Hello {User.Name}!'] = 'Hello {User.Name}!';
 $Definition['Help'] = 'Help';
+$Definition['Help Menu'] = 'Help';
 $Definition['her'] = 'her';
 $Definition['Hide'] = 'Hide';
 $Definition['hide'] = 'hide';
