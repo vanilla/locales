@@ -722,6 +722,7 @@ $Definition['Hide'] = 'اخفاء';
 $Definition['hide'] = 'إخفاء';
 $Definition['Hide my online status from other members'] = 'إخفاء حالة اتصالي عن باقي أعضاء المجموعة';
 $Definition['Hide previous quotes'] = '&laquo; إخفاء الاقتباسات السابقة';
+$Definition['Hide Results'] = 'إخفاء النتائج';
 $Definition['Hide signatures?'] = 'اخفاء الامضاءات';
 $Definition['Hide signatures always'] = 'اخفاء التواقيع دائما';
 $Definition['Hide signatures on my mobile device'] = 'اخفاء التواقيع على جهاز الهاتف المحمول';
@@ -1777,6 +1778,7 @@ $Definition['You have selected %1$s in this discussion.'] = 'لقد إخترت %
 $Definition['You have successfully connected to {Title}.'] = 'لقد تم توصيلك بنجاح إلى {Title}.';
 $Definition['You have successfully registered for an account at {Title}.'] = 'لقد تم تسجيلك بنجاح للحصول على حساب في
 {Title}.';
+$Definition['You have to be around for a little while longer before you can post links.'] = 'عليك أن تكون موجوداً لفترة أطول قليلاً قبل أن تتمكن من إضافة روابط خارجية.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'يجب عليك تحديد ما لا يقل عن 2 مناقشتين للدمج.';
 $Definition['You must agree to the terms of service.'] = 'يجب ان توافق على شروط الاستخدام.';
 $Definition['You must be at least %d years old to register.'] = 'يجب أن يكون عمرك على الأقل ٪d سنة لتقوم بالتسجيل.';
