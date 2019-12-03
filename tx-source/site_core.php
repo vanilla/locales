@@ -1250,6 +1250,7 @@ $Definition['Reputation'] = 'Reputation';
 $Definition['Request a new password'] = 'Request a new password';
 $Definition['Request a new password →'] = 'Request a new password →';
 $Definition['Request another password reset.'] = 'Request another password reset.';
+$Definition['Requires a password.'] = 'Requires a password.';
 $Definition['Reset Password'] = 'Reset Password';
 $Definition['Reset Your Password'] = 'Reset Your Password';
 $Definition['Restore'] = 'Restore';
