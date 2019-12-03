@@ -728,6 +728,7 @@ $Definition['hide'] = 'masquer';
 $Definition['Hide my online status from other members'] = 'Ne pas montrer quand je suis en ligne.';
 $Definition['Hide previous quotes'] = '&laquo; masquer les citations précédentes
 ';
+$Definition['Hide Results'] = 'Masquer les résultats';
 $Definition['Hide signatures?'] = 'Cacher les signatures? ';
 $Definition['Hide signatures always'] = 'Toujours cacher les signatures';
 $Definition['Hide signatures on my mobile device'] = 'Masquer les signatures sur mon mobile';
@@ -1772,6 +1773,7 @@ $Definition['You have selected %1$s.'] = 'Vous avez sélectionné %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Vous avez sélectionné %1$s dans cette conversation.';
 $Definition['You have successfully connected to {Title}.'] = 'Vous vous êtes connecté avec succès à {Title}.';
 $Definition['You have successfully registered for an account at {Title}.'] = 'Vous vous êtes enregistré avec succès pour un compte à {Title}.';
+$Definition['You have to be around for a little while longer before you can post links.'] = 'Vous devez rester un peu plus longtemps avant de pouvoir publier des liens externes.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Vous devez sélectionner au moins 2 conversations à fusionner.';
 $Definition['You must agree to the terms of service.'] = 'Vous devez accepter les conditions d\'utilisation du forum.';
 $Definition['You must be at least %d years old to register.'] = 'Vous devez avoir au moins %d ans pour vous enregistrer.';
