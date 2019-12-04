@@ -70,6 +70,7 @@ $Definition["Knowledge Base"] = "Knowledge Base";
 $Definition["Knowledge Base Item"] = "Knowledge Base Item";
 $Definition["Knowledge Bases"] = "Knowledge Bases";
 
+$Definition["Layout Center Column Width"] = "Layout Center Column Width";
 $Definition["Load More"] = "Load More";
 
 $Definition["More Articles"] = "More Articles";
