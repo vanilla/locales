@@ -47,8 +47,10 @@ $Definition["Delete \"<0/>\""] = "Delete \"<0/>\"";
 $Definition["Delete Draft"] = "Delete Draft";
 $Definition["Delete an Article"] = "Delete an Article";
 $Definition["Deleted Articles"] = "Deleted Articles";
+$Definition["Deleted Knowledge Bases"] = "Deleted Knowledge Bases";
 $Definition["Draft Options"] = "Draft Options";
 $Definition["Draft saved <0/>"] = "Draft saved <0/>";
+
 
 $Definition["Error saving draft."] = "Error saving draft.";
 $Definition["Everywhere"] = "Everywhere";
@@ -90,6 +92,7 @@ $Definition["Page Location"] = "Page Location";
 $Definition["Page not found"] = "Page not found";
 $Definition["Please try again later."] = "Please try again later.";
 $Definition["Publish"] = "Publish";
+$Definition["Purge"] = "Purge";
 
 $Definition["Related Articles"] = "Related Articles";
 $Definition["Remove Article Link"] = "Remove Article Link";
