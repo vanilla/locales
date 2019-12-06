@@ -80,7 +80,6 @@ $Definition["Hello Home Page. Links are below:"] = "Hello Home Page. Links are b
 $Definition["Help centers are for making free-form help articles that are organized into categories."] = "elp centers are for making free-form help articles that are organized into categories.";
 $Definition["Homepage banner image for this knowledge base."] = "Homepage banner image for this knowledge base.";
 
-
 $Definition["Insert Article Here"] = "Insert Article Here";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read.";
 
@@ -89,7 +88,6 @@ $Definition["Knowledge Base"] = "Knowledge Base";
 $Definition["Knowledge Base Item"] = "Knowledge Base Item";
 $Definition["Knowledge Bases"] = "Knowledge Bases";
 $Definition["Knowledge Base Chooser Title"] = "Knowledge Base Chooser Title";
-
 
 $Definition["Load More"] = "Load More";
 
@@ -167,8 +165,6 @@ $Definition["Title Bar Background Color"] = "Title Bar Background Color";
 $Definition["Title Bar Foreground Color"] = "Title Bar Foreground Color";
 $Definition["Title of the knowledge base."] = "Title of the knowledge base.";
 $Definition["Translate Categories"] = "Translate Categories";
-
-
 $Definition["Top Left"] = "Top Left";
 $Definition["Type your message."] = "Type your message.";
 $Definition["Type your article."] = "Type your article.";
