@@ -81,7 +81,6 @@ $Definition["Help centers are for making free-form help articles that are organi
 $Definition["Homepage banner image for this knowledge base."] = "Homepage banner image for this knowledge base.";
 
 $Definition["Insert Article Here"] = "Insert Article Here";
-$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read.";
 
 $Definition["Knowledge"] = "Knowledge";
 $Definition["Knowledge Base"] = "Knowledge Base";
@@ -89,6 +88,7 @@ $Definition["Knowledge Base Item"] = "Knowledge Base Item";
 $Definition["Knowledge Bases"] = "Knowledge Bases";
 $Definition["Knowledge Base Chooser Title"] = "Knowledge Base Chooser Title";
 
+$Definition["Layout Center Column Width"] = "Layout Center Column Width";
 $Definition["Load More"] = "Load More";
 
 $Definition["More Articles"] = "More Articles";
@@ -144,6 +144,7 @@ $Definition["Subcategories"] = "Subcategories";
 $Definition["Thanks for your feedback!"] = "Thanks for your feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "The primary color is used for buttons, inputs, and various indicators.";
+$Definition["The width of the center column of the primary layout in pixels."] = "The width of the center column of the primary layout in pixels.";
 $Definition["There are no categories here."] = "There are no categories here.";
 $Definition["There are no knowledge bases"] = "There are no knowledge bases";
 $Definition["There was an error"] = "There was an error";
