@@ -6,7 +6,7 @@ $Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> out of <1 /
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "A customized version of the knowledge base name as it should appear in URLs.";
 $Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "A description of the knowledge base. Displayed in the knowledge base picker.";
-$Definition["A small image used to represent the knowledge base. Displayed in the knowledge base picker."] = "AA small image used to represent the knowledge base. Displayed in the knowledge base picker.";
+$Definition["A small image used to represent the knowledge base. Displayed in the knowledge base picker."] = "A small image used to represent the knowledge base. Displayed in the knowledge base picker.";
 $Definition["Add Knowledge Base"] = "Add Knowledge Base";
 $Definition["Add a knowledge base to get started."] = "Add a knowledge base to get started.";
 $Definition["Add/Edit Knowledge Base"] = "Add/Edit Knowledge Base";
@@ -182,5 +182,4 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "You don't have permission to view this resource.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "You need to <0>Sign In</0> to vote on this article";
 $Definition["Use Banner Image Overlay"] = "Use Banner Image Overlay";
-
 
