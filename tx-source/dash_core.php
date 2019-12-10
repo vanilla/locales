@@ -563,6 +563,7 @@ $Definition['The %s was already approved by %s on %s.'] = 'The %s was already ap
 $Definition['The Basics'] = 'The Basics';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = 'The content you were looking for has been deleted.';
+$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'The default banner image across the site. This can be overriden on a per category basis.';
 $Definition['The default role has not been configured.'] = 'The default role has not been configured.';
 $Definition['The email has been sent.'] = 'The email has been sent.';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';

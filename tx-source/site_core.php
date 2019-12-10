@@ -1550,6 +1550,7 @@ $Definition['Unbookmark'] = 'Unbookmark';
 $Definition['Undefined discussion body.'] = 'Undefined discussion body.';
 $Definition['Undefined discussion subject.'] = 'Undefined discussion subject.';
 $Definition['Undefined foreign content'] = 'Undefined foreign content';
+$Definition["Undo"] = "Undo";
 $Definition['Undo Follow'] = 'Undo Follow';
 $Definition['Unfollow'] = 'Unfollow';
 $Definition['Unhide'] = 'Unhide';
