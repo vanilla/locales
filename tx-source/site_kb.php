@@ -153,6 +153,7 @@ $Definition["This article hasn't been translated yet."] = "This article hasn't b
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "This article hasn't been translated yet. The original article text has been loaded to aid translation.";
 $Definition['This article is not translated yet or it is out of date.'] = 'This article is not translated yet or it is out of date.';
 $Definition['The article this draft is based on is no longer available.'] = 'The article this draft is based on is no longer available.';
+$Definition['The width of the center column of the primary layout in pixels.'] = 'The width of the center column of the primary layout in pixels.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'This article was edited in its source locale. Edit this article to update its translation and clear this message.';
 $Definition["This category does not have any articles."] = "This category does not have any articles.";
