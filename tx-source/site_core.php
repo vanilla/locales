@@ -486,6 +486,7 @@ $Definition['Domain is invalid.'] = 'Domain is invalid.';
 $Definition['Don\'t announce.'] = 'Don\'t announce.';
 $Definition['Don\'t fold quotes'] = 'Don\'t fold quotes';
 $Definition['Don\'t have an account? %s'] = 'Don\'t have an account? %s';
+$Definition['Don\'t know'] = 'Don\'t know';
 $Definition['Download'] = 'Download';
 $Definition['Download the sounds as MP3'] = 'Download the sounds as MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Do you want to expire or delete this warning?';
