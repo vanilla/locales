@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "General Appearance";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hello Home Page. Links are below:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "elp centers are for making free-form help articles that are organized into categories.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Help centers are for making free-form help articles that are organized into categories.";
 $Definition["Homepage banner image for this knowledge base."] = "Homepage banner image for this knowledge base.";
 
 $Definition["Insert Article Here"] = "Insert Article Here";
