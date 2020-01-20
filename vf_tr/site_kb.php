@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Genel Görünüm";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Kılavuzlar, sırayla okunması gereken nasıl yapılır, belgeleme veya herhangi \"kitap\" benzeri içerik oluşturmak içindir.";
 
 $Definition["Hello Home Page. Links are below:"] = "Merhaba Ana Sayfa. Bağlantılar aşağıda:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Yardım merkezleri, kategorilere düzenlenmiş olan serbest formdaki yardım makaleleri oluşturmak içindir.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Yardım merkezleri, kategoriler halinde düzenlenmiş serbest biçimli yardım makaleleri hazırlamak içindir.";
 $Definition["Homepage banner image for this knowledge base."] = "Bu bilgi tabanı için ana sayfa banner görseli.";
 
 $Definition["Insert Article Here"] = "Makaleyi Buraya Yerleştir";
