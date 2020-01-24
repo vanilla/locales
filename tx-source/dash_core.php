@@ -609,6 +609,7 @@ $Definition['This is a parent category that does not allow discussions.'] = 'Thi
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
 $Definition['This pocket is an ad.'] = 'This pocket is an ad.';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'This theme cannot be deleted because it is the currently applied theme.';
 $Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
 $Definition['This theme has customizable text.'] = 'This theme has text that you can customize.';
 $Definition['Thumbnails'] = 'Thumbnails';
