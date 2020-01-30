@@ -197,6 +197,7 @@ $Definition['Create & organize discussion categories and manage your users.'] = 
 $Definition['Created new badge'] = 'Created new badge';
 $Definition['CreateFile'] = 'Create';
 $Definition['Criteria'] = 'Criteria';
+$Definition['CSS'] = 'CSS';
 $Definition['Current Authenticator'] = 'Current Authenticator';
 $Definition['Current File:'] = 'Current File:';
 $Definition['Current Theme'] = 'Current Theme';
@@ -305,6 +306,7 @@ $Definition['First Visit'] = 'First Visit';
 $Definition['Flood Control'] = 'Flood Control';
 $Definition['Force the forum to only be accessible through this url'] = 'Force the forum to only be accessible through this url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Force your forum to be viewed through the Remote Url';
+$Definition['Footer'] = 'Footer';
 $Definition['Forum Settings'] = 'Forum Settings';
 $Definition['Frequency'] = 'Frequency';
 
@@ -329,6 +331,7 @@ $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} appr
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Heads up!';
+$Definition['Header'] = 'Header';
 $Definition['Help &amp; Tutorials'] = 'Help &amp; Tutorials';
 $Definition['Here\'s how to get started:'] = 'Here\'s how to get started:';
 $Definition['Hidden for everything!'] = 'Hidden for everything!';
@@ -365,6 +368,7 @@ $Definition['Invited by'] = 'Invited by';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect Client Libraries';
 $Definition['jsConnect Documentation'] = 'jsConnect Documentation';
+$Definition['JS'] = 'JS';
 
 $Definition['Key Type'] = 'Key Type';
 $Definition['Key Value'] = 'Key Value';
@@ -576,6 +580,7 @@ $Definition['The invitation was removed successfully.'] = 'The invitation was re
 $Definition['The invitation was sent successfully.'] = 'The invitation was sent successfully.';
 $Definition['Theme Options'] = 'Theme Options';
 $Definition['Themes'] = 'Themes';
+$Definition['ThemeEditor.Copy'] = '<0/> copy';
 $Definition['Theming Overview'] = 'Theming Overview';
 $Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png';
 $Definition['There are currently no applicants.'] = 'There are currently no applicants.';
@@ -647,6 +652,7 @@ $Definition['UserWipe'] = 'Blank User Content';
 $Definition['UserWipeMessage'] = 'Delete the user and replace all of the user\'s content with a message stating the user has been deleted. This gives a visual cue that there is missing information.';
 $Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Use Vanilla as a commenting system in your site';
+$Definition['Untitled'] = 'Untitled';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 $Definition['Vanilla is installed!'] = 'Vanilla is installed!';
