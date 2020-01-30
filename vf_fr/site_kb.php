@@ -1,13 +1,17 @@
 <?php
-
+// phpcs:ignoreFile
 $Definition["(No Body)"] = "Aucun corps";
 $Definition["(Untitled)"] = "(Sans titre)";
 $Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> personnes sur <1 /> ont trouvé cela utile";
 
+$Definition["A customized version of the knowledge base name as it should appear in URLs."] = "Version personnalisée du nom de la base de connaissances telle qu'elle devra apparaître dans les URL.";
+$Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "Une description de la base de connaissances, affichée dans le sélectionneur de la base de connaissances.";
+$Definition["A small image used to represent the knowledge base. Displayed in the knowledge base picker."] = "Petite image représentant la base de connaissances, affichée dans le sélectionneur de base de connaissances.";
 $Definition["Add Knowledge Base"] = "Ajouter une base de connaissances";
 $Definition["Add a knowledge base to get started."] = "Ajoutez une base de connaissances pour commencer.";
 $Definition["Add/Edit Knowledge Base"] = "Ajouter / Modifier une base de connaissances";
 $Definition["Admin Links"] = "Liens administrateur";
+$Definition["Alphabetically"] = "Ordre alphabétique";
 $Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Êtes-vous sûr de vouloir supprimer <0/> \"<1/>\" ?";
 $Definition["Are you sure you want to delete this knowledge base?"] = "Êtes-vous sûr de vouloir supprimer cette base de connaissances ?";
 $Definition["Are you sure you want to purge this knowledge base?"] = "Êtes-vous sûr de vouloir purger cette base de connaissances ?";
@@ -20,17 +24,24 @@ $Definition["Article Revisions"] = "Révisions d'articles";
 $Definition["Article Three"] = "Article 3";
 $Definition["Article Two"] = "Article 2";
 $Definition["Articles"] = "Articles";
+$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Associer un produit avec cette sous communauté. <0>Utilisez la Gestion des produits IU<0>pour remplacer, ajouter, modifier ou supprimer des produits.";
 
 $Definition["Back to Home"] = "Retour à la page d'accueil";
 $Definition["Back to home page"] = "Retour à la page d'accueil";
+$Definition["Background colors are used as the background of elements. This should have good constrast with the foreground color."] = "Les couleurs d'arrière plan sont utilisées comme fond des éléments. Elles doivent bien contraster avec les couleurs de premier plan.";
+$Definition["Banner Image"] = "Image de la bannière";
 $Definition["Be the first one to vote!"] = "Soyez le premier à voter !";
+$Definition["Border Style"] = "Style du contour";
 $Definition["Browse Articles by Category"] = "Parcourir les articles par catégorie";
+$Definition["Browse"] = "Parcourir";
 $Definition["By <0/>"] = "Par <0/>";
 
 $Definition["category"] = "catégorie";
 $Definition["Category One"] = "Catégorie 1";
 $Definition["Category Options"] = "Options de catégorie";
 $Definition["Category Two"] = "Catégorie Deux";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Certaines actions sont désactivées car elles ne sont disponibles que dans la langue source : <0/>";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale."] = "Certaines actions sont désactivées car elles sont uniquement disponibles dans la langue source.";
 $Definition["Choose"] = "Choisir";
 $Definition["Choose a location for this page."] = "Choisir un emplacement pour cette page.";
 $Definition["Choose a subcommunity"] = "Choisir une sous-communauté";
@@ -42,24 +53,32 @@ $Definition["Create new article"] = "Créer un nouvel article";
 $Definition["Create one to get started!"] = "Créez-en un pour commencer !";
 $Definition["Customize SEO"] = "Personnaliser le référencement";
 $Definition["Debug"] = "Déboguer";
+$Definition["Default Background Color"] = "Couleur d'arrière plan par défaut";
+$Definition["Default Foreground Color"] = "Couleur du premier plan par défaut";
 
 $Definition["Delete \"<0/>\""] = "Supprimer \"<0/>\"";
 $Definition["Delete Draft"] = "Supprimer le brouillon";
 $Definition["Delete an Article"] = "Supprimer un article";
 $Definition["Deleted Articles"] = "Supprimer des articles";
+$Definition["Deleted Knowledge Bases"] = "Bases de connaissances supprimées";
 $Definition["Draft Options"] = "Options de brouillon";
 $Definition["Draft saved <0/>"] = "Brouillon enregistré <0/>";
 
+$Definition["Edit Knowledge Base"] = "Modifier la base de connaissances";
 $Definition["Error saving draft."] = "Erreur lors de l'enregistrement du brouillon";
 $Definition["Everywhere"] = "Partout";
 $Definition["Example: Appearance"] = "Exemple : Apparence";
 
 $Definition["Filter"] = "Filtre";
 $Definition["Filter Results"] = "Filtrer les résultats";
+$Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Les couleurs de premier plan sont principalement utilisées pour le texte et les icônes. Elles doivent contraster avec la couleur d'arrière plan.";
 
 $Definition["General Appearance"] = "Aspect général";
+$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Ces guides permettent de créer des guides d'utilisation, de documentation, ou tout contenu sous forme de « livre » devant être consulté dans un ordre précis.";
 
 $Definition["Hello Home Page. Links are below:"] = "Page d'accueil. Les liens sont ci-dessous :";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Les centres d'aide servent à créer des articles d'aide libre organisés par catégorie.";
+$Definition["Homepage banner image for this knowledge base."] = "Image de la bannière de la page d'accueil pour cette base de connaissances.";
 
 $Definition["Insert Article Here"] = "Insérer l'article ici";
 
@@ -67,7 +86,9 @@ $Definition["Knowledge"] = "Connaissances";
 $Definition["Knowledge Base"] = "Base de connaissances";
 $Definition["Knowledge Base Item"] = "Élément de la base de connaissances";
 $Definition["Knowledge Bases"] = "Bases de connaissances";
+$Definition["Knowledge Base Chooser Title"] = "Titre du sélectionneur de base de connaissance";
 
+$Definition["Layout Center Column Width"] = "Largeur de la colonne centrale du calque";
 $Definition["Load More"] = "Charger plus";
 
 $Definition["More Articles"] = "Plus d'articles";
@@ -77,10 +98,12 @@ $Definition["New Article"] = "Nouvel article";
 $Definition["New Category"] = "Nouvelle catégorie";
 $Definition["New Knowledge Base"] = "Nouvelle base de connaissances";
 $Definition["New Name: "] = "Nouveau nom :";
+$Definition["Newest First"] = "Du plus récent au plus ancien";
 $Definition["No \"deleted\" knowledge bases found."] = "Aucune base de connaissances « supprimée » n'a été trouvée.";
 $Definition["No Permission"] = "Aucune autorisation";
 $Definition["No knowledge bases found."] = "Aucune base de connaissances trouvée.";
 
+$Definition["Oldest First"] = "Du plus ancien au plus récent";
 $Definition["On This Page"] = "Sur cette page";
 $Definition["Organize Categories"] = "Organiser les catégories";
 $Definition["Other Articles"] = "Autres articles";
@@ -89,13 +112,19 @@ $Definition["Other Languages"] = "Autres langues";
 $Definition["Page Location"] = "Emplacement de la page";
 $Definition["Page not found"] = "Page non trouvée";
 $Definition["Please try again later."] = "Veuillez réessayer plus tard.";
+$Definition["Primary Color"] = "Couleur principale";
+$Definition["Product"] = "Produit";
 $Definition["Publish"] = "Publier";
+$Definition["Purge"] = "Purger";
+$Definition["Purge Knowledge Base"] = "Purger la base de connaissances";
+
 
 $Definition["Related Articles"] = "Articles liés";
 $Definition["Remove Article Link"] = "Supprimer le lien de l'article";
 $Definition["Remove Link"] = "Supprimer le lien";
 $Definition["Rename"] = "Renommer";
 $Definition["Restore an Article"] = "Restaurer un article";
+$Definition["Restore Knowledge Base"] = "Restaurer la base de connaissances";
 $Definition["Retry"] = "Réessayer";
 $Definition["Revision History"] = "Historique des révisions";
 $Definition["Revisions"] = "Révisions";
@@ -107,10 +136,15 @@ $Definition["Search in:"] = "Chercher dans :";
 $Definition["Select a Category"] = "Choisir une catégorie";
 $Definition["Select where you want to place your Article."] = "Sélectionnez l'endroit où vous souhaitez placer votre article.";
 $Definition["Set Page Location"] = "Définir l'emplacement de la page";
+$Definition["Sort Articles"] = "Trier les articles";
+$Definition["Sorting method for articles."] = "Méthode de tri des articles";
 $Definition["Sub folder"] = "Sous-dossier";
 $Definition["Subcategories"] = "Sous-catégories";
 
 $Definition["Thanks for your feedback!"] = "Merci pour vos commentaires !";
+$Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Image de la bannière à utiliser sur le sélectionneur de base de connaissances. Elle peut être ignorée sur la base d'une seule base de connaissances. Ses dimensions recommandées sont d'environ 1000 px x 400 px ou un rapport similaire. ";
+$Definition["The primary color is used for buttons, inputs, and various indicators."] = "La couleur principale est utilisée pour les boutons, les données et les différents indicateurs. ";
+$Definition["The width of the center column of the primary layout in pixels."] = "Largeur de la colonne centrale du premier calque en pixels. ";
 $Definition["There are no categories here."] = "Il n'y a aucune catégorie ici.";
 $Definition["There are no knowledge bases"] = "Il n'y a aucune base de connaissances";
 $Definition["There was an error"] = "Une erreur s'est produite";
@@ -118,14 +152,25 @@ $Definition["This article has been deleted."] = "Cet article a été supprimé."
 $Definition["This article hasn't been translated yet."] = "Cet article n'a pas encore été traduit. ";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Cet article n'a pas encore été traduit. Le texte original de l'article a été chargé pour faciliter la traduction.
 ";
+$Definition['This article is not translated yet or it is out of date.'] = 'Cet article n\'est pas encore traduit ou n\'est plus à jour.';
+$Definition['The article this draft is based on is no longer available.'] = 'L\'article à l\'origine de ce brouillon n\'est plus disponible.';
+$Definition['The width of the center column of the primary layout in pixels.'] = 'Largeur de la colonne centrale du premier calque en pixels. ';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Cet article a été modifié dans sa langue source le <0/>. Modifiez-le pour mettre à jour sa traduction et effacer ce message.';
+$Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Cet article a été modifié dans sa langue source. Modifiez-le pour mettre à jour sa traduction et effacer ce message.';
 $Definition["This category does not have any articles."] = "Cette catégorie n'a pas d'articles.";
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Ceci est une action destructive. Vous ne pourrez pas restaurer votre brouillon.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Il s'agit d'une action non destructrice. Vous pourrez restaurer votre article si vous le désirez.";
+$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Ce titre apparaîtra sur la page d'accueil de la connaissance. Il doit être inférieur ou égal à 20 caractères.";
 $Definition["This knowledge base does not have any articles."] = "Cette base de connaissances ne contient aucun article";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Cela créera un article qui est une copie de cette discussion. La discussion sera ensuite liée au nouvel article.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Cela supprimera le lien vers l'article, mais ne supprimera pas l'article lui-même.";
+$Definition["Title Bar Background Color"] = "Couleur d'arrière plan de la barre de titre";
+$Definition["Title Bar Foreground Color"] = "Couleur de premier plan de la barre de titre";
+$Definition["Title of the knowledge base."] = "Titre de la base de connaissances.";
+$Definition["Translate Categories"] = "Traduire les catégories";
 $Definition["Top Left"] = "En haut à gauche";
 $Definition["Type your message."] = "Entrez votre message.";
+$Definition["Type your article."] = "Écrivez votre article";
 
 $Definition["Unknown User"] = "Utilisateur inconnu";
 
@@ -138,3 +183,5 @@ $Definition["Write Discussion"] = "Écrire une discussion";
 $Definition["You can see this message because you have special permissions."] = "Vous pouvez voir ce message parce que vous avez des autorisations spéciales.";
 $Definition["You don't have permission to view this resource."] = "Vous n'êtes pas autorisé à afficher cette ressource.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Vous devez <0>vous connecter </0> pour voter sur cet article.";
+$Definition["Use Banner Image Overlay"] = "Utiliser la superposition d'images de la bannière";
+
