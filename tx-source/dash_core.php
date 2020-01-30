@@ -209,6 +209,7 @@ $Definition['Database Structure Upgrades'] = 'Database Structure Upgrades';
 $Definition['Debugger'] = 'Debugger';
 $Definition['Debug Information'] = 'Debug Information';
 $Definition['Decline'] = 'Decline';
+$Definition['Default (%s)'] = 'Default (%s)';
 $Definition['Default %s Permissions'] = 'Default %s Permissions';
 $Definition['Default  Category'] = 'Default  Category';
 $Definition['Default Category Permissions'] = 'Default Category Permissions';
