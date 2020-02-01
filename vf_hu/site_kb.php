@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Általános megjelenés";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Az súgók a sorrendben olvasandó útmutatók, dokumentációk vagy bármilyen „könyvszerű” tartalmak készítésében segítenek.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hello honlap. A hivatkozások alább találhatók:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "A súgóközpontok kategóriákba rendezett tetszőleges formájú súgócikkek készítését szolgálják.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "A súgóközpontok a kategóriákba rendezett szabad formátumú súgócikkek készítését támogatják.";
 $Definition["Homepage banner image for this knowledge base."] = "Honlap szalagképe ehhez a tudásbázishoz.";
 
 $Definition["Insert Article Here"] = "Cikk beszúrása ide";
