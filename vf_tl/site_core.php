@@ -461,6 +461,7 @@ $Definition['Delete Content'] = 'Delete Content';
 $Definition['Delete Conversation'] = 'Tanggalin ang Pag-uusap';
 $Definition['Deleted'] = 'Deleted';
 $Definition["Deleted <0/>"] = "Na-delete ang <0/>";
+$Definition['Deleted Comments'] = 'Mga Tinanggal na Komento';
 $Definition['Delete Discussion'] = 'I-delete Ang Diskusyon';
 $Definition['Delete Forever'] = 'Delete Forever';
 $Definition['Delete Group'] = 'Burahin ang Grupo';
@@ -1266,6 +1267,7 @@ $Definition['Restore deleted content.'] = 'Ibalik ang na-delete na nilalaman.';
 $Definition['Return to %s'] = 'Bumalik sa %s';
 $Definition['reverse'] = 'baliktad';
 $Definition["Revision"] = "Rebisyon";
+$Definition['Revision History'] = 'Kasaysayan ng Rebisyon';
 $Definition['Revoke'] = 'Bawi';
 $Definition['Revoked'] = 'Tinanggihan';
 $Definition['Revoked badge.'] = 'Binawing Badge';
@@ -1826,7 +1828,7 @@ $Definition['richEditor.description.title'] = 'Rich Text Editor.';
 $Definition['richEditor.description.paragraphMenu'] = 'Upang mag-edit ng estilo ng parirala, pindutin ang tab upang makapunta sa menu ng parirala. Mula roon, makakapili ka ng isang estilo. Walang Nagde-default sa parirala.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'May lalabas na menu ng inline formatting kapag pinili mo ang text. Pindutin ang tab upang makapunta sa menu na iyon.';
 $Definition['richEditor.description.embed'] = 'Ang ilang element, gaya ng mga rich link na embed, mga larawan, mga panghiwatig ng paglo-load, at mga mensahe ng error ay maaaring maisama sa editor. Pwede kang mag-navigate sa mga ito gamit ang mga arrow key sa loob ng editor at burahin ang mga ito gamit ang delete o backspace na key.';
-$Definition['richEditor.externalEmbed.description'] = 'Ito ay isang external element ng pag-embed. Pwede itong burahin gamit ang delete na key o ang backspace na key. Upang makita ang kumpletong element, pindutin ang button ng preview sa ibaba.';
+$Definition['richEditor.externalEmbed.description'] = 'Ito ay naka-embed. Maaari itong tanggalin gamit ang delete key o ang backspace key. Pindutin ang tab para pumasok sa mga opsyon sa pag-embed.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Gamitin ang mga keyboard shortcut na “page up”at “page down” upang makita ang lahat ng kategorya kapag nakabukas ang menu.';
 
 // Formatting Menus
