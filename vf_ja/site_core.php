@@ -459,6 +459,7 @@ $Definition['Delete Content'] = 'ユーザーを削除';
 $Definition['Delete Conversation'] = '会話を削除する';
 $Definition['Deleted'] = 'Deleted';
 $Definition["Deleted <0/>"] = "<0/>を削除しました";
+$Definition['Deleted Comments'] = '削除されたコメント';
 $Definition['Delete Discussion'] = 'ディスカッションを削除';
 $Definition['Delete Forever'] = 'Delete Forever';
 $Definition['Delete Group'] = 'グループを削除する';
@@ -1276,6 +1277,7 @@ $Definition['Restore deleted content.'] = '削除されたコンテンツを復�
 $Definition['Return to %s'] = '%sに戻る';
 $Definition['reverse'] = '逆';
 $Definition["Revision"] = "改訂";
+$Definition['Revision History'] = '改訂履歴';
 $Definition['Revoke'] = '取り消す';
 $Definition['Revoked'] = '無効';
 $Definition['Revoked badge.'] = '取り消されたバッジ。';
@@ -1843,7 +1845,7 @@ $Definition['richEditor.description.title'] = 'リッチテキストエディタ
 $Definition['richEditor.description.paragraphMenu'] = '段落のスタイルを編集するには、タブを押して段落メニューを表示します。 そこからスタイルを選択することができます。デフォルトでは段落はありません。'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'テキストを選択すると、インラインの書式設定メニューが表示されます。 タブを押すとそのメニューに入ります。';
 $Definition['richEditor.description.embed'] = '埋め込みリッチ・リンク、イメージ、読み込み中表示、エラーメッセージなどの要素がエディタに挿入される場合があります。エディタの中で矢印キーを使って進み、deleteキーやbackspaceキーを使ってこれらを削除できます。';
-$Definition['richEditor.externalEmbed.description'] = 'これは埋め込まれた外部要素です。deleteキーまたはbackspaceキーで削除できます。すべての要素を見るには下のプレビューのボタンを押します。';
+$Definition['richEditor.externalEmbed.description'] = 'これは埋込です。デリートキーまたはバックスペースキーで削除できます。タブキーで埋込オプションに入ることができます。';
 $Definition['richEditor.emoji.pagingInstructions'] = 'メニューが開いている状態で、使用可能なカテゴリーを順に切り替えるには、キーボードショートカットの「ページアップ」と「ページダウン」を使用します。';
 
 // Formatting Menus
