@@ -77,7 +77,8 @@ $Definition["General Appearance"] = "Algemeen uiterlijk";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Gidsen zijn voor het maken van 'Hoe te...'-gidsen, documentatie of 'boeken' zoals content die op volgorde gelezen moeten worden.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hallo Startpagina. Links zijn hieronder:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "elp centers dienen om vrije vorm hulpartikelen te maken die in categorieën georganiseerd zijn.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Helpcentra zijn bedoeld voor het maken van vrijehulp-artikelen die zijn onderverdeeld in categorieën.
+";
 $Definition["Homepage banner image for this knowledge base."] = "Startpagina bannerafdeling voor dit kennisbestand.";
 
 $Definition["Insert Article Here"] = "Voeg hier artikel in";
