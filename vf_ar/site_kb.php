@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "المظهر العام";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "الأدلة هي لصنع أدلة كيفية العمل أو الوثائق أو أي \"كتاب\" مثل المحتوى الذي يجب قراءته بالترتيب.";
 
 $Definition["Hello Home Page. Links are below:"] = "صفحة الترحيب الرئيسية. الروابط موجودة أدناه:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "مراكز المساعدة مخصصة لصنع مقالات المساعدة المجانية التي يتم تنظيمها إلى فئات.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "مراكز المساعدة مخصصة لصنع مقالات مساعدة مجانية يتم تنظيمها إلى فئات.";
 $Definition["Homepage banner image for this knowledge base."] = "صورة إعلان الصفحة الرئيسية لقاعدة المعرفة هذه.";
 
 $Definition["Insert Article Here"] = "أدخل المقالة هنا";
