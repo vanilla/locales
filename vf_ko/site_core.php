@@ -458,6 +458,7 @@ $Definition['Delete Content'] = 'Delete Content';
 $Definition['Delete Conversation'] = '대화를 삭제하기';
 $Definition['Deleted'] = 'Deleted';
 $Definition["Deleted <0/>"] = "식제된 <0/>";
+$Definition['Deleted Comments'] = '삭제된 댓글';
 $Definition['Delete Discussion'] = '토론 삭제하기';
 $Definition['Delete Forever'] = 'Delete Forever';
 $Definition['Delete Group'] = '그룹 삭제';
@@ -1263,6 +1264,7 @@ $Definition['Restore deleted content.'] = '삭제된 콘텐츠 복원.';
 $Definition['Return to %s'] = '%s(으)로 돌아가기';
 $Definition['reverse'] = '역';
 $Definition["Revision"] = "수정";
+$Definition['Revision History'] = '수정 내역';
 $Definition['Revoke'] = '취소';
 $Definition['Revoked'] = '취소됨';
 $Definition['Revoked badge.'] = '취소된 배지.';
@@ -1819,7 +1821,7 @@ $Definition['richEditor.description.title'] = '리치 텍스트 편집기.';
 $Definition['richEditor.description.paragraphMenu'] = '단락 유형을 편집하기 위해 탭을 눌러 단락 메뉴로 들어가세요. 거기에서 한 가지 유형을 선택할 수 있습니다. 단락에 기본값은 없습니다. '; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = '인라인 형식 메뉴는 텍스트를 선택할 때 나타납니다. 그 메뉴를 사용하려면 탭을 누르세요.';
 $Definition['richEditor.description.embed'] = '리치 링크 임베드, 이미지, 로딩 표식 및 에러메시지와 같은 일부 엘리먼트의 경우, 에디터에 삽입할 수 있습니다. 에디터 내부에서 방향키를 통해 해당 엘리먼트들 간에 이동하실 수 있으며, 딜리트 또는 백스페이스 키로 삭제하실 수 있습니다.';
-$Definition['richEditor.externalEmbed.description'] = '이 객체는 내장된 외부 엘리먼트입니다. 딜리트 키 또는 백스페이스 키를 사용하여 삭제하실 수 있습니다. 엘리먼트 전체를 보려면, 아래의 미리보기 버튼을 누르세요.';
+$Definition['richEditor.externalEmbed.description'] = '이것은 임베드입니다. Delete 키나 Backspace 키를 사용해서 삭제가 가능합니다. 임베드 설정에 들어가려면 탭을 누르세요.';
 $Definition['richEditor.emoji.pagingInstructions'] = '메뉴가 열릴 때 이용 가능한 카테고리를 훑어보기 위해 키보드 단축기 "page up"와 "page down" 을 사용하세요.';
 
 // Formatting Menus
