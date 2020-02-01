@@ -353,6 +353,7 @@ $Definition['Install Vanilla without a .htaccess file.'] = 'Install Vanilla with
 $Definition['Internaltionalization & Localization'] = 'Internaltionalization & Localization';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Introducing Vanilla Reactions and Badges';
 $Definition['Invalid category for deletion.'] = 'Invalid category for deletion.';
+$Definition['Invisibility Cloak Settings'] = 'Invisibility Cloak Settings';
 $Definition['Invitation Code'] = 'Invitation Code';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
@@ -693,6 +694,7 @@ $Definition['You can make the categories page your homepage.'] = 'You can make y
 $Definition['You can specify a whitelist of trusted domains.'] = 'You can specify a whitelist of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
+$Definition['You can protect your site with an HTTP username/password during development.'] = 'You can protect your site with an HTTP username/password during development.';
 $Definition['You can send emails in plain text by disabling the toggle below.'] = 'You can send emails in plain text by disabling the toggle below.';
 $Definition['You have %s invitations left for this month.'] = 'You have %s invitations left for this month.';
 $Definition['You must be authenticated in order to use this form.'] = 'You must be authenticated in order to use this form.';
