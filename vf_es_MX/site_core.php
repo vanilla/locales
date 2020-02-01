@@ -465,6 +465,7 @@ $Definition['Delete Content'] = 'Borrar contenido';
 $Definition['Delete Conversation'] = 'Eliminar conversación';
 $Definition['Deleted'] = 'Borrado';
 $Definition["Deleted <0/>"] = "Eliminado <0/>";
+$Definition['Deleted Comments'] = 'Comentarios eliminados';
 $Definition['Delete Discussion'] = 'Eliminar conversación';
 $Definition['Delete Forever'] = 'Borrar para siempre';
 $Definition['Delete Group'] = 'Borrar grupo';
@@ -1294,6 +1295,8 @@ $Definition['Restore deleted content.'] = 'Restaurar contenido eliminado.';
 $Definition['Return to %s'] = 'Volver a %s';
 $Definition['reverse'] = 'inverso';
 $Definition["Revision"] = "Revisión";
+$Definition['Revision History'] = 'Historial de revisiones
+';
 $Definition['Revoke'] = 'Rechazar';
 $Definition['Revoked'] = 'Rechazado';
 $Definition['Revoked badge.'] = 'Rechazar medalla';
@@ -1851,7 +1854,7 @@ $Definition['richEditor.description.title'] = 'Editor de texto enriquecido.';
 $Definition['richEditor.description.paragraphMenu'] = 'Para editar un estilo de párrafo, presione la pestaña para obtener el menú de párrafos. Desde ahí, podrá elegir un estilo. Nada predetermina el párrafo.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Se mostrará un menú de formato en línea cuando seleccione el texto. Presione la pestaña para entrar a ese menú.';
 $Definition['richEditor.description.embed'] = 'Algunos elementos, tales como las inserciones de enlaces enriquecidos, las imágenes, los indicadores de carga y los mensajes de error podrían ser insertados dentro del editor. Usted puede navegar hacia los mismos mediante las teclas de flecha dentro del editor, así como borrarlos con las teclas de suprimir o retroceso.';
-$Definition['richEditor.externalEmbed.description'] = 'Este es un elemento externo insertado. Se puede borrar usando la tecla suprimir o la tecla de retroceso. Para ver el elemento completo, presione el botón de vista previa abajo.';
+$Definition['richEditor.externalEmbed.description'] = 'Esta es una incrustación. Se puede borrar usando la tecla de borrar o la tecla de retroceso. Pulse la tecla de tabulación para acceder a las opciones de incrustación.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Use los atajos de teclado "subir página" y "bajar página" para desplazarse a través de las categorías disponibles cuando se abra el menú.';
 
 // Formatting Menus
