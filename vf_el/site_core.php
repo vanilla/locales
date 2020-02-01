@@ -461,6 +461,7 @@ $Definition['Delete Content'] = 'Διαγραφή Περιεχομένου';
 $Definition['Delete Conversation'] = 'Διαγραφή Συνομιλίας';
 $Definition['Deleted'] = 'Διεγράφη';
 $Definition["Deleted <0/>"] = "Διαγραμμένα <0/>";
+$Definition['Deleted Comments'] = 'Διαγραμμένα σχόλια';
 $Definition['Delete Discussion'] = 'Διαγραφή Συζήτησης';
 $Definition['Delete Forever'] = 'Διαγραφή για Πάντα';
 $Definition['Delete Group'] = 'Διαγραφή Ομάδας';
@@ -1272,6 +1273,7 @@ $Definition['Restore deleted content.'] = 'Ανάκτηση διαγραμμέν
 $Definition['Return to %s'] = 'Επιστροφή σε to %s';
 $Definition['reverse'] = 'αντιστροφή';
 $Definition["Revision"] = "Αναθεώρηση";
+$Definition['Revision History'] = 'Ιστορικό Αναθεωρήσεων';
 $Definition['Revoke'] = 'Ανάκληση';
 $Definition['Revoked'] = 'Ανάκληση';
 $Definition['Revoked badge.'] = 'Ανάκληση εμβλήματος';
@@ -1845,7 +1847,8 @@ $Definition['richEditor.description.paragraphMenu'] = 'Για να επεξερ�
 $Definition['richEditor.description.inlineMenu'] = 'Ένα μενού σε σειρά θα εμφανιστεί όταν επιλέξετε το κείμενο. Κάντε κλικ στην καρτέλα για να μεταβείτε σε αυτό το μενού.
 ';
 $Definition['richEditor.description.embed'] = 'Ορισμένα στοιχεία, όπως εμπλουτισμένες ενσωματώσεις συνδέσμων, εικόνες, δείκτες φόρτωσης και μηνύματα σφάλματος μπορούν να εισαχθούν στον επεξεργαστή. Μπορείτε να πλοηγηθείτε σ\' αυτά χρησιμοποιώντας τα πλήκτρα βέλους μέσα στον επεξεργαστή και να τα διαγράψετε με το πλήκτρο διαγραφής ή backspace.';
-$Definition['richEditor.externalEmbed.description'] = 'Αυτό είναι ένα ενσωματωμένο εξωτερικό στοιχείο. Μπορεί να διαγραφεί χρησιμοποιώντας το πλήκτρο διαγραφής ή το πλήκτρο backspace. Για να δείτε το πλήρες στοιχείο, πατήστε το κουμπί προεπισκόπησης παρακάτω.';
+$Definition['richEditor.externalEmbed.description'] = 'Αυτή είναι μια ενσωμάτωση. Μπορεί να διαγραφεί χρησιμοποιώντας το πλήκτρο διαγραφής ή το πλήκτρο οπισθοδιαστήματος. Πατήστε την καρτέλα για να μπείτε στις επιλογές ενσωμάτωσης.
+';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Χρησιμοποιήστε τις συντομεύσεις πληκτρολογίου, «μετακίνηση προς τα πάνω» και «μετακίνηση προς τα κάτω» για να μετακινηθείτε στις διαθέσιμες κατηγορίες όταν το μενού είναι ανοιχτό.
 ';
 
