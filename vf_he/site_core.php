@@ -459,6 +459,7 @@ $Definition['Delete Content'] = 'מחק תוכן';
 $Definition['Delete Conversation'] = 'מחק שיחה';
 $Definition['Deleted'] = 'נמחק';
 $Definition["Deleted <0/>"] = "נמחק <0/>";
+$Definition['Deleted Comments'] = 'תגובות שנמחקו';
 $Definition['Delete Discussion'] = 'מחק דיון';
 $Definition['Delete Forever'] = 'מחק לצמיתות';
 $Definition['Delete Group'] = 'מחק קבוצה';
@@ -1272,6 +1273,7 @@ $Definition['Restore deleted content.'] = 'שחזר תוכן שנמחק.';
 $Definition['Return to %s'] = 'חוזר ל-s%';
 $Definition['reverse'] = 'בטל';
 $Definition["Revision"] = "תיקון";
+$Definition['Revision History'] = 'היסטוריית תיקונים';
 $Definition['Revoke'] = 'בטל';
 $Definition['Revoked'] = 'בוטל';
 $Definition['Revoked badge.'] = 'תג מבוטל';
@@ -1840,7 +1842,7 @@ $Definition['richEditor.description.title'] = 'עורך טקסט עשיר. ';
 $Definition['richEditor.description.paragraphMenu'] = 'כדי לערוך סגנון פסקה, לחץ על הטבלה כדי להגיע לתפריט הפסקה. משם תוכל לבחור סגנון. דבר לא תואם לפסקה.   '; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'תפריט עריכה תוך שורה יופיע כשתבחרו טקסט. לחץ על אפשרות כדע להיכנס לתפריט זה. ';
 $Definition['richEditor.description.embed'] = 'כמה אלמנטים, הטמעות היפר-קישורים, תמונות, סמני טעינה והודעות שגיאה עשויים להיכנס לעורך. תוכלו לנווט אליהם באמצעות מקשי החיצים בתוך העורך ולמחוק אותם עם מקש הdelete או מקש המחיקה. ';
-$Definition['richEditor.externalEmbed.description'] = 'זהו אלמנט חיצוני מוטמע. ניתן למחוק אותו באמצעות מקש הdelete או מקש המחיקה. כדי לצפות באלמנט במלואו, לחצו על כפתור התצוגה למטה. ';
+$Definition['richEditor.externalEmbed.description'] = 'זו הטבעה. ניתן למחוק אותה באמצעות מקש המחיקה או מקש החזרה לאחור. יש ללחוץ על tab כדי להיכנס לאפשרויות ההטבעה.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'השתמש בקיצורי המקלדת ״דף למעלה״ ו״דף למעטה״ כדי לעבור על הקטגוריות האפשריות כשהתפריט פתוח. ';
 
 // Formatting Menus
