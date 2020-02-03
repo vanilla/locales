@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Knowledge Base";
 $Definition["Knowledge Base Item"] = "Knowledge Base Item";
 $Definition["Knowledge Bases"] = "Knowledge Bases";
 $Definition["Knowledge Base Chooser Title"] = "Knowledge Base Chooser Title";
+$Definition["Knowledge Base Chooser Description"] = "Knowledge Base Chooser Description";
 
 $Definition["Layout Center Column Width"] = "Layout Center Column Width";
 $Definition["Load More"] = "Load More";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'The
 $Definition['The width of the center column of the primary layout in pixels.'] = 'The width of the center column of the primary layout in pixels.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'This article was edited in its source locale. Edit this article to update its translation and clear this message.';
-$Definition["This category does not have any articles."] = "This category does not have any articles.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "This is a destructive action. You will not be able to restore your draft.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "This is a non-destructive action. You will be able to restore your article if you wish.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "This title will appear on the Knowledge homepage. It should be 20 characters or less.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "This %s will appear on the Knowledge homepage.";
+$Definition["title"] = "title";
+$Definition["description"] = "description";
+$Definition["It should be %s characters or less."] = "It should be %s characters or less.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Welcome to our Knowledge Base. Here you\'ll find answers to common support issues.";
+$Definition["This can be overridden on a per knowledge base basis."] = "This can be overridden on a per knowledge base basis.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Recommended dimensions are about %s by %s or a similar ratio.";
+$Definition["The %s to use on the knowledge base chooser."] = "The %s to use on the knowledge base chooser.";
+$Definition["banner background image"] = "banner background image";
+$Definition["banner content image"] = "banner content image";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read.";
+
+$Definition["This category does not have any articles."] = "This category does not have any articles.";
+
 $Definition["This knowledge base does not have any articles."] = "This knowledge base does not have any articles.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "This will create an article that is a copy of this discussion. The discussion will then be linked to the new article.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "This will remove the link to the article, but will not remove the article itself.";
