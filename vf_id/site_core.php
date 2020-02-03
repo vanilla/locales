@@ -458,6 +458,7 @@ $Definition['Delete Content'] = 'Hapus Konten';
 $Definition['Delete Conversation'] = 'Hapus Perbincangan';
 $Definition['Deleted'] = 'Dihapus';
 $Definition["Deleted <0/>"] = "<0/> Terhapus";
+$Definition['Deleted Comments'] = 'Komentar yang Dihapus';
 $Definition['Delete Discussion'] = 'Hapus Diskusi';
 $Definition['Delete Forever'] = 'Hapus Selamanya';
 $Definition['Delete Group'] = 'Hapus grup';
@@ -1265,6 +1266,7 @@ $Definition['Restore deleted content.'] = 'Pulihkan konten yang dihapus.';
 $Definition['Return to %s'] = 'Kembali ke %s';
 $Definition['reverse'] = 'balik';
 $Definition["Revision"] = "Revisi";
+$Definition['Revision History'] = 'Riwayat Revisi';
 $Definition['Revoke'] = 'Cabut';
 $Definition['Revoked'] = 'Dicabut';
 $Definition['Revoked badge.'] = 'Lencana dicabut.';
@@ -1829,7 +1831,7 @@ $Definition['richEditor.description.title'] = 'Rich Text Editor.';
 $Definition['richEditor.description.paragraphMenu'] = 'Untuk mengubah gaya paragraf, tekan tab untuk ke menu paragraf, lalu pilih satu gaya. Paragraf default akan digunakan jika tidak ada pilihan.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Menu format inline akan ditampilkan saat Anda memilih teks. Tekan tab untuk masuk ke menu tersebut.';
 $Definition['richEditor.description.embed'] = 'Beberapa elemen, seperti penyematan rich link, gambar, indikator memuat, dan pesan kesalahan, dapat disisipkan ke editor. Anda dapat beralih di antara elemen-elemen ini menggunakan tombol panah di dalam editor dan menghapusnya dengan tombol hapus atau backspace.';
-$Definition['richEditor.externalEmbed.description'] = 'Ini adalah elemen eksternal tersemat. Ini dapat dihapus menggunakan tombol hapus atau backspace. Untuk menampilkan keseluruhan elemen, tekan tombol pratinjau di bawah.';
+$Definition['richEditor.externalEmbed.description'] = 'Pusat bantuan yang disematkan ini bisa dihapus menggunakan tombol hapus atau tombol backspace. Tekan tab untuk masuk opsi penyematan.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Gunakan pintasan papan ketik "page up" dan "page down" untuk beralih di antara kategori yang tersedia saat membuka menu.';
 
 // Formatting Menus

@@ -459,6 +459,7 @@ $Definition['Delete Content'] = 'Tartalom törlése';
 $Definition['Delete Conversation'] = 'Beszélgetés törlése';
 $Definition['Deleted'] = 'Törölve';
 $Definition["Deleted <0/>"] = "Törölt <0/>";
+$Definition['Deleted Comments'] = 'Törölt hozzászólások';
 $Definition['Delete Discussion'] = 'Beszélgetés törlése';
 $Definition['Delete Forever'] = 'Törlés örökre';
 $Definition['Delete Group'] = 'Csoport törlése';
@@ -1267,6 +1268,7 @@ $Definition['Restore deleted content.'] = ' Törölt tartalom visszaállítása.
 $Definition['Return to %s'] = 'Vissza ide: %s';
 $Definition['reverse'] = 'megfordít';
 $Definition["Revision"] = "Javítás";
+$Definition['Revision History'] = 'Javítási előzmények';
 $Definition['Revoke'] = 'Visszavonás';
 $Definition['Revoked'] = 'Visszavonva';
 $Definition['Revoked badge.'] = 'Visszavont plecsni.';
@@ -1821,7 +1823,7 @@ $Definition['richEditor.description.title'] = 'Gazdag szövegszerkesztő';
 $Definition['richEditor.description.paragraphMenu'] = 'Egy bekezdés stílusának szerkesztéséhez nyomd le a tab-ot, hogy előjöjjön a bekezdés menüje. Onnen kiválaszthatsz egy stílust.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Egy sorbeli formázás menü fog megjelenni, amikor kijelölöd a szöveget. Nyomd le a tab-ot, hogy belépj ebbe a menübe.';
 $Definition['richEditor.description.embed'] = 'Néhány elem, mint a gazdag link beágyazások, képek, betöltési mutatók, és hibaüzenetek beszúrhatók a szerkesztőbe. Elnavigálhatsz ezekhez a szerkesztőn belüli nyíl billentyűket használva és törölheted őket a delete vagy a backspace billentyűkkel.';
-$Definition['richEditor.externalEmbed.description'] = 'Ez egy beágyazott külső elem. Törölhető a delete vagy a backspace billentyűkkel. A teljes elem megtekintéséhez, nyomja meg az előnézet gombot alul.';
+$Definition['richEditor.externalEmbed.description'] = 'Ez egy beágyazás. A delete vagy backspace billentyűvel lehet törölni. A beágyazás beállításait a tab billentyűvel lehet elérni.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Használd a billentyűzeten az "oldal fel" és "oldal le" gyorsbillentyűket, hogy az elérhető kategóriák közt ugrálhass, amikor a menü nyitva van.';
 
 // Formatting Menus

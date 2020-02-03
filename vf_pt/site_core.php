@@ -458,6 +458,7 @@ $Definition['Delete Content'] = 'Eliminar Conteúdo';
 $Definition['Delete Conversation'] = 'Eliminar Conversação';
 $Definition['Deleted'] = 'Eliminada';
 $Definition["Deleted <0/>"] = "Eliminado <0/>";
+$Definition['Deleted Comments'] = 'Comentários Eliminados';
 $Definition['Delete Discussion'] = 'Eliminar Tópico';
 $Definition['Delete Forever'] = 'Eliminar Para Sempre';
 $Definition['Delete Group'] = 'Eliminar Grupo';
@@ -1272,6 +1273,7 @@ $Definition['Restore deleted content.'] = 'Restaurar conteúdo eliminado.';
 $Definition['Return to %s'] = 'Retornar para %s';
 $Definition['reverse'] = 'inverter';
 $Definition["Revision"] = "Revisão";
+$Definition['Revision History'] = 'Histórico de Revisões';
 $Definition['Revoke'] = 'Revogar';
 $Definition['Revoked'] = 'Revogado';
 $Definition['Revoked badge.'] = 'Revogar medalha.';
@@ -1834,7 +1836,7 @@ $Definition['richEditor.description.title'] = 'Editor de RTF';
 $Definition['richEditor.description.paragraphMenu'] = 'Para editar o estilo de um parágrafo, carregue na tecla de tabulação para aceder ao menu de parágrafos. A partir daí, poderá escolher um estilo. Nada é padronizado como parágrafo.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Aparecerá um menu de formatação inline quando seleccionar texto. Carregue na tecla de tabulação para aceder a esse menu.';
 $Definition['richEditor.description.embed'] = 'Alguns elementos, como incorporações de hiperligações, imagens, indicadores de carregamento, e mensagens de erro podem ser inseridos no editor. Pode navegar até eles usando as teclas de seta no editor e eliminá-los com a tecla de retrocesso ou delete.';
-$Definition['richEditor.externalEmbed.description'] = 'Isto é um elemento externo incorporado. Pode ser eliminado usando a tecla de retrocesso ou delete. Para ver o elemento completo, prima o botão de pré-visualização abaixo.';
+$Definition['richEditor.externalEmbed.description'] = 'Isto é uma incorporação. Pode ser eliminada usando a tecla Delete ou a tecla Backspace. Pressiona a tecla Tab para entrar nas opções de incorporação.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Use atalhos de teclado "página para cima" e "página para baixo" para percorrer as categorias disponíveis quando o menu está aberto.';
 
 // Formatting Menus

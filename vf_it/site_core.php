@@ -458,6 +458,7 @@ $Definition['Delete Content'] = 'Elimina il contenuto';
 $Definition['Delete Conversation'] = 'Elimina Conversazione';
 $Definition['Deleted'] = 'Eliminato';
 $Definition["Deleted <0/>"] = "Cancellato <0/>";
+$Definition['Deleted Comments'] = 'Commenti eliminati';
 $Definition['Delete Discussion'] = 'Elimina Discussione';
 $Definition['Delete Forever'] = 'Elimina per sempre';
 $Definition['Delete Group'] = 'Cancella Gruppo';
@@ -1266,6 +1267,7 @@ $Definition['Restore deleted content.'] = 'Ripristina i contenuti eliminati.';
 $Definition['Return to %s'] = 'Torna a %';
 $Definition['reverse'] = 'inverti';
 $Definition["Revision"] = "Revisione";
+$Definition['Revision History'] = 'Cronologia delle Revisioni';
 $Definition['Revoke'] = 'Revoca';
 $Definition['Revoked'] = 'Revocato';
 $Definition['Revoked badge.'] = 'Badge revocato.';
@@ -1830,7 +1832,7 @@ $Definition['richEditor.description.title'] = 'Editor di testo RTF.';
 $Definition['richEditor.description.paragraphMenu'] = 'Per modificare lo stile di un paragrafo, clicca tab per raggiungere il menu paragrafo. Da lì, potrai scegliere uno stile. Non c\'è uno stile predefinito per i paragrafi.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Un menu di formattazione in linea apparirà quando selezionerai il testo. Clicca su tab per entrare in quel menu.';
 $Definition['richEditor.description.embed'] = 'Alcuni elementi come ad esempio gli incorporamenti rich link, le immagini, gli indicatori di caricamento e i messaggi di errore possono essere inseriti nell\'editor. Puoi scorrere questi elementi utilizzando i tasti freccia all\'interno dell\'editor e puoi eliminarli utilizzando i tasti CANC o BACKSPACE.';
-$Definition['richEditor.externalEmbed.description'] = 'Questo è un elemento esterno incorporato. Può essere cancellato utilizzando i tasti CANC o BACKSPACE. Per visualizzare l\'elemento completo, premi il pulsante di anteprima qui sotto.';
+$Definition['richEditor.externalEmbed.description'] = 'Questo è un inserimento. Può essere eliminato usando il tasto cancella or il tasto indietro. Premi tab per entrare nelle opzioni inserisci.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Usa le scorciatoie di tastiera "pagina su" e "pagina giù" per scorrere le categorie disponibili quando il menu è aperto.';
 
 // Formatting Menus

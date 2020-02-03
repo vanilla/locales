@@ -467,6 +467,7 @@ $Definition['Delete Content'] = 'Delete Content';
 $Definition['Delete Conversation'] = 'Usuń konwersację';
 $Definition['Deleted'] = 'Deleted';
 $Definition["Deleted <0/>"] = "Usunięte <0/>";
+$Definition['Deleted Comments'] = 'Usunięte komentarze';
 $Definition['Delete Discussion'] = 'Usuń dyskusję';
 $Definition['Delete Forever'] = 'Delete Forever';
 $Definition['Delete Group'] = 'Usuń grupę';
@@ -1276,6 +1277,7 @@ $Definition['Restore deleted content.'] = 'Przywróć usunięte treści.';
 $Definition['Return to %s'] = 'Powrót do: %s';
 $Definition['reverse'] = 'odwrócenie';
 $Definition["Revision"] = "Zmiana";
+$Definition['Revision History'] = 'Historia zmian';
 $Definition['Revoke'] = 'Odwołaj';
 $Definition['Revoked'] = 'Cofnięto';
 $Definition['Revoked badge.'] = 'Cofnięto odznakę.';
@@ -1838,7 +1840,7 @@ $Definition['richEditor.description.title'] = 'Edytor tekstu sformatowanego.';
 $Definition['richEditor.description.paragraphMenu'] = 'Aby edytować styl paragrafu, wciśnij Tab i przejdź do menu paragrafu. Tam możesz wybrać styl. Paragraf nie ma wartości domyślnej.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Menu formatowania inline pojawi się po zaznaczeniu tekstu. Wciśnij Tab, aby przejść do tego menu.';
 $Definition['richEditor.description.embed'] = 'Niektóre elementy, takie jak zamieszczone na stronie linki, wskaźniki stanu ładowania czy treści błędów mogą być wprowadzone do edytora. Możesz do nich przechodzić, korzystając z klawiszy strzałek znajdujących się edytorze oraz usuwać je, klikając klawisz Delete lub Backspace. ';
-$Definition['richEditor.externalEmbed.description'] = 'Jest to zamieszczony na stronie element zewnętrzny. Można go usunąć, używając klawisza Delete lub Backspace. Aby wyświetlić element w całości, należy nacisnąć znajdujący się poniżej przycisk podglądu. ';
+$Definition['richEditor.externalEmbed.description'] = 'To jest osadzenie. Można je usunąć klawiszem Delete lub Backspace. Naciśnij klawisz Tab, aby przejść do opcji osadzania.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Użyj skrótów klawiaturowych Page Up / Page Down, aby przejrzeć dostępne kategorie, kiedy menu jest otwarte.';
 
 // Formatting Menus

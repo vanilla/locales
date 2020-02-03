@@ -459,6 +459,7 @@ $Definition['Delete Content'] = '刪除內容';
 $Definition['Delete Conversation'] = '刪除對話';
 $Definition['Deleted'] = '已刪除';
 $Definition["Deleted <0/>"] = "已刪除 <0/>";
+$Definition['Deleted Comments'] = '已刪除評論';
 $Definition['Delete Discussion'] = '刪除討論';
 $Definition['Delete Forever'] = '永久刪除';
 $Definition['Delete Group'] = '刪除群組';
@@ -1267,6 +1268,7 @@ $Definition['Restore deleted content.'] = '回復被刪除的內容。';
 $Definition['Return to %s'] = '回到 %s';
 $Definition['reverse'] = '反轉';
 $Definition["Revision"] = "修訂";
+$Definition['Revision History'] = '修訂歷程記錄';
 $Definition['Revoke'] = '撤銷';
 $Definition['Revoked'] = '已撤銷';
 $Definition['Revoked badge.'] = '被撤銷的徽章。';
@@ -1820,7 +1822,7 @@ $Definition['richEditor.description.title'] = 'RTF 文字編輯器。';
 $Definition['richEditor.description.paragraphMenu'] = '想編輯段落樣式，請按下分頁以前往段落選單。可在其中挑選一種風格。段落並無任何預設值。'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = '選取文字後將出現內嵌格式選單。按下分頁以進入該選單。';
 $Definition['richEditor.description.embed'] = '某些元素，諸如豐富連接嵌入、圖像、載入指示符號和錯誤訊息，可以被插入到編輯器內。 您可以用編輯器內的箭頭鍵巡行至這些地方，然後用刪除鍵或後退鍵來刪除它們。';
-$Definition['richEditor.externalEmbed.description'] = '這是個嵌入外在元素。可以用刪除鍵或後退鍵將它刪除。要檢視完整元素，按下方的預覽鈕。';
+$Definition['richEditor.externalEmbed.description'] = '這是一個嵌入，可使用 Delete 鍵或 Backspace 鍵來刪除。按 Tab 以進入嵌入選項。';
 $Definition['richEditor.emoji.pagingInstructions'] = '使用鍵盤捷徑「page up」及「page down」以在選單開啟時在可用類別間循環切換。';
 
 // Formatting Menus

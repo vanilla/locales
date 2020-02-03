@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "一般外观";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "指南是关于如何做的指南、文档或任何类似内容的“书”，应按顺序阅读。";
 
 $Definition["Hello Home Page. Links are below:"] = "欢迎主页。链接如下：";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "帮助中心用于按门类组织的形式自由的帮助文章。";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "帮助中心是用于提供不限形式的帮助文章的，文章是按类别整理的。";
 $Definition["Homepage banner image for this knowledge base."] = "此知识库的首页横幅图像。";
 
 $Definition["Insert Article Here"] = "在此处插入文章";

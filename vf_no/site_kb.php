@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Generelt utseende";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Guidene er til for å lage hvordan-guider, dokumentasjon eller eventuelt boklignende innhold som skal leses i rekkefølge.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hallo hjemmeside. Lenkene ligger nedenfor:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Hjelpesentrene er til for å lage hjelpeartikler som organiseres i kategorier.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Hjelpesentre er til for å lage gratisformat hjelpeartikler som blir organisert i kategorier.";
 $Definition["Homepage banner image for this knowledge base."] = "Hjemmesidens bannerbilde for denne kunnskapsbasen.";
 
 $Definition["Insert Article Here"] = "Sett inn artikkelen her";

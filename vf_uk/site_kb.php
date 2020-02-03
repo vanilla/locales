@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Загальний вигляд";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Інструкції - для створення покрокових гідів, документації чи будь-якого \"книжкового\" контенту, який слід читати по черзі.";
 
 $Definition["Hello Home Page. Links are below:"] = "Привіт Домашня сторінка. Посилання нижче:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Центри допомоги - для створення допоміжних статей у вільній формі, організованих у категорії.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Центри допомоги призначені для створення допоміжних статей у довільній формі та організації їх за категоріями. ";
 $Definition["Homepage banner image for this knowledge base."] = "Зображення банера на домашній сторінці для цієї бази даних.";
 
 $Definition["Insert Article Here"] = "Вставте статтю сюди";

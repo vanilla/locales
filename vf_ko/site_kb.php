@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "전체적 모습";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "지침은 사용 방법 안내서, 문서, 순서대로 읽어야 하는 내용의 \"책\" 등을 만드는 데 사용됩니다.";
 
 $Definition["Hello Home Page. Links are below:"] = "안녕하세요, 홈페이지. 링크는 아래에  있습니다:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "헬프 센터는 카테고리로 정리된 자유로운 형식의 도움말 아티클을 만드는 데 사용됩니다.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "도움말 센터는 각 카테고리로 정렬되는 프리폼 도움말 항목을 만드는 곳입니다.";
 $Definition["Homepage banner image for this knowledge base."] = "이 지식 베이스에 대한 홈페이지 배너 이미지.";
 
 $Definition["Insert Article Here"] = "아티클 여기 삽입";

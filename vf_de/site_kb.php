@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Allgemeine Erscheinung";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Guides sind dazu da, How-to-Anleitungen oder Dokumentationen zu erstellen - oder sonstige „Buch“-ähnliche Inhalte, die in der angegebenen Reihenfolge gelesen werden sollten.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hallo, Startseite. Die Links sind unten aufgeführt:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Hilfecenter sind dazu da, Freiform-Hilfeartikel zu erstellen, die in Kategorien organisiert werden.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Hilfszentren dienen dazu, Freiform-Hilfeartikel zu machen, die in Kategorien geordnet sind.";
 $Definition["Homepage banner image for this knowledge base."] = "Homepage-Banner-Bild für diese Wissensbasis.";
 
 $Definition["Insert Article Here"] = "Artikel hier einfügen";

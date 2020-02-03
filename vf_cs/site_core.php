@@ -458,6 +458,7 @@ $Definition['Delete Content'] = 'Delete Content';
 $Definition['Delete Conversation'] = 'Smazat konverzaci';
 $Definition['Deleted'] = 'Deleted';
 $Definition["Deleted <0/>"] = "Odstraněno <0/>";
+$Definition['Deleted Comments'] = 'Smazané komentáře';
 $Definition['Delete Discussion'] = 'Smazat diskuzi';
 $Definition['Delete Forever'] = 'Delete Forever';
 $Definition['Delete Group'] = 'Vymazat skupinu';
@@ -1265,6 +1266,7 @@ $Definition['Restore deleted content.'] = 'Obnovit smazaný obsah.';
 $Definition['Return to %s'] = 'Vrátit se na %s';
 $Definition['reverse'] = 'zaměnit';
 $Definition["Revision"] = "Revize ";
+$Definition['Revision History'] = 'Historie revizí';
 $Definition['Revoke'] = 'Odebrat';
 $Definition['Revoked'] = 'Zrušeno';
 $Definition['Revoked badge.'] = 'Odebrat odznak.';
@@ -1822,7 +1824,7 @@ $Definition['richEditor.description.title'] = 'Bohatý textový editor.';
 $Definition['richEditor.description.paragraphMenu'] = 'K úpravě stylu odstavce stiskněte záložku, abyste se dostali do odstavcového menu. Odtamtud si budete moci vybrat jeden styl. Nevyberete-li nic, bude použit výchozí odstavec.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Řádkové menu formátování se ukáže, když vyberete text. Stiskněte tabulátor, abyste se do tohoto menu dostali.';
 $Definition['richEditor.description.embed'] = 'Do editoru lze vložit některé prvky, například vnořené odkazy, obrázky, indikátory nahrávání a chybová hlášení. Můžete se na ně přesunout pomocí tlačítek se šipkami uvnitř editoru a vymazat je tlačítkem delete (vymazat) nebo backspace (zpět). ';
-$Definition['richEditor.externalEmbed.description'] = 'Toto je vnořený externí prvek. Lze jej vymazat klávesou delete (vymazat) nebo backspace (zpět). Celý prvek zobrazíte stiskem tlačítka náhledu níže.';
+$Definition['richEditor.externalEmbed.description'] = 'Toto je vsazení. Může být smazáno pomocí kláves delete nebo backspace. Stiskněte tabulátor pro přístup k možnostem vsazení. ';
 $Definition['richEditor.emoji.pagingInstructions'] = 'K rotaci mezi dostupnými kategoriemi můžete – když je menu otevřené – použít klávesové zkratky „page up“ a „page down“.';
 
 // Formatting Menus

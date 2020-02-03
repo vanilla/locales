@@ -458,6 +458,7 @@ $Definition['Delete Content'] = 'Ștergeți conținutul';
 $Definition['Delete Conversation'] = 'Ștergeți conversația';
 $Definition['Deleted'] = 'Șters';
 $Definition["Deleted <0/>"] = "Șters <0/>";
+$Definition['Deleted Comments'] = 'Comentarii șterse';
 $Definition['Delete Discussion'] = 'Ștergeți discuția';
 $Definition['Delete Forever'] = 'Şterge permanent';
 $Definition['Delete Group'] = 'Ştergeți grup';
@@ -1261,6 +1262,7 @@ $Definition['Restore deleted content.'] = 'Restabilește conținutul șters.';
 $Definition['Return to %s'] = 'Întorceți-vă la %s';
 $Definition['reverse'] = 'inversat';
 $Definition["Revision"] = "Revizuire";
+$Definition['Revision History'] = 'Istoric revizuire';
 $Definition['Revoke'] = 'Revoca';
 $Definition['Revoked'] = 'Revocat';
 $Definition['Revoked badge.'] = 'Revoca panglica';
@@ -1850,7 +1852,7 @@ $Definition['richEditor.description.title'] = 'Editor text îmbogățit.';
 $Definition['richEditor.description.paragraphMenu'] = 'Pentru a edita stilul unui paragraf, apasă „tab” pentru a ajunge la meniul paragrafului. Din meniul respectiv, vei putea să alegi un stil. Nu există alegere implicită pentru paragraf.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Un meniu de formatare în linie va apărea atunci când selectezi un text. Apasă „tab” pentru a intra în meniul respectiv.';
 $Definition['richEditor.description.embed'] = 'Anumite elemente, precum încorporări avansate de link-uri, imagini, indicatoare de încărcare și mesaje de eroare pot fi inserate în editor. Puteți naviga către aceste elemente folosind tastele săgeți aflate în editor și le puteți șterge folosind tastele „delete” sau „backspace”. ';
-$Definition['richEditor.externalEmbed.description'] = 'Acesta este un element extern încorporat. Poate fi șters folosind tastele „delete” sau „backspace”. Pentru a vizualiza întreg elementul, apăsați butonul de previzualizare de mai jos.';
+$Definition['richEditor.externalEmbed.description'] = 'Aceasta este o încorporare. Ea poate fi ștearsă folosind tasta delete sau tasta backspace. Apasă tasta tab pentru a intra în opțiunile încorporării.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Folosește comenzile scurte de tastatură „page up” și „page down” pentru a trece prin categoriile disponibile atunci când meniul este deschis.';
 
 // Formatting Menus

@@ -459,6 +459,7 @@ $Definition['Delete Content'] = 'Poista sis&auml;lt&ouml;';
 $Definition['Delete Conversation'] = 'Poista viesti';
 $Definition['Deleted'] = 'Poistettu';
 $Definition["Deleted <0/>"] = "Poistettu <0/>";
+$Definition['Deleted Comments'] = 'Poistetut kommentit';
 $Definition['Delete Discussion'] = 'Poista keskustelu';
 $Definition['Delete Forever'] = 'Poista lopullisesti';
 $Definition['Delete Group'] = 'Poista ryhmä';
@@ -1278,6 +1279,7 @@ $Definition['Restore deleted content.'] = 'Palauta poistettu sisältö.';
 $Definition['Return to %s'] = 'Palaa kohteeseen %s';
 $Definition['reverse'] = 'peruuta';
 $Definition["Revision"] = "Muutos";
+$Definition['Revision History'] = 'Muutoshistoria';
 $Definition['Revoke'] = 'Peru';
 $Definition['Revoked'] = 'Poistettu';
 $Definition['Revoked badge.'] = 'Peruttu kunniamerkki';
@@ -1844,7 +1846,7 @@ $Definition['richEditor.description.title'] = 'Rich Text -editori.';
 $Definition['richEditor.description.paragraphMenu'] = 'Voit muokata kappaleen tyyliä painamalla välilehdestä, josta pääset kappalevalikkoon. Sieltä voit valita tyylin. Mikään ei oletusarvoisesti ole kappale.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Inline-alustusvalikko tulee näkyville, kun valitset tekstin. Paina välilehteä päästäksesi siihen valikkoon.';
 $Definition['richEditor.description.embed'] = 'Jotkut elementit, kuten runsaat linkkiupotukset, kuvat, latausosoittimet, ja virheviestit saatetaan lisätä editoriin. Voit selata niitä käyttämällä nuolinäppäimiä editorissa ja poistaa ne delete-näppäimellä tai backspace-näppäimellä.';
-$Definition['richEditor.externalEmbed.description'] = 'Tämä on upotettu ulkopuolinen elementti. Sen voi poistaa käyttämällä delete-näppäintä tai backspace-näppäintä. Nähdäksesi koko elementin, klikkaa alla olevaa esikatselunappia.';
+$Definition['richEditor.externalEmbed.description'] = 'Tämä on upotus. Voit poistaa sen painamalla delete- tai backspace-näppäintä. Paina sarkainta siirtyäksesi upotusasetuksiin.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Käytä pikanäppäimiä "Page Up" ja "Page Down" selataksesi eri kategorioita valikon ollessa auki.';
 
 // Formatting Menus

@@ -460,6 +460,7 @@ $Definition['Delete Content'] = 'Delete Content';
 $Definition['Delete Conversation'] = 'Slet samtale';
 $Definition['Deleted'] = 'Deleted';
 $Definition["Deleted <0/>"] = "Slettet <0/>";
+$Definition['Deleted Comments'] = 'Slettede kommentarer ';
 $Definition['Delete Discussion'] = 'Slet diskussion';
 $Definition['Delete Forever'] = 'Delete Forever';
 $Definition['Delete Group'] = 'Slet gruppe';
@@ -1270,6 +1271,7 @@ $Definition['Restore deleted content.'] = 'Gendan slettet indhold. ';
 $Definition['Return to %s'] = 'Vend tilbage til %s';
 $Definition['reverse'] = 'omvendt';
 $Definition["Revision"] = "Revision";
+$Definition['Revision History'] = 'Revisionshistorik';
 $Definition['Revoke'] = 'Tilbagekald';
 $Definition['Revoked'] = 'Tilbagekaldt';
 $Definition['Revoked badge.'] = 'Tilbagekaldt emblem.';
@@ -1824,7 +1826,7 @@ $Definition['richEditor.description.title'] = 'Rich Text-redigeringsværktøj';
 $Definition['richEditor.description.paragraphMenu'] = 'For at rette en paragrafstil skal du trykke tab for at komme til paragrafmenuen. Der vil du kunne vælge en stil. Ingenting er standard for paragraffer. '; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'En inline-formateringsmenu vil vise sig, når du vælger tekst. Tryk tab for at komme ind i den menu.';
 $Definition['richEditor.description.embed'] = 'Nogle elementer, såsom rich link-indlejringer, billeder, loading-indikatorer og fejlbeskeder kan sættes ind i redigeringsværktøjet. Du kan navigere til disse ved hjælp af piletasterne i redigeringsværktøjet og slette dem med delete- eller backspace-knappen. ';
-$Definition['richEditor.externalEmbed.description'] = 'Dette er et indlejret eksternt element. Det kan slettes med delete- eller backspace-knappen. For at se det fulde element, skal du trykke på preview-knappen herunder. ';
+$Definition['richEditor.externalEmbed.description'] = 'Dette er en indlejring. Den kan slettes med delete- eller backspace-tasten. Tryk Tab for at gå til valgmuligheder for indlejringer.  ';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Brug tastaturgenvejene "page up" og "page down" for at navigere gennem tilgængelige kategorier, når menuen er åben.';
 
 // Formatting Menus

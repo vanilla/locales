@@ -79,7 +79,7 @@ $Definition["General Appearance"] = "सामान्य दिखावट";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "कैसे करे गाइड, प्रलेखन, या किसी \"पुस्तक\" जैसी सामग्री बनाने के लिए गाइड हैं जिन्हें क्रम में पढ़ा जाना चाहिए।";
 
 $Definition["Hello Home Page. Links are below:"] = "हेलो मुख्य पृष्ठ। लिंक नीचे हैं:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "elp केंद्र मुक्त संरूप सहायता लेख बनाने के लिए हैं जिन्हें श्रेणियों में संयोजित किया गया है।";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "सहायता केंद्र स्वतंत्र रूप से सहायक आर्टिकल बनाने के लिए हैं जो कैटेगरी में व्यवस्थित हैं।";
 $Definition["Homepage banner image for this knowledge base."] = "इस ज्ञानधार के लिए होमपेज बैनर इमेज।";
 
 $Definition["Insert Article Here"] = "लेख यहाँ सम्मिलित करें";

@@ -459,6 +459,7 @@ $Definition['Delete Content'] = '删除内容';
 $Definition['Delete Conversation'] = '删除邮件';
 $Definition['Deleted'] = '页面不存在';
 $Definition["Deleted <0/>"] = "已删除 <0/>";
+$Definition['Deleted Comments'] = '已删除的评论';
 $Definition['Delete Discussion'] = '删除话题';
 $Definition['Delete Forever'] = '永久删除';
 $Definition['Delete Group'] = '删除群';
@@ -1271,6 +1272,7 @@ $Definition['Restore deleted content.'] = '恢复删除的内容。';
 $Definition['Return to %s'] = '返回到%s';
 $Definition['reverse'] = '逆转';
 $Definition["Revision"] = "修订";
+$Definition['Revision History'] = '修订历史记录';
 $Definition['Revoke'] = '撤销';
 $Definition['Revoked'] = '已撤销';
 $Definition['Revoked badge.'] = '撤销徽章。';
@@ -1836,7 +1838,7 @@ $Definition['richEditor.description.title'] = '富文本编辑器。';
 $Definition['richEditor.description.paragraphMenu'] = '要编辑段落样式，请点击选项卡以转到段落菜单。你可以从中选择一种样式。段落没有任何默认值。'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = '当你选中文本时会出现一个行内格式化菜单。点击选项卡以进入此菜单。';
 $Definition['richEditor.description.embed'] = '某些元素（如各类链接嵌入、图像、加载指示符和错误消息）可能会插入到编辑器中。您可以使用编辑器内的箭头键导航到这些部分，然后使用删除键（delete）或退格键（backspace）删除它们。';
-$Definition['richEditor.externalEmbed.description'] = '这是一个嵌入式外部元素。可以使用删除键（delete）或退格键（backspace）删除它。 要查看完整元素，请按下面的预览按钮。';
+$Definition['richEditor.externalEmbed.description'] = '这是个 embed。可以使用删除键或后退键将其删除。按 tab 键可进入 embed 选项。';
 $Definition['richEditor.emoji.pagingInstructions'] = '当菜单打开时，使用键盘快捷键“page up”（向上翻页）和“page down”（向下翻页）可循环显示可用类别。';
 
 // Formatting Menus

@@ -458,6 +458,7 @@ $Definition['Delete Content'] = 'Delete Content';
 $Definition['Delete Conversation'] = 'Slett samtale';
 $Definition['Deleted'] = 'Deleted';
 $Definition["Deleted <0/>"] = "Slettet <0/>";
+$Definition['Deleted Comments'] = 'Slettede kommentarer';
 $Definition['Delete Discussion'] = 'Slett diskusjon';
 $Definition['Delete Forever'] = 'Delete Forever';
 $Definition['Delete Group'] = 'Slett gruppe';
@@ -1271,6 +1272,7 @@ $Definition['Restore deleted content.'] = 'Gjenopprett slettet innhold.';
 $Definition['Return to %s'] = 'Returner til %s';
 $Definition['reverse'] = 'reverser';
 $Definition["Revision"] = "Revisjon";
+$Definition['Revision History'] = 'Revisjonshistorikk';
 $Definition['Revoke'] = 'Tilbakekall';
 $Definition['Revoked'] = 'Tilbakekalt';
 $Definition['Revoked badge.'] = 'Tilbakekalt merke.';
@@ -1837,7 +1839,7 @@ $Definition['richEditor.description.title'] = 'Redigeringsprogram for rik tekst'
 $Definition['richEditor.description.paragraphMenu'] = 'Trykk tab for å komme til menyen for å redigere stilen i et avsnitt. Derfra kan du velge en stil. Velger du Nothing (Ingen) vil stilen i avsnittet settes til standard.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'En meny for inline-formatering vil dukke opp når du markerer tekst. Tryk tab for å komme inn i den menyen.';
 $Definition['richEditor.description.embed'] = 'Noen elementer, som rike, innebygde lenker, bilder, lasteindikatorer, og feilmeldinger, kan legges inn med redigeringsverktøyet. Du kan navigere til disse med piltastene inne i redigeringsverktøyet, og slette dem med delete- eller backspace-knappen.';
-$Definition['richEditor.externalEmbed.description'] = 'Dette er et innebygget eksternt element. Det kan slettes ved å bruke delete- eller backspace-knappen. For å se hele elementet, trykk på knappen under for forhåndsvisning.';
+$Definition['richEditor.externalEmbed.description'] = 'Dette er en innebygd. Den kan slettes med delete-knappen eller backspace-knappen. Trykk tab for å åpne innebygd alternativer.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Bruk snarveiene "page up" og "page down" på tastaturet for å gå gjennom tilgjengelige kategorier når menyen er åpen.';
 
 // Formatting Menus

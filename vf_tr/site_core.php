@@ -459,6 +459,7 @@ $Definition['Delete Content'] = 'İçeriği Sil';
 $Definition['Delete Conversation'] = 'Görüşmeyi Sil';
 $Definition['Deleted'] = 'Silindi';
 $Definition["Deleted <0/>"] = "<0/> Silindi";
+$Definition['Deleted Comments'] = 'Silinen Yorumlar';
 $Definition['Delete Discussion'] = 'Tartışmayı Sil';
 $Definition['Delete Forever'] = 'Sonsuza Kadar Sil';
 $Definition['Delete Group'] = 'Grubu Sil';
@@ -1266,6 +1267,7 @@ $Definition['Restore deleted content.'] = 'Silinen içeriği geri yükle. ';
 $Definition['Return to %s'] = '%s\'a Geri Dön';
 $Definition['reverse'] = 'ters';
 $Definition["Revision"] = "Revizyon";
+$Definition['Revision History'] = 'Düzeltme Geçmişi';
 $Definition['Revoke'] = 'İptal Et';
 $Definition['Revoked'] = 'İptal Edildi';
 $Definition['Revoked badge.'] = 'Rozeti İptal Et';
@@ -1819,7 +1821,7 @@ $Definition['richEditor.description.title'] = 'Zengin Metin Düzenleyici.';
 $Definition['richEditor.description.paragraphMenu'] = 'Bir paragrafın stilini düzenlemek için paragraf menüsü sekmesine basın. Buradan bir stil seçebilirsiniz. Hiçbir şey seçilmediğinde varsayılan olarak paragraf seçilir.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Metni seçtiğinizde satır içi biçimlendirme menüsü görüntülenir. Bu menüye gitmek için sekmeye basın.';
 $Definition['richEditor.description.embed'] = 'Bağlantı gömülü zengin içerikler, görüntüler, yükleme göstergeleri ve hata mesajları gibi bazı öğeler editöre eklenebilir. Editörün içerisindeki ok tuşlarını kullanarak bunları yönlendirebilir ve silme ya da geri alma tuşuyla silebilirsiniz.';
-$Definition['richEditor.externalEmbed.description'] = 'Bu gömülü bir harici öğedir. Sil tuşu veya geri al tuşu kullanılarak silinebilir. Tamamını görüntülemek için aşağıdaki önizleme düğmesine basınız.';
+$Definition['richEditor.externalEmbed.description'] = 'Bu bir yerleştirmedir. Silme veya geri alma tuşu ile silinebilir. Yerleştirme seçeneklerine girmek için sekmeye basın.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Menü açıldığında mevcut kategoriler arasında gezinmek "page up" ve "page down" klavye kısayollarını kullanabilirsiniz.';
 
 // Formatting Menus

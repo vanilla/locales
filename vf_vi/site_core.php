@@ -458,6 +458,7 @@ $Definition['Delete Content'] = 'Xóa nội dung';
 $Definition['Delete Conversation'] = 'Xóa cuộc trao đổi';
 $Definition['Deleted'] = 'Đã xóa';
 $Definition["Deleted <0/>"] = "Đã xóa <0/>";
+$Definition['Deleted Comments'] = 'Bình luận đã xóa';
 $Definition['Delete Discussion'] = 'Xóa thảo luận';
 $Definition['Delete Forever'] = 'Xóa vĩnh viễn';
 $Definition['Delete Group'] = 'Xóa Nhóm';
@@ -1265,6 +1266,7 @@ $Definition['Restore deleted content.'] = 'Khôi phục nội dung đã bị xó
 $Definition['Return to %s'] = 'Quay lại %s';
 $Definition['reverse'] = 'đảo ngược';
 $Definition["Revision"] = "Bản sửa đổi";
+$Definition['Revision History'] = 'Lịch sử Sửa đổi';
 $Definition['Revoke'] = 'Bãi bỏ';
 $Definition['Revoked'] = 'Đã bãi bỏ';
 $Definition['Revoked badge.'] = 'Huy hiệu đã bị bãi bỏ.';
@@ -1818,7 +1820,7 @@ $Definition['richEditor.description.title'] = 'Trình Soạn thảo Rich Text.';
 $Definition['richEditor.description.paragraphMenu'] = 'Để chỉnh sửa kiểu đoạn văn, nhấn tab để vào menu đoạn văn. Từ đó bạn sẽ có thể chọn một kiểu. Không có kiểu mặc định cho đoạn văn.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
 $Definition['richEditor.description.inlineMenu'] = 'Menu định dạng nội tuyến sẽ hiển thị khi bạn chọn văn bản. Nhấn tab để vào menu đó.';
 $Definition['richEditor.description.embed'] = 'Một số phần tử, chẳng hạn như liên kết nhúng giàu tính chất, hình ảnh, chỉ báo đang tải và thông báo lỗi có thể được chèn vào trình biên tập. Bạn có thể điều hướng những phần tử này bằng cách sử dụng các phím mũi tên bên trong trình biên tập và xóa chúng bằng phím xóa hoặc phím xóa lùi.';
-$Definition['richEditor.externalEmbed.description'] = 'Đây là phần tử bên ngoài được nhúng. Có thể xóa bằng cách sử dụng phím xóa hoặc phím xóa lùi. Để xem phần tử đầy đủ, hãy nhấn nút xem trước bên dưới.';
+$Definition['richEditor.externalEmbed.description'] = 'Đây là một thẻ nhúng. Có thể xóa thẻ này bằng phím "delete" ("xóa") hoặc phím cách. Nhấn tab để vào xem các lựa chọn thẻ nhúng.';
 $Definition['richEditor.emoji.pagingInstructions'] = 'Sử dụng phím tắt trên bàn phím là "page up" và "page down" để chuyển qua lại các danh mục có sẵn khi menu được mở.';
 
 // Formatting Menus

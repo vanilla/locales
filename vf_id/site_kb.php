@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Tampilan Umum";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Panduan adalah untuk membuat panduan cara, dokumentasi, atau konten lain yang serupa \"buku\" yang harus dibaca secara berurutan.";
 
 $Definition["Hello Home Page. Links are below:"] = "Halo Laman Beranda. Tautan ada di bawah:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "pusat elp adalah untuk membuat artikel bantuan susunan-bebas yang ditata berdasar kategori.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Pusat bantuan adalah untuk membuat artikel bantuan bentuk bebas yang diatur ke dalam kategori.";
 $Definition["Homepage banner image for this knowledge base."] = "Gambar spanduk beranda untuk basis pengetahuan ini.";
 
 $Definition["Insert Article Here"] = "Sisip Artikel Di Sini";
