@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect, kullanıcıların Facebook hesaplarını kullanarak giriş yapmalarını sağlar. <b>Bu eklentinin çalışması için başvurunuzu Facebook\'a kaydetmelisiniz.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Girdiğiniz kullanıcı adı ve şifre ile veritabanına bağlanılamadı. Onları yanlış mı yazdınız? Veritabanı raporu: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Gösterge tablosunu yalnızca bu URL\'den erişilebilir olmaya zorlayın <em>(önerilmez)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Örneğin, "*@örnek.com" değeriyle bir e-posta tipi engel ekleyerek, "örnek.com" adresinden e-postası olan tüm kullanıcıları yasaklayabilirsin.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO amacıyla, arama motoru tarayıcılarının uzak url\'deki forumu görüntülemeye zorlanması engellenmiştir.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Bir içe aktarma işlemini başarıyla tamamladınız.
@@ -70,6 +71,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Uyarı seviyesini azaltmak istiyorsanız, bir uyarıyı kaldırın.';
 $Definition['Import'] = 'İçe Aktar';
 $Definition['Importing to Vanilla'] = 'Vanilla\'ya içe aktarılıyor';
+$Definition['Internationalization & Localization'] = 'Uluslararasılaştırma & Yerelleştirme';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Davetiyeyle kaydı kullandığınızda, kullanıcılar profil sayfalarında <a href="%s" class="Popup">Davetiyelerim</a> adlı bir bağlantıya sahip olacaklardır.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Belirttiğiniz veritabanı henüz mevcut değil gibi görünüyor. Yeni mi oluşturdun? Adını mı yanlış yazdın? Veritabanı raporu: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Bir yorumda izin verilen maksimum karakter sayısını makul bir boyuta indirmek iyi bir fikirdir.';
@@ -114,6 +116,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Uyarı: HSTS önyüklemesini en iy
 $Definition['Select the import source'] = 'İçe aktarma kaynağını seçin';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serileştirilmiş sütun "%s" serileştirilemedi.';
 $Definition['Show all possible pocket locations.'] = 'Tüm olası cep konumlarını göstermek için bu seçeneği açın. Bu seçeneği açmak, sadece yerleri yönetebilecek kullanıcılara yerleri gösterecektir.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Bir yasak oluştururken kısmi ya da tam bir eşleşme belirt.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Sitenizi burada nasıl tanımladığınızı düşünerek biraz zaman geçirin. Sitenize anlamlı bir başlık ve kısa bir açıklama vermek, arama motorlarında konumunuzu belirlemekte ve sağlamlaştımakta yardımcı olabilir.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Logo ekleyerek ve renkleri özelleştirerek e-postalarınızı yükseltin.';
 $Definition['Start Import'] = 'İçe Aktarımı Başlat';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Uyarı</b>: Sunucu yap
 Çok büyük bir dosyayı içe aktarıyorsanız (ör. 200.000\'den fazla yorum) yapılandırmanızı değiştirmeyi düşünebilirsiniz. Daha fazla bilgi için <a href="http://vanillaforums.com/porter">buraya</a> tıklayın.';
 $Definition['Warning: This is for advanced users.'] = '<b>Uyarı</b>: Bu, ileri düzey kullanıcılar içindir ve web sunucunuzda ek değişiklikler yapmanızı gerektirir. Bu genellikle yalnızca adanmış veya vps hostinginiz varsa kullanılabilir. Ne yaptığınızı bilmiyorsanız bunu denemeyin.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = '"111.111.111.*" değeriyle bir IP tipi yasak ekleyerek, IP adresleri "111.111.111" ile başlayan tüm kullanıcıları yasaklayabilirsiniz.';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'IP adreslerini, e-posta adreslerini ve kullanıcı adlarını yasaklayabilirsin.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'JsConnect destekleyen birden çok siteye bağlanabilirsiniz.';
 $Definition['You can place files in your /uploads folder.'] = 'Dosyanız doğrudan bu sayfaya yüklemek için çok büyükse, dosyayı  /uploads klasörüne yerleştirebilirsiniz. Dosya adının <b>export</b> sözcüğü ile başladığından ve <b>.txt, .gz</b> sözcüklerinden biriyle bitdiğinden emin olun.';
 $Definition['You must select a file to import.'] = 'İçe aktarmak için bir dosya seçmek zorundasınız.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Organizasyon ismin SEO microdata ve JSON+LD için kullanılıyor.';
