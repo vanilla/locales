@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect功能讓用戶可以透過自己的Facebook帳號登入；<b>您必須在Facebook網站上註冊您的應用程式，以便使用這項功能。</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = '無法以您提供的帳號和密碼連結資料庫。會不會是拼錯了呢？資料庫回報的訊息是：<code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = '強制規定只能從這個網址使用控制台<em>（不建議使用）</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = '例如，你能藉增加數值為「*@example.com」的電子郵件類型禁制來禁止來自「example.com」電子郵件位址的所有用戶。';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = '為SEO目的起見，已避免搜尋引擎被強制分析遠端網址上的討論版。';
 
 $Definition['Garden.Import.Complete.Description'] = '您已成功完成匯入作業。
@@ -70,6 +71,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = '如果您想降低警告層級，請關閉警告訊息。';
 $Definition['Import'] = '匯入';
 $Definition['Importing to Vanilla'] = '匯入Vanilla';
+$Definition['Internationalization & Localization'] = '國際化與本地化';
 $Definition['Invitations can be sent from users\' profile pages.'] = '如果您使用了邀請註冊功能，用戶的專屬個人頁面上會出現稱為「<a href="%s" class="Popup">我的邀請函</a>」的連結。';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '您所指定的資料庫似乎還沒有建立；您確定已經建立了嗎？會不會是名稱拼錯了呢？資料庫回報的訊息是：<code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '將留言字數限制在一個合理數值之下，是一個不錯的想法。';
@@ -114,6 +116,7 @@ $Definition['Security.Hsts.SubmitWarning'] = '警告：支援以 HSTS 預載作�
 $Definition['Select the import source'] = '請選擇匯入來源';
 $Definition['Serialized column "%s" failed to be unserialized.'] = '序列欄位「%s」無法解除序列。';
 $Definition['Show all possible pocket locations.'] = '開啟這個選項來顯示所有可以放置pocket的位置。如果開啟這項功能，將只會向有權限管理pocket的用戶顯示位置。';
+$Definition['Specify a partial or full match when creating a ban.'] = '在建立禁制時規定部份或是完全吻合。';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '請花些時間思考一下如何介紹您的網站。給網站一個有意義的名稱、以及簡潔有力的介紹，對搜尋引擎排名是有幫助的。';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = '加入標誌和自訂顏色來美化您的 email。';
 $Definition['Start Import'] = '開始匯入';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：您的伺
 如果您想匯入非常大的資料檔案（例如超過200,000則留言），可能需要先改變伺服器設定。請點按<a href="http://vanillaforums.com/porter">這裡</a>詳閱進一步資訊。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：本功能限進階用戶使用、並且需要您對網頁伺服器進行額外的調整，通常只在使用專屬伺服器或VPS時才會需要。如果您不知道這項功能的用法，請不要嘗試使用。';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = '您能藉由增加數值為「111.111.111.*」的 IP 類型禁制來禁止所有 IP 地址有「111.111.111」字首的用戶。';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = '你能禁止 IP 位址、電子郵件位址和用戶名稱。';
 $Definition['You can connect to multiple sites that support jsConnect.'] = '您可以和多個支援jsConnect的網站連線。';
 $Definition['You can place files in your /uploads folder.'] = '如果您的檔案太大而無法直接上傳到此頁面，您可以將它放置在 /uploads 資料夾。確認檔案名稱起始為 <b>export</b> 且結尾為<b>.txt 或 .gz</b>。';
 $Definition['You must select a file to import.'] = '您必須選擇要匯入的檔案。';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = '你組織的名稱被用於 SEO microdata 和 JSON+LD';
