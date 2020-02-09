@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "全体的な外観";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "ガイドは、ハウツーガイド、ドキュメント、または順番に読む必要があるコンテンツのような「本」を作成するためのものです。";
 
 $Definition["Hello Home Page. Links are below:"] = "こんにちは ホームページ。リンクは以下のとおりです：";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "エルプセンターは、カテゴリ別に整理された自由形式のヘルプ記事を作成するためのものです。";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "ヘルプセンターでは自由形式のヘルプ記事を作成しカテゴリー別に整理することができます。";
 $Definition["Homepage banner image for this knowledge base."] = "このナレッジベースのホームページバナー画像。";
 
 $Definition["Insert Article Here"] = "ここに記事を挿入";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "知識ベース";
 $Definition["Knowledge Base Item"] = "知識ベースの項目";
 $Definition["Knowledge Bases"] = "知識ベース";
 $Definition["Knowledge Base Chooser Title"] = "ナレッジベース選択タイトル";
+$Definition["Knowledge Base Chooser Description"] = "ナレッジベースチューザーの説明";
 
 $Definition["Layout Center Column Width"] = "レイアウトセンターの列幅";
 $Definition["Load More"] = "さらに読み込む";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'こ
 $Definition['The width of the center column of the primary layout in pixels.'] = 'プライマリレイアウトの中央列の幅（ピクセル単位）。';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'この記事は、<0/>のソースロケールで編集されました。 この記事を編集して翻訳を更新し、このメッセージを削除してください。';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'この記事はソースロケールで編集されました。 この記事を編集して翻訳を更新し、このメッセージを削除してください。';
-$Definition["This category does not have any articles."] = "このカテゴリーには記事がありません。";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "これは破壊的操作です。あなたの下書きを復元することができなくなります。";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "これは破壊的操作ではありません。お望みなら記事を復元することができます。";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "このタイトルは、ナレッジホームページに表示されます。20文字以下にする必要があります。";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "この%sは、「ナレッジ」ホームページに表示されます。";
+$Definition["title"] = "タイトル";
+$Definition["description"] = "説明";
+$Definition["It should be %s characters or less."] = "%s文字以下にする必要があります。";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "当社のナレッジベースへようこそ。ここで、一般的なサポートの問題に対する回答が見つかるはずです。";
+$Definition["This can be overridden on a per knowledge base basis."] = "これは、ナレッジベースごとに上書きできます。";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "推奨寸法は、約%sｘ%sまたは同様の比率です。";
+$Definition["The %s to use on the knowledge base chooser."] = "ナレッジベースチューザーで使用する%s。";
+$Definition["banner background image"] = "バナー背景画像";
+$Definition["banner content image"] = "バナーコンテンツ画像";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "特定のバナー画像の上にあるテキストは読みにくい場合があります。この設定を有効にすると、バナー画像にオーバーレイが追加され、テキストが読みやすくなります。";
+
+$Definition["This category does not have any articles."] = "このカテゴリーには記事がありません。";
+
 $Definition["This knowledge base does not have any articles."] = "この知識ベースには記事がありません。";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "これは、このディスカッションのコピーである記事を作成します。その後、ディスカッションは新しい記事にリンクされます。";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "これにより記事へのリンクは削除されますが、記事自体は削除されません。";
