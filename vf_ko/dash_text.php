@@ -65,6 +65,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = '페이스북 컨넥트 기능을 사용하면 페이스북 계정으로 로그인 할 수 있습니다. <b>이 플러그인이 작동하려면 페이스 북 어플리케이션을 등록해야합니다.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = '귀하가 입력한 사용자명과 비밀번호로 데이터베이스에 연결하는데 실패했습니다. 잘못 입력하셨습니까? 보고된 데이터베이스: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = '강제로 이 URL <em>(권장하지 않음)</em>을 통해서만 대시보드에 접근할 수 있게 하세요';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = '예를 들어 "*@example.com" 값으로 이메일 유형 차단을 추가해서 "example.com"의 이메일 주소를 사용하는 모든 사용자를 차단할 수 있습니다.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO을 위해 검색 엔진 크롤러는 리모트 URL을 통한 강제 설정에서  제외됩니다.';
 
 $Definition['Garden.Import.Complete.Description'] = '가져오기를 성공적으로 완료하였습니다.
@@ -84,6 +85,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = '경고 수준을 낮추고 싶은 경우에는 경고를 제거하세요.';
 $Definition['Import'] = '임포트';
 $Definition['Importing to Vanilla'] = '바닐라로 가져오기';
+$Definition['Internationalization & Localization'] = '국제화 및 현지화 ';
 $Definition['Invitations can be sent from users\' profile pages.'] = '초대하기 기능을 사용하여 가입자를 받을 경우 회원들에게 <a href="%s" class="Popup">초대하기</a> 링크가 프로필 페이지에 생성됩니다.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '귀하가 구체적으로 명시한 데이터베이스가 아직 존재하지 않는 것 같습니다. 아직 생성하지 않으셨습니까? 이름을 잘못 입력하셨습니까? 보고된 데이터베이스: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '댓글의 길이를 제한하면 글의 길이를 일정하게 유지할 수 있습니다.';
@@ -130,6 +132,7 @@ $Definition['Security.Hsts.SubmitWarning'] = '경고: HSTS 프리로딩을 모�
 $Definition['Select the import source'] = '가져오기 소스를 선택하세요';
 $Definition['Serialized column "%s" failed to be unserialized.'] = '직렬화된 칼럼 "%s"을(를) 직렬화 해제하는데 실패하였습니다.';
 $Definition['Show all possible pocket locations.'] = '포켓의 가능한 위치를 모두 보여주려면 이 옵션을 사용하세요. 이 옵션을 켜면 사용자가 포켓을 관리할 수 있는 위치만을 보여줍니다. ';
+$Definition['Specify a partial or full match when creating a ban.'] = '차단할 때 부분 일치 또는 전체 일치를 지정하십시오.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '여기에서 귀하의 사이트를 어떻게 설명할지 잠깐 시간을 내어 생각해 보세요. 사이트에 의미있는 제목과 간략한 설명을 붙이면 검색 엔진에서 귀하의 위치에 도움이 될 수 있습니다. ';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = '로고를 추가하고 취향에 맞는 색상을 골라 이메일을 꾸며 보세요.';
 $Definition['Start Import'] = '가져오기 시작';
@@ -177,6 +180,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>경고</b>: 귀하의 
 아주 큰 파일(예를 들어 200,000 코멘트 이상)을 가져오는 경우 환경설정 변경을 고려해야 합니다. 더 자세한 정보가 필요하사면 <a href="http://vanillaforums.com/porter">여기</a> 를 클릭하세요.';
 $Definition['Warning: This is for advanced users.'] = '<b>경고</b>: 이것은 고급 사용자용이고 웹 서버를 추가로 변경해야 합니다. 이것은 보통 전용 혹은 VPS 호스팅을 소유한 경우에만 사용할 수 있습니다. 지금 무엇을 하는지 모르는 경우에는 이것을 시도하지 마세요.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = '"111.111.111".*" 값으로 IP-유형 차단을 추가해서 "111.111.111"이 앞에 붙은 IP 주소를 사용하는 사용자를 모두 차단할 수 있습니다.';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'IP 주소, 이메일 주소 및 사용자명을 차단할 수 있습니다.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'jsConnect를 지원하는 여러 사이트에 연결할 수 있습니다. ';
 $Definition['You can place files in your /uploads folder.'] = '귀하의 파일이 너무 커서 이 페이지에 직접 업로드할 수 없는 경우 귀하의/ 업로드 폴더에 둘 수 있습니다. 파일명이 <b>export</b>라는 단어로 시작하고<b>.txt, .gz</b> 중 하나로 끝나는지 확인하세요.';
 $Definition['You must select a file to import.'] = '반드시 가져올 파일을 선택해야 합니다.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = '귀하의 조직 이름이 SEO 마이크로데이터와 JSON+LD에 사용됩니다.';
