@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Aparência Geral";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Os guias servem para criar guias de procedimentos, documentação ou qualquer conteúdo em forma de \"livro\" que deve ser lido por ordem.";
 
 $Definition["Hello Home Page. Links are below:"] = "Olá, página inicial. As hiperligações estão abaixo:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Os centros de ajuda destinam-se a criar artigos de ajuda de forma livre que são organizados por categorias.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Os centros de ajuda são para criar artigos de ajuda de forma livre que são organizados em categorias.";
 $Definition["Homepage banner image for this knowledge base."] = "A imagem da faixa da página inicial para esta base de dados de conhecimento.";
 
 $Definition["Insert Article Here"] = "Inserir Artigo Aqui";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Base de Conhecimentos";
 $Definition["Knowledge Base Item"] = "Item da Base de Conhecimentos";
 $Definition["Knowledge Bases"] = "Bases de Conhecimentos";
 $Definition["Knowledge Base Chooser Title"] = "Título do Seletor da Base de Dados de Conhecimento";
+$Definition["Knowledge Base Chooser Description"] = "Descrição do Seletor da Base de Conhecimentos";
 
 $Definition["Layout Center Column Width"] = "Largura da Coluna Central do Esquema";
 $Definition["Load More"] = "Carregar Mais";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'O a
 $Definition['The width of the center column of the primary layout in pixels.'] = 'A largura da coluna central do esquema primário em píxeis.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Este artigo foi editado na sua localização de origem em <0/>. Edite este artigo para atualizar a sua tradução e limpar esta mensagem.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Este artigo foi editado na sua localização de origem. Edite este artigo para atualizar a sua tradução e limpar esta mensagem.';
-$Definition["This category does not have any articles."] = "Esta categoria não tem nenhum artigo.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Esta é uma ação destrutiva. Não vai poder  restaurar o seu rascunho.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Isto é uma ação não destrutiva. Poderá restaurar o seu artigo se o desejar.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Este título aparecerá na página inicial da base de dados de conhecimento. Deve ter 20 carateres ou menos.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Este %s vai aparecer na página inicial do Conhecimento.";
+$Definition["title"] = "título";
+$Definition["description"] = "descrição";
+$Definition["It should be %s characters or less."] = "Deve ter %s caracteres ou menos.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bem vindo a nossa Base do Conhecimentos. Aqui vai encontrar respostas para problemas comuns de suporte.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Isto pode ser substituído numa base por base de conhecimentos.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "As dimensões recomendadas são de cerca de %s por %s ou uma proporção semelhante.";
+$Definition["The %s to use on the knowledge base chooser."] = "A %s para usar no seletor da base de conhecimentos.";
+$Definition["banner background image"] = "imagem de fundo da faixa";
+$Definition["banner content image"] = "imagem do conteúdo da faixa";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Pode ser difícil ler o texto sobre certas imagens da faixa. Ative esta configuração para adicionar uma sobreposição sobre as imagens da faixa, facilitando a leitura do texto.";
+
+$Definition["This category does not have any articles."] = "Esta categoria não tem nenhum artigo.";
+
 $Definition["This knowledge base does not have any articles."] = "Esta base de conhecimentos não tem nenhum artigo.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Isto criará um artigo que é uma cópia desta discussão. A discussão será depois associada ao novo artigo.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Isto removerá a associação ao artigo, mas não removerá o próprio artigo.";
