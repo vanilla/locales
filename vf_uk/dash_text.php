@@ -1,6 +1,6 @@
 <?php
 
-$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.';
+$Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Увага!</strong> Видалення ролі може призвести до того, що користувачі не матимуть доступу до додатку.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.';
 
 $Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Роль із типовим типом "непідтверджений" потрібна для підтвердження електронною поштою.';
@@ -19,7 +19,7 @@ $Definition['Are you sure you\'ve entered the correct database host name? Maybe 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'By clicking the button below, you will be deleting the user account for %s forever.';
 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
-$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
+$Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla - найпростіша, найпотужніша платформа для спільноти у світі. Вона супер-пупер проста у використанні. Почніть з цього вступного відео та рухайтесь кроками нижче. Насолоджуйтесь!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choose a role that orphaned users will be assigned to:';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Наприклад, ви можете забанити всіх користувачів з електронними адресами на "example.com", додавши бан за типом електронної адреси зі значенням "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
@@ -70,11 +71,12 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
 $Definition['Import'] = 'Імпорт';
 $Definition['Importing to Vanilla'] = 'Імпорт у Vanilla';
+$Definition['Internationalization & Localization'] = 'Інтернаціоналізація та локалізація ';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Коли ви використовуєте реєстрацію за запрошеннями, у користувачів з\'явиться посилання <a href="%s" class="Popup">Мої Запрошення</a> на їх сторінках профілю.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Непогана ідея обмежити максимальну кількість символів, дозволене в коментарі, до розумного розміру.';
 
-$Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
+$Definition['Kick-start your community and increase user engagement.'] = 'Почніть свою спільноту та залучайте користувачів.';
 
 $Definition['Learn about custom routing.'] = 'Learn about custom routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
@@ -92,12 +94,12 @@ $Definition['No unconfirmed role available for email confirmation.'] = 'На с�
 $Definition['Notify me when people comment on my addons.'] = 'Notify me when people comment on my addons.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Будь-ласка, виберіть аутентикатор для налаштування.';
-$Definition['PluginHelp'] = 'Плагіни дозволяють вам додати функціональність вашому сайту.<br />Додайте плагін в папку %s, і він може бути включений чи відключений тут.';
+$Definition['PluginHelp'] = 'Плагіни дозволяють розширити функціональність вашого сайту.<br />Як тільки плагін буде доданий у %sпапку, ви можете включити або виключити його тут.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets allow you to add free-form HTML to various places around the application.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Запобігайте спаму на вашому форумі, обмежуючи кількість обговорень та коментарів, які користувачі можуть створювати (публікувати) протягом заданого проміжку часу.';
 
-$Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start помічник створення тем для Vanilla';
+$Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Короткий посібник зі створення тем для Vanilla ';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
@@ -114,17 +116,18 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Застереження: Це ч�
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Зазначте частковий або повний збіг, створюючи бан.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Spruce up your emails by adding a logo and customizing the colors.';
-$Definition['Start Import'] = 'Start Import';
-$Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
+$Definition['Start Import'] = 'Почніть Імпорт';
+$Definition['Start the first discussion.'] = 'Запустіть свою спільноту <a href="{/post/discussion,url}">почавши перше обговорення</a> зараз.';
 
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'The %s Authenticator does not have any custom configuration options.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'The addon could not be enabled because it generated a fatal error: <pre>%s</pre>';
 $Definition['The addon has already been downloaded.'] = 'The addon has already been downloaded.';
 $Definition['The banner logo appears at the top of your forum.'] = 'Зображення логотипу зявиться вгорі вашого форуму.';
 $Definition['The banner title appears on the top-left of every page.'] = 'The banner title appears on the top-left of every page.';
-$Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browser\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
+$Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Заголовок банера відображається на банері вашого веб-сайту та у заголовку вашого веб-переглядача. Він повинен бути менше 20 символів. Якщо логотип банера буде завантажено, він замінить назву банера на сторінках форуму, орієнтованих на користувачів. Також пам’ятайте, що деякі теми також можуть приховувати цю назву.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>The basic registration form requires</strong> new users to copy text from a CAPTCHA image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>';
 $Definition['The following structure changes are required for your database.'] = 'The following structure changes are required for your database.';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your serv
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Ви можете забанити всіх користувачів з IP адресами, що починаються з "111.111.111", додавши бан з типом IP зі значенням "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Ви можете банити IP адреси, електронні адреси та імена користувачів.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'You can connect to multiple sites that support jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'If your file is too large to upload directly to this page you can place it in your /uploads folder. Make sure the filename begins with the word <b>export</b> and ends with one of <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Назва вашої організації використовується для мікроданих SEO та JSON+LD';
