@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect permite que os usuários se registrem utilizando a conta de Facebook. <b>Você precisa registrar sua aplicação com o Facebook para esta função ser ativada.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Falha ao se conectar ao banco de dados com o nome de usuário e senha inseridos. Você digitou direito? O banco de dados relatou: <code>%s</ code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force o Painel a ser acessado somento através desta URL <em>(não recomendado)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Por exemplo, você pode banir todos os endereços de e-mail de "exemplo.com" adicionando um banimento de e-mail com o valor "*@exemplo.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Para fins SEO, crawlers de mecanismos de busca não precisam passar pela URL remota para ver o fórum.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Você concluiu com êxito uma importação.
@@ -70,6 +71,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Caso queira diminuir o nível do aviso e, então, removê-lo.';
 $Definition['Import'] = 'Importar';
 $Definition['Importing to Vanilla'] = 'Importando para o Vanilla';
+$Definition['Internationalization & Localization'] = 'Internacionalização e localização';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Quando você utiliza o registro por meio de convites de usuários, eles terão acesso à seção <a href="%s" class="Popup">Meus convites</a> em seus perfis.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Parece que o banco de dados que você especificou ainda não existe. Você já o criou? Você digitou o nome certo? O banco de dados relatou: <code>%s</ code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'É uma boa ideia manter o número de caracteres permitidos em comentários abaixo de um valor razoável.';
@@ -114,6 +116,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Aviso: É bom oferecer suporte à 
 $Definition['Select the import source'] = 'Selecione a fonte de importação';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Não foi possível desserializar a coluna serializada "%s". ';
 $Definition['Show all possible pocket locations.'] = 'Ative esta opção para exibir todas as localizações de pockets. As localizações somente serão exibidas a membros que podem gerenciar pockets.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Especifique uma correspondência parcial ou completa ao criar um banimento.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Pare e pense um pouco em como descrever seu site aqui. Dê ao seu site um título significativo e uma descrição concisa, isso pode melhorar a sua posição nos motores de busca.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Enfeite seus e-mails adicionando um logotipo e personalizando as cores.';
 $Definition['Start Import'] = 'Começar iImportação';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<B> Aviso </ b>: a config
 Se você estiver importando um arquivo muito grande (ex. Mais de 200.000 comentários), seria bom considerar a alteração da sua configuração. Clique <a href="http://vanillaforums.com/porter">aqui </a> para obter mais informações.';
 $Definition['Warning: This is for advanced users.'] = '<B>Aviso</ b>: Isto é para usuários avançados e requer que você faça alterações adicionais em seu servidor web. Geralmente isto só está disponível se você tiver hospedagem dedicada ou vps. Não tente se você não souber o que está fazendo.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Você pode banir todos os usuários com endereços IP prefixados com "111.111.111" adicionando um banimento por IP com o valor "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Você pode banir endereços de IP, endereços de e-mail e nomes de usuário.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Você pode se conectar a múltiplos sites que suportam o jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Se o seu arquivo for muito grande para ser carregado diretamente para esta página, você pode colocá-lo em sua pasta / uploads. Certifique-se de que o nome do arquivo começa com a palavrea <b>export</b> e termina com <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Você precisa selecionar um arquivo para importar.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'O nome da sua organização é usado para microdados de SEO e JSON+LD';
