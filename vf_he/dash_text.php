@@ -54,6 +54,7 @@ $Definition['Facebook Connect allows users to sign in using their Facebook accou
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'הייתה תקלה בהתחברות למאגר הנתונים עם שם המשתמש והסיסמה שיפקת.
 אולי טעית בהקלדה? מאגר הנתונים דיווח: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'חסום את הגישה לעמוד הראשית לכול כתובת מלבד ה-URL הבא <em>(לא מומלץ)</em> ';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'למשל, באפשרותך לאסור את כניסתם של כל המשתמשים עם כתובות אימייל של example.com על ידי הוספת איסור כניסה מסוג אימייל עם הערך "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'בשביל לקדם את האתר במנועי חיפוש, הגישה לכתובת ה-URL הנוכחית חסומה לרובוטי חיפוש.';
 
 $Definition['Garden.Import.Complete.Description'] = 'סיימת בהצלחה ייבוא. לחצו <b>סיום</b> לסיום התהליך.';
@@ -71,6 +72,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'אם ברצונך להוריד את רמת האזהרה, הסר את האזהרה.';
 $Definition['Import'] = 'יבא';
 $Definition['Importing to Vanilla'] = 'מייבא לתוך Vanilla';
+$Definition['Internationalization & Localization'] = 'בינאום ולוקליזציה ';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'כאשר אתם משתמשים בהרשמה באמצעות הזמנה למשתמשים יהיה קישור שיוצג ב<a href="%s" class="Popup">ההזמנות שלי</a> בדפי הפרופיל שלהם.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'מאגר הנתונים שבחרת לא קיים. כבר יצרת אותו? אולי טעית בשם? מאגר הנתונים המדובר: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'מומלץ להגביל את מספר האותיות בתגובה לכמות סבירה.';
@@ -115,6 +117,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'אזהרה: מעולה לתמוך 
 $Definition['Select the import source'] = 'בחר מה לייבא';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'טור ממושך "%s" נכשל להיות לא ממושך.';
 $Definition['Show all possible pocket locations.'] = 'הפעל אפשרות זאת כדי להראות את כל מקומות הכיסים האפשריים. הפעלת אפשרות זאת תראה המיקומים רק למשתמשים שיכולים לנהל כיסים.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'יש לפרט התאמה חלקית או מלאה כשיוצרים איסור כניסה.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'בזבז קצת זמן בנוגע לאיך לתאר את האתר שלך כאן. הענקת כותרת מלאת משמעות לאתר שלך ותיאור תמציתי יכול לעזור למיקום שלך במנועי חיפוש.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'שדרג/י את מראה האימיילים שלך ע"י הוספת לוגו ועיצוב הצבעים לפי טעמך.';
 $Definition['Start Import'] = 'תחל ייבוא';
@@ -163,6 +166,9 @@ $Definition['Video tutorial on user registration'] = 'מדריך וידאו על
 $Definition['Warning: Loading tables can be slow.'] = '<b>אזהרה</b>: הגדרת השרת שלך לא מאפשרת טעינת מידע מהירה. אם אתה מייבא קובץ גדול מאוד (לדוגמה מעבר ל-200,000 תגובות) ייתכן ותרצה לשקול לשנות את ההגדרה שלך. לחץ <a href="http://vanillaforums.com/porter">כאן</a> למידע נוסף.';
 $Definition['Warning: This is for advanced users.'] = '<b>אזהרה</b>: זה למשתמשים מתקדמים ודרוש שתעשה שינויים נוסיף לשרת האינטרנט שלך. זה בדרך כלל זמין רק אם אתה מסור או vps hosting. אל תנסה את זה אם אתה לא יודע מה אתה עושה.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'באפשרותך לאסור את הכניסה של כל המשתמשים בעלי כתובת IP  עם הקידומת "111.111.111" על ידי הוספת איסור כניסה מסוג IP עם הערך "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'באפשרות לאסור כניסה לפי כתובות IP, כתובות אימייל ושמות משתמש.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'ניתן להתחבר לאתרים שונים שתומכים ב-jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'הקובץ שלך גדול מדי כדי להעלות אותו ישירות לדף הזה באפשרותך לשים אותו בתיקיית /uploads שלך. וודא כי שם הקובץ מתחיל עם המילה <b>export</b> ונגמר עם אחת מהאופציות <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'בחר קובץ לייבוא.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'נעשה שימוש בשם הארגון שלך למטרות SEO microdata ו- JSON+LD';
