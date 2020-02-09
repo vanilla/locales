@@ -52,6 +52,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = '<b>Facebook Connect</b> permet aux utilisateurs de se connecter en utilisant leur compte Facebook.<br /><b>Vous devez enregistrer votre application avec Facebook pour que ce module fonctionne.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Échec de la connexion à la base de données avec les identifiants fournis. Les avez-vous bien entrés ? Attention aux fautes de frappe. La base de donné a renvoyé : <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Forcer l\'accès au tableau de bord via cette url <em>(non recommandé)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Par exemple, en ajoutant une exclusion de type courriel pour la valeur « *@example.com », vous pouvez interdire l\'accès à tous les utilisateurs ayant des adresses de courriel de « example.com ».';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Pour des questions de référencement web, les robots d\'indexation des moteurs de recherche sont exclus de la règle forçant à voir le forum via l\'url distante.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Vous avez terminé l\'importation avec succès.
@@ -71,6 +72,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Si vous voulez diminuer le niveau d\'alerte, enlevez une alerte.';
 $Definition['Import'] = 'Importer';
 $Definition['Importing to Vanilla'] = 'Importer vers Vanilla';
+$Definition['Internationalization & Localization'] = 'Internationalisation et localisation';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Lorsque vous utilisez la méthode d\'inscription par invitation, les utilisateurs auront un lien nommé <a href="%s" class="Popup">Mes Invitations</a> sur leurs pages de profil.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Il semblerait que la base de données spécifiée n\'existe pas encore. L\'avez-vous déjà créée ? Avez-vous fait une faute de frappe dans son nom ? La base de données renvoie : <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Il est conseillé de maintenir le nombre maximum de caractères autorisés dans un commentaire à un nombre raisonnablement bas.';
@@ -115,6 +117,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Attention : c\'est très bien de 
 $Definition['Select the import source'] = 'Choisissez le fichier à importer';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'La colonne sérialisée "%s" n\'a pas pu être dé-sérialisée.';
 $Definition['Show all possible pocket locations.'] = 'Activez cette option pour afficher tous les emplacements de blocs disponibles. En activant cette option, les emplacements seront uniquement visibles par les utilisateurs qui peuvent gérer les blocs.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Spécifiez une correspondance partielle ou totale lors de la création d\'une exclusion.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Réfléchissez à la façon dont vous pensez décrire votre site ici. Donner à votre site une description brève et significative peut vous aider à être positionné correctement dans les moteurs de recherche.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Égayez vos emails en ajoutant votre logo et en personnalisant les couleurs.';
 $Definition['Start Import'] = 'Commencer l\'importation';
@@ -162,6 +165,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Attention</ b>: La con
 Si vous importez un fichier trop volumineux (par exemple plus de 200.000 commentaires), vous devriez peut-être envisager de changer votre configuration. Cliquez ici <a href="http://vanillaforums.com/porter"> </a>; pour obtenir plus d\'informations.';
 $Definition['Warning: This is for advanced users.'] = '<b>Avertissement</b>: Ces possibilités sont réservées aux utilisateurs expérimentés et impliquent des modifications de la configuration de votre serveur web, qui ne sont possibles que si vous disposez d\'un hébergement dédié. Ne faites ces manipulations qu\'en connaissance de cause.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'En ajoutant une exclusion de type IP pour la valeur « 111.111.111.* », vous pouvez interdire l\'accès à tous les utilisateurs avec des adresses IP ayant pour préfixe « 111.111.111 ».';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Vous pouvez interdire l\'accès à des adresses IP, adresses de courriel et noms d\'utilisateurs.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Vous pouvez vous connecter aux multiples sites qui prennent en charge jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Si votre fichier est trop volumineux pour être directement chargé sur cette page, vous pouvez aussi le placer dans votre dossier /uploads. Assurez-vous cependant que le nom du fichier commence par le mot <b>export</ b> et se termine par l\'une des extensions suivantes <b> Txt, .gz </ b>.';
 $Definition['You must select a file to import.'] = 'Vous devez sélectionner un fichier à importer.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Le nom de votre organisation est utilisé pour des micro-données de référencement naturel et JSON-LD';
