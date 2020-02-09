@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Kết nối Facebook cho phép người dùng đăng nhập bằng tài khoản Facebook của họ. <b>Bạn phải đăng ký ứng dụng của bạn với Facebook để plugin này làm việc.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Không thể kết nối với cơ sở dữ liệu bằng tên người dùng và mật khẩu bạn đã nhập. Bạn đã nhập nhầm? Cơ sở dữ liệu báo cáo: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Bắt buộc chỉ có thể truy cập bảng điều khiển thoogn qua liên kết này <em>(không khuyến cáo)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Ví dụ, bạn có thể cấm tất cả những người dùng có địa chỉ email từ "example.com" bằng cách thêm một lệnh cấm dạng email với giá trị "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Cho các mục đích SEO, công cụ tìm kiếm phải được loại bỏ khỏi việc yêu cầu phải xem nội dung diễn đàn bằng một liên kết từ xa.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Bạn đã hoàn tất một nhập.
@@ -70,6 +71,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Nếu bạn muốn làm giảm mức độ cảnh báo sau đó loại bỏ một cảnh báo.';
 $Definition['Import'] = 'Nhập';
 $Definition['Importing to Vanilla'] = 'Nhập vào Vanilla';
+$Definition['Internationalization & Localization'] = 'Quốc tế hóa & Bản địa hóa';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Khi bạn sử dụng các đăng ký thông qua lời mời thì người dùng sẽ có một liên kết được gọi là <a href="%s" class="Popup"> Lời mời của tôi</a> trên trang hồ sơ của họ.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Có vẻ như cơ sở dữ liệu mà bạn cung cấp không tồn tại. Bạn đã tạo nó chưa? Hay bạn đã nhập nhầm tên? Cơ sở dữ liệu thông báo: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Giữ số kí tự tối đa cho phép trong mỗi bình luận nằm ở mức chấp nhận được là một ý kiến rất hay.';
@@ -114,6 +116,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Lưu ý: Cách tốt nhất là b�
 $Definition['Select the import source'] = 'Chọn nguồn nhập';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
 $Definition['Show all possible pocket locations.'] = 'Bật tùy chọn này để hiển thị tất cả các địa điểm của túi. Bật tùy chọn này sẽ chỉ hiển thị các địa điểm để người dùng có thể quản lý túi.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Quy định rõ một phần hay toàn bộ trận đấu khi tạo luật cấm.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Dành một ít thời gian suy nghĩ về cách bạn mô tả trang web của bạn ở đây. Cung cấp cho trang của bạn một tiêu đề phù hợp và một mô tả chính xác để phục vụ cho các cỗ máy tìm kiếm.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Trau chuốt email của bạn bằng cách thêm một lô-gô và tùy chỉnh màu sắc.';
 $Definition['Start Import'] = 'Bắt đầu nhập';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Cảnh báo</b>: cấu
 Nếu bạn đang nhập một tập tin rất lớn (ví dụ: hơn 200.000 bình luận), bạn có thể muốn xem xét việc thay đổi cấu hình của bạn. Bấm vào <a href="http://vanillaforums.com/porter"> đây</a> để biết thêm thông tin.';
 $Definition['Warning: This is for advanced users.'] = '<b>Cảnh báo</b>: phần này là dành cho người dùng cao cấp và yêu cầu phải thực hiện các thay đổi cho máy chủ web. Nó chỉ dùng được nếu bạn có một máy chủ riêng. Đừng cố thử nếu bạn không biết những gì bạn đang làm.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Bạn có thể cấm tất cả những người dùng có địa chỉ IP đứng đầu là dãy "111.111.111" bằng cách thêm một lệnh cấm dạng IP với giá trị "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Bạn có thể cấm các địa chỉ IP, địa chỉ email và tên người dùng.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Bạn có thể kết nối với nhiều trang web hỗ trợ jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Nếu tệp của bạn quá lớn để đăng tải trực tiếp lên trang này, bạn có thể đặt tệp đó vào thư mục /uploads (tệp tải lên) của mình. Hãy đảm bảo là tên tệp bắt đầu bằng từ <b>export</b> và kết thúc bằng một trong hai dạng <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Bạn phải chọn một tệp để nhập.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Tên tổ chức của bạn được dùng cho microdata SEO và JSON+LD';
