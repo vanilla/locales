@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "지식 베이스";
 $Definition["Knowledge Base Item"] = "지식 베이스 항목 ";
 $Definition["Knowledge Bases"] = "지식 베이스";
 $Definition["Knowledge Base Chooser Title"] = "지식 베이스 선택 도구 제목";
+$Definition["Knowledge Base Chooser Description"] = "지식 베이스 선택 도구 설명";
 
 $Definition["Layout Center Column Width"] = "레이아웃 센터 열 너비";
 $Definition["Load More"] = "로드 더 하기";
@@ -158,10 +159,25 @@ $Definition['The width of the center column of the primary layout in pixels.'] =
 기본 레이아웃의 센터 열 너비 (픽셀).';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = '이 아티클은 <0/> 소스 로케일에서 편집되었습니다. 이 아티클을 편집해서 번역 내용을 업데이트하고 이 메시지를 지우세요. ';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = '이 아티클은 소스 로케일에서 편집되었습니다. 이 아티클을 편집해서 번역 내용을 업데이트하고 이 메시지를 지우세요. ';
-$Definition["This category does not have any articles."] = "이 카테고리엔 아티클이 하나도 없습니다.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "이것은 제거 작업입니다. 초안을 복구할 수 없게 됩니다. ";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "이것은 비제거 작업입니다. 원하시면, 아티클을 복구할 수 있습니다.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "이 제목은 지식 홈페이지에 게재될 것입니다. 20자 이내여야 합니다.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "이 %s은/는 지식 홈페이지에 나타납니다.";
+$Definition["title"] = "제목";
+$Definition["description"] = "설명";
+$Definition["It should be %s characters or less."] = "%s자 이하여야 합니다.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "저희 지식 베이스에 오신 것을 환영합니다. 여기서 일반적인 지원 문제에 대한 답을 찾으실 수 있습니다.";
+$Definition["This can be overridden on a per knowledge base basis."] = "이것은 지식 베이스 기반에 따라 재정의될 수 있습니다.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "권장 치수는 %s 또는 유사한 비율로 대략 %s입니다.";
+$Definition["The %s to use on the knowledge base chooser."] = "지식 베이스 선택 도구에서 사용할 %s.";
+$Definition["banner background image"] = "배너 배경 이미지";
+$Definition["banner content image"] = "배너 콘텐츠 이미지";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "특정 배너 이미지상에 있는 텍스트를 읽는 것은 어려울 수 있습니다. 텍스트를 읽기 쉽게 만드는 배너 이미지 위에 오버레이를 추가하려면 이 설정을 활성화하세요.";
+
+$Definition["This category does not have any articles."] = "이 카테고리엔 아티클이 하나도 없습니다.";
+
 $Definition["This knowledge base does not have any articles."] = "이 지식 베이스에는 아티클이 하나도 없습니다.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "이것은 이 토론의 사본 아티클을 생성합니다. 해당 토론은 그 후 새 아티클로 링크됩니다.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "이것은 아티클로 이동하는 링크를 삭제하지만, 아티클 자체를 삭제하지 않습니다.";
