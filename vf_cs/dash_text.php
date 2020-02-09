@@ -52,6 +52,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect umožňuje uživatelům přihlásit se pomocí svého účtu na Facebooku. <b>Aby tento plugin fungoval, musíte svoji aplikaci zaregistrovat na Facebooku.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Nepodařilo se nám připojit k databázi pomocí zadaného uživatelského jména a hesla. Nespletli jste si název? Nahlášená databáze: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Přinutit palubovku, aby byla přístupná pouze prostřednictvím této adresy URL <em>(nedoporučujeme)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Například můžete zakázat všechny uživatele s e-mailovými adresami z domény  „example.com“ přidáním zákazu typu e-mailu s hodnotou „*@example.com“.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Pro účely SEO jsou clawleři vyhledávače vyloučeni nutnosti zobrazovat si fórum ve vzdálené url.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Úspěšně jste dokončili import. Jakmile budete připraveni, klikněte na <b>Hotovo</b>.';
@@ -69,6 +70,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Pokud chcete snížit úroveň varování, odstraňte varování.';
 $Definition['Import'] = 'Importovat ';
 $Definition['Importing to Vanilla'] = 'Imporování na Vanilla ';
+$Definition['Internationalization & Localization'] = 'Internacionalizace a lokalizace';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Když použijete registraci prostřednictvím pozvánky, uživatelé budou mít na svých profilových stránkách odkaz s názvem <a href="%s" class="Popup">Mé pozvánky</a>.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Zdá se, že zadaná databáze ještě neexistuje. Už jste ji vytvořili? Nespletli jste si název? Nahlášená databáze: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Je dobré nastavit maximální počet znaků povolených v komentáři na rozumně nízkou velikost.';
@@ -113,6 +115,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Upozornění: Nejlepší postup je
 $Definition['Select the import source'] = 'Vyberte zdroj importu ';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Zrušení serializace serializovaného sloupce „%s“ se nezdařilo.';
 $Definition['Show all possible pocket locations.'] = 'Zapněte tuto možnost, pokud chcete zobrazit všechna možná umístění kapes. Zapnutí této možnosti zobrazí umístění pouze uživatelům, kteří mohou spravovat kapsy.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Při vytváření zákazu zadejte částečnou nebo úplnou shodu.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Zkuste tu trochu popřemýšlet o tom, jak byste svoji stránku popsali. Smysluplný název a stručný popis může posílit vaši pozici ve výsledcích vyhledávání. ';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Upravte své e-maily přidáním loga a přizpůsobením barev.';
 $Definition['Start Import'] = 'Začít import';
@@ -160,6 +163,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Varování</b>: Konfig
 Pokud chcete importovat velmi velký soubor (např. více než 200 000 komentářů), můžete zvážit změnu vaší konfigurace. Pro více informací klikněte <a href="http://vanillaforums.com/porter">sem</a>.';
 $Definition['Warning: This is for advanced users.'] = '<b>Varování</b>: Tato funkce je pro pokročilé uživatele a vyžaduje, abyste provedli další změny na svém webovém serveru. Tato funkce je obvykle k dispozici pouze v případě, že máte vyhrazený nebo vps hosting. Nepokoušejte se tuto funkci zapnout, pokud nevíte, co děláte. ';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Můžete zakázat všechny uživatele s IP adresami začínajícími „111.111.111“ přidáním zákazu typu IP s hodnotou „111.111.111.*“.';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Můžete zakázat IP adresy, e-mailové adresy a uživatelská jména.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Můžete se připojit k více webovým stránkám, které podporují protokol jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Pokud je soubor příliš velký pro přímé nahrání na tuto stránku, můžete jej umístit do své složky /uploads. Ověřte si, že název souboru začíná slovem <b>export</b> a končí jednou z přípon <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Musíte vybrat soubor k importování.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Název vaší organizace je použit pro SEO mikrodata a JSON-LD';
