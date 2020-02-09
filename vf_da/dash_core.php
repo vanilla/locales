@@ -211,6 +211,7 @@ $Definition['Create & organize discussion categories and manage your users.'] = 
 $Definition['Created new badge'] = 'Oprettede nyt mærke';
 $Definition['CreateFile'] = 'Opret';
 $Definition['Criteria'] = 'Kriterie';
+$Definition['CSS'] = 'CSS';
 $Definition['CssClass'] = 'CSS klasse ';
 $Definition['Current Authenticator'] = 'Nuværende godkendelsesprocedure';
 $Definition['Current File:'] = 'Nuværende fil:';
@@ -327,6 +328,7 @@ $Definition['Flagged By'] = 'Markeret af';
 $Definition['Flood Control'] = 'Oversvømmelser';
 $Definition['Force the forum to only be accessible through this url'] = 'Tving forummet til at kun være tilgængeligt gennem denne url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Tving dit forum til at blive vist igennem fjernadressen';
+$Definition['Footer'] = 'Sidefod';
 $Definition['Forum Data'] = 'Forumdata';
 $Definition['Forum Settings'] = 'Indstillinger for forum';
 $Definition['Frequency'] = 'Frekvens';
@@ -353,6 +355,7 @@ $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Vågn op!';
 $Definition['Heads Up!'] = 'Bemærk!';
+$Definition['Header'] = 'Overskrift';
 $Definition['Help &amp; Tutorials'] = 'Hjælp og vejledninger';
 $Definition['Here\'s how to get started:'] = 'Sådan starter du:';
 $Definition['Hidden for everything!'] = 'Skjult for alle klienter!';
@@ -390,6 +393,8 @@ $Definition['Invited by'] = 'Inviteret af';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect Client Libraries';
 $Definition['jsConnect Documentation'] = 'jsConnect Documentation';
+$Definition['JS'] = 'JS
+';
 
 $Definition['Key Type'] = 'Nøgletype';
 $Definition['Key Value'] = 'Nøgleværdi';
@@ -629,6 +634,8 @@ $Definition['The invitation was removed successfully.'] = 'Invitationen blev fje
 $Definition['The invitation was sent successfully.'] = 'Invitationen blev sendt uden fejl.';
 $Definition['Theme Options'] = 'Opsætning af tema';
 $Definition['Themes'] = 'Temaer';
+$Definition['ThemeEditor.Copy'] = '<0/> kopi
+';
 $Definition['Theming Overview'] = 'Overblik over temaer';
 $Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Der er sket en fejl ved upload af billedet. Dit mail logo kan uploades i et af følgende filformater: gif, jpg, png';
 $Definition['There are currently no applicants.'] = 'Der er p.t. ikke nogle ansøgere.';
@@ -667,6 +674,7 @@ $Definition['This is a parent category that does not allow discussions.'] = 'Det
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Dette er den første gang du har besøgt diskussionsforaerne.';
 $Definition['This page requires Javascript.'] = 'Denne side kræver JavaScript.';
 $Definition['This pocket is an ad.'] = 'Denne lomme er en reklame.';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Dette tema kan ikke slettes, fordi det er det aktuelt anvendte tema.';
 $Definition['This theme has additional options.'] = 'Dette tema har yderligere indstillinger på %s siden.';
 $Definition['This theme has customizable text.'] = 'Dette tema har tekst som du kan tilpasse.';
 $Definition['Thumbnails'] = 'Miniaturer';
@@ -706,6 +714,7 @@ $Definition['UserWipe'] = 'Indhold af ny bruger';
 $Definition['UserWipeMessage'] = 'Slet brugeren og erstat alt brugerens indhold med en besked om at brugeren er blevet slettet.  Dette giver et visuelt vink om, at der mangler information.';
 $Definition['Use the content at this url as your homepage.'] = 'Vælg siden som folk ser når de besøger: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Brug Vanilla som et kommentarsystem på din side.';
+$Definition['Untitled'] = 'Unavngivet';
 
 $Definition['Value or Pattern'] = 'Værdi eller Mønster';
 $Definition['Vanilla.Archive.Description'] = 'Du kan vælge at  arkivere diskussioner ældre end en bestemt  dato. Arkiverede diskussioner er effektivt lukket, så ingen nye indlæg kan skrives.';
