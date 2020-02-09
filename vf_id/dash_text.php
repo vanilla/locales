@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect memungkinkan pengguna untuk masuk menggunakan akun Facebook mereka.';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Gagal terhubung ke basisdata dengan username dan password yang anda masukkan. Apakah anda salah tulis? Basisdata melaporkan: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Paksakan agar dashboard hanya bisa diakses dari url ini saja <em>(tidak direkomendasikan)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Misalnya, Anda dapat melarang semua pengguna dengan alamat email dari "contoh.com" dengan menambahkan larangan tipe email dengan nilai "*@contoh.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Untuk kepentingan SEO, crawler mesin pencari tidak disertakan pada paksaan melihat forum dari url terkendali.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Anda berhasi menyelesaikan impor. Klik <b>Selesai</b> jika Anda sudah siap.';
@@ -68,6 +69,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Bila anda ingin mengurangi tingkat peringatan maka hilangkan sebuah peringatan.';
 $Definition['Import'] = 'Impor';
 $Definition['Importing to Vanilla'] = 'Mengimpor ke Vanilla';
+$Definition['Internationalization & Localization'] = 'Internasionalisasi & Lokalisasi';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Saat anda menggunakan undangan sebagai pendaftaran pengguna akan memiliki tautan berupa <a href="%s" class="Popup">Undangan Saya</a> pada halaman profil mereka';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Tampaknya basisdata yang anda spesifikasikan belum tersedia. Sudahkah anda membuatnya? Apakah anda salah tulis nama? Basisdata melaporkan: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Adalah ide yang bagus menjaga jumlah maksimal dari karakter yang diperkenankan pada komentar di bawah ukuran yang rasional.';
@@ -112,6 +114,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Peringatan: Sangat bagus untuk men
 $Definition['Select the import source'] = 'Pilih sumber impor';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Kolom terserialisasi "%s" gagal untuk tidak diserialisasikan.';
 $Definition['Show all possible pocket locations.'] = 'Nyalakan opsi ini untuk menampilkan semua peluang lokasi pocket. Menyalakan opsi ini akan hanya menampilkan saja kepada pengguna bahwa mereka bisa mengelola pocket.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Tentukan kecocokan sebagian atau semuanya saat membuat larangan.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Luangkan waktu untuk berpikir bagaimana anda menggambarkan situs anda di sini. Berikan situs anda judul yang berarti dan deskripsi yang singkat akan membantu posisi anda di mesin pencari.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Rapikan email Anda dengan menambahkan logo dan menyesuaikan warna.';
 $Definition['Start Import'] = 'Mulai Impor';
@@ -158,6 +161,9 @@ $Definition['Video tutorial on user registration'] = 'Video tutorial pendaftaran
 $Definition['Warning: Loading tables can be slow.'] = '<b>Peringatan</b>: Konfigurasi server Anda tak mendukung muatan data cepat. Jika Anda mengimpor berkas berukuran sangat besar (cth: lebih dari 200.000 komentar) mungkin sebaiknya Anda mengganti konfigurasi Anda. Klik <a href="http://vanillaforums.com/porter">di sini</a> untuk informasi lebih jauh.';
 $Definition['Warning: This is for advanced users.'] = '<b>Peringatan</b>: Ini untuk pengguna tingkat lanjut dan memerlukan perubahan tambahan pada web server anda. Ini biasanya hanya tersedia bila anda menggunakan dedicated hosting atau vps. Jangan lakukan ini bila anda tidak yakin untuk melakukannya.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Anda dapat melarang semua pengguna dengan alamat IP yang diawali "111.111.111" dengan menambahkan larangan tipe IP dengan nilai "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Anda dapat melarang alamat IP, alamat email dan nama pengguna.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Anda dapat terhubung ke multi situs yang mendukung jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Jika berkas Anda terlalu besar untuk diunggah langsung ke laman ini Anda dapat memasukkannya ke folder /uploads Anda. Pastikan nama berkas dimulai dengan kata <b>ekspor</b> dan berakhir dengan salah satu dari ekstensi <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Anda harus memilih sebuah file untuk diimpor.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Nama organisasi Anda digunakan untuk mikrodata SEO dan JSON+LD';
