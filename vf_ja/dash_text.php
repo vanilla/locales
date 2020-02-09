@@ -52,6 +52,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect を使うと、Facebook アカウントでログインできます。<b>このプラグインを使うには、Facebook にアプリケーションを登録する必要があります。</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = '入力されたユーザー名とパスワードでは、データベースに接続できません。入力ミスの可能性はありませんか？データベースの報告は次の通りです: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'このURLからしかダッシュボードにアクセスできないようにします<em>（お勧めできません）</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = '例えば、「*@example.com」という値を持つEメールタイプの禁止を追加することによって、「example.com」からのメールアドレスを持つすべてのユーザーを禁止できます。';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO対策として、検索エンジンのクローラーがリモートURLでフォーラムを表示できないようにします。';
 
 $Definition['Garden.Import.Complete.Description'] = 'インポートが正常に完了しました。
@@ -70,6 +71,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = '警告レベルを下げたい場合は、警告を削除します。';
 $Definition['Import'] = 'インポート';
 $Definition['Importing to Vanilla'] = 'Vanilla へのデータ移行 (英語)';
+$Definition['Internationalization & Localization'] = '国際化とローカライゼーション';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'ユーザー登録を招待制にした場合、各ユーザーのプロフィール ページには<a href="%s" class="Popup">招待者リスト</a>と呼ばれるリンクが作成されます。';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '指定されたデータベースが まだ作成されていないようです。データベースは作成済みですか？あるいはデータベース名が間違っている可能性はありませんか？ データベースの報告は次の通りです: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '投稿できる文字数の上限を適度な数値に抑えることを、推奨します。';
@@ -114,6 +116,7 @@ $Definition['Security.Hsts.SubmitWarning'] = '警告：HSTSプリロードをベ
 $Definition['Select the import source'] = 'インポート元を選択する';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'シリアライズされたカラム"%s"のシリアライズを解除できませんでした。';
 $Definition['Show all possible pocket locations.'] = 'このオプションを有効にして、利用可能なポケット ロケーションをすべて表示します。このオプションを有効にすることで表示されるロケーションは、ユーザーが管理できるポケットのロケーションだけです。';
+$Definition['Specify a partial or full match when creating a ban.'] = '禁止の作成時に、一部一致または完全一致を指定します。';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '少しの時間、自分のサイトをここでどのように説明するかについて考えてください。サイトに意味のあるタイトルをつけ、簡潔な説明を加えることで、検索エンジンにおける位置づけが向上する可能性があります。';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'ロゴを追加して色をカスタマイズすることで、メールアドレスを飾ることができます。';
 $Definition['Start Import'] = 'インポートを開始する';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：お客様
 非常に大きなファイル（200,000コメント以上など）をインポートする場合は、設定を変えることをお勧めします。詳細については、<a href="http://vanillaforums.com/porter">こちら</a>をクリックしてください。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：これは、高度なユーザー向けのもので、Webサーバーに対して追加の変更が必要です。通常、専用ホスティングまたはvpsホスティングを使用している場合にのみ利用できます。何をしようとしているか不明な場合は、試さないでください。';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = '「111.111.111.*」という値を持つIPタイプの禁止を追加することによって、プレフィックス「111.111.111」が付いたIPアドレスを持つすべてのユーザーを禁止できます。';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'IPアドレス、メールアドレス、およびユーザー名を禁止できます。';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'jsConnectをサポートする複数のサイトに接続できます。';
 $Definition['You can place files in your /uploads folder.'] = 'ファイルが大きすぎてこのページに直接アップロードできない場合は、あなたの /uploadsフォルダにファイルを置くことができます。ファイル名が<b>export</b>という単語で始まり、<b> .txtまたは.gz </b>のいずれかで終わることを確認してください。';
 $Definition['You must select a file to import.'] = 'インポートするファイルを選択してください。';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'あなたの組織名は、SEO microdataおよびJSON+LDに使用されます';
