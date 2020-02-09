@@ -92,7 +92,7 @@ $Definition["Guides are for making howto guides, documentation, or any \"book\" 
 $Definition["Hello Home Page. Links are below:"] = "Hola, página de inicio. Los enlaces están abajo:
 
 ";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Los centros de ayuda son para crear artículos de ayuda libre de formularios que se organizan en categorías.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Los centros de ayuda son para hacer artículos de ayuda de forma libre que están organizados en categorías.";
 $Definition["Homepage banner image for this knowledge base."] = "Imagen del cartel de la página de inicio para esta base de conocimiento.";
 
 $Definition["Insert Article Here"] = "Insertar artículo aquí";
@@ -102,6 +102,7 @@ $Definition["Knowledge Base"] = "Base de conocimientos";
 $Definition["Knowledge Base Item"] = "Elemento de la base de conocimientos";
 $Definition["Knowledge Bases"] = "Bases de conocimientos";
 $Definition["Knowledge Base Chooser Title"] = "Título del selector de la Base de conocimiento";
+$Definition["Knowledge Base Chooser Description"] = "Descripción del elector de Knowlegde Base";
 
 $Definition["Layout Center Column Width"] = "Ancho de la columna central del diseño";
 $Definition["Load More"] = "Cargar más";
@@ -185,11 +186,26 @@ $Definition['The article this draft is based on is no longer available.'] = 'El 
 $Definition['The width of the center column of the primary layout in pixels.'] = 'El ancho de la columna central del diseño primario en píxeles.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Este artículo se edito en su ubicación fuente en <0/>. Edita este artículo para actualizar su tradcción y borrar este mensaje.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Este artículo fue editado en su ubicación fuente. Edita este artículo para actualizar su traducción y borrar este mensaje.';
-$Definition["This category does not have any articles."] = "Esta categoría no tiene ningún artículo.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Esta es una acción destructiva. No podrá restaurar su borrador.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Esta es una acción no destructiva. Podrás restaurar tu artículo si lo deseas.
 ";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Este título aparecerá en la página de inicio de Conocimiento. Debe tener 20 caracteres o menos.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Este %s aparecerá en la página de inicio de Knowledge.";
+$Definition["title"] = "título";
+$Definition["description"] = "descripción";
+$Definition["It should be %s characters or less."] = "Debería tener %s caracteres o menos.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bienvenido a Knowlegde Base. Aquí encontrarás la respuesta a problemas comunes de soporte.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Esto puede invalidarse por Knowlegde Base.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Las medidas recomendadas son aproximadamente de %s por %s o una proporción similar.";
+$Definition["The %s to use on the knowledge base chooser."] = "El %s para usar en el elector de Knowlegde Base.";
+$Definition["banner background image"] = "imagen de banner de fondo";
+$Definition["banner content image"] = "imagen de contenido de banner";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Se dificulta leer el texto cuando está encima de ciertas imágenes de banners. Habilita este ajuste para agregar un reborde en las imágenes de banners para que sea más fácil la lectura de textos.";
+
+$Definition["This category does not have any articles."] = "Esta categoría no tiene ningún artículo.";
+
 $Definition["This knowledge base does not have any articles."] = "Esta base de conocimientos no tiene ningún artículo.
 
 ";
