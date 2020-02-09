@@ -89,6 +89,7 @@ $Definition["Knowledge Base"] = "ज्ञान संग्रह";
 $Definition["Knowledge Base Item"] = "ज्ञान कोष सामग्री";
 $Definition["Knowledge Bases"] = "ज्ञान कोष";
 $Definition["Knowledge Base Chooser Title"] = "ज्ञानधार चयनकर्ता टाइटल";
+$Definition["Knowledge Base Chooser Description"] = "ज्ञानधार चुनने के विवरण";
 
 $Definition["Layout Center Column Width"] = "लेआउट केंद्र के कॉलम की चौड़ाई";
 $Definition["Load More"] = "और लोड करें";
@@ -158,10 +159,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'य
 $Definition['The width of the center column of the primary layout in pixels.'] = 'प्राइमरी लेआउट के केंद्र के कॉलम की चौड़ाई पिक्सेल में।';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'यह लेख इसके स्रोत स्थान में <0/> को संपादित किया गया था। इसके अनुवाद को अपडेट करने और इस संदेश को क्लियर करने के लिए इस लेख को संपादित करें।';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'यह लेख इसके स्रोत स्थान में संपादित किया गया था। इसके अनुवाद को अपडेट करने और इस संदेश को क्लियर करने के लिए इस लेख को संपादित करें।';
-$Definition["This category does not have any articles."] = "इस श्रेणी में कोई लेख नहीं है।";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "यह एक घातक क्रिया है।  आप अपने ड्राफ़्ट को वापस नहीं ला पाएंगे।";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "यह एक गैर-हानिकारक क्रिया है। यदि आप चाहें तो आप अपने लेख को पुनर्स्थापित कर सकेंगे।";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "यह टाइटल ज्ञानधार होमपेज पर दिखाई देगा। यह 20 वर्ण या उससे कम का होना चाहिए।";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "यह %s ज्ञान के होमपेज पर दिखाई देगा।";
+$Definition["title"] = "शीर्षक";
+$Definition["description"] = "विवरण";
+$Definition["It should be %s characters or less."] = "यह %s वर्ण या उससे कम होना चाहिए।";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "हमारे ज्ञानधार में आपका स्वागत है। यहाँ आपको सहायता सम्बंधित सामान्य समस्याओं के उत्तर मिलेंगे।";
+$Definition["This can be overridden on a per knowledge base basis."] = "इसे प्रति ज्ञानधार के आधार पर ओवरराइड किया जा सकता है।";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "उपयुक्त आयाम लगभग %s बाय %s या समान अनुपात में होते हैं।";
+$Definition["The %s to use on the knowledge base chooser."] = "ज्ञानधार चयनकर्ता पर उपयोग किए जाने के लिए %s।";
+$Definition["banner background image"] = "बैनर बैकग्राउंड इमेज";
+$Definition["banner content image"] = "बैनर कंटेंट इमेज";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "कुछ बैनर इमेज के शीर्ष के टेक्स्ट पढ़ना कठिन हो सकता है। टेक्स्ट को पढ़ना आसान बनाने वाले एक ओवरले बैनर इमेज को शामिल करने के लिए इस सेटिंग को सक्रीय करें।";
+
+$Definition["This category does not have any articles."] = "इस श्रेणी में कोई लेख नहीं है।";
+
 $Definition["This knowledge base does not have any articles."] = "इस ज्ञानकोष में कोई भी लेख नहीं है।";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "यह एक लेख बनाएगा जो इस चर्चा की एक प्रति है। चर्चा को तब नए लेख से जोड़ा जाएगा।";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "यह लेख के लिंक को हटा देगा, लेकिन स्वयं से लेख को नहीं हटाएगा।";
