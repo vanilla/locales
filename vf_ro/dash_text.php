@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Conectarea Facebook permite utilizatorilor să se conecteze folosind contul de Facebook. <b>Pentru ca acest plugin să funcționeze trebuie să vă înregistraţi cu contul de Facebook </b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Nu a reuşit să se conecteze la baza de date cu numele de utilizator şi parole. Ați tipărit greșit? Baza de date a raportat: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Restricționați tabloul de bord pentru a fi accesibil doar prin intermediul acestui URL <em>(nu este recomandat)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'De exemplu, poți să blochezi toți utilizatorii cu adrese de email de la "example.com" adăugând o interdicție tip email cu valoarea "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'În scopuri SEO, motoarele de căutare sunt oprite de la a vedea forumul în adresa remote.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Ați finalizat un import cu succes.
@@ -70,6 +71,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Dacă doriţi să reduceți nivelul de avertizare eliminați un avertisment';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Import pe Vanilla';
+$Definition['Internationalization & Localization'] = 'Internaționalizare și localizare';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Atunci când utilizaţi înregistrarea prin invitaţie, utilizatorii vor avea un link numit <a href="%s" class="Popup"> Invitațiile mele</a> pe paginile lor de profil';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Se pare că baza de date specificată nu există încă. Ați creat-o deja? Ați introdus greşit numele? Baza de date a raportat: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Este o idee bună de a păstra numărul maxim de caractere permis într-un comentariu la o dimensiune rezonabilă';
@@ -114,6 +116,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Atenție: este foarte bine să acc
 $Definition['Select the import source'] = 'Selectaţi sursa de import';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Coloana cu serii \'%s\' nu a reușit să fie deserializată';
 $Definition['Show all possible pocket locations.'] = 'Activați această opțiune pentru a afișa toate locațiile posibile pentru pocketuri. Pornind această opțiune va afișa locațiile posibile doar utilizatorilor care pot administra pocketuri.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Specifică o potrivire parțială sau totală la crearea unei interdicții.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Petreceți puțin timp pentru a formula descriere site-ului. Oferind site-ului un ume semnificativ și o descriere concisă, ar putea ajuta la poziţia dumneavoastră în motoarele de căutare';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Fă-ți mesajele email mai frumoase folosind un logo sau personalizându-ți culorile.';
 $Definition['Start Import'] = 'Începeți Importul';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Avertizare</b>: Config
 Dacă importaţi un fişier foarte mare (de ex. peste 200.000 Comentarii), aţi putea lua în considerare schimbarea configuraţiei dvs. Faceţi click <a href="http://vanillaforums.com/porter"> aici</a> pentru mai multe informaţii';
 $Definition['Warning: This is for advanced users.'] = '<b>Avertisment</b>: acest lucru este pentru utilizatori avansaţi şi necesită să faceţi modificări suplimentare la serverul de web. Acest lucru este, de obicei, disponibil numai dacă aveți hosting dedicat sau vps. Nu încercaţi acest lucru dacă nu aveți cunoștințele necesare';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Poți să blochezi toți utilizatorii cu adresa IP care începe cu "111.111.111" adăugând o interdicție de tip IP cu valoarea "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Poți să blochezi adrese IP, adrese email și nume de utilizatori.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Vă puteţi conecta la mai multe site-uri care acceptă jsConnect';
 $Definition['You can place files in your /uploads folder.'] = 'Dacă fişierul este prea mare pentru a-l încărca direct pe această pagină plasaţi-l în dosarul încărcări. Asiguraţi-vă că numele fişierului începe cu cuvântul <b>export</b> şi se termină cu unul dintre <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Trebuie să selectați un fișier pentru import';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Numele organizației tale este folosit pentru micro date SEO și JSON+LD';
