@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Basis Pengetahuan";
 $Definition["Knowledge Base Item"] = "Item Basis Pengetahuan";
 $Definition["Knowledge Bases"] = "Basis Pengetahuan";
 $Definition["Knowledge Base Chooser Title"] = "Judul Pemilih Basis Pengetahuan";
+$Definition["Knowledge Base Chooser Description"] = "Deskripsi Selektor Pusat Pengetahuan";
 
 $Definition["Layout Center Column Width"] = "Lebar Kolom Tengah Tata Letak";
 $Definition["Load More"] = "Muat Lainnya";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Art
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Lebar kolom tengah tata letak utama dalam satuan piksel.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Artikel ini disunting di lokal sumbernya pada <0/>. Sunting artikel ini untuk memperbarui terjemahannya dan menghapus pesan ini.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Artikel ini diedit di lokal sumbernya. Sunting artikel ini untuk memperbarui terjemahannya dan menghapus pesan ini.';
-$Definition["This category does not have any articles."] = "Kategori ini tidak memiliki artikel.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Ini adalah aksi destruktif. Anda tidak akan dapat merestorasi draf.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Ini adalah aksi non-destruktif. Anda dapat merestorasi artikel jika mau.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Judul ini akan muncul di beranda Pengetahuan. Maksimal 20 karakter atau kurang.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "%s ini akan tampil di laman Pengetahuan.";
+$Definition["title"] = "judul";
+$Definition["description"] = "deskripsi";
+$Definition["It should be %s characters or less."] = "Harus %s karakter atau kurang.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Selamat datang di Pusat Pengetahuan kami. Di sini Anda akan menemukan jawaban untuk masalah dukungan umum.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Ini dapat ditimpa per pusat pengetahuan.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Dimensi yang dianjurkan adalah %s x %s atau rasio yang serupa.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s yang akan digunakan pada selektor pusat pengetahuan.";
+$Definition["banner background image"] = "gambar latar spanduk";
+$Definition["banner content image"] = "gambar konten spanduk";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Teks di atas gambar spanduk tertentu mungkin sulit untuk dibaca. Aktifkan pengaturan ini untuk menambahkan overlay di atas gambar spanduk agar teks dapat lebih mudah dibaca.";
+
+$Definition["This category does not have any articles."] = "Kategori ini tidak memiliki artikel.";
+
 $Definition["This knowledge base does not have any articles."] = "Basis pengetahuan ini tidak memiliki artikel.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Ini akan menciptakan artikel yang merupakan salinan dari diskusi ini. Diskusi kemudian akan ditautkan ke artikel baru.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Ini akan menghapus tautan ke artikel, namun tidak akan menghapus artikel itu sendiri.";
