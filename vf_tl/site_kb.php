@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Pangkalahatang Hitsura";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Ang gabay ay para sa paggawa ng paano gumabay, dokumentasyon, o kahit anong \"libro\" kagaya ng nilalaman na dapat basahin nang maayos.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hello Home Page. Ang mga link ay nasa ibaba:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Ang mga elp center ay para sa paggawa ng free-form na mga artikulo sa pagtulong na isinasaayos sa mga kategorya.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Ang mga help center ay para sa paggawa ng mga free-form na artikulo para sa help na naayos sa mga kategorya.";
 $Definition["Homepage banner image for this knowledge base."] = "Imahe ng homepage banner para sa knowledge base na ito.";
 
 $Definition["Insert Article Here"] = "Ipasok ang Artikulo Dito";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Knowledge Base";
 $Definition["Knowledge Base Item"] = "Item ng Knowledge Base";
 $Definition["Knowledge Bases"] = "Mga Knowledge Base";
 $Definition["Knowledge Base Chooser Title"] = "Titulo ng Knowledge Base Chooser";
+$Definition["Knowledge Base Chooser Description"] = "Deskripsyon ng Knowledge Base Chooser";
 
 $Definition["Layout Center Column Width"] = "Layout ng Lapad ng Center Column";
 $Definition["Load More"] = "Mag-load ng Higit Pa";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Ang
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ang lapad ng center column ng pangunahing layout sa pixels.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'In-edit ang artikulong ito sa kaniyang source locale sa <0/>. I-edit ang artikulong ito para ma-update ang pagsasalin nito at burahin ang mensaheng ito.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'In-edit ang artikulong ito sa kaniyang source locale. I-edit ang artikulong ito para ma-update ang pagsasalin nito at burahin ang mensaheng ito.';
-$Definition["This category does not have any articles."] = "Ang kategoryang ito ay walang anumang mga artikulo.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Ito ay isang mapanirang aksyon. Hindi mo maibabalik ang iyong draft.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Ito ay isang hindi mapanirang aksyon. Magagawa mong ibalik ang iyong artikulo kung nais mo.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Lalabas ang titulong ito sa homepage ng Knowledge . Ito ay dapat na 20 character o mas kaunti.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Ang %s na ito ay lilitaw sa homepage ng Knowledge.";
+$Definition["title"] = "pamagat";
+$Definition["description"] = "deskripsyon";
+$Definition["It should be %s characters or less."] = "Dapat na ito ay %s o mas kaunting karakter.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Maligayang pagdating sa aming Knowledge Base. Dito ay makakakuha ka ng mga sagot sa karaniwang mga isyu sa suporta.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Maaari itong ma-override ayon sa batayan ng knowledge base.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Ang inirerekomendang sukat ay mga %s by %s o katulad na ratio.";
+$Definition["The %s to use on the knowledge base chooser."] = "Ang %s na gagamitin sa knowledge base chooser.";
+$Definition["banner background image"] = "panlikod na larawan ng banner";
+$Definition["banner content image"] = "nilalamang larawan ng banner";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Maaaring maging mahirap basahin ang nakasulat sa itaas ng ilang larawan ng banner. Paganahin ang setting na ito para magdagdag ng overlay sa mga larawan ng banner na nagpapadali sa pagbasa ng nakasulat.";
+
+$Definition["This category does not have any articles."] = "Ang kategoryang ito ay walang anumang mga artikulo.";
+
 $Definition["This knowledge base does not have any articles."] = "Ang knowledge base na ito ay walang anumang artikulo.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Gagawa ito ng isang artikulo na kopya ng talakayang ito. Pagkatapos ay ili-link ang talakayan sa bagong artikulo.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Aalisin nito ang link sa artikulo, pero hindi aalisin ang mismong artikulo.";
