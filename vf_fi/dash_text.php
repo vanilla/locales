@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connectin avulla käyttäjät voivat kirjautua Facebook-tiliään käyttämällä. <b>Sinun täytyy rekisteröidä sovelluksesi Facebookissa, jotta tämä liitännäinen toimisi.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Yhdist&auml;minen tietokantaan ep&auml;onnistui antamallasi k&auml;ytt&auml;j&auml;tunnuksella ja salasanalla. Tarkista tiedot ainakin kirjoitusvirheiden osalta. Tietokannan vastaus:  <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Voit esimerkiksi estää kaikki sähköpostin "esimerkki.com" omaavat käyttäjät lisäämällä sähköpostityypin eston arvolla "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Tuonti onnistui.
@@ -70,6 +71,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Mikäli haluat pienentää varoitustasoa, poista siinä tapauksessa varoitus.';
 $Definition['Import'] = 'Tuo';
 $Definition['Importing to Vanilla'] = 'Tuo Vanillaan';
+$Definition['Internationalization & Localization'] = 'Kansainvälistyminen & lokalisointi';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Kun käytät rekisteröitymistä kutsun pohjalta, käyttäjät näkevät profiilisivuillaan linkin nimeltä <a href="%s" class="Popup">Omat kutsuni</a>.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Vaikuttaisi siltä, ettei määrittämääsi tietokantaa ole vielä olemassa. Oletko vielä luonut sen? Kirjoititko nimen väärin? Tietokanta antoi seuraavan ilmoituksen: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'On suositeltavaa pit&auml;&auml; maksimimerkkim&auml;&auml;r&auml; viesteiss&auml; j&auml;rkeviss&auml; mitoissa.';
@@ -114,6 +116,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Varoitus: On hienoa tukea HSTS: n 
 $Definition['Select the import source'] = 'Valitse tuontil&auml;hde';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialisoidun sarakkeen "%s" serialisointia ei voitu kumota.';
 $Definition['Show all possible pocket locations.'] = 'Ota tämä vaihtoehto käyttöön näyttääksesi kaikki mahdolliset taskujen sijainnit. Tämän vaihtoehdon ottaminen käyttöön näyttää sijainnit ainoastaan niille käyttäjille, jotka voivat hallita taskuja.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Anna osittainen tai täysi vastaavuus estoa luodessasi.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Pohdi hetkisen, kuinka kuvailet tässä sivustoasi. Jos sivustollasi on järkevä otsikko ja täsmällinen kuvaus, se voi parantaa sivustosi sijoitusta hakukoneissa.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Parantele sähköpostiviestejäsi lisäämällä niihin logo ja muokkaamalla värejä. ';
 $Definition['Start Import'] = 'Aloita tuonti';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Varoitus</b>: Palvelin
 <a href="http://vanillaforums.com/porter">Katso lis&auml;tietoja</a>.';
 $Definition['Warning: This is for advanced users.'] = '<b>Varoitus</b>: T&auml;m&auml; on edistyneille k&auml;ytt&auml;jille ja edellytt&auml;&auml; ylim&auml;&auml;r&auml;isi&auml; muutoksia verkkopalvelimeesi. Tämä toiminto on yleens&auml; saatavilla vain, jos sinulla on k&auml;yt&ouml;ss&auml; oma paikallinen verkkopalvelin tai virtuaalipalvelin. &Auml;l&auml; yrit&auml; t&auml;t&auml;, ellet tied&auml; varmasti, mit&auml; olet tekem&auml;ss&auml;.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Voit estää "111.111.111"-etuliitteellä varustettuja IP-osoitteita omaavat käyttäjät lisäämällä IP-tyypin eston arvolla "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Voit estää IP-osoitteita, sähköpostiosoitteita ja käyttäjätunnuksia.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Voit liitt&auml;&auml; useita sivustoja, jotka tukevat jsConnectia.';
 $Definition['You can place files in your /uploads folder.'] = 'Jos tiedosto on liian suuri, jotta voisit ladata sen suoraan t&auml;lle sivulle, voit sijoittaa sen /uploads-kansioosi. Varmista, ett&auml; tiedoston nimi alkaa sanalla <b>export</b> ja p&auml;&auml;ttyy jommalla kummalla seuraavista merkkijonoista: <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'Valitse tiedosto, jonka haluat tuoda.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Organisaatiosi nimeä käytetään SEO-mikrodatalle ja JSON+LD:lle';
