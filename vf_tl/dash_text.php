@@ -51,6 +51,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Halimbawa, maaari mong pagbawalan ang lahat ng user na may mga email address mula sa "halimbawa.com" sa pamamagitan ng pagdaragdag ng pagbabawal na tipong-email na may value na "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
@@ -70,6 +71,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
+$Definition['Internationalization & Localization'] = 'Internasyonalisasyon at Lokalisasyon';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.';
@@ -114,6 +116,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Babala: Mahusay na suportahan ang 
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Tukuyin ang bahagya o kumpletong pagtugma kapag gumagawa ng pagbabawal.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Ayusin ang iyong mga email sa pamamagitan ng paglalagay ng logo at pagko-customize sa mga kulay.';
 $Definition['Start Import'] = 'Start Import';
@@ -161,6 +164,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your serv
 If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Maaari mong pagbawalan ang lahat ng gumagamit ng IP address na may prefix na "111.111.111" sa pamamagitan ng pagdaragdag ng pagbabawal na tipong-IP na may value na "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Maaari mong pagbawalan ang mga IP address, email address at username.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'You can connect to multiple sites that support jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Kung masyadong malaki ang iyong file para direktang mai-upload sa page na ito, pwede mo itong ilagay sa iyong /uploads folder. Siguruhing nagsisimula ang filename sa salitang <b>export</b> at nagtatapos sa isa sa <b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Ang pangalan ng organisasyon mo ay ginagamit para sa SEO microdata at JSON+LD';
