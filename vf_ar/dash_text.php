@@ -52,6 +52,7 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'يتيح Facebook Connect للمستخدمين تسجيل الدخول باستخدام حساب Facebook الخاص بهم. <b> يجب عليك تسجيل طلبك في Facebook حتى يعمل هذا الملحق. </b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'أخفق الاتصال بقاعدة البيانات باستخدام اسم المستخدم وكلمة المرور اللذين أدخلتهما. هل كتبتهما بشكل خاطئ؟ ذكرت قاعدة البيانات: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'قم بإجبار لوحة التحكم على الوصول إليها فقط من خلال عنوان url <em> (غير مستحسن) </em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'على سبيل المثال، يمكنك حظر جميع المستخدمين بعناوين البريد الإلكتروني من "example.com" عن طريق إضافة حظر من نوع البريد الإلكتروني مع القيمة "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'لأغراض تحسين محركات البحث (SEO)، يتم استبعاد برامج زحف محركات البحث من إجبارها على عرض المنتدى في عنوان رابط URL البعيد.';
 
 $Definition['Garden.Import.Complete.Description'] = 'لقد أكملت عملية الاستيراد بنجاح.
@@ -71,6 +72,7 @@ $Definition['If a banner logo is uploaded, it will replace the banner title on u
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'إذا كنت ترغب في خفض مستوى التحذير، فقم بإزالة تحذير.';
 $Definition['Import'] = 'استيراد';
 $Definition['Importing to Vanilla'] = 'استيراد إلى Vanilla';
+$Definition['Internationalization & Localization'] = 'التدويل والترجمة';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'عندما تستخدم التسجيل عن طريق الدعوة، سيكون لدى المستخدمين رابط يسمى <a href="%s" class="Popup">دعواتي</a> على صفحات ملفهم الشخصي.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'يبدو كما لو أن قاعدة البيانات التي حددتها غير موجودة حتى الآن. هل قمت بإنشائه بعد؟ هل أخطأت في كتابة الاسم؟ ذكرت قاعدة البيانات: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'من المستحسن الاحتفاظ بالحد الأقصى لعدد الأحرف المسموح بها في التعليق بحجم معقول.';
@@ -116,6 +118,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'تحذير: من الرائع دع
 $Definition['Select the import source'] = 'حدد مصدر الاستيراد';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'فشل العمود المتسلسل "%s" في أن يكون غير متسلسل.';
 $Definition['Show all possible pocket locations.'] = 'قم بتشغيل هذا الخيار لإظهار جميع مواقع الجيب الممكنة. يؤدي تشغيل هذا الخيار إلى إظهار المواقع للمستخدمين الذين يمكنهم إدارة الجيوب فقط.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'حدد مطابقة جزئية أو كاملة عند إنشاء حظر.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'خذ بضع دقائق من وقتك في التفكير في كيفية وصف موقعك هنا. يمكن أن يساعدك إعطاء عنوان ذي مغزى ووصف موجز لموقعك في محركات البحث.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'التنوب رسائل البريد الإلكتروني الخاصة بك عن طريق إضافة شعار وتخصيص الألوان.';
 $Definition['Start Import'] = 'بدء الاستيراد';
@@ -164,6 +167,9 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>تحذير</b>: تهي
 إذا كنت تقوم باستيراد ملف كبير جداً (على سبيل المثال، أكثر من 200,000 تعليق)، فقد ترغب في تغيير التكوين الخاص بك. انقر <a href="http://vanillaforums.com/porter"> هنا </a> لمزيد من المعلومات.';
 $Definition['Warning: This is for advanced users.'] = '<b> تحذير </b>: هذا مخصص للمستخدمين المتطورين ويتطلب إجراء تغييرات إضافية على خادم الويب الخاص بك. عادةً ما يكون هذا متاحاً فقط إذا كنت قد خصصت أو قمت باستضافة vps. لا تحاول ذلك إذا كنت لا تعرف ما الذي تفعله.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'يمكنك حظر جميع المستخدمين بعناوين IP مسبوقة بـ "111.111.111" عن طريق إضافة حظر من نوع IP بالقيمة "111.111.111. *". ';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'يمكنك حظر عناوين IP وعناوين البريد الإلكتروني وأسماء المستخدمين. ';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'يمكنك الاتصال بمواقع متعددة تدعم jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'إذا كان حجم ملفك كبيرًا جدًا بحيث لا يمكن تحميله مباشرةً إلى هذه الصفحة ، يمكنك وضعه في مجلد / uploads. تأكد من أن اسم الملف يبدأ بالكلمة<b>تصدير</b> وينتهي بواحد من<b>.txt, .gz</b>.';
 $Definition['You must select a file to import.'] = 'يجب عليك تحديد ملف للاستيراد.';
+$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'يتم استخدام اسم مؤسستك لصالح SEO microdata و JSON + LD';
