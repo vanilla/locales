@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Révisions d'articles";
 $Definition["Article Three"] = "Article 3";
 $Definition["Article Two"] = "Article 2";
 $Definition["Articles"] = "Articles";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Associer un produit avec cette sous communauté. <0>Utilisez la Gestion des produits IU<0>pour remplacer, ajouter, modifier ou supprimer des produits.";
+$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Associer un produit avec cette sous communauté. <0>Utilisez la Gestion des produits IU</0>pour remplacer, ajouter, modifier ou supprimer des produits.";
 
 $Definition["Back to Home"] = "Retour à la page d'accueil";
 $Definition["Back to home page"] = "Retour à la page d'accueil";
@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Aspect général";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Ces guides permettent de créer des guides d'utilisation, de documentation, ou tout contenu sous forme de « livre » devant être consulté dans un ordre précis.";
 
 $Definition["Hello Home Page. Links are below:"] = "Page d'accueil. Les liens sont ci-dessous :";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Les centres d'aide servent à créer des articles d'aide libre organisés par catégorie.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Les centres d'aide sont destinés à la réalisation d'articles d'aide de forme libre qui sont organisés en catégories.";
 $Definition["Homepage banner image for this knowledge base."] = "Image de la bannière de la page d'accueil pour cette base de connaissances.";
 
 $Definition["Insert Article Here"] = "Insérer l'article ici";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Base de connaissances";
 $Definition["Knowledge Base Item"] = "Élément de la base de connaissances";
 $Definition["Knowledge Bases"] = "Bases de connaissances";
 $Definition["Knowledge Base Chooser Title"] = "Titre du sélectionneur de base de connaissance";
+$Definition["Knowledge Base Chooser Description"] = "Description du sélecteur de base de connaissance";
 
 $Definition["Layout Center Column Width"] = "Largeur de la colonne centrale du calque";
 $Definition["Load More"] = "Charger plus";
@@ -157,10 +158,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'L\'
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Largeur de la colonne centrale du premier calque en pixels. ';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Cet article a été modifié dans sa langue source le <0/>. Modifiez-le pour mettre à jour sa traduction et effacer ce message.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Cet article a été modifié dans sa langue source. Modifiez-le pour mettre à jour sa traduction et effacer ce message.';
-$Definition["This category does not have any articles."] = "Cette catégorie n'a pas d'articles.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Ceci est une action destructive. Vous ne pourrez pas restaurer votre brouillon.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Il s'agit d'une action non destructrice. Vous pourrez restaurer votre article si vous le désirez.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Ce titre apparaîtra sur la page d'accueil de la connaissance. Il doit être inférieur ou égal à 20 caractères.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Ce %s apparaîtra sur la page d'accueil de la base de connaissances.";
+$Definition["title"] = "titre";
+$Definition["description"] = "description";
+$Definition["It should be %s characters or less."] = "Cela doit faire %s caractères ou moins.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bienvenue dans notre base de connaissance. Vous y trouverez les réponses au problèmes les plus courants.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Ceci peut être annulé à partir d'une base de connaissance.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Les dimensions recommandées sont de %s par %s ou autre ratio similaire.";
+$Definition["The %s to use on the knowledge base chooser."] = "Ce %s pour l'utiliser sur le sélecteur de base de connaissances.";
+$Definition["banner background image"] = "image de fond de la bannière";
+$Definition["banner content image"] = "image du contenu de la bannière";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Il peut être difficile de lire le texte présent sur certaines images de bannière. Autorisez ce paramètre afin d'ajouter un calque sur les images de bannière pour rendre le texte plus facile à lire.";
+
+$Definition["This category does not have any articles."] = "Cette catégorie n'a pas d'articles.";
+
 $Definition["This knowledge base does not have any articles."] = "Cette base de connaissances ne contient aucun article";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Cela créera un article qui est une copie de cette discussion. La discussion sera ensuite liée au nouvel article.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Cela supprimera le lien vers l'article, mais ne supprimera pas l'article lui-même.";
