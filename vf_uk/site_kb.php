@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "База знань";
 $Definition["Knowledge Base Item"] = "Позиція Бази Знань";
 $Definition["Knowledge Bases"] = "Бази знань";
 $Definition["Knowledge Base Chooser Title"] = "Назва списку баз знань";
+$Definition["Knowledge Base Chooser Description"] = "Опис засобу вибору бази даних";
 
 $Definition["Layout Center Column Width"] = "Ширина центральної колонки у макеті";
 $Definition["Load More"] = "Завантажити більше";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'С�
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ширина центральної колонки основного макету у пікселях.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Цю статтю було відредаговано у локальному вихідному коді на <0/>. Відредагуйте цю статтю, щоб оновити переклад та прибрати це повідомлення.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Цю статтю було відредаговано у локальному вихідному коді. Відредагуйте цю статтю, щоб оновити її переклад і очистити це повідомлення.';
-$Definition["This category does not have any articles."] = "У цій категорії немає жодної статті.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Ця дія незворотня. Ви не зможете відновити вашу чернетку.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Ця дія нічого не знищить. Ви зможете відновити вашу статтю, якщо захочете. ";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Ця назва виникне на домашній сторінці Знань. Вона має містити 20 або менше символів.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Це %s з'явиться на головній сторінці \"Знань\".";
+$Definition["title"] = "назва";
+$Definition["description"] = "опис";
+$Definition["It should be %s characters or less."] = "Має містити %s або менше символів.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Ласкаво просимо до нашої бази даних. Тут ви знайдете відповіді на поширені запитання.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Це можна перевизначити окремо для кожної бази даних.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Рекомендовані розміри складають %s на %s або в такому ж співвідношенні.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s для використання у засобі вибору бази даних.";
+$Definition["banner background image"] = "зображення фону банера";
+$Definition["banner content image"] = "зображення вмісту банера";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Прочитати текст, що розміщений поверх деяких банерних зображень, може бути складно. Увімкніть цю опцію, щоб додати поверх них накладення, яке зробить текст читабельнішим.";
+
+$Definition["This category does not have any articles."] = "У цій категорії немає жодної статті.";
+
 $Definition["This knowledge base does not have any articles."] = "У цій базі знань немає жодної статті.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Це створить статтю, що буде копією цієї дискусії. Тоді дискусія буде пов'язаною з цією новою статтею. ";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Це видалить посилання на статтю, але не видалить саму статтю.";
