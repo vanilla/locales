@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "מראה כללי";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "מדריכים נועדו ליצירת הוראות שימוש, תיעוד או כל תוכן דמוי \"ספר\" שיש לקרוא לפי הסדר.";
 
 $Definition["Hello Home Page. Links are below:"] = "שלום דף הבית. הקישורים להלן:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "מרכזי העזרה נועדו ליצירת מאמרי עזרה בצורה חופשית המסודרים לפי קטגוריות.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "מרכזי עזרה נועדו לייצר מאמרי עזרה מסודרים לפי קטגוריות.";
 $Definition["Homepage banner image for this knowledge base."] = "תמונת כרזה לדף הבית של מאגר ידע זה.";
 
 $Definition["Insert Article Here"] = "הוסף/י את המאמר כאן";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "מאגר ידע";
 $Definition["Knowledge Base Item"] = "פריט מאגר ידע";
 $Definition["Knowledge Bases"] = "מאגרי ידע";
 $Definition["Knowledge Base Chooser Title"] = "כותרת בוחר מאגר ידע";
+$Definition["Knowledge Base Chooser Description"] = "תיאור בוחר בסיס הידע";
 
 $Definition["Layout Center Column Width"] = "רוחב העמודה המרכזית בפריסה";
 $Definition["Load More"] = "טען עוד";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'ה�
 $Definition['The width of the center column of the primary layout in pixels.'] = 'רוחב העמודה המרכזית של הפריסה הראשית בפיקסלים.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'מאמר זה נערך באזור המקור שלו ב-<0/>. ערוך מאמר זה כדי לעדכן את התרגום שלו ונקה הודעה זו.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'מאמר זה נערך באזור המקור שלו. ערוך מאמר זה כדי לעדכן את התרגום שלו ונקה הודעה זו.';
-$Definition["This category does not have any articles."] = "בקטגוריה זו אין אף מאמר.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "זו פעולה הרסנית. לא תוכל/י לשחזר את הטיוטה שלך.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "זו פעולה לא הרסנית. תוכל/י לשחזר את המאמר שלך אם תרצה/י.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "כותרת זו תופיע בדף הבית של מאגר הידע. היא צריכה לכלול 20 תווים או פחות.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "%s זה יופיע בדף הבית של הידע.";
+$Definition["title"] = "כותרת";
+$Definition["description"] = "תיאור";
+$Definition["It should be %s characters or less."] = "זה אמור להיות %s תווים או פחות.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "ברוכים הבאים אל בסיס הידע שלנו. כאן תוכלו למצוא תשובות לבעיות תמיכה נפוצות.";
+$Definition["This can be overridden on a per knowledge base basis."] = "ניתן לעקוף זאת עבור כל בסיס ידע.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "הממדים המומלצים הם בערך %s על %s או יחס דומה.";
+$Definition["The %s to use on the knowledge base chooser."] = "ה-%s לשימוש בבוחר בסיס הידע.";
+$Definition["banner background image"] = "תמונה רקע של הבאנר";
+$Definition["banner content image"] = "תמונת תוכן של הבאנר";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "זה עשוי להיות קשה לקרוא טקסט המופיע על גבי תמונות באנר מסוימות. ניתן לאפשר אופציה זו בהגדרות כדי להוסיף שכבת-על על גבי תמונות הבאנר ההופכת את הטקסט לקריא יותר.";
+
+$Definition["This category does not have any articles."] = "בקטגוריה זו אין אף מאמר.";
+
 $Definition["This knowledge base does not have any articles."] = "במאגר ידע זה אין אף מאמר.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "פעולה זו תיצור מאמר שהוא העתק של דיון זה. לאחר מכן הדיון יקושר למאמר החדש.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "פעולה זו תסיר את את הקישור למאמר, אך לא תסיר את המאמר עצמו.";
