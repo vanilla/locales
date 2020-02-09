@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Base de Conhecimento";
 $Definition["Knowledge Base Item"] = "Item da Base de Conhecimento";
 $Definition["Knowledge Bases"] = "Bases de Conhecimento";
 $Definition["Knowledge Base Chooser Title"] = "Título do Seletor da Base de Informações";
+$Definition["Knowledge Base Chooser Description"] = "Descrição de quem escolhe a Base de Conhecimento";
 
 $Definition["Layout Center Column Width"] = "Largura da Coluna do Centro de Layout";
 $Definition["Load More"] = "Carregar Mais";
@@ -157,10 +158,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'O a
 $Definition['The width of the center column of the primary layout in pixels.'] = 'A largura da coluna central do layout principal em pixels.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Este artigo foi editado em sua localidade de origem em <0/>. Edite este artigo para atualizar a sua tradução e limpar esta mensagem.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Este artigo foi editado no seu local de origem. Edite esse artigo para atualizar a sua tradução e limpar esta mensagem.';
-$Definition["This category does not have any articles."] = "Não há artigos nesta categoria.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Esta ação é destrutiva. Você não poderá restaurar seu rascunho.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Esta é uma ação não destrutiva. Você poderá restaurar seu artigo se desejar.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Este título aparecerá na página inicial sobre informações. Deve possuir 20 caracteres ou menos.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Este %s aparecerá na página inicial da Base de Conhecimento.";
+$Definition["title"] = "título";
+$Definition["description"] = "descrição";
+$Definition["It should be %s characters or less."] = "Deve ter %s caracteres ou menos.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bem-vindo à nossa Base de Conhecimento. Aqui você encontrará respostas para problemas de suporte comuns.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Isso pode ser imposto de acordo com a base de conhecimento.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "As dimensões recomendadas são mais ou menos %s por %s ou uma razão similar.";
+$Definition["The %s to use on the knowledge base chooser."] = "O %s a ser usado em quem escolhe a base de conhecimento.";
+$Definition["banner background image"] = "imagem de fundo do banner";
+$Definition["banner content image"] = "imagem de conteúdo do banner";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Pode ser difícil ler o texto no topo de certas imagens de banner. Habilite esta configuração para adicionar uma camada de sobreposição em imagens de banner que torna o texto mais fácil de ser lido.";
+
+$Definition["This category does not have any articles."] = "Não há artigos nesta categoria.";
+
 $Definition["This knowledge base does not have any articles."] = "Esta base de conhecimento não possui nenhum artigo.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Isso criará um artigo que é uma cópia desta discussão. A discussão será então vinculada ao novo artigo.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Isso removerá o link para o artigo, mas não removerá o artigo em si.";
