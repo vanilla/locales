@@ -211,6 +211,7 @@ $Definition['Create & organize discussion categories and manage your users.'] = 
 $Definition['Created new badge'] = 'Δημιουργία νέου εμβλήματος';
 $Definition['CreateFile'] = 'Δημιουργία';
 $Definition['Criteria'] = 'Κριτήρια';
+$Definition['CSS'] = 'CSS';
 $Definition['CssClass'] = 'Τάξη CSS';
 $Definition['Current Authenticator'] = 'Τρέχων πιστοποιητής';
 $Definition['Current File:'] = 'Τρέχον αρχείο:';
@@ -327,6 +328,7 @@ $Definition['Flagged By'] = 'Επισημάνθηκε Από';
 $Definition['Flood Control'] = 'Έλεγχος Ροής';
 $Definition['Force the forum to only be accessible through this url'] = 'Υποχρεώστε το φόρουμ να είναι προσπελάσιμο μέσα από αυτό το url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Υποχρεώστε το φόρουμ να εμφανίζεται μέσω του Απομακρυσμένου Url';
+$Definition['Footer'] = 'Υποσέλιδο';
 $Definition['Forum Data'] = 'Στοιχεία Φόρουμ';
 $Definition['Forum Settings'] = 'Ρυθμίσεις Φόρουμ';
 $Definition['Frequency'] = 'Συχνότητα';
@@ -355,6 +357,7 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 ';
 $Definition['Heads up!'] = 'Προσέξτε!';
 $Definition['Heads Up!'] = 'Ενημέρωση!';
+$Definition['Header'] = 'Κεφαλίδα';
 $Definition['Help &amp; Tutorials'] = 'Βοήθεια &amp; Οδηγοί';
 $Definition['Here\'s how to get started:'] = 'Να πως να ξεκινήσετε:';
 $Definition['Hidden for everything!'] = 'Κρυφό από τα πάντα!';
@@ -392,6 +395,7 @@ $Definition['Invited by'] = 'Πρόσκληση από';
 
 $Definition['jsConnect Client Libraries'] = 'Βιβλιοθήκες Πελατών jsConnect';
 $Definition['jsConnect Documentation'] = 'Έγγραφα jsConnect';
+$Definition['JS'] = 'JS';
 
 $Definition['Key Type'] = 'Τύπος Κλειδιού';
 $Definition['Key Value'] = 'Τιμή Κλειδιού';
@@ -631,6 +635,7 @@ $Definition['The invitation was removed successfully.'] = 'Η πρόσκληση
 $Definition['The invitation was sent successfully.'] = 'Η πρόσκληση στάλθηκε επιτυχώς.';
 $Definition['Theme Options'] = 'Επιλογές Θέματος';
 $Definition['Themes'] = 'Θέματα';
+$Definition['ThemeEditor.Copy'] = '<0/> αντίγραφο';
 $Definition['Theming Overview'] = 'Επισκόπηση Θεματοποίησης';
 $Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Υπήρξε σφάλμα κατά τη μεταφόρτωση της εικόνας. Το λογότυπο του e-mail σας μπορεί να μεταφορτωθεί σε έναν από τους ακόλουθους τύπους αρχείων: gif, jpg, png';
 $Definition['There are currently no applicants.'] = 'Δεν υπάρχουν αιτούντες/';
@@ -669,6 +674,7 @@ $Definition['This is a parent category that does not allow discussions.'] = 'Α�
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Αυτή είναι η πρώτη φορά που επισκέπτεσθε τα φόρουμ συζήτησης.';
 $Definition['This page requires Javascript.'] = 'Αυτή η σελίδα απαιτεί Javascript.';
 $Definition['This pocket is an ad.'] = 'Αυτός ο θύλακας είναι μία διαφήμιση.';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Αυτό το θέμα δεν μπορεί να διαγραφεί επειδή είναι το θέμα το οποίο χρησιμοποιείται τώρα.';
 $Definition['This theme has additional options.'] = 'Αυτό το θέμα έχει πρόσθετες επιλογές στη σελίδα %s.';
 $Definition['This theme has customizable text.'] = 'Αυτό το θέμα έχει κείμενο που μπορείτε να προσαρμόσετε.';
 $Definition['Thumbnails'] = 'Μικρογραφίες';
@@ -708,6 +714,7 @@ $Definition['UserWipe'] = 'Περιεχόμενο Κενού Χρήστη';
 $Definition['UserWipeMessage'] = 'Διαγράψτε το χρήστη και αντικαταστήστε όλο το περιεχόμενο του χρήστη με ένα μήνυμα που να δηλώνει ότι ο χρήστης έχει διαγραφεί. Αυτό δίνει μία οπτική ένδειξη ότι υπάρχουν ελλιπείς πληροφορίες.';
 $Definition['Use the content at this url as your homepage.'] = 'Επιλέξτε τη σελίδα που θα πρέπει να βλέπει ο κόσμος όταν επισκέπτεται: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Χρησιμοποιήστε το Vanilla στην ιστοσελίδα σας ως ένα σύστημα σχολιασμού.';
+$Definition['Untitled'] = 'Χωρίς Τίτλο';
 
 $Definition['Value or Pattern'] = 'Τιμή ή Μοτίβο';
 $Definition['Vanilla.Archive.Description'] = 'Μπορείτε να επιλέξετε την αρχειοθέτηση συζητήσεων του φόρουμ παλαιότερων από μια ορισμένη ημερομηνία. Οι αρχειοθετημένες συζητήσεις πρακτικά κλείνουν, μη επιτρέποντας νέες δημοσιεύσεις.';
