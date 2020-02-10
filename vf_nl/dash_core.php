@@ -211,6 +211,7 @@ $Definition['Create & organize discussion categories and manage your users.'] = 
 $Definition['Created new badge'] = 'Nieuwe badge gemaakt';
 $Definition['CreateFile'] = 'Creëer';
 $Definition['Criteria'] = 'Criteria';
+$Definition['CSS'] = 'CSS';
 $Definition['CssClass'] = 'CSS Klas';
 $Definition['Current Authenticator'] = 'Huidige verificator';
 $Definition['Current File:'] = 'Huidig bestand:';
@@ -327,6 +328,7 @@ $Definition['Flagged By'] = 'Gevlagd door';
 $Definition['Flood Control'] = 'Overstromingscontrole';
 $Definition['Force the forum to only be accessible through this url'] = 'Forceer het forum om alleen toegankelijk te zijn via deze url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Forceer je forum om zichtbaar te zijn via de externe url';
+$Definition['Footer'] = 'Footer';
 $Definition['Forum Data'] = 'Forumdata';
 $Definition['Forum Settings'] = 'Foruminstellingen';
 $Definition['Frequency'] = 'Frequentie';
@@ -354,6 +356,7 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {Activity
 $Definition['Heads up!'] = 'Let op!';
 $Definition['Heads Up!'] = 'Heads Up!
 ';
+$Definition['Header'] = 'Header';
 $Definition['Help &amp; Tutorials'] = 'Hulp & Handleidingen';
 $Definition['Here\'s how to get started:'] = 'Zo ga je aan de slag:';
 $Definition['Hidden for everything!'] = 'Verborgen voor alles!';
@@ -391,6 +394,7 @@ $Definition['Invited by'] = 'Uitgenodigd door';
 
 $Definition['jsConnect Client Libraries'] = 'jsConnect Client-bibliotheken';
 $Definition['jsConnect Documentation'] = 'jsConnect documentatie';
+$Definition['JS'] = 'JS';
 
 $Definition['Key Type'] = 'Sleuteltype';
 $Definition['Key Value'] = 'Sleutelwaarde';
@@ -631,6 +635,7 @@ $Definition['The invitation was removed successfully.'] = 'De uitnodiging is suc
 $Definition['The invitation was sent successfully.'] = 'De uitnodiging is succesvol verzonden.';
 $Definition['Theme Options'] = 'Themaopties';
 $Definition['Themes'] = 'Thema\'s';
+$Definition['ThemeEditor.Copy'] = '<0/> kopiëren';
 $Definition['Theming Overview'] = 'Themaoverzicht';
 $Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Er heeft zich een fout voorgedaan bij het uploaden van de afbeelding. Je e-maillogo kan geüpload worden in de volgende bestandsindelingen: gif, jpg, png';
 $Definition['There are currently no applicants.'] = 'Er zijn momenteel geen aanvragers.';
@@ -669,6 +674,7 @@ $Definition['This is a parent category that does not allow discussions.'] = 'Dit
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Dit is de eerste keer dat je de discussieforums hebt bezocht.';
 $Definition['This page requires Javascript.'] = 'Deze pagina heeft JavaScript nodig.';
 $Definition['This pocket is an ad.'] = 'Dit vak is een advertentie.';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Dit thema kan niet worden verwijderd omdat het momenteel toegepast is.';
 $Definition['This theme has additional options.'] = 'Dit thema heeft extra opties op de pagina %s.';
 $Definition['This theme has customizable text.'] = 'Dit thema heeft tekst die je kunt aanpassen.';
 $Definition['Thumbnails'] = 'Miniatuurafbeeldingen';
@@ -708,6 +714,7 @@ $Definition['UserWipe'] = 'Leeg gebruikersinhoud';
 $Definition['UserWipeMessage'] = 'Verwijder de gebruiker en vervang alle gebruikersinhoud met een bericht dat aantoont dat de gebruiker is verwijderd. Dit geeft een visuele hint dat er informatie mist.';
 $Definition['Use the content at this url as your homepage.'] = 'Kies de pagina die mensen zullen zien wanneer ze <strong style="white-space: nowrap;">%s</strong> bezoeken.';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Gebruik Vanilla als een reactiesysteem op je website';
+$Definition['Untitled'] = 'Zonder titel';
 
 $Definition['Value or Pattern'] = 'Waarde of Patroon';
 $Definition['Vanilla.Archive.Description'] = 'Je kunt ervoor kiezen om forumdiscussies die ouder zijn dan een bepaalde datum te archiveren. Gearchiveerde discussies zijn gesloten, nieuwe berichten worden niet toegestaan.';
