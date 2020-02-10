@@ -88,6 +88,7 @@ $Definition["Knowledge Base"] = "Kennisbank";
 $Definition["Knowledge Base Item"] = "Kennisbank Artikel";
 $Definition["Knowledge Bases"] = "Kennisbanken";
 $Definition["Knowledge Base Chooser Title"] = "Titel van ennisbasiskiezer titel";
+$Definition["Knowledge Base Chooser Description"] = "Omschrijving kennisbasiskiezer";
 
 $Definition["Layout Center Column Width"] = "Lay-out middenkolom breedte";
 $Definition["Load More"] = "Meer laden";
@@ -157,10 +158,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Het
 $Definition['The width of the center column of the primary layout in pixels.'] = 'De breedte van de middenkolom van de belangrijkste lay-out in pixels.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Dit artikel is bijgewerkt in zijn bron locale op <0/>. Werk dit artikel bij om de vertaling ervan bij te werken en wis dit bericht.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Dit artikel is bijgewerkt in zijn bron locale. Werk dit artikel bij om  de vertaling ervan bij te werken en wis dit bericht.';
-$Definition["This category does not have any articles."] = "Deze categorie heeft geen artikelen.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Dit is een vernietigende actie. U zult niet in staat zijn om uw concept te herstellen.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Dit is een niet-destructieve actie. Je kunt je artikel herstellen als je dat wenst.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Deze titel verschijnt op de startpagina Kennis en moet 20 tekens of minder bevatten.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Deze %s verschijnt op de startpagina van de kennisbasis.";
+$Definition["title"] = "titel";
+$Definition["description"] = "omschrijving";
+$Definition["It should be %s characters or less."] = "Het moet %s karakters of minder zijn.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Welkom bij onze kennisbasis. Hier vind je antwoorden op veel voorkomende problemen.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Dit kan per kennisbasis overschreven worden.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Aanbevolen afmetingen zijn ongeveer %s bij %s of een vergelijkbare verhouding.";
+$Definition["The %s to use on the knowledge base chooser."] = "De %s om te gebruiken op de kennisbasiskiezer.";
+$Definition["banner background image"] = "achtergrondafbeelding banner";
+$Definition["banner content image"] = "afbeelding inhoud banner";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Het kan moeilijk zijn om tekst bovenop bepaalde banner-afbeeldingen te lezen. Schakel deze instellingen in om een overlay over banner-afbeeldingen toe te voegen, waardoor de tekst makkelijker te lezen is.";
+
+$Definition["This category does not have any articles."] = "Deze categorie heeft geen artikelen.";
+
 $Definition["This knowledge base does not have any articles."] = "Deze kennisbron bevat geen artikelen.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Hiermee wordt een artikel gemaakt dat een kopie van deze discussie is. De discussie wordt dan gekoppeld aan het nieuwe artikel.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Hiermee wordt de link naar het artikel verwijderd, maar wordt het artikel zelf niet verwijderd.";
