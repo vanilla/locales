@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Kunnskapsbase";
 $Definition["Knowledge Base Item"] = "Element i kunnskapsbase";
 $Definition["Knowledge Bases"] = "Kunnskapsbaser";
 $Definition["Knowledge Base Chooser Title"] = "Tittelvelger for kunnskapsbasen";
+$Definition["Knowledge Base Chooser Description"] = "Beskrivelse av kunnskapsbasevelger";
 
 $Definition["Layout Center Column Width"] = "Sentrer layoutens kolonnebredde";
 $Definition["Load More"] = "Last mer";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Art
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Bredden på senterkolonnen i hovedlayouten i piksler.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Denne artikkelen ble redigert i den lokale kilden på <0/>. Rediger denne artikkelen for å oppdatere oversettelsen og fjerne denne meldingen.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Denne artikkelen ble redigert i dens lokale kilde. Rediger denne artikkelen for å oppdatere oversettelsen, og for å fjerne denne meldingen.';
-$Definition["This category does not have any articles."] = "Denne kategorien har ingen artikler.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Dette er en destruktiv handling. Du vil ikke kunne gjenopprette utkastet ditt.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Dette er en ikke-destruktiv handling. Du kan gjenopprette artikkelen din hvis du ønsker.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Denne tittelen vises på hjemmesiden til kunnskapsbasen. Den skal ikke være mer enn 20 tegn.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Denne %s vil fremkomme på kunnskapshjemmesiden.";
+$Definition["title"] = "tittel";
+$Definition["description"] = "beskrivelse";
+$Definition["It should be %s characters or less."] = "Det skal være %s karakterer eller mindre.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Velkommen til kunnskapsbasen vår. Her vil du finne svar på vanlige supporttema.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Dette kan overskrives per kunnskapsbase.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Anbefalte dimensjoner er omtrent %s X %s eller tilsvarende størrelsesforhold.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s til å bruke på kunnskapsbasevelgeren.";
+$Definition["banner background image"] = "bannerbakgrunnsbilde";
+$Definition["banner content image"] = "bannerinnholdsbilde";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Det kan være vanskelig å lese tekst oppå visse bannerbilder. Aktiver denne innstillingen for å legge til et lag oppå bannerbilder som gjør teksten lettere å lese.";
+
+$Definition["This category does not have any articles."] = "Denne kategorien har ingen artikler.";
+
 $Definition["This knowledge base does not have any articles."] = "Denne kunnskapsbasen har ingen artikler.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Dette vil opprette en artikkel som er en kopi av denne diskusjonen. Diskusjonen blir deretter lenket til i den nye artikkelen.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Dette vil fjerne lenken til artikkelen, men det vil ikke fjerne selve artikkelen.";
