@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Правки до статті";
 $Definition["Article Three"] = "Стаття три";
 $Definition["Article Two"] = "Стаття два";
 $Definition["Articles"] = "Статті";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Асоціювати продукт із цією Субспільнотою.<0>Скористайтесь інтерфейсом Керування продуктами<0> , щоб замінити, додати, редагувати або видаляти продукти.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Пов’яжіть продукт із цією Підгрупою. <0>Використовуйте інтерфейс користувача Управління Продуктами</0>, щоб замінити, додати, редагувати або видалити продукти.";
 
 $Definition["Back to Home"] = "Назад на домашню сторінку";
 $Definition["Back to home page"] = "Назад на домашню сторінку";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "Це %s з'яв
 $Definition["title"] = "назва";
 $Definition["description"] = "опис";
 $Definition["It should be %s characters or less."] = "Має містити %s або менше символів.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Ласкаво просимо до нашої бази даних. Тут ви знайдете відповіді на поширені запитання.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Ласкаво просимо до нашої Бази Знань. Тут ви знайдете відповіді на поширені питання підтримки.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Це можна перевизначити окремо для кожної бази даних.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Рекомендовані розміри складають %s на %s або в такому ж співвідношенні.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s для використання у засобі вибору бази даних.";

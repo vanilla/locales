@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "文章修訂";
 $Definition["Article Three"] = "文章三";
 $Definition["Article Two"] = "文章二";
 $Definition["Articles"] = "文章";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "將產品與此「次社群」相關聯。<0>使用管理產品 UI</0> 來取代新增、編輯、或刪除產品。";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "將產品與此「子社群」相關聯。<0>使用「管理產品 UI」</0>來取代新增、編輯、或刪除產品。";
 
 $Definition["Back to Home"] = "返回首頁";
 $Definition["Back to home page"] = "返回首頁";

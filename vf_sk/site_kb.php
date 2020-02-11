@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Revízie článku";
 $Definition["Article Three"] = "Článok 3";
 $Definition["Article Two"] = "Článok 2";
 $Definition["Articles"] = "Články";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Priraďte produkt k tejto subkomunite. <0>Použite rozhranie Spravovať produkty</0> na nahradenie, pridanie, úpravu alebo odstránenie produktov.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Spojte produkt s touto Podkomunitou. Na premiestnenie, pridanie, upravovanie alebo vymazanie produktov <0>použite používateľské rozhranie Spravovať produkty</0>.";
 
 $Definition["Back to Home"] = "Naspäť domov";
 $Definition["Back to home page"] = "Späť na domovskú stránku";
@@ -167,7 +167,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "%s sa objaví n
 $Definition["title"] = "názov";
 $Definition["description"] = "popis";
 $Definition["It should be %s characters or less."] = "Malo by byť %s alebo menej znakov.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Vitajte v našej Vedomostnej základni. Tu nájdete odpovede na bežné problémy podpory.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Vitajte vo vedomostnej databáze, Nájdete tu odpovede na najčastejšie otázky súvisiace s podporou.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Toto je možné prepísať na základe vedomostnej základne.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Odporúčané rozmery sú asi %s x %s alebo v podobnom pomere.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s použiť na selektor vedomostnej základne.";

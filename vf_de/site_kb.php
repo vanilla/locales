@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Artikelüberarbeitungen";
 $Definition["Article Three"] = "Artikel Drei";
 $Definition["Article Two"] = "Zweiter Artikel";
 $Definition["Articles"] = "Artikel";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Verbinden Sie ein Produkt mit dieser Subcommunity. <0>Benutzen Sie die Produkte managen UI</0> um Produkte zu ersetzen, zu bearbeiten oder zu löschen.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Verbinden Sie ein Produkt mit dieser Subcommunity. <0>Verwenden Sie die Benutzeroberfläche zur Produktverwaltung</0>, um Produkte zu ersetzen, hinzuzufügen, zu bearbeiten oder zu löschen.";
 
 $Definition["Back to Home"] = "Zurück zum Start";
 $Definition["Back to home page"] = "Zurück zur Startseite";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "Dieses %s wird 
 $Definition["title"] = "Titel";
 $Definition["description"] = "Beschreibung";
 $Definition["It should be %s characters or less."] = "Es sollte %s oder weniger Zeichen enthalten.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Willkommen in unserer Wissensdatenbank. Hier wirst du Antworten auf die häufigsten Support-Anfragen erhalten.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Willkommen in unserer Wissensdatenbank. Hier werden Sie Antworten zu den häufigsten Support-Anfragen finden.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Dies kann auf der Grundlage einer Wissensdatenbank überschrieben werden.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Die empfohlenen Maße betragen ungefähr %s mal %s oder ein ähnliches Verhältnis.";
 $Definition["The %s to use on the knowledge base chooser."] = "Die %s, die in dem Auswahlmenü der Wissensdatenbank verwendet werden. ";

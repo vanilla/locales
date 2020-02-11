@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Artikelrevisioner";
 $Definition["Article Three"] = "Artikel Tre";
 $Definition["Article Two"] = "Artikel to";
 $Definition["Articles"] = "Artikler";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Forbind et produkt med dette sub-fællesskab. <0>Brug Administrer produkter UI</0> til at erstatte, tilføje, redigere eller slette produkter.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Tilknyt et produkt til dette underfællesskab.  <0> Brug Administrer Produkter UI </0> til at erstatte tilføje, redigere eller slette produkter.";
 
 $Definition["Back to Home"] = "Tilbage til Hjem";
 $Definition["Back to home page"] = "Tilbage til forside";
@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Generelle Udseende";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Guides er til at fremstille brugsanvisninger, dokumentation eller enhver form for \"bog\"-lignende indhold, som skal læses i rækkefølge.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hej Startside. Links er nedenfor:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Hjælpcentre til at skabe frit udformede hjælpeartikler, som er organiseret i kategorier.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Hjælpecentre er der hvor du kan lave åbne hjælpeartikler som bliver opdelt i kategorier. ";
 $Definition["Homepage banner image for this knowledge base."] = "Hjemmesidens bannerbillede for denne vidensbase.";
 
 $Definition["Insert Article Here"] = "Indsæt artikel her";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Videnbase";
 $Definition["Knowledge Base Item"] = "Element fra Videnbase";
 $Definition["Knowledge Bases"] = "Vidensbaser";
 $Definition["Knowledge Base Chooser Title"] = "Titel på vidensbasevælger";
+$Definition["Knowledge Base Chooser Description"] = "Beskrivelse af Vidensbase";
 
 $Definition["Layout Center Column Width"] = "Bredde på layoutets midterkolonne";
 $Definition["Load More"] = "Indlæs Mere";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Art
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Bredden på midterkolonnen for det primære layout i pixels.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Denne artikel blev redigeret i dens lokale kilde på <0/>. Rediger denne artikel for at opdatere dens oversættelse og fjerne denne besked.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Denne artikel blev redigeret i dens lokale kilde. Rediger denne artikel for at opdatere dens oversættelse og fjerne denne besked.';
-$Definition["This category does not have any articles."] = "Denne kategori har ikke nogen artikler.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Dette er en destruktiv handling. Du kan ikke gendanne dit udkast.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Dette er en ikke-destruktiv handling. Du vil kunne genoprette din artikel, hvis du ønsker det.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Denne titel bliver vist på vidensbasens hjemmeside. Den skal være på 20 tegn eller mindre.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Denne %s vises på Videnshjemmesiden.";
+$Definition["title"] = "titel";
+$Definition["description"] = "beskrivelse";
+$Definition["It should be %s characters or less."] = "Det skal være %s tegn eller mindre.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Velkommen til vores vidensbase.  Her finder du svar på almindelige supportproblemer.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Dette kan tilsidesættes pr. Vidensbasebasis.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Anbefalede dimensioner er ca. %s og %s eller et lignende forhold.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s der bruges på vidensbasevælgeren.";
+$Definition["banner background image"] = "baggrundsbillede for banner";
+$Definition["banner content image"] = "bannerindholdsbillede";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Det kan være svært at læse tekst oven på visse bannerbilleder. Aktivér denne indstilling for at tilføje et overlag over bannerbilleder, der gør teksten lettere at læse.";
+
+$Definition["This category does not have any articles."] = "Denne kategori har ikke nogen artikler.";
+
 $Definition["This knowledge base does not have any articles."] = "Denne videnbase har ingen artikler.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Dette vil oprette en artikel, som er en kopi af denne diskussion. Diskussionen vil derefter blive linket til den nye artikel.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Dette fjerner linket til artiklen, men fjerner ikke artiklen selv.";

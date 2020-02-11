@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "مراجعات المقالة";
 $Definition["Article Three"] = "مقالة رقم ثلاثة";
 $Definition["Article Two"] = "مقالة رقم إثنين";
 $Definition["Articles"] = "المقالات";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "اربط منتجاً بهذا المجتمع الفرعي. <0> استخدم واجهة مستخدم Manage Products </0> لاستبدال أو إضافة المنتجات أو تعديلها أو حذفها.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "اربط منتجاً بهذه الجماعة الفرعية. <0>استخدم واجهة \"إدارة المنتجات\"</0> لاستبدال المنتجات أو إضافتها أو تعديلها أو حذفها.";
 
 $Definition["Back to Home"] = "العودة إلى الرئيسية ";
 $Definition["Back to home page"] = "العودة إلى الصفحة الرئيسية ";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "قاعدة معرفة";
 $Definition["Knowledge Base Item"] = "عنصر بقاعدة المعرفة";
 $Definition["Knowledge Bases"] = "قواعد المعرفة ";
 $Definition["Knowledge Base Chooser Title"] = "عنوان منتقي قاعدة المعرفة";
+$Definition["Knowledge Base Chooser Description"] = "وصف منتقي قاعدة المعارف";
 
 $Definition["Layout Center Column Width"] = "عرض عمود مركز المخطط";
 $Definition["Load More"] = "تحميل المزيد";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'ا�
 $Definition['The width of the center column of the primary layout in pixels.'] = 'عرض العمود الأوسط للمخطط الأساسي بوحدة البكسل.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'تم تحرير هذه المقالة في لغة مصدرها في <0/>. قم بتحرير هذه المقالة لتحديث ترجمتها ومسح هذه الرسالة.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'تم تحرير هذه المقالة في لغة مصدرها. قم بتحرير هذه المقالة لتحديث ترجمتها ومسح هذه الرسالة.';
-$Definition["This category does not have any articles."] = "لا تحتوي هذه الفئة على أي مقالات. ";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "هذا إجراء مدمر. لن تتمكن من استعادة مسودتك.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "هذا إجراء غير مدمر. سوف تكون قادرة على استعادة مقالتك إذا كنت ترغب في ذلك. ";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "سيظهر هذا العنوان في صفحة المعرفة الرئيسية. يجب أن يتكون من 20 حرفاً أو أقل.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "سيظهر هذا %s في صفحة المعارف الرئيسية.";
+$Definition["title"] = "عنوان";
+$Definition["description"] = "الوصف";
+$Definition["It should be %s characters or less."] = "يجب ألا يزيد عن %s حرف.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "مرحباً بك في قاعدة المعارف لدينا. ستجد هنا إجابات لمشكلات الدعم الشائعة.";
+$Definition["This can be overridden on a per knowledge base basis."] = "يمكن تجاوز هذا لكل قاعدة معارف على حدة.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "الأبعاد الموصى بها هي حوالي %s في %s أو نسبة مماثلة.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s الذي يُستخدم في منتقي قاعدة المعارف.";
+$Definition["banner background image"] = "صورة خلفية الشعار";
+$Definition["banner content image"] = "صورة محتوى الشعار";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "قد تصعب قراءة النص الموجود أعلى بعض صور الشعارات. يمكنك تمكين هذا الإعداد لإضافة تراكب على صور الشعارات مما يسهل قراءة النص.";
+
+$Definition["This category does not have any articles."] = "لا تحتوي هذه الفئة على أي مقالات. ";
+
 $Definition["This knowledge base does not have any articles."] = "لا تحتوي قاعدة المعرفة هذه على أي مقالات. ";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "سيؤدي هذا إلى إنشاء مقال يمثل نسخة من هذه المناقشة. سيتم بعد ذلك ربط المناقشة بالمقال الجديد.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "سيؤدي هذا إلى إزالة رابط المقالة، لكنه لن يزيل المقالة نفسها.";

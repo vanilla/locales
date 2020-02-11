@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Artikkelin tarkistukset";
 $Definition["Article Three"] = "Artikkeli kolme";
 $Definition["Article Two"] = "Artikkeli kaksi";
 $Definition["Articles"] = "Artikkelit";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Yhdistä tuote tähän alayhteisöön. <0>Käytä tuotteiden hallinnointikäyttöliittymää</0> tuotteiden korvaamiseen, lisäämiseen, muokkaamiseen tai poistamiseen.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Liitä tuote tähän alaluokkaan. <0>Käytä Hallinnoi tuotteita -käyttöliittymää</0> korvataksesi, lisätäksesi, muokataksesi tai poistaaksesi tuotteita.";
 
 $Definition["Back to Home"] = "Takaisin kotiin";
 $Definition["Back to home page"] = "Takaisin kotisivulle";

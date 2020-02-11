@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Révisions d'articles";
 $Definition["Article Three"] = "Article 3";
 $Definition["Article Two"] = "Article 2";
 $Definition["Articles"] = "Articles";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Associer un produit avec cette sous communauté. <0>Utilisez la Gestion des produits IU</0>pour remplacer, ajouter, modifier ou supprimer des produits.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Associer un produit à cette Sous-communauté. <0>Utilisez Gérer les produits d'IU<0> pour remplacer, ajouter, modifier ou supprimer des produits.";
 
 $Definition["Back to Home"] = "Retour à la page d'accueil";
 $Definition["Back to home page"] = "Retour à la page d'accueil";
@@ -167,7 +167,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "Ce %s apparaît
 $Definition["title"] = "titre";
 $Definition["description"] = "description";
 $Definition["It should be %s characters or less."] = "Cela doit faire %s caractères ou moins.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bienvenue dans notre base de connaissance. Vous y trouverez les réponses au problèmes les plus courants.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bienvenue dans notre base de connaissances. Vous trouverez ici les réponses aux problèmes courants.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Ceci peut être annulé à partir d'une base de connaissance.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Les dimensions recommandées sont de %s par %s ou autre ratio similaire.";
 $Definition["The %s to use on the knowledge base chooser."] = "Ce %s pour l'utiliser sur le sélecteur de base de connaissances.";
