@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Artikelrevisioner";
 $Definition["Article Three"] = "Artikel tre";
 $Definition["Article Two"] = "Artikel två";
 $Definition["Articles"] = "Artiklar";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Knyt en produkt till denna underordnade gemenskap. <0>Bruka användargränssnittet</0> till att ersätta, lägga till, redigera eller radera produkter.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Knyt en produkt till denna undergemenskap. <0>Använd gränssnittet Hantera produkter</0> för att ersätta, lägga till, redigera eller radera produkter.";
 
 $Definition["Back to Home"] = "Tillbaka hem";
 $Definition["Back to home page"] = "Tillbaka till hemsidan";
