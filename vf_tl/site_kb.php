@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Mga Rebisyon Sa Artikulo";
 $Definition["Article Three"] = "Ikatlong Artikulo";
 $Definition["Article Two"] = "Ikalawang Artikulo";
 $Definition["Articles"] = "Mga Artikulo";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Iugnay ang produkto sa Subcommunity na ito. <0>Gamitin ang Manage Products UI</0> para palitan, dagdagan, i-edit, o i-delete ang mga produkto.";
+$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Iugnay ang isang produkto sa Subcommunity na ito. <0>Gamitin ang Manage Products UI</ 0 upang palitan, magdagdag, mag-edit, o magtanggal ng mga produkto.";
 
 $Definition["Back to Home"] = "Bumalik sa Home";
 $Definition["Back to home page"] = "Bumalik sa home page";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "Ang %s na ito a
 $Definition["title"] = "pamagat";
 $Definition["description"] = "deskripsyon";
 $Definition["It should be %s characters or less."] = "Dapat na ito ay %s o mas kaunting karakter.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Maligayang pagdating sa aming Knowledge Base. Dito ay makakakuha ka ng mga sagot sa karaniwang mga isyu sa suporta.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Maligayang pagdating sa aming Knowledge Base. Dito mo makikita ang mga sagot sa mga karaniwang isyu sa suporta.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Maaari itong ma-override ayon sa batayan ng knowledge base.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Ang inirerekomendang sukat ay mga %s by %s o katulad na ratio.";
 $Definition["The %s to use on the knowledge base chooser."] = "Ang %s na gagamitin sa knowledge base chooser.";
