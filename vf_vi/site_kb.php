@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Cơ sở Tri thức";
 $Definition["Knowledge Base Item"] = "Hạng mục Cơ sở Tri thức";
 $Definition["Knowledge Bases"] = "Cơ sở Tri thức";
 $Definition["Knowledge Base Chooser Title"] = "Tiêu đề cho trình chọn Cơ sở tri thức";
+$Definition["Knowledge Base Chooser Description"] = "Mô tả Bộ chọn Nền tảng Kiến thức";
 
 $Definition["Layout Center Column Width"] = "Bố cục Trung tâm Chiều rộng cột";
 $Definition["Load More"] = "Tải Thêm";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Bà
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Chiều rộng của cột trung tâm của bố cục chính tính bằng pixel.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Bài viết này đã được chỉnh sửa tại vị trí nguồn của nó <0 />. Chỉnh sửa bài viết này để cập nhật bản dịch và xóa thông báo này.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Bài viết này đã được chỉnh sửa tại vị trí nguồn của nó. Chỉnh sửa bài viết này để cập nhật bản dịch và xóa thông báo này.';
-$Definition["This category does not have any articles."] = "Danh mục này không có bài viết nào.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Đây là hành động mang tính tiêu hủy. Bạn sẽ không thể khôi phục bản nháp của mình.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Đây là hành động không mang tính tiêu hủy. Nếu muốn, bạn sẽ có thể khôi phục bài viết của mình.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Tiêu đề này sẽ xuất hiện trên trang chủ Kiến thức. Nó nên có 20 ký tự hoặc ít hơn.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "%s này sẽ xuất hiện ở trang chủ Kiến thức.";
+$Definition["title"] = "tiêu đề";
+$Definition["description"] = "mô tả";
+$Definition["It should be %s characters or less."] = "Nó phải chứa %s ký tự hoặc ít hơn.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Chào mừng bạn đến với Nền tảng Kiến thức. Tại đây bạn sẽ tìm thấy câu trả lời cho những vấn đề hỗ trợ chung.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Có thể ghi đè mục này theo mỗi nền tảng kiến thức.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Kích thước đề xuất là khoảng %s x %s hoặc tỷ lệ tương tự.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s để sử dụng trên bộ chọn nền tảng kiến thức.";
+$Definition["banner background image"] = "hình ảnh nền biểu ngữ";
+$Definition["banner content image"] = "hình ảnh nội dung biểu ngữ";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Nó có thể là văn bản khó đọc ở trên một số hình ảnh biểu ngữ nhất định. Bật cài đặt này để thêm một lớp phủ lên trên hình ảnh biểu ngữ giúp văn bản dễ đọc hơn.";
+
+$Definition["This category does not have any articles."] = "Danh mục này không có bài viết nào.";
+
 $Definition["This knowledge base does not have any articles."] = "Cơ sở tri thức này không có bài viết nào.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Thao tác này sẽ tạo ra một bài viết là bản sao của thảo luận này. Khi đó, cuộc thảo luận sẽ được liên kết tới bài viết mới.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Thao tác này sẽ gỡ đường link khỏi bài viết, nhưng không xóa bản thân bài viết.";
