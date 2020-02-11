@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Base di conoscenze";
 $Definition["Knowledge Base Item"] = "Elemento della Conoscenza di Base";
 $Definition["Knowledge Bases"] = "Conoscenze di Base";
 $Definition["Knowledge Base Chooser Title"] = "Titolo del Selezionatore Knowledge Base";
+$Definition["Knowledge Base Chooser Description"] = "Descrizione Selettore Conoscenza di Base";
 
 $Definition["Layout Center Column Width"] = "Ampiezza della colonna centrale del layout";
 $Definition["Load More"] = "Caricane altri";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'L\'
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ampiezza in pixel della colonna centrale del layout.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Questo articolo è stato modificato nella sua località di origine il <0/>. Modifica l\'articolo per aggiornarne la traduzione ed eliminare questo messaggio.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Questo articolo è stato modificato nella sua località di origine. Modifica l\'articolo per aggiornarne la traduzione ed eliminare questo messaggio.';
-$Definition["This category does not have any articles."] = "Questa categoria non ha nessun articolo.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Questa è un'azione distruttiva. Non sarai in grado di ripristinare la bozza.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Questa non è un'azione distruttiva. Potrai ripristinare l'articolo se desideri.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Questo titolo comparirà nella pagina iniziale di Knowledge. Deve essere di massimo 20 caratteri.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Questo %s apparirà nella pagina principale della Conoscenza.";
+$Definition["title"] = "titolo";
+$Definition["description"] = "descrizione";
+$Definition["It should be %s characters or less."] = "Deve essere %s caratteri o meno.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Benvenuto nella nostra Conoscenza di Base. Qui troverai le risposte ai problemi comuni di supporto.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Questo può essere sovrascritto in base alla conoscenza di base.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Dimensioni raccomandate sono circa %s per %s oppure un rapporto simile.";
+$Definition["The %s to use on the knowledge base chooser."] = "Il %s da utilizzare nel selettore della conoscenza di base.";
+$Definition["banner background image"] = "immagine di sfondo del banner";
+$Definition["banner content image"] = "immagine del contenuto del banner";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Può essere difficile leggere del testo su alcune immagini di banner. Abilita questa impostazione per aggiungere una sovrimpressione sulle immagini del banner che rende il testo più semplice da leggere.";
+
+$Definition["This category does not have any articles."] = "Questa categoria non ha nessun articolo.";
+
 $Definition["This knowledge base does not have any articles."] = "Questo conoscenza di base non ha nessun articolo.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Questo creerà un articolo che è un copia di questa discussione. La discussione verrà poi collegata al nuovo articolo.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Questo rimuoverà il link all'articolo, ma non rimuoverà l'articolo stesso.";

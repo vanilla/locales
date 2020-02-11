@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Allmänt utseende";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Guiderna är till för att skapa vägledningar, dokumentation eller något \"bokliknande\" innehåll avsett att läsas från början till slut.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hallå hemsida. Länkar finns nedan:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "I hjälpcentret kan man skapa hjälpartiklar i fri form som organiseras i kategorier.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Hjälpcentren är till för skapandet av hjälpartiklar i fritextformat som organiserats i kategorier.";
 $Definition["Homepage banner image for this knowledge base."] = "Hemsidans bannerbild för denna kunskapsbas.";
 
 $Definition["Insert Article Here"] = "Lägg in artikel här";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Kunskapsbas";
 $Definition["Knowledge Base Item"] = "Kunskapsbasobjekt";
 $Definition["Knowledge Bases"] = "Kunskapsbaser";
 $Definition["Knowledge Base Chooser Title"] = "Titel på val av kunskapsbas";
+$Definition["Knowledge Base Chooser Description"] = "Beskrivning av val av kunskapsbas";
 
 $Definition["Layout Center Column Width"] = "Bredd på mittersta kolumnen i layouten";
 $Definition["Load More"] = "Ladda fler";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Art
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Bredden på mittersta kolumnen i den primära layouten, antal pixlar.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Denna artikel redigerades i källspråket <0/>. Redigera artikeln för att uppdatera översättningen och rensa bort detta meddelande.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Denna artikel redigerades i källspråket. Redigera artikeln för att uppdatera översättningen och rensa bort detta meddelande.';
-$Definition["This category does not have any articles."] = "Den här kategorin har inga artiklar.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Detta är en destruktiv åtgärd. Du kommer inte att kunna återställa ditt utkast.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Detta är en icke-destruktiv handling. Du kommer att kunna återställa din artikel om du vill.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Denna titel kommer att visas på hemsidan. Den bör vara 20 tecken eller mindre.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Detta %s kommer att visas på kunskapssidan.";
+$Definition["title"] = "rubrik";
+$Definition["description"] = "beskrivning";
+$Definition["It should be %s characters or less."] = "Maximalt antal tecken är %s.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Välkommen till vår kunskapsbas. Här får du svar på vanliga frågor till supporten.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Andra inställningar kan göras för kunskapsbaserna var för sig.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Rekommenderade mått är cirka %s gånger %s eller motsvarande förhållande.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s att använda vid val av kunskapsbas.";
+$Definition["banner background image"] = "bakgrundsbild på bannern";
+$Definition["banner content image"] = "innehållsbild på bannern";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Det kan vara svårt att läsa texten på vissa bannerbilder. Med denna inställning får bannerbilderna ett överlägg som gör det lättare att läsa texten.";
+
+$Definition["This category does not have any articles."] = "Den här kategorin har inga artiklar.";
+
 $Definition["This knowledge base does not have any articles."] = "Denna kunskapsbas har inga artiklar.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Detta skapar en artikel som är en kopia av denna diskussion. Diskussionen kommer då att länkas till den nya artikeln.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Detta tar bort länken till artikeln, men inte artikeln i sig. ";

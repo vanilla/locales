@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Wissensdatenbank";
 $Definition["Knowledge Base Item"] = "Element der Wissensdatenbank";
 $Definition["Knowledge Bases"] = "Wissensdatenbanken";
 $Definition["Knowledge Base Chooser Title"] = "Wissensbasis-Wähler-Titel";
+$Definition["Knowledge Base Chooser Description"] = "Beschreibung des Auswahlmenüs der Wissensdatenbank";
 
 $Definition["Layout Center Column Width"] = "Layout Breite mittlere Spalte";
 $Definition["Load More"] = "Mehr laden";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Der
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Die Breite der mittleren Spalte des Haupt-Layouts in Pixeln.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Dieser Artikel wurde in seiner source locale unter <0/> bearbeitet. Bearbeiten Sie diesen Artikel, um seine Übersetzung zu aktualisieren und diese Nachricht zu löschen.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Dieser Artikel wurde in seiner source locale bearbeitet. Bearbeiten Sie diesen Artikel, um seine Übersetzung zu aktualisieren und diese Nachricht zu löschen.';
-$Definition["This category does not have any articles."] = "In dieser Kategorie gibt es keine Artikel.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Diese Aktion löscht Daten. Sie werden Ihren Entwurf nicht wiederherstellen können.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Bei dieser Aktion geht nichts verloren. Auf Wunsch können Sie Ihren Artikel wiederherstellen.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Dieser Titel wird auf der Knowledge-Homepage angezeigt. Er sollte 20 Zeichen oder weniger haben.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Dieses %s wird auf der Wissen-Startseite erscheinen.";
+$Definition["title"] = "Titel";
+$Definition["description"] = "Beschreibung";
+$Definition["It should be %s characters or less."] = "Es sollte %s oder weniger Zeichen enthalten.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Willkommen in unserer Wissensdatenbank. Hier wirst du Antworten auf die häufigsten Support-Anfragen erhalten.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Dies kann auf der Grundlage einer Wissensdatenbank überschrieben werden.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Die empfohlenen Maße betragen ungefähr %s mal %s oder ein ähnliches Verhältnis.";
+$Definition["The %s to use on the knowledge base chooser."] = "Die %s, die in dem Auswahlmenü der Wissensdatenbank verwendet werden. ";
+$Definition["banner background image"] = "Banner-Hintergrundbild";
+$Definition["banner content image"] = "Banner-Inhaltsbild";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Bei einigen Banner-Bildern kann sich als schwierig erweisen, den Text am oberen Rand zu lesen. Aktiviere diese Einstellung, um Banner-Bildern eine Textüberlagerung hinzuzufügen, welche den Text lesbarer werden lässt.";
+
+$Definition["This category does not have any articles."] = "In dieser Kategorie gibt es keine Artikel.";
+
 $Definition["This knowledge base does not have any articles."] = "In dieser Wissensdatenbank gibt es keine Artikel.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Dies erstellt einen Artikel, der eine Kopie dieser Diskussion ist. Die Diskussion wird dann mit dem neuen Artikel verlinkt.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Dies entfernt den Link zum Artikel; der Artikel selbst bleibt erhalten.";

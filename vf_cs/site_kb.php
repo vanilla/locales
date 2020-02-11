@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Celkový vzhled";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Příručky slouží k vytváření návodů, dokumentace nebo jakékoliv „knihy“, jako je obsah, který by se měl číst v určitém pořadí.";
 
 $Definition["Hello Home Page. Links are below:"] = "Domovská stránka Hello. Odkazy najdete níže: ";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Centra nápovědy slouží k tvorbě článků nápovědy ve volné formě, které jsou uspořádány do kategorií.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Centra pomoci slouží k vytváření otevřených pomocných článků, které jsou roztříděny do kategorií. ";
 $Definition["Homepage banner image for this knowledge base."] = "Obrázek banneru domovské stránky pro tuto databázi znalostí.";
 
 $Definition["Insert Article Here"] = "Vložte článek zde ";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Znalostní báze ";
 $Definition["Knowledge Base Item"] = "Položka znalostní báze ";
 $Definition["Knowledge Bases"] = "Znalostní báze ";
 $Definition["Knowledge Base Chooser Title"] = "Název výběru znalostní základny";
+$Definition["Knowledge Base Chooser Description"] = "Popis výběrové základny znalostní báze";
 
 $Definition["Layout Center Column Width"] = "Šířka středového sloupce rozvržení";
 $Definition["Load More"] = "Načíst více";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Čl
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Šířka středního sloupce primárního rozvržení v pixelech.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Tento článek byl upraven v jeho zdrojovém prostředí dne <0/>. Pro aktualizaci překladu tohoto článku a vymazání této zprávy článek upravte.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Tento článek byl upraven ve zdrojovém prostředí. Pro aktualizaci překladu tohoto článku a vymazání této zprávy článek upravte.';
-$Definition["This category does not have any articles."] = "V této kategorii nejsou žádné články. ";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "To je destruktivní akce. Koncept nebudete moci obnovit.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Toto není destruktivní akce. Pokud budete chtít, budete moci svůj článek obnovit.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Tento název se objeví na domovské stránce znalostí. Mělo by to být 20 znaků nebo méně.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Toto %s se objeví na domovské stránce znalostí.";
+$Definition["title"] = "název";
+$Definition["description"] = "popis";
+$Definition["It should be %s characters or less."] = "Mělo by to být %s znaků nebo méně.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Vítejte ve vaší znalostní bázi. Zde najdete odpovědi na běžné problémy.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Tento prvek lze přepsat na základě znalostní báze.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Doporučené rozměry jsou přibližně %s na %s nebo podobný poměr.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s k použití za účelem výběru znalostí báze.";
+$Definition["banner background image"] = "obrázek pozadí banneru";
+$Definition["banner content image"] = "obrázek obsahu banneru";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Ve vrchní části určitých obrázků bannerů může být obtížné přečíst text. Povolením tohoto nastavení přidáte překrytí na obrázky banneru, což usnadní čtení textu.";
+
+$Definition["This category does not have any articles."] = "V této kategorii nejsou žádné články. ";
+
 $Definition["This knowledge base does not have any articles."] = "Tato znalostní báze neobsahuje žádné články. ";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Tímto vytvoříte článek, který bude kopií této diskuze. Diskuze bude poté spojena s tímto novým článkem. ";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Tímto odstraníte odkaz ke článku, ale samotný článek neodstraníte. ";

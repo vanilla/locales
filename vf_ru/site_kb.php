@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Общий внешний вид";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Руководства нужны для создания практических руководств, документации и любых других материалов со структурой книги, которые должны читаться по порядку.";
 
 $Definition["Hello Home Page. Links are below:"] = "Страница приветствия. Ссылки ниже:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Справочные центры нужны для создания разделенных на категории справочных статей в свободной форме.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Центры справки предназначены для создания статей справки в свободной форме, которые организованы по категориям.";
 $Definition["Homepage banner image for this knowledge base."] = "Баннерное изображение на главной странице для этой базы знаний.";
 
 $Definition["Insert Article Here"] = "Вставить статью сюда";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "База знаний";
 $Definition["Knowledge Base Item"] = "Объект из базы знаний";
 $Definition["Knowledge Bases"] = "Базы знаний";
 $Definition["Knowledge Base Chooser Title"] = "Название селектора базы знаний";
+$Definition["Knowledge Base Chooser Description"] = "Описание средства выбора базы знаний";
 
 $Definition["Layout Center Column Width"] = "Макет ширины центрального столбца";
 $Definition["Load More"] = "Загрузить еще";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'С�
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ширина центрального столбца основного макета в пикселях.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Эта статья была отредактирована на исходном языке на <0/>. Отредактируйте эту статью, чтобы обновить ее перевод и убрать это сообщение.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Эта статья была отредактирована на исходном языке. Отредактируйте эту статью, чтобы обновить ее перевод и убрать это сообщение.';
-$Definition["This category does not have any articles."] = "В этой категории нет статей.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Это опасное действие. Вы не сможете восстановить ваш черновик.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Это безопасное действие. Вы сможете восстановить свою статью, если пожелаете.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Этот заголовок появится на главной странице базы знаний. Его длина не должна превышать 20 символов.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Это %s будет отображаться на главной странице знаний.";
+$Definition["title"] = "название";
+$Definition["description"] = "описание";
+$Definition["It should be %s characters or less."] = "Оно должно содержать %s символов или менее.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Добро пожаловать в нашу базу знаний. Здесь вы найдете ответы на общие вопросы поддержки.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Это можно быть переопределить для каждой базы знаний.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Рекомендуемые размеры — примерно %s на %s или с аналогичным соотношением сторонй.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s для использования в средстве выбора базы знаний.";
+$Definition["banner background image"] = "фоновое изображение баннера";
+$Definition["banner content image"] = "изображение содержания баннера";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Может быть трудно читать текст поверх некоторых баннерных изображений. Включите этот параметр, чтобы добавить слой наложения на баннерные изображения, чтобы текст было легче читать.";
+
+$Definition["This category does not have any articles."] = "В этой категории нет статей.";
+
 $Definition["This knowledge base does not have any articles."] = "В этой базе знаний нет статей.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Это создаст статью, которая будет копией данного обсуждения. Затем обсуждение будет связано с новой статьей.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Это удалит ссылку на статью, но не удалит саму статью.";

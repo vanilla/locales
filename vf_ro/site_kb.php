@@ -89,6 +89,7 @@ $Definition["Knowledge Base"] = "Baza de cunoștințe";
 $Definition["Knowledge Base Item"] = "Articol bază de cunoștințe";
 $Definition["Knowledge Bases"] = "Baze de cunoștințe";
 $Definition["Knowledge Base Chooser Title"] = "Titlu selector bază de cunoaștere";
+$Definition["Knowledge Base Chooser Description"] = "Descriere selector bază de cunoștințe";
 
 $Definition["Layout Center Column Width"] = "Lățime coloană centrală afișaj";
 $Definition["Load More"] = "Încarcă mai multe";
@@ -159,10 +160,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Art
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Lățimea coloanei centrale a afișajului principal în pixeli.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Acest articol a fost editat la sursă pe <0/>. Editează acest articol pentru actualizarea traducerii sale și șterge acest mesaj.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Acest articol a fost editat la sursă. Editează acest articol pentru actualizarea traducerii sale și șterge acest mesaj.';
-$Definition["This category does not have any articles."] = "Această categorie nu conține niciun articol.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Aceasta este o acțiune distructivă. Nu vei putea să îți restabilești ciorna.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Aceasta este o acțiune nedestructivă. Vei putea să-ți recuperezi articolul dacă dorești.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Acest titlu va apărea pe prima pagină de cunoaștere. Trebuie să conțină 20 de caractere sau mai puține.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Acest %s va apărea pe pagina de pornire Cunoștințe.";
+$Definition["title"] = "titlu";
+$Definition["description"] = "descriere";
+$Definition["It should be %s characters or less."] = "Ar trebui să conțină maximum %s caractere.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bun venit la Baza noastră de cunoștințe. Aici vei găsi răspunsuri la probleme comune ce necesită asistență.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Acesta poate fi înlocuit în funcție de baza de cunoștințe.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Dimensiunile recomandate sunt aproximativ %s pe %s sau un raport similar.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s de folosit la selectorul bazei de cunoștințe.";
+$Definition["banner background image"] = "imagine fundal banner";
+$Definition["banner content image"] = "imagine conținut banner";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Citirea textului pe anumite imagini de banner poate fi dificilă. Activează această setare pentru a adăuga o suprapunere peste imaginile de banner, ceea ce face textul mai ușor de citit.";
+
+$Definition["This category does not have any articles."] = "Această categorie nu conține niciun articol.";
+
 $Definition["This knowledge base does not have any articles."] = "Această bază de cunoștințe nu are niciun articol.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Aceasta va crea un articol care este o copie a acestei discuții. Discuția va fi apoi legată la noul articol.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Aceasta va elimina linkul la articol, dar nu va elimina și articolul.";

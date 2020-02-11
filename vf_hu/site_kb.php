@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Tudásbázis";
 $Definition["Knowledge Base Item"] = "Tudásbázis tétel";
 $Definition["Knowledge Bases"] = "Tudásbázisok";
 $Definition["Knowledge Base Chooser Title"] = "Tudásbázis-választó címe";
+$Definition["Knowledge Base Chooser Description"] = "Tudásbázis-választó leírása";
 
 $Definition["Layout Center Column Width"] = "Elrendezés középső oszlopának szélessége";
 $Definition["Load More"] = "Továbbiak betöltése";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'A c
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Az elsődleges elrendezés középső oszlopának szélessége pixelben.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Ezt a cikket <0/> helyen módosították az eredeti területi beállításban. Módosítsd a cikket, hogy frissítsd a fordítást, és eltüntesd ezt az üzenetet.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Ezt a cikket módosították az eredeti területi beállításban. Módosítsd a cikket, hogy frissítsd a fordítást, és eltüntesd ezt az üzenetet.';
-$Definition["This category does not have any articles."] = "Ebben a kategóriában nincsenek cikkek.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Ez romboló hatású művelet. A vázlatot később nem lehet helyreállítani.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Ez nem romboló hatású művelet. A cikket kedved szerint visszaállíthatod.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Ez a cím a Tudás honlapon fog megjelenni. 20 vagy kevesebb karakter hosszúságú lehet.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "%s megjelenik a tudástár honlapján";
+$Definition["title"] = "cím";
+$Definition["description"] = "ismertető";
+$Definition["It should be %s characters or less."] = "%s vagy kevesebb karakter lehet.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Üdvözöljük tudásbázisunkban. Itt választ talál a gyakori támogatási problémákra.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Ez tudásbázis alapján felülírható.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "A javasolt méret %sx%s vagy hasonló arányok.";
+$Definition["The %s to use on the knowledge base chooser."] = "A tudásbázis-választón használandó %s.";
+$Definition["banner background image"] = "transzparens háttérképe";
+$Definition["banner content image"] = "transzparens tartalmának képe";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Egyes transzparensek képein nehezen kivehető lehet a szöveg. Engedélyezze ezt a beállítást, és egy átfedő réteg kerül a transzparensképekre, amivel a szöveg olvashatóbb lesz.";
+
+$Definition["This category does not have any articles."] = "Ebben a kategóriában nincsenek cikkek.";
+
 $Definition["This knowledge base does not have any articles."] = "Ebben a tudásbázisban nincsenek cikkek.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Ezzel készül egy cikk, ami ennek a beszélgetésnek a másolata. A beszélgetés ekkor egy új cikkhez lesz csatolva.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Ezzel törlődik a cikkre mutató hivatkozás, de a cikk maga nem lesz törölve.";

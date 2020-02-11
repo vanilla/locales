@@ -77,7 +77,7 @@ $Definition["General Appearance"] = "Yleinen ulkonäkö";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Oppaat on tarkoitettu käyttöoppaiden, tietovarantojen ja minkä tahansa järjestyksessä luettavan kirjankaltaisen sisällön luontiin.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hei kotisivu. Linkit ovat alla:";
-$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Tukikeskukset on tarkoitettu vapaamuotoisten, eri kategorioihin luokiteltujen tukiartikkelien luontiin.";
+$Definition["Help centers are for making free-form help articles that are organized into categories."] = "Apukeskukset ovat kategorioittain järjestettyjen vapaamuotoisten apuartikkeleiden luomista varten.";
 $Definition["Homepage banner image for this knowledge base."] = "Tämän tietokannan kotisivun bannerikuva.";
 
 $Definition["Insert Article Here"] = "Lisää artikkeli tänne";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Tietokanta";
 $Definition["Knowledge Base Item"] = "Tietopohjatuote";
 $Definition["Knowledge Bases"] = "Tietokannat";
 $Definition["Knowledge Base Chooser Title"] = "Tietokannan valitsimen otsikko";
+$Definition["Knowledge Base Chooser Description"] = "Tietämyskantavalitsimen kuvaus";
 
 $Definition["Layout Center Column Width"] = "Sivun keskisarakkeen leveys";
 $Definition["Load More"] = "Lataa lisää";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Tä
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ensisijaisen ulkoasun keskisarakkeen leveys pikseleissä mitattuna.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Tätä artikkelia muokattiin lähdepaikassaan <0/>. Tämän artikkelin muokkaus päivittää sen käännöksen ja poistaa tämän viestin.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Tätä artikkelia on muokattu sen lähdepaikassa. Tämän artikkelin muokkaus päivittää sen käännöksen ja poistaa tämän viestin.';
-$Definition["This category does not have any articles."] = "Tämä kategoria ei sisällä artikkeleita.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Tämä on tuhoava toiminto. Sen jälkeen et pysty palauttamaan luonnostasi.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Tämä ei ole tuhoava toiminto. Pystyt halutessasi palauttamaan artikkelisi.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Tämä otsikko näkyy tietokannan kotisivulla. Siinä saa olla korkeintaan 20 merkkiä.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Tämä %s tulee näkyviin tietämyskannan etusivulle.";
+$Definition["title"] = "otsikko";
+$Definition["description"] = "kuvaus";
+$Definition["It should be %s characters or less."] = "Sen tulee sisältää korkeintaan %s merkkiä.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Tervetuloa tietämyskantaamme. Täältä löydät vastauksia yleisiin tukikysymyksiin.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Tämä voidaan ohittaa tietämyskantakohtaisesti.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Suositellut mittasuhteet ovat noin %s x %s tai samanlainen suhde.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s, jota käytetään tietämyskantavalitsimessa.";
+$Definition["banner background image"] = "bannerin taustakuva";
+$Definition["banner content image"] = "bannerin sisältökuva";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Voi olla hankalaa lukea tekstiä joidenkin bannerikuvien päältä. Ota tämä asetus käyttöön lisätäksesi bannerikuvien päälle peittotason, joka tekee tekstistä helpommin luettavaa.";
+
+$Definition["This category does not have any articles."] = "Tämä kategoria ei sisällä artikkeleita.";
+
 $Definition["This knowledge base does not have any articles."] = "Tämä tietokanta ei sisällä artikkeleita.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Tämä luo artikkelin, joka on kopio tästä keskustelusta. Keskustelu linkitetään uuteen artikkeliin.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Tämä poistaa linkin artikkeliin mutta ei poista itse artikkelia.";

@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Base de connaissances";
 $Definition["Knowledge Base Item"] = "Élément de base de connaissances ";
 $Definition["Knowledge Bases"] = "Bases de connaissances";
 $Definition["Knowledge Base Chooser Title"] = "Titre du sélecteur de la base de connaissances";
+$Definition["Knowledge Base Chooser Description"] = "Description du sélectionneur de base de connaissance";
 
 $Definition["Layout Center Column Width"] = "Mise en page de la largeur de la colonne centrale";
 $Definition["Load More"] = "En charger plus";
@@ -157,10 +158,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'L\'
 $Definition['The width of the center column of the primary layout in pixels.'] = 'La largeur de la colonne centrale de la mise en page principale en pixels.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Cet article a été modifié dans ses paramètres régionaux d\'origine le <0/>. Modifiez cet article pour mettre à jour sa traduction et effacer ce message.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Cet article a été modifié dans ses paramètres régionaux d\'origine. Modifiez cet article pour mettre à jour sa traduction et effacer ce message.';
-$Definition["This category does not have any articles."] = "Cette catégorie ne contient aucun article.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "C'est une action destructrice. Vous ne pourrez pas restaurer votre brouillon.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Il s'agit d'une action non destructrice. Vous pourrez restaurer votre article si vous le souhaitez.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Ce titre s'affichera sur la page d'accueil Connaissances. Il doit avoir 20 caractères ou moins.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Ce %s apparaîtra sur la page d'accueil de connaissance.";
+$Definition["title"] = "titre";
+$Definition["description"] = "description";
+$Definition["It should be %s characters or less."] = "Cela devrait contenir %s caractères ou moins.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bienvenue sur notre base de connaissance. Ici vous trouverez des réponses aux principaux problèmes de soutien.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Cela peut être outrepassé sur la base d'une base de connaissance.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Les dimensions recommandées sont d'à peu près %s par %s, ou un ratio similaire.";
+$Definition["The %s to use on the knowledge base chooser."] = "Les %s à utiliser sur le sélectionneur de base de connaissance.";
+$Definition["banner background image"] = "image d'arrière-plan de bannière";
+$Definition["banner content image"] = "image de contenu de bannière";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Il peut être difficile de lire un texte sur certaines images de bannière. Activez ce réglage pour ajouter un cache transparent sur l'image de la bannière, ce qui rendra le texte plus facile à lire.";
+
+$Definition["This category does not have any articles."] = "Cette catégorie ne contient aucun article.";
+
 $Definition["This knowledge base does not have any articles."] = "Cette base de connaissance ne contient aucun article.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Cela créera un article qui sera une copie de cette discussion. Un lien vers cette dernière sera ensuite mis dans le nouvel article. ";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Cela supprimera le lien vers l'article mais pas l'article en lui-même.";
