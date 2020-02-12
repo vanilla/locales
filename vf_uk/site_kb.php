@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Правки до статті";
 $Definition["Article Three"] = "Стаття три";
 $Definition["Article Two"] = "Стаття два";
 $Definition["Articles"] = "Статті";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Пов’яжіть продукт із цією Підгрупою. <0>Використовуйте інтерфейс користувача Управління Продуктами</0>, щоб замінити, додати, редагувати або видалити продукти.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Пов’яжіть продукт із цією підгрупою. Використовуйте <0>інтерфейс користувача Управління Продуктами</0>, щоб додати, редагувати або видалити продукти.";
 
 $Definition["Back to Home"] = "Назад на домашню сторінку";
 $Definition["Back to home page"] = "Назад на домашню сторінку";
