@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Αναθεωρήσεις Άρθρου";
 $Definition["Article Three"] = "Άρθρο Τρία";
 $Definition["Article Two"] = "Άρθρο Δύο";
 $Definition["Articles"] = "Άρθρα";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Συνδέστε ένα προϊόν μ' αυτήν την Υπο-κοινότητα. <0>Χρησιμοποιήστε το περιβάλλον Διαχείρισης Προϊόντων</0> για να αντικαταστήσετε, προσθέσετε, επεξεργαστείτε ή διαγράψετε προϊόντα.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Συσχετίστε ένα προϊόν με αυτήν την υπο-κοινότητα.  Χρησιμοποιήστε το <0>UI Διαχείρισης Προϊόντων</0> για προσθήκη, επεξεργασία ή διαγραφή προϊόντων.";
 
 $Definition["Back to Home"] = "Πίσω στην Αρχική";
 $Definition["Back to home page"] = "Πίσω στην αρχική σελίδα";
