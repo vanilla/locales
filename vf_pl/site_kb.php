@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Korekty artykułu";
 $Definition["Article Three"] = "Trzeci artykuł";
 $Definition["Article Two"] = "Drugi artykuł";
 $Definition["Articles"] = "Artykuły";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Powiąż produkt z tą częścią społeczności. <0>Użyj interfejsu zarządzania produktami,</0> aby zamienić, dodać, edytować lub usunąć produkty.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Powiąż produkt z tą podspołecznością. Dodawaj, edytuj i usuwaj produkty, korzystając z <0>interfejsu użytkownika do zarządzania produktami</0>.";
 
 $Definition["Back to Home"] = "Z powrotem do strony głównej";
 $Definition["Back to home page"] = "Z powrotem do strony głównej";
