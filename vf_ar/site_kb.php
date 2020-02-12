@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "مراجعات المقالة";
 $Definition["Article Three"] = "مقالة رقم ثلاثة";
 $Definition["Article Two"] = "مقالة رقم إثنين";
 $Definition["Articles"] = "المقالات";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "اربط منتجاً بهذه الجماعة الفرعية. <0>استخدم واجهة \"إدارة المنتجات\"</0> لاستبدال المنتجات أو إضافتها أو تعديلها أو حذفها.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "قم بربط منتج ما بهذه المجموعة الفرعية. استخدم <0>واجهة مستخدم إدارة المنتجات</0> لإضافة المنتجات أو تحريرها أو حذفها. ";
 
 $Definition["Back to Home"] = "العودة إلى الرئيسية ";
 $Definition["Back to home page"] = "العودة إلى الصفحة الرئيسية ";
