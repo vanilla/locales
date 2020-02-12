@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Artikel Revisies";
 $Definition["Article Three"] = "Artikel Drie";
 $Definition["Article Two"] = "Artikel twee";
 $Definition["Articles"] = "Artikelen";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Koppel een product aan deze deelgemeenschap. <0>Gebruik de gebruikersinterface om producten te beheren</0> om producten toe te voegen, te bewerken of te verwijderen.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Koppel een product aan deze subcommunity. Gebruik de <0> Gebruikersomgeving Producten Beheren </0> om producten toe te voegen, te bewerken of te verwijderen.";
 
 $Definition["Back to Home"] = "Terug naar huis";
 $Definition["Back to home page"] = "Terug naar startpagina";
