@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Makale Düzeltmeleri";
 $Definition["Article Three"] = "Makale Üç";
 $Definition["Article Two"] = "Makale İki";
 $Definition["Articles"] = "Makaleler";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Bir ürünü bu Altkomite ile ilişkilendir. Ürünleri yenilemek, eklemek, düzenlemek ya da silmek için <0>Ürün UI Yönet'i kullan</0>.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Bir ürünü bu alt toplulukla ilişkilendirin. Ürün eklemek, düzenlemek veya silmek için <0> Ürünleri Yönet UI kullanın.";
 
 $Definition["Back to Home"] = "Ana Sayfaya Dön";
 $Definition["Back to home page"] = "Ana sayfaya dön";
