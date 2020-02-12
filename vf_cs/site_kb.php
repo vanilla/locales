@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Revize článku ";
 $Definition["Article Three"] = "Článek tři ";
 $Definition["Article Two"] = "Článek dva ";
 $Definition["Articles"] = "Články ";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Přiřaďte produkt k této subkomunitě. <0>Použijte rozhraní Spravovat produkty</0> pro nahrazení, přidání, úpravu nebo odstranění produktů.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Spojte produkt s jeho dílčí komunitou. V <0>Rozhraní pro správu produktů</0> můžete produkty přidávat, upravovat nebo mazat.";
 
 $Definition["Back to Home"] = "Zpět na domovskou stránku ";
 $Definition["Back to home page"] = "Zpět na domovskou stránku ";
