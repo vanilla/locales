@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Bản sửa đổi Bài viết";
 $Definition["Article Three"] = "Bài viết Ba";
 $Definition["Article Two"] = "Bài viết Hai";
 $Definition["Articles"] = "Bài viết";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Liên kết một sản phẩm với Tiểu cộng đồng này. <0> Sử dụng Giao diện Quản lý sản phẩm </ 0> để thay thế thêm, chỉnh sửa hoặc xóa sản phẩm.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Liên kết sản phẩm với tiểu cộng đồng này. Sử dụng <0>Giao diện người dùng Quản lý Sản phẩm</0> để bổ sung, chỉnh sửa hoặc xóa sản phẩm.";
 
 $Definition["Back to Home"] = "Quay lại Trang chủ";
 $Definition["Back to home page"] = "Quay lại trang chủ";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "%s này sẽ xu
 $Definition["title"] = "tiêu đề";
 $Definition["description"] = "mô tả";
 $Definition["It should be %s characters or less."] = "Nó phải chứa %s ký tự hoặc ít hơn.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Chào mừng bạn đến với Nền tảng Kiến thức. Tại đây bạn sẽ tìm thấy câu trả lời cho những vấn đề hỗ trợ chung.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Chào mừng đến với Kho kiến thức của chúng tôi. Tại đây, bạn sẽ tìm thấy câu trả lời cho các vấn đề hỗ trợ thường gặp.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Có thể ghi đè mục này theo mỗi nền tảng kiến thức.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Kích thước đề xuất là khoảng %s x %s hoặc tỷ lệ tương tự.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s để sử dụng trên bộ chọn nền tảng kiến thức.";
