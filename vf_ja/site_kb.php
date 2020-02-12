@@ -24,8 +24,7 @@ $Definition["Article Revisions"] = "記事の改訂";
 $Definition["Article Three"] = "記事3";
 $Definition["Article Two"] = "記事2";
 $Definition["Articles"] = "記事";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "製品をこのサブコミュニティに関連付けます。
-<0>製品管理UIを利用</0>して、製品の交換、追加、編集、削除を行います。";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "製品をこのサブコミュニティに関連付けてください。 <0>製品の管理UI</0>を使って、製品の追加、編集、削除を行えます。";
 
 $Definition["Back to Home"] = "ホームに戻る";
 $Definition["Back to home page"] = "ホームページに戻る";
