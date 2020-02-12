@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Revisi Artikel";
 $Definition["Article Three"] = "Artikel Tiga";
 $Definition["Article Two"] = "Artikel Dua";
 $Definition["Articles"] = "Artikel";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Asosiasikan produk dengan Subkomunitas ini. <0>Gunakan Antarmuka Kelola Produk</0> untuk menggantikan tambah, edit, atau hapus produk.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Kaitkan suatu produk dengan subkomunitas ini. Gunakan <0>Kelola UI Produk</0> untuk menambah, mengedit, atau menghapus produk.";
 
 $Definition["Back to Home"] = "Kembali ke Beranda";
 $Definition["Back to home page"] = "Kembali ke laman beranda";
