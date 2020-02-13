@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Revize článku ";
 $Definition["Article Three"] = "Článek tři ";
 $Definition["Article Two"] = "Článek dva ";
 $Definition["Articles"] = "Články ";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Přiřaďte produkt k této subkomunitě. <0> Pomocí rozhraní Správa produktů</0> můžete nahradit, přidávat, upravovat nebo mazat produkty.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Spojte produkt s jeho dílčí komunitou. V <0>Rozhraní pro správu produktů</0> můžete produkty přidávat, upravovat nebo mazat.";
 
 $Definition["Back to Home"] = "Zpět na domovskou stránku ";
 $Definition["Back to home page"] = "Zpět na domovskou stránku ";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "Toto %s se obje
 $Definition["title"] = "název";
 $Definition["description"] = "popis";
 $Definition["It should be %s characters or less."] = "Mělo by to být %s znaků nebo méně.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Vítejte ve vaší znalostní bázi. Zde najdete odpovědi na běžné problémy.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Vítejte v naší databázi znalostí. Zde najdete odpovědi na běžné problémy s podporou.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Tento prvek lze přepsat na základě znalostní báze.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Doporučené rozměry jsou přibližně %s na %s nebo podobný poměr.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s k použití za účelem výběru znalostí báze.";

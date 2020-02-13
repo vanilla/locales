@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Revisi Artikel";
 $Definition["Article Three"] = "Artikel Tiga";
 $Definition["Article Two"] = "Artikel Dua";
 $Definition["Articles"] = "Artikel";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Kaitkan produk dengan Subkomunitas ini. <0>Gunakan UI Kelola Produk</0> untuk mengganti, menambah, menyunting, atau menghapus produk.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Kaitkan suatu produk dengan subkomunitas ini. Gunakan <0>Kelola UI Produk</0> untuk menambah, mengedit, atau menghapus produk.";
 
 $Definition["Back to Home"] = "Kembali ke Beranda";
 $Definition["Back to home page"] = "Kembali ke laman beranda";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "%s ini akan tam
 $Definition["title"] = "judul";
 $Definition["description"] = "deskripsi";
 $Definition["It should be %s characters or less."] = "Harus %s karakter atau kurang.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Selamat datang di Pusat Pengetahuan kami. Di sini Anda akan menemukan jawaban untuk masalah dukungan umum.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Selamat datang di Pusat Pengetahuan kami. Di sini kamu akan menemukan jawaban atas permasalahan bantuan umum.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Ini dapat ditimpa per pusat pengetahuan.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Dimensi yang dianjurkan adalah %s x %s atau rasio yang serupa.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s yang akan digunakan pada selektor pusat pengetahuan.";

@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Makale Düzeltmeleri";
 $Definition["Article Three"] = "Makale Üç";
 $Definition["Article Two"] = "Makale İki";
 $Definition["Articles"] = "Makaleler";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Bu Alt topluluk ile bir ürün ilişkilendirin. <0> <0/> Ürün eklemek, düzenlemek veya silmek için UI Ürünlerini Yöneti kullanın.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Bir ürünü bu alt toplulukla ilişkilendirin. Ürün eklemek, düzenlemek veya silmek için <0> Ürünleri Yönet UI kullanın.";
 
 $Definition["Back to Home"] = "Ana Sayfaya Dön";
 $Definition["Back to home page"] = "Ana sayfaya dön";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Bilgi Tabanı";
 $Definition["Knowledge Base Item"] = "Bilgi Tabanı Öğesi";
 $Definition["Knowledge Bases"] = "Blgi Tabanları";
 $Definition["Knowledge Base Chooser Title"] = "Bilgi Tabanı Seçicisi Başlığı";
+$Definition["Knowledge Base Chooser Description"] = "Bileği Tabanı Seçici Tanımı";
 
 $Definition["Layout Center Column Width"] = "Orta Sütun Düzen Genişliği ";
 $Definition["Load More"] = "Daha Fazla Yükle";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'Bu 
 $Definition['The width of the center column of the primary layout in pixels.'] = 'İlk düzenin orta piksel olarak sütun genişliği ';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Bu makale <0/> kaynak konumunda düzenlendi. Çevirisini güncellemek ve bu mesajı temizlemek için bu makaleyi düzenleyin.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Bu makale kaynak konumunda düzenlendi. Çevirisini güncellemek ve bu mesajı temizlemek için bu makaleyi düzenleyin.';
-$Definition["This category does not have any articles."] = "Bu kategoride makale yok.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Bu, yıkıcı bir eylem. Taslağınızı eski haline getiremeyeceksiniz.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Bu, yıkıcı olmayan bir eylem. İsterseniz makalenizi geri yükleyebileceksiniz.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Bu başlık Bilgi anasayfasında görünür. 20 veya daha az karakter olmalı.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Bilgi ana sayfasında görünecek %s";
+$Definition["title"] = "başlık";
+$Definition["description"] = "tanım";
+$Definition["It should be %s characters or less."] = "%s ya da daha az karakter olmalı.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bilgi Üssümüze hoşgeldin. Burada yaygın destek konularına cevaplar bulacaksın.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Bu, bilgi tabanı bazlı olarak geçersiz kılınabilir.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Önerilen boyutlar %s %s veya benzeri.";
+$Definition["The %s to use on the knowledge base chooser."] = "Bilgi tabanı seçicisinde kullanılacak %s";
+$Definition["banner background image"] = "banner arkaplan resmi";
+$Definition["banner content image"] = "banner içerik resmi";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Belli banner resimlerinin üstündeki metni okumak zor olabilir. Okumayı kolaylaştırması adına banner resimlerinin üzerine bir katman eklemek için bu ayarı etkin hale getirin.";
+
+$Definition["This category does not have any articles."] = "Bu kategoride makale yok.";
+
 $Definition["This knowledge base does not have any articles."] = "Bu bilgi tabanında makale yok.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Bu, bu konuşmanın bir kopyası olan bir makale oluşturacak. Sonra bu konuşmadan yeni makaleye bir bağlantı oluşturlacak.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Bu, makalenin bağlantısını kaldırır fakat makalenin kendisini kaldırmaz.";

@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "文章修订";
 $Definition["Article Three"] = "文章三";
 $Definition["Article Two"] = "文章二";
 $Definition["Articles"] = "文章";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "将产品与此子社区关联。<0>使用“管理产品”用户界面</0>替换、添加、编辑或删除产品。";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "把一个产品与该子社区关联起来。使用<0>管理产品用户界面</0>添加、编辑或删除产品。";
 
 $Definition["Back to Home"] = "返回主页";
 $Definition["Back to home page"] = "返回主页";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "知识库";
 $Definition["Knowledge Base Item"] = "知识库项目";
 $Definition["Knowledge Bases"] = "知识库";
 $Definition["Knowledge Base Chooser Title"] = "知识库选择器标题";
+$Definition["Knowledge Base Chooser Description"] = "知识库选择器描述";
 
 $Definition["Layout Center Column Width"] = "布局中心列的宽度";
 $Definition["Load More"] = "加载更多";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = '该
 $Definition['The width of the center column of the primary layout in pixels.'] = '主布局中心列的像素宽度。';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = '本文章在<0/>上的源文件中进行了编辑。编辑本文以更新其翻译并清除此消息。';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = '本文在其源文件中进行了编辑。编辑本文以更新其翻译并清除此消息。';
-$Definition["This category does not have any articles."] = "此类别中没有任何文章。";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "这是一项破坏性操作。您将无法恢复您的草稿。";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "这是一项非破坏性操作。您可以在需要时恢复您的文章。";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "该标题将出现在知识主页上。它必须等于或者少于20字符。";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "此%s将出现在知识主页上。";
+$Definition["title"] = "标题";
+$Definition["description"] = "描述";
+$Definition["It should be %s characters or less."] = "它不能超过%s个字符。";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "欢迎来到我们的知识库。在这里，您将找到常见支持问题的答案。";
+$Definition["This can be overridden on a per knowledge base basis."] = "能够逐个知识库覆写。";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "建议尺寸大约是%s乘以%s或者类似比例。";
+$Definition["The %s to use on the knowledge base chooser."] = "%s将用于知识库选择器。";
+$Definition["banner background image"] = "横幅背景图";
+$Definition["banner content image"] = "横幅内容图片";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "某些横幅图片上的文本可能难以阅读。启用此设置，在横幅图片上添加叠层，让文本较为清晰易读。";
+
+$Definition["This category does not have any articles."] = "此类别中没有任何文章。";
+
 $Definition["This knowledge base does not have any articles."] = "此知识库中没有任何文章。";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "这将创建一篇文章，该文章为此讨论的副本。此讨论随后将链接到该新文章。";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "这将删除文章的链接，但不会删除文章本身。";

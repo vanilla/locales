@@ -24,8 +24,7 @@ $Definition["Article Revisions"] = "Revizuiri articol";
 $Definition["Article Three"] = "Articolul trei";
 $Definition["Article Two"] = "Articolul doi";
 $Definition["Articles"] = "Articole";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Asociază un produs cu această sub comunitate.
-<0>Folosește UI administrează produse</0> pentru a înlocui, adăuga, edita sau șterge produse.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Asociați un produs acestei subcomunități. Folosiți <0>Administrare IU produse</0> pentru a adăuga, modifica sau șterge produse.";
 
 $Definition["Back to Home"] = "Înapoi acasă";
 $Definition["Back to home page"] = "Înapoi la pagina principală";

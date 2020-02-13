@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Artikkelrevisjoner";
 $Definition["Article Three"] = "Tredje artikkel";
 $Definition["Article Two"] = "Andre artikkel";
 $Definition["Articles"] = "Artikler";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Assosier et produkt med dette undersamfunnet. <0>Bruk grensesnittet for Administrer produkter</0> for å erstatte, legge til, redigere eller slette produkter.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Assosier et produkt med dette undersamfunnet. Bruk <0>Administrer produkter-UI'en</0> for å legge til, endre eller slette produkter.";
 
 $Definition["Back to Home"] = "Tilbake til hjemmeside";
 $Definition["Back to home page"] = "Tilbake til hjemmeside";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "Denne %s vil fr
 $Definition["title"] = "tittel";
 $Definition["description"] = "beskrivelse";
 $Definition["It should be %s characters or less."] = "Det skal være %s karakterer eller mindre.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Velkommen til kunnskapsbasen vår. Her vil du finne svar på vanlige supporttema.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Velkommen til kunnskapsbasen vår. Her finner du svarene på vanlige støttespørsmål.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Dette kan overskrives per kunnskapsbase.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Anbefalte dimensjoner er omtrent %s X %s eller tilsvarende størrelsesforhold.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s til å bruke på kunnskapsbasevelgeren.";

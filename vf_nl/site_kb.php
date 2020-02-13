@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Artikel Revisies";
 $Definition["Article Three"] = "Artikel Drie";
 $Definition["Article Two"] = "Artikel twee";
 $Definition["Articles"] = "Artikelen";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Koppel een product aan deze subgemeenschap. <0> Gebruik de gebruikersinterface voor producten beheren </0> om producten toe te voegen, te bewerken of te verwijderen.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Koppel een product aan deze subcommunity. Gebruik de <0> Gebruikersomgeving Producten Beheren </0> om producten toe te voegen, te bewerken of te verwijderen.";
 
 $Definition["Back to Home"] = "Terug naar huis";
 $Definition["Back to home page"] = "Terug naar startpagina";
@@ -167,7 +167,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "Deze %s verschi
 $Definition["title"] = "titel";
 $Definition["description"] = "omschrijving";
 $Definition["It should be %s characters or less."] = "Het moet %s karakters of minder zijn.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Welkom bij onze kennisbasis. Hier vind je antwoorden op veel voorkomende problemen.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Welkom bij onze kennisbank. Hier vindt je antwoorden op veelvoorkomende ondersteuningsproblemen.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Dit kan per kennisbasis overschreven worden.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Aanbevolen afmetingen zijn ongeveer %s bij %s of een vergelijkbare verhouding.";
 $Definition["The %s to use on the knowledge base chooser."] = "De %s om te gebruiken op de kennisbasiskiezer.";

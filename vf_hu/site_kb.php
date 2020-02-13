@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Cikkjavítások";
 $Definition["Article Three"] = "Harmadik Cikk";
 $Definition["Article Two"] = "Második Cikk";
 $Definition["Articles"] = "Cikkek";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Társíts egy terméket ehhez az közösségrészhez. <0>Használd a Termékek Kezelése UI-t<0> a termékek cseréléséhez, hozzáadásához, módosításához vagy törléséhez.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Társítson egy terméket ehhez a szubközösséghez. Használja a <0>Termékek kezelése felhasználói felületet</0> termékek hozzáadásához, szerkesztéséhez vagy törléséhez.";
 
 $Definition["Back to Home"] = "Vissza a főoldalra";
 $Definition["Back to home page"] = "Vissza a főoldalra";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "%s megjelenik a
 $Definition["title"] = "cím";
 $Definition["description"] = "ismertető";
 $Definition["It should be %s characters or less."] = "%s vagy kevesebb karakter lehet.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Üdvözöljük tudásbázisunkban. Itt választ talál a gyakori támogatási problémákra.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Üdvözöljük a Tudásbázisban. Itt megtalálja a választ a leggyakoribb támogatói problémákra.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Ez tudásbázis alapján felülírható.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "A javasolt méret %sx%s vagy hasonló arányok.";
 $Definition["The %s to use on the knowledge base chooser."] = "A tudásbázis-választón használandó %s.";

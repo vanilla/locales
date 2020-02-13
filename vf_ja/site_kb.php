@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "記事の改訂";
 $Definition["Article Three"] = "記事3";
 $Definition["Article Two"] = "記事2";
 $Definition["Articles"] = "記事";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "製品をこのサブコミュニティに関連付けます。 <0>製品の管理UIを使用して</0>、製品の追加、編集、削除を置き換えます。";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "製品をこのサブコミュニティに関連付けてください。 <0>製品の管理UI</0>を使って、製品の追加、編集、削除を行えます。";
 
 $Definition["Back to Home"] = "ホームに戻る";
 $Definition["Back to home page"] = "ホームページに戻る";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "この%sは、�
 $Definition["title"] = "タイトル";
 $Definition["description"] = "説明";
 $Definition["It should be %s characters or less."] = "%s文字以下にする必要があります。";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "当社のナレッジベースへようこそ。ここで、一般的なサポートの問題に対する回答が見つかるはずです。";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "当社のナレッジベースへようこそ。一般的なサポートの問題の解決策が見つかります。";
 $Definition["This can be overridden on a per knowledge base basis."] = "これは、ナレッジベースごとに上書きできます。";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "推奨寸法は、約%sｘ%sまたは同様の比率です。";
 $Definition["The %s to use on the knowledge base chooser."] = "ナレッジベースチューザーで使用する%s。";

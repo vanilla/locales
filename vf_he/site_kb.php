@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "תיקוני מאמר";
 $Definition["Article Three"] = "מאמר מס' שלוש";
 $Definition["Article Two"] = "מאמר שתיים";
 $Definition["Articles"] = "מאמרים";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "שייך/י מוצר לתת-קהילה זו. <0>השתמש/י בממשק ניהול המוצרים </0> להחלפה, הוספה, עריכה או מחיקה של מוצרים.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "שייך/י מוצר לתת-קהילה זו. השתמש/י ב- <0>Manage Products UI</0> להוספה, עריכה או מחיקה של מוצרים.";
 
 $Definition["Back to Home"] = "חזרה לדף הבית";
 $Definition["Back to home page"] = "בחזרה לדף הבית";

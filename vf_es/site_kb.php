@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Revisiones de artículos";
 $Definition["Article Three"] = "Artículo tres";
 $Definition["Article Two"] = "Artículo dos";
 $Definition["Articles"] = "Artículos";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Asociar un producto con esta Subcomunidad. <0>Utilizar la interfaz de Usuario de Gestionar productos UI</0> para sustituir, agregar, editar o eliminar productos.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Asocia un producto a esta subcomunidad. Utiliza la <0>IU del gestor de productos<0> para añadir, editar o eliminar productos.";
 
 $Definition["Back to Home"] = "Volver a Inicio";
 $Definition["Back to home page"] = "Volver a la página de inicio";
@@ -87,6 +87,7 @@ $Definition["Knowledge Base"] = "Base de conocimiento";
 $Definition["Knowledge Base Item"] = "Elemento de base de conocimiento";
 $Definition["Knowledge Bases"] = "Bases de conocimiento";
 $Definition["Knowledge Base Chooser Title"] = "Título del selector de la base de datos de conocimientos";
+$Definition["Knowledge Base Chooser Description"] = "Descripción del selector de la base de conocimiento";
 
 $Definition["Layout Center Column Width"] = "Anchura de columna del centro del diseño";
 $Definition["Load More"] = "Cargar más";
@@ -156,10 +157,25 @@ $Definition['The article this draft is based on is no longer available.'] = 'El 
 $Definition['The width of the center column of the primary layout in pixels.'] = 'El ancho de la columna central del primer diseño en píxeles.';
 $Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Este artículo se editó en su idioma de origen en <0/>. Edite este artículo para actualizar su traducción y borrar este mensaje.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Este artículo se editó en su idioma de origen. Edite este artículo para actualizar su traducción y borrar este mensaje.';
-$Definition["This category does not have any articles."] = "Esta categoría no contiene artículos.";
+
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Esta acción es definitiva. No podrás recuperar el borrador.";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Esta es una acción reversible. Podrás restaurar tu artículo si lo deseas.";
-$Definition["This title will appear on the Knowledge homepage. It should be 20 characters or less."] = "Este título aparecerá en la página de inicio de Conocimientos. Debe tener 20 caracteres o menos.";
+
+// General Appearance
+$Definition["This %s will appear on the Knowledge homepage."] = "Este %s se mostrará en la página de inicio de la base de conocimiento. ";
+$Definition["title"] = "título";
+$Definition["description"] = "descripción";
+$Definition["It should be %s characters or less."] = "Debe tener %s caracteres o menos.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Bienvenido a nuestra base de conocimiento. Aquí encontrarás respuesta a los problemas más frecuentes.";
+$Definition["This can be overridden on a per knowledge base basis."] = "Esto puede anularse en función de la base de conocimiento.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Las dimensiones recomendadas son de aproximadamente %s por %s o una relación similar.";
+$Definition["The %s to use on the knowledge base chooser."] = "El %s para utilizar en el selector de la base de conocimiento.";
+$Definition["banner background image"] = "imagen de fondo del anuncio";
+$Definition["banner content image"] = "imagen de contenido del anuncio";
+$Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "A veces es difícil leer el texto de la parte superior de las imágenes de un anuncio. Activa esta opción para añadir una superposición a las imágenes y facilitar su lectura.";
+
+$Definition["This category does not have any articles."] = "Esta categoría no contiene artículos.";
+
 $Definition["This knowledge base does not have any articles."] = "Esta base de conocimiento no contiene ningún artículo.";
 $Definition["This will create an article that is a copy of this discussion. The discussion will then be linked to the new article."] = "Se creará un artículo copia de esta discusión. Después se enlazará la discusión al artículo nuevo.";
 $Definition["This will remove the link to the article, but will not remove the article itself."] = "Esto eliminará el enlace al artículo, pero no el artículo en sí.";

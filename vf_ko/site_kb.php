@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "아티클 수정";
 $Definition["Article Three"] = "아티클 3";
 $Definition["Article Two"] = "아티클 2";
 $Definition["Articles"] = "아티클";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "이 하위 커뮤니티로 제품을 연결하세요. <0>제품 관리 UI를 사용하여</0> 제품을 교체 추가, 편집 또는 삭제하세요.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "상품을 이 서브커뮤니티와 연결하세요. <0>상품 관리 UI</0>를 사용하셔서 상품을 추가, 수정 또는 삭제하세요.";
 
 $Definition["Back to Home"] = "홈으로 돌아가기";
 $Definition["Back to home page"] = "홈페이지로 돌아가기";
@@ -168,7 +168,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "이 %s은/는 �
 $Definition["title"] = "제목";
 $Definition["description"] = "설명";
 $Definition["It should be %s characters or less."] = "%s자 이하여야 합니다.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "저희 지식 베이스에 오신 것을 환영합니다. 여기서 일반적인 지원 문제에 대한 답을 찾으실 수 있습니다.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "지식 베이스에 오신 것을 환영합니다. 여기에서 일반적인 지원 문제에 대한 답을 찾으실 수 있습니다.";
 $Definition["This can be overridden on a per knowledge base basis."] = "이것은 지식 베이스 기반에 따라 재정의될 수 있습니다.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "권장 치수는 %s 또는 유사한 비율로 대략 %s입니다.";
 $Definition["The %s to use on the knowledge base chooser."] = "지식 베이스 선택 도구에서 사용할 %s.";

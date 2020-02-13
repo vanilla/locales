@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Αναθεωρήσεις Άρθρου";
 $Definition["Article Three"] = "Άρθρο Τρία";
 $Definition["Article Two"] = "Άρθρο Δύο";
 $Definition["Articles"] = "Άρθρα";
-$Definition["Assosciate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Συνδέστε ένα προϊόν με αυτήν την Υποκοινότητα. <0>Χρησιμοποιήστε το περιβάλλον χρήστη Διαχείρισης Προϊόντων</0> για να αντικαταστήσετε, προσθέσετε, επεξεργασείτε ή διαγράψετε προϊόντα.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Συσχετίστε ένα προϊόν με αυτήν την υπο-κοινότητα.  Χρησιμοποιήστε το <0>UI Διαχείρισης Προϊόντων</0> για προσθήκη, επεξεργασία ή διαγραφή προϊόντων.";
 
 $Definition["Back to Home"] = "Πίσω στην Αρχική";
 $Definition["Back to home page"] = "Πίσω στην αρχική σελίδα";
@@ -166,7 +166,7 @@ $Definition["This %s will appear on the Knowledge homepage."] = "Αυτό το %
 $Definition["title"] = "τίτλος";
 $Definition["description"] = "περιγραφή";
 $Definition["It should be %s characters or less."] = "Θα πρέπει να είναι %s χαρακτήρες ή λιγότερο.";
-$Definition["KB.GeneralApperance.Description.Placeholder"] = "Καλώς ήρθατε στη Βάση Γνώσης μας. Εδώ θα βρείτε απαντήσεις σε κοινά θέματα υποστήριξης.";
+$Definition["KB.GeneralApperance.Description.Placeholder"] = "Καλώς ήλθατε στη Γνωσιακή Βάση μας. Εδώ θα βρείτε απαντήσεις σε συνήθη προβλήματα υποστήριξης.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Αυτό μπορεί να αντικατασταθεί με βάση τη βάση γνώσεων.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Οι συνιστώμενες διαστάσεις είναι περίπου %s επί %s ή παρόμοια αναλογία.";
 $Definition["The %s to use on the knowledge base chooser."] = "Το %s να χρησιμοποιηθεί στον επιλογέα βάσης γνώσεων.";
