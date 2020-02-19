@@ -18,6 +18,10 @@ $Definition['Alert users if they click a link in a post that will lead them away
     'Alert users if they click a link in a post that will lead them away from the forum. 
     Users will not be warned when following links that match a Trusted Domain';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
+$Definition['Allow links to be tranformed into embedded representations in discussions and comments. 
+    For example, a YouTube link will transform into an embedded video.'] =
+    'Allow links to be tranformed into embedded representations in discussions and comments. 
+    For example, a YouTube link will transform into an embedded video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
@@ -36,6 +40,7 @@ $Definition['Changes will apply to newly uploaded avatars only.'] = 'Changes wil
 $Definition['Change the sizes that avatar images are saved at.'] = 'Change the sizes that avatar images are saved at.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.';
+$Definition['Check out our %s'] = 'Check out our %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choose a role that orphaned users will be assigned to:';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
@@ -98,6 +103,8 @@ $Definition['Here are the ranks that users can achieve on your site. You can cus
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
     'If enabled, the full content of posts will be sent in email notifications to users.';
+$Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
+    'If you are new to HTML and/or CSS, here are some tutorials to get you started:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
 $Definition['If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. 
     If you aren\'t using embedding then we recommend leaving this setting off.'] =
@@ -127,6 +134,8 @@ $Definition['Manage Routes'] = 'Manage Routes';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Mobile themes allow you to change the look and feel of your site on smaller devices.';
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Nested categories deeper than this depth will be placed in a comma-delimited list.';
@@ -161,10 +170,13 @@ $Definition['Security.Hsts.HTTPSWarning'] = 'Warning: Only enable this feature i
 $Definition['Security.Hsts.IncludeSubDomains'] = 'When enabled, this rule applies to all of your site\'s subdomains as well.';
 $Definition['Security.Hsts.MaxAgeRecommendation'] = 'We recommend starting with a max age of 1 week and then increasing it to 1 month then 1 year once you see your site works as expected.';
 $Definition['Security.Hsts.SubmitWarning'] = 'Warning: It\'s great to support HSTS preloading as a best practice. However, you must submit your site to hstspreload.org to ensure that it is successfully pre-loaded (i.e. to get the full protection for the intended configuration).';
+$Definition['Select the default type for this role, if any.'] = 'Select the default type for this role, if any.';
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['Some browsers support a color for the address bar. Mobile only.'] = 'Some browsers support a color for the address bar. Mobile only.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.';
 $Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
     'Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Specify a partial or full match when creating a ban.';
@@ -202,11 +214,18 @@ $Definition['The touch icon appears when you bookmark a website on the homescree
 $Definition['The user table was not in the import file.'] = 'The user table was not in the import file.';
 $Definition['The Vanilla 2 Exporter'] = 'The Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
+$Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
+    'They work just like regular themes. Once one has been added to the themes folder, you can enable it here.';
 $Definition['This is the administrative dashboard for your new community.'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the side. From there you can configure how your community works. <b>By default, only users in the "Administrator" role can see this part of your community.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.'] =
     'This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
-$Definition['This setting loads the page before executing Javascript which can improve your SEO.'] = 'This setting loads the page before executing Javascript which can improve your SEO.';
+$Definition['This setting loads the page before executing Javascript which can improve your SEO.
+    <br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] =
+    'This setting loads the page before executing Javascript which can improve your SEO.
+    <br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>';
+$Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
+    'This role is personal info. Only users with permission to view personal info will see it.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Too many addresses! We\'ll send up to %s addresses at once.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
