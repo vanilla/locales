@@ -12,6 +12,7 @@ $Definition['About Vanilla Statistics'] = 'About Vanilla Statistics';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'Add limits to image upload dimensions in discussions and comments.';
+$Definition['AddressBarColorDescription'] = 'Some browsers support a color for the address bar. Mobile only.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Alert users if they click a link in a post that will lead them away from the forum. 
     Users will not be warned when following links that match a Trusted Domain'] =
@@ -134,6 +135,8 @@ $Definition['Manage Routes'] = 'Manage Routes';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
+$Definition['MobileLogoDescription'] =
+    'The mobile banner logo appears at the top of your site. Some themes may not display this logo.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobile themes allow you to change the look and feel of your site on smaller devices.';
 
@@ -144,6 +147,7 @@ $Definition['Not getting what you expect when you preview your theme?'] = 'Not g
 $Definition['Notify me when people comment on my addons.'] = 'Notify me when people comment on my addons.';
 
 $Definition['Once enabled, only members will see inside your community.'] = 'Once enabled, only members will see inside your community.';
+$Definition['OrgDescription'] = 'Your organization name is used for SEO microdata and JSON+LD';
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Overridden views or themehooks can have unintended side effects and are not previewed.';
 
@@ -173,8 +177,9 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Warning: It\'s great to support HS
 $Definition['Select the default type for this role, if any.'] = 'Select the default type for this role, if any.';
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
+$Definition['ShareImageDescription'] = 'When someone shares a link from your site we try and grab an image from the page. 
+    If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
-$Definition['Some browsers support a color for the address bar. Mobile only.'] = 'Some browsers support a color for the address bar. Mobile only.';
 $Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
     'Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.';
 $Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
@@ -201,16 +206,10 @@ $Definition['The import file is not in the correct format.'] = 'The import file 
 $Definition['The location of the jsonp formatted authentication data.'] = 'The location of the jsonp formatted authentication data.';
 $Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Theme preview is limited to displaying the theme\'s template and css.';
-$Definition['The mobile banner logo appears at the top of your site. Some themes may not display this logo.'] =
-    'The mobile banner logo appears at the top of your site. Some themes may not display this logo.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'The Password Authenticator does not have any custom configuration options. ';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'There are no database structure changes required. There may, however, be data changes.';
 $Definition['The route was saved successfully.'] = 'The route was saved successfully.';
 $Definition['The text of the pocket.'] = 'Enter the text of the pocket. This will be output exactly as you type it so make sure that you enter valid HTML.';
-$Definition['The touch icon appears when you bookmark a website on the homescreen of an Apple device. These are usually 152 pixels. 
-    Apple adds rounded corners and lighting effect automatically.'] =
-    'The touch icon appears when you bookmark a website on the homescreen of an Apple device. These are usually 152 pixels. 
-    Apple adds rounded corners and lighting effect automatically.';
 $Definition['The user table was not in the import file.'] = 'The user table was not in the import file.';
 $Definition['The Vanilla 2 Exporter'] = 'The Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
@@ -229,6 +228,8 @@ $Definition['This role is personal info. Only users with permission to view pers
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Too many addresses! We\'ll send up to %s addresses at once.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
+$Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark a website on the homescreen of an Apple device. 
+    These are usually 152 pixels. Apple adds rounded corners and lighting effect automatically.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Use the button at the top of the page to create a ban rule.';
@@ -252,10 +253,6 @@ If you are importing a very large file (ex. over 200,000 comments) you might wan
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We recommend mostly positive reactions to encourage participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
-$Definition['When someone shares a link from your site we try and grab an image from the page. 
-    If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] =
-    'When someone shares a link from your site we try and grab an image from the page. 
-    If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.';
 $Definition['Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.'] =
     'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
 
@@ -268,4 +265,3 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.'] =
     'You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
-$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Your organization name is used for SEO microdata and JSON+LD';
