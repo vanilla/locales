@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Example: Appearance";
 $Definition["Filter"] = "Filter";
 $Definition["Filter Results"] = "Filter Results";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Foreground colors are used mostly used for text and icons. This should contrast with the background color.";
+$Definition["Feature Article"] = "Recommend Article";
+$Definition["Featured Article"] = "Recommended Article";
+$Definition["Featured Articles"] = "Recommended Articles";
 
 $Definition["General Appearance"] = "General Appearance";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order.";
