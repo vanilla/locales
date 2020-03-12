@@ -3,18 +3,19 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Vorsicht!</strong> Das Löschen von Rollen kann zur Folge haben, dass manche Benutzer keinen Zugang mehr zum Forum haben.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Aufgepasst!</strong> Verschiebt man Diskussionen in Ersatz-Kategorien kann es passieren, dass sie nicht mehr angezeigt werden, weil die Zielkategorie andere Rechte hat als die gelöschte Kategorie.';
 
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Eine Rolle mit dem Standardtyp "unbestätigt" ist erforderlich, um die E-Mail-Bestätigung zu verwenden.';
 $Definition['About.DisableStatistics'] = 'Falls du die Datenübermittlung aus Unternehmensgründen abschalten musst, kannst du das tun indem du diesen Code in der Konfigurationsdatei der Installation hinzufügst: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Es ist absolut notwendig für die Erhaltung dieser kostenlosen, open-source Software, dass wir akkurate Messungen zur Verbreitung und Effektivität von Vanilla erhalten. Daher bitten wir darum, die Datenübermittlung nicht auszuschalten.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla kann als "drop-in" Ersatz für deine Standardkommentarfunktion deines Blogs genutzt werden. Es kann genutzt werden, um Kommentare auf jeder Webseite hinzuzufügen.';
 $Definition['AboutEmbedding'] = 'Embedding erlaubt es allen oder Teilen der Community, in andere Anwendungen und Webseiten integriert zu werden.';
 $Definition['About Vanilla Statistics'] = 'Über Vanilla-Statistik';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Greifen Sie auf Ihr Community-Forum zu, indem Sie oben den Link „Seite besuchen“ anklicken oder <a href={/,url}>hier klicken</a>. Das Community-Forum ist das, was all Ihre Nutzer und Kunden sehen, wenn sie <a href="{/,url,domain}">{/,url,domain}</a> besuchen.';
+$Definition['Add limits to image upload dimensions in discussions and comments.'] = 'Grenzen für die Maße von Bilder-Uploads in Diskussionen und Kommentaren festsetzen.';
 $Definition['AddonProblems'] = '<h2>Probleme?</h2><p>Wenn etwas mit einem Addon schief geht und Sie es Ihre Seite nicht verwenden können, können Sie das Addon manuell abschalten durch Bearbeitung:</p>%s ';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Alle Kategorien werden gelistet mit den jeweils fünf neuesten Diskussionen darunter';
 $Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Obwohl die Einladung erfolgreich erstellt wurde, konnte die E-Mail nicht versandt werden. Der Server meldet: %s';
 $Definition['ApplicationHelp'] = 'Applikationen erlauben es Ihnen, große Gruppen von Funktionen zu Ihrer Seite hinzuzufügen.<br />Sobald eine Applikation zu Ihrem %s Ordner hinzugefügt wurde, können Sie sie hier an- und ausschalten.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Bist du dir sicher, dass du den korrekten Namen des Datenbank-Hosts eingegeben hast? Vielleicht hast du dich vertippt? Die Datenbank antwortete: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Eine Rolle mit dem Standardtyp "unbestätigt" ist erforderlich, um die E-Mail-Bestätigung zu verwenden.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Durch Drücken des unten stehenden Buttons wird das Konto von %s unwiederbringlich gelöscht.';
 
@@ -90,8 +91,10 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'W
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Wenn du Dinge als kein Spam markierst, werden sie wieder im Forum angezeigt.';
 $Definition['Messages can appear anywhere in your application.'] = 'Nachrichten können überall in der Anwendung angezeigt werden, um die Nutzer bspw. über Neuigkeiten zu informieren. Nutze diese Seite, um sie per drag and drop zu verwalten.';
 
-$Definition['No unconfirmed role available for email confirmation.'] = 'Die Website benötigt eine Rolle mit dem Standardtyp "unbestätigt", um die E-Mail-Bestätigung zu verwenden. Bitte fügen Sie einen hinzu, um diese Einstellung zu aktivieren.';
 $Definition['Notify me when people comment on my addons.'] = 'Benachrichtige mich, wenn jemand meine Addons kommentiert.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Die Website benötigt eine Rolle mit dem Standardtyp "unbestätigt", um die E-Mail-Bestätigung zu verwenden. Bitte fügen Sie einen hinzu, um diese Einstellung zu aktivieren.';
+
+$Definition['OrgDescription'] = 'Der Name Ihrer Organisation wird für SEO-Mikrodaten und JSON+LD benutzt';
 
 $Definition['Please choose an authenticator to configure.'] = 'Wähle ein Authentifizierungs-Plugin zum Konfigurieren.';
 $Definition['PluginHelp'] = 'Plugins ermöglichen es Ihnen, weitere Funktionalitäten zu Ihrer Seite hinzuzufügen. <br />Wenn ein Plugin zu Ihrem %s Ordner hinzugefügt wurde, können Sie es hier ein- oder ausschalten. ';
@@ -149,6 +152,7 @@ $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Zu
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Um Missbrauch zu vermeiden verstecken manche Tools automatisch Inhalt. Dieser wird hier gelistet bis er durch einen Moderator freigegeben wurde.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect erlaubt es Nutzern, sich mit ihrem Twitter account im Forum anzumelden. <b>Die Anwendung muss bei Twitter registriert sein, damit dieses Plugin funktioniert.</b>';
 
+$Definition['Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".'] = 'Nutzen Sie die folgende Option, um Anführungszeichen für den Rich Editor zu aktivieren. Dies findet nur dann Anwendung, falls das Standard-Formatierungsprogramm "Rich" ist.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Benutze das WordPress Plugin, um Vanilla Kommentare auf deinem Blog zu verwenden; oder benutze den universellen Code, um Vanilla Kommentare auf jeder beliebigen Webseite einzubinden.';
 
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla-Export: %s, Quelle: %s';
@@ -169,4 +173,3 @@ $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Sie k
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Du kannst das Forum mit mehreren Seiten verbinden, die jsConnect unterstützen.';
 $Definition['You can place files in your /uploads folder.'] = 'Wenn Ihre Datei zu groß für einen direkten Upload auf diese Seite ist, können Sie sie in Ihrem /uploads Ordner platzieren. Stellen Sie sicher, dass der Dateiname mit <b>export</b> beginnt und mit einer der folgenden Endungen <b>.txt, .gz</b> endet. ';
 $Definition['You must select a file to import.'] = 'Du musst eine Import-Datei auswählen.';
-$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Der Name Ihrer Organisation wird für SEO-Mikrodaten und JSON+LD benutzt';
