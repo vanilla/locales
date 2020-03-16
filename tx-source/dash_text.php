@@ -14,18 +14,12 @@ $Definition['Add limits to image upload dimensions in discussions and comments.'
     'Add limits to image upload dimensions in discussions and comments.';
 $Definition['AddressBarColorDescription'] = 'Some browsers support a color for the address bar. Mobile only.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
-$Definition['Alert users if they click a link in a post that will lead them away from the forum. 
-    Users will not be warned when following links that match a Trusted Domain'] =
-    'Alert users if they click a link in a post that will lead them away from the forum. 
-    Users will not be warned when following links that match a Trusted Domain';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
-$Definition['Allow links to be tranformed into embedded representations in discussions and comments. 
-    For example, a YouTube link will transform into an embedded video.'] =
-    'Allow links to be tranformed into embedded representations in discussions and comments. 
+$Definition['Embedding description'] = 'Allow links to be tranformed into embedded representations in discussions and comments. 
     For example, a YouTube link will transform into an embedded video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.';
-$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
+$Definition['Invitation email error description'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatars will be scaled down if they exceed this height.';
@@ -52,6 +46,8 @@ $Definition['Continue Import'] = 'Continue Import';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Could not parse import file. The problem is near line %s.';
 $Definition['Create a localization CSV'] = 'Create a localization CSV';
 
+$Definition['Defer Javascript Loading description'] = 'This setting loads the page before executing Javascript which can improve your SEO.
+    <br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>';
 $Definition['Define who can upload files on the Roles & Permissions page.'] = 'Define who can upload and manage files on the <a href="%s">Roles & Permissions</a> page.';
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Define your forum homepage, upload your logo, and more...';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'Deleting a role can result in users not having access to the application.';
@@ -60,13 +56,13 @@ $Definition['Disable Google Sign In'] = 'Disable Google Sign In';
 $Definition['Disable OpenID'] = 'Disable OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Don\'t embed your forum admin dashboard (pop it out to full-screen)';
-$Definition['Don\'t use too many reactions. You don\'t want to give your users information overload.'] =
-    'Don\'t use too many reactions. You don\'t want to give your users information overload.';
+$Definition['Don\'t use too many reactions.'] = 'Don\'t use too many reactions. You don\'t want to give your users information overload.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
-
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Edit Route'] = 'Edit Route';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Embed your community forum into your website to increase engagement...';
+$Definition['Enable embedding description'] = 'If you want to embed your forum or use Vanilla\'s comments in your blog 
+    then you need to enable embedding. If you aren\'t using embedding then we recommend leaving this setting off.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
@@ -76,6 +72,8 @@ $Definition['Enter the connection settings for your sphinx server below.'] = 'En
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Everyone who signs up for your community gets a public profile page where they can upload a picture of themselves, manage their profile settings, and track cool things going on in the community. You should <a href="{/profile,url}">customize your profile now</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
+$Definition['External link alert details'] = 'Alert users if they click a link in a post that will lead them away from the forum. 
+    Users will not be warned when following links that match a Trusted Domain';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>';
@@ -98,19 +96,14 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assig
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.';
 $Definition['Here are all of the reactions you can use on your site.'] = 'Here are all of the reactions you can use on your site.';
-$Definition['Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.'] =
+$Definition['Here are the ranks that users can achieve on your site.'] =
     'Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.';
-
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
     'If enabled, the full content of posts will be sent in email notifications to users.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
     'If you are new to HTML and/or CSS, here are some tutorials to get you started:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
-$Definition['If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. 
-    If you aren\'t using embedding then we recommend leaving this setting off.'] =
-    'If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. 
-    If you aren\'t using embedding then we recommend leaving this setting off.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
 $Definition['Internationalization & Localization'] = 'Internationalization & Localization';
@@ -119,8 +112,6 @@ $Definition['It appears as though the database you specified does not exist yet.
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.';
-$Definition['It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.'] =
-    'It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 
@@ -162,10 +153,16 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start G
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
 $Definition['Realtime progress bars: %s'] = 'Realtime progress bars: %s';
+$Definition['Recommendations for choosing reactions'] = 'Which reactions you use really depends on your community,
+ but we recommend keeping a couple of points in mind.';
+$Definition['Recommend special ranks for admins and mods.'] =
+    'It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.';
 $Definition['Requires “Flag” reaction permission.'] = 'Requires “Flag” reaction permission.';
 $Definition['Requires “Negative” reaction permission.'] = 'Requires “Negative” reaction permission.';
 $Definition['Requires “Positive” reaction permission.'] = 'Requires “Positive” reaction permission.';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. 
+    his will only apply if the default formatter is "Rich".';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
@@ -217,12 +214,8 @@ $Definition['They work just like regular themes. Once one has been added to the 
     'They work just like regular themes. Once one has been added to the themes folder, you can enable it here.';
 $Definition['This is the administrative dashboard for your new community.'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the side. From there you can configure how your community works. <b>By default, only users in the "Administrator" role can see this part of your community.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
-$Definition['This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.'] =
-    'This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
-$Definition['This setting loads the page before executing Javascript which can improve your SEO.
-    <br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] =
-    'This setting loads the page before executing Javascript which can improve your SEO.
-    <br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>';
+$Definition['This page lists the endpoints of your API.'] = 'This page lists the endpoints of your API. 
+    Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
     'This role is personal info. Only users with permission to view personal info will see it.';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
@@ -233,8 +226,6 @@ $Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark 
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Use the button at the top of the page to create a ban rule.';
-$Definition['Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".'] =
-    'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Users may sign into your site using their Twitter account.';
 
@@ -253,15 +244,12 @@ If you are importing a very large file (ex. over 200,000 comments) you might wan
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We recommend mostly positive reactions to encourage participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
-$Definition['Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.'] =
-    'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
-
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'You can ban IP addresses, email addresses and usernames.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'You can choose from one of the different styles this theme offers.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'You can connect to multiple sites that support jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'If your file is too large to upload directly to this page you can place it in your /uploads folder. Make sure the filename begins with the word <b>export</b> and ends with one of <b>.txt, .gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'You can specify a minimum post length to discourage short posts.';
-$Definition['You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.'] =
-    'You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.';
+$Definition['Recommend starting with five ranks.'] = 'You don\'t want to have too many ranks. We recommend starting with five. 
+    You can add more if your community is really large.';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
