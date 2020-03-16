@@ -42,7 +42,7 @@ $Definition['a Badge'] = 'a Badge';
 $Definition['Abilites'] = 'Abilities';
 $Definition['Abilities'] = 'Abilities';
 $Definition['About %s'] = 'About %s';
-$Definition['ABOUT THEME PREVIEW'] = 'ABOUT THEME PREVIEW';
+$Definition['About Theme Preview'] = 'About Theme Preview';
 $Definition['Above Main Content'] = 'Above Main Content';
 $Definition['Account Sync Failed'] = 'Account Sync Failed';
 $Definition['Action'] = 'Action';
@@ -225,7 +225,7 @@ $Definition['CSS'] = 'CSS';
 $Definition['CssClass'] = 'CSS Class';
 $Definition['Current Authenticator'] = 'Current Authenticator';
 $Definition['Current File:'] = 'Current File:';
-$Definition['CURRENT MOBILE THEME'] = 'CURRENT MOBILE THEME';
+$Definition['Current Mobile Theme'] = 'Current Mobile Theme';
 $Definition['Current Theme'] = 'Current Theme';
 
 $Definition['Database Structure Upgrades'] = 'Database Structure Upgrades';
