@@ -15,8 +15,6 @@ $Definition['Add limits to image upload dimensions in discussions and comments.'
 $Definition['AddressBarColorDescription'] = 'Some browsers support a color for the address bar. Mobile only.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
-$Definition['Embedding description'] = 'Allow links to be tranformed into embedded representations in discussions and comments. 
-    For example, a YouTube link will transform into an embedded video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.';
 $Definition['Invitation email error description'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
@@ -60,6 +58,8 @@ $Definition['Don\'t use too many reactions.'] = 'Don\'t use too many reactions. 
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Edit Route'] = 'Edit Route';
+$Definition['Embedding description'] = 'Allow links to be tranformed into embedded representations in discussions and comments. 
+    For example, a YouTube link will transform into an embedded video.';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Embed your community forum into your website to increase engagement...';
 $Definition['Enable embedding description'] = 'If you want to embed your forum or use Vanilla\'s comments in your blog 
     then you need to enable embedding. If you aren\'t using embedding then we recommend leaving this setting off.';
