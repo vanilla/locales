@@ -151,8 +151,6 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start G
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
 $Definition['Realtime progress bars: %s'] = 'Realtime progress bars: %s';
-$Definition['Recommendations for choosing reactions'] = 'Which reactions you use really depends on your community,
- but we recommend keeping a couple of points in mind.';
 $Definition['Recommend special ranks for admins and mods.'] =
     'It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.';
 $Definition['Recommend starting with five ranks.'] = 'You don\'t want to have too many ranks. We recommend starting with five. 
@@ -218,7 +216,7 @@ $Definition['This page lists the endpoints of your API.'] = 'This page lists the
     Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
     'This role is personal info. Only users with permission to view personal info will see it.';
-$Definition['This setting loads the page before executing Javascript'] = 'This setting loads the page before executing 
+$Definition['This setting loads the page before executing Javascript.'] = 'This setting loads the page before executing 
     Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong> ';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Too many addresses! We\'ll send up to %s addresses at once.';
@@ -246,6 +244,9 @@ If you are importing a very large file (ex. over 200,000 comments) you might wan
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We recommend mostly positive reactions to encourage participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
+$Definition['Which reactions you use really depends on your community.'] = 'Which reactions you use really depends on your 
+    community, but we recommend keeping a couple of points in mind.';
+
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'You can ban IP addresses, email addresses and usernames.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'You can choose from one of the different styles this theme offers.';
