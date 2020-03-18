@@ -14,14 +14,14 @@ $Definition['Add limits to image upload dimensions in discussions and comments.'
     'Add limits to image upload dimensions in discussions and comments.';
 $Definition['AddressBarColorDescription'] = 'Some browsers support a color for the address bar. Mobile only.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
-$Definition['Alert users if they click a link in a post that will lead them away from the forum. 
+$Definition['Alert users if they click a link in a post that will lead them away from the forum.
     Users will not be warned when following links that match a Trusted Domain'] =
-    'Alert users if they click a link in a post that will lead them away from the forum. 
+    'Alert users if they click a link in a post that will lead them away from the forum.
     Users will not be warned when following links that match a Trusted Domain';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
-$Definition['Allow links to be tranformed into embedded representations in discussions and comments. 
+$Definition['Allow links to be tranformed into embedded representations in discussions and comments.
     For example, a YouTube link will transform into an embedded video.'] =
-    'Allow links to be tranformed into embedded representations in discussions and comments. 
+    'Allow links to be tranformed into embedded representations in discussions and comments.
     For example, a YouTube link will transform into an embedded video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.';
@@ -107,9 +107,9 @@ $Definition['If enabled, the full content of posts will be sent in email notific
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
     'If you are new to HTML and/or CSS, here are some tutorials to get you started:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
-$Definition['If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. 
+$Definition['If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding.
     If you aren\'t using embedding then we recommend leaving this setting off.'] =
-    'If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. 
+    'If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding.
     If you aren\'t using embedding then we recommend leaving this setting off.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
@@ -177,7 +177,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Warning: It\'s great to support HS
 $Definition['Select the default type for this role, if any.'] = 'Select the default type for this role, if any.';
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
-$Definition['ShareImageDescription'] = 'When someone shares a link from your site we try and grab an image from the page. 
+$Definition['ShareImageDescription'] = 'When someone shares a link from your site we try and grab an image from the page.
     If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
@@ -228,7 +228,7 @@ $Definition['This role is personal info. Only users with permission to view pers
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Too many addresses! We\'ll send up to %s addresses at once.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
-$Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark a website on the homescreen of an Apple device. 
+$Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark a website on the homescreen of an Apple device.
     These are usually 152 pixels. Apple adds rounded corners and lighting effect automatically.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
@@ -275,7 +275,7 @@ $Definition['Templates'] = 'Templates';
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templates are the standard themes. To customize them, you have to create a copy.';
 $Definition['Custom Themes'] = 'Custom Themes';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Custom Themes are the themes you created. You can edit, rename or make a copy of them.';
-$Definition['Add Theme'];
+$Definition['Add Theme'] = 'Add Theme';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "This theme cannot be deleted because it is the currently applied theme.";
 $Definition["Delete Theme"] = "Delete Theme";
 $Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Are you sure want to delete this theme? It will be permanently deleted.";
