@@ -265,3 +265,69 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.'] =
     'You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
+
+///
+/// Theming UI
+///
+
+$Definition['Theme Editor'] = 'Theme Editor';
+$Definition['Templates'] = 'Templates';
+$Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templates are the standard themes. To customize them, you have to create a copy.';
+$Definition['Custom Themes'] = 'Custom Themes';
+$Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Custom Themes are the themes you created. You can edit, rename or make a copy of them.';
+$Definition['Add Theme'];
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "This theme cannot be deleted because it is the currently applied theme.";
+$Definition["Delete Theme"] = "Delete Theme";
+$Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Are you sure want to delete this theme? It will be permanently deleted.";
+
+// Preview Page
+$Definition["Welcome To Your Theme"] = "Welcome To Your Theme";
+$Definition["This is a style guide of your theme."] = "This is a style guide of your theme. It has examples of the visual elements used throughout the application. You can click on the various widgets such as the <0>Title Bar</0> or <1>Banner</1> to edit their properties in the side panel.";
+$Definition["In additon to the widgets there are also"] = "In additon to the widgets there are also <0>Global Styles</0>. To edit global styles click anywhere else on the page, such as this text.";
+$Definition["There are two types of buttons in the application: primary and secondary."] = "There are two types of buttons in the application: primary and secondary.";
+$Definition["Primary Button"] = "Primary Button";
+$Definition["Secondary Button"] = "Secondary Button";
+$Definition["User inputs are based on the global background and text colors."] = "User inputs are based on the global background and text colors.";
+
+// Section Headings
+$Definition["Global Styles"] = "Global Styles";
+$Definition["Buttons & Inputs"] = "Buttons & Inputs";
+$Definition["Buttons"] = "Buttons";
+$Definition["Title Bar"] = "Title Bar";
+
+$Definition["Preset"] = "Preset";
+$Definition["Dark"] = "Dark";
+$Definition["Light"] = "Light";
+
+$Definition["Brand Color"] = "Brand Color";
+$Definition["Background"] = "Background";
+$Definition["Links"] = "Links";
+$Definition["Font"] = "Font";
+$Definition["Border Radius"] = "Border Radius";
+
+$Definition["Primary Buttons"] = "Primary Buttons";
+$Definition["Secondary Buttons"] = "Secondary Buttons";
+
+$Definition["Button Type"] = "Button Type";
+$Definition["Solid"] = "Solid";
+$Definition["Outline"] = "Outline";
+$Definition["Transparent"] = "Transparent";
+
+$Definition["Background"] = "Background";
+$Definition["Background Image"] = "Background Image";
+$Definition["Choose Image"] = "Choose Image";
+$Definition["Revert"] = "Revert";
+$Definition["Color Overlay"] = "Color Overlay";
+$Definition["Borderless"] = "Borderless";
+$Definition["Bordered"] = "Bordered";
+
+$Definition["Full Bleed"] = "Full Bleed";
+$Definition["When you select Full Bleed, your background is transparent."] = "When you select Full Bleed, your background is transparent.";
+$Definition["Height"] = "Height";
+$Definition["Style"] = "Style";
+$Definition["Logo"] = "Logo";
+$Definition["Alignment"] = "Alignment";
+$Definition["Left Aligned"] = "Left Aligned";
+$Definition["Center Aligned"] = "Center Aligned";
+$Definition["Image (Mobile)"] = "Image (Mobile)";
+$Definition["Alignment (Mobile)"] = "Alignment (Mobile)";
