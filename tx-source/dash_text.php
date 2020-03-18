@@ -217,7 +217,7 @@ $Definition['This page lists the endpoints of your API.'] = 'This page lists the
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
     'This role is personal info. Only users with permission to view personal info will see it.';
 $Definition['This setting loads the page before executing Javascript.'] = 'This setting loads the page before executing 
-    Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong> ';
+    Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Too many addresses! We\'ll send up to %s addresses at once.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
