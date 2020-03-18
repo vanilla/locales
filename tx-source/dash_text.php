@@ -320,6 +320,7 @@ $Definition["Revert"] = "Revert";
 $Definition["Color Overlay"] = "Color Overlay";
 $Definition["Borderless"] = "Borderless";
 $Definition["Bordered"] = "Bordered";
+$Definition["Bordered (Unified)"] = "Bordered (Unified)";
 $Definition["Shadowed"] = "Shadowed";
 
 $Definition["Full Bleed"] = "Full Bleed";
