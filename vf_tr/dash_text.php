@@ -14,18 +14,11 @@ $Definition['Add limits to image upload dimensions in discussions and comments.'
     'Konuşma ve yorumlardaki boyutlara resim yükleme limitleri koy.';
 $Definition['AddressBarColorDescription'] = 'Bazı tarayıcılar adres çubuğu için bir rengi destekler. Yalnızca mobil.';
 $Definition['AddonProblems'] = '<h2>Sorunlar?</h2><p>Bir eklentiyle ilgili bir şeyler ters giderse ve sitenizi kullanamıyorsanız, bunları düzenleyerek el ile devre dışı bırakabilirsiniz:</p>%s';
-$Definition['Alert users if they click a link in a post that will lead them away from the forum. 
-    Users will not be warned when following links that match a Trusted Domain'] =
-    'Kullanıcıları bir yayında, forumdan uzaklaştıracak bir bağlantıyı tıkladıklarında uyar. 
-   Güvenilir bir Alan Adı ile eşleşen bağlantıları izlerken kullanıcılar uyarılmayacak';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Her kategoride son 5 tartışmadan oluşan seçkin kategoriler';
-$Definition['Allow links to be tranformed into embedded representations in discussions and comments. 
-    For example, a YouTube link will transform into an embedded video.'] =
-    'Bağlantıların tartışmalarda ve yorumlarda gömülü sunumlara dönüştürülmesine izin verin. 
-   Örneğin, bir YouTube bağlantısı gömülü bir videoya dönüşür.';
+$Definition['Allow links to be transformed'] = 'Tartışma ve yorumlarda bağlantıların gömülü sunumlara dönüştürülmesine izin verin
+     Örneğin, bir YouTube bağlantısı gömülü bir videoya dönüşür.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     '%s kullanıcılarına kendi avatarlarını Vanilla profil sayfalarından değiştirme izni verin.';
-$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Davetiye başarıyla oluşturulmuş olmasına rağmen, e-posta gönderilemedi. Sunucu aşağıdaki hatayı bildirdi: %s';
 $Definition['ApplicationHelp'] = 'Uygulamalar sitenize geniş bir işlevsellik grubu eklemenize izin verir. <br />Bir uygulama %s klasörünüze eklendikten sonra, buradan etkinleştirebilir veya devre dışı bırakabilirsiniz.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Doğru veritabanı adını girdiğinizden emin misiniz? Belki, yanlış girmiş olabilirsiniz. Veritabanı raporu: <code>%s</code> ';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatarlar bu yüksekliği aşarsa ölçeklendirilir.';
@@ -60,10 +53,8 @@ $Definition['Disable Google Sign In'] = 'Google Sign In özelliğini devre dış
 $Definition['Disable OpenID'] = 'OpenID Devre Dışı Bırak';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Tartışma kategorileri, kullanıcılarınızın tartışmalarını topluluğunuz için anlamlı bir şekilde düzenlemelerine yardımcı olmak için kullanılır.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Forum yönetici panosunu gömmeyin (tam ekran yapın)';
-$Definition['Don\'t use too many reactions. You don\'t want to give your users information overload.'] =
-    'Çok fazla reaksiyon kullanmayın. Kullanıcılarınıza aşırı yükleme bilgisi vermek istemezsiniz.';
+$Definition['Don\'t use too many reactions.'] = 'Çok fazla reaksiyon kullanmayın. Kullanıcılarınıza aşırı yükleme bilgisi vermek istemezsiniz.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Sıralamak ve yer değiştirmek için aşağıdaki kategorileri sürükleyip bırakın.';
-
 $Definition['EditContentTimeout.Notes'] = 'Bir kullanıcı içeriği düzenleme iznine sahip bir rolde ise, bu izinler bunu geçersiz kılar.';
 $Definition['Edit Route'] = 'Rotayı değiştir';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Katılımı artırmak için Forum\'unuzu kendi sitenize gömebilirsiniz...';
@@ -76,6 +67,8 @@ $Definition['Enter the connection settings for your sphinx server below.'] = 'Sp
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Her düzenleme veya silme buraya kaydedilir. Herhangi bir değişikliği geri almak için &lsquo;Geri Yükle&rsquo; seçeneğini kullanın.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Topluluğunuz için kaydolan herkes, kendi resimlerini yükleyebilecekleri, profil ayarlarını yönetebilecekleri ve toplulukta olup bitenleri izleyebilecekleri bir genel profil sayfası alır. <a href="{/profile,url}">Profilinizi şimdi özelleştirmelisiniz</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Sitenizdeki her kullanıcı en az bir rol için atanır. Roller, kullanıcıların ne yapmasına izin verildiğini belirlemek için kullanılır.';
+$Definition['Alert users if they click external link.'] = 'Kullanıcıları bir yayında, forumdan uzaklaştıracak bir bağlantıyı tıkladıklarında uyar. 
+   Güvenilir bir Alan Adı ile eşleşen bağlantıları izlerken kullanıcılar uyarılmayacak';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect, kullanıcıların Facebook hesaplarını kullanarak giriş yapmalarını sağlar. <b>Bu eklentinin çalışması için başvurunuzu Facebook\'a kaydetmelisiniz.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Girdiğiniz kullanıcı adı ve şifre ile veritabanına bağlanılamadı. Onları yanlış mı yazdınız? Veritabanı raporu: <code>%s</code>';
@@ -98,29 +91,25 @@ $Definition['Garden.StatisticsReadonly.Resolve'] = 'Bu sorunu çözmek için, co
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Dikkat et! Bu, aktif oturumlara izin vermeyen özel bir roldür. Bu nedenle izin seçenekleri "görüntüleme" izinleriyle sınırlandırılmıştır.';
 $Definition['Here are all of the reactions you can use on your site.'] = 'İşte sitenizde kullanabileceğiniz tüm reaksiyonlar.';
-$Definition['Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.'] =
+$Definition['Here are the ranks that users can achieve on your site.'] =
     'İşte kullanıcıların sitenizde elde edebileceği dereceler. Bu dereceleri özelleştirebilir ve hatta yenilerini ekleyebilirsiniz. İşte bazı ipuçları.';
-
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Bir başlık logosu yüklenirse, kullanıcının karşılaştığı forum sayfalarındaki başlığin yerini alır.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
     'Etkinleştirilirse, gönderilerin tüm içeriği kullanıcılara e-posta bildirimlerinde gönderilir.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
     'HTML ve/veya CSS konusunda yeniyseniz, başlamanıza yardımcı olacak bazı eğitimler:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Uyarı seviyesini azaltmak istiyorsanız, bir uyarıyı kaldırın.';
-$Definition['If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. 
-    If you aren\'t using embedding then we recommend leaving this setting off.'] =
-    'Forumunuza yerleştirmek veya blogunuzda Vanilla&#39;nın yorumlarını kullanmak istiyorsanız, yerleştirmeyi etkinleştirmeniz gerekir. 
-   Gömme kullanmıyorsanız, bu ayarı kapalı bırakmanızı öneririz.';
+$Definition['If you want to embed your forum, enable embedding.'] = 'Forumunuzu yerleştirmek veya blogunuzda Vanilla\'nın yorumlarını kullanmak istiyorsanız
+     yerleştirmeyi etkinleştirmeniz gerekir. Gömme kullanmıyorsanız, bu ayarı kapalı bırakmanızı öneririz.';
 $Definition['Import'] = 'İçe Aktar';
 $Definition['Importing to Vanilla'] = 'Vanilla\'ya içe aktarılıyor';
 $Definition['Internationalization & Localization'] = 'Uluslararasılaştırma & Yerelleştirme';
+$Definition['Invitation email failed to send.'] = 'Davetiye başarıyla oluşturulmuş olmasına rağmen, e-posta gönderilemedi. Sunucu aşağıdaki hatayı bildirdi: %s';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Davetiyeyle kaydı kullandığınızda, kullanıcılar profil sayfalarında <a href="%s" class="Popup">Davetiyelerim</a> adlı bir bağlantıya sahip olacaklardır.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Belirttiğiniz veritabanı henüz mevcut değil gibi görünüyor. Yeni mi oluşturdun? Adını mı yanlış yazdın? Veritabanı raporu: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Bir yorumda izin verilen maksimum karakter sayısını makul bir boyuta indirmek iyi bir fikirdir.';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
     'Bir yayında izin verilen azami karakter sayısını makul bir boyuta tutmak iyi bir fikirdir.';
-$Definition['It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.'] =
-    'Topluluğunuzun kimin sorumlu olduğunu kolayca görebilmesi için moderatörler ve yöneticiler için özel derecelere sahip olmak iyi bir fikirdir.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Topluluğun için çalışmaya başla ve kullanıcı katılımını arttır.';
 
@@ -162,10 +151,18 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Vanilla için
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Vanilya WordPress eklentisi hazır';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'WordPress için Hazır Vanilya Forum Eklentisi';
 $Definition['Realtime progress bars: %s'] = 'Gerçek zamanlı ilerleme çubuğu: %s';
+$Definition['Recommendations for choosing reactions'] = 'Hangi reaksiyonları kullandığınız gerçekten topluluğunuza bağlıdır,
+  ancak birkaç noktayı aklınızda bulundurmanızı öneririz.';
+$Definition['Recommend special ranks for admins and mods.'] =
+    'Topluluğunuzun kimin sorumlu olduğunu kolayca görebilmesi için moderatörler ve yöneticiler için özel derecelere sahip olmak iyi bir fikirdir.';
+$Definition['Recommend starting with five ranks.'] = 'Çok fazla rütbe almak istemezsiniz. Beş ile başlamanızı öneririz.
+     Topluluğunuz gerçekten büyükse daha fazlasını ekleyebilirsiniz.';
 $Definition['Requires “Flag” reaction permission.'] = '"İşaretle" reaksiyon izni gerektirir.';
 $Definition['Requires “Negative” reaction permission.'] = '“Negatif” reaksiyon izni gerektirir.';
 $Definition['Requires “Positive” reaction permission.'] = '“Pozitif” reaksiyon izni gerektirir.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Geri yüklediğinizde, öğeler bu listeden kaldırılır ve siteye geri konur.';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Zengin Editör için tırnak işaretlerini etkinleştirmek üzere aşağıdaki seçeneği kullanın.
+     yalnızca varsayılan biçimlendirici "Zengin" ise uygulanır.';
 $Definition['Route Expression'] = 'Rota İfadesi';
 $Definition['Routes are used to redirect users.'] = 'Rotalar, istenen URL\'ye bağlı olarak kullanıcıları yönlendirmek için kullanılır.';
 
@@ -217,14 +214,12 @@ $Definition['They work just like regular themes. Once one has been added to the 
     'Normal temalar gibi çalışırlar. Bir tanesi temalar klasörüne eklendikten sonra buradan etkinleştirebilirsiniz.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Bu, yeni topluluğunuz için yönetim panosudur. Yan taraftaki yapılandırma seçeneklerini kontrol edin. Oradan topluluğunuzun nasıl çalıştığını düzenleyebilirsiniz. <b>Varsayılan olarak, yalnızca "Yönetici" rolündeki kullanıcılar topluluğunuzun bu bölümünü görebilir.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Bu seçenek, ceplerin gidebileceği yerleri gösterir/gizler, ancak yalnızca cep ekleme/düzenleme iznine sahip kullanıcılar için. Yerleri göstermeyi deneyin ve ardından sitenizi ziyaret edin.';
-$Definition['This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.'] =
-    'Bu sayfa sizin API uç noktalarını listeler. Daha fazla bilgi için bitiş noktalarını tıklayın. Bu sayfadan veya harici olarak bir erişim belirteci kullanarak API canlı arama yapabilirsiniz.';
-$Definition['This setting loads the page before executing Javascript which can improve your SEO.
-    <br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] =
-    'Bu ayar, SEOnuzu geliştirebilecek Javascripti çalıştırmadan önce sayfayı yükler. 
-   <br> <strong>** Uyarı: Bu özelliğin etkinleştirilmesi sitenizde Javascript hatalarına neden olabilir. **</strong>';
+$Definition['This page lists the endpoints of your API.'] = 'Bu sayfa API\'nizin uç noktalarını listeler.
+     Daha fazla bilgi için bitiş noktalarını tıklayın. Bu sayfadan veya harici olarak bir erişim belirteci kullanarak API\'ye canlı arama yapabilirsiniz.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
     'Bu rol kişisel bilgidir. Yalnızca kişisel bilgileri görüntüleme izni olan kullanıcılar görecektir.';
+$Definition['This setting loads the page before executing Javascript'] = 'Bu ayar, yürütülmeden önce sayfayı yükler 
+    SEO\'nuzu geliştirebilecek Javascript.<br><strong>**Uyarı: Bu özelliğin etkinleştirilmesi sitenizde Javascript hatalarına neden olabilir.**</strong> ';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Vanilla forumunuzu web sitenize yerleştirmek için aşağıdaki kodu kullanın.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Çok fazla adres! Bir kerede %s adrese göndeririz.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Kötüye kullanımı önlemek için, bazı araçlar içeriği otomatik olarak gizler ve bir moderatör tarafından manuel olarak onaylanana kadar burada listeler.';
@@ -233,8 +228,6 @@ $Definition['TouchIconDescription'] = 'Bir Apple cihazının ana ekranında bir 
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Bağlantısı, kullanıcıların Twitter hesaplarını kullanarak giriş yapmalarını sağlar. <b>Bu eklentinin çalışması için başvurunuzu Twitter\'a kaydetmeniz gerekir.</b>';
 
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Yasaklama kuralı oluşturmak için sayfanın üst kısmındaki düğmeyi kullanın.';
-$Definition['Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".'] =
-    'Zengin Editör alıntılarını etkinleştirmek için aşağıdaki seçeneği kullanın. Bu, yalnızca varsayılan biçimlendirici "Zengin" ise geçerli olacaktır.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Blogunuzda Vanilla Yorumları ayarlamak için WordPress eklentisini kullanın veya başka bir platformda Vanilla Yorumları ayarlamak için evrensel kodu kullanın.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Kullanıcılar, Twitter hesaplarını kullanarak sitenizde oturum açabilir.';
 
@@ -253,15 +246,10 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Uyarı</b>: Sunucu yap
 $Definition['Warning: This is for advanced users.'] = '<b>Uyarı</b>: Bu, ileri düzey kullanıcılar içindir ve web sunucunuzda ek değişiklikler yapmanızı gerektirir. Bu genellikle yalnızca adanmış veya vps hostinginiz varsa kullanılabilir. Ne yaptığınızı bilmiyorsanız bunu denemeyin.';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Katılımı teşvik etmek için çoğunluk geri bildirimlerinden dolayı öneriyoruz.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Etkinleştirildiğinde ürünleri yönetebilir ve alt ürünleri bu ürünlerle gruplayabilirsiniz.';
-$Definition['Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.'] =
-    'Hangi reaksiyonları kullandığınız gerçekten topluluğunuza bağlıdır, ancak birkaç noktayı aklınızda bulundurmanızı öneririz.';
-
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = '"111.111.111.*" değeriyle bir IP tipi yasak ekleyerek, IP adresleri "111.111.111" ile başlayan tüm kullanıcıları yasaklayabilirsiniz.';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'IP adreslerini, e-posta adreslerini ve kullanıcı adlarını yasaklayabilirsin.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'Bu temanın sunduğu farklı stillerden birini seçebilirsiniz.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'JsConnect destekleyen birden çok siteye bağlanabilirsiniz.';
 $Definition['You can place files in your /uploads folder.'] = 'Dosyanız doğrudan bu sayfaya yüklemek için çok büyükse, dosyayı  /uploads klasörüne yerleştirebilirsiniz. Dosya adının <b>export</b> sözcüğü ile başladığından ve <b>.txt, .gz</b> sözcüklerinden biriyle bitdiğinden emin olun.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Kısa gönderileri engellemek için asgari bir ileti uzunluğu belirleyebilirsiniz.';
-$Definition['You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.'] =
-    'Çok fazla rütbe almak istemezsiniz. Beş ile başlamanızı öneririz. Topluluğunuz gerçekten büyükse daha fazlasını ekleyebilirsiniz.';
 $Definition['You must select a file to import.'] = 'İçe aktarmak için bir dosya seçmek zorundasınız.';
