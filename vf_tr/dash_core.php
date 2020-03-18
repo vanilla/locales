@@ -42,7 +42,7 @@ $Definition['a Badge'] = 'Rozet';
 $Definition['Abilites'] = 'Yetenekleri';
 $Definition['Abilities'] = 'Yetenekleri';
 $Definition['About %s'] = 'Yaklaşık %s';
-$Definition['ABOUT THEME PREVIEW'] = 'TEMA ÖNİZLEME HAKKINDA';
+$Definition['About Theme Preview'] = 'Tema Önizlemesi Hakkında';
 $Definition['Above Main Content'] = 'Ana İçeriğin Üzerinde';
 $Definition['Account Sync Failed'] = 'Hesap Eşitlemesinde Hata Oluştu';
 $Definition['Action'] = 'Hareketler';
@@ -225,7 +225,7 @@ $Definition['CSS'] = 'CSS';
 $Definition['CssClass'] = 'CSS Sınıfı';
 $Definition['Current Authenticator'] = 'Geçerli Kimlik Doğrulayıcı';
 $Definition['Current File:'] = 'Şimdiki Dosya:';
-$Definition['CURRENT MOBILE THEME'] = 'GÜNCEL MOBİL TEMA';
+$Definition['Current Mobile Theme'] = 'Mevcut Mobil Tema';
 $Definition['Current Theme'] = 'Şimdiki Tema';
 
 $Definition['Database Structure Upgrades'] = 'Veritabanı Yapısı Yükseltmeleri';
