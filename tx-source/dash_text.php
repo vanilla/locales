@@ -271,6 +271,7 @@ $Definition['You must select a file to import.'] = 'You must select a file to im
 ///
 
 $Definition['Theme Editor'] = 'Theme Editor';
+$Definition["JavaScript"] = "JavaScript";
 $Definition['Templates'] = 'Templates';
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templates are the standard themes. To customize them, you have to create a copy.';
 $Definition['Custom Themes'] = 'Custom Themes';
