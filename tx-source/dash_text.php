@@ -103,7 +103,7 @@ $Definition['If you want to embed your forum, enable embedding.'] =
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
 $Definition['Internationalization & Localization'] = 'Internationalization & Localization';
-$Definition['Invitation email failed to send.'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
+$Definition['Invitation email failed to send: %'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.';
