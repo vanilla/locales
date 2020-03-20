@@ -254,3 +254,62 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'You 
 $Definition['You can place files in your /uploads folder.'] = 'If your file is too large to upload directly to this page you can place it in your /uploads folder. Make sure the filename begins with the word <b>export</b> and ends with one of <b>.txt, .gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'You can specify a minimum post length to discourage short posts.';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
+
+///
+/// Theming UI
+///
+
+$Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templates are the standard themes. To customize them, you have to create a copy.';
+$Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Custom Themes are the themes you created. You can edit, rename or make a copy of them.';
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "This theme cannot be deleted because it is the currently applied theme.";
+$Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Are you sure want to delete this theme? It will be permanently deleted.";
+
+// Preview Page
+$Definition["Welcome To Your Theme"] = "Welcome To Your Theme";
+$Definition["This is a style guide of your theme."] = "This is a style guide of your theme. It has examples of the visual elements used throughout the application. You can click on the various widgets such as the <0>Title Bar</0> or <1>Banner</1> to edit their properties in the side panel.";
+$Definition["In additon to the widgets there are also"] = "In additon to the widgets there are also <0>Global Styles</0>. To edit global styles click anywhere else on the page, such as this text.";
+$Definition["There are two types of buttons in the application: primary and secondary."] = "There are two types of buttons in the application: primary and secondary.";
+$Definition["Primary Button"] = "Primary Button";
+$Definition["Secondary Button"] = "Secondary Button";
+$Definition["User inputs are based on the global background and text colors."] = "User inputs are based on the global background and text colors.";
+
+// Section Headings
+$Definition["Global Styles"] = "Global Styles";
+$Definition["Buttons & Inputs"] = "Buttons & Inputs";
+$Definition["Buttons"] = "Buttons";
+$Definition["Title Bar"] = "Title Bar";
+
+$Definition["Preset"] = "Preset";
+$Definition["Dark"] = "Dark";
+$Definition["Light"] = "Light";
+
+$Definition["Brand Color"] = "Brand Color";
+$Definition["Background"] = "Background";
+$Definition["Links"] = "Links";
+$Definition["Font"] = "Font";
+$Definition["Border Radius"] = "Border Radius";
+
+$Definition["Primary Buttons"] = "Primary Buttons";
+$Definition["Secondary Buttons"] = "Secondary Buttons";
+
+$Definition["Button Type"] = "Button Type";
+$Definition["Solid"] = "Solid";
+$Definition["Outline"] = "Outline";
+$Definition["Transparent"] = "Transparent";
+
+$Definition["Background"] = "Background";
+$Definition["Background Image"] = "Background Image";
+$Definition["Choose Image"] = "Choose Image";
+$Definition["Color Overlay"] = "Color Overlay";
+$Definition["Borderless"] = "Borderless";
+$Definition["Bordered"] = "Bordered";
+$Definition["Bordered (Unified)"] = "Bordered (Unified)";
+$Definition["Shadowed"] = "Shadowed";
+
+$Definition["Full Bleed"] = "Full Bleed";
+$Definition["When you select Full Bleed, your background is transparent."] = "When you select Full Bleed, your background is transparent.";
+$Definition["Alignment"] = "Alignment";
+$Definition["Left Aligned"] = "Left Aligned";
+$Definition["Center Aligned"] = "Center Aligned";
+$Definition["Image (Mobile)"] = "Image (Mobile)";
+$Definition["Alignment (Mobile)"] = "Alignment (Mobile)";
