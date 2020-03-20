@@ -365,6 +365,7 @@ $Definition['Garden'] = 'Garden';
 $Definition['Gave badge to users.'] = 'Gave badge to users.';
 $Definition['Generate'] = 'Generate';
 $Definition['Generate Client ID and Secret'] = 'Generate Client ID and Secret';
+$Definition['Generate import SQL only'] = 'Generate import SQL only';
 $Definition['Get More Applications'] = 'Get More Applications';
 $Definition['Get More Plugins'] = 'Get More Plugins';
 $Definition['Get More Themes'] = 'Get More Themes';
