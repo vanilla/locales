@@ -1,4 +1,5 @@
 <?php
+// phpcs:ignoreFile
 
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>注意！</strong>ロールを削除すると、ユーザーは、アプリケーションにアクセスできなくなる可能性があります。';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>注意！</strong>ディスカッションを代替カテゴリに移動すると、代替カテゴリの権限が、削除されるカテゴリの権限と異なっている場合、ディスカッションが消える（または表示される）場合があります。';
@@ -11,19 +12,38 @@ $Definition['AboutCommentEmbedding'] = 'Vanillaは、お客様のブログに最
 $Definition['AboutEmbedding'] = '組み込み機能を利用すれば、お客様のコミュニティの一部または全部を、その他のアプリケーションやWebページに組み込めます。';
 $Definition['About Vanilla Statistics'] = 'Vanilla Statisticsについて';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'このページの上部にある[サイトにアクセス]リンクをクリックするか、<a href={/,url}>ここをクリック</a>してコミュニティフォーラムにアクセスしてください。コミュニティフォーラムは、お客様が<a href="{/,url,domain}">{/,url,domain}</a>にアクセスしたときに表示されるすべてのユーザー&amp;を表示します。';
+$Definition['Add limits to image upload dimensions in discussions and comments.'] =
+    'ディスカッションおよびコメント内にアップロードする画像のサイズに制限を加えます。';
+$Definition['AddressBarColorDescription'] = '一部のブラウザーは、アドレスバーの色をサポートしています。モバイルのみです。';
 $Definition['AddonProblems'] = '<h2>問題がありますか？</h2><p>アドオンに何か問題が発生し、サイトを使用できない場合は、</p>%sを編集することで、手動で無効にできます。';
+$Definition['Alert users if they click external link.'] = 'ユーザーが投稿内のリンクをクリックし、それによりユーザーがフォーラムから離れることになる場合、ユーザーに警告します。信頼できるドメインに一致するリンクをたどる場合、ユーザーに警告は表示されません';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'それぞれの下に最新の5つのディスカッションが選択されてリストされたすべてのカテゴリ';
-$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = '招待状の作成は成功しましたが、メールの送信に失敗しました。サーバのエラー報告は次の通りです: %s';
+$Definition['Allow links to be transformed'] =
+    'リンクをディスカッションおよびコメント内の埋め込み表現に変換できるようにします。例えば、YouTubeリンクは埋め込み動画に変換されます。';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    '%sアクセス権を持つユーザーが、Vanillaのプロフィールページから自分のアバターを変更できるようにします。';
 $Definition['ApplicationHelp'] = '「アプリケーション」は、このサイトに規模が大きめの拡張機能を追加します。<br />%s フォルダに追加されたアプリケーションを、ここで有効化または無効化できます。';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'データベース ホスト名は正しく入力されましたか？ 入力ミスの可能性はありませんか？データベースの報告は次の通りです: <code>%s</code>';
+$Definition['Avatars will be scaled down if they exceed this height.'] = 'アバターは、この高さを超えると縮小されます。';
+$Definition['Avatars will be scaled down if they exceed this width.'] = 'アバターがこの幅を超えると縮小されます。';
+$Definition['Avatars will have their thumbnails saved at this size.'] = 'アバターのサムネイルはこのサイズで保存されます。';
 
+$Definition['Be creative! Try naming your ranks after things that the community talks about.'] =
+    'クリエイティブであれ！コミュニティが話題にする事柄からランクに名前を付けてみてください。';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = '以下のボタンをクリックすれば、 %sのユーザー アカウントが永久に削除されます。';
 
 $Definition['Change the way your community works with plugins.'] = 'コミュニティの運営方法をプラグインで変えられます。一般的なプラグインをソフトウェアにバンドルしました。オンライではさらに多くのプラグインを利用できます。';
+$Definition['Changes will apply to newly uploaded avatars only.'] = '更新は、新しくアップロードされたアバターにのみ適用されます。';
+$Definition['Change the sizes that avatar images are saved at.'] = 'アバター画像が保存されるサイズを変更します。';
+$Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
+    'チェックボックスを使用すると、管理者は多数のディスカッションまたはコメントに対して同時にバッチ処理を実行できます。';
+$Definition['Check out our %s'] = '当社の%sをチェックしてください';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanillaは、世界で最もシンプルで、最も強力なコミュニティ プラットフォームです。使用方法は非常に簡単です。この入門ビデオから始め、以下の手順に従って進めてください。頑張ってください。';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '孤立したユーザーに割り当てられるロールを選択します。';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '%sのユーザー アカウントに関連したすべてのコンテンツ（コメントやメッセージなど）の処理方法を選択します。';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'リクエストに署名する際のカスタム ハッシュ アルゴリズムを選択できます。ハッシュ アルゴリズムは、クライアント ライブラリでも使用されます。どれを選択すればよいかわからない場合は、md5を選択します。';
+$Definition['Choose the preferred layout for lists of categories.'] = 'カテゴリーのリスト用に優先レイアウトを選択します。';
+$Definition['Choose the preferred layout for lists of discussions.'] = 'ディスカッションのリスト用に優先レイアウトを選択します。';
 $Definition['Continue Import'] = 'インポートを続ける';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'インポートファイルを解析できません。%s 行付近で問題が発生しました。';
 $Definition['Create a localization CSV'] = 'ローカリゼーションCSVを作成する';
@@ -36,11 +56,13 @@ $Definition['Disable Google Sign In'] = 'Google アカウントでのログイ�
 $Definition['Disable OpenID'] = 'OpenID を無効化';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'ディスカッション カテゴリを使用すると、ユーザーが、コミュニティにとって意味のある方法でディスカッションを整理できます。';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'フォーラム管理ダッシュボードを組み込まないでください（全画面表示にします）';
+$Definition['Don\'t use too many reactions.'] = 'リアクションを使い過ぎないでください。ユーザーに過剰な情報を与える必要はありません。';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'カテゴリを並べ替えたりネストするには、この下のカテゴリをドラッグ &amp; ドロップしてください。';
-
 $Definition['EditContentTimeout.Notes'] = '註: ユーザーが内容を編集できるロールに属している場合は、ここで選択する値よりもロールの設定の方が優先されます。';
 $Definition['Edit Route'] = 'ルートを編集する';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'コミュニティ フォーラムを自分のWebサイトに組み込めば、エンゲージメントを向上させられます。';
+$Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
+    'WYSIWYG、シンプルHTML、マークダウン、BBCodeを含む、いくつかの形式の投稿を高度に編集することを可能にします。';
 $Definition['Enter a descriptive name.'] = 'ポケットにわかりやすい名前を入力してください。この名前は、ここでポケットを管理する場合を除き、どこにも表示されません、そのため、この名前は、ポケットを忘れないようにするためだけのものです。';
 $Definition['Enter a short name for the site.'] = 'サイトの短縮名を入力してください。サインイン ボタンに表示されます。';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Wordpress Blogのアドレスを入力していただければ、そこから取得します。';
@@ -57,8 +79,10 @@ $Definition['For SEO purposes, search engine crawlers are excluded from being fo
 
 $Definition['Garden.Import.Complete.Description'] = 'インポートが正常に完了しました。
 準備ができましたら、<b>完了</b>をクリックしてください。';
-$Definition['Garden.Import.Continue.Description'] = 'ユーザーはインポートの途中のようです。以下のオプションのいずれか1つを選択してください。';
+$Definition['Garden.Import.Continue.Description'] = 'あなたがインポートの途中であるかのように見えます。次のオプションのうちいずれかを選択してください。';
 $Definition['Garden.Import.InputInstructions'] = 'インポートされるデータの管理者ユーザーのメールアドレスとパスワードを入力してください。';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Vanillaのプロフィールページから自分のアバターを変更する「Garden.Profiles.Edit」アクセス権。';
 $Definition['Garden.StatisticsDisabled'] = '設定ファイルでVanilla Statisticsが明示的に無効になっています。';
 $Definition['Garden.StatisticsLocal.Explain'] = 'このフォーラムは、テスト環境で動作しているか、プライベートIPをレポートしています。デフォルトでは、プライベートIPで動作しているフォーラムはトラッキングされません。';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'インターネットから自分のフォーラムにアクセスできる場合は、こちらで統計情報をレポートするように設定できます。';
@@ -66,15 +90,26 @@ $Definition['Garden.StatisticsReadonly.Explain'] = 'config.phpファイルが読
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'この問題を解決するには、conf/config.phpファイルのモードを777に設定します。';
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '注意してください！これはアクティブなセッションには適用されない、特殊なロールです。そのため、権限のオプションは "表示" 権限のみに限定されています。';
-
+$Definition['Here are all of the reactions you can use on your site.'] = 'ここでは、サイトで使用できるすべてのリアクションを紹介します。';
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'ユーザーがサイトで達成できるランクは次のとおりです。これらのランクをカスタマイズし、新しいランクを追加することもできます。いくつかヒントを紹介します。';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'バナー ロゴがアップロードされていると、ユーザーに表示されるフォーラム ページのバナー タイトルが置き換えられます。';
+$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
+    '有効にすると、投稿のフルコンテンツがメール通知でユーザーに送信されます。';
+$Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
+    'HTMLおよび/またはCSSを初めて使用する場合は、始めるためのチュートリアルをいくつか紹介します：';
 $Definition['If you want to decrease the warning level then remove a warning.'] = '警告レベルを下げたい場合は、警告を削除します。';
+$Definition['If you want to embed your forum, enable embedding.'] =
+    'フォーラムを埋め込むか、ブログにVanillaのコメントを使用したい場合は、埋め込みを有効にする必要があります。埋め込みを使用していない場合は、この設定をオフにすることをお勧めします。';
 $Definition['Import'] = 'インポート';
 $Definition['Importing to Vanilla'] = 'Vanilla へのデータ移行 (英語)';
 $Definition['Internationalization & Localization'] = '国際化とローカライゼーション';
+$Definition['Invitation email failed to send: %'] = '招待状は正常に作成されましたが、Eメールを送信できませんでした。サーバーから次のエラーが報告されました：%s';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'ユーザー登録を招待制にした場合、各ユーザーのプロフィール ページには<a href="%s" class="Popup">招待者リスト</a>と呼ばれるリンクが作成されます。';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = '指定されたデータベースが まだ作成されていないようです。データベースは作成済みですか？あるいはデータベース名が間違っている可能性はありませんか？ データベースの報告は次の通りです: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = '投稿できる文字数の上限を適度な数値に抑えることを、推奨します。';
+$Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
+    '投稿において許可される最大文字数を妥当なサイズに抑えることは良い考えです。';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'コミュニティを始めて、ユーザー エンゲージメントを向上させましょう。';
 
@@ -89,9 +124,21 @@ $Definition['Manage Routes'] = 'ルート管理';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'スパムでないことを示すマークをつければ、フォーラムに戻ります。';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'スパムでないことを示すマークをつければ、フォーラムに戻ります。';
 $Definition['Messages can appear anywhere in your application.'] = 'メッセージはサイトのどこにでも表示でき、ユーザーにニュースやイベントを通知するために使われます。このページでメッセージをドラッグすると、順番を入れ替えることができます。';
+$Definition['MobileLogoDescription'] =
+    'モバイル用バナーのロゴがサイトの上部に表示されます。一部のテーマでは、このロゴが表示されない場合があります。';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'モバイル用テーマを使用すると、小さめのデバイス上でのサイトの外観と雰囲気を変更できます。';
 
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'この深さより深いネストされたカテゴリーは、カンマ区切りのリストに配置されます。';
 $Definition['No unconfirmed role available for email confirmation.'] = 'サイトでは、確認の電子メールを使用するために、デフォルトタイプ「未確認」のロールが必要です。この設定を有効にするには、1を追加してください。';
+$Definition['Not getting what you expect when you preview your theme?'] = 'テーマをプレビューした時に期待通りの結果が得られませんか？';
 $Definition['Notify me when people comment on my addons.'] = '自分のアドオンに誰かがコメントしたら通知します。';
+
+$Definition['Once enabled, only members will see inside your community.'] = '有効にすると、メンバーのみがあなたのコミュニティ内を見ることができます。';
+$Definition['OrgDescription'] = 'あなたの組織名は、SEO microdataおよびJSON+LDに使用されます';
+$Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
+    'オーバーライドされたビューまたはテーマフックは、予期せぬ副次的影響を伴う場合があり、プレビューされません。';
 
 $Definition['Please choose an authenticator to configure.'] = '設定したい認証方式を選んでください。';
 $Definition['PluginHelp'] = '「プラグイン」は、このサイトの機能を拡張します。<br />%s フォルダに追加されたプラグインを、ここで有効化または無効化できます。';
@@ -104,7 +151,16 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'テーマ作�
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'WordPress用の事前構築済みVanilla Forum Plugin';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'WordPress用の事前構築済みVanilla Forum Plugin';
 $Definition['Realtime progress bars: %s'] = 'リアルタイム進捗バー：%s';
+$Definition['Recommend special ranks for admins and mods.'] =
+    'モデレーターと管理者のために特別なランクを設けて、コミュニティが誰が担当しているかを簡単に確認できるようにすることは良い考えです。';
+$Definition['Recommend starting with five ranks.'] =
+    'ランクを持ち過ぎる必要はありません。5つから始めることをお勧めします。コミュニティが非常に大きい場合、さらに追加することができます。';
+$Definition['Requires “Flag” reaction permission.'] = '「フラグ」リアクション許可が必要です。';
+$Definition['Requires “Negative” reaction permission.'] = '「否定的な」リアクション許可が必要です。';
+$Definition['Requires “Positive” reaction permission.'] = '「肯定的な」リアクション許可が必要です。';
 $Definition['Restoring your selection removes the items from this list.'] = '復元すると、アイテムはこのリストから削除され、サイトに戻されます。';
+$Definition['RichEditor.QuoteEnable.Notes'] =
+    '次のオプションを使用して、リッチエディターの引用符を有効にします。これは、デフォルトのフォーマッタが「リッチ」の場合にのみ適用されます。';
 $Definition['Route Expression'] = 'ルート式';
 $Definition['Routes are used to redirect users.'] = 'ルートは、要求されたURLに応じてユーザーをリダイレクトするために使用されます。';
 
@@ -113,15 +169,24 @@ $Definition['Security.Hsts.HTTPSWarning'] = '警告：全てのサブドメイ�
 $Definition['Security.Hsts.IncludeSubDomains'] = '有効にすると、このルールはあなたのサイトのサブドメイン全てに対しても適用されます。';
 $Definition['Security.Hsts.MaxAgeRecommendation'] = 'サイトが想定通りに動くのを確認してから、まず最大1週間試してみて、1月、1年と段階的に延長するのがお勧めです。';
 $Definition['Security.Hsts.SubmitWarning'] = '警告：HSTSプリロードをベストプラクティスとして適用するのは素晴らしいことです。しかし、ご自分のサイトをhstspreload.orgでチェックして、きちんとプリロードされるか確認しなければなりません（設定通り完全に保護された状態にするため）。';
+$Definition['Select the default type for this role, if any.'] = 'この役割のデフォルトタイプがある場合は、それを選択します。';
 $Definition['Select the import source'] = 'インポート元を選択する';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'シリアライズされたカラム"%s"のシリアライズを解除できませんでした。';
+$Definition['ShareImageDescription'] =
+    '誰かがあなたのサイトからリンクを共有すると、私たちはそのページから画像を取り込もうとします。ページに画像がない場合は、代わりにこの画像を使用します。画像は少なくとも50ｘ50である必要があり、200ｘ200をお勧めします。';
 $Definition['Show all possible pocket locations.'] = 'このオプションを有効にして、利用可能なポケット ロケーションをすべて表示します。このオプションを有効にすることで表示されるロケーションは、ユーザーが管理できるポケットのロケーションだけです。';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    '一部のテーマは、「カテゴリーフォロイング」で機能するように更新する必要があるかもしれません。テーマの更新中にこの機能を無効にすることができます。';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    '特別な制限：許可「Garden.Curation.Manage」を持つユーザーのみがこのリアクションを使用することができます。';
 $Definition['Specify a partial or full match when creating a ban.'] = '禁止の作成時に、一部一致または完全一致を指定します。';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '少しの時間、自分のサイトをここでどのように説明するかについて考えてください。サイトに意味のあるタイトルをつけ、簡潔な説明を加えることで、検索エンジンにおける位置づけが向上する可能性があります。';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'ロゴを追加して色をカスタマイズすることで、メールアドレスを飾ることができます。';
 $Definition['Start Import'] = 'インポートを開始する';
 $Definition['Start the first discussion.'] = '今すぐ最初のディスカッション</a>を開始して<a href="{/post/discussion,url}">、あなたのコミュニティでの会話を始めましょう。';
 
+$Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] =
+    'タグ付けを使用すると、ユーザーは開始するディスカッションにタグを追加して、より見つけやすくすることができます。';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'ユーザー認証方式 %s には設定オプションがありません。';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = '致命的なエラーが発生したため、アドオンを有効にすることができませんでした: <pre>%s</pre>';
 $Definition['The addon has already been downloaded.'] = 'アドオンはすでにダウンロードされています。';
@@ -129,12 +194,14 @@ $Definition['The banner logo appears at the top of your forum.'] = 'タイトル
 $Definition['The banner title appears on the top-left of every page.'] = 'バナー タイトルは、各ページの左上に表示されます。';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'バナー タイトルは、サイトのバナーと、ブラウザのタイトル バーに表示されます。タイトルは20文字未満にする必要があります。バナー ロゴがアップロードされていると、ユーザーに表示されるフォーラム ページのバナー タイトルが置き換えられます。また、テーマによっては、このタイトルが表示されない場合があることに注意してください。';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>基本の登録フォームでは、</strong>スパマーをサイトから排除するため、新規ユーザーはCAPTCHAの画像からテキストをコピーする必要があります。<a href="http://recaptcha.net/"> recaptcha.net </a>でのアカウントが必要です。 登録は無料で簡単です。サインアップしたら、こちらに戻って次の設定を入力してください:';
-$Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = '指定されたデータベースユーザーには、このデータベースへのアクセス権がありません。データベースは作成済みですか？データベースの報告は次の通りです: <code>%s</code>';
+$Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] =
+    '指定されたデータベースユーザーには、このデータベースへのアクセス権がありません。データベースは作成済みですか？データベースの報告は次の通りです: <code>%s</code>';
 $Definition['The following structure changes are required for your database.'] = 'お客様のデータベースに以下の構造変更が必要です。';
 $Definition['The import file does not contain any data.'] = 'インポートファイルにデータがありません。';
 $Definition['The import file is not in the correct format.'] = 'インポート ファイルの形式が不正です。';
 $Definition['The location of the jsonp formatted authentication data.'] = 'jsonp形式の認証データのロケーション。';
 $Definition['ThemeHelp'] = '「テーマ」はサイトのデザインを変更します。<br />%s フォルダに追加されたテーマを、ここで有効化できます。';
+$Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'テーマのプレビューは、テーマのテンプレートとCSSの表示に限定されています。';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Password Authenticatorには、カスタム設定オプションはありません。';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'データベース構造を変更する必要はありませんが、データの変更が必要な場合があります。';
 $Definition['The route was saved successfully.'] = 'ルートが保存されました。';
@@ -142,14 +209,26 @@ $Definition['The text of the pocket.'] = 'ポケットのテキストを入力�
 $Definition['The user table was not in the import file.'] = 'ユーザーテーブルはインポートファイルに含まれていませんでした。';
 $Definition['The Vanilla 2 Exporter'] = 'Vanilla Porter プラグイン (英語)';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statisticsによって、お客様のフォーラム ダッシュボードを分析レポート ツールに変え、特定の期間のフォーラムでのアクティビティを確認することができます。製品ドキュメントで、<a href="http://vanillaforums.org/docs/vanillastatistics">Vanilla Statisticsの詳細を確認</a>できます。';
+$Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
+    'それらは通常のテーマと同じように機能します。テーマがテーマフォルダーに追加されたら、ここでそれを有効にできます。';
 $Definition['This is the administrative dashboard for your new community.'] = 'これがあなたの新しいコミュニティの管理ダッシュボードです。 横にある設定オプションを確認してください。ここからあなたのコミュニティがどのように機能するかを設定することができます。<b>デフォルトでは、「管理者」の役割を持つユーザーのみが、コミュニティのこの部分を閲覧できます。</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'このオプションは、ポケットを移動できるロケーションを表示/非表示するものですが、ポケットに追加/編集する権限のあるユーザーだけが利用できます。ロケーションの表示を試してから、自分のサイトにアクセスしてください。';
+$Definition['This page lists the endpoints of your API.'] =
+    'このページには、APIのエンドポイントがリストアップされます。詳細については、エンドポイントをクリックしてください。このページから、または外部からアクセストークンを使用して、APIにライブコールすることができます。';
+$Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
+    'この役割は個人情報です。個人情報の表示許可を持つユーザーのみが見ることができます。';
+$Definition['This setting loads the page before executing Javascript.'] =
+    'この設定は、JavaScriptを実行する前にページをロードします。これにより、SEOを改善できます。<br><strong>**警告：この機能を有効にすると、サイトでJavaScriptエラーが発生する可能性があります。**</strong>';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Vanillaフォーラムを自分のWebサイトに組み込むには、以下のコードを利用してください。';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'アドレスが多すぎます！一度に送信できるアドレスは、最大で%sまでです。';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = '不正利用を回避するため、一部のツールでは自動的にコンテンツが非表示になり、モデレータによって手動で承認されるまでここにリストされます。';
+$Definition['TouchIconDescription'] =
+    'Appleデバイスのホーム画面でウェブサイトをブックマークすると、タッチアイコンが表示されます。これらは通常152ピクセルです。Appleは、角丸と照明効果を自動的に追加します。';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect を使うと、Twitter アカウントでログインできます。<b>このプラグインを使うには、Twitter にアプリケーションを登録する必要があります。</b>';
 
+$Definition['Use the button at the top of the page to create a ban rule.'] = '禁止ルールを作成するには、ページ上部のボタンを使用します。';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'WordPressのプラグインを使用して、自分のブログにVanilla Commentsをセットアップするか、汎用コードを使用して他のプラットフォームにVanilla Commentsをセットアップします。';
+$Definition['Users may sign into your site using their Twitter account.'] = 'ユーザーは、自分のTwitterアカウントを使用してサイトにサインインすることができます。';
 
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla エクスポート: %s, ソース: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statisticsは現在無効になっています';
@@ -160,13 +239,78 @@ $Definition['Video tutorial on managing categories'] = 'カテゴリ管理に関
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'ロールおよび権限に関するビデオ チュートリアル';
 $Definition['Video tutorial on user registration'] = 'ユーザー登録に関するビデオ チュートリアル';
 
-$Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：お客様のサーバー設定では、高速データ ローディングがサポートされていません。
-非常に大きなファイル（200,000コメント以上など）をインポートする場合は、設定を変えることをお勧めします。詳細については、<a href="http://vanillaforums.com/porter">こちら</a>をクリックしてください。';
+$Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = '警告：この機能を有効にすると、サイトでJavaScriptエラーが発生する可能性があります。';
+$Definition['Warning: Loading tables can be slow.'] =
+    '<b>警告</b>：あなたのサーバー設定は高速データロードをサポートしていません。非常に大きなファイル（例：20万件以上のコメント）をインポートする場合は、設定の変更を検討したほうがいいかもしれません。詳細については、<a href="http://vanillaforums.com/porter">こちら</a>をクリックしてください。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：これは、高度なユーザー向けのもので、Webサーバーに対して追加の変更が必要です。通常、専用ホスティングまたはvpsホスティングを使用している場合にのみ利用できます。何をしようとしているか不明な場合は、試さないでください。';
+$Definition['We recommend mostly positive reactions to encourage participation.'] = '参加を促すために、主に肯定的なリアクションをお勧めします。';
+$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = '有効にすると、製品を管理し、それらの製品ごとにサブコミュニティをグループ化できます。';
+$Definition['Which reactions you use really depends on your community.'] =
+    'どのリアクションを実際に使用するかはあなたのコミュニティ次第ですが、いくつかの点に留意することをお勧めします。';
 
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = '「111.111.111.*」という値を持つIPタイプの禁止を追加することによって、プレフィックス「111.111.111」が付いたIPアドレスを持つすべてのユーザーを禁止できます。';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'IPアドレス、メールアドレス、およびユーザー名を禁止できます。';
+$Definition['You can choose from one of the different styles this theme offers.'] = 'このテーマが提供するさまざまなスタイルうちのいずれかから選択できます。';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'jsConnectをサポートする複数のサイトに接続できます。';
 $Definition['You can place files in your /uploads folder.'] = 'ファイルが大きすぎてこのページに直接アップロードできない場合は、あなたの /uploadsフォルダにファイルを置くことができます。ファイル名が<b>export</b>という単語で始まり、<b> .txtまたは.gz </b>のいずれかで終わることを確認してください。';
+$Definition['You can specify a minimum post length to discourage short posts.'] = '短い投稿を防ぐために、投稿の最小長を指定することができます。';
 $Definition['You must select a file to import.'] = 'インポートするファイルを選択してください。';
-$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'あなたの組織名は、SEO microdataおよびJSON+LDに使用されます';
+
+///
+/// Theming UI
+///
+
+$Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'テンプレートは標準テーマです。テンプレートをカスタマイズするには、コピーを作成する必要があります。';
+$Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'カスタムテーマは、あなたが作成したテーマです。カスタムテーマの編集、名前変更、またはコピー作成を行うことができます。';
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "このテーマは現在適用されているテーマであるため、削除できません。";
+$Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "このテーマを削除してもよろしいですか？永久削除されます。";
+
+// Preview Page
+$Definition["Welcome To Your Theme"] = "テーマへようこそ";
+$Definition["This is a style guide of your theme."] = "これは、テーマのスタイルガイドです。アプリケーション全体で使用される視覚要素の例があります。<0>タイトルバー</0>や<1>バナー</1>などのさまざまなウィジェットをクリックして、サイドパネルでそれらのプロパティを編集できます。";
+$Definition["In additon to the widgets there are also"] = "ウィジェットに加えて、 <0>グローバルスタイル</0>もあります。グロバルスタイルを編集するには、このテキストなど、ページ上の他の場所をクリックします。";
+$Definition["There are two types of buttons in the application: primary and secondary."] = "アプリケーションには2種類のボタンがあり、それは一次ボタンと二次ボタンです。";
+$Definition["Primary Button"] = "一次ボタン";
+$Definition["Secondary Button"] = "二次ボタン";
+$Definition["User inputs are based on the global background and text colors."] = "ユーザー入力は、グローバル背景とテキストの色に基づいています。";
+
+// Section Headings
+$Definition["Global Styles"] = "グローバルスタイル";
+$Definition["Buttons & Inputs"] = "ボタンと入力";
+$Definition["Buttons"] = "ボタン";
+$Definition["Title Bar"] = "タイトルバー";
+
+$Definition["Preset"] = "プリセット";
+$Definition["Dark"] = "ダーク";
+$Definition["Light"] = "ライト";
+
+$Definition["Brand Color"] = "ブランドカラー";
+$Definition["Background"] = "背景";
+$Definition["Links"] = "リンク";
+$Definition["Font"] = "フォント";
+$Definition["Border Radius"] = "枠線の角丸";
+
+$Definition["Primary Buttons"] = "一次ボタン";
+$Definition["Secondary Buttons"] = "二次ボタン";
+
+$Definition["Button Type"] = "ボタンの種類";
+$Definition["Solid"] = "ソリッド";
+$Definition["Outline"] = "概要";
+$Definition["Transparent"] = "透明";
+
+$Definition["Background"] = "背景";
+$Definition["Background Image"] = "背景画像";
+$Definition["Choose Image"] = "画像を選択します";
+$Definition["Color Overlay"] = "カラーオーバーレイ";
+$Definition["Borderless"] = "枠線なし";
+$Definition["Bordered"] = "枠線付き";
+$Definition["Bordered (Unified)"] = "枠線付き（統一）";
+$Definition["Shadowed"] = "影付き";
+
+$Definition["Full Bleed"] = "フルブリード";
+$Definition["When you select Full Bleed, your background is transparent."] = "「フルブリード」を選択すると、背景が透明になります。";
+$Definition["Alignment"] = "位置合わせ";
+$Definition["Left Aligned"] = "左揃え";
+$Definition["Center Aligned"] = "中央揃え";
+$Definition["Image (Mobile)"] = "画像（モバイル）";
+$Definition["Alignment (Mobile)"] = "位置合わせ（モバイル）";
