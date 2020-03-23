@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Révisions d'articles";
 $Definition["Article Three"] = "Article trois";
 $Definition["Article Two"] = "Article deux";
 $Definition["Articles"] = "Articles";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Associez un produit à cette sous-communauté. Utilisez l'<0>IU Gérer des produits</0> pour ajouter, modifier ou supprimer des produits.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Associer un produit à cette sous-communauté. Utilisez la fonction <0>Gestion des produits UI</0> pour ajouter, modifier ou supprimer des produits.";
 
 $Definition["Back to Home"] = "Retour à l'accueil";
 $Definition["Back to home page"] = "Retour à la page d'accueil";
@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Exemple : apparence";
 $Definition["Filter"] = "Filtre";
 $Definition["Filter Results"] = "Filtrer les résultats";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Les couleurs de premier plan sont surtout utilisées pour le texte et les icônes. Elles doivent former un contraste avec la couleur d'arrière-plan.";
+$Definition["Feature Article"] = "Recommander l'article";
+$Definition["Featured Article"] = "Article recommandé";
+$Definition["Featured Articles"] = "Articles recommandés";
 
 $Definition["General Appearance"] = "Apparence générale";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Les guides servent à créer des guides pratiques, de la documentation ou du contenu style « livre » qui doit être lu dans l'ordre.";
