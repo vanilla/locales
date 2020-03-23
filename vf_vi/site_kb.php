@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Ví dụ: Giao diện";
 $Definition["Filter"] = "Bộ lọc";
 $Definition["Filter Results"] = "Lọc Kết quả";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Màu nền trước được sử dụng chủ yếu cho văn bản và biểu tượng. Nó sẽ tương phản với màu nền.";
+$Definition["Feature Article"] = "Đề xuất Bài viết";
+$Definition["Featured Article"] = "Bài viết Đề xuất";
+$Definition["Featured Articles"] = "Bài viết Đề xuất";
 
 $Definition["General Appearance"] = "Hình thức Chung";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Hướng dẫn được dùng cho các hướng dẫn cách làm, tài liệu hoặc bất kỳ \"cuốn sách\" nội dung nào cần được đọc theo thứ tự.";
