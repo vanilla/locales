@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Például: Megjelenés";
 $Definition["Filter"] = "Szűrő";
 $Definition["Filter Results"] = "Eredmények szűrése";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Az előtérszínek főként szövegekhez és ikonokhoz vannak használva. Ez kontrasztban kell legyen a háttérszínnel.";
+$Definition["Feature Article"] = "Cikk ajánlása";
+$Definition["Featured Article"] = "Javasolt cikk";
+$Definition["Featured Articles"] = "Ajánlott cikkek";
 
 $Definition["General Appearance"] = "Általános megjelenés";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Az súgók a sorrendben olvasandó útmutatók, dokumentációk vagy bármilyen „könyvszerű” tartalmak készítésében segítenek.";
