@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Esimerkki: Ulkonäkö";
 $Definition["Filter"] = "Suodatin";
 $Definition["Filter Results"] = "Suodata tulokset";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Päävärejä käytetään enimmäkseen teksteissä ja kuvakkeissa. Niiden olisi hyvä olla selkeässä kontrastissa taustaväriin nähden.";
+$Definition["Feature Article"] = "Suosittele artikkelia";
+$Definition["Featured Article"] = "Suositeltu artikkeli";
+$Definition["Featured Articles"] = "Suositellut artikkelit";
 
 $Definition["General Appearance"] = "Yleinen ulkonäkö";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Oppaat on tarkoitettu käyttöoppaiden, tietovarantojen ja minkä tahansa järjestyksessä luettavan kirjankaltaisen sisällön luontiin.";
