@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Приклад: Зовнішній виг�
 $Definition["Filter"] = "Фільтр";
 $Definition["Filter Results"] = "Фільтрувати результати";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Кольори переднього плану використовуються в основному для тексту та іконок. Вони мають контрастувати із кольором фону.";
+$Definition["Feature Article"] = "Рекомендована стаття";
+$Definition["Featured Article"] = "Рекомендована стаття";
+$Definition["Featured Articles"] = "Рекомендовані статті";
 
 $Definition["General Appearance"] = "Загальний вигляд";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Інструкції - для створення покрокових гідів, документації чи будь-якого \"книжкового\" контенту, який слід читати по черзі.";
