@@ -268,6 +268,7 @@ $Definition["Need More Help?"] = "Need More Help?";
 $Definition["Theming Guide"] = "Theming Guide";
 $Definition["Old Theming UI"] = "Old Theming UI";
 $Definition["If you have an old theme"] = "If you have an old theme and need to set a separate desktop and mobile theme you can do so with the old theming UI.";
+$Definition["Edits to this theme apply to: "] = "Edits to this theme apply to: ";
 
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templates are the standard themes. To customize them, you have to create a copy.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Custom Themes are the themes you created. You can edit, rename or make a copy of them.';
