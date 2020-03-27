@@ -979,6 +979,7 @@ $Definition['Name the Group'] = 'Name the Group';
 $Definition['Name Unavailable'] = 'Name Unavailable';
 $Definition["Navigation"] = "Navigation";
 $Definition['new'] = 'new';
+$Definition['New'] = 'New';
 $Definition['New %s'] = 'New %s';
 $Definition['New Announcement'] = 'New Announcement';
 $Definition['New Conversation'] = 'New Message';
