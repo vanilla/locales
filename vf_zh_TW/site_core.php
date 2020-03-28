@@ -421,6 +421,8 @@ $Definition['Created'] = '已建立';
 $Definition['Create an Account'] = '建立帳戶';
 $Definition['Create Discussions'] = '新增貼文';
 $Definition['Created by %s'] = '由 %s 建立';
+$Definition['Create New Discussion'] = '建立新討論
+';
 $Definition['Created on %s'] = '建立於 %s';
 $Definition['Create One.'] = '建立一個。';
 $Definition['Current'] = '現在';
@@ -846,6 +848,7 @@ $Definition['Leave %s'] = '留下 %s';
 $Definition['Leave a Comment'] = '發表評論';
 $Definition['Leave a comment'] = '發表評論';
 $Definition['Leave a redirect link.'] = '請輸入重新導向的連結。';
+$Definition['Leave a redirect link from the old discussions.'] = '在舊討論留下重新導向連結。';
 $Definition['Leave blank unless connecting to an existing account.'] = '除非連結到現有帳戶，否則請保持空白。';
 $Definition['Leave Comments'] = '發表評論';
 $Definition['Leave Conversation'] = '離開對話視窗';
@@ -980,11 +983,15 @@ $Definition['Name the Group'] = '命名群組';
 $Definition['Name Unavailable'] = '名字不可用';
 $Definition["Navigation"] = "瀏覽";
 $Definition['new'] = '新';
+$Definition['New'] = '新
+ ';
 $Definition['New %s'] = '新 %s';
 $Definition['New Announcement'] = '新公告';
 $Definition['New Conversation'] = '開啟新對話';
 $Definition['New Discussion'] = '發表新話題';
 $Definition['new discussion'] = '新';
+$Definition['New Discussion Topic'] = '新討論主題
+';
 $Definition['New Event'] = '新事件';
 $Definition["New Folder"] = "新資料夾";
 $Definition['New Group'] = '新群組';
@@ -1399,6 +1406,8 @@ $Definition['Spam'] = '垃圾資訊';
 $Definition['Spamming'] = '濫發文';
 $Definition['Spam Queue'] = '垃圾郵件隊列';
 $Definition['Split'] = '拆分';
+$Definition['Split %s to new discussion'] = '你已選擇將 %s 分開為新討論。
+';
 $Definition['Split Comments'] = '分割評論';
 $Definition['Spoiler'] = '防雷';
 $Definition['Spoof User'] = '戲弄用戶';
