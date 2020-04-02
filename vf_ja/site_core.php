@@ -1775,7 +1775,11 @@ $Definition['You are limited to %s recipients.'] = '%sの受取人に制限さ�
 $Definition['You are jailed.'] = 'あなたは投獄されます。';
 $Definition['You aren\'t a %s of this group.'] = 'あなたはこのグループの%sではありません。';
 $Definition['You aren\'t allowed to %s this group.'] = 'あなたはこのグループで%sをすることはできません。';
-$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = '1ドル残っています。2ドルにするためには以下のリンクをクリックしてください。';
+$Definition['You are not allowed to ban a user that has higher permissions than you.'] = '自分よりも高い権限を持つユーザーを禁止することはできません。';
+$Definition['You are not allowed to ban a user with the same permission level as you.'] = '自分と同じ権限を持つユーザーを禁止することはできません。';
+$Definition['User has same or higher permissions.'] = '自分と同じかそれ以上の権限を持つユーザーに対してこの操作を実行することはできません。';
+$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = '%1$sを終了しています。リンクをクリックして%2$sに進んでください。
+';
 $Definition['You are now signed in.'] = '登録されました。';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = ' {maxImages,plural,%s画像,%s画像}だけ使用できます。';
 $Definition['you can also drag-and-drop'] = 'ドラッグアンドドロップすることもできます';
