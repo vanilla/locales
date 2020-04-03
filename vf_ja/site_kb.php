@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "例：見た目";
 $Definition["Filter"] = "フィルター";
 $Definition["Filter Results"] = "結果をフィルター";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "前景色は、主にテキストとアイコンに使用されます。前景色は背景色と対照的な色になります。";
+$Definition["Feature Article"] = "記事を推奨";
+$Definition["Featured Article"] = "おすすめの記事";
+$Definition["Featured Articles"] = "おすすめの記事";
 
 $Definition["General Appearance"] = "全体的な外観";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "ガイドは、ハウツーガイド、ドキュメント、または順番に読む必要があるコンテンツのような「本」を作成するためのものです。";

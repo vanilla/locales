@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Makale Düzeltmeleri";
 $Definition["Article Three"] = "Makale Üç";
 $Definition["Article Two"] = "Makale İki";
 $Definition["Articles"] = "Makaleler";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Bir ürünü bu alt toplulukla ilişkilendirin. Ürün eklemek, düzenlemek veya silmek için <0> Ürünleri Yönet UI kullanın.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Bir ürünü bu alt toplulukla ilişkilendirin. Eklemek için <0> Ürünleri Yönetme Kullanıcı Arayüzünü kullanın, Ürün eklemek, düzenlemek veya silmek için UI </0> kullanın.";
 
 $Definition["Back to Home"] = "Ana Sayfaya Dön";
 $Definition["Back to home page"] = "Ana sayfaya dön";
@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Örnek: Görünüm";
 $Definition["Filter"] = "Filtrele";
 $Definition["Filter Results"] = "Sonuçları Filtrele";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Ön plan renkleri en çok metin ve ikonlar için kullanılır ve arka plan rengiyle zıt olmalıdır.";
+$Definition["Feature Article"] = "Makale Öner";
+$Definition["Featured Article"] = "Önerilen Makale";
+$Definition["Featured Articles"] = "Önerilen Makaleler";
 
 $Definition["General Appearance"] = "Genel Görünüm";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Kılavuzlar, sırayla okunması gereken nasıl yapılır, belgeleme veya herhangi \"kitap\" benzeri içerik oluşturmak içindir.";

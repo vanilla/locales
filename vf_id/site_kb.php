@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Contoh: Penampilan";
 $Definition["Filter"] = "Filter";
 $Definition["Filter Results"] = "Hasil Filter";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Warna latar depan terutama digunakan untuk teks dan ikon. Warna ini harus kontras dengan warna latar belakang.";
+$Definition["Feature Article"] = "Sarankan Artikel";
+$Definition["Featured Article"] = "Artikel Disarankan";
+$Definition["Featured Articles"] = "Artikel Disarankan";
 
 $Definition["General Appearance"] = "Tampilan Umum";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Panduan adalah untuk membuat panduan cara, dokumentasi, atau konten lain yang serupa \"buku\" yang harus dibaca secara berurutan.";

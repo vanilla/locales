@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "דוגמה: מראה";
 $Definition["Filter"] = "מסנן";
 $Definition["Filter Results"] = "תוצאות סינון";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "צבעי החזית משמשים בעיקר לטקסט ולסמלים. דרוש ניגוד בינם לצבעי הרקע.";
+$Definition["Feature Article"] = "המלץ על המאמר";
+$Definition["Featured Article"] = "מאמר מומלץ";
+$Definition["Featured Articles"] = "מאמרים מומלצים";
 
 $Definition["General Appearance"] = "מראה כללי";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "מדריכים נועדו ליצירת הוראות שימוש, תיעוד או כל תוכן דמוי \"ספר\" שיש לקרוא לפי הסדר.";

@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Παράδειγμα: Εμφάνιση";
 $Definition["Filter"] = "Φίλτρο";
 $Definition["Filter Results"] = "Φιλτράρισμα Αποτελεσμάτων";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Τα χρώματα του προσκηνίου χρησιμοποιούνται κυρίως για κείμενο και εικονίδια. Αυτό πρέπει να έρχεται σε αντίθεση με το χρώμα φόντου.";
+$Definition["Feature Article"] = "Προτεινόμενο Άρθρο";
+$Definition["Featured Article"] = "Προτεινόμενο Άρθρο";
+$Definition["Featured Articles"] = "Προτεινόμενα Άρθρα";
 
 $Definition["General Appearance"] = "Γενική Εμφάνιση";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Οι οδηγοί είναι για την εκπόνηση εγχειριδίων οδηγιών, τεκμηρίωσης ή οποιουδήποτε \"βιβλίου\" όπως περιεχόμενο που πρέπει να διαβαστεί με τη σειρά.";

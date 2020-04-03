@@ -73,6 +73,9 @@ $Definition["Filter"] = "Filtru";
 $Definition["Filter Results"] = "Filtrează rezultatele";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Culorile din prim plan sunt folosite de obicei pentru texte și iconițe.
 Acestea ar trebui să contrasteze cu culoarea de fundal.";
+$Definition["Feature Article"] = "Recomandă articolul";
+$Definition["Featured Article"] = "Articol recomandat";
+$Definition["Featured Articles"] = "Articole recomandate";
 
 $Definition["General Appearance"] = "Aspect general";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Ghidurile sunt destinate realizării ghidurilor despre cum se face, documentației sau oricărui conținut asemănător \"cărților\" care trebuie citit în ordine.";

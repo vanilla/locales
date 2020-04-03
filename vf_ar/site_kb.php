@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "مثال: المظهر";
 $Definition["Filter"] = "مرشح نتائج البحث";
 $Definition["Filter Results"] = "ترشيح نتائج البحث";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "تستخدم الألوان الأمامية في الغالب للنص والرموز. يجب أن يتباين هذا اللون مع لون الخلفية.";
+$Definition["Feature Article"] = "قم بتوصية موضوع";
+$Definition["Featured Article"] = "الموضوع الموصى به";
+$Definition["Featured Articles"] = "الموضوعات الموصى بها";
 
 $Definition["General Appearance"] = "المظهر العام";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "الأدلة هي لصنع أدلة كيفية العمل أو الوثائق أو أي \"كتاب\" مثل المحتوى الذي يجب قراءته بالترتيب.";

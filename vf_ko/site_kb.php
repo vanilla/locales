@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "예: 모습";
 $Definition["Filter"] = "필터";
 $Definition["Filter Results"] = "결과 필터링";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "전경색은 주로 텍스트와 아이콘에 사용됩니다. 이것은 배경색과 대조되어야 합니다.";
+$Definition["Feature Article"] = "추천 글";
+$Definition["Featured Article"] = "추천 글";
+$Definition["Featured Articles"] = "추천 글";
 
 $Definition["General Appearance"] = "전체적 모습";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "지침은 사용 방법 안내서, 문서, 순서대로 읽어야 하는 내용의 \"책\" 등을 만드는 데 사용됩니다.";

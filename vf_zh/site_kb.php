@@ -72,6 +72,10 @@ $Definition["Example: Appearance"] = "示例：外观";
 $Definition["Filter"] = "筛选";
 $Definition["Filter Results"] = "筛选结果";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "前景颜色主要用于文本和图标。这应该与背景色形成对比。";
+$Definition["Feature Article"] = "推荐文章";
+$Definition["Featured Article"] = "	
+推荐文章";
+$Definition["Featured Articles"] = "推荐文章";
 
 $Definition["General Appearance"] = "一般外观";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "指南是关于如何做的指南、文档或任何类似内容的“书”，应按顺序阅读。";

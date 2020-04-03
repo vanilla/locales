@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Изменения статей";
 $Definition["Article Three"] = "Статья третья";
 $Definition["Article Two"] = "Вторая статья";
 $Definition["Articles"] = "Статьи";
-$Definition["Associate a product with this Subcommunity. <0>Use the Manage Products UI</0> to replace add, edit, or delete products."] = "Ассоциировать продукт с этим сообществом. <0>Используйте управление продуктами пользовательского интерфейса</0>, чтобы заменить добавить, редактировать, или удалить продукты.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Свяжите продукт с этим подсообществом. Используйте <0>Управление интерфейсом продуктов</0> для добавления, редактирования или удаления продуктов.";
 
 $Definition["Back to Home"] = "Домой";
 $Definition["Back to home page"] = "Вернуться на главную страницу";
@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Пример: внешний вид";
 $Definition["Filter"] = "Фильтр";
 $Definition["Filter Results"] = "Сортировать результаты";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Основные цвета используются главным образом для текста и значков. Они должны контрастировать с фоновым цветом.";
+$Definition["Feature Article"] = "Рекомендовать статью";
+$Definition["Featured Article"] = "Рекомендуемая статья";
+$Definition["Featured Articles"] = "Рекомендованные статьи";
 
 $Definition["General Appearance"] = "Общий внешний вид";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Руководства нужны для создания практических руководств, документации и любых других материалов со структурой книги, которые должны читаться по порядку.";

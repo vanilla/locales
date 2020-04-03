@@ -74,6 +74,9 @@ $Definition["Example: Appearance"] = "उदाहरण: दिखावट";
 $Definition["Filter"] = "फ़िल्टर";
 $Definition["Filter Results"] = "परिणाम फ़िल्टर करें";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "फ़ोरग्राउंड कलर का उपयोग मुख्यतः टेक्स्ट और आइकन के लिए किया जाता है। इसे बैकग्राउंड कलर के कोंट्रास्ट में होना चाहिए।";
+$Definition["Feature Article"] = "अनुशंसित लेख";
+$Definition["Featured Article"] = "अनुशंसित लेख";
+$Definition["Featured Articles"] = "अनुशंसित लेख";
 
 $Definition["General Appearance"] = "सामान्य दिखावट";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "कैसे करे गाइड, प्रलेखन, या किसी \"पुस्तक\" जैसी सामग्री बनाने के लिए गाइड हैं जिन्हें क्रम में पढ़ा जाना चाहिए।";

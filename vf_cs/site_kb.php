@@ -72,6 +72,9 @@ $Definition["Example: Appearance"] = "Příklad: Vzhled ";
 $Definition["Filter"] = "Filtr";
 $Definition["Filter Results"] = "Filtrovat výsledky ";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Barvy popředí se používají většinou pro text a ikony. Měly by kontrastovat s barvou pozadí.";
+$Definition["Feature Article"] = "Doporučit článek";
+$Definition["Featured Article"] = "Doporučený článek";
+$Definition["Featured Articles"] = "Doporučené články";
 
 $Definition["General Appearance"] = "Celkový vzhled";
 $Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Příručky slouží k vytváření návodů, dokumentace nebo jakékoliv „knihy“, jako je obsah, který by se měl číst v určitém pořadí.";
