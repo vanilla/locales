@@ -260,6 +260,17 @@ $Definition['You must select a file to import.'] = 'You must select a file to im
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Your mobile theme will be disabled. To set different mobile and desktop themes, use the old theming UI.";
+$Definition["Heads Up!"] = "Heads Up!";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Need More Help?"] = "Need More Help?";
+$Definition["Theming Guide"] = "Theming Guide";
+$Definition["Old Theming UI"] = "Old Theming UI";
+$Definition["If you have an old theme"] = "If you have an old theme and need to set a separate desktop and mobile theme you can do so with the old theming UI.";
+$Definition["Edits to this theme apply to:"] = "Edits to this theme apply to:";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templates are the standard themes. To customize them, you have to create a copy.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Custom Themes are the themes you created. You can edit, rename or make a copy of them.';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "This theme cannot be deleted because it is the currently applied theme.";
