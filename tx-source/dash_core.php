@@ -8,7 +8,6 @@ $Definition['%s is not a valid email address'] = '%s is not a valid email addres
 $Definition['%s item in queue'] = '%s item in queue';
 $Definition['%s level'] = '%s level';
 $Definition['%s levels'] = '%s levels';
-$Definition['%s prohibited from using the ignore feature.'] = '%s prohibited from using the ignore feature.';
 $Definition['%s site(s) found.'] = '%s site(s) found.';
 $Definition['%s sources(s) found.'] = '%s sources(s) found.';
 $Definition['%s times'] = '%s times';
@@ -407,7 +406,6 @@ $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML Emails';
 $Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'HTTP Strict Transport Security (HSTS) Settings';
 
-$Definition['IgnoreListRevoke'] = 'Revoke <b>%s</b>\'s ignore list privileges?';
 $Definition['Inbox Page'] = 'Inbox Page';
 $Definition['Include full post in email notifications'] = 'Include full post in email notifications';
 $Definition['Include Subcategories'] = 'Include Subcategories';
@@ -813,7 +811,6 @@ $Definition['WordPress Plugin'] = 'WordPress Plugin';
 $Definition['Yes, the following information can be changed later.'] = 'Yes, the following information can be changed later.';
 $Definition['You are connected as %s.'] = 'You are connected as %s.';
 $Definition['You are previewing the %s theme.'] = 'You are previewing the %s theme.';
-$Definition['You are viewing %s\'s ignore list'] = 'You are viewing %s\'s ignore list';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'If you are ever locked out of your forum you can always log in using your original Vanilla email and password at <a href="%1$s">%1$s</a>';
 $Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'You can ban IP addresses, email domains, and words from usernames using this tool.';
