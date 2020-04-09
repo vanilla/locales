@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Felsökare';
 $Definition['Debug Information'] = 'Debug-information';
 $Definition['Decline'] = 'Neka';
 $Definition['Default (%s)'] = 'Standard (%s)';
+$Definition['Default <0/>'] = 'Standard <0/>';
 $Definition['Default %s Permissions'] = 'Ordinarie %s behörigheter';
 $Definition['Default  Category'] = 'Standard  Kategori';
 $Definition['Default Category Permissions'] = 'Ordinarie rättigheter för kategori';
