@@ -84,7 +84,6 @@ $Definition['%s point'] = '%s point';
 $Definition['%s Points'] = '%s Points';
 $Definition['%s points'] = '%s points';
 $Definition['%s posts'] = '%s posts';
-$Definition['%s prohibited from using the ignore feature.'] = '%s prohibited from using the ignore feature.';
 $Definition['%s result'] = '%s result';
 $Definition['%s results'] = '%s results';
 $Definition['%s said'] = '%s said';
