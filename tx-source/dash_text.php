@@ -289,6 +289,8 @@ $Definition["Background"] = "Background";
 $Definition["Links"] = "Links";
 $Definition["Font"] = "Font";
 $Definition["Border Radius"] = "Border Radius";
+$Definition["Font URL"] = "Font URL";
+$Definition["Font Name"] = "Font Name";
 
 $Definition["Primary Buttons"] = "Primary Buttons";
 $Definition["Secondary Buttons"] = "Secondary Buttons";
