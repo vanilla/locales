@@ -1765,9 +1765,18 @@ $Definition['You are limited to %s recipients.'] = 'You are limited to %s recipi
 $Definition['You are jailed.'] = 'You are jailed.';
 $Definition['You aren\'t a %s of this group.'] = 'You aren\'t a %s of this group.';
 $Definition['You aren\'t allowed to %s this group.'] = 'You aren\'t allowed to %s this group.';
-$Definition['You are not allowed to ban a user that has higher permissions than you.'] = 'You are not allowed to ban a user that has higher permissions than you.';
-$Definition['You are not allowed to ban a user with the same permission level as you.'] = 'You are not allowed to ban a user with the same permission level as you.';
-$Definition['User has same or higher permissions.'] = 'You are not allowed to perform that operation on a user with the same or higher permissions as you.';
+$Definition['You are not allowed to ban a user that has higher permissions than you.'] =
+    'You are not allowed to ban a user that has higher permissions than you.';
+$Definition['You are not allowed to ban a user with the same permission level as you.'] =
+    'You are not allowed to ban a user with the same permission level as you.';
+$Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] =
+    'You are not allowed to mark a user that has higher permissions than you as a troll.';
+$Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] =
+    'You are not allowed to mark a user with the same permission level as you as a troll.';
+$Definition['You are not allowed to warn a user with higher permissions than you.'] =
+    'You are not allowed to warn a user with higher permissions than you.';
+$Definition['You are not allowed to warn a user with the same permission level as you.'] =
+    'You are not allowed to warn a user with the same permission level as you.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'You are now leaving %1$s. Click the link to continue to %2$s.';
 $Definition['You are now signed in.'] = 'You are now signed in.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'You are only allowed {maxImages,plural,%s image,%s images}.';
