@@ -291,7 +291,6 @@ $Definition["Font"] = "Font";
 $Definition["Border Radius"] = "Border Radius";
 $Definition["Font URL"] = "Font URL";
 $Definition["Font Name"] = "Font Name";
-$Definition["Font Name"] = "Font Name";
 $Definition["Invalid URL"] = "Invalid URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field.";
 $Definition["You can configure some values differently for different screensizes."] = "You can configure some values differently for different screensizes.";
