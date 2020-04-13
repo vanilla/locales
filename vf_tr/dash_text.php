@@ -260,6 +260,17 @@ $Definition['You must select a file to import.'] = 'İçe aktarmak için bir dos
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Mobil temanız devre dışı bırakılacak. Farklı mobil ve masaüstü temaları ayarlamak için eski tema kullanıcı arayüzünü kullanın.";
+$Definition["Heads Up!"] = "Dikkat Et!";
+$Definition["Welcome to Vanilla's theming UI."] = "Vanilla'nın tema arayüzüne hoş geldiniz. Bu sayfa mevcut tüm temalarınızı listeler ve kopyalamanıza veya düzenlemenize olanak tanır.";
+$Definition["Some older themes don't support full editing capability."] = "Bazı eski temalar tam düzenleme özelliğini desteklemez. Bir temanın neyi desteklediğini görmek için düzenlemelerin nerede etkili olacağını görmek için imleci adının üzerine getirebilirsiniz.";
+$Definition["Need More Help?"] = "Daha Fazla Yardıma mı ihtiyacınız var?";
+$Definition["Theming Guide"] = "Tema Kılavuzu";
+$Definition["Old Theming UI"] = "Eski Tema Arayüzü";
+$Definition["If you have an old theme"] = "Eski bir temanız varsa ve ayrı bir masaüstü ve mobil tema ayarlamanız gerekiyorsa bunu eski tema kullanıcı arayüzüyle yapabilirsiniz.";
+$Definition["Edits to this theme apply to:"] = "Bu temadaki düzenlemeler aşağıdakiler için geçerlidir:";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Şablonlar standart temalardır. Bunları özelleştirmek için bir kopya oluşturmanız gerekir.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Özel Temalar, oluşturduğunuz temalardır. Bunları düzenleyebilir, yeniden adlandırabilir veya kopyalayabilirsiniz.';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "Bu tema uygulanan mevcut tema olduğundan silinemez.";
@@ -309,7 +320,7 @@ $Definition["Shadowed"] = "Gölgeli";
 
 $Definition["Full Bleed"] = "Tam Taşma";
 $Definition["When you select Full Bleed, your background is transparent."] = "Tam Taşma tpyını seçtiğinizde arka planınız saydam olur.";
-$Definition["Alignment"] = "Hizala";
+$Definition["Alignment"] = "Hizalama";
 $Definition["Left Aligned"] = "Sola Hizala";
 $Definition["Center Aligned"] = "Ortaya Hizala";
 $Definition["Image (Mobile)"] = "Görsel (Mobil)";
