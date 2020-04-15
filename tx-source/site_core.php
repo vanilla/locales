@@ -253,6 +253,7 @@ $Definition['Are you sure you want to do this?'] = 'Are you sure you want to do 
 $Definition['Are you sure you want to join this group?'] = 'Are you sure you want to join this group?';
 $Definition['Are you sure you want to leave this conversation?'] = 'Are you sure you want to leave this conversation?';
 $Definition['Are you sure you want to leave this group?'] = 'Are you sure you want to leave this group?';
+$Definition['Are you sure you want to unignore %s?'] = 'Are you sure you want to unignore <b>%s</b>?';
 $Definition['Are you sure you wish to continue?'] = 'Are you sure you wish to continue?';
 $Definition['Ask a Question'] = 'Ask a Question';
 $Definition['Ask Question'] = 'Ask Question';
@@ -444,6 +445,7 @@ $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Date. Expects \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'Date Added';
+$Definition['Date Ignored'] = 'Date Ignored';
 $Definition["Date Input"] = "Date Input";
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
 $Definition["Date Updated"] = "Date Updated";
@@ -1051,6 +1053,7 @@ $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'N
 $Definition['Not much happening here, yet.'] = 'Not much happening here, yet.';
 $Definition['Not registered?'] = 'Not registered?';
 $Definition['Not Verified'] = 'Not Verified';
+$Definition['Not Verified Description'] = 'Unverified users are passed through spam and pre-moderation filters.';
 
 $Definition[' now.'] = ' now.';
 
