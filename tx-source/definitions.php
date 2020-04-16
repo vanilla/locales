@@ -12,7 +12,7 @@ $LocaleInfo['tx-source'] = array (
     'PercentComplete' => 7,
     'NumComplete' => 182,
     'DenComplete' => 2664,
-    'Hidden' => false,
+    'Hidden' => true,
     'Debug' => true,
     'Icon' => '',
 );
