@@ -1934,3 +1934,4 @@ $Definition['Spoiler Warning'] = 'Spoiler Warning';
 // Catalogue Display Plugin/Formats
 $Definition['You must have the Post and Mobile Formats set to anything but "Text" in the Advanced Editor Plugin.'] = 'You must have the Post and Mobile Formats set to anything but "Text" in the Advanced Editor Plugin.';
 $Definition['Each discussion will show an uploaded image on the Discussions page instead of the author information. This only applies to categories with "Discussions" as the "Display As.'] = 'Each discussion will show an uploaded image on the Discussions page instead of the author information. This only applies to categories with "Discussions" as the "Display As.';
+$Definition['Default placeholder'] = 'Default placeholder';
