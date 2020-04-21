@@ -255,6 +255,7 @@ $Definition['Are you sure you want to do this?'] = 'Êtes-vous sûr de vouloir f
 $Definition['Are you sure you want to join this group?'] = 'Êtes-vous sûr de vouloir rejoindre ce groupe ?';
 $Definition['Are you sure you want to leave this conversation?'] = 'Êtes-vous certain de vouloir quitter cette conversation ?';
 $Definition['Are you sure you want to leave this group?'] = 'Êtes-vous sûr de vouloir quitter ce groupe ?';
+$Definition['Are you sure you want to unignore %s?'] = 'Êtes vous sur de vouloir dé-ignorer <b>%s</b>?';
 $Definition['Are you sure you wish to continue?'] = 'Voulez-vous vraiment continuer?';
 $Definition['Ask a Question'] = 'Poser une question';
 $Definition['Ask Question'] = 'Poser une question';
@@ -446,6 +447,7 @@ $Definition['Date.DefaultTimeFormat'] = '%H:%M';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Date. Au format "mm/jj/aaaa"';
 $Definition['Date Added'] = 'Date d\'ajout';
+$Definition['Date Ignored'] = 'Date Ignorée';
 $Definition["Date Input"] = "Entrée de date";
 $Definition['Date Examples'] = 'Exemples : lundi, aujourd\'hui, la semaine dernière, le 26 mars, 26/03/04';
 $Definition["Date Updated"] = "Date de mise à jour";
@@ -889,7 +891,7 @@ $Definition['Manage Members'] = 'Gérer les Membres';
 $Definition["Mark All Read"] = "Marquer tout comme lu";
 $Definition['Mark All Viewed'] = 'Tout marquer comme lu';
 $Definition['Mark as Troll'] = 'Classer comme Troll';
-$Definition['Mark Category Viewed'] = 'Indiquer les Catégories Consultées';
+$Definition['Mark Category Viewed'] = 'Marquer la catégorie comme lue';
 $Definition['Marking as spam cannot be undone.'] = 'En signalant quelque chose comme INDÉSIRABLE, le commentaire sera supprimé de façon permanente. La suppression est une bonne manière de garder votre forum propre.';
 $Definition['Mark Read'] = 'Marquer comme lu';
 $Definition['Maybe'] = 'Peut-être';
@@ -1060,6 +1062,7 @@ $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'M
 $Definition['Not much happening here, yet.'] = 'Aucun élément.';
 $Definition['Not registered?'] = 'Pas inscrit ?';
 $Definition['Not Verified'] = 'Non vérifié';
+$Definition['Not Verified Description'] = 'Les utilisateurs non-vérifiés sont soumis à des contrôles anti-spam et à des filtres de pré-modération.';
 
 $Definition[' now.'] = 'maintenant.';
 
@@ -1768,9 +1771,18 @@ $Definition['You are limited to %s recipients.'] = 'Vous êtes limités à %s de
 $Definition['You are jailed.'] = 'Vous êtes emprisonné.';
 $Definition['You aren\'t a %s of this group.'] = 'Vous n\'être pas un %s de ce groupe.';
 $Definition['You aren\'t allowed to %s this group.'] = 'Vous n\'êtes pas autorisé à %s ce groupe.';
-$Definition['You are not allowed to ban a user that has higher permissions than you.'] = 'Vous n’êtes pas autorisé à exclure un utilisateur qui a des permissions supérieures aux vôtres.';
-$Definition['You are not allowed to ban a user with the same permission level as you.'] = 'Vous n’êtes pas autorisé à exclure un utilisateur qui a des permissions identiques aux vôtres.';
-$Definition['User has same or higher permissions.'] = 'Vous n’avez pas le droit de réaliser cette opération sur un utilisateur avec des permissions identiques ou supérieures aux vôtres.';
+$Definition['You are not allowed to ban a user that has higher permissions than you.'] =
+    'Vous n’êtes pas autorisé à exclure un utilisateur qui a des permissions supérieures aux vôtres.';
+$Definition['You are not allowed to ban a user with the same permission level as you.'] =
+    'Vous n’êtes pas autorisé à exclure un utilisateur qui a des permissions identiques aux vôtres.';
+$Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] =
+    'Vous n\'avez pas la possibilité de marquer un utilisateur avec des permissions supérieures aux vôtres comme troll.';
+$Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] =
+    'Vous n\'avez pas la possibilité de marquer un utilisateur avec les mêmes permissions que vous comme troll.';
+$Definition['You are not allowed to warn a user with higher permissions than you.'] =
+    'Vous ne pouvez pas mettre un avertissement à un utilisateur ayant des permissions supérieures aux vôtres.';
+$Definition['You are not allowed to warn a user with the same permission level as you.'] =
+    'Vous ne pouvez pas mettre un avertissement à un utilisateur ayant les mêmes permissions que vous.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Vous êtes sur le point de quitter %1$s. Veuillez cliquer le lien suivant pour continuer: %2$s.';
 $Definition['You are now signed in.'] = 'Vous êtes maintenant connecté.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Vous êtes uniquement autorisé à {maxImages,plural,%s image,%s images}.';
