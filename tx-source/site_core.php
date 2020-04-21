@@ -1517,6 +1517,7 @@ $Definition['This discussion has been closed.'] = 'This discussion has been clos
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'This discussion is related to an undefined foriegn content source.';
 $Definition['This discussion was created from comments split from: %s.'] = 'This discussion was created from comments split from: %s.';
 $Definition['This discussion was merged into %s'] = 'This discussion was merged into %s';
+$Definition['This field partially supports HTML.'] = 'This field partially supports HTML.';
 $Definition['This image has been inserted into the body of text.'] = 'This image has been inserted into the body of text.';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'This image has been resized to fit in the page. Click to enlarge.';
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'This is a private poll: no-one will see what you voted for.';
