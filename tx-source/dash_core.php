@@ -344,6 +344,7 @@ $Definition['Everything is ok.'] = 'Everything is ok.';
 $Definition['Exclude archived discussions from the discussions list'] = 'Exclude archived discussions from the discussions list';
 $Definition['Existing members send invitations to new members.'] = 'Existing members send invitations to new members.';
 $Definition['Exit Preview'] = 'Exit Preview';
+$Definition['Exit'] = 'Exit';
 
 $Definition['Facebook Connector'] = 'Facebook Connector';
 $Definition['Facebook Settings'] = 'Facebook Settings';
@@ -839,6 +840,7 @@ $Definition['Your Email'] = 'Your Email';
 $Definition['Your inbox is empty.'] = 'Your inbox is empty.';
 $Definition['Your invitations were sent successfully.'] = 'Your invitations were sent successfully.';
 $Definition['Your Password'] = 'Your Password';
+$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.';
 
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
