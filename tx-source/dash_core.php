@@ -249,6 +249,7 @@ $Definition['Default Type'] = 'Default Type';
 $Definition['Define your forum homepage'] = 'Define your forum homepage';
 $Definition['Delete Badge'] = 'Delete Badge';
 $Definition['Delete Category'] = 'Delete Category';
+$Definition['Delete moderation information'] = 'Delete moderation information';
 $Definition['Delete Role'] = 'Delete Role';
 $Definition["Delete Theme"] = "Delete Theme";
 $Definition['Delete User'] = 'Delete User';
