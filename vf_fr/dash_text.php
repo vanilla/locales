@@ -46,6 +46,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Consultez notre %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla est la plus simple et la plus puissante des plateformes communautaires qui soit. L\'utiliser est d\'une simplicité enfantine. Commencez avec cette vidéo d\'introduction et continuez en suivant les étapes ci-dessous. Profitez-en bien !';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choisissez un rôle qui sera attribué aux utilisateurs orphelins :';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Choisissez un thème pour cette sous-communauté. <0>En savoir plus </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choisissez la manière de gérer tout le contenu associé au compte utilisateur <i>%s</i> (commentaires, messages, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Vous pouvez sélectionner un autre algorithme de hashage pour signer vos requêtes. L\'algorithme de hashage doit également être utilisé dans votre librairie client. Choisissez md5 si vous ne savez pas quoi choisir.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Choisissez la mise en page préférée pour les listes de catégories.
@@ -292,6 +293,17 @@ $Definition['You must select a file to import.'] = 'Vous devez sélectionner un 
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Votre thème pour téléphones va être désactivé. Pour utiliser différents thèmes pour bureau et téléphones, utilisez un ancien thème.";
+$Definition["Heads Up!"] = "Annonces !";
+$Definition["Welcome to Vanilla's theming UI."] = "Bienvenue dans l'interface des thèmes de Vanilla. Cette page liste tous vos thèmes disponibles et vous permet de les copier ou les modifier.";
+$Definition["Some older themes don't support full editing capability."] = "Certains thèmes anciens ne sont pas compatibles avec l'édition en ligne. Pour vérifier la compatibilité d'un thème, survolez son nom pour voir où seront les changements.";
+$Definition["Need More Help?"] = "Besoin d'aide ?";
+$Definition["Theming Guide"] = "Guide de la Personnalisation";
+$Definition["Old Theming UI"] = "Ancienne Interface des Thèmes";
+$Definition["If you have an old theme"] = "Si vous utilisez un ancien thème, vous pouvez choisir un thème bureau et un thème téléphones séparé grâce à l'ancienne interface des thèmes.";
+$Definition["Edits to this theme apply to:"] = "Les modifications apportées à ce thème s'appliquent à:";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Les modèles sont les thèmes standard. Pour les personnaliser, vous devez en créer une copie.
 ';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Les thèmes personnalisés sont les thèmes que vous avez créés. Vous pouvez les modifier, les renommer ou en faire une copie.';
@@ -330,6 +342,12 @@ $Definition["Background"] = "Contexte
 $Definition["Links"] = "Liens";
 $Definition["Font"] = "Police";
 $Definition["Border Radius"] = "Rayon de la bordure";
+$Definition["Font URL"] = "URL de la Police d'Écriture";
+$Definition["Font Name"] = "Nom de la Police d'Écriture";
+$Definition["Invalid URL"] = "Adresse URL invalide";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Vous pouvez importez votre propre police d'écriture dans la gestion des thèmes. Copiez-collez simplement l'adresse URL dans le champ.";
+$Definition["You can configure some values differently for different screensizes."] = "Vous pouvez définir certaines valeurs pour différentes tailles d'écrans.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Vous deve ajouter l'adresse URL de la police d'écriture dans <0>Domaines autorisés</0>, dans votre configuration. <1>En savoir plus sur les Polices Personnalisées.</1>.";
 
 $Definition["Primary Buttons"] = "Boutons primaires";
 $Definition["Secondary Buttons"] = "Boutons secondaires
