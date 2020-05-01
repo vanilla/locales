@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Geribildirimci';
 $Definition['Debug Information'] = 'Hata ayıklama bilgisi';
 $Definition['Decline'] = 'Geri çevir';
 $Definition['Default (%s)'] = 'Varsayılan (%s)';
+$Definition['Default <0/>'] = 'Varsayılan';
 $Definition['Default %s Permissions'] = 'Varsayılan %s İzinler';
 $Definition['Default  Category'] = 'Varsayılan Kategori';
 $Definition['Default Category Permissions'] = 'Varsayılan Kategori İzinleri';

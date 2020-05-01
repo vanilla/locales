@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Depurador';
 $Definition['Debug Information'] = 'Depurar Informação';
 $Definition['Decline'] = 'Recusar';
 $Definition['Default (%s)'] = 'Predefinição (%s)';
+$Definition['Default <0/>'] = 'Predefinição <0/>';
 $Definition['Default %s Permissions'] = 'Permissões %s Padrão';
 $Definition['Default  Category'] = 'Padrão  Categoria';
 $Definition['Default Category Permissions'] = 'Categorias de Permissões Padrão';

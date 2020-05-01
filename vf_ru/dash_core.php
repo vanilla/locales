@@ -237,6 +237,8 @@ $Definition['Debugger'] = 'Отладчик';
 $Definition['Debug Information'] = 'Отладочная информация';
 $Definition['Decline'] = 'Отклонить';
 $Definition['Default (%s)'] = 'По умолчанию (%s)';
+$Definition['Default <0/>'] = 'По умолчанию <0/>
+';
 $Definition['Default %s Permissions'] = '%s - права по умолчанию';
 $Definition['Default  Category'] = 'Раздел по умолчанию';
 $Definition['Default Category Permissions'] = 'Стардартные разрешения раздела';
@@ -348,7 +350,7 @@ $Definition['Facebook Settings'] = 'Настройки Facebook';
 $Definition['Failure'] = 'Неудача';
 $Definition['Favicon'] = 'Иконка сайта';
 $Definition['FaviconBrowse'] = 'Укажите новую иконку, если хотите изменить её:';
-$Definition['FaviconDescription'] = 'Иконка вашего сайта отображается в строке заголовка браузера. Картинка будет уменьшена до размера 16x16 пикселей.';
+$Definition['FaviconDescription'] = "Значок favicon вашего сайта отображается на панели статуса вашего браузера. Он будет масштабирован соответственно. ";
 $Definition['FileUpload is currently OFF'] = 'Загрузка файлов в настоящее время ОТКЛЮЧЕНА';
 $Definition['FileUpload is currently ON'] = 'Загрузка файлов в настоящее время ВКЛЮЧЕНА';
 $Definition['Finished'] = 'Готово';
