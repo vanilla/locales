@@ -1023,6 +1023,7 @@ $Definition['No results for \'%s\''] = 'No results for \'%s\'';
 $Definition["No results for '<0/>'."] = "No results for '<0/>'.";
 $Definition["No results found."] = "No results found.";
 $Definition['No Roles'] = 'No Roles';
+$Definition['Not going'] = 'Not going';
 $Definition['Not Attending (%s)'] = 'Not Attending (%s)';
 $Definition['Not Authorized (401)'] = 'Not Authorized (401)';
 $Definition['Notes'] = 'Notes';
