@@ -1730,6 +1730,7 @@ $Definition['What to search'] = 'What to search';
 $Definition['When'] = 'When';
 $Definition['Where'] = 'Where';
 $Definition['Where do you want to announce this discussion?'] = 'Where do you want to announce this discussion?';
+$Definition['Will you be attending?'] = 'Will you be attending?';
 $Definition['Who\'s going?'] = 'Who\'s going?';
 $Definition['Who\'s Online'] = 'Who\'s Online';
 $Definition['Who\'s Online in this Category'] = 'Who\'s Online in this Category';
