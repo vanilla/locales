@@ -823,6 +823,7 @@ $Definition['Where is your Community Forum?'] = 'Where is your Community Forum?'
 $Definition['Who\'s Online Settings'] = 'Who\'s Online Settings';
 $Definition['Why do you want to join?'] = 'Why do you want to join?';
 $Definition['Within'] = 'Within';
+$Definition['Will you be attending?'] = 'Will you be attending?';
 $Definition['WordPress Plugin'] = 'WordPress Plugin';
 
 $Definition['Yes, the following information can be changed later.'] = 'Yes, the following information can be changed later.';
