@@ -1668,6 +1668,7 @@ $Definition['Verifying your credentials...'] = 'Verifying your credentials...';
 $Definition['via %s'] = 'via %s';
 $Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
 $Definition['View'] = 'View';
+$Definition['View:'] = 'View:';
 $Definition["View All"] = "View All";
 $Definition['View Badge'] = 'View Badge';
 $Definition['View Profile'] = 'View Profile';
