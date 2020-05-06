@@ -956,6 +956,7 @@ $Definition['More'] = 'More';
 $Definition['More About %s'] = 'More About %s';
 $Definition['More Comments'] = 'More Comments';
 $Definition['More Discussions'] = 'More Discussions';
+$Definition['More Events'] = 'More Events';
 $Definition['More Information'] = 'More Information';
 $Definition['More Results'] = 'More Results';
 $Definition['More…'] = 'More…';
