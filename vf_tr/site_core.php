@@ -253,6 +253,7 @@ $Definition['Are you sure you want to do this?'] = 'Bunu yapmak istediğinizden 
 $Definition['Are you sure you want to join this group?'] = 'Bu grupa katılmak istediğinizden emin misiniz?';
 $Definition['Are you sure you want to leave this conversation?'] = 'Bu konuşmadan ayrılmak istediğinizden emin misiniz?';
 $Definition['Are you sure you want to leave this group?'] = 'Bu gruptan ayrılmak istediğinizden emin misiniz?';
+$Definition['Are you sure you want to unignore %s?'] = '<b>%s</b>\'i yok saymayı kaldırmak istediğinizden emin misiniz?';
 $Definition['Are you sure you wish to continue?'] = 'Devam etmek istediğinizden emin misiniz?';
 $Definition['Ask a Question'] = 'Bir Soru Sor';
 $Definition['Ask Question'] = 'Soru Sor';
@@ -445,6 +446,7 @@ $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Tarih. \'aa/gg/yyyy\' şeklinde olmalıdır.';
 $Definition['Date Added'] = 'Tarih Eklendi';
+$Definition['Date Ignored'] = 'Yoksayılma Tarihi';
 $Definition["Date Input"] = "Tarih Girişi";
 $Definition['Date Examples'] = 'Örnekler: Pazartesi, bugün, geçen hafta, 26 Mart, 26/3/04';
 $Definition["Date Updated"] = "Güncellenen Tarih";
@@ -1052,6 +1054,7 @@ $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'O
 $Definition['Not much happening here, yet.'] = 'Henüz pek birşey olmadı.';
 $Definition['Not registered?'] = 'Kayıtlı değil misiniz?';
 $Definition['Not Verified'] = 'Doğrulanmamış';
+$Definition['Not Verified Description'] = 'Doğrulanmamış kullanıcılar spam ve denetleme öncesi filtrelerden geçirilir.';
 
 $Definition[' now.'] = 'şimdi.';
 
@@ -1511,6 +1514,7 @@ $Definition['This discussion has been closed.'] = 'Bu tartışma kapatıldı.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'Bu tartışma yabancı bir tanımsız kaynakla ilgili.';
 $Definition['This discussion was created from comments split from: %s.'] = 'Bu tartışma şundan ayrılan yorumlarla oluşturuldu: %s.';
 $Definition['This discussion was merged into %s'] = 'Tartışma %s ile birleştirildi.';
+$Definition['This field partially supports HTML.'] = 'Bu alan kısmi olarak HTML destekler.';
 $Definition['This image has been inserted into the body of text.'] = 'Resim metin içerisine yerleştirildi.';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Resim sayfaya sığması için yeniden boyutlandırıldı. Büyütmek için tıklayın.';
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'Bu gizli bir ankettir: verdiğiniz oyu kimse görmeyecek.';
@@ -1755,9 +1759,18 @@ $Definition['You are limited to %s recipients.'] = '%s alıcıyla sınırlısın
 $Definition['You are jailed.'] = 'Hapsedildin.';
 $Definition['You aren\'t a %s of this group.'] = 'Bu grubun bir %s değilsin.';
 $Definition['You aren\'t allowed to %s this group.'] = 'Bu grubu %s yapmaya iznin yok.';
-$Definition['You are not allowed to ban a user that has higher permissions than you.'] = 'Sizden daha yüksek izinleri olan bir kullanıcıyı yasaklayamazsınız.';
-$Definition['You are not allowed to ban a user with the same permission level as you.'] = 'Sizinle aynı izin seviyesine sahip bir kullanıcıyı yasaklayamazsınız.';
-$Definition['User has same or higher permissions.'] = 'Sizden daha yüksek izinleri olan veya sizinle aynı izin seviyesine sahip bir kullanıcı üzerinde işlem yapamazsınız.';
+$Definition['You are not allowed to ban a user that has higher permissions than you.'] =
+    'Sizden daha yüksek izinleri olan bir kullanıcıyı yasaklayamazsınız.';
+$Definition['You are not allowed to ban a user with the same permission level as you.'] =
+    'Sizinle aynı izin seviyesine sahip bir kullanıcıyı yasaklayamazsınız.';
+$Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] =
+    'Sizden daha yüksek izinlere sahip bir kullanıcıyı trol olarak işaretlemenize izin verilmiyor.';
+$Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] =
+    'Bir kullanıcıyı trolle aynı izin düzeyine sahip olarak işaretlemenize izin verilmez.';
+$Definition['You are not allowed to warn a user with higher permissions than you.'] =
+    'Sizden daha yüksek izinlere sahip bir kullanıcıyı uyarmanıza izin verilmez.';
+$Definition['You are not allowed to warn a user with the same permission level as you.'] =
+    'Sizinle aynı izin düzeyine sahip bir kullanıcıyı uyarmanıza izin verilmez.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Şimdi %1$s\'dan/den ayrılıyorsunuz. %2$s\'(y)a/(y)e devam etmek için bağlantıya tıklayın.';
 $Definition['You are now signed in.'] = 'Giriş yaptınız.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Sadece {maxImages,plural,%s görsel,%s görsel} iznin var. ';
