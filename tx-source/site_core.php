@@ -1171,6 +1171,7 @@ $Definition['Private group.'] = 'Anyone can see the group, but only members can 
 $Definition['Private Note for Moderators'] = 'Private Note for Moderators';
 $Definition['Problem with credentials.'] = 'Problem with credentials.';
 $Definition['Proceed'] = 'Proceed';
+$Definition['Products'] = 'Products';
 $Definition['Profile'] = 'Profile';
 $Definition['Profile Fields'] = 'Profile Fields';
 $Definition['Profile  Fields'] = 'Profile  Fields';
