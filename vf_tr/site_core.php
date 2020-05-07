@@ -957,6 +957,7 @@ $Definition['More'] = 'Daha';
 $Definition['More About %s'] = '%s Hakkında Daha Fazla';
 $Definition['More Comments'] = 'Daha Fazla yorum';
 $Definition['More Discussions'] = 'Daha Fazla Tartışma';
+$Definition['More Events'] = 'Diğer Etkinlikler';
 $Definition['More Information'] = 'Daha Fazla Bilgi';
 $Definition['More Results'] = 'Daha Fazla Sonuç';
 $Definition['More…'] = 'Daha...';
