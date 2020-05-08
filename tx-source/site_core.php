@@ -135,6 +135,7 @@ $Definition['[Deleted User]'] = '[Deleted User]';
 
 $Definition['About'] = 'About';
 $Definition['About %s users'] = 'About %s users';
+$Definition['About the event'] = 'About the event';
 $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Abuse'] = 'Abuse';
