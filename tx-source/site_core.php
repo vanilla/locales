@@ -1932,7 +1932,6 @@ $Definition['Toggle Quote'] = 'Toggle Quote';
 $Definition['Spoiler Warning'] = 'Spoiler Warning';
 
 // Catalogue Display Plugin/Formats
-$Definition['You must have the Post and Mobile Formats set to anything but "Text" in the Advanced Editor Plugin.'] = 'You must have the Post and Mobile Formats set to anything but "Text" in the Advanced Editor Plugin.';
-$Definition['Each discussion will show an uploaded image on the Discussions page instead of the author information. This only applies to categories with "Discussions" as the "Display As.'] = 'Each discussion will show an uploaded image on the Discussions page instead of the author information. This only applies to categories with "Discussions" as the "Display As.';
+$Definition['Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
 $Definition['Default placeholder'] = 'Default placeholder';
-$Definition['Uplaod a placeholder image that will display when users do not have an image in their post.'] = 'Uplaod a placeholder image that will display when users do not have an image in their post.';
+$Definition['Upload a placeholder image that will display when users do not have an image in their post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
