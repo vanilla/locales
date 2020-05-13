@@ -498,6 +498,7 @@ $Definition['Don\'t know'] = 'Don\'t know';
 $Definition['Download'] = 'Download';
 $Definition['Download the sounds as MP3'] = 'Download the sounds as MP3';
 $Definition['Do you want to expire or delete this warning?'] = 'Do you want to expire or delete this warning?';
+$Definition['Do you want to delete this event?'] = 'Do you want to delete this event?';
 $Definition["Draft"] = "Draft";
 $Definition["Drafts"] = "Drafts";
 $Definition['Draft saved at %s'] = 'Draft saved at %s';
