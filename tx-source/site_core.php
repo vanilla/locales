@@ -140,7 +140,6 @@ $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Abuse'] = 'Abuse';
 $Definition['Abusive Behavior'] = 'Abusive Behavior';
-$Definition['About the event'] = 'About the event';
 $Definition['Accept'] = 'Accept';
 $Definition['Accepted'] = 'Accepted';
 $Definition['Accept this answer.'] = 'Accept this answer.';
