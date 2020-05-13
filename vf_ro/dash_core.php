@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Depanator';
 $Definition['Debug Information'] = 'Informaţii de depanare';
 $Definition['Decline'] = 'Declin';
 $Definition['Default (%s)'] = 'Implicit (%s)';
+$Definition['Default <0/>'] = 'Prestabilit <0/>';
 $Definition['Default %s Permissions'] = 'Permisiuni %s implicite';
 $Definition['Default  Category'] = 'Categorie implicită';
 $Definition['Default Category Permissions'] = 'Permisiuni categorii implicite';

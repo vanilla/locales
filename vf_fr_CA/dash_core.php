@@ -235,6 +235,7 @@ $Definition['Debugger'] = 'Console d\'erreurs';
 $Definition['Debug Information'] = 'Informations de Débogage';
 $Definition['Decline'] = 'Décliner';
 $Definition['Default (%s)'] = 'Défaut (%s)';
+$Definition['Default <0/>'] = 'Par défaut <0/>';
 $Definition['Default %s Permissions'] = 'Droits d\'accès de %s par défaut';
 $Definition['Default  Category'] = 'Défault|Catégorie';
 $Definition['Default Category Permissions'] = 'Autorisations des Catégories par défaut';

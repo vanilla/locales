@@ -238,6 +238,7 @@ $Definition['Debugger'] = 'डीबगर';
 $Definition['Debug Information'] = 'डिबग जानकारी';
 $Definition['Decline'] = 'अस्वीकार करें';
 $Definition['Default (%s)'] = 'डिफ़ॉल्ट (%s)';
+$Definition['Default <0/>'] = 'डिफ़ॉल्ट <0/>';
 $Definition['Default %s Permissions'] = 'डिफ़ॉल्ट %s अनुमतियाँ ';
 $Definition['Default  Category'] = 'डिफ़ॉल्ट श्रेणी';
 $Definition['Default Category Permissions'] = 'डिफ़ॉल्ट श्रेणी की अनुमति ';
