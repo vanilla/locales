@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Debugger';
 $Definition['Debug Information'] = 'Debug Information';
 $Definition['Decline'] = 'Decline';
 $Definition['Default (%s)'] = 'Výchozí (%s)';
+$Definition['Default <0/>'] = 'Výchozí <0/>';
 $Definition['Default %s Permissions'] = 'Výchozí %s oprávnění';
 $Definition['Default  Category'] = 'Default  Category';
 $Definition['Default Category Permissions'] = 'Výchozí oprávnění kategorie';

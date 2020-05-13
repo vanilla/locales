@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Debugger';
 $Definition['Debug Information'] = 'Debug Information';
 $Definition['Decline'] = 'Decline';
 $Definition['Default (%s)'] = 'Standard (%s)';
+$Definition['Default <0/>'] = 'Normalverdi <0/>';
 $Definition['Default %s Permissions'] = 'Default %s Permissions';
 $Definition['Default  Category'] = 'Default  Category';
 $Definition['Default Category Permissions'] = 'Default Category Permissions';

@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Pelacak';
 $Definition['Debug Information'] = 'Informasi Pelacakan';
 $Definition['Decline'] = 'Tolak';
 $Definition['Default (%s)'] = 'Default (%s)';
+$Definition['Default <0/>'] = 'Default <0/>';
 $Definition['Default %s Permissions'] = 'Perizinan Baku %s';
 $Definition['Default  Category'] = 'Kategori Baku';
 $Definition['Default Category Permissions'] = 'Perizinan Baku Kategori';

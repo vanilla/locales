@@ -238,6 +238,7 @@ $Definition['Debugger'] = 'Πρόγραμμα εντοπισμού σφαλμά�
 $Definition['Debug Information'] = 'Πληροφορίες αποσφαλμάτωσης';
 $Definition['Decline'] = 'Απόρριψη';
 $Definition['Default (%s)'] = 'Προεπιλογή (%)';
+$Definition['Default <0/>'] = 'Προεπιλογή <0/>';
 $Definition['Default %s Permissions'] = 'Προεπιλεγμένα %s Δικαιώματα';
 $Definition['Default  Category'] = 'Προεπιλεγμένη Κατηγορία';
 $Definition['Default Category Permissions'] = 'Προεπιλεγμένα Δικαιώματα Κατηγορίας';
