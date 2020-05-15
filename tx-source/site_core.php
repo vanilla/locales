@@ -1741,6 +1741,7 @@ $Definition['Who\'s Online in this Category'] = 'Who\'s Online in this Category'
 $Definition['Who\'s Online in this Discussion'] = 'Who\'s Online in this Discussion';
 $Definition['Whoops!'] = 'Whoops!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Whoops! You\'ll need to register before you can email our site.';
+$Definition['Whoops! There was an error.'] = 'Whoops! There was an error.';
 $Definition['Why are you Banning this user?'] = 'Why are you Banning this user?';
 $Definition['Why do you want to join?'] = 'Why do you want to join?';
 $Definition["Word"] = "Word";
