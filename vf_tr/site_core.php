@@ -1731,6 +1731,7 @@ $Definition['Who\'s Online in this Category'] = 'Bu Kategoride Kim Çevrimiçi';
 $Definition['Who\'s Online in this Discussion'] = 'Bu Tartışmada Kimler Çevrim İçi';
 $Definition['Whoops!'] = 'Eyvah!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Hoop! Sitemize e-posta gönderebilmen için önce kayıt olmalısın.';
+$Definition['Whoops! There was an error.'] = 'Tüh! Bir hata oluştu.';
 $Definition['Why are you Banning this user?'] = 'Bu kullanıcıyı neden engelliyorsun?';
 $Definition['Why do you want to join?'] = 'Neden katılmak isteyeceksiniz?';
 $Definition["Word"] = "Word";
