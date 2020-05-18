@@ -1481,7 +1481,7 @@ sollecitazioni sono considerate inappropriate in questa community.
 
 Ci riserviamo il diritto di rimuovere qualsiasi contenuto per qualsiasi motivo o, anche, senza alcun motivo. Ci riserviamo il diritto di terminare qualsiasi iscrizione per qualsiasi motivo o senza alcuna ragione.
 
-Devi aver compiuto almeno 13 anni per utilizzare questo servizio.';
+Devi aver compiuto almeno 16 anni per utilizzare questo servizio.';
 $Definition['Test'] = 'Test';
 $Definition['Testing'] = 'In test';
 $Definition['Text'] = 'Testo';
@@ -1742,6 +1742,7 @@ $Definition['Who\'s Online in this Category'] = 'Chi è online in questa categor
 $Definition['Who\'s Online in this Discussion'] = 'Chi è online in questa discussione ';
 $Definition['Whoops!'] = 'Oops!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Ops! Devi registrarti prima di inviarci una e-mail.';
+$Definition['Whoops! There was an error.'] = 'Ops! Si è verificato un errore.';
 $Definition['Why are you Banning this user?'] = 'Perché stai Bannando questo utente?';
 $Definition['Why do you want to join?'] = 'Perché vuoi unirti?';
 $Definition["Word"] = "Word";
