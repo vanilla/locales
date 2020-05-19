@@ -1615,6 +1615,7 @@ $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Menü açıldı�
 $Definition['Use My Current Password'] = 'Mevcut Parolamı Kullan';
 $Definition['User'] = 'Kullanıcı';
 $Definition['User "%s" does not exist.'] = '"%s" kullanıcısı yok.';
+$Definition['UserMatchNeedsPassword'] = 'Bu forumdaki bir kullanıcıya önceden atanmış bir kullanıcı adıyla bağlanmaya çalışıyorsunuz. Bu sizin hesabınız ise lütfen hesap şifresini girin.';
 $Definition['Username'] = 'Kullanıcı Adı';
 $Definition['Username already exists.'] = 'Kullanıcı adı zaten alınmış.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Kullanıcı adı yanlızca harfler, sayılar ve alt çizgilerden oluşabilir.';
