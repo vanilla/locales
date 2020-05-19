@@ -1610,6 +1610,7 @@ $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use keyboard sho
 $Definition['Use My Current Password'] = 'Use My Current Password';
 $Definition['User'] = 'User';
 $Definition['User "%s" does not exist.'] = 'User "%s" does not exist.';
+$Definition['UserMatchNeedsPassword'] = 'You are trying to connect with a username that is already assigned to a user. If this is you, please enter the password you used when you created this account on this forum.';
 $Definition['Username'] = 'Username';
 $Definition['Username already exists.'] = 'Username already exists.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Username can only contain letters, numbers, and underscores.';
