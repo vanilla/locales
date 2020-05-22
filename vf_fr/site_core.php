@@ -1627,6 +1627,7 @@ $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Utilisez les rac
 $Definition['Use My Current Password'] = 'Utiliser mon Mot de passe actuel';
 $Definition['User'] = 'Utilisateur';
 $Definition['User "%s" does not exist.'] = 'L\'utilisateur "%s" n\'existe pas.';
+$Definition['UserMatchNeedsPassword'] = 'Vous essayez de vous connecter avec un nom d\'utilisateur déjà attribué. S\'il s\'agit de votre compte, veuillez saisir le mot de passe pour accéder au forum.';
 $Definition['Username'] = 'Pseudo';
 $Definition['Username already exists.'] = 'Ce nom d\'utilisateur existe déjà.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Le nom d\'utilisateur ne peut contenir que des lettres, des nombres, et des tirets bas.';
