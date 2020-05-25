@@ -856,3 +856,9 @@ $Definition['Reinterpret All Posts As Wysiwyg'] = 'Reinterpret All Posts As Wysi
 $Definition['Mobile Format'] = 'Mobile Format';
 $Definition['Enable Rich Quotes'] = 'Enable Rich Quotes';
 $Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition['Show an uploaded image on the Category page.'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
+$Definition['Default placeholder'] = 'Default placeholder';
+$Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
+$Definition['Upload Placeholder Image'] = 'Upload Placeholder Image';

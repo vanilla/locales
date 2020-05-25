@@ -331,3 +331,9 @@ $Definition["Left Aligned"] = "Left Aligned";
 $Definition["Center Aligned"] = "Center Aligned";
 $Definition["Image (Mobile)"] = "Image (Mobile)";
 $Definition["Alignment (Mobile)"] = "Alignment (Mobile)";
+
+// Catalogue Display Plugin/Formats
+$Definition['Show an uploaded image on the Category page.'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
+$Definition['Default placeholder'] = 'Default placeholder';
+$Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
+$Definition['Upload Placeholder Image'] = 'Upload Placeholder Image';

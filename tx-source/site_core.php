@@ -1932,6 +1932,7 @@ $Definition['Toggle Quote'] = 'Toggle Quote';
 $Definition['Spoiler Warning'] = 'Spoiler Warning';
 
 // Catalogue Display Plugin/Formats
-$Definition['Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
+$Definition['Show an uploaded image on the Category page.'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
 $Definition['Default placeholder'] = 'Default placeholder';
-$Definition['Upload a placeholder image that will display when users do not have an image in their post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
+$Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
+$Definition['Upload Placeholder Image'] = 'Upload Placeholder Image';
