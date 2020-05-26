@@ -331,4 +331,3 @@ $Definition["Left Aligned"] = "Left Aligned";
 $Definition["Center Aligned"] = "Center Aligned";
 $Definition["Image (Mobile)"] = "Image (Mobile)";
 $Definition["Alignment (Mobile)"] = "Alignment (Mobile)";
-
