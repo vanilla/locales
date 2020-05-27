@@ -577,6 +577,7 @@ Follow the link below to check it out:
 Have a great day!';
 $Definition['Email Unavailable'] = 'Email Unavailable';
 $Definition['Email visible to other users'] = 'Email visible to other users';
+$Definition['Embedded Media'] = 'Embedded Media';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
@@ -629,7 +630,7 @@ $Definition['Favorites'] = 'Favorites';
 $Definition['Feedback'] = 'Feedback';
 $Definition['Female'] = 'Female';
 $Definition['Fifth Anniversary'] = 'Fifth Anniversary';
-$Definition["File"] = "File";
+$Definition['File'] = 'File';
 $Definition['FileName'] = 'FileName';
 $Definition['Filename'] = 'Filename';
 $Definition['FileSize'] = 'FileSize';
@@ -863,6 +864,7 @@ $Definition['Leaving'] = 'Leaving';
 $Definition['Length'] = 'Length';
 $Definition['Level %s'] = 'Level %s';
 $Definition['Like'] = 'Like';
+$Definition['Link'] = 'Link';
 $Definition['Link to content:'] = 'Link to content:';
 $Definition["List Ordered"] = "List Ordered";
 $Definition["List Unordered"] = "List Unordered";
