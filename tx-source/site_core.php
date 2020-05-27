@@ -1200,7 +1200,6 @@ $Definition['questions'] = 'questions';
 $Definition['Question Title'] = 'Question Title';
 $Definition['Question Type'] = 'Question';
 $Definition['Quick Links'] = 'Quick Links';
-$Definition['quote'] = 'quote';
 $Definition['Quote'] = 'Quote';
 $Definition['Quote Folding'] = 'Quote Folding';
 $Definition['Quote on'] = 'on';
