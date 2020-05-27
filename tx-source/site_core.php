@@ -1942,3 +1942,6 @@ $Definition['Error'] = 'Error';
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Toggle Quote';
 $Definition['Spoiler Warning'] = 'Spoiler Warning';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Placeholder';
