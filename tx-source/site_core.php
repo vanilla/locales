@@ -573,6 +573,7 @@ Follow the link below to check it out:
 Have a great day!';
 $Definition['Email Unavailable'] = 'Email Unavailable';
 $Definition['Email visible to other users'] = 'Email visible to other users';
+$Definition['Embedded Media'] = 'Embedded Media';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
