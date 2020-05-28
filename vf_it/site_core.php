@@ -577,6 +577,7 @@ Segui il link in basso per dare uno sguardo:
 Buona giornata!';
 $Definition['Email Unavailable'] = 'E-Mail Non Disponibile';
 $Definition['Email visible to other users'] = 'E-Mail visibile agli altri utenti';
+$Definition['Embedded Media'] = 'File multimediali incorporati';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Leggi l\'intera storia qui</a></p><div class="ClearFix"></div></div>';
@@ -629,7 +630,7 @@ $Definition['Favorites'] = 'Preferiti';
 $Definition['Feedback'] = 'Feedback';
 $Definition['Female'] = 'Femmina';
 $Definition['Fifth Anniversary'] = 'Quinto Anniversario';
-$Definition["File"] = "File";
+$Definition['File'] = 'File';
 $Definition['FileName'] = 'Nome del File';
 $Definition['Filename'] = 'Nome del file';
 $Definition['FileSize'] = 'Dimensioni del File';
@@ -763,7 +764,7 @@ $Definition['Idea Status'] = 'Status dell\'Idea';
 $Definition['Idea Statuses'] = 'Status dell\'Idea';
 $Definition['Ideation'] = 'Ideazione';
 $Definition['Ignore'] = 'Ignora';
-$Definition['Ignore List'] = 'Ignora elenco';
+$Definition['Ignore List'] = 'Lista Ignorati';
 $Definition['IgnoreListMeter'] = 'La lista "ignorati" è <b>%s%%</b> piena (<b>%d/%d</b>).';
 $Definition['IgnoreListRevoke'] = 'Annullare le attribuzioni della lista "ignorati" di <b>%s</b>?';
 $Definition['IgnoreListUnlimited'] = '<b>Lista</b> illimitata, "ignorati" <b>%d</b> %s';
@@ -782,7 +783,7 @@ $Definition['ImageUploadLimits.Height2'] = 'Le immagini saranno ridimensionate s
 $Definition['in'] = 'in';
 $Definition['In <b>%s.</b>'] = 'Nella <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Nella <b>%s</b> e discussioni recenti.';
-$Definition['Inbox'] = 'Ricevuti';
+$Definition['Inbox'] = 'Posta';
 $Definition['In emoji category: '] = 'Nella categoria emoji:';
 $Definition['Incorrect. Try again.'] = 'Non corretto. Riprova.';
 $Definition['Indent'] = 'Inserisci rientro';
@@ -864,6 +865,7 @@ $Definition['Leaving'] = 'Uscendo';
 $Definition['Length'] = 'Lunghezza';
 $Definition['Level %s'] = 'Livello %s';
 $Definition['Like'] = 'Mi piace';
+$Definition['Link'] = 'Link';
 $Definition['Link to content:'] = 'Link al contenuto:';
 $Definition["List Ordered"] = "Elenco Ordinato";
 $Definition["List Unordered"] = "Elenco In Ordine Casuale";
@@ -1691,7 +1693,7 @@ $Definition['Vote'] = 'Vota';
 $Definition['Vote (action)'] = 'Vota';
 $Definition['Vote Down'] = 'Vota Giù';
 $Definition['Votes'] = 'Voti';
-$Definition['Vote Up'] = 'Vota Su';
+$Definition['Vote Up'] = 'Promuovi';
 $Definition['Voting for the idea is %s.'] = 'La votazione per l\'idea è %s.';
 
 $Definition['wall'] = 'bacheca';
@@ -1943,3 +1945,6 @@ $Definition['Error'] = 'Errore';
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Attiva/Disattiva Citazione';
 $Definition['Spoiler Warning'] = 'Avviso spoiler';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Segnaposto';
