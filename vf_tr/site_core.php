@@ -578,6 +578,7 @@ Göz atmak için bu bağlantıyı takip edin:
 İyi günler!';
 $Definition['Email Unavailable'] = 'E-posta Kullanılamaz';
 $Definition['Email visible to other users'] = 'Diğer kullanıcılar Email\'i görebilir.';
+$Definition['Embedded Media'] = 'Gömülü Medya';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Bütün hikayeyi buradan okuyun</a></p><div class="ClearFix"></div></div>';
@@ -630,7 +631,7 @@ $Definition['Favorites'] = 'Favoriler';
 $Definition['Feedback'] = 'Geri Bildirim';
 $Definition['Female'] = 'Kadın';
 $Definition['Fifth Anniversary'] = 'Beşinci Yıldönümü';
-$Definition["File"] = "Dosya";
+$Definition['File'] = 'Dosya';
 $Definition['FileName'] = 'DosyaAdı';
 $Definition['Filename'] = 'Dosya Adı';
 $Definition['FileSize'] = 'DosyaBoyutu';
@@ -864,6 +865,7 @@ $Definition['Leaving'] = 'Ayrılma';
 $Definition['Length'] = 'Uzunluk';
 $Definition['Level %s'] = 'Seviye %s';
 $Definition['Like'] = 'Beğen';
+$Definition['Link'] = 'Bağlantı';
 $Definition['Link to content:'] = 'İçeriğe bağla:';
 $Definition["List Ordered"] = "Sıraya Konanları Listele";
 $Definition["List Unordered"] = "Sıraya Konmamışları Listele";
@@ -1932,3 +1934,6 @@ $Definition['Error'] = 'Hata';
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Teklifi Değiştir';
 $Definition['Spoiler Warning'] = 'Spoiler İkazı';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Yer tutucu';
