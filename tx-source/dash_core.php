@@ -643,6 +643,7 @@ $Definition['seconds'] = 'seconds';
 $Definition['Security'] = 'Security';
 $Definition['See also'] ='See also';
 $Definition['Select'] = 'Select';
+$Definition['Select Discussion'] = 'Select Discussion';
 $Definition['Select the location of the pocket.'] = 'Select the location of the pocket.';
 $Definition['Send %s a Message'] = 'Send %s a Message';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Send a confirmation email when people ask a question or start a discussion over email.';
