@@ -1953,3 +1953,5 @@ $Definition['Placeholder'] = 'Placeholder';
 
 // Accessibility
 $Definition['%s for discussion: "%s"'];
+$Definition['User "%s" started discussion "%s" on date %s'];
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'];
