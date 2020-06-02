@@ -584,6 +584,7 @@ Suivez ce lien pour en savoir plus :
 Cordialement,';
 $Definition['Email Unavailable'] = 'Email indisponible';
 $Definition['Email visible to other users'] = 'Adresse e-mail visible par les autres utilisateurs.';
+$Definition['Embedded Media'] = 'Médias intégrés';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Voir la suite</a></p><div class="ClearFix"></div></div>';
@@ -636,7 +637,7 @@ $Definition['Favorites'] = 'Favoris';
 $Definition['Feedback'] = 'Retour';
 $Definition['Female'] = 'Femme';
 $Definition['Fifth Anniversary'] = 'Cinquième Anniversaire';
-$Definition["File"] = "Fichier";
+$Definition['File'] = 'Fichier';
 $Definition['FileName'] = 'Nom du Fichier';
 $Definition['Filename'] = 'Nom du fichier';
 $Definition['FileSize'] = 'Taille du fichier';
@@ -871,6 +872,7 @@ $Definition['Leaving'] = 'Lien externe';
 $Definition['Length'] = 'Longeur';
 $Definition['Level %s'] = 'Niveau %s';
 $Definition['Like'] = 'J\'aime';
+$Definition['Link'] = 'Lien';
 $Definition['Link to content:'] = 'Lien vers le contenu : ';
 $Definition["List Ordered"] = "Liste ordonnée";
 $Definition["List Unordered"] = "Liste non ordonnée";
@@ -1679,7 +1681,9 @@ $Definition['Verifying your credentials...'] = 'Vérifiez vos identifiants...';
 $Definition['via %s'] = 'via %s';
 $Definition['Video embedding has been disabled.'] = 'Les vidéos intégrées ont été désactivées. Les URLs ne seront plus traduites dans leur équivalent intégré.';
 $Definition['View'] = 'Visualiser';
-$Definition["View All"] = "Voir tout";
+$Definition['View all going attendees'] = 'Voir tous les participants';
+$Definition['View all not going attendees'] = 'Voir tous les participants absents';
+$Definition['View all maybe attendees'] = 'Voir tous les participants éventuels';
 $Definition['View Badge'] = 'Voir badge';
 $Definition['View Profile'] = 'Voir le profil';
 $Definition['View Post'] = 'Afficher la publication';
@@ -1945,3 +1949,6 @@ $Definition['Error'] = 'Erreur';
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Basculer';
 $Definition['Spoiler Warning'] = 'Avertissement de révélation';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Emplacement';
