@@ -313,6 +313,7 @@ $Definition['bookmarked discussion'] = 'bookmarked discussion';
 $Definition['Bookmarked Discussions'] = 'Bookmarked Discussions';
 $Definition['Bookmarks'] = 'Bookmarks';
 $Definition['bookmarks'] = 'bookmarks';
+$Definition['Bottom'] = 'Bottom';
 $Definition["Breadcrumb"] = "Breadcrumb";
 $Definition['Browse Groups'] = 'Browse Groups';
 $Definition['Browse popular groups.'] = 'Browse popular groups.';
@@ -1349,6 +1350,7 @@ $Definition['Select a %s'] = 'Select a %s';
 $Definition['Select a category...'] = 'Select a category...';
 $Definition['Select a community.'] = 'Select a community.';
 $Definition['Select an image on your computer (2mb max)'] = 'Select an image on your computer (2mb max)';
+$Definition['Select Discussion'] = 'Select Discussion';
 $Definition['Select one of the following avatars:'] = 'Select one of the following avatars:';
 $Definition['Send'] = 'Send';
 $Definition['Send a New Message'] = 'Send a New Message';
@@ -1563,6 +1565,7 @@ $Definition["Toggle Category"] = "Toggle Category";
 $Definition['Toggle full page'] = 'Toggle full page';
 $Definition['Toggle HTML view'] = 'Toggle HTML view';
 $Definition['Toggle lights'] = 'Toggle lights';
+$Definition['Top'];
 $Definition['Topic'] = 'Topic';
 $Definition['Topics'] = 'Topics';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'To send another confirmation email click <a href="%s">here</a>.';
@@ -1947,3 +1950,6 @@ $Definition['Spoiler Warning'] = 'Spoiler Warning';
 
 // Catalogue Display Plugin/Formats
 $Definition['Placeholder'] = 'Placeholder';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'];
