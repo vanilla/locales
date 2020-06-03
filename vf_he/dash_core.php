@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'debugger';
 $Definition['Debug Information'] = 'מידע debug';
 $Definition['Decline'] = 'דחה';
 $Definition['Default (%s)'] = 'ברירת מחדל Default (%s)';
+$Definition['Default <0/>'] = 'ברירת מחדל <0/>';
 $Definition['Default %s Permissions'] = 'הרשאות %s ברירת מחדל';
 $Definition['Default  Category'] = 'הקטגוריה שמוגדרת כברירת המחדל';
 $Definition['Default Category Permissions'] = 'הרשאות ברירת מחדל לקטגוריה';

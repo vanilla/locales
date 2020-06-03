@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Debugger';
 $Definition['Debug Information'] = 'Debug Information';
 $Definition['Decline'] = '거부';
 $Definition['Default (%s)'] = '디폴트 (%s)';
+$Definition['Default <0/>'] = '기본값 <0/>';
 $Definition['Default %s Permissions'] = 'Default %s Permissions';
 $Definition['Default  Category'] = 'Default  Category';
 $Definition['Default Category Permissions'] = 'Default Category Permissions';

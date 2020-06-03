@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Дебагер';
 $Definition['Debug Information'] = 'Debug Information';
 $Definition['Decline'] = 'Відхилити';
 $Definition['Default (%s)'] = 'За замовчуванням (%s)';
+$Definition['Default <0/>'] = 'За замовчуванням <0/>';
 $Definition['Default %s Permissions'] = 'Default %s Permissions';
 $Definition['Default  Category'] = 'Категорія за замовчуванням';
 $Definition['Default Category Permissions'] = 'Права категорії по замовчуванню';

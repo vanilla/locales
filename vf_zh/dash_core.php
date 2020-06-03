@@ -237,6 +237,7 @@ $Definition['Debugger'] = '调试';
 $Definition['Debug Information'] = '调试信息';
 $Definition['Decline'] = '取消';
 $Definition['Default (%s)'] = '默认值 (%s)';
+$Definition['Default <0/>'] = '默认<0/>';
 $Definition['Default %s Permissions'] = '默认 %s 权限';
 $Definition['Default  Category'] = '默认版块';
 $Definition['Default Category Permissions'] = '默认版块权限';

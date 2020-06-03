@@ -237,6 +237,7 @@ $Definition['Debugger'] = 'Virheenetsintä';
 $Definition['Debug Information'] = 'Virheenetsintätietoja';
 $Definition['Decline'] = 'Hylk&auml;&auml;';
 $Definition['Default (%s)'] = 'Oletusarvoinen (%s)';
+$Definition['Default <0/>'] = 'Oletusarvoinen <0/>';
 $Definition['Default %s Permissions'] = 'Perus %s oletusoikeudet';
 $Definition['Default  Category'] = 'Oletus Kategoria';
 $Definition['Default Category Permissions'] = 'Kategorian oletusoikeudet';
