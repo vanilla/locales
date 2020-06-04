@@ -762,6 +762,7 @@ $Definition['ideas'] = 'ideas';
 $Definition['Idea Status'] = 'Idea Status';
 $Definition['Idea Statuses'] = 'Idea Statuses';
 $Definition['Ideation'] = 'Ideation';
+$Definition['Ideation Type'] = 'Idea';
 $Definition['Ignore'] = 'Ignore';
 $Definition['Ignore List'] = 'Ignore List';
 $Definition['IgnoreListMeter'] = 'Ignore list is <b>%s%%</b> full (<b>%d/%d</b>).';
