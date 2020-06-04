@@ -764,6 +764,7 @@ $Definition['ideas'] = 'fikirler';
 $Definition['Idea Status'] = 'Fikir Durumu';
 $Definition['Idea Statuses'] = 'Fikir Durumları';
 $Definition['Ideation'] = 'İdeasyon';
+$Definition['Ideation Type'] = 'Fikir';
 $Definition['Ignore'] = 'Yoksay';
 $Definition['Ignore List'] = 'Listeyi Yoksay';
 $Definition['IgnoreListMeter'] = 'Yok sayma listesi <b>%s%%</b> dolu (<b>%d/%d</b>).';
