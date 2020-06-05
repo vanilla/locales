@@ -1959,3 +1959,4 @@ $Definition['%s for category: "%s"'] = '%s for category: "%s"';
 $Definition['Category: "%s"'] = 'Category: "%s"';
 $Definition['User: "%s"'] = 'User: "%s"';
 $Definition['Group: "%s"'] = 'Group: "%s"';
+$Definition['Global Navigation'] = 'Global Navigation';
