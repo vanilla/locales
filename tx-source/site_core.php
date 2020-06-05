@@ -1957,3 +1957,5 @@ $Definition['User "%s" started discussion "%s" on date %s'] = 'User "%s" started
 $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Most recent comment on date %s, in discussion "%s", by user "%s"';
 $Definition['%s for category: "%s"'] = '%s for category: "%s"';
 $Definition['Category: "%s"'] = 'Category: "%s"';
+$Definition['User: "%s"'] = 'User: "%s"';
+$Definition['Group: "%s"'] = 'Group: "%s"';
