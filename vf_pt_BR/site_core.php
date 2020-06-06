@@ -135,6 +135,7 @@ $Definition['[Deleted User]'] = '[Usuário excluído]';
 
 $Definition['About'] = 'Sobre';
 $Definition['About %s users'] = 'Sobre %s usuários';
+$Definition['About the event'] = 'Sobre o evento';
 $Definition['AboutToDelete'] = 'Você está prestes a excluir %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Você está prestes a excluir %1$s de %2$s discussões selecionadas.';
 $Definition['Abuse'] = 'Abuso';
@@ -253,6 +254,7 @@ $Definition['Are you sure you want to do this?'] = 'Tem certeza de que deseja fa
 $Definition['Are you sure you want to join this group?'] = 'Tem certeza de que deseja participar deste grupo?';
 $Definition['Are you sure you want to leave this conversation?'] = 'Tem certeza de que deseja sair desta conversa?';
 $Definition['Are you sure you want to leave this group?'] = 'Tem certeza de que deseja sair deste grupo?';
+$Definition['Are you sure you want to unignore %s?'] = 'Tem certeza de que deseja cancelar a assinatura de <b>%s</b>?';
 $Definition['Are you sure you wish to continue?'] = 'Tem certeza de que deseja continuar?';
 $Definition['Ask a Question'] = 'Faça uma pergunta';
 $Definition['Ask Question'] = 'Faça uma pergunta';
@@ -444,6 +446,7 @@ $Definition['Date.DefaultTimeFormat'] = '%H:%M';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Espera-se \'mm/dd/aaaa\'';
 $Definition['Date Added'] = 'Data incluída';
+$Definition['Date Ignored'] = 'Data Ignorada';
 $Definition["Date Input"] = "Entrada de Data";
 $Definition['Date Examples'] = 'Exemplos: segunda-feira, hoje, semana passada, 26 de março, 26/03/04';
 $Definition["Date Updated"] = "Data Atualizada";
@@ -485,6 +488,7 @@ $Definition['Discussions'] = 'Discussões';
 $Definition['discussions'] = 'discussões';
 $Definition['Discussions Page'] = 'Página de Discussões';
 $Definition['Discussion List'] = 'Lista de Discussão';
+$Definition['Discussion marked as noindex'] = 'Discussão marcada como noindex';
 $Definition['Discussion Title'] = 'Título da Discussão';
 $Definition['Discussion Type'] = 'Discussão';
 $Definition['Dislike'] = 'Não gostar';
@@ -579,6 +583,7 @@ Siga o link abaixo para ver isso:(\\n)
 Tenha um bom dia!';
 $Definition['Email Unavailable'] = 'E-mail indisponível';
 $Definition['Email visible to other users'] = 'E-mail visível a outros usuários';
+$Definition['Embedded Media'] = 'Mídia embutida';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>(\\n)
 <p>{Excerpt}</p>(\\n)
 <p><a href="{Url}">Leia a história completa aqui</a></p><div class="ClearFix"></div></div>';
@@ -631,7 +636,7 @@ $Definition['Favorites'] = 'Favoritos';
 $Definition['Feedback'] = 'Comentários';
 $Definition['Female'] = 'Feminino';
 $Definition['Fifth Anniversary'] = 'Quinto aniversário';
-$Definition["File"] = "Arquivo";
+$Definition['File'] = 'Arquivo';
 $Definition['FileName'] = 'Nome do arquivo';
 $Definition['Filename'] = 'Nome do arquivo';
 $Definition['FileSize'] = 'Tamanho do arquivo';
@@ -691,6 +696,7 @@ $Definition['Give a Badge to %s'] = 'Dar uma medalha a %s';
 $Definition['Give Badge'] = 'Dar Medalha';
 $Definition['Given'] = 'Concedido';
 $Definition['Go'] = 'Ir';
+$Definition['Going'] = 'Vou';
 $Definition['Group'] = 'Grupo';
 $Definition['group'] = 'grupo';
 $Definition['GroupEmptyAnnouncements'] = 'Um dia as coisas importantes irão parar aqui.';
@@ -751,7 +757,7 @@ $Definition['Howdy, Stranger!'] = 'Olá, bem-vind@!';
 $Definition['How long do you want this warning to last?'] = 'Quanto tempo você quer que dure este aviso?';
 $Definition['How many levels deep should we start folding up quote trees?'] = 'Quantos níveis de profundidade devemos considerar para criar sua cota?';
 
-$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Eu concordo com os<a id="TermsOfService" class="Popup" target="terms" href="%s">termos de serviço</a>';
+$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Eu concordo com os <a id="TermsOfService" class="Popup" target="terms" href="%s">termos de serviço</a>';
 $Definition['Icon'] = 'Ícone';
 $Definition["Icon for: "] = "Ícone para:";
 $Definition['I confirm that I have received consent to join this community.'] = 'Como tenho menos de %d anos de idade, confirmo que eu recebi consentimento para participar desta comunidade.';
@@ -762,6 +768,7 @@ $Definition['ideas'] = 'ideias';
 $Definition['Idea Status'] = 'Situação da ideia';
 $Definition['Idea Statuses'] = 'Situações da idea';
 $Definition['Ideation'] = 'Ideação';
+$Definition['Ideation Type'] = 'ideia';
 $Definition['Ignore'] = 'Ignorar';
 $Definition['Ignore List'] = 'Lista de ignorados';
 $Definition['IgnoreListMeter'] = 'A lista de ignorar está <b>%s%%</b> cheia (<b>%d/%d</b>).';
@@ -864,6 +871,7 @@ $Definition['Leaving'] = 'Saindo';
 $Definition['Length'] = 'Comprimento';
 $Definition['Level %s'] = 'Nível %s';
 $Definition['Like'] = 'Curtir';
+$Definition['Link'] = 'Link';
 $Definition['Link to content:'] = 'Link para o conteúdo:';
 $Definition["List Ordered"] = "Lista ordenada";
 $Definition["List Unordered"] = "Lista Não Ordenada";
@@ -959,6 +967,7 @@ $Definition['More'] = 'Mais';
 $Definition['More About %s'] = 'Mais sobre %s';
 $Definition['More Comments'] = 'Mais comentários';
 $Definition['More Discussions'] = 'Mais Discussões';
+$Definition['More Events'] = 'Mais Eventos';
 $Definition['More Information'] = 'Mais informação';
 $Definition['More Results'] = 'Mais resultados';
 $Definition['More…'] = 'Mais...';
@@ -993,6 +1002,7 @@ $Definition['new'] = 'novo';
 $Definition['New'] = 'Nova';
 $Definition['New %s'] = 'Novo %s';
 $Definition['New Announcement'] = 'Novo anúncio';
+$Definition['New Author'] = 'Novo Autor';
 $Definition['New Conversation'] = 'Nova mensagem';
 $Definition['New Discussion'] = 'Nova Discussão';
 $Definition['new discussion'] = 'novo';
@@ -1006,6 +1016,7 @@ $Definition['New Idea'] = 'Nova ideia';
 $Definition['New Message'] = 'Nova mensagem';
 $Definition['New Password'] = 'Nova senha';
 $Definition['New Poll'] = 'Nova enquete';
+$Definition['New Post'] = 'Novo Post';
 $Definition['Next'] = 'Próximo';
 $Definition['Ninth Anniversary'] = 'Nono aniversário';
 $Definition['No'] = 'Não';
@@ -1024,6 +1035,7 @@ $Definition['No results for \'%s\''] = 'Sem resultados para \'%s\'';
 $Definition["No results for '<0/>'."] = "Nenhum resultado para '<0/>'.";
 $Definition["No results found."] = "Nenhum resultado encontrado.";
 $Definition['No Roles'] = 'Sem funções';
+$Definition['Not going'] = 'Não vou';
 $Definition['Not Attending (%s)'] = 'Ausente (%s)';
 $Definition['Not Authorized (401)'] = 'Não autorizado (401)';
 $Definition['Notes'] = 'Notas';
@@ -1056,6 +1068,7 @@ $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'N
 $Definition['Not much happening here, yet.'] = 'Ainda não está acontecendo muita coisa por aqui.';
 $Definition['Not registered?'] = 'Não registrado?';
 $Definition['Not Verified'] = 'Não verificado';
+$Definition['Not Verified Description'] = 'Usuários não verificados são avaliados por filtros de spam e de pré moderação.';
 
 $Definition[' now.'] = ' agora.';
 
@@ -1182,6 +1195,7 @@ $Definition['Private group.'] = 'Qualquer pessoa pode ver o grupo, mas apenas os
 $Definition['Private Note for Moderators'] = 'Nota privada para moderadores';
 $Definition['Problem with credentials.'] = 'Problema com credenciais.';
 $Definition['Proceed'] = 'Proceder';
+$Definition['Products'] = 'Produtos';
 $Definition['Profile'] = 'Perfil';
 $Definition['Profile Fields'] = 'Campos do perfil';
 $Definition['Profile  Fields'] = 'Campos do perfil';
@@ -1522,10 +1536,13 @@ $Definition['they'] = 'eles';
 $Definition['Third Anniversary'] = 'Terceiro aniversário';
 $Definition['This answer was %s.'] = 'A resposta foi %s.';
 $Definition['This answer was Accepted.'] = 'Esta resposta foi aceita.';
+$Definition['This category does not have any articles.'] = 'Não há artigos nesta categoria.';
+$Definition['This category does not have any events.'] = 'Não existem eventos nesta categoria.';
 $Definition['This discussion has been closed.'] = 'Esta discussão está fechada.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'Esta discussão está relacionada a um conteúdo de fonte desconhecida.';
 $Definition['This discussion was created from comments split from: %s.'] = 'Esta discussão foi criada a partir da divisão de comentários de: %s';
 $Definition['This discussion was merged into %s'] = 'Esta discussão foi unida com %s';
+$Definition['This field partially supports HTML.'] = 'Esse campo suporta HTML parcialmente. ';
 $Definition['This image has been inserted into the body of text.'] = 'Esta imagem foi inserida no corpo do texto.';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Esta imagem foi redimensionada para caber na página. Clique para aumentá-la.';
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'Esta é uma enquete privada: ninguém poderá ver seu voto.';
@@ -1618,6 +1635,7 @@ $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use os atalhos d
 $Definition['Use My Current Password'] = 'Usar minha senha atual';
 $Definition['User'] = 'Usuário';
 $Definition['User "%s" does not exist.'] = 'Usuário "%s" não existe.';
+$Definition['UserMatchNeedsPassword'] = 'Você está tentando conectar com um nome de usuário já existente nesse fórum. Se essa é sua conta, por favor digite a senha dessa conta.';
 $Definition['Username'] = 'Nome de usuário';
 $Definition['Username already exists.'] = 'Nome de usuário já está sendo usado.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Nomes de usuário só podem conter letras, números e underlines.';
@@ -1668,7 +1686,9 @@ $Definition['Verifying your credentials...'] = 'Verificando suas credenciais...'
 $Definition['via %s'] = 'via %s';
 $Definition['Video embedding has been disabled.'] = 'Incorporação de vídeo foi desativada. URLs não serão traduzidas em seu equivalente embutido.';
 $Definition['View'] = 'Ver';
-$Definition["View All"] = "Exibir Todos";
+$Definition['View all going attendees'] = 'Visualize todos os participantes que irão';
+$Definition['View all not going attendees'] = 'Visualize todos os participantes que não irão';
+$Definition['View all maybe attendees'] = 'Visualize todos os possíveis participantes';
 $Definition['View Badge'] = 'Ver medalhas';
 $Definition['View Profile'] = 'Visualizar Perfil';
 $Definition['View Post'] = 'Ver Publicação';
@@ -1727,12 +1747,14 @@ $Definition['What to search'] = 'O que pesquisar';
 $Definition['When'] = 'Quando';
 $Definition['Where'] = 'Onde';
 $Definition['Where do you want to announce this discussion?'] = 'Onde deseja anunciar esta discussão?';
+$Definition['Will you be attending?'] = 'Você irá comparecer?';
 $Definition['Who\'s going?'] = 'Quem vai?';
 $Definition['Who\'s Online'] = 'Quem está online?';
 $Definition['Who\'s Online in this Category'] = 'Quem está online nesta categoria';
 $Definition['Who\'s Online in this Discussion'] = 'Quem está Online nesta Discussão';
 $Definition['Whoops!'] = 'Ops!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Ops! Você precisa se registrar antes de poder enviar e-mails ao nosso site.';
+$Definition['Whoops! There was an error.'] = 'Ocorreu um erro';
 $Definition['Why are you Banning this user?'] = 'Por que está banindo este usuário?';
 $Definition['Why do you want to join?'] = 'Por que você deseja participar?';
 $Definition["Word"] = "Palavra";
@@ -1771,9 +1793,18 @@ $Definition['You are limited to %s recipients.'] = 'Você está limitado a %s de
 $Definition['You are jailed.'] = 'Você está preso.';
 $Definition['You aren\'t a %s of this group.'] = 'Você não é um %s deste grupo.';
 $Definition['You aren\'t allowed to %s this group.'] = 'Você não está autorizado a %s este grupo.';
-$Definition['You are not allowed to ban a user that has higher permissions than you.'] = 'Você não pode banir um usuário com permissões superiores às suas.';
-$Definition['You are not allowed to ban a user with the same permission level as you.'] = 'Você não pode banir um usuário com o mesmo nível de permissões que o seu. ';
-$Definition['User has same or higher permissions.'] = 'Você não pode realizar esta operação em um usuário com permissões iguais ou superiores às suas.';
+$Definition['You are not allowed to ban a user that has higher permissions than you.'] =
+    'Você não pode banir um usuário com permissões superiores às suas.';
+$Definition['You are not allowed to ban a user with the same permission level as you.'] =
+    'Você não pode banir um usuário com o mesmo nível de permissões que o seu. ';
+$Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] =
+    'Você não possui permissão para marcar um usuário com permissões mais elevadas do que você como um provocador.';
+$Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] =
+    'Você não possui permissão para marcar um usuário com o mesmo nível de permissão que você como um provocador.';
+$Definition['You are not allowed to warn a user with higher permissions than you.'] =
+    'Você não possui permissão para advertir um usuário com permissões mais elevadas que você.';
+$Definition['You are not allowed to warn a user with the same permission level as you.'] =
+    'Você não possui permissão para advertir um usuário com o mesmo nível de permissão que você.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Agora você está saindo de %1$s. Clique no link para continuar até %2$s.';
 $Definition['You are now signed in.'] = 'Agora você está conectado.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Você está permitido apenas {maxImages,plural,%s image,%s images}.';
@@ -1924,3 +1955,6 @@ $Definition['Error'] = 'Erro';
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Alternar citação';
 $Definition['Spoiler Warning'] = 'Alerta de spoiler';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Espaço reservado';
