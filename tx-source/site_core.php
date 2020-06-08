@@ -501,6 +501,7 @@ $Definition['Don\'t have an account? %s'] = 'Don\'t have an account? %s';
 $Definition['Don\'t know'] = 'Don\'t know';
 $Definition['Download'] = 'Download';
 $Definition['Download the sounds as MP3'] = 'Download the sounds as MP3';
+$Definition['Down Arrow'] = 'Down Arrow';
 $Definition['Do you want to expire or delete this warning?'] = 'Do you want to expire or delete this warning?';
 $Definition["Draft"] = "Draft";
 $Definition["Drafts"] = "Drafts";
