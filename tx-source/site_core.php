@@ -730,6 +730,8 @@ $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} cha
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} joined.';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
+$Definition['HeadlineFormat.Warning.ToUser'] = 'You\'ve been warned.';
+$Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'You\'ve been <a href="{Url,html}" class="Popup">warned</a>.';
 $Definition['Hello!'] = 'Hello!';
 $Definition['Hello %s!'] = 'Hello %s!';
 $Definition['Hello {User.Name}!'] = 'Hello {User.Name}!';
