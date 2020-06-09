@@ -1249,6 +1249,7 @@ $Definition["Refresh"] = "Refresh";
 $Definition['Recover Password'] = 'Recover Password';
 $Definition['Refetch Page'] = 'Refetch Page';
 $Definition['Register'] = 'Register';
+$Definition['Register Now'] = 'Register Now';
 $Definition['Register IP'] = 'Register IP';
 $Definition['Register with %s'] = 'Register';
 $Definition['Registration  Fields'] = 'Registration  Fields';
