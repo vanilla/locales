@@ -548,7 +548,7 @@ $Definition['Number of blocked registrations'] = 'Number of blocked registration
 $Definition['On'] = 'On';
 $Definition['Only Allow Each User To Post'] = 'Only Allow Each User To Post';
 $Definition['Only display on mobile browsers.'] = 'Only display on mobile browsers.';
-$Definition['Only visible to users with roles with permission.'];
+$Definition['Only visible to users with roles with permission.'] = 'Only visible to users with roles with permission.';
 $Definition['Operation By'] = 'By';
 $Definition['Organization'] = 'Organization';
 $Definition['Organize'] = 'Organize';
