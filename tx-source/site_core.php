@@ -1567,7 +1567,7 @@ $Definition["Toggle Category"] = "Toggle Category";
 $Definition['Toggle full page'] = 'Toggle full page';
 $Definition['Toggle HTML view'] = 'Toggle HTML view';
 $Definition['Toggle lights'] = 'Toggle lights';
-$Definition['Top'];
+$Definition['Top'] = 'Top';
 $Definition['Topic'] = 'Topic';
 $Definition['Topics'] = 'Topics';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = 'To send another confirmation email click <a href="%s">here</a>.';
