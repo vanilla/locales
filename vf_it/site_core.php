@@ -731,6 +731,8 @@ $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} hai
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} ti sei unito/a.';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} sei stato riammesso/a {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} sei stato segnalato/a {RegardingUserID,you}.';
+$Definition['HeadlineFormat.Warning.ToUser'] = 'Sei stato avvisato.';
+$Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Hai ricevuto un <a href="{Url,html}" class="Popup">avviso</a>.';
 $Definition['Hello!'] = 'Ciao!';
 $Definition['Hello %s!'] = 'Ciao %s!';
 $Definition['Hello {User.Name}!'] = 'Ciao {User.Name}!';
