@@ -40,7 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Dai un\'occhiata al nostro %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla è la più semplice e la più potente piattaforma per comunità nel mondo. È super-super facile da usare. Inizia con questo video introduttivo e continua con i passaggi seguenti. Buon divertimento!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Scegli un ruolo da assegnare a questi utenti:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Scegli un tema per questa comunità secondaria. &lt;0&gt; Leggi di più </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Scegli un tema per questa comunità secondaria. <0>Leggi di più</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Scegli come gestire i contenuti relativi all\'utente %s (commenti, messaggi, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Puoi selezionare un algoritmo personalizzato per firmare le tue richieste. L\'algoritmo deve essere utilizzato anche nella vostra libreria client. Scegli md5 se non siete sicuri di cosa scegliere.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Scegli il layout preferito per gli elenchi delle categorie.';
@@ -304,7 +304,7 @@ $Definition["Border Radius"] = "Raggio del bordo";
 $Definition["Font URL"] = "URL carattere";
 $Definition["Font Name"] = "Nome carattere";
 $Definition["Invalid URL"] = "URL non valido";
-$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Puoi caricare un carattere personalizzato nel tuo sistema Theming. Basta copiare e incollare l&#39;URL nel campo.";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Puoi caricare un carattere personalizzato nel tuo sistema Theming. Basta copiare e incollare l'URL nel campo.";
 $Definition["You can configure some values differently for different screensizes."] = "È possibile configurare alcuni valori in modo diverso per schermate diverse.";
 $Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Devi aggiungere il dominio dell&#39;URL del carattere a &lt;0&gt; DisabledDomains </0> , nella configurazione del sito. &lt;1&gt; Ulteriori informazioni sui caratteri personalizzati. </1> .";
 
