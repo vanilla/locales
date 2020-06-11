@@ -678,6 +678,8 @@ $Definition['Start Discussions'] = 'Start Discussions';
 $Definition['Start Private Conversations'] = 'Start Private Conversations';
 $Definition['State'] = 'State';
 $Definition['Statistics'] = 'Statistics';
+$Definition['Strip Embeds'] = 'Strip Embeds';
+$Definition['Strip Embeds'] = 'Strip images and videos out of posts.';
 $Definition["Style"] = "Style";
 $Definition['Styles'] = 'Styles';
 
@@ -764,6 +766,7 @@ $Definition['Time'] = 'Time';
 $Definition['Titles'] = 'Titles';
 $Definition['Token Name'] = 'Token Name';
 $Definition['Touch Icon'] = 'Touch Icon';
+$Definition['Truncate the initial discussion text to this many words.'] = 'Truncate the initial discussion text to this many words.';
 $Definition['trusted domains'] = 'trusted domains';
 $Definition['Trusted Domains'] = 'Trusted Domains';
 $Definition['Turn OFF'] = 'Turn OFF';
@@ -828,6 +831,9 @@ $Definition['Why do you want to join?'] = 'Why do you want to join?';
 $Definition['Within'] = 'Within';
 $Definition['Will you be attending?'] = 'Will you be attending?';
 $Definition['WordPress Plugin'] = 'WordPress Plugin';
+$Definition['Word Count'] = 'Word Count';
+$Definition['Word Count must be numeric'] = 'Word Count must be numeric';
+$Definition['Word Count is required'] = 'Word Count is required';
 
 $Definition['Yes, the following information can be changed later.'] = 'Yes, the following information can be changed later.';
 $Definition['You are connected as %s.'] = 'You are connected as %s.';
