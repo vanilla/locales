@@ -40,6 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Dai un\'occhiata al nostro %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla è la più semplice e la più potente piattaforma per comunità nel mondo. È super-super facile da usare. Inizia con questo video introduttivo e continua con i passaggi seguenti. Buon divertimento!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Scegli un ruolo da assegnare a questi utenti:';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Scegli un tema per questa comunità secondaria. &lt;0&gt; Leggi di più </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Scegli come gestire i contenuti relativi all\'utente %s (commenti, messaggi, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Puoi selezionare un algoritmo personalizzato per firmare le tue richieste. L\'algoritmo deve essere utilizzato anche nella vostra libreria client. Scegli md5 se non siete sicuri di cosa scegliere.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Scegli il layout preferito per gli elenchi delle categorie.';
@@ -260,6 +261,17 @@ $Definition['You must select a file to import.'] = 'Devi selezionare un file da 
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Il tema del tuo cellulare verrà disattivato. Per impostare diversi temi per dispositivi mobili e desktop, utilizzare la vecchia interfaccia utente a tema.";
+$Definition["Heads Up!"] = "Avvertimento!";
+$Definition["Welcome to Vanilla's theming UI."] = "Benvenuto nell&#39;interfaccia utente a tema di Vanilla. Questa pagina elenca tutti i temi disponibili e consente di copiarli o modificarli.";
+$Definition["Some older themes don't support full editing capability."] = "Alcuni temi meno recenti non supportano la piena capacità di modifica. Per vedere cosa supporta un tema, puoi passare con il mouse sopra il suo nome per vedere dove avranno effetto le modifiche.";
+$Definition["Need More Help?"] = "Hai bisogno di ulteriore aiuto?";
+$Definition["Theming Guide"] = "Guida a tema";
+$Definition["Old Theming UI"] = "Vecchia interfaccia utente di Theming";
+$Definition["If you have an old theme"] = "Se hai un vecchio tema e devi impostare un tema desktop e mobile separato, puoi farlo con la vecchia interfaccia utente a tema.";
+$Definition["Edits to this theme apply to:"] = "Le modifiche a questo tema si applicano a:";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'I modelli sono i temi standard. Per personalizzarli, devi crearne una copia.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'I temi personalizzati sono i temi che hai creato. È possibile modificarli, rinominarli o crearne una copia.';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "Questo tema non può essere cancellato perché è il tema attualmente applicato.";
@@ -289,6 +301,12 @@ $Definition["Background"] = "Sfondo";
 $Definition["Links"] = "Collegamenti";
 $Definition["Font"] = "Font";
 $Definition["Border Radius"] = "Raggio del bordo";
+$Definition["Font URL"] = "URL carattere";
+$Definition["Font Name"] = "Nome carattere";
+$Definition["Invalid URL"] = "URL non valido";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Puoi caricare un carattere personalizzato nel tuo sistema Theming. Basta copiare e incollare l&#39;URL nel campo.";
+$Definition["You can configure some values differently for different screensizes."] = "È possibile configurare alcuni valori in modo diverso per schermate diverse.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Devi aggiungere il dominio dell&#39;URL del carattere a &lt;0&gt; DisabledDomains </0> , nella configurazione del sito. &lt;1&gt; Ulteriori informazioni sui caratteri personalizzati. </1> .";
 
 $Definition["Primary Buttons"] = "Pulsanti principali";
 $Definition["Secondary Buttons"] = "Pulsanti secondari";
