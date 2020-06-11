@@ -1151,6 +1151,7 @@ $Definition['Pinned'] = 'Pinned';
 $Definition["Play Video"] = "Play Video";
 $Definition['Play the sound again'] = 'Play the sound again';
 $Definition['Please join my group.'] = 'Please join my <a href="{Url,html}">group</a>.';
+$Definition['Please join my group: %s'] = 'Please join my group: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.';
 $Definition['Points'] = 'Points';
 $Definition['Poll'] = 'Poll';
