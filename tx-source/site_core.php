@@ -251,6 +251,7 @@ $Definition["Are you sure you want to delete this image? You won't be able to re
 $Definition['Are you sure you want to delete this %s?'] = 'Are you sure you want to delete this %s?';
 $Definition['Are you sure you want to do that?'] = 'Are you sure you want to do that?';
 $Definition['Are you sure you want to do this?'] = 'Are you sure you want to do this?';
+$Definition['Are you sure you want to ignore <b>%s</b>?'] = 'Are you sure you want to ignore <b>%s</b>?';
 $Definition['Are you sure you want to join this group?'] = 'Are you sure you want to join this group?';
 $Definition['Are you sure you want to leave this conversation?'] = 'Are you sure you want to leave this conversation?';
 $Definition['Are you sure you want to leave this group?'] = 'Are you sure you want to leave this group?';
@@ -774,6 +775,7 @@ $Definition['IgnoreListMeter'] = 'Ignore list is <b>%s%%</b> full (<b>%d/%d</b>)
 $Definition['IgnoreListRevoke'] = 'Revoke <b>%s</b>\'s ignore list privileges?';
 $Definition['IgnoreListUnlimited'] = '<b>Unlimited</b> list, ignored <b>%d</b> %s';
 $Definition['Ignore Someone'] = 'Ignore Someone';
+$Definition['Ignoring this person will remove you from <b>%s %s</b> with them.'] = 'Ignoring this person will remove you from <b>%s %s</b> with them.';
 $Definition['Image'] = 'Image';
 $Definition['images'] = 'images';
 $Definition['Images not allowed'] = 'Images not allowed';
