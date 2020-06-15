@@ -1691,6 +1691,7 @@ $Definition['Verifying your credentials...'] = 'Vérifiez vos identifiants...';
 $Definition['via %s'] = 'via %s';
 $Definition['Video embedding has been disabled.'] = 'Les vidéos intégrées ont été désactivées. Les URLs ne seront plus traduites dans leur équivalent intégré.';
 $Definition['View'] = 'Visualiser';
+$Definition['View All'] = 'Voir tout';
 $Definition['View all going attendees'] = 'Voir tous les participants';
 $Definition['View all not going attendees'] = 'Voir tous les participants absents';
 $Definition['View all maybe attendees'] = 'Voir tous les participants éventuels';
