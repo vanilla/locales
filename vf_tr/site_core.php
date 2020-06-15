@@ -1678,6 +1678,7 @@ $Definition['Verifying your credentials...'] = 'lütfen kimlik bilgilerinizi do�
 $Definition['via %s'] = 'kaynak %s';
 $Definition['Video embedding has been disabled.'] = 'Video yerleştirme devre dışı bırakıldı. URL\'ler yerleşik denklerine tercüme edilmeyecek.';
 $Definition['View'] = 'Görüntüle';
+$Definition['View All'] = 'Tümünü Görüntüle';
 $Definition['View all going attendees'] = 'Giden tüm katılımcıları görüntüle';
 $Definition['View all not going attendees'] = 'Gitmeyen tüm katılımcıları görüntüle';
 $Definition['View all maybe attendees'] = 'Düşünüyorum diyen tüm katılımcıları görüntüle';
