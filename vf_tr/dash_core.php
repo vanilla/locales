@@ -107,6 +107,7 @@ $Definition['Application Secret'] = 'Uygulama Gizliliği';
 $Definition['Applied by Administrator'] = 'Yönetici tarafından uygulanır';
 $Definition['Applied Manually'] = 'Elle Uygulandı';
 $Definition['Applied On'] = 'Tarih';
+$Definition['Apply to subcategories'] = 'Alt kategorilere uygula';
 $Definition['Approval'] = 'Onay';
 $Definition['Archive Discussions'] = 'Arşiv Tartışmaları';
 $Definition['Are you sure you want to delete %s items forever?'] = '%s öğeyi kalıcı olarak silmek istediğinizden emin misiniz?';
@@ -177,6 +178,7 @@ $Definition['Check out the full list of video tutorials here.'] = 'Buradaki vide
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Merhaba Ahbap!
 
 Yeni kurduğum topluluk forumuna göz atın. Beraber çevrim içi sohbet etmek için harika bir yer.';
+
 $Definition['Choose a locale pack'] = 'Bir yerel ayar paketi seçin';
 $Definition['Choose Avatar'] = 'Avatar Seç';
 $Definition['Choose the preferred layout for the categories page.'] = 'Kategoriler sayfası için tercih edilen düzeni seçin.';
@@ -546,6 +548,7 @@ $Definition['Number of blocked registrations'] = 'Engellenen kayıt sayısı';
 $Definition['On'] = 'Açık';
 $Definition['Only Allow Each User To Post'] = 'Sadece Her Bir Kullanıcıya Gönderi İzni Ver';
 $Definition['Only display on mobile browsers.'] = 'Yalnızca mobil tarayıcılarda görüntülenir.';
+$Definition['Only visible to users with roles with permission.'] = 'Yalnızca rolleri olan kullanıcılar görebilir.';
 $Definition['Operation By'] = 'Tarafından';
 $Definition['Organization'] = 'Organizasyon';
 $Definition['Organize'] = 'Düzenle';
