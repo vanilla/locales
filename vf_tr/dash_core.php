@@ -107,6 +107,7 @@ $Definition['Application Secret'] = 'Uygulama Gizliliği';
 $Definition['Applied by Administrator'] = 'Yönetici tarafından uygulanır';
 $Definition['Applied Manually'] = 'Elle Uygulandı';
 $Definition['Applied On'] = 'Tarih';
+$Definition['Apply to subcategories'] = 'Alt kategorilere uygula';
 $Definition['Approval'] = 'Onay';
 $Definition['Archive Discussions'] = 'Arşiv Tartışmaları';
 $Definition['Are you sure you want to delete %s items forever?'] = '%s öğeyi kalıcı olarak silmek istediğinizden emin misiniz?';
@@ -177,6 +178,7 @@ $Definition['Check out the full list of video tutorials here.'] = 'Buradaki vide
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Merhaba Ahbap!
 
 Yeni kurduğum topluluk forumuna göz atın. Beraber çevrim içi sohbet etmek için harika bir yer.';
+
 $Definition['Choose a locale pack'] = 'Bir yerel ayar paketi seçin';
 $Definition['Choose Avatar'] = 'Avatar Seç';
 $Definition['Choose the preferred layout for the categories page.'] = 'Kategoriler sayfası için tercih edilen düzeni seçin.';
@@ -296,7 +298,7 @@ $Definition['Edit User'] = 'Kullanıcı Düzenle';
 $Definition['Email Confirmation Role'] = 'E-posta Onayı Rolü';
 $Definition['Email Styles'] = 'Eposta Biçimleri';
 $Definition['Embed Comments'] = 'Yorumları Yerleştir';
-$Definition['Embedding'] = 'Ekleniyor';
+$Definition['Embedding'] = 'Kod Gömme';
 $Definition['Embedding Documentation'] = 'Belgeleri Yerleştir';
 $Definition['Embedding is currently DISABLED.'] = 'Yerleştirme şu anda DEVRE DIŞI.';
 $Definition['Embedding is currently ENABLED.'] = 'Yerleştirme şu anda ETKİN.';
@@ -453,7 +455,7 @@ $Definition['Likes'] = 'Beğeniler';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Cebi bir veya daha fazla rol veya izin ile sınırlandırın.';
 $Definition['Locale Key (Folder)'] = 'Yerel Anahtar (Klasör)';
 $Definition['Locale Name'] = 'Yerel Adı';
-$Definition['Locales'] = 'Bölge';
+$Definition['Locales'] = 'Bölge ve Dil';
 $Definition['Location'] = 'Konum';
 $Definition['Locations'] = 'Konumlar';
 $Definition["Logo"] = "Logo";
@@ -546,6 +548,7 @@ $Definition['Number of blocked registrations'] = 'Engellenen kayıt sayısı';
 $Definition['On'] = 'Açık';
 $Definition['Only Allow Each User To Post'] = 'Sadece Her Bir Kullanıcıya Gönderi İzni Ver';
 $Definition['Only display on mobile browsers.'] = 'Yalnızca mobil tarayıcılarda görüntülenir.';
+$Definition['Only visible to users with roles with permission.'] = 'Yalnızca rolleri olan kullanıcılar görebilir.';
 $Definition['Operation By'] = 'Tarafından';
 $Definition['Organization'] = 'Organizasyon';
 $Definition['Organize'] = 'Düzenle';
@@ -631,7 +634,7 @@ $Definition['Roles & Permissions'] = 'Roller & İzinler';
 $Definition['Roles determine user\'s permissions.'] = 'Sitenizdeki her kullanıcı en az bir rol için atanır. Roller, kullanıcıların ne yapmasına izin verildiğini belirlemek için kullanılır.';
 $Definition['Role to Grant'] = 'Ayrıcalıklı Rol';
 $Definition['Route'] = 'Rota';
-$Definition['Routes'] = 'Rotalar';
+$Definition['Routes'] = 'Yönlendirme';
 $Definition['Rules'] = 'Kurallar';
 $Definition['Run structure & data scripts'] = 'Yapı & veri komut dosyalarını çalıştır';
 $Definition['RSVP'] = 'RSVP';
@@ -864,9 +867,21 @@ $Definition['MobileInputFormatter.Notes1'] = 'Mobil cihazlar için bir düzenlem
 $Definition['MobileInputFormatter.Notes2'] = 'Mobil cihazların aynı deneyime sahip olması gerekiyorsa, yukarıdakiyle aynı şeyi belirtin. Kullanıcılar mobil düzenleme ile ilgili sorunları bildirirse, bu değiştirmek için iyi bir seçenektir.';
 $Definition['Note:'] = 'Not:';
 $Definition['Post Format'] = 'İleti Biçimi';
-$Definition['Posting'] = 'Gönderiliyor';
+$Definition['Posting'] = 'İletiler';
 $Definition['Reinterpret All Posts As Wysiwyg'] = 'Wysiwyg Olarak Tüm Yazıları Yeniden Yorumla';
 
 $Definition['Mobile Format'] = 'Mobil Biçim';
 $Definition['Enable Rich Quotes'] = 'Zengin Alıntıları Etkinleştir';
 $Definition['RichEditor.QuoteEnable.Notes'] = 'Zengin Editör alıntılarını etkinleştirmek için aşağıdaki seçeneği kullanın. Bu, yalnızca varsayılan biçimlendirici "Zengin" ise geçerli olacaktır.';
+
+// Catalogue Display Plugin/Formats
+$Definition['Default placeholder'] = 'Varsayılan yer tutucu';
+$Definition['Upload a placeholder image for catalogue post.'] = 'Kullanıcılar yayınlarında resim olmadığında görüntülenecek bir yer tutucu resim yükleyin.';
+$Definition['Additional classes'] = 'Ek sınıflar';
+$Definition['Apply additional classes on catalogue image.'] = 'Katalog görüntüsüne ek sınıflar uygulayın. Her sınıfı ayırmak için boşluk kullanın.';
+$Definition['Category only'] = 'Yalnızca kategori';
+$Definition['Display on category page only.'] = 'Yalnızca kategori sayfasında görüntüle. Son tartışmalar listesi etkilenmeyecek.';
+$Definition['Use Masonry display'] = 'Duvar görünümü kullan';
+$Definition['Show an uploaded image on the Category page.'] = 'Her tartışma, Kategori sayfasında yüklenen bir resmi gösterir. Bu yalnızca "Farklı Göster" olarak "Tartışmalar" kategorileri için geçerlidir.';
+$Definition['Upload Placeholder Image'] = 'Yer Tutucu Resmi Yükle';
+

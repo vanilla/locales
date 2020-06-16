@@ -136,6 +136,7 @@ $Definition['[Deleted User]'] = '[Пользователь удален]';
 
 $Definition['About'] = 'Подробная информация';
 $Definition['About %s users'] = 'Около %s пользователей ';
+$Definition['About the event'] = 'О мероприятии';
 $Definition['AboutToDelete'] = 'Вы собираетесь удалить %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Вы собираетесь удалить %1$s из %2$s выбранных обсуждений.';
 $Definition['Abuse'] = 'Жалоба';
@@ -263,6 +264,7 @@ $Definition['Are you sure you want to do this?'] = 'Вы уверены в св�
 $Definition['Are you sure you want to join this group?'] = 'Вы уверены, что хотите присоединиться к этой группе?';
 $Definition['Are you sure you want to leave this conversation?'] = 'Вы уверены, что хотите покинуть этот диалог?';
 $Definition['Are you sure you want to leave this group?'] = 'Вы уверены, что хотите выйти из этой группы?';
+$Definition['Are you sure you want to unignore %s?'] = 'Вы уверены, что не хотите игнорировать <b>%s</b>?';
 $Definition['Are you sure you wish to continue?'] = 'Вы уверены, что хотите продолжить?
 ';
 $Definition['Ask a Question'] = 'Задать вопрос';
@@ -461,6 +463,7 @@ $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '
 
 ';
 $Definition['Date Added'] = 'Дата добавления';
+$Definition['Date Ignored'] = 'Дата проигнорирована';
 $Definition["Date Input"] = "Ввод даты";
 $Definition['Date Examples'] = 'Примеры: Понедельник, сегодня, на прошлой неделе, 26 марта, 3/26/04';
 $Definition["Date Updated"] = "Дата обновления";
@@ -502,6 +505,7 @@ $Definition['Discussions'] = 'Дискуссии';
 $Definition['discussions'] = 'обсуждения';
 $Definition['Discussions Page'] = 'Страница дискуссий';
 $Definition['Discussion List'] = 'Список обсуждений';
+$Definition['Discussion marked as noindex'] = 'Дискуссия отмечена тегом noindex';
 $Definition['Discussion Title'] = 'Заголовок дискуссии';
 $Definition['Discussion Type'] = 'Дискуссия';
 $Definition['Dislike'] = 'Не одобрять';
@@ -509,7 +513,7 @@ $Definition['Dismiss'] = 'Деанонсировать';
 $Definition['Documentation'] = 'Документация';
 $Definition['Domain is invalid.'] = 'Недействительным домен. ';
 $Definition['Don\'t announce.'] = 'Не анонсировать.';
-$Definition['Don\'t fold quotes'] = 'Не скрывайте цитаты';
+$Definition['Don\'t fold quotes'] = 'Не скрывать цитаты';
 $Definition['Don\'t have an account? %s'] = 'Нет аккаунта? %s';
 $Definition['Don\'t know'] = 'Не знаю';
 $Definition['Download'] = 'Загрузить';
@@ -590,6 +594,7 @@ $Definition['EmailStoryNotification'] = '%1$s
 Всего вам хорошего!';
 $Definition['Email Unavailable'] = 'Почта недоступна';
 $Definition['Email visible to other users'] = 'Email виден другим пользователям';
+$Definition['Embedded Media'] = 'Встроенные мультимедиа';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Читайте полный рассказ здесь</a></p><div class="ClearFix"></div></div>';
@@ -648,7 +653,7 @@ $Definition['Favorites'] = 'Избранное';
 $Definition['Feedback'] = 'Обратная связь';
 $Definition['Female'] = 'Женский';
 $Definition['Fifth Anniversary'] = 'Пятая годовщина';
-$Definition["File"] = "Файл";
+$Definition['File'] = 'Файл';
 $Definition['FileName'] = 'Имя файла';
 $Definition['Filename'] = 'Название файла';
 $Definition['FileSize'] = 'Размер файла';
@@ -711,6 +716,7 @@ $Definition['Give a Badge to %s'] = 'Выдать значек %s';
 $Definition['Give Badge'] = 'Выдать значек';
 $Definition['Given'] = 'Выданный';
 $Definition['Go'] = '&rarr;';
+$Definition['Going'] = 'Собираюсь';
 $Definition['Group'] = 'Группа';
 $Definition['group'] = 'группа';
 $Definition['GroupEmptyAnnouncements'] = 'Когда-то сюда попадут важные вещи.';
@@ -782,12 +788,13 @@ $Definition['ideas'] = 'идеи';
 $Definition['Idea Status'] = 'Статус идеи';
 $Definition['Idea Statuses'] = 'Статусы идей';
 $Definition['Ideation'] = 'Формирование идеи';
+$Definition['Ideation Type'] = 'Идея';
 $Definition['Ignore'] = 'Игнорировать';
-$Definition['Ignore List'] = 'Список игнора';
+$Definition['Ignore List'] = 'Черный список';
 $Definition['IgnoreListMeter'] = 'Список игнорирования <b>%%% </b>полон (<b>%%</b>).';
 $Definition['IgnoreListRevoke'] = 'Отменить <b> % привилегии списка игнорирования </b>?';
 $Definition['IgnoreListUnlimited'] = '<b>Неограниченный</b>список, проигнорировано <b>%</b>%.';
-$Definition['Ignore Someone'] = 'Игнорировать кого-либо';
+$Definition['Ignore Someone'] = 'Добавить в черный список';
 $Definition['Image'] = 'Изображение';
 $Definition['images'] = 'изображения';
 $Definition['Images not allowed'] = 'Изображения запрещены';
@@ -887,6 +894,7 @@ $Definition['Leaving'] = 'Выход';
 $Definition['Length'] = 'Длина';
 $Definition['Level %s'] = 'Уровень %s';
 $Definition['Like'] = 'Лайк';
+$Definition['Link'] = 'Ссылка';
 $Definition['Link to content:'] = 'Ссылка на контент:';
 $Definition["List Ordered"] = "Упорядоченный список";
 $Definition["List Unordered"] = "Неупорядоченный список";
@@ -985,6 +993,7 @@ $Definition['More'] = 'Ещё';
 $Definition['More About %s'] = 'Подробнее о %s';
 $Definition['More Comments'] = 'Больше комментариев';
 $Definition['More Discussions'] = 'Еще дискуссии';
+$Definition['More Events'] = 'Больше мероприятий';
 $Definition['More Information'] = 'Больше информации';
 $Definition['More Results'] = 'Больше результатов';
 $Definition['More…'] = 'Еще...';
@@ -1025,6 +1034,7 @@ $Definition['New Announcement'] = '
         Новое объявление
 
 ';
+$Definition['New Author'] = 'Новый автор';
 $Definition['New Conversation'] = 'Новое письмо';
 $Definition['New Discussion'] = 'Создать дискуссию';
 $Definition['new discussion'] = 'новая';
@@ -1038,6 +1048,7 @@ $Definition['New Idea'] = 'Новая идея';
 $Definition['New Message'] = 'Новое письмо';
 $Definition['New Password'] = 'Новый пароль';
 $Definition['New Poll'] = 'Новый опрос';
+$Definition['New Post'] = 'Новый пост';
 $Definition['Next'] = 'Далее';
 $Definition['Ninth Anniversary'] = 'Девятая годовщина';
 $Definition['No'] = 'Нет';
@@ -1065,6 +1076,7 @@ $Definition['No results for \'%s\''] = 'Нет результатов для \'%
 $Definition["No results for '<0/>'."] = "Нет результатов для '<0/>'.";
 $Definition["No results found."] = "Результаты не найдены.";
 $Definition['No Roles'] = 'Нет ролей';
+$Definition['Not going'] = 'Не собираюсь';
 $Definition['Not Attending (%s)'] = 'Не посетят (%s)';
 $Definition['Not Authorized (401)'] = 'Не авторизированы (401)';
 $Definition['Notes'] = 'Примечание';
@@ -1097,6 +1109,7 @@ $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = '�
 $Definition['Not much happening here, yet.'] = 'Зафиксированных событий не обнаружено.';
 $Definition['Not registered?'] = 'Не зарегистрированы?';
 $Definition['Not Verified'] = 'Не подтверждён';
+$Definition['Not Verified Description'] = 'Невирифицированные пользователи проходят через фильтры спама и премодерации.';
 
 $Definition[' now.'] = 'сейчас';
 
@@ -1228,6 +1241,7 @@ $Definition['Private group.'] = 'Любой может видеть группу
 $Definition['Private Note for Moderators'] = 'Скрытая заметка для модератора';
 $Definition['Problem with credentials.'] = 'Проблема с учетными данными.';
 $Definition['Proceed'] = 'Продолжить';
+$Definition['Products'] = 'Товары';
 $Definition['Profile'] = 'Профиль';
 $Definition['Profile Fields'] = 'Поля профиля';
 $Definition['Profile  Fields'] = 'Поля профиля';
@@ -1569,10 +1583,13 @@ $Definition['they'] = 'они';
 $Definition['Third Anniversary'] = 'Трехлетие';
 $Definition['This answer was %s.'] = 'Этот ответ был %s';
 $Definition['This answer was Accepted.'] = 'Этот ответ подошёл.';
+$Definition['This category does not have any articles.'] = 'В этой категории нет статей.';
+$Definition['This category does not have any events.'] = 'В этой категории нет мероприятий.';
 $Definition['This discussion has been closed.'] = 'Дискуссия закрыта.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'Эта дискуссия была связана с неопознанным внешним источником.';
 $Definition['This discussion was created from comments split from: %s.'] = 'Эта дискуссия создана из комментариев, извлеченных из: %s.';
 $Definition['This discussion was merged into %s'] = 'Эта дискусси была объединена с %s';
+$Definition['This field partially supports HTML.'] = 'Это поле частично поддерживает HTML.';
 $Definition['This image has been inserted into the body of text.'] = 'Это изображение было вставлено в текст.';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'Изображение было уменьшено. Нажмите для увеличения.';
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'Это приватный опрос: никто не будет видеть что вы голосовали.';
@@ -1668,6 +1685,7 @@ $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Использу
 $Definition['Use My Current Password'] = 'Использовать мой текущий пароль';
 $Definition['User'] = 'Пользователь';
 $Definition['User "%s" does not exist.'] = 'Пользователь "%s" не существует.';
+$Definition['UserMatchNeedsPassword'] = 'Вы пытаетесь войти под именем пользователя, которое уже есть на этом форуме. Если это ваша учетная запись, пожалуйста, введите пароль учетной записи.';
 $Definition['Username'] = 'Имя пользователя';
 $Definition['Username already exists.'] = 'Это имя пользователя уже существует';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Имя пользователя может содержать только буквы, цифры и знак подчеркивания.';
@@ -1718,7 +1736,9 @@ $Definition['Verifying your credentials...'] = 'Проверка ваших уч
 $Definition['via %s'] = 'с %s';
 $Definition['Video embedding has been disabled.'] = 'Встраивание видео было отключено. URL-адрес не будет преобразован в эквивалент для встраивания.';
 $Definition['View'] = 'Просмотр';
-$Definition["View All"] = "Посмотреть все";
+$Definition['View all going attendees'] = 'Просмотреть всех текущих участников';
+$Definition['View all not going attendees'] = 'Просмотреть всех отсутствующих участников';
+$Definition['View all maybe attendees'] = 'Просмотреть всех возможных участников';
 $Definition['View Badge'] = 'Посмотреть значек';
 $Definition['View Profile'] = 'Смотреть профиль';
 $Definition['View Post'] = 'Посмотреть публикацию';
@@ -1783,6 +1803,7 @@ $Definition['Where'] = '
 
 ';
 $Definition['Where do you want to announce this discussion?'] = 'Где вы хотите анонсировать эту дискуссию?';
+$Definition['Will you be attending?'] = 'Вы будете присутствовать?';
 $Definition['Who\'s going?'] = '
         Кто собирается?
 
@@ -1792,6 +1813,7 @@ $Definition['Who\'s Online in this Category'] = 'Кто в этом раздел
 $Definition['Who\'s Online in this Discussion'] = 'Кто в этой дискуссии сейчас онлайн';
 $Definition['Whoops!'] = 'Ой!';
 $Definition['Whoops! You\'ll need to register before you can email our site.'] = 'Упс! Вам необходимо зарегистрироваться прежде чем вы сможете отправить письмо на наш сайт.';
+$Definition['Whoops! There was an error.'] = 'Упс! Произошла ошибка.';
 $Definition['Why are you Banning this user?'] = 'За что вы решили забанить этого пользователя?';
 $Definition['Why do you want to join?'] = 'Почему вы хотите зарегистрироваться?';
 $Definition["Word"] = "Word";
@@ -1830,9 +1852,18 @@ $Definition['You are limited to %s recipients.'] = 'Вы ограничены к
 $Definition['You are jailed.'] = 'Вы в тюрьме.';
 $Definition['You aren\'t a %s of this group.'] = 'Вы не являетесь %s этой группы.';
 $Definition['You aren\'t allowed to %s this group.'] = 'Вы не допускаетесь к %s этой группы.';
-$Definition['You are not allowed to ban a user that has higher permissions than you.'] = 'Вы не можете банить пользователя, у которого более высокие полномочия, чем у вас.';
-$Definition['You are not allowed to ban a user with the same permission level as you.'] = 'Вы не можете банить пользователя с тем же уровнем полномочий, что и у вас.';
-$Definition['User has same or higher permissions.'] = 'Вы не можете осуществлять эту операцию с пользователем, у которого такие же или более высокие полномочия.';
+$Definition['You are not allowed to ban a user that has higher permissions than you.'] =
+    'Вы не можете банить пользователя, у которого более высокие полномочия, чем у вас.';
+$Definition['You are not allowed to ban a user with the same permission level as you.'] =
+    'Вы не можете банить пользователя с тем же уровнем полномочий, что и у вас.';
+$Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] =
+    'Вам не разрешается отмечать пользователя, как тролля, имеющего более высокие права, чем вы.';
+$Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] =
+    'Вы не имеете права отмечать пользователя, как тролля, с тем же уровнем прав.';
+$Definition['You are not allowed to warn a user with higher permissions than you.'] =
+    'Вы не имеете права предупреждать пользователя с более высоким уровнем прав.';
+$Definition['You are not allowed to warn a user with the same permission level as you.'] =
+    'Вы не имеете права предупреждать пользователя с таким же уровнем прав.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Вы покидаете %1$s. Нажмите на ссылку, чтобы перейти к %2$sю';
 $Definition['You are now signed in.'] = 'Теперь вы вошли';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Вам разрешается только {maxImages,plural,%s изображение,%s изображений}.';
@@ -1983,3 +2014,6 @@ $Definition['Error'] = 'Ошибка';
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Переключить цитату';
 $Definition['Spoiler Warning'] = 'Осторожно, спойлер';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Местозаполнитель';

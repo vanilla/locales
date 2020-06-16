@@ -107,6 +107,7 @@ $Definition['Application Secret'] = 'Application Secret';
 $Definition['Applied by Administrator'] = 'Applied by Administrator';
 $Definition['Applied Manually'] = 'Applied Manually';
 $Definition['Applied On'] = 'Date';
+$Definition['Apply to subcategories'] = 'Apply to subcategories';
 $Definition['Approval'] = 'Approval';
 $Definition['Archive Discussions'] = 'Archive Discussions';
 $Definition['Are you sure you want to delete %s items forever?'] = 'Are you sure you want to delete %s items forever?';
@@ -177,6 +178,7 @@ $Definition['Check out the full list of video tutorials here.'] = 'Check out the
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.';
+
 $Definition['Choose a locale pack'] = 'Choose a locale pack';
 $Definition['Choose Avatar'] = 'Choose Avatar';
 $Definition['Choose the preferred layout for the categories page.'] = 'Choose the preferred layout for the categories page.';
@@ -546,6 +548,7 @@ $Definition['Number of blocked registrations'] = 'Number of blocked registration
 $Definition['On'] = 'On';
 $Definition['Only Allow Each User To Post'] = 'Only Allow Each User To Post';
 $Definition['Only display on mobile browsers.'] = 'Only display on mobile browsers.';
+$Definition['Only visible to users with roles with permission.'] = 'Only visible to users with roles with permission.';
 $Definition['Operation By'] = 'By';
 $Definition['Organization'] = 'Organization';
 $Definition['Organize'] = 'Organize';
@@ -870,3 +873,15 @@ $Definition['Reinterpret All Posts As Wysiwyg'] = 'Reinterpret All Posts As Wysi
 $Definition['Mobile Format'] = 'Mobile Format';
 $Definition['Enable Rich Quotes'] = 'Enable Rich Quotes';
 $Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition['Default placeholder'] = 'Default placeholder';
+$Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
+$Definition['Additional classes'] = 'Additional classes';
+$Definition['Apply additional classes on catalogue image.'] = 'Apply additional classes on catalogue image. Use space to separate each class.';
+$Definition['Category only'] = 'Category only';
+$Definition['Display on category page only.'] = 'Display on category page only. Recent discussions list will not be affected.';
+$Definition['Use Masonry display'] = 'Use Masonry display';
+$Definition['Show an uploaded image on the Category page.'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
+$Definition['Upload Placeholder Image'] = 'Upload Placeholder Image';
+

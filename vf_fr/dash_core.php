@@ -107,6 +107,7 @@ $Definition['Application Secret'] = 'Clé secrète';
 $Definition['Applied by Administrator'] = 'Appliqué par l\'Administrateur';
 $Definition['Applied Manually'] = 'Appliqué manuellement';
 $Definition['Applied On'] = 'Date';
+$Definition['Apply to subcategories'] = 'Appliquer aux sous-catégories';
 $Definition['Approval'] = 'Approbation';
 $Definition['Archive Discussions'] = 'Archiver des discussions';
 $Definition['Are you sure you want to delete %s items forever?'] = 'Êtes-vous sûr de vouloir supprimer %s éléments de façon définitive ?';
@@ -175,6 +176,7 @@ $Definition['Check all permissions that apply to this role:'] = 'Vérifiez toute
 $Definition['Check out my new community!'] = 'Venez visiter ma nouvelle communauté';
 $Definition['Check out the full list of video tutorials here.'] = 'Vous trouverez la liste complète des tutoriels vidéo ici.';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Venez voir la nouvelle communauté récemment créée. C\'est l\'endroit idéal pour discuter en ligne. ';
+
 $Definition['Choose a locale pack'] = 'Choisissez un pack de langue';
 $Definition['Choose Avatar'] = 'Choisissez un Avatar';
 $Definition['Choose the preferred layout for the categories page.'] = 'Choisissez votre mise en page préférée pour la page Catégories.';
@@ -544,6 +546,7 @@ $Definition['Number of blocked registrations'] = 'Nombre d\'inscriptions bloqué
 $Definition['On'] = 'Actif';
 $Definition['Only Allow Each User To Post'] = 'Permettre seulement aux utilisateurs de publier';
 $Definition['Only display on mobile browsers.'] = 'Seulement afficher sur des navigateurs mobiles.';
+$Definition['Only visible to users with roles with permission.'] = 'Seulement visible aux utilisateurs avec des permissions suffisantes';
 $Definition['Operation By'] = 'Par';
 $Definition['Organization'] = 'Organisation';
 $Definition['Organize'] = 'Organiser';
@@ -869,3 +872,15 @@ $Definition['Reinterpret All Posts As Wysiwyg'] = 'Réinterpréter tous les mess
 $Definition['Mobile Format'] = 'Format appareils mobiles';
 $Definition['Enable Rich Quotes'] = 'Activer les citations riches';
 $Definition['RichEditor.QuoteEnable.Notes'] = 'Utilisez cette option pour activer les citations avec le "Rich Editor". Va s\'appliquer uniquement si le format par défaut est "Rich".';
+
+// Catalogue Display Plugin/Formats
+$Definition['Default placeholder'] = 'Emplacement par défaut';
+$Definition['Upload a placeholder image for catalogue post.'] = 'Télécharger une image de remplacement qui s\'affichera lorsque les utilisateurs n\'ont pas d\'image dans leur message.';
+$Definition['Additional classes'] = 'Classes supplémentaires';
+$Definition['Apply additional classes on catalogue image.'] = 'Appliquer des classes supplémentaires sur l\'image du catalogue. Utiliser l\'espace pour séparer chaque classe.';
+$Definition['Category only'] = 'Catégorie uniquement';
+$Definition['Display on category page only.'] = 'Affichage sur la page de la catégorie uniquement. La liste des discussions récentes ne sera pas affectée.';
+$Definition['Use Masonry display'] = 'Utiliser l\'affichage Masonry';
+$Definition['Show an uploaded image on the Category page.'] = 'Chaque discussion montrera une image téléchargée sur la page de la catégorie. Ceci ne s\'applique qu\'aux catégories dont les « Discussions » sont en « Afficher comme ».';
+$Definition['Upload Placeholder Image'] = 'Télécharger l\'image de remplacement';
+

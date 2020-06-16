@@ -39,6 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Bekijk onze %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is het simpelste, meest krachtige gemeenschapsplatform in de wereld. Het is extreem makkelijk om te gebruiken. Start met deze inleidende video en ga verder met de onderstaande stappen. Veel plezier!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Kies een rol die toegepast zal worden aan zwevende gebruikers:';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Kies een thema voor deze subcommunity. <0>Lees meer</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Kies hoe je alle inhoud die hoort bij het gebruikersaccount voor %s wilt behandelen (reacties, berichten etc.).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Je kunt een eigen hash-algoritme selecteren om je verzoeken te ondertekenen. Het hash-algoritme moet ook gebruikt zijn in je client library. Kies md5 als je niet zeker weet wat je moet kiezen.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Kies welke layout je voorkeur heeft voor lijsten van categorieën.';
@@ -263,6 +264,18 @@ $Definition['You must select a file to import.'] = 'Je moet een bestand kiezen o
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Je mobiele thema wordt uitgeschakeld. Gebruik de oude thema-UI om verschillende thema's voor mobiel en desktop in te stellen.";
+$Definition["Heads Up!"] = "Heads Up!
+";
+$Definition["Welcome to Vanilla's theming UI."] = "Welkom bij de thema-UI van Vanilla. Op deze pagina staan al uw beschikbare thema's en kunt u ze kopiëren of bewerken.";
+$Definition["Some older themes don't support full editing capability."] = "Sommige oudere thema's ondersteunen niet de volledige bewerkingsmogelijkheden. Om te zien wat een thema ondersteunt, kunt u de muisaanwijzer op de naam plaatsen om te zien waar de bewerkingen van kracht worden.";
+$Definition["Need More Help?"] = "Meer hulp nodig?";
+$Definition["Theming Guide"] = "Themagids";
+$Definition["Old Theming UI"] = "Oude gebruikersinterface voor thema's";
+$Definition["If you have an old theme"] = "Als je een oud thema hebt en een apart bureaublad- en mobiel thema moet instellen, kun je dit doen met de oude thema-UI.";
+$Definition["Edits to this theme apply to:"] = "Wijzigingen in dit thema zijn van toepassing op:";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templates zijn de standaard themas. Om ze te personaliseren moet je een kopie maken.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Aangepaste thema\'s zijn de thema\'s die je zelf gemaakt hebt. Je kan aanpassingen maken, de naam aanpassen, of er een kopie van maken.';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "Dit thema kan niet verwijdert worden omdat het op dit moment het toegepaste thema is.";
@@ -292,6 +305,12 @@ $Definition["Background"] = "Achtergrond";
 $Definition["Links"] = "Links";
 $Definition["Font"] = "Lettertype";
 $Definition["Border Radius"] = "Radius rand";
+$Definition["Font URL"] = "Lettertype-URL";
+$Definition["Font Name"] = "Naam lettertype";
+$Definition["Invalid URL"] = "Ongeldige URL";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "U kunt een aangepast lettertype uploaden in uw themasysteem. Kopieer en plak de URL in het veld.";
+$Definition["You can configure some values differently for different screensizes."] = "U kunt sommige waarden verschillend configureren voor verschillende schermformaten.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "U moet het domein van de font-url toevoegen aan <0>Toegestane domeinen</0>, in de configuratie van de site. <1>Meer informatie over aangepaste lettertypen</1>.";
 
 $Definition["Primary Buttons"] = "Primaire knoppen";
 $Definition["Secondary Buttons"] = "Secundaire knoppen";
