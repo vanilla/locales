@@ -1963,12 +1963,12 @@ $Definition['Spoiler Warning'] = 'Avviso spoiler';
 $Definition['Placeholder'] = 'Segnaposto';
 
 // Accessibility
-$Definition['%s for discussion: "%s"'] = '%s per discussione: &quot;%s&quot;';
-$Definition['%s for category: "%s"'] = '%s per la categoria: &quot;%s&quot;';
-$Definition['%s comment by user: "%s"'] = '%s commento dell&#39;utente: &quot;%s&quot;';
+$Definition['%s for discussion: "%s"'] = '%s per discussione: "%s"';
+$Definition['%s for category: "%s"'] = '%s per la categoria: "%s"';
+$Definition['%s comment by user: "%s"'] = '%s commento dell\';utente: "%s"';
 $Definition['User "%s" started discussion "%s" on date %s'] = 'L\'utente "%s" ha iniziato la discussione "%s" in data %s';
 $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Commento più recente in data%s, discussione "%s" dell\'utente "%s"';
-$Definition['%s for category: "%s"'] = '%s per la categoria: &quot;%s&quot;';
+$Definition['%s for category: "%s"'] = '%s per la categoria: "%s"';
 $Definition['Category: "%s"'] = 'Categoria: "%s"';
 $Definition['User: "%s"'] = 'Utente: "%s"';
 $Definition['Group: "%s"'] = 'Gruppo: "%s"';
