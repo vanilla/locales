@@ -1166,7 +1166,7 @@ $Definition['Preview'] = 'Preview';
 $Definition['Previous'] = 'Previous';
 $Definition['Privacy'] = 'Privacy';
 $Definition['Privacy Settings'] = 'Privacy Settings';
-$Definition['<0>Privacy Policy</0> and '] = '<0>Privacy Policy</0> and ';
+$Definition['<0>Privacy Policy</0> and '] = '<0>Privacy Policy</0> and <1>Terms of Service</1>';
 $Definition['Private'] = 'Private';
 $Definition['Private group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
 $Definition['Private Note for Moderators'] = 'Private Note for Moderators';
@@ -1450,7 +1450,6 @@ $Definition["Terabyte"] = "Terabyte";
 $Definition['Terms'] = 'Terms';
 $Definition['TermsOfService'] = 'Terms of Service';
 $Definition['Terms of Service'] = 'Terms of Service';
-$Definition['<0>Terms of Service</0>'] = '<0>Terms of Service</0>';
 $Definition['TermsOfServiceText'] = 'You agree, through your use of this service, that you will not use this
 community to post any material which is knowingly false and/or defamatory,
 inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, sexually
