@@ -11,8 +11,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanilla peut être utilisé comme un mod
 $Definition['AboutEmbedding'] = 'L\'intégration vous permet d\'intégrer une partie ou la totalité de votre communauté dans d\'autres applications ou pages web.';
 $Definition['About Vanilla Statistics'] = 'À propos de Vanilla Statistiques';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accédez à votre forum communautaire en cliquant sur le lien «Voir le site» en haut de cette page ou en <a href={/,url}> cliquant ici </a>. La communauté est ce que tous vos utilisateurs & amp; vos clients verront lorsqu\'ils visitent <a href="{/,url,domain}"> {/,URL,nom de domaine} </a>.';
-$Definition['Add limits to image upload dimensions.'] =
-    'Ajouter des limites aux dimensions de téléchargement d\'images dans les discussions et les commentaires.';
+$Definition['ImageUploadLimits.Notes2'] = 'Ajouter des limites aux dimensions de téléchargement d\'images dans les discussions et les commentaires.';
 $Definition['AddressBarColorDescription'] = 'Certains navigateurs acceptent une couleur pour la barre d\'adresse. Pour le mobile uniquement.';
 $Definition['AddonProblems'] = '<h2>Des problèmes ?</h2><p>Si un problème survient avec une extension et que votre forum n\'est plus accessible, vous pouvez lesdésactiver manuellement en modifiant le fichier :</p>%s';
 $Definition['Alert users if they click external link.'] = 'Alertez les utilisateurs s\'ils cliquent sur un lien dans un message qui les dirigera hors du forum. Les utilisateurs ne seront pas avertis s\'ils suivent des liens qui correspondent à un domaine de confiance.';

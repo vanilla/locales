@@ -11,8 +11,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanillan avulla voit kätevästi korvata
 $Definition['AboutEmbedding'] = 'Embed-toiminnolla voit upottaa foorumisi kokonaan tai osittain muihin sovelluksiin tai verkkosivuihin.';
 $Definition['About Vanilla Statistics'] = 'Tietoa Vanillan tilastoista';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Mene yhteisöfoorumillesi painamalla "Vieraile sivulla" -linkkiä tämän sivun yläosassa, tai <a href={/,url}>painamalla tästä</a>. Yhteisöfoorumi on se, mitä kaikki käyttäjäsi tai asiakkaasi näkevät, kun he vierailevat sivustolla <a href="{/,url,domain}">{/,url,domain}</a>.';
-$Definition['Add limits to image upload dimensions.'] =
-    'Lisää rajoituksia kuvakokoihin keskusteluissa ja kommenteissa.';
+$Definition['ImageUploadLimits.Notes2'] = 'Lisää rajoituksia kuvakokoihin keskusteluissa ja kommenteissa.';
 $Definition['AddressBarColorDescription'] = 'Jotkin selaimet tukevat osoitepalkin väriä. Vain mobiililaitteille.';
 $Definition['AddonProblems'] = '<h2>Ongelmia?</h2><p>Jos jotain menee vikaan lisäosan kanssa, voit poistaa sen käytöstä manuaalisesti muokkaamalla:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Varoita käyttäjiä, jos he napsauttavat julkaisussa olevaa linkkiä, joka siirtää heidät pois keskustelupalstalta. Käyttäjiä ei varoiteta, jos he seuraavat luotettua verkkotunnusta vastaavia linkkejä';

@@ -11,8 +11,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanilya, blogunuzun yerel yorumlama sist
 $Definition['AboutEmbedding'] = 'kod yerleştirme, topluluğunuzun tamamının veya bir kısmının diğer uygulamalara ve web sayfalarına gömülmesine izin verir.';
 $Definition['About Vanilla Statistics'] = 'Vanilla İstatistikleri Hakkında';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Bu sayfanın en üstündeki "Siteyi Ziyaret Et" bağlantısını tıklayarak veya <a href={/,url}>buraya tıklayarak</a> topluluk forumunuza erişin. Topluluk forumu, tüm kullanıcılarınızın ne yaptığından ibarettir. müşteriler <a href="{/,url,domain}">{/,url,domain}</a> adresini ne zaman ziyaret ettiklerini göreceklerdir.';
-$Definition['Add limits to image upload dimensions.'] =
-    'Konuşma ve yorumlardaki boyutlara resim yükleme limitleri koy.';
+$Definition['ImageUploadLimits.Notes2'] = 'Konuşma ve yorumlardaki boyutlara resim yükleme limitleri koy.';
 $Definition['AddressBarColorDescription'] = 'Bazı tarayıcılar adres çubuğu için bir rengi destekler. Yalnızca mobil.';
 $Definition['AddonProblems'] = '<h2>Sorunlar?</h2><p>Bir eklentiyle ilgili bir şeyler ters giderse ve sitenizi kullanamıyorsanız, bunları düzenleyerek el ile devre dışı bırakabilirsiniz:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Kullanıcıları bir yayında, forumdan uzaklaştıracak bir bağlantıyı tıkladıklarında uyar. Güvenilir bir Alan Adı ile eşleşen bağlantıları izlerken kullanıcılar uyarılmayacak';

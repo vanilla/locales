@@ -12,8 +12,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanilla kan användas som en inbäddad e
 $Definition['AboutEmbedding'] = 'Inbäddning tillåter hela eller delar av din community att bäddas in i andra applikationer och webbsidor.';
 $Definition['About Vanilla Statistics'] = 'Om Vanilla Statistics';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Gå in i ditt gruppforum genom att klicka på länken "Visit Site" överst på denna sida, eller genom att <a href={/,url}>klicka här</a>. Gruppforumet är vad alla dina användare och kunder kommer att se när de besöker <a href="{/,url,domain}">{/,url,domän}</a>.';
-$Definition['Add limits to image upload dimensions.'] =
-    'Lägg till måttgränser vid uppladdning av bilder i diskussioner och kommentarer.';
+$Definition['ImageUploadLimits.Notes2'] = 'Lägg till måttgränser vid uppladdning av bilder i diskussioner och kommentarer.';
 $Definition['AddressBarColorDescription'] = 'Vissa webbläsare stöder en färg för adressfältet. Endast mobil.';
 $Definition['AddonProblems'] = '<h2>Problem?</h2><p>Om något går snett med ett tillägg och du inte kan använda din sajt, så kan du inaktivera tillägg manuellt genom att redigera:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Varna användare om de klickar på en länk i ett inlägg som leder dem bort från forumet. Användare kommer inte att varnas när de följer länkar som matchar en betrodd domän';

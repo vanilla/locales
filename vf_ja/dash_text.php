@@ -12,8 +12,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanillaは、お客様のブログに最
 $Definition['AboutEmbedding'] = '組み込み機能を利用すれば、お客様のコミュニティの一部または全部を、その他のアプリケーションやWebページに組み込めます。';
 $Definition['About Vanilla Statistics'] = 'Vanilla Statisticsについて';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'このページの上部にある[サイトにアクセス]リンクをクリックするか、<a href={/,url}>ここをクリック</a>してコミュニティフォーラムにアクセスしてください。コミュニティフォーラムは、お客様が<a href="{/,url,domain}">{/,url,domain}</a>にアクセスしたときに表示されるすべてのユーザー&amp;を表示します。';
-$Definition['Add limits to image upload dimensions.'] =
-    'ディスカッションおよびコメント内にアップロードする画像のサイズに制限を加えます。';
+$Definition['ImageUploadLimits.Notes2'] = 'ディスカッションおよびコメント内にアップロードする画像のサイズに制限を加えます。';
 $Definition['AddressBarColorDescription'] = '一部のブラウザーは、アドレスバーの色をサポートしています。モバイルのみです。';
 $Definition['AddonProblems'] = '<h2>問題がありますか？</h2><p>アドオンに何か問題が発生し、サイトを使用できない場合は、</p>%sを編集することで、手動で無効にできます。';
 $Definition['Alert users if they click external link.'] = 'ユーザーが投稿内のリンクをクリックし、それによりユーザーがフォーラムから離れることになる場合、ユーザーに警告します。信頼できるドメインに一致するリンクをたどる場合、ユーザーに警告は表示されません';
