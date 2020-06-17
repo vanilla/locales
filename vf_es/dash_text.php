@@ -11,7 +11,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanilla puede reemplazar de forma inmedi
 $Definition['AboutEmbedding'] = 'Las incrustaciones permiten que toda o parte de tu comunidad pueda incrustarse en otras aplicaciones y páginas web.';
 $Definition['About Vanilla Statistics'] = 'Acerca de las Estadísticas Vanilla';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accede al foro de tu comunidad haciendo clic en el enlace "Visita el sitio" en la parte superior de esta página, o <a href={/,url}> haciendo clic aquí </a>. El foro de la comunidad es lo que todos los usuarios y clientes verán cuando visiten <a href="{/,url,domain}">{/,url,domain}</a>.';
-$Definition['Add limits to image upload dimensions in discussions and comments.'] =
+$Definition['Add limits to image upload dimensions.'] =
     'Añade límites a las dimensiones en la subida de imágenes en discusiones y comentarios.';
 $Definition['AddressBarColorDescription'] = 'Algunos buscadores permiten un color para la barra de dirección. Solo móvil.';
 $Definition['AddonProblems'] = '<h2>¿Problemas?</h2><p> Si algo va mal con un complemento y no puedes usar tu sitio web, puedes deshabilitarlos manualmente editando: </p>%s';

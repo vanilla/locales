@@ -11,7 +11,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanilla kan worden gebruikt als een dire
 $Definition['AboutEmbedding'] = 'Insluiten maakt het mogelijk een deel van of je gehele community in te sluiten in andere applicaties en websites.';
 $Definition['About Vanilla Statistics'] = 'Over Vanilla statistieken';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Ga naar je gemeenschapsforum door te klikken op \'\'Bezoek site\'\' bovenaan de pagina, of door <a href={/,url}>hier te klikken</a>. Het gemeenschapsforum is wat al jouw gebruikers en klanten zullen zien wanneer ze <a href="{/,url,domain}">{/,url,domein}</a> bezoeken.';
-$Definition['Add limits to image upload dimensions in discussions and comments.'] =
+$Definition['Add limits to image upload dimensions.'] =
     'Limieten toevoegen aan dimensies voor het uploaden van afbeeldingen in discussies en opmerkingen.';
 $Definition['AddressBarColorDescription'] = 'Een aantal browsers ondersteund een kleur voor de adresbalk. Alleen voor mobiel.';
 $Definition['AddonProblems'] = '<h2>Problemen?</h2><p>Als er iets misgaat met een add-on en je je site niet kunt gebruiken, kun je ze handmatig uitschakelen door het volgende bestand aan te passen:</p>%s';

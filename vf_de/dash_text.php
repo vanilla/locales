@@ -11,7 +11,7 @@ $Definition['AboutCommentEmbedding'] = 'Vanilla kann als "drop-in" Ersatz für d
 $Definition['AboutEmbedding'] = 'Embedding erlaubt es allen oder Teilen der Community, in andere Anwendungen und Webseiten integriert zu werden.';
 $Definition['About Vanilla Statistics'] = 'Über Vanilla-Statistik';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Greifen Sie auf Ihr Community-Forum zu, indem Sie oben den Link „Seite besuchen“ anklicken oder <a href={/,url}>hier klicken</a>. Das Community-Forum ist das, was all Ihre Nutzer und Kunden sehen, wenn sie <a href="{/,url,domain}">{/,url,domain}</a> besuchen.';
-$Definition['Add limits to image upload dimensions in discussions and comments.'] =
+$Definition['Add limits to image upload dimensions.'] =
     'Grenzen für die Maße von Bilder-Uploads in Diskussionen und Kommentaren festsetzen.';
 $Definition['AddressBarColorDescription'] = 'Einige Browser unterstützen eine Farbe für die Adressleiste. Nur mobil.';
 $Definition['AddonProblems'] = '<h2>Probleme?</h2><p>Wenn etwas mit einem Addon schief geht und Sie es Ihre Seite nicht verwenden können, können Sie das Addon manuell abschalten durch Bearbeitung:</p>%s ';
