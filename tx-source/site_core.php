@@ -511,7 +511,6 @@ $Definition['Draft saved at %s'] = 'Draft saved at %s';
 $Definition['Draft.Delete'] = 'Delete';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Drag around and resize the square below to define your thumbnail icon.';
 $Definition['Drop image/file'] = 'Drop image/file';
-$Definition['Don\'t have an account? Click here to get started!'] = 'Don\'t have an account? Click here to get started!';
 
 $Definition['Earned'] = 'Earned';
 $Definition['Edit'] = 'Edit';
@@ -1584,7 +1583,6 @@ $Definition['To use reCAPTCHA you must get an API key from %s'] = 'To use reCAPT
 $Definition['Transport error: %s'] = 'A fatal error occurred while processing the request.<br />The server returned the following response: %s';
 $Definition['Troll'] = 'Troll';
 $Definition['Troll.Content'] = '<b>Troll</b> <ul> <li>This user has been marked as a troll.</li> <li>Their content is only visible to moderators and the troll.</li> <li>This message does not appear for the troll.</li></ul>';
-$Definition['To view full details, sign in.'] = 'To view full details, sign in.';
 $Definition['Try Again'] = 'Try Again';
 $Definition['Turn ON'] = 'Turn ON';
 $Definition['Twitter'] = 'Twitter';
