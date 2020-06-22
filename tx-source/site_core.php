@@ -1929,6 +1929,7 @@ $Definition['Format as Strikethrough'] = 'Format as Strikethrough';
 $Definition['Strikethrough'] = 'Strikethrough';
 $Definition['Format as Inline Code'] = 'Format as Inline Code';
 $Definition['Paragraph Code Block'] = 'Code Block';
+$Definition['Parent'] = 'Parent';
 $Definition['Code Block'] = 'Code Block';
 $Definition['Format as Link'] = 'Format as Link';
 $Definition['Link'] = 'Link';
