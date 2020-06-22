@@ -127,6 +127,7 @@ $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s)
 $Definition["<0/> by <1/>"] = "<0/> by <1/>";
 $Definition["<0/> message"] = "<0/> message";
 $Definition["<0/> messages"] = "<0/> messages";
+$Definition["<0/> - Events"] = "<0/> - Events";
 
 $Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
 $Definition['[%1$s] Membership Approved'] = '[%1$s] Membership Approved';
