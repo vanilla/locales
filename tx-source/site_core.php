@@ -1363,6 +1363,7 @@ $Definition['Search group members'] = 'Search group members';
 $Definition['Search Groups'] = 'Search Groups';
 $Definition['Search groups'] = 'Search groups';
 $Definition['search only in followed categories'] = 'search only in followed categories';
+$Definition['Search only followed Categories'] = 'Search only followed Categories';
 $Definition['Search results for \'%s\''] = 'Search results for \'%s\'';
 $Definition['search subcategories'] = 'search subcategories';
 $Definition['Second Anniversary'] = 'Second Anniversary';
