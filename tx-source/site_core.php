@@ -1359,6 +1359,7 @@ $Definition['search archived'] = 'search archived';
 $Definition['Search archived'] = 'Search archived';
 $Definition['SearchBoxPlaceHolder'] = 'Search';
 $Definition["Search for <0/>"] = "Search for <0/>";
+$Definition['Search for a category'] = 'Search for a category';
 $Definition['Search for a tag.'] = 'Search for all or part of a tag.';
 $Definition['Search group members'] = 'Search group members';
 $Definition['Search Groups'] = 'Search Groups';
