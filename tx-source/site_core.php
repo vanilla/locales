@@ -724,6 +724,10 @@ $Definition['Hang on a sec while we sign you out.'] = 'Hang on a sec while we si
 $Definition['Have a great day!'] = 'Have a great day!';
 $Definition['he'] = 'he';
 $Definition['Heading'] = 'Heading';
+$Definition["Heading 2"] = "Heading 2";
+$Definition["Heading 3"] = "Heading 3";
+$Definition["Heading 4"] = "Heading 4";
+$Definition["Heading 5"] = "Heading 5";
 $Definition['Heading %s'] = 'Heading %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
