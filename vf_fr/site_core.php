@@ -129,7 +129,7 @@ $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s)
 $Definition["<0/> by <1/>"] = "<0/> par <1/>";
 $Definition["<0/> message"] = "<0/> message";
 $Definition["<0/> messages"] = "<0/> messages";
-$Definition["<0/> - Events"] = "&lt;0 /&gt; - Evénements";
+$Definition["<0/> - Events"] = "<0/> - Evénements";
 
 $Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
 $Definition['[%1$s] Membership Approved'] = 'Bienvenue sur le forum de %1$s';
@@ -515,7 +515,7 @@ $Definition['Draft saved at %s'] = 'Brouillon enregistré à %s';
 $Definition['Draft.Delete'] = 'Supprimer';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Redimensionnez et faites glisser l\'image afin de définir votre avatar.';
 $Definition['Drop image/file'] = 'Déplacer image/fichier';
-$Definition['Don\'t have an account? Click here to get started!'] = 'Vous n&#39;avez pas de compte? Cliquez ici pour commencer!';
+$Definition['Don\'t have an account? Click here to get started!'] = 'Vous n\'avez pas de compte? Cliquez ici pour commencer!';
 
 $Definition['Earned'] = 'Obtenu';
 $Definition['Edit'] = 'Modifier';
