@@ -584,6 +584,7 @@ Segui il link in basso per dare uno sguardo:
 Buona giornata!';
 $Definition['Email Unavailable'] = 'E-Mail Non Disponibile';
 $Definition['Email visible to other users'] = 'E-Mail visibile agli altri utenti';
+$Definition['EmbededDiscussionLinkText'] = 'Leggi la storia completa qui ';
 $Definition['Embedded Media'] = 'File multimediali incorporati';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
