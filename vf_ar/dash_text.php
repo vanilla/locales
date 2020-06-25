@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'تحقق من %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'إنّ Vanilla هي أبسط وأقوى منصة مجتمعية في العالم. إن استخدامها فائق السهولة. ابدأ بهذا الفيديو التمهيدي وتابع الخطوات التالية. استمتع!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'اختر مجموعة يضم لها الأعضاء الذين بلا مجموعة:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'اختر موضوعًا لهذه الفئة الفرعية. &lt;0&gt; اقرأ المزيد </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'اختر موضوعًا لهذه الفئة الفرعية. <0> اقرأ المزيد </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'اختر كيفية التعامل مع كل المحتوى المرتبط بحساب المستخدم لـ (التعليقات، الرسائل، إلخ) الخاصة بـ %s.';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'يمكنك تحديد خوارزمية تجزئة مخصصة لتوقيع طلباتك. يجب أيضًا استخدام خوارزمية التجزئة في مكتبة العميل الخاصة بك. اختر md5 إذا لم تكن متأكدًا مما يجب أن تختار.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'اختر التنسيق المفضل لقوائم الفئات.';
