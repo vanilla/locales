@@ -1988,12 +1988,12 @@ $Definition['Spoiler Warning'] = 'คำเตือนสปอยเลอร�
 $Definition['Placeholder'] = 'ตัวยึด';
 
 // Accessibility
-$Definition['%s for discussion: "%s"'] = '%s สำหรับการอภิปราย: &quot;%s&quot;';
-$Definition['%s for category: "%s"'] = '%s สำหรับหมวดหมู่: &quot;%s&quot;';
+$Definition['%s for discussion: "%s"'] = '%s สำหรับการอภิปราย: "%s"';
+$Definition['%s for category: "%s"'] = '%s สำหรับหมวดหมู่: "%s"';
 $Definition['%s comment by user: "%s"'] = '%s แสดงความคิดเห็นโดยผู้ใช้: &quot;%s&quot;';
 $Definition['User "%s" started discussion "%s" on date %s'] = 'ผู้ใช้ &quot;%s&quot; เริ่มการสนทนา &quot;%s&quot; ในวันที่ %s';
 $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'ความคิดเห็นล่าสุดในวันที่ %s ในการสนทนา &quot;%s&quot; โดยผู้ใช้ &quot;%s&quot;';
-$Definition['%s for category: "%s"'] = '%s สำหรับหมวดหมู่: &quot;%s&quot;';
+$Definition['%s for category: "%s"'] = '%s สำหรับหมวดหมู่: "%s"';
 $Definition['Category: "%s"'] = 'หมวดหมู่: &quot;%s&quot;';
 $Definition['User: "%s"'] = 'ผู้ใช้: &quot;%s&quot;';
 $Definition['Group: "%s"'] = 'กลุ่ม: &quot;%s&quot;';
