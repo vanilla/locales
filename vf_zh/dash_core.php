@@ -5,9 +5,13 @@ $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 可更新。';
 $Definition['%s is not a valid email address'] = '%s 不是有效的电子邮件地址';
+$Definition['%s is required'] = '需要 %
+';
 $Definition['%s item in queue'] = '队列中有 %s 个条目';
 $Definition['%s level'] = '%s 级';
 $Definition['%s levels'] = '%s 级';
+$Definition['%s must be numeric'] = '% 必须是数字
+';
 $Definition['%s site(s) found.'] = '已找到 %s 个站点。';
 $Definition['%s sources(s) found.'] = '已找到 %s 个源文件。';
 $Definition['%s times'] = '%s 次';
@@ -548,7 +552,7 @@ $Definition['Number of blocked registrations'] = '已阻止的注册数。';
 $Definition['On'] = '在';
 $Definition['Only Allow Each User To Post'] = '允许每个用户发布';
 $Definition['Only display on mobile browsers.'] = '只在手机浏览器上显示。';
-$Definition['Only visible to users with roles with permission.'];
+$Definition['Only visible to users with roles with permission.'] = '仅对具有权限的角色的用户可见。';
 $Definition['Operation By'] = '由';
 $Definition['Organization'] = '组织';
 $Definition['Organize'] = '组织';
@@ -678,6 +682,8 @@ $Definition['Start Discussions'] = '发起新话题';
 $Definition['Start Private Conversations'] = '开始私人会话';
 $Definition['State'] = '状态';
 $Definition['Statistics'] = '统计';
+$Definition['Strip Embeds'] = '条形嵌入';
+$Definition['Strip Embeds'] = '条形嵌入';
 $Definition["Style"] = "风格";
 $Definition['Styles'] = '风格';
 
@@ -764,6 +770,7 @@ $Definition['Time'] = '时间';
 $Definition['Titles'] = '标题';
 $Definition['Token Name'] = '令牌名称';
 $Definition['Touch Icon'] = '触摸图标';
+$Definition['Truncate the initial discussion text to this many words.'] = '将初始讨论文本截断为如此数量的单词。';
 $Definition['trusted domains'] = '信任域名列表';
 $Definition['Trusted Domains'] = '信任域';
 $Definition['Turn OFF'] = '关闭插件';
@@ -828,6 +835,7 @@ $Definition['Why do you want to join?'] = '您为什么要加入呢？';
 $Definition['Within'] = '在有限时间内';
 $Definition['Will you be attending?'] = '您会参加吗？';
 $Definition['WordPress Plugin'] = 'WordPress  插件';
+$Definition['Word Count'] = '字数';
 
 $Definition['Yes, the following information can be changed later.'] = '是的，下面的信息今后可以变更。';
 $Definition['You are connected as %s.'] = '您已连接为 %s。';

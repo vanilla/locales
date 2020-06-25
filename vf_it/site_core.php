@@ -584,6 +584,7 @@ Segui il link in basso per dare uno sguardo:
 Buona giornata!';
 $Definition['Email Unavailable'] = 'E-Mail Non Disponibile';
 $Definition['Email visible to other users'] = 'E-Mail visibile agli altri utenti';
+$Definition['EmbededDiscussionLinkText'] = 'Leggi la storia completa qui ';
 $Definition['Embedded Media'] = 'File multimediali incorporati';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
@@ -724,6 +725,10 @@ $Definition['Hang on a sec while we sign you out.'] = 'Attendi qualche secondo p
 $Definition['Have a great day!'] = 'Buona giornata! ';
 $Definition['he'] = 'lui';
 $Definition['Heading'] = 'Titolo';
+$Definition["Heading 2"] = "Titolo 2";
+$Definition["Heading 3"] = "Titolo 3";
+$Definition["Heading 4"] = "Titolo 4";
+$Definition["Heading 5"] = "Titolo 5";
 $Definition['Heading %s'] = 'Titolo %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '
 {ActivityUserID,You} ha accettato {NotifyUserID,your} la tua risposta.';
@@ -1581,8 +1586,11 @@ $Definition['To'] = 'A';
 $Definition['Today'] = 'Oggi';
 $Definition["Toggle Category"] = "Abilita Categoria";
 $Definition['Toggle full page'] = 'Passa alla visualizzazione pagina intera';
+$Definition["Toggle Heading Menu"] = "Attiva il Menu Intestazione";
 $Definition['Toggle HTML view'] = 'Passa alla visualizzazione HTML';
 $Definition['Toggle lights'] = 'Accendere/spegnere le luci';
+$Definition["Toggle Lists Menu"] = "Attiva il Menu Liste";
+$Definition["Toggle Special Formats Menu"] = "Attiva il Menu Formati Speciali";
 $Definition['Top'] = 'In Alto';
 $Definition['Topic'] = 'Argomento';
 $Definition['Topics'] = 'Argomenti';
@@ -1923,6 +1931,7 @@ $Definition['Format as Strikethrough'] = 'Formatta come Barrato';
 $Definition['Strikethrough'] = 'Bannato';
 $Definition['Format as Inline Code'] = 'Formatta come Codice inline';
 $Definition['Paragraph Code Block'] = 'Blocco di codice';
+$Definition["Paragraph (Removes paragraph style and sets to plain paragraph)"] = "Paragrafo (Rimuove lo stile del paragrafo e imposta il paragrafo semplice)";
 $Definition['Code Block'] = 'Blocco di codice';
 $Definition['Format as Link'] = 'Formatta come Link';
 $Definition['Link'] = 'Link';
