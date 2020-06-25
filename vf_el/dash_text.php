@@ -278,7 +278,7 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Καλώς ήλθατε στο θέμα σας";
-$Definition["This is a style guide of your theme."] = "Αυτός είναι ένας οδηγός στυλ για το θέμα σας. Έχει παραδείγματα των οπτικών στοιχείων που χρησιμοποιούνται σε όλη την εφαρμογή. Μπορείτε να κάνετε κλικ στα διάφορα widget όπως η &lt;0&gt; Γραμμή Τίτλων </0> ή &lt;1&gt; Banner </1> για να επεξεργαστείτε τις ιδιότητές τους στο πλαϊνό πλαίσιο.";
+$Definition["This is a style guide of your theme."] = "Αυτός είναι ένας οδηγός στυλ για το θέμα σας. Έχει παραδείγματα των οπτικών στοιχείων που χρησιμοποιούνται σε όλη την εφαρμογή. Μπορείτε να κάνετε κλικ στα διάφορα widget όπως η <0>Γραμμή Τίτλων</0> ή <1>Banner</1> για να επεξεργαστείτε τις ιδιότητές τους στο πλαϊνό πλαίσιο.";
 $Definition["In additon to the widgets there are also"] = "Εκτός από τα widget υπάρχουν επίσης &lt;0&gt; Καθολικά στυλ </0> . Για να επεξεργαστείτε καθολικά στυλ, κάντε κλικ οπουδήποτε αλλού στη σελίδα, όπως αυτό το κείμενο.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Υπάρχουν δύο τύποι κουμπιών στην εφαρμογή: πρωτεύον και δευτερεύον.";
 $Definition["Primary Button"] = "Κύριο κουμπί";
