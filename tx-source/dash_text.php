@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Font Name";
 $Definition["Invalid URL"] = "Invalid URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field.";
 $Definition["You can configure some values differently for different screensizes."] = "You can configure some values differently for different screensizes.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "You need to add the font url’s domain to <0>Allowed Domains</0> in the site's configuration. <1>Learn more about custom fonts.</1>";
 
 $Definition["Primary Buttons"] = "Primary Buttons";
 $Definition["Secondary Buttons"] = "Secondary Buttons";
