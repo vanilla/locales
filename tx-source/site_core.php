@@ -496,6 +496,7 @@ $Definition['Discussion Title'] = 'Discussion Title';
 $Definition['Discussion Type'] = 'Discussion';
 $Definition['Dislike'] = 'Dislike';
 $Definition['Dismiss'] = 'Dismiss';
+$Definition['Dismissible'] = 'Dismissible';
 $Definition['Documentation'] = 'Documentation';
 $Definition['Domain is invalid.'] = 'Domain is invalid.';
 $Definition['Don\'t announce.'] = 'Don\'t announce.';
