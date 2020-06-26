@@ -4,7 +4,7 @@ $Definition["(No Body)"] = "(ไม่มีเนื้อความ)";
 $Definition["(Untitled)"] = "(ไม่มีชื่อ)";
 $Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> จาก <1 /> คน พบว่าสิ่งนี้มีประโยชน์";
 
-$Definition["A customized version of the knowledge base name as it should appear in URLs."] = "ชื่อฐานความรู้รุ่นที่กำหนดเองตามที่ควรปรากฏใน URL";
+$Definition["A customized version of the knowledge base name as it should appear in URLs."] = "เวอร์ชันปรับแต่งของฐานข้อมูลควรปรากฏใน URL";
 $Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "คำอธิบายของฐานความรู้ แสดงในตัวเลือกฐานความรู้";
 $Definition["A small image used to represent the knowledge base. Displayed in the knowledge base picker."] = "รูปภาพขนาดเล็กที่ใช้เพื่อแสดงถึงฐานความรู้ แสดงในตัวเลือกฐานความรู้";
 $Definition["Add Knowledge Base"] = "เพิ่มฐานความรู้";
