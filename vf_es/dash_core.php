@@ -96,6 +96,7 @@ $Definition['Allow this connection to issue API access tokens.'] = 'Permitir a e
 $Definition['Allow users to change their own avatars'] = 'Permitir a los usuarios cambiar sus propios avatares';
 $Definition['Allow users to dismiss this message'] = 'Permitir a los usuarios omitir este mensaje';
 $Definition['All Pages'] = 'Todas las paginas';
+$Definition['An enabled message will be visible on the site.'] = 'Un mensaje habilitado será visible en el sitio.';
 $Definition['API'] = 'API';
 $Definition['API SSO Expand Permission'] = 'Permiso de expansión de SSO de API';
 $Definition['API Status'] = 'Estatus API';
