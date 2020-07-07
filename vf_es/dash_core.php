@@ -1,6 +1,6 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" no se encuentra.';
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" no encontrado.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Versión %2$s';
 $Definition['%1$s version %2$s is available.'] = 'La versión %1$s , %2$s esta disponible';
