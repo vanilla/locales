@@ -477,6 +477,7 @@ $Definition['Delete Group'] = 'Borrar Grupo';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'Eliminar al usuario y todo su contenido. Cuidado porque esto causará hilos fuera de control, apareciendo como si personas estuvieran respondiendo a un contenido que no existe. Esta es una buena opción para eliminar spam.';
 $Definition['Delete User Content'] = 'Eliminar el contenido del usuario';
 $Definition['Delete User Forever'] = 'Eliminar Usuario para siempre';
+$Definition['Deleting...'] = 'Eliminando...';
 $Definition['Deny'] = 'Rechazar';
 $Definition['Deny Applicant'] = 'Rechazar';
 $Definition['Description'] = 'Descripción';
