@@ -1,13 +1,15 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" no se encuentra.';
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" no encontrado.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Versión %2$s';
 $Definition['%1$s version %2$s is available.'] = 'La versión %1$s , %2$s esta disponible';
 $Definition['%s is not a valid email address'] = '%s no es una dirección de correo electrónico valida.';
+$Definition['%s is required'] = '%s es obligatorio';
 $Definition['%s item in queue'] = '%s articulo en espera.';
 $Definition['%s level'] = 'Nivel %s ';
 $Definition['%s levels'] = 'Niveles %s';
+$Definition['%s must be numeric'] = '%s debe ser numérico';
 $Definition['%s site(s) found.'] = '%s sitio(s) encontrado(s).';
 $Definition['%s sources(s) found.'] = '%s fuente(s) encontrada(s).';
 $Definition['%s times'] = '%s veces';
@@ -94,6 +96,7 @@ $Definition['Allow this connection to issue API access tokens.'] = 'Permitir a e
 $Definition['Allow users to change their own avatars'] = 'Permitir a los usuarios cambiar sus propios avatares';
 $Definition['Allow users to dismiss this message'] = 'Permitir a los usuarios omitir este mensaje';
 $Definition['All Pages'] = 'Todas las paginas';
+$Definition['An enabled message will be visible on the site.'] = 'Un mensaje habilitado será visible en el sitio.';
 $Definition['API'] = 'API';
 $Definition['API SSO Expand Permission'] = 'Permiso de expansión de SSO de API';
 $Definition['API Status'] = 'Estatus API';
@@ -548,7 +551,7 @@ $Definition['Number of blocked registrations'] = 'Número de registros bloqueado
 $Definition['On'] = 'En';
 $Definition['Only Allow Each User To Post'] = 'Solo permitir a cada usuario enviar';
 $Definition['Only display on mobile browsers.'] = 'Solo mostrar en navegadores móviles. ';
-$Definition['Only visible to users with roles with permission.'];
+$Definition['Only visible to users with roles with permission.'] = 'Solo visible para usuarios con roles con permiso.';
 $Definition['Operation By'] = 'Por';
 $Definition['Organization'] = 'Organización';
 $Definition['Organize'] = 'Organizar ';
@@ -678,6 +681,8 @@ $Definition['Start Discussions'] = 'Iniciar Nueva Discusión';
 $Definition['Start Private Conversations'] = 'Empezar conversaciones privadas';
 $Definition['State'] = 'Estado';
 $Definition['Statistics'] = 'Estadísticas ';
+$Definition['Strip Embeds'] = 'Incrustaciones de tiras';
+$Definition['Strip Embeds'] = 'Incrustaciones de tiras';
 $Definition["Style"] = "Estilo";
 $Definition['Styles'] = 'Estilos ';
 
@@ -764,6 +769,7 @@ $Definition['Time'] = 'Hora';
 $Definition['Titles'] = 'Titulos';
 $Definition['Token Name'] = 'Nombre del token';
 $Definition['Touch Icon'] = 'Icono Touch';
+$Definition['Truncate the initial discussion text to this many words.'] = 'Truncar el texto de la discusión inicial a este número de palabras.';
 $Definition['trusted domains'] = 'dominios de confianza';
 $Definition['Trusted Domains'] = 'Dominios de confianza';
 $Definition['Turn OFF'] = 'Apague';
@@ -828,6 +834,7 @@ $Definition['Why do you want to join?'] = '¿Por qué quieres entrar?';
 $Definition['Within'] = 'Dentro de';
 $Definition['Will you be attending?'] = '¿Vas a asistir?';
 $Definition['WordPress Plugin'] = 'Complemento WordPress';
+$Definition['Word Count'] = 'Recuento de palabras';
 
 $Definition['Yes, the following information can be changed later.'] = 'Si, la siguiente información puede ser modificada después. ';
 $Definition['You are connected as %s.'] = 'Estas conectado como %s.';

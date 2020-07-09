@@ -39,6 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Comprueba nuestro %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla es la plataforma comunitaria más sencilla y poderosa del mundo. Es facilísima de usar. Comienza con este vídeo introductorio y continua con los pasos mostrados más abajo. ¡Disfruta!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Elige la función que se asignará a los usuarios huérfanos:';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Elige un tema para esta subcomunidad. <0>Leer más</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Elige cómo gestionar todo el contenido relacionado con la cuenta de usuario de %s (comentarios, mensajes, etc.).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Puedes seleccionar un algoritmo de hash personalizado para firmar tu petición. El algoritmo de hash también debe usarse en tu biblioteca de cliente. Elige "md5" si no estás seguro.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Elije el diseño preferido para las listas de categorías.';
@@ -260,6 +261,17 @@ $Definition['You must select a file to import.'] = 'Debes seleccionar un archivo
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Su tema móvil será deshabilitado. Para configurar un tema móvil y de escritorio diferente, use la vieja IU the temas.";
+$Definition["Heads Up!"] = "¡Levanta la cabeza!";
+$Definition["Welcome to Vanilla's theming UI."] = "Bienvenido a la interfaz de usuario temática de Vanilla. Esta página enumera todos sus temas disponibles y le permite copiarlos o editarlos.";
+$Definition["Some older themes don't support full editing capability."] = "Algunos temas antiguos no admiten la capacidad de edición completa. Para ver qué admite un tema, puede pasar el mouse sobre su nombre para ver dónde surtirán efecto las ediciones.";
+$Definition["Need More Help?"] = "¿Necesitas más ayuda?";
+$Definition["Theming Guide"] = "Guia de temas";
+$Definition["Old Theming UI"] = "Vieja interfaz de temas";
+$Definition["If you have an old theme"] = "Si tienes un tema viejo o necesitas configurar un tema diferente para escritorio y móvil, puedes hacerlo con la vieja interfaz de temas.";
+$Definition["Edits to this theme apply to:"] = "Los cambios de este tema se aplican a:";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Las plantillas son temas estándar. Para personalizarlas, tienes que crear una copia.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Los Temas personalizados son los temas que creaste. Puedes editarlos, renombrarlos o hacer una copia.';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "Este tema no se puede borrar porque es el tema que está en uso actualmente.";
@@ -289,6 +301,12 @@ $Definition["Background"] = "Fondo";
 $Definition["Links"] = "Enlaces";
 $Definition["Font"] = "Fuente";
 $Definition["Border Radius"] = "Radio del borde";
+$Definition["Font URL"] = "URL de la fuente";
+$Definition["Font Name"] = "Nombre de la fuente";
+$Definition["Invalid URL"] = "URL inválida";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Puedes subir una fuente personalizada en tu sistema de temas. Solo copia y pega la URL en el campo";
+$Definition["You can configure some values differently for different screensizes."] = "Puedes configurar algunos valores distintos para distintos tamaños de pantalla.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Tienes que agregar la dirección de dominio a los <0>DominiosPermitidos</0>, en la configuración del sitio. <1>Saber más sobre fuentes personalizadas</1>.";
 
 $Definition["Primary Buttons"] = "Botones principales";
 $Definition["Secondary Buttons"] = "Botones secundarios";
