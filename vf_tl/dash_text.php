@@ -1,4 +1,5 @@
 <?php
+// phpcs:ignoreFile
 
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.';
@@ -10,19 +11,39 @@ $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replace
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['About Vanilla Statistics'] = 'About Vanilla Statistics';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'I-access ang iyong forum ng komunidad sa pamamagitan ng pag-click sa link na "Visit Site" sa itaas ng page na ito, o sa pamamagitan ng <a href={/,url}>pag-click dito</a>. Ang forum ng komunidad ay ang makikita ng lahat ng iyong mga user at kostumer kapag bumisita sila <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['Add limits to image upload dimensions in discussions and comments.'] =
+    'Magdagdag ng mga limitasyon sa sukat ng larawan na maaaring i-upload sa mga talakayan at mga komento.';
+$Definition['AddressBarColorDescription'] = 'Ang ilang mga browser ay sumusuporta sa isang kulay para sa address bar. Mobile lang.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
+$Definition['Alert users if they click external link.'] = 'Alerto mga gumagamit kung nag-click sila ng isang link sa isang post na aakayin ang mga ito mula sa forum. Hindi bibigyan ng babala ang mga gumagamit kapag sumusunod sa mga link na tumutugma sa isang Pinagkakatiwalaang Domain';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
-$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
+$Definition['Allow links to be transformed'] =
+    'Payagan ang mga link na mabago sa naka-embed na representasyon sa mga talakayan at komento. Halimbawa, ang isang link sa YouTube ay magbabago sa isang naka-embed na video.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Payagan ang mga gumagamit na may pahintulot %s na baguhin ang kanilang sariling mga avatar mula sa kanilang mga pahina ng profile sa Vanilla.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
+$Definition['Avatars will be scaled down if they exceed this height.'] = 'Ang mga avatar ay mai-scale kung lalampas nila ang taas na ito.';
+$Definition['Avatars will be scaled down if they exceed this width.'] = 'Ang mga avatar ay mai-scale kung lalampas nila ang lapad na ito.';
+$Definition['Avatars will have their thumbnails saved at this size.'] = 'Ang mga Avatar ay makatipid ng kanilang mga thumbnail sa laki na ito.';
 
+$Definition['Be creative! Try naming your ranks after things that the community talks about.'] =
+    'Maging malikhain! Subukang pangalanan ang iyong mga ranggo pagkatapos ng mga bagay na pinag-uusapan ng komunidad.';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'By clicking the button below, you will be deleting the user account for %s forever.';
 
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
+$Definition['Changes will apply to newly uploaded avatars only.'] = 'Ang mga pagbabago ay ilalapat lamang sa mga bagong nai-upload na avatar.';
+$Definition['Change the sizes that avatar images are saved at.'] = 'Baguhin ang mga laki na nai-save ang mga imahe ng avatar.';
+$Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
+    'Pinapayagan ng mga checkbox ang mga admins na magsagawa ng mga aksyon sa batch sa maraming mga talakayan o komento nang sabay-sabay.';
+$Definition['Check out our %s'] = 'Tingnan ang aming %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choose a role that orphaned users will be assigned to:';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pumili ng isang tema para sa subkomunidad na ito. Magbasa pa </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
+$Definition['Choose the preferred layout for lists of categories.'] = 'Piliin ang ginustong layout para sa mga listahan ng mga kategorya.';
+$Definition['Choose the preferred layout for lists of discussions.'] = 'Piliin ang ginustong layout para sa mga listahan ng mga talakayan.';
 $Definition['Continue Import'] = 'Continue Import';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Could not parse import file. The problem is near line %s.';
 $Definition['Create a localization CSV'] = 'Create a localization CSV';
@@ -35,11 +56,13 @@ $Definition['Disable Google Sign In'] = 'Disable Google Sign In';
 $Definition['Disable OpenID'] = 'Disable OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Don\'t embed your forum admin dashboard (pop it out to full-screen)';
+$Definition['Don\'t use too many reactions.'] = 'Huwag gumamit ng maraming reaksyon. Hindi mo nais na bigyan ang labis na impormasyon sa iyong mga gumagamit.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
-
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Edit Route'] = 'Edit Route';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Embed your community forum into your website to increase engagement...';
+$Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
+    'Pinapagana ang advanced na pag-edit ng mga post sa maraming mga format, kabilang ang WYSIWYG, simpleng HTML, Markdown, at BBCode.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Enter the address of your Wordpress Blog and we\'ll take it from there.';
@@ -56,9 +79,10 @@ $Definition['For SEO purposes, search engine crawlers are excluded from being fo
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
-$Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import.
-   Please choose one of the following options.';
+$Definition['Garden.Import.Continue.Description'] = 'Lumilitaw na parang nasa gitna ka ng isang import. Mangyaring pumili ng isa sa mga sumusunod na pagpipilian.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Pahintulot ng Garden.Profiles.Edit na baguhin ang kanilang sariling mga avatar mula sa kanilang mga pahina ng profile sa Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
@@ -66,15 +90,26 @@ $Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.';
-
+$Definition['Here are all of the reactions you can use on your site.'] = 'Narito ang lahat ng mga reaksyon na maaari mong gamitin sa iyong site.';
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Narito ang mga ranggo na maaaring makamit ng mga gumagamit sa iyong site. Maaari mong ipasadya ang mga ranggo na ito at kahit na magdagdag ng mga bago. Narito ang ilang mga tip.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
+$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
+    'Kung pinagana, ang buong nilalaman ng mga post ay ipapadala sa mga abiso sa email sa mga gumagamit.';
+$Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
+    'Kung bago ka sa HTML at / o CSS, narito ang ilang mga tutorial upang makapagsimula ka:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'If you want to decrease the warning level then remove a warning.';
+$Definition['If you want to embed your forum, enable embedding.'] =
+    'Kung nais mong i-embed ang iyong forum o gumamit ng mga komento ni Vanilla sa iyong blog pagkatapos ay kailangan mong paganahin ang pag-embed. Kung hindi ka gumagamit ng pag-embed ay inirerekumenda namin na iwanan ang setting na ito.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
 $Definition['Internationalization & Localization'] = 'Internasyonalisasyon at Lokalisasyon';
+$Definition['Invitation email failed to send: %'] = 'Bagaman matagumpay na nilikha ang imbitasyon, nabigo ang email na ipadala. Iniulat ng server ang sumusunod na error: %s';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.';
+$Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
+    'Mahusay na panatilihin ang maximum na bilang ng mga character na pinapayagan sa isang post pababa sa isang makatwirang sukat.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 
@@ -89,9 +124,21 @@ $Definition['Manage Routes'] = 'Manage Routes';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
+$Definition['MobileLogoDescription'] =
+    'Ang mobile banner logo ay lilitaw sa tuktok ng iyong site. Ang ilang mga tema ay maaaring hindi ipakita ang logo na ito.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Pinapayagan ka ng mga mobile na tema na baguhin ang hitsura at pakiramdam ng iyong site sa mas maliit na aparato.';
 
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'Ang mga nested na kategorya na mas malalim kaysa sa lalim na ito ay ilalagay sa isang listahan ng tinanggal na comma.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Kailangan ng site ng isang tungkulin na may default na uri na "unconfirmed" para magamit ang kumpirmasyon ng email. Mangyaring maglagay ng isa para mapagana ang setting na ito.';
+$Definition['Not getting what you expect when you preview your theme?'] = 'Hindi nakakakuha ng inaasahan mo kapag nai-preview mo ang iyong tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Notify me when people comment on my addons.';
+
+$Definition['Once enabled, only members will see inside your community.'] = 'Kapag pinagana, ang mga miyembro lamang ang makakakita sa loob ng iyong komunidad.';
+$Definition['OrgDescription'] = 'Ang pangalan ng organisasyon mo ay ginagamit para sa SEO microdata at JSON+LD';
+$Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
+    'Ang mga overridden na view o themehooks ay maaaring magkaroon ng hindi sinasadyang mga epekto at hindi nai-preview.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
@@ -104,7 +151,16 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start G
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
 $Definition['Realtime progress bars: %s'] = 'Realtime progress bars: %s';
+$Definition['Recommend special ranks for admins and mods.'] =
+    'Magandang ideya na magkaroon ng mga espesyal na ranggo para sa mga moderator at administrador upang madaling makita ng iyong komunidad kung sino ang namamahala.';
+$Definition['Recommend starting with five ranks.'] =
+    'Hindi mo nais na magkaroon ng maraming mga ranggo. Inirerekumenda namin na magsimula sa limang. Maaari kang magdagdag ng higit pa kung malaki ang iyong komunidad.';
+$Definition['Requires “Flag” reaction permission.'] = 'Nangangailangan ng pahintulot ng reaksyon ng &quot;Bandila&quot;.';
+$Definition['Requires “Negative” reaction permission.'] = 'Nangangailangan ng pahintulot na reaksyon ng &quot;Negatibo&quot;.';
+$Definition['Requires “Positive” reaction permission.'] = 'Nangangailangan ng pahintulot na reaksyon ng &quot;Positibo&quot;.';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
+$Definition['RichEditor.QuoteEnable.Notes'] =
+    'Gamitin ang sumusunod na pagpipilian upang paganahin ang mga quote para sa Rich Editor. Maglalapat lamang ito kung ang default na formatter ay &quot;Mayaman&quot;.';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Ang mga route ay ginagamit para i-redirect ang mga user depende sa hiniling na URL.';
 
@@ -113,15 +169,24 @@ $Definition['Security.Hsts.HTTPSWarning'] = 'Babala: Paganahin lang ang tampok n
 $Definition['Security.Hsts.IncludeSubDomains'] = 'Kapag pinagana, ang tuntuning ito ay naaangkop din sa lahat ng mga subdomain ng iyong site.';
 $Definition['Security.Hsts.MaxAgeRecommendation'] = 'Inirerekomenda namin na magsimula sa pinakamatandang edad na 1 linggo at pagkatapos ay pahahabain ito sa 1 buwan pagkatapos ay 1 taon sa sandaling makita mo na ang iyong site ay gumagana tulad ng inaasahan.';
 $Definition['Security.Hsts.SubmitWarning'] = 'Babala: Mahusay na suportahan ang pag-preload ng HSTS bilang isang pinakamainam na kasanayan. Gayunpaman, dapat mong isumite ang iyong site sa hstspreload.org para matiyak na matagumpay itong na-pre-load (i.e. para makuha ang buong proteksyon para sa inilaang configuration).';
+$Definition['Select the default type for this role, if any.'] = 'Piliin ang default na uri para sa papel na ito, kung mayroon man.';
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
+$Definition['ShareImageDescription'] =
+    'Kapag may nagbabahagi ng isang link mula sa iyong site sinubukan namin at kumuha ng isang imahe mula sa pahina. Kung walang isang imahe sa pahina pagkatapos ay gagamitin namin ang imaheng ito. Ang imahe ay dapat na hindi bababa sa 50 × 50, ngunit inirerekumenda namin ang 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'Ang ilang mga tema ay maaaring kailangang ma-update upang gumana kasama ang kategorya. Maaari mong paganahin ang tampok habang ina-update mo ang iyong tema.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'Espesyal na paghihigpit: Mga gumagamit lamang na may pahintulot na Garden.Curation.Manage ay maaaring gumamit ng reaksyon na ito.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Tukuyin ang bahagya o kumpletong pagtugma kapag gumagawa ng pagbabawal.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Ayusin ang iyong mga email sa pamamagitan ng paglalagay ng logo at pagko-customize sa mga kulay.';
 $Definition['Start Import'] = 'Start Import';
 $Definition['Start the first discussion.'] = 'Umpisihan ang aksyon sa iyong komunidad sa pamamagitan ng <a href="{/post/discussion,url}">pagsisimula ng unang talakayan</a> ngayon.';
 
+$Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] =
+    'Pinapayagan ng pag-tag ang mga gumagamit na magdagdag ng isang tag sa mga talakayan na sinimulan nila upang mas madaling matuklasan ang mga ito.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'The %s Authenticator does not have any custom configuration options.';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'The addon could not be enabled because it generated a fatal error: <pre>%s</pre>';
 $Definition['The addon has already been downloaded.'] = 'The addon has already been downloaded.';
@@ -129,12 +194,14 @@ $Definition['The banner logo appears at the top of your forum.'] = 'The banner l
 $Definition['The banner title appears on the top-left of every page.'] = 'The banner title appears on the top-left of every page.';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browser\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong> Ang form ng pangunahing pagpapatala ay nangangailangan ng </strong> pagkopya ng mga bagong user sa text mula sa larawang CAPTHA para panatilihin sa labas ng site ang mga spammer. Kailangan mo ng account sa <a href="http://recaptcha.net/">recaptcha.net</a> . LIBRE at madali lang ang pag-sign up. Kapag nakapag-sign up ka na, bumalik dito at ilagay ang sumusunod na mga setting:';
-$Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] = 'The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>';
+$Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] =
+    'The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>';
 $Definition['The following structure changes are required for your database.'] = 'The following structure changes are required for your database.';
 $Definition['The import file does not contain any data.'] = 'The import file does not contain any data.';
 $Definition['The import file is not in the correct format.'] = 'The import file is not in the correct format.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'The location of the jsonp formatted authentication data.';
 $Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
+$Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Limitado ang preview ng tema sa pagpapakita ng template at css ng tema.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'The Password Authenticator does not have any custom configuration options. ';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'There are no database structure changes required. There may, however, be data changes.';
 $Definition['The route was saved successfully.'] = 'The route was saved successfully.';
@@ -142,14 +209,26 @@ $Definition['The text of the pocket.'] = 'Enter the text of the pocket. This wil
 $Definition['The user table was not in the import file.'] = 'The user table was not in the import file.';
 $Definition['The Vanilla 2 Exporter'] = 'The Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
+$Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
+    'Gumagana sila tulad ng mga regular na tema. Kapag ang isang naidagdag sa folder ng mga tema, maaari mo itong paganahin dito.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Ito ang administrative dashboard para sa iyong bagong komunidad. Tingnan ang mga opsyon ng kumpigurasyon sa gilid. Mula doon ay pwede mong i-configure kung paano tumatakbo ang iyong komunidad. <b> Bilang default, tanging ang mga user lang na may tungkuling "Administrator" ang makakakita ng bahaging ito ng iyong komunidad. </b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
+$Definition['This page lists the endpoints of your API.'] =
+    'Inililista ng pahinang ito ang mga dulo ng iyong API. Mag-click sa mga endpoint para sa karagdagang impormasyon. Maaari kang gumawa ng mga live na tawag sa API mula sa pahinang ito o panlabas na gamit ang isang token ng pag-access.';
+$Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
+    'Ang papel na ito ay personal na impormasyon. Ang mga gumagamit lamang na may pahintulot upang tingnan ang personal na impormasyon ay makikita ito.';
+$Definition['This setting loads the page before executing Javascript.'] =
+    'Ang setting na ito ay naglo-load ng pahina bago isagawa ang Javascript na maaaring mapabuti ang iyong SEO. <br> <strong>** Babala: Paganahin ang tampok na ito ay maaaring maging sanhi ng mga error sa Javascript sa iyong site. **</strong>';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Masyadong marami ang mga address! Magpapadala kami ng hanggang sa %s address nang sabay-sabay.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
+$Definition['TouchIconDescription'] =
+    'Lumilitaw ang icon ng touch kapag nag-bookmark ka ng isang website sa homescreen ng isang aparatong Apple. Ito ay karaniwang 152 na mga piksel. Nagdagdag ang Apple ng mga bilog na sulok at awtomatikong epekto.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
+$Definition['Use the button at the top of the page to create a ban rule.'] = 'Gamitin ang pindutan sa tuktok ng pahina upang lumikha ng isang panuntunan sa pagbabawal.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
+$Definition['Users may sign into your site using their Twitter account.'] = 'Maaaring mag-sign in ang mga gumagamit sa iyong site gamit ang kanilang Twitter account.';
 
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
@@ -160,13 +239,95 @@ $Definition['Video tutorial on managing categories'] = 'Video tutorial on managi
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles &amp; permissions';
 $Definition['Video tutorial on user registration'] = 'Video tutorial on user registration';
 
-$Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading.
-If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
+$Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Babala: Ang pagpapagana ng tampok na ito ay maaaring maging sanhi ng mga error sa Javascript sa iyong site.';
+$Definition['Warning: Loading tables can be slow.'] =
+    '<b>Babala</b> : Ang pagsasaayos ng iyong server ay hindi sumusuporta sa mabilis na pag-load ng data. Kung nag-import ka ng isang napakalaking file (hal. Higit sa 200,000 mga komento) maaari mong isaalang-alang ang pagbabago ng iyong pagsasaayos. Mag-click <a href="http://vanillaforums.com/porter">dito</a> para sa karagdagang impormasyon.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
+$Definition['We recommend mostly positive reactions to encourage participation.'] = 'Inirerekumenda namin ang karamihan sa mga positibong reaksyon upang hikayatin ang pakikilahok.';
+$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Kapag pinagana, maaari mong pamahalaan ang mga produkto, at mga subkomunidad ng grupo sa pamamagitan ng mga produktong iyon.';
+$Definition['Which reactions you use really depends on your community.'] =
+    'Aling mga reaksyon na ginagamit mo ay talagang nakasalalay sa iyong komunidad, ngunit inirerekumenda namin na alalahanin ang ilang mga puntos.';
 
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Maaari mong pagbawalan ang lahat ng gumagamit ng IP address na may prefix na "111.111.111" sa pamamagitan ng pagdaragdag ng pagbabawal na tipong-IP na may value na "111.111.111.*".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Maaari mong pagbawalan ang mga IP address, email address at username.';
+$Definition['You can choose from one of the different styles this theme offers.'] = 'Maaari kang pumili mula sa isa sa iba&#39;t ibang mga istilo na alok ng temang ito.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'You can connect to multiple sites that support jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Kung masyadong malaki ang iyong file para direktang mai-upload sa page na ito, pwede mo itong ilagay sa iyong /uploads folder. Siguruhing nagsisimula ang filename sa salitang <b>export</b> at nagtatapos sa isa sa <b>.txt, .gz</b>.';
+$Definition['You can specify a minimum post length to discourage short posts.'] = 'Maaari kang tukuyin ang isang minimum na haba ng post upang mawalan ng loob ang mga maiikling post.';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
-$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Ang pangalan ng organisasyon mo ay ginagamit para sa SEO microdata at JSON+LD';
+
+///
+/// Theming UI
+///
+
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Ang iyong mobile na tema ay hindi pinagana. Upang itakda ang iba&#39;t ibang mga mobile at desktop na tema, gamitin ang lumang theming UI.";
+$Definition["Heads Up!"] = "Paunawa!";
+$Definition["Welcome to Vanilla's theming UI."] = "Maligayang pagdating sa theming UI ng Vanilla. Inililista ng pahinang ito ang lahat ng iyong magagamit na mga tema, at pinapayagan kang kopyahin o i-edit ang mga ito.";
+$Definition["Some older themes don't support full editing capability."] = "Ang ilang mga mas matatandang tema ay hindi sumusuporta sa buong kakayahan sa pag-edit. Upang makita kung ano ang sumusuporta sa isang tema na maaari mong mai-hover sa pangalan nito upang makita kung saan magkakaroon ng bisa ang mga pag-edit.";
+$Definition["Need More Help?"] = "Need More Help?";
+$Definition["Theming Guide"] = "Gabay sa pag-iisip";
+$Definition["Old Theming UI"] = "Old Theming UI";
+$Definition["If you have an old theme"] = "Kung mayroon kang isang lumang tema at kailangan upang magtakda ng isang hiwalay na desktop at mobile na tema maaari mong gawin ito sa lumang UI ng pag-i tem.";
+$Definition["Edits to this theme apply to:"] = "Ang mga pag-edit sa temang ito ay nalalapat sa:";
+
+$Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Ang mga template ay ang karaniwang mga tema. Upang ipasadya ang mga ito, kailangan mong lumikha ng isang kopya.';
+$Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Pasadyang Mga Tema ang mga tema na iyong nilikha. Maaari mong i-edit, palitan ang pangalan o gumawa ng isang kopya ng mga ito.';
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Ang temang ito ay hindi matanggal dahil ito ang kasalukuyang inilapat na tema.";
+$Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Sigurado ka bang gusto mong tanggalin ang temang ito? Ito ay permanenteng tatanggalin.";
+
+// Preview Page
+$Definition["Welcome To Your Theme"] = "Maligayang pagdating sa Iyong Tema";
+$Definition["This is a style guide of your theme."] = "Ito ay isang gabay na istilo ng iyong tema. Mayroon itong mga halimbawa ng mga visual na elemento na ginamit sa buong application. Maaari kang mag-click sa iba&#39;t ibang mga widget tulad ng &lt;0&gt; Title Bar </0> o &lt;1&gt; Banner </1> upang mai-edit ang kanilang mga katangian sa side panel.";
+$Definition["In additon to the widgets there are also"] = "Bilang karagdagan sa mga widget ay mayroon ding &lt;0&gt; Global Estilo </0> . Upang i-edit ang mga istilo ng pandaigdigang pag-click sa kahit saan pa sa pahina, tulad ng tekstong ito.";
+$Definition["There are two types of buttons in the application: primary and secondary."] = "Mayroong dalawang uri ng mga pindutan sa application: pangunahin at pangalawa.";
+$Definition["Primary Button"] = "Pangunahing pindutan";
+$Definition["Secondary Button"] = "Pangalawang Seksyon";
+$Definition["User inputs are based on the global background and text colors."] = "Ang mga input ng gumagamit ay batay sa pandaigdigang background at kulay ng teksto.";
+
+// Section Headings
+$Definition["Global Styles"] = "Mga istilo ng Pandaigdig";
+$Definition["Buttons & Inputs"] = "Mga Pindutan at Mga Input";
+$Definition["Buttons"] = "Mga pindutan";
+$Definition["Title Bar"] = "Title Bar";
+
+$Definition["Preset"] = "Preset";
+$Definition["Dark"] = "Madilim";
+$Definition["Light"] = "Liwanag";
+
+$Definition["Brand Color"] = "Kulay ng Tatak";
+$Definition["Background"] = "Background";
+$Definition["Links"] = "Mga link";
+$Definition["Font"] = "Font";
+$Definition["Border Radius"] = "Radius ng Border";
+$Definition["Font URL"] = "Font URL";
+$Definition["Font Name"] = "Pangalan ng font";
+$Definition["Invalid URL"] = "Hindi wastong URL";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Maaari kang mag-upload ng isang Custom Font sa iyong Theming System. Kopyahin lamang at i-paste ang URL sa larangan.";
+$Definition["You can configure some values differently for different screensizes."] = "Maaari mong i-configure ang ilang mga halaga nang naiiba para sa iba&#39;t ibang mga screen.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Kailangan mong magdagdag ng domain ng font url sa &lt;0&gt; AllowedDomains </0> , sa pagsasaayos ng site. &lt;1&gt; Matuto nang higit pa tungkol sa mga pasadyang mga font. </1> .";
+
+$Definition["Primary Buttons"] = "Pangunahing Mga Pindutan";
+$Definition["Secondary Buttons"] = "Pangalawang Mga Pindutan";
+
+$Definition["Button Type"] = "Uri ng Button";
+$Definition["Solid"] = "Solid";
+$Definition["Outline"] = "Balangkas";
+$Definition["Transparent"] = "Transparent";
+
+$Definition["Background"] = "Background";
+$Definition["Background Image"] = "Imahe ng background";
+$Definition["Choose Image"] = "Piliin ang Imahe";
+$Definition["Color Overlay"] = "Kulay ng Overlay";
+$Definition["Borderless"] = "Walang hangganan";
+$Definition["Bordered"] = "Pinagsama";
+$Definition["Bordered (Unified)"] = "Pinagsama (Pinagkaisa)";
+$Definition["Shadowed"] = "Nakayayakap";
+
+$Definition["Full Bleed"] = "Buong Pagdurugo";
+$Definition["When you select Full Bleed, your background is transparent."] = "Kapag pinili mo ang Full Bleed, transparent ang iyong background.";
+$Definition["Alignment"] = "Pag-align";
+$Definition["Left Aligned"] = "Nakahanay sa Kaliwa";
+$Definition["Center Aligned"] = "Nakahanay sa Center";
+$Definition["Image (Mobile)"] = "Larawan (Mobile)";
+$Definition["Alignment (Mobile)"] = "Pag-align (Mobile)";
