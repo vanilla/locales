@@ -10,7 +10,7 @@ $Definition['About.VanillaStatistics'] = 'זה חשוב בצורה משמעות�
 $Definition['AboutCommentEmbedding'] = 'Vanilla יכולה לשמש כתחליף למערכת התגובות המקורית של הבלוג שלך. למעשה, היא יכולה לשמש להוספת תגובות לכל דף באינטרנט. ';
 $Definition['AboutEmbedding'] = 'הטבעה מאפשר לכל או חלק מהקהילה שלך להיות מוטבעת ליישומים ודפי אינרטנט אחרים';
 $Definition['About Vanilla Statistics'] = 'אודות הסטטיסטיקות של Vanilla';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'קבלת גישה לפורום הקהילה שלך על ידי לחיצה על הקישור "בקר באתר" בראש העמוד הזה, על על ידי <a href={/,url}>לחיצה כאן</a>. פורום הקהילה הוא מה שכל המשתמשים &amp; הלקוחות שלך רואים כאשר הם מבקרים <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'קבלת גישה לפורום הקהילה שלך על ידי לחיצה על הקישור "בקר באתר" בראש העמוד הזה, על על ידי <a href={/,url}>לחיצה כאן</a>. פורום הקהילה הוא מה שכל המשתמשים & הלקוחות שלך רואים כאשר הם מבקרים <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'הוסף/י גבולות לממדי העלאת תמונה בדיונים ובתגובות.';
 $Definition['AddressBarColorDescription'] = 'דפדפנים מסוימים תומכים בצבע בסרגל הכתובות. נייד בלבד.';
@@ -41,7 +41,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'בדוק את %s שלנו';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'ונילה היא פלטפורמת הקהילה היא קלה והכי עוצמתית בעולם. הוא קלה במיוחד לשימוש. התחל עם סרטון היכרות והמשך עם הצעדים למטה. תהנה!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'בחר בתפקיד שכל המשתמשים חסר התפקיד יקבלו.';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'בחר נושא עבור תת-קהילה זו. &lt;0&gt; קרא עוד </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'בחר נושא עבור תת-קהילה זו. <0> קרא עוד </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'בחר כיצד לנהל את כל התוכן המשוייך לחשבון המשתמש של %s (הערות, הודעות וכו\')';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'באפשרותך לבחור אלגוריתם האש מותאם אישית כדי לרשום את הבקשות שלך. אלגוריתם האש מוכרח להיות בשימוש בספריית הלקוח שלך. בחר md5 to thbl cyuj cnv kcjur/';
 $Definition['Choose the preferred layout for lists of categories.'] = 'בחר בפריסה המועדפת על רשימות קטגוריות.';
@@ -69,7 +69,7 @@ $Definition['Enter a descriptive name.'] = 'הכנס שם תיאורי עבור 
 $Definition['Enter a short name for the site.'] = 'הכנס שם קצר לאתר. זה מוצג על כפתורי ההתחברות.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'הכנס את כתובת בלוג ה-Wordpress שלך, ואנחנו כבר נעשה את השאר.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'הכנס את נתוני הקישור לשרת ה-Sphinx שלך מטה.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'כל עריכה או מחיקה נשמרת כאן. השתמש ב- &lsquo;Restore&rsquo; על מנת לבטל כל שינוי.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'כל עריכה או מחיקה נשמרת כאן. השתמש ב- ‘Restore’ על מנת לבטל כל שינוי.';
 $Definition['Everyone who signs up gets a profile page.'] = 'כל מי שנרשם לקהילה שלך מקבל עמוד פרופיל ציבורי בו הם יכולים להעלות תמונה של עצמם, לנהל את אפשרויות הפרופיל שלהם, ולעקוב אחר דברים מגניבים המתרחשים בקהילה. הנכם צריכים <a href="{/profile,url}">להתאים אישית את הפרופיל שלך כעת</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'לכל משתמש באתר יש לפחות תפקיד אחד מוגדר. התפקידים מאפשרים להגדיר מה מותר ואסור לכל משתמש לעשות.';
 
@@ -97,7 +97,7 @@ $Definition['Here are the ranks that users can achieve on your site.'] =
     'להלן הדרגות שמשתמשים יכולים להשיג באתר שלך. אתה יכול להתאים אישית את הדרגות האלה ואפילו להוסיף חדשות. הנה כמה עצות.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'עם העלית לוגו לבאנר, הוא יחליף את הכותרת של הבאנר בדפי פורום כפי שהמשתמשים רואים אותם.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
-    'אם זה מופעל, התוכן המלא של הפוסטים יישלח בהודעות דוא&quot;ל למשתמשים.';
+    'אם זה מופעל, התוכן המלא של הפוסטים יישלח בהודעות דוא"ל למשתמשים.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
     'אם אתה חדש ב- HTML ו / או CSS, הנה כמה הדרכות שתתחיל:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'אם ברצונך להוריד את רמת האזהרה, הסר את האזהרה.';
@@ -106,7 +106,7 @@ $Definition['If you want to embed your forum, enable embedding.'] =
 $Definition['Import'] = 'יבא';
 $Definition['Importing to Vanilla'] = 'מייבא לתוך Vanilla';
 $Definition['Internationalization & Localization'] = 'בינאום ולוקליזציה ';
-$Definition['Invitation email failed to send: %'] = 'למרות שההזמנה נוצרה בהצלחה, הדוא&quot;ל לא הצליח לשלוח. השרת דיווח על השגיאה הבאה: %s';
+$Definition['Invitation email failed to send: %'] = 'למרות שההזמנה נוצרה בהצלחה, הדוא"ל לא הצליח לשלוח. השרת דיווח על השגיאה הבאה: %s';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'כאשר אתם משתמשים בהרשמה באמצעות הזמנה למשתמשים יהיה קישור שיוצג ב<a href="%s" class="Popup">ההזמנות שלי</a> בדפי הפרופיל שלהם.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'מאגר הנתונים שבחרת לא קיים. כבר יצרת אותו? אולי טעית בשם? מאגר הנתונים המדובר: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'מומלץ להגביל את מספר האותיות בתגובה לכמות סבירה.';
@@ -144,7 +144,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'אנא בחר מאמת כדי להגדיר.';
 $Definition['PluginHelp'] = 'תוספים מאפשרים לך להוסיף פונקציונליות לאתר שלך. <br />ברגע שתוסף הוסף לתיקיית ה-%s שלך, באפשרותך לאפשר או לבטל אותו כאן.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'הכיס מוצג בין כל דיון ברשימת הדיונים הראשית. מאחר ודיונים בדרך כלל בתיוגים &lt;li&gt;..&lt;/li&gt;, תצטרך לעטוף את הכיס שלך בתיוגים האלה גם כן.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'הכיס מוצג בין כל דיון ברשימת הדיונים הראשית. מאחר ודיונים בדרך כלל בתיוגים <li>..</li>, תצטרך לעטוף את הכיס שלך בתיוגים האלה גם כן.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets מאפשרים לך לשלב HTML בצורה חופשית בתוך מקומות שונים באפליקציה.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'תוכל למנוע ספאם בפורום על ידי הגבלה של מספר הדיונים והתגובות שהמשתמשים יכולים לפרסם בפרק זמן נתון.';
 
@@ -157,12 +157,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'כדאי שיהיו דרגות מיוחדות למנחים ומנהלים כדי שהקהילה שלכם תוכל לראות בקלות מי האחראי.';
 $Definition['Recommend starting with five ranks.'] =
     'אתה לא רוצה להיות יותר מדי דרגות. אנו ממליצים להתחיל בחמש. אתה יכול להוסיף עוד אם הקהילה שלך באמת גדולה.';
-$Definition['Requires “Flag” reaction permission.'] = 'דורש הרשאת תגובה &quot;דגל&quot;.';
-$Definition['Requires “Negative” reaction permission.'] = 'דורש הרשאת תגובה &quot;שלילית&quot;.';
-$Definition['Requires “Positive” reaction permission.'] = 'דורש הרשאת תגובה &quot;חיובית&quot;.';
+$Definition['Requires “Flag” reaction permission.'] = 'דורש הרשאת תגובה "דגל".';
+$Definition['Requires “Negative” reaction permission.'] = 'דורש הרשאת תגובה "שלילית".';
+$Definition['Requires “Positive” reaction permission.'] = 'דורש הרשאת תגובה "חיובית".';
 $Definition['Restoring your selection removes the items from this list.'] = 'בשחזור, הפריטים מוסרים מהרשימה ומוחזרים בחזרה לתוך האתר.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'השתמש באפשרות הבאה כדי להפעיל הצעות מחיר עבור העורך העשיר. זה חל רק אם מעצב ברירת המחדל הוא &quot;עשיר&quot;.';
+    'השתמש באפשרות הבאה כדי להפעיל הצעות מחיר עבור העורך העשיר. זה חל רק אם מעצב ברירת המחדל הוא "עשיר".';
 $Definition['Route Expression'] = 'שם הנתיב';
 $Definition['Routes are used to redirect users.'] = 'נעשה שימוש בנתבים כדי לנתב מחדש משתמשים בהתאם ל-URL המבוקש.';
 
@@ -204,7 +204,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'הקובץ המיובא לא הכיל כול מידע.';
 $Definition['The import file is not in the correct format.'] = 'הקובץ המיובא אינו בפורמט המתאים.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'המיקום של ה-jsonp formatted authentication data';
-$Definition['ThemeHelp'] = 'ערכות נושא מאפשרות לך לשנות את המראה &amp; התחושה של האתר שלך. <br /> ברגע שערכת נושא הוספת לתיקיית %s שלך, באפשרותך לאפשר אותה כאן.';
+$Definition['ThemeHelp'] = 'ערכות נושא מאפשרות לך לשנות את המראה & התחושה של האתר שלך. <br /> ברגע שערכת נושא הוספת לתיקיית %s שלך, באפשרותך לאפשר אותה כאן.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'תצוגה מקדימה של נושא מוגבלת להצגת התבנית וה- css של העיצוב.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'במאמת הסיסמאות אין אפשרויות להתאמה אישית.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'אין צורך בשינויים מהותיים במבנה של מאגר הנתונים. עם זאת, ייתכן שיהיו שינויים במידה עצמו.';
@@ -237,10 +237,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'מ�
 $Definition['Vanilla Export: %s, Source: %s'] = 'ונילה ייצוא: %s, מקור: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'הסטטיסטיקות של ונילה לא מופעלות';
 $Definition['Video tutorial on advanced settings'] = 'מדריך וידאו על האפשרויות המתקדמות';
-$Definition['Video tutorial on finding &amp; managing users'] = 'מדריך וידאו על מציאת &amp; ניהול משתמשים';
+$Definition['Video tutorial on finding &amp; managing users'] = 'מדריך וידאו על מציאת & ניהול משתמשים';
 $Definition['Video tutorial on managing appearance'] = 'מדריך וידאו על ניהול תצוגה';
 $Definition['Video tutorial on managing categories'] = 'מדריך וידאו על ניהול קטגוריות';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'מדריך וידאו על ניהול תפקידים &amp; הרשאות';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'מדריך וידאו על ניהול תפקידים & הרשאות';
 $Definition['Video tutorial on user registration'] = 'מדריך וידאו על רישום משתמשים';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'אזהרה: הפעלת תכונה זו עלולה לגרום לשגיאות Javascript באתר שלך.';
@@ -282,8 +282,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "ברוך הבא לנושא שלך";
-$Definition["This is a style guide of your theme."] = "זהו מדריך לסגנון של הנושא שלך. יש לו דוגמאות לאלמנטים הויזואליים המשמשים בכל היישום. אתה יכול ללחוץ על יישומונים שונים כגון &lt;0&gt; סרגל הכותרות </0> או &lt;1&gt; באנר </1> כדי לערוך את המאפיינים שלהם בלוח הצדדי.";
-$Definition["In additon to the widgets there are also"] = "בנוסף לווידג&#39;טים ישנם גם &lt;0&gt; סגנונות גלובליים </0> . כדי לערוך סגנונות גלובליים לחץ על מקום אחר בדף, כגון טקסט זה.";
+$Definition["This is a style guide of your theme."] = "זהו מדריך לסגנון של הנושא שלך. יש לו דוגמאות לאלמנטים הויזואליים המשמשים בכל היישום. אתה יכול ללחוץ על יישומונים שונים כגון <0> סרגל הכותרות </0> או <1> באנר </1> כדי לערוך את המאפיינים שלהם בלוח הצדדי.";
+$Definition["In additon to the widgets there are also"] = "בנוסף לווידג'טים ישנם גם <0> סגנונות גלובליים </0> . כדי לערוך סגנונות גלובליים לחץ על מקום אחר בדף, כגון טקסט זה.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "יש שני סוגים של כפתורים ביישום: ראשוני ומשני.";
 $Definition["Primary Button"] = "כפתור ראשי";
 $Definition["Secondary Button"] = "כפתור משני";
@@ -309,7 +309,7 @@ $Definition["Font Name"] = "שם גופן";
 $Definition["Invalid URL"] = "כתובת אתר לא חוקית";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "אתה יכול להעלות גופן מותאם אישית במערכת ההכנה שלך. פשוט העתק והדבק את כתובת האתר בשדה.";
 $Definition["You can configure some values differently for different screensizes."] = "אתה יכול להגדיר ערכים שונים באופן שונה עבור מסכי מסך שונים.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "עליך להוסיף את הדומיין של כתובת הגופן ל &lt;0&gt; הרשות הרשת </0> , בתצורת האתר. &lt;1&gt; למידע נוסף על גופנים מותאמים אישית. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "עליך להוסיף את הדומיין של כתובת הגופן ל <0> הרשות הרשת </0> , בתצורת האתר. <1> למידע נוסף על גופנים מותאמים אישית. </1> .";
 
 $Definition["Primary Buttons"] = "כפתורים ראשיים";
 $Definition["Secondary Buttons"] = "כפתורים משניים";
