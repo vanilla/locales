@@ -244,7 +244,7 @@ $Definition['Date To'] = 'Ημερομηνία Έως';
 $Definition['Debugger'] = 'Πρόγραμμα εντοπισμού σφαλμάτων';
 $Definition['Debug Information'] = 'Πληροφορίες αποσφαλμάτωσης';
 $Definition['Decline'] = 'Απόρριψη';
-$Definition['Default (%s)'] = 'Προεπιλογή (%)';
+$Definition['Default (%s)'] = 'Προεπιλογή (%s)';
 $Definition['Default <0/>'] = 'Προεπιλογή <0/>';
 $Definition['Default %s Permissions'] = 'Προεπιλεγμένα %s Δικαιώματα';
 $Definition['Default  Category'] = 'Προεπιλεγμένη Κατηγορία';
@@ -845,7 +845,7 @@ $Definition['Yes, the following information can be changed later.'] = 'Ναι, �
 $Definition['You are connected as %s.'] = 'Έχετε συνδεθεί ως %s.';
 $Definition['You are previewing the %s theme.'] = 'Πραγματοποιείτε προεπισκόπηση του θέματος %s.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Επιλέξτε το πλαίσιο δίπλα από το χρήστη που δημοσίευσε το ανεπιθύμητο μήνυμα (spam) για να τον απαγορεύσετε επίσης και να διαγράψετε όλα τα μηνύματα του. <b>Αυτό κάντε το μόνο αν είστε βέβαιοι ότι αυτοί είναι οι spammers. </b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Εάν έχετε ποτέ κλειδωθεί έξω από το φόρουμ σας μπορείτε πάντα να συνδεθείτε χρησιμοποιώντας το αρχικό σας Vanilla email και κωδικό στο <a href="%1$s">%1%$s</a>';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Εάν έχετε ποτέ κλειδωθεί έξω από το φόρουμ σας μπορείτε πάντα να συνδεθείτε χρησιμοποιώντας το αρχικό σας Vanilla email και κωδικό στο <a href="%1$s">%1$s</a>';
 $Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Μπορείτε να αποκλείσετε διευθύνσεις IP, email domains και λέξεις από ονόματα χρηστών χρησιμοποιώντας αυτό το εργαλείο. ';
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Μπορείτε να προσαρμόσετε την HTML και το CSS γι\' αυτό το θέμα στη σελίδα %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Μπορείτε είτε να δημιουργήσετε ένα νέο λογαριασμό, ή να εισάγετε τα διαπιστευτήριά σας αν έχετε ήδη λογαριασμό.';
