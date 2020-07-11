@@ -150,7 +150,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Οδηγός 
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Έτοιμη Προσθήκη Σχολίων Vanilla για το WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Έτοιμο Plugin Φόρουμ Vanilla για το WordPress';
-$Definition['Realtime progress bars: %s'] = 'Μπάρες προόδου σε πραγματικό χρόνο: %w';
+$Definition['Realtime progress bars: %s'] = 'Μπάρες προόδου σε πραγματικό χρόνο: %s';
 $Definition['Recommend special ranks for admins and mods.'] =
     'Είναι καλή ιδέα να έχετε ειδικές τάξεις για συντονιστές και διαχειριστές, ώστε η κοινότητά σας να βλέπει εύκολα ποιος είναι υπεύθυνος.';
 $Definition['Recommend starting with five ranks.'] =
@@ -279,7 +279,7 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Καλώς ήλθατε στο θέμα σας";
 $Definition["This is a style guide of your theme."] = "Αυτός είναι ένας οδηγός στυλ για το θέμα σας. Έχει παραδείγματα των οπτικών στοιχείων που χρησιμοποιούνται σε όλη την εφαρμογή. Μπορείτε να κάνετε κλικ στα διάφορα widget όπως η <0>Γραμμή Τίτλων</0> ή <1>Banner</1> για να επεξεργαστείτε τις ιδιότητές τους στο πλαϊνό πλαίσιο.";
-$Definition["In additon to the widgets there are also"] = "Εκτός από τα widget υπάρχουν επίσης &lt;0&gt; Καθολικά στυλ </0> . Για να επεξεργαστείτε καθολικά στυλ, κάντε κλικ οπουδήποτε αλλού στη σελίδα, όπως αυτό το κείμενο.";
+$Definition["In additon to the widgets there are also"] = "Εκτός από τα widget υπάρχουν επίσης <0> Καθολικά στυλ </0> . Για να επεξεργαστείτε καθολικά στυλ, κάντε κλικ οπουδήποτε αλλού στη σελίδα, όπως αυτό το κείμενο.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Υπάρχουν δύο τύποι κουμπιών στην εφαρμογή: πρωτεύον και δευτερεύον.";
 $Definition["Primary Button"] = "Κύριο κουμπί";
 $Definition["Secondary Button"] = "Δευτερεύον κουμπί";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Όνομα γραμματοσειράς";
 $Definition["Invalid URL"] = "Μη έγκυρη διεύθυνση URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Μπορείτε να ανεβάσετε μια Προσαρμοσμένη Γραμματοσειρά στο Σύστημα Theming. Απλώς αντιγράψτε και επικολλήστε τη διεύθυνση URL στο πεδίο.";
 $Definition["You can configure some values differently for different screensizes."] = "Μπορείτε να διαμορφώσετε ορισμένες τιμές διαφορετικά για διαφορετικά μεγέθη οθόνης.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Πρέπει να προσθέσετε τον τομέα της διεύθυνσης url της γραμματοσειράς στο &lt;0&gt; AllowedDomains </0> , στη διαμόρφωση του ιστότοπου. &lt;1&gt; Μάθετε περισσότερα σχετικά με τις προσαρμοσμένες γραμματοσειρές. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Πρέπει να προσθέσετε τον τομέα της διεύθυνσης url της γραμματοσειράς στο <0>Allowed Domains</0> , στη διαμόρφωση του ιστότοπου. <1>Μάθετε περισσότερα σχετικά με τις προσαρμοσμένες γραμματοσειρές.</1> .";
 
 $Definition["Primary Buttons"] = "Κύρια κουμπιά";
 $Definition["Secondary Buttons"] = "Δευτερεύοντα κουμπιά";
