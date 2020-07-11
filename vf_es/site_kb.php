@@ -69,7 +69,7 @@ $Definition["Error saving draft."] = "Error al guardar borrador.";
 $Definition["Everywhere"] = "En todo";
 $Definition["Example: Appearance"] = "Ejemplo: Apariencia";
 
-$Definition["Filter"] = "Filtro";
+$Definition["Filter"] = "Filtrar";
 $Definition["Filter Results"] = "Filtrar resultados";
 $Definition["Foreground colors are used mostly used for text and icons. This should contrast with the background color."] = "Los colores de primer plano se usan principalmente para el texto y los iconos. Esto debería contrastar con el color de fondo.";
 $Definition["Feature Article"] = "Recomendar artículo";

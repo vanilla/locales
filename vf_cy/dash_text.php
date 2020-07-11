@@ -15,20 +15,20 @@ $Definition['Add limits to image upload dimensions in discussions and comments.'
     'Ychwanegwch derfynau at ddimensiynau uwchlwytho delweddau mewn trafodaethau a sylwadau.';
 $Definition['AddressBarColorDescription'] = 'Mae rhai porwyr yn cefnogi lliw ar gyfer y bar cyfeiriad. Symudol yn unig.';
 $Definition['AddonProblems'] = '<h2>Problemau?</h2> <p>Os aiff rhywbeth o\'i le gyda ychwanegyn fel na allwch ddefnyddio\'ch safle, gallwch eu hanalluogi eich hun trwy olygu:</p> %s';
-$Definition['Alert users if they click external link.'] = 'Rhybuddiwch ddefnyddwyr os ydyn nhw&#39;n clicio dolen mewn post a fydd yn eu harwain i ffwrdd o&#39;r fforwm. Ni fydd defnyddwyr yn cael eu rhybuddio wrth ddilyn dolenni sy&#39;n cyfateb i Barth dibynadwy';
+$Definition['Alert users if they click external link.'] = 'Rhybuddiwch ddefnyddwyr os ydyn nhw\'n clicio dolen mewn post a fydd yn eu harwain i ffwrdd o\'r fforwm. Ni fydd defnyddwyr yn cael eu rhybuddio wrth ddilyn dolenni sy\'n cyfateb i Barth dibynadwy';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Pob categori a restrwyd ynghyd a detholiad o 5 trafodaeth diweddar o bob un';
 $Definition['Allow links to be transformed'] =
-    'Caniatáu i gysylltiadau gael eu trawsnewid yn gynrychioliadau gwreiddio mewn trafodaethau a sylwadau. Er enghraifft, bydd dolen YouTube yn trawsnewid yn fideo wedi&#39;i fewnosod.';
+    'Caniatáu i gysylltiadau gael eu trawsnewid yn gynrychioliadau gwreiddio mewn trafodaethau a sylwadau. Er enghraifft, bydd dolen YouTube yn trawsnewid yn fideo wedi\'i fewnosod.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Caniatáu i ddefnyddwyr y caniatâd %s i newid eu avatars eu hunain o&#39;u tudalennau proffil yn Vanilla.';
+    'Caniatáu i ddefnyddwyr y caniatâd %s i newid eu avatars eu hunain o\'u tudalennau proffil yn Vanilla.';
 $Definition['ApplicationHelp'] = 'Mae rhaglenni yn caniatáu i chi ychwanegu grwpiau mawr o ffwythiannau i\'ch safle. < br / > unwaith y bydd rhaglen wedi\'i ychwanegu at eich ffolder %s, gallwch ei alluogi neu analluogi yma.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ydych chi\'n siŵr bod wedi rhoi enw\'r gweinydd cronfa ddata cywir? Ydych chi wedi ei gamdeipio? Adroddodd y gronfa ddata: <code>%s</code>';
-$Definition['Avatars will be scaled down if they exceed this height.'] = 'Bydd afatars yn cael eu graddio i lawr os ydyn nhw&#39;n uwch na&#39;r uchder hwn.';
-$Definition['Avatars will be scaled down if they exceed this width.'] = 'Bydd afatarau&#39;n cael eu graddio i lawr os ydyn nhw&#39;n fwy na&#39;r lled hwn.';
+$Definition['Avatars will be scaled down if they exceed this height.'] = 'Bydd afatars yn cael eu graddio i lawr os ydyn nhw\'n uwch na\'r uchder hwn.';
+$Definition['Avatars will be scaled down if they exceed this width.'] = 'Bydd afatarau\'n cael eu graddio i lawr os ydyn nhw\'n fwy na\'r lled hwn.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Bydd bawd bawd Avatars yn cael ei arbed ar y maint hwn.';
 
 $Definition['Be creative! Try naming your ranks after things that the community talks about.'] =
-    'Byddwch yn greadigol! Ceisiwch enwi eich rhengoedd ar ôl pethau y mae&#39;r gymuned yn siarad amdanynt.';
+    'Byddwch yn greadigol! Ceisiwch enwi eich rhengoedd ar ôl pethau y mae\'r gymuned yn siarad amdanynt.';
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Drwy glicio ar y botwm isod, byddwch yn dileu cyfrif defnyddiwr ar gyfer %s am byth.';
 
 $Definition['Change the way your community works with plugins.'] = 'Newid y ffordd y mae eich cymuned yn gweithio gydag ategion. Rydym wedi bwndelu ategion poblogaidd gyda\'r meddalwedd, ac mae mwy ar gael ar-lein.';
@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Edrychwch ar ein %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla yw\'r llwyfan cymunedol symlaf a mwyaf pwerus yn y byd. Mae\'n eithriadol o hawdd i\'w defnyddio. Dechreuwch gyda\'r fideo rhagarweiniol hwn a pharhau gyda\'r camau isod. Mwynhewch!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Dewiswch rôl fydd yn cael ei neulltio ar gyfer defnyddiwr amddifad:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Dewiswch thema ar gyfer yr is-gymuned hon. &lt;0&gt; Darllenwch fwy </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Dewiswch thema ar gyfer yr is-gymuned hon. <0> Darllenwch fwy </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Dewis sut i drin yr holl gynnwys sy\'n gysylltiedig â chyfrif defnyddiwr ar gyfer %s (sylwadau, negeseuon, ac ati).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Gallwch ddewis algorithm hash personol i lofnodi eich ceisiadau. Rhaid defnyddio\'r algorithm hash yn eich llyfrgell cleient hefyd. Dewiswch md5 os nad ydych yn siŵr beth i\'w ddewis.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Dewiswch y cynllun a ffefrir ar gyfer rhestrau o gategorïau.';
@@ -56,7 +56,7 @@ $Definition['Disable Google Sign In'] = 'Analluogi arwyddo mewn Google';
 $Definition['Disable OpenID'] = 'Analluogi OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Defnyddir y categorïau drafodaeth i helpu eich defnyddwyr a threfnu eu trafodaethau mewn ffordd sy\'n ystyrlon ar gyfer eich cymuned.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Peidio ymgorffori dangosfwrdd gweinyddol eich fforwm (Neidio allan i sgrin lawn)';
-$Definition['Don\'t use too many reactions.'] = 'Peidiwch â defnyddio gormod o ymatebion. Nid ydych am roi gorlwytho gwybodaeth i&#39;ch defnyddwyr.';
+$Definition['Don\'t use too many reactions.'] = 'Peidiwch â defnyddio gormod o ymatebion. Nid ydych am roi gorlwytho gwybodaeth i\'ch defnyddwyr.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Llusgwch a gollwng y categorïau isod i\'w ddidoli a\'u nythu.';
 $Definition['EditContentTimeout.Notes'] = 'Os yw\'r defnyddiwr yn yn rôl y mae hawl i olygu\'r cynnwys, bydd yr hawliau hynny yn diystyru hyn.';
 $Definition['Edit Route'] = 'Golygu\'r llwybr';
@@ -74,15 +74,15 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Mae cyswllt Facebook yn caniatáu i ddefnyddwyr i logio i mewn gan ddefnyddio eu cyfrif Facebook. <b>Rhaid i chi gofrestru eich rhaglen gyda Facebook i wneud i\'r ategyn hwn weithio.</b>i ';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Wedi methu cysylltu a\'r gronfa ddata gan ddefnyddio\'r enw defnyddiwr a\'r cyfrinair roesoch chi. Wnaethoch chi gamgymeriad?  Adroddodd y gronfa ddata: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Gorfodi\'r mynediad i\'r dangosfwrdd trwy\'r url hwn yn unig <em>(gwell peidio)</em>';
-$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Er enghraifft, gallwch wahardd pob defnyddiwr â chyfeiriadau e-bost rhag &quot;example.com&quot; trwy ychwanegu gwaharddiad math e-bost gyda&#39;r gwerth &quot;*@example.com&quot;.';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Er enghraifft, gallwch wahardd pob defnyddiwr â chyfeiriadau e-bost rhag "example.com" trwy ychwanegu gwaharddiad math e-bost gyda\'r gwerth "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'I ddibenion SEO, mae chwilwyr peiriannol wedi\'u eithrio rhag cael eu gorfodi i weld y fforwm yn yr URL pell.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Wedi gorffen mewnforio.
    Cliciwch <b>Gorffen</b> pan fyddwch yn barod.';
-$Definition['Garden.Import.Continue.Description'] = 'Mae&#39;n ymddangos eich bod yng nghanol mewnforio. Dewiswch un o&#39;r opsiynau canlynol.';
+$Definition['Garden.Import.Continue.Description'] = 'Mae\'n ymddangos eich bod yng nghanol mewnforio. Dewiswch un o\'r opsiynau canlynol.';
 $Definition['Garden.Import.InputInstructions'] = 'Rhowch e-bost a chyfrinair defnyddiwr gweinyddol o\'r data sy\'n cael ei fewnforio.';
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles.Edit caniatâd i newid eu avatars eu hunain o&#39;u tudalennau proffil yn Vanilla.';
+    'Garden.Profiles.Edit caniatâd i newid eu avatars eu hunain o\'u tudalennau proffil yn Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Rydych chi wedi analluogi Ystadegau Vanilla yn eich ffeil ffurfweddu.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Ymddengys bod y fforwm hwn yn rhedeg mewn amgylchedd prawf, neu fel arall mae\'n adrodd IP preifat. Nid yw fforymau sy\'n rhedeg ar  IPs preifat yn cael eu tracio\'n ddiofyn.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Os ydych chi\'n siŵr eich fod Fforwm yn hygyrch o\'r rhyngrwyd gellir ei alluogi i adrodd ystadegau yma:';
@@ -90,26 +90,26 @@ $Definition['Garden.StatisticsReadonly.Explain'] = 'Ymddengys bod eich ffeil con
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'I ddatrys y broblem hon, gosodwch fodd 777 i\'ch ffeil conf/config.php.';
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Dalier Sylw! Mae hon yn rôl arbennig nad yw\'n caniatáu sesiynau gweithredol. Oherwydd hyn mae dewisiadau hawliau wedi eu cyfyngu i hawliau "gweld".';
-$Definition['Here are all of the reactions you can use on your site.'] = 'Dyma&#39;r holl ymatebion y gallwch eu defnyddio ar eich gwefan.';
+$Definition['Here are all of the reactions you can use on your site.'] = 'Dyma\'r holl ymatebion y gallwch eu defnyddio ar eich gwefan.';
 $Definition['Here are the ranks that users can achieve on your site.'] =
-    'Dyma&#39;r rhengoedd y gall defnyddwyr eu cyflawni ar eich gwefan. Gallwch chi addasu&#39;r rhengoedd hyn a hyd yn oed ychwanegu rhai newydd. Dyma rai awgrymiadau.';
+    'Dyma\'r rhengoedd y gall defnyddwyr eu cyflawni ar eich gwefan. Gallwch chi addasu\'r rhengoedd hyn a hyd yn oed ychwanegu rhai newydd. Dyma rai awgrymiadau.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Os yw logo baner wedi ei uwchlwytho, bydd yn disodli\'r baner teitl ar dudalennau fforwm sy\'n wynebu\'r defnyddwyr.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
-    'Os yw wedi&#39;i alluogi, bydd cynnwys llawn swyddi yn cael ei anfon mewn hysbysiadau e-bost at ddefnyddwyr.';
+    'Os yw wedi\'i alluogi, bydd cynnwys llawn swyddi yn cael ei anfon mewn hysbysiadau e-bost at ddefnyddwyr.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
-    'Os ydych chi&#39;n newydd i HTML a / neu CSS, dyma rai sesiynau tiwtorial i&#39;ch rhoi ar ben ffordd:';
+    'Os ydych chi\'n newydd i HTML a / neu CSS, dyma rai sesiynau tiwtorial i\'ch rhoi ar ben ffordd:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Os ydych am i ostwng y lefel rhybudd wedyn tynnwch rhybudd.';
 $Definition['If you want to embed your forum, enable embedding.'] =
-    'Os ydych chi am wreiddio&#39;ch fforwm neu ddefnyddio sylwadau Vanilla yn eich blog yna mae angen i chi alluogi ymgorffori. Os nad ydych yn defnyddio gwreiddio, rydym yn argymell gadael y gosodiad hwn i ffwrdd.';
+    'Os ydych chi am wreiddio\'ch fforwm neu ddefnyddio sylwadau Vanilla yn eich blog yna mae angen i chi alluogi ymgorffori. Os nad ydych yn defnyddio gwreiddio, rydym yn argymell gadael y gosodiad hwn i ffwrdd.';
 $Definition['Import'] = 'Mewnforio';
 $Definition['Importing to Vanilla'] = 'Mewnforio i Vanilla';
 $Definition['Internationalization & Localization'] = 'Rhyngwladoli a Lleoleiddio';
-$Definition['Invitation email failed to send: %'] = 'Er i&#39;r gwahoddiad gael ei greu&#39;n llwyddiannus, methodd yr e-bost ag anfon. Adroddodd y gweinydd y gwall canlynol: %s';
+$Definition['Invitation email failed to send: %'] = 'Er i\'r gwahoddiad gael ei greu\'n llwyddiannus, methodd yr e-bost ag anfon. Adroddodd y gweinydd y gwall canlynol: %s';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Pan ydych yn defnyddio cofrestru trwy wahoddiad bydd defnyddwyr yn derbyn cyswllt o\'r enw <a href="%s" class="Popup"> Fy gwahoddiadau</a> ar eu tudalennau proffil.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Mae\'n ymddangos nad yw\'r gronfa ddata a nodwyd gennych yn bodoli eto. Ydych chi wedi ei chreu eto? Wnaethoch chi yn gamdeipio\'r enw? Adroddodd y gronfa ddata: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Mae\'n syniad da i gadw y nifer uchaf o nodau a ganiateir mewn sylw i lawr i faint rhesymol.';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
-    'Mae&#39;n syniad da cadw&#39;r nifer uchaf o gymeriadau a ganiateir mewn post i lawr i faint rhesymol.';
+    'Mae\'n syniad da cadw\'r nifer uchaf o gymeriadau a ganiateir mewn post i lawr i faint rhesymol.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Hwb eich cymuned a chynyddu ymgysylltiad defnyddwyr.';
 
@@ -125,24 +125,24 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'B
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Bydd marcio pethau fel dim sbam yn eu rhoi yn ôl yn eich Fforwm.';
 $Definition['Messages can appear anywhere in your application.'] = 'Gall negeseuon ymddangos unrhyw le yn y rhaglen, a gellir eu defnyddio i roi gwybod i\'ch defnyddwyr am newyddion a digwyddiadau. Defnyddiwch y dudalen hon i ail-drefnu eich negeseuon drwy eu llusgo i fyny neu i lawr.';
 $Definition['MobileLogoDescription'] =
-    'Mae logo&#39;r faner symudol yn ymddangos ar frig eich gwefan. Efallai na fydd rhai themâu yn arddangos y logo hwn.';
+    'Mae logo\'r faner symudol yn ymddangos ar frig eich gwefan. Efallai na fydd rhai themâu yn arddangos y logo hwn.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mae themâu symudol yn caniatáu ichi newid edrychiad a theimlad eich gwefan ar ddyfeisiau llai.';
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Bydd categorïau nythu sy&#39;n ddyfnach na&#39;r dyfnder hwn yn cael eu rhoi mewn rhestr wedi&#39;i therfynu â choma.';
+    'Bydd categorïau nythu sy\'n ddyfnach na\'r dyfnder hwn yn cael eu rhoi mewn rhestr wedi\'i therfynu â choma.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Mae angen rôl ar y safle gyda\'r math diofyn "heb ei gadarnhau" er mwyn defnyddio ebost cadarnhau. Ychwanegwch un i alluogi\'r gosodiad hwn.';
-$Definition['Not getting what you expect when you preview your theme?'] = 'Ddim yn cael yr hyn rydych chi&#39;n ei ddisgwyl pan fyddwch chi&#39;n rhagolwg o&#39;ch thema?';
+$Definition['Not getting what you expect when you preview your theme?'] = 'Ddim yn cael yr hyn rydych chi\'n ei ddisgwyl pan fyddwch chi\'n rhagolwg o\'ch thema?';
 $Definition['Notify me when people comment on my addons.'] = 'Rhoi gwybod i mi pan mae pobl yn gwneud sylwadau ar fy ychwanegion';
 
-$Definition['Once enabled, only members will see inside your community.'] = 'Ar ôl ei alluogi, dim ond aelodau fydd yn gweld y tu mewn i&#39;ch cymuned.';
+$Definition['Once enabled, only members will see inside your community.'] = 'Ar ôl ei alluogi, dim ond aelodau fydd yn gweld y tu mewn i\'ch cymuned.';
 $Definition['OrgDescription'] = 'Defnyddir enw eich sefydliad ar gyfer microdata SEO a JSON + LD';
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Gall golygfeydd gor-guddiedig neu luniau thema gael sgîl-effeithiau anfwriadol ac ni chânt eu rhagolwg.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Dewiswch ddilyswr i\'w ffurfweddu.';
 $Definition['PluginHelp'] = 'Mae ategion yn caniatáu i chi ychwanegu ffwythiannau i\'ch safle. < br / > unwaith mae ategyn wedi\'i ychwanegu i\'ch ffolder %s, gallwch ei alluogi neu analluogi yma.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Arddangosir y poced rhwng pob trafodaeth ar y prif restr trafod. Gan fod y trafodaethau hyn fel arfer yn dagiau &lt; li &gt;... &lt; /li &gt; bydd angen i chi lapio eich poced o gwmpas y tagiau hynny hefyd.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Arddangosir y poced rhwng pob trafodaeth ar y prif restr trafod. Gan fod y trafodaethau hyn fel arfer yn dagiau < li >... < /li > bydd angen i chi lapio eich poced o gwmpas y tagiau hynny hefyd.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Mae pocedi yn caniatáu i chi ychwanegu HTML rhydd mewn gwahanol fannau o gwmpas y rhaglen.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Ataliwch sbam ar eich fforwm drwy gyfyngu ar y nifer o drafodaethau a sylwadau y gall defnyddwyr bostio o fewn cyfnod penodol o amser.';
 
@@ -152,33 +152,33 @@ $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ategyn sylwad
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ategyn Fforwm Vanilla parod ar gyfer WordPress';
 $Definition['Realtime progress bars: %s'] = 'Bariau cynnydd amser real: %s';
 $Definition['Recommend special ranks for admins and mods.'] =
-    'Mae&#39;n syniad da cael rhengoedd arbennig ar gyfer cymedrolwyr a gweinyddwyr fel y gall eich cymuned weld yn hawdd pwy sydd â gofal.';
+    'Mae\'n syniad da cael rhengoedd arbennig ar gyfer cymedrolwyr a gweinyddwyr fel y gall eich cymuned weld yn hawdd pwy sydd â gofal.';
 $Definition['Recommend starting with five ranks.'] =
-    'Nid ydych chi am gael gormod o rengoedd. Rydym yn argymell dechrau gyda phump. Gallwch ychwanegu mwy os yw&#39;ch cymuned yn wirioneddol fawr.';
+    'Nid ydych chi am gael gormod o rengoedd. Rydym yn argymell dechrau gyda phump. Gallwch ychwanegu mwy os yw\'ch cymuned yn wirioneddol fawr.';
 $Definition['Requires “Flag” reaction permission.'] = 'Angen caniatâd ymateb “Baner”.';
 $Definition['Requires “Negative” reaction permission.'] = 'Angen caniatâd ymateb “negyddol”.';
 $Definition['Requires “Positive” reaction permission.'] = 'Angen caniatâd ymateb “Cadarnhaol”.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Wrth adfer, bydd eitemau\'n cael eu tynnu oddi ar y rhestr yma a\'u rhoi nôl ar y safle.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Defnyddiwch yr opsiwn canlynol i alluogi dyfynbrisiau ar gyfer y Golygydd Cyfoethog. Dim ond os yw&#39;r fformatydd diofyn yn &quot;Gyfoethog&quot; y bydd hyn yn berthnasol.';
+    'Defnyddiwch yr opsiwn canlynol i alluogi dyfynbrisiau ar gyfer y Golygydd Cyfoethog. Dim ond os yw\'r fformatydd diofyn yn "Gyfoethog" y bydd hyn yn berthnasol.';
 $Definition['Route Expression'] = 'Llwybr mynegiant';
 $Definition['Routes are used to redirect users.'] = 'Defnyddir llwybrau i ailgyfeirio defnyddwyr gan ddibynnu ar yr URL a gofyn.';
 
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Chwilio am ddefnyddwyr wrth eu henw, neu rhowch enw rôl i weld holl ddefnyddwyr y rôl honno.';
-$Definition['Security.Hsts.HTTPSWarning'] = 'Rhybudd: Peidiwch â galluogi&#39;r nodwedd hon oni bai eich bod yn siŵr bod eich holl is-barthau wedi&#39;u ffurfweddu ar gyfer HTTPS gyda thystysgrifau dilys.';
-$Definition['Security.Hsts.IncludeSubDomains'] = 'Pan fydd wedi&#39;i alluogi, mae&#39;r rheol hon yn berthnasol i bob un o is-barthau eich gwefan hefyd.';
+$Definition['Security.Hsts.HTTPSWarning'] = 'Rhybudd: Peidiwch â galluogi\'r nodwedd hon oni bai eich bod yn siŵr bod eich holl is-barthau wedi\'u ffurfweddu ar gyfer HTTPS gyda thystysgrifau dilys.';
+$Definition['Security.Hsts.IncludeSubDomains'] = 'Pan fydd wedi\'i alluogi, mae\'r rheol hon yn berthnasol i bob un o is-barthau eich gwefan hefyd.';
 $Definition['Security.Hsts.MaxAgeRecommendation'] = 'Rydym yn argymell dechrau gydag uchafswm o 1 wythnos ac yna ei gynyddu i 1 mis ac yna blwyddyn ar ôl i chi weld eich gwefan yn gweithio yn ôl y disgwyl.';
-$Definition['Security.Hsts.SubmitWarning'] = 'Rhybudd: Mae&#39;n wych cefnogi rhag-lwytho HSTS fel arfer gorau. Fodd bynnag, mae&#39;n rhaid i chi gyflwyno&#39;ch gwefan i hstspreload.org i sicrhau ei bod yn cael ei llwytho ymlaen llaw yn llwyddiannus (hy i gael yr amddiffyniad llawn ar gyfer y ffurfweddiad a fwriadwyd).';
+$Definition['Security.Hsts.SubmitWarning'] = 'Rhybudd: Mae\'n wych cefnogi rhag-lwytho HSTS fel arfer gorau. Fodd bynnag, mae\'n rhaid i chi gyflwyno\'ch gwefan i hstspreload.org i sicrhau ei bod yn cael ei llwytho ymlaen llaw yn llwyddiannus (hy i gael yr amddiffyniad llawn ar gyfer y ffurfweddiad a fwriadwyd).';
 $Definition['Select the default type for this role, if any.'] = 'Dewiswch y math diofyn ar gyfer y rôl hon, os o gwbl.';
 $Definition['Select the import source'] = 'Dewiswch y Ffynhonnell Mewnforio';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Methodd serialized golofn "%s" yn unserialized.';
 $Definition['ShareImageDescription'] =
-    'Pan fydd rhywun yn rhannu dolen o&#39;ch gwefan, rydyn ni&#39;n ceisio bachu delwedd o&#39;r dudalen. Os nad oes delwedd ar y dudalen yna byddwn yn defnyddio&#39;r ddelwedd hon yn lle. Dylai&#39;r ddelwedd fod o leiaf 50 × 50, ond rydym yn argymell 200 × 200.';
+    'Pan fydd rhywun yn rhannu dolen o\'ch gwefan, rydyn ni\'n ceisio bachu delwedd o\'r dudalen. Os nad oes delwedd ar y dudalen yna byddwn yn defnyddio\'r ddelwedd hon yn lle. Dylai\'r ddelwedd fod o leiaf 50 × 50, ond rydym yn argymell 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Rhoi opsiwn hwn ar waith i ddangos yr holl leoliadau poced posibl. Dim ond defnyddwyr sy\'n gallu rheoli pocedi fydd yn gallu gweld y lleoliadau.';
 $Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Efallai y bydd angen diweddaru rhai themâu i weithio gyda&#39;r categori canlynol. Gallwch chi analluogi&#39;r nodwedd wrth i chi ddiweddaru&#39;ch thema.';
+    'Efallai y bydd angen diweddaru rhai themâu i weithio gyda\'r categori canlynol. Gallwch chi analluogi\'r nodwedd wrth i chi ddiweddaru\'ch thema.';
 $Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Cyfyngiad arbennig: Dim ond defnyddwyr â chaniatâd Garden.Curation.Manage all ddefnyddio&#39;r adwaith hwn.';
+    'Cyfyngiad arbennig: Dim ond defnyddwyr â chaniatâd Garden.Curation.Manage all ddefnyddio\'r adwaith hwn.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Nodwch ornest rhannol neu lawn wrth greu gwaharddiad.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Treuliwch ychydig o amser yn meddwl am sut rydych yn disgrifio eich safle yma. Gallai rhoi teitl ystyrlon a disgrifiad cryno helpu eich sefyllfa mewn peiriannau chwilio.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Gwella golwg eich e-byst trwy ychwanegu logo ac addasu lliwiau.';
@@ -201,7 +201,7 @@ $Definition['The import file does not contain any data.'] = 'Nid yw\'r ffeil mew
 $Definition['The import file is not in the correct format.'] = 'Nid yw ffeil mewnforio yn y fformat cywir.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Lleoliad data dilysu wedi ei fformatio i jsonp.';
 $Definition['ThemeHelp'] = 'Mae themâu yn caniatáu i chi newid edrychiad a naws eich safle. < br / > unwaith mae thema wedi\'i ychwanegu at eich ffolder %s, gallwch ei alluogi yma.';
-$Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Mae rhagolwg thema wedi&#39;i gyfyngu i arddangos templed a CSS y thema.';
+$Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Mae rhagolwg thema wedi\'i gyfyngu i arddangos templed a CSS y thema.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Nid oes unrhyw opsiynau ffurfweddu penodol gan y dilyswr cyfrinair. ';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Nid oes angen unrhyw newidiadau strwythur cronfa ddata. Fodd bynnag, mae\'n bosibl bod newidiadau i\'r data.';
 $Definition['The route was saved successfully.'] = 'Cafodd y llwybr ei arbed yn llwyddiannus.';
@@ -214,21 +214,21 @@ $Definition['They work just like regular themes. Once one has been added to the 
 $Definition['This is the administrative dashboard for your new community.'] = 'Hwn yw dangosfwrdd gweinyddol eich cymuned newydd. Edrychwch ar y dewisiadau ffurfweddu ar yr ochr. Oddi yno gallwch ffurfweddu sut y mae eich cymuned yn gweithio. <b>Yn ddiofyn, gall dim ond defnyddwyr yn rôl "Gweinyddwr" sy\'n gallu gweld y rhan hon o\'ch cymuned.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Mae\'r opsiwn hwn yn dangos/cuddio y lleoliadau lle gall pocedi fynd, ond dim ond ar gyfer defnyddwyr sydd a hawliau i ychwanegu/golygu pocedi. Ceisiwch ddangos y lleoliadau ac yna ymweld a\'ch safle.';
 $Definition['This page lists the endpoints of your API.'] =
-    'Mae&#39;r dudalen hon yn rhestru pwyntiau terfyn eich API. Cliciwch endpoints i gael mwy o wybodaeth. Gallwch wneud galwadau byw i&#39;r API o&#39;r dudalen hon neu&#39;n allanol gan ddefnyddio tocyn mynediad.';
+    'Mae\'r dudalen hon yn rhestru pwyntiau terfyn eich API. Cliciwch endpoints i gael mwy o wybodaeth. Gallwch wneud galwadau byw i\'r API o\'r dudalen hon neu\'n allanol gan ddefnyddio tocyn mynediad.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
-    'Gwybodaeth bersonol yw&#39;r rôl hon. Dim ond defnyddwyr sydd â chaniatâd i weld gwybodaeth bersonol fydd yn ei gweld.';
+    'Gwybodaeth bersonol yw\'r rôl hon. Dim ond defnyddwyr sydd â chaniatâd i weld gwybodaeth bersonol fydd yn ei gweld.';
 $Definition['This setting loads the page before executing Javascript.'] =
     'Mae\'r gosodiad hwn yn llwytho\'r dudalen cyn gweithredu Javascript a all wella\'ch SEO. <br> <strong>** Rhybudd: Gall galluogi\'r nodwedd hon achosi gwallau Javascript ar eich gwefan. **</strong>';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Defnyddiwch y cod canlynol i ymgorffori eich Fforwm Vanilla yn eich gwefan.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Gormod o gyfeiriadau! Byddwn yn anfon at gyfeiriadau %s ar y tro.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'I atal cam-ddefnydd, mae rhai offer awtomatig yn cuddio\'r cynnwys ac mae\'n cael ei restru yma tan y caiff ei gymeradwyo gan gymedrolwr.';
 $Definition['TouchIconDescription'] =
-    'Mae&#39;r eicon cyffwrdd yn ymddangos pan fyddwch chi&#39;n rhoi nod tudalen ar wefan ar sgrin gartref dyfais Apple. Mae&#39;r rhain fel arfer yn 152 picsel. Mae Apple yn ychwanegu corneli crwn ac effaith goleuo yn awtomatig.';
+    'Mae\'r eicon cyffwrdd yn ymddangos pan fyddwch chi\'n rhoi nod tudalen ar wefan ar sgrin gartref dyfais Apple. Mae\'r rhain fel arfer yn 152 picsel. Mae Apple yn ychwanegu corneli crwn ac effaith goleuo yn awtomatig.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Mae Twitter Connect yn caniatáu i ddefnyddwyr lofnodi wrth ddefnyddio eu cyfrif Twitter. <b>Rhaid i chi gofrestru eich rhaglen gyda Twitter er mwyn i\'r ategyn hwn weithio.</b>';
 
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Defnyddiwch y botwm ar frig y dudalen i greu rheol gwahardd.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Defnyddiwch ategyn WordPress i sefydlu sylwadau Vanilla ar eich blog, neu defnyddiwch y Cod cyffredinol i sefydlu sylwadau Vanilla ar  unrhyw blatfform arall.';
-$Definition['Users may sign into your site using their Twitter account.'] = 'Gall defnyddwyr fewngofnodi i&#39;ch gwefan gan ddefnyddio eu cyfrif Twitter.';
+$Definition['Users may sign into your site using their Twitter account.'] = 'Gall defnyddwyr fewngofnodi i\'ch gwefan gan ddefnyddio eu cyfrif Twitter.';
 
 $Definition['Vanilla Export: %s, Source: %s'] = 'Allforio Vanilla: %s, Ffynhonnell: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Ystadegau Vanilla heb eu galluogi ar hyn o bryd';
@@ -239,18 +239,18 @@ $Definition['Video tutorial on managing categories'] = 'Tiwtorial fideo ar reoli
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'Fideo tiwtorial ar reoli rôlau a hawliau';
 $Definition['Video tutorial on user registration'] = 'Tiwtorialau fideo ar gofrestru defnyddwyr';
 
-$Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Rhybudd: Gall galluogi&#39;r nodwedd hon achosi gwallau Javascript ar eich gwefan.';
+$Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Rhybudd: Gall galluogi\'r nodwedd hon achosi gwallau Javascript ar eich gwefan.';
 $Definition['Warning: Loading tables can be slow.'] =
-    '<b>Rhybudd</b> : Nid yw cyfluniad eich gweinydd yn cefnogi llwytho data yn gyflym. Os ydych chi&#39;n mewnforio ffeil fawr iawn (cyn. 200,000 o sylwadau) efallai yr hoffech chi ystyried newid eich cyfluniad. Cliciwch <a href="http://vanillaforums.com/porter">yma</a> i gael mwy o wybodaeth.';
+    '<b>Rhybudd</b> : Nid yw cyfluniad eich gweinydd yn cefnogi llwytho data yn gyflym. Os ydych chi\'n mewnforio ffeil fawr iawn (cyn. 200,000 o sylwadau) efallai yr hoffech chi ystyried newid eich cyfluniad. Cliciwch <a href="http://vanillaforums.com/porter">yma</a> i gael mwy o wybodaeth.';
 $Definition['Warning: This is for advanced users.'] = '<b>Rhybudd</b>: Mae hyn ar gyfer defnyddwyr profiadol ac yn gofyn am wneud newidiadau ychwanegol i weinydd eich gwefan. Fel arfer mae angen gwesteio neilltuedig neu vps ar gyfer hyn. Peidiwch ceisio gwneud hyn os nad ydych yn gwybod beth rydych yn ei wneud.';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Rydym yn argymell ymatebion cadarnhaol ar y cyfan i annog cyfranogiad.';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Pan fydd wedi&#39;i alluogi, gallwch reoli cynhyrchion, a grwpio is-gymunedau yn ôl y cynhyrchion hynny.';
+$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Pan fydd wedi\'i alluogi, gallwch reoli cynhyrchion, a grwpio is-gymunedau yn ôl y cynhyrchion hynny.';
 $Definition['Which reactions you use really depends on your community.'] =
-    'Mae pa ymatebion rydych chi&#39;n eu defnyddio wir yn dibynnu ar eich cymuned, ond rydyn ni&#39;n argymell cadw cwpl o bwyntiau mewn cof.';
+    'Mae pa ymatebion rydych chi\'n eu defnyddio wir yn dibynnu ar eich cymuned, ond rydyn ni\'n argymell cadw cwpl o bwyntiau mewn cof.';
 
-$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Gallwch wahardd pob defnyddiwr sydd â chyfeiriadau IP wedi&#39;u rhagddodi â &quot;111.111.111&quot; trwy ychwanegu gwaharddiad math IP gyda&#39;r gwerth &quot;111.111.111. *&quot;.';
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Gallwch wahardd pob defnyddiwr sydd â chyfeiriadau IP wedi\'u rhagddodi â "111.111.111" trwy ychwanegu gwaharddiad math IP gyda\'r gwerth "111.111.111. *".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Gallwch wahardd cyfeiriadau IP, cyfeiriadau e-bost ac enwau defnyddwyr.';
-$Definition['You can choose from one of the different styles this theme offers.'] = 'Gallwch ddewis o un o&#39;r gwahanol arddulliau y mae&#39;r thema hon yn eu cynnig.';
+$Definition['You can choose from one of the different styles this theme offers.'] = 'Gallwch ddewis o un o\'r gwahanol arddulliau y mae\'r thema hon yn eu cynnig.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Gallwch gysylltu â safleoedd lluosog sy\'n cefnogi jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Os yw\'ch ffeil yn rhy fawr i\'w lwytho\'n uniongyrchol i\'r dudalen hon, gallwch ei roi yn eich ffolder /llwytho. Sicrhewch fod enw\'r ffeil yn dechrau gyda\'r gair <b> export </b> ac diweddu gydag un o <b> .txt, .gz </b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Gallwch chi nodi isafswm hyd post i annog swyddi byr i beidio.';
@@ -263,23 +263,23 @@ $Definition['You must select a file to import.'] = 'Rhaid i chi ddewis ffeil i\'
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Bydd eich thema symudol yn anabl. I osod gwahanol themâu symudol a bwrdd gwaith, defnyddiwch yr hen UI theming.";
 $Definition["Heads Up!"] = "Heads Up!";
-$Definition["Welcome to Vanilla's theming UI."] = "Croeso i UI thematig Vanilla. Mae&#39;r dudalen hon yn rhestru&#39;ch holl themâu sydd ar gael, ac yn caniatáu ichi eu copïo neu eu golygu.";
-$Definition["Some older themes don't support full editing capability."] = "Nid yw rhai themâu hŷn yn cefnogi gallu golygu llawn. I weld beth mae thema&#39;n ei gefnogi gallwch hofran dros ei enw i weld lle bydd golygiadau yn dod i rym.";
+$Definition["Welcome to Vanilla's theming UI."] = "Croeso i UI thematig Vanilla. Mae'r dudalen hon yn rhestru'ch holl themâu sydd ar gael, ac yn caniatáu ichi eu copïo neu eu golygu.";
+$Definition["Some older themes don't support full editing capability."] = "Nid yw rhai themâu hŷn yn cefnogi gallu golygu llawn. I weld beth mae thema'n ei gefnogi gallwch hofran dros ei enw i weld lle bydd golygiadau yn dod i rym.";
 $Definition["Need More Help?"] = "Angen mwy o Help?";
 $Definition["Theming Guide"] = "Canllaw Thema";
 $Definition["Old Theming UI"] = "UI Thema Hen";
-$Definition["If you have an old theme"] = "Os oes gennych hen thema ac angen gosod bwrdd gwaith a thema symudol ar wahân gallwch wneud hynny gyda&#39;r hen UI theming.";
-$Definition["Edits to this theme apply to:"] = "Mae golygiadau i&#39;r thema hon yn berthnasol i:";
+$Definition["If you have an old theme"] = "Os oes gennych hen thema ac angen gosod bwrdd gwaith a thema symudol ar wahân gallwch wneud hynny gyda'r hen UI theming.";
+$Definition["Edits to this theme apply to:"] = "Mae golygiadau i'r thema hon yn berthnasol i:";
 
-$Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templedi yw&#39;r themâu safonol. Er mwyn eu haddasu, mae&#39;n rhaid i chi greu copi.';
-$Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Themâu Custom yw&#39;r themâu y gwnaethoch chi eu creu. Gallwch olygu, ailenwi neu wneud copi ohonynt.';
-$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Ni ellir dileu&#39;r thema hon oherwydd dyma&#39;r thema a gymhwysir ar hyn o bryd.";
-$Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Ydych chi&#39;n sicr am ddileu&#39;r thema hon? Bydd yn cael ei ddileu yn barhaol.";
+$Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templedi yw\'r themâu safonol. Er mwyn eu haddasu, mae\'n rhaid i chi greu copi.';
+$Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Themâu Custom yw\'r themâu y gwnaethoch chi eu creu. Gallwch olygu, ailenwi neu wneud copi ohonynt.';
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Ni ellir dileu'r thema hon oherwydd dyma'r thema a gymhwysir ar hyn o bryd.";
+$Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Ydych chi'n sicr am ddileu'r thema hon? Bydd yn cael ei ddileu yn barhaol.";
 
 // Preview Page
-$Definition["Welcome To Your Theme"] = "Croeso i&#39;ch Thema";
-$Definition["This is a style guide of your theme."] = "Dyma ganllaw arddull o&#39;ch thema. Mae ganddo enghreifftiau o&#39;r elfennau gweledol a ddefnyddir trwy gydol y cymhwysiad. Gallwch glicio ar y teclynnau amrywiol fel y Bar Teitl &lt;0&gt; </0> neu &lt;1&gt; Baner </1> i olygu eu priodweddau yn y panel ochr.";
-$Definition["In additon to the widgets there are also"] = "Yn ychwanegol at y teclynnau mae yna hefyd &lt;0&gt; Global Styles </0> . I olygu arddulliau byd-eang cliciwch unrhyw le arall ar y dudalen, fel y testun hwn.";
+$Definition["Welcome To Your Theme"] = "Croeso i'ch Thema";
+$Definition["This is a style guide of your theme."] = "Dyma ganllaw arddull o'ch thema. Mae ganddo enghreifftiau o'r elfennau gweledol a ddefnyddir trwy gydol y cymhwysiad. Gallwch glicio ar y teclynnau amrywiol fel y Bar Teitl <0> </0> neu <1> Baner </1> i olygu eu priodweddau yn y panel ochr.";
+$Definition["In additon to the widgets there are also"] = "Yn ychwanegol at y teclynnau mae yna hefyd <0> Global Styles </0> . I olygu arddulliau byd-eang cliciwch unrhyw le arall ar y dudalen, fel y testun hwn.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Mae dau fath o fotymau yn y cymhwysiad: cynradd ac uwchradd.";
 $Definition["Primary Button"] = "Botwm Cynradd";
 $Definition["Secondary Button"] = "Botwm Eilaidd";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Enw Ffont";
 $Definition["Invalid URL"] = "URL annilys";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Gallwch uwchlwytho Ffont Custom yn eich System Thema. Copïwch a gludwch yr URL yn y maes.";
 $Definition["You can configure some values differently for different screensizes."] = "Gallwch chi ffurfweddu rhai gwerthoedd yn wahanol ar gyfer gwahanol sgrinluniau.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Mae angen ichi ychwanegu parth yr url ffont i &lt;0&gt; AllowedDomains </0> , yng nghyfluniad y wefan. &lt;1&gt; Dysgu mwy am ffontiau arfer. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Mae angen ichi ychwanegu parth yr url ffont i <0> AllowedDomains </0> , yng nghyfluniad y wefan. <1> Dysgu mwy am ffontiau arfer. </1> .";
 
 $Definition["Primary Buttons"] = "Botymau Cynradd";
 $Definition["Secondary Buttons"] = "Botymau Eilaidd";
@@ -320,14 +320,14 @@ $Definition["Background Image"] = "Delwedd Cefndir";
 $Definition["Choose Image"] = "Dewiswch Delwedd";
 $Definition["Color Overlay"] = "Troshaen Lliw";
 $Definition["Borderless"] = "Yn ddiderfyn";
-$Definition["Bordered"] = "Wedi&#39;i ffinio";
+$Definition["Bordered"] = "Wedi'i ffinio";
 $Definition["Bordered (Unified)"] = "Bordered (Unedig)";
 $Definition["Shadowed"] = "Cysgodol";
 
 $Definition["Full Bleed"] = "Gwaedu Llawn";
 $Definition["When you select Full Bleed, your background is transparent."] = "Pan ddewiswch Full Bleed, mae eich cefndir yn dryloyw.";
 $Definition["Alignment"] = "Aliniad";
-$Definition["Left Aligned"] = "Wedi&#39;i adael wedi&#39;i alinio";
+$Definition["Left Aligned"] = "Wedi'i adael wedi'i alinio";
 $Definition["Center Aligned"] = "Alinio Canolfan";
 $Definition["Image (Mobile)"] = "Delwedd (Symudol)";
 $Definition["Alignment (Mobile)"] = "Aliniad (Symudol)";

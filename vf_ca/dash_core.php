@@ -834,7 +834,7 @@ $Definition['Yes, the following information can be changed later.'] = 'Sí, la i
 $Definition['You are connected as %s.'] = 'Esteu connectat com %s.';
 $Definition['You are previewing the %s theme.'] = 'Estàs previsualitzant el tema %s.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Marqueu la casella que hi ha al costat de l’usuari que ha publicat el correu brossa per prohibir-les i suprimir totes les publicacions. <b>Feu això només si esteu segurs que es tracta d’equivocadors de spam.</b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Si us deixeu fora del vostre fòrum, sempre podeu iniciar la sessió mitjançant el correu electrònic i la contrasenya de <a href="%1$s">Vanilla</a> a <a href="%1$s">%1$s</a>';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Si us deixeu fora del vostre fòrum, sempre podeu iniciar la sessió mitjançant el correu electrònic i la contrasenya de Vanilla a <a href="%1$s">%1$s</a>';
 $Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Podeu prohibir les adreces IP, els dominis de correu electrònic i les paraules dels noms d\'usuari mitjançant aquesta eina.';
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Podeu personalitzar l’HTML i CSS per aquest tema a la pàgina %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Podeu crear un compte nou o bé introduir les credencials si teniu un compte existent.';

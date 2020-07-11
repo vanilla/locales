@@ -2,7 +2,7 @@
 // phpcs:ignoreFile
 $Definition["(No Body)"] = "(هیچ کس)";
 $Definition["(Untitled)"] = "(بدون عنوان)";
-$Definition["<0 /> out of <1 /> people found this helpful"] = "&lt;0 /&gt; از &lt;1 /&gt; افراد این کار را مفید کردند";
+$Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> از <1 /> افراد این کار را مفید کردند";
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "نسخه شخصی سازی شده از نام دانش دانش همانطور که باید در URL ها ظاهر شود.";
 $Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "شرح پایه دانش. در انتخاب دانش بنیان نمایش داده می شود.";
@@ -12,7 +12,7 @@ $Definition["Add a knowledge base to get started."] = "برای شروع یک پ
 $Definition["Add/Edit Knowledge Base"] = "پایگاه دانش را اضافه یا ویرایش کنید";
 $Definition["Admin Links"] = "پیوندهای مدیر";
 $Definition["Alphabetically"] = "الفبایی";
-$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "آیا مطمئن هستید که می خواهید &lt;0 /&gt; &quot;&lt;1 /&gt;&quot; را حذف کنید؟";
+$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "آیا مطمئن هستید که می خواهید <0 /> \"<1 />\" را حذف کنید؟";
 $Definition["Are you sure you want to delete this knowledge base?"] = "آیا مطمئن هستید که می خواهید این پایه دانش را حذف کنید؟";
 $Definition["Are you sure you want to purge this knowledge base?"] = "آیا مطمئن هستید که می خواهید این پایگاه دانش را پاک کنید؟";
 $Definition["Are you sure you want to restore this knowledge base?"] = "آیا مطمئن هستید که می خواهید این پایگاه دانش را بازیابی کنید؟";
@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "تجدید نظر در مقاله";
 $Definition["Article Three"] = "ماده سوم";
 $Definition["Article Two"] = "ماده دو";
 $Definition["Articles"] = "مقالات";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "محصولی را با این زیرمجموعه مرتبط کنید. از U0 &quot;مدیریت محصولات&quot; استفاده کنید </0> برای افزودن ، ویرایش یا حذف محصولات.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "محصولی را با این زیرمجموعه مرتبط کنید. از U0 \"مدیریت محصولات\" استفاده کنید </0> برای افزودن ، ویرایش یا حذف محصولات.";
 
 $Definition["Back to Home"] = "بازگشت به خانه";
 $Definition["Back to home page"] = "بازگشت به صفحه اصلی";
@@ -34,13 +34,13 @@ $Definition["Be the first one to vote!"] = "اولین نفری باشید که 
 $Definition["Border Style"] = "سبک مرزی";
 $Definition["Browse Articles by Category"] = "مرور مقالات بر اساس طبقه بندی";
 $Definition["Browse"] = "مرور کردن";
-$Definition["By <0/>"] = "توسط &lt;0 /&gt;";
+$Definition["By <0/>"] = "توسط <0 />";
 
 $Definition["category"] = "دسته بندی";
 $Definition["Category One"] = "دسته یک";
 $Definition["Category Options"] = "گزینه های دسته بندی";
 $Definition["Category Two"] = "دسته دو";
-$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "برخی از اقدامات غیرفعال هستند زیرا فقط در محل منبع در دسترس هستند: &lt;0 /&gt;";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "برخی از اقدامات غیرفعال هستند زیرا فقط در محل منبع در دسترس هستند: <0 />";
 $Definition["Certain actions are disabled because they are only avalaible in the source locale."] = "برخی از اقدامات غیرفعال هستند زیرا فقط در محل منبع در دسترس نیستند.";
 $Definition["Choose"] = "انتخاب کنید";
 $Definition["Choose a location for this page."] = "مکانی را برای این صفحه انتخاب کنید.";
@@ -56,13 +56,13 @@ $Definition["Debug"] = "اشکال زدایی";
 $Definition["Default Background Color"] = "پیش زمینه رنگ پیش زمینه";
 $Definition["Default Foreground Color"] = "پیش زمینه رنگ پیش زمینه";
 
-$Definition["Delete \"<0/>\""] = "حذف &quot;&lt;0 /&gt;&quot;";
+$Definition["Delete \"<0/>\""] = "حذف \"<0 />\"";
 $Definition["Delete Draft"] = "پیش نویس را حذف کنید";
 $Definition["Delete an Article"] = "مقاله را حذف کنید";
 $Definition["Deleted Articles"] = "مقالات حذف شده";
 $Definition["Deleted Knowledge Bases"] = "پایگاه های دانش حذف شده است";
 $Definition["Draft Options"] = "گزینه های پیش نویس";
-$Definition["Draft saved <0/>"] = "پیش نویس ذخیره شده &lt;0 /&gt;";
+$Definition["Draft saved <0/>"] = "پیش نویس ذخیره شده <0 />";
 
 $Definition["Edit Knowledge Base"] = "پایگاه دانش را ویرایش کنید";
 $Definition["Error saving draft."] = "خطا در پیش نویس ذخیره شد.";
@@ -77,7 +77,7 @@ $Definition["Featured Article"] = "مقاله توصیه شده";
 $Definition["Featured Articles"] = "مقالات توصیه شده";
 
 $Definition["General Appearance"] = "ظاهر عمومی";
-$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "راهنماها برای تهیه راهنماها ، اسناد و مدارک یا هر &quot;کتاب&quot; مانند محتوایی هستند که باید به ترتیب خوانده شوند.";
+$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "راهنماها برای تهیه راهنماها ، اسناد و مدارک یا هر \"کتاب\" مانند محتوایی هستند که باید به ترتیب خوانده شوند.";
 
 $Definition["Hello Home Page. Links are below:"] = "سلام صفحه اصلی. پیوندها در زیر آمده است:";
 $Definition["Help centers are for making free-form help articles that are organized into categories."] = "مراکز راهنما برای تهیه مقالاتی برای کمک به صورت رایگان هستند که به دسته بندی می شوند.";
@@ -103,7 +103,7 @@ $Definition["New Category"] = "دسته بندی جدید";
 $Definition["New Knowledge Base"] = "پایگاه دانش جدید";
 $Definition["New Name: "] = "نام جدید:";
 $Definition["Newest First"] = "جدیدترین اول";
-$Definition["No \"deleted\" knowledge bases found."] = "هیچ پایگاه دانش &quot;حذف شده&quot; یافت نشد.";
+$Definition["No \"deleted\" knowledge bases found."] = "هیچ پایگاه دانش \"حذف شده\" یافت نشد.";
 $Definition["No Permission"] = "بدون مجوز و اجازه";
 $Definition["No knowledge bases found."] = "هیچ پایه دانش یافت نشد";
 
@@ -158,7 +158,7 @@ $Definition["This article hasn't been translated yet. The original article text 
 $Definition['This article is not translated yet or it is out of date.'] = 'این مقاله هنوز ترجمه نشده یا قدیمی است.';
 $Definition['The article this draft is based on is no longer available.'] = 'مقاله ای که این پیش نویس بر اساس آن ساخته شده است دیگر در دسترس نیست.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'عرض ستون وسط طرح اصلی در پیکسل ها.';
-$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'این مقاله در محل منبع خود در &lt;0 /&gt; ویرایش شده است. برای به روزرسانی ترجمه آن و پاک کردن این پیام ، این مقاله را ویرایش کنید.';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'این مقاله در محل منبع خود در <0 /> ویرایش شده است. برای به روزرسانی ترجمه آن و پاک کردن این پیام ، این مقاله را ویرایش کنید.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'این مقاله در محل منبع خود ویرایش شده است. برای به روزرسانی ترجمه آن و پاک کردن این پیام ، این مقاله را ویرایش کنید.';
 
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "این یک اقدام مخرب است. شما نمی توانید پیش نویس خود را بازیابی کنید.";
@@ -193,13 +193,13 @@ $Definition["Type your article."] = "مقاله خود را تایپ کنید.";
 $Definition["Unknown User"] = "کاربر ناشناس";
 
 $Definition["View Article"] = "مشاهده مقاله";
-$Definition["View all articles from category: \"<0/>\"."] = "مشاهده همه مقالات از گروه: &quot;&lt;0 /&gt;&quot;.";
+$Definition["View all articles from category: \"<0/>\"."] = "مشاهده همه مقالات از گروه: \"<0 />\".";
 
 $Definition["Was this article helpful?"] = "این مقاله به شما کمک کرد؟";
 $Definition["Write Discussion"] = "بحث بنویسید";
 
 $Definition["You can see this message because you have special permissions."] = "شما می توانید این پیام را ببینید زیرا مجوزهای خاصی دارید.";
 $Definition["You don't have permission to view this resource."] = "شما اجازه مشاهده این منبع را ندارید.";
-$Definition["You need to <0>Sign In</0> to vote on this article"] = "باید وارد &lt;0&gt; شوید </0> برای رای دادن به این مقاله";
+$Definition["You need to <0>Sign In</0> to vote on this article"] = "باید وارد <0> شوید </0> برای رای دادن به این مقاله";
 $Definition["Use Banner Image Overlay"] = "از پوشش تصویر بنر استفاده کنید";
 

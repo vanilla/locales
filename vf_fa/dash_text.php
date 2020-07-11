@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = '%s ما را بررسی کنید';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'وانيلا ساده ترين، و قدرتمندترين پلتفرم انجمن ساز دنياست. بطور چشمگيري براي استفاده ساده است. با اين ويدئوي مقدماتي كار خود را شروع كرده و از مراحل زير ادامه دهيد. لذت ببريد !';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'نقشي را براي اختصاص به كاربران بدون نقش انتخاب كنيد :';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'موضوعی را برای این فرعی انتخاب کنید. &lt;0&gt; بیشتر بخوانید </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'موضوعی را برای این فرعی انتخاب کنید. <0> بیشتر بخوانید </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'انتخاب چگونگي بكارگيري تمام محتواي اختصاص شده به حساب كاربري براي %s ( ديدگاه ها، پيام ها و غيره ).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'ميتوانيد الگوريتم هش دلخواه براي ثبت درخواست هاي خود انتخاب نماييد. همينطور بايد الگوريتم هش در كتابخانه كلاينت شما نيز استفاده شده باشد. اگر مطمئن نيستيد چه چيزي را انتخاب كنيد md5 را انتخاب نماييد.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'طرح دلخواه را برای لیست دسته ها انتخاب کنید.';
@@ -67,14 +67,14 @@ $Definition['Enter a descriptive name.'] = 'يك نام توصيفي براي ب
 $Definition['Enter a short name for the site.'] = 'نام كوتاهي را براي اين سايت وارد كنيد. اين بر روي دكمه هاي ثبت نام نمايش داده ميشود.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'آدرس براي بلاگ وردپرس خود را وارد كرده و ما از اينجا آدرس را برميداريم.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'تنظيمات اتصال براي سرويس دهنده sphinx خود را در زير وارد كنيد.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'تمام ويرايش و حذف كردن ها در اينجا ثبت ميشود. براي برگشت هر تغييري از &lsquo;بازيابي&rsquo; استفاده كنيد.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'تمام ويرايش و حذف كردن ها در اينجا ثبت ميشود. براي برگشت هر تغييري از ‘بازيابي’ استفاده كنيد.';
 $Definition['Everyone who signs up gets a profile page.'] = 'هركسي كه براي انجمن شما ثبت نام كند يك صفحه پروفايل عمومي دريافت ميكند جايي كه ميتوانند يك تصويري از خود را آپلود كرده، تنظيمات پروفايل خود را مديريت كنند، و چيزهاي جالبي كه در انجمن رخ ميدهد را دنبال كنند. شما بايد <a href="{/profile,url}"> همينك پروفايل خود را شخصي سازي</a> كنيد.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'هركاربر در سايت شما حداقل به يك نقش اختصاص داده شده. نقش ها براي تعيين كردن اينكه كاربران مجاز به چه كاري هستند ، تعيين ميشود.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'اتصال فيس بوك به كاربران اين اجازه را ميدهد تا با حساب كاربري فيس بوك خود وارد انجمن شوند.<b> شما بايد اپليكيشن خود را با فيس بوك براي اين پلاگين ثبت كرده تا اين اتصال جواب بدهد</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'با نام كاربري و كلمه عبوري كه شما وارد كرده ايد اتصال به پايگاه داده با خطا روبرو شد. آيا اطلاعات را اشتباه تايپ كرده ايد؟‌پايگاه داده گزارش ميدهد : <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'اجبار كردن پيشخوان براي اينكه فقط از طريق اين آدرس وب قابل دسترس باشد <em> (توصيه نميشود) </em>';
-$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'به عنوان مثال ، شما می توانید با اضافه کردن یک ممنوعیت نوع ایمیل به ارزش &quot;*@example.com&quot; ، همه کاربران را با آدرس های ایمیل از &quot;example.com&quot; ممنوع کنید.';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'به عنوان مثال ، شما می توانید با اضافه کردن یک ممنوعیت نوع ایمیل به ارزش "*@example.com" ، همه کاربران را با آدرس های ایمیل از "example.com" ممنوع کنید.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'براي اهداف سئو، خزنده هاي موتور جستجوگر شامل اجباري براي نمايش انجمن در آدرس وب از راه دور نميباشند.';
 
 $Definition['Garden.Import.Complete.Description'] = 'شما با موفقيت عمليات درون ريزي را انجام داديد.
@@ -142,9 +142,9 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'لطفاً يك اعتبار سنج براي پيكربندي انتخاب كنيد.';
 $Definition['PluginHelp'] = 'پلاگين ها به شما اجازه اضافه كردن قابليتهايي به سايت شما ميدهند.<br />هنگامي كه پلاگيني به پوشه %s شما اضافه شد، از اينجا ميتوانيد آن را فعال و يا غيرفعال كنيد.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'بسته بين هر گفتگو در ليست گفتگوي اصلي نمايش داده ميشود. از آنجايي كه گفتگوها معمولا در &lt;li&gt;..&lt;/li&gt; برچسب ها هستند، لازم است كه شما بسته را بين آن برچسب ها قرار دهيد.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'بسته بين هر گفتگو در ليست گفتگوي اصلي نمايش داده ميشود. از آنجايي كه گفتگوها معمولا در <li>..</li> برچسب ها هستند، لازم است كه شما بسته را بين آن برچسب ها قرار دهيد.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'بسته ها به شما اجازه ميدهند تا انواع HTML را در مكان هاي مختلفي در سرتاسر اپليكيشن قرار دهيد.';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'جلوگيري از ارسال هرزنامه در انجمن خود توسط محدود كردن تعداد گفتگوها &amp; ديدگاه ها كه كاربران ميتوانند در يك زمان مشخص شده اي ارسال كنند.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'جلوگيري از ارسال هرزنامه در انجمن خود توسط محدود كردن تعداد گفتگوها & ديدگاه ها كه كاربران ميتوانند در يك زمان مشخص شده اي ارسال كنند.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'راهنماي شروع سريع براي ساخت قالب وانيلا';
 
@@ -155,12 +155,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'این ایده خوبی است که برای مدرسین و سرپرستان رتبه های خاصی داشته باشید تا جامعه شما به راحتی ببیند چه کسی مسئول است.';
 $Definition['Recommend starting with five ranks.'] =
     'شما نمی خواهید رتبه های خیلی زیادی داشته باشید توصیه می کنیم از پنج شروع کنید. اگر جامعه شما واقعاً بزرگ است ، می توانید موارد بیشتری اضافه کنید.';
-$Definition['Requires “Flag” reaction permission.'] = 'به عکس العمل &quot;پرچم&quot; نیاز دارد.';
-$Definition['Requires “Negative” reaction permission.'] = 'نیاز به اجازه واکنش &quot;منفی&quot; دارد.';
+$Definition['Requires “Flag” reaction permission.'] = 'به عکس العمل "پرچم" نیاز دارد.';
+$Definition['Requires “Negative” reaction permission.'] = 'نیاز به اجازه واکنش "منفی" دارد.';
 $Definition['Requires “Positive” reaction permission.'] = 'نیاز به اجازه واکنش مثبت دارد.';
 $Definition['Restoring your selection removes the items from this list.'] = 'هنگام بازيابي، آيتم ها از اين ليست حذف شده و سرجاي خود در سايت قرار ميگيرند.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'برای فعال کردن نقل قول ها برای Rich Editor از گزینه زیر استفاده کنید. این تنها در صورتی اعمال می شود که قالب پیش فرض &quot;غنی&quot; باشد.';
+    'برای فعال کردن نقل قول ها برای Rich Editor از گزینه زیر استفاده کنید. این تنها در صورتی اعمال می شود که قالب پیش فرض "غنی" باشد.';
 $Definition['Route Expression'] = 'اصلاح مسير';
 $Definition['Routes are used to redirect users.'] = 'مسيرها براي تغيير مسير كاربران بسته به آدرس وب درخواست شده استفاده ميشود.';
 
@@ -233,10 +233,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'ک�
 $Definition['Vanilla Export: %s, Source: %s'] = 'برون ريز وانيلا: %s، منبع: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'آمار وانيلا درحال حاضر غيرفعال ميباشد';
 $Definition['Video tutorial on advanced settings'] = 'آموزش تصويري براي تنظيمات پيشرفته';
-$Definition['Video tutorial on finding &amp; managing users'] = 'آموزش تصويري براي يافتن &amp; مديريت كاربران';
+$Definition['Video tutorial on finding &amp; managing users'] = 'آموزش تصويري براي يافتن & مديريت كاربران';
 $Definition['Video tutorial on managing appearance'] = 'آموزش تصويري براي مديريت ظاهر';
 $Definition['Video tutorial on managing categories'] = 'آموزش تصويري براي مديريت دسته بندي';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'آموزش تصويري براي مديريت نقش &amp; مجوزها';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'آموزش تصويري براي مديريت نقش & مجوزها';
 $Definition['Video tutorial on user registration'] = 'آموزش تصويري براي ثبت نام كاربر';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'هشدار: فعال کردن این ویژگی ممکن است باعث ایجاد خطاهای Javascript در سایت شما شود.';
@@ -248,7 +248,7 @@ $Definition['When enabled, you can manage products, and group subcommunities by 
 $Definition['Which reactions you use really depends on your community.'] =
     'کدام واکنش هایی که استفاده می کنید به جامعه شما بستگی دارد ، اما توصیه می کنیم چند نکته را در خاطر داشته باشید.';
 
-$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'می توانید با اضافه کردن یک ممنوعیت از نوع IP با مقدار &quot;111.111.111. *&quot; ، همه کاربران را با آدرس IP پیش شماره &quot;111.111.111&quot; ممنوع کنید.';
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'می توانید با اضافه کردن یک ممنوعیت از نوع IP با مقدار "111.111.111. *" ، همه کاربران را با آدرس IP پیش شماره "111.111.111" ممنوع کنید.';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'می توانید آدرس های IP ، آدرس های ایمیل و نام کاربری را ممنوع کنید.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'می توانید یکی از سبک های مختلفی که این موضوع ارائه می دهد را انتخاب کنید.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'شما ميتوانيد با چندين سايتي كه jsConnect را پشتيباني كنند متصل شويد.';
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "به موضوع شما خوش آمديد";
-$Definition["This is a style guide of your theme."] = "این یک راهنمای سبک از موضوع شماست. این نمونه هایی از عناصر بصری است که در طول برنامه استفاده می شود. می توانید بر روی ابزارکهای مختلف مانند نوار عنوان &lt;0&gt; کلیک کنید </0> یا &lt;1&gt; بنر </1> برای ویرایش خصوصیات آنها در صفحه جانبی.";
-$Definition["In additon to the widgets there are also"] = "در افزونه ابزارک ها &lt;0&gt; سبک های جهانی نیز وجود دارد </0> . برای ویرایش سبک های جهانی ، در هر نقطه دیگری از صفحه ، مانند این متن ، کلیک کنید.";
+$Definition["This is a style guide of your theme."] = "این یک راهنمای سبک از موضوع شماست. این نمونه هایی از عناصر بصری است که در طول برنامه استفاده می شود. می توانید بر روی ابزارکهای مختلف مانند نوار عنوان <0> کلیک کنید </0> یا <1> بنر </1> برای ویرایش خصوصیات آنها در صفحه جانبی.";
+$Definition["In additon to the widgets there are also"] = "در افزونه ابزارک ها <0> سبک های جهانی نیز وجود دارد </0> . برای ویرایش سبک های جهانی ، در هر نقطه دیگری از صفحه ، مانند این متن ، کلیک کنید.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "دو نوع دکمه در برنامه وجود دارد: اولیه و ثانویه.";
 $Definition["Primary Button"] = "دکمه اولیه";
 $Definition["Secondary Button"] = "دکمه ثانویه";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "نام قلم";
 $Definition["Invalid URL"] = "URL نامعتبر است";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "می توانید یک قلم سفارشی را در سیستم Theming خود بارگذاری کنید. فقط URL را در قسمت کپی و چسباندن کنید.";
 $Definition["You can configure some values differently for different screensizes."] = "می توانید مقادیر مختلف را برای صفحه های مختلف پیکربندی کنید.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "شما باید دامنه آدرس فونت را به &lt;0&gt; AllowedDomains اضافه کنید </0> ، در پیکربندی سایت. &lt;1&gt; درباره فونت های سفارشی بیشتر بیاموزید. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "شما باید دامنه آدرس فونت را به <0> AllowedDomains اضافه کنید </0> ، در پیکربندی سایت. <1> درباره فونت های سفارشی بیشتر بیاموزید. </1> .";
 
 $Definition["Primary Buttons"] = "دکمه های اولیه";
 $Definition["Secondary Buttons"] = "دکمه های ثانویه";

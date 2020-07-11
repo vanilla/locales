@@ -17,8 +17,6 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s بر روي %4$s %5$s نوشت.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s اپليكيشن عضويت %2$s را تائيد كرد.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s يك حساب كاربري براي %1$s ايجاد كرد.';
-$Definition['%s$1 to %s$2'] = '%s$1 به %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 به %s$2 از %s$3';
 $Definition['%s (Current)'] = '%s (هم اكنون)';
 $Definition['%s: %s'] = '%s: %s';
 $Definition['%s Agrees'] = '%s قبول ميكند';
@@ -776,7 +774,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'H
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'من با <a id="TermsOfService" class="Popup" target="terms" href="%s"> شرايط خدمات </a> موافق هستم';
 $Definition['Icon'] = 'Icon';
 $Definition["Icon for: "] = "نماد برای:";
-$Definition['I confirm that I have received consent to join this community.'] = 'از آنجايي كه من زير سن %s ميباشم، تائيد ميكنم كه رضايت دارم تا عضو انجمن شوم.';
+$Definition['I confirm that I have received consent to join this community.'] = 'از آنجايي كه من زير سن %d ميباشم، تائيد ميكنم كه رضايت دارم تا عضو انجمن شوم.';
 $Definition['Idea'] = 'ايده';
 $Definition['idea'] = 'ايده';
 $Definition['Ideas'] = 'ايده';

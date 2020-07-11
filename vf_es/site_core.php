@@ -17,8 +17,6 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s escrito en %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s aprobó%2$s la solicitud de afiliación.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s creada una cuenta para %1$s.';
-$Definition['%s$1 to %s$2'] = '%s$1 a %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 a %s$2 de %s$3';
 $Definition['%s (Current)'] = '%s (Actual)';
 $Definition['%s: %s'] = '%s: %s';
 $Definition['%s Agrees'] = '%s Acepta';
@@ -1136,7 +1134,7 @@ $Definition['Owner'] = 'Propietario';
 
 $Definition['Page'] = 'Página';
 $Definition['page'] = 'página';
-$Definition['Page %1$s of %2$s'] = 'Página %1$d de %2$s';
+$Definition['Page %1$s of %2$s'] = 'Página %1$s de %2$s';
 $Definition['Page %s'] = 'Página %s';
 $Definition['Page %s of %s'] = 'Página %s de %s';
 $Definition['PageDetailsMessage'] = '%1$s a %2$s';
