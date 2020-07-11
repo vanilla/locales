@@ -20,7 +20,7 @@ $Definition['%3$s created an account for %1$s.'] = '%3$s انشأ حسابا ل�
 $Definition['%s$1 to %s$2'] = '%s$1 إلى %s$2';
 $Definition['%s$1 to %s$2 of %s$3'] = '%s$1 إلى %s$2 من %s$3';
 $Definition['%s (Current)'] = '%s (الحالي)';
-$Definition['%s: %s'] = 's: %s%';
+$Definition['%s: %s'] = '%s: %s';
 $Definition['%s Agrees'] = '%s موافق عليه';
 $Definition['%s and %s others'] = '%s و %s آخرون';
 $Definition['%s and you'] = '%s و أنت';
@@ -107,8 +107,8 @@ $Definition['%s WTFs'] = '%s إمتعاض';
 $Definition['%s year'] = '%s  سنة';
 $Definition['%s years'] = '%s  سنوات';
 
-$Definition['&laquo; hide previous quotes'] = '&laquo; إخفاء الاقتباسات السابقة';
-$Definition['&raquo; show previous quotes'] = '&raquo; عرض الاقتباسات السابقة';
+$Definition['&laquo; hide previous quotes'] = '« إخفاء الاقتباسات السابقة';
+$Definition['&raquo; show previous quotes'] = '» عرض الاقتباسات السابقة';
 
 $Definition['(All)'] = '(الجميع)';
 $Definition['(empty message)'] = '( رسالة خالية)';
@@ -204,7 +204,7 @@ $Definition['All Bookmarks'] = 'كل الإشارات المرجعية';
 $Definition['All Badges'] = 'كل الشارات';
 $Definition['All Categories'] = 'جميع الأقسام';
 $Definition['all categories'] = 'جميع الأقسام';
-$Definition['All Content'] = ['All Content'];
+$Definition['All Content'] = 'كل المحتوى';
 $Definition['All Conversations'] = 'جميع المشاركات';
 $Definition['All Discussions'] = 'جميع المواضيع';
 $Definition['All discussions marked as viewed.'] = 'جميع المناقشات تمت رؤيتها';
@@ -407,7 +407,7 @@ $Definition['Confirm Your Email Address'] = 'تأكيد عنوان بريدك ا
 $Definition['Connect'] = 'اتصال';
 $Definition['ConnectAccountExists'] = 'لديك حساب هنا مسبقاً.';
 $Definition['ConnectChooseName'] = 'اختر اسماً لتعرف بنفسك على الموقع.';
-$Definition['ConnectCreateAccount'] = 'إضافة معلومات &amp; إنشاء حساب';
+$Definition['ConnectCreateAccount'] = 'إضافة معلومات & إنشاء حساب';
 $Definition['Connected'] = 'متصل';
 $Definition['Connected With: {ProviderName}'] = 'متصل مع: {ProviderName}';
 $Definition['ConnectExistingPassword'] = 'أدخل كلمة المرور الخاصة بحسابك الموجود.';
@@ -762,7 +762,7 @@ $Definition['her'] = 'لها';
 $Definition['Hide'] = 'اخفاء';
 $Definition['hide'] = 'إخفاء';
 $Definition['Hide my online status from other members'] = 'إخفاء حالة اتصالي عن باقي أعضاء المجموعة';
-$Definition['Hide previous quotes'] = '&laquo; إخفاء الاقتباسات السابقة';
+$Definition['Hide previous quotes'] = '« إخفاء الاقتباسات السابقة';
 $Definition['Hide Results'] = 'إخفاء النتائج';
 $Definition['Hide signatures?'] = 'اخفاء الامضاءات';
 $Definition['Hide signatures always'] = 'اخفاء التواقيع دائما';
@@ -1041,7 +1041,7 @@ $Definition['Next'] = 'التالي';
 $Definition['Next Page'] = 'الصفحة التالية';
 $Definition['Ninth Anniversary'] = 'الذكرى السنوية التاسعة';
 $Definition['No'] = 'لا';
-$Definition['NoBadgesEarned'] = 'اي دقيقة now&hellip;';
+$Definition['NoBadgesEarned'] = 'اي دقيقة now…';
 $Definition['No badges yet.'] = 'لا شارات حتى الآن.';
 $Definition['Nobody has confirmed their attendance yet.'] = 'لم يؤكد أحد على حضوره بعد.';
 $Definition['Nobody has declined the invitation so far.'] = 'لم يرفض أحد الدعوة إلى الآن.';
@@ -1412,7 +1412,7 @@ $Definition['Share on Facebook'] = 'المشاركة عبر الفيسبوك';
 $Definition['she'] = 'هي';
 $Definition['show'] = 'إظهار';
 $Definition['Shown only on mobile'] = 'يظهر ذلك فقط على الجوال';
-$Definition['Show previous quotes'] = '&raquo; عرض الاقتباسات السابقة';
+$Definition['Show previous quotes'] = '» عرض الاقتباسات السابقة';
 $Definition['Show popular tags'] = 'عرض العلامات الشهيرة';
 $Definition['Show unfollowed categories'] = 'اظهر الاقسام الغير متابعة';
 $Definition['Sign-In URL'] = 'رابط تسجيل الدخول';
@@ -1866,7 +1866,7 @@ $Definition['You cannot edit the thumbnail of another member.'] = 'You cannot ed
 $Definition['You cannot remove an invitation that has been accepted.'] = 'You cannot remove an invitation that has been accepted.';
 $Definition['You can only specify up to %s tags.'] = 'يمكنك إضافة حتى %s وسوم بحد أقصى.';
 $Definition['You can remove or ban this member from the group.'] = 'يمكنك حذف أو حظر هذا العضو من المجموعة. الأعضاء المحظورون لن يتمكنوا من الانضمام إلى المجموعة مرة أخرى.';
-$Definition['You can use HTML in your signature.'] = 'يمكنك استخدام <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML عادي&lt;/a></b> في توقيعك.';
+$Definition['You can use HTML in your signature.'] = 'يمكنك استخدام <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML عادي</a></b> في توقيعك.';
 $Definition['You don\'t have permission to do that.'] = 'ليس لديك الصلاحيات لفعل هدا';
 $Definition['You don\'t have permission to use a signature.'] = 'ليس مسموحا لك باستعمال توقيع.';
 $Definition['You do not have any %s yet.'] = 'ليس لديك أي %s بعد';
