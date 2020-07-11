@@ -5,7 +5,7 @@ $Definition["(Untitled)"] = "(Sans titre)";
 $Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> personnes sur <1 /> ont trouvé cela utile";
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "Version personnalisée du nom de la base de connaissances telle qu'elle devra apparaître dans les URL.";
-$Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "Une description de la base de connaissances, affichée dans le sélectionneur de la base de connaissances.";
+$Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "Une description de la base de connaissances. Affiché dans le sélecteur de le base de connaissances.";
 $Definition["A small image used to represent the knowledge base. Displayed in the knowledge base picker."] = "Petite image représentant la base de connaissances, affichée dans le sélectionneur de base de connaissances.";
 $Definition["Add Knowledge Base"] = "Ajouter une base de connaissances";
 $Definition["Add a knowledge base to get started."] = "Ajoutez une base de connaissances pour commencer.";

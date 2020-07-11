@@ -23,7 +23,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'वेनिला में अपने प्रोफाइल पेज से अपने स्वयं के अवतार को बदलने के लिए %s अनुमति वाले उपयोगकर्ताओं को अनुमति दें।';
 $Definition['ApplicationHelp'] = 'एप्लिकेशन आपको अपनी साइट पर कार्यक्षमता के बड़े समूहों को जोड़ने की अनुमति देते हैं। <br />एक बार आपके %s फ़ोल्डर में कोई एप्लिकेशन जुड़ने के बाद, आप इसे यहाँ सक्षम या अक्षम कर सकते हैं।';
-$Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'क्या आपने सचमुच में सही डेटाबेस होस्ट का नाम दर्ज किया है? शायद आप इसे गलत समझे? डेटाबेस के मुताबिक: <code>% s </code>';
+$Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'क्या आपने सचमुच में सही डेटाबेस होस्ट का नाम दर्ज किया है? शायद आप इसे गलत समझे? डेटाबेस के मुताबिक: <code>%s</code>';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'यदि वे इस ऊंचाई से अधिक हो जाते हैं, तो अवतारों को छोटा कर दिया जाएगा।';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'यदि वे इस चौड़ाई से अधिक हो जाते हैं, तो अवतारों को छोटा कर दिया जाएगा।';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'अवतार इस आकार में अपने थंबनेल सहेजे होंगे।';
@@ -40,7 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'हमारे %s को देखें';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'वेनिला विश्व का सबसे सरल, सबसे शक्तिशाली सामुदायिक मंच है. यह उपयोग करने में बहुत ही आसान है. इस परिचयात्मक वीडियो के साथ शुरू करें और नीचे दिए गए चरणों के साथ आगे बढ़ें. इसका आनंद लें!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'कोई ऐसा रोल चुनें जिसे ऑरफन यूजर्स को सौंपा जाएगा:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'इस सबकोम्यूनिटी के लिए एक थीम चुनें। &lt;0&gt; और पढ़ें </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'इस सबकोम्यूनिटी के लिए एक थीम चुनें। <0> और पढ़ें </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '%S (टिप्पणी, संदेश, आदि) के लिए उपयोगकर्ता के खाते से जुड़ी सभी सामग्रियों को संभालने का चयन करें।';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'आप अपने अनुरोधों पर हस्ताक्षर करने के लिए एक कस्टम हैश एल्गोरिथ्म का चयन कर सकते हैं। हैश एल्गोरिथ्म का उपयोग आपके क्लाइंट लाइब्रेरी में भी किया जाना चाहिए। Md5 चुनें अगर आप सुनिश्चित नहीं हैं कि क्या चुनना है।';
 $Definition['Choose the preferred layout for lists of categories.'] = 'श्रेणियों की सूचियों के लिए पसंदीदा लेआउट चुनें।';
@@ -68,7 +68,7 @@ $Definition['Enter a descriptive name.'] = 'पॉकेट के लिए ए
 $Definition['Enter a short name for the site.'] = 'साइट के लिए एक छोटा नाम दर्ज करें. यह साइन-इन बटनों पर प्रदर्शित होता है.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'अपने Wordpress ब्लॉग का पता दर्ज करें और हम इसे वहां से ले लेंगे।';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'नीचे अपने स्फिंक्स सर्वर के लिए कनेक्शन सेटिंग्स दर्ज करें।';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'प्रत्येक संपादन या विलोपन यहाँ रिकॉर्ड किया गया है. किसी भी बदलाव को पूर्ववत करने के लिए &lsquo;Restore&rsquo का प्रयोग करें. ';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'प्रत्येक संपादन या विलोपन यहाँ रिकॉर्ड किया गया है. किसी भी बदलाव को पूर्ववत करने के लिए ‘Restore&rsquo का प्रयोग करें. ';
 $Definition['Everyone who signs up gets a profile page.'] = 'आपके समुदाय के लिए साइन अप करने वाले हर व्यक्ति को एक सार्वजनिक प्रोफ़ाइल पृष्ठ मिलता है, जहाँ वे स्वयं की तस्वीर अपलोड कर सकते हैं, अपनी प्रोफ़ाइल सेटिंग प्रबंधित कर सकते हैं, और समुदाय में चल रही बढ़िया चीज़ों को ट्रैक कर सकते हैं। आपको <a href="{/profile,url}"> अब अपनी प्रोफ़ाइल को अनुकूलित करना चाहिए </a>।';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'आपकी साइट के प्रत्येक यूज़र को कम से कम एक भूमिका सौंपी जाती है. भूमिकाओं का उपयोग यह निर्धारित करने के लिए किया जाता है कि यूज़र्स को क्या करने की अनुमति है.';
 
@@ -143,7 +143,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'कॉन्फ़िगर करने के लिए कृपया एक  प्रमाणक चुनें। ';
 $Definition['PluginHelp'] = 'प्लगइन आपको अपनी साइट में कार्यक्षमता जोड़ने की अनुमति देते हैं.<br /> एक बार आपके %s फ़ोल्डर में प्लगइन जोड़ दिए जाने के बाद, आप यहाँ इसे सक्षम या अक्षम कर सकते हैं.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'पॉकेट को मुख्य चर्चा सूची पर प्रत्येक चर्चा के बीच प्रदर्शित किया जाता है। चूँकि चर्चा में आमतौर पर &lt;li&gt;..&lt;/li&gt; टैग लगे होते हैं, आपको अपने पॉकेट को उन टैग के हिसाब से बनाना होगा।';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'पॉकेट को मुख्य चर्चा सूची पर प्रत्येक चर्चा के बीच प्रदर्शित किया जाता है। चूँकि चर्चा में आमतौर पर <li>..</li> टैग लगे होते हैं, आपको अपने पॉकेट को उन टैग के हिसाब से बनाना होगा।';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'पॉकेट्स आपको एप्लिकेशन के आसपास विभिन्न स्थानों पर मुफ्त-फॉर्म HTML जोड़ने देते हैं।';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'चर्चाओं की संख्या सीमित करके अपने मंच पर स्पैम को रोकें & amp; टिप्पणियां जो उपयोगकर्ता किसी निश्चित समय के भीतर पोस्ट कर सकते हैं।';
 
@@ -156,12 +156,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'मध्यस्थों और प्रशासकों के लिए विशेष रैंक रखना एक अच्छा विचार है ताकि आपका समुदाय आसानी से देख सके कि प्रभारी कौन है।';
 $Definition['Recommend starting with five ranks.'] =
     'आप बहुत अधिक रैंक नहीं चाहते हैं। हम पांच से शुरू करने की सलाह देते हैं। यदि आपका समुदाय वास्तव में बड़ा है तो आप अधिक जोड़ सकते हैं।';
-$Definition['Requires “Flag” reaction permission.'] = '&quot;ध्वज&quot; प्रतिक्रिया अनुमति की आवश्यकता है।';
-$Definition['Requires “Negative” reaction permission.'] = '&quot;नकारात्मक&quot; प्रतिक्रिया अनुमति की आवश्यकता है।';
-$Definition['Requires “Positive” reaction permission.'] = '&quot;सकारात्मक&quot; प्रतिक्रिया अनुमति की आवश्यकता है।';
+$Definition['Requires “Flag” reaction permission.'] = '"ध्वज" प्रतिक्रिया अनुमति की आवश्यकता है।';
+$Definition['Requires “Negative” reaction permission.'] = '"नकारात्मक" प्रतिक्रिया अनुमति की आवश्यकता है।';
+$Definition['Requires “Positive” reaction permission.'] = '"सकारात्मक" प्रतिक्रिया अनुमति की आवश्यकता है।';
 $Definition['Restoring your selection removes the items from this list.'] = 'जब आप रिस्टोर करते हैं तो सामग्रियों को  इस सूची से हटाकर पुनः साइट पर रख दिया जाता है।';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'रिच संपादक के उद्धरणों को सक्षम करने के लिए निम्न विकल्प का उपयोग करें। यह केवल तभी लागू होगा जब डिफ़ॉल्ट फ़ॉर्मेटर &quot;रिच&quot; हो।';
+    'रिच संपादक के उद्धरणों को सक्षम करने के लिए निम्न विकल्प का उपयोग करें। यह केवल तभी लागू होगा जब डिफ़ॉल्ट फ़ॉर्मेटर "रिच" हो।';
 $Definition['Route Expression'] = 'रूट एक्सप्रेशन';
 $Definition['Routes are used to redirect users.'] = 'रूट का उपयोग उपयोगकर्ताओं को अनुरोधित URL के आधार पर पुनर्निर्देशित करने के लिए किया जाता है।';
 
@@ -172,7 +172,7 @@ $Definition['Security.Hsts.MaxAgeRecommendation'] = 'हम अधिकतम 1
 $Definition['Security.Hsts.SubmitWarning'] = 'चेतावनी: एक बेहतरीन कार्य प्रणाली के रूप में HSTS प्रीलोडिंग का समर्थन करना सबसे अच्छा है। फ़िर भी, अपनी साईट का सफ़लतापूर्वक प्रीलोड सुनिश्चित करने के लिए आपको अपनी साईट को hstspreload.org पर सबमिट करना आवश्यक है। (अर्थात इच्छित कॉन्फ़िगरेशन के लिए पूर्ण सुरक्षा प्राप्त करना)।';
 $Definition['Select the default type for this role, if any.'] = 'इस भूमिका के लिए डिफ़ॉल्ट प्रकार का चयन करें, यदि कोई हो।';
 $Definition['Select the import source'] = 'आयात स्रोत चुनें';
-$Definition['Serialized column "%s" failed to be unserialized.'] = 'सीरियलाइज्ड कॉलम "% s" को अनसीरियलाइज्ड  नहीं किया जा सका.';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'सीरियलाइज्ड कॉलम "%s" को अनसीरियलाइज्ड  नहीं किया जा सका.';
 $Definition['ShareImageDescription'] =
     'जब कोई आपकी साइट से लिंक साझा करता है, तो हम पृष्ठ से एक छवि लेते हैं। यदि पृष्ठ पर कोई छवि नहीं है, तो हम इस छवि का उपयोग करेंगे। छवि कम से कम 50 × 50 होनी चाहिए, लेकिन हम 200 × 200 की सलाह देते हैं।';
 $Definition['Show all possible pocket locations.'] = 'सभी संभावित पॉकेट स्थानों को दिखाने के लिए इस विकल्प को शुरू करें. 
@@ -198,7 +198,7 @@ $Definition['The banner title appears on the top-left of every page.'] = 'बै
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'बैनर शीर्षक आपकी साइट के बैनर पर और आपके ब्राउज़र के शीर्षक बार में दिखाई देता है। यह 20 से कम अक्षर होने चाहिए। यदि बैनर लोगो अपलोड किया गया है, तो यह उपयोगकर्ता-की तरफ़ फ़ोरम पेजेज़ पर बैनर शीर्षक को बदल देगा। इसके अलावा, ध्यान रखें कि कुछ थीम भी इस शीर्षक को छिपा सकती हैं।';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong> मूल पंजीकरण फॉर्म में </strong> स्पैमर को साइट से बाहर रखने के लिए नए यूजर को कैप्चा इमेज से टेक्स्ट कॉपी करने की आवश्यकता होती है। आपको <a href="http://recaptcha.net/"> recaptcha.net </a> पर एक खाते की आवश्यकता है। साइन अप करना फ्री और आसान है। एक बार साइन अप करने के बाद, यहां वापस आएं और निम्नलिखित सेटिंग्स दर्ज करें:';
 $Definition['The database user you specified does not have permission to access the database. Have you created the database yet? The database reported: <code>%s</code>'] =
-    'आपके द्वारा निर्दिष्ट डेटाबेस उपयोगकर्ता के पास डेटाबेस तक पहुँचने की अनुमति नहीं है। क्या आपने अभी तक डेटाबेस बना लिया है? डेटाबेस ने रिपोर्ट दिया: <code>% s </code>';
+    'आपके द्वारा निर्दिष्ट डेटाबेस उपयोगकर्ता के पास डेटाबेस तक पहुँचने की अनुमति नहीं है। क्या आपने अभी तक डेटाबेस बना लिया है? डेटाबेस ने रिपोर्ट दिया: <code>%s</code>';
 $Definition['The following structure changes are required for your database.'] = 'आपके डेटाबेस के लिए निम्न संरचना में परिवर्तन आवश्यक हैं.';
 $Definition['The import file does not contain any data.'] = 'आयातित फ़ाइल में कोई डेटा नहीं है।';
 $Definition['The import file is not in the correct format.'] = 'आयात फ़ाइल सही प्रारूप में नहीं है।';
@@ -236,7 +236,7 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'उ
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla निर्यात: %s, स्रोत:%s';
 $Definition['Vanilla Statistics are currently disabled'] = 'वर्तमान में वेनिला सांख्यिकी अक्षम हैं';
 $Definition['Video tutorial on advanced settings'] = 'एडवांस सेटिंग्स पर वीडियो ट्यूटोरियल';
-$Definition['Video tutorial on finding &amp; managing users'] = 'उपयोगकर्ताओं को प्रबंधित करना &amp; खोजने पर वीडियो ट्यूटोरियल';
+$Definition['Video tutorial on finding &amp; managing users'] = 'उपयोगकर्ताओं को प्रबंधित करना & खोजने पर वीडियो ट्यूटोरियल';
 $Definition['Video tutorial on managing appearance'] = 'दिखावट के प्रबंधन पर वीडियो ट्यूटोरियल';
 $Definition['Video tutorial on managing categories'] = 'श्रेणियों के प्रबंधन के लिए वीडियो ट्यूटोरियल';
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'भूमिकाओं और एएमपी के प्रबंधन पर वीडियो शिक्षण; अनुमतियाँ';
@@ -281,8 +281,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "आपका थीम में स्वागत है";
-$Definition["This is a style guide of your theme."] = "यह आपकी थीम का एक स्टाइल गाइड है। इसमें पूरे एप्लिकेशन में उपयोग किए जाने वाले दृश्य तत्वों के उदाहरण हैं। आप &lt;0&gt; टाइटल बार जैसे विभिन्न विगेट्स पर क्लिक कर सकते हैं </0> या &lt;1&gt; बैनर </1> साइड पैनल में उनके गुणों को संपादित करने के लिए।";
-$Definition["In additon to the widgets there are also"] = "विजेट में एडिटॉन में &lt;0&gt; ग्लोबल स्टाइल्स भी हैं </0> । वैश्विक शैलियों को संपादित करने के लिए पृष्ठ पर कहीं भी क्लिक करें, जैसे कि यह पाठ।";
+$Definition["This is a style guide of your theme."] = "यह आपकी थीम का एक स्टाइल गाइड है। इसमें पूरे एप्लिकेशन में उपयोग किए जाने वाले दृश्य तत्वों के उदाहरण हैं। आप <0> टाइटल बार जैसे विभिन्न विगेट्स पर क्लिक कर सकते हैं </0> या <1> बैनर </1> साइड पैनल में उनके गुणों को संपादित करने के लिए।";
+$Definition["In additon to the widgets there are also"] = "विजेट में एडिटॉन में <0> ग्लोबल स्टाइल्स भी हैं </0> । वैश्विक शैलियों को संपादित करने के लिए पृष्ठ पर कहीं भी क्लिक करें, जैसे कि यह पाठ।";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "आवेदन में दो प्रकार के बटन होते हैं: प्राथमिक और द्वितीयक।";
 $Definition["Primary Button"] = "प्राथमिक बटन";
 $Definition["Secondary Button"] = "द्वितीयक बटन";
@@ -308,7 +308,7 @@ $Definition["Font Name"] = "फ़ॉन्ट का नाम";
 $Definition["Invalid URL"] = "अवैध यूआरएल";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "आप अपने थीमिंग सिस्टम में एक कस्टम फ़ॉन्ट अपलोड कर सकते हैं। बस क्षेत्र में URL कॉपी और पेस्ट करें।";
 $Definition["You can configure some values differently for different screensizes."] = "आप अलग-अलग स्क्रीनसेज़ के लिए कुछ मान अलग-अलग कॉन्फ़िगर कर सकते हैं।";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "आपको फ़ॉन्ट url के डोमेन को &lt;0&gt; AllowedDomains में जोड़ना होगा </0> , साइट के विन्यास में। &lt;1&gt; कस्टम फोंट के बारे में अधिक जानें। </1> ।";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "आपको फ़ॉन्ट url के डोमेन को <0> AllowedDomains में जोड़ना होगा </0> , साइट के विन्यास में। <1> कस्टम फोंट के बारे में अधिक जानें। </1> ।";
 
 $Definition["Primary Buttons"] = "प्राथमिक बटन";
 $Definition["Secondary Buttons"] = "माध्यमिक बटन";
