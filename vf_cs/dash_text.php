@@ -40,7 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Podívejte se na naši %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla je nejjednodušší, nejvýkonnější komunitní platforma na světě. Její použití je extrémně snadné. Začněte tímto úvodním videem a pokračujte níže uvedenými kroky. Užívejte!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Vyberte roli, která bude přiřazena samotným uživatelům:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Vyberte téma pro tuto podkomunitu. &lt;0&gt; Čtěte více </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Vyberte téma pro tuto podkomunitu. <0> Čtěte více </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Vyberte způsob zpracování veškerého obsahu spojeného s uživatelským účtem pro %s (komentáře, zprávy atd.). ';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Pro podepsání svých požadavků si můžete zvolit vlastní hashovací algoritmus. Hashovací algoritmus musí být používán také v knihovně vašeho klienta. Pokud si nejste jisti výběrem, zvolte md5.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Vyberte preferované rozložení pro seznamy kategorií.';
@@ -68,7 +68,7 @@ $Definition['Enter a descriptive name.'] = 'Zadejte popisný název kapsy. Tento
 $Definition['Enter a short name for the site.'] = 'Zadejte krátký název webové stránky. Zobrazí se na tlačítkách pro přihlášení.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Zadejte adresu svého blogu Wordpress a my už si s tím poradíme.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Níže zadejte nastavení připojení pro váš server sphinx.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Každá editace nebo odstranění se zaznamenává zde. Pro vrácení jakékoliv změny použijte funkci &lsquo;Obnovit&rsquo;.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Každá editace nebo odstranění se zaznamenává zde. Pro vrácení jakékoliv změny použijte funkci ‘Obnovit’.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Každý, kdo se zaregistruje do vaší komunity, získá veřejnou stránku s profilem, kam si může nahrát svůj obrázek, spravovat nastavení profilu a sledovat skvělé novinky ve vaší komunitě. Měli byste si <a href="{/profile,url}">upravit svůj profil nyní</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Každý uživatel na vaší stránce je přiřazen alespoň k jedné roli. Role se používají pro určení toho, co mohou uživatelé dělat.';
 
@@ -142,9 +142,9 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Vyberte prosím autentizátor, který chcete konfigurovat. ';
 $Definition['PluginHelp'] = 'Pluginy vám dávají možnost přidat na vaši stránku další funkce.<br />Jakmile plugin přidáte do své složky %s, může jej odtud povolit nebo zakázat. ';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Kapsa se nachází mezi jednotlivými diskuzemi na hlavním seznamu diskuzí. Protože se diskuze obvykle nachází mezi tagy &lt;li&gt;..&lt;/li&gt;, budete muset tyto tagy přidat také k vaší kapse.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Kapsa se nachází mezi jednotlivými diskuzemi na hlavním seznamu diskuzí. Protože se diskuze obvykle nachází mezi tagy <li>..</li>, budete muset tyto tagy přidat také k vaší kapse.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Kapsy vám umožňují přidávat HTML ve volné formě do různých míst v aplikaci.';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Spamu na fóru lze předcházet tím, že omezíte počet diskuzí &amp; komentářů, které uživatel může odeslat během určitého časového intervalu.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Spamu na fóru lze předcházet tím, že omezíte počet diskuzí & komentářů, které uživatel může odeslat během určitého časového intervalu.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Průvodce rychlým startem pro vytváření témat ve Vanilla';
 
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Vítejte ve vašem tématu";
-$Definition["This is a style guide of your theme."] = "Toto je průvodce stylem vašeho tématu. Obsahuje příklady vizuálních prvků používaných v celé aplikaci. Můžete kliknout na různé widgety, například na &lt;0&gt; záhlaví </0> nebo &lt;1&gt; Banner </1> upravit jejich vlastnosti v postranním panelu.";
-$Definition["In additon to the widgets there are also"] = "Kromě widgetů existují také &lt;0&gt; Globální styly </0> . Chcete-li upravit globální styly, klikněte kdekoli na stránce, například na tento text.";
+$Definition["This is a style guide of your theme."] = "Toto je průvodce stylem vašeho tématu. Obsahuje příklady vizuálních prvků používaných v celé aplikaci. Můžete kliknout na různé widgety, například na <0> záhlaví </0> nebo <1> Banner </1> upravit jejich vlastnosti v postranním panelu.";
+$Definition["In additon to the widgets there are also"] = "Kromě widgetů existují také <0> Globální styly </0> . Chcete-li upravit globální styly, klikněte kdekoli na stránce, například na tento text.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "V aplikaci existují dva typy tlačítek: primární a sekundární.";
 $Definition["Primary Button"] = "Primární tlačítko";
 $Definition["Secondary Button"] = "Sekundární tlačítko";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Název písma";
 $Definition["Invalid URL"] = "neplatná URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Do systému Theming můžete nahrát vlastní písmo. Stačí zkopírovat a vložit adresu URL do pole.";
 $Definition["You can configure some values differently for different screensizes."] = "Některé hodnoty můžete konfigurovat různě pro různé velikosti obrazovky.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Je třeba přidat doménu adresy URL písma do &lt;0&gt; PovolenéDomény </0> , v konfiguraci webu. &lt;1&gt; Další informace o uživatelských fontech. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Je třeba přidat doménu adresy URL písma do <0> PovolenéDomény </0> , v konfiguraci webu. <1> Další informace o uživatelských fontech. </1> .";
 
 $Definition["Primary Buttons"] = "Primární tlačítka";
 $Definition["Secondary Buttons"] = "Sekundární tlačítka";
