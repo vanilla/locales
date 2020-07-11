@@ -4,13 +4,13 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.';
 
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Za upotrebu potvrde e-pošte potrebna je uloga sa zadanim tipom &quot;nepotvrđeno&quot;.';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Za upotrebu potvrde e-pošte potrebna je uloga sa zadanim tipom "nepotvrđeno".';
 $Definition['About.DisableStatistics'] = 'About.DisableStatistics';
 $Definition['About.VanillaStatistics'] = 'About.VanillaStatistics';
 $Definition['AboutCommentEmbedding'] = 'AboutCommentEmbedding';
 $Definition['AboutEmbedding'] = 'AboutEmbedding';
 $Definition['About Vanilla Statistics'] = 'About Vanilla Statistics';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Pristupite forumu zajednice klikom na vezu &quot;Posjetite web lokaciju&quot; pri vrhu ove stranice ili <a href={/,url}>klikom ovdje</a> . Forum zajednice je ono što će vidjeti svi vaši korisnici i kupci kada posjete <a href="{/,url,domain}">{/, url, domenu}</a> .';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Pristupite forumu zajednice klikom na vezu "Posjetite web lokaciju" pri vrhu ove stranice ili <a href={/,url}>klikom ovdje</a> . Forum zajednice je ono što će vidjeti svi vaši korisnici i kupci kada posjete <a href="{/,url,domain}">{/, url, domenu}</a> .';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'Dodajte ograničenja dimenzijama za prijenos slika u rasprave i komentare.';
 $Definition['AddressBarColorDescription'] = 'Neki pregledači podržavaju boju adresne trake. Samo za mobilne uređaje.';
@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Pogledajte naš %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Check out these tutorials to get started using Vanilla';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choose a role that orphaned users will be assigned to:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Izaberite temu za ovu zajednicu. &lt;0&gt; Pročitajte više </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Izaberite temu za ovu zajednicu. <0> Pročitajte više </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Choose md5 if you\'re not sure what to choose.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Za popis kategorija odaberite željeni izgled.';
@@ -67,14 +67,14 @@ $Definition['Enter a descriptive name.'] = 'Enter a descriptive name.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Enter the address of your Wordpress Blog and we\'ll take it from there.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Enter the connection settings for your sphinx server below.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use ‘Restore’ to undo any change.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Svi koji se prijave za vašu zajednicu dobivaju javnu stranicu profila na kojoj mogu uploadati sliku o sebi, upravljati svojim postavkama profila i pratiti cool stvari koje se događaju u zajednici. Sada bi trebalo da <a href="{/profile,url}">prilagodite svoj profil</a> .';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account.';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
-$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Na primjer, možete zabraniti svim korisnicima adrese e-pošte s adrese &quot;example.com&quot; dodavanjem zabrane tipa e-pošte sa vrijednošću &quot;*@example.com&quot;.';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Na primjer, možete zabraniti svim korisnicima adrese e-pošte s adrese "example.com" dodavanjem zabrane tipa e-pošte sa vrijednošću "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
@@ -131,7 +131,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Gnezdene kategorije dublje od ove dubine stavit će se u listu ograničenu zarezom.';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Web-lokacija treba ulogu sa zadanim tipom &quot;nepotvrđeno&quot; za potvrdu e-pošte. Dodajte ga da biste omogućili ovu postavku.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Web-lokacija treba ulogu sa zadanim tipom "nepotvrđeno" za potvrdu e-pošte. Dodajte ga da biste omogućili ovu postavku.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Ne dobijate ono što očekujete prilikom pregleda svoje teme?';
 $Definition['Notify me when people comment on my addons.'] = 'Notify me when people comment on my addons.';
 
@@ -144,7 +144,7 @@ $Definition['Please choose an authenticator to configure.'] = 'Please choose an 
 $Definition['PluginHelp'] = 'PluginHelp';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'Pockets.BetweenDiscussions.Description';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets allow you to add free-form HTML to various places around the application.';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions & comments that users can post within a given period of time.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
@@ -160,7 +160,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'Zahtijeva dozvolu
 $Definition['Requires “Positive” reaction permission.'] = 'Zahtijeva dozvolu za pozitivnu reakciju.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Restoring your selection removes the items from this list.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Upotrijebite sljedeću opciju za omogućavanje citata za Rich Editor. Ovo će se primijeniti samo ako je zadani format &quot;Rich&quot;.';
+    'Upotrijebite sljedeću opciju za omogućavanje citata za Rich Editor. Ovo će se primijeniti samo ako je zadani format "Rich".';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Rute se koriste za preusmjeravanje korisnika ovisno o traženom URL-u.';
 
@@ -211,7 +211,7 @@ $Definition['The Vanilla 2 Exporter'] = 'The Vanilla 2 Exporter';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool';
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'Djeluju baš kao i uobičajene teme. Jednom kada je dodana u mapu tema, možete je uključiti ovdje.';
-$Definition['This is the administrative dashboard for your new community.'] = 'Ovo je administrativna nadzorna ploča za vašu novu zajednicu. Pogledajte opcije konfiguracije sa strane. Odatle možete konfigurirati kako vaša zajednica funkcionira. <b>Prema zadanim postavkama samo korisnici u ulozi &quot;Administrator&quot; mogu vidjeti ovaj dio vaše zajednice.</b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'Ovo je administrativna nadzorna ploča za vašu novu zajednicu. Pogledajte opcije konfiguracije sa strane. Odatle možete konfigurirati kako vaša zajednica funkcionira. <b>Prema zadanim postavkama samo korisnici u ulozi "Administrator" mogu vidjeti ovaj dio vaše zajednice.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go.';
 $Definition['This page lists the endpoints of your API.'] =
     'Ova stranica navodi krajnje točke vašeg API-ja. Kliknite krajnje točke za više informacija. Možete upućivati pozive uživo sa API-ja sa ove stranice ili eksterno koristeći pristupnu token.';
@@ -233,10 +233,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Kor
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
 $Definition['Video tutorial on advanced settings'] = 'Video tutorial on advanced settings';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding &amp; managing users';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding & managing users';
 $Definition['Video tutorial on managing appearance'] = 'Video tutorial on managing appearance';
 $Definition['Video tutorial on managing categories'] = 'Video tutorial on managing categories';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles &amp; permissions';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles & permissions';
 $Definition['Video tutorial on user registration'] = 'Video tutorial on user registration';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Upozorenje: Omogućivanje ove funkcije može uzrokovati pogreške JavaScripta na vašoj web lokaciji.';
@@ -248,7 +248,7 @@ $Definition['When enabled, you can manage products, and group subcommunities by 
 $Definition['Which reactions you use really depends on your community.'] =
     'Koje reakcije koristite zaista ovisi o vašoj zajednici, ali preporučujemo da imate na umu nekoliko točaka.';
 
-$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Možete zabraniti svim korisnicima IP adrese s prefiksom &quot;111.111.111&quot; dodavanjem zabrane tipa IP u vrijednosti &quot;111.111.111. *&quot;.';
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Možete zabraniti svim korisnicima IP adrese s prefiksom "111.111.111" dodavanjem zabrane tipa IP u vrijednosti "111.111.111. *".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Možete zabraniti IP adrese, adrese e-pošte i korisnička imena.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'Možete odabrati jedan od različitih stilova koje ova tema nudi.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'You can connect to multiple sites that support jsConnect.';
