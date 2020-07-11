@@ -3,18 +3,18 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Atenção!</strong> Deletar um cargo pode fazer com que alguns membros não tem acesso ao site.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Atenção!</strong> Mover tópicos dentro de categorias de reposição pode resultar em tópicos sumindo (ou aparecendo) caso a categoria de reposição tenha diferentes permissões da categoria sendo apagada.';
 
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'É necessária uma função com o tipo padrão "não confirmado" para usar a confirmação de e-mail.';
 $Definition['About.DisableStatistics'] = 'Se você precisar desabilitar este relatório de dados por algum motivo, você pode fazê-lo adicionando a seguinte linha ao arquivo de configuração de sua instalação: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'É essencial para a existência deste software grátis e de código aberto que efetuemos a medição exata do alcance e eficácia do Vanilla. Pedimos-lhe que, por favor, não desative o envio de relatórios sobre estes dados.';
 $Definition['AboutCommentEmbedding'] = 'O Vanilla pode ser utilizado como substituto "drop-in" do sistema de comentários nativo do seu blogue. De facto, pode ser usado para adicionar comentários a qualquer página da rede.';
 $Definition['AboutEmbedding'] = 'Incorporação permite que toda ou parte de sua comunidade seja incorporada em outras aplicações e páginas da web.';
 $Definition['About Vanilla Statistics'] = 'Sobre as Estatística do Vanilla';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Aceda ao fórum da sua comunidade clicando na ligação "Visitar o Site" localizada no topo desta página, ou <a href={/,url}>clicando aqui</a>. O fórum da comunidade é aquilo que todos os seus utilizadores &amp; clientes irão ver quando visitarem <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['Add limits to image upload dimensions in discussions and comments.'] = 'Adicionar limites às dimensões das imagens carregadas em debates e comentários.';
 $Definition['AddonProblems'] = '<h2>Problemas?</h2><p>Se algo der errado com seus plugins e você não puder usar seu site, você pode desabilitar manualmente editando:</p>%s';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Todas as categorias listadas com uma seleção de 5 tópicos cada';
-$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Embora o convite tenha sido enviado com sucesso, o email falhou ao ser enviado. O servidor relatou o seguinte erro: %s';
 $Definition['ApplicationHelp'] = 'Aplicações permitem que você adicione largos grupos de funcionalidade ao seu site.<br />Uma vez que a aplicação for adicionada à pasta %s, Você poderá habilitá-la aqui.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Você tem certeza que digitou o nome do host do banco de dados corretamente? Talvez você tenha errado. O banco de dados reportou: <code>%s</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'É necessária uma função com o tipo padrão "não confirmado" para usar a confirmação de e-mail.';
 
 $Definition['By clicking the button below, you will be deleting the user account for %s forever.'] = 'Ao clicar no botão abaixo, você deletará a conta de %s permanentemente.';
 
@@ -51,12 +51,11 @@ $Definition['Every user in your site is assigned to at least one role. Roles are
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect permite que usuários registrarem-se utilizando a conta de Facebook. <b>Você precisa registrar uma conta com o Facebook para esta função ser ativada.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Não foi possível estabelecer a ligação à base de dados com o nome de utilizador e palavra-passe que introduziu. Ter-se-á enganado ao digitar? A base de dados relatou: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force o painel a ser acessado somento através desta URL <em>(não recomendado)</em>';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Por exemplo, pode proibir todos os utilizadores com endereços de email que usem o domínio "exemplo.com", adicionando uma proibição, associada ao tipo de email, com o valor "*@exemplo.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Para melhorar o SEO, crawlers de mecanismos de busca não precisam passar pela URL remota para ver o fórum.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Concluiu uma importação com sucesso.
    Clique em <b>Concluído</b> quando estiver pronto.';
-$Definition['Garden.Import.Continue.Description'] = 'Parece que se encontra a meio de uma importação.
-   Agradecemos que escolha uma das seguintes opções.';
 $Definition['Garden.Import.InputInstructions'] = 'Entre o email e senha do administrador que está importando estes dados.';
 $Definition['Garden.StatisticsDisabled'] = 'Você desabilitou as Estatísticas do Vanilla em seu arquivo de configuração.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Este fórum parece estar a funcionar num ambiente de teste, ou apresenta um IP privado. Por defeito, os fóruns que funcionam com IPs privados não são rastreados.';
@@ -64,12 +63,14 @@ $Definition['Garden.StatisticsLocal.Resolve'] = 'Se você tem certeza que o seu 
 $Definition['Garden.StatisticsReadonly.Explain'] = 'O seu ficheiro config.php parece ser apenas de leitura. Isto significa que o Vanilla não poderá registar automaticamente a InstallationID e o InstallationSecret do seu fórum.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'Para resolver este problema, atribua o modo 777 ao arquivo conf/config.php.';
 
+$Definition['Heads Up!'] = 'Atenção!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Atenção! Esta é uma função especial que não permite sessões ativas. Por esta razão, as opções de autorização foram limitadas às autorizações de "visualização".';
 
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Se um logo for enviado, ele irá substituir os logos nas páginas de usuários.';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Caso queira diminuir o nível do aviso e então removê-lo.';
 $Definition['Import'] = 'Importar';
 $Definition['Importing to Vanilla'] = 'Importando para o Vanilla';
+$Definition['Internationalization & Localization'] = 'Internacionalização e localização';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Quando você utiliza o registro por meio de convites de usuários a página <a href="%s" class="Popup">Meus Convites</a> será mostrada em seus perfis.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Parece que a base de dados que especificou ainda não existe. Já a criou? Ter-se-á enganado ao escrever o nome? A base de dados relatou: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'É uma boa ideia manter o número de caracteres permitidos em comentários abaixo de um valor razoável.';
@@ -88,8 +89,11 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcando coisas como não sendo spam irá fazer com que elas voltem ao fórum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mensagens podem aparecer em qualquer lugar de sua aplicação, e podem ser usadas para informar usuários de novidades e eventos. Use esta página para organizar as mensagens movendo-as para cima ou para baixo.';
 
-$Definition['No unconfirmed role available for email confirmation.'] = 'O site precisa de uma função com o tipo padrão "não confirmado" para usar a confirmação de e-mail. Adicione um para ativar essa configuração.';
+$Definition['Need More Help?'] = 'Precisando de mais ajuda?';
 $Definition['Notify me when people comment on my addons.'] = 'Notifique-me quando pessoas comentarem em meus complementos.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'O site precisa de uma função com o tipo padrão "não confirmado" para usar a confirmação de e-mail. Adicione um para ativar essa configuração.';
+
+$Definition['OrgDescription'] = 'O nome da sua organização é usado para microdados de SEO e JSON+LD';
 
 $Definition['Please choose an authenticator to configure.'] = 'Por favor, selecione um autenticador para configurar.';
 $Definition['PluginHelp'] = 'Complementos permitem que você adicione novas funcionalidades ao seu fórum.<br />Uma vez adicionados à pasta %s, você poderá habilitá-los ou desabilitá-los aqui.';
@@ -114,6 +118,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Aviso: é boa prática suportar o 
 $Definition['Select the import source'] = 'Selecione a fonte de importação';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Não foi possível desserializar a coluna serializada "%s". ';
 $Definition['Show all possible pocket locations.'] = 'Ative esta opção para exibir todas as posições de pockets. As posições somente serão exibidas para membros que podem gerenciar pockets.';
+$Definition['Specify a partial or full match when creating a ban.'] = 'Ao criar uma proibição, especifique uma correspondência total ou parcial.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Dedique um pouco de tempo a pensar sobre como descreve o seu site aqui. Dar ao seu site um título significativo e uma descrição concisa, poderá ajudar a posicioná-lo melhor nos motores de busca.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Dê mais realce aos seus e-mails, adicionando um logótipo e personalizando as cores.';
 $Definition['Start Import'] = 'Começar Importação';
@@ -157,10 +162,10 @@ $Definition['Video tutorial on managing categories'] = 'Tutorial em vídeo sobre
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'Tutorial em vídeo sobre gerenciamente de cargos &amp; permissões';
 $Definition['Video tutorial on user registration'] = 'Tutorial em vídeo de registro de usuário.';
 
-$Definition['Warning: Loading tables can be slow.'] = '<b>Aviso</b>: A sua configuração de servidor não permite o carregamento rápido dos dados.
-Se estiver a importar um ficheiro muito grande (por ex. com mais de 200.000 comentários) poderá querer ponderar a hipótese de alterar as suas configurações. Clique <a href="http://vanillaforums.com/porter">aqui</a> para obter mais informações.';
 $Definition['Warning: This is for advanced users.'] = '<b>Aviso</b>: Esta função destina-se a utilizadores avançados e exige que faça alterações adicionais no seu servidor web. Normalmente, só se encontra disponível se tiver um hosting vps ou dedicado. Não tente fazer isto se não souber o que está a fazer.';
 
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Pode proibir todos os utilizadores com endereços de IP com o prefixo "111.111.111", adicionando uma proibição, associada ao IP, com o valor "111.111.111.*".';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Pode proibir endereços de IP, endereços de email e nomes de utilizadores.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Você pode se conectar a múltiplos sites que suportam o jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Se o seu ficheiro for demasiado grande para carregar diretamente nesta página, pode colocá-lo na sua pasta de carregamentos. Assegure-se de que o nome do ficheiro começa com a palavra <b>export</b> e que acaba com <b>.txt, ou .gz</b>.';
 $Definition['You must select a file to import.'] = 'Você precisa selecionar um arquivo para importar.';

@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Nome carattere";
 $Definition["Invalid URL"] = "URL non valido";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Puoi caricare un carattere personalizzato nel tuo sistema Theming. Basta copiare e incollare l'URL nel campo.";
 $Definition["You can configure some values differently for different screensizes."] = "È possibile configurare alcuni valori in modo diverso per schermate diverse.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Devi aggiungere il dominio dell&#39;URL del carattere a &lt;0&gt; DisabledDomains </0> , nella configurazione del sito. &lt;1&gt; Ulteriori informazioni sui caratteri personalizzati. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Devi aggiungere il dominio dell&#39;URL del carattere a <0> DisabledDomains</0>, nella configurazione del sito. <1>Ulteriori informazioni sui caratteri personalizzati</1>.";
 
 $Definition["Primary Buttons"] = "Pulsanti principali";
 $Definition["Secondary Buttons"] = "Pulsanti secondari";

@@ -1,7 +1,7 @@
 <?php
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s קיבל את ההזמנה של %4$s לחברות';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s שינה%4$ss הרשאות';
-$Definition['%1$s changed %6$s profile picture.'] = '%1$s שינה %1$s תמונת פרופיל';
+$Definition['%1$s changed %6$s profile picture.'] = '%1$s שינה %6$s תמונת פרופיל';
 $Definition['%1$s commented on %4$s %8$s.'] = '%1$s הגיב על %4$ss %8$ss';
 $Definition['%1$s created an account for %4$s.'] = '%1$s יצר חשבון ל %4$ss';
 $Definition['%1$s joined.'] = '%1$s הצטרף';
@@ -161,9 +161,9 @@ $Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s שלח לך %8$
 $Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s שלח לך %8$s';
 $Definition['Activity.Join.FullHeadline'] = '%1$s הצטרף';
 $Definition['Activity.Join.ProfileHeadline'] = '%1$s הצטרף';
-$Definition['Activity.PictureChange.FullHeadline'] = '%1$s שינה %1$s תמונת פרופיל';
-$Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s שינה %1$s תמונת פרופיל';
-$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s ענה %1$s %1$s';
+$Definition['Activity.PictureChange.FullHeadline'] = '%1$s שינה %6$s תמונת פרופיל';
+$Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s שינה %6$s תמונת פרופיל';
+$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s ענה %4$s%8$s';
 $Definition['Activity List'] = 'רשימת פעילות';
 $Definition['Add'] = 'הוסף';
 $Definition['Add %s'] = 'הוסף את %s';
@@ -573,10 +573,10 @@ $Definition['EmailNotification'] = '%1$s
 יום נפלא!';
 $Definition['Email Notifications'] = 'דואר אלקטרוני והודעות ';
 $Definition['Email Or Username'] = 'דוא"ל או שם משתמש';
-$Definition['EmailPassword'] = '%2$s יש לאפס את הסיסמה שלך ב %3$s . אישורי הכניסה שלך נמצאים כעת: ⏎
-⏎
-   דוא"ל: %6$s ⏎
-   סיסמה:%5$s ⏎
+$Definition['EmailPassword'] = '%2$s יש לאפס את הסיסמה שלך ב %3$s . אישורי הכניסה שלך נמצאים כעת: 
+
+   דוא"ל: %6$s 
+   סיסמה:%5$s 
    כתובת:%4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'מייל נשלח מיישום יטופלו משם את הכתובת הבאה ו ';
 $Definition['Email Source'] = 'דוא"ל';
@@ -775,7 +775,7 @@ $Definition['Howdy, Stranger!'] = 'שלום, אורח!';
 $Definition['How long do you want this warning to last?'] = 'כמה זמן אתה רוצה שההזהרה הזאת תימשך?';
 $Definition['How many levels deep should we start folding up quote trees?'] = 'אחרי כמה רמות תרצה שנתחיל לקפל ציטוטים?';
 
-$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'אני מסכים לתנאי השירות ‪‬במונחים של שירות';
+$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'אני מסכים <a id="TermsOfService" class="Popup" target="terms" href="%s">לתנאי השירות</a>';
 $Definition['Icon'] = 'אייקון';
 $Definition["Icon for: "] = "אייקון עבור:";
 $Definition['I confirm that I have received consent to join this community.'] = 'כיוון שאני בן/בת פחות מ-%d, אני מאשר/ת שקיבלתי רשות להצטרף לקהילה זו.';
@@ -877,7 +877,7 @@ $Definition["Last Updated: <0/>"] = "עודכן לאחרונה: <0/>";
 $Definition['Latest %1$s'] = '%1$s אחרון';
 $Definition['Latest Post'] = 'פוסט אחרון';
 $Definition['Leaders'] = 'מובילים';
-$Definition['Learn more about %s'] = 'למד עוד על s%';
+$Definition['Learn more about %s'] = 'למד עוד על %s';
 $Definition['Leave %s'] = 'עזוב את %s';
 $Definition['Leave a Comment'] = 'השאר תגובה';
 $Definition['Leave a comment'] = 'השאר תגובה';
@@ -1296,7 +1296,7 @@ $Definition['Remember me on this computer'] = 'תזכור אותי על המחש
 $Definition['Remember your password?'] = 'זוכר את הסיסמה שלך?';
 $Definition['Remote Configuration'] = 'תצורה מרחוק';
 $Definition['Remove'] = 'הסר';
-$Definition['Remove %s'] = 'הסר s% ';
+$Definition['Remove %s'] = 'הסר %s ';
 $Definition['Removed by'] = 'הוסר על ידי';
 $Definition['Remove file'] = 'הסר קובץ';
 $Definition['Remove from %s'] = 'הסר מ %s';
@@ -1330,7 +1330,7 @@ $Definition['Restored'] = 'אוחזר';
 $Definition['Restore deleted content.'] = 'שחזר תוכן שנמחק.';
 $Definition['Result(s) <0/> to <1/> of <2/>'] = 'תוצאות 0/> עד <1/> מתוך<2/>';
 $Definition['Search for: "%s"'] = 'חיפוש:  "%s"';
-$Definition['Return to %s'] = 'חוזר ל-s%';
+$Definition['Return to %s'] = 'חוזר ל-%s';
 $Definition['Reveal'] = 'גילוי';
 $Definition['reverse'] = 'בטל';
 $Definition["Revision"] = "תיקון";
@@ -1477,7 +1477,7 @@ $Definition['Started by %1$s'] = 'על ידי %1$s';
 $Definition['Start your First Discussion'] = 'התחל את הדיון הראשון שלך';
 $Definition['Status'] = 'סטאטוס נוכחי';
 $Definition['status'] = 'סטטוס';
-$Definition['Status: %s'] = 'סטטוס: s%';
+$Definition['Status: %s'] = 'סטטוס: %s';
 $Definition['Statuses'] = 'סטטוסים';
 $Definition['statuses'] = 'סטטוסים';
 $Definition['Stop following'] = 'הפסק לעקוב';
@@ -1581,7 +1581,7 @@ $Definition['This category does not have any events.'] = 'אין אירועים 
 $Definition['This discussion has been closed.'] = 'הדיון הזה נסגר.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'הדיון הזה קשור למקור תוכן זר לא מוגדר';
 $Definition['This discussion was created from comments split from: %s.'] = 'הדיון הזה מוזג לתוך %s.';
-$Definition['This discussion was merged into %s'] = 'דיון זה מוזגה לתוךs%';
+$Definition['This discussion was merged into %s'] = 'דיון זה מוזגה לתוך %s';
 $Definition['This field partially supports HTML.'] = 'שדה זה תומך חלקית ב- HTML.';
 $Definition['This image has been inserted into the body of text.'] = 'תמונה זו שובצה בגוף הטקסט.';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'הגודל של התמונה הזאת שונה כדי להתאים לעמוד. לחץ להגדיל.';
@@ -1704,7 +1704,7 @@ $Definition['ValidateEnum'] = '%s לא תקף';
 $Definition['ValidateFormat'] = 'אתה לא רשאי לפרסם html גולמי';
 $Definition['ValidateInteger'] = '\'%s הוא לא מספר שלם תקף';
 $Definition['ValidateIntegerArray'] = '\'%s חייבת להיות רשימת מספרים מופרדת בפסיקים';
-$Definition['ValidateLength'] = '%s הוא %2$s$s תיבות ארוך מדי';
+$Definition['ValidateLength'] = '%1$s הוא %2$s$s תיבות ארוך מדי';
 $Definition['ValidateMatch'] = 'שדות ה %s לא תואמות';
 $Definition['ValidateMinimumAge'] = 'אתה לא מבוגר מספיק בכדי להצטרך לקהילה';
 $Definition['ValidateMinLength'] = '%1$s is %2$s תו(ים) קצר(ים) מדי.';
@@ -1751,7 +1751,7 @@ $Definition['Vote (action)'] = 'הצבע';
 $Definition['Vote Down'] = 'הצבע למטה';
 $Definition['Votes'] = 'הצבעות';
 $Definition['Vote Up'] = 'הצבע למעלה';
-$Definition['Voting for the idea is %s.'] = 'ההצבעה על בחירת הרעיון היא % s.';
+$Definition['Voting for the idea is %s.'] = 'ההצבעה על בחירת הרעיון היא %s.';
 
 $Definition['wall'] = 'קיר';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'רוצה להשתתף הדיון הזה? לחץ על אחד מאלה';
@@ -1853,7 +1853,7 @@ $Definition['You are not allowed to warn a user with higher permissions than you
     'אינך רשאי/ת להזהיר משתמש עם הרשאות גבוהות משלך.';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] =
     'אינך רשאי/ת להזהיר משתמש עם אותה רמת הרשאה כמוך.';
-$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'אתה עכשיו משאיר 1% דולרים. הקש על הקישור על מנת להמשיך ל-2% דולרים.';
+$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'אתה עכשיו משאיר %1$s דולרים. הקש על הקישור על מנת להמשיך ל-%2$s דולרים.';
 $Definition['You are now signed in.'] = 'אתה כעת מחובר לפורום.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'מותר לך רק {maxImages,plural,%s תמונה,%s תמונות}. ';
 $Definition['You are prohibited from using the ignore feature.'] = 'נאסר עליך להשתמש באפשרות ההתעלמות.';
