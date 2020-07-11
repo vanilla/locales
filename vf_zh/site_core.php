@@ -254,7 +254,7 @@ $Definition["Are you sure you want to delete this image? You won't be able to re
 $Definition['Are you sure you want to delete this %s?'] = '确认您想要删除%s？';
 $Definition['Are you sure you want to do that?'] = '确定执行该操作？';
 $Definition['Are you sure you want to do this?'] = '确认要这么做？';
-$Definition['Are you sure you want to ignore <b>%s</b>?'] = '确实要忽略 <b>%</b> 吗？';
+$Definition['Are you sure you want to ignore <b>%s</b>?'] = '确实要忽略 <b>%s</b> 吗？';
 $Definition['Are you sure you want to join this group?'] = '您确信要加入这个群吗？';
 $Definition['Are you sure you want to leave this conversation?'] = '您确定要离开此对话？';
 $Definition['Are you sure you want to leave this group?'] = '您确信要离开这个群吗？';
