@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Перевірте наш %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla - найпростіша, найпотужніша платформа для спільноти у світі. Вона супер-пупер проста у використанні. Почніть з цього вступного відео та рухайтесь кроками нижче. Насолоджуйтесь!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Виберіть роль, якій буде призначено користувачам без ролі:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Виберіть тему для цієї спільноти. &lt;0&gt; Детальніше </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Виберіть тему для цієї спільноти. <0> Детальніше </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Виберіть, як обробляти весь вміст, пов’язаний з обліковим записом користувача для %s (коментарів, повідомлення тощо).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Ви можете вибрати власниц алгоритм хешування для підписання запитів. Алгоритм хешу також повинен використовуватися у вашій бібліотеці клієнтів. Виберіть md5, якщо ви не впевнені, що вибрати.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Виберіть бажаний макет для списків категорій.';
@@ -141,7 +141,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Будь-ласка, виберіть аутентикатор для налаштування.';
 $Definition['PluginHelp'] = 'Плагіни дозволяють розширити функціональність вашого сайту.<br />Як тільки плагін буде доданий у %sпапку, ви можете включити або виключити його тут.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket відображається між кожним обговоренням в головному списку обговорень. Оскільки обговорення, як правило, містяться в тегах &lt;li&gt;..&lt;/li&gt; тому вам потрібно також загорнути pocket в ці теги.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket відображається між кожним обговоренням в головному списку обговорень. Оскільки обговорення, як правило, містяться в тегах <li>..</li> тому вам потрібно також загорнути pocket в ці теги.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket`и дозволяють додавати HTML у вільній формі в різних місцях вашого сайту.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Запобігайте спаму на вашому форумі, обмежуючи кількість обговорень та коментарів, які користувачі можуть створювати (публікувати) протягом заданого проміжку часу.';
 
@@ -154,12 +154,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'Хороша ідея мати спеціальні звання для модераторів та адміністраторів, щоб ваша громада змогла легко бачити, хто відповідає.';
 $Definition['Recommend starting with five ranks.'] =
     'Ви не хочете мати занадто багато рангів. Ми рекомендуємо починати з п’яти. Ви можете додати більше, якщо ваша спільнота дійсно велика.';
-$Definition['Requires “Flag” reaction permission.'] = 'Потрібен дозвіл на реакцію &quot;Позначити&quot;.';
-$Definition['Requires “Negative” reaction permission.'] = 'Потрібен дозвіл &quot;негативної&quot; реакції.';
-$Definition['Requires “Positive” reaction permission.'] = 'Потрібен дозвіл &quot;позитивної&quot; реакції.';
+$Definition['Requires “Flag” reaction permission.'] = 'Потрібен дозвіл на реакцію "Позначити".';
+$Definition['Requires “Negative” reaction permission.'] = 'Потрібен дозвіл "негативної" реакції.';
+$Definition['Requires “Positive” reaction permission.'] = 'Потрібен дозвіл "позитивної" реакції.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Після відновлення елементи вилучаються із цього списку та повертаються на сайт.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Використовуйте наступний варіант, щоб увімкнути котирування для редактора Rich. Це застосовується лише в тому випадку, якщо формат за замовчуванням &quot;Rich&quot;.';
+    'Використовуйте наступний варіант, щоб увімкнути котирування для редактора Rich. Це застосовується лише в тому випадку, якщо формат за замовчуванням "Rich".';
 $Definition['Route Expression'] = 'Назва маршруту';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 
@@ -277,8 +277,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Ласкаво просимо до вашої теми";
-$Definition["This is a style guide of your theme."] = "Це стильний посібник вашої теми. У ній є приклади візуальних елементів, які використовуються протягом програми. Ви можете натиснути на різні віджети, такі як &lt;0&gt; заголовка </0> або &lt;1&gt; Банер </1> щоб змінити їх властивості на бічній панелі.";
-$Definition["In additon to the widgets there are also"] = "Крім того, до віджетів також є &lt;0&gt; глобальні стилі </0> . Для редагування глобальних стилів клацніть будь-де на сторінці, наприклад, цей текст.";
+$Definition["This is a style guide of your theme."] = "Це стильний посібник вашої теми. У ній є приклади візуальних елементів, які використовуються протягом програми. Ви можете натиснути на різні віджети, такі як <0> заголовка </0> або <1> Банер </1> щоб змінити їх властивості на бічній панелі.";
+$Definition["In additon to the widgets there are also"] = "Крім того, до віджетів також є <0> глобальні стилі </0> . Для редагування глобальних стилів клацніть будь-де на сторінці, наприклад, цей текст.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "У додатку є два типи кнопок: первинна та вторинна.";
 $Definition["Primary Button"] = "Первинна кнопка";
 $Definition["Secondary Button"] = "Вторинна кнопка";
@@ -304,7 +304,7 @@ $Definition["Font Name"] = "Назва шрифту";
 $Definition["Invalid URL"] = "Недійсна URL-адреса";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Ви можете завантажити спеціальний шрифт у свою тематичну систему. Просто скопіюйте та вставте URL-адресу в поле.";
 $Definition["You can configure some values differently for different screensizes."] = "Ви можете налаштувати деякі значення по-різному для різних екранів.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Потрібно додати домен URL-адреси шрифту до &lt;0&gt; Дозволених доменів </0> , в конфігурації сайту. &lt;1&gt; Докладніше про спеціальні шрифти. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Потрібно додати домен URL-адреси шрифту до <0> Дозволених доменів </0> , в конфігурації сайту. <1> Докладніше про спеціальні шрифти. </1> .";
 
 $Definition["Primary Buttons"] = "Первинні кнопки";
 $Definition["Secondary Buttons"] = "Вторинні кнопки";
