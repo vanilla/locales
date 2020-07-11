@@ -123,14 +123,14 @@ $Definition[' - Page %s'] = '- Pagina %s';
 $Definition['1 message'] = '1 mesaj';
 
 $Definition['<General Error>'] = '<Eroare Generala>';
-$Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$ s</strong> (%2$ s) %3$ s';
+$Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
 $Definition["<0/>-<1/> of <2/>"] = "<0/>-<1/> din <2/>";
 $Definition["<0/> by <1/>"] = "<0/> de <1/>";
 $Definition["<0/> message"] = "<0/> mesaj";
 $Definition["<0/> messages"] = "<0/> mesaje";
 $Definition["<0/> - Events"] = "<0/> - Evenimente";
 
-$Definition['[%1$s] %2$s'] = '[%1$ s] %2$ s';
+$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
 $Definition['[%1$s] Membership Approved'] = '[%1$s] Cererea de membru aprobată!';
 $Definition['[%s] Welcome Aboard!'] = '[%s] Bun Venit!';
 $Definition['[Deleted User]'] = '[Utilizator șters]';
