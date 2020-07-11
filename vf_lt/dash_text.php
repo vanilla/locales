@@ -19,6 +19,7 @@ $Definition['Locales allow you to support other languages on your site.'] = 'Vie
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 
+$Definition['Need More Help?'] = 'Reikia daugiau pagalbos?';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Tinklapiui reikia rolės nepatvirtintiems nariams, kad galėtum naudoti el. pašto patvirtinimą. Sukurkite rolė, kad įjungtum šią funkciją';
 
 $Definition['Routes are used to redirect users.'] = 'Keliai naudojami lankytojų nukreipimui atitinkamai pagal nurodytas tinklo vietas.';
