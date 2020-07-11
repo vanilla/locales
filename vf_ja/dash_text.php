@@ -40,6 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = '当社の%sをチェックしてください';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanillaは、世界で最もシンプルで、最も強力なコミュニティ プラットフォームです。使用方法は非常に簡単です。この入門ビデオから始め、以下の手順に従って進めてください。頑張ってください。';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '孤立したユーザーに割り当てられるロールを選択します。';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'このサブコミュニティのテーマを選択してください。 &lt;0&gt;続きを読む</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '%sのユーザー アカウントに関連したすべてのコンテンツ（コメントやメッセージなど）の処理方法を選択します。';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'リクエストに署名する際のカスタム ハッシュ アルゴリズムを選択できます。ハッシュ アルゴリズムは、クライアント ライブラリでも使用されます。どれを選択すればよいかわからない場合は、md5を選択します。';
 $Definition['Choose the preferred layout for lists of categories.'] = 'カテゴリーのリスト用に優先レイアウトを選択します。';
@@ -260,6 +261,17 @@ $Definition['You must select a file to import.'] = 'インポートするファ�
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "モバイルテーマは無効になります。異なるモバイルテーマとデスクトップテーマを設定するには、古いテーマUIを使用します。";
+$Definition["Heads Up!"] = "注意喚起！";
+$Definition["Welcome to Vanilla's theming UI."] = "バニラのテーマUIへようこそ。このページには、使用可能なすべてのテーマが一覧表示され、それらをコピーまたは編集できます。";
+$Definition["Some older themes don't support full editing capability."] = "古いテーマの中には、完全な編集機能をサポートしていないものがあります。テーマがサポートするものを確認するには、その名前にカーソルを合わせると、編集が有効になる場所を確認できます。";
+$Definition["Need More Help?"] = "参考情報";
+$Definition["Theming Guide"] = "テーマガイド";
+$Definition["Old Theming UI"] = "古いテーマUI";
+$Definition["If you have an old theme"] = "古いテーマがあり、デスクトップとモバイルのテーマを個別に設定する必要がある場合は、古いテーマのUIで設定できます。";
+$Definition["Edits to this theme apply to:"] = "このテーマの編集は以下に適用されます：";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'テンプレートは標準テーマです。テンプレートをカスタマイズするには、コピーを作成する必要があります。';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'カスタムテーマは、あなたが作成したテーマです。カスタムテーマの編集、名前変更、またはコピー作成を行うことができます。';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "このテーマは現在適用されているテーマであるため、削除できません。";
@@ -289,6 +301,12 @@ $Definition["Background"] = "背景";
 $Definition["Links"] = "リンク";
 $Definition["Font"] = "フォント";
 $Definition["Border Radius"] = "枠線の角丸";
+$Definition["Font URL"] = "フォントURL";
+$Definition["Font Name"] = "フォント名";
+$Definition["Invalid URL"] = "無効なURL";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "テーマシステムにカスタムフォントをアップロードできます。 URLをコピーしてフィールドに貼り付けるだけです。";
+$Definition["You can configure some values differently for different screensizes."] = "画面サイズごとに異なる値を設定できます。";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "フォントURLのドメインを&lt;0&gt; AllowedDomainsに追加する必要があります</0> 、サイトの構成。 &lt;1&gt;カスタムフォントの詳細。 </1> 。";
 
 $Definition["Primary Buttons"] = "一次ボタン";
 $Definition["Secondary Buttons"] = "二次ボタン";
