@@ -36,7 +36,7 @@ $Definition['15 minutes'] = '15 minutes';
 
 $Definition['[%s] Confirm Your Email Address'] = ' %s Confirmer votre adresse email ';
 $Definition['[%s] Invitation'] = '[%s] Invitation';
-$Definition['[%s] Password Reset'] = 'Réinitialisation du mot de passe';
+$Definition['[%s] Password Reset'] = '[%s] Réinitialisation du mot de passe';
 $Definition['[%s] Password Reset Request'] = '[%s] Demande de renouvellement de mot de passe.';
 
 $Definition['a Badge'] = 'un Badge';
