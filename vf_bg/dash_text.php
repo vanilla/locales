@@ -5,7 +5,7 @@ $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not 
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Глави нагоре!</strong> Преминаването на дискусии в категория за заместване може да доведе до изчезване (или появяване) на дискусии, ако категорията за заместване има различни разрешения от категорията, която се изтрива.';
 
 $Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'За използване на потвърждение по имейл е необходима роля с тип по подразбиране „непотвърдена“.';
-$Definition['About.DisableStatistics'] = 'Ако трябва да деактивирате отчитането на тези данни по някаква бизнес причина, можете да го направите, като добавите следния ред към конфигурационния файл на вашата инсталация: <code>$Configuration[&#39;Garden&#39;][&#39;Analytics&#39;][&#39;Enabled&#39;] = FALSE;</code>';
+$Definition['About.DisableStatistics'] = 'Ако трябва да деактивирате отчитането на тези данни по някаква бизнес причина, можете да го направите, като добавите следния ред към конфигурационния файл на вашата инсталация: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Жизнено важно е за живота на този безплатен софтуер с отворен код, който точно измерваме обхвата и ефективността на Vanilla. Молим Ви да не деактивирате отчитането на тези данни.';
 $Definition['AboutCommentEmbedding'] = 'Ванилията може да се използва като заместващо меню за родната система за коментиране на вашия блог. Всъщност може да се използва за добавяне на коментари към всяка страница в мрежата.';
 $Definition['AboutEmbedding'] = 'Вграждането позволява цялата или част от вашата общност да бъде вградена в други приложения и уеб страници.';
@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Вижте нашите %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla е най-простата, най-мощната платформа на общността в света. Супер дупер лесен за използване. Започнете с този уводен видеоклип и продължете със стъпките по-долу. Наслади се!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Изберете роля, на която ще бъдат възложени осиротели потребители:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Изберете тема за тази подкомисия. &lt;0&gt; Прочетете повече </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Изберете тема за тази подкомисия. <0> Прочетете повече </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Изберете как да боравите с цялото съдържание, свързано с потребителския акаунт за %s (коментари, съобщения и т.н.).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Можете да изберете алгоритъм за персонализиран хеш, за да подпишете вашите заявки. Алгоритъмът на хеш трябва да се използва и във вашата клиентска библиотека. Изберете md5, ако не сте сигурни какво да изберете.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Изберете предпочитаното оформление за списъци с категории.';
@@ -130,7 +130,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Вложени категории по-дълбоки от тази дълбочина ще бъдат поставени в списък с ограничена запетая.';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Сайтът се нуждае от роля с тип по подразбиране &quot;непотвърден&quot;, за да използва потвърждение по имейл. Моля, добавете такъв, за да активирате тази настройка.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Сайтът се нуждае от роля с тип по подразбиране "непотвърден", за да използва потвърждение по имейл. Моля, добавете такъв, за да активирате тази настройка.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Не получавате това, което очаквате, когато визуализирате темата си?';
 $Definition['Notify me when people comment on my addons.'] = 'Уведомете ме, когато хората коментират моите добавки.';
 
@@ -141,7 +141,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Моля, изберете автентификатор за конфигуриране.';
 $Definition['PluginHelp'] = 'Приставките ви позволяват да добавяте функционалност към вашия сайт. <br /> След като плъгин е добавен към вашата папка %s, можете да го активирате или деактивирате тук.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Джобът се показва между всяка дискусия в основния списък с дискусии. Тъй като обсъжданията обикновено са в &lt;li&gt; .. &lt;/li&gt; таговете, ще трябва да увиете джоба си и в тези маркери.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Джобът се показва между всяка дискусия в основния списък с дискусии. Тъй като обсъжданията обикновено са в <li> .. </li> таговете, ще трябва да увиете джоба си и в тези маркери.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Джобовете ви позволяват да добавяте HTML в свободна форма на различни места около приложението.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Предотвратете спама във вашия форум, като ограничите броя на дискусиите и коментарите, които потребителите могат да публикуват в рамките на определен период от време.';
 
@@ -159,7 +159,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'Изисква р
 $Definition['Requires “Positive” reaction permission.'] = 'Изисква разрешение за реакция „положителна“.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Когато възстановите, елементите се премахват от този списък и се връщат обратно в сайта.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Използвайте следната опция, за да активирате кавички за Rich Editor. Това ще се прилага само ако форматът по подразбиране е &quot;Rich&quot;.';
+    'Използвайте следната опция, за да активирате кавички за Rich Editor. Това ще се прилага само ако форматът по подразбиране е "Rich".';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Маршрутите се използват за пренасочване на потребители в зависимост от искания URL адрес.';
 
@@ -170,7 +170,7 @@ $Definition['Security.Hsts.MaxAgeRecommendation'] = 'Препоръчваме д
 $Definition['Security.Hsts.SubmitWarning'] = 'Предупреждение: Страхотно е да се поддържа HSTS предварително зареждане като най-добра практика. Трябва обаче да изпратите вашия сайт на hstspreload.org, за да се уверите, че той е предварително предварително зареден (т.е. за да получите пълната защита за предвидената конфигурация).';
 $Definition['Select the default type for this role, if any.'] = 'Изберете типа по подразбиране за тази роля, ако има такава.';
 $Definition['Select the import source'] = 'Изберете източника на импортиране';
-$Definition['Serialized column "%s" failed to be unserialized.'] = 'Сериализираната колона &quot;%s&quot; не успя да бъде несериализирана.';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'Сериализираната колона "%s" не успя да бъде несериализирана.';
 $Definition['ShareImageDescription'] =
     'Когато някой сподели връзка от вашия сайт, ние се опитваме да вземем изображение от страницата. Ако няма изображение на страницата, тогава ще използваме това изображение вместо това. Изображението трябва да е поне 50 × 50, но препоръчваме 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Включете тази опция, за да покажете всички възможни местоположения на джоба. Включването на тази опция ще показва само местоположенията на потребителите, които могат да управляват джобовете.';
@@ -247,7 +247,7 @@ $Definition['When enabled, you can manage products, and group subcommunities by 
 $Definition['Which reactions you use really depends on your community.'] =
     'Кои реакции използвате наистина зависи от вашата общност, но препоръчваме да имате предвид няколко точки.';
 
-$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Можете да забраните на всички потребители с IP адреси с префикс &quot;111.111.111&quot;, като добавите забрана от тип IP със стойността &quot;111.111.111. *&quot;.';
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Можете да забраните на всички потребители с IP адреси с префикс "111.111.111", като добавите забрана от тип IP със стойността "111.111.111. *".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Можете да забраните IP адреси, имейл адреси и потребителски имена.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'Можете да изберете един от различните стилове, които тази тема предлага.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Можете да се свържете с множество сайтове, които поддържат jsConnect.';
@@ -277,8 +277,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Добре дошли във вашата тема";
-$Definition["This is a style guide of your theme."] = "Това е ръководство за стила на вашата тема. Той има примери за визуалните елементи, използвани в приложението. Можете да щракнете върху различните джаджи, като лентата за заглавия &lt;0&gt; </0> или &lt;1&gt; Банер </1> да редактирате техните свойства в страничния панел.";
-$Definition["In additon to the widgets there are also"] = "В допълнение към джаджите има и &lt;0&gt; глобални стилове </0> , За да редактирате глобални стилове, кликнете където и да е другаде на страницата, като този текст.";
+$Definition["This is a style guide of your theme."] = "Това е ръководство за стила на вашата тема. Той има примери за визуалните елементи, използвани в приложението. Можете да щракнете върху различните джаджи, като лентата за заглавия <0> </0> или <1> Банер </1> да редактирате техните свойства в страничния панел.";
+$Definition["In additon to the widgets there are also"] = "В допълнение към джаджите има и <0> глобални стилове </0> , За да редактирате глобални стилове, кликнете където и да е другаде на страницата, като този текст.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "В приложението има два типа бутони: първичен и вторичен.";
 $Definition["Primary Button"] = "Първичен бутон";
 $Definition["Secondary Button"] = "Вторичен бутон";
@@ -304,7 +304,7 @@ $Definition["Font Name"] = "Име на шрифта";
 $Definition["Invalid URL"] = "невалиден адрес";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Можете да качите персонализиран шрифт във вашата Theming System. Просто копирайте и поставете URL адреса в полето.";
 $Definition["You can configure some values differently for different screensizes."] = "Можете да конфигурирате някои стойности по различен начин за различни екрани.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Трябва да добавите домейна на URL адреса на шрифта в &lt;0&gt; AllowedDomains </0> , в конфигурацията на сайта. &lt;1&gt; Научете повече за персонализираните шрифтове. </1> ,";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Трябва да добавите домейна на URL адреса на шрифта в <0> AllowedDomains </0> , в конфигурацията на сайта. <1> Научете повече за персонализираните шрифтове. </1> ,";
 
 $Definition["Primary Buttons"] = "Първични бутони";
 $Definition["Secondary Buttons"] = "Вторични бутони";

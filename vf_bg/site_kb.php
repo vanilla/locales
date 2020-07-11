@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Ревизии на статията";
 $Definition["Article Three"] = "Трета статия ";
 $Definition["Article Two"] = "Статия две";
 $Definition["Articles"] = "Статии";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Свържете продукт с тази подкомисия. Използвайте &lt;0&gt; Управление на потребителския интерфейс на продуктите </0> за добавяне, редактиране или изтриване на продукти.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Свържете продукт с тази подкомисия. Използвайте <0> Управление на потребителския интерфейс на продуктите </0> за добавяне, редактиране или изтриване на продукти.";
 
 $Definition["Back to Home"] = "Обратно към начална страница";
 $Definition["Back to home page"] = "Назад към началната страница";
@@ -40,7 +40,7 @@ $Definition["category"] = "категория";
 $Definition["Category One"] = "Категория първа";
 $Definition["Category Options"] = "Опции за категорията";
 $Definition["Category Two"] = "Категория втора";
-$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Определени действия са деактивирани, тъй като са достъпни само в локалния източник: &lt;0 /&gt;";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Определени действия са деактивирани, тъй като са достъпни само в локалния източник: <0 />";
 $Definition["Certain actions are disabled because they are only avalaible in the source locale."] = "Определени действия са деактивирани, защото са достъпни само в локалния източник.";
 $Definition["Choose"] = "Избор";
 $Definition["Choose a location for this page."] = "Изберете местоположение за тази страница.";
@@ -158,7 +158,7 @@ $Definition["This article hasn't been translated yet. The original article text 
 $Definition['This article is not translated yet or it is out of date.'] = 'Тази статия все още не е преведена или е остаряла.';
 $Definition['The article this draft is based on is no longer available.'] = 'Статията, на която се основава черновата, вече не е достъпна.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ширината на централната колона на основната подредба в пиксели.';
-$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Тази статия е редактирана в неговия локален източник на &lt;0 /&gt;. Редактирайте тази статия, за да актуализирате нейния превод и изчистете това съобщение.';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Тази статия е редактирана в неговия локален източник на <0 />. Редактирайте тази статия, за да актуализирате нейния превод и изчистете това съобщение.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Тази статия е редактирана в неговия източник. Редактирайте тази статия, за да актуализирате нейния превод и изчистете това съобщение.';
 
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Това е деструктивно действие. Няма да можете да възстановите черновата си.";
