@@ -10,13 +10,13 @@ $Definition['%1$s on %2$s'] = '%1$s ב %2$s';
 $Definition['%1$s signed in.'] = '%1$s התחבר';
 $Definition['%1$s to %2$s'] = '%1$s ל %2$s$s';
 $Definition['%1$s to %2$s of %3$s'] = '%1$s אל%2$s  s של %3$s';
-$Definition['%1$s updated %6$s profile.'] = '%1$s עדכן את הפרופיל של %6s';
+$Definition['%1$s updated %6$s profile.'] = '%1$s עדכן את הפרופיל של %6$s';
 $Definition['%1$s was added to the %2$s %3$s.'] = '%1$s הוסף ל %2$s %3$s';
 $Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s הוסר מה %2$s %3$s';
 $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s הוסר מה %2$s %3$s וצורף ל %4$s %5$s';
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s כתב על %4$s %5$s';
-$Definition['%3$s approved %2$s membership application.'] = '%1$s אישר את בקשת החברות של %1$s';
-$Definition['%3$s created an account for %1$s.'] = '%1$s יצר חשבון ל %1$s';
+$Definition['%3$s approved %2$s membership application.'] = '%3$s אישר את בקשת החברות של %2$s';
+$Definition['%3$s created an account for %1$s.'] = '%3$s יצר חשבון ל %1$s';
 $Definition['%s$1 to %s$2'] = '%1$s ל %1$s';
 $Definition['%s$1 to %s$2 of %s$3'] = '%1$s ל %1$s של %1$s';
 $Definition['%s (Current)'] = '%s (עכשוי)';
@@ -103,12 +103,12 @@ $Definition['%s votes'] = '%s הצבעות';
 $Definition['%s was removed from the %s and added to the %s'] = '%s הוסר מה %s וצורף ל %s';
 $Definition['%s week'] = '%s שבוע';
 $Definition['%s weeks'] = '%s שבועות';
-$Definition['%s WTFs'] = 'WTFs';
+$Definition['%s WTFs'] = '%s WTFs';
 $Definition['%s year'] = '%s שנה';
 $Definition['%s years'] = '%s שנים';
 
-$Definition['&laquo; hide previous quotes'] = '&laquo; הסתר ציטוטים קודמים';
-$Definition['&raquo; show previous quotes'] = '&raquo; הראה ציטוטים קודמים';
+$Definition['&laquo; hide previous quotes'] = '« הסתר ציטוטים קודמים';
+$Definition['&raquo; show previous quotes'] = '» הראה ציטוטים קודמים';
 
 $Definition['(All)'] = '(הכל)';
 $Definition['(empty message)'] = '(הודעה ריקה)';
@@ -204,7 +204,7 @@ $Definition['All Bookmarks'] = 'כל הסימניות';
 $Definition['All Badges'] = 'כל התגים';
 $Definition['All Categories'] = 'כל הקטגוריות';
 $Definition['all categories'] = 'כל הקטגוריות';
-$Definition['All Content'] = ['All Content'];
+$Definition['All Content'] = 'כל התוכן';
 $Definition['All Conversations'] = 'כל השיחות';
 $Definition['All Discussions'] = 'כל הדיונים';
 $Definition['All discussions marked as viewed.'] = 'כל השיחות סומנו ככאלה שנצפו';
@@ -407,7 +407,7 @@ $Definition['Confirm Your Email Address'] = 'אמת את כתובת האימיי
 $Definition['Connect'] = 'חבר';
 $Definition['ConnectAccountExists'] = 'יש לך כבר חשבון כאן';
 $Definition['ConnectChooseName'] = 'בחר שם לזהות אותך באתר';
-$Definition['ConnectCreateAccount'] = 'הוסף מידע &amp; צור חשבון';
+$Definition['ConnectCreateAccount'] = 'הוסף מידע & צור חשבון';
 $Definition['Connected'] = 'מחובר';
 $Definition['Connected With: {ProviderName}'] = 'מחובר עם: {ProviderName}';
 $Definition['ConnectExistingPassword'] = 'הזן את הסיסמה של החשבון הקיים שלך.';
@@ -562,9 +562,9 @@ $Definition['EmailInvitation'] = 'שלום! ⏎
 ⏎
 %3$s
 ';
-$Definition['EmailMembershipApproved'] = 'שלום לך %1$s ⏎
-⏎
-אתה אושרו לחברות. היכנס עכשיו בקישור הבא: ⏎
+$Definition['EmailMembershipApproved'] = 'שלום לך %1$s
+
+אתה אושרו לחברות. היכנס עכשיו בקישור הבא: 
 
 %2$s';
 $Definition['EmailNotification'] = '%1$s
@@ -764,7 +764,7 @@ $Definition['her'] = 'היא';
 $Definition['Hide'] = 'החבא';
 $Definition['hide'] = 'הסתר';
 $Definition['Hide my online status from other members'] = 'אל תציג אותי מחובר לחברים אחרים';
-$Definition['Hide previous quotes'] = '&laquo; הסתר ציטוטים קודמים';
+$Definition['Hide previous quotes'] = '« הסתר ציטוטים קודמים';
 $Definition['Hide Results'] = 'הסתר תוצאות';
 $Definition['Hide signatures?'] = 'החבא חתימות?';
 $Definition['Hide signatures always'] = 'החבא חתימות תמיד';
@@ -1415,7 +1415,7 @@ $Definition['Share on Facebook'] = 'שתפ/י בפייסבוק';
 $Definition['she'] = 'היא';
 $Definition['show'] = 'הצג';
 $Definition['Shown only on mobile'] = 'הראה רק על הנייד';
-$Definition['Show previous quotes'] = '&raquo; הראה ציטוטים קודמים';
+$Definition['Show previous quotes'] = '» הראה ציטוטים קודמים';
 $Definition['Show popular tags'] = 'הצג תגיות פופולריות';
 $Definition['Show unfollowed categories'] = 'הראה קטגוריות לא נעקבות';
 $Definition['Sign-In URL'] = 'כתובת התחברות';
@@ -1813,7 +1813,7 @@ $Definition['Would you like to accept the invitation to join this group?'] = 'ה
 $Definition['Write a comment'] = 'כתוב תגובה';
 $Definition['Write Comment'] = 'כתוב תגובה';
 $Definition['Write something about yourself...'] = 'כתוב משהו על עצמך...';
-$Definition['WTF'] = 'מה לעזאזל?';
+$Definition['WTF'] = 'WTF';
 
 $Definition['Yes'] = 'כן';
 $Definition['You'] = 'אתה';
