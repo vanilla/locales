@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Tjek vores %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla er den enkleste og kraftigste fællesskabsplatform i verden. Det er super nemt at bruge. Start med introduktionsvideoen og fortsæt med trinene nedenfor. Nyd det!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Vælg en rolle som forældreløse brugere bliver tildelt:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Vælg et tema for dette underfællesskab. &lt;0&gt; Læs mere </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Vælg et tema for dette underfællesskab. <0> Læs mere </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Vælg hvordan indholdet (kommentarer, beskeder, etc.) for brugerkonto %s skal håndteres.';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Du kan vælge en tilpasset hash algoritme til at underskrive dine anmodninger. Hash algoritmen skal også bruges i dit klientbibliotek. Vælg md5 hvis du ikke ved hvad du skal vælge.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Vælg det foretrukne layout til lister over kategorier.';
@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Indtast et beskrivende navn for lomm
 $Definition['Enter a short name for the site.'] = 'Angiv et kort navn for siden. Dette vises på login knapperne.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Indtast adressen på din WordPress blog og vi klarer resten.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Indtast forbindelsesoplysningene for din Sphinx server nedenunder.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Hver eneste redigering og sletning bliver registreret her.  Brug &lsquo;Genskab&rsquo; for at fjerne ændringer.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Hver eneste redigering og sletning bliver registreret her.  Brug ‘Genskab’ for at fjerne ændringer.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Alle der registrerer sig i fællesskabet får en offentlig profilside hvor de kan uploade et billede af dem selv, rette deres profilindstillinger, og finde spændende ting der foregår i fællesskabet. Du bør <a href="{/profile,url}">rette din profil nu</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Hver bruger i dit forum har mindst en rolle. Roller bruges til at bestemme hvad brugeren har tilladelse til at gøre.';
 
@@ -142,7 +142,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Vælg venligst en måde at tillade login på.';
 $Definition['PluginHelp'] = 'Tilføjelser tillader dig at tilføje funktioner til dit forum.<br />Når en tilføjelse er blevet tilføjet til folderen %s, kan du aktivere og deaktivere det her.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Denne lomme vises mellem hvert indlæg i den primære liste af diskussioner. Eftersom diskussioner normal er omgivet af &lt;li&gt;..&lt;/li&gt; kode, så bør du også omgive dine lommer med sådan kode.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Denne lomme vises mellem hvert indlæg i den primære liste af diskussioner. Eftersom diskussioner normal er omgivet af <li>..</li> kode, så bør du også omgive dine lommer med sådan kode.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Lommer tillader dig at tilføje vilkårlig HTML kode rundt omkring i forumet.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Undgå spam i dit forum ved at begrænse antallet af indlæg og kommentarer som folk kan lave indenfor et givent tidsrum.';
 
@@ -155,12 +155,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'Det er en god ide at have særlige rækker for moderatorer og administratorer, så dit samfund nemt kan se, hvem der har ansvaret.';
 $Definition['Recommend starting with five ranks.'] =
     'Du vil ikke have for mange rækker. Vi anbefaler at starte med fem. Du kan tilføje mere, hvis dit samfund er rigtig stort.';
-$Definition['Requires “Flag” reaction permission.'] = 'Kræver &quot;Flag&quot; reaktionstilladelse.';
-$Definition['Requires “Negative” reaction permission.'] = 'Kræver &quot;negativ&quot; reaktionstilladelse.';
-$Definition['Requires “Positive” reaction permission.'] = 'Kræver &quot;positiv&quot; reaktionstilladelse.';
+$Definition['Requires “Flag” reaction permission.'] = 'Kræver "Flag" reaktionstilladelse.';
+$Definition['Requires “Negative” reaction permission.'] = 'Kræver "negativ" reaktionstilladelse.';
+$Definition['Requires “Positive” reaction permission.'] = 'Kræver "positiv" reaktionstilladelse.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Når du gendanner, fjernes elementerne fra denne liste og lægges ind på siden igen';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Brug følgende mulighed for at aktivere tilbud for Rich Editor. Dette gælder kun, hvis standardformatet er &quot;Rich&quot;.';
+    'Brug følgende mulighed for at aktivere tilbud for Rich Editor. Dette gælder kun, hvis standardformatet er "Rich".';
 $Definition['Route Expression'] = 'Udtryk for ruter';
 $Definition['Routes are used to redirect users.'] = 'Ruter bruges til at omdirigere brugere afhængigt af den URL der blev anmodt om.';
 
@@ -214,7 +214,7 @@ $Definition['They work just like regular themes. Once one has been added to the 
 $Definition['This is the administrative dashboard for your new community.'] = 'Dette er det administrative instrumentbræt for dit nye fællesskab. Tjek konfigurationsmulighederne ude i siden. Derfra kan du konfigurere hvordan dit fællesskab fungerer. <b>Som standard er det kun brugere med "Administrator" rollen der kan se denne del af dit fællesskab.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Denne indstilling viser/skjuler de placeringer som lommer kan være i men kun for brugere der har rettigheder til at tilføje/rette lommer. Prøv at vise placeringerne og besøg så din webside.';
 $Definition['This page lists the endpoints of your API.'] =
-    'Denne side viser slutpunkterne på din API. Klik på slutpunkter for at få flere oplysninger. Du kan foretage liveopkald til API&#39;en fra denne side eller eksternt ved hjælp af et adgangstoken.';
+    'Denne side viser slutpunkterne på din API. Klik på slutpunkter for at få flere oplysninger. Du kan foretage liveopkald til API\'en fra denne side eller eksternt ved hjælp af et adgangstoken.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
     'Denne rolle er personlig info. Kun brugere med tilladelse til at se personlige oplysninger vil se dem.';
 $Definition['This setting loads the page before executing Javascript.'] =
@@ -263,7 +263,7 @@ $Definition['You must select a file to import.'] = 'Du skal vælge en fil at imp
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Dit mobiltema deaktiveres. Hvis du vil indstille forskellige mobil- og desktop-temaer, skal du bruge det gamle tema-UI.";
 $Definition["Heads Up!"] = "Bemærk!";
-$Definition["Welcome to Vanilla's theming UI."] = "Velkommen til Vanilla&#39;s tema UI. Denne side viser alle dine tilgængelige temaer og giver dig mulighed for at kopiere eller redigere dem.";
+$Definition["Welcome to Vanilla's theming UI."] = "Velkommen til Vanilla's tema UI. Denne side viser alle dine tilgængelige temaer og giver dig mulighed for at kopiere eller redigere dem.";
 $Definition["Some older themes don't support full editing capability."] = "Nogle ældre temaer understøtter ikke fuld redigeringsevne. For at se, hvad et tema understøtter, kan du holde musepekeren over dets navn for at se, hvor redigeringer får virkning.";
 $Definition["Need More Help?"] = "Behov for mere hjælp?";
 $Definition["Theming Guide"] = "Temaguide";
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Velkommen til dit tema";
-$Definition["This is a style guide of your theme."] = "Dette er en stilguide til dit tema. Det har eksempler på de visuelle elementer, der bruges i hele applikationen. Du kan klikke på de forskellige widgets, f.eks. &lt;0&gt; Titellinje </0> eller &lt;1&gt; Banner </1> for at redigere deres egenskaber i sidepanelet.";
-$Definition["In additon to the widgets there are also"] = "Som supplement til widgets er der også &lt;0&gt; Global Styles </0> . Klik på et andet sted på siden for at redigere globale stilarter, f.eks. Denne tekst.";
+$Definition["This is a style guide of your theme."] = "Dette er en stilguide til dit tema. Det har eksempler på de visuelle elementer, der bruges i hele applikationen. Du kan klikke på de forskellige widgets, f.eks. <0> Titellinje </0> eller <1> Banner </1> for at redigere deres egenskaber i sidepanelet.";
+$Definition["In additon to the widgets there are also"] = "Som supplement til widgets er der også <0> Global Styles </0> . Klik på et andet sted på siden for at redigere globale stilarter, f.eks. Denne tekst.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Der er to typer knapper i applikationen: primær og sekundær.";
 $Definition["Primary Button"] = "Primær knap";
 $Definition["Secondary Button"] = "Sekundær knap";
@@ -287,7 +287,7 @@ $Definition["User inputs are based on the global background and text colors."] =
 
 // Section Headings
 $Definition["Global Styles"] = "Globale stilarter";
-$Definition["Buttons & Inputs"] = "Knapper &amp; indgange";
+$Definition["Buttons & Inputs"] = "Knapper & indgange";
 $Definition["Buttons"] = "Knapper";
 $Definition["Title Bar"] = "Titellinje";
 
@@ -303,9 +303,9 @@ $Definition["Border Radius"] = "Grænseradius";
 $Definition["Font URL"] = "Font-URL";
 $Definition["Font Name"] = "Skriftnavn";
 $Definition["Invalid URL"] = "ugyldig URL";
-$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan uploade en brugerdefineret skrifttype i dit temasystem. Bare kopiér og indsæt URL&#39;en i feltet.";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan uploade en brugerdefineret skrifttype i dit temasystem. Bare kopiér og indsæt URL'en i feltet.";
 $Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurere nogle værdier forskelligt for forskellige skærmbilleder.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du skal tilføje font url&#39;s domæne til &lt;0&gt; Tilladte domæner </0> , i stedets konfiguration. &lt;1&gt; Lær mere om brugerdefinerede skrifttyper. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du skal tilføje font url's domæne til <0> Tilladte domæner </0> , i stedets konfiguration. <1> Lær mere om brugerdefinerede skrifttyper. </1> .";
 
 $Definition["Primary Buttons"] = "Primære knapper";
 $Definition["Secondary Buttons"] = "Sekundære knapper";
