@@ -40,6 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Kolla in våra %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla är den enklaste och kraftfullaste community-plattformen i världen. Det är superenkelt att använda. Börja mer introduktionsvideon och fortsätt med stegen nedan. Håll till godo!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Välj en roll som okategoriserade användare tilldelas:';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Välj ett tema för den här underkommunen. &lt;0&gt; Läs mer </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Välj hur allt innehåll förknippat med användaren %s ska hanteras (kommentarer, meddelanden osv).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Du kan välja en egen hash-algoritm för att signera dina förfrågningar. Hash-algoritmen måste också användas i ditt klientbibliotek. Välj md5 om du inte är säker på vad du ska välja.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Välj önskad layout för listor med kategorier.';
@@ -261,6 +262,17 @@ $Definition['You must select a file to import.'] = 'Du måste välja en fil att 
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Ditt mobiltema kommer att inaktiveras. Om du vill ställa in olika mobila och stationära teman använder du det gamla teman UI.";
+$Definition["Heads Up!"] = "Hör upp!";
+$Definition["Welcome to Vanilla's theming UI."] = "Välkommen till Vanillas teman UI. Denna sida visar alla tillgängliga teman och låter dig kopiera eller redigera dem.";
+$Definition["Some older themes don't support full editing capability."] = "Vissa äldre teman stöder inte full redigeringsfunktion. För att se vad ett tema stöder kan du föra muspekaren över dess namn för att se var redigeringarna kommer att träda i kraft.";
+$Definition["Need More Help?"] = "Behöver du mer hjälp?";
+$Definition["Theming Guide"] = "Teman Guide";
+$Definition["Old Theming UI"] = "Old Theming UI";
+$Definition["If you have an old theme"] = "Om du har ett gammalt tema och behöver ställa in ett separat skrivbords- och mobiltema kan du göra det med den gamla UI-teman.";
+$Definition["Edits to this theme apply to:"] = "Redigeringar till detta tema gäller:";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Mallar är standardteman. För att anpassa dem måste du skapa en kopia.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Anpassade teman är teman som du har skapat. Du kan redigera, byta namn på eller kopiera dem.';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "Detta tema kan inte raderas eftersom det tillämpas för närvarande.";
@@ -290,6 +302,12 @@ $Definition["Background"] = "Bakgrund";
 $Definition["Links"] = "Länkar";
 $Definition["Font"] = "Font";
 $Definition["Border Radius"] = "Ramradie";
+$Definition["Font URL"] = "Font-URL";
+$Definition["Font Name"] = "Teckensnitt Namn";
+$Definition["Invalid URL"] = "Ogiltig URL";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan ladda upp ett anpassat teckensnitt i ditt temsystem. Kopiera och klistra in webbadressen i fältet.";
+$Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurera vissa värden på olika sätt för olika skärmbilder.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du måste lägga till teckensnittets url-domän till &lt;0&gt; Tillåtna domäner </0> , i webbplatsens konfiguration. &lt;1&gt; Läs mer om anpassade teckensnitt. </1> .";
 
 $Definition["Primary Buttons"] = "Primära knappar";
 $Definition["Secondary Buttons"] = "Sekundära knappar";
