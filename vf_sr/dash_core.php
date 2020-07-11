@@ -1,6 +1,6 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '%1$s &quot;%2$s&quot; није пронађен.';
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" није пронађен.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Верзија %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s верзија %2$s је доступна.';
@@ -60,7 +60,7 @@ $Definition['Add Comments'] = 'Додајте коментаре';
 $Definition['Add Connection'] = 'Додај везу';
 $Definition['Added By'] = 'Додано од';
 $Definition['Add Field'] = 'Додај поље';
-$Definition['Add Info &amp; Create Account'] = 'Dodajte informacije &amp; Napravite nalog';
+$Definition['Add Info &amp; Create Account'] = 'Dodajte informacije & Napravite nalog';
 $Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'У поље е-поште додајте информације у поље да бисте помогли у одговорима (препоручено).';
 $Definition['Adding & Editing Categories'] = 'Додавање и уређивање категорија';
 $Definition['Add Item'] = 'Додајте ставку';
@@ -218,7 +218,7 @@ $Definition['Content Flagging'] = 'Означавање садржаја';
 $Definition['Conversation Messages'] = 'Поруке разговора';
 $Definition['Conversations'] = 'Разговори';
 $Definition['Conversations Setup'] = 'Подешавање разговора';
-$Definition['Could not find a theme identified by \'%s\''] = 'Није могуће пронаћи тему која је идентификована са &#39;%s&#39;';
+$Definition['Could not find a theme identified by \'%s\''] = 'Није могуће пронаћи тему која је идентификована са \'%s\'';
 $Definition['Could not instantiate mail function.'] = 'Функција поште није успела.';
 $Definition['Could not link the addon.'] = 'Није могуће повезати додатак.';
 $Definition['Could not open %s.'] = '%s није могуће отворити.';
@@ -242,7 +242,7 @@ $Definition['Debugger'] = 'Дебуггер';
 $Definition['Debug Information'] = 'Информације о отклањању грешака';
 $Definition['Decline'] = 'Odbiti';
 $Definition['Default (%s)'] = 'Подразумевано (%s)';
-$Definition['Default <0/>'] = 'Подразумевано &lt;0 /&gt;';
+$Definition['Default <0/>'] = 'Подразумевано <0 />';
 $Definition['Default %s Permissions'] = 'Подразумевано %s Пермиссионс';
 $Definition['Default  Category'] = 'Подразумевана категорија';
 $Definition['Default Category Permissions'] = 'Дозволе категорије';
@@ -713,7 +713,7 @@ $Definition['The invitation was sent successfully.'] = 'Позивница је 
 $Definition['Theme Editor'] = 'Едитор тема';
 $Definition['Theme Options'] = 'Опције теме';
 $Definition['Themes'] = 'Теме';
-$Definition['ThemeEditor.Copy'] = '&lt;0 /&gt; копија';
+$Definition['ThemeEditor.Copy'] = '<0 /> копија';
 $Definition['Theming Documentation'] = 'Документација о темама';
 $Definition['Theming Overview'] = 'Преглед Тхеминга';
 $Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Дошло је до грешке приликом преношења слике. Логотип е-поште може се отпремити у један од следећих датотека: гиф, јпг, пнг';
@@ -777,7 +777,7 @@ $Definition['Unlimited'] = 'Неограничено';
 $Definition['Upload New Email Logo'] = 'Отпремите нови логотип е-поште';
 $Definition['Upcoming Events'] = 'Predstojeći događaji';
 $Definition['Use an SMTP server to send email'] = 'Користите СМТП сервер за слање е-поште';
-$Definition['Use asterisks for wildcards'] = 'Користите звјездице за замјенске знакове, нпр. &#39;*@Хотмаил.цом&#39;';
+$Definition['Use asterisks for wildcards'] = 'Користите звјездице за замјенске знакове, нпр. \'*@Хотмаил.цом\'';
 $Definition['Use Categories'] = 'Користите категорије';
 $Definition['Use categories to organize discussions'] = 'Користите категорије за организовање дискусија';
 $Definition['Use Facebook names for usernames.'] = 'Користите Фацебоок имена за корисничка имена.';
@@ -873,7 +873,7 @@ $Definition['Reinterpret All Posts As Wysiwyg'] = 'Поновно интерпр
 
 $Definition['Mobile Format'] = 'Мобилни формат';
 $Definition['Enable Rich Quotes'] = 'Омогући обогаћене цитате';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Користите следећу опцију да бисте омогућили цитате за Рицх Едитор. Ово ће се применити само ако је подразумевани формат &quot;Рицх&quot;.';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Користите следећу опцију да бисте омогућили цитате за Рицх Едитор. Ово ће се применити само ако је подразумевани формат "Рицх".';
 
 // Catalogue Display Plugin/Formats
 $Definition['Default placeholder'] = 'Подразумевани резервирано место';
