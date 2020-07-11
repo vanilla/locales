@@ -838,7 +838,7 @@ $Definition['Yes, the following information can be changed later.'] = 'نعم ،
 $Definition['You are connected as %s.'] = 'أنت متصل ك %s.';
 $Definition['You are previewing the %s theme.'] = 'أنت تقوم بمعاينة سمة %s.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'حدد المربع بجوار المستخدم الذي نشر البريد العشوائي لحظره وحذف جميع مشاركاته. <b>لا تفعل ذلك إلا إذا كنت متأكدًا أن هؤلاء هم مرسلو الرسائل غير المرغوب فيها.</b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'إذا تم <a href="%1$s">حظر دخولك</a> إلى المنتدى الخاص بك ، يمكنك دائمًا تسجيل الدخول باستخدام بريدك الإلكتروني الأصلي <a href="%1$s">للفانيلا</a> وكلمة المرور على <a href="%1$s">%1$s</a>';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'إذا تم حظر دخولك إلى المنتدى الخاص بك ، يمكنك دائمًا تسجيل الدخول باستخدام بريدك الإلكتروني الأصلي للفانيلا وكلمة المرور على <a href="%1$s">%1$s</a>';
 $Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'يمكنك حظر عناوين IP ونطاقات البريد الإلكتروني والكلمات من أسماء المستخدمين باستخدام هذه الأداة.';
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'يمكنك تخصيص HTML و CSS لهذا السمة في صفحة %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'يمكنك إما إنشاء حساب جديد ، أو إدخال بيانات الاعتماد الخاصة بك إذا كان لديك حساب موجود.';
