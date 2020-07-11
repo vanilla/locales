@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Dobrodošli u vašu temu";
-$Definition["This is a style guide of your theme."] = "Ovo je stilski vodič vaše teme. Ima primjere vizualnih elemenata koji se koriste u cijeloj aplikaciji. Možete kliknuti na razne widgete poput naslovne trake &lt;0&gt; </0> ili &lt;1&gt; Baner </1> za uređivanje njihovih svojstava na bočnoj ploči.";
-$Definition["In additon to the widgets there are also"] = "Uz dodatak na widgete postoje i &lt;0&gt; Global Styles </0> . Za uređivanje globalnih stilova kliknite bilo gdje drugo na stranici, poput ovog teksta.";
+$Definition["This is a style guide of your theme."] = "Ovo je stilski vodič vaše teme. Ima primjere vizualnih elemenata koji se koriste u cijeloj aplikaciji. Možete kliknuti na razne widgete poput naslovne trake <0> </0> ili <1> Baner </1> za uređivanje njihovih svojstava na bočnoj ploči.";
+$Definition["In additon to the widgets there are also"] = "Uz dodatak na widgete postoje i <0> Global Styles </0> . Za uređivanje globalnih stilova kliknite bilo gdje drugo na stranici, poput ovog teksta.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Postoje dvije vrste tipki u aplikaciji: primarno i sekundarno.";
 $Definition["Primary Button"] = "Primarno dugme";
 $Definition["Secondary Button"] = "Sekundarno dugme";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Naziv fonta";
 $Definition["Invalid URL"] = "Nevažeća URL adresa";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Možete učitati prilagođeni font u vaš sustav za temiranje. Samo kopirajte i zalijepite URL u polje.";
 $Definition["You can configure some values differently for different screensizes."] = "Neke vrijednosti možete različito konfigurirati za različite veličine zaslona.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Morate dodati domenu URL-a fonta u &lt;0&gt; AllowedDomains </0> , u konfiguraciji stranice. &lt;1&gt; Saznajte više o prilagođenim fontovima. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Morate dodati domenu URL-a fonta u <0> AllowedDomains </0> , u konfiguraciji stranice. <1> Saznajte više o prilagođenim fontovima. </1> .";
 
 $Definition["Primary Buttons"] = "Primarni gumbi";
 $Definition["Secondary Buttons"] = "Sekundarni gumbi";
