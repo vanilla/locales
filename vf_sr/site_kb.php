@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Revizije članaka";
 $Definition["Article Three"] = "Članak 3";
 $Definition["Article Two"] = "Članak 2";
 $Definition["Articles"] = "Članci";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Придружите производ овој заједници. Користите &lt;0&gt; Управљање корисничким сучељем </0> за додавање, уређивање или брисање производа.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Придружите производ овој заједници. Користите <0> Управљање корисничким сучељем </0> за додавање, уређивање или брисање производа.";
 
 $Definition["Back to Home"] = "Povratak na početnu stranicu";
 $Definition["Back to home page"] = "Povratak na početnu stranicu";
@@ -40,7 +40,7 @@ $Definition["category"] = "kategorija";
 $Definition["Category One"] = "Kategorija 1";
 $Definition["Category Options"] = "Opcije kategorija";
 $Definition["Category Two"] = "Kategorija Dva";
-$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Одређене акције су онемогућене јер су доступне само у изворном језику: &lt;0 /&gt;";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Одређене акције су онемогућене јер су доступне само у изворном језику: <0 />";
 $Definition["Certain actions are disabled because they are only avalaible in the source locale."] = "Одређене акције су онемогућене јер су доступне само у изворном језику.";
 $Definition["Choose"] = "Izabrati";
 $Definition["Choose a location for this page."] = "Izaberite lokaciju za ovu stranicu. ";
@@ -158,21 +158,21 @@ $Definition["This article hasn't been translated yet. The original article text 
 $Definition['This article is not translated yet or it is out of date.'] = 'Овај чланак још није преведен или је застарео.';
 $Definition['The article this draft is based on is no longer available.'] = 'Чланак на којем се заснива овај нацрт више није доступан.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ширина средишњег ступца примарног изгледа у пикселима.';
-$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Овај је чланак уредио у изворном језику на &lt;0 /&gt;. Уредите овај чланак да бисте ажурирали превод и очистили ову поруку.';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Овај је чланак уредио у изворном језику на <0 />. Уредите овај чланак да бисте ажурирали превод и очистили ову поруку.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Овај чланак је уређен у изворном језику. Уредите овај чланак да бисте ажурирали превод и очистили ову поруку.';
 
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Ovo je destruktivna akcija. Nećete moći da povratite vaš nacrt. ";
 $Definition["This is a non-destructive action. You will be able to restore your article if you wish."] = "Ovo nije destruktivna akcija. Bićete u mogućnosti da povratite vaš članak ako želite. ";
 
 // General Appearance
-$Definition["This %s will appear on the Knowledge homepage."] = "Овај а0ецб2ец87ф49фз0 ће се појавити на почетној страници знања.";
+$Definition["This %s will appear on the Knowledge homepage."] = "Овај %s ће се појавити на почетној страници знања.";
 $Definition["title"] = "naziv";
 $Definition["description"] = "Опис";
-$Definition["It should be %s characters or less."] = "Требало би да буде а0ецб2ец87ф49фз0 знакова или мање.";
+$Definition["It should be %s characters or less."] = "Требало би да буде %s знакова или мање.";
 $Definition["KB.GeneralApperance.Description.Placeholder"] = "Добродошли у нашу базу знања. Овде ћете наћи одговоре на уобичајена питања подршке.";
 $Definition["This can be overridden on a per knowledge base basis."] = "Ово се може поништити на бази знања.";
-$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Препоручене димензије су око а0ецб2ец87ф49фз0 за а0ецб2ец87ф49фз0 или сличан однос.";
-$Definition["The %s to use on the knowledge base chooser."] = "А0ецб2ец87ф49фз0 који се користи у избору базе знања.";
+$Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Препоручене димензије су око %s за %s или сличан однос.";
+$Definition["The %s to use on the knowledge base chooser."] = "%s који се користи у избору базе знања.";
 $Definition["banner background image"] = "слика позадине банера";
 $Definition["banner content image"] = "слика садржаја банера";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Текст може бити тешко читати изнад одређених слика са натписима. Омогућите ову поставку да бисте додали слој преко слика банера што олакшава читање текста.";
