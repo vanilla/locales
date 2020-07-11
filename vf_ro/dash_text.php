@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Vezi %s nostru';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla este ce mai simplă și puternică platformaă de comunitate din lume. E super uşor de utilizat. Începeți cu acest video introductiv şi continuaţi cu paşii de mai jos. Succes!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Alegeți un rol care va fi atribuit utlizatorilor ”orfani”:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Alegeți o temă pentru această subcomunitate. &lt;0&gt; Citiți mai multe </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Alegeți o temă pentru această subcomunitate. <0> Citiți mai multe </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Alege cum să organizați tot conținutul asociat cu contul de utilizator pentru %s (Comentarii, mesaje, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Puteți selecta un algoritm de hash customizat pentru a semna solicitările. Algoritmul de hasi trebuiesc folosite și în librăria clientului. Alegeți md5 dacă nu sunteți sigur ce să selectați.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Alegeți aspectul preferat pentru listele de categorii.';
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Bine ați venit la tema dvs.";
-$Definition["This is a style guide of your theme."] = "Acesta este un ghid de stil al temei tale. Are exemple de elemente vizuale utilizate în întreaga aplicație. Puteți face clic pe diverse widget-uri, cum ar fi &lt;0&gt; Bara de titlu </0> sau &lt;1&gt; Banner </1> pentru a edita proprietățile lor în panoul lateral.";
-$Definition["In additon to the widgets there are also"] = "În plus la widgeturi există și &lt;0&gt; Stiluri globale </0> . Pentru a edita stiluri globale, faceți clic în orice altă parte a paginii, cum ar fi acest text.";
+$Definition["This is a style guide of your theme."] = "Acesta este un ghid de stil al temei tale. Are exemple de elemente vizuale utilizate în întreaga aplicație. Puteți face clic pe diverse widget-uri, cum ar fi <0> Bara de titlu </0> sau <1> Banner </1> pentru a edita proprietățile lor în panoul lateral.";
+$Definition["In additon to the widgets there are also"] = "În plus la widgeturi există și <0> Stiluri globale </0> . Pentru a edita stiluri globale, faceți clic în orice altă parte a paginii, cum ar fi acest text.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Există două tipuri de butoane în aplicație: primar și secundar.";
 $Definition["Primary Button"] = "Buton primar";
 $Definition["Secondary Button"] = "Buton secundar";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Numele fontului";
 $Definition["Invalid URL"] = "URL invalid";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Puteți încărca un font personalizat în sistemul dvs. Theming. Doar copiați și inserați URL-ul în câmp.";
 $Definition["You can configure some values differently for different screensizes."] = "Puteți configura anumite valori în mod diferit pentru diferite ecrane.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Trebuie să adăugați domeniul urlului fontului la &lt;0&gt; AllowedDomains </0> , în configurația site-ului. &lt;1&gt; Aflați mai multe despre fonturile personalizate. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Trebuie să adăugați domeniul urlului fontului la <0> AllowedDomains </0> , în configurația site-ului. <1> Aflați mai multe despre fonturile personalizate. </1> .";
 
 $Definition["Primary Buttons"] = "Butoane primare";
 $Definition["Secondary Buttons"] = "Butoane secundare";
