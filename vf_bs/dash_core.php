@@ -1,11 +1,13 @@
 <?php
 
-$Definition['Add Info &amp; Create Account'] = 'Dodaj Info &amp; Kreiraj Account';
+$Definition['Add Info &amp; Create Account'] = 'Dodaj Info & Kreiraj Account';
 
 $Definition['Badge Name'] = 'Name';
+$Definition['BadgeRequestColumnLabel'] = 'Request';
 $Definition['Ban Type'] = 'Condition Type';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'LogoBrowse';
 
+$Definition['Categories &amp; Discussions'] = 'Categories & Discussions';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['Conversations'] = 'Razgovori';
 
@@ -16,6 +18,8 @@ $Definition['Enter the email address of the person you would like to invite:'] =
 $Definition['Every %s hour'] = 'Every hour';
 $Definition['Every %s minute'] = 'Every minute';
 $Definition['Every %s second'] = 'Every second';
+
+$Definition['Help &amp; Tutorials'] = 'Help & Tutorials';
 
 $Definition['Invitation Code'] = 'Pozivni Kod';
 $Definition['InvitationMessage'] = 'Hi Pal!
@@ -31,7 +35,11 @@ $Definition['On'] = 'Uključeno';
 $Definition['Operation By'] = 'By';
 
 $Definition['Permission.Category'] = 'Kategorija';
+$Definition['permissions.admin'] = 'Admin';
+$Definition['permissions.member'] = 'Member';
+$Definition['permissions.moderator'] = 'Moderator';
 
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Upotrijebite sljedeću opciju za omogućavanje citata za Rich Editor. Ovo će se primijeniti samo ako je zadani format "Rich".';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Send %s a Message'] = 'Pošalji %s  Poruku';
