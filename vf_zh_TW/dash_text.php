@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = '查看我們的%s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla是全世界最簡單、功能最強的社群討論版平台。它使用非常簡便，只要跟著這段教學影片完成下列步驟就可以了。祝您一切順利！';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '請選擇一個職務，以賦予無職務的用戶：';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = '為該子社區選擇一個主題。 &lt;0&gt;閱讀更多</0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = '為該子社區選擇一個主題。 <0>閱讀更多</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '請選擇如何處理與%s用戶帳號相關的內容（留言、私訊等等）。';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = '您可以選擇自訂的hash演算法來簽署您的請求訊息；該演算法也必須用於您的用戶端函式庫。如果您不確定要使用哪一種，請選「md5」。';
 $Definition['Choose the preferred layout for lists of categories.'] = '選擇類別列表的首選佈局。';
@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = '請輸入能清楚描述這個pocket
 $Definition['Enter a short name for the site.'] = '請為這個網站取一個簡短名稱，這個名稱會出現在登入按鈕上。';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = '請輸入您的Wordpress網站位址，接下來的部分則由我們代勞。';
 $Definition['Enter the connection settings for your sphinx server below.'] = '請在下面輸入您Sphinx伺服器的連線設定。';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = '所有的編輯或刪除動作都會記錄在這裡；請使用Use &lsquo;回復&rsquo;來取消任何變動。 to undo any change.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = '所有的編輯或刪除動作都會記錄在這裡；請使用Use ‘回復’來取消任何變動。 to undo any change.';
 $Definition['Everyone who signs up gets a profile page.'] = '每一位在留言版上註冊的用戶，都會擁有一個可供其他人閱覽的個人專屬頁面；在頁面上，用戶可以上傳自己的照片、管理個人資料設定、或是關注版上正在發生的有趣事物。請<a href="{/profile,url}">現在就設定您的專屬頁面</a>。';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = '您網站上的每一位用戶都有一個指定職務；這個職務會決定這位用戶有哪些權限。';
 
@@ -142,7 +142,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = '請選擇需要設定的認證功能。';
 $Definition['PluginHelp'] = '插件能幫您的網站增加額外功能。<br />當您將插件加入%s資料夾後，即可在此處啟用或關閉功能。';
-$Definition['Pockets.BetweenDiscussions.Description'] = '在主要討論串列表上，這個pocket會顯示在各個討論串之間；由於討論串通常是在&lt;li&gt;..&lt;/li&gt;標籤之中，所以您也必須在pocket前後加上這些標籤。';
+$Definition['Pockets.BetweenDiscussions.Description'] = '在主要討論串列表上，這個pocket會顯示在各個討論串之間；由於討論串通常是在<li>..</li>標籤之中，所以您也必須在pocket前後加上這些標籤。';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket讓您將自訂內容的HTML區塊，增加到應用程式中的各個地方。';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '限制特別用戶在一定時間內的討論留言數量，是避免垃圾訊息的好方法之一。';
 
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "歡迎來到您的主題";
-$Definition["This is a style guide of your theme."] = "這是您主題的風格指南。它具有整個應用程序中使用的視覺元素的示例。您可以單擊各種窗口小部件，例如&lt;0&gt; Title Bar </0>或&lt;1&gt;橫幅</1>在側面板中編輯其屬性。";
-$Definition["In additon to the widgets there are also"] = "除小部件外，還提供&lt;0&gt; Global Styles </0> 。要編輯全局樣式，請單擊頁面上其他任何位置，例如此文本。";
+$Definition["This is a style guide of your theme."] = "這是您主題的風格指南。它具有整個應用程序中使用的視覺元素的示例。您可以單擊各種窗口小部件，例如<0> Title Bar </0>或<1>橫幅</1>在側面板中編輯其屬性。";
+$Definition["In additon to the widgets there are also"] = "除小部件外，還提供<0> Global Styles </0> 。要編輯全局樣式，請單擊頁面上其他任何位置，例如此文本。";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "應用程序中有兩種類型的按鈕：主按鈕和輔助按鈕。";
 $Definition["Primary Button"] = "主按鈕";
 $Definition["Secondary Button"] = "次要按鈕";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "字體名稱";
 $Definition["Invalid URL"] = "無效的網址";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "您可以在主題系統中上載自定義字體。只需將URL複製並粘貼到字段中即可。";
 $Definition["You can configure some values differently for different screensizes."] = "您可以為不同的屏幕尺寸不同地配置一些值。";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "您需要將字體URL的域添加到&lt;0&gt; AllowedDomains </0> ，在網站的配置中。 &lt;1&gt;了解有關自定義字體的更多信息。 </1> 。";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "您需要將字體URL的域添加到<0> AllowedDomains </0> ，在網站的配置中。 <1>了解有關自定義字體的更多信息。 </1> 。";
 
 $Definition["Primary Buttons"] = "主要按鈕";
 $Definition["Secondary Buttons"] = "次要按鈕";
