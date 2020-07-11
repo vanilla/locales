@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Nézze meg %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'A Vanilla a legegyszerűbb, leghathatósabb közösségi platform a világon. A legeslegeslegegyszerűbb használni. Kezdd ezzel a bevezető videóval majd folytasd az alábbi lépésekkel. Sok sikert!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Válassz egy szerepet, amelyet az árva felhasználókhoz fogják rendelni:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Válasszon témát ehhez a szubriskcióhoz. &lt;0&gt; További információ </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Válasszon témát ehhez a szubriskcióhoz. <0> További információ </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Add meg, hogyan kezeljük %s felhasználói fiókjához tartozó összes tartalmat (kommentek, üzenetek, stb.).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Egyedi hash algoritmust választhatsz a kéréseid aláírásához. Ugyanez a hash algoritmust kell a kliens library-ben is használni. Válaszd az md5-t, ha nem vagy biztos abban, hogy mit válassz.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Válassza ki a kategóriák listájának preferált elrendezését.';
@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Adj egy jellemző nevet a zsebnek. E
 $Definition['Enter a short name for the site.'] = 'Adj egy rövid nevet az oldanak. Ez fog megjelenni a bejelentkező gombokon.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Add meg a Wordpress Blogod címét, innen átvesszük az irányítást.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Add meg a sphinx szervered kapcsolódási paramétereit.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Minden módosítás fel van itt jegyezve. Használd a &lsquo;Visszaállítás&rsquo; -t, hogy visszavonj bármilyen módosítást.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Minden módosítás fel van itt jegyezve. Használd a ‘Visszaállítás’ -t, hogy visszavonj bármilyen módosítást.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Mindazok, akik regisztrálnak a közösségi oldaladra, kapnak egy nyilvános oldalt, ahova   feltölthetik a saját képeiket,  a beállításaikat  valamint figyelhetik, milyen érdekességek zajlanak a csoportban. <a href="{/profile,url}">Módosítsa a beállításait most</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Az oldal minden felhasználójához legalább egy szerepkör hozzá lesz rendelve. A szerepkörök határozzák meg, hogy az oldal egy felhasználója mire képes és mire nem.';
 
@@ -142,7 +142,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Kérlek válassz egy hitelesítési módot';
 $Definition['PluginHelp'] = 'Beépülő modulok segítségével adhatsz új funkcionalitást az oldaladhoz.<br />Amint egy modul a %s mappádba bekerült, itt fogod tudni engedélyezni vagy letiltani.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Ez a zseb az egyes hozzászólások között jelenik meg a fő hozzászóláslistában. Mivel a hozzászólások általában &lt;li&gt;..&lt;/li&gt; címkék között szerepelnek, ezért a zsebet is ilyen címkék közé kell helyeznie.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Ez a zseb az egyes hozzászólások között jelenik meg a fő hozzászóláslistában. Mivel a hozzászólások általában <li>..</li> címkék között szerepelnek, ezért a zsebet is ilyen címkék közé kell helyeznie.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'A zsebek segítségével szabad-formátumú HTML-t adhatsz hozzá különféle részekhez az alkalmazáson belül';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Szüntesd meg a spamet a fórumodon, a megadott időn belül létrehozható beszélgetések, illetve hozzászólások számának korlátozásával.';
 
@@ -160,7 +160,7 @@ $Definition['Requires “Negative” reaction permission.'] = '„Negatív” re
 $Definition['Requires “Positive” reaction permission.'] = '„Pozitív” reakció engedélyhez van szüksége.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Ha helyreállítasz valamit, az elemek erről a listáról visszakerülnek az oldalra.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'A következő opcióval engedélyezze a Rich Editor idézeteit. Ez csak akkor érvényes, ha az alapértelmezett formázó &quot;Rich&quot;.';
+    'A következő opcióval engedélyezze a Rich Editor idézeteit. Ez csak akkor érvényes, ha az alapértelmezett formázó "Rich".';
 $Definition['Route Expression'] = 'Út kifejezés';
 $Definition['Routes are used to redirect users.'] = 'Az útvonalak a felhasználókat átirányítják a kért URL alapján.';
 
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Üdvözöljük a témádban";
-$Definition["This is a style guide of your theme."] = "Ez egy stílus útmutató a témához. Példákat tartalmaz az alkalmazás során alkalmazott vizuális elemekre. Kattintson a különféle kütyüre, például a &lt;0&gt; címsorra </0> vagy &lt;1&gt; szalaghirdetés </1> tulajdonságaik szerkesztéséhez az oldalsó panelen.";
-$Definition["In additon to the widgets there are also"] = "A kütyü kiegészítéseként a &lt;0&gt; globális stílusok is megtalálhatók </0> . A globális stílusok szerkesztéséhez kattintson az oldal bárhol más oldalára, például a szövegre.";
+$Definition["This is a style guide of your theme."] = "Ez egy stílus útmutató a témához. Példákat tartalmaz az alkalmazás során alkalmazott vizuális elemekre. Kattintson a különféle kütyüre, például a <0> címsorra </0> vagy <1> szalaghirdetés </1> tulajdonságaik szerkesztéséhez az oldalsó panelen.";
+$Definition["In additon to the widgets there are also"] = "A kütyü kiegészítéseként a <0> globális stílusok is megtalálhatók </0> . A globális stílusok szerkesztéséhez kattintson az oldal bárhol más oldalára, például a szövegre.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Kétféle gomb létezik az alkalmazásban: elsődleges és másodlagos.";
 $Definition["Primary Button"] = "Elsődleges gomb";
 $Definition["Secondary Button"] = "Másodlagos gomb";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Betűkészlet neve";
 $Definition["Invalid URL"] = "érvénytelen URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Töltsön fel egyéni betűtípust a Theming rendszerbe. Csak másolja és illessze be az URL-t a mezőbe.";
 $Definition["You can configure some values differently for different screensizes."] = "Egyes értékeket különféleképpen konfigurálhat a különféle képernyőméretekhez.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "A betűtípus url domainjét hozzá kell adnia a &lt;0&gt; AllowedDomains mappához </0> , a webhely konfigurációjában. &lt;1&gt; További információ az egyéni betűkészletekről. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "A betűtípus url domainjét hozzá kell adnia a <0> AllowedDomains mappához </0> , a webhely konfigurációjában. <1> További információ az egyéni betűkészletekről. </1> .";
 
 $Definition["Primary Buttons"] = "Elsődleges gombok";
 $Definition["Secondary Buttons"] = "Másodlagos gombok";
