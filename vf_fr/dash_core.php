@@ -36,7 +36,7 @@ $Definition['15 minutes'] = '15 minutes';
 
 $Definition['[%s] Confirm Your Email Address'] = ' %s Confirmer votre adresse email ';
 $Definition['[%s] Invitation'] = '[%s] Invitation';
-$Definition['[%s] Password Reset'] = 'Réinitialisation du mot de passe';
+$Definition['[%s] Password Reset'] = '[%s] Réinitialisation du mot de passe';
 $Definition['[%s] Password Reset Request'] = '[%s] Demande de renouvellement de mot de passe.';
 
 $Definition['a Badge'] = 'un Badge';
@@ -359,6 +359,8 @@ $Definition['FaviconBrowse'] = 'Naviguez à la recherche d\'un nouveau favicon s
 $Definition['FaviconDescription'] = "Le favicon de votre site apparaît dans la barre de titre de votre navigateur. Il sera réduit de manière appropriée.";
 $Definition['FileUpload is currently OFF'] = 'Le téléversement de fichiers est actuellement *désactivé*';
 $Definition['FileUpload is currently ON'] = 'Le téléversement de fichiers est actuellement *activé*';
+$Definition['Filter'] = 'Filtre';
+$Definition['Filter Results'] = 'Filtrer les résultats';
 $Definition['Finished'] = 'Fini';
 $Definition['First Visit'] = '1re visite';
 $Definition['Flagged By'] = 'Signalé par';
@@ -758,7 +760,7 @@ $Definition['This is the first time you\'ve visited the discussion forums.'] = '
 $Definition['This page requires Javascript.'] = 'Cette page nécessite que le Javascript soit activé pour pouvoir fonctionner correctement.';
 $Definition['This pocket is an ad.'] = 'Ce bloc est une publicité.';
 $Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Ce thème ne peut pas être supprimé car il est appliqué actuellement.';
-$Definition['This theme has additional options.'] = 'Ce thème possède des options supplémentaires';
+$Definition['This theme has additional options.'] = 'Ce thème possède options supplémentaires sur la page %s.';
 $Definition['This theme has customizable text.'] = 'Ce thème possède des sections de texte configurables';
 $Definition['Threshold'] = 'Seuil';
 $Definition['Thumbnails'] = 'Vignettes d\'aperçu';

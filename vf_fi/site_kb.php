@@ -109,7 +109,7 @@ $Definition["No knowledge bases found."] = "Tietopohjia ei löydetty.";
 
 $Definition["Oldest First"] = "Vanhimmat ensin";
 $Definition["On This Page"] = "Tällä sivulla";
-$Definition["Organize Categories"] = "J&auml;rjest&auml; kategoriat";
+$Definition["Organize Categories"] = "Järjestä kategoriat";
 $Definition["Other Articles"] = "Muut artikkelit";
 $Definition["Other Languages"] = "Muut kielet";
 

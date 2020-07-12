@@ -1,6 +1,6 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" no se encuentra.';
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" no encontrado.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Versión %2$s';
 $Definition['%1$s version %2$s is available.'] = 'La versión %1$s , %2$s esta disponible';
@@ -96,6 +96,7 @@ $Definition['Allow this connection to issue API access tokens.'] = 'Permitir a e
 $Definition['Allow users to change their own avatars'] = 'Permitir a los usuarios cambiar sus propios avatares';
 $Definition['Allow users to dismiss this message'] = 'Permitir a los usuarios omitir este mensaje';
 $Definition['All Pages'] = 'Todas las paginas';
+$Definition['An enabled message will be visible on the site.'] = 'Un mensaje habilitado será visible en el sitio.';
 $Definition['API'] = 'API';
 $Definition['API SSO Expand Permission'] = 'Permiso de expansión de SSO de API';
 $Definition['API Status'] = 'Estatus API';
@@ -360,6 +361,8 @@ $Definition['FaviconBrowse'] = 'Busca un nuevo favicono si quieres cambiarlo:';
 $Definition['FaviconDescription'] = "El favicono de tu sitio aparece en la barra de título del navegador. Se reducirá según corresponda.";
 $Definition['FileUpload is currently OFF'] = 'Subir Archivos esta actualmente desactivado. ';
 $Definition['FileUpload is currently ON'] = 'Subir Archivos esta actualmente activado. ';
+$Definition['Filter'] = 'Filtrar';
+$Definition['Filter Results'] = 'Filtrar resultados';
 $Definition['Finished'] = 'Terminado';
 $Definition['First Visit'] = 'Primera Visita';
 $Definition['Flagged By'] = 'Marcado por';

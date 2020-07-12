@@ -11,7 +11,7 @@ $Definition['About.VanillaStatistics'] = 'Vanillaのリーチと効果を正確�
 $Definition['AboutCommentEmbedding'] = 'Vanillaは、お客様のブログに最初から備わっているコメント システムを置き換えるドロップインとして使用できます。実際にWeb上のどんなページにでもコメントを追加できるようになります。';
 $Definition['AboutEmbedding'] = '組み込み機能を利用すれば、お客様のコミュニティの一部または全部を、その他のアプリケーションやWebページに組み込めます。';
 $Definition['About Vanilla Statistics'] = 'Vanilla Statisticsについて';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'このページの上部にある[サイトにアクセス]リンクをクリックするか、<a href={/,url}>ここをクリック</a>してコミュニティフォーラムにアクセスしてください。コミュニティフォーラムは、お客様が<a href="{/,url,domain}">{/,url,domain}</a>にアクセスしたときに表示されるすべてのユーザー&amp;を表示します。';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'このページの上部にある[サイトにアクセス]リンクをクリックするか、<a href={/,url}>ここをクリック</a>してコミュニティフォーラムにアクセスしてください。コミュニティフォーラムは、お客様が<a href="{/,url,domain}">{/,url,domain}</a>にアクセスしたときに表示されるすべてのユーザー&を表示します。';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'ディスカッションおよびコメント内にアップロードする画像のサイズに制限を加えます。';
 $Definition['AddressBarColorDescription'] = '一部のブラウザーは、アドレスバーの色をサポートしています。モバイルのみです。';
@@ -40,6 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = '当社の%sをチェックしてください';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanillaは、世界で最もシンプルで、最も強力なコミュニティ プラットフォームです。使用方法は非常に簡単です。この入門ビデオから始め、以下の手順に従って進めてください。頑張ってください。';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '孤立したユーザーに割り当てられるロールを選択します。';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'このサブコミュニティのテーマを選択してください。 <0>続きを読む</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '%sのユーザー アカウントに関連したすべてのコンテンツ（コメントやメッセージなど）の処理方法を選択します。';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'リクエストに署名する際のカスタム ハッシュ アルゴリズムを選択できます。ハッシュ アルゴリズムは、クライアント ライブラリでも使用されます。どれを選択すればよいかわからない場合は、md5を選択します。';
 $Definition['Choose the preferred layout for lists of categories.'] = 'カテゴリーのリスト用に優先レイアウトを選択します。';
@@ -57,7 +58,7 @@ $Definition['Disable OpenID'] = 'OpenID を無効化';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'ディスカッション カテゴリを使用すると、ユーザーが、コミュニティにとって意味のある方法でディスカッションを整理できます。';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'フォーラム管理ダッシュボードを組み込まないでください（全画面表示にします）';
 $Definition['Don\'t use too many reactions.'] = 'リアクションを使い過ぎないでください。ユーザーに過剰な情報を与える必要はありません。';
-$Definition['Drag and drop the categories below to sort and nest them.'] = 'カテゴリを並べ替えたりネストするには、この下のカテゴリをドラッグ &amp; ドロップしてください。';
+$Definition['Drag and drop the categories below to sort and nest them.'] = 'カテゴリを並べ替えたりネストするには、この下のカテゴリをドラッグ & ドロップしてください。';
 $Definition['EditContentTimeout.Notes'] = '註: ユーザーが内容を編集できるロールに属している場合は、ここで選択する値よりもロールの設定の方が優先されます。';
 $Definition['Edit Route'] = 'ルートを編集する';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'コミュニティ フォーラムを自分のWebサイトに組み込めば、エンゲージメントを向上させられます。';
@@ -142,7 +143,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = '設定したい認証方式を選んでください。';
 $Definition['PluginHelp'] = '「プラグイン」は、このサイトの機能を拡張します。<br />%s フォルダに追加されたプラグインを、ここで有効化または無効化できます。';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'ポケットは、メイン ディスカッション リストの各ディスカッション間に表示されます。ディスカッションは通常、 &lt;li&gt;..&lt;/li&gt; タグ内にあるため、ポケットもこのタグでラップする必要があります。';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'ポケットは、メイン ディスカッション リストの各ディスカッション間に表示されます。ディスカッションは通常、 <li>..</li> タグ内にあるため、ポケットもこのタグでラップする必要があります。';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'ポケットを使用すると、アプリケーションのさまざまな場所に、自由な形式のHTMLを追加できます。';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'スパムを防ぐため、ユーザーが一定時間内に作成できるディスカッションおよび投稿できるコメントの数を制限できます。';
 
@@ -260,6 +261,17 @@ $Definition['You must select a file to import.'] = 'インポートするファ�
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "モバイルテーマは無効になります。異なるモバイルテーマとデスクトップテーマを設定するには、古いテーマUIを使用します。";
+$Definition["Heads Up!"] = "注意喚起！";
+$Definition["Welcome to Vanilla's theming UI."] = "バニラのテーマUIへようこそ。このページには、使用可能なすべてのテーマが一覧表示され、それらをコピーまたは編集できます。";
+$Definition["Some older themes don't support full editing capability."] = "古いテーマの中には、完全な編集機能をサポートしていないものがあります。テーマがサポートするものを確認するには、その名前にカーソルを合わせると、編集が有効になる場所を確認できます。";
+$Definition["Need More Help?"] = "参考情報";
+$Definition["Theming Guide"] = "テーマガイド";
+$Definition["Old Theming UI"] = "古いテーマUI";
+$Definition["If you have an old theme"] = "古いテーマがあり、デスクトップとモバイルのテーマを個別に設定する必要がある場合は、古いテーマのUIで設定できます。";
+$Definition["Edits to this theme apply to:"] = "このテーマの編集は以下に適用されます：";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'テンプレートは標準テーマです。テンプレートをカスタマイズするには、コピーを作成する必要があります。';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'カスタムテーマは、あなたが作成したテーマです。カスタムテーマの編集、名前変更、またはコピー作成を行うことができます。';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "このテーマは現在適用されているテーマであるため、削除できません。";
@@ -289,6 +301,12 @@ $Definition["Background"] = "背景";
 $Definition["Links"] = "リンク";
 $Definition["Font"] = "フォント";
 $Definition["Border Radius"] = "枠線の角丸";
+$Definition["Font URL"] = "フォントURL";
+$Definition["Font Name"] = "フォント名";
+$Definition["Invalid URL"] = "無効なURL";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "テーマシステムにカスタムフォントをアップロードできます。 URLをコピーしてフィールドに貼り付けるだけです。";
+$Definition["You can configure some values differently for different screensizes."] = "画面サイズごとに異なる値を設定できます。";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "フォントURLのドメインを<0> AllowedDomainsに追加する必要があります</0> 、サイトの構成。 <1>カスタムフォントの詳細。 </1> 。";
 
 $Definition["Primary Buttons"] = "一次ボタン";
 $Definition["Secondary Buttons"] = "二次ボタン";

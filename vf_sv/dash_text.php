@@ -40,6 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Kolla in våra %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla är den enklaste och kraftfullaste community-plattformen i världen. Det är superenkelt att använda. Börja mer introduktionsvideon och fortsätt med stegen nedan. Håll till godo!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Välj en roll som okategoriserade användare tilldelas:';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Välj ett tema för den här underkommunen. <0> Läs mer </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Välj hur allt innehåll förknippat med användaren %s ska hanteras (kommentarer, meddelanden osv).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Du kan välja en egen hash-algoritm för att signera dina förfrågningar. Hash-algoritmen måste också användas i ditt klientbibliotek. Välj md5 om du inte är säker på vad du ska välja.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Välj önskad layout för listor med kategorier.';
@@ -67,7 +68,7 @@ $Definition['Enter a descriptive name.'] = 'Skriv ett beskrivande namn för fick
 $Definition['Enter a short name for the site.'] = 'Skriv ett kort smeknamn för sajten. Detta visas på inloggningsknapparna.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Skriv in adressen till din Wordpress-blogg, så börjar vi där.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Skriv in uppkopplingsinställningarna för din sphinx-server nedan.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Varje redigering och radering sparas här. Använd &lsquo;Återskapa&rsquo; för att ångra någon ändring.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Varje redigering och radering sparas här. Använd ‘Återskapa’ för att ångra någon ändring.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Alla som registrerar sig på din grupp får en officiell profilsida där de kan ladda upp profilbilder av sig själva, sköta sina egna profilinställningar och söka efter roliga saker som pågår i gruppen. Du bör <a href="{/profile,url}">anpassa din profil nu</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Varje användare i forumet har minst en roll. Roller används för att ange vad användaren har rätt att göra.';
 
@@ -142,7 +143,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Vänligen välj en autentisering att konfigurera.';
 $Definition['PluginHelp'] = 'Pluginer låter dig lägga till funktionalitet till din site. <br />Så fort en plugin har lagts till din %s mapp, kan du aktivera eller inaktivera den här.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Den här fickan visas mellan varje diskussion på huvudlistan för diskussioner. Eftersom diskussioner vanligtvis görs i  &lt;li&gt;..&lt;/li&gt;-taggar behöver även din ficka omges av dessa taggar.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Den här fickan visas mellan varje diskussion på huvudlistan för diskussioner. Eftersom diskussioner vanligtvis görs i  <li>..</li>-taggar behöver även din ficka omges av dessa taggar.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Fickor låter dig lägga till anpassad HTML på olika ställen i applikationer.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Motverka spam i ditt forum genom att begränsa antalet inlägg i diskussioner och kommentarer användare kan göra inom en viss tidsperiod.';
 
@@ -201,7 +202,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'Importfilen innehåller ingen data.';
 $Definition['The import file is not in the correct format.'] = 'Importfilen är i fel format.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Platsen för jsonp-formatterad autentiseringsdata. ';
-$Definition['ThemeHelp'] = 'Temahjälp';
+$Definition['ThemeHelp'] = 'Teman låter dig ändra utseendet på din webbplats. <br /> När ett tema har lagts till i mappen %s kan du aktivera det här.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Förhandsgranskning av temat är begränsad till att visa temats mall och CSS.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Lösenordsautentiseringen har inga speciella alternativ. ';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Inga ändringar av databasstrukturen krävs. Det kan däremot bli ändringar av data.';
@@ -261,6 +262,17 @@ $Definition['You must select a file to import.'] = 'Du måste välja en fil att 
 /// Theming UI
 ///
 
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Ditt mobiltema kommer att inaktiveras. Om du vill ställa in olika mobila och stationära teman använder du det gamla teman UI.";
+$Definition["Heads Up!"] = "Hör upp!";
+$Definition["Welcome to Vanilla's theming UI."] = "Välkommen till Vanillas teman UI. Denna sida visar alla tillgängliga teman och låter dig kopiera eller redigera dem.";
+$Definition["Some older themes don't support full editing capability."] = "Vissa äldre teman stöder inte full redigeringsfunktion. För att se vad ett tema stöder kan du föra muspekaren över dess namn för att se var redigeringarna kommer att träda i kraft.";
+$Definition["Need More Help?"] = "Behöver du mer hjälp?";
+$Definition["Theming Guide"] = "Teman Guide";
+$Definition["Old Theming UI"] = "Old Theming UI";
+$Definition["If you have an old theme"] = "Om du har ett gammalt tema och behöver ställa in ett separat skrivbords- och mobiltema kan du göra det med den gamla UI-teman.";
+$Definition["Edits to this theme apply to:"] = "Redigeringar till detta tema gäller:";
+
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Mallar är standardteman. För att anpassa dem måste du skapa en kopia.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Anpassade teman är teman som du har skapat. Du kan redigera, byta namn på eller kopiera dem.';
 $Definition["This theme cannot be deleted because it is the currently applied theme."] = "Detta tema kan inte raderas eftersom det tillämpas för närvarande.";
@@ -290,6 +302,12 @@ $Definition["Background"] = "Bakgrund";
 $Definition["Links"] = "Länkar";
 $Definition["Font"] = "Font";
 $Definition["Border Radius"] = "Ramradie";
+$Definition["Font URL"] = "Font-URL";
+$Definition["Font Name"] = "Teckensnitt Namn";
+$Definition["Invalid URL"] = "Ogiltig URL";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan ladda upp ett anpassat teckensnitt i ditt temsystem. Kopiera och klistra in webbadressen i fältet.";
+$Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurera vissa värden på olika sätt för olika skärmbilder.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du måste lägga till teckensnittets url-domän till <0> Tillåtna domäner </0> , i webbplatsens konfiguration. <1> Läs mer om anpassade teckensnitt. </1> .";
 
 $Definition["Primary Buttons"] = "Primära knappar";
 $Definition["Secondary Buttons"] = "Sekundära knappar";
