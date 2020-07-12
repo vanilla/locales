@@ -26,7 +26,7 @@ $Definition['%s Answer'] = '%s คำตอบ';
 $Definition['%s Answers'] = '%s คำตอบ';
 $Definition['%s Awesomes'] = '%s สุดยอด';
 $Definition['%s by %s'] = '%s โดย %s';
-$Definition['%s changed %s\'s permissions.'] = '%1$s แก้ไข %4$s สิทธิ์';
+$Definition['%s changed %s\'s permissions.'] = '%s แก้ไข %s สิทธิ์';
 $Definition['%s Comment'] = '%s ความเห็น';
 $Definition['%s comment'] = '%s ความเห็น';
 $Definition['%s comment html'] = '%s ความเห็น';
@@ -1703,7 +1703,7 @@ $Definition['ValidateMinLengthPlural'] = '%1$s นั้นสั้นไป %2
 $Definition['ValidateMinLengthSingular'] = '%1$s นั้นสั้นไป %2$s ตัวอักษร';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'คุณต้องเลือกอย่างน้อยหนึ่ง %s';
 $Definition['ValidateRegex'] = '%s ไม่ปรากฏที่จะอยู่ในรูปแบบถูกต้อง';
-$Definition['ValidateRequired'] = 'กรุณาตรวจสอบช่องว่าง';
+$Definition['ValidateRequired'] = 'จำเป็นต้องใช้ %s';
 $Definition['ValidateRequiredArray'] = 'คุณต้องเลือกอย่างน้อยหนึ่ง %s';
 $Definition['ValidateStrength'] = 'ค่าที่ตั้งของ %s นั้นไม่ซับซ้อน ลองตั้งค่าใหม่และใช้มาตรวัดความซับซ้อนเป็นแนวทาง';
 $Definition['ValidateString'] = '%s เป็นคอลัมน์ที่ใช้งานไม่ได้';
@@ -1856,7 +1856,7 @@ $Definition['You can follow individual categories and be notified of all posts w
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'คุณไม่สามารถแก้ไขภาพโปร์ไฟล์ที่มีการเชื่อมโยงจากภายนอก';
 $Definition['You cannot edit the thumbnail of another member.'] = 'คุณไม่สามารถแก้ไขทัมบ์เนลของสมาชิกคนอื่นได้';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'คุณไม่สามารถลบคำเชิญที่ได้รับการยอมรับแล้ว';
-$Definition['You can only specify up to %s tags.'] = 'คุณสามารถระบุ Tag สูงสุดได้ % s แท็ก';
+$Definition['You can only specify up to %s tags.'] = 'คุณสามารถระบุ Tag สูงสุดได้ %s แท็ก';
 $Definition['You can remove or ban this member from the group.'] = 'คุณสามารถแบนหรือนำสมาชิกออกจากกลุ่มได้ สมาชิกที่ถูกแบนจะไม่สามารถเข้าร่วมกลุ่มได้อีก';
 $Definition['You can use HTML in your signature.'] = 'คุณสามารถใช้ <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML ธรรมดา</a></b> ในลายเซ็นของคุณ';
 $Definition['You don\'t have permission to do that.'] = 'คุณไม่ได้รับอนุญาตให้ทำเช่นนั้น';

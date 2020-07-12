@@ -118,7 +118,7 @@ $Definition['Learn how to use the basic functionality of your forum.'] = 'اپن
 $Definition['Locales allow you to support other languages on your site.'] = 'مقامات آپ کو اپنی سائٹ پر دوسری زبانوں کی حمایت کرنے کی سہولت دیتے ہیں۔ آپ ان دستیاب مقامات کو اہل اور غیر فعال کریں جو آپ یہاں دستیاب کرنا چاہتے ہیں۔';
 $Definition['LogoDescription'] = 'بینر کا لوگو آپ کی سائٹ کے اوپری حصے میں آتا ہے۔ کچھ تھیمز یہ لوگو ظاہر نہیں کرسکتے ہیں۔';
 
-$Definition['Make sure you click View Page'] = 'اس بات کو یقینی بنائیں کہ بچت کے بعد آپ کے زمرے کا صفحہ کیسا لگتا ہے اس کے ل you آپ <a href="%s">دیکھیں صفحے</a> پر کلک <a href="%s">کریں</a> ۔';
+$Definition['Make sure you click View Page'] = 'اس بات کو یقینی بنائیں کہ بچت کے بعد آپ کے زمرے کا صفحہ کیسا لگتا ہے اس کے ل you آپ <a href="%s">دیکھیں صفحے</a> پر کلک کریں ۔';
 $Definition['Manage Routes'] = 'راستوں کا انتظام کریں';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'چیزوں کو اسپام کے بطور نشان زد کرنے سے وہ آپ کے فورم میں واپس آجائیں گی۔';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'چیزوں کو اسپام کے بطور نشان زد کرنے سے وہ آپ کے فورم میں واپس آجائیں گی۔';
