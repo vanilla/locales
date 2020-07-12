@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "تجدید نظر در مقاله";
 $Definition["Article Three"] = "ماده سوم";
 $Definition["Article Two"] = "ماده دو";
 $Definition["Articles"] = "مقالات";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "محصولی را با این زیرمجموعه مرتبط کنید. از U0 \"مدیریت محصولات\" استفاده کنید </0> برای افزودن ، ویرایش یا حذف محصولات.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "محصولی<0> را با این زیرمجموعه مرتبط کنید. از U0 مدیریت محصولات\" استفاده کنید </0> برای افزودن ، ویرایش یا حذف محصولات.";
 
 $Definition["Back to Home"] = "بازگشت به خانه";
 $Definition["Back to home page"] = "بازگشت به صفحه اصلی";

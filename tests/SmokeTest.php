@@ -185,10 +185,16 @@ class SmokeTest extends AbstractLocalesTest {
         if (preg_match_all('`(%\d?\$?[sdf])`', $value, $m)) {
             $r = array_merge($r, $m[1]);
         }
+
         // HtmlUtils::formatTags().
-/*        if (preg_match_all('`(<(/?[\d]+\s?>)`', $value, $m)) {*/
-//            $r = array_merge($r, $m[1]);
-//        }
+        if (preg_match_all('`(</?[\d]+\s?>)`', $value, $m)) {
+            $tags = $m[1];
+            // Put tags together to test for common RTL mistakes.
+            for ($i = 0; $i < count($tags); $i += 2) {
+                $close = $tags[$i + 1] ?? '';
+                $r[] = "{$tags[$i]}{$close}";
+            }
+        }
         sort($r);
         return $r;
     }

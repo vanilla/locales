@@ -200,6 +200,6 @@ $Definition["Write Discussion"] = "Оставить комментарий в о
 
 $Definition["You can see this message because you have special permissions."] = "Вы видите это сообщение, потому что у вас есть специальные разрешения.";
 $Definition["You don't have permission to view this resource."] = "У вас нет разрешения на просмотр этого ресурса.";
-$Definition["You need to <0>Sign In</0> to vote on this article"] = "Вам нужно <0>войти</ 0>, чтобы проголосовать за эту статью";
+$Definition["You need to <0>Sign In</0> to vote on this article"] = "Вам нужно <0>войти</0>, чтобы проголосовать за эту статью";
 $Definition["Use Banner Image Overlay"] = "Использовать наложение баннерного изображения";
 
