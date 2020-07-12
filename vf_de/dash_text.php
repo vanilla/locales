@@ -146,7 +146,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Wähle ein Authentifizierungs-Plugin zum Konfigurieren.';
 $Definition['PluginHelp'] = 'Plugins ermöglichen es Ihnen, weitere Funktionalitäten zu Ihrer Seite hinzuzufügen. <br />Wenn ein Plugin zu Ihrem %s Ordner hinzugefügt wurde, können Sie es hier ein- oder ausschalten. ';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Das Pocket wird zwischen jeder Diskussion auf der Hauptdiskussionsliste angezeigt. Da Diskussionen für gewöhnlich in &lt;li&gt;..&lt;/li&gt; Tags eingeschlossen sind, musst du deine Pockets ebenfalls in diese Tags packen.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Das Pocket wird zwischen jeder Diskussion auf der Hauptdiskussionsliste angezeigt. Da Diskussionen für gewöhnlich in <li>..</li> Tags eingeschlossen sind, musst du deine Pockets ebenfalls in diese Tags packen.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Mit Pockets kannst du freies HTML an verschiedenen Orten in der Anwendung hinzufügen.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Vermeide Spam im Forum durch das Eingrenzen der Anzahl der Diskussionen und Kommentare, die der Nutzer in einer gegebenen Zeitspanne erstellen kann.';
 
@@ -205,7 +205,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'Die Import-Datei enthält keine Daten.';
 $Definition['The import file is not in the correct format.'] = 'Die Import-Datei ist nicht im korrekten Format.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Der Ort der JSONP-formatierten Authentifizierungsdaten.';
-$Definition['ThemeHelp'] = 'Themen erlauben es Ihnen, das Aussehen &amp; den Stil Ihrer Seite zu ändern.<br />Sobald ein Thema zu Ihrem %s Ordner hinzugefügt wurde, können Sie es hier aktivieren . ';
+$Definition['ThemeHelp'] = 'Themen erlauben es Ihnen, das Aussehen & den Stil Ihrer Seite zu ändern.<br />Sobald ein Thema zu Ihrem %s Ordner hinzugefügt wurde, können Sie es hier aktivieren . ';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Die Themenvorschau ist auf die Anzeige der Themenvorlage und des css beschränkt.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Der Passwort-Authenticator hat keine eigenen Einstellungsoptionen. ';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Ist ist keine Änderung an der Datenbankstruktur nötig. Es könnten allerdings veränderte Daten vorliegen.';
@@ -238,10 +238,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Ben
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla-Export: %s, Quelle: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla-Statistiken sind momentan deaktiviert';
 $Definition['Video tutorial on advanced settings'] = 'Videotutorial über erweitere Einstellungen';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Videotutorial über das Suchen &amp; Verwalten von Benutzern';
-$Definition['Video tutorial on managing appearance'] = 'Videotutorial über das Verwalten &amp; Anpassen der Oberfläche';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Videotutorial über das Suchen & Verwalten von Benutzern';
+$Definition['Video tutorial on managing appearance'] = 'Videotutorial über das Verwalten & Anpassen der Oberfläche';
 $Definition['Video tutorial on managing categories'] = 'Videotutorial über das Verwalten von Kategorien';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Videotutorial über das Verwalten von Rollen &amp; Befugnissen';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Videotutorial über das Verwalten von Rollen & Befugnissen';
 $Definition['Video tutorial on user registration'] = 'Videotutorial über die Registrierung von Benutzern';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Warnung: Die Aktivierung dieser Funktion kann zu Javascript-Fehlern auf Ihrer Website führen.';
@@ -311,7 +311,7 @@ $Definition["Font Name"] = "Schriftartenname";
 $Definition["Invalid URL"] = "Ungültige URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Sie können eine benutzerdefinierte Schriftart in Ihr Theming-System hochladen. Kopieren Sie einfach die URL und fügen Sie sie in das Feld ein.";
 $Definition["You can configure some values differently for different screensizes."] = "Sie können einige Werte für verschiedene Bildschirmgrößen unterschiedlich konfigurieren.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Sie müssen die Domain der Schriftart-URL zu &lt;0&gt; AllowedDomains hinzufügen </0> in der Konfiguration der Site. &lt;1&gt; Weitere Informationen zu benutzerdefinierten Schriftarten. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Sie müssen die Domain der Schriftart-URL zu <0>AllowedDomains hinzufügen</0> in der Konfiguration der Site. <1>Weitere Informationen zu benutzerdefinierten Schriftarten</1>.";
 
 $Definition["Primary Buttons"] = "Primäre Buttons";
 $Definition["Secondary Buttons"] = "Sekundäre Buttons";
