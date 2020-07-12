@@ -38,7 +38,7 @@ jobs:
           name: PHPUnit Tests
           command: |
             cd ~/workspace/repo
-            ./vendor/bin/phpunit -c phpunit.xml.dist
+            ./vendor/bin/phpunit -c phpunit.xml.dist --exclude-group="large"
   php_72_tests:
     docker:
       - image: 'circleci/php:7.2.9-cli'

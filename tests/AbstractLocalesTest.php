@@ -14,12 +14,14 @@ use PHPUnit\Framework\TestCase;
  */
 abstract class AbstractLocalesTest extends TestCase {
     const BASEDIR = __DIR__.'/..';
-    const RESOURCE_FILES = ['dash_core.php', 'dash_text.php', 'missing.php', 'site_core.php'];
+    const RESOURCE_FILES = ['dash_core.php', 'dash_text.php', 'missing.php', 'site_core.php', 'site_kb.php'];
 
     private $cache = [];
 
     /**
      * Get all of the locale directories.
+     *
+     * - $path
      *
      * @return array Returns a data provider.
      */
@@ -57,6 +59,13 @@ abstract class AbstractLocalesTest extends TestCase {
         return $this->cache[$dir];
     }
 
+    /**
+     * Load the translations for just one resource.
+     *
+     * @param string $baseDir
+     * @param string $filename
+     * @return array
+     */
     protected function loadResourceTranslations(string $baseDir, string $filename): array {
         $path = "$baseDir/$filename";
         if (file_exists($path)) {
@@ -73,6 +82,47 @@ abstract class AbstractLocalesTest extends TestCase {
      */
     protected function loadSourceTranslations(): array {
         $r = $this->loadTranslations(self::BASEDIR.'/tx-source');
+        return $r;
+    }
+
+    /**
+     * Returns a a data provider in the form:
+     *
+     * - $filename
+     * - $resourceName
+     *
+     * @return array
+     */
+    public function provideResources(): array {
+        $r = [];
+        foreach (self::RESOURCE_FILES as $file) {
+            if ($file === 'missing.php') {
+                continue;
+            }
+            $r[$file] = [$file, str_replace(['.', '_'], '-', $file).'--transifex'];
+        }
+        return $r;
+    }
+
+    /**
+     * Returns a data provider in the form:
+     *
+     * - $basePath
+     * - $resourceFilename
+     * - $resourceName
+     *
+     * @return array
+     */
+    public function provideLocalesAndResources(): array {
+        $localeDirs = $this->provideLocaleDirs();
+        $resourceDirs = $this->provideResources();
+
+        $r = [];
+        foreach ($localeDirs as $locale => [$localeDir]) {
+            foreach ($resourceDirs as $resource => [$filename, $resourceName]) {
+                $r["$locale: $resource"] = [$localeDir, $filename, $resourceName];
+            }
+        }
         return $r;
     }
 }

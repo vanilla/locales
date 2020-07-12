@@ -25,30 +25,40 @@ class SmokeTest extends AbstractLocalesTest {
     }
 
     /**
-     * Sprintf placeholders should match between the source and translations.
-     *
-     * @param string $dir
-     * @param string $key
-     * @param string $value
-     * @param array $sprintfs
-     * @dataProvider provideDirsAndSprintfs
+     * @param string $localeDir
+     * @param string $resourceFilename
+     * @dataProvider provideLocalesAndResources
      */
-    public function testSprintfStrings(string $dir, string $key, string $value, array $sprintfs): void {
-        $locale = basename($dir);
-        $translations = $this->loadTranslations($dir);
+    public function testSprintfStrings(string $localeDir, string $resourceFilename): void {
+        $locale = basename($localeDir);
+        $translations = $this->loadResourceTranslations($localeDir, $resourceFilename);
+        $source = $this->source;
 
-        if (isset($translations[$key])) {
-            $translaion = $translations[$key];
-            $translationSprintfs = $this->getSprintfs($translaion);
-            if ($sprintfs !== $translationSprintfs) {
-                // For debug breakpoints.
-                $translationSprintfs = $this->getSprintfs($translaion);
+        $tested = 0;
+        foreach ($source as $key => $value) {
+            $sprintfs = $this->getSprintfs($value);
+            if (empty($sprintfs)) {
+                continue;
             }
-            $this->assertSame($sprintfs, $translationSprintfs);
-        } elseif (fnmatch('*vf_en*', $dir)) {
-            $this->assertTrue(true);
-        } else {
-            $this->markTestSkipped("The $locale locale has not translated: $key");
+
+            if (isset($translations[$key])) {
+                $translaion = $translations[$key];
+                $translationSprintfs = $this->getSprintfs($translaion);
+                if ($sprintfs !== $translationSprintfs) {
+                    // For debug breakpoints.
+                    $translationSprintfs = $this->getSprintfs($translaion);
+                }
+                $this->assertSame($sprintfs, $translationSprintfs, $value);
+                $tested++;
+            }
+        }
+
+        if (!$tested) {
+            if (fnmatch('*vf_en*', $localeDir)) {
+                $this->assertTrue(true);
+            } else {
+                $this->markTestSkipped("The $locale locale has not translated any sprintf strings.");
+            }
         }
     }
 
@@ -80,6 +90,35 @@ class SmokeTest extends AbstractLocalesTest {
 
                 $this->assertSame($decoded, $value);
             }
+        }
+    }
+
+    /**
+     * Sprintf placeholders should match between the source and translations.
+     *
+     * @param string $dir
+     * @param string $key
+     * @param string $value
+     * @param array $sprintfs
+     * @dataProvider provideDirsAndSprintfs
+     * @large
+     */
+    public function testSprintfStringsExpanded(string $dir, string $key, string $value, array $sprintfs): void {
+        $locale = basename($dir);
+        $translations = $this->loadTranslations($dir);
+
+        if (isset($translations[$key])) {
+            $translaion = $translations[$key];
+            $translationSprintfs = $this->getSprintfs($translaion);
+            if ($sprintfs !== $translationSprintfs) {
+                // For debug breakpoints.
+                $translationSprintfs = $this->getSprintfs($translaion);
+            }
+            $this->assertSame($sprintfs, $translationSprintfs);
+        } elseif (fnmatch('*vf_en*', $dir)) {
+            $this->assertTrue(true);
+        } else {
+            $this->markTestSkipped("The $locale locale has not translated: $key");
         }
     }
 
