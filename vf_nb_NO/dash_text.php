@@ -4,13 +4,13 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Hodet opp!</strong> Slette en rolle kan føre til at brukere ikke har tilgang til applikasjonen.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Hodet opp!</strong> Å flytte diskusjoner inn i en erstatningskategori kan føre til at diskusjoner forsvinner (eller vises) hvis erstatningskategorien har andre tillatelser enn kategorien blir slettet.';
 
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'En rolle med standardtypen &quot;ubekreftet&quot; kreves for å bruke e-postbekreftelse.';
-$Definition['About.DisableStatistics'] = 'Hvis du må deaktivere denne datarapporteringen av en eller annen forretningsgrunner, kan du gjøre det ved å legge til følgende linje i installasjonens konfigurasjonsfil: <code>$Configuration[&#39;Garden&#39;][&#39;Analytics&#39;][&#39;Enabled&#39;] = FALSE;</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'En rolle med standardtypen "ubekreftet" kreves for å bruke e-postbekreftelse.';
+$Definition['About.DisableStatistics'] = 'Hvis du må deaktivere denne datarapporteringen av en eller annen forretningsgrunner, kan du gjøre det ved å legge til følgende linje i installasjonens konfigurasjonsfil: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Det er av vital betydning for levetiden til denne gratis open source-programvaren at vi nøyaktig måler rekkevidden og effektiviteten til Vanilla. Vi ber deg om å ikke deaktivere rapportering av disse dataene.';
 $Definition['AboutCommentEmbedding'] = 'Vanilje kan brukes som en drop-in erstatning for bloggens originale kommentarsystem. Faktisk kan det brukes til å legge til kommentarer til hvilken som helst side på nettet.';
 $Definition['AboutEmbedding'] = 'Innebygging gjør at hele eller deler av samfunnet ditt kan integreres i andre applikasjoner og websider.';
 $Definition['About Vanilla Statistics'] = 'Om vaniljestatistikk';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Få tilgang til samfunnsforumet ditt ved å klikke på &quot;Besøk nettstedet&quot; -koblingen øverst på denne siden, eller ved å <a href={/,url}>klikke her</a> . Community forumet er det alle brukerne og kundene dine vil se når de besøker <a href="{/,url,domain}">{/, url, domain}</a> .';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Få tilgang til samfunnsforumet ditt ved å klikke på "Besøk nettstedet" -koblingen øverst på denne siden, eller ved å <a href={/,url}>klikke her</a> . Community forumet er det alle brukerne og kundene dine vil se når de besøker <a href="{/,url,domain}">{/, url, domain}</a> .';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'Legg til grenser for opplasting av dimensjoner i diskusjoner og kommentarer.';
 $Definition['AddressBarColorDescription'] = 'Noen nettlesere støtter en farge på adresselinjen. Bare mobil.';
@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Ta en titt på %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilje er den enkleste, kraftigste samfunnsplattformen i verden. Den er superduper enkel å bruke. Start med denne introduksjonsvideoen og fortsett med trinnene nedenfor. Nyt!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Velg en rolle som foreldreløse brukere vil bli tildelt:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Velg et tema for dette underfellesskapet. &lt;0&gt; Les mer </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Velg et tema for dette underfellesskapet. <0> Les mer </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Velg hvordan du skal håndtere alt innholdet som er knyttet til brukerkontoen for %s (kommentarer, meldinger osv.).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Choose md5 if you\'re not sure what to choose.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Velg den foretrukne utformingen for lister med kategorier.';
@@ -67,14 +67,14 @@ $Definition['Enter a descriptive name.'] = 'Skriv inn et beskrivende navn på lo
 $Definition['Enter a short name for the site.'] = 'Skriv inn et kort navn på nettstedet. Dette vises på påloggingsknappene.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Enter the address of your Wordpress Blog and we\'ll take it from there.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Angi tilkoblingsinnstillingene for sphinx-serveren din nedenfor.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Hver redigering eller sletting blir spilt inn her. Bruk &#39;Restore&#39; for å angre endringer.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Hver redigering eller sletting blir spilt inn her. Bruk \'Restore\' for å angre endringer.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Alle som registrerer seg for fellesskapet ditt, får en offentlig profilside der de kan laste opp et bilde av seg selv, administrere profilinnstillingene sine og spore kule ting som skjer i samfunnet. Du bør <a href="{/profile,url}">tilpasse profilen din nå</a> .';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Hver eneste bruker må få minst én rolle. Roller brukes for å bestemme hva brukere har lov til å gjøre.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Med Facebook Connect kan brukerne logge seg på med Facebook-kontoen sin. <b>Du må registrere søknaden din hos Facebook for at denne pluginen skal fungere.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Kunne ikke koble til databasen med brukernavnet og passordet du skrev inn. Har du skrevet feil på dem? Databasen rapporterte: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Tving instrumentpanelet til å bare være tilgjengelig via denne url <em>(anbefales ikke)</em>';
-$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'For eksempel kan du forby alle brukere med e-postadresser fra &quot;eksempel.com&quot; ved å legge til et forbud av e-posttypen med verdien &quot;*@eksempel.no&quot;.';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'For eksempel kan du forby alle brukere med e-postadresser fra "eksempel.com" ved å legge til et forbud av e-posttypen med verdien "*@eksempel.no".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO-formål er crawlers fra søkemotorer ekskludert fra å bli tvunget til å se forumet i den eksterne url-en.';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
@@ -105,7 +105,7 @@ $Definition['Import'] = 'Importere';
 $Definition['Importing to Vanilla'] = 'Importerer til vanilje';
 $Definition['Internationalization & Localization'] = 'Internasjonalisering og lokalisering';
 $Definition['Invitation email failed to send: %'] = 'Selv om invitasjonen ble opprettet, lyktes ikke e-posten å sende. Serveren rapporterte følgende feil: %s';
-$Definition['Invitations can be sent from users\' profile pages.'] = 'Invitations can be sent from users\' profile pages.';
+$Definition['Invitations can be sent from users\' profile pages.'] = 'Når du bruker registrering etter invitasjon, vil brukerne ha en lenke kalt <a href="%s" class="Popup">Mine invitasjoner</a> på profilsidene sine.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Det ser ut som om databasen du spesifiserte ikke eksisterer ennå. Har du laget den enda? Har du skrevet inn feil feil? Databasen rapporterte: <code>%s</code>';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a comment down to a reasonable size.'] = 'Det er lurt å holde maksimalt antall tegn som er tillatt i en kommentar, til en rimelig størrelse.';
 $Definition['It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.'] =
@@ -131,7 +131,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Innrede kategorier dypere enn denne dybden vil bli plassert i en kommaavgrenset liste.';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Nettstedet trenger en rolle med standardtypen &quot;ubekreftet&quot; for å bruke e-postbekreftelse. Legg til en for å aktivere denne innstillingen.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Nettstedet trenger en rolle med standardtypen "ubekreftet" for å bruke e-postbekreftelse. Legg til en for å aktivere denne innstillingen.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Får du ikke det du forventer når du forhåndsviser temaet?';
 $Definition['Notify me when people comment on my addons.'] = 'Gi meg beskjed når folk kommenterer tilleggene mine.';
 
@@ -142,7 +142,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Vennligst velg en autentisering å konfigurere.';
 $Definition['PluginHelp'] = 'Plugins lar deg legge til funksjonalitet på nettstedet ditt. <br /> Når en plugin er lagt til i mappen %s, kan du aktivere eller deaktivere den her.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Lommen vises mellom hver diskusjon på hoveddiskusjonslisten. Siden diskusjoner vanligvis er i &lt;li&gt; .. &lt;/li&gt; -koder, må du pakke lommen i disse kodene også.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Lommen vises mellom hver diskusjon på hoveddiskusjonslisten. Siden diskusjoner vanligvis er i <li> .. </li> -koder, må du pakke lommen i disse kodene også.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Lommer lar deg legge til HTML-format med gratis form på forskjellige steder rundt om i applikasjonen.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Forhindre spam på forumet ditt ved å begrense antall diskusjoner og kommentarer som brukere kan legge ut i løpet av et gitt tidsrom.';
 
@@ -157,10 +157,10 @@ $Definition['Recommend starting with five ranks.'] =
     'Du vil ikke ha for mange rekker. Vi anbefaler å starte med fem. Du kan legge til mer hvis samfunnet ditt er veldig stort.';
 $Definition['Requires “Flag” reaction permission.'] = 'Krever “Flagg” reaksjonstillatelse.';
 $Definition['Requires “Negative” reaction permission.'] = 'Krever “negativ” reaksjonstillatelse.';
-$Definition['Requires “Positive” reaction permission.'] = 'Krever &quot;Positiv&quot; reaksjonstillatelse.';
+$Definition['Requires “Positive” reaction permission.'] = 'Krever "Positiv" reaksjonstillatelse.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Når du gjenoppretter, blir elementene fjernet fra denne listen og lagt tilbake på nettstedet.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Bruk følgende alternativ for å aktivere tilbud for Rich Editor. Dette vil bare gjelde hvis standardformateringen er &quot;Rik&quot;.';
+    'Bruk følgende alternativ for å aktivere tilbud for Rich Editor. Dette vil bare gjelde hvis standardformateringen er "Rik".';
 $Definition['Route Expression'] = 'Ruteuttrykk';
 $Definition['Routes are used to redirect users.'] = 'Ruter brukes til å omdirigere brukere avhengig av nettadressen du ber om.';
 
@@ -171,7 +171,7 @@ $Definition['Security.Hsts.MaxAgeRecommendation'] = 'Vi anbefaler at du starter 
 $Definition['Security.Hsts.SubmitWarning'] = 'Advarsel: Det er flott å støtte forhåndsinnlasting av HSTS som en god praksis. Du må imidlertid sende nettstedet ditt til hstspreload.org for å sikre at det er forhåndsinnlastet (dvs. for å få full beskyttelse for den tiltenkte konfigurasjonen).';
 $Definition['Select the default type for this role, if any.'] = 'Velg standardtype for denne rollen, hvis noen.';
 $Definition['Select the import source'] = 'Velg importkilde';
-$Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialisert kolonne &quot;%s&quot; kunne ikke merkes.';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialisert kolonne "%s" kunne ikke merkes.';
 $Definition['ShareImageDescription'] =
     'Når noen deler en lenke fra nettstedet ditt, prøver vi å ta et bilde fra siden. Hvis det ikke er et bilde på siden, bruker vi dette bildet i stedet. Bildet skal være minst 50 × 50, men vi anbefaler 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Slå på dette alternativet for å vise alle mulige lommeposisjoner. Når du slår på dette alternativet, vil du bare vise plasseringene til brukere som kan administrere lommer.';
@@ -200,7 +200,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'Importfilen inneholder ingen data.';
 $Definition['The import file is not in the correct format.'] = 'Importfilen er ikke i riktig format.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Plasseringen av jsonp-formatert autentiseringsdata.';
-$Definition['ThemeHelp'] = 'Tema-Hjelp';
+$Definition['ThemeHelp'] = 'Temaer lar deg endre utseendet og følelsen på nettstedet ditt. <br /> Når et tema er lagt til i mappen %s, kan du aktivere det her.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Forhåndsvisning av tema er begrenset til å vise tematets mal og css.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Passord-autentiseringen har ikke noen egendefinerte konfigurerings instillinger.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Det kreves ingen endringer i databasestrukturen. Det kan imidlertid være dataendringer.';
@@ -211,7 +211,7 @@ $Definition['The Vanilla 2 Exporter'] = 'Vanilla 2-eksportøren';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool';
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'De fungerer akkurat som vanlige temaer. Når en er lagt til i temamappen, kan du aktivere den her.';
-$Definition['This is the administrative dashboard for your new community.'] = 'Dette er det administrative dashbordet for det nye samfunnet. Sjekk ut konfigurasjonsalternativene til siden. Derfra kan du konfigurere hvordan samfunnet ditt fungerer. <b>Som standard er det bare brukere i &quot;Administrator&quot; -rollen som kan se denne delen av samfunnet ditt.</b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'Dette er det administrative dashbordet for det nye samfunnet. Sjekk ut konfigurasjonsalternativene til siden. Derfra kan du konfigurere hvordan samfunnet ditt fungerer. <b>Som standard er det bare brukere i "Administrator" -rollen som kan se denne delen av samfunnet ditt.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Dette alternativet viser / skjuler stedene hvor lommer kan gå, men bare for brukere som har tillatelse til å legge til / redigere lommer. Prøv å vise stedene, og besøk deretter nettstedet ditt.';
 $Definition['This page lists the endpoints of your API.'] =
     'Denne siden viser sluttpunktene til API-en din. Klikk på sluttpunkter for mer informasjon. Du kan ringe direkte til API fra denne siden eller eksternt ved hjelp av et tilgangstoken.';
@@ -248,7 +248,7 @@ $Definition['When enabled, you can manage products, and group subcommunities by 
 $Definition['Which reactions you use really depends on your community.'] =
     'Hvilke reaksjoner du bruker, avhenger av samfunnet ditt, men vi anbefaler at du husker et par poeng.';
 
-$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Du kan forby alle brukere med en IP-adresse forhåndsinnstilt med &quot;111.111.111&quot; ved å legge til et IP-forbud med verdien &quot;111.111.111. *&quot;.';
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Du kan forby alle brukere med en IP-adresse forhåndsinnstilt med "111.111.111" ved å legge til et IP-forbud med verdien "111.111.111. *".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Du kan forby IP-adresser, e-postadresser og brukernavn.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'Du kan velge mellom en av de forskjellige stilene dette temaet tilbyr.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Du kan koble til flere nettsteder som støtter jsConnect.';
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Velkommen til ditt tema";
-$Definition["This is a style guide of your theme."] = "Dette er en stilguide for temaet ditt. Den har eksempler på de visuelle elementene som brukes i hele applikasjonen. Du kan klikke på de forskjellige widgetene, for eksempel &lt;0&gt; tittellinjen </0> eller &lt;1&gt; Banner </1> for å redigere egenskapene i sidepanelet.";
-$Definition["In additon to the widgets there are also"] = "I tillegg til widgetene er det også &lt;0&gt; Global Styles </0> . For å redigere globale stiler, klikk andre steder på siden, for eksempel denne teksten.";
+$Definition["This is a style guide of your theme."] = "Dette er en stilguide for temaet ditt. Den har eksempler på de visuelle elementene som brukes i hele applikasjonen. Du kan klikke på de forskjellige widgetene, for eksempel <0> tittellinjen </0> eller <1> Banner </1> for å redigere egenskapene i sidepanelet.";
+$Definition["In additon to the widgets there are also"] = "I tillegg til widgetene er det også <0> Global Styles </0> . For å redigere globale stiler, klikk andre steder på siden, for eksempel denne teksten.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Det er to typer knapper i applikasjonen: primær og sekundær.";
 $Definition["Primary Button"] = "Primær knapp";
 $Definition["Secondary Button"] = "Sekundær knapp";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Skriftnavn";
 $Definition["Invalid URL"] = "ugyldig URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan laste opp en egendefinert skrift i ditt temasystem. Bare kopier og lim inn URL-en i feltet.";
 $Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurere noen verdier på en annen måte for forskjellige skjermbilder.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du må legge til url-domenet til &lt;0&gt; Tillatte domener </0> , i nettstedets konfigurasjon. &lt;1&gt; Lær mer om tilpassede skrifter. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du må legge til url-domenet til <0> Tillatte domener </0> , i nettstedets konfigurasjon. <1> Lær mer om tilpassede skrifter. </1> .";
 
 $Definition["Primary Buttons"] = "Primære knapper";
 $Definition["Secondary Buttons"] = "Sekundærknapper";

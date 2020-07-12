@@ -1,6 +1,6 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '%1$s &quot;%2$s&quot; ikke funnet.';
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" ikke funnet.';
 $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Versjon %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s versjon %2$s er tilgjengelig.';
@@ -60,7 +60,7 @@ $Definition['Add Comments'] = 'Legg til kommentarer';
 $Definition['Add Connection'] = 'Legg til tilkobling';
 $Definition['Added By'] = 'Lagt til av';
 $Definition['Add Field'] = 'Legg til felt';
-$Definition['Add Info &amp; Create Account'] = 'Legg til Info &amp; Opprett konto';
+$Definition['Add Info &amp; Create Account'] = 'Legg til Info & Opprett konto';
 $Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'Legg til informasjon i feltet fra i e-postadresser for å hjelpe med svar (anbefalt).';
 $Definition['Adding & Editing Categories'] = 'Legge til og redigere kategorier';
 $Definition['Add Item'] = 'Legg til vare';
@@ -125,7 +125,7 @@ $Definition['Authors may edit for %s'] = 'Forfattere kan redigere for %s';
 $Definition['Authors may never edit'] = 'Forfattere kan aldri redigere';
 $Definition['Auto-Fetch New Comments'] = 'Hent nye kommentarer automatisk';
 $Definition['Avatar Dimensions'] = 'Avatar dimensjoner';
-$Definition['Avatars'] = 'avatarer';
+$Definition['Avatars'] = 'Avatarer';
 
 $Definition['Background Color'] = 'Bakgrunnsfarge';
 $Definition['Back to all users'] = 'Tilbake til alle brukere';
@@ -218,7 +218,7 @@ $Definition['Content Flagging'] = 'Innholdsflagging';
 $Definition['Conversation Messages'] = 'Samtalemeldinger';
 $Definition['Conversations'] = 'Samtaler';
 $Definition['Conversations Setup'] = 'Oppsett av samtaler';
-$Definition['Could not find a theme identified by \'%s\''] = 'Kunne ikke finne et tema identifisert av &#39;%s&#39;';
+$Definition['Could not find a theme identified by \'%s\''] = 'Kunne ikke finne et tema identifisert av \'%s\'';
 $Definition['Could not instantiate mail function.'] = 'Kunne ikke opprette mail-funksjonen.';
 $Definition['Could not link the addon.'] = 'Kunne ikke koble tillegget.';
 $Definition['Could not open %s.'] = 'Kunne ikke åpne %s.';
@@ -242,7 +242,7 @@ $Definition['Debugger'] = 'debugger';
 $Definition['Debug Information'] = 'Feilsøkingsinformasjon';
 $Definition['Decline'] = 'Avslå';
 $Definition['Default (%s)'] = 'Standard (%s)';
-$Definition['Default <0/>'] = 'Standard &lt;0 /&gt;';
+$Definition['Default <0/>'] = 'Standard <0 />';
 $Definition['Default %s Permissions'] = 'Standard %s Tillatelser';
 $Definition['Default  Category'] = 'Standard kategori';
 $Definition['Default Category Permissions'] = 'Standard kategoritillatelser';
@@ -644,7 +644,7 @@ $Definition['RSVP'] = 'RSVP';
 
 $Definition['Save Captured Definitions'] = 'Lagre fangede definisjoner';
 $Definition['Save Colors'] = 'Lagre farger';
-$Definition['Search by user or role.'] = 'Søk etter brukere med navn eller e-post, eventuelt med% som jokertegn. Du kan også søke etter bruker-ID, navnet på en rolle eller &quot;utestengt&quot;.';
+$Definition['Search by user or role.'] = 'Søk etter brukere med navn eller e-post, eventuelt med% som jokertegn. Du kan også søke etter bruker-ID, navnet på en rolle eller "utestengt".';
 $Definition['seconds'] = 'sekunder';
 $Definition['Security'] = 'Sikkerhet';
 $Definition['See also'] ='Se også';
@@ -657,7 +657,7 @@ $Definition['Send a Test Email'] = 'Send en test-e-post';
 $Definition['Send Invitations!'] = 'Send invitasjoner!';
 $Definition['Send users a welcome email.'] = 'Send brukerne en velkomst e-post.';
 $Definition['Sent To'] = 'Send til';
-$Definition['Separate each word with a semi-colon ";"'] = 'Skill hvert ord med en halvkolon &quot;;&quot;';
+$Definition['Separate each word with a semi-colon ";"'] = 'Skill hvert ord med en halvkolon ";"';
 $Definition['Share Image'] = 'Del bilde';
 $Definition['Show all categories'] = 'Vis alle kategorier';
 $Definition['Show Pocket Locations'] = 'Vis lommeposisjoner';
@@ -717,7 +717,7 @@ $Definition['The invitation was sent successfully.'] = 'Invitasjonen ble sendt!'
 $Definition['Theme Editor'] = 'Temaeditor';
 $Definition['Theme Options'] = 'Temaalternativer';
 $Definition['Themes'] = 'Temaer';
-$Definition['ThemeEditor.Copy'] = '&lt;0 /&gt; kopi';
+$Definition['ThemeEditor.Copy'] = '<0 /> kopi';
 $Definition['Theming Documentation'] = 'Temende dokumentasjon';
 $Definition['Theming Overview'] = 'Temende oversikt';
 $Definition['There\'s been an error uploading the image. Your email logo can uploaded in one of the following filetypes: gif, jpg, png'] = 'Det har oppstått en feil ved opplasting av bildet. E-postlogoen din kan lastes opp i en av følgende filtyper: gif, jpg, png';
@@ -781,7 +781,7 @@ $Definition['Unlimited'] = 'ubegrenset';
 $Definition['Upload New Email Logo'] = 'Last opp ny e-postlogo';
 $Definition['Upcoming Events'] = 'Kommende arrangementer';
 $Definition['Use an SMTP server to send email'] = 'Bruk en SMTP-server for å sende e-post';
-$Definition['Use asterisks for wildcards'] = 'Bruk stjerner til jokertegn, for eksempel &#39;*@hotmail.com&#39;';
+$Definition['Use asterisks for wildcards'] = 'Bruk stjerner til jokertegn, for eksempel \'*@hotmail.com\'';
 $Definition['Use Categories'] = 'Bruk kategorier';
 $Definition['Use categories to organize discussions'] = 'Bruk kategorier for å organisere diskusjoner';
 $Definition['Use Facebook names for usernames.'] = 'Bruk Facebook-navn til brukernavn.';
@@ -877,7 +877,7 @@ $Definition['Reinterpret All Posts As Wysiwyg'] = 'Omfortolke alle innlegg som W
 
 $Definition['Mobile Format'] = 'Mobilt format';
 $Definition['Enable Rich Quotes'] = 'Aktiver rike sitater';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Bruk følgende alternativ for å aktivere tilbud for Rich Editor. Dette vil bare gjelde hvis standardformateringen er &quot;Rik&quot;.';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Bruk følgende alternativ for å aktivere tilbud for Rich Editor. Dette vil bare gjelde hvis standardformateringen er "Rik".';
 
 // Catalogue Display Plugin/Formats
 $Definition['Default placeholder'] = 'Standard plassholder';
@@ -887,6 +887,6 @@ $Definition['Apply additional classes on catalogue image.'] = 'Bruk flere klasse
 $Definition['Category only'] = 'Bare kategori';
 $Definition['Display on category page only.'] = 'Vis bare på kategorisiden. Liste over nyere diskusjoner blir ikke berørt.';
 $Definition['Use Masonry display'] = 'Bruk murskjerm';
-$Definition['Show an uploaded image on the Category page.'] = 'Hver diskusjon viser et opplastet bilde på kategorisiden. Dette gjelder bare kategorier med &quot;Diskusjoner&quot; som &quot;Vis som.&quot;';
+$Definition['Show an uploaded image on the Category page.'] = 'Hver diskusjon viser et opplastet bilde på kategorisiden. Dette gjelder bare kategorier med "Diskusjoner" som "Vis som."';
 $Definition['Upload Placeholder Image'] = 'Last opp plassholderbilde';
 

@@ -2,7 +2,7 @@
 // phpcs:ignoreFile
 $Definition["(No Body)"] = "(Tanpa Badan)";
 $Definition["(Untitled)"] = "(Tanpa tajuk)";
-$Definition["<0 /> out of <1 /> people found this helpful"] = "&lt;0 /&gt; daripada &lt;1 /&gt; orang menganggap ini berguna";
+$Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> daripada <1 /> orang menganggap ini berguna";
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "Versi nama pangkalan pengetahuan yang disesuaikan seperti yang tertera di URL.";
 $Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "Penerangan mengenai asas pengetahuan. Dipaparkan dalam pemilih asas pengetahuan.";
@@ -12,7 +12,7 @@ $Definition["Add a knowledge base to get started."] = "Tambahkan pangkalan penge
 $Definition["Add/Edit Knowledge Base"] = "Tambah / Edit Pangkalan Pengetahuan";
 $Definition["Admin Links"] = "Pautan Pentadbir";
 $Definition["Alphabetically"] = "Secara abjad";
-$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Adakah anda pasti mahu memadamkan &lt;0 /&gt; &quot;&lt;1 /&gt;&quot;?";
+$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Adakah anda pasti mahu memadamkan <0 /> \"<1 />\"?";
 $Definition["Are you sure you want to delete this knowledge base?"] = "Adakah anda pasti mahu memadamkan pangkalan pengetahuan ini?";
 $Definition["Are you sure you want to purge this knowledge base?"] = "Adakah anda pasti mahu membersihkan pangkalan pengetahuan ini?";
 $Definition["Are you sure you want to restore this knowledge base?"] = "Adakah anda pasti mahu mengembalikan asas pengetahuan ini?";
@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Semakan Artikel";
 $Definition["Article Three"] = "Perkara Ketiga";
 $Definition["Article Two"] = "Artikel Dua";
 $Definition["Articles"] = "Artikel";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Kaitkan produk dengan subkomuniti ini. Gunakan UI &lt;0&gt; Urus Produk </0> untuk menambah, mengedit, atau memadam produk.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Kaitkan produk dengan subkomuniti ini. Gunakan UI <0> Urus Produk </0> untuk menambah, mengedit, atau memadam produk.";
 
 $Definition["Back to Home"] = "Kembali ke rumah";
 $Definition["Back to home page"] = "Kembali ke laman utama";
@@ -34,13 +34,13 @@ $Definition["Be the first one to vote!"] = "Jadilah yang pertama mengundi!";
 $Definition["Border Style"] = "Gaya Sempadan";
 $Definition["Browse Articles by Category"] = "Lihat Artikel mengikut Kategori";
 $Definition["Browse"] = "Semak imbas";
-$Definition["By <0/>"] = "Menjelang &lt;0 /&gt;";
+$Definition["By <0/>"] = "Menjelang <0 />";
 
 $Definition["category"] = "kategori";
 $Definition["Category One"] = "Kategori Satu";
 $Definition["Category Options"] = "Pilihan Kategori";
 $Definition["Category Two"] = "Kategori Dua";
-$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Tindakan tertentu dilumpuhkan kerana hanya tersedia di lokasi sumber: &lt;0 /&gt;";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Tindakan tertentu dilumpuhkan kerana hanya tersedia di lokasi sumber: <0 />";
 $Definition["Certain actions are disabled because they are only avalaible in the source locale."] = "Tindakan tertentu dilumpuhkan kerana hanya tersedia di lokasi sumber.";
 $Definition["Choose"] = "Pilih";
 $Definition["Choose a location for this page."] = "Pilih lokasi untuk halaman ini.";
@@ -56,13 +56,13 @@ $Definition["Debug"] = "Nyahpepijat";
 $Definition["Default Background Color"] = "Warna Latar Lalai";
 $Definition["Default Foreground Color"] = "Warna Latar Depan Lalai";
 
-$Definition["Delete \"<0/>\""] = "Padamkan &quot;&lt;0 /&gt;&quot;";
+$Definition["Delete \"<0/>\""] = "Padamkan \"<0 />\"";
 $Definition["Delete Draft"] = "Padamkan Draf";
 $Definition["Delete an Article"] = "Padamkan Artikel";
 $Definition["Deleted Articles"] = "Artikel yang Dihapuskan";
 $Definition["Deleted Knowledge Bases"] = "Pangkalan Pengetahuan yang Dihapus";
 $Definition["Draft Options"] = "Pilihan Draf";
-$Definition["Draft saved <0/>"] = "Draf disimpan &lt;0 /&gt;";
+$Definition["Draft saved <0/>"] = "Draf disimpan <0 />";
 
 $Definition["Edit Knowledge Base"] = "Edit Pangkalan Pengetahuan";
 $Definition["Error saving draft."] = "Ralat semasa menyimpan draf.";
@@ -77,7 +77,7 @@ $Definition["Featured Article"] = "Artikel yang Disyorkan";
 $Definition["Featured Articles"] = "Artikel yang Disyorkan";
 
 $Definition["General Appearance"] = "Penampilan umum";
-$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Panduan adalah untuk membuat panduan bagaimana, dokumentasi, atau &quot;buku&quot; seperti kandungan yang harus dibaca secara teratur.";
+$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Panduan adalah untuk membuat panduan bagaimana, dokumentasi, atau \"buku\" seperti kandungan yang harus dibaca secara teratur.";
 
 $Definition["Hello Home Page. Links are below:"] = "Laman Utama Hello. Pautan ada di bawah:";
 $Definition["Help centers are for making free-form help articles that are organized into categories."] = "Pusat bantuan adalah untuk membuat artikel bantuan berbentuk bebas yang disusun mengikut kategori.";
@@ -103,7 +103,7 @@ $Definition["New Category"] = "Kategori Baru";
 $Definition["New Knowledge Base"] = "Pangkalan Pengetahuan Baru";
 $Definition["New Name: "] = "Nama Baru:";
 $Definition["Newest First"] = "Terkini Terkini";
-$Definition["No \"deleted\" knowledge bases found."] = "Tidak ada pangkalan pengetahuan &quot;dihapuskan&quot;.";
+$Definition["No \"deleted\" knowledge bases found."] = "Tidak ada pangkalan pengetahuan \"dihapuskan\".";
 $Definition["No Permission"] = "Tiada Kebenaran";
 $Definition["No knowledge bases found."] = "Tidak terdapat pangkalan pengetahuan.";
 
@@ -158,7 +158,7 @@ $Definition["This article hasn't been translated yet. The original article text 
 $Definition['This article is not translated yet or it is out of date.'] = 'Artikel ini belum diterjemahkan atau sudah usang.';
 $Definition['The article this draft is based on is no longer available.'] = 'Artikel berdasarkan draf ini tidak lagi tersedia.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Lebar lajur tengah susun atur utama dalam piksel.';
-$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Artikel ini diedit di lokasi sumbernya pada &lt;0 /&gt;. Edit artikel ini untuk mengemas kini terjemahannya dan hapus mesej ini.';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Artikel ini diedit di lokasi sumbernya pada <0 />. Edit artikel ini untuk mengemas kini terjemahannya dan hapus mesej ini.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Artikel ini diedit di tempat sumbernya. Edit artikel ini untuk mengemas kini terjemahannya dan hapus mesej ini.';
 
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Ini adalah tindakan yang merosakkan. Anda tidak akan dapat memulihkan draf anda.";
@@ -193,13 +193,13 @@ $Definition["Type your article."] = "Taip artikel anda.";
 $Definition["Unknown User"] = "Pengguna Tidak Dikenal";
 
 $Definition["View Article"] = "Lihat Artikel";
-$Definition["View all articles from category: \"<0/>\"."] = "Lihat semua artikel dari kategori: &quot;&lt;0 /&gt;&quot;.";
+$Definition["View all articles from category: \"<0/>\"."] = "Lihat semua artikel dari kategori: \"<0 />\".";
 
 $Definition["Was this article helpful?"] = "Adakah artikel ini bermanfaat?";
 $Definition["Write Discussion"] = "Tulis Perbincangan";
 
 $Definition["You can see this message because you have special permissions."] = "Anda dapat melihat mesej ini kerana anda mempunyai kebenaran khas.";
 $Definition["You don't have permission to view this resource."] = "Anda tidak mempunyai kebenaran untuk melihat sumber ini.";
-$Definition["You need to <0>Sign In</0> to vote on this article"] = "Anda perlu &lt;0&gt; Log masuk </0> untuk memilih artikel ini";
+$Definition["You need to <0>Sign In</0> to vote on this article"] = "Anda perlu <0> Log masuk </0> untuk memilih artikel ini";
 $Definition["Use Banner Image Overlay"] = "Gunakan Hamparan Imej Sepanduk";
 

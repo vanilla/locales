@@ -2,7 +2,7 @@
 // phpcs:ignoreFile
 $Definition["(No Body)"] = "(Ingen)";
 $Definition["(Untitled)"] = "(Uten navn)";
-$Definition["<0 /> out of <1 /> people found this helpful"] = "&lt;0 /&gt; av &lt;1 /&gt; personer synes dette var nyttig";
+$Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> av <1 /> personer synes dette var nyttig";
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "En tilpasset versjon av kunnskapsbasenavnet slik det skal vises i nettadresser.";
 $Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "En beskrivelse av kunnskapsgrunnlaget. Vises i kunnskapsbasisvelgeren.";
@@ -12,7 +12,7 @@ $Definition["Add a knowledge base to get started."] = "Legg til et kunnskapsgrun
 $Definition["Add/Edit Knowledge Base"] = "Legg til / rediger kunnskapsbase";
 $Definition["Admin Links"] = "Administratorlinker";
 $Definition["Alphabetically"] = "alfabetisk";
-$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Er du sikker på at du vil slette &lt;0 /&gt; &quot;&lt;1 /&gt;&quot;?";
+$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Er du sikker på at du vil slette <0 /> \"<1 />\"?";
 $Definition["Are you sure you want to delete this knowledge base?"] = "Er du sikker på at du vil slette denne kunnskapsbasen?";
 $Definition["Are you sure you want to purge this knowledge base?"] = "Er du sikker på at du vil rense dette kunnskapsgrunnlaget?";
 $Definition["Are you sure you want to restore this knowledge base?"] = "Er du sikker på at du vil gjenopprette denne kunnskapsbasen?";
@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Artikkel Revisjoner";
 $Definition["Article Three"] = "Artikkel tre";
 $Definition["Article Two"] = "Artikkel to";
 $Definition["Articles"] = "artikler";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Knytt et produkt til dette underfellesskapet. Bruk brukergrensesnittet &lt;0&gt; Administrer produkter </0> å legge til, redigere eller slette produkter.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Knytt et produkt til dette underfellesskapet. Bruk brukergrensesnittet <0> Administrer produkter </0> å legge til, redigere eller slette produkter.";
 
 $Definition["Back to Home"] = "Tilbake til hjemmet";
 $Definition["Back to home page"] = "Tilbake til hjemmesiden";
@@ -34,13 +34,13 @@ $Definition["Be the first one to vote!"] = "Bli den første som stemmer!";
 $Definition["Border Style"] = "Grensestil";
 $Definition["Browse Articles by Category"] = "Bla gjennom artikler etter kategori";
 $Definition["Browse"] = "Bla";
-$Definition["By <0/>"] = "Av &lt;0 /&gt;";
+$Definition["By <0/>"] = "Av <0 />";
 
 $Definition["category"] = "kategori";
 $Definition["Category One"] = "Kategori én";
 $Definition["Category Options"] = "Alternativer for kategori";
 $Definition["Category Two"] = "Kategori to";
-$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Enkelte handlinger er deaktivert fordi de bare er tilgjengelige i kildelandet: &lt;0 /&gt;";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Enkelte handlinger er deaktivert fordi de bare er tilgjengelige i kildelandet: <0 />";
 $Definition["Certain actions are disabled because they are only avalaible in the source locale."] = "Enkelte handlinger er deaktivert fordi de bare er tilgjengelige i kilden.";
 $Definition["Choose"] = "Velge";
 $Definition["Choose a location for this page."] = "Velg et sted for denne siden.";
@@ -56,13 +56,13 @@ $Definition["Debug"] = "Debug";
 $Definition["Default Background Color"] = "Standard bakgrunnsfarge";
 $Definition["Default Foreground Color"] = "Standard forgrunnsfarge";
 
-$Definition["Delete \"<0/>\""] = "Slett &quot;&lt;0 /&gt;&quot;";
+$Definition["Delete \"<0/>\""] = "Slett \"<0 />\"";
 $Definition["Delete Draft"] = "Slett utkast";
 $Definition["Delete an Article"] = "Slett en artikkel";
 $Definition["Deleted Articles"] = "Slettede artikler";
 $Definition["Deleted Knowledge Bases"] = "Slettede kunnskapsbaser";
 $Definition["Draft Options"] = "Utkast til alternativer";
-$Definition["Draft saved <0/>"] = "Utkast lagret &lt;0 /&gt;";
+$Definition["Draft saved <0/>"] = "Utkast lagret <0 />";
 
 $Definition["Edit Knowledge Base"] = "Rediger kunnskapsbase";
 $Definition["Error saving draft."] = "Feil ved lagring av utkast.";
@@ -77,7 +77,7 @@ $Definition["Featured Article"] = "Anbefalt artikkel";
 $Definition["Featured Articles"] = "Anbefalte artikler";
 
 $Definition["General Appearance"] = "Generelt utseende";
-$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Guider er for å lage guider, dokumentasjon eller &quot;bok&quot; som innhold som bør leses i rekkefølge.";
+$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Guider er for å lage guider, dokumentasjon eller \"bok\" som innhold som bør leses i rekkefølge.";
 
 $Definition["Hello Home Page. Links are below:"] = "Hei hjemmeside. Linkene er nedenfor:";
 $Definition["Help centers are for making free-form help articles that are organized into categories."] = "Hjelpesentre er for å lage gratisformat-hjelpeartikler som er organisert i kategorier.";
@@ -103,7 +103,7 @@ $Definition["New Category"] = "Ny kategori";
 $Definition["New Knowledge Base"] = "Ny kunnskapsbase";
 $Definition["New Name: "] = "Nytt navn:";
 $Definition["Newest First"] = "Nyeste først";
-$Definition["No \"deleted\" knowledge bases found."] = "Ingen &quot;slettede&quot; kunnskapsbaser funnet.";
+$Definition["No \"deleted\" knowledge bases found."] = "Ingen \"slettede\" kunnskapsbaser funnet.";
 $Definition["No Permission"] = "Ingen tillatelse";
 $Definition["No knowledge bases found."] = "Ingen kunnskapsbaser funnet.";
 
@@ -158,7 +158,7 @@ $Definition["This article hasn't been translated yet. The original article text 
 $Definition['This article is not translated yet or it is out of date.'] = 'Denne artikkelen er ikke oversatt ennå, eller den er utdatert.';
 $Definition['The article this draft is based on is no longer available.'] = 'Artikkelen dette utkastet er basert på, er ikke lenger tilgjengelig.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Bredden på midtkolonnen til den primære utformingen i piksler.';
-$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Denne artikkelen ble redigert i sitt kildemarked på &lt;0 /&gt;. Rediger denne artikkelen for å oppdatere oversettelsen og fjerne denne meldingen.';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Denne artikkelen ble redigert i sitt kildemarked på <0 />. Rediger denne artikkelen for å oppdatere oversettelsen og fjerne denne meldingen.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Denne artikkelen ble redigert i sin kildestandard. Rediger denne artikkelen for å oppdatere oversettelsen og fjerne denne meldingen.';
 
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Dette er en destruktiv handling. Du kan ikke gjenopprette utkastet.";
@@ -193,13 +193,13 @@ $Definition["Type your article."] = "Skriv inn artikkelen din.";
 $Definition["Unknown User"] = "Ukjent bruker";
 
 $Definition["View Article"] = "Vis artikkel";
-$Definition["View all articles from category: \"<0/>\"."] = "Se alle artikler fra kategori: &quot;&lt;0 /&gt;&quot;.";
+$Definition["View all articles from category: \"<0/>\"."] = "Se alle artikler fra kategori: \"<0 />\".";
 
 $Definition["Was this article helpful?"] = "Var denne artikkelen til hjelp?";
 $Definition["Write Discussion"] = "Skriv diskusjon";
 
 $Definition["You can see this message because you have special permissions."] = "Du kan se denne meldingen fordi du har spesielle tillatelser.";
 $Definition["You don't have permission to view this resource."] = "Du har ikke tillatelse til å se denne ressursen.";
-$Definition["You need to <0>Sign In</0> to vote on this article"] = "Du må &lt;0&gt; logge på </0> å stemme på denne artikkelen";
+$Definition["You need to <0>Sign In</0> to vote on this article"] = "Du må <0> logge på </0> å stemme på denne artikkelen";
 $Definition["Use Banner Image Overlay"] = "Bruk bannerbildeoverlegg";
 

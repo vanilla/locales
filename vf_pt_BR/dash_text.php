@@ -40,7 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Veja as nossas %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla é a plataforma para comunidades mais simples e poderosa do mundo. É super-ultra-mega fácil de usar. Comece com este vídeo introdutório e continue com as etapas abaixo. Aproveite!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Escolha a função que será aplicada a usuários órfãos:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Escolha um tema para esta subcomunidade. &lt;0&gt; Leia mais </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Escolha um tema para esta subcomunidade. <0> Leia mais </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Escolha como gerenciar todo o conteúdo associado ao membro da conta %s (comentários, mensagens, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Você pode escolher um algoritmo de hash personalizado para assinar seus pedidos. O algoritmo hash também deve ser usado em sua biblioteca cliente. Escolha md5 se não tiver certeza de qual escolher.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Escolha o layout preferido para listas de categorias.';
@@ -133,7 +133,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Categorias mais profundas serão colocadas em uma lista delimitada por vírgula.';
-$Definition['No unconfirmed role available for email confirmation.'] = 'O site precisa de uma função com o tipo padrão &quot;não confirmado&quot; para usar a confirmação por email. Por favor, adicione um para ativar esta configuração.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'O site precisa de uma função com o tipo padrão "não confirmado" para usar a confirmação por email. Por favor, adicione um para ativar esta configuração.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Não está conseguindo o que você espera quando visualiza seu tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Notificar-me quando as pessoas comentarem nos meus addons.';
 
@@ -144,7 +144,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Por favor, escolha um autenticador para configurar.';
 $Definition['PluginHelp'] = 'Os plug-ins permitem adicionar funcionalidades ao seu site. <br /> Depois que um plugin for adicionado à sua pasta %s, você pode habilitá-lo ou desabilitá-lo aqui.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'O bolso é exibido entre cada discussão na lista principal de discussões. Como as discussões geralmente ocorrem nas tags &lt;li&gt; .. &lt;/li&gt;, você também precisará envolver seu bolso nessas tags.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'O bolso é exibido entre cada discussão na lista principal de discussões. Como as discussões geralmente ocorrem nas tags <li> .. </li>, você também precisará envolver seu bolso nessas tags.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Os bolsos permitem adicionar HTML de forma livre a vários locais do aplicativo.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Evite spam no seu fórum, limitando o número de discussões e comentários que os usuários podem postar dentro de um determinado período de tempo.';
 
@@ -157,12 +157,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'É uma boa idéia ter classificações especiais para moderadores e administradores, para que sua comunidade possa ver facilmente quem está no comando.';
 $Definition['Recommend starting with five ranks.'] =
     'Você não quer ter muitas fileiras. Recomendamos começar com cinco. Você pode adicionar mais se sua comunidade for realmente grande.';
-$Definition['Requires “Flag” reaction permission.'] = 'Requer permissão de reação &quot;Flag&quot;.';
-$Definition['Requires “Negative” reaction permission.'] = 'Requer permissão de reação &quot;negativa&quot;.';
-$Definition['Requires “Positive” reaction permission.'] = 'Requer permissão de reação &quot;positiva&quot;.';
+$Definition['Requires “Flag” reaction permission.'] = 'Requer permissão de reação "Flag".';
+$Definition['Requires “Negative” reaction permission.'] = 'Requer permissão de reação "negativa".';
+$Definition['Requires “Positive” reaction permission.'] = 'Requer permissão de reação "positiva".';
 $Definition['Restoring your selection removes the items from this list.'] = 'Quando você restaura, os itens são removidos desta lista e colocados novamente no site.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Use a opção a seguir para ativar cotações para o Rich Editor. Isso se aplicará apenas se o formatador padrão for &quot;Rico&quot;.';
+    'Use a opção a seguir para ativar cotações para o Rich Editor. Isso se aplicará apenas se o formatador padrão for "Rico".';
 $Definition['Route Expression'] = 'Expressão de rota';
 $Definition['Routes are used to redirect users.'] = 'As rotas são usadas para redirecionar os usuários, dependendo da URL solicitada.';
 
@@ -173,7 +173,7 @@ $Definition['Security.Hsts.MaxAgeRecommendation'] = 'Recomendamos começar com u
 $Definition['Security.Hsts.SubmitWarning'] = 'Aviso: É ótimo oferecer suporte à pré-carga do HSTS como uma prática recomendada. No entanto, você deve enviar seu site para hstspreload.org para garantir que ele seja pré-carregado com sucesso (ou seja, para obter a proteção completa para a configuração desejada).';
 $Definition['Select the default type for this role, if any.'] = 'Selecione o tipo padrão para esta função, se houver.';
 $Definition['Select the import source'] = 'Selecione a fonte de importação';
-$Definition['Serialized column "%s" failed to be unserialized.'] = 'A coluna serializada &quot;%s&quot; falhou ao ser desserializada.';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'A coluna serializada "%s" falhou ao ser desserializada.';
 $Definition['ShareImageDescription'] =
     'Quando alguém compartilha um link do seu site, tentamos obter uma imagem da página. Se não houver uma imagem na página, usaremos essa imagem. A imagem deve ter pelo menos 50 × 50, mas recomendamos 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Ative esta opção para mostrar todos os possíveis locais de bolso. A ativação dessa opção mostrará apenas os locais para usuários que podem gerenciar bolsos.';
@@ -280,8 +280,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Bem-vindo ao seu tema";
-$Definition["This is a style guide of your theme."] = "Este é um guia de estilo do seu tema. Possui exemplos dos elementos visuais usados em todo o aplicativo. Você pode clicar nos vários widgets, como a barra de título &lt;0&gt; </0> ou &lt;1&gt; Faixa </1> para editar suas propriedades no painel lateral.";
-$Definition["In additon to the widgets there are also"] = "Além dos widgets, também existem &lt;0&gt; Estilos globais </0> . Para editar estilos globais, clique em qualquer outro lugar da página, como este texto.";
+$Definition["This is a style guide of your theme."] = "Este é um guia de estilo do seu tema. Possui exemplos dos elementos visuais usados em todo o aplicativo. Você pode clicar nos vários widgets, como a barra de título <0> </0> ou <1> Faixa </1> para editar suas propriedades no painel lateral.";
+$Definition["In additon to the widgets there are also"] = "Além dos widgets, também existem <0> Estilos globais </0> . Para editar estilos globais, clique em qualquer outro lugar da página, como este texto.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Existem dois tipos de botões no aplicativo: primário e secundário.";
 $Definition["Primary Button"] = "Botão principal";
 $Definition["Secondary Button"] = "Botão secundário";
@@ -307,7 +307,7 @@ $Definition["Font Name"] = "Nome da fonte";
 $Definition["Invalid URL"] = "URL inválida";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Você pode fazer o upload de uma fonte personalizada em seu sistema de temas. Basta copiar e colar o URL no campo.";
 $Definition["You can configure some values differently for different screensizes."] = "Você pode configurar alguns valores de maneira diferente para diferentes tamanhos de tela.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Você precisa adicionar o domínio do URL da fonte a &lt;0&gt; AllowedDomains </0> , na configuração do site. &lt;1&gt; Saiba mais sobre fontes personalizadas. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Você precisa adicionar o domínio do URL da fonte a <0> AllowedDomains </0> , na configuração do site. <1> Saiba mais sobre fontes personalizadas. </1> .";
 
 $Definition["Primary Buttons"] = "Botões primários";
 $Definition["Secondary Buttons"] = "Botões secundários";
