@@ -5,8 +5,7 @@ $Definition['%1$s %2$s'] = '%1$s %2$s';
 $Definition['%1$s Version %2$s'] = '%1$s 版本 %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s 版本 %2$s 可更新。';
 $Definition['%s is not a valid email address'] = '%s 不是有效的电子邮件地址';
-$Definition['%s is required'] = '需要 %
-';
+$Definition['%s is required'] = '需要 %s';
 $Definition['%s item in queue'] = '队列中有 %s 个条目';
 $Definition['%s level'] = '%s 级';
 $Definition['%s levels'] = '%s 级';

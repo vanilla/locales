@@ -40,7 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = '查看我们的 %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla 是全世界最简洁，最好用的社区平台。它极其容易上手。先看看下面的介绍视频吧。希望您使用愉快。';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '选择一个孤立的用户将被分配到的角色：';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = '为该子社区选择一个主题。 &lt;0&gt;阅读更多</0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = '为该子社区选择一个主题。 <0>阅读更多</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '选择如何处理用户帐户 %s 相关联的所有内容（包括回复，消息等）。';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = '您可以选择自定义的哈希算法处理您的请求。客户端一侧也同样使用哈希算法。如果你不确定该选哪个，请选择 md5。';
 $Definition['Choose the preferred layout for lists of categories.'] = '选择类别列表的首选布局。';
@@ -143,7 +143,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = '请选择一个身份验证配置。';
 $Definition['PluginHelp'] = '插件可以为您的网站添加更多功能。<br />当一个新插件被添加到 %s 文件夹中后，您就可以在这里选择启用或关闭它。';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket 会显示在主话题列表中的各个话题之间。由于话题通常都在 &lt;li&gt;..&lt;/li&gt; 标记当中，因此你也需要将 Pocket 放在这些标记当中。';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket 会显示在主话题列表中的各个话题之间。由于话题通常都在 <li>..</li> 标记当中，因此你也需要将 Pocket 放在这些标记当中。';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket 允许你在应用中的多个地方自由添加 HTML 代码。';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '限制用户一定时间内的话题和回复数可以防止垃圾信息。';
 
@@ -306,7 +306,7 @@ $Definition["Font Name"] = "字体名";
 $Definition["Invalid URL"] = "无效的 URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "您可以在主题系统中上载自定义字体。只需将URL复制并粘贴到字段中即可。";
 $Definition["You can configure some values differently for different screensizes."] = "您可以为不同的屏幕尺寸不同地配置一些值。";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "您需要将字体URL的域添加到&lt;0&gt; AllowedDomains </0> ，在网站的配置中。 &lt;1&gt;了解有关自定义字体的更多信息。 </1> 。";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "您需要将字体URL的域添加到<0> AllowedDomains </0> ，在网站的配置中。 <1>了解有关自定义字体的更多信息。 </1> 。";
 
 $Definition["Primary Buttons"] = "主按钮";
 $Definition["Secondary Buttons"] = "辅助按钮";

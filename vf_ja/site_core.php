@@ -17,8 +17,6 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$sは%4$sに%5$sを書きました。';
 $Definition['%3$s approved %2$s membership application.'] = '%3$sさんが%2$sさんの加入申請を承認しました。';
 $Definition['%3$s created an account for %1$s.'] = '%3$sが%1$sのためにアカウントを作成しました。';
-$Definition['%s$1 to %s$2'] = '%s$1から%s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$3の%s$2に%s$1を';
 $Definition['%s (Current)'] = '%s(現在)';
 $Definition['%s: %s'] = '%s：%s';
 $Definition['%s Agrees'] = '%sを同意する';
@@ -1575,7 +1573,9 @@ $Definition['These tags are reserved and cannot be used: %s'] = 'これらのタ
 $Definition['The site is currently undergoing maintenance.'] = 'このサイトは現在メンテナンス中です。';
 $Definition['The status for "%s" has changed to %s.'] = '"%s"のステータスが%sに変更';
 $Definition['The uploaded file was too big (max %s).'] = 'アップロードされたファイルは大きすぎます(最大%sまで)。';
-$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'アップロードされたファイルの拡張子は許可されていません。\n許可されている拡張子は以下のものだけです。';
+$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'アップロードされたファイルの拡張子は許可されていません。
+許可されている拡張子は以下のものだけです。
+%s';
 $Definition['The user has already been warned for this %s.'] = 'ユーザーはすでにこの %s について通知されています。';
 $Definition['The user isn\'t banned.'] = 'このユーザーはアクセス制限されていないか、他の機能によりアクセスが制限されています。';
 $Definition['they'] = '彼ら';

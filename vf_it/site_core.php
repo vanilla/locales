@@ -1290,7 +1290,7 @@ $Definition['Remember me on this computer'] = 'Ricordami su questo computer';
 $Definition['Remember your password?'] = 'Ricordi la tua password?';
 $Definition['Remote Configuration'] = 'Configurazione remota';
 $Definition['Remove'] = 'Rimuovi';
-$Definition['Remove %s'] = 'Rimuovi %';
+$Definition['Remove %s'] = 'Rimuovi %s';
 $Definition['Removed by'] = 'Rimosso da';
 $Definition['Remove file'] = 'Rimuovi file';
 $Definition['Remove from %s'] = 'Rimuovi da %s';
@@ -1324,7 +1324,7 @@ $Definition['Restored'] = 'Ripristinato';
 $Definition['Restore deleted content.'] = 'Ripristina i contenuti eliminati.';
 $Definition['Result(s) <0/> to <1/> of <2/>'] = 'Risultato/i <0/> da <1/> a <2/>';
 $Definition['Search for: "%s"'] = 'Ricerca per: "%s"';
-$Definition['Return to %s'] = 'Torna a %';
+$Definition['Return to %s'] = 'Torna a %s';
 $Definition['Reveal'] = 'Rivela';
 $Definition['reverse'] = 'inverti';
 $Definition["Revision"] = "Revisione";
@@ -1844,7 +1844,7 @@ $Definition['You are not allowed to warn a user with higher permissions than you
     'Non ti è consentito mandare un avvertimento ad un utente con autorizzazioni superiori alle tue. ';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] =
     'Non ti è consentito mandare un avvertimento ad un utente con il tuo stesso livello di autorizzazione.';
-$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Stai per lasciare &1$s. Clicca sul link per continuare su %2$s.';
+$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Stai per lasciare %1$s. Clicca sul link per continuare su %2$s.';
 $Definition['You are now signed in.'] = 'Ora hai eseguito l\'accesso.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Ti sono concesse {maxImages,plural,%s immagine, %s immagini}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'È vietato utilizzare la funzionalità "ignora".';

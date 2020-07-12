@@ -180,7 +180,7 @@ $Definition['Some themes may need to be updated to work with category following.
 $Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
     'Özel kısıtlama: Yalnızca Garden.Curation.Manage izni olan kullanıcılar bu reaksiyonu kullanabilir.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Bir yasak oluştururken kısmi ya da tam bir eşleşme belirt.';
-$Definition['Spend a little time thinking about how you describe your site here.'] = 'Sitenizi burada nasıl tanımladığınızı düşünerek biraz zaman geçirin. Sitenize anlamlı bir başlık ve kısa bir açıklama vermek, arama motorlarında konumunuzu belirlemekte ve sağlamlaştımakta yardımcı olabilir.';
+$Definition['Spend a little time thinking about how you describe your site here.'] = 'Sitenizi burada nasıl tanımladığınızı düşünerek biraz zaman geçirin. Sitenize anlamlı bir başlık ve kısa bir açıklama vermek, arama motorlarında konumunuzu belirlemekte ve sağlamlaştırmakta yardımcı olabilir.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Logo ekleyerek ve renkleri özelleştirerek e-postalarınızı yükseltin.';
 $Definition['Start Import'] = 'İçe Aktarımı Başlat';
 $Definition['Start the first discussion.'] = '<a href="{/post/discussion,url}">İlk tartışma başlığını şimdi açarak</a> topluluğunuza hareket kazandırın.';

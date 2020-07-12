@@ -4,13 +4,13 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>سر!</strong> کسی کردار کو حذف کرنے کے نتیجے میں صارفین کو درخواست تک رسائی حاصل نہیں ہوسکتی ہے۔';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>سر!</strong> تبادلہ خیال کے زمرے میں تبادلہ خیال کے نتیجے میں تبادلہ خیال غائب ہوسکتا ہے (یا نمودار ہوسکتا ہے) اگر متبادل زمرے میں حذف ہونے سے مختلف اجازتیں ہوں۔';
 
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'ای میل کی توثیق کو استعمال کرنے کے لئے پہلے سے طے شدہ &quot;غیر مصدقہ&quot; کردار کے ساتھ ایک کردار کی ضرورت ہوتی ہے۔';
-$Definition['About.DisableStatistics'] = 'اگر آپ کو کسی کاروباری وجوہ کی بناء پر اس کوائف کی اطلاع دہندگی کو غیر فعال کرنا ہوگا تو ، آپ اپنی انسٹالیشن کی تشکیل فائل میں درج ذیل لائن کو شامل کرکے ایسا کرسکتے ہیں: <code>$Configuration[&#39;Garden&#39;][&#39;Analytics&#39;][&#39;Enabled&#39;] = FALSE;</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'ای میل کی توثیق کو استعمال کرنے کے لئے پہلے سے طے شدہ "غیر مصدقہ" کردار کے ساتھ ایک کردار کی ضرورت ہوتی ہے۔';
+$Definition['About.DisableStatistics'] = 'اگر آپ کو کسی کاروباری وجوہ کی بناء پر اس کوائف کی اطلاع دہندگی کو غیر فعال کرنا ہوگا تو ، آپ اپنی انسٹالیشن کی تشکیل فائل میں درج ذیل لائن کو شامل کرکے ایسا کرسکتے ہیں: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'اس مفت ، اوپن سورس سافٹ ویئر کی زندگی کے لئے یہ انتہائی اہم ہے کہ ہم ونیلا کی پہنچ اور تاثیر کو درست طریقے سے ناپتے ہیں۔ ہم دعا گو ہیں کہ آپ براہ کرم اس ڈیٹا کی رپورٹنگ کو غیر فعال نہ کریں۔';
 $Definition['AboutCommentEmbedding'] = 'ونیلا کو آپ کے بلاگ کے آبائی تبصرہ کرنے والے نظام کے متبادل کے طور پر استعمال کیا جاسکتا ہے۔ حقیقت میں ، اس کا استعمال ویب کے کسی بھی صفحے پر تبصرے شامل کرنے کے لئے کیا جاسکتا ہے۔';
 $Definition['AboutEmbedding'] = 'ایمبیڈنگ سے آپ کی کمیونٹی کے سبھی حص partے کو دوسرے ایپلیکیشنز اور ویب صفحات میں شامل کرنے کی اجازت ملتی ہے۔';
 $Definition['About Vanilla Statistics'] = 'ونیلا کے اعدادوشمار کے بارے میں';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'اس صفحے کے اوپری حصے میں &quot;سائٹ ملاحظہ کریں&quot; لنک پر <a href={/,url}>کلک کرکے</a> یا <a href={/,url}>یہاں کلک کرکے</a> اپنے کمیونٹی فورم تک رسائی حاصل کریں۔ کمیونٹی فورم وہ ہے جو آپ کے صارف اور صارفین سبھی دیکھیں گے جب وہ <a href="{/,url,domain}">{/، url ، ڈومین</a> visit جائیں گے۔';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'اس صفحے کے اوپری حصے میں "سائٹ ملاحظہ کریں" لنک پر <a href={/,url}>کلک کرکے</a> یا <a href={/,url}>یہاں کلک کرکے</a> اپنے کمیونٹی فورم تک رسائی حاصل کریں۔ کمیونٹی فورم وہ ہے جو آپ کے صارف اور صارفین سبھی دیکھیں گے جب وہ <a href="{/,url,domain}">{/، url ، ڈومین</a> visit جائیں گے۔';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'مباحثوں اور تبصروں میں تصویری اپلوڈ کے طول و عرض کی حدود شامل کریں۔';
 $Definition['AddressBarColorDescription'] = 'کچھ براؤزر ایڈریس بار کے لئے رنگ کی حمایت کرتے ہیں۔ صرف موبائل۔';
@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'ہمارے %s چیک کریں';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'ونیلا دنیا کا آسان ترین ، طاقت ور کمیونٹی کا پلیٹ فارم ہے۔ یہ سپر ڈوپر استعمال میں آسان ہے۔ اس تعارفی ویڈیو سے شروع کریں اور نیچے دیئے گئے اقدامات کے ساتھ جاری رکھیں۔ لطف اٹھائیں!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'ایک ایسے کردار کا انتخاب کریں جس پر یتیم صارفین کو تفویض کیا جائے:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'اس سب کمیونٹی کے لئے ایک تھیم منتخب کریں۔ &lt;0&gt; مزید پڑھیں </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'اس سب کمیونٹی کے لئے ایک تھیم منتخب کریں۔ <0> مزید پڑھیں </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '%s (تبصرے ، پیغامات ، وغیرہ) کے صارف اکاؤنٹ سے وابستہ تمام مواد کو ہینڈل کرنے کا طریقہ منتخب کریں۔';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'آپ اپنی درخواستوں پر دستخط کرنے کے لئے ایک حسب ضرورت ہیش الگورتھم منتخب کرسکتے ہیں۔ ہیش الگورتھم کو آپ کے مؤکل لائبریری میں بھی استعمال کرنا چاہئے۔ اگر آپ کو یقین نہیں ہے کہ کیا انتخاب کرنا ہے تو ایم ڈی 5 کا انتخاب کریں۔';
 $Definition['Choose the preferred layout for lists of categories.'] = 'زمرہ جات کی فہرست کے لئے ترجیحی ترتیب منتخب کریں۔';
@@ -67,14 +67,14 @@ $Definition['Enter a descriptive name.'] = 'جیب کے لئے وضاحتی نا
 $Definition['Enter a short name for the site.'] = 'سائٹ کے لئے ایک مختصر نام درج کریں۔ یہ سائن ان بٹنوں پر ظاہر ہوتا ہے۔';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'اپنے ورڈپریس بلاگ کا پتہ درج کریں اور ہم اسے وہاں سے لے جائیں گے۔';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'ذیل میں اپنے اسپنکس سرور کیلئے کنکشن کی ترتیبات درج کریں۔';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'ہر ترمیم یا حذف کی اطلاع یہاں درج ہے۔ کسی بھی تبدیلی کو کالعدم کرنے کے لئے &#39;بحال&#39; کا استعمال کریں۔';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'ہر ترمیم یا حذف کی اطلاع یہاں درج ہے۔ کسی بھی تبدیلی کو کالعدم کرنے کے لئے \'بحال\' کا استعمال کریں۔';
 $Definition['Everyone who signs up gets a profile page.'] = 'ہر ایک جو آپ کی کمیونٹی کے لئے سائن اپ کرتا ہے اسے ایک عوامی پروفائل کا صفحہ مل جاتا ہے جہاں وہ اپنی تصویر اپ لوڈ کرسکتے ہیں ، ان کی پروفائل کی ترتیبات کا نظم کرسکتے ہیں ، اور کمیونٹی میں جاری ٹھنڈی چیزوں کو ٹریک کرسکتے ہیں۔ آپ کو <a href="{/profile,url}">اب اپنے پروفائل</a> کو <a href="{/profile,url}">اپنی مرضی کے مطابق</a> بنانا چاہئے۔';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'آپ کی سائٹ کے ہر صارف کو کم از کم ایک کردار کے لئے تفویض کیا گیا ہے۔ کرداروں کا استعمال اس بات کا تعین کرنے کے لئے کیا جاتا ہے کہ صارفین کو کیا کرنے کی اجازت ہے۔';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'فیس بک کنیکٹ صارفین کو اپنے فیس بک اکاؤنٹ کا استعمال کرکے سائن ان کرنے کی اجازت دیتا ہے۔ <b>اس پلگ ان کے کام کرنے کے ل You آپ کو اپنی درخواست فیس بک کے ساتھ رجسٹر کرنی ہوگی۔</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'آپ نے جو صارف نام اور پاس ورڈ درج کیا ہے اس سے ڈیٹا بیس سے رابطہ قائم کرنے میں ناکام۔ کیا آپ نے انہیں غلط ٹائپ کیا؟ ڈیٹا بیس کی اطلاع: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'اس یو آر ایل کے ذریعہ ڈیش بورڈ کو صرف قابل رسائی پر مجبور کریں <em>(تجویز کردہ نہیں)</em>';
-$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'مثال کے طور پر ، آپ &quot;مثال ڈاٹ کام&quot; کے ای میل پتے والے تمام صارفین پر &quot;*@example.com&quot; ویلیو کے ساتھ ای میل کی قسم پر پابندی شامل کرکے پابندی عائد کرسکتے ہیں۔';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'مثال کے طور پر ، آپ "مثال ڈاٹ کام" کے ای میل پتے والے تمام صارفین پر "*@example.com" ویلیو کے ساتھ ای میل کی قسم پر پابندی شامل کرکے پابندی عائد کرسکتے ہیں۔';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO کے مقاصد کے لئے ، سرچ انجن کرالروں کو دور دراز یو آر ایل میں فورم دیکھنے پر مجبور کرنے سے خارج کردیا گیا ہے۔';
 
 $Definition['Garden.Import.Complete.Description'] = 'آپ نے درآمد کامیابی کے ساتھ مکمل کرلی ہے۔ جب آپ <b>تیار ہوں</b> تو <b>ختم</b> پر کلک کریں۔';
@@ -88,7 +88,7 @@ $Definition['Garden.StatisticsLocal.Resolve'] = 'اگر آپ کو یقین ہے 
 $Definition['Garden.StatisticsReadonly.Explain'] = 'آپ کی تشکیل ڈاٹ پی پی فائل صرف پڑھنے کے قابل دکھائی دیتی ہے۔ اس کا مطلب یہ ہے کہ وینیلا آپ کے فورم کے انسٹالیشن ایڈ اور انسٹالیشن سیکریٹ کو خود بخود رجسٹر نہیں کرسکیں گی۔';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'اس مسئلے کو حل کرنے کے ل file ، آپ کے کنف / config.php فائل کو فائل موڈ 777 تفویض کریں۔';
 
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'سر! یہ ایک خاص کردار ہے جو فعال سیشنوں کی اجازت نہیں دیتا ہے۔ اس وجہ سے ، اجازت کے اختیارات &quot;دیکھنے&quot; کی اجازت تک ہی محدود کردیئے گئے ہیں۔';
+$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'سر! یہ ایک خاص کردار ہے جو فعال سیشنوں کی اجازت نہیں دیتا ہے۔ اس وجہ سے ، اجازت کے اختیارات "دیکھنے" کی اجازت تک ہی محدود کردیئے گئے ہیں۔';
 $Definition['Here are all of the reactions you can use on your site.'] = 'یہ وہ تمام رد عمل ہیں جو آپ اپنی سائٹ پر استعمال کرسکتے ہیں۔';
 $Definition['Here are the ranks that users can achieve on your site.'] =
     'یہاں وہ درجات ہیں جو صارف آپ کی سائٹ پر حاصل کرسکتے ہیں۔ آپ ان درجات کو اپنی مرضی کے مطابق بنا سکتے ہیں اور یہاں تک کہ نئی فہرستیں شامل کرسکتے ہیں۔ یہاں کچھ نکات ہیں۔';
@@ -130,7 +130,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'اس گہرائی سے بھی زیادہ گہری گھریلو اقسام کوما سے خارج کی گئی فہرست میں رکھی جائیں گی۔';
-$Definition['No unconfirmed role available for email confirmation.'] = 'سائٹ کو ای میل کی توثیق کے استعمال کے ل default ڈیفالٹ قسم &quot;غیر مصدقہ&quot; کے ساتھ کردار کی ضرورت ہے۔ براہ کرم اس ترتیب کو فعال کرنے کیلئے ایک شامل کریں۔';
+$Definition['No unconfirmed role available for email confirmation.'] = 'سائٹ کو ای میل کی توثیق کے استعمال کے ل default ڈیفالٹ قسم "غیر مصدقہ" کے ساتھ کردار کی ضرورت ہے۔ براہ کرم اس ترتیب کو فعال کرنے کیلئے ایک شامل کریں۔';
 $Definition['Not getting what you expect when you preview your theme?'] = 'جب آپ اپنے تھیم کا جائزہ لیتے ہو تو آپ کی توقع کیا نہیں ملتی؟';
 $Definition['Notify me when people comment on my addons.'] = 'جب لوگ میرے ایڈونز پر تبصرہ کرتے ہیں تو مجھے مطلع کریں۔';
 
@@ -141,7 +141,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'براہ کرم کنفیگر کرنے کے لئے ایک مصدقہ منتخب کریں۔';
 $Definition['PluginHelp'] = 'پلگ ان آپ کو اپنی سائٹ میں فعالیت شامل کرنے کی اجازت دیتے ہیں۔ <br /> ایک بار جب آپ کے %s فولڈر میں پلگ ان شامل ہوجائے تو آپ اسے یہاں فعال یا غیر فعال کرسکتے ہیں۔';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'اہم گفتگو کی فہرست میں ہر گفتگو کے درمیان جیب دکھائی جاتی ہے۔ چونکہ گفتگو عام طور پر &lt;li&gt; .. &lt;/li&gt; ٹیگز میں ہوتی ہے ، لہذا آپ کو بھی اپنی ٹیب میں اپنی جیب سمیٹنے کی ضرورت ہوگی۔';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'اہم گفتگو کی فہرست میں ہر گفتگو کے درمیان جیب دکھائی جاتی ہے۔ چونکہ گفتگو عام طور پر <li> .. </li> ٹیگز میں ہوتی ہے ، لہذا آپ کو بھی اپنی ٹیب میں اپنی جیب سمیٹنے کی ضرورت ہوگی۔';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'جیبز آپ کو اطلاق کے آس پاس کے مختلف مقامات پر فری فارم ایچ ٹی ایم ایل شامل کرنے کی اجازت دیتی ہیں۔';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'اپنے مباحثوں اور تبصروں کی تعداد کو محدود کرکے اپنے فورم پر اسپام کو روکیں جو صارفین مقررہ مدت میں پوسٹ کرسکتے ہیں۔';
 
@@ -154,12 +154,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'ماڈریٹرز اور ایڈمنسٹریٹرز کے ل special خصوصی پوزیشن حاصل کرنا اچھا خیال ہے تاکہ آپ کی برادری آسانی سے یہ دیکھ سکے کہ انچارج کون ہے۔';
 $Definition['Recommend starting with five ranks.'] =
     'آپ بہت ساری صفیں حاصل نہیں کرنا چاہتے۔ ہم پانچ سے شروع کرنے کی سفارش کرتے ہیں۔ اگر آپ کی برادری واقعی بڑی ہے تو آپ مزید شامل کرسکتے ہیں۔';
-$Definition['Requires “Flag” reaction permission.'] = '&quot;پرچم&quot; رد عمل کی اجازت کی ضرورت ہے۔';
-$Definition['Requires “Negative” reaction permission.'] = '&quot;منفی&quot; رد عمل کی اجازت کی ضرورت ہے۔';
-$Definition['Requires “Positive” reaction permission.'] = '&quot;مثبت&quot; رد عمل کی اجازت کی ضرورت ہے۔';
+$Definition['Requires “Flag” reaction permission.'] = '"پرچم" رد عمل کی اجازت کی ضرورت ہے۔';
+$Definition['Requires “Negative” reaction permission.'] = '"منفی" رد عمل کی اجازت کی ضرورت ہے۔';
+$Definition['Requires “Positive” reaction permission.'] = '"مثبت" رد عمل کی اجازت کی ضرورت ہے۔';
 $Definition['Restoring your selection removes the items from this list.'] = 'جب آپ بازیافت کرتے ہیں تو ، اس فہرست سے آئٹمز کو ہٹا دیا جاتا ہے اور سائٹ پر واپس ڈال دیا جاتا ہے۔';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'رچ ایڈیٹر کے حوالے درج کرنے کے لئے درج ذیل آپشن کا استعمال کریں۔ یہ تبھی لاگو ہوگا جب ڈیفالٹ فارمیٹر &quot;رچ&quot; ہو۔';
+    'رچ ایڈیٹر کے حوالے درج کرنے کے لئے درج ذیل آپشن کا استعمال کریں۔ یہ تبھی لاگو ہوگا جب ڈیفالٹ فارمیٹر "رچ" ہو۔';
 $Definition['Route Expression'] = 'روٹ اظہار';
 $Definition['Routes are used to redirect users.'] = 'مطلوبہ یو آر ایل کے لحاظ سے صارفین کو ری ڈائریکٹ کرنے کیلئے راستوں کا استعمال کیا جاتا ہے۔';
 
@@ -170,7 +170,7 @@ $Definition['Security.Hsts.MaxAgeRecommendation'] = 'ایک بار جب آپ ا�
 $Definition['Security.Hsts.SubmitWarning'] = 'انتباہ: ایک بہترین عمل کے طور پر HSTS پری لوڈنگ کی حمایت کرنا بہت اچھا ہے۔ تاہم ، آپ کو یقینی بنانا ہے کہ وہ پہلے سے لوڈ ہو چکی ہے (یعنی مطلوبہ ترتیب کے لئے مکمل تحفظ حاصل کرنے کے ل.) اپنی سائٹ کو ہٹسٹری لوڈ ڈاٹ آرگ پر جمع کروائے۔';
 $Definition['Select the default type for this role, if any.'] = 'اس کردار کے لئے پہلے سے طے شدہ قسم کا انتخاب کریں ، اگر کوئی ہے تو۔';
 $Definition['Select the import source'] = 'درآمد کا منبع منتخب کریں';
-$Definition['Serialized column "%s" failed to be unserialized.'] = 'سیریلائزڈ کالم &quot;%s&quot; غیر سیزریل ہونے میں ناکام رہا۔';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'سیریلائزڈ کالم "%s" غیر سیزریل ہونے میں ناکام رہا۔';
 $Definition['ShareImageDescription'] =
     'جب کوئی آپ کی سائٹ سے کوئی لنک شیئر کرتا ہے تو ہم کوشش کرتے ہیں اور پیج سے ایک تصویر لے لیں۔ اگر صفحے پر کوئی تصویر نہیں ہے تو ہم اس کی بجائے اس کی تصویر استعمال کریں گے۔ تصویر کم از کم 50 × 50 ہونی چاہئے ، لیکن ہم 200 × 200 کی سفارش کرتے ہیں۔';
 $Definition['Show all possible pocket locations.'] = 'جیب کے تمام ممکنہ مقامات کو دکھانے کے لئے اس آپشن کو آن کریں۔ اس آپشن کو آن کرنے سے صرف وہ مقامات دکھائے جائیں گے جو جیب کا انتظام کرسکیں۔';
@@ -210,7 +210,7 @@ $Definition['The Vanilla 2 Exporter'] = 'ونیلا 2 ایکسپورٹر';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'ونیلا شماریات آپ کے فورم کے ڈیش بورڈ کو تجزیاتی رپورٹنگ کے آلے میں بدل دیتے ہیں ، اس سے آپ کو مخصوص فورم کے اوقات میں اپنے فورم پر سرگرمی کا جائزہ لینے کی اجازت مل جاتی ہے۔ آپ ہماری دستاویزات <a href="http://vanillaforums.org/docs/vanillastatistics">میں ونیلا شماریات کے بارے میں مزید پڑھ</a> سکتے <a href="http://vanillaforums.org/docs/vanillastatistics">ہیں</a> ۔';
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'وہ بھی باقاعدہ تھیمز کی طرح کام کرتے ہیں۔ ایک بار جب کسی کو تھیمز کے فولڈر میں شامل کرلیا جاتا ہے ، تو آپ اسے یہاں فعال کرسکتے ہیں۔';
-$Definition['This is the administrative dashboard for your new community.'] = 'یہ آپ کی نئی برادری کا انتظامی ڈیش بورڈ ہے۔ کنفیگریشن کے اختیارات کو ایک طرف چیک کریں۔ وہاں سے آپ تشکیل دے سکتے ہیں کہ آپ کی کمیونٹی کس طرح کام کرتی ہے۔ <b>پہلے سے طے شدہ طور پر ، صرف &quot;ایڈمنسٹریٹر&quot; کے کردار میں شامل صارفین ہی آپ کی برادری کا یہ حصہ دیکھ سکتے ہیں۔</b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'یہ آپ کی نئی برادری کا انتظامی ڈیش بورڈ ہے۔ کنفیگریشن کے اختیارات کو ایک طرف چیک کریں۔ وہاں سے آپ تشکیل دے سکتے ہیں کہ آپ کی کمیونٹی کس طرح کام کرتی ہے۔ <b>پہلے سے طے شدہ طور پر ، صرف "ایڈمنسٹریٹر" کے کردار میں شامل صارفین ہی آپ کی برادری کا یہ حصہ دیکھ سکتے ہیں۔</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'یہ اختیار ان مقامات کو دکھاتا ہے / چھپا دیتا ہے جہاں جیب جاسکتی ہے ، لیکن صرف ان صارفین کے لئے جو جیبیں شامل کرنے / ترمیم کرنے کی اجازت رکھتے ہیں۔ مقامات کو دکھانے کی کوشش کریں اور پھر اپنی سائٹ دیکھیں۔';
 $Definition['This page lists the endpoints of your API.'] =
     'یہ صفحہ آپ کے API کے آخری نکات کی فہرست دیتا ہے۔ مزید معلومات کے لئے اختتامی مقامات پر کلک کریں۔ آپ اس صفحے سے یا بیرونی طور پر رسائی ٹوکن کا استعمال کرکے API پر براہ راست کال کرسکتے ہیں۔';
@@ -247,7 +247,7 @@ $Definition['When enabled, you can manage products, and group subcommunities by 
 $Definition['Which reactions you use really depends on your community.'] =
     'آپ کون سے رد عمل کا استعمال کرتے ہیں وہ واقعی آپ کی برادری پر منحصر ہوتا ہے ، لیکن ہم تجویز کرتے ہیں کہ کچھ نکات کو دھیان میں رکھیں۔';
 
-$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'آپ &quot;111.111.111&quot; کے ساتھ متعارف IP IP پتے والے تمام صارفین پر &quot;111.111.111. *&quot; کی قدر کے ساتھ IP قسم کی پابندی شامل کرکے پابندی عائد کرسکتے ہیں۔';
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'آپ "111.111.111" کے ساتھ متعارف IP IP پتے والے تمام صارفین پر "111.111.111. *" کی قدر کے ساتھ IP قسم کی پابندی شامل کرکے پابندی عائد کرسکتے ہیں۔';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'آپ IP پتوں ، ای میل پتوں اور صارف ناموں پر پابندی عائد کرسکتے ہیں۔';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'آپ اس تھیم کے پیش کردہ مختلف اسٹائل میں سے ایک میں سے انتخاب کرسکتے ہیں۔';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'آپ متعدد سائٹوں سے رابطہ قائم کرسکتے ہیں جو jsConnect کی حمایت کرتے ہیں۔';
@@ -277,8 +277,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "آپ کے تھیم میں خوش آمدید";
-$Definition["This is a style guide of your theme."] = "یہ آپ کے تھیم کا ایک اسٹائل گائیڈ ہے۔ اس میں پوری ایپلی کیشن میں استعمال ہونے والے بصری عناصر کی مثالیں ہیں۔ آپ مختلف وجیٹس پر کلک کر سکتے ہیں جیسے &lt;0&gt; ٹائٹل بار </0> یا &lt;1&gt; بینر </1> سائیڈ پینل میں ان کی خصوصیات میں ترمیم کرنے کے لئے۔";
-$Definition["In additon to the widgets there are also"] = "ویجٹ میں اضافے میں &lt;0&gt; عالمی طرزیں بھی موجود ہیں </0> . عالمی انداز میں تدوین کے ل the اس متن جیسے صفحے پر کہیں بھی کلک کریں۔";
+$Definition["This is a style guide of your theme."] = "یہ آپ کے تھیم کا ایک اسٹائل گائیڈ ہے۔ اس میں پوری ایپلی کیشن میں استعمال ہونے والے بصری عناصر کی مثالیں ہیں۔ آپ مختلف وجیٹس پر کلک کر سکتے ہیں جیسے <0> ٹائٹل بار </0> یا <1> بینر </1> سائیڈ پینل میں ان کی خصوصیات میں ترمیم کرنے کے لئے۔";
+$Definition["In additon to the widgets there are also"] = "ویجٹ میں اضافے میں <0> عالمی طرزیں بھی موجود ہیں </0> . عالمی انداز میں تدوین کے ل the اس متن جیسے صفحے پر کہیں بھی کلک کریں۔";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "درخواست میں دو قسم کے بٹن ہیں: پرائمری اور سیکنڈری۔";
 $Definition["Primary Button"] = "پرائمری بٹن";
 $Definition["Secondary Button"] = "ثانوی بٹن";
@@ -304,7 +304,7 @@ $Definition["Font Name"] = "فونٹ کا نام";
 $Definition["Invalid URL"] = "غلط URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "آپ اپنے تھیمنگ سسٹم میں کسٹم فونٹ اپ لوڈ کرسکتے ہیں۔ صرف کاپی اور فیلڈ میں یو آر ایل چسپاں کریں۔";
 $Definition["You can configure some values differently for different screensizes."] = "آپ مختلف اسکرینز کے ل some کچھ قدروں کو مختلف طریقے سے تشکیل دے سکتے ہیں۔";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "آپ کو فونٹ یو آر ایل کے ڈومین کو &lt;0&gt; اجازت شدہ ڈومینز میں شامل کرنے کی ضرورت ہے </0> ، سائٹ کی تشکیل میں۔ &lt;1&gt; کسٹم فونٹس کے بارے میں مزید معلومات حاصل کریں۔ </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "آپ کو فونٹ یو آر ایل کے ڈومین کو <0> اجازت شدہ ڈومینز میں شامل کرنے کی ضرورت ہے </0> ، سائٹ کی تشکیل میں۔ <1> کسٹم فونٹس کے بارے میں مزید معلومات حاصل کریں۔ </1> .";
 
 $Definition["Primary Buttons"] = "پرائمری بٹن";
 $Definition["Secondary Buttons"] = "ثانوی بٹن";

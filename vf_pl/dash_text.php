@@ -5,12 +5,12 @@ $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not 
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads-up!</strong> Przeniesienie dyskusji do kategorii zamiennej może spowodować zniknięcie (lub pojawienie się) dyskusji, jeśli kategoria zastępcza ma inne uprawnienia niż kategoria usuwana.';
 
 $Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Rola z domyślnym typem „niepotwierdzony” jest wymagana do korzystania z potwierdzenia e-mailem.';
-$Definition['About.DisableStatistics'] = 'Jeśli musisz wyłączyć raportowanie danych z jakiegoś powodu biznesowego, możesz to zrobić, dodając następujący wiersz do pliku konfiguracyjnego instalacji: <code>$Configuration[&#39;Garden&#39;][&#39;Analytics&#39;][&#39;Enabled&#39;] = FALSE;</code>';
+$Definition['About.DisableStatistics'] = 'Jeśli musisz wyłączyć raportowanie danych z jakiegoś powodu biznesowego, możesz to zrobić, dodając następujący wiersz do pliku konfiguracyjnego instalacji: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Jest niezwykle ważne dla życia tego darmowego oprogramowania typu open source, że dokładnie mierzymy zasięg i skuteczność wanilii. Prosimy nie wyłączać raportowania tych danych.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['About Vanilla Statistics'] = 'About Vanilla Statistics';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Wejdź na forum społeczności, klikając link "Odwiedź witrynę" u góry tej strony lub <a href={/,url}> klikając tutaj </a>. Forum społeczności jest tym, co zobaczą wszyscy Twoi użytkownicy &amp;, odwiedzając <a href="{/,url,domain}"> {/, url, domain} </a>.';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Wejdź na forum społeczności, klikając link "Odwiedź witrynę" u góry tej strony lub <a href={/,url}> klikając tutaj </a>. Forum społeczności jest tym, co zobaczą wszyscy Twoi użytkownicy &, odwiedzając <a href="{/,url,domain}"> {/, url, domain} </a>.';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'Dodaj limity rozmiarów obrazów wczytywanych w dyskusjach i komentarzach';
 $Definition['AddressBarColorDescription'] = 'Niektóre przeglądarki obsługują kolor paska adresu. Tylko telefony komórkowe.';
@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the poc
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Enter the address of your Wordpress Blog and we\'ll take it from there.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Enter the connection settings for your sphinx server below.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use ‘Restore’ to undo any change.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Każdy, kto zarejestruje się w Twojej społeczności, uzyskuje publiczną stronę profilu, na której może przesłać swoje zdjęcie, zarządzać ustawieniami profilu i śledzić fajne rzeczy w społeczności. Powinieneś <a href="{/profile,url}"> dostosować swój profil teraz </a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Każdy użytkownik witryny jest przypisany do przynajmniej jednej roli. Role są używane do określenia tego, co użytkownicy mogą zrobić.';
 
@@ -142,7 +142,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'WYbierz proszę autentykator do konfiguracji.';
 $Definition['PluginHelp'] = 'Wtyczki pozwalają zwiększyć funkcjonalność witryny.<br />Jeśli wtyczka została dodana do folderu %s, można włączyć lub wyłączyć ją tutaj.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in <li>..</li> tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets allow you to add free-form HTML to various places around the application.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Zapobieganie spamowi na forum przez ograniczenie liczby dyskusji i komentarzy, które użytkownicy mogą wysłać w danym okresie czasu.';
 
@@ -233,10 +233,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Uż
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
 $Definition['Video tutorial on advanced settings'] = 'Video tutorial on advanced settings';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding &amp; managing users';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding & managing users';
 $Definition['Video tutorial on managing appearance'] = 'Video tutorial on managing appearance';
 $Definition['Video tutorial on managing categories'] = 'Video tutorial on managing categories';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles &amp; permissions';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles & permissions';
 $Definition['Video tutorial on user registration'] = 'Video tutorial on user registration';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Ostrzeżenie: włączenie tej funkcji może powodować błędy Javascript w Twojej witrynie.';
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Witamy w Twoim temacie";
-$Definition["This is a style guide of your theme."] = "To jest przewodnik po Twoim stylu. Zawiera przykłady elementów wizualnych używanych w całej aplikacji. Możesz kliknąć różne widżety, takie jak pasek tytułu &lt;0&gt; </0> lub &lt;1&gt; Baner </1> edytować ich właściwości w panelu bocznym.";
-$Definition["In additon to the widgets there are also"] = "Oprócz widżetów istnieją również &lt;0&gt; Style globalne </0> . Aby edytować style globalne, kliknij dowolne miejsce na stronie, na przykład ten tekst.";
+$Definition["This is a style guide of your theme."] = "To jest przewodnik po Twoim stylu. Zawiera przykłady elementów wizualnych używanych w całej aplikacji. Możesz kliknąć różne widżety, takie jak pasek tytułu <0> </0> lub <1> Baner </1> edytować ich właściwości w panelu bocznym.";
+$Definition["In additon to the widgets there are also"] = "Oprócz widżetów istnieją również <0> Style globalne </0> . Aby edytować style globalne, kliknij dowolne miejsce na stronie, na przykład ten tekst.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "W aplikacji istnieją dwa rodzaje przycisków: podstawowy i dodatkowy.";
 $Definition["Primary Button"] = "Główny przycisk";
 $Definition["Secondary Button"] = "Drugi przycisk";
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Nazwa czcionki";
 $Definition["Invalid URL"] = "nieprawidłowy URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Możesz wgrać własną czcionkę do swojego systemu tematycznego. Wystarczy skopiować i wkleić adres URL w polu.";
 $Definition["You can configure some values differently for different screensizes."] = "Możesz skonfigurować niektóre wartości inaczej dla różnych rozmiarów ekranu.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Musisz dodać domenę adresu URL czcionki do &lt;0&gt; AllowedDomains </0> , w konfiguracji witryny. &lt;1&gt; Więcej informacji o niestandardowych czcionkach. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Musisz dodać domenę adresu URL czcionki do <0> AllowedDomains </0> , w konfiguracji witryny. <1> Więcej informacji o niestandardowych czcionkach. </1> .";
 
 $Definition["Primary Buttons"] = "Główne przyciski";
 $Definition["Secondary Buttons"] = "Przyciski wtórne";

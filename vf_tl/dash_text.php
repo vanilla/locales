@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the poc
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Enter the address of your Wordpress Blog and we\'ll take it from there.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Enter the connection settings for your sphinx server below.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use ‘Restore’ to undo any change.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Ang lahat ng nag-sign up para sa iyong komunidad ay makakakuha ng public profile page kung saan pwede nilang i-upload ang larawan nila, pangasiwaan ang kanilang mga setting sa profile, at i-track ang mga magagandang bagay na nangyayari sa komunidad. Dapat mong <a href="{/profile,url}">i-customize ang iyong profile ngayon</a>';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
@@ -142,9 +142,9 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in <li>..</li> tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets allow you to add free-form HTML to various places around the application.';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions & comments that users can post within a given period of time.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
@@ -155,12 +155,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'Magandang ideya na magkaroon ng mga espesyal na ranggo para sa mga moderator at administrador upang madaling makita ng iyong komunidad kung sino ang namamahala.';
 $Definition['Recommend starting with five ranks.'] =
     'Hindi mo nais na magkaroon ng maraming mga ranggo. Inirerekumenda namin na magsimula sa limang. Maaari kang magdagdag ng higit pa kung malaki ang iyong komunidad.';
-$Definition['Requires “Flag” reaction permission.'] = 'Nangangailangan ng pahintulot ng reaksyon ng &quot;Bandila&quot;.';
-$Definition['Requires “Negative” reaction permission.'] = 'Nangangailangan ng pahintulot na reaksyon ng &quot;Negatibo&quot;.';
-$Definition['Requires “Positive” reaction permission.'] = 'Nangangailangan ng pahintulot na reaksyon ng &quot;Positibo&quot;.';
+$Definition['Requires “Flag” reaction permission.'] = 'Nangangailangan ng pahintulot ng reaksyon ng "Bandila".';
+$Definition['Requires “Negative” reaction permission.'] = 'Nangangailangan ng pahintulot na reaksyon ng "Negatibo".';
+$Definition['Requires “Positive” reaction permission.'] = 'Nangangailangan ng pahintulot na reaksyon ng "Positibo".';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Gamitin ang sumusunod na pagpipilian upang paganahin ang mga quote para sa Rich Editor. Maglalapat lamang ito kung ang default na formatter ay &quot;Mayaman&quot;.';
+    'Gamitin ang sumusunod na pagpipilian upang paganahin ang mga quote para sa Rich Editor. Maglalapat lamang ito kung ang default na formatter ay "Mayaman".';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Ang mga route ay ginagamit para i-redirect ang mga user depende sa hiniling na URL.';
 
@@ -200,7 +200,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'The import file does not contain any data.';
 $Definition['The import file is not in the correct format.'] = 'The import file is not in the correct format.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'The location of the jsonp formatted authentication data.';
-$Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
+$Definition['ThemeHelp'] = 'Themes allow you to change the look & feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Limitado ang preview ng tema sa pagpapakita ng template at css ng tema.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'The Password Authenticator does not have any custom configuration options. ';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'There are no database structure changes required. There may, however, be data changes.';
@@ -233,10 +233,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Maa
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
 $Definition['Video tutorial on advanced settings'] = 'Video tutorial on advanced settings';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding &amp; managing users';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding & managing users';
 $Definition['Video tutorial on managing appearance'] = 'Video tutorial on managing appearance';
 $Definition['Video tutorial on managing categories'] = 'Video tutorial on managing categories';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles &amp; permissions';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles & permissions';
 $Definition['Video tutorial on user registration'] = 'Video tutorial on user registration';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Babala: Ang pagpapagana ng tampok na ito ay maaaring maging sanhi ng mga error sa Javascript sa iyong site.';
@@ -250,7 +250,7 @@ $Definition['Which reactions you use really depends on your community.'] =
 
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Maaari mong pagbawalan ang lahat ng gumagamit ng IP address na may prefix na "111.111.111" sa pamamagitan ng pagdaragdag ng pagbabawal na tipong-IP na may value na "111.111.111.*".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Maaari mong pagbawalan ang mga IP address, email address at username.';
-$Definition['You can choose from one of the different styles this theme offers.'] = 'Maaari kang pumili mula sa isa sa iba&#39;t ibang mga istilo na alok ng temang ito.';
+$Definition['You can choose from one of the different styles this theme offers.'] = 'Maaari kang pumili mula sa isa sa iba\'t ibang mga istilo na alok ng temang ito.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'You can connect to multiple sites that support jsConnect.';
 $Definition['You can place files in your /uploads folder.'] = 'Kung masyadong malaki ang iyong file para direktang mai-upload sa page na ito, pwede mo itong ilagay sa iyong /uploads folder. Siguruhing nagsisimula ang filename sa salitang <b>export</b> at nagtatapos sa isa sa <b>.txt, .gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Maaari kang tukuyin ang isang minimum na haba ng post upang mawalan ng loob ang mga maiikling post.';
@@ -261,7 +261,7 @@ $Definition['You must select a file to import.'] = 'You must select a file to im
 ///
 
 // Theme Chooser
-$Definition["Your mobile theme will be disabled."] = "Ang iyong mobile na tema ay hindi pinagana. Upang itakda ang iba&#39;t ibang mga mobile at desktop na tema, gamitin ang lumang theming UI.";
+$Definition["Your mobile theme will be disabled."] = "Ang iyong mobile na tema ay hindi pinagana. Upang itakda ang iba't ibang mga mobile at desktop na tema, gamitin ang lumang theming UI.";
 $Definition["Heads Up!"] = "Paunawa!";
 $Definition["Welcome to Vanilla's theming UI."] = "Maligayang pagdating sa theming UI ng Vanilla. Inililista ng pahinang ito ang lahat ng iyong magagamit na mga tema, at pinapayagan kang kopyahin o i-edit ang mga ito.";
 $Definition["Some older themes don't support full editing capability."] = "Ang ilang mga mas matatandang tema ay hindi sumusuporta sa buong kakayahan sa pag-edit. Upang makita kung ano ang sumusuporta sa isang tema na maaari mong mai-hover sa pangalan nito upang makita kung saan magkakaroon ng bisa ang mga pag-edit.";
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Maligayang pagdating sa Iyong Tema";
-$Definition["This is a style guide of your theme."] = "Ito ay isang gabay na istilo ng iyong tema. Mayroon itong mga halimbawa ng mga visual na elemento na ginamit sa buong application. Maaari kang mag-click sa iba&#39;t ibang mga widget tulad ng &lt;0&gt; Title Bar </0> o &lt;1&gt; Banner </1> upang mai-edit ang kanilang mga katangian sa side panel.";
-$Definition["In additon to the widgets there are also"] = "Bilang karagdagan sa mga widget ay mayroon ding &lt;0&gt; Global Estilo </0> . Upang i-edit ang mga istilo ng pandaigdigang pag-click sa kahit saan pa sa pahina, tulad ng tekstong ito.";
+$Definition["This is a style guide of your theme."] = "Ito ay isang gabay na istilo ng iyong tema. Mayroon itong mga halimbawa ng mga visual na elemento na ginamit sa buong application. Maaari kang mag-click sa iba't ibang mga widget tulad ng <0> Title Bar </0> o <1> Banner </1> upang mai-edit ang kanilang mga katangian sa side panel.";
+$Definition["In additon to the widgets there are also"] = "Bilang karagdagan sa mga widget ay mayroon ding <0> Global Estilo </0> . Upang i-edit ang mga istilo ng pandaigdigang pag-click sa kahit saan pa sa pahina, tulad ng tekstong ito.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Mayroong dalawang uri ng mga pindutan sa application: pangunahin at pangalawa.";
 $Definition["Primary Button"] = "Pangunahing pindutan";
 $Definition["Secondary Button"] = "Pangalawang Seksyon";
@@ -304,8 +304,8 @@ $Definition["Font URL"] = "Font URL";
 $Definition["Font Name"] = "Pangalan ng font";
 $Definition["Invalid URL"] = "Hindi wastong URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Maaari kang mag-upload ng isang Custom Font sa iyong Theming System. Kopyahin lamang at i-paste ang URL sa larangan.";
-$Definition["You can configure some values differently for different screensizes."] = "Maaari mong i-configure ang ilang mga halaga nang naiiba para sa iba&#39;t ibang mga screen.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Kailangan mong magdagdag ng domain ng font url sa &lt;0&gt; AllowedDomains </0> , sa pagsasaayos ng site. &lt;1&gt; Matuto nang higit pa tungkol sa mga pasadyang mga font. </1> .";
+$Definition["You can configure some values differently for different screensizes."] = "Maaari mong i-configure ang ilang mga halaga nang naiiba para sa iba't ibang mga screen.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Kailangan mong magdagdag ng domain ng font url sa <0> AllowedDomains </0> , sa pagsasaayos ng site. <1> Matuto nang higit pa tungkol sa mga pasadyang mga font. </1> .";
 
 $Definition["Primary Buttons"] = "Pangunahing Mga Pindutan";
 $Definition["Secondary Buttons"] = "Pangalawang Mga Pindutan";

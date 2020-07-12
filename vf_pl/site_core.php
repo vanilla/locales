@@ -17,8 +17,6 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s napisał(a) na %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s potwierdził(a) %2$s zgłoszenie.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s stworzył(a) konto dla %1$s.';
-$Definition['%s$1 to %s$2'] = '%s$1 do %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 do %s$2 z %s$3';
 $Definition['%s (Current)'] = '%s (Aktualny)';
 $Definition['%s: %s'] = '%s: %s
 ';
@@ -787,7 +785,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'J
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Akceptuję <a id="TermsOfService" class="Popup" target="terms" href="%s">warunki korzystania z serwisu</a>';
 $Definition['Icon'] = 'Ikona';
 $Definition["Icon for: "] = "Ikona dla:";
-$Definition['I confirm that I have received consent to join this community.'] = 'Ponieważ mam mniej niż x lat potwierdzam, iż otrzymałem zgodę na przyłączenie się do tej społeczności.';
+$Definition['I confirm that I have received consent to join this community.'] = 'Ponieważ mam mniej niż %d lat potwierdzam, iż otrzymałem zgodę na przyłączenie się do tej społeczności.';
 $Definition['Idea'] = 'Pomysł';
 $Definition['idea'] = 'pomysł';
 $Definition['Ideas'] = 'Pomysły';
@@ -1467,7 +1465,7 @@ $Definition['Spam'] = 'Spam';
 $Definition['Spamming'] = 'Spamowanie';
 $Definition['Spam Queue'] = 'Kolejka ze spamem';
 $Definition['Split'] = 'Podziel';
-$Definition['Split %s to new discussion'] = 'Zdecydowałeś się podzielić % s na nową dyskusję.';
+$Definition['Split %s to new discussion'] = 'Zdecydowałeś się podzielić %s na nową dyskusję.';
 $Definition['Split Comments'] = 'Podziel komentarze';
 $Definition['Spoiler'] = 'Spoiler';
 $Definition['Spoof User'] = 'Naciąganie użytkownika';
@@ -1897,7 +1895,7 @@ $Definition['You have successfully registered for an account at {Title}.'] = 'Re
 $Definition['You have to be around for a little while longer before you can post links.'] = 'Musisz tu pobyć trochę dłużej, zanim zyskasz możliwość publikowania linków zewnętrznych.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'Musisz wybrać co najmniej 2 dyskusje, aby je połączyć.';
 $Definition['You must agree to the terms of service.'] = 'Musisz zaakceptować warunki korzystania z serwisu.';
-$Definition['You must be at least %d years old to register.'] = 'Musisz mieć co najmniej x lat żeby móc się zarejestrować.';
+$Definition['You must be at least %d years old to register.'] = 'Musisz mieć co najmniej %d lat żeby móc się zarejestrować.';
 $Definition['You must be signed in.'] = 'Musisz się zalogować.';
 $Definition['You must confirm you have received consent to register.'] = 'Musisz potwierdzić, że otrzymałeś zgodę na rejestrację.';
 $Definition['You need to confirm your email address.'] = 'Musisz potwierdzić twój adres email. Kliknij <a href="{/entry/emailconfirmrequest,url}">tutaj</a> aby ponownie przesłać mail potwierdzający.';

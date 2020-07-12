@@ -4,6 +4,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Atenção!</strong> Deletar um cargo pode fazer com que alguns membros não tem acesso ao site.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Atenção!</strong> Mover tópicos dentro de categorias de reposição pode resultar em tópicos sumindo (ou aparecendo) caso a categoria de reposição tenha diferentes permissões da categoria sendo apagada.';
 
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'É necessária uma função com o tipo padrão "não confirmado" para usar a confirmação de e-mail.';
 $Definition['About.DisableStatistics'] = 'Se você precisar desabilitar este relatório de dados por algum motivo, você pode fazê-lo adicionando a seguinte linha ao arquivo de configuração de sua instalação: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'É essencial para a existência deste software grátis e de código aberto que efetuemos a medição exata do alcance e eficácia do Vanilla. Pedimos-lhe que, por favor, não desative o envio de relatórios sobre estes dados.';
 $Definition['AboutCommentEmbedding'] = 'O Vanilla pode ser utilizado como substituto "drop-in" do sistema de comentários nativo do seu blogue. De facto, pode ser usado para adicionar comentários a qualquer página da rede.';
@@ -88,7 +89,6 @@ $Definition['Garden.StatisticsLocal.Resolve'] = 'Se você tem certeza que o seu 
 $Definition['Garden.StatisticsReadonly.Explain'] = 'O seu ficheiro config.php parece ser apenas de leitura. Isto significa que o Vanilla não poderá registar automaticamente a InstallationID e o InstallationSecret do seu fórum.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'Para resolver este problema, atribua o modo 777 ao arquivo conf/config.php.';
 
-$Definition['Heads Up!'] = 'Atenção!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Atenção! Esta é uma função especial que não permite sessões ativas. Por esta razão, as opções de autorização foram limitadas às autorizações de "visualização".';
 $Definition['Here are all of the reactions you can use on your site.'] = 'Aqui estão todas as reações que você pode usar em seu site.';
 $Definition['Here are the ranks that users can achieve on your site.'] =
