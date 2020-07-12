@@ -14,7 +14,7 @@ use PHPUnit\Framework\TestCase;
  */
 abstract class AbstractLocalesTest extends TestCase {
     const BASEDIR = __DIR__.'/..';
-    const RESOURCE_FILES = ['dash_core.php', 'dash_text.php', 'missing.php', 'site_core.php', 'site_kb.php'];
+    const RESOURCE_FILES = ['dash_core.php', 'dash_text.php', 'site_core.php', 'site_kb.php'];
 
     private $cache = [];
 

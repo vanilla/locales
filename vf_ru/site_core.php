@@ -587,12 +587,10 @@ $Definition['EmailNotification'] = '%1$s
 Всего вам хорошего!';
 $Definition['Email Notifications'] = 'Уведомления по Email';
 $Definition['Email Or Username'] = 'Имя пользователя или email';
-$Definition['EmailPassword'] = '%2$s сбросил ваш пароль на сайте %3$s.
+$Definition['EmailPassword'] = '%2$s сбросил ваш пароль на сайте %3$s. Вот ваши данные:
 
-Вот ваши данные:
 Email: %6$s
 Пароль: %5$s
-
 Адрес сайте: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Использовать в качестве отправителя следующий адрес электронной почты:';
 $Definition['Email Source'] = 'Электронная почта';
@@ -1188,14 +1186,11 @@ $Definition['Password'] = 'Пароль';
 $Definition['Password Contains Username'] = 'Содержит имя пользователя';
 $Definition['Password Good'] = 'Хороший';
 $Definition['Password Ok'] = 'Ок';
-$Definition['PasswordRequest'] = 'Hallo %1$s,
+$Definition['PasswordRequest'] = 'Кто-то просит сбросить %2$s пароль. Если это были вы, пройдите по ссылке ниже:
 
-Кто-то просит сбросить %2$s пароль. Если это были вы, пройдите по ссылке ниже:
 %3$s
 
-В противном случае, просто проигнорируйте это письмо
-
-Всего хорошего!';
+В противном случае, просто проигнорируйте это письмо.';
 $Definition['Passwords don\'t match'] = 'Пароль не подходит';
 $Definition['Password Strong'] = 'Сильный';
 $Definition['Password Too Short'] = 'Слишком короткий';

@@ -1167,11 +1167,9 @@ $Definition['Password'] = 'Contraseña';
 $Definition['Password Contains Username'] = 'Contiene nombre de usuario';
 $Definition['Password Good'] = 'Bueno';
 $Definition['Password Ok'] = 'Bien';
-$Definition['PasswordRequest'] = 'Hola %1$s,
+$Definition['PasswordRequest'] = 'Alguien ha solicitado restaurar tu contraseña en %2$s. Para restaurarla, haz clic en el siguiente enlace:
 
-Alguien ha solicitado restaurar tu contraseña en %2$s. Para restaurarla, haz clic en el siguiente enlace:
-
-  %3$s
+%3$s
 
 Si tú no hiciste esta solicitud, ignora esta correo.';
 $Definition['Passwords don\'t match'] = 'Las contraseñas no coinciden.';

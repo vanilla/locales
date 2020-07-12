@@ -575,15 +575,11 @@ Volg deze link om het te bekijken:
 Fijne dag verder!';
 $Definition['Email Notifications'] = 'E-mail Notificaties';
 $Definition['Email Or Username'] = 'E-mail of gebruikersnaam';
-$Definition['EmailPassword'] = 'Hallo %1$s,
-
-%2$s heeft je wachtwoord gereset bij %3$s. Je inloggegevens zijn nu als volgt:
+$Definition['EmailPassword'] = '%2$s heeft je wachtwoord gereset bij %3$s. Je inloggegevens zijn nu als volgt:
 
   E-mail: %6$s
   Wachtwoord: %5$s
-  Url: %4$s
-
-Fijne dag verder!';
+  URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail verzonden vanuit de applicatie zal verwijzen naar onderstaande naam en e-mailadres.';
 $Definition['Email Source'] = 'E-mail';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -1148,9 +1144,7 @@ $Definition['Password'] = 'Wachtwoord';
 $Definition['Password Contains Username'] = 'Bevat Gebruikersnaam';
 $Definition['Password Good'] = 'Goed';
 $Definition['Password Ok'] = 'Oké';
-$Definition['PasswordRequest'] = 'Hallo %1$s,
-
-Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen: 
+$Definition['PasswordRequest'] = 'Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen: 
 
   %3$s
 

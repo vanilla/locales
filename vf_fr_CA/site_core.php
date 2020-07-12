@@ -576,9 +576,7 @@ Suivez ce lien pour en savoir plus :
 Bonne journée! ';
 $Definition['Email Notifications'] = 'Notifications de courriel';
 $Definition['Email Or Username'] = 'Courriel ou nom d\'utilisateur';
-$Definition['EmailPassword'] = 'Bonjour %1$s,
-
-%2$s a réinitialisé votre mot de passe sur %3$s. Vos informations de connexion sont désormais :
+$Definition['EmailPassword'] = '%2$s a réinitialisé votre mot de passe sur %3$s. Vos informations de connexion sont désormais :
 
  Adresse Courriel: %6$s
  Mot de passe : %5$s

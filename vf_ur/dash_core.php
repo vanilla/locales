@@ -838,7 +838,7 @@ $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'ا
 $Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'آپ اس آلے کا استعمال کرتے ہوئے صارف کے صارف IP پتوں ، ای میل ڈومینز ، اور الفاظ پر پابندی عائد کرسکتے ہیں۔';
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'آپ %s صفحے پر اس تھیم کیلئے HTML اور CSS کو اپنی مرضی کے مطابق بنا سکتے ہیں۔';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'آپ یا تو نیا اکاؤنٹ تشکیل دے سکتے ہیں ، یا اگر آپ کے پاس موجودہ اکاؤنٹ ہے تو اپنی اسناد درج کر سکتے ہیں۔';
-$Definition['You can make the categories page your homepage.'] = 'آپ اپنے زمرے کے صفحے کو اپنا ہوم پیج <a href="%s">یہاں</a> بنا سکتے <a href="%s">ہیں</a> ۔';
+$Definition['You can make the categories page your homepage.'] = 'آپ اپنے زمرے کے صفحے کو اپنا ہوم پیج یہاں بنا سکتے <a href="%s">ہیں</a> ۔';
 $Definition['You can specify a whitelist of trusted domains.'] = 'آپ قابل اعتماد ڈومینز کی ایک وائٹ لسٹ (مثال کے طور پر yourdomain.com) کی وضاحت کرسکتے ہیں جو ری ڈائریکٹ اور سرایت کے ل safe محفوظ ہیں۔';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'آپ %1$s پلگ ان کو غیر فعال نہیں کرسکتے ہیں کیونکہ کام کرنے کے لئے %2$s پلگ ان کی ضرورت ہوتی ہے۔';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'آپ صرف باقی کیٹیگری کو نہیں ہٹا سکتے جو گفتگو کی اجازت دیتا ہے';

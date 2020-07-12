@@ -48,7 +48,7 @@ class SmokeTest extends AbstractLocalesTest {
                     // For debug breakpoints.
                     $translationSprintfs = $this->getSprintfs($translaion);
                 }
-                $this->assertSame($sprintfs, $translationSprintfs, $value);
+                $this->assertSame($sprintfs, $translationSprintfs, $key);
                 $tested++;
             }
         }
@@ -57,7 +57,7 @@ class SmokeTest extends AbstractLocalesTest {
             if (fnmatch('*vf_en*', $localeDir)) {
                 $this->assertTrue(true);
             } else {
-                $this->markTestSkipped("The $locale locale has not translated any sprintf strings.");
+                $this->markTestSkipped("The $locale locale has not translated any sprintf strings for $resourceFilename.");
             }
         }
     }
@@ -114,7 +114,7 @@ class SmokeTest extends AbstractLocalesTest {
                 // For debug breakpoints.
                 $translationSprintfs = $this->getSprintfs($translaion);
             }
-            $this->assertSame($sprintfs, $translationSprintfs);
+            $this->assertSame($sprintfs, $translationSprintfs, $value);
         } elseif (fnmatch('*vf_en*', $dir)) {
             $this->assertTrue(true);
         } else {
@@ -165,9 +165,11 @@ class SmokeTest extends AbstractLocalesTest {
 
             $sprintfs = $this->getSprintfs($value);
             if (!empty($sprintfs)) {
-                $r[$value] = [$key, $value, $sprintfs];
+                $r[$key] = [$key, $value, $sprintfs];
             }
         }
+
+        $f = $source['EmailPassword'];
         return $r;
     }
 
@@ -178,12 +180,16 @@ class SmokeTest extends AbstractLocalesTest {
      * @return array
      */
     private function getSprintfs(string $value): array {
+        $r = [];
+        // Sprintf expansions.
         if (preg_match_all('`(%\d?\$?[sdf])`', $value, $m)) {
-            $r = $m[1];
-            sort($r);
-            return $r;
-        } else {
-            return [];
+            $r = array_merge($r, $m[1]);
         }
+        // HtmlUtils::formatTags().
+/*        if (preg_match_all('`(<(/?[\d]+\s?>)`', $value, $m)) {*/
+//            $r = array_merge($r, $m[1]);
+//        }
+        sort($r);
+        return $r;
     }
 }

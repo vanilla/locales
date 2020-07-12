@@ -573,7 +573,7 @@ $Definition['EmailPassword'] = '%2$s a resetat parola dumneavoastră pe %3$s. Da
 
   Email: %6$s
   Parola: %5$s
-  Adresa Url: %4$s';
+  Adresa URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail-ul trimis de la aplicație va fi adresat de la acest Nume și această Adresă';
 $Definition['Email Source'] = 'E-mail';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -1133,11 +1133,9 @@ $Definition['Password'] = 'Parola';
 $Definition['Password Contains Username'] = 'Conţine numele de utilizator';
 $Definition['Password Good'] = 'Bun';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Schimbare parola %1$s,
+$Definition['PasswordRequest'] = 'Cineva, poate chiar tu, a incercat sa schimbe parola de pe %2$s. Daca doresti resetarea parolei, urmeaza acest link:
 
-Cineva, poate chiar tu, a incercat sa schimbe parola de pe %2$s. Daca doresti resetarea parolei, urmeaza acest link:
-
-  %3$s
+%3$s
 
 Daca nu tu ai cerut schimbarea, NU da click pe link-ul respectiv.!';
 $Definition['Passwords don\'t match'] = 'Parola nu se potriveste!';

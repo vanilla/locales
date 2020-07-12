@@ -576,15 +576,11 @@ $Definition['EmailNotification'] = '%1$s さん
 ';
 $Definition['Email Notifications'] = 'メール通知設定';
 $Definition['Email Or Username'] = 'メールアドレスまたはユーザー名';
-$Definition['EmailPassword'] = '%1$s さん、こんにちは。
-
-%2$s さんが %3$s に パスワードをリセットしました。あなたの現在の認証情報は、次の通りです:
+$Definition['EmailPassword'] = '%2$s さんが %3$s に パスワードをリセットしました。あなたの現在の認証情報は、次の通りです:
 
   メールアドレス: %6$s
   パスワード: %5$s
-  URL: %4$s
-
-では、よい一日をお過ごしください！';
+  URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'アプリケーションから送信されるメールの送信元には、以下の名前とメールアドレスが使用されます';
 $Definition['Email Source'] = 'メールアドレス';
 $Definition['EmailStoryNotification'] = '%1$s

@@ -576,15 +576,11 @@ $Definition['EmailNotification'] = '%1$s
 Приємного дня!';
 $Definition['Email Notifications'] = 'Повідомлення електронною поштою';
 $Definition['Email Or Username'] = 'Електронна пошта або ім\'я користувача';
-$Definition['EmailPassword'] = 'Доброго дня, %1$s,
-
-%2$s скинув ваш пароль від %3$s. Параметри облікового запису тепер такі:
+$Definition['EmailPassword'] = '%2$s скинув ваш пароль від %3$s. Параметри облікового запису тепер такі:
 
   Email: %6$s
   Пароль: %5$s
-  Url: %4$s
-
-Приємного дня!';
+  Url: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Електронний лист, надісланий із додатку, буде адресовано від наступного імені та адреси';
 $Definition['Email Source'] = 'Електронна пошта';
 $Definition['EmailStoryNotification'] = '%1$s

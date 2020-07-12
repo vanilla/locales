@@ -572,15 +572,11 @@ Siga o link abaixo para conferir:
 Tenha um bom dia!';
 $Definition['Email Notifications'] = 'Notificações de email';
 $Definition['Email Or Username'] = 'Email ou nome de usuário';
-$Definition['EmailPassword'] = 'Olá, %1$s,
-
-%2$s resetou sua senha %3$s. Suas credencias agora são:
+$Definition['EmailPassword'] = '%2$s resetou sua senha %3$s. Suas credencias agora são:
 
   E-mail: %6$s
   Senha: %5$s
-  Url: %4$s
-
-Tenha um bom dia!';
+  Url: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Emails enviados pelo aplicativo serão endereçados com o seguinte nome e endereço';
 $Definition['Email Source'] = 'E-mail';
 $Definition['EmailStoryNotification'] = '%1$s(\\n)(\\n)
@@ -1145,11 +1141,9 @@ $Definition['Password'] = 'Senha';
 $Definition['Password Contains Username'] = 'Contém o nome de usuário';
 $Definition['Password Good'] = 'Bom';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Olá %1$s,
+$Definition['PasswordRequest'] = 'Alguém pediu uma nova senha em %2$s. Para gerar uma nova senha, siga:
 
-alguém pediu uma nova senha em %2$s. Para gerar uma nova senha, siga:
-
-  %3$s
+%3$s
 
 Se não foi você quem requisitou, por favor, desconsidere este e-mail.';
 $Definition['Passwords don\'t match'] = 'Senhas não coincidem';

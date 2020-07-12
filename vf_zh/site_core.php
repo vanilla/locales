@@ -572,13 +572,11 @@ $Definition['EmailNotification'] = '%1$s
      %2$s';
 $Definition['Email Notifications'] = '电子邮件通知';
 $Definition['Email Or Username'] = '电子邮件地址或用户名';
-$Definition['EmailPassword'] = '您好 %1$s，
+$Definition['EmailPassword'] = '%2$s 的密码已经被您重置 %3$s。您目前的登录信息是：
 
-     %2$s 的密码已经被您重置 %3$s。您目前的登录信息是：       
-
-	  Email: %6$s
-	  Password: %5$s
-	  URL: %4$s';
+Email: %6$s
+Password: %5$s
+URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = '应用程序将会按照以下的名字和地址发送电子邮件。';
 $Definition['Email Source'] = '电子邮件地址';
 $Definition['EmailStoryNotification'] = '%1$s

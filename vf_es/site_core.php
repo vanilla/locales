@@ -574,15 +574,11 @@ Sigue el enlace de abajo para echarle un vistazo:
 ¡Qué tengas un buen día!';
 $Definition['Email Notifications'] = 'Notificaciones por Email';
 $Definition['Email Or Username'] = 'Correo o Usuario';
-$Definition['EmailPassword'] = 'Hola %1$s,
-
-%2$s ha reseteado tu contraseña en %3$s. Ahora tus datos de acceso son:
+$Definition['EmailPassword'] = '%2$s ha reseteado tu contraseña en %3$s. Ahora tus datos de acceso son:
 
   Correo electrónico: %6$s
   Contraseña: %5$s
-  Url: %4$s
-
-¡Qué tengas un buen día!';
+  Url: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Los correos electrónicos enviados desde la aplicación serán enviados con el nombre y la dirección siguientes';
 $Definition['Email Source'] = 'Correo Electrónico';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -1147,11 +1143,9 @@ $Definition['Password'] = 'Contraseña';
 $Definition['Password Contains Username'] = 'Contiene nombre de usuario';
 $Definition['Password Good'] = 'Bien';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Hola %1$s,
+$Definition['PasswordRequest'] = 'Alguien ha realizado una solicitud para cambiar tu constraseña en %2$s. Para modificarla, sigue este enlace:
 
-Alguien ha realizado una solicitud para cambiar tu constraseña en %2$s. Para modificarla, sigue este enlace:
-
-  %3$s
+%3$s
 
 Si tú no hiciste esta solicitud, por favor, ignora este mensaje.';
 $Definition['Passwords don\'t match'] = 'Las contraseñas no coinciden.';

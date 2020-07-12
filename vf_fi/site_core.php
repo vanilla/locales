@@ -578,15 +578,11 @@ Seuraa alla olevaa linkkiä nähdäksesi lisää:
 Hyvää päivänjatkoa! ';
 $Definition['Email Notifications'] = 'Sähköposti-ilmoitukset';
 $Definition['Email Or Username'] = 'Sähköposti tai käyttäjätunnus';
-$Definition['EmailPassword'] = 'Hello %1$s,
+$Definition['EmailPassword'] = '%2$s on palauttanut salasanasi osoitteessa %3$s. Kirjautumistietosi ovat nyt:
 
-%2$s has reset your password at %3$s. Your login credentials are now:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s
-
-Have a great day!';
+Sähköposti: %6$s
+Salasana: %5$s
+URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Sovelluksen lähettämiin sähköpostiin vastataan seuraavista nimestä ja osoitteesta';
 $Definition['Email Source'] = 'Sähköposti';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -1150,11 +1146,9 @@ $Definition['Password'] = 'Salasana';
 $Definition['Password Contains Username'] = 'Sisältää käyttäjätunnuksen';
 $Definition['Password Good'] = 'Hyvä';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Hi %1$s,
+$Definition['PasswordRequest'] = 'Someone has requested to reset your password at %2$s. To reset your password, follow this link:
 
-Someone has requested to reset your password at %2$s. To reset your password, follow this link:
-
-  %3$s
+%3$s
 
 If you did not make this request, disregard this email.';
 $Definition['Passwords don\'t match'] = 'Salasanat eivät täsmää';
