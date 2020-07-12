@@ -852,7 +852,7 @@ $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Nem törölheted az egyetlen megmaradt kategóriát, amiben lehet beszélgetéseket létrehozni.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Webhelyedet védheted a fejlesztés alatt egy HTTP felhasználónévvel / jelszóval ';
 $Definition['You can send emails in plain text by disabling the toggle below.'] = 'Egyszerű szöveggel is küldhet e-maileket ha ezt kikapcsolja lent.';
-$Definition['You have %s invitations left for this month.'] = 'Neked %dbs meghívód maradt erre a hónapra';
+$Definition['You have %s invitations left for this month.'] = 'Neked %s bs meghívód maradt erre a hónapra';
 $Definition['You must be authenticated in order to use this form.'] = 'Figyelem - Elöbb hitelesítened kell magad, hogy használhasd a fórumot.';
 $Definition['You must manually apply this rank.'] = 'Kézzel kell ezt a rangot megadnod.';
 $Definition['You must provide at least one recipient'] = 'Legalább egy címzettet meg kell adnod';
