@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Kiểm tra %s của chúng tôi';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla là nền tảng cộng động đơn giản nhất và mạnh nhất trên thế giới. Nó rất dễ sử dụng. Hãy bắt đầu bằng việc xem đoạn phim giới thiệu này và tiếp tục theo các bước ở dưới đây.';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Chọn một thành viên có vai trò được thụ hưởng để gán cho:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Chọn một chủ đề cho tiểu ban này. &lt;0&gt; Đọc thêm </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Chọn một chủ đề cho tiểu ban này. <0> Đọc thêm </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Chọn cách để xử lý tất cả nội dung liên quan đến tài khoản người dùng cho %s (ý kiến, tin nhắn, vv).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Bạn có thể chọn một thuật toán băm tùy chỉnh để đăng yêu cầu của bạn. Thuật toán băm cũng phải được sử dụng trong thư viện của bạn. Chọn md5 nếu bạn không chắc chắn phải chọn gì.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Chọn bố cục ưa thích cho danh sách các danh mục.';
@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Nhập một tên mô tả cho túi.
 $Definition['Enter a short name for the site.'] = 'Nhập một tên ngắn cho trang web. Điều này được hiển thị trên các nút đăng nhập.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Nhập địa chỉ Blog của bạn và chúng tôi sẽ tự xử lý phần còn lại.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Nhập các thiết lập cho kết nối cho máy chủ sphinx của bạn dưới đây.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Mọi thao tác xóa hoặc sửa đều được ghi tại đây. Sử dụng &lsquo;Khôi phục&lsquo; để hoàn tác các thay đổi.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Mọi thao tác xóa hoặc sửa đều được ghi tại đây. Sử dụng ‘Khôi phục‘ để hoàn tác các thay đổi.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Tất cả những người đăng ký tại trang của bạn đều có một trang tiểu sử công khai nơi họ có thể tải lên một hình ảnh của mình, quản lý cài đặt tiểu sử , và theo dõi những điều tuyệt vời diễn ra trong cộng đồng. Bạn nên <a href="{/profile,url}"> tùy chỉnh hồ sơ của bạn bây giờ</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Mọi thành viên sử dụng trang web của bạn được phân cho ít nhất một vai trò. Vai trò được sử dụng để xác định những gì những người sử dụng được cho phép làm.';
 
@@ -142,7 +142,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Hãy chọn một xác thực để cấu hình.';
 $Definition['PluginHelp'] = 'Pluing cho phép bạn thêm chức năng cho trang web của bạn. < br / > Khi một plugin đã được thêm vào thư mục %s, bạn có thể kích hoạt hoặc vô hiệu hóa nó ở đây.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Túi hiển thị giữa mỗi bài viết trong danh sách các bài viết chính. Kể từ khi bài viết thường ở &lt; li &gt;... &lt; /li &gt; thẻ, bạn cũng sẽ cần để túi của bạn trong các thẻ.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Túi hiển thị giữa mỗi bài viết trong danh sách các bài viết chính. Kể từ khi bài viết thường ở < li >... < /li > thẻ, bạn cũng sẽ cần để túi của bạn trong các thẻ.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Túi cho phép bạn thêm HTML dạng tự do vào các địa điểm khác nhau xung quanh các ứng dụng.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Ngăn chặn thư rác trên diễn đàn của bạn bằng cách hạn chế số lượng các bài viết và ý kiến người sử dụng có thể đăng trong một khoảng thời gian nhất định.';
 
@@ -160,7 +160,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'Yêu cầu sự c
 $Definition['Requires “Positive” reaction permission.'] = 'Yêu cầu cho phép phản ứng tích cực.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Khi bạn khôi phục lại, các mục bị loại bỏ khỏi danh sách này sẽ được đưa trở lại trang';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Sử dụng tùy chọn sau để bật báo giá cho Rich Editor. Điều này sẽ chỉ áp dụng nếu trình định dạng mặc định là &quot;Giàu&quot;.';
+    'Sử dụng tùy chọn sau để bật báo giá cho Rich Editor. Điều này sẽ chỉ áp dụng nếu trình định dạng mặc định là "Giàu".';
 $Definition['Route Expression'] = 'Biểu hiện định tuyến';
 $Definition['Routes are used to redirect users.'] = 'Các đường truyền này được dùng để chuyển hướng người dùng tuỳ vào địa chỉ URL được yêu cầu.';
 
@@ -233,7 +233,7 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Ng�
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla xuất: %s, Nguồn: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistic hiện đang bị vô hiệu hoá';
 $Definition['Video tutorial on advanced settings'] = 'Phim hướng dẫn cách cài đặt nâng cao';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Phim hướng dẫn cách tìm kiếm &amp; quản lý người dùng';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Phim hướng dẫn cách tìm kiếm & quản lý người dùng';
 $Definition['Video tutorial on managing appearance'] = 'Phim hướng dẫn quản lý giao diện';
 $Definition['Video tutorial on managing categories'] = 'Video hướng dẫn quản lý danh mục';
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'Video hướng dẫn quản lý vai trò và quyền';
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Chào mừng đến với chủ đề của bạn";
-$Definition["This is a style guide of your theme."] = "Đây là một hướng dẫn phong cách của chủ đề của bạn. Nó có các ví dụ về các yếu tố trực quan được sử dụng trong suốt ứng dụng. Bạn có thể nhấp vào các tiện ích khác nhau, chẳng hạn như Thanh tiêu đề &lt;0&gt; </0> hoặc &lt;1&gt; Biểu ngữ </1> để chỉnh sửa các thuộc tính của chúng trong bảng điều khiển bên.";
-$Definition["In additon to the widgets there are also"] = "Ngoài tiện ích bổ sung, còn có &lt;0&gt; Kiểu toàn cầu </0> . Để chỉnh sửa kiểu toàn cầu, nhấp vào bất kỳ nơi nào khác trên trang, chẳng hạn như văn bản này.";
+$Definition["This is a style guide of your theme."] = "Đây là một hướng dẫn phong cách của chủ đề của bạn. Nó có các ví dụ về các yếu tố trực quan được sử dụng trong suốt ứng dụng. Bạn có thể nhấp vào các tiện ích khác nhau, chẳng hạn như Thanh tiêu đề <0> </0> hoặc <1> Biểu ngữ </1> để chỉnh sửa các thuộc tính của chúng trong bảng điều khiển bên.";
+$Definition["In additon to the widgets there are also"] = "Ngoài tiện ích bổ sung, còn có <0> Kiểu toàn cầu </0> . Để chỉnh sửa kiểu toàn cầu, nhấp vào bất kỳ nơi nào khác trên trang, chẳng hạn như văn bản này.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Có hai loại nút trong ứng dụng: chính và phụ.";
 $Definition["Primary Button"] = "Nút chính";
 $Definition["Secondary Button"] = "Nút phụ";
@@ -287,7 +287,7 @@ $Definition["User inputs are based on the global background and text colors."] =
 
 // Section Headings
 $Definition["Global Styles"] = "Phong cách toàn cầu";
-$Definition["Buttons & Inputs"] = "Nút &amp; Đầu vào";
+$Definition["Buttons & Inputs"] = "Nút & Đầu vào";
 $Definition["Buttons"] = "nút";
 $Definition["Title Bar"] = "Thanh tiêu đề";
 
@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Tên phông chữ";
 $Definition["Invalid URL"] = "URL không hợp lệ";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Bạn có thể tải lên Phông chữ tùy chỉnh trong Hệ thống theo chủ đề của mình. Chỉ cần sao chép và dán URL vào trường.";
 $Definition["You can configure some values differently for different screensizes."] = "Bạn có thể cấu hình một số giá trị khác nhau cho các màn hình khác nhau.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Bạn cần thêm tên miền của phông chữ vào &lt;0&gt; Tên miền được phép </0> , trong cấu hình của trang web. &lt;1&gt; Tìm hiểu thêm về phông chữ tùy chỉnh. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Bạn cần thêm tên miền của phông chữ vào <0> Tên miền được phép </0> , trong cấu hình của trang web. <1> Tìm hiểu thêm về phông chữ tùy chỉnh. </1> .";
 
 $Definition["Primary Buttons"] = "Nút chính";
 $Definition["Secondary Buttons"] = "Nút phụ";

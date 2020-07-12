@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Lihat %s kami';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla adalah platform komunitas paling praktis dan paling bertenaga di dunia. Ia super-sangat mudah digunakan. Mulailah dengan video pengenalan ini dan lanjutkan dengan langkah-langkah di bawah ini. Selamat menikmati!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Pilih sebuah peran untuk pengguna tanpa induk akan ditempatkan:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pilih tema untuk subkomunitas ini. &lt;0&gt; Baca lebih lanjut </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pilih tema untuk subkomunitas ini. <0> Baca lebih lanjut </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Pilihlah cara menangani semua  konten yang terkait dengan akun pengguna %s (komentar, pesan, dll).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Anda dapat memilih hash algoritma yang disesuaikan untuk menandai permintaan anda. Hash algoritma harus digunakan juga pada library client anda. Pilih md5 bila anda tidak yakin apa yang dipilih.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Pilih tata letak yang disukai untuk daftar kategori.';
@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Masukkan nama deskriptif dari pocket
 $Definition['Enter a short name for the site.'] = 'Masukkan nama singkat situs. Ini ditampilkan pada tombol masuk.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Masukkan alamat dari blog Wordpress anda dan kami akan menanganinya dari sana.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Masukkan setelan koneksi dari server sphinx anda di bawah ini.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Setiap pengeditan atau penghapusan direkam di sini. Gunakan &lsquo;Pulihkan&rsquo; untuk membatalkan perubahan apapun.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Setiap pengeditan atau penghapusan direkam di sini. Gunakan ‘Pulihkan’ untuk membatalkan perubahan apapun.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Semua anggota yang mendaftar masuk ke komunitas Anda memiliki laman profil publik di mana mereka dapat mengunggah foto mereka, mengelola setelan profil, serta bersosialisasi dalam komunitas. Sebaiknya Anda <a href="{/profile,url}">mengatur profil Anda sekarang</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Setiap pengguna di situs anda setidaknya diterapkan satu peran. Peran digunakan untukmenentukan apa saja yang boleh dilakukan oleh pengguna.';
 
@@ -141,9 +141,9 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Pilih salah satu autentikator untuk mengkonfigurasi';
 $Definition['PluginHelp'] = 'Plugin memungkinkan anda untuk menambah fungsionalitas situs anda.<br />Segera setelah sebuah plugin ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket ditampilkan di antara setiap diskusinya pada daftar diskusi utama. Semenjak diskusi yang biasanya dalam tag &lt;li&gt;..&lt;/li&gt; maka anda pun perlu untuk membungkus pocket bersamaan dengan tag tersebut.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Pocket ditampilkan di antara setiap diskusinya pada daftar diskusi utama. Semenjak diskusi yang biasanya dalam tag <li>..</li> maka anda pun perlu untuk membungkus pocket bersamaan dengan tag tersebut.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pocket memungkinkan anda untuk menambahkan free-form HTML ke berbagai tempat di aplikasi.';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Cegah spam di forum anda dengan membatasi jumlah diskusi &amp; komentar yang bisa dikirim pengguna dalam periode waktu tertentu.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Cegah spam di forum anda dengan membatasi jumlah diskusi & komentar yang bisa dikirim pengguna dalam periode waktu tertentu.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Panduan Cepat-Mulai untuk Membuat Tema Vanilla';
 
@@ -154,12 +154,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'Merupakan ide bagus untuk memiliki peringkat khusus untuk moderator dan administrator sehingga komunitas Anda dapat dengan mudah melihat siapa yang bertanggung jawab.';
 $Definition['Recommend starting with five ranks.'] =
     'Anda tidak ingin memiliki peringkat terlalu banyak. Kami merekomendasikan dimulai dengan lima. Anda dapat menambahkan lebih banyak jika komunitas Anda benar-benar besar.';
-$Definition['Requires “Flag” reaction permission.'] = 'Membutuhkan izin &quot;Tandai&quot; reaksi.';
-$Definition['Requires “Negative” reaction permission.'] = 'Membutuhkan izin reaksi &quot;Negatif&quot;.';
-$Definition['Requires “Positive” reaction permission.'] = 'Membutuhkan izin reaksi &quot;Positif&quot;.';
+$Definition['Requires “Flag” reaction permission.'] = 'Membutuhkan izin "Tandai" reaksi.';
+$Definition['Requires “Negative” reaction permission.'] = 'Membutuhkan izin reaksi "Negatif".';
+$Definition['Requires “Positive” reaction permission.'] = 'Membutuhkan izin reaksi "Positif".';
 $Definition['Restoring your selection removes the items from this list.'] = 'Saat anda memulihkan, item-item akan dihilangkan dari daftar ini dan dikembalikan lagi ke situs.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Gunakan opsi berikut untuk mengaktifkan kutipan untuk Editor Kaya. Ini hanya akan berlaku jika formatter default adalah &quot;Kaya&quot;.';
+    'Gunakan opsi berikut untuk mengaktifkan kutipan untuk Editor Kaya. Ini hanya akan berlaku jika formatter default adalah "Kaya".';
 $Definition['Route Expression'] = 'Ekspresi Route';
 $Definition['Routes are used to redirect users.'] = 'Route dapat digunakan untuk mengalihkan pengguna ke bermacam bagian dari situs anda tergantung dari url-nya.';
 
@@ -199,7 +199,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'File yang diimpor tidak memiliki data apapun.';
 $Definition['The import file is not in the correct format.'] = 'File yang diimpor tidak dalam format yang benar.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Lokasi dari jsonp formatted authentication data.';
-$Definition['ThemeHelp'] = 'Tema memungkinkan anda untuk mengubah tampilan &amp; rasa dari situs.<br />Segera setelah sebuah tema ditambahkan pada folder %s anda, and adapat mengaktifkannya di sini.';
+$Definition['ThemeHelp'] = 'Tema memungkinkan anda untuk mengubah tampilan & rasa dari situs.<br />Segera setelah sebuah tema ditambahkan pada folder %s anda, and adapat mengaktifkannya di sini.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Pratinjau tema terbatas untuk menampilkan templat dan css tema.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Password autentikator tidak memiliki opsi konfigurasi yang disesuaikan.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Tidak ada perubahan struktur basisdata yang diperlukan. Tapi dimungkinkan adanya perubahan pada data.';
@@ -232,10 +232,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Pen
 $Definition['Vanilla Export: %s, Source: %s'] = 'Ekspor Vanilla: %s, Sumber: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Statistik Vanilla saat ini dinonaktifkan';
 $Definition['Video tutorial on advanced settings'] = 'Video tutorial setelan tingkat lanjut';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial pencarian &amp; pengelolaan pengguna';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial pencarian & pengelolaan pengguna';
 $Definition['Video tutorial on managing appearance'] = 'Video tutorial pengelolaan tampilan';
 $Definition['Video tutorial on managing categories'] = 'Video tutorial pengelolaan kategori';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial pengelolaan peran &amp; perizinan';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial pengelolaan peran & perizinan';
 $Definition['Video tutorial on user registration'] = 'Video tutorial pendaftaran pengguna';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Peringatan: Mengaktifkan fitur ini dapat menyebabkan kesalahan Javascript di situs Anda.';
@@ -277,8 +277,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Selamat Datang Di Tema Anda";
-$Definition["This is a style guide of your theme."] = "Ini adalah panduan gaya tema Anda. Ini memiliki contoh elemen visual yang digunakan di seluruh aplikasi. Anda dapat mengklik berbagai widget seperti Bilah Judul &lt;0&gt; </0> atau &lt;1&gt; Spanduk </1> untuk mengedit propertinya di panel samping.";
-$Definition["In additon to the widgets there are also"] = "Selain widget ada juga &lt;0&gt; Gaya Global </0> . Untuk mengedit gaya global klik di mana saja di halaman, seperti teks ini.";
+$Definition["This is a style guide of your theme."] = "Ini adalah panduan gaya tema Anda. Ini memiliki contoh elemen visual yang digunakan di seluruh aplikasi. Anda dapat mengklik berbagai widget seperti Bilah Judul <0> </0> atau <1> Spanduk </1> untuk mengedit propertinya di panel samping.";
+$Definition["In additon to the widgets there are also"] = "Selain widget ada juga <0> Gaya Global </0> . Untuk mengedit gaya global klik di mana saja di halaman, seperti teks ini.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Ada dua jenis tombol dalam aplikasi: primer dan sekunder.";
 $Definition["Primary Button"] = "Tombol Utama";
 $Definition["Secondary Button"] = "Tombol Sekunder";
@@ -286,7 +286,7 @@ $Definition["User inputs are based on the global background and text colors."] =
 
 // Section Headings
 $Definition["Global Styles"] = "Gaya Global";
-$Definition["Buttons & Inputs"] = "Tombol &amp; Input";
+$Definition["Buttons & Inputs"] = "Tombol & Input";
 $Definition["Buttons"] = "Tombol";
 $Definition["Title Bar"] = "Bar judul";
 
@@ -302,9 +302,9 @@ $Definition["Border Radius"] = "Radius Perbatasan";
 $Definition["Font URL"] = "URL font";
 $Definition["Font Name"] = "Nama Font";
 $Definition["Invalid URL"] = "URL tidak valid";
-$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Anda dapat mengunggah Font Kustom di Sistem Mereka. Cukup salin &amp; tempel URL di bidang.";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Anda dapat mengunggah Font Kustom di Sistem Mereka. Cukup salin & tempel URL di bidang.";
 $Definition["You can configure some values differently for different screensizes."] = "Anda dapat mengkonfigurasi beberapa nilai secara berbeda untuk screensizes yang berbeda.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke &lt;0&gt; Domain yang Diizinkan </0> , dalam konfigurasi situs. &lt;1&gt; Pelajari lebih lanjut tentang font khusus. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke <0> Domain yang Diizinkan </0> , dalam konfigurasi situs. <1> Pelajari lebih lanjut tentang font khusus. </1> .";
 
 $Definition["Primary Buttons"] = "Tombol Utama";
 $Definition["Secondary Buttons"] = "Tombol Sekunder";

@@ -4,13 +4,13 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.';
 
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Feumar dreuchd le seòrsa bunaiteach &quot;neo-dhearbhaichte&quot; gus dearbhadh post-d a chleachdadh.';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Feumar dreuchd le seòrsa bunaiteach "neo-dhearbhaichte" gus dearbhadh post-d a chleachdadh.';
 $Definition['About.DisableStatistics'] = 'If you must disable this data reporting for some business reason, you can do so by adding the following line to your installation\'s configuration file: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of this free, open-source software that we accurately measure the reach and effectiveness of Vanilla. We ask that you please do not disable the reporting of this data.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['About Vanilla Statistics'] = 'About Vanilla Statistics';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Faigh chun fhòram coimhearsnachd agad le bhith a ’briogadh air a’ cheangal “Làrach Tadhail” aig mullach na duilleige seo, no le <a href={/,url}>bhith</a> a ’ <a href={/,url}>cliogadh an seo</a> . Is e am fòram coimhearsnachd na chì an luchd-cleachdaidh agus an luchd-ceannach agad nuair a thadhlas iad air <a href="{/,url,domain}">{/, url, domain}</a> .';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Faigh chun fhòram coimhearsnachd agad le bhith a ’briogadh air a’ cheangal “Làrach Tadhail” aig mullach na duilleige seo, no le <a href={/,url}>bhith a ’ cliogadh an seo</a> . Is e am fòram coimhearsnachd na chì an luchd-cleachdaidh agus an luchd-ceannach agad nuair a thadhlas iad air <a href="{/,url,domain}">{/, url, domain}</a> .';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'Cuir crìochan ri tomhasan luchdachadh suas ìomhaighean ann an còmhraidhean agus beachdan.';
 $Definition['AddressBarColorDescription'] = 'Bidh cuid de bhrobhsairean a ’toirt taic do dhath airson a’ bhàr seòlaidh. Fòn-làimhe a-mhàin.';
@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Thoir sùil air an %s againn';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla is the simplest, most powerful community platform in the world. It\'s super-duper easy to use. Start with this introductory video and continue with the steps below. Enjoy!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choose a role that orphaned users will be assigned to:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Tagh cuspair airson an fho-choimhearsnachd seo. &lt;0&gt; Leugh tuilleadh </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Tagh cuspair airson an fho-choimhearsnachd seo. <0> Leugh tuilleadh </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Tagh an cruth as fheàrr leat airson liostaichean de roinnean.';
@@ -67,14 +67,14 @@ $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the poc
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Enter the address of your Wordpress Blog and we\'ll take it from there.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Enter the connection settings for your sphinx server below.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Every edit or deletion is recorded here. Use ‘Restore’ to undo any change.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Bidh a h-uile duine a chlàraicheas airson do choimhearsnachd a ’faighinn duilleag ìomhaigh phoblach far an urrainn dhaibh dealbh dhiubh fhèin a luchdachadh suas, na roghainnean pròifil aca a riaghladh, agus sùil a chumail air rudan fionnar a tha a’ dol air adhart sa choimhearsnachd. Bu chòir dhut <a href="{/profile,url}">do phròifil a ghnàthachadh a-nis</a> .';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect allows users to sign in using their Facebook account. <b>You must register your application with Facebook for this plugin to work.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
-$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Mar eisimpleir, faodaidh tu casg a chuir air a h-uile neach-cleachdaidh le seòlaidhean puist-d bho &quot;example.com&quot; le bhith a ’cur casg seòrsa post-d leis an luach&quot; *@example.com &quot;.';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Mar eisimpleir, faodaidh tu casg a chuir air a h-uile neach-cleachdaidh le seòlaidhean puist-d bho "example.com" le bhith a ’cur casg seòrsa post-d leis an luach" *@example.com ".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
@@ -103,7 +103,7 @@ $Definition['If you want to embed your forum, enable embedding.'] =
     'Ma tha thu airson do fhòram a stèidheachadh no beachdan Vanilla a chleachdadh anns a ’bhlog agad feumaidh tu an toirt a-steach. Mura h-eil thu a ’cleachdadh greimeachadh tha sinn a’ moladh an suidheachadh seo fhàgail.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Importing to Vanilla';
-$Definition['Internationalization & Localization'] = 'Eadar-nàiseantachd &amp; Ionadail';
+$Definition['Internationalization & Localization'] = 'Eadar-nàiseantachd & Ionadail';
 $Definition['Invitation email failed to send: %'] = 'Ged a chaidh an cuireadh a chruthachadh gu soirbheachail, cha do chuir am post-d fios. Thug an frithealaiche cunntas air a ’mhearachd a leanas: %s';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'When you use registration by invitation users will have a link called <a href="%s" class="Popup">My Invitations</a> on their profile pages.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>';
@@ -131,7 +131,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Thèid roinnean neadachaidh nas doimhne na an doimhneachd seo a chur ann an liosta làn-choma.';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Feumaidh an làrach dreuchd le seòrsa bunaiteach &quot;neo-dhaingnichte&quot; gus dearbhadh post-d a chleachdadh. Feuch an cuir thu fear ris gus an t-suidheachadh seo a chomasachadh.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Feumaidh an làrach dreuchd le seòrsa bunaiteach "neo-dhaingnichte" gus dearbhadh post-d a chleachdadh. Feuch an cuir thu fear ris gus an t-suidheachadh seo a chomasachadh.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Gun a bhith a ’faighinn na tha thu a’ dùileachadh nuair a bheir thu ro-shealladh air a ’chuspair agad?';
 $Definition['Notify me when people comment on my addons.'] = 'Notify me when people comment on my addons.';
 
@@ -142,9 +142,9 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in <li>..</li> tags, you\'ll need to wrap your pocket in those tags too.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets allow you to add free-form HTML to various places around the application.';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions & comments that users can post within a given period of time.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
@@ -160,7 +160,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'Feumaidh e cead f
 $Definition['Requires “Positive” reaction permission.'] = 'Feumaidh e cead freagairt “adhartach”.';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Cleachd an roghainn a leanas gus luachan a thoirt don Deasaiche Rich. Cha bhuin seo ach ma tha an cruth bunaiteach &quot;Rich&quot;.';
+    'Cleachd an roghainn a leanas gus luachan a thoirt don Deasaiche Rich. Cha bhuin seo ach ma tha an cruth bunaiteach "Rich".';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Bithear a ’cleachdadh slighean gus luchd-cleachdaidh ath-stiùireadh a rèir an URL a chaidh iarraidh.';
 
@@ -200,7 +200,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'The import file does not contain any data.';
 $Definition['The import file is not in the correct format.'] = 'The import file is not in the correct format.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'The location of the jsonp formatted authentication data.';
-$Definition['ThemeHelp'] = 'Themes allow you to change the look &amp; feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
+$Definition['ThemeHelp'] = 'Themes allow you to change the look & feel of your site.<br />Once a theme has been added to your %s folder, you can enable it here.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Tha ro-shealladh cuspair air a chuingealachadh ri bhith a ’taisbeanadh teamplaid agus css a’ chuspair.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'The Password Authenticator does not have any custom configuration options. ';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'There are no database structure changes required. There may, however, be data changes.';
@@ -233,10 +233,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Fao
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
 $Definition['Video tutorial on advanced settings'] = 'Video tutorial on advanced settings';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding &amp; managing users';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding & managing users';
 $Definition['Video tutorial on managing appearance'] = 'Video tutorial on managing appearance';
 $Definition['Video tutorial on managing categories'] = 'Video tutorial on managing categories';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles &amp; permissions';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles & permissions';
 $Definition['Video tutorial on user registration'] = 'Video tutorial on user registration';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Rabhadh: Faodaidh comasachadh an fheart seo mearachdan Javascript adhbhrachadh air do làrach.';
@@ -248,7 +248,7 @@ $Definition['When enabled, you can manage products, and group subcommunities by 
 $Definition['Which reactions you use really depends on your community.'] =
     'Bidh na beachdan a bhios tu a ’cleachdadh gu mòr an urra ris a’ choimhearsnachd agad, ach tha sinn a ’moladh puing no dhà a chumail nad inntinn.';
 
-$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Faodaidh tu casg a chuir air a h-uile neach-cleachdaidh le seòlaidhean IP ro-leasaichte le &quot;111.111.111&quot; le bhith a ’cur casg seòrsa IP ris an luach&quot; 111.111.111. * &quot;.';
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Faodaidh tu casg a chuir air a h-uile neach-cleachdaidh le seòlaidhean IP ro-leasaichte le "111.111.111" le bhith a ’cur casg seòrsa IP ris an luach" 111.111.111. * ".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Faodaidh tu seòlaidhean IP, seòlaidhean puist-d agus ainmean-cleachdaidh a thoirmeasg.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'Faodaidh tu taghadh bho aon de na diofar stoidhlichean a tha an cuspair seo a ’tabhann.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'You can connect to multiple sites that support jsConnect.';
@@ -278,8 +278,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Fàilte don chuspair agad";
-$Definition["This is a style guide of your theme."] = "Seo stiùireadh stoidhle den chuspair agad. Tha eisimpleirean ann de na h-eileamaidean lèirsinneach a chaidh a chleachdadh air feadh an tagraidh. Faodaidh tu briogadh air na diofar widgets leithid am &lt;0&gt; Title Bar </0> no &lt;1&gt; Bratach </1> gus na togalaichean aca a dheasachadh anns a ’phanal taobh.";
-$Definition["In additon to the widgets there are also"] = "A bharrachd air na widgets tha &lt;0&gt; Stoidhlichean Cruinne ann cuideachd </0> . Gus stoidhlichean cruinne a dheasachadh cliog àite sam bith eile air an duilleag, mar an teacsa seo.";
+$Definition["This is a style guide of your theme."] = "Seo stiùireadh stoidhle den chuspair agad. Tha eisimpleirean ann de na h-eileamaidean lèirsinneach a chaidh a chleachdadh air feadh an tagraidh. Faodaidh tu briogadh air na diofar widgets leithid am <0> Title Bar </0> no <1> Bratach </1> gus na togalaichean aca a dheasachadh anns a ’phanal taobh.";
+$Definition["In additon to the widgets there are also"] = "A bharrachd air na widgets tha <0> Stoidhlichean Cruinne ann cuideachd </0> . Gus stoidhlichean cruinne a dheasachadh cliog àite sam bith eile air an duilleag, mar an teacsa seo.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Tha dà sheòrsa putan san tagradh: bun-sgoil agus àrd-sgoil.";
 $Definition["Primary Button"] = "Putan Bun-sgoile";
 $Definition["Secondary Button"] = "Putan Àrd-sgoile";
@@ -287,7 +287,7 @@ $Definition["User inputs are based on the global background and text colors."] =
 
 // Section Headings
 $Definition["Global Styles"] = "Stoidhlichean Cruinne";
-$Definition["Buttons & Inputs"] = "Putanan &amp; Toraidhean";
+$Definition["Buttons & Inputs"] = "Putanan & Toraidhean";
 $Definition["Buttons"] = "Putanan";
 $Definition["Title Bar"] = "Bàr tiotal";
 
@@ -303,9 +303,9 @@ $Definition["Border Radius"] = "Radius nan Crìochan";
 $Definition["Font URL"] = "URL clò";
 $Definition["Font Name"] = "Ainm Font";
 $Definition["Invalid URL"] = "URL mì-dhligheach";
-$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Faodaidh tu Font Custom a luchdachadh suas san t-siostam cuspaireil agad. Dìreach dèan lethbhreac &amp; pasg air an URL san raon.";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Faodaidh tu Font Custom a luchdachadh suas san t-siostam cuspaireil agad. Dìreach dèan lethbhreac & pasg air an URL san raon.";
 $Definition["You can configure some values differently for different screensizes."] = "Faodaidh tu cuid de luachan a rèiteachadh gu eadar-dhealaichte airson scrionaichean eadar-dhealaichte.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Feumaidh tu fearann an url url a chur ri &lt;0&gt; AllowedDomains </0> , ann an rèiteachadh na làraich. &lt;1&gt; Ionnsaich tuilleadh mu chlàran àbhaisteach. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Feumaidh tu fearann an url url a chur ri <0> AllowedDomains </0> , ann an rèiteachadh na làraich. <1> Ionnsaich tuilleadh mu chlàran àbhaisteach. </1> .";
 
 $Definition["Primary Buttons"] = "Putanan Bun-sgoile";
 $Definition["Secondary Buttons"] = "Putanan Àrd-sgoile";

@@ -8,7 +8,7 @@ $Definition['About.VanillaStatistics'] = 'É de vital importância para a perdur
 $Definition['AboutCommentEmbedding'] = 'Vanilla pode ser usado como um substituto para a sessão original de comentários do seu blog. Aliás, pode ser usado para incluir comentários em qualquer site.';
 $Definition['AboutEmbedding'] = 'Incorporação permite que toda ou parte da sua comunidade seja incorporada em outras aplicações ou sites.';
 $Definition['About Vanilla Statistics'] = 'Sobre as estatística do Vanilla';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Acesse o fórum da sua comunidade clicando em "Visitar site" na parte superior desta página ou <a href={/,url}>clicando aqui</a>. O fórum da comunidade é o que todos os seus usuários &amp; clientes verão ao visitar <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Acesse o fórum da sua comunidade clicando em "Visitar site" na parte superior desta página ou <a href={/,url}>clicando aqui</a>. O fórum da comunidade é o que todos os seus usuários & clientes verão ao visitar <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] = 'Adicione limites às dimensões do upload de imagens nas discussões e comentários.';
 $Definition['AddonProblems'] = '<h2>Problemas?</h2><p>Se algo der errado com seus plugins e você não puder usar seu site, você pode desabilitá-los manualmente editando:</p>%s';
 $Definition['AddressBarColorDescription'] = 'Alguns navegadores suportam uma cor para a barra de endereço. Apenas para celular.';
@@ -47,7 +47,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Veja as nossas %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla é a plataforma para comunidades mais simples e poderosa do mundo. É super-ultra-mega fácil de usar. Comece com este vídeo introdutório e continue com as etapas abaixo. Aproveite!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Escolha a função que será aplicada a usuários órfãos:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Escolha um tema para esta subcomunidade. &lt;0&gt; Leia mais </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Escolha um tema para esta subcomunidade. <0> Leia mais </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Escolha como gerenciar todo o conteúdo associado ao membro da conta %s (comentários, mensagens, etc).';
 $Definition['Choose Image'] = 'Escolha imagem';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Você pode escolher um algoritmo de hash personalizado para assinar seus pedidos. O algoritmo hash também deve ser usado em sua biblioteca cliente. Escolha md5 se não tiver certeza de qual escolher.';
@@ -80,7 +80,7 @@ $Definition['Enter a descriptive name.'] = 'Dê um nome descritivo ao pocket. Es
 $Definition['Enter a short name for the site.'] = 'Digite uma abreviação para o nome do site. Ela será exibida nos botões de login.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Digite o endereço do seu blog WordPress e nós faremos o resto.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Digite as configurações de conexão do servidor do sphinx abaixo.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Todas as edições e exclusões são registradas aqui. Clique em &lsquo;Restaurar&rsquo; para desfazer qualquer alteração.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Todas as edições e exclusões são registradas aqui. Clique em ‘Restaurar’ para desfazer qualquer alteração.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Todos os que se inscrevem na sua comunidade recebem uma página de perfil público onde podem fazer envio de sua foto, gerenciar suas configurações de perfil e acompanhar as coisas legais que acontecem na comunidade. Você pode <a href="{/profile,url}"> personalizar o seu perfil agora </a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Cada usuário deve ter, pelo menos, uma gunção. As funções são usadas para determinar o que usuários têm podem para fazer.';
 
@@ -120,7 +120,7 @@ $Definition['If you want to embed your forum, enable embedding.'] = 'Se você de
 $Definition['Image (Mobile)'] = 'Imagem (celular)';
 $Definition['Import'] = 'Importar';
 $Definition['Importing to Vanilla'] = 'Importando para o Vanilla';
-$Definition['In additon to the widgets there are also'] = 'Além dos widgets, também existem &lt;0&gt; Estilos globais </0> . Para editar estilos globais, clique em qualquer outro lugar da página, como este texto.';
+$Definition['In additon to the widgets there are also'] = 'Além dos widgets, também existem <0> Estilos globais </0> . Para editar estilos globais, clique em qualquer outro lugar da página, como este texto.';
 $Definition['Internationalization & Localization'] = 'Internacionalização e localização';
 $Definition['Invalid URL'] = 'URL inválida';
 $Definition['Invitation email failed to send: %'] = 'Embora o convite tenha sido criado com sucesso, o email não foi enviado. O servidor relatou o seguinte erro: %s';
@@ -162,7 +162,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Por favor, escolha um autenticador para configurar.';
 $Definition['PluginHelp'] = 'Complementos permitem que você inclua novas funcionalidades ao seu fórum.<br />Uma vez adicionados à pasta %s, você poderá habilitá-los ou desabilitá-los aqui.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'O pocket é exibido entre cada discussão da lista principal de discussões. Uma vez que discussões são sempre rotulados com &lt;li&gt;..&lt;/li&gt;, também será preciso envolver seus pockets nestes rótulos.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'O pocket é exibido entre cada discussão da lista principal de discussões. Uma vez que discussões são sempre rotulados com <li>..</li>, também será preciso envolver seus pockets nestes rótulos.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets permitem que você adicione pequenos pedaços de HTML em vários lugares do seu aplicativo.';
 $Definition['Preset'] = 'Predefinição';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Previna spam em seu fórum limitando o número de comentários e discussões que usuários podem postar em um determinado período de tempo.';
@@ -180,7 +180,7 @@ $Definition['Requires “Flag” reaction permission.'] = 'Requer permissão de 
 $Definition['Requires “Negative” reaction permission.'] = 'Requer permissão de reação "Negativa".';
 $Definition['Requires “Positive” reaction permission.'] = 'Requer permissão de reação "Positiva".';
 $Definition['Restoring your selection removes the items from this list.'] = 'Quando você restaurar, os items serão removidos desta lista e colocados de volta no site.';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Use a opção a seguir para ativar cotações para o Rich Editor. Isso se aplicará apenas se o formatador padrão for &quot;Rico&quot;.';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Use a opção a seguir para ativar cotações para o Rich Editor. Isso se aplicará apenas se o formatador padrão for "Rico".';
 $Definition['Route Expression'] = 'Expressão da Rota';
 $Definition['Routes are used to redirect users.'] = 'Rotas são usadas para redirecionar os usuários dependendo da URL solicitada.';
 
@@ -232,7 +232,7 @@ $Definition['The user table was not in the import file.'] = 'A tabela do usuári
 $Definition['The Vanilla 2 Exporter'] = 'Exportador do Vanilla 2';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'O Vanilla Statistics transforma o painel do seu fórum em uma ferramenta de relatórios analíticos, permitindo que você analise as atividades em seu fórum em determinados períodos de tempo. Você pode <a href="http://vanillaforums.org/docs/vanillastatistics">ler mais sobre Vanilla Statistics</a> em nossa documentação.';
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Eles funcionam como temas padrões. Depois de adicionar um à pasta de temas, você pode habilitá-lo aqui.';
-$Definition['This is a style guide of your theme.'] = 'Este é um guia de estilo do seu tema. Possui exemplos dos elementos visuais usados em todo o aplicativo. Você pode clicar nos vários widgets, como a barra de título &lt;0&gt; </0> ou &lt;1&gt; Faixa </1> para editar suas propriedades no painel lateral.';
+$Definition['This is a style guide of your theme.'] = 'Este é um guia de estilo do seu tema. Possui exemplos dos elementos visuais usados em todo o aplicativo. Você pode clicar nos vários widgets, como a barra de título <0> </0> ou <1> Faixa </1> para editar suas propriedades no painel lateral.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Este é o painel de controle administrativo da sua nova comunidade. Confira as opções de configuração ao lado. A partir delas você pode configurar o modo como sua comunidade funciona. <b>Por padrão, somente os usuários na função "Administrador" podem ver esta área de sua comunidade. </b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Esta opção exibe/esconde as lozalizações onde os pockets podem ir, mas somente para usuários que têm autorização para adicionar/editar pockets. Tente exibir as localizações e, então, visitar seu site.';
 $Definition['This page lists the endpoints of your API.'] = 'Esta página lista os pontos de extremidade da sua API. Clique em terminais para obter mais informações. Você pode fazer chamadas ao vivo para a API a partir desta página ou externamente usando um token de acesso.';
@@ -255,10 +255,10 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 $Definition['Vanilla Export: %s, Source: %s'] = 'Exportar Vanilla: %s, Fonte: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Estatísticas do Vanilla estão desabilitadas';
 $Definition['Video tutorial on advanced settings'] = 'Tutorial em vídeo sobre configurações avançadas';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Tutorial em vídeo sobre gerenciamente &amp; pesquisa de usuários';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Tutorial em vídeo sobre gerenciamente & pesquisa de usuários';
 $Definition['Video tutorial on managing appearance'] = 'Tutorial em vídeo sobre gerenciamente de aparência';
 $Definition['Video tutorial on managing categories'] = 'Tutorial em vídeo sobre gerenciamento de salas';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Tutorial em vídeo sobre gerenciamente de funções &amp; autorizações';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Tutorial em vídeo sobre gerenciamente de funções & autorizações';
 $Definition['Video tutorial on user registration'] = 'Tutorial em vídeo sobre registro de usuário';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Aviso: ativar esse recurso pode causar erros de Javascript no seu site.';
@@ -280,5 +280,5 @@ $Definition['You can place files in your /uploads folder.'] = 'Se o seu arquivo 
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Você pode especificar um tamanho mínimo de postagem para desencorajar postagens curtas.';
 $Definition['You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field.'] = 'Você pode fazer o upload de uma fonte personalizada em seu sistema de temas. Basta copiar e colar o URL no campo.';
 $Definition['You must select a file to import.'] = 'Você precisa selecionar um arquivo para importar.';
-$Definition['You need to add the font url’s domain to <0>AllowedDomains</0>, in the site\'s configuration. <1>Learn more about custom fonts.</1>.'] = 'Você precisa adicionar o domínio do URL da fonte a &lt;0&gt; AllowedDomains </0> , na configuração do site. &lt;1&gt; Saiba mais sobre fontes personalizadas. </1> .';
+$Definition['You need to add the font url’s domain to <0>AllowedDomains</0>, in the site\'s configuration. <1>Learn more about custom fonts.</1>.'] = 'Você precisa adicionar o domínio do URL da fonte a <0> AllowedDomains </0> , na configuração do site. <1> Saiba mais sobre fontes personalizadas. </1> .';
 $Definition['Your mobile theme will be disabled.'] = 'Seu tema para celular será desativado. Para definir diferentes temas para dispositivos móveis e computadores, use a interface do usuário com temas antigos.';

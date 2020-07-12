@@ -2,7 +2,7 @@
 // phpcs:ignoreFile
 $Definition["(No Body)"] = "(Gun bhuidheann)";
 $Definition["(Untitled)"] = "(Gun ainm)";
-$Definition["<0 /> out of <1 /> people found this helpful"] = "Bha &lt;0 /&gt; a-mach à &lt;1 /&gt; daoine ga fhaighinn feumail";
+$Definition["<0 /> out of <1 /> people found this helpful"] = "Bha <0 /> a-mach à <1 /> daoine ga fhaighinn feumail";
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "Dreach gnàthaichte den ainm bunait eòlais mar bu chòir dha nochdadh ann an URLan.";
 $Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "Tuairisgeul air bunait an eòlais. Air a thaisbeanadh anns an neach-togail bunait eòlais.";
@@ -12,7 +12,7 @@ $Definition["Add a knowledge base to get started."] = "Cuir bunait eòlais ris g
 $Definition["Add/Edit Knowledge Base"] = "Cuir ris / Deasaich bunait eòlais";
 $Definition["Admin Links"] = "Ceanglaichean rianachd";
 $Definition["Alphabetically"] = "A rèir na h-aibideil";
-$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "A bheil thu cinnteach gu bheil thu airson &lt;0 /&gt; &quot;&lt;1 /&gt;&quot; a dhubhadh às?";
+$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "A bheil thu cinnteach gu bheil thu airson <0 /> \"<1 />\" a dhubhadh às?";
 $Definition["Are you sure you want to delete this knowledge base?"] = "A bheil thu cinnteach gu bheil thu airson am bunait eòlais seo a dhubhadh às?";
 $Definition["Are you sure you want to purge this knowledge base?"] = "A bheil thu cinnteach gu bheil thu airson am bunait eòlais seo a ghlanadh?";
 $Definition["Are you sure you want to restore this knowledge base?"] = "A bheil thu cinnteach gu bheil thu airson am bunait eòlais seo a thoirt air ais?";
@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Ath-sgrùdaidhean artaigil";
 $Definition["Article Three"] = "Artaigil a Trì";
 $Definition["Article Two"] = "Artaigil a Dhà";
 $Definition["Articles"] = "Artaigilean";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Ceangail toradh ris an fho-choimhearsnachd seo. Cleachd an &lt;0&gt; Manage Products UI </0> gus toraidhean a chur ris, a dheasachadh no a dhubhadh às.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Ceangail toradh ris an fho-choimhearsnachd seo. Cleachd an <0> Manage Products UI </0> gus toraidhean a chur ris, a dheasachadh no a dhubhadh às.";
 
 $Definition["Back to Home"] = "Air ais aig an taigh";
 $Definition["Back to home page"] = "Air ais gu duilleag dachaigh";
@@ -34,13 +34,13 @@ $Definition["Be the first one to vote!"] = "Bi a ’chiad fhear a bhòt!";
 $Definition["Border Style"] = "Stoidhle Crìochan";
 $Definition["Browse Articles by Category"] = "Dèan brobhsadh air artaigilean a rèir seòrsa";
 $Definition["Browse"] = "Dèan brobhsadh";
-$Definition["By <0/>"] = "Le &lt;0 /&gt;";
+$Definition["By <0/>"] = "Le <0 />";
 
 $Definition["category"] = "roinn-seòrsa";
 $Definition["Category One"] = "Roinn a h-Aon";
 $Definition["Category Options"] = "Roghainnean roinn-seòrsa";
 $Definition["Category Two"] = "Roinn a Dhà";
-$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Tha cuid de ghnìomhan air an ciorramachadh leis nach eil iad rim faighinn ach anns an stòr stòr: &lt;0 /&gt;";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Tha cuid de ghnìomhan air an ciorramachadh leis nach eil iad rim faighinn ach anns an stòr stòr: <0 />";
 $Definition["Certain actions are disabled because they are only avalaible in the source locale."] = "Tha cuid de ghnìomhan air an ciorramachadh leis nach eil iad rim faighinn ach anns an stòr ionadail.";
 $Definition["Choose"] = "Tagh";
 $Definition["Choose a location for this page."] = "Tagh àite airson an duilleag seo.";
@@ -56,13 +56,13 @@ $Definition["Debug"] = "Debug";
 $Definition["Default Background Color"] = "Dath cùl-fhiosrachaidh bunaiteach";
 $Definition["Default Foreground Color"] = "Dath aghaidh aghaidh bunaiteach";
 
-$Definition["Delete \"<0/>\""] = "Thoir às &quot;&lt;0 /&gt;&quot;";
+$Definition["Delete \"<0/>\""] = "Thoir às \"<0 />\"";
 $Definition["Delete Draft"] = "Cuir às do dhreach";
 $Definition["Delete an Article"] = "Thoir às artaigil";
 $Definition["Deleted Articles"] = "Artaigilean air an toirt às";
 $Definition["Deleted Knowledge Bases"] = "Basan Eòlas air an toirt às";
 $Definition["Draft Options"] = "Dreach roghainnean";
-$Definition["Draft saved <0/>"] = "Dreach air a shàbhaladh &lt;0 /&gt;";
+$Definition["Draft saved <0/>"] = "Dreach air a shàbhaladh <0 />";
 
 $Definition["Edit Knowledge Base"] = "Deasaich bunait eòlais";
 $Definition["Error saving draft."] = "Mearachd dreach sàbhalaidh.";
@@ -103,7 +103,7 @@ $Definition["New Category"] = "Roinn ùr";
 $Definition["New Knowledge Base"] = "Bunait eòlais ùr";
 $Definition["New Name: "] = "Ainm Ùr:";
 $Definition["Newest First"] = "An toiseach as ùire";
-$Definition["No \"deleted\" knowledge bases found."] = "Cha do lorgar bunaitean eòlais &quot;air an sguabadh às&quot;.";
+$Definition["No \"deleted\" knowledge bases found."] = "Cha do lorgar bunaitean eòlais \"air an sguabadh às\".";
 $Definition["No Permission"] = "Gun chead";
 $Definition["No knowledge bases found."] = "Cha deach bunaitean eòlais a lorg.";
 
@@ -158,7 +158,7 @@ $Definition["This article hasn't been translated yet. The original article text 
 $Definition['This article is not translated yet or it is out of date.'] = 'Chan eil an artaigil seo air eadar-theangachadh fhathast no tha e a-mach à aois.';
 $Definition['The article this draft is based on is no longer available.'] = 'Chan eil an artaigil air a bheil an dreach seo stèidhichte a-nis ri fhaighinn.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Tha leud colbh meadhan a ’phrìomh chruth ann am piogsail.';
-$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Chaidh an artaigil seo a dheasachadh anns an stòr tùsail aige air &lt;0 /&gt;. Deasaich an artaigil seo gus an eadar-theangachadh ùrachadh agus an teachdaireachd seo a ghlanadh.';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Chaidh an artaigil seo a dheasachadh anns an stòr tùsail aige air <0 />. Deasaich an artaigil seo gus an eadar-theangachadh ùrachadh agus an teachdaireachd seo a ghlanadh.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Chaidh an artaigil seo a dheasachadh anns an stòr ionadail aige. Deasaich an artaigil seo gus an eadar-theangachadh ùrachadh agus an teachdaireachd seo a ghlanadh.';
 
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Is e gnìomh millteach a tha seo. Cha bhith e comasach dhut an dreach agad a thoirt air ais.";
@@ -193,13 +193,13 @@ $Definition["Type your article."] = "Taidhp an artaigil agad.";
 $Definition["Unknown User"] = "Cleachdaiche neo-aithnichte";
 
 $Definition["View Article"] = "Faic an artaigil";
-$Definition["View all articles from category: \"<0/>\"."] = "Faic na h-artaigilean gu lèir bho roinn-seòrsa: &quot;&lt;0 /&gt;&quot;.";
+$Definition["View all articles from category: \"<0/>\"."] = "Faic na h-artaigilean gu lèir bho roinn-seòrsa: \"<0 />\".";
 
 $Definition["Was this article helpful?"] = "An robh an artaigil seo cuideachail?";
 $Definition["Write Discussion"] = "Sgrìobh Còmhradh";
 
 $Definition["You can see this message because you have special permissions."] = "Chì thu an teachdaireachd seo oir tha ceadan sònraichte agad.";
 $Definition["You don't have permission to view this resource."] = "Chan eil cead agad an goireas seo fhaicinn.";
-$Definition["You need to <0>Sign In</0> to vote on this article"] = "Feumaidh tu &lt;0&gt; Clàraich a-steach </0> gus bhòtadh air an artaigil seo";
+$Definition["You need to <0>Sign In</0> to vote on this article"] = "Feumaidh tu <0> Clàraich a-steach </0> gus bhòtadh air an artaigil seo";
 $Definition["Use Banner Image Overlay"] = "Cleachd Ath-chòmhdach Ìomhaigh Banner";
 

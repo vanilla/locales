@@ -105,9 +105,9 @@ $Definition['%s WTFs'] = '%s WTFs';
 $Definition['%s year'] = '%s année';
 $Definition['%s years'] = '%s années';
 
-$Definition['&laquo; hide previous quotes'] = '&laquo; masquer les citations précédentes
+$Definition['&laquo; hide previous quotes'] = '« masquer les citations précédentes
 ';
-$Definition['&raquo; show previous quotes'] = '&raquo; afficher les citations précédentes
+$Definition['&raquo; show previous quotes'] = '» afficher les citations précédentes
 ';
 
 $Definition['(All)'] = '(Tous)';
@@ -124,7 +124,7 @@ $Definition['1 message'] = '1 message';
 
 $Definition['<General Error>'] = '<Erreur Générale>';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
-$Definition["<0/>-<1/> of <2/>"] = "&lt;0 /&gt; - &lt;1 /&gt; sur &lt;2 /&gt;";
+$Definition["<0/>-<1/> of <2/>"] = "<0 /> - <1 /> sur <2 />";
 $Definition["<0/> by <1/>"] = "<0/> par <1/>
 ";
 $Definition["<0/> message"] = "<0/> message";
@@ -766,7 +766,7 @@ $Definition['her'] = 'sa';
 $Definition['Hide'] = 'Cacher';
 $Definition['hide'] = 'masquer';
 $Definition['Hide my online status from other members'] = 'Ne pas montrer quand je suis en ligne.';
-$Definition['Hide previous quotes'] = '&laquo; masquer les citations précédentes
+$Definition['Hide previous quotes'] = '« masquer les citations précédentes
 ';
 $Definition['Hide Results'] = 'Masquer les résultats';
 $Definition['Hide signatures?'] = 'Cacher les signatures? ';
@@ -1047,7 +1047,7 @@ $Definition['Next'] = 'Suivant';
 $Definition['Next Page'] = 'Page suivante';
 $Definition['Ninth Anniversary'] = 'Neuvième Anniversaire';
 $Definition['No'] = 'Non';
-$Definition['NoBadgesEarned'] = 'Un instant&hellip;';
+$Definition['NoBadgesEarned'] = 'Un instant…';
 $Definition['No badges yet.'] = 'Aucun badges pour le moment. ';
 $Definition['Nobody has confirmed their attendance yet.'] = 'Personne n\'a encore confirmé sa présence';
 $Definition['Nobody has declined the invitation so far.'] = 'Personne n\'a décliné l\'invitation à ce jour.';
@@ -1332,8 +1332,8 @@ $Definition['Reset Your Password'] = 'Réinitialisez votre mot de passe';
 $Definition['Restore'] = 'Restaurer';
 $Definition['Restored'] = 'Restauré';
 $Definition['Restore deleted content.'] = 'Restaurer le contenu supprimé.';
-$Definition['Result(s) <0/> to <1/> of <2/>'] = 'Résultat (s) &lt;0 /&gt; à &lt;1 /&gt; de &lt;2 /&gt;';
-$Definition['Search for: "%s"'] = 'Recherche de: &quot;%s&quot;';
+$Definition['Result(s) <0/> to <1/> of <2/>'] = 'Résultat (s) <0 /> à <1 /> de <2 />';
+$Definition['Search for: "%s"'] = 'Recherche de: "%s"';
 $Definition['Return to %s'] = 'Retourner à %s';
 $Definition['Reveal'] = 'Révéler';
 $Definition['reverse'] = 'annuler';
@@ -1417,7 +1417,7 @@ $Definition['Share on Facebook'] = 'Partager sur Facebook';
 $Definition['she'] = 'elle';
 $Definition['show'] = 'montrer';
 $Definition['Shown only on mobile'] = 'Montré uniquement sur mobile';
-$Definition['Show previous quotes'] = '&raquo; afficher les citations précédentes
+$Definition['Show previous quotes'] = '» afficher les citations précédentes
 ';
 $Definition['Show popular tags'] = 'Montrer les tags populaires';
 $Definition['Show unfollowed categories'] = 'Voir les catégories non suivies';

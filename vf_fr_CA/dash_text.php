@@ -19,8 +19,7 @@ $Definition['Alignment (Mobile)'] = 'Alignement (mobile)
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Toutes les catégories sont listées avec une sélection de 5 discussions récentes en-dessous de chacune d\'entre elles';
 $Definition['Allow links to be transformed'] = 'Permettez de transformer les liens en représentations intégrées dans les discussions et les commentaires. Par exemple, un lien YouTube se transformera en une vidéo intégrée.
 ';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Autorisez les utilisateurs disposant de la permission %s à modifier leurs propres avatars depuis leurs pages de profil dans Vanilla.
-';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Autorisez les utilisateurs disposant de la permission %s à modifier leurs propres avatars depuis leurs pages de profil dans Vanilla.';
 $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de nombreuses fonctionnalités à votre forum Vanilla.<br />
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Are you sure want to delete this theme? It will be permanently deleted.'] = 'Êtes-vous sûr de vouloir supprimer ce thème ? Il sera supprimé définitivement.';
@@ -97,7 +96,7 @@ $Definition['Enter a descriptive name.'] = 'Renseignez un nom descriptif pour le
 $Definition['Enter a short name for the site.'] = 'Entrez un nom court pour désigner le site. Celui-ci sera affiché sur les boutons de connexion.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Entrez l\'adresse de votre blog Wordpress et nous nous occuperons du reste.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Entrez les paramètres de connexion à votre serveur sphinx ci-dessous.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Chaque modification ou suppression est enregistrée ici. Utilisez &lsquo;Restaurer&rsquo; pour annuler un changement quelconque.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Chaque modification ou suppression est enregistrée ici. Utilisez ‘Restaurer’ pour annuler un changement quelconque.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Tous ceux qui s’inscrivent à votre communauté obtiennent une page de profil public où ils peuvent télécharger une image d\'eux-mêmes, gérer leurs paramètres de profil, et suivre les dernières nouvelles qui se passent dans la communauté. Vous devez <a href="{/profile,url}"> personnaliser votre profil maintenant</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Chaque utilisateur de votre communauté est associé au moins à un statut. Les Statuts permettent de déterminer ce que les utilisateurs sont autorisés à faire.';
 
@@ -188,7 +187,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Veuillez choisir une méthode d\'authentification à configurer.';
 $Definition['PluginHelp'] = 'Les modules  complémentaires vous permettent d\'ajouter des fonctionnalités à votre site.<br />Une fois qu\'un module  complémentaire a été ajouté à votre dossier %s, vous pouvez l\'activer ou le désactiver ici.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Le bloc est affichée entre chaque discussion sur la liste de discussion principale. Puisque les discussions sont généralement à l\'intérieur de balises &lt;li&lg;…&lt;/li&lg;, vous devrez également envelopper vos blocs dans ces balises.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Le bloc est affichée entre chaque discussion sur la liste de discussion principale. Puisque les discussions sont généralement à l\'intérieur de balises <li&lg;…</li&lg;, vous devrez également envelopper vos blocs dans ces balises.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Les Blocs vous permettent d\'ajouter librement du code HTML à divers emplacements de l\'application.';
 $Definition['Preset'] = 'Présélectionner';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Empêchez le Spam sur votre forum en limitant le nombre de discussions et de commentaires que les utilisateurs peuvent publier au cours d\'une période donnée.';
@@ -303,10 +302,10 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 $Definition['Vanilla Export: %s, Source: %s'] = 'Exportation de Vanille: %s, Source : %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Le module Vanilla Statistics est actuellement désactivé';
 $Definition['Video tutorial on advanced settings'] = 'Tutoriel vidéo sur les paramètres avancés';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Tutoriel vidéo sur la recherche &amp; la gestion d\'utilisateurs';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Tutoriel vidéo sur la recherche & la gestion d\'utilisateurs';
 $Definition['Video tutorial on managing appearance'] = 'Tutoriel vidéo sur la gestion de l\'apparence';
 $Definition['Video tutorial on managing categories'] = 'Tutoriel vidéo sur la gestion des catégories';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Tutoriel vidéo sur la gestion des rôles &amp; permissions';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Tutoriel vidéo sur la gestion des rôles & permissions';
 $Definition['Video tutorial on user registration'] = 'Tutoriel vidéo sur l\'inscription de nouveaux utilisateurs';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Avertissement : l\'activation de cette fonction peut entraîner des erreurs Javascript sur votre site.';

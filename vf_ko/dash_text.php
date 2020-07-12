@@ -40,7 +40,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = '우리의 %s를 확인하십시오';
 $Definition['Check out these tutorials to get started using Vanilla'] = '바닐라는 전세계에서 가장 간단하고 강력한 커뮤니티 플랫폼입니다. 사용하기 매우 쉽습니다. 소개 비디오로 시작해서 아래 단계를 계속하세요. 한 번 즐겨 보세요!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '사용하지 않는 사용자를 할당할 역할을 선택하세요:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = '이 하위 커뮤니티의 테마를 선택하십시오. &lt;0&gt; 더 읽기 </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = '이 하위 커뮤니티의 테마를 선택하십시오. <0> 더 읽기 </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '%s (코멘트, 메시지 등)을(를) 위한 사용자 계정과 관련된 모든 콘텐츠를 다루는 방법을 선택하세요.';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = '사용자 지정 해시 알고리즘을 선택하여 요청을 알릴 수 있습니다. 해시 알고리즘도 반드시 클라이언트 라이브러리에서 사용해야 합니다. 무엇을 선택해야 할지 모르는 경우 md5를 선택하세요.';
 $Definition['Choose the preferred layout for lists of categories.'] = '범주 목록에 대한 기본 레이아웃을 선택하십시오.';
@@ -158,7 +158,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = '설정하기 원하는 인증 방식을 선택하세요.';
 $Definition['PluginHelp'] = '플러그인을 사용하여 포럼에 여러가지 기능을 추가할 수 있습니다.<br />원하는 플러그인을 다음 경로에 추가한 후 아래 목록에서 버튼을 눌러 활성화 합니다. %s';
-$Definition['Pockets.BetweenDiscussions.Description'] = '포켓은 주요 토의 목록의 각 토의 사이에 표시됩니다. 토의가 보통 &lt;li&gt;..&lt;/li&gt; 태그에 있기 때문에 그 태그에서도 포켓을 덮어싸야합니다.';
+$Definition['Pockets.BetweenDiscussions.Description'] = '포켓은 주요 토의 목록의 각 토의 사이에 표시됩니다. 토의가 보통 <li>..</li> 태그에 있기 때문에 그 태그에서도 포켓을 덮어싸야합니다.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = '포켓은 자유 형식의 HTML을 응용프로그램 주변 여러 위치에 추가할 수 있게 해 줍니다. ';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = '회원 게시글 및 댓글에 제한을 두어 스팸을 방지합니다.';
 
@@ -171,12 +171,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     '커뮤니티에서 담당자를 쉽게 확인할 수 있도록 중재자 및 관리자를위한 특별 직급을 갖는 것이 좋습니다.';
 $Definition['Recommend starting with five ranks.'] =
     '당신은 너무 많은 순위를 원하지 않습니다. 5부터 시작하는 것이 좋습니다. 커뮤니티가 실제로 큰 경우 더 추가 할 수 있습니다.';
-$Definition['Requires “Flag” reaction permission.'] = '&quot;플래그&quot;반응 권한이 필요합니다.';
-$Definition['Requires “Negative” reaction permission.'] = '&quot;부정적&quot;반응 권한이 필요합니다.';
-$Definition['Requires “Positive” reaction permission.'] = '&quot;긍정적 인&quot;반응 권한이 필요합니다.';
+$Definition['Requires “Flag” reaction permission.'] = '"플래그"반응 권한이 필요합니다.';
+$Definition['Requires “Negative” reaction permission.'] = '"부정적"반응 권한이 필요합니다.';
+$Definition['Requires “Positive” reaction permission.'] = '"긍정적 인"반응 권한이 필요합니다.';
 $Definition['Restoring your selection removes the items from this list.'] = '복구할 때 해당 항목들은 이 목록에서 제거되고 다시 사이트에 표시됩니다.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    '다음 옵션을 사용하여 리치 편집기에 따옴표를 사용하십시오. 기본 포맷터가 &quot;Rich&quot;인 경우에만 적용됩니다.';
+    '다음 옵션을 사용하여 리치 편집기에 따옴표를 사용하십시오. 기본 포맷터가 "Rich"인 경우에만 적용됩니다.';
 $Definition['Route Expression'] = '루트 표현';
 $Definition['Routes are used to redirect users.'] = '루트는 요청된 URL에 따라 사용자에게 다시 연결(redirect)하기 위해 사용됩니다.';
 
@@ -294,8 +294,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "테마에 오신 것을 환영합니다";
-$Definition["This is a style guide of your theme."] = "테마의 스타일 가이드입니다. 응용 프로그램 전체에서 사용되는 시각적 요소의 예가 있습니다. &lt;0&gt; 제목 표시 줄과 같은 다양한 위젯을 클릭 할 수 있습니다 </0> 또는 &lt;1&gt; 배너 </1> 측면 패널에서 속성을 편집합니다.";
-$Definition["In additon to the widgets there are also"] = "위젯에 추가하여 &lt;0&gt; 글로벌 스타일도 있습니다 </0> . 전역 스타일을 편집하려면이 텍스트와 같이 페이지의 다른 곳을 클릭하십시오.";
+$Definition["This is a style guide of your theme."] = "테마의 스타일 가이드입니다. 응용 프로그램 전체에서 사용되는 시각적 요소의 예가 있습니다. <0> 제목 표시 줄과 같은 다양한 위젯을 클릭 할 수 있습니다 </0> 또는 <1> 배너 </1> 측면 패널에서 속성을 편집합니다.";
+$Definition["In additon to the widgets there are also"] = "위젯에 추가하여 <0> 글로벌 스타일도 있습니다 </0> . 전역 스타일을 편집하려면이 텍스트와 같이 페이지의 다른 곳을 클릭하십시오.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "응용 프로그램에는 두 가지 유형의 단추 (기본 및 보조)가 있습니다.";
 $Definition["Primary Button"] = "기본 버튼";
 $Definition["Secondary Button"] = "보조 버튼";
@@ -321,7 +321,7 @@ $Definition["Font Name"] = "폰트 이름";
 $Definition["Invalid URL"] = "잘못된 URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "테마 시스템에서 사용자 정의 글꼴을 업로드 할 수 있습니다. 입력란에 URL을 복사하여 붙여 넣기 만하면됩니다.";
 $Definition["You can configure some values differently for different screensizes."] = "화면 크기에 따라 일부 값을 다르게 구성 할 수 있습니다.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "글꼴 URL의 도메인을 &lt;0&gt; AllowedDomains에 추가해야합니다. </0> 사이트 구성에서 &lt;1&gt; 맞춤 글꼴에 대해 자세히 알아보십시오. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "글꼴 URL의 도메인을 <0> AllowedDomains에 추가해야합니다. </0> 사이트 구성에서 <1> 맞춤 글꼴에 대해 자세히 알아보십시오. </1> .";
 
 $Definition["Primary Buttons"] = "기본 버튼";
 $Definition["Secondary Buttons"] = "보조 버튼";

@@ -4,13 +4,13 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Awas!</strong> Menghapus peranan boleh menyebabkan pengguna tidak dapat mengakses aplikasi.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Awas!</strong> Memindahkan perbincangan ke kategori pengganti boleh mengakibatkan perbincangan lenyap (atau muncul) jika kategori pengganti mempunyai kebenaran yang berbeza daripada kategori yang dihapuskan.';
 
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Peranan dengan jenis lalai &quot;tidak disahkan&quot; diperlukan untuk menggunakan pengesahan e-mel.';
-$Definition['About.DisableStatistics'] = 'Sekiranya anda mesti melumpuhkan pelaporan data ini atas sebab perniagaan, anda boleh melakukannya dengan menambahkan baris berikut ke fail konfigurasi pemasangan anda: <code>$Configuration[&#39;Garden&#39;][&#39;Analytics&#39;][&#39;Enabled&#39;] = FALSE;</code>';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Peranan dengan jenis lalai "tidak disahkan" diperlukan untuk menggunakan pengesahan e-mel.';
+$Definition['About.DisableStatistics'] = 'Sekiranya anda mesti melumpuhkan pelaporan data ini atas sebab perniagaan, anda boleh melakukannya dengan menambahkan baris berikut ke fail konfigurasi pemasangan anda: <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Sangat penting bagi kehidupan perisian sumber terbuka percuma ini yang kita dapat mengukur jangkauan dan keberkesanan Vanilla dengan tepat. Kami meminta agar anda tidak melumpuhkan pelaporan data ini.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla boleh digunakan sebagai pengganti drop-in untuk sistem komen asli blog anda. Sebenarnya, ia boleh digunakan untuk menambahkan komen ke mana-mana halaman di web.';
-$Definition['AboutEmbedding'] = 'Penyematan membolehkan semua atau sebahagian komuniti anda disisipkan ke dalam aplikasi &amp; halaman web yang lain.';
+$Definition['AboutEmbedding'] = 'Penyematan membolehkan semua atau sebahagian komuniti anda disisipkan ke dalam aplikasi & halaman web yang lain.';
 $Definition['About Vanilla Statistics'] = 'Mengenai Statistik Vanilla';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Akses forum komuniti anda dengan mengklik pautan &quot;Lawati Laman&quot; di bahagian atas halaman ini, atau dengan <a href={/,url}>mengklik di sini</a> . Forum komuniti adalah apa yang akan dilihat oleh semua pengguna &amp; pelanggan anda semasa mereka melawat <a href="{/,url,domain}">{/, url, domain}</a> .';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Akses forum komuniti anda dengan mengklik pautan "Lawati Laman" di bahagian atas halaman ini, atau dengan <a href={/,url}>mengklik di sini</a> . Forum komuniti adalah apa yang akan dilihat oleh semua pengguna & pelanggan anda semasa mereka melawat <a href="{/,url,domain}">{/, url, domain}</a> .';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'Tambahkan had pada dimensi muat naik gambar dalam perbincangan dan komen.';
 $Definition['AddressBarColorDescription'] = 'Beberapa penyemak imbas menyokong warna untuk bar alamat. Mudah alih sahaja.';
@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Lihat %s kami';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla adalah platform komuniti paling mudah dan paling berkuasa di dunia. Ia sangat mudah digunakan. Mulakan dengan video pengenalan ini dan teruskan dengan langkah di bawah. Selamat mencuba!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Pilih peranan yang akan diberikan kepada pengguna yatim:';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pilih tema untuk subkomuniti ini. &lt;0&gt; Baca lebih lanjut </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pilih tema untuk subkomuniti ini. <0> Baca lebih lanjut </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Pilih cara menangani semua kandungan yang berkaitan dengan akaun pengguna untuk %s (komen, mesej, dll).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Anda boleh memilih algoritma hash khusus untuk menandatangani permintaan anda. Algoritma hash juga mesti digunakan di perpustakaan pelanggan anda. Pilih md5 jika anda tidak pasti apa yang harus dipilih.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Pilih susun atur pilihan untuk senarai kategori.';
@@ -48,7 +48,7 @@ $Definition['Continue Import'] = 'Teruskan Import';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Tidak dapat menguraikan fail import. Masalahnya adalah berhampiran talian %s.';
 $Definition['Create a localization CSV'] = 'Buat CSV penyetempatan';
 
-$Definition['Define who can upload files on the Roles & Permissions page.'] = 'Tentukan siapa yang boleh memuat naik dan menguruskan fail di halaman <a href="%s">Peranan &amp; Kebenaran</a> .';
+$Definition['Define who can upload files on the Roles & Permissions page.'] = 'Tentukan siapa yang boleh memuat naik dan menguruskan fail di halaman <a href="%s">Peranan & Kebenaran</a> .';
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Tentukan laman utama forum anda, muat naik logo anda dan banyak lagi ...';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'Menghapus peranan boleh menyebabkan pengguna tidak dapat mengakses aplikasi.';
 $Definition['Deleting forever cannot be undone.'] = 'Menghapus adalah cara yang baik untuk menjaga kebersihan forum anda.';
@@ -67,14 +67,14 @@ $Definition['Enter a descriptive name.'] = 'Masukkan nama deskriptif untuk poket
 $Definition['Enter a short name for the site.'] = 'Masukkan nama pendek untuk laman web ini. Ini dipaparkan pada butang log masuk.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Masukkan alamat Blog Wordpress anda dan kami akan mengambilnya dari sana.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Masukkan tetapan sambungan untuk pelayan sphinx anda di bawah.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Setiap pengeditan atau penghapusan direkodkan di sini. Gunakan &#39;Pulihkan&#39; untuk membuat asal perubahan.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Setiap pengeditan atau penghapusan direkodkan di sini. Gunakan \'Pulihkan\' untuk membuat asal perubahan.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Setiap orang yang mendaftar untuk komuniti anda mendapat halaman profil awam di mana mereka dapat memuat naik gambar diri mereka sendiri, menguruskan tetapan profil mereka, dan mengesan perkara menarik yang berlaku di komuniti. Anda harus <a href="{/profile,url}">menyesuaikan profil anda sekarang</a> .';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Setiap pengguna di laman web anda diberikan sekurang-kurangnya satu peranan. Peranan digunakan untuk menentukan apa yang dibenarkan oleh pengguna.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect membolehkan pengguna log masuk menggunakan akaun Facebook mereka. <b>Anda mesti mendaftarkan aplikasi anda ke Facebook agar plugin ini berfungsi.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Gagal menyambung ke pangkalan data dengan nama pengguna dan kata laluan yang anda masukkan. Adakah anda salah menaipnya? Pangkalan data dilaporkan: <code>%s</code>';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Memaksa papan pemuka hanya dapat diakses melalui url ini <em>(tidak disyorkan)</em>';
-$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Sebagai contoh, anda boleh melarang semua pengguna dengan alamat e-mel dari &quot;example.com&quot; dengan menambahkan larangan jenis e-mel dengan nilai &quot;*@example.com&quot;.';
+$Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Sebagai contoh, anda boleh melarang semua pengguna dengan alamat e-mel dari "example.com" dengan menambahkan larangan jenis e-mel dengan nilai "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Untuk tujuan SEO, perayap mesin carian dikecualikan daripada dipaksa untuk melihat forum di url terpencil.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Anda berjaya menyelesaikan import. Klik <b>Selesai</b> apabila anda sudah bersedia.';
@@ -88,7 +88,7 @@ $Definition['Garden.StatisticsLocal.Resolve'] = 'Sekiranya anda yakin forum anda
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Fail config.php anda hanya boleh dibaca. Ini bermaksud bahawa Vanilla tidak dapat mendaftarkan InstallationID dan InstallationSecret forum anda secara automatik.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'Untuk menyelesaikan masalah ini, tetapkan mod fail 777 ke fail conf / config.php anda.';
 
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Awas! Ini adalah peranan khas yang tidak membenarkan sesi aktif. Atas sebab ini, pilihan kebenaran telah terhad kepada kebenaran &quot;melihat&quot;.';
+$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Awas! Ini adalah peranan khas yang tidak membenarkan sesi aktif. Atas sebab ini, pilihan kebenaran telah terhad kepada kebenaran "melihat".';
 $Definition['Here are all of the reactions you can use on your site.'] = 'Berikut adalah semua reaksi yang boleh anda gunakan di laman web anda.';
 $Definition['Here are the ranks that users can achieve on your site.'] =
     'Berikut adalah kedudukan yang boleh dicapai oleh pengguna di laman web anda. Anda boleh menyesuaikan peringkat ini dan bahkan menambah yang baru. Berikut adalah beberapa petua.';
@@ -102,7 +102,7 @@ $Definition['If you want to embed your forum, enable embedding.'] =
     'Sekiranya anda ingin menanamkan forum anda atau menggunakan komen Vanilla di blog anda, maka anda perlu mengaktifkan penyematan. Sekiranya anda tidak menggunakan penyematan, sebaiknya matikan tetapan ini.';
 $Definition['Import'] = 'Import';
 $Definition['Importing to Vanilla'] = 'Mengimport ke Vanilla';
-$Definition['Internationalization & Localization'] = 'Pengantarabangsaan &amp; Penyetempatan';
+$Definition['Internationalization & Localization'] = 'Pengantarabangsaan & Penyetempatan';
 $Definition['Invitation email failed to send: %'] = 'Walaupun jemputan berjaya dibuat, e-mel gagal dihantar. Pelayan melaporkan ralat berikut: %s';
 $Definition['Invitations can be sent from users\' profile pages.'] = 'Apabila anda menggunakan pendaftaran oleh jemputan, pengguna akan mempunyai pautan yang disebut <a href="%s" class="Popup">Jemputan Saya</a> di halaman profil mereka.';
 $Definition['It appears as though the database you specified does not exist yet. Have you created it yet? Did you mistype the name? The database reported: <code>%s</code>'] = 'Nampaknya pangkalan data yang anda nyatakan belum wujud. Adakah anda telah membuatnya? Adakah anda salah menamakan nama? Pangkalan data dilaporkan: <code>%s</code>';
@@ -130,7 +130,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Kategori bersarang lebih dalam daripada kedalaman ini akan dimasukkan dalam senarai yang dipisahkan koma.';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Laman web memerlukan peranan dengan jenis lalai &quot;tidak disahkan&quot; untuk menggunakan pengesahan e-mel. Sila tambah satu untuk mengaktifkan tetapan ini.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Laman web memerlukan peranan dengan jenis lalai "tidak disahkan" untuk menggunakan pengesahan e-mel. Sila tambah satu untuk mengaktifkan tetapan ini.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Tidak mendapat apa yang anda harapkan semasa anda melihat tema anda?';
 $Definition['Notify me when people comment on my addons.'] = 'Beritahu saya apabila orang memberi komen mengenai addon saya.';
 
@@ -141,9 +141,9 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Sila pilih pengesah untuk dikonfigurasi.';
 $Definition['PluginHelp'] = 'Pemalam membolehkan anda menambahkan fungsi ke laman web anda. <br /> Setelah pemalam ditambahkan ke folder %s anda, anda boleh mengaktifkan atau mematikannya di sini.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Poket dipaparkan di antara setiap perbincangan dalam senarai perbincangan utama. Oleh kerana perbincangan biasanya terdapat dalam tag &lt;li&gt; .. &lt;/li&gt;, anda juga perlu membungkus poket anda pada tag tersebut.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Poket dipaparkan di antara setiap perbincangan dalam senarai perbincangan utama. Oleh kerana perbincangan biasanya terdapat dalam tag <li> .. </li>, anda juga perlu membungkus poket anda pada tag tersebut.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Poket membolehkan anda menambahkan HTML bentuk bebas ke pelbagai tempat di sekitar aplikasi.';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Cegah spam di forum anda dengan menghadkan jumlah perbincangan &amp; komen yang boleh dihantar oleh pengguna dalam jangka masa tertentu.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Cegah spam di forum anda dengan menghadkan jumlah perbincangan & komen yang boleh dihantar oleh pengguna dalam jangka masa tertentu.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Panduan Memulakan Pantas untuk Membuat Tema untuk Vanilla';
 
@@ -154,12 +154,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'Adalah idea yang baik untuk mempunyai barisan khas untuk moderator dan pentadbir supaya komuniti anda dapat dengan mudah melihat siapa yang bertanggungjawab.';
 $Definition['Recommend starting with five ranks.'] =
     'Anda tidak mahu mempunyai terlalu banyak pangkat. Kami mengesyorkan bermula dengan lima. Anda boleh menambahkan lagi jika komuniti anda benar-benar besar.';
-$Definition['Requires “Flag” reaction permission.'] = 'Memerlukan kebenaran reaksi &quot;Bendera&quot;.';
-$Definition['Requires “Negative” reaction permission.'] = 'Memerlukan kebenaran reaksi &quot;Negatif&quot;.';
-$Definition['Requires “Positive” reaction permission.'] = 'Memerlukan kebenaran reaksi &quot;Positif&quot;.';
+$Definition['Requires “Flag” reaction permission.'] = 'Memerlukan kebenaran reaksi "Bendera".';
+$Definition['Requires “Negative” reaction permission.'] = 'Memerlukan kebenaran reaksi "Negatif".';
+$Definition['Requires “Positive” reaction permission.'] = 'Memerlukan kebenaran reaksi "Positif".';
 $Definition['Restoring your selection removes the items from this list.'] = 'Apabila anda memulihkan, item akan dikeluarkan dari senarai ini dan dimasukkan kembali ke laman web.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Gunakan pilihan berikut untuk mengaktifkan sebut harga untuk Editor Kaya. Ini hanya akan berlaku jika pemformat lalai adalah &quot;Kaya&quot;.';
+    'Gunakan pilihan berikut untuk mengaktifkan sebut harga untuk Editor Kaya. Ini hanya akan berlaku jika pemformat lalai adalah "Kaya".';
 $Definition['Route Expression'] = 'Ekspresi Laluan';
 $Definition['Routes are used to redirect users.'] = 'Laluan digunakan untuk mengarahkan pengguna bergantung pada URL yang diminta.';
 
@@ -170,7 +170,7 @@ $Definition['Security.Hsts.MaxAgeRecommendation'] = 'Kami mengesyorkan bermula d
 $Definition['Security.Hsts.SubmitWarning'] = 'Amaran: Senang menyokong pramuat HSTS sebagai amalan terbaik. Walau bagaimanapun, anda mesti menghantar laman web anda ke hstspreload.org untuk memastikan bahawa laman web ini berjaya dimuatkan terlebih dahulu (iaitu untuk mendapatkan perlindungan penuh untuk konfigurasi yang dimaksudkan).';
 $Definition['Select the default type for this role, if any.'] = 'Pilih jenis lalai untuk peranan ini, jika ada.';
 $Definition['Select the import source'] = 'Pilih sumber import';
-$Definition['Serialized column "%s" failed to be unserialized.'] = 'Lajur bersiri &quot;%s&quot; gagal dicetak.';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'Lajur bersiri "%s" gagal dicetak.';
 $Definition['ShareImageDescription'] =
     'Apabila seseorang berkongsi pautan dari laman web anda, kami mencuba dan mengambil gambar dari halaman. Sekiranya tidak ada gambar di halaman maka kami akan menggunakan gambar ini sebagai gantinya. Gambar mestilah sekurang-kurangnya 50 × 50, tetapi kami mengesyorkan 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Hidupkan pilihan ini untuk menunjukkan semua lokasi poket yang mungkin. Menghidupkan pilihan ini hanya akan menunjukkan lokasi kepada pengguna yang boleh menguruskan poket.';
@@ -199,7 +199,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'Fail import tidak mengandungi data.';
 $Definition['The import file is not in the correct format.'] = 'Fail import tidak dalam format yang betul.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Lokasi data pengesahan berformat jsonp.';
-$Definition['ThemeHelp'] = 'Tema membolehkan anda mengubah rupa &amp; nuansa laman web anda. <br /> Setelah tema ditambahkan ke folder %s anda, anda boleh mengaktifkannya di sini.';
+$Definition['ThemeHelp'] = 'Tema membolehkan anda mengubah rupa & nuansa laman web anda. <br /> Setelah tema ditambahkan ke folder %s anda, anda boleh mengaktifkannya di sini.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Pratonton tema terhad untuk memaparkan templat dan css tema.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Password Authenticator tidak mempunyai pilihan konfigurasi tersuai.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Tidak diperlukan perubahan struktur pangkalan data. Akan tetapi, mungkin ada perubahan data.';
@@ -210,7 +210,7 @@ $Definition['The Vanilla 2 Exporter'] = 'Pengeksport Vanilla 2';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Statistik Vanilla mengubah papan pemuka forum anda menjadi alat pelaporan analitik, yang membolehkan anda menyemak aktiviti di forum anda dalam jangka masa tertentu. Anda boleh <a href="http://vanillaforums.org/docs/vanillastatistics">membaca lebih lanjut mengenai Statistik Vanilla</a> dalam dokumentasi kami.';
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'Mereka berfungsi seperti tema biasa. Setelah dimasukkan ke folder tema, anda boleh mengaktifkannya di sini.';
-$Definition['This is the administrative dashboard for your new community.'] = 'Ini adalah papan pemuka pentadbiran untuk komuniti baru anda. Lihat pilihan konfigurasi di sebelah. Dari sana anda dapat mengkonfigurasi bagaimana komuniti anda berfungsi. <b>Secara lalai, hanya pengguna dalam peranan &quot;Pentadbir&quot; yang dapat melihat bahagian komuniti ini.</b>';
+$Definition['This is the administrative dashboard for your new community.'] = 'Ini adalah papan pemuka pentadbiran untuk komuniti baru anda. Lihat pilihan konfigurasi di sebelah. Dari sana anda dapat mengkonfigurasi bagaimana komuniti anda berfungsi. <b>Secara lalai, hanya pengguna dalam peranan "Pentadbir" yang dapat melihat bahagian komuniti ini.</b>';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Pilihan ini menunjukkan / menyembunyikan lokasi di mana poket boleh pergi, tetapi hanya untuk pengguna yang mempunyai izin untuk menambah / mengedit poket. Cuba tunjukkan lokasi dan kemudian lawati laman web anda.';
 $Definition['This page lists the endpoints of your API.'] =
     'Halaman ini menyenaraikan titik akhir API anda. Klik titik akhir untuk maklumat lebih lanjut. Anda boleh membuat panggilan langsung ke API dari halaman ini atau secara luaran menggunakan token akses.';
@@ -232,10 +232,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Pen
 $Definition['Vanilla Export: %s, Source: %s'] = 'Eksport Vanila: %s, Sumber: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Statistik Vanilla pada masa ini dilumpuhkan';
 $Definition['Video tutorial on advanced settings'] = 'Tutorial video mengenai tetapan lanjutan';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Tutorial video untuk mencari &amp; mengurus pengguna';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Tutorial video untuk mencari & mengurus pengguna';
 $Definition['Video tutorial on managing appearance'] = 'Tutorial video mengenai pengurusan penampilan';
 $Definition['Video tutorial on managing categories'] = 'Tutorial video mengenai menguruskan kategori';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Tutorial video mengenai pengurusan peranan &amp; kebenaran';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Tutorial video mengenai pengurusan peranan & kebenaran';
 $Definition['Video tutorial on user registration'] = 'Tutorial video mengenai pendaftaran pengguna';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Amaran: Mengaktifkan fitur ini boleh menyebabkan kesalahan Javascript di laman web anda.';
@@ -247,7 +247,7 @@ $Definition['When enabled, you can manage products, and group subcommunities by 
 $Definition['Which reactions you use really depends on your community.'] =
     'Reaksi mana yang anda gunakan bergantung pada komuniti anda, tetapi kami mengesyorkan anda mengingat beberapa perkara.';
 
-$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Anda boleh melarang semua pengguna dengan alamat IP yang diawali dengan &quot;111.111.111&quot; dengan menambahkan larangan jenis IP dengan nilai &quot;111.111.111. *&quot;.';
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Anda boleh melarang semua pengguna dengan alamat IP yang diawali dengan "111.111.111" dengan menambahkan larangan jenis IP dengan nilai "111.111.111. *".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Anda boleh melarang alamat IP, alamat e-mel dan nama pengguna.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'Anda boleh memilih dari salah satu gaya berbeza yang ditawarkan oleh tema ini.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Anda boleh menyambung ke beberapa laman web yang menyokong jsConnect.';
@@ -277,8 +277,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "Selamat Datang ke Tema Anda";
-$Definition["This is a style guide of your theme."] = "Ini adalah panduan gaya tema anda. Ia mempunyai contoh elemen visual yang digunakan sepanjang aplikasi. Anda boleh mengklik pelbagai widget seperti Bar Tajuk &lt;0&gt; </0> atau &lt;1&gt; Sepanduk </1> untuk mengedit sifat mereka di panel sisi.";
-$Definition["In additon to the widgets there are also"] = "Di samping widget terdapat juga &lt;0&gt; Gaya Global </0> . Untuk mengedit gaya global klik di tempat lain di halaman, seperti teks ini.";
+$Definition["This is a style guide of your theme."] = "Ini adalah panduan gaya tema anda. Ia mempunyai contoh elemen visual yang digunakan sepanjang aplikasi. Anda boleh mengklik pelbagai widget seperti Bar Tajuk <0> </0> atau <1> Sepanduk </1> untuk mengedit sifat mereka di panel sisi.";
+$Definition["In additon to the widgets there are also"] = "Di samping widget terdapat juga <0> Gaya Global </0> . Untuk mengedit gaya global klik di tempat lain di halaman, seperti teks ini.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "Terdapat dua jenis butang dalam aplikasi: primer dan sekunder.";
 $Definition["Primary Button"] = "Butang Utama";
 $Definition["Secondary Button"] = "Butang Sekunder";
@@ -286,7 +286,7 @@ $Definition["User inputs are based on the global background and text colors."] =
 
 // Section Headings
 $Definition["Global Styles"] = "Gaya Global";
-$Definition["Buttons & Inputs"] = "Butang &amp; Input";
+$Definition["Buttons & Inputs"] = "Butang & Input";
 $Definition["Buttons"] = "Butang";
 $Definition["Title Bar"] = "Bar Tajuk";
 
@@ -302,9 +302,9 @@ $Definition["Border Radius"] = "Radius Sempadan";
 $Definition["Font URL"] = "URL fon";
 $Definition["Font Name"] = "Nama Fon";
 $Definition["Invalid URL"] = "URL tidak sah";
-$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Anda boleh memuat naik Font Kustom di Sistem Tema anda. Cukup salin &amp; tampal URL di lapangan.";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Anda boleh memuat naik Font Kustom di Sistem Tema anda. Cukup salin & tampal URL di lapangan.";
 $Definition["You can configure some values differently for different screensizes."] = "Anda boleh mengkonfigurasi beberapa nilai secara berbeza untuk ukuran skrin yang berbeza.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke &lt;0&gt; AllowedDomains </0> , dalam konfigurasi laman web. &lt;1&gt; Ketahui lebih lanjut mengenai fon tersuai. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke <0> AllowedDomains </0> , dalam konfigurasi laman web. <1> Ketahui lebih lanjut mengenai fon tersuai. </1> .";
 
 $Definition["Primary Buttons"] = "Butang Utama";
 $Definition["Secondary Buttons"] = "Butang Sekunder";

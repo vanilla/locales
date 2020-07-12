@@ -2,7 +2,7 @@
 // phpcs:ignoreFile
 $Definition["(No Body)"] = "(Awukho Umzimba)";
 $Definition["(Untitled)"] = "(Akunasihloko)";
-$Definition["<0 /> out of <1 /> people found this helpful"] = "&lt;0 /&gt; kwe- &lt;1 /&gt; abantu bathole lokhu kuwusizo";
+$Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> kwe- <1 /> abantu bathole lokhu kuwusizo";
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "Uhlobo olwenziwe ngezifiso lwegama lesizinda solwazi njengoba kufanele luvele kuma-URL.";
 $Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "Ukuchazwa kwesisekelo solwazi. Kuboniswa kwisikhethi solwazi.";
@@ -12,7 +12,7 @@ $Definition["Add a knowledge base to get started."] = "Faka isisekelo solwazi uk
 $Definition["Add/Edit Knowledge Base"] = "Faka / Hlela Isisekelo Solwazi";
 $Definition["Admin Links"] = "Izixhumanisi Zokulawula";
 $Definition["Alphabetically"] = "Ngokwe-alfabhethi";
-$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Uqinisekile ukuthi ufuna ukususa &lt;0 /&gt; &quot;&lt;1 /&gt;&quot;?";
+$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Uqinisekile ukuthi ufuna ukususa <0 /> \"<1 />\"?";
 $Definition["Are you sure you want to delete this knowledge base?"] = "Uqinisekile ukuthi ufuna ukususa lesi sisekelo solwazi?";
 $Definition["Are you sure you want to purge this knowledge base?"] = "Uqinisekile ukuthi ufuna ukuhlanza lesi sisekelo solwazi?";
 $Definition["Are you sure you want to restore this knowledge base?"] = "Uqinisekile ukuthi ufuna ukubuyisela lesi sisekelo solwazi?";
@@ -24,7 +24,7 @@ $Definition["Article Revisions"] = "Ukubuyekezwa kwesihloko";
 $Definition["Article Three"] = "Isigaba Esithathu";
 $Definition["Article Two"] = "Isigaba Sesibili";
 $Definition["Articles"] = "Imibhalo";
-$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Hlanganisa umkhiqizo nalesi sithintana. Sebenzisa i-&lt;0&gt; Phatha Imikhiqizo ye-UI </0> ukufaka, ukuhlela, noma ukusula imikhiqizo.";
+$Definition["Associate a product with this subcommunity. Use the <0>Manage Products UI</0> to add, edit, or delete products."] = "Hlanganisa umkhiqizo nalesi sithintana. Sebenzisa i-<0> Phatha Imikhiqizo ye-UI </0> ukufaka, ukuhlela, noma ukusula imikhiqizo.";
 
 $Definition["Back to Home"] = "Buyela Ekhaya";
 $Definition["Back to home page"] = "Buyela ekhasini lasekhaya";
@@ -34,13 +34,13 @@ $Definition["Be the first one to vote!"] = "Yiba ngowokuqala ukuvota!";
 $Definition["Border Style"] = "Isitayela Semingcele";
 $Definition["Browse Articles by Category"] = "Dlulisa amehlo ku-Imibhalo ngesigaba";
 $Definition["Browse"] = "Dlulisa amehlo";
-$Definition["By <0/>"] = "Ngu &lt;0 /&gt;";
+$Definition["By <0/>"] = "Ngu <0 />";
 
 $Definition["category"] = "isigaba";
 $Definition["Category One"] = "Isigaba sokuqala";
 $Definition["Category Options"] = "Izinketho zesigaba";
 $Definition["Category Two"] = "Isigaba Sesibili";
-$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Izenzo ezithile zikhutshaziwe ngoba zivama kuphela kumthombo wendawo: &lt;0 /&gt;";
+$Definition["Certain actions are disabled because they are only avalaible in the source locale: <0/>"] = "Izenzo ezithile zikhutshaziwe ngoba zivama kuphela kumthombo wendawo: <0 />";
 $Definition["Certain actions are disabled because they are only avalaible in the source locale."] = "Izenzo ezithile zikhutshaziwe ngoba zivama kuphela endaweni yomthombo.";
 $Definition["Choose"] = "Khetha";
 $Definition["Choose a location for this page."] = "Khetha indawo kuleli khasi.";
@@ -56,13 +56,13 @@ $Definition["Debug"] = "Ukulungisa iphutha";
 $Definition["Default Background Color"] = "Umbala Wemuva Ozenzakalelayo";
 $Definition["Default Foreground Color"] = "Umbala Wendawo yangokwakhona";
 
-$Definition["Delete \"<0/>\""] = "Susa &quot;&lt;0 /&gt;&quot;";
+$Definition["Delete \"<0/>\""] = "Susa \"<0 />\"";
 $Definition["Delete Draft"] = "Susa Okusalungiswa";
 $Definition["Delete an Article"] = "Susa i-Article";
 $Definition["Deleted Articles"] = "Imibhalo Esusiwe";
 $Definition["Deleted Knowledge Bases"] = "Amabha eLwazi asusiwe";
 $Definition["Draft Options"] = "Izinketho Okusalungiswa";
-$Definition["Draft saved <0/>"] = "Okusalungiswa kulondoloziwe &lt;0 /&gt;";
+$Definition["Draft saved <0/>"] = "Okusalungiswa kulondoloziwe <0 />";
 
 $Definition["Edit Knowledge Base"] = "Hlela Isisekelo Solwazi";
 $Definition["Error saving draft."] = "Iphutha ekulondolozeni okusalungiswa";
@@ -77,7 +77,7 @@ $Definition["Featured Article"] = "Kunconywe i-athikili";
 $Definition["Featured Articles"] = "Imibhalo Enconyiwe";
 
 $Definition["General Appearance"] = "Ukubukeka Okuvamile";
-$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Imihlahlandlela yenzelwe ukuhola ama-howto, imibhalo, noma noma iyiphi &quot;incwadi&quot; efana nokuqukethwe okufanele kufundwe ngokulandelana.";
+$Definition["Guides are for making howto guides, documentation, or any \"book\" like content that should be read in order."] = "Imihlahlandlela yenzelwe ukuhola ama-howto, imibhalo, noma noma iyiphi \"incwadi\" efana nokuqukethwe okufanele kufundwe ngokulandelana.";
 
 $Definition["Hello Home Page. Links are below:"] = "Sawubona Ikhasi Lasekhaya. Izixhumanisi zingaphansi:";
 $Definition["Help centers are for making free-form help articles that are organized into categories."] = "Izikhungo zosizo zenzelwe ukwenza amafomu wosizo wamahhala ahlelwe ngezigaba.";
@@ -103,7 +103,7 @@ $Definition["New Category"] = "Isigaba esisha";
 $Definition["New Knowledge Base"] = "Isizinda Solwazi Esisha";
 $Definition["New Name: "] = "Igama elisha:";
 $Definition["Newest First"] = "Okusha Kokuqala";
-$Definition["No \"deleted\" knowledge bases found."] = "Azikho izisekelo zolwazi &quot;olususiwe&quot; ezitholakele.";
+$Definition["No \"deleted\" knowledge bases found."] = "Azikho izisekelo zolwazi \"olususiwe\" ezitholakele.";
 $Definition["No Permission"] = "Ayikho Imvume";
 $Definition["No knowledge bases found."] = "Azikho izisekelo zolwazi ezitholakele.";
 
@@ -158,7 +158,7 @@ $Definition["This article hasn't been translated yet. The original article text 
 $Definition['This article is not translated yet or it is out of date.'] = 'Lo mbhalo awuhunyushwa njengamanje noma uphelelwe isikhathi.';
 $Definition['The article this draft is based on is no longer available.'] = 'I-athikili lokhu okusalungiswa kusekelwe kuyo ayisatholakali.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ububanzi bekholamu eliphakathi lesakhiwo esiyinhloko ngamaphikseli.';
-$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Le ndatshana ihlelwe emthonjeni wayo ongowokudabuka ku- &lt;0 /&gt;. Hlela le ndatshana ukuze uvuselele ukuhumusha kwayo futhi usule lo mlayezo.';
+$Definition['This article was edited in its source locale on <0/>. Edit this article to update its translation and clear this message.'] = 'Le ndatshana ihlelwe emthonjeni wayo ongowokudabuka ku- <0 />. Hlela le ndatshana ukuze uvuselele ukuhumusha kwayo futhi usule lo mlayezo.';
 $Definition['This article was edited in its source locale. Edit this article to update its translation and clear this message.'] = 'Le ndatshana yahlelwa emthonjeni wendawo. Hlela le ndatshana ukuze uvuselele ukuhumusha kwayo futhi usule lo mlayezo.';
 
 $Definition["This is a destructive action. You will not be able to restore your draft."] = "Lesi isenzo esibhubhisayo. Ngeke ukwazi ukubuyisa okusalungiswa kwakho.";
@@ -193,13 +193,13 @@ $Definition["Type your article."] = "Thayipha i-athikili yakho.";
 $Definition["Unknown User"] = "Umsebenzisi ongaziwa";
 
 $Definition["View Article"] = "Bheka i-Article";
-$Definition["View all articles from category: \"<0/>\"."] = "Buka wonke ama-athikili kusuka kusigaba: &quot;&lt;0 /&gt;&quot;.";
+$Definition["View all articles from category: \"<0/>\"."] = "Buka wonke ama-athikili kusuka kusigaba: \"<0 />\".";
 
 $Definition["Was this article helpful?"] = "Ngabe le ndatshana ibilusizo?";
 $Definition["Write Discussion"] = "Bhala Ingxoxo";
 
 $Definition["You can see this message because you have special permissions."] = "Ungawubona lo mlayezo ngoba unemvume ekhethekile.";
 $Definition["You don't have permission to view this resource."] = "Awunayo imvume yokubuka le nsiza.";
-$Definition["You need to <0>Sign In</0> to vote on this article"] = "Udinga &lt;0&gt; Ukungena ngemvume </0> ukuvota ngalo mbhalo";
+$Definition["You need to <0>Sign In</0> to vote on this article"] = "Udinga <0> Ukungena ngemvume </0> ukuvota ngalo mbhalo";
 $Definition["Use Banner Image Overlay"] = "Sebenzisa Isibhengezo Sesithombe Sombhalo";
 
