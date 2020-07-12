@@ -789,7 +789,7 @@ $Definition['IgnoreListMeter'] = 'Uhlu <b>lokunganaki i-%s%%</b> igcwele ( <b>%d
 $Definition['IgnoreListRevoke'] = '<b>Buyisela amalungelo we-%s</b> ?';
 $Definition['IgnoreListUnlimited'] = 'Uhlu <b>Unlimited,</b> indiva %s <b>%d</b>';
 $Definition['Ignore Someone'] = 'Ziba Othile';
-$Definition['Ignoring this person will remove you from <b>%s %s</b> with them.'] = 'Ukungamnaki lo muntu <b>kuzokususa</b> ku- <b>aececb2ec87f49fz0 %s</b> nabo.';
+$Definition['Ignoring this person will remove you from <b>%s %s</b> with them.'] = 'Ukungamnaki lo muntu <b>kuzokususa</b> ku- %s %s</b> nabo.';
 $Definition['Image'] = 'Umfanekiso';
 $Definition['images'] = 'imifanekiso';
 $Definition['Images not allowed'] = 'Imifanekiso ayivunyelwe';
@@ -1547,7 +1547,7 @@ $Definition['There was an error uploading the file. It is most likely because th
 $Definition['These notes can only be seen by moderators.'] = 'Lawa manothi angabonwa kuphela ngabomengameli.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Lawa ma-tag agodliwe futhi awakwazi ukusetshenziswa: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Okwamanje isayithi isalungiswa.';
-$Definition['The status for "%s" has changed to %s.'] = 'Isimo se- &quot;%s&quot; sishintshele ku -02b2ec87f49fz0.';
+$Definition['The status for "%s" has changed to %s.'] = 'Isimo se- "%s" sishintshele ku %s.';
 $Definition['The uploaded file was too big (max %s).'] = 'Ifayela elilayishiwe belilikhulu kakhulu (umkhawulo ongu-%s).';
 $Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'Ifayela elilayishiwe belingenaso isandiso esivunyelwe. \ nAkuthi izandiso ezilandelayo zivunyelwe. \ n%s.';
 $Definition['The user has already been warned for this %s.'] = 'Umsebenzisi usexwayisiwe kakade ngalokhu %s.';
@@ -1687,9 +1687,9 @@ $Definition['ValidateIntegerArray'] = '%s kumelwe ibe uhlu lwezinombolo ezikhawu
 $Definition['ValidateLength'] = '%1$s yinde kakhulu ngezinhlamvu ezingu-%2$s.';
 $Definition['ValidateMatch'] = 'Izinkundla ezithi %s azifani.';
 $Definition['ValidateMinimumAge'] = 'Awukho mdala ngokwanele ukuthi ukwazi ukujoyina lo mphakathi.';
-$Definition['ValidateMinLength'] = '%1$s is a (a )22a41ddc461f0z0 izinhlamvu (amaf) amafushane kakhulu.';
+$Definition['ValidateMinLength'] = '%1$s is %2$s izinhlamvu (amaf) amafushane kakhulu.';
 $Definition['ValidateMinLengthPlural'] = '%1$s is %2$s izinhlamvu zimfushane kakhulu.';
-$Definition['ValidateMinLengthSingular'] = '%1$s isinhlamvu esingu -02e41ddc461f0z0 sifushane kakhulu.';
+$Definition['ValidateMinLengthSingular'] = '%1$s isinhlamvu esingu %2$s sifushane kakhulu.';
 $Definition['ValidateOneOrMoreArrayItemRequired'] = 'Kumelwe ukhethe okungenani %s eyodwa.';
 $Definition['ValidateRegex'] = '%s ayibonakali ingefomethi elungile.';
 $Definition['ValidateRequired'] = '%s iyadingeka.';
@@ -1833,7 +1833,7 @@ $Definition['You are not allowed to warn a user with higher permissions than you
     'Awuvunyelwe ukuxwayisa umsebenzisi ngezimvume eziphakeme kunawe.';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] =
     'Awuvunyelwe ukuxwayisa umsebenzisi ngezinga lemvume elifanayo nawe.';
-$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Manje ushiya i-%1$s. Chofoza isixhumanisi ukuze uqhubekele ku -02e41ddc461f0z0.';
+$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Manje ushiya i-%1$s. Chofoza isixhumanisi ukuze uqhubekele ku %2$s.';
 $Definition['You are now signed in.'] = 'Manje ususayinele ukungena.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Uvunyelwe kuphela {maxImages,plural,%s image,%s images}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'Unqatshelwe ukusebenzisa isici sokunganakwa.';

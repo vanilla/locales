@@ -2010,15 +2010,13 @@ $Definition['Spoiler Warning'] = '剧透警告';
 $Definition['Placeholder'] = '占位符';
 
 // Accessibility
-$Definition['%s for discussion: "%s"'] = '% 用于讨论：“%”';
-$Definition['%s for category: "%s"'] = '%（类别：“%”）';
+$Definition['%s for discussion: "%s"'] = '%s 用于讨论：“%s”';
+$Definition['%s for category: "%s"'] = '%s（类别：“%s”）';
 $Definition['%s comment by user: "%s"'] = '%s用户注释：“%s”';
-$Definition['User "%s" started discussion "%s" on date %s'] = '用户 “%” 在日期 % 开始讨论“%';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = '用户 “%” 在讨论 “%” 中对日期 % 的最近评论
-
-';
-$Definition['%s for category: "%s"'] = '%（类别：“%”）';
-$Definition['Category: "%s"'] = '类别：“%”';
-$Definition['User: "%s"'] = '用户：“%”';
-$Definition['Group: "%s"'] = '组：“%”';
+$Definition['User "%s" started discussion "%s" on date %s'] = '用户 “%s” 在日期 %s 开始讨论“%s"';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = '用户 “%s” 在讨论 “%s” 中对日期 %s 的最近评论';
+$Definition['%s for category: "%s"'] = '%s（类别：“%s”）';
+$Definition['Category: "%s"'] = '类别：“%s”';
+$Definition['User: "%s"'] = '用户：“%s”';
+$Definition['Group: "%s"'] = '组：“%s”';
 $Definition['Global Navigation'] = '全球导航';

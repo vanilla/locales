@@ -699,7 +699,7 @@ $Definition['The %s locale pack does not exist.'] = 'Iphakethe lendawo le-%s ali
 $Definition['The %s table is not in the correct format.'] = 'Ithebula le-%s alikho ngendlela eyiyo.';
 $Definition['The %s was already approved by %s on %s.'] = 'I-%s isivele ivunyelwe yi-%s ku %s.';
 $Definition['Thanks for sticking with us for a full year.'] = 'Siyabonga ngokunamathela kithi unyaka wonke.';
-$Definition['Thanks for sticking with us for %s years.'] = 'Siyabonga ngokunamathela kithi iminyaka engu -02b2ec87f49fz0.';
+$Definition['Thanks for sticking with us for %s years.'] = 'Siyabonga ngokunamathela kithi iminyaka engu %s.';
 $Definition['The Basics'] = 'Izisekelo';
 $Definition['The client ID uniqely identifies the site.'] = 'I-ID yeklayenti ikhomba isiza ngokukhethekile. Ungakhiqiza i-ID entsha ngenkinobho engezansi kwaleli khasi.';
 $Definition['The content you were looking for has been deleted.'] = 'Okuqukethwe obukubheka kucishiwe.';
@@ -834,7 +834,7 @@ $Definition['Yes, the following information can be changed later.'] = 'Yebo, imi
 $Definition['You are connected as %s.'] = 'Uxhumeke njenge-%s.';
 $Definition['You are previewing the %s theme.'] = 'Uhlola isihloko se-%s.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Bheka ibhokisi eliseduze nomsebenzisi othumele ogaxekile ukuze abavimbele futhi asuse konke okuthunyelwe kwabo. <b>Yenza lokhu kuphela uma unesiqiniseko sokuthi laba bangogaxekile.</b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Uma ukhiyiwe ngaphandle kwesithangami sakho ungahlala ungene ngemvume usebenzisa i-imeyili ne-password yakho ye-Vanilla yangempela kwa <a href="%1$s">-011adfa80564ez0</a>';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Uma ukhiyiwe ngaphandle kwesithangami sakho ungahlala ungene ngemvume usebenzisa i-imeyili ne-password yakho ye-Vanilla yangempela kwa <a href="%1$s">%1$s</a>';
 $Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Ungavimbela amakheli we-IP, izizinda ze-imeyili, namagama amagama abasebenzisi usebenzisa leli thuluzi.';
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Ungenza ngokwezifiso i-HTML ne-CSS ngalesi sihloko ekhasini le-%s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Ungakha i-akhawunti entsha, noma ufake iziqinisekiso zakho uma une-akhawunti ekhona.';
