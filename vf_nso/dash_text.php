@@ -9,9 +9,9 @@ $Definition['AboutCommentEmbedding'] = 'Vanilla e ka dirišwa legatong la tshepe
 $Definition['AboutEmbedding'] = 'Go hloma go dumelela dikarolo ka moka goba karolo ya tikologo ya geno gore e hlome dikgopelong tše dingwe le matlakala a wepesaete';
 $Definition['About Vanilla Statistics'] = 'Mabapi le Dipalopalo tša Vanilla';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Go fihlelela tikologo ya geno ka go kgotla linki ya "Etela Lefelo" godimo ga letlakala le, goba ka <a href={/,url}>go kgotla mo</a>. Lekgotla la tikologo ke seo badiriši ba gago ka moka &amp; bareki ba tla bona ge ba etela <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['Add limits to image upload dimensions in discussions and comments.'] = 'Bea tekanyo diswantšhong tšeo di taoneloutwago dipoledišano le dintlheng.';
 $Definition['AddonProblems'] = '<h2>O na le mathata?</h2><p>Ge go ka senyega selotsoko ka seo se tsentšwego gomme o sa kgone go diriša wepesaete ya gago, o ka e tloša ka bowena ka go ngwala:</p>%s';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Magoro ka moka a lokeleditšwe ka go kgethwa ga dipoledišano tše 5 tša morago bjale ka tlase ga e nngwe le e nngwe';
-$Definition['Although the invitation was created successfully, the email failed to send. The server reported the following error: %s'] = 'Le ge taletšo e hlamilwe ka katlego, imeile e paletšwe ke go romela. Seba e begile phošo e latelago: %s';
 $Definition['ApplicationHelp'] = 'Dikgopelo di go dumelela go tsenya dihlopha tše dikgolo tša go šoma wepesaeteng ya gago.<br />Ge kgopelo e tsentšwe foltareng ya gago ya %s, o ka e bula goba go e tswalela mo.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Na o kgodišegile gore o tsentšhe bobolokelo bja maleba leineng la mong? Mohlomongwe ga se wa le ngwala gabotse? Bobolokelo bo begile gore: <code>%s</code>';
 
@@ -54,8 +54,6 @@ $Definition['For SEO purposes, search engine crawlers are excluded from being fo
 
 $Definition['Garden.Import.Complete.Description'] = 'O phethile kamogelo ka katlego.
 Kgotla <b>Feditšwe</b> ge o itokišitše.';
-$Definition['Garden.Import.Continue.Description'] = 'Go bonagala eka o amogela se sengwe.
-Hle kgetha e nngwe ya dilo tše di latelago.';
 $Definition['Garden.Import.InputInstructions'] = 'Ngwala imeile le phasewete ya modiriši wa taolo go tloga go tatha yeo e amogelwago.';
 $Definition['Garden.StatisticsDisabled'] = 'O timile ka go lebanya Dipalopalo tša Vanilla faeleng ya gago ya go beakanya.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Karolo ye e bonala e sepedišana le tikologo ya teko goba e ka ba e bega IP ya sephiri. Go ka no itiragalela gore diforamo tšeo di sepedišwago ka diIP tša sephiri di se lemogwe.';
@@ -87,6 +85,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'G
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Go swaya dilo gore ga se ditšhila go tla di bušetša morago foramong ya gago.';
 $Definition['Messages can appear anywhere in your application.'] = 'Melaetša e ka tšwelela kae goba kae kgopelong ya gago, e bile e ka dirišetšwa go botša badiriši ba gago ka ditaba le ditiragalo. Diriša letlakala le go rulaganya lefsa melaetša ya gaog ka go e gogela godimo goba fase.';
 
+$Definition['Need More Help?'] = 'Na o Nyaka Thušo e Oketšegilego?';
 $Definition['Notify me when people comment on my addons.'] = 'Mpotše ge batho ba bolela ka seo ke se tsentšego.';
 
 $Definition['Please choose an authenticator to configure.'] = 'Hle kgetha mongwadi gore a rulaganye.';
@@ -151,8 +150,6 @@ $Definition['Video tutorial on managing categories'] = 'Thuto ya bidio go laolen
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'Thuto ya bidio go laoleng ditema &amp; ditumelelo';
 $Definition['Video tutorial on user registration'] = 'Thuto ya bidio boingwadišong bja badiriši';
 
-$Definition['Warning: Loading tables can be slow.'] = '<b>Temošo</b>: Kgoboketšo ya sebara ya gago ga e thekge go tsenywa ga tatha ka lebelo.
-Ge e ba o amogela faele e kgolo kudu (go feta ditlhaloso tše di fetago 200 000) nagana ka go fetoša sebopego sa gago. Kgotla <a href="http://vanillaforums.com/porter">here</a> gore o hwetše tshedimošo e oketšegilego.';
 $Definition['Warning: This is for advanced users.'] = '<b>Temošo</b>: Se ke bakeng sa badiriši bao ba gatetšego pele gomme se nyaka gore o dire diphetogo tše di oketšegilego bakeng sa go thuša sebara ya gago ya wepesaete. Gantši se se hwetšwa feela ge o neetše goba o le go kamogelo ya vps. O se ke wa leka go dira se ge e ba o sa se tsebe.';
 
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'O ka kgokaganya diwepesaete tše dintši tše di thekgago jsKgokagano.';
