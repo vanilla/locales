@@ -429,7 +429,11 @@ $Definition['Introducing Vanilla Reactions and Badges'] = 'Presentació de reacc
 $Definition['Invalid category for deletion.'] = 'Categoria no vàlida per eliminar.';
 $Definition['Invisibility Cloak Settings'] = 'Configuració de la capa d\'invisibilitat';
 $Definition['Invitation Code'] = 'Codi d\'invitació';
-$Definition['InvitationMessage'] = 'Hola Pal! Consulteu el fòrum de la comunitat que acabo de configurar. És un lloc fantàstic per a nosaltres xerrar amb nosaltres en línia. Seguiu l’enllaç següent per iniciar la sessió.';
+$Definition['InvitationMessage'] = 'Hola Pal!
+
+Consulteu el fòrum de la comunitat que acabo de configurar. És un lloc fantàstic per a nosaltres xerrar amb nosaltres en línia.
+
+Seguiu l’enllaç següent per iniciar la sessió.';
 $Definition['Invitations per month'] = 'Invitacions al mes';
 $Definition['Invitations will expire'] = 'Les invitacions caducaran';
 $Definition['Invited by'] = 'Convidat per';

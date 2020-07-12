@@ -553,7 +553,9 @@ $Definition['EmailFooter'] = 'Que tinguis un bon dia!';
 $Definition['EmailHeader'] = 'Hola {Nom d\'usuari}';
 $Definition['EmailInvitation'] = 'Hola!
 
-%1$s t\'ha convidat a afegir-te a %2$s. Si vols, pots fer-ho clicant al seg';
+%1$s t\'ha convidat a unir-te a %2$s. Si voleu unir-vos, podeu fer-ho fent clic a aquest enllaç:
+
+%3$s';
 $Definition['EmailMembershipApproved'] = 'Hola %1$s,
 
 Has sido aprobado como miembro. Conéctate ahora con el siguiente enlace:
@@ -561,20 +563,30 @@ Has sido aprobado como miembro. Conéctate ahora con el siguiente enlace:
   %2$s
   
 ¡Qué tengas un buen día!';
-$Definition['EmailNotification'] = '%1$sSegueix l\'enlla';
+$Definition['EmailNotification'] = '%1$s
+
+Seguiu l\'enllaç següent per comprovar-ho:
+%2$s
+
+Que tingueu un bon dia!';
 $Definition['Email Notifications'] = 'Notificacions per Email';
 $Definition['Email Or Username'] = 'Correu electrònic o nom d\'usuari';
-$Definition['EmailPassword'] = 'Hola %1$s,
+$Definition['EmailPassword'] = '%2$s ha restablit la vostra contrasenya a %3$s. Les vostres credencials d’inici de sessió són ara:
 
-%2$s ha reiniciat la teva contrasenya en %3$s. Ara les teves credencials d\'acc';
+Correu electrònic: %6$s
+Contrasenya: %5$s
+URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Los correos electrónicos enviados desde la aplicación serán enviados con el Nombre y Dirección siguientes';
 $Definition['Email Source'] = 'Correo Electrónico';
 $Definition['EmailStoryNotification'] = '%1$s
 
-%3$s
+ %3$s
 
 ---
-Segueix l\'enlla';
+Seguiu l\'enllaç següent per comprovar-ho:
+%2$s
+
+Que tingueu un bon dia!';
 $Definition['Email Unavailable'] = 'Email No Disponible';
 $Definition['Email visible to other users'] = 'Email visible para otros usuarios';
 $Definition['EmbededDiscussionLinkText'] = 'Llegiu la història completa aquí';
@@ -1123,9 +1135,11 @@ $Definition['Password'] = 'Contraseña';
 $Definition['Password Contains Username'] = 'Conté el nom d\'usuari';
 $Definition['Password Good'] = 'Bona';
 $Definition['Password Ok'] = 'D\'acord';
-$Definition['PasswordRequest'] = 'Hola %1$s,
+$Definition['PasswordRequest'] = 'Algú ha sol·licitat restablir la vostra contrasenya a %2$s. Per restablir la vostra contrasenya, seguiu aquest enllaç:
 
-Alg';
+%3$s
+
+Si no heu fet aquesta sol·licitud, ignorau aquest correu electrònic.';
 $Definition['Passwords don\'t match'] = 'Les contrasenyes no coincideixen.';
 $Definition['Password Strong'] = 'Forta';
 $Definition['Password Too Short'] = 'Massa curt';

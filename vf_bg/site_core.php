@@ -574,9 +574,7 @@ Follow the link below to check it out:
 Приятен ден!';
 $Definition['Email Notifications'] = 'Email уведомления';
 $Definition['Email Or Username'] = 'Имейл или потребителско име';
-$Definition['EmailPassword'] = 'Hello %1$s,
-
-%2$s възстанови паролата ви в %3$s. Сега Вашите детайли за вход са:
+$Definition['EmailPassword'] = '%2$s възстанови паролата ви в %3$s. Сега Вашите детайли за вход са:
 
   Email: %6$s
   Парола: %5$s
@@ -1146,11 +1144,9 @@ $Definition['Password'] = 'Парола';
 $Definition['Password Contains Username'] = 'Съдържа потребителско име';
 $Definition['Password Good'] = 'Добре';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Здравейте %1$s,
+$Definition['PasswordRequest'] = 'Някой поиска възстановяване на паролата Ви в %2$s. Ако това сте Вие, може да възстановите паролата си като последвате тази връзка:
 
-Някой поиска възстановяване на паролата Ви в %2$s. Ако това сте Вие, може да възстановите паролата си като последвате тази връзка:
-
-  %3$s
+ %3$s
 
 Ако не сте заявили смяна на паролата си, моля, игнорирайте това съобщение.';
 $Definition['Passwords don\'t match'] = 'Паролите не съвпадат';
