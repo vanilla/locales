@@ -745,7 +745,7 @@ $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} heeft de <a href="{U
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} heeft {ActivityUserID,you} verbannen.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} reageerde op <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} stuurde je een  <a href="{Url,html}">bericht</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActiviteitGebruikersID,gebruiker} heeft een nieuwe discussie gestart. <a href="{Url,html}">{Gegevens.Naam,tekst}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} heeft een nieuwe discussie gestart. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} noemde jouw in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} veranderde de profielfoto voor {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} is geregistreerd.';
@@ -1421,7 +1421,7 @@ $Definition['Signature Code'] = 'Handtekeningcode';
 $Definition['Signature hidden.'] = 'Handtekening verborgen.';
 $Definition['Signature invalid.'] = 'Handtekening ongeldig.';
 $Definition['Signatures'] = 'Handtekeningen';
-$Definition['Signatures can be up to {maxLength} characters long.'] = 'Handtekeningen kunnen maximaal (maxLength) tekens bevatten. ';
+$Definition['Signatures can be up to {maxLength} characters long.'] = 'Handtekeningen kunnen maximaal {maxLength} tekens bevatten. ';
 $Definition['Signature Settings'] = 'Handtekening Instellingen';
 $Definition['SignIn'] = 'Inloggen';
 $Definition['Sign In'] = 'Inloggen';

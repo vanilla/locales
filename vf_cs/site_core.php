@@ -736,7 +736,7 @@ $Definition["Heading 4"] = "Okruh 4";
 $Definition["Heading 5"] = "Okruh 5";
 $Definition['Heading %s'] = 'Hlavička %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} přijal {NotifyUserID,your} odpověď.';
-$Definition['HeadlineFormat.Answer'] = '{IDaktivityuživatele,uživatel} odpověděl na vaši otázku: <a href="{Url,html}">{Data.Jméno,text}</a>';
+$Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} odpověděl na vaši otázku: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,user} získal(a) odznak <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,user} zakázal(a) uživatele {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} okomentoval(a) <a href="{Url,html}">{Data.Name,text}</a>';

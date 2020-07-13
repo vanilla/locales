@@ -1682,7 +1682,7 @@ $Definition['User Not Found'] = 'Utente non trovato';
 $Definition['User not found.'] = 'Spiacente, non è stato trovato alcun account collegato al nome utente/e-mail inserito.';
 $Definition['Users'] = 'Utenti';
 $Definition['Users Count'] = 'Contatore Utenti';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Usa fino a {maxImages,plurale,%s immagine, %s immagini}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Usa fino a {maxImages,plural,%s immagine, %s immagini}.';
 
 $Definition['ValidateBanned'] = 'Questo %s non è autorizzato.';
 $Definition['ValidateBoolean'] = '%s non è un valore booleano valido.';
@@ -1753,7 +1753,7 @@ $Definition['Warning'] = 'Attenzione';
 $Definition['Warning Level %s'] = 'Livello di allerta %s';
 $Definition['Warnings'] = 'Avvertimenti';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} segnalato {WarnUserID,User} per {Points,plural,%s points}.';
-$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,Utente} ha avvertito {WarnUserID,Utente} per {Punti,plurale,%s punti} (solo una notifica). ';
+$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} ha avvertito {WarnUserID,User} per {Points,plural,%s punti} (solo una notifica). ';
 $Definition['was'] = 'era';
 $Definition['We\'ve received a request to change your password.'] = 'Abbiamo ricevuto una richiesta per modificare la tua password su %s. Se non hai effettuato questa richiesta, per favore ignora questa e-mail. ';
 $Definition['Website'] = 'Sito web';

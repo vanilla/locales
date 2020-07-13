@@ -736,7 +736,7 @@ $Definition["Heading 4"] = "Ceann 4";
 $Definition["Heading 5"] = "Ceann 5";
 $Definition['Heading %s'] = 'Heading %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = 'Ghabh {ActivityUserID, You} ri {NotifyUserID, your} freagairt.';
-$Definition['HeadlineFormat.Answer'] = 'Fhreagair {ActivityUserID, cleachdaiche} do cheist: <a href="{Url,html}">{Data.Name, text}</a>';
+$Definition['HeadlineFormat.Answer'] = 'Fhreagair {ActivityUserID,user} do cheist: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} bhuannaich thu an suaicheantas <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = 'Thug {ActivityUserID,user} beachd seachad air <a href="{Url,html}">{Data.Name,text}</a>';
@@ -1682,7 +1682,7 @@ $Definition['User Not Found'] = 'Cha deach an cleachdaiche a lorg';
 $Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
 $Definition['Users'] = 'Users';
 $Definition['Users Count'] = 'Users Count';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Cleachd suas ri {maxImages, iomarra, ìomhaigh %s, ìomhaighean %s}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Cleachd suas ri {maxImages, plural, ìomhaigh %s, ìomhaighean %s}.';
 
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';

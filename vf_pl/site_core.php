@@ -750,7 +750,7 @@ $Definition['HeadlineFormat.Answer'] = 'Odpowiedź na Twoje pytanie wysłana prz
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} otrzymuje <a href="{Url,html}">{Data.Name,text}</a> odznakę.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} blokuje {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} skomentował(a) <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.ConversationMessage'] = '{Numer Działania Użytkownika, Użytkownik} wysłał ci <a href="{Url,html}">wiadomość</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} wysłał ci <a href="{Url,html}">wiadomość</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Rozpoczyna nową dyskusję. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} wspomina o Tobie w <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} zmienił obrazek profilowy dla {ActivityUserID,user}.';

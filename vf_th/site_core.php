@@ -733,7 +733,7 @@ $Definition["Heading 5"] = "หัวข้อ 5";
 $Definition['Heading %s'] = 'หัวเรื่อง %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} ได้ยอมรับคำตอบของ {NotifyUserID,your}';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} ได้ตอบคำถามของคุณ: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,คุณ} ได้รับแบดจ์ <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} ได้รับแบดจ์ <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} เเบน {ActivityUserID,you}';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} แสดงความคิดเห็นใน <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} ส่ง <a href="{Url,html}">ข้อความ</a> ถึงคุณ';

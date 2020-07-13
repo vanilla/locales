@@ -392,11 +392,11 @@ $Definition['guest'] = 'гост';
 $Definition['Guest roles'] = 'Проверите све улоге које треба применити на госте.';
 
 $Definition['Hash Algorithm'] = 'Алгоритам Хасх-а';
-$Definition['HeadlineFormat.AddUser'] = '{а0460е92ф6а73фз0, а01е5д60599277з0} додао је рачун за {а01883030009ц7з0, а01е5д60599277з0}.';
-$Definition['HeadlineFormat.PictureChange'] = '{а01883030009ц7з0, а02ц9еед939303з0} промењена {а0460е92ф6а73фз0, а01дее2е144943з0} слика профила.';
-$Definition['HeadlineFormat.RegistrationApproval'] = '{а0460е92ф6а73фз0, а01е5д60599277з0} одобрио је апликације за {а01883030009ц7з0, а01е5д60599277з0}.';
-$Definition['HeadlineFormat.Status'] = '{а0460е92ф6а73фз0, а01е5д60599277з0}';
-$Definition['HeadlineFormat.WallPost'] = '{а01883030009ц7з0, а01399014деф9цз0} → {а0460е92ф6а73фз0, а01399014деф9цз0}';
+$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} додао је рачун за {RegardingUserID,user}.';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} промењена {ActivityUserID,your} слика профила.';
+$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} одобрио је апликације за {RegardingUserID,user}.';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Главу горе!';
 $Definition['Heads Up!'] = 'Главу горе!';
 $Definition['Header'] = 'Хеадер';

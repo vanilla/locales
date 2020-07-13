@@ -1247,7 +1247,7 @@ $Definition['Quote wrote'] = 'va escriure';
 
 $Definition['Rank'] = 'Rànquing';
 $Definition['Ranks.ActivityFormat'] = '{ActivityUserID, user} {ActivityUserID, plural, era, es va promoure a {Data.Name, text complet}.';
-$Definition['Ranks.NotificationFormat'] = 'Enhorabona! Se us ha ascendit a {Data.Name, text complet}.';
+$Definition['Ranks.NotificationFormat'] = 'Enhorabona! Se us ha ascendit a {Data.Name,plaintext}.';
 $Definition['Re: %s'] = 'Re: %s';
 $Definition['React'] = 'Reacciona';
 $Definition['Reaction'] = 'Reacció';

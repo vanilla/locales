@@ -742,7 +742,7 @@ $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} válaszolt kérdé
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} kiérdemelted a <a href="{Url,html}">{Data.Name,text}</a> plecsnit.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} kitoltotta {ActivityUserID,you}-t.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommentelt itt: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.ConversationMessage'] = '{AktivitásFelhasználóiAzonosító, Felhasználó} küldött egy <a href="{Url,html}"> üzenetet </a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} küldött egy <a href="{Url,html}"> üzenetet </a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} új beszélgetést kezdett. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} megemlített a  <a href="{Url,html}">{Data.Name,text}</a> -ban';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} megváltoztatta {ActivityUserID,user} profilképét.';

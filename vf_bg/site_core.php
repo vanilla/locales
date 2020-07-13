@@ -746,7 +746,7 @@ $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} спечели<a hre
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} постави забрана на {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} коментира върху <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} ви изпрати <a href="{Url,html}">message</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} започна нова дискусия.<a href="{Url,html}">{Дата. Име, текст}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} започна нова дискусия.<a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ви спомена в <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} промени профилната снимка за {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} се присъедини.';

@@ -1676,7 +1676,7 @@ $Definition['User Not Found'] = 'Usuario no encontrado';
 $Definition['User not found.'] = 'Lo sentimos, no se encontró ninguna cuenta relacionada con el email/nombre de usuario que escribiste. ';
 $Definition['Users'] = 'Usuarios';
 $Definition['Users Count'] = 'Conteo de usuarios';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Utilice un máximo de {maxImages,%s imagen,%s imágenes}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Utilice un máximo de {maxImages,plural,%s imagen,%s imágenes}.';
 
 $Definition['ValidateBanned'] = 'Eso %s no esta permitido. ';
 $Definition['ValidateBoolean'] = '%s no es un boolean válido.';

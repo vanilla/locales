@@ -10,7 +10,7 @@ $Definition['About.VanillaStatistics'] = 'Il est important, pour que ce logiciel
 $Definition['AboutCommentEmbedding'] = 'Vanilla peut être utilisé comme un module de remplacement du système de gestion des commentaires de votre blog. En tant que tel, il peut être utilisé pour ajouter des commentaires sur n\'importe quel page de votre site web.';
 $Definition['AboutEmbedding'] = 'L\'intégration vous permet d\'intégrer une partie ou la totalité de votre communauté dans d\'autres applications ou pages web.';
 $Definition['About Vanilla Statistics'] = 'À propos de Vanilla Statistiques';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accédez à votre forum communautaire en cliquant sur le lien «Voir le site» en haut de cette page ou en <a href={/,url}> cliquant ici </a>. La communauté est ce que tous vos utilisateurs & amp; vos clients verront lorsqu\'ils visitent <a href="{/,url,domain}"> {/,URL,nom de domaine} </a>.';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accédez à votre forum communautaire en cliquant sur le lien «Voir le site» en haut de cette page ou en <a href={/,url}> cliquant ici </a>. La communauté est ce que tous vos utilisateurs & amp; vos clients verront lorsqu\'ils visitent <a href="{/,url,domain}"> {/,url,domain} </a>.';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'Ajouter des limites aux dimensions de téléchargement d\'images dans les discussions et les commentaires.';
 $Definition['AddressBarColorDescription'] = 'Certains navigateurs acceptent une couleur pour la barre d\'adresse. Pour le mobile uniquement.';

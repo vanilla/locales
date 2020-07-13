@@ -1311,7 +1311,7 @@ $Definition['Rename Forum'] = 'Renommer le forum';
 $Definition['Reopen'] = 'Réouvrir';
 $Definition['Replies'] = 'Réponses';
 $Definition['Reply'] = 'Répondre';
-$Definition['ReplyOnly'] = 'Vous pouvez directement répondre à ce courriel pour suivre le fil. Envoyé à partir de {/, exURL}.';
+$Definition['ReplyOnly'] = 'Vous pouvez directement répondre à ce courriel pour suivre le fil. Envoyé à partir de {/,exurl}.';
 $Definition['ReplyOrFollow'] = 'Répondez directement à ce courriel ou suivez le lien ci-dessous pour y accéder :';
 $Definition['Report'] = 'Signalement';
 $Definition['Report %s'] = 'Signaler %s';
@@ -1681,7 +1681,7 @@ $Definition['User Not Found'] = 'Utilisateur non trouvé';
 $Definition['User not found.'] = 'Désolé, aucun compte correspondant aux identifiants que vous avez entrés n\'a été identifié.';
 $Definition['Users'] = 'Utilisateurs';
 $Definition['Users Count'] = 'Utilisateurs';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Utilisez jusque {maxImages,plus,%s image, %s images}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Utilisez jusque {maxImages,plural,%s image, %s images}.';
 
 $Definition['ValidateBanned'] = 'Ce %s n\'est pas autorisé.';
 $Definition['ValidateBoolean'] = '%s n\'est pas un booléen valide.';

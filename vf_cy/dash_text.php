@@ -10,7 +10,7 @@ $Definition['About.VanillaStatistics'] = 'Mae\'n allweddol i lwyddiant y meddalw
 $Definition['AboutCommentEmbedding'] = 'Gellir defnyddio Vanilla yn hwylus yn lle system gwneud sylwadau cynhenid eich blog. A dweud y gwir, gellir ei ddefnyddio i ychwanegu sylwadau at unrhyw dudalen ar y we.';
 $Definition['AboutEmbedding'] = 'Mae ymgorffori yn golygu bod eich cymuned, neu ran ohonni, yn cael ei hymgorffori mewn rhaglenni a gwefannau eraill.';
 $Definition['About Vanilla Statistics'] = 'Am ystadegau Vanilla';
-$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Cewch fynediad at eich fforwm cymunedol drwy glicio ar ddolen "Ymweld â safle" ar frig y dudalen hon, neu drwy <a href={/,url}> glicio yma</a>. Bydd eich holl ddefnyddwyr a chwsmeriaid yn gweld y fforwm gymunedol trwy ymweld â <a href="{/,url,domain}"> {, url, parth}</a>.';
+$Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Cewch fynediad at eich fforwm cymunedol drwy glicio ar ddolen "Ymweld â safle" ar frig y dudalen hon, neu drwy <a href={/,url}> glicio yma</a>. Bydd eich holl ddefnyddwyr a chwsmeriaid yn gweld y fforwm gymunedol trwy ymweld â <a href="{/,url,domain}"> {/,url,domain}</a>.';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
     'Ychwanegwch derfynau at ddimensiynau uwchlwytho delweddau mewn trafodaethau a sylwadau.';
 $Definition['AddressBarColorDescription'] = 'Mae rhai porwyr yn cefnogi lliw ar gyfer y bar cyfeiriad. Symudol yn unig.';

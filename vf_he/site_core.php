@@ -593,12 +593,12 @@ $Definition['Email Unavailable'] = 'דוא"ל זמין';
 $Definition['Email visible to other users'] = 'שליחת גלויות למשתמשים אחרים';
 $Definition['EmbededDiscussionLinkText'] = 'קרא את הסיפור המלא כאן';
 $Definition['Embedded Media'] = 'מדיה מוטמעת';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{תמונה }<strong>{כותרת}</strong>
-<p>{קטע מתוך }</p>
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image }<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן </a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = 'כתובת אינטרנט  {Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{תמונה }<strong>{כותרת}</strong>
-<p>{קטע מתוך }</p>
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image }<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן </a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'אמוג׳י';
 $Definition['Emoji Categories'] = 'קטגוריות אימוג׳י';
@@ -738,7 +738,7 @@ $Definition["Heading 3"] = "כותרת 3";
 $Definition["Heading 4"] = "כותרת 4";
 $Definition["Heading 5"] = "כותרת 5";
 $Definition['Heading %s'] = 'כותרת %s';
-$Definition['HeadlineFormat.AcceptAnswer'] = '{משתמש פעיל, אתה} קיבל {משתמש המערכת, שלך} את תגובתך.';
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} קיבל {NotifyUserID,your} את תגובתך.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} ענה לשאלתך:<a href="{Url,html}">
 </a>{Data.Name,text}';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} הרוויח  <a href="{Url,html}">{Data.Name,text}</a> אות הצטיינות';
@@ -748,7 +748,7 @@ $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User}  של
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}  ציין אותך ב  <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}שינה את תמונת המשתמש ל {ActivityUserID,user}.';
-$Definition['HeadlineFormat.Registration'] = '{פעילותשםמשתמש,אתה} הצטרף';
+$Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} הצטרף';
 $Definition['HeadlineFormat.Unban'] = '{לגבישםמשתמש,אתה} כבר לא נאסר {פעילותשםמשתמש,אתה}';
 $Definition['HeadlineFormat.Warning'] = '{פעילותשםמשתמש,אתה} הוזהר {לגבישםמשתמש,אתה}';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'הוזהרתם.';
