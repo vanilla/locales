@@ -107,8 +107,10 @@ class SmokeTest extends AbstractLocalesTest {
 
             if (isset($translations[$key])) {
                 $translaion = $translations[$key];
-                $formats = $this->getFormatPlaceholders($translaion);
-                foreach ($formats as $format) {
+                $translationFormats = $this->getFormatPlaceholders($translaion);
+                $this->assertFormatStringFields($fields, $translationFormats, $key);
+
+                foreach ($translationFormats as $format) {
                     $this->assertValidFormatPlaceholder($format, "$key; {$format['expr']}");
                 }
                 $tested++;
@@ -267,11 +269,12 @@ class SmokeTest extends AbstractLocalesTest {
     public function testFormatStringExpanded(string $dir, string $key, string $value, array $formats): void {
         $locale = basename($dir);
         $translations = $this->loadTranslations($dir);
-
         if (isset($translations[$key])) {
             $translation = $translations[$key];
             $translationFormats = $this->getFormatPlaceholders($translation);
             $this->assertNotEmpty($translationFormats, $key);
+            $this->assertFormatStringFields($formats, $translationFormats, $key);
+
             foreach ($translationFormats as $format) {
                 $this->assertValidFormatPlaceholder($format, "$key; {$format['expr']}");
             }
@@ -367,5 +370,13 @@ class SmokeTest extends AbstractLocalesTest {
 
         $f = $source['EmailPassword'];
         return $r;
+    }
+
+    private function assertFormatStringFields(array $formats, array $translationFormats, string $message = '') {
+        $formats = array_column($formats, null, 'field');
+        $translationFormats = array_column($translationFormats, null, 'field');
+        foreach ($formats as $field => $format) {
+            $this->assertArrayHasKey($field, $translationFormats, $message);
+        }
     }
 }
