@@ -398,8 +398,7 @@ $Definition['Hash Algorithm'] = 'Hash Αλγορίθμου';
 $Definition['HeadlineFormat.AddUser'] = 'Ο {ActivityUserID,user} πρόσθεσε έναν λογαριασμό για τον {RegardingUserID,user}.';
 $Definition['HeadlineFormat.PictureChange'] = 'Ο {RegardingUserID,You} άλλαξε τη φωτογραφία προφίλ για τον {ActivityUserID,your}.';
 $Definition['HeadlineFormat.RegistrationApproval'] = 'Ο {ActivityUserID,user} ενέκρινε την αίτηση για τον {RegardingUserID,user}.';
-$Definition['HeadlineFormat.Status'] = '{ΔραστηριότηταΧρήστηID,χρήστης}
-';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you}
 ';
 $Definition['Heads up!'] = 'Προσέξτε!';

@@ -394,11 +394,11 @@ $Definition['guest'] = 'gwestai';
 $Definition['Guest roles'] = 'Ticiwch yr holl rôlau y dylid eu rhoi i westeion.';
 
 $Definition['Hash Algorithm'] = 'Algorithm Hash';
-$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID, defnyddiwr} ychwanegu cyfrif i {RegardingUserID, defnyddiwr}.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID, chi} newid {ActivityUserID, eich} llun proffil.';
-$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID, defnyddiwr} cymeradwyo ceisiadau am {RegardingUserID, defnyddiwr}.';
-$Definition['HeadlineFormat.Status'] = '{ActivityUserID, defnyddiwr}';
-$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID, chi} → {ActivityUserID, chi}';
+$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID, user} ychwanegu cyfrif i {RegardingUserID, user}.';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID, You} newid {ActivityUserID, your} llun proffil.';
+$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID, user} cymeradwyo ceisiadau am {RegardingUserID, user}.';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Dalier Sylw!';
 $Definition['Heads Up!'] = 'Heads Up!';
 $Definition['Header'] = 'Pennawd';

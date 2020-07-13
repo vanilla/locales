@@ -1949,7 +1949,7 @@ $Definition['You must agree to the terms of service.'] = 'Вы должны по
 $Definition['You must be at least %d years old to register.'] = 'Для регистрации вам должно быть как минимум %d лет.';
 $Definition['You must be signed in.'] = 'Вы должны авторизоваться.';
 $Definition['You must confirm you have received consent to register.'] = 'Вы должны подтвердить получение вами разрешения на регистрацию.';
-$Definition['You need to confirm your email address.'] = 'Вам нужно подтвердить email адрес. Для того, чтобы повторно послать письмо активации, нажмите <a href="/entry/emailconfirmrequest">здесь</a>.';
+$Definition['You need to confirm your email address.'] = 'Вам нужно подтвердить email адрес. Для того, чтобы повторно послать письмо активации, нажмите <a href="{/entry/emailconfirmrequest,url}">здесь</a>.';
 $Definition['You need to confirm your email address before you can continue.'] = 'Вам нужно подтвердить свой адрес эл. почты перед тем, как продолжить.';
 $Definition['You need to sign in before you can do this.'] = 'Вы должны войти в систему прежде, чем вы можете это сделать.';
 $Definition['your'] = 'ваше';

@@ -1819,12 +1819,12 @@ $Definition['You\'re banned from joining this group.'] = 'Du har ikke lov til å
 $Definition['You\'ve already created the maximum number of groups.'] = 'Du har allerede opprettet maksimalt antall grupper. ';
 $Definition['You\'ve applied to join this group.'] = 'Du har allerede søkt om å bli med i denne gruppen. ';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Du har stilt spørsmål som nå har blitt besvart</a> .  Sørg for at du aksepterer/avviser svarene. ';
-$Definition['You\'ve been invited to join {Name}.'] = 'Du har blitt invitert til å bli med {Navn}.';
+$Definition['You\'ve been invited to join {Name}.'] = 'Du har blitt invitert til å bli med {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Du har blitt fengslet. ';
 $Definition['You\'ve been warned.'] = 'Du har blitt advart.';
 $Definition['You already have an account here.'] = 'Du har allerede en konto her. ';
 $Definition['You are about to ban {User.UserID,user}.'] = 'Du er i ferd med å bortvise {User.UserID,user}. ';
-$Definition["You are about to delete all of a user's content."] = "Du er i ferd med å slette alt innholdet til {Bruker.Bruker-ID,bruker}.";
+$Definition["You are about to delete all of a user's content."] = "Du er i ferd med å slette alt innholdet til {User.UserID,user}.";
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'Du er i ferd med å flytte %1$s av de %2$s valgte diskusjonene. ';
 $Definition['You are about to move %s.'] = 'Du er i ferd med å flytte %s.';
 $Definition['You are about to unban {User.UserID,user}.'] = 'Du er i ferd med å oppheve bortvisning av {User.UserID,user}. ';

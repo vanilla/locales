@@ -1691,7 +1691,7 @@ $Definition['User Not Found'] = 'Käyttäjää ei löytynyt';
 $Definition['User not found.'] = 'Pahoittelut, antamallasi sähköpostiosoitteella tai käyttäjätiedoilla ei löytynyt tunnusta.';
 $Definition['Users'] = 'Jäsenet';
 $Definition['Users Count'] = 'Käyttäjiä yhteensä';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Käytä korkeintaan {maxImages,monikko,%s kuva, %s kuvaa}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Käytä korkeintaan {maxImages,plural,%s kuva, %s kuvaa}.';
 
 $Definition['ValidateBanned'] = 'Toiminto %s ei ole sallittu.';
 $Definition['ValidateBoolean'] = '%s ei ole kelvollinen muuttuja.';
@@ -1761,7 +1761,7 @@ $Definition['Warning'] = 'Varoitus';
 $Definition['Warning Level %s'] = 'Varoitustaso %s';
 $Definition['Warnings'] = 'Varoitukset';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} varoitti käyttäjää {WarnUserID,User} aiheesta {Points,plural,%s points}. ';
-$Definition['WarningTitleFormat.Notice'] = '{SyötäKäyttäjätunnus,Käyttäjä} varoitettu {VaroitaKäyttäjätunnusta,Käyttäjä} syystä {Pisteet,monikko,%s pistettä} (vain ilmoitus).';
+$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} varoitettu {WarnUserID,User} syystä {Points,plural,%s pistettä} (vain ilmoitus).';
 $Definition['was'] = 'oli';
 $Definition['We\'ve received a request to change your password.'] = 'Meitä pyydettiin vaihtamaan %s salasanasi. Jos et ole itse pyytänyt salasanan vaihtamista, niin jätä tämä sähköposti huomioitta.';
 $Definition['Website'] = 'Kotisivu';
@@ -1819,7 +1819,7 @@ $Definition['You\'re banned from joining this group.'] = 'Sinua on estetty liitt
 $Definition['You\'ve already created the maximum number of groups.'] = 'Olet jo luonut maksimimäärän ryhmiä.';
 $Definition['You\'ve applied to join this group.'] = 'Olet pyrkinyt tämän ryhmän jäseneksi.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Olet esittänyt kysymyksiä, joille on nyt vastauksia</a>. Varmistathan, että hyväksyt/hylkäät vastaukset.';
-$Definition['You\'ve been invited to join {Name}.'] = 'Sinut on kutsuttu liittymään ryhmään {Nimi}.';
+$Definition['You\'ve been invited to join {Name}.'] = 'Sinut on kutsuttu liittymään ryhmään {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Sinut on asetettu jäähylle';
 $Definition['You\'ve been warned.'] = 'Sinua on varoitettu.';
 $Definition['You already have an account here.'] = 'Vaikuttaa siltä, että olet jo jäsen?';
@@ -1854,7 +1854,7 @@ $Definition['You are not allowed to warn a user with the same permission level a
     'Sinulla ei ole oikeutta varoittaa käyttäjää, jolla on sama käyttöoikeustaso kuin sinä.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Olet nyt poistumassa kohteesta %1$s. Napsauta linkkiä jatkaaksesi kohteeseen %2$s.';
 $Definition['You are now signed in.'] = 'Olet kirjautuneena.';
-$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Saat vain {maxImages,monikko,%s kuvan,%s kuvaa}.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Saat vain {maxImages,plural,%s kuvan,%s kuvaa}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'Et voi käyttää ohitustoimintoa.';
 $Definition['You are viewing %s\'s ignore list'] = 'Näkyvillä on henkilön %s ohituslista';
 $Definition['you can also drag-and-drop'] = 'voit myös siirtää sen hiiren avulla';

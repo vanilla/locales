@@ -741,7 +741,7 @@ $Definition['Heading %s'] = 'Overskrift %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} godkendte {NotifyUserID,your} svar.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} besvarede dit spørgsmål: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} modtog <a href="{Url,html}">{Data.Name,text}</a> emblemet.';
-$Definition['HeadlineFormat.Ban'] = '{AngåendeBrugerID,Dig} blokerede {AktivitetBrugerID,dig}.';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} blokerede {ActivityUserID,you}';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommenterede på <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sendte dig en <a href="{Url,html}">besked</a>
 ';
@@ -749,7 +749,7 @@ $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} startede en ny
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} nævnte dig i <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} skiftede profilbilledet for {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} oprettede sig som bruger.';
-$Definition['HeadlineFormat.Unban'] = '{AngåendeBrugerID,Dig} fjernede din blokering {AktivitetBrugerID,dig}.';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} fjernede din blokering {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} advarede {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Du er blevet advaret.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Du er blevet <a href="{Url,html}" class="Popup">advaret</a>.';
@@ -1807,7 +1807,7 @@ $Definition['You\'re banned from joining this group.'] = 'Du er bannet fra at jo
 $Definition['You\'ve already created the maximum number of groups.'] = 'Du har allerede lavet maksimum antal grupper.';
 $Definition['You\'ve applied to join this group.'] = 'Du har anmodet om at joine denne gruppe.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Du har stillede spørgsmål, der nu har svar</a>. Sørg for at du accepterer/afviser svarene.';
-$Definition['You\'ve been invited to join {Name}.'] = 'Du er blevet inviteret til at joine (Navn).';
+$Definition['You\'ve been invited to join {Name}.'] = 'Du er blevet inviteret til at joine {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Du er blevet fængslet.';
 $Definition['You\'ve been warned.'] = 'Du er blevet advaret.';
 $Definition['You already have an account here.'] = 'Du har allerede en bruger her.';

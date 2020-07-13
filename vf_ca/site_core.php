@@ -548,9 +548,9 @@ $Definition['Edit Thumbnail'] = 'Editar Thumbnail';
 $Definition['Eighth Anniversary'] = 'Vuitè aniversari';
 $Definition['Email'] = 'Correu electrònic';
 $Definition['Email/Username'] = 'Correu electrònic / Usuari';
-$Definition['EmailConfirmEmail'] = 'Abans de continuar, heu de confirmar la vostra adreça de correu electrònic. Confirmeu la vostra adreça de correu electrònic fent clic al següent enllaç: {/entry/emailconfirm,exurl,domaintand/ patentUser.UserID,rawurlencodesequ// patentEmailKey,rawurlencode}';
+$Definition['EmailConfirmEmail'] = 'Abans de continuar, heu de confirmar la vostra adreça de correu electrònic. Confirmeu la vostra adreça de correu electrònic fent clic al següent enllaç: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = 'Que tinguis un bon dia!';
-$Definition['EmailHeader'] = 'Hola {Nom d\'usuari}';
+$Definition['EmailHeader'] = 'Hola {User.Name}';
 $Definition['EmailInvitation'] = 'Hola!
 
 %1$s t\'ha convidat a unir-te a %2$s. Si voleu unir-vos, podeu fer-ho fent clic a aquest enllaç:
@@ -747,7 +747,7 @@ $Definition['HeadlineFormat.Warning.ToUser'] = 'Se us ha avisat.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Se us ha <a href="{Url,html}" class="Popup">avisat</a> .';
 $Definition['Hello!'] = 'Hola!';
 $Definition['Hello %s!'] = 'Hola %s!';
-$Definition['Hello {User.Name}!'] = 'Hola {Nom d\'usuari}';
+$Definition['Hello {User.Name}!'] = 'Hola {User.Name}';
 $Definition['Help'] = 'Ajuda';
 $Definition['Help Menu'] = 'Ajuda';
 $Definition['her'] = 'la seva';
@@ -1246,8 +1246,8 @@ $Definition['Quote Settings'] = 'Configuració de cites';
 $Definition['Quote wrote'] = 'va escriure';
 
 $Definition['Rank'] = 'Rànquing';
-$Definition['Ranks.ActivityFormat'] = '{ActivityUserID, user} {ActivityUserID, plural, era, es va promoure a {Data.Name, text complet}.';
-$Definition['Ranks.NotificationFormat'] = 'Enhorabona! Se us ha ascendit a {Data.Name, text complet}.';
+$Definition['Ranks.ActivityFormat'] = '{ActivityUserID, user} {ActivityUserID, plural, era, es va} promoure a {Data.Name,plaintext}.';
+$Definition['Ranks.NotificationFormat'] = 'Enhorabona! Se us ha ascendit a {Data.Name,plaintext}.';
 $Definition['Re: %s'] = 'Re: %s';
 $Definition['React'] = 'Reacciona';
 $Definition['Reaction'] = 'Reacció';
@@ -1750,7 +1750,7 @@ $Definition['Warning'] = 'Advertencia';
 $Definition['Warning Level %s'] = 'Nivell d\'advertència %s';
 $Definition['Warnings'] = 'Advertències';
 $Definition['WarningTitleFormat'] = '{InsertUserID, User} va advertir {WarnUserID, User} per {Points, plural, %s punts}.';
-$Definition['WarningTitleFormat.Notice'] = '{InsertUserID, User} va advertir {WarnUserID, User} sobre {Punts, plural, %s punts} (només un avís).';
+$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} va advertir {WarnUserID,User} sobre {Points,plural, %s punts} (només un avís).';
 $Definition['was'] = 'va ser';
 $Definition['We\'ve received a request to change your password.'] = 'Hem rebut una sol·licitud per canviar la vostra contrasenya a %s. Si no heu realitzat aquesta sol·licitud, ignora aquest correu electrònic.';
 $Definition['Website'] = 'Lloc web';

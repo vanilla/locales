@@ -394,11 +394,11 @@ $Definition['guest'] = 'ゲスト';
 $Definition['Guest roles'] = 'Guest roles';
 
 $Definition['Hash Algorithm'] = 'ハッシュアルゴリズム';
-$Definition['HeadlineFormat.AddUser'] = 'HeadlineFormat.AddUser';
-$Definition['HeadlineFormat.PictureChange'] = 'HeadlineFormat.PictureChange';
-$Definition['HeadlineFormat.RegistrationApproval'] = 'HeadlineFormat.RegistrationApproval';
-$Definition['HeadlineFormat.Status'] = 'HeadlineFormat.Status';
-$Definition['HeadlineFormat.WallPost'] = 'HeadlineFormat.WallPost';
+$Definition['HeadlineFormat.AddUser'] = '{ActivityUserID, user} が {RegardingUserID,user}のアカウントを追加しました。';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} が {ActivityUserID,your} のプロフィール写真を変更しました。';
+$Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} が {RegardingUserID,user} の申請を承認しました。';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Heads up!';
 $Definition['Heads Up!'] = '注意喚起！';
 $Definition['Header'] = 'ヘッダー';

@@ -396,7 +396,7 @@ $Definition['Guest roles'] = 'Vælg alle roller der gælder for gæster.';
 
 $Definition['Hash Algorithm'] = 'Hashalgoritme';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} tilføjede en konto for {RegardingUserID,user}.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} ændrede profilbilledet for (ActivityUserID,your} .';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} ændrede profilbilledet for {ActivityUserID,your}.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} godkendte ansøgningerne fra {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you}';

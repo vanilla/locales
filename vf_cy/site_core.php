@@ -388,7 +388,7 @@ $Definition['Commenting as %1$s (%2$s)'] = 'Gwneud sylw fel %1$s <span class="Si
 $Definition['Commenting not allowed.'] = 'Gan ddweud na chaniateir.';
 $Definition['Comments'] = 'Sylwadau';
 $Definition['comments'] = 'sylwadau';
-$Definition['Comments are between {UserID,you}.'] = 'Mae sylwadau rhwng {ID defnyddiwr, eich}.';
+$Definition['Comments are between {UserID,you}.'] = 'Mae sylwadau rhwng {UserID,you}.';
 $Definition['Community'] = 'Cymunedol';
 $Definition['Community Home'] = 'Cartref Cymunedol';
 $Definition['Community Guidelines'] = 'Canllawiau cymunedol';
@@ -548,7 +548,7 @@ $Definition['Edit Thumbnail'] = 'Golygu mân-lun';
 $Definition['Eighth Anniversary'] = 'Wythfed Pen-blwydd';
 $Definition['Email'] = 'E-bost';
 $Definition['Email/Username'] = 'E-bost/Username';
-$Definition['EmailConfirmEmail'] = 'Mae angen i chi gadarnhau eich cyfeiriad e-bost cyn y gallwch fwrw ymlaen. Cadarnhewch eich cyfeiriad e-bost drwy glicio ar y ddolen ganlynol: {/ entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['EmailConfirmEmail'] = 'Mae angen i chi gadarnhau eich cyfeiriad e-bost cyn y gallwch fwrw ymlaen. Cadarnhewch eich cyfeiriad e-bost drwy glicio ar y ddolen ganlynol: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 Dydd da i chi!';
 $Definition['EmailHeader'] = 'Helo {User.Name}!
@@ -568,9 +568,13 @@ $Definition['Email Unavailable'] = 'E-bost ar gael';
 $Definition['Email visible to other users'] = 'E-bost gweladwy i ddefnyddwyr eraill';
 $Definition['EmbededDiscussionLinkText'] = 'Darllenwch y stori llawn yma';
 $Definition['Embedded Media'] = 'Cyfryngau wedi\'u Mewnosod';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent"> {Llun} <strong>{enw}</strong> <p>{dyfyniad}</p> <p><a href="{Url}"> darllenwch y stori llawn yma</a></p> <div class="ClearFix"></div></div>';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}"> darllenwch y stori llawn yma</a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent"> {Llun} <strong>{enw}</strong> <p>{dyfyniad}</p> <p><a href="{Url}"> darllenwch y stori llawn yma</a></p> <div class="ClearFix"></div></div>';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}"> darllenwch y stori llawn yma</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Categorïau Emoji';
 $Definition['Enable'] = 'Galluogi';
@@ -709,13 +713,13 @@ $Definition["Heading 4"] = "Pennawd 4";
 $Definition["Heading 5"] = "Pennawd 5";
 $Definition['Heading %s'] = 'Pennawd %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = 'Derbyniodd {ActivityUserID, You} {NotifyUserID, your} ateb.';
-$Definition['HeadlineFormat.Answer'] = 'Atebodd {ActivityUserID, defnyddiwr} eich cwestiwn: <a href="{Url,html}">{Data.Name, text}</a>';
+$Definition['HeadlineFormat.Answer'] = 'Atebodd {ActivityUserID,user} eich cwestiwn: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, You} wedi ennill bathodyn <a href="{Url,html}"> {Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = 'Mae {RegardingUserID,You} wedi gwahardd {ActivityUserID,You}.';
-$Definition['HeadlineFormat.Comment'] = '{ActivityUserID, defnyddiwr} sylwadau ar <a href="{Url,html}"> {Data.Name,text}</a>';
-$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID, defnyddiwr} anfonodd eich <a href="{Url,html}"> neges</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID, defnyddiwr} Wedi dechrau trafodaeth newydd. <a href="{Url,html}"> {Data.Name,text}</a>';
-$Definition['HeadlineFormat.Mention'] = '{ActivityUserID, defnyddiwr} eich crybwyll yn <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} sylwadau ar <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} anfonodd eich <a href="{Url,html}"> neges</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Wedi dechrau trafodaeth newydd. <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} eich crybwyll yn <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = 'Newidiodd {RegardingUserID, You} y darlun proffil ar gyfer {ActivityUserID, user}.';
 $Definition['HeadlineFormat.Registration'] = 'Ymunodd {ActivityUserID,You} ';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID, You} wedi dadwahardd {ActivityUserID,you}.';
@@ -1275,7 +1279,7 @@ $Definition['Rename Forum'] = 'Ailenwi\'r Fforwm';
 $Definition['Reopen'] = 'Ailagor';
 $Definition['Replies'] = 'Atebion';
 $Definition['Reply'] = 'Ateb';
-$Definition['ReplyOnly'] = 'Gallwch ymateb yn uniongyrchol i\'r e-bost yma. Anfonwyd o {, exurl}.';
+$Definition['ReplyOnly'] = 'Gallwch ymateb yn uniongyrchol i\'r e-bost yma. Anfonwyd o {/,exurl}.';
 $Definition['ReplyOrFollow'] = 'Ateb i e-bost hwn yn uniongyrchol, neu dilynwch y ddolen isod i weld:';
 $Definition['Report'] = 'Adroddiad';
 $Definition['Report %s'] = 'Adroddiad %s';
@@ -1644,7 +1648,7 @@ $Definition['User Not Found'] = 'Defnyddiwr Heb ei ddarganfod';
 $Definition['User not found.'] = 'Yn anffodus nid oes modd darganfod cyfrif yn perthyn i\'r e-bost/enw defnyddiwr a roesoch.';
 $Definition['Users'] = 'Defnyddwyr';
 $Definition['Users Count'] = 'Cyfrif defnyddwyr';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Ddefnyddio i {maxImages, lluosog, delwedd %s, delweddau %s}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Ddefnyddio i {maxImages,plural, delwedd %s, delweddau %s}.';
 
 $Definition['ValidateBanned'] = 'Ni chaniateir y %s yna';
 $Definition['ValidateBoolean'] = 'Nid yw %s yn Boolean dilys.';
@@ -1713,8 +1717,8 @@ $Definition['Warned for'] = 'Rhybuddiwyd am';
 $Definition['Warning'] = 'Rhybudd';
 $Definition['Warning Level %s'] = 'Lefel Rhybudd %s';
 $Definition['Warnings'] = 'Rhybuddion';
-$Definition['WarningTitleFormat'] = 'Rhybuddiodd {InsertUserID, defnyddiwr} {WarnUserID, defnyddiwr} {pwyntiau, lluosog, %s pwyntiau}.';
-$Definition['WarningTitleFormat.Notice'] = 'Rhybuddiodd {InsertUserID, defnyddiwr} {WarnUserID, defnyddiwr} {pwyntiau, lluosog, %s pwyntiau} (hysbysiad yn unig).';
+$Definition['WarningTitleFormat'] = 'Rhybuddiodd {InsertUserID,User} {WarnUserID,User} {Points,plural, %s pwyntiau}.';
+$Definition['WarningTitleFormat.Notice'] = 'Rhybuddiodd {InsertUserID,User} {WarnUserID,User} {Points,plural, %s pwyntiau} (hysbysiad yn unig).';
 $Definition['was'] = 'oedd';
 $Definition['We\'ve received a request to change your password.'] = 'Rydym wedi derbyn cais i newid eich cyfrinair ar %s. Os na wnaethoch y cais yma, anwybyddwch yr e-bost hwn.';
 $Definition['Website'] = 'Gwefan';
@@ -1772,12 +1776,12 @@ $Definition['You\'re banned from joining this group.'] = 'Rydych wedi eich gwaha
 $Definition['You\'ve already created the maximum number of groups.'] = 'Rydych eisoes wedi creu\'r nifer uchafswm o grwpiau.';
 $Definition['You\'ve applied to join this group.'] = 'Rydych wedi gwneud cais i ymuno â\'r grŵp yma.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}"> Rydych wedi gofyn cwestiynau sydd nawr wedi eu hateb</a>. Gwnewch yn siŵr eich bod yn derbyn/gwrthod yr atebion.';
-$Definition['You\'ve been invited to join {Name}.'] = 'Rydych wedi\'ch gwahodd i ymuno â {enw}.';
+$Definition['You\'ve been invited to join {Name}.'] = 'Rydych wedi\'ch gwahodd i ymuno â {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Rydych chi wedi cael eich carcharu.';
 $Definition['You\'ve been warned.'] = 'Rydych chi wedi cael eich rhybuddio.';
 $Definition['You already have an account here.'] = 'Eisoes gennych gyfrif yma.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'Rydych ar fin gwahardd {User.UserID,user}.';
-$Definition["You are about to delete all of a user's content."] = "Rydych chi ar fin dileu'r holl gynnwys ar gyfer {User.UserID, defnyddiwr}.";
+$Definition["You are about to delete all of a user's content."] = "Rydych chi ar fin dileu'r holl gynnwys ar gyfer {User.UserID,user}.";
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'Rydych ar fin symud %1$s o\'r %2$s o drafodaethau dan sylw.';
 $Definition['You are about to move %s.'] = 'Yr ydych ar fin symud %s.';
 $Definition['You are about to unban {User.UserID,user}.'] = 'Rydych ar fin dadwahardd {User.UserID,user}.';
@@ -1807,7 +1811,7 @@ $Definition['You are not allowed to warn a user with the same permission level a
     'Ni chaniateir i chi rybuddio defnyddiwr sydd â\'r un lefel caniatâd â chi.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Rydych nawr yn gadael %1$s. Cliciwch y ddolen i barhau i %2$s.';
 $Definition['You are now signed in.'] = 'Rydych nawr wedi arwyddo i mewn.';
-$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Chewch chi ond {maxImages, lluosog, delwedd %s, %s delweddau}.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Chewch chi ond {maxImages,plural,%s delwedd, %s delweddau}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'Fe\'ch gwaharddir rhag defnyddio\'r nodwedd anwybyddu.';
 $Definition['You are viewing %s\'s ignore list'] = 'Rydych chi\'n edrych ar restr anwybyddu %s';
 $Definition['you can also drag-and-drop'] = 'gallwch hefyd lusgo a gollwng';

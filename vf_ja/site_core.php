@@ -740,9 +740,7 @@ $Definition["Heading 3"] = "見出し3";
 $Definition["Heading 4"] = "見出し4";
 $Definition["Heading 5"] = "見出し5";
 $Definition['Heading %s'] = '表題%s';
-$Definition['HeadlineFormat.AcceptAnswer'] = '（活動中のユーザーID、あなた）受理されました
-
-（承認ユーザーID、あなた）答えました';
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} 受理されました {NotifyUserID,your} 答えました';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user}があなたの質問に回答しました: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You}は<a href="{Url,html}">{Data.Name,text}</a>のバッジを獲得しています。';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You}が{ActivityUserID,you}を禁止しました。';

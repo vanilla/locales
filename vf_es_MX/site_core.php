@@ -749,8 +749,7 @@ $Definition["Heading 4"] = "Título 4";
 $Definition["Heading 5"] = "Título 5";
 $Definition['Heading %s'] = 'Encabezando %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} ha aceptado la respuesta de {NotifyUserID,your}.';
-$Definition['HeadlineFormat.Answer'] = '{ActividadUsuarioID,usuario} respondió tu pregunta:
-<a href="{Url,html}"> {Fecha.Nombre,texto}</a>';
+$Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} respondió tu pregunta: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} has ganado la medalla <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} ha bloqueado {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} ha comentado en <a href="{Url,html}">{Data.Name,text}</a>';
@@ -1445,7 +1444,7 @@ $Definition['Signature Code'] = 'Código firma';
 $Definition['Signature hidden.'] = 'Firma oculta.';
 $Definition['Signature invalid.'] = 'Firma inválida.';
 $Definition['Signatures'] = 'Firmas';
-$Definition['Signatures can be up to {maxLength} characters long.'] = 'Las firmas pueden ser de hasta {maxLenght} caracteres de largo.';
+$Definition['Signatures can be up to {maxLength} characters long.'] = 'Las firmas pueden ser de hasta {maxLength} caracteres de largo.';
 $Definition['Signature Settings'] = 'Preferencias de firma';
 $Definition['SignIn'] = 'Acceder';
 $Definition['Sign In'] = 'Acceder';

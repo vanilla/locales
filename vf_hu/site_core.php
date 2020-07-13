@@ -742,7 +742,7 @@ $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} válaszolt kérdé
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} kiérdemelted a <a href="{Url,html}">{Data.Name,text}</a> plecsnit.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} kitoltotta {ActivityUserID,you}-t.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommentelt itt: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.ConversationMessage'] = '{AktivitásFelhasználóiAzonosító, Felhasználó} küldött egy <a href="{Url,html}"> üzenetet </a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} küldött egy <a href="{Url,html}"> üzenetet </a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} új beszélgetést kezdett. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} megemlített a  <a href="{Url,html}">{Data.Name,text}</a> -ban';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} megváltoztatta {ActivityUserID,user} profilképét.';
@@ -1673,7 +1673,7 @@ $Definition['User Not Found'] = 'Felhasználó nem található';
 $Definition['User not found.'] = 'Sajnálom, nincs a megadott email/felhasználó névhez köthető fiók.';
 $Definition['Users'] = 'Felhasználók';
 $Definition['Users Count'] = 'Felhasználók megszámolása';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Haszáljon {maximális képek, plurális, %s kép, %s képek}-et.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Haszáljon {maxImages, plural, %s kép, %s képek}-et.';
 
 $Definition['ValidateBanned'] = 'Ez: %s nem megengedett.';
 $Definition['ValidateBoolean'] = '%s nem megfelelő logikai érték.';
@@ -1836,7 +1836,7 @@ $Definition['You are not allowed to warn a user with the same permission level a
     'Nem figyelmeztethet olyan felhasználót, aki ugyanazzal a jogosultsági szinttel rendelkezik, mint Ön. ';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = '%1$s elhagyására készül. Kattintson a hivatkozásra, hogy továbblépjen a(z) %2$s-re.';
 $Definition['You are now signed in.'] = 'Be vagy jelentkezve.';
-$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Csak {maximális képek, plurális, %s kép, %s képek} engedélyezettek.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Csak {maxImages, plural, %s kép, %s képek} engedélyezettek.';
 $Definition['You are prohibited from using the ignore feature.'] = 'Az Ön számára nem engedélyezett a mellőzés funkció.';
 $Definition['You are viewing %s\'s ignore list'] = '%s mellőzési listáját látja';
 $Definition['you can also drag-and-drop'] = 'elhelyezheted húzással is';
