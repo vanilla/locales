@@ -755,7 +755,7 @@ $Definition['Ignore Someone'] = 'Hlokomologa Motho';
 $Definition['Image'] = 'Seswantšho';
 $Definition['images'] = 'Diswantšho';
 $Definition['Images not allowed'] = 'Diswantšho ga se tša dumelelwa';
-$Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'Diswantšho di tla kalwa go fihla bophagamong bjo bo feletšego {maximageHeight}px.';
+$Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'Diswantšho di tla kalwa go fihla bophagamong bjo bo feletšego {maxImageHeight}px.';
 $Definition['ImageUploadLimits.Height1'] = 'Tekanyo ya Botele bja Seswantšho';
 $Definition['ImageUploadLimits.Height2'] = 'Diswantšho di tla fokotšwa ge e ba di fetile botelele bjo.';
 $Definition['ImageUploadLimits.Notes1'] = 'Dumelela Tekanyo ya go Taonelouta Seswantšho';
@@ -1724,7 +1724,7 @@ $Definition['You\'re banned from joining this group.'] = 'O thibetšwe gore o se
 $Definition['You\'ve already created the maximum number of groups.'] = 'O šetše o hlamile tekanyo e feletšego ya dihlopha.';
 $Definition['You\'ve applied to join this group.'] = 'O dirile kgopelo sehlopheng se.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">O botšišitše dipotšišo tšeo ga bjale di nago le dikarabo</a>. Kgonthiša gore o amogela/gana dikarabo.';
-$Definition['You\'ve been invited to join {Name}.'] = 'O laleditšwe gore o tsene {Leina}.';
+$Definition['You\'ve been invited to join {Name}.'] = 'O laleditšwe gore o tsene {Name}.';
 $Definition['You\'ve been Jailed.'] = 'O Golegilwe.';
 $Definition['You\'ve been warned.'] = 'O lemošitšwe.';
 $Definition['You already have an account here.'] = 'O šetše o na le akhaonte mo.';

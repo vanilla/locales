@@ -548,7 +548,7 @@ $Definition['Edit Thumbnail'] = 'Golygu mân-lun';
 $Definition['Eighth Anniversary'] = 'Wythfed Pen-blwydd';
 $Definition['Email'] = 'E-bost';
 $Definition['Email/Username'] = 'E-bost/Username';
-$Definition['EmailConfirmEmail'] = 'Mae angen i chi gadarnhau eich cyfeiriad e-bost cyn y gallwch fwrw ymlaen. Cadarnhewch eich cyfeiriad e-bost drwy glicio ar y ddolen ganlynol: {/ entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['EmailConfirmEmail'] = 'Mae angen i chi gadarnhau eich cyfeiriad e-bost cyn y gallwch fwrw ymlaen. Cadarnhewch eich cyfeiriad e-bost drwy glicio ar y ddolen ganlynol: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 Dydd da i chi!';
 $Definition['EmailHeader'] = 'Helo {User.Name}!
@@ -568,9 +568,13 @@ $Definition['Email Unavailable'] = 'E-bost ar gael';
 $Definition['Email visible to other users'] = 'E-bost gweladwy i ddefnyddwyr eraill';
 $Definition['EmbededDiscussionLinkText'] = 'Darllenwch y stori llawn yma';
 $Definition['Embedded Media'] = 'Cyfryngau wedi\'u Mewnosod';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent"> {Llun} <strong>{enw}</strong> <p>{dyfyniad}</p> <p><a href="{Url}"> darllenwch y stori llawn yma</a></p> <div class="ClearFix"></div></div>';
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}"> darllenwch y stori llawn yma</a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent"> {Llun} <strong>{enw}</strong> <p>{dyfyniad}</p> <p><a href="{Url}"> darllenwch y stori llawn yma</a></p> <div class="ClearFix"></div></div>';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
+<p>{Excerpt}</p>
+<p><a href="{Url}"> darllenwch y stori llawn yma</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Categorïau Emoji';
 $Definition['Enable'] = 'Galluogi';
@@ -1772,7 +1776,7 @@ $Definition['You\'re banned from joining this group.'] = 'Rydych wedi eich gwaha
 $Definition['You\'ve already created the maximum number of groups.'] = 'Rydych eisoes wedi creu\'r nifer uchafswm o grwpiau.';
 $Definition['You\'ve applied to join this group.'] = 'Rydych wedi gwneud cais i ymuno â\'r grŵp yma.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}"> Rydych wedi gofyn cwestiynau sydd nawr wedi eu hateb</a>. Gwnewch yn siŵr eich bod yn derbyn/gwrthod yr atebion.';
-$Definition['You\'ve been invited to join {Name}.'] = 'Rydych wedi\'ch gwahodd i ymuno â {enw}.';
+$Definition['You\'ve been invited to join {Name}.'] = 'Rydych wedi\'ch gwahodd i ymuno â {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Rydych chi wedi cael eich carcharu.';
 $Definition['You\'ve been warned.'] = 'Rydych chi wedi cael eich rhybuddio.';
 $Definition['You already have an account here.'] = 'Eisoes gennych gyfrif yma.';

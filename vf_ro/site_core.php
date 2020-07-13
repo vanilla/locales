@@ -548,7 +548,7 @@ $Definition['Edit Thumbnail'] = 'Editare miniatură';
 $Definition['Eighth Anniversary'] = 'Cea de-a 8-a Aniversare';
 $Definition['Email'] = 'E-mail';
 $Definition['Email/Username'] = 'Email/Nume Utilizator';
-$Definition['EmailConfirmEmail'] = 'Trebuie să confirmați adresa de E-mail înainte de a continua. Vă rugăm să confirmaţi adresa de E-mail făcând click pe link-ul următor: {/ entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['EmailConfirmEmail'] = 'Trebuie să confirmați adresa de E-mail înainte de a continua. Vă rugăm să confirmaţi adresa de E-mail făcând click pe link-ul următor: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 O zi placuta!';
 $Definition['EmailHeader'] = 'Bună ziua, {User.Name}!

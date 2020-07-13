@@ -1815,7 +1815,7 @@ $Definition['You\'ve been Jailed.'] = 'You\'ve been Jailed.';
 $Definition['You\'ve been warned.'] = 'Chaidh rabhadh a thoirt dhut.';
 $Definition['You already have an account here.'] = 'You already have an account here.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'You are about to ban {User.UserID,user}.';
-$Definition["You are about to delete all of a user's content."] = "Tha thu an impis an susbaint gu lèir a dhubhadh às airson {User.UserID, cleachdaiche}.";
+$Definition["You are about to delete all of a user's content."] = "Tha thu an impis an susbaint gu lèir a dhubhadh às airson {User.UserID,user}.";
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'You are about to move %1$s of the %2$s of the selected discussions.';
 $Definition['You are about to move %s.'] = 'You are about to move %s.';
 $Definition['You are about to unban {User.UserID,user}.'] = 'You are about to unban {User.UserID,user}.';
@@ -1845,7 +1845,7 @@ $Definition['You are not allowed to warn a user with the same permission level a
     'Chan eil cead agad rabhadh a thoirt do neach-cleachdaidh leis an aon ìre cead riut.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Tha thu a-nis a ’fàgail %1$s. Cliog air a ’cheangal gus leantainn air adhart gu %2$s.';
 $Definition['You are now signed in.'] = 'You are now signed in.';
-$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Chan eil cead agad ach {maxImages, iomarra, ìomhaigh %s, ìomhaighean %s}.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Chan eil cead agad ach {maxImages,plural, ìomhaigh %s, ìomhaighean %s}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'Tha thu toirmisgte a bhith a ’cleachdadh am feart dearmad.';
 $Definition['You are viewing %s\'s ignore list'] = 'Tha thu a ’coimhead air liosta %s';
 $Definition['you can also drag-and-drop'] = 'faodaidh tu cuideachd slaodadh is leigeil às';

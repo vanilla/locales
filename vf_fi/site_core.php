@@ -1819,7 +1819,7 @@ $Definition['You\'re banned from joining this group.'] = 'Sinua on estetty liitt
 $Definition['You\'ve already created the maximum number of groups.'] = 'Olet jo luonut maksimimäärän ryhmiä.';
 $Definition['You\'ve applied to join this group.'] = 'Olet pyrkinyt tämän ryhmän jäseneksi.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Olet esittänyt kysymyksiä, joille on nyt vastauksia</a>. Varmistathan, että hyväksyt/hylkäät vastaukset.';
-$Definition['You\'ve been invited to join {Name}.'] = 'Sinut on kutsuttu liittymään ryhmään {Nimi}.';
+$Definition['You\'ve been invited to join {Name}.'] = 'Sinut on kutsuttu liittymään ryhmään {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Sinut on asetettu jäähylle';
 $Definition['You\'ve been warned.'] = 'Sinua on varoitettu.';
 $Definition['You already have an account here.'] = 'Vaikuttaa siltä, että olet jo jäsen?';

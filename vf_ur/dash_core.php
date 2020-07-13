@@ -393,10 +393,10 @@ $Definition['Guest roles'] = 'مہمانوں پر لاگو ہونے والے ت�
 
 $Definition['Hash Algorithm'] = 'ہیش الگورتھم';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} نے account {RegardingUserID,user} for کے لئے ایک اکاؤنٹ شامل کیا۔';
-$Definition['HeadlineFormat.PictureChange'] = '0 RegardingUserID، You} تبدیل {ActivityUserID، your} پروفائل تصویر۔';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} تبدیل {ActivityUserID,your} پروفائل تصویر۔';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} نے {RegardingUserID,user} کے لئے درخواستوں کی منظوری دی۔';
-$Definition['HeadlineFormat.Status'] = '{ActivityUserID، user}';
-$Definition['HeadlineFormat.WallPost'] = '0 RegardingUserID ، you} → {ActivityUserID ، you}';
+$Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
+$Definition['HeadlineFormat.WallPost'] = '{ActivityUserID,you} ← {RegardingUserID,you}';
 $Definition['Heads up!'] = 'سر!';
 $Definition['Heads Up!'] = 'سر!';
 $Definition['Header'] = 'ہیڈر';

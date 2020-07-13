@@ -1819,7 +1819,7 @@ $Definition['You\'re banned from joining this group.'] = 'Du har ikke lov til å
 $Definition['You\'ve already created the maximum number of groups.'] = 'Du har allerede opprettet maksimalt antall grupper. ';
 $Definition['You\'ve applied to join this group.'] = 'Du har allerede søkt om å bli med i denne gruppen. ';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Du har stilt spørsmål som nå har blitt besvart</a> .  Sørg for at du aksepterer/avviser svarene. ';
-$Definition['You\'ve been invited to join {Name}.'] = 'Du har blitt invitert til å bli med {Navn}.';
+$Definition['You\'ve been invited to join {Name}.'] = 'Du har blitt invitert til å bli med {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Du har blitt fengslet. ';
 $Definition['You\'ve been warned.'] = 'Du har blitt advart.';
 $Definition['You already have an account here.'] = 'Du har allerede en konto her. ';

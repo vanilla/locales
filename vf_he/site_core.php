@@ -749,8 +749,8 @@ $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}  ציין אותך ב  <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}שינה את תמונת המשתמש ל {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} הצטרף';
-$Definition['HeadlineFormat.Unban'] = '{לגבישםמשתמש,אתה} כבר לא נאסר {פעילותשםמשתמש,אתה}';
-$Definition['HeadlineFormat.Warning'] = '{פעילותשםמשתמש,אתה} הוזהר {לגבישםמשתמש,אתה}';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} כבר לא נאסר {ActivityUserID,you}';
+$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} הוזהר {RegardingUserID,you}';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'הוזהרתם.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'קיבלת <a href="{Url,html}" class="Popup">אזהרה</a>.';
 $Definition['Hello!'] = 'שלום!';

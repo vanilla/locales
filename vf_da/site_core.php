@@ -741,7 +741,7 @@ $Definition['Heading %s'] = 'Overskrift %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} godkendte {NotifyUserID,your} svar.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} besvarede dit spørgsmål: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} modtog <a href="{Url,html}">{Data.Name,text}</a> emblemet.';
-$Definition['HeadlineFormat.Ban'] = '{AngåendeBrugerID,You} blokerede {AktivitetBrugerID,you}.';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} blokerede {ActivityUserID,you}';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommenterede på <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sendte dig en <a href="{Url,html}">besked</a>
 ';
@@ -749,7 +749,7 @@ $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} startede en ny
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} nævnte dig i <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} skiftede profilbilledet for {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} oprettede sig som bruger.';
-$Definition['HeadlineFormat.Unban'] = '{AngåendeBrugerID,You} fjernede din blokering {AktivitetBrugerID,you}.';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} fjernede din blokering {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} advarede {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Du er blevet advaret.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Du er blevet <a href="{Url,html}" class="Popup">advaret</a>.';

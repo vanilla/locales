@@ -395,7 +395,7 @@ $Definition['Guest roles'] = 'Markiere alle Rollen, die auf Gäste zutreffen.';
 
 $Definition['Hash Algorithm'] = 'Hash-Algorithmus';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} hat ein Konto für {RegardingUserID,user} angelegt.';
-$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} hat das Profilbild geändert.';
+$Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} hat das Profilbild {ActivityUserID,your} geändert.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} hat der Bewerbung von {RegardingUserID,user} zugestimmt.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user} ';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you} ';
