@@ -71,7 +71,7 @@ class SmokeTest extends AbstractLocalesTest {
     private function getSprintfs(string $value): array {
         $r = [];
         // Sprintf expansions.
-        if (preg_match_all('`(%\d?\$?[sdf])`', $value, $m)) {
+        if (preg_match_all('`(%\d?\$?\+?[sdf])`', $value, $m)) {
             $r = array_merge($r, $m[1]);
         }
 
