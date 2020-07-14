@@ -12,7 +12,7 @@ $Definition["Add a knowledge base to get started."] = "Ajoutez une base de conna
 $Definition["Add/Edit Knowledge Base"] = "Ajouter / Modifier une base de connaissances";
 $Definition["Admin Links"] = "Liens administrateur";
 $Definition["Alphabetically"] = "Ordre alphabétique";
-$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Êtes-vous sûr de vouloir supprimer <0/> \"<1/>\" ?";
+$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Êtes-vous sûr de vouloir supprimer <0/> « <1/> » ?";
 $Definition["Are you sure you want to delete this knowledge base?"] = "Êtes-vous sûr de vouloir supprimer cette base de connaissances ?";
 $Definition["Are you sure you want to purge this knowledge base?"] = "Êtes-vous sûr de vouloir purger cette base de connaissances ?";
 $Definition["Are you sure you want to restore this knowledge base?"] = "Êtes-vous sûr de vouloir restaurer cette base de connaissances ?";
@@ -56,7 +56,7 @@ $Definition["Debug"] = "Déboguer";
 $Definition["Default Background Color"] = "Couleur d'arrière plan par défaut";
 $Definition["Default Foreground Color"] = "Couleur du premier plan par défaut";
 
-$Definition["Delete \"<0/>\""] = "Supprimer \"<0/>\"";
+$Definition["Delete \"<0/>\""] = "Supprimer « <0/> »";
 $Definition["Delete Draft"] = "Supprimer le brouillon";
 $Definition["Delete an Article"] = "Supprimer un article";
 $Definition["Deleted Articles"] = "Supprimer des articles";
@@ -194,7 +194,7 @@ $Definition["Type your article."] = "Écrivez votre article";
 $Definition["Unknown User"] = "Utilisateur inconnu";
 
 $Definition["View Article"] = "Voir l'article";
-$Definition["View all articles from category: \"<0/>\"."] = "Voir tous les articles de la catégorie : \"<0/>\".";
+$Definition["View all articles from category: \"<0/>\"."] = "Voir tous les articles de la catégorie : « <0/> ».";
 
 $Definition["Was this article helpful?"] = "Cet article a-t-il été utile ?";
 $Definition["Write Discussion"] = "Écrire une discussion";

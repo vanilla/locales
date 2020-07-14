@@ -788,8 +788,7 @@ $Definition['Unlimited'] = 'Neobmedzené';
 $Definition['Upload New Email Logo'] = 'Nahrajte nové email logo';
 $Definition['Upcoming Events'] = 'Pripravované akcie';
 $Definition['Use an SMTP server to send email'] = 'Použiť SMTP server na poslanie e-mailu';
-$Definition['Use asterisks for wildcards'] = 'Ako zástupné znaky použite hviezdičky, napr. ‘*@hotmail.com’
-';
+$Definition['Use asterisks for wildcards'] = 'Ako zástupné znaky použite hviezdičky, napr. "*@gmail.com"';
 $Definition['Use Categories'] = 'Použiť kategóriu';
 $Definition['Use categories to organize discussions'] = 'Použiť kategórie na organizáciu diskusií';
 $Definition['Use Facebook names for usernames.'] = 'Použiť mená z Facebooku ako používateľské mená';

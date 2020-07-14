@@ -4,7 +4,7 @@
 $Definition['<strong>Heads Up!</strong> Deleting a role can result in users not having access to the application.'] = '<strong>Hé, faîtes gaffe !</strong> Supprimer un statut peut entraîner l\'interdiction d\'accès au service des utilisateurs auquel ce statut a été attribué.';
 $Definition['<strong>Heads Up!</strong> Moving discussions into a replacement category can result in discussions vanishing (or appearing) if the replacement category has different permissions than the category being deleted.'] = '<strong>Hé, faîtes gaffe !</strong> Déplacer des discussions dans une catégorie de substitution peut entraîner la disparition (ou la réapparition) des discussions si la catégorie de substitution a des permissions différentes de celles de la catégorie en cours de suppression.';
 
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type "non-confirmé" est nécessaire pour utiliser la confirmation mail.';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type « non-confirmé » est nécessaire pour utiliser la confirmation mail.';
 $Definition['About.DisableStatistics'] = 'Si vous devez désactiver cette collecte de données pour quelque raison commerciale que ce soit, vous pouvez désactiver ce module en ajoutant la ligne suivante à votre fichier de configuration : <code>$Configuration[\'Garden\'][\'Analytics\'][\'Enabled\'] = FALSE;</code>';
 $Definition['About.VanillaStatistics'] = 'Il est important, pour que ce logiciel gratuit et open-source continue à évoluer, que nous puissions mesurer avec précision la portée et l\'efficacité de Vanilla. Nous vous demandons, s\'il vous plaît, ne pas désactiver la collecte de ces données.';
 $Definition['AboutCommentEmbedding'] = 'Vanilla peut être utilisé comme un module de remplacement du système de gestion des commentaires de votre blog. En tant que tel, il peut être utilisé pour ajouter des commentaires sur n\'importe quel page de votre site web.';
@@ -99,7 +99,7 @@ $Definition['Garden.StatisticsLocal.Resolve'] = 'Si vous êtes certain que ce fo
 $Definition['Garden.StatisticsReadonly.Explain'] = 'Votre fichier config.php semble être en lecture seule. Cela signifie que Vanilla ne pourra pas être en mesure d\'enregistrer les identifiants et mots de passe de votre installation.';
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'Pour résoudre ce problème, assigner le mode de fichier 777 à votre fichier conf/config.php.';
 
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Attention ! Ceci est un statut particulier qui n\'autorise pas de sessions actives. Pour cette raison, les options d\'autorisation ont été limitées à la seule fonction "visualisation".';
+$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Attention ! Ceci est un statut particulier qui n\'autorise pas de sessions actives. Pour cette raison, les options d\'autorisation ont été limitées à la seule fonction « visualisation ».';
 $Definition['Here are all of the reactions you can use on your site.'] = 'Voici l\'ensemble des réactions que vous pouvez utiliser sur votre site.';
 $Definition['Here are the ranks that users can achieve on your site.'] =
     'Voici les classements que les utilisateurs peuvent obtenir sur votre site. Vous pouvez personnaliser ces classements et même en ajouter de nouveaux. Voici quelques conseils.
@@ -149,7 +149,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Les catégories imbriquées dont la profondeur dépasse cette limite seront placées dans une liste délimitée par des virgules.
 ';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Le site à besoin d\'un statut "non-confirmé" pour utiliser la confirmation mail. Merci d\'en ajouter un pour activer ce paramètre.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Le site à besoin d\'un statut « non-confirmé » pour utiliser la confirmation mail. Merci d\'en ajouter un pour activer ce paramètre.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Vous n\'obtenez pas ce que vous attendez lorsque vous prévisualisez votre thème ?';
 $Definition['Notify me when people comment on my addons.'] = 'Notifiez-moi quand des personnes commenteront sur mes extensions.';
 
@@ -194,7 +194,7 @@ $Definition['Security.Hsts.MaxAgeRecommendation'] = 'Une fois que vous voyez que
 $Definition['Security.Hsts.SubmitWarning'] = 'Avertissement : c\'est très bien d\'adopter les bonnes pratiques du HSTS preloading. Cependant, vous devez soumettre votre site à hstspreload.org pour être sûr qu\'il est bien préchargé (c\'est-à-dire pour obtenir la protection complète de la configuration voulue).';
 $Definition['Select the default type for this role, if any.'] = 'Sélectionnez le type par défaut pour ce rôle, le cas échéant.';
 $Definition['Select the import source'] = 'Choisissez le fichier à importer';
-$Definition['Serialized column "%s" failed to be unserialized.'] = 'La colonne sérialisée "%s" n\'a pas pu être dé-sérialisée.';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'La colonne sérialisée « %s » n\'a pas pu être dé-sérialisée.';
 $Definition['ShareImageDescription'] =
     'Lorsque quelqu\'un partage un lien de votre site, nous essayons de récupérer une image de la page. S\'il n\'y a pas d\'image sur la page, nous utiliserons cette image à la place. L\'image doit être d\'au moins 50×50, mais nous recommandons 200×200.
 ';

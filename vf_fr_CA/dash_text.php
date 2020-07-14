@@ -24,7 +24,7 @@ $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Are you sure want to delete this theme? It will be permanently deleted.'] = 'Êtes-vous sûr de vouloir supprimer ce thème ? Il sera supprimé définitivement.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
-$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type "non-confirmé" est nécessaire pour utiliser la confirmation mail.';
+$Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type « non-confirmé » est nécessaire pour utiliser la confirmation mail.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Les avatars seront réduits s\'ils dépassent cette hauteur.
 ';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Les avatars seront réduits s\'ils dépassent cette largeur.
@@ -124,7 +124,7 @@ $Definition['Global Styles'] = 'Styles généraux
 ';
 
 $Definition['Heads Up!'] = 'Soyez attentifs !';
-$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Attention ! Ceci est un statut particulier qui n\'autorise pas de sessions actives. Pour cette raison, les options d\'autorisation ont été limitées à la seule fonction "visualisation".';
+$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Attention ! Ceci est un statut particulier qui n\'autorise pas de sessions actives. Pour cette raison, les options d\'autorisation ont été limitées à la seule fonction « visualisation ».';
 $Definition['Here are all of the reactions you can use on your site.'] = 'Voici l\'ensemble des réactions que vous pouvez utiliser sur votre site.';
 $Definition['Here are the ranks that users can achieve on your site.'] = 'Voici les classements que les utilisateurs peuvent obtenir sur votre site. Vous pouvez personnaliser ces classements et même en ajouter de nouveaux. Voici quelques conseils.
 ';
@@ -177,7 +177,7 @@ $Definition['Nested categories deeper than this depth will be placed in a comma-
 ';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Vous n\'obtenez pas ce que vous attendez lorsque vous prévisualisez votre thème ?';
 $Definition['Notify me when people comment on my addons.'] = 'Notifiez-moi quand des personnes commenteront sur mes extensions.';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Le site à besoin d\'un statut "non-confirmé" pour utiliser la confirmation mail. Merci d\'en ajouter un pour activer ce paramètre.';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Le site à besoin d\'un statut « non-confirmé » pour utiliser la confirmation mail. Merci d\'en ajouter un pour activer ce paramètre.';
 
 $Definition['Old Theming UI'] = 'Ancienne Interface des Thèmes';
 $Definition['Once enabled, only members will see inside your community.'] = 'Une fois activée, seuls les membres pourront voir à l\'intérieur de votre communauté.';
@@ -209,8 +209,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'Requiert une auto
 $Definition['Requires “Positive” reaction permission.'] = 'Nécessite une autorisation de réaction « positive ».
 ';
 $Definition['Restoring your selection removes the items from this list.'] = 'Quand vous restaurez, des éléments sont retirés de cette liste et replacés dans le site.';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Utilisez l\'option suivante pour activer les citations pour l\'éditeur enrichi. Cette option ne s\'appliquera que si le formateur par défaut est « enrichi ».
-';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Utilisez cette option pour activer les citations avec le « Rich Editor ». Va s\'appliquer uniquement si le format par défaut est « Rich ».';
 $Definition['Route Expression'] = 'Libellé de la redirection';
 $Definition['Routes are used to redirect users.'] = 'Les routages sont utilisés pour rediriger les utilisateurs en fonction de l\'URL demandée.';
 
@@ -224,7 +223,7 @@ $Definition['Security.Hsts.MaxAgeRecommendation'] = 'Nous recommandons de commen
 $Definition['Security.Hsts.SubmitWarning'] = 'Attention : c\'est très bien de soutenir le préchargement HSTS en tant que meilleure pratique. Toutefois, vous devez soumettre votre site sur hstspreload.org pour vous assurer qu\'il soit préchargé avec succès (c\'est-à-dire qu\'il bénéficie de la protection complète pour la configuration voulue).';
 $Definition['Select the default type for this role, if any.'] = 'Sélectionnez le type par défaut pour ce rôle, le cas échéant.';
 $Definition['Select the import source'] = 'Choisissez le fichier à importer';
-$Definition['Serialized column "%s" failed to be unserialized.'] = 'La colonne sérialisée "%s" n\'a pas pu être dé-sérialisée.';
+$Definition['Serialized column "%s" failed to be unserialized.'] = 'La colonne sérialisée « %s » n\'a pas pu être dé-sérialisée.';
 $Definition['Shadowed'] = 'Dans l\'ombre';
 $Definition['ShareImageDescription'] = 'Lorsque quelqu\'un partage un lien de votre site, nous essayons de récupérer une image de la page. S\'il n\'y a pas d\'image sur la page, nous utiliserons cette image à la place. L\'image doit être d\'au moins 50×50, mais nous recommandons 200×200.
 ';

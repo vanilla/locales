@@ -4,6 +4,7 @@ $Definition['%s comment html'] = '%s comment';
 $Definition['%s comments html'] = '%s comments';
 $Definition['%s discussion html'] = '%s discussion';
 $Definition['%s discussions html'] = '%s discussions';
+$Definition['%s New Plural'] = '%s New';
 $Definition['%s new plural'] = '%s new';
 $Definition['%s sources(s) found.'] = '%s source(s) found.';
 $Definition['%s view html'] = '%s view';
@@ -498,7 +499,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 
 $Definition['Unanswered Questions'] = 'Unanswered';
 $Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
-$Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
+$Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. "*@gmail.com"';
 $Definition['User Count'] = 'Users';
 $Definition['UserDelete'] = 'Remove User Content';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
