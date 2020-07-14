@@ -439,6 +439,7 @@ $Definition['Outgoing Email Address'] = 'Aterese ya Imeile Yeo e Yago Ntle';
 
 $Definition['Page Color'] = 'Mmala wa Letlakala';
 $Definition['Password Options'] = 'Dikgetho tša Phasewete';
+$Definition['Past Events'] = 'Ditiragalo tša Nakong e Fetilego';
 $Definition['Permission'] = 'Tumelelo';
 $Definition['Permission.Category'] = 'Legoro';
 $Definition['Permissions'] = 'Ditumelelo';
@@ -642,6 +643,7 @@ $Definition['What\'s the Buzz?'] = 'Di re\'ng Ditaba?';
 $Definition['Where is your Community Forum?'] = 'Foramo ya Tikologo ya geno e kae?';
 $Definition['Who\'s Online Settings'] = 'Dipeakanyo tša yo a Lego Inthaneteng ke tša Bomang';
 $Definition['Why do you want to join?'] = 'Ke ka baka la\'ng o nyaka go tsena?';
+$Definition['Will you be attending?'] = 'Na o tlo ya?';
 $Definition['Within'] = 'Ka gare';
 $Definition['WordPress Plugin'] = 'Go Hlongwa ga WordPress';
 
