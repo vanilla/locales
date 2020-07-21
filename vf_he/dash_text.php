@@ -119,7 +119,8 @@ $Definition['Learn about custom routing.'] = 'למד/י על ניתוב מותא
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'למד איך לשנות חלוטין את המראה וההרגשה של הפורום: הוסף לוגו, קבע את הפורום כדף הבית, בחר ערכת נושא ותעצב את הפורום לפי טעמך האישי.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'הדרכה על האפשרויות הבסיסיות של הפורום';
 $Definition['Locales allow you to support other languages on your site.'] = 'איזורים מאפשרים לך לתמוך בשפות אחרות באתר שלך. אפשר ובטל איזורים שאתרצה להפוך לזמינים כאן.';
-$Definition['LogoDescription'] = 'לוגו הבאנר מופיע בראש העמוד שלך. חלק מערכות הנושא עלולות שלא להציג את הלוגו הזה.';
+$Definition['LogoDescription'] = 'לוגו הבאנר מופיע בראש האתר שלך.';
+$Definition['LogoDisclaimer'] = 'ערכות נושא שנוצרו עם עורך הנושאים וכמה ערכות נושא מותאמות אישית אינן משתמשות בהגדרה זו.';
 
 $Definition['Make sure you click View Page'] = 'וודאו לחיצה ב<a href="%s">צפה בדף</a> על מנת לראות כיצד דף הקטגוריות שלך נראה לאחר שמירה.';
 $Definition['Manage Routes'] = 'ניהול נתיבים';
@@ -127,7 +128,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'סימון דברים כלא ספאם יחזיר אותם אל הפורום.';
 $Definition['Messages can appear anywhere in your application.'] = 'הודעות יכולות להופיע בכל מקום בתוך התוכנה שלך, ויכולות לשמש על מנת להודיע למשתמשים על אירועים או חדשות. השתמש בעמוד זה על מנת לארגן את ההודעות שלך על ידי גרירתם ממקום למקום.';
 $Definition['MobileLogoDescription'] =
-    'לוגו הבאנר הנייד מופיע בראש האתר שלך. נושאים מסוימים עשויים שלא להציג לוגו זה.';
+    'לוגו הבאנר הנייד מופיע בראש האתר שלך.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'ערכות נושא לנייד מאפשרות לך לשנות את המראה והתחושה של האתר שלך במכשירים קטנים יותר.';
 
