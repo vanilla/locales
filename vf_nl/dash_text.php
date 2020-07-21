@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Leer over aangepaste routes.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Leer hoe je het uiterlijk van je forum compleet kan veranderen: upload je logo, maak je hoofdpagina, kies een thema en pas het aan.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Leer hoe je de basisfunctionaliteit van je forum kan gebruiken.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales maken het mogelijk om andere talen op je site te ondersteunen. Schakel locaties die je beschikbaar wilt maken hier in en uit.';
-$Definition['LogoDescription'] = 'Het bannerlogo wordt aan de bovenkant van je site getoond. Sommige thema\'s zullen dit logo niet tonen.';
+$Definition['LogoDescription'] = 'Het bannerlogo verschijnt bovenaan uw site.';
+$Definition['LogoDisclaimer'] = 'Thema&#39;s gemaakt met de thema-editor en sommige aangepaste thema&#39;s gebruiken deze instelling niet.';
 
 $Definition['Make sure you click View Page'] = 'Zorg ervoor dat je  <a href="%s">Bekijk pagina</a> aanklikt om te zien hoe je categoriepagina\'s eruitzien na het opslaan.';
 $Definition['Manage Routes'] = 'Beheer routes';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'H
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Het markeren van dingen als geen spam zal ze terugzetten op je forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Berichten kunnen overal in de applicatie verschijnen en kunnen worden ingezet om je gebruikers te informeren over nieuws en evenementen. Gebruik deze pagina om de berichten te ordenen door ze omhoog of omlaag te verslepen.';
 $Definition['MobileLogoDescription'] =
-    'Het mobiele bannerlogo verschijnt bovenaan jouw site. Bij sommige thema\'s wordt dit logo mogelijk niet weergegeven.';
+    'Het mobiele bannerlogo verschijnt bovenaan uw site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiele thema\'s staan je toe om de uitstraling en het gevoel van je site op kleinere apparaten aan te passen.';
 
