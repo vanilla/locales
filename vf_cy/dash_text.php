@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Dysgwch am lwybro personol.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Dysgwch sut i newid naws eich fforwm yn llwyr: uwchlwytho eich logo, gosod eich hafan, dewisw thema ac addasu.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Dysgu sut i ddefnyddio swyddogaeth sylfaenol eich Fforwm.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Mae\'r locales yn caniatáu ichi gefnogi ieithoedd eraill ar eich safle. Galluogwch neu analluogwch y locales yr hoffech eu darparu yma.';
-$Definition['LogoDescription'] = 'Mae\'r logo baner yn ymddangos ar frig eich safle. Efallai na fydd rhai themâu yn arddangos y logo hwn.';
+$Definition['LogoDescription'] = 'Mae logo&#39;r faner yn ymddangos ar frig eich gwefan.';
+$Definition['LogoDisclaimer'] = 'Nid yw&#39;r themâu a wneir gyda&#39;r golygydd thema a rhai themâu arfer yn defnyddio&#39;r gosodiad hwn.';
 
 $Definition['Make sure you click View Page'] = 'Gofalwch glicio <a href="%s"> golwg tudalen</a> i weld sut mae\'ch tudalen gategorïau yn edrych ar ôl arbed.';
 $Definition['Manage Routes'] = 'Rheoli llwybrau';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'B
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Bydd marcio pethau fel dim sbam yn eu rhoi yn ôl yn eich Fforwm.';
 $Definition['Messages can appear anywhere in your application.'] = 'Gall negeseuon ymddangos unrhyw le yn y rhaglen, a gellir eu defnyddio i roi gwybod i\'ch defnyddwyr am newyddion a digwyddiadau. Defnyddiwch y dudalen hon i ail-drefnu eich negeseuon drwy eu llusgo i fyny neu i lawr.';
 $Definition['MobileLogoDescription'] =
-    'Mae logo\'r faner symudol yn ymddangos ar frig eich gwefan. Efallai na fydd rhai themâu yn arddangos y logo hwn.';
+    'Mae logo&#39;r faner symudol yn ymddangos ar frig eich gwefan.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mae themâu symudol yn caniatáu ichi newid edrychiad a theimlad eich gwefan ar ddyfeisiau llai.';
 
