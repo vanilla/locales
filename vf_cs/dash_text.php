@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Zjistěte více o vlastním směro
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Naučte se, jak zcela změnit vzhled a pocit z fóra: nahrajte své logo, nastavte svou domovskou stránku, vyberte motiv a přizpůsobujte.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Naučte se používat základní funkce svého fóra.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Umístění vám umožňují podporovat na vašich stránkách další jazyky. Umístění můžete povolit a zakázat zde.';
-$Definition['LogoDescription'] = 'Logo záhlaví se zobrazuje v hlavičce vaší internetové stránky. Některá témata vzhledu nemusí toto logo zobrazovat.';
+$Definition['LogoDescription'] = 'Logo banneru se zobrazí v horní části webu.';
+$Definition['LogoDisclaimer'] = 'Motivy vytvořené pomocí editoru motivů a některá vlastní témata toto nastavení nepoužívají.';
 
 $Definition['Make sure you click View Page'] = 'Nezapomeňte kliknout na <a href="%s">Zobrazit stránku</a>, abyste viděli, jak vaše stránka kategorií vypadá po uložení. ';
 $Definition['Manage Routes'] = 'Spravovat trasy ';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'P
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Položky označené jako Není spam budou umístěny zpět do vašeho fóra. ';
 $Definition['Messages can appear anywhere in your application.'] = 'Zprávy se mohou objevit kdekoli ve vaší aplikaci a mohou být použity k informování uživatelů o novinkách a událostech. Tuto stránku můžete použít k uspořádání zpráv přetažením nahoru nebo dolů.';
 $Definition['MobileLogoDescription'] =
-    'Logo banneru pro mobilní zařízení se zobrazí v horní části webu. Některé motivy nemusí toto logo zobrazit.';
+    'Logo banneru pro mobilní zařízení se zobrazí v horní části webu.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobilní témata vám umožňují změnit vzhled a dojem vašeho webu na menších zařízeních.';
 
