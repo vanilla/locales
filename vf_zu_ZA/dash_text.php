@@ -116,7 +116,8 @@ $Definition['Learn about custom routing.'] = 'Funda ngemikhondo yangokwezifiso.'
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Funda ukuthi ungakushintsha ngokuphelele ukubukeka nokuzwa kwesithangami sakho: layisha ilogo yakho, setha ikhasi lakho eliyisiqalo, khetha ingqikithi bese uyenza ngokwezifiso.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Funda ukuthi usebenzise kanjani ukusebenza okuyisisekelo kwesithangami sakho.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Izindawo zikuvumela ukuthi uxhase ezinye izilimi kusayithi lakho. Nika amandla futhi ukhubaze izindawo lapho ufuna ukwenza zitholakale lapha.';
-$Definition['LogoDescription'] = 'Ilogo yesibhengezo ivela phezulu kusayithi lakho. Ezinye izingqikithi zingahle zingabonisi le logo.';
+$Definition['LogoDescription'] = 'Ilogo yesibhengezo ivela phezulu kusayithi lakho.';
+$Definition['LogoDisclaimer'] = 'Izindikimba ezenziwe ngesihleli sengqikithi nezinye izingqikili ezenziwe ngokwezifiso azisebenzisi lokhu kulungiselelwa.';
 
 $Definition['Make sure you click View Page'] = 'Qiniseka ukuthi uchofoza <a href="%s">Ukubuka Ikhasi</a> ukubona ukuthi ikhasi lakho lezigaba libukeka kanjani ngemuva kokulondolozwa.';
 $Definition['Manage Routes'] = 'Phatha Imizila';
@@ -124,7 +125,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'U
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ukumaka izinto njengezingekho kogaxekile kuzozibuyisela emuva esithangamini sakho.';
 $Definition['Messages can appear anywhere in your application.'] = 'Imilayezo ingavela noma yikuphi kuhlelo lwakho lokusebenza, futhi lungasetshenziselwa ukwazisa abasebenzisi bakho ngezindaba nezehlakalo. Sebenzisa leli khasi ukuhlela kabusha imilayezo yakho ngokuyihudulela phezulu noma phansi.';
 $Definition['MobileLogoDescription'] =
-    'I-logo yamabhanela eselula avela phezulu kusayithi lakho. Ezinye izingqikithi zingahle zingabonisi le logo.';
+    'I-logo yamabhanela eselula avela phezulu kusayithi lakho.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Izindikimba zeselula zikuvumela ukuthi ushintshe ukubukeka nokuzwa kwesayithi lakho kumadivayisi amancane.';
 
