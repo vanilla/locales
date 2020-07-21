@@ -133,7 +133,7 @@ $Definition['Learn how to completely change your forum\'s look and feel: upload 
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apprenez à utiliser les fonctionnalités de base de votre forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Les locales vous permettent de gérer d\'autres langues sur votre site. Activez et désactivez les locales que vous voulez rendre disponibles ici.';
 $Definition['LogoDescription'] = 'Le logo de la bannière apparaît en haut de votre site.';
-$Definition['LogoDisclaimer'] = 'Les thèmes créés avec l&#39;éditeur de thèmes et certains thèmes personnalisés n&#39;utilisent pas ce paramètre.';
+$Definition['LogoDisclaimer'] = 'Les thèmes créés avec l\'éditeur de thèmes et certains thèmes personnalisés n\'utilisent pas ce paramètre.';
 
 $Definition['Make sure you click View Page'] = 'Cliquez sur <a href="%s">Voir la Page</a> pour voir à quoi ressemblera votre page catégories une fois que vous aurez sauvegardé.';
 $Definition['Manage Routes'] = 'Gestion des redirections';
