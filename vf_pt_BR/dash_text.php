@@ -119,7 +119,8 @@ $Definition['Learn about custom routing.'] = 'Aprenda sobre roteamento personali
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda como alterar completamente a aparência do seu fórum: faça upload do seu logotipo, defina sua página inicial, escolha um tema e personalize-o.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a como usar as funções básicas do seu fórum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Idiomas permitem que você de suporte a outros idiomas em seu site. Ative e desative os idiomas para torná-los disponíveis, aqui.';
-$Definition['LogoDescription'] = 'O logo aparece no topo do seu site. Alguns temas podem não exibir este logo.';
+$Definition['LogoDescription'] = 'O logotipo do banner aparece na parte superior do seu site.';
+$Definition['LogoDisclaimer'] = 'Os temas criados com o editor de temas e alguns temas personalizados não usam essa configuração.';
 
 $Definition['Make sure you click View Page'] = 'Certifique-se de clicar em <a href="%s">Visualizar Página</a> para ver como suas salas ficarão após serem salvas.';
 $Definition['Manage Routes'] = 'Administrar Rotas';
@@ -127,7 +128,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcar coisas como não spam irá colocá-las novamente em seu fórum.';
 $Definition['Messages can appear anywhere in your application.'] = 'As mensagens podem aparecer em qualquer lugar do seu aplicativo e podem ser usadas para informar seus usuários sobre notícias e eventos. Use esta página para reorganizar suas mensagens, arrastando-as para cima ou para baixo.';
 $Definition['MobileLogoDescription'] =
-    'O logotipo do banner para celular aparece na parte superior do seu site. Alguns temas podem não exibir este logotipo.';
+    'O logotipo do banner para celular aparece na parte superior do seu site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Os temas para celular permitem alterar a aparência do seu site em dispositivos menores.';
 
