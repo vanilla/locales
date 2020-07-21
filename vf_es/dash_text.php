@@ -116,7 +116,8 @@ $Definition['Learn about custom routing.'] = 'Más información sobre rutas pers
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda a cambiar completamente el aspecto de tu foro: cargando su logotipo, pon tu página de inicio, seleccione un tema y personalizarlo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a utilizar las funciones básicas de su foro.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Los locales te permiten establecer otros idiomas en tu sitio. Habilita y deshabilita los locales que quieras que estén disponibles aquí.';
-$Definition['LogoDescription'] = 'El logotipo aparece en la parte superior de su sitio. Algunos temas pueden no mostrar este logo.';
+$Definition['LogoDescription'] = 'El logotipo del banner aparece en la parte superior de su sitio.';
+$Definition['LogoDisclaimer'] = 'Los temas creados con el editor de temas y algunos temas personalizados no utilizan esta configuración.';
 
 $Definition['Make sure you click View Page'] = 'Haz clic en <a href="%s">Ver página</a> para ver cómo queda tu página de categorías después de guardarla.';
 $Definition['Manage Routes'] = 'Gestionar Rutas';
@@ -124,7 +125,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcar cosas como no spam las pondrá de nuevo en tu foro. ';
 $Definition['Messages can appear anywhere in your application.'] = 'Los mensajes pueden aparecer en cualquier parte de tu aplicación, y pueden ser utilizados para informar a los usuarios de noticias y eventos. Utiliza esta página para reorganizar tus mensajes arrastrándolos hacia arriba o hacia abajo.';
 $Definition['MobileLogoDescription'] =
-    'El logotipo del anuncio móvil aparece en la parte superior de tu sitio. Puede que algunos temas no muestren este logotipo.';
+    'El logotipo del banner móvil aparece en la parte superior de su sitio.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Los temas móviles te permiten cambiar el aspecto y percepción de tu sitio en dispositivos más pequeños.';
 
