@@ -22,7 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'السماح للمستخدمين الذين لديهم إذن %s بتغيير الصور الرمزية الخاصة بهم من صفحات ملفاتهم الشخصية في Vanilla.';
 $Definition['ApplicationHelp'] = 'التطبيقات تسمح لك بإضافة مجموعة كبيرة من الإمكانيات للموقع.<br>عند إضافة تطبيق إلى ملف %s ، يمكنك تنشيطه أو تعطيله هنا.';
-$Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'هل أنت متأكد من أنك أدخلت اسم مضيف قاعدة البيانات الصحيح؟ ربما أخطأت في الكتابة؟ ذكرت قاعدة البيانات: <code>٪ s </code>';
+$Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'هل أنت متأكد من أنك أدخلت اسم مضيف قاعدة البيانات الصحيح؟ ربما أخطأت في الكتابة؟ ذكرت قاعدة البيانات: <code>%s</code>';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'سيتم تصغير الصور الرمزية إذا تجاوزت هذا الارتفاع.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'سيتم تصغير الصور الرمزية إذا تجاوزت هذا العرض.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'سيتم حفظ الصور المصغرة الخاصة بهم في هذا الحجم.';
@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'أدخل اسماً وصفياً ل�
 $Definition['Enter a short name for the site.'] = 'أدخل اسماً قصيراً للموقع. يتم عرض هذا على أزرار تسجيل الدخول.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'أدخل عنوان مدونة Wordpress الخاصة بك وسنتولى الأمر من هناك.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'أدخل إعدادات الاتصال لخادم أبو الهول الخاص بك أدناه.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'يتم تسجيل كل تحرير أو حذف هنا. استخدم &lsquo;استعادة&rsquo; للتراجع عن أي تغيير.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'يتم تسجيل كل تحرير أو حذف هنا. استخدم ‘استعادة’ للتراجع عن أي تغيير.';
 $Definition['Everyone who signs up gets a profile page.'] = 'يحصل كل من اشترك في مجتمعك على صفحة ملف شخصي عام حيث يمكنه تحميل صورة لنفسه ، وإدارة إعدادات ملفه الشخصي ، وتتبع الأشياء الرائعة في المنتدى. يجب 
 <a href="{/profile,url}">تخصيص الملف الشخصي الان</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'يتم تعيين كل مستخدم في موقعك لدور واحد على الأقل. تستخدم الأدوار لتحديد ما يُسمح للمستخدمين بالقيام به.';
@@ -118,7 +118,8 @@ $Definition['Learn about custom routing.'] = 'تعرف على التوجيه ا�
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'تعرّف على كيفية تغيير شكل وطابع المنتدى الخاص بك تماماً: قم بتحميل شعارك وتعيين صفحتك الرئيسية واختيار مظهر ما وتخصيصه.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'تعرف على كيفية استخدام الوظائف الأساسية لمنتداك.';
 $Definition['Locales allow you to support other languages on your site.'] = 'تتيح لك اللغات المحلية دعم لغات أخرى على موقعك. تمكين وتعطيل اللغات التي تريد إتاحتها هنا.';
-$Definition['LogoDescription'] = 'يظهر شعار اللافتة في الجزء العلوي من موقعك. قد لا تعرض بعض المظاهر هذا الشعار.';
+$Definition['LogoDescription'] = 'يظهر شعار البانر أعلى موقعك.';
+$Definition['LogoDisclaimer'] = 'السمات التي تم إنشاؤها باستخدام محرر السمات وبعض السمات المخصصة لا تستخدم هذا الإعداد.';
 
 $Definition['Make sure you click View Page'] = 'تأكد من النقر فوق <a href="%s">عرض الصفحة</a> لترى كيف تبدو صفحة الفئات الخاصة بك بعد الحفظ.';
 $Definition['Manage Routes'] = 'إدارة المسارات';
@@ -126,7 +127,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'سيؤدي وضع علامة على الأشياء على أنها ليست رسائل غير مزعجة إلى إعادة وضعها في المنتدى';
 $Definition['Messages can appear anywhere in your application.'] = 'يمكن أن تظهر الرسائل في أي مكان في التطبيق الخاص بك، ويمكن استخدامها لإعلام المستخدمين بالأخبار والأحداث. استخدم هذه الصفحة لإعادة تنظيم رسائلك بسحبها لأعلى أو لأسفل.';
 $Definition['MobileLogoDescription'] =
-    'يظهر شعار بانر الجوال أعلى موقعك. قد لا تعرض بعض السمات هذا الشعار.';
+    'يظهر شعار بانر الجوال أعلى موقعك.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'تسمح لك مظاهر الجوال بتغيير شكل موقعك وأسلوبه على الأجهزة الصغيرة.';
 
@@ -143,9 +144,9 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'يُرجى اختيار مصادق للتهيئة.';
 $Definition['PluginHelp'] = 'تسمح لك الإضافات بإضافة وظائف إلى موقعك. <br /> بمجرد إضافة ملحق إلى مجلد %s الخاص بك ، يمكنك تمكينه أو تعطيله هنا.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'يتم عرض الجيب بين كل نقاش حول قائمة المناقشات الرئيسية. حيث أن موضوعات النقاش عادة ما تكون في علامات &lt;li&gt;..&lt;/li&gt; ، ستحتاج إلى طيّ جيبك في تلك العلامات أيضاً.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'يتم عرض الجيب بين كل نقاش حول قائمة المناقشات الرئيسية. حيث أن موضوعات النقاش عادة ما تكون في علامات <li>..</li> ، ستحتاج إلى طيّ جيبك في تلك العلامات أيضاً.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'تسمح لك الجيوب بإضافة قالب HTML حر إلى أماكن متعددة عبر التطبيق.';
-$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'امنع البريد المزعج في منتداك عن طريق الحد من عدد المناقشات والمحادثات و&amp; التعليقات التي يمكن للمستخدمين نشرها خلال فترة زمنية محددة.';
+$Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'امنع البريد المزعج في منتداك عن طريق الحد من عدد المناقشات والمحادثات و& التعليقات التي يمكن للمستخدمين نشرها خلال فترة زمنية محددة.';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'دليل البدء السريع لإنشاء مظاهر لـ Vanilla';
 
@@ -156,12 +157,12 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'إنها لفكرة جيدة أن يكون لديك رتب خاصة للمشرفين والإداريين حتى يتمكن مجتمعك من رؤية المسؤول عن ذلك بسهولة.';
 $Definition['Recommend starting with five ranks.'] =
     'لا تريد أن يكون لديك الكثير من الرتب. نوصي بالبدء بخمسة. يمكنك إضافة المزيد إذا كان مجتمعك كبيرًا حقًا.';
-$Definition['Requires “Flag” reaction permission.'] = 'يتطلب إذن رد فعل &quot;الإبلاغ&quot;.';
-$Definition['Requires “Negative” reaction permission.'] = 'يتطلب إذن رد فعل &quot;سلبي&quot;.';
-$Definition['Requires “Positive” reaction permission.'] = 'يتطلب إذن رد فعل &quot;إيجابي&quot;.';
+$Definition['Requires “Flag” reaction permission.'] = 'يتطلب إذن رد فعل "الإبلاغ".';
+$Definition['Requires “Negative” reaction permission.'] = 'يتطلب إذن رد فعل "سلبي".';
+$Definition['Requires “Positive” reaction permission.'] = 'يتطلب إذن رد فعل "إيجابي".';
 $Definition['Restoring your selection removes the items from this list.'] = 'عندما تقوم بالاستعادة، تتم إزالة العناصر من هذه القائمة وإعادتها إلى الموقع.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'استخدم الخيار التالي لتمكين علامات الاقتباس لـ Rich Editor. لن يتم تطبيق ذلك إلا إذا كان المُنسق الافتراضي هو &quot;Rich&quot;.';
+    'استخدم الخيار التالي لتمكين علامات الاقتباس لـ Rich Editor. لن يتم تطبيق ذلك إلا إذا كان المُنسق الافتراضي هو "Rich".';
 $Definition['Route Expression'] = 'إيضاح المسار';
 $Definition['Routes are used to redirect users.'] = 'تُستخدم المسارات لإعادة توجيه المستخدمين بناءً على عنوان URL المطلوب.
 ';
@@ -202,7 +203,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'لا يحتوي ملف الاستيراد على أي بيانات.';
 $Definition['The import file is not in the correct format.'] = 'ملف الاستيراد ليس بالتنسيق الصحيح.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'موقع jsonp تنسيق بيانات المصادقة.';
-$Definition['ThemeHelp'] = 'تسمح لك المظاهر بتغيير الشكل و&amp; طابع موقعك. <br /> بمجرد إضافة مظهر إلى مجلد %s الخاص بك، يمكنك تمكينه هنا.';
+$Definition['ThemeHelp'] = 'تسمح لك المظاهر بتغيير الشكل و& طابع موقعك. <br /> بمجرد إضافة مظهر إلى مجلد %s الخاص بك، يمكنك تمكينه هنا.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'تقتصر معاينة السمة على عرض قالب السمة و CSS.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'لا يحتوي "مصادق كلمة المرور" على أي خيارات تهيئة مخصصة.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'لا توجد تغييرات هيكل قاعدة البيانات مطلوبة. ومع ذلك، قد تكون هناك تغييرات في البيانات.';
@@ -236,10 +237,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'ي�
 $Definition['Vanilla Export: %s, Source: %s'] = 'تصدير Vanilla: %s, المصدر: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'إحصائيات Vanilla معطلة حالياً';
 $Definition['Video tutorial on advanced settings'] = 'فيديو تعليمي عن الإعدادات المتقدمة';
-$Definition['Video tutorial on finding &amp; managing users'] = 'فيديو تعليمي حول إيجاد و&amp; إدارة المستخدمين';
+$Definition['Video tutorial on finding &amp; managing users'] = 'فيديو تعليمي حول إيجاد و& إدارة المستخدمين';
 $Definition['Video tutorial on managing appearance'] = 'فيديو تعليمي عن إدارة المظاهر';
 $Definition['Video tutorial on managing categories'] = 'فيديو تعليمي عن إدارة الفئات';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'فيديو تعليمي عن إدارة الأدوار و&amp; الأذونات';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'فيديو تعليمي عن إدارة الأدوار و& الأذونات';
 $Definition['Video tutorial on user registration'] = 'فيديو تعليمي عن تسجيل المستخدم';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'تحذير: قد يؤدي تمكين هذه الميزة إلى حدوث أخطاء جافا سكريبت على موقعك.';
@@ -281,8 +282,8 @@ $Definition["Are you sure want to delete this theme? It will be permanently dele
 
 // Preview Page
 $Definition["Welcome To Your Theme"] = "مرحبا بك في موضوعك";
-$Definition["This is a style guide of your theme."] = "هذا هو دليل أسلوب السمة الخاصة بك. يحتوي على أمثلة للعناصر المرئية المستخدمة في جميع أنحاء التطبيق. يمكنك النقر على عناصر واجهة المستخدم المختلفة مثل شريط العنوان &lt;0&gt; </0> أو &lt;1&gt; بانر </1> لتعديل خصائصهم في اللوحة الجانبية.";
-$Definition["In additon to the widgets there are also"] = "بالإضافة إلى الأدوات ، هناك أيضًا &lt;0&gt; أنماط عالمية </0> . لتحرير الأنماط العامة ، انقر في أي مكان آخر على الصفحة ، مثل هذا النص.";
+$Definition["This is a style guide of your theme."] = "هذا هو دليل أسلوب السمة الخاصة بك. يحتوي على أمثلة للعناصر المرئية المستخدمة في جميع أنحاء التطبيق. يمكنك النقر على عناصر واجهة المستخدم المختلفة مثل شريط العنوان <0> </0> أو <1> بانر </1> لتعديل خصائصهم في اللوحة الجانبية.";
+$Definition["In additon to the widgets there are also"] = "بالإضافة إلى الأدوات ، هناك أيضًا <0> أنماط عالمية </0> . لتحرير الأنماط العامة ، انقر في أي مكان آخر على الصفحة ، مثل هذا النص.";
 $Definition["There are two types of buttons in the application: primary and secondary."] = "هناك نوعان من الأزرار في التطبيق: الأساسي والثانوي.";
 $Definition["Primary Button"] = "الزر الأساسي";
 $Definition["Secondary Button"] = "الزر الثانوي";
@@ -308,7 +309,7 @@ $Definition["Font Name"] = "اسم الخط";
 $Definition["Invalid URL"] = "URL غير صالح";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "يمكنك تحميل خط مخصص في نظام Theming الخاص بك. ما عليك سوى نسخ ولصق عنوان URL في الحقل.";
 $Definition["You can configure some values differently for different screensizes."] = "يمكنك تكوين بعض القيم بشكل مختلف لأحجام الشاشات المختلفة.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "تحتاج إلى إضافة مجال عنوان url للخط إلى &lt;0&gt; سمح المجال </0> ، في تكوين الموقع. &lt;1&gt; تعرف على المزيد حول الخطوط المخصصة. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "تحتاج إلى إضافة مجال عنوان url للخط إلى <0> سمح المجال </0> ، في تكوين الموقع. <1> تعرف على المزيد حول الخطوط المخصصة. </1> .";
 
 $Definition["Primary Buttons"] = "الأزرار الأساسية";
 $Definition["Secondary Buttons"] = "الأزرار الثانوية";

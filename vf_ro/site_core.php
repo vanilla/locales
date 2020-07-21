@@ -17,8 +17,6 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s a scris la %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s i-a aprobat lui %2$s aplicația de membru.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s a creat un cont pentru %1$s.';
-$Definition['%s$1 to %s$2'] = '%s$1 la %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 la %s$2 de %s$3';
 $Definition['%s (Current)'] = '%s (Actual)';
 $Definition['%s: %s'] = '%s: %s';
 $Definition['%s Agrees'] = '%s Este de acord';
@@ -107,7 +105,7 @@ $Definition['%s WTFs'] = '%s Ce?!';
 $Definition['%s year'] = 'anul %s ';
 $Definition['%s years'] = 'anii %s ';
 
-$Definition['&laquo; hide previous quotes'] = '&laquo; ascunde citatele anterioare';
+$Definition['&laquo; hide previous quotes'] = '« ascunde citatele anterioare';
 $Definition['&raquo; show previous quotes'] = '%raquo; arată citate anterioare';
 
 $Definition['(All)'] = '(Toate)';
@@ -123,13 +121,14 @@ $Definition[' - Page %s'] = '- Pagina %s';
 $Definition['1 message'] = '1 mesaj';
 
 $Definition['<General Error>'] = '<Eroare Generala>';
-$Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$ s</strong> (%2$ s) %3$ s';
+$Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
+$Definition["<0/>-<1/> of <2/>"] = "<0/>-<1/> din <2/>";
 $Definition["<0/> by <1/>"] = "<0/> de <1/>";
 $Definition["<0/> message"] = "<0/> mesaj";
 $Definition["<0/> messages"] = "<0/> mesaje";
 $Definition["<0/> - Events"] = "<0/> - Evenimente";
 
-$Definition['[%1$s] %2$s'] = '[%1$ s] %2$ s';
+$Definition['[%1$s] %2$s'] = '[%1$s] %2$s';
 $Definition['[%1$s] Membership Approved'] = '[%1$s] Cererea de membru aprobată!';
 $Definition['[%s] Welcome Aboard!'] = '[%s] Bun Venit!';
 $Definition['[Deleted User]'] = '[Utilizator șters]';
@@ -203,6 +202,7 @@ $Definition['All Bookmarks'] = 'Toate Bookmark-urile';
 $Definition['All Badges'] = 'Toate ecusoanele';
 $Definition['All Categories'] = 'Toate Categoriile';
 $Definition['all categories'] = 'toate categoriile';
+$Definition['All Content'] = 'Tot conținutul';
 $Definition['All Conversations'] = 'Toate conversațiile';
 $Definition['All Discussions'] = 'Toate discuțiile';
 $Definition['All discussions marked as viewed.'] = 'Marchează toate discuțiile ca citit. ';
@@ -337,6 +337,7 @@ $Definition['CategoriesShowFollowed'] = 'Afișare doar categorii urmărite';
 $Definition['CategoriesShowUnfollowed'] = 'Afișare categorii ascunse';
 $Definition['CategoriesViewingAll'] = 'Momentan vizualizați toate categoriile.';
 $Definition['CategoriesViewingFollowed'] = 'Momentan vizualizați doar categoriile pe care le urmăriți.';
+$Definition['Categories & Groups'] = 'Categorii și grupuri';
 $Definition['Category'] = 'Categorie';
 $Definition['Category does not exist.'] = 'Categoria nu există.';
 $Definition['Category Filter'] = 'Filtru categorii';
@@ -452,6 +453,7 @@ $Definition['Date Added'] = 'Dată adaugată';
 $Definition['Date Ignored'] = 'Dată ignorată';
 $Definition["Date Input"] = "Introducere dată";
 $Definition['Date Examples'] = 'Exemple: Luni, astăzi, săptămâna trecută, 26 martie, 3/26/04';
+$Definition["Date Created"] = "Data creării";
 $Definition["Date Updated"] = "Dată actualizată";
 $Definition['Date within'] = 'Data în cadrul';
 $Definition['Day'] = 'Ziua';
@@ -477,6 +479,7 @@ $Definition['Delete Group'] = 'Ştergeți grup';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'Stergeți utilizator ți tot conținutul acestui utilizator. Această acțiune cauzează eliminarea din discuții, apărând ca și cum oamenii răspund la conținut care nu există. Aceasta este o opțiune perfectă pentru eliminarea conținutului spam.';
 $Definition['Delete User Content'] = 'Ștergeți conținutul utilizatorului';
 $Definition['Delete User Forever'] = 'Ștergeți utilizatorul pentru TOTDEUNA';
+$Definition['Deleting...'] = 'Se șterge...';
 $Definition['Deny'] = 'Refuzați';
 $Definition['Deny Applicant'] = 'Refuzați';
 $Definition['Description'] = 'Descriere';
@@ -492,6 +495,7 @@ $Definition['discussions'] = 'discuţii';
 $Definition['Discussions Page'] = 'Pagina discuțiilor';
 $Definition['Discussion List'] = 'Listă discuții';
 $Definition['Discussion marked as noindex'] = 'Discuție marcată ca neindexabilă';
+$Definition['Discussion Not Found'] = 'Discuția nu a fost găsită';
 $Definition['Discussion Title'] = 'Titlul discuției';
 $Definition['Discussion Type'] = 'Discuţie';
 $Definition['Dislike'] = 'Nu-mi Place';
@@ -544,7 +548,7 @@ $Definition['Edit Thumbnail'] = 'Editare miniatură';
 $Definition['Eighth Anniversary'] = 'Cea de-a 8-a Aniversare';
 $Definition['Email'] = 'E-mail';
 $Definition['Email/Username'] = 'Email/Nume Utilizator';
-$Definition['EmailConfirmEmail'] = 'Trebuie să confirmați adresa de E-mail înainte de a continua. Vă rugăm să confirmaţi adresa de E-mail făcând click pe link-ul următor: {/ entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['EmailConfirmEmail'] = 'Trebuie să confirmați adresa de E-mail înainte de a continua. Vă rugăm să confirmaţi adresa de E-mail făcând click pe link-ul următor: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 O zi placuta!';
 $Definition['EmailHeader'] = 'Bună ziua, {User.Name}!
@@ -569,7 +573,7 @@ $Definition['EmailPassword'] = '%2$s a resetat parola dumneavoastră pe %3$s. Da
 
   Email: %6$s
   Parola: %5$s
-  Adresa Url: %4$s';
+  Adresa URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail-ul trimis de la aplicație va fi adresat de la acest Nume și această Adresă';
 $Definition['Email Source'] = 'E-mail';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -719,19 +723,19 @@ $Definition['Have a great day!'] = 'Să aveți o zi plăcută!';
 $Definition['he'] = 'el';
 $Definition['Heading'] = 'Rubrică';
 $Definition["Heading 2"] = "Rubrica 2";
-$Definition["Heading 3"] = "Titlul 3";
+$Definition["Heading 3"] = "Rubrica 3";
 $Definition["Heading 4"] = "Rubrica 4";
 $Definition["Heading 5"] = "Rubrica 5";
 $Definition['Heading %s'] = 'Titlu %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} a acceptat răspunsul {NotifyUserID,your}.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} a răspuns la întrebarea dumneavoastră: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, You} ați câştigat insigna <a href="{Url,html}"> {Data.Name,text}</a>.';
-$Definition['HeadlineFormat.Ban'] = '{RegardingUserID, tine} a blocat {ActivityUserID, you}.';
+$Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} a blocat {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} a comentat la <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} v-a trimis un <a href="{Url,html}">mesaj</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID, utilizator} a început o nouă discuţie. <a href="{Url,html}"> {Data.Name,text}</a>';
-$Definition['HeadlineFormat.Mention'] = '{ActivityUserID, utilizator} v-a menționat în <a href="{Url,html}"> {Data.Name,text}</a>';
-$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID, You} a schimbat poza de profil pentru {ActivityUserID, utilizator}.';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} a început o nouă discuţie. <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} v-a menționat în <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} a schimbat poza de profil pentru {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} s-a alăturat';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} deblocat {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} avertizat {RegardingUserID,you}.';
@@ -746,7 +750,7 @@ $Definition['her'] = 'al ei';
 $Definition['Hide'] = 'Ascunde';
 $Definition['hide'] = 'ascunde';
 $Definition['Hide my online status from other members'] = 'Ascunde statusul meu online pentru alţi membri';
-$Definition['Hide previous quotes'] = '&laquo; ascunde citatele anterioare';
+$Definition['Hide previous quotes'] = '« ascunde citatele anterioare';
 $Definition['Hide Results'] = 'Ascunde rezultatele';
 $Definition['Hide signatures?'] = 'Ascunzi semnatura?';
 $Definition['Hide signatures always'] = 'Ascunde semnatura intotdeauna';
@@ -853,6 +857,7 @@ $Definition["Kilobyte"] = "Kilobyte";
 
 $Definition['Label'] = 'Eticheta';
 $Definition['Last Active'] = 'Ultima data activ';
+$Definition['Last Commented'] = 'Ultimul comentariu';
 $Definition['Last IP'] = 'Ultimul IP';
 $Definition['lasts %s'] = 'dureaza %s';
 $Definition['Last Updated'] = 'Cea mai recentă actualizare';
@@ -1022,9 +1027,10 @@ $Definition['New Password'] = 'Parolă nouă';
 $Definition['New Poll'] = 'Votare nouă';
 $Definition['New Post'] = 'Postare nouă';
 $Definition['Next'] = 'Urmatorul';
+$Definition['Next Page'] = 'Pagina următoare';
 $Definition['Ninth Anniversary'] = 'a 9-a Aniversare';
 $Definition['No'] = 'NU';
-$Definition['NoBadgesEarned'] = 'Orice minut acum &hellip;';
+$Definition['NoBadgesEarned'] = 'Orice minut acum …';
 $Definition['No badges yet.'] = 'Nici o panglica momentan.';
 $Definition['Nobody has confirmed their attendance yet.'] = 'Nimeni nu și-a confirmat încă participarea';
 $Definition['Nobody has declined the invitation so far.'] = 'Nimeni nu a refuzat până în prezent invitaţia ';
@@ -1127,11 +1133,9 @@ $Definition['Password'] = 'Parola';
 $Definition['Password Contains Username'] = 'Conţine numele de utilizator';
 $Definition['Password Good'] = 'Bun';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Schimbare parola %1$s,
+$Definition['PasswordRequest'] = 'Cineva, poate chiar tu, a incercat sa schimbe parola de pe %2$s. Daca doresti resetarea parolei, urmeaza acest link:
 
-Cineva, poate chiar tu, a incercat sa schimbe parola de pe %2$s. Daca doresti resetarea parolei, urmeaza acest link:
-
-  %3$s
+%3$s
 
 Daca nu tu ai cerut schimbarea, NU da click pe link-ul respectiv.!';
 $Definition['Passwords don\'t match'] = 'Parola nu se potriveste!';
@@ -1196,6 +1200,7 @@ $Definition['PreferenceRankPopup'] = 'Anunță-mă când rangul meu se modifică
 $Definition['Preferences'] = 'Preferințe';
 $Definition['Preview'] = 'Previzualizare';
 $Definition['Previous'] = 'Anterior';
+$Definition['Previous Page'] = 'Pagina precedentă';
 $Definition['Privacy'] = 'Confidențialitate';
 $Definition['Privacy Settings'] = 'Setari personale';
 $Definition['<0>Privacy Policy</0> and '] = '<0>Politica de confidențialitate</0> și <1>Condiții de furnizare a serviciilor</1>';
@@ -1291,7 +1296,7 @@ $Definition['Rename Forum'] = 'Redenumire Forum';
 $Definition['Reopen'] = 'Redeschide';
 $Definition['Replies'] = 'rasopunde';
 $Definition['Reply'] = 'Raspunde';
-$Definition['ReplyOnly'] = 'Vă pot răspunde la acest e-mail direct pentru a urmări. Trimis de la {, exurl}.';
+$Definition['ReplyOnly'] = 'Vă pot răspunde la acest e-mail direct pentru a urmări. Trimis de la {/,exurl}.';
 $Definition['ReplyOrFollow'] = 'Răspundeţi la acest e-mail direct sau urmaţi link-ul de mai jos pentru a verifica:';
 $Definition['Report'] = 'Raport';
 $Definition['Report %s'] = 'Raport %s';
@@ -1310,6 +1315,8 @@ $Definition['Reset Your Password'] = 'Resetați parola';
 $Definition['Restore'] = 'Restaurare';
 $Definition['Restored'] = 'Restaurat';
 $Definition['Restore deleted content.'] = 'Restabilește conținutul șters.';
+$Definition['Result(s) <0/> to <1/> of <2/>'] = 'Rezultat(e) <0/> - <1/> din <2/>';
+$Definition['Search for: "%s"'] = 'Căutați: "%s"';
 $Definition['Return to %s'] = 'Întorceți-vă la %s';
 $Definition['Reveal'] = 'Afişează';
 $Definition['reverse'] = 'inversat';
@@ -1352,15 +1359,19 @@ $Definition['Save your password'] = 'Salvare Parolă';
 $Definition['Search'] = 'Cauta';
 $Definition['Search %s'] = 'Căutaţi %s';
 $Definition['search archived'] = 'Căutare arhivată';
+$Definition['Search archived'] = 'Căutați printre elementele arhivate';
 $Definition['SearchBoxPlaceHolder'] = 'Cauta';
 $Definition["Search for <0/>"] = "Căutare după <0/>";
+$Definition['Search for a category'] = 'Căutați o categorie';
 $Definition['Search for a tag.'] = 'Căutare pentru toate sau o parte din o etichetă.';
 $Definition['Search group members'] = 'Caută membrii grupului';
 $Definition['Search Groups'] = 'Căutare grupuri';
 $Definition['Search groups'] = 'Căutare grupuri';
 $Definition['search only in followed categories'] = 'caută numai în categoriile urmărite';
+$Definition['Search only followed Categories'] = 'Căutați numai categoriile urmărite';
 $Definition['Search results for \'%s\''] = 'Rezultatele cautari pentru " \'%s\' "';
 $Definition['search subcategories'] = 'Căutaţi subcategorii';
+$Definition['Search Subcategories'] = 'Căutați în subcategorii';
 $Definition['Second Anniversary'] = 'A 2-a Aniversare';
 $Definition['Secret'] = 'Secret';
 $Definition['Sections'] = 'Sectiuni';
@@ -1686,6 +1697,7 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = 'N
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Numele de utilizator poate conţine numai litere și cifre şi trebuie să fie între 3 şi 20 caractere.';
 $Definition['UsernameError'] = 'Numele de utilizator poate conţine numai litere și cifre şi trebuie să fie între 3 şi 20 caractere.';
 $Definition['Username or email'] = 'Utilizator sau E-mail';
+$Definition['User Not Found'] = 'Utilizatorul nu a fost găsit';
 $Definition['User not found.'] = 'Ne pare rău, dar nu s-a găsit Utilizatorul/E-mailul pe care l-ați introdus';
 $Definition['Users'] = 'Utilizatori';
 $Definition['Users Count'] = 'Numărul de utilizatori';
@@ -1707,10 +1719,10 @@ $Definition['ValidateMinimumAge'] = 'Nu aveți vârsta necesară pentru a accesa
 $Definition['ValidateMinLength'] = '%1$s este cu %2$s caractere prea scurt';
 $Definition['ValidateMinLengthPlural'] = '%1$s este cu %2$s caractere prea scurt.';
 $Definition['ValidateMinLengthSingular'] = '%1$s este cu %2$s caractere prea scurt.';
-$Definition['ValidateOneOrMoreArrayItemRequired'] = 'Trebuie sa selectati cel pu';
+$Definition['ValidateOneOrMoreArrayItemRequired'] = 'Trebuie să selectați cel puțin un %s.';
 $Definition['ValidateRegex'] = '%s nu pare sa fie in formatul corect.';
 $Definition['ValidateRequired'] = '%s este necesar.';
-$Definition['ValidateRequiredArray'] = 'Trebuie sa selectati cel pu';
+$Definition['ValidateRequiredArray'] = 'Trebuie să selectați cel puțin un %s.';
 $Definition['ValidateStrength'] = '%s introdusă este insuficient de puternică. Încearcă să folosești o parolă mai complexă, ghidându-te după contorul de complexitate.';
 $Definition['ValidateString'] = '%s nu este o serie valabilă';
 $Definition['ValidateTag'] = 'Etichetele nu pot conține spații';
@@ -1952,7 +1964,8 @@ $Definition['Format as Strikethrough'] = 'Formatare ca tăiere text cu o linie';
 $Definition['Strikethrough'] = 'Tăiat cu o linie';
 $Definition['Format as Inline Code'] = 'Formatare ca și cod în linie';
 $Definition['Paragraph Code Block'] = 'Bloc de cod';
-$Definition["Paragraph (Removes paragraph style and sets to plain paragraph)"] = "Paragraf (elimină stilul paragrafului și setează la paragraf simplu)";
+$Definition['Parent'] = 'Părinte';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paragraf (elimină stilul paragrafului și setează la paragraf simplu)';
 $Definition['Code Block'] = 'Bloc de cod';
 $Definition['Format as Link'] = 'Formatare ca Link';
 $Definition['Link'] = 'Link';

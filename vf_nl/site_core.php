@@ -17,15 +17,13 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s schreef op %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s heeft %2$s lidmaatschapsaanvraag goedgekeurd.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s heeft een account gemaakt voor %1$s.';
-$Definition['%s$1 to %s$2'] = '%s$1 naar %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%1$s naar %2$s van %3$s';
 $Definition['%s (Current)'] = '%s (Huidige)';
 $Definition['%s: %s'] = '%s: %s';
 $Definition['%s Agrees'] = '%s Mee eens';
 $Definition['%s and %s others'] = '%s en %s anderen';
 $Definition['%s and you'] = '%s en jij';
 $Definition['%s Answer'] = '%s antwoord';
-$Definition['%s Answers'] = '% Antwoorden';
+$Definition['%s Answers'] = '%s Antwoorden';
 $Definition['%s Awesomes'] = '%s Geweldigs';
 $Definition['%s by %s'] = '%s bij %s';
 $Definition['%s changed %s\'s permissions.'] = '%s veranderde %s\'s rechten.';
@@ -124,6 +122,7 @@ $Definition['1 message'] = '1 bericht';
 
 $Definition['<General Error>'] = '<Algemene Foutmelding>';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
+$Definition["<0/>-<1/> of <2/>"] = "<0/>-<1/> van <2/>";
 $Definition["<0/> by <1/>"] = "<0/> door <1/>";
 $Definition["<0/> message"] = "<0/> bericht";
 $Definition["<0/> messages"] = "<0/> berichten";
@@ -203,6 +202,7 @@ $Definition['All Bookmarks'] = 'Alle Bladwijzers';
 $Definition['All Badges'] = 'Alle badges';
 $Definition['All Categories'] = 'Alle Categorieën';
 $Definition['all categories'] = 'alle categorieën';
+$Definition['All Content'] = 'Alle inhoud';
 $Definition['All Conversations'] = 'Alle Gesprekken';
 $Definition['All Discussions'] = 'Alle Discussies';
 $Definition['All discussions marked as viewed.'] = 'Markeer alle discussies als gelezen';
@@ -337,6 +337,7 @@ $Definition['CategoriesShowFollowed'] = 'Toon alleen gevolgde categorieën';
 $Definition['CategoriesShowUnfollowed'] = 'Toon verborgen categorieën';
 $Definition['CategoriesViewingAll'] = 'Je bekijkt momenteel alle categorieën.';
 $Definition['CategoriesViewingFollowed'] = 'Je bekijkt momenteel alleen categorieën die je aan het volgen bent.';
+$Definition['Categories & Groups'] = 'Categorieën & groepen';
 $Definition['Category'] = 'Categorie';
 $Definition['Category does not exist.'] = 'Categorie bestaat niet.';
 $Definition['Category Filter'] = 'Categoriefilter';
@@ -452,6 +453,7 @@ $Definition['Date Added'] = 'Datum Toegevoegd';
 $Definition['Date Ignored'] = 'Datum genegeerd';
 $Definition["Date Input"] = "Datum invoer";
 $Definition['Date Examples'] = 'Voorbeelden: maandag, vandaag, vorige week, 26 maart, 3/26/04';
+$Definition["Date Created"] = "Datum aangemaakt";
 $Definition["Date Updated"] = "Datum bijgewerkt";
 $Definition['Date within'] = 'Datum in';
 $Definition['Day'] = 'Dag';
@@ -477,6 +479,7 @@ $Definition['Delete Group'] = 'Verwijder Groep';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'Verwijder de gebruiker en alle gebruikersinhoud. Dit zal zorgen dat discussies uit elkaar vallen, waardoor het lijkt alsof mensen reageren op berichten die er niet zijn. Dit is een geweldige optie voor het verwijderen van spamberichten.';
 $Definition['Delete User Content'] = 'Verwijder Gebruikersinhoud';
 $Definition['Delete User Forever'] = 'Verwijder Gebruiker voor Altijd';
+$Definition['Deleting...'] = 'Bezig met verwijderen...';
 $Definition['Deny'] = 'Weigeren';
 $Definition['Deny Applicant'] = 'Weigeren';
 $Definition['Description'] = 'Beschrijving';
@@ -492,6 +495,7 @@ $Definition['discussions'] = 'gesprekken';
 $Definition['Discussions Page'] = 'Discussies pagina';
 $Definition['Discussion List'] = 'Discussielijst';
 $Definition['Discussion marked as noindex'] = 'Discussie gemarkeerd als noindex';
+$Definition['Discussion Not Found'] = 'Discussie niet gevonden';
 $Definition['Discussion Title'] = 'Discussietitel';
 $Definition['Discussion Type'] = 'Discussie';
 $Definition['Dislike'] = 'Afkeer';
@@ -571,15 +575,11 @@ Volg deze link om het te bekijken:
 Fijne dag verder!';
 $Definition['Email Notifications'] = 'E-mail Notificaties';
 $Definition['Email Or Username'] = 'E-mail of gebruikersnaam';
-$Definition['EmailPassword'] = 'Hallo %1$s,
-
-%2$s heeft je wachtwoord gereset bij %3$s. Je inloggegevens zijn nu als volgt:
+$Definition['EmailPassword'] = '%2$s heeft je wachtwoord gereset bij %3$s. Je inloggegevens zijn nu als volgt:
 
   E-mail: %6$s
   Wachtwoord: %5$s
-  Url: %4$s
-
-Fijne dag verder!';
+  URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'E-mail verzonden vanuit de applicatie zal verwijzen naar onderstaande naam en e-mailadres.';
 $Definition['Email Source'] = 'E-mail';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -745,7 +745,7 @@ $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} heeft de <a href="{U
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} heeft {ActivityUserID,you} verbannen.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} reageerde op <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} stuurde je een  <a href="{Url,html}">bericht</a>';
-$Definition['HeadlineFormat.Discussion'] = '{ActiviteitGebruikersID,gebruiker} heeft een nieuwe discussie gestart. <a href="{Url,html}">{Gegevens.Naam,tekst}</a>';
+$Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} heeft een nieuwe discussie gestart. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} noemde jouw in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} veranderde de profielfoto voor {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} is geregistreerd.';
@@ -869,6 +869,7 @@ $Definition["Kilobyte"] = "Kilobyte";
 
 $Definition['Label'] = 'Etiket';
 $Definition['Last Active'] = 'Laatst Actief';
+$Definition['Last Commented'] = 'Voor het laatst opmerking geplaatst';
 $Definition['Last IP'] = 'Laatste IP';
 $Definition['lasts %s'] = 'duurt %s';
 $Definition['Last Updated'] = 'Laatst bijgewerkt';
@@ -1038,6 +1039,7 @@ $Definition['New Password'] = 'Nieuw Wachtwoord';
 $Definition['New Poll'] = 'Nieuwe Poll';
 $Definition['New Post'] = 'Nieuw bericht';
 $Definition['Next'] = 'Volgende';
+$Definition['Next Page'] = 'Volgende pagina';
 $Definition['Ninth Anniversary'] = 'Negende Verjaardag';
 $Definition['No'] = 'Nee';
 $Definition['NoBadgesEarned'] = 'Bijna&hellip;';
@@ -1142,9 +1144,7 @@ $Definition['Password'] = 'Wachtwoord';
 $Definition['Password Contains Username'] = 'Bevat Gebruikersnaam';
 $Definition['Password Good'] = 'Goed';
 $Definition['Password Ok'] = 'Oké';
-$Definition['PasswordRequest'] = 'Hallo %1$s,
-
-Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen: 
+$Definition['PasswordRequest'] = 'Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen: 
 
   %3$s
 
@@ -1211,6 +1211,7 @@ $Definition['PreferenceRankPopup'] = 'Laat me weten wanneer mijn rang is verande
 $Definition['Preferences'] = 'Voorkeuren';
 $Definition['Preview'] = 'Voorbeeld';
 $Definition['Previous'] = 'Vorige';
+$Definition['Previous Page'] = 'Vorige pagina';
 $Definition['Privacy'] = 'Privacy';
 $Definition['Privacy Settings'] = 'Privacyinstellingen';
 $Definition['<0>Privacy Policy</0> and '] = '<0>Privacybeleid</0> en <1>Servicevoorwaarden</1>';
@@ -1325,6 +1326,8 @@ $Definition['Reset Your Password'] = 'Stel je wachtwoord opnieuw in ';
 $Definition['Restore'] = 'Herstel';
 $Definition['Restored'] = 'Hersteld';
 $Definition['Restore deleted content.'] = 'Verwijderde content herstellen.';
+$Definition['Result(s) <0/> to <1/> of <2/>'] = 'Resultaat <0/> tot <1/> van <2/>';
+$Definition['Search for: "%s"'] = 'Zoek op: "%s"';
 $Definition['Return to %s'] = 'Terug naar %s';
 $Definition['Reveal'] = 'Weergeven';
 $Definition['reverse'] = 'omgekeerd';
@@ -1367,15 +1370,19 @@ $Definition['Save your password'] = 'Sla je wachtwoord op';
 $Definition['Search'] = 'Zoeken';
 $Definition['Search %s'] = 'Zoek naar %s';
 $Definition['search archived'] = 'zoek in archief';
+$Definition['Search archived'] = 'Zoekopdracht gearchiveerd';
 $Definition['SearchBoxPlaceHolder'] = 'Zoeken';
 $Definition["Search for <0/>"] = "Zoeken naar <0/>";
+$Definition['Search for a category'] = 'Zoek op een categorie';
 $Definition['Search for a tag.'] = 'Zoek voor alles of voor een deel van een tag.';
 $Definition['Search group members'] = 'Zoek groepsleden';
 $Definition['Search Groups'] = 'Groepen Doorzoeken';
 $Definition['Search groups'] = 'Groepen doorzoeken:';
 $Definition['search only in followed categories'] = 'zoek enkel in gevolgde categorieën';
+$Definition['Search only followed Categories'] = 'Doorzoek enkel gevolgde categorieën';
 $Definition['Search results for \'%s\''] = 'Zoekresultaten voor \'%s\'';
 $Definition['search subcategories'] = 'zoek in subcategorieën';
+$Definition['Search Subcategories'] = 'Doorzoek subcategorieën';
 $Definition['Second Anniversary'] = 'Tweede verjaardag';
 $Definition['Secret'] = 'Geheim';
 $Definition['Sections'] = 'Secties';
@@ -1414,7 +1421,7 @@ $Definition['Signature Code'] = 'Handtekeningcode';
 $Definition['Signature hidden.'] = 'Handtekening verborgen.';
 $Definition['Signature invalid.'] = 'Handtekening ongeldig.';
 $Definition['Signatures'] = 'Handtekeningen';
-$Definition['Signatures can be up to {maxLength} characters long.'] = 'Handtekeningen kunnen maximaal (maxLength) tekens bevatten. ';
+$Definition['Signatures can be up to {maxLength} characters long.'] = 'Handtekeningen kunnen maximaal {maxLength} tekens bevatten. ';
 $Definition['Signature Settings'] = 'Handtekening Instellingen';
 $Definition['SignIn'] = 'Inloggen';
 $Definition['Sign In'] = 'Inloggen';
@@ -1667,6 +1674,7 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = 'G
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Gebruikersnaam kan alleen letters, cijfers en underscores bevatten en moet tussen 3 en 20 karakters lang zijn.';
 $Definition['UsernameError'] = 'Gebruikersnaam kan alleen letters, cijfers en underscores bevatten en moet tussen 3 en 20 karakters lang zijn.';
 $Definition['Username or email'] = 'Gebruikersnaam of e-mailadres';
+$Definition['User Not Found'] = 'Gebruiker niet gevonden';
 $Definition['User not found.'] = 'Sorry, er is geen account gevonden gerelateerd aan het ingevoerde e-mailadres en wachtwoord.';
 $Definition['Users'] = 'Gebruikers';
 $Definition['Users Count'] = 'Aantal Gebruikers';
@@ -1934,7 +1942,8 @@ $Definition['Format as Strikethrough'] = 'Doorstrepen';
 $Definition['Strikethrough'] = 'Doorhalen';
 $Definition['Format as Inline Code'] = 'Opmaken als inline code';
 $Definition['Paragraph Code Block'] = 'Codeblok';
-$Definition["Paragraph (Removes paragraph style and sets to plain paragraph)"] = "Alinea (verwijdert alineastijl en stelt gewone alinea in)";
+$Definition['Parent'] = 'Ouder';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Alinea (verwijdert alineastijl en stelt gewone alinea in)';
 $Definition['Code Block'] = 'Codeblok';
 $Definition['Format as Link'] = 'Opmaken als link';
 $Definition['Link'] = 'Link';

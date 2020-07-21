@@ -1,7 +1,7 @@
 <?php
-$Definition['%1$s accepted %4$s invitation for membership.'] = '%1 קיבל את ההזמנה של %4$ לחברות';
+$Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s קיבל את ההזמנה של %4$s לחברות';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s שינה%4$ss הרשאות';
-$Definition['%1$s changed %6$s profile picture.'] = '%1$s שינה %1$s תמונת פרופיל';
+$Definition['%1$s changed %6$s profile picture.'] = '%1$s שינה %6$s תמונת פרופיל';
 $Definition['%1$s commented on %4$s %8$s.'] = '%1$s הגיב על %4$ss %8$ss';
 $Definition['%1$s created an account for %4$s.'] = '%1$s יצר חשבון ל %4$ss';
 $Definition['%1$s joined.'] = '%1$s הצטרף';
@@ -10,15 +10,13 @@ $Definition['%1$s on %2$s'] = '%1$s ב %2$s';
 $Definition['%1$s signed in.'] = '%1$s התחבר';
 $Definition['%1$s to %2$s'] = '%1$s ל %2$s$s';
 $Definition['%1$s to %2$s of %3$s'] = '%1$s אל%2$s  s של %3$s';
-$Definition['%1$s updated %6$s profile.'] = '%1$s עדכן את הפרופיל של %6s';
+$Definition['%1$s updated %6$s profile.'] = '%1$s עדכן את הפרופיל של %6$s';
 $Definition['%1$s was added to the %2$s %3$s.'] = '%1$s הוסף ל %2$s %3$s';
 $Definition['%1$s was removed from the %2$s %3$s.'] = '%1$s הוסר מה %2$s %3$s';
 $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] = '%1$s הוסר מה %2$s %3$s וצורף ל %4$s %5$s';
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s כתב על %4$s %5$s';
-$Definition['%3$s approved %2$s membership application.'] = '%1$s אישר את בקשת החברות של %1$s';
-$Definition['%3$s created an account for %1$s.'] = '%1$s יצר חשבון ל %1$s';
-$Definition['%s$1 to %s$2'] = '%1$s ל %1$s';
-$Definition['%s$1 to %s$2 of %s$3'] = '%1$s ל %1$s של %1$s';
+$Definition['%3$s approved %2$s membership application.'] = '%3$s אישר את בקשת החברות של %2$s';
+$Definition['%3$s created an account for %1$s.'] = '%3$s יצר חשבון ל %1$s';
 $Definition['%s (Current)'] = '%s (עכשוי)';
 $Definition['%s: %s'] = '%s: %s';
 $Definition['%s Agrees'] = '%s מסכים';
@@ -71,7 +69,7 @@ $Definition['%s new'] = '%s חדש';
 $Definition['%s new comment since you last read this.'] = '%s הודעה חדשה מאז הפעם האחרונה שקראת ';
 $Definition['%s new comments since you last read this.'] = '%s הודעה חדשה מאז הפעם האחרונה שקראת ';
 $Definition['%s New Plural'] = '%s חדשים';
-$Definition['%s new plural'] = '%s חדש';
+$Definition['%s new plural'] = '%s חדשים';
 $Definition['%s Not Found'] = '%s לא נמצא';
 $Definition['%s not found.'] = '%s לא נמצא.';
 $Definition['%s of %s'] = '%s של %s';
@@ -103,12 +101,12 @@ $Definition['%s votes'] = '%s הצבעות';
 $Definition['%s was removed from the %s and added to the %s'] = '%s הוסר מה %s וצורף ל %s';
 $Definition['%s week'] = '%s שבוע';
 $Definition['%s weeks'] = '%s שבועות';
-$Definition['%s WTFs'] = 'WTFs';
+$Definition['%s WTFs'] = '%s WTFs';
 $Definition['%s year'] = '%s שנה';
 $Definition['%s years'] = '%s שנים';
 
-$Definition['&laquo; hide previous quotes'] = '&laquo; הסתר ציטוטים קודמים';
-$Definition['&raquo; show previous quotes'] = '&raquo; הראה ציטוטים קודמים';
+$Definition['&laquo; hide previous quotes'] = '« הסתר ציטוטים קודמים';
+$Definition['&raquo; show previous quotes'] = '» הראה ציטוטים קודמים';
 
 $Definition['(All)'] = '(הכל)';
 $Definition['(empty message)'] = '(הודעה ריקה)';
@@ -124,6 +122,7 @@ $Definition['1 message'] = 'הודעה 1';
 
 $Definition['<General Error>'] = '<שגיאה כללית>';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
+$Definition["<0/>-<1/> of <2/>"] = "<0/>-<1/> מתוך<2/>";
 $Definition["<0/> by <1/>"] = "<0/> by <1/>";
 $Definition["<0/> message"] = "הודעה <0/> ";
 $Definition["<0/> messages"] = "<0/> הודעות";
@@ -152,9 +151,9 @@ $Definition['Activate'] = 'הפעל';
 $Definition['Active'] = 'פעיל';
 $Definition['Active Users'] = 'משתמשים פעילים';
 $Definition['Activity'] = 'פעילות';
-$Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s קיבל %1$s %1$s';
-$Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s הגיב על ה %1$s שלך';
-$Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s הגיב על ה %1$s שלך';
+$Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s קיבל %4$s %8$s';
+$Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s הגיב על ה %8$s שלך';
+$Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s הגיב על ה %8$s שלך';
 $Definition['Activity.Comment'] = 'הגב';
 $Definition['Activity.CommentMention.FullHeadline'] = '%1$s ציין %3$s s ב %8$s .';
 $Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s ציין %3$s s ב %8$s .';
@@ -162,9 +161,9 @@ $Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s שלח לך %8$
 $Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s שלח לך %8$s';
 $Definition['Activity.Join.FullHeadline'] = '%1$s הצטרף';
 $Definition['Activity.Join.ProfileHeadline'] = '%1$s הצטרף';
-$Definition['Activity.PictureChange.FullHeadline'] = '%1$s שינה %1$s תמונת פרופיל';
-$Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s שינה %1$s תמונת פרופיל';
-$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s ענה %1$s %1$s';
+$Definition['Activity.PictureChange.FullHeadline'] = '%1$s שינה %6$s תמונת פרופיל';
+$Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s שינה %6$s תמונת פרופיל';
+$Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s ענה %4$s%8$s';
 $Definition['Activity List'] = 'רשימת פעילות';
 $Definition['Add'] = 'הוסף';
 $Definition['Add %s'] = 'הוסף את %s';
@@ -203,6 +202,7 @@ $Definition['All Bookmarks'] = 'כל הסימניות';
 $Definition['All Badges'] = 'כל התגים';
 $Definition['All Categories'] = 'כל הקטגוריות';
 $Definition['all categories'] = 'כל הקטגוריות';
+$Definition['All Content'] = 'כל התוכן';
 $Definition['All Conversations'] = 'כל השיחות';
 $Definition['All Discussions'] = 'כל הדיונים';
 $Definition['All discussions marked as viewed.'] = 'כל השיחות סומנו ככאלה שנצפו';
@@ -337,6 +337,7 @@ $Definition['CategoriesShowFollowed'] = 'הראה רק את הקטגוריות �
 $Definition['CategoriesShowUnfollowed'] = 'הראה קטגוריות מוסתרות';
 $Definition['CategoriesViewingAll'] = 'אתה כרגע רואה את כל הקטגוריות';
 $Definition['CategoriesViewingFollowed'] = 'אתה כרגע רואה רק את הקטגוריות שאתה עוקב אחריהם';
+$Definition['Categories & Groups'] = 'קטגוריות וקבוצות';
 $Definition['Category'] = 'קטגוריה';
 $Definition['Category does not exist.'] = 'הקטגוריה אינה קיימת';
 $Definition['Category Filter'] = 'מסנן קטגוריות';
@@ -404,7 +405,7 @@ $Definition['Confirm Your Email Address'] = 'אמת את כתובת האימיי
 $Definition['Connect'] = 'חבר';
 $Definition['ConnectAccountExists'] = 'יש לך כבר חשבון כאן';
 $Definition['ConnectChooseName'] = 'בחר שם לזהות אותך באתר';
-$Definition['ConnectCreateAccount'] = 'הוסף מידע &amp; צור חשבון';
+$Definition['ConnectCreateAccount'] = 'הוסף מידע & צור חשבון';
 $Definition['Connected'] = 'מחובר';
 $Definition['Connected With: {ProviderName}'] = 'מחובר עם: {ProviderName}';
 $Definition['ConnectExistingPassword'] = 'הזן את הסיסמה של החשבון הקיים שלך.';
@@ -453,6 +454,7 @@ $Definition['Date Added'] = 'תאריך הוסף';
 $Definition['Date Ignored'] = 'תאריך ההתעלמות';
 $Definition["Date Input"] = "קלט תאריך";
 $Definition['Date Examples'] = 'לדוגמא: שני, היום, לפני שבוע, 26 במרץ, 26/3/04';
+$Definition["Date Created"] = "תאריך יצירה";
 $Definition["Date Updated"] = "התאריך עודכן";
 $Definition['Date within'] = 'תאריך ב';
 $Definition['Day'] = 'יום';
@@ -478,6 +480,7 @@ $Definition['Delete Group'] = 'מחק קבוצה';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'מחק את המשתמש ואת כל התוכן של המשתמש. זה יגרום לשיחה להראות קטועה, כאילו אנשים מגיבים לתוכן שלא שם. זוהי אופציה מצוינת להסיר תוכן של ספאמר.';
 $Definition['Delete User Content'] = 'מחק תוכן משתמש';
 $Definition['Delete User Forever'] = 'מחק משתמש לנצח';
+$Definition['Deleting...'] = 'מוחק...';
 $Definition['Deny'] = 'דחה';
 $Definition['Deny Applicant'] = 'דחה';
 $Definition['Description'] = 'תיאור';
@@ -493,6 +496,7 @@ $Definition['discussions'] = 'דיונים';
 $Definition['Discussions Page'] = 'עמוד דיונים';
 $Definition['Discussion List'] = 'רשימת דיון';
 $Definition['Discussion marked as noindex'] = 'הדיון סומן כ- noindex';
+$Definition['Discussion Not Found'] = 'הדיון לא נמצא';
 $Definition['Discussion Title'] = 'כותרת השאלה';
 $Definition['Discussion Type'] = 'דיון';
 $Definition['Dislike'] = 'לא אוהב';
@@ -502,7 +506,7 @@ $Definition['Documentation'] = 'מסמוך.';
 $Definition['Domain is invalid.'] = 'דומיין לא חוקי.';
 $Definition['Don\'t announce.'] = 'אל תכריז';
 $Definition['Don\'t fold quotes'] = 'אל תקפל ציטוטים';
-$Definition['Don\'t have an account? %s'] = 'אין לך חשבון?';
+$Definition['Don\'t have an account? %s'] = 'אין לך חשבון? %s';
 $Definition['Don\'t know'] = 'לא יודע/ת';
 $Definition['Download'] = 'הורדה';
 $Definition['Download the sounds as MP3'] = 'הורידו את השמע לקובץ MP3';
@@ -556,9 +560,9 @@ $Definition['EmailInvitation'] = 'שלום! ⏎
 ⏎
 %3$s
 ';
-$Definition['EmailMembershipApproved'] = 'שלום לך %1$s ⏎
-⏎
-אתה אושרו לחברות. היכנס עכשיו בקישור הבא: ⏎
+$Definition['EmailMembershipApproved'] = 'שלום לך %1$s
+
+אתה אושרו לחברות. היכנס עכשיו בקישור הבא: 
 
 %2$s';
 $Definition['EmailNotification'] = '%1$s
@@ -569,10 +573,10 @@ $Definition['EmailNotification'] = '%1$s
 יום נפלא!';
 $Definition['Email Notifications'] = 'דואר אלקטרוני והודעות ';
 $Definition['Email Or Username'] = 'דוא"ל או שם משתמש';
-$Definition['EmailPassword'] = '%2$s יש לאפס את הסיסמה שלך ב %3$s . אישורי הכניסה שלך נמצאים כעת: ⏎
-⏎
-   דוא"ל: %6$s ⏎
-   סיסמה:%5$s ⏎
+$Definition['EmailPassword'] = '%2$s יש לאפס את הסיסמה שלך ב %3$s . אישורי הכניסה שלך נמצאים כעת: 
+
+   דוא"ל: %6$s 
+   סיסמה:%5$s 
    כתובת:%4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'מייל נשלח מיישום יטופלו משם את הכתובת הבאה ו ';
 $Definition['Email Source'] = 'דוא"ל';
@@ -589,12 +593,12 @@ $Definition['Email Unavailable'] = 'דוא"ל זמין';
 $Definition['Email visible to other users'] = 'שליחת גלויות למשתמשים אחרים';
 $Definition['EmbededDiscussionLinkText'] = 'קרא את הסיפור המלא כאן';
 $Definition['Embedded Media'] = 'מדיה מוטמעת';
-$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{תמונה }<strong>{כותרת}</strong>
-<p>{קטע מתוך }</p>
+$Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image }<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן </a></p><div class="ClearFix"></div></div>';
 $Definition['EmbeddedNoBodyFormat'] = 'כתובת אינטרנט  {Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{תמונה }<strong>{כותרת}</strong>
-<p>{קטע מתוך }</p>
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image }<strong>{Title}</strong>
+<p>{Excerpt}</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן </a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'אמוג׳י';
 $Definition['Emoji Categories'] = 'קטגוריות אימוג׳י';
@@ -734,7 +738,7 @@ $Definition["Heading 3"] = "כותרת 3";
 $Definition["Heading 4"] = "כותרת 4";
 $Definition["Heading 5"] = "כותרת 5";
 $Definition['Heading %s'] = 'כותרת %s';
-$Definition['HeadlineFormat.AcceptAnswer'] = '{משתמש פעיל, אתה} קיבל {משתמש המערכת, שלך} את תגובתך.';
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} קיבל {NotifyUserID,your} את תגובתך.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} ענה לשאלתך:<a href="{Url,html}">
 </a>{Data.Name,text}';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} הרוויח  <a href="{Url,html}">{Data.Name,text}</a> אות הצטיינות';
@@ -744,9 +748,9 @@ $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User}  של
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}  ציין אותך ב  <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}שינה את תמונת המשתמש ל {ActivityUserID,user}.';
-$Definition['HeadlineFormat.Registration'] = '{פעילותשםמשתמש,אתה} הצטרף';
-$Definition['HeadlineFormat.Unban'] = '{לגבישםמשתמש,אתה} כבר לא נאסר {פעילותשםמשתמש,אתה}';
-$Definition['HeadlineFormat.Warning'] = '{פעילותשםמשתמש,אתה} הוזהר {לגבישםמשתמש,אתה}';
+$Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} הצטרף';
+$Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} כבר לא נאסר {ActivityUserID,you}';
+$Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} הוזהר {RegardingUserID,you}';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'הוזהרתם.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'קיבלת <a href="{Url,html}" class="Popup">אזהרה</a>.';
 $Definition['Hello!'] = 'שלום!';
@@ -758,7 +762,7 @@ $Definition['her'] = 'היא';
 $Definition['Hide'] = 'החבא';
 $Definition['hide'] = 'הסתר';
 $Definition['Hide my online status from other members'] = 'אל תציג אותי מחובר לחברים אחרים';
-$Definition['Hide previous quotes'] = '&laquo; הסתר ציטוטים קודמים';
+$Definition['Hide previous quotes'] = '« הסתר ציטוטים קודמים';
 $Definition['Hide Results'] = 'הסתר תוצאות';
 $Definition['Hide signatures?'] = 'החבא חתימות?';
 $Definition['Hide signatures always'] = 'החבא חתימות תמיד';
@@ -771,7 +775,7 @@ $Definition['Howdy, Stranger!'] = 'שלום, אורח!';
 $Definition['How long do you want this warning to last?'] = 'כמה זמן אתה רוצה שההזהרה הזאת תימשך?';
 $Definition['How many levels deep should we start folding up quote trees?'] = 'אחרי כמה רמות תרצה שנתחיל לקפל ציטוטים?';
 
-$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'אני מסכים לתנאי השירות ‪‬במונחים של שירות';
+$Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'אני מסכים <a id="TermsOfService" class="Popup" target="terms" href="%s">לתנאי השירות</a>';
 $Definition['Icon'] = 'אייקון';
 $Definition["Icon for: "] = "אייקון עבור:";
 $Definition['I confirm that I have received consent to join this community.'] = 'כיוון שאני בן/בת פחות מ-%d, אני מאשר/ת שקיבלתי רשות להצטרף לקהילה זו.';
@@ -865,6 +869,7 @@ $Definition["Kilobyte"] = "קילובייט";
 
 $Definition['Label'] = 'תווית';
 $Definition['Last Active'] = 'פעיל לאחרונה';
+$Definition['Last Commented'] = 'תגובה אחרונה';
 $Definition['Last IP'] = 'IP אחרון';
 $Definition['lasts %s'] = '%s אחרונים';
 $Definition['Last Updated'] = 'העלאה אחרונה';
@@ -872,7 +877,7 @@ $Definition["Last Updated: <0/>"] = "עודכן לאחרונה: <0/>";
 $Definition['Latest %1$s'] = '%1$s אחרון';
 $Definition['Latest Post'] = 'פוסט אחרון';
 $Definition['Leaders'] = 'מובילים';
-$Definition['Learn more about %s'] = 'למד עוד על s%';
+$Definition['Learn more about %s'] = 'למד עוד על %s';
 $Definition['Leave %s'] = 'עזוב את %s';
 $Definition['Leave a Comment'] = 'השאר תגובה';
 $Definition['Leave a comment'] = 'השאר תגובה';
@@ -1034,6 +1039,7 @@ $Definition['New Password'] = 'סיסמה חדשה';
 $Definition['New Poll'] = 'סקר חדש';
 $Definition['New Post'] = 'פוסט חדש';
 $Definition['Next'] = 'הבא';
+$Definition['Next Page'] = 'הדף הבא';
 $Definition['Ninth Anniversary'] = 'יום השנה התשיעי';
 $Definition['No'] = 'לא';
 $Definition['NoBadgesEarned'] = 'בכל רגע';
@@ -1207,6 +1213,7 @@ $Definition['PreferenceRankPopup'] = 'הודיעו לי כשהדירוג שלי 
 $Definition['Preferences'] = 'העדפות';
 $Definition['Preview'] = 'תצוגה מקדימה';
 $Definition['Previous'] = 'קודם';
+$Definition['Previous Page'] = 'דף קודם';
 $Definition['Privacy'] = 'פרטיות';
 $Definition['Privacy Settings'] = 'הגדרות פרטיות';
 $Definition['<0>Privacy Policy</0> and '] = '<0>מדיניות פרטיות</0> ו-<1>תנאי שירות</1>';
@@ -1289,7 +1296,7 @@ $Definition['Remember me on this computer'] = 'תזכור אותי על המחש
 $Definition['Remember your password?'] = 'זוכר את הסיסמה שלך?';
 $Definition['Remote Configuration'] = 'תצורה מרחוק';
 $Definition['Remove'] = 'הסר';
-$Definition['Remove %s'] = 'הסר s% ';
+$Definition['Remove %s'] = 'הסר %s ';
 $Definition['Removed by'] = 'הוסר על ידי';
 $Definition['Remove file'] = 'הסר קובץ';
 $Definition['Remove from %s'] = 'הסר מ %s';
@@ -1321,7 +1328,9 @@ $Definition['Reset Your Password'] = 'אפס את הסיסמא שלך';
 $Definition['Restore'] = 'שחזר';
 $Definition['Restored'] = 'אוחזר';
 $Definition['Restore deleted content.'] = 'שחזר תוכן שנמחק.';
-$Definition['Return to %s'] = 'חוזר ל-s%';
+$Definition['Result(s) <0/> to <1/> of <2/>'] = 'תוצאות 0/> עד <1/> מתוך<2/>';
+$Definition['Search for: "%s"'] = 'חיפוש:  "%s"';
+$Definition['Return to %s'] = 'חוזר ל-%s';
 $Definition['Reveal'] = 'גילוי';
 $Definition['reverse'] = 'בטל';
 $Definition["Revision"] = "תיקון";
@@ -1363,15 +1372,19 @@ $Definition['Save your password'] = 'שמור את הסיסמה שלך';
 $Definition['Search'] = 'חפש';
 $Definition['Search %s'] = 'חפש %s';
 $Definition['search archived'] = 'חיפוש בארכיון ';
+$Definition['Search archived'] = 'חיפוש בארכיון';
 $Definition['SearchBoxPlaceHolder'] = 'חפש';
 $Definition["Search for <0/>"] = "חפש את <0/>";
+$Definition['Search for a category'] = 'חיפוש קטגוריה';
 $Definition['Search for a tag.'] = 'חפש אחר כל, או חלק מתג';
 $Definition['Search group members'] = 'חפש חברי קבוצה';
 $Definition['Search Groups'] = 'חפש ק';
 $Definition['Search groups'] = 'חפש קבוצות';
 $Definition['search only in followed categories'] = 'חפש רק בקטגוריות שבמעקב';
+$Definition['Search only followed Categories'] = 'חיפוש קטגוריות במעקב בלבד';
 $Definition['Search results for \'%s\''] = 'תוצאות חיפוש עבור  \'%s\'';
 $Definition['search subcategories'] = 'חפש תת-קטגוריות';
+$Definition['Search Subcategories'] = 'חיפוש תת-קטגוריות';
 $Definition['Second Anniversary'] = 'יום שנה שני';
 $Definition['Secret'] = 'סוד';
 $Definition['Sections'] = 'חלקים';
@@ -1400,7 +1413,7 @@ $Definition['Share on Facebook'] = 'שתפ/י בפייסבוק';
 $Definition['she'] = 'היא';
 $Definition['show'] = 'הצג';
 $Definition['Shown only on mobile'] = 'הראה רק על הנייד';
-$Definition['Show previous quotes'] = '&raquo; הראה ציטוטים קודמים';
+$Definition['Show previous quotes'] = '» הראה ציטוטים קודמים';
 $Definition['Show popular tags'] = 'הצג תגיות פופולריות';
 $Definition['Show unfollowed categories'] = 'הראה קטגוריות לא נעקבות';
 $Definition['Sign-In URL'] = 'כתובת התחברות';
@@ -1464,7 +1477,7 @@ $Definition['Started by %1$s'] = 'על ידי %1$s';
 $Definition['Start your First Discussion'] = 'התחל את הדיון הראשון שלך';
 $Definition['Status'] = 'סטאטוס נוכחי';
 $Definition['status'] = 'סטטוס';
-$Definition['Status: %s'] = 'סטטוס: s%';
+$Definition['Status: %s'] = 'סטטוס: %s';
 $Definition['Statuses'] = 'סטטוסים';
 $Definition['statuses'] = 'סטטוסים';
 $Definition['Stop following'] = 'הפסק לעקוב';
@@ -1568,7 +1581,7 @@ $Definition['This category does not have any events.'] = 'אין אירועים 
 $Definition['This discussion has been closed.'] = 'הדיון הזה נסגר.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'הדיון הזה קשור למקור תוכן זר לא מוגדר';
 $Definition['This discussion was created from comments split from: %s.'] = 'הדיון הזה מוזג לתוך %s.';
-$Definition['This discussion was merged into %s'] = 'דיון זה מוזגה לתוךs%';
+$Definition['This discussion was merged into %s'] = 'דיון זה מוזגה לתוך %s';
 $Definition['This field partially supports HTML.'] = 'שדה זה תומך חלקית ב- HTML.';
 $Definition['This image has been inserted into the body of text.'] = 'תמונה זו שובצה בגוף הטקסט.';
 $Definition['This image has been resized to fit in the page. Click to enlarge.'] = 'הגודל של התמונה הזאת שונה כדי להתאים לעמוד. לחץ להגדיל.';
@@ -1675,6 +1688,7 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = '�
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'שם משתמש יכול להכיל רק אותיות, מספרים, תחתונים, והוא חייב להיות בין 3 ל 20 תווים';
 $Definition['UsernameError'] = 'שם משתמש יכול להכיל רק אותיות, מספרים, תחתונים, והוא חייב להיות בין 3 ל 20 תווים';
 $Definition['Username or email'] = 'שם משתמש או דוא"ל';
+$Definition['User Not Found'] = 'המשתמש לא נמצא';
 $Definition['User not found.'] = 'משתמש לא קיים';
 $Definition['Users'] = 'משתמשים';
 $Definition['Users Count'] = 'מספר משתמשים';
@@ -1690,7 +1704,7 @@ $Definition['ValidateEnum'] = '%s לא תקף';
 $Definition['ValidateFormat'] = 'אתה לא רשאי לפרסם html גולמי';
 $Definition['ValidateInteger'] = '\'%s הוא לא מספר שלם תקף';
 $Definition['ValidateIntegerArray'] = '\'%s חייבת להיות רשימת מספרים מופרדת בפסיקים';
-$Definition['ValidateLength'] = '%s הוא %2$s$s תיבות ארוך מדי';
+$Definition['ValidateLength'] = '%1$s הוא %2$s$s תיבות ארוך מדי';
 $Definition['ValidateMatch'] = 'שדות ה %s לא תואמות';
 $Definition['ValidateMinimumAge'] = 'אתה לא מבוגר מספיק בכדי להצטרך לקהילה';
 $Definition['ValidateMinLength'] = '%1$s is %2$s תו(ים) קצר(ים) מדי.';
@@ -1737,7 +1751,7 @@ $Definition['Vote (action)'] = 'הצבע';
 $Definition['Vote Down'] = 'הצבע למטה';
 $Definition['Votes'] = 'הצבעות';
 $Definition['Vote Up'] = 'הצבע למעלה';
-$Definition['Voting for the idea is %s.'] = 'ההצבעה על בחירת הרעיון היא % s.';
+$Definition['Voting for the idea is %s.'] = 'ההצבעה על בחירת הרעיון היא %s.';
 
 $Definition['wall'] = 'קיר';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'רוצה להשתתף הדיון הזה? לחץ על אחד מאלה';
@@ -1797,7 +1811,7 @@ $Definition['Would you like to accept the invitation to join this group?'] = 'ה
 $Definition['Write a comment'] = 'כתוב תגובה';
 $Definition['Write Comment'] = 'כתוב תגובה';
 $Definition['Write something about yourself...'] = 'כתוב משהו על עצמך...';
-$Definition['WTF'] = 'מה לעזאזל?';
+$Definition['WTF'] = 'WTF';
 
 $Definition['Yes'] = 'כן';
 $Definition['You'] = 'אתה';
@@ -1839,7 +1853,7 @@ $Definition['You are not allowed to warn a user with higher permissions than you
     'אינך רשאי/ת להזהיר משתמש עם הרשאות גבוהות משלך.';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] =
     'אינך רשאי/ת להזהיר משתמש עם אותה רמת הרשאה כמוך.';
-$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'אתה עכשיו משאיר 1% דולרים. הקש על הקישור על מנת להמשיך ל-2% דולרים.';
+$Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'אתה עכשיו משאיר %1$s דולרים. הקש על הקישור על מנת להמשיך ל-%2$s דולרים.';
 $Definition['You are now signed in.'] = 'אתה כעת מחובר לפורום.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'מותר לך רק {maxImages,plural,%s תמונה,%s תמונות}. ';
 $Definition['You are prohibited from using the ignore feature.'] = 'נאסר עליך להשתמש באפשרות ההתעלמות.';
@@ -1942,7 +1956,8 @@ $Definition['Format as Strikethrough'] = 'פרמטו כאותיות חצויות
 $Definition['Strikethrough'] = 'חוצה';
 $Definition['Format as Inline Code'] = 'פרמטו כקוד בשורת הקריאה';
 $Definition['Paragraph Code Block'] = 'קוד חסימה';
-$Definition["Paragraph (Removes paragraph style and sets to plain paragraph)"] = "פסקה (מסיר את סגנון הפסקה ומגדיר כפסקה רגילה)";
+$Definition['Parent'] = 'הורה';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'פסקה (מסיר את סגנון הפסקה ומגדיר כפסקה רגילה)';
 $Definition['Code Block'] = 'קוד חסימה';
 $Definition['Format as Link'] = 'פרמטו כקישור';
 $Definition['Link'] = 'קישור';

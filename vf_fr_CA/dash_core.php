@@ -1,6 +1,6 @@
 <?php
 
-$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" introuvable.';
+$Definition['%1$s "%2$s" not found.'] = '%1$s « %2$s » introuvable.';
 $Definition['%1$s %2$s'] = '%1$s%2$s';
 $Definition['%1$s Version %2$s'] = '%1$s Version %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s version %2$s est disponible.';
@@ -36,7 +36,7 @@ $Definition['15 minutes'] = '15 minutes';
 
 $Definition['[%s] Confirm Your Email Address'] = ' %s Confirmer votre adresse email ';
 $Definition['[%s] Invitation'] = '[%s] Invitation';
-$Definition['[%s] Password Reset'] = 'Réinitialisation du mot de passe';
+$Definition['[%s] Password Reset'] = '[%s] Réinitialisation du mot de passe';
 $Definition['[%s] Password Reset Request'] = '[%s] Demande de renouvellement de mot de passe.';
 
 $Definition['a Badge'] = 'un Badge';
@@ -94,8 +94,9 @@ $Definition['Allow images'] = 'Autoriser les images';
 $Definition['Allow new users to be registered through email.'] = 'Permettre aux nouveaux utilisateurs de s\'enregistrer par email.';
 $Definition['Allow this connection to issue API access tokens.'] = 'Autorisez cette connexion à émettre des jetons d\'accès à l\'API.';
 $Definition['Allow users to change their own avatars'] = 'Permettre aux utilisateurs de modifier leurs propres avatars';
-$Definition['Allow users to dismiss this message'] = 'Autoriser les utilisateurs à désactiver ce message.';
+$Definition['Allow users to dismiss this message'] = 'Autoriser les utilisateurs à ignorer ce message.';
 $Definition['All Pages'] = 'Toutes les pages';
+$Definition['An enabled message will be visible on the site.'] = 'Un message activé sera visible sur le site.';
 $Definition['API'] = 'API';
 $Definition['API SSO Expand Permission'] = 'L\'API SSO étend l\'autorisation';
 $Definition['API Status'] = 'Statut de l\'API';
@@ -187,7 +188,7 @@ $Definition['Choose who can send out invitations to new members:'] = 'Choisissez
 $Definition['Class'] = 'Classe';
 $Definition['Classic table layout used by traditional forums'] = 'Mise en page classique en table utilisée par les forums traditionnels';
 $Definition['Clean Spam'] = 'Nettoyer le spam';
-$Definition['Click a tag name to edit. Click x to remove.'] = 'Cliquez sur le nom de l\'étiquette <i>("tag")</i> à modifier. Cliquez sur X pour supprimer.';
+$Definition['Click a tag name to edit. Click x to remove.'] = 'Cliquez sur le nom de l\'étiquette (« tag ») à modifier. Cliquez sur X pour supprimer.';
 $Definition['Click here to apply it.'] = 'Cliquez ici pour l\'appliquer.';
 $Definition['Click here to carry on.'] = 'Cliquez ici pour continuer.';
 $Definition['Click here to carry on to your dashboard'] = 'Cliquez ici pour poursuivre vers votre tableau de bord';
@@ -358,6 +359,8 @@ $Definition['FaviconBrowse'] = 'Naviguez à la recherche d\'un nouveau favicon s
 $Definition['FaviconDescription'] = "Le favicône de votre site apparait dans la barre de titre de votre navigateur. Il sera réduit à l'échelle.";
 $Definition['FileUpload is currently OFF'] = 'Le téléversement de fichiers est actuellement *désactivé*';
 $Definition['FileUpload is currently ON'] = 'Le téléversement de fichiers est actuellement *activé*';
+$Definition['Filter'] = 'Filtre';
+$Definition['Filter Results'] = 'Filtrer les résultats';
 $Definition['Finished'] = 'Fini';
 $Definition['First Visit'] = '1re visite';
 $Definition['Flagged By'] = 'Signalé par';
@@ -393,12 +396,12 @@ $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} a ajouté un comp
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} a modifié {ActivityUserID,your} photo de profil.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} a approuvé les applications pour {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
-$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,vous} &rarr; {ActivityUserID,vous}';
+$Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUserID,you}';
 $Definition['Heads up!'] = 'Attention!';
 $Definition['Heads Up!'] = 'Soyez attentifs !';
 $Definition['Header'] = 'En-tête';
 $Definition["Height"] = "Hauteur";
-$Definition['Help &amp; Tutorials'] = 'Aide &amp; tutoriels';
+$Definition['Help &amp; Tutorials'] = 'Aide & tutoriels';
 $Definition['Here\'s how to get started:'] = 'Voici comment commencer :';
 $Definition['Hidden for everything!'] = 'Caché pour tout!';
 $Definition['Hidden for mobile'] = 'Caché pour les mobiles';
@@ -641,7 +644,7 @@ $Definition['RSVP'] = 'Répondre';
 
 $Definition['Save Captured Definitions'] = 'Enregistrer les Définitions Capturées';
 $Definition['Save Colors'] = 'Sauvegarder les Couleurs';
-$Definition['Search by user or role.'] = 'Rechercher des utilisateurs en fonction de l\'adresse email ou du nom. Vous pouvez utiliser la troncature % votre recherche, ainsi que recherche par ID, statut, ou &ldquo;bannis&rdquo;.';
+$Definition['Search by user or role.'] = 'Rechercher des utilisateurs en fonction de l\'adresse email ou du nom. Vous pouvez utiliser la troncature % votre recherche, ainsi que recherche par ID, statut, ou “bannis”.';
 $Definition['seconds'] = 'secondes';
 $Definition['Security'] = 'Sécurité';
 $Definition['See also'] ='Voir aussi';
@@ -751,13 +754,13 @@ $Definition['This category has custom permissions.'] = 'Cette catégorie a des a
 $Definition['This category is archived.'] = 'Cette catégorie est archivée.';
 $Definition['This connection is in test-mode.'] = 'La connexion est en mode d\'essai';
 $Definition['This Database'] = 'Cette base de données';
-$Definition['This forum is currently set to invitation only mode.'] = 'Ce forum est actuellement en mode "sur invitation uniquement".';
+$Definition['This forum is currently set to invitation only mode.'] = 'Ce forum est actuellement en mode « sur invitation uniquement ».';
 $Definition['This is a parent category that does not allow discussions.'] = 'Ceci est une catégorie-mère qui n\'admet pas de conversations.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'C\'est la première fois que vous visitez les forums de discussion.';
 $Definition['This page requires Javascript.'] = 'Cette page nécessite que le Javascript soit activé pour pouvoir fonctionner correctement.';
 $Definition['This pocket is an ad.'] = 'Ce bloc est une publicité.';
 $Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Ce thème ne peut être supprimé car il est actuellement appliqué.';
-$Definition['This theme has additional options.'] = 'Ce thème possède des options supplémentaires';
+$Definition['This theme has additional options.'] = 'Ce thème possède options supplémentaires sur la page %s.';
 $Definition['This theme has customizable text.'] = 'Ce thème possède des sections de texte configurables';
 $Definition['Threshold'] = 'Seuil';
 $Definition['Thumbnails'] = 'Vignettes d\'aperçu';
@@ -780,7 +783,7 @@ $Definition['Unlimited'] = 'Illimitées';
 $Definition['Upload New Email Logo'] = 'Télécharger le nouveau logo de l\'email';
 $Definition['Upcoming Events'] = 'Evénements prochains';
 $Definition['Use an SMTP server to send email'] = 'Utiliser un serveur SMTP pour envoyer des emails';
-$Definition['Use asterisks for wildcards'] = 'Utilisez des astérisques pour les caractères de remplacement, Ex. :  &lsquo;*@hotmail.com&rsquo;';
+$Definition['Use asterisks for wildcards'] = 'Utilisez des astérisques pour les caractères de remplacement, Ex. :  « *@gmail.com »';
 $Definition['Use Categories'] = 'Utiliser les Catégories';
 $Definition['Use categories to organize discussions'] = 'Utiliser les catégories pour organiser les conversations';
 $Definition['Use Facebook names for usernames.'] = 'Utiliser Facebook pour les noms d\'utilisateur.';
@@ -802,7 +805,7 @@ $Definition['Users will be assigned to this role until they\'ve confirmed their 
 $Definition['Users with the no ads permission will not see this pocket.'] = 'Les utilisateurs avec la permission no ads ne verront pas ce bloc.';
 $Definition['UserWipe'] = 'Contenu utilisateur vide';
 $Definition['UserWipeMessage'] = 'Supprimez l\'utilisateur et remplacez tout son contenu utilisateur par un message qui indique que l\'utilisateur a été supprimé. Cela donne une indication visuelle sur le fait qu\'il manquera de l\'information.';
-$Definition['Use the content at this url as your homepage.'] = 'Votre "page d\'accueil" est ce que les gens voient quand ils visitent <strong style="white-space: nowrap;">%s</strong>. Nous utilisons "Toutes les conversations" comme page d\'accueil par défaut, mais vous pouvez la changer comme bon vous semble. Voici quelques options souvent utilisées:';
+$Definition['Use the content at this url as your homepage.'] = 'Votre « page d\'accueil » est ce que les gens voient quand ils visitent <strong style="white-space: nowrap;">%s</strong>. Nous utilisons « Toutes les conversations » comme page d\'accueil par défaut, mais vous pouvez la changer comme bon vous semble. Voici quelques options souvent utilisées:';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Utiliser Vanilla comme système de commentaires sur votre site';
 $Definition['Untitled'] = 'Sans titre';
 
@@ -826,7 +829,7 @@ $Definition['We only accept urls that begin with http:// or https://'] = 'Nous n
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Nous allons tenter d\'utiliser le serveur de courrier local pour envoyer des courriels par défaut. Si vous souhaitez utiliser un serveur de messagerie SMTP distinct, vous pouvez le configurer ci-dessous.';
 $Definition['What\'s the Buzz?'] = 'Quoi de neuf?';
 $Definition['Where is your Community Forum?'] = 'Comment accéder à votre communauté en ligne?';
-$Definition['Who\'s Online Settings'] = 'Paramètres "qui est en ligne"';
+$Definition['Who\'s Online Settings'] = 'Paramètres « qui est en ligne »';
 $Definition['Why do you want to join?'] = 'Pourquoi voulez-vous vous inscrire?';
 $Definition['Within'] = 'Dans l\'intervalle de';
 $Definition['Will you be attending?'] = 'Serez-vous présent ?';
@@ -876,7 +879,7 @@ $Definition['Reinterpret All Posts As Wysiwyg'] = 'Réinterpréter tous les mess
 
 $Definition['Mobile Format'] = 'Format appareils mobiles';
 $Definition['Enable Rich Quotes'] = 'Activer les citations riches';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Utilisez cette option pour activer les citations avec le "Rich Editor". Va s\'appliquer uniquement si le format par défaut est "Rich".';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Utilisez cette option pour activer les citations avec le « Rich Editor ». Va s\'appliquer uniquement si le format par défaut est « Rich ».';
 
 // Catalogue Display Plugin/Formats
 $Definition['Default placeholder'] = 'Espace réservé par défaut';

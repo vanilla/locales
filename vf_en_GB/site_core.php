@@ -1,7 +1,5 @@
 <?php
 
-$Definition['%s New Plural'] = '%s New';
-
 $Definition['Align center'] = 'Align centre';
 $Definition['Approve Applicant'] = 'Approve';
 

@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Özel yönlendirme hakkında bilgi
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Forumunuzun görünüşünü ve hissini nasıl değiştireceğinizi öğrenin: logonuzu yükleyin, ana sayfanızı ayarlayın, bir tema seçin ve özelleştirin.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Forumunuzun temel işlevlerini nasıl kullanacağınızı öğrenin.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Yerel ayarlar, sitenizdeki diğer dilleri desteklemenizi sağlar. Burada kullanılabilir yapmak istediğiniz yerel ayarları etkinleştirin ve devre dışı bırakın.';
-$Definition['LogoDescription'] = 'Tanıtım logosu sitenizin en üstünde görünür. Bazı temalar bu logoyu göstermeyebilir.';
+$Definition['LogoDescription'] = 'Banner logosu sitenizin üstünde görünür.';
+$Definition['LogoDisclaimer'] = 'Tema düzenleyici ile yapılan temalar ve bazı özel temalar bu ayarı kullanmaz.';
 
 $Definition['Make sure you click View Page'] = 'Kategoriler sayfanızın kaydettikten sonra nasıl göründüğünü görmek için <a href="%s">Sayfayı Görüntüle</a> seçeneğini tıkladığınızdan emin olun.';
 $Definition['Manage Routes'] = 'Yönlendirmeleri Yönet';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'İşleri spam olmayan olarak işaretlemek onları forumunuza geri koyacaktır.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesajlar, uygulamanızın herhangi bir yerinde görünebilir ve kullanıcılarınızı haber ve etkinliklerle ilgili bilgilendirmek için kullanılabilir. İletilerinizi yukarı veya aşağı sürükleyerek yeniden düzenlemek için bu sayfayı kullanın.';
 $Definition['MobileLogoDescription'] =
-    'Mobil banner logosu sitenizin üstünde görünür. Bazı temalar bu logoyu göstermeyebilir.';
+    'Mobil banner logosu sitenizin üstünde görünür.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobil temalar, sitenizin görünümünü ve hissini daha küçük cihazlarda değiştirmenize olanak tanır.';
 
@@ -180,7 +181,7 @@ $Definition['Some themes may need to be updated to work with category following.
 $Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
     'Özel kısıtlama: Yalnızca Garden.Curation.Manage izni olan kullanıcılar bu reaksiyonu kullanabilir.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Bir yasak oluştururken kısmi ya da tam bir eşleşme belirt.';
-$Definition['Spend a little time thinking about how you describe your site here.'] = 'Sitenizi burada nasıl tanımladığınızı düşünerek biraz zaman geçirin. Sitenize anlamlı bir başlık ve kısa bir açıklama vermek, arama motorlarında konumunuzu belirlemekte ve sağlamlaştımakta yardımcı olabilir.';
+$Definition['Spend a little time thinking about how you describe your site here.'] = 'Sitenizi burada nasıl tanımladığınızı düşünerek biraz zaman geçirin. Sitenize anlamlı bir başlık ve kısa bir açıklama vermek, arama motorlarında konumunuzu belirlemekte ve sağlamlaştırmakta yardımcı olabilir.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Logo ekleyerek ve renkleri özelleştirerek e-postalarınızı yükseltin.';
 $Definition['Start Import'] = 'İçe Aktarımı Başlat';
 $Definition['Start the first discussion.'] = '<a href="{/post/discussion,url}">İlk tartışma başlığını şimdi açarak</a> topluluğunuza hareket kazandırın.';

@@ -1,141 +1,82 @@
 <?php
 
+$Definition['%s sources(s) found.'] = '%s source(s) found.';
+
 $Definition['Abilites'] = 'Abilities';
+$Definition['AddressBarColorDescription'] = 'Some browsers support a color for the address bar. Mobile only.';
 $Definition['Add your site to trusted domains.'] = 'Make sure your site is added to %s when embedding is enabled.';
+$Definition['Alert users if they click external link.'] = 'Alert users if they click a link in a post that will lead them away from the forum. Users will not be warned when following links that match a Trusted Domain';
+$Definition['Allow links to be transformed'] = 'Allow links to be transformed into embedded representations in discussions and comments. For example, a YouTube link will transform into an embedded video.';
+$Definition['Allow users to dismiss this message'] = 'Allow users to dismiss this message.';
+$Definition['Apply additional classes on catalogue image.'] = 'Apply additional classes on catalogue image. Use space to separate each class.';
 
-$Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
+$Definition['CssClass'] = 'CSS Class';
 
-$Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
-$Definition['editor.fileErrorSize'] = 'File size is too large.';
-$Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
-$Definition['Enter your password to continue.'] = 'You are attempting to perform a potentially sensitive operation. Please enter your password to continue.';
+$Definition['Display on category page only.'] = 'Display on category page only. Recent discussions list will not be affected.';
+$Definition['Don\'t use too many reactions.'] = 'Don\'t use too many reactions. You don\'t want to give your users information overload.';
 
+$Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browser\'s title bar. It will be scaled down appropriately.';
+$Definition['Feature Article'] = 'Recommend Article';
+$Definition['Featured Article'] = 'Recommended Article';
+$Definition['Featured Articles'] = 'Recommended Articles';
 $Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
 $Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
-$Definition['Format as Paragraph'] = 'Format as a normal paragraph';
 
-$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
-$Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
+$Definition['Garden.api.ssoIDPermission.description'] = 'Roles with this permission will be able to expand SSO IDs in API v2 calls.';
+$Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
 
-$Definition['ImageUploadLimits.Height1'] = 'Max Image Height';
-$Definition['ImageUploadLimits.Height2'] = 'Images will be scaled down if they exceed this height.';
-$Definition['ImageUploadLimits.Notes1'] = 'Enable Image Upload Limit';
-$Definition['ImageUploadLimits.Notes2'] = 'Add limits to image upload dimensions in discussions and comments.';
-$Definition['ImageUploadLimits.Width1'] = 'Max Image Width';
-$Definition['ImageUploadLimits.Width2'] = 'Images will be scaled down if they exceed this width.';
-$Definition['Inline Level Formatting Menu'] = 'Text Format Menu';
-$Definition['Inline Menu Available'] = 'Text Format Menu Available';
+$Definition['Here are the ranks that users can achieve on your site.'] = 'Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.';
+
+$Definition['If you have an old theme'] = 'If you have an old theme and need to set a separate desktop and mobile theme you can do so with the old theming UI.';
+$Definition['If you want to embed your forum, enable embedding.'] = 'If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. If you aren\'t using embedding then we recommend leaving this setting off.';
+$Definition['In additon to the widgets there are also'] = 'In additon to the widgets there are also <0>Global Styles</0>. To edit global styles click anywhere else on the page, such as this text.';
 $Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
 $Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
-$Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
+$Definition['Invitation email failed to send: %'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
 
-$Definition['Jump past emoji list, to emoji categories.'] = 'Jump past emoji list, to emoji category buttons.';
+$Definition['KB.GeneralApperance.Description.Placeholder'] = 'Welcome to our Knowledge Base. Here you\'ll find answers to common support issues.';
 
-$Definition['Line Level Formatting Menu'] = 'Paragraph Format Menu';
-
-$Definition['Make Leader'] = 'Leader';
 $Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
 $Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the same experience, specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
-$Definition['month.letter.1'] = 'J';
-$Definition['month.letter.2'] = 'F';
-$Definition['month.letter.3'] = 'M';
-$Definition['month.letter.4'] = 'A';
-$Definition['month.letter.5'] = 'M';
-$Definition['month.letter.6'] = 'J';
-$Definition['month.letter.7'] = 'J';
-$Definition['month.letter.8'] = 'A';
-$Definition['month.letter.9'] = 'S';
-$Definition['month.letter.10'] = 'O';
-$Definition['month.letter.11'] = 'N';
-$Definition['month.letter.12'] = 'D';
-$Definition['month.long.1'] = 'January';
-$Definition['month.long.2'] = 'February';
-$Definition['month.long.3'] = 'March';
-$Definition['month.long.4'] = 'April';
-$Definition['month.long.5'] = 'May';
-$Definition['month.long.6'] = 'June';
-$Definition['month.long.7'] = 'July';
-$Definition['month.long.8'] = 'August';
-$Definition['month.long.9'] = 'September';
-$Definition['month.long.10'] = 'October';
-$Definition['month.long.11'] = 'November';
-$Definition['month.long.12'] = 'December';
-$Definition['month.short.1'] = 'Jan';
-$Definition['month.short.2'] = 'Feb';
-$Definition['month.short.3'] = 'Mar';
-$Definition['month.short.4'] = 'Apr';
-$Definition['month.short.5'] = 'May';
-$Definition['month.short.6'] = 'Jun';
-$Definition['month.short.7'] = 'Jul';
-$Definition['month.short.8'] = 'Aug';
-$Definition['month.short.9'] = 'Sep';
-$Definition['month.short.10'] = 'Oct';
-$Definition['month.short.11'] = 'Nov';
-$Definition['month.short.12'] = 'Dec';
+$Definition['MobileLogoDescription'] = 'The mobile banner logo appears at the top of your site. Some themes may not display this logo.';
 
-$Definition['Notes description'] = 'You can add notes to a user which are only visible to moderators.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
-$Definition['Paragraph Code Block'] = 'Code Block';
-$Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';
-$Definition['PreferenceRankPopup'] = 'Notify me when my rank changes.';
+$Definition['OrgDescription'] = 'Your organization name is used for SEO microdata and JSON+LD';
 
-$Definition['richEditor.description.embed'] = 'Some elements, such as embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using arrow keys inside of the editor and delete them with the delete or backspace key.';
-$Definition['richEditor.description.inlineMenu'] = 'A text formatting menu will open when you select text. Hit tab to navigate to that menu.';
-$Definition['richEditor.description.paragraphMenu'] = 'To edit a paragraph\'s style, hit tab to navigate to the paragraph menu.';
-$Definition['richEditor.description.title'] = 'Rich Text Editor.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when the emoji menu is open.';
-$Definition['richEditor.emojiPicker.description.pageUpDown'] = 'Use keyboard shortcuts "page up" and "page down" to cycle through available categories when menu is open.';
-$Definition['richEditor.externalEmbed.description'] = 'This is an embed. It can be deleted using the delete key or the backspace key.';
-$Definition['richEditor.menu.blockquote'] = 'Blockquote';
-$Definition['richEditor.menu.code'] = 'Inline Code Block';
-$Definition['richEditor.menu.codeBlock'] = 'Code Block';
-$Definition['richEditor.menu.inline'] = 'Text Style Menu';
-$Definition['richEditor.menu.link'] = 'Link';
-$Definition['richEditor.menu.paragraph'] = 'Paragraph Style Menu';
-$Definition['richEditor.menu.strike'] = 'Strike Through';
-$Definition['richEditor.menu.subheading'] = 'Subheading';
+$Definition['permissions.communityManager'] = 'Community Manager';
+$Definition['permissions.everyone'] = 'Everyone';
+
+$Definition['Recommend special ranks for admins and mods.'] = 'It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.';
+$Definition['Recommend starting with five ranks.'] = 'You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.';
 $Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
+$Definition['RolePersonalInfo'] = 'This role is personal info. Only users with permission to view personal info will see it.';
+$Definition['RSVP'] = 'Respond';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Security.Hsts.HTTPSWarning'] = 'Warning: Only enable this feature if you are sure all your subdomains are configured for HTTPS with valid certificates.';
 $Definition['Security.Hsts.IncludeSubDomains'] = 'When enabled, this rule applies to all of your site\'s subdomains as well.';
 $Definition['Security.Hsts.MaxAgeRecommendation'] = 'We recommend starting with a max age of 1 week and then increasing it to 1 month then 1 year once you see your site works as expected.';
 $Definition['Security.Hsts.SubmitWarning'] = 'Warning: It\'s great to support HSTS preloading as a best practice. However, you must submit your site to hstspreload.org to ensure that it is successfully pre-loaded (i.e. to get the full protection for the intended configuration).';
-$Definition['Show previous quotes'] = '&raquo; show previous quotes';
+$Definition['ShareImageDescription'] = 'When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.';
+$Definition['Show an uploaded image on the Category page.'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
+$Definition['Social Connect'] = 'Social Media';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Some older themes don\'t support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.';
+$Definition['Strip Embeds'] = 'Strip images and videos out of posts.';
 
-$Definition['Troll.Content'] = '<b>Troll</b> <ul> <li>This user has been marked as a troll.</li> <li>Their content is only visible to moderators and the troll.</li> <li>This message does not appear for the troll.</li></ul>';
+$Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] = 'Tagging allows users to add a tag to discussions they start in order to make them more discoverable.';
+$Definition['ThemeEditor.Copy'] = '<0/> copy';
+$Definition['This is a style guide of your theme.'] = 'This is a style guide of your theme. It has examples of the visual elements used throughout the application. You can click on the various widgets such as the <0>Title Bar</0> or <1>Banner</1> to edit their properties in the side panel.';
+$Definition['This page lists the endpoints of your API.'] = 'This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'This theme cannot be deleted because it is the currently applied theme.';
+$Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark a website on the homescreen of an Apple device. These are usually 152 pixels. Apple adds rounded corners and lighting effect automatically.';
 
+$Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
 $Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Users will be redirected to this URL after accepting an invitation. It can be a full URL or a path to redirect within the site.';
 
-$Definition['ValidateMinLength'] = '%1$s is %2$s character(s) too short.';
-$Definition['ValidateMinLengthPlural'] = '%1$s is %2$s characters too short.';
-$Definition['ValidateMinLengthSingular'] = '%1$s is %2$s character too short.';
-$Definition['ValidateStrength'] = 'The supplied %s is too weak. Try using a stronger password and use the strength meter as a guide.';
-$Definition['Validation Failed'] = 'Please review the errors below.';
+$Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading. If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
+$Definition['Welcome to Vanilla\'s theming UI.'] = 'Welcome to Vanilla\'s theming UI. This page lists all of your available themes, and allows you to copy or edit them.';
+$Definition['Which reactions you use really depends on your community.'] = 'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
 
-$Definition['weekday.letter.1'] = 'M';
-$Definition['weekday.letter.2'] = 'T';
-$Definition['weekday.letter.3'] = 'W';
-$Definition['weekday.letter.4'] = 'T';
-$Definition['weekday.letter.5'] = 'F';
-$Definition['weekday.letter.6'] = 'S';
-$Definition['weekday.letter.7'] = 'S';
-$Definition['weekday.long.1'] = 'Monday';
-$Definition['weekday.long.2'] = 'Tuesday';
-$Definition['weekday.long.3'] = 'Wednesday';
-$Definition['weekday.long.4'] = 'Thursday';
-$Definition['weekday.long.5'] = 'Friday';
-$Definition['weekday.long.6'] = 'Saturday';
-$Definition['weekday.long.7'] = 'Sunday';
-$Definition['weekday.short.1'] = 'Mon';
-$Definition['weekday.short.2'] = 'Tue';
-$Definition['weekday.short.3'] = 'Wed';
-$Definition['weekday.short.4'] = 'Thu';
-$Definition['weekday.short.5'] = 'Fri';
-$Definition['weekday.short.6'] = 'Sat';
-$Definition['weekday.short.7'] = 'Sun';
-
-$Definition['You are about to delete all of a user\'s content.'] = 'You are about to delete all of the content for {User.UserID,user}.';
 $Definition['You can specify a whitelist of trusted domains.'] = 'You can specify a whitelist of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
+$Definition['Your mobile theme will be disabled.'] = 'Your mobile theme will be disabled. To set different mobile and desktop themes, use the old theming UI.';

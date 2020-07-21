@@ -17,8 +17,6 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s escreveu em %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s aprovou a participação de %2$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s criou uma conta para %1$s.';
-$Definition['%s$1 to %s$2'] = '%s$1 para %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 para %s$2 de %s$3';
 $Definition['%s (Current)'] = '%s (Atual)';
 $Definition['%s: %s'] = '%s: %s';
 $Definition['%s Agrees'] = '%s Concorda';
@@ -70,7 +68,7 @@ $Definition['%s New'] = '%s Novo';
 $Definition['%s new'] = '%s novos';
 $Definition['%s new comment since you last read this.'] = '%s novo comentário desde que você leu isto.';
 $Definition['%s new comments since you last read this.'] = '%s novos comentários desde desde que você leu isto.';
-$Definition['%s New Plural'] = '%s Novos';
+$Definition['%s New Plural'] = '%s Novo';
 $Definition['%s new plural'] = '%s novos';
 $Definition['%s Not Found'] = '%s Não Encontrado';
 $Definition['%s not found.'] = '%s não encontrado';
@@ -107,8 +105,8 @@ $Definition['%s WTFs'] = '%s WTFs';
 $Definition['%s year'] = '%s ano';
 $Definition['%s years'] = '%s anos';
 
-$Definition['&laquo; hide previous quotes'] = '&laquo; esconder citações anteriores';
-$Definition['&raquo; show previous quotes'] = '&raquo; exibir citações anteriores';
+$Definition['&laquo; hide previous quotes'] = '« esconder citações anteriores';
+$Definition['&raquo; show previous quotes'] = '» exibir citações anteriores';
 
 $Definition['(All)'] = '(Todos)';
 $Definition['(empty message)'] = '(mensagem vazia)';
@@ -124,6 +122,7 @@ $Definition['1 message'] = '1 mensagem';
 
 $Definition['<General Error>'] = '<Erro Geral>';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
+$Definition["<0/>-<1/> of <2/>"] = "<0/> a <1/> de <2/>";
 $Definition["<0/> by <1/>"] = "<0/> por <1/>";
 $Definition["<0/> message"] = "<0/> mensagem";
 $Definition["<0/> messages"] = "<0/> mensagens";
@@ -203,6 +202,7 @@ $Definition['All Bookmarks'] = 'Todos os Marcadores';
 $Definition['All Badges'] = 'Todos os emblemas';
 $Definition['All Categories'] = 'Todas as salas de discussão';
 $Definition['all categories'] = 'todas as salas de discussão';
+$Definition['All Content'] = 'Todo o conteúdo';
 $Definition['All Conversations'] = 'Todas as conversas';
 $Definition['All Discussions'] = 'Todas as Discussões';
 $Definition['All discussions marked as viewed.'] = 'Todas discussões marcadas como vistas';
@@ -337,6 +337,7 @@ $Definition['CategoriesShowFollowed'] = 'Mostrar somente salas de discussão que
 $Definition['CategoriesShowUnfollowed'] = 'Exibir salas de discussão ocultas';
 $Definition['CategoriesViewingAll'] = 'Você está vendo todas as salas de discussão.';
 $Definition['CategoriesViewingFollowed'] = 'Você está vendo apenas as salas de discussão que segue.';
+$Definition['Categories & Groups'] = 'Categorias e grupos';
 $Definition['Category'] = 'Sala de Discussão';
 $Definition['Category does not exist.'] = 'A categoria não existe.';
 $Definition['Category Filter'] = 'Filtro de Sala';
@@ -403,7 +404,7 @@ $Definition['Confirm Your Email Address'] = 'Confirmar seu e-mail';
 $Definition['Connect'] = 'Conectar';
 $Definition['ConnectAccountExists'] = 'Você já tem uma conta aqui.';
 $Definition['ConnectChooseName'] = 'Escolha um nome para se identificar no site.';
-$Definition['ConnectCreateAccount'] = 'Incluir informação &amp; Criar conta';
+$Definition['ConnectCreateAccount'] = 'Incluir informação & Criar conta';
 $Definition['Connected'] = 'Conectado';
 $Definition['Connected With: {ProviderName}'] = 'Conectado com: {ProviderName}';
 $Definition['ConnectExistingPassword'] = 'Digite a senha da sua conta.';
@@ -452,6 +453,7 @@ $Definition['Date Added'] = 'Data incluída';
 $Definition['Date Ignored'] = 'Data Ignorada';
 $Definition["Date Input"] = "Entrada de Data";
 $Definition['Date Examples'] = 'Exemplos: segunda-feira, hoje, semana passada, 26 de março, 26/03/04';
+$Definition["Date Created"] = "Data de criação";
 $Definition["Date Updated"] = "Data Atualizada";
 $Definition['Date within'] = 'Datar em';
 $Definition['Day'] = 'Dia';
@@ -477,6 +479,7 @@ $Definition['Delete Group'] = 'Excluir grupo';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'Excluir o usuário e todo o seu conteúdo. Isto pode deixar a discussão sem continuidade, parecendo que pessoas comentaram em um conteúdo que não está mais lá. Está é uma ótima opção para remover spam.';
 $Definition['Delete User Content'] = 'Excluir o conteúdo do usuário';
 $Definition['Delete User Forever'] = 'Excluir usuário para sempre';
+$Definition['Deleting...'] = 'Excluindo...';
 $Definition['Deny'] = 'Negado';
 $Definition['Deny Applicant'] = 'Negado';
 $Definition['Description'] = 'Descrição';
@@ -492,6 +495,7 @@ $Definition['discussions'] = 'discussões';
 $Definition['Discussions Page'] = 'Página de Discussões';
 $Definition['Discussion List'] = 'Lista de Discussão';
 $Definition['Discussion marked as noindex'] = 'Discussão marcada como noindex';
+$Definition['Discussion Not Found'] = 'Discussão não encontrada';
 $Definition['Discussion Title'] = 'Título da Discussão';
 $Definition['Discussion Type'] = 'Discussão';
 $Definition['Dislike'] = 'Não gostar';
@@ -568,15 +572,11 @@ Siga o link abaixo para conferir:
 Tenha um bom dia!';
 $Definition['Email Notifications'] = 'Notificações de email';
 $Definition['Email Or Username'] = 'Email ou nome de usuário';
-$Definition['EmailPassword'] = 'Olá, %1$s,
-
-%2$s resetou sua senha %3$s. Suas credencias agora são:
+$Definition['EmailPassword'] = '%2$s resetou sua senha %3$s. Suas credencias agora são:
 
   E-mail: %6$s
   Senha: %5$s
-  Url: %4$s
-
-Tenha um bom dia!';
+  Url: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Emails enviados pelo aplicativo serão endereçados com o seguinte nome e endereço';
 $Definition['Email Source'] = 'E-mail';
 $Definition['EmailStoryNotification'] = '%1$s(\\n)(\\n)
@@ -760,7 +760,7 @@ $Definition['her'] = 'dela';
 $Definition['Hide'] = 'Esconder';
 $Definition['hide'] = 'esconder';
 $Definition['Hide my online status from other members'] = 'Esconda meu status online dos outros membros';
-$Definition['Hide previous quotes'] = '&laquo; esconder citações anteriores';
+$Definition['Hide previous quotes'] = '« esconder citações anteriores';
 $Definition['Hide Results'] = 'Ocultar Resultados';
 $Definition['Hide signatures?'] = 'Esconder assinatura?';
 $Definition['Hide signatures always'] = 'Sempre esconder assinatura';
@@ -867,6 +867,7 @@ $Definition["Kilobyte"] = "Kilobyte";
 
 $Definition['Label'] = 'Etiqueta';
 $Definition['Last Active'] = 'Última atividade';
+$Definition['Last Commented'] = 'Último comentário';
 $Definition['Last IP'] = 'Último IP';
 $Definition['lasts %s'] = 'Dura %s';
 $Definition['Last Updated'] = 'Última atualização ';
@@ -1035,9 +1036,10 @@ $Definition['New Password'] = 'Nova senha';
 $Definition['New Poll'] = 'Nova enquete';
 $Definition['New Post'] = 'Novo Post';
 $Definition['Next'] = 'Próximo';
+$Definition['Next Page'] = 'Próxima página';
 $Definition['Ninth Anniversary'] = 'Nono aniversário';
 $Definition['No'] = 'Não';
-$Definition['NoBadgesEarned'] = 'A qualquer momento&hellip;';
+$Definition['NoBadgesEarned'] = 'A qualquer momento…';
 $Definition['No badges yet.'] = 'Sem medalhas ainda.';
 $Definition['Nobody has confirmed their attendance yet.'] = 'Ninguém confirmou presença ainda.';
 $Definition['Nobody has declined the invitation so far.'] = 'Ninguém recusou o convite por enquanto.';
@@ -1139,11 +1141,9 @@ $Definition['Password'] = 'Senha';
 $Definition['Password Contains Username'] = 'Contém o nome de usuário';
 $Definition['Password Good'] = 'Bom';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Olá %1$s,
+$Definition['PasswordRequest'] = 'Alguém pediu uma nova senha em %2$s. Para gerar uma nova senha, siga:
 
-alguém pediu uma nova senha em %2$s. Para gerar uma nova senha, siga:
-
-  %3$s
+%3$s
 
 Se não foi você quem requisitou, por favor, desconsidere este e-mail.';
 $Definition['Passwords don\'t match'] = 'Senhas não coincidem';
@@ -1208,6 +1208,7 @@ $Definition['PreferenceRankPopup'] = 'Notifique-me quando minha classificação 
 $Definition['Preferences'] = 'Preferências';
 $Definition['Preview'] = 'Visualizar';
 $Definition['Previous'] = 'Anterior';
+$Definition['Previous Page'] = 'Página anterior';
 $Definition['Privacy'] = 'Privacidade';
 $Definition['Privacy Settings'] = 'Configurações de privacidade';
 $Definition['<0>Privacy Policy</0> and '] = '<0>Política de Privacidade</0> e <1>Termos de Serviço</1>';
@@ -1322,6 +1323,8 @@ $Definition['Reset Your Password'] = 'Resetar sua senha';
 $Definition['Restore'] = 'Restaurar';
 $Definition['Restored'] = 'Restaurado';
 $Definition['Restore deleted content.'] = 'Restaure o conteúdo excluído.';
+$Definition['Result(s) <0/> to <1/> of <2/>'] = 'Resultado(s) <0/> a <1/> de <2/>';
+$Definition['Search for: "%s"'] = 'Procurar: "%s"';
 $Definition['Return to %s'] = 'Voltar para %s';
 $Definition['Reveal'] = 'Revelar';
 $Definition['reverse'] = 'inverter';
@@ -1364,15 +1367,19 @@ $Definition['Save your password'] = 'Guardar a sua senha';
 $Definition['Search'] = 'Procurar';
 $Definition['Search %s'] = 'Pesquisar %s';
 $Definition['search archived'] = 'pesquisa arquivada';
+$Definition['Search archived'] = 'Busca arquivada';
 $Definition['SearchBoxPlaceHolder'] = 'Procurar';
 $Definition["Search for <0/>"] = "Pesquisar <0/>";
+$Definition['Search for a category'] = 'Procurar uma categoria';
 $Definition['Search for a tag.'] = 'Pesquisar por todo o conteúdo ou por um rótulo.';
 $Definition['Search group members'] = 'Procurar membros do grupo';
 $Definition['Search Groups'] = 'Grupos de Pesquisa';
 $Definition['Search groups'] = 'Grupos de pesquisa';
 $Definition['search only in followed categories'] = 'pesquisar apenas nas categorias seguidas';
+$Definition['Search only followed Categories'] = 'Procurar apenas Categorias seguidas';
 $Definition['Search results for \'%s\''] = 'Resultados de pesquisa para \'%s\'';
 $Definition['search subcategories'] = 'pesquisar subsalas ';
+$Definition['Search Subcategories'] = 'Procurar subcategorias';
 $Definition['Second Anniversary'] = 'Segundo aniversário';
 $Definition['Secret'] = 'Segredo';
 $Definition['Sections'] = 'Seções';
@@ -1401,7 +1408,7 @@ $Definition['Share on Facebook'] = 'Compartilhe no Facebook';
 $Definition['she'] = 'ela';
 $Definition['show'] = 'mostrar';
 $Definition['Shown only on mobile'] = 'Exibir somente em dispositivos móveis';
-$Definition['Show previous quotes'] = '&raquo; exibir citações anteriores';
+$Definition['Show previous quotes'] = '» exibir citações anteriores';
 $Definition['Show popular tags'] = 'Exibir etiquetas populares';
 $Definition['Show unfollowed categories'] = 'Exibir salas de discussão que não sigo';
 $Definition['Sign-In URL'] = 'URL para acessar';
@@ -1671,6 +1678,7 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = 'N
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Nomes de usuários só podem conter letras, números, underlines, e precisam ter de 3 até 20 caracteres.';
 $Definition['UsernameError'] = 'Nomes de usuários só podem conter letras, números, underlines, e precisam ter de 3 até 20 caracteres.';
 $Definition['Username or email'] = 'Nome de Usuário ou e-mail';
+$Definition['User Not Found'] = 'Usuário não encontrado';
 $Definition['User not found.'] = 'Desculpe, não foi possível encontrar uma conta associada ao nome de usuário/e-mail que você digitou.';
 $Definition['Users'] = 'Usuários';
 $Definition['Users Count'] = 'Contagem de usuários';
@@ -1938,7 +1946,8 @@ $Definition['Format as Strikethrough'] = 'Formatar como tachado';
 $Definition['Strikethrough'] = 'Riscado';
 $Definition['Format as Inline Code'] = 'Formatar como código embutido';
 $Definition['Paragraph Code Block'] = 'Bloco de Código';
-$Definition["Paragraph (Removes paragraph style and sets to plain paragraph)"] = "Parágrafo (remove o estilo do parágrafo e define como parágrafo simples)";
+$Definition['Parent'] = 'Pai/mãe';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Parágrafo (remove o estilo do parágrafo e define como parágrafo simples)';
 $Definition['Code Block'] = 'Bloco de Código';
 $Definition['Format as Link'] = 'Formatar como link';
 $Definition['Link'] = 'Link';

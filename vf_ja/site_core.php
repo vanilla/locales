@@ -17,8 +17,6 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$sは%4$sに%5$sを書きました。';
 $Definition['%3$s approved %2$s membership application.'] = '%3$sさんが%2$sさんの加入申請を承認しました。';
 $Definition['%3$s created an account for %1$s.'] = '%3$sが%1$sのためにアカウントを作成しました。';
-$Definition['%s$1 to %s$2'] = '%s$1から%s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$3の%s$2に%s$1を';
 $Definition['%s (Current)'] = '%s(現在)';
 $Definition['%s: %s'] = '%s：%s';
 $Definition['%s Agrees'] = '%sを同意する';
@@ -108,8 +106,8 @@ $Definition['%s WTFs'] = '%s個の「そんな馬鹿な」';
 $Definition['%s year'] = '%s年';
 $Definition['%s years'] = '%s年';
 
-$Definition['&laquo; hide previous quotes'] = '&laquo; 以前の引用を隠す';
-$Definition['&raquo; show previous quotes'] = '&raquo; 以前の引用を表示';
+$Definition['&laquo; hide previous quotes'] = '« 以前の引用を隠す';
+$Definition['&raquo; show previous quotes'] = '» 以前の引用を表示';
 
 $Definition['(All)'] = '(全て)';
 $Definition['(empty message)'] = '(空白のメッセージ) ';
@@ -125,6 +123,7 @@ $Definition['1 message'] = '1メッセージ';
 
 $Definition['<General Error>'] = '<General Error>';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s';
+$Definition["<0/>-<1/> of <2/>"] = "<2/>の<0/>-<1/> ";
 $Definition["<0/> by <1/>"] = "<0/> によって <1/>";
 $Definition["<0/> message"] = "<0/>メッセージ";
 $Definition["<0/> messages"] = "<0/>件のメッセージ";
@@ -204,6 +203,7 @@ $Definition['All Bookmarks'] = '全てのブックマーク';
 $Definition['All Badges'] = '全てのバッジ';
 $Definition['All Categories'] = 'すべてのカテゴリ';
 $Definition['all categories'] = '全てのカテゴリー';
+$Definition['All Content'] = 'すべてのコンテンツ';
 $Definition['All Conversations'] = 'すべての会話';
 $Definition['All Discussions'] = 'すべてのディスカッション';
 $Definition['All discussions marked as viewed.'] = '全てのディスカッションを既読に。';
@@ -338,6 +338,7 @@ $Definition['CategoriesShowFollowed'] = '次のカテゴリーを公開するだ
 $Definition['CategoriesShowUnfollowed'] = '隠されているカテゴリーを表示する';
 $Definition['CategoriesViewingAll'] = 'あなたは現在全てのカテゴリーを見ています。';
 $Definition['CategoriesViewingFollowed'] = 'あなたは現在、あなたがフォローしているカテゴリーだけを見ています。';
+$Definition['Categories & Groups'] = 'カテゴリーとグループ';
 $Definition['Category'] = 'カテゴリ';
 $Definition['Category does not exist.'] = 'カテゴリーは存在しません。';
 $Definition['Category Filter'] = 'カテゴリー･フィルター';
@@ -404,7 +405,7 @@ $Definition['Confirm Your Email Address'] = 'Eメールアドレスの確認';
 $Definition['Connect'] = '接続';
 $Definition['ConnectAccountExists'] = 'すでにアカウントをお持ちです。';
 $Definition['ConnectChooseName'] = 'サイト上であなた自身を識別するための名前を選択して下さい。';
-$Definition['ConnectCreateAccount'] = '情報の追加 &amp; アカウントの作成';
+$Definition['ConnectCreateAccount'] = '情報の追加 & アカウントの作成';
 $Definition['Connected'] = '接続しました';
 $Definition['Connected With: {ProviderName}'] = '{ProviderName} :経由で接続しています';
 $Definition['ConnectExistingPassword'] = '現行のアカウントパスワードを入力して下さい。';
@@ -453,6 +454,7 @@ $Definition['Date Added'] = '追加された日時';
 $Definition['Date Ignored'] = '日付けが無視されました';
 $Definition["Date Input"] = "日付入力";
 $Definition['Date Examples'] = '例: 月曜日、今日、先週、5月26日、3/26/04';
+$Definition["Date Created"] = "データが作成されました";
 $Definition["Date Updated"] = "更新日";
 $Definition['Date within'] = '内の日付';
 $Definition['Day'] = '日';
@@ -478,6 +480,7 @@ $Definition['Delete Group'] = 'グループを削除する';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'ユーザーとユーザーの全てのコンテンツを削除する。これにより会話がばらばらになり、存在しないコンテンツに対して人々が回答しているように見えます。これはスパマーのコンテンツを削除するのに有効なオプションです。';
 $Definition['Delete User Content'] = 'ユーザーコンテンツを削除する';
 $Definition['Delete User Forever'] = '永久ユーザーを削除する';
+$Definition['Deleting...'] = '削除中...';
 $Definition['Deny'] = '否定する';
 $Definition['Deny Applicant'] = '否定する';
 $Definition['Description'] = '説明';
@@ -493,6 +496,7 @@ $Definition['discussions'] = 'ディスカッション';
 $Definition['Discussions Page'] = 'ディスカッションページ';
 $Definition['Discussion List'] = 'ディスカッションリスト';
 $Definition['Discussion marked as noindex'] = 'noindexとしてマークされたディスカッション';
+$Definition['Discussion Not Found'] = 'ディスカッションが見つかりません';
 $Definition['Discussion Title'] = 'ディスカッション タイトル';
 $Definition['Discussion Type'] = 'ディスカッション';
 $Definition['Dislike'] = '嫌い';
@@ -572,15 +576,11 @@ $Definition['EmailNotification'] = '%1$s さん
 ';
 $Definition['Email Notifications'] = 'メール通知設定';
 $Definition['Email Or Username'] = 'メールアドレスまたはユーザー名';
-$Definition['EmailPassword'] = '%1$s さん、こんにちは。
-
-%2$s さんが %3$s に パスワードをリセットしました。あなたの現在の認証情報は、次の通りです:
+$Definition['EmailPassword'] = '%2$s さんが %3$s に パスワードをリセットしました。あなたの現在の認証情報は、次の通りです:
 
   メールアドレス: %6$s
   パスワード: %5$s
-  URL: %4$s
-
-では、よい一日をお過ごしください！';
+  URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'アプリケーションから送信されるメールの送信元には、以下の名前とメールアドレスが使用されます';
 $Definition['Email Source'] = 'メールアドレス';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -740,9 +740,7 @@ $Definition["Heading 3"] = "見出し3";
 $Definition["Heading 4"] = "見出し4";
 $Definition["Heading 5"] = "見出し5";
 $Definition['Heading %s'] = '表題%s';
-$Definition['HeadlineFormat.AcceptAnswer'] = '（活動中のユーザーID、あなた）受理されました
-
-（承認ユーザーID、あなた）答えました';
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} 受理されました {NotifyUserID,your} 答えました';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user}があなたの質問に回答しました: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You}は<a href="{Url,html}">{Data.Name,text}</a>のバッジを獲得しています。';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You}が{ActivityUserID,you}を禁止しました。';
@@ -765,7 +763,7 @@ $Definition['her'] = '彼女の';
 $Definition['Hide'] = '隠す';
 $Definition['hide'] = '非表示';
 $Definition['Hide my online status from other members'] = 'オンライン ステータスを他のメンバーに非表示にする';
-$Definition['Hide previous quotes'] = '&laquo; 以前の引用を隠す';
+$Definition['Hide previous quotes'] = '« 以前の引用を隠す';
 $Definition['Hide Results'] = '結果を隠す';
 $Definition['Hide signatures?'] = '署名を隠しますか？';
 $Definition['Hide signatures always'] = '常に署名を隠す';
@@ -872,6 +870,7 @@ $Definition["Kilobyte"] = "キロバイト";
 
 $Definition['Label'] = 'ラベル';
 $Definition['Last Active'] = '最終訪問';
+$Definition['Last Commented'] = '最後のコメント';
 $Definition['Last IP'] = '直近のIPアドレス';
 $Definition['lasts %s'] = '%s継続しています';
 $Definition['Last Updated'] = '前回の更新';
@@ -1040,9 +1039,10 @@ $Definition['New Password'] = '新しいパスワード';
 $Definition['New Poll'] = '投票を作成';
 $Definition['New Post'] = '新しい投稿';
 $Definition['Next'] = '次';
+$Definition['Next Page'] = '次のページ';
 $Definition['Ninth Anniversary'] = '9周年';
 $Definition['No'] = 'いいえ';
-$Definition['NoBadgesEarned'] = 'あと数分&hellip;';
+$Definition['NoBadgesEarned'] = 'あと数分…';
 $Definition['No badges yet.'] = 'まだバッジがありません。';
 $Definition['Nobody has confirmed their attendance yet.'] = 'まだ参加の確認をした人はいません。';
 $Definition['Nobody has declined the invitation so far.'] = 'まだ招待を断った人はいません。';
@@ -1211,6 +1211,7 @@ $Definition['PreferenceRankPopup'] = 'ランクに変動があったら知らせ
 $Definition['Preferences'] = '個人設定';
 $Definition['Preview'] = 'プレビュー';
 $Definition['Previous'] = '前の';
+$Definition['Previous Page'] = '前のページ';
 $Definition['Privacy'] = '非公開';
 $Definition['Privacy Settings'] = 'プライバシー設定';
 $Definition['<0>Privacy Policy</0> and '] = '<0>プライバシーポリシー</0> と<1>利用規約</1>';
@@ -1325,6 +1326,8 @@ $Definition['Reset Your Password'] = 'パスワードをリセット';
 $Definition['Restore'] = 'Restore';
 $Definition['Restored'] = '保存済み';
 $Definition['Restore deleted content.'] = '削除されたコンテンツを復元します。';
+$Definition['Result(s) <0/> to <1/> of <2/>'] = '結果 <0/> から <2/> の <1/>';
+$Definition['Search for: "%s"'] = '以下で検索：「%s」';
 $Definition['Return to %s'] = '%sに戻る';
 $Definition['Reveal'] = '表示する';
 $Definition['reverse'] = '逆';
@@ -1367,16 +1370,20 @@ $Definition['Save your password'] = 'パスワードを保存';
 $Definition['Search'] = '検索';
 $Definition['Search %s'] = ' %sを検索する';
 $Definition['search archived'] = 'アーカイブを検索';
+$Definition['Search archived'] = 'アーカイブされた検索';
 $Definition['SearchBoxPlaceHolder'] = '検索';
 $Definition["Search for <0/>"] = "<0/>を検索";
+$Definition['Search for a category'] = 'カテゴリーを検索';
 $Definition['Search for a tag.'] = 'すべてを検索、またはタグの一部を検索する。';
 $Definition['Search group members'] = 'グループメンバーを検索';
 $Definition['Search Groups'] = '検索グループ';
 $Definition['Search groups'] = '検索グループ';
 $Definition['search only in followed categories'] = 'フォロー中のカテゴリー内でのみ検索';
+$Definition['Search only followed Categories'] = 'フォローしているカテゴリのみを検索';
 $Definition['Search results for \'%s\''] = '｢%s｣の検索結果';
 $Definition['search subcategories'] = 'サブカテゴリを検索する
 ';
+$Definition['Search Subcategories'] = 'サブカテゴリーを検索';
 $Definition['Second Anniversary'] = '2周年';
 $Definition['Secret'] = 'シークレット';
 $Definition['Sections'] = 'セクション';
@@ -1405,7 +1412,7 @@ $Definition['Share on Facebook'] = 'Facebookでシェア';
 $Definition['she'] = '彼女';
 $Definition['show'] = '表示';
 $Definition['Shown only on mobile'] = 'モバイルでのみ表示する';
-$Definition['Show previous quotes'] = '&raquo; 以前の引用を表示';
+$Definition['Show previous quotes'] = '» 以前の引用を表示';
 $Definition['Show popular tags'] = '一般的なタグを表示する';
 $Definition['Show unfollowed categories'] = 'フォローされていないカテゴリーを表示する';
 $Definition['Sign-In URL'] = 'サインインURL';
@@ -1560,7 +1567,9 @@ $Definition['These tags are reserved and cannot be used: %s'] = 'これらのタ
 $Definition['The site is currently undergoing maintenance.'] = 'このサイトは現在メンテナンス中です。';
 $Definition['The status for "%s" has changed to %s.'] = '"%s"のステータスが%sに変更';
 $Definition['The uploaded file was too big (max %s).'] = 'アップロードされたファイルは大きすぎます(最大%sまで)。';
-$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'アップロードされたファイルの拡張子は許可されていません。\n許可されている拡張子は以下のものだけです。';
+$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'アップロードされたファイルの拡張子は許可されていません。
+許可されている拡張子は以下のものだけです。
+%s';
 $Definition['The user has already been warned for this %s.'] = 'ユーザーはすでにこの %s について通知されています。';
 $Definition['The user isn\'t banned.'] = 'このユーザーはアクセス制限されていないか、他の機能によりアクセスが制限されています。';
 $Definition['they'] = '彼ら';
@@ -1679,6 +1688,7 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = '�
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'ユーザー名には 1～20 文字の英数字と日本語を使用できます。<br />記号はナカグロ・長音・イコール（全角のみ）、アンダースコア・ハイフン（全半角）を使用できます。';
 $Definition['UsernameError'] = 'ユーザー名には 1～20 文字の英数字と日本語を使用できます。<br />記号はナカグロ・長音・イコール（全角のみ）、アンダースコア・ハイフン（全半角）を使用できます。';
 $Definition['Username or email'] = 'ユーザー名またはメールアドレス';
+$Definition['User Not Found'] = 'ユーザーが見つかりません';
 $Definition['User not found.'] = '申し訳ありません、あなたの入力したメールアドレス／ユーザー名に関するアカウントが見当たりません。';
 $Definition['Users'] = 'ユーザー';
 $Definition['Users Count'] = 'ユーザーのカウント';
@@ -1946,7 +1956,8 @@ $Definition['Format as Strikethrough'] = '取り消し線書式を適用';
 $Definition['Strikethrough'] = '取り消し線';
 $Definition['Format as Inline Code'] = 'インライン・コード書式を適用';
 $Definition['Paragraph Code Block'] = 'コードブロック';
-$Definition["Paragraph (Removes paragraph style and sets to plain paragraph)"] = "段落（段落のスタイルを削除し、プレーンな段落に設定します）";
+$Definition['Parent'] = '親';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = '段落（段落のスタイルを削除し、プレーンな段落に設定します）';
 $Definition['Code Block'] = 'コードブロック';
 $Definition['Format as Link'] = 'リンク書式を適用';
 $Definition['Link'] = 'リンク';

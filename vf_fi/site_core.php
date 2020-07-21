@@ -17,8 +17,6 @@ $Definition['%1$s was removed from the %2$s %3$s and added to the %4$s %5$s.'] =
 $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s kirjoitti %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s hyväksyi jäsenen %2$s rekisteröitymisen.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s loi käyttäjätilin jäsenelle %1$s.';
-$Definition['%s$1 to %s$2'] = '%s$1 - %s$2';
-$Definition['%s$1 to %s$2 of %s$3'] = '%s$1 - %s$2 / %s$3';
 $Definition['%s (Current)'] = '%s (Nykyinen)';
 $Definition['%s: %s'] = '%s: %s';
 $Definition['%s Agrees'] = '%s hyväksyntää';
@@ -71,7 +69,7 @@ $Definition['%s new'] = '%s uusi';
 $Definition['%s new comment since you last read this.'] = '%s uusi kommentti viime lukukerran jälkeen.';
 $Definition['%s new comments since you last read this.'] = '%s uutta kommenttia viime lukukerran jälkeen.';
 $Definition['%s New Plural'] = '%s Uutta';
-$Definition['%s new plural'] = '%s uusi';
+$Definition['%s new plural'] = '%s uutta';
 $Definition['%s Not Found'] = '%s ei löytynyt';
 $Definition['%s not found.'] = '%s ei löytynyt.';
 $Definition['%s of %s'] = '%s / %s';
@@ -124,6 +122,7 @@ $Definition['1 message'] = '1 viesti';
 
 $Definition['<General Error>'] = '<Yleinen virhe>';
 $Definition['<strong>%1$s</strong> (%2$s) %3$s'] = '<strong>%1$s</strong> (%2$s) %3$s ';
+$Definition["<0/>-<1/> of <2/>"] = "<0/>-<1/> / <2/>";
 $Definition["<0/> by <1/>"] = "<0/> tekijältä <1/>";
 $Definition["<0/> message"] = "<0/> viesti";
 $Definition["<0/> messages"] = "<0/> viestiä";
@@ -158,8 +157,8 @@ $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s kommentoi %8$s.'
 $Definition['Activity.Comment'] = 'Kommentoi';
 $Definition['Activity.CommentMention.FullHeadline'] = '%1$s mainitsi(t) jäsenen %3$s. Katso %8$s.';
 $Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s mainitsi(t) jäsenen %3$s. Katso %8$s.';
-$Definition['Activity.ConversationMessage.FullHeadline'] = 'Uusi privaviesti, lähettäjänä %1$s.';
-$Definition['Activity.ConversationMessage.ProfileHeadline'] = 'Uusi privaviesti, lähettäjänä %1$s.';
+$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s lähetti sinulle puhelimen %8$s.';
+$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s lähetti sinulle puhelimen %8$s.';
 $Definition['Activity.Join.FullHeadline'] = '%1$s liittyi.';
 $Definition['Activity.Join.ProfileHeadline'] = '%1$s liittyi.';
 $Definition['Activity.PictureChange.FullHeadline'] = '%1$s vaihtoi %6$s profiilikuvan.';
@@ -203,6 +202,7 @@ $Definition['All Bookmarks'] = 'Kaikki suosikit';
 $Definition['All Badges'] = 'Kaikki merkit';
 $Definition['All Categories'] = 'Kaikki kategoriat';
 $Definition['all categories'] = 'kaikki luokat';
+$Definition['All Content'] = 'Kaikki sisältö';
 $Definition['All Conversations'] = 'Kaikki keskustelut';
 $Definition['All Discussions'] = 'Kaikki keskustelut';
 $Definition['All discussions marked as viewed.'] = 'Kaikki katsotuiksi merkityt keskustelut.';
@@ -338,6 +338,7 @@ $Definition['CategoriesShowFollowed'] = 'Näytä vain seurantaan asetetut katego
 $Definition['CategoriesShowUnfollowed'] = 'Näytä piilotetut kategoriat';
 $Definition['CategoriesViewingAll'] = 'Olet asettanut näkyviin kaikki kategoriat';
 $Definition['CategoriesViewingFollowed'] = 'Olet asettanut näkyviin vain kategoriat, joita seuraat.';
+$Definition['Categories & Groups'] = 'Kategoriat ja ryhmät';
 $Definition['Category'] = 'Kategoria';
 $Definition['Category does not exist.'] = 'Kategoriaa ei ole olemassa.';
 $Definition['Category Filter'] = 'Kategoriasuodatin';
@@ -453,6 +454,7 @@ $Definition['Date Added'] = 'Lisätty';
 $Definition['Date Ignored'] = 'Päivämäärä ohitettu';
 $Definition["Date Input"] = "Päiväyksen syöttö";
 $Definition['Date Examples'] = 'Esimerkkejä: maanantai, tänään, viime viikolla, 26. marraskuuta, 3/26/04';
+$Definition["Date Created"] = "Luomispäivä";
 $Definition["Date Updated"] = "Päivityksen päivämäärä";
 $Definition['Date within'] = 'Aikaväli';
 $Definition['Day'] = 'Päivä';
@@ -478,6 +480,7 @@ $Definition['Delete Group'] = 'Poista ryhmä';
 $Definition['Delete the user and all of the user\'s content. This will cause discussions to be disjointed, appearing as though people are responding to content that is not there. This is a great option for removing spammer content.'] = 'Poista jäsen ja jäsenen lähettämä kaikki sisältö. Tämä yleensä aiheuttaa keskusteluissa epäloogisuuksia, kun muut käyttäjät vastaavat viesteihin, joita ei enää ole. Roskapostien poistoon tämä kuitenkin on paras vaihtoehto. ';
 $Definition['Delete User Content'] = 'Poista jäsenen lähettämä sisältö';
 $Definition['Delete User Forever'] = 'Poista jäsen pysyvästi';
+$Definition['Deleting...'] = 'Poistetaan...';
 $Definition['Deny'] = 'Kiellä';
 $Definition['Deny Applicant'] = 'Kiellä';
 $Definition['Description'] = 'Kuvaus';
@@ -493,6 +496,7 @@ $Definition['discussions'] = 'keskustelut';
 $Definition['Discussions Page'] = 'Keskustelu -sivu';
 $Definition['Discussion List'] = 'Keskustelulista';
 $Definition['Discussion marked as noindex'] = 'Keskustelu merkitty noindex-tagilla';
+$Definition['Discussion Not Found'] = 'Keskustelua ei löytynyt';
 $Definition['Discussion Title'] = 'Keskustelun otsikko';
 $Definition['Discussion Type'] = 'Keskustelu';
 $Definition['Dislike'] = 'En tykkääkään';
@@ -574,15 +578,11 @@ Seuraa alla olevaa linkkiä nähdäksesi lisää:
 Hyvää päivänjatkoa! ';
 $Definition['Email Notifications'] = 'Sähköposti-ilmoitukset';
 $Definition['Email Or Username'] = 'Sähköposti tai käyttäjätunnus';
-$Definition['EmailPassword'] = 'Hello %1$s,
+$Definition['EmailPassword'] = '%2$s on palauttanut salasanasi osoitteessa %3$s. Kirjautumistietosi ovat nyt:
 
-%2$s has reset your password at %3$s. Your login credentials are now:
-
-  Email: %6$s
-  Password: %5$s
-  Url: %4$s
-
-Have a great day!';
+Sähköposti: %6$s
+Salasana: %5$s
+URL: %4$s';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Sovelluksen lähettämiin sähköpostiin vastataan seuraavista nimestä ja osoitteesta';
 $Definition['Email Source'] = 'Sähköposti';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -872,6 +872,7 @@ $Definition["Kilobyte"] = "Kilotavu";
 
 $Definition['Label'] = 'Luokitus';
 $Definition['Last Active'] = 'Viimeksi';
+$Definition['Last Commented'] = 'Viimeksi kommentoitu';
 $Definition['Last IP'] = 'Viimeisin IP';
 $Definition['lasts %s'] = 'Kesto %s';
 $Definition['Last Updated'] = 'Viimeksi päivitetty';
@@ -1040,6 +1041,7 @@ $Definition['New Password'] = 'Uusi salasana';
 $Definition['New Poll'] = 'Uusi kysely';
 $Definition['New Post'] = 'Uusi julkaisu';
 $Definition['Next'] = 'Seuraava';
+$Definition['Next Page'] = 'Seuraava sivu';
 $Definition['Ninth Anniversary'] = 'Yhdeksäs vuosipäivä';
 $Definition['No'] = 'Ei';
 $Definition['NoBadgesEarned'] = 'Minä hetkenä tahansa…';
@@ -1144,11 +1146,9 @@ $Definition['Password'] = 'Salasana';
 $Definition['Password Contains Username'] = 'Sisältää käyttäjätunnuksen';
 $Definition['Password Good'] = 'Hyvä';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Hi %1$s,
+$Definition['PasswordRequest'] = 'Someone has requested to reset your password at %2$s. To reset your password, follow this link:
 
-Someone has requested to reset your password at %2$s. To reset your password, follow this link:
-
-  %3$s
+%3$s
 
 If you did not make this request, disregard this email.';
 $Definition['Passwords don\'t match'] = 'Salasanat eivät täsmää';
@@ -1213,6 +1213,7 @@ $Definition['PreferenceRankPopup'] = 'Ilmoita minulle, kun asemani muuttuu.';
 $Definition['Preferences'] = 'Asetukset';
 $Definition['Preview'] = 'Esikatselu';
 $Definition['Previous'] = 'Edellinen';
+$Definition['Previous Page'] = 'Edellinen sivu';
 $Definition['Privacy'] = 'Yksityisyys';
 $Definition['Privacy Settings'] = 'Yksityisyysasetukset';
 $Definition['<0>Privacy Policy</0> and '] = '<0>Tietosuojakäytäntö</0> ja <1>palveluehdot</1>';
@@ -1327,6 +1328,8 @@ $Definition['Reset Your Password'] = 'Uudista salasanasi';
 $Definition['Restore'] = 'Palauta';
 $Definition['Restored'] = 'Palautettu';
 $Definition['Restore deleted content.'] = 'Palauta poistettu sisältö.';
+$Definition['Result(s) <0/> to <1/> of <2/>'] = 'Tulokset <0/>-<1/> / <2/>';
+$Definition['Search for: "%s"'] = 'Etsi kohdetta: "%s"';
 $Definition['Return to %s'] = 'Palaa kohteeseen %s';
 $Definition['Reveal'] = 'Paljasta';
 $Definition['reverse'] = 'peruuta';
@@ -1369,15 +1372,19 @@ $Definition['Save your password'] = 'Tallenna salasanasi';
 $Definition['Search'] = 'Haku';
 $Definition['Search %s'] = 'Etsi %s';
 $Definition['search archived'] = 'haku arkistoitu';
+$Definition['Search archived'] = 'Etsintä suoritettu';
 $Definition['SearchBoxPlaceHolder'] = 'Haku';
 $Definition["Search for <0/>"] = "Hae <0/>";
+$Definition['Search for a category'] = 'Etsi kategoriaa';
 $Definition['Search for a tag.'] = 'Etsi koko tagia tai osaa siitä.';
 $Definition['Search group members'] = 'Etsi ryhmän jäseniä';
 $Definition['Search Groups'] = 'Hae ryhmiä';
 $Definition['Search groups'] = 'Hae ryhmiä';
 $Definition['search only in followed categories'] = 'hae vain seuratuista kategorioista';
+$Definition['Search only followed Categories'] = 'Etsi vain seuratuista kategorioista';
 $Definition['Search results for \'%s\''] = 'Tulokset haulla \'%s\'';
 $Definition['search subcategories'] = 'etsi alakategorioita';
+$Definition['Search Subcategories'] = 'Etsi alakategorioista';
 $Definition['Second Anniversary'] = 'Toinen vuosipäivä';
 $Definition['Secret'] = 'Salainen';
 $Definition['Sections'] = 'Osiot';
@@ -1680,10 +1687,11 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = 'K
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Tunnukset voivat sisältää vain kirjaimia, numeroita ja alaviivoja. Käyttäjätunnuksen pituuden on oltava 3-20 merkkiä.';
 $Definition['UsernameError'] = 'Tunnukset voivat sisältää vain kirjaimia, numeroita ja alaviivoja. Käyttäjätunnuksen pituuden on oltava 3-20 merkkiä.';
 $Definition['Username or email'] = 'Käyttäjätunnus tai sähköpostiosoite';
+$Definition['User Not Found'] = 'Käyttäjää ei löytynyt';
 $Definition['User not found.'] = 'Pahoittelut, antamallasi sähköpostiosoitteella tai käyttäjätiedoilla ei löytynyt tunnusta.';
 $Definition['Users'] = 'Jäsenet';
 $Definition['Users Count'] = 'Käyttäjiä yhteensä';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Käytä korkeintaan {maxImages,monikko,%s kuva, %s kuvaa}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Käytä korkeintaan {maxImages,plural,%s kuva, %s kuvaa}.';
 
 $Definition['ValidateBanned'] = 'Toiminto %s ei ole sallittu.';
 $Definition['ValidateBoolean'] = '%s ei ole kelvollinen muuttuja.';
@@ -1753,7 +1761,7 @@ $Definition['Warning'] = 'Varoitus';
 $Definition['Warning Level %s'] = 'Varoitustaso %s';
 $Definition['Warnings'] = 'Varoitukset';
 $Definition['WarningTitleFormat'] = '{InsertUserID,User} varoitti käyttäjää {WarnUserID,User} aiheesta {Points,plural,%s points}. ';
-$Definition['WarningTitleFormat.Notice'] = '{SyötäKäyttäjätunnus,Käyttäjä} varoitettu {VaroitaKäyttäjätunnusta,Käyttäjä} syystä {Pisteet,monikko,%s pistettä} (vain ilmoitus).';
+$Definition['WarningTitleFormat.Notice'] = '{InsertUserID,User} varoitettu {WarnUserID,User} syystä {Points,plural,%s pistettä} (vain ilmoitus).';
 $Definition['was'] = 'oli';
 $Definition['We\'ve received a request to change your password.'] = 'Meitä pyydettiin vaihtamaan %s salasanasi. Jos et ole itse pyytänyt salasanan vaihtamista, niin jätä tämä sähköposti huomioitta.';
 $Definition['Website'] = 'Kotisivu';
@@ -1811,7 +1819,7 @@ $Definition['You\'re banned from joining this group.'] = 'Sinua on estetty liitt
 $Definition['You\'ve already created the maximum number of groups.'] = 'Olet jo luonut maksimimäärän ryhmiä.';
 $Definition['You\'ve applied to join this group.'] = 'Olet pyrkinyt tämän ryhmän jäseneksi.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Olet esittänyt kysymyksiä, joille on nyt vastauksia</a>. Varmistathan, että hyväksyt/hylkäät vastaukset.';
-$Definition['You\'ve been invited to join {Name}.'] = 'Sinut on kutsuttu liittymään ryhmään {Nimi}.';
+$Definition['You\'ve been invited to join {Name}.'] = 'Sinut on kutsuttu liittymään ryhmään {Name}.';
 $Definition['You\'ve been Jailed.'] = 'Sinut on asetettu jäähylle';
 $Definition['You\'ve been warned.'] = 'Sinua on varoitettu.';
 $Definition['You already have an account here.'] = 'Vaikuttaa siltä, että olet jo jäsen?';
@@ -1846,7 +1854,7 @@ $Definition['You are not allowed to warn a user with the same permission level a
     'Sinulla ei ole oikeutta varoittaa käyttäjää, jolla on sama käyttöoikeustaso kuin sinä.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Olet nyt poistumassa kohteesta %1$s. Napsauta linkkiä jatkaaksesi kohteeseen %2$s.';
 $Definition['You are now signed in.'] = 'Olet kirjautuneena.';
-$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Saat vain {maxImages,monikko,%s kuvan,%s kuvaa}.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Saat vain {maxImages,plural,%s kuvan,%s kuvaa}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'Et voi käyttää ohitustoimintoa.';
 $Definition['You are viewing %s\'s ignore list'] = 'Näkyvillä on henkilön %s ohituslista';
 $Definition['you can also drag-and-drop'] = 'voit myös siirtää sen hiiren avulla';
@@ -1946,7 +1954,8 @@ $Definition['Format as Strikethrough'] = 'Muotoile yliviivatuksi';
 $Definition['Strikethrough'] = 'Läpimurto';
 $Definition['Format as Inline Code'] = 'Muotoile inline-koodiksi';
 $Definition['Paragraph Code Block'] = 'Koodilohko';
-$Definition["Paragraph (Removes paragraph style and sets to plain paragraph)"] = "Kappale (poistaa kappaleen tyylin ja asettaa tavallisen kappaleen)";
+$Definition['Parent'] = 'Vanhempi';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Kappale (poistaa kappaleen tyylin ja asettaa tavallisen kappaleen)';
 $Definition['Code Block'] = 'Koodilohko';
 $Definition['Format as Link'] = 'Muotoile linkiksi';
 $Definition['Link'] = 'Linkki';

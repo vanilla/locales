@@ -39,7 +39,7 @@ $Definition['Checkboxes allow admins to perform batch actions on a number of dis
 $Definition['Check out our %s'] = 'Lue %s -sivumme';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla on maailman yksinkertaisin ja voimakkain verkkoyhteisöalusta. Se käyttäminen on superhelppoa. Aloita tästä esittelyvideosta ja jatka allaolevien vaiheiden mukaan. Pidä hauskaa!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'Valitse rooli, joka annetaan sitä ilman jääneille käyttäjille: ';
-$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Valitse teema tälle yhteisölle. &lt;0&gt; Lue lisää </0>';
+$Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Valitse teema tälle yhteisölle. <0> Lue lisää </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Määritä, miten haluat kohdella käyttäjän %s lähettämää sisältöä (kommentit, viestit, jne).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Valitse kategorialuettelon suosikkiulkoasu.';
@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Lue lisää mukautetusta reitityks
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Opi muuttamaan foorumisi ulkonäköä ja käyttötuntumaa: lataa logosi, aseta kotisivusi, valitse teema ja muokkaa sitä.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Opi käyttämään foorumisi perustoimintoja.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Lokalisoinnin avulla sivustoasi voidaan käyttää muillakin kielillä. Ota tarvitsemasi kielet tässä käyttöön tai pois käytöstä. ';
-$Definition['LogoDescription'] = 'Bannerin logo näkyy sivustosi yläosassa. Kaikki teemat eivät välttämättä tue logon näyttämistä.';
+$Definition['LogoDescription'] = 'Banderollo näkyy sivustosi yläosassa.';
+$Definition['LogoDisclaimer'] = 'Teemaeditorilla tehdyt teemat ja jotkut mukautetut teemat eivät käytä tätä asetusta.';
 
 $Definition['Make sure you click View Page'] = 'Muista aina tarkistaa <a href="%s">näkymä</a> tehtyäsi siihen muutoksia.';
 $Definition['Manage Routes'] = 'Reittien hallinta';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'S
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Sisällön merkitseminen ei roskaviestiksi tuo sen taas näkyviin foorumissa.';
 $Definition['Messages can appear anywhere in your application.'] = 'Voit näyttää ylläpidon viestejä palstallasi muun sisällön ulkopuolella. Viesteillä voit tiedottaa käyttäjille esimerkiksi uusista tapahtumista tai muusta ajankohtaisesta. Tällä sivulla voit järjestää viestit vetämällä ja pudottamalla ne haluamaasi järjestykseen.';
 $Definition['MobileLogoDescription'] =
-    'Mobiilibannerin logo näkyy sivustosi yläosassa. Jotkut teemat eivät välttämättä näytä tätä logoa.';
+    'Mobiilibännerin logo näkyy sivustosi yläosassa.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiiliteemojen avulla voi muuttaa sivuston ulkoasua ja tunnelmaa pienemmillä laitteilla.';
 
