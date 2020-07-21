@@ -119,7 +119,7 @@ $Definition['Learn about custom routing.'] = 'Weitere Informationen zu eigenen R
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lerne, wie du die komplette Erscheinung deines Forums verändern kannst: Lade dein Logo hoch, ändere deine Homepage, wähle ein Thema aus und passe es an.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lerne die Basisfunktionen deines Forums kennen.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Lokalisierungen gestatten Ihnen, auf Ihrer Seite andere Sprachen zu unterstützen. Aktivieren und deaktivieren Sie hier Lokalisierungen, die Sie einstellen wollen.';
-$Definition['LogoDescription'] = 'Das Banner-Logo wird oben auf Ihrer Website angezeigt.';
+$Definition['LogoDescription'] = 'Das Bannerlogo erscheint oben auf deiner Seite.';
 $Definition['LogoDisclaimer'] = 'Mit dem Themeneditor erstellte Themen und einige benutzerdefinierte Themen verwenden diese Einstellung nicht.';
 
 $Definition['Make sure you click View Page'] = 'Klicke auf <a href="%s">Seite anzeigen</a>, um zu sehen wie die Kategorie-Seite nach dem Speichern aussieht.';
@@ -128,7 +128,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'W
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Wenn du Dinge als kein Spam markierst, werden sie wieder im Forum angezeigt.';
 $Definition['Messages can appear anywhere in your application.'] = 'Nachrichten können überall in der Anwendung angezeigt werden, um die Nutzer bspw. über Neuigkeiten zu informieren. Nutze diese Seite, um sie per drag and drop zu verwalten.';
 $Definition['MobileLogoDescription'] =
-    'Das mobile Banner-Logo wird oben auf Ihrer Website angezeigt.';
+    'Das Bannerlogo erscheint oben auf deiner Seite.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mit mobilen Themen können Sie das Design Ihrer Website auf kleineren Geräten ändern.';
 
