@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Μάθετε σχετικά με �
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Μάθετε πως να αλλάξετε εντελώς την όψη του φόρουμ σας: ανεβάστε το λογότυπό σας, ορίστε την αρχική σας σελίδα, επιλέξτε ένα θέμα και τροποποιήστε τον.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Μάθετε πώς να χρησιμοποιείτε τις βασικές λειτουργίες του φόρουμ σας.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Οι τοποθεσίες σας επιτρέπουν να υποστηρίζετε άλλες γλώσσες στην ιστοσελίδα σας.';
-$Definition['LogoDescription'] = 'Το λογότυπο εμφανίζεται στο επάνω μέρος του χώρου σας. Κάποαι θέματα μπορεί να μην εμφανίσουν αυτό το λογότυπο.';
+$Definition['LogoDescription'] = 'Το λογότυπο εμφανίζεται στο επάνω μέρος του χώρου σας.';
+$Definition['LogoDisclaimer'] = 'Τα θέματα που έχουν δημιουργηθεί με το πρόγραμμα επεξεργασίας θεμάτων και ορισμένα προσαρμοσμένα θέματα δεν χρησιμοποιούν αυτήν τη ρύθμιση.';
 
 $Definition['Make sure you click View Page'] = 'Βεβαιωθείτε ότι κάνατε κλικ στο <a href="%s">Εμφάνιση Σελίδας</a> για να δείτε πως θα φαίνεται η σελίδα των κατηγοριών μετά την αποθήκευση.';
 $Definition['Manage Routes'] = 'Διαχείριση Δρομολογήσεων';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Το μαρκάρισμα πραγμάτων ως όχι spam θα τα βάλει πάλι πίσω στο φόρουμ σας.';
 $Definition['Messages can appear anywhere in your application.'] = 'Τα μηνύματα μπορούν να εμφανισθούν οπουδήποτε στην εφαρμογή σας και μπορεί να χρησιμοποιηθούν για να ενημερώσουν τους χρήστες σας για νέα και για γεγονότα. Χρησιμοποιήστε αυτή τη σελίδα για να αναδιοργανώσετε τα μηνύματα σέρνοντάς τα επάνω ή κάτω.';
 $Definition['MobileLogoDescription'] =
-    'Το λογότυπο banner για κινητά εμφανίζεται στην κορυφή του ιστότοπού σας. Ορισμένα θέματα ενδέχεται να μην εμφανίζουν αυτό το λογότυπο.';
+    'Το λογότυπο banner για κινητά εμφανίζεται στην κορυφή του ιστότοπού σας.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Τα θέματα για κινητά σάς επιτρέπουν να αλλάξετε την εμφάνιση και την αίσθηση του ιστότοπού σας σε μικρότερες συσκευές.';
 
