@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = '了解更多自訂路由。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '學習如何徹底改變討論版的外觀設計：上傳您的專屬標誌、設定首頁名稱、選擇視覺主題、並且改變各種自訂選項。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '學習使用討論版的各種基本功能。';
 $Definition['Locales allow you to support other languages on your site.'] = '多語系功能允許您的網站支援其他語言；請在這裡啟用或關閉您在網站上提供的語言。';
-$Definition['LogoDescription'] = '橫幅標誌會出現在您網站的頂端，但有些視覺主題可能不會顯示這個標誌。';
+$Definition['LogoDescription'] = '標語徽標顯示在您網站的頂部。';
+$Definition['LogoDisclaimer'] = '使用主題編輯器創建的主題和某些自定義主題不使用此設置。';
 
 $Definition['Make sure you click View Page'] = '在存檔之後，請務必點按「<a href="%s">閱覽網頁</a>」看看分類網頁的樣子。';
 $Definition['Manage Routes'] = '管理轉送功能';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = '標示為「非垃圾訊息」的內容，會重新在討論版上出現。';
 $Definition['Messages can appear anywhere in your application.'] = '訊息可以在您應用程式中的任何地方出現，並且可以用於將新聞或活動內容告知用戶；請利用這個頁面，以上下拖放方式來重新整理訊息。';
 $Definition['MobileLogoDescription'] =
-    '移動橫幅徽標出現在您網站的頂部。某些主題可能不會顯示此徽標。';
+    '移動橫幅徽標出現在您網站的頂部。';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     '通過移動主題，您可以在較小的設備上更改網站的外觀。';
 
