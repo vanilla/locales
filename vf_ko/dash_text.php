@@ -131,7 +131,8 @@ $Definition['Learn about custom routing.'] = '사용자 맞춤 라우팅(경로 
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '포럼의 외관 및 느낌을 완전히 바꾸는 방법을 알아 보세요: 로고를 업로드하고 홈페이지를 설정하고 테마를 선택하여 취향에 맞게 조정하세요.';
 $Definition['Learn how to use the basic functionality of your forum.'] = '포럼의 기본 기능 사용 방법을 알아 보세요.';
 $Definition['Locales allow you to support other languages on your site.'] = '로케일(Locale)은 귀하의 사이트에서 다른 언어를 지원할 수 있게 해 줍니다. 여기에서 이용하고 싶은 로케일을 사용 및 사용 해제하세요.';
-$Definition['LogoDescription'] = '배너 로고가 사이트 상단에 표시됩니다. 몇몇 테마는 이 로고를 표시하지 않을 수 있습니다. ';
+$Definition['LogoDescription'] = '배너 로고가 사이트 상단에 표시됩니다.';
+$Definition['LogoDisclaimer'] = '테마 편집기로 만든 테마 및 일부 사용자 지정 테마는이 설정을 사용하지 않습니다.';
 
 $Definition['Make sure you click View Page'] = '저장한 후에 카테고리 페이지가 어떤지 확인하려면반드시 <a href="%s">보기 페이지(View Page)</a>를 클릭해 주세요.';
 $Definition['Manage Routes'] = '라우팅 경로 설정';
@@ -141,7 +142,7 @@ $Definition['Messages can appear anywhere in your application.'] = '메시지는
 
 <br />메세지 작성 후 목록에서 순서를 변경할 수 있습니다.';
 $Definition['MobileLogoDescription'] =
-    '모바일 배너 로고가 사이트 상단에 나타납니다. 일부 테마에는이 로고가 표시되지 않을 수 있습니다.';
+    '모바일 배너 로고가 사이트 상단에 나타납니다.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     '모바일 테마를 사용하면 더 작은 기기에서 사이트의 모양과 느낌을 변경할 수 있습니다.';
 
