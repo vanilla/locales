@@ -118,7 +118,8 @@ $Definition['Learn about custom routing.'] = 'カスタムルーティングに�
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'フォーラムのイメージを完全に変更する方法を学習します。ロゴをアップロードしてホームページを設定し、テーマを選択してカスタマイズします。';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'フォーラムの基本的な機能の使用方法を学習します。';
 $Definition['Locales allow you to support other languages on your site.'] = 'ロケールを使用すると、サイトで他の言語をサポートすることができます。ここで使用可能にしたいロケールを有効または無効にします。';
-$Definition['LogoDescription'] = 'バナー ロゴは、サイトの上部に表示されます。テーマによってはこのロゴは表示されない場合があります。';
+$Definition['LogoDescription'] = 'バナー ロゴは、サイトの上部に表示されます。';
+$Definition['LogoDisclaimer'] = 'テーマエディターで作成されたテーマと一部のカスタムテーマは、この設定を使用しません。';
 
 $Definition['Make sure you click View Page'] = '<a href="%s">ページを表示</a>をクリックすると、保存後にカテゴリ ページがどのように見えるかを確認することができます。';
 $Definition['Manage Routes'] = 'ルート管理';
@@ -126,7 +127,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'スパムでないことを示すマークをつければ、フォーラムに戻ります。';
 $Definition['Messages can appear anywhere in your application.'] = 'メッセージはサイトのどこにでも表示でき、ユーザーにニュースやイベントを通知するために使われます。このページでメッセージをドラッグすると、順番を入れ替えることができます。';
 $Definition['MobileLogoDescription'] =
-    'モバイル用バナーのロゴがサイトの上部に表示されます。一部のテーマでは、このロゴが表示されない場合があります。';
+    'モバイル用バナーのロゴがサイトの上部に表示されます。';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'モバイル用テーマを使用すると、小さめのデバイス上でのサイトの外観と雰囲気を変更できます。';
 
