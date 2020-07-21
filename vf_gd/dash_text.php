@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Ionnsaich mu dheidhinn gnàthachad
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Leigidh àiteachan-fuirich leat taic a thoirt do chànanan eile air an làrach agad. Dèan comas agus cuir à comas locales a tha thu airson a dhèanamh an seo.';
-$Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
+$Definition['LogoDescription'] = 'Tha suaicheantas a ’bhratach a’ nochdadh aig mullach na làraich agad.';
+$Definition['LogoDisclaimer'] = 'Cha bhith na cuspairean a chaidh a dhèanamh le deasaiche a ’chuspair agus cuid de chuspairean gnàthaichte a’ cleachdadh an t-suidheachaidh seo.';
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Manage Routes'] = 'Manage Routes';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['MobileLogoDescription'] =
-    'Bidh suaicheantas bratach gluasadach a ’nochdadh aig mullach na làraich agad. Is dòcha nach bi cuid de chuspairean a ’taisbeanadh an suaicheantas seo.';
+    'Bidh suaicheantas bratach gluasadach a ’nochdadh aig mullach na làraich agad.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Leigidh cuspairean gluasadach dhut sealladh is faireachdainn na làraich agad atharrachadh air innealan nas lugha.';
 
