@@ -118,7 +118,8 @@ $Definition['Learn about custom routing.'] = 'Prečítajte si ďalšie informác
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Naučte sa úplne zmeniť vzhľad a celkový dojem fóra: nahrajte svoje logo, nastavte svoju domovskú stránku, vyberte tému a prispôsobte si to.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Naučte sa, ako používať základné funkcie vášho fóra.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Miestne nastavenia vám umožňujú podporovať iné jazyky na vašej stránke. Môžete povoliť alebo zakázať miestne nastavenia, ktoré chcete sprístupniť.';
-$Definition['LogoDescription'] = 'Logo banneru sa zobrazuje v hornej časti stránky. Niektoré témy nemusia zobrazovať toto logo.';
+$Definition['LogoDescription'] = 'Logo bannera sa zobrazí v hornej časti stránky.';
+$Definition['LogoDisclaimer'] = 'Témy vytvorené pomocou editora motívov a niektoré vlastné motívy toto nastavenie nepoužívajú.';
 
 $Definition['Make sure you click View Page'] = 'Uistite sa, že kliknete na <a href="%s">Zobraziť stránku</a>, aby ste si pozreli po uložení pozreli ako vyzerá vaša stránka s kategóriami.';
 $Definition['Manage Routes'] = 'Správa ciest';
@@ -126,7 +127,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'A
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ak označíte veci ako nie spam, vrátite ich späť do svojho fóra.';
 $Definition['Messages can appear anywhere in your application.'] = 'Správy sa môžu objavovať kdekoľvek vo vašej aplikácií a môžete ich používať na informovanie používateľov o novinkách a udalostiach. Použite túto stránku na reorganizáciu vašich správ ich posúvaním hore alebo dole.';
 $Definition['MobileLogoDescription'] =
-    'Logo mobilného bannera sa zobrazí v hornej časti stránky. Niektoré témy nemusia toto logo zobrazovať.';
+    'Logo mobilného bannera sa zobrazí v hornej časti stránky.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Témy pre mobilné zariadenia vám umožňujú zmeniť vzhľad a dojem z vašich stránok na menších zariadeniach.';
 
