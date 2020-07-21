@@ -132,7 +132,8 @@ $Definition['Learn about custom routing.'] = 'Apprenez-en à propos du routage p
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Apprenez comment changer l\'apparence de votre forum du tout au tout : téléchargez votre logo, définissez votre page d\'accueil, choisissez un thème et personnalisez-le.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apprenez à utiliser les fonctionnalités de base de votre forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Les locales vous permettent de gérer d\'autres langues sur votre site. Activez et désactivez les locales que vous voulez rendre disponibles ici.';
-$Definition['LogoDescription'] = 'Le logo bannière apparaît en haut de votre site. Il est possible que certains thèmes n\'affichent pas ce logo.';
+$Definition['LogoDescription'] = 'Le logo de la bannière apparaît en haut de votre site.';
+$Definition['LogoDisclaimer'] = 'Les thèmes créés avec l&#39;éditeur de thèmes et certains thèmes personnalisés n&#39;utilisent pas ce paramètre.';
 
 $Definition['Make sure you click View Page'] = 'Cliquez sur <a href="%s">Voir la Page</a> pour voir à quoi ressemblera votre page catégories une fois que vous aurez sauvegardé.';
 $Definition['Manage Routes'] = 'Gestion des redirections';
@@ -140,8 +141,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marquer des éléments comme non-spam les replacera dans votre forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Les messages peuvent apparaître n\'importe où dans votre application, et peuvent être utilisés pour informer vos utilisateurs des nouvelles et des événements. Utilisez cette page pour réorganiser vos messages en les faisant glisser en haut ou en bas.';
 $Definition['MobileLogoDescription'] =
-    'Le logo de la bannière mobile apparaît en haut de votre site. Certains thèmes peuvent ne pas afficher ce logo.
-';
+    'Le logo de la bannière mobile apparaît en haut de votre site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Les thèmes mobiles vous permettent de modifier l\'aspect et la convivialité de votre site sur des appareils plus petits.
 ';
