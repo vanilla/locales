@@ -116,7 +116,8 @@ $Definition['Learn about custom routing.'] = 'کسٹم روٹنگ کے بارے 
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'اپنے فورم کی شکل و صورت کو مکمل طور پر تبدیل کرنے کا طریقہ سیکھیں: اپنا لوگو اپ لوڈ کریں ، اپنا ہوم پیج مرتب کریں ، ایک تھیم منتخب کریں اور اسے اپنی مرضی کے مطابق بنائیں۔';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'اپنے فورم کی بنیادی فعالیت کو استعمال کرنے کا طریقہ سیکھیں۔';
 $Definition['Locales allow you to support other languages on your site.'] = 'مقامات آپ کو اپنی سائٹ پر دوسری زبانوں کی حمایت کرنے کی سہولت دیتے ہیں۔ آپ ان دستیاب مقامات کو اہل اور غیر فعال کریں جو آپ یہاں دستیاب کرنا چاہتے ہیں۔';
-$Definition['LogoDescription'] = 'بینر کا لوگو آپ کی سائٹ کے اوپری حصے میں آتا ہے۔ کچھ تھیمز یہ لوگو ظاہر نہیں کرسکتے ہیں۔';
+$Definition['LogoDescription'] = 'بینر کا لوگو آپ کی سائٹ کے اوپری حصے میں آتا ہے۔';
+$Definition['LogoDisclaimer'] = 'تھیم ایڈیٹر اور کچھ کسٹم تھیمز کے ساتھ بنی تھیمز اس ترتیب کو استعمال نہیں کرتے ہیں۔';
 
 $Definition['Make sure you click View Page'] = 'اس بات کو یقینی بنائیں کہ بچت کے بعد آپ کے زمرے کا صفحہ کیسا لگتا ہے اس کے ل you آپ <a href="%s">دیکھیں صفحے</a> پر کلک کریں ۔';
 $Definition['Manage Routes'] = 'راستوں کا انتظام کریں';
@@ -124,7 +125,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'چیزوں کو اسپام کے بطور نشان زد کرنے سے وہ آپ کے فورم میں واپس آجائیں گی۔';
 $Definition['Messages can appear anywhere in your application.'] = 'پیغامات آپ کی درخواست میں کہیں بھی ظاہر ہوسکتے ہیں ، اور آپ کے صارفین کو خبروں اور واقعات سے آگاہ کرنے کے لئے استعمال ہوسکتے ہیں۔ اپنے پیغامات کو اوپر یا نیچے گھسیٹ کر دوبارہ منظم کرنے کے لئے اس صفحے کا استعمال کریں۔';
 $Definition['MobileLogoDescription'] =
-    'موبائل بینر کا لوگو آپ کی سائٹ کے سب سے اوپر ظاہر ہوتا ہے۔ کچھ تھیمز یہ لوگو ظاہر نہیں کرسکتے ہیں۔';
+    'موبائل بینر کا لوگو آپ کی سائٹ کے سب سے اوپر ظاہر ہوتا ہے۔';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'موبائل تھیمز آپ کو چھوٹے آلات پر اپنی سائٹ کی شکل اور شکل تبدیل کرنے کی سہولت دیتے ہیں۔';
 
