@@ -118,7 +118,7 @@ $Definition['Learn how to completely change your forum\'s look and feel: upload 
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Leer hoe je de basisfunctionaliteit van je forum kan gebruiken.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales maken het mogelijk om andere talen op je site te ondersteunen. Schakel locaties die je beschikbaar wilt maken hier in en uit.';
 $Definition['LogoDescription'] = 'Het bannerlogo verschijnt bovenaan uw site.';
-$Definition['LogoDisclaimer'] = 'Thema&#39;s gemaakt met de thema-editor en sommige aangepaste thema&#39;s gebruiken deze instelling niet.';
+$Definition['LogoDisclaimer'] = 'Thema\'s gemaakt met de thema-editor en sommige aangepaste thema\'s gebruiken deze instelling niet.';
 
 $Definition['Make sure you click View Page'] = 'Zorg ervoor dat je  <a href="%s">Bekijk pagina</a> aanklikt om te zien hoe je categoriepagina\'s eruitzien na het opslaan.';
 $Definition['Manage Routes'] = 'Beheer routes';
