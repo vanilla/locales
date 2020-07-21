@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Mai multe informații despre rutar
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aflaţi cum să schimbați complet aspectul forum-ului: încărcaţi-vă logo-ul, setaţi o pagină de start, alegeţi o temă şi personalizaţi-o';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aflaţi cum să utilizaţi funcţionalitățile de bază ale forumului';
 $Definition['Locales allow you to support other languages on your site.'] = 'Localizările vă permit să sprijiniți și alte limbi pe site-ul dvs. Activați şi dezactivați localizările pe care doriţi să le faceţi disponibile aici';
-$Definition['LogoDescription'] = 'Logo-ul banner apare în partea de sus a site-ului. Unele teme nu vorafişa acest logo';
+$Definition['LogoDescription'] = 'Logo-ul bannerului apare în partea de sus a site-ului dvs.';
+$Definition['LogoDisclaimer'] = 'Temele realizate cu editorul de teme și unele teme personalizate nu utilizează această setare.';
 
 $Definition['Make sure you click View Page'] = 'Asiguraţi-vă că faceţi click pe <a href="%s">Vizualizare pagină</a> pentru a vedea cum va arăta pagina de categorii după salvare';
 $Definition['Manage Routes'] = 'Gestionare rute';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'D
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Demarcarea Spam va pune elementele înapoi în forum';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesajele pot apărea oriunde în aplicaţia dumneavoastră, şi pot fi utilizate pentru a informa utilizatorii de ştiri şi evenimente. Utilizaţi această pagină pentru a reorganiza mesajele prin drag & drop';
 $Definition['MobileLogoDescription'] =
-    'Logo-ul bannerului mobil apare în partea de sus a site-ului dvs. Este posibil ca unele teme să nu afișeze acest logo.';
+    'Logo-ul bannerului mobil apare în partea de sus a site-ului dvs.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Temele mobile vă permit să schimbați aspectul site-ului dvs. pe dispozitive mai mici.';
 
