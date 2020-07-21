@@ -116,7 +116,8 @@ $Definition['Learn about custom routing.'] = 'Pelajari lebih lanjut tentang kost
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Pelajari bagaimana mengubah sepenuhnya tampilan dan rasa forum anda: unggah logo anda, setel laman berandanya, memilih sebuah tema dan menyesuaikannya.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Pelajari bagaimana menggunakan fungsional dasar dari forum anda.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Bahasa mengizinkan Anda mendukung bahasa lainnya pada situs Anda. Aktif dan nonaktifkan bahasa yang Anda inginkan agar tersedia di sini.';
-$Definition['LogoDescription'] = 'Logo banner tampil di atas situs anda. Beberapa tema mungkin tidak menampilkan logo ini.';
+$Definition['LogoDescription'] = 'Logo spanduk muncul di bagian atas situs Anda.';
+$Definition['LogoDisclaimer'] = 'Tema dibuat dengan editor tema dan beberapa tema khusus tidak menggunakan pengaturan ini.';
 
 $Definition['Make sure you click View Page'] = 'Pastikan anda klik <a href="%s">Lihat Halaman</a> untuk melihat seperti apa halaman kategori anda setelah disimpan.';
 $Definition['Manage Routes'] = 'Kelola Route';
@@ -124,7 +125,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Menandai sesuatu sebagai bukan spam akan menempatkan mereka kembali ke forum anda.';
 $Definition['Messages can appear anywhere in your application.'] = 'Pesan dapat tampil di mana saja dalam aplikasi anda, dan dapat digunakan untuk menginformasikan kepada pengguna anda mengenai berita atau acara baru. Gunakan halaman ini untuk mengorganisir ulang pesan anda dengan menyeretnya ke atas atau bawah. ';
 $Definition['MobileLogoDescription'] =
-    'Logo spanduk seluler muncul di bagian atas situs Anda. Beberapa tema mungkin tidak menampilkan logo ini.';
+    'Logo spanduk seluler muncul di bagian atas situs Anda.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Tema seluler memungkinkan Anda mengubah tampilan dan nuansa situs Anda di perangkat yang lebih kecil.';
 
