@@ -116,7 +116,8 @@ $Definition['Learn about custom routing.'] = 'Obteniu més informació sobre l\'
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Obteniu més informació sobre com canvieu l\'aspecte del vostre fòrum: carregueu el logotip, configureu la pàgina d\'inici, escolliu un tema i personalitzeu-lo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apreneu a utilitzar la funcionalitat bàsica del vostre fòrum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Les ubicacions locals us permeten suportar altres idiomes del vostre lloc. Habiliteu i desactiveu les locals que voleu posar a disposició aquí.';
-$Definition['LogoDescription'] = 'El logotip del banner apareix a la part superior del lloc. Alguns temes poden no mostrar aquest logotip.';
+$Definition['LogoDescription'] = 'El logotip del banner apareix a la part superior del lloc.';
+$Definition['LogoDisclaimer'] = 'Els temes elaborats amb l&#39;editor de temes i alguns temes personalitzats no utilitzen aquesta configuració.';
 
 $Definition['Make sure you click View Page'] = 'Assegureu-vos de fer clic a <a href="%s">Veure pàgina</a> per veure com es veu la pàgina de categories després de desar-la.';
 $Definition['Manage Routes'] = 'Gestiona les rutes';
@@ -124,7 +125,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'S
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Si marques les coses com a no brossa, les tornaran a afegir al fòrum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Els missatges poden aparèixer a qualsevol lloc de la vostra aplicació i es poden utilitzar per informar els vostres usuaris de notícies i esdeveniments. Utilitzeu aquesta pàgina per tornar a organitzar els vostres missatges arrossegant-los cap amunt o cap avall.';
 $Definition['MobileLogoDescription'] =
-    'El logotip de la bandera mòbil apareix a la part superior del lloc. Alguns temes poden no mostrar aquest logotip.';
+    'El logotip de la bandera mòbil apareix a la part superior del lloc.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Els temes per a mòbils us permeten canviar l’aspecte del vostre lloc en dispositius més petits.';
 
