@@ -729,7 +729,6 @@ $Definition["H5"] = "H5";
 $Definition['Hang on a sec while we sign you out.'] = 'Hang on a sec while we sign you out.';
 $Definition['Has your question been answered?'] = 'Has your question been answered?';
 $Definition['Have a great day!'] = 'Have a great day!';
-$Definition['Has your question been answered?'] = 'Has your question been answered?';
 $Definition['he'] = 'he';
 $Definition['Heading'] = 'Heading';
 $Definition["Heading 2"] = "Heading 2";
