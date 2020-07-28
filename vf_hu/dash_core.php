@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Csak a kategóriák oldalán je
 $Definition['Use Masonry display'] = 'Használja a Masonry kijelzőt.';
 $Definition['Show an uploaded image on the Category page.'] = 'Minden beszélgetés egy feltöltött képet mutat a kategóriák oldalán. Ez csak azokra a kategóriákra, vonatkozik, ahol a „Beszélgetés” "Megjelenítés mint”-ként szerepel.';
 $Definition['Upload Placeholder Image'] = 'Helyettesítő kép feltöltése';
-
