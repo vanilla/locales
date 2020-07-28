@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Apresentar apenas na página Ca
 $Definition['Use Masonry display'] = 'Utilizar apresentação em Mosaicos';
 $Definition['Show an uploaded image on the Category page.'] = 'Em cada discussão será apresentada uma imagem  carregada para a página Categoria. Isto aplica-se apenas a categorias com "Discussões" no modo "Apresentar como".';
 $Definition['Upload Placeholder Image'] = 'Carregar imagem de marcador de posição';
-
