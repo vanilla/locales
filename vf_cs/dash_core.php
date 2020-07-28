@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Zobrazit pouze na stránce kate
 $Definition['Use Masonry display'] = 'Použít Cihlové zobrazení';
 $Definition['Show an uploaded image on the Category page.'] = 'Každá diskuze se ukáže jako obrázek nahraný na stránce Kategorie. Toto platí jen pro kategorie s "Diskuze" a "Zobrazit jako". ';
 $Definition['Upload Placeholder Image'] = 'Nahrát zástupný obrázek';
-
