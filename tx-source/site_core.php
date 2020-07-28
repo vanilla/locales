@@ -1390,6 +1390,7 @@ $Definition['Select Discussion'] = 'Select Discussion';
 $Definition['Select one of the following avatars:'] = 'Select one of the following avatars:';
 $Definition['Send'] = 'Send';
 $Definition['Send a New Message'] = 'Send a New Message';
+$Definition['Send me follow up emails for my answered questions.'] = 'Send me follow up emails for my answered questions.';
 $Definition['Send Message'] = 'Send Message';
 $Definition['Send Report'] = 'Send Report';
 $Definition['Send report'] = 'Send report';
