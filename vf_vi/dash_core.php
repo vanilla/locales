@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Chỉ hiển thị trong trang 
 $Definition['Use Masonry display'] = 'Sử dụng hiển thị Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Mỗi cuộc thảo luận sẽ hiển thị ảnh đã tải lên trong trang Danh mục. Thiết lập này chỉ áp dụng cho danh mục có "Thảo luận" dưới dạng "Hiển thị dưới dạng".';
 $Definition['Upload Placeholder Image'] = 'Tải ảnh giữ chỗ lên';
-
