@@ -897,4 +897,3 @@ $Definition['Display on category page only.'] = 'Vis kun på kategoriside. Nylig
 $Definition['Use Masonry display'] = 'Brug Masonry-visning';
 $Definition['Show an uploaded image on the Category page.'] = 'Hver diskussion vil vise et uploadet billede på Kategorisiden. Dette gælder kun for kategorier med "Diskussion" som "Vist som".';
 $Definition['Upload Placeholder Image'] = 'Upload pladsholderbillede';
-
