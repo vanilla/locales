@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'カテゴリーページのみ�
 $Definition['Use Masonry display'] = ' Masonry表示を使用する';
 $Definition['Show an uploaded image on the Category page.'] = '各ディスカッションでは、アップロードされた画像がカテゴリーのページに表示されます。これは、「表示形式」が「ディスカッション」のカテゴリーにのみ適用されます。';
 $Definition['Upload Placeholder Image'] = 'プレースホルダーの画像をアップロード';
-
