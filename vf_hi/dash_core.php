@@ -900,4 +900,3 @@ $Definition['Display on category page only.'] = 'श्रेणी पृष्
 $Definition['Use Masonry display'] = 'मेसनरी डिस्प्ले का उपयोग करें';
 $Definition['Show an uploaded image on the Category page.'] = 'प्रत्येक चर्चा श्रेणी पृष्ठ पर अपलोड की गई इमेज दिखाएगी। यह केवल "इस रूप में दिखाएँ" वाली "चर्चाओं" पर लागू होता है।';
 $Definition['Upload Placeholder Image'] = 'प्लेसहोल्डर इमेज अपलोड करें';
-
