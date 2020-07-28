@@ -892,4 +892,3 @@ $Definition['Display on category page only.'] = 'Affichage sur la page de la cat
 $Definition['Use Masonry display'] = 'Utiliser l\'affichage Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Chaque discussion montrera une image téléchargée sur la page de la catégorie. Ceci ne s\'applique qu\'aux catégories dont les « Discussions » sont en « Afficher comme ».';
 $Definition['Upload Placeholder Image'] = 'Télécharger l\'image de remplacement';
-
