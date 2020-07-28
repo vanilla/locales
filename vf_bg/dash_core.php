@@ -885,4 +885,3 @@ $Definition['Display on category page only.'] = 'Показва се само н
 $Definition['Use Masonry display'] = 'Използвайте дисплей на зидарията';
 $Definition['Show an uploaded image on the Category page.'] = 'Всяка дискусия ще покаже качено изображение на страницата Категория. Това се отнася само за категории с „Дискусии“ като „Покажи като“.';
 $Definition['Upload Placeholder Image'] = 'Качване на изображение на заместител';
-
