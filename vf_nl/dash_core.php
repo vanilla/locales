@@ -896,4 +896,3 @@ $Definition['Display on category page only.'] = 'Wordt alleen op categoriepagina
 $Definition['Use Masonry display'] = 'Gebruik Masonry-display';
 $Definition['Show an uploaded image on the Category page.'] = 'Elke discussie toont een geüploade afbeelding op de Categoriepagina. Dit geldt alleen voor categorieën met \'Discussies\' als de \'Tonen als\'.';
 $Definition['Upload Placeholder Image'] = 'Upload tijdelijke aanduidingsafbeelding';
-
