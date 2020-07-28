@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Display on category page only. 
 $Definition['Use Masonry display'] = 'Use Masonry display';
 $Definition['Show an uploaded image on the Category page.'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
 $Definition['Upload Placeholder Image'] = 'Upload Placeholder Image';
-$Definition['Search results of members'] = 'Search results of members';
