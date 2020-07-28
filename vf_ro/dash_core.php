@@ -892,4 +892,3 @@ $Definition['Display on category page only.'] = 'Afișează doar pe pagina categ
 $Definition['Use Masonry display'] = 'Folosește afișajul Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Fiecare discuție va afișa o imagine încărcată pe pagina categoriei. Aceasta se aplică doar categoriilor cu "Discuții" precum "Afișează ca".';
 $Definition['Upload Placeholder Image'] = 'Încarcă imaginea substitut';
-
