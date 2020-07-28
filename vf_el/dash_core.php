@@ -895,4 +895,3 @@ $Definition['Display on category page only.'] = 'Εμφάνιση στη σελ�
 $Definition['Use Masonry display'] = 'Χρήση διάταξης Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Για κάθε συζήτηση θα εμφανίζεται μία αναρτημένη εικόνα στη σελίδα Κατηγορίες. Αυτό ισχύει μόνο για τις κατηγορίες με το «Συζητήσεις» στο «Εμφάνιση ως».';
 $Definition['Upload Placeholder Image'] = 'Ανεβάστε Ενδεικτική Εικόνα';
-
