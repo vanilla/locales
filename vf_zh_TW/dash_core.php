@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = '只顯示在分類頁上。最�
 $Definition['Use Masonry display'] = '使用石砌顯示';
 $Definition['Show an uploaded image on the Category page.'] = '每項討論都會在分類頁面上顯示一張上傳畫面。這只套用在以「顯示為」作為「討論」的分類。';
 $Definition['Upload Placeholder Image'] = '上傳占位符畫面';
-
