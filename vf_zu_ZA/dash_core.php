@@ -885,4 +885,3 @@ $Definition['Display on category page only.'] = 'Veza ekhasini lesigaba kuphela.
 $Definition['Use Masonry display'] = 'Sebenzisa isibuko se-Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Ingxoxo ngayinye izokhombisa isithombe esilayishiwe ekhasini Lesigaba. Lokhu kusebenza kuphela kwizigaba ezine- "Izingxoxo" njenge- "Display As."';
 $Definition['Upload Placeholder Image'] = 'Faka isithombe sesindawo';
-
