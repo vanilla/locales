@@ -1589,6 +1589,7 @@ $Definition['This user has not commented yet.'] = 'This user has not commented y
 $Definition['This user has not made any discussions yet.'] = 'This user has not made any discussions yet.';
 $Definition['This user is also banned for other reasons and may stay banned.'] = 'This user is also banned for other reasons and may stay banned.';
 $Definition['This user is verified as a non-spammer'] = 'This user is verified as a non-spammer';
+$Definition['This user has already received a notification within the allowed time frame.'] = 'This user has already received a notification within the allowed time frame.';
 $Definition['This warning has expired. Do you want to completely delete it?'] = 'This warning has expired. Do you want to completely delete it?';
 $Definition['This Week\'s Leaders'] = 'This Week\'s Leaders';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'This site is protected by reCAPTCHA and the Google';
