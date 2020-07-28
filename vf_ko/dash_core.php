@@ -906,4 +906,3 @@ $Definition['Display on category page only.'] = '카테고리 페이지에서만
 $Definition['Use Masonry display'] = '석조 디스플레이 사용';
 $Definition['Show an uploaded image on the Category page.'] = '각 토론에는 카테고리 페이지에 업로드된 이미지가 표시됩니다. "표시 형식"이 "토론"으로 되어 있는 카테고리에만 적용됩니다.';
 $Definition['Upload Placeholder Image'] = '자리 표시자 이미지 업로드';
-
