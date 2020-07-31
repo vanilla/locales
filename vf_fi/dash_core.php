@@ -894,4 +894,3 @@ $Definition['Display on category page only.'] = 'Näytä ainoastaan kategoriasiv
 $Definition['Use Masonry display'] = 'Käytä tiiliseinänäyttöä';
 $Definition['Show an uploaded image on the Category page.'] = 'Jokainen keskustelu näyttää ladatun kuvan kategoriasivulla. Tämä pätee ainoastaan kategorioihin, joiden "Näytä tässä muodossa" -vaihtoehdoksi on asetettu "Keskustelu".';
 $Definition['Upload Placeholder Image'] = 'Lataa paikkamerkin kuva';
-

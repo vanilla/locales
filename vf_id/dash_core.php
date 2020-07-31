@@ -894,4 +894,3 @@ $Definition['Display on category page only.'] = 'Tampilkan pada laman kategori s
 $Definition['Use Masonry display'] = 'Gunakan tampilan Perkumpulan Rahasia';
 $Definition['Show an uploaded image on the Category page.'] = 'Setiap diskusi akan menampilkan gambar terunggah pada laman Kategori. Ini hanya diterapkan pada kategori dengan "Diskusi" sebagai "Ditampilkan Sebagai".';
 $Definition['Upload Placeholder Image'] = 'Unggah Gambar Placeholder';
-

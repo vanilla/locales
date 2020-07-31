@@ -119,7 +119,7 @@ $Definition['Learn how to completely change your forum\'s look and feel: upload 
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Scopri come utilizzare le funzionalità di base del tuo forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Le versioni locali consentono di supportare altre lingue sul tuo sito. Attiva e disattiva le versioni locali che desideri rendere disponibile qui.';
 $Definition['LogoDescription'] = 'Il logo banner appare nella parte superiore del tuo sito.';
-$Definition['LogoDisclaimer'] = 'I temi creati con l&#39;editor dei temi e alcuni temi personalizzati non utilizzano questa impostazione.';
+$Definition['LogoDisclaimer'] = 'I temi creati con l\'editor dei temi e alcuni temi personalizzati non utilizzano questa impostazione.';
 
 $Definition['Make sure you click View Page'] = 'Assicuratevi di cliccare su <a href="%s">Visualizza pagina</a> per vedere come si presentano le dopo il salvataggio.';
 $Definition['Manage Routes'] = 'Gestisci Percorsi';

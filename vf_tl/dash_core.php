@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Ipakita lang sa pahina ng kateg
 $Definition['Use Masonry display'] = 'Gamitin ang Masonry na display ';
 $Definition['Show an uploaded image on the Category page.'] = 'Ang bawat usapan ay magpapakita ng naka-upload na larawan sa pahina ng Kategorya. Naaangkop lang ito sa mga kategorya na gumagamit sa "Mga Usapan" bilang "Ipakita Bilang."';
 $Definition['Upload Placeholder Image'] = 'I-upload ang Larawan ng Placeholder';
-

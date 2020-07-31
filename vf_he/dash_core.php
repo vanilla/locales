@@ -891,4 +891,3 @@ $Definition['Display on category page only.'] = 'הצג בדף הקטגוריה 
 $Definition['Use Masonry display'] = 'השתמש בתצוגת מלבנים';
 $Definition['Show an uploaded image on the Category page.'] = 'כל דיון יציג תמונה שהועלתה בדף הקטגוריה. זה חל רק על קטגוריות עם "דיונים" כמו "הצג כ". ';
 $Definition['Upload Placeholder Image'] = 'העלה תמונת שומר מקום';
-

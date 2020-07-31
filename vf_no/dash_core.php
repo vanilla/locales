@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Vis kun på kategorisiden. Nyli
 $Definition['Use Masonry display'] = 'Bruk Masonry-skjerm';
 $Definition['Show an uploaded image on the Category page.'] = 'Hver diskusjon viser et opplastet bilde på kategorisiden. Dette gjelder kun kategorier med "Diskusjoner", som "Vis som".';
 $Definition['Upload Placeholder Image'] = 'Last opp plassholder-bilde';
-

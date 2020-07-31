@@ -894,4 +894,3 @@ $Definition['Display on category page only.'] = 'Отображать тольк
 $Definition['Use Masonry display'] = 'Использовать изображение кирпичной кладки для заполнения дисплея';
 $Definition['Show an uploaded image on the Category page.'] = 'В каждом обсуждении на странице категорий будет отображаться загруженное изображение. Это относится только к категориям с «Обсуждениями» с параметром «Показывать как.»';
 $Definition['Upload Placeholder Image'] = 'Загрузить изображение для местозаполнителя';
-

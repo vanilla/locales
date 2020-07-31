@@ -889,4 +889,3 @@ $Definition['Display on category page only.'] = 'Mostra només a la pàgina de c
 $Definition['Use Masonry display'] = 'Utilitzeu la pantalla de maçoneria';
 $Definition['Show an uploaded image on the Category page.'] = 'En cada discussió es mostrarà una imatge penjada a la pàgina de la categoria. Això només s\'aplica a les categories amb "Discussions" com a "Mostrar com a".';
 $Definition['Upload Placeholder Image'] = 'Carregueu imatge del marcador de lloc';
-

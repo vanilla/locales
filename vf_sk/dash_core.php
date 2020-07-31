@@ -896,4 +896,3 @@ $Definition['Display on category page only.'] = 'Zobraziť iba na stránke kateg
 $Definition['Use Masonry display'] = 'Použiť vystavenie muriva';
 $Definition['Show an uploaded image on the Category page.'] = 'Každá diskusia zobrazí na stránke Kategória nahraný obrázok. Platí to iba pre kategórie s „Diskusiami“ ako „Zobraziť ako“.';
 $Definition['Upload Placeholder Image'] = 'Nahrať obrázok zástupného symbolu';
-

@@ -645,6 +645,7 @@ $Definition['RSVP'] = 'RSVP';
 $Definition['Save Captured Definitions'] = 'Salva le definizioni fissate';
 $Definition['Save Colors'] = 'Salva i Colori';
 $Definition['Search by user or role.'] = 'Cerca per gli utenti tramite nome o email, puoi anche utilizzare la wildcard %. Puoi anche cercare tramite user ID, il nome del ruolo o “bannato”.';
+$Definition['Search results of members'] = 'Risultati della ricerca dei membri';
 $Definition['seconds'] = 'secondi';
 $Definition['Security'] = 'Sicurezza';
 $Definition['See also'] ='Vedi anche';

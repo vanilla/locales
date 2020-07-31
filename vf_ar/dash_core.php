@@ -889,4 +889,3 @@ $Definition['Display on category page only.'] = 'عرض على صفحة الفئ
 $Definition['Use Masonry display'] = 'استخدم عرض البناء';
 $Definition['Show an uploaded image on the Category page.'] = 'ستعرض كل مناقشة صورة تم تحميلها على صفحة الفئة. ينطبق هذا فقط على الفئات التي تحتوي على "مناقشات" مثل "عرض باسم".';
 $Definition['Upload Placeholder Image'] = 'تحميل صورة عنصر نائب';
-

@@ -894,4 +894,3 @@ $Definition['Display on category page only.'] = 'Visa bara på kategorisidan. De
 $Definition['Use Masonry display'] = 'Använd Masonry-display';
 $Definition['Show an uploaded image on the Category page.'] = 'Varje diskussion kommer att visa en uppladdad bild på kategorisidan. Detta gäller bara för kategorier med ”Diskussioner” som ”Visa som”.';
 $Definition['Upload Placeholder Image'] = 'Ladda upp platshållare';
-

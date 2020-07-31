@@ -117,7 +117,7 @@ $Definition['Learn how to completely change your forum\'s look and feel: upload 
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apreneu a utilitzar la funcionalitat bàsica del vostre fòrum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Les ubicacions locals us permeten suportar altres idiomes del vostre lloc. Habiliteu i desactiveu les locals que voleu posar a disposició aquí.';
 $Definition['LogoDescription'] = 'El logotip del banner apareix a la part superior del lloc.';
-$Definition['LogoDisclaimer'] = 'Els temes elaborats amb l&#39;editor de temes i alguns temes personalitzats no utilitzen aquesta configuració.';
+$Definition['LogoDisclaimer'] = 'Els temes elaborats amb l\'editor de temes i alguns temes personalitzats no utilitzen aquesta configuració.';
 
 $Definition['Make sure you click View Page'] = 'Assegureu-vos de fer clic a <a href="%s">Veure pàgina</a> per veure com es veu la pàgina de categories després de desar-la.';
 $Definition['Manage Routes'] = 'Gestiona les rutes';

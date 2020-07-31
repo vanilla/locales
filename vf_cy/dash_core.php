@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Arddangos ar dudalen categori y
 $Definition['Use Masonry display'] = 'Defnyddiwch arddangosfa gwaith maen';
 $Definition['Show an uploaded image on the Category page.'] = 'Bydd pob trafodaeth yn dangos delwedd wedi\'i llwytho i fyny ar y dudalen Categori. Mae hyn ond yn berthnasol i gategorïau sydd â "Thrafodaethau" fel yr "Arddangos Fel."';
 $Definition['Upload Placeholder Image'] = 'Llwythwch Delwedd Lletywr';
-

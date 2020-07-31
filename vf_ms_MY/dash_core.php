@@ -885,4 +885,3 @@ $Definition['Display on category page only.'] = 'Paparkan di halaman kategori sa
 $Definition['Use Masonry display'] = 'Gunakan paparan Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Setiap perbincangan akan menunjukkan gambar yang dimuat naik di halaman Kategori. Ini hanya berlaku untuk kategori dengan "Perbincangan" sebagai "Paparan Sebagai."';
 $Definition['Upload Placeholder Image'] = 'Muat Naik Gambar Tempat';
-

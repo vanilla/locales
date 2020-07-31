@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Nur auf der Kategorieseite anze
 $Definition['Use Masonry display'] = 'Kachel-Anzeige verwenden';
 $Definition['Show an uploaded image on the Category page.'] = 'Jede Diskussion zeigt ein hochgeladenes Bild auf der Kategorie-Seite. Dies gilt nur für Kategorien mit "Diskussionen" als " Anzeigen als".';
 $Definition['Upload Placeholder Image'] = 'Platzhalter-Bild hochladen';
-

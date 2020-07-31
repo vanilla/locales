@@ -894,4 +894,3 @@ $Definition['Display on category page only.'] = 'Mostrar solo en la página de c
 $Definition['Use Masonry display'] = 'Usar visualización en cascada';
 $Definition['Show an uploaded image on the Category page.'] = 'Cada discusión mostrará una imagen cargada en la página de categoría. Esto solo funciona en las categorías con "Discusiones" como "Mostrar como".';
 $Definition['Upload Placeholder Image'] = 'Subir imagen de marcador';
-

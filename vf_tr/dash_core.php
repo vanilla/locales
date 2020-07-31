@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = 'Yalnızca kategori sayfasında 
 $Definition['Use Masonry display'] = 'Duvar görünümü kullan';
 $Definition['Show an uploaded image on the Category page.'] = 'Her tartışma, Kategori sayfasında yüklenen bir resmi gösterir. Bu yalnızca "Farklı Göster" olarak "Tartışmalar" kategorileri için geçerlidir.';
 $Definition['Upload Placeholder Image'] = 'Yer Tutucu Resmi Yükle';
-
