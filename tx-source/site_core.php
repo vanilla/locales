@@ -1237,9 +1237,9 @@ $Definition['Q&A Options'] = 'Q&A Options';
 $Definition['Q&A Question'] = 'Question';
 $Definition['QnA Accepted Answer'] = 'Answer ✓';
 $Definition['QnA Rejected Answer'] = 'Rejected Answer';
-$Definition['QnAFollowUp.Email.Message.Intro'] = "We noticed you have at least one answer to your question. Did this resolve your question or do you still need help? <br>";
-$Definition['QnAFollowUp.Email.Message.Main'] = "If your question has been resolved please visit the link below and mark one or more answers as <b>accepted</b>. <br>";
-$Definition['QnAFollowUp.Email.Message.Extra'] = 'This will help others who may have the same issue to easily find a solution.';
+$Definition['QnAFollowUp.Email.Message'] = 'We noticed you have at least one answer to your question. Did this resolve your question or do you still need help?
+<p>If your question has been resolved please visit the link below and mark one or more answers as <b>accepted</b>
+<p>This will help others who may have the same issue to easily find a solution.';
 $Definition['QnAFollowUp.Email.Subject'] = 'Has your question been answered?';
 $Definition['QnAFollowUp.Success'] = 'Notifications sent successfully.';
 $Definition['Question'] = 'Question';
@@ -1396,7 +1396,7 @@ $Definition['Select Discussion'] = 'Select Discussion';
 $Definition['Select one of the following avatars:'] = 'Select one of the following avatars:';
 $Definition['Send'] = 'Send';
 $Definition['Send a New Message'] = 'Send a New Message';
-$Definition['Send me follow up emails for my answered questions.'] = 'Send me follow up emails for my answered questions.';
+$Definition['Send me a follow up for my answered questions.'] = 'Send me a follow up for my answered questions.';
 $Definition['Send Message'] = 'Send Message';
 $Definition['Send Q&A Follow Up Email'] = 'Send Q&A Follow Up Email';
 $Definition['Send Report'] = 'Send Report';
