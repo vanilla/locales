@@ -2005,13 +2005,21 @@ $Definition['Spoiler Warning'] = 'Spoiler Warning';
 // Catalogue Display Plugin/Formats
 $Definition['Placeholder'] = 'Placeholder';
 
+
 // Accessibility
-$Definition['%s for discussion: "%s"'] = '%s for discussion: "%s"';
-$Definition['%s for category: "%s"'] = '%s for category: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s comment by user: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'User "%s" started discussion "%s" on date %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Most recent comment on date %s, in discussion "%s", by user "%s"';
-$Definition['%s for category: "%s"'] = '%s for category: "%s"';
+// These are for reactions. Example: `Promote comment by user "x"`;
+$Definition['%1$s comment by user: "%2$s"'] = '%1$s comment by user: "%2$s"';
+$Definition['%1$s for discussion "%2$s"'] = '%1$s for discussion "%2$s"';
+
+// These are to give a unique text to each "More Discussion" link
+$Definition['%1$s for category: "%2$s"'] = '%1$s for category: "%2$s"';
+
+// 1 - User | 2 - discussion title | 3 - date
+$Definition['User "%1$s" started discussion "%2$s" on %3$s.'] = 'User "%1$s" started discussion "%2$s" on %3$s.';
+
+// 1 - Post Title | 2 - date | 3 - user
+$Definition['Re: "%1$s" - most recent comment on %2$s by user "%3$s".'] = 'Re: "%1$s" - most recent comment on %2$s by user "%3$s".';
+
 $Definition['Category: "%s"'] = 'Category: "%s"';
 $Definition['User: "%s"'] = 'User: "%s"';
 $Definition['Group: "%s"'] = 'Group: "%s"';
