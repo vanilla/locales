@@ -647,6 +647,7 @@ $Definition['RSVP'] = 'RSVP';
 $Definition['Save Captured Definitions'] = 'Yakalanan Tanımları Kaydet';
 $Definition['Save Colors'] = 'Renkleri Kaydet';
 $Definition['Search by user or role.'] = 'İsterseniz % joker karakter kullanarak kullanıcı adı veya e-posta ile arayın. Ayrıca kullanıcı kimliğine, rolün adına veya &ldquo;yasaklı&rdquo; durumuna göre de arama yapabilirsiniz.';
+$Definition['Search results of members'] = 'Üyelerin arama sonuçları';
 $Definition['seconds'] = 'saniye';
 $Definition['Security'] = 'Güvenlik';
 $Definition['See also'] ='Ayrıca bakınız';
