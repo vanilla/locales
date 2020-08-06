@@ -1237,9 +1237,8 @@ $Definition['Q&A Options'] = 'Q&A Options';
 $Definition['Q&A Question'] = 'Question';
 $Definition['QnA Accepted Answer'] = 'Answer ✓';
 $Definition['QnA Rejected Answer'] = 'Rejected Answer';
-$Definition['QnAFollowUp.Email.Message'] = 'We noticed you have at least one answer to your question. Did this resolve your question or do you still need help?
-<p>If your question has been resolved please visit the link below and mark one or more answers as <b>accepted</b>
-<p>This will help others who may have the same issue to easily find a solution.';
+$Definition['QnAFollowUp.Email.Message'] = '<p>We noticed you have at least one answer to your question. Can you visit the community and see if any of the answers resolve your question?</p>
+<p>If you see an answer you find helpful, please accept one of the answers.</p>';
 $Definition['QnAFollowUp.Email.Subject'] = 'Has your question been answered?';
 $Definition['QnAFollowUp.Success'] = 'Notifications sent successfully.';
 $Definition['Question'] = 'Question';
@@ -1589,7 +1588,7 @@ $Definition['This is a system account and does not represent a real person.'] = 
 $Definition['This Month\'s Leaders'] = 'This Month\'s Leaders';
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>';
 $Definition['This question\'s answer has been accepted.'] = 'This question\'s answer has been accepted.';
-$Definition['A follow-up email was already sent.'] = 'A follow-up email was already sent.';
+$Definition['A followup email was already sent.'] = 'A followup email was already sent.';
 $Definition['This user has been verified as a non-spammer.'] = 'This user has been verified as a non-spammer.';
 $Definition['The user has disabled this notification preference.'] = 'The user has disabled this notification preference.';
 $Definition['This user has not been verified as a non-spammer.'] = 'This user has not been verified as a non-spammer.';
