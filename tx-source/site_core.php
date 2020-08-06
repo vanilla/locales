@@ -1591,7 +1591,7 @@ $Definition['This setting loads the page before executing Javascript which can i
 $Definition['This question\'s answer has been accepted.'] = 'This question\'s answer has been accepted.';
 $Definition['A follow-up email was already sent.'] = 'A follow-up email was already sent.';
 $Definition['This user has been verified as a non-spammer.'] = 'This user has been verified as a non-spammer.';
-$Definition['This user has disabled this notification preference.'] = 'This user has disabled this notification preference.';
+$Definition['The user has disabled this notification preference.'] = 'The user has disabled this notification preference.';
 $Definition['This user has not been verified as a non-spammer.'] = 'This user has not been verified as a non-spammer.';
 $Definition['This user has been marked as a troll.'] = 'This user has been marked as a troll.';
 $Definition['This user has not commented yet.'] = 'This user has not commented yet.';
