@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Yazı Tipi Adı";
 $Definition["Invalid URL"] = "Geçersiz URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Tema Sisteminize bir Özel Yazı Tipi yükleyebilirsiniz. Yazı Tipi URL'sini alana kopyalayıp yapıştırmanız yeterlidir.";
 $Definition["You can configure some values differently for different screensizes."] = "Bazı değerleri farklı ekran boyutları için farklı yapılandırabilirsiniz.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Yazı tipi URL'sinin etki alanını, sitenin yapılandırmasında <0>AllowDomains</0> alanına eklemeniz gerekir. <1>Özel yazı tipleri hakkında daha fazla bilgi edinin.</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Yazı tipi url'sinin alanını sitenin yapılandırmasında <0>İzin Verilen Alan Adlarına </0> eklemeniz gerekir. <1>Özel yazı tipleri hakkında daha fazla bilgi edinin.</1>";
 
 $Definition["Primary Buttons"] = "Birincil Düğmeler";
 $Definition["Secondary Buttons"] = "İkincil Düğmeler";
