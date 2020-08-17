@@ -1863,6 +1863,7 @@ $Definition['You cannot remove an invitation that has been accepted.'] = 'You ca
 $Definition['You can only specify up to %s tags.'] = 'You can only specify up to %s tags.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
+$Definition['You don\'t have a password.'] = 'Your account does not have a password assigned to it yet. Click <a href="%s">here</a> to reset your password.';
 $Definition['You don\'t have permission to do that.'] = 'You don\'t have permission to do that.';
 $Definition['You don\'t have permission to use a signature.'] = 'You don\'t have permission to use a signature.';
 $Definition['You do not have any %s yet.'] = 'You do not have any %s yet.';
@@ -1896,6 +1897,7 @@ $Definition['You must be signed in.'] = 'You must be signed in.';
 $Definition['You must confirm you have received consent to register.'] = 'You must confirm you have received consent to register.';
 $Definition['You need to confirm your email address.'] = 'You need to confirm your email address. Click <a href="{/entry/emailconfirmrequest,url}">here</a> to resend the confirmation email.';
 $Definition['You need to confirm your email address before you can continue.'] = 'You need to confirm your email address before you can continue.';
+$Definition['You need to reset your password.'] = 'You need to reset your password. This is most likely because an administrator recently changed your account information. Click <a href="%s">here</a> to reset your password.';
 $Definition['You need to sign in before you can do this.'] = 'You need to sign in before you can do this.';
 $Definition['your'] = 'your';
 $Definition['Your application for this group was denied.'] = 'Your application for this group was denied.';
