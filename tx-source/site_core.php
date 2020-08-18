@@ -1874,7 +1874,7 @@ $Definition['You cannot remove an invitation that has been accepted.'] = 'You ca
 $Definition['You can only specify up to %s tags.'] = 'You can only specify up to %s tags.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
-$Definition['You don\'t have a password.'] = 'Your account does not have a password assigned to it yet. Click <a href="%s">here</a> to reset your password.';
+$Definition['You don\'t have a password.'] = 'Your account does not have a password assigned to it yet. Click <a href="%s">here</a> to set your password.';
 $Definition['You don\'t have permission to do that.'] = 'You don\'t have permission to do that.';
 $Definition['You don\'t have permission to use a signature.'] = 'You don\'t have permission to use a signature.';
 $Definition['You do not have any %s yet.'] = 'You do not have any %s yet.';
