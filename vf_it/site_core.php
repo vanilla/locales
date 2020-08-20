@@ -1875,6 +1875,7 @@ $Definition['You cannot remove an invitation that has been accepted.'] = 'Non pu
 $Definition['You can only specify up to %s tags.'] = 'Puoi specificare solo fino a %s tag.';
 $Definition['You can remove or ban this member from the group.'] = 'Puoi rimuovere o bandire questo membro dal gruppo. I membri bannati non potranno più entrare nel gruppo.';
 $Definition['You can use HTML in your signature.'] = 'Puoi utilizzare <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML Semplice</a></b> nella tua firma.';
+$Definition['You don\'t have a password.'] = 'Il tuo account non ha ancora una password assegnata. Clicca <a href="%s">qui</a> per impostare la tua password';
 $Definition['You don\'t have permission to do that.'] = 'Non hai permessi sufficienti per farlo.';
 $Definition['You don\'t have permission to use a signature.'] = 'Non si dispone del permesso di utilizzare una firma.';
 $Definition['You do not have any %s yet.'] = 'Non hai ancora alcun %s.';
@@ -1908,6 +1909,7 @@ $Definition['You must be signed in.'] = 'Devi essere iscritto.';
 $Definition['You must confirm you have received consent to register.'] = 'Devi confermare di aver ricevuto il consenso alla registrazione. ';
 $Definition['You need to confirm your email address.'] = 'Devi confermare il tuo indirizzo e-mail. Clicca <a href="{/entry/emailconfirmrequest,url}">qui</a> per rinviare l\'email di conferma.';
 $Definition['You need to confirm your email address before you can continue.'] = 'Devi confermare il tuo indirizzo e-mail prima di poter continuare. ';
+$Definition['You need to reset your password.'] = 'È necessario reimpostare la tua password. L\'admin potrebbe avere modificato le informazioni del tuo account recentemente. Clicca <a href="%s">qui</a> per reimpostare la tua password.';
 $Definition['You need to sign in before you can do this.'] = 'Devi effettuare l\'accesso prima di poterlo fare.';
 $Definition['your'] = 'tuo';
 $Definition['Your application for this group was denied.'] = 'La tua richiesta per questo gruppo è stata negata. ';
