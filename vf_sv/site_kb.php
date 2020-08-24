@@ -38,6 +38,7 @@ $Definition["Browse"] = "Bläddra";
 $Definition["By <0/>"] = "Av <0/>";
 
 $Definition["category"] = "kategori";
+$Definition["Categories"] = "Kategorier";
 $Definition["Category One"] = "Kategori ett";
 $Definition["Category Options"] = "Kategorialternativ";
 $Definition["Category Two"] = "Kategori två";
@@ -145,6 +146,8 @@ $Definition["Sort Articles"] = "Sortera artiklar";
 $Definition["Sorting method for articles."] = "Så sorteras artiklarna.";
 $Definition["Sub folder"] = "Undermapp";
 $Definition["Subcategories"] = "Underkategorier";
+$Definition["sub-categories"] = "underkategorier";
+$Definition["sub-category"] = "underkategori";
 
 $Definition["Thanks for your feedback!"] = "Tack för din feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Bannerbilden används där man väljer kunskapsbas. Denna kan ändras med inställningar för varje kunskapsbas. Rekommenderade dimensioner är cirka 1 000 gånger 400 pixlar eller liknande.";
