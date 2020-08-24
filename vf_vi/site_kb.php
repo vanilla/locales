@@ -37,6 +37,7 @@ $Definition["Browse"] = "Duyệt";
 $Definition["By <0/>"] = "Bởi <0/>";
 
 $Definition["category"] = "danh mục";
+$Definition["Categories"] = "Danh mục";
 $Definition["Category One"] = "Danh mục Một";
 $Definition["Category Options"] = "Tùy chọn Danh mục";
 $Definition["Category Two"] = "Danh  mục Hai";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Sắp xếp bài viết";
 $Definition["Sorting method for articles."] = "Phương pháp sắp xếp cho các bài viết.";
 $Definition["Sub folder"] = "Thư mục con";
 $Definition["Subcategories"] = "Danh mục con";
+$Definition["sub-categories"] = "danh mục phụ";
+$Definition["sub-category"] = "danh mục phụ";
 
 $Definition["Thanks for your feedback!"] = "Xin cảm ơn ý kiến phản hồi của bạn!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Hình ảnh biểu ngữ để sử dụng trên trình chọn cơ sở tri thức. Hình ảnh có thể được ghi đè trên mỗi cơ sở tri thức. Kích thước đề xuất là khoảng 1000px x 400px hoặc tỷ lệ tương tự.";
