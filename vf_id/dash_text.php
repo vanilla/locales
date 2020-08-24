@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Nama Font";
 $Definition["Invalid URL"] = "URL tidak valid";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Anda dapat mengunggah Font Kustom di Sistem Mereka. Cukup salin & tempel URL di bidang.";
 $Definition["You can configure some values differently for different screensizes."] = "Anda dapat mengkonfigurasi beberapa nilai secara berbeda untuk screensizes yang berbeda.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke <0> Domain yang Diizinkan </0> , dalam konfigurasi situs. <1> Pelajari lebih lanjut tentang font khusus. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke &lt;0&gt; Domain yang Diizinkan </0> dalam konfigurasi situs. &lt;1&gt; Pelajari lebih lanjut tentang font khusus. </1>";
 
 $Definition["Primary Buttons"] = "Tombol Utama";
 $Definition["Secondary Buttons"] = "Tombol Sekunder";
