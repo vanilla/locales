@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Název písma";
 $Definition["Invalid URL"] = "neplatná URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Do systému Theming můžete nahrát vlastní písmo. Stačí zkopírovat a vložit adresu URL do pole.";
 $Definition["You can configure some values differently for different screensizes."] = "Některé hodnoty můžete konfigurovat různě pro různé velikosti obrazovky.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Je třeba přidat doménu adresy URL písma do <0> PovolenéDomény </0> , v konfiguraci webu. <1> Další informace o uživatelských fontech. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Do &lt;0&gt; povolených domén musíte přidat doménu adresy URL písma </0> v konfiguraci webu. &lt;1&gt; Další informace o uživatelských fontech. </1>";
 
 $Definition["Primary Buttons"] = "Primární tlačítka";
 $Definition["Secondary Buttons"] = "Sekundární tlačítka";
