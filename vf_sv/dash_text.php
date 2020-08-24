@@ -308,7 +308,7 @@ $Definition["Font Name"] = "Teckensnitt Namn";
 $Definition["Invalid URL"] = "Ogiltig URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan ladda upp ett anpassat teckensnitt i ditt temsystem. Kopiera och klistra in webbadressen i fältet.";
 $Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurera vissa värden på olika sätt för olika skärmbilder.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du måste lägga till teckensnittets url-domän till <0> Tillåtna domäner </0> , i webbplatsens konfiguration. <1> Läs mer om anpassade teckensnitt. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du måste lägga till teckensnittets url-domän till &lt;0&gt; Tillåtna domäner </0> i webbplatsens konfiguration. &lt;1&gt; Läs mer om anpassade teckensnitt. </1>";
 
 $Definition["Primary Buttons"] = "Primära knappar";
 $Definition["Secondary Buttons"] = "Sekundära knappar";
