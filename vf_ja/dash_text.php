@@ -307,7 +307,7 @@ $Definition["Font Name"] = "フォント名";
 $Definition["Invalid URL"] = "無効なURL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "テーマシステムにカスタムフォントをアップロードできます。 URLをコピーしてフィールドに貼り付けるだけです。";
 $Definition["You can configure some values differently for different screensizes."] = "画面サイズごとに異なる値を設定できます。";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "フォントURLのドメインを<0> AllowedDomainsに追加する必要があります</0> 、サイトの構成。 <1>カスタムフォントの詳細。 </1> 。";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "フォントURLのドメインを&lt;0&gt;許可されたドメインに追加する必要があります</0>サイトの構成。 &lt;1&gt;カスタムフォントの詳細。 </1>";
 
 $Definition["Primary Buttons"] = "一次ボタン";
 $Definition["Secondary Buttons"] = "二次ボタン";
