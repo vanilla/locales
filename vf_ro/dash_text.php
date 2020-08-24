@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Numele fontului";
 $Definition["Invalid URL"] = "URL invalid";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Puteți încărca un font personalizat în sistemul dvs. Theming. Doar copiați și inserați URL-ul în câmp.";
 $Definition["You can configure some values differently for different screensizes."] = "Puteți configura anumite valori în mod diferit pentru diferite ecrane.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Trebuie să adăugați domeniul urlului fontului la <0> AllowedDomains </0> , în configurația site-ului. <1> Aflați mai multe despre fonturile personalizate. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Trebuie să adăugați domeniul urlului fontului la &lt;0&gt; Domenii permise </0> în configurația site-ului. &lt;1&gt; Aflați mai multe despre fonturile personalizate. </1>";
 
 $Definition["Primary Buttons"] = "Butoane primare";
 $Definition["Secondary Buttons"] = "Butoane secundare";
