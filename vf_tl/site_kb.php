@@ -37,6 +37,7 @@ $Definition["Browse"] = "I-browse";
 $Definition["By <0/>"] = "Ayon sa <0/>";
 
 $Definition["category"] = "kategorya";
+$Definition["Categories"] = "Mga Kategorya";
 $Definition["Category One"] = "Unang Kategorya";
 $Definition["Category Options"] = "Mga Opsyon sa Kategorya";
 $Definition["Category Two"] = "Ikalawang Kategorya";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "I-sort ang mga Artikulo";
 $Definition["Sorting method for articles."] = "Pag-aayos ng paraan para sa mga artikulo.";
 $Definition["Sub folder"] = "Sub folder";
 $Definition["Subcategories"] = "Mga Subcategory";
+$Definition["sub-categories"] = "mga sub-kategorya";
+$Definition["sub-category"] = "sub-kategorya";
 
 $Definition["Thanks for your feedback!"] = "Salamat sa iyong feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Ang imahe ng banner na dapat gamitin sa knowledge base chooser. Maaari itong maisantabi kada knoweldge base. Ang inirerekomendang sukat ay mga 1000px by 400px o kaparehong ratio.";
