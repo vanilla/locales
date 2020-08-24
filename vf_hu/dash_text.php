@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Betűkészlet neve";
 $Definition["Invalid URL"] = "érvénytelen URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Töltsön fel egyéni betűtípust a Theming rendszerbe. Csak másolja és illessze be az URL-t a mezőbe.";
 $Definition["You can configure some values differently for different screensizes."] = "Egyes értékeket különféleképpen konfigurálhat a különféle képernyőméretekhez.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "A betűtípus url domainjét hozzá kell adnia a <0> AllowedDomains mappához </0> , a webhely konfigurációjában. <1> További információ az egyéni betűkészletekről. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "A betűtípus url domainjét hozzá kell adnia a &lt;0&gt; Engedélyezett tartományokhoz </0> a webhely konfigurációjában. &lt;1&gt; További információ az egyéni betűkészletekről. </1>";
 
 $Definition["Primary Buttons"] = "Elsődleges gombok";
 $Definition["Secondary Buttons"] = "Másodlagos gombok";
