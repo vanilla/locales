@@ -37,6 +37,7 @@ $Definition["Browse"] = "Prehliadať";
 $Definition["By <0/>"] = "Od <0/>";
 
 $Definition["category"] = "kategória";
+$Definition["Categories"] = "Kategórie";
 $Definition["Category One"] = "Kategória 1";
 $Definition["Category Options"] = "Možnosti kategórie";
 $Definition["Category Two"] = "Kategória 2";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Triediť články";
 $Definition["Sorting method for articles."] = "Metóda triedenia článkov";
 $Definition["Sub folder"] = "Podpriečinok";
 $Definition["Subcategories"] = "Podkategórie";
+$Definition["sub-categories"] = "podkategórií";
+$Definition["sub-category"] = "sub-kategórie";
 
 $Definition["Thanks for your feedback!"] = "Ďakujeme za vašu spätnú väzbu!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Obrázok bannera, ktorý sa má použiť na výber databázy znalostí. Je ho možné zmeniť pre jednotlivé databázy vedomostí. Odporúčané rozmery sú približne1000 x 400 pixlov alebo podobný pomer.";
