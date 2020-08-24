@@ -37,6 +37,7 @@ $Definition["Browse"] = "Tallózás";
 $Definition["By <0/>"] = "<0/> szerint";
 
 $Definition["category"] = "kategória";
+$Definition["Categories"] = "Kategóriák";
 $Definition["Category One"] = "Első kategória";
 $Definition["Category Options"] = "Kategória beállításai";
 $Definition["Category Two"] = "Második kategória";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Cikkek rendezése";
 $Definition["Sorting method for articles."] = "Cikkek rendezési módszere.";
 $Definition["Sub folder"] = "Almappa";
 $Definition["Subcategories"] = "Alkategóriák";
+$Definition["sub-categories"] = "alkategóriák";
+$Definition["sub-category"] = "alkategória";
 
 $Definition["Thanks for your feedback!"] = "Köszönjük a visszajelzést";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "A tudásbázis-választóban használt szalagkép. Ez kategóriánkénti alapon felülírható. A javasolt méretek: 1000px x 400px vagy hasonló arányok.";
