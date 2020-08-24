@@ -312,7 +312,7 @@ $Definition["Font Name"] = "Schriftartenname";
 $Definition["Invalid URL"] = "Ungültige URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Sie können eine benutzerdefinierte Schriftart in Ihr Theming-System hochladen. Kopieren Sie einfach die URL und fügen Sie sie in das Feld ein.";
 $Definition["You can configure some values differently for different screensizes."] = "Sie können einige Werte für verschiedene Bildschirmgrößen unterschiedlich konfigurieren.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Sie müssen die Domain der Schriftart-URL zu <0>AllowedDomains hinzufügen</0> in der Konfiguration der Site. <1>Weitere Informationen zu benutzerdefinierten Schriftarten</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Sie müssen die Domain der Schriftart-URL zu &lt;0&gt; Zulässige Domains hinzufügen </0> in der Konfiguration der Site. &lt;1&gt; Weitere Informationen zu benutzerdefinierten Schriftarten. </1>";
 
 $Definition["Primary Buttons"] = "Primäre Buttons";
 $Definition["Secondary Buttons"] = "Sekundäre Buttons";
