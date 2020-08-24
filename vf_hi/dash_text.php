@@ -309,7 +309,7 @@ $Definition["Font Name"] = "फ़ॉन्ट का नाम";
 $Definition["Invalid URL"] = "अवैध यूआरएल";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "आप अपने थीमिंग सिस्टम में एक कस्टम फ़ॉन्ट अपलोड कर सकते हैं। बस क्षेत्र में URL कॉपी और पेस्ट करें।";
 $Definition["You can configure some values differently for different screensizes."] = "आप अलग-अलग स्क्रीनसेज़ के लिए कुछ मान अलग-अलग कॉन्फ़िगर कर सकते हैं।";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "आपको फ़ॉन्ट url के डोमेन को <0> AllowedDomains में जोड़ना होगा </0> , साइट के विन्यास में। <1> कस्टम फोंट के बारे में अधिक जानें। </1> ।";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "आपको फ़ॉन्ट यूआरएल के डोमेन को &lt;0&gt; अनुमत डोमेन से जोड़ना होगा </0> साइट के विन्यास में। &lt;1&gt; कस्टम फोंट के बारे में अधिक जानें। </1>";
 
 $Definition["Primary Buttons"] = "प्राथमिक बटन";
 $Definition["Secondary Buttons"] = "माध्यमिक बटन";
