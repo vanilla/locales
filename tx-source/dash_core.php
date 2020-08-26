@@ -722,6 +722,7 @@ $Definition['The homepage title is displayed on your home page.'] = 'The homepag
 $Definition['The homepage was saved successfully.'] = 'The homepage was saved successfully.';
 $Definition['The invitation was removed successfully.'] = 'The invitation was removed successfully.';
 $Definition['The invitation was sent successfully.'] = 'The invitation was sent successfully.';
+$Definition['The Key in the XML payload to designate %s.'] = 'The Key in the XML payload to designate %s.';
 $Definition['Theme Editor'] = 'Theme Editor';
 $Definition['Theme Options'] = 'Theme Options';
 $Definition['Themes'] = 'Themes';
