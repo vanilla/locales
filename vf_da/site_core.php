@@ -742,7 +742,7 @@ $Definition['Heading %s'] = 'Overskrift %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} godkendte {NotifyUserID,your} svar.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} besvarede dit spørgsmål: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} tjente <a href="{Url,html}">{Data.Name,text}-</a> badget.';
-$Definition['HeadlineFormat.Badge.User'] = 'Du tjente <a href="{Url,html}">badeværelset {Data.Name,text}</a> .';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} modtog <a href="{Url,html}">{Data.Name,text}</a> emblemet.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} blokerede {ActivityUserID,you}';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommenterede på <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sendte dig en <a href="{Url,html}">besked</a>
