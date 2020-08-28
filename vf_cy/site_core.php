@@ -716,7 +716,7 @@ $Definition['Heading %s'] = 'Pennawd %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = 'Derbyniodd {ActivityUserID, You} {NotifyUserID, your} ateb.';
 $Definition['HeadlineFormat.Answer'] = 'Atebodd {ActivityUserID,user} eich cwestiwn: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = 'enillodd <a href="{Url,html}">{ActivityUserID, user} y</a> bathodyn <a href="{Url,html}">{Data.Name,text}</a> .';
-$Definition['HeadlineFormat.Badge.User'] = 'Fe wnaethoch chi ennill y bathodyn <a href="{Url,html}">{Data.Name,text}</a> .';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID, You} wedi ennill bathodyn <a href="{Url,html}"> {Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = 'Mae {RegardingUserID,You} wedi gwahardd {ActivityUserID,You}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} sylwadau ar <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} anfonodd eich <a href="{Url,html}"> neges</a>';
