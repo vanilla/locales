@@ -743,7 +743,7 @@ $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} קיבל {Not
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} ענה לשאלתך:<a href="{Url,html}">
 </a>{Data.Name,text}';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} הרוויח את התג <a href="{Url,html}">{Data.Name,text}</a> .';
-$Definition['HeadlineFormat.Badge.User'] = 'הרווחת את התג <a href="{Url,html}">{Data.Name,text}</a> .';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} הרוויח  <a href="{Url,html}">{Data.Name,text}</a> אות הצטיינות';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} חסם {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} הגיב על <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User}  שלח לך <a href="{Url,html}">הודעה</a>';
