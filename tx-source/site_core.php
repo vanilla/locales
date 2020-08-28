@@ -739,7 +739,7 @@ $Definition['Heading %s'] = 'Heading %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
-$Definition['HeadlineFormat.Badge.User'] = 'You earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} commented on <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent you a <a href="{Url,html}">message</a>';
