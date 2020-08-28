@@ -744,7 +744,7 @@ $Definition['Heading %s'] = 'Заглавие %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} прие {NotifyUserID,your} отговор.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} отговори на въпроса Ви: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} спечели значката <a href="{Url,html}">{Data.Name,text}</a> .';
-$Definition['HeadlineFormat.Badge.User'] = '<a href="{Url,html}">Спечелихте</a> значката <a href="{Url,html}">{Data.Name,text}</a> .';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} спечели<a href="{Url,html}">{Data.Name,text}</a> значка.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} постави забрана на {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} коментира върху <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} ви изпрати <a href="{Url,html}">message</a>';
