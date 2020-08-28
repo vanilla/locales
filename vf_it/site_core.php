@@ -739,7 +739,8 @@ $Definition['Heading %s'] = 'Titolo %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '
 {ActivityUserID,You} ha accettato {NotifyUserID,your} la tua risposta.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} ha risposto alla tua domanda: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} hai ottenuto un <a href="{Url,html}">{Data.Name,text}</a> badge.';
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} ha ottenuto il badge <a href="{Url,html}">{Data.Name,text}</a> .';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} hai ottenuto un <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} sei stato/a bannato {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} ha commentato su <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} ti ha mandato un <a href="{Url,html}">messaggio </a>';
