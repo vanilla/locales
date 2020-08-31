@@ -835,7 +835,6 @@ $Definition['Invite Friends'] = 'Invite Friends';
 $Definition['Invite friends'] = 'Invite friends';
 $Definition['Invite Members'] = 'Invite Members';
 $Definition['Invite one or more people to join this group.'] = 'Invite one or more people to join this group.';
-$Definition['Invite users to join this group. You can choose the best way to invite users below.'] = 'Invite users to join this group. You can choose the best way to invite users below.';
 $Definition['IPAddress'] = 'IPAddress';
 $Definition['IP Address'] = 'IP Address';
 $Definition['I remember now!'] = 'I remember now!';
