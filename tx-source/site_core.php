@@ -749,6 +749,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityU
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'You\'ve been warned.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'You\'ve been <a href="{Url,html}" class="Popup">warned</a>.';
+$Definition['Height (mobile)']='Height (mobile)';
 $Definition['Hello!'] = 'Hello!';
 $Definition['Hello %s!'] = 'Hello %s!';
 $Definition['Hello {User.Name}!'] = 'Hello {User.Name}!';
