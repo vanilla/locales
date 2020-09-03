@@ -752,6 +752,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} sei stato riammesso
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} sei stato segnalato/a {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Sei stato avvisato.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Hai ricevuto un <a href="{Url,html}" class="Popup">avviso</a>.';
+$Definition['Height (mobile)']='Altezza (dispositivi mobili)';
 $Definition['Hello!'] = 'Ciao!';
 $Definition['Hello %s!'] = 'Ciao %s!';
 $Definition['Hello {User.Name}!'] = 'Ciao {User.Name}!';
