@@ -740,7 +740,7 @@ $Definition['Heading %s'] = 'Başlık %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} {NotifyUserID,your} yanıtınızı kabul etti.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} sorunuzu cevaplandırdı: <a href="{Url,html}"{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user}, <a href="{Url,html}">{Data.Name,text}</a> rozetini kazandı.';
-$Definition['HeadlineFormat.Badge.User'] = '<a href="{Url,html}">{Data.Name,text}</a> rozetini kazandınız.';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} <a href="{Url,html}">{Data.Name,text}</a> rozeti kazandı.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} {ActivityUserID,you}. kullanıcısını yasakladı.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a> hakkında yorum yaptı.';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sana bir <a href="{Url,html}">mesaj</a> gönderdi';
@@ -752,6 +752,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} {ActivityUserID,you
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} {RegardingUserID,you}. kullanıcısını uyardı.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Uyarıldın.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Daha önce <a href="{Url,html}" class="Popup">uyarılmıştın</a>.';
+$Definition['Height (mobile)']='Yükseklik (mobil)';
 $Definition['Hello!'] = 'Merhaba!';
 $Definition['Hello %s!'] = 'Merhaba %s!';
 $Definition['Hello {User.Name}!'] = 'Merhaba {User.Name}!';
