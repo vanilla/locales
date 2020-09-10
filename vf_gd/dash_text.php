@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Ainm Font";
 $Definition["Invalid URL"] = "URL mì-dhligheach";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Faodaidh tu Font Custom a luchdachadh suas san t-siostam cuspaireil agad. Dìreach dèan lethbhreac & pasg air an URL san raon.";
 $Definition["You can configure some values differently for different screensizes."] = "Faodaidh tu cuid de luachan a rèiteachadh gu eadar-dhealaichte airson scrionaichean eadar-dhealaichte.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Feumaidh tu fearann an url url a chur ri <0> AllowedDomains </0> , ann an rèiteachadh na làraich. <1> Ionnsaich tuilleadh mu chlàran àbhaisteach. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Feumaidh tu fearann an url url a chur ri &lt;0&gt; Fearann ceadaichte </0> ann an rèiteachadh na làraich. &lt;1&gt; Ionnsaich tuilleadh mu chlàran àbhaisteach. </1>";
 
 $Definition["Primary Buttons"] = "Putanan Bun-sgoile";
 $Definition["Secondary Buttons"] = "Putanan Àrd-sgoile";

@@ -739,7 +739,7 @@ $Definition['Heading %s'] = 'Judul %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} menerima jawaban {NotifyUserID,your}.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} menjawab pertanyaan Anda: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} mendapatkan lencana <a href="{Url,html}">{Data.Name,text}</a> .';
-$Definition['HeadlineFormat.Badge.User'] = 'Anda mendapatkan lencana <a href="{Url,html}">{Data.Name,text}</a> .';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} layak mendapat lencana <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} mencekal {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} berkomentar pada <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} mengirim Anda <a href="{Url,html}">pesan</a>';

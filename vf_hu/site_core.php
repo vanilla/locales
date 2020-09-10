@@ -741,7 +741,7 @@ $Definition['Heading %s'] = 'Főcím %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} elfogadta {NotifyUserID,your} válaszát.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} válaszolt kérdésedre: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = 'Az {ActivityUserID, user} megszerezte az <a href="{Url,html}">{Data.Name,text}</a> kitűzőt.';
-$Definition['HeadlineFormat.Badge.User'] = '<a href="{Url,html}">Megszerezte</a> az <a href="{Url,html}">{Data.Name,text}</a> kitűzőt.';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} kiérdemelted a <a href="{Url,html}">{Data.Name,text}</a> plecsnit.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} kitoltotta {ActivityUserID,you}-t.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommentelt itt: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} küldött egy <a href="{Url,html}"> üzenetet </a>';

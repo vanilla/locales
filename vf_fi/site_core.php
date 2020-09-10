@@ -746,7 +746,7 @@ $Definition['Heading %s'] = 'Otsikko %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} hyväksyit {NotifyUserID,your} vastauksesi.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} vastasi kysymykseesi: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} ansaitsi <a href="{Url,html}">{Data.Name,text}-</a> tunnuksen.';
-$Definition['HeadlineFormat.Badge.User'] = 'Ansaitsit <a href="{Url,html}">{Data.Name,text}-</a> tunnuksen.';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} ansaitsi(t) <a href="{Url,html}">{Data.Name,text}</a> kunniamerkin.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} asetit eston jäsenelle  {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommentoi seuraavaa: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} lähetti sinulle <a href="{Url,html}">viestin</a>';

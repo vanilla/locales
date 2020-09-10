@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Pangalan ng font";
 $Definition["Invalid URL"] = "Hindi wastong URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Maaari kang mag-upload ng isang Custom Font sa iyong Theming System. Kopyahin lamang at i-paste ang URL sa larangan.";
 $Definition["You can configure some values differently for different screensizes."] = "Maaari mong i-configure ang ilang mga halaga nang naiiba para sa iba't ibang mga screen.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Kailangan mong magdagdag ng domain ng font url sa <0> AllowedDomains </0> , sa pagsasaayos ng site. <1> Matuto nang higit pa tungkol sa mga pasadyang mga font. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Kailangan mong magdagdag ng domain ng font url sa &lt;0&gt; Pinapayagan na Mga domain </0> sa pagsasaayos ng site. &lt;1&gt; Matuto nang higit pa tungkol sa mga pasadyang mga font. </1>";
 
 $Definition["Primary Buttons"] = "Pangunahing Mga Pindutan";
 $Definition["Secondary Buttons"] = "Pangalawang Mga Pindutan";

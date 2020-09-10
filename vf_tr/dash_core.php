@@ -722,6 +722,7 @@ $Definition['The homepage title is displayed on your home page.'] = 'Ana sayfa b
 $Definition['The homepage was saved successfully.'] = 'Ana sayfa başarıyla kaydedildi.';
 $Definition['The invitation was removed successfully.'] = 'Davetiye başarıyla kaldırıldı.';
 $Definition['The invitation was sent successfully.'] = 'Davetiye başarıyla gönderildi.';
+$Definition['The Key in the XML payload to designate %s.'] = '%s\'i belirtmek için XML yükündeki Anahtar.';
 $Definition['Theme Editor'] = 'Tema Düzenleyici';
 $Definition['Theme Options'] = 'Tema Ayarları';
 $Definition['Themes'] = 'Temalar';

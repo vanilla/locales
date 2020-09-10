@@ -739,7 +739,7 @@ $Definition['Heading %s'] = 'عنوان %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} پاسخ را {NotifyUserID,your}  پذيرفت.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} به سوال شما پاسخ داد: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} به دست آورده <a href="{Url,html}">{Data.Name,text}</a> نشان.';
-$Definition['HeadlineFormat.Badge.User'] = 'شما نشان <a href="{Url,html}">{Data.Name,text}</a> را بدست آورده <a href="{Url,html}">اید</a> .';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} مدال <a href="{Url,html}">{Data.Name,text}</a> را دريافت كرد.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} مسدود شد {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} بر روي <a href="{Url,html}">{Data.Name,text}</a> ديدگاه ارسال كرد';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} براي شما يك <a href="{Url,html}">پيام</a> ارسال كرد';

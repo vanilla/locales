@@ -347,7 +347,7 @@ $Definition["Font Name"] = "Nom de la Police d'Écriture";
 $Definition["Invalid URL"] = "Adresse URL invalide";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Vous pouvez importez votre propre police d'écriture dans la gestion des thèmes. Copiez-collez simplement l'adresse URL dans le champ.";
 $Definition["You can configure some values differently for different screensizes."] = "Vous pouvez définir certaines valeurs pour différentes tailles d'écrans.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Vous deve ajouter l'adresse URL de la police d'écriture dans <0>Domaines autorisés</0>, dans votre configuration. <1>En savoir plus sur les Polices Personnalisées.</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Vous devez ajouter le domaine de l&#39;URL de la police à &lt;0&gt; Domaines autorisés </0> dans la configuration du site. &lt;1&gt; En savoir plus sur les polices personnalisées. </1>";
 
 $Definition["Primary Buttons"] = "Boutons primaires";
 $Definition["Secondary Buttons"] = "Boutons secondaires
