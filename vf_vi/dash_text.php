@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Tên phông chữ";
 $Definition["Invalid URL"] = "URL không hợp lệ";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Bạn có thể tải lên Phông chữ tùy chỉnh trong Hệ thống theo chủ đề của mình. Chỉ cần sao chép và dán URL vào trường.";
 $Definition["You can configure some values differently for different screensizes."] = "Bạn có thể cấu hình một số giá trị khác nhau cho các màn hình khác nhau.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Bạn cần thêm miền của url phông chữ vào &lt;0&gt; Miền được phép </0> trong cấu hình của trang web. &lt;1&gt; Tìm hiểu thêm về phông chữ tùy chỉnh. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Bạn cần thêm miền của url phông chữ vào <0> Miền được phép </0> trong cấu hình của trang web. <1> Tìm hiểu thêm về phông chữ tùy chỉnh. </1>";
 
 $Definition["Primary Buttons"] = "Nút chính";
 $Definition["Secondary Buttons"] = "Nút phụ";

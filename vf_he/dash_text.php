@@ -310,7 +310,7 @@ $Definition["Font Name"] = "שם גופן";
 $Definition["Invalid URL"] = "כתובת אתר לא חוקית";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "אתה יכול להעלות גופן מותאם אישית במערכת ההכנה שלך. פשוט העתק והדבק את כתובת האתר בשדה.";
 $Definition["You can configure some values differently for different screensizes."] = "אתה יכול להגדיר ערכים שונים באופן שונה עבור מסכי מסך שונים.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "עליך להוסיף את הדומיין של כתובת הגופן ל &lt;0&gt; דומיינים מותרים </0> בתצורת האתר. &lt;1&gt; למידע נוסף על גופנים מותאמים אישית. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "עליך להוסיף את הדומיין של כתובת הגופן ל <0> דומיינים מותרים </0> בתצורת האתר. <1> למידע נוסף על גופנים מותאמים אישית. </1>";
 
 $Definition["Primary Buttons"] = "כפתורים ראשיים";
 $Definition["Secondary Buttons"] = "כפתורים משניים";

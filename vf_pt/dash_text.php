@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Nome da fonte";
 $Definition["Invalid URL"] = "URL inválida";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Você pode fazer o upload de uma fonte personalizada em seu sistema de temas. Basta copiar e colar o URL no campo.";
 $Definition["You can configure some values differently for different screensizes."] = "Você pode configurar alguns valores de maneira diferente para diferentes tamanhos de tela.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Você precisa adicionar o domínio do url da fonte a &lt;0&gt; Domínios permitidos </0> na configuração do site. &lt;1&gt; Saiba mais sobre fontes personalizadas. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Você precisa adicionar o domínio do url da fonte a <0> Domínios permitidos </0> na configuração do site. <1> Saiba mais sobre fontes personalizadas. </1>";
 
 $Definition["Primary Buttons"] = "Botões primários";
 $Definition["Secondary Buttons"] = "Botões secundários";

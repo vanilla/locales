@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Назив фонта";
 $Definition["Invalid URL"] = "Неважећи УРЛ";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Можете да пошаљете прилагођени фонт у ваш систем за темирање. Само копирајте и залепите УРЛ у поље.";
 $Definition["You can configure some values differently for different screensizes."] = "Неке вредности можете другачије конфигурирати за различите величине заслона.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Морате да додате домен УРЛ-а фонта у &lt;0&gt; Дозвољене домене </0> у конфигурацији сајта. &lt;1&gt; Сазнајте више о прилагођеним фонтовима. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Морате да додате домен УРЛ-а фонта у <0> Дозвољене домене </0> у конфигурацији сајта. <1> Сазнајте више о прилагођеним фонтовима. </1>";
 
 $Definition["Primary Buttons"] = "Примарни тастери";
 $Definition["Secondary Buttons"] = "Секундарни тастери";

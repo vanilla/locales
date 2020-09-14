@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Όνομα γραμματοσειράς";
 $Definition["Invalid URL"] = "Μη έγκυρη διεύθυνση URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Μπορείτε να ανεβάσετε μια Προσαρμοσμένη Γραμματοσειρά στο Σύστημα Theming. Απλώς αντιγράψτε και επικολλήστε τη διεύθυνση URL στο πεδίο.";
 $Definition["You can configure some values differently for different screensizes."] = "Μπορείτε να διαμορφώσετε ορισμένες τιμές διαφορετικά για διαφορετικά μεγέθη οθόνης.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Πρέπει να προσθέσετε τον τομέα της διεύθυνσης URL της γραμματοσειράς σε &lt;0&gt; Επιτρεπόμενοι τομείς </0> στη διαμόρφωση του ιστότοπου. &lt;1&gt; Μάθετε περισσότερα σχετικά με τις προσαρμοσμένες γραμματοσειρές. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Πρέπει να προσθέσετε τον τομέα της διεύθυνσης URL της γραμματοσειράς σε <0> Επιτρεπόμενοι τομείς </0> στη διαμόρφωση του ιστότοπου. <1> Μάθετε περισσότερα σχετικά με τις προσαρμοσμένες γραμματοσειρές. </1>";
 
 $Definition["Primary Buttons"] = "Κύρια κουμπιά";
 $Definition["Secondary Buttons"] = "Δευτερεύοντα κουμπιά";

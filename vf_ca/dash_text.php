@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Nom de la font";
 $Definition["Invalid URL"] = "URL no vàlid";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Podeu carregar un tipus de lletra personalitzat al vostre sistema temàtic. Només heu de copiar i enganxar l’URL al camp.";
 $Definition["You can configure some values differently for different screensizes."] = "Podeu configurar diferents valors de manera diferent per a diferents pantalles.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Heu d'afegir el domini de l'URL de la font a <0> AllowedDomains </0> , en la configuració del lloc. <1> Més informació sobre tipus de lletra personalitzats. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Heu d’afegir el domini de l’URL de la font a <0> Dominis permesos </0> en la configuració del lloc <1> Més informació sobre tipus de lletra personalitzats. </1>";
 
 $Definition["Primary Buttons"] = "Botons primaris";
 $Definition["Secondary Buttons"] = "Botons secundaris";

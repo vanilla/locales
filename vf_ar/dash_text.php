@@ -309,7 +309,7 @@ $Definition["Font Name"] = "اسم الخط";
 $Definition["Invalid URL"] = "URL غير صالح";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "يمكنك تحميل خط مخصص في نظام Theming الخاص بك. ما عليك سوى نسخ ولصق عنوان URL في الحقل.";
 $Definition["You can configure some values differently for different screensizes."] = "يمكنك تكوين بعض القيم بشكل مختلف لأحجام الشاشات المختلفة.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "تحتاج إلى إضافة مجال عنوان url الخاص بالخط إلى &lt;0&gt; المجالات المسموح بها </0> في تكوين الموقع. &lt;1&gt; تعرف على المزيد حول الخطوط المخصصة. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "تحتاج إلى إضافة مجال عنوان url الخاص بالخط إلى <0> المجالات المسموح بها </0> في تكوين الموقع. <1> تعرف على المزيد حول الخطوط المخصصة. </1>";
 
 $Definition["Primary Buttons"] = "الأزرار الأساسية";
 $Definition["Secondary Buttons"] = "الأزرار الثانوية";

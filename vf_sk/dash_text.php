@@ -308,7 +308,7 @@ $Definition["Font Name"] = "Názov písma";
 $Definition["Invalid URL"] = "neplatná URL adresa";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Do systému Theming môžete nahrať vlastné písmo. Stačí skopírovať a vložiť adresu URL do poľa.";
 $Definition["You can configure some values differently for different screensizes."] = "Niektoré hodnoty môžete nakonfigurovať rôzne pre rôzne veľkosti obrazovky.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Do adresy &lt;0&gt; Povolené domény musíte pridať doménu adresy URL písma </0> v konfigurácii stránky. &lt;1&gt; Prečítajte si viac informácií o vlastných písmach. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Do adresy <0> Povolené domény musíte pridať doménu adresy URL písma </0> v konfigurácii stránky. <1> Prečítajte si viac informácií o vlastných písmach. </1>";
 
 $Definition["Primary Buttons"] = "Primárne tlačidlá";
 $Definition["Secondary Buttons"] = "Sekundárne tlačidlá";

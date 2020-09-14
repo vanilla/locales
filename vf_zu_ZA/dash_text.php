@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Igama Lamafonti";
 $Definition["Invalid URL"] = "I-URL engavumelekile";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Ungalayisha i-Font Yokwezifiso kusistimu yakho ye-Theming. Vele ukopishe bese unamathisela i-URL enkundleni.";
 $Definition["You can configure some values differently for different screensizes."] = "Ungahlela amanye amanani ngendlela eyehlukile kwizikrini ezihlukile.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Udinga ukungeza isizinda se-url yefont ku &lt;0&gt; Izizinda ezivunyelwe </0> ekucushweni kwesayithi. &lt;1&gt; Funda kabanzi ngamafonti wangokwezifiso. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Udinga ukungeza isizinda se-url yefont ku <0> Izizinda ezivunyelwe </0> ekucushweni kwesayithi. <1> Funda kabanzi ngamafonti wangokwezifiso. </1>";
 
 $Definition["Primary Buttons"] = "Izinkinobho eziyinhloko";
 $Definition["Secondary Buttons"] = "Izinkinobho Zesibili";

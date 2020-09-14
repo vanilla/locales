@@ -306,7 +306,7 @@ $Definition["Font Name"] = "نام قلم";
 $Definition["Invalid URL"] = "URL نامعتبر است";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "می توانید یک قلم سفارشی را در سیستم Theming خود بارگذاری کنید. فقط URL را در قسمت کپی و چسباندن کنید.";
 $Definition["You can configure some values differently for different screensizes."] = "می توانید مقادیر مختلف را برای صفحه های مختلف پیکربندی کنید.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "شما باید دامنه آدرس فونت را به &lt;0&gt; دامنه مجاز اضافه کنید </0> در پیکربندی سایت &lt;1&gt; در مورد قلم های سفارشی بیشتر بدانید. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "شما باید دامنه آدرس فونت را به <0> دامنه مجاز اضافه کنید </0> در پیکربندی سایت <1> در مورد قلم های سفارشی بیشتر بدانید. </1>";
 
 $Definition["Primary Buttons"] = "دکمه های اولیه";
 $Definition["Secondary Buttons"] = "دکمه های ثانویه";

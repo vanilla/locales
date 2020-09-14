@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Enw Ffont";
 $Definition["Invalid URL"] = "URL annilys";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Gallwch uwchlwytho Ffont Custom yn eich System Thema. Copïwch a gludwch yr URL yn y maes.";
 $Definition["You can configure some values differently for different screensizes."] = "Gallwch chi ffurfweddu rhai gwerthoedd yn wahanol ar gyfer gwahanol sgrinluniau.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Mae angen ichi ychwanegu parth yr url ffont at &lt;0&gt; Parth a Ganiateir </0> yng nghyfluniad y wefan. &lt;1&gt; Dysgu mwy am ffontiau arfer. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Mae angen ichi ychwanegu parth yr url ffont at <0> Parth a Ganiateir </0> yng nghyfluniad y wefan. <1> Dysgu mwy am ffontiau arfer. </1>";
 
 $Definition["Primary Buttons"] = "Botymau Cynradd";
 $Definition["Secondary Buttons"] = "Botymau Eilaidd";

@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Название шрифта";
 $Definition["Invalid URL"] = "Неверная ссылка";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Вы можете загрузить пользовательский шрифт в вашей тематической системе. Просто скопируйте и вставьте URL в поле.";
 $Definition["You can configure some values differently for different screensizes."] = "Вы можете настроить некоторые значения по-разному для разных размеров экрана.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Вам необходимо добавить домен URL шрифта в &lt;0&gt; Разрешенные домены </0> в конфигурации сайта. &lt;1&gt; Подробнее о пользовательских шрифтах. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Вам необходимо добавить домен URL шрифта в <0> Разрешенные домены </0> в конфигурации сайта. <1> Подробнее о пользовательских шрифтах. </1>";
 
 $Definition["Primary Buttons"] = "Основные кнопки";
 $Definition["Secondary Buttons"] = "Вторичные кнопки";

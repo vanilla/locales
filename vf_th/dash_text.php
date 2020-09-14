@@ -305,7 +305,7 @@ $Definition["Font Name"] = "ชื่อตัวอักษร";
 $Definition["Invalid URL"] = "URL ไม่ถูกต้อง";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "คุณสามารถอัปโหลดแบบอักษรที่กำหนดเองในชุดรูปแบบของคุณ เพียงคัดลอกและวาง URL ในฟิลด์";
 $Definition["You can configure some values differently for different screensizes."] = "คุณสามารถกำหนดค่าบางค่าแตกต่างกันสำหรับหน้าจอที่แตกต่างกัน";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "คุณต้องเพิ่มโดเมนของ font url ใน &lt;0&gt; Allowed Domains </0> ในการกำหนดค่าของไซต์ &lt;1&gt; เรียนรู้เพิ่มเติมเกี่ยวกับแบบอักษรที่กำหนดเอง </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "คุณต้องเพิ่มโดเมนของ font url ใน <0> Allowed Domains </0> ในการกำหนดค่าของไซต์ <1> เรียนรู้เพิ่มเติมเกี่ยวกับแบบอักษรที่กำหนดเอง </1>";
 
 $Definition["Primary Buttons"] = "ปุ่มหลัก";
 $Definition["Secondary Buttons"] = "ปุ่มที่สอง";

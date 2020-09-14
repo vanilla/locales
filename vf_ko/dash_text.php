@@ -322,7 +322,7 @@ $Definition["Font Name"] = "폰트 이름";
 $Definition["Invalid URL"] = "잘못된 URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "테마 시스템에서 사용자 정의 글꼴을 업로드 할 수 있습니다. 입력란에 URL을 복사하여 붙여 넣기 만하면됩니다.";
 $Definition["You can configure some values differently for different screensizes."] = "화면 크기에 따라 일부 값을 다르게 구성 할 수 있습니다.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "글꼴 URL의 도메인을 &lt;0&gt; 허용 도메인에 추가해야합니다. </0> 사이트 구성에서. &lt;1&gt; 사용자 정의 글꼴에 대해 자세히 알아보십시오. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "글꼴 URL의 도메인을 <0> 허용 도메인에 추가해야합니다. </0> 사이트 구성에서. <1> 사용자 정의 글꼴에 대해 자세히 알아보십시오. </1>";
 
 $Definition["Primary Buttons"] = "기본 버튼";
 $Definition["Secondary Buttons"] = "보조 버튼";

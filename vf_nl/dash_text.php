@@ -143,7 +143,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Kies de verificator die je wilt configureren.';
 $Definition['PluginHelp'] = 'Met plug-ins kan je functionaliteit aan je site toevoegen.<br />Zodra een plugin is toegevoegd aan de map %s, kan je hem op deze pagina in- of uitschakelen.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'De pocket wordt weergegeven tussen elke discussie op de algemene discussielijst. Omdat discussies meestal in &lt;li&gt;..&lt;/li&gt;-tags worden verpakt, moet je je pockets ook in deze tags inpakken.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'De pocket wordt weergegeven tussen elke discussie op de algemene discussielijst. Omdat discussies meestal in <li>..</li>-tags worden verpakt, moet je je pockets ook in deze tags inpakken.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets stellen je in staat om vrije HTML op verschillende plekken in de applicatie te plaatsen.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Voorkom spam op je forum door het aantal discussies en reacties die gebruikers binnen een bepaalde tijd kunnen plaatsen te beperken.';
 
@@ -311,7 +311,7 @@ $Definition["Font Name"] = "Naam lettertype";
 $Definition["Invalid URL"] = "Ongeldige URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "U kunt een aangepast lettertype uploaden in uw themasysteem. Kopieer en plak de URL in het veld.";
 $Definition["You can configure some values differently for different screensizes."] = "U kunt sommige waarden verschillend configureren voor verschillende schermformaten.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "U moet het domein van de lettertype-URL toevoegen aan &lt;0&gt; Toegestane domeinen </0> in de configuratie van de site. &lt;1&gt; Meer informatie over aangepaste lettertypen. </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "U moet het domein van de lettertype-URL toevoegen aan <0> Toegestane domeinen </0> in de configuratie van de site. <1> Meer informatie over aangepaste lettertypen. </1>";
 
 $Definition["Primary Buttons"] = "Primaire knoppen";
 $Definition["Secondary Buttons"] = "Secundaire knoppen";
