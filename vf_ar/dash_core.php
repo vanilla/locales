@@ -718,6 +718,7 @@ $Definition['The homepage title is displayed on your home page.'] = 'يتم عر
 $Definition['The homepage was saved successfully.'] = 'تم حفظ الصفحة الرئيسية بنجاح.';
 $Definition['The invitation was removed successfully.'] = 'تمت إزالة الدعوة بنجاح.';
 $Definition['The invitation was sent successfully.'] = 'تم إرسال الدعوة بنجاح.';
+$Definition['The Key in the XML payload to designate %s.'] = 'المفتاح الموجود في حمولة XML لتعيين %s.';
 $Definition['Theme Editor'] = 'محرر المظهر';
 $Definition['Theme Options'] = 'Theme Options';
 $Definition['Themes'] = 'Themes';
