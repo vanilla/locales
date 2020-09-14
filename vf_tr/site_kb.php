@@ -37,6 +37,7 @@ $Definition["Browse"] = "Gözat";
 $Definition["By <0/>"] = "<0/> tarafından";
 
 $Definition["category"] = "kategori";
+$Definition["Categories"] = "Kategoriler";
 $Definition["Category One"] = "Kategori Bir";
 $Definition["Category Options"] = "Kategori Seçenekleri";
 $Definition["Category Two"] = "İkinci Kategori";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Makaleleri Ayrıştır";
 $Definition["Sorting method for articles."] = "Makaleler için ayrıştırma metodu.";
 $Definition["Sub folder"] = "Alt klasör";
 $Definition["Subcategories"] = "Alt kategoriler";
+$Definition["sub-categories"] = "alt kategoriler";
+$Definition["sub-category"] = "alt kategori";
 
 $Definition["Thanks for your feedback!"] = "Geri bildiriminiz için teşekkürler!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Bilgi tabanı seçicide kullanılacak banner resim. Bu, bilgi tabanı başına olacak şekilde, üzerine yazılabilir. Önerilen boyutlar yaklaşık 1000px'e 400px veya benzer bir orandır.";

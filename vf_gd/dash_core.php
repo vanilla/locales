@@ -889,4 +889,3 @@ $Definition['Display on category page only.'] = 'Taisbeanadh air duilleag roinn-
 $Definition['Use Masonry display'] = 'Cleachd taisbeanadh clachaireachd';
 $Definition['Show an uploaded image on the Category page.'] = 'Seallaidh gach deasbad ìomhaigh a chaidh a luchdachadh suas air duilleag an roinn-seòrsa. Chan eil seo a ’buntainn ach ri roinnean le" Còmhraidhean "mar an" Taisbeanadh As. "';
 $Definition['Upload Placeholder Image'] = 'Luchdaich suas ìomhaigh placeholder';
-

@@ -37,6 +37,7 @@ $Definition["Browse"] = "ブラウズ";
 $Definition["By <0/>"] = "<0/>によって";
 
 $Definition["category"] = "カテゴリー";
+$Definition["Categories"] = "カテゴリ";
 $Definition["Category One"] = "カテゴリー 1";
 $Definition["Category Options"] = "カテゴリーのオプション";
 $Definition["Category Two"] = "カテゴリー 2";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "記事をソート";
 $Definition["Sorting method for articles."] = "記事のソート方法。";
 $Definition["Sub folder"] = "サブフォルダー";
 $Definition["Subcategories"] = "サブカテゴリー";
+$Definition["sub-categories"] = "サブカテゴリー";
+$Definition["sub-category"] = "サブカテゴリー";
 
 $Definition["Thanks for your feedback!"] = "フィードバックをありがとうございました！";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "ナレッジベースチューザーで使用するバナー画像です。この画像は、ナレッジベースごとに無効にできます。推奨サイズは約1000 x 400ピクセルまたは同等の比率です。";

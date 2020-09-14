@@ -37,6 +37,7 @@ $Definition["Browse"] = "瀏覽";
 $Definition["By <0/>"] = "由 <0/>";
 
 $Definition["category"] = "類別";
+$Definition["Categories"] = "分類";
 $Definition["Category One"] = "類別一";
 $Definition["Category Options"] = "類別選項";
 $Definition["Category Two"] = "類別二";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "排序文章";
 $Definition["Sorting method for articles."] = "文章的排序方式。";
 $Definition["Sub folder"] = "子資料夾";
 $Definition["Subcategories"] = "子類別";
+$Definition["sub-categories"] = "子類別";
+$Definition["sub-category"] = "子類別";
 
 $Definition["Thanks for your feedback!"] = "感謝您的寶貴意見！";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "用於知識庫選擇器上的橫幅圖像。這可根據各知識庫進行置換。建議尺寸約為 1000 像素 X 400 像素或類似比例。";

@@ -326,6 +326,7 @@ $Definition['Enable OpenID'] = 'فعالسازي OpenID';
 $Definition['Enable Pocket Locations'] = 'مکان های جیبی را فعال کنید';
 $Definition['Enable Private Communities'] = 'مجامع خصوصی را فعال کنید';
 $Definition['Enable Product Integration'] = 'ادغام محصول را فعال کنید';
+$Definition['Enable Followup Notifications'] = 'اعلان های پیگیری را فعال کنید';
 $Definition['Enable Tagging'] = 'برچسب زدن را فعال کنید';
 $Definition['Enable this message'] = 'Enable this message';
 $Definition['Enabling a Locale Pack'] = 'فعالسازي يك بسته زبان';
@@ -369,6 +370,7 @@ $Definition['Flagged By'] = 'پرچم گذاری شده توسط';
 $Definition['Flagged Content'] = 'محتوای پرچم دار';
 $Definition['Flood Control'] = 'كنترل سيل ارسال';
 $Definition['Forbidden words'] = 'کلمات ممنوعه';
+$Definition['Follow Up Delay'] = 'تأخیر پیگیری';
 $Definition['Force the forum to only be accessible through this url'] = 'انجمن را اجبار ميكند تا فقط از طريق اين آدرس وب قابل دسترس باشد';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'انجمن را اجبار ميكند تا فقط از طريق آدرس وب از راه دور قابل مشاهده باشد';
 $Definition['Footer'] = 'پاورقی';
@@ -549,6 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'هنگامي ك
 $Definition['Notify me when people start new discussions.'] = 'هنگامي كه اشخاص گفتگويي را آغاز ميكنند به من اطلاع رساني شود.';
 $Definition['Not Spam'] = 'هرزنامه نيست';
 $Definition['Number of blocked registrations'] = 'تعداد عضويت مسدود شده';
+$Definition['Number of days before a follow up email is automatically sent.'] = 'تعداد روز قبل از ارسال ایمیل پیگیری به طور خودکار.';
 
 $Definition['On'] = 'روشن';
 $Definition['Only Allow Each User To Post'] = 'هر کاربر چندتا بفرستد؟';
@@ -647,6 +650,7 @@ $Definition['RSVP'] = 'RSVP';
 $Definition['Save Captured Definitions'] = 'ذخيره تعاريف گرفته شده';
 $Definition['Save Colors'] = 'ذخيره رنگ ها';
 $Definition['Search by user or role.'] = 'جستجوی کاربر براساس نام یا ایمیل، بطور دلخواه میتوانید از کاراکتر  % برای جستجو استفاده کنید. همچنین میتوانید براساس شناسه کاربری ، نام یک نقش و یا  “محروم شده “ جستجوی خود را انجام دهید.';
+$Definition['Search results of members'] = 'نتایج جستجوی اعضا';
 $Definition['seconds'] = 'ثانيه';
 $Definition['Security'] = 'امنيتي';
 $Definition['See also'] ='همچنین ببینید';
@@ -756,6 +760,7 @@ $Definition['This category has custom permissions.'] = 'اين دسته بندي
 $Definition['This category is archived.'] = 'اين دسته بندي بايگاني شده است.';
 $Definition['This connection is in test-mode.'] = 'اتصال در حالت آزمايشي ميباشد.';
 $Definition['This Database'] = 'اين پايگاه داده';
+$Definition['QnAFollowup.Feature.Enabled'] = 'این ویژگی ایمیلهایی را برای نویسندگان سؤالات پاسخ داده شده ارسال می کند که جواب قبولی ندارند.';
 $Definition['This forum is currently set to invitation only mode.'] = 'اين انجمن هم اكنون فقط در حالت دعوتنامه ميباشد.';
 $Definition['This is a parent category that does not allow discussions.'] = 'اين دسته بندي والد ميباشد كه اجازه گفتگو را نميدهد.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'اين اولين باري است كه شما از انجمن گفتگو ديدن ميكنيد.';
@@ -894,4 +899,3 @@ $Definition['Display on category page only.'] = 'فقط در صفحه رده ن�
 $Definition['Use Masonry display'] = 'از صفحه نمایش سنگ تراشی استفاده کنید';
 $Definition['Show an uploaded image on the Category page.'] = 'هر بحث تصویری بارگذاری شده را در صفحه رده نشان می دهد. این فقط در مورد دسته هایی با "بحث" به عنوان "نمایش به عنوان" اعمال می شود.';
 $Definition['Upload Placeholder Image'] = 'تصویر مکان نگهدار را بارگذاری کنید';
-

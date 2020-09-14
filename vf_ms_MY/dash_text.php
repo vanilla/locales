@@ -305,7 +305,7 @@ $Definition["Font Name"] = "Nama Fon";
 $Definition["Invalid URL"] = "URL tidak sah";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Anda boleh memuat naik Font Kustom di Sistem Tema anda. Cukup salin & tampal URL di lapangan.";
 $Definition["You can configure some values differently for different screensizes."] = "Anda boleh mengkonfigurasi beberapa nilai secara berbeza untuk ukuran skrin yang berbeza.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke <0> AllowedDomains </0> , dalam konfigurasi laman web. <1> Ketahui lebih lanjut mengenai fon tersuai. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke &lt;0&gt; Domain yang Dibolehkan </0> dalam konfigurasi laman web. &lt;1&gt; Ketahui lebih lanjut mengenai fon tersuai. </1>";
 
 $Definition["Primary Buttons"] = "Butang Utama";
 $Definition["Secondary Buttons"] = "Butang Sekunder";

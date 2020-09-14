@@ -37,6 +37,7 @@ $Definition["Browse"] = "تصفح";
 $Definition["By <0/>"] = "بواسطة <0/>";
 
 $Definition["category"] = "الفئة ";
+$Definition["Categories"] = "الأقسام";
 $Definition["Category One"] = "الفئة رقم واحد";
 $Definition["Category Options"] = "خيارات الفئات ";
 $Definition["Category Two"] = "الفئة رقم إثنين ";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "ترتيب المقالات";
 $Definition["Sorting method for articles."] = "طريقة فرز المقالات.";
 $Definition["Sub folder"] = "مجلد فرعي";
 $Definition["Subcategories"] = "فئات فرعية";
+$Definition["sub-categories"] = "الفئات الفرعية";
+$Definition["sub-category"] = "تصنيف فرعي";
 
 $Definition["Thanks for your feedback!"] = "شكراً لك على آرائك! ";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "صورة الإعلان لاستخدامها في منتقي قاعدة المعرفة. يمكن تجاوز هذا على استناداً إلى كل قاعدة معرفة. تبلغ الأبعاد الموصى بها حوالي 1000 بكسل / 400 بكسل أو نسبة مماثلة.";

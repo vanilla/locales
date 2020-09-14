@@ -37,6 +37,7 @@ $Definition["Browse"] = "Procházet";
 $Definition["By <0/>"] = "Od <0/>";
 
 $Definition["category"] = "kategorie ";
+$Definition["Categories"] = "Kategorie";
 $Definition["Category One"] = "Kategorie jedna ";
 $Definition["Category Options"] = "Možnosti kategorie";
 $Definition["Category Two"] = "Kategorie dva ";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Seřadit články";
 $Definition["Sorting method for articles."] = "Metoda třídění článků.";
 $Definition["Sub folder"] = "Podadresář";
 $Definition["Subcategories"] = "Podkategorie";
+$Definition["sub-categories"] = "podkategorií";
+$Definition["sub-category"] = "podkategorie";
 
 $Definition["Thanks for your feedback!"] = "Děkujeme za vaši zpětnou vazbu! ";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Obrázek banneru pro výběr znalostní základny. Lze jej přepsat u jednotlivých znalostních základen. Doporučené rozměry jsou přibližně 1000 x 400 pixelů nebo podobný poměr.";

@@ -37,6 +37,7 @@ $Definition["Browse"] = "SElaa";
 $Definition["By <0/>"] = "Tekijältä <0/>";
 
 $Definition["category"] = "kategoria";
+$Definition["Categories"] = "Kategoriat";
 $Definition["Category One"] = "Kategoria yksi";
 $Definition["Category Options"] = "Kategorian vaihtoehdot";
 $Definition["Category Two"] = "Kategoria kaksi";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Järjestä artikkelit";
 $Definition["Sorting method for articles."] = "Artikkelien järjestelytapa.";
 $Definition["Sub folder"] = "Alakansio";
 $Definition["Subcategories"] = "Alakategoriat";
+$Definition["sub-categories"] = "alaluokkiin";
+$Definition["sub-category"] = "alaluokka";
 
 $Definition["Thanks for your feedback!"] = "Kiitos palautteestasi!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Bannerikuva, jota käytetään tietokannan valitsimessa. Tämä voidaan korvata tietokantakohtaisesti. Suosittelut mitat ovat n. 1000x400 px tai vastaava suhde.";

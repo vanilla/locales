@@ -37,6 +37,7 @@ $Definition["Browse"] = "Porwch";
 $Definition["By <0/>"] = "Gan <0 />";
 
 $Definition["category"] = "Categori";
+$Definition["Categories"] = "Categorïau";
 $Definition["Category One"] = "Categori Un";
 $Definition["Category Options"] = "Dewisiadau Categori";
 $Definition["Category Two"] = "Categori Dau";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Trefnu Erthyglau";
 $Definition["Sorting method for articles."] = "Dull didoli ar gyfer erthyglau.";
 $Definition["Sub folder"] = "Is-ffolder";
 $Definition["Subcategories"] = "Is-gategorïau";
+$Definition["sub-categories"] = "is-gategorïau";
+$Definition["sub-category"] = "is-gategori";
 
 $Definition["Thanks for your feedback!"] = "Diolch am eich adborth!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Delwedd y faner i'w defnyddio ar y dewisydd sylfaen wybodaeth. Gellir diystyru hyn ar sail per-knoweldge. Mae'r dimensiynau a argymhellir tua 1000px wrth 400px neu gymhareb debyg.";

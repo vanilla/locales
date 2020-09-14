@@ -893,4 +893,3 @@ $Definition['Display on category page only.'] = '仅在类别页面上显示。 
 $Definition['Use Masonry display'] = '使用 Masonry 显示';
 $Definition['Show an uploaded image on the Category page.'] = '每次讨论都会在类别页面上显示一张上传的图像。 这只适用于将“讨论”作为“显示为”的类别。';
 $Definition['Upload Placeholder Image'] = '上载占位符图像';
-

@@ -311,7 +311,7 @@ $Definition["Font Name"] = "Naam lettertype";
 $Definition["Invalid URL"] = "Ongeldige URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "U kunt een aangepast lettertype uploaden in uw themasysteem. Kopieer en plak de URL in het veld.";
 $Definition["You can configure some values differently for different screensizes."] = "U kunt sommige waarden verschillend configureren voor verschillende schermformaten.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "U moet het domein van de font-url toevoegen aan <0>Toegestane domeinen</0>, in de configuratie van de site. <1>Meer informatie over aangepaste lettertypen</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "U moet het domein van de lettertype-URL toevoegen aan &lt;0&gt; Toegestane domeinen </0> in de configuratie van de site. &lt;1&gt; Meer informatie over aangepaste lettertypen. </1>";
 
 $Definition["Primary Buttons"] = "Primaire knoppen";
 $Definition["Secondary Buttons"] = "Secundaire knoppen";

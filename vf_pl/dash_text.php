@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Nazwa czcionki";
 $Definition["Invalid URL"] = "nieprawidłowy URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Możesz wgrać własną czcionkę do swojego systemu tematycznego. Wystarczy skopiować i wkleić adres URL w polu.";
 $Definition["You can configure some values differently for different screensizes."] = "Możesz skonfigurować niektóre wartości inaczej dla różnych rozmiarów ekranu.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Musisz dodać domenę adresu URL czcionki do <0> AllowedDomains </0> , w konfiguracji witryny. <1> Więcej informacji o niestandardowych czcionkach. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Musisz dodać domenę adresu URL czcionki do &lt;0&gt; Dozwolonych domen </0> w konfiguracji witryny. &lt;1&gt; Dowiedz się więcej o niestandardowych czcionkach. </1>";
 
 $Definition["Primary Buttons"] = "Główne przyciski";
 $Definition["Secondary Buttons"] = "Przyciski wtórne";

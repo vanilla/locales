@@ -39,6 +39,7 @@ $Definition["Browse"] = "ब्राउज़ करें";
 $Definition["By <0/>"] = "द्वारा <0/>";
 
 $Definition["category"] = "श्रेणी";
+$Definition["Categories"] = "श्रेणियाँ";
 $Definition["Category One"] = "लेख एक";
 $Definition["Category Options"] = "श्रेणी के विकल्प";
 $Definition["Category Two"] = "श्रेणी दो";
@@ -146,6 +147,8 @@ $Definition["Sort Articles"] = "लेखों को क्रमबद्ध 
 $Definition["Sorting method for articles."] = "लेखों को क्रमबद्ध करने का तरीका।";
 $Definition["Sub folder"] = "उप फ़ोल्डर";
 $Definition["Subcategories"] = "उपश्रेणियाँ";
+$Definition["sub-categories"] = "उप श्रेणियों";
+$Definition["sub-category"] = "उप-श्रेणी";
 
 $Definition["Thanks for your feedback!"] = "आपके सुझाव के लिए धन्यवाद!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "ज्ञानधार चयनकर्ता पर उपयोग करने के लिए बैनर इमेज। इसे प्रति-ज्ञानधार के आधार पर ओवरराइड किया जा सकता है। अनुशंसित डायमेंशन लगभग 400px by 1000px या समान अनुपात में हैं।";

@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Fontin nimi";
 $Definition["Invalid URL"] = "Virheellinen URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Voit lähettää mukautetun kirjasimen Theming-järjestelmään. Kopioi ja liitä URL-osoite kenttään.";
 $Definition["You can configure some values differently for different screensizes."] = "Voit määrittää joitain arvoja eri tavalla eri näyttöruuduille.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Sinun on lisättävä fontin url-verkkotunnus <0>Sallitut verkkotunnukset -kohtaan</0>, sivuston kokoonpanossa. <1>Lisätietoja mukautetuista kirjasimista</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Sinun on lisättävä fontin url-verkkotunnus &lt;0&gt; Sallitut verkkotunnukset -kohtaan </0> sivuston kokoonpanossa. &lt;1&gt; Lisätietoja mukautetuista kirjasimista. </1>";
 
 $Definition["Primary Buttons"] = "Ensisijaiset painikkeet";
 $Definition["Secondary Buttons"] = "Toissijaiset painikkeet";

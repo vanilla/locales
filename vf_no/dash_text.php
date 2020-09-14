@@ -306,7 +306,7 @@ $Definition["Font Name"] = "Skriftnavn";
 $Definition["Invalid URL"] = "ugyldig URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan laste opp en egendefinert skrift i ditt temasystem. Bare kopier og lim inn URL-en i feltet.";
 $Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurere noen verdier på en annen måte for forskjellige skjermbilder.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du må legge til url-domenet til <0> Tillatte domener </0> , i nettstedets konfigurasjon. <1> Lær mer om tilpassede skrifter. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du må legge til url-domenet til &lt;0&gt; Tillatte domener </0> i nettstedets konfigurasjon. &lt;1&gt; Lær mer om tilpassede skrifter. </1>";
 
 $Definition["Primary Buttons"] = "Primære knapper";
 $Definition["Secondary Buttons"] = "Sekundærknapper";
