@@ -215,7 +215,7 @@ class SmokeTest extends AbstractLocalesTest {
 //                    exec("txsync pull -l {$m[1]}");
                 }
 
-                $this->assertSame($decoded, $value);
+                $this->assertSame($decoded, $value, "key: $key");
             }
         }
     }
