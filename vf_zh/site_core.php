@@ -778,7 +778,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} 取消屏蔽 {Activ
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} 警告了 {RegardingUserID,you}。';
 $Definition['HeadlineFormat.Warning.ToUser'] = '您已经被警告。';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '您已收到<a href="{Url,html}" class="Popup">警告</a>。';
-$Definition['Height (mobile)']='身高（移动）';
+$Definition['Height (mobile)'] = '身高（移动）';
 $Definition['Hello!'] = '您好！';
 $Definition['Hello %s!'] = '您好 %s！';
 $Definition['Hello {User.Name}!'] = '您好 {User.Name}！';

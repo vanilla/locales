@@ -211,8 +211,8 @@ class SmokeTest extends AbstractLocalesTest {
                 if ($decoded !== $value) {
                     preg_match('`/vf_(.+)`', $dir, $m);
 
-//                    exec("txsync decode --locale={$m[1]}");
-//                    exec("txsync pull -l {$m[1]}");
+                    exec("txsync decode --locale={$m[1]}");
+                    exec("txsync pull -l {$m[1]}");
                 }
 
                 $this->assertSame($decoded, $value, "key: $key");

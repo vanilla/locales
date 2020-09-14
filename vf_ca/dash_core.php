@@ -642,6 +642,7 @@ $Definition['Role'] = 'Rol';
 $Definition['Role Name'] = 'Nom del rol';
 $Definition['Role Permissions'] = 'Permisos de rol';
 $Definition['RolePersonalInfo'] = 'Aquest paper és la informació personal. Només els usuaris amb permís per veure informació personal ho veuran.';
+$Definition['Role Request Status'] = 'Estat';
 $Definition['Roles & Permissions'] = 'Funcions i permisos';
 $Definition['Roles determine user\'s permissions.'] = 'Tots els usuaris del vostre lloc tenen assignat almenys un paper. Els rols s’utilitzen per determinar què se’ls permet als usuaris.';
 $Definition['Role to Grant'] = 'Paper a la concessió';
