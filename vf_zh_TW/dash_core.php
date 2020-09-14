@@ -722,6 +722,7 @@ $Definition['The homepage title is displayed on your home page.'] = '首頁標�
 $Definition['The homepage was saved successfully.'] = '首頁已經儲存成功。';
 $Definition['The invitation was removed successfully.'] = '邀請已經成功刪除.';
 $Definition['The invitation was sent successfully.'] = '成功寄出邀請。';
+$Definition['The Key in the XML payload to designate %s.'] = 'XML有效負載中的密鑰，用於指定%s。';
 $Definition['Theme Editor'] = '主題編輯器';
 $Definition['Theme Options'] = '主題選項';
 $Definition['Themes'] = '主題';

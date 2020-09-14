@@ -722,6 +722,7 @@ $Definition['The homepage title is displayed on your home page.'] = 'El títol d
 $Definition['The homepage was saved successfully.'] = 'La pàgina principal s\'ha desat correctament.';
 $Definition['The invitation was removed successfully.'] = 'La invitació s\'ha eliminat correctament.';
 $Definition['The invitation was sent successfully.'] = 'La invitació s\'ha enviat correctament.';
+$Definition['The Key in the XML payload to designate %s.'] = 'La clau de la càrrega útil XML per designar %s.';
 $Definition['Theme Editor'] = 'Editor de temes';
 $Definition['ThemeEditor.Copy'] = '<0 /> còpia';
 $Definition['Theme Options'] = 'Opcions del tema';

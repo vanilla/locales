@@ -775,6 +775,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} свали забр
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} предупреди {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Бяхте предупредени.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Били сте <a href="{Url,html}" class="Popup">предупредени</a>';
+$Definition['Height (mobile)']='Височина (мобилно)';
 $Definition['Hello!'] = 'Здравейте!';
 $Definition['Hello %s!'] = 'Здравейте %s!';
 $Definition['Hello {User.Name}!'] = 'Здравейте {User.Name}!';

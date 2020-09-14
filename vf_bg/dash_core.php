@@ -714,6 +714,7 @@ $Definition['The homepage title is displayed on your home page.'] = 'Загла�
 $Definition['The homepage was saved successfully.'] = 'Началната страница бе успешно запазена.';
 $Definition['The invitation was removed successfully.'] = 'Поканата бе премахната успешно.';
 $Definition['The invitation was sent successfully.'] = 'Поканата бе изпратена успешно.';
+$Definition['The Key in the XML payload to designate %s.'] = 'Ключът в полезния товар на XML за обозначаване на %s.';
 $Definition['Theme Editor'] = 'Тема редактор';
 $Definition['ThemeEditor.Copy'] = '<0 /> копие';
 $Definition['Theme Options'] = 'Опции за тема';
