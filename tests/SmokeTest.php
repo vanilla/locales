@@ -48,7 +48,8 @@ class SmokeTest extends AbstractLocalesTest {
                     // For debug breakpoints.
                     $translationSprintfs = $this->getSprintfs($translaion);
                 }
-                $this->assertSame($sprintfs, $translationSprintfs, $key);
+                $message = "key: $key\nsource: $value\ntranslation: $translaion";
+                $this->assertSame($sprintfs, $translationSprintfs, $message);
                 $tested++;
             }
         }
@@ -108,6 +109,7 @@ class SmokeTest extends AbstractLocalesTest {
             if (isset($translations[$key])) {
                 $translaion = $translations[$key];
                 $translationFormats = $this->getFormatPlaceholders($translaion);
+                $message = "key: $key\nsource: $value\ntranslation: $translaion";
                 $this->assertFormatStringFields($fields, $translationFormats, $key);
 
                 foreach ($translationFormats as $format) {
@@ -273,7 +275,8 @@ class SmokeTest extends AbstractLocalesTest {
             $translation = $translations[$key];
             $translationFormats = $this->getFormatPlaceholders($translation);
             $this->assertNotEmpty($translationFormats, $key);
-            $this->assertFormatStringFields($formats, $translationFormats, $key);
+            $message = "key: $key\nsource: $value\ntranslation: $translation";
+            $this->assertFormatStringFields($formats, $translationFormats, $message);
 
             foreach ($translationFormats as $format) {
                 $this->assertValidFormatPlaceholder($format, "$key; {$format['expr']}");
