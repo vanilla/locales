@@ -743,7 +743,7 @@ $Definition['Heading %s'] = '标题 %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} 接受了 {NotifyUserID,your} 答案。';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user}回答了你的问题：<a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user}获得了<a href="{Url,html}">{Data.Name,text}</a>徽章。';
-$Definition['HeadlineFormat.Badge.User'] = '您获得了<a href="{Url,html}">{Data.Name,text}</a>徽章。';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} 获得了 <a href="{Url,html}">{Data.Name,text}</a> 徽章。';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} 屏蔽 {ActivityUserID,you}。';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} 评论了 <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} 给您发送了一条<a href="{Url,html}">消息</a>';
@@ -755,6 +755,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} 取消屏蔽 {Activ
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} 警告了 {RegardingUserID,you}。';
 $Definition['HeadlineFormat.Warning.ToUser'] = '您已经被警告。';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '您已收到<a href="{Url,html}" class="Popup">警告</a>。';
+$Definition['Height (mobile)']='身高（移动）';
 $Definition['Hello!'] = '您好！';
 $Definition['Hello %s!'] = '您好 %s！';
 $Definition['Hello {User.Name}!'] = '您好 {User.Name}！';
