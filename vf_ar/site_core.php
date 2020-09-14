@@ -753,6 +753,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} الغى حظر {Ac
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} حذّر {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'لقد تم تحذيرك.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'لقد تم <a href="{Url,html}" class="Popup"> تحذيرك </a> .';
+$Definition['Height (mobile)']='الارتفاع (المحمول)';
 $Definition['Hello!'] = 'مرحبا!';
 $Definition['Hello %s!'] = 'مرحبا %s!';
 $Definition['Hello {User.Name}!'] = 'مرحبا {User.Name}!';
