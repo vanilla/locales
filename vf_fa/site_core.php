@@ -751,6 +751,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} آزاد شد {Acti
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} هشدار گرفت {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'شما هشدار گرفته اید.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'به شما <a href="{Url,html}" class="Popup">اخطار داده</a> شده است';
+$Definition['Height (mobile)']='قد (موبایل)';
 $Definition['Hello!'] = 'سلام!';
 $Definition['Hello %s!'] = 'سلام %s!';
 $Definition['Hello {User.Name}!'] = 'سلام {User.Name}!';
