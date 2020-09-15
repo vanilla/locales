@@ -484,6 +484,7 @@ $Definition['Delete User Content'] = '刪除用戶內容';
 $Definition['Delete User Forever'] = '永久刪除使用者';
 $Definition['Deleting...'] = '刪除中…';
 $Definition['Deny'] = '拒絕';
+$Definition['Denied'] = '被拒絕';
 $Definition['Deny Applicant'] = '拒絕';
 $Definition['Description'] = '描述';
 $Definition['Did this answer the question?'] = '它解答問題了嗎？';
@@ -741,7 +742,7 @@ $Definition['Heading %s'] = '標題 %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You}已接受{NotifyUserID,your}的回答。';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} 回答了您的問題：<a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user}獲得了<a href="{Url,html}">{Data.Name,text}</a>徽章。';
-$Definition['HeadlineFormat.Badge.User'] = '您獲得了<a href="{Url,html}">{Data.Name,text}</a>徽章。';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You}贏得了 <a href="{Url,html}">{Data.Name,text}</a>徽章。';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} 禁止了 {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user}評論了<a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} 寄了一個 <a href="{Url,html}"> 留言 </a> 給您';
@@ -753,6 +754,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} 取消禁止 {Activ
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} 警告了{RegardingUserID,you}。';
 $Definition['HeadlineFormat.Warning.ToUser'] = '您已被警告過了。';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '你已被 <a href="{Url,html}" class="Popup">警告</a>。';
+$Definition['Height (mobile)']='身高（移動）';
 $Definition['Hello!'] = '哈囉！';
 $Definition['Hello %s!'] = '哈囉 %s！';
 $Definition['Hello {User.Name}!'] = '哈囉 {User.Name}！';
@@ -915,6 +917,7 @@ $Definition['Mark All Viewed'] = '標記所有為已讀';
 $Definition['Mark as Troll'] = '標記為煽動性文章';
 $Definition['Mark Category Viewed'] = '標記已查看類別';
 $Definition['Marking as spam cannot be undone.'] = '標記為垃圾郵件，則它會被永久刪除。刪除是保持論壇乾淨的好方法。';
+$Definition['Mark Pending'] = '標記待定';
 $Definition['Mark Read'] = '標示為已讀取';
 $Definition['Maybe'] = '或許';
 $Definition['Maybe (%s)'] = '或許 (%s)';
@@ -1825,6 +1828,7 @@ $Definition['You\'ve been invited to join {Name}.'] = '您已被邀請加入{Nam
 $Definition['You\'ve been Jailed.'] = '您已被屏蔽。';
 $Definition['You\'ve been warned.'] = '您已被警告過了。';
 $Definition['You already have an account here.'] = '你在這已經有一個帳戶。';
+$Definition['You already have this role.'] = '您已經具有此角色。';
 $Definition['You are about to ban {User.UserID,user}.'] = '您將被封鎖 {User.UserID,user}。';
 $Definition["You are about to delete all of a user's content."] = "你即將刪除針對{User.UserID,user}的全部內容。";
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = '您將移動選定的討論 %2$s 中的 %1$s 。';
@@ -1893,6 +1897,8 @@ $Definition['You have not started any discussions.'] = '您還未發起任何評
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = '您已經在 %2$s 秒內發帖 %1$s 次, 為防止惡意灌水, 請等待 %3$s 秒後再重新文章.';
 $Definition['You have selected %1$s.'] = '您已選擇了 %1$s。';
 $Definition['You have selected %1$s in this discussion.'] = '您在本討論中選擇了 %1$s。';
+$Definition['You have already applied.'] = '您已經申請了。';
+$Definition['You have successfully applied.'] = '您已成功申請。';
 $Definition['You have successfully connected to {Title}.'] = '你已成功連結 {Title}。';
 $Definition['You have successfully registered for an account at {Title}.'] = '你已成功在 {Title} 註冊帳號。';
 $Definition['You have to be around for a little while longer before you can post links.'] = '你必須在這裡待久一點，然後才能貼上外部連結。';
@@ -1934,6 +1940,7 @@ $Definition['Your status for this event is now: <b>%s</b>'] = '現在您在本�
 $Definition['Your warning was added.'] = '您已添加了警告。';
 $Definition['You were added to a conversation.'] = '{InsertUserID,user}將{NotifyUserID,you}加入了<a href="{Url,htmlencode}">對話</a>。';
 $Definition['You wrote:'] = '您寫道：';
+$Definition['You will receive a notification when you are accepted.'] = '當您被接受時，您將收到通知。';
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip";
