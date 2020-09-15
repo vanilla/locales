@@ -483,6 +483,7 @@ $Definition['Delete User Content'] = 'Видалити контент корис
 $Definition['Delete User Forever'] = 'Видалити користувача нажавжди';
 $Definition['Deleting...'] = 'Видалення...';
 $Definition['Deny'] = 'Заборонено';
+$Definition['Denied'] = 'Заперечується';
 $Definition['Deny Applicant'] = 'Заборонено';
 $Definition['Description'] = 'Опис';
 $Definition['Did this answer the question?'] = 'Ви отримали відповідь на це питання?';
@@ -744,7 +745,7 @@ $Definition['Heading %s'] = 'Направлення %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} прийняв {NotifyUserID,your} відповідь.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} відповів на ваше запитання: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} отримав значок <a href="{Url,html}">{Data.Name,text}</a> .';
-$Definition['HeadlineFormat.Badge.User'] = 'Ви заробили значок <a href="{Url,html}">{Data.Name,text}</a> .';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} заслужив відзнаку <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} забанений {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = 'Користувач  {ActivityUserID,user} прокоментував <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} надіслав вам <a href="{Url,html}">повідомлення</a>';
@@ -756,6 +757,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} розбанено 
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} попередив {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Вас було попереджено';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Вас було <a href="{Url,html}" class="Popup">попереджено</a>.';
+$Definition['Height (mobile)']='Висота (мобільний)';
 $Definition['Hello!'] = 'Добрий день!';
 $Definition['Hello %s!'] = 'Добрий день, %s!';
 $Definition['Hello {User.Name}!'] = 'Добрий день, {User.Name}!';
@@ -918,6 +920,7 @@ $Definition['Mark All Viewed'] = 'Позначити все прочитаним
 $Definition['Mark as Troll'] = 'Відзначити як Троль';
 $Definition['Mark Category Viewed'] = 'Помітити категорію як переглянуту';
 $Definition['Marking as spam cannot be undone.'] = 'Маркування чогось як спам змусить його видалити назавжди. Видалення є хорошим способом, щоб зберегти ваш форум в чистоті.';
+$Definition['Mark Pending'] = 'Позначити в очікуванні';
 $Definition['Mark Read'] = 'Позначити прочитаним';
 $Definition['Maybe'] = 'Можливо';
 $Definition['Maybe (%s)'] = 'Можливо (%s)';
@@ -1821,6 +1824,7 @@ $Definition['You\'ve been invited to join {Name}.'] = 'Вас було запр�
 $Definition['You\'ve been Jailed.'] = 'Ви потрапили до в\'язниці.';
 $Definition['You\'ve been warned.'] = 'Вас було попереджено';
 $Definition['You already have an account here.'] = 'Такий акаунт вже існує';
+$Definition['You already have this role.'] = 'У вас вже є ця роль.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'Ви збираєтесь забанити {User.UserID,user}.';
 $Definition["You are about to delete all of a user's content."] = "Ви збираєтесь видалити весь контент для {User.UserID,user}.";
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'Ви збираєтесь перемістити %1$s з %2$s обраних обговорень.';
@@ -1889,6 +1893,8 @@ $Definition['You have not started any discussions.'] = 'Ви не розпоча
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'Ви залишили %1$s повідомлень протягом %2$s секунд. Ви повинні почекати не менше %3$s секунд перед тим, як відправляти знову.';
 $Definition['You have selected %1$s.'] = 'Ви вибрали %1$s.';
 $Definition['You have selected %1$s in this discussion.'] = 'Ви вибрали %1$s в цьому обговоренні.';
+$Definition['You have already applied.'] = 'Ви вже подали заявку.';
+$Definition['You have successfully applied.'] = 'Ви успішно подали заявку.';
 $Definition['You have successfully connected to {Title}.'] = 'Ви успішно приєдналися до {Title}.';
 $Definition['You have successfully registered for an account at {Title}.'] = 'Ви успішно зареєстрували обліковий запис на  {Title}. ';
 $Definition['You have to be around for a little while longer before you can post links.'] = 'Ви маєте побути тут трішки довше, щоб могти публікувати зовнішні посилання.';
@@ -1930,6 +1936,7 @@ $Definition['Your status for this event is now: <b>%s</b>'] = 'Ваш стату
 $Definition['Your warning was added.'] = 'Ваше попередження було додано.';
 $Definition['You were added to a conversation.'] = 'Користувач {InsertUserID,user} додав {NotifyUserID,you} до <a href="{Url,htmlencode}">обговорення</a>.';
 $Definition['You wrote:'] = 'Ви написали:';
+$Definition['You will receive a notification when you are accepted.'] = 'Ви отримаєте сповіщення, коли вас приймуть.';
 $Definition["yyyy-mm-dd"] = "рррр-мм-дд";
 
 $Definition["Zip"] = "Zip";
