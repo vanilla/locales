@@ -483,6 +483,7 @@ $Definition['Delete User Content'] = 'ユーザーコンテンツを削除する
 $Definition['Delete User Forever'] = '永久ユーザーを削除する';
 $Definition['Deleting...'] = '削除中...';
 $Definition['Deny'] = '否定する';
+$Definition['Denied'] = '拒否されました';
 $Definition['Deny Applicant'] = '否定する';
 $Definition['Description'] = '説明';
 $Definition['Did this answer the question?'] = 'これは問題解決のお役に立ちましたか？';
@@ -744,7 +745,7 @@ $Definition['Heading %s'] = '表題%s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} 受理されました {NotifyUserID,your} 答えました';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user}があなたの質問に回答しました: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user}が<a href="{Url,html}">{Data.Name,text}</a>バッジを獲得しました。';
-$Definition['HeadlineFormat.Badge.User'] = '<a href="{Url,html}">{Data.Name,text}</a>バッジを獲得しました。';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You}は<a href="{Url,html}">{Data.Name,text}</a>のバッジを獲得しています。';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You}が{ActivityUserID,you}を禁止しました。';
 $Definition['HeadlineFormat.Comment'] = ' {ActivityUserID,user} が <a href="{Url,html}">{Data.Name,text}</a>にコメントしました。 ';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} から<a href="{Url,html}">メッセージ</a>が届いてます';
@@ -756,6 +757,7 @@ $Definition['HeadlineFormat.Unban'] = ' {RegardingUserID,You} が {ActivityUserI
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} が {RegardingUserID,you}に警告しました。';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'あなたは警告を受けました。';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'あなたは<a href="{Url,html}" class="Popup">警告を受けています</a>。';
+$Definition['Height (mobile)']='高さ（モバイル）';
 $Definition['Hello!'] = 'こんにちは!';
 $Definition['Hello %s!'] = '%s さん、こんにちは!';
 $Definition['Hello {User.Name}!'] = '{User.Name} さん、こんにちは!';
@@ -918,6 +920,7 @@ $Definition['Mark All Viewed'] = '全てを既読にする';
 $Definition['Mark as Troll'] = 'スパムとして通報';
 $Definition['Mark Category Viewed'] = '閲覧したカテゴリーに印をつける';
 $Definition['Marking as spam cannot be undone.'] = 'どれかを「スパム」としてマークすると、完全に削除されることになります。あなたのフォーラムをきれいに保つために、削除することはいい方法です。';
+$Definition['Mark Pending'] = '保留マーク';
 $Definition['Mark Read'] = '既読にする';
 $Definition['Maybe'] = '多分';
 $Definition['Maybe (%s)'] = '多分 (%s)';
@@ -1840,6 +1843,7 @@ $Definition['You\'ve been invited to join {Name}.'] = 'あなたは{Name}へ招�
 $Definition['You\'ve been Jailed.'] = 'あなたは投獄されました。';
 $Definition['You\'ve been warned.'] = 'あなたは警告を受けました。';
 $Definition['You already have an account here.'] = 'すでにアカウントをお持ちです。';
+$Definition['You already have this role.'] = 'あなたはすでにこの役割を持っています。';
 $Definition['You are about to ban {User.UserID,user}.'] = 'あなたは{User.UserID,user}を禁止しようとしています。';
 $Definition["You are about to delete all of a user's content."] = "{User.UserID,user}のすべてのコンテンツを削除しようとしています。";
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = '選択したディスカッションの%2$sの%1$sを移動します。';
@@ -1909,6 +1913,8 @@ $Definition['You have not started any discussions.'] = 'あなたはディスカ
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'あなたは%2$s秒以内に %1$s回投稿を行いました。現在スパムブロックがあなたのアカウントで有効になっています。再度投稿を行うには、最低%3$s秒待たなければなりません。';
 $Definition['You have selected %1$s.'] = 'あなたは %1$s を選択しました。';
 $Definition['You have selected %1$s in this discussion.'] = 'あなたはこのディスカッションにおいて %1$s を選択しました。';
+$Definition['You have already applied.'] = 'すでに応募済みです。';
+$Definition['You have successfully applied.'] = '応募しました。';
 $Definition['You have successfully connected to {Title}.'] = '{Title} に無事に接続できました。';
 $Definition['You have successfully registered for an account at {Title}.'] = '{Title} のアカウントを無事に登録できました。';
 $Definition['You have to be around for a little while longer before you can post links.'] = '外部リンクを投稿できるようになるには、もう少し時間がかかります。';
@@ -1950,6 +1956,7 @@ $Definition['Your status for this event is now: <b>%s</b>'] = 'このイベン�
 $Definition['Your warning was added.'] = '警告が追加されました。';
 $Definition['You were added to a conversation.'] = '<a href="{Url,htmlencode}">会話</a>するために、{InsertUserID,user} が{NotifyUserID,you}を加えました。';
 $Definition['You wrote:'] = 'あなたは以下のように書きました:';
+$Definition['You will receive a notification when you are accepted.'] = '承認されると通知が届きます。';
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip（ジップ）";
