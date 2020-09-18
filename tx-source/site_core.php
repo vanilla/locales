@@ -534,6 +534,7 @@ $Definition['Edit Discussion'] = 'Edit Discussion';
 $Definition['edited %s'] = 'edited %s';
 $Definition['Edited %s by %s.'] = 'Edited %s by %s.';
 $Definition['Editing'] = 'Editing';
+$Definition['Editing this field will require password entry'] = 'Editing this field will require password entry';
 $Definition['Edit My Account'] = 'Edit My Account';
 $Definition['Edit My Profile'] = 'Edit My Profile';
 $Definition['Edit My Thumbnail'] = 'Edit My Thumbnail';
