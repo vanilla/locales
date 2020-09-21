@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Cep için açıklayıcı bir ad giri
 $Definition['Enter a short name for the site.'] = 'Site için kısa bir ad girin. Bu, oturum açma düğmelerinde görüntülenir.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Wordpress Blogunuzun adresini girin, biz de oradan alalım.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Sphinx sunucunuzun bağlantı ayarlarını aşağıya girin.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Her düzenleme veya silme buraya kaydedilir. Herhangi bir değişikliği geri almak için &lsquo;Geri Yükle&rsquo; seçeneğini kullanın.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Her düzenleme veya silme buraya kaydedilir. Herhangi bir değişikliği geri almak için ‘Geri Yükle’ seçeneğini kullanın.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Topluluğunuz için kaydolan herkes, kendi resimlerini yükleyebilecekleri, profil ayarlarını yönetebilecekleri ve toplulukta olup bitenleri izleyebilecekleri bir genel profil sayfası alır. <a href="{/profile,url}">Profilinizi şimdi özelleştirmelisiniz</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Sitenizdeki her kullanıcı en az bir rol için atanır. Roller, kullanıcıların ne yapmasına izin verildiğini belirlemek için kullanılır.';
 
@@ -143,7 +143,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Lütfen yapılandırmak için bir onaylayıcı seçin.';
 $Definition['PluginHelp'] = 'Eklentiler sitenize işlevsellik eklemenizi sağlar. %s Klasörünüze  <br /> bir eklenti eklendikten sonra, buradan etkinleştirebilir veya devre dışı bırakabilirsiniz.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Cep ana tartışma listesindeki her tartışma arasında görüntülenir. Tartışmalar genellikle &lt;li&gt;..&lt;/li&gt; Etiketler, cebinizi de bu etiketlere sarmanız gerekir.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Cep ana tartışma listesindeki her tartışma arasında görüntülenir. Tartışmalar genellikle <li>..</li> Etiketler, cebinizi de bu etiketlere sarmanız gerekir.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Paketler, uygulamanın etrafındaki çeşitli yerlere serbest biçimli HTML eklemenizi sağlar.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Tartışmaların sayısını sınırlandırarak forumunuzdaki spam’leri önleyin. kullanıcıların belirli bir süre içinde gönderebilecekleri yorumlar.';
 
@@ -201,7 +201,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'İçe aktarılan dosya herhangi bir veri içermiyor.';
 $Definition['The import file is not in the correct format.'] = 'İçe aktarılan dosya doğru biçimde değil.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Jsonp formatlanmış kimlik doğrulama verilerinin yeri.';
-$Definition['ThemeHelp'] = 'Temalar görünümü değiştirmenizi sağlar &amp; Bakın ve sitenizde deneyin. %s Tema klasörünüze bir tema eklendikten sonra, buradan etkinleştirebilirsiniz.';
+$Definition['ThemeHelp'] = 'Temalar görünümü değiştirmenizi sağlar & Bakın ve sitenizde deneyin. %s Tema klasörünüze bir tema eklendikten sonra, buradan etkinleştirebilirsiniz.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Tema önizlemesi, temanın şablonunu ve css görüntülemekle sınırlıdır.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Parola Doğrulayıcı\'nın herhangi bir özel yapılandırma seçeneği yoktur.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Veritabanı yapısında değişikliğe gerek yoktur. Bununla birlikte, veri değişiklikleri olabilir.';
@@ -234,10 +234,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Kul
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Dışa Aktar: %s, Kaynak: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilya İstatistikleri şu anda devre dışı';
 $Definition['Video tutorial on advanced settings'] = 'Gelişmiş ayarlarla ilgili video eğitimi';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Kullanıcı yönetimi hakkında &amp; video eğitimi bul';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Kullanıcı yönetimi hakkında & video eğitimi bul';
 $Definition['Video tutorial on managing appearance'] = 'Görünüm yönetimi hakkında video eğitimi';
 $Definition['Video tutorial on managing categories'] = 'Kategori yönetimi ilgili video eğitimi';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Rollerin yönetimi hakkında &amp; video eğitimi bul';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Rollerin yönetimi hakkında & video eğitimi bul';
 $Definition['Video tutorial on user registration'] = 'Kullanıcı kaydı hakkında video eğitimi';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Uyarı: Bu özelliğin etkinleştirilmesi sitenizde Javascript hatalarına neden olabilir.';
