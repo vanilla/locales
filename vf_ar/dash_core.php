@@ -649,6 +649,7 @@ $Definition['Save Captured Definitions'] = 'حفظ التعريفات الملت
 $Definition['Save Colors'] = 'حفظ الألوان';
 $Definition['Search by user or role.'] = 'ابحث عن الأعضاء باستخدام الاسم أو البريد الإلكتروني، وكذلك بإمكانك استخدام % كبدل. وكذلك بإمكانك البحث باستخدام رقم العضوية، اسم المجموعة أو “محظور”.';
 $Definition['Search results of members'] = 'نتائج البحث للأعضاء';
+$Definition['SearchScope.Everywhere'] = 'في كل مكان';
 $Definition['seconds'] = 'ثواني';
 $Definition['Security'] = 'الأمان';
 $Definition['See also'] ='انظر أيضاً';
