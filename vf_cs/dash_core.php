@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
 $Definition['Save Colors'] = 'Uložit barvy';
 $Definition['Search by user or role.'] = 'Hledejte uživatele podle jména nebo e-mailu, volitelně pomocí % jako zástupného znaku. Můžete také hledat podle ID uživatele, názvu role nebo “zakázané uživatele”.';
 $Definition['Search results of members'] = 'Výsledky vyhledávání členů';
+$Definition['SearchScope.Everywhere'] = 'Všude';
 $Definition['seconds'] = 'sekundy';
 $Definition['Security'] = 'Security';
 $Definition['See also'] ='Viz také';
