@@ -647,6 +647,7 @@ $Definition['Save Captured Definitions'] = 'Запазване на заснет
 $Definition['Save Colors'] = 'Запазване на цветовете';
 $Definition['Search by user or role.'] = 'Търсете потребители по име или имейл, като по желание използвате% като заместваща карта. Можете също така да търсите по потребителски идентификатор, името на роля или „забранен“.';
 $Definition['Search results of members'] = 'Резултати от търсенето на членове';
+$Definition['SearchScope.Everywhere'] = 'Навсякъде';
 $Definition['seconds'] = 'секунди';
 $Definition['Security'] = 'Сигурност';
 $Definition['See also'] ='Вижте също';
