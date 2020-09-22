@@ -655,6 +655,7 @@ $Definition['Save Captured Definitions'] = 'Gem indfangede definitioner';
 $Definition['Save Colors'] = 'Gem farver';
 $Definition['Search by user or role.'] = 'Søg efter brugere efter navn eller e-mail, eventuelt med % som valgfrit wildcard. Du kan også søge efter bruger-ID, navnet på en rolle eller  “banned”.';
 $Definition['Search results of members'] = 'Søgeresultater fra medlemmer';
+$Definition['SearchScope.Everywhere'] = 'Overalt';
 $Definition['seconds'] = 'sekunder';
 $Definition['Security'] = 'Sikkerhed';
 $Definition['See also'] ='Se også';
