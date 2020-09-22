@@ -651,6 +651,7 @@ $Definition['Save Captured Definitions'] = 'Desa les definicions capturades';
 $Definition['Save Colors'] = 'Desa els colors';
 $Definition['Search by user or role.'] = 'Cerqueu usuaris per nom o correu electrònic, opcionalment utilitzant% com a comodins. També podeu cercar per identificador d’usuari, el nom d’una funció o “prohibit”.';
 $Definition['Search results of members'] = 'Resultats de cerca dels membres';
+$Definition['SearchScope.Everywhere'] = 'A tot arreu';
 $Definition['seconds'] = 'segons';
 $Definition['Security'] = 'Seguretat';
 $Definition['See also'] ='Vegeu també';
