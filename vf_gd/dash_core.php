@@ -651,6 +651,7 @@ $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
 $Definition['Save Colors'] = 'Sàbhail dathan';
 $Definition['Search by user or role.'] = 'Lorg luchd-cleachdaidh a rèir ainm no post-d, gu roghnach a ’cleachdadh% mar chairt fiadhaich. Faodaidh tu cuideachd sgrùdadh a dhèanamh le ID neach-cleachdaidh, ainm dreuchd, no “toirmisgte”.';
 $Definition['Search results of members'] = 'Rannsaich toraidhean nam ball';
+$Definition['SearchScope.Everywhere'] = 'Anns gach àite';
 $Definition['seconds'] = 'seconds';
 $Definition['Security'] = 'Security';
 $Definition['See also'] ='Faic cuideachd';
