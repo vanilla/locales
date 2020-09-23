@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Arbed diffiniadau a gasglwyd';
 $Definition['Save Colors'] = 'Cadw lliwiau';
 $Definition['Search by user or role.'] = 'Chwiliwch am ddefnyddwyr yn ôl enw neu e-bost, gan ddefnyddio % fel nodchwiliwr os dymunwch. Gallwch hefyd chwilio gan ID defnyddiwr, enw rôl, neu “banned”.';
 $Definition['Search results of members'] = 'Canlyniadau chwilio aelodau';
+$Definition['SearchScope.Everywhere'] = 'Ymhobman';
 $Definition['seconds'] = 'eiliadau';
 $Definition['Security'] = 'Diogelwch';
 $Definition['See also'] ='Gweld hefyd';
