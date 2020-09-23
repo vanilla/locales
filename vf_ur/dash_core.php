@@ -647,6 +647,7 @@ $Definition['Save Captured Definitions'] = 'محفوظ شدہ تعریفیں م�
 $Definition['Save Colors'] = 'رنگ بچائیں';
 $Definition['Search by user or role.'] = 'اختیاری طور پر٪ کو بطور وائلڈ کارڈ استعمال کرکے نام یا ای میل کے ذریعہ صارفین کی تلاش کریں۔ آپ صارف کی شناخت ، کسی کردار کا نام ، یا "ممنوعہ" کے ذریعہ بھی تلاش کرسکتے ہیں۔';
 $Definition['Search results of members'] = 'ممبروں کے نتائج تلاش کریں';
+$Definition['SearchScope.Everywhere'] = 'ہر جگہ';
 $Definition['seconds'] = 'سیکنڈ';
 $Definition['Security'] = 'سیکیورٹی';
 $Definition['See also'] ='بھی دیکھو';
