@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
 $Definition['Save Colors'] = 'I-save ang mga Kulay';
 $Definition['Search by user or role.'] = 'Maghanap ng mga user sa pamamagitan ng pangalan o email, na opsyonal na gumagamit ng % bilang wildcard. Pwede ka ring maghanap sa pamamagitan ng user ID, pangalan ng tungkulin, o “banned”.';
 $Definition['Search results of members'] = 'Mga resulta ng paghahanap ng mga miyembro';
+$Definition['SearchScope.Everywhere'] = 'Sa Lahat Ng Dako';
 $Definition['seconds'] = 'seconds';
 $Definition['Security'] = 'Security';
 $Definition['See also'] ='Tingnan rin ';

@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Lưu lại định nghĩa';
 $Definition['Save Colors'] = 'Lưu Màu sắc';
 $Definition['Search by user or role.'] = 'Tìm kiếm người dùng theo tên hoặc địa chỉ email, có thể tùy chọn dùng % làm một ký tự đại diện. Bạn cũng có thể tìm kiếm theo ID người dùng, tên một vai trò, hoặc “banned”.';
 $Definition['Search results of members'] = 'Kết quả tìm kiếm thành viên';
+$Definition['SearchScope.Everywhere'] = 'Mọi nơi';
 $Definition['seconds'] = 'giây';
 $Definition['Security'] = 'Bảo mật';
 $Definition['See also'] ='Cũng xem';

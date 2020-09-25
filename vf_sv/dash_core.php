@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Spara Fångade Definitioner';
 $Definition['Save Colors'] = 'Spara färger';
 $Definition['Search by user or role.'] = 'Sök användare med namn eller E-post, alternativt % som Jokertecken. Du kan även söka efter användar ID, En roll eller “bannad”.';
 $Definition['Search results of members'] = 'Sökresultat för medlemmar';
+$Definition['SearchScope.Everywhere'] = 'Överallt';
 $Definition['seconds'] = 'sekunder';
 $Definition['Security'] = 'Säkerhet';
 $Definition['See also'] ='Se även';

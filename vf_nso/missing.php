@@ -25,6 +25,7 @@ $Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysi
 $Definition['Garden.api.ssoIDPermission.description'] = 'Roles with this permission will be able to expand SSO IDs in API v2 calls.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
 
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['Here are the ranks that users can achieve on your site.'] = 'Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.';
 
 $Definition['If you have an old theme'] = 'If you have an old theme and need to set a separate desktop and mobile theme you can do so with the old theming UI.';
@@ -36,9 +37,12 @@ $Definition['Invitation email failed to send: %'] = 'Although the invitation was
 
 $Definition['KB.GeneralApperance.Description.Placeholder'] = 'Welcome to our Knowledge Base. Here you\'ll find answers to common support issues.';
 
+$Definition['LogoDescription'] = 'The banner logo appears at the top of your site.';
+$Definition['LogoDisclaimer'] = 'Themes made with the theme editor and some custom themes don\'t use this setting.';
+
 $Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
 $Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the same experience, specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
-$Definition['MobileLogoDescription'] = 'The mobile banner logo appears at the top of your site. Some themes may not display this logo.';
+$Definition['MobileLogoDescription'] = 'The mobile banner logo appears at the top of your site.';
 
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
@@ -46,6 +50,18 @@ $Definition['OrgDescription'] = 'Your organization name is used for SEO microdat
 
 $Definition['permissions.communityManager'] = 'Community Manager';
 $Definition['permissions.everyone'] = 'Everyone';
+$Definition['PreferenceGroupInviteEmail'] = 'Notify me when I am invited to a group.';
+$Definition['PreferenceGroupInvitePopup'] = 'Notify me when I am invited to a group.';
+$Definition['PreferenceGroupJoinRequestEmail'] = 'Notify me when users apply to join my group.';
+$Definition['PreferenceGroupJoinRequestPopup'] = 'Notify me when users apply to join my group.';
+$Definition['PreferenceGroupRequestApprovedEmail'] = 'Notify me when my group membership request is approved.';
+$Definition['PreferenceGroupRequestApprovedPopup'] = 'Notify me when my group membership request is approved.';
+
+$Definition['QnAFollowUp.Email.Message'] = '<p>We noticed you have at least one answer to your question. Can you visit the community and see if any of the answers resolve your question?</p>
+<p>If you see an answer you find helpful, please accept one of the answers.</p>';
+$Definition['QnAFollowUp.Email.Subject'] = 'Has your question been answered?';
+$Definition['QnAFollowup.Feature.Enabled'] = 'This feature sends emails to the authors of answered questions that do not have an accepted answer.';
+$Definition['QnAFollowUp.Success'] = 'Notifications sent successfully.';
 
 $Definition['Recommend special ranks for admins and mods.'] = 'It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.';
 $Definition['Recommend starting with five ranks.'] = 'You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.';
@@ -54,6 +70,8 @@ $Definition['RolePersonalInfo'] = 'This role is personal info. Only users with p
 $Definition['RSVP'] = 'Respond';
 
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
+$Definition['SearchScope.Everywhere'] = 'Everywhere';
+$Definition['SecretGroupDescription'] = 'Only members can see the group and view its content. People must be invited to join.';
 $Definition['Security.Hsts.HTTPSWarning'] = 'Warning: Only enable this feature if you are sure all your subdomains are configured for HTTPS with valid certificates.';
 $Definition['Security.Hsts.IncludeSubDomains'] = 'When enabled, this rule applies to all of your site\'s subdomains as well.';
 $Definition['Security.Hsts.MaxAgeRecommendation'] = 'We recommend starting with a max age of 1 week and then increasing it to 1 month then 1 year once you see your site works as expected.';
@@ -79,4 +97,7 @@ $Definition['Welcome to Vanilla\'s theming UI.'] = 'Welcome to Vanilla\'s themin
 $Definition['Which reactions you use really depends on your community.'] = 'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
 
 $Definition['You can specify a whitelist of trusted domains.'] = 'You can specify a whitelist of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
+$Definition['You don\'t have a password.'] = 'Your account does not have a password assigned to it yet. Click <a href="%s">here</a> to set your password.';
+$Definition['You need to add the font url’s domain to <0>AllowedDomains</0>, in the site\'s configuration. <1>Learn more about custom fonts.</1>.'] = 'You need to add the font url’s domain to <0>Allowed Domains</0> in the site\'s configuration. <1>Learn more about custom fonts.</1>';
+$Definition['You need to reset your password.'] = 'You need to reset your password. This is most likely because an administrator recently changed your account information. Click <a href="%s">here</a> to reset your password.';
 $Definition['Your mobile theme will be disabled.'] = 'Your mobile theme will be disabled. To set different mobile and desktop themes, use the old theming UI.';

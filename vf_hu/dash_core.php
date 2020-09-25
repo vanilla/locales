@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Begyűjtött definíók ';
 $Definition['Save Colors'] = 'Színek mentése';
 $Definition['Search by user or role.'] = 'Keress felhasználókat név vagy e-mail szerint, opcionálisan helyettesítőként használható a %. Kereshetsz felhasználóazonosító, a szerep neve vagy “tiltás” alapján is.';
 $Definition['Search results of members'] = 'A tagok keresési eredményei';
+$Definition['SearchScope.Everywhere'] = 'Mindenhol';
 $Definition['seconds'] = 'másodperc';
 $Definition['Security'] = 'Biztonság';
 $Definition['See also'] ='Lásd még';

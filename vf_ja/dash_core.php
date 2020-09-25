@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
 $Definition['Save Colors'] = '色を保存する';
 $Definition['Search by user or role.'] = '名前またはメールアドレスでユーザーを検索します。オプションで、ワイルドカードとして%を使用します。 ユーザーID、役割の名前、または“BANされているか”で検索することもできます。';
 $Definition['Search results of members'] = 'メンバーの検索結果';
+$Definition['SearchScope.Everywhere'] = 'どこでも';
 $Definition['seconds'] = '秒間';
 $Definition['Security'] = 'セキュリティ';
 $Definition['See also'] ='関連項目';

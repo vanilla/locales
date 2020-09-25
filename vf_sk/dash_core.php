@@ -655,6 +655,7 @@ $Definition['Save Captured Definitions'] = 'Uložiť zaznamenané definície';
 $Definition['Save Colors'] = 'Uložte farby';
 $Definition['Search by user or role.'] = 'Vyhľadávajte používateľom podľa mena alebo e-mailu, prípadne aj s použitím  % na zástupné znaky. Môžete tiež vyhľadávať podľa používateľského ID, názvu role alebo “banned”.';
 $Definition['Search results of members'] = 'Výsledky vyhľadávania členov';
+$Definition['SearchScope.Everywhere'] = 'Všade';
 $Definition['seconds'] = 'sekundy';
 $Definition['Security'] = 'Bezpečnosť';
 $Definition['See also'] ='Pozri si aj';

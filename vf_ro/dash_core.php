@@ -652,6 +652,7 @@ $Definition['Save Captured Definitions'] = 'Salvaţi definiții captate';
 $Definition['Save Colors'] = 'Salvare culori';
 $Definition['Search by user or role.'] = 'Caută utilizatori după nume sau email, opţional folosind % ca şi metacaracter. Poţi deasemenea să cauţi după ID-ul utilizatorului, numele unui rol sau starea sa ca şi “blocat”.';
 $Definition['Search results of members'] = 'Rezultatele căutării membrilor';
+$Definition['SearchScope.Everywhere'] = 'Pretutindeni';
 $Definition['seconds'] = 'secunde';
 $Definition['Security'] = 'Securitate';
 $Definition['See also'] ='Vezi și';

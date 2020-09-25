@@ -655,6 +655,7 @@ $Definition['Save Captured Definitions'] = 'Αποθηκεύστε Καταγε�
 $Definition['Save Colors'] = 'Αποθήκευση Χρωμάτων';
 $Definition['Search by user or role.'] = 'Αναζητήστε χρήστες με βάση το όνομα ή το ηλεκτρονικό ταχυδρομείο, προαιρετικά χρησιμοποιώντας το % ως χαρακτήρα αναπλήρωσης. Μπορείτε επίσης να αναζητήσετε με βάση το όνομα χρήστη, το όνομα ενός ρόλου, ή «αποκλεισμένους χρήστες».';
 $Definition['Search results of members'] = 'Αποτελέσματα αναζήτησης μελών';
+$Definition['SearchScope.Everywhere'] = 'Παντού';
 $Definition['seconds'] = 'δευτερόλεπτα';
 $Definition['Security'] = 'Ασφάλεια';
 $Definition['See also'] ='Δείτε επίσης';

@@ -595,12 +595,12 @@ $Definition['Email visible to other users'] = 'Imeile e a bonala go badiriši ba
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Bala taba ka botlalo mo</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedDiscussionLinkText'] = 'Bala kanegelo ka botlalo mo';
 $Definition['Embedded Media'] = 'Media o Kgwarilwego';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Bala taba ka botlalo mo</a></p><div class="ClearFix"></div></div>';
-$Definition['EmbededDiscussionLinkText'] = 'Bala kanegelo ka botlalo mo';
 $Definition['Emoji Categories'] = 'Mehuta ya di Emoji ';
 $Definition['Emojis'] = 'Diemoji';
 $Definition['Enable'] = 'Butšwe';
@@ -749,7 +749,7 @@ $Definition['Heading 4'] = 'Sehlogo 4';
 $Definition['Heading 5'] = 'Sehlogo 5';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} karabo e {NotifyUserID,your} amogetšwego.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} karabo ya gago e arabilwe: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} hweditše <a href="{Url,html}">{Data.Name,text}</a> petšhe.';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} hweditše <a href="{Url,html}">{Data.Name,text}</a> petšhe.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} thibetšwe {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} boletše ka <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} re go rometše <a href="{Url,html}">molaetša</a>';
@@ -1233,12 +1233,14 @@ $Definition['Previous Page'] = 'Letlakala le le Fetilego';
 $Definition['Privacy'] = 'Sephiri';
 $Definition['Privacy Settings'] = 'Dipeakanyo tša Sephiri';
 $Definition['Private'] = 'Sephiri';
-$Definition['Private group.'] = 'Mang goba mang a ka bona sehlopha, eupša ke maloko feela a ka bonago diteng tša gona. Batho ba swanetše go kgopela goba ba laletšwe go tsena.';
+$Definition['PrivateGroupDescription'] = 'Mang goba mang a ka bona sehlopha, eupša ke maloko feela a ka bonago diteng tša gona. Batho ba swanetše go kgopela goba ba laletšwe go tsena.';
 $Definition['Private Note for Moderators'] = 'Ntlha ya Sephiri ya Bafetoledi';
 $Definition['Problem with credentials.'] = 'Mathata a ditaba tša go tsena.';
 $Definition['Proceed'] = 'Tšwela pele';
 $Definition['Products'] = 'Ditšweletšwa';
 $Definition['Profile'] = 'Kanegelo';
+$Definition['Profile.No'] = 'Aowa';
+$Definition['Profile.Yes'] = 'Ee';
 $Definition['Profile Fields'] = 'Dikarolo tša Kanegelo';
 $Definition['Profile  Fields'] = 'Dikarolo tša Kanegelo';
 $Definition['ProfileFieldsCustomDescription'] = 'Diriša magoro a gore o hlame tshedimošo e tlwaelegilego ya kanegelo. O ka ngwala dilo tša go swana le "Boemo bja Dikamano", "Skype", goba "Taenaso ya Mmamoratwa". Hlama dilo!';
@@ -1248,7 +1250,7 @@ $Definition['Profiles'] = 'Kanegelo';
 $Definition['Progress on an idea you voted on!'] = 'Tšwela pele ka kgopolo yeo o e boutetšego!';
 $Definition['Promote'] = 'Kgothaletša';
 $Definition['Public'] = 'Setšhaba';
-$Definition['Public group.'] = 'Mang goba mang a ka bona sehlopha le diteng tša gona. Mang goba mang a ka tsenela.';
+$Definition['PublicGroupDescription'] = 'Mang goba mang a ka bona sehlopha le diteng tša gona. Mang goba mang a ka tsenela.';
 $Definition['Published <0/> by <1/>'] = 'E gatišitšwe <0/> ke <1/>';
 
 $Definition['Q&A'] = 'Dipotšišo le dikarabo';

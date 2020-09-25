@@ -656,6 +656,7 @@ $Definition['Save Captured Definitions'] = 'Sla gevangen definities op';
 $Definition['Save Colors'] = 'Bewaar kleuren';
 $Definition['Search by user or role.'] = 'Zoek naar gebruikers met een naam of e-mailadres, optioneel met % als joker. Je kan ook zoeken op gebruikersID, de naam van een rol of op “verbannen”.';
 $Definition['Search results of members'] = 'Zoekresultaten van leden';
+$Definition['SearchScope.Everywhere'] = 'Overal';
 $Definition['seconds'] = 'seconden';
 $Definition['Security'] = 'Beveiliging';
 $Definition['See also'] ='Bekijk ook';
