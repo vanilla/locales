@@ -306,7 +306,7 @@ $Definition["Font Name"] = "字體名稱";
 $Definition["Invalid URL"] = "無效的網址";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "您可以在主題系統中上載自定義字體。只需將URL複製並粘貼到字段中即可。";
 $Definition["You can configure some values differently for different screensizes."] = "您可以為不同的屏幕尺寸不同地配置一些值。";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "您需要將字體URL的域添加到&lt;0&gt; Allowed Domains </0>在網站的配置中。 &lt;1&gt;了解有關自定義字體的更多信息。 </1>";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "您需要將字體URL的域添加到<0>Allowed Domains</0> 在網站的配置中。 <1>了解有關自定義字體的更多信息。</1>";
 
 $Definition["Primary Buttons"] = "主要按鈕";
 $Definition["Secondary Buttons"] = "次要按鈕";
