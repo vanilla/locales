@@ -665,6 +665,7 @@ $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
 $Definition['Save Colors'] = '색상 저장';
 $Definition['Search by user or role.'] = '와일드카드 %를 선택적으로 사용하여, 이름이나 이메일로 사용자를 검색하세요. 사용자 ID, 역할명, 혹은 “banned”로도 검색할 수 있습니다. ';
 $Definition['Search results of members'] = '회원 검색 결과';
+$Definition['SearchScope.Everywhere'] = '각처';
 $Definition['seconds'] = '초 이내에 게시 불가.';
 $Definition['Security'] = 'Security';
 $Definition['See also'] ='함께 보기:';

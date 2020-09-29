@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = '儲存已擷取之定義';
 $Definition['Save Colors'] = '儲存顏色';
 $Definition['Search by user or role.'] = '透過姓名或電子郵件來搜尋使用者，可選擇使用％作為萬用符號。您也可以用使用者ID、角色名稱或“banned”來進行搜尋。';
 $Definition['Search results of members'] = '會員搜索結果';
+$Definition['SearchScope.Everywhere'] = '所有位置';
 $Definition['seconds'] = '秒';
 $Definition['Security'] = '安全性';
 $Definition['See also'] ='也可參見';

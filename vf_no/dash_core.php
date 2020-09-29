@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
 $Definition['Save Colors'] = 'Lagre farger';
 $Definition['Search by user or role.'] = 'Søk etter brukere ved navn eller e-post, alternativt ved å bruke % som et wildcard. Du kan også søke etter bruker-ID, navnet på en rolle eller “utestengelse”.';
 $Definition['Search results of members'] = 'Søkeresultater fra medlemmer';
+$Definition['SearchScope.Everywhere'] = 'Overalt';
 $Definition['seconds'] = 'seconds';
 $Definition['Security'] = 'Security';
 $Definition['See also'] ='Se også';

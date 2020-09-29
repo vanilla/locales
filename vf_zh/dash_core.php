@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = '保存已抓取的定义';
 $Definition['Save Colors'] = '保存颜色';
 $Definition['Search by user or role.'] = '按姓名或邮箱地址搜索用户。您还可以选择使用 % 通配符，或使用用户 ID、用户角色名称或是否被屏蔽来搜索。';
 $Definition['Search results of members'] = '会员搜索结果';
+$Definition['SearchScope.Everywhere'] = '到处';
 $Definition['seconds'] = '秒';
 $Definition['Security'] = '安全';
 $Definition['See also'] ='参看';

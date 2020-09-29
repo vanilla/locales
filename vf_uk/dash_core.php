@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
 $Definition['Save Colors'] = 'Зберегти кольори';
 $Definition['Search by user or role.'] = 'Шукайте користувачів за іменем/прізвищем чи ел. поштою, за бажанням використовуючи % у якості байдужого символу. Ви також можете шукати за ID користувача, назвою ролі чи статусом “заблокований”.';
 $Definition['Search results of members'] = 'Результати пошуку членів';
+$Definition['SearchScope.Everywhere'] = 'Скрізь';
 $Definition['seconds'] = 'секунд';
 $Definition['Security'] = 'Безпека';
 $Definition['See also'] ='Дивись також';

@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Tallenna kerätyt kielimääritelmä
 $Definition['Save Colors'] = 'Tallenna värit';
 $Definition['Search by user or role.'] = 'Hae käyttäjää nimen tai sähköpostiosoitteen perusteella, jolloin % toimii villinä korttina. Voit tehdä haun myös käyttäjätunnuksen, roolin nimen tai “estetyn” tilan perusteella.';
 $Definition['Search results of members'] = 'Jäsenten hakutulokset';
+$Definition['SearchScope.Everywhere'] = 'Kaikkialla';
 $Definition['seconds'] = 'sekuntia';
 $Definition['Security'] = 'Turvallisuus';
 $Definition['See also'] ='Katso myös';

@@ -650,6 +650,7 @@ $Definition['Save Captured Definitions'] = 'שמירת הגדרות';
 $Definition['Save Colors'] = 'שמירת צבעים';
 $Definition['Search by user or role.'] = 'חיפור אחר משתמשים על בסיס שם או דואר אלקטרוני, אפשר להשתמש ב-% כעזר. באפשרותך לחפש משתמשים גם על ידי מספר מזהה , שם תפקיד, או “מושעים”.';
 $Definition['Search results of members'] = 'תוצאות חיפוש של חברים';
+$Definition['SearchScope.Everywhere'] = 'בכל מקום';
 $Definition['seconds'] = 'שניות';
 $Definition['Security'] = 'אבטחה';
 $Definition['See also'] ='צפיה גם';

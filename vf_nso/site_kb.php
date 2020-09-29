@@ -1,5 +1,7 @@
 <?php
 
+$Definition['Categories'] = 'Magoro';
+
 $Definition['Organize Categories'] = 'Rulaganya Magoro';
 
 $Definition['Revision History'] = 'Hlahloba Histori';

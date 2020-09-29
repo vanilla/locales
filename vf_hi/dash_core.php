@@ -656,6 +656,7 @@ $Definition['Save Colors'] = 'रंग सहेजें';
 $Definition['Search by user or role.'] = 'नाम या ईमेल द्वारा उपयोगकर्ताओं के लिए खोज करें, वैकल्पिक रूप से % का उपयोग वाइल्डकार्ड के रूप में करें।
 आप उपयोगकर्ता आईडी, किसी भूमिका का नाम, या “प्रतिबंधित”';
 $Definition['Search results of members'] = 'सदस्यों के खोज परिणाम';
+$Definition['SearchScope.Everywhere'] = 'हर जगह';
 $Definition['seconds'] = 'सेकंड';
 $Definition['Security'] = 'सुरक्षा';
 $Definition['See also'] ='यह भी देखें';

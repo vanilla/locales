@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Simpan Definisi Tertangkap';
 $Definition['Save Colors'] = 'Simpan Warna';
 $Definition['Search by user or role.'] = 'Cari pengguna berdasarkan nama atau email, gunakan % sebagai wildcard secara opsional. Anda juga dapat mencari berdasarkan ID pengguna, nama peran, atau “terlarang”.';
 $Definition['Search results of members'] = 'Hasil pencarian anggota';
+$Definition['SearchScope.Everywhere'] = 'Semua Tempat';
 $Definition['seconds'] = 'detik';
 $Definition['Security'] = 'Keamanan';
 $Definition['See also'] ='Lihat juga';

@@ -747,7 +747,7 @@ $Definition["Heading 3"] = "Otsake 3";
 $Definition["Heading 4"] = "Otsake 4";
 $Definition["Heading 5"] = "Otsake 5";
 $Definition['Heading %s'] = 'Otsikko %s';
-$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} hyväksyit {NotifyUserID,your} vastauksesi.';
+$Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} hyväksyi {NotifyUserID,your} vastauksesi.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} vastasi kysymykseesi: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} ansaitsi <a href="{Url,html}">{Data.Name,text}-</a> tunnuksen.';
 $Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} ansaitsi(t) <a href="{Url,html}">{Data.Name,text}</a> kunniamerkin.';

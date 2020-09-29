@@ -491,6 +491,7 @@ $Definition['Restart'] = 'Thomološa';
 $Definition['Reveal Password'] = 'Utolla Phasewete';
 $Definition['Role'] = 'Tema';
 $Definition['Role Name'] = 'Leina la Tema';
+$Definition['Role Request Status'] = 'Boemo';
 $Definition['Roles & Permissions'] = 'Ditema le Ditumelelo';
 $Definition['Roles determine user\'s permissions.'] = 'Modiriši yo mongwe le yo mongwe lefelong la gago o abetšwe bonyenyane tema e tee. Ditema di dirišetšwa go bona seo badiriši ba ka dumelelwago go se dira.';
 $Definition['Role to Grant'] = 'Tema Yeo e ka Fiwago';

@@ -653,6 +653,7 @@ $Definition['Save Captured Definitions'] = 'Save Captured Definitions';
 $Definition['Save Colors'] = 'Zapisz kolory';
 $Definition['Search by user or role.'] = 'Wyszukuj użytkowników według imienia lub e-maila, używając opcjonalnie % jako symbolu wieloznacznego. Możesz także wyszukiwać według ID użytkownika, nazwy funkcji lub “banów”.';
 $Definition['Search results of members'] = 'Wyniki wyszukiwania członków';
+$Definition['SearchScope.Everywhere'] = 'Wszędzie';
 $Definition['seconds'] = 'sekundy';
 $Definition['Security'] = 'Security';
 $Definition['See also'] ='Zobacz też';

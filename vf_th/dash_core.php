@@ -647,6 +647,7 @@ $Definition['Save Captured Definitions'] = 'บันทึกคำจำกั
 $Definition['Save Colors'] = 'บันทึกสี';
 $Definition['Search by user or role.'] = 'ค้นหาผู้ใช้ด้วยชื่อหรืออีเมลโดยใช้% เป็นตัวเลือกแทน คุณยังสามารถค้นหาด้วย ID ผู้ใช้ชื่อของบทบาทหรือ“ ถูกแบน”';
 $Definition['Search results of members'] = 'ผลการค้นหาสมาชิก';
+$Definition['SearchScope.Everywhere'] = 'ทุกที่';
 $Definition['seconds'] = 'วินาที';
 $Definition['Security'] = 'ความปลอดภัย';
 $Definition['See also'] ='ดูสิ่งนี้ด้วย';

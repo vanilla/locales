@@ -647,6 +647,7 @@ $Definition['Save Captured Definitions'] = 'Сачувај ухваћене де
 $Definition['Save Colors'] = 'Сачувај боје';
 $Definition['Search by user or role.'] = 'Претражите кориснике именом или е-поштом, опционо користећи% као замјенску ознаку. Такође можете да тражите по корисничком ИД-у, имену улоге или „забрањен“.';
 $Definition['Search results of members'] = 'Резултати претраживања чланова';
+$Definition['SearchScope.Everywhere'] = 'Svuda';
 $Definition['seconds'] = 'секунди';
 $Definition['Security'] = 'Сигурност';
 $Definition['See also'] ='Такође видети';

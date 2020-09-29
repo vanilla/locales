@@ -651,6 +651,7 @@ $Definition['Save Captured Definitions'] = 'Enregistrer les Définitions Captur�
 $Definition['Save Colors'] = 'Sauvegarder les Couleurs';
 $Definition['Search by user or role.'] = 'Rechercher des utilisateurs en fonction de l\'adresse email ou du nom. Vous pouvez utiliser la troncature % votre recherche, ainsi que recherche par ID, statut, ou “bannis”.';
 $Definition['Search results of members'] = 'Résultats de recherche des membres';
+$Definition['SearchScope.Everywhere'] = 'Partout';
 $Definition['seconds'] = 'secondes';
 $Definition['Security'] = 'Sécurité';
 $Definition['See also'] ='Voir aussi';
