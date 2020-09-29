@@ -37,6 +37,7 @@ $Definition["Browse"] = "Navega";
 $Definition["By <0/>"] = "Per <0 />";
 
 $Definition["category"] = "categoria";
+$Definition["Categories"] = "Categorías";
 $Definition["Category One"] = "Categoria Primera";
 $Definition["Category Options"] = "Opcions de la categoria";
 $Definition["Category Two"] = "Categoria dos";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Ordena els articles";
 $Definition["Sorting method for articles."] = "Mètode d’ordenació d’articles.";
 $Definition["Sub folder"] = "Sub carpeta";
 $Definition["Subcategories"] = "Subcategories";
+$Definition["sub-categories"] = "subcategories";
+$Definition["sub-category"] = "subcategoria";
 
 $Definition["Thanks for your feedback!"] = "Gràcies pels teus suggeriments!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "La imatge del banner que s’utilitza en el selector de bases de coneixement. Es pot substituir sobre una base per coneixement. Les dimensions recomanades són aproximadament 1000px per 400px o una proporció similar.";

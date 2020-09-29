@@ -37,6 +37,7 @@ $Definition["Browse"] = "Navigare";
 $Definition["By <0/>"] = "De <0/>";
 
 $Definition["category"] = "categorie";
+$Definition["Categories"] = "Categorii de discuții";
 $Definition["Category One"] = "Categoria unu";
 $Definition["Category Options"] = "Opțiuni categorie";
 $Definition["Category Two"] = "Categoria a doua";
@@ -145,6 +146,8 @@ $Definition["Sort Articles"] = "Aranjează articole";
 $Definition["Sorting method for articles."] = "Metoda de aranjare a articolelor.";
 $Definition["Sub folder"] = "Sub folder";
 $Definition["Subcategories"] = "Subcategorii";
+$Definition["sub-categories"] = "sub-categorii";
+$Definition["sub-category"] = "sub-categorie";
 
 $Definition["Thanks for your feedback!"] = "Mulțumim pentru feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Imaginea banner de utilizat la selectorul bazei de cunoaștere.

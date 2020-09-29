@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Cep için açıklayıcı bir ad giri
 $Definition['Enter a short name for the site.'] = 'Site için kısa bir ad girin. Bu, oturum açma düğmelerinde görüntülenir.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Wordpress Blogunuzun adresini girin, biz de oradan alalım.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Sphinx sunucunuzun bağlantı ayarlarını aşağıya girin.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Her düzenleme veya silme buraya kaydedilir. Herhangi bir değişikliği geri almak için &lsquo;Geri Yükle&rsquo; seçeneğini kullanın.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Her düzenleme veya silme buraya kaydedilir. Herhangi bir değişikliği geri almak için ‘Geri Yükle’ seçeneğini kullanın.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Topluluğunuz için kaydolan herkes, kendi resimlerini yükleyebilecekleri, profil ayarlarını yönetebilecekleri ve toplulukta olup bitenleri izleyebilecekleri bir genel profil sayfası alır. <a href="{/profile,url}">Profilinizi şimdi özelleştirmelisiniz</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Sitenizdeki her kullanıcı en az bir rol için atanır. Roller, kullanıcıların ne yapmasına izin verildiğini belirlemek için kullanılır.';
 
@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Özel yönlendirme hakkında bilgi
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Forumunuzun görünüşünü ve hissini nasıl değiştireceğinizi öğrenin: logonuzu yükleyin, ana sayfanızı ayarlayın, bir tema seçin ve özelleştirin.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Forumunuzun temel işlevlerini nasıl kullanacağınızı öğrenin.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Yerel ayarlar, sitenizdeki diğer dilleri desteklemenizi sağlar. Burada kullanılabilir yapmak istediğiniz yerel ayarları etkinleştirin ve devre dışı bırakın.';
-$Definition['LogoDescription'] = 'Tanıtım logosu sitenizin en üstünde görünür. Bazı temalar bu logoyu göstermeyebilir.';
+$Definition['LogoDescription'] = 'Banner logosu sitenizin üstünde görünür.';
+$Definition['LogoDisclaimer'] = 'Tema düzenleyici ile yapılan temalar ve bazı özel temalar bu ayarı kullanmaz.';
 
 $Definition['Make sure you click View Page'] = 'Kategoriler sayfanızın kaydettikten sonra nasıl göründüğünü görmek için <a href="%s">Sayfayı Görüntüle</a> seçeneğini tıkladığınızdan emin olun.';
 $Definition['Manage Routes'] = 'Yönlendirmeleri Yönet';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'İşleri spam olmayan olarak işaretlemek onları forumunuza geri koyacaktır.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesajlar, uygulamanızın herhangi bir yerinde görünebilir ve kullanıcılarınızı haber ve etkinliklerle ilgili bilgilendirmek için kullanılabilir. İletilerinizi yukarı veya aşağı sürükleyerek yeniden düzenlemek için bu sayfayı kullanın.';
 $Definition['MobileLogoDescription'] =
-    'Mobil banner logosu sitenizin üstünde görünür. Bazı temalar bu logoyu göstermeyebilir.';
+    'Mobil banner logosu sitenizin üstünde görünür.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobil temalar, sitenizin görünümünü ve hissini daha küçük cihazlarda değiştirmenize olanak tanır.';
 
@@ -142,7 +143,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Lütfen yapılandırmak için bir onaylayıcı seçin.';
 $Definition['PluginHelp'] = 'Eklentiler sitenize işlevsellik eklemenizi sağlar. %s Klasörünüze  <br /> bir eklenti eklendikten sonra, buradan etkinleştirebilir veya devre dışı bırakabilirsiniz.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'Cep ana tartışma listesindeki her tartışma arasında görüntülenir. Tartışmalar genellikle &lt;li&gt;..&lt;/li&gt; Etiketler, cebinizi de bu etiketlere sarmanız gerekir.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'Cep ana tartışma listesindeki her tartışma arasında görüntülenir. Tartışmalar genellikle <li>..</li> Etiketler, cebinizi de bu etiketlere sarmanız gerekir.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Paketler, uygulamanın etrafındaki çeşitli yerlere serbest biçimli HTML eklemenizi sağlar.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Tartışmaların sayısını sınırlandırarak forumunuzdaki spam’leri önleyin. kullanıcıların belirli bir süre içinde gönderebilecekleri yorumlar.';
 
@@ -200,7 +201,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'İçe aktarılan dosya herhangi bir veri içermiyor.';
 $Definition['The import file is not in the correct format.'] = 'İçe aktarılan dosya doğru biçimde değil.';
 $Definition['The location of the jsonp formatted authentication data.'] = 'Jsonp formatlanmış kimlik doğrulama verilerinin yeri.';
-$Definition['ThemeHelp'] = 'Temalar görünümü değiştirmenizi sağlar &amp; Bakın ve sitenizde deneyin. %s Tema klasörünüze bir tema eklendikten sonra, buradan etkinleştirebilirsiniz.';
+$Definition['ThemeHelp'] = 'Temalar görünümü değiştirmenizi sağlar & Bakın ve sitenizde deneyin. %s Tema klasörünüze bir tema eklendikten sonra, buradan etkinleştirebilirsiniz.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Tema önizlemesi, temanın şablonunu ve css görüntülemekle sınırlıdır.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Parola Doğrulayıcı\'nın herhangi bir özel yapılandırma seçeneği yoktur.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Veritabanı yapısında değişikliğe gerek yoktur. Bununla birlikte, veri değişiklikleri olabilir.';
@@ -233,10 +234,10 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Kul
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Dışa Aktar: %s, Kaynak: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilya İstatistikleri şu anda devre dışı';
 $Definition['Video tutorial on advanced settings'] = 'Gelişmiş ayarlarla ilgili video eğitimi';
-$Definition['Video tutorial on finding &amp; managing users'] = 'Kullanıcı yönetimi hakkında &amp; video eğitimi bul';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Kullanıcı yönetimi hakkında & video eğitimi bul';
 $Definition['Video tutorial on managing appearance'] = 'Görünüm yönetimi hakkında video eğitimi';
 $Definition['Video tutorial on managing categories'] = 'Kategori yönetimi ilgili video eğitimi';
-$Definition['Video tutorial on managing roles &amp; permissions'] = 'Rollerin yönetimi hakkında &amp; video eğitimi bul';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Rollerin yönetimi hakkında & video eğitimi bul';
 $Definition['Video tutorial on user registration'] = 'Kullanıcı kaydı hakkında video eğitimi';
 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Uyarı: Bu özelliğin etkinleştirilmesi sitenizde Javascript hatalarına neden olabilir.';
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Yazı Tipi Adı";
 $Definition["Invalid URL"] = "Geçersiz URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Tema Sisteminize bir Özel Yazı Tipi yükleyebilirsiniz. Yazı Tipi URL'sini alana kopyalayıp yapıştırmanız yeterlidir.";
 $Definition["You can configure some values differently for different screensizes."] = "Bazı değerleri farklı ekran boyutları için farklı yapılandırabilirsiniz.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Yazı tipi URL'sinin etki alanını, sitenin yapılandırmasında <0>AllowDomains</0> alanına eklemeniz gerekir. <1>Özel yazı tipleri hakkında daha fazla bilgi edinin.</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Yazı tipi url'sinin alanını sitenin yapılandırmasında <0>İzin Verilen Alan Adlarına </0> eklemeniz gerekir. <1>Özel yazı tipleri hakkında daha fazla bilgi edinin.</1>";
 
 $Definition["Primary Buttons"] = "Birincil Düğmeler";
 $Definition["Secondary Buttons"] = "İkincil Düğmeler";

@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Leer over aangepaste routes.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Leer hoe je het uiterlijk van je forum compleet kan veranderen: upload je logo, maak je hoofdpagina, kies een thema en pas het aan.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Leer hoe je de basisfunctionaliteit van je forum kan gebruiken.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales maken het mogelijk om andere talen op je site te ondersteunen. Schakel locaties die je beschikbaar wilt maken hier in en uit.';
-$Definition['LogoDescription'] = 'Het bannerlogo wordt aan de bovenkant van je site getoond. Sommige thema\'s zullen dit logo niet tonen.';
+$Definition['LogoDescription'] = 'Het bannerlogo verschijnt bovenaan uw site.';
+$Definition['LogoDisclaimer'] = 'Thema\'s gemaakt met de thema-editor en sommige aangepaste thema\'s gebruiken deze instelling niet.';
 
 $Definition['Make sure you click View Page'] = 'Zorg ervoor dat je  <a href="%s">Bekijk pagina</a> aanklikt om te zien hoe je categoriepagina\'s eruitzien na het opslaan.';
 $Definition['Manage Routes'] = 'Beheer routes';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'H
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Het markeren van dingen als geen spam zal ze terugzetten op je forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Berichten kunnen overal in de applicatie verschijnen en kunnen worden ingezet om je gebruikers te informeren over nieuws en evenementen. Gebruik deze pagina om de berichten te ordenen door ze omhoog of omlaag te verslepen.';
 $Definition['MobileLogoDescription'] =
-    'Het mobiele bannerlogo verschijnt bovenaan jouw site. Bij sommige thema\'s wordt dit logo mogelijk niet weergegeven.';
+    'Het mobiele bannerlogo verschijnt bovenaan uw site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiele thema\'s staan je toe om de uitstraling en het gevoel van je site op kleinere apparaten aan te passen.';
 
@@ -142,7 +143,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Kies de verificator die je wilt configureren.';
 $Definition['PluginHelp'] = 'Met plug-ins kan je functionaliteit aan je site toevoegen.<br />Zodra een plugin is toegevoegd aan de map %s, kan je hem op deze pagina in- of uitschakelen.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'De pocket wordt weergegeven tussen elke discussie op de algemene discussielijst. Omdat discussies meestal in &lt;li&gt;..&lt;/li&gt;-tags worden verpakt, moet je je pockets ook in deze tags inpakken.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'De pocket wordt weergegeven tussen elke discussie op de algemene discussielijst. Omdat discussies meestal in <li>..</li>-tags worden verpakt, moet je je pockets ook in deze tags inpakken.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets stellen je in staat om vrije HTML op verschillende plekken in de applicatie te plaatsen.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Voorkom spam op je forum door het aantal discussies en reacties die gebruikers binnen een bepaalde tijd kunnen plaatsen te beperken.';
 
@@ -310,7 +311,7 @@ $Definition["Font Name"] = "Naam lettertype";
 $Definition["Invalid URL"] = "Ongeldige URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "U kunt een aangepast lettertype uploaden in uw themasysteem. Kopieer en plak de URL in het veld.";
 $Definition["You can configure some values differently for different screensizes."] = "U kunt sommige waarden verschillend configureren voor verschillende schermformaten.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "U moet het domein van de font-url toevoegen aan <0>Toegestane domeinen</0>, in de configuratie van de site. <1>Meer informatie over aangepaste lettertypen</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "U moet het domein van de lettertype-URL toevoegen aan <0> Toegestane domeinen </0> in de configuratie van de site. <1> Meer informatie over aangepaste lettertypen. </1>";
 
 $Definition["Primary Buttons"] = "Primaire knoppen";
 $Definition["Secondary Buttons"] = "Secundaire knoppen";

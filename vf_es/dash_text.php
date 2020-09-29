@@ -67,7 +67,7 @@ $Definition['Enter a descriptive name.'] = 'Introduce un nombre descriptivo para
 $Definition['Enter a short name for the site.'] = 'Introduce un nombre corto para este sitio web. Se mostrará en los botones de registro.';
 $Definition['Enter the address of your Wordpress Blog and we\'ll take it from there.'] = 'Introduce la dirección de tu blog WordPress y lo extraeremos desde allí.';
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Introduce la configuración de conexión para tu servidor Sphinx más abajo.';
-$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Aquí se registran todas las ediciones y eliminaciones. Usa &lsquo;Restaurar&rsquo; para deshacer cualquier cambio.';
+$Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Aquí se registran todas las ediciones y eliminaciones. Usa ‘Restaurar’ para deshacer cualquier cambio.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Todo aquel que se inscriba en tu comunidad recibe una página de perfil pública donde pueden subir una foto suya, gestionar sus preferencias de perfil y seguir cosas interesantes que suceden en la comunidad. Deberías <a href="{/profile,url}">personalizar tu perfil ahora</a>.';
 $Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Cada usuario del sitio es asignado al menos a un rol. Los Roles se utilizan para determinar qué se le permite hacer a los usuarios.';
 
@@ -116,7 +116,8 @@ $Definition['Learn about custom routing.'] = 'Más información sobre rutas pers
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda a cambiar completamente el aspecto de tu foro: cargando su logotipo, pon tu página de inicio, seleccione un tema y personalizarlo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a utilizar las funciones básicas de su foro.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Los locales te permiten establecer otros idiomas en tu sitio. Habilita y deshabilita los locales que quieras que estén disponibles aquí.';
-$Definition['LogoDescription'] = 'El logotipo aparece en la parte superior de su sitio. Algunos temas pueden no mostrar este logo.';
+$Definition['LogoDescription'] = 'El logotipo del banner aparece en la parte superior de su sitio.';
+$Definition['LogoDisclaimer'] = 'Los temas creados con el editor de temas y algunos temas personalizados no utilizan esta configuración.';
 
 $Definition['Make sure you click View Page'] = 'Haz clic en <a href="%s">Ver página</a> para ver cómo queda tu página de categorías después de guardarla.';
 $Definition['Manage Routes'] = 'Gestionar Rutas';
@@ -124,7 +125,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcar cosas como no spam las pondrá de nuevo en tu foro. ';
 $Definition['Messages can appear anywhere in your application.'] = 'Los mensajes pueden aparecer en cualquier parte de tu aplicación, y pueden ser utilizados para informar a los usuarios de noticias y eventos. Utiliza esta página para reorganizar tus mensajes arrastrándolos hacia arriba o hacia abajo.';
 $Definition['MobileLogoDescription'] =
-    'El logotipo del anuncio móvil aparece en la parte superior de tu sitio. Puede que algunos temas no muestren este logotipo.';
+    'El logotipo del banner móvil aparece en la parte superior de su sitio.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Los temas móviles te permiten cambiar el aspecto y percepción de tu sitio en dispositivos más pequeños.';
 
@@ -143,7 +144,7 @@ $Definition['Overridden views or themehooks can have unintended side effects and
 
 $Definition['Please choose an authenticator to configure.'] = 'Por favor elige un autenticador para configurar.';
 $Definition['PluginHelp'] = 'Los plugins te permiten añadir funcionalidad a tu sitio.<br />Una vez añadido un plugin a la carpeta %s, puedes activarlo o desactivarlo aquí.';
-$Definition['Pockets.BetweenDiscussions.Description'] = 'El pocket se muestra entre cada una de las discusiones de la lista principal de discusiones. Como las discusiones están normalmente &lt;li&gt;..&lt;/li&gt; etiquetadas, tendrás que etiquetar también tus pockets.';
+$Definition['Pockets.BetweenDiscussions.Description'] = 'El pocket se muestra entre cada una de las discusiones de la lista principal de discusiones. Como las discusiones están normalmente <li>..</li> etiquetadas, tendrás que etiquetar también tus pockets.';
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Los bolsillos te permiten añadir formularios HTML gratuitos a varios lugares de la aplicación.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Evita el spam en tu foro limitando el número de discusiones y comentarios que los usuarios pueden enviar dentro de un periodo de tiempo dado.';
 
@@ -201,7 +202,7 @@ $Definition['The following structure changes are required for your database.'] =
 $Definition['The import file does not contain any data.'] = 'El archivo importado no contiene información. ';
 $Definition['The import file is not in the correct format.'] = 'El archivo importado no esta en el formato correcto. ';
 $Definition['The location of the jsonp formatted authentication data.'] = 'La ubicación de los datos de identificación formateada JSONP';
-$Definition['ThemeHelp'] = 'Los Temas te permiten cambiar el look &amp; feel de tu sitio.<br />Una vez que un tema ha sido añadido a la carpeta %s, puedes habilitarlo aquí.';
+$Definition['ThemeHelp'] = 'Los Temas te permiten cambiar el look & feel de tu sitio.<br />Una vez que un tema ha sido añadido a la carpeta %s, puedes habilitarlo aquí.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'La vista previa del tema se limita a mostrar la plantilla y CSS del tema.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'El autentificador de la contraseña no tiene ninguna opción de configuración personalizada.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'No hay cambios de estructura de base de datos requeridos. Sin embargo, puede haber cambios de información.';
@@ -306,7 +307,7 @@ $Definition["Font Name"] = "Nombre de la fuente";
 $Definition["Invalid URL"] = "URL inválida";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Puedes subir una fuente personalizada en tu sistema de temas. Solo copia y pega la URL en el campo";
 $Definition["You can configure some values differently for different screensizes."] = "Puedes configurar algunos valores distintos para distintos tamaños de pantalla.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Tienes que agregar la dirección de dominio a los <0>DominiosPermitidos</0>, en la configuración del sitio. <1>Saber más sobre fuentes personalizadas</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Debe agregar el dominio de la URL de la fuente a <0> dominios permitidos </0> en la configuración del sitio. <1> Obtenga más información sobre las fuentes personalizadas. </1>";
 
 $Definition["Primary Buttons"] = "Botones principales";
 $Definition["Secondary Buttons"] = "Botones secundarios";

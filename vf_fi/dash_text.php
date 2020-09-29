@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Lue lisää mukautetusta reitityks
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Opi muuttamaan foorumisi ulkonäköä ja käyttötuntumaa: lataa logosi, aseta kotisivusi, valitse teema ja muokkaa sitä.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Opi käyttämään foorumisi perustoimintoja.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Lokalisoinnin avulla sivustoasi voidaan käyttää muillakin kielillä. Ota tarvitsemasi kielet tässä käyttöön tai pois käytöstä. ';
-$Definition['LogoDescription'] = 'Bannerin logo näkyy sivustosi yläosassa. Kaikki teemat eivät välttämättä tue logon näyttämistä.';
+$Definition['LogoDescription'] = 'Banderollo näkyy sivustosi yläosassa.';
+$Definition['LogoDisclaimer'] = 'Teemaeditorilla tehdyt teemat ja jotkut mukautetut teemat eivät käytä tätä asetusta.';
 
 $Definition['Make sure you click View Page'] = 'Muista aina tarkistaa <a href="%s">näkymä</a> tehtyäsi siihen muutoksia.';
 $Definition['Manage Routes'] = 'Reittien hallinta';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'S
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Sisällön merkitseminen ei roskaviestiksi tuo sen taas näkyviin foorumissa.';
 $Definition['Messages can appear anywhere in your application.'] = 'Voit näyttää ylläpidon viestejä palstallasi muun sisällön ulkopuolella. Viesteillä voit tiedottaa käyttäjille esimerkiksi uusista tapahtumista tai muusta ajankohtaisesta. Tällä sivulla voit järjestää viestit vetämällä ja pudottamalla ne haluamaasi järjestykseen.';
 $Definition['MobileLogoDescription'] =
-    'Mobiilibannerin logo näkyy sivustosi yläosassa. Jotkut teemat eivät välttämättä näytä tätä logoa.';
+    'Mobiilibännerin logo näkyy sivustosi yläosassa.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiiliteemojen avulla voi muuttaa sivuston ulkoasua ja tunnelmaa pienemmillä laitteilla.';
 
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Fontin nimi";
 $Definition["Invalid URL"] = "Virheellinen URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Voit lähettää mukautetun kirjasimen Theming-järjestelmään. Kopioi ja liitä URL-osoite kenttään.";
 $Definition["You can configure some values differently for different screensizes."] = "Voit määrittää joitain arvoja eri tavalla eri näyttöruuduille.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Sinun on lisättävä fontin url-verkkotunnus <0>Sallitut verkkotunnukset -kohtaan</0>, sivuston kokoonpanossa. <1>Lisätietoja mukautetuista kirjasimista</1>.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Sinun on lisättävä fontin url-verkkotunnus <0> Sallitut verkkotunnukset -kohtaan </0> sivuston kokoonpanossa. <1> Lisätietoja mukautetuista kirjasimista. </1>";
 
 $Definition["Primary Buttons"] = "Ensisijaiset painikkeet";
 $Definition["Secondary Buttons"] = "Toissijaiset painikkeet";

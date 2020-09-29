@@ -37,6 +37,7 @@ $Definition["Browse"] = "Semak imbas";
 $Definition["By <0/>"] = "Menjelang <0 />";
 
 $Definition["category"] = "kategori";
+$Definition["Categories"] = "Kategori-kategori";
 $Definition["Category One"] = "Kategori Satu";
 $Definition["Category Options"] = "Pilihan Kategori";
 $Definition["Category Two"] = "Kategori Dua";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Susun Artikel";
 $Definition["Sorting method for articles."] = "Kaedah menyusun untuk artikel.";
 $Definition["Sub folder"] = "Sub folder";
 $Definition["Subcategories"] = "Subkategori";
+$Definition["sub-categories"] = "subkategori";
+$Definition["sub-category"] = "subkategori";
 
 $Definition["Thanks for your feedback!"] = "Terima kasih atas maklum balas anda!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Gambar sepanduk untuk digunakan pada pemilih pangkalan pengetahuan. Ini boleh diganti berdasarkan asas pengetahuan. Dimensi yang disyorkan ialah kira-kira 1000 piksel hingga 400 piksel atau nisbah yang serupa.";

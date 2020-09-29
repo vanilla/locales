@@ -37,6 +37,7 @@ $Definition["Browse"] = "웹 서핑";
 $Definition["By <0/>"] = "<0/>에 의한";
 
 $Definition["category"] = "카테고리";
+$Definition["Categories"] = "카테고리";
 $Definition["Category One"] = "카테고리 1";
 $Definition["Category Options"] = "카테고리 옵션";
 $Definition["Category Two"] = "카테고리 2";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "아티클 정렬";
 $Definition["Sorting method for articles."] = "아티클 정렬 방법.";
 $Definition["Sub folder"] = "하위 폴더";
 $Definition["Subcategories"] = "하위 카테고리";
+$Definition["sub-categories"] = "하위 카테고리";
+$Definition["sub-category"] = "하위 카테고리";
 
 $Definition["Thanks for your feedback!"] = "피드백에 감사드립니다!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "지식 베이스 선택 도구에 사용할 배너 이미지. 이것은 지식 베이스 기반에 따라 무시될 수 있습니다. 권장되는 치수는 약 1000px x 400px 또는 유사한 비율.";

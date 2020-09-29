@@ -37,6 +37,7 @@ $Definition["Browse"] = "Bladeren";
 $Definition["By <0/>"] = "Door <0/>";
 
 $Definition["category"] = "Categorie";
+$Definition["Categories"] = "Categorieën";
 $Definition["Category One"] = "Categorie een";
 $Definition["Category Options"] = "Categorie opties";
 $Definition["Category Two"] = "Categorie twee";
@@ -145,6 +146,8 @@ $Definition["Sort Articles"] = "Artikelen sorteren";
 $Definition["Sorting method for articles."] = "Sortheermethode voor artikelen";
 $Definition["Sub folder"] = "Submap";
 $Definition["Subcategories"] = "Subcategorieën";
+$Definition["sub-categories"] = "subcategorieën";
+$Definition["sub-category"] = "subcategorie";
 
 $Definition["Thanks for your feedback!"] = "Bedankt voor je feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "De bannerafbeelding die gebruikt moet worden gebruikt voor de kennisbestandkiezer. Dit kan per kennisbestand overschreven worden. Aanbevolen afmetingen zijn ongeveer 1000 px bij 400 px of een vergelijkbare verhouding.";

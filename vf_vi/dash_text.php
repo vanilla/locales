@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Tìm hiểu về tuyến đường
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Tìm hiểu cách làm thế nào để thay đổi giao diện của diễn đàn: tải lên logo, thiết lập trang chủ, chọn một chủ đề và tùy chỉnh nó.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Học cách làm thế nào để sử dụng các chức năng cơ bản của diễn đàn.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Địa phương hóa cho phép bạn hỗ trợ các ngôn ngữ khác trên trang. Bật hoặc tắ ngôn ngữ bạn muốn tại đây.';
-$Definition['LogoDescription'] = 'Biểu tượng biểu ngữ xuất hiện ở phía trên cùng của trang web. Một số chủ đề không hiển thị biểu tượng này.';
+$Definition['LogoDescription'] = 'Logo biểu ngữ xuất hiện ở đầu trang web của bạn.';
+$Definition['LogoDisclaimer'] = 'Các chủ đề được tạo bằng trình chỉnh sửa chủ đề và một số chủ đề tùy chỉnh không sử dụng cài đặt này.';
 
 $Definition['Make sure you click View Page'] = 'Hãy đảm bảo bạn đã bấm vào <a href="%s">Xem trang</a> để xem trang danh mục sau khi lưu trông như thế nào.';
 $Definition['Manage Routes'] = 'Quản lý các tuyến đường';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Đánh dấu những thứ là không phải thư rác sẽ đặt chúng trở lại trong diễn đàn của bạn.';
 $Definition['Messages can appear anywhere in your application.'] = 'Tin nhắn có thể xuất hiện bất cứ nơi nào trong ứng dụng của bạn, và có thể được sử dụng để thông báo cho người dùng về tin tức và sự kiện. Sử dụng Trang này để tái tổ chức thư của bạn bằng cách kéo chúng lên hoặc xuống.';
 $Definition['MobileLogoDescription'] =
-    'Logo biểu ngữ di động xuất hiện ở đầu trang web của bạn. Một số chủ đề có thể không hiển thị logo này.';
+    'Logo biểu ngữ di động xuất hiện ở đầu trang web của bạn.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Chủ đề di động cho phép bạn thay đổi giao diện trang web của mình trên các thiết bị nhỏ hơn.';
 
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Tên phông chữ";
 $Definition["Invalid URL"] = "URL không hợp lệ";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Bạn có thể tải lên Phông chữ tùy chỉnh trong Hệ thống theo chủ đề của mình. Chỉ cần sao chép và dán URL vào trường.";
 $Definition["You can configure some values differently for different screensizes."] = "Bạn có thể cấu hình một số giá trị khác nhau cho các màn hình khác nhau.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Bạn cần thêm tên miền của phông chữ vào <0> Tên miền được phép </0> , trong cấu hình của trang web. <1> Tìm hiểu thêm về phông chữ tùy chỉnh. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Bạn cần thêm miền của url phông chữ vào <0> Miền được phép </0> trong cấu hình của trang web. <1> Tìm hiểu thêm về phông chữ tùy chỉnh. </1>";
 
 $Definition["Primary Buttons"] = "Nút chính";
 $Definition["Secondary Buttons"] = "Nút phụ";

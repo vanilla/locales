@@ -326,6 +326,7 @@ $Definition['Enable OpenID'] = 'تمكين OpenID';
 $Definition['Enable Pocket Locations'] = 'تمكين مواقع الجيب';
 $Definition['Enable Private Communities'] = 'تمكين المجتمعات الخاصة';
 $Definition['Enable Product Integration'] = 'تمكين عملية تكامل المنتج';
+$Definition['Enable Followup Notifications'] = 'تفعيل إخطارات المتابعة';
 $Definition['Enable Tagging'] = 'تمكين وضع العلامات';
 $Definition['Enable this message'] = 'قم بتمكين هذه الرسالة';
 $Definition['Enabling a Locale Pack'] = 'تمكين حزمة اللغة';
@@ -369,6 +370,7 @@ $Definition['Flagged By'] = 'تم الإشارة بواسطة';
 $Definition['Flagged Content'] = 'محتوى تم الإبلاغ عنه';
 $Definition['Flood Control'] = 'Flood Control';
 $Definition['Forbidden words'] = 'الكلمات المحرمة';
+$Definition['Follow Up Delay'] = 'متابعة التأخير';
 $Definition['Force the forum to only be accessible through this url'] = 'إجبار المنتدى على الوصول إليه فقط من خلال عنوان URL هذا';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Force your forum to be viewed through the Remote Url';
 $Definition['Footer'] = 'تذييل الصفحة';
@@ -545,6 +547,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'أعلمني ع
 $Definition['Notify me when people start new discussions.'] = 'أبلغني عندما يبدأ الناس مناقشات جديدة.';
 $Definition['Not Spam'] = 'ليس بريدا موذيا';
 $Definition['Number of blocked registrations'] = 'عدد التسجيلات الممنوعة';
+$Definition['Number of days before a follow up email is automatically sent.'] = 'عدد الأيام قبل إرسال بريد إلكتروني للمتابعة تلقائيًا.';
 
 $Definition['On'] = 'تشغيل';
 $Definition['Only Allow Each User To Post'] = 'السماح فقط لكل مستخدم بالنشر';
@@ -628,11 +631,13 @@ $Definition["Revert"] = "الرجوع";
 $Definition['Revert to Original Version'] = 'الرجوع إلى النسخة الأصلية';
 $Definition['Revision Label:'] = 'بطاقة المراجعة:';
 $Definition['Role'] = 'Role';
+$Definition['Role Applicants'] = 'المتقدمون الدور';
 $Definition['Role Name'] = 'اسم الدور';
 $Definition['Role Permissions'] = 'أذون الدور';
 $Definition['RolePersonalInfo'] = 'هذا الدور هو معلومات شخصية. لن يتمكن من رؤيتها إلا المستخدمون الذين لديهم إذن لعرض المعلومات الشخصية.';
 $Definition['Roles & Permissions'] = 'Roles & Permissions';
 $Definition['Roles determine user\'s permissions.'] = 'يتم تعيين كل مستخدم في موقعك لدور واحد على الأقل. تستخدم الأدوار لتحديد ما يسمح للمستخدمين القيام به.';
+$Definition['Role Request Status'] = 'Status';
 $Definition['Role to Grant'] = 'دور المنح';
 $Definition['Route'] = 'Route';
 $Definition['Routes'] = 'Routes';
@@ -643,6 +648,8 @@ $Definition['RSVP'] = 'RSVP';
 $Definition['Save Captured Definitions'] = 'حفظ التعريفات الملتقطة';
 $Definition['Save Colors'] = 'حفظ الألوان';
 $Definition['Search by user or role.'] = 'ابحث عن الأعضاء باستخدام الاسم أو البريد الإلكتروني، وكذلك بإمكانك استخدام % كبدل. وكذلك بإمكانك البحث باستخدام رقم العضوية، اسم المجموعة أو “محظور”.';
+$Definition['Search results of members'] = 'نتائج البحث للأعضاء';
+$Definition['SearchScope.Everywhere'] = 'في كل مكان';
 $Definition['seconds'] = 'ثواني';
 $Definition['Security'] = 'الأمان';
 $Definition['See also'] ='انظر أيضاً';
@@ -675,6 +682,8 @@ $Definition['Social Connect Addons'] = 'إضافات مواقع التواصل �
 $Definition['Sort Order'] = 'فرز الأمر';
 $Definition['Specify one domain per line. Use * for wildcard matches.'] = 'حدد نطاقاً واحدًا لكل سطر. استخدم * لتطابقات أحرف البدل.';
 $Definition['Spoof'] = 'وهمي';
+$Definition['SSO Role'] = 'دور SSO';
+$Definition['SSO roles are always passed through SSO.'] = 'يتم تمرير أدوار SSO دائمًا عبر SSO.';
 $Definition['Start Discussions'] = 'كتابة مواضيع';
 $Definition['Start Private Conversations'] = 'بدء المحادثات الخاصة';
 $Definition['State'] = 'الحالة';
@@ -714,6 +723,7 @@ $Definition['The homepage title is displayed on your home page.'] = 'يتم عر
 $Definition['The homepage was saved successfully.'] = 'تم حفظ الصفحة الرئيسية بنجاح.';
 $Definition['The invitation was removed successfully.'] = 'تمت إزالة الدعوة بنجاح.';
 $Definition['The invitation was sent successfully.'] = 'تم إرسال الدعوة بنجاح.';
+$Definition['The Key in the XML payload to designate %s.'] = 'المفتاح الموجود في حمولة XML لتعيين %s.';
 $Definition['Theme Editor'] = 'محرر المظهر';
 $Definition['Theme Options'] = 'Theme Options';
 $Definition['Themes'] = 'Themes';
@@ -752,6 +762,7 @@ $Definition['This category has custom permissions.'] = 'هذه الفئة لدي
 $Definition['This category is archived.'] = 'تمت أرشفة هذه الفئة.';
 $Definition['This connection is in test-mode.'] = 'هذا الإتصال في حالة الإختبار';
 $Definition['This Database'] = 'قاعدة البيانات هذه';
+$Definition['QnAFollowup.Feature.Enabled'] = 'ترسل هذه الميزة رسائل بريد إلكتروني إلى مؤلفي الأسئلة التي تمت الإجابة عليها والتي ليس لها إجابة مقبولة.';
 $Definition['This forum is currently set to invitation only mode.'] = 'هذا المنتدى مضبوط حاليًا على وضع الدعوة فقط.';
 $Definition['This is a parent category that does not allow discussions.'] = 'هذه فئة رئيسية لا تسمح بإجراء مناقشات.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
@@ -781,7 +792,7 @@ $Definition['Unlimited'] = 'Unlimited';
 $Definition['Upload New Email Logo'] = 'تحميّل شعار البريد الإلكتروني الجديد';
 $Definition['Upcoming Events'] = 'أحداث قادمة';
 $Definition['Use an SMTP server to send email'] = 'استخدم خادم SMTP لإرسال البريد الإلكتروني';
-$Definition['Use asterisks for wildcards'] = 'استخدم العلامات النجمية لحرف البدل ، مثل "*@hotmail.com"';
+$Definition['Use asterisks for wildcards'] = 'استخدم العلامات النجمية لحرف البدل ، مثل  "*@gmail.com"';
 $Definition['Use Categories'] = 'استخدم الفئات';
 $Definition['Use categories to organize discussions'] = 'استخدم الفئات لتنظيم المناقشات';
 $Definition['Use Facebook names for usernames.'] = 'استخدم أسماء Facebook لأسماء المستخدمين.';
@@ -889,4 +900,3 @@ $Definition['Display on category page only.'] = 'عرض على صفحة الفئ
 $Definition['Use Masonry display'] = 'استخدم عرض البناء';
 $Definition['Show an uploaded image on the Category page.'] = 'ستعرض كل مناقشة صورة تم تحميلها على صفحة الفئة. ينطبق هذا فقط على الفئات التي تحتوي على "مناقشات" مثل "عرض باسم".';
 $Definition['Upload Placeholder Image'] = 'تحميل صورة عنصر نائب';
-

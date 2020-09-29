@@ -37,6 +37,7 @@ $Definition["Browse"] = "Dlulisa amehlo";
 $Definition["By <0/>"] = "Ngu <0 />";
 
 $Definition["category"] = "isigaba";
+$Definition["Categories"] = "Izigaba";
 $Definition["Category One"] = "Isigaba sokuqala";
 $Definition["Category Options"] = "Izinketho zesigaba";
 $Definition["Category Two"] = "Isigaba Sesibili";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Hlunga izindatshana";
 $Definition["Sorting method for articles."] = "Ukuhlunga indlela yezindatshana.";
 $Definition["Sub folder"] = "Ifolda engaphansi";
 $Definition["Subcategories"] = "Izigatshana";
+$Definition["sub-categories"] = "izigaba ezingezansi";
+$Definition["sub-category"] = "isigaba esiphansi";
 
 $Definition["Thanks for your feedback!"] = "Siyabonga ngempendulo yakho!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Isithombe sesibhengezo okufanele sisisebenzise kukhetho lwesisekelo solwazi. Lokhu kungenziwa kufakwe ngaphezulu kwesisekelo se-knoweldge. Ubukhulu obunconyiwe bu malunga ne-1000px yi-400px noma isilinganiso esifanayo.";

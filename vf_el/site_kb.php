@@ -37,6 +37,7 @@ $Definition["Browse"] = "Περιήγηση";
 $Definition["By <0/>"] = "Από <0/>";
 
 $Definition["category"] = "κατηγορία";
+$Definition["Categories"] = "Κατηγορίες";
 $Definition["Category One"] = "Κατηγορία Ένα";
 $Definition["Category Options"] = "Επιλογές Κατηγορίας";
 $Definition["Category Two"] = "Κατηγορία Δύο";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Ταξινόμηση Άρθρων";
 $Definition["Sorting method for articles."] = "Μέθοδος ταξινόμησης άρθρων.";
 $Definition["Sub folder"] = "Υποφάκελος";
 $Definition["Subcategories"] = "Υποκατηγορίες";
+$Definition["sub-categories"] = "υποκατηγορίες";
+$Definition["sub-category"] = "υποκατηγορία";
 
 $Definition["Thanks for your feedback!"] = "Ευχαριστούμε για το σχόλιο!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Η εικόνα πανό που θα χρησιμοποιηθεί στον επιλογέα βάσης γνώσεων. Αυτό μπορεί να παρακαμφθεί με βάση τη βάση γνώσεων. Οι συνιστώμενες διαστάσεις είναι περίπου 1000px επί 400px ή παρόμοια αναλογία.";

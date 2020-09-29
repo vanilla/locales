@@ -12,7 +12,7 @@ $Definition["Add a knowledge base to get started."] = "Ajoutez une base de conna
 $Definition["Add/Edit Knowledge Base"] = "Ajouter / Modifier une base de connaissances";
 $Definition["Admin Links"] = "Liens administrateur";
 $Definition["Alphabetically"] = "Ordre alphabétique";
-$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Êtes-vous sûr de vouloir supprimer <0/> \"<1/>\" ?";
+$Definition["Are you sure you want to delete <0/> \"<1/>\" ?"] = "Êtes-vous sûr de vouloir supprimer <0/> « <1/> » ?";
 $Definition["Are you sure you want to delete this knowledge base?"] = "Êtes-vous sûr de vouloir supprimer cette base de connaissances ?";
 $Definition["Are you sure you want to purge this knowledge base?"] = "Êtes-vous sûr de vouloir purger cette base de connaissances ?";
 $Definition["Are you sure you want to restore this knowledge base?"] = "Êtes-vous sûr de vouloir restaurer cette base de connaissances ?";
@@ -37,6 +37,7 @@ $Definition["Browse"] = "Parcourir";
 $Definition["By <0/>"] = "Par <0/>";
 
 $Definition["category"] = "catégorie";
+$Definition["Categories"] = "Catégories";
 $Definition["Category One"] = "Catégorie 1";
 $Definition["Category Options"] = "Options de catégorie";
 $Definition["Category Two"] = "Catégorie Deux";
@@ -56,7 +57,7 @@ $Definition["Debug"] = "Déboguer";
 $Definition["Default Background Color"] = "Couleur d'arrière plan par défaut";
 $Definition["Default Foreground Color"] = "Couleur du premier plan par défaut";
 
-$Definition["Delete \"<0/>\""] = "Supprimer \"<0/>\"";
+$Definition["Delete \"<0/>\""] = "Supprimer « <0/> »";
 $Definition["Delete Draft"] = "Supprimer le brouillon";
 $Definition["Delete an Article"] = "Supprimer un article";
 $Definition["Deleted Articles"] = "Supprimer des articles";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Trier les articles";
 $Definition["Sorting method for articles."] = "Méthode de tri des articles";
 $Definition["Sub folder"] = "Sous-dossier";
 $Definition["Subcategories"] = "Sous-catégories";
+$Definition["sub-categories"] = "sous-catégories";
+$Definition["sub-category"] = "sous-catégorie";
 
 $Definition["Thanks for your feedback!"] = "Merci pour vos commentaires !";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Image de la bannière à utiliser sur le sélectionneur de base de connaissances. Elle peut être ignorée sur la base d'une seule base de connaissances. Ses dimensions recommandées sont d'environ 1000 px x 400 px ou un rapport similaire. ";
@@ -194,7 +197,7 @@ $Definition["Type your article."] = "Écrivez votre article";
 $Definition["Unknown User"] = "Utilisateur inconnu";
 
 $Definition["View Article"] = "Voir l'article";
-$Definition["View all articles from category: \"<0/>\"."] = "Voir tous les articles de la catégorie : \"<0/>\".";
+$Definition["View all articles from category: \"<0/>\"."] = "Voir tous les articles de la catégorie : « <0/> ».";
 
 $Definition["Was this article helpful?"] = "Cet article a-t-il été utile ?";
 $Definition["Write Discussion"] = "Écrire une discussion";

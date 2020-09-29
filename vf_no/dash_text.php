@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Lær om egendefinert routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lær deg hvordan du fullstendig endrer utseendet og opplevelsen på forumet ditt: last opp logoen din, bestem hjemmeside, velg et tema og juster det.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lær deg hvordan du bruker den grunnleggende funksjonaliteten på forumet ditt.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Localer lar deg støtte andre språk på siden din. Aktiver og deaktiver localer du ønsker å gjøre tilgjengelig her.';
-$Definition['LogoDescription'] = 'Bannerlogoen viser seg på toppen av nettstedet ditt. Enkelte tema viser kanskje ikke denne logoen.';
+$Definition['LogoDescription'] = 'Bannerlogoen viser seg på toppen av nettstedet ditt.';
+$Definition['LogoDisclaimer'] = 'Temaer laget med temaredigereren og noen tilpassede temaer bruker ikke denne innstillingen.';
 
 $Definition['Make sure you click View Page'] = 'Sørg for at du klikker på <a href="%s">Se side</a> for å se hvordan kategorisiden din ser ut etter lagring.';
 $Definition['Manage Routes'] = 'Administrer ruter';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Å markere ting som ikke-søppel legger dem tilbake igjen i forumet ditt.';
 $Definition['Messages can appear anywhere in your application.'] = 'Meldinger kan vises hvor som helst på siden din, og kan brukes for å informere brukere om nyheter og eventer. Denne siden brukes for å organisere dine beskjeder ved å dra de opp eller ned.';
 $Definition['MobileLogoDescription'] =
-    'Mobil bannerlogo vises øverst på nettstedet ditt. Noen temaer viser kanskje ikke denne logoen.';
+    'Mobil bannerlogo vises øverst på nettstedet ditt.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiltemaer lar deg endre utseendet og følelsen på nettstedet ditt på mindre enheter.';
 
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Skriftnavn";
 $Definition["Invalid URL"] = "ugyldig URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan laste opp en egendefinert skrift i ditt temasystem. Bare kopier og lim inn URL-en i feltet.";
 $Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurere noen verdier på en annen måte for forskjellige skjermbilder.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du må legge til url-domenet til <0> Tillatte domener </0> , i nettstedets konfigurasjon. <1> Lær mer om tilpassede skrifter. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du må legge til url-domenet til <0> Tillatte domener </0> i nettstedets konfigurasjon. <1> Lær mer om tilpassede skrifter. </1>";
 
 $Definition["Primary Buttons"] = "Primære knapper";
 $Definition["Secondary Buttons"] = "Sekundærknapper";

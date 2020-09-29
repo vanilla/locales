@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Matuto tungkol sa custom routing.'
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Ang mga lokal ay nagpapahintulot sa iyo na suportahan ang ibang mga wika sa iyong site. Paganahin at huwag paganahin ang mga lokal na gusto mong gawing available dito.';
-$Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
+$Definition['LogoDescription'] = 'Ang logo ng banner ay lilitaw sa tuktok ng iyong site.';
+$Definition['LogoDisclaimer'] = 'Ang mga tema na ginawa kasama ang editor ng tema at ilang mga pasadyang tema ay hindi gumagamit ng setting na ito.';
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Manage Routes'] = 'Manage Routes';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['MobileLogoDescription'] =
-    'Ang mobile banner logo ay lilitaw sa tuktok ng iyong site. Ang ilang mga tema ay maaaring hindi ipakita ang logo na ito.';
+    'Ang mobile banner logo ay lilitaw sa tuktok ng iyong site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Pinapayagan ka ng mga mobile na tema na baguhin ang hitsura at pakiramdam ng iyong site sa mas maliit na aparato.';
 
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Pangalan ng font";
 $Definition["Invalid URL"] = "Hindi wastong URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Maaari kang mag-upload ng isang Custom Font sa iyong Theming System. Kopyahin lamang at i-paste ang URL sa larangan.";
 $Definition["You can configure some values differently for different screensizes."] = "Maaari mong i-configure ang ilang mga halaga nang naiiba para sa iba't ibang mga screen.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Kailangan mong magdagdag ng domain ng font url sa <0> AllowedDomains </0> , sa pagsasaayos ng site. <1> Matuto nang higit pa tungkol sa mga pasadyang mga font. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Kailangan mong magdagdag ng domain ng font url sa <0> Pinapayagan na Mga domain </0> sa pagsasaayos ng site. <1> Matuto nang higit pa tungkol sa mga pasadyang mga font. </1>";
 
 $Definition["Primary Buttons"] = "Pangunahing Mga Pindutan";
 $Definition["Secondary Buttons"] = "Pangalawang Mga Pindutan";

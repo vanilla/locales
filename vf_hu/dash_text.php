@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Tudjon meg többet az egyedi útvo
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Ismerd meg, hogy tudod teljesen lecserélni a fórumod kinézetét: tölts fel logókat, állítsd be a honlapod, válassz egy témát és tedd egyedivé.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Ismerd meg, hogy használd az alapvető fórum-funkciókat.';
 $Definition['Locales allow you to support other languages on your site.'] = 'A területi beállítások lehetővé teszik, hogy a webhely további nyelveket is támogasson. Itt engedélyezheti és tilthatja le a kívánt területi beállításokat.';
-$Definition['LogoDescription'] = 'A banner logo az oldalad tetején fog megjelenni. Néhány téma esetleg nem fogja ezt a logot megjeleníteni.';
+$Definition['LogoDescription'] = 'A szalaghirdetés logója megjelenik a webhely tetején.';
+$Definition['LogoDisclaimer'] = 'A témaszerkesztővel készített témák és egyes egyéni témák nem használják ezt a beállítást.';
 
 $Definition['Make sure you click View Page'] = 'Kattints a <a href="%s">Oldal megtekintése</a> -re, hogy lásd hogyan fog a kategória oldalad kinézni a mentés után.';
 $Definition['Manage Routes'] = 'Utak kezelése';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'H
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ha valamit úgy jelölsz, mint nem spam, vissza fogja azt juttatni a fórumodba.';
 $Definition['Messages can appear anywhere in your application.'] = 'Az üzenetek bárhol megjeleníthetőek a fórumban. Ezzel a módszerrel értesíteni tudod a felhasználókat az új hírekről és eseményekről. Az üzenetek újraszervezését az üzenet lefelé illetve felfelé való mozgatásával érheted el. ';
 $Definition['MobileLogoDescription'] =
-    'A mobil szalaghirdetés logója megjelenik a webhely tetején. Előfordulhat, hogy egyes témák nem jelenítik meg ezt a logót.';
+    'A mobil szalaghirdetés logója megjelenik a webhely tetején.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'A mobil témák lehetővé teszik, hogy megváltoztassa webhelyének megjelenését és hangulatát kisebb eszközökön.';
 
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Betűkészlet neve";
 $Definition["Invalid URL"] = "érvénytelen URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Töltsön fel egyéni betűtípust a Theming rendszerbe. Csak másolja és illessze be az URL-t a mezőbe.";
 $Definition["You can configure some values differently for different screensizes."] = "Egyes értékeket különféleképpen konfigurálhat a különféle képernyőméretekhez.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "A betűtípus url domainjét hozzá kell adnia a <0> AllowedDomains mappához </0> , a webhely konfigurációjában. <1> További információ az egyéni betűkészletekről. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "A betűtípus url domainjét hozzá kell adnia a <0> Engedélyezett tartományokhoz </0> a webhely konfigurációjában. <1> További információ az egyéni betűkészletekről. </1>";
 
 $Definition["Primary Buttons"] = "Elsődleges gombok";
 $Definition["Secondary Buttons"] = "Másodlagos gombok";

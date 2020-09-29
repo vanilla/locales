@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Dowiedz się więcej o routingu ni
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Ustawienia regionalne umożliwiają obsługę innych języków w Twojej witrynie. Włącz i wyłącz lokalne ustawienia, które chcesz udostępnić tutaj.';
-$Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
+$Definition['LogoDescription'] = 'Logo banera pojawia się u góry Twojej witryny.';
+$Definition['LogoDisclaimer'] = 'Motywy utworzone za pomocą edytora motywów i niektóre motywy niestandardowe nie używają tego ustawienia.';
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Manage Routes'] = 'Zarządzanie trasami';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Wiadomości mogą pojawić się gdziekolwiek w aplikacji, i mogą być wykorzystywane do informowania użytkowników o nowościach i wydarzeniach. Użyj tej strony do ponownego uporządkowania wiadomości, przeciągając je w górę lub w dół.';
 $Definition['MobileLogoDescription'] =
-    'Logo banera mobilnego pojawia się u góry strony. Niektóre motywy mogą nie wyświetlać tego logo.';
+    'Logo baneru na telefon komórkowy pojawia się u góry witryny.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Motywy mobilne umożliwiają zmianę wyglądu witryny na mniejszych urządzeniach.';
 
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Nazwa czcionki";
 $Definition["Invalid URL"] = "nieprawidłowy URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Możesz wgrać własną czcionkę do swojego systemu tematycznego. Wystarczy skopiować i wkleić adres URL w polu.";
 $Definition["You can configure some values differently for different screensizes."] = "Możesz skonfigurować niektóre wartości inaczej dla różnych rozmiarów ekranu.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Musisz dodać domenę adresu URL czcionki do <0> AllowedDomains </0> , w konfiguracji witryny. <1> Więcej informacji o niestandardowych czcionkach. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Musisz dodać domenę adresu URL czcionki do <0> Dozwolonych domen </0> w konfiguracji witryny. <1> Dowiedz się więcej o niestandardowych czcionkach. </1>";
 
 $Definition["Primary Buttons"] = "Główne przyciski";
 $Definition["Secondary Buttons"] = "Przyciski wtórne";

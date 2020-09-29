@@ -118,7 +118,8 @@ $Definition['Learn about custom routing.'] = 'Lär dig om anpassad dirigering.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lär dig att helt ändra ditt forums utseende och känsla: ladda upp din logo, välj din startsida, välj ett tema och anpassa det.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lär dig att använda de grundläggande funktionerna i ditt forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales låter dig stödja andra språk på din sida. Aktivera eller inaktivera locales som du vill göra tillgängliga här.';
-$Definition['LogoDescription'] = 'Logon dyker upp överst på din hemsida. En del teman kanske inte visar den här logon.';
+$Definition['LogoDescription'] = 'Bannerlogotypen visas högst upp på din webbplats.';
+$Definition['LogoDisclaimer'] = 'Teman gjorda med temaredigeraren och vissa anpassade teman använder inte den här inställningen.';
 
 $Definition['Make sure you click View Page'] = 'Se till att klicka på <a href="%s">Visa sida</a> för att se hur din kategorisida ser ut efter att du har sparat.';
 $Definition['Manage Routes'] = 'Hantera Rutter';
@@ -126,7 +127,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'O
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Om du markerar saker som ej spam så visas de igen i ditt forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Meddelanden kan dyka upp överallt i forumet, och kan användas för att informera användarna om nyheter och händelser. Använd denna sida för att organisera meddelanden genom att dra och släppa.';
 $Definition['MobileLogoDescription'] =
-    'Den mobila bannerlogotypen visas högst upp på din webbplats. Vissa teman kanske inte visar den här logotypen.';
+    'Mobil bannerlogotypen visas högst upp på din webbplats.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobilteman låter dig ändra utseendet och känslan för din webbplats på mindre enheter.';
 
@@ -307,7 +308,7 @@ $Definition["Font Name"] = "Teckensnitt Namn";
 $Definition["Invalid URL"] = "Ogiltig URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan ladda upp ett anpassat teckensnitt i ditt temsystem. Kopiera och klistra in webbadressen i fältet.";
 $Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurera vissa värden på olika sätt för olika skärmbilder.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du måste lägga till teckensnittets url-domän till <0> Tillåtna domäner </0> , i webbplatsens konfiguration. <1> Läs mer om anpassade teckensnitt. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du måste lägga till teckensnittets url-domän till <0> Tillåtna domäner </0> i webbplatsens konfiguration. <1> Läs mer om anpassade teckensnitt. </1>";
 
 $Definition["Primary Buttons"] = "Primära knappar";
 $Definition["Secondary Buttons"] = "Sekundära knappar";

@@ -37,6 +37,7 @@ $Definition["Browse"] = "مرور کردن";
 $Definition["By <0/>"] = "توسط <0 />";
 
 $Definition["category"] = "دسته بندی";
+$Definition["Categories"] = "دسته ها";
 $Definition["Category One"] = "دسته یک";
 $Definition["Category Options"] = "گزینه های دسته بندی";
 $Definition["Category Two"] = "دسته دو";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "مقالات مرتب سازی";
 $Definition["Sorting method for articles."] = "روش مرتب سازی مقالات.";
 $Definition["Sub folder"] = "پوشه زیر";
 $Definition["Subcategories"] = "زیر شاخه ها";
+$Definition["sub-categories"] = "زیر مجموعه ها";
+$Definition["sub-category"] = "زیر مجموعه";
 
 $Definition["Thanks for your feedback!"] = "با تشکر از نظرات شما";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "تصویر بنر برای انتخاب در انتخاب دانش بنیان. این امر را می توان در هر پایه و اساس بدون دانش پرت کرد. ابعاد توصیه شده در حدود 1000px 400px یا نسبت مشابهی است.";

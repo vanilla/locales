@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Lær om tilpassede ruter.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lær hvordan du ændrer din sides udseende, uploader et logo, beskriver siden, vælger et tema og tilpasser det.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lær hvordan du grundlæggende bruger dit forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Sprogpakker tillader dig at bruge andre sprog på din side. Aktiver og deaktiver sprogpakker som du gerne vil gøre tilgængelige her.';
-$Definition['LogoDescription'] = 'Banner logoet vises øverst på siden. Nogle temaer viser ikke logoet.';
+$Definition['LogoDescription'] = 'Banneret logo vises øverst på dit websted.';
+$Definition['LogoDisclaimer'] = 'Temaer lavet med temaditoren og nogle tilpassede temaer bruger ikke denne indstilling.';
 
 $Definition['Make sure you click View Page'] = 'Klik <a href="%s">Vis side</a> for at se hvordan dine kategorier ser ud efter at du har gemt.';
 $Definition['Manage Routes'] = 'Administrer ruter';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'H
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Hvis du markerer noget som ikke-spam, så dukker det op i dit forum igen.';
 $Definition['Messages can appear anywhere in your application.'] = 'Beskeder kan ses overalt i forummet og kan bruges til at orientere dine brugere om nyheder og hændelser. Brug denne side til at organisere dine beskeder ved at trække dem op eller ned.';
 $Definition['MobileLogoDescription'] =
-    'Det mobile bannerlogo vises øverst på dit websted. Nogle temaer viser muligvis ikke dette logo.';
+    'Det mobile bannerlogo vises øverst på dit websted.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiltemaer giver dig mulighed for at ændre udseendet og følelsen af dit websted på mindre enheder.';
 
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Skriftnavn";
 $Definition["Invalid URL"] = "ugyldig URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Du kan uploade en brugerdefineret skrifttype i dit temasystem. Bare kopiér og indsæt URL'en i feltet.";
 $Definition["You can configure some values differently for different screensizes."] = "Du kan konfigurere nogle værdier forskelligt for forskellige skærmbilleder.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du skal tilføje font url's domæne til <0> Tilladte domæner </0> , i stedets konfiguration. <1> Lær mere om brugerdefinerede skrifttyper. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Du skal tilføje font url's domæne til <0> Tilladte domæner </0> i stedets konfiguration. <1>Lær mere om tilpassede skrifttyper.</1>";
 
 $Definition["Primary Buttons"] = "Primære knapper";
 $Definition["Secondary Buttons"] = "Sekundære knapper";

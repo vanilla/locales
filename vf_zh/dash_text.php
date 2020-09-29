@@ -118,7 +118,8 @@ $Definition['Learn about custom routing.'] = '了解自定义路由。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '学习如何完全改变您的社区的外观和感觉：上传 Logo；设置首页及布局；选择一个主题并个性化主题。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '学习如何使用论坛的基本功能。';
 $Definition['Locales allow you to support other languages on your site.'] = '语言选项可以让您的网站支持其他语言。在这里您可以启用或禁用选定的语言。';
-$Definition['LogoDescription'] = '站点 Logo 显示在站点的顶部，有些主题可能不会显示。';
+$Definition['LogoDescription'] = '标语徽标显示在您网站的顶部。';
+$Definition['LogoDisclaimer'] = '使用主题编辑器创建的主题和某些自定义主题不使用此设置。';
 
 $Definition['Make sure you click View Page'] = '点击<a href="%s">这里</a>预览版块页面。';
 $Definition['Manage Routes'] = '管理路由';
@@ -126,7 +127,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = '标记为不是垃圾信息的条目会被恢复到论坛中。';
 $Definition['Messages can appear anywhere in your application.'] = '消息系统在应用中的许多地方被用到，它可以用来向用户发布通知和新闻。在这里，您可以自由地拖动、管理您的消息。';
 $Definition['MobileLogoDescription'] =
-    '移动端横幅徽标将出现在网站的顶部。某些主题可能不会显示此徽标。';
+    '移动横幅徽标出现在您网站的顶部。';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     '移动端主题使您可以在小型设备上更改网站的界面外观。';
 
@@ -306,7 +307,7 @@ $Definition["Font Name"] = "字体名";
 $Definition["Invalid URL"] = "无效的 URL";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "您可以在主题系统中上载自定义字体。只需将URL复制并粘贴到字段中即可。";
 $Definition["You can configure some values differently for different screensizes."] = "您可以为不同的屏幕尺寸不同地配置一些值。";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "您需要将字体URL的域添加到<0> AllowedDomains </0> ，在网站的配置中。 <1>了解有关自定义字体的更多信息。 </1> 。";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "您需要将字体URL的域添加到<0> Allowed Domains </0>在网站的配置中。 <1>了解有关自定义字体的更多信息。 </1>";
 
 $Definition["Primary Buttons"] = "主按钮";
 $Definition["Secondary Buttons"] = "辅助按钮";

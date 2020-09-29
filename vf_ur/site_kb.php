@@ -37,6 +37,7 @@ $Definition["Browse"] = "براؤز کریں";
 $Definition["By <0/>"] = "<0 /> کے ذریعہ";
 
 $Definition["category"] = "قسم";
+$Definition["Categories"] = "زمرہ جات";
 $Definition["Category One"] = "زمرہ اول";
 $Definition["Category Options"] = "زمرہ کے اختیارات";
 $Definition["Category Two"] = "زمرہ دو";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "مضامین کو ترتیب دیں";
 $Definition["Sorting method for articles."] = "مضامین کے لئے ترتیب دینے کا طریقہ";
 $Definition["Sub folder"] = "سب فولڈر";
 $Definition["Subcategories"] = "زمرہ جات";
+$Definition["sub-categories"] = "ذیلی زمرے";
+$Definition["sub-category"] = "ذیلی قسم";
 
 $Definition["Thanks for your feedback!"] = "آپ کی راے کا شکریہ!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "علم کی بنیاد کے انتخاب کنندہ پر استعمال کرنے کیلئے بینر کی تصویر۔ اسے فی وا knowلڈج بیس کی بنیاد پر اوور رائیڈ کیا جاسکتا ہے۔ تجویز کردہ طول و عرض تقریبا 1000px از 400px یا اسی طرح کے تناسب ہیں۔";

@@ -116,7 +116,8 @@ $Definition['Learn about custom routing.'] = 'Ketahui mengenai penghalaan tersua
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Pelajari cara mengubah rupa dan nuansa forum anda sepenuhnya: muat naik logo anda, tetapkan laman utama anda, pilih tema dan sesuaikannya.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Ketahui cara menggunakan fungsi asas forum anda.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Lokasi membolehkan anda menyokong bahasa lain di laman web anda. Dayakan dan lumpuhkan tempat yang ingin anda sediakan di sini.';
-$Definition['LogoDescription'] = 'Logo sepanduk muncul di bahagian atas laman web anda. Beberapa tema mungkin tidak memaparkan logo ini.';
+$Definition['LogoDescription'] = 'Logo sepanduk muncul di bahagian atas laman web anda.';
+$Definition['LogoDisclaimer'] = 'Tema yang dibuat dengan editor tema dan beberapa tema khusus tidak menggunakan tetapan ini.';
 
 $Definition['Make sure you click View Page'] = 'Pastikan anda mengklik <a href="%s">Lihat Halaman</a> untuk melihat seperti apa halaman kategori anda setelah disimpan.';
 $Definition['Manage Routes'] = 'Urus Laluan';
@@ -124,7 +125,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Menandakan sesuatu sebagai bukan spam akan meletakkannya kembali di forum anda.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesej boleh muncul di mana saja dalam aplikasi anda, dan dapat digunakan untuk memberi tahu pengguna tentang berita dan peristiwa. Gunakan halaman ini untuk menyusun semula mesej anda dengan menyeretnya ke atas atau ke bawah.';
 $Definition['MobileLogoDescription'] =
-    'Logo sepanduk bergerak muncul di bahagian atas laman web anda. Beberapa tema mungkin tidak memaparkan logo ini.';
+    'Logo sepanduk bergerak muncul di bahagian atas laman web anda.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Tema mudah alih membolehkan anda mengubah rupa dan nuansa laman web anda pada peranti yang lebih kecil.';
 
@@ -304,7 +305,7 @@ $Definition["Font Name"] = "Nama Fon";
 $Definition["Invalid URL"] = "URL tidak sah";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Anda boleh memuat naik Font Kustom di Sistem Tema anda. Cukup salin & tampal URL di lapangan.";
 $Definition["You can configure some values differently for different screensizes."] = "Anda boleh mengkonfigurasi beberapa nilai secara berbeza untuk ukuran skrin yang berbeza.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke <0> AllowedDomains </0> , dalam konfigurasi laman web. <1> Ketahui lebih lanjut mengenai fon tersuai. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Anda perlu menambahkan domain url font ke <0> Domain yang Dibolehkan </0> dalam konfigurasi laman web. <1> Ketahui lebih lanjut mengenai fon tersuai. </1>";
 
 $Definition["Primary Buttons"] = "Butang Utama";
 $Definition["Secondary Buttons"] = "Butang Sekunder";

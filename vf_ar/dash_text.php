@@ -118,7 +118,8 @@ $Definition['Learn about custom routing.'] = 'تعرف على التوجيه ا�
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'تعرّف على كيفية تغيير شكل وطابع المنتدى الخاص بك تماماً: قم بتحميل شعارك وتعيين صفحتك الرئيسية واختيار مظهر ما وتخصيصه.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'تعرف على كيفية استخدام الوظائف الأساسية لمنتداك.';
 $Definition['Locales allow you to support other languages on your site.'] = 'تتيح لك اللغات المحلية دعم لغات أخرى على موقعك. تمكين وتعطيل اللغات التي تريد إتاحتها هنا.';
-$Definition['LogoDescription'] = 'يظهر شعار اللافتة في الجزء العلوي من موقعك. قد لا تعرض بعض المظاهر هذا الشعار.';
+$Definition['LogoDescription'] = 'يظهر شعار البانر أعلى موقعك.';
+$Definition['LogoDisclaimer'] = 'السمات التي تم إنشاؤها باستخدام محرر السمات وبعض السمات المخصصة لا تستخدم هذا الإعداد.';
 
 $Definition['Make sure you click View Page'] = 'تأكد من النقر فوق <a href="%s">عرض الصفحة</a> لترى كيف تبدو صفحة الفئات الخاصة بك بعد الحفظ.';
 $Definition['Manage Routes'] = 'إدارة المسارات';
@@ -126,7 +127,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = '�
 $Definition['Marking things as not spam will put them back in your forum.'] = 'سيؤدي وضع علامة على الأشياء على أنها ليست رسائل غير مزعجة إلى إعادة وضعها في المنتدى';
 $Definition['Messages can appear anywhere in your application.'] = 'يمكن أن تظهر الرسائل في أي مكان في التطبيق الخاص بك، ويمكن استخدامها لإعلام المستخدمين بالأخبار والأحداث. استخدم هذه الصفحة لإعادة تنظيم رسائلك بسحبها لأعلى أو لأسفل.';
 $Definition['MobileLogoDescription'] =
-    'يظهر شعار بانر الجوال أعلى موقعك. قد لا تعرض بعض السمات هذا الشعار.';
+    'يظهر شعار بانر الجوال أعلى موقعك.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'تسمح لك مظاهر الجوال بتغيير شكل موقعك وأسلوبه على الأجهزة الصغيرة.';
 
@@ -308,7 +309,7 @@ $Definition["Font Name"] = "اسم الخط";
 $Definition["Invalid URL"] = "URL غير صالح";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "يمكنك تحميل خط مخصص في نظام Theming الخاص بك. ما عليك سوى نسخ ولصق عنوان URL في الحقل.";
 $Definition["You can configure some values differently for different screensizes."] = "يمكنك تكوين بعض القيم بشكل مختلف لأحجام الشاشات المختلفة.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "تحتاج إلى إضافة مجال عنوان url للخط إلى <0> سمح المجال </0> ، في تكوين الموقع. <1> تعرف على المزيد حول الخطوط المخصصة. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "تحتاج إلى إضافة مجال عنوان url الخاص بالخط إلى <0> المجالات المسموح بها </0> في تكوين الموقع. <1> تعرف على المزيد حول الخطوط المخصصة. </1>";
 
 $Definition["Primary Buttons"] = "الأزرار الأساسية";
 $Definition["Secondary Buttons"] = "الأزرار الثانوية";

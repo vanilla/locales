@@ -37,6 +37,7 @@ $Definition["Browse"] = "Parcourir";
 $Definition["By <0/>"] = "Par <0/>";
 
 $Definition["category"] = "catégorie";
+$Definition["Categories"] = "Catégories";
 $Definition["Category One"] = "Catégorie une";
 $Definition["Category Options"] = "Options de catégorie";
 $Definition["Category Two"] = "Catégorie deux";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Trier les articles";
 $Definition["Sorting method for articles."] = "Méthodes de tri des articles.";
 $Definition["Sub folder"] = "Sous-dossier";
 $Definition["Subcategories"] = "Sous-catégories";
+$Definition["sub-categories"] = "sous-catégories";
+$Definition["sub-category"] = "sous-catégorie";
 
 $Definition["Thanks for your feedback!"] = "Merci pour vos commentaires !";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "L'image de bannière à utiliser dans le sélecteur de base de connaissances. Elle peut être remplacée pour chaque base de connaissances. Les dimensions recommandées sont d'environ 1000 px par 400 px ou des proportions similaires.";

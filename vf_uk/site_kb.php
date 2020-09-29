@@ -37,6 +37,7 @@ $Definition["Browse"] = "Шукати";
 $Definition["By <0/>"] = "Від <0/>";
 
 $Definition["category"] = "категорія";
+$Definition["Categories"] = "Категорії";
 $Definition["Category One"] = "Категорія один";
 $Definition["Category Options"] = "Опції категорії";
 $Definition["Category Two"] = "Категорія два";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Сортувати статті";
 $Definition["Sorting method for articles."] = "Метод сортування для статей.";
 $Definition["Sub folder"] = "Підпапка";
 $Definition["Subcategories"] = "Підкатегорії";
+$Definition["sub-categories"] = "підкатегорії";
+$Definition["sub-category"] = "підкатегорія";
 
 $Definition["Thanks for your feedback!"] = "Дякуємо за ваш відгук!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Зображення банера для використання під час вибору бази знань. Може перекриватися залежно від бази знань. Рекомендовані розміри - близько 1000 пікс. на 400 пікс, або аналогічне співвідношення.";

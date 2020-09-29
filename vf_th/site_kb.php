@@ -37,6 +37,7 @@ $Definition["Browse"] = "การดู";
 $Definition["By <0/>"] = "โดย <0/>";
 
 $Definition["category"] = "หมวดหมู่";
+$Definition["Categories"] = "หมวดหมู่";
 $Definition["Category One"] = "หมวดหนึ่ง";
 $Definition["Category Options"] = "ตัวเลือกหมวดหมู่";
 $Definition["Category Two"] = "หมวดหมู่ที่สอง";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "เรียงบทความ";
 $Definition["Sorting method for articles."] = "วิธีการเรียงลำดับสำหรับบทความ";
 $Definition["Sub folder"] = "โฟลเดอร์ย่อย";
 $Definition["Subcategories"] = "หมวดหมู่ย่อย";
+$Definition["sub-categories"] = "หมวดหมู่ย่อย";
+$Definition["sub-category"] = "หมวดหมู่ย่อย";
 
 $Definition["Thanks for your feedback!"] = "ขอบคุณสำหรับความคิดเห็นของคุณ!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "รูปภาพแบนเนอร์ที่จะใช้กับตัวเลือกฐานความรู้ สิ่งนี้สามารถเขียนทับได้บนพื้นฐานต่อฐานความรู้ ขนาดที่แนะนำคือประมาณ 1000px คูณ 400px หรืออัตราส่วนใกล้เคียงกัน";

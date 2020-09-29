@@ -4,6 +4,7 @@ $Definition['%s comment html'] = '%s comment';
 $Definition['%s comments html'] = '%s comments';
 $Definition['%s discussion html'] = '%s discussion';
 $Definition['%s discussions html'] = '%s discussions';
+$Definition['%s New Plural'] = '%s New';
 $Definition['%s new plural'] = '%s new';
 $Definition['%s sources(s) found.'] = '%s source(s) found.';
 $Definition['%s view html'] = '%s view';
@@ -140,11 +141,11 @@ Have a great day!';
 $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbeddedDiscussionLinkText'] = 'Read the full story here';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Read the full story here</a></p><div class="ClearFix"></div></div>';
-$Definition['EmbededDiscussionLinkText'] = 'Read the full story here';
 $Definition['Enable embedding to use blog comments.'] = 'In order for this to work, you will need to enable embedding.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
@@ -205,7 +206,8 @@ $Definition['Guest roles'] = 'Check all roles that should be applied to guests.'
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
 $Definition['HeadlineFormat.AddUser'] = '{ActivityUserID,user} added an account for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} answered your question: <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
+$Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} commented on <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent you a <a href="{Url,html}">message</a>';
@@ -263,7 +265,8 @@ $Definition['Large images will be scaled down.'] = 'Large images will be scaled 
 $Definition['Line Level Formatting Menu'] = 'Paragraph Format Menu';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
 $Definition['LogoBrowse'] = 'Browse for a new banner logo if you would like to change it:';
-$Definition['LogoDescription'] = 'The banner logo appears at the top of your site. Some themes may not display this logo.';
+$Definition['LogoDescription'] = 'The banner logo appears at the top of your site.';
+$Definition['LogoDisclaimer'] = 'Themes made with the theme editor and some custom themes don\'t use this setting.';
 
 $Definition['Make Leader'] = 'Leader';
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
@@ -272,7 +275,7 @@ $Definition['Member Count'] = 'Members';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';
 $Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
 $Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the same experience, specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
-$Definition['MobileLogoDescription'] = 'The mobile banner logo appears at the top of your site. Some themes may not display this logo.';
+$Definition['MobileLogoDescription'] = 'The mobile banner logo appears at the top of your site.';
 $Definition['month.letter.1'] = 'J';
 $Definition['month.letter.2'] = 'F';
 $Definition['month.letter.3'] = 'M';
@@ -363,16 +366,29 @@ $Definition['Posts.Plural: %s'] = 'Posts: %s';
 $Definition['Posts.Singular: %s'] = 'Posts: %s';
 $Definition['PreferenceBadgeEmail'] = 'Notify me when I earn a badge.';
 $Definition['PreferenceBadgePopup'] = 'Notify me when I earn a badge.';
+$Definition['PreferenceGroupInviteEmail'] = 'Notify me when I am invited to a group.';
+$Definition['PreferenceGroupInvitePopup'] = 'Notify me when I am invited to a group.';
+$Definition['PreferenceGroupJoinRequestEmail'] = 'Notify me when users apply to join my group.';
+$Definition['PreferenceGroupJoinRequestPopup'] = 'Notify me when users apply to join my group.';
+$Definition['PreferenceGroupRequestApprovedEmail'] = 'Notify me when my group membership request is approved.';
+$Definition['PreferenceGroupRequestApprovedPopup'] = 'Notify me when my group membership request is approved.';
 $Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';
 $Definition['PreferenceRankPopup'] = 'Notify me when my rank changes.';
-$Definition['Private group.'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
+$Definition['PrivateGroupDescription'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
+$Definition['Profile.No'] = 'No';
+$Definition['Profile.Yes'] = 'Yes';
 $Definition['ProfileFieldsCustomDescription'] = 'Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!';
-$Definition['Public group.'] = 'Anyone can see the group and its content. Anyone can join.';
+$Definition['PublicGroupDescription'] = 'Anyone can see the group and its content. Anyone can join.';
 
 $Definition['Q&A Accepted'] = 'Answered ✓';
 $Definition['Q&A Answered'] = 'Answered';
 $Definition['Q&A Question'] = 'Question';
 $Definition['QnA Accepted Answer'] = 'Answer ✓';
+$Definition['QnAFollowUp.Email.Message'] = '<p>We noticed you have at least one answer to your question. Can you visit the community and see if any of the answers resolve your question?</p>
+<p>If you see an answer you find helpful, please accept one of the answers.</p>';
+$Definition['QnAFollowUp.Email.Subject'] = 'Has your question been answered?';
+$Definition['QnAFollowup.Feature.Enabled'] = 'This feature sends emails to the authors of answered questions that do not have an accepted answer.';
+$Definition['QnAFollowUp.Success'] = 'Notifications sent successfully.';
 $Definition['QnA Rejected Answer'] = 'Rejected Answer';
 $Definition['Question Type'] = 'Question';
 $Definition['Quote on'] = 'on';
@@ -412,6 +428,7 @@ $Definition['richEditor.menu.subheading'] = 'Subheading';
 $Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
 $Definition['RoleID'] = 'role';
 $Definition['RolePersonalInfo'] = 'This role is personal info. Only users with permission to view personal info will see it.';
+$Definition['Role Request Status'] = 'Status';
 $Definition['Roles determine user\'s permissions.'] = 'Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
 $Definition['RSVP'] = 'Respond';
@@ -420,6 +437,8 @@ $Definition['Saved'] = 'Your changes have been saved.';
 $Definition['SearchBoxPlaceHolder'] = 'Search';
 $Definition['Search by user or role.'] = 'Search for users by name or email, optionally using % as a wildcard. You can also search by user ID, the name of a role, or &ldquo;banned&rdquo;.';
 $Definition['Search for a tag.'] = 'Search for all or part of a tag.';
+$Definition['SearchScope.Everywhere'] = 'Everywhere';
+$Definition['SecretGroupDescription'] = 'Only members can see the group and view its content. People must be invited to join.';
 $Definition['Security.Hsts.HTTPSWarning'] = 'Warning: Only enable this feature if you are sure all your subdomains are configured for HTTPS with valid certificates.';
 $Definition['Security.Hsts.IncludeSubDomains'] = 'When enabled, this rule applies to all of your site\'s subdomains as well.';
 $Definition['Security.Hsts.MaxAgeRecommendation'] = 'We recommend starting with a max age of 1 week and then increasing it to 1 month then 1 year once you see your site works as expected.';
@@ -498,7 +517,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 
 $Definition['Unanswered Questions'] = 'Unanswered';
 $Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
-$Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. &lsquo;*@hotmail.com&rsquo;';
+$Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. "*@gmail.com"';
 $Definition['User Count'] = 'Users';
 $Definition['UserDelete'] = 'Remove User Content';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
@@ -589,9 +608,12 @@ $Definition['You can place files in your /uploads folder.'] = 'If your file is t
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
 $Definition['You can specify a whitelist of trusted domains.'] = 'You can specify a whitelist of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
+$Definition['You don\'t have a password.'] = 'Your account does not have a password assigned to it yet. Click <a href="%s">here</a> to set your password.';
 $Definition['YouEarnedBadge'] = 'You earned this badge';
 $Definition['You have to be around for a little while longer before you can post links.'] = 'You have to be around for a little while longer before you can post external links.';
+$Definition['You need to add the font url’s domain to <0>AllowedDomains</0>, in the site\'s configuration. <1>Learn more about custom fonts.</1>.'] = 'You need to add the font url’s domain to <0>Allowed Domains</0> in the site\'s configuration. <1>Learn more about custom fonts.</1>';
 $Definition['You need to confirm your email address.'] = 'You need to confirm your email address. Click <a href="{/entry/emailconfirmrequest,url}">here</a> to resend the confirmation email.';
+$Definition['You need to reset your password.'] = 'You need to reset your password. This is most likely because an administrator recently changed your account information. Click <a href="%s">here</a> to reset your password.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
 $Definition['Your mobile theme will be disabled.'] = 'Your mobile theme will be disabled. To set different mobile and desktop themes, use the old theming UI.';
 $Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';

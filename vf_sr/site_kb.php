@@ -37,6 +37,7 @@ $Definition["Browse"] = "Претражите";
 $Definition["By <0/>"] = "Od <0/>";
 
 $Definition["category"] = "kategorija";
+$Definition["Categories"] = "Kategorije";
 $Definition["Category One"] = "Kategorija 1";
 $Definition["Category Options"] = "Opcije kategorija";
 $Definition["Category Two"] = "Kategorija Dva";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Сортирај чланке";
 $Definition["Sorting method for articles."] = "Начин сортирања чланака.";
 $Definition["Sub folder"] = "Podfolder";
 $Definition["Subcategories"] = "Podkategorije";
+$Definition["sub-categories"] = "поткатегорије";
+$Definition["sub-category"] = "поткатегорија";
 
 $Definition["Thanks for your feedback!"] = "Hvala na vašoj povratnoj informaciji! ";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Слика банера која се користи на изборнику базе знања. Ово се може поништити на основу базе знања. Препоручене димензије су око 1000пк од 400пк или сличан однос.";

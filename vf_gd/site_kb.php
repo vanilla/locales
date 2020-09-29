@@ -37,6 +37,7 @@ $Definition["Browse"] = "Dèan brobhsadh";
 $Definition["By <0/>"] = "Le <0 />";
 
 $Definition["category"] = "roinn-seòrsa";
+$Definition["Categories"] = "Categories";
 $Definition["Category One"] = "Roinn a h-Aon";
 $Definition["Category Options"] = "Roghainnean roinn-seòrsa";
 $Definition["Category Two"] = "Roinn a Dhà";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "Deasachadh artaigilean";
 $Definition["Sorting method for articles."] = "Modh seòlaidh airson artaigilean.";
 $Definition["Sub folder"] = "Fo-phasgan";
 $Definition["Subcategories"] = "Fo-roinnean";
+$Definition["sub-categories"] = "fo-roinnean";
+$Definition["sub-category"] = "fo-roinn";
 
 $Definition["Thanks for your feedback!"] = "Taing airson do bheachdan!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "An ìomhaigh bratach ri chleachdadh air an neach-taghaidh bunait eòlais. Faodar seo a thoirt thairis air bunait per-knoweldge. Tha na tomhasan a tha air am moladh mu 1000px le 400px no co-mheas coltach.";

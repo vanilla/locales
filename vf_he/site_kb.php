@@ -37,6 +37,7 @@ $Definition["Browse"] = "עיון";
 $Definition["By <0/>"] = "ב-<0/>";
 
 $Definition["category"] = "קטגוריה";
+$Definition["Categories"] = "קטגוריות";
 $Definition["Category One"] = "קטגוריה מס' אחת";
 $Definition["Category Options"] = "אפשרויות קטגוריה";
 $Definition["Category Two"] = "קטגוריה שתיים";
@@ -144,6 +145,8 @@ $Definition["Sort Articles"] = "מיון מאמרים";
 $Definition["Sorting method for articles."] = "ממיין שיטה למאמרים.";
 $Definition["Sub folder"] = "תיקיית משנה";
 $Definition["Subcategories"] = "תת-קטגוריות";
+$Definition["sub-categories"] = "תת קטגוריות";
+$Definition["sub-category"] = "קטגוריית משנה";
 
 $Definition["Thanks for your feedback!"] = "תודה על המשוב!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "תמונת הכרזה לשימוש על בוחר מאגר הידע. ניתן להחליפה לכל מאגר ידע בנפרד. המידות המומלצות הן כ-1000 פיקסל על 400 פיקסל או יחס דומה.";

@@ -117,7 +117,8 @@ $Definition['Learn about custom routing.'] = 'Aprenda sobre roteamento personali
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda como alterar completamente a aparência do seu fórum: enviar seu logo, configurar sua página principal, escolher um tema e customizá-lo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a como usar as funções básicos do seu fórum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'As localizações ajudam a suportar outras línguas no seu site. Ative ou desative as localizações que pretende disponibilizar aqui.';
-$Definition['LogoDescription'] = 'O logo aparece ao topo do seu site. Alguns temas podem não exibir este logo.';
+$Definition['LogoDescription'] = 'O logotipo do banner aparece na parte superior do seu site.';
+$Definition['LogoDisclaimer'] = 'Os temas criados com o editor de temas e alguns temas personalizados não usam essa configuração.';
 
 $Definition['Make sure you click View Page'] = 'Depois de gravar, assegure-se de que clica em <a href="%s">Ver Página</a> para ver como ficou o aspeto da sua página de categorias.';
 $Definition['Manage Routes'] = 'Gerir Rotas';
@@ -125,7 +126,7 @@ $Definition['Marking things as NOT spam will put them back in your forum.'] = 'M
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcando coisas como não sendo spam irá fazer com que elas voltem ao fórum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mensagens podem aparecer em qualquer lugar de sua aplicação, e podem ser usadas para informar usuários de novidades e eventos. Use esta página para organizar as mensagens movendo-as para cima ou para baixo.';
 $Definition['MobileLogoDescription'] =
-    'O logotipo do banner para celular aparece na parte superior do seu site. Alguns temas podem não exibir este logotipo.';
+    'O logotipo do banner para celular aparece na parte superior do seu site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Os temas para celular permitem que você altere a aparência do seu site em dispositivos menores.';
 
@@ -305,7 +306,7 @@ $Definition["Font Name"] = "Nome da fonte";
 $Definition["Invalid URL"] = "URL inválida";
 $Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Você pode fazer o upload de uma fonte personalizada em seu sistema de temas. Basta copiar e colar o URL no campo.";
 $Definition["You can configure some values differently for different screensizes."] = "Você pode configurar alguns valores de maneira diferente para diferentes tamanhos de tela.";
-$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Você precisa adicionar o domínio do URL da fonte a <0> AllowedDomains </0> , na configuração do site. <1> Saiba mais sobre fontes personalizadas. </1> .";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Você precisa adicionar o domínio do url da fonte a <0> Domínios permitidos </0> na configuração do site. <1> Saiba mais sobre fontes personalizadas. </1>";
 
 $Definition["Primary Buttons"] = "Botões primários";
 $Definition["Secondary Buttons"] = "Botões secundários";
