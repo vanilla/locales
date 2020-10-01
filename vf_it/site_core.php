@@ -604,6 +604,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Leggi l\'intera storia qui</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
+$Definition['Emoji Picker'] = 'Raccolta Emoji';
 $Definition['Emoji Categories'] = 'Categorie emoji';
 $Definition['Enable'] = 'Abilita';
 $Definition['Enabled'] = 'Abilitato';
