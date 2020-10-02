@@ -621,6 +621,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lee la historia completa aquí</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji Categories'] = 'Categorías de emojis';
+$Definition['Emoji Picker'] = 'Selector de Emoji';
 $Definition['Enable'] = 'Activar';
 $Definition['Enabled'] = 'Habilitado';
 $Definition['End time?'] = '¿Fin del tiempo?';

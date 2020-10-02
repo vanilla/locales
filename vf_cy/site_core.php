@@ -20,7 +20,6 @@ $Definition['%3$s approved %2$s membership application.'] = 'Cymeradwyodd %3$s g
 $Definition['%3$s created an account for %1$s.'] = 'Creodd %3$s gyfrif ar gyfer %1$s.';
 $Definition['%s (Current)'] = '%s (cyfredol)';
 $Definition['%s activities'] = '%s gweithgareddau';
-$Definition['%s activity'] = '%s gweithgaredd';
 $Definition['%s Agrees'] = 'Mae %s yn cytuno';
 $Definition['%s and %s others'] = '%s a %s arall';
 $Definition['%s and you'] = '%s a chi';
