@@ -607,6 +607,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lees het volledige verhaal hier</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
+$Definition['Emoji Picker'] = 'Emoji-kiezer';
 $Definition['Emoji Categories'] = 'Emoticoncategorieën';
 $Definition['Enable'] = 'Inschakelen';
 $Definition['Enabled'] = 'Ingeschakeld';
@@ -747,7 +748,7 @@ $Definition['Heading %s'] = 'Titel %s';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} heeft {NotifyUserID,your} antwoord aanvaard.';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user} heeft uw vraag beantwoord: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} Je hebt de <a href="{Url,html}">{Data.Name,text}</a> badge verdiend.';
-$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} heeft de <a href="{Url,html}">{Data.Name,text}</a> badge verdiend.';
+$Definition['HeadlineFormat.Badge.User'] = '{ActivityUserID,You} hebt de <a href="{Url,html}">{Data.Name,text}</a> badge verdiend.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} heeft {ActivityUserID,you} verbannen.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} reageerde op <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} stuurde je een  <a href="{Url,html}">bericht</a>';
@@ -1829,8 +1830,8 @@ $Definition['Write something about yourself...'] = 'Schrijf iets over jezelf...'
 $Definition['WTF'] = 'WTF';
 
 $Definition['Yes'] = 'Ja';
-$Definition['You'] = 'Jou';
-$Definition['you'] = 'jou';
+$Definition['You'] = 'Jij';
+$Definition['you'] = 'jij';
 $Definition['You\'re banned from joining this group.'] = 'U bent verboden om lid te worden van deze groep.';
 $Definition['You\'ve already created the maximum number of groups.'] = 'U heeft de maximum hoeveelheid aan groepen al aangemaakt.';
 $Definition['You\'ve applied to join this group.'] = 'U heeft u aangemeld om lid te worden van deze groep.';
