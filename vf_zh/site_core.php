@@ -608,6 +608,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">阅读全文</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = '表情符号';
+$Definition['Emoji Picker'] = '表情符号选择器';
 $Definition['Emoji Categories'] = '表情符类别';
 $Definition['Enable'] = '启用';
 $Definition['Enabled'] = '激活';
@@ -1420,9 +1421,9 @@ $Definition['Select Discussion'] = '选择讨论';
 $Definition['Select one of the following avatars:'] = '请选择以下头像之一：';
 $Definition['Send'] = '发送';
 $Definition['Send a New Message'] = '发送一条站内信';
-$Definition['Send me a follow up for my answered questions.'] = '请给我跟进我回答的问题。';
+$Definition['Send me a follow-up for my answered questions.'] = '给我跟进我回答的问题。';
 $Definition['Send Message'] = '发送站内信';
-$Definition['Send Q&A Follow Up Email'] = '发送问答跟进电子邮件';
+$Definition['Send Q&A Follow-up Email'] = '发送问答后续电子邮件';
 $Definition['Send Report'] = '发送报告';
 $Definition['Send report'] = '发送报告';
 $Definition['sep and'] = '和';
