@@ -611,6 +611,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lue koko juttu täältä</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
+$Definition['Emoji Picker'] = 'Emoji-valitsin';
 $Definition['Emoji Categories'] = 'Emoji-kategoriat';
 $Definition['Enable'] = 'Ota käyttöön';
 $Definition['Enabled'] = 'Käytössä';
@@ -1422,9 +1423,9 @@ $Definition['Select Discussion'] = 'Valitse keskustelu';
 $Definition['Select one of the following avatars:'] = 'Valitse yksi seuraavista profiilikuvista:';
 $Definition['Send'] = 'Lähetä';
 $Definition['Send a New Message'] = 'Lähetä uusi viesti';
-$Definition['Send me a follow up for my answered questions.'] = 'Lähetä minulle vastauksia kysymyksiini.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Lähetä minulle vastaus kysymyksiini.';
 $Definition['Send Message'] = 'Lähetä viesti';
-$Definition['Send Q&A Follow Up Email'] = 'Lähetä kysymysten ja vastausten seurannasähköposti';
+$Definition['Send Q&A Follow-up Email'] = 'Lähetä kysymysten ja vastausten seurantasähköposti';
 $Definition['Send Report'] = 'Raportoi';
 $Definition['Send report'] = 'Raportoi';
 $Definition['sep and'] = 'ja';
