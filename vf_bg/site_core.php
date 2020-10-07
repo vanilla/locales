@@ -609,6 +609,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Прочетете цялата история тук</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Емотикон';
+$Definition['Emoji Picker'] = 'Избор на емотикони';
 $Definition['Emoji Categories'] = 'Емоджи категории';
 $Definition['Enable'] = 'Разреши';
 $Definition['Enabled'] = 'Разрешен';
@@ -1420,9 +1421,9 @@ $Definition['Select Discussion'] = 'Изберете Дискусия';
 $Definition['Select one of the following avatars:'] = 'Изберете един от следните аватари:';
 $Definition['Send'] = 'Изпрати';
 $Definition['Send a New Message'] = 'Изпращане на ново съобщение';
-$Definition['Send me a follow up for my answered questions.'] = 'Изпратете ми проследяване на отговорите ми.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Изпратете ми проследяване на отговорените ми въпроси.';
 $Definition['Send Message'] = 'Изпращане на съобщението';
-$Definition['Send Q&A Follow Up Email'] = 'Изпращане на имейл за последващи въпроси и отговори';
+$Definition['Send Q&A Follow-up Email'] = 'Изпратете последващ имейл за въпроси и отговори';
 $Definition['Send Report'] = 'Изпратете доклад';
 $Definition['Send report'] = 'Изпратете доклад';
 $Definition['sep and'] = 'и';
