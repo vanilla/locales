@@ -606,6 +606,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">اقرأ القصة كاملةً هنا</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'رموز تعبيرية';
+$Definition['Emoji Picker'] = 'منتقي الرموز التعبيرية';
 $Definition['Emoji Categories'] = 'فئات الرموز التعبيرية';
 $Definition['Enable'] = 'تفعيل';
 $Definition['Enabled'] = 'نشط';
@@ -1419,9 +1420,9 @@ $Definition['Select Discussion'] = 'اختر مناقشة';
 $Definition['Select one of the following avatars:'] = 'اختر أحد هاته الصور الرمزية:';
 $Definition['Send'] = 'إرسال';
 $Definition['Send a New Message'] = 'أرسل رسالة جديدة';
-$Definition['Send me a follow up for my answered questions.'] = 'أرسل لي متابعة لأسئلتي التي أجبت عليها.';
+$Definition['Send me a follow-up for my answered questions.'] = 'أرسل لي متابعة لأسئلتي التي أجبت عليها.';
 $Definition['Send Message'] = 'إرسال رسالة';
-$Definition['Send Q&A Follow Up Email'] = 'أرسل رسالة إلكترونية للمتابعة للأسئلة والأجوبة';
+$Definition['Send Q&A Follow-up Email'] = 'إرسال بريد إلكتروني للمتابعة للأسئلة والأجوبة';
 $Definition['Send Report'] = 'إرسال التقرير';
 $Definition['Send report'] = 'أرسل التقرير';
 $Definition['sep and'] = 'و';
