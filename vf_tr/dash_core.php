@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'İnsanlar bir t
 $Definition['Notify me when people start new discussions.'] = 'İnsanlar yeni tartışmalara başladığında bana haber ver.';
 $Definition['Not Spam'] = 'Spam Değil';
 $Definition['Number of blocked registrations'] = 'Engellenen kayıt sayısı';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Bir takip e-postasının otomatik olarak gönderilmesinden önceki gün sayısı.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Bir takip e-postasının otomatik olarak gönderilmesinden önceki gün sayısı.';
 
 $Definition['On'] = 'Açık';
 $Definition['Only Allow Each User To Post'] = 'Sadece Her Bir Kullanıcıya Gönderi İzni Ver';

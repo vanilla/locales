@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Rhoi gwybod i m
 $Definition['Notify me when people start new discussions.'] = 'Rhoi gwybod i mi pan fydd pobl yn dechrau trafodaethau newydd.';
 $Definition['Not Spam'] = 'Nid sbam';
 $Definition['Number of blocked registrations'] = 'Nifer cofrestriadau wedi\'i rwystro';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Nifer y dyddiau cyn i e-bost dilynol gael ei anfon yn awtomatig.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Nifer y dyddiau cyn anfon e-bost dilynol yn awtomatig.';
 
 $Definition['On'] = 'Ymlaen';
 $Definition['Only Allow Each User To Post'] = 'Dim ond Caniatáu i Bob Defnyddiwr Postio';

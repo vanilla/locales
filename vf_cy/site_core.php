@@ -20,7 +20,6 @@ $Definition['%3$s approved %2$s membership application.'] = 'Cymeradwyodd %3$s g
 $Definition['%3$s created an account for %1$s.'] = 'Creodd %3$s gyfrif ar gyfer %1$s.';
 $Definition['%s (Current)'] = '%s (cyfredol)';
 $Definition['%s activities'] = '%s gweithgareddau';
-$Definition['%s activity'] = '%s gweithgaredd';
 $Definition['%s Agrees'] = 'Mae %s yn cytuno';
 $Definition['%s and %s others'] = '%s a %s arall';
 $Definition['%s and you'] = '%s a chi';
@@ -539,6 +538,7 @@ $Definition['Edit Discussion'] = 'Golygu trafodaeth';
 $Definition['edited %s'] = '%s wedi\'i olygu';
 $Definition['Edited %s by %s.'] = '%s wedi\'i olygu gan %s.';
 $Definition['Editing'] = 'Golygu';
+$Definition['Editing this field will require password entry'] = 'Bydd golygu\'r maes hwn yn gofyn am gofnod cyfrinair';
 $Definition['Edit My Account'] = 'Golygu fy nghyfrif';
 $Definition['Edit My Profile'] = 'Golygu fy mhroffil';
 $Definition['Edit My Thumbnail'] = 'Golygu fy mân-lun';
@@ -586,6 +586,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}"> darllenwch y stori llawn yma</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji Categories'] = 'Categorïau Emoji';
+$Definition['Emoji Picker'] = 'Codwr Emoji';
 $Definition['Enable'] = 'Galluogi';
 $Definition['Enabled'] = 'Galluogi';
 $Definition['End time?'] = 'Amser gorffen?';
@@ -1404,9 +1405,9 @@ $Definition['Select Discussion'] = 'Dewis Trafodaeth';
 $Definition['Select one of the following avatars:'] = 'Dewiswch un o\'r rhithffurfiau canlynol:';
 $Definition['Send'] = 'Anfon';
 $Definition['Send a New Message'] = 'Anfon neges newydd';
-$Definition['Send me a follow up for my answered questions.'] = 'Anfonwch ddilyniant ataf ar gyfer fy nghwestiynau a atebwyd.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Anfonwch ddilyniant ataf ar gyfer fy nghwestiynau a atebwyd.';
 $Definition['Send Message'] = 'Anfon neges';
-$Definition['Send Q&A Follow Up Email'] = 'Anfonwch E-bost Dilynol Holi ac Ateb';
+$Definition['Send Q&A Follow-up Email'] = 'Anfonwch E-bost Dilynol Holi ac Ateb';
 $Definition['Send Report'] = 'Anfon adroddiad';
 $Definition['Send report'] = 'Anfon adroddiad';
 $Definition['sep and'] = 'ac';

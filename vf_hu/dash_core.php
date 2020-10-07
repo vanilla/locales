@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Értesítsenek,
 $Definition['Notify me when people start new discussions.'] = 'Értesítsenek, ha új beszélgetés indul';
 $Definition['Not Spam'] = 'Nem spam';
 $Definition['Number of blocked registrations'] = 'Zárolt regisztrációk száma';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'A követő e-mail automatikus elküldése előtti napok száma.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Az utólagos e-mail automatikus elküldése előtti napok száma.';
 
 $Definition['On'] = 'Rajta';
 $Definition['Only Allow Each User To Post'] = 'Minden felhasználó csak ennyi bejegyzést hozhat létre';

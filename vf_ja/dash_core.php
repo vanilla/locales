@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Notify me when 
 $Definition['Notify me when people start new discussions.'] = 'Notify me when people start new discussions.';
 $Definition['Not Spam'] = 'Not Spam';
 $Definition['Number of blocked registrations'] = 'Number of blocked registrations';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'フォローアップメールが自動的に送信されるまでの日数。';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'フォローアップメールが自動的に送信されるまでの日数。';
 
 $Definition['On'] = 'オン';
 $Definition['Only Allow Each User To Post'] = '1 ユーザーにつき投稿可能な件数';
