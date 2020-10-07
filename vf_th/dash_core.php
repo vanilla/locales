@@ -545,7 +545,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'แจ้งเ
 $Definition['Notify me when people start new discussions.'] = 'แจ้งเตือนฉันเมื่อมีคนเริ่มการสนทนาใหม่';
 $Definition['Not Spam'] = 'ไม่ใช่สแปม';
 $Definition['Number of blocked registrations'] = 'จำนวนการลงทะเบียนที่ถูกบล็อก';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'จำนวนวันก่อนที่อีเมลติดตามจะถูกส่งโดยอัตโนมัติ';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'จำนวนวันก่อนที่อีเมลติดตามจะถูกส่งโดยอัตโนมัติ';
 
 $Definition['On'] = 'เปิด';
 $Definition['Only Allow Each User To Post'] = 'อนุญาตให้ผู้ใช้แต่ละคนโพสต์เท่านั้น';
