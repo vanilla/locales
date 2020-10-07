@@ -606,6 +606,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image }<
 <p>{Excerpt}</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן </a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'אמוג׳י';
+$Definition['Emoji Picker'] = 'בוחר אימוג\'י';
 $Definition['Emoji Categories'] = 'קטגוריות אימוג׳י';
 $Definition['Enable'] = 'הפעלה';
 $Definition['Enabled'] = 'מאופשר';
@@ -1422,9 +1423,9 @@ $Definition['Select Discussion'] = 'בחר דיון';
 $Definition['Select one of the following avatars:'] = 'בחר אחד מהאווטארים הבאים:';
 $Definition['Send'] = 'שלח';
 $Definition['Send a New Message'] = 'שלח הודעה חדשה';
-$Definition['Send me a follow up for my answered questions.'] = 'שלח לי מעקב לשאלות שנענו.';
+$Definition['Send me a follow-up for my answered questions.'] = 'שלח לי מעקב לשאלות שעניתי.';
 $Definition['Send Message'] = 'שלח הודעה';
-$Definition['Send Q&A Follow Up Email'] = 'שלח דוא"ל למעקב אחר שאלות ותשובות';
+$Definition['Send Q&A Follow-up Email'] = 'שלח דוא"ל מעקב אחר שאלות ותשובות';
 $Definition['Send Report'] = 'דווח';
 $Definition['Send report'] = 'דווח';
 $Definition['sep and'] = 'ו';
