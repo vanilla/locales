@@ -551,7 +551,6 @@ $Definition['Notify me when people comment on a discussion.'] = 'Ngazise lapho a
 $Definition['Notify me when people start new discussions.'] = 'Ngazise lapho abantu beqala izingxoxo ezintsha.';
 $Definition['Not Spam'] = 'Hhayi ugaxekile';
 $Definition['Number of blocked registrations'] = 'Inani lokubhalisa elivinjelwe';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Inani lezinsuku ngaphambi kokulandela i-imeyili kuthunyelwa ngokuzenzakalelayo.';
 
 $Definition['On'] = 'Eduze';
 $Definition['Only Allow Each User To Post'] = 'Vumela kuphela umsebenzisi ngamunye ukuthi athumele';

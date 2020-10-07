@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Notify me when 
 $Definition['Notify me when people start new discussions.'] = 'Notify me when people start new discussions.';
 $Definition['Not Spam'] = 'Not Spam';
 $Definition['Number of blocked registrations'] = 'Number of blocked registrations';
-$Definition['Number of days before a follow up email is automatically sent.'] = '후속 이메일이 자동으로 전송되기까지의 일 수입니다.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = '후속 이메일이 자동으로 전송되기까지의 일 수입니다.';
 
 $Definition['On'] = '켜짐';
 $Definition['Only Allow Each User To Post'] = '회원별 게시글 제한사항';

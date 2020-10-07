@@ -545,7 +545,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Уведоме�
 $Definition['Notify me when people start new discussions.'] = 'Уведомете ме, когато хората започнат нови дискусии.';
 $Definition['Not Spam'] = 'Не е спам';
 $Definition['Number of blocked registrations'] = 'Брой блокирани регистрации';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Брой дни преди автоматично изпращане на имейл.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Брой дни преди автоматично изпращане на последващ имейл.';
 
 $Definition['On'] = 'Включено';
 $Definition['Only Allow Each User To Post'] = 'Разрешаване само на всеки потребител да публикува';

@@ -547,7 +547,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'أعلمني ع
 $Definition['Notify me when people start new discussions.'] = 'أبلغني عندما يبدأ الناس مناقشات جديدة.';
 $Definition['Not Spam'] = 'ليس بريدا موذيا';
 $Definition['Number of blocked registrations'] = 'عدد التسجيلات الممنوعة';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'عدد الأيام قبل إرسال بريد إلكتروني للمتابعة تلقائيًا.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'عدد الأيام قبل إرسال بريد إلكتروني للمتابعة تلقائيًا.';
 
 $Definition['On'] = 'تشغيل';
 $Definition['Only Allow Each User To Post'] = 'السماح فقط لكل مستخدم بالنشر';

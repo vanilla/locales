@@ -540,6 +540,7 @@ $Definition['Edit Discussion'] = 'Izmeni diskusiju';
 $Definition['edited %s'] = 'unete izmene %s';
 $Definition['Edited %s by %s.'] = 'Izmenjeno %s od strane %s.';
 $Definition['Editing'] = 'Izmene';
+$Definition['Editing this field will require password entry'] = 'За уређивање овог поља биће потребан унос лозинке';
 $Definition['Edit My Account'] = 'Uredi moj nalog';
 $Definition['Edit My Profile'] = 'Ažurirati profil';
 $Definition['Edit My Thumbnail'] = 'Ažurirati ikonicu';
@@ -610,6 +611,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Ovde pročitajte celu priču</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji Categories'] = 'Emodži kategorije';
+$Definition['Emoji Picker'] = 'Бирач емоџија';
 $Definition['Emojis'] = 'Emodžiji';
 $Definition['Enable'] = 'Omogućite';
 $Definition['Enabled'] = 'Omogućen';
@@ -1435,9 +1437,9 @@ $Definition['Select Discussion'] = 'Изаберите Дискусија';
 $Definition['Select one of the following avatars:'] = 'Izaberi jedan od sledećih avatara:';
 $Definition['Send'] = 'Pošalji';
 $Definition['Send a New Message'] = 'Pošalji novu poruku';
-$Definition['Send me a follow up for my answered questions.'] = 'Пошаљите ми праћење одговора на моја питања.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Пошаљите ми наставак за моја одговорена питања.';
 $Definition['Send Message'] = 'Pošalji poruku';
-$Definition['Send Q&A Follow Up Email'] = 'Пошаљите К&А праћење е-поште';
+$Definition['Send Q&A Follow-up Email'] = 'Пошаљите е-маил са додатним питањима';
 $Definition['Send Report'] = 'Pošalji izveštaj';
 $Definition['Send report'] = 'Pošalji izveštaj';
 $Definition['sep and'] = 'i';

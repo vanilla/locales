@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = '有人在討論
 $Definition['Notify me when people start new discussions.'] = '如果有人開啟新討論串時請通知我。';
 $Definition['Not Spam'] = '不是垃圾文章';
 $Definition['Number of blocked registrations'] = '已被封鎖的註冊次數';
-$Definition['Number of days before a follow up email is automatically sent.'] = '自動發送跟進電子郵件的天數。';
+$Definition['Number of days before a follow-up email is automatically sent.'] = '自動發送後續電子郵件之前的天數。';
 
 $Definition['On'] = '時間';
 $Definition['Only Allow Each User To Post'] = '只允許每個會員發送';
