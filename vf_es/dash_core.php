@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Notificarme cua
 $Definition['Notify me when people start new discussions.'] = 'Notificarme cuando las personas inicien nuevas discusiones. ';
 $Definition['Not Spam'] = 'No Spam';
 $Definition['Number of blocked registrations'] = 'Número de registros bloqueados. ';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Número de días antes de que se envíe automáticamente un correo electrónico de seguimiento.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Número de días antes de que se envíe automáticamente un correo electrónico de seguimiento.';
 
 $Definition['On'] = 'En';
 $Definition['Only Allow Each User To Post'] = 'Solo permitir a cada usuario enviar';
