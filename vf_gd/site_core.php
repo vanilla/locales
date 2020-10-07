@@ -604,6 +604,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Leugh an sgeulachd shlàn an-seo</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
+$Definition['Emoji Picker'] = 'Neach-togail Emoji';
 $Definition['Emoji Categories'] = 'Roinnean Emoji';
 $Definition['Enable'] = 'Enable';
 $Definition['Enabled'] = 'Enabled';
@@ -1415,9 +1416,9 @@ $Definition['Select Discussion'] = 'Tagh Còmhradh';
 $Definition['Select one of the following avatars:'] = 'Select one of the following avatars:';
 $Definition['Send'] = 'Cuir';
 $Definition['Send a New Message'] = 'Send a New Message';
-$Definition['Send me a follow up for my answered questions.'] = 'Cuir thugam leanmhainn airson na ceistean a fhreagair mi.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Cuir thugam leanmhainn airson na ceistean a fhreagair mi.';
 $Definition['Send Message'] = 'Send Message';
-$Definition['Send Q&A Follow Up Email'] = 'Cuir post-d Q&A';
+$Definition['Send Q&A Follow-up Email'] = 'Cuir post-d leanmhainn Q&A';
 $Definition['Send Report'] = 'Send Report';
 $Definition['Send report'] = 'Send report';
 $Definition['sep and'] = 'agus';
