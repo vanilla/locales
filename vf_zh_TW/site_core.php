@@ -606,6 +606,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">在這裡閱讀全文</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = '表情符號';
+$Definition['Emoji Picker'] = '表情符號選擇器';
 $Definition['Emoji Categories'] = '表情圖示類別';
 $Definition['Enable'] = '啟用';
 $Definition['Enabled'] = '啟用';
@@ -1420,9 +1421,9 @@ $Definition['Select Discussion'] = '選取討論';
 $Definition['Select one of the following avatars:'] = '請從下列頭像中選擇一個：';
 $Definition['Send'] = '傳送';
 $Definition['Send a New Message'] = '發送新信息';
-$Definition['Send me a follow up for my answered questions.'] = '請給我跟進我回答的問題。';
+$Definition['Send me a follow-up for my answered questions.'] = '給我跟進我回答的問題。';
 $Definition['Send Message'] = '發送訊息';
-$Definition['Send Q&A Follow Up Email'] = '發送問答跟進電子郵件';
+$Definition['Send Q&A Follow-up Email'] = '發送問答後續電子郵件';
 $Definition['Send Report'] = '發送報告';
 $Definition['Send report'] = '發送報告';
 $Definition['sep and'] = '與';
