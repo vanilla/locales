@@ -604,6 +604,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Prečítaj si celý článok tu</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
+$Definition['Emoji Picker'] = 'Výber emodži';
 $Definition['Emoji Categories'] = 'Kategórie emojis';
 $Definition['Enable'] = 'Zapnuté';
 $Definition['Enabled'] = 'Zapnuté';
@@ -1417,9 +1418,9 @@ $Definition['Select Discussion'] = 'Vybrať diskusiu';
 $Definition['Select one of the following avatars:'] = 'Vybrať jeden z nasledujúcich avatarov:';
 $Definition['Send'] = 'Poslať';
 $Definition['Send a New Message'] = 'Poslať novú správu';
-$Definition['Send me a follow up for my answered questions.'] = 'Pošlite mi odpoveď na svoje odpovede na otázky.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Zašlite mi odpoveď na moje zodpovedané otázky.';
 $Definition['Send Message'] = 'Poslať správu';
-$Definition['Send Q&A Follow Up Email'] = 'Poslať e-mail s odpoveďami na otázky a odpovede';
+$Definition['Send Q&A Follow-up Email'] = 'Pošlite následný e-mail s otázkami a odpoveďami';
 $Definition['Send Report'] = 'Poslať reportáž';
 $Definition['Send report'] = 'Nahlásiť';
 $Definition['sep and'] = 'a';
