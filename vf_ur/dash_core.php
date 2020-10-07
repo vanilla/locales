@@ -545,7 +545,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'جب لوگ ب�
 $Definition['Notify me when people start new discussions.'] = 'جب لوگ نئی بحثیں شروع کرتے ہیں تو مجھے مطلع کریں۔';
 $Definition['Not Spam'] = 'اسپام نہیں';
 $Definition['Number of blocked registrations'] = 'مسدود شدہ رجسٹریشنوں کی تعداد';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'فالو اپ ای میل خود بخود بھیجنے سے پہلے دن کی تعداد۔';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'فالو اپ ای میل خود بخود بھیجنے سے پہلے دن کی تعداد۔';
 
 $Definition['On'] = 'پر';
 $Definition['Only Allow Each User To Post'] = 'صرف ہر صارف کو پوسٹ کرنے کی اجازت دیں';
