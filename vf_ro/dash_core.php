@@ -550,7 +550,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Anunţă-mă c�
 $Definition['Notify me when people start new discussions.'] = 'Anunță-mă atunci când oamenii încep o nouă discuţie';
 $Definition['Not Spam'] = 'Nu e Spam';
 $Definition['Number of blocked registrations'] = 'Numărul de înregistrări blocate';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Număr de zile înainte ca un e-mail de urmărire să fie trimis automat.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Numărul de zile înainte de trimiterea automată a unui e-mail de urmărire.';
 
 $Definition['On'] = 'pe';
 $Definition['Only Allow Each User To Post'] = 'Permite utilizatorilor să posteze';
