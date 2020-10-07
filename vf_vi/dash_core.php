@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Thông báo cho
 $Definition['Notify me when people start new discussions.'] = 'Thông báo cho tôi khi mọi người bắt đầu một bài đăng mới.';
 $Definition['Not Spam'] = 'Không phải thư rác';
 $Definition['Number of blocked registrations'] = 'Số đăng ký bị chặn';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Số ngày trước khi email tiếp theo được tự động gửi.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Số ngày trước khi email tiếp theo được tự động gửi.';
 
 $Definition['On'] = 'Bật';
 $Definition['Only Allow Each User To Post'] = 'Ch? cho ph';
