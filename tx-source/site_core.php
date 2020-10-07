@@ -844,6 +844,7 @@ $Definition['Invite Members'] = 'Invite Members';
 $Definition['Invite one or more people to join this group.'] = 'Invite one or more people to join this group.';
 $Definition['IPAddress'] = 'IPAddress';
 $Definition['IP Address'] = 'IP Address';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'I confirm that I have permission to use the email addresses provided.';
 $Definition['I remember now!'] = 'I remember now!';
 $Definition['Italic'] = 'Italic';
 $Definition['Item'] = 'Item';
