@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Meddela mig nä
 $Definition['Notify me when people start new discussions.'] = 'Meddela mig när någon startar en ny diskussion.';
 $Definition['Not Spam'] = 'Ej spam';
 $Definition['Number of blocked registrations'] = 'Antal blockerade registreringar';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Antal dagar innan ett uppföljningsmeddelande automatiskt skickas.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Antal dagar innan ett uppföljande e-postmeddelande skickas automatiskt.';
 
 $Definition['On'] = 'På';
 $Definition['Only Allow Each User To Post'] = 'Tillåt endast varje användare att göra inlägg';
