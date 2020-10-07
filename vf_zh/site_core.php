@@ -620,6 +620,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">阅读全文</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = '表情符号';
+$Definition['Emoji Picker'] = '表情符号选择器';
 $Definition['Emoji Categories'] = '表情符类别';
 $Definition['Emoji Picker'] = '表情符号选择器';
 $Definition['Emojis'] = '表情符号';

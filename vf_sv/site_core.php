@@ -608,6 +608,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Läs hela berättelsen här}</a></p><div class="ClearFix"></div></div>';
+$Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Emojikategorier';
 $Definition['Emoji Picker'] = 'Emoji-plockare';
 $Definition['Emojis'] = 'Emojier';

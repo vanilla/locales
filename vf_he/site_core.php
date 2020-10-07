@@ -614,6 +614,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image }<
 <p>{Excerpt}</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן </a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'אמוג׳י';
+$Definition['Emoji Picker'] = 'בוחר אימוג\'י';
 $Definition['Emoji Categories'] = 'קטגוריות אימוג׳י';
 $Definition['Emoji Picker'] = 'בוחר אימוג\'י';
 $Definition['Emojis'] = 'אמוג\'ים';

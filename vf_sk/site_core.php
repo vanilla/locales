@@ -603,6 +603,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Prečítaj si celý článok tu</a></p><div class="ClearFix"></div></div>';
+$Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Kategórie emojis';
 $Definition['Emoji Picker'] = 'Výber emodži';
 $Definition['Emojis'] = 'Emoji';
