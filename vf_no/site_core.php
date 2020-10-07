@@ -606,6 +606,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Les hele historien her</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
+$Definition['Emoji Picker'] = 'Emoji Picker';
 $Definition['Emoji Categories'] = 'Emoji-kategorier';
 $Definition['Enable'] = 'Enable';
 $Definition['Enabled'] = 'Enabled';
@@ -1422,9 +1423,9 @@ $Definition['Select Discussion'] = 'Velg diskusjon';
 $Definition['Select one of the following avatars:'] = 'Velg en av følgende avatarer:';
 $Definition['Send'] = 'Send';
 $Definition['Send a New Message'] = 'Send en ny melding. ';
-$Definition['Send me a follow up for my answered questions.'] = 'Send meg en oppfølging av svarene mine.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Send meg en oppfølging av mine besvarte spørsmål.';
 $Definition['Send Message'] = 'Send melding';
-$Definition['Send Q&A Follow Up Email'] = 'Send Spørsmål og svar e-post';
+$Definition['Send Q&A Follow-up Email'] = 'Send oppfølgings-e-post for spørsmål og svar';
 $Definition['Send Report'] = 'Send rapport';
 $Definition['Send report'] = 'Send rapport';
 $Definition['sep and'] = 'og';
