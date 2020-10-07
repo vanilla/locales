@@ -608,6 +608,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Διαβάστε ολόκληρη την ιστορία εδώ</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Χαρακτήρες Emoji';
+$Definition['Emoji Picker'] = 'Εργαλείο επιλογής Emoji';
 $Definition['Emoji Categories'] = 'Κατηγορίες των Emoji ';
 $Definition['Enable'] = 'Ενεργοποίηση';
 $Definition['Enabled'] = 'Ενεργοποιημένο';
@@ -1425,9 +1426,9 @@ $Definition['Select Discussion'] = 'Επιλογή Συζήτησης';
 $Definition['Select one of the following avatars:'] = 'Επιλέξτε ένα από τα ακόλουθα άβαταρ:';
 $Definition['Send'] = 'Αποστολή';
 $Definition['Send a New Message'] = 'Στείλτε ένα Νέο Μήνυμα';
-$Definition['Send me a follow up for my answered questions.'] = 'Στείλτε μου συνέχεια για τις απαντήσεις μου.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Στείλτε μου συνέχεια για τις απαντήσεις μου.';
 $Definition['Send Message'] = 'Αποστολή Μηνύματος';
-$Definition['Send Q&A Follow Up Email'] = 'Αποστολή ερωτήματος ηλεκτρονικού ταχυδρομείου παρακολούθησης';
+$Definition['Send Q&A Follow-up Email'] = 'Αποστολή ερωτήματος ηλεκτρονικού ταχυδρομείου παρακολούθησης';
 $Definition['Send Report'] = 'Αποστολή Αναφοράς';
 $Definition['Send report'] = 'Στείλτε αναφορά';
 $Definition['sep and'] = 'και';
