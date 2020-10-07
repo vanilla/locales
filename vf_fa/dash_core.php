@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'هنگامي ك
 $Definition['Notify me when people start new discussions.'] = 'هنگامي كه اشخاص گفتگويي را آغاز ميكنند به من اطلاع رساني شود.';
 $Definition['Not Spam'] = 'هرزنامه نيست';
 $Definition['Number of blocked registrations'] = 'تعداد عضويت مسدود شده';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'تعداد روز قبل از ارسال ایمیل پیگیری به طور خودکار.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'تعداد روزهای قبل از ارسال ایمیل پیگیری به طور خودکار.';
 
 $Definition['On'] = 'روشن';
 $Definition['Only Allow Each User To Post'] = 'هر کاربر چندتا بفرستد؟';
