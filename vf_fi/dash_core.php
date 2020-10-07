@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Lähetä ilmoit
 $Definition['Notify me when people start new discussions.'] = 'Lähetä ilmoitus uusista keskusteluista.';
 $Definition['Not Spam'] = 'Ei roskaviesti';
 $Definition['Number of blocked registrations'] = 'Estettyjen rekisteröitymisten määrä';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Päivien lukumäärä ennen seurantatiedotteen lähettämistä automaattisesti.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Päivien lukumäärä, ennen kuin jatkosähköposti lähetetään automaattisesti.';
 
 $Definition['On'] = 'Käytössä';
 $Definition['Only Allow Each User To Post'] = 'Salli jokaisen jäsenen vain lähettää';
