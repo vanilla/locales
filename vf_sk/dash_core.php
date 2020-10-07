@@ -553,7 +553,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'UpozorniŤ ma, 
 $Definition['Notify me when people start new discussions.'] = 'Upozorniť, keď osoby začnú nové diskusie.';
 $Definition['Not Spam'] = 'Nie je spam';
 $Definition['Number of blocked registrations'] = 'Počet blokovaných registrácií';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Počet dní pred automatickým odoslaním kontrolného e-mailu.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Počet dní pred automatickým odoslaním následného e-mailu.';
 
 $Definition['On'] = 'Zapnuté';
 $Definition['Only Allow Each User To Post'] = 'Iba povoliť uverejňovanie príspevkov každému používateľovi';
