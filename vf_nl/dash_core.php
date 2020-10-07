@@ -554,7 +554,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Stel mij op de 
 $Definition['Notify me when people start new discussions.'] = 'Stel mij op de hoogte wanneer mensen nieuwe discussies starten.';
 $Definition['Not Spam'] = 'Geen spam';
 $Definition['Number of blocked registrations'] = 'Aantal geblokkeerde registraties';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Aantal dagen voordat automatisch een vervolgmail wordt verzonden.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Aantal dagen voordat automatisch een vervolgmail wordt verzonden.';
 
 $Definition['On'] = 'Op';
 $Definition['Only Allow Each User To Post'] = 'Sta toe dat elke Gebruiker alleen ... kan plaatsen';
