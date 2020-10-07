@@ -603,6 +603,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lies die gesamte Nachricht hier</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emoji';
+$Definition['Emoji Picker'] = 'Emoji Picker';
 $Definition['Emoji Categories'] = 'Emoji-Kategorien';
 $Definition['Enable'] = 'Aktivieren';
 $Definition['Enabled'] = 'Aktiviert';
@@ -1414,9 +1415,9 @@ $Definition['Select Discussion'] = 'Diskussion auswählen';
 $Definition['Select one of the following avatars:'] = 'Wähle einen der folgenden Profilbilder';
 $Definition['Send'] = 'Senden';
 $Definition['Send a New Message'] = 'Neue Nachricht senden';
-$Definition['Send me a follow up for my answered questions.'] = 'Senden Sie mir ein Follow-up für meine beantworteten Fragen.';
+$Definition['Send me a follow-up for my answered questions.'] = 'Senden Sie mir ein Follow-up für meine beantworteten Fragen.';
 $Definition['Send Message'] = 'Nachricht senden';
-$Definition['Send Q&A Follow Up Email'] = 'Senden Sie Fragen und Antworten';
+$Definition['Send Q&A Follow-up Email'] = 'Senden Sie eine E-Mail mit Fragen und Antworten';
 $Definition['Send Report'] = 'Beitrag absenden';
 $Definition['Send report'] = 'Beitrag absenden';
 $Definition['sep and'] = 'und';
