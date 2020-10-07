@@ -553,7 +553,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Ειδοποί�
 $Definition['Notify me when people start new discussions.'] = 'Ειδοποίησέ με όταν οι άλλοι ξεκινούν μία συζήτηση.';
 $Definition['Not Spam'] = 'Όχι Spam';
 $Definition['Number of blocked registrations'] = 'Πλήθος μπλοκαρισμένω εγγραφών';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Αριθμός ημερών πριν από την αυτόματη αποστολή email.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Αριθμός ημερών πριν από την αυτόματη αποστολή ηλεκτρονικού ταχυδρομείου παρακολούθησης.';
 
 $Definition['On'] = 'Ναι';
 $Definition['Only Allow Each User To Post'] = 'Να Επιτρέπετια Μόνο Σε Κάθε Χρήστη Να Δημοσιεύει';
