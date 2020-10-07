@@ -551,7 +551,7 @@ $Definition['Notify me when people comment on a discussion.'] = 'Beritahu saya s
 $Definition['Notify me when people start new discussions.'] = 'Beritahu saya saat orang-orang memulai diskusi baru.';
 $Definition['Not Spam'] = 'Bukan Spam';
 $Definition['Number of blocked registrations'] = 'Jumlah pendaftaran yang diblok';
-$Definition['Number of days before a follow up email is automatically sent.'] = 'Jumlah hari sebelum email tindak lanjut dikirim secara otomatis.';
+$Definition['Number of days before a follow-up email is automatically sent.'] = 'Jumlah hari sebelum email tindak lanjut dikirim secara otomatis.';
 
 $Definition['On'] = 'Pada';
 $Definition['Only Allow Each User To Post'] = 'Hanya Perkenankan Mengirim Untuk Setiap Penggunanya';
