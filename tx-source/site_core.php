@@ -347,6 +347,7 @@ $Definition['CategoryID'] = 'Category';
 $Definition['Category List'] = 'Category List';
 $Definition['Category Management'] = 'Category Management';
 $Definition['Category marked as viewed.'] = 'Category marked as viewed.';
+$Definition['CategoryNotificationDetails'] = 'Only the top two levels of categories are displayed. For more deeply nested categories, you will receive notifications if you select their parent category.';
 $Definition['Category Notifications'] = 'Category Notifications';
 $Definition['Category to Use'] = 'Category to Use';
 $Definition['Change'] = 'Change';
