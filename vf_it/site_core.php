@@ -347,6 +347,7 @@ $Definition['CategoryID'] = 'Categoria';
 $Definition['Category List'] = 'Lista categorie';
 $Definition['Category Management'] = 'Gestione delle Categorie';
 $Definition['Category marked as viewed.'] = 'Categoria segnata come visualizzata.';
+$Definition['CategoryNotificationDetails'] = 'Sono visualizzati solo i primi due livelli di categoria. Per le categorie ulteriormente nidificate, riceverai notifiche se selezioni la loro categoria principale.';
 $Definition['Category Notifications'] = 'Notifiche delle Categorie';
 $Definition['Category to Use'] = 'Categoria da Utilizzare';
 $Definition['Change'] = 'Cambia';
