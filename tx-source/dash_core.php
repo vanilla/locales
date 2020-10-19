@@ -217,6 +217,7 @@ $Definition['Consumer Secret'] = 'Consumer Secret';
 $Definition['Content Curation'] = 'Content Curation';
 $Definition['Content flagged as spam is stored here for moderator review.'] = 'Content flagged as spam is stored here for moderator review.';
 $Definition['Content Flagging'] = 'Content Flagging';
+$Definition['Content Security Domains'] = 'Content Security Domains';
 $Definition['Conversation Messages'] = 'Conversation Messages';
 $Definition['Conversations'] = 'Conversations';
 $Definition['Conversations Setup'] = 'Conversations Setup';
