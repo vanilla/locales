@@ -647,6 +647,7 @@ $Definition['Failed to delete group.'] = 'Impossibile eliminare il gruppo.';
 $Definition['Failed to find discussion for commenting.'] = 'Impossibile trovare la discussione per commentare.';
 $Definition['Failed to load the poll.'] = 'Impossibile caricare il sondaggio.';
 $Definition['Favorites'] = 'Preferiti';
+$Definition['Featured Categories'] = 'Categorie in Primo Piano';
 $Definition['Feedback'] = 'Feedback';
 $Definition['Female'] = 'Femmina';
 $Definition['Fifth Anniversary'] = 'Quinto Anniversario';
