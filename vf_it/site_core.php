@@ -752,8 +752,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} sei stato/a bannato {
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} ha commentato su <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} ti ha mandato un <a href="{Url,html}">messaggio </a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} ha cominciato una nuova discussione. <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user}ha iniziato un nuovo sondaggio in {Data.Category}:<a href="{Url,html}">{Data.Name,text}';
-$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user}ha postato una nuova domanda in {Data.Category}:<a href="{Url,html}">{Data.Name,text}';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} ha iniziato un nuovo sondaggio in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} ha pubblicato una nuova domanda in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ti ha citato/a su <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} hai cambiato l\'immagine del profilo per {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} ti sei unito/a.';
