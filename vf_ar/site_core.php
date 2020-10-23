@@ -606,7 +606,6 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">اقرأ القصة كاملةً هنا</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'رموز تعبيرية';
-$Definition['Emoji Picker'] = 'منتقي الرموز التعبيرية';
 $Definition['Emoji Categories'] = 'فئات الرموز التعبيرية';
 $Definition['Emoji Picker'] = 'منتقي الرموز التعبيرية';
 $Definition['Emojis'] = 'رموز تعبيرية';
@@ -650,6 +649,7 @@ $Definition['Failed to delete group.'] = 'فشل في حذف المجموعة';
 $Definition['Failed to find discussion for commenting.'] = 'لم يتم العثور على موضوع للتعليق.';
 $Definition['Failed to load the poll.'] = 'فشل تحميل هذا الاستطلاع.';
 $Definition['Favorites'] = 'المفضلة';
+$Definition['Featured Categories'] = 'فئات مميزة';
 $Definition['Feedback'] = 'ردود الفعل';
 $Definition['Female'] = 'أنثى';
 $Definition['Fifth Anniversary'] = 'الذكرى السنوية الخامسة';
@@ -764,6 +764,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} حظر {ActivityUserI
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} علّق على <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} أرسل لك <a href="{Url,html}"> رسالة </a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} بدأ استطلاع جديد في {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = 'نشر {ActivityUserID,user} سؤالا جديدا في {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ذكرك في <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} غيّر الصورة الشخصية ل{ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You}إنضم الى الموقع.';
@@ -796,6 +798,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'أنا أوافق على<a id="TermsOfService" class="Popup" target="terms" href="%s">شروط الإستخدام</a>';
 $Definition['Icon'] = 'أيقونة';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'أؤكد أن لدي إذنًا لاستخدام عناوين البريد الإلكتروني المقدمة.';
 $Definition['I confirm that I have received consent to join this community.'] = 'بما أنني أصغر من %d عاماً، أؤكد أنني قد تلقيت المُوَافَقَة على الانضمام إلى هذا المجتمع.';
 $Definition['Icon for: '] = 'رمز لـ:';
 $Definition['Idea'] = 'الفكرة';
@@ -1707,6 +1710,8 @@ $Definition['Updated By'] = 'تم التحديث بواسطة ';
 $Definition['Updates'] = 'التحديثات ';
 $Definition['Upload'] = 'تحميل';
 $Definition['Uploaded <0/>'] = 'تم تحميل <0/>';
+$Definition['Upload File'] = 'رفع ملف';
+$Definition['Upload Image'] = 'تحميل الصور';
 $Definition['Uploading...'] = 'تحميل ...';
 $Definition['Upload New Icon'] = 'تحميّل أيقونة جديدة';
 $Definition['Upload New Picture'] = 'تحميل صورة جديدة';

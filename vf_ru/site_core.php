@@ -676,6 +676,7 @@ $Definition['Failed to delete group.'] = 'Не удалось удалить г�
 $Definition['Failed to find discussion for commenting.'] = 'Не удалось найти дискуссию для комментариев.';
 $Definition['Failed to load the poll.'] = 'Ошибка загрузки опроса';
 $Definition['Favorites'] = 'Избранное';
+$Definition['Featured Categories'] = 'Избранные категории';
 $Definition['Feedback'] = 'Обратная связь';
 $Definition['Female'] = 'Женский';
 $Definition['Fifth Anniversary'] = 'Пятая годовщина';
@@ -793,6 +794,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} заблокиров�
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} оставил комментарий в <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} отправил вам <a href="{Url,html}">сообщение</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} начал новую дискуссию. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} начал новый опрос в {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} разместил новый вопрос в {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} упомянул вас в <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,user} изменил картинку профиля {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} на сайте.';
@@ -825,6 +828,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Соглашаюсь с <a id="TermsOfService" class="Popup" target="terms" href="%s">правилами</a> форума';
 $Definition['Icon'] = 'Иконка';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Я подтверждаю, что у меня есть разрешение на использование предоставленных адресов электронной почты.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Так как я не достиг возраста %d лет, я подтверждаю, что получил согласие присоединиться к этому сообществу.';
 $Definition['Icon for: '] = 'Значок для:';
 $Definition['Idea'] = 'Идея';
@@ -1486,6 +1490,7 @@ $Definition['Search Subcategories'] = 'Подкатегории поиска';
 $Definition['search subcategories'] = 'поиск подразделов';
 $Definition['Second Anniversary'] = 'Вторая годовщина';
 $Definition['Secret'] = 'Секрет';
+$Definition['SecretGroupDescription'] = 'Только участники могут видеть группу и просматривать ее содержимое. Людей нужно приглашать присоединиться.';
 $Definition['Sections'] = 'Секции';
 $Definition['Security Check'] = 'Проверка безопасности';
 $Definition['Select a %s'] = 'Выбрать %s';
@@ -1776,6 +1781,8 @@ $Definition['Updated By'] = 'Обновлено';
 $Definition['Updates'] = 'Обновления';
 $Definition['Upload'] = 'Загрузить';
 $Definition['Uploaded <0/>'] = 'Загружено <0/>';
+$Definition['Upload File'] = 'Загрузить файл';
+$Definition['Upload Image'] = 'Загрузить изображение';
 $Definition['Uploading...'] = 'Загрузка...';
 $Definition['Upload New Icon'] = 'Загрузить новую иконку';
 $Definition['Upload New Picture'] = 'Загрузить новую фотографию';

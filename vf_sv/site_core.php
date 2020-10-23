@@ -608,7 +608,6 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Läs hela berättelsen här}</a></p><div class="ClearFix"></div></div>';
-$Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Emojikategorier';
 $Definition['Emoji Picker'] = 'Emoji-plockare';
 $Definition['Emojis'] = 'Emojier';
@@ -651,6 +650,7 @@ $Definition['Failed to delete group.'] = 'Misslyckades att radera grupp.';
 $Definition['Failed to find discussion for commenting.'] = 'Hittade ingen diskussion att kommentera.';
 $Definition['Failed to load the poll.'] = 'Misslyckades att ladda omröstning.';
 $Definition['Favorites'] = 'Favoriter';
+$Definition['Featured Categories'] = 'Utvalda kategorier';
 $Definition['Feedback'] = 'Återkoppling';
 $Definition['Female'] = 'Kvinna';
 $Definition['Fifth Anniversary'] = 'Femte årsdagen';
@@ -762,6 +762,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} bannlyste {ActivityUs
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommenterade på <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} skickade dig ett <a href="{Url,html}">meddelande</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Startade en ny diskussion. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} startade en ny omröstning i {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} lade upp en ny fråga i {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} nämnde dig i <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} ändrade profilbilden för {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} gick med';
@@ -794,6 +796,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'H
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Jag accepterar <a id="TermsOfService" class="Popup" target="terms" href="%s">användarvillkoren.</a>';
 $Definition['Icon'] = 'Ikon';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Jag bekräftar att jag har tillstånd att använda de angivna e-postadresserna.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Eftersom jag är mindre än %d år gammal, jag bekräftar att jag har fått tillstånd att gå med i denna gemenskap. ';
 $Definition['Icon for: '] = 'Ikon för:';
 $Definition['Idea'] = 'Idé';
@@ -1702,6 +1705,8 @@ $Definition['Updated By'] = 'Uppdaterad av';
 $Definition['Updates'] = 'Uppdateringar';
 $Definition['Upload'] = 'Ladda upp';
 $Definition['Uploaded <0/>'] = 'Uppladdad <0/>';
+$Definition['Upload File'] = 'Ladda upp fil';
+$Definition['Upload Image'] = 'Ladda upp bild';
 $Definition['Uploading...'] = 'Laddar upp...';
 $Definition['Upload New Icon'] = 'Ladda Upp Ny Ikon';
 $Definition['Upload New Picture'] = 'Ladda upp ny bild';

@@ -617,7 +617,6 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">在這裡閱讀全文</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = '表情符號';
-$Definition['Emoji Picker'] = '表情符號選擇器';
 $Definition['Emoji Categories'] = '表情圖示類別';
 $Definition['Emoji Picker'] = '表情符號選擇器';
 $Definition['Emojis'] = '表情符號';
@@ -660,6 +659,7 @@ $Definition['Failed to delete group.'] = '群組刪除失敗。';
 $Definition['Failed to find discussion for commenting.'] = '無法找到話題進行評論。';
 $Definition['Failed to load the poll.'] = '無法加載該投票。';
 $Definition['Favorites'] = '喜好項目';
+$Definition['Featured Categories'] = '特色類別';
 $Definition['Feedback'] = '回饋';
 $Definition['Female'] = '女';
 $Definition['Fifth Anniversary'] = '五週年紀念';
@@ -774,6 +774,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} 禁止了 {ActivityUs
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user}評論了<a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} 寄了一個 <a href="{Url,html}"> 留言 </a> 給您';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user}開始了一個新討論。 <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user}在{Data.Category}中開始了新的調查： <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user}在{Data.Category}中發布了一個新問題： <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}在 <a href="{Url,html}">{Data.Name,text}</a>提到了您';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}更改了 {ActivityUserID,user}的個人形象圖片。';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You}加入了。';
@@ -806,6 +808,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '我同意 <a id="TermsOfService" class="Popup" target="terms" href="%s">服務條款</a>';
 $Definition['Icon'] = '圖示';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = '我確認我有權使用所提供的電子郵件地址。';
 $Definition['I confirm that I have received consent to join this community.'] = '由於我小於 %d 歲，我確認已經有加入此社群的許可。';
 $Definition['Icon for: '] = '圖示：';
 $Definition['Idea'] = '點子';
@@ -1726,6 +1729,8 @@ $Definition['Updated By'] = '更新者';
 $Definition['Updates'] = '更新';
 $Definition['Upload'] = '上傳';
 $Definition['Uploaded <0/>'] = '已上傳 <0/>';
+$Definition['Upload File'] = '上傳文件';
+$Definition['Upload Image'] = '上傳圖片';
 $Definition['Uploading...'] = '正在上傳...';
 $Definition['Upload New Icon'] = '上傳新圖示';
 $Definition['Upload New Picture'] = '上傳新照片';

@@ -641,6 +641,7 @@ $Definition['Failed to delete group.'] = 'Ștergerea grupului eșuată';
 $Definition['Failed to find discussion for commenting.'] = 'Nu s-a găsit discuția pentru a comenta.';
 $Definition['Failed to load the poll.'] = 'Nu sa reușit încărcarea poll-ului';
 $Definition['Favorites'] = 'Favorite';
+$Definition['Featured Categories'] = 'Categorii recomandate';
 $Definition['Feedback'] = 'răspuns';
 $Definition['Female'] = 'Feminin';
 $Definition['Fifth Anniversary'] = 'A 5-a Aniversare';
@@ -751,6 +752,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} a blocat {ActivityUse
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} a comentat la <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} v-a trimis un <a href="{Url,html}">mesaj</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} a început o nouă discuţie. <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} a început un nou sondaj în {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} a postat o întrebare nouă în {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} v-a menționat în <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} a schimbat poza de profil pentru {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} s-a alăturat';
@@ -783,6 +786,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'L
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Sunt de acord cu <a id="TermsOfService" class="Popup" target="terms" href="%s">termenii și condițiile</a>';
 $Definition['Icon'] = 'Pictogramă';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Confirm că am permisiunea de a utiliza adresele de e-mail furnizate.';
 $Definition['I confirm that I have received consent to join this community.'] = 'De vreme ce am sub %d ani, confirm că am primit consimțământul să mă alătur acestei comunități.';
 $Definition['Icon for: '] = 'Pictogramă pentru:';
 $Definition['Idea'] = 'Idee';
@@ -1713,6 +1717,8 @@ $Definition['Updated By'] = 'Actualizat de';
 $Definition['Updates'] = 'Actualizări';
 $Definition['Upload'] = 'Incarca';
 $Definition['Uploaded <0/>'] = 'Încărcat <0/>';
+$Definition['Upload File'] = 'Incarca fisier';
+$Definition['Upload Image'] = 'Incarca imaginea';
 $Definition['Uploading...'] = 'Se încarcă...';
 $Definition['Upload New Icon'] = 'Încărcați o pictogramă noua';
 $Definition['Upload New Picture'] = 'Încarcă fotografie nouă';

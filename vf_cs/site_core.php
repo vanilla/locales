@@ -589,7 +589,6 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Celou konverzaci přečíst zde</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Emotikon';
-$Definition['Emoji Picker'] = 'Výběr emodži';
 $Definition['Emoji Categories'] = 'Kategorie emoji';
 $Definition['Emoji Picker'] = 'Výběr emodži';
 $Definition['Emojis'] = 'Emotikony';
@@ -631,6 +630,7 @@ $Definition['Failed to delete group.'] = 'Nepodařilo se smazat skupinu.';
 $Definition['Failed to find discussion for commenting.'] = 'Nepovedlo se najít diskuzi pro komentování.';
 $Definition['Failed to load the poll.'] = 'Chyba při načítání ankety';
 $Definition['Favorites'] = 'Oblíbené';
+$Definition['Featured Categories'] = 'Vybrané kategorie';
 $Definition['Feedback'] = 'Zpětná vazba';
 $Definition['Female'] = 'Žena';
 $Definition['Fifth Anniversary'] = 'Páté výročí';
@@ -745,6 +745,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,user} zakázal(a) uživate
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} okomentoval(a) <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} ti poslal <a href="{Url,html}">zprávu</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} zahájil nové hlasování v {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} zveřejnil novou otázku v {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} tě zmínil(a) v <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,User} změnil profilový obrázek pro uživatele {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = 'Uživatel {ActivityUserID,user} se zaregistroval(a).';
@@ -777,6 +779,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'K
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Souhlasím s <a id="TermsOfService" class="Popup" target="terms" href="%s">podmínkami používání služby</a>';
 $Definition['Icon'] = 'Ikona';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Potvrzuji, že mám povolení k používání uvedených e-mailových adres.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Protože je mi méně než %d let, tak potvrzuji, že jsem obdržel svolení, abych se připojil k této komunitě.';
 $Definition['Icon for: '] = 'Ikona pro: ';
 $Definition['Idea'] = 'Nápad';
@@ -1659,6 +1662,8 @@ $Definition['Updated By'] = 'Aktualizoval/a';
 $Definition['Updates'] = 'Aktualizace';
 $Definition['Upload'] = 'Odeslat';
 $Definition['Uploaded <0/>'] = 'Nahráno <0/>';
+$Definition['Upload File'] = 'Nahrát soubor';
+$Definition['Upload Image'] = 'Nahrát obrázek';
 $Definition['Uploading...'] = 'Odesílání...';
 $Definition['Upload New Icon'] = 'Nahrát novou ikonu';
 $Definition['Upload New Picture'] = 'Nahrát nový obrázek';

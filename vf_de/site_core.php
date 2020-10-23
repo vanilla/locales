@@ -2,7 +2,7 @@
 
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s hat %4$s Einladung angenommen.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s hat %4$s Berechtigungen geändert.';
-$Definition['%1$s changed %6$s profile picture.'] = '%1$s hat %6$s Profilbild geändert.';
+$Definition['%1$s changed %6$s profile picture.'] = '%1$s hat das Profilbild geändert.';
 $Definition['%1$s commented on %4$s %8$s.'] = '%1$s hat auf %4$s %8$s geantwortet.';
 $Definition['%1$s created an account for %4$s.'] = '%4$s hat einen Account für %1$s erstellt.';
 $Definition['%1$s joined.'] = '%1$s bist beigetreten.';
@@ -600,9 +600,7 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lies die gesamte Nachricht hier</a></p><div class="ClearFix"></div></div>';
-$Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Emoji-Kategorien';
-$Definition['Emoji Picker'] = 'Emoji Picker';
 $Definition['Enable'] = 'Aktivieren';
 $Definition['Enabled'] = 'Aktiviert';
 $Definition['End time?'] = 'Endzeit?';
@@ -641,6 +639,7 @@ $Definition['Failed to delete group.'] = 'Löschen der Gruppe fehlgeschlagen';
 $Definition['Failed to find discussion for commenting.'] = 'Konnte die Diskussion zum Kommentieren nicht finden.';
 $Definition['Failed to load the poll.'] = 'Fehler beim Laden der Umfrage.';
 $Definition['Favorites'] = 'Favoriten';
+$Definition['Featured Categories'] = 'Beliebte Kategorien';
 $Definition['Female'] = 'Weiblich';
 $Definition['Fifth Anniversary'] = 'Fünfter Jahrestag';
 $Definition['File'] = 'Datei';
@@ -751,6 +750,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} hat {ActivityUserID,y
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommentierte <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = 'Du hast eine <a href="{Url,html}">Nachricht</a> von {ActivityUserID,User}';
 $Definition['HeadlineFormat.Discussion'] = 'Neue Diskussion von {ActivityUserID,user}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} hat eine neue Umfrage in {Data.Category} gestartet: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} hat eine neue Frage in {Data.Category} gepostet: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} hat dich in <a href="{Url,html}">{Data.Name,text}</a> erwähnt';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} hast das Profilbild von {ActivityUserID,user} geändert.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} ist beigetreten.';
@@ -783,6 +784,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'W
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Ich stimme den <a id="TermsOfService" class="Popup" target="terms" href="%s">Nutzungsbedingungen</a> zu';
 $Definition['Icon'] = 'Symbol';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Ich bestätige, dass ich die Berechtigung habe, die angegebenen E-Mail-Adressen zu verwenden.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Da ich unter %d Jahre alt bin, bestätige ich, die Einwilligung, der Gemeinschaft beizutreten, bekommen zu haben.';
 $Definition['Icon for: '] = 'Icon für:';
 $Definition['Idea'] = 'Idee';
@@ -1668,6 +1670,8 @@ $Definition['Updated badge'] = 'Abzeichen aktualisiert';
 $Definition['Updated By'] = 'Aktualisiert von';
 $Definition['Upload'] = 'Hochladen';
 $Definition['Uploaded <0/>'] = 'Hochgeladen <0/>';
+$Definition['Upload File'] = 'Datei hochladen';
+$Definition['Upload Image'] = 'Bild hochladen';
 $Definition['Uploading...'] = 'Hochladen…';
 $Definition['Upload New Icon'] = 'Neues Symbol hochladen';
 $Definition['Upload New Picture'] = 'Neues Bild hochladen';

@@ -617,7 +617,6 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Διαβάστε ολόκληρη την ιστορία εδώ</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Χαρακτήρες Emoji';
-$Definition['Emoji Picker'] = 'Εργαλείο επιλογής Emoji';
 $Definition['Emoji Categories'] = 'Κατηγορίες των Emoji ';
 $Definition['Emoji Picker'] = 'Εργαλείο επιλογής Emoji';
 $Definition['Enable'] = 'Ενεργοποίηση';
@@ -659,6 +658,7 @@ $Definition['Failed to delete group.'] = 'Αποτυχία διαγραφής ο
 $Definition['Failed to find discussion for commenting.'] = 'Αποτυχία εύρεσης συζήτησης για σχολιασμό.';
 $Definition['Failed to load the poll.'] = 'Αποτυχία φόρτωσης ψηφοφορίας.';
 $Definition['Favorites'] = 'Αγαπημένα';
+$Definition['Featured Categories'] = 'Επιλεγμένες κατηγορίες';
 $Definition['Feedback'] = 'Ανάδραση';
 $Definition['Female'] = 'Θηλυκό';
 $Definition['Fifth Anniversary'] = 'Πέμπτη Επέτειος';
@@ -774,6 +774,8 @@ $Definition['HeadlineFormat.Ban'] = 'Ο χρήστης {RegardingUserID,You} α�
 $Definition['HeadlineFormat.Comment'] = 'Ο χρήστης {ActivityUserID,user} σχολίασε στο <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} σας έστειλε ένα  <a href="{Url,html}">message</a>';
 $Definition['HeadlineFormat.Discussion'] = 'Ο χρήστης {ActivityUserID,user} ξεκίνησε μία νέα συζήτηση. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} ξεκίνησε μια νέα δημοσκόπηση στο {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} δημοσίευσε μια νέα ερώτηση στο {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = 'Ο χρήστης {ActivityUserID,user} σας ανέφερε στο <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = 'Ο χρήστης {RegardingUserID,You} άλλαξε την εικόνα προφίλ του χρήστη {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} προσχώρησε.';
@@ -806,6 +808,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Συμφωνώ με τους <a id="TermsOfService" class="Popup" target="terms" href="%s">όρους χρήστης</a>';
 $Definition['Icon'] = 'Εικονίδιο';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Επιβεβαιώνω ότι έχω άδεια να χρησιμοποιήσω τις παρεχόμενες διευθύνσεις email.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Καθώς είμαι κάτω από %d ετών, επιβεβαιώνω ότι έχω την άδεια να συμμετέχω σε αυτήν την κοινότητα.';
 $Definition['Icon for: '] = 'Εικονίδιο για:';
 $Definition['Idea'] = 'Ιδέα';
@@ -1739,6 +1742,8 @@ $Definition['Updated By'] = 'Ενημερώθηκε Από';
 $Definition['Updates'] = 'Ενημερώσεις';
 $Definition['Upload'] = 'Ανέβασμα';
 $Definition['Uploaded <0/>'] = 'Μεταφορτώθηκε <0/>';
+$Definition['Upload File'] = 'Ανέβασμα αρχείου';
+$Definition['Upload Image'] = 'Μεταφόρτωση εικόνας';
 $Definition['Uploading...'] = 'Γίνεται μεταφόρτωση...';
 $Definition['Upload New Icon'] = 'Φόρτωση νέου εικονιδίου';
 $Definition['Upload New Picture'] = 'Ανεβάστε Νέα Εικόνα';

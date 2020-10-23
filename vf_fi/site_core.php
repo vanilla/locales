@@ -619,7 +619,6 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lue koko juttu täältä</a></p><div class="ClearFix"></div></div>';
-$Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Emoji-kategoriat';
 $Definition['Emoji Picker'] = 'Emoji-valitsin';
 $Definition['Emojis'] = 'Hymiöt';
@@ -662,6 +661,7 @@ $Definition['Failed to delete group.'] = 'Ryhmän poistaminen epäonnistui.';
 $Definition['Failed to find discussion for commenting.'] = 'Keskustelun löytäminen kommentointiin epäonnistui.';
 $Definition['Failed to load the poll.'] = 'Kyselyn lataus epäonnistui';
 $Definition['Favorites'] = 'Suosikit';
+$Definition['Featured Categories'] = 'Suositellut luokat';
 $Definition['Feedback'] = 'Palaute';
 $Definition['Female'] = 'Nainen';
 $Definition['Fifth Anniversary'] = 'Viides vuosipäivä';
@@ -776,6 +776,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} asetit eston jäsenel
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommentoi seuraavaa: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} lähetti sinulle <a href="{Url,html}">viestin</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} aloitti uuden kyselyn kohteessa {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} lähetti uuden kysymyksen kysymykseen {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mainitsi sinut keskustelussa <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} vaihtoi profiilikuvan jäsenelle  {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} liittyi.';
@@ -808,6 +810,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'K
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Hyväksyn <a id="TermsOfService" class="Popup" target="terms" href="%s">käyttöehdot ja säännöt</a>';
 $Definition['Icon'] = 'Kuvake';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Vahvistan, että minulla on lupa käyttää annettuja sähköpostiosoitteita.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Koska olen alle %d vuotta vanha, vahvistan saaneeni huoltajan suostumuksen tähän yhteisöön liittymistä varten. ';
 $Definition['Icon for: '] = 'Kuvake kohteelle:';
 $Definition['Ideas'] = 'Ideat';
@@ -1726,6 +1729,8 @@ $Definition['Updated By'] = 'Päivittänyt';
 $Definition['Updates'] = 'Päivitykset';
 $Definition['Upload'] = 'Lataa';
 $Definition['Uploaded <0/>'] = 'Lisätty <0/>';
+$Definition['Upload File'] = 'Lataa tiedosto';
+$Definition['Upload Image'] = 'Lataa kuva';
 $Definition['Uploading...'] = 'Ladataan...';
 $Definition['Upload New Icon'] = 'Lataa uusi kuvake';
 $Definition['Upload New Picture'] = 'Lataa uusi kuva';

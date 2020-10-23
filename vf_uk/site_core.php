@@ -647,6 +647,7 @@ $Definition['Failed to delete group.'] = 'Не вдалося видалити �
 $Definition['Failed to find discussion for commenting.'] = 'Не вдалося знайти обговорення для коментування.';
 $Definition['Failed to load the poll.'] = 'Не вдалося завантажити опитування.';
 $Definition['Favorites'] = 'Обрані';
+$Definition['Featured Categories'] = 'Рекомендовані категорії';
 $Definition['Feedback'] = 'Зворотній зв\'язок';
 $Definition['Female'] = 'Жінка';
 $Definition['Fifth Anniversary'] = 'П\'ята річниця';
@@ -761,6 +762,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} забанений {A
 $Definition['HeadlineFormat.Comment'] = 'Користувач  {ActivityUserID,user} прокоментував <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} надіслав вам <a href="{Url,html}">повідомлення</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Почав нове обговорення. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} розпочав нове опитування в {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} розмістив нове запитання в {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} запросив вас до <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} змінив фотографію на сторінці для {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} тепер з нами.';
@@ -793,6 +796,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Я приймаю <a id="Умови користування" class="Popup" target="terms" href="%s">Умови користування</a>';
 $Definition['Icon'] = 'Іконка';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Я підтверджую, що маю дозвіл використовувати надані адреси електронної пошти.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Оскільки мені менше %d років, я підтверджую, що я отримав дозвіл на приєднання до цієї спільноти.';
 $Definition['Icon for: '] = 'Іконка для:';
 $Definition['Idea'] = 'Ідея';
@@ -1421,6 +1425,7 @@ $Definition['Search Subcategories'] = 'Шукати в підкатегорія�
 $Definition['search subcategories'] = 'шукати підкатегорії';
 $Definition['Second Anniversary'] = 'Друга річниця';
 $Definition['Secret'] = 'Секретно';
+$Definition['SecretGroupDescription'] = 'Лише учасники можуть бачити групу та переглядати її вміст. Людей потрібно запросити приєднатися.';
 $Definition['Sections'] = 'Секції';
 $Definition['Security Check'] = 'Перевірка безпеки - введіть захисний код';
 $Definition['Select a %s'] = 'Виберіть на %s';
@@ -1693,6 +1698,8 @@ $Definition['Updated By'] = 'Оновлено';
 $Definition['Updates'] = 'Оновлення';
 $Definition['Upload'] = 'Завантажити';
 $Definition['Uploaded <0/>'] = 'Завантажено <0/>';
+$Definition['Upload File'] = 'Завантажити файл';
+$Definition['Upload Image'] = 'Завантажити зображення';
 $Definition['Uploading...'] = 'Завантаження...';
 $Definition['Upload New Icon'] = 'Завантажити нове зображення';
 $Definition['Upload New Picture'] = 'Завантажити нові фото';

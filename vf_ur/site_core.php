@@ -653,6 +653,7 @@ $Definition['Failed to delete group.'] = 'گروپ کو حذف کرنے میں �
 $Definition['Failed to find discussion for commenting.'] = 'تبصرہ کے لیے بحث کو تلاش کرنے میں ناکام رہا۔';
 $Definition['Failed to load the poll.'] = 'پول لوڈ نہیں کر سکا۔';
 $Definition['Favorites'] = 'پسندیدہ';
+$Definition['Featured Categories'] = 'نمایاں زمرہ جات';
 $Definition['Feedback'] = 'آپ کی رائے';
 $Definition['Female'] = 'عورت';
 $Definition['Fifth Anniversary'] = 'پانچویں سالگرہ';
@@ -766,6 +767,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} نے {ActivityUserID,
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} نے <a href="{Url,html}"> {Data.Name,text}</a> پر تبصرہ کیا';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} نے آپ ایک <a href="{Url,html}"> پیغام</a> بھیجا';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} نے ایک نئی بحث کا آغاز ہے ۔ <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} نے {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a> میں ایک نیا سروے شروع کیا';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} نے {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a> میں ایک نیا سوال پوسٹ کیا';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} نے آپ <a href="{Url,html}"> {Data.Name,text}</a> میں ذکر کیا';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} نے {ActivityUserID,user} کے لیے پروفائل تصویر تبدیل کر دیا گیا ہے۔';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} نے شمولیت اختیار کی۔';
@@ -798,6 +801,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'میں <a id="TermsOfService" class="Popup" target="terms" href="%s"> سروس کی شرائط</a> سے متفق ہوں۔';
 $Definition['Icon'] = 'شبیہ';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'میں تصدیق کرتا ہوں کہ مجھے فراہم کردہ ای میل پتوں کو استعمال کرنے کی اجازت ہے۔';
 $Definition['I confirm that I have received consent to join this community.'] = 'چونکہ میں %d برس سے کم ہوں، میں تصدیق کرتا ہوں کہ مینے کمیونٹی میں شامل ہونے کے لئے رضامندی حاصل کی ہے۔';
 $Definition['Icon for: '] = 'کے لئے شبیہہ:';
 $Definition['Idea'] = 'خیال';
@@ -1432,6 +1436,7 @@ $Definition['Search Subcategories'] = 'ذیلی زمرہ جات تلاش کری�
 $Definition['search subcategories'] = 'ذیلی ذمرے تلاش کریں';
 $Definition['Second Anniversary'] = 'دوسری برسی';
 $Definition['Secret'] = 'راز';
+$Definition['SecretGroupDescription'] = 'صرف ممبر ہی گروپ کو دیکھ سکتے ہیں اور اس کا مواد دیکھ سکتے ہیں۔ لوگوں کو شرکت کے لئے مدعو کیا جانا چاہئے۔';
 $Definition['Sections'] = 'صیغہ';
 $Definition['Security Check'] = 'سیکورٹی چیک کریں';
 $Definition['Select a %s'] = 'ایک %s منتخب کریں';
@@ -1708,6 +1713,8 @@ $Definition['Updated By'] = 'تازہ کاری کردہ';
 $Definition['Updates'] = 'تازہ ترین';
 $Definition['Upload'] = 'اپ لوڈ کریں';
 $Definition['Uploaded <0/>'] = '<0 /> اپ لوڈ کیا گیا';
+$Definition['Upload File'] = 'اپ لوڈ فائل';
+$Definition['Upload Image'] = 'تصویر انٹرنیٹ پر ڈالنا';
 $Definition['Uploading...'] = 'اپلوڈ کر رہا ہے۔۔۔';
 $Definition['Upload New Icon'] = 'نیا آئکن اپ لوڈ کریں';
 $Definition['Upload New Picture'] = 'نئی تصویر اپ لوڈ کریں';

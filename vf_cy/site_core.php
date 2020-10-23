@@ -20,6 +20,7 @@ $Definition['%3$s approved %2$s membership application.'] = 'Cymeradwyodd %3$s g
 $Definition['%3$s created an account for %1$s.'] = 'Creodd %3$s gyfrif ar gyfer %1$s.';
 $Definition['%s (Current)'] = '%s (cyfredol)';
 $Definition['%s activities'] = '%s gweithgareddau';
+$Definition['%s activity'] = 'gweithgaredd %s';
 $Definition['%s Agrees'] = 'Mae %s yn cytuno';
 $Definition['%s and %s others'] = '%s a %s arall';
 $Definition['%s and you'] = '%s a chi';
@@ -626,6 +627,7 @@ $Definition['Failed to delete group.'] = 'Methwyd dileu\'r grŵp.';
 $Definition['Failed to find discussion for commenting.'] = 'Methwyd dod o hyd i drafodaeth ar gyfer gwneud sylwadau.';
 $Definition['Failed to load the poll.'] = 'Methwyd llwytho\'r pôl.';
 $Definition['Favorites'] = 'Ffefrynnau';
+$Definition['Featured Categories'] = 'Categorïau dan Sylw';
 $Definition['Feedback'] = 'Adborth';
 $Definition['Female'] = 'Benyw';
 $Definition['Fifth Anniversary'] = 'Pumed pen-blwydd';
@@ -739,6 +741,8 @@ $Definition['HeadlineFormat.Ban'] = 'Mae {RegardingUserID,You} wedi gwahardd {Ac
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} sylwadau ar <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} anfonodd eich <a href="{Url,html}"> neges</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Wedi dechrau trafodaeth newydd. <a href="{Url,html}"> {Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = 'cychwynnodd {ActivityUserID,user} arolwg barn newydd yn {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = 'postiodd {ActivityUserID,user} gwestiwn newydd yn {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} eich crybwyll yn <a href="{Url,html}"> {Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = 'Newidiodd {RegardingUserID, You} y darlun proffil ar gyfer {ActivityUserID, user}.';
 $Definition['HeadlineFormat.Registration'] = 'Ymunodd {ActivityUserID,You} ';
@@ -771,6 +775,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'F
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Yr wyf yn cytuno a\'r <a id="TermsOfService" class="Popup" target="terms" href="%s"> telerau gwasanaeth</a>';
 $Definition['Icon'] = 'Eicon';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Rwy&#39;n cadarnhau bod gennyf ganiatâd i ddefnyddio&#39;r cyfeiriadau e-bost a ddarperir.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Gan fy mod o dan %d oed, cadarnhaf fy mod wedi derbyn caniatad i ymuno a\'r gymuned yma.';
 $Definition['Icon for: '] = 'Eicon ar gyfer:';
 $Definition['Idea'] = 'Syniad';
@@ -1662,6 +1667,8 @@ $Definition['Updated By'] = 'Diweddarwyd Gan';
 $Definition['Updates'] = 'Diweddariadau';
 $Definition['Upload'] = 'Uwchlwytho';
 $Definition['Uploaded <0/>'] = 'Llwythwyd i fyny <0 />';
+$Definition['Upload File'] = 'Llwytho Ffeil';
+$Definition['Upload Image'] = 'Llwytho Delwedd';
 $Definition['Uploading...'] = 'Llwytho...';
 $Definition['Upload New Icon'] = 'Llwythwch Eicon Newydd';
 $Definition['Upload New Picture'] = 'Llwythwch i fyny Llun Newydd';

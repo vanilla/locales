@@ -10,6 +10,7 @@ $Definition['Allow links to be transformed'] = 'Allow links to be transformed in
 $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss this message.';
 $Definition['Apply additional classes on catalogue image.'] = 'Apply additional classes on catalogue image. Use space to separate each class.';
 
+$Definition['CategoryNotificationDetails'] = 'Only the top two levels of categories are displayed. For more deeply nested categories, you will receive notifications if you select their parent category.';
 $Definition['CssClass'] = 'CSS Class';
 
 $Definition['Display on category page only.'] = 'Display on category page only. Recent discussions list will not be affected.';
@@ -26,6 +27,8 @@ $Definition['Garden.api.ssoIDPermission.description'] = 'Roles with this permiss
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
 
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} started a new poll in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} posted a new question in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['Here are the ranks that users can achieve on your site.'] = 'Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.';
 
 $Definition['If you have an old theme'] = 'If you have an old theme and need to set a separate desktop and mobile theme you can do so with the old theming UI.';
