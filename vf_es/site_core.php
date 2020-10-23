@@ -754,6 +754,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} prohibió  a {Activit
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} ha comentado en <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} te ha enviado un <a href="{Url,html}">mensaje</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Empezó una nueva discusión. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} inició una nueva encuesta en {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} publicó una nueva pregunta en {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} te mencionó en <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} cambió la imagen de perfil de
  {ActivityUserID,user}.';
@@ -833,6 +835,7 @@ $Definition['Inserted'] = 'Insertado';
 $Definition['Insert Image'] = 'Insertar Imagen';
 $Definition['Insert an embedded web page, or video into your message'] = 'Inserta una página web o vídeo incrustado en tu mensaje';
 $Definition['Insert an emoji in your message.'] = 'Inserta un emoji en el mensaje.';
+$Definition['Insert Media'] = 'Insertar Multimedia';
 $Definition['Insightful'] = 'Perspicaz';
 $Definition['Internal'] = 'Interno';
 $Definition['In this Conversation'] = 'En esta Conversación';
@@ -1687,6 +1690,8 @@ $Definition['Updated badge'] = 'Medalla actualizada ';
 $Definition['Updated By'] = 'Actualizado por';
 $Definition['Upload'] = 'Subir';
 $Definition["Uploaded <0/>"] = "Subido <0/>";
+$Definition["Upload File"] = "Subir Archivo ";
+$Definition["Upload Image"] = "Subir Imagen";
 $Definition['Uploading...'] = 'Subiendo...';
 $Definition['Upload New Icon'] = 'Subir un Icono Nuevo';
 $Definition['Upload New Picture'] = 'Subir Una Foto Nueva';
@@ -1899,7 +1904,7 @@ $Definition['You do not have permission to edit all of the posts you are trying 
 $Definition['You do not have permission to move %1$s of the selected discussions.'] = 'No tienes permiso para mover %1$s de las discusiones seleccionadas.';
 $Definition['You do not have permission to view other profiles.'] = 'No tienes permiso para ver otros perfiles. ';
 $Definition['You do not have permission to write new comments.'] = 'No tienes permiso para escribir nuevos comentarios.';
-$Definition['YouEarnedBadge'] = 'Has ganado esta medalla';
+$Definition['YouEarnedBadge'] = 'Ganaste esta medalla el';
 $Definition['You have answered questions'] = 'Has respondido preguntas';
 $Definition['You have been approved for membership.'] = 'Has sido aceptado como miembro.';
 $Definition['You have entered an invalid discussion title'] = 'Has ingresado un título de discusión que es inválido';
