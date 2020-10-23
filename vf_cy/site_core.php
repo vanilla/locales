@@ -775,7 +775,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'F
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Yr wyf yn cytuno a\'r <a id="TermsOfService" class="Popup" target="terms" href="%s"> telerau gwasanaeth</a>';
 $Definition['Icon'] = 'Eicon';
-$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Rwy&#39;n cadarnhau bod gennyf ganiatâd i ddefnyddio&#39;r cyfeiriadau e-bost a ddarperir.';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Rwy\'n cadarnhau bod gennyf ganiatâd i ddefnyddio\'r cyfeiriadau e-bost a ddarperir.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Gan fy mod o dan %d oed, cadarnhaf fy mod wedi derbyn caniatad i ymuno a\'r gymuned yma.';
 $Definition['Icon for: '] = 'Eicon ar gyfer:';
 $Definition['Idea'] = 'Syniad';

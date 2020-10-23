@@ -809,7 +809,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'אני מסכים <a id="TermsOfService" class="Popup" target="terms" href="%s">לתנאי השירות</a>';
 $Definition['Icon'] = 'אייקון';
-$Definition['I confirm that I have permission to use the email addresses provided.'] = 'אני מאשר שיש לי הרשאה להשתמש בכתובות הדוא&quot;ל שצוינו.';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'אני מאשר שיש לי הרשאה להשתמש בכתובות הדוא"ל שצוינו.';
 $Definition['I confirm that I have received consent to join this community.'] = 'כיוון שאני בן/בת פחות מ-%d, אני מאשר/ת שקיבלתי רשות להצטרף לקהילה זו.';
 $Definition['Icon for: '] = 'אייקון עבור:';
 $Definition['Idea'] = 'רעיון';
