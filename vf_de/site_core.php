@@ -2,7 +2,7 @@
 
 $Definition['%1$s accepted %4$s invitation for membership.'] = '%1$s hat %4$s Einladung angenommen.';
 $Definition['%1$s changed %4$s permissions.'] = '%1$s hat %4$s Berechtigungen geändert.';
-$Definition['%1$s changed %6$s profile picture.'] = '%1$s hat das Profilbild geändert.';
+$Definition['%1$s changed %6$s profile picture.'] = '%1$s hat %6$s Profilbild geändert.';
 $Definition['%1$s commented on %4$s %8$s.'] = '%1$s hat auf %4$s %8$s geantwortet.';
 $Definition['%1$s created an account for %4$s.'] = '%4$s hat einen Account für %1$s erstellt.';
 $Definition['%1$s joined.'] = '%1$s bist beigetreten.';
