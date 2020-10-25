@@ -595,7 +595,6 @@ $Definition['EmbeddedDiscussionLinkText'] = 'Llegiu la història completa aquí'
 $Definition['Embedded Media'] = 'Suport incrustat';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent"> {Image} <strong>{Title}</strong> <p> {Excerpt} </p><p> <a href="{Url}">Llegiu la història completa aquí</a> </p><div class="ClearFix"></div></div>';
-$Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Categories Emoji';
 $Definition['Emoji Picker'] = 'Selector d\'emoji';
 $Definition['Enable'] = 'Activa';
@@ -636,6 +635,7 @@ $Definition['Failed to delete group.'] = 'No s\'ha pogut suprimir el grup.';
 $Definition['Failed to find discussion for commenting.'] = 'No s\'ha trobat la discussió per fer comentaris.';
 $Definition['Failed to load the poll.'] = 'No s\'ha pogut carregar el sondeig.';
 $Definition['Favorites'] = 'Favorits';
+$Definition['Featured Categories'] = 'Categories destacades';
 $Definition['Female'] = 'Dona';
 $Definition['Fifth Anniversary'] = 'Cinquè aniversari';
 $Definition['File'] = 'Dossier';
@@ -746,6 +746,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID, You} prohibit {ActivityUs
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID, user} va comentar <a href="{Url,html}">{Data.Name, text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID, User} t\'ha enviat un <a href="{Url,html}">missatge</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID, user} Va iniciar una nova discussió. <a href="{Url,html}">{Data.Name, text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} va iniciar una nova enquesta a {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} ha publicat una nova pregunta a {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID, user} t\'ha mencionat a <a href="{Url,html}">{Data.Name, text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} ha canviat la imatge de perfil per a {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = 'S\'ha unit {ActivityUserID, You}.';
@@ -778,6 +780,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'Q
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Estic d\'acord amb <a id="TermsOfService" class="Popup" target="terms" href="%s">les condicions del servei</a>';
 $Definition['Icon'] = 'Icona';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Confirmo que tinc permís per utilitzar les adreces de correu electrònic proporcionades.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Com que tinc menys de %d anys i que tinc els seus anys, confirmo que he rebut el consentiment per unir-me a aquesta comunitat.';
 $Definition['Icon for: '] = 'Icona per a:';
 $Definition['Ideas'] = 'Idees';
@@ -1674,6 +1677,8 @@ $Definition['Updated By'] = 'Actualitzat per';
 $Definition['Updates'] = 'Actualitzacions';
 $Definition['Upload'] = 'Subir';
 $Definition['Uploaded <0/>'] = 'Penjat <0 />';
+$Definition['Upload File'] = 'Penja el document';
+$Definition['Upload Image'] = 'Penja la imatge';
 $Definition['Uploading...'] = 'Carregant ...';
 $Definition['Upload New Icon'] = 'Carregueu la icona nova';
 $Definition['Upload New Picture'] = 'Carregueu una imatge nova';

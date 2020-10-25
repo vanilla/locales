@@ -653,6 +653,7 @@ $Definition['Failed to delete group.'] = 'Grubu silme işlemi başarısız oldu.
 $Definition['Failed to find discussion for commenting.'] = 'Yorumlacak tartışma bulunamadı.';
 $Definition['Failed to load the poll.'] = 'Anket yüklenemedi.';
 $Definition['Favorites'] = 'Favoriler';
+$Definition['Featured Categories'] = 'Öne çıkan Kategoriler';
 $Definition['Feedback'] = 'Geri Bildirim';
 $Definition['Female'] = 'Kadın';
 $Definition['Fifth Anniversary'] = 'Beşinci Yıldönümü';
@@ -797,6 +798,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'K
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '<a id="TermsOfService" class="Popup" target="terms" href="%s">Kuralları</a> kabul ediyorum';
 $Definition['Icon'] = 'Simge';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Verilen e-posta adreslerini kullanma iznim olduğunu onaylıyorum.';
 $Definition['I confirm that I have received consent to join this community.'] = '%d yaşın altında olduğum için, bu topluluğa katılmak için olur aldığımı onaylıyorum.';
 $Definition['Icon for: '] = 'Şunun için ikon:';
 $Definition['Idea'] = 'Fikir';
@@ -1703,6 +1705,8 @@ $Definition['Updated By'] = 'Tarafından Güncellendi';
 $Definition['Updates'] = 'Güncellemeler';
 $Definition['Upload'] = 'Karşıya Yükle';
 $Definition['Uploaded <0/>'] = 'Yüklendi <0/>';
+$Definition['Upload File'] = 'Dosya yükleme';
+$Definition['Upload Image'] = 'Fotoğraf yükleniyor';
 $Definition['Uploading...'] = 'Karşıya yükleniyor...';
 $Definition['Upload New Icon'] = 'Yeni Simge Yükle';
 $Definition['Upload New Picture'] = 'Yeni Resim Yükle';

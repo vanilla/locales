@@ -650,6 +650,7 @@ $Definition['Failed to delete group.'] = 'ลบกลุ่มไม่สำ�
 $Definition['Failed to find discussion for commenting.'] = 'ไม่พบกระทู้สำหรับที่ต้องการแสดงความคิดเห็น';
 $Definition['Failed to load the poll.'] = 'ไม่สามารถโหลดแบบสำรวจ';
 $Definition['Favorites'] = 'รายการโปรด';
+$Definition['Featured Categories'] = 'หมวดหมู่เด่น';
 $Definition['Feedback'] = 'ผลตอบรับ';
 $Definition['Female'] = 'หญิง';
 $Definition['Fifth Anniversary'] = 'ครบรอบห้าปี';
@@ -764,6 +765,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} เเบน {Activit
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} แสดงความคิดเห็นใน <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} ส่ง <a href="{Url,html}">ข้อความ</a> ถึงคุณ';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} ได้เริ่มกระทู้ใหม่ <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} เริ่มโพลใหม่ใน {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} โพสต์คำถามใหม่ใน {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} กล่าวถึงคุณใน <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} เปลี่ยนภาพโปรไฟล์สำหรับ {ActivityUserID,user}';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} เข้าร่วม';
@@ -796,6 +799,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'ข้าพเจ้ายอมรับ <a id="TermsOfService" class="Popup" target="terms" href="%s">ข้อตกลงการให้บริการ</a>';
 $Definition['Icon'] = 'ไอคอน';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'ฉันยืนยันว่าฉันได้รับอนุญาตให้ใช้ที่อยู่อีเมลที่ให้ไว้';
 $Definition['I confirm that I have received consent to join this community.'] = 'เนื่องจากฉันอายุต่ำกว่า %d ปี ฉันยืนยันว่าฉันได้รับอนุญาตให้เข้าร่วมชุมชนนี้แล้ว';
 $Definition['Icon for: '] = 'ไอคอนสำหรับ:';
 $Definition['Idea'] = 'ความคิด';
@@ -1431,6 +1435,7 @@ $Definition['Search Subcategories'] = 'สืบค้นหมวดย่อ�
 $Definition['search subcategories'] = 'ค้นหมวดหมู่ย่อย';
 $Definition['Second Anniversary'] = 'ครบรอบปีที่สอง';
 $Definition['Secret'] = 'ลับ';
+$Definition['SecretGroupDescription'] = 'มีเพียงสมาชิกเท่านั้นที่สามารถดูกลุ่มและดูเนื้อหาได้ ต้องมีการเชิญบุคคลอื่นให้เข้าร่วม';
 $Definition['Sections'] = 'ส่วน';
 $Definition['Security Check'] = 'ตรวจสอบความปลอดภัย';
 $Definition['Select a %s'] = 'เลือก %s';
@@ -1721,6 +1726,8 @@ $Definition['Updated By'] = 'อัพเดทโดย';
 $Definition['Updates'] = 'อัพเดท';
 $Definition['Upload'] = 'อัพโหลด';
 $Definition['Uploaded <0/>'] = 'อัปโหลดแล้ว <0/>';
+$Definition['Upload File'] = 'อัปโหลดไฟล์';
+$Definition['Upload Image'] = 'อัปโหลดรูปภาพ';
 $Definition['Uploading...'] = 'กำลังอัพโหลด...';
 $Definition['Upload New Icon'] = 'อัพโหลดไอคอนใหม่';
 $Definition['Upload New Picture'] = 'อัพโหลดภาพใหม่';
@@ -1732,7 +1739,8 @@ $Definition['User'] = 'ผู้ใช้งาน';
 $Definition['User "%s" does not exist.'] = 'ไม่มีผู้ใช้ "%s"';
 $Definition['User "%s" started discussion "%s" on date %s'] = 'ผู้ใช้ "%s" เริ่มการสนทนา "%s" ในวันที่ %s';
 $Definition['User: "%s"'] = 'ผู้ใช้: "%s"';
-$Definition['UserMatchNeedsPassword'] = 'คุณกำลังพยายามเชื่อมต่อกับชื่อผู้ใช้ที่กำหนดให้กับผู้ใช้ในฟอรัมนี้แล้ว หากนี่คือบัญชีของคุณโปรดป้อนรหัสผ่านของบัญชี';
+$Definition['UserMatchNeedsPassword'] = 'ชื่อผู้ใช้นี้มีผู้ใช้งานอยู่ในระบบแล้ว หากนี่คือบัญชีผู้ใช้ของคุณ และคุณต้องการแทนที่ข้อมูลที่มีอยู่ด้วยอีเมลนี้ โปรดป้อนรหัสผ่านของคุณให้ถูกต้อง หรือเข้าสู่ระบบด้วยอีเมลเดิมของคุณ
+ถ้าไม่ใช่บัญชีผู้ใช้ของคุณ โปรดเลือกชื่อผู้ใช้อื่นเพื่อการสร้างบัญชี ';
 $Definition['Username'] = 'ชื่อผู้ใช้';
 $Definition['Username already exists.'] = 'ชื่อผู้ใช้นี้มีแล้ว';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'ชื่อผู้ใช้สามารถมี ตัวอักษร ตัวเลข และ ขีด เท่านั้น';

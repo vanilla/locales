@@ -59,6 +59,7 @@ $Definition['CategoriesShowUnfollowed'] = 'Show hidden categories';
 $Definition['CategoriesViewingAll'] = 'You are currently viewing all categories.';
 $Definition['CategoriesViewingFollowed'] = 'You are currently only viewing categories that you follow.';
 $Definition['CategoryID'] = 'Category';
+$Definition['CategoryNotificationDetails'] = 'Only the top two levels of categories are displayed. For more deeply nested categories, you will receive notifications if you select their parent category.';
 $Definition['Change the look of All Categories'] = 'You can change the look of the <b>All Categories</b> page <a href="%s">here</a>.';
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Check out the new community forum I\'ve just set up.'] = 'Hi Pal!
@@ -212,6 +213,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banned {ActivityUserI
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} commented on <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sent you a <a href="{Url,html}">message</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Started a new discussion. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} started a new poll in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} posted a new question in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mentioned you in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {ActivityUserID,your} profile picture.';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} changed the profile picture for {ActivityUserID,user}.';

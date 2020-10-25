@@ -610,7 +610,6 @@ $Definition['EmbeddedNoBodyFormat'] = '{Url}';
 $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<strong>{Title}</strong>
 <p>{Excerpt}</p>
 <p><a href="{Url}">Lees het volledige verhaal hier</a></p><div class="ClearFix"></div></div>';
-$Definition['Emoji'] = 'Emoji';
 $Definition['Emoji Categories'] = 'Emoticoncategorieën';
 $Definition['Emoji Picker'] = 'Emoji-kiezer';
 $Definition['Emojis'] = 'Emoji\'s';
@@ -653,6 +652,7 @@ $Definition['Failed to delete group.'] = 'De groep kon niet verwijderd worden.';
 $Definition['Failed to find discussion for commenting.'] = 'Het is mislukt om de discussie of commentaar te vinden.';
 $Definition['Failed to load the poll.'] = 'Het is mislukt om de enquête te laden.';
 $Definition['Favorites'] = 'Favorieten';
+$Definition['Featured Categories'] = 'Uitgelichte categorieën';
 $Definition['Feedback'] = 'Terugkoppeling';
 $Definition['Female'] = 'Vrouw';
 $Definition['Fifth Anniversary'] = 'Vijfde verjaardag';
@@ -766,6 +766,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} heeft {ActivityUserID
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} reageerde op <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} stuurde je een  <a href="{Url,html}">bericht</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} heeft een nieuwe discussie gestart. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} is een nieuwe poll begonnen in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} heeft een nieuwe vraag geplaatst in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} noemde jouw in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} veranderde de profielfoto voor {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} is geregistreerd.';
@@ -797,6 +799,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'V
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Ik ga akkoord met de <a id="TermsOfService" class="Popup" target="terms" href="%s">gebruiksvoorwaarden</a>';
 $Definition['Icon'] = 'Icoon';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Ik bevestig dat ik toestemming heb om de opgegeven e-mailadressen te gebruiken.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Aangezien ik jonger dan %d jaar oud ben, bevestig ik dat ik toestemming heb gekregen lid te worden van deze community.';
 $Definition['Icon for: '] = 'Pictogram voor:';
 $Definition['Idea'] = 'Idee';
@@ -1682,6 +1685,8 @@ $Definition['Updated badge'] = 'Bijgewerkte badge';
 $Definition['Updated By'] = 'Bijgewerkt Door';
 $Definition['Upload'] = 'Uploaden';
 $Definition['Uploaded <0/>'] = 'Geüpload <0/>';
+$Definition['Upload File'] = 'Upload bestand';
+$Definition['Upload Image'] = 'Afbeelding uploaden';
 $Definition['Uploading...'] = 'Aan het uploaden...';
 $Definition['Upload New Icon'] = 'Upload nieuw icoon';
 $Definition['Upload New Picture'] = 'Upload nieuwe foto';

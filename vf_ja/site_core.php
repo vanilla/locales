@@ -655,6 +655,7 @@ $Definition['Failed to delete group.'] = 'グループの削除に失敗しま�
 $Definition['Failed to find discussion for commenting.'] = 'コメントするディスカッションをみつけることができませんでした。';
 $Definition['Failed to load the poll.'] = '投票のロードに失敗しました。';
 $Definition['Favorites'] = 'お気に入り';
+$Definition['Featured Categories'] = '注目のカテゴリ';
 $Definition['Feedback'] = 'フィードバック';
 $Definition['Female'] = '女性';
 $Definition['Fifth Anniversary'] = '５周年';
@@ -769,6 +770,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You}が{ActivityUserID,you
 $Definition['HeadlineFormat.Comment'] = ' {ActivityUserID,user} が <a href="{Url,html}">{Data.Name,text}</a>にコメントしました。 ';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} から<a href="{Url,html}">メッセージ</a>が届いてます';
 $Definition['HeadlineFormat.Discussion'] = ' {ActivityUserID,user} 新しいディスカッションを開始しました。 <a href="{Url,html}">{Data.Name,text}</a> ';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user}は、{Data.Category}で新しいポーリングを開始しました： <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user}が{Data.Category}に新しい質問を投稿しました： <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} が<a href="{Url,html}">{Data.Name,text}</a>で、あなたについて語っています。';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = ' {RegardingUserID,You} が {ActivityUserID,user}のプロフィール写真を変更しました。 ';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You}さんが参加しました。';
@@ -801,6 +804,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = '<a id="TermsOfService" class="Popup" target="terms" href="%s">利用規約</a>に同意します';
 $Definition['Icon'] = 'アイコン';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = '提供されたメールアドレスを使用する許可があることを確認します。';
 $Definition['I confirm that I have received consent to join this community.'] = '私は%d才未満ですので、このコミュニティに参加するための同意を得ていることを確認します。';
 $Definition['Icon for: '] = '[…]用アイコン：';
 $Definition['Idea'] = 'アイデア';
@@ -1427,6 +1431,7 @@ $Definition['search subcategories'] = 'サブカテゴリを検索する
 ';
 $Definition['Second Anniversary'] = '2周年';
 $Definition['Secret'] = 'シークレット';
+$Definition['SecretGroupDescription'] = 'メンバーだけがグループを表示し、そのコンテンツを表示できます。参加するには招待する必要があります。';
 $Definition['Sections'] = 'セクション';
 $Definition['Security Check'] = 'セキュリティ チェック';
 $Definition['Select a category...'] = 'カテゴリーを選択…';
@@ -1709,6 +1714,8 @@ $Definition['Updated By'] = '更新者';
 $Definition['Updates'] = 'アップデート';
 $Definition['Upload'] = 'アップロード';
 $Definition['Uploaded <0/>'] = '<0/>をアップロードしました';
+$Definition['Upload File'] = 'ファイルをアップロードする';
+$Definition['Upload Image'] = '画像をアップロード';
 $Definition['Uploading...'] = 'アップロード中...';
 $Definition['Upload New Icon'] = '新しいアイコンをアップロード';
 $Definition['Upload New Picture'] = '新しい写真をアップロード';

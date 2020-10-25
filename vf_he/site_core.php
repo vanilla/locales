@@ -614,7 +614,6 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image }<
 <p>{Excerpt}</p>
 <p><a href="{Url}">קרא את כל הסיפור כאן </a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'אמוג׳י';
-$Definition['Emoji Picker'] = 'בוחר אימוג\'י';
 $Definition['Emoji Categories'] = 'קטגוריות אימוג׳י';
 $Definition['Emoji Picker'] = 'בוחר אימוג\'י';
 $Definition['Emojis'] = 'אמוג\'ים';
@@ -658,6 +657,7 @@ $Definition['Failed to delete group.'] = 'מחיקת הקבוצה נכשלה.';
 $Definition['Failed to find discussion for commenting.'] = 'לא נמצא הדיון על מנת להגיב';
 $Definition['Failed to load the poll.'] = 'לא הצלחנו לטעון את הסקר';
 $Definition['Favorites'] = 'מועדפים';
+$Definition['Featured Categories'] = 'קטגוריות מוצגות';
 $Definition['Feedback'] = 'פידבק';
 $Definition['Female'] = 'נקבה';
 $Definition['Fifth Anniversary'] = 'יום שנה חמישי';
@@ -775,6 +775,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} חסם {ActivityUserI
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} הגיב על <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User}  שלח לך <a href="{Url,html}">הודעה</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} התחיל סקר חדש ב- {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} פרסם שאלה חדשה ב- {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user}  ציין אותך ב  <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You}שינה את תמונת המשתמש ל {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} הצטרף';
@@ -807,6 +809,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'אני מסכים <a id="TermsOfService" class="Popup" target="terms" href="%s">לתנאי השירות</a>';
 $Definition['Icon'] = 'אייקון';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'אני מאשר שיש לי הרשאה להשתמש בכתובות הדוא"ל שצוינו.';
 $Definition['I confirm that I have received consent to join this community.'] = 'כיוון שאני בן/בת פחות מ-%d, אני מאשר/ת שקיבלתי רשות להצטרף לקהילה זו.';
 $Definition['Icon for: '] = 'אייקון עבור:';
 $Definition['Idea'] = 'רעיון';
@@ -1739,6 +1742,8 @@ $Definition['Updated By'] = 'עודכן על ידי';
 $Definition['Updates'] = 'עדכונים';
 $Definition['Upload'] = 'העלה';
 $Definition['Uploaded <0/>'] = 'הועלו <0/>';
+$Definition['Upload File'] = 'העלה קובץ';
+$Definition['Upload Image'] = 'העלאת תמונה';
 $Definition['Uploading...'] = 'מעלה...';
 $Definition['Upload New Icon'] = 'העלה סמל חדש';
 $Definition['Upload New Picture'] = 'העלה תמונה חדשה';

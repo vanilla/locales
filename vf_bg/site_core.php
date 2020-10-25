@@ -617,7 +617,6 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Прочетете цялата история тук</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Емотикон';
-$Definition['Emoji Picker'] = 'Избор на емотикони';
 $Definition['Emoji Categories'] = 'Емоджи категории';
 $Definition['Emoji Picker'] = 'Избор на емотикони';
 $Definition['Emojis'] = 'Емоджи';
@@ -660,6 +659,7 @@ $Definition['Failed to delete group.'] = 'Неуспешно изтриване 
 $Definition['Failed to find discussion for commenting.'] = 'Неуспех при намиране на дискусия за коментиране.';
 $Definition['Failed to load the poll.'] = 'Неуспешно зареждане на анкетата.';
 $Definition['Favorites'] = 'Любими';
+$Definition['Featured Categories'] = 'Препоръчани категории';
 $Definition['Feedback'] = 'Обратна връзка';
 $Definition['Female'] = 'Жена';
 $Definition['Fifth Anniversary'] = 'Пета годишнина';
@@ -774,6 +774,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} постави заб
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} коментира върху <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} ви изпрати <a href="{Url,html}">message</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} започна нова дискусия.<a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} стартира нова анкета в {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} публикува нов въпрос в {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ви спомена в <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} промени профилната снимка за {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} се присъедини.';
@@ -806,6 +808,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Приемам <a id="TermsOfService" class="Popup" target="terms" href="%s">Общите условия</a>';
 $Definition['Icon'] = 'Икона';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Потвърждавам, че имам разрешение да използвам предоставените имейл адреси.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Тъй като съм под %d години, потвърждавам, че получих съгласие да се присъединя към тази общност.';
 $Definition['Icon for: '] = 'Икона за:';
 $Definition['Idea'] = 'Идея';
@@ -1731,6 +1734,8 @@ $Definition['Updated By'] = 'Актуализирано от';
 $Definition['Updates'] = 'Актуализации';
 $Definition['Upload'] = 'Качване';
 $Definition['Uploaded <0/>'] = 'Качено <0/>';
+$Definition['Upload File'] = 'Качи файл';
+$Definition['Upload Image'] = 'Качи изображение';
 $Definition['Uploading...'] = 'Качване...';
 $Definition['Upload New Icon'] = 'Добавяне на нова икона';
 $Definition['Upload New Picture'] = 'Качване на нова снимка';

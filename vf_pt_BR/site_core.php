@@ -20,7 +20,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s aprovou a part
 $Definition['%3$s created an account for %1$s.'] = '%3$s criou uma conta para %1$s.';
 $Definition['%s (Current)'] = '%s (Atual)';
 $Definition['%s activities'] = '%s atividades';
-$Definition['%s activity'] = '%s atividade';
+$Definition['%s activity'] = '%s atividade ';
 $Definition['%s Agrees'] = '%s Concorda';
 $Definition['%s and %s others'] = '%s e %s outros';
 $Definition['%s and you'] = '%s e você';
@@ -605,7 +605,7 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>(\\n)
 <p><a href="{Url}">Leia a história completa aqui</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji Categories'] = 'Categorias de Emojis';
-$Definition['Emoji Picker'] = 'Selecionador de Emoji';
+$Definition['Emoji Picker'] = 'Seleção de Emojis';
 $Definition['Enable'] = 'Habilitar';
 $Definition['Enabled'] = 'Ativos';
 $Definition['End time?'] = 'Acaba o tempo?';
@@ -645,6 +645,7 @@ $Definition['Failed to delete group.'] = 'Falhou ao excluir grupo.';
 $Definition['Failed to find discussion for commenting.'] = 'Não foi possível encontrar uma discussão para comentar.';
 $Definition['Failed to load the poll.'] = 'A publicação da enquete falhou.';
 $Definition['Favorites'] = 'Favoritos';
+$Definition['Featured Categories'] = 'Categorias em Destaque';
 $Definition['Feedback'] = 'Comentários';
 $Definition['Female'] = 'Feminino';
 $Definition['Fifth Anniversary'] = 'Quinto aniversário';
@@ -758,6 +759,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} baniu {ActivityUserID
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} comentou em <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} enviou a você uma <a href="{Url,html}">mensagem</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} começou uma nova discussão. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} iniciou uma nova votação em {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} postou uma nova pergunta em {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mencionou você em <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} mudou a imagem de perfil para {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} se juntou a comunidade.';
@@ -791,6 +794,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'Q
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Eu concordo com os <a id="TermsOfService" class="Popup" target="terms" href="%s">termos de serviço</a>';
 $Definition['Icon'] = 'Ícone';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Confirmo que tenho permissão para usar os endereços de e-mail fornecidos.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Como tenho menos de %d anos de idade, confirmo que eu recebi consentimento para participar desta comunidade.';
 $Definition['Icon for: '] = 'Ícone para:';
 $Definition['Idea'] = 'ideia';
@@ -1415,6 +1419,7 @@ $Definition['Search Subcategories'] = 'Procurar subcategorias';
 $Definition['search subcategories'] = 'pesquisar subsalas ';
 $Definition['Second Anniversary'] = 'Segundo aniversário';
 $Definition['Secret'] = 'Segredo';
+$Definition['SecretGroupDescription'] = 'Apenas os membros podem ver o grupo e visualizar seu conteúdo. As pessoas devem ser convidadas para participar.';
 $Definition['Sections'] = 'Seções';
 $Definition['Security Check'] = 'Checagem de segurança';
 $Definition['Select a %s'] = 'Selecionar como %s';
@@ -1693,6 +1698,8 @@ $Definition['Updated By'] = 'Atualizado por';
 $Definition['Updates'] = 'Atualizações';
 $Definition['Upload'] = 'Carregar';
 $Definition['Uploaded <0/>'] = 'Carregado <0/>';
+$Definition['Upload File'] = 'Subir arquivo';
+$Definition['Upload Image'] = 'Enviar Imagem';
 $Definition['Uploading...'] = 'Enviando...';
 $Definition['Upload New Icon'] = 'Enviar Novo Ícone';
 $Definition['Upload New Picture'] = 'Adicionar Nova Imagem';

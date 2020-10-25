@@ -604,7 +604,6 @@ $Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image}<s
 <p>{Excerpt}</p>
 <p><a href="{Url}">Læs resten af indlægget her</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji'] = 'Smiley';
-$Definition['Emoji Picker'] = 'Emoji-plukker';
 $Definition['Emoji Categories'] = 'Emoji-kategorier';
 $Definition['Emoji Picker'] = 'Emoji-plukker';
 $Definition['Emojis'] = 'Emojis ';
@@ -646,6 +645,7 @@ $Definition['Failed to delete group.'] = 'Kunne ikke slette gruppe.';
 $Definition['Failed to find discussion for commenting.'] = 'Kunne ikke finde diskussionen for at kommentere.';
 $Definition['Failed to load the poll.'] = 'Kunne ikke indlæse afstemningen';
 $Definition['Favorites'] = 'Favoritter';
+$Definition['Featured Categories'] = 'Fremhævede kategorier';
 $Definition['Female'] = 'Kvinde';
 $Definition['Fifth Anniversary'] = 'Femte jubilæum';
 $Definition['File'] = 'Fil';
@@ -756,6 +756,8 @@ $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} kommenterede på 
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} sendte dig en <a href="{Url,html}">besked</a>
 ';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} startede en ny diskussion. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} startede en ny afstemning i {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} stillede et nyt spørgsmål i {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} nævnte dig i <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} skiftede profilbilledet for {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} oprettede sig som bruger.';
@@ -788,6 +790,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'H
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'Jeg accepterer <a id="TermsOfService" class="Popup" target="terms" href="%s">Servicevilkårene</a>';
 $Definition['Icon'] = 'Ikon';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Jeg bekræfter, at jeg har tilladelse til at bruge de angivne e-mail-adresser.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Da jeg er under %d år, bekræfter jeg, at jeg har fået tilladelse til at deltage i dette fællesskab.';
 $Definition['Icon for: '] = 'Ikon for:';
 $Definition['Idea'] = 'Idé';
@@ -1654,6 +1657,8 @@ $Definition['Updated badge'] = 'Opdaterede emblem';
 $Definition['Updated By'] = 'Opdateret af';
 $Definition['Updates'] = 'Opdateringer';
 $Definition['Uploaded <0/>'] = 'Uploadet <0/>';
+$Definition['Upload File'] = 'Upload fil';
+$Definition['Upload Image'] = 'Upload billede';
 $Definition['Uploading...'] = 'Uploader...';
 $Definition['Upload New Icon'] = 'Upload Nyt Ikon';
 $Definition['Upload New Picture'] = 'Upload nyt billede';

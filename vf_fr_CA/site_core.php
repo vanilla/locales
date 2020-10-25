@@ -636,6 +636,7 @@ $Definition['Failed to delete group.'] = 'Échec lors de la suppression du group
 $Definition['Failed to find discussion for commenting.'] = 'Discussion égarée';
 $Definition['Failed to load the poll.'] = 'Échec du chargement de ce sondage. ';
 $Definition['Favorites'] = 'Favoris';
+$Definition['Featured Categories'] = 'catégories vedettes';
 $Definition['Feedback'] = 'Retour';
 $Definition['Female'] = 'Femme';
 $Definition['Fifth Anniversary'] = 'Cinquième Anniversaire';
@@ -747,6 +748,8 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} banni {ActivityUserID
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} a publié une réponse sur <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} vous a envoyé un <a href="{Url,html}">message</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} a crée une nouvelle discussion. <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} a lancé un nouveau sondage dans {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} a publié une nouvelle question dans {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} vous a mentionné dans <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} avez changé de photo {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,User} a rejoint la communauté.';
@@ -780,6 +783,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = '�
 
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'J\'accepte les <a id="TermsOfService" class="Popup" target="terms" href="%s">conditions d\'utilisation du forum</a>';
 $Definition['Icon'] = 'Icône';
+$Definition['I confirm that I have permission to use the email addresses provided.'] = 'Je confirme que j\'ai l\'autorisation d\'utiliser les adresses e-mail fournies.';
 $Definition['I confirm that I have received consent to join this community.'] = 'Étant âgé de moins de %d ans, je confirme avoir reçu la permission de rejoindre cette communauté.';
 $Definition['Icon for: '] = 'Icône pour :';
 $Definition['Idea'] = 'Idée';
@@ -1659,6 +1663,8 @@ $Definition['Updated By'] = 'Mis à jour par';
 $Definition['Updates'] = 'Mises à jour';
 $Definition['Upload'] = 'Envoyer';
 $Definition['Uploaded <0/>'] = '<0/> téléchargé(s)';
+$Definition['Upload File'] = 'Téléverser un fichier';
+$Definition['Upload Image'] = 'Télécharger l\'image';
 $Definition['Uploading...'] = 'Envoi en cours...';
 $Definition['Upload New Icon'] = 'Télécharger une nouvelle icône';
 $Definition['Upload New Picture'] = 'Télécharger une Nouvelle Image';
