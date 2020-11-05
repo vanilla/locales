@@ -2057,3 +2057,4 @@ $Definition['Category: "%s"'] = 'Categoria: "%s"';
 $Definition['User: "%s"'] = 'Utente: "%s"';
 $Definition['Group: "%s"'] = 'Gruppo: "%s"';
 $Definition['Global Navigation'] = 'Navigazione Globale';
+$Definition['Skip to content'] = 'Salta il contenuto';
