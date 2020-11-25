@@ -2045,6 +2045,14 @@ $Definition['Error'] = 'Error';
 $Definition['Toggle Quote'] = 'Toggle Quote';
 $Definition['Spoiler Warning'] = 'Spoiler Warning';
 
+// Image Size & placement
+$Definition['Float left'] = 'Float left';
+$Definition['Centered'] = 'Centered';
+$Definition['Float right'] = 'Float right';
+$Definition['Small'] = 'Small';
+$Definition['Medium'] = 'Medium';
+$Definition['Large'] = 'Large';
+
 // Catalogue Display Plugin/Formats
 $Definition['Placeholder'] = 'Placeholder';
 
