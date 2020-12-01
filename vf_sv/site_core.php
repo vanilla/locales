@@ -581,6 +581,7 @@ $Definition['EmailPassword'] = '%2$s har återställt ditt lösenord %3$s. Dina 
   Email: %6$s
   Password: %5$s
   Url: %4$s';
+$Definition['Emails'] = 'E-postmeddelanden';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'E-post som skickas från applikationen kommer att adresseras från följande namn och adress';
 $Definition['Email Source'] = 'E-post';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -1473,6 +1474,8 @@ $Definition['Sink this discussion'] = 'Sänk denna diskussion';
 $Definition['Site'] = 'Hemsida';
 $Definition['Sitemap Settings'] = 'Inställningar för Sitemap';
 $Definition['Sites'] = 'Hemsidor';
+$Definition['Sixth Anniversary'] = 'Sjätte årsdagen';
+$Definition['Skip to content'] = 'hoppa till innehåll';
 $Definition['Smileys & Faces'] = 'Smileys & ansikten';
 $Definition['Sixth Anniversary'] = 'Sjätte årsdagen';
 $Definition['Social'] = 'Social';
@@ -1658,6 +1661,7 @@ $Definition['Twitter'] = 'Twitter';
 $Definition['Twitter Connect'] = 'Koppla till Twitter';
 $Definition['Twitter Settings'] = 'Inställningar för Twitter';
 $Definition['Type'] = 'Typ';
+$Definition['Type or paste emails separated by commas.'] = 'Skriv eller klistra in e-postmeddelanden åtskilda av kommatecken.';
 $Definition['Type the text:'] = 'Skriv texten:';
 $Definition['Type what you hear:'] = 'Skriv vad du hör:';
 $Definition['Type your comment'] = 'Skriv din kommentar';
@@ -1718,6 +1722,7 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = 'A
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Användarnamnet kan bara innehålla bokstäver, siffror, understreck _ och måste vara mellan 3 och 20 tecken långt.';
 $Definition['UsernameError'] = 'Användarnamnet kan bara innehålla bokstäver, siffror, understreck _ och måste vara mellan 3 och 20 tecken långt.';
 $Definition['Username or email'] = 'Användarnamn eller e-postadress';
+$Definition['Usernames'] = 'Användarnamn';
 $Definition['User Not Found'] = 'Användaren hittades inte.';
 $Definition['User not found.'] = 'Inget konto relaterat till den e-postadress/användarnamn du angav kunde hittas.';
 $Definition['Users'] = 'Användare';

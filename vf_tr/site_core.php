@@ -583,6 +583,7 @@ $Definition['EmailPassword'] = '%2$s parolanızı %3$s \'de sıfırladı. Artık
   E-Posta: %6$s
   Parola: %5$s
   Url: %4$s';
+$Definition['Emails'] = 'E-postalar';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'Uygulama tarafından gönderilen e-posta aşağıdaki isim ve adres ile gönderilecek.';
 $Definition['Email Source'] = 'Eposta';
 $Definition['EmailStoryNotification'] = '%1$s
@@ -1475,6 +1476,8 @@ $Definition['Sink this discussion'] = 'Bu tartışmayı düşür.';
 $Definition['Site'] = 'Site';
 $Definition['Sitemap Settings'] = 'Site Haritası Ayarları';
 $Definition['Sites'] = 'Siteler';
+$Definition['Sixth Anniversary'] = 'Altıncı Yıldönümü';
+$Definition['Skip to content'] = 'İçeriğe atla';
 $Definition['Smileys & Faces'] = 'İfadeler ve Yüzler';
 $Definition['Sixth Anniversary'] = 'Altıncı Yıldönümü';
 $Definition['Social'] = 'Sosyal';
@@ -1647,6 +1650,7 @@ $Definition['Twitter'] = 'Twitter';
 $Definition['Twitter Connect'] = 'Twitter Bağlama';
 $Definition['Twitter Settings'] = 'Twitter Ayarları';
 $Definition['Type'] = 'Tip';
+$Definition['Type or paste emails separated by commas.'] = 'E-postaları virgülle ayırarak yazın veya yapıştırın.';
 $Definition['Type the text:'] = 'Metni yaz:';
 $Definition['Type what you hear:'] = 'Duyduğunu yaz:';
 $Definition['Type your comment'] = 'Yorumunuzu yazın';
@@ -1707,6 +1711,7 @@ $Definition['Username can only contain letters, numbers, and underscores.'] = 'K
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Kullanıcı adı sadece harflerden, sayılardan ve alt çizgiler içerebilir ve 3 ile 20 arasında karakterden oluşmalıdır.';
 $Definition['UsernameError'] = 'Kullanıcı adı sadece harflerden, sayılardan ve alt çizgiler içerebilir ve 3 ile 20 arasında karakterden oluşmalıdır.';
 $Definition['Username or email'] = 'Kullanızı Adı yada E-posta';
+$Definition['Usernames'] = 'Kullanıcı adları';
 $Definition['User Not Found'] = 'Kullanıcı Bulunamadı';
 $Definition['User not found.'] = 'Üzgünüm, girilen e-posta adresi yada parolayla ilgili bir hesap bulunamadı.';
 $Definition['Users'] = 'Kullanıcılar';
