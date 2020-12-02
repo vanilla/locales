@@ -95,6 +95,8 @@ $Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark 
 $Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
 $Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Users will be redirected to this URL after accepting an invitation. It can be a full URL or a path to redirect within the site.';
 
+$Definition['ValidateTag'] = 'Tags cannot contain spaces.';
+
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading. If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Welcome to Vanilla\'s theming UI. This page lists all of your available themes, and allows you to copy or edit them.';
 $Definition['Which reactions you use really depends on your community.'] = 'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';

@@ -1735,7 +1735,6 @@ $Definition['ValidateRequired'] = '%s e a nyakega.';
 $Definition['ValidateRequiredArray'] = 'O swanetše go kgetha bonyenyane e tee %s.';
 $Definition['ValidateStrength'] = 'Yeo e dirilwego %s ke e fokolago kudu. Leka go diriša password e matla gomme o diriše strength meter e le tlhahlo.';
 $Definition['ValidateString'] = '%s ga se karolo ya maleba.';
-$Definition['ValidateTag'] = 'Maswao ga a na dikgoba.';
 $Definition['ValidateTime'] = '%s ga se nako ya maleba.';
 $Definition['ValidateTimestamp'] = '%s ga se setempe sa kgonthe.';
 $Definition['ValidateUrl'] = 'Karolo ya %s ga se url ya kgonthe.';

@@ -233,6 +233,8 @@ $Definition['Users may sign into your site using their Twitter account.'] = 'Use
 
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
+$Definition['Verify and restore'] = 'Verify and restore';
+$Definition['VerifyUser'] = 'Check the box next to the user to mark them as <b>Verified</b> so their posts don\'t get marked as spam again. This will also restore all of their pending posts.';
 $Definition['Video tutorial on advanced settings'] = 'Video tutorial on advanced settings';
 $Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding &amp; managing users';
 $Definition['Video tutorial on managing appearance'] = 'Video tutorial on managing appearance';
