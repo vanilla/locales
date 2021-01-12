@@ -1210,6 +1210,7 @@ $Definition['Popup'] = 'Popup';
 $Definition['Position'] = 'Position';
 $Definition['Post'] = 'Post';
 $Definition['post'] = 'post';
+$Definition['Notifications Postmaster'] = 'Notifications Postmaster';
 $Definition['Post Comment'] = 'Post Comment';
 $Definition['Post Discussion'] = 'Post Discussion';
 $Definition['Post edited by %1$s at %2$s'] = 'Post edited by %1$s at %2$s';
