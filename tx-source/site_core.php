@@ -1087,6 +1087,7 @@ $Definition['Notification'] = 'Notification';
 $Definition['Notification Preferences'] = 'Notification Preferences';
 $Definition['Notifications'] = 'Notifications';
 $Definition['Notifictions'] = 'Notifictions';
+$Definition['Notifications Postmaster'] = 'Notifications Postmaster';
 $Definition['Notify'] = 'Notify';
 $Definition['Notify me of private messages.'] = 'Notify me of private messages.';
 $Definition['Notify me when a badge is requested.'] = 'Notify me when a badge is requested.';
