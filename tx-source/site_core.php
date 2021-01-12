@@ -642,6 +642,8 @@ $Definition["Expand All"] = "Expand All";
 $Definition['Expired'] = 'Expired';
 $Definition['Expires'] = 'Expires';
 $Definition['expires %s'] = 'expires %s';
+$Definition['%s existing post'] = '%s existing post';
+$Definition['%s existing posts'] = '%s existing posts';
 
 $Definition['Facebook Connect'] = 'Facebook Connect';
 $Definition['Failed to delete group.'] = 'Failed to delete group.';
