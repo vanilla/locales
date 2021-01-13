@@ -1088,6 +1088,7 @@ $Definition['Notification'] = 'Notifica';
 $Definition['Notification Preferences'] = 'Preferenze di notifica';
 $Definition['Notifications'] = 'Notifiche';
 $Definition['Notifictions'] = 'Notifiche';
+$Definition['Notifications Postmaster'] = 'Notifiche Postmaster';
 $Definition['Notify'] = 'Invia una notifica';
 $Definition['Notify me of private messages.'] = 'Inviami una notifica quando ricevo un messaggio privato.';
 $Definition['Notify me when a badge is requested.'] = 'Comunicami quando viene richiesto un badge.';
