@@ -644,6 +644,8 @@ $Definition["Expand All"] = "Expand All";
 $Definition['Expired'] = 'Expired';
 $Definition['Expires'] = 'Expires';
 $Definition['expires %s'] = 'expires %s';
+$Definition['%s existing post'] = '%s existing post';
+$Definition['%s existing posts'] = '%s existing posts';
 
 $Definition['Facebook Connect'] = 'Facebook Connect';
 $Definition['Failed to delete group.'] = 'Failed to delete group.';
@@ -1088,6 +1090,7 @@ $Definition['Notification'] = 'Notification';
 $Definition['Notification Preferences'] = 'Notification Preferences';
 $Definition['Notifications'] = 'Notifications';
 $Definition['Notifictions'] = 'Notifictions';
+$Definition['Notifications Postmaster'] = 'Notifications Postmaster';
 $Definition['Notify'] = 'Notify';
 $Definition['Notify me of private messages.'] = 'Notify me of private messages.';
 $Definition['Notify me when a badge is requested.'] = 'Notify me when a badge is requested.';
