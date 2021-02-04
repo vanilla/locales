@@ -129,6 +129,7 @@ $Definition['MobileLogoDescription'] =
     'The mobile banner logo appears at the top of your site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobile themes allow you to change the look and feel of your site on smaller devices.';
+$Definition['Moderation Overview'] = 'Moderation Overview';
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Nested categories deeper than this depth will be placed in a comma-delimited list.';
