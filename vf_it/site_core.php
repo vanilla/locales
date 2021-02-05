@@ -760,6 +760,8 @@ $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} ha cominciato 
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} ha iniziato un nuovo sondaggio in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} ha pubblicato una nuova domanda in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ti ha citato/a su <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.NotifyWallComment'] = '{ActivityUserID,User}ha commentato sulla tua <a href="{Url,url}">bacheca</a>.';
+$Definition['HeadlineFormat.NotifyWallPost'] = '{ActivityUserID,User}ha postato sulla tua <a href="{Url,url}">bacheca</a>.';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} hai cambiato l\'immagine del profilo per {ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} ti sei unito/a.';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} sei stato riammesso/a {ActivityUserID,you}.';
