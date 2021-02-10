@@ -553,7 +553,6 @@ $Definition['Edit Tag'] = 'Editar Etiqueta';
 $Definition['Edit Thumbnail'] = 'Editar Miniatura ';
 $Definition['Eighth Anniversary'] = 'Octavo Aniversario ';
 $Definition['Email'] = 'Correo Electrónico';
-$Definition['Emails'] = 'Correos electrónicos';
 $Definition['Email/Username'] = 'Correo Electrónico /Nombre de Usuario';
 $Definition['EmailConfirmEmail'] = 'Necesitas confirmar tu dirección de correo electrónico antes de poder continuar. Por favor confirma tu dirección de correo electronico haciendo clic en el siguiente enlace: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '¡Que tengas un buen día!';
@@ -1661,7 +1660,6 @@ $Definition['Type the text:'] = 'Escribe el texto:';
 $Definition['Type what you hear:'] = 'Escribe lo que oyes:';
 $Definition['Type your comment'] = 'Escribe tu comentario';
 $Definition['Type your message'] = 'Escribe tu mensaje';
-$Definition['Type or paste emails separated by commas.'] = 'Escriba o pegue correos electrónicos separados por comas.';
 
 $Definition['Unable to send message, %s is ignoring you.'] = 'Incapaz de enviar el mensaje, %s te está ignorando.';
 $Definition['Unannounce'] = 'Sin Previo Aviso ';
@@ -1713,7 +1711,6 @@ $Definition['User "%s" started discussion "%s" on date %s'] = 'El usuario "%s" i
 $Definition['User: "%s"'] = 'Usuario: "%s"';
 $Definition['UserMatchNeedsPassword'] = 'Estás intentando ingresar con un nombre de usuario que ya está asignado a un usuario en este foro. Si esta es tu cuenta ingresa la contraseña de la cuenta.';
 $Definition['Username'] = 'Nombre Usuario';
-$Definition['Usernames'] = 'Nombres de usuario';
 $Definition['Username already exists.'] = 'El nombre de usuario ya existe.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Los nombres de usuarios solamente pueden contener letras, números y guiones bajos. ';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'El nombre de usuario solo puede contener letras, números, guiones bajos y deben tener entre 3 y 20 caracteres de largo.  ';
@@ -1958,93 +1955,5 @@ $Definition['Your status for this event is now: <b>%s</b>'] = 'Tu estado para es
 $Definition['Your warning was added.'] = 'Tu advertencia fue añadida.';
 $Definition['You were added to a conversation.'] = '{InsertUserID,user} agregado {NotifyUserID,you} a una <a href="{Url,htmlencode}"> conversación </a>.';
 $Definition['You will receive a notification when you are accepted.'] = 'Recibirá una notificación cuando sea aceptado.';
-$Definition["yyyy-mm-dd"] = "aaaa/mm/dd";
-$Definition["Zip"] = "Zip";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Editor de Texto Enriquecido.';
-$Definition['richEditor.description.paragraphMenu'] = 'Para editar el estilo de un párrafo, presiona el tabulador para entrar en el menú de párrafo. Desde ahí, podrás elegir un estilo. No hay nada predeterminado con respecto al párrafo.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Aparecerá un menú de formato de texto cuando selecciones texto. Dale al tabulador para entrar en ese menú,';
-$Definition['richEditor.description.embed'] = 'Algunos elementos como incrustaciones, imágenes, indicadores de carga y mensajes de error pueden insertarse en el editor. Puedes navegar a estos usando las teclas de flecha dentro del editor y elimandolos con la tecla de borrar o retroceder. ';
-$Definition['richEditor.externalEmbed.description'] = 'Esto es un incrustado. Se puede eliminar usando la tecla de  "borrar" o de "retroceso". Presiona "tab" para acceder a las opciones de inserción.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Utiliza los atajos de teclado "página arriba" y "página abajo" para recorrer las categorías disponibles cuando el menú de emoji esté abierto.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Menú de Formato de Texto';
-$Definition['Format as Bold'] = 'Formatear como Negrita';
-$Definition['Bold'] = 'Negrita';
-$Definition['Format as Italic'] = 'Formatear como Cursiva';
-$Definition['Italic'] = 'Itálica';
-$Definition['Format as Strikethrough'] = 'Formatear como Tachado';
-$Definition['Strikethrough'] = 'Tachar';
-$Definition['Format as Inline Code'] = 'Formatear como Código en Línea';
-$Definition['Paragraph Code Block'] = 'Bloque de Código';
-$Definition['Parent'] = 'Principal';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Párrafo (Elimina el estilo del párrafo y lo convierte en un párrafo sin formato)';
-$Definition['Code Block'] = 'Bloque de Código';
-$Definition['Format as Link'] = 'Formatear Como Enlace';
-$Definition['Link'] = 'Enlace';
-$Definition['Insert Url'] = 'Insertar URL';
-$Definition['Paste or type a link…'] = 'Pega o escribe un enlace...';
-$Definition['Close'] = 'Cerrar';
-$Definition['Line Level Formatting Menu'] = 'Menú de Formato de Párrafo ';
-$Definition['Paragraph'] = 'Párrafo';
-$Definition['Format as Paragraph'] = 'Formatear como un párrafo normal ';
-$Definition['Subtitle'] = 'Subtítulo';
-$Definition['Format as Title'] = 'Formatear como Título';
-$Definition['Sub Subtitle'] = 'Subtítulo';
-$Definition['Format as Subtitle'] = 'Formatear como Subtítulo';
-$Definition['Quote'] = 'Citar';
-$Definition['Format as blockquote'] = 'Formatear como cita en bloque';
-$Definition['Format as code block'] = 'Formatear como bloque de código';
-$Definition['Spoiler'] = 'Spoiler ';
-$Definition['Format as spoiler'] = 'Formatear como Spoiler';
-$Definition['Inline Menu Available'] = 'Menú en línea disponible';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emojis';
-$Definition['Insert an emoji in your message.'] = 'Inserta un emoji en el mensaje.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Pasar de la lista de emojis a las categorías de emojis.';
-$Definition['Emoji Categories'] = 'Categorías de Emojis';
-$Definition['Jump to emoji category: %s'] = 'Pasar a la categoría de emoji: %s';
-$Definition['In emoji category: %s'] = 'En la categoría de emoticonos: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Emoticonos y Personas';
-$Definition['Animals & Nature'] = 'Animales y Naturaleza';
-$Definition['Food & Drink'] = 'Comida y Bebida';
-$Definition['Travel & Places'] = 'Viajes y Lugares';
-$Definition['Activities'] = 'Actividades';
-$Definition['Objects'] = 'Objetos';
-$Definition['Symbols'] = 'Símbolos';
-$Definition['Flags'] = 'Indicadores';
-
-// Media Insertion
-$Definition['Image'] = 'Imagen';
-$Definition['Insert Media'] = 'Insertar Multimedia';
-$Definition['Paste the URL of the media you want.'] = 'Pega el URL del medio que desee.';
-$Definition['Embed'] = 'Incrustar';
-$Definition['Error'] = 'Error';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Alternar Cita';
-$Definition['Spoiler Warning'] = 'Alerta de Spoiler';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Marcador de Posición';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s para la discusión: "%s"';
-$Definition['%s for category: "%s"'] = '%s para la categoría: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s comentario de usuario: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'El usuario "%s" inició la discusión "%s" en la fecha %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'El comentario más reciente de la fecha %s, en la discusión "%s", del usuario "%s"';
-$Definition['%s for category: "%s"'] = '%s para la categoría: "%s"';
-$Definition['Category: "%s"'] = 'Categoría: "%s"';
-$Definition['User: "%s"'] = 'Usuario: "%s"';
-$Definition['Group: "%s"'] = 'Grupo: "%s"';
-$Definition['Global Navigation'] = 'Navegación Global';
-$Definition['Skip to content'] = 'Saltar al contenido ';
+$Definition['You wrote:'] = 'Has escrito:';
+$Definition['yyyy-mm-dd'] = 'aaaa/mm/dd';
