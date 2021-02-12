@@ -257,6 +257,7 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 $Definition['Vanilla Export: %s, Source: %s'] = 'Exportation de Vanille: %s, Source : %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Le module Vanilla Statistics est actuellement désactivé';
 $Definition['Verify and restore'] = 'Vérifier et restaurer';
+$Definition['VerifyUser'] = 'Cochez la case à côté d\'un utilisateur pour le marquer <b>Vérifié</b>, afin qu\'il ne puisse pas à nouveau être marqué comme spam. Cela va aussi restaurer toutes ses publications en attente.';
 $Definition['Video tutorial on advanced settings'] = 'Tutoriel vidéo sur les paramètres avancés';
 $Definition['Video tutorial on finding &amp; managing users'] = 'Tutoriel vidéo sur la recherche & la gestion d\'utilisateurs';
 $Definition['Video tutorial on managing appearance'] = 'Tutoriel vidéo sur la gestion de l\'apparence';

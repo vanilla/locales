@@ -29,6 +29,8 @@ $Definition['Garden.Import.Continue.Description'] = 'It appears as though you ar
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} started a new poll in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} posted a new question in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.NotifyWallComment'] = '{ActivityUserID,User} commented on your <a href="{Url,url}">wall</a>.';
+$Definition['HeadlineFormat.NotifyWallPost'] = '{ActivityUserID,User} posted on your <a href="{Url,url}">wall</a>.';
 $Definition['Here are the ranks that users can achieve on your site.'] = 'Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.';
 
 $Definition['If you have an old theme'] = 'If you have an old theme and need to set a separate desktop and mobile theme you can do so with the old theming UI.';
@@ -95,7 +97,8 @@ $Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark 
 $Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
 $Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Users will be redirected to this URL after accepting an invitation. It can be a full URL or a path to redirect within the site.';
 
-$Definition['ValidateTag'] = 'Tags cannot contain spaces.';
+$Definition['ValidateTag'] = 'Tags cannot contain commas or underscores.';
+$Definition['VerifyUser'] = 'Check the box next to the user to mark them as <b>Verified</b> so their posts don\'t get marked as spam again. This will also restore all of their pending posts.';
 
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading. If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Welcome to Vanilla\'s theming UI. This page lists all of your available themes, and allows you to copy or edit them.';
