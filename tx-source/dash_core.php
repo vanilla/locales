@@ -217,6 +217,7 @@ $Definition['Consumer Secret'] = 'Consumer Secret';
 $Definition['Content Curation'] = 'Content Curation';
 $Definition['Content flagged as spam is stored here for moderator review.'] = 'Content flagged as spam is stored here for moderator review.';
 $Definition['Content Flagging'] = 'Content Flagging';
+$Definition['Content Security Domains'] = 'Content Security Domains';
 $Definition['Conversation Messages'] = 'Conversation Messages';
 $Definition['Conversations'] = 'Conversations';
 $Definition['Conversations Setup'] = 'Conversations Setup';
@@ -861,6 +862,7 @@ $Definition['You can customize the HTML and CSS for this theme on the %s page.']
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'You can either create a new account, or enter your credentials if you have an existing account.';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
 $Definition['You can specify a whitelist of trusted domains.'] = 'You can specify a whitelist of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
+$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'You can specify a whitelist of trusted domains (ex. yourdomain.com) that are safe to load javascript from.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'You can protect your site with an HTTP username/password during development.';
