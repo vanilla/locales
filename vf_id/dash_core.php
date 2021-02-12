@@ -216,6 +216,7 @@ $Definition['Consumer Secret'] = 'Rahasia Konsumen';
 $Definition['Content Curation'] = 'Kurasi Konten';
 $Definition['Content flagged as spam is stored here for moderator review.'] = 'Konten berbendera sebagai spam disimpan di sini untuk ditinjau moderator.';
 $Definition['Content Flagging'] = 'Pemberian Bendera Pada Konten';
+$Definition['Content Security Domains'] = 'Domain Keamanan Konten';
 $Definition['Conversation Messages'] = 'Pesan-pesan Perbincangan';
 $Definition['Conversations'] = 'Perbincangan';
 $Definition['Conversations Setup'] = 'Pengaturan Perbincangan';
