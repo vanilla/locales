@@ -157,6 +157,7 @@ $Definition['LogoDisclaimer'] = '테마 편집기로 만든 테마 및 일부 �
 
 $Definition['Make sure you click View Page'] = '저장한 후에 카테고리 페이지가 어떤지 확인하려면반드시 <a href="%s">보기 페이지(View Page)</a>를 클릭해 주세요.';
 $Definition['Manage Routes'] = '라우팅 경로 설정';
+$Definition['Managing Users'] = '사용자 관리';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = '스팸이 아니라고 표시하면 포럼에 다시 표시합니다. ';
 $Definition['Marking things as not spam will put them back in your forum.'] = '스팸이 아니라고 표시하면 포럼에 다시 표시됩니다. ';
 $Definition['Messages can appear anywhere in your application.'] = '메시지는 포럼에 어디에나 나타날 수 있으며, 뉴스나 공지, 이벤트 등의 정보를 알리기 위해 사용할 수 있습니다.

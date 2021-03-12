@@ -142,6 +142,7 @@ $Definition['LogoDisclaimer'] = 'تھیم ایڈیٹر اور کچھ کسٹم ت
 
 $Definition['Make sure you click View Page'] = 'اس بات کو یقینی بنائیں کہ بچت کے بعد آپ کے زمرے کا صفحہ کیسا لگتا ہے اس کے ل you آپ <a href="%s">دیکھیں صفحے</a> پر کلک کریں ۔';
 $Definition['Manage Routes'] = 'راستوں کا انتظام کریں';
+$Definition['Managing Users'] = 'صارفین کا انتظام کرنا';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'چیزوں کو اسپام کے بطور نشان زد کرنے سے وہ آپ کے فورم میں واپس آجائیں گی۔';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'چیزوں کو اسپام کے بطور نشان زد کرنے سے وہ آپ کے فورم میں واپس آجائیں گی۔';
 $Definition['Messages can appear anywhere in your application.'] = 'پیغامات آپ کی درخواست میں کہیں بھی ظاہر ہوسکتے ہیں ، اور آپ کے صارفین کو خبروں اور واقعات سے آگاہ کرنے کے لئے استعمال ہوسکتے ہیں۔ اپنے پیغامات کو اوپر یا نیچے گھسیٹ کر دوبارہ منظم کرنے کے لئے اس صفحے کا استعمال کریں۔';

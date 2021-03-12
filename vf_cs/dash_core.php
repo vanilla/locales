@@ -129,6 +129,7 @@ $Definition['Condition Type'] = 'Druh';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['Connections'] = 'Spojení';
 $Definition['Content Curation'] = 'Výběr obsahu';
+$Definition['Content Security Domains'] = 'Domény zabezpečení obsahu';
 $Definition['CreateFile'] = 'Create';
 $Definition['CssClass'] = 'Třída CSS';
 $Definition['Current Mobile Theme'] = 'Současné mobilní téma';

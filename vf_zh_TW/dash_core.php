@@ -217,6 +217,7 @@ $Definition['Consumer Secret'] = '使用者密鑰';
 $Definition['Content Curation'] = '內容策劃';
 $Definition['Content flagged as spam is stored here for moderator review.'] = '被標示為垃圾訊息的內容，將暫存在此處等待審閱。';
 $Definition['Content Flagging'] = '內容標示';
+$Definition['Content Security Domains'] = '內容安全域';
 $Definition['Conversation Messages'] = '對話訊息';
 $Definition['Conversations'] = '對話';
 $Definition['Conversations Setup'] = '對話設定';

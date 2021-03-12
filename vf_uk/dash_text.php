@@ -135,6 +135,7 @@ $Definition['LogoDisclaimer'] = 'Теми, створені за допомог�
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Manage Routes'] = 'Керування Маршрутами';
+$Definition['Managing Users'] = 'Керування користувачами';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Позначення речей, як "НЕ спам" поверне їх на ваш форум.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Позначаючи речі, як "не спам" - повернете їх назад на форум.';
 $Definition['Messages can appear anywhere in your application.'] = 'Повідомлення можуть зявлятись де завгодно в вашому сайті, і можуть бути використані для оповіщення користувачів про новини та події. Використовуйте цю сторінку, щоб реорганізувати ваші повідомлення, пересуваючи їх вниз чи вверх.';

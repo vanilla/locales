@@ -141,6 +141,7 @@ $Definition['LogoDisclaimer'] = 'Temele realizate cu editorul de teme și unele 
 
 $Definition['Make sure you click View Page'] = 'Asiguraţi-vă că faceţi click pe <a href="%s">Vizualizare pagină</a> pentru a vedea cum va arăta pagina de categorii după salvare';
 $Definition['Manage Routes'] = 'Gestionare rute';
+$Definition['Managing Users'] = 'Gestionarea utilizatorilor';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Demarcarea Spam va pune elementele înapoi în forum';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Demarcarea Spam va pune elementele înapoi în forum';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesajele pot apărea oriunde în aplicaţia dumneavoastră, şi pot fi utilizate pentru a informa utilizatorii de ştiri şi evenimente. Utilizaţi această pagină pentru a reorganiza mesajele prin drag & drop';

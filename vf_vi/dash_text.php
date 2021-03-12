@@ -143,6 +143,7 @@ $Definition['LogoDisclaimer'] = 'Các chủ đề được tạo bằng trình c
 
 $Definition['Make sure you click View Page'] = 'Hãy đảm bảo bạn đã bấm vào <a href="%s">Xem trang</a> để xem trang danh mục sau khi lưu trông như thế nào.';
 $Definition['Manage Routes'] = 'Quản lý các tuyến đường';
+$Definition['Managing Users'] = 'Quản lý người dùng';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Đánh dấu những thứ là không phải thư rác sẽ đặt chúng trở lại trong diễn đàn của bạn.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Đánh dấu những thứ là không phải thư rác sẽ đặt chúng trở lại trong diễn đàn của bạn.';
 $Definition['Messages can appear anywhere in your application.'] = 'Tin nhắn có thể xuất hiện bất cứ nơi nào trong ứng dụng của bạn, và có thể được sử dụng để thông báo cho người dùng về tin tức và sự kiện. Sử dụng Trang này để tái tổ chức thư của bạn bằng cách kéo chúng lên hoặc xuống.';

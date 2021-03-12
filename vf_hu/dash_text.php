@@ -143,6 +143,7 @@ $Definition['LogoDisclaimer'] = 'A témaszerkesztővel készített témák és e
 
 $Definition['Make sure you click View Page'] = 'Kattints a <a href="%s">Oldal megtekintése</a> -re, hogy lásd hogyan fog a kategória oldalad kinézni a mentés után.';
 $Definition['Manage Routes'] = 'Utak kezelése';
+$Definition['Managing Users'] = 'Felhasználók kezelése';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Ha valamit úgy jelölsz, mint NEM spam, vissza fogja azt juttatni a fórumodba.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ha valamit úgy jelölsz, mint nem spam, vissza fogja azt juttatni a fórumodba.';
 $Definition['Messages can appear anywhere in your application.'] = 'Az üzenetek bárhol megjeleníthetőek a fórumban. Ezzel a módszerrel értesíteni tudod a felhasználókat az új hírekről és eseményekről. Az üzenetek újraszervezését az üzenet lefelé illetve felfelé való mozgatásával érheted el. ';

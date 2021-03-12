@@ -109,6 +109,7 @@ $Definition['Connections'] = 'Połączenia';
 $Definition['Consumer Key'] = 'Klucz klienta';
 $Definition['Consumer Secret'] = 'Sekretny klucz klienta';
 $Definition['Content Curation'] = 'Przechowywanie treści';
+$Definition['Content Security Domains'] = 'Domeny bezpieczeństwa treści';
 $Definition['Conversation Messages'] = 'Przekazy konwersacji';
 $Definition['Conversations'] = 'Konwersacje';
 $Definition['CreateFile'] = 'Create';
@@ -137,6 +138,7 @@ $Definition['Discussions per Page'] = 'Dyskusji na stronę';
 $Definition['Dismissable'] = 'Pomijalne';
 $Definition['Display a searchbox on top of the banner image.'] = 'Wyświetl pole wyszukiwania u góry obrazu banera.';
 $Definition['Display on category page only.'] = 'Wyświetl tylko na stronie kategorii. Nie będzie to miało wpływu na listę niedawnych dyskusji.';
+$Definition['Display Open Cases in Profile Page?'] = 'Wyświetlać otwarte zgłoszenia na stronie profilu?';
 $Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'Wyświetla obraz banera ze strony brandingu w widoczny sposób w całym motywie.';
 $Definition['DownloadLocalePack'] = 'Ściągnij';
 

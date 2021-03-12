@@ -142,6 +142,7 @@ $Definition['LogoDisclaimer'] = 'Nid yw\'r themâu a wneir gyda\'r golygydd them
 
 $Definition['Make sure you click View Page'] = 'Gofalwch glicio <a href="%s"> golwg tudalen</a> i weld sut mae\'ch tudalen gategorïau yn edrych ar ôl arbed.';
 $Definition['Manage Routes'] = 'Rheoli llwybrau';
+$Definition['Managing Users'] = 'Rheoli Defnyddwyr';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Bydd marcio pethau fel DIM sbam yn eu rhoi yn ôl yn eich Fforwm.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Bydd marcio pethau fel dim sbam yn eu rhoi yn ôl yn eich Fforwm.';
 $Definition['Messages can appear anywhere in your application.'] = 'Gall negeseuon ymddangos unrhyw le yn y rhaglen, a gellir eu defnyddio i roi gwybod i\'ch defnyddwyr am newyddion a digwyddiadau. Defnyddiwch y dudalen hon i ail-drefnu eich negeseuon drwy eu llusgo i fyny neu i lawr.';

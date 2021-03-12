@@ -144,6 +144,7 @@ $Definition['LogoDisclaimer'] = 'I temi creati con l\'editor dei temi e alcuni t
 
 $Definition['Make sure you click View Page'] = 'Assicuratevi di cliccare su <a href="%s">Visualizza pagina</a> per vedere come si presentano le dopo il salvataggio.';
 $Definition['Manage Routes'] = 'Gestisci Percorsi';
+$Definition['Managing Users'] = 'Gestione degli utenti';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marcare elementi come NON spam li inserirà di nuovo nel tuo forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcare elementi come non spam li inserirà di nuovo nel tuo forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Gli Avvisi possono apparire ovunque nella tua applicazione, e possono essere usati per informare gli utenti di news ed eventi. Usa questa pagina per riorganizzare i tuoi messaggi, trascinandoli su o giù.';

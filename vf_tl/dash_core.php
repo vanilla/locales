@@ -74,6 +74,7 @@ $Definition['Condition Type'] = 'I-type';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['Connections'] = 'Mga Koneksiyon';
 $Definition['Content Curation'] = 'Pagpili at Pamamahala sa Nilalaman';
+$Definition['Content Security Domains'] = 'Mga Domain ng Seguridad sa Nilalaman';
 $Definition['CreateFile'] = 'Create';
 $Definition['CssClass'] = 'Klaseng CSS';
 $Definition['Current Mobile Theme'] = 'Kasalukuyang Tema ng Mobile';
@@ -90,6 +91,7 @@ $Definition['Desktop Themes'] = 'Mga Tema na Para sa Desktop';
 $Definition['Dismissable'] = 'Maaaring Balewalain';
 $Definition['Display a searchbox on top of the banner image.'] = 'Ipakita ang searchbox sa itaas ng imahe ng banner.';
 $Definition['Display on category page only.'] = 'Ipakita lang sa pahina ng kategorya. Hindi maaapektuhan ang pinakabagong listahan ng mga usapan.';
+$Definition['Display Open Cases in Profile Page?'] = 'Ipakita ang Mga bukas na Kaso sa Pahina ng Profile?';
 $Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'Prominenteng ipinapakita ang imahe ng banner mula sa pahina ng pagba-brand sa buong theme.';
 $Definition['DownloadLocalePack'] = 'I-download';
 

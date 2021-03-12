@@ -143,6 +143,7 @@ $Definition['LogoDisclaimer'] = 'Τα θέματα που έχουν δημιο�
 
 $Definition['Make sure you click View Page'] = 'Βεβαιωθείτε ότι κάνατε κλικ στο <a href="%s">Εμφάνιση Σελίδας</a> για να δείτε πως θα φαίνεται η σελίδα των κατηγοριών μετά την αποθήκευση.';
 $Definition['Manage Routes'] = 'Διαχείριση Δρομολογήσεων';
+$Definition['Managing Users'] = 'Διαχείριση χρηστών';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Το μαρκάρισμα πραγμάτων ως ΟΧΙ spam θα τα βάλει πάλι πίσω στο φόρουμ σας.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Το μαρκάρισμα πραγμάτων ως όχι spam θα τα βάλει πάλι πίσω στο φόρουμ σας.';
 $Definition['Messages can appear anywhere in your application.'] = 'Τα μηνύματα μπορούν να εμφανισθούν οπουδήποτε στην εφαρμογή σας και μπορεί να χρησιμοποιηθούν για να ενημερώσουν τους χρήστες σας για νέα και για γεγονότα. Χρησιμοποιήστε αυτή τη σελίδα για να αναδιοργανώσετε τα μηνύματα σέρνοντάς τα επάνω ή κάτω.';

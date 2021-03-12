@@ -141,6 +141,7 @@ $Definition['LogoDisclaimer'] = 'Tema yang dibuat dengan editor tema dan beberap
 
 $Definition['Make sure you click View Page'] = 'Pastikan anda mengklik <a href="%s">Lihat Halaman</a> untuk melihat seperti apa halaman kategori anda setelah disimpan.';
 $Definition['Manage Routes'] = 'Urus Laluan';
+$Definition['Managing Users'] = 'Menguruskan Pengguna';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Menandakan perkara sebagai BUKAN spam akan mengembalikannya di forum anda.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Menandakan sesuatu sebagai bukan spam akan meletakkannya kembali di forum anda.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesej boleh muncul di mana saja dalam aplikasi anda, dan dapat digunakan untuk memberi tahu pengguna tentang berita dan peristiwa. Gunakan halaman ini untuk menyusun semula mesej anda dengan menyeretnya ke atas atau ke bawah.';
