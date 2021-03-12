@@ -145,6 +145,7 @@ $Definition['LogoDisclaimer'] = 'ערכות נושא שנוצרו עם עורך 
 
 $Definition['Make sure you click View Page'] = 'וודאו לחיצה ב<a href="%s">צפה בדף</a> על מנת לראות כיצד דף הקטגוריות שלך נראה לאחר שמירה.';
 $Definition['Manage Routes'] = 'ניהול נתיבים';
+$Definition['Managing Users'] = 'ניהול משתמשים';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'סימון דברים כלא ספאם יחזיר אותם אל הפורום.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'סימון דברים כלא ספאם יחזיר אותם אל הפורום.';
 $Definition['Messages can appear anywhere in your application.'] = 'הודעות יכולות להופיע בכל מקום בתוך התוכנה שלך, ויכולות לשמש על מנת להודיע למשתמשים על אירועים או חדשות. השתמש בעמוד זה על מנת לארגן את ההודעות שלך על ידי גרירתם ממקום למקום.';

@@ -144,6 +144,7 @@ $Definition['LogoDisclaimer'] = 'テーマエディターで作成されたテ�
 
 $Definition['Make sure you click View Page'] = '<a href="%s">ページを表示</a>をクリックすると、保存後にカテゴリ ページがどのように見えるかを確認することができます。';
 $Definition['Manage Routes'] = 'ルート管理';
+$Definition['Managing Users'] = 'ユーザーの管理';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'スパムでないことを示すマークをつければ、フォーラムに戻ります。';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'スパムでないことを示すマークをつければ、フォーラムに戻ります。';
 $Definition['Messages can appear anywhere in your application.'] = 'メッセージはサイトのどこにでも表示でき、ユーザーにニュースやイベントを通知するために使われます。このページでメッセージをドラッグすると、順番を入れ替えることができます。';

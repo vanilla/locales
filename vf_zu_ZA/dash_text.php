@@ -142,6 +142,7 @@ $Definition['LogoDisclaimer'] = 'Izindikimba ezenziwe ngesihleli sengqikithi nez
 
 $Definition['Make sure you click View Page'] = 'Qiniseka ukuthi uchofoza <a href="%s">Ukubuka Ikhasi</a> ukubona ukuthi ikhasi lakho lezigaba libukeka kanjani ngemuva kokulondolozwa.';
 $Definition['Manage Routes'] = 'Phatha Imizila';
+$Definition['Managing Users'] = 'Ukuphatha Abasebenzisi';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Ukumaka izinto njengokuthi AKUFUNI ogaxekile kuzobabuyisela esithangamini sakho.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ukumaka izinto njengezingekho kogaxekile kuzozibuyisela emuva esithangamini sakho.';
 $Definition['Messages can appear anywhere in your application.'] = 'Imilayezo ingavela noma yikuphi kuhlelo lwakho lokusebenza, futhi lungasetshenziselwa ukwazisa abasebenzisi bakho ngezindaba nezehlakalo. Sebenzisa leli khasi ukuhlela kabusha imilayezo yakho ngokuyihudulela phezulu noma phansi.';

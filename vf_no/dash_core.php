@@ -81,6 +81,7 @@ $Definition['Configure an Authenticator'] = 'Konfigurer en autentisering';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['Connections'] = 'Forbindelser';
 $Definition['Content Curation'] = 'Organisering av innhold';
+$Definition['Content Security Domains'] = 'Innholdssikkerhetsdomener';
 $Definition['Conversations'] = 'Samtaler';
 $Definition['CreateFile'] = 'Create';
 $Definition['CssClass'] = 'CSS-klasse';
@@ -102,6 +103,7 @@ $Definition['Desktop Themes'] = 'PC-temaer';
 $Definition['Dismissable'] = 'Avvisbar';
 $Definition['Display a searchbox on top of the banner image.'] = 'Vis et søkefelt på toppen av bannerbildet.';
 $Definition['Display on category page only.'] = 'Vis kun på kategorisiden. Nylige diskusjonslister blir ikke påvirket.';
+$Definition['Display Open Cases in Profile Page?'] = 'Vis åpne saker på profilsiden?';
 $Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'Viser tydelig frem merkevarens bannerbilde gjennom hele temaet. ';
 $Definition['DownloadLocalePack'] = 'Last ned';
 

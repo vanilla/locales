@@ -102,6 +102,7 @@ $Definition['LogoDescription'] = 'Tha suaicheantas a ’bhratach a’ nochdadh a
 $Definition['LogoDisclaimer'] = 'Cha bhith na cuspairean a chaidh a dhèanamh le deasaiche a ’chuspair agus cuid de chuspairean gnàthaichte a’ cleachdadh an t-suidheachaidh seo.';
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
+$Definition['Managing Users'] = 'A ’riaghladh luchd-cleachdaidh';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['MobileLogoDescription'] = 'Bidh suaicheantas bratach gluasadach a ’nochdadh aig mullach na làraich agad.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Leigidh cuspairean gluasadach dhut sealladh is faireachdainn na làraich agad atharrachadh air innealan nas lugha.';

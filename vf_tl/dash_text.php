@@ -101,6 +101,7 @@ $Definition['LogoDescription'] = 'Ang logo ng banner ay lilitaw sa tuktok ng iyo
 $Definition['LogoDisclaimer'] = 'Ang mga tema na ginawa kasama ang editor ng tema at ilang mga pasadyang tema ay hindi gumagamit ng setting na ito.';
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
+$Definition['Managing Users'] = 'Pamamahala ng Mga Gumagamit';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
 $Definition['MobileLogoDescription'] = 'Ang mobile banner logo ay lilitaw sa tuktok ng iyong site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Pinapayagan ka ng mga mobile na tema na baguhin ang hitsura at pakiramdam ng iyong site sa mas maliit na aparato.';

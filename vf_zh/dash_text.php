@@ -144,6 +144,7 @@ $Definition['LogoDisclaimer'] = '使用主题编辑器创建的主题和某些�
 
 $Definition['Make sure you click View Page'] = '点击<a href="%s">这里</a>预览版块页面。';
 $Definition['Manage Routes'] = '管理路由';
+$Definition['Managing Users'] = '管理用户';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = '标记为不是垃圾信息的条目会被恢复到论坛中。';
 $Definition['Marking things as not spam will put them back in your forum.'] = '标记为不是垃圾信息的条目会被恢复到论坛中。';
 $Definition['Messages can appear anywhere in your application.'] = '消息系统在应用中的许多地方被用到，它可以用来向用户发布通知和新闻。在这里，您可以自由地拖动、管理您的消息。';

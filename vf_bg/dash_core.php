@@ -211,6 +211,7 @@ $Definition['Consumer Secret'] = 'Потребителска тайна';
 $Definition['Content Curation'] = 'Курация на съдържанието';
 $Definition['Content flagged as spam is stored here for moderator review.'] = 'Тук съдържанието, маркирано като спам, се съхранява тук за преглед на модератора.';
 $Definition['Content Flagging'] = 'Маркиране на съдържание';
+$Definition['Content Security Domains'] = 'Домейни за сигурност на съдържанието';
 $Definition['Conversation Messages'] = 'Съобщения за разговор';
 $Definition['Conversations'] = 'Разговори';
 $Definition['Conversations Setup'] = 'Настройка на разговори';

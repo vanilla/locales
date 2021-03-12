@@ -141,6 +141,7 @@ $Definition['LogoDisclaimer'] = 'Els temes elaborats amb l\'editor de temes i al
 
 $Definition['Make sure you click View Page'] = 'Assegureu-vos de fer clic a <a href="%s">Veure pàgina</a> per veure com es veu la pàgina de categories després de desar-la.';
 $Definition['Manage Routes'] = 'Gestiona les rutes';
+$Definition['Managing Users'] = 'Gestió d\'usuaris';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Si marques les coses com a correu brossa, les tornaran al fòrum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Si marques les coses com a no brossa, les tornaran a afegir al fòrum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Els missatges poden aparèixer a qualsevol lloc de la vostra aplicació i es poden utilitzar per informar els vostres usuaris de notícies i esdeveniments. Utilitzeu aquesta pàgina per tornar a organitzar els vostres missatges arrossegant-los cap amunt o cap avall.';

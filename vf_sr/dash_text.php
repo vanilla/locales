@@ -142,6 +142,7 @@ $Definition['LogoDisclaimer'] = 'Теме направљене помоћу ур
 
 $Definition['Make sure you click View Page'] = 'Обавезно кликните на <a href="%s">Прикажи страницу</a> да бисте видели како страница са категоријама изгледа након чувања.';
 $Definition['Manage Routes'] = 'Управљање рутама';
+$Definition['Managing Users'] = 'Управљање корисницима';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Означивање ствари као НЕ спам вратиће их на ваш форум.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Означавањем ствари као нежељене поште вратит ћете их на ваш форум.';
 $Definition['Messages can appear anywhere in your application.'] = 'Поруке се могу појавити било где у вашој апликацији и могу се користити за обавештавање корисника о вестима и догађајима. Помоћу ове странице поново организујте поруке повлачењем их нагоре или надоле.';

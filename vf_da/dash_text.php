@@ -141,6 +141,7 @@ $Definition['LogoDisclaimer'] = 'Temaer lavet med temaditoren og nogle tilpassed
 
 $Definition['Make sure you click View Page'] = 'Klik <a href="%s">Vis side</a> for at se hvordan dine kategorier ser ud efter at du har gemt.';
 $Definition['Manage Routes'] = 'Administrer ruter';
+$Definition['Managing Users'] = 'Håndtering af brugere';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Hvis du markerer noget som IKKE spam, så dukker det op i dit forum igen.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Hvis du markerer noget som ikke-spam, så dukker det op i dit forum igen.';
 $Definition['Messages can appear anywhere in your application.'] = 'Beskeder kan ses overalt i forummet og kan bruges til at orientere dine brugere om nyheder og hændelser. Brug denne side til at organisere dine beskeder ved at trække dem op eller ned.';

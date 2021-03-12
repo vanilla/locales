@@ -143,6 +143,7 @@ $Definition['LogoDisclaimer'] = 'Mit dem Themeneditor erstellte Themen und einig
 
 $Definition['Make sure you click View Page'] = 'Klicke auf <a href="%s">Seite anzeigen</a>, um zu sehen wie die Kategorie-Seite nach dem Speichern aussieht.';
 $Definition['Manage Routes'] = 'Routen verwalten';
+$Definition['Managing Users'] = 'Benutzer verwalten';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Wenn du Dinge als KEIN Spam markierst, werden sie wieder im Forum angezeigt.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Wenn du Dinge als kein Spam markierst, werden sie wieder im Forum angezeigt.';
 $Definition['Messages can appear anywhere in your application.'] = 'Nachrichten können überall in der Anwendung angezeigt werden, um die Nutzer bspw. über Neuigkeiten zu informieren. Nutze diese Seite, um sie per drag and drop zu verwalten.';

@@ -112,6 +112,7 @@ $Definition['LogoDisclaimer'] = 'Motywy utworzone za pomocą edytora motywów i 
 
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
 $Definition['Manage Routes'] = 'Zarządzanie trasami';
+$Definition['Managing Users'] = 'Zarządzanie użytkownikami';
 $Definition['Messages can appear anywhere in your application.'] = 'Wiadomości mogą pojawić się gdziekolwiek w aplikacji, i mogą być wykorzystywane do informowania użytkowników o nowościach i wydarzeniach. Użyj tej strony do ponownego uporządkowania wiadomości, przeciągając je w górę lub w dół.';
 $Definition['MobileLogoDescription'] = 'Logo baneru na telefon komórkowy pojawia się u góry witryny.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Motywy mobilne umożliwiają zmianę wyglądu witryny na mniejszych urządzeniach.';

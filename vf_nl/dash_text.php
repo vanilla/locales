@@ -143,6 +143,7 @@ $Definition['LogoDisclaimer'] = 'Thema\'s gemaakt met de thema-editor en sommige
 
 $Definition['Make sure you click View Page'] = 'Zorg ervoor dat je  <a href="%s">Bekijk pagina</a> aanklikt om te zien hoe je categoriepagina\'s eruitzien na het opslaan.';
 $Definition['Manage Routes'] = 'Beheer routes';
+$Definition['Managing Users'] = 'Gebruikers beheren';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Het markeren van dingen als GEEN spam zal ze terugzetten op je forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Het markeren van dingen als geen spam zal ze terugzetten op je forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Berichten kunnen overal in de applicatie verschijnen en kunnen worden ingezet om je gebruikers te informeren over nieuws en evenementen. Gebruik deze pagina om de berichten te ordenen door ze omhoog of omlaag te verslepen.';

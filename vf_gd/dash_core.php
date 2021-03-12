@@ -69,6 +69,7 @@ $Definition['Condition Type'] = 'Type';
 $Definition['Confirm email addresses'] = 'Require users to confirm their email addresses (recommended)';
 $Definition['Connections'] = 'Ceanglaichean';
 $Definition['Content Curation'] = 'Curaidheachd susbaint';
+$Definition['Content Security Domains'] = 'Fearann tèarainteachd susbaint';
 $Definition['CreateFile'] = 'Create';
 $Definition['CssClass'] = 'Clas CSS';
 $Definition['Current Mobile Theme'] = 'Cuspair gluasadach gnàthach';
@@ -85,6 +86,7 @@ $Definition['Delete Theme'] = 'Cuir às do Chuspair';
 $Definition['Desktop Themes'] = 'Cuspairean deasg';
 $Definition['Display a searchbox on top of the banner image.'] = 'Seall bogsa sgrùdaidh air mullach ìomhaigh a ’bhratach.';
 $Definition['Display on category page only.'] = 'Taisbeanadh air duilleag roinn-seòrsa a-mhàin. Cha toir seo buaidh air liosta còmhraidhean o chionn ghoirid.';
+$Definition['Display Open Cases in Profile Page?'] = 'A ’taisbeanadh chùisean fosgailte air duilleag pròifil?';
 $Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'A ’taisbeanadh ìomhaigh a’ bhratach bhon duilleag branndaidh gu follaiseach air feadh a ’chuspair.';
 $Definition['DownloadLocalePack'] = 'Download';
 

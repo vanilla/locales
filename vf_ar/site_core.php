@@ -338,6 +338,7 @@ $Definition['By uploading a file you certify that you have the right to distribu
 $Definition['Can\'t post as often.'] = 'لا يمكن النشر كالغالب.';
 $Definition['Can\'t post discussions.'] = 'لا يمكن نشر هذه المناقشات.';
 $Definition['Cancel'] = 'إلغاء';
+$Definition['Case Number'] = 'رقم القضية';
 $Definition['Casual'] = 'غير نظامي';
 $Definition['Categories'] = 'الأقسام';
 $Definition['Categories & Groups'] = 'الفئات والمجموعات';
@@ -400,6 +401,7 @@ $Definition['Comments'] = 'التعليقات';
 $Definition['comments'] = 'تعليقات';
 $Definition['Comments are between {UserID,you}.'] = 'التعليقات بين {UserID,you}.';
 $Definition['Community'] = 'المجموعة';
+$Definition['Community Events'] = 'الفعاليات المجتمعية';
 $Definition['Community Guidelines'] = 'إرشادات المجموعة';
 $Definition['Community Home'] = 'الرئيسية';
 $Definition['Completed'] = 'مكتمل';
@@ -435,6 +437,7 @@ $Definition['Couldn\'t find an account associated with that email/username.'] = 
 $Definition['Create an Account'] = 'أنشئ حساب';
 $Definition['Created'] = 'تم إنشاؤه';
 $Definition['Created by %s'] = 'تم الإنشاء بواسطة %s';
+$Definition['Created Date'] = 'تاريخ الإنشاء';
 $Definition['Create Discussions'] = 'إنشاء مواضيع';
 $Definition['Created on %s'] = 'تم الإنشاء على %s';
 $Definition['Create New Discussion'] = 'إنشاء مناقشة جديدة';
@@ -659,6 +662,7 @@ $Definition['FileName'] = 'اسم الملف';
 $Definition['Filename'] = 'إسم الملف';
 $Definition['FileSize'] = 'حجم الملف';
 $Definition['File Size'] = 'حجم الملف';
+$Definition['Filter'] = 'مرشح نتائج البحث';
 $Definition['Find the matching ban rule(s).'] = 'ابحث عن قاعدة (قواعد) حظر المطابقة.';
 $Definition['Find your account information below.'] = 'احصل على معلومات حسابك أدناه.';
 $Definition['First Anniversary'] = 'الذكرى السنوية الأولى';
@@ -735,6 +739,7 @@ $Definition['Group: "%s"'] = 'المجموعة: "%s"';
 $Definition['GroupEmptyAnnouncements'] = 'ستحدث أشياء مهمة هنا في يوم من الأيام';
 $Definition['GroupEmptyDiscussions'] = 'المكان هادئ بشكل سيء، أليس كذلك؟';
 $Definition['GroupEmptyEvents'] = 'أمر سيء، لا أحداث قادمة.';
+$Definition['Group Events'] = 'أحداث المجموعة';
 $Definition['Group Icon'] = 'أيقونة المجموعة';
 $Definition['Group Info'] = 'معلومات المجموعة';
 $Definition['Group Leaders'] = 'القيادات';
@@ -1079,6 +1084,7 @@ $Definition['Nobody is on the fence right now.'] = 'لم يؤكد أحدهم ا�
 $Definition['No default roles.'] = 'لا رتب إفتراضية.';
 $Definition['No discussions were found.'] = 'لم يتم العثور على اي مشاركة.';
 $Definition['No items tagged with %s.'] = 'لا توجد عناصر ذات الكلمات الدلالية مع %s.';
+$Definition['No open cases were found.'] = 'لم يتم العثور على حالات مفتوحة.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'ليس لديك إذن بحذف %1$s من المناقشات المحددة.';
 $Definition['No results'] = 'لا توجد نتائج';
 $Definition['No results for \'%s\''] = 'لا نتائج \'%s\'';
@@ -1097,6 +1103,7 @@ $Definition['Notice'] = 'إشعار';
 $Definition['Notification'] = 'إشعار';
 $Definition['Notification Preferences'] = 'تفضيلات الإخطار';
 $Definition['Notifications'] = 'إخطارات';
+$Definition['Notifications Postmaster'] = 'الإخطارات مدير مكتب البريد';
 $Definition['Notifictions'] = 'التنبيهات';
 $Definition['Notify'] = 'إخطار';
 $Definition['Notify me of private messages.'] = 'أخطرني ان كان لي رسائل خاصة.';
@@ -1139,6 +1146,7 @@ $Definition['on'] = 'في';
 $Definition['Online Preferences'] = 'خيارات الاتصال';
 $Definition['Only show followed categories'] = 'اظهر فقط الاقسام التي تتابعها';
 $Definition['Open'] = 'فتح';
+$Definition['Open Cases'] = 'فتح الحالات';
 $Definition['Open Folder'] = 'فتح المجلد';
 $Definition['OpenID Settings'] = 'اعدادات الاوبن اي دي OpenID';
 $Definition['OpenID signin has been disabled.'] = 'تم تعطيل تسجيل دخول OpenID.';
@@ -1252,6 +1260,7 @@ $Definition['Preferences'] = 'تفضيلات';
 $Definition['Preview'] = 'معاينة';
 $Definition['Previous'] = 'السابق';
 $Definition['Previous Page'] = 'الصفحة السابقة';
+$Definition['Priority'] = 'أفضلية';
 $Definition['Privacy'] = 'خصوصية';
 $Definition['Privacy Settings'] = 'إعدادات الخصوصية';
 $Definition['Private'] = 'خاص';
@@ -1415,7 +1424,9 @@ $Definition['Search'] = 'البحث';
 $Definition['Search %s'] = 'بحث %s';
 $Definition['Search archived'] = 'تم أرشفة البحث';
 $Definition['search archived'] = 'تم تخزين البحث';
+$Definition['Search Archived Categories'] = 'بحث في الفئات المؤرشفة';
 $Definition['SearchBoxPlaceHolder'] = 'البحث';
+$Definition['Search Followed Categories Only'] = 'البحث في الفئات المتبعة فقط';
 $Definition['Search for: "%s"'] = 'البحث عن: "%s"';
 $Definition['Search for <0/>'] = 'البحث عن <0/>';
 $Definition['Search for a category'] = 'البحث عن فئة';
@@ -1500,6 +1511,7 @@ $Definition['somebody'] = 'شخص ما';
 $Definition['Some Code'] = 'بعض التعليمات البرمجية';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'لقد أجاب شخص ما عن سؤالك. انت بحاجة الى قبول / رفض الإجابة.';
 $Definition['Something went wrong while contacting the server.'] = 'حدث خطأ ما أثناء الاتصال بالخادم. ';
+$Definition['Sort'] = 'فرز';
 $Definition['sorted by'] = 'مصنفة حسب';
 $Definition['Source:'] = 'المصدر :';
 $Definition['Source Code'] = 'رمز';
@@ -1780,6 +1792,7 @@ $Definition['View All'] = 'عرض الكل';
 $Definition['View all going attendees'] = 'عرض جميع الحاضرين الذين سوف يحضروا';
 $Definition['View all maybe attendees'] = 'عرض جميع الحاضرين الذين ربما يحضروا';
 $Definition['View all not going attendees'] = 'عرض جميع الحاضرين الذين لن يحضروا';
+$Definition['View all open cases'] = 'عرض جميع الحالات المفتوحة';
 $Definition['View Badge'] = 'مشاهدة الشارة';
 $Definition['Viewing'] = 'مشاهدة';
 $Definition['View Post'] = 'عرض المشاركة';

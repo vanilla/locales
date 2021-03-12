@@ -143,6 +143,7 @@ $Definition['LogoDisclaimer'] = 'Темы, созданные с помощью 
 
 $Definition['Make sure you click View Page'] = 'Кликните <a href="%s">по ссылке</a>, чтобы посмотреть как страницы разделов будут выглядеть после сохранения.';
 $Definition['Manage Routes'] = 'Управление перенаправлениями';
+$Definition['Managing Users'] = 'Управление пользователями';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Убрав спам-пометку можно вернуть объект обратно на форум.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Убрав спам-пометку можно вернуть объект обратно на форум.';
 $Definition['Messages can appear anywhere in your application.'] = 'Сообщения могут быть отображены в любом месте сайта пользователя.<br>Например, это может быть использовано для информирования о новостях.<br>На этой странице можно управлять ими с помощью перетаскивания.';

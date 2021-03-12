@@ -144,6 +144,7 @@ $Definition['LogoDisclaimer'] = 'Témy vytvorené pomocou editora motívov a nie
 
 $Definition['Make sure you click View Page'] = 'Uistite sa, že kliknete na <a href="%s">Zobraziť stránku</a>, aby ste si pozreli po uložení pozreli ako vyzerá vaša stránka s kategóriami.';
 $Definition['Manage Routes'] = 'Správa ciest';
+$Definition['Managing Users'] = 'Správa používateľov';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Ak označíte veci ako NIE spam, vrátite ich späť do svojho fóra.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ak označíte veci ako nie spam, vrátite ich späť do svojho fóra.';
 $Definition['Messages can appear anywhere in your application.'] = 'Správy sa môžu objavovať kdekoľvek vo vašej aplikácií a môžete ich používať na informovanie používateľov o novinkách a udalostiach. Použite túto stránku na reorganizáciu vašich správ ich posúvaním hore alebo dole.';

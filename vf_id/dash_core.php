@@ -280,6 +280,7 @@ $Definition['Dismissable'] = 'Dapat Diabaikan';
 $Definition['Display a searchbox on top of the banner image.'] = 'Tampilkan kotak pencarian di atas gambar spanduk.';
 $Definition['Display in dashboard. (not recommended)'] = 'Tampilkan di dashboard. (tidak direkomendasikan)';
 $Definition['Display on category page only.'] = 'Tampilkan pada laman kategori saja. Daftar diskusi terkini tidak akan terpengaruh.';
+$Definition['Display Open Cases in Profile Page?'] = 'Tampilkan Kasus Terbuka di Halaman Profil?';
 $Definition['Display root categories as headings.'] = 'Tampilkan root kategori sebagai heading.';
 $Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'Menampilkan gambar spanduk dari halaman penjenamaan dengan jelas di seluruh tema.';
 $Definition['Don\'t display for embedded comments.'] = 'Jangan tampilkan komentar tertanam.';

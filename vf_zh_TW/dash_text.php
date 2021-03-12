@@ -143,6 +143,7 @@ $Definition['LogoDisclaimer'] = '使用主題編輯器創建的主題和某些�
 
 $Definition['Make sure you click View Page'] = '在存檔之後，請務必點按「<a href="%s">閱覽網頁</a>」看看分類網頁的樣子。';
 $Definition['Manage Routes'] = '管理轉送功能';
+$Definition['Managing Users'] = '管理用戶';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = '標示為「非垃圾訊息」的內容，會重新在討論版上出現。';
 $Definition['Marking things as not spam will put them back in your forum.'] = '標示為「非垃圾訊息」的內容，會重新在討論版上出現。';
 $Definition['Messages can appear anywhere in your application.'] = '訊息可以在您應用程式中的任何地方出現，並且可以用於將新聞或活動內容告知用戶；請利用這個頁面，以上下拖放方式來重新整理訊息。';

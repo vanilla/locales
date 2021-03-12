@@ -138,6 +138,7 @@ $Definition['LogoDisclaimer'] = 'Teemaeditorilla tehdyt teemat ja jotkut mukaute
 
 $Definition['Make sure you click View Page'] = 'Muista aina tarkistaa <a href="%s">näkymä</a> tehtyäsi siihen muutoksia.';
 $Definition['Manage Routes'] = 'Reittien hallinta';
+$Definition['Managing Users'] = 'Käyttäjien hallinta';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Sisällön merkitseminen EI roskaviestiksi tuo sen takaisin näkyviin foorumissa.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Sisällön merkitseminen ei roskaviestiksi tuo sen taas näkyviin foorumissa.';
 $Definition['Messages can appear anywhere in your application.'] = 'Voit näyttää ylläpidon viestejä palstallasi muun sisällön ulkopuolella. Viesteillä voit tiedottaa käyttäjille esimerkiksi uusista tapahtumista tai muusta ajankohtaisesta. Tällä sivulla voit järjestää viestit vetämällä ja pudottamalla ne haluamaasi järjestykseen.';
