@@ -335,3 +335,20 @@ $Definition["Left Aligned"] = "Left Aligned";
 $Definition["Center Aligned"] = "Center Aligned";
 $Definition["Image (Mobile)"] = "Image (Mobile)";
 $Definition["Alignment (Mobile)"] = "Alignment (Mobile)";
+
+// Vanilla Labs
+$Definition['Vanilla Labs'] = 'Vanilla Labs';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Enable and test out the latest Vanilla features.';
+$Definition['Welcome to Labs!'] = 'Welcome to Labs!';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'This is where you can enable and test out new Vanilla features, pages & components.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'This lab cannot be disabled because it is required by the current theme.';
+$Definition['Need more help?'] = 'Need more help?';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrate Foundation Pages & Components Into Your Theme';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Enable and test out the latest Vanilla features.';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'N.B. The <0/> lab needs to be configured to match your custom theme. This can be done using our new theme editor. <1>Find out more.</1>';
+$Definition['Usercards'] = 'Usercards';
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition['New Search Page'] = 'New Search Page';
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition['New Quick Links'] = 'New Quick Links';
+$Definition['Quick Links is a default component on community pages.'] = "Quick Links is a default component on community pages. Enable our new Quick Links component to add, edit or hide links from this menu using our theme editor.";
