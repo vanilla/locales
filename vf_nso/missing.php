@@ -67,6 +67,7 @@ $Definition['QnAFollowUp.Email.Message'] = '<p>We noticed you have at least one 
 $Definition['QnAFollowUp.Email.Subject'] = 'Has your question been answered?';
 $Definition['QnAFollowup.Feature.Enabled'] = 'This feature sends emails to the authors of answered questions that do not have an accepted answer.';
 $Definition['QnAFollowUp.Success'] = 'Notifications sent successfully.';
+$Definition['Quick Links is a default component on community pages.'] = 'Quick Links is a default component on community pages. Enable our new Quick Links component to add, edit or hide links from this menu using our theme editor.';
 
 $Definition['Recommend special ranks for admins and mods.'] = 'It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.';
 $Definition['Recommend starting with five ranks.'] = 'You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.';
@@ -88,6 +89,7 @@ $Definition['Some older themes don\'t support full editing capability.'] = 'Some
 $Definition['Strip Embeds'] = 'Strip images and videos out of posts.';
 
 $Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] = 'Tagging allows users to add a tag to discussions they start in order to make them more discoverable.';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'N.B. The <0/> lab needs to be configured to match your custom theme. This can be done using our new theme editor. <1>Find out more.</1>';
 $Definition['ThemeEditor.Copy'] = '<0/> copy';
 $Definition['This is a style guide of your theme.'] = 'This is a style guide of your theme. It has examples of the visual elements used throughout the application. You can click on the various widgets such as the <0>Title Bar</0> or <1>Banner</1> to edit their properties in the side panel.';
 $Definition['This page lists the endpoints of your API.'] = 'This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
@@ -95,9 +97,11 @@ $Definition['This theme cannot be deleted because it is the currently applied th
 $Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark a website on the homescreen of an Apple device. These are usually 152 pixels. Apple adds rounded corners and lighting effect automatically.';
 
 $Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
+$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Usercards allow you to get a quick in-line snapshot of a user\'s information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.';
 $Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Users will be redirected to this URL after accepting an invitation. It can be a full URL or a path to redirect within the site.';
 
 $Definition['ValidateTag'] = 'Tags cannot contain commas or underscores.';
+$Definition['Vanilla\'s new search service is finally here.'] = 'Vanilla\'s new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.';
 $Definition['VerifyUser'] = 'Check the box next to the user to mark them as <b>Verified</b> so their posts don\'t get marked as spam again. This will also restore all of their pending posts.';
 
 $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your server configuration does not support fast data loading. If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';

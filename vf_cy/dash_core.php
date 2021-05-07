@@ -730,7 +730,6 @@ $Definition['The %s was already approved by %s on %s.'] = 'Cymeradwywyd y %s eis
 $Definition['The Basics'] = 'Y pethau sylfaenol';
 $Definition['The client ID uniqely identifies the site.'] = 'Mae ID\'r cleient yn unigryw i\'r safle. Gallwch gynhyrchu ID newydd gyda\'r botwm ar waelod y dudalen.';
 $Definition['The content you were looking for has been deleted.'] = 'Cynnwys yr oeddech yn chwilio amdano wedi\'i ddileu.';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'Delwedd y faner ddiofyn ar draws y wefan. Gellir gor-wneud hyn fesul categori.';
 $Definition['The default role has not been configured.'] = 'Nid yw\'r rôl diofyn wedi ei ffurfweddu.';
 $Definition['The email has been sent.'] = 'Anfonwyd yr e-bost.';
 $Definition['The homepage title is displayed on your home page.'] = 'Mae teitl y dudalen hafan yn cael ei arddangos ar eich tudalen gartref. Dewiswch deitl yr ydych am ei weld yn ymddangos mewn peiriannau chwilio.';
