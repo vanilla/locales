@@ -403,6 +403,7 @@ $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {Ac
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
+$Definition['HeadlineFormat.NotifyWallPost'] = '{ActivityUserID,User} posted on your <a href="{Url,url}">wall</a>';
 $Definition['Heads up!'] = 'Heads up!';
 $Definition['Heads Up!'] = 'Heads Up!';
 $Definition['Header'] = 'Header';
