@@ -695,7 +695,6 @@ $Definition['The %s table is not in the correct format.'] = 'الجدول %s ل�
 $Definition['The %s was already approved by %s on %s.'] = 'تمت الموافقة على %s بالفعل بواسطة %s على %s.';
 $Definition['The Basics'] = 'أساسيات';
 $Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'صورة الإعلان الافتراضية عبر الموقع. يمكن تجاوز هذا استناداً إلى كل فئة.';
 $Definition['The default role has not been configured.'] = 'لم يتم تكوين الدور الافتراضي.';
 $Definition['The email has been sent.'] = 'لقد تم إرسال البريد الإلكتروني.';
 $Definition['The homepage title is displayed on your home page.'] = 'يتم عرض عنوان الصفحة الرئيسية على صفحتك الرئيسية. اختر العنوان الذي تريد أن يظهر في محركات البحث.';

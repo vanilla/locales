@@ -730,7 +730,6 @@ $Definition['The %s was already approved by %s on %s.'] = '%s har redan godkänt
 $Definition['The Basics'] = 'Grunderna';
 $Definition['The client ID uniqely identifies the site.'] = 'Klient-ID:t ger en unik identifiering av siten. Du kan skapa ett nytt ID med knappen längst ner på denna sida.';
 $Definition['The content you were looking for has been deleted.'] = 'Innehållet du söker har blivit raderat.';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'Ordinarie bannerbild på hela sajten. Detta kan ändras med inställningar för varje kategori.';
 $Definition['The default role has not been configured.'] = 'Den ordinarie rollen har inte konfigurerats.';
 $Definition['The email has been sent.'] = 'E-postmeddelandet har skickats.';
 $Definition['The homepage title is displayed on your home page.'] = 'Hemsidans rubrik visas på din hemsida. Välj en rubrik som du skulle vilja att den visas i sökmotorerna.';
