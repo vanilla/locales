@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
+$Definition['Apply Layout'] = 'Apply Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatars will be scaled down if they exceed this height.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatars will be scaled down if they exceed this width.';
@@ -263,6 +264,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'You 
 $Definition['You can place files in your /uploads folder.'] = 'If your file is too large to upload directly to this page you can place it in your /uploads folder. Make sure the filename begins with the word <b>export</b> and ends with one of <b>.txt, .gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'You can specify a minimum post length to discourage short posts.';
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.';
 
 ///
 /// Theming UI
