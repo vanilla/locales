@@ -42,8 +42,10 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Choose 
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Choose a theme for this subcommunity. <0>Read more</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Choose the page people should see when they visit <0/>';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Choose the preferred layout for lists of categories.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Choose the preferred layout for lists of discussions.';
+$Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Choose the preferred layout for lists of categories. You can edit the Tiled Layout.';
 $Definition['Continue Import'] = 'Continue Import';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Could not parse import file. The problem is near line %s.';
 $Definition['Create a localization CSV'] = 'Create a localization CSV';
@@ -76,7 +78,7 @@ $Definition['Failed to connect to the database with the username and password yo
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
-
+$Definition['Foundation Layout'] = 'Foundation Layout';
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
@@ -112,7 +114,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
     'It is a good idea to keep the maximum number of characters allowed in a post down to a reasonable size.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
-
+$Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Learn about custom routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
@@ -186,7 +188,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Spruce up your emails by adding a logo and customizing the colors.';
 $Definition['Start Import'] = 'Start Import';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
-
+$Definition['Subcommunities'] = 'Subcommunities';
 $Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] =
     'Tagging allows users to add a tag to discussions they start in order to make them more discoverable.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'The %s Authenticator does not have any custom configuration options.';
@@ -221,6 +223,7 @@ $Definition['This role is personal info. Only users with permission to view pers
     'This role is personal info. Only users with permission to view personal info will see it.';
 $Definition['This setting loads the page before executing Javascript.'] =
     'This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>';
+$Definition['Tiled Layout'] = 'Tiled Layout';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Too many addresses! We\'ll send up to %s addresses at once.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
@@ -231,7 +234,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Use the button at the top of the page to create a ban rule.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Users may sign into your site using their Twitter account.';
-
+$Definition['User Profile'] = 'User Profile';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
 $Definition['Verify and restore'] = 'Verify and restore';
@@ -247,6 +250,7 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Warning</b>: Your server configuration does not support fast data loading. If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We recommend mostly positive reactions to encourage participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
 $Definition['Which reactions you use really depends on your community.'] =
