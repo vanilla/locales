@@ -1555,6 +1555,7 @@ $Definition['Tell us why you want to join!'] = 'Tell us why you want to join!';
 $Definition['Tenth Anniversary'] = 'Tenth Anniversary';
 $Definition["Terabyte"] = "Terabyte";
 $Definition['Terms'] = 'Terms';
+$Definition['Click here to read.'] = 'Click here to read.';
 $Definition['TermsOfService'] = 'Terms of Service';
 $Definition['Terms of Service'] = 'Terms of Service';
 $Definition['TermsOfServiceText'] = 'You agree, through your use of this service, that you will not use this
