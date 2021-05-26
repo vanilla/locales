@@ -334,3 +334,20 @@ $Definition["Left Aligned"] = "Rata kiri";
 $Definition["Center Aligned"] = "Center Aligned";
 $Definition["Image (Mobile)"] = "Gambar (Ponsel)";
 $Definition["Alignment (Mobile)"] = "Alignment (Mobile)";
+
+// Vanilla Labs
+$Definition['Vanilla Labs'] = 'Vanilla Labs';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Aktifkan dan uji fitur terbaru Vanilla.';
+$Definition['Welcome to Labs!'] = 'Selamat datang ke Labs!';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Disini Anda dapat mengaktifkan dan menguji fitur,halaman & komponen terbaru Vanilla.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Lab ini tidak dapat dinonaktifkan karena diperlukan oleh tema saat ini.';
+$Definition['Need more help?'] = 'Butuh bantuan lebih banyak?';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrasikan Halaman Dasar & Komponen Kedalam Tema Anda';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Aktifkan dan uji fitur terbaru Vanilla.';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'Catatan. <0/> lab harus dikonfigurasikan untuk sama dengan tema khusus Anda. Ini dapat dilakukan menggunakan editor tema kami yang baru. <1>Ketahui lebih lanjut.</1>';
+$Definition['Usercards'] = 'Usercard';
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercard memungkinkan Anda untuk mendapatkan snapshot in-line yang cepat dari informasi seorang pengguna. Saat melihat posting dan papan peringkat, klik pada nama pengguna untuk melihat kartu yang memperlihatkan informasi profil dasar pengguna tanpa harus menavigasi dari luar halaman. Aktifkan fitur ini untuk menambahkan usercard ke tema khusus Anda.";
+$Definition['New Search Page'] = 'Halaman Pencarian Baru';
+$Definition["Vanilla's new search service is finally here."] = "Layanan pencarian baru Vanilla akhirnya ada di sini. Aktifkan halaman antarmuka pengguna pencarian baru kami untuk mendapatkan akses ke fitur pencarian terbaru seperti pencarian Anggota, urutan pencarian dan penyorotan istilah.";
+$Definition['New Quick Links'] = 'Tautan Cepat Baru';
+$Definition['Quick Links is a default component on community pages.'] = "Tautan Cepat adalah sebuah komponen standar pada halaman komunitas. Aktifkan komponen Tautan Cepat baru kami untuk menambah, menyunting atau menyembunyikan tautan dari menu ini menggunakan editor tema kami.";

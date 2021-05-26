@@ -109,7 +109,7 @@ $Definition["No Permission"] = "アクセス権がありません";
 $Definition["No knowledge bases found."] = "知識ベースが見つかりませんでした。";
 
 $Definition["Oldest First"] = "最も古いものが最初";
-$Definition["On This Page"] = "このページで";
+$Definition["On This Page"] = "ページ内カテゴリ";
 $Definition["Organize Categories"] = "カテゴリ編成";
 $Definition["Other Articles"] = "その他の記事";
 $Definition["Other Languages"] = "その他の言語";

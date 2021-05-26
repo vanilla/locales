@@ -449,7 +449,6 @@ $Definition['Thanks for sticking with us for %s years.'] = '%s年間お付き合
 $Definition['Thanks for sticking with us for a full year.'] = '1年間お付き合いいただきありがとうございました。';
 $Definition['The %s table is not in the correct format.'] = '%s テーブルの形式が不正です。';
 $Definition['The content you were looking for has been deleted.'] = 'あなたが見ていたコンテンツは削除されました。';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'サイト全体のデフォルトのバナー画像。これはカテゴリごとに無効にできます。';
 $Definition['The email has been sent.'] = 'Eメールが送信されました。';
 $Definition['The homepage was saved successfully.'] = 'ホーム画面が保存されました。';
 $Definition['The Key in the XML payload to designate %s.'] = '%sを指定するXMLペイロードのキー。';

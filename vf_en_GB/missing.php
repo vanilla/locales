@@ -396,6 +396,7 @@ $Definition['QnAFollowup.Feature.Enabled'] = 'This feature sends emails to the a
 $Definition['QnAFollowUp.Success'] = 'Notifications sent successfully.';
 $Definition['QnA Rejected Answer'] = 'Rejected Answer';
 $Definition['Question Type'] = 'Question';
+$Definition['Quick Links is a default component on community pages.'] = 'Quick Links is a default component on community pages. Enable our new Quick Links component to add, edit or hide links from this menu using our theme editor.';
 $Definition['Quote on'] = 'on';
 $Definition['Quote wrote'] = 'wrote';
 
@@ -495,6 +496,7 @@ $Definition['Test Email Message'] = '<p>This is a test email message.</p>
 <p>You can configure the appearance of your forum\'s emails by navigating to the Email page in the dashboard.</p>';
 $Definition['Test Mode'] = 'Test Mode: The pocket will only be displayed for pocket administrators.';
 $Definition['TextEnterEmails'] = 'Type email addresses separated by commas here';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'N.B. The <0/> lab needs to be configured to match your custom theme. This can be done using our new theme editor. <1>Find out more.</1>';
 $Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browser\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
 $Definition['The basic registration form requires new users to copy text from a CAPTCHA image.'] = '<strong>The basic registration form requires</strong> new users to copy text from a CAPTCHA image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
@@ -523,6 +525,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Unanswered Questions'] = 'Unanswered';
 $Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeholder image that will display when users do not have an image in their post.';
 $Definition['Use asterisks for wildcards'] = 'Use asterisks for wildcards, e.g. "*@gmail.com"';
+$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Usercards allow you to get a quick in-line snapshot of a user\'s information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.';
 $Definition['User Count'] = 'Users';
 $Definition['UserDelete'] = 'Remove User Content';
 $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of the user\'s content. This may cause discussions to be disjointed. Best option for removing spam.';
@@ -568,6 +571,7 @@ $Definition['ValidateUrlStringRelaxed'] = '%s can not contain slashes, quotes or
 $Definition['ValidateUsername'] = 'Usernames must be 3-20 characters and consist of letters, numbers, and underscores.';
 $Definition['ValidateVersion'] = 'The %s field is not a valid version number. See the php version_compare() function for examples of valid version numbers.';
 $Definition['Validation Failed'] = 'Please review the errors below.';
+$Definition['Vanilla\'s new search service is finally here.'] = 'Vanilla\'s new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 $Definition['VerifyUser'] = 'Check the box next to the user to mark them as <b>Verified</b> so their posts don\'t get marked as spam again. This will also restore all of their pending posts.';
