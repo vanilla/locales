@@ -1636,6 +1636,7 @@ $Definition['This answer was %s.'] = 'This answer was %s.';
 $Definition['This answer was Accepted.'] = 'This answer was Accepted.';
 $Definition['This category does not have any articles.'] = 'This category does not have any articles.';
 $Definition['This category does not have any events.'] = 'This category does not have any events.';
+$Definition['This discussion has a more <0>recent version</0>.'] = 'This discussion has a more <0>recent version</0>.';
 $Definition['This discussion has been closed.'] = 'This discussion has been closed.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'This discussion is related to an undefined foriegn content source.';
 $Definition['This discussion was created from comments split from: %s.'] = 'This discussion was created from comments split from: %s.';
