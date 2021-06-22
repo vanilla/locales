@@ -1700,6 +1700,7 @@ $Definition['Type your comment'] = 'Type your comment';
 $Definition['Type your message'] = 'Type your message';
 $Definition['Type or paste emails separated by commas.'] = 'Type or paste emails separated by commas.';
 
+$Definition['Unable to create conversation, %s is ignoring you.'] = 'Unable to create conversation, %s is ignoring you.';
 $Definition['Unable to send message, %s is ignoring you.'] = 'Unable to send message, %s is ignoring you.';
 $Definition['Unannounce'] = 'Unannounce';
 $Definition['Unanswered'] = 'Unanswered';
