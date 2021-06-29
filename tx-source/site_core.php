@@ -2105,3 +2105,6 @@ $Definition['User: "%s"'] = 'User: "%s"';
 $Definition['Group: "%s"'] = 'Group: "%s"';
 $Definition['Global Navigation'] = 'Global Navigation';
 $Definition['Skip to content'] = 'Skip to content';
+
+// KB Articles
+$Definition["Read More"] = "Read More";
