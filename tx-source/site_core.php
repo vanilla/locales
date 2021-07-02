@@ -1738,6 +1738,7 @@ $Definition['Username already exists.'] = 'Username already exists.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Username can only contain letters, numbers, and underscores.';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.';
 $Definition['UsernameError'] = 'Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.';
+$Definition['{Username} has requested to join {Group}.'] = '{Username} has requested to join {Group}.';
 $Definition['Username or email'] = 'Username or email';
 $Definition['User Not Found'] = 'User Not Found';
 $Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
