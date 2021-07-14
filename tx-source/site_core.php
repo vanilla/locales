@@ -1944,6 +1944,7 @@ $Definition['you can also drag-and-drop'] = 'you can also drag-and-drop';
 $Definition['You can\'t leave the group you started.'] = 'You can\'t leave the group you started.';
 $Definition['You can either ask a question or start a discussion.'] = 'You can either ask a question or start a discussion. Choose what you want to do below.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'You can follow individual categories and be notified of all posts within them.';
+$Definition['You cannot delete a reserved tag.'] = 'You cannot delete a reserved tag.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'You cannot edit the thumbnail of an externally linked profile picture.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'You cannot edit the thumbnail of another member.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'You cannot remove an invitation that has been accepted.';
