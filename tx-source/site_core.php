@@ -745,7 +745,7 @@ $Definition['Groups'] = 'Groups';
 $Definition['groups'] = 'groups';
 $Definition['Guest'] = 'Guest';
 $Definition['Guests'] = 'Guests';
-$Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
+$Definition['GuestModule.Message'] = 'It looks like you\'re new here. Sign in or register to get started.';
 
 $Definition["H2"] = "H2";
 $Definition["H3"] = "H3";
@@ -1867,6 +1867,7 @@ $Definition['weekday.short.5'] = 'Fri';
 $Definition['weekday.short.6'] = 'Sat';
 $Definition['weekday.short.7'] = 'Sun';
 $Definition['weeks'] = 'weeks';
+$Definition['Welcome!'] = 'Welcome!';
 $Definition['Welcome Aboard!'] = 'Welcome Aboard!';
 $Definition['were'] = 'were';
 $Definition['What\'s This?'] = 'What\'s This?';
