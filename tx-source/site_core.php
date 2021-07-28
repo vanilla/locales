@@ -1948,6 +1948,7 @@ $Definition['You cannot delete a reserved tag.'] = 'You cannot delete a reserved
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'You cannot edit the thumbnail of an externally linked profile picture.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'You cannot edit the thumbnail of another member.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'You cannot remove an invitation that has been accepted.';
+$Definition['You cannot start a conversation with the following users because they ignored you. %s'] = 'You cannot start a conversation with the following users because they ignored you. %s';
 $Definition['You can only specify up to %s tags.'] = 'You can only specify up to %s tags.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
