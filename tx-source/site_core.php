@@ -1981,6 +1981,8 @@ $Definition['You have successfully connected to {Title}.'] = 'You have successfu
 $Definition['You have successfully registered for an account at {Title}.'] = 'You have successfully registered for an account at {Title}.';
 $Definition['You have to be around for a little while longer before you can post links.'] = 'You have to be around for a little while longer before you can post external links.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'You have to select at least 2 discussions to merge.';
+$Definition['You have selected <0/> discussion.'] = 'You have selected <0/> discussion.';
+$Definition['You have selected <0/> discussions.'] = 'You have selected <0/> discussions.';
 $Definition['You must agree to the terms of service.'] = 'You must agree to the terms of service.';
 $Definition['You must be at least %d years old to register.'] = 'You must be at least %d years old to register.';
 $Definition['You must be signed in.'] = 'You must be signed in.';
@@ -2094,6 +2096,14 @@ $Definition['Error'] = 'Error';
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Toggle Quote';
 $Definition['Spoiler Warning'] = 'Spoiler Warning';
+
+// Image Size & placement
+$Definition['Float left'] = 'Float left';
+$Definition['Centered'] = 'Centered';
+$Definition['Float right'] = 'Float right';
+$Definition['Small'] = 'Small';
+$Definition['Medium'] = 'Medium';
+$Definition['Large'] = 'Large';
 
 // Catalogue Display Plugin/Formats
 $Definition['Placeholder'] = 'Placeholder';
