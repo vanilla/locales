@@ -51,6 +51,7 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Kies ee
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Kies hoe je alle inhoud die hoort bij het gebruikersaccount voor %s wilt behandelen (reacties, berichten etc.).';
 $Definition['Choose Image'] = 'Kies afbeelding';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Je kunt een eigen hash-algoritme selecteren om je verzoeken te ondertekenen. Het hash-algoritme moet ook gebruikt zijn in je client library. Kies md5 als je niet zeker weet wat je moet kiezen.';
+$Definition['Choose the order items are sorted.'] = 'Kies de volgorde items zijn gesorteerd.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Kies welke layout je voorkeur heeft voor lijsten van categorieën.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Kies de welke layout de voorkeur heeft voor de lijst van discussies.';
 $Definition['Color Overlay'] = 'Kleurbedekking';
@@ -75,6 +76,7 @@ $Definition['EditContentTimeout.Notes'] = 'Opmerking: Als een gebruiker een rol 
 $Definition['Edit Route'] = 'Bewerk route';
 $Definition['Edits to this theme apply to:'] = 'Wijzigingen in dit thema zijn van toepassing op:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Sluit je gemeenschapsforum in op je website om interactie te vergroten...';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Activeer en test de nieuwste Vanilla-functies.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Maakt geavanceerde bewerking van berichten in verschillende formaten mogelijk, waaronder WYSIWYG, eenvoudige HTML, Markdown en BBCode.';
 $Definition['Enter a descriptive name.'] = 'Voer een beschrijvende naam in voor de pocket. Deze naam zal nergens worden afgebeeld, alleen hier wanneer je je pockets aanpast zodat het alleen gebruikt wordt om je de pocket te helpen herinneren.';
 $Definition['Enter a short name for the site.'] = 'Voer een korte naam voor de site in. Deze zal worden afgebeeld op de inlogknoppen.';
@@ -122,6 +124,7 @@ $Definition['Image (Mobile)'] = 'Afbeelding (Mobiel)';
 $Definition['Import'] = 'Importeer';
 $Definition['Importing to Vanilla'] = 'Importeren naar Vanilla';
 $Definition['In additon to the widgets there are also'] = 'Naast de widgets zijn er ook <0>Globale Stijlen</0>. Om globale stijlen te bewerken, klikt u ergens anders op de pagina, zoals deze tekst.';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integreer Foundation-pagina\'s en componenten in uw thema';
 $Definition['Internationalization & Localization'] = 'Internationalisering en Lokalisering';
 $Definition['Invalid URL'] = 'Ongeldige URL';
 $Definition['Invitation email failed to send: %'] = 'Hoewel de uitnodiging is gemaakt, is de e-mail niet verzonden. De server heeft de volgende fout gemeld:%s';
@@ -151,7 +154,10 @@ $Definition['MobileLogoDescription'] = 'Het mobiele bannerlogo verschijnt bovena
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mobiele thema\'s staan je toe om de uitstraling en het gevoel van je site op kleinere apparaten aan te passen.';
 
 $Definition['Need More Help?'] = 'Meer hulp nodig?';
+$Definition['Need more help?'] = 'Meer hulp nodig?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Geneste categorieën dieper dan deze diepte worden in een door komma\'s gescheiden lijst geplaatst.';
+$Definition['New Quick Links'] = 'Nieuwe snelkoppelingen';
+$Definition['New Search Page'] = 'Nieuwe zoekpagina';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Zie je niet wat je verwacht als je een voorbeeld van je thema bekijkt?';
 $Definition['Notify me when people comment on my addons.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn add-ons.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'De site heeft een rol nodig met standaardtype "niet bevestigd" om e-mailbevestiging te gebruiken. Voeg er een toe om deze instelling in te schakelen.';
@@ -172,6 +178,7 @@ $Definition['Primary Button'] = 'Primaire knop';
 $Definition['Primary Buttons'] = 'Primaire knoppen';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Snelstartgids om thema\'s voor Vanilla te maken';
+$Definition['Quick Links is a default component on community pages.'] = 'Snelkoppelingen is een standaardcomponent op communitypagina\'s. Schakel onze nieuwe Quick Links-component in om links in dit menu toe te voegen, te bewerken of te verbergen met behulp van onze thema-editor.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Kant-en-klare Vanilla reactieplug-in voor WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Kant-en-klare Vanilla forumplug-in voor WordPress';
@@ -238,6 +245,8 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Ze werken net als reguliere thema\'s. Zodra er een is toegevoegd aan de themafolder kan je ze hier toestaan.';
 $Definition['This is a style guide of your theme.'] = 'Dit is een stijlgids voor jouw thema. Het bevat voorbeelden van de visuele elementen die door je applicatie gebruikt kunnen worden. Je kan op de verschillende widgets, zoals de <0> titelbalk </0> of <1> Banner </1>, klikken om de eigenschappen aan te passen in het zijpaneel. ';
 $Definition['This is the administrative dashboard for your new community.'] = 'Dit is het beheerdersdashboard voor jouw nieuwe gemeenschap. Bekijk de configuratieopties aan de zijkant. Vanaf hier kun je configureren hoe jouw gemeenschap werkt. <b>Standaard staat ingesteld dat alleen gebruikers in de \'beheerder\' rol dit gedeelte van jouw gemeenschap kunnen zien. </b>';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Hier kunt u nieuwe Vanilla-functies, -pagina\'s en -componenten inschakelen en testen.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Dit lab kan niet worden uitgeschakeld omdat dit vereist is door het huidige thema.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Deze optie toont/verbergt de locaties waar pockets kunnen worden geplaatst, maar alleen voor gebruikers die toestemming hebben pockets toe te voegen of aan te passen. Probeer de locaties te tonen en je site te bezoeken.';
 $Definition['This page lists the endpoints of your API.'] = 'Deze pagina toont de eindpunten van jouw API. Klik op eindpunten voor meer informatie. Je kan livegesprekken voeren met de API\'s vanaf deze pagina of extern door middel van een toegangstoken.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Deze rol is persoonlijke informatie. Allen gebruikers met toestemming om persoonlijke info te bekijken kunnen dit zien.';
@@ -251,12 +260,14 @@ $Definition['TouchIconDescription'] = 'Het aanraakpictogram verschijnt wanneer j
 $Definition['Transparent'] = 'Transparant';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect maakt het gebruikers mogelijk om in te loggen met hun Twitter-account. <b>Om deze plug-in te kunnen gebruiken moet je applicatie bij Twitter geregistreerd worden.</b>';
 
+$Definition['Usercards'] = 'Gebruikerskaarten';
 $Definition['User inputs are based on the global background and text colors.'] = 'Input van gebruikers is gebaseerd op de globale achtergrond en tekstkleuren.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Gebruikers kunnen inloggen op jouw site door middel van hun Twitter account.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Gebruik de knop aan de bovenkant van de pagina om een verbanningsregel te maken.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Gebruik de WordPressplug-in om Vanilla Reacties op je blog in te stellen, of gebruik de universele code om Vanilla Reacties op elk ander platform te gebruiken.';
 
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Bron: %s';
+$Definition['Vanilla Labs'] = 'Vanille Labs';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistieken staan momenteel uit';
 $Definition['Verify and restore'] = 'Controleer en herstel';
 $Definition['Video tutorial on advanced settings'] = 'Videotutorial voor geavanceerde instellingen';
@@ -269,6 +280,7 @@ $Definition['Video tutorial on user registration'] = 'Videotutorial voor gebruik
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Waarschuwing: Het toestaan van deze functies kan zorgen voor fouten in javascript op je pagina.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Waarschuwing</b>: uw serverconfiguratie ondersteunt het snel laden van gegevens niet. Als je een zeer groot bestand importeert (bijv. Meer dan 200.000 reacties), kan je overwegen je configuratie te wijzigen. Klik <a href="http://vanillaforums.com/porter">hier</a> voor meer informatie.';
 $Definition['Warning: This is for advanced users.'] = '<b>Waarschuwing</b>: Dit is voor geavanceerde gebruikers en vereist dat je extra aanpassingen doet aan je webserver. Dit is normaal gesproken alleen beschikbaar wanneer je VPS-hosting hebt. Probeer dit niet als je niet weet wat je aan het doen bent.';
+$Definition['Welcome to Labs!'] = 'Welkom bij Labs!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Welkom bij de thema-UI van Vanilla. Op deze pagina staan al uw beschikbare thema\'s en kunt u ze kopiëren of bewerken.';
 $Definition['Welcome To Your Theme'] = 'Welkom bij jouw thema';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We raden vooral positieve reacties aan om deelname aan te moedigen.';

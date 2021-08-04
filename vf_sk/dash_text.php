@@ -52,6 +52,7 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Vyberte
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Zvoľte ako naložiť so všetkými dátami užívateľa %s (komentáre, správy, atď).';
 $Definition['Choose Image'] = 'Vyberte Obrázok';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Môžete si vybrať vlastný algoritmus na podpis požiadaviek. Algoritmus musí byť tiež použitá vo vašej klientskej knižnici. Zvoľte md5 ak si nie ste istý čo si vybrať.';
+$Definition['Choose the order items are sorted.'] = 'Vyberte poradie Položky sú zoradené.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Vyberte preferované rozloženie pre zoznamy kategórií.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Vyberte preferované rozloženie pre zoznamy diskusií.';
 $Definition['Color Overlay'] = 'Farebné prekrytie';
@@ -76,6 +77,7 @@ $Definition['EditContentTimeout.Notes'] = 'Ak užívateľ má priradenú rolu kt
 $Definition['Edit Route'] = 'Upraviť Cestu';
 $Definition['Edits to this theme apply to:'] = 'Úpravy tejto témy sa týkajú:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Vložte svoje komunitné fórum na vašu webstránku na zvýšenie účasti...';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Povoľte a vyskúšajte si najnovšie funkcie vanilky.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Umožňuje pokročilú úpravu príspevkov v niekoľkých formátoch vrátane WYSIWYG, jednoduchého HTML, Markdown a BBCode.';
 $Definition['Enter a descriptive name.'] = 'Napíšte popisný názov vrecka. Tento názov nebude nikde zobrazený, iba pri spravovaní vašich vreciek tu, takže je použitý iba na to aby vám pomohol zapamätať si toto vrecko.';
 $Definition['Enter a short name for the site.'] = 'Napíšte krátky názov pre vašu webstránku. Tento názov je zobrazený na prihlasovacích tlačítkach.';
@@ -122,6 +124,7 @@ $Definition['Image (Mobile)'] = 'Obrázok (mobil)';
 $Definition['Import'] = 'Importovať';
 $Definition['Importing to Vanilla'] = 'Importuje sa do Vanilla';
 $Definition['In additon to the widgets there are also'] = 'Okrem widgetov existujú aj <0> Globálne štýly </0> , Ak chcete upraviť globálne štýly, kliknite kdekoľvek na stránke, napríklad na tento text.';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrujte nadácie a komponenty do svojej témy';
 $Definition['Internationalization & Localization'] = 'Internacionalizácia a lokalizácia';
 $Definition['Invalid URL'] = 'neplatná URL adresa';
 $Definition['Invitation email failed to send: %'] = 'Hoci bola pozvánka úspešne vytvorená, e-mail sa nepodarilo odoslať. Server nahlásil nasledujúcu chybu: %s';
@@ -152,7 +155,10 @@ $Definition['MobileLogoDescription'] = 'Logo mobilného bannera sa zobrazí v ho
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Témy pre mobilné zariadenia vám umožňujú zmeniť vzhľad a dojem z vašich stránok na menších zariadeniach.';
 
 $Definition['Need More Help?'] = 'Potrebujete ďalšiu pomoc?';
+$Definition['Need more help?'] = 'Potrebujete ďalšiu pomoc?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Vnorené kategórie, ktoré sú hlbšie ako táto hĺbka, sa umiestnia do zoznamu oddeleného čiarkami.';
+$Definition['New Quick Links'] = 'Nové rýchle odkazy';
+$Definition['New Search Page'] = 'Nová stránka vyhľadávania';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Nezobrazuje sa vám to, čo očakávate, keď si ukážete svoj motív?';
 $Definition['Notify me when people comment on my addons.'] = 'Upozorniť ma, keď ľudia okomentujú moje doplnky.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Na používanie e-mailového potvrdenia je potrebné, aby stránka mala predvolený typ „nepotvrdené“. Pridajte ho na povolenie tohto nastavenia.';
@@ -173,6 +179,7 @@ $Definition['Primary Button'] = 'Primárne tlačidlo';
 $Definition['Primary Buttons'] = 'Primárne tlačidlá';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Stručný sprievodca vytvárania tém pre Vanilla';
+$Definition['Quick Links is a default component on community pages.'] = 'Rýchle odkazy sú predvoleným komponentom na stránkach komunity. Povoľte náš nový komponent Rýchle odkazy, aby ste mohli pridávať, upravovať alebo skrývať odkazy z tejto ponuky pomocou nášho editora tém.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Hotové rozšírenie Komentáre Vanilla pre WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Hotový doplnok Vanilla Forum pre WordPress';
@@ -237,6 +244,8 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Fungujú rovnako ako bežné témy. Po pridaní do priečinka motívov ho môžete povoliť tu.';
 $Definition['This is a style guide of your theme.'] = 'Toto je sprievodca štýlom vašej témy. Obsahuje príklady vizuálnych prvkov použitých v celej aplikácii. Môžete kliknúť na rôzne miniaplikácie, ako je napríklad <0> záhlavie </0> alebo <1> banner </1> upravte ich vlastnosti na bočnom paneli.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Toto je ovládací panel vašej novej komunity. Pozrite si možnosti konfigurácie na boku. Tam môžete konfigurovať fungovanie vašej komunity. <b>V predvolenom nastavení môžu túto časť komunity vidieť iba používatelia s rolou „správcu“.</b>';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Tu môžete povoliť a vyskúšať nové funkcie, stránky a komponenty Vanilla.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Toto laboratórium nemožno zakázať, pretože to vyžaduje aktuálna téma.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Táto možnosť zobrazí/skryje miesta, kam môžu ísť pockety, ale iba pre používateľov s povolením na pridávanie/úpravu pocketov. Pokúste sa zobraziť polohu a potom navštíviť svoju stránku.';
 $Definition['This page lists the endpoints of your API.'] = 'Na tejto stránke sú uvedené koncové body vášho rozhrania API. Kliknutím na koncové body získate ďalšie informácie. Z tejto stránky môžete uskutočňovať živé hovory do rozhrania API alebo navonok pomocou prístupového tokenu.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Táto rola je osobná informácia. Zobrazia sa to iba používateľom, ktorí majú povolenie na zobrazenie osobných informácií.';
@@ -250,11 +259,14 @@ $Definition['TouchIconDescription'] = 'Dotyková ikona sa zobrazí, keď si na d
 $Definition['Transparent'] = 'priehľadný';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect umožňuje používateľom prihlásiť sa pomocou svojho účtu Twitter. <b>Aby toto rozšírenie fungovalo, svoju požiadavku si musíte zaregistrovať na Twitteri.</b>';
 
+$Definition['Usercards'] = 'Karty užívateľov';
+$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Karty Usercard vám umožňujú získať rýchly online prehľad informácií o používateľovi. Pri prezeraní príspevkov a rebríčkov kliknite na používateľské meno a zobrazí sa karta zobrazujúca základné profilové informácie používateľov bez toho, aby ste museli opustiť stránku. Povolením tejto funkcie pridáte do vlastného motívu používateľské karty.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Používateľské vstupy sú založené na globálnych farbách pozadia a textu.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Používatelia sa môžu prihlásiť na vaše stránky pomocou svojho účtu Twitter.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Pomocou tlačidla v hornej časti stránky vytvorte pravidlo zákazu.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Použite WordPress plugin na nastavenie Vanilla komentárov na váš blog alebo univerzálny kód na nastavenie Vanilla komentárov na akúkoľvek inú platformu.';
 
+$Definition['Vanilla\'s new search service is finally here.'] = 'Nová vyhľadávacia služba Vanilla je konečne tu. Povolením nášho používateľského rozhrania na novej stránke vyhľadávania získate prístup k najnovším funkciám vyhľadávania, ako je napríklad vyhľadávanie členov, triedenie vyhľadávania a zvýrazňovanie výrazov.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Zdroj: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Štatistika Vanilla je momentálne zakázaná';
 $Definition['Verify and restore'] = 'Overte a obnovte';
@@ -268,6 +280,7 @@ $Definition['Video tutorial on user registration'] = 'Video návod k registráci
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Varovanie: Povolenie tejto funkcie môže spôsobiť chyby jazyka Javascript na vašom webe.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Výstraha</b> : Konfigurácia servera nepodporuje rýchle načítanie údajov. Ak importujete veľmi veľký súbor (napr. Viac ako 200 000 komentárov), môžete zvážiť zmenu konfigurácie. Kliknite <a href="http://vanillaforums.com/porter">sem</a> pre viac informácií.';
 $Definition['Warning: This is for advanced users.'] = '<b>Upozornenie</b>: Toto je pre pokročilých používateľov a vyžaduje vykonanie ďalších zmien na webovom serveri. Toto je zvyčajne k dispozícii, iba ak máte vyhradený alebo vps hosting. Neskúšajte to, ak neviete, čo robíte.';
+$Definition['Welcome to Labs!'] = 'Vitajte v laboratóriách!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Vitajte v používateľskom rozhraní s témou Vanilla. Táto stránka obsahuje zoznam všetkých dostupných tém a umožňuje vám ich kopírovať alebo upravovať.';
 $Definition['Welcome To Your Theme'] = 'Vitajte vo svojom téme';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Na podporu účasti odporúčame väčšinou pozitívne reakcie.';
