@@ -705,7 +705,6 @@ $Definition['The %s locale pack does not exist.'] = 'Valittua kielitiedostoa %s 
 $Definition['The Basics'] = 'Perusteet';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = 'Etsimäsi sisältö on poistettu.';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'Sivuston oletusarvoinen bannerikuva. Tämä voidaan ohittaa kategoriakohtaisesti.';
 $Definition['The email has been sent.'] = 'Sähköposti on lähetetty. ';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
 $Definition['The homepage was saved successfully.'] = 'Kotisivut tallennettiin onnistuneesti.';

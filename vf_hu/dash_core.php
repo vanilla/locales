@@ -733,7 +733,6 @@ $Definition['The %s was already approved by %s on %s.'] = '%s már jóváhagyta 
 $Definition['The Basics'] = 'Az alapok';
 $Definition['The client ID uniqely identifies the site.'] = 'A kliens ID egyedi módon azonosítja az oldalt. Generálhatsz egy új azonosítót az oldal alján található gombbal.';
 $Definition['The content you were looking for has been deleted.'] = 'A tartalom amit kerestél törlésre került.';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'Az alapértelmezett szalagkép az oldalon. Ez kategóriánkénti alapon felülírható.';
 $Definition['The default role has not been configured.'] = 'Az alapértelmezett szerepkör nincs beállítva.';
 $Definition['The email has been sent.'] = 'Az e-mal el lett küldve.';
 $Definition['The homepage title is displayed on your home page.'] = 'A kezdőlap címe megjelenik a kezdőlapon. Válassz olyan címet, amit a keresőoldalakon is látni szeretnél.';

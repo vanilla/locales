@@ -731,7 +731,6 @@ $Definition['The %s was already approved by %s on %s.'] = '%s قبلا ً‌تو
 $Definition['The Basics'] = 'اصول اوليه';
 $Definition['The client ID uniqely identifies the site.'] = 'شناسه كلايت منحصراً سايت را شناسايي ميكند. شما ميتوانيد شناسه جديدي را با دكمه در پايين صفحه توليد كنيد.';
 $Definition['The content you were looking for has been deleted.'] = 'محتوايي كه شما بدنبالش هستيد حذف شده است.';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'تصویر بنر پیش فرض در سراسر سایت. این می تواند به صورت جداگانه بر اساس هر طبقه نادیده گرفته شود.';
 $Definition['The default role has not been configured.'] = 'نقش پيش فرض پيكربندي نشده است.';
 $Definition['The email has been sent.'] = 'ايميل ارسال شد.';
 $Definition['The homepage title is displayed on your home page.'] = 'عنوان صفحه اصلي شما در صفحه اصلي نمايش داده ميشود. عنواني را انتخاب كنيد كه مايل هستيد آن را در موتورهاي جستجو ببينيد.';

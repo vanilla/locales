@@ -437,7 +437,6 @@ $Definition['Thanks for sticking with us for %s years.'] = '%s년 동안 저희�
 $Definition['Thanks for sticking with us for a full year.'] = '1년 내내 저희와 함께 해주신 점에 감사드립니다.';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = '보고 계시는 콘텐츠는 삭제되었습니다.';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = '사이트 전체의 기본 배너 이미지. 이것은 범주 기반에 따라 무시될 수 있습니다.';
 $Definition['The email has been sent.'] = '이메일이 전송되었습니다.';
 $Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
 $Definition['The Key in the XML payload to designate %s.'] = '%s을 지정하기위한 XML 페이로드의 키입니다.';

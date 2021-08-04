@@ -379,7 +379,6 @@ $Definition['Thanks for sticking with us for %s years.'] = 'Děkujeme, že jste 
 $Definition['Thanks for sticking with us for a full year.'] = 'Děkujeme, že jste se s námi byli po celý rok.';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
 $Definition['The content you were looking for has been deleted.'] = 'Obsah, který jsi hledal byl vymazán.';
-$Definition['The default banner image across the site. This can be overriden on a per category basis.'] = 'Výchozí obrázek banneru na webu. Lze jej přepsat na základě jednotlivých kategorií.';
 $Definition['The email has been sent.'] = 'Email byl odeslán.';
 $Definition['The homepage title is displayed on your home page.'] = 'Nadpis domácí stránky je zobrazen na domácí stránce fóra. Vyberte takový nadpis, který byste chtěli, aby byl zobrazen ve vyhledávačích.';
 $Definition['The Key in the XML payload to designate %s.'] = 'Klíč v užitečném obsahu XML k označení %s.';
