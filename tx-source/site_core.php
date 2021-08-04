@@ -1075,6 +1075,7 @@ $Definition['New Message'] = 'New Message';
 $Definition['New Password'] = 'New Password';
 $Definition['New Poll'] = 'New Poll';
 $Definition['New Post'] = 'New Post';
+$Definition['New Question'] = 'New Question';
 $Definition['Next'] = 'Next';
 $Definition['Next Page'] = 'Next Page';
 $Definition['Ninth Anniversary'] = 'Ninth Anniversary';
