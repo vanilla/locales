@@ -51,6 +51,7 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Khetha 
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Khetha ukuthi ukuphatha kanjani konke okuqukethwe okuhambisana ne-akhawunti yomsebenzisi ye-%s (imibono, imilayezo, njll).';
 $Definition['Choose Image'] = 'Khetha isithombe';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Ungakhetha i-algorithm yangokwezifiso ukusayina izicelo zakho. I-hash algorithm kumele futhi isetshenziswe kulabhulali yakho yekhasimende. Khetha i-md5 uma ungaqiniseki ukuthi yini okufanele uyikhethe.';
+$Definition['Choose the order items are sorted.'] = 'Khetha izinto oda ihlelwa.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Khetha ukwakheka okuthandwayo kohlu lwezigaba.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Khetha isakhiwo esithandwayo sohlu lwezingxoxo.';
 $Definition['Color Overlay'] = 'Imbondela Umbala';
@@ -75,6 +76,7 @@ $Definition['EditContentTimeout.Notes'] = 'Uma umsebenzisi esesendimeni enemvume
 $Definition['Edit Route'] = 'Hlela umzila';
 $Definition['Edits to this theme apply to:'] = 'Ukuhlelwa kwalesi sihloko kusebenza ku:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Shuthela inkundla yakho yomphakathi kuwebhusayithi yakho ukwandisa ukubandakanyeka ...';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Nika amandla futhi uhlole izici zakamuva ze-Vanilla.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Inika amandla ukuhlelwa okuthuthukile kokuthunyelwe ngezindlela eziningi, kufaka phakathi i-WYSIWYG, i-HTML elula, iMarkdown, ne-BBCode.';
 $Definition['Enter a descriptive name.'] = 'Faka igama elichazayo ephaketheni. Leli gama ngeke liboniswe ndawo ngaphandle kokuthi lapho ulawula amaphakethe akho lapha ngakho-ke asetshenziswa kuphela ukukusiza ukhumbule ephaketheni.';
 $Definition['Enter a short name for the site.'] = 'Faka igama elifushane lesiza. Lokhu kukhonjiswa kuzinkinobho ze-signin.';
@@ -120,6 +122,7 @@ $Definition['Image (Mobile)'] = 'Izithombe (Iselula)';
 $Definition['Import'] = 'Ngenisa';
 $Definition['Importing to Vanilla'] = 'Ingenisa kuVanilla';
 $Definition['In additon to the widgets there are also'] = 'Okwengezwayo kumawijethi kukhona futhi <0> Izitayela Zomhlaba </0> . Ukuhlela izitayela zomhlaba wonke chofoza kwenye indawo ekhasini, njengalo mbhalo.';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Hlanganisa amakhasi we-Foundation & Components Into Yakho';
 $Definition['Internationalization & Localization'] = 'I-Internationalization kanye ne-Localization';
 $Definition['Invalid URL'] = 'I-URL engavumelekile';
 $Definition['Invitation email failed to send: %'] = 'Yize isimemo sidalwe ngempumelelo, i-imeyili yehlulekile ukuthumela. Iseva ibike iphutha elilandelayo: %s';
@@ -150,7 +153,10 @@ $Definition['MobileLogoDescription'] = 'I-logo yamabhanela eselula avela phezulu
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Izindikimba zeselula zikuvumela ukuthi ushintshe ukubukeka nokuzwa kwesayithi lakho kumadivayisi amancane.';
 
 $Definition['Need More Help?'] = 'Ngabe udinga usizo olwengeziwe?';
+$Definition['Need more help?'] = 'Udinga usizo olwengeziwe?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Izigaba ezifakiwe ezijule kakhulu kunale ukujula zizofakwa kuhlu olunqunyelwe kukhefana.';
+$Definition['New Quick Links'] = 'Izixhumanisi Ezisha Ezintsha';
+$Definition['New Search Page'] = 'Ukucinga okusha';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Ukungatholi okudingayo lapho ubuka kuqala itimu yakho?';
 $Definition['Notify me when people comment on my addons.'] = 'Ngazise lapho abantu bephawula ngama-addons ami.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Isiza sidinga indima enohlobo lokuzenzakalelayo "olungagunyaziwe" ukusebenzisa ukuqinisekiswa kwe-imeyili. Sicela ungeze eyodwa ukuze unike amandla lokhu kulungiselelwa.';
@@ -171,6 +177,7 @@ $Definition['Primary Button'] = 'Inkinobho yokuqala';
 $Definition['Primary Buttons'] = 'Izinkinobho eziyinhloko';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Umhlahlandlela oqala Ngokushesha Wokwenza Izindikimba zeVanilla';
+$Definition['Quick Links is a default component on community pages.'] = 'I-Quick Links iyinto ezenzakalelayo emakhasini omphakathi. Nika amandla ingxenye yethu entsha ye-Quick Links ukwengeza, ukuhlela noma ukufihla izixhumanisi ezivela kule menyu usebenzisa isihleli setimu yethu.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'I-plugin ye-Vanilla Comments eyenziwe isilungele ye-WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'I-plugin ye-Vanilla Forum elungiselelwe eyenziwe ye-WordPress';
@@ -236,6 +243,8 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Zisebenza njengezindikimba ezijwayelekile. Uma eyodwa ingeziwe kufolda yezindikimba, ungayinika amandla lapha.';
 $Definition['This is a style guide of your theme.'] = 'Lesi umhlahlandlela wesitimu sengqikithi yakho. Inezibonelo zezinto ezibonakalayo ezisetshenzisiwe kulo lonke uhlelo lokusebenza. Ungachofoza amawijethi ahlukahlukene njenge <0> Isihloko Bar </0> noma <1> Isibhengezo </1> ukuhlela izakhiwo zabo kuphaneli eseceleni.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Le deshibhodi yokulawula yomphakathi wakho omusha. Bheka izinketho zokumisa ohlangothini. Ukusuka lapho ungahlela ukuthi umphakathi wakho usebenza kanjani. <b>Ngokuzenzakalelayo, abasebenzisi kuphelaendima ethi "Administrator" abangabona le ngxenye yomphakathi wakho.</b>';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Yilapho ungavumela khona futhi uvivinye izici ezintsha ze-Vanilla, amakhasi nezinto.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Le lebhu ayikwazi ukukhutshazwa ngoba idinga itimu yamanje.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Le nketho ikhombisa / ifihla izindawo lapho amaphakethe angaya khona, kepha yenzelwe abasebenzisi kuphela abanemvume yokwengeza / ukuhlela amaphakethe. Zama ukubonisa izindawo bese uvakashela isayithi lakho.';
 $Definition['This page lists the endpoints of your API.'] = 'Leli khasi libonisa uhlu lwe-API yakho. Chofoza iziphetho ukuthola eminye imininingwane. Ungenza izingcingo bukhoma ku-API kusuka kuleli khasi noma ngaphandle usebenzisa ithokheni yokufinyelela.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Le ndima ulwazi lomuntu siqu. Abasebenzisi abanemvume yokubuka imininingwane yabantu kuphela abazoyibona.';
@@ -249,12 +258,16 @@ $Definition['TouchIconDescription'] = 'Isithonjana sokuthinta sivela lapho ubeka
 $Definition['Transparent'] = 'Okusobala';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'I-Twitter Connect ivumela abasebenzisi ukuthi bangene ngemvume besebenzisa i-akhawunti yabo ye-Twitter. <b>Kufanele ubhalise uhlelo lwakho lokusebenza ne-Twitter ukuze le plugin isebenze.</b>';
 
+$Definition['Usercards'] = 'Ama-usercards';
+$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Ama-usercards akuvumela ukuthi uthole isifinyezo esisheshayo esiku-inthanethi semininingwane yomsebenzisi. Lapho ubuka okuthunyelwe namabhodi wabaphambili, chofoza egameni lomsebenzisi ukubona ikhadi elibonisa imininingwane eyisisekelo yephrofayili yabasebenzisi ngaphandle kokuzulazula kude nekhasi. Nika amandla lesi sici ukwengeza ama-usercards kutimu yakho yangokwezifiso.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Okufakwayo komsebenzisi kusekelwe kumbala wembulunga yonke nemibala yombhalo.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Abasebenzisi bangangena ngemvume kwisayithi lakho besebenzisa i-akhawunti yabo ye-Twitter.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Sebenzisa inkinobho engenhla kwekhasi ukudala umthetho wokuvinjelwa.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Sebenzisa i-plugin ye-WordPress ukusetha amazwana e-Vanilla kubhulogi yakho, noma usebenzise ikhodi yendawo yonke ukusetha amazwana e-Vanilla kunoma iyiphi enye ipulatifomu.';
 
+$Definition['Vanilla\'s new search service is finally here.'] = 'Insizakalo entsha yokucinga kaVanilla ekugcineni ifikile. Nika amandla i-UI yethu yekhasi lokusesha elisha ukuthola ukufinyelela kuzici ezintsha zosesho ezinjengokusesha kwamaLungu, ukuhlungwa kosesho nokugqanyiswa kwethemu.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'I-Vanilla Export: %s, Umthombo: %s';
+$Definition['Vanilla Labs'] = 'Amalebhu e-Vanilla';
 $Definition['Vanilla Statistics are currently disabled'] = 'Izibalo zeVanilla okwamanje zikhutshaziwe';
 $Definition['Verify and restore'] = 'Qinisekisa futhi ubuyisele';
 $Definition['Video tutorial on advanced settings'] = 'Isifundo sevidiyo kuzilungiselelo ezithuthukile';
@@ -267,6 +280,7 @@ $Definition['Video tutorial on user registration'] = 'Isifundo sevidiyo ekubhali
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Isexwayiso: Ukunika amandla lesi sici kungadala amaphutha weJavascript kusayithi lakho.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Isexwayiso</b> : Ukulungiswa kweseva yakho akusekeli ukulayisha idatha okusheshayo. Uma ungenisa ifayela elikhulu kakhulu (imibono engaphezulu kwama-200,000) ungahle uthande ukucabanga ngokushintsha ukumiswa kwakho. Chofoza <a href="http://vanillaforums.com/porter">lapha</a> ukuthola eminye imininingwane.';
 $Definition['Warning: This is for advanced users.'] = '<b>Isexwayiso</b> : Lokhu kwenzelwa abasebenzisi abasezingeni eliphezulu futhi kudinga ukuthi wenze ushintsho olwengeziwe kuseva yakho ye-web. Lokhu kuvame ukutholakala kuphela uma uzinikezele noma usingatha i-vps. Ungazami lokhu uma ungazi ukuthi wenzani.';
+$Definition['Welcome to Labs!'] = 'Uyemukelwa kumaLab!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Uyemukelwa kwi-UI ye-theme ka-Vanilla. Leli khasi libala zonke izingqikithi zakho ezikhona, futhi likuvumela ukuthi uzikopishe noma uzihlele.';
 $Definition['Welcome To Your Theme'] = 'Uyemukelwa ku-Itimu Yakho';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Sincoma ukusabela okuhle kakhulu ukukhuthaza ukubamba iqhaza.';

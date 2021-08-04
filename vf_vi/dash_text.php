@@ -51,6 +51,7 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Chọn 
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Chọn cách để xử lý tất cả nội dung liên quan đến tài khoản người dùng cho %s (ý kiến, tin nhắn, vv).';
 $Definition['Choose Image'] = 'Chọn hình ảnh';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Bạn có thể chọn một thuật toán băm tùy chỉnh để đăng yêu cầu của bạn. Thuật toán băm cũng phải được sử dụng trong thư viện của bạn. Chọn md5 nếu bạn không chắc chắn phải chọn gì.';
+$Definition['Choose the order items are sorted.'] = 'Chọn thứ tự các mục được sắp xếp.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Chọn bố cục ưa thích cho danh sách các danh mục.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Chọn bố cục ưa thích cho danh sách các cuộc thảo luận.';
 $Definition['Color Overlay'] = 'Lớp phủ màu';
@@ -75,6 +76,7 @@ $Definition['EditContentTimeout.Notes'] = 'Nếu một người sử dụng có 
 $Definition['Edit Route'] = 'Chỉnh sửa tuyến đường';
 $Definition['Edits to this theme apply to:'] = 'Chỉnh sửa chủ đề này áp dụng cho:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Nhúng diễn đàn vào trang web để tăng sự tham gia...';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Kích hoạt và thử nghiệm các tính năng mới nhất của Vanilla.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Cho phép chỉnh sửa nâng cao các bài đăng ở một số định dạng, bao gồm WYSIWYG, HTML đơn giản, Markdown và BBCode.';
 $Definition['Enter a descriptive name.'] = 'Nhập một tên mô tả cho túi. Tên này sẽ không xuất hiện bất cứ nơi nào ngoại trừ tại đây, do đó, nó chỉ được sử dụng để giúp bạn nhớ các túi.';
 $Definition['Enter a short name for the site.'] = 'Nhập một tên ngắn cho trang web. Điều này được hiển thị trên các nút đăng nhập.';
@@ -121,6 +123,7 @@ $Definition['Image (Mobile)'] = 'Hình ảnh (Di động)';
 $Definition['Import'] = 'Nhập';
 $Definition['Importing to Vanilla'] = 'Nhập vào Vanilla';
 $Definition['In additon to the widgets there are also'] = 'Ngoài tiện ích bổ sung, còn có <0> Kiểu toàn cầu </0> . Để chỉnh sửa kiểu toàn cầu, nhấp vào bất kỳ nơi nào khác trên trang, chẳng hạn như văn bản này.';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Tích hợp các trang và thành phần nền tảng vào chủ đề của bạn';
 $Definition['Internationalization & Localization'] = 'Quốc tế hóa & Bản địa hóa';
 $Definition['Invalid URL'] = 'URL không hợp lệ';
 $Definition['Invitation email failed to send: %'] = 'Mặc dù lời mời đã được tạo thành công nhưng email không gửi được. Máy chủ đã báo cáo lỗi sau: %s';
@@ -151,7 +154,10 @@ $Definition['MobileLogoDescription'] = 'Logo biểu ngữ di động xuất hi�
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Chủ đề di động cho phép bạn thay đổi giao diện trang web của mình trên các thiết bị nhỏ hơn.';
 
 $Definition['Need More Help?'] = 'Cần trợ giúp thêm?';
+$Definition['Need more help?'] = 'Cần sự giúp đỡ nhiều hơn?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Các danh mục lồng nhau sâu hơn độ sâu này sẽ được đặt trong danh sách được phân cách bằng dấu phẩy.';
+$Definition['New Quick Links'] = 'Liên kết nhanh mới';
+$Definition['New Search Page'] = 'Trang tìm kiếm mới';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Không nhận được những gì bạn mong đợi khi bạn xem trước chủ đề của bạn?';
 $Definition['Notify me when people comment on my addons.'] = 'Thông báo cho tôi khi có người nhận xét về addons của tôi.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Website này cần một vai trò với loại mặc định là "chưa xác nhận" để sử dụng tính năng xác nhận địa chỉ email. Vui lòng thêm một vai trò để bật thiết lập này.';
@@ -172,6 +178,7 @@ $Definition['Primary Button'] = 'Nút chính';
 $Definition['Primary Buttons'] = 'Nút chính';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Hướng dẫn nhanh các tạo Chủ đề';
+$Definition['Quick Links is a default component on community pages.'] = 'Liên kết nhanh là một thành phần mặc định trên các trang cộng đồng. Bật thành phần Liên kết nhanh mới của chúng tôi để thêm, chỉnh sửa hoặc ẩn các liên kết khỏi menu này bằng trình chỉnh sửa chủ đề của chúng tôi.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Sẵn sàng tạo Plugin Bình luận cho WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Sẵn sàng tạo Plugin Diễn đàn cho WordPress';
@@ -235,6 +242,8 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Chúng hoạt động giống như các chủ đề thông thường. Khi một cái đã được thêm vào thư mục chủ đề, bạn có thể kích hoạt nó ở đây.';
 $Definition['This is a style guide of your theme.'] = 'Đây là một hướng dẫn phong cách của chủ đề của bạn. Nó có các ví dụ về các yếu tố trực quan được sử dụng trong suốt ứng dụng. Bạn có thể nhấp vào các tiện ích khác nhau, chẳng hạn như Thanh tiêu đề <0> </0> hoặc <1> Biểu ngữ </1> để chỉnh sửa các thuộc tính của chúng trong bảng điều khiển bên.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Đây là bảng điều khiển quản trị cho cộng đồng của bạn. Kiểm tra các tùy chọn cấu hình ở bên phải trang. Từ đây bạn có thể cấu hình cách hoạt động của cộng đồng. <b>Mặc định, chỉ người dùng có vai trò "Quản trị viên" có thể thấy tính năng này.</b>';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Đây là nơi bạn có thể kích hoạt và thử nghiệm các tính năng, trang và thành phần mới của Vanilla.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Không thể tắt lab này vì chủ đề hiện tại bắt buộc phải có lab này.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Tùy chọn hiển thị/ẩn địa điểm nơi túi có thể đi, nhưng chỉ dành cho người dùng có quyền thêm/chỉnh sửa túi. Thử hiển thị các địa điểm và truy cập vào trang web của bạn.';
 $Definition['This page lists the endpoints of your API.'] = 'Trang này liệt kê các điểm cuối của API của bạn. Nhấp vào điểm cuối để biết thêm thông tin. Bạn có thể thực hiện các cuộc gọi trực tiếp tới API từ trang này hoặc bên ngoài bằng cách sử dụng mã thông báo truy cập.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Vai trò này là thông tin cá nhân. Chỉ người dùng có quyền xem thông tin cá nhân mới nhìn thấy nó.';
@@ -248,11 +257,14 @@ $Definition['TouchIconDescription'] = 'Biểu tượng cảm ứng xuất hiện
 $Definition['Transparent'] = 'Trong suốt';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect cho phép người dùng đăng nhập bằng tài khoản Twitter. <b>Bạn phải đăng ký ứng dụng của bạn với Twitter để plugin này có thể làm việc.</b>';
 
+$Definition['Usercards'] = 'Thông thường';
+$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Thông thường cho phép bạn có được ảnh chụp nhanh trong dòng về thông tin của người dùng. Khi xem các bài đăng và bảng xếp hạng, hãy nhấp vào tên người dùng để xem thẻ hiển thị thông tin tiểu sử cơ bản của người dùng mà không cần phải điều hướng khỏi trang. Kích hoạt tính năng này để thêm các vòng sử dụng vào chủ đề tùy chỉnh của bạn.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Đầu vào của người dùng được dựa trên màu nền và văn bản toàn cầu.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Người dùng có thể đăng nhập vào trang web của bạn bằng tài khoản Twitter của họ.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Sử dụng nút ở đầu trang để tạo quy tắc cấm.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Sử dụng các plugin WordPress để đăng các bình luận lên blog của bạn, hoặc sử dụng mã này để đăng bình luận lên các nền tảng khác.';
 
+$Definition['Vanilla\'s new search service is finally here.'] = 'Dịch vụ tìm kiếm mới của Vanilla cuối cùng cũng có ở đây. Bật giao diện người dùng trang tìm kiếm mới của chúng tôi để có quyền truy cập vào các tính năng tìm kiếm mới nhất như Tìm kiếm thành viên, sắp xếp tìm kiếm và đánh dấu cụm từ.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla xuất: %s, Nguồn: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistic hiện đang bị vô hiệu hoá';
 $Definition['Verify and restore'] = 'Xác minh và khôi phục';
@@ -266,6 +278,7 @@ $Definition['Video tutorial on user registration'] = 'Video hướng dẫn về 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Cảnh báo: Kích hoạt tính năng này có thể gây ra lỗi Javascript trên trang web của bạn.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Cảnh báo</b> : Cấu hình máy chủ của bạn không hỗ trợ tải dữ liệu nhanh. Nếu bạn đang nhập một tệp rất lớn (ví dụ: hơn 200.000 nhận xét), bạn có thể muốn xem xét thay đổi cấu hình của mình. Nhấn vào <a href="http://vanillaforums.com/porter">đây</a> để biết thêm thông tin.';
 $Definition['Warning: This is for advanced users.'] = '<b>Cảnh báo</b>: phần này là dành cho người dùng cao cấp và yêu cầu phải thực hiện các thay đổi cho máy chủ web. Nó chỉ dùng được nếu bạn có một máy chủ riêng. Đừng cố thử nếu bạn không biết những gì bạn đang làm.';
+$Definition['Welcome to Labs!'] = 'Chào mừng bạn đến với Labs!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Chào mừng bạn đến với giao diện người dùng theo chủ đề của Vanilla. Trang này liệt kê tất cả các chủ đề có sẵn của bạn và cho phép bạn sao chép hoặc chỉnh sửa chúng.';
 $Definition['Welcome To Your Theme'] = 'Chào mừng đến với chủ đề của bạn';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Chúng tôi đề nghị các phản ứng chủ yếu là tích cực để khuyến khích sự tham gia.';
