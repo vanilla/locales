@@ -50,6 +50,7 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Vælg e
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Vælg hvordan indholdet (kommentarer, beskeder, etc.) for brugerkonto %s skal håndteres.';
 $Definition['Choose Image'] = 'Vælg billede';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Du kan vælge en tilpasset hash algoritme til at underskrive dine anmodninger. Hash algoritmen skal også bruges i dit klientbibliotek. Vælg md5 hvis du ikke ved hvad du skal vælge.';
+$Definition['Choose the order items are sorted.'] = 'Vælg ordren varer er sorteret.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Vælg det foretrukne layout til lister over kategorier.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Vælg det foretrukne layout til lister med diskussioner.';
 $Definition['Color Overlay'] = 'Farveoverlay';
@@ -74,6 +75,7 @@ $Definition['EditContentTimeout.Notes'] = 'Hvis en bruger har en rolle der giver
 $Definition['Edit Route'] = 'Redigér rute';
 $Definition['Edits to this theme apply to:'] = 'Redigeringer til dette tema gælder for:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Indlejr dit fællesskabsforum på din webside for at forøge engagementet...';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Aktiver og afprøv de nyeste Vanilla -funktioner.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Aktiver avanceret redigering af indlæg i flere formater, herunder WYSIWYG, enkel HTML, Markdown og BBCode.';
 $Definition['Enter a descriptive name.'] = 'Indtast et beskrivende navn for lommen. Dette navn bliver kun vist når du administrerer dine lommer, så det bruges kun til at huske lommens funktion.';
 $Definition['Enter a short name for the site.'] = 'Angiv et kort navn for siden. Dette vises på login knapperne.';
@@ -120,6 +122,7 @@ $Definition['Image (Mobile)'] = 'Billede (mobil)';
 $Definition['Import'] = 'Importer';
 $Definition['Importing to Vanilla'] = 'Importerer til Vanilla';
 $Definition['In additon to the widgets there are also'] = 'Som supplement til widgets er der også <0> Global Styles </0> . Klik på et andet sted på siden for at redigere globale stilarter, f.eks. Denne tekst.';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrer grundsider og komponenter i dit tema';
 $Definition['Internationalization & Localization'] = 'Internationalisering og Lokalisering';
 $Definition['Invalid URL'] = 'ugyldig URL';
 $Definition['Invitation email failed to send: %'] = 'Selvom invitationen blev oprettet med succes, kunne e-mailen ikke sendes. Serveren rapporterede følgende fejl: %s';
@@ -149,7 +152,10 @@ $Definition['MobileLogoDescription'] = 'Det mobile bannerlogo vises øverst på 
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mobiltemaer giver dig mulighed for at ændre udseendet og følelsen af dit websted på mindre enheder.';
 
 $Definition['Need More Help?'] = 'Behov for mere hjælp?';
+$Definition['Need more help?'] = 'Brug for mere hjælp?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Indlejrede kategorier dybere end denne dybde placeres i en kommasepareret liste.';
+$Definition['New Quick Links'] = 'Nye hurtige links';
+$Definition['New Search Page'] = 'Ny søgeside';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Får du ikke det, du forventer, når du forhåndsviser dit tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Orientér mig når folk skriver kommentarer om mine tilføjelser.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Webstedet har brug for en rolle med standardtype "ubekræftet" for at bruge e-mail-bekræftelse. Tilføj venligst en for at aktivere denne indstilling.';
@@ -168,6 +174,7 @@ $Definition['Primary Button'] = 'Primær knap';
 $Definition['Primary Buttons'] = 'Primære knapper';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Nem vejledning i hvordan man laver temaer til Vanilla.';
+$Definition['Quick Links is a default component on community pages.'] = 'Hurtige links er en standardkomponent på fællesskabssider. Aktiver vores nye Quick Links -komponent for at tilføje, redigere eller skjule links fra denne menu ved hjælp af vores temaditor.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Tilføjelse der gør det muligt at bruge Vanilla kommentarer med WordPress.';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Tilføjelse der gør det muligt at bruge Vanilla forum med WordPress.';
@@ -231,6 +238,8 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'De fungerer ligesom almindelige temaer. Når en er blevet føjet til temamappen, kan du aktivere den her.';
 $Definition['This is a style guide of your theme.'] = 'Dette er en stilguide til dit tema. Det har eksempler på de visuelle elementer, der bruges i hele applikationen. Du kan klikke på de forskellige widgets, f.eks. <0> Titellinje </0> eller <1> Banner </1> for at redigere deres egenskaber i sidepanelet.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Dette er det administrative instrumentbræt for dit nye fællesskab. Tjek konfigurationsmulighederne ude i siden. Derfra kan du konfigurere hvordan dit fællesskab fungerer. <b>Som standard er det kun brugere med "Administrator" rollen der kan se denne del af dit fællesskab.</b>';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Det er her, du kan aktivere og afprøve nye Vanilla -funktioner, sider og komponenter.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Dette laboratorium kan ikke deaktiveres, fordi det er påkrævet af det aktuelle tema.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Denne indstilling viser/skjuler de placeringer som lommer kan være i men kun for brugere der har rettigheder til at tilføje/rette lommer. Prøv at vise placeringerne og besøg så din webside.';
 $Definition['This page lists the endpoints of your API.'] = 'Denne side viser slutpunkterne på din API. Klik på slutpunkter for at få flere oplysninger. Du kan foretage liveopkald til API\'en fra denne side eller eksternt ved hjælp af et adgangstoken.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Denne rolle er personlig info. Kun brugere med tilladelse til at se personlige oplysninger vil se dem.';
@@ -244,6 +253,7 @@ $Definition['TouchIconDescription'] = 'Berøringsikonet vises, når du bogmærke
 $Definition['Transparent'] = 'Gennemsigtig';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect giver brugere adgang til at logge ind med deres Twitter konto. <b>Du skal oprette din ansøgning med Twitter for denne tilføjelse virker.</b>';
 
+$Definition['Usercards'] = 'Brugerkort';
 $Definition['User inputs are based on the global background and text colors.'] = 'Brugerindgange er baseret på den globale baggrund og tekstfarver.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Brugere kan logge ind på dit websted ved hjælp af deres Twitter-konto.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Brug knappen øverst på siden for at oprette en forbudsregel.';
@@ -262,6 +272,7 @@ $Definition['Video tutorial on user registration'] = 'Videovejledning om registr
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Advarsel: Aktivering af denne funktion kan forårsage Javascript-fejl på dit websted.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Advarsel</b> : Din serverkonfiguration understøtter ikke hurtig dataindlæsning. Hvis du importerer en meget stor fil (f.eks. Over 200.000 kommentarer), kan du overveje at ændre din konfiguration. Klik <a href="http://vanillaforums.com/porter">her</a> for mere information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Advarsel</b>: Dette er for avancerede brugere og kræver at du laver yderligere ændringer til din web server. Dette er normalt kun en mulighed hvis du har en dedikeret eller VPS løsning. Forsøg ikke dette hvis du ikke ved hvad du gør.';
+$Definition['Welcome to Labs!'] = 'Velkommen til Labs!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Velkommen til Vanilla\'s tema UI. Denne side viser alle dine tilgængelige temaer og giver dig mulighed for at kopiere eller redigere dem.';
 $Definition['Welcome To Your Theme'] = 'Velkommen til dit tema';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Vi anbefaler for det meste positive reaktioner for at tilskynde til deltagelse.';
