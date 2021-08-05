@@ -51,7 +51,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Alegeț
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Alege cum să organizați tot conținutul asociat cu contul de utilizator pentru %s (Comentarii, mesaje, etc).';
 $Definition['Choose Image'] = 'Alegeți Imagine';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Puteți selecta un algoritm de hash customizat pentru a semna solicitările. Algoritmul de hasi trebuiesc folosite și în librăria clientului. Alegeți md5 dacă nu sunteți sigur ce să selectați.';
-$Definition['Choose the order items are sorted.'] = 'Alegeți comenzile pentru care sunt sortate.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Alegeți aspectul preferat pentru listele de categorii.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Alegeți aspectul preferat pentru listele de discuții.';
 $Definition['Color Overlay'] = 'Suprapunere de culoare';
@@ -76,7 +75,6 @@ $Definition['EditContentTimeout.Notes'] = 'Dacă un utilizator are un rol care a
 $Definition['Edit Route'] = 'Editare traseu';
 $Definition['Edits to this theme apply to:'] = 'Editările acestei teme se aplică la:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Încorporați forumul în site-ul dumneavoastră pentru a crește implicarea...';
-$Definition['Enable and test out the latest Vanilla features.'] = 'Activați și testați cele mai recente caracteristici Vanilla.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Permite editarea avansată a postărilor în mai multe formate, inclusiv WYSIWYG, HTML simplu, Markdown și BBCode.';
 $Definition['Enter a descriptive name.'] = 'Introduceți un nume sugestiv pentru pocket. Acest nume nu va fi afișat nicăieri altundeva decât când administrați pocket-urile aici deci e folosit doar pentru reamintire.';
 $Definition['Enter a short name for the site.'] = 'Introduceţi un nume scurt pentru site. Acesta va fi afişat pe butoanele de conectare';
@@ -121,7 +119,6 @@ $Definition['If you want to embed your forum, enable embedding.'] = 'Dacă dori�
 $Definition['Image (Mobile)'] = 'Imagine (mobil)';
 $Definition['Importing to Vanilla'] = 'Import pe Vanilla';
 $Definition['In additon to the widgets there are also'] = 'În plus la widgeturi există și <0> Stiluri globale </0> . Pentru a edita stiluri globale, faceți clic în orice altă parte a paginii, cum ar fi acest text.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrează paginile și componentele fundației în tema ta';
 $Definition['Internationalization & Localization'] = 'Internaționalizare și localizare';
 $Definition['Invalid URL'] = 'URL invalid';
 $Definition['Invitation email failed to send: %'] = 'Deși invitația a fost creată cu succes, e-mailul nu a reușit. Serverul a raportat următoarea eroare: %s';
@@ -152,10 +149,7 @@ $Definition['MobileLogoDescription'] = 'Logo-ul bannerului mobil apare în parte
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Temele mobile vă permit să schimbați aspectul site-ului dvs. pe dispozitive mai mici.';
 
 $Definition['Need More Help?'] = 'Aveţi nevoie de mai mult ajutor?';
-$Definition['Need more help?'] = 'Aveți nevoie de mai mult ajutor?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Categoriile amplificate mai adânc decât această adâncime vor fi plasate într-o listă delimitată prin virgule.';
-$Definition['New Quick Links'] = 'Noi linkuri rapide';
-$Definition['New Search Page'] = 'Pagină nouă de căutare';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Nu primiți ceea ce vă așteptați când previzualizați tema dvs.?';
 $Definition['Notify me when people comment on my addons.'] = 'Anunţă-mă când oamenii comentează extensiile mele';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Acest site necesită un rol cu tipul implicit "neconfirmat" care să folosească confirmarea prin email. Te rugăm să adaugi unul pentru a activa această setare.';
@@ -176,7 +170,6 @@ $Definition['Primary Button'] = 'Buton primar';
 $Definition['Primary Buttons'] = 'Butoane primare';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Ghid Quick-Start  pentru crearea de teme Vanilla';
-$Definition['Quick Links is a default component on community pages.'] = 'Link-uri rapide este o componentă implicită pe paginile comunității. Activați noua componentă Quick Links pentru a adăuga, edita sau ascunde linkuri din acest meniu utilizând editorul nostru de teme.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin Comentarii Vanilla pentru WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin Comentarii Vanilla pentru WordPress';
@@ -241,8 +234,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Funcționează la fel ca temele obișnuite. După adăugarea unuia în folderul cu teme, îl puteți activa aici.';
 $Definition['This is a style guide of your theme.'] = 'Acesta este un ghid de stil al temei tale. Are exemple de elemente vizuale utilizate în întreaga aplicație. Puteți face clic pe diverse widget-uri, cum ar fi <0> Bara de titlu </0> sau <1> Banner </1> pentru a edita proprietățile lor în panoul lateral.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Acesta este panoul administrativ pentru noua ta comunitate. Verifică opțiunile de configurare din lateral. De acolo poți configura modul în care funcționează comunitatea ta. <b>Implicit, numai utilizatorii cu rolul de "Administrator" pot vedea această parte a comunității tale.</b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Aici puteți activa și testa noi caracteristici Vanilla, pagini și componente.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Acest laborator nu poate fi dezactivat deoarece este cerut de tema curentă.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Această opțiune afișează/ascunde locațiile unde pocketurile pot apărea, dar numai utilizatorii cu permisiuni pot edita pocketurile. Încercați afișarea locației și apoi vizitați site-ul pentru a vedea!';
 $Definition['This page lists the endpoints of your API.'] = 'Această pagină listează punctele finale ale API-ului dvs. Faceți clic pe puncte finale pentru mai multe informații. Puteți efectua apeluri live către API de pe această pagină sau extern folosind un jeton de acces.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Acest rol îl reprezintă informațiile personale. Doar utilizatorii cu permisiunea de a vizualiza informațiile personale o vor vedea.';
@@ -255,13 +246,11 @@ $Definition['To prevent abuse, some tools automatically hide content and list it
 $Definition['TouchIconDescription'] = 'Pictograma atingere apare când marcați un site web pe ecranul de pornire al unui dispozitiv Apple. Acestea sunt de obicei 152 pixeli. Apple adaugă automat colțurile rotunjite și efectul de iluminare.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Conexiunea Twitter permite utilizatorilor să se conecteze folosind contul de Twitter. <b>Trebuie să înregistraţi cererea dumneavoastră cu Twitter pentru ca acest plug-in să funcționeze</b>';
 
-$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Cartele de utilizator vă permit să obțineți un instantaneu rapid în linie cu informațiile unui utilizator. Când vizualizați postări și clasamente, faceți clic pe numele de utilizator pentru a vedea un card care prezintă informațiile de bază ale profilului utilizatorilor fără a fi nevoie să navigați departe de pagină. Activați această caracteristică pentru a adăuga cărți de utilizare la tema personalizată.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Intrările utilizatorilor se bazează pe culorile globale de fundal și text.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Utilizatorii se pot conecta la site-ul dvs. utilizând contul de Twitter.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Utilizați butonul din partea de sus a paginii pentru a crea o regulă de interdicție.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Utilizaţi plug-inul WordPress pentru a afișa comentariile Vanilla pe blog-ul dvs., sau folosiți codul universal pentru a configura comentariile Vanilla pe orice altă platformă';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'Noul serviciu de căutare Vanilla este în sfârșit aici. Activați noua noastră interfață de utilizare a paginii de căutare pentru a avea acces la cele mai noi funcții de căutare, cum ar fi Căutarea membrilor, sortarea căutării și evidențierea termenilor.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Export Vanilla: %s, Sursa: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Statisticiile Vanilla sunt dezactivate în prezent';
 $Definition['Verify and restore'] = 'Verificați și restaurați';
@@ -275,7 +264,6 @@ $Definition['Video tutorial on user registration'] = 'Tutorial video pentru înr
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Avertisment: activarea acestei funcții poate provoca erori Javascript pe site-ul dvs.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Avertisment</b> : configurația serverului dvs. nu acceptă încărcarea rapidă a datelor. Dacă importați un fișier foarte mare (ex. Peste 200.000 de comentarii), poate doriți să luați în considerare schimbarea configurației. Faceți clic <a href="http://vanillaforums.com/porter">aici</a> pentru mai multe informații.';
 $Definition['Warning: This is for advanced users.'] = '<b>Avertisment</b>: acest lucru este pentru utilizatori avansaţi şi necesită să faceţi modificări suplimentare la serverul de web. Acest lucru este, de obicei, disponibil numai dacă aveți hosting dedicat sau vps. Nu încercaţi acest lucru dacă nu aveți cunoștințele necesare';
-$Definition['Welcome to Labs!'] = 'Bine ați venit la Labs!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Bine ați venit la UI-ul tematic Vanilla. Această pagină listează toate temele disponibile și vă permite să le copiați sau să le editați.';
 $Definition['Welcome To Your Theme'] = 'Bine ați venit la tema dvs.';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Vă recomandăm în mare parte reacții pozitive pentru a încuraja participarea.';

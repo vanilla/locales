@@ -51,7 +51,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Válass
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Add meg, hogyan kezeljük %s felhasználói fiókjához tartozó összes tartalmat (kommentek, üzenetek, stb.).';
 $Definition['Choose Image'] = 'Válassza a Kép lehetőséget';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Egyedi hash algoritmust választhatsz a kéréseid aláírásához. Ugyanez a hash algoritmust kell a kliens library-ben is használni. Válaszd az md5-t, ha nem vagy biztos abban, hogy mit válassz.';
-$Definition['Choose the order items are sorted.'] = 'Válassza ki a rendelési tételeket.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Válassza ki a kategóriák listájának preferált elrendezését.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Válassza ki a beszélgetések listáinak preferált elrendezését.';
 $Definition['Color Overlay'] = 'Színes fedvény';
@@ -76,7 +75,6 @@ $Definition['EditContentTimeout.Notes'] = 'Ha a felhasználó egy olyan szerepk�
 $Definition['Edit Route'] = 'Út módosítása';
 $Definition['Edits to this theme apply to:'] = 'A téma szerkesztései a következőkre vonatkoznak:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Ágyazd be a közösségi fórumod a weboldaladba, hogy erősítsd az elkötelezettséget...';
-$Definition['Enable and test out the latest Vanilla features.'] = 'Engedélyezze és tesztelje a Vanilla legújabb funkcióit.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Lehetővé teszi a hozzászólások fejlett szerkesztését több formátumban, beleértve a WYSIWYG-t, az egyszerű HTML-t, a Markdown-ot és a BBCode-t.';
 $Definition['Enter a descriptive name.'] = 'Adj egy jellemző nevet a zsebnek. Ez csak akkor fog megjelenni, amikor a zsebeddel foglalkozol, máshol nem. Így arra való, hogy segítsen emlékezni a zsebre.';
 $Definition['Enter a short name for the site.'] = 'Adj egy rövid nevet az oldanak. Ez fog megjelenni a bejelentkező gombokon.';
@@ -123,7 +121,6 @@ $Definition['Image (Mobile)'] = 'Kép (mobil)';
 $Definition['Import'] = 'Importálás';
 $Definition['Importing to Vanilla'] = 'Importálás a Vanilla-ba';
 $Definition['In additon to the widgets there are also'] = 'A kütyü kiegészítéseként a <0> globális stílusok is megtalálhatók </0> . A globális stílusok szerkesztéséhez kattintson az oldal bárhol más oldalára, például a szövegre.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrálja az alapítvány oldalait és összetevőit a témájába';
 $Definition['Internationalization & Localization'] = 'Internacionalizálás és lokalizáció';
 $Definition['Invalid URL'] = 'érvénytelen URL';
 $Definition['Invitation email failed to send: %'] = 'Bár a meghívót sikeresen hozták létre, az e-mailt nem sikerült elküldeni. A szerver a következő hibát jelentette: %s';
@@ -154,10 +151,7 @@ $Definition['MobileLogoDescription'] = 'A mobil szalaghirdetés logója megjelen
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'A mobil témák lehetővé teszik, hogy megváltoztassa webhelyének megjelenését és hangulatát kisebb eszközökön.';
 
 $Definition['Need More Help?'] = 'További segítségre van szükséged?';
-$Definition['Need more help?'] = 'További segítségre van szüksége?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'A mélységnél mélyebb beágyazott kategóriák vesszővel elválasztott listába kerülnek.';
-$Definition['New Quick Links'] = 'Új gyors linkek';
-$Definition['New Search Page'] = 'Új keresési oldal';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Nem kapja meg azt, amit elvár a téma előnézetekor?';
 $Definition['Notify me when people comment on my addons.'] = 'Értesítsenek, ha hozzászólnak egy addon-omhoz.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Az oldalnak szüksége van az alapértelmezett "érvénytelenített" típusú szerepre az e-mail megerősítéséhez. A beállítás engedélyezéséhez adj hozzá egyet.';
@@ -178,7 +172,6 @@ $Definition['Primary Button'] = 'Elsődleges gomb';
 $Definition['Primary Buttons'] = 'Elsődleges gombok';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Gyorstalpaló Vanilla témák létrehozásához';
-$Definition['Quick Links is a default component on community pages.'] = 'A Gyorslinkek a közösségi oldalak alapértelmezett összetevői. Engedélyezze új Gyorshivatkozások összetevőnket, hogy a témaszerkesztő segítségével linkeket adjon hozzá, szerkessze vagy rejtse el ebből a menüből.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Azonnal felhasználható Vanilla Hozzászólás Modul WordPresshez';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Azonnal felhasználható Vanilla Fórum Modul WordPresshez';
@@ -243,8 +236,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Úgy működnek, mint a szokásos témák. Miután hozzáadtak egyet a témák mappához, itt engedélyezheti.';
 $Definition['This is a style guide of your theme.'] = 'Ez egy stílus útmutató a témához. Példákat tartalmaz az alkalmazás során alkalmazott vizuális elemekre. Kattintson a különféle kütyüre, például a <0> címsorra </0> vagy <1> szalaghirdetés </1> tulajdonságaik szerkesztéséhez az oldalsó panelen.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Az új csoportjának ez az adminisztratív oldala. Ellenőrizze a beállításokat az oldalán. Ott tudja megadni azt, hogy miképp működjön a közösség.<b> Az alap beállítás szerint csak az "adminisztrátor" minőségű felhasználók láthatják a közösségük ezen részét. </b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Itt engedélyezheti és tesztelheti a Vanilla új funkcióit, oldalait és összetevőit.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Ez a labor nem tiltható le, mert az aktuális téma ezt megköveteli.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Ez a beállítás mutatja/rejti el a helyeket, ahova a zsebek mehetnek, de csak azoknak a felhasználóknak, akiknek joguk van zsebek hozzáadására, ileltve szerkesztésére. Próbáld megmutatni a helyeket, majd látogasd meg az oldalad.';
 $Definition['This page lists the endpoints of your API.'] = 'Ezen az oldalon felsorolja az API végpontjait. További információkért kattintson a végpontokra. Ezen az oldalon vagy kívülről hozzáférési token használatával élő hívásokat kezdeményezhet az API-ra.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Ez a szerep személyes információ. Csak azok a felhasználók látják el, akik jogosultak a személyes adatok megtekintésére.';
@@ -258,14 +249,11 @@ $Definition['TouchIconDescription'] = 'Az érintőképernyő ikon jelenik meg, a
 $Definition['Transparent'] = 'Átlátszó';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect segítségével a felhasználók a Twitter fiókjukkal jelentkezhetnek be. <b>Regisztrálnod kell az alkalmazásod a Twitterrel, hogy használhasd ezt a modult.</b>';
 
-$Definition['Usercards'] = 'Felhasználói kártyák';
-$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'A felhasználói kártyák lehetővé teszik, hogy gyors, pillanatnyi felvételt kapjon a felhasználó adatairól. A bejegyzések és ranglisták megtekintésekor kattintson a felhasználónévre, és megjelenik egy kártya, amely bemutatja a felhasználók alapvető profiladatait anélkül, hogy el kellene navigálnia az oldalról. Engedélyezze ezt a funkciót, ha usercardokat szeretne hozzáadni egyéni témájához.';
 $Definition['User inputs are based on the global background and text colors.'] = 'A felhasználói bemenetek a globális háttér és a szöveg színein alapulnak.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'A felhasználók Twitter-fiókjukkal jelentkezhetnek be az Ön webhelyére.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'A tiltási szabály létrehozásához használja az oldal tetején található gombot.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Használd a WordPress modult, hogy beállítsd a Vanilla Hozzászólásokat a blogodon, vagy használd az univerzális kódot, hogy beállítsd a Vanilla Hozzászólásokat bármilyen más platformon.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'A Vanilla új keresési szolgáltatása végre itt van. Engedélyezze új keresési oldalunk kezelőfelületét, hogy hozzáférhessen a legújabb keresési funkciókhoz, például a tagkereséshez, a keresések rendezéséhez és a kifejezések kiemeléséhez.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Forrás: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statisztika jelenleg le van tiltva';
 $Definition['Verify and restore'] = 'Ellenőrizze és állítsa vissza';
@@ -279,7 +267,6 @@ $Definition['Video tutorial on user registration'] = 'Videó bemutató a regiszt
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Figyelem: A szolgáltatás engedélyezése Javascript hibákat okozhat a webhelyén.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Figyelem</b> : A szerver konfigurációja nem támogatja az adatok gyors betöltését. Ha nagyon nagy fájlt importál (pl. Több mint 200 000 hozzászólás), érdemes megfontolnia a konfiguráció megváltoztatását. További információkért kattintson <a href="http://vanillaforums.com/porter">ide</a> .';
 $Definition['Warning: This is for advanced users.'] = '<b>Figyelem</b>: Ez csak haladó felhasználóknak való és további módósítások szükségesek a web szervereden. Ez általában csak akkor érhető el, ha dedikált vagy vps hosztolással rendelkezel. Ha nem tudod mit jelent ez, ne próbáld ezt meg használni.';
-$Definition['Welcome to Labs!'] = 'Üdvözöljük a Labsban!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Üdvözöljük a Vanilla theming UI-n. Ez az oldal felsorolja az összes elérhető témát, és lehetővé teszi azok másolását vagy szerkesztését.';
 $Definition['Welcome To Your Theme'] = 'Üdvözöljük a témádban';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'A részvétel ösztönzésére elsősorban pozitív reakciókat javasolunk.';

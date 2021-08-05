@@ -51,7 +51,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'اخت�
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'اختر كيفية التعامل مع كل المحتوى المرتبط بحساب المستخدم لـ (التعليقات، الرسائل، إلخ) الخاصة بـ %s.';
 $Definition['Choose Image'] = 'اختر صورة';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'يمكنك تحديد خوارزمية تجزئة مخصصة لتوقيع طلباتك. يجب أيضًا استخدام خوارزمية التجزئة في مكتبة العميل الخاصة بك. اختر md5 إذا لم تكن متأكدًا مما يجب أن تختار.';
-$Definition['Choose the order items are sorted.'] = 'اختر ترتيب العناصر مرتبة.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'اختر التنسيق المفضل لقوائم الفئات.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'اختر التنسيق المفضل لقوائم المناقشات.';
 $Definition['Color Overlay'] = 'تراكيب الالوان';
@@ -76,7 +75,6 @@ $Definition['EditContentTimeout.Notes'] = 'إذا كان للمستخدم دور
 $Definition['Edit Route'] = 'تحرير المسار';
 $Definition['Edits to this theme apply to:'] = 'تنطبق تعديلات هذا المظهر على:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'قم بتضمين منتدى مجتمعك في موقع الويب الخاص بك لزيادة المشاركة ...';
-$Definition['Enable and test out the latest Vanilla features.'] = 'قم بتمكين واختبار أحدث ميزات Vanilla.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'تمكين التحرير المتقدم للمشاركات بعدة تنسيقات ، بما في ذلك WYSIWYG و HTML البسيط و Markdown و BBCode.';
 $Definition['Enter a descriptive name.'] = 'أدخل اسماً وصفياً للجيب. لن يظهر هذا الاسم في أي مكان إلا عند إدارة جيوبك هنا، لذا فهو يستخدم فقط لمساعدتك على تذكر الجيب.';
 $Definition['Enter a short name for the site.'] = 'أدخل اسماً قصيراً للموقع. يتم عرض هذا على أزرار تسجيل الدخول.';
@@ -153,10 +151,7 @@ $Definition['Messages can appear anywhere in your application.'] = 'يمكن أ�
 $Definition['MobileLogoDescription'] = 'يظهر شعار بانر الجوال أعلى موقعك.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'تسمح لك مظاهر الجوال بتغيير شكل موقعك وأسلوبه على الأجهزة الصغيرة.';
 
-$Definition['Need more help?'] = 'هل تريد المزيد من المساعدة؟';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'سيتم وضع الفئات المتداخلة أعمق من هذا العمق في قائمة محددة بفواصل.';
-$Definition['New Quick Links'] = 'روابط سريعة جديدة';
-$Definition['New Search Page'] = 'صفحة بحث جديدة';
 $Definition['Not getting what you expect when you preview your theme?'] = 'لا تحصل على ما تتوقعه عند معاينة السمة الخاصة بك؟';
 $Definition['Notify me when people comment on my addons.'] = 'أعلمني عندما يقوم الأشخاص بالتعليق على الإضافات الخاصة بي.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'يحتاج الموقع إلى دور بنوع افتراضي "غير مؤكد" لاستخدام تأكيد البريد الإلكتروني. الرجاء إضافة واحد لتمكين هذا الإعداد.';
@@ -263,7 +258,6 @@ $Definition['Use the button at the top of the page to create a ban rule.'] = 'ا
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'استخدم البرنامج الملحق لـ WordPress لإعداد تعليقات Vanilla على مدونتك، أو استخدم الكود العالمي لإعداد تعليقات Vanilla على أي منصة أخرى.';
 
 $Definition['Vanilla Export: %s, Source: %s'] = 'تصدير Vanilla: %s, المصدر: %s';
-$Definition['Vanilla Labs'] = 'مختبرات الفانيليا';
 $Definition['Vanilla Statistics are currently disabled'] = 'إحصائيات Vanilla معطلة حالياً';
 $Definition['Verify and restore'] = 'تحقق واستعد';
 $Definition['Video tutorial on advanced settings'] = 'فيديو تعليمي عن الإعدادات المتقدمة';
@@ -276,7 +270,6 @@ $Definition['Video tutorial on user registration'] = 'فيديو تعليمي ع
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'تحذير: قد يؤدي تمكين هذه الميزة إلى حدوث أخطاء جافا سكريبت على موقعك.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>تحذير</b> : تكوين الخادم الخاص بك لا يدعم التحميل السريع للبيانات. إذا كنت تقوم باستيراد ملف كبير جدًا (على سبيل المثال ، أكثر من 200000 تعليق) ، فقد تحتاج إلى تغيير تكوينك. انقر <a href="http://vanillaforums.com/porter">هنا</a> لمزيد من المعلومات.';
 $Definition['Warning: This is for advanced users.'] = '<b> تحذير </b>: هذا مخصص للمستخدمين المتطورين ويتطلب إجراء تغييرات إضافية على خادم الويب الخاص بك. عادةً ما يكون هذا متاحاً فقط إذا كنت قد خصصت أو قمت باستضافة vps. لا تحاول ذلك إذا كنت لا تعرف ما الذي تفعله.';
-$Definition['Welcome to Labs!'] = 'مرحبًا بك في المختبرات!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'مرحبًا بك في واجهة مستخدم Vanilla. تسرد هذه الصفحة جميع السمات المتاحة لك ، وتسمح لك بنسخها أو تحريرها.';
 $Definition['Welcome To Your Theme'] = 'مرحبا بك في موضوعك';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'نوصي بردود فعل إيجابية في الغالب لتشجيع المشاركة.';

@@ -97,7 +97,6 @@ $Definition['Allow this connection to issue API access tokens.'] = 'اسمح ل�
 $Definition['Allow users to change their own avatars'] = 'السماح للمستخدمين بتغيير الصور الرمزية الخاصة بهم';
 $Definition['Allow users to dismiss this message'] = 'السماح للمستخدمين بتجاهُل هذه الرسالة.';
 $Definition['All Pages'] = 'كل الصفحات';
-$Definition['All Time'] = 'كل الوقت';
 $Definition['An enabled message will be visible on the site.'] = 'سوف تظهر رسالة مُمَكَّنة على الموقع.';
 $Definition['API SSO Expand Permission'] = 'API SSO توسيع الإذن';
 $Definition['API Status'] = 'حالة API';
@@ -186,10 +185,8 @@ $Definition['Check out the new community forum I\'ve just set up.'] = 'مرحب�
 تحقّق من المنتدى الجديد للمجتمع الذي قمت بإنشائه للتو. إنه مكان رائع بالنسبة لنا للدردشة مع بعضنا البعض عبر الإنترنت.';
 $Definition['Choose a locale pack'] = 'تحديد حزمة اللغة';
 $Definition['Choose Avatar'] = 'اختر صورة شخصية';
-$Definition['Choose how many records to display.'] = 'اختر عدد السجلات المراد عرضها.';
 $Definition['Choose the preferred layout for the categories page.'] = 'اختر التنسيق المفضل لصفحة الفئات.';
 $Definition['Choose the preferred layout for the discussions page.'] = 'اختر التنسيق المفضل لصفحة المناقشات.';
-$Definition['Choose when to load records from.'] = 'اختر وقت تحميل السجلات من.';
 $Definition['Choose who can send out invitations to new members:'] = 'اختر من يمكنه إرسال دعوات للأعضاء الجدد:';
 $Definition['Class'] = 'الفئة';
 $Definition['Classic table layout used by traditional forums'] = 'تخطيط الجدول الكلاسيكي الذي تستخدمه المنتديات التقليدية';
@@ -288,8 +285,6 @@ $Definition['Display a searchbox on top of the banner image.'] = 'عرض مرب�
 $Definition['Display in dashboard. (not recommended)'] = 'عرض في لوحة القيادة. (لا ينصح)';
 $Definition['Display on category page only.'] = 'عرض على صفحة الفئة فقط. لن تتأثر قائمة المناقشات الأخيرة.';
 $Definition['Display Open Cases in Profile Page?'] = 'عرض الحالات المفتوحة في صفحة الملف الشخصي؟';
-$Definition['Display records from this category.'] = 'عرض السجلات من هذه الفئة.';
-$Definition['Display records from this subcommunity.'] = 'عرض السجلات من هذا المجتمع الفرعي.';
 $Definition['Display root categories as headings.'] = 'عرض فئات الجذر كعناوين.';
 $Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'يعرض صورة الإعلان من صفحة العلامات التجارية بشكل بارز خلال مظهر الصفحة ككل.';
 $Definition['Don\'t display for embedded comments.'] = 'لا تعرض للتعليقات المضمنة.';
@@ -423,13 +418,11 @@ $Definition['Hide signatures for guests'] = 'إخفاء التوقيعات لل�
 $Definition['Hide signatures on embedded comments'] = 'إخفاء التوقيعات في التعليقات المضمنة';
 $Definition['Homepage'] = 'الصفحة الرئيسية';
 $Definition['Homepage Title'] = 'عنوان الصفحة الرئيسية';
-$Definition['Hot (score + activity)'] = 'Hot (النتيجة + النشاط)';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'رسائل بريد إلكترونية بصيغة HTML';
 $Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'إعدادات أمان النقل الصارم HTTP (HSTS)';
 
 $Definition['Inbox Page'] = 'صفحة البريد الوارد';
-$Definition['Include Child Categories'] = 'تضمين الفئات الفرعية';
 $Definition['Include full post in email notifications'] = 'تضمين المنشور بالكامل في إشعارات البريد الإلكتروني';
 $Definition['Include Subcategories'] = 'تضمين الفئات الفرعية';
 $Definition['Include Subdomains'] = 'تضمين النطاقات الفرعية';
@@ -458,10 +451,7 @@ $Definition['Keyword Blocker'] = 'مانع الكلمات المفتاحية';
 $Definition['Label'] = 'ملصق';
 $Definition['Label this Revision'] = 'قم بتسمية هذه المراجعة';
 $Definition['Large images will be scaled down.'] = 'سوف يتم تصغير حجم الصور الكبيرة حتى نصل إلى أقصى عرض لـ %spx وأقصى ارتفاع لـ %spx.';
-$Definition['Last Day'] = 'بالأمس';
-$Definition['Last Month'] = 'الشهر الماضي';
 $Definition['Last Visit'] = 'الزيارة الأخيرة';
-$Definition['Last Week'] = 'الأسبوع الماضي';
 $Definition['Layout'] = 'المخطط';
 $Definition['Learn more about HSTS at %s.'] = 'تعرَّف على المزيد عن HSTS على %s.';
 $Definition['Level'] = 'المستوى';
@@ -607,8 +597,6 @@ $Definition['Re-Register API Key'] = 'إعادة تسجيل مفتاح API';
 $Definition['Reaction Types'] = 'أنواع التفاعل';
 $Definition['Recalculate Counts'] = 'إعادة حساب التهم';
 $Definition['Recently Active Users'] = 'المستخدمون النشطون مؤخرًا';
-$Definition['Recently Added'] = 'أضيف مؤخرا';
-$Definition['Recently Commented'] = 'علق مؤخرا';
 $Definition['Refresh Comments'] = 'تحديث التعليقات';
 $Definition['Register for Membership'] = 'سجل للعضوية';
 $Definition['Register Url'] = 'رابط التسجيل';
@@ -667,7 +655,6 @@ $Definition['Separate each word with a semi-colon ";"'] = 'افصل بين كل 
 $Definition['Share Image'] = 'مشاركة الصورة';
 $Definition['Show all categories'] = 'عرض كل الفئات';
 $Definition['Show an uploaded image on the Category page.'] = 'ستعرض كل مناقشة صورة تم تحميلها على صفحة الفئة. ينطبق هذا فقط على الفئات التي تحتوي على "مناقشات" مثل "عرض باسم".';
-$Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = 'اعرض لكل مستخدم قائمة مخصصة بالأفكار التي ابتكرها أو أيدها.';
 $Definition['Show Pocket Locations'] = 'إظهار مواقع الجيب';
 $Definition['Signatures'] = 'التواقيع';
 $Definition['Sign In Url'] = 'رابط الدخول';
@@ -757,7 +744,6 @@ $Definition['Threshold'] = 'العتبة';
 $Definition['Thumbnails'] = 'صور مصغرة';
 $Definition['Thumbnail Size'] = 'حجم الصورة المصغرة';
 $Definition['Time'] = 'الوقت';
-$Definition['Timeframe'] = 'الإطار الزمني';
 $Definition['Titles'] = 'العناوين';
 $Definition['Token Name'] = 'اسم الرمز';
 $Definition['Touch Icon'] = 'أيقونة اللمس';

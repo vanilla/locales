@@ -51,7 +51,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Dewiswc
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Dewis sut i drin yr holl gynnwys sy\'n gysylltiedig â chyfrif defnyddiwr ar gyfer %s (sylwadau, negeseuon, ac ati).';
 $Definition['Choose Image'] = 'Dewiswch Delwedd';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Gallwch ddewis algorithm hash personol i lofnodi eich ceisiadau. Rhaid defnyddio\'r algorithm hash yn eich llyfrgell cleient hefyd. Dewiswch md5 os nad ydych yn siŵr beth i\'w ddewis.';
-$Definition['Choose the order items are sorted.'] = 'Dewiswch yr eitemau archebu yn cael eu didoli.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Dewiswch y cynllun a ffefrir ar gyfer rhestrau o gategorïau.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Dewiswch y cynllun a ffefrir ar gyfer rhestrau o drafodaethau.';
 $Definition['Color Overlay'] = 'Troshaen Lliw';
@@ -76,7 +75,6 @@ $Definition['EditContentTimeout.Notes'] = 'Os yw\'r defnyddiwr yn yn rôl y mae 
 $Definition['Edit Route'] = 'Golygu\'r llwybr';
 $Definition['Edits to this theme apply to:'] = 'Mae golygiadau i\'r thema hon yn berthnasol i:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Ymgorffori eich Fforwm cymunedol yn eich gwefan i ymgysylltu mwy...';
-$Definition['Enable and test out the latest Vanilla features.'] = 'Galluogi a phrofi nodweddion diweddaraf Vanilla.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Yn galluogi golygu swyddi mewn sawl fformat yn uwch, gan gynnwys WYSIWYG, HTML syml, Markdown, a BBCode.';
 $Definition['Enter a descriptive name.'] = 'Rhowch enw disgrifiadol i\'r boced. Ni fydd yr enw yma\'n ymddangos unrhywle heblaw wrth reoli eich pocedi yma felly defnyddir yn unig i\'ch helpu chi i gofio\'r boced.';
 $Definition['Enter a short name for the site.'] = 'Rhowch enw byr ar gyfer y safle. Mae hyn yn cael ei arddangos ar y botymau mewgofnodi.';
@@ -122,7 +120,6 @@ $Definition['Image (Mobile)'] = 'Delwedd (Symudol)';
 $Definition['Import'] = 'Mewnforio';
 $Definition['Importing to Vanilla'] = 'Mewnforio i Vanilla';
 $Definition['In additon to the widgets there are also'] = 'Yn ychwanegol at y teclynnau mae yna hefyd <0> Global Styles </0> . I olygu arddulliau byd-eang cliciwch unrhyw le arall ar y dudalen, fel y testun hwn.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integreiddio Tudalennau a Chydrannau Sylfaen i\'ch Thema';
 $Definition['Internationalization & Localization'] = 'Rhyngwladoli a Lleoleiddio';
 $Definition['Invalid URL'] = 'URL annilys';
 $Definition['Invitation email failed to send: %'] = 'Er i\'r gwahoddiad gael ei greu\'n llwyddiannus, methodd yr e-bost ag anfon. Adroddodd y gweinydd y gwall canlynol: %s';
@@ -153,10 +150,7 @@ $Definition['MobileLogoDescription'] = 'Mae logo\'r faner symudol yn ymddangos a
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mae themâu symudol yn caniatáu ichi newid edrychiad a theimlad eich gwefan ar ddyfeisiau llai.';
 
 $Definition['Need More Help?'] = 'Angen mwy o Help?';
-$Definition['Need more help?'] = 'Angen mwy o help?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Bydd categorïau nythu sy\'n ddyfnach na\'r dyfnder hwn yn cael eu rhoi mewn rhestr wedi\'i therfynu â choma.';
-$Definition['New Quick Links'] = 'Dolenni Cyflym Newydd';
-$Definition['New Search Page'] = 'Tudalen Chwilio Newydd';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Ddim yn cael yr hyn rydych chi\'n ei ddisgwyl pan fyddwch chi\'n rhagolwg o\'ch thema?';
 $Definition['Notify me when people comment on my addons.'] = 'Rhoi gwybod i mi pan mae pobl yn gwneud sylwadau ar fy ychwanegion';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Mae angen rôl ar y safle gyda\'r math diofyn "heb ei gadarnhau" er mwyn defnyddio ebost cadarnhau. Ychwanegwch un i alluogi\'r gosodiad hwn.';
@@ -177,7 +171,6 @@ $Definition['Primary Button'] = 'Botwm Cynradd';
 $Definition['Primary Buttons'] = 'Botymau Cynradd';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Canllaw cyflym i ddechrau creu themâu ar gyfer Vanilla';
-$Definition['Quick Links is a default component on community pages.'] = 'Mae Dolenni Cyflym yn elfen ddiofyn ar dudalennau cymunedol. Galluogi ein cydran Dolenni Cyflym newydd i ychwanegu, golygu neu guddio dolenni o\'r ddewislen hon gan ddefnyddio ein golygydd thema.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ategyn sylwadau parod Vanilla ar gyfer WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ategyn Fforwm Vanilla parod ar gyfer WordPress';
@@ -243,8 +236,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Maent yn gweithio yn union fel themâu rheolaidd. Ar ôl i un gael ei ychwanegu at y ffolder themâu, gallwch ei alluogi yma.';
 $Definition['This is a style guide of your theme.'] = 'Dyma ganllaw arddull o\'ch thema. Mae ganddo enghreifftiau o\'r elfennau gweledol a ddefnyddir trwy gydol y cymhwysiad. Gallwch glicio ar y teclynnau amrywiol fel y Bar Teitl <0> </0> neu <1> Baner </1> i olygu eu priodweddau yn y panel ochr.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Hwn yw dangosfwrdd gweinyddol eich cymuned newydd. Edrychwch ar y dewisiadau ffurfweddu ar yr ochr. Oddi yno gallwch ffurfweddu sut y mae eich cymuned yn gweithio. <b>Yn ddiofyn, gall dim ond defnyddwyr yn rôl "Gweinyddwr" sy\'n gallu gweld y rhan hon o\'ch cymuned.</b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Dyma lle gallwch chi alluogi a phrofi nodweddion, tudalennau a chydrannau Fanila newydd.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Ni all y labordy hwn fod yn anabl oherwydd ei fod yn ofynnol yn ôl y thema gyfredol.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Mae\'r opsiwn hwn yn dangos/cuddio y lleoliadau lle gall pocedi fynd, ond dim ond ar gyfer defnyddwyr sydd a hawliau i ychwanegu/golygu pocedi. Ceisiwch ddangos y lleoliadau ac yna ymweld a\'ch safle.';
 $Definition['This page lists the endpoints of your API.'] = 'Mae\'r dudalen hon yn rhestru pwyntiau terfyn eich API. Cliciwch endpoints i gael mwy o wybodaeth. Gallwch wneud galwadau byw i\'r API o\'r dudalen hon neu\'n allanol gan ddefnyddio tocyn mynediad.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Gwybodaeth bersonol yw\'r rôl hon. Dim ond defnyddwyr sydd â chaniatâd i weld gwybodaeth bersonol fydd yn ei gweld.';
@@ -258,16 +249,12 @@ $Definition['TouchIconDescription'] = 'Mae\'r eicon cyffwrdd yn ymddangos pan fy
 $Definition['Transparent'] = 'Tryloyw';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Mae Twitter Connect yn caniatáu i ddefnyddwyr lofnodi wrth ddefnyddio eu cyfrif Twitter. <b>Rhaid i chi gofrestru eich rhaglen gyda Twitter er mwyn i\'r ategyn hwn weithio.</b>';
 
-$Definition['Usercards'] = 'Cardiau defnyddiwr';
-$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Mae cardiau defnyddiwr yn caniatáu ichi gael cipolwg cyflym ar-lein o wybodaeth defnyddiwr. Wrth edrych ar bostiadau a byrddau arweinwyr, cliciwch ar yr enw defnyddiwr i weld cerdyn yn arddangos gwybodaeth proffil sylfaenol y defnyddiwr heb orfod llywio i ffwrdd o\'r dudalen. Galluogi\'r nodwedd hon i ychwanegu cardiau ymarfer at eich thema arferiad.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Mae mewnbynnau defnyddwyr yn seiliedig ar y cefndir byd-eang a lliwiau testun.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Gall defnyddwyr fewngofnodi i\'ch gwefan gan ddefnyddio eu cyfrif Twitter.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Defnyddiwch y botwm ar frig y dudalen i greu rheol gwahardd.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Defnyddiwch ategyn WordPress i sefydlu sylwadau Vanilla ar eich blog, neu defnyddiwch y Cod cyffredinol i sefydlu sylwadau Vanilla ar  unrhyw blatfform arall.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'Mae gwasanaeth chwilio newydd Vanilla yma o\'r diwedd. Galluogi UI ein tudalen chwilio newydd i gael mynediad at y nodweddion chwilio mwyaf newydd fel Chwilio Aelod, didoli chwilio ac amlygu termau.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Allforio Vanilla: %s, Ffynhonnell: %s';
-$Definition['Vanilla Labs'] = 'Labeli Fanila';
 $Definition['Vanilla Statistics are currently disabled'] = 'Ystadegau Vanilla heb eu galluogi ar hyn o bryd';
 $Definition['Verify and restore'] = 'Gwirio ac adfer';
 $Definition['Video tutorial on advanced settings'] = 'Fideo Tiwtorial ar osodiadau uwch';
@@ -280,7 +267,6 @@ $Definition['Video tutorial on user registration'] = 'Tiwtorialau fideo ar gofre
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Rhybudd: Gall galluogi\'r nodwedd hon achosi gwallau Javascript ar eich gwefan.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Rhybudd</b> : Nid yw cyfluniad eich gweinydd yn cefnogi llwytho data yn gyflym. Os ydych chi\'n mewnforio ffeil fawr iawn (cyn. 200,000 o sylwadau) efallai yr hoffech chi ystyried newid eich cyfluniad. Cliciwch <a href="http://vanillaforums.com/porter">yma</a> i gael mwy o wybodaeth.';
 $Definition['Warning: This is for advanced users.'] = '<b>Rhybudd</b>: Mae hyn ar gyfer defnyddwyr profiadol ac yn gofyn am wneud newidiadau ychwanegol i weinydd eich gwefan. Fel arfer mae angen gwesteio neilltuedig neu vps ar gyfer hyn. Peidiwch ceisio gwneud hyn os nad ydych yn gwybod beth rydych yn ei wneud.';
-$Definition['Welcome to Labs!'] = 'Croeso i Labs!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Croeso i UI thematig Vanilla. Mae\'r dudalen hon yn rhestru\'ch holl themâu sydd ar gael, ac yn caniatáu ichi eu copïo neu eu golygu.';
 $Definition['Welcome To Your Theme'] = 'Croeso i\'ch Thema';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Rydym yn argymell ymatebion cadarnhaol ar y cyfan i annog cyfranogiad.';

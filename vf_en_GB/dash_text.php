@@ -5,12 +5,8 @@ $Definition['About.VanillaStatistics'] = 'It is vitally important to the life of
 $Definition['AboutCommentEmbedding'] = 'Vanilla can be used as a drop-in replacement for your blog\'s native commenting system. As a matter of fact, it can be used to add comments to any page on the web.';
 $Definition['AboutEmbedding'] = 'Embedding allows all or part of your community to be embedded into other applications & web pages.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
-$Definition['AddressBarColorDescription'] = 'Some browsers support a colour for the address bar. Mobile only.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 
-$Definition['Brand Color'] = 'Brand Colour';
-
-$Definition['Color Overlay'] = 'Colour Overlay';
 $Definition['Create a localization CSV'] = 'Create a localisation CSV';
 
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organise their discussions in a way that is meaningful for your community.';
@@ -24,5 +20,3 @@ $Definition['Messages can appear anywhere in your application.'] = 'Messages can
 
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialised column "%s" failed to be unserialized.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Spruce up your emails by adding a logo and customizing the colours.';
-
-$Definition['User inputs are based on the global background and text colors.'] = 'User inputs are based on the global background and text colours.';
