@@ -51,7 +51,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pilih t
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Pilih cara menangani semua kandungan yang berkaitan dengan akaun pengguna untuk %s (komen, mesej, dll).';
 $Definition['Choose Image'] = 'Pilih Imej';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Anda boleh memilih algoritma hash khusus untuk menandatangani permintaan anda. Algoritma hash juga mesti digunakan di perpustakaan pelanggan anda. Pilih md5 jika anda tidak pasti apa yang harus dipilih.';
-$Definition['Choose the order items are sorted.'] = 'Pilih item pesanan yang disusun.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Pilih susun atur pilihan untuk senarai kategori.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Pilih susun atur pilihan untuk senarai perbincangan.';
 $Definition['Color Overlay'] = 'Hamparan Warna';
@@ -76,7 +75,6 @@ $Definition['EditContentTimeout.Notes'] = 'Sekiranya pengguna mempunyai peranan 
 $Definition['Edit Route'] = 'Edit Laluan';
 $Definition['Edits to this theme apply to:'] = 'Pengeditan pada tema ini berlaku untuk:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Benamkan forum komuniti anda ke laman web anda untuk meningkatkan penglibatan ...';
-$Definition['Enable and test out the latest Vanilla features.'] = 'Aktifkan dan uji ciri Vanilla terkini.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Membolehkan penyuntingan catatan lanjutan dalam beberapa format, termasuk WYSIWYG, HTML ringkas, Markdown, dan BBCode.';
 $Definition['Enter a descriptive name.'] = 'Masukkan nama deskriptif untuk poket. Nama ini tidak akan muncul di mana sahaja kecuali ketika menguruskan poket anda di sini sehingga hanya digunakan untuk membantu anda mengingat poket.';
 $Definition['Enter a short name for the site.'] = 'Masukkan nama pendek untuk laman web ini. Ini dipaparkan pada butang log masuk.';
@@ -121,7 +119,6 @@ $Definition['If you want to embed your forum, enable embedding.'] = 'Sekiranya a
 $Definition['Image (Mobile)'] = 'Imej (Mudah Alih)';
 $Definition['Importing to Vanilla'] = 'Mengimport ke Vanilla';
 $Definition['In additon to the widgets there are also'] = 'Di samping widget terdapat juga <0> Gaya Global </0> . Untuk mengedit gaya global klik di tempat lain di halaman, seperti teks ini.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Mengintegrasikan Halaman & Komponen Asas ke Tema Anda';
 $Definition['Internationalization & Localization'] = 'Pengantarabangsaan & Penyetempatan';
 $Definition['Invalid URL'] = 'URL tidak sah';
 $Definition['Invitation email failed to send: %'] = 'Walaupun jemputan berjaya dibuat, e-mel gagal dihantar. Pelayan melaporkan ralat berikut: %s';
@@ -152,10 +149,7 @@ $Definition['MobileLogoDescription'] = 'Logo sepanduk bergerak muncul di bahagia
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Tema mudah alih membolehkan anda mengubah rupa dan nuansa laman web anda pada peranti yang lebih kecil.';
 
 $Definition['Need More Help?'] = 'Perlukan Lebih Banyak Bantuan?';
-$Definition['Need more help?'] = 'Perlukan lebih banyak pertolongan?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Kategori bersarang lebih dalam daripada kedalaman ini akan dimasukkan dalam senarai yang dipisahkan koma.';
-$Definition['New Quick Links'] = 'Pautan Pantas Baru';
-$Definition['New Search Page'] = 'Halaman Carian Baru';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Tidak mendapat apa yang anda harapkan semasa anda melihat tema anda?';
 $Definition['Notify me when people comment on my addons.'] = 'Beritahu saya apabila orang memberi komen mengenai addon saya.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Laman web memerlukan peranan dengan jenis lalai "tidak disahkan" untuk menggunakan pengesahan e-mel. Sila tambah satu untuk mengaktifkan tetapan ini.';
@@ -176,7 +170,6 @@ $Definition['Primary Button'] = 'Butang Utama';
 $Definition['Primary Buttons'] = 'Butang Utama';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Panduan Memulakan Pantas untuk Membuat Tema untuk Vanilla';
-$Definition['Quick Links is a default component on community pages.'] = 'Pautan Pantas adalah komponen lalai di laman komuniti. Dayakan komponen Pautan Pantas kami untuk menambah, mengedit atau menyembunyikan pautan dari menu ini menggunakan penyunting tema kami.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin Komen Vanilla Sedia untuk WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin Forum Vanila siap pakai untuk WordPress';
@@ -242,8 +235,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Mereka berfungsi seperti tema biasa. Setelah dimasukkan ke folder tema, anda boleh mengaktifkannya di sini.';
 $Definition['This is a style guide of your theme.'] = 'Ini adalah panduan gaya tema anda. Ia mempunyai contoh elemen visual yang digunakan sepanjang aplikasi. Anda boleh mengklik pelbagai widget seperti Bar Tajuk <0> </0> atau <1> Sepanduk </1> untuk mengedit sifat mereka di panel sisi.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Ini adalah papan pemuka pentadbiran untuk komuniti baru anda. Lihat pilihan konfigurasi di sebelah. Dari sana anda dapat mengkonfigurasi bagaimana komuniti anda berfungsi. <b>Secara lalai, hanya pengguna dalam peranan "Pentadbir" yang dapat melihat bahagian komuniti ini.</b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Di sinilah anda dapat mengaktifkan dan menguji ciri, halaman &amp; komponen Vanilla baru.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Makmal ini tidak dapat dilumpuhkan kerana diperlukan oleh tema semasa.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Pilihan ini menunjukkan / menyembunyikan lokasi di mana poket boleh pergi, tetapi hanya untuk pengguna yang mempunyai izin untuk menambah / mengedit poket. Cuba tunjukkan lokasi dan kemudian lawati laman web anda.';
 $Definition['This page lists the endpoints of your API.'] = 'Halaman ini menyenaraikan titik akhir API anda. Klik titik akhir untuk maklumat lebih lanjut. Anda boleh membuat panggilan langsung ke API dari halaman ini atau secara luaran menggunakan token akses.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Peranan ini adalah maklumat peribadi. Hanya pengguna yang mempunyai kebenaran untuk melihat maklumat peribadi yang akan melihatnya.';
@@ -257,16 +248,12 @@ $Definition['TouchIconDescription'] = 'Ikon sentuh muncul apabila anda menandai 
 $Definition['Transparent'] = 'Telus';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Sambungan Twitter membolehkan pengguna masuk menggunakan akaun Twitter mereka. <b>Anda mesti mendaftarkan aplikasi anda dengan Twitter agar plugin ini berfungsi.</b>';
 
-$Definition['Usercards'] = 'Kad Pengguna';
-$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Kad pengguna membolehkan anda mendapatkan gambaran ringkas sebaris maklumat pengguna. Semasa melihat catatan dan papan peringkat, klik pada nama pengguna untuk melihat kad yang menunjukkan maklumat asas pengguna tanpa perlu menavigasi dari halaman. Aktifkan ciri ini untuk menambahkan kad nama ke tema tersuai anda.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Input pengguna berdasarkan latar belakang global dan warna teks.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Pengguna boleh masuk ke laman web anda menggunakan akaun Twitter mereka.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Gunakan butang di bahagian atas halaman untuk membuat peraturan larangan.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Gunakan pemalam WordPress untuk menyiapkan Komen Vanilla di blog anda, atau gunakan kod universal untuk menyiapkan Komen Vanilla di platform lain.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'Perkhidmatan carian baru Vanilla akhirnya sampai di sini. Aktifkan UI halaman carian baru kami untuk mendapatkan akses ke ciri carian terbaru seperti Carian Anggota, menyusun carian dan menyoroti istilah.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Eksport Vanila: %s, Sumber: %s';
-$Definition['Vanilla Labs'] = 'Makmal Vanilla';
 $Definition['Vanilla Statistics are currently disabled'] = 'Statistik Vanilla pada masa ini dilumpuhkan';
 $Definition['Verify and restore'] = 'Sahkan dan pulihkan';
 $Definition['Video tutorial on advanced settings'] = 'Tutorial video mengenai tetapan lanjutan';
@@ -279,7 +266,6 @@ $Definition['Video tutorial on user registration'] = 'Tutorial video mengenai pe
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Amaran: Mengaktifkan fitur ini boleh menyebabkan kesalahan Javascript di laman web anda.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Amaran</b> : Konfigurasi pelayan anda tidak menyokong pemuatan data yang pantas. Sekiranya anda mengimport fail yang sangat besar (mis. Lebih dari 200,000 komen) anda mungkin ingin mempertimbangkan untuk mengubah konfigurasi anda. Klik <a href="http://vanillaforums.com/porter">di sini</a> untuk maklumat lebih lanjut.';
 $Definition['Warning: This is for advanced users.'] = '<b>Amaran</b> : Ini untuk pengguna lanjutan dan menghendaki anda membuat perubahan tambahan pada pelayan web anda. Ini biasanya hanya tersedia jika anda mempunyai hosting khusus atau vps. Jangan mencuba ini jika anda tidak tahu apa yang anda lakukan.';
-$Definition['Welcome to Labs!'] = 'Selamat Datang ke Makmal!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Selamat datang ke UI bertema Vanilla. Halaman ini menyenaraikan semua tema yang ada, dan membolehkan anda menyalin atau mengeditnya.';
 $Definition['Welcome To Your Theme'] = 'Selamat Datang ke Tema Anda';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Kami mengesyorkan reaksi positif untuk menggalakkan penyertaan.';
