@@ -44,6 +44,7 @@ $Definition['Choose how to handle all of the content associated with the user ac
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Anda dapat memilih hash algoritma yang disesuaikan untuk menandai permintaan anda. Hash algoritma harus digunakan juga pada library client anda. Pilih md5 bila anda tidak yakin apa yang dipilih.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Pilih tata letak yang disukai untuk daftar kategori.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Pilih tata letak yang disukai untuk daftar diskusi.';
+$Definition['Choose the order items are sorted.'] = 'Pilih bagaimana sortir item pesanan.';
 $Definition['Continue Import'] = 'Lanjutkan Impor';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Tidak dapat mengurai file yang diimpor. Masalahnya ada di sekitar baris %s.';
 $Definition['Create a localization CSV'] = 'Buat sebuah CSV lokalisasi';

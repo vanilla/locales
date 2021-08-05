@@ -44,6 +44,7 @@ $Definition['Choose how to handle all of the content associated with the user ac
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'İsteklerinizi imzalamak için özel bir karma algoritma seçebilirsiniz. Karma algoritması, istemci kitaplığınızda da kullanılmalıdır. Ne seçeceğinizden emin değilseniz md5\'i seçin.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Kategori listeleri için tercih edilen düzeni seçin.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Tartışma listeleri için tercih edilen düzeni seçin.';
+$Definition['Choose the order items are sorted.'] = 'Öğelerin sıralanacağı sırayı seçin.';
 $Definition['Continue Import'] = 'İçe Aktarmaya Devam';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Alınan dosyada hata. %s satırını kontrol edin';
 $Definition['Create a localization CSV'] = 'Dil CSV dosyası oluştur';
@@ -335,3 +336,20 @@ $Definition["Left Aligned"] = "Sola Hizala";
 $Definition["Center Aligned"] = "Ortaya Hizala";
 $Definition["Image (Mobile)"] = "Görsel (Mobil)";
 $Definition["Alignment (Mobile)"] = "Hizalama (Mobil)";
+
+// Vanilla Labs
+$Definition['Vanilla Labs'] = 'Vanilya Laboratuvarları';
+$Definition['Enable and test out the latest Vanilla features.'] = 'En son Vanilla özelliklerini etkinleştirin ve test edin.';
+$Definition['Welcome to Labs!'] = 'Laboratuvara hoş geldiniz!';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Yeni Vanilla özelliklerini, sayfalarını ve bileşenlerini etkinleştirip test edebileceğiniz yer burasıdır.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Bu laboratuvar, geçerli tema tarafından gerekli olduğu için devre dışı bırakılamaz.';
+$Definition['Need more help?'] = 'Daha fazla yardıma mı ihtiyacınız var?';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Temel Sayfaları ve Bileşenleri Temanıza Entegre Edin';
+$Definition['Enable and test out the latest Vanilla features.'] = 'En son Vanilla özelliklerini etkinleştirin ve test edin.';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'N.B. <0/> Laboratuvarın özel temanıza uyacak şekilde yapılandırılması gerekir. Bu, yeni tema düzenleyicimiz kullanılarak yapılabilir. <1>Daha fazla bilgi edin.</1>';
+$Definition['Usercards'] = 'Kullanıcı kartı';
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Kullanıcı kartları, bir kullanıcının bilgilerinin hızlı bir şekilde anlık görüntüsünü almanızı sağlar. Gönderileri ve skor tablolarını görüntülerken, sayfadan ayrılmak zorunda kalmadan kullanıcıların temel profil bilgilerini gösteren bir kart görmek için kullanıcı adına tıklayın. Özel temanıza kullanıcı kartları eklemek için bu özelliği etkinleştirin.";
+$Definition['New Search Page'] = 'Yeni Arama Sayfası';
+$Definition["Vanilla's new search service is finally here."] = "Vanilla'nın yeni arama hizmeti sonunda burada. Üye Arama, arama sıralama ve terim vurgulama gibi en yeni arama özelliklerine erişmek için yeni arama sayfası kullanıcı arayüzünü etkinleştirin.";
+$Definition['New Quick Links'] = 'Yeni Hızlı Bağlantılar';
+$Definition['Quick Links is a default component on community pages.'] = "Hızlı Bağlantılar, topluluk sayfalarında varsayılan bir bileşendir. Tema düzenleyicimizi kullanarak bu menüden bağlantı eklemek, düzenlemek veya gizlemek için yeni Hızlı Bağlantılar bileşenimizi etkinleştirin.";
