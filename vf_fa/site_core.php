@@ -132,6 +132,7 @@ $Definition['1 message'] = '1 پيام';
 $Definition['<0/>-<1/> of <2/>'] = '<0 /> - <1 /> از <2 />';
 $Definition['<0/> - Events'] = '<0/> - رویدادها';
 $Definition['<0/> by <1/>'] = '<0/> توسط <1/>';
+$Definition['<0/> comments'] = '&lt;0/&gt; نظر';
 $Definition['<0/> message'] = 'پیام <0/>';
 $Definition['<0/> messages'] = 'پیام <0/>';
 $Definition['<0>Privacy Policy</0> and '] = '<0> خط مشی رازداری </0> و <1> شرایط خدمات </1>';
