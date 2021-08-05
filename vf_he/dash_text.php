@@ -53,7 +53,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'בחר 
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'בחר כיצד לנהל את כל התוכן המשוייך לחשבון המשתמש של %s (הערות, הודעות וכו\')';
 $Definition['Choose Image'] = 'בחר תמונה';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'באפשרותך לבחור אלגוריתם האש מותאם אישית כדי לרשום את הבקשות שלך. אלגוריתם האש מוכרח להיות בשימוש בספריית הלקוח שלך. בחר md5 to thbl cyuj cnv kcjur/';
-$Definition['Choose the order items are sorted.'] = 'בחר את פריטי ההזמנה ממוינים.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'בחר בפריסה המועדפת על רשימות קטגוריות.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'בחר במערך המועדף לרשימות דיונים.';
 $Definition['Color Overlay'] = 'כיסוי צבע';
@@ -78,7 +77,6 @@ $Definition['EditContentTimeout.Notes'] = 'אם למשתמש יש הרשאות �
 $Definition['Edit Route'] = 'ערוך מסלול';
 $Definition['Edits to this theme apply to:'] = 'עריכות בנושא זה חלות על:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'הטעמת פורום הקהילה שלך לתוך האתר על מנת להגביר את מעורבות המשתמשים...';
-$Definition['Enable and test out the latest Vanilla features.'] = 'הפעל ובדוק את תכונות הווניל העדכניות ביותר.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'מאפשר עריכה מתקדמת של פוסטים בכמה פורמטים, כולל WYSIWYG, HTML פשוט, Markdown ו- BBCode.';
 $Definition['Enter a descriptive name.'] = 'הכנס שם תיאורי עבור הכיס. השם לא יוצג באף מקום חוץ מאשר כאשר תנהל את הכיסים שלך כאן אז זה משמש רק כדי לעזור לך לזכור את הכיס.';
 $Definition['Enter a short name for the site.'] = 'הכנס שם קצר לאתר. זה מוצג על כפתורי ההתחברות.';
@@ -125,7 +123,6 @@ $Definition['Image (Mobile)'] = 'תמונה (נייד)';
 $Definition['Import'] = 'יבא';
 $Definition['Importing to Vanilla'] = 'מייבא לתוך Vanilla';
 $Definition['In additon to the widgets there are also'] = 'בנוסף לווידג\'טים ישנם גם <0> סגנונות גלובליים </0> . כדי לערוך סגנונות גלובליים לחץ על מקום אחר בדף, כגון טקסט זה.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'שילוב של דפי קרן ורכיבים בנושא שלך';
 $Definition['Internationalization & Localization'] = 'בינאום ולוקליזציה ';
 $Definition['Invalid URL'] = 'כתובת אתר לא חוקית';
 $Definition['Invitation email failed to send: %'] = 'למרות שההזמנה נוצרה בהצלחה, הדוא"ל לא הצליח לשלוח. השרת דיווח על השגיאה הבאה: %s';
@@ -156,10 +153,7 @@ $Definition['MobileLogoDescription'] = 'לוגו הבאנר הנייד מופי�
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'ערכות נושא לנייד מאפשרות לך לשנות את המראה והתחושה של האתר שלך במכשירים קטנים יותר.';
 
 $Definition['Need More Help?'] = 'צריכים עזרה?';
-$Definition['Need more help?'] = 'צריך עוד עזרה?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'קטגוריות מקוננות עמוקות יותר מעומק זה יוצבו ברשימה המוגדרת בפסיקים.';
-$Definition['New Quick Links'] = 'קישורים מהירים חדשים';
-$Definition['New Search Page'] = 'דף חיפוש חדש';
 $Definition['Not getting what you expect when you preview your theme?'] = 'לא משיגים את מה שאתה מצפה כשאתה מקדימה את הנושא שלך?';
 $Definition['Notify me when people comment on my addons.'] = 'תודיע לי כשמשתמשים מגיבים על התוספים שלי.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'האתר צריך תפקיד עם סוג ברירת המחדל "לא מאושר" להשתמש אישור דוא"ל. הוסף אחד כדי לאפשר הגדרה זו.';
@@ -180,7 +174,6 @@ $Definition['Primary Button'] = 'כפתור ראשי';
 $Definition['Primary Buttons'] = 'כפתורים ראשיים';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'מדריך מהיר ליצירה של ערכות נושא ל-Vanilla';
-$Definition['Quick Links is a default component on community pages.'] = 'קישורים מהירים הוא רכיב ברירת מחדל בדפי קהילה. אפשר את רכיב הקישורים המהירים החדש שלנו כדי להוסיף, לערוך או להסתיר קישורים מתפריט זה באמצעות עורך הנושאים שלנו.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'תוסף הערות Vanilla שכבר מוכן ל-WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'תוסף פורום Vanilla שכבר מוכן ל-WordPress';
@@ -248,8 +241,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'הם עובדים בדיוק כמו נושאים רגילים. לאחר שנוספה אחת לתיקיית הנושאים, תוכל להפעיל אותה כאן.';
 $Definition['This is a style guide of your theme.'] = 'זהו מדריך לסגנון של הנושא שלך. יש לו דוגמאות לאלמנטים הויזואליים המשמשים בכל היישום. אתה יכול ללחוץ על יישומונים שונים כגון <0> סרגל הכותרות </0> או <1> באנר </1> כדי לערוך את המאפיינים שלהם בלוח הצדדי.';
 $Definition['This is the administrative dashboard for your new community.'] = 'זהו לוח ניהול אדמינסטריבי עבור הקהילה החדשה שלך. בדוק את אפשרויות התצורה בצד. משם באפשרותך להגדיר איך הקהילה שלך עובדת. <b>כברירת מחדל, רק משתמשי במעמד "אדמין" יכולים לראות את החל הזה של הקהילה.</b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'כאן תוכל להפעיל ולבדוק תכונות, דפים ורכיבים חדשים של וניל.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'לא ניתן לבטל מעבדה זו מכיוון שהיא נדרשת על ידי העיצוב הנוכחי.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'האפשרות הזאת מראה/מחביאה את המיקומים בהם כיסים יכולים ללכת, אבל רק למשתמשים עם ההרשאה להוסיף/לערוך כיסים. נסה להראות את המיקומים ואז בקר באתר שלך.';
 $Definition['This page lists the endpoints of your API.'] = 'דף זה מציג את נקודות הקצה של ה- API שלך. לחץ על נקודות קצה לקבלת מידע נוסף. אתה יכול לבצע שיחות חיות לממשק ה- API מדף זה או חיצונית באמצעות אסימון גישה.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'תפקיד זה הוא מידע אישי. רק משתמשים עם הרשאה להציג מידע אישי יראו אותו.';
@@ -263,16 +254,12 @@ $Definition['TouchIconDescription'] = 'סמל המגע מופיע כשאתה מ�
 $Definition['Transparent'] = 'שָׁקוּף';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'התחברות באמצעות טוויטר מאפשרת למשתמשם להכנס באמצעות שימוש בחשבונות הטוויטר שלהם. <b> חובה בהרשאות של היישום שלך עם טוויטר על מנת שהתוסף הזה יעבוד.</b>';
 
-$Definition['Usercards'] = 'כרטיסי משתמש';
-$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'כרטיסי משתמש מאפשרים לך לקבל תמונת מצב מהירה של פרטי המשתמש. בעת צפייה בפוסטים ובלוחות הבקרה, לחץ על שם המשתמש כדי לראות כרטיס המציג למשתמשים את פרטי הפרופיל הבסיסיים מבלי להתרחק מהדף. אפשר תכונה זו כדי להוסיף כרטיסי משתמש לעיצוב המותאם אישית שלך.';
 $Definition['User inputs are based on the global background and text colors.'] = 'תשומות המשתמשים מבוססות על צבעי הרקע והטקסט העולמיים.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'משתמשים עשויים להיכנס לאתר שלך באמצעות חשבון הטוויטר שלהם.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'השתמש בלחצן בראש הדף כדי ליצור כלל איסור.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'השתמש בתוסף WordPress כדי להתקין את ונילה תגובות בבלוג שלך, או השתמש בקוד האוניברסלי כדי להתקין את ונילה תגובות על כל פלטפורמה אחרת.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'שירות החיפוש החדש של וניל סוף סוף כאן. הפעל את ממשק המשתמש של דף החיפוש החדש שלנו כדי לקבל גישה לתכונות החיפוש החדשות ביותר כגון חיפוש חברים, מיון חיפושים והדגשת מונחים.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'ונילה ייצוא: %s, מקור: %s';
-$Definition['Vanilla Labs'] = 'מעבדות וניל';
 $Definition['Vanilla Statistics are currently disabled'] = 'הסטטיסטיקות של ונילה לא מופעלות';
 $Definition['Verify and restore'] = 'אמת ושחזר';
 $Definition['Video tutorial on advanced settings'] = 'מדריך וידאו על האפשרויות המתקדמות';
@@ -285,7 +272,6 @@ $Definition['Video tutorial on user registration'] = 'מדריך וידאו על
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'אזהרה: הפעלת תכונה זו עלולה לגרום לשגיאות Javascript באתר שלך.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>אזהרה</b> : תצורת השרת שלך אינה תומכת בטעינת נתונים מהירה. אם אתה מייבא קובץ גדול מאוד (למשל מעל 200,000 תגובות), אולי כדאי לך לשקול לשנות את התצורה שלך. לחץ <a href="http://vanillaforums.com/porter">כאן</a> למידע נוסף.';
 $Definition['Warning: This is for advanced users.'] = '<b>אזהרה</b>: זה למשתמשים מתקדמים ודרוש שתעשה שינויים נוסיף לשרת האינטרנט שלך. זה בדרך כלל זמין רק אם אתה מסור או vps hosting. אל תנסה את זה אם אתה לא יודע מה אתה עושה.';
-$Definition['Welcome to Labs!'] = 'ברוכים הבאים למעבדות!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'ברוך הבא לממשק המשתמש הנושא של ונילה. דף זה מפרט את כל הנושאים הזמינים שלך ומאפשר לך להעתיק או לערוך אותם.';
 $Definition['Welcome To Your Theme'] = 'ברוך הבא לנושא שלך';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'אנו ממליצים בעיקר על תגובות חיוביות כדי לעודד השתתפות.';

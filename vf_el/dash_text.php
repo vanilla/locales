@@ -52,7 +52,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Επι�
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Επιλέξτε πως θα γίνει ο χειρισμός όλων των περιεχομένων που σχετίζονται με το λογαριασμό χρήστη για τον %s (σχόλια, μηνύματα, κ.λ.π.).';
 $Definition['Choose Image'] = 'Επιλέξτε Εικόνα';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Μπορείτε να επιλέξετε έναν προσαρμοσμένο αλγόριθμο για να υπογράψετε τα αιτήματά σας. Ο αλγόριθμος πρέπει επίσης να χρησιμοποιείται στη βιβλιοθήκη του προγράμματος-πελάτη. Εάν δεν είστε σίγουροι ποιο να επιλέξετε, επιλέξτε md5.';
-$Definition['Choose the order items are sorted.'] = 'Επιλέξτε τα στοιχεία της παραγγελίας είναι ταξινομημένα.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Επιλέξτε την προτιμώμενη διάταξη για λίστες κατηγοριών.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Επιλέξτε την προτιμώμενη διάταξη για λίστες συζητήσεων.';
 $Definition['Color Overlay'] = 'Επικάλυψη χρώματος';
@@ -77,7 +76,6 @@ $Definition['EditContentTimeout.Notes'] = 'Αν ένας χρήστης έχει
 $Definition['Edit Route'] = 'Επεξεργασία Δρομολόγησης';
 $Definition['Edits to this theme apply to:'] = 'Οι τροποποιήσεις σε αυτό το θέμα ισχύουν για:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Ενσωματώστε την κοινότητα του φόρουμ στην ιστοσελίδα σας για να αυξήσετε τη συμμετοχή...';
-$Definition['Enable and test out the latest Vanilla features.'] = 'Ενεργοποιήστε και δοκιμάστε τις πιο πρόσφατες δυνατότητες της Βανίλιας.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Επιτρέπει τη σύνθετη επεξεργασία των αναρτήσεων σε διάφορες μορφές, συμπεριλαμβανομένων των WYSIWYG, απλού HTML, Markdown και BBCode.';
 $Definition['Enter a descriptive name.'] = 'Δώστε ένα περιγραφικό όνομα για την τσέπη. Το όνομα αυτό δε θα εμφανίζεται κάπου, εκτός από τη διαχείριση των τσεπών σας, οπότε υπάρχει μόνο για να σας βοηθά να θυμάστε την τσέπη.';
 $Definition['Enter a short name for the site.'] = 'Δώστε ένα σύντομο όνομα για το χώρο. Θα εμφανίζεται στα πλήκτρα σύνδεσης.';
@@ -123,7 +121,6 @@ $Definition['Image (Mobile)'] = 'Εικόνα (Κινητό)';
 $Definition['Import'] = 'Εισαγωγή';
 $Definition['Importing to Vanilla'] = 'Εισαγωγή στο Vanilla';
 $Definition['In additon to the widgets there are also'] = 'Εκτός από τα widget υπάρχουν επίσης <0> Καθολικά στυλ </0> . Για να επεξεργαστείτε καθολικά στυλ, κάντε κλικ οπουδήποτε αλλού στη σελίδα, όπως αυτό το κείμενο.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Ενσωματώστε τις σελίδες και τα συστατικά του ιδρύματος στο θέμα σας';
 $Definition['Internationalization & Localization'] = 'Διεθνής και Τοπική Προσαρμογή';
 $Definition['Invalid URL'] = 'Μη έγκυρη διεύθυνση URL';
 $Definition['Invitation email failed to send: %'] = 'Παρόλο που η πρόσκληση δημιουργήθηκε με επιτυχία, το μήνυμα ηλεκτρονικού ταχυδρομείου απέτυχε. Ο διακομιστής ανέφερε το ακόλουθο σφάλμα: %s';
@@ -154,10 +151,7 @@ $Definition['MobileLogoDescription'] = 'Το λογότυπο banner για κι
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Τα θέματα για κινητά σάς επιτρέπουν να αλλάξετε την εμφάνιση και την αίσθηση του ιστότοπού σας σε μικρότερες συσκευές.';
 
 $Definition['Need More Help?'] = 'Χρειάζεστε κι άλλη βοήθεια;';
-$Definition['Need more help?'] = 'Χρειάζεστε περισσότερη βοήθεια;';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Οι ένθετες κατηγορίες σε βάθος από αυτό το βάθος θα τοποθετηθούν σε μια λίστα οριοθετημένη με κόμματα.';
-$Definition['New Quick Links'] = 'Νέοι γρήγοροι σύνδεσμοι';
-$Definition['New Search Page'] = 'Νέα σελίδα αναζήτησης';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Δεν λαμβάνετε αυτό που περιμένετε κατά την προεπισκόπηση του θέματος;';
 $Definition['Notify me when people comment on my addons.'] = 'Ειδοποίησέ με όταν οι άλλοι σχολιάζουν τα πρόσθετά μου.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Ο ιστότοπος χρειάζεται ένα ρόλο με προεπιλεγμένο τύπο "unconfirmed" για να χρησιμοποιήσει την επιβεβαίωση μέσω ηλεκτρονικού ταχυδρομείου. Προσθέστε ένα για να ενεργοποιήσετε αυτή τη ρύθμιση.';
@@ -177,7 +171,6 @@ $Definition['Primary Button'] = 'Κύριο κουμπί';
 $Definition['Primary Buttons'] = 'Κύρια κουμπιά';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Οδηγός Γρήγορης Εκκίνησης για τη Δημιουργία Θεμάτων για το Vanilla';
-$Definition['Quick Links is a default component on community pages.'] = 'Οι Γρήγοροι σύνδεσμοι είναι ένα προεπιλεγμένο στοιχείο στις σελίδες κοινότητας. Ενεργοποιήστε το νέο στοιχείο Quick Links για προσθήκη, επεξεργασία ή απόκρυψη συνδέσμων από αυτό το μενού χρησιμοποιώντας τον επεξεργαστή θέματος.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Έτοιμη Προσθήκη Σχολίων Vanilla για το WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Έτοιμο Plugin Φόρουμ Vanilla για το WordPress';
@@ -243,8 +236,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Λειτουργούν όπως τα κανονικά θέματα. Μόλις προστεθεί ένας στον φάκελο θεμάτων, μπορείτε να τον ενεργοποιήσετε εδώ.';
 $Definition['This is a style guide of your theme.'] = 'Αυτός είναι ένας οδηγός στυλ για το θέμα σας. Έχει παραδείγματα των οπτικών στοιχείων που χρησιμοποιούνται σε όλη την εφαρμογή. Μπορείτε να κάνετε κλικ στα διάφορα widget όπως η <0>Γραμμή Τίτλων</0> ή <1>Banner</1> για να επεξεργαστείτε τις ιδιότητές τους στο πλαϊνό πλαίσιο.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Αυτός είναι ο διοικητικός πίνακας ελέγχου για τη νέα σου κοινότητα. Ελέγξτε τις επιλογές παραμετροποίησης στο πλάι. Από εκεί μπορείτε να παραμετροποιήσετε τον τρόπο που λειτουργεί η κοινότητά σας. <b> Από προεπιλογή, μόνο χρήστες με το ρόλο "Διαχειριστής" μπορούν να δουν αυτό το τμήμα της κοινότητάς σας.</b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Εδώ μπορείτε να ενεργοποιήσετε και να δοκιμάσετε νέες δυνατότητες, σελίδες και στοιχεία Vanilla.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Αυτό το εργαστήριο δεν μπορεί να απενεργοποιηθεί επειδή απαιτείται από το τρέχον θέμα.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Αυτή η επιλογή εμφανίζει/κρύβει τις θέσεις που μπορούν να πάνε οι θύλακες, αλλά μόνο για τους χρήστες που έχουν άδεια να προσθέτουν/επεξεργάζονται θύλακες. Δοκιμάστε να εμφανίσετε τις θέσεις και στη συνέχεια επισκεφθείτε την ιστοσελίδα σας.';
 $Definition['This page lists the endpoints of your API.'] = 'Σε αυτήν τη σελίδα παρατίθενται τα τελικά σημεία του API σας. Κάντε κλικ στα τελικά σημεία για περισσότερες πληροφορίες. Μπορείτε να πραγματοποιήσετε ζωντανές κλήσεις στο API από αυτήν τη σελίδα ή εξωτερικά χρησιμοποιώντας ένα διακριτικό πρόσβασης.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Αυτός ο ρόλος είναι προσωπικές πληροφορίες. Μόνο οι χρήστες με άδεια να βλέπουν προσωπικά στοιχεία θα το βλέπουν.';
@@ -258,16 +249,12 @@ $Definition['TouchIconDescription'] = 'Το εικονίδιο αφής εμφα
 $Definition['Transparent'] = 'Διαφανής';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Το Περιεχόμενο του Twitter επιτρέπει στους χρήστες να συνδεθούν χρησιμοποιώντας το λογαριασμό τους στο Twitter. <b>Πρέπει να καταχωρήσετε την εφαρμογή σας με το Twitter για  να λειτουργήσει το plugin.</b>';
 
-$Definition['Usercards'] = 'Κάρτες χρήστη';
-$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Οι κάρτες χρήστη σάς επιτρέπουν να λάβετε ένα γρήγορο στιγμιότυπο σε απευθείας σύνδεση με τις πληροφορίες ενός χρήστη. Κατά την προβολή αναρτήσεων και βαθμολογιών, κάντε κλικ στο όνομα χρήστη για να δείτε μια κάρτα που εμφανίζει τις βασικές πληροφορίες προφίλ των χρηστών χωρίς να χρειάζεται να απομακρυνθείτε από τη σελίδα. Ενεργοποιήστε αυτήν τη δυνατότητα για να προσθέσετε κάρτες χρηστών στο προσαρμοσμένο θέμα σας.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Οι είσοδοι των χρηστών βασίζονται στο παγκόσμιο φόντο και στα χρώματα κειμένου.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Οι χρήστες μπορούν να συνδεθούν στον ιστότοπό σας χρησιμοποιώντας τον λογαριασμό τους στο Twitter.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Χρησιμοποιήστε το κουμπί στο επάνω μέρος της σελίδας για να δημιουργήσετε έναν κανόνα απαγόρευσης.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Χρησιμοποιήστε το πρόσθετο WordPress για να δημιουργήσετε Σχόλια Vanilla στο μπλογκ σας ή χρησιμοποιήστε τον ενιαίο κώδικα για να δημιουργήσετε Σχόλια Vanilla σε οποιαδήποτε άλλη πλατφόρμα.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'Η νέα υπηρεσία αναζήτησης της Βανίλιας είναι επιτέλους εδώ. Ενεργοποιήστε τη νέα διεπαφή χρήστη της σελίδας αναζήτησης για να αποκτήσετε πρόσβαση στις πιο πρόσφατες λειτουργίες αναζήτησης, όπως Αναζήτηση μελών, ταξινόμηση αναζήτησης και επισήμανση όρων.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Εξαγωγή Vanilla: %s, Προέλευση: %s';
-$Definition['Vanilla Labs'] = 'Εργαστήρια Βανίλιας';
 $Definition['Vanilla Statistics are currently disabled'] = 'Τα Στατιστικά Vanilla είναι προς το παρόν απενεργοποιημένα';
 $Definition['Verify and restore'] = 'Επαλήθευση και επαναφορά';
 $Definition['Video tutorial on advanced settings'] = 'Βίντεο εκμάθησης σχετικά με τις ρυθμίσεις για προχωρημένους';
@@ -280,7 +267,6 @@ $Definition['Video tutorial on user registration'] = 'Βίντεο εκμάθη�
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Προειδοποίηση: Η ενεργοποίηση αυτής της δυνατότητας ενδέχεται να προκαλέσει σφάλματα Javascript στον ιστότοπό σας.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Προειδοποίηση</b> : Η διαμόρφωση του διακομιστή σας δεν υποστηρίζει γρήγορη φόρτωση δεδομένων. Εάν εισάγετε ένα πολύ μεγάλο αρχείο (π.χ. πάνω από 200.000 σχόλια), ίσως θέλετε να εξετάσετε το ενδεχόμενο αλλαγής της διαμόρφωσής σας. Κάντε κλικ <a href="http://vanillaforums.com/porter">εδώ</a> για περισσότερες πληροφορίες.';
 $Definition['Warning: This is for advanced users.'] = '<b>Προειδοποίηση</b>: Αυτό είναι για προχωρημένους χρήστες και απαιτεί να κάνετε πρόσθετες αλλαγές στο διακομιστή web σας. Αυτό είναι συνήθως διαθέσιμο μόνο αν έχετε αποκλειστική ή vps φιλοξενία. Μην το επιχειρήσετε αν δεν ξέρετε τι κάνετε.';
-$Definition['Welcome to Labs!'] = 'Καλώς ήλθατε στα εργαστήρια!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Καλώς ήλθατε στο θεματικό περιβάλλον εργασίας της Vanilla. Αυτή η σελίδα απαριθμεί όλα τα διαθέσιμα θέματα και σας επιτρέπει να τα αντιγράψετε ή να τα επεξεργαστείτε.';
 $Definition['Welcome To Your Theme'] = 'Καλώς ήλθατε στο θέμα σας';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Συνιστούμε κυρίως θετικές αντιδράσεις για να ενθαρρύνετε τη συμμετοχή.';

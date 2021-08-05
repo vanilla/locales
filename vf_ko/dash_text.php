@@ -52,7 +52,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = '이 하
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '%s (코멘트, 메시지 등)을(를) 위한 사용자 계정과 관련된 모든 콘텐츠를 다루는 방법을 선택하세요.';
 $Definition['Choose Image'] = '이미지를 선택하십시오';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = '사용자 지정 해시 알고리즘을 선택하여 요청을 알릴 수 있습니다. 해시 알고리즘도 반드시 클라이언트 라이브러리에서 사용해야 합니다. 무엇을 선택해야 할지 모르는 경우 md5를 선택하세요.';
-$Definition['Choose the order items are sorted.'] = '정렬된 주문 항목을 선택합니다.';
 $Definition['Choose the preferred layout for lists of categories.'] = '범주 목록에 대한 기본 레이아웃을 선택하십시오.';
 $Definition['Choose the preferred layout for lists of discussions.'] = '토론 목록에 대한 기본 레이아웃을 선택하십시오.';
 $Definition['Color Overlay'] = '컬러 오버레이';
@@ -78,7 +77,6 @@ $Definition['EditContentTimeout.Notes'] = '참고 : 내용을 수정할 수있�
 $Definition['Edit Route'] = '루트 편집 ';
 $Definition['Edits to this theme apply to:'] = '이 테마에 대한 편집 내용은 다음에 적용됩니다.';
 $Definition['Embed your community forum into your website to increase engagement...'] = '참여를 늘리려면 커뮤니티 포럼을 웹사이트에 끼워 넣으세요...';
-$Definition['Enable and test out the latest Vanilla features.'] = '최신 바닐라 기능을 활성화하고 테스트하십시오.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'WYSIWYG, 간단한 HTML, Markdown 및 BBCode를 포함한 여러 형식으로 게시물을 고급 편집 할 수 있습니다.';
 $Definition['Enter a descriptive name.'] = '포켓에 대한 설명이 포함된 이름을 입력하세요. 이 이름은 여기에서 포켓을 관리할 때를 제외하고는 그 어디에도 표시되지 않고 오직 포켓을 기억하도록 돕는데만 사용됩니다. ';
 $Definition['Enter a short name for the site.'] = '짧은 사이트명을 입력하세요. 로그인 버튼에 표시됩니다.';
@@ -137,7 +135,6 @@ $Definition['Image (Mobile)'] = '이미지 (모바일)';
 $Definition['Import'] = '임포트';
 $Definition['Importing to Vanilla'] = '바닐라로 가져오기';
 $Definition['In additon to the widgets there are also'] = '위젯에 추가하여 <0> 글로벌 스타일도 있습니다 </0> . 전역 스타일을 편집하려면이 텍스트와 같이 페이지의 다른 곳을 클릭하십시오.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = '테마에 기초 페이지 및 구성 요소 통합';
 $Definition['Internationalization & Localization'] = '국제화 및 현지화 ';
 $Definition['Invalid URL'] = '잘못된 URL';
 $Definition['Invitation email failed to send: %'] = '초대장이 작성되었지만 이메일을 보내지 못했습니다. 서버가 다음 오류를보고했습니다 : %s';
@@ -169,10 +166,7 @@ $Definition['Messages can appear anywhere in your application.'] = '메시지는
 $Definition['MobileLogoDescription'] = '모바일 배너 로고가 사이트 상단에 나타납니다.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = '모바일 테마를 사용하면 더 작은 기기에서 사이트의 모양과 느낌을 변경할 수 있습니다.';
 
-$Definition['Need more help?'] = '도움이 더 필요하세요?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = '이 깊이보다 깊은 중첩 범주는 쉼표로 구분 된 목록에 배치됩니다.';
-$Definition['New Quick Links'] = '새로운 빠른 링크';
-$Definition['New Search Page'] = '새 검색 페이지';
 $Definition['Not getting what you expect when you preview your theme?'] = '테마를 미리 볼 때 원하는 것을 얻지 못합니까?';
 $Definition['Notify me when people comment on my addons.'] = '내 애드온에 사람들이 코멘트을 남길 때 알려 주세요.';
 $Definition['No unconfirmed role available for email confirmation.'] = '사이트는 이메일 확인을 사용하기 위하여 기본 유형 "미확인" 역할이 필요합니다. 한 가지를 추가하여 이 설정을 사용하세요.';
@@ -193,7 +187,6 @@ $Definition['Primary Button'] = '기본 버튼';
 $Definition['Primary Buttons'] = '기본 버튼';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = '바닐라 테마 생성에 대한 빠른 시작 안내서';
-$Definition['Quick Links is a default component on community pages.'] = '빠른 링크는 커뮤니티 페이지의 기본 구성 요소입니다. 테마 편집기를 사용하여 이 메뉴에서 링크를 추가, 편집 또는 숨기려면 새로운 빠른 링크 구성 요소를 활성화하십시오.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = '이미 주어진 워드프레스용 바닐라 코멘트 플러그인';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = '이미 주어진 워드프레스용 바닐라 포럼 플러그인';
@@ -259,8 +252,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = '그들은 일반적인 테마처럼 작동합니다. 테마 폴더에 테마가 추가되면 여기에서 활성화 할 수 있습니다.';
 $Definition['This is a style guide of your theme.'] = '테마의 스타일 가이드입니다. 응용 프로그램 전체에서 사용되는 시각적 요소의 예가 있습니다. <0> 제목 표시 줄과 같은 다양한 위젯을 클릭 할 수 있습니다 </0> 또는 <1> 배너 </1> 측면 패널에서 속성을 편집합니다.';
 $Definition['This is the administrative dashboard for your new community.'] = '이것은 새로운 커뮤니티를 위한 관리용 대시보드입니다. 측면의 환경 설정 옵션을 확인해 주세요. 거기에서 커뮤니티 작동 방법을 설정할 수 있습니다. <b>기본적으로 "관리자" 역할을 하는 사용자만 커뮤니티의 이 부분을 볼 수 있습니다.</b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = '여기에서 새로운 바닐라 기능, 페이지 및 구성 요소를 활성화하고 테스트할 수 있습니다.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = '이 실습은 현재 테마에 필요하므로 비활성화할 수 없습니다.';
 $Definition['This option shows/hides the locations where pockets can go.'] = '이 옵션은 포켓이 갈 수 있는 위치를 보여주거나 숨기지만 오직 사용자만 포켓 추가 혹은 편집 권한을 갖습니다. 위치를 한 번 표시해 보고 사이트에 방문해 주세요.';
 $Definition['This page lists the endpoints of your API.'] = '이 페이지는 API의 엔드 포인트를 나열합니다. 자세한 정보는 엔드 포인트를 클릭하십시오. 이 페이지에서 또는 외부에서 액세스 토큰을 사용하여 API를 실시간으로 호출 할 수 있습니다.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = '이 역할은 개인 정보입니다. 개인 정보를 볼 권한이있는 사용자 만 볼 수 있습니다.';
@@ -274,16 +265,12 @@ $Definition['TouchIconDescription'] = 'Apple 장치의 홈 화면에서 웹 사�
 $Definition['Transparent'] = '투명한';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = '트위터 컨넥트 기능을 이용하여 사용자가 자신의 트위터 계정을 사용하여 로그인할 수 있습니다. <b>이 플러그인을 사용하려면 Twitter에서 응용 프로그램을 등록해야합니다.</b>';
 
-$Definition['Usercards'] = '사용자 카드';
-$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = '사용자 카드를 사용하면 사용자 정보의 빠른 인라인 스냅샷을 얻을 수 있습니다. 게시물과 리더보드를 볼 때 사용자 이름을 클릭하면 페이지 밖으로 이동할 필요 없이 사용자의 기본 프로필 정보를 보여주는 카드를 볼 수 있습니다. 사용자 지정 테마에 사용자 카드를 추가하려면 이 기능을 활성화하세요.';
 $Definition['User inputs are based on the global background and text colors.'] = '사용자 입력은 전체 배경 및 텍스트 색상을 기반으로합니다.';
 $Definition['Users may sign into your site using their Twitter account.'] = '사용자는 Twitter 계정을 사용하여 사이트에 로그인 할 수 있습니다.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = '페이지 상단의 버튼을 사용하여 금지 규칙을 만듭니다.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = '워드프레스 플러그인을 사용해서 블로그에 바닐라 코멘트을 설치하거나 범용 코드를 사용해서 기타 다른 플랫폼에 바닐라 코멘트(Vanilla Comments)를 설치하세요.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = '바닐라의 새로운 검색 서비스가 드디어 나왔습니다. 새로운 검색 페이지 UI를 활성화하여 회원 검색, 검색 정렬 및 용어 강조와 같은 최신 검색 기능에 액세스할 수 있습니다.';
 $Definition['Vanilla Export: %s, Source: %s'] = '바닐라 내보내기: %s, 소스: %s';
-$Definition['Vanilla Labs'] = '바닐라 연구소';
 $Definition['Vanilla Statistics are currently disabled'] = '바닐라 통계(Vanilla Statistics)는 현재 사용할 수 없습니다 ';
 $Definition['Verify and restore'] = '확인 및 복원';
 $Definition['Video tutorial on advanced settings'] = '고급 설정에 관한 비디오 튜토리얼';
@@ -296,7 +283,6 @@ $Definition['Video tutorial on user registration'] = '사용자 등록에 관한
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = '경고 :이 기능을 사용하면 사이트에서 Javascript 오류가 발생할 수 있습니다.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>경고</b> : 서버 구성은 빠른 데이터로드를 지원하지 않습니다. 매우 큰 파일 (예 : 200,000 개 이상의 주석)을 가져 오는 경우 구성 변경을 고려할 수 있습니다. 자세한 내용은 <a href="http://vanillaforums.com/porter">여기</a> 를 클릭 <a href="http://vanillaforums.com/porter">하십시오</a> .';
 $Definition['Warning: This is for advanced users.'] = '<b>경고</b>: 이것은 고급 사용자용이고 웹 서버를 추가로 변경해야 합니다. 이것은 보통 전용 혹은 VPS 호스팅을 소유한 경우에만 사용할 수 있습니다. 지금 무엇을 하는지 모르는 경우에는 이것을 시도하지 마세요.';
-$Definition['Welcome to Labs!'] = '연구소에 오신 것을 환영합니다!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = '바닐라 테마 UI에 오신 것을 환영합니다. 이 페이지에는 사용 가능한 모든 테마가 나열되어 있으며 복사하거나 편집 할 수 있습니다.';
 $Definition['Welcome To Your Theme'] = '테마에 오신 것을 환영합니다';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = '참여를 장려하기 위해 주로 긍정적 인 반응을 권장합니다.';

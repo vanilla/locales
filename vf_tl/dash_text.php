@@ -41,7 +41,6 @@ $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pumili ng isang tema para sa subkomunidad na ito. <0>Magbasa pa </0>';
 $Definition['Choose Image'] = 'Piliin ang Imahe';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
-$Definition['Choose the order items are sorted.'] = 'Piliin ang pagkakasunud-sunod ng mga item sa pagkakasunud-sunod.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Piliin ang ginustong layout para sa mga listahan ng mga kategorya.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Piliin ang ginustong layout para sa mga listahan ng mga talakayan.';
 $Definition['Color Overlay'] = 'Kulay ng Overlay';
@@ -54,7 +53,6 @@ $Definition['Don\'t use too many reactions.'] = 'Huwag gumamit ng maraming reaks
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Edits to this theme apply to:'] = 'Ang mga pag-edit sa temang ito ay nalalapat sa:';
-$Definition['Enable and test out the latest Vanilla features.'] = 'Paganahin at subukan ang pinakabagong mga tampok na Vanilla.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Pinapagana ang advanced na pag-edit ng mga post sa maraming mga format, kabilang ang WYSIWYG, simpleng HTML, Markdown, at BBCode.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
@@ -88,7 +86,6 @@ $Definition['If you have an old theme'] = 'Kung mayroon kang isang lumang tema a
 $Definition['If you want to embed your forum, enable embedding.'] = 'Kung nais mong i-embed ang iyong forum o gumamit ng mga komento ni Vanilla sa iyong blog pagkatapos ay kailangan mong paganahin ang pag-embed. Kung hindi ka gumagamit ng pag-embed ay inirerekumenda namin na iwanan ang setting na ito.';
 $Definition['Image (Mobile)'] = 'Larawan (Mobile)';
 $Definition['In additon to the widgets there are also'] = 'Bilang karagdagan sa mga widget ay mayroon ding <0> Global Estilo </0> . Upang i-edit ang mga istilo ng pandaigdigang pag-click sa kahit saan pa sa pahina, tulad ng tekstong ito.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Isama ang Mga Pahina ng Foundation at Mga Bahagi Sa Iyong Tema';
 $Definition['Internationalization & Localization'] = 'Internasyonalisasyon at Lokalisasyon';
 $Definition['Invalid URL'] = 'Hindi wastong URL';
 $Definition['Invitation email failed to send: %'] = 'Bagaman matagumpay na nilikha ang imbitasyon, nabigo ang email na ipadala. Iniulat ng server ang sumusunod na error: %s';
@@ -109,10 +106,7 @@ $Definition['Messages can appear anywhere in your application.'] = 'Messages can
 $Definition['MobileLogoDescription'] = 'Ang mobile banner logo ay lilitaw sa tuktok ng iyong site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Pinapayagan ka ng mga mobile na tema na baguhin ang hitsura at pakiramdam ng iyong site sa mas maliit na aparato.';
 
-$Definition['Need more help?'] = 'Kailangan mo pa ba ng tulong?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Ang mga nested na kategorya na mas malalim kaysa sa lalim na ito ay ilalagay sa isang listahan ng tinanggal na comma.';
-$Definition['New Quick Links'] = 'Bagong Mga Mabilis na Link';
-$Definition['New Search Page'] = 'Bagong Pahina ng Paghahanap';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Hindi nakakakuha ng inaasahan mo kapag nai-preview mo ang iyong tema?';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Kailangan ng site ng isang tungkulin na may default na uri na "unconfirmed" para magamit ang kumpirmasyon ng email. Mangyaring maglagay ng isa para mapagana ang setting na ito.';
 
@@ -126,8 +120,6 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions & comments that users can post within a given period of time.';
 $Definition['Primary Button'] = 'Pangunahing pindutan';
 $Definition['Primary Buttons'] = 'Pangunahing Mga Pindutan';
-
-$Definition['Quick Links is a default component on community pages.'] = 'Ang Quick Link ay isang default na sangkap sa mga pahina ng komunidad. Paganahin ang aming bagong bahagi ng Quick Link upang magdagdag, mag-edit o magtago ng mga link mula sa menu na ito gamit ang aming editor ng tema.';
 
 $Definition['Recommend special ranks for admins and mods.'] = 'Magandang ideya na magkaroon ng mga espesyal na ranggo para sa mga moderator at administrador upang madaling makita ng iyong komunidad kung sino ang namamahala.';
 $Definition['Recommend starting with five ranks.'] = 'Hindi mo nais na magkaroon ng maraming mga ranggo. Inirerekumenda namin na magsimula sa limang. Maaari kang magdagdag ng higit pa kung malaki ang iyong komunidad.';
@@ -169,8 +161,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Gumagana sila tulad ng mga regular na tema. Kapag ang isang naidagdag sa folder ng mga tema, maaari mo itong paganahin dito.';
 $Definition['This is a style guide of your theme.'] = 'Ito ay isang gabay na istilo ng iyong tema. Mayroon itong mga halimbawa ng mga visual na elemento na ginamit sa buong application. Maaari kang mag-click sa iba\'t ibang mga widget tulad ng <0> Title Bar </0> o <1> Banner </1> upang mai-edit ang kanilang mga katangian sa side panel.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Ito ang administrative dashboard para sa iyong bagong komunidad. Tingnan ang mga opsyon ng kumpigurasyon sa gilid. Mula doon ay pwede mong i-configure kung paano tumatakbo ang iyong komunidad. <b> Bilang default, tanging ang mga user lang na may tungkuling "Administrator" ang makakakita ng bahaging ito ng iyong komunidad. </b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Dito maaari mong paganahin at subukan ang mga bagong tampok, pahina at sangkap ng Vanilla.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Ang lab na ito ay hindi maaaring hindi paganahin sapagkat kinakailangan ito ng kasalukuyang tema.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This page lists the endpoints of your API.'] = 'Inililista ng pahinang ito ang mga dulo ng iyong API. Mag-click sa mga endpoint para sa karagdagang impormasyon. Maaari kang gumawa ng mga live na tawag sa API mula sa pahinang ito o panlabas na gamit ang isang token ng pag-access.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Ang papel na ito ay personal na impormasyon. Ang mga gumagamit lamang na may pahintulot upang tingnan ang personal na impormasyon ay makikita ito.';
@@ -180,14 +170,11 @@ $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Ma
 $Definition['TouchIconDescription'] = 'Lumilitaw ang icon ng touch kapag nag-bookmark ka ng isang website sa homescreen ng isang aparatong Apple. Ito ay karaniwang 152 na mga piksel. Nagdagdag ang Apple ng mga bilog na sulok at awtomatikong epekto.';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
-$Definition['Usercards'] = 'Mga Usercard';
-$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Pinapayagan ka ng mga Usercard na makakuha ng mabilis na in-line snapshot ng impormasyon ng isang gumagamit. Kapag tumitingin ng mga post at leaderboard, mag-click sa username upang makita ang isang card na ipinapakita ang mga gumagamit ng pangunahing impormasyon sa profile nang hindi kinakailangang mag-navigate palayo sa pahina. Paganahin ang tampok na ito upang magdagdag ng mga usercard sa iyong pasadyang tema.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Ang mga input ng gumagamit ay batay sa pandaigdigang background at kulay ng teksto.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Maaaring mag-sign in ang mga gumagamit sa iyong site gamit ang kanilang Twitter account.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Gamitin ang pindutan sa tuktok ng pahina upang lumikha ng isang panuntunan sa pagbabawal.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'Ang bagong serbisyo sa paghahanap ni Vanilla ay sa wakas ay narito. Paganahin ang aming bagong UI ng pahina ng paghahanap upang makakuha ng pag-access sa pinakabagong mga tampok sa paghahanap tulad ng Paghahanap ng Miyembro, pag-uuri ng paghahanap at pag-highlight ng term.';
 $Definition['Verify and restore'] = 'Patunayan at ibalik';
 $Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding & managing users';
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles & permissions';
@@ -195,7 +182,6 @@ $Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutor
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Babala: Ang pagpapagana ng tampok na ito ay maaaring maging sanhi ng mga error sa Javascript sa iyong site.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Babala</b> : Ang pagsasaayos ng iyong server ay hindi sumusuporta sa mabilis na pag-load ng data. Kung nag-import ka ng isang napakalaking file (hal. Higit sa 200,000 mga komento) maaari mong isaalang-alang ang pagbabago ng iyong pagsasaayos. Mag-click <a href="http://vanillaforums.com/porter">dito</a> para sa karagdagang impormasyon.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
-$Definition['Welcome to Labs!'] = 'Maligayang pagdating sa Labs!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Maligayang pagdating sa theming UI ng Vanilla. Inililista ng pahinang ito ang lahat ng iyong magagamit na mga tema, at pinapayagan kang kopyahin o i-edit ang mga ito.';
 $Definition['Welcome To Your Theme'] = 'Maligayang pagdating sa Iyong Tema';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Inirerekumenda namin ang karamihan sa mga positibong reaksyon upang hikayatin ang pakikilahok.';

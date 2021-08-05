@@ -51,7 +51,6 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Valitse
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Määritä, miten haluat kohdella käyttäjän %s lähettämää sisältöä (kommentit, viestit, jne).';
 $Definition['Choose Image'] = 'Valitse kuva';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
-$Definition['Choose the order items are sorted.'] = 'Valitse tilauskohteet lajitellaan.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Valitse kategorialuettelon suosikkiulkoasu.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Valitse haluamasi ulkoasu keskustelulistoille.';
 $Definition['Color Overlay'] = 'Väripäällyste';
@@ -76,7 +75,6 @@ $Definition['EditContentTimeout.Notes'] = 'Note: If a user is in a role that has
 $Definition['Edit Route'] = 'Muokkaa reittiä';
 $Definition['Edits to this theme apply to:'] = 'Tämän teeman muokkaukset koskevat:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Forumin sisällyttäminen toiselle sivustolle on omiaan lisäämään vuorovaikutusta.';
-$Definition['Enable and test out the latest Vanilla features.'] = 'Ota käyttöön ja testaa uusimmat Vanilla -ominaisuudet.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Mahdollistaa julkaisujen tehokkaamman muokkauksen useissa eri muodoissa, joihin lukeutuvat muun muassa WYSIWYG, yksinkertainen HTML, Markdown ja BBCode.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Anna sivustollesi lyhyt nimi. Tätä käytetään kirjautumis -painikkeissa.';
@@ -120,7 +118,6 @@ $Definition['Image (Mobile)'] = 'Kuva (mobiili)';
 $Definition['Import'] = 'Tuo';
 $Definition['Importing to Vanilla'] = 'Tuo Vanillaan';
 $Definition['In additon to the widgets there are also'] = 'Widgetien lisäksi tarjolla on myös <0>yleisiä tyylejä</0>. Voit muokata yleisiä tyylejä napsauttamalla mitä tahansa muuta tämän sivun osaa, kuten esimerkiksi tätä tekstiä.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integroi säätiön sivut ja komponentit teemaasi';
 $Definition['Internationalization & Localization'] = 'Kansainvälistyminen & lokalisointi';
 $Definition['Invalid URL'] = 'Virheellinen URL';
 $Definition['Invitation email failed to send: %'] = 'Kutsu luotiin, mutta sähköpostiosoitteen lähetys epäonnistui. Palvelin ilmoitti seuraavasta virheestä: %s';
@@ -149,10 +146,7 @@ $Definition['MobileLogoDescription'] = 'Mobiilibännerin logo näkyy sivustosi y
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mobiiliteemojen avulla voi muuttaa sivuston ulkoasua ja tunnelmaa pienemmillä laitteilla.';
 
 $Definition['Need More Help?'] = 'Lisää ohjeita?';
-$Definition['Need more help?'] = 'Tarvitsetko lisää apua?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Tätä syvemmälle asetetut kategoriat asetetaan pilkuin erotetulle listalle.';
-$Definition['New Quick Links'] = 'Uudet pikalinkit';
-$Definition['New Search Page'] = 'Uusi hakusivu';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Eikö teemasi esikatselukuva näytä haluamaltasi?';
 $Definition['Notify me when people comment on my addons.'] = 'Lähetä minulle ilmoitus, kun lähettämiäni lisäosia kommentoidaan.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Sivusto tarvitsee roolilla oletustyypin "vahvistamaton" sähköpostivahvistuksen käyttämiseksi. Ota tämä asetus käyttöön valitsemalla yksi.';
@@ -172,7 +166,6 @@ $Definition['Primary Button'] = 'Ensisijainen painike';
 $Definition['Primary Buttons'] = 'Ensisijaiset painikkeet';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Pikaopas Vanillan uusien teemojen tekemiseen';
-$Definition['Quick Links is a default component on community pages.'] = 'Pikalinkit on oletusosa yhteisön sivuilla. Ota uusi pikalinkkikomponentti käyttöön lisätäksesi, muokataksesi tai piilottaaksesi linkkejä tästä valikosta teemaeditorillamme.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Valmis Vanilla-kommentointilisäosa WordPressille';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Valmis Vanilla Forum-lisäosa WordPressille';
@@ -238,8 +231,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Ne toimivat tavallisten teemojen tavoin. Lisättyäsi sellaisen teemakansioosi voit ottaa sen käyttöön täällä.';
 $Definition['This is a style guide of your theme.'] = 'Tämä on teemasi tyyliopas. Se sisältää tässä sovelluksessa käytettyjen visuaalisten elementtien esimerkkitapauksia. Voit napsauttaa eri widgetejä, kuten esimerkiksi <0>nimipalkkia</0> tai <1>banneria</1> muokataksesi sivupaneelin ominaisuuksia.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Tämä on uuden yhteisösi ylläpitäjän kojelauta. Katso hallinta-asetukset sivusta. Sieltä voit määrittää, kuinka yhteisösi toimii. <b>Oletuksena vain käyttäjät, joilla on "Ylläpitäjä"-rooli, voivat nähdä tämän osion yhteisöstäsi.</b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Tässä voit ottaa käyttöön ja testata uusia Vanilla -ominaisuuksia, sivuja ja komponentteja.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Tätä laboratoriota ei voi poistaa käytöstä, koska nykyinen teema vaatii sitä.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Tämä vaihtoehto näyttää/kätkee sijainnit, jossa voi olla taskuja, mutta ainoastaan niiden käyttäjien kohdalla, joilla on oikeudet lisätä/muokata taskuja. Kokeile sijaintien näyttämistä ja käy sitten sivullasi.';
 $Definition['This page lists the endpoints of your API.'] = 'Tämä paikka listaa ohjelmointirajapintasi päätepisteet. Saat lisätietoja päätepisteitä napsauttamalla. Voit tehdä live-puheluja ohjelmointirajapintaan joko tältä sivulta tai ulkoisesti suojaustunnuksen avulla.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Tämä rooli sisältää henkilökohtaisia tietoja. Se on näkyvillä ainoastaan henkilökohtaisten tietojen katsomisoikeuden omaaville.';
@@ -253,13 +244,11 @@ $Definition['TouchIconDescription'] = 'Kosketuskuvake ilmestyy näkyviin liittä
 $Definition['Transparent'] = 'Läpinäkyvä';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect mahdollistaa sen, että käyttäjät voivat kirjautua sisään Twitter-tiliään käyttämällä. <b>Sinun tarvitsee rekisteröidä sovelluksesi Twitteriin, jotta tämä laajennus voi toimia.</b>';
 
-$Definition['Usercards'] = 'Käyttökortit';
 $Definition['User inputs are based on the global background and text colors.'] = 'Käyttäjien syötteet perustuvat yleiseen taustaan ja tekstiväreihin.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Käyttäjät voivat kirjautua sivustollesi Twitter-tilillään.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Luo estosääntö sivun yläosasta löytyvän painikkeen avulla.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'WordPress-liitännäisellä voit ottaa WordPress-blogissasi käyttöön Vanilla-kommentoinnin. Vaihtoehtoisesti voit käyttää yleispätevää koodia, jolla Vanilla-kommentoinnin voi pystyttää mille tahansa muulle alustalle.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'Vanillan uusi hakupalvelu on vihdoin täällä. Ota käyttöön uusi hakusivun käyttöliittymä, niin saat käyttöösi uusimmat hakuominaisuudet, kuten jäsenhaun, haun lajittelun ja termien korostuksen.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Vienti: %s, Lähde: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanillan statistiikat ovat toistaiseksi pois käytöstä';
 $Definition['Verify and restore'] = 'Tarkista ja palauta';
@@ -273,7 +262,6 @@ $Definition['Video tutorial on user registration'] = 'Video-opas käyttäjän re
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Varoitus: tämän ominaisuuden käyttööonotto voi aiheuttaa Javascript-virheitä sivustolla.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Varoitus</b>: Palvelimesi kokoonpano ei tue nopeaa tiedonlatausta. Jos tuot erittäin suurta tiedostoa (esim. yli 200 000 kommenttia), sinun kannattaa harkita kokoonpanon muuttamista. Saat lisätietoja napsauttamalla <a href="http://vanillaforums.com/porter">tätä</a>.';
 $Definition['Warning: This is for advanced users.'] = '<b>Varoitus</b>: Tämä on edistyneille käyttäjille ja edellyttää ylimääräisiä muutoksia verkkopalvelimeesi. Tämä toiminto on yleensä saatavilla vain, jos sinulla on käytössä oma paikallinen verkkopalvelin tai virtuaalipalvelin. Älä yritä tätä, ellet tiedä varmasti, mitä olet tekemässä.';
-$Definition['Welcome to Labs!'] = 'Tervetuloa Labsiin!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Tervetuloa Vanillan theming-käyttöliittymään. Tällä sivulla on luettelo kaikista käytettävissä olevista teemoista ja voit kopioida tai muokata niitä.';
 $Definition['Welcome To Your Theme'] = 'Tervetuloa teemaasi';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Suosittelemme osallistumiseen innostamista pääosin positiivisilla reaktioilla.';
