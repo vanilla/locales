@@ -184,7 +184,6 @@ $Definition['Add a Profile Picture'] = 'افزودن يك تصوير پروفا�
 $Definition['Add a time?'] = 'افزودن يك زمان ؟';
 $Definition['Add a Warning'] = 'افزودن يك هشدار';
 $Definition['Add Badge'] = 'افزودن مدال';
-$Definition['Add Ban Rule'] = 'اضافه کردن قانون ممنوعیت';
 $Definition['Add Comment'] = 'افزودن ديدگاه';
 $Definition['Add Image'] = 'افزودن تصوير';
 $Definition['Add Message'] = 'افزودن پيام';
@@ -198,7 +197,6 @@ $Definition['Administrator and moderator'] = 'مدير و مدير انجمن';
 $Definition['administrators'] = 'مديران';
 $Definition['Adobe Portable Document Format (PDF)'] = 'قالب اسناد قابل حمل Adobe (PDF)';
 $Definition['Advanced'] = 'پيشرفته';
-$Definition['Advanced Ban Settings'] = 'تنظیمات ممنوعیت پیشرفته';
 $Definition['A fatal error occurred while processing the request.<br />The server returned the following response: %s'] = 'هنگام پردازش درخواست يك خطاي مهلك رخ داد.<br />سرويس دهنده خطاي ذيل را بازگرداند : %s';
 $Definition['A followup email was already sent.'] = 'یک ایمیل پیگیری قبلاً ارسال شده است.';
 $Definition['Agree'] = 'موافقم';
@@ -302,7 +300,6 @@ $Definition['Banned'] = 'مسدود شده';
 $Definition['Banned for being abusive.'] = 'مسدود شده براي مزاحمت.';
 $Definition['Banned for spamming.'] = 'مسدود شده براي ارسال هرزنامه.';
 $Definition['Banned for the following:'] = 'مسدود شده بدليل :';
-$Definition['Banned private profiles'] = 'پروفایل خصوصی ممنوع';
 $Definition['Banned users can no longer access the site.'] = 'كاربران مسدود شده ديگر نميتوانند به سايت دسترسي داشته باشند.';
 $Definition['Banner'] = 'بنر';
 $Definition['BanReason.1'] = 'مسدود شده توسط يك مدير انجمن.';
@@ -314,7 +311,6 @@ $Definition['Ban Value'] = 'مقدار مسدود كردن';
 $Definition['Basic'] = 'ابتدايي';
 $Definition['Best Answer'] = 'بهترين پاسخ';
 $Definition['Best Answers'] = 'بهترين پاسخ';
-$Definition['Best Match'] = 'بهترین مسابقه';
 $Definition['Best Of'] = 'بهترين از';
 $Definition['Best Of...'] = 'بهترين از ...';
 $Definition['Blank Discussion Topic'] = 'موضوع گفتگوي خالي';
@@ -361,20 +357,16 @@ $Definition['CategoryID'] = 'دسته بندی';
 $Definition['Category List'] = 'لیست دسته ها';
 $Definition['Category Management'] = 'مديريت دسته بندی';
 $Definition['Category marked as viewed.'] = 'دسته بندی بعنوان مشاهده شده نشانه گذاري شد.';
-$Definition['CategoryNotificationDetails'] = 'فقط دو سطح بالای دسته نمایش داده می شود. برای دسته بندی های عمیق تر ، اگر دسته اصلی آنها را انتخاب کنید ، اعلان هایی دریافت خواهید کرد.';
 $Definition['Category Notifications'] = 'اطلاعيه های دسته بندی';
 $Definition['Category to Use'] = 'دسته بندی براي استفاده';
-$Definition['Centered'] = 'متمرکز شده است';
 $Definition['Change'] = 'تغيير';
 $Definition['Change Author'] = 'تغییر نویسنده';
-$Definition['Change Discussion Type'] = 'تغییر نوع بحث';
 $Definition['Change Icon'] = 'تغيير آيكن';
 $Definition['Change language'] = 'تغيير زبان';
 $Definition['Change My Password'] = 'تغيير كلمه عبور من';
 $Definition['Change My Picture'] = 'تغيير تصوير من';
 $Definition['Change Password'] = 'تغيير كلمه عبور';
 $Definition['Change Picture'] = 'تغيير تصوير';
-$Definition['Change Type'] = 'تغییر نوع';
 $Definition['Check all roles that apply to this user:'] = 'بررسي تمام نقش هايي كه به اين كاربر بكار رفته :';
 $Definition['Check it out'] = 'بررسي كنيد';
 $Definition['Child Categories'] = 'زير دسته ها';
@@ -388,7 +380,6 @@ $Definition['Clear %s'] = 'پاكسازي %s';
 $Definition['Clear Conversation History'] = 'پاكسازي پيشينيه محاوره';
 $Definition['Click <a href="%s">here</a> to go back to the discussion.'] = 'براي بازگشت به گفتگو<a href="%s"> اينجا </a>را كليك كنيد.';
 $Definition['Click accept or reject beside an answer.'] = 'برروي قبول ميكنم يا رد ميكنم كنار پاسخ كليك كنيد.';
-$Definition['Click here to read.'] = 'برای مطالعه اینجا را کلیک کنید.';
 $Definition['clicking here'] = 'اینجا را کلیک کنید';
 $Definition['Click the %s beside discussions to bookmark them.'] = 'براي افزودن به لیست علاقه مندی  بر روی %s كنار گفتگوها كليك كنيد.';
 $Definition['Click to re-attach'] = 'براي پيوست مجدد كليك كنيد';
@@ -676,7 +667,6 @@ $Definition['Fifth Anniversary'] = 'پنجمين سالگرد';
 $Definition['File'] = 'فایل';
 $Definition['File Size'] = 'حجم فايل';
 $Definition['Filter'] = 'فیلتر';
-$Definition['Filter by question status'] = 'فیلتر بر اساس وضعیت سال';
 $Definition['Find the matching ban rule(s).'] = 'قانون ممنوعیت تطبیق را پیدا کنید.';
 $Definition['Find your account information below.'] = 'اطلاعات حساب كاربري خود را در زير بيابيد.';
 $Definition['First Anniversary'] = 'اولين سالگرد';
@@ -684,8 +674,6 @@ $Definition['First Answer'] = 'اولین پاسخ';
 $Definition['First Comment'] = 'اولين ديدگاه';
 $Definition['Flag'] = 'پرچم';
 $Definition['Flags'] = 'پرچم ها';
-$Definition['Float left'] = 'شناور به سمت چپ';
-$Definition['Float right'] = 'درست شناور باشید';
 $Definition['Folder'] = 'پوشه';
 $Definition['Folders'] = 'پوشه';
 $Definition['Follow'] = 'دنبال كردن';
@@ -825,13 +813,10 @@ $Definition['I confirm that I have received consent to join this community.'] = 
 $Definition['Icon for: '] = 'نماد برای:';
 $Definition['Idea'] = 'ايده';
 $Definition['idea'] = 'ايده';
-$Definition['Idea Filter'] = 'فیلتر ایده شخصی';
 $Definition['Ideas'] = 'ايده';
 $Definition['ideas'] = 'ايده';
-$Definition['Ideas Created'] = 'ایده های ایجاد شده';
 $Definition['Idea Status'] = 'وضعيت ايده';
 $Definition['Idea Statuses'] = 'وضعيت ايده';
-$Definition['Ideas Upvoted'] = 'ایده های مورد حمایت';
 $Definition['Ideation'] = 'افكار';
 $Definition['Ideation Type'] = 'ايده';
 $Definition['Ignore'] = 'ناديده گرفتن';
@@ -920,7 +905,6 @@ $Definition['Keep User Content'] = 'نگه داشتن محتواي كاربر';
 $Definition['Kilobyte'] = 'کیلوبایت';
 
 $Definition['Label'] = 'برچسب';
-$Definition['Large'] = 'بزرگ';
 $Definition['Last Active'] = 'آخرين فعاليت';
 $Definition['Last Commented'] = 'آخرین اظهار نظر';
 $Definition['Last IP'] = 'آخرين IP';
@@ -975,7 +959,6 @@ $Definition['Maybe'] = 'ممكن است';
 $Definition['Maybe (%s)'] = 'ممكن است (%s)';
 $Definition['Me'] = 'من';
 $Definition['Media'] = 'رسانه';
-$Definition['Medium'] = 'متوسط';
 $Definition['Megabyte'] = 'مگابایت';
 $Definition['Member'] = 'عضو';
 $Definition['member'] = 'عضو';
@@ -1085,7 +1068,6 @@ $Definition['New Conversation'] = 'پيام جديد';
 $Definition['New Discussion'] = 'گفتگوی جديد';
 $Definition['new discussion'] = 'جديد';
 $Definition['New Discussion Topic'] = 'مبحث جدید بحث';
-$Definition['Newest'] = 'جدیدترین';
 $Definition['New Event'] = 'رويداد جديد';
 $Definition['New Folder'] = 'پوشه جدید';
 $Definition['New Group'] = 'گروه جديد';
@@ -1164,7 +1146,6 @@ $Definition['Off'] = 'خاموش';
 $Definition['Off Topic'] = 'خارج از موضوع';
 $Definition['OK'] = 'اوكي';
 $Definition['Okay'] = 'اوكي';
-$Definition['Oldest'] = 'قدیمی ترین';
 $Definition['OldPassword'] = 'كلمه عبور سابق';
 $Definition['Old Password'] = 'كلمه عبور سابق';
 $Definition['On'] = 'روشن';
@@ -1241,7 +1222,6 @@ $Definition['Picture'] = 'تصوير';
 $Definition['Pin'] = 'سنجاق';
 $Definition['Pinned'] = 'سنجاق خورده';
 $Definition['Placeholder'] = 'مکان نگهدار';
-$Definition['Places'] = 'اماکن';
 $Definition['Play the sound again'] = 'پخش مجدد صدا';
 $Definition['Play Video'] = 'پخش ویدئو';
 $Definition['Please join my group.'] = 'لطفاً عضو <a href="{Url,html}">گروه</a> من شويد.';
@@ -1292,8 +1272,6 @@ $Definition['Privacy Settings'] = 'تنظيمات حريم خصوصي';
 $Definition['Private'] = 'خصوصي';
 $Definition['PrivateGroupDescription'] = 'Anyone can see the group, but only members can see its content. People must apply or be invited to join.';
 $Definition['Private Note for Moderators'] = 'يادداشت خصوصي براي مديران انجمن';
-$Definition['Private Profile'] = 'پروفایل خصوصی';
-$Definition['Private Profile: Private profiles can only be viewed by authorized users.'] = 'مشخصات خصوصی: نمایه های خصوصی فقط توسط کاربران مجاز قابل مشاهده است.';
 $Definition['Problem with credentials.'] = 'مشكل با اطلاعات';
 $Definition['Proceed'] = 'ادامه';
 $Definition['Products'] = 'محصولات';
@@ -1341,7 +1319,6 @@ $Definition['Re: %s'] = 'پاسخ : %s';
 $Definition['React'] = 'واكنش';
 $Definition['Reaction'] = 'واكنش';
 $Definition['Reactions'] = 'واكنش';
-$Definition['Read More'] = 'بیشتر بخوانید';
 $Definition['Read the full story here'] = 'داستان كامل را از اينجا بخوانيد';
 $Definition['Real Name'] = 'نام واقعي';
 $Definition['Reason'] = 'دليل';
@@ -1478,7 +1455,6 @@ $Definition['Select a category...'] = 'انتخاب يك دسته بندي...';
 $Definition['Select a community.'] = 'انتخاب يك انجمن.';
 $Definition['Select an image on your computer (2mb max)'] = 'انتخاب يك تصوير از روي كامپيوتر خود (حداكثر 2 مگابايت)';
 $Definition['Select Discussion'] = 'بحث را انتخاب کنید';
-$Definition['Select Discussion Type'] = 'نوع بحث را انتخاب کنید';
 $Definition['Select one of the following avatars:'] = 'يكي از اين آواتارها را انتخاب كنيد:';
 $Definition['Send'] = 'ارسال';
 $Definition['Send a New Message'] = 'ارسال يك پيام جديد';
@@ -1535,7 +1511,6 @@ $Definition['Sitemap Settings'] = 'تنظيمات نقشه سايت';
 $Definition['Sites'] = 'سايت';
 $Definition['Sixth Anniversary'] = 'ششمين سالگرد';
 $Definition['Skip to content'] = 'رفتن به محتوا';
-$Definition['Small'] = 'کم اهمیت';
 $Definition['Smileys & Faces'] = 'شکلک ها و صورتک ها';
 $Definition['Smileys & People'] = 'شکلک ها و مردم';
 $Definition['Social'] = 'اجتماعي';
@@ -1543,7 +1518,6 @@ $Definition['somebody'] = 'شخصي';
 $Definition['Some Code'] = 'مقداري كد';
 $Definition['Someone\'s answered your question. You need to accept/reject the answer.'] = 'شخصي به پرسش شما پاسخ داده است. نياز است كه پاسخ را قبول / رد كنيد.';
 $Definition['Something went wrong while contacting the server.'] = 'هنگام تماس با سرور ، مشکلی پیش آمد.';
-$Definition['Sorry, permission denied. This account cannot be accessed.'] = 'با عرض پوزش ، اجازه رد شد دسترسی به این حساب امکان پذیر نیست.';
 $Definition['Sort'] = 'مرتب سازی';
 $Definition['sorted by'] = 'ترتيب براساس';
 $Definition['Source'] = 'منبع';
@@ -1654,8 +1628,6 @@ $Definition['The user has disabled this notification preference.'] = 'کاربر
 $Definition['The user isn\'t banned.'] = 'كاربر مسدود نميباشد و يا اينكه توسط توابع ديگري مسدود شده است.';
 $Definition['they'] = 'آنها';
 $Definition['Third Anniversary'] = 'سومين سالگرد';
-$Definition['This account has been banned.'] = 'این حساب ممنوع شده است.';
-$Definition['This account has been temporarily banned.'] = 'این حساب موقتاً ممنوع شده است.';
 $Definition['This answer was %s.'] = 'اين پاسخ بود %s .';
 $Definition['This answer was Accepted.'] = 'این پاسخ پذیرفته شد.';
 $Definition['This category does not have any articles.'] = 'این دسته هیچ مقاله ای ندارد';
@@ -1674,9 +1646,6 @@ $Definition['This Month\'s Leaders'] = 'پيشتازان اين ماه';
 $Definition['This question\'s answer has been accepted.'] = 'پاسخ اين سوال پذيرفته شده است.';
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'این تنظیمات قبل از اجرای Javascript می تواند صفحه بارگیری کند که می تواند سئوی شما را بهبود بخشد. <br> <strong>** هشدار: فعال کردن این ویژگی ممکن است باعث ایجاد خطاهای Javascript در سایت شما شود. **</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'این سایت توسط reCAPTCHA و Google محافظت می شود';
-$Definition['This user\'s profile is private.'] = 'مشخصات این کاربر خصوصی است.';
-$Definition['This user has been banned'] = 'این کاربر ممنوع شده است';
-$Definition['This user has been deleted.'] = 'این کاربر حذف شده است.';
 $Definition['This user has been marked as a troll.'] = 'این کاربر به عنوان ترول مارک شده است!';
 $Definition['This user has been verified as a non-spammer.'] = 'اين كاربر بعنوان غير-هرزنامه نگار تائيد شد.';
 $Definition['This user has not been verified as a non-spammer.'] = 'اين كاربر بعنوان غير-هرزنامه نگار تائيد نشده است .';
@@ -1830,7 +1799,6 @@ $Definition['View all not going attendees'] = 'مشاهده همه شرکت کن
 $Definition['View all open cases'] = 'مشاهده موارد باز';
 $Definition['View Badge'] = 'نمايش مدال';
 $Definition['Viewing'] = 'درحال مشاهده';
-$Definition['View More'] = 'بیشتر ببینید';
 $Definition['View Post'] = 'مشاهده مطلب';
 $Definition['View Profile'] = 'مشاهده پروفایل';
 $Definition['View Results'] = 'مشاهده نتیجه';
@@ -1885,7 +1853,6 @@ $Definition['were'] = 'بودند';
 $Definition['What\'s This?'] = 'اين چيست ؟';
 $Definition['What to search'] = 'ميخواهيد جستجو كنيد';
 $Definition['When'] = 'چه وقت';
-$Definition['When enabled, Banned user profiles will be private. Private profiles can only be viewed by authorized users.'] = 'در صورت فعال بودن ، نمایه های کاربر ممنوع خصوصی خواهند بود. نمایه های خصوصی فقط توسط کاربران مجاز قابل مشاهده است.';
 $Definition['Where'] = 'كجا';
 $Definition['Where do you want to announce this discussion?'] = 'این گفتگو در کجا برجسته باشد؟';
 $Definition['Who\'s going?'] = 'چه كسي در حال رفتن است؟';
@@ -1949,7 +1916,6 @@ $Definition['You can\'t leave the group you started.'] = 'شما نميتوان�
 $Definition['you can also drag-and-drop'] = 'شما همچنین می توانید کشیدن و رها کردن';
 $Definition['You can either ask a question or start a discussion.'] = 'شما ميتوانيد يك سوال پرسيده و يا گفتگويي را آغاز كنيد. چيزي را كه ميخواهيد از زير انتخاب كنيد.';
 $Definition['You can follow individual categories and be notified of all posts within them.'] = 'شما می‌توانید دسته های خاصی را دنبال کرده و از ارسال‌های تازه در آن‌ها آگاه شوید.';
-$Definition['You cannot delete a reserved tag.'] = 'شما نمی توانید یک برچسب رزرو شده را حذف کنید.';
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'شما نميتوانيد تصوير بندانگشتي پروفايل لينك شده خارجي را ويرايش كنيد.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'شما نميتوانيد تصوير بندانگشتي عضو ديگري را ويرايش كنيد.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'شما نميتوانيد دعوتنامه اي را كه مورد تائيد قرار گرفته را حذف كنيد.';

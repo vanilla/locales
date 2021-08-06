@@ -1950,7 +1950,6 @@ $Definition['You cannot delete a reserved tag.'] = 'You cannot delete a reserved
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'You cannot edit the thumbnail of an externally linked profile picture.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'You cannot edit the thumbnail of another member.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'You cannot remove an invitation that has been accepted.';
-$Definition['You cannot start a conversation with the following users because they ignored you. %s'] = 'You cannot start a conversation with the following users because they ignored you. %s';
 $Definition['You can only specify up to %s tags.'] = 'You can only specify up to %s tags.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
@@ -1984,8 +1983,6 @@ $Definition['You have successfully connected to {Title}.'] = 'You have successfu
 $Definition['You have successfully registered for an account at {Title}.'] = 'You have successfully registered for an account at {Title}.';
 $Definition['You have to be around for a little while longer before you can post links.'] = 'You have to be around for a little while longer before you can post external links.';
 $Definition['You have to select at least 2 discussions to merge.'] = 'You have to select at least 2 discussions to merge.';
-$Definition['You have selected <0/> discussion.'] = 'You have selected <0/> discussion.';
-$Definition['You have selected <0/> discussions.'] = 'You have selected <0/> discussions.';
 $Definition['You must agree to the terms of service.'] = 'You must agree to the terms of service.';
 $Definition['You must be at least %d years old to register.'] = 'You must be at least %d years old to register.';
 $Definition['You must be signed in.'] = 'You must be signed in.';
@@ -2099,14 +2096,6 @@ $Definition['Error'] = 'Error';
 // Quotes/Formats
 $Definition['Toggle Quote'] = 'Toggle Quote';
 $Definition['Spoiler Warning'] = 'Spoiler Warning';
-
-// Image Size & placement
-$Definition['Float left'] = 'Float left';
-$Definition['Centered'] = 'Centered';
-$Definition['Float right'] = 'Float right';
-$Definition['Small'] = 'Small';
-$Definition['Medium'] = 'Medium';
-$Definition['Large'] = 'Large';
 
 // Catalogue Display Plugin/Formats
 $Definition['Placeholder'] = 'Placeholder';

@@ -41,7 +41,6 @@ $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanilla
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Tagh cuspair airson an fho-choimhearsnachd seo. <0> Leugh tuilleadh </0>';
 $Definition['Choose Image'] = 'Tagh Ìomhaigh';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
-$Definition['Choose the order items are sorted.'] = 'Tagh na nithean òrdugh air an rèiteachadh.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Tagh an cruth as fheàrr leat airson liostaichean de roinnean.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Tagh an cruth as fheàrr leat airson liostaichean de chòmhraidhean.';
 $Definition['Color Overlay'] = 'Ath-chòmhdach dath';
@@ -54,7 +53,6 @@ $Definition['Don\'t use too many reactions.'] = 'Na cleachd cus ath-bheachdan. C
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Edits to this theme apply to:'] = 'Tha deasachaidhean air a ’chuspair seo a’ buntainn ri:';
-$Definition['Enable and test out the latest Vanilla features.'] = 'Dèan comas agus deuchainn air na feartan Vanilla as ùire.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'A ’comasachadh deasachadh adhartach de phuist ann an grunn chruthan, nam measg WYSIWYG, HTML sìmplidh, Markdown, agus BBCode.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
 $Definition['Enter a short name for the site.'] = 'Enter a short name for the site. This is displayed on the signin buttons.';
@@ -89,7 +87,6 @@ $Definition['If you have an old theme'] = 'Ma tha seann chuspair agad agus gu fe
 $Definition['If you want to embed your forum, enable embedding.'] = 'Ma tha thu airson do fhòram a stèidheachadh no beachdan Vanilla a chleachdadh anns a ’bhlog agad feumaidh tu an toirt a-steach. Mura h-eil thu a ’cleachdadh greimeachadh tha sinn a’ moladh an suidheachadh seo fhàgail.';
 $Definition['Image (Mobile)'] = 'Ìomhaigh (Fòn-làimhe)';
 $Definition['In additon to the widgets there are also'] = 'A bharrachd air na widgets tha <0> Stoidhlichean Cruinne ann cuideachd </0> . Gus stoidhlichean cruinne a dheasachadh cliog àite sam bith eile air an duilleag, mar an teacsa seo.';
-$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Amalachadh duilleagan & co-phàirtean bunaiteach a-steach don chuspair agad';
 $Definition['Internationalization & Localization'] = 'Eadar-nàiseantachd & Ionadail';
 $Definition['Invalid URL'] = 'URL mì-dhligheach';
 $Definition['Invitation email failed to send: %'] = 'Ged a chaidh an cuireadh a chruthachadh gu soirbheachail, cha do chuir am post-d fios. Thug an frithealaiche cunntas air a ’mhearachd a leanas: %s';
@@ -110,10 +107,7 @@ $Definition['Messages can appear anywhere in your application.'] = 'Messages can
 $Definition['MobileLogoDescription'] = 'Bidh suaicheantas bratach gluasadach a ’nochdadh aig mullach na làraich agad.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Leigidh cuspairean gluasadach dhut sealladh is faireachdainn na làraich agad atharrachadh air innealan nas lugha.';
 
-$Definition['Need more help?'] = 'A bheil feum agad air barrachd cuideachaidh?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Thèid roinnean neadachaidh nas doimhne na an doimhneachd seo a chur ann an liosta làn-choma.';
-$Definition['New Quick Links'] = 'Ceanglaichean sgiobalta ùra';
-$Definition['New Search Page'] = 'Duilleag sgrùdaidh ùr';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Gun a bhith a ’faighinn na tha thu a’ dùileachadh nuair a bheir thu ro-shealladh air a ’chuspair agad?';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Feumaidh an làrach dreuchd le seòrsa bunaiteach "neo-dhaingnichte" gus dearbhadh post-d a chleachdadh. Feuch an cuir thu fear ris gus an t-suidheachadh seo a chomasachadh.';
 
@@ -128,8 +122,6 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions & comments that users can post within a given period of time.';
 $Definition['Primary Button'] = 'Putan Bun-sgoile';
 $Definition['Primary Buttons'] = 'Putanan Bun-sgoile';
-
-$Definition['Quick Links is a default component on community pages.'] = 'Tha Quick Links na phàirt bunaiteach air duilleagan coimhearsnachd. Dèan comas air a ’phàirt ùr Ceanglaichean Luath againn gus ceanglaichean bhon chlàr seo a chur ris, a dheasachadh no a fhalach a’ cleachdadh an deasaiche cuspair againn.';
 
 $Definition['Recommend special ranks for admins and mods.'] = 'Is e deagh bheachd a th ’ann rangannan sònraichte a bhith agad airson luchd-riaghlaidh agus luchd-rianachd gus am faic do choimhearsnachd gu furasta cò a tha os cionn.';
 $Definition['Recommend starting with five ranks.'] = 'Chan eil thu airson cus rangannan a bhith agad. Tha sinn a ’moladh tòiseachadh le còig. Faodaidh tu barrachd a chuir ris ma tha a ’choimhearsnachd agad gu math mòr.';
@@ -171,8 +163,6 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Bidh iad ag obair dìreach mar chuspairean cunbhalach. Aon uair ‘s gu bheil aon air a chur ris a’ phasgan cuspairean, faodaidh tu a chomasachadh an seo.';
 $Definition['This is a style guide of your theme.'] = 'Seo stiùireadh stoidhle den chuspair agad. Tha eisimpleirean ann de na h-eileamaidean lèirsinneach a chaidh a chleachdadh air feadh an tagraidh. Faodaidh tu briogadh air na diofar widgets leithid am <0> Title Bar </0> no <1> Bratach </1> gus na togalaichean aca a dheasachadh anns a ’phanal taobh.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Is e seo am prògram rianachd airson do choimhearsnachd ùr. Thoir sùil air na roghainnean rèiteachaidh chun taobh. Às an sin, faodaidh tu rèiteachadh mar a tha do choimhearsnachd ag obair. <b>Gu gnàthach, chan fhaod ach luchd-cleachdaidh san dreuchd “Rianadair” am pàirt seo den choimhearsnachd agad fhaicinn.</b>';
-$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Seo far an urrainn dhut feartan, duilleagan & co-phàirtean ùra Vanilla a chomasachadh agus fheuchainn a-mach.';
-$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Chan urrainnear an obair-lann seo a chiorramachadh leis gu bheil e riatanach a rèir a ’chuspair làithreach.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This page lists the endpoints of your API.'] = 'Tha an duilleag seo a ’liostadh puingean crìochnachaidh an API agad. Cliog air endpoints airson tuilleadh fiosrachaidh. Faodaidh tu gairmean beò a dhèanamh chun API bhon duilleag seo no taobh a-muigh a ’cleachdadh comharra ruigsinneachd.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Is e fiosrachadh pearsanta a tha san dreuchd seo. Chan fhaic ach luchd-cleachdaidh le cead fiosrachadh pearsanta fhaicinn.';
@@ -184,14 +174,11 @@ $Definition['TouchIconDescription'] = 'Bidh an ìomhaigh suathaidh a ’nochdadh
 $Definition['Transparent'] = 'Follaiseach';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect allows users to sign in using their Twitter account. <b>You must register your application with Twitter for this plugin to work.</b>';
 
-$Definition['Usercards'] = 'Cairtean cleachdaiche';
 $Definition['User inputs are based on the global background and text colors.'] = 'Tha inntrig luchd-cleachdaidh stèidhichte air cùl-fhiosrachadh cruinneil agus dathan teacsa.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Faodaidh luchd-cleachdaidh clàradh a-steach don làrach agad a ’cleachdadh an cunntas Twitter aca.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Cleachd am putan aig mullach na duilleige gus riaghailt casg a chruthachadh.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 
-$Definition['Vanilla\'s new search service is finally here.'] = 'Tha seirbheis sgrùdaidh ùr Vanilla mu dheireadh an seo. Dèan comas air an duilleag sgrùdaidh ùr againn UI gus faighinn gu na feartan rannsachaidh as ùire leithid Rannsachadh Bhall, rèiteachadh rannsachaidh agus comharrachadh teirm.';
-$Definition['Vanilla Labs'] = 'Laban Vanilla';
 $Definition['Verify and restore'] = 'Dearbhaich agus cuir air ais';
 $Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding & managing users';
 $Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles & permissions';
@@ -199,7 +186,6 @@ $Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutor
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Rabhadh: Faodaidh comasachadh an fheart seo mearachdan Javascript adhbhrachadh air do làrach.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Rabhadh</b> : Chan eil rèiteachadh an fhrithealaiche agad a ’toirt taic do luchdachadh dàta luath. Ma tha thu a ’toirt a-steach faidhle glè mhòr (ex. Còrr is 200,000 beachd) is dòcha gum bi thu airson beachdachadh air an rèiteachadh agad atharrachadh. Cliog an <a href="http://vanillaforums.com/porter">seo</a> airson tuilleadh fiosrachaidh.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
-$Definition['Welcome to Labs!'] = 'Fàilte gu Labs!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Fàilte gu UI cuspaireil Vanilla. Tha an duilleag seo a ’liostadh na cuspairean air fad a tha rim faighinn, agus a’ toirt cothrom dhut lethbhreac no deasachadh a dhèanamh dhiubh.';
 $Definition['Welcome To Your Theme'] = 'Fàilte don chuspair agad';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Tha sinn a ’moladh beachdan adhartach sa mhòr-chuid gus com-pàirteachadh a bhrosnachadh.';

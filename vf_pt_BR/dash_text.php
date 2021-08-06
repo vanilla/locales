@@ -45,7 +45,6 @@ $Definition['Choose how to handle all of the content associated with the user ac
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Você pode escolher um algoritmo de hash personalizado para assinar seus pedidos. O algoritmo hash também deve ser usado em sua biblioteca cliente. Escolha md5 se não tiver certeza de qual escolher.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Escolha o layout preferido para listas de categorias.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Escolha o layout preferido para listas de discussões.';
-$Definition['Choose the order items are sorted.'] = 'Escolha os itens do pedido são classificados.';
 $Definition['Continue Import'] = 'Continuar importação';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Não foi possível analisar o arquivo importado. O problema está próximo à linha %s.';
 $Definition['Create a localization CSV'] = 'Criar uma localização CSV';
