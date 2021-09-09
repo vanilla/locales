@@ -53,6 +53,7 @@ $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Scegli 
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Scegli come gestire i contenuti relativi all\'utente %s (commenti, messaggi, etc).';
 $Definition['Choose Image'] = 'Scegli immagine';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Puoi selezionare un algoritmo personalizzato per firmare le tue richieste. L\'algoritmo deve essere utilizzato anche nella vostra libreria client. Scegli md5 se non siete sicuri di cosa scegliere.';
+$Definition['Choose the order items are sorted.'] = 'Scegli gli articoli dell\'ordine sono ordinati.';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Scegli il layout preferito per gli elenchi delle categorie.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Scegli il layout preferito per gli elenchi di discussioni.';
 $Definition['Color Overlay'] = 'Sovrapposizione di colori';
@@ -77,6 +78,7 @@ $Definition['EditContentTimeout.Notes'] = 'Nota: Se un utente ha i permessi per 
 $Definition['Edit Route'] = 'Modifica percorso';
 $Definition['Edits to this theme apply to:'] = 'Le modifiche a questo tema si applicano a:';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Incorpora il forum della tua comunità nel tuo sito web per aumentare il coinvolgimento...';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Abilita e prova le ultime funzionalità di Vanilla.';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] = 'Consente la modifica avanzata dei post in diversi formati, tra cui WYSIWYG, HTML semplice, Markdown e BBCode.';
 $Definition['Enter a descriptive name.'] = 'Introduci un nome descrittivo per il pocket. Questo nome non apparirà ovunque tranne quando si stanno gestendo i pocket, così viene utilizzato solo per aiutarti a ricordare.';
 $Definition['Enter a short name for the site.'] = 'Introdurre un nome breve per il sito. Questo viene visualizzato sul simbolo dei pulsanti.';
@@ -122,6 +124,7 @@ $Definition['Image (Mobile)'] = 'Immagine (dispositivi mobili)';
 $Definition['Import'] = 'Importa';
 $Definition['Importing to Vanilla'] = 'Importare a Vanilla';
 $Definition['In additon to the widgets there are also'] = 'Oltre ai widget ci sono anche gli <0>Stili Globali</0>. Per modificare gli stili globali fai clic in qualsiasi altro punto della pagina, come questo testo.';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integra pagine e componenti di base nel tuo tema';
 $Definition['Internationalization & Localization'] = 'Internazionalizzazione e localizzazione';
 $Definition['Invalid URL'] = 'URL non valido';
 $Definition['Invitation email failed to send: %'] = 'Sebbene l\'invito sia stato creato correttamente, non è stato possibile inviare l\'email. Il server ha segnalato il seguente errore: %s';
@@ -152,7 +155,10 @@ $Definition['MobileLogoDescription'] = 'Il logo del banner mobile viene visualiz
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'I temi per dispositivi mobili consentono di modificare l\'aspetto del sito sui dispositivi più piccoli.';
 
 $Definition['Need More Help?'] = 'Hai bisogno di ulteriore aiuto?';
+$Definition['Need more help?'] = 'Serve ancora aiuto?';
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Le categorie nidificate più profonde di questa verranno inserite in un elenco delimitato da virgole.';
+$Definition['New Quick Links'] = 'Nuovi collegamenti rapidi';
+$Definition['New Search Page'] = 'Nuova pagina di ricerca';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Non ottieni ciò che ti aspetti quando visualizzi l\'anteprima del tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Inviami notifiche quando gli utenti commentano le mie risposte.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Il sito richiede almeno un ruolo con un tipo di default "non confermato" per confermare l\'email. Aggiungine uno per abilitare quest\'impostazione.';
@@ -173,6 +179,7 @@ $Definition['Primary Button'] = 'Pulsante principale';
 $Definition['Primary Buttons'] = 'Pulsanti principali';
 
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guida rapida alla realizzazione di temi per Vanilla';
+$Definition['Quick Links is a default component on community pages.'] = 'Collegamenti rapidi è un componente predefinito nelle pagine della comunità. Abilita il nostro nuovo componente Collegamenti rapidi per aggiungere, modificare o nascondere i collegamenti da questo menu utilizzando il nostro editor di temi.';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin Commenti su Vanilla già pronti per Wordpress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin Forum Vanilla già pronti per Wordpress';
@@ -238,6 +245,8 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Funzionano proprio come i normali temi. Dopo averne aggiunto uno alla cartella dei temi, è possibile abilitarlo qui.';
 $Definition['This is a style guide of your theme.'] = 'Questa è una guida di stile per il tuo tema. Contiene esempi degli elementi visivi utilizzati in tutta l\'applicazione. Puoi fare clic sui vari widget come <0>Barra del titolo</0> o <1>Banner</1> per modificarne le proprietà nel pannello laterale.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Questa è la bacheca per amministrare la tua nuova Comunità. Controlla le opzioni di configurazione a lato. Da lì puoi configurare come far funzionare la tua Comunità. <b>Di base, solo gli utenti col ruolo di "Amministratore" possono vedere questa parte della tua comunità.</b>';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Qui è dove puoi abilitare e testare le nuove funzionalità, pagine e componenti di Vanilla.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Questo lab non può essere disabilitato perché è richiesto dal tema corrente.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Questa opzione mostra/nasconde le sedi dove possono andare i pocket, ma solo per gli utenti che hanno i permessi per aggiungere/modificare pocket. Prova a mostrare queste sedi e dopo entra nuovamente sul tuo sito.';
 $Definition['This page lists the endpoints of your API.'] = 'Questa pagina elenca gli endpoint della tua API. Fai clic sugli endpoint per ulteriori informazioni. È possibile effettuare chiamate live all\'API da questa pagina o esternamente utilizzando un token di accesso.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Questo ruolo include informazioni personali. Solo gli utenti con il permesso di visualizzare le informazioni personali lo vedranno.';
@@ -251,11 +260,14 @@ $Definition['TouchIconDescription'] = 'L\'icona touch appare quando aggiungi un 
 $Definition['Transparent'] = 'Trasparente';
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect permette agli utenti di accedere con il proprio account Twitter. <b>Affinché il plugin funzioni, devi registrare la tua applicazione su Twitter.</b>';
 
+$Definition['Usercards'] = 'Schede utente';
+$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Le schede utente ti consentono di ottenere una rapida istantanea in linea delle informazioni di un utente. Quando visualizzi i post e le classifiche, fai clic sul nome utente per vedere una scheda che mostra le informazioni di base del profilo degli utenti senza dover uscire dalla pagina. Abilita questa funzione per aggiungere schede utente al tuo tema personalizzato.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Gli input dell\'utente si basano sullo sfondo globale e sui colori del testo.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Gli utenti possono autenticarsi sul tuo sito utilizzando il loro account Twitter.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Utilizza il pulsante nella parte superiore della pagina per creare una regola di divieto.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Usa il Plugin WordPress per impostare i Commenti di Vanilla sul tuo blog, o usa il codice universale per impostare i Commenti di Vanilla su qualsiasi altra piattaforma.';
 
+$Definition['Vanilla\'s new search service is finally here.'] = 'Il nuovo servizio di ricerca di Vanilla è finalmente arrivato. Abilita la nostra nuova interfaccia utente della pagina di ricerca per accedere alle funzionalità di ricerca più recenti come la ricerca dei membri, l\'ordinamento delle ricerche e l\'evidenziazione dei termini.';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Esporta: %s, Risorsa: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Le Statistiche di Vanilla al momento sono disattivate';
 $Definition['Verify and restore'] = 'Verifica e ripristina';
@@ -269,6 +281,7 @@ $Definition['Video tutorial on user registration'] = 'Video tutorial sulla regis
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Avviso: l\'attivazione di questa funzionalità può generare errori Javascript sul sito.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Avviso</b>: la configurazione del server non supporta il caricamento rapido dei dati. Se stai importando un file molto grande (ad esempio oltre 200.000 commenti) potresti prendere in considerazione l\'idea di cambiare la tua configurazione. Fai clic <a href="http://vanillaforums.com/porter">qui</a> per ulteriori informazioni.';
 $Definition['Warning: This is for advanced users.'] = '<b>Attenzione</b>: Questo è per utenti avanzati e richiede che tu faccia ulteriori modifiche al server della tua web. Questo di solito è disponibile solo se tu hai un hosting in VPS. Non provarci se non sai quello che stai facendo.';
+$Definition['Welcome to Labs!'] = 'Benvenuto in Labs!';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Benvenuto nell\'interfaccia utente a tema di Vanilla. Questa pagina elenca tutti i temi disponibili e consente di copiarli o modificarli.';
 $Definition['Welcome To Your Theme'] = 'Benvenuto nel tuo tema';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Raccomandiamo reazioni per lo più positive per incoraggiare la partecipazione.';
