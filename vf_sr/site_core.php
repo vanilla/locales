@@ -654,7 +654,7 @@ $Definition["Expand All"] = "Proširi sve";
 $Definition['Expired'] = 'Isteklo';
 $Definition['Expires'] = 'Ističe';
 $Definition['expires %s'] = 'ističe %s';
-$Definition['%s existing post'] = 'а0ецб2ец87ф49фз0 постојећи пост';
+$Definition['%s existing post'] = '%s постојећи пост';
 $Definition['%s existing posts'] = 'а0ецб2ец87ф49фз0 постојећи постови';
 
 $Definition['Facebook Connect'] = 'Povezivanje preko Fejsbuka';
@@ -1700,7 +1700,7 @@ $Definition['Type your comment'] = 'Ukucajte svoj komentar';
 $Definition['Type your message'] = 'Ukucajte svoju poruku';
 $Definition['Type or paste emails separated by commas.'] = 'Укуцајте или налепите имејлове одвојене зарезима.';
 
-$Definition['Unable to create conversation, %s is ignoring you.'] = 'Није могуће успоставити разговор, а0ецб2ец87ф49фз0 вас игнорише.';
+$Definition['Unable to create conversation, %s is ignoring you.'] = 'Није могуће успоставити разговор, %s вас игнорише.';
 $Definition['Unable to send message, %s is ignoring you.'] = 'Poruka ne može da se pošalje, %s vas ignoriše.';
 $Definition['Unannounce'] = 'Otkaži obaveštenje';
 $Definition['Unanswered'] = 'Neodgovoreno';
@@ -1941,7 +1941,7 @@ $Definition['You cannot delete a reserved tag.'] = 'Не можете избри
 $Definition['You cannot edit the thumbnail of an externally linked profile picture.'] = 'Ne možete da uredite sličicu eksterno povezane profilne slike.';
 $Definition['You cannot edit the thumbnail of another member.'] = 'Ne možete urediti sličicu drugog člana.';
 $Definition['You cannot remove an invitation that has been accepted.'] = 'Ne možeš ukloniti pozivnicu koja je prihvaćena.';
-$Definition['You cannot start a conversation with the following users because they ignored you. %s'] = 'Не можете започети разговор са следећим корисницима јер су вас игнорисали. а0ецб2ец87ф49фз0';
+$Definition['You cannot start a conversation with the following users because they ignored you. %s'] = 'Не можете започети разговор са следећим корисницима јер су вас игнорисали. %s';
 $Definition['You can only specify up to %s tags.'] = 'Možete specifikovati najviše %s tagova';
 $Definition['You can remove or ban this member from the group.'] = 'Možete da uklonite ili izbacite ovog člana iz grupe. Izbačeni članovi neće moći ponovo da se pridruže grupi.';
 $Definition['You can use HTML in your signature.'] = 'Možete koristiti <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new"> jednostavan HTML</a></b> u svom potpisu.';
