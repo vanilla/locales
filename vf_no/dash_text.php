@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Tillat brukere med %s tillatelse til å endre sine egne avatarer fra sine profilsider i Vanilla.';
 $Definition['ApplicationHelp'] = 'Applikasjoner lar deg legge store grupper med funksjonalitet til nettstedet ditt.<br />Når en  applikasjon er lagt til i %s mappen din, kan du aktivere eller deaktivere den her.';
+$Definition['Apply Layout'] = 'Bruk layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Er du sikker på at du har oppgitt det riktige vertsnavnet for  databasen? Kanskje du skrev det feil? Databasen rapporterte: <code>%s</code>';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatarer skaleres ned hvis de overskrider denne høyden.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatarer skaleres ned hvis de overskrider denne bredden.';
@@ -42,8 +43,10 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Velg en
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Velg et tema for dette underfellesskapet. <0> Les mer </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Velg hvordan man håndterer alt innhold knyttet til brukerkontoen til %s (kommentarer, meldinger, osv).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Du kan velge en tilpasset hash-algoritme til å signere forespørslene dine. Hash-algoritmen må også brukes i ditt klientbibliotek. Velg md5 hvis du er usikker på hva du skal velge.';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Velg siden folk skal se når de besøker <0/>';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Velg den foretrukne utformingen for lister med kategorier.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Velg den foretrukne utformingen for lister med diskusjoner.';
+$Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Velg det foretrukne oppsettet for lister over kategorier. Du kan redigere flislagt oppsett.';
 $Definition['Choose the order items are sorted.'] = 'Velg rekkefølgen elementene er sortert.';
 $Definition['Continue Import'] = 'Fortsett importering';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Kunne ikke analysere importfil. Problemet er nær linjen %s.';
@@ -77,7 +80,7 @@ $Definition['Failed to connect to the database with the username and password yo
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Tving kontrollpanelet til kun å være tilgjengelig via denne url-en <em>(ikke anbefalt)</em>';
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Du kan for eksempel blokkere alle brukere med e-postadresser fra "eksempel.no" ved å legge til blokkering for e-post-typer med verdien "*@eksempel.no".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Søkeroboter ekskluderes, av SEO-grunner, fra å være tvunget til å se forumet i den eksterne url-en.';
-
+$Definition['Foundation Layout'] = 'Fundamentoppsett';
 $Definition['Garden.Import.Complete.Description'] = 'Importeringen var vellykket.
    Klikk <b>Ferdig</b> når du er klar.';
 $Definition['Garden.Import.Continue.Description'] = 'Det ser ut som om du er i midten av en import. Velg ett av følgende alternativer.';
@@ -113,7 +116,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
     'Det er lurt å holde maksimalt antall tillatte tegn i et innlegg nede til en fornuftig størrelse.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Spark i gang nettsamfunnet ditt og øk brukerengasjementet.';
-
+$Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Lær om egendefinert routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lær deg hvordan du fullstendig endrer utseendet og opplevelsen på forumet ditt: last opp logoen din, bestem hjemmeside, velg et tema og juster det.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lær deg hvordan du bruker den grunnleggende funksjonaliteten på forumet ditt.';
@@ -187,7 +190,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Pynt e-postene dine ved å legge til en logo og tilpasse fargene.';
 $Definition['Start Import'] = 'Start importering';
 $Definition['Start the first discussion.'] = 'Få ballen i gang i samfunnet ditt ved å <a href="{/post/discussion,url}">starte den første diskusjonen</a> nå.';
-
+$Definition['Subcommunities'] = 'Subcommunities';
 $Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] =
     'Merking lar brukere legge til en tag til diskusjoner de starter for å gjøre dem mer oppdagelige.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s-autentikatoren har ingen tilpassede konfigureringsalternativ.';
@@ -202,7 +205,7 @@ $Definition['The database user you specified does not have permission to access 
 $Definition['The following structure changes are required for your database.'] = 'Følgende strukturendringer er nødvendige for databasen din.';
 $Definition['The import file does not contain any data.'] = 'Importfilen inneholder ingen data.';
 $Definition['The import file is not in the correct format.'] = 'Importfilen er ikke i riktig format.';
-$Definition['The location of the jsonp formatted authentication data.'] = 'Plasseringen av jsonp formatert autentiseringsdata.';
+$Definition['The location of the authentication endpoint.'] = 'Plasseringen av autentiseringens endepunkt.';
 $Definition['ThemeHelp'] = 'Temaer lar deg endre utseendet og følelsen på nettstedet ditt. <br /> Når et tema er lagt til i mappen %s, kan du aktivere det her.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Forhåndsvisning av tema er begrenset til å vise tematets mal og css.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Passord-autentiseringen har ikke noen egendefinerte konfigurerings instillinger.';
@@ -222,6 +225,7 @@ $Definition['This role is personal info. Only users with permission to view pers
     'Denne rollen er personlig info. Bare brukere med tillatelse til å se personlig informasjon vil se den.';
 $Definition['This setting loads the page before executing Javascript.'] =
     'Denne innstillingen laster siden før du utfører Javascript som kan forbedre SEO-en. <br> <strong>** Advarsel: Aktivering av denne funksjonen kan føre til Javascript-feil på nettstedet ditt. **</strong>';
+$Definition['Tiled Layout'] = 'Flislagt oppsett';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'For å bygge ditt Vanilla-forum inn på nettstedet, bruk følgende kode.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'For mange adresser! Vi kan sende til maks. %s adresser samtidig.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'For å unngå misbruk, skjuler enkelte verktøy innhold automatisk, og lister det opp her inntil det godkjennes manuelt av en operatør.';
@@ -232,7 +236,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Bruk knappen øverst på siden for å lage en forbudsregel.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Bruk programtillegget for å sette opp Vanilla Comments på bloggen din, eller bruk universalkoden for å sette opp Vanilla Comments på hvilken som helst annen plattform.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Brukere kan logge seg på nettstedet ditt ved å bruke sin Twitter-konto.';
-
+$Definition['User Profile'] = 'Brukerprofil';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla-eksport: %s, Kilde: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics er deaktivert for øyeblikket';
 $Definition['Verify and restore'] = 'Bekreft og gjenopprett';
@@ -248,6 +252,7 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Advarsel</b> : <b>Serverkonfigurasjonen</b> din støtter ikke rask datainnlasting. Hvis du importerer en veldig stor fil (eks. Over 200 000 kommentarer), kan det være lurt å vurdere å endre konfigurasjonen. Klikk <a href="http://vanillaforums.com/porter">her</a> for mer informasjon.';
 $Definition['Warning: This is for advanced users.'] = '<b>Advarsel</b>: Denne er for avanserte brukere og krever at du gjør ytterligere endringer på nettserveren din. Denne er vanligvis bare tilgjengelig hvis du har dedikert eller VPS-hosting. Ikke forsøk dette hvis du ikke vet hva du driver med.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Vi anbefaler for det meste positive reaksjoner for å oppmuntre til deltakelse.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Når dette er aktivert, kan du administrere produkter og gruppere underkommuner etter disse produktene.';
 $Definition['Which reactions you use really depends on your community.'] =
@@ -260,6 +265,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'Du k
 $Definition['You can place files in your /uploads folder.'] = 'Hvis filen din er for stor til å laste opp direkte til denne siden, kan du plassere den i mappen din / opplastinger. Kontroller at filnavnet begynner med ordet <b>eksporter</b> og slutter med en av <b>.txt, .gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Du kan spesifisere en minste innleggslengde for å motvirke korte innlegg.';
 $Definition['You must select a file to import.'] = 'Du må velge en fil som skal importeres.';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Du er i ferd med å bruke et nytt layoutalternativ. Dette kan tilpasses og forhåndsvises ved hjelp av temaredigereren. <0> Finn ut mer</0> .';
 
 ///
 /// Theming UI
