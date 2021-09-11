@@ -1774,6 +1774,7 @@ $Definition['Username already exists.'] = 'Brukernavn eksisterer allerede.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Brukernavn kan kun inneholde bokstaver, tall og understreker.';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Brukernavnet kan bare inneholde bokstaver, tall, understrek og må være mellom 3 og 20 tegn.';
 $Definition['UsernameError'] = 'Brukernavnet kan bare inneholde bokstaver, tall, understrek og må være mellom 3 og 20 tegn.';
+$Definition['{Username} has requested to join {Group}.'] = '{Username} har bedt om å bli med i {Group}.';
 $Definition['Username or email'] = 'Brukernavn eller e-mail';
 $Definition['User Not Found'] = 'Bruker ikke funnet ';
 $Definition['User not found.'] = 'Beklager, ingen konto tilknyttet e-mailen/brukernavnet du skrev inn ble funnet. ';
