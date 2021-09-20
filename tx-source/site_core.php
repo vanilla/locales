@@ -39,7 +39,6 @@ $Definition['%s day'] = '%s day';
 $Definition['%s days'] = '%s days';
 $Definition['%s deleted this conversation.'] = '%s deleted this conversation.';
 $Definition['%s discussion'] = '%s discussion';
-$Definition['%s discussions'] = '%s discussions';
 $Definition['%s discussion html'] = '%s discussion';
 $Definition['%s discussions'] = '%s discussions';
 $Definition['%s discussions html'] = '%s discussions';
