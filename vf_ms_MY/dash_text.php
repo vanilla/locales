@@ -43,7 +43,7 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Pilih p
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pilih tema untuk subkomuniti ini. <0> Baca lebih lanjut </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Pilih cara menangani semua kandungan yang berkaitan dengan akaun pengguna untuk %s (komen, mesej, dll).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Anda boleh memilih algoritma hash khusus untuk menandatangani permintaan anda. Algoritma hash juga mesti digunakan di perpustakaan pelanggan anda. Pilih md5 jika anda tidak pasti apa yang harus dipilih.';
-$Definition['Choose the page people should see when they visit <0/>'] = 'Pilih halaman yang mesti dilihat orang ketika mereka mengunjungi &lt;0 /&gt;';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Pilih halaman yang mesti dilihat orang ketika mereka mengunjungi <0/>';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Pilih susun atur pilihan untuk senarai kategori.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Pilih susun atur pilihan untuk senarai perbincangan.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Pilih susun atur pilihan untuk senarai kategori. Anda boleh mengedit Susun atur Berubin.';
@@ -264,7 +264,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'Anda
 $Definition['You can place files in your /uploads folder.'] = 'Sekiranya fail anda terlalu besar untuk dimuat naik terus ke halaman ini, anda boleh meletakkannya di folder / muat naik anda. Pastikan nama fail bermula dengan kata <b>eksport</b> dan diakhiri dengan salah satu <b>.txt, .gz</b> .';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Anda boleh menentukan panjang pos minimum untuk mengelakkan jawatan pendek.';
 $Definition['You must select a file to import.'] = 'Anda mesti memilih fail untuk diimport.';
-$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Anda akan menggunakan pilihan susun atur baru. Ini dapat disesuaikan dan dipratonton menggunakan Editor Tema kami. &lt;0&gt; Ketahui lebih lanjut</0> .';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Anda akan menggunakan pilihan susun atur baru. Ini dapat disesuaikan dan dipratonton menggunakan Editor Tema kami. <0> Ketahui lebih lanjut</0> .';
 
 ///
 /// Theming UI
@@ -351,7 +351,7 @@ $Definition['This lab cannot be disabled because it is required by the current t
 $Definition['Need more help?'] = 'Perlukan lebih banyak pertolongan?';
 $Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Mengintegrasikan Halaman & Komponen Asas ke Tema Anda';
 $Definition['Enable and test out the latest Vanilla features.'] = 'Aktifkan dan uji ciri Vanilla terkini.';
-$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Makmal &lt;0 /&gt; perlu dikonfigurasikan agar sesuai dengan tema tersuai anda. Ini boleh dilakukan dengan menggunakan editor tema baru kami. &lt;1&gt; Ketahui lebih lanjut.</1>';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Makmal <0 /> perlu dikonfigurasikan agar sesuai dengan tema tersuai anda. Ini boleh dilakukan dengan menggunakan editor tema baru kami. <1> Ketahui lebih lanjut.</1>';
 $Definition['Usercards'] = 'Kad Pengguna';
 $Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Kad pengguna membolehkan anda mendapatkan gambaran ringkas sebaris maklumat pengguna. Semasa melihat catatan dan papan peringkat, klik pada nama pengguna untuk melihat kad yang menunjukkan maklumat asas pengguna tanpa perlu menavigasi dari halaman. Aktifkan ciri ini untuk menambahkan kad nama ke tema tersuai anda.";
 $Definition['New Search Page'] = 'Halaman Carian Baru';

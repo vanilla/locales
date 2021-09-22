@@ -43,7 +43,7 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Khetha 
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Khetha ingqikithi yaleli bandla elingaphansi. <0> Funda kabanzi </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Khetha ukuthi ukuphatha kanjani konke okuqukethwe okuhambisana ne-akhawunti yomsebenzisi ye-%s (imibono, imilayezo, njll).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Ungakhetha i-algorithm yangokwezifiso ukusayina izicelo zakho. I-hash algorithm kumele futhi isetshenziswe kulabhulali yakho yekhasimende. Khetha i-md5 uma ungaqiniseki ukuthi yini okufanele uyikhethe.';
-$Definition['Choose the page people should see when they visit <0/>'] = 'Khetha ikhasi abantu okufanele balibone lapho bevakashela i- &lt;0 /&gt;';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Khetha ikhasi abantu okufanele balibone lapho bevakashela i- <0/>';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Khetha ukwakheka okuthandwayo kohlu lwezigaba.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Khetha isakhiwo esithandwayo sohlu lwezingxoxo.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Khetha ukwakheka okuncamelayo kohlu lwezigaba. Ungahlela Ukuhlelwa Kwethayili.';
@@ -264,7 +264,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'Unga
 $Definition['You can place files in your /uploads folder.'] = 'Uma ifayela lakho likhulu kakhulu ukulayisha ngokuqondile kuleli khasi ungalibeka kufolda yakho / yokulayisha. Qinisekisa igama lefayela okuqala ngegama elithi <b>ukuthekelisa</b> kanye imikhawulo nomunye <b>.txt, .gz.</b>';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Ungacacisa ubude obuphakathi bokuposa ukuze ukhubaze okuthunyelwe okufushane.';
 $Definition['You must select a file to import.'] = 'Kufanele ukhethe ifayela elizolingenisa.';
-$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Usuzosebenzisa inketho yesakhiwo esisha. Lokhu kungenziwa ngokwezifiso futhi kubukwe kuqala kusetshenziswa i-Theme Editor yethu. &lt;0&gt; Funda kabanzi</0> .';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Usuzosebenzisa inketho yesakhiwo esisha. Lokhu kungenziwa ngokwezifiso futhi kubukwe kuqala kusetshenziswa i-Theme Editor yethu. <0>Funda kabanzi</0>.';
 
 ///
 /// Theming UI
