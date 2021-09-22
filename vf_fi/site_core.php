@@ -1774,6 +1774,7 @@ $Definition['Username already exists.'] = 'Kyseinen käyttäjätunnus on jo olem
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Käyttäjätunnus voi sisältä vain kirjaimia, numeroita ja alaviivoja.';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Tunnukset voivat sisältää vain kirjaimia, numeroita ja alaviivoja. Käyttäjätunnuksen pituuden on oltava 3-20 merkkiä.';
 $Definition['UsernameError'] = 'Tunnukset voivat sisältää vain kirjaimia, numeroita ja alaviivoja. Käyttäjätunnuksen pituuden on oltava 3-20 merkkiä.';
+$Definition['{Username} has requested to join {Group}.'] = '{Username} on pyytänyt liittymistä ryhmään {Group}.';
 $Definition['Username or email'] = 'Käyttäjätunnus tai sähköpostiosoite';
 $Definition['User Not Found'] = 'Käyttäjää ei löytynyt';
 $Definition['User not found.'] = 'Pahoittelut, antamallasi sähköpostiosoitteella tai käyttäjätiedoilla ei löytynyt tunnusta.';

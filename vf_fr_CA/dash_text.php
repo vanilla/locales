@@ -20,6 +20,7 @@ $Definition['Allow links to be transformed'] = 'Permettez aux liens d\'être tra
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Autorisez les utilisateurs disposant de la permission %s à modifier leurs propres avatars depuis leurs pages de profil dans Vanilla.';
 $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de nombreuses fonctionnalités à votre forum Vanilla.<br />
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
+$Definition['Apply Layout'] = 'Appliquer la mise en page';
 $Definition['Are you sure want to delete this theme? It will be permanently deleted.'] = 'Voulez-vous vraiment supprimer ce thème? Il sera définitivement supprimé.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
 $Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type « non-confirmé » est nécessaire pour utiliser la confirmation mail.';
@@ -53,7 +54,9 @@ $Definition['Choose how to handle all of the content associated with the user ac
 $Definition['Choose Image'] = 'Choisissez une image';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Vous pouvez sélectionner un autre algorithme de hashage pour signer vos requêtes. L\'algorithme de hashage doit également être utilisé dans votre librairie client. Choisissez md5 si vous ne savez pas quoi choisir.';
 $Definition['Choose the order items are sorted.'] = 'Choisissez la commande les articles sont triés.';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Choisissez la page que les gens doivent voir lorsqu\'ils visitent <0/>';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Choisissez la mise en page préférée pour les listes de catégories.';
+$Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Choisissez la mise en page préférée pour les listes de catégories. Vous pouvez modifier la disposition en mosaïque.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Choisissez la mise en page préférée pour les listes de discussions.';
 $Definition['Color Overlay'] = 'Superposition de couleurs';
 $Definition['Continue Import'] = 'Continuer l\'importation';
@@ -95,6 +98,7 @@ $Definition['Font URL'] = 'URL de la police';
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Forcer l\'accès au tableau de bord via cette url <em>(non recommandé)</em>';
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Par exemple, en ajoutant une exclusion de type courriel pour la valeur « *@example.com », vous pouvez interdire l\'accès à tous les utilisateurs ayant des adresses de courriel de « example.com ».';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Pour des questions de référencement web, les robots d\'indexation des moteurs de recherche sont exclus de la règle forçant à voir le forum via l\'url distante.';
+$Definition['Foundation Layout'] = 'Disposition des fondations';
 $Definition['Full Bleed'] = 'Purge complète';
 
 $Definition['Garden.Import.Complete.Description'] = 'Vous avez terminé l\'importation avec succès.
@@ -135,6 +139,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Lancez votre communauté et améliorez l\'implication de vos utilisateurs.';
 
+$Definition['Labs'] = 'Laboratoires';
 $Definition['Learn about custom routing.'] = 'Apprenez-en à propos du routage personnalisé.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Apprenez comment changer l\'apparence de votre forum du tout au tout : téléchargez votre logo, définissez votre page d\'accueil, choisissez un thème et personnalisez-le.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apprenez à utiliser les fonctionnalités de base de votre forum.';
@@ -216,10 +221,12 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Égayez vos emails en ajoutant votre logo et en personnalisant les couleurs.';
 $Definition['Start Import'] = 'Commencer l\'importation';
 $Definition['Start the first discussion.'] = 'Faites rouler la balle dans votre communauté <a href="{/post/discussion,url}"> en amorçant les premières discussions </a>maintenant.';
+$Definition['Subcommunities'] = 'Sous-communautés';
 
 $Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] = 'Le balisage permet aux utilisateurs d\'ajouter une balise aux discussions qu\'ils lancent afin de les rendre plus visibles.';
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Les modèles sont les thèmes standard. Pour les personnaliser, vous devez créer une copie.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'La méthode d\'authentification %s ne dispose pas d\'options de configuration.';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Le laboratoire <0/> doit être configuré pour correspondre à votre thème personnalisé. Cela peut être fait en utilisant notre nouvel éditeur de thème. <1>En savoir plus.</1>';
 $Definition['The addon could not be enabled because it generated a fatal error: <pre>%s</pre>'] = 'L\'extension n\'a pu être activée, car elle a générée une erreur  : <pre>%s</pre>';
 $Definition['The addon has already been downloaded.'] = 'L\'add-on a déjà été téléchargé.';
 $Definition['The banner logo appears at the top of your forum.'] = 'Le logo du bandeau apparaît en haut de votre forum.';
@@ -230,7 +237,7 @@ $Definition['The database user you specified does not have permission to access 
 $Definition['The following structure changes are required for your database.'] = 'Les changements structurels suivants sont requis pour votre base de données.';
 $Definition['The import file does not contain any data.'] = 'Le fichier import ne contient pas de données.';
 $Definition['The import file is not in the correct format.'] = 'Le fichier import n\'est pas du bon format.';
-$Definition['The location of the jsonp formatted authentication data.'] = 'L\'emplacement des données d\'authentification formattées jsonp.';
+$Definition['The location of the authentication endpoint.'] = 'L\'emplacement du point de terminaison d\'authentification.';
 $Definition['ThemeHelp'] = 'Les thèmes vous permettent de modifier l\'apparence de votre forum.<br />Une fois qu\'un thème a été ajouté à votre dossier %s, vous pouvez l\'activer ici.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'L\'aperçu du thème est limité à l\'affichage du modèle et du CSS du thème.';
 $Definition['Theming Guide'] = 'Guide de thème';
@@ -252,6 +259,7 @@ $Definition['This page lists the endpoints of your API.'] = 'Cette page réperto
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] = 'Ce rôle est une information personnelle. Seuls les utilisateurs autorisés à afficher les informations personnelles les verront.';
 $Definition['This setting loads the page before executing Javascript.'] = 'Ce paramètre charge la page avant d\'exécuter Javascript, ce qui peut améliorer votre référencement. <br> <strong>** Attention: l\'activation de cette fonctionnalité peut entraîner des erreurs Javascript sur votre site. **</strong>';
 $Definition['This theme cannot be deleted because it is the currently applied theme.'] = 'Ce thème ne peut pas être supprimé car il s\'agit du thème actuellement appliqué.';
+$Definition['Tiled Layout'] = 'Disposition en mosaïque';
 $Definition['Title Bar'] = 'Barre de titre';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Pour intégrer votre forum Vanilla à votre site web, utilisez le code suivant.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Il y a trop d\'adresses. Nous allons immédiatement vous envoyer %s adresses. ';
@@ -260,7 +268,9 @@ $Definition['TouchIconDescription'] = 'L\'icône tactile apparaît lorsque vous 
 $Definition['Twitter Connect allows users to sign in using their Twitter account.'] = '<b>Twitter Connect</b> permet aux utilisateurs de se connecter en utilisant leur compte Twitter.<br /><b>Vous devez enregistrer votre application avec Twitter pour que ce module fonctionne.</b>';
 
 $Definition['Usercards'] = 'Cartes d\'utilisateur';
+$Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Les cartes utilisateur vous permettent d\'obtenir un instantané rapide en ligne des informations d\'un utilisateur. Lors de l\'affichage des publications et des classements, cliquez sur le nom d\'utilisateur pour voir une carte présentant les informations de base du profil des utilisateurs sans avoir à quitter la page. Activez cette fonctionnalité pour ajouter des cartes d\'utilisateur à votre thème personnalisé.';
 $Definition['User inputs are based on the global background and text colors.'] = 'Les entrées utilisateur sont basées sur l\'arrière-plan global et les couleurs du texte.';
+$Definition['User Profile'] = 'Profil de l\'utilisateur';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Les utilisateurs peuvent se connecter à votre site en utilisant leur compte Twitter.';
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Utilisez le bouton en haut de la page pour créer une règle d\'interdiction.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Utilisez le module WordPress pour intégrer les commentaires Vanilla dans votre blog, ou utilisez le code universel pour les intégrer sur toute autre plateforme.';
@@ -289,6 +299,7 @@ $Definition['When enabled, you can manage products, and group subcommunities by 
 $Definition['When you select Full Bleed, your background is transparent.'] = 'Lorsque vous sélectionnez Fond perdu, votre arrière-plan est transparent.';
 $Definition['Which reactions you use really depends on your community.'] = 'Les réactions que vous utilisez dépendent vraiment de votre communauté, mais nous vous recommandons de garder quelques points à l\'esprit.';
 
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Vous êtes sur le point d\'appliquer une nouvelle option de mise en page. Cela peut être personnalisé et prévisualisé à l\'aide de notre éditeur de thème. <0>En savoir plus</0> .';
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'En ajoutant une exclusion de type IP pour la valeur « 111.111.111.* », vous pouvez interdire l\'accès à tous les utilisateurs avec des adresses IP ayant pour préfixe « 111.111.111 ».';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Vous pouvez interdire l\'accès à des adresses IP, adresses de courriel et noms d\'utilisateurs.';
 $Definition['You can choose from one of the different styles this theme offers.'] = 'Vous pouvez choisir parmi l\'un des différents styles proposés par ce thème.';

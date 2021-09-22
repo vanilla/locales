@@ -1786,6 +1786,7 @@ $Definition['Username already exists.'] = 'Nombre de usuario ya existe.';
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Los nombres de usuarios solamente pueden contener letras, números y guiones bajos. ';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'El nombre de usuario solamente puede contener letras, números, guiones bajos y deben tener entre 3 a 20 caracteres de largo.';
 $Definition['UsernameError'] = 'El nombre de usuario solamente puede contener letras, números, guiones bajos y deben tener entre 3 a 20 caracteres de largo.';
+$Definition['{Username} has requested to join {Group}.'] = '{Username} ha solicitado unirse a {Group}.';
 $Definition['Username or email'] = 'Nombre de usuario o correo electrónico';
 $Definition['User Not Found'] = 'Usuario no hallado';
 $Definition['User not found.'] = 'Lo sentimos, no se encontró ninguna cuenta relacionada con el correo electrónico/nombre de usuario que escribiste. ';

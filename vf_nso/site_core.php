@@ -735,7 +735,6 @@ $Definition['Groups'] = 'Dihlopha';
 $Definition['groups'] = 'dihlopha';
 $Definition['Groups Menu'] = 'Dihlopha';
 $Definition['Guest'] = 'Moeng';
-$Definition['GuestModule.Message'] = 'Go bonala eka o yo mofsa mo. Ge o nyaka go tsena, kgotla e nngwe ya dikonotswana tše!';
 $Definition['Guests'] = 'Baeng';
 
 $Definition['Hang on a sec while we sign you out.'] = 'Emanyana ge re dutše re go ntšha.';

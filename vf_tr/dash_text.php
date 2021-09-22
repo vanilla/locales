@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     '%s kullanıcılarına kendi avatarlarını Vanilla profil sayfalarından değiştirme izni verin.';
 $Definition['ApplicationHelp'] = 'Uygulamalar sitenize geniş bir işlevsellik grubu eklemenize izin verir. <br />Bir uygulama %s klasörünüze eklendikten sonra, buradan etkinleştirebilir veya devre dışı bırakabilirsiniz.';
+$Definition['Apply Layout'] = 'Düzeni Uygula';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Doğru veritabanı adını girdiğinizden emin misiniz? Belki, yanlış girmiş olabilirsiniz. Veritabanı raporu: <code>%s</code> ';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatarlar bu yüksekliği aşarsa ölçeklendirilir.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatarlar bu genişliği aşarsa ölçeklendirilir.';
@@ -42,8 +43,10 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Lütfen
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Alt topluluk için bir tema seçin. <0>Daha fazlasını oku</0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Kullanıcı hesabıyla ilişkili tüm içeriğin nasıl işleneceğini seçin. %s (yorumlar, mesajlar, vb.)';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'İsteklerinizi imzalamak için özel bir karma algoritma seçebilirsiniz. Karma algoritması, istemci kitaplığınızda da kullanılmalıdır. Ne seçeceğinizden emin değilseniz md5\'i seçin.';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Kullanıcıların <0/> sayfasını ziyaret ettiklerinde görmeleri gereken sayfayı seçin';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Kategori listeleri için tercih edilen düzeni seçin.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Tartışma listeleri için tercih edilen düzeni seçin.';
+$Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Kategori listeleri için tercih edilen düzeni seçin. Döşenmiş Düzeni düzenleyebilirsiniz.';
 $Definition['Choose the order items are sorted.'] = 'Öğelerin sıralanacağı sırayı seçin.';
 $Definition['Continue Import'] = 'İçe Aktarmaya Devam';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Alınan dosyada hata. %s satırını kontrol edin';
@@ -77,7 +80,7 @@ $Definition['Failed to connect to the database with the username and password yo
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Gösterge tablosunu yalnızca bu URL\'den erişilebilir olmaya zorlayın <em>(önerilmez)</em>';
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Örneğin, "*@örnek.com" değeriyle bir e-posta tipi engel ekleyerek, "örnek.com" adresinden e-postası olan tüm kullanıcıları yasaklayabilirsin.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO amacıyla, arama motoru tarayıcılarının uzak url\'deki forumu görüntülemeye zorlanması engellenmiştir.';
-
+$Definition['Foundation Layout'] = 'Temel Düzeni';
 $Definition['Garden.Import.Complete.Description'] = 'Bir içe aktarma işlemini başarıyla tamamladınız.
     Hazır olduğunuzda <b>Son\'u</b> tıklayın.';
 $Definition['Garden.Import.Continue.Description'] = 'Bir içe aktarmanın ortasındaymışsınız gibi görünür. Lütfen aşağıdaki seçeneklerden birini seçin.';
@@ -113,7 +116,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
     'Bir yayında izin verilen azami karakter sayısını makul bir boyuta tutmak iyi bir fikirdir.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Topluluğun için çalışmaya başla ve kullanıcı katılımını arttır.';
-
+$Definition['Labs'] = 'Laboratuvarlar';
 $Definition['Learn about custom routing.'] = 'Özel yönlendirme hakkında bilgi edinin.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Forumunuzun görünüşünü ve hissini nasıl değiştireceğinizi öğrenin: logonuzu yükleyin, ana sayfanızı ayarlayın, bir tema seçin ve özelleştirin.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Forumunuzun temel işlevlerini nasıl kullanacağınızı öğrenin.';
@@ -187,7 +190,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Logo ekleyerek ve renkleri özelleştirerek e-postalarınızı yükseltin.';
 $Definition['Start Import'] = 'İçe Aktarımı Başlat';
 $Definition['Start the first discussion.'] = '<a href="{/post/discussion,url}">İlk tartışma başlığını şimdi açarak</a> topluluğunuza hareket kazandırın.';
-
+$Definition['Subcommunities'] = 'alt topluluklar';
 $Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] =
     'Etiketleme, kullanıcıların daha keşfedilebilir hale getirmek için başlattıkları tartışmalara bir etiket eklemesine olanak tanır.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = '%s Doğrulayıcı, herhangi bir özel yapılandırma seçeneğine sahip değildir.';
@@ -202,7 +205,7 @@ $Definition['The database user you specified does not have permission to access 
 $Definition['The following structure changes are required for your database.'] = 'Veritabanınız için aşağıdaki yapı değişiklikleri gereklidir.';
 $Definition['The import file does not contain any data.'] = 'İçe aktarılan dosya herhangi bir veri içermiyor.';
 $Definition['The import file is not in the correct format.'] = 'İçe aktarılan dosya doğru biçimde değil.';
-$Definition['The location of the jsonp formatted authentication data.'] = 'Jsonp formatlanmış kimlik doğrulama verilerinin yeri.';
+$Definition['The location of the authentication endpoint.'] = 'Kimlik doğrulama uç noktasının konumu.';
 $Definition['ThemeHelp'] = 'Temalar görünümü değiştirmenizi sağlar & Bakın ve sitenizde deneyin. %s Tema klasörünüze bir tema eklendikten sonra, buradan etkinleştirebilirsiniz.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Tema önizlemesi, temanın şablonunu ve css görüntülemekle sınırlıdır.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Parola Doğrulayıcı\'nın herhangi bir özel yapılandırma seçeneği yoktur.';
@@ -222,6 +225,7 @@ $Definition['This role is personal info. Only users with permission to view pers
     'Bu rol kişisel bilgidir. Yalnızca kişisel bilgileri görüntüleme izni olan kullanıcılar görecektir.';
 $Definition['This setting loads the page before executing Javascript.'] =
     'Bu ayar sayfayı,  SEO\'nuzu iyileştirebilecek Javascript\'i çalıştırmadan önce yükler.<br><strong>**Uyarı: Bu özelliği etkinleştirmek, sitenizde Javascript hatalarının oluşmasına sebep olabilir.**</strong>';
+$Definition['Tiled Layout'] = 'Döşeme Düzeni';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Vanilla forumunuzu web sitenize yerleştirmek için aşağıdaki kodu kullanın.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Çok fazla adres! Bir kerede %s adrese göndeririz.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Kötüye kullanımı önlemek için, bazı araçlar içeriği otomatik olarak gizler ve bir moderatör tarafından manuel olarak onaylanana kadar burada listeler.';
@@ -232,7 +236,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Yasaklama kuralı oluşturmak için sayfanın üst kısmındaki düğmeyi kullanın.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Blogunuzda Vanilla Yorumları ayarlamak için WordPress eklentisini kullanın veya başka bir platformda Vanilla Yorumları ayarlamak için evrensel kodu kullanın.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Kullanıcılar, Twitter hesaplarını kullanarak sitenizde oturum açabilir.';
-
+$Definition['User Profile'] = 'Kullanıcı profili';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Dışa Aktar: %s, Kaynak: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilya İstatistikleri şu anda devre dışı';
 $Definition['Verify and restore'] = 'Doğrula ve geri yükle';
@@ -248,6 +252,7 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Uyarı</b>: Sunucu yapılandırmanız hızlı veri yüklemeyi desteklemiyor. Sunucu yapılandırmanız hızlı veri yüklemeyi desteklemiyor. Çok büyük bir dosyayı içe aktarıyorsanız (ör. 200.000\'den fazla yorum) yapılandırmanızı değiştirmeyi düşünebilirsiniz. Daha fazla bilgi için <a href="http://vanillaforums.com/porter">buraya</a> tıklayın.';
 $Definition['Warning: This is for advanced users.'] = '<b>Uyarı</b>: Bu, ileri düzey kullanıcılar içindir ve web sunucunuzda ek değişiklikler yapmanızı gerektirir. Bu genellikle yalnızca adanmış veya vps hostinginiz varsa kullanılabilir. Ne yaptığınızı bilmiyorsanız bunu denemeyin.';
+$Definition['Webhooks'] = 'Web kancaları';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Katılımı teşvik etmek için çoğunluk geri bildirimlerinden dolayı öneriyoruz.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Etkinleştirildiğinde ürünleri yönetebilir ve alt ürünleri bu ürünlerle gruplayabilirsiniz.';
 $Definition['Which reactions you use really depends on your community.'] =
@@ -260,6 +265,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'JsCo
 $Definition['You can place files in your /uploads folder.'] = 'Dosyanız doğrudan bu sayfaya yüklemek için çok büyükse, dosyayı  /uploads klasörüne yerleştirebilirsiniz. Dosya adının <b>export</b> sözcüğü ile başladığından ve <b>.txt, .gz</b> sözcüklerinden biriyle bitdiğinden emin olun.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Kısa gönderileri engellemek için asgari bir ileti uzunluğu belirleyebilirsiniz.';
 $Definition['You must select a file to import.'] = 'İçe aktarmak için bir dosya seçmek zorundasınız.';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Yeni bir düzen seçeneği uygulamak üzeresiniz. Bu, Tema Editörümüz kullanılarak özelleştirilebilir ve önizlenebilir. <0>Daha fazla bilgi</0> .';
 
 ///
 /// Theming UI

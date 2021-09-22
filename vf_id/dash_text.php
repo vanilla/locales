@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Izinkan pengguna dengan izin %s untuk mengubah avatar mereka sendiri dari halaman profil mereka di Vanilla.';
 $Definition['ApplicationHelp'] = 'Aplikasi memungkinkan anda untuk menambah grup yang lebih besar dari fungsionalitas pada situs anda.<br />Segera setelah aplikasi ditambahkan pada folder %s anda, anda dapat mengaktifkannya atau menonaktifkannya di sini.';
+$Definition['Apply Layout'] = 'Terapkan Tata Letak';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Anda yakin telah mengisi nama host basisdata dengan benar? Mungkin anda salah mengetiknya? Basisdata melaporkan: <code>%s</code>';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatar akan diperkecil jika melebihi ketinggian ini.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatar akan diperkecil jika melebihi lebar ini.';
@@ -42,8 +43,10 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Pilih s
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Pilih tema untuk subkomunitas ini. <0> Baca lebih lanjut </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Pilihlah cara menangani semua  konten yang terkait dengan akun pengguna %s (komentar, pesan, dll).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Anda dapat memilih hash algoritma yang disesuaikan untuk menandai permintaan anda. Hash algoritma harus digunakan juga pada library client anda. Pilih md5 bila anda tidak yakin apa yang dipilih.';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Pilih halaman yang harus dilihat orang ketika mereka mengunjungi </>';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Pilih tata letak yang disukai untuk daftar kategori.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Pilih tata letak yang disukai untuk daftar diskusi.';
+$Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Pilih tata letak yang disukai untuk daftar kategori. Anda dapat mengedit Tata Letak Ubin.';
 $Definition['Choose the order items are sorted.'] = 'Pilih bagaimana sortir item pesanan.';
 $Definition['Continue Import'] = 'Lanjutkan Impor';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Tidak dapat mengurai file yang diimpor. Masalahnya ada di sekitar baris %s.';
@@ -77,7 +80,7 @@ $Definition['Failed to connect to the database with the username and password yo
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Paksakan agar dashboard hanya bisa diakses dari url ini saja <em>(tidak direkomendasikan)</em>';
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Misalnya, Anda dapat melarang semua pengguna dengan alamat email dari "contoh.com" dengan menambahkan larangan tipe email dengan nilai "*@contoh.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Untuk kepentingan SEO, crawler mesin pencari tidak disertakan pada paksaan melihat forum dari url terkendali.';
-
+$Definition['Foundation Layout'] = 'Tata Letak Yayasan';
 $Definition['Garden.Import.Complete.Description'] = 'Anda berhasi menyelesaikan impor. Klik <b>Selesai</b> jika Anda sudah siap.';
 $Definition['Garden.Import.Continue.Description'] = 'Tampaknya Anda berada di tengah-tengah impor. Silakan pilih salah satu opsi berikut.';
 $Definition['Garden.Import.InputInstructions'] = 'Masukkan email dan password admin dari data yang sedang diimpor.';
@@ -112,7 +115,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
     'Sebaiknya pertahankan jumlah karakter maksimum yang diperbolehkan dalam pos hingga ukuran yang wajar.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Genjot komunitas anda dan tingkatkan hubungan dengan pengguna.';
-
+$Definition['Labs'] = 'laboratorium';
 $Definition['Learn about custom routing.'] = 'Pelajari lebih lanjut tentang kostumasi route';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Pelajari bagaimana mengubah sepenuhnya tampilan dan rasa forum anda: unggah logo anda, setel laman berandanya, memilih sebuah tema dan menyesuaikannya.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Pelajari bagaimana menggunakan fungsional dasar dari forum anda.';
@@ -186,7 +189,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Rapikan email Anda dengan menambahkan logo dan menyesuaikan warna.';
 $Definition['Start Import'] = 'Mulai Impor';
 $Definition['Start the first discussion.'] = 'Meriahkan komunitas Anda dengan <a href="{/post/discussion,url}">memulai diskusi pertama</a> sekarang.';
-
+$Definition['Subcommunities'] = 'Subkomunitas';
 $Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] =
     'Pemberian tag memungkinkan pengguna untuk menambahkan tag pada diskusi yang mereka mulai untuk membuatnya lebih mudah ditemukan.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'Autentikator %s tidak memiliki opsi konfigurasi yang disesuaikan.';
@@ -201,7 +204,7 @@ $Definition['The database user you specified does not have permission to access 
 $Definition['The following structure changes are required for your database.'] = 'Perubahan struktur di bawah ini diperlukan untuk basisdata anda.';
 $Definition['The import file does not contain any data.'] = 'File yang diimpor tidak memiliki data apapun.';
 $Definition['The import file is not in the correct format.'] = 'File yang diimpor tidak dalam format yang benar.';
-$Definition['The location of the jsonp formatted authentication data.'] = 'Lokasi dari jsonp formatted authentication data.';
+$Definition['The location of the authentication endpoint.'] = 'Lokasi titik akhir otentikasi.';
 $Definition['ThemeHelp'] = 'Tema memungkinkan anda untuk mengubah tampilan & rasa dari situs.<br />Segera setelah sebuah tema ditambahkan pada folder %s anda, and adapat mengaktifkannya di sini.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Pratinjau tema terbatas untuk menampilkan templat dan css tema.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Password autentikator tidak memiliki opsi konfigurasi yang disesuaikan.';
@@ -221,6 +224,7 @@ $Definition['This role is personal info. Only users with permission to view pers
     'Peran ini adalah info pribadi. Hanya pengguna dengan izin untuk melihat info pribadi yang akan melihatnya.';
 $Definition['This setting loads the page before executing Javascript.'] =
     'Pengaturan ini memuat halaman sebelum mengeksekusi Javascript yang dapat meningkatkan SEO Anda. <br> <strong>** Peringatan: Mengaktifkan fitur ini dapat menyebabkan kesalahan Javascript di situs Anda. **</strong>';
+$Definition['Tiled Layout'] = 'Tata Letak Ubin';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Untuk menanamkan forum Vanilla anda pada situs anda, gunakan kode berikut.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Terlalu banyak alamat tujuan! Kami akan mengirim hingga %s alamat dalam satu waktu';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Untuk mencegah tindak penyalahgunaan, beberapa perangkat secara otomatis menyembunyikan konten dan daftarnya di sini hingga disetujui secara manual oleh moderator.';
@@ -231,7 +235,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Gunakan tombol di bagian atas halaman untuk membuat aturan larangan.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Gunakan plugin WordPress untuk menyetel Komentar Vanilla pada blog anda, atau gunakan kode universal untuk menyetel Komentar Vanilla pada platform lainnya.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Pengguna dapat masuk ke situs Anda menggunakan akun Twitter mereka.';
-
+$Definition['User Profile'] = 'Profil pengguna';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Ekspor Vanilla: %s, Sumber: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Statistik Vanilla saat ini dinonaktifkan';
 $Definition['Verify and restore'] = 'Verifikasi dan pulihkan';
@@ -247,6 +251,7 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Peringatan</b> : Konfigurasi server Anda tidak mendukung pemuatan data yang cepat. Jika Anda mengimpor file yang sangat besar (mis. Lebih dari 200.000 komentar), Anda mungkin ingin mempertimbangkan untuk mengubah konfigurasi Anda. Klik di <a href="http://vanillaforums.com/porter">sini</a> untuk informasi lebih lanjut.';
 $Definition['Warning: This is for advanced users.'] = '<b>Peringatan</b>: Ini untuk pengguna tingkat lanjut dan memerlukan perubahan tambahan pada web server anda. Ini biasanya hanya tersedia bila anda menggunakan dedicated hosting atau vps. Jangan lakukan ini bila anda tidak yakin untuk melakukannya.';
+$Definition['Webhooks'] = 'Webhook';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Kami merekomendasikan sebagian besar reaksi positif untuk mendorong partisipasi.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Saat diaktifkan, Anda dapat mengelola produk, dan mengelompokkan subkomunitas oleh produk-produk tersebut.';
 $Definition['Which reactions you use really depends on your community.'] =
@@ -259,6 +264,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'Anda
 $Definition['You can place files in your /uploads folder.'] = 'Jika berkas Anda terlalu besar untuk diunggah langsung ke laman ini Anda dapat memasukkannya ke folder /uploads Anda. Pastikan nama berkas dimulai dengan kata <b>ekspor</b> dan berakhir dengan salah satu dari ekstensi <b>.txt, .gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Anda dapat menentukan panjang posting minimum untuk mencegah posting pendek.';
 $Definition['You must select a file to import.'] = 'Anda harus memilih sebuah file untuk diimpor.';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Anda akan menerapkan opsi tata letak baru. Ini dapat disesuaikan dan dipratinjau menggunakan Editor Tema kami. <0>Pelajari lebih lanjut</0> .';
 
 ///
 /// Theming UI
