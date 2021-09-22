@@ -1,6 +1,6 @@
 <?php
 // phpcs:ignoreFile
-$Definition["(No Body)"] = "(Ningún cuerpo)";
+$Definition["(No Body)"] = "(Sin cuerpo)";
 $Definition["(Untitled)"] = "(Sin título)";
 $Definition["<0 /> out of <1 /> people found this helpful"] = "A <0 /> de <1 /> personas esto les pareció útil
 ";

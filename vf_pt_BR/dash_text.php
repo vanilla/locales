@@ -23,6 +23,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Permita que os usuários com permissão %s alterem seus próprios avatares de suas páginas de perfil no Vanilla.';
 $Definition['ApplicationHelp'] = 'Aplicações permitem que você adicione amplos grupos de funcionalidade ao seu site.<br />Uma vez que a aplicação for adicionada à pasta %s, você poderá habilitá-la aqui.';
+$Definition['Apply Layout'] = 'Aplicar Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Você tem certeza de que digitou o nome do host do banco de dados corretamente? Talvez você tenha se equivocado. O banco de dados reportou: <code>%s</code>';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Os avatares serão reduzidos se excederem essa altura.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Os avatares serão reduzidos se excederem essa largura.';
@@ -43,8 +44,10 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Escolha
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Escolha um tema para esta subcomunidade. <0> Leia mais </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Escolha como gerenciar todo o conteúdo associado ao membro da conta %s (comentários, mensagens, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Você pode escolher um algoritmo de hash personalizado para assinar seus pedidos. O algoritmo hash também deve ser usado em sua biblioteca cliente. Escolha md5 se não tiver certeza de qual escolher.';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Escolha a página que as pessoas devem ver ao visitar <0 />';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Escolha o layout preferido para listas de categorias.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Escolha o layout preferido para listas de discussões.';
+$Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Escolha o layout preferido para listas de categorias. Você pode editar o Layout lado a lado.';
 $Definition['Choose the order items are sorted.'] = 'Escolha os itens do pedido são classificados.';
 $Definition['Continue Import'] = 'Continuar importação';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Não foi possível analisar o arquivo importado. O problema está próximo à linha %s.';
@@ -78,7 +81,7 @@ $Definition['Failed to connect to the database with the username and password yo
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force o Painel a ser acessado somento através desta URL <em>(não recomendado)</em>';
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Por exemplo, você pode banir todos os endereços de e-mail de "exemplo.com" adicionando um banimento de e-mail com o valor "*@exemplo.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Para fins SEO, crawlers de mecanismos de busca não precisam passar pela URL remota para ver o fórum.';
-
+$Definition['Foundation Layout'] = 'Layout de Fundação';
 $Definition['Garden.Import.Complete.Description'] = 'Você concluiu com êxito uma importação.
     Clique em <b>Concluído</ b> quando estiver pronto.';
 $Definition['Garden.Import.Continue.Description'] = 'Parece que você está no meio de uma importação.
@@ -115,7 +118,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
     'É uma boa idéia manter o número máximo de caracteres permitido em uma postagem em uma quantidade razoável.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Dê o ponta-pé inicial em sua comunidade e aumente o engajamento.';
-
+$Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Aprenda sobre roteamento personalizado.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda como alterar completamente a aparência do seu fórum: faça upload do seu logotipo, defina sua página inicial, escolha um tema e personalize-o.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a como usar as funções básicas do seu fórum.';
@@ -189,7 +192,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Aprimore seus e-mails adicionando um logotipo e personalizando as cores.';
 $Definition['Start Import'] = 'Iniciar importação';
 $Definition['Start the first discussion.'] = 'Faça a bola rolar em sua comunidade <a href="{/post/discussion,url}">iniciando a primeira discussão</a> agora.';
-
+$Definition['Subcommunities'] = 'Subcomunidades';
 $Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] =
     'A marcação permite que os usuários adicionem uma tag às discussões iniciadas para torná-las mais detectáveis.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'O autenticador %s não possui nenhuma opção de configuração personalizada.';
@@ -204,7 +207,7 @@ $Definition['The database user you specified does not have permission to access 
 $Definition['The following structure changes are required for your database.'] = 'As seguintes alterações de estrutura são necessárias para o seu banco de dados.';
 $Definition['The import file does not contain any data.'] = 'O arquivo de importação não contém nenhum dado.';
 $Definition['The import file is not in the correct format.'] = 'O arquivo de importação não está no formato correto.';
-$Definition['The location of the jsonp formatted authentication data.'] = 'A localização dos dados de autenticação formatados pelo jsonp.';
+$Definition['The location of the authentication endpoint.'] = 'A localização do ponto de extremidade de autenticação.';
 $Definition['ThemeHelp'] = 'Os temas permitem alterar a aparência do seu site. <br /> Depois que um tema for adicionado à sua pasta %s, você poderá habilitá-lo aqui.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'A visualização do tema é limitada à exibição do modelo e css do tema.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'O autenticador de senha não tem nenhuma opção de configuração personalizada.';
@@ -224,6 +227,7 @@ $Definition['This role is personal info. Only users with permission to view pers
     'Esta função é informação pessoal. Somente usuários com permissão para visualizar informações pessoais verão essas informações.';
 $Definition['This setting loads the page before executing Javascript.'] =
     'Essa configuração carrega a página antes de executar o Javascript, o que pode melhorar seu SEO. <br> <strong>** Aviso: ativar esse recurso pode causar erros de Javascript no seu site. **</strong>';
+$Definition['Tiled Layout'] = 'Layout lado a lado';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Para incorporar o fórum do Vanilla em outro site, use o seguinte código.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'São endereços demais! Nós iremos enviar para até %s endereços de cada vez.';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Para prevenir abuso, algumas ferramentas automaticamente escondem conteúdo e listam aqui até que seja aprovado por um moderador.';
@@ -234,7 +238,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Use o botão na parte superior da página para criar uma regra de proibição.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use o plugin para WordPress para configurar os comentários do Vanilla em seu blog, ou use o código universal para configurar em qualquer outra plataforma.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Os usuários podem logar no seu site usando suas contas do Twitter.';
-
+$Definition['User Profile'] = 'Perfil de usuário';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Exportar Vanilla: %s, Fonte: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Estatísticas do Vanilla estão desabilitadas';
 $Definition['Verify and restore'] = 'Verificar e restaurar';
@@ -250,6 +254,7 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Aviso</b> : A configuração do servidor não suporta carregamento rápido de dados. Se estiver importando um arquivo muito grande (por exemplo, mais de 200.000 comentários), convém alterar sua configuração. Clique <a href="http://vanillaforums.com/porter">aqui</a> para mais informações.';
 $Definition['Warning: This is for advanced users.'] = '<B>Aviso</ b>: Isto é para usuários avançados e requer que você faça alterações adicionais em seu servidor web. Geralmente isto só está disponível se você tiver hospedagem dedicada ou vps. Não tente se você não souber o que está fazendo.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Recomendamos principalmente reações positivas para incentivar a participação.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Quando ativado, você pode gerenciar produtos e agrupar subcomunidades por esses produtos.';
 $Definition['Which reactions you use really depends on your community.'] =
@@ -262,6 +267,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'Voc�
 $Definition['You can place files in your /uploads folder.'] = 'Se o seu arquivo for muito grande para ser carregado diretamente para esta página, você pode colocá-lo em sua pasta / uploads. Certifique-se de que o nome do arquivo começa com a palavrea <b>export</b> e termina com <b>.txt, .gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Você pode especificar um tamanho mínimo de postagem para desencorajar postagens curtas.';
 $Definition['You must select a file to import.'] = 'Você precisa selecionar um arquivo para importar.';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Você está prestes a aplicar uma nova opção de layout. Isso pode ser personalizado e visualizado usando nosso Editor de temas. <0> Saiba mais</0> .';
 
 ///
 /// Theming UI

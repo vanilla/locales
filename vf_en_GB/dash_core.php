@@ -19,6 +19,8 @@ $Definition['Force your forum to be viewed through the Remote Url'] = 'Force you
 
 $Definition['Internaltionalization & Localization'] = 'Internaltionalisation & Localisation';
 
+$Definition['Mobile Address Bar Color'] = 'Mobile Address Bar Colour';
+
 $Definition['Organize'] = 'Organise';
 $Definition['Organize Categories'] = 'Organise Categories';
 

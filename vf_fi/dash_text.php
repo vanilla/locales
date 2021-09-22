@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Anna %s -valtuudet omaaville käyttäjille mahdollisuus muuttaa omia hahmokuviaan Vanillan profiilisivuillaan.';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
+$Definition['Apply Layout'] = 'Käytä asettelua';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Oletko varma, että annoit oikean tietokannan isännän nimen? Tarkistathan oikeikirjoituksen jatkaaksesi. Tietokannan vastaus oli: <code>%s</code>';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Hahmokuvia pienennetään, jos ne ovat tätä korkeampia.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Hahmokuvia pienennetään, jos ne ovat tätä leveämpiä.';
@@ -42,8 +43,10 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Valitse
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Valitse teema tälle yhteisölle. <0> Lue lisää </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Määritä, miten haluat kohdella käyttäjän %s lähettämää sisältöä (kommentit, viestit, jne).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'You can select a custom hash algorithm to sign your requests. The hash algorithm must also be used in your client library. Choose md5 if you\'re not sure what to choose.';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Valitse sivu, jonka ihmisten pitäisi nähdä, kun he vierailevat <0/>';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Valitse kategorialuettelon suosikkiulkoasu.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Valitse haluamasi ulkoasu keskustelulistoille.';
+$Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Valitse haluamasi asettelu luokkien luetteloille. Voit muokata laatoitettua asettelua.';
 $Definition['Choose the order items are sorted.'] = 'Valitse tilauskohteet lajitellaan.';
 $Definition['Continue Import'] = 'Jatka tuontia';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Tuotavaa tiedostoa ei voitu käsitellä. Ongelma on lähellä riviä %s.';
@@ -77,7 +80,7 @@ $Definition['Failed to connect to the database with the username and password yo
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this url <em>(not recommended)</em>';
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Voit esimerkiksi estää kaikki sähköpostin "esimerkki.com" omaavat käyttäjät lisäämällä sähköpostityypin eston arvolla "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
-
+$Definition['Foundation Layout'] = 'Säätiön asettelu';
 $Definition['Garden.Import.Complete.Description'] = 'Tuonti onnistui.
    Klikkaa <b>Finished</b>, kun olet valmis.';
 $Definition['Garden.Import.Continue.Description'] = 'Sinulla on nähtävästi tuontiprosessi käynnissä. Valitse jokin seuraavista vaihtoehdoista.';
@@ -113,7 +116,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
     'Julkaisun merkkien sallittu yläraja on syytä pitää kohtuullisena.';
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
-
+$Definition['Labs'] = 'Labs';
 $Definition['Learn about custom routing.'] = 'Lue lisää mukautetusta reitityksestä.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Opi muuttamaan foorumisi ulkonäköä ja käyttötuntumaa: lataa logosi, aseta kotisivusi, valitse teema ja muokkaa sitä.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Opi käyttämään foorumisi perustoimintoja.';
@@ -187,7 +190,7 @@ $Definition['Spend a little time thinking about how you describe your site here.
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Parantele sähköpostiviestejäsi lisäämällä niihin logo ja muokkaamalla värejä. ';
 $Definition['Start Import'] = 'Aloita tuonti';
 $Definition['Start the first discussion.'] = 'Potkaise foorumisi toden teolla käyntiin <a href="{/post/discussion,url}">aloittamalla ensimmäinen keskustelu</a> nyt heti. ';
-
+$Definition['Subcommunities'] = 'Alayhteisöt';
 $Definition['Tagging allows users to add a tag to discussions they start in order to make them more discoverable. '] =
     'Tunnisteiden avulla käyttäjät voivat lisätä tunnisteita aloittamiinsa keskusteluihin helpottaakseen niiden löytämistä.';
 $Definition['The %s Authenticator does not have any custom configuration options.'] = 'Autentikoijalla %s ei ole mitään räätälöitäviä konfiguraatiovaihtoehtoja.';
@@ -202,7 +205,7 @@ $Definition['The database user you specified does not have permission to access 
 $Definition['The following structure changes are required for your database.'] = 'Tietokantasi tarvitsee seuraavat rakenteen muutokset.';
 $Definition['The import file does not contain any data.'] = 'Tuontitiedosto ei sisällä dataa.';
 $Definition['The import file is not in the correct format.'] = 'Tuontitiedosto ei ole oikeassa formaatissa.';
-$Definition['The location of the jsonp formatted authentication data.'] = 'jsonp-muotoiltujen todentamistietojen sijainti.';
+$Definition['The location of the authentication endpoint.'] = 'Todentamisen päätepisteen sijainti.';
 $Definition['ThemeHelp'] = 'Voit muuttaa teemojen avulla sivustosi ulkoasua ja asettelua.<br />Kun uusi teema on lisättynä kansioon %s, voit ottaa sen käyttöön täällä.';
 $Definition['Theme preview is limited to displaying the theme\'s template and css.'] = 'Teeman esikatselu rajoitetaan teeman pohjamallin ja CSS:n näyttämiseen.';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Autentikointi salasanalla ei vaadi erillisiä asetuksia. ';
@@ -222,6 +225,7 @@ $Definition['This role is personal info. Only users with permission to view pers
     'Tämä rooli sisältää henkilökohtaisia tietoja. Se on näkyvillä ainoastaan henkilökohtaisten tietojen katsomisoikeuden omaaville.';
 $Definition['This setting loads the page before executing Javascript.'] =
     'Tämä asetus lataa sivun ennen Javascriptin käyttöä, mikä voi parantaa hakukoneoptimointiasi.<br><strong>**Varoitus: tämän ominaisuuden käyttöönotto voi aiheuttaa Javascript-virheitä sivustollasi.**</strong>';
+$Definition['Tiled Layout'] = 'Kaakeloitu asettelu';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Käytä seuraavaa koodia upottaaksesi Vanilla-keskustelupalstan omaan verkkosivustoosi.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Liian monta osoitetta! Lähetämme maksimissaan %s osoitetta kerralla. ';
 $Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'Väärinkäytön estämiseksi jotkin työkalut piilottavat sisällön automaattisesti ja luetteloivat sen tänne siihen asti, kun joku valvojista hyväksyy sen manuaalisesti.';
@@ -232,7 +236,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 $Definition['Use the button at the top of the page to create a ban rule.'] = 'Luo estosääntö sivun yläosasta löytyvän painikkeen avulla.';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'WordPress-liitännäisellä voit ottaa WordPress-blogissasi käyttöön Vanilla-kommentoinnin. Vaihtoehtoisesti voit käyttää yleispätevää koodia, jolla Vanilla-kommentoinnin voi pystyttää mille tahansa muulle alustalle.';
 $Definition['Users may sign into your site using their Twitter account.'] = 'Käyttäjät voivat kirjautua sivustollesi Twitter-tilillään.';
-
+$Definition['User Profile'] = 'Käyttäjäprofiili';
 $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Vienti: %s, Lähde: %s';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanillan statistiikat ovat toistaiseksi pois käytöstä';
 $Definition['Verify and restore'] = 'Tarkista ja palauta';
@@ -248,6 +252,7 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Varoitus</b>: Palvelimesi kokoonpano ei tue nopeaa tiedonlatausta. Jos tuot erittäin suurta tiedostoa (esim. yli 200 000 kommenttia), sinun kannattaa harkita kokoonpanon muuttamista. Saat lisätietoja napsauttamalla <a href="http://vanillaforums.com/porter">tätä</a>.';
 $Definition['Warning: This is for advanced users.'] = '<b>Varoitus</b>: Tämä on edistyneille käyttäjille ja edellyttää ylimääräisiä muutoksia verkkopalvelimeesi. Tämä toiminto on yleensä saatavilla vain, jos sinulla on käytössä oma paikallinen verkkopalvelin tai virtuaalipalvelin. Älä yritä tätä, ellet tiedä varmasti, mitä olet tekemässä.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Suosittelemme osallistumiseen innostamista pääosin positiivisilla reaktioilla.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Jos tämä otetaan käyttöön, voit hallinnoida tuotteita sekä ryhmittää alayhteistöjä kyseisten tuotteiden perusteella.';
 $Definition['Which reactions you use really depends on your community.'] =
@@ -260,6 +265,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'Voit
 $Definition['You can place files in your /uploads folder.'] = 'Jos tiedosto on liian suuri, jotta voisit ladata sen suoraan tälle sivulle, voit sijoittaa sen /uploads-kansioosi. Varmista, että tiedoston nimi alkaa sanalla <b>export</b> ja päättyy jommalla kummalla seuraavista merkkijonoista: <b>.txt, .gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Voit määrittää julkaisun minimipituuden rajoittaaksesi lyhyiden julkaisujen määrää.';
 $Definition['You must select a file to import.'] = 'Valitse tiedosto, jonka haluat tuoda.';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Olet ottamassa käyttöön uutta asetteluvaihtoehtoa. Tätä voi muokata ja esikatsella teemaeditorillamme. <0> Lisätietoja</0> .';
 
 ///
 /// Theming UI
