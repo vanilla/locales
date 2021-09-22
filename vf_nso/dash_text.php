@@ -122,7 +122,6 @@ $Definition['The database user you specified does not have permission to access 
 $Definition['The following structure changes are required for your database.'] = 'Diphetogo tše di latelago tša sebopego di a nyakega tathapeising ya gago.';
 $Definition['The import file does not contain any data.'] = 'Faele ya go amogelwa ga e na tatha.';
 $Definition['The import file is not in the correct format.'] = 'Faele ya go amogelwa ga e ka sebopego sa maleba.';
-$Definition['The location of the jsonp formatted authentication data.'] = 'Lefelo la jsonp la bongwadi bja tatha yeo e fometilwego.';
 $Definition['ThemeHelp'] = 'Dihlogo di go dumelela gore o fetoše ponagalo &amp; go kwagala ga wepesaete ya gago.<br />Ge taba e šetše e tsentšhitšwe foltareng ya gago ya %s, o ka e bula mo. ';
 $Definition['The Password Authenticator does not have any custom configuration options. '] = 'Mongwadi wa Phasewete ga a na dikgetho dife goba dife tše di tlwaelegilego tša go šoma.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Ga go nyakege diphetogo tša sebopego sa tathapeise. Lega go le bjalo, go ka ba go na le diphetogo tša tatha.';

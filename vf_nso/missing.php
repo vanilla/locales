@@ -25,6 +25,7 @@ $Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysi
 
 $Definition['Garden.api.ssoIDPermission.description'] = 'Roles with this permission will be able to expand SSO IDs in API v2 calls.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
+$Definition['GuestModule.Message'] = 'It looks like you\'re new here. Sign in or register to get started.';
 
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} started a new poll in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
@@ -33,6 +34,7 @@ $Definition['HeadlineFormat.NotifyWallComment'] = '{ActivityUserID,User} comment
 $Definition['HeadlineFormat.NotifyWallPost'] = '{ActivityUserID,User} posted on your <a href="{Url,url}">wall</a>.';
 $Definition['Here are the ranks that users can achieve on your site.'] = 'Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.';
 
+$Definition['Idea Filter'] = 'Personalized Idea Filter';
 $Definition['If you have an old theme'] = 'If you have an old theme and need to set a separate desktop and mobile theme you can do so with the old theming UI.';
 $Definition['If you want to embed your forum, enable embedding.'] = 'If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. If you aren\'t using embedding then we recommend leaving this setting off.';
 $Definition['In additon to the widgets there are also'] = 'In additon to the widgets there are also <0>Global Styles</0>. To edit global styles click anywhere else on the page, such as this text.';
@@ -52,6 +54,7 @@ $Definition['MobileLogoDescription'] = 'The mobile banner logo appears at the to
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
 $Definition['OrgDescription'] = 'Your organization name is used for SEO microdata and JSON+LD';
+$Definition['Other Articles'] = 'Latest Articles';
 
 $Definition['permissions.communityManager'] = 'Community Manager';
 $Definition['permissions.everyone'] = 'Everyone';

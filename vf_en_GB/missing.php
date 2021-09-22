@@ -29,7 +29,6 @@ $Definition['Activity.Join.ProfileHeadline'] = '%1$s joined.';
 $Definition['Activity.PictureChange.FullHeadline'] = '%1$s changed %6$s profile picture.';
 $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s changed %6$s profile picture.';
 $Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
-$Definition['AddressBarColorDescription'] = 'Some browsers support a color for the address bar. Mobile only.';
 $Definition['Add your site to trusted domains.'] = 'Make sure your site is added to %s when embedding is enabled.';
 $Definition['Alert users if they click external link.'] = 'Alert users if they click a link in a post that will lead them away from the forum. Users will not be warned when following links that match a Trusted Domain';
 $Definition['Allow links to be transformed'] = 'Allow links to be transformed into embedded representations in discussions and comments. For example, a YouTube link will transform into an embedded video.';
@@ -201,7 +200,7 @@ $Definition['Group Leaders'] = 'Leaders';
 $Definition['Group Members'] = 'Members';
 $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 $Definition['Groups Menu'] = 'Groups';
-$Definition['GuestModule.Message'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
+$Definition['GuestModule.Message'] = 'It looks like you\'re new here. Sign in or register to get started.';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';
@@ -234,6 +233,7 @@ $Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
+$Definition['Idea Filter'] = 'Personalized Idea Filter';
 $Definition['Ideation Type'] = 'Idea';
 $Definition['If you have an old theme'] = 'If you have an old theme and need to set a separate desktop and mobile theme you can do so with the old theming UI.';
 $Definition['If you want to embed your forum, enable embedding.'] = 'If you want to embed your forum or use Vanilla\'s comments in your blog then you need to enable embedding. If you aren\'t using embedding then we recommend leaving this setting off.';
@@ -334,6 +334,7 @@ $Definition['Null Date'] = '-';
 $Definition['OldPassword'] = 'Old password';
 $Definition['Operation By'] = 'By';
 $Definition['OrgDescription'] = 'Your organization name is used for SEO microdata and JSON+LD';
+$Definition['Other Articles'] = 'Latest Articles';
 
 $Definition['PageDetailsMessage'] = '%1$s to %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';

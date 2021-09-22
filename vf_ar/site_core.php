@@ -773,7 +773,7 @@ $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} بدأ استطلاع جديد في {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Question'] = 'نشر {ActivityUserID,user} سؤالا جديدا في {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ذكرك في <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.NotifyWallComment'] = 'علق {ActivityUserID، User} على <a href="{Url,url}">الحائط</a> الخاص بك.';
+$Definition['HeadlineFormat.NotifyWallComment'] = 'علق {ActivityUserID,User} على <a href="{Url,url}">الحائط</a> الخاص بك.';
 $Definition['HeadlineFormat.NotifyWallPost'] = 'تم نشر {ActivityUserID، User} على <a href="{Url,url}">الحائط</a> الخاص بك.';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} غيّر الصورة الشخصية ل{ActivityUserID,user}.';
 $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You}إنضم الى الموقع.';

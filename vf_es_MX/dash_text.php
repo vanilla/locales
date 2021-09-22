@@ -45,7 +45,7 @@ $Definition['Choose a role that orphaned users will be assigned to:'] = 'Elige u
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'Elija un tema para esta subcomunidad. <0> Leer más </0>';
 $Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Elige cómo manejar el contenido asociado con el usuario %s (comentarios, mensajes étc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'Puedes elegir un algoritmo personalizado para firmar tus peticiones. Este algoritmo debe usarse también en la librería de tu cliente. Usa md5 si no estás seguro cuál elegir.';
-$Definition['Choose the page people should see when they visit <0/>'] = 'Elija la página que las personas deben ver cuando visiten &lt;0 /&gt;';
+$Definition['Choose the page people should see when they visit <0/>'] = 'Elija la página que las personas deben ver cuando visiten <0/>';
 $Definition['Choose the preferred layout for lists of categories.'] = 'Elija el diseño preferido para las listas de categorías.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Elija el diseño preferido para las listas de discusiones.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Elija el diseño preferido para las listas de categorías. Puede editar el diseño en mosaico.';
@@ -267,7 +267,7 @@ $Definition['You can connect to multiple sites that support jsConnect.'] = 'Pued
 $Definition['You can place files in your /uploads folder.'] = 'Si tu archivo es demasiado grande para subirlo directamente a esta página puedes subirlo a la carpeta /uploads. Asegúrate de que el nombre de archivo empieza con <b>export</b> y termina con <b>.txt</b> ó <b>.gz</b>.';
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Puede especificar una longitud mínima de publicación para desalentar publicaciones cortas.';
 $Definition['You must select a file to import.'] = 'Debes seleccionar un archivo para importar.';
-$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Está a punto de aplicar una nueva opción de diseño. Esto se puede personalizar y previsualizar usando nuestro Editor de temas. &lt;0&gt; Más información</0> .';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Está a punto de aplicar una nueva opción de diseño. Esto se puede personalizar y previsualizar usando nuestro Editor de temas. <0>Más información</0>.';
 
 ///
 /// Theming UI
