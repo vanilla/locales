@@ -334,7 +334,6 @@ $Definition['Null Date'] = '-';
 $Definition['OldPassword'] = 'Old password';
 $Definition['Operation By'] = 'By';
 $Definition['OrgDescription'] = 'Your organization name is used for SEO microdata and JSON+LD';
-$Definition['Other Articles'] = 'Latest Articles';
 
 $Definition['PageDetailsMessage'] = '%1$s to %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';

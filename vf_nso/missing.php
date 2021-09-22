@@ -54,7 +54,6 @@ $Definition['MobileLogoDescription'] = 'The mobile banner logo appears at the to
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 
 $Definition['OrgDescription'] = 'Your organization name is used for SEO microdata and JSON+LD';
-$Definition['Other Articles'] = 'Latest Articles';
 
 $Definition['permissions.communityManager'] = 'Community Manager';
 $Definition['permissions.everyone'] = 'Everyone';
