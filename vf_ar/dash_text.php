@@ -355,7 +355,7 @@ $Definition['This lab cannot be disabled because it is required by the current t
 $Definition['Need more help?'] = 'هل تريد المزيد من المساعدة؟';
 $Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'ادمج صفحات التأسيس والمكونات في الموضوع الخاص بك';
 $Definition['Enable and test out the latest Vanilla features.'] = 'قم بتمكين واختبار أحدث ميزات Vanilla.';
-$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'ملحوظة: يجب تكوين معمل <0 /> ليتوافق مع المظهر المخصص الخاص بك. يمكن القيام بذلك باستخدام محرر السمات الجديد الخاص بنا. <1> اكتشف المزيد.</1>';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'ملحوظة: يجب تكوين معمل <0/> ليتوافق مع المظهر المخصص الخاص بك. يمكن القيام بذلك باستخدام محرر السمات الجديد الخاص بنا. <1> اكتشف المزيد.</1>';
 $Definition['Usercards'] = 'Usercards';
 $Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "تسمح لك بطاقات Usercards بالحصول على لقطة سريعة لمعلومات المستخدم. عند عرض المنشورات ولوحات الصدارة ، انقر فوق اسم المستخدم لرؤية بطاقة تعرض معلومات الملف الشخصي الأساسية للمستخدمين دون الحاجة إلى الانتقال بعيدًا عن الصفحة. قم بتمكين هذه الميزة لإضافة بطاقات مستخدم إلى نسقك المخصص.";
 $Definition['New Search Page'] = 'صفحة بحث جديدة';

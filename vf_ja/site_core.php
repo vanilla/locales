@@ -2040,4 +2040,4 @@ $Definition['You wrote:'] = 'あなたは以下のように書きました:';
 
 $Definition['Zip'] = 'Zip（ジップ）';
 
-$Definition['{Username} has requested to join {Group}.'] = '{ユーザー名}が{グループ}への参加をリクエストしました。';
+$Definition['{Username} has requested to join {Group}.'] = '{Username}が{Group}への参加をリクエストしました。';

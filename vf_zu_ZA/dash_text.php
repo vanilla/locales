@@ -351,7 +351,7 @@ $Definition['This lab cannot be disabled because it is required by the current t
 $Definition['Need more help?'] = 'Udinga usizo olwengeziwe?';
 $Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Hlanganisa amakhasi we-Foundation & Components Into Yakho';
 $Definition['Enable and test out the latest Vanilla features.'] = 'Nika amandla futhi uhlole izici zakamuva ze-Vanilla.';
-$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Ilebhu ye- &lt;0 /&gt; idinga ukulungiswa ukuze ifane netimu yakho yangokwezifiso. Lokhu kungenziwa kusetshenziswa isihleli sethu setimu esisha. &lt;1&gt; Thola okuningi.</1>';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Ilebhu ye- <0/> idinga ukulungiswa ukuze ifane netimu yakho yangokwezifiso. Lokhu kungenziwa kusetshenziswa isihleli sethu setimu esisha. <1>Thola okuningi.</1>';
 $Definition['Usercards'] = 'Ama-usercards';
 $Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Ama-usercards akuvumela ukuthi uthole isifinyezo esisheshayo esiku-inthanethi semininingwane yomsebenzisi. Lapho ubuka okuthunyelwe namabhodi wabaphambili, chofoza egameni lomsebenzisi ukubona ikhadi elibonisa imininingwane eyisisekelo yephrofayili yabasebenzisi ngaphandle kokuzulazula kude nekhasi. Nika amandla lesi sici ukwengeza ama-usercards kutimu yakho yangokwezifiso.";
 $Definition['New Search Page'] = 'Ukucinga okusha';
