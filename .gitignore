@@ -16,3 +16,4 @@ tx/*
 .phpintel
 .DS_Store
 vendor
+*.swp
