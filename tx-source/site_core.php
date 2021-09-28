@@ -1513,6 +1513,7 @@ $Definition['Sink this discussion'] = 'Sink this discussion';
 $Definition['Site'] = 'Site';
 $Definition['Sitemap Settings'] = 'Sitemap Settings';
 $Definition['Sites'] = 'Sites';
+$Definition["Site '%s' did not respond successfully."] = "Site '%s' did not respond successfully.";
 $Definition['Smileys & Faces'] = 'Smileys & Faces';
 $Definition['Sixth Anniversary'] = 'Sixth Anniversary';
 $Definition['Social'] = 'Social';
