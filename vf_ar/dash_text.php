@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'اخت�
 $Definition['Choose the preferred layout for lists of categories.'] = 'اختر التنسيق المفضل لقوائم الفئات.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'اختر التنسيق المفضل لقوائم المناقشات.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'اختر التخطيط المفضل لقوائم الفئات. يمكنك تحرير تخطيط التجانب.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'اختر التخطيط المفضل لقوائم المناقشات. يمكنك تحرير تخطيط الأساس.';
 $Definition['Choose the order items are sorted.'] = 'اختر ترتيب العناصر مرتبة.';
 $Definition['Continue Import'] = 'متابعة الاستيراد';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'تعذّر تحليل ملف الاستيراد. المشكلة قريبة من السطر رقم %s.';
