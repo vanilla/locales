@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Valitse
 $Definition['Choose the preferred layout for lists of categories.'] = 'Valitse kategorialuettelon suosikkiulkoasu.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Valitse haluamasi ulkoasu keskustelulistoille.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Valitse haluamasi asettelu luokkien luetteloille. Voit muokata laatoitettua asettelua.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Valitse haluamasi asettelu keskusteluluetteloille. Voit muokata säätiön asettelua.';
 $Definition['Choose the order items are sorted.'] = 'Valitse tilauskohteet lajitellaan.';
 $Definition['Continue Import'] = 'Jatka tuontia';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Tuotavaa tiedostoa ei voitu käsitellä. Ongelma on lähellä riviä %s.';
