@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Изб�
 $Definition['Choose the preferred layout for lists of categories.'] = 'Изберете предпочитаното оформление за списъци с категории.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Изберете предпочитаното оформление за списъци с дискусии.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Изберете предпочитаното оформление за списъци с категории. Можете да редактирате оформлението с плочки.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Изберете предпочитаното оформление за списъци с дискусии. Можете да редактирате оформлението на основата.';
 $Definition['Choose the order items are sorted.'] = 'Изберете елементите на поръчката са сортирани.';
 $Definition['Continue Import'] = 'Продължете импортирането';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Файлът за импортиране не може да се анализира. Проблемът е близо до линия %s.';
