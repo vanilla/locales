@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Выб�
 $Definition['Choose the preferred layout for lists of categories.'] = 'Выберите предпочтительный макет для списков категорий.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Выберите предпочтительный макет для списков обсуждений.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Выберите предпочтительный макет для списков категорий. Вы можете редактировать плиточный макет.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Выберите предпочтительный макет для списков обсуждений. Вы можете редактировать план фундамента.';
 $Definition['Choose the order items are sorted.'] = 'Выберите порядок сортировки позиций.';
 $Definition['Continue Import'] = 'Продолжить импорт';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Не удалось выполнить разбор файла импорта. Проблема в районе строки № %s.';
