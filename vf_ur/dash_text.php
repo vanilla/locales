@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'وہ ص
 $Definition['Choose the preferred layout for lists of categories.'] = 'زمرہ جات کی فہرست کے لئے ترجیحی ترتیب منتخب کریں۔';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'مباحثوں کی فہرستوں کے لئے ترجیحی ترتیب منتخب کریں۔';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'زمروں کی فہرستوں کے لیے ترجیحی ترتیب منتخب کریں۔ آپ ٹائلڈ لے آؤٹ میں ترمیم کرسکتے ہیں۔';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'مباحثوں کی فہرستوں کے لیے ترجیحی ترتیب منتخب کریں۔ آپ فاؤنڈیشن لے آؤٹ میں ترمیم کرسکتے ہیں۔';
 $Definition['Choose the order items are sorted.'] = 'آرڈر آئٹمز کو ترتیب دیا گیا ہے منتخب کریں۔';
 $Definition['Continue Import'] = 'درآمد جاری رکھیں';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'درآمد فائل کی تجزیہ نہیں کرسکا۔ مسئلہ لائن %s کے قریب ہے۔';
