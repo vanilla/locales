@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Válass
 $Definition['Choose the preferred layout for lists of categories.'] = 'Válassza ki a kategóriák listájának preferált elrendezését.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Válassza ki a beszélgetések listáinak preferált elrendezését.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Válassza ki a kategóriák listájának preferált elrendezését. Szerkesztheti a csempézett elrendezést.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Válassza ki a kívánt elrendezést a megbeszélések listájához. Szerkesztheti az Alapítvány elrendezését.';
 $Definition['Choose the order items are sorted.'] = 'Válassza ki a rendelési tételeket.';
 $Definition['Continue Import'] = 'Tovább az importáláshoz';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Nem tudtam feldolgozni az import file-t. A gondot a %s sor környékén látom.';
