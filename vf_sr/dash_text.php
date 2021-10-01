@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Ода�
 $Definition['Choose the preferred layout for lists of categories.'] = 'Изаберите жељени распоред за листе категорија.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Изаберите жељени изглед за листе дискусија.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Одаберите жељени изглед за листе категорија. Можете уредити изглед плочица.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Одаберите жељени изглед за листе дискусија. Можете уредити темељни изглед.';
 $Definition['Choose the order items are sorted.'] = 'Одаберите да су ставке поруџбине сортиране.';
 $Definition['Continue Import'] = 'Наставите увоз';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Увоз датотеке није успео. Проблем је близу линије %s.';
