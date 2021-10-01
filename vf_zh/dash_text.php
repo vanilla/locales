@@ -48,6 +48,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = '选择�
 $Definition['Choose the preferred layout for lists of categories.'] = '选择类别列表的首选布局。';
 $Definition['Choose the preferred layout for lists of discussions.'] = '选择讨论列表的首选布局。';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = '为类别列表选择首选布局。您可以编辑平铺布局。';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = '为讨论列表选择首选布局。您可以编辑基础布局。';
 $Definition['Choose the order items are sorted.'] = '选择订单项目进行排序。';
 $Definition['Continue Import'] = '继续导入';
 $Definition['Could not parse import file. The problem is near line %s.'] = '无法解析导入的文件。第 %s 行出错。';
