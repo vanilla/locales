@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Alegeț
 $Definition['Choose the preferred layout for lists of categories.'] = 'Alegeți aspectul preferat pentru listele de categorii.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Alegeți aspectul preferat pentru listele de discuții.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Alegeți aspectul preferat pentru listele de categorii. Puteți edita aspectul Tiled.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Alegeți aspectul preferat pentru listele de discuții. Puteți edita aspectul fundației.';
 $Definition['Choose the order items are sorted.'] = 'Alegeți comenzile pentru care sunt sortate.';
 $Definition['Continue Import'] = 'Continuaţi importul';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Nu s-a putut include fișierul importat. Problema este linia %s';
