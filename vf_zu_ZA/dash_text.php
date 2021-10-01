@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Khetha 
 $Definition['Choose the preferred layout for lists of categories.'] = 'Khetha ukwakheka okuthandwayo kohlu lwezigaba.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Khetha isakhiwo esithandwayo sohlu lwezingxoxo.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Khetha ukwakheka okuncamelayo kohlu lwezigaba. Ungahlela Ukuhlelwa Kwethayili.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Khetha ukwakheka okuncamelayo kohlu lwezingxoxo. Ungahlela i-Foundation Layout.';
 $Definition['Choose the order items are sorted.'] = 'Khetha izinto oda ihlelwa.';
 $Definition['Continue Import'] = 'Qhubeka Ngenisa';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Ayikwazanga ukuhlaziya ifayela lokungenisa. Inkinga isondele kulayini %s.';
