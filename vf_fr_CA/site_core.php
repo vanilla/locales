@@ -109,8 +109,7 @@ $Definition['%s WTFs'] = '%s WTFs';
 $Definition['%s year'] = '%s année';
 $Definition['%s years'] = '%s années';
 
-$Definition['&laquo; hide previous quotes'] = '« masquer les citations précédentes
-';
+$Definition['&laquo; hide previous quotes'] = '« masquer les citations précédentes';
 $Definition['&raquo; show previous quotes'] = '» afficher les citations précédentes
 ';
 
@@ -1775,7 +1774,7 @@ $Definition['Username already exists.'] = 'Ce nom d\'utilisateur existe déjà.'
 $Definition['Username can only contain letters, numbers, and underscores.'] = 'Le nom d\'utilisateur ne peut contenir que des lettres, des nombres, et des tirets bas.';
 $Definition['Username can only contain letters, numbers, underscores, and must be between 3 and 20 characters long.'] = 'Le Nom d\'Utilisateur ne peut contenir que des lettres, des chiffres, des tirets bas (_), et doit contenir entre 3 et 20 caractères de long.';
 $Definition['UsernameError'] = 'Le Nom d\'Utilisateur ne peut contenir que des lettres, des chiffres, des tirets bas (_), et doit contenir entre 3 et 20 caractères de long.';
-$Definition['{Username} has requested to join {Group}.'] = '{Nom d\'utilisateur} a demandé à rejoindre {Groupe}.';
+$Definition['{Username} has requested to join {Group}.'] = '{Username} a demandé à rejoindre {Group}.';
 $Definition['Username or email'] = 'Nom d\'utilisateur ou adresse courriel';
 $Definition['User Not Found'] = 'Utilisateur introuvable';
 $Definition['User not found.'] = 'Désolé, aucun compte correspondant aux identifiants que vous avez entrés n\'a été identifié.';
