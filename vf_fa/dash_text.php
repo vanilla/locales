@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'صفح�
 $Definition['Choose the preferred layout for lists of categories.'] = 'طرح دلخواه را برای لیست دسته ها انتخاب کنید.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'طرح مورد نظر را برای لیست مباحث انتخاب کنید.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'طرح دلخواه را برای فهرست دسته ها انتخاب کنید. می توانید طرح کاشی کاری را ویرایش کنید.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'طرح مورد نظر را برای فهرست مباحث انتخاب کنید. می توانید طرح بنیاد را ویرایش کنید.';
 $Definition['Choose the order items are sorted.'] = 'انتخاب موارد سفارش مرتب شده اند.';
 $Definition['Continue Import'] = 'ادامه درون ريزي';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'نميتوان فايل درون ريزي را تجزيه كرد. مشكل در نزديكي خط %s ميباشد.';
