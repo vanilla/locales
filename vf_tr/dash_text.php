@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Kullan�
 $Definition['Choose the preferred layout for lists of categories.'] = 'Kategori listeleri için tercih edilen düzeni seçin.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Tartışma listeleri için tercih edilen düzeni seçin.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Kategori listeleri için tercih edilen düzeni seçin. Döşenmiş Düzeni düzenleyebilirsiniz.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Tartışma listeleri için tercih edilen düzeni seçin. Temel Düzenini düzenleyebilirsiniz.';
 $Definition['Choose the order items are sorted.'] = 'Öğelerin sıralanacağı sırayı seçin.';
 $Definition['Continue Import'] = 'İçe Aktarmaya Devam';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Alınan dosyada hata. %s satırını kontrol edin';
