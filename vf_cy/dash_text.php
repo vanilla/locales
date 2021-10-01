@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Dewiswc
 $Definition['Choose the preferred layout for lists of categories.'] = 'Dewiswch y cynllun a ffefrir ar gyfer rhestrau o gategorïau.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Dewiswch y cynllun a ffefrir ar gyfer rhestrau o drafodaethau.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Dewiswch y cynllun a ffefrir ar gyfer rhestrau o gategorïau. Gallwch olygu\'r Cynllun Teils.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Dewiswch y cynllun a ffefrir ar gyfer rhestrau o drafodaethau. Gallwch olygu\'r Cynllun Sylfaen.';
 $Definition['Choose the order items are sorted.'] = 'Dewiswch yr eitemau archebu yn cael eu didoli.';
 $Definition['Continue Import'] = 'Parhau i Fewnforio';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Methu dosrannu ffeil mewnforio. Mae\'r broblem yn agos at linell %s.';

@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Kies de
 $Definition['Choose the preferred layout for lists of categories.'] = 'Kies welke layout je voorkeur heeft voor lijsten van categorieën.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Kies de welke layout de voorkeur heeft voor de lijst van discussies.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Kies de gewenste lay-out voor lijsten met categorieën. U kunt de betegelde lay-out bewerken.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Kies de gewenste lay-out voor discussielijsten. U kunt de funderingslay-out bewerken.';
 $Definition['Choose the order items are sorted.'] = 'Kies de volgorde items zijn gesorteerd.';
 $Definition['Continue Import'] = 'Ga verder met importeren';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Kon het importbestand niet verwerken. Het probleem ligt in de buurt van regel %s.';

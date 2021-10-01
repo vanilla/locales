@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Tagh an
 $Definition['Choose the preferred layout for lists of categories.'] = 'Tagh an cruth as fheàrr leat airson liostaichean de roinnean.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Tagh an cruth as fheàrr leat airson liostaichean de chòmhraidhean.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Tagh an cruth as fheàrr leat airson liostaichean de roinnean. Faodaidh tu an Tiled Layout a dheasachadh.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Tagh an cruth as fheàrr leat airson liostaichean de chòmhraidhean. Faodaidh tu an Bun-stèidh a dheasachadh.';
 $Definition['Choose the order items are sorted.'] = 'Tagh na nithean òrdugh air an rèiteachadh.';
 $Definition['Continue Import'] = 'Continue Import';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Could not parse import file. The problem is near line %s.';

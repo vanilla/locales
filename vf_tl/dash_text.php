@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Piliin 
 $Definition['Choose the preferred layout for lists of categories.'] = 'Piliin ang ginustong layout para sa mga listahan ng mga kategorya.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Piliin ang ginustong layout para sa mga listahan ng mga talakayan.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Piliin ang ginustong layout para sa mga listahan ng mga kategorya. Maaari mong i-edit ang Tiled Layout.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Piliin ang ginustong layout para sa mga listahan ng mga talakayan. Maaari mong i-edit ang Layout ng Foundation.';
 $Definition['Choose the order items are sorted.'] = 'Piliin ang pagkakasunud-sunod ng mga item sa pagkakasunud-sunod.';
 $Definition['Continue Import'] = 'Continue Import';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Could not parse import file. The problem is near line %s.';

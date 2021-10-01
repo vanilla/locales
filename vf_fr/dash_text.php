@@ -55,6 +55,7 @@ $Definition['Choose the preferred layout for lists of categories.'] = 'Choisisse
 ';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Choisissez la présentation préférée pour les listes de discussion.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Choisissez la mise en page préférée pour les listes de catégories. Vous pouvez modifier la disposition en mosaïque.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Choisissez la mise en page préférée pour les listes de discussions. Vous pouvez modifier la mise en page de la Fondation.';
 $Definition['Choose the order items are sorted.'] = 'Choisissez la commande les articles sont triés.';
 $Definition['Continue Import'] = 'Continuer l\'importation';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Impossible d\'analyser le fichier d\'import. Le problème se situe vers la ligne %s.';

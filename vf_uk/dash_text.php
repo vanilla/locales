@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Виб�
 $Definition['Choose the preferred layout for lists of categories.'] = 'Виберіть бажаний макет для списків категорій.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Виберіть бажаний макет для списків дискусій.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Виберіть бажаний макет для списків категорій. Ви можете редагувати Плитковий макет.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Виберіть бажаний макет для списків обговорень. Ви можете редагувати макет фундаменту.';
 $Definition['Choose the order items are sorted.'] = 'Виберіть, що елементи замовлення відсортовані.';
 $Definition['Continue Import'] = 'Продовжити імпортування';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Не вдалося розібрати імпортований файл. Проблема знаходиться десь біля рядка %s.';

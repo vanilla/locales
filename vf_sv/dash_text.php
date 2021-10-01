@@ -48,6 +48,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Välj d
 $Definition['Choose the preferred layout for lists of categories.'] = 'Välj önskad layout för listor med kategorier.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Välj önskad layout för listor med diskussioner.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Välj önskad layout för listor över kategorier. Du kan redigera den kaklade layouten.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Välj önskad layout för listor över kategorier. Du kan redigera den kaklade layouten.';
 $Definition['Choose the order items are sorted.'] = 'Välj ordningsartiklarna är sorterade.';
 $Definition['Continue Import'] = 'Fortsätt import';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Kunde inte importera filen. Felet är nära rad %s.';

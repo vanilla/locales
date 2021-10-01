@@ -49,6 +49,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'בחר 
 $Definition['Choose the preferred layout for lists of categories.'] = 'בחר בפריסה המועדפת על רשימות קטגוריות.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'בחר במערך המועדף לרשימות דיונים.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'בחר את הפריסה המועדפת על רשימות של קטגוריות. ניתן לערוך את פריסת האריחים.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'בחר את הפריסה המועדפת על רשימות דיונים. אתה יכול לערוך את פריסת הבסיס.';
 $Definition['Choose the order items are sorted.'] = 'בחר את פריטי ההזמנה ממוינים.';
 $Definition['Continue Import'] = 'המשך בייבוא';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'לא הצלחתי לעשות parsing לקובץ המיובא. הבעיה נמצאת בסמוך לשורה %s.';

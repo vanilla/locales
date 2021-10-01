@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Trieu l
 $Definition['Choose the preferred layout for lists of categories.'] = 'Trieu la disposició preferida per a llistes de categories.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Trieu la disposició preferida per a llistes de debats.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Trieu el disseny preferit per a les llistes de categories. Podeu editar el disseny en mosaic.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Trieu el disseny preferit per a llistes de debats. Podeu editar el disseny de la fundació.';
 $Definition['Choose the order items are sorted.'] = 'Trieu la classificació dels elements de la comanda.';
 $Definition['Continue Import'] = 'Continua la importació';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'No s\'ha pogut analitzar el fitxer d\'importació. El problema és a prop de la línia %s.';

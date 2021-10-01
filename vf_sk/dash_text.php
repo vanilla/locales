@@ -48,6 +48,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Vyberte
 $Definition['Choose the preferred layout for lists of categories.'] = 'Vyberte preferované rozloženie pre zoznamy kategórií.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Vyberte preferované rozloženie pre zoznamy diskusií.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Vyberte preferované rozloženie pre zoznamy kategórií. Rozloženie dlaždíc môžete upraviť.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Vyberte preferované rozloženie pre zoznamy diskusií. Rozloženie nadácie môžete upraviť.';
 $Definition['Choose the order items are sorted.'] = 'Vyberte poradie Položky sú zoradené.';
 $Definition['Continue Import'] = 'Pokračovať v Importovaní';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Nie je možné analyzovať súbor importu. Problém je pri riadku %s.';

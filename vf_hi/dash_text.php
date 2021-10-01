@@ -48,6 +48,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'वह 
 $Definition['Choose the preferred layout for lists of categories.'] = 'श्रेणियों की सूचियों के लिए पसंदीदा लेआउट चुनें।';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'चर्चाओं की सूचियों के लिए पसंदीदा लेआउट चुनें।';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'श्रेणियों की सूचियों के लिए पसंदीदा लेआउट चुनें। आप टाइल वाले लेआउट को संपादित कर सकते हैं।';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'चर्चाओं की सूचियों के लिए पसंदीदा लेआउट चुनें। आप फाउंडेशन लेआउट को संपादित कर सकते हैं।';
 $Definition['Choose the order items are sorted.'] = 'चुनें कि ऑर्डर आइटम सॉर्ट किए गए हैं।';
 $Definition['Continue Import'] = 'आयात जारी रखें';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'आयात फ़ाइल पार्स नहीं कर सका। समस्या लाइन %s के पास है।';

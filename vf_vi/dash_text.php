@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Chọn 
 $Definition['Choose the preferred layout for lists of categories.'] = 'Chọn bố cục ưa thích cho danh sách các danh mục.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Chọn bố cục ưa thích cho danh sách các cuộc thảo luận.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Chọn bố cục ưa thích cho danh sách các danh mục. Bạn có thể chỉnh sửa Bố cục Xếp gạch.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Chọn bố cục ưa thích cho danh sách các cuộc thảo luận. Bạn có thể chỉnh sửa Bố cục Nền tảng.';
 $Definition['Choose the order items are sorted.'] = 'Chọn thứ tự các mục được sắp xếp.';
 $Definition['Continue Import'] = 'Tiếp tục nhập';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Có thể không phân tích cú pháp tập tin nhập. Vấn đề xảy ra gần dòng %s.';

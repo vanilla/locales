@@ -48,6 +48,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Επι�
 $Definition['Choose the preferred layout for lists of categories.'] = 'Επιλέξτε την προτιμώμενη διάταξη για λίστες κατηγοριών.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Επιλέξτε την προτιμώμενη διάταξη για λίστες συζητήσεων.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Επιλέξτε την προτιμώμενη διάταξη για λίστες κατηγοριών. Μπορείτε να επεξεργαστείτε τη διάταξη με πλακάκια.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Επιλέξτε την προτιμώμενη διάταξη για λίστες συζητήσεων. Μπορείτε να επεξεργαστείτε τη Διάταξη του Ιδρύματος.';
 $Definition['Choose the order items are sorted.'] = 'Επιλέξτε τα στοιχεία της παραγγελίας είναι ταξινομημένα.';
 $Definition['Continue Import'] = 'Συνέχεια της Εισαγωγής';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Δεν ήταν δυνατή η μετάφραση του αρχείου εισαγωγής. Το πρόβλημα έιναι κοντά στη γραμμή %s.';
