@@ -48,6 +48,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = '사람�
 $Definition['Choose the preferred layout for lists of categories.'] = '범주 목록에 대한 기본 레이아웃을 선택하십시오.';
 $Definition['Choose the preferred layout for lists of discussions.'] = '토론 목록에 대한 기본 레이아웃을 선택하십시오.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = '카테고리 목록에 대한 기본 레이아웃을 선택합니다. 타일 레이아웃을 편집할 수 있습니다.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = '토론 목록에 대한 기본 레이아웃을 선택합니다. 기초 레이아웃을 편집할 수 있습니다.';
 $Definition['Choose the order items are sorted.'] = '정렬된 주문 항목을 선택합니다.';
 $Definition['Continue Import'] = '계속 가져오기';
 $Definition['Could not parse import file. The problem is near line %s.'] = '가져오기 파일을 분석할 수 없었습니다. 문제는 %s 라인 근처에서 발생했습니다.  ';
