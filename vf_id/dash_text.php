@@ -47,6 +47,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Pilih h
 $Definition['Choose the preferred layout for lists of categories.'] = 'Pilih tata letak yang disukai untuk daftar kategori.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Pilih tata letak yang disukai untuk daftar diskusi.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Pilih tata letak yang disukai untuk daftar kategori. Anda dapat mengedit Tata Letak Ubin.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Pilih tata letak yang disukai untuk daftar diskusi. Anda dapat mengedit Tata Letak Yayasan.';
 $Definition['Choose the order items are sorted.'] = 'Pilih bagaimana sortir item pesanan.';
 $Definition['Continue Import'] = 'Lanjutkan Impor';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Tidak dapat mengurai file yang diimpor. Masalahnya ada di sekitar baris %s.';
