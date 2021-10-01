@@ -48,6 +48,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = '<0 />�
 $Definition['Choose the preferred layout for lists of categories.'] = 'カテゴリーのリスト用に優先レイアウトを選択します。';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'ディスカッションのリスト用に優先レイアウトを選択します。';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'カテゴリのリストに適したレイアウトを選択します。タイルレイアウトを編集できます。';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'ディスカッションのリストに適したレイアウトを選択します。基礎レイアウトを編集できます。';
 $Definition['Choose the order items are sorted.'] = 'アイテムがソートされる順序を選択します。';
 $Definition['Continue Import'] = 'インポートを続ける';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'インポートファイルを解析できません。%s 行付近で問題が発生しました。';
