@@ -48,6 +48,7 @@ $Definition['Choose the page people should see when they visit <0/>'] = 'Scegli 
 $Definition['Choose the preferred layout for lists of categories.'] = 'Scegli il layout preferito per gli elenchi delle categorie.';
 $Definition['Choose the preferred layout for lists of discussions.'] = 'Scegli il layout preferito per gli elenchi di discussioni.';
 $Definition['Choose the preferred layout for lists of categories. You can edit the Tiled Layout.'] = 'Scegli il layout preferito per gli elenchi di categorie. È possibile modificare il layout affiancato.';
+$Definition['Choose the preferred layout for lists of discussions. You can edit the Foundation Layout.'] = 'Scegli il layout preferito per gli elenchi di discussioni. Puoi modificare il layout della base.';
 $Definition['Choose the order items are sorted.'] = 'Scegli gli articoli dell\'ordine sono ordinati.';
 $Definition['Continue Import'] = 'Continuare importazione';
 $Definition['Could not parse import file. The problem is near line %s.'] = 'Impossibile analizzare il file di importazione. Il problema è vicino alla riga%s.';
