@@ -1786,6 +1786,7 @@ $Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Use up to {m
 
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';
+$Definition['ValidateByteLength'] = '%1$s is %2$s bytes too long.';
 $Definition['ValidateConnection'] = 'The connection parameters you specified failed to open a connection to the database. The database reported the following error: <code>%s</code>';
 $Definition['ValidateDate'] = '%s is not a valid date.';
 $Definition['ValidateDecimal'] = '%s is not a valid decimal.';
