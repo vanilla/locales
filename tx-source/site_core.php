@@ -1358,6 +1358,7 @@ $Definition['Registration  Fields'] = 'Registration  Fields';
 $Definition['Registration URL'] = 'Registration URL';
 $Definition['Reject'] = 'Reject';
 $Definition['Reject this answer.'] = 'Reject this answer.';
+$Definition['Reload the page to apply these changes.'] = 'Reload the page to apply these changes.';
 $Definition['Remember me'] = 'Remember me';
 $Definition['Remember me on this computer'] = 'Remember me on this computer';
 $Definition['Remember your password?'] = 'Remember your password?';
