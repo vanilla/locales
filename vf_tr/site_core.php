@@ -1359,6 +1359,7 @@ $Definition['Registration  Fields'] = 'Kayıt  Alanları';
 $Definition['Registration URL'] = 'Kayıt URL\'si';
 $Definition['Reject'] = 'Reddet';
 $Definition['Reject this answer.'] = 'Bu cevabı reddet.';
+$Definition['Reload the page to apply these changes.'] = 'Bu değişiklikleri uygulamak için sayfayı yeniden yükleyin.';
 $Definition['Remember me'] = 'Beni Hatırla';
 $Definition['Remember me on this computer'] = 'Bu bilgisayarda beni hatırla';
 $Definition['Remember your password?'] = 'Parolanızı hatırlıyor musunuz?';
