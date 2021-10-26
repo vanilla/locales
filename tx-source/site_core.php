@@ -966,6 +966,7 @@ $Definition['members'] = 'members';
 $Definition["Menu"] = "Menu";
 $Definition['Merge'] = 'Merge';
 $Definition['Merge Discussions'] = 'Merge Discussions';
+$Definition['Merged: %s'] = 'Merged: %s';
 $Definition['Message'] = 'Message';
 $Definition['message'] = 'message';
 $Definition['Messages'] = 'Messages';
@@ -1659,6 +1660,8 @@ $Definition['This category does not have any articles.'] = 'This category does n
 $Definition['This category does not have any events.'] = 'This category does not have any events.';
 $Definition['This discussion has a more <0>recent version</0>.'] = 'This discussion has a more <0>recent version</0>.';
 $Definition['This discussion has been closed.'] = 'This discussion has been closed.';
+$Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'This discussion has been <a href="{url,html}">moved</a>.';
+$Definition['This discussion has been <a href="{url,html}">merged</a>.'] = 'This discussion has been <a href="{url,html}">merged</a>.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'This discussion is related to an undefined foriegn content source.';
 $Definition['This discussion was created from comments split from: %s.'] = 'This discussion was created from comments split from: %s.';
 $Definition['This discussion was merged into %s'] = 'This discussion was merged into %s';
