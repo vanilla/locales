@@ -2005,6 +2005,7 @@ $Definition['You must agree to the terms of service.'] = 'You must agree to the 
 $Definition['You must be at least %d years old to register.'] = 'You must be at least %d years old to register.';
 $Definition['You must be signed in.'] = 'You must be signed in.';
 $Definition['You must confirm you have received consent to register.'] = 'You must confirm you have received consent to register.';
+$Definition['You must select at least 2 discussions to merge.'] = 'You must select at least 2 discussions to merge.';
 $Definition['You need to confirm your email address.'] = 'You need to confirm your email address. Click <a href="{/entry/emailconfirmrequest,url}">here</a> to resend the confirmation email.';
 $Definition['You need to confirm your email address before you can continue.'] = 'You need to confirm your email address before you can continue.';
 $Definition['You need to reset your password.'] = 'You need to reset your password. This is most likely because an administrator recently changed your account information. Click <a href="%s">here</a> to reset your password.';
