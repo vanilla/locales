@@ -967,6 +967,7 @@ $Definition['members'] = 'üyeler';
 $Definition["Menu"] = "Menü";
 $Definition['Merge'] = 'Birleştir';
 $Definition['Merge Discussions'] = 'Tartışmaları Birleştir';
+$Definition['Merged: %s'] = 'Birleştirildi: %s';
 $Definition['Message'] = 'İleti';
 $Definition['message'] = 'mesaj';
 $Definition['Messages'] = 'İletiler';
@@ -1649,6 +1650,8 @@ $Definition['This category does not have any articles.'] = 'Bu kategoride makale
 $Definition['This category does not have any events.'] = 'Bu kategoride herhangi bir etkinlik yok.';
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Bu tartışmanın daha <0>yeni bir sürümü var</0> .';
 $Definition['This discussion has been closed.'] = 'Bu tartışma kapatıldı.';
+$Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Bu tartışma <a href="{url,html}">taşındı</a>.';
+$Definition['This discussion has been <a href="{url,html}">merged</a>.'] = 'Bu tartışma <a href="{url,html}">birleştirildi</a>.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'Bu tartışma yabancı bir tanımsız kaynakla ilgili.';
 $Definition['This discussion was created from comments split from: %s.'] = 'Bu tartışma şundan ayrılan yorumlarla oluşturuldu: %s.';
 $Definition['This discussion was merged into %s'] = 'Tartışma %s ile birleştirildi.';
@@ -1777,6 +1780,7 @@ $Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'En fazla {ma
 
 $Definition['ValidateBanned'] = 'Bu %s izin verilmiyor.';
 $Definition['ValidateBoolean'] = '%s geçerli bir boole değil.';
+$Definition['ValidateByteLength'] = '%1$s, %2$s bayt çok uzun.';
 $Definition['ValidateConnection'] = 'Belirlediğiniz bağlantı parametreleri veritabanına bağlantı açamadı. Veritabanı şu hatayı raporladı:  <code>%s</code>';
 $Definition['ValidateDate'] = '%s geçerli bir tarih değil.';
 $Definition['ValidateDecimal'] = '%s geçerli bir ondalık sayı değiil.';
@@ -1992,6 +1996,7 @@ $Definition['You must agree to the terms of service.'] = 'Hizmet Koşullarını 
 $Definition['You must be at least %d years old to register.'] = 'Kayıt olmak için en az %d yaşında olmalısın.';
 $Definition['You must be signed in.'] = 'Giriş yapmış olman gerek.';
 $Definition['You must confirm you have received consent to register.'] = 'Kaydolmak için olur aldığını onaylamak zorundasın.';
+$Definition['You must select at least 2 discussions to merge.'] = 'Birleştirmek için en az 2 tartışma seçmelisiniz.';
 $Definition['You need to confirm your email address.'] = 'E-posta adresinizi onaylanız gerekiyor. Onaylama e-postasono tekrar göndermek için <a href="{/entry/emailconfirmrequest,url}">buraya tıklayınız</a>.';
 $Definition['You need to confirm your email address before you can continue.'] = 'Devam edebilmek için önce e-posta adresini onaylamalısın.';
 $Definition['You need to reset your password.'] = 'Şifrenizi sıfırlamanız gerekiyor. Bunun nedeni büyük olasılıkla bir yöneticinin kısa süre önce hesap bilgilerinizi değiştirmesidir. Şifrenizi sıfırlamak için burayı <a href="%s">tıklayın</a> .';
