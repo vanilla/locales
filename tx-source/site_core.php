@@ -966,6 +966,7 @@ $Definition['members'] = 'members';
 $Definition["Menu"] = "Menu";
 $Definition['Merge'] = 'Merge';
 $Definition['Merge Discussions'] = 'Merge Discussions';
+$Definition['Merged: %s'] = 'Merged: %s';
 $Definition['Message'] = 'Message';
 $Definition['message'] = 'message';
 $Definition['Messages'] = 'Messages';
@@ -1358,6 +1359,7 @@ $Definition['Registration  Fields'] = 'Registration  Fields';
 $Definition['Registration URL'] = 'Registration URL';
 $Definition['Reject'] = 'Reject';
 $Definition['Reject this answer.'] = 'Reject this answer.';
+$Definition['Reload the page to apply these changes.'] = 'Reload the page to apply these changes.';
 $Definition['Remember me'] = 'Remember me';
 $Definition['Remember me on this computer'] = 'Remember me on this computer';
 $Definition['Remember your password?'] = 'Remember your password?';
@@ -1658,6 +1660,8 @@ $Definition['This category does not have any articles.'] = 'This category does n
 $Definition['This category does not have any events.'] = 'This category does not have any events.';
 $Definition['This discussion has a more <0>recent version</0>.'] = 'This discussion has a more <0>recent version</0>.';
 $Definition['This discussion has been closed.'] = 'This discussion has been closed.';
+$Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'This discussion has been <a href="{url,html}">moved</a>.';
+$Definition['This discussion has been <a href="{url,html}">merged</a>.'] = 'This discussion has been <a href="{url,html}">merged</a>.';
 $Definition['This discussion is related to an undefined foriegn content source.'] = 'This discussion is related to an undefined foriegn content source.';
 $Definition['This discussion was created from comments split from: %s.'] = 'This discussion was created from comments split from: %s.';
 $Definition['This discussion was merged into %s'] = 'This discussion was merged into %s';
@@ -1786,6 +1790,7 @@ $Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Use up to {m
 
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';
+$Definition['ValidateByteLength'] = '%1$s is %2$s bytes too long.';
 $Definition['ValidateConnection'] = 'The connection parameters you specified failed to open a connection to the database. The database reported the following error: <code>%s</code>';
 $Definition['ValidateDate'] = '%s is not a valid date.';
 $Definition['ValidateDecimal'] = '%s is not a valid decimal.';
@@ -2001,6 +2006,7 @@ $Definition['You must agree to the terms of service.'] = 'You must agree to the 
 $Definition['You must be at least %d years old to register.'] = 'You must be at least %d years old to register.';
 $Definition['You must be signed in.'] = 'You must be signed in.';
 $Definition['You must confirm you have received consent to register.'] = 'You must confirm you have received consent to register.';
+$Definition['You must select at least 2 discussions to merge.'] = 'You must select at least 2 discussions to merge.';
 $Definition['You need to confirm your email address.'] = 'You need to confirm your email address. Click <a href="{/entry/emailconfirmrequest,url}">here</a> to resend the confirmation email.';
 $Definition['You need to confirm your email address before you can continue.'] = 'You need to confirm your email address before you can continue.';
 $Definition['You need to reset your password.'] = 'You need to reset your password. This is most likely because an administrator recently changed your account information. Click <a href="%s">here</a> to reset your password.';
