@@ -902,15 +902,16 @@ $Definition['You are leaving the theme editor without saving your changes. Make 
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
 $Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
-$Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
-$Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
 $Definition['Formatting Posts'] = 'Formatting Posts';
 $Definition['MobileInputFormatter.Notes1'] = 'Specify an editing format for mobile devices.';
 $Definition['MobileInputFormatter.Notes2'] = 'If mobile devices should have the same experience, specify the same one as above. If users report issues with mobile editing, this is a good option to change.';
 $Definition['Note:'] = 'Note:';
 $Definition['Post Format'] = 'Post Format';
 $Definition['Posting'] = 'Posting';
-$Definition['Reinterpret All Posts As Wysiwyg'] = 'Reinterpret All Posts As Wysiwyg';
+$Definition['Reinterpret All Posts As %s'] = 'Reinterpret All Posts As %s';
+$Definition['Tell the editor to reinterpret all old posts as %s.'] = 'Tell the editor to reinterpret all old posts as %s.';
+$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = 'This setting will only take effect if %s was chosen as the Post Format above.';
+$Definition['This option is to normalize the editor format'] = 'This option is to normalize the editor format, if older posts edited with another format, such as markdown or BBCode, are loaded, this option will force %s.';
 
 $Definition['Mobile Format'] = 'Mobile Format';
 $Definition['Enable Rich Quotes'] = 'Enable Rich Quotes';
