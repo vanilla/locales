@@ -266,6 +266,7 @@ $Definition['Are you sure you want to leave this conversation?'] = 'Are you sure
 $Definition['Are you sure you want to leave this group?'] = 'Are you sure you want to leave this group?';
 $Definition['Are you sure you want to unignore %s?'] = 'Are you sure you want to unignore <b>%s</b>?';
 $Definition['Are you sure you wish to continue?'] = 'Are you sure you wish to continue?';
+$Definition['As a result you may lose some of your original content and will not be able to revert your changes. Do you wish to continue?'] = 'As a result you may lose some of your original content and will not be able to revert your changes. Do you wish to continue?';
 $Definition['Ask a Question'] = 'Ask a Question';
 $Definition['Ask Question'] = 'Ask Question';
 $Definition['Attach a file'] = 'Attach a file';
@@ -1671,6 +1672,7 @@ $Definition['This image has been resized to fit in the page. Click to enlarge.']
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'This is a private poll: no-one will see what you voted for.';
 $Definition['This is a public poll: others will see what you voted for.'] = 'This is a public poll: others will see what you voted for.';
 $Definition['This is a system account and does not represent a real person.'] = 'This is a system account and does not represent a real person.';
+$Definition['This text has been converted from another format.'] = 'This text has been converted from another format.';
 $Definition['This Month\'s Leaders'] = 'This Month\'s Leaders';
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>';
 $Definition['This question\'s answer has been accepted.'] = 'This question\'s answer has been accepted.';
