@@ -20,8 +20,6 @@ $Definition['FaviconDescription'] = 'Your site\'s favicon appears in your browse
 $Definition['Feature Article'] = 'Recommend Article';
 $Definition['Featured Article'] = 'Recommended Article';
 $Definition['Featured Articles'] = 'Recommended Articles';
-$Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
-$Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
 
 $Definition['Garden.api.ssoIDPermission.description'] = 'Roles with this permission will be able to expand SSO IDs in API v2 calls.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
@@ -94,6 +92,7 @@ $Definition['Tagging allows users to add a tag to discussions they start in orde
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'N.B. The <0/> lab needs to be configured to match your custom theme. This can be done using our new theme editor. <1>Find out more.</1>';
 $Definition['ThemeEditor.Copy'] = '<0/> copy';
 $Definition['This is a style guide of your theme.'] = 'This is a style guide of your theme. It has examples of the visual elements used throughout the application. You can click on the various widgets such as the <0>Title Bar</0> or <1>Banner</1> to edit their properties in the side panel.';
+$Definition['This option is to normalize the editor format'] = 'This option is to normalize the editor format, if older posts edited with another format, such as markdown or BBCode, are loaded, this option will force %s.';
 $Definition['This page lists the endpoints of your API.'] = 'This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
 $Definition['This theme cannot be deleted because it is the currently applied theme'] = 'This theme cannot be deleted because it is the currently applied theme.';
 $Definition['TouchIconDescription'] = 'The touch icon appears when you bookmark a website on the homescreen of an Apple device. These are usually 152 pixels. Apple adds rounded corners and lighting effect automatically.';
@@ -102,6 +101,7 @@ $Definition['Upload a placeholder image for catalogue post.'] = 'Upload a placeh
 $Definition['Usercards allow you to get a quick in-line snapshot of a user\'s information.'] = 'Usercards allow you to get a quick in-line snapshot of a user\'s information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.';
 $Definition['Users will be redirected to this URL after accepting an invitation.'] = 'Users will be redirected to this URL after accepting an invitation. It can be a full URL or a path to redirect within the site.';
 
+$Definition['ValidateByteLength'] = '%1$s is %2$s bytes too long.';
 $Definition['ValidateTag'] = 'Tags cannot contain commas or underscores.';
 $Definition['Vanilla\'s new search service is finally here.'] = 'Vanilla\'s new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.';
 $Definition['VerifyUser'] = 'Check the box next to the user to mark them as <b>Verified</b> so their posts don\'t get marked as spam again. This will also restore all of their pending posts.';
