@@ -927,7 +927,7 @@ $Definition['Reinterpret All Posts As Wysiwyg'] = 'Reinterpret All Posts As Wysi
 
 $Definition['Mobile Format'] = 'Mobile Format';
 $Definition['Enable Rich Quotes'] = 'Enable Rich Quotes';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
+$Definition['Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
 
 // Catalogue Display Plugin/Formats
 $Definition['Default placeholder'] = 'Default placeholder';

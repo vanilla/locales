@@ -835,9 +835,9 @@ $Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] 
 $Definition['Image URL'] = 'Image URL';
 $Definition['ImageUploadLimits.Notes1'] = 'Enable Image Upload Limit';
 $Definition['ImageUploadLimits.Notes2'] = 'Add limits to image upload dimensions in discussions and comments.';
-$Definition['ImageUploadLimits.Width1'] = 'Max Image Width';
+$Definition['Max Image Width'] = 'Max Image Width';
 $Definition['ImageUploadLimits.Width2'] = 'Images will be scaled down if they exceed this width.';
-$Definition['ImageUploadLimits.Height1'] = 'Max Image Height';
+$Definition['Max Image Height'] = 'Max Image Height';
 $Definition['ImageUploadLimits.Height2'] = 'Images will be scaled down if they exceed this height.';
 $Definition['in'] = 'in';
 $Definition['In <b>%s.</b>'] = 'In <b>%s.</b>';

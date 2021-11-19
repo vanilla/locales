@@ -431,7 +431,6 @@ $Definition['richEditor.menu.paragraph'] = 'Paragraph Style Menu';
 $Definition['richEditor.menu.spoiler'] = 'Spoiler';
 $Definition['richEditor.menu.strike'] = 'Strike Through';
 $Definition['richEditor.menu.subheading'] = 'Subheading';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
 $Definition['RoleID'] = 'role';
 $Definition['RolePersonalInfo'] = 'This role is personal info. Only users with permission to view personal info will see it.';
 $Definition['Role Request Status'] = 'Status';
