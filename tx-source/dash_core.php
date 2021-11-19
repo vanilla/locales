@@ -201,7 +201,6 @@ $Definition['Click here to carry on.'] = 'Click here to carry on.';
 $Definition['Click here to carry on to your dashboard'] = 'Click here to carry on to your dashboard';
 $Definition['Client ID'] = 'Client ID';
 $Definition['Colored'] = 'Colored';
-$Definition['Comments'] = 'Comments';
 $Definition['comment(s)'] = 'comment(s)';
 $Definition['Comment  Body'] = 'Comment  Body';
 $Definition['Comment Settings'] = 'Comment Settings';
