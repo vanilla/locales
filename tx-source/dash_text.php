@@ -166,7 +166,7 @@ $Definition['Requires “Flag” reaction permission.'] = 'Requires “Flag” r
 $Definition['Requires “Negative” reaction permission.'] = 'Requires “Negative” reaction permission.';
 $Definition['Requires “Positive” reaction permission.'] = 'Requires “Positive” reaction permission.';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
-$Definition['Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".'] =
+$Definition['RichEditor.QuoteEnable.Notes'] =
     'Use the following option to enable quotes for the Rich Editor. This will only apply if the default formatter is "Rich".';
 $Definition['Route Expression'] = 'Route Expression';
 $Definition['Routes are used to redirect users.'] = 'Routes are used to redirect users depending on the URL requested.';
