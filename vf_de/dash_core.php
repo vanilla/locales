@@ -103,6 +103,7 @@ $Definition['An enabled message will be visible on the site.'] = 'Eine aktiviert
 $Definition['API'] = 'API ';
 $Definition['API SSO Expand Permission'] = 'API SSO Erlaubnis Expandieren';
 $Definition['API Status'] = 'API-Status';
+$Definition['Appearance'] = 'Aussehen';
 $Definition['Applicant'] = 'Bewerber';
 $Definition['applicant'] = 'Bewerber';
 $Definition['Applicant Role'] = 'Wähle eine Rolle für neue Bewerber.';
@@ -281,6 +282,7 @@ $Definition['Disable Tagging'] = 'Tagging deaktivieren';
 $Definition['Discussion & Comment Editing'] = 'Bearbeitung von Diskussionen & Kommentaren';
 $Definition['discussion(s)'] = 'Diskussion(en)';
 $Definition['Discussion  Body'] = 'Diskussionstext';
+$Definition['Discussions'] = 'Diskussionen';
 $Definition['Discussions Layout'] = 'Diskussions-Layout';
 $Definition['Discussions per Page'] = 'Diskussionen pro Seite';
 $Definition['Discussion  Subject'] = 'Diskussionsbetreff';
@@ -431,6 +433,9 @@ $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML-E-Mails';
 $Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'HTTP Strenge Transportsicherheit (HSTS) Einstellungen';
 
+$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Wenn aktiviert, wird der gesamte Inhalt der Beiträge in E-Mail-Nachrichten an die Nutzer gesendet.
+
+';
 $Definition['Inbox Page'] = 'Posteingangsseite';
 $Definition['Include Child Categories'] = 'Untergeordnete Kategorien einschließen';
 $Definition['Include full post in email notifications'] = 'Volle Posts in E-Mail-Benachrichtigungen einbeziehen';

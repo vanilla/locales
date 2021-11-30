@@ -666,11 +666,9 @@ $Definition['Ignoring this person will remove you from <b>%s %s</b> with them.']
 $Definition['images'] = 'ìomhaighean';
 $Definition['Images not allowed'] = 'Chan eil ìomhaighean ceadaichte';
 $Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'Thèid ìomhaighean a sgèile gu àirde as àirde de {maxImageHeight} px.';
-$Definition['ImageUploadLimits.Height1'] = 'Àirde Ìomhaigh Max';
 $Definition['ImageUploadLimits.Height2'] = 'Thèid ìomhaighean a lughdachadh ma thèid iad thairis air an àirde seo.';
 $Definition['ImageUploadLimits.Notes1'] = 'Dèan comas air crìoch luchdaich ìomhaigh';
 $Definition['ImageUploadLimits.Notes2'] = 'Cuir crìochan ri tomhasan luchdachadh suas ìomhaighean ann an còmhraidhean agus beachdan.';
-$Definition['ImageUploadLimits.Width1'] = 'Leud Ìomhaigh Max';
 $Definition['ImageUploadLimits.Width2'] = 'Thèid ìomhaighean a lughdachadh ma thèid iad thairis air an leud seo.';
 $Definition['Incorrect. Try again.'] = 'Mearachdach. Feuch a-rithist.';
 $Definition['In emoji category: '] = 'Ann an roinn emoji:';

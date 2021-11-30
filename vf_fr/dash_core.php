@@ -96,6 +96,7 @@ $Definition['All Time'] = 'Tout le temps';
 $Definition['An enabled message will be visible on the site.'] = 'Un message activé sera visible sur le site.';
 $Definition['API SSO Expand Permission'] = 'Permission d\'étendre API SSO';
 $Definition['API Status'] = 'Statut de l\'API';
+$Definition['Appearance'] = 'Apparence';
 $Definition['Applicant'] = 'Candidat';
 $Definition['applicant'] = 'candidat';
 $Definition['Applicant Role'] = 'Sélectionner le statut qui sera appliqué aux nouveaux candidats. Ceci ne vous concerne que si vous avez choisi la méthode d\'enregistrement par approbation.';
@@ -419,6 +420,8 @@ $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'Email HTML';
 $Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'Paramètres HTTP Strict Transport Security (HSTS)';
 
+$Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Si cette option est activée, le contenu complet des messages sera envoyé aux utilisateurs sous forme de notifications par e-mail.
+';
 $Definition['Inbox Page'] = 'Boîte de réception';
 $Definition['Include Child Categories'] = 'Inclure les catégories d\'enfants';
 $Definition['Include full post in email notifications'] = 'Inclure l\'intégralité de la publication dans les notifications par courriel.';

@@ -92,6 +92,7 @@ $Definition['default type'] = 'default';
 $Definition['Delete moderation information'] = 'I-delete ang impormasyon tungkol sa pag-moderate';
 $Definition['Delete Theme'] = 'I-delete ang Tema';
 $Definition['Desktop Themes'] = 'Mga Tema na Para sa Desktop';
+$Definition['Discussions'] = 'Mga Diskusyon';
 $Definition['Dismissable'] = 'Maaaring Balewalain';
 $Definition['Display a searchbox on top of the banner image.'] = 'Ipakita ang searchbox sa itaas ng imahe ng banner.';
 $Definition['Display on category page only.'] = 'Ipakita lang sa pahina ng kategorya. Hindi maaapektuhan ang pinakabagong listahan ng mga usapan.';

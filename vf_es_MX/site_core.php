@@ -860,15 +860,12 @@ $Definition['Image'] = 'Imagen';
 $Definition['images'] = 'imágenes';
 $Definition['Images not allowed'] = 'Imágenes no permitidas';
 $Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'Las imágenes se escalarán a una altura máxima de {maxImageHeight}px.';
-$Definition['ImageUploadLimits.Height1'] = 'Altura máxima de la imagen
-';
 $Definition['ImageUploadLimits.Height2'] = 'Las imágenes serán reducidas si superan esta altura.';
 $Definition['ImageUploadLimits.Notes1'] = 'Habilitar límite de carga de imágenes
 ';
 $Definition['ImageUploadLimits.Notes2'] = 'Añade límites a las dimensiones de carga de imágenes en las discusiones y comentarios.
 
 ';
-$Definition['ImageUploadLimits.Width1'] = 'Ancho máx. de imagen';
 $Definition['ImageUploadLimits.Width2'] = 'Las imágenes se reducirán si superan este ancho.
 ';
 $Definition['Image URL'] = 'URL de la imagen';
@@ -994,6 +991,9 @@ $Definition['Mark Category Viewed'] = 'Marcar categoría como vista';
 $Definition['Marking as spam cannot be undone.'] = 'Marcar algo como SPAM causará su eliminación para siempre. Eliminar es una buena forma de mantener limpio el foro.';
 $Definition['Mark Pending'] = 'Marcar como pendiente';
 $Definition['Mark Read'] = 'Marcar como leído ';
+$Definition['Max Image Height'] = 'Altura máxima de la imagen
+';
+$Definition['Max Image Width'] = 'Ancho máx. de imagen';
 $Definition['Maybe'] = 'Quizás';
 $Definition['Maybe (%s)'] = 'Quizás (%s)';
 $Definition['Me'] = 'Yo';

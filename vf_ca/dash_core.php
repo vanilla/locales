@@ -273,6 +273,7 @@ $Definition['Disable Tagging'] = 'Desactiva l\'etiquetatge';
 $Definition['Discussion & Comment Editing'] = 'Edició de debats i comentaris';
 $Definition['discussion(s)'] = 'discussió';
 $Definition['Discussion  Body'] = 'Bodyrgan de discussió';
+$Definition['Discussions'] = 'Discusions';
 $Definition['Discussions Layout'] = 'Maquetació de debats';
 $Definition['Discussions per Page'] = 'Discussions per pàgina';
 $Definition['Discussion  Subject'] = 'Assumpte de discussió';

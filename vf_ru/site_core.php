@@ -882,11 +882,9 @@ $Definition['Image'] = 'Изображение';
 $Definition['images'] = 'изображения';
 $Definition['Images not allowed'] = 'Изображения запрещены';
 $Definition['Images will be scaled to a maximum height of {maxImageHeight}px.'] = 'Изображения будут отрегулированы до максимальной высоты {maxImageHeight}px';
-$Definition['ImageUploadLimits.Height1'] = 'Максимальная высота изображения';
 $Definition['ImageUploadLimits.Height2'] = 'Изображения будут уменьшены, если они превышают данную высоту.';
 $Definition['ImageUploadLimits.Notes1'] = 'Включить лимит загрузки изображений';
 $Definition['ImageUploadLimits.Notes2'] = 'Добавить ограничения размера загружаемых изображений в обсуждениях и комментариях.';
-$Definition['ImageUploadLimits.Width1'] = 'Максимальная ширина изображения';
 $Definition['ImageUploadLimits.Width2'] = 'Изображения будут уменьшены, если они превышают данную ширину.';
 $Definition['Image URL'] = 'URL изображения';
 $Definition['in'] = 'Раздел:';
@@ -1012,6 +1010,8 @@ $Definition['Mark Category Viewed'] = 'Отметить раздел как пр
 $Definition['Marking as spam cannot be undone.'] = 'Сообщения, помечаемые как спам, будут безвозвратно удалены. Удаление является хорошим способом содержать форум в чистоте.';
 $Definition['Mark Pending'] = 'Отметить как ожидающий';
 $Definition['Mark Read'] = '<span title="Отметить посты в этой категории прочитанными">Прочитано</span>';
+$Definition['Max Image Height'] = 'Максимальная высота изображения';
+$Definition['Max Image Width'] = 'Максимальная ширина изображения';
 $Definition['Maybe'] = '
         Возможно
 
