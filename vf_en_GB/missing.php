@@ -170,8 +170,6 @@ $Definition['Feature Article'] = 'Recommend Article';
 $Definition['Featured Article'] = 'Recommended Article';
 $Definition['Featured Articles'] = 'Recommended Articles';
 $Definition['FollowOnly'] = 'Follow the link below to check it out:';
-$Definition['ForceWysiwyg.Notes1'] = 'Check the below option to tell the editor to reinterpret all old posts as Wysiwyg.';
-$Definition['ForceWysiwyg.Notes2'] = 'This setting will only take effect if Wysiwyg was chosen as the Post Format above. The purpose of this option is to normalize the editor format. If older posts edited with another format, such as markdown or BBCode, are loaded, this option will force Wysiwyg.';
 $Definition['Format as Paragraph'] = 'Format as a normal paragraph';
 $Definition['Format his'] = 'his';
 $Definition['Format their'] = 'their';
@@ -240,11 +238,9 @@ $Definition['If you want to embed your forum, enable embedding.'] = 'If you want
 $Definition['IgnoreListMeter'] = 'Ignore list is <b>%s%%</b> full (<b>%d/%d</b>).';
 $Definition['IgnoreListRevoke'] = 'Revoke <b>%s</b>\'s ignore list privileges?';
 $Definition['IgnoreListUnlimited'] = '<b>Unlimited</b> list, ignored <b>%d</b> %s';
-$Definition['ImageUploadLimits.Height1'] = 'Max Image Height';
 $Definition['ImageUploadLimits.Height2'] = 'Images will be scaled down if they exceed this height.';
 $Definition['ImageUploadLimits.Notes1'] = 'Enable Image Upload Limit';
 $Definition['ImageUploadLimits.Notes2'] = 'Add limits to image upload dimensions in discussions and comments.';
-$Definition['ImageUploadLimits.Width1'] = 'Max Image Width';
 $Definition['ImageUploadLimits.Width2'] = 'Images will be scaled down if they exceed this width.';
 $Definition['In additon to the widgets there are also'] = 'In additon to the widgets there are also <0>Global Styles</0>. To edit global styles click anywhere else on the page, such as this text.';
 $Definition['Inline Level Formatting Menu'] = 'Text Format Menu';
@@ -512,6 +508,7 @@ $Definition['The user isn\'t banned.'] = 'The user isn\'t banned or is banned by
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
 $Definition['This is a style guide of your theme.'] = 'This is a style guide of your theme. It has examples of the visual elements used throughout the application. You can click on the various widgets such as the <0>Title Bar</0> or <1>Banner</1> to edit their properties in the side panel.';
 $Definition['This is the administrative dashboard for your new community.'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the side. From there you can configure how your community works. <b>By default, only users in the "Administrator" role can see this part of your community.</b>';
+$Definition['This option is to normalize the editor format'] = 'This option is to normalize the editor format, if older posts edited with another format, such as markdown or BBCode, are loaded, this option will force %s.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This page lists the endpoints of your API.'] = 'This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
 $Definition['This setting loads the page before executing Javascript.'] = 'This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>';
@@ -543,6 +540,7 @@ $Definition['Use the plugin for WordPress or our universal code for any other pl
 
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';
+$Definition['ValidateByteLength'] = '%1$s is %2$s bytes too long.';
 $Definition['ValidateConnection'] = 'The connection parameters you specified failed to open a connection to the database. The database reported the following error: <code>%s</code>';
 $Definition['ValidateDate'] = '%s is not a valid date.';
 $Definition['ValidateDecimal'] = '%s is not a valid decimal.';
