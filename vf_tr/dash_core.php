@@ -893,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = '%s sayfasından bu tema için HTML ve CSS\'yi özelleştirebilirsiniz.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Yeni bir hesap oluşturabilir veya mevcut bir hesabınız varsa kimlik bilgilerinizi girebilirsiniz.';
 $Definition['You can make the categories page your homepage.'] = 'Kategoriler sayfanızı <a href="%s">burada</a> ana sayfanız yapabilirsiniz.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Yönlendirme ve katıştırma için güvenli olan bir güvenilen alanların (örneğin, etkialanınız.com) bir beyaz listesi belirleyebilirsiniz.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'JavaScript\'i yüklemek için güvenli olan güvenilir alanlardan (ör. alanadi.com) oluşan bir beyaz liste belirtebilirsiniz.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Yeniden yönlendirmeler ve katıştırma için güvenli olan bir güvenilen etki alanları (ör. etkialaniniz.com) için bir izin verilenler listesi belirtebilirsiniz.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Javascript\'i yüklemek için güvenli olan güvenilir etki alanlarının (ör. etkialaniniz.com) izin verilen bir listesini belirtebilirsiniz.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '%1$s eklentisini devre dışı bırakamazsınız, çünkü %2$s eklentisinin çalışması için gereklidir.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Tartışmalara izin veren yalnızca kalan kategoriyi kaldıramazsınız.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Sitenizi bir HTTP kullanıcı adı/şifresi ile gelişim süresince koruyabilirsiniz.';
