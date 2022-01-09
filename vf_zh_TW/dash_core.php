@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = '目前的連線是在測試�
 $Definition['This Database'] = '此資料庫';
 $Definition['QnAFollowup.Feature.Enabled'] = '此功能將電子郵件發送給沒有被接受答案的已回答問題的作者。';
 $Definition['This forum is currently set to invitation only mode.'] = '討論版目前設定為僅允許受邀人士進入的模式。';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = '當使用「圖示」樣式選項時，此圖像將用於類別清單和小工具。';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = '當使用「圖像」和/或「背景」樣式選項時，此圖像將出現在該類別的橫幅及類別小工具中。推薦的尺寸為 1000 x 400 畫素或類似的比例。';
 $Definition['This is a parent category that does not allow discussions.'] = '這個上層分類不開放討論功能。';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = '這是您第一次造訪討論版。';
 $Definition['This page requires Javascript.'] = '本頁需要 Javascript。';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = '您可以在%s頁面上修改這個視覺主題的HTML與CSS。';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = '您可以建立一個新帳號、或是輸入原有帳號的登入資料。';
 $Definition['You can make the categories page your homepage.'] = '您可以在<a href="%s">這裡</a>將分類頁面設為首頁。';
-$Definition['You can specify a whitelist of trusted domains.'] = '您可以指定可安全轉址及內嵌的信賴網域（例如 yourdomain.com）白名單。';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = '您可以指定可安全加載 javascript 的受信任域（例如 yourdomain.com）的白名單。';
+$Definition['You can specify an allow list of trusted domains.'] = '您可以指定一份對於重新導向和嵌入行為是安全的可信網域（例如 yourdomain.com）允許列表。';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = '您可以指定一份可安全載入 javascript 的可信網域（例如 yourdomain.com）允許列表。';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '請勿關閉%1$s插件，因為%2$s插件必須依賴前者才能運作。';
 $Definition['You cannot remove the only remaining category that allows discussions'] = '您不能移除最後一個仍允許留言的分類。';
 $Definition['You can protect your site with an HTTP username/password during development.'] = '您可在開發過程中使用 HTTP 用戶名／密碼來保護您的網站。';
