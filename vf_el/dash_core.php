@@ -800,6 +800,8 @@ $Definition['This connection is in test-mode.'] = 'Η σύνδεση είναι 
 $Definition['This Database'] = 'Αυτή η Βάση Δεδομένων';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Αυτή η δυνατότητα στέλνει μηνύματα ηλεκτρονικού ταχυδρομείου στους συντάκτες των απαντημένων ερωτήσεων που δεν έχουν αποδεκτή απάντηση.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Αυτό το φόρουμ είναι αυτή τη στιγμή σε λειτουργία μόνο με πρόσκληση.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Αυτή η εικόνα θα χρησιμοποιηθεί σε λίστες κατηγοριών και γραφικά στοιχεία όταν χρησιμοποιείτε την επιλογή στυλ "Εικονίδιο".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Αυτή η εικόνα θα εμφανίζεται στο banner αυτής της κατηγορίας και στα γραφικά στοιχεία κατηγορίας όταν χρησιμοποιείτε τις επιλογές στυλ "Εικόνα" ή/και "Φόντο". Οι συνιστώμενες διαστάσεις είναι περίπου 1000px επί 400px ή παρόμοια αναλογία.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Αυτή είναι μία γονική κατηγορία που δεν επιτρέπει συζητήσεις.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Αυτή είναι η πρώτη φορά που επισκέπτεσθε τα φόρουμ συζήτησης.';
 $Definition['This page requires Javascript.'] = 'Αυτή η σελίδα απαιτεί Javascript.';
@@ -893,8 +895,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Μπορείτε να προσαρμόσετε την HTML και το CSS γι\' αυτό το θέμα στη σελίδα %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Μπορείτε είτε να δημιουργήσετε ένα νέο λογαριασμό, ή να εισάγετε τα διαπιστευτήριά σας αν έχετε ήδη λογαριασμό.';
 $Definition['You can make the categories page your homepage.'] = 'Μπορείτε να κάνετε τη σελίδα κατηγοριών σας αρχική σας σελίδα <a href="%s">εδώ</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Μπορείς να ορίσεις μία λίστα εξαιρέσεων με έμπιστα domains (π.χ. yourdomain.com) που είναι ασφαλή για ανακατευθύνσεις και ενσωματώσεις.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Μπορείτε να καθορίσετε μια λίστα επιτρεπόμενων αξιόπιστων τομέων (π.χ. yourdomain.com) από τους οποίους είναι δυνατή η φόρτωση javascript.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Μπορείτε να καθορίσετε μια λίστα επιτρεπόμενων αξιόπιστων τομέων (π.χ. yourdomain.com) που είναι ασφαλείς για ανακατευθύνσεις και ενσωμάτωση.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Μπορείτε να καθορίσετε μια λίστα επιτρεπόμενων αξιόπιστων τομέων (π.χ. yourdomain.com) από τους οποίους είναι ασφαλής η φόρτωση javascript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Δεν μπορείτε να απενεργοποιήσετε το πρόσθετο %1$s επειδή το χρειάζεται το πρόσθετο %2$s για να λειτουργήσει.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Δεν μπορείτε να αφαιρέσετε τη μόνη εναπομένουσα κατηγορία που επιτρέπει συζητήσεις';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Μπορείτε να προστατεύσετε τον ιστότοπό σας με ένα όνομα χρήστη/κωδικό πρόσβασης πρωτοκόλλου HTTP κατά τη διάρκεια της ανάπτυξης. ';
