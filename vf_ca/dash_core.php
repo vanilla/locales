@@ -794,6 +794,8 @@ $Definition['This connection is in test-mode.'] = 'Aquesta connexió està en mo
 $Definition['This Database'] = 'Aquesta base de dades';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Aquesta funció envia correus electrònics als autors de preguntes contestades que no tenen una resposta acceptada.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Actualment, aquest fòrum està configurat només en mode invitació.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Aquesta imatge s\'utilitzarà a les llistes de categories i ginys quan utilitzeu l\'opció d\'estil "Icona".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Aquesta imatge apareixerà al bàner d\'aquesta categoria i als ginys de categoria quan utilitzeu les opcions d\'estil "Imatge" i/o "Fons". Les dimensions recomanades són d\'uns 1000 píxels per 400 px o una proporció similar.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Aquesta és una categoria de pares que no permet discussions.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'És la primera vegada que visites els fòrums de discussió.';
 $Definition['This page requires Javascript.'] = 'Aquesta pàgina requereix Javascript.';
@@ -887,8 +889,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Podeu personalitzar l’HTML i CSS per aquest tema a la pàgina %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Podeu crear un compte nou o bé introduir les credencials si teniu un compte existent.';
 $Definition['You can make the categories page your homepage.'] = 'Podeu fer de la pàgina de categories la vostra pàgina d\'inici <a href="%s">aquí</a> .';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Podeu especificar una llista blanca de dominis de confiança (ex. Yourdomain.com) segurs per a redireccions i incrustacions.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Podeu especificar una llista blanca de dominis de confiança (per exemple, domini.com) des de la qual es pot carregar javascript de forma segura.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Podeu especificar una llista permesa de dominis de confiança (p. ex. el vostredomini.com) segurs per a redireccions i incrustacions.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Podeu especificar una llista permesa de dominis de confiança (p. ex. el vostredomini.com) des dels quals es pot carregar javascript amb seguretat.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'No podeu desactivar el complement %1$s perquè el complement %2$s ho requereix per funcionar.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'No podeu eliminar l’única categoria que permet les discussions';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Podeu protegir el vostre lloc amb un nom d’usuari / contrasenya HTTP durant el desenvolupament.';
