@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = 'Mae\'r cysylltiad hwn mewn mo
 $Definition['This Database'] = 'Y gronfa ddata hon';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Mae\'r nodwedd hon yn anfon e-byst at awduron cwestiynau a atebwyd nad oes ganddynt ateb derbyniol.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Mae\'r fforwm hwn wedi ei osod ar hyn o bryd i fodd gwahoddiad yn unig.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Bydd y ddelwedd hon yn cael ei defnyddio mewn rhestrau categorïau a widgets wrth ddefnyddio\'r opsiwn arddull "Icon".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Bydd y ddelwedd hon yn ymddangos ym baner y categori hwn ac mewn teclynnau categori wrth ddefnyddio\'r opsiynau arddull "Delwedd" a/neu "Cefndir". Mae\'r dimensiynau a argymhellir tua 1000px wrth 400px neu gymhareb debyg.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Mae hwn yn uwch gategori nad yw\'n caniatáu trafodaethau.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Hwn yw\'r tro cyntaf ichi ymweld â\'r fforymau trafod.';
 $Definition['This page requires Javascript.'] = 'Mae angen Javascript ar y dudalen yma.';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Gallwch addasu HTML a CSS ar gyfer y thema hon ar y dudalen %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Gallwch naill ai greu cyfrif newydd, neu roi eich manylion adnabod os oes gennych gyfrif eisoes.';
 $Definition['You can make the categories page your homepage.'] = 'Gallwch wneud eich categorïau Tudalen eich hafan <a href="%s"> yma</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Gallwch chi nodi rhestr wen o barthau dibynadwy (ex. Yourdomain.com) sy\'n ddiogel i\'w hailgyfeirio a\'u hymgorffori.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Gallwch chi nodi rhestr wen o barthau dibynadwy (ex. Yourdomain.com) sy\'n ddiogel i lwytho javascript ohonynt.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Gallwch nodi rhestr caniatáu o barthau dibynadwy (ex. yourdomain.com) sy\'n ddiogel ar gyfer ailgyfeirio ac ymgorffori.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Gallwch chi nodi rhestr caniatáu o barthau dibynadwy (ex. yourdomain.com) sy\'n ddiogel i lwytho javascript ohonynt.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Ni allwch analluogi ategyn %1$s oherwydd bod ategyn %2$s yn dibynnu arno er mwyn gweithio.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Chewch chi ddim tynnu\'r unig gategori sy\'n weddill sy\'n caniatáu trafodaethau';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Gallwch amddiffyn eich gwefan gydag enw defnyddiwr / cyfrinair HTTP yn ystod y datblygiad.';
