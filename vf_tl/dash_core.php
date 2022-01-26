@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = 'This connection is in test-mo
 $Definition['This Database'] = 'This Database';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Ang tampok na ito ay nagpapadala ng mga email sa mga may-akda ng mga nasagot na katanungan na walang tinanggap na sagot.';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Gagamitin ang larawang ito sa mga listahan ng kategorya at mga widget kapag ginagamit ang opsyong istilong "Icon".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Lalabas ang larawang ito sa banner ng kategoryang ito at sa mga widget ng kategorya kapag ginagamit ang mga pagpipilian sa istilo ng "Larawan" at/o "Background". Ang mga inirerekomendang dimensyon ay humigit-kumulang 1000px by 400px o katulad na ratio.';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'You can customize the HTML and CSS for this theme on the %s page.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'You can either create a new account, or enter your credentials if you have an existing account.';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Maaari mong tukuyin ang isang whitelist ng mga trusted domain (hal. yourdomain.com) na ligtas para sa mga pag-redirect at pag-embed.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Maaari mong tukuyin ang isang whitelist ng mga pinagkakatiwalaang domain (hal. Yourdomain.com) na ligtas na mai-load ang javascript mula sa.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Maaari kang tumukoy ng allow list ng mga pinagkakatiwalaang domain (hal. yourdomain.com) na ligtas para sa mga pag-redirect at pag-embed.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Maaari kang tumukoy ng allow list ng mga pinagkakatiwalaang domain (hal. yourdomain.com) na ligtas na mag-load ng javascript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Maaari mong protektahan ang iyong site gamit ang HTTP username/password sa panahon nang pag-develop.';
