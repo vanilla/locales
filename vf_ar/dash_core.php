@@ -794,6 +794,8 @@ $Definition['This connection is in test-mode.'] = 'هذا الإتصال في ح
 $Definition['This Database'] = 'قاعدة البيانات هذه';
 $Definition['QnAFollowup.Feature.Enabled'] = 'ترسل هذه الميزة رسائل بريد إلكتروني إلى مؤلفي الأسئلة التي تمت الإجابة عليها والتي ليس لها إجابة مقبولة.';
 $Definition['This forum is currently set to invitation only mode.'] = 'هذا المنتدى مضبوط حاليًا على وضع الدعوة فقط.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'سيتم استخدام هذه الصورة في قوائم الفئات وعناصر واجهة المستخدم عند استخدام خيار نمط "الرمز".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'ستظهر هذه الصورة في لافتة هذه الفئة وفي أدوات الفئة عند استخدام خيارات نمط "الصورة" و / أو "الخلفية". الأبعاد الموصى بها هي حوالي 1000 × 400 بكسل أو نسبة مماثلة.';
 $Definition['This is a parent category that does not allow discussions.'] = 'هذه فئة رئيسية لا تسمح بإجراء مناقشات.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This page requires Javascript.'] = 'تتطلب هذه الصفحة جافا سكريبت.';
@@ -887,8 +889,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'يمكنك تخصيص HTML و CSS لهذا السمة في صفحة %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'يمكنك إما إنشاء حساب جديد ، أو إدخال بيانات الاعتماد الخاصة بك إذا كان لديك حساب موجود.';
 $Definition['You can make the categories page your homepage.'] = 'يمكنك جعل صفحة الفئات الخاصة بك صفحتك الرئيسية <a href="%s">هنا</a> .';
-$Definition['You can specify a whitelist of trusted domains.'] = 'يمكنك تحديد قائمة بيضاء للنطاقات الموثوق بها (مثل yourdomain.com) والتي تكون آمنة لعمليات إعادة التوجيه والتضمين.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'يمكنك تحديد قائمة بيضاء بالمجالات الموثوقة (مثل yourdomain.com) الآمنة لتحميل جافا سكريبت منها.';
+$Definition['You can specify an allow list of trusted domains.'] = 'يمكنك تحديد القائمة البيضاء لأسماء النطاقات الموثوقة (مثل: yourdomain.com) التي تعتبر آمنة لإعادة توجيه الروابط وإدماج المحتوى بصفحات خارجية';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'يمكنك تحديد القائمة البيضاء لأسماء النطاقات الموثوقة (مثل: yourdomain.com) التي تعتبر آمنة ليتم تحميل أكواد جافاسكريبت/JavaScript منها.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'لا يمكنك تعطيل المكون الإضافي %1$s لأن المكون الإضافي %2$s يتطلبه ليعمل.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'لا يمكنك إزالة الفئة الوحيدة المتبقية التي تسمح بالمناقشات';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'يمكنك حماية موقعك باستخدام اسم مستخدم / كلمة مرور بنظام HTTP أثناء التطوير.';
