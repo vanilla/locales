@@ -801,6 +801,8 @@ $Definition['This connection is in test-mode.'] = 'Deze verbinding is in testmod
 $Definition['This Database'] = 'Deze database';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Deze functie stuurt e-mails naar de opstellers van beantwoorde vragen die geen geaccepteerd antwoord hebben.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Je kunt momenteel alleen op uitnodiging lid worden.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Deze afbeelding wordt gebruikt in categorielijsten en widgets bij gebruik van de stijloptie "Icoon".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Deze afbeelding zal verschijnen in de banner van deze categorie en in categoriewidgets bij gebruik van de stijlopties "Afbeelding" en/of "Achtergrond". Aanbevolen afmetingen zijn ongeveer 1000 px bij 400 px of een vergelijkbare verhouding.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Dit is een moedercategorie die geen discussies toestaat.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Dit is de eerste keer dat je de discussieforums hebt bezocht.';
 $Definition['This page requires Javascript.'] = 'Deze pagina heeft JavaScript nodig.';
@@ -894,8 +896,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Je kan de HTML- en CSS-bestanden voor dit thema op de %s-pagina aanpassen. ';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Je kan een nieuw account aanmaken, of je gegevens invullen als je een bestaand account hebt.';
 $Definition['You can make the categories page your homepage.'] = 'Je kunt van je categorieënpagina <a href="%s">hier</a> je hoofdpagina maken.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Je kunt een witte lijst met vertrouwde domeinen (bijvoorbeeld jedomein.com) opgeven die veilig zijn voor omleidingen en insluitingen.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'U kunt een witte lijst met vertrouwde domeinen (bijv. uwdomein.com) opgeven waarvandaan veilig Javascript kan worden geladen.';
+$Definition['You can specify an allow list of trusted domains.'] = 'U kunt een lijst met vertrouwde domeinen (bijv. uwdomein.com) opgeven die veilig zijn voor omleidingen en insluiten.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'U kunt een lijst met vertrouwde domeinen (bijv. uwdomein.com) opgeven waarvandaan veilig Javascript kan worden geladen.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Je kunt de %1$s plug-in niet uitschakelen, omdat de %2$s plug-in ervan afhankelijk is.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Je kan de enige categorie die discussies toestaat niet verwijderen';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Je kan je site tijdens ontwikkeling beschermen met een HTTP gebruikersnaam/wachtwoord.';
