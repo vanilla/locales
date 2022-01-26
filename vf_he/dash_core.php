@@ -795,6 +795,8 @@ $Definition['This connection is in test-mode.'] = 'החיבור נמצא במצ�
 $Definition['This Database'] = 'מאגר הנתונים';
 $Definition['QnAFollowup.Feature.Enabled'] = 'תכונה זו שולחת דוא"ל למחברים של שאלות שנענות עליהן אין תשובה מקובלת.';
 $Definition['This forum is currently set to invitation only mode.'] = 'הפורום כרגע במצב בו הוא פתוח למשתמשים חדשים רק דרך הזמנות.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'תמונה זו תשמש ברשימות קטגוריות ובווידג\'טים בעת שימוש באפשרות הסגנון "אייקון".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'תמונה זו תופיע בבאנר של קטגוריה זו ובווידג\'טים של קטגוריות בעת שימוש באפשרויות סגנון "תמונה" ו/או "רקע". המידות המומלצות הן בערך 1000px על 400px או יחס דומה.';
 $Definition['This is a parent category that does not allow discussions.'] = 'קטגוריה זו היא קטגורית על, ולא ניתן לפתוח בה דיונים.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'זו הפעם הראשונה בה אתה מבקר בפורום.';
 $Definition['This page requires Javascript.'] = 'ניתן להציג את הדף רק באמצעות Javascript.';
@@ -888,8 +890,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'ניתן לשנות את ה-HTML וה-CSS של ערכת הנושא בדף הבא %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'אם כבר יש ברשותך חשבון אנא הכנס את פרטיו, אחרת ניתן ליצור חשבון חדש.';
 $Definition['You can make the categories page your homepage.'] = 'באפשרותך להפוך את דף הקטגוריות שלך לדף הבית שלך <a href="%s">כאן</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'באפשרותך לציין רשימה לבנה של דומיינים מהימינים (למשל, yourdomain.com) שהם בטוחים לניתובים מחדש ולהטבעה.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'תוכל לציין רשימת היתרים של דומיינים מהימנים (למשל. Yourdomain.com) שבטוחים לטעון מהם.';
+$Definition['You can specify an allow list of trusted domains.'] = 'אתה יכול לציין רשימת אישורים של דומיינים מהימנים (לדוגמה yourdomain.com) בטוחים להפניה מחדש ולהטמעה.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'אתה יכול לציין רשימת אישורים של דומיינים מהימנים (לדוגמה yourdomain.com) שמהם בטוח לטעון JavaScript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'אי-אפשר להפסיק את פעולת התוספת  %1$s בגלל שהתוספת  %2$s זקוקה לה כדי להמשיך לעבוד.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'לא ניתן להסיר את הקטגוריה האחרונה שנשארה שמאפשרת דיונים.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'באפשרותך להגן על האתר שלך באמצעות שם משתמש או סיסמה ב- HTTP במהלך הפיתוח.';
