@@ -799,6 +799,8 @@ $Definition['This connection is in test-mode.'] = 'Koneksi ini dalam modus-tes.'
 $Definition['This Database'] = 'Basisdata Ini';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Fitur ini mengirimkan email ke penulis pertanyaan terjawab yang tidak memiliki jawaban yang diterima.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Forum ini telah disetel pada modus hanya mengundang saja.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Gambar ini akan digunakan dalam daftar kategori dan widget saat menggunakan opsi gaya "Ikon".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Gambar ini akan muncul di spanduk kategori ini dan di widget kategori saat menggunakan opsi gaya "Gambar" dan/atau "Latar Belakang". Dimensi yang disarankan adalah sekitar 1000 piksel kali 400 piksel atau rasio serupa.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Ini adalah induk kategori yang tidak memperkenankan diskusi.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Ini adalah kali pertama Anda mengunjungi forum diskusi.';
 $Definition['This page requires Javascript.'] = 'Halaman ini memerlukan Javascript.';
@@ -892,8 +894,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Anda dapat menyesuaikan HTML dan CSS untuk tema ini pada halaman %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Anda dapat membuat akun baru, atau masukkan data kredensial Anda bila Anda telah memiliki akun.';
 $Definition['You can make the categories page your homepage.'] = 'Anda dapat menjadikan halaman kategori Anda sebagai laman beranda <a href="%s">di sini</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Anda dapat menetapkan daftar domain yang dipercaya/daftar putih (misalnya domainanda.com) yang aman untuk pengarahan ulang dan disematkan.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Anda dapat menentukan sebuah whitelist dari domain yang terpercaya (cont. domainkamu.com) yang aman untuk memuat javascript dari sana.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Anda dapat menentukan daftar domain tepercaya yang diizinkan (mis. domainanda.com) yang aman untuk pengalihan dan penyematan.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Anda dapat menentukan daftar domain tepercaya yang diizinkan (mis. domainanda.com) yang aman untuk memuat javascript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Anda tidak dapat menonaktifkan plugin %1$s karena plugin %2$s dibutuhkan agar bisa berfungsi.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Anda tidak dapat menghapus kategori tersisa yang memperkenankan diskusi';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Anda bisa melindungi situs dengan nama pengguna/kata sandi HTTP selama pengembangan.';
