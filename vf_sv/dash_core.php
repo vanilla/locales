@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = 'Den här uppkopplingen är i 
 $Definition['This Database'] = 'Denna databas';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Den här funktionen skickar e-post till författarna om besvarade frågor som inte har ett accepterat svar.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Detta forum är för tillfället inställt på endast inbjudan.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Den här bilden kommer att användas i kategorilistor och widgets när du använder stilalternativet "Ikon".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Den här bilden kommer att visas i denna kategoris banner och i kategoriwidgets när du använder stilalternativen "Bild" och/eller "Bakgrund". Rekommenderade mått är cirka 1000 pixlar gånger 400 pixlar eller ett liknande förhållande.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Det här är en huvudkategori som inte tillåter diskussioner.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Det här första gången du besöker diskussionsforumet.';
 $Definition['This page requires Javascript.'] = 'Denna sida kräver Javascript.';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Du kan anpassa HTML och CSS för det här temat på sidan %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Du kan antingen skapa ett nytt konto, eller skriva in dina inloggningsuppgifter om du har ett befintligt konto.';
 $Definition['You can make the categories page your homepage.'] = 'Du kan göra din kategorisida till din hemsida <a href="%s">här</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Du kan skapa en lista på betrodda domäner (t.ex. dindomän.se) som är säkra att omdirigera till och bädda in. ';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Du kan ange en vitlista över betrodda domäner (t.ex. din domän. Com) som är säkra att ladda javascript från.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Du kan ange en tillåten lista över betrodda domäner (t.ex. dindomän.com) som är säkra för omdirigeringar och inbäddning.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Du kan ange en tillåtslista över betrodda domäner (t.ex. dindomän.com) som är säkra att ladda javascript från.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Du kan inte inaktivera ditt %1$s plugin på grund av att ditt plugin %2$s kräver det för att fungera.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Du kan inte radera den enda kvarvarande kategorin som tillåter diskussioner.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Under utvecklingen kan du skydda din webbplats med HTTP-användarnamn och lösenord.';
