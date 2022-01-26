@@ -790,6 +790,8 @@ $Definition['This connection is in test-mode.'] = 'Lokhu kuxhuma kumodi yokuhlol
 $Definition['This Database'] = 'Le Database';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Lesi sici sithumela ama-imeyili kubabhali bemibuzo ephenduliwe engenampendulo eyamukelekayo.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Le nkundla okwamanje isethwe kumodi yokumema kuphela.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Lesi sithombe sizosetshenziswa ezinhlwini zezigaba namawijethi lapho kusetshenziswa inketho yesitayela ethi "Isithonjana".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Lesi sithombe sizovela kusibhengezo salesi sigaba kanye nasezinqubweni zesigaba uma usebenzisa izinketho zesitayela "sesithombe" kanye/noma "Ingemuva". Ubukhulu obunconyiwe cishe bungu-1000px ngo-400px noma isilinganiso esifanayo.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Lesi isigaba sabazali esingavumeli izingxoxo.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Kungokokuqala ukuthi uvakashele izinkundla zokuxoxisana.';
 $Definition['This page requires Javascript.'] = 'Leli khasi lidinga iJavascript.';
@@ -883,8 +885,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Ungenza ngokwezifiso i-HTML ne-CSS ngalesi sihloko ekhasini le-%s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Ungakha i-akhawunti entsha, noma ufake iziqinisekiso zakho uma une-akhawunti ekhona.';
 $Definition['You can make the categories page your homepage.'] = 'Ungenza ikhasi lakho lezigaba libe ikhasi lakho lasekhaya <a href="%s">lapha</a> .';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Ungacacisa okumhlophe kwezizinda ezethembekile (ex .domdomain.com) eziphephile ukuqondiswa kabusha nokushumeka.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Ungacacisa uhlu olumhlophe lwezizinda ezethembekile (isb. Yourdomain.com) eziphephile ukulayisha i-JavaScript kusuka.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Ungacacisa uhlu lokuvumela lwezizinda ezithenjwayo (isb. yourdomain.com) eziphephile ekuqondisweni kabusha nokushumeka.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Ungacacisa uhlu lokuvumela lwezizinda ezithenjwayo (isb. yourdomain.com) okuphephile ukulayisha i-javascript kuzo.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Awukwazi ukukhubaza i-plug ye-%1$s ngoba i-plug ye-%2$s iyidinga ukuze isebenze.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Awukwazi ukususa isigaba esisele kuphela esivumela izingxoxo';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Ungavikela isiza sakho ngegama lomsebenzisi / iphasiwedi ye-HTTP ngesikhathi sokuthuthuka.';
