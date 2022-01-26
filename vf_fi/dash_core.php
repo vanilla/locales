@@ -799,6 +799,8 @@ $Definition['This connection is in test-mode.'] = 'This connection is in test-mo
 $Definition['This Database'] = 'Tämä tietokanta';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Tämä ominaisuus lähettää sähköpostia vastattujen kysymysten kirjoittajille, joille ei ole hyväksyttyä vastausta.';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Tätä kuvaa käytetään luokkaluetteloissa ja widgeteissä, kun käytetään "Kuvake"-tyylivaihtoehtoa.';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Tämä kuva näkyy tämän luokan bannerissa ja luokkawidgeteissä käytettäessä "Kuva"- ja/tai "Tausta"-tyylivaihtoehtoja. Suositellut mitat ovat noin 1 000 x 400 pikseliä tai vastaava suhde.';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This page requires Javascript.'] = 'Tämä sivu vaatii toimiakseen javascriptin sallimisen.';
@@ -892,8 +894,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Voit muokata HTML ja CSS Teeman %s sivulta.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'You can either create a new account, or enter your credentials if you have an existing account.';
 $Definition['You can make the categories page your homepage.'] = 'Voit asettaa kategorianäkymän forumisi kotisivuksi <a href="%s">tästä</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Voit luoda luotetuista domaineista poikkeuslistan (esim. minundomainini.fi). Niistä ovat turvallista sisällyttää sisältöä sekä niille voi turvallisesti uudelleenjohtaa.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Voit määrittää sallittujen luettelon luotetuista verkkotunnuksista (esim. Oma verkkotunnus.com), joista JavaScript voidaan ladata turvallisesti.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Voit määrittää luettelon luotetuista verkkotunnuksista (esim. omaverkkotunnus.com), jotka ovat turvallisia uudelleenohjauksille ja upotuksille.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Voit määrittää luettelon luotetuista verkkotunnuksista (esim. omaverkkotunnus.com), joista on turvallista ladata javascript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Työskentelyn aikana voit suojata sivustosi HTTP-käyttäjätunnuksella ja salasanalla.';
