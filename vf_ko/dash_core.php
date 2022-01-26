@@ -810,6 +810,8 @@ $Definition['This connection is in test-mode.'] = 'This connection is in test-mo
 $Definition['This Database'] = 'This Database';
 $Definition['QnAFollowup.Feature.Enabled'] = '이 기능은 수락 된 답변이없는 답변 된 질문의 작성자에게 이메일을 보냅니다.';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = '이 이미지는 "아이콘" 스타일 옵션을 사용할 때 카테고리 목록 및 위젯에서 사용됩니다.';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = '이 이미지는 "이미지" 및/또는 "배경" 스타일 옵션을 사용할 때 이 카테고리의 배너와 카테고리 위젯에 나타납니다. 권장 크기는 약 1000x400px 또는 이와 유사한 비율입니다.';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
@@ -903,8 +905,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'You can customize the HTML and CSS for this theme on the %s page.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'You can either create a new account, or enter your credentials if you have an existing account.';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = '리다이렉트 및 임베드에도 안전한 신뢰 도메인(예: yourdomain.com)의 화이트리스트를 명시하실 수 있습니다.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = '자바스크립트를 로드하기에 안전한 신뢰할 수 있는 도메인(예: yourdomain.com)의 허용 목록을 지정할 수 있습니다.';
+$Definition['You can specify an allow list of trusted domains.'] = '리디렉션 및 포함에 안전한 신뢰할 수 있는 도메인(예: yourdomain.com)의 허용 목록을 지정할 수 있습니다.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = '자바스크립트를 로드하기에 안전한 신뢰할 수 있는 도메인(예: yourdomain.com)의 허용 목록을 지정할 수 있습니다.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '플러그인을 해제할 수 없습니다. %2$s이 올바르게 작동하기 위해 %1$s 플러그인이 필요합니다.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
 $Definition['You can protect your site with an HTTP username/password during development.'] = '당신은 개발하고 있는 중에 HTTP 사용자 이름/비밀번호로 당신의 사이트를 보호할 수 있습니다.';
