@@ -801,6 +801,8 @@ $Definition['This connection is in test-mode.'] = 'Toto pripojenie ja v testovac
 $Definition['This Database'] = 'Táto databáza';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Táto funkcia odosiela autorovi e-maily na zodpovedané otázky, ktoré nemajú akceptovanú odpoveď.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Toto fórum má momentálne nastavený režim iba na pozvanie.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Tento obrázok sa použije v zoznamoch kategórií a miniaplikáciách pri použití možnosti štýlu „Ikona“.';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Tento obrázok sa zobrazí v banneri tejto kategórie a v miniaplikáciách kategórie pri použití možností štýlu „Obrázok“ a/alebo „Pozadie“. Odporúčané rozmery sú približne 1 000 x 400 pixelov alebo podobný pomer.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Toto je rodičovská kategória, ktorá neumožňuje diskusie.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Toto je prvý raz, čo ste navštívili diskusné fóra.';
 $Definition['This page requires Javascript.'] = 'Táto stránka si vyžaduje Javascript.';
@@ -894,8 +896,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Na stránke %s môžete prispôsobiť kódy HTML a CSS.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Môžete si vytvoriť nový účet alebo zadať svoje poverenia, ak už máte existujúci účet.';
 $Definition['You can make the categories page your homepage.'] = 'Vašu stránku s kategóriami si môžete <a href="%s">tu</a> nastaviť ako domovskú stránku.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Môžete zadať zoznam povolených dôveryhodných domén (napr. vasadomena.sk), na ktoré je bezpečné presmerovanie a vkladanie.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Môžete určiť bielu listinu dôveryhodných domén (napr. Vaša doména.com), z ktorých je bezpečné načítať JavaScript.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Môžete zadať zoznam povolených dôveryhodných domén (napr. vasadomena.com), ktoré sú bezpečné pre presmerovania a vkladanie.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Môžete zadať zoznam povolených dôveryhodných domén (napr. vasadomena.com), z ktorých je bezpečné načítať javascript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Doplnok %1$s nemôžete vymazať, lebo je potrebný na fungovanie doplnku %2$s.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Poslednú zostávajúcu kategóriu, ktorá umožňuje diskusie, nemôžete odstrániť ';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Počas vývoja môžete svoju stránku chrániť HTTP používateľským menom a heslom.';

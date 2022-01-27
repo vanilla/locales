@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = 'A kapcsolat teszt üzemmódba
 $Definition['This Database'] = 'Ez az adatbázis';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Ez a szolgáltatás e-maileket küld azoknak a válaszoknak a szerzőire, amelyek nem fogadnak el elfogadott választ.';
 $Definition['This forum is currently set to invitation only mode.'] = 'A fórum jelenleg csak maghívásos alapon működik.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Ezt a képet a rendszer a kategórialistákban és a widgetekben fogja használni az „Ikon” stílusopció használatakor.';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Ez a kép megjelenik a kategória szalaghirdetésében és a kategóriamodulokban, ha a „Kép” és/vagy a „Háttér” stílusbeállításokat használja. Az ajánlott méret körülbelül 1000 x 400 képpont vagy hasonló arány.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Ez egy olyan szülő kategória, ami nem engedélyez beszélgetéseket.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Ez az első alkalom, hogy a meglátogattad a fórumot.';
 $Definition['This page requires Javascript.'] = 'Az oldalhoz Javascript kell.';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Testre szabhatod a téma HTML és CSS részét a(z) %s oldalon.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Létrehozhatsz egy új fiókot, vagy megadhatod egy meglévő fiók hitelesítési adatait.';
 $Definition['You can make the categories page your homepage.'] = 'Beállíthatod a kategória oldalt a honlapodnak <a href="%s">az alábbi helyen</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Meghatározható egy engedélyezési lista a megbízható doménekről (pl azéndoménem.com, amelyek biztonságosak átirányítás és beágyazás szempontjából.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Megadhat olyan megbízható domainek (pl. Sajátdomain.com) engedélyezőlistáját, amelyekről biztonságosan lehet betölteni a javascriptet.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Megadhat egy listát a megbízható tartományokról (pl. yourdomain.com), amelyek biztonságosak az átirányításokhoz és a beágyazásokhoz.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Megadhat egy listát azokról a megbízható tartományokról (pl. yourdomain.com), amelyekről biztonságos a JavaScript betöltése.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Nem tilthatod le a %1$s modult, mert a %2$s modulnak szüksége van rá a működéshez.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Nem törölheted az egyetlen megmaradt kategóriát, amiben lehet beszélgetéseket létrehozni.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Webhelyedet védheted a fejlesztés alatt egy HTTP felhasználónévvel / jelszóval ';

@@ -801,6 +801,8 @@ $Definition['This connection is in test-mode.'] = 'Denne forbindelse er i testti
 $Definition['This Database'] = 'Denne database';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Denne funktion sender e-mails til forfatterne om besvarede spørgsmål, der ikke har et accepteret svar.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Dette forum tillader kun nye brugere pr. invitation.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Dette billede vil blive brugt i kategorilister og widgets, når du bruger stilmuligheden "Ikon".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Dette billede vises i denne kategoris banner og i kategori-widgets, når du bruger stilindstillingerne "Billede" og/eller "Baggrund". De anbefalede dimensioner er omkring 1000px gange 400px eller et lignende forhold.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Dette er en yderste kategori der ikke tillader diskussioner.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Dette er den første gang du har besøgt diskussionsforaerne.';
 $Definition['This page requires Javascript.'] = 'Denne side kræver JavaScript.';
@@ -894,8 +896,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Du kan tilpasse HTML og CSS for dette tema på siden %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Du kan enten oprette en ny konto eller indtaste dine loginoplysninger hvis du allerede har en konto.';
 $Definition['You can make the categories page your homepage.'] = 'Du kan lave kategorier for din hjemmeside <a href="%s">her</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Du kan specificere en hvidliste over sikre domæner, (f.eks. yourdomain.com), som er sikre til viderestilling og indlejring. ';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Du kan angive en hvidliste over pålidelige domæner (f.eks. Ditdomæne.com), der er sikkert at indlæse javascript fra.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Du kan angive en tilladt liste over domæner, der er tillid til (f.eks. ditdomæne.com), der er sikre til omdirigeringer og indlejring.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Du kan angive en tilladt liste over domæner, der er tillid til (f.eks. ditdomæne.com), som er sikre at indlæse javascript fra.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Du kan ikke deaktivere udvidelsen %1$s fordi %2$s udvidelsen er nødvendig for at virke.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Du kan ikke fjerne den sidste tilbageværende kategori der tillader diskussioner.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Du kan beskytte din side med et HTTP brugernavn/kodeord under opbygningen. ';

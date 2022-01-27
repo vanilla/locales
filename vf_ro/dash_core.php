@@ -797,6 +797,8 @@ $Definition['This connection is in test-mode.'] = 'Această conexiune este în m
 $Definition['This Database'] = 'Această bază de date';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Această caracteristică trimite e-mailuri către autorii de întrebări care nu au un răspuns acceptat.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Acest forum se poate accesa momentan doar pe bază de invitație';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Această imagine va fi folosită în listele de categorii și widget-uri atunci când utilizați opțiunea de stil „Icoană”.';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Această imagine va apărea în bannerul acestei categorii și în widget-urile categoriei atunci când utilizați opțiunile de stil „Imagine” și/sau „Fondal”. Dimensiunile recomandate sunt de aproximativ 1000px pe 400px sau un raport similar.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Aceasta este o categorie părinte, care nu permite discuţii';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Aceasta este prima dată când vizitați forumuri de discuţie';
 $Definition['This page requires Javascript.'] = 'Această pagină necesită Javascript';
@@ -890,8 +892,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Aveţi posibilitatea să particularizaţi HTML şi CSS pentru această temă pe pagina %s';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Vă puteţi crea un cont nou, sau să introduceţi acreditările, dacă aveţi un cont existent';
 $Definition['You can make the categories page your homepage.'] = 'Puteţi seta pagina de categorii ca pagină de start <a href="%s"> aici</a>';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Poți specifica o listă albă a domeniilor de încredere (de ex.: yourdomain.com), care sunt sigure din punct de vedere al redirecționării și încorporării.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Puteți specifica o listă albă de domenii de încredere (de exemplu, domeniul dvs.) care pot fi încărcate în siguranță din javascript.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Puteți specifica o listă permisă de domenii de încredere (ex. domeniul dvs..com) care sunt sigure pentru redirecționări și încorporare.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Puteți specifica o listă permisă de domenii de încredere (de exemplu, domeniul dvs..com) din care puteți încărca javascript în siguranță.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Nu se poate dezactiva plugin-ul %1$s deoarece plugin-ul %2$s are nevoie de acesta pentru a funcţiona';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Nu se poate elimina singura categorie rămasă care permite discuţii';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Îți poți proteja site-ul cu un nume de utilizator/o parolă HTTP în timpul dezvoltării.';

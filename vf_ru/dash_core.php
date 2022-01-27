@@ -799,6 +799,8 @@ $Definition['This connection is in test-mode.'] = 'Данное соединен
 $Definition['This Database'] = 'Эту базу данных';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Эта функция отправляет электронные письма авторам ответов на вопросы, на которые нет принятого ответа.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Регистрация на форуме сейчас возможна только по приглашению.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Это изображение будет использоваться в списках категорий и виджетах при использовании опции стиля «Значок».';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Это изображение будет отображаться на баннере этой категории и в виджетах категорий при использовании параметров стиля «Изображение» и/или «Фон». Рекомендуемые размеры — около 1000 на 400 пикселей или подобное соотношение.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Это материнский раздел, который не допускает создания дискуссий.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Вы впервые посетили эту дискуссию.';
 $Definition['This page requires Javascript.'] = 'Эта страница требует Javascript.';
@@ -892,8 +894,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Вы можете настроить HTML и CSS для этой темы на странице %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Вы можете либо создать новый аккаунт, либо ввести учетные данные уже существующего аккаунта.';
 $Definition['You can make the categories page your homepage.'] = 'Страницы разделов можно установить в качестве главной страницы <a href="%s">тут</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Можно указать белый список доверенных доменов (например. yourdomain.com), которые безопасны для перенаправления и внедрения.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Вы можете указать белый список доверенных доменов (например, yourdomain.com), с которых безопасно загружать JavaScript.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Вы можете указать разрешенный список доверенных доменов (например, yourdomain.com), которые безопасны для перенаправления и встраивания.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Вы можете указать разрешенный список доверенных доменов (например, yourdomain.com), с которых безопасно загружать javascript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Плагин %1$s нельзя отключить потому, что он необходим для стабильной работы плагина %2$s.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Вы не можете удалить только оставшиеся разделы, что допускают дискуссии';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Вы можете защитить свой сайт в процессе разработки с помощью имя пользователя/пароля HTTP.';

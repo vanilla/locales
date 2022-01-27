@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = 'اتصال در حالت آز
 $Definition['This Database'] = 'اين پايگاه داده';
 $Definition['QnAFollowup.Feature.Enabled'] = 'این ویژگی ایمیلهایی را برای نویسندگان سؤالات پاسخ داده شده ارسال می کند که جواب قبولی ندارند.';
 $Definition['This forum is currently set to invitation only mode.'] = 'اين انجمن هم اكنون فقط در حالت دعوتنامه ميباشد.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'این تصویر در فهرست‌های دسته‌بندی و ویجت‌ها هنگام استفاده از گزینه سبک "Icon" استفاده می‌شود.';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'هنگام استفاده از گزینه های سبک "تصویر" و/یا "پس زمینه"، این تصویر در بنر این دسته و در ویجت های دسته ظاهر می شود. ابعاد پیشنهادی حدود 1000 پیکسل در 400 پیکسل یا نسبت مشابه است.';
 $Definition['This is a parent category that does not allow discussions.'] = 'اين دسته بندي والد ميباشد كه اجازه گفتگو را نميدهد.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'اين اولين باري است كه شما از انجمن گفتگو ديدن ميكنيد.';
 $Definition['This page requires Javascript.'] = 'اين صفحه به جاوااسكريپيت نيازمند است.';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'شما ميتوانيد HTML و CSS براي اين قالب در صفحه %s را سفارشي سازي كنيد.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'شما ميتوانيد يك حساب كاربري جديدي ايجاد كرده، و يا اينكه اطلاعات حساب كاربري موجود را وارد كنيد.';
 $Definition['You can make the categories page your homepage.'] = 'شما ميتوانيد از <a href="%s">اينجا</a> صفحه دسته بندي هاي خود را صفحه اصلي خود قرار دهيد.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'می توانید لیست سفید دامنههای مورد اعتماد (مانند yourdomain.com) را برای استفاده مجدد و جاسازی در آنها بی خطر تعیین کنید.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'شما می توانید یک لیست سفید از دامنه های قابل اعتماد (مثلاً yourdomain.com) که بارگذاری جاوا اسکریپت از آنها ایمن است ، مشخص کنید.';
+$Definition['You can specify an allow list of trusted domains.'] = 'می‌توانید فهرست مجاز دامنه‌های مورد اعتماد (مثلا yourdomain.com) را که برای تغییر مسیر و جاسازی امن هستند، مشخص کنید.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'می‌توانید فهرست مجاز دامنه‌های مورد اعتماد (مثلاً yourdomain.com) را که برای بارگیری جاوا اسکریپت امن هستند، مشخص کنید.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'شما نميتوانيد پلاگين %1$s را حذف كنيد زيرا پلاگين %2$s جهت اجرا به اين پلاگين نيازمند است.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'شما نميتوانيد تنها دسته بندي باقيمانده كه اجازه گفتگو ميدهد را حذف كنيد';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'می توانید در حین توسعه از سایت خود با نام کاربری / رمزعبور HTTP محافظت کنید.';

@@ -800,6 +800,8 @@ $Definition['This connection is in test-mode.'] = 'Diese Verbindung ist im Test-
 $Definition['This Database'] = 'Diese Datenbank';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Diese Funktion sendet E-Mails an die Autoren beantworteter Fragen, für die keine Antwort akzeptiert wurde.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Diesem Forum kann momentan nur durch eine Einladung beigetreten werden.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Dieses Bild wird in den Kategorielisten und Widgets verwendet, wenn die „Symbol“-Stiloption verwendet wird.';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Dieses Bild wird im Banner dieser Kategorie und in den Kategorie-Widgets erscheinen, wenn Sie die „Bild“- und/oder „Hintergrund“-Stiloptionen verwenden. Es wird eine Größe von ca. 1000 x 400 px oder ein ähnliches Verhältnis empfohlen.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Dies ist eine übergeordnete Kategorie, in der keine Diskussionen erstellt werden können.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Dies ist dein erster Besuch des Forums.';
 $Definition['This page requires Javascript.'] = 'Diese Seite erfordert Javascript.';
@@ -893,8 +895,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Du kannst dein HTML und CSS dieses Themas anpassen auf der %s Seite.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Du kannst entweder ein neues Konto erstellen oder deine Anmeldedaten eingeben, wenn du bereits ein Konto besitzt.';
 $Definition['You can make the categories page your homepage.'] = 'Die Kategorie-Seite kann <a href="%s">hier</a> zur Homepage gemacht werden.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Sie können eine Whitelist von vertrauenswürdigen Domänen (z.B. yourdomain.com) angeben, die für Umleitungen und Einbettungen sicher sind.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Sie können eine Whitelist mit vertrauenswürdigen Domänen (z. B. yourdomain.com) angeben, von denen JavaScript sicher geladen werden kann.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Sie können eine weiße Liste mit vertrauenswürdigen Domains angeben (z. B. ihredomain.de), die sicher sind für Weiterleitungen und Einbettungen.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Sie können eine weiße Liste mit vertrauenswürdigen Domains angeben (z. B. ihredomain.de), die sicher sind, um über sie JavaScript zu laden.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Das %1$s Plugin kann nicht deaktiviert werden, weil es von dem %2$s Plugin benötigt wird.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Du kannst nicht die einzig verbleibende Kategorie löschen, die Diskussionen erlaubt.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Sie können Ihre Webseite während der Entwicklung mit einem HTTP-Benutzernamen/Passwort schützen.';

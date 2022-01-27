@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = 'Kết nối này đang ở ch
 $Definition['This Database'] = 'Cơ sở dữ liệu này';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Tính năng này gửi email đến tác giả của các câu hỏi đã trả lời mà không có câu trả lời được chấp nhận.';
 $Definition['This forum is currently set to invitation only mode.'] = 'Diễn đàn này hiện đang được thiết lập chi có chế độ mời.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Hình ảnh này sẽ được sử dụng trong danh sách danh mục và tiện ích con khi sử dụng tùy chọn kiểu "Biểu tượng".';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Hình ảnh này sẽ xuất hiện trong biểu ngữ của danh mục này và trong các tiện ích con của danh mục khi sử dụng tùy chọn kiểu "Hình ảnh" và / hoặc "Nền". Kích thước được đề xuất là khoảng 1000px x 400px hoặc tỷ lệ tương tự.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Danh mục cha không cho phép tạo bài viết.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Đây là lần đầu tiên bạn truy cập vào diễn đàn thảo luận.';
 $Definition['This page requires Javascript.'] = 'Trang này yêu cầu Javascript.';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Bạn có thể tùy chỉnh HTML và CSS cho chủ đề này trên trang %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Bạn có thể hoặc tạo một tài khoản mới, hoặc nhập thông tin đăng nhập của bạn nếu bạn đã có sẵn một tài khoản.';
 $Definition['You can make the categories page your homepage.'] = 'Bạn có thể tạo trang danh mục và Trang chủ của bạn <a href="%s"> ở đây</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Bạn có thể định rõ một danh sách trắng các tên miền đáng tin cậy (ví dụ: yourdomain.com) an toàn để chuyển hướng và nhúng.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Bạn có thể chỉ định danh sách trắng gồm các miền đáng tin cậy (ví dụ: yourdomain.com) an toàn để tải javascript từ đó.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Bạn có thể chỉ định danh sách cho phép các miền đáng tin cậy (ví dụ: yourdomain.com) an toàn cho chuyển hướng và nhúng.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Bạn có thể chỉ định danh sách cho phép các miền đáng tin cậy (ví dụ: yourdomain.com) an toàn để tải javascript từ đó.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Bạn không thể vô hiệu hóa plugin %1$s vì plugin %2$s plugin yêu cầu nó để hoạt động.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Bạn không thể xoá danh mục cho phép tạo bài viết mới';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Bạn có thể bảo vệ website của mình bằng một tên người dùng/mật khẩu HTTP trong quá trình phát triển web.';

@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = 'This connection is in test-mo
 $Definition['This Database'] = 'Ця база даних';
 $Definition['QnAFollowup.Feature.Enabled'] = 'Ця функція надсилає електронні листи авторам відповідей на запитання, на які немає прийнятої відповіді.';
 $Definition['This forum is currently set to invitation only mode.'] = 'This forum is currently set to invitation only mode.';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'Це зображення буде використовуватися в списках категорій і віджетах при використанні параметра стилю «Значок».';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Це зображення з’явиться на банері цієї категорії та у віджетах категорій при використанні параметрів стилю «Зображення» та/або «Фон». Рекомендовані розміри – приблизно 1000 на 400 пікселів або подібне співвідношення.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Це батьківська категорія, яка не дозволяє обговорення.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This page requires Javascript.'] = 'Для цієї сторінки потрібен Javascript.';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'You can customize the HTML and CSS for this theme on the %s page.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'You can either create a new account, or enter your credentials if you have an existing account.';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
-$Definition['You can specify a whitelist of trusted domains.'] = 'Ви можете скласти білий список довірених доменів (напр. yourdomain.com), на які можна безпечно перенаправляти та вбудовувати.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'Ви можете вказати білий список надійних доменів (наприклад, yourdomain.com), з яких можна безпечно завантажувати JavaScript.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Ви можете вказати список дозволених довірених доменів (наприклад, yourdomain.com), безпечних для переспрямування та вбудовування.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Ви можете вказати список дозволених довірених доменів (наприклад, yourdomain.com), з яких безпечно завантажувати JavaScript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Ви не можете видалити єдину категорію, що дозволяє обговорення';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Під час розробки ви можете захистити свій сайт HTTP іменем користувача/паролем.';

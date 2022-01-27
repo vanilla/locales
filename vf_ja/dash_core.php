@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = 'This connection is in test-mo
 $Definition['This Database'] = 'This Database';
 $Definition['QnAFollowup.Feature.Enabled'] = 'この機能は、回答が承認されていない回答済みの質問の作成者にメールを送信します。';
 $Definition['This forum is currently set to invitation only mode.'] = 'このフォーラムは現在、招待制に設定されています。';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'この画像は、「アイコン」スタイルのオプションを使用するときにカテゴリリストとウィジェットで使用されます。';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'この画像は、[画像]や[背景]スタイルのオプションを使用すると、このカテゴリのバナーとカテゴリウィジェットに表示されます。推奨されるサイズは、約1000px x400pxまたは同様の比率です。';
 $Definition['This is a parent category that does not allow discussions.'] = 'This is a parent category that does not allow discussions.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'This is the first time you\'ve visited the discussion forums.';
 $Definition['This page requires Javascript.'] = 'This page requires Javascript.';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'You can customize the HTML and CSS for this theme on the %s page.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'You can either create a new account, or enter your credentials if you have an existing account.';
 $Definition['You can make the categories page your homepage.'] = 'カテゴリ一覧のページを<a href="%s">こちら</a>でホーム画面として設定できます。';
-$Definition['You can specify a whitelist of trusted domains.'] = 'リダイレクトや埋め込みに安全な、信頼できるドメインのホワイトリスト（yourdomain.comなど）を指定できます。';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'JavaScriptを安全にロードできる信頼できるドメイン（例：yourdomain.com）のホワイトリストを指定できます。';
+$Definition['You can specify an allow list of trusted domains.'] = 'リダイレクトと埋め込みに安全な信頼できるドメイン（yourdomain.comなど）の許可リストを指定できます。';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'JavaScriptを安全にロードできる信頼できるドメイン（yourdomain.comなど）の許可リストを指定できます。';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '%1$s プラグインを無効にできません。%2$s プラグインが動作するために、必要です。';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
 $Definition['You can protect your site with an HTTP username/password during development.'] = ' 開発中はHTTP ユーザー名/パスワードで自分のサイトを保護することができます。';

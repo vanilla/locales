@@ -798,6 +798,8 @@ $Definition['This connection is in test-mode.'] = '此连接处于测试模式�
 $Definition['This Database'] = '该数据库';
 $Definition['QnAFollowup.Feature.Enabled'] = '此功能将电子邮件发送给没有被接受答案的已回答问题的作者。';
 $Definition['This forum is currently set to invitation only mode.'] = '本论坛必须有邀请才能注册。';
+$Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = '使用“图标”样式选项时，此图片将被用在类别列表和小部件中。';
+$Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = '使用“图片”和/或“背景”样式选项时，此图片将显示在此类别横幅和类别小部件当中。建议尺寸约为 1000像素 x 400 像素或相似比例。';
 $Definition['This is a parent category that does not allow discussions.'] = '这是一个父版块，不允许放置话题。';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = '这是您第一次访问本论坛。';
 $Definition['This page requires Javascript.'] = '该页面需要 Javascript 的支持。';
@@ -891,8 +893,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = '您可以为此主题的 %s 页面定制 HTML 和 CSS 代码。';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = '您可以创建新帐户；如果已有账户，也可以输入账户登录信息。';
 $Definition['You can make the categories page your homepage.'] = '您可以在<a href="%s">这里</a>将版块页面设置为首页。';
-$Definition['You can specify a whitelist of trusted domains.'] = '您可以指定一个信任域的白名单（比如，yourdomain.com），它们对于跳转和内嵌而言都是安全的。';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = '您可以指定可安全加载 javascript 的受信任域（例如 yourdomain.com）的白名单。';
+$Definition['You can specify an allow list of trusted domains.'] = '您可以指定可安全进行重定向和嵌入的可信域（比如，yourdomain.com）的允许列表。';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = '您可以指定可从中安全加载 javascript 的可信域（比如，yourdomain.com）的允许列表。';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = '您不能禁用 %1$s 插件，因为 %2$s 插件需要它才能正常工作。';
 $Definition['You cannot remove the only remaining category that allows discussions'] = '仅有的可放置话题的版块不能被删除。';
 $Definition['You can protect your site with an HTTP username/password during development.'] = '在开发期间，您可以使用 HTTP 用户名/密码 来保护您的网站。';
