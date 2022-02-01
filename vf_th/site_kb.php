@@ -170,7 +170,7 @@ $Definition["This is a non-destructive action. You will be able to restore your 
 // General Appearance
 $Definition["This %s will appear on the Knowledge homepage."] = "%s นี้จะปรากฏในหน้าแรกของความรู้";
 $Definition["title"] = "ชื่อเรื่อง";
-$Definition["description"] = "ลักษณะ";
+$Definition["description"] = "คำอธิบาย";
 $Definition["It should be %s characters or less."] = "มันควรเป็นอักขระ %s หรือน้อยกว่า";
 $Definition["KB.GeneralApperance.Description.Placeholder"] = "ยินดีต้อนรับสู่ฐานความรู้ของเรา ที่นี่คุณจะพบคำตอบของปัญหาการสนับสนุนทั่วไป";
 $Definition["This can be overridden on a per knowledge base basis."] = "สิ่งนี้สามารถแทนที่ได้บนพื้นฐานความรู้พื้นฐาน";
