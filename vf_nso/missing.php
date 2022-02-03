@@ -110,8 +110,8 @@ $Definition['Warning: Loading tables can be slow.'] = '<b>Warning</b>: Your serv
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Welcome to Vanilla\'s theming UI. This page lists all of your available themes, and allows you to copy or edit them.';
 $Definition['Which reactions you use really depends on your community.'] = 'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
 
-$Definition['You can specify a whitelist of trusted domains.'] = 'You can specify a whitelist of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
-$Definition['You can specify a whitelist of trusted domains. (CSP)'] = 'You can specify a whitelist of trusted domains (ex. yourdomain.com) that are safe to load javascript from.';
+$Definition['You can specify an allow list of trusted domains.'] = 'You can specify an allow list of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
+$Definition['You can specify an allow list of trusted domains. (CSP)'] = 'You can specify an allow list of trusted domains (ex. yourdomain.com) that are safe to load javascript from.';
 $Definition['You don\'t have a password.'] = 'Your account does not have a password assigned to it yet. Click <a href="%s">here</a> to set your password.';
 $Definition['You need to add the font url’s domain to <0>AllowedDomains</0>, in the site\'s configuration. <1>Learn more about custom fonts.</1>.'] = 'You need to add the font url’s domain to <0>Allowed Domains</0> in the site\'s configuration. <1>Learn more about custom fonts.</1>';
 $Definition['You need to reset your password.'] = 'You need to reset your password. This is most likely because an administrator recently changed your account information. Click <a href="%s">here</a> to reset your password.';
