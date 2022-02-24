@@ -1645,6 +1645,7 @@ $Definition['There was an error connecting to Facebook'] = 'There was an error c
 $Definition['There was an error displaying this embed.'] = 'There was an error displaying this embed.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'There was an error uploading the file. It is most likely because the file is too large.';
 $Definition['These notes can only be seen by moderators.'] = 'These notes can only be seen by moderators.';
+$Definition['The password is too weak.'] = 'The password is too weak.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'These tags are reserved and cannot be used: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'The site is currently undergoing maintenance.';
 $Definition['The status for "%s" has changed to %s.'] = 'The status for "%s" has changed to %s.';
