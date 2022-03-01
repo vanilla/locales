@@ -1635,6 +1635,7 @@ $Definition['There was an error connecting to Facebook'] = 'Facebook bağlantıs
 $Definition['There was an error displaying this embed.'] = 'Bu eklemeyi gösterirken bir hata oluştu.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'Dosya yüklenirken bir hata oldu. Büyük ihtimalle dosya çok büyük olduğu için.';
 $Definition['These notes can only be seen by moderators.'] = 'Bu notları sadece moderatörler görebilir. ';
+$Definition['The password is too weak.'] = 'Şifre çok zayıf.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Bu taglar ayrılmıştır ve kullanılamaz: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Siteye şu anda bakım yapılıyor.';
 $Definition['The status for "%s" has changed to %s.'] = '"%s" için durum %s oldu.';
