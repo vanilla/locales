@@ -752,6 +752,7 @@ $Definition['groups'] = 'groups';
 $Definition['Guest'] = 'Guest';
 $Definition['Guests'] = 'Guests';
 $Definition['GuestModule.Message'] = 'It looks like you\'re new here. Sign in or register to get started.';
+$Definition['GuestModule.Group.Message'] = 'Sign in or Register to join the group and to view its content.';
 
 $Definition["H2"] = "H2";
 $Definition["H3"] = "H3";
@@ -2039,6 +2040,7 @@ $Definition['Your preferences have been saved.'] = 'Your preferences have been s
 $Definition['Your private conversations with other members.'] = 'Your private conversations with other members.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Your registered username: <strong>%s</strong>';
 $Definition['Your request has been sent.'] = 'Your request has been sent. Check your email for further instructions.';
+$Definition['Your request is pending. You\'ll be notified when its status changes.'] = 'Your request is pending. You\'ll be notified when its status changes.';
 $Definition['Your settings have been saved.'] = 'Your settings have been saved.';
 $Definition['Your settings have been saved successfully.'] = 'Your settings have been saved successfully.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Your status for this event is now: <b>%s</b>';
