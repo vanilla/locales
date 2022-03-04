@@ -753,6 +753,7 @@ $Definition['groups'] = 'gruplar';
 $Definition['Guest'] = 'Misafir';
 $Definition['Guests'] = 'Misafirler';
 $Definition['GuestModule.Message'] = 'Burada yeni gibisin. Başlamak için oturum açın veya kaydolun.';
+$Definition['GuestModule.Group.Message'] = 'Gruba katılmak ve içeriğini görüntülemek için Oturum Açın veya Kayıt Olun.';
 
 $Definition["H2"] = "H2";
 $Definition["H3"] = "H3";
@@ -2029,6 +2030,7 @@ $Definition['Your preferences have been saved.'] = 'Ayarlarınız kaydedildi.';
 $Definition['Your private conversations with other members.'] = 'Diğer üyelerle özel görüşmeleriniz.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Kayıtlı kullanıcı adınız: <strong>%s</strong>';
 $Definition['Your request has been sent.'] = 'İsteğiniz gönderildi. İlave bilgiler için e-postanızı kontrol ediniz.';
+$Definition['Your request is pending. You\'ll be notified when its status changes.'] = 'İsteğiniz beklemede. Durumu değiştiğinde bilgilendirileceksiniz.';
 $Definition['Your settings have been saved.'] = 'Ayarlarınız kaydedildi.';
 $Definition['Your settings have been saved successfully.'] = 'Ayarlarınız başarıyla kaydedildi.';
 $Definition['Your status for this event is now: <b>%s</b>'] = 'Bu etkinlik için durumunuz şu anda: <b>%s</b>';
