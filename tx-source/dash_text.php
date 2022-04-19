@@ -147,6 +147,7 @@ $Definition['OrgDescription'] = 'Your organization name is used for SEO microdat
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Overridden views or themehooks can have unintended side effects and are not previewed.';
 
+$Definition['Password.MinLength'] = 'Minimum character length allowed for users passwords on password create and reset pages.';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';

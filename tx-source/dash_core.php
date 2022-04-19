@@ -213,6 +213,7 @@ $Definition['Condition Field'] = 'Field';
 $Definition['Conditions'] = 'Conditions';
 $Definition['Condition Type'] = 'Type';
 $Definition['Configure an Authenticator'] = 'Configure an Authenticator';
+$Definition['Configuration settings for password fields in Vanilla'] = 'Configuration settings for password fields in Vanilla';
 $Definition['Configure custom Kaltura domains'] = 'Configure custom Kaltura domains';
 $Definition['Configure how nested categories are displayed to users.'] = 'Configure how nested categories are displayed to users.';
 $Definition['Configuring Vanilla\'s Homepage'] = 'Configuring Vanilla\'s Homepage';
@@ -597,7 +598,9 @@ $Definition['Outgoing Email Address'] = 'Outgoing Email Address';
 
 $Definition['Page Color'] = 'Page Color';
 $Definition['Page Views'] = 'Page Views';
+$Definition['Passwords'] = 'Passwords';
 $Definition['Password Options'] = 'Password Options';
+$Definition['Password Minimum Length'] = 'Password Minimum Length';
 $Definition['Past Events'] = 'Past Events';
 $Definition['Permission'] = 'Permission';
 $Definition['Permission.Category'] = 'Category';
