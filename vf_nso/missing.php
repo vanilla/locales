@@ -23,6 +23,7 @@ $Definition['Featured Articles'] = 'Recommended Articles';
 
 $Definition['Garden.api.ssoIDPermission.description'] = 'Roles with this permission will be able to expand SSO IDs in API v2 calls.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
+$Definition['GuestModule.Group.Message'] = 'Sign in or Register to join the group and to view its content.';
 $Definition['GuestModule.Message'] = 'It looks like you\'re new here. Sign in or register to get started.';
 
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user} earned the <a href="{Url,html}">{Data.Name,text}</a> badge.';
