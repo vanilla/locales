@@ -99,6 +99,7 @@ $Definition['Here are all of the reactions you can use on your site.'] = 'Here a
 $Definition['Here are the ranks that users can achieve on your site.'] =
     'Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
+$Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'If a user does not visit the site within this time period they will be automatically signed out.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
     'If enabled, the full content of posts will be sent in email notifications to users.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
@@ -179,6 +180,7 @@ $Definition['Security.Hsts.SubmitWarning'] = 'Warning: It\'s great to support HS
 $Definition['Select the default type for this role, if any.'] = 'Select the default type for this role, if any.';
 $Definition['Select the import source'] = 'Select the import source';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serialized column "%s" failed to be unserialized.';
+$Definition['Session Timeout'] = 'Session Timeout';
 $Definition['ShareImageDescription'] =
     'When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
