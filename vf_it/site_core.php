@@ -1439,6 +1439,7 @@ $Definition['Save Avatar'] = 'Salva Avatar';
 $Definition['Save Comment'] = 'Salva commento';
 $Definition['Saved'] = 'Le tue modifiche sono state salvate.';
 $Definition['Save Draft'] = 'Salva bozza';
+$Definition['Save General Preferences'] = 'Salva le preferenze generali';
 $Definition['Save Poll'] = 'Salva sondaggio';
 $Definition['Save Preferences'] = 'Salva preferenze';
 $Definition['Save Thumbnail'] = 'Salva anteprima';
