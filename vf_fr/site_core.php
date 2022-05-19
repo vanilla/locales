@@ -1446,6 +1446,7 @@ $Definition['Save Avatar'] = 'Enregistrer l\'avatar';
 $Definition['Save Comment'] = 'Enregistrer la réponse';
 $Definition['Saved'] = 'Vos modifications ont été enregistrées.';
 $Definition['Save Draft'] = 'Enregistrer brouillon';
+$Definition['Save General Preferences'] = 'Sauvegarder les préférences générales';
 $Definition['Save Poll'] = 'Sauvegarder le sondage';
 $Definition['Save Preferences'] = 'Enregistrer les préférences';
 $Definition['Save Thumbnail'] = 'Sauvegarder la vignette';
