@@ -1436,6 +1436,7 @@ $Definition['Save Avatar'] = 'اوتار کو بچائیں';
 $Definition['Save Comment'] = 'تبصرہ محفوظ کریں';
 $Definition['Saved'] = 'آپ کی تبدیلیاں محفوظ کی گئی ہیں۔';
 $Definition['Save Draft'] = 'مسودہ محفوظ کریں';
+$Definition['Save General Preferences'] = 'عمومی ترجیحات کو محفوظ کریں۔';
 $Definition['Save Poll'] = 'پول محفوظ کریں';
 $Definition['Save Preferences'] = 'ترجیحات محفوظ کریں';
 $Definition['Save Thumbnail'] = 'تھمب نیل کو محفوظ کریں';
