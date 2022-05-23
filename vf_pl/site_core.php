@@ -1448,6 +1448,7 @@ $Definition['Save Avatar'] = 'Zapisz awatar';
 $Definition['Save Comment'] = 'Zapisz komentarz';
 $Definition['Saved'] = 'Zmiany zostały zapisane.';
 $Definition['Save Draft'] = 'Zapisz szkic';
+$Definition['Save General Preferences'] = 'Zapisz preferencje ogólne';
 $Definition['Save Poll'] = 'Zapisz ankietę';
 $Definition['Save Preferences'] = 'Zapisz preferencje';
 $Definition['Save Thumbnail'] = 'Zapisz miniaturkę';

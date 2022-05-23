@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = ' %s Confirmer votre adresse em
 $Definition['[%s] Invitation'] = '[%s] Invitation';
 $Definition['[%s] Password Reset'] = '[%s] Réinitialisation du mot de passe';
 $Definition['[%s] Password Reset Request'] = '[%s] Demande de renouvellement de mot de passe.';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Vous avez atteint le nombre maximum de tentatives de connexion. Veuillez patienter %s et réessayer.';
 
 $Definition['a Badge'] = 'un Badge';
 $Definition['Abilites'] = 'Capacités';

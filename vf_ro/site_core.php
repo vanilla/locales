@@ -1431,6 +1431,7 @@ $Definition['Save Avatar'] = 'Caută avatarul';
 $Definition['Save Comment'] = 'Salvare comentariu';
 $Definition['Saved'] = 'Modificările au fost salvate.';
 $Definition['Save Draft'] = 'Salvare ciornă';
+$Definition['Save General Preferences'] = 'Salvați preferințele generale';
 $Definition['Save Poll'] = 'Salvare Poll-ul';
 $Definition['Save Preferences'] = 'Salvare preferințe';
 $Definition['Save Thumbnail'] = 'Salvare pictogramă';

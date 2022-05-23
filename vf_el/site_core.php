@@ -1447,6 +1447,7 @@ $Definition['Save Avatar'] = 'Αποθηκεύστε το Avatar';
 $Definition['Save Comment'] = 'Αποθήκευση Σχόλιου';
 $Definition['Saved'] = 'Οι αλλαγές σας έχουν αποθηκευτεί.';
 $Definition['Save Draft'] = 'Αποθήκευση Προσχέδιου';
+$Definition['Save General Preferences'] = 'Αποθήκευση Γενικών Προτιμήσεων';
 $Definition['Save Poll'] = 'Αποθήκευση Ψηφοφορίας';
 $Definition['Save Preferences'] = 'Αποθήκευση Προτιμήσεων';
 $Definition['Save Thumbnail'] = 'Αποθήκευση Μικρογραφίας';

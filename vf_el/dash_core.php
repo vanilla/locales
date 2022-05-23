@@ -39,6 +39,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Επιβεβαιώστε 
 $Definition['[%s] Invitation'] = '[%s] Πρόσκληση';
 $Definition['[%s] Password Reset'] = '[%s] Επαναφορά Κωδικού Πρόσβασης';
 $Definition['[%s] Password Reset Request'] = '[%s] Αίτηση Επαναφοράς Κωδικού Πρόσβασης';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Έχετε φτάσει τις μέγιστες προσπάθειες σύνδεσης. Περιμένετε %s και δοκιμάστε ξανά.';
 
 $Definition['a Badge'] = 'ένα Σήμα';
 $Definition['Abilites'] = 'Ικανότητες';

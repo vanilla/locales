@@ -1414,6 +1414,7 @@ $Definition['Save Avatar'] = 'Arbedwch Avatar';
 $Definition['Save Comment'] = 'Cadw\'r sylw';
 $Definition['Saved'] = 'Cadwyd eich newidiadau.';
 $Definition['Save Draft'] = 'Cadw drafft';
+$Definition['Save General Preferences'] = 'Cadw Dewisiadau Cyffredinol';
 $Definition['Save Poll'] = 'Arbed pôl';
 $Definition['Save Preferences'] = 'Cadw\'r dewisiadau';
 $Definition['Save Thumbnail'] = 'Arbedwch Bawd';

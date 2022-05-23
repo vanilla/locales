@@ -1441,6 +1441,7 @@ $Definition['Save Avatar'] = 'حفظ الصورة الرمزية';
 $Definition['Save Comment'] = 'حفظ التعليق';
 $Definition['Saved'] = 'تم حفظ التغييرات.';
 $Definition['Save Draft'] = 'حفظ المسودة';
+$Definition['Save General Preferences'] = 'حفظ التفضيلات العامة';
 $Definition['Save Poll'] = 'حفظ الاستطلاع';
 $Definition['Save Preferences'] = 'حفظ التفضيلات';
 $Definition['Save Thumbnail'] = 'حفظ الصورة المصغرة';

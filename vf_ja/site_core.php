@@ -1442,6 +1442,7 @@ $Definition['Save Avatar'] = 'アバターを保存する';
 $Definition['Save Comment'] = 'コメントを保存する';
 $Definition['Saved'] = '変更を保存しました。';
 $Definition['Save Draft'] = '下書きとして保存';
+$Definition['Save General Preferences'] = '一般環境設定を保存する';
 $Definition['Save Poll'] = '投票を保存';
 $Definition['Save Preferences'] = '個人設定を保存';
 $Definition['Save Thumbnail'] = 'サムネイルを保存';

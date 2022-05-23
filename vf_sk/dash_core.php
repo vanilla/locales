@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Potvrď Svoju Emailovú A
 $Definition['[%s] Invitation'] = '[%s] Pozvanie';
 $Definition['[%s] Password Reset'] = '[%s] Zmena Hesla';
 $Definition['[%s] Password Reset Request'] = '[%s] Žiadosť o Zmenu Hesla';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Dosiahli ste maximálny počet pokusov o prihlásenie. Počkajte %s a skúste to znova.';
 
 $Definition['a Badge'] = 'Odznak';
 $Definition['Abilites'] = 'Schopnosti';

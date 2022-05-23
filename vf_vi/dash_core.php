@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Xác nhận lại địa 
 $Definition['[%s] Invitation'] = '[%s] Lời mời';
 $Definition['[%s] Password Reset'] = 'Khởi tạo lại lại mật khẩu [%s]';
 $Definition['[%s] Password Reset Request'] = 'Yêu cầu khởi tạo lại mật khẩu [%s]';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Bạn đã đạt đến số lần đăng nhập tối đa. Vui lòng đợi%s và thử lại.';
 
 $Definition['a Badge'] = 'Một huân chương';
 $Definition['Abilites'] = 'Các khả năng';

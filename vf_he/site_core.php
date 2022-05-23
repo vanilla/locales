@@ -1444,6 +1444,7 @@ $Definition['Save Avatar'] = 'שמור אווטאר';
 $Definition['Save Comment'] = 'שמור תגובה';
 $Definition['Saved'] = 'השינויים שלך נשמרו';
 $Definition['Save Draft'] = 'שמור טיוטה';
+$Definition['Save General Preferences'] = 'שמור העדפות כלליות';
 $Definition['Save Poll'] = 'שמור סקר';
 $Definition['Save Preferences'] = 'שמור העדפות';
 $Definition['Save Thumbnail'] = 'שמור תמונה';

@@ -1441,6 +1441,7 @@ $Definition['Save Avatar'] = ' अवतार को सेव करें';
 $Definition['Save Comment'] = 'टिप्पणी सहेजें';
 $Definition['Saved'] = 'आपके परीवर्तन सहेज लिए गए हैं।';
 $Definition['Save Draft'] = 'ड्राफ्ट सहेजें';
+$Definition['Save General Preferences'] = 'सामान्य वरीयताएँ सहेजें';
 $Definition['Save Poll'] = 'पोल सहेजें';
 $Definition['Save Preferences'] = 'पसंद सहेजें';
 $Definition['Save Thumbnail'] = 'थम्बनेल सेव करें ';

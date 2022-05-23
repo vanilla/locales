@@ -1438,6 +1438,7 @@ $Definition['Save Avatar'] = 'Simpan Avatar';
 $Definition['Save Comment'] = 'Simpan Komentar';
 $Definition['Saved'] = 'Perubahan anda telah disimpan.';
 $Definition['Save Draft'] = 'Simpan Draf';
+$Definition['Save General Preferences'] = 'Simpan Preferensi Umum';
 $Definition['Save Poll'] = 'Simpan Pemungutan Suara';
 $Definition['Save Preferences'] = 'Simpan Preferensi';
 $Definition['Save Thumbnail'] = 'Simpan Gambar-tilik';

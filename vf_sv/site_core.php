@@ -1437,6 +1437,7 @@ $Definition['Save Avatar'] = 'Spara Avatar';
 $Definition['Save Comment'] = 'Spara kommentar';
 $Definition['Saved'] = 'Dina ändringar har sparats.';
 $Definition['Save Draft'] = 'Spara utkast';
+$Definition['Save General Preferences'] = 'Spara allmänna inställningar';
 $Definition['Save Poll'] = 'Spara omröstning';
 $Definition['Save Preferences'] = 'Spara inställningar';
 $Definition['Save Thumbnail'] = 'Spara miniatyrbild';

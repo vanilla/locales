@@ -1485,6 +1485,7 @@ $Definition['Save Avatar'] = 'Сохранить аватар';
 $Definition['Save Comment'] = 'Сохранить исправления';
 $Definition['Saved'] = 'Сохранено.';
 $Definition['Save Draft'] = 'В черновик';
+$Definition['Save General Preferences'] = 'Сохранить общие настройки';
 $Definition['Save Poll'] = 'Сохранить опрос';
 $Definition['Save Preferences'] = 'Сохранить настройки';
 $Definition['Save Thumbnail'] = 'Сохранить миниатюру';

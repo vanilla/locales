@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Confirmați adresa de E-m
 $Definition['[%s] Invitation'] = '[%s] Invitație';
 $Definition['[%s] Password Reset'] = '[%s] Resetarea parolei';
 $Definition['[%s] Password Reset Request'] = '[%s] Cerere pentru resetarea parolei';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Ați atins numărul maxim de încercări de conectare. Vă rugăm să așteptați %s și să încercați din nou.';
 
 $Definition['a Badge'] = 'o Insignă';
 $Definition['Abilites'] = 'Abilități';

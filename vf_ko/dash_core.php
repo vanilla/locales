@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] 이메일 주소 인증�
 $Definition['[%s] Invitation'] = '[%s] 초대장';
 $Definition['[%s] Password Reset'] = '[%s] 비밀번호 재설정';
 $Definition['[%s] Password Reset Request'] = '[%s] 비밀번호 재설정 요청';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = '최대 로그인 시도 횟수에 도달했습니다. %s을(를) 기다렸다가 다시 시도하십시오.';
 
 $Definition['a Badge'] = 'a Badge';
 $Definition['Abilites'] = '능력';

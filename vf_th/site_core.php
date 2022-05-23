@@ -1436,6 +1436,7 @@ $Definition['Save Avatar'] = 'บันทึกอวาตาร์';
 $Definition['Save Comment'] = 'บันทึกความเห็น';
 $Definition['Saved'] = 'การเปลี่ยนแปลงของคุณได้รับการบันทึกแล้ว';
 $Definition['Save Draft'] = 'บันทึกร่าง';
+$Definition['Save General Preferences'] = 'บันทึกการตั้งค่าทั่วไป';
 $Definition['Save Poll'] = 'บันทึกแบบสำรวจ';
 $Definition['Save Preferences'] = 'บันทึก';
 $Definition['Save Thumbnail'] = 'เซฟรูปภาพ';

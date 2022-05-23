@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Cadarnhewch eich cyfeiria
 $Definition['[%s] Invitation'] = '[%s] Gwahoddiad';
 $Definition['[%s] Password Reset'] = '[%s] Ailosod cyfrinair';
 $Definition['[%s] Password Reset Request'] = '[%s] Cais ailosod cyfrinair';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Rydych chi wedi cyrraedd uchafswm yr ymgeisiau mewngofnodi. Arhoswch %s a cheisiwch eto.';
 
 $Definition['a Badge'] = 'Bathodyn';
 $Definition['Abilites'] = 'Galluoedd';
