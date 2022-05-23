@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Konfirmasi Alamat Email A
 $Definition['[%s] Invitation'] = '[%s] Undangan';
 $Definition['[%s] Password Reset'] = '[%s] Kata Sandi Disetel Ulang';
 $Definition['[%s] Password Reset Request'] = '[%s] Permintaan Setel Ulang Kata Sandi';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Anda telah mencapai upaya login maksimum. Harap tunggu %s dan coba lagi.';
 
 $Definition['a Badge'] = 'Lencana';
 $Definition['Abilites'] = 'Kemampuan';
