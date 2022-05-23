@@ -1444,6 +1444,7 @@ $Definition['Save Avatar'] = 'Lagre avatar';
 $Definition['Save Comment'] = 'Lagre kommentar';
 $Definition['Saved'] = 'Dine endringer har blitt lagret';
 $Definition['Save Draft'] = 'Lagre utkast';
+$Definition['Save General Preferences'] = 'Lagre generelle innstillinger';
 $Definition['Save Poll'] = 'Lagre poll';
 $Definition['Save Preferences'] = 'Lagre instillinger';
 $Definition['Save Thumbnail'] = 'Lagre Thumbnail';
