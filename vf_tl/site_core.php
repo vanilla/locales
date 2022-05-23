@@ -1438,6 +1438,7 @@ $Definition['Save Avatar'] = 'I-save ang Avatar';
 $Definition['Save Comment'] = 'I-Save ang Komentaryo';
 $Definition['Saved'] = 'Ang iyong mga pagbabago ay nai-save.';
 $Definition['Save Draft'] = 'I-save Ang Draft';
+$Definition['Save General Preferences'] = 'I-save ang Mga Pangkalahatang Kagustuhan';
 $Definition['Save Poll'] = 'I-save ang poll';
 $Definition['Save Preferences'] = 'I-save Ang Mga Kagustuhan';
 $Definition['Save Thumbnail'] = 'I-save ang Thumbnail';
