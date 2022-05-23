@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] לאישור כתובת �
 $Definition['[%s] Invitation'] = '[%s] הזמנה';
 $Definition['[%s] Password Reset'] = '[%s] אפס סיסמא';
 $Definition['[%s] Password Reset Request'] = '[%s] בקשה לאיפוס סיסמא';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'הגעת למקסימום ניסיונות ההתחברות. אנא המתן %s ונסה שוב.';
 
 $Definition['a Badge'] = 'תג';
 $Definition['Abilites'] = 'יכולות';
