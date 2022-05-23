@@ -1437,6 +1437,7 @@ $Definition['Save Avatar'] = 'ذخیره آواتار';
 $Definition['Save Comment'] = 'ذخيره ديدگاه';
 $Definition['Saved'] = 'تغييرات شما ذخيره شد.';
 $Definition['Save Draft'] = 'ذخيره پيش نويس';
+$Definition['Save General Preferences'] = 'تنظیمات عمومی را ذخیره کنید';
 $Definition['Save Poll'] = 'ذخيره نظرسنجي';
 $Definition['Save Preferences'] = 'ذخيره تنظيمات';
 $Definition['Save Thumbnail'] = 'ذخیره بندانگشتی';
