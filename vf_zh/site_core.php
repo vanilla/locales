@@ -1442,6 +1442,7 @@ $Definition['Save Avatar'] = '保存头像';
 $Definition['Save Comment'] = '保存评论';
 $Definition['Saved'] = '保存';
 $Definition['Save Draft'] = '保存草稿';
+$Definition['Save General Preferences'] = '保存常规首选项';
 $Definition['Save Poll'] = '保存投票';
 $Definition['Save Preferences'] = '保存设置';
 $Definition['Save Thumbnail'] = '保存缩略图 ';
