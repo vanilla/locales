@@ -1439,6 +1439,7 @@ $Definition['Save Avatar'] = 'Avatar mentése';
 $Definition['Save Comment'] = 'Hozzászólás mentése';
 $Definition['Saved'] = 'A változásokat elmentettük';
 $Definition['Save Draft'] = 'Piszkozat mentése';
+$Definition['Save General Preferences'] = 'Mentse az Általános beállításokat';
 $Definition['Save Poll'] = 'Szavazás mentése';
 $Definition['Save Preferences'] = 'Beállítások mentése';
 $Definition['Save Thumbnail'] = 'Vázlat Mentése';
