@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] آدرس ايميل خو�
 $Definition['[%s] Invitation'] = '[%s] دعوتنامه';
 $Definition['[%s] Password Reset'] = '[%s] بازنشاني كلمه عبور';
 $Definition['[%s] Password Reset Request'] = '[%s] درخواست بازنشاني كلمه عبور';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'شما به حداکثر تلاش برای ورود به سیستم رسیده اید. لطفاً %s صبر کنید و دوباره امتحان کنید.';
 
 $Definition['a Badge'] = 'يك مدال';
 $Definition['Abilites'] = 'لياقت';
