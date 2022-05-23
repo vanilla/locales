@@ -39,6 +39,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Bekræft din mail adresse
 $Definition['[%s] Invitation'] = '[%s] Invitation';
 $Definition['[%s] Password Reset'] = '[%s] Nulstilling af adgangskode';
 $Definition['[%s] Password Reset Request'] = '[%s] Anmodning om nulstilling af adgangskode';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Du har nået det maksimale antal loginforsøg. Vent venligst %s og prøv igen.';
 
 $Definition['a Badge'] = 'et mærke';
 $Definition['Abilites'] = 'Muligheder';
