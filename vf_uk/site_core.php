@@ -1442,6 +1442,7 @@ $Definition['Save Avatar'] = 'Зберегти аватарку';
 $Definition['Save Comment'] = 'Зберегти коментар';
 $Definition['Saved'] = 'Ваші зміни були збережені.';
 $Definition['Save Draft'] = 'Зберегти чернетку';
+$Definition['Save General Preferences'] = 'Збережіть загальні налаштування';
 $Definition['Save Poll'] = 'Зберегти голос';
 $Definition['Save Preferences'] = 'Зберегти налаштування';
 $Definition['Save Thumbnail'] = 'Зберегти маленький значок';
