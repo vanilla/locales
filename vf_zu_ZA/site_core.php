@@ -1437,6 +1437,7 @@ $Definition['Save Avatar'] = 'Gcina i-Avatar';
 $Definition['Save Comment'] = 'Londoloza Ukuphawula';
 $Definition['Saved'] = 'Izinguquko zakho zilondoloziwe.';
 $Definition['Save Draft'] = 'Londoloza Okusalungiswa';
+$Definition['Save General Preferences'] = 'Londoloza Okuthandwayo Okujwayelekile';
 $Definition['Save Poll'] = 'Londoloza Inhlolovo';
 $Definition['Save Preferences'] = 'Londoloza Okuthandwayo';
 $Definition['Save Thumbnail'] = 'Gcina Isithonjana';
