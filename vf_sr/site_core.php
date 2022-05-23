@@ -1439,6 +1439,7 @@ $Definition['Save Avatar'] = 'Sačuvaj avatar';
 $Definition['Save Comment'] = 'Sačuvaj komentar';
 $Definition['Saved'] = 'Vaše izmene su sačuvane.';
 $Definition['Save Draft'] = 'Sačuvaj nacrt';
+$Definition['Save General Preferences'] = 'Сачувајте општа подешавања';
 $Definition['Save Poll'] = 'Sačuvajte anketu';
 $Definition['Save Preferences'] = 'Sačuvaj podešavanja';
 $Definition['Save Thumbnail'] = 'Sačuvajte sličicu';
