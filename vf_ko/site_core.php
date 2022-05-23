@@ -1435,6 +1435,7 @@ $Definition['Save Avatar'] = '아바타 저장';
 $Definition['Save Comment'] = '코멘트 저장';
 $Definition['Saved'] = '변경되었습니다.';
 $Definition['Save Draft'] = '초고 저장';
+$Definition['Save General Preferences'] = '일반 기본 설정 저장';
 $Definition['Save Poll'] = '여론 조사 저장';
 $Definition['Save Preferences'] = '설정 저장하기';
 $Definition['Save Thumbnail'] = '썸네일 저장';
