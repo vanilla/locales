@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Qinisekisa Ikheli Lakho L
 $Definition['[%s] Invitation'] = '[%s] Isimemo';
 $Definition['[%s] Password Reset'] = '[%s] Ukusetha kabusha kwephasiwedi';
 $Definition['[%s] Password Reset Request'] = '[%s] Isicelo Sokusetha kabusha Iphasiwedi';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Ufinyelele ubuningi bemizamo yokungena ngemvume. Sicela ulinde %s bese uzama futhi.';
 
 $Definition['a Badge'] = 'Ibheji';
 $Definition['Abilites'] = 'Amandla';
