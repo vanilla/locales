@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Email Adresinizi Onaylay�
 $Definition['[%s] Invitation'] = '[%s] Davet';
 $Definition['[%s] Password Reset'] = '[%s] Şifre Sıfırlama';
 $Definition['[%s] Password Reset Request'] = '[%s] Şifre sıfırlamak için gerekli';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Maksimum giriş deneme sayısına ulaştınız. Lütfen %s bekleyin ve tekrar deneyin.';
 
 $Definition['a Badge'] = 'Rozet';
 $Definition['Abilites'] = 'Yetenekler';
