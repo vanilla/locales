@@ -1437,6 +1437,7 @@ $Definition['Save Avatar'] = 'Sàbhail Avatar';
 $Definition['Save Comment'] = 'Sàbhail am beachd';
 $Definition['Saved'] = 'Your changes have been saved.';
 $Definition['Save Draft'] = 'Sàbhal dreachd';
+$Definition['Save General Preferences'] = 'Sàbhail Roghainnean Coitcheann';
 $Definition['Save Poll'] = 'Save Poll';
 $Definition['Save Preferences'] = 'Sàbhail na roghainnean';
 $Definition['Save Thumbnail'] = 'Sàbhail mion-dhealbh';
