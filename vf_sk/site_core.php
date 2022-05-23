@@ -1439,6 +1439,7 @@ $Definition['Save Avatar'] = 'Uložiť avatar';
 $Definition['Save Comment'] = 'Uložiť komentár';
 $Definition['Saved'] = 'Vaše zmeny sú uložené.';
 $Definition['Save Draft'] = 'Uložiť koncept';
+$Definition['Save General Preferences'] = 'Uložiť Všeobecné predvoľby';
 $Definition['Save Poll'] = 'Uložiť prieskum';
 $Definition['Save Preferences'] = 'Uložiť nastavenia';
 $Definition['Save Thumbnail'] = 'Uložiť miniatúru';
