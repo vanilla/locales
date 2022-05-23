@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Потврдите сво
 $Definition['[%s] Invitation'] = '[%s] Позивница';
 $Definition['[%s] Password Reset'] = '[%s] Поништавање лозинке';
 $Definition['[%s] Password Reset Request'] = '[%s] Захтев за ресетовање лозинке';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Достигли сте максималан број покушаја пријављивања. Сачекајте %s и покушајте поново.';
 
 $Definition['a Badge'] = 'значка';
 $Definition['Abilites'] = 'Способности';
