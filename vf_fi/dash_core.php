@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] | Vahvista sähköpostios
 $Definition['[%s] Invitation'] = '[%s] | Kutsu';
 $Definition['[%s] Password Reset'] = '[%s] | Salasanan uudelleenasetus';
 $Definition['[%s] Password Reset Request'] = '[%s] | Salasanan vaihtaminen';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Olet saavuttanut enimmäiskirjautumisyritysten enimmäismäärän. Odota %s ja yritä uudelleen.';
 
 $Definition['a Badge'] = 'kunniamerkki';
 $Definition['Abilites'] = 'Kyvyt';
