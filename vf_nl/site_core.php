@@ -1442,6 +1442,7 @@ $Definition['Save Avatar'] = 'Sla Avatar op';
 $Definition['Save Comment'] = 'Sla Reactie op';
 $Definition['Saved'] = 'Je wijzigingen zijn opgeslagen.';
 $Definition['Save Draft'] = 'Concept Opslaan';
+$Definition['Save General Preferences'] = 'Algemene voorkeuren opslaan';
 $Definition['Save Poll'] = 'Bewaar Poll';
 $Definition['Save Preferences'] = 'Voorkeuren Opslaan';
 $Definition['Save Thumbnail'] = 'Voorbeeld Opslaan';
