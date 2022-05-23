@@ -1444,6 +1444,7 @@ $Definition['Save Avatar'] = 'Gem avatar ';
 $Definition['Save Comment'] = 'Gem kommentar';
 $Definition['Saved'] = 'Dine Êndringer er gemt.';
 $Definition['Save Draft'] = 'Gem kladde';
+$Definition['Save General Preferences'] = 'Gem generelle præferencer';
 $Definition['Save Poll'] = 'Gem afstemning';
 $Definition['Save Preferences'] = 'Gem indstillinger';
 $Definition['Save Thumbnail'] = 'Gem thumbnail';
