@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Erősítsd meg az email c
 $Definition['[%s] Invitation'] = '[%s] Meghívás';
 $Definition['[%s] Password Reset'] = '[%s] Új jelszó';
 $Definition['[%s] Password Reset Request'] = '[%s] Új jelszó kérése';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Elérte a maximális bejelentkezési kísérletet. Kérjük, várjon %s, és próbálja újra.';
 
 $Definition['a Badge'] = 'egy plecsni';
 $Definition['Abilites'] = 'Képességek';
