@@ -1442,6 +1442,7 @@ $Definition['Save Avatar'] = 'Запазване на аватара';
 $Definition['Save Comment'] = 'Запазване на коментар';
 $Definition['Saved'] = 'Промените бяха запазанеи.';
 $Definition['Save Draft'] = 'Запази черновата';
+$Definition['Save General Preferences'] = 'Запазете общите предпочитания';
 $Definition['Save Poll'] = 'Запишете анкетата';
 $Definition['Save Preferences'] = 'Запази настройките';
 $Definition['Save Thumbnail'] = 'Запази миниатюрната версия на изображението';
