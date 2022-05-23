@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] Bevestig je e-mailadres';
 $Definition['[%s] Invitation'] = '[%s] Uitnodiging';
 $Definition['[%s] Password Reset'] = '[%s] Wachtwoord gereset';
 $Definition['[%s] Password Reset Request'] = '[%s] Wachtwoord-reset aangevraagd';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'Je hebt het maximale aantal inlogpogingen bereikt. Wacht %s en probeer het opnieuw.';
 
 $Definition['a Badge'] = 'een Badge';
 $Definition['Abilites'] = 'Mogelijkheden';
