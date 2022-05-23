@@ -1437,6 +1437,7 @@ $Definition['Save Avatar'] = 'Lưu Ảnh đại diện';
 $Definition['Save Comment'] = 'Lưu bình luận';
 $Definition['Saved'] = 'Các thay đổi đã được lưu.';
 $Definition['Save Draft'] = 'Lưu nháp';
+$Definition['Save General Preferences'] = 'Lưu các tùy chọn chung';
 $Definition['Save Poll'] = 'Lưu trưng cầu';
 $Definition['Save Preferences'] = 'Lưu thiết lập';
 $Definition['Save Thumbnail'] = 'Lưu Ảnh thu nhỏ';
