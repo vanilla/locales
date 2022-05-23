@@ -38,6 +38,7 @@ $Definition['[%s] Confirm Your Email Address'] = '[%s] 請驗證您的電子信�
 $Definition['[%s] Invitation'] = '您收到了來自 [%s] 的邀請';
 $Definition['[%s] Password Reset'] = '[%s] 重置密碼';
 $Definition['[%s] Password Reset Request'] = '[%s] 重置密碼請求已發送';
+$Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = '您已達到最大登錄嘗試次數。請等待 %s，然後重試。';
 
 $Definition['a Badge'] = '一枚徽章';
 $Definition['Abilites'] = '能力';
