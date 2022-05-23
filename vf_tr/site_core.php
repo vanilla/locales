@@ -1439,6 +1439,7 @@ $Definition['Save Avatar'] = 'Avatarı Kaydet';
 $Definition['Save Comment'] = 'Yorumu Kaydet';
 $Definition['Saved'] = 'Değişiklikleriniz kaydedildi.';
 $Definition['Save Draft'] = 'Taslak Kaydet';
+$Definition['Save General Preferences'] = 'Genel Tercihleri Kaydet';
 $Definition['Save Poll'] = 'Anketi Kaydet';
 $Definition['Save Preferences'] = 'Tercihleri Kaydet';
 $Definition['Save Thumbnail'] = 'Küçük Resmi Kaydet';
