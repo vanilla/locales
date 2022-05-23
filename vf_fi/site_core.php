@@ -1444,6 +1444,7 @@ $Definition['Save Avatar'] = 'Tallenna avatar';
 $Definition['Save Comment'] = 'Tallenna viesti';
 $Definition['Saved'] = 'Muutokset tallennettiin.';
 $Definition['Save Draft'] = 'Tallenna luonnos';
+$Definition['Save General Preferences'] = 'Tallenna Yleiset asetukset';
 $Definition['Save Poll'] = 'Tallenna kysely';
 $Definition['Save Preferences'] = 'Tallenna asetukset';
 $Definition['Save Thumbnail'] = 'Tallenna esikatselukuva';
