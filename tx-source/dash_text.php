@@ -352,6 +352,7 @@ $Definition['Vanilla Labs'] = 'Vanilla Labs';
 $Definition['Enable and test out the latest Vanilla features.'] = 'Enable and test out the latest Vanilla features.';
 $Definition['Welcome to Labs!'] = 'Welcome to Labs!';
 $Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'This is where you can enable and test out new Vanilla features, pages & components.';
+$Definition['This lab cannot be disabled because a custom layout is applied.'] = 'This lab cannot be disabled because a custom layout is applied.';
 $Definition['This lab cannot be disabled because it is required by the current theme.'] = 'This lab cannot be disabled because it is required by the current theme.';
 $Definition['Need more help?'] = 'Need more help?';
 $Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrate Foundation Pages & Components Into Your Theme';
