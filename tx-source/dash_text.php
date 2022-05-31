@@ -364,3 +364,6 @@ $Definition['New Search Page'] = 'New Search Page';
 $Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'New Quick Links';
 $Definition['Quick Links is a default component on community pages.'] = "Quick Links is a default component on community pages. Enable our new Quick Links component to add, edit or hide links from this menu using our theme editor.";
+$Definition['Layout Editor'] = 'Layout Editor';
+$Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (fka theme editor). <1>Find out more</1>'] = 'N.B. The new Layout Editor will inherit the theme set in your Style Guide (fka theme editor). <1>Find out more</1>';
