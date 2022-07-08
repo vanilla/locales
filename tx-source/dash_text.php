@@ -356,6 +356,7 @@ $Definition['This lab cannot be disabled because a custom layout is applied.'] =
 $Definition['This lab cannot be disabled because it is required by the current theme.'] = 'This lab cannot be disabled because it is required by the current theme.';
 $Definition['Need more help?'] = 'Need more help?';
 $Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrate Foundation Pages & Components Into Your Theme';
+$Definition['Check out our <0>documentation</0>, or ask our <1>community of experts</1>.'] = 'Check out our <0>documentation</0>, or ask our <1>community of experts</1>.';
 $Definition['Enable and test out the latest Vanilla features.'] = 'Enable and test out the latest Vanilla features.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'N.B. The <0/> lab needs to be configured to match your custom theme. This can be done using our new theme editor. <1>Find out more.</1>';
 $Definition['Usercards'] = 'Usercards';
