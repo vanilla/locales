@@ -148,6 +148,7 @@ $Definition['OrgDescription'] = 'Your organization name is used for SEO microdat
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Overridden views or themehooks can have unintended side effects and are not previewed.';
 
+$Definition['Password.MinLength'] = 'Minimum character length allowed for users passwords on password create and reset pages.';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
 $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed between each discussion on the main discussion list. Since discussions are usually in &lt;li&gt;..&lt;/li&gt; tags, you\'ll need to wrap your pocket in those tags too.';
@@ -351,9 +352,11 @@ $Definition['Vanilla Labs'] = 'Vanilla Labs';
 $Definition['Enable and test out the latest Vanilla features.'] = 'Enable and test out the latest Vanilla features.';
 $Definition['Welcome to Labs!'] = 'Welcome to Labs!';
 $Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'This is where you can enable and test out new Vanilla features, pages & components.';
+$Definition['This lab cannot be disabled because a custom layout is applied.'] = 'This lab cannot be disabled because a custom layout is applied.';
 $Definition['This lab cannot be disabled because it is required by the current theme.'] = 'This lab cannot be disabled because it is required by the current theme.';
 $Definition['Need more help?'] = 'Need more help?';
 $Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrate Foundation Pages & Components Into Your Theme';
+$Definition['Check out our <0>documentation</0>, or ask our <1>community of experts</1>.'] = 'Check out our <0>documentation</0>, or ask our <1>community of experts</1>.';
 $Definition['Enable and test out the latest Vanilla features.'] = 'Enable and test out the latest Vanilla features.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'N.B. The <0/> lab needs to be configured to match your custom theme. This can be done using our new theme editor. <1>Find out more.</1>';
 $Definition['Usercards'] = 'Usercards';
@@ -373,3 +376,6 @@ $Definition['See the documentation'] = 'See the Documentation';
 $Definition['Looking for the Old Embed System?'] = 'Looking for the Old Embed System?';
 $Definition['Disable the "New Embed System" lab on the <0>Vanilla Labs Page</0>'] = 'Disable the "New Embed System" lab on the <0>Vanilla Labs Page</0>';
 $Definition["Sometimes you want to embed your Vanilla site"] = "Sometimes you want to embed your Vanilla site inside of another site. Vanilla's embed system offers an easy way to that. There are performance tradeoffs when using an embedded site, so check the documentation for alternatives and ideal use cases.";
+$Definition['Layout Editor'] = 'Layout Editor';
+$Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>';

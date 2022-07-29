@@ -1791,6 +1791,7 @@ $Definition['{Username} has requested to join {Group}.'] = '{Username} has reque
 $Definition['Username or email'] = 'Username or email';
 $Definition['User Not Found'] = 'User Not Found';
 $Definition['User not found.'] = 'Sorry, no account could be found related to the email/username you entered.';
+$Definition['Invalid user/password provided.'] = 'Invalid user/password provided.';
 $Definition['Users'] = 'Users';
 $Definition['Users Count'] = 'Users Count';
 $Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Use up to {maxImages,plural,%s image, %s images}.';
