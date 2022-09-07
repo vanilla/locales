@@ -365,6 +365,17 @@ $Definition['New Search Page'] = 'New Search Page';
 $Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'New Quick Links';
 $Definition['Quick Links is a default component on community pages.'] = "Quick Links is a default component on community pages. Enable our new Quick Links component to add, edit or hide links from this menu using our theme editor.";
+
+// Embeds
+
+$Definition['Embed Settings'] = 'Embed Settings';
+$Definition['The New Embed System'] = 'The New Embed System';
+$Definition['The new embed system has improved performance.'] = 'The new embed system has improved performance, improved scrolling behaviour, and more consistent behaviour than the old one. Currently comment and wordpress embeds are unsupported in the New Embed System.';
+$Definition['New Embed System'] = 'New Embed System';
+$Definition['See the documentation'] = 'See the Documentation';
+$Definition['Looking for the Old Embed System?'] = 'Looking for the Old Embed System?';
+$Definition['Disable the "New Embed System" lab on the <0>Vanilla Labs Page</0>'] = 'Disable the "New Embed System" lab on the <0>Vanilla Labs Page</0>';
+$Definition["Sometimes you want to embed your Vanilla site"] = "Sometimes you want to embed your Vanilla site inside of another site. Vanilla's embed system offers an easy way to that. There are performance tradeoffs when using an embedded site, so check the documentation for alternatives and ideal use cases.";
 $Definition['Layout Editor'] = 'Layout Editor';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>';

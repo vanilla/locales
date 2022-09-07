@@ -5,7 +5,7 @@
   'Name' => 'Gàidhlig / Scottish Gaelic',
   'EnName' => 'Scottish Gaelic',
   'Description' => 'Official Scottish Gaelic language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/gd/">here</a>.',
-  'Version' => '2022.05.23p1722',
+  'Version' => '2022.09.07p1553',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/gd/',
   'License' => 'CC BY-SA 4.0',
