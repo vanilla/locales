@@ -2,12 +2,12 @@
 // phpcs:ignoreFile
 $Definition["(No Body)"] = "(هیچ کس)";
 $Definition["(Untitled)"] = "(بدون عنوان)";
-$Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> از <1 /> افراد این کار را مفید کردند";
+$Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> از <1 /> افراد این را مفید دانستند";
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "نسخه شخصی سازی شده از نام دانش دانش همانطور که باید در URL ها ظاهر شود.";
-$Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "شرح پایه دانش. در انتخاب دانش بنیان نمایش داده می شود.";
+$Definition["A description of the knowledge base. Displayed in the knowledge base picker."] = "شرح دانشنامه. در انتخاب دانش نامه نمایش داده می شود.";
 $Definition["A small image used to represent the knowledge base. Displayed in the knowledge base picker."] = "تصویر کوچکی که برای نشان دادن پایه دانش استفاده می شود. در انتخاب دانش بنیان نمایش داده می شود.";
-$Definition["Add Knowledge Base"] = "پایه دانش را اضافه کنید";
+$Definition["Add Knowledge Base"] = "دانشنامه را اضافه کنید";
 $Definition["Add a knowledge base to get started."] = "برای شروع یک پایگاه دانش را اضافه کنید.";
 $Definition["Add/Edit Knowledge Base"] = "پایگاه دانش را اضافه یا ویرایش کنید";
 $Definition["Admin Links"] = "پیوندهای مدیر";
@@ -31,7 +31,7 @@ $Definition["Back to home page"] = "بازگشت به صفحه اصلی";
 $Definition["Background colors are used as the background of elements. This should have good constrast with the foreground color."] = "از رنگهای پس زمینه بعنوان پس زمینه عناصر استفاده می شود. این باید محدودیت خوبی با رنگ پیش زمینه داشته باشد.";
 $Definition["Banner Image"] = "تصویر بنر";
 $Definition["Be the first one to vote!"] = "اولین نفری باشید که رأی می دهید!";
-$Definition["Border Style"] = "سبک مرزی";
+$Definition["Border Style"] = "سبک حاشیه";
 $Definition["Browse Articles by Category"] = "مرور مقالات بر اساس طبقه بندی";
 $Definition["Browse"] = "مرور کردن";
 $Definition["By <0/>"] = "توسط <0 />";
