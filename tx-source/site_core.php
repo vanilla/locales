@@ -1094,7 +1094,6 @@ $Definition['No badges yet.'] = 'No badges yet.';
 $Definition['Nobody has confirmed their attendance yet.'] = 'Nobody has confirmed their attendance yet.';
 $Definition['Nobody has declined the invitation so far.'] = 'Nobody has declined the invitation so far.';
 $Definition['Nobody is on the fence right now.'] = 'Nobody is on the fence right now.';
-$Definition["No articles were found."] = "No articles were found.";
 $Definition['No default roles.'] = 'No default roles.';
 $Definition['No discussions were found.'] = 'No discussions were found.';
 $Definition['No open cases were found.'] = 'No open cases were found.';
