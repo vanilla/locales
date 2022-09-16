@@ -132,6 +132,7 @@ $Definition['Managing Users'] = 'Managing Users';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marking things as NOT spam will put them back in your forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marking things as not spam will put them back in your forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organize your messages by dragging them up or down.';
+$Definition['Mobile Logo'] = 'Mobile Logo';
 $Definition['MobileLogoDescription'] =
     'The mobile banner logo appears at the top of your site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =

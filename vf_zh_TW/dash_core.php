@@ -881,6 +881,7 @@ $Definition['Version %s'] = '版本 %s';
 $Definition['version %s'] = '版本 %s';
 $Definition['Version %s Installer'] = '版本 %s 安裝程式';
 $Definition['View Page'] = '閱覽頁面';
+$Definition['Visit Site'] = '訪問網站';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = '警告：您的所有資料將會被刪除。資料一旦刪除之後，絕無任何方法可以回復。';
 $Definition['Warning: deleting is permanent'] = '警告：被刪除的項目也會從本列表中移除，而且無法回復。';

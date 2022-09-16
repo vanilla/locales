@@ -716,6 +716,7 @@ $Definition['Version %s'] = 'Версія %s';
 $Definition['version %s'] = 'версія %s';
 $Definition['Version %s Installer'] = 'Інсталятор версії %s ';
 $Definition['View Page'] = 'Переглянути сторінку';
+$Definition['Visit Site'] = 'На сайт';
 
 $Definition['Warning: deleting is permanent'] = 'ПОПЕРЕДЖЕННЯ: видалені елементи зникають з цього списку і не можуть бути повернені.';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Попереджувати користувачів, якщо посилання в дописі змусить їх залишити форум. ';

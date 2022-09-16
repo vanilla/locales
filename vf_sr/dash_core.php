@@ -880,6 +880,7 @@ $Definition['Version %s'] = 'Верзија %s';
 $Definition['version %s'] = 'верзија %s';
 $Definition['Version %s Installer'] = 'Верзија %s Инсталлер';
 $Definition['View Page'] = 'Прикажи страницу';
+$Definition['Visit Site'] = 'Posetite sajt';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Упозорење: Сви ваши подаци биће изгубљени. Једном када га избришете, апсолутно нема опоравка било које врсте.';
 $Definition['Warning: deleting is permanent'] = 'УПОЗОРЕЊЕ: избрисане ставке уклањају се са ове листе и не могу их вратити натраг.';

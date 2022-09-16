@@ -867,6 +867,7 @@ $Definition['Version %s'] = 'Versió %s';
 $Definition['version %s'] = 'versió %s';
 $Definition['Version %s Installer'] = 'Versió %s Installer';
 $Definition['View Page'] = 'Visualitza la pàgina';
+$Definition['Visit Site'] = 'Visitar Sitio';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Avís: es perdran totes les vostres dades. Un cop suprimits, no hi ha cap recuperació de cap tipus.';
 $Definition['Warning: deleting is permanent'] = 'ATENCIÓ: els elements suprimits s\'eliminen d\'aquesta llista i no es poden tornar a portar.';

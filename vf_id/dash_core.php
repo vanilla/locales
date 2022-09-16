@@ -871,6 +871,7 @@ $Definition['Version %s'] = 'Versi %s';
 $Definition['version %s'] = 'versi %s';
 $Definition['Version %s Installer'] = 'Versi %s Installer';
 $Definition['View Page'] = 'Lihat Halaman';
+$Definition['Visit Site'] = 'Kunjungi Situs';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Peringatan: Semua data Anda akan hilang. Segera setelah Anda hapus, sudah tidak ada lagi jalan untuk memulihkannya.';
 $Definition['Warning: deleting is permanent'] = 'Peringatan: item-item yang dihapus dipindahkan dari daftar ini dan tidak dapat dikembalikan lagi.';

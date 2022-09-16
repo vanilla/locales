@@ -882,6 +882,7 @@ $Definition['Version %s'] = 'Έκδοση %s';
 $Definition['version %s'] = 'έκδοση %s';
 $Definition['Version %s Installer'] = 'Installer Έκδοση %s';
 $Definition['View Page'] = 'Εμφάνιση Σελίδας';
+$Definition['Visit Site'] = 'Επισκεφτείτε τη Σελίδα';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Προειδοποίηση: Όλα τα δεδομένα σας θα χαθούν. Μόλις τα διαγράψετε, δεν υπάρχει απολύτως καμία ανάκτηση οποιουδήποτε είδους.';
 $Definition['Warning: deleting is permanent'] = 'ΠΡΟΕΙΔΟΠΟΙΗΣΗ: διαγραμμένα αντικείμενα έχουν αφαιρεθεί από αυτή τη λίστα και δεν μπορούν να επανέλθουν.';

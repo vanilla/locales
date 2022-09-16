@@ -825,6 +825,7 @@ $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'ضع الفئات المت�
 $Definition['Vanilla is installed!'] = 'يتم تثبيت الفانيليا!';
 $Definition['Version %s Installer'] = 'الإصدار %s المثبت';
 $Definition['View Page'] = 'عرض الصفحة';
+$Definition['Visit Site'] = 'زيارة الموقع';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'تحذير: ستفقد جميع بياناتك. بمجرد الحذف ، لا يوجد أي استرداد من أي نوع على الإطلاق.';
 $Definition['Warning: deleting is permanent'] = 'تحذير: تتم إزالة العناصر المحذوفة من هذه القائمة ولا يمكن إعادتها.';

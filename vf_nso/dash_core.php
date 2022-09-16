@@ -883,6 +883,7 @@ $Definition['Version %s'] = 'Mohuta %s';
 $Definition['version %s'] = 'mohuta %s';
 $Definition['Version %s Installer'] = 'Mohlomi wa Mohuta %s';
 $Definition['View Page'] = 'Bona Letlakala';
+$Definition['Visit Site'] = 'Etela Lefelo';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Temošo: Tatha ya gago ka moka e tla lahlega. Ge o ka phumola, o ka se sa e hwetša ka tsela efe goba efe.';
 $Definition['Warning: deleting is permanent'] = 'TEMOŠO: dilo tše di phumotšwego di tlošwa lenaneong le e bile di ka se sa bušwa.';

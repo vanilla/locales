@@ -859,6 +859,7 @@ $Definition['Version %s'] = 'Версия %s';
 $Definition['version %s'] = 'версия %s';
 $Definition['Version %s Installer'] = 'Версия %s Инсталатор';
 $Definition['View Page'] = 'Преглед на страницата';
+$Definition['Visit Site'] = 'Посетете форума';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Предупреждение: Всичките ви данни ще бъдат загубени. След като изтриете, няма абсолютно никакво възстановяване от какъвто и да е вид.';
 $Definition['Warning: deleting is permanent'] = 'ВНИМАНИЕ: изтритите елементи се премахват от този списък и не могат да бъдат върнати обратно.';

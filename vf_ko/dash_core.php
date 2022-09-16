@@ -534,6 +534,7 @@ $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in 
 $Definition['Version'] = '버전';
 $Definition['Version %s'] = '버전 %s';
 $Definition['version %s'] = '버전 %s';
+$Definition['Visit Site'] = '사이트 방문하기';
 
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = '포스트 내에 링크가 있을 경우 포럼에서 퇴장당할 수 있음을 경고합니다.';

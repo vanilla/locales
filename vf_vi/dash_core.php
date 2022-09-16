@@ -880,6 +880,7 @@ $Definition['Version %s'] = 'Phiên bản %s';
 $Definition['version %s'] = 'phiên bản %s';
 $Definition['Version %s Installer'] = 'Phiên bản cài đặt %s';
 $Definition['View Page'] = 'Xem trang';
+$Definition['Visit Site'] = 'Trang chủ';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Chú ý: Tất cả dữ liệu của bạn sẽ bị mất. Một khi bạn đã xóa, sẽ không có cách nào để phục hồi.';
 $Definition['Warning: deleting is permanent'] = 'Chú ý: các mục đã  bị xóa khỏi khỏi danh sách này và không thể đưa trở lại được.';

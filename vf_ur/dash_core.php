@@ -879,6 +879,7 @@ $Definition['Version %s'] = 'ورژن %s';
 $Definition['version %s'] = 'ورژن %s';
 $Definition['Version %s Installer'] = 'ورژن %s انسٹالر';
 $Definition['View Page'] = 'صفحہ دیکھیں';
+$Definition['Visit Site'] = 'سائٹ ملاحظہ کریں';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'انتباہ: آپ کا سارا ڈیٹا ضائع ہو جائے گا۔ ایک بار جب آپ حذف کردیں تو ، کسی بھی طرح کی بازیابی بالکل نہیں ہے۔';
 $Definition['Warning: deleting is permanent'] = 'انتباہ: حذف شدہ اشیاء کو اس فہرست سے ہٹا دیا گیا ہے اور اسے واپس نہیں لایا جاسکتا ہے۔';

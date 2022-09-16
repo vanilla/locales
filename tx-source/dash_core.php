@@ -730,6 +730,7 @@ $Definition['Strip Embeds'] = 'Strip Embeds';
 $Definition['Strip Embeds'] = 'Strip images and videos out of posts.';
 $Definition["Style"] = "Style";
 $Definition['Styles'] = 'Styles';
+$Definition['Style Guides'] = 'Style Guides';
 
 $Definition['Table Layout'] = 'Table Layout';
 $Definition['take away'] = 'take away';

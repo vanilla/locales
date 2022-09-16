@@ -878,6 +878,7 @@ $Definition['Version %s'] = 'Fersiwn %s';
 $Definition['version %s'] = 'Fersiwn %s';
 $Definition['Version %s Installer'] = 'Gosodwr Fersiwn %s';
 $Definition['View Page'] = 'Gweld Tudalen';
+$Definition['Visit Site'] = 'Ymweld â safle';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Rhybudd: bydd eich data i gyd yn cael ei golli. Unwaith y byddwch wedi dileu, nid oes adferiad.';
 $Definition['Warning: deleting is permanent'] = 'RHYBUDD: eitemau yn cael eu dileu o\'r rhestr hon ac ni ellir eu hadfer.';

@@ -515,6 +515,7 @@ $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in 
 $Definition['Version'] = 'Wersja';
 $Definition['Version %s'] = 'Wersja %s';
 $Definition['version %s'] = 'wersja %s';
+$Definition['Visit Site'] = 'Odwiedź stronę';
 
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Ostrzegaj użytkowników, jeśli kliknięcie linku w poście spowoduje, że opuszczą forum';

@@ -892,6 +892,7 @@ $Definition['Version %s'] = 'संस्करण %s';
 $Definition['version %s'] = 'वर्श़न %s';
 $Definition['Version %s Installer'] = 'वर्श़न %s इंस्टॉलर ';
 $Definition['View Page'] = 'पेज देखें ';
+$Definition['Visit Site'] = 'साइट विज़िट करें';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'चेतावनी: आपका सारा डेटा खो जाएगा। एक बार जब आप हटाते हैं, तो किसी भी तरह की कोई रिकवरी नहीं होती है।';
 $Definition['Warning: deleting is permanent'] = 'चेतावनी: हटाए गए आइटम इस सूची से हटा दिए गए हैं और उन्हें वापस नहीं लाया जा सकता है.';
