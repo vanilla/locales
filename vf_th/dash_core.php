@@ -873,7 +873,6 @@ $Definition['Version %s'] = 'รุ่น %s';
 $Definition['version %s'] = 'รุ่น %s';
 $Definition['Version %s Installer'] = 'เวอร์ชันตัวติดตั้ง %s';
 $Definition['View Page'] = 'ดูหน้า';
-$Definition['Visit Site'] = 'ชมหน้าเว็บ';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'คำเตือน: ข้อมูลทั้งหมดของคุณจะสูญหาย เมื่อคุณลบจะไม่มีการกู้คืนใด ๆ';
 $Definition['Warning: deleting is permanent'] = 'คำเตือน: รายการที่ถูกลบจะถูกลบออกจากรายการนี้และไม่สามารถนำกลับมาได้';

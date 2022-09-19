@@ -881,7 +881,6 @@ $Definition['Version %s'] = '%s verzió';
 $Definition['version %s'] = '%s verzió';
 $Definition['Version %s Installer'] = '%s verziójú Telepítő';
 $Definition['View Page'] = 'Oldal megtekintése';
-$Definition['Visit Site'] = '← Vissza a Fórumra';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Figyelem: Minden adatod törlésre kerül. Törlés után semmilyen lehetőség nincs a helyreállításra.';
 $Definition['Warning: deleting is permanent'] = 'FIGYELEM: a törölt elemek eltűnnek erről a listáról és nem lehet őket helyreállítani.';

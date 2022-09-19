@@ -881,7 +881,6 @@ $Definition['Version %s'] = 'Versão %s';
 $Definition['version %s'] = 'versão %s';
 $Definition['Version %s Installer'] = 'Versão %s do Instalador.';
 $Definition['View Page'] = 'Ver Página';
-$Definition['Visit Site'] = 'Visitar Site';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Aviso: Todos os seus dados serão perdidos. Uma vez que você deletar, não existe nenhum tipo de recuperação.';
 $Definition['Warning: deleting is permanent'] = 'AVISO: itens deletados são removidos desta lista e não podem ser resgatados.';

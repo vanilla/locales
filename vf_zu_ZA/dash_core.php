@@ -871,7 +871,6 @@ $Definition['Version %s'] = 'Inguqulo %s';
 $Definition['version %s'] = 'inguqulo %s';
 $Definition['Version %s Installer'] = 'Uhlobo %s Isifaki';
 $Definition['View Page'] = 'Buka Ikhasi';
-$Definition['Visit Site'] = 'Vakashela Isayithi';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Isexwayiso: Yonke imininingwane yakho izolahleka. Uma usususile, akukho ukululama kwanoma yiluphi uhlobo.';
 $Definition['Warning: deleting is permanent'] = 'ISEXWAYISO: izinto ezisusiwe ziyasuswa kulolu hlu futhi azikwazi ukubuyiselwa.';

@@ -878,7 +878,6 @@ $Definition['Version %s'] = 'Versiunea %s';
 $Definition['version %s'] = 'versiunea %s';
 $Definition['Version %s Installer'] = 'Instalare versiunea %s';
 $Definition['View Page'] = 'Vizualizare pagină';
-$Definition['Visit Site'] = 'Vizitaţi site-ul';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Avertisment: Toate datele vor fi pierdute. După ce ştergeţi, nu este posibilă absolut nici o recuperare ';
 $Definition['Warning: deleting is permanent'] = 'Avertisment: elementele şterse vor fi eliminate din această listă şi nu pot fi aduse înapoi';

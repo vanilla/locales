@@ -837,7 +837,6 @@ $Definition['Verified!'] = 'Vahvistettu!';
 $Definition['Version'] = 'Versio';
 $Definition['Version %s Installer'] = 'Version %s asennus';
 $Definition['View Page'] = 'Näytä sivu';
-$Definition['Visit Site'] = 'Forumin etusivulle';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Varoitus: Kaikki tiedot häviävät. Kun poistat ne, tälle toiminnolle ei ole minkäänlaista palautus mahdollisuutta.';
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';

@@ -880,7 +880,6 @@ $Definition['Version %s'] = 'Verzia %s';
 $Definition['version %s'] = 'verzia %s';
 $Definition['Version %s Installer'] = 'Inštalátor verzie %s';
 $Definition['View Page'] = 'Zobraziť stránku';
-$Definition['Visit Site'] = 'Navštíviť stránku';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Varovanie: Všetky vaše dáta budú stratené. Po vymazaní neexistuje žiadna možnosť obnovy.';
 $Definition['Warning: deleting is permanent'] = 'VAROVANIE: vymazané položky sú odstránené z tohto zoznamu a nie je možné vrátiť ich na zoznam.';

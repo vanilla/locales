@@ -866,7 +866,6 @@ $Definition['Vanilla is installed!'] = 'Vanilla er nu installeret!';
 $Definition['Verified!'] = 'Bekræftet!';
 $Definition['Version %s Installer'] = 'Version %s installationsprogram';
 $Definition['View Page'] = 'Vis side';
-$Definition['Visit Site'] = 'Vis side';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Advarsel: Alle dine data slettes. Når du sletter dine data, så kan de ikke genskabes på nogen måde.';
 $Definition['Warning: deleting is permanent'] = 'ADVARSEL: slettede elementer er blevet fjernet fra denne liste og kan ikke genskabes.';

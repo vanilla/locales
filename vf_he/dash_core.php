@@ -878,7 +878,6 @@ $Definition['Version %s'] = 'גרסה  %s';
 $Definition['version %s'] = 'גרסה %s';
 $Definition['Version %s Installer'] = 'התקנה לגרסה %s';
 $Definition['View Page'] = 'צפיה בעמוד';
-$Definition['Visit Site'] = 'בקר באתר';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'אזהרה: כול המידה של יאבד. אין שום דרך לשחזר את המידע לאחר המחיקה.';
 $Definition['Warning: deleting is permanent'] = 'אזהרה: מחיקת פריטים מסירה אותם מהרשימה הזאת ואי אפשר להחזיר אותם.';

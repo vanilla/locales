@@ -875,7 +875,6 @@ $Definition['Vanilla is installed!'] = 'Vanilla är installerat!';
 $Definition['Verified!'] = 'Bekräftad!';
 $Definition['Version %s Installer'] = 'Installering för version %s';
 $Definition['View Page'] = 'Visa sida';
-$Definition['Visit Site'] = '← Besök sidan';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Varning: All din data kommer att förloras. När du har raderat finns det absolut ingen återvändo av något slag.';
 $Definition['Warning: deleting is permanent'] = 'VARNING: raderade objekt tas bort från listan och detta kan inte ångras.';

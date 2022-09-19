@@ -868,7 +868,6 @@ $Definition['Version %s'] = 'Versie %s';
 $Definition['version %s'] = 'versie %s';
 $Definition['Version %s Installer'] = 'Installatiescript voor versie %s ';
 $Definition['View Page'] = 'Toon pagina';
-$Definition['Visit Site'] = 'Bezoek Site';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Waarschuwing: Alle data zal verloren gaan. Wanneer je het verwijdert is er geen enkel herstel mogelijk.';
 $Definition['Warning: deleting is permanent'] = 'WAARSCHUWING: verwijderde voorwerpen worden verwijderd van deze lijst en kunnen niet teruggebracht worden.';

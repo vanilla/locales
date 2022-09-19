@@ -879,7 +879,6 @@ $Definition['Version %s'] = 'نسخه %s';
 $Definition['version %s'] = 'نسخه %s';
 $Definition['Version %s Installer'] = 'نسخه %s نصب كننده';
 $Definition['View Page'] = 'نمايش صفحه';
-$Definition['Visit Site'] = 'مشاهده سايت';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'هشدار :‌ تمام اطلاعات شما از بين ميرود. هنگامي كه اطلاعات را حذف كنيد، مطلقاً اطلاعات به هيچ روشي بازيابي نخواهد شد.';
 $Definition['Warning: deleting is permanent'] = 'هشدار : آيتم هاي حذف شده از اين ليست پاك شده و نميتوان آنها را برگرداند.';

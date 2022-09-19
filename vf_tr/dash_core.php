@@ -880,7 +880,6 @@ $Definition['Version %s'] = 'Sürüm %s';
 $Definition['version %s'] = 'sürüm %s';
 $Definition['Version %s Installer'] = 'Sürüm %s Kurulum';
 $Definition['View Page'] = 'Sayfaya bak';
-$Definition['Visit Site'] = 'Siteyi Ziyaret Et';
 
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Uyarı: Tüm verileriniz kaybolacak. Bir kez sildiğinizde, hiçbir şekilde bir kurtarma işlemi olmaz.';
 $Definition['Warning: deleting is permanent'] = 'UYARI: silinen öğeler bu listeden kaldırılır ve geri getirilemez.';

@@ -424,7 +424,6 @@ $Definition['Use the content at this url as your homepage.'] = 'Choose the page 
 $Definition['Value or Pattern'] = 'Verdi eller mønster';
 $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
-$Definition['Visit Site'] = '← Besøk siden';
 
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Advar brukere hvis en lenke i et innlegg vil føre til at de forlater forumet';
