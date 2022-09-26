@@ -91,3 +91,4 @@ $Definition['weekday.short.4'] = 'Thu';
 $Definition['weekday.short.5'] = 'Fri';
 $Definition['weekday.short.6'] = 'Sat';
 $Definition['weekday.short.7'] = 'Sun';
+$Definition['What to search'] = 'What to Search';
