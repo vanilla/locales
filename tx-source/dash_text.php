@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "The site description usually appears in search engines. You should try having a description that is 100-150 characters long.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Your organization name is used for SEO microdata and JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Your site's favicon appears in your browser's title bar. It will be scaled down appropriately.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Some browsers support a color for the address bar.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "This setting loads the page before executing Javascript which can improve your SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Warning: Enabling this feature may cause Javascript errors on your site.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404.";
+
+
+
 ///
 /// Theming UI
 ///

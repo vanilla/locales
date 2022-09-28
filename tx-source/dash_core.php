@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = 'Your Password';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.';
 
+$Definition["Mobile Logo"] = "Mobile Logo";
+$Definition["Banner Image"] = "Banner Image";
+$Definition["Disable Forum Pages"] = "Disable Forum Pages";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Select the default format of the editor for posts in the community.';
 $Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Display on category page only. 
 $Definition['Use Masonry display'] = 'Use Masonry display';
 $Definition['Show an uploaded image on the Category page.'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
 $Definition['Upload Placeholder Image'] = 'Upload Placeholder Image';
+
+
+
+
+
+
+
+
