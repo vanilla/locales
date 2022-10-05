@@ -433,7 +433,7 @@ $Definition['Hide Pocket Locations'] = 'Ocultar las ubicaciones de los pockets';
 $Definition['Hide signatures for guests'] = 'Ocultar las firmas de los invitados';
 $Definition['Hide signatures on embedded comments'] = 'Esconder firmas en comentarios incrustados';
 $Definition['Homepage'] = 'Página principal';
-$Definition['Homepage Title'] = 'Título de la página principal';
+$Definition['Homepage Title'] = 'Título de la Página Principal';
 $Definition['How to use themes'] = 'Como usar los temas ';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'Correos HTML';
@@ -707,7 +707,7 @@ $Definition['Show each user a personalized list of ideas they’ve created or up
 $Definition['Signatures'] = 'Firmas';
 $Definition['SignedOut'] = 'Estas saliendo. ';
 $Definition['Sign In Url'] = 'Registrarse';
-$Definition['Site Description'] = 'Descripción del sitio';
+$Definition['Site Description'] = 'Descripción del Sitio';
 $Definition['Site Name'] = 'Nombre del Sitio';
 $Definition['Slug'] = 'Slug';
 $Definition['SMTP Host'] = 'Host SMTP';
@@ -918,6 +918,10 @@ $Definition['Your invitations were sent successfully.'] = 'Tus invitaciones fuer
 $Definition['Your Password'] = 'Tu contraseña';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Está saliendo del editor de temas sin guardar los cambios. Asegúrese de que se guarden las actualizaciones antes de salir.';
 
+$Definition["Mobile Logo"] = "Logotipo Móvil";
+$Definition["Banner Image"] = "Imagen del Banner";
+$Definition["Disable Forum Pages"] = "Deshabilitar las Páginas del Foro";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Selecciona el formato por defecto del editor para las publicaciones en la comunidad.';
 $Definition['InputFormatter.Notes2'] = 'El editor auto-detectará el formato de publicaciones antiguas al editarlas y cargará las reglas de formato originales. A parte de esta excepción, el formato de publicación de más abajo tomará prioridad.';
@@ -946,3 +950,11 @@ $Definition['Display on category page only.'] = 'Mostrar solo en la página de c
 $Definition['Use Masonry display'] = 'Usar pantalla de mampostería';
 $Definition['Show an uploaded image on the Category page.'] = 'Cada discusión mostrará una imagen subida en la página Categoría. Solo se aplica a categorías con "Discusión" en "Mostrar como".';
 $Definition['Upload Placeholder Image'] = 'Subir imagen de marcador de posición';
+
+
+
+
+
+
+
+
