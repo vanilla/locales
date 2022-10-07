@@ -2063,6 +2063,12 @@ $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip";
 
+$Definition["Hot"] = "Hot";
+$Definition["Most Helpful"] = "Most Helpful";
+$Definition["Recently Active"] = "Recently Active";
+$Definition["Oldest Members"] = "Oldest Members";
+$Definition["Newest Members"] = "Newest Members";
+
 // Rich Editor
 
 // Long Descriptions
