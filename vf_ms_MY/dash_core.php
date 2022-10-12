@@ -909,6 +909,10 @@ $Definition['Your invitations were sent successfully.'] = 'Jemputan anda berjaya
 $Definition['Your Password'] = 'Kata laluan Awak';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Anda meninggalkan editor tema tanpa menyimpan perubahan anda. Pastikan kemas kini anda disimpan sebelum keluar.';
 
+$Definition["Mobile Logo"] = "Logo Mudah Alih";
+$Definition["Banner Image"] = "Imej Sepanduk";
+$Definition["Disable Forum Pages"] = "Lumpuhkan Halaman Forum";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Pilih format lalai penyunting untuk siaran dalam komuniti.';
 $Definition['InputFormatter.Notes2'] = 'Editor akan mengesan format catatan lama secara automatik semasa mengeditnya dan memuatkan peraturan pemformatan asalnya. Selain pengecualian ini, format catatan yang dipilih di bawah akan diutamakan.';
@@ -937,3 +941,11 @@ $Definition['Display on category page only.'] = 'Paparkan di halaman kategori sa
 $Definition['Use Masonry display'] = 'Gunakan paparan Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Setiap perbincangan akan menunjukkan gambar yang dimuat naik di halaman Kategori. Ini hanya berlaku untuk kategori dengan "Perbincangan" sebagai "Paparan Sebagai."';
 $Definition['Upload Placeholder Image'] = 'Muat Naik Gambar Tempat';
+
+
+
+
+
+
+
+
