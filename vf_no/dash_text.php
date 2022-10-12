@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Du må velge en fil som skal importeres.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Du er i ferd med å bruke et nytt layoutalternativ. Dette kan tilpasses og forhåndsvises ved hjelp av temaredigereren. <0> Finn ut mer</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Områdebeskrivelsen vises vanligvis i søkemotorer. Du bør prøve å ha en beskrivelse som er 100-150 tegn lang.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Denne tittelen vises på nettstedets banner og i nettleserens tittellinje. Det skal være mindre enn 20 tegn. Hvis en logo lastes opp, vil den erstatte denne tittelen på brukervendte forumsider. Husk også at noen temaer kan skjule denne tittelen.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Din organisasjons navn brukes for SEO-mikrodata og JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Denne logoen vises øverst på nettstedet ditt. Temaer laget med temaredigering og enkelte tilpassede temaer bruker ikke denne innstillingen.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Mobillogoen vises øverst på nettstedet ditt. Temaer laget med temaredigering og enkelte tilpassede temaer bruker ikke denne innstillingen.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Favikonet til siden din vises i din nettlesers tittellinje. Det vil skaleres ned til å passe.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Berøringsikonet vises når du bokmerker et nettsted på startskjermen til en mobilenhet. Disse er vanligvis 152 piksler.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Når noen deler en lenke fra nettstedet ditt, prøver vi å ta et bilde fra siden. Hvis det ikke er et bilde på siden, bruker vi dette bildet i stedet. Bildet bør være minst 50×50, men vi anbefaler 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Noen nettlesere støtter en farge for adressefeltet.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Denne innstillingen laster inn siden før Javascript kjøres, noe som kan forbedre SEO-en din.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Advarsel: Aktivering av denne funksjonen kan føre til Javascript-feil på nettstedet ditt.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Fjern diskusjons- og kategorikoblinger fra menyene. Angi diskusjons- og kategorirelaterte sider til å returnere ikke funnet side 404.";
+
+
+
 ///
 /// Theming UI
 ///
