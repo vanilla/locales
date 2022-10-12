@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s tarafından %2
 $Definition['%3$s created an account for %1$s.'] = '%3$s, %1$s için bir hesap oluşturdu.';
 $Definition['%s (Current)'] = '%s (Şimdiki)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Forum Hesabı Oluşturma';
 $Definition['%s Agrees'] = '%s Onaylanan';
 $Definition['%s and %s others'] = '%s %s ve diğerleri';
 $Definition['%s and you'] = '%s ve siz';
@@ -897,6 +898,7 @@ $Definition['Join this Community Now'] = 'Şimdi bu Topluluğa Katıl';
 $Definition['Join this Group'] = 'Bu gruba katıl';
 $Definition['Join this group to view its content.'] = 'İçeriği incelemek için bu gruba katılın.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Emoji listesini atla, emoji kategorilerine git.';
+$Definition['Jump to a specific page'] = 'Belirli bir sayfaya atla';
 $Definition['Jump to first tracked post.'] = 'ilk izlenen gönderiye atla.';
 $Definition['Jumped to emoji category: '] = 'Emoji kategorisine atlandı:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Sadece kullanıcı kaydını sil ve kullanıcıya ait bütün içerik kalsın.';
@@ -2050,6 +2052,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Kabul e
 $Definition["yyyy-mm-dd"] = "yyyy-aa-gg";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Sıcak";
+$Definition["Most Helpful"] = "En Faydalı";
+$Definition["Recently Active"] = "Son zamanlarda Aktif";
+$Definition["Oldest Members"] = "En Eski Üyeler";
+$Definition["Newest Members"] = "En Yeni Üyeler";
 
 // Rich Editor
 
