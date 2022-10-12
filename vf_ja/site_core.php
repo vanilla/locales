@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$sさんが%2$s�
 $Definition['%3$s created an account for %1$s.'] = '%3$sが%1$sのためにアカウントを作成しました。';
 $Definition['%s (Current)'] = '%s(現在)';
 $Definition['%s: %s'] = '%s：%s';
+$Definition['[%s] Forum Account Creation'] = '[%s] フォーラムアカウント作成';
 $Definition['%s Agrees'] = '%sを同意する';
 $Definition['%s and %s others'] = '%s と%sのその他';
 $Definition['%s and you'] = '%sとあなた';
@@ -901,6 +902,7 @@ $Definition['Join this Community Now'] = 'このコミュニティに今すぐ�
 $Definition['Join this Group'] = 'このグループに参加する';
 $Definition['Join this group to view its content.'] = '内容を見るにはこのグループへ参加してください。';
 $Definition['Jump past emoji list, to emoji categories.'] = '過去の絵文字リストから絵文字カテゴリーに移動して下さい。';
+$Definition['Jump to a specific page'] = '特定のページに移動';
 $Definition['Jump to first tracked post.'] = '最初にトラックされたポストへとジャンプ';
 $Definition['Jumped to emoji category: '] = '絵文字カテゴリーにジャンプしました：';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'ユーザーの記録だけを削除し、ユーザーの全てのコンテンツを残す。';
@@ -2070,6 +2072,12 @@ $Definition['You will receive a notification when you are accepted.'] = '承認�
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip（ジップ）";
+
+$Definition["Hot"] = "ホット";
+$Definition["Most Helpful"] = "最も役立つ";
+$Definition["Recently Active"] = "最近有効化されたもの";
+$Definition["Oldest Members"] = "最も古いメンバー";
+$Definition["Newest Members"] = "最も新しいメンバー";
 
 // Rich Editor
 
