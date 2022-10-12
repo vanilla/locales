@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s ได้ร�
 $Definition['%3$s created an account for %1$s.'] = '%3$s สร้างบัญชีสำหรับ %1$s';
 $Definition['%s (Current)'] = '%s (ปัจจุบัน)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] การสร้างบัญชีฟอรัม';
 $Definition['%s Agrees'] = '%s เห็นด้วย';
 $Definition['%s and %s others'] = '%s และ %s อื่นๆ';
 $Definition['%s and you'] = '%s และคุณ';
@@ -892,6 +893,7 @@ $Definition['Join this Community Now'] = 'เข้าร่วมชุมช�
 $Definition['Join this Group'] = 'เข้าร่วมกลุ่มนี้';
 $Definition['Join this group to view its content.'] = 'เข้าร่วมกลุ่มนี้เพื่อดูเนื้อหาในกลุ่ม';
 $Definition['Jump past emoji list, to emoji categories.'] = 'ข้ามผ่านรายการอิโมจิไปยังหมวดหมู่อิโมจิ';
+$Definition['Jump to a specific page'] = 'ข้ามไปยังหน้าเฉพาะ';
 $Definition['Jump to first tracked post.'] = 'ข้ามไปที่การติดตามโพสต์ครั้งแรก';
 $Definition['Jumped to emoji category: '] = 'ข้ามไปที่หมวดอิโมจิ';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'ลบข้อมูลผู้ใช้แต่เก็บหัวข้อสนทนา ความคิดเห็น และอื่น ๆ ของผู้ใช้';
@@ -2061,6 +2063,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'คุ�
 $Definition["yyyy-mm-dd"] = "dd-mm-yyyy";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "ร้อน";
+$Definition["Most Helpful"] = "มีประโยชน์มากที่สุด";
+$Definition["Recently Active"] = "ใช้งานล่าสุด";
+$Definition["Oldest Members"] = "สมาชิกเก่าที่สุด";
+$Definition["Newest Members"] = "สมาชิกใหม่ล่าสุด";
 
 // Rich Editor
 
