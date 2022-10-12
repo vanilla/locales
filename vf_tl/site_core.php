@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s ay inaprubahan
 $Definition['%3$s created an account for %1$s.'] = 'Si %3$s ay lumikha ng account para kay %1$s.';
 $Definition['%s (Current)'] = '%s (Kasalukuyan)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Paglikha ng Forum Account';
 $Definition['%s Agrees'] = '%s Sang-ayon';
 $Definition['%s and %s others'] = '%s at %s (na) iba pa';
 $Definition['%s and you'] = '%s at ikaw';
@@ -897,6 +898,7 @@ $Definition['Join this Community Now'] = 'Sumali sa Komunidad na Ito';
 $Definition['Join this Group'] = 'Sumali sa Grupong ito';
 $Definition['Join this group to view its content.'] = 'Sumali sa grupong para makita ang nilalaman nito.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Laktawan ang listahan ng emoji, at dumeretso sa mga kategorya ng emoji.';
+$Definition['Jump to a specific page'] = 'Tumalon sa isang partikular na pahina';
 $Definition['Jump to first tracked post.'] = 'Tumalon sa unang na-track na post.';
 $Definition['Jumped to emoji category: '] = 'Tumalon sa kategorya ng emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Burahin na lang ang mga rekord ng gumagamit, at panatilihin ang lahat ng mga nilalaman ng gumagamit.';
@@ -2056,6 +2058,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Makakat
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "I-zip";
+
+$Definition["Hot"] = "Mainit";
+$Definition["Most Helpful"] = "Pinaka Matulungin";
+$Definition["Recently Active"] = "Aktibo kamakailan";
+$Definition["Oldest Members"] = "Pinakamatandang Miyembro";
+$Definition["Newest Members"] = "Pinakabagong mga Miyembro";
 
 // Rich Editor
 
