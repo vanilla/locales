@@ -277,6 +277,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Du musst eine Import-Datei auswählen.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Sie sind dabei, eine neue Layoutoption anzuwenden. Dies kann mit unserem Theme-Editor angepasst und in der Vorschau angezeigt werden. <0>Weitere Informationen</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Der Homepagetitel wird auf deiner Homepage angezeigt. Wähle einen Titel, den du in Suchmaschinen wiederfinden möchtest.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Die Website-Beschreibung wird normalerweise in Suchmaschinen angezeigt. Ihre Beschreibung sollte 100-150 Zeichen lang sein.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Dieser Titel erscheint auf dem Banner Ihrer Website und in der Titelleiste Ihres Browsers. Er sollte weniger als 20 Zeichen lang sein. Wenn ein Logo hochgeladen wird, ersetzt es diesen Titel auf den Benutzerseiten des Forums. Bitte beachten Sie, dass manche Themes diesen  Titel verbergen könnten.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Der Name Ihrer Organisation wird für SEO-Mikrodaten und JSON+LD benutzt";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Dieses Logo erscheint im oberen Bereich Ihrer Website. Bei Themes, die mit dem Theme-Editor erstellt wurden sowie bei einigen benutzerdefinierten Themes wird diese Einstellung nicht übernommen.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Dieses Logo erscheint im oberen Bereich Ihrer Website. Bei Themes, die mit dem Theme-Editor erstellt wurden sowie bei einigen benutzerdefinierten Themes wird diese Einstellung nicht übernommen.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Das Favicon deiner Seite erscheint in der Titelleiste deines Browsers. Es wird entsprechend verkleinert.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Das Touch-Symbol erscheint, wenn Sie eine Website auf dem Homescreen eines mobilen Geräts mit einem Lesezeichen versehen. Diese sind in der Regel 152 Pixel groß.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Wenn jemand einen Link von Ihrer Website teilt, versuchen wir, ein Bild von der Seite zu bekommen. Wenn es kein Bild auf der Seite gibt, verwenden wir stattdessen dieses Bild. Das Bild sollte mindestens 50×50 groß sein, wir empfehlen jedoch 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Einige Browser unterstützen eine bestimmte Farbe für die Adressleiste.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Bei dieser Einstellung wird die Seite vor der Ausführung von Javascript geladen, was Ihre Suchmaschinenoptimierung verbessern kann.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Warnung: Die Aktivierung dieser Funktion kann zu Javascript-Fehlern auf Ihrer Website führen.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Entfernen Sie Diskussions- und Kategorielinks aus den Menüs. Legen Sie fest, dass Seiten, die sich auf Diskussionen und Kategorien beziehen, die Seite 404 nicht gefunden anzeigen.";
+
+
+
 ///
 /// Theming UI
 ///
