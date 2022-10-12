@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Anda mesti memilih fail untuk diimport.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Anda akan menggunakan pilihan susun atur baru. Ini dapat disesuaikan dan dipratonton menggunakan Editor Tema kami. <0> Ketahui lebih lanjut</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Tajuk halaman utama dipaparkan pada halaman utama anda. Pilih tajuk yang anda ingin lihat muncul dalam enjin carian.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Penerangan tapak biasanya muncul dalam enjin carian. Anda harus cuba mempunyai perihalan sepanjang 100-150 aksara.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Tajuk ini muncul pada sepanduk tapak anda dan dalam bar tajuk penyemak imbas anda. Ia hendaklah kurang daripada 20 aksara. Jika logo dimuat naik, ia akan menggantikan tajuk ini pada halaman forum yang dihadapi pengguna. Selain itu, perlu diingat beberapa tema mungkin menyembunyikan tajuk ini.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Nama organisasi anda digunakan untuk microdata SEO dan JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Logo ini muncul di bahagian atas tapak anda. Tema yang dibuat dengan editor tema dan beberapa tema tersuai tidak menggunakan tetapan ini.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Logo mudah alih muncul di bahagian atas tapak anda. Tema yang dibuat dengan editor tema dan beberapa tema tersuai tidak menggunakan tetapan ini.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Favicon tapak anda muncul dalam bar tajuk penyemak imbas anda. Ia akan dikecilkan dengan sewajarnya.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Ikon sentuh muncul apabila anda menanda halaman tapak web pada skrin utama peranti mudah alih. Ini biasanya 152 piksel.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Apabila seseorang berkongsi pautan dari tapak anda, kami cuba mengambil imej daripada halaman tersebut. Jika tiada imej pada halaman maka kami akan menggunakan imej ini sebaliknya. Imej hendaklah sekurang-kurangnya 50×50, tetapi kami mengesyorkan 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Sesetengah penyemak imbas menyokong warna untuk bar alamat.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Tetapan ini memuatkan halaman sebelum melaksanakan Javascript yang boleh meningkatkan SEO anda.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Amaran: Mendayakan ciri ini boleh menyebabkan ralat Javascript pada tapak anda.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Alih keluar pautan perbincangan dan kategori daripada menu. Tetapkan halaman berkaitan perbincangan dan kategori untuk mengembalikan halaman tidak ditemui 404.";
+
+
+
 ///
 /// Theming UI
 ///
