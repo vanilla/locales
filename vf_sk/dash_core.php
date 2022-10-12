@@ -920,6 +920,10 @@ $Definition['Your invitations were sent successfully.'] = 'Vaše pozvánky boli 
 $Definition['Your Password'] = 'Tvoje heslo';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Opúšťate editor tém bez uloženia zmien. Pred ukončením skontrolujte, či sú Vaše aktualizácie uložené.';
 
+$Definition["Mobile Logo"] = "Logo mobilu";
+$Definition["Banner Image"] = "Obrázok bannera";
+$Definition["Disable Forum Pages"] = "Zakázať stránky fóra";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Vyberte predvolený formát editora pre príspevky v komunite.';
 $Definition['InputFormatter.Notes2'] = 'Pri úprave starých príspevkov editor automaticky zistí ich formát a načíta pôvodné pravidlá formátovania. Okrem tejto výnimky bude prioritne vybraný dole uvedený formát príspevku.';
@@ -948,3 +952,11 @@ $Definition['Display on category page only.'] = 'Zobraziť iba na stránke kateg
 $Definition['Use Masonry display'] = 'Použiť vystavenie muriva';
 $Definition['Show an uploaded image on the Category page.'] = 'Každá diskusia zobrazí na stránke Kategória nahraný obrázok. Platí to iba pre kategórie s „Diskusiami“ ako „Zobraziť ako“.';
 $Definition['Upload Placeholder Image'] = 'Nahrať obrázok zástupného symbolu';
+
+
+
+
+
+
+
+
