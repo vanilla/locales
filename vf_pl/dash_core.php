@@ -918,6 +918,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = 'Hasło';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Wychodzisz z edytora bez zapisania zmian. Przed wyjściem upewnij się, że zmiany zostały zapisane.';
 
+$Definition["Mobile Logo"] = "Mobilne logo";
+$Definition["Banner Image"] = "Obraz banera";
+$Definition["Disable Forum Pages"] = "Wyłącz strony forum";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Wybierz domyślny format edytora dla postów w społeczności.';
 $Definition['InputFormatter.Notes2'] = 'Edytor automatycznie wykryje format starych postów podczas ich edytowania i wczyta ich pierwotne reguły formatowania. Poza tym wyjątkiem wybrany poniżej format posta będzie miał pierwszeństwo.';
@@ -946,3 +950,11 @@ $Definition['Display on category page only.'] = 'Wyświetl tylko na stronie kate
 $Definition['Use Masonry display'] = 'Użyj wyświetlacza Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Przy każdej dyskusji zostanie pokazany obraz wczytany na stronie kategorii. Ma to zastosowanie wyłącznie do kategorii z wartością „Wyświetl jako” opcji „Dyskusje”.';
 $Definition['Upload Placeholder Image'] = 'Wczytaj obraz zastępczy';
+
+
+
+
+
+
+
+
