@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s đã duyệt �
 $Definition['%3$s created an account for %1$s.'] = '%3$s đã tạo tài khoản cho %1$s.';
 $Definition['%s (Current)'] = '%s (Hiện tại)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Tạo tài khoản diễn đàn';
 $Definition['%s Agrees'] = '%s Đồng ý';
 $Definition['%s and %s others'] = 'những %s và %s khác';
 $Definition['%s and you'] = '%s và bạn';
@@ -896,6 +897,7 @@ $Definition['Join this Community Now'] = 'Tham Gia vào Cộng Đồng này Ngay
 $Definition['Join this Group'] = 'Tham gia vào Nhóm này';
 $Definition['Join this group to view its content.'] = 'Tham gia nhóm này để xem nội dung của nó.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Bỏ qua danh sách emoji, chuyển đến danh mục emoji.';
+$Definition['Jump to a specific page'] = 'Chuyển đến một trang cụ thể';
 $Definition['Jump to first tracked post.'] = 'Đến bài viết được theo dõi đầu tiên.';
 $Definition['Jumped to emoji category: '] = 'Đã chuyển đến danh mục emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Xóa thông tin thành viên nhưng giữ lại bài viết.';
@@ -2048,6 +2050,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Bạn s
 $Definition["yyyy-mm-dd"] = "năm-tháng-ngày";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Nóng";
+$Definition["Most Helpful"] = "Hữu ích nhất";
+$Definition["Recently Active"] = "Mới hoạt động";
+$Definition["Oldest Members"] = "Thành viên lớn tuổi nhất";
+$Definition["Newest Members"] = "Thành viên mới nhất";
 
 // Rich Editor
 
