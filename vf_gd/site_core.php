@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = 'Dh\'aontaich %3$s r
 $Definition['%3$s created an account for %1$s.'] = 'Chruthaich %3$s cunntas airson %1$s.';
 $Definition['%s (Current)'] = '%s (làithreach)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Cruthachadh cunntas fòram';
 $Definition['%s Agrees'] = 'Tha %s ag aontachadh';
 $Definition['%s and %s others'] = '%s agus %s feadhainn eile';
 $Definition['%s and you'] = '%s \'s thu fhèin';
@@ -226,7 +227,7 @@ $Definition['All Time Leaders'] = 'All Time Leaders';
 $Definition['Already Offered'] = 'Air a thabhann mar-thà';
 $Definition['Already Warned'] = 'Rabhadh mu thràth';
 $Definition['Also banned for the following:'] = 'Cuideachd toirmisgte airson na leanas:';
-$Definition["Also delete this user's content."] = "Cuideachd cuir às do shusbaint an neach-cleachdaidh seo.";
+$Definition["Also delete this user's content."] = "Sguab às cuideachd susbaint a' chleachdaiche seo.";
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'A message has been sent to your email address with password reset instructions.';
 $Definition['Analytics'] = 'Analytics';
 $Definition['Ancient Membership'] = 'Seann bhallrachd';
@@ -896,6 +897,7 @@ $Definition['Join this Community Now'] = 'Thig còmhla ris a ’Choimhearsnachd 
 $Definition['Join this Group'] = 'Join this Group';
 $Definition['Join this group to view its content.'] = 'Join this group to view its content.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Leum seachad air liosta emoji, gu roinnean emoji.';
+$Definition['Jump to a specific page'] = 'Leum gu duilleag sònraichte';
 $Definition['Jump to first tracked post.'] = 'Leum chun chiad phost a chaidh a leantainn.';
 $Definition['Jumped to emoji category: '] = 'Leum gu roinn emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Just delete the user record, and keep all of the user\'s content.';
@@ -2059,6 +2061,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Gheibh 
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Teth";
+$Definition["Most Helpful"] = "As cuideachail";
+$Definition["Recently Active"] = "Gnìomhach o chionn ghoirid";
+$Definition["Oldest Members"] = "Buill as sine";
+$Definition["Newest Members"] = "Buill as ùire";
 
 // Rich Editor
 
