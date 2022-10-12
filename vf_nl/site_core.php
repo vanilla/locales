@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s heeft %2$s lid
 $Definition['%3$s created an account for %1$s.'] = '%3$s heeft een account gemaakt voor %1$s.';
 $Definition['%s (Current)'] = '%s (Huidige)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Forumaccount aanmaken';
 $Definition['%s Agrees'] = '%s Mee eens';
 $Definition['%s and %s others'] = '%s en %s anderen';
 $Definition['%s and you'] = '%s en jij';
@@ -900,6 +901,7 @@ $Definition['Join this Community Now'] = 'Word nu lid van deze gemeenschap ';
 $Definition['Join this Group'] = 'Word lid van deze groep';
 $Definition['Join this group to view its content.'] = 'Word lid van deze groep om de inhoud te bekijken.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Sla de emoticonlijst over om naar emoticoncategorieën te gaan.';
+$Definition['Jump to a specific page'] = 'Naar een specifieke pagina springen';
 $Definition['Jump to first tracked post.'] = 'Ga naar het eerste bijgehouden bericht.';
 $Definition['Jumped to emoji category: '] = 'Gesprongen naar emoticoncategorie:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Verwijder alleen de gebruiker, maar bewaar alle inhoud van de gebruiker.';
@@ -2055,6 +2057,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Je krij
 $Definition["yyyy-mm-dd"] = "jjjj-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Heet";
+$Definition["Most Helpful"] = "Meest behulpzaam";
+$Definition["Recently Active"] = "Recent actief";
+$Definition["Oldest Members"] = "oudste leden";
+$Definition["Newest Members"] = "Nieuwste leden";
 
 // Rich Editor
 
