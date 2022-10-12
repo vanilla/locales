@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'คุณต้องเลือกไฟล์ที่จะนำเข้า';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'คุณกำลังจะใช้ตัวเลือกเค้าโครงใหม่ ซึ่งสามารถปรับแต่งและดูตัวอย่างได้โดยใช้ตัวแก้ไขธีมของเรา <0>เรียนรู้เพิ่มเติม</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "ชื่อโฮมเพจจะแสดงบนโฮมเพจของคุณ เลือกชื่อที่คุณต้องการให้ปรากฏในเครื่องมือค้นหา";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "คำอธิบายเว็บไซต์มักจะปรากฏในเครื่องมือค้นหา คุณควรลองใช้คำอธิบายที่มีความยาว 100-150 อักขระ";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "ชื่อนี้ปรากฏบนแบนเนอร์ของเว็บไซต์ของคุณและในแถบชื่อเรื่องของเบราว์เซอร์ ควรมีความยาวน้อยกว่า 20 อักขระ หากอัปโหลดโลโก้ โลโก้จะแทนที่ชื่อนี้ในหน้าฟอรัมที่ผู้ใช้เห็น นอกจากนี้ โปรดทราบว่าบางธีมอาจซ่อนชื่อนี้ไว้";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "ชื่อองค์กรของคุณใช้สำหรับ SEO microdata และ JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "โลโก้นี้ปรากฏที่ด้านบนของไซต์ของคุณ ธีมที่สร้างด้วยตัวแก้ไขธีมและธีมที่กำหนดเองบางรายการจะไม่ใช้การตั้งค่านี้";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "โลโก้มือถือจะปรากฏที่ด้านบนของไซต์ของคุณ ธีมที่สร้างด้วยตัวแก้ไขธีมและธีมที่กำหนดเองบางรายการจะไม่ใช้การตั้งค่านี้";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "favicon ของเว็บไซต์ของคุณปรากฏในแถบชื่อเรื่องของเบราว์เซอร์ จะถูกลดขนาดลงอย่างเหมาะสม";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "ไอคอนสัมผัสจะปรากฏขึ้นเมื่อคุณบุ๊กมาร์กเว็บไซต์บนหน้าจอหลักของอุปกรณ์มือถือ โดยปกติแล้วจะเป็น 152 พิกเซล";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "เมื่อมีคนแบ่งปันลิงก์จากเว็บไซต์ของคุณเราจะลองและจับภาพจากเพจ หากไม่มีภาพในหน้าเราจะใช้ภาพนี้แทน รูปภาพควรมีอย่างน้อย 50 × 50 แต่เราแนะนำ 200 × 200";
+$Definition["Some browsers support a color for the address bar."] = "เบราว์เซอร์บางตัวรองรับสีสำหรับแถบที่อยู่";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "การตั้งค่านี้จะโหลดหน้าก่อนที่จะรัน Javascript ซึ่งสามารถปรับปรุง SEO ของคุณได้";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**คำเตือน: การเปิดใช้งานคุณลักษณะนี้อาจทำให้เกิดข้อผิดพลาด Javascript บนไซต์ของคุณ**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "ลบลิงก์การสนทนาและหมวดหมู่ออกจากเมนู ตั้งค่าการสนทนาและหน้าที่เกี่ยวข้องกับหมวดหมู่เพื่อกลับไม่พบหน้า 404";
+
+
+
 ///
 /// Theming UI
 ///
