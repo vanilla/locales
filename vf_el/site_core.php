@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = 'Ο χρήστης %
 $Definition['%3$s created an account for %1$s.'] = 'Ο χρήστης %3$s δημιούργησε ένα λογαριασμό για τον χρήστη %1$s.';
 $Definition['%s (Current)'] = '%s (Τρέχων)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Δημιουργία λογαριασμού φόρουμ';
 $Definition['%s Agrees'] = 'Ο χρήστης %s συμφωνεί';
 $Definition['%s and %s others'] = '%s και %s άλλους';
 $Definition['%s and you'] = 'Ο χρήστης %s και εσείς';
@@ -903,6 +904,7 @@ $Definition['Join this Community Now'] = 'Συμμετοχή σε αυτή τη�
 $Definition['Join this Group'] = 'Γίνετε μέλος αυτής της Ομάδας';
 $Definition['Join this group to view its content.'] = 'Ενταχθείτε σε αυτή την ομάδα για να δείτε το περιεχόμενό της.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Προσπεράστε τη λίστα των emoji , στις κατηγορίες των emoji .';
+$Definition['Jump to a specific page'] = 'Μετάβαση σε μια συγκεκριμένη σελίδα';
 $Definition['Jump to first tracked post.'] = 'Μεταβείτε στην πρώτη ανάρτηση που ανιχνεύθηκε.';
 $Definition['Jumped to emoji category: '] = 'Μεταπήδησε στη κατηγορία των emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Απλά να διαγραφεί η εγγραφή του χρήστη και να διατηρηθούν όλα τα περιεχόμενά του.';
@@ -2073,6 +2075,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Θα λ
 $Definition["yyyy-mm-dd"] = "χχχχ-μμ-ηη";
 
 $Definition["Zip"] = "Ταχ. Κωδικας";
+
+$Definition["Hot"] = "Ζεστό";
+$Definition["Most Helpful"] = "Πιο χρήσιμο";
+$Definition["Recently Active"] = "Πρόσφατα ενεργός";
+$Definition["Oldest Members"] = "Παλαιότερα Μέλη";
+$Definition["Newest Members"] = "Τα νεότερα μέλη";
 
 // Rich Editor
 
