@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s批准%2$s的�
 $Definition['%3$s created an account for %1$s.'] = '%3$s为%1$s创建了一个帐户。';
 $Definition['%s (Current)'] = '%s（当前）';
 $Definition['%s: %s'] = '%s：%s';
+$Definition['[%s] Forum Account Creation'] = '[%s] 论坛帐户创建';
 $Definition['%s Agrees'] = '%s个赞同';
 $Definition['%s and %s others'] = '%s和%s其他人';
 $Definition['%s and you'] = '%s和您';
@@ -900,6 +901,7 @@ $Definition['Join this Community Now'] = '现在加入这个社区吧';
 $Definition['Join this Group'] = '加入该群';
 $Definition['Join this group to view its content.'] = '加入该群以浏览其内容。';
 $Definition['Jump past emoji list, to emoji categories.'] = '从表情符清单跳转到表情符类别。';
+$Definition['Jump to a specific page'] = '跳转到特定页面';
 $Definition['Jump to first tracked post.'] = '跳转至第一个跟踪的帖子。';
 $Definition['Jumped to emoji category: '] = '跳转到表情符类别：';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = '删除用户记录，并保留用户内容。';
@@ -2066,6 +2068,12 @@ $Definition['You will receive a notification when you are accepted.'] = '当您�
 $Definition["yyyy-mm-dd"] = "年-月-日";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "热的";
+$Definition["Most Helpful"] = "最有帮助";
+$Definition["Recently Active"] = "最近活跃";
+$Definition["Oldest Members"] = "最年长的成员";
+$Definition["Newest Members"] = "最新成员";
 
 // Rich Editor
 
