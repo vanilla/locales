@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s menyetujui apl
 $Definition['%3$s created an account for %1$s.'] = '%3$s telah membuat sebuah akun %1$s.';
 $Definition['%s (Current)'] = '%s (Sekarang)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Pembuatan Akun Forum';
 $Definition['%s Agrees'] = '%s Setuju';
 $Definition['%s and %s others'] = '%s dan %s lainnya';
 $Definition['%s and you'] = '%s dan anda';
@@ -896,6 +897,7 @@ $Definition['Join this Community Now'] = 'Bergabunglah dengan Komunitas ini Seka
 $Definition['Join this Group'] = 'Bergabung dengan Grup ini';
 $Definition['Join this group to view its content.'] = 'Bergabunglah dengan grup ini untuk melihat kontennya.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Lewati daftar emoji, ke kategori emoji.';
+$Definition['Jump to a specific page'] = 'Lompat ke halaman tertentu';
 $Definition['Jump to first tracked post.'] = 'Lompat ke kiriman terlacak pertama';
 $Definition['Jumped to emoji category: '] = 'Lompat ke kategori emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Hanya menghapus data pengguna saja dan tetap menyimpan semua konten dari pengguna tersebut.';
@@ -2060,6 +2062,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Anda ak
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Panas";
+$Definition["Most Helpful"] = "Paling Bermanfaat";
+$Definition["Recently Active"] = "Baru-baru ini Aktif";
+$Definition["Oldest Members"] = "Anggota Tertua";
+$Definition["Newest Members"] = "Anggota Terbaru";
 
 // Rich Editor
 
