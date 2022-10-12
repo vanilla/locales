@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = 'Cymeradwyodd %3$s g
 $Definition['%3$s created an account for %1$s.'] = 'Creodd %3$s gyfrif ar gyfer %1$s.';
 $Definition['%s (Current)'] = '%s (cyfredol)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Creu Cyfrif Fforwm';
 $Definition['%s Agrees'] = 'Mae %s yn cytuno';
 $Definition['%s and %s others'] = '%s a %s arall';
 $Definition['%s and you'] = '%s a chi';
@@ -873,6 +874,7 @@ $Definition['Join this Community Now'] = 'Ymuno â\'r gymuned yma nawr';
 $Definition['Join this Group'] = 'Ymuno â\'r grŵp yma';
 $Definition['Join this group to view its content.'] = 'Ymuno â\'r grŵp yma i weld ei gynnwys.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Neidio heibio rhestr emoji, i gategorïau emoji.';
+$Definition['Jump to a specific page'] = 'Neidiwch i dudalen benodol';
 $Definition['Jump to first tracked post.'] = 'Neidio i\'r postyn cyntaf wedi\'i olrhain.';
 $Definition['Jumped to emoji category: '] = 'Neidio i gategori emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Dim ond dileu\'r cofnod y defnyddiwr, a chadw\'r holl gynnwys y defnyddiwr.';
@@ -2025,6 +2027,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Byddwch
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Poeth";
+$Definition["Most Helpful"] = "Mwyaf Cymwynasgar";
+$Definition["Recently Active"] = "Gweithgar yn ddiweddar";
+$Definition["Oldest Members"] = "Aelodau Hynaf";
+$Definition["Newest Members"] = "Aelodau Newydd";
 
 // Rich Editor
 
