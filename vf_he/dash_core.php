@@ -914,6 +914,10 @@ $Definition['Your invitations were sent successfully.'] = 'ההזמנות נשל
 $Definition['Your Password'] = 'סיסמה שלך';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'הנך עוזב/ת את עורך ערכת הנושא מבלי לשמור את השינויים שלך. יש לוודא שהעדכונים שלך נשמרו לפני היציאה.';
 
+$Definition["Mobile Logo"] = "לוגו נייד";
+$Definition["Banner Image"] = "תמונת כרזה";
+$Definition["Disable Forum Pages"] = "השבת את דפי הפורום";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'בחירת פורמט ברירת מחדל עבור עריכה של הודעות בפורומים.';
 $Definition['InputFormatter.Notes2'] = 'העורך יזהה אוטומטית את ההודעות הישנות בעריכה שלהם ויטען אותן בפורמט מקורי לפי כללים. היוצא דופן, על ידי בחירת פורמט להצגה של ההודעה.';
@@ -942,3 +946,11 @@ $Definition['Display on category page only.'] = 'הצג בדף הקטגוריה 
 $Definition['Use Masonry display'] = 'השתמש בתצוגת מלבנים';
 $Definition['Show an uploaded image on the Category page.'] = 'כל דיון יציג תמונה שהועלתה בדף הקטגוריה. זה חל רק על קטגוריות עם "דיונים" כמו "הצג כ". ';
 $Definition['Upload Placeholder Image'] = 'העלה תמונת שומר מקום';
+
+
+
+
+
+
+
+
