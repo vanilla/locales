@@ -275,6 +275,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Je moet een bestand kiezen om te importeren.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'U staat op het punt een nieuwe lay-outoptie toe te passen. Dit kan worden aangepast en bekeken met behulp van onze thema-editor. <0>Meer informatie</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "De titel van de hoofdpagina wordt weergegeven op je hoofdpagina. Kies een titel die je door de zoekmachines wilt laten weergeven.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "De sitebeschrijving verschijnt meestal in zoekmachines. Probeer een beschrijving te hebben die 100-150 tekens lang is.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Deze titel verschijnt op de banner van uw site en in de titelbalk van uw browser. Het moet minder dan 20 tekens bevatten. Als een logo wordt geüpload, vervangt het deze titel op gebruikersgerichte forumpagina's. Houd er ook rekening mee dat sommige thema's deze titel kunnen verbergen.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Je organisatienaam wordt gebruikt voor SEO-microdata en JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Dit logo verschijnt bovenaan uw site. Thema's die zijn gemaakt met de thema-editor en sommige aangepaste thema's gebruiken deze instelling niet.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Het mobiele logo verschijnt boven aan uw site. Thema's die zijn gemaakt met de thema-editor en sommige aangepaste thema's gebruiken deze instelling niet.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Het favicon van uw site verschijnt in de titelbalk van uw browser. Het wordt adequaat verkleind.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Het aanraakpictogram verschijnt wanneer u een bladwijzer maakt voor een website op het startscherm van een mobiel apparaat. Dit zijn meestal 152 pixels.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Wanneer iemand een link van je site deelt, proberen we een afbeelding van de pagina te halen. Als er geen afbeelding op de pagina staat, gebruiken we deze afbeelding. De afbeelding moet minimaal 50 × 50 zijn, maar we raden 200 × 200 aan.";
+$Definition["Some browsers support a color for the address bar."] = "Sommige browsers ondersteunen een kleur voor de adresbalk.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Deze instelling laadt de pagina voordat Javascript wordt uitgevoerd, wat uw SEO kan verbeteren.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Waarschuwing: het inschakelen van deze functie kan Javascript-fouten veroorzaken op uw site.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Verwijder discussie- en categoriekoppelingen uit menu's. Stel discussie- en categoriegerelateerde pagina's in om niet gevonden pagina 404 te retourneren.";
+
+
+
 ///
 /// Theming UI
 ///
