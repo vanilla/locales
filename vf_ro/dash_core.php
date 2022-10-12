@@ -916,6 +916,10 @@ $Definition['Your invitations were sent successfully.'] = 'Invitaţiile dumneavo
 $Definition['Your Password'] = 'Parola ta';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Ieși din editorul temei fără salvarea modificărilor. Asigură-te că actualizările sunt salvate înainte de ieșire.';
 
+$Definition["Mobile Logo"] = "Logo mobil";
+$Definition["Banner Image"] = "Imagine banner";
+$Definition["Disable Forum Pages"] = "Dezactivați paginile de forum";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Selectați formatul implicit al editorului pentru postările de pe comunitate.';
 $Definition['InputFormatter.Notes2'] = 'Editorul va detecta automat formatul postărilor vechi atunci când le editați și va încărca regulile de formatare originale. Pe lângă această excepție, formatul de postare selectat mai jos va primi întâietate.';
@@ -944,3 +948,11 @@ $Definition['Display on category page only.'] = 'Afișează doar pe pagina categ
 $Definition['Use Masonry display'] = 'Folosește afișajul Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Fiecare discuție va afișa o imagine încărcată pe pagina categoriei. Aceasta se aplică doar categoriilor cu "Discuții" precum "Afișează ca".';
 $Definition['Upload Placeholder Image'] = 'Încarcă imaginea substitut';
+
+
+
+
+
+
+
+
