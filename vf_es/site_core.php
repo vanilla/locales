@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s aprobó la sol
 $Definition['%3$s created an account for %1$s.'] = '%3$s creó una cuenta para %1$s.';
 $Definition['%s (Current)'] = '%s (Actual)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Creación de una cuenta en el foro';
 $Definition['%s Agrees'] = '%s Acepta';
 $Definition['%s and %s others'] = '%s y %s otros';
 $Definition['%s and you'] = '%s y tú';
@@ -900,6 +901,7 @@ $Definition['Join this Community Now'] = 'Únete a esta Comunidad Ahora';
 $Definition['Join this Group'] = 'Únete a este Grupo';
 $Definition['Join this group to view its content.'] = 'Únete a este grupo para ver su contenido.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Pasar de la lista de emojis a las categorías de emojis.';
+$Definition['Jump to a specific page'] = 'Saltar a una página específica';
 $Definition['Jump to first tracked post.'] = 'Ir a la primera publicación rastreada';
 $Definition['Jumped to emoji category: '] = 'Saltar a la categoría de emojis:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Solo eliminar al usuario pero mantener el contenido del usuario';
@@ -2052,6 +2054,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Recibir
 $Definition["yyyy-mm-dd"] = "aaaa/mm/dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Popular";
+$Definition["Most Helpful"] = "Más útil";
+$Definition["Recently Active"] = "Recientemente activo";
+$Definition["Oldest Members"] = "Miembros más antiguos";
+$Definition["Newest Members"] = "Miembros más nuevos";
 
 // Rich Editor
 
