@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = 'Vaše heslo';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Editor témat opouštíte bez uložení změn. Před odchodem se ujistěte, že jsou vaše aktualizace uloženy.';
 
+$Definition["Mobile Logo"] = "Mobilní Logo";
+$Definition["Banner Image"] = "Obrázek banneru";
+$Definition["Disable Forum Pages"] = "Zakázat stránky fóra";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Vyberte výchozí formát editoru pro příspěvky v komunitě.';
 $Definition['InputFormatter.Notes2'] = 'Editor automaticky upraví formát starých příspěvků a načte jejich původní pravidla pro formátování. Kromě této výjimky dostane přednost vybraný formát příspěvku níže.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Zobrazit pouze na stránce kate
 $Definition['Use Masonry display'] = 'Použít Cihlové zobrazení';
 $Definition['Show an uploaded image on the Category page.'] = 'Každá diskuze se ukáže jako obrázek nahraný na stránce Kategorie. Toto platí jen pro kategorie s "Diskuze" a "Zobrazit jako". ';
 $Definition['Upload Placeholder Image'] = 'Nahrát zástupný obrázek';
+
+
+
+
+
+
+
+
