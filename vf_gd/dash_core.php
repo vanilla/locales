@@ -913,6 +913,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = 'Am facal-faire agad';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Tha thu a ’fàgail deasaiche a’ chuspair gun na h-atharrachaidhean agad a shàbhaladh. Dèan cinnteach gu bheil na h-ùrachaidhean agad air an sàbhaladh mus cuir thu a-mach iad.';
 
+$Definition["Mobile Logo"] = "Suaicheantas gluasadach";
+$Definition["Banner Image"] = "Dealbh Bratach";
+$Definition["Disable Forum Pages"] = "Cuir à comas Duilleagan Fòram";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Tagh cruth bunaiteach an neach-deasachaidh airson dreuchdan sa choimhearsnachd.';
 $Definition['InputFormatter.Notes2'] = 'Bidh an deasaiche gu fèin-obrachail a ’lorg cruth seann phuist nuair a bhios iad gan deasachadh agus a’ luchdachadh na riaghailtean cruth tùsail aca. A bharrachd air an eisgeachd seo, bidh an cruth puist taghte gu h-ìosal a ’faighinn prìomhachas.';
@@ -941,3 +945,11 @@ $Definition['Display on category page only.'] = 'Taisbeanadh air duilleag roinn-
 $Definition['Use Masonry display'] = 'Cleachd taisbeanadh clachaireachd';
 $Definition['Show an uploaded image on the Category page.'] = 'Seallaidh gach deasbad ìomhaigh a chaidh a luchdachadh suas air duilleag an roinn-seòrsa. Chan eil seo a ’buntainn ach ri roinnean le" Còmhraidhean "mar an" Taisbeanadh As. "';
 $Definition['Upload Placeholder Image'] = 'Luchdaich suas ìomhaigh placeholder';
+
+
+
+
+
+
+
+
