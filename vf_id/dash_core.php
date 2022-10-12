@@ -918,6 +918,10 @@ $Definition['Your invitations were sent successfully.'] = 'Undangan Anda berhasi
 $Definition['Your Password'] = 'Sandi Anda';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Anda meninggalkan editor tema tanpa menyimpan perubahan. Pastikan pembaruan Anda sudah disimpan sebelum keluar.';
 
+$Definition["Mobile Logo"] = "Logo Seluler";
+$Definition["Banner Image"] = "Gambar Spanduk";
+$Definition["Disable Forum Pages"] = "Nonaktifkan Halaman Forum";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Pilih format bawaan penyunting untuk pos di komunitas.';
 $Definition['InputFormatter.Notes2'] = 'Penyunting akan otomatis mendeteksi format dari pos lawas saat menyuntingnya lalu memuat aturan pemformatan yang asli. Selain pengecualian ini, format pos terpilih di bawah ini akan didahulukan.';
@@ -946,3 +950,11 @@ $Definition['Display on category page only.'] = 'Tampilkan pada laman kategori s
 $Definition['Use Masonry display'] = 'Gunakan tampilan Perkumpulan Rahasia';
 $Definition['Show an uploaded image on the Category page.'] = 'Setiap diskusi akan menampilkan gambar terunggah pada laman Kategori. Ini hanya diterapkan pada kategori dengan "Diskusi" sebagai "Ditampilkan Sebagai".';
 $Definition['Upload Placeholder Image'] = 'Unggah Gambar Placeholder';
+
+
+
+
+
+
+
+
