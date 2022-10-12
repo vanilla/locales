@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s ने %2$s �
 $Definition['%3$s created an account for %1$s.'] = '%3$s ने %1$s के लिए अकाउंट बनाया है।';
 $Definition['%s (Current)'] = '%s (वर्तमान)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] फोरम खाता निर्माण';
 $Definition['%s Agrees'] = '%s सहमत है';
 $Definition['%s and %s others'] = '%s और %s अन्य';
 $Definition['%s and you'] = '%s और आप';
@@ -899,6 +900,7 @@ $Definition['Join this Community Now'] = 'अब इस समुदाय स�
 $Definition['Join this Group'] = 'समूह में शामिल हों';
 $Definition['Join this group to view its content.'] = 'इसकी सामग्री देखने के लिए इस समूह में शामिल हों।';
 $Definition['Jump past emoji list, to emoji categories.'] = 'पिछले इमोजी सूची से इमोजी श्रेणियों पर जाएँ।';
+$Definition['Jump to a specific page'] = 'किसी विशिष्ट पृष्ठ पर जाएं';
 $Definition['Jump to first tracked post.'] = 'ट्रैक किए गए पहले पोस्ट पर जाएँ।';
 $Definition['Jumped to emoji category: '] = 'इमोजी श्रेणी में गए:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'उपयोगकर्ता के रिकॉर्ड को हटा दें, और उपयोगकर्ता की सभी सामग्री को रखें।';
@@ -2071,6 +2073,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'जब 
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "ज़िप";
+
+$Definition["Hot"] = "गरम";
+$Definition["Most Helpful"] = "सबसे उपयोगी";
+$Definition["Recently Active"] = "हाल ही में सक्रिय";
+$Definition["Oldest Members"] = "सबसे पुराने सदस्य";
+$Definition["Newest Members"] = "नवीनतम सदस्य";
 
 // Rich Editor
 
