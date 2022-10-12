@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Вы должны выбрать файл для импорта.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Вы собираетесь применить новый вариант макета. Это можно настроить и предварительно просмотреть с помощью нашего редактора тем. <0> Узнать больше</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Заголовок домашней страницы будет отображаться на домашней странице и в поисковых системах.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Описание сайта обычно появляется в поисковых системах. Вы должны попробовать иметь описание длиной 100-150 символов.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Этот заголовок отображается на баннере вашего сайта и в строке заголовка браузера. Должно быть меньше 20 символов. Если загружен логотип, он заменит этот заголовок на страницах форума, обращенных к пользователям. Кроме того, имейте в виду, что некоторые темы могут скрывать этот заголовок.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Название вашей организации используется для микроданных SEO и JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Этот логотип появляется в верхней части вашего сайта. Темы, созданные с помощью редактора тем, и некоторые пользовательские темы не используют этот параметр.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Мобильный логотип отображается в верхней части вашего сайта. Темы, созданные с помощью редактора тем, и некоторые пользовательские темы не используют этот параметр.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Значок favicon вашего сайта отображается на панели статуса вашего браузера. Он будет масштабирован соответственно. ";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Сенсорный значок появляется, когда вы добавляете веб-сайт в закладки на главном экране мобильного устройства. Обычно это 152 пикселя.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Когда кто-то делится ссылкой с вашего сайта, мы пытаемся получить изображение со страницы. Если на странице нет изображения, мы будем использовать это изображение. Размер изображения должен быть не менее 50×50, но мы рекомендуем 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Некоторые браузеры поддерживают цвет для адресной строки.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Этот параметр загружает страницу перед выполнением Javascript, что может улучшить вашу поисковую оптимизацию.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Внимание! Включение этой функции может привести к ошибкам Javascript на вашем сайте.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Удалите ссылки на обсуждения и категории из меню. Настройте страницы, связанные с обсуждениями и категориями, чтобы возвращать не найденную страницу 404.";
+
+
+
 ///
 /// Theming UI
 ///
