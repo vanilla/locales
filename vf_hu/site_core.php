@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s tagságát %2$
 $Definition['%3$s created an account for %1$s.'] = '%3$s létrehozott egy fiókot %1$s számára.';
 $Definition['%s (Current)'] = '%s (Jelenleg)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Fórumfiók létrehozása';
 $Definition['%s Agrees'] = '%s Egyetért';
 $Definition['%s and %s others'] = '%s és %s egyéb';
 $Definition['%s and you'] = '%s és te';
@@ -898,6 +899,7 @@ $Definition['Join this Community Now'] = 'Csatlakozz Ehhez a Közösséghez Most
 $Definition['Join this Group'] = 'Csatlakozz a csoporthoz';
 $Definition['Join this group to view its content.'] = 'Csatlakozz a csoporthoz, hogy lásd a tartalmát.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Ugord át a hangulatjelek listáját, menj a hangulatjel kategóriákhoz.';
+$Definition['Jump to a specific page'] = 'Ugrás egy adott oldalra';
 $Definition['Jump to first tracked post.'] = 'Ugrás az első követett bejegyzéshez.';
 $Definition['Jumped to emoji category: '] = 'Átugrottál a hangulatjel kategóriákhoz:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Csak a felhasználói rekordot töröld, a felhasználói tartalmat tartsd meg.';
@@ -2051,6 +2053,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Értes�
 $Definition["yyyy-mm-dd"] = "éééé-hh-nn";
 
 $Definition["Zip"] = "Tömörítés";
+
+$Definition["Hot"] = "Forró";
+$Definition["Most Helpful"] = "Leghasznosabb";
+$Definition["Recently Active"] = "Nemrég aktív";
+$Definition["Oldest Members"] = "Legrégebbi tagok";
+$Definition["Newest Members"] = "Legújabb tagok";
 
 // Rich Editor
 
