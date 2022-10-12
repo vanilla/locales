@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s godkendte %2$s
 $Definition['%3$s created an account for %1$s.'] = '%3$s oprettede en konto for %1$s.';
 $Definition['%s (Current)'] = '%s (nuværende)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Oprettelse af forumkonto';
 $Definition['%s Agrees'] = '%s er enige';
 $Definition['%s and %s others'] = '%s og %s andre';
 $Definition['%s and you'] = '%s og dig';
@@ -900,6 +901,7 @@ $Definition['Join this Community Now'] = 'Tilmeld dig dette fællesskab nu';
 $Definition['Join this Group'] = 'Tilmeld dig denne gruppe';
 $Definition['Join this group to view its content.'] = 'Deltag i denne gruppe for at se dens indhold.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Hop forbi emoji-liste, til emoji-kategorier.';
+$Definition['Jump to a specific page'] = 'Hop til en bestemt side';
 $Definition['Jump to first tracked post.'] = 'Gå til den først fundne post.';
 $Definition['Jumped to emoji category: '] = 'Hoppede til emoji-kategori:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Slet brugerloggen og behold alt brugerens indhold.';
@@ -2056,6 +2058,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Du modt
 $Definition["yyyy-mm-dd"] = "åååå-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Hed";
+$Definition["Most Helpful"] = "Mest hjælpsomme";
+$Definition["Recently Active"] = "For nylig aktiv";
+$Definition["Oldest Members"] = "Ældste Medlemmer";
+$Definition["Newest Members"] = "Nyeste medlemmer";
 
 // Rich Editor
 
