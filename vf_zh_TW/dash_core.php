@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = '您的邀請已經成
 $Definition['Your Password'] = '您的密碼';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = '您即將在尚未儲存變更前離開主題編輯器。請在離開前確認變更已儲存。';
 
+$Definition["Mobile Logo"] = "手機標誌";
+$Definition["Banner Image"] = "橫幅圖像";
+$Definition["Disable Forum Pages"] = "禁用論壇頁面";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = '為社群的貼文選取編輯器的預設格式。';
 $Definition['InputFormatter.Notes2'] = '編輯器將在編輯舊貼文時自動偵測舊貼文的格式，並載入其原始格式規則。除了此例外，以下選取的貼文格式將具有較高的優先順序。';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = '只顯示在分類頁上。最�
 $Definition['Use Masonry display'] = '使用石砌顯示';
 $Definition['Show an uploaded image on the Category page.'] = '每項討論都會在分類頁面上顯示一張上傳畫面。這只套用在以「顯示為」作為「討論」的分類。';
 $Definition['Upload Placeholder Image'] = '上傳占位符畫面';
+
+
+
+
+
+
+
+
