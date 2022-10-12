@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s i-a aprobat lu
 $Definition['%3$s created an account for %1$s.'] = '%3$s a creat un cont pentru %1$s.';
 $Definition['%s (Current)'] = '%s (Actual)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Crearea contului pe forum';
 $Definition['%s Agrees'] = '%s Este de acord';
 $Definition['%s and %s others'] = '%s şi %s altele';
 $Definition['%s and you'] = '%s si tu';
@@ -888,6 +889,7 @@ $Definition['Join this Community Now'] = 'Alăturați-vă comunității acum';
 $Definition['Join this Group'] = 'Alăturați-vă acestui grup';
 $Definition['Join this group to view its content.'] = 'Alăturați-vă acestui grup pentru a putea vizualiza conţinutul';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Salt peste lista emoji la categoriile emoji.';
+$Definition['Jump to a specific page'] = 'Salt la o anumită pagină';
 $Definition['Jump to first tracked post.'] = 'Salt la prima postare urmărită.';
 $Definition['Jumped to emoji category: '] = 'Salt la categoria emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Stergeți doar utilizatorul, dar păstrați tot conținutul acestuia.';
@@ -2078,6 +2080,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Veți p
 $Definition["yyyy-mm-dd"] = "aaaa-ll-zz";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Fierbinte";
+$Definition["Most Helpful"] = "Cel mai de ajutor";
+$Definition["Recently Active"] = "Activ recent";
+$Definition["Oldest Members"] = "Membrii cei mai vechi";
+$Definition["Newest Members"] = "Cei mai noi membri";
 
 // Rich Editor
 
