@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s одобри %
 $Definition['%3$s created an account for %1$s.'] = '%3$s създаде акаунт за %1$s.';
 $Definition['%s (Current)'] = '%s (Актуално)';
 $Definition['%s: %s'] = ' %s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Създаване на акаунт във форума';
 $Definition['%s Agrees'] = '%s е съгласен(на)';
 $Definition['%s and %s others'] = '%s и %s други';
 $Definition['%s and you'] = '%s и Вие';
@@ -901,6 +902,7 @@ $Definition['Join this Community Now'] = 'Присъединете се към �
 $Definition['Join this Group'] = 'Присъединете се към тази група';
 $Definition['Join this group to view its content.'] = 'Присъединете се към тази група, за да видите нейното съдържание.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Прескочете списъка с емоджи, към категориите с емоджи.';
+$Definition['Jump to a specific page'] = 'Преминете към определена страница';
 $Definition['Jump to first tracked post.'] = 'Прескочи към първата проследена публикация.';
 $Definition['Jumped to emoji category: '] = 'Прескачане към категория емоджи:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Просто изтрийте записа на потребителя и съхранете цялото потребителско съдържание.';
@@ -2066,6 +2068,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Ще п
 $Definition["yyyy-mm-dd"] = "dd.mm.yyyy";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Горещо";
+$Definition["Most Helpful"] = "Най-полезен";
+$Definition["Recently Active"] = "Наскоро активен";
+$Definition["Oldest Members"] = "Най-старите членове";
+$Definition["Newest Members"] = "Най-новите членове";
 
 // Rich Editor
 
