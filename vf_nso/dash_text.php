@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'O swanetše go kgetha faele yeo e romelwago.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'O kgauswi le go diriša kgetho ye mpsha ya peakanyo. Se se ka rulaganywa le go bonwa pele ka go šomiša Mohlakiši wa rena wa Sehlogo. <0>Ithute ka botlalo</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Sehlogo sa letlakala la mathomong se bontšhwa letlakaleng la gago la mathomong. Seo o nyakago go bona se tšwelela karolong ya go nyaka.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Tlhaloso ya sebaka gantši e tšwelela dientšeneng tša go nyaka. O swanetše go leka go ba le tlhalošo yeo e nago le botelele bja ditlhaka tše 100-150.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Thaetlele ye e tšwelela go banner ya sebaka sa gago le ka gare ga bareng ya sehlogo ya sephephediši sa gago. E swanetše go ba ka fase ga ditlhaka tše 20. Ge e le gore leswao le tsentšwe, le tla tšea legato la thaetlele ye matlakaleng a foramo ao a lebanego le modiriši. Le gona, dula o gopola dihlogo tše dingwe di ka uta sehlogo se.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Lebitso la hao la mokgatlo le sebediswa bakeng sa SEO microdata le JSON + LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Letshwao le le tšwelela ka godimo ga sebaka sa gago. Dihlogo tšeo di dirilwego ka morulaganyi wa sehlogo le dihlooho tše dingwe tša tlwaelo ga di šomiše peakanyo ye.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Letshwao la sellathekeng le tšwelela ka godimo ga sebaka sa gago. Dihlogo tšeo di dirilwego ka morulaganyi wa sehlogo le dihlooho tše dingwe tša tlwaelo ga di šomiše peakanyo ye.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Favicon ya sebaka sa gago e tšwelela ka gare ga bareng ya sehlogo ya sephephediši sa gago. E tla fokotšwa ka mo go swanetšego.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Letshwao la go kgoma le tšwelela ge o swaya weposaete skrineng sa gae sa sedirišwa sa sellathekeng. Tše gantši ke dipiksele tše 152.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Ge motho a abelana kgokagano go tšwa saeteng ya gago re leka go tšea seswantšho go tšwa letlakaleng. Ge go se na seswantšho letlakaleng gona re tla šomiša seswantšho se go e na le moo. Setšoantšo se lokela ho ba bonyane 50 × 50, empa re khothalletsa 200 × 200.";
+$Definition["Some browsers support a color for the address bar."] = "Diphensele tše dingwe di thekga mmala wa baara ya diaterese.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Seteišene se se laetša letlakala pele o phethagatša Javascript yeo e ka kaonafatšago SEO ya gago.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Temošo: Go kgontšha tšobotsi ye go ka hlola diphošo tša Javascript mo saeteng ya gago.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Tloša dikgokagano tša poledišano le tša magoro go tšwa go dimenu. Beakanya matlakala ao a amanago le poledišano le legoro go boela morago ga se a hwetšwa letlakala 404.";
+
+
+
 ///
 /// Theming UI
 ///
