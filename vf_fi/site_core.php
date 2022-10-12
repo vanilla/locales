@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s hyväksyi jäs
 $Definition['%3$s created an account for %1$s.'] = '%3$s loi käyttäjätilin jäsenelle %1$s.';
 $Definition['%s (Current)'] = '%s (Nykyinen)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Foorumitilin luominen';
 $Definition['%s Agrees'] = '%s hyväksyntää';
 $Definition['%s and %s others'] = '%s ja %s muita';
 $Definition['%s and you'] = '%s ja sinä';
@@ -903,6 +904,7 @@ $Definition['Join this Community Now'] = 'Liity nyt tähän yhteisöön';
 $Definition['Join this Group'] = 'Liity ryhmään.';
 $Definition['Join this group to view its content.'] = 'Sinun täytyy liittyä tähän ryhmään nähdäksesi sen tuottaman sisällön.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Hyppää emoji-listan ohi emoji-kategorioihin.';
+$Definition['Jump to a specific page'] = 'Siirry tietylle sivulle';
 $Definition['Jump to first tracked post.'] = 'Siirry ensimmäiseksi haettuun viestiin.';
 $Definition['Jumped to emoji category: '] = 'Hyppäsi emoji-kategoriaan:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Poista vain käyttäjätunnus, mutta säilytä kaikki käyttäjän lähettämä sisältö.';
@@ -2068,6 +2070,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Saat il
 $Definition["yyyy-mm-dd"] = "vvvv-kk-pp";
 
 $Definition["Zip"] = "Pakkaa";
+
+$Definition["Hot"] = "Kuuma";
+$Definition["Most Helpful"] = "Hyödyllisin";
+$Definition["Recently Active"] = "Äskettäin aktiivinen";
+$Definition["Oldest Members"] = "Vanhimmat jäsenet";
+$Definition["Newest Members"] = "Uusimmat jäsenet";
 
 // Rich Editor
 
