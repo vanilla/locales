@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'İçe aktarmak için bir dosya seçmek zorundasınız.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Yeni bir düzen seçeneği uygulamak üzeresiniz. Bu, Tema Editörümüz kullanılarak özelleştirilebilir ve önizlenebilir. <0>Daha fazla bilgi</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Ana sayfa başlığı ana sayfanızda gösterilir. Arama motorlarında görünmesini istediğiniz bir başlığı seçin.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Site açıklaması genellikle arama motorlarında görünür. 100-150 karakter uzunluğunda bir açıklama yapmayı denemelisiniz.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Bu başlık, sitenizin başlığında ve tarayıcınızın başlık çubuğunda görünür. 20 karakterden az olmalıdır. Bir logo yüklenirse, kullanıcıya yönelik forum sayfalarında bu başlığın yerini alacaktır. Ayrıca, bazı temaların bu başlığı gizleyebileceğini unutmayın.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Organizasyon ismin SEO microdata ve JSON+LD için kullanılıyor.";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Bu logo sitenizin üst kısmında görünür. Tema düzenleyici ile yapılan temalar ve bazı özel temalar bu ayarı kullanmaz.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Mobil logosu sitenizin üst kısmında görünür. Tema düzenleyici ile yapılan temalar ve bazı özel temalar bu ayarı kullanmaz.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Sitenizin ikonu, tarayıcınızın başlık çubuğunda görünüyor ve uygun bir şekilde küçültülecek.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Bir mobil cihazın ana ekranında bir web sitesini yer imlerine eklediğinizde dokunmatik simgesi görünür. Bunlar genellikle 152 pikseldir.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Birisi sitenizden bir bağlantı paylaştığında sayfadan bir resim almaya çalışırız. Sayfada resim yoksa, bu resmi kullanırız. Görüntü en az 50×50 olmalıdır, ancak 200×200 önerilir.";
+$Definition["Some browsers support a color for the address bar."] = "Bazı tarayıcılar adres çubuğu için bir rengi destekler.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Bu ayar, SEO'nuzu iyileştirebilecek Javascript'i çalıştırmadan önce sayfayı yükler.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Uyarı: Bu özelliğin etkinleştirilmesi sitenizde Javascript hatalarına neden olabilir.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Menülerden tartışma ve kategori bağlantılarını kaldırın. Bulunamayan 404. sayfaya dönmek için tartışma ve kategoriyle ilgili sayfaları ayarlayın.";
+
+
+
 ///
 /// Theming UI
 ///
