@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s 는 %2$s의 �
 $Definition['%3$s created an account for %1$s.'] = '%3$s는 %1$s 를 위해 계정을 만들었습니다.';
 $Definition['%s (Current)'] = '%s (현재) ';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] 포럼 계정 생성';
 $Definition['%s Agrees'] = '%s 는 동의합니다';
 $Definition['%s and %s others'] = '%s명 그리고 %s명의 다른 사람들';
 $Definition['%s and you'] = '%s와 당신';
@@ -894,6 +895,7 @@ $Definition['Join this Community Now'] = '지금 이 커뮤니티 가입하기';
 $Definition['Join this Group'] = '이 그룹에 가입';
 $Definition['Join this group to view its content.'] = '내용을 보시려면 이 그룹에 가입하십시오.';
 $Definition['Jump past emoji list, to emoji categories.'] = '이모티콘 목록을 지나 이모티콘 카테고리로 이동.';
+$Definition['Jump to a specific page'] = '특정 페이지로 이동';
 $Definition['Jump to first tracked post.'] = '첫번째 추적 게시물로 이동.';
 $Definition['Jumped to emoji category: '] = '이모티콘 카테고리로 이동: ';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = '그냥 사용자 기록이 삭제되고, 사용자 컨텐츠 모두가 유지됩니다.';
@@ -2050,6 +2052,12 @@ $Definition['You will receive a notification when you are accepted.'] = '수락�
 $Definition["yyyy-mm-dd"] = "년년년년-월월-일일";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "더운";
+$Definition["Most Helpful"] = "가장 도움이 됨";
+$Definition["Recently Active"] = "최근 활성";
+$Definition["Oldest Members"] = "가장 오래된 회원";
+$Definition["Newest Members"] = "최신 회원";
 
 // Rich Editor
 
