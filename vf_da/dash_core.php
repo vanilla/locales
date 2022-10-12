@@ -921,6 +921,10 @@ $Definition['Your invitations were sent successfully.'] = 'Dine invitationer ble
 $Definition['Your Password'] = 'Dit kodeord';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Du er ved at forlade tema-redigeringsværktøjet uden at gemme dine ændringer. Sørg for at dine opdateringer er gemt, før du afslutter.';
 
+$Definition["Mobile Logo"] = "Mobil logo";
+$Definition["Banner Image"] = "Bannerbillede";
+$Definition["Disable Forum Pages"] = "Deaktiver forumsider";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Vælg editorens standardformat for opslag i gruppen  ';
 $Definition['InputFormatter.Notes2'] = 'Editoren vil auto-detektere formatet på ældre opslag under redigering og hente deres originale formateringsregler. Udover denne undtagelse vil det nedenstående valgte opslagsformat være gældende. ';
@@ -949,3 +953,11 @@ $Definition['Display on category page only.'] = 'Vis kun på kategoriside. Nylig
 $Definition['Use Masonry display'] = 'Brug Masonry-visning';
 $Definition['Show an uploaded image on the Category page.'] = 'Hver diskussion vil vise et uploadet billede på Kategorisiden. Dette gælder kun for kategorier med "Diskussion" som "Vist som".';
 $Definition['Upload Placeholder Image'] = 'Upload pladsholderbillede';
+
+
+
+
+
+
+
+
