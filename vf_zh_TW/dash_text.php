@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = '您必須選擇要匯入的檔案。';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = '您即將應用新的佈局選項。這可以使用我們的主題編輯器進行自定義和預覽。 <0>了解更多</0>.';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "首頁標題已經顯示在首頁上，請選用一個您希望出現在搜尋引擎上的標題。";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "網站描述通常出現在搜索引擎中。您應該嘗試使用 100-150 個字符長的描述。";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "此標題出現在您網站的橫幅和瀏覽器的標題欄中。它應該少於 20 個字符。如果上傳了徽標，它將在面向用戶的論壇頁面上替換此標題。另外，請記住，某些主題可能會隱藏此標題。";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "你組織的名稱被用於 SEO microdata 和 JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "此徽標出現在您網站的頂部。使用主題編輯器製作的主題和一些自定義主題不使用此設置。";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "移動徽標出現在您網站的頂部。使用主題編輯器製作的主題和一些自定義主題不使用此設置。";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "你網站的收藏夾圖示將顯示在瀏覽器的標題欄中。它會縮到適當大小。";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "當您在移動設備的主屏幕上為網站添加書籤時，會出現觸摸圖標。這些通常是 152 像素。";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "當有人分享您網站的鏈接時，我們會嘗試從頁面中抓取圖像。如果頁面上沒有圖像，那麼我們將使用此圖像。圖片至少應為 50×50，但我們建議使用 200×200。";
+$Definition["Some browsers support a color for the address bar."] = "一些瀏覽器支持地址欄的顏色。";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "此設置在執行 Javascript 之前加載頁面，這可以改善您的 SEO。";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**警告：啟用此功能可能會導致您的網站出現 Javascript 錯誤。**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "從菜單中刪除討論和類別鏈接。設置討論和類別相關頁面返回未找到頁面 404。";
+
+
+
 ///
 /// Theming UI
 ///
