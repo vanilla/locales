@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Davetiyeleriniz başa
 $Definition['Your Password'] = 'Şifreniz';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Değişikliklerini kaydetmeden tema editöründen ayrılıyorsun. Çıkmadan önce güncellemelerini kaydettiğinden emin ol.';
 
+$Definition["Mobile Logo"] = "Mobil Logo";
+$Definition["Banner Image"] = "Banner Görseli";
+$Definition["Disable Forum Pages"] = "Forum Sayfalarını Devre Dışı Bırak";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Topluluktaki yayınlar için düzenleyicinin varsayılan biçimini seçin.';
 $Definition['InputFormatter.Notes2'] = 'Editör, eski gönderilerin biçimini düzenlerken otomatik olarak algılar ve orijinal biçimlendirme kurallarını yükler. Bu istisna dışında, seçilen yazı biçimi öncelikli olacaktır.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Yalnızca kategori sayfasında 
 $Definition['Use Masonry display'] = 'Duvar görünümü kullan';
 $Definition['Show an uploaded image on the Category page.'] = 'Her tartışma, Kategori sayfasında yüklenen bir resmi gösterir. Bu yalnızca "Farklı Göster" olarak "Tartışmalar" kategorileri için geçerlidir.';
 $Definition['Upload Placeholder Image'] = 'Yer Tutucu Resmi Yükle';
+
+
+
+
+
+
+
+
