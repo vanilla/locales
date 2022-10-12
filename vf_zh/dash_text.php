@@ -272,6 +272,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = '您必须选择一个要导入的文件。';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = '您即将应用新的布局选项。这可以使用我们的主题编辑器进行自定义和预览。 <0>了解更多</0>.';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "首页标题显示在您的首页，并将出现在搜索引擎中。";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "网站描述通常出现在搜索引擎中。您应该尝试使用 100-150 个字符长的描述。";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "此标题出现在您网站的横幅和浏览器的标题栏中。它应该少于 20 个字符。如果上传了徽标，它将在面向用户的论坛页面上替换此标题。另外，请记住，某些主题可能会隐藏此标题。";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "搜索引擎优化微数据和 JSON + LD 会使用您的组织名称";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "此徽标出现在您网站的顶部。使用主题编辑器制作的主题和一些自定义主题不使用此设置。";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "移动徽标出现在您网站的顶部。使用主题编辑器制作的主题和一些自定义主题不使用此设置。";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "您网站的收藏夹图标将显示在浏览器的标题栏中。它将被适当缩小。";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "当您在移动设备的主屏幕上为网站添加书签时，会出现触摸图标。这些通常是 152 像素。";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "当有人从您的网站分享链接时，我们会尝试从页面中抓取图像。如果页面上没有图像，那么我们将使用该图像。图像应至少为 50x50，但我们建议为 200x200。";
+$Definition["Some browsers support a color for the address bar."] = "一些浏览器支持地址栏的颜色。";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "此设置在执行 Javascript 之前加载页面，这可以改善您的 SEO。";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**警告：启用此功能可能会导致您的网站出现 Javascript 错误。**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "从菜单中删除讨论和类别链接。设置讨论和类别相关页面返回未找到页面 404。";
+
+
+
 ///
 /// Theming UI
 ///
