@@ -273,6 +273,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Du måste välja en fil att importera.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Du är på väg att använda ett nytt layoutalternativ. Detta kan anpassas och förhandsgranskas med hjälp av vår temaredigerare. <0> Läs mer</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Hemsidans rubrik visas på din hemsida. Välj en rubrik som du skulle vilja att den visas i sökmotorerna.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Webbplatsbeskrivningen visas vanligtvis i sökmotorer. Du bör försöka ha en beskrivning som är 100-150 tecken lång.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Denna titel visas på din webbplats banner och i din webbläsares namnlist. Det bör vara mindre än 20 tecken. Om en logotyp laddas upp kommer den att ersätta denna titel på användarvänliga forumsidor. Tänk också på att vissa teman kan dölja den här titeln.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Namnet på din organisation används för SEO-mikrodata och JSON+LD.";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Den här logotypen visas högst upp på din webbplats. Teman gjorda med temaredigeraren och vissa anpassade teman använder inte den här inställningen.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Mobillogotypen visas högst upp på din webbplats. Teman gjorda med temaredigeraren och vissa anpassade teman använder inte den här inställningen.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Din webbplats favicon visas i webbläsarens titelrad. Den skalas ner till lämplig storlek.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Pekikonen visas när du bokmärker en webbplats på startskärmen på en mobil enhet. Dessa är vanligtvis 152 pixlar.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "När någon delar en länk från din webbplats försöker vi ta en bild från sidan. Om det inte finns en bild på sidan använder vi denna bild istället. Bilden ska vara minst 50×50 men vi rekommenderar 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Vissa webbläsare stöder en färg för adressfältet.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Den här inställningen laddar sidan innan Javascript körs, vilket kan förbättra din SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Varning: Aktivering av den här funktionen kan orsaka Javascript-fel på din webbplats.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Ta bort diskussions- och kategorilänkar från menyer. Ställ in diskussions- och kategorirelaterade sidor för att returnera ej hittad sida 404.";
+
+
+
 ///
 /// Theming UI
 ///
