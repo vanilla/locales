@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Vos invitations ont b
 $Definition['Your Password'] = 'Votre mot de passe';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Vous quittez l\'éditeur sans enregistrer les changements. Pensez bien à vérifier que tous les changements soient enregistrés.';
 
+$Definition["Mobile Logo"] = "Logo mobile";
+$Definition["Banner Image"] = "Image de la bannière";
+$Definition["Disable Forum Pages"] = "Désactiver les pages du forum";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Choisissez le format par défaut de l\'éditeur de messages de la communauté.';
 $Definition['InputFormatter.Notes2'] = 'Cet éditeur détectera automatiquement le format des anciens messages pendant leur modification et utiliser leurs règles de formatage. En dehors de cette exception, le format sélectionné va être utilisé.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Affichage sur la page de la cat
 $Definition['Use Masonry display'] = 'Utiliser l\'affichage Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Chaque discussion montrera une image téléchargée sur la page de la catégorie. Ceci ne s\'applique qu\'aux catégories dont les « Discussions » sont en « Afficher comme ».';
 $Definition['Upload Placeholder Image'] = 'Télécharger l\'image de remplacement';
+
+
+
+
+
+
+
+
