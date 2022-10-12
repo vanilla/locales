@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s وافق عل�
 $Definition['%3$s created an account for %1$s.'] = '%3$s انشأ حسابا لصالح %1$s.';
 $Definition['%s (Current)'] = '%s (الحالي)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] إنشاء حساب المنتدى';
 $Definition['%s Agrees'] = '%s موافق عليه';
 $Definition['%s and %s others'] = '%s و %s آخرون';
 $Definition['%s and you'] = '%s و أنت';
@@ -898,6 +899,7 @@ $Definition['Join this Community Now'] = 'انضم إلى هذه الجماعة 
 $Definition['Join this Group'] = 'انضم لهذه المجموعة';
 $Definition['Join this group to view its content.'] = 'انضم للمجموعة لمشاهدة محتوياتها.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'التنقل من قائمة الرموز التعبيرية السابقة، إلى فئات الرموز التعبيرية.';
+$Definition['Jump to a specific page'] = 'القفز إلى صفحة محددة';
 $Definition['Jump to first tracked post.'] = 'القفز إلى أول منشور يتم تتبعه.';
 $Definition['Jumped to emoji category: '] = 'انْتَقَلَ إلى فئة الرموز التعبيرية:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'فقط حذف سجل المستخدم، والحفاظ على كل محتوى المستخدم.';
@@ -2068,6 +2070,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'سوف 
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "ملف مضغوط Zip";
+
+$Definition["Hot"] = "حار";
+$Definition["Most Helpful"] = "مفيد جدا";
+$Definition["Recently Active"] = "نشط مؤخرًا";
+$Definition["Oldest Members"] = "أقدم الأعضاء";
+$Definition["Newest Members"] = "الاعضاء الجدد";
 
 // Rich Editor
 
