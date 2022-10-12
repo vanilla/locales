@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Anfonwyd eich gwahodd
 $Definition['Your Password'] = 'Eich Cyfrinair';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Rydych chi\'n gadael golygydd y thema heb arbed eich newidiadau. Sicrhewch fod eich diweddariadau\'n cael eu cadw cyn gadael.';
 
+$Definition["Mobile Logo"] = "Logo Symudol";
+$Definition["Banner Image"] = "Delwedd Baner";
+$Definition["Disable Forum Pages"] = "Analluogi Tudalennau Fforwm";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Dewiswch fformat diofyn y golygydd ar gyfer postiadau yn y gymuned.';
 $Definition['InputFormatter.Notes2'] = 'Bydd y golygydd yn awto-ganfod ffurf hen bostiadau wrth eu golygu a llwytho eu rheolau fformatio gwreiddiol. Ar wahân i\'r eithriad hwn, bydd y fformat post a ddewisir isod yn cael blaenoriaeth.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Arddangos ar dudalen categori y
 $Definition['Use Masonry display'] = 'Defnyddiwch arddangosfa gwaith maen';
 $Definition['Show an uploaded image on the Category page.'] = 'Bydd pob trafodaeth yn dangos delwedd wedi\'i llwytho i fyny ar y dudalen Categori. Mae hyn ond yn berthnasol i gategorïau sydd â "Thrafodaethau" fel yr "Arddangos Fel."';
 $Definition['Upload Placeholder Image'] = 'Llwythwch Delwedd Lletywr';
+
+
+
+
+
+
+
+
