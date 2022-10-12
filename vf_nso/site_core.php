@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s e dumeletšwe 
 $Definition['%3$s created an account for %1$s.'] = '%3$s e hlamile akhaonte ya %1$s.';
 $Definition['%s (Current)'] = '%s (Gona bjale)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Tlholo ya Akhaonto ya Foramo';
 $Definition['%s Agrees'] = '%s O a dumela';
 $Definition['%s and %s others'] = '%s le %s ba bangwe';
 $Definition['%s and you'] = '%s le wena';
@@ -896,6 +897,7 @@ $Definition['Join this Community Now'] = 'Tsenela Tikologo ye Gona Bjale';
 $Definition['Join this Group'] = 'Tsenela Sehlopha se';
 $Definition['Join this group to view its content.'] = 'Tsenela sehlopha se gore o bone diteng tša gona.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Tshelela ka kua ga lelokelelo la di emoji, go dikhathakori tša di emoji.';
+$Definition['Jump to a specific page'] = 'Tlolela letlakaleng le le itšego';
 $Definition['Jump to first tracked post.'] = 'Tshelela phoustong ya mathomo threkilwego.';
 $Definition['Jumped to emoji category: '] = 'Tshelela khathakoring ya emoji: ';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'E no phumola pego ya modiriši, gomme o boloke diteng ka moka tša modiriši.';
@@ -2059,6 +2061,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'O tla a
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Fiša";
+$Definition["Most Helpful"] = "Go Thuša kudu";
+$Definition["Recently Active"] = "E sa tšwa go ba Mafolofolo";
+$Definition["Oldest Members"] = "Maloko a Kgale kudu";
+$Definition["Newest Members"] = "Maloko a Maswa";
 
 // Rich Editor
 
