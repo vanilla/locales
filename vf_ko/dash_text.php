@@ -287,6 +287,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = '반드시 가져올 파일을 선택해야 합니다.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = '새 레이아웃 옵션을 적용하려고 합니다. 이것은 테마 편집기를 사용하여 사용자 정의하고 미리 볼 수 있습니다. <0>자세히 알아보기</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "사이트 설명은 일반적으로 검색 엔진에 나타납니다. 100-150자 길이의 설명을 시도해야 합니다.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "이 제목은 사이트 배너와 브라우저의 제목 표시줄에 나타납니다. 20자 미만이어야 합니다. 로고가 업로드되면 사용자 대면 포럼 페이지에서 로고가 이 제목을 대체합니다. 또한 일부 테마는 이 제목을 숨길 수 있습니다.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "귀하의 조직 이름이 SEO 마이크로데이터와 JSON+LD에 사용됩니다.";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "이 로고는 사이트 상단에 나타납니다. 테마 편집기로 만든 테마 및 일부 사용자 지정 테마는 이 설정을 사용하지 않습니다.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "모바일 로고는 사이트 상단에 나타납니다. 테마 편집기로 만든 테마 및 일부 사용자 지정 테마는 이 설정을 사용하지 않습니다.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "귀하의 브라우저 검색창에 사이트 파비콘이 나타납니다. 공간에 맞게 적절히 크기가 줄어듭니다.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "모바일 기기의 홈 화면에서 웹사이트를 북마크하면 터치 아이콘이 나타납니다. 일반적으로 152픽셀입니다.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "누군가가 귀하의 사이트에서 링크를 공유하면 페이지에서 이미지를 가져오려고 합니다. 페이지에 이미지가 없으면 이 이미지를 대신 사용합니다. 이미지는 최소 50×50이어야 하지만 200×200을 권장합니다.";
+$Definition["Some browsers support a color for the address bar."] = "일부 브라우저는 주소 표시줄의 색상을 지원합니다.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "이 설정은 SEO를 향상시킬 수 있는 Javascript를 실행하기 전에 페이지를 로드합니다.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**경고: 이 기능을 활성화하면 사이트에서 자바스크립트 오류가 발생할 수 있습니다.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "메뉴에서 토론 및 범주 링크를 제거합니다. 찾을 수 없는 페이지 404를 반환하도록 토론 및 카테고리 관련 페이지를 설정합니다.";
+
+
+
 ///
 /// Theming UI
 ///
