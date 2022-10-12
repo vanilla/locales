@@ -274,6 +274,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'يجب عليك تحديد ملف للاستيراد.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'أنت على وشك تطبيق خيار تخطيط جديد. يمكن تخصيص ذلك ومعاينته باستخدام محرر السمات الخاص بنا. <0> معرفة المزيد</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "يتم عرض عنوان الصفحة الرئيسية على صفحتك الرئيسية. اختر العنوان الذي تريد أن يظهر في محركات البحث.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "يظهر وصف الموقع عادة في محركات البحث. يجب أن تحاول الحصول على وصف يتراوح طوله بين 100 و 150 حرفًا.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "يظهر هذا العنوان على شعار موقعك وفي شريط عنوان المستعرض الخاص بك. يجب أن يكون أقل من 20 حرفًا. إذا تم تحميل شعار ، فسيحل محل هذا العنوان في صفحات المنتديات التي تواجه المستخدم. أيضًا ، ضع في اعتبارك أن بعض السمات قد تخفي هذا العنوان.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "يتم استخدام اسم مؤسستك لصالح SEO microdata و JSON + LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "يظهر هذا الشعار في الجزء العلوي من موقعك. السمات التي تم إنشاؤها باستخدام محرر السمات وبعض السمات المخصصة لا تستخدم هذا الإعداد.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "يظهر شعار الجوال في الجزء العلوي من موقعك. السمات التي تم إنشاؤها باستخدام محرر السمات وبعض السمات المخصصة لا تستخدم هذا الإعداد.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "ستظهر أيقونة الموقع الخاص بك في شريط عنوان متصفحك. وسيتم تصغيرها بشكل مناسب.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "يظهر رمز اللمس عند وضع إشارة مرجعية على موقع ويب على الشاشة الرئيسية لجهاز محمول. هذه عادة 152 بكسل.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "عندما يشارك شخص ما رابطًا من موقعك ، نحاول التقاط صورة من الصفحة. إذا لم تكن هناك صورة على الصفحة ، فسنستخدم هذه الصورة بدلاً من ذلك. يجب أن تكون الصورة 50 × 50 على الأقل ، لكننا نوصي 200 × 200.";
+$Definition["Some browsers support a color for the address bar."] = "تدعم بعض المتصفحات لونًا لشريط العناوين.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "يقوم هذا الإعداد بتحميل الصفحة قبل تنفيذ جافا سكريبت الذي يمكنه تحسين مُحسّنات محرّكات البحث لديك.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "** تحذير: قد يؤدي تمكين هذه الميزة إلى حدوث أخطاء جافا سكريبت على موقعك. **";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "إزالة روابط المناقشة والفئات من القوائم. قم بتعيين صفحات المناقشة والفئة ذات الصلة لإرجاع صفحة غير موجودة 404.";
+
+
+
 ///
 /// Theming UI
 ///
