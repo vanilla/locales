@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s je odobrio %2$
 $Definition['%3$s created an account for %1$s.'] = '%3$s je kreirao nalog za %1$s.';
 $Definition['%s (Current)'] = '%s (Trenutno)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Креирање налога на форуму';
 $Definition['%s Agrees'] = '%s Pristaje';
 $Definition['%s and %s others'] = '%s i %s drugih';
 $Definition['%s and you'] = '%s и ти';
@@ -897,6 +898,7 @@ $Definition['Join this Community Now'] = 'Pridružite se ovoj zajednici sada';
 $Definition['Join this Group'] = 'Pridruži se ovoj grupi';
 $Definition['Join this group to view its content.'] = 'Pridružite se grupi da biste videli njen sadržaj.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Pređi pored emodži liste na emodži kategorije.';
+$Definition['Jump to a specific page'] = 'Скочите на одређену страницу';
 $Definition['Jump to first tracked post.'] = 'Pređite na prvu pronađenu objavu.';
 $Definition['Jumped to emoji category: '] = 'Prešao u emodži kategoriju:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Obrišite samo podatke o korisniku, a zadržite sav sadržaj korisnika.';
@@ -2050,6 +2052,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Доб�
 $Definition["yyyy-mm-dd"] = "gggg-mm-dd";
 
 $Definition["Zip"] = "Zipujte";
+
+$Definition["Hot"] = "Хот";
+$Definition["Most Helpful"] = "Најкорисније";
+$Definition["Recently Active"] = "Недавно активно";
+$Definition["Oldest Members"] = "Најстарији чланови";
+$Definition["Newest Members"] = "Најновији чланови";
 
 // Rich Editor
 
