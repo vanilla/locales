@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s schválil %2$s
 $Definition['%3$s created an account for %1$s.'] = '%3$s vytvořil účet pro %1$s.';
 $Definition['%s (Current)'] = '%s (Aktuální)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Vytvoření účtu na fóru';
 $Definition['%s Agrees'] = '%s souhlasí';
 $Definition['%s and %s others'] = '%s a %s ostatních';
 $Definition['%s and you'] = '%s a ty';
@@ -896,6 +897,7 @@ $Definition['Join this Community Now'] = 'Nyní se přidejte ke komunitě';
 $Definition['Join this Group'] = 'Připojit se ke skupině ';
 $Definition['Join this group to view its content.'] = 'Připoj se k této skupině, abys viděl její obsah. ';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Přeskočte se seznamu emoji na kategorie emoji.';
+$Definition['Jump to a specific page'] = 'Přejít na konkrétní stránku';
 $Definition['Jump to first tracked post.'] = 'Přejít na první sledovaný příspěvek.';
 $Definition['Jumped to emoji category: '] = 'Skočili jste do kategorie emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Odstranit záznam uživatele a ponechat všechen uživatelův obsah.';
@@ -2052,6 +2054,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Až bud
 $Definition["yyyy-mm-dd"] = "rrrr-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Horký";
+$Definition["Most Helpful"] = "Nejužitečnější";
+$Definition["Recently Active"] = "Nedávno aktivní";
+$Definition["Oldest Members"] = "Nejstarší členové";
+$Definition["Newest Members"] = "Nejnovější členové";
 
 // Rich Editor
 
