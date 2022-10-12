@@ -272,6 +272,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Debes seleccionar un archivo para importar.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Está a punto de aplicar una nueva opción de diseño. Esto se puede personalizar y previsualizar usando nuestro Editor de temas. <0> Más información</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "El título de la página principal se muestra en tu página principal. Elige el título que te gustaría que apareciera en los motores de búsqueda.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "La descripción del sitio suele aparecer en los motores de búsqueda. Debe intentar tener una descripción que tenga entre 100 y 150 caracteres.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Este título aparece en el banner de su sitio y en la barra de título de su navegador. Debe tener menos de 20 caracteres. Si se carga un logotipo, reemplazará este título en las páginas del foro orientadas al usuario. Además, tenga en cuenta que algunos temas pueden ocultar este título.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "El nombre de tu organización está en uso para microdatos SEO y JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Este logotipo aparece en la parte superior de su sitio. Los temas creados con el editor de temas y algunos temas personalizados no utilizan esta configuración.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "El logotipo móvil aparece en la parte superior de su sitio. Los temas creados con el editor de temas y algunos temas personalizados no utilizan esta configuración.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "El favicono de tu sitio aparece en la barra de título del navegador. Se reducirá según corresponda.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "El icono táctil aparece cuando marcas un sitio web en la pantalla de inicio de un dispositivo móvil. Suelen ser de 152 píxeles.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Cuando alguien comparte un enlace desde tu sitio, intentamos tomar una imagen de la página. Si no hay ninguna imagen en la página, utilizaremos esta imagen en su lugar. La imagen debería ser de al menos 50 x 50 , pero recomendamos 200 x 200.";
+$Definition["Some browsers support a color for the address bar."] = "Algunos navegadores admiten un color para la barra de direcciones.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Esta configuración carga la página antes de ejecutar Javascript, lo que puede mejorar su SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Advertencia: al activar esta función, puede que se produzcan errores en tu página web.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Elimina los enlaces de discusión y categorías de los menús. Configure las páginas relacionadas con la discusión y la categoría para devolver la página 404 no encontrada.";
+
+
+
 ///
 /// Theming UI
 ///
