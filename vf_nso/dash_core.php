@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Ditaletšo tša gago 
 $Definition['Your Password'] = 'Phasewete ya Gago';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'O tlogela morulaganyi wa sehlogo ntle le go boloka diphetogo tša gago. Kgonthiša gore diapdeite tša gago di bolokilwe pele o tšwa.';
 
+$Definition["Mobile Logo"] = "Logo ya Sellathekeng";
+$Definition["Banner Image"] = "Setšoantšo sa Banner";
+$Definition["Disable Forum Pages"] = "Thibela Matlakala a Foramo";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Kgetha sebopego sa go se fetoge sa morulaganyi bakeng sa dipolelo setšhabeng.';
 $Definition['InputFormatter.Notes2'] = 'Morulaganyi o tla lemoga ka go itiragalela sebopego sa dipolelo tša kgale ge a di rulaganya gomme a laetša melawana ya tšona ya mathomo ya go fometa. Ka thoko ga mokgekolo wo, sebopego sa poso seo se kgethilwego ka mo tlase se tla tla pele.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Pontšo letlakaleng la legoro f
 $Definition['Use Masonry display'] = 'Diriša pontšho ya Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Poledišano ye nngwe le ye nngwe e tla bontšha seswantšho seo se tsentšwego letlakaleng la Legoro. Se se šoma fela go magoro ao a nago le "Dipoledišano" bjalo ka "Pontšho Bjalo ka."';
 $Definition['Upload Placeholder Image'] = 'Laetša Seswantšho sa Seswari sa Lefelo';
+
+
+
+
+
+
+
+
