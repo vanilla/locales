@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = 'Ваш пароль';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Ви виходите з редактора теми без збереження ваших змін. Переконайтесь у тому, що оновлення збережені перед виходом.';
 
+$Definition["Mobile Logo"] = "Мобільний логотип";
+$Definition["Banner Image"] = "Зображення банера";
+$Definition["Disable Forum Pages"] = "Вимкнути сторінки форуму";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Виберіть типовий формат редактора для публікацій у спільноті.';
 $Definition['InputFormatter.Notes2'] = 'Редактор автоматично визначить формат старих публікацій при їх редагуванні і завантажить їхні оригінальні правила форматування. Окрім цього винятку, пріоритет матиме вибраний нижче формат публікації.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Відображати лише
 $Definition['Use Masonry display'] = 'Відображати у вигляді кладки';
 $Definition['Show an uploaded image on the Category page.'] = 'Кожне обговорення показуватиме відвантажене зображення на сторінці "Категорія". Це застосовується лише до категорій з "Обговореннями" із параметром "Показувати як".';
 $Definition['Upload Placeholder Image'] = 'Відвантажити зображення-заповнювач';
+
+
+
+
+
+
+
+
