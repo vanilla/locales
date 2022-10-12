@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = 'U-%3$s ugunyaze isi
 $Definition['%3$s created an account for %1$s.'] = 'U-%3$s wakhele u-%1$s i-akhawunti.';
 $Definition['%s (Current)'] = '%s (Okwamanje)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Ukudalwa kwe-akhawunti yeforamu';
 $Definition['%s Agrees'] = 'Ukuvuma Okungu-%s';
 $Definition['%s and %s others'] = '%s kanye %s abanye';
 $Definition['%s and you'] = 'U-%s kanye nawe';
@@ -226,7 +227,7 @@ $Definition['All Time Leaders'] = 'Abaholi Baso Sonke Isikhathi';
 $Definition['Already Offered'] = 'Sele Kunikelwe';
 $Definition['Already Warned'] = 'Uxwayisiwe Kakade';
 $Definition['Also banned for the following:'] = 'Uvinjiwe futhi kokulandelayo:';
-$Definition["Also delete this user's content."] = "Futhi susa okuqukethwe kwalomsebenzisi.";
+$Definition["Also delete this user's content."] = "Futhi susa okuqukethwe kwalo msebenzisi.";
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Umlayezo uthenyelwe ekhelini lakho le-imeyili uqukethe iziqondiso zokuqamba kabusha iphasiwedi.';
 $Definition['Analytics'] = 'Ukuhlaziya';
 $Definition['Ancient Membership'] = 'Ubulungu Obudala';
@@ -896,6 +897,7 @@ $Definition['Join this Community Now'] = 'Joyina lo Mphakathi Manje';
 $Definition['Join this Group'] = 'Joyina leli Qembu';
 $Definition['Join this group to view its content.'] = 'Joyina leli qembu ukuze ubuke okuqukethwe kwalo.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Eqa uhlu olwedlule lwe-emoji, ezigabeni ze-emoji.';
+$Definition['Jump to a specific page'] = 'Gxumela ekhasini elithile';
 $Definition['Jump to first tracked post.'] = 'Yeqa kokuthunyelwe kuqala ukulandelelwa.';
 $Definition['Jumped to emoji category: '] = 'Kugxilwe kusigaba se-emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Vele ucishe irekhodi lomsebenzisi, bese ugcina konke okuqukethwe komsebenzisi.';
@@ -2049,6 +2051,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Uzothol
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "I-Zip";
+
+$Definition["Hot"] = "Kuyashisa";
+$Definition["Most Helpful"] = "Okuwusizo Kakhulu";
+$Definition["Recently Active"] = "Okusanda Kusebenza";
+$Definition["Oldest Members"] = "Amalungu Amadala Kakhulu";
+$Definition["Newest Members"] = "Amalungu Amasha Kakhulu";
 
 // Rich Editor
 
