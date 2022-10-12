@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s aprova una sol
 $Definition['%3$s created an account for %1$s.'] = '%3$s ha creat un compte per %1$s.';
 $Definition['%s (Current)'] = '%s (Actual)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Creació del compte del fòrum';
 $Definition['%s Agrees'] = '%s Accepta';
 $Definition['%s and %s others'] = '%s i %s altres';
 $Definition['%s and you'] = '%s i tu';
@@ -226,7 +227,7 @@ $Definition['All Time Leaders'] = 'Els líders del temps';
 $Definition['Already Offered'] = 'Ja ofert';
 $Definition['Already Warned'] = 'Ja s\'ha avisat';
 $Definition['Also banned for the following:'] = 'També està prohibit per als següents:';
-$Definition["Also delete this user's content."] = "També suprimiu el contingut d’aquest usuari.";
+$Definition["Also delete this user's content."] = "Suprimeix també el contingut d'aquest usuari.";
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Hem enviat un missatge al teu compte de correu amb les instruccions per redefinir la teva contrassenya.';
 $Definition['Analytics'] = 'Analytics';
 $Definition['Ancient Membership'] = 'Membre Antic';
@@ -892,6 +893,7 @@ $Definition['Join this Community Now'] = 'Uneix-te a aquesta comunitat ara';
 $Definition['Join this Group'] = 'Unèix-te al grup';
 $Definition['Join this group to view its content.'] = 'Unéix-te al grup per veure aquest contingut';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Saltar a la llista d\'emoji a les categories emoji.';
+$Definition['Jump to a specific page'] = 'Saltar a una pàgina específica';
 $Definition['Jump to first tracked post.'] = 'Saltar a la primera publicació rastrejada.';
 $Definition['Jumped to emoji category: '] = 'Va saltar a la categoria emoji:';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'N’hi ha prou de suprimir el registre d’usuari i conservar tot el contingut de l’usuari.';
@@ -2057,6 +2059,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Rebràs
 $Definition["yyyy-mm-dd"] = "aaaa-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Calent";
+$Definition["Most Helpful"] = "El més útil";
+$Definition["Recently Active"] = "Actiu recentment";
+$Definition["Oldest Members"] = "Membres més antics";
+$Definition["Newest Members"] = "Membres nous";
 
 // Rich Editor
 
