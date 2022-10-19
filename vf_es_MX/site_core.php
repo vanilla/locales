@@ -145,7 +145,7 @@ $Definition['<0>Privacy Policy</0> and '] = '<0>Política de privacidad</0> y <1
 $Definition['<General Error>'] = '<Error General>';
 
 $Definition['[%1$s] Membership Approved'] = '[%1$s] Usuario aprobado';
-$Definition['[%s] Forum Account Creation'] = '[%s] Creación de una cuenta en el foro';
+$Definition['[%s] Forum Account Creation'] = '[%s] Creación de cuenta en el foro';
 $Definition['[%s] Welcome Aboard!'] = '[%s] ¡Bienvenido a bordo!';
 $Definition['[Deleted User]'] = '[Usuario eliminado]';
 
@@ -836,7 +836,7 @@ $Definition['Hide signatures always'] = 'Siempre ocultar firmas';
 $Definition['Hide signatures on my mobile device'] = 'Ocultar firmas en mi dispositivo móvil.';
 $Definition['his'] = 'su';
 $Definition['Home'] = 'Inicio';
-$Definition['Hot'] = 'Popular';
+$Definition['Hot'] = 'Caliente';
 $Definition['hours'] = 'horas';
 $Definition['How can we help you?'] = '¿Cómo podemos ayudarte?';
 $Definition['Howdy, Stranger!'] = '¡Hola amigo!';
@@ -1399,7 +1399,7 @@ $Definition['Recent Admin Activity'] = 'Actividad reciente del Administrador ';
 $Definition['Recent Discussions'] = 'Conversaciones recientes';
 $Definition['Recent Events'] = 'Eventos recientes';
 $Definition['recently'] = 'recientemente';
-$Definition['Recently Active'] = 'Recientemente activo';
+$Definition['Recently Active'] = 'Activo recientemente';
 $Definition['Recent Moderator Activity'] = 'Actividad reciente del Moderador ';
 $Definition['Recent Tutorials'] = 'Tutoriales recientes';
 $Definition['Recipients'] = 'Destinatarios';
