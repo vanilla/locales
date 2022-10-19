@@ -909,6 +909,10 @@ $Definition['Your invitations were sent successfully.'] = 'آپ کے دعوت ن
 $Definition['Your Password'] = 'آپ کا پاس ورڈ';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'آپ اپنی تبدیلیوں کو محفوظ کیے بغیر تھیم ایڈیٹر چھوڑ رہے ہیں۔ یقینی بنائیں کہ باہر آنے سے پہلے آپ کی تازہ کارییں محفوظ ہوجائیں۔';
 
+$Definition["Mobile Logo"] = "موبائل لوگو";
+$Definition["Banner Image"] = "بینر کی تصویر";
+$Definition["Disable Forum Pages"] = "فورم کے صفحات کو غیر فعال کریں۔";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'معاشرے میں پوسٹس کے لئے ایڈیٹر کا ڈیفالٹ فارمیٹ منتخب کریں۔';
 $Definition['InputFormatter.Notes2'] = 'ایڈیٹر پرانے خطوط کی ترمیم کرتے وقت ان کی شکل کا خود بخود پتہ لگائے گا اور ان کے اصل فارمیٹنگ قواعد کو لوڈ کرے گا۔ اس استثنا کو چھوڑ کر ، ذیل میں منتخب کردہ پوسٹ فارمیٹ کو فوقیت حاصل ہوگی۔';
@@ -937,3 +941,11 @@ $Definition['Display on category page only.'] = 'صرف زمرہ کے صفحے �
 $Definition['Use Masonry display'] = 'معمار کا مظاہرہ کریں';
 $Definition['Show an uploaded image on the Category page.'] = 'ہر بحث زمرہ کے صفحے پر اپ لوڈ کردہ تصویر دکھائے گی۔ یہ صرف "مباحث" کے بطور "مباحثے" والے زمروں پر لاگو ہوتا ہے۔';
 $Definition['Upload Placeholder Image'] = 'پلیس ہولڈر کی تصویر اپ لوڈ کریں';
+
+
+
+
+
+
+
+

@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'A meghívód sikerese
 $Definition['Your Password'] = 'Jelszava';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'A változások mentése nélkül készül bezárni a témaszerkesztőt. A kilépés előtt mentse el a módosításokat.';
 
+$Definition["Mobile Logo"] = "Mobil logó";
+$Definition["Banner Image"] = "Szalagkép";
+$Definition["Disable Forum Pages"] = "Fórumoldalak letiltása";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Válaszd ki a szerkesztő alapértelmezett formátumát a közösségi bejegyzésekhez.';
 $Definition['InputFormatter.Notes2'] = 'A szerkesztő automatikusan felismeri a régi bejegyzések formátumát, és betölti az eredeti formázási szabályokat. Ezt a kivételt leszámítva az alább megjelölt bejegyzésformátum élvez elsőbbséget.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Csak a kategóriák oldalán je
 $Definition['Use Masonry display'] = 'Használja a Masonry kijelzőt.';
 $Definition['Show an uploaded image on the Category page.'] = 'Minden beszélgetés egy feltöltött képet mutat a kategóriák oldalán. Ez csak azokra a kategóriákra, vonatkozik, ahol a „Beszélgetés” "Megjelenítés mint”-ként szerepel.';
 $Definition['Upload Placeholder Image'] = 'Helyettesítő kép feltöltése';
+
+
+
+
+
+
+
+

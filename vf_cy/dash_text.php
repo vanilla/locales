@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Rhaid i chi ddewis ffeil i\'w mewnforio.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Rydych chi ar fin cymhwyso opsiwn cynllun newydd. Gellir addasu a rhagolwg hyn gan ddefnyddio ein Golygydd Thema. <0> Dysgu mwy</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Mae teitl y dudalen hafan yn cael ei arddangos ar eich tudalen gartref. Dewiswch deitl yr ydych am ei weld yn ymddangos mewn peiriannau chwilio.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Mae disgrifiad y safle fel arfer yn ymddangos mewn peiriannau chwilio. Dylech geisio cael disgrifiad sy'n 100-150 nod o hyd.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Mae'r teitl hwn yn ymddangos ar faner eich gwefan ac ym mar teitl eich porwr. Dylai fod yn llai nag 20 nod. Os caiff logo ei uwchlwytho, bydd yn disodli'r teitl hwn ar dudalennau fforwm sy'n wynebu defnyddwyr. Hefyd, cofiwch y gallai rhai themâu guddio'r teitl hwn.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Defnyddir enw eich sefydliad ar gyfer SEO microdata a JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Mae'r logo hwn yn ymddangos ar frig eich gwefan. Nid yw themâu a wneir gyda'r golygydd thema a rhai themâu arfer yn defnyddio'r gosodiad hwn.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Mae'r logo symudol yn ymddangos ar frig eich gwefan. Nid yw themâu a wneir gyda'r golygydd thema a rhai themâu arfer yn defnyddio'r gosodiad hwn.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Mae favicon eich gwefan yn ymddangos ym mar teitl eich porwr. Bydd yn cael ei leihau'n briodol.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Mae'r eicon cyffwrdd yn ymddangos pan fyddwch chi'n rhoi nod tudalen ar wefan ar sgrin gartref dyfais symudol. Mae'r rhain fel arfer yn 152 picsel.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Pan fydd rhywun yn rhannu dolen o'ch gwefan, rydyn ni'n ceisio bachu delwedd o'r dudalen. Os nad oes delwedd ar y dudalen yna byddwn yn defnyddio'r ddelwedd hon yn lle. Dylai'r ddelwedd fod o leiaf 50 × 50, ond rydym yn argymell 200 × 200.";
+$Definition["Some browsers support a color for the address bar."] = "Mae rhai porwyr yn cefnogi lliw ar gyfer y bar cyfeiriad.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Mae'r gosodiad hwn yn llwytho'r dudalen cyn gweithredu Javascript a all wella'ch SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Rhybudd: Gall galluogi'r nodwedd hon achosi gwallau Javascript ar eich gwefan.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Dileu dolenni trafodaeth a chategorïau o fwydlenni. Gosodwch dudalennau trafodaeth a chategori i ddychwelyd heb ei chanfod tudalen 404.";
+
+
+
 ///
 /// Theming UI
 ///

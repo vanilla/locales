@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Heu de seleccionar un fitxer per importar.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Esteu a punt d’aplicar una nova opció de disseny. Es pot personalitzar i previsualitzar mitjançant el nostre editor de temes. <0> Més informació</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "El títol de la pàgina principal es mostra a la pàgina d'inici. Trieu un títol que voleu que aparegui als motors de cerca.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "La descripció del lloc sol aparèixer als motors de cerca. Hauríeu de provar de tenir una descripció que tingui entre 100 i 150 caràcters.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Aquest títol apareix al bàner del vostre lloc i a la barra de títol del vostre navegador. Ha de tenir menys de 20 caràcters. Si es penja un logotip, substituirà aquest títol a les pàgines del fòrum orientades a l'usuari. A més, tingueu en compte que alguns temes poden amagar aquest títol.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "El nom de la vostra organització s'utilitza per a les microdades de SEO i JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Aquest logotip apareix a la part superior del vostre lloc. Els temes fets amb l'editor de temes i alguns temes personalitzats no utilitzen aquesta configuració.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "El logotip del mòbil apareix a la part superior del vostre lloc. Els temes fets amb l'editor de temes i alguns temes personalitzats no utilitzen aquesta configuració.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "El favicon del vostre lloc apareix a la barra de títol del vostre navegador. Es reduirà adequadament.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "La icona tàctil apareix quan marqueu un lloc web a la pantalla d'inici d'un dispositiu mòbil. Normalment són 152 píxels.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Quan algú comparteix un enllaç del vostre lloc, intentem agafar una imatge de la pàgina. Si no hi ha cap imatge a la pàgina, utilitzarem aquesta imatge. La imatge ha de tenir almenys 50×50, però recomanem 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Alguns navegadors admeten un color per a la barra d'adreces.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Aquesta configuració carrega la pàgina abans d'executar Javascript, cosa que pot millorar el vostre SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Avís: activar aquesta funció pot provocar errors de Javascript al vostre lloc.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Elimina els enllaços de discussió i categories dels menús. Estableix les pàgines relacionades amb la discussió i les categories per tornar la pàgina 404 no trobada.";
+
+
+
 ///
 /// Theming UI
 ///

@@ -909,6 +909,10 @@ $Definition['Your invitations were sent successfully.'] = 'Поканите ви
 $Definition['Your Password'] = 'Твоята парола';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Излизате от редактора на теми, без да запазвате промените си. Уверете се, че вашите актуализации са запазени преди излизане.';
 
+$Definition["Mobile Logo"] = "Мобилно лого";
+$Definition["Banner Image"] = "Изображение на банер";
+$Definition["Disable Forum Pages"] = "Деактивирайте страниците на форума";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Изберете формата по подразбиране на редактора за публикации в общността.';
 $Definition['InputFormatter.Notes2'] = 'Редакторът автоматично ще открие формата на старите публикации при редактирането им и ще зареди техните оригинални правила за форматиране. Освен това изключение, избраният формат за публикация по-долу ще има предимство.';
@@ -937,3 +941,11 @@ $Definition['Display on category page only.'] = 'Показва се само н
 $Definition['Use Masonry display'] = 'Използвайте дисплей на зидарията';
 $Definition['Show an uploaded image on the Category page.'] = 'Всяка дискусия ще покаже качено изображение на страницата Категория. Това се отнася само за категории с „Дискусии“ като „Покажи като“.';
 $Definition['Upload Placeholder Image'] = 'Качване на изображение на заместител';
+
+
+
+
+
+
+
+

@@ -913,6 +913,10 @@ $Definition['Your invitations were sent successfully.'] = 'Les vostres invitacio
 $Definition['Your Password'] = 'La teva contrasenya';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Esteu deixant l\'editor de temes sense desar els canvis. Assegureu-vos que les actualitzacions es desin abans de sortir.';
 
+$Definition["Mobile Logo"] = "Logotip del mòbil";
+$Definition["Banner Image"] = "Imatge de banner";
+$Definition["Disable Forum Pages"] = "Desactiva les pàgines del fòrum";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Seleccioneu el format predeterminat de l\'editor per a publicacions de la comunitat.';
 $Definition['InputFormatter.Notes2'] = 'L’editor detectarà automàticament el format de les publicacions antigues en editar-les i carregarà les seves regles de format originals. A part d\'aquesta excepció, prevaldrà el format de publicació seleccionat a continuació.';
@@ -941,3 +945,11 @@ $Definition['Display on category page only.'] = 'Mostra només a la pàgina de c
 $Definition['Use Masonry display'] = 'Utilitzeu la pantalla de maçoneria';
 $Definition['Show an uploaded image on the Category page.'] = 'En cada discussió es mostrarà una imatge penjada a la pàgina de la categoria. Això només s\'aplica a les categories amb "Discussions" com a "Mostrar com a".';
 $Definition['Upload Placeholder Image'] = 'Carregueu imatge del marcador de lloc';
+
+
+
+
+
+
+
+

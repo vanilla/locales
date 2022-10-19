@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = 'Ditt passord';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Du forlater tema-editoren uten å lagre endringene dine. Pass på at oppdateringene dine er lagret før du avslutter.';
 
+$Definition["Mobile Logo"] = "Mobillogo";
+$Definition["Banner Image"] = "Bannerbilde";
+$Definition["Disable Forum Pages"] = "Deaktiver forumsider";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Velg standard tekstbehandler for innlegg i dette samfunnet.';
 $Definition['InputFormatter.Notes2'] = 'Tekstbehandleren vil automatisk detektere formatet til gamle innlegg når de blir redigert, og vil laste de originale formaterings reglene. Bortsett fra dette unntaket så vil det valgte innleggsformatet ta presedens. ';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Vis kun på kategorisiden. Nyli
 $Definition['Use Masonry display'] = 'Bruk Masonry-skjerm';
 $Definition['Show an uploaded image on the Category page.'] = 'Hver diskusjon viser et opplastet bilde på kategorisiden. Dette gjelder kun kategorier med "Diskusjoner", som "Vis som".';
 $Definition['Upload Placeholder Image'] = 'Last opp plassholder-bilde';
+
+
+
+
+
+
+
+

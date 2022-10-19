@@ -909,6 +909,10 @@ $Definition['Your invitations were sent successfully.'] = 'Izimemo zakho zithuny
 $Definition['Your Password'] = 'Iphasiwedi yakho';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Ushiya isihleli setimu ngaphandle kokugcina izinguquko zakho. Qiniseka ukuthi izibuyekezo zakho ziyagcinwa ngaphambi kokuphuma.';
 
+$Definition["Mobile Logo"] = "Ilogo yeselula";
+$Definition["Banner Image"] = "Isithombe sesibhengezo";
+$Definition["Disable Forum Pages"] = "Khubaza Amakhasi Enkundla";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Khetha ifomethi emisiwe yomhleli wokuthunyelwe emphakathini.';
 $Definition['InputFormatter.Notes2'] = 'Umhleli uzobona ngokuzenzakalela ukwakheka kokuthunyelwe okudala lapho ekuhlela futhi alayishe imithetho yawo yokufomatha yoqobo. Ngaphandle kwalokhu ngaphandle, ifomethi ekhethiwe engezansi izohamba phambili.';
@@ -937,3 +941,11 @@ $Definition['Display on category page only.'] = 'Veza ekhasini lesigaba kuphela.
 $Definition['Use Masonry display'] = 'Sebenzisa isibuko se-Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Ingxoxo ngayinye izokhombisa isithombe esilayishiwe ekhasini Lesigaba. Lokhu kusebenza kuphela kwizigaba ezine- "Izingxoxo" njenge- "Display As."';
 $Definition['Upload Placeholder Image'] = 'Faka isithombe sesindawo';
+
+
+
+
+
+
+
+

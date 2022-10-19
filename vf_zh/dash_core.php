@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = '您的邀请已成功
 $Definition['Your Password'] = '密码';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = '您将离开主题编辑器而不保存更改。退出之前，请确保您的更新已保存。';
 
+$Definition["Mobile Logo"] = "手机标志";
+$Definition["Banner Image"] = "横幅图片";
+$Definition["Disable Forum Pages"] = "禁用论坛页面";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = '为社区中的文章选择编辑器的默认格式。';
 $Definition['InputFormatter.Notes2'] = '编辑时，编辑器将自动检测旧文章的格式，并加载其原始格式规则。除此例外情况外，以下选定的日志格式将优先。';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = '仅在类别页面上显示。 
 $Definition['Use Masonry display'] = '使用 Masonry 显示';
 $Definition['Show an uploaded image on the Category page.'] = '每次讨论都会在类别页面上显示一张上传的图像。 这只适用于将“讨论”作为“显示为”的类别。';
 $Definition['Upload Placeholder Image'] = '上载占位符图像';
+
+
+
+
+
+
+
+

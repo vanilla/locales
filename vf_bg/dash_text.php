@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Трябва да изберете файл, който да импортирате.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'На път сте да приложите нова опция за оформление. Това може да бъде персонализирано и визуализирано с помощта на нашия редактор на теми. <0> Научете повече</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Заглавието на началната страница се показва на вашата начална страница. Изберете заглавие, което искате да видите в търсачките.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Описанието на сайта обикновено се появява в търсачките. Трябва да опитате да имате описание с дължина 100-150 знака.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Това заглавие се показва на банера на вашия сайт и в заглавната лента на вашия браузър. Трябва да е по-малко от 20 знака. Ако е качено лого, то ще замени това заглавие на страниците на форума, ориентирани към потребителите. Освен това имайте предвид, че някои теми може да скрият това заглавие.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Името на вашата организация се използва за SEO микроданни и JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Това лого се показва в горната част на вашия сайт. Темите, направени с редактора на теми, и някои персонализирани теми не използват тази настройка.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Мобилното лого се показва в горната част на вашия сайт. Темите, направени с редактора на теми, и някои персонализирани теми не използват тази настройка.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Favicon на вашия сайт се появява в заглавната лента на вашия браузър. Ще бъде намален по подходящ начин.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Иконата за докосване се появява, когато маркирате уебсайт на началния екран на мобилно устройство. Това обикновено са 152 пиксела.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Когато някой сподели връзка от вашия сайт, ние се опитваме да вземем изображение от страницата. Ако на страницата няма изображение, ще използваме това изображение вместо това. Изображението трябва да е поне 50×50, но препоръчваме 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Някои браузъри поддържат цвят за адресната лента.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Тази настройка зарежда страницата, преди да изпълни Javascript, което може да подобри вашето SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Предупреждение: Активирането на тази функция може да причини грешки в Javascript на вашия сайт.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Премахнете връзките към дискусии и категории от менютата. Задайте страници, свързани с дискусия и категория, за да върнете ненамерена страница 404.";
+
+
+
 ///
 /// Theming UI
 ///

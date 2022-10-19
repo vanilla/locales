@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = 'Ang Iyong Password';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Iiwan mo ang editor ng tema nang hindi nase-save ang iyong mga pagbabago. Tiyaking na-save ang iyong mga update bago lumabas.';
 
+$Definition["Mobile Logo"] = "Logo ng Mobile";
+$Definition["Banner Image"] = "Imahe ng Banner";
+$Definition["Disable Forum Pages"] = "Huwag paganahin ang Mga Pahina ng Forum";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Piliin ang default na format ng editor para sa mga post sa komunidad.';
 $Definition['InputFormatter.Notes2'] = 'Awtomatikong malalaman ng editor ang format ng mga lumang post habang ine-edit ang mga ito at ilo-load ang kanilang orihinal na mga tuntunin sa pagfo-format. Maliban dito, ang piniling format ng post sa ibaba ang mangingibabaw.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Ipakita lang sa pahina ng kateg
 $Definition['Use Masonry display'] = 'Gamitin ang Masonry na display ';
 $Definition['Show an uploaded image on the Category page.'] = 'Ang bawat usapan ay magpapakita ng naka-upload na larawan sa pahina ng Kategorya. Naaangkop lang ito sa mga kategorya na gumagamit sa "Mga Usapan" bilang "Ipakita Bilang."';
 $Definition['Upload Placeholder Image'] = 'I-upload ang Larawan ng Placeholder';
+
+
+
+
+
+
+
+

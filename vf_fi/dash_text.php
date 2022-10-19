@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Valitse tiedosto, jonka haluat tuoda.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Olet ottamassa käyttöön uutta asetteluvaihtoehtoa. Tätä voi muokata ja esikatsella teemaeditorillamme. <0> Lisätietoja</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Sivuston kuvaus näkyy yleensä hakukoneissa. Sinun tulisi yrittää käyttää kuvausta, joka on 100-150 merkkiä pitkä.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Tämä otsikko näkyy sivustosi bannerissa ja selaimesi otsikkorivillä. Sen tulee olla alle 20 merkkiä. Jos logo ladataan, se korvaa tämän otsikon käyttäjille suunnatuilla foorumisivuilla. Muista myös, että jotkin teemat voivat piilottaa tämän otsikon.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Organisaatiosi nimeä käytetään SEO-mikrodatalle ja JSON+LD:lle";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Tämä logo näkyy sivustosi yläosassa. Teemaeditorilla tehdyt teemat ja jotkin mukautetut teemat eivät käytä tätä asetusta.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Mobiililogo näkyy sivustosi yläosassa. Teemaeditorilla tehdyt teemat ja jotkin mukautetut teemat eivät käytä tätä asetusta.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Sivustosi favicon näkyy selaimesi otsikkopalkissa. Se skaalataan kokoon sopivaksi.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Kosketuskuvake tulee näkyviin, kun lisäät verkkosivuston kirjanmerkkeihin mobiililaitteen aloitusnäytössä. Nämä ovat yleensä 152 pikseliä.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Jonkun jakaessa linkin sivustoltasi pyrimme ottamaan mukaan kuvan kyseiseltä sivulta. Jos sivulla ei ole kuvia, niin silloin käytössä on tämä kuva. Kuvan on oltava vähintään 50x50-kokoinen, ja suositeltu koko on 200x200. ";
+$Definition["Some browsers support a color for the address bar."] = "Jotkut selaimet tukevat osoitepalkin väriä.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Tämä asetus lataa sivun ennen Javascriptin suorittamista, mikä voi parantaa hakukoneoptimointiasi.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Varoitus: tämän ominaisuuden käyttöönotto voi aiheuttaa Javascript-virheitä sivustollesi.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Poista keskustelu- ja kategorialinkit valikoista. Aseta keskusteluun ja luokkiin liittyvät sivut palauttamaan ei löytynyt sivu 404.";
+
+
+
 ///
 /// Theming UI
 ///

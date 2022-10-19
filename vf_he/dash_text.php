@@ -275,6 +275,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'בחר קובץ לייבוא.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'אתה עומד ליישם אפשרות פריסה חדשה. ניתן להתאים אישית ולצפות בתצוגה מקדימה באמצעות עורך הנושאים שלנו. <0> למידע נוסף</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "כותרת דף הבית מוצגת בדף הבית שלך. בחר כותרת שתרצה לראות מופיעה במנועי חיפוש.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "תיאור האתר מופיע בדרך כלל במנועי חיפוש. כדאי לנסות לקבל תיאור באורך 100-150 תווים.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "כותרת זו מופיעה על הבאנר של האתר שלך ובשורת הכותרת של הדפדפן שלך. זה צריך להיות פחות מ-20 תווים. אם יועלה לוגו, הוא יחליף את הכותרת הזו בדפי הפורום הפונים למשתמש. כמו כן, זכור שכמה נושאים עשויים להסתיר את הכותרת הזו.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "נעשה שימוש בשם הארגון שלך למטרות SEO microdata ו- JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "לוגו זה מופיע בחלק העליון של האתר שלך. ערכות נושא שנוצרו עם עורך ערכות הנושא וכמה ערכות נושא מותאמות אישית אינן משתמשות בהגדרה זו.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "הלוגו לנייד מופיע בחלק העליון של האתר שלך. ערכות נושא שנוצרו עם עורך ערכות הנושא וכמה ערכות נושא מותאמות אישית אינן משתמשות בהגדרה זו.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "סמל המועדפים של האתר שלך מופיע בפס הכותרת של הדפדפן. הוא יוקטן באופן פרופורציונלי.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "סמל המגע מופיע כאשר אתה מסמן אתר במסך הבית של מכשיר נייד. אלה הם בדרך כלל 152 פיקסלים.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "כאשר מישהו משתף קישור מהאתר שלך, אנו מנסים לתפוס תמונה מהדף. אם אין תמונה בדף, נשתמש בתמונה זו במקום זאת. התמונה צריכה להיות לפחות 50×50, אך אנו ממליצים על 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "דפדפנים מסוימים תומכים בצבע עבור שורת הכתובת.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "הגדרה זו טוענת את הדף לפני הפעלת Javascript שיכולה לשפר את SEO שלך.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**אזהרה: הפעלת תכונה זו עלולה לגרום לשגיאות Javascript באתר שלך.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "הסר קישורי דיונים וקטגוריות מהתפריטים. הגדר דפים הקשורים לדיונים וקטגוריות כך שיחזירו את עמוד 404 לא נמצא.";
+
+
+
 ///
 /// Theming UI
 ///

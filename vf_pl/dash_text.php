@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Zamierzasz zastosować nową opcję układu. Można to dostosować i wyświetlić podgląd za pomocą naszego edytora motywów. <0>Dowiedz się więcej</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Opis strony zwykle pojawia się w wyszukiwarkach. Postaraj się, aby opis miał 100-150 znaków.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Ten tytuł pojawia się na banerze Twojej witryny i na pasku tytułu przeglądarki. Powinien mieć mniej niż 20 znaków. Jeśli logo zostanie przesłane, zastąpi ono ten tytuł na stronach forum dla użytkowników. Pamiętaj też, że niektóre motywy mogą ukrywać ten tytuł.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Nazwa Twojej organizacji jest wykorzystywana do JSON+LD i mikrodanych SEO";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "To logo pojawia się u góry Twojej witryny. Motywy utworzone za pomocą edytora motywów i niektóre motywy niestandardowe nie korzystają z tego ustawienia.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Logo na telefon komórkowy pojawia się u góry Twojej witryny. Motywy utworzone za pomocą edytora motywów i niektóre motywy niestandardowe nie korzystają z tego ustawienia.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Favicon Twojej witryny jest wyświetlany na pasku tytułowym przeglądarki. Zostanie odpowiednio zmniejszony.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Ikona dotykowa pojawia się, gdy dodajesz zakładkę do witryny na ekranie głównym urządzenia mobilnego. Są to zwykle 152 piksele.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Gdy ktoś udostępnia link z Twojej witryny, próbujemy pobrać obraz ze strony. Jeśli na stronie nie ma obrazu, użyjemy go zamiast tego. Obraz powinien mieć co najmniej 50×50, ale zalecamy 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Niektóre przeglądarki obsługują kolor paska adresu.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "To ustawienie wczytuje stronę przed wykonaniem JavaScriptu, co może poprawić Twoje SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Ostrzeżenie: włączenie tej funkcji może spowodować błędy JavaScript w Twojej witrynie.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Usuń linki do dyskusji i kategorii z menu. Ustaw strony związane z dyskusją i kategoriami, aby zwracały nie znaleziono strony 404.";
+
+
+
 ///
 /// Theming UI
 ///

@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Anda harus memilih sebuah file untuk diimpor.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Anda akan menerapkan opsi tata letak baru. Ini dapat disesuaikan dan dipratinjau menggunakan Editor Tema kami. <0>Pelajari lebih lanjut</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Judul laman beranda akan ditampilkan pada laman beranda Anda. Pilih sebuah judul yang Anda ingin tampilkan pada mesin pencari.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Deskripsi situs biasanya muncul di mesin pencari. Anda harus mencoba memiliki deskripsi yang panjangnya 100-150 karakter.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Judul ini muncul di spanduk situs Anda dan di bilah judul browser Anda. Itu harus kurang dari 20 karakter. Jika logo diunggah, itu akan menggantikan judul ini di halaman forum yang menghadap pengguna. Juga, perlu diingat beberapa tema mungkin menyembunyikan judul ini.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Nama organisasi Anda digunakan untuk mikrodata SEO dan JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Logo ini muncul di bagian atas situs Anda. Tema yang dibuat dengan editor tema dan beberapa tema khusus tidak menggunakan pengaturan ini.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Logo seluler muncul di bagian atas situs Anda. Tema yang dibuat dengan editor tema dan beberapa tema khusus tidak menggunakan pengaturan ini.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Favicon situs Anda tampil di bilah judul peramban Anda. Ikon ini akan disesuaikan ukurannya.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Ikon sentuh muncul saat Anda menandai situs web di layar beranda perangkat seluler. Ini biasanya 152 piksel.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Ketika seseorang membagikan tautan dari situs Anda, kami mencoba dan mengambil gambar dari halaman tersebut. Jika tidak ada gambar di halaman, kami akan menggunakan gambar ini sebagai gantinya. Gambar harus berukuran minimal 50×50, tetapi kami merekomendasikan 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Beberapa browser mendukung warna untuk bilah alamat.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Pengaturan ini memuat halaman sebelum menjalankan Javascript yang dapat meningkatkan SEO Anda.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Peringatan: Mengaktifkan fitur ini dapat menyebabkan kesalahan Javascript di situs Anda.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Hapus tautan diskusi dan kategori dari menu. Setel halaman terkait diskusi dan kategori untuk mengembalikan halaman tidak ditemukan 404.";
+
+
+
 ///
 /// Theming UI
 ///

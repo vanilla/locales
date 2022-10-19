@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'You must select a file to import.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Malapit ka nang mag-apply ng bagong pagpipilian sa layout. Maaari itong ipasadya at ma-preview gamit ang aming Theme Editor. <0> Matuto nang higit pa</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Ang paglalarawan ng site ay karaniwang lumalabas sa mga search engine. Dapat mong subukang magkaroon ng paglalarawan na 100-150 character ang haba.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Lumilitaw ang pamagat na ito sa banner ng iyong site at sa title bar ng iyong browser. Dapat ay mas mababa sa 20 character. Kung may na-upload na logo, papalitan nito ang pamagat na ito sa mga page ng forum na nakaharap sa user. Gayundin, tandaan na maaaring itago ng ilang mga tema ang pamagat na ito.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Ang pangalan ng organisasyon mo ay ginagamit para sa SEO microdata at JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Lumilitaw ang logo na ito sa tuktok ng iyong site. Ang mga temang ginawa gamit ang theme editor at ilang custom na tema ay hindi gumagamit ng setting na ito.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Lumilitaw ang logo ng mobile sa tuktok ng iyong site. Ang mga temang ginawa gamit ang theme editor at ilang custom na tema ay hindi gumagamit ng setting na ito.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Ang favicon ng iyong site ay lilitaw sa title bar ng iyong browser. Ito ay paliliitin ayon sa naaangkop.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Lalabas ang touch icon kapag nag-bookmark ka ng website sa homescreen ng isang mobile device. Ang mga ito ay karaniwang 152 pixels.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Kapag may nagbahagi ng link mula sa iyong site, susubukan naming kumuha ng larawan mula sa page. Kung walang larawan sa page, gagamitin namin ang larawang ito sa halip. Ang larawan ay dapat na hindi bababa sa 50 × 50, ngunit inirerekomenda namin ang 200 × 200.";
+$Definition["Some browsers support a color for the address bar."] = "Sinusuportahan ng ilang browser ang isang kulay para sa address bar.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Nilo-load ng setting na ito ang page bago isagawa ang Javascript na maaaring mapabuti ang iyong SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Babala: Ang pagpapagana sa feature na ito ay maaaring magdulot ng mga error sa Javascript sa iyong site.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Alisin ang mga link ng talakayan at kategorya mula sa mga menu. Itakda ang mga pahinang nauugnay sa talakayan at kategorya upang ibalik ang hindi nahanap na pahina 404.";
+
+
+
 ///
 /// Theming UI
 ///

@@ -920,6 +920,10 @@ $Definition['Your invitations were sent successfully.'] = 'Je uitnodigingen zijn
 $Definition['Your Password'] = 'Jouw wachtwoord';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Je verlaat de thema-editor zonder je wijzigingen op te slaan. Zorg ervoor dat je updates zijn opgeslagen voordat je afsluit.';
 
+$Definition["Mobile Logo"] = "Mobiel logo";
+$Definition["Banner Image"] = "Bannerafbeelding";
+$Definition["Disable Forum Pages"] = "Forumpagina's uitschakelen";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Kies het standaardformaat voor de editor voor berichten in de gemeenschap.';
 $Definition['InputFormatter.Notes2'] = 'De editor zal bij het bewerken van oude berichten automatisch het formaat detecteren en hun oorspronkelijke opmaakregels laden. Deze uitzondering daargelaten, zal het gekozen formaat voor berichten voorrang krijgen.';
@@ -948,3 +952,11 @@ $Definition['Display on category page only.'] = 'Wordt alleen op categoriepagina
 $Definition['Use Masonry display'] = 'Gebruik Masonry-display';
 $Definition['Show an uploaded image on the Category page.'] = 'Elke discussie toont een geüploade afbeelding op de Categoriepagina. Dit geldt alleen voor categorieën met \'Discussies\' als de \'Tonen als\'.';
 $Definition['Upload Placeholder Image'] = 'Upload tijdelijke aanduidingsafbeelding';
+
+
+
+
+
+
+
+

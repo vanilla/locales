@@ -19,6 +19,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s approved %2$s 
 $Definition['%3$s created an account for %1$s.'] = '%3$s created an account for %1$s.';
 $Definition['%s (Current)'] = '%s (Current)';
 $Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Forum Account Creation';
 $Definition['%s Agrees'] = '%s Agrees';
 $Definition['%s and %s others'] = '%s and %s others';
 $Definition['%s and you'] = '%s and you';
@@ -226,7 +227,8 @@ $Definition['All Time Leaders'] = 'All Time Leaders';
 $Definition['Already Offered'] = 'Already Offered';
 $Definition['Already Warned'] = 'Already Warned';
 $Definition['Also banned for the following:'] = 'Also banned for the following:';
-$Definition["Also delete this user's content."] = "Also delete this user's content.";
+$Definition['Also delete this user\'s content.'] = 'Also delete this user\'s content.';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Alternative text helps users with accessibility concerns and improves SEO.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'A message has been sent to your email address with password reset instructions.';
 $Definition['Analytics'] = 'Analytics';
 $Definition['Ancient Membership'] = 'Ancient Membership';
@@ -896,6 +898,7 @@ $Definition['Join this Community Now'] = 'Join this Community Now';
 $Definition['Join this Group'] = 'Join this Group';
 $Definition['Join this group to view its content.'] = 'Join this group to view its content.';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Jump past emoji list, to emoji categories.';
+$Definition['Jump to a specific page'] = 'Jump to a specific page';
 $Definition['Jump to first tracked post.'] = 'Jump to first tracked post.';
 $Definition['Jumped to emoji category: '] = 'Jumped to emoji category: ';
 $Definition['Just delete the user record, and keep all of the user\'s content.'] = 'Just delete the user record, and keep all of the user\'s content.';
@@ -2060,6 +2063,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'You wil
 $Definition["yyyy-mm-dd"] = "yyyy-mm-dd";
 
 $Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Hot";
+$Definition["Most Helpful"] = "Most Helpful";
+$Definition["Recently Active"] = "Recently Active";
+$Definition["Oldest Members"] = "Oldest Members";
+$Definition["Newest Members"] = "Newest Members";
 
 // Rich Editor
 

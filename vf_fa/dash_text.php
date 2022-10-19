@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'براي درون ريزي بايد يك فايلي را انتخاب كنيد.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'شما در حال اعمال یک گزینه طرح بندی جدید هستید. این را می توان با استفاده از ویرایشگر تم ما سفارشی و پیش نمایش کرد. <0> بیشتر بیاموزید</0> به';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "عنوان صفحه اصلي شما در صفحه اصلي نمايش داده ميشود. عنواني را انتخاب كنيد كه مايل هستيد آن را در موتورهاي جستجو ببينيد.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "توضیحات سایت معمولا در موتورهای جستجو ظاهر می شود. باید سعی کنید توضیحاتی از 100 تا 150 کاراکتر داشته باشید.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "این عنوان در بنر سایت شما و در نوار عنوان مرورگر شما ظاهر می شود. باید کمتر از 20 کاراکتر باشد. اگر لوگویی آپلود شود، در صفحات فروم رو به روی کاربر جایگزین این عنوان می شود. همچنین، به خاطر داشته باشید که برخی از تم ها ممکن است این عنوان را پنهان کنند.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "نام سازمان شما برای microdata SEO و JSON+LD استفاده می شود";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "این لوگو در بالای سایت شما ظاهر می شود. طرح‌های زمینه ساخته شده با ویرایشگر طرح زمینه و برخی از طرح‌های زمینه سفارشی از این تنظیم استفاده نمی‌کنند.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "لوگوی موبایل در بالای سایت شما ظاهر می شود. طرح‌های زمینه ساخته شده با ویرایشگر طرح زمینه و برخی از طرح‌های زمینه سفارشی از این تنظیم استفاده نمی‌کنند.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "فاویکون سایت شما در نوار عنوان مرورگر شما ظاهر می شود. به طور مناسب کوچک خواهد شد.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "هنگامی که یک وب سایت را در صفحه اصلی یک دستگاه تلفن همراه نشانک می کنید، نماد لمسی ظاهر می شود. اینها معمولاً 152 پیکسل هستند.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "هنگامی که شخصی پیوندی را از سایت شما به اشتراک می گذارد، ما سعی می کنیم تصویری را از صفحه بگیریم. اگر تصویری در صفحه وجود ندارد، به جای آن از این تصویر استفاده می کنیم. تصویر باید حداقل 50×50 باشد، اما ما 200×200 را توصیه می کنیم.";
+$Definition["Some browsers support a color for the address bar."] = "برخی از مرورگرها از یک رنگ برای نوار آدرس پشتیبانی می کنند.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "این تنظیم صفحه را قبل از اجرای جاوا اسکریپت بارگیری می کند که می تواند سئوی شما را بهبود بخشد.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**هشدار: فعال کردن این ویژگی ممکن است باعث ایجاد خطاهای جاوا اسکریپت در سایت شما شود.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "پیوندهای بحث و دسته بندی را از منوها حذف کنید. صفحات مربوط به بحث و دسته بندی را طوری تنظیم کنید که صفحه 404 یافت نشد.";
+
+
+
 ///
 /// Theming UI
 ///

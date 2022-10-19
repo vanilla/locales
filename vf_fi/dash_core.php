@@ -918,6 +918,10 @@ $Definition['Your invitations were sent successfully.'] = 'Kutsujen lähetys onn
 $Definition['Your Password'] = 'Salasanasi';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Olet poistumassa teemaeditorista tallentamatta muutoksia. Varmista, että päivitykset on tallennettu ennen poistumista.';
 
+$Definition["Mobile Logo"] = "Mobiili logo";
+$Definition["Banner Image"] = "Bannerin kuva";
+$Definition["Disable Forum Pages"] = "Poista foorumisivut käytöstä";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Valitse muokkaimen oletustietomuoto yhteisön julkaisuja varten.';
 $Definition['InputFormatter.Notes2'] = 'Muokkain havaitsee vanhojen julkaisujen tietomuodon automaattisesti muokkauksen yhteydessä ja lataa niiden alkuperäiset muokkaussäännöt. Alla valittu tietomuoto on etusijalla, edellä mainittu poikkeus pois lukien.';
@@ -946,3 +950,11 @@ $Definition['Display on category page only.'] = 'Näytä ainoastaan kategoriasiv
 $Definition['Use Masonry display'] = 'Käytä tiiliseinänäyttöä';
 $Definition['Show an uploaded image on the Category page.'] = 'Jokainen keskustelu näyttää ladatun kuvan kategoriasivulla. Tämä pätee ainoastaan kategorioihin, joiden "Näytä tässä muodossa" -vaihtoehdoksi on asetettu "Keskustelu".';
 $Definition['Upload Placeholder Image'] = 'Lataa paikkamerkin kuva';
+
+
+
+
+
+
+
+

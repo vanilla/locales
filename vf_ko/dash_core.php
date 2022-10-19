@@ -929,6 +929,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = '귀하의 패스워드';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = '변경 사항을 저장하지 않은 상태로 테마 에디터를 떠나려는 중입니다. 나가시기 전에 변경 사항이 저장해 주세요.';
 
+$Definition["Mobile Logo"] = "모바일 로고";
+$Definition["Banner Image"] = "배너 이미지";
+$Definition["Disable Forum Pages"] = "포럼 페이지 비활성화";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = '커뮤니티 포스트를 위한 에디터 기본 포맷을 선택하세요. ';
 $Definition['InputFormatter.Notes2'] = '오래된 포스트를 편집하고 원 포맷 규칙을 로드할 때, 에디터는 해당 포맷을 자동으로 감지합니다. 이 예외와 별개로, 아래 선택된 포스트 포맷이 우선합니다. ';
@@ -957,3 +961,11 @@ $Definition['Display on category page only.'] = '카테고리 페이지에서만
 $Definition['Use Masonry display'] = '석조 디스플레이 사용';
 $Definition['Show an uploaded image on the Category page.'] = '각 토론에는 카테고리 페이지에 업로드된 이미지가 표시됩니다. "표시 형식"이 "토론"으로 되어 있는 카테고리에만 적용됩니다.';
 $Definition['Upload Placeholder Image'] = '자리 표시자 이미지 업로드';
+
+
+
+
+
+
+
+

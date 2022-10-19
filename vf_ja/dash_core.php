@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Your invitations were
 $Definition['Your Password'] = 'あなたのパスワード';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = '変更を保存せずにテーマエディターを終了しようとしています。 終了する前に、更新内容が保存されていることを確認してください。';
 
+$Definition["Mobile Logo"] = "モバイルロゴ";
+$Definition["Banner Image"] = "バナー画像";
+$Definition["Disable Forum Pages"] = "フォーラムページを無効化";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'コミュニティ内の投稿に使用する、エディタのデフォルトフォーマットを選択してください。';
 $Definition['InputFormatter.Notes2'] = '編集時に、古い投稿のフォーマットが自動的に検出され、元のフォーマットのルールが読み込まれます。 この例外を除いて、下記の選択された投稿フォーマットが優先されます。';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'カテゴリーページのみ�
 $Definition['Use Masonry display'] = ' Masonry表示を使用する';
 $Definition['Show an uploaded image on the Category page.'] = '各ディスカッションでは、アップロードされた画像がカテゴリーのページに表示されます。これは、「表示形式」が「ディスカッション」のカテゴリーにのみ適用されます。';
 $Definition['Upload Placeholder Image'] = 'プレースホルダーの画像をアップロード';
+
+
+
+
+
+
+
+

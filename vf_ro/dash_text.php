@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Trebuie să selectați un fișier pentru import';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Sunteți pe cale să aplicați o nouă opțiune de aspect. Acest lucru poate fi personalizat și previzualizat utilizând Editorul nostru de teme. <0> Aflați mai multe</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Titlul paginii de start este afişat pe pagina de start. Alegeţi un titlu care ați doriţi apară în motoarele de căutare";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Descrierea site-ului apare de obicei în motoarele de căutare. Ar trebui să încercați să aveți o descriere care are 100-150 de caractere.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Acest titlu apare pe bannerul site-ului dvs. și în bara de titlu a browserului dvs. Ar trebui să aibă mai puțin de 20 de caractere. Dacă se încarcă o siglă, aceasta va înlocui acest titlu pe paginile de forum adresate utilizatorilor. De asemenea, rețineți că unele teme pot ascunde acest titlu.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Numele organizației tale este folosit pentru micro date SEO și JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Acest logo apare în partea de sus a site-ului dvs. Temele create cu editorul de teme și unele teme personalizate nu folosesc această setare.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Sigla mobilă apare în partea de sus a site-ului dvs. Temele create cu editorul de teme și unele teme personalizate nu folosesc această setare.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Pictograma site-ului tău apare în bara de titlu a browserului. Va fi redusă în mod corespunzător.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Pictograma atingere apare atunci când marcați un site web pe ecranul de pornire al unui dispozitiv mobil. Acestea sunt de obicei 152 de pixeli.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Când cineva distribuie un link de pe site-ul dvs., încercăm să luăm o imagine de pe pagină. Dacă nu există o imagine pe pagină, atunci vom folosi această imagine. Imaginea ar trebui să fie de cel puțin 50×50, dar vă recomandăm 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Unele browsere acceptă o culoare pentru bara de adrese.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Această setare încarcă pagina înainte de a executa Javascript, ceea ce vă poate îmbunătăți SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Avertisment: activarea acestei funcții poate cauza erori Javascript pe site-ul dvs.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Eliminați linkurile pentru discuții și categorii din meniuri. Setați paginile legate de discuții și categorii să returneze pagina negăsită la pagina 404.";
+
+
+
 ///
 /// Theming UI
 ///

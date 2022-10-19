@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Морате одабрати датотеку коју желите да увозите.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Применићете нову опцију изгледа. Ово се може прилагодити и прегледати помоћу нашег уређивача тема. <0> Сазнајте више</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Наслов почетне странице се приказује на вашој почетној страници. Изаберите наслов који бисте желели да видите у претраживачима.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Опис сајта се обично појављује у претраживачима. Требало би да покушате да имате опис који је дугачак 100-150 знакова.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Овај наслов се појављује на банеру вашег сајта и у насловној траци вашег претраживача. Требало би да има мање од 20 знакова. Ако се лого постави, он ће заменити овај наслов на страницама форума окренутим корисницима. Такође, имајте на уму да неке теме могу сакрити овај наслов.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Назив ваше организације се користи за СЕО микроподатке и ЈСОН+ЛД";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Овај лого се појављује на врху вашег сајта. Теме направљене помоћу уређивача тема и неке прилагођене теме не користе ово подешавање.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Логотип за мобилне уређаје се појављује на врху вашег сајта. Теме направљене помоћу уређивача тема и неке прилагођене теме не користе ово подешавање.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Фавицон вашег сајта се појављује у насловној траци вашег претраживача. Биће на одговарајући начин смањен.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Додирна икона се појављује када обележите веб локацију на почетном екрану мобилног уређаја. То су обично 152 пиксела.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Када неко подели везу са вашег сајта, ми покушавамо да преузмемо слику са странице. Ако на страници нема слике, уместо ње ћемо користити ову слику. Слика треба да буде најмање 50×50, али препоручујемо 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Неки претраживачи подржавају боју за адресну траку.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Ово подешавање учитава страницу пре извршавања Јавасцрипт-а што може побољшати ваш СЕО.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Упозорење: Омогућавање ове функције може да изазове Јавасцрипт грешке на вашем сајту.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Уклоните везе за дискусију и категорије из менија. Подесите странице које се односе на дискусију и категорију да врате ненађену страницу 404.";
+
+
+
 ///
 /// Theming UI
 ///

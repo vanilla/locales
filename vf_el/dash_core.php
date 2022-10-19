@@ -919,6 +919,10 @@ $Definition['Your invitations were sent successfully.'] = 'Οι προσκλήσ
 $Definition['Your Password'] = 'Ο Κωδικός Πρόσβασής Σας';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Αποχωρείτε από τον επεξεργαστή θέματος χωρίς να αποθηκεύσετε τις αλλαγές σας. Σιγουρευτείτε ότι οι ενημερώσεις σας θα αποθηκευτούν πριν την έξοδο.';
 
+$Definition["Mobile Logo"] = "Λογότυπο κινητού";
+$Definition["Banner Image"] = "Εικόνα Πανό";
+$Definition["Disable Forum Pages"] = "Απενεργοποίηση σελίδων φόρουμ";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Επίλεξε την προεπιλεγμένη μορφοποίηση του επεξεργαστή για αναρτήσεις στην κοινότητα.';
 $Definition['InputFormatter.Notes2'] = 'Ο επεξεργαστής θα εντοπίζει αυτόματα τη μορφοποίηση των παλαιότερων αναρτήσεων όταν τους επεξεργάζεσαι και θα φορτώνει τους αρχικούς κανόνες μορφοποίησης. Πέρα από την εξαίρεση αυτή, η επιλεγμένη μορφοποίηση αναρτήσεων παρακάτω θα είναι η προεπιλογή.';
@@ -947,3 +951,11 @@ $Definition['Display on category page only.'] = 'Εμφάνιση στη σελ�
 $Definition['Use Masonry display'] = 'Χρήση διάταξης Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Για κάθε συζήτηση θα εμφανίζεται μία αναρτημένη εικόνα στη σελίδα Κατηγορίες. Αυτό ισχύει μόνο για τις κατηγορίες με το «Συζητήσεις» στο «Εμφάνιση ως».';
 $Definition['Upload Placeholder Image'] = 'Ανεβάστε Ενδεικτική Εικόνα';
+
+
+
+
+
+
+
+

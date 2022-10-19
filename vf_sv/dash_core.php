@@ -918,6 +918,10 @@ $Definition['Your Password'] = 'Ditt lösenord';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Du lämnar nu ämnesredigeraren utan att ha sparat dina ändringar.
 Se till att dina uppdateringar sparas innan du lämnar.';
 
+$Definition["Mobile Logo"] = "Mobil logotyp";
+$Definition["Banner Image"] = "Bannerbild";
+$Definition["Disable Forum Pages"] = "Inaktivera forumsidor";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Välj textredigerarens standardformat för inlägg i forumet.';
 $Definition['InputFormatter.Notes2'] = 'Textredigeraren identifierar formatet för gamla inlägg när de redigeras och laddar deras ursprungliga formateringsregler. Bortsett från detta undantag kommer det valda inläggsformatet nedan att ha företräde.';
@@ -946,3 +950,11 @@ $Definition['Display on category page only.'] = 'Visa bara på kategorisidan. De
 $Definition['Use Masonry display'] = 'Använd Masonry-display';
 $Definition['Show an uploaded image on the Category page.'] = 'Varje diskussion kommer att visa en uppladdad bild på kategorisidan. Detta gäller bara för kategorier med ”Diskussioner” som ”Visa som”.';
 $Definition['Upload Placeholder Image'] = 'Ladda upp platshållare';
+
+
+
+
+
+
+
+

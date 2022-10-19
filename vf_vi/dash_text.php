@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Bạn phải chọn một tệp để nhập.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Bạn sắp áp dụng một tùy chọn bố cục mới. Điều này có thể được tùy chỉnh và xem trước bằng Trình chỉnh sửa chủ đề của chúng tôi. <0> Tìm hiểu thêm</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Tiêu đề được hiển thị trên trang chủ của bạn. Chọn một tiêu đề mà bạn muốn hiển thị trong công cụ tìm kiếm.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Mô tả trang web thường xuất hiện trong các công cụ tìm kiếm. Bạn nên thử có một mô tả dài từ 100-150 ký tự.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Tiêu đề này xuất hiện trên biểu ngữ của trang web của bạn và trên thanh tiêu đề của trình duyệt. Nó phải có ít hơn 20 ký tự. Nếu một biểu trưng được tải lên, nó sẽ thay thế tiêu đề này trên các trang diễn đàn giao diện người dùng. Ngoài ra, hãy nhớ một số chủ đề có thể ẩn tiêu đề này.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Tên tổ chức của bạn được dùng cho microdata SEO và JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Biểu trưng này xuất hiện ở đầu trang web của bạn. Chủ đề được tạo bằng trình chỉnh sửa chủ đề và một số chủ đề tùy chỉnh không sử dụng cài đặt này.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Biểu trưng di động xuất hiện ở đầu trang web của bạn. Chủ đề được tạo bằng trình chỉnh sửa chủ đề và một số chủ đề tùy chỉnh không sử dụng cài đặt này.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Biểu tượng của website (favicon) của bạn xuất hiện trong thanh tiêu đề của trình duyệt. Biểu tượng này sẽ được thu nhỏ lại một cách thích hợp.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Biểu tượng cảm ứng xuất hiện khi bạn đánh dấu một trang web trên màn hình chính của thiết bị di động. Đây thường là 152 pixel.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Khi ai đó chia sẻ một liên kết từ trang web của bạn, chúng tôi sẽ thử và lấy một hình ảnh từ trang. Nếu không có hình ảnh trên trang thì chúng tôi sẽ sử dụng hình ảnh này để thay thế. Hình ảnh phải có kích thước ít nhất là 50 × 50, nhưng chúng tôi khuyên bạn nên sử dụng 200 × 200.";
+$Definition["Some browsers support a color for the address bar."] = "Một số trình duyệt hỗ trợ màu cho thanh địa chỉ.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Cài đặt này tải trang trước khi thực thi Javascript, điều này có thể cải thiện SEO của bạn.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "** Cảnh báo: Bật tính năng này có thể gây ra lỗi Javascript trên trang web của bạn. **";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Xóa các liên kết thảo luận và danh mục khỏi menu. Đặt các trang liên quan đến thảo luận và danh mục để trả về trang 404 không tìm thấy.";
+
+
+
 ///
 /// Theming UI
 ///

@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Kufanele ukhethe ifayela elizolingenisa.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Usuzosebenzisa inketho yesakhiwo esisha. Lokhu kungenziwa ngokwezifiso futhi kubukwe kuqala kusetshenziswa i-Theme Editor yethu. <0>Funda kabanzi</0>.';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Isihloko sekhasi eliyisiqalo siboniswa ekhasini lakho lasekhaya. Khetha isihloko ongathanda ukusibona sivela ezinjinini zokusesha.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Incazelo yesayithi ivamise ukuvela ezinjinini zokusesha. Kufanele uzame ukuba nencazelo enezinhlamvu ezingu-100-150 ubude.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Lesi sihloko sivela kusibhengezo sesayithi lakho nakubha yesihloko yesiphequluli sakho. Kufanele ibe nezinhlamvu ezingaphansi kwezingu-20. Uma ilogo ilayishiwe, izongena esikhundleni salesi sihloko emakhasini enkundla abheke umsebenzisi. Futhi, khumbula ukuthi ezinye izingqikithi zingafihla lesi sihloko.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Igama lenhlangano yakho lisetshenziselwa i-SEO microdata kanye ne-JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Le logo ivela phezulu kusayithi lakho. Amatimu enziwe ngomhleli wetimu namanye amatimu angokwezifiso awasebenzisi lesi silungiselelo.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Ilogo yeselula ivela phezulu kusayithi lakho. Amatimu enziwe ngomhleli wetimu namanye amatimu angokwezifiso awasebenzisi lesi silungiselelo.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "I-favicon yesayithi lakho ivela kubha yesihloko yesiphequluli sakho. Izokwehliswa ngokufanelekile.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Isithonjana sokuthinta sivela uma ubhukhimaka iwebhusayithi esikrinini sasekhaya sedivayisi ephathwayo. Ngokuvamile lawa amaphikseli angu-152.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Uma othile abelana ngesixhumanisi esisuka kusayithi lakho siyazama ukuthi sithathe isithombe ekhasini. Uma singekho isithombe ekhasini sizosebenzisa lesi sithombe kunalokho. Isithombe kufanele okungenani sibe ngu-50×50, kodwa sincoma u-200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Ezinye iziphequluli zisekela umbala webha yekheli.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Lesi silungiselelo silayisha ikhasi ngaphambi kokusebenzisa i-Javascript engathuthukisa i-SEO yakho.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Isexwayiso: Ukunika amandla lesi sici kungase kubangele amaphutha e-Javascript kusayithi lakho.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Susa izixhumanisi zengxoxo nezigaba kumamenyu. Setha ingxoxo kanye namakhasi ahlobene nesigaba ukuze ubuyiselwe awatholakalanga ikhasi 404.";
+
+
+
 ///
 /// Theming UI
 ///

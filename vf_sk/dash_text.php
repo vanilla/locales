@@ -273,6 +273,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Musíte vybrať súbor na importovanie.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Chystáte sa použiť novú možnosť rozloženia. Toto je možné prispôsobiť a zobraziť ukážku pomocou nášho editora tém. <0> Viac informácií</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Názov domovskej stránky sa zobrazí na vašej domovskej stránke. Vyberte si taký názov, ktorý by ste radi videli vo vyhľadávačoch.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Popis stránky sa zvyčajne zobrazuje vo vyhľadávačoch. Mali by ste skúsiť mať popis dlhý 100 – 150 znakov.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Tento názov sa zobrazí na banneri vašej stránky a v záhlaví vášho prehliadača. Mal by mať menej ako 20 znakov. Ak je nahrané logo, nahradí tento názov na používateľských stránkach fóra. Majte tiež na pamäti, že niektoré témy môžu skrývať tento názov.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Názov vašej organizácie sa používa na mikrodáta SEO a SON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Toto logo sa zobrazuje v hornej časti vašej stránky. Témy vytvorené pomocou editora tém a niektoré vlastné témy toto nastavenie nepoužívajú.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Mobilné logo sa zobrazuje v hornej časti vašej stránky. Témy vytvorené pomocou editora tém a niektoré vlastné témy toto nastavenie nepoužívajú.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Favicon vašej stránky sa zobrazí v záhlaví prehliadača. Primerane sa zmenší.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Dotyková ikona sa zobrazí, keď si webovú stránku uložíte medzi záložky na domovskej obrazovke mobilného zariadenia. Zvyčajne ide o 152 pixelov.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Keď niekto zdieľa odkaz z vašej stránky, pokúsime sa získať obrázok zo stránky. Ak na stránke nie je obrázok, použijeme namiesto neho tento obrázok. Obrázok by mal mať aspoň 50×50, ale odporúčame 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Niektoré prehliadače podporujú farbu panela s adresou.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Toto nastavenie načíta stránku pred spustením JavaScriptu, čo môže zlepšiť vaše SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Upozornenie: Povolenie tejto funkcie môže spôsobiť chyby JavaScriptu na vašom webe.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Odstráňte odkazy na diskusie a kategórie z ponúk. Nastaviť stránky súvisiace s diskusiou a kategóriou tak, aby sa vrátila stránka nenájdená 404.";
+
+
+
 ///
 /// Theming UI
 ///

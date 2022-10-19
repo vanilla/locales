@@ -272,6 +272,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'インポートするファイルを選択してください。';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = '新しいレイアウトオプションを適用しようとしています。これは、テーマエディタを使用してカスタマイズおよびプレビューできます。 <0>詳細</0>。';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "サイトの説明は通常、検索エンジン内に表示されます。説明文は100〜150文字に収めるようにする必要があります。";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "このタイトルはあなたのサイトのバナーと、ご利用のブラウザのタイトルバーに表示されますので、20文字未満にする必要があります。ロゴがアップロードされると、ユーザー側のフォーラムページ上のこのタイトルがそれに置き換えられます。 また、このタイトルを隠してしまうテーマも一部ございますのでご注意ください。";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "あなたの組織名は、SEO microdataおよびJSON+LDに使用されます";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "このロゴはあなたのサイトの上部に表示されます。テーマエディターで作成されたテーマと、一部のカスタムテーマではこの設定は使用されません。";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "モバイルロゴは、あなたのサイトの上部に表示されます。テーマエディタで作成されたテーマと、一部のカスタムテーマではこの設定は使用されません。";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "サイトのファビコンが、ブラウザのタイトルバーに表示されます。ファビコンは適切に縮小されます。";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "モバイル端末のホーム画面上でウェブサイトをブックマークすると、タッチアイコンが表示されます。これらは通常152ピクセルです。";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "誰かがあなたのサイトからリンクを共有すると、私たちはそのページから画像を取り込もうとします。ページに画像がない場合は、代わりにこの画像を使用します。画像は少なくとも50ｘ50である必要があり、200ｘ200をお勧めします。";
+$Definition["Some browsers support a color for the address bar."] = "一部のブラウザーでは、アドレスバーは一色のみの対応となります。";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "この設定では、SEO対策の改善に役立つJavaスクリプトを実行する前に当該ページがロードされます。";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**警告：この機能を有効にすると、あなたのサイトでJavaスクリプトのエラーが発生する場合があります。**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "メニューからディスカッションとカテゴリーのリンクを削除してください。「not found page 404」のメッセージを返すには、ディスカッションとカテゴリに関するページを設定してください。";
+
+
+
 ///
 /// Theming UI
 ///

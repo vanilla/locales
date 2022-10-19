@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'درآمد کے ل You آپ کو ایک فائل کا انتخاب کرنا چاہئے۔';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'آپ ایک نیا لے آؤٹ آپشن لاگو کرنے والے ہیں۔ ہمارے تھیم ایڈیٹر کا استعمال کرتے ہوئے اسے اپنی مرضی کے مطابق اور پیش نظارہ کیا جاسکتا ہے۔ <0> مزید جانیں</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "ہوم پیج کا عنوان آپ کے ہوم پیج پر ظاہر ہوتا ہے۔ ایک ایسا عنوان منتخب کریں جسے آپ سرچ انجنوں میں دیکھنا چاہتے ہیں۔";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "سائٹ کی تفصیل عام طور پر سرچ انجنوں میں ظاہر ہوتی ہے۔ آپ کو 100-150 حروف کی تفصیل رکھنے کی کوشش کرنی چاہیے۔";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "یہ عنوان آپ کی سائٹ کے بینر اور آپ کے براؤزر کے ٹائٹل بار میں ظاہر ہوتا ہے۔ یہ 20 حروف سے کم ہونا چاہیے۔ اگر لوگو اپ لوڈ کیا جاتا ہے، تو یہ اس عنوان کو صارف کے سامنے والے فورم کے صفحات پر بدل دے گا۔ اس کے علاوہ، ذہن میں رکھیں کہ کچھ موضوعات اس عنوان کو چھپا سکتے ہیں۔";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "آپ کی تنظیم کا نام SEO مائیکرو ڈیٹا اور JSON+LD کے لیے استعمال کیا جاتا ہے۔";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "یہ لوگو آپ کی سائٹ کے اوپری حصے میں ظاہر ہوتا ہے۔ تھیم ایڈیٹر کے ساتھ بنائی گئی تھیمز اور کچھ حسب ضرورت تھیمز اس ترتیب کو استعمال نہیں کرتے ہیں۔";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "موبائل لوگو آپ کی سائٹ کے اوپری حصے میں ظاہر ہوتا ہے۔ تھیم ایڈیٹر کے ساتھ بنائی گئی تھیمز اور کچھ حسب ضرورت تھیمز اس ترتیب کو استعمال نہیں کرتے ہیں۔";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "آپ کی سائٹ کا فیویکن آپ کے براؤزر کے ٹائٹل بار میں ظاہر ہوتا ہے۔ اسے مناسب طریقے سے کم کیا جائے گا۔";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "جب آپ موبائل ڈیوائس کی ہوم اسکرین پر کسی ویب سائٹ کو بک مارک کرتے ہیں تو ٹچ آئیکن ظاہر ہوتا ہے۔ یہ عام طور پر 152 پکسلز ہوتے ہیں۔";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "جب کوئی آپ کی سائٹ سے کوئی لنک شیئر کرتا ہے تو ہم کوشش کرتے ہیں کہ صفحہ سے ایک تصویر حاصل کریں۔ اگر صفحہ پر کوئی تصویر نہیں ہے تو ہم اس تصویر کو استعمال کریں گے۔ تصویر کم از کم 50×50 ہونی چاہیے، لیکن ہم 200×200 کی تجویز کرتے ہیں۔";
+$Definition["Some browsers support a color for the address bar."] = "کچھ براؤزر ایڈریس بار کے لیے رنگ کی حمایت کرتے ہیں۔";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "یہ ترتیب جاوا اسکرپٹ کو چلانے سے پہلے صفحہ کو لوڈ کرتی ہے جو آپ کے SEO کو بہتر بنا سکتی ہے۔";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**انتباہ: اس خصوصیت کو فعال کرنے سے آپ کی سائٹ پر جاوا اسکرپٹ کی خرابیاں ہوسکتی ہیں۔**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "مینو سے بحث اور زمرہ جات کے لنکس کو ہٹا دیں۔ نہ ملا صفحہ 404 واپس کرنے کے لیے بحث اور زمرہ سے متعلق صفحات سیٹ کریں۔";
+
+
+
 ///
 /// Theming UI
 ///

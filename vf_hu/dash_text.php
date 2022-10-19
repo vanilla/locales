@@ -271,6 +271,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Meg kell adnod egy file-t az importáláshoz..';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Új elrendezési beállítás alkalmazása előtt áll. Ez személyre szabható és előnézeti a Téma szerkesztő segítségével. <0> További információ</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "A kezdőlap címe megjelenik a kezdőlapon. Válassz olyan címet, amit a keresőoldalakon is látni szeretnél.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "A webhely leírása általában megjelenik a keresőkben. Próbáljon 100-150 karakter hosszúságú leírást készíteni.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Ez a cím megjelenik webhelye szalaghirdetésén és böngészője címsorában. 20 karakternél rövidebbnek kell lennie. Ha feltöltött emblémát, az ezt a címet fogja felváltani a felhasználóknak szánt fórumoldalakon. Ne feledje továbbá, hogy egyes témák elrejthetik ezt a címet.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Az ön szervezetének nevét a SEO mikroadatokhoz és a JSON+LD-hez használják";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Ez az embléma a webhely tetején jelenik meg. A témaszerkesztővel készített témák és egyes egyéni témák nem használják ezt a beállítást.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "A mobil embléma megjelenik a webhely tetején. A témaszerkesztővel készített témák és egyes egyéni témák nem használják ezt a beállítást.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Az ön webhelyének ikonja megjelenik a böngésző címsorában. Megfelelően kicsinyítésre kerül.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Az érintő ikon akkor jelenik meg, ha egy webhelyet könyvjelzővel lát el egy mobileszköz kezdőképernyőjén. Ezek általában 152 pixelesek.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Amikor valaki megoszt egy linket az Ön webhelyéről, megpróbálunk képet készíteni az oldalról. Ha nincs kép az oldalon, akkor ezt a képet használjuk helyette. A képnek legalább 50×50-esnek kell lennie, de javasoljuk a 200×200-ast.";
+$Definition["Some browsers support a color for the address bar."] = "Egyes böngészők támogatják a címsáv színét.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Ez a beállítás betölti az oldalt a Javascript futtatása előtt, ami javíthatja a keresőoptimalizálást.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Figyelmeztetés: A funkció engedélyezése Javascript-hibákat okozhat webhelyén.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Távolítsa el a beszélgetésekre és a kategóriákra mutató hivatkozásokat a menükből. A vitához és a kategóriákhoz kapcsolódó oldalak beállítása a nem található 404. oldal visszaállításához.";
+
+
+
 ///
 /// Theming UI
 ///

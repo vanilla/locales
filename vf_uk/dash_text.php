@@ -270,6 +270,22 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Ви повинні вибрати файл для імпорту.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Ви збираєтесь застосувати новий параметр макета. Це можна налаштувати та попередньо переглянути за допомогою нашого редактора тем. <0> Докладніше</0> .';
 
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Опис сайту зазвичай з'являється в пошукових системах. Ви повинні спробувати створити опис довжиною 100-150 символів.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Ця назва відображається на банері вашого сайту та в рядку заголовка вашого браузера. Він має містити менше 20 символів. Якщо завантажено логотип, він замінить цей заголовок на сторінках форуму для користувачів. Також майте на увазі, що деякі теми можуть приховувати цю назву.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Назва вашої організації використовується для мікроданих SEO та JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Цей логотип відображається у верхній частині вашого сайту. Теми, створені за допомогою редактора тем, і деякі спеціальні теми не використовують цей параметр.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Мобільний логотип з’являється у верхній частині вашого сайту. Теми, створені за допомогою редактора тем, і деякі спеціальні теми не використовують цей параметр.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Піктограма твого сайту розташовується у рядку заголовка браузера. Її розмір буде зменшено відповідним чином.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Піктограма дотику з’являється, коли ви додаєте веб-сайт у закладки на головному екрані мобільного пристрою. Зазвичай це 152 пікселя.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Коли хтось ділиться посиланням із вашого сайту, ми намагаємося отримати зображення зі сторінки. Якщо на сторінці немає зображення, ми використаємо це зображення. Зображення має бути не менше 50×50, але ми рекомендуємо 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Деякі браузери підтримують колір адресного рядка.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Цей параметр завантажує сторінку перед виконанням Javascript, що може покращити ваше SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Попередження: увімкнення цієї функції може спричинити помилки Javascript на вашому сайті.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Видаліть посилання на обговорення та категорії з меню. Встановіть пов’язані сторінки з обговоренням і категоріями, щоб повернути сторінку 404, яка не знайдена.";
+
+
+
 ///
 /// Theming UI
 ///

@@ -917,6 +917,10 @@ $Definition['Your invitations were sent successfully.'] = 'Đã gửi thành cô
 $Definition['Your Password'] = 'Mật khẩu của Bạn';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Bạn đang rời khỏi trình chỉnh sửa chủ đề mà không lưu các thay đổi của bạn. Hãy chắc chắn rằng các cập nhật của bạn được lưu trước khi thoát.';
 
+$Definition["Mobile Logo"] = "Biểu trưng di động";
+$Definition["Banner Image"] = "Hình ảnh biểu ngữ";
+$Definition["Disable Forum Pages"] = "Tắt các trang diễn đàn";
+
 // Posting settings
 $Definition['InputFormatter.Notes1'] = 'Chọn định dạng mặc định của trình soạn thảo cho các bài đăng trong cộng đồng.';
 $Definition['InputFormatter.Notes2'] = 'Trình soạn thảo sẽ tự động phát hiện định dạng của các bài đăng cũ khi soạn thảo chúng, và tải các quy tắc định dạng gốc của chúng. Ngoài ngoại lệ này, định dạng bài đăng đã chọn dưới đây sẽ được ưu tiên áp dụng.';
@@ -945,3 +949,11 @@ $Definition['Display on category page only.'] = 'Chỉ hiển thị trong trang 
 $Definition['Use Masonry display'] = 'Sử dụng hiển thị Masonry';
 $Definition['Show an uploaded image on the Category page.'] = 'Mỗi cuộc thảo luận sẽ hiển thị ảnh đã tải lên trong trang Danh mục. Thiết lập này chỉ áp dụng cho danh mục có "Thảo luận" dưới dạng "Hiển thị dưới dạng".';
 $Definition['Upload Placeholder Image'] = 'Tải ảnh giữ chỗ lên';
+
+
+
+
+
+
+
+
