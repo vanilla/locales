@@ -886,6 +886,7 @@ $Definition['I remember now!'] = 'I remember now!';
 $Definition['Italic'] = 'Italic';
 $Definition['Item'] = 'Item';
 $Definition['item'] = 'item';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'It looks like you\'re new here. Sign in or register to get started.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'It looks like you\'re new here. If you want to get involved, click one of these buttons!';
 $Definition['Jail'] = 'Jail';
 $Definition['Jailed users have reduced abilities.'] = 'Jailed users have reduced abilities.';
@@ -911,6 +912,7 @@ $Definition['Keep User Content'] = 'Keep User Content';
 $Definition["Kilobyte"] = "Kilobyte";
 
 $Definition['Label'] = 'Label';
+$Definition['Languages'] = 'Languages';
 $Definition['Last Active'] = 'Last Active';
 $Definition['Last Commented'] = 'Last Commented';
 $Definition['Last IP'] = 'Last IP';
