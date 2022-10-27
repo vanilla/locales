@@ -778,7 +778,7 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} izbačen {ActivityUse
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} je komentarisao na <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} poslao vam je <a href="{Url,html}">poruku</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Započeo je novu diskusiju. <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Discussion.Idea'] = '{АцтивитиУсерИД,усер} је покренуо нову идеју у {Дата.Цатегори}: <a href="{Url,html}">{Дата.Наме,тект}</a>';
+$Definition['HeadlineFormat.Discussion.Idea'] = ' {ActivityUserID,user} је покренуо нову идеју у {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} је започео нову анкету у категорији {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} је поставио ново питање у {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} te je spomenuo u <a href="{Url,html}">{Data.Name,text}</a>';
@@ -887,6 +887,7 @@ $Definition['I remember now!'] = 'Sada sam upamtio!';
 $Definition['Italic'] = 'kurziv';
 $Definition['Item'] = 'Stavka';
 $Definition['item'] = 'stavka';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Изгледа да сте нови овде. Пријавите се или региструјте да бисте започели.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Izgleda da ste novi ovde. Ukoliko želite da se uključite, kliknite na neko od ovih dugmića.';
 $Definition['Jail'] = 'Zatvor';
 $Definition['Jailed users have reduced abilities.'] = 'Zatvoreni korisnici imaju smanjene mogućnosti.';
@@ -912,6 +913,7 @@ $Definition['Keep User Content'] = 'Zadrži korisnički sadržaj';
 $Definition["Kilobyte"] = "Kilobajt";
 
 $Definition['Label'] = 'Etiketa';
+$Definition['Languages'] = 'Језици';
 $Definition['Last Active'] = 'Poslednja aktivnost';
 $Definition['Last Commented'] = 'Последњи коментар';
 $Definition['Last IP'] = 'Poslednja IP adresa';
