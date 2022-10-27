@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s o ngwadile ka %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s e dumeletšwe %2$s kgopelo ya go ba leloko.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s e hlamile akhaonte ya %1$s.';
 $Definition['%s (Current)'] = '%s (Gona bjale)';
-$Definition['%s activities'] = '%s mediro';
-$Definition['%s activity'] = '%s mošomo';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Tlholo ya Akhaonto ya Foramo';
 $Definition['%s Agrees'] = '%s O a dumela';
 $Definition['%s and %s others'] = '%s le %s ba bangwe';
 $Definition['%s and you'] = '%s le wena';
@@ -234,6 +234,7 @@ $Definition['Already Offered'] = 'E šetše go Fanwe';
 $Definition['Already Warned'] = 'O Lemošitšwe';
 $Definition['Also banned for the following:'] = 'Le yona e thibetšwe ka mabaka a latelago:';
 $Definition['Also delete this user\'s content.'] = 'Phumola gape le dilo tša modiriši yo.';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Sengwalwa se sengwe se thuša badiriši bao ba nago le matshwenyego a phihlelelo le go kaonafatša SEO.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Molaetša o rometšwe atereseng ya gago ya imeile le ditaelo tša go bušetša phasewete sekeng.';
 $Definition['Analytics'] = 'Nyakišišo';
 $Definition['An archived file or files'] = 'Faele goba difaele tše di lego bobolekelong';
@@ -921,6 +922,9 @@ $Definition['Joined %s'] = 'Tladitše %s';
 $Definition['Join this Community Now'] = 'Tsenela Tikologo ye Gona Bjale';
 $Definition['Join this Group'] = 'Tsenela Sehlopha se';
 $Definition['Join this group to view its content.'] = 'Tsenela sehlopha se gore o bone diteng tša gona.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Tshelela ka kua ga lelokelelo la di emoji, go dikhathakori tša di emoji.';
+$Definition['Jump to a specific page'] = 'Tlolela letlakaleng le le itšego';
+$Definition['Jump to first tracked post.'] = 'Tshelela phoustong ya mathomo threkilwego.';
 $Definition['Jumped to emoji category: '] = 'Tshelela khathakoring ya emoji: ';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Tshelela ka kua ga lelokelelo la di emoji, go dikhathakori tša di emoji.';
 $Definition['Jump to a specific page'] = 'Tlolela letlakaleng le le itšego';
@@ -2089,4 +2093,111 @@ $Definition['You were added to a conversation.'] = '{InsertUserID,user} go tsent
 $Definition['You will receive a notification when you are accepted.'] = 'O tla amogela tsebišo ge o amogetšwe.';
 $Definition['You wrote:'] = 'O ngwadile:';
 
-$Definition['{Username} has requested to join {Group}.'] = '{Leina la mosediriši} le kgopetše go tsenela {Sehlopha}.';
+$Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Fiša";
+$Definition["Most Helpful"] = "Go Thuša kudu";
+$Definition["Recently Active"] = "E sa tšwa go ba Mafolofolo";
+$Definition["Oldest Members"] = "Maloko a Kgale kudu";
+$Definition["Newest Members"] = "Maloko a Maswa";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'Mongwadi wa Mongwalo o Humilego.';
+$Definition['richEditor.description.paragraphMenu'] = 'Go ngwala mohuta wa serapa, kgotla tab go ya go menu wa serapa. Go tloga moo o tla kgona go kgetha mohuta o tee. Ga go na seo se sa fetogego go serapa.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'Menu wa mongwalo o tla bonagala ge o kgetha mongwalo. Kgotla tab gore o fihle go menu woo.';
+$Definition['richEditor.description.embed'] = 'Dilo tše dingwe tše bjalo ka ome diembed, Diswantšho, dipontšho tšeo di loudago, le melaetša ya diphošo di ka tsenywa ka go mongwadi. O ka ya go tšona o diriša maswao a ao a lego ka go mongwadi gomme o ka di phumola o diriša konotswana ya phumola goba backspace.';
+$Definition['richEditor.externalEmbed.description'] = 'Ye ke embed. E ka phumolwa go dirišwa konotswana ya phumola goba ya go boela morago. Kgotla thepo gore o tene go dikgetho tša embed.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Diriša dishortcut tša keyboard e lego "page up" le "page down" go dikologa dikhathakori tšeo di lego gona ge menu wa emoji o butšwe.';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'Menu wa Fomete ya Mongwalo';
+$Definition['Format as Bold'] = 'Fometa ka Bokoto';
+$Definition['Bold'] = 'Ntsho';
+$Definition['Format as Italic'] = 'Fometa ka Mosekamo';
+$Definition['Italic'] = 'Sekame';
+$Definition['Format as Strikethrough'] = 'Fometa ka go Betha';
+$Definition['Strikethrough'] = 'Phumola';
+$Definition['Format as Inline Code'] = 'Fometa ka Khouto ya Inline ';
+$Definition['Paragraph Code Block'] = 'Bloko ya Khouto';
+$Definition['Parent'] = 'Motswadi';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Serapa (Tloša mohuta wa serapa gomme o se dire serapa sa go se be le selo)';
+$Definition['Code Block'] = 'Bloko ya Khouto';
+$Definition['Format as Link'] = 'Fometa ka Linki';
+$Definition['Link'] = 'Linki';
+$Definition['Insert Url'] = 'Tsenya Url';
+$Definition['Paste or type a link…'] = 'Tsenya goba ngwala linki…';
+$Definition['Close'] = 'Tswalela';
+$Definition['Line Level Formatting Menu'] = 'Menu wa go Fometa Serapa';
+$Definition['Paragraph'] = 'Serapa';
+$Definition['Format as Paragraph'] = 'Fometa ka serapa se se tlwaelegilego';
+$Definition['Subtitle'] = 'Sehlogwana';
+$Definition['Format as Title'] = 'Fometa ka Sehlogo';
+$Definition['Sub Subtitle'] = 'Sehlogwanyana';
+$Definition['Format as Subtitle'] = 'Fometa ka Sehlogwana';
+$Definition['Quote'] = 'Tsopolo';
+$Definition['Format as blockquote'] = 'Fometa ka blockquote';
+$Definition['Format as code block'] = 'Fometa ka bloko ya khouto';
+$Definition['Spoiler'] = 'Sekgabiši';
+$Definition['Format as spoiler'] = 'Fometa ka spoiler';
+$Definition['Inline Menu Available'] = 'Menu o a Hwetšagala';
+
+// Emoji Picker
+$Definition['Emoji'] = 'Emoji';
+$Definition['Emojis'] = 'Diemoji';
+$Definition['Insert an emoji in your message.'] = 'Tsenya emoji molaetšeng wa gago.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Tshelela ka kua ga lelokelelo la di emoji, go dikhathakori tša di emoji.';
+$Definition['Emoji Categories'] = 'Mehuta ya di Emoji ';
+$Definition['Jump to emoji category: %s'] = 'Tshelela khathakoring ya emoji: %s';
+$Definition['In emoji category: %s'] = 'Ka khathakoring ya emoji: %s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'Dismiley le Batho';
+$Definition['Animals & Nature'] = 'Diphoofolo le Tlhago';
+$Definition['Food & Drink'] = 'Dijo le Dino';
+$Definition['Travel & Places'] = 'Go tšea Leeto le Mafelo';
+$Definition['Activities'] = 'Mediro';
+$Definition['Objects'] = 'Dilo';
+$Definition['Symbols'] = 'Maswao';
+$Definition['Flags'] = 'Difolaga';
+
+// Media Insertion
+$Definition['Image'] = 'Seswantšho';
+$Definition['Insert Media'] = 'Tsenya Media';
+$Definition['Paste the URL of the media you want.'] = 'Tsenya URL ya media yeo o e nyakago.';
+$Definition['Embed'] = 'Embed';
+$Definition['Error'] = 'Phošo';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'Toggle Tsopolo';
+$Definition['Spoiler Warning'] = 'Temošo ya Spoiler ';
+
+// Image Size & placement
+$Definition['Float Left'] = 'Phaphamala ka go Le letshadi';
+$Definition['Float left'] = 'Phaphamala ka go Le letshadi';
+$Definition['Centered'] = 'E tsepame';
+$Definition['Float Right'] = 'Phaphamala ka go le letona';
+$Definition['Float right'] = 'Phaphamala ka go le letona';
+$Definition['Small'] = 'Nnyane';
+$Definition['Medium'] = 'Dirišwago';
+$Definition['Large'] = 'Kgolo';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Swarelela';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s bakeng sa poledišano: "%s"';
+$Definition['%s for category: "%s"'] = '%s ya magoro: "%s"';
+$Definition['%s comment by user: "%s"'] = '%s e ngwadilwe ke mošomiši: "%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'Mošomiši "%s" o thomile poledišano "%s" ka letšatši%s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Morago bjale o ngwadile ka letšatši la %s, poledišanong "%s", ka mošomiši "%s"';
+$Definition['%s for category: "%s"'] = '%s ya magoro: "%s"';
+$Definition['Category: "%s"'] = 'Legoro: "%s"';
+$Definition['User: "%s"'] = 'Mošomiši: "%s"';
+$Definition['Group: "%s"'] = 'Sehlopha: "%s"';
+$Definition['Global Navigation'] = 'Go Sepelasepela';
+$Definition['Skip to content'] = 'Tlolela go diteng';
+
+// KB Articles
+$Definition["Read More"] = "Bala ka botlalo";

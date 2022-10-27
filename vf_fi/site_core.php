@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s kirjoitti %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s hyväksyi jäsenen %2$s rekisteröitymisen.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s loi käyttäjätilin jäsenelle %1$s.';
 $Definition['%s (Current)'] = '%s (Nykyinen)';
-$Definition['%s activities'] = '%s -toiminnot';
-$Definition['%s activity'] = '%s-aktiivisuus';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Foorumitilin luominen';
 $Definition['%s Agrees'] = '%s hyväksyntää';
 $Definition['%s and %s others'] = '%s ja %s muita';
 $Definition['%s and you'] = '%s ja sinä';
@@ -237,6 +237,7 @@ $Definition['Already Offered'] = 'Jo tarjottu';
 $Definition['Already Warned'] = 'Valmiiksi varoitettu';
 $Definition['Also banned for the following:'] = 'Estetty myös seuraavista syistä:';
 $Definition['Also delete this user\'s content.'] = 'Poista myös tämän käyttäjän sisältö.';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Vaihtoehtoinen teksti auttaa käyttäjiä esteettömyysongelmissa ja parantaa hakukoneoptimointia.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Sähköpostiosoitteeseesi on lähetty viesti, jossa on ohjeet salasanan vaihtamiseen.';
 $Definition['Analytics'] = 'Analytiikka';
 $Definition['An archived file or files'] = 'Arkistoitu tiedosto tai arkistoidut tiedostut';
@@ -931,6 +932,9 @@ $Definition['Joined %s'] = 'Liity %s';
 $Definition['Join this Community Now'] = 'Liity nyt tähän yhteisöön';
 $Definition['Join this Group'] = 'Liity ryhmään.';
 $Definition['Join this group to view its content.'] = 'Sinun täytyy liittyä tähän ryhmään nähdäksesi sen tuottaman sisällön.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Hyppää emoji-listan ohi emoji-kategorioihin.';
+$Definition['Jump to a specific page'] = 'Siirry tietylle sivulle';
+$Definition['Jump to first tracked post.'] = 'Siirry ensimmäiseksi haettuun viestiin.';
 $Definition['Jumped to emoji category: '] = 'Hyppäsi emoji-kategoriaan:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Hyppää emoji-listan ohi emoji-kategorioihin.';
 $Definition['Jump to a specific page'] = 'Siirry tietylle sivulle';
@@ -2098,4 +2102,109 @@ $Definition['yyyy-mm-dd'] = 'vvvv-kk-pp';
 
 $Definition['Zip'] = 'Pakkaa';
 
-$Definition['{Username} has requested to join {Group}.'] = '{Username} on pyytänyt liittymistä ryhmään {Group}.';
+$Definition["Hot"] = "Kuuma";
+$Definition["Most Helpful"] = "Hyödyllisin";
+$Definition["Recently Active"] = "Äskettäin aktiivinen";
+$Definition["Oldest Members"] = "Vanhimmat jäsenet";
+$Definition["Newest Members"] = "Uusimmat jäsenet";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'Rich Text -editori.';
+$Definition['richEditor.description.paragraphMenu'] = 'Voit muokata kappaleen tyyliä painamalla välilehdestä, josta pääset kappalevalikkoon. Sieltä voit valita tyylin. Mikään ei oletusarvoisesti ole kappale.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'Inline-alustusvalikko tulee näkyville, kun valitset tekstin. Paina välilehteä päästäksesi siihen valikkoon.';
+$Definition['richEditor.description.embed'] = 'Jotkut elementit, kuten runsaat linkkiupotukset, kuvat, latausosoittimet, ja virheviestit saatetaan lisätä editoriin. Voit selata niitä käyttämällä nuolinäppäimiä editorissa ja poistaa ne delete-näppäimellä tai backspace-näppäimellä.';
+$Definition['richEditor.externalEmbed.description'] = 'Tämä on upotus. Voit poistaa sen painamalla delete- tai backspace-näppäintä. Paina sarkainta siirtyäksesi upotusasetuksiin.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Käytä pikanäppäimiä "Page Up" ja "Page Down" selataksesi eri kategorioita valikon ollessa auki.';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'Inline-tason muotoiluvalikko';
+$Definition['Format as Bold'] = 'Muotoile lihavoiduksi';
+$Definition['Bold'] = 'Rohkea';
+$Definition['Format as Italic'] = 'Muotoile kursivoiduksi';
+$Definition['Italic'] = 'Kursiivi';
+$Definition['Format as Strikethrough'] = 'Muotoile yliviivatuksi';
+$Definition['Strikethrough'] = 'Läpimurto';
+$Definition['Format as Inline Code'] = 'Muotoile inline-koodiksi';
+$Definition['Paragraph Code Block'] = 'Koodilohko';
+$Definition['Parent'] = 'Vanhempi';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Kappale (poistaa kappaleen tyylin ja asettaa tavallisen kappaleen)';
+$Definition['Code Block'] = 'Koodilohko';
+$Definition['Format as Link'] = 'Muotoile linkiksi';
+$Definition['Link'] = 'Linkki';
+$Definition['Insert Url'] = 'Syötä url ';
+$Definition['Paste or type a link…'] = 'Liitä tai kirjoita linkki...';
+$Definition['Close'] = 'Sulje';
+$Definition['Line Level Formatting Menu'] = 'Rivin tason muotoiluvalikko';
+$Definition['Paragraph'] = 'Jaa osiin';
+$Definition['Format as Paragraph'] = 'Muotoile kappaleeksi';
+$Definition['Subtitle'] = 'Tekstitys';
+$Definition['Format as Title'] = 'Muotoile otsikoksi';
+$Definition['Sub Subtitle'] = 'Alatekstitys';
+$Definition['Format as Subtitle'] = 'Muotoile tekstitykseksi';
+$Definition['Quote'] = 'Lainaus';
+$Definition['Format as blockquote'] = 'Muotoile palkkilainaukseksi';
+$Definition['Format as code block'] = 'Muotoile koodilohkoksi';
+$Definition['Spoiler'] = 'Spoileri';
+$Definition['Format as spoiler'] = 'Muotoile spoileriksi';
+$Definition['Inline Menu Available'] = 'Inline-valikko käytettävissä';
+
+// Emoji Picker
+$Definition['Emoji'] = 'Emoji';
+$Definition['Emojis'] = 'Hymiöt';
+$Definition['Insert an emoji in your message.'] = 'Lisää viestiisi emoji.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Hyppää emoji-listan ohi emoji-kategorioihin.';
+$Definition['Emoji Categories'] = 'Emoji-kategoriat';
+$Definition['Jump to emoji category: %s'] = 'Hyppää emoji-kategoriaan %s';
+$Definition['In emoji category: %s'] = 'Emoji-kategoriassa %s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'Hymiöt & ihmiset';
+$Definition['Animals & Nature'] = 'Eläimet & luonto';
+$Definition['Food & Drink'] = 'Ruoka & juoma';
+$Definition['Travel & Places'] = 'Matkustus & paikat';
+$Definition['Activities'] = 'Tapahtumat';
+$Definition['Objects'] = 'Objektit';
+$Definition['Symbols'] = 'Symbolit';
+$Definition['Flags'] = 'Liput ';
+
+// Media Insertion
+$Definition['Image'] = 'Kuvake';
+$Definition['Insert Media'] = 'Lisää media';
+$Definition['Paste the URL of the media you want.'] = 'Liitä haluamasi median URL.';
+$Definition['Embed'] = 'Upotettu';
+$Definition['Error'] = 'Virhe';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'Vaihda lainaus';
+$Definition['Spoiler Warning'] = 'Spoilerivaroitus';
+
+// Image Size & placement
+$Definition['Float Left'] = 'Kellua vasemmalle';
+$Definition['Float left'] = 'Kellua vasemmalle';
+$Definition['Centered'] = 'Keskitetty';
+$Definition['Float Right'] = 'Kellu oikealle';
+$Definition['Float right'] = 'Kellu oikealle';
+$Definition['Small'] = 'Pieni';
+$Definition['Medium'] = 'Keskikokoinen';
+$Definition['Large'] = 'Suuri';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Paikkamerkki';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s keskusteluun: "%s"';
+$Definition['%s for category: "%s"'] = '%s kategorialle: "%s"';
+$Definition['%s comment by user: "%s"'] = '%s kommentti käyttäjältä: "%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'Käyttäjä "%s" aloitti keskustelun "%s" ajankohtana "%s"';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Uusin kommentti ajankohtana %s keskustelussa "%s" käyttäjältä "%s"';
+$Definition['%s for category: "%s"'] = '%s kategorialle: "%s"';
+$Definition['Category: "%s"'] = 'Kategoria: "%s"';
+$Definition['User: "%s"'] = 'Käyttäjä: "%s"';
+$Definition['Group: "%s"'] = 'Ryhmä: "%s"';
+$Definition['Global Navigation'] = 'Yleinen navigointi';
+$Definition['Skip to content'] = 'Siirry sisältöön';
+
+// KB Articles
+$Definition["Read More"] = "Lue lisää";

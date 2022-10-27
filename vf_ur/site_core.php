@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s نے %4$s %5$s پر لکھا۔';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s نے %2$s کی میمبرشپ کی درخواست منظور کی۔';
 $Definition['%3$s created an account for %1$s.'] = '%3$s نے %1$s کے لئے ایک اکاؤنٹ بنایا۔';
 $Definition['%s (Current)'] = '%s (موجودہ)';
-$Definition['%s activities'] = '%s سرگرمیاں';
-$Definition['%s activity'] = '%s سرگرمی';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] فورم اکاؤنٹ بنانا';
 $Definition['%s Agrees'] = '%s اتفاق کرتا ہے';
 $Definition['%s and %s others'] = '%s اور %s دوسرے';
 $Definition['%s and you'] = '%s اور آپ';
@@ -234,6 +234,7 @@ $Definition['Already Offered'] = 'پہلے ہی پیش کردہ';
 $Definition['Already Warned'] = 'پہلے سے متنبہ کیا گیا';
 $Definition['Also banned for the following:'] = 'درج ذیل کے لئے بھی پابندی عائد کی:';
 $Definition['Also delete this user\'s content.'] = 'اس صارف کے مواد کو بھی حذف کریں۔';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'متبادل متن صارفین کی رسائی کے خدشات میں مدد کرتا ہے اور SEO کو بہتر بناتا ہے۔';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'پاس ورڈ دوبارہ ترتیب دینے کی ہدایات کے ساتھ ایک پیغام آپکی ای میل ایڈریس پر بھیج دیا گیا ہے۔';
 $Definition['Analytics'] = 'تجزیات';
 $Definition['An archived file or files'] = 'محفوظ شدہ دستاویزات والی فائل یا فائلیں';
@@ -923,6 +924,9 @@ $Definition['Joined %s'] = 'شمولیت اختیار کی %s';
 $Definition['Join this Community Now'] = 'یہ کمیونٹی ابھی شامل ہوں';
 $Definition['Join this Group'] = 'اس گروپ میں شامل';
 $Definition['Join this group to view its content.'] = 'اس مواد کو دیکھنے کے لیے اس گروپ میں شامل ہیں ۔';
+$Definition['Jump past emoji list, to emoji categories.'] = 'ایموجی کیٹیگریز میں ، پچھلی ایموجی لسٹ میں جائیں۔';
+$Definition['Jump to a specific page'] = 'ایک مخصوص صفحہ پر جائیں۔';
+$Definition['Jump to first tracked post.'] = 'پہلی ٹریک کردہ پوسٹ پر جائیں۔';
 $Definition['Jumped to emoji category: '] = 'ایموجی کیٹیگری میں گیا:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'ایموجی کیٹیگریز میں ، پچھلی ایموجی لسٹ میں جائیں۔';
 $Definition['Jump to a specific page'] = 'ایک مخصوص صفحہ پر جائیں۔';
@@ -2084,4 +2088,109 @@ $Definition['You wrote:'] = 'آپ نے لکھا:';
 
 $Definition['Zip'] = 'زپ';
 
-$Definition['{Username} has requested to join {Group}.'] = '{Username} نے {Group} میں شامل ہونے کی درخواست کی ہے۔';
+$Definition["Hot"] = "گرم";
+$Definition["Most Helpful"] = "سب سے زیادہ مددگار";
+$Definition["Recently Active"] = "حال ہی میں فعال";
+$Definition["Oldest Members"] = "پرانے ممبران";
+$Definition["Newest Members"] = "تازہ ترین ممبران";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'رچ ٹیکسٹ ایڈیٹر۔';
+$Definition['richEditor.description.paragraphMenu'] = 'پیراگراف کے انداز میں ترمیم کرنے کے لئے ، پیراگراف مینو میں جانے کیلئے ٹیب کو دبائیں۔ وہاں سے آپ ایک انداز منتخب کرسکیں گے۔ پیراگراف سے کچھ بھی نہیں۔'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'جب آپ متن کو منتخب کرتے ہیں تو ایک متن کی شکل دینے کا مینو ظاہر ہوگا۔ اس مینو میں جانے کے لئے ٹیب کو دبائیں۔';
+$Definition['richEditor.description.embed'] = 'کچھ عناصر ، جیسے سرایت ، تصاویر ، بوجھ کے اشارے اور غلطی کے پیغامات ایڈیٹر میں داخل ہوسکتے ہیں۔ آپ ایڈیٹر کے اندر تیر والے بٹنوں کا استعمال کرتے ہوئے ان پر تشریف لے سکتے ہیں اور حذف یا بیک اسپیس کلید کی مدد سے ان کو حذف کرسکتے ہیں۔';
+$Definition['richEditor.externalEmbed.description'] = 'یہ ایک سرایت ہے۔ اسے حذف کی چابی یا بیک اسپیس کلید کا استعمال کرکے خارج کیا جاسکتا ہے۔ ایمبیڈڈ اختیارات میں داخل ہونے کیلئے ٹیب دبائیں۔';
+$Definition['richEditor.emoji.pagingInstructions'] = 'جب ایموجی مینو کھلا ہوا ہو تو دستیاب زمروں میں سائیکل چلانے کے لئے کی بورڈ شارٹ کٹ "پیج اپ" اور "پیج ڈاون" کا استعمال کریں۔';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'ٹیکسٹ فارمیٹ مینو';
+$Definition['Format as Bold'] = 'بولڈ کے طور پر فارمیٹ کریں';
+$Definition['Bold'] = 'بولڈ';
+$Definition['Format as Italic'] = 'Italic کے طور پر فارمیٹ کریں';
+$Definition['Italic'] = 'اٹالک';
+$Definition['Format as Strikethrough'] = 'سٹرائک تھرو کے طور پر فارمیٹ کریں';
+$Definition['Strikethrough'] = 'دروں لکیر';
+$Definition['Format as Inline Code'] = 'ان لائن کوڈ کے طور پر فارمیٹ کریں';
+$Definition['Paragraph Code Block'] = 'کوڈ بلاک';
+$Definition['Parent'] = 'والدین';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'پیراگراف (پیراگراف طرز کو ہٹاتا ہے اور سادہ پیراگراف پر سیٹ کرتا ہے)';
+$Definition['Code Block'] = 'کوڈ بلاک';
+$Definition['Format as Link'] = 'بطور لنک فارمیٹ کریں';
+$Definition['Link'] = 'لنک';
+$Definition['Insert Url'] = 'یو آر ایل داخل کریں';
+$Definition['Paste or type a link…'] = 'کوئی لنک پیسٹ یا ٹائپ کریں…';
+$Definition['Close'] = 'بند کریں';
+$Definition['Line Level Formatting Menu'] = 'پیراگراف فارمیٹ مینو';
+$Definition['Paragraph'] = 'پیراگراف';
+$Definition['Format as Paragraph'] = 'عام پیراگراف کے طور پر فارمیٹ کریں';
+$Definition['Subtitle'] = 'سب ٹائٹل';
+$Definition['Format as Title'] = 'بطور عنوان فارمیٹ کریں';
+$Definition['Sub Subtitle'] = 'ذیلی ذیلی عنوان';
+$Definition['Format as Subtitle'] = 'سب ٹائٹل کے طور پر فارمیٹ کریں';
+$Definition['Quote'] = 'اقتباس';
+$Definition['Format as blockquote'] = 'بلاک کوٹ کے طور پر فارمیٹ کریں';
+$Definition['Format as code block'] = 'کوڈ بلاک کے طور پر فارمیٹ کریں';
+$Definition['Spoiler'] = 'اسپوئلر';
+$Definition['Format as spoiler'] = 'بگاڑنے والے کے طور پر فارمیٹ کریں';
+$Definition['Inline Menu Available'] = 'ان لائن مینو دستیاب ہے';
+
+// Emoji Picker
+$Definition['Emoji'] = 'ایموجی';
+$Definition['Emojis'] = 'ایموجیس';
+$Definition['Insert an emoji in your message.'] = 'اپنے پیغام میں ایک ایموجی داخل کریں۔';
+$Definition['Jump past emoji list, to emoji categories.'] = 'ایموجی کیٹیگریز میں ، پچھلی ایموجی لسٹ میں جائیں۔';
+$Definition['Emoji Categories'] = 'ایموجی زمرے';
+$Definition['Jump to emoji category: %s'] = 'ایموجی زمرہ میں جائیں: %s';
+$Definition['In emoji category: %s'] = 'اموجی قسم میں: %s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'مسکراہٹیں اور لوگ';
+$Definition['Animals & Nature'] = 'جانوروں اور فطرت';
+$Definition['Food & Drink'] = 'فوڈ اینڈ ڈرنک';
+$Definition['Travel & Places'] = 'سفر اور مقامات';
+$Definition['Activities'] = 'سرگرمیاں';
+$Definition['Objects'] = 'اعتراضات';
+$Definition['Symbols'] = 'علامتیں';
+$Definition['Flags'] = 'جھنڈے';
+
+// Media Insertion
+$Definition['Image'] = 'نقش';
+$Definition['Insert Media'] = 'میڈیا داخل کریں';
+$Definition['Paste the URL of the media you want.'] = 'آپ جو میڈیا چاہتے ہیں اس کا URL پیسٹ کریں۔';
+$Definition['Embed'] = 'ایمبیڈ کریں';
+$Definition['Error'] = 'نقص';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'ٹوگل اقتباس';
+$Definition['Spoiler Warning'] = 'سپوئلر انتباہ';
+
+// Image Size & placement
+$Definition['Float Left'] = 'بائیں فلوٹ';
+$Definition['Float left'] = 'بائیں فلوٹ';
+$Definition['Centered'] = 'مرکز';
+$Definition['Float Right'] = 'فلوٹ رائٹ';
+$Definition['Float right'] = 'فلوٹ رائٹ';
+$Definition['Small'] = 'چھوٹا۔';
+$Definition['Medium'] = 'میڈیم';
+$Definition['Large'] = 'بڑا۔';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'پلیس ہولڈر';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s بحث کے لئے: "%s"';
+$Definition['%s for category: "%s"'] = 'زمرہ کے لئے %s: "%s"';
+$Definition['%s comment by user: "%s"'] = '%s صارف کے ذریعہ تبصرہ: "%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'صارف "%s" نے بحث شروع کی "%s" تاریخ کو %s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = '"%s" ، مباحثے میں "%s" ، تاریخ %s پر حالیہ ترین تبصرہ';
+$Definition['%s for category: "%s"'] = 'زمرہ کے لئے %s: "%s"';
+$Definition['Category: "%s"'] = 'زمرہ: "%s"';
+$Definition['User: "%s"'] = 'صارف: "%s"';
+$Definition['Group: "%s"'] = 'گروپ: "%s"';
+$Definition['Global Navigation'] = 'گلوبل نیویگیشن';
+$Definition['Skip to content'] = 'مشمولات پر جائیں';
+
+// KB Articles
+$Definition["Read More"] = "مزید پڑھ";
