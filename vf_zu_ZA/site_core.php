@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = 'U-%1$s ubhale kokuthi %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = 'U-%3$s ugunyaze isicelo sobulungu sika-%2$s.';
 $Definition['%3$s created an account for %1$s.'] = 'U-%3$s wakhele u-%1$s i-akhawunti.';
 $Definition['%s (Current)'] = '%s (Okwamanje)';
-$Definition['%s activities'] = 'imisebenzi %s';
-$Definition['%s activity'] = '%s umsebenzi';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Ukudalwa kwe-akhawunti yeforamu';
 $Definition['%s Agrees'] = 'Ukuvuma Okungu-%s';
 $Definition['%s and %s others'] = '%s kanye %s abanye';
 $Definition['%s and you'] = 'U-%s kanye nawe';
@@ -236,6 +236,7 @@ $Definition['Already Offered'] = 'Sele Kunikelwe';
 $Definition['Already Warned'] = 'Uxwayisiwe Kakade';
 $Definition['Also banned for the following:'] = 'Uvinjiwe futhi kokulandelayo:';
 $Definition['Also delete this user\'s content.'] = 'Futhi susa okuqukethwe kwalo msebenzisi.';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Omunye umbhalo usiza abasebenzisi ngokukhathazeka kokufinyeleleka futhi uthuthukise i-SEO.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Umlayezo uthenyelwe ekhelini lakho le-imeyili uqukethe iziqondiso zokuqamba kabusha iphasiwedi.';
 $Definition['Analytics'] = 'Ukuhlaziya';
 $Definition['An archived file or files'] = 'Ifayela elilondoloziwe noma amafayela';
@@ -927,6 +928,9 @@ $Definition['Joined %s'] = 'Ujoyine %s';
 $Definition['Join this Community Now'] = 'Joyina lo Mphakathi Manje';
 $Definition['Join this Group'] = 'Joyina leli Qembu';
 $Definition['Join this group to view its content.'] = 'Joyina leli qembu ukuze ubuke okuqukethwe kwalo.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Eqa uhlu olwedlule lwe-emoji, ezigabeni ze-emoji.';
+$Definition['Jump to a specific page'] = 'Gxumela ekhasini elithile';
+$Definition['Jump to first tracked post.'] = 'Yeqa kokuthunyelwe kuqala ukulandelelwa.';
 $Definition['Jumped to emoji category: '] = 'Kugxilwe kusigaba se-emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Eqa uhlu olwedlule lwe-emoji, ezigabeni ze-emoji.';
 $Definition['Jump to a specific page'] = 'Gxumela ekhasini elithile';
@@ -2093,4 +2097,109 @@ $Definition['You wrote:'] = 'Ubhale ukuthi:';
 
 $Definition['Zip'] = 'I-Zip';
 
-$Definition['{Username} has requested to join {Group}.'] = '{Username} licele ukujoyina i- {Group}.';
+$Definition["Hot"] = "Kuyashisa";
+$Definition["Most Helpful"] = "Okuwusizo Kakhulu";
+$Definition["Recently Active"] = "Okusanda Kusebenza";
+$Definition["Oldest Members"] = "Amalungu Amadala Kakhulu";
+$Definition["Newest Members"] = "Amalungu Amasha Kakhulu";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'Isihleli Sombhalo Ocebile.';
+$Definition['richEditor.description.paragraphMenu'] = 'Ukuhlela isitayela sesigaba, shaya ithebhu ukuze ufike kumenyu yesigaba. Ukusuka lapho uzokwazi ukukhetha isitayela esisodwa. Akukho okuzenzakalelayo kusigaba.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'Imenyu yokufomatha umbhalo izovela lapho ukhetha umbhalo. Hit ithebhu ukungena kuleyo menyu.';
+$Definition['richEditor.description.embed'] = 'Izinto ezithile, njengokushumeka, izithombe, izinkomba zokulayisha, nemilayezo yephutha zingafakwa kumhleli. Ungahle uye kulawa usebenzisa okhiye bemicibisholo ngaphakathi kwesihleli bese uwasuse ngokhiye wokususa noma emuva.';
+$Definition['richEditor.externalEmbed.description'] = 'Lokhu kukushumeka. Ingasuswa kusetshenziswa ukhiye wokususa noma ukhiye wokubuyela emuva. Cindezela ithebhu ukufaka izinketho zokushumeka.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Sebenzisa izinqamuleli zekhibhodi "ikhasi phezulu" kanye "nekhasi phansi" ukujikeleza ngezigaba ezitholakalayo lapho imenyu ye-emoji ivulekile.';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'Imenyu Yefomethi Yombhalo';
+$Definition['Format as Bold'] = 'Fometha njengo-Bold';
+$Definition['Bold'] = 'Okugqamile';
+$Definition['Format as Italic'] = 'Fometha njenge-Italic';
+$Definition['Italic'] = 'Umalukeke';
+$Definition['Format as Strikethrough'] = 'Fometha njenge-Strikethrough';
+$Definition['Strikethrough'] = 'Hlikihla';
+$Definition['Format as Inline Code'] = 'Fomatha njenge-Inline Code';
+$Definition['Paragraph Code Block'] = 'Ikhodi Yekhodi';
+$Definition['Parent'] = 'Umzali';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Isigaba (Isusa isitayela sesigaba futhi isetha esigabeni esicacile)';
+$Definition['Code Block'] = 'Ikhodi Yekhodi';
+$Definition['Format as Link'] = 'Fometha njengesixhumanisi';
+$Definition['Link'] = 'Xhumanisa';
+$Definition['Insert Url'] = 'Faka i-Url';
+$Definition['Paste or type a link…'] = 'Namathisela noma thayipha isixhumanisi…';
+$Definition['Close'] = 'Vala';
+$Definition['Line Level Formatting Menu'] = 'Imenyu Yefomethi yesigaba';
+$Definition['Paragraph'] = 'Isigaba';
+$Definition['Format as Paragraph'] = 'Fometha njengesigaba esivamile';
+$Definition['Subtitle'] = 'Isihlokwana';
+$Definition['Format as Title'] = 'Fometha njengesihloko';
+$Definition['Sub Subtitle'] = 'Isihlokwana esingezansi';
+$Definition['Format as Subtitle'] = 'Fometha njengesihlokwana';
+$Definition['Quote'] = 'Ingcaphuno';
+$Definition['Format as blockquote'] = 'Fometha njenge-blockquote';
+$Definition['Format as code block'] = 'Fometha njengekhodi yekhodi';
+$Definition['Spoiler'] = 'I-spoiler';
+$Definition['Format as spoiler'] = 'Fometha njengomphangi';
+$Definition['Inline Menu Available'] = 'Imenyu Yangaphakathi';
+
+// Emoji Picker
+$Definition['Emoji'] = 'I-emoji';
+$Definition['Emojis'] = 'I-Emojis';
+$Definition['Insert an emoji in your message.'] = 'Faka i-emoji kumyalezo wakho.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Eqa uhlu olwedlule lwe-emoji, ezigabeni ze-emoji.';
+$Definition['Emoji Categories'] = 'Izigaba ze-Emoji';
+$Definition['Jump to emoji category: %s'] = 'Eqa isigaba se-emoji: %s';
+$Definition['In emoji category: %s'] = 'Isigaba se-emoji: %s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'Amamatheke nabantu';
+$Definition['Animals & Nature'] = 'Izilwane Nemvelo';
+$Definition['Food & Drink'] = 'Ukudla neziphuzo';
+$Definition['Travel & Places'] = 'Ukuvakasha nezindawo';
+$Definition['Activities'] = 'Imisebenzi';
+$Definition['Objects'] = 'Izinhloso';
+$Definition['Symbols'] = 'Izimpawu';
+$Definition['Flags'] = 'Amafulegi';
+
+// Media Insertion
+$Definition['Image'] = 'Umfanekiso';
+$Definition['Insert Media'] = 'Faka Imidiya';
+$Definition['Paste the URL of the media you want.'] = 'Namathisela i-URL yemidiya oyifunayo.';
+$Definition['Embed'] = 'Shumeka';
+$Definition['Error'] = 'Iphutha';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'Guqula Isilinganiso';
+$Definition['Spoiler Warning'] = 'Isexwayiso se-Spoiler';
+
+// Image Size & placement
+$Definition['Float Left'] = 'Nntanta Kwesobunxele';
+$Definition['Float left'] = 'Nntanta Kwesobunxele';
+$Definition['Centered'] = 'Isikhungo';
+$Definition['Float Right'] = 'Nntanta Kwesokudla';
+$Definition['Float right'] = 'Nntanta Kwesokudla';
+$Definition['Small'] = 'Encane';
+$Definition['Medium'] = 'Okulingene';
+$Definition['Large'] = 'Kukhulu';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Isimeli';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s kwengxoxo: "%s"';
+$Definition['%s for category: "%s"'] = '%s kwesigaba: "%s"';
+$Definition['%s comment by user: "%s"'] = '%s ukuphawulwa ngumsebenzisi: "%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'Umsebenzisi "%s" uqale ingxoxo "%s" ngosuku %s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Iningi lamazwana akamuva ngosuku %s, engxoxweni "%s", ngomsebenzisi "%s"';
+$Definition['%s for category: "%s"'] = '%s kwesigaba: "%s"';
+$Definition['Category: "%s"'] = 'Isigaba: "%s"';
+$Definition['User: "%s"'] = 'Umsebenzisi: "%s"';
+$Definition['Group: "%s"'] = 'Iqembu: "%s"';
+$Definition['Global Navigation'] = 'Ukuzulazula Komhlaba';
+$Definition['Skip to content'] = 'Yeqela kokuqukethwe';
+
+// KB Articles
+$Definition["Read More"] = "Funda kabanzi";

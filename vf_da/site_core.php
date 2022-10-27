@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s skrev i %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s godkendte %2$s ansøgning om medlemsskab.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s oprettede en konto for %1$s.';
 $Definition['%s (Current)'] = '%s (nuværende)';
-$Definition['%s activities'] = '%s aktiviteter';
-$Definition['%s activity'] = '%s aktivitet';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Oprettelse af forumkonto';
 $Definition['%s Agrees'] = '%s er enige';
 $Definition['%s and %s others'] = '%s og %s andre';
 $Definition['%s and you'] = '%s og dig';
@@ -235,6 +235,7 @@ $Definition['Already Offered'] = 'Allerede Tilbudt';
 $Definition['Already Warned'] = 'Allerede advaret';
 $Definition['Also banned for the following:'] = 'Også udelukket på grund af det følgende:';
 $Definition['Also delete this user\'s content.'] = 'Slet også denne brugers indhold. ';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Alternativ tekst hjælper brugere med tilgængelighedsproblemer og forbedrer SEO.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'En besked er blevet sendt til din emailadresse med password reset instruktioner.';
 $Definition['Analytics'] = 'Analyser';
 $Definition['An archived file or files'] = 'En arkiveret fil eller filer';
@@ -911,6 +912,9 @@ $Definition['Joined'] = 'Oprettede sig som bruger';
 $Definition['Join this Community Now'] = 'Tilmeld dig dette fællesskab nu';
 $Definition['Join this Group'] = 'Tilmeld dig denne gruppe';
 $Definition['Join this group to view its content.'] = 'Deltag i denne gruppe for at se dens indhold.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Hop forbi emoji-liste, til emoji-kategorier.';
+$Definition['Jump to a specific page'] = 'Hop til en bestemt side';
+$Definition['Jump to first tracked post.'] = 'Gå til den først fundne post.';
 $Definition['Jumped to emoji category: '] = 'Hoppede til emoji-kategori:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Hop forbi emoji-liste, til emoji-kategorier.';
 $Definition['Jump to a specific page'] = 'Hop til en bestemt side';
@@ -2020,4 +2024,111 @@ $Definition['You will receive a notification when you are accepted.'] = 'Du modt
 $Definition['You wrote:'] = 'Du skrev:';
 $Definition['yyyy-mm-dd'] = 'åååå-mm-dd';
 
-$Definition['{Username} has requested to join {Group}.'] = '{Username} har anmodet om at deltage i {Group}.';
+$Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Hed";
+$Definition["Most Helpful"] = "Mest hjælpsomme";
+$Definition["Recently Active"] = "For nylig aktiv";
+$Definition["Oldest Members"] = "Ældste Medlemmer";
+$Definition["Newest Members"] = "Nyeste medlemmer";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'Rich Text-redigeringsværktøj';
+$Definition['richEditor.description.paragraphMenu'] = 'For at rette en paragrafstil skal du trykke tab for at komme til paragrafmenuen. Der vil du kunne vælge en stil. Ingenting er standard for paragraffer. '; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'En inline-formateringsmenu vil vise sig, når du vælger tekst. Tryk tab for at komme ind i den menu.';
+$Definition['richEditor.description.embed'] = 'Nogle elementer, såsom rich link-indlejringer, billeder, loading-indikatorer og fejlbeskeder kan sættes ind i redigeringsværktøjet. Du kan navigere til disse ved hjælp af piletasterne i redigeringsværktøjet og slette dem med delete- eller backspace-knappen. ';
+$Definition['richEditor.externalEmbed.description'] = 'Dette er en indlejring. Den kan slettes med delete- eller backspace-tasten. Tryk Tab for at gå til valgmuligheder for indlejringer.  ';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Brug tastaturgenvejene "page up" og "page down" for at navigere gennem tilgængelige kategorier, når menuen er åben.';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'Inline-niveau Formateringsmenu ';
+$Definition['Format as Bold'] = 'Formatér som Fed ';
+$Definition['Bold'] = 'Fed';
+$Definition['Format as Italic'] = 'Formatér som Skråskrift ';
+$Definition['Italic'] = 'Kursiv';
+$Definition['Format as Strikethrough'] = 'Formatér som Gennemstregning';
+$Definition['Strikethrough'] = 'Gennemstregning';
+$Definition['Format as Inline Code'] = 'Formatér som Inline Kode ';
+$Definition['Paragraph Code Block'] = 'Kodeblok';
+$Definition['Parent'] = 'Forælder';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Afsnit (fjerner afsnitsstil og nulstiller til almindeligt afsnit)';
+$Definition['Code Block'] = 'Kodeblok';
+$Definition['Format as Link'] = 'Formatér som Link';
+$Definition['Link'] = 'Link';
+$Definition['Insert Url'] = 'Indsæt URL ';
+$Definition['Paste or type a link…'] = 'Indsæt eller skriv et link...';
+$Definition['Close'] = 'Luk';
+$Definition['Line Level Formatting Menu'] = 'Linieniveau Formateringsmenu';
+$Definition['Paragraph'] = 'Paragraf ';
+$Definition['Format as Paragraph'] = 'Formatér som Paragraf ';
+$Definition['Subtitle'] = 'Undertekst ';
+$Definition['Format as Title'] = 'Formatér som Titel ';
+$Definition['Sub Subtitle'] = 'Under Undertitel';
+$Definition['Format as Subtitle'] = 'Formatér som Undertekst ';
+$Definition['Quote'] = 'Citat';
+$Definition['Format as blockquote'] = 'Formatér som Blokcitat ';
+$Definition['Format as code block'] = 'Formatér som Kodeblokering ';
+$Definition['Spoiler'] = 'Spoiler';
+$Definition['Format as spoiler'] = 'Formatér som spoiler ';
+$Definition['Inline Menu Available'] = 'Inline-menu tilgængelig';
+
+// Emoji Picker
+$Definition['Emoji'] = 'Smiley';
+$Definition['Emojis'] = 'Emojis ';
+$Definition['Insert an emoji in your message.'] = 'Indsæt en emoji i din besked.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Hop forbi emoji-liste, til emoji-kategorier.';
+$Definition['Emoji Categories'] = 'Emoji-kategorier';
+$Definition['Jump to emoji category: %s'] = 'Gå til emoji-kategori: %s ';
+$Definition['In emoji category: %s'] = 'I emoji-kategori: %s ';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'Smileys & Mennesker ';
+$Definition['Animals & Nature'] = 'Dyr & Natur ';
+$Definition['Food & Drink'] = 'Mad & Drikke ';
+$Definition['Travel & Places'] = 'Rejse & Steder ';
+$Definition['Activities'] = 'Aktiviteter';
+$Definition['Objects'] = 'Objekter';
+$Definition['Symbols'] = 'Symboler';
+$Definition['Flags'] = 'Flag ';
+
+// Media Insertion
+$Definition['Image'] = 'Billede';
+$Definition['Insert Media'] = 'Indsæt Medie ';
+$Definition['Paste the URL of the media you want.'] = 'Indsæt webadressen for det medie du ønsker.';
+$Definition['Embed'] = 'Indlejre';
+$Definition['Error'] = 'Fejl';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'Styr Citat ';
+$Definition['Spoiler Warning'] = 'Spoiler-Advarsel ';
+
+// Image Size & placement
+$Definition['Float Left'] = 'Flyde til venstre';
+$Definition['Float left'] = 'Flyde til venstre';
+$Definition['Centered'] = 'Centreret';
+$Definition['Float Right'] = 'Flyd til højre';
+$Definition['Float right'] = 'Flyd til højre';
+$Definition['Small'] = 'Lille';
+$Definition['Medium'] = 'Medium';
+$Definition['Large'] = 'Stor';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Pladsholder';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s til diskussion: "%s"';
+$Definition['%s for category: "%s"'] = '%s for kategori: "%s"';
+$Definition['%s comment by user: "%s"'] = '%s kommentar fra bruger: "%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'Bruger "%s"startede diskussion "%s" på datoen, %s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Seneste kommentar fra datoen, %s, i diskussion "%s", fra bruger "%s"';
+$Definition['%s for category: "%s"'] = '%s for kategori: "%s"';
+$Definition['Category: "%s"'] = 'Kategori: "%s"';
+$Definition['User: "%s"'] = 'Bruger: "%s"';
+$Definition['Group: "%s"'] = 'Gruppe: "%s"';
+$Definition['Global Navigation'] = 'Gl';
+$Definition['Skip to content'] = 'Spring til indhold';
+
+// KB Articles
+$Definition["Read More"] = "Læs mere";

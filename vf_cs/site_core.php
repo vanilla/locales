@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s napsal(a) na %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s schválil %2$s žádost o členství.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s vytvořil účet pro %1$s.';
 $Definition['%s (Current)'] = '%s (Aktuální)';
-$Definition['%s activities'] = '%s aktivity';
-$Definition['%s activity'] = '%s aktivita';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Vytvoření účtu na fóru';
 $Definition['%s Agrees'] = '%s souhlasí';
 $Definition['%s and %s others'] = '%s a %s ostatních';
 $Definition['%s and you'] = '%s a ty';
@@ -233,6 +233,7 @@ $Definition['Already Offered'] = 'Již bylo nabídnuto';
 $Definition['Already Warned'] = 'Již varován';
 $Definition['Also banned for the following:'] = 'Také zakázán kvůli následujícímu:';
 $Definition['Also delete this user\'s content.'] = 'Smazat také tento uživatelův obsah.';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Alternativní text pomáhá uživatelům s problémy s přístupností a zlepšuje SEO.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Na váš e-mail byla odeslána zpráva s instrukcemi pro reset hesla.';
 $Definition['An archived file or files'] = 'Archivovaný soubor nebo soubory';
 $Definition['Ancient Membership'] = 'Starodávné členství';
@@ -901,6 +902,9 @@ $Definition['Joined %s'] = 'Připojen %s';
 $Definition['Join this Community Now'] = 'Nyní se přidejte ke komunitě';
 $Definition['Join this Group'] = 'Připojit se ke skupině ';
 $Definition['Join this group to view its content.'] = 'Připoj se k této skupině, abys viděl její obsah. ';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Přeskočte se seznamu emoji na kategorie emoji.';
+$Definition['Jump to a specific page'] = 'Přejít na konkrétní stránku';
+$Definition['Jump to first tracked post.'] = 'Přejít na první sledovaný příspěvek.';
 $Definition['Jumped to emoji category: '] = 'Skočili jste do kategorie emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Přeskočte se seznamu emoji na kategorie emoji.';
 $Definition['Jump to a specific page'] = 'Přejít na konkrétní stránku';
@@ -2022,4 +2026,111 @@ $Definition['You will receive a notification when you are accepted.'] = 'Až bud
 $Definition['You wrote:'] = 'Napsal jsi:';
 $Definition['yyyy-mm-dd'] = 'rrrr-mm-dd';
 
-$Definition['{Username} has requested to join {Group}.'] = '{Username} požádal o připojení ke skupině {Group}.';
+$Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Horký";
+$Definition["Most Helpful"] = "Nejužitečnější";
+$Definition["Recently Active"] = "Nedávno aktivní";
+$Definition["Oldest Members"] = "Nejstarší členové";
+$Definition["Newest Members"] = "Nejnovější členové";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'Bohatý textový editor.';
+$Definition['richEditor.description.paragraphMenu'] = 'K úpravě stylu odstavce stiskněte záložku, abyste se dostali do odstavcového menu. Odtamtud si budete moci vybrat jeden styl. Nevyberete-li nic, bude použit výchozí odstavec.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'Řádkové menu formátování se ukáže, když vyberete text. Stiskněte tabulátor, abyste se do tohoto menu dostali.';
+$Definition['richEditor.description.embed'] = 'Do editoru lze vložit některé prvky, například vnořené odkazy, obrázky, indikátory nahrávání a chybová hlášení. Můžete se na ně přesunout pomocí tlačítek se šipkami uvnitř editoru a vymazat je tlačítkem delete (vymazat) nebo backspace (zpět). ';
+$Definition['richEditor.externalEmbed.description'] = 'Toto je vsazení. Může být smazáno pomocí kláves delete nebo backspace. Stiskněte tabulátor pro přístup k možnostem vsazení. ';
+$Definition['richEditor.emoji.pagingInstructions'] = 'K rotaci mezi dostupnými kategoriemi můžete – když je menu otevřené – použít klávesové zkratky „page up“ a „page down“.';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'Nabídka formátování úrovně řádku';
+$Definition['Format as Bold'] = 'Formátovat jako tučné';
+$Definition['Bold'] = 'Tučný';
+$Definition['Format as Italic'] = 'Formátovat jako kurzíva';
+$Definition['Italic'] = 'Kurziva';
+$Definition['Format as Strikethrough'] = 'Formátovat jako přeškrtnuté';
+$Definition['Strikethrough'] = 'Přeškrtnutí';
+$Definition['Format as Inline Code'] = 'Formátovat jako kód v řádku';
+$Definition['Paragraph Code Block'] = 'Blok kódu odstavce';
+$Definition['Parent'] = 'Nadřazená';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Odstavec (Odstraní formátování odstavce a přenastaví odstavec do prostého formátování)';
+$Definition['Code Block'] = 'Blok kódu odstavce';
+$Definition['Format as Link'] = 'Formátovat jako odkaz';
+$Definition['Link'] = 'Odkaz';
+$Definition['Insert Url'] = 'Vložit URL';
+$Definition['Paste or type a link…'] = 'Vložte nebo napište odkaz...';
+$Definition['Close'] = 'Zavřít';
+$Definition['Line Level Formatting Menu'] = 'Nabídka formátování úrovně řádku';
+$Definition['Paragraph'] = 'Odstavec';
+$Definition['Format as Paragraph'] = 'Formátovat jako odstavec';
+$Definition['Subtitle'] = 'Titulek';
+$Definition['Format as Title'] = 'Formátovat jako název';
+$Definition['Sub Subtitle'] = 'Pod titulky';
+$Definition['Format as Subtitle'] = 'Formátovat jako titulky';
+$Definition['Quote'] = 'Citovat';
+$Definition['Format as blockquote'] = 'Formátovat jako blokovou citaci';
+$Definition['Format as code block'] = 'Formátovat jako blok kódu';
+$Definition['Spoiler'] = 'Spoiler';
+$Definition['Format as spoiler'] = 'Formátovat jako vyzrazení';
+$Definition['Inline Menu Available'] = 'Řádkové menu dostupné';
+
+// Emoji Picker
+$Definition['Emoji'] = 'Emotikon';
+$Definition['Emojis'] = 'Emotikony';
+$Definition['Insert an emoji in your message.'] = 'Připojte ke své zprávě emoji.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Přeskočte se seznamu emoji na kategorie emoji.';
+$Definition['Emoji Categories'] = 'Kategorie emoji';
+$Definition['Jump to emoji category: %s'] = 'Skočit na kategorii emodži: %s';
+$Definition['In emoji category: %s'] = 'V kategorii emodži: %s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'Smajlíci a lidé';
+$Definition['Animals & Nature'] = 'Zvířata a příroda';
+$Definition['Food & Drink'] = 'Jídlo a pití';
+$Definition['Travel & Places'] = 'Cestování a místa';
+$Definition['Activities'] = 'Aktivity';
+$Definition['Objects'] = 'Předměty';
+$Definition['Symbols'] = 'Symboly';
+$Definition['Flags'] = 'Označení';
+
+// Media Insertion
+$Definition['Image'] = 'Obrázek';
+$Definition['Insert Media'] = 'Vložit média';
+$Definition['Paste the URL of the media you want.'] = 'Vložte URL média, které si přejete.';
+$Definition['Embed'] = 'Vnořit';
+$Definition['Error'] = 'Chyba';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'Přepnout citaci';
+$Definition['Spoiler Warning'] = 'Upozornění na vyzrazení zápletky';
+
+// Image Size & placement
+$Definition['Float Left'] = 'Plavat vlevo';
+$Definition['Float left'] = 'Plavat vlevo';
+$Definition['Centered'] = 'Vycentrováno';
+$Definition['Float Right'] = 'Plovoucí doprava';
+$Definition['Float right'] = 'Plovoucí doprava';
+$Definition['Small'] = 'Malý';
+$Definition['Medium'] = 'Střední';
+$Definition['Large'] = 'Velký';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Zástupce';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s pro diskuzi: „%s“';
+$Definition['%s for category: "%s"'] = '%s pro kategorii: „%s“';
+$Definition['%s comment by user: "%s"'] = '%s komentář od uživatele: „%s“';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'Uživatel „%s“ zahájil diskuzi „%s“ dne %s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Poslední komentář ze dne %s v diskuzi „%s“ od uživatele „%s“';
+$Definition['%s for category: "%s"'] = '%s pro kategorii: „%s“';
+$Definition['Category: "%s"'] = 'Kategorie: „%s“';
+$Definition['User: "%s"'] = 'Uživatel: „%s“';
+$Definition['Group: "%s"'] = 'Skupina: „%s“';
+$Definition['Global Navigation'] = 'Globální navigace';
+$Definition['Skip to content'] = 'Přeskočit na obsah';
+
+// KB Articles
+$Definition["Read More"] = "Přečtěte si více";

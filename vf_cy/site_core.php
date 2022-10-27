@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = 'Ysgrifennodd %1$s ar %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = 'Cymeradwyodd %3$s gais %2$s am aelodaeth.';
 $Definition['%3$s created an account for %1$s.'] = 'Creodd %3$s gyfrif ar gyfer %1$s.';
 $Definition['%s (Current)'] = '%s (cyfredol)';
-$Definition['%s activities'] = '%s gweithgareddau';
-$Definition['%s activity'] = 'gweithgaredd %s';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Creu Cyfrif Fforwm';
 $Definition['%s Agrees'] = 'Mae %s yn cytuno';
 $Definition['%s and %s others'] = '%s a %s arall';
 $Definition['%s and you'] = '%s a chi';
@@ -235,6 +235,7 @@ $Definition['Already Offered'] = 'Wedi\'i gynnig eisoes';
 $Definition['Already Warned'] = 'Eisoes wedi rhybuddio';
 $Definition['Also banned for the following:'] = 'Gwaharddwyd hefyd oherwydd y canlynol:';
 $Definition['Also delete this user\'s content.'] = 'Dileu cynnwys y defnyddiwr hwn hefyd.';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Mae testun amgen yn helpu defnyddwyr gyda phryderon hygyrchedd ac yn gwella SEO.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Anfonwyd neges at eich cyfeiriad e-bost gyda chyfarwyddiadau ailosod cyfrinair.';
 $Definition['Analytics'] = 'Dadansoddeg';
 $Definition['An archived file or files'] = 'Ffeil neu ffeiliau wedi\'u harchifo';
@@ -897,6 +898,9 @@ $Definition['Joined %s'] = 'Ymunodd â %s';
 $Definition['Join this Community Now'] = 'Ymuno â\'r gymuned yma nawr';
 $Definition['Join this Group'] = 'Ymuno â\'r grŵp yma';
 $Definition['Join this group to view its content.'] = 'Ymuno â\'r grŵp yma i weld ei gynnwys.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Neidio heibio rhestr emoji, i gategorïau emoji.';
+$Definition['Jump to a specific page'] = 'Neidiwch i dudalen benodol';
+$Definition['Jump to first tracked post.'] = 'Neidio i\'r postyn cyntaf wedi\'i olrhain.';
 $Definition['Jumped to emoji category: '] = 'Neidio i gategori emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Neidio heibio rhestr emoji, i gategorïau emoji.';
 $Definition['Jump to a specific page'] = 'Neidiwch i dudalen benodol';
@@ -2036,4 +2040,111 @@ $Definition['You were added to a conversation.'] = 'Ychwanegodd {InsertUserID, u
 $Definition['You will receive a notification when you are accepted.'] = 'Byddwch yn derbyn hysbysiad pan gewch eich derbyn.';
 $Definition['You wrote:'] = 'Ysgrifennodd:';
 
-$Definition['{Username} has requested to join {Group}.'] = 'Mae {Username} wedi gofyn am ymuno â {Group}.';
+$Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "Poeth";
+$Definition["Most Helpful"] = "Mwyaf Cymwynasgar";
+$Definition["Recently Active"] = "Gweithgar yn ddiweddar";
+$Definition["Oldest Members"] = "Aelodau Hynaf";
+$Definition["Newest Members"] = "Aelodau Newydd";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'Golygydd Testun Cyfoethog.';
+$Definition['richEditor.description.paragraphMenu'] = 'I olygu arddull paragraff, taro tab i gyrraedd y ddewislen paragraffau. O\'r fan honno, byddwch chi\'n gallu dewis un arddull. Nid oes unrhyw beth yn methu â pharagraff.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'Bydd dewislen fformatio testun yn ymddangos pan fyddwch chi\'n dewis testun. Taro tab i fynd i mewn i\'r ddewislen honno.';
+$Definition['richEditor.description.embed'] = 'Efallai y bydd rhai elfennau, megis gwreiddio, delweddau, dangosyddion llwytho a negeseuon gwall yn cael eu mewnosod yn y golygydd. Gallwch lywio i\'r rhain gan ddefnyddio bysellau saeth y tu mewn i\'r golygydd a\'u dileu gyda\'r allwedd dileu neu backspace.';
+$Definition['richEditor.externalEmbed.description'] = 'Mae hwn yn wreiddio. Gellir ei ddileu gan ddefnyddio\'r allwedd dileu neu\'r allwedd backspace. Pwyswch tab i fynd i mewn i\'r opsiynau gwreiddio.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Defnyddiwch lwybrau byr bysellfwrdd "tudalen i fyny" a "tudalen i lawr" i feicio trwy\'r categorïau sydd ar gael pan fydd y ddewislen emoji ar agor.';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'Dewislen Fformat Testun';
+$Definition['Format as Bold'] = 'Fformat fel Beiddgar';
+$Definition['Bold'] = 'Trwm';
+$Definition['Format as Italic'] = 'Fformat fel Italaidd';
+$Definition['Italic'] = 'Italig';
+$Definition['Format as Strikethrough'] = 'Fformat fel Strikethrough';
+$Definition['Strikethrough'] = 'Llinell drwodd';
+$Definition['Format as Inline Code'] = 'Fformat fel Cod Mewnol';
+$Definition['Paragraph Code Block'] = 'Bloc Cod';
+$Definition['Parent'] = 'Rhiant';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paragraff (Yn dileu arddull paragraff ac yn gosod paragraff plaen)';
+$Definition['Code Block'] = 'Bloc Cod';
+$Definition['Format as Link'] = 'Fformat fel Cyswllt';
+$Definition['Link'] = 'Dolen';
+$Definition['Insert Url'] = 'Mewnosod Url';
+$Definition['Paste or type a link…'] = 'Gludo neu deipio dolen ...';
+$Definition['Close'] = 'Cau';
+$Definition['Line Level Formatting Menu'] = 'Dewislen Fformat Paragraff';
+$Definition['Paragraph'] = 'Paragraff';
+$Definition['Format as Paragraph'] = 'Fformat fel paragraff arferol';
+$Definition['Subtitle'] = 'Is-deitl';
+$Definition['Format as Title'] = 'Fformat fel Teitl';
+$Definition['Sub Subtitle'] = 'Is-deitl';
+$Definition['Format as Subtitle'] = 'Fformat fel Is-deitl';
+$Definition['Quote'] = 'Dyfyniad';
+$Definition['Format as blockquote'] = 'Fformat fel blockquote';
+$Definition['Format as code block'] = 'Fformat fel bloc cod';
+$Definition['Spoiler'] = 'Difethwr';
+$Definition['Format as spoiler'] = 'Fformat fel anrheithiwr';
+$Definition['Inline Menu Available'] = 'Dewislen Inline Ar Gael';
+
+// Emoji Picker
+$Definition['Emoji'] = 'Emoji';
+$Definition['Emojis'] = 'Emojis';
+$Definition['Insert an emoji in your message.'] = 'Mewnosodwch emoji yn eich neges.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Neidio heibio rhestr emoji, i gategorïau emoji.';
+$Definition['Emoji Categories'] = 'Categorïau Emoji';
+$Definition['Jump to emoji category: %s'] = 'Neidio i gategori emoji: %s';
+$Definition['In emoji category: %s'] = 'Yn y categori emoji: %s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'Smileys & People';
+$Definition['Animals & Nature'] = 'Anifeiliaid a Natur';
+$Definition['Food & Drink'] = 'Bwyd a Diod';
+$Definition['Travel & Places'] = 'Teithio a Lleoedd';
+$Definition['Activities'] = 'Gweithgareddau';
+$Definition['Objects'] = 'Gwrthrychau';
+$Definition['Symbols'] = 'Symbolau';
+$Definition['Flags'] = 'Baneri';
+
+// Media Insertion
+$Definition['Image'] = 'Delwedd';
+$Definition['Insert Media'] = 'Mewnosod Cyfryngau';
+$Definition['Paste the URL of the media you want.'] = 'Gludwch URL y cyfryngau rydych chi ei eisiau.';
+$Definition['Embed'] = 'Gwreiddio';
+$Definition['Error'] = 'Gwall';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'Dyfynnu Toggle';
+$Definition['Spoiler Warning'] = 'Rhybudd Spoiler';
+
+// Image Size & placement
+$Definition['Float Left'] = 'Arnofio Chwith';
+$Definition['Float left'] = 'Arnofio Chwith';
+$Definition['Centered'] = 'Wedi\'i ganoli';
+$Definition['Float Right'] = 'Arnofio i\'r Dde';
+$Definition['Float right'] = 'Arnofio i\'r Dde';
+$Definition['Small'] = 'Bach';
+$Definition['Medium'] = 'Canolig';
+$Definition['Large'] = 'Mawr';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Deiliad Lle';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s i\'w drafod: "%s"';
+$Definition['%s for category: "%s"'] = '%s ar gyfer categori: "%s"';
+$Definition['%s comment by user: "%s"'] = 'sylw %s gan ddefnyddiwr: "%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'Dechreuodd defnyddiwr "%s" drafodaeth "%s" ar ddyddiad %s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Sylw mwyaf diweddar ar ddyddiad %s, mewn trafodaeth "%s", gan ddefnyddiwr "%s"';
+$Definition['%s for category: "%s"'] = '%s ar gyfer categori: "%s"';
+$Definition['Category: "%s"'] = 'Categori: "%s"';
+$Definition['User: "%s"'] = 'Defnyddiwr: "%s"';
+$Definition['Group: "%s"'] = 'Grŵp: "%s"';
+$Definition['Global Navigation'] = 'Llywio Byd-eang';
+$Definition['Skip to content'] = 'Neidio i\'r cynnwys';
+
+// KB Articles
+$Definition["Read More"] = "Darllen mwy";

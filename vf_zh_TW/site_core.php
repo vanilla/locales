@@ -20,8 +20,7 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s 批准了 %2$s
 $Definition['%3$s created an account for %1$s.'] = '%3$s 創建了%1$s 賬戶。';
 $Definition['%s (Current)'] = '%s（當前的）';
 $Definition['%s: %s'] = '%s：%s';
-$Definition['%s activities'] = '%s活動';
-$Definition['%s activity'] = '%s活動';
+$Definition['[%s] Forum Account Creation'] = '[%s] 論壇帳戶創建';
 $Definition['%s Agrees'] = '%s 同意';
 $Definition['%s and %s others'] = '%s 和 %s 其他人
 ';
@@ -239,6 +238,7 @@ $Definition['Already Offered'] = '已提供';
 $Definition['Already Warned'] = '已被警告';
 $Definition['Also banned for the following:'] = '且因爲下列原因被禁用：';
 $Definition['Also delete this user\'s content.'] = '也刪除這用戶的內容。';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = '替代文本可幫助用戶解決可訪問性問題並改善 SEO。';
 $Definition['A message has been sent to your email address with password reset instructions.'] = '重置密碼訊息已發送至您的電子信箱了。';
 $Definition['Analytics'] = '分析';
 $Definition['An archived file or files'] = '封存的檔案';
@@ -931,6 +931,9 @@ $Definition['Joined %s'] = '已加入 %s';
 $Definition['Join this Community Now'] = '立刻加入此社群';
 $Definition['Join this Group'] = '加入此群組';
 $Definition['Join this group to view its content.'] = '加入此群組以查看其內容。';
+$Definition['Jump past emoji list, to emoji categories.'] = '跳過表情圖示列表，前往表情圖示類別。';
+$Definition['Jump to a specific page'] = '跳轉到特定頁面';
+$Definition['Jump to first tracked post.'] = '跳到第一個追蹤的 po 文。';
 $Definition['Jumped to emoji category: '] = '前往表情圖示類別：';
 $Definition['Jump past emoji list, to emoji categories.'] = '跳過表情圖示列表，前往表情圖示類別。';
 $Definition['Jump to a specific page'] = '跳轉到特定頁面';
@@ -1723,6 +1726,8 @@ $Definition['This category does not have any articles.'] = '此類別沒有任�
 $Definition['This category does not have any events.'] = '此類別沒有任何活動。';
 $Definition['This content has been deleted.'] = '此內容已被刪除。';
 $Definition['This discussion has a more <0>recent version</0>.'] = '這個討論有一個更新的<0>版本</0>.';
+$Definition['This discussion has been closed.'] = '這個討論已經被關閉';
+$Definition['This discussion has been <a href="{url,html}">moved</a>.'] = '這個討論已經被<a href="{url,html}">移動了</a>。';
 $Definition['This discussion has been <a href="{url,html}">merged</a>.'] = '此討論已<a href="{url,html}">合併</a>。';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = '這個討論已經被<a href="{url,html}">移動了</a>。';
 $Definition['This discussion has been closed.'] = '這個討論已經被關閉';
@@ -2099,4 +2104,111 @@ $Definition['You were added to a conversation.'] = '{InsertUserID,user}將{Notif
 $Definition['You will receive a notification when you are accepted.'] = '當您被接受時，您將收到通知。';
 $Definition['You wrote:'] = '您寫道：';
 
-$Definition['{Username} has requested to join {Group}.'] = '{Username} 已請求加入 {Group}。';
+$Definition["Zip"] = "Zip";
+
+$Definition["Hot"] = "熱的";
+$Definition["Most Helpful"] = "最有幫助";
+$Definition["Recently Active"] = "最近活躍";
+$Definition["Oldest Members"] = "最年長的成員";
+$Definition["Newest Members"] = "最新成員";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'RTF 文字編輯器。';
+$Definition['richEditor.description.paragraphMenu'] = '想編輯段落樣式，請按下分頁以前往段落選單。可在其中挑選一種風格。段落並無任何預設值。'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = '選取文字後將出現內嵌格式選單。按下分頁以進入該選單。';
+$Definition['richEditor.description.embed'] = '某些元素，諸如豐富連接嵌入、圖像、載入指示符號和錯誤訊息，可以被插入到編輯器內。 您可以用編輯器內的箭頭鍵巡行至這些地方，然後用刪除鍵或後退鍵來刪除它們。';
+$Definition['richEditor.externalEmbed.description'] = '這是一個嵌入，可使用 Delete 鍵或 Backspace 鍵來刪除。按 Tab 以進入嵌入選項。';
+$Definition['richEditor.emoji.pagingInstructions'] = '使用鍵盤捷徑「page up」及「page down」以在選單開啟時在可用類別間循環切換。';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = '直列式層級格式化選單';
+$Definition['Format as Bold'] = '格式為粗體字';
+$Definition['Bold'] = '粗體';
+$Definition['Format as Italic'] = '格式為斜體';
+$Definition['Italic'] = '斜體';
+$Definition['Format as Strikethrough'] = '格式為刪除';
+$Definition['Strikethrough'] = '加刪除線';
+$Definition['Format as Inline Code'] = '格式為直列式代碼';
+$Definition['Paragraph Code Block'] = '插入程式語言';
+$Definition['Parent'] = '家長';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = '文章段落（移除文章段落設計，並設定為素色文章段落）';
+$Definition['Code Block'] = '插入程式語言';
+$Definition['Format as Link'] = '格式如連結';
+$Definition['Link'] = '連結';
+$Definition['Insert Url'] = '插入 Url';
+$Definition['Paste or type a link…'] = '貼上或輸入連結...';
+$Definition['Close'] = '關閉';
+$Definition['Line Level Formatting Menu'] = '線層級格式化選單';
+$Definition['Paragraph'] = '段落';
+$Definition['Format as Paragraph'] = '格式為段落';
+$Definition['Subtitle'] = '小標題';
+$Definition['Format as Title'] = '格式為標題';
+$Definition['Sub Subtitle'] = '副小標題';
+$Definition['Format as Subtitle'] = '格式如小標題';
+$Definition['Quote'] = '引用';
+$Definition['Format as blockquote'] = '格式為區塊引言';
+$Definition['Format as code block'] = '格式為代碼區塊';
+$Definition['Spoiler'] = '防雷';
+$Definition['Format as spoiler'] = '格式為防雷';
+$Definition['Inline Menu Available'] = '可用內嵌選單';
+
+// Emoji Picker
+$Definition['Emoji'] = '表情符號';
+$Definition['Emojis'] = '表情符號';
+$Definition['Insert an emoji in your message.'] = '在您的訊息中插入表情圖示。';
+$Definition['Jump past emoji list, to emoji categories.'] = '跳過表情圖示列表，前往表情圖示類別。';
+$Definition['Emoji Categories'] = '表情圖示類別';
+$Definition['Jump to emoji category: %s'] = '跳至表情符號分類:%s';
+$Definition['In emoji category: %s'] = '在表情符號分類中:%s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = '笑臉與人群 (Smileys & People)';
+$Definition['Animals & Nature'] = '動物與自然';
+$Definition['Food & Drink'] = '食品和飲料';
+$Definition['Travel & Places'] = '旅行與地方';
+$Definition['Activities'] = '活動';
+$Definition['Objects'] = '物件';
+$Definition['Symbols'] = '符號';
+$Definition['Flags'] = '旗幟';
+
+// Media Insertion
+$Definition['Image'] = '圖片';
+$Definition['Insert Media'] = '插入媒體';
+$Definition['Paste the URL of the media you want.'] = '貼上您想要的媒體連結。';
+$Definition['Embed'] = '嵌入';
+$Definition['Error'] = '錯誤';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = '切換引言';
+$Definition['Spoiler Warning'] = '防雷警告';
+
+// Image Size & placement
+$Definition['Float Left'] = '向左飄浮';
+$Definition['Float left'] = '向左飄浮';
+$Definition['Centered'] = '居中';
+$Definition['Float Right'] = '向右浮動';
+$Definition['Float right'] = '向右浮動';
+$Definition['Small'] = '小的';
+$Definition['Medium'] = '中等的';
+$Definition['Large'] = '大的';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = '占位符';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s 的討論： "%s"';
+$Definition['%s for category: "%s"'] = '%s 的類別："%s"';
+$Definition['%s comment by user: "%s"'] = '%s 使用者評論："%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = '使用者 "%s" 開啟討論 "%s"，日期為 %s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = '最近的評論日期為 %s，在討論 "%s" 中，來自使用者 "%s"';
+$Definition['%s for category: "%s"'] = '%s 的類別："%s"';
+$Definition['Category: "%s"'] = '類別："%s"';
+$Definition['User: "%s"'] = '使用者："%s"';
+$Definition['Group: "%s"'] = '群組："%s"';
+$Definition['Global Navigation'] = '全球導航';
+$Definition['Skip to content'] = '跳到內容';
+
+// KB Articles
+$Definition["Read More"] = "閱讀更多";

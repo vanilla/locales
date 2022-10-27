@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = 'Ο χρήστης %1$s έγραψε �
 $Definition['%3$s approved %2$s membership application.'] = 'Ο χρήστης %3$s ενέκρινε την αίτηση μέλους του χρήστη %2$s.';
 $Definition['%3$s created an account for %1$s.'] = 'Ο χρήστης %3$s δημιούργησε ένα λογαριασμό για τον χρήστη %1$s.';
 $Definition['%s (Current)'] = '%s (Τρέχων)';
-$Definition['%s activities'] = '%s δραστηριότητες';
-$Definition['%s activity'] = '%s δραστηριότητα';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Δημιουργία λογαριασμού φόρουμ';
 $Definition['%s Agrees'] = 'Ο χρήστης %s συμφωνεί';
 $Definition['%s and %s others'] = '%s και %s άλλους';
 $Definition['%s and you'] = 'Ο χρήστης %s και εσείς';
@@ -237,6 +237,7 @@ $Definition['Already Offered'] = 'Προσφέρθηκε ήδη';
 $Definition['Already Warned'] = 'Ήδη προειδοποιήθηκαν';
 $Definition['Also banned for the following:'] = 'Επίσης, αποκλεισμένος για τα ακόλουθα:';
 $Definition['Also delete this user\'s content.'] = 'Διάγραψε και το περιεχόμενο αυτού του χρήστη.';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Το εναλλακτικό κείμενο βοηθά τους χρήστες με προβλήματα προσβασιμότητας και βελτιώνει το SEO.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Εστάλη ένα μήνυμα στην email διεύθυνσή σας με οδηγίες αρχικοποίησης του κωδικού.';
 $Definition['Analytics'] = 'Αναλύσεις';
 $Definition['An archived file or files'] = 'Ένα αρχειοθετημένο αρχείο ή αρχεία';
@@ -933,6 +934,9 @@ $Definition['Joined %s'] = 'Συμμετείχε %s';
 $Definition['Join this Community Now'] = 'Συμμετοχή σε αυτή την Κοινότητα Τώρα';
 $Definition['Join this Group'] = 'Γίνετε μέλος αυτής της Ομάδας';
 $Definition['Join this group to view its content.'] = 'Ενταχθείτε σε αυτή την ομάδα για να δείτε το περιεχόμενό της.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Προσπεράστε τη λίστα των emoji , στις κατηγορίες των emoji .';
+$Definition['Jump to a specific page'] = 'Μετάβαση σε μια συγκεκριμένη σελίδα';
+$Definition['Jump to first tracked post.'] = 'Μεταβείτε στην πρώτη ανάρτηση που ανιχνεύθηκε.';
 $Definition['Jumped to emoji category: '] = 'Μεταπήδησε στη κατηγορία των emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Προσπεράστε τη λίστα των emoji , στις κατηγορίες των emoji .';
 $Definition['Jump to a specific page'] = 'Μετάβαση σε μια συγκεκριμένη σελίδα';
@@ -2114,4 +2118,114 @@ $Definition['yyyy-mm-dd'] = 'χχχχ-μμ-ηη';
 
 $Definition['Zip'] = 'Ταχ. Κωδικας';
 
-$Definition['{Username} has requested to join {Group}.'] = 'Ο χρήστης {Username} ζήτησε να συμμετάσχει στην ομάδα {Group}.';
+$Definition["Hot"] = "Ζεστό";
+$Definition["Most Helpful"] = "Πιο χρήσιμο";
+$Definition["Recently Active"] = "Πρόσφατα ενεργός";
+$Definition["Oldest Members"] = "Παλαιότερα Μέλη";
+$Definition["Newest Members"] = "Τα νεότερα μέλη";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'Επεξεργαστής Εμπλουτισμένου Κειμένου';
+$Definition['richEditor.description.paragraphMenu'] = 'Για να επεξεργαστείτε το στυλ μιας παραγράφου, πατήστε στην καρτέλα για να μεταβείτε στο μενού της παραγράφου. Από εκεί θα έχετε τη δυνατότητα να επιλέξετε ένα στυλ. Τίποτα δεν έχει προεπιλογή στην παράγραφο.
+'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'Ένα μενού σε σειρά θα εμφανιστεί όταν επιλέξετε το κείμενο. Κάντε κλικ στην καρτέλα για να μεταβείτε σε αυτό το μενού.
+';
+$Definition['richEditor.description.embed'] = 'Ορισμένα στοιχεία, όπως εμπλουτισμένες ενσωματώσεις συνδέσμων, εικόνες, δείκτες φόρτωσης και μηνύματα σφάλματος μπορούν να εισαχθούν στον επεξεργαστή. Μπορείτε να πλοηγηθείτε σ\' αυτά χρησιμοποιώντας τα πλήκτρα βέλους μέσα στον επεξεργαστή και να τα διαγράψετε με το πλήκτρο διαγραφής ή backspace.';
+$Definition['richEditor.externalEmbed.description'] = 'Αυτή είναι μια ενσωμάτωση. Μπορεί να διαγραφεί χρησιμοποιώντας το πλήκτρο διαγραφής ή το πλήκτρο οπισθοδιαστήματος. Πατήστε την καρτέλα για να μπείτε στις επιλογές ενσωμάτωσης.
+';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Χρησιμοποιήστε τις συντομεύσεις πληκτρολογίου, «μετακίνηση προς τα πάνω» και «μετακίνηση προς τα κάτω» για να μετακινηθείτε στις διαθέσιμες κατηγορίες όταν το μενού είναι ανοιχτό.
+';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'Μενού Μορφοποίησης Ενσωματωμένου Επιπέδου';
+$Definition['Format as Bold'] = 'Μορφοποίηση ως Έντονο';
+$Definition['Bold'] = 'Έντονη γραφή';
+$Definition['Format as Italic'] = 'Μορφοποίηση ως Πλάγιο';
+$Definition['Italic'] = 'Πλάγια γραφή';
+$Definition['Format as Strikethrough'] = 'Μορφοποίηση ως Διαγραμμένο';
+$Definition['Strikethrough'] = 'Διαγραφή';
+$Definition['Format as Inline Code'] = 'Μορφοποίηση ως Ενσωματωμένος Κώδικας';
+$Definition['Paragraph Code Block'] = 'Τμήμα Κώδικα';
+$Definition['Parent'] = 'Αρχική';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Παράγραφος (καταργεί το στυλ παραγράφου και το ορίζει σε απλή παράγραφο)';
+$Definition['Code Block'] = 'Τμήμα Κώδικα';
+$Definition['Format as Link'] = 'Μορφοποίηση ως Σύνδεσμος';
+$Definition['Link'] = 'Σύνδεσμος';
+$Definition['Insert Url'] = 'Δώστε Διεύθυνση Url';
+$Definition['Paste or type a link…'] = 'Επικολλήστε ή πληκτρολογήστε έναν σύνδεσμο...';
+$Definition['Close'] = 'Κλείσιμο';
+$Definition['Line Level Formatting Menu'] = 'Μενού Μορφοποίησης Επιπέδου Γραμμής';
+$Definition['Paragraph'] = 'Παράγραφος';
+$Definition['Format as Paragraph'] = 'Μορφοποίηση ως Παράγραφος';
+$Definition['Subtitle'] = 'Υπότιτλος';
+$Definition['Format as Title'] = 'Μορφοποίηση ως Τίτλος';
+$Definition['Sub Subtitle'] = 'Υπό- Υπότιτλος';
+$Definition['Format as Subtitle'] = 'Μορφοποίηση ως Υπότιτλος';
+$Definition['Quote'] = 'Παράθεση';
+$Definition['Format as blockquote'] = 'Μορφοποίηση ως blockquote';
+$Definition['Format as code block'] = 'Μορφοποίηση ως μπλοκ κώδικα';
+$Definition['Spoiler'] = 'Αποκάλυψη';
+$Definition['Format as spoiler'] = 'Μορφοποίηση ως σπόιλερ';
+$Definition['Inline Menu Available'] = 'Διαθέσιμο Μενού σε Σειρά';
+
+// Emoji Picker
+$Definition['Emoji'] = 'Χαρακτήρες Emoji';
+$Definition['Emojis'] = 'Emojis';
+$Definition['Insert an emoji in your message.'] = 'Βάλτε ένα emoji στο μήνυμά σας.
+';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Προσπεράστε τη λίστα των emoji , στις κατηγορίες των emoji .';
+$Definition['Emoji Categories'] = 'Κατηγορίες των Emoji ';
+$Definition['Jump to emoji category: %s'] = 'Μετάβαση στην κατηγορία emoji: %s';
+$Definition['In emoji category: %s'] = 'Στην κατηγορία emoji: %s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'Γελαστά Πρόσωπα & Άνθρωποι';
+$Definition['Animals & Nature'] = 'Ζώα & Φύση';
+$Definition['Food & Drink'] = 'Τρόφιμα & Ποτά';
+$Definition['Travel & Places'] = 'Ταξίδια & ';
+$Definition['Activities'] = 'Δραστηριότητες';
+$Definition['Objects'] = 'Αντικείμενα';
+$Definition['Symbols'] = 'Σύμβολα';
+$Definition['Flags'] = 'Σημαίες';
+
+// Media Insertion
+$Definition['Image'] = 'Εικόνα';
+$Definition['Insert Media'] = 'Εισαγωγή Πολυμέσων';
+$Definition['Paste the URL of the media you want.'] = 'Επικολλήστε τη διεύθυνση URL των μέσων που θέλετε.';
+$Definition['Embed'] = 'Ενσωμάτωση';
+$Definition['Error'] = 'Σφάλμα';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'Εναλλαγή Παράθεσης';
+$Definition['Spoiler Warning'] = 'Προειδοποίηση Σπόιλερ';
+
+// Image Size & placement
+$Definition['Float Left'] = 'Float Αριστερά';
+$Definition['Float left'] = 'Float Αριστερά';
+$Definition['Centered'] = 'Στο κέντρο';
+$Definition['Float Right'] = 'Float δεξιά';
+$Definition['Float right'] = 'Float δεξιά';
+$Definition['Small'] = 'Μικρό';
+$Definition['Medium'] = 'Μεσαίο';
+$Definition['Large'] = 'Μεγάλο';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Ενδεικτικό θέσης';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s για συζήτηση: "%s"';
+$Definition['%s for category: "%s"'] = '%s για την κατηγορία: "%s"';
+$Definition['%s comment by user: "%s"'] = '%s σχόλιο από τον χρήστη: "%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'Ο χρήστης "%s" ξεκίνησε τη συζήτηση "%s" με ημερομηνία %s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Το πιο πρόσφατο σχόλιο για την ημερομηνία %s, συζήτηση "%s", από τον χρήστη "%s"';
+$Definition['%s for category: "%s"'] = '%s για την κατηγορία: "%s"';
+$Definition['Category: "%s"'] = 'Κατηγορία: "%s"';
+$Definition['User: "%s"'] = 'Χρήστης: "%s"';
+$Definition['Group: "%s"'] = 'Ομάδα: "%s"';
+$Definition['Global Navigation'] = 'Γενική Πλοήγηση';
+$Definition['Skip to content'] = 'Μετάβαση στο περιεχόμενο';
+
+// KB Articles
+$Definition["Read More"] = "Διαβάστε περισσότερα";

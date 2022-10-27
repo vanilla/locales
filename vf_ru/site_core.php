@@ -20,8 +20,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s написал на %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = 'Участие пользователя %2$s одобрил %3$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s создал учетную запись для %1$s.';
 $Definition['%s (Current)'] = '%s (текущее)';
-$Definition['%s activities'] = '%s активности';
-$Definition['%s activity'] = '%s активность';
+$Definition['%s: %s'] = '%s: %s';
+$Definition['[%s] Forum Account Creation'] = '[%s] Создание учетной записи на форуме';
 $Definition['%s Agrees'] = '%s согласных';
 $Definition['%s and %s others'] = '%s и %s других';
 $Definition['%s and you'] = '%s и вы';
@@ -244,6 +244,7 @@ $Definition['Already Offered'] = 'Ранее предложенные';
 $Definition['Already Warned'] = 'Уже предупрежден';
 $Definition['Also banned for the following:'] = 'Был заблокирован за следующее: ';
 $Definition['Also delete this user\'s content.'] = 'Также удалить контент этого пользователя.';
+$Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Альтернативный текст помогает пользователям с проблемами доступности и улучшает SEO.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'На ваш email выслано письмо с инструкцией по смене пароля';
 $Definition['Analytics'] = 'Аналитика';
 $Definition['An archived file or files'] = 'Заархивированный файл или файлы';
@@ -954,6 +955,9 @@ $Definition['Joined %s'] = 'Регистрация %s';
 $Definition['Join this Community Now'] = 'Вступить в это сообщество';
 $Definition['Join this Group'] = 'Присоединиться к этой группе';
 $Definition['Join this group to view its content.'] = 'Вступите в группу, чтобы просматривать ее содержимое.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Перейти в список последних эмодзи, в категории эмодзи.';
+$Definition['Jump to a specific page'] = 'Перейти на определенную страницу';
+$Definition['Jump to first tracked post.'] = 'Перейти к первому отслеживаемому сообщению.';
 $Definition['Jumped to emoji category: '] = 'Переход в категории эмодзи:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Перейти в список последних эмодзи, в категории эмодзи.';
 $Definition['Jump to a specific page'] = 'Перейти на определенную страницу';
@@ -2163,4 +2167,109 @@ $Definition['yyyy-mm-dd'] = 'год-месяц-число';
 
 $Definition['Zip'] = 'Почтовый индекс';
 
-$Definition['{Username} has requested to join {Group}.'] = '{Username} попросил присоединиться к {Group}.';
+$Definition["Hot"] = "Горячий";
+$Definition["Most Helpful"] = "Самый полезный";
+$Definition["Recently Active"] = "Недавно активный";
+$Definition["Oldest Members"] = "Старейшие участники";
+$Definition["Newest Members"] = "Новые участники";
+
+// Rich Editor
+
+// Long Descriptions
+$Definition['richEditor.description.title'] = 'Многофункциональный текстовый редактор.';
+$Definition['richEditor.description.paragraphMenu'] = 'Чтобы отредактировать стиль параграфа, нажмите TAB, чтобы перейти к меню абзаца. Там вы можете выбрать стиль. По умолчанию не выбран ни один стиль.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
+$Definition['richEditor.description.inlineMenu'] = 'Когда вы выберете текст, появится встроенное меню форматирования. Нажмите TAB, чтобы войти в него.';
+$Definition['richEditor.description.embed'] = 'Некоторые элементы, такие как многофункциональные вставки ссылок, картинок, индикаторов загрузки и сообщений об ошибок могут быть вставлены в редактор. Вы можете перемещаться по ним, используя стрелки внутри редактора и удалять с помощью клавиш delete или backspace.';
+$Definition['richEditor.externalEmbed.description'] = 'Это вставка. Ее можно удалить с помощью клавиши удаления (Delete) или клавиши возврата (Backspace). Нажмите на вкладку, чтобы войти в параметры вставки.';
+$Definition['richEditor.emoji.pagingInstructions'] = 'Используйте сочетания клавиш «страница вверх» и «страница вниз» для перехода по доступным разделам, когда меню открыто.';
+
+// Formatting Menus
+$Definition['Inline Level Formatting Menu'] = 'Настройки внутристрочного форматирования';
+$Definition['Format as Bold'] = 'Жирный текст';
+$Definition['Bold'] = 'Жирный шрифт';
+$Definition['Format as Italic'] = 'Наклонный текст';
+$Definition['Italic'] = 'Курсив';
+$Definition['Format as Strikethrough'] = 'Зачеркнутый текст';
+$Definition['Strikethrough'] = 'Перечеркивание';
+$Definition['Format as Inline Code'] = 'Код';
+$Definition['Paragraph Code Block'] = 'Блок кода';
+$Definition['Parent'] = 'Родитель';
+$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Абзац (удаляет стиль абзаца и устанавливает обычный абзац)';
+$Definition['Code Block'] = 'Блок кода';
+$Definition['Format as Link'] = 'Гиперссылка';
+$Definition['Link'] = 'Ссылка';
+$Definition['Insert Url'] = 'Ввод ссылки';
+$Definition['Paste or type a link…'] = 'Вставить или ввести ссылку ...';
+$Definition['Close'] = 'Закрыть';
+$Definition['Line Level Formatting Menu'] = 'Меню форматирования строчки';
+$Definition['Paragraph'] = 'Параграф';
+$Definition['Format as Paragraph'] = 'Создать параграф';
+$Definition['Subtitle'] = 'Подзаголовок';
+$Definition['Format as Title'] = 'Создать заголовок';
+$Definition['Sub Subtitle'] = 'Под-подзаголовок';
+$Definition['Format as Subtitle'] = 'Создать подзаголовок';
+$Definition['Quote'] = 'Цитата';
+$Definition['Format as blockquote'] = 'Создать цитату';
+$Definition['Format as code block'] = 'Создать блок кода';
+$Definition['Spoiler'] = 'Спойлер';
+$Definition['Format as spoiler'] = 'Создать спойлер';
+$Definition['Inline Menu Available'] = 'Доступно встроенное меню';
+
+// Emoji Picker
+$Definition['Emoji'] = 'Эмодзи';
+$Definition['Emojis'] = 'Смайлики';
+$Definition['Insert an emoji in your message.'] = 'Вставьте эмодзи в сообщение.';
+$Definition['Jump past emoji list, to emoji categories.'] = 'Перейти в список последних эмодзи, в категории эмодзи.';
+$Definition['Emoji Categories'] = 'Категории Эмодзи ';
+$Definition['Jump to emoji category: %s'] = 'Перейти в категорию эмодзи: %s';
+$Definition['In emoji category: %s'] = 'В категории эмодзи: %s';
+
+// Emoji Categories
+$Definition['Smileys & People'] = 'Смайлы и люди';
+$Definition['Animals & Nature'] = 'Животные и природа';
+$Definition['Food & Drink'] = 'Еда и напитки';
+$Definition['Travel & Places'] = 'Путешествия и места';
+$Definition['Activities'] = ' Мероприятия';
+$Definition['Objects'] = 'Объекты';
+$Definition['Symbols'] = 'Символы';
+$Definition['Flags'] = 'Флаги';
+
+// Media Insertion
+$Definition['Image'] = 'Изображение';
+$Definition['Insert Media'] = 'Вставить медиафайл';
+$Definition['Paste the URL of the media you want.'] = 'Вставьте URL нужного вам медиафайла.';
+$Definition['Embed'] = 'Встроено';
+$Definition['Error'] = 'Ошибка';
+
+// Quotes/Formats
+$Definition['Toggle Quote'] = 'Переключить цитату';
+$Definition['Spoiler Warning'] = 'Осторожно, спойлер';
+
+// Image Size & placement
+$Definition['Float Left'] = 'Плыть налево';
+$Definition['Float left'] = 'Плыть налево';
+$Definition['Centered'] = 'По центру';
+$Definition['Float Right'] = 'Плавающий вправо';
+$Definition['Float right'] = 'Плавающий вправо';
+$Definition['Small'] = 'Небольшой';
+$Definition['Medium'] = 'Середина';
+$Definition['Large'] = 'Большой';
+
+// Catalogue Display Plugin/Formats
+$Definition['Placeholder'] = 'Местозаполнитель';
+
+// Accessibility
+$Definition['%s for discussion: "%s"'] = '%s для дискуссии: "%s"';
+$Definition['%s for category: "%s"'] = '%s для категории: "%s"';
+$Definition['%s comment by user: "%s"'] = '%s комментарий пользователя: "%s"';
+$Definition['User "%s" started discussion "%s" on date %s'] = 'Пользователь "%s" начал дискуссию "%s" в дату %s';
+$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Последний комментарий %s в дискуссии "%s" от пользователя "%s"';
+$Definition['%s for category: "%s"'] = '%s для категории: "%s"';
+$Definition['Category: "%s"'] = 'Категория: "%s"';
+$Definition['User: "%s"'] = 'Пользователь: "%s"';
+$Definition['Group: "%s"'] = 'Группа: "%s"';
+$Definition['Global Navigation'] = 'Глобальная навигация';
+$Definition['Skip to content'] = 'перейти к содержанию';
+
+// KB Articles
+$Definition["Read More"] = "Прочитайте больше";
