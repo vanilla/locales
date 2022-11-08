@@ -902,6 +902,7 @@ $Definition['I remember now!'] = 'Spomínam si teraz!';
 $Definition['Italic'] = 'Kurzíva';
 $Definition['Item'] = 'Položka';
 $Definition['item'] = 'položka';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Zdá sa, že ste tu nový. Ak chcete začať, prihláste sa alebo sa zaregistrujte.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Vyzerá to, že ste tu nový. Ak sa chcete zapojiť, kliknite na jedno z týchto tlačidiel!';
 
 $Definition['Jail'] = 'Väzenie';
@@ -931,7 +932,7 @@ $Definition['Keep me signed in'] = 'Zapamätaj si ma';
 $Definition['Keep User Content'] = 'Udržať používateľa obsah';
 
 $Definition['Label'] = 'Štítok';
-$Definition['Large'] = 'Veľký';
+$Definition['Languages'] = 'Jazyky';
 $Definition['Last Active'] = 'Naposledy aktívny';
 $Definition['Last Commented'] = 'Posledne komentované';
 $Definition['Last IP'] = 'Posledná IP';

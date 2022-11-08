@@ -912,6 +912,7 @@ $Definition['I remember now!'] = 'مجھے اب یاد ہے!';
 $Definition['Italic'] = 'اٹالک';
 $Definition['Item'] = 'شے';
 $Definition['item'] = 'شے';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'ایسا لگتا ہے کہ آپ یہاں نئے ہیں۔ شروع کرنے کے لیے سائن ان کریں یا رجسٹر کریں۔';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ایسا لگتا ہے کہ آپ یہاں نئے ہیں۔ اگر آپ شامل ہونا چاہتے ہیں تو ان بٹنوں میں سے ایک پر کلک کریں!';
 
 $Definition['Jail'] = 'جیل';
@@ -942,7 +943,7 @@ $Definition['Keep User Content'] = 'صارف مواد رکھیں';
 $Definition['Kilobyte'] = 'کلو بائٹ';
 
 $Definition['Label'] = 'لیبل';
-$Definition['Large'] = 'بڑا۔';
+$Definition['Languages'] = 'زبانیں';
 $Definition['Last Active'] = 'آخری فعال';
 $Definition['Last Commented'] = 'آخری تبصرہ';
 $Definition['Last IP'] = 'گزشتہ آئی پی';
@@ -2087,6 +2088,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'جب آ
 $Definition['You wrote:'] = 'آپ نے لکھا:';
 
 $Definition['Zip'] = 'زپ';
+
+$Definition["Hot"] = "گرم";
+$Definition["Most Helpful"] = "سب سے زیادہ مددگار";
+$Definition["Recently Active"] = "حال ہی میں فعال";
+$Definition["Oldest Members"] = "پرانے ممبران";
+$Definition["Newest Members"] = "تازہ ترین ممبران";
 
 $Definition["Hot"] = "گرم";
 $Definition["Most Helpful"] = "سب سے زیادہ مددگار";

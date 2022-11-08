@@ -899,6 +899,7 @@ $Definition['I remember now!'] = 'Adesso ricordo!';
 $Definition['Italic'] = 'Corsivo';
 $Definition['Item'] = 'Oggetto';
 $Definition['item'] = 'elemento';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Sembra che tu sia nuovo qui. Accedi o registrati per iniziare.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Sembra che tu sia nuovo da queste parti. Se vuoi partecipare accedi con le tue credenziali oppure utilizza il modulo di registrazione!';
 
 $Definition['Jail'] = 'Imprigiona';
@@ -928,7 +929,7 @@ $Definition['Keep me signed in'] = 'Voglio rimanere loggato';
 $Definition['Keep User Content'] = 'Mantieni il Contenuto dell\'Utente';
 
 $Definition['Label'] = 'Etichetta';
-$Definition['Large'] = 'Grande';
+$Definition['Languages'] = 'Le lingue';
 $Definition['Last Active'] = 'Ultima Attività';
 $Definition['Last Commented'] = 'Ultimo Commento';
 $Definition['Last IP'] = 'Ultimo IP';

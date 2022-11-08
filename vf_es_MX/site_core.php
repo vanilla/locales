@@ -922,6 +922,7 @@ $Definition['I remember now!'] = '¡Acabo de recordarla!';
 $Definition['Italic'] = 'Itálicas';
 $Definition['Item'] = 'Artículo';
 $Definition['item'] = 'artículo';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Parece ser que eres nuevo aquí. Inicia sesión o regístrate para comenzar.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Pareces nuevo por aquí. Si quieres participar, ¡haz clic aquí!';
 
 $Definition['Jail'] = 'Cárcel ';
@@ -953,7 +954,7 @@ $Definition['Keep me signed in'] = 'Mantenerme conectado';
 $Definition['Keep User Content'] = 'Mantener el contenido del usuario';
 
 $Definition['Label'] = 'Etiqueta';
-$Definition['Large'] = 'Grande';
+$Definition['Languages'] = 'Idiomas';
 $Definition['Last Active'] = 'Último activo';
 $Definition['Last Commented'] = 'Último comentado';
 $Definition['Last IP'] = 'Última IP';

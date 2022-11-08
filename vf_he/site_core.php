@@ -921,6 +921,7 @@ $Definition['I remember now!'] = 'אני זוכר אותך!';
 $Definition['Italic'] = 'נטוי';
 $Definition['Item'] = 'מוצר';
 $Definition['item'] = 'פריט';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'נראה שאתה חדש כאן. היכנס או הירשם כדי להתחיל.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ברוך הבא! אם הינך חדש בפורום, תוכל להירשם על ידי לחיצה על אחד הלחצנים מטה. אחרת, באפשרותך לבצע התחברות.';
 
 $Definition['Jail'] = 'כלא';
@@ -951,7 +952,7 @@ $Definition['Keep User Content'] = 'שמור את תוכן המשתמש';
 $Definition['Kilobyte'] = 'קילובייט';
 
 $Definition['Label'] = 'תווית';
-$Definition['Large'] = 'גָדוֹל';
+$Definition['Languages'] = 'שפות';
 $Definition['Last Active'] = 'פעיל לאחרונה';
 $Definition['Last Commented'] = 'תגובה אחרונה';
 $Definition['Last IP'] = 'IP אחרון';
@@ -2119,6 +2120,12 @@ $Definition['You wrote:'] = 'כתבת: ';
 $Definition['yyyy-mm-dd'] = 'שנה-חודש-יום';
 
 $Definition['Zip'] = 'דחוס';
+
+$Definition["Hot"] = "חַם";
+$Definition["Most Helpful"] = "הכי עוזר";
+$Definition["Recently Active"] = "פעיל לאחרונה";
+$Definition["Oldest Members"] = "החברים הוותיקים ביותר";
+$Definition["Newest Members"] = "החברים החדשים ביותר";
 
 $Definition["Hot"] = "חַם";
 $Definition["Most Helpful"] = "הכי עוזר";

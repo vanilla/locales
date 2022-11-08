@@ -912,6 +912,7 @@ $Definition['I remember now!'] = 'Hatırladım!';
 $Definition['Italic'] = 'İtalik';
 $Definition['Item'] = 'Öğe';
 $Definition['item'] = 'öğe';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Burada yeni gibisin. Başlamak için oturum açın veya kaydolun.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Burada yeni gibi görünüyorsunuz. Eğer katılmak istiyorsanız düğmelerden birine tıklayınız.';
 
 $Definition['Jail'] = 'Hapishane';
@@ -942,7 +943,7 @@ $Definition['Keep User Content'] = 'Kullanıcıya Ait İçerik Kalsın';
 $Definition['Kilobyte'] = 'Kilobayt';
 
 $Definition['Label'] = 'Etiket';
-$Definition['Large'] = 'Büyük';
+$Definition['Languages'] = 'Diller';
 $Definition['Last Active'] = 'Son Etkinlik';
 $Definition['Last Commented'] = 'Son Yorumlanma';
 $Definition['Last IP'] = 'Son IP';

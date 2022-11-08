@@ -908,6 +908,7 @@ $Definition['I remember now!'] = 'Тепер я згадав!';
 $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Елемент';
 $Definition['item'] = 'пункт';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Схоже ви новенький тут. Увійдіть чи зареєструйтесь, щоб почати.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Схоже, що Ви тут вперше. Якщо хочете взяти участь, натисніть на одну з цих кнопок!';
 
 $Definition['Jail'] = 'В\'язниця';
@@ -938,7 +939,7 @@ $Definition['Keep User Content'] = 'Залишити контент корист
 $Definition['Kilobyte'] = 'Кілобайт';
 
 $Definition['Label'] = 'Лейбл';
-$Definition['Large'] = 'Великий';
+$Definition['Languages'] = 'Мови';
 $Definition['Last Active'] = 'Був в';
 $Definition['Last Commented'] = 'Востаннє прокоментовано';
 $Definition['Last IP'] = 'Остання IP адреса';

@@ -922,6 +922,7 @@ $Definition['I remember now!'] = 'Το θυμήθηκα!';
 $Definition['Italic'] = 'Πλάγια γραφή';
 $Definition['Item'] = 'Αντικείμενο';
 $Definition['item'] = 'αντικείμενο';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Φαίνεται ότι είσαι νέος εδώ. Συνδεθείτε ή εγγραφείτε για να ξεκινήσετε.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Φαίνεται πως είστε νέος εδώ. Αν θέλεις να συμμετέχετε, πάτησε ένα από αυτά τα πλήκτρα!';
 
 $Definition['Jail'] = 'Φυλακή';
@@ -951,7 +952,7 @@ $Definition['Keep me signed in'] = 'Κράτησε με συνδεδεμένο';
 $Definition['Keep User Content'] = 'Διατήρηση Περιεχομένων Χρήστη';
 
 $Definition['Label'] = 'Ετικέτα';
-$Definition['Large'] = 'Μεγάλο';
+$Definition['Languages'] = 'Γλώσσες';
 $Definition['Last Active'] = 'Τελευταία Ενέργεια';
 $Definition['Last Commented'] = 'Τελευταίο Σχολιασμένο';
 $Definition['Last IP'] = 'Τελευταία IP';
@@ -2117,6 +2118,12 @@ $Definition['You wrote:'] = 'Εσύ έγραψες:';
 $Definition['yyyy-mm-dd'] = 'χχχχ-μμ-ηη';
 
 $Definition['Zip'] = 'Ταχ. Κωδικας';
+
+$Definition["Hot"] = "Ζεστό";
+$Definition["Most Helpful"] = "Πιο χρήσιμο";
+$Definition["Recently Active"] = "Πρόσφατα ενεργός";
+$Definition["Oldest Members"] = "Παλαιότερα Μέλη";
+$Definition["Newest Members"] = "Τα νεότερα μέλη";
 
 $Definition["Hot"] = "Ζεστό";
 $Definition["Most Helpful"] = "Πιο χρήσιμο";

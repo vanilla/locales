@@ -922,6 +922,7 @@ $Definition['I remember now!'] = '我现在想起来了！';
 $Definition['Italic'] = '斜体';
 $Definition['Item'] = '条目';
 $Definition['item'] = '条目';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = '看起来你是新来的。登录或注册以开始使用。';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '新手上路，加入请点击其中一个按钮:';
 
 $Definition['Jail'] = '禁言';
@@ -952,7 +953,7 @@ $Definition['Keep User Content'] = '保留所有用户内容';
 $Definition['Kilobyte'] = '千字节';
 
 $Definition['Label'] = '表单标签';
-$Definition['Large'] = '大的';
+$Definition['Languages'] = '语言';
 $Definition['Last Active'] = '上次在线';
 $Definition['Last Commented'] = '最后评论';
 $Definition['Last IP'] = '最后登录 IP';

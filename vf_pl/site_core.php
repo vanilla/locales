@@ -902,6 +902,7 @@ $Definition['I remember now!'] = 'Teraz pamiętam!';
 $Definition['Italic'] = 'Kursywa';
 $Definition['Item'] = 'Przedmiot';
 $Definition['item'] = 'przedmiot';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Wygląda na to, że jesteś tu nowy. Zaloguj się lub zarejestruj, aby rozpocząć.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Wygląda na to, że jesteś tutaj nowy. Jeśli chcesz wziąć udział, należy kliknąć jeden z tych przycisków!';
 
 $Definition['Jail'] = 'Więzienie';
@@ -932,7 +933,7 @@ $Definition['Keep User Content'] = 'Zatrzymaj treści użytkownika.';
 $Definition['Kilobyte'] = 'Kilobajt';
 
 $Definition['Label'] = 'Etykieta';
-$Definition['Large'] = 'Wielki';
+$Definition['Languages'] = 'Języki';
 $Definition['Last Active'] = 'Ostatnia aktywność';
 $Definition['Last Commented'] = 'Ostatnio skomentowane';
 $Definition['Last IP'] = 'Ostatnie IP';
@@ -2048,6 +2049,12 @@ $Definition['You wrote:'] = 'Napisano:';
 $Definition['yyyy-mm-dd'] = 'rrrr-mm-dd';
 
 $Definition['Zip'] = 'Zzipuj';
+
+$Definition["Hot"] = "Gorący";
+$Definition["Most Helpful"] = "Najbardziej pomocny";
+$Definition["Recently Active"] = "Ostatnio aktywny";
+$Definition["Oldest Members"] = "Najstarsi członkowie";
+$Definition["Newest Members"] = "Najnowsi członkowie";
 
 $Definition["Hot"] = "Gorący";
 $Definition["Most Helpful"] = "Najbardziej pomocny";

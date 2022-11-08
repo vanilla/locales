@@ -904,6 +904,7 @@ $Definition['IP Address'] = 'Endereço de IP';
 $Definition['I remember now!'] = 'Agora eu me lembro!';
 $Definition['Italic'] = 'Itálico';
 $Definition['item'] = 'Item';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Parece que você é novo aqui. Logue ou registre-se para começar.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Quer participar e contribuir? Clique no botão "Registrar-se" se é sua primeira vez aqui. Se você já é um dos nossos, clique em "Entrar".';
 
 $Definition['Jail'] = 'Prisão';
@@ -933,7 +934,7 @@ $Definition['Keep me signed in'] = 'Mantenha-me conectado';
 $Definition['Keep User Content'] = 'Manter o conteúdo do usuário';
 
 $Definition['Label'] = 'Etiqueta';
-$Definition['Large'] = 'Grande';
+$Definition['Languages'] = 'línguas';
 $Definition['Last Active'] = 'Última atividade';
 $Definition['Last Commented'] = 'Último comentário';
 $Definition['Last IP'] = 'Último IP';

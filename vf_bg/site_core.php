@@ -919,6 +919,7 @@ $Definition['I remember now!'] = 'Спомних си!!';
 $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Ban Item';
 $Definition['item'] = 'елемент';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Изглежда, че си нов тук. Влезте или се регистрирайте, за да започнете.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Изглежда, че сте нови тук. Ако искате да се включите, натиснете един от тези бутони!';
 
 $Definition['Jail'] = 'Затвор';
@@ -949,7 +950,7 @@ $Definition['Keep User Content'] = 'UserKeep';
 $Definition['Kilobyte'] = 'Килобайт';
 
 $Definition['Label'] = 'Етикет';
-$Definition['Large'] = 'Голям';
+$Definition['Languages'] = 'Езици';
 $Definition['Last Active'] = 'Последно активни';
 $Definition['Last Commented'] = 'Последен коментар';
 $Definition['Last IP'] = 'Последен адрес';

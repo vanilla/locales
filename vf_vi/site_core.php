@@ -912,6 +912,7 @@ $Definition['I remember now!'] = 'Nhớ rồi!';
 $Definition['Italic'] = 'In nghiêng';
 $Definition['Item'] = 'Mục';
 $Definition['item'] = 'đề mục';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Có vẻ như bạn là người mới ở đây. Đăng nhập hoặc đăng ký để bắt đầu.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Còn chờ gì nữa mà không mau đăng nhập hoặc đăng ký để cùng tham gia thảo luận với cộng đồng!';
 
 $Definition['Jail'] = 'Cho ra đảo';
@@ -941,7 +942,7 @@ $Definition['Keep me signed in'] = 'Lưu mật khẩu';
 $Definition['Keep User Content'] = 'Giữ lại nội dung của thành viên';
 
 $Definition['Label'] = 'Nhãn';
-$Definition['Large'] = 'Lớn';
+$Definition['Languages'] = 'Ngôn ngữ';
 $Definition['Last Active'] = 'Lần cuối';
 $Definition['Last Commented'] = 'Bình luận Gần nhất';
 $Definition['Last IP'] = 'IP';

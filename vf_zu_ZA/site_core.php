@@ -916,6 +916,7 @@ $Definition['I remember now!'] = 'Ngiyakhumbula manje!';
 $Definition['Italic'] = 'Umalukeke';
 $Definition['Item'] = 'Into';
 $Definition['item'] = 'Into';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Kubukeka sengathi umusha lapha. Ngena ngemvume noma ubhalise ukuze uqalise.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Kubukeka sengathi umusha lapha. Uma ufuna ukubamba iqhaza, chofoza enye yalezi zinkinobho!';
 
 $Definition['Jail'] = 'Ijele';
@@ -945,7 +946,7 @@ $Definition['Keep me signed in'] = 'Ngigcine ngisayinele ukungena';
 $Definition['Keep User Content'] = 'Gcina Okuqukethwe Komsebenzisi';
 
 $Definition['Label'] = 'Ilebula';
-$Definition['Large'] = 'Kukhulu';
+$Definition['Languages'] = 'Izilimi';
 $Definition['Last Active'] = 'Igcine Ukusebenza';
 $Definition['Last Commented'] = 'Kugcine Ukuphawulwa';
 $Definition['Last IP'] = 'I-IP Yokugcina';
@@ -2096,6 +2097,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Uzothol
 $Definition['You wrote:'] = 'Ubhale ukuthi:';
 
 $Definition['Zip'] = 'I-Zip';
+
+$Definition["Hot"] = "Kuyashisa";
+$Definition["Most Helpful"] = "Okuwusizo Kakhulu";
+$Definition["Recently Active"] = "Okusanda Kusebenza";
+$Definition["Oldest Members"] = "Amalungu Amadala Kakhulu";
+$Definition["Newest Members"] = "Amalungu Amasha Kakhulu";
 
 $Definition["Hot"] = "Kuyashisa";
 $Definition["Most Helpful"] = "Okuwusizo Kakhulu";

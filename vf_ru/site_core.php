@@ -943,6 +943,7 @@ $Definition['I remember now!'] = 'Ой, вспомнил!';
 $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Сообщение';
 $Definition['item'] = 'Вклад';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Похоже, ты здесь новенький. Войдите или зарегистрируйтесь, чтобы начать.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Похоже, вы новенький! Присоединяйтесь к нам, кликнув одну из кнопок ниже!';
 
 $Definition['Jail'] = 'Тюрьма';
@@ -973,7 +974,7 @@ $Definition['Keep User Content'] = 'Сохранить контент польз
 $Definition['Kilobyte'] = 'Килобайт';
 
 $Definition['Label'] = 'Ярлык';
-$Definition['Large'] = 'Большой';
+$Definition['Languages'] = 'Языки';
 $Definition['Last Active'] = 'Был на сайте';
 $Definition['Last Commented'] = 'Последнее прокомментированное';
 $Definition['Last IP'] = 'Последний IP';
@@ -2166,6 +2167,12 @@ $Definition['You wrote:'] = 'Вы написали:';
 $Definition['yyyy-mm-dd'] = 'год-месяц-число';
 
 $Definition['Zip'] = 'Почтовый индекс';
+
+$Definition["Hot"] = "Горячий";
+$Definition["Most Helpful"] = "Самый полезный";
+$Definition["Recently Active"] = "Недавно активный";
+$Definition["Oldest Members"] = "Старейшие участники";
+$Definition["Newest Members"] = "Новые участники";
 
 $Definition["Hot"] = "Горячий";
 $Definition["Most Helpful"] = "Самый полезный";

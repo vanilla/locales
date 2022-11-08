@@ -907,6 +907,7 @@ $Definition['I remember now!'] = 'Ohja, nu weet ik het weer!';
 $Definition['Italic'] = 'Cursief';
 $Definition['Item'] = 'Voorwerp';
 $Definition['item'] = 'voorwerp';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Het lijkt erop dat je nieuw bent hier. Log in of registreer om te beginnen.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Het lijkt erop dat je hier nieuw bent. Klik op één van deze knoppen om je aan te melden!';
 
 $Definition['Jail'] = 'Gevangenis';
@@ -936,7 +937,7 @@ $Definition['Keep me signed in'] = 'Houd mij aangemeld';
 $Definition['Keep User Content'] = 'Bewaar gebruikersinhoud';
 
 $Definition['Label'] = 'Etiket';
-$Definition['Large'] = 'Groot';
+$Definition['Languages'] = 'Talen';
 $Definition['Last Active'] = 'Laatst Actief';
 $Definition['Last Commented'] = 'Voor het laatst opmerking geplaatst';
 $Definition['Last IP'] = 'Laatste IP';

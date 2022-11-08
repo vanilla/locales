@@ -901,6 +901,7 @@ $Definition['I remember now!'] = 'Jeg husker det nu!';
 $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'Genstand';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Det ser ud til at du er ny her. Log ind eller registrer dig for at komme i gang.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Det ser ud til, at du er ny. Hvis du vil involveres, klik på en af disse knapper!';
 
 $Definition['Jail'] = 'Fængsel';
@@ -929,7 +930,7 @@ $Definition['Keep me signed in'] = 'Husk mig';
 $Definition['Keep User Content'] = 'Behold brugerindhold';
 
 $Definition['Label'] = 'Mærkat';
-$Definition['Large'] = 'Stor';
+$Definition['Languages'] = 'Sprog';
 $Definition['Last Active'] = 'Sidst aktiv';
 $Definition['Last Commented'] = 'Sidst kommenteret';
 $Definition['Last IP'] = 'Seneste IP';

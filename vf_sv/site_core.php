@@ -907,6 +907,7 @@ $Definition['I remember now!'] = 'Jag minns nu!';
 $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Objekt';
 $Definition['item'] = 'objekt';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Det ser ut som om du är ny här. Logga in eller registrera dig för att komma igång.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Du verkar vara ny här? Om du vill vara med, klicka på en av följande knappar:';
 
 $Definition['Jail'] = 'Fängelse';
@@ -936,7 +937,7 @@ $Definition['Keep me signed in'] = 'Kom ihåg mig';
 $Definition['Keep User Content'] = 'Behåll användarens inlägg';
 
 $Definition['Label'] = 'Etikett';
-$Definition['Large'] = 'Stor';
+$Definition['Languages'] = 'språk';
 $Definition['Last Active'] = 'Senast aktiv';
 $Definition['Last Commented'] = 'Senast kommenterad';
 $Definition['Last IP'] = 'senast IP';

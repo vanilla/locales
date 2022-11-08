@@ -911,6 +911,7 @@ $Definition['I remember now!'] = 'حالا بخاطر آوردم!';
 $Definition['Italic'] = 'مورب';
 $Definition['Item'] = 'آيتم';
 $Definition['item'] = 'آيتم';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'به نظر می رسد که شما اینجا تازه کار هستید. برای شروع به سیستم وارد شوید یا ثبت نام کنید.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'بنظر ميرسد شما اينجا تازه وارد هستيد. اگر ميخواهيد مشاركت داشته باشيد، بر روي يكي از دكمه ها كليك كنيد!';
 
 $Definition['Jail'] = 'حبس';
@@ -941,7 +942,7 @@ $Definition['Keep User Content'] = 'نگه داشتن محتواي كاربر';
 $Definition['Kilobyte'] = 'کیلوبایت';
 
 $Definition['Label'] = 'برچسب';
-$Definition['Large'] = 'بزرگ';
+$Definition['Languages'] = 'زبان ها';
 $Definition['Last Active'] = 'آخرين فعاليت';
 $Definition['Last Commented'] = 'آخرین اظهار نظر';
 $Definition['Last IP'] = 'آخرين IP';
@@ -2087,6 +2088,12 @@ $Definition['You wrote:'] = 'شما نوشته ايد :';
 $Definition['yyyy-mm-dd'] = 'yyy-mm-dd';
 
 $Definition['Zip'] = 'زیپ';
+
+$Definition["Hot"] = "داغ";
+$Definition["Most Helpful"] = "مفید ترین";
+$Definition["Recently Active"] = "اخیراً فعال است";
+$Definition["Oldest Members"] = "قدیمی ترین اعضا";
+$Definition["Newest Members"] = "جدیدترین اعضا";
 
 $Definition["Hot"] = "داغ";
 $Definition["Most Helpful"] = "مفید ترین";

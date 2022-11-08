@@ -919,6 +919,7 @@ $Definition['I remember now!'] = '我現在想起了！';
 $Definition['Italic'] = '斜體';
 $Definition['Item'] = '項目';
 $Definition['item'] = '項目';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = '看起來你是新來的。登錄或註冊以開始使用。';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '點下面的按鈕可以加入我們！';
 
 $Definition['Jail'] = '監禁';
@@ -949,7 +950,7 @@ $Definition['Keep User Content'] = '保留用戶相關內容';
 $Definition['Kilobyte'] = 'KB';
 
 $Definition['Label'] = '標記';
-$Definition['Large'] = '大的';
+$Definition['Languages'] = '語言';
 $Definition['Last Active'] = '最近一次活動';
 $Definition['Last Commented'] = '上次的評論';
 $Definition['Last IP'] = '上次登入IP';

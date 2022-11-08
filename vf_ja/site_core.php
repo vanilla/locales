@@ -915,6 +915,7 @@ $Definition['I remember now!'] = '思い出したので戻る';
 $Definition['Italic'] = 'イタリック';
 $Definition['Item'] = 'Ban Item';
 $Definition['item'] = 'アイテム';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = '初めまして。サインインまたは新規登録してご利用ください。';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '初めてですか？　参加するには、どちらかのボタンをクリックしてください！';
 
 $Definition['Jail'] = '拘束';
@@ -945,7 +946,7 @@ $Definition['Keep User Content'] = 'UserKeep';
 $Definition['Kilobyte'] = 'キロバイト';
 
 $Definition['Label'] = 'ラベル';
-$Definition['Large'] = '大きい';
+$Definition['Languages'] = '言語';
 $Definition['Last Active'] = '最終訪問';
 $Definition['Last Commented'] = '最後のコメント';
 $Definition['Last IP'] = '直近のIPアドレス';
@@ -2085,6 +2086,12 @@ $Definition['You will receive a notification when you are accepted.'] = '承認�
 $Definition['You wrote:'] = 'あなたは以下のように書きました:';
 
 $Definition['Zip'] = 'Zip（ジップ）';
+
+$Definition["Hot"] = "ホット";
+$Definition["Most Helpful"] = "最も役立つ";
+$Definition["Recently Active"] = "最近有効化されたもの";
+$Definition["Oldest Members"] = "最も古いメンバー";
+$Definition["Newest Members"] = "最も新しいメンバー";
 
 $Definition["Hot"] = "ホット";
 $Definition["Most Helpful"] = "最も役立つ";

@@ -899,6 +899,8 @@ $Definition['IP Address'] = 'Alamat IP';
 $Definition['I remember now!'] = 'Saya ingat sekarang!';
 $Definition['Italic'] = 'Cetak miring';
 $Definition['Item'] = 'Item Cekal';
+$Definition['item'] = 'item';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Sepertinya Anda baru di sini. Masuk atau daftar untuk memulai.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Tampaknya anda baru di sini. Bila anda ingin terlibat, klik salah satu tombol berikut!';
 
 $Definition['Jail'] = 'Penjara';
@@ -927,7 +929,8 @@ $Definition['Just you!'] = 'Hanya anda!';
 $Definition['Keep me signed in'] = 'Biarkan saya tetap masuk';
 $Definition['Keep User Content'] = 'Pertahankan Konten Pengguna';
 
-$Definition['Large'] = 'Besar';
+$Definition['Label'] = 'Label';
+$Definition['Languages'] = 'Bahasa';
 $Definition['Last Active'] = 'Terakhir Aktif';
 $Definition['Last Commented'] = 'Terakhir Dikomentari';
 $Definition['Last IP'] = 'IP Terakhir';

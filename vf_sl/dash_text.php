@@ -325,7 +325,129 @@ $Definition['You can place files in your /uploads folder.'] = 'Če je vaša dato
 $Definition['You can specify a minimum post length to discourage short posts.'] = 'Določite lahko najmanjšo dolžino objave, da preprečite kratke objave.';
 $Definition['You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field.'] = 'Pisavo po meri lahko naložite v svoj Theming System. Samo kopirajte in prilepite URL v polje.';
 $Definition['You must select a file to import.'] = 'Izbrati morate datoteko za uvoz.';
-$Definition['You need to add the font url’s domain to <0>AllowedDomains</0>, in the site\'s configuration. <1>Learn more about custom fonts.</1>.'] = 'V <0>Dovoljene domene morate dodati domeno URL-ja pisave</0> v konfiguraciji spletnega mesta. <1>Več o pisavah po meri.</1>';
-$Definition['Your mobile theme will be disabled.'] = 'Vaša mobilna tema bo onemogočena. Če želite nastaviti različne teme za mobilne naprave in namizje, uporabite stari uporabniški vmesnik za teme.';
-$Definition['Your organization name is used for SEO microdata and JSON+LD'] = 'Ime vaše organizacije se uporablja za mikropodatke SEO in JSON+LD';
-$Definition['Your site\'s favicon appears in your browser\'s title bar. It will be scaled down appropriately.'] = 'Ikona priljubljenega mesta se prikaže v naslovni vrstici brskalnika. Ustrezno bo pomanjšan.';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Uporabili boste novo možnost postavitve. To lahko prilagodite in si ogledate predogled z našim urejevalnikom tem. <0>Več o tem</0> .';
+
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Naslov domače strani je prikazan na vaši domači strani. Izberite naslov, za katerega želite, da se pojavi v iskalnikih.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Opis mesta se običajno pojavi v iskalnikih. Poskusite imeti opis, ki je dolg 100-150 znakov.";
+$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Ta naslov se prikaže na pasici vašega spletnega mesta in v naslovni vrstici brskalnika. Imeti mora manj kot 20 znakov. Če je logotip naložen, bo nadomestil ta naslov na straneh foruma, namenjenih uporabnikom. Upoštevajte tudi, da nekatere teme morda skrivajo ta naslov.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Ime vaše organizacije se uporablja za mikropodatke SEO in JSON+LD";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Ta logotip je prikazan na vrhu vašega spletnega mesta. Teme, narejene z urejevalnikom tem, in nekatere teme po meri ne uporabljajo te nastavitve.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Mobilni logotip se prikaže na vrhu vašega spletnega mesta. Teme, narejene z urejevalnikom tem, in nekatere teme po meri ne uporabljajo te nastavitve.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Ikona priljubljenega mesta se prikaže v naslovni vrstici brskalnika. Ustrezno bo pomanjšan.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Ikona na dotik se prikaže, ko dodate spletno stran med zaznamke na začetnem zaslonu mobilne naprave. Te so običajno 152 slikovnih pik.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Ko nekdo deli povezavo z vašega mesta, poskušamo zgrabiti sliko s strani. Če na strani ni slike, bomo namesto nje uporabili to sliko. Slika naj bo velika vsaj 50×50, priporočamo pa 200×200.";
+$Definition["Some browsers support a color for the address bar."] = "Nekateri brskalniki podpirajo barvo naslovne vrstice.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Ta nastavitev naloži stran pred izvajanjem Javascripta, kar lahko izboljša vaš SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Opozorilo: omogočanje te funkcije lahko povzroči napake Javascripta na vašem spletnem mestu.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Odstranite povezave do razprav in kategorij iz menijev. Nastavite strani, povezane z razpravami in kategorijami, da vrnejo stran 404, ki ni bila najdena.";
+
+
+
+///
+/// Theming UI
+///
+
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Vaša mobilna tema bo onemogočena. Če želite nastaviti različne teme za mobilne naprave in namizje, uporabite stari uporabniški vmesnik za teme.";
+$Definition["Heads Up!"] = "Glavo pokonci!";
+$Definition["Welcome to Vanilla's theming UI."] = "Dobrodošli v tematskem uporabniškem vmesniku Vanilla. Na tej strani so navedene vse vaše razpoložljive teme in vam omogoča, da jih kopirate ali urejate.";
+$Definition["Some older themes don't support full editing capability."] = "Nekatere starejše teme ne podpirajo popolne možnosti urejanja. Če si želite ogledati, kaj tema podpira, se pomaknite nad njeno ime in si oglejte, kje bodo spremembe začele veljati.";
+$Definition["Need More Help?"] = "Potrebujete več pomoči?";
+$Definition["Theming Guide"] = "Tematski vodnik";
+$Definition["Old Theming UI"] = "Stari uporabniški vmesnik za temiranje";
+$Definition["If you have an old theme"] = "Če imate staro temo in morate nastaviti ločeno temo za namizje in mobilno napravo, lahko to storite s starim uporabniškim vmesnikom za teme.";
+$Definition["Edits to this theme apply to:"] = "Spremembe te teme veljajo za:";
+
+$Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Predloge so standardne teme. Če jih želite prilagoditi, morate ustvariti kopijo.';
+$Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Teme po meri so teme, ki ste jih ustvarili. Lahko jih urejate, preimenujete ali kopirate.';
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Te teme ni mogoče izbrisati, ker je trenutno uporabljena tema.";
+$Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Ali res želite izbrisati to temo? Trajno bo izbrisan.";
+
+// Preview Page
+$Definition["Welcome To Your Theme"] = "Dobrodošli v vaši temi";
+$Definition["This is a style guide of your theme."] = "To je slogovni vodnik za vašo temo. Vsebuje primere vizualnih elementov, ki se uporabljajo v celotni aplikaciji. Lahko kliknete različne pripomočke, kot je <0>naslovna vrstica</0> ali <1>Pasica</1> za urejanje njihovih lastnosti na stranski plošči.";
+$Definition["In additon to the widgets there are also"] = "Poleg gradnikov obstajajo tudi <0>Globalni slogi</0> . Za urejanje globalnih slogov kliknite kjer koli drugje na strani, na primer to besedilo.";
+$Definition["There are two types of buttons in the application: primary and secondary."] = "V aplikaciji sta dve vrsti gumbov: primarni in sekundarni.";
+$Definition["Primary Button"] = "Primarni gumb";
+$Definition["Secondary Button"] = "Sekundarni gumb";
+$Definition["User inputs are based on the global background and text colors."] = "Uporabniški vnosi temeljijo na globalnem ozadju in barvah besedila.";
+
+// Section Headings
+$Definition["Global Styles"] = "Globalni slogi";
+$Definition["Buttons & Inputs"] = "Gumbi in vhodi";
+$Definition["Buttons"] = "Gumbi";
+$Definition["Title Bar"] = "Naslovna vrstica";
+
+$Definition["Preset"] = "Prednastavitev";
+$Definition["Dark"] = "Temno";
+$Definition["Light"] = "Svetloba";
+
+$Definition["Brand Color"] = "Barva znamke";
+$Definition["Background"] = "Ozadje";
+$Definition["Links"] = "Povezave";
+$Definition["Font"] = "Pisava";
+$Definition["Border Radius"] = "Polmer obrobe";
+$Definition["Font URL"] = "URL pisave";
+$Definition["Font Name"] = "Ime pisave";
+$Definition["Invalid URL"] = "Neveljaven URL";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Pisavo po meri lahko naložite v svoj Theming System. Samo kopirajte in prilepite URL v polje.";
+$Definition["You can configure some values differently for different screensizes."] = "Nekatere vrednosti lahko konfigurirate drugače za različne velikosti zaslona.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "V <0>Dovoljene domene morate dodati domeno URL-ja pisave</0> v konfiguraciji spletnega mesta. <1>Več o pisavah po meri.</1>";
+
+$Definition["Primary Buttons"] = "Primarni gumbi";
+$Definition["Secondary Buttons"] = "Sekundarni gumbi";
+
+$Definition["Button Type"] = "Vrsta gumba";
+$Definition["Solid"] = "Trdna";
+$Definition["Outline"] = "Oris";
+$Definition["Transparent"] = "Pregleden";
+
+$Definition["Background"] = "Ozadje";
+$Definition["Background Image"] = "Slika ozadja";
+$Definition["Choose Image"] = "Izberite Slika";
+$Definition["Color Overlay"] = "Barvno prekrivanje";
+$Definition["Borderless"] = "Brez meja";
+$Definition["Bordered"] = "Obrobljen";
+$Definition["Bordered (Unified)"] = "Obrobljeno (poenoteno)";
+$Definition["Shadowed"] = "Zasenčeno";
+
+$Definition["Full Bleed"] = "Full Bleed";
+$Definition["When you select Full Bleed, your background is transparent."] = "Ko izberete Full Bleed, je vaše ozadje prozorno.";
+$Definition["Alignment"] = "Poravnava";
+$Definition["Left Aligned"] = "Levo poravnano";
+$Definition["Center Aligned"] = "Sredinsko poravnano";
+$Definition["Image (Mobile)"] = "Slika (mobilno)";
+$Definition["Alignment (Mobile)"] = "Poravnava (mobilno)";
+
+// Vanilla Labs
+$Definition['Vanilla Labs'] = 'Vanilla Labs';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Omogočite in preizkusite najnovejše funkcije Vanilla.';
+$Definition['Welcome to Labs!'] = 'Dobrodošli v laboratorijih!';
+$Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Tukaj lahko omogočite in preizkusite nove funkcije, strani in komponente Vanilla.';
+$Definition['This lab cannot be disabled because a custom layout is applied.'] = 'Tega laboratorija ni mogoče onemogočiti, ker je uporabljena postavitev po meri.';
+$Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Tega laboratorija ni mogoče onemogočiti, ker ga zahteva trenutna tema.';
+$Definition['Need more help?'] = 'Potrebujete več pomoči?';
+$Definition['Integrate Foundation Pages & Components Into Your Theme'] = 'Integrirajte temeljne strani in komponente v svojo temo';
+$Definition['Check out our <0>documentation</0>, or ask our <1>community of experts</1>.'] = 'Oglejte si našo <0>dokumentacijo</0> , ali vprašajte našo <1>skupnost strokovnjakov</1> .';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Omogočite in preizkusite najnovejše funkcije Vanilla.';
+$Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'Opomba: Laboratorij <0/> mora biti konfiguriran tako, da ustreza vaši temi po meri. To lahko storite z našim novim urejevalnikom tem. <1>Izvedite več.</1>';
+$Definition['Usercards'] = 'Uporabniške kartice';
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Uporabniške kartice vam omogočajo, da dobite hiter in-line posnetek informacij o uporabniku. Ko si ogledujete objave in lestvice najboljših, kliknite uporabniško ime, da vidite kartico, ki prikazuje osnovne podatke o profilu uporabnika, ne da bi morali zapustiti stran. Omogočite to funkcijo, če želite svoji temi po meri dodati uporabniške kartice.";
+$Definition['New Search Page'] = 'Nova iskalna stran';
+$Definition["Vanilla's new search service is finally here."] = "Vanilla nova storitev iskanja je končno tu. Omogočite naš novi uporabniški vmesnik iskalne strani, da pridobite dostop do najnovejših iskalnih funkcij, kot so iskanje po članih, razvrščanje iskanja in označevanje izrazov.";
+$Definition['New Quick Links'] = 'Nove hitre povezave';
+$Definition['Quick Links is a default component on community pages.'] = "Hitre povezave so privzeta komponenta na straneh skupnosti. Omogočite našo novo komponento hitrih povezav, da dodate, uredite ali skrijete povezave iz tega menija z našim urejevalnikom tem.";
+
+// Embeds
+
+$Definition['Embed Settings'] = 'Nastavitve vdelave';
+$Definition['The New Embed System'] = 'Nov sistem vdelave';
+$Definition['The new embed system has improved performance.'] = 'Novi vdelani sistem ima izboljšano delovanje, izboljšano vedenje drsenja in bolj dosledno vedenje kot stari. Novi vdelani sistem trenutno ne podpira vdelave komentarjev in wordpressa.';
+$Definition['New Embed System'] = 'Nov vdelani sistem';
+$Definition['See the documentation'] = 'Oglejte si dokumentacijo';
+$Definition['Looking for the Old Embed System?'] = 'Iščete Old Embed System?';
+$Definition['Disable the "New Embed System" lab on the <0>Vanilla Labs Page</0>'] = 'Onemogočite laboratorij »Nov vdelani sistem« na strani <0>Vanilla Labs</0>';
+$Definition["Sometimes you want to embed your Vanilla site"] = "Včasih želite svoje spletno mesto Vanilla vdelati v drugo spletno mesto. Vanillin sistem za vdelavo ponuja preprost način za to. Pri uporabi vdelanega mesta obstajajo kompromisi glede zmogljivosti, zato preverite dokumentacijo za alternative in idealne primere uporabe.";
+$Definition['Layout Editor'] = 'Urejevalnik postavitve';
+$Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Omogočite urejevalnik postavitve, da uporabite postavitev po meri za vaše strani skupnosti. Uporabite naš novi urejevalnik za prikaz vsebine z našim katalogom razpoložljivih pripomočkov.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Opomba: novi urejevalnik postavitve bo podedoval temo, nastavljeno v vašem vodniku po slogu (formalno urejevalnik tem). <1>Izvedite več</1>';

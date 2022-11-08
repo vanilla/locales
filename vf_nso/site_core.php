@@ -910,6 +910,7 @@ $Definition['I remember now!'] = 'Ga bjale kea gopola!';
 $Definition['Italic'] = 'Sekame';
 $Definition['Item'] = 'Selo';
 $Definition['item'] = 'selo';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Go bonala eka o mofsa mo. Tsena goba o ingwadiše go thoma.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Go bonala eka o yo mofsa mo. Ge o nyaka go tsena, kgotla e nngwe ya dikonotswana tše!';
 
 $Definition['Jail'] = 'Kgolego';
@@ -940,7 +941,7 @@ $Definition['Keep User Content'] = 'Dula o na le Diteng tša Modiriši';
 $Definition['Kilobyte'] = 'Khilobaete';
 
 $Definition['Label'] = 'Leswao';
-$Definition['Large'] = 'Kgolo';
+$Definition['Languages'] = 'Maleme';
 $Definition['Last Active'] = 'E šomile Kgale';
 $Definition['Last Commented'] = 'O Ngwadile la Mafelelo ka';
 $Definition['Last IP'] = 'IP ya Kgale';

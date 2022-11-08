@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s je napisao na %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s je odobrio %2$s aplikaciju za pristup.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s je kreirao nalog za %1$s.';
 $Definition['%s (Current)'] = '%s (Trenutno)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Креирање налога на форуму';
+$Definition['%s activities'] = '%s активности';
+$Definition['%s activity'] = '%s активност';
 $Definition['%s Agrees'] = '%s Pristaje';
 $Definition['%s and %s others'] = '%s i %s drugih';
 $Definition['%s and you'] = '%s и ти';
@@ -799,7 +799,7 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} izbačen {ActivityUse
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} je komentarisao na <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} poslao vam je <a href="{Url,html}">poruku</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Započeo je novu diskusiju. <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Discussion.Idea'] = '{АцтивитиУсерИД,усер} је покренуо нову идеју у {Дата.Цатегори}: <a href="{Url,html}">{Дата.Наме,тект}</a>';
+$Definition['HeadlineFormat.Discussion.Idea'] = ' {ActivityUserID,user} је покренуо нову идеју у {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} је започео нову анкету у категорији {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} је поставио ново питање у {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} te je spomenuo u <a href="{Url,html}">{Data.Name,text}</a>';
@@ -923,9 +923,6 @@ $Definition['Joined %s'] = 'Pridruženo %s';
 $Definition['Join this Community Now'] = 'Pridružite se ovoj zajednici sada';
 $Definition['Join this Group'] = 'Pridruži se ovoj grupi';
 $Definition['Join this group to view its content.'] = 'Pridružite se grupi da biste videli njen sadržaj.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Pređi pored emodži liste na emodži kategorije.';
-$Definition['Jump to a specific page'] = 'Скочите на одређену страницу';
-$Definition['Jump to first tracked post.'] = 'Pređite na prvu pronađenu objavu.';
 $Definition['Jumped to emoji category: '] = 'Prešao u emodži kategoriju:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Pređi pored emodži liste na emodži kategorije.';
 $Definition['Jump to a specific page'] = 'Скочите на одређену страницу';
@@ -941,6 +938,7 @@ $Definition['Keep User Content'] = 'Zadrži korisnički sadržaj';
 $Definition['Kilobyte'] = 'Kilobajt';
 
 $Definition['Label'] = 'Etiketa';
+$Definition['Languages'] = 'Језици';
 $Definition['Large'] = 'Велики';
 $Definition['Last Active'] = 'Poslednja aktivnost';
 $Definition['Last Commented'] = 'Последњи коментар';
@@ -2081,109 +2079,4 @@ $Definition['yyyy-mm-dd'] = 'gggg-mm-dd';
 
 $Definition['Zip'] = 'Zipujte';
 
-$Definition["Hot"] = "Хот";
-$Definition["Most Helpful"] = "Најкорисније";
-$Definition["Recently Active"] = "Недавно активно";
-$Definition["Oldest Members"] = "Најстарији чланови";
-$Definition["Newest Members"] = "Најновији чланови";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Uređivač obogaćenog teksta.';
-$Definition['richEditor.description.paragraphMenu'] = 'Da bi uredio stil pasusa, pritisni karticu da uđeš u meni za pasuse. Tu ćeš moći da odabereš jedan stil. Nema zadane vrednosti za pasus.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Kada izabereš tekst, pojaviće se umetnuti meni za oblikovanje. Za ulazak u taj meni pritisni karticu.';
-$Definition['richEditor.description.embed'] = 'Neki elementi, poput bogatih ugrađenih veza, slika, indikatora učitavanja i poruka o grešci mogu se ubaciti u uređivač. Možete ih pokretati pomoću tastera sa strelicama unutar uređivača i izbrisati ih tasterom brisanja ili backspace-a.';
-$Definition['richEditor.externalEmbed.description'] = 'Ovo je ugrađeno. Može se obrisati korišćenjem ključa za brisanje ili backspace ključa. Pritisnite karticu da biste ušli u opcije ugradnje.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Koristi prečice na tastaturi „stranica nagore” i „stranica nadole” za kruženje kroz dostupne kategorije kada je meni otvoren.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Umetnuti meni za formatiranje nivoa';
-$Definition['Format as Bold'] = 'Formatiraj kao podebljano';
-$Definition['Bold'] = 'Podebljano';
-$Definition['Format as Italic'] = 'Formatiraj kao kurziv';
-$Definition['Italic'] = 'kurziv';
-$Definition['Format as Strikethrough'] = 'Formatiraj kao precrtani tekst';
-$Definition['Strikethrough'] = 'Precrtani tekst';
-$Definition['Format as Inline Code'] = 'Formatiraj kao umetnuti kod';
-$Definition['Paragraph Code Block'] = 'Blok koda';
-$Definition['Parent'] = 'Родитељ';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Одломак (уклања стил ставка и поставља се на обични одломак)';
-$Definition['Code Block'] = 'Blok koda';
-$Definition['Format as Link'] = 'Formatiraj kao vezu';
-$Definition['Link'] = 'Veza';
-$Definition['Insert Url'] = 'Ubaci url';
-$Definition['Paste or type a link…'] = 'Nalepi ili upiši vezu...';
-$Definition['Close'] = 'Zatvori';
-$Definition['Line Level Formatting Menu'] = 'Meni za formatiranje nivoa linije';
-$Definition['Paragraph'] = 'Pasus';
-$Definition['Format as Paragraph'] = 'Formatiraj kao pasus';
-$Definition['Subtitle'] = 'Podnaslov';
-$Definition['Format as Title'] = 'Formatiraj kao naslov';
-$Definition['Sub Subtitle'] = 'Pod podnaslov';
-$Definition['Format as Subtitle'] = 'Formatiraj kao podnaslov';
-$Definition['Quote'] = 'Citat';
-$Definition['Format as blockquote'] = 'Formatiraj kao blockquote';
-$Definition['Format as code block'] = 'Formatiraj kao blokiranje koda';
-$Definition['Spoiler'] = 'Spojler';
-$Definition['Format as spoiler'] = 'Formatiraj kao spojler';
-$Definition['Inline Menu Available'] = 'Dostupan je umetnuti meni';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emodžiji';
-$Definition['Insert an emoji in your message.'] = 'Umetni emodži u svoju poruku.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Pređi pored emodži liste na emodži kategorije.';
-$Definition['Emoji Categories'] = 'Emodži kategorije';
-$Definition['Jump to emoji category: %s'] = 'Skoči na emoji kategoriju: %s';
-$Definition['In emoji category: %s'] = 'U emoji kategoriji: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smajliji i ljudi';
-$Definition['Animals & Nature'] = 'Životinje i priroda';
-$Definition['Food & Drink'] = 'Hrana i piće';
-$Definition['Travel & Places'] = 'Putovanje i mesta';
-$Definition['Activities'] = 'Aktivnosti';
-$Definition['Objects'] = 'Objekti';
-$Definition['Symbols'] = 'Simboli';
-$Definition['Flags'] = 'Zastavice';
-
-// Media Insertion
-$Definition['Image'] = 'Slika';
-$Definition['Insert Media'] = 'Umetni medij';
-$Definition['Paste the URL of the media you want.'] = 'Nalepi URL medija koji želiš.';
-$Definition['Embed'] = 'Ugradi';
-$Definition['Error'] = 'Greška';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Preklopi citat';
-$Definition['Spoiler Warning'] = 'Upozorenje na spojler';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Флоат Лефт';
-$Definition['Float left'] = 'Флоат Лефт';
-$Definition['Centered'] = 'Центрирано';
-$Definition['Float Right'] = 'Флоат Ригхт';
-$Definition['Float right'] = 'Флоат Ригхт';
-$Definition['Small'] = 'Мала';
-$Definition['Medium'] = 'Средње';
-$Definition['Large'] = 'Велики';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Плацехолдер';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s за дискусију: "%s"';
-$Definition['%s for category: "%s"'] = '%s за категорију: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s коментар корисника: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Корисник "%s" започео дискусију "%s" на датум %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Најновији коментар на датум %s, у дискусији "%s“, од корисника "%s“';
-$Definition['%s for category: "%s"'] = '%s за категорију: "%s"';
-$Definition['Category: "%s"'] = 'Категорија: "%s"';
-$Definition['User: "%s"'] = 'Корисник: "%s"';
-$Definition['Group: "%s"'] = 'Група: "%s"';
-$Definition['Global Navigation'] = 'Глобална навигација';
-$Definition['Skip to content'] = 'Пређи на садржај';
-
-// KB Articles
-$Definition["Read More"] = "Опширније";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} је затражило придруживање {Group}.';

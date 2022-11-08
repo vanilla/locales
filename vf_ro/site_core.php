@@ -898,6 +898,7 @@ $Definition['I remember now!'] = 'Mi-am adus aminte!';
 $Definition['Italic'] = 'Cursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'obiect';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Se pare că ești nou aici. Conectați-vă sau înregistrați-vă pentru a începe.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Implicați-vă acum! <br />Conectați-vă acum prin:';
 
 $Definition['Jail'] = 'inchisoare';
@@ -927,7 +928,7 @@ $Definition['Keep me signed in'] = 'Păstrați-mă logat!';
 $Definition['Keep User Content'] = 'Păstraţi conţinutul utilizatorului';
 
 $Definition['Label'] = 'Eticheta';
-$Definition['Large'] = 'Mare';
+$Definition['Languages'] = 'Limbi';
 $Definition['Last Active'] = 'Ultima data activ';
 $Definition['Last Commented'] = 'Ultimul comentariu';
 $Definition['Last IP'] = 'Ultimul IP';

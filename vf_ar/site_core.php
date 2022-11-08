@@ -798,7 +798,7 @@ $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} حظر {ActivityUserI
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} علّق على <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} أرسل لك <a href="{Url,html}"> رسالة </a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} <a href="{Url,html}">{Data.Name,text}</a>';
-$Definition['HeadlineFormat.Discussion.Idea'] = '{ActivityUserID، user} بدأت فكرة جديدة في {Data.Category}: <a href="{Url,html}">{Data.Name، text}</a>';
+$Definition['HeadlineFormat.Discussion.Idea'] = '{ActivityUserID,user} بدأت فكرة جديدة في {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} بدأ استطلاع جديد في {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Question'] = 'نشر {ActivityUserID,user} سؤالا جديدا في {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} ذكرك في <a href="{Url,html}">{Data.Name,text}</a>';
@@ -909,6 +909,7 @@ $Definition['I remember now!'] = 'أتذكرها الٱن !';
 $Definition['Italic'] = 'مائل';
 $Definition['Item'] = 'بند';
 $Definition['item'] = 'بند';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'يبدو أنك جديد هنا. تسجيل الدخول أو التسجيل للبدء.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'يبدو أنك كنت جديدا هنا. إذا كنت ترغب في الانخراط، انقر فوق أحد هذه الأزرار!';
 
 $Definition['Jail'] = 'سجن';
@@ -939,7 +940,7 @@ $Definition['Keep User Content'] = 'الحفاظ على محتوى المستخ�
 $Definition['Kilobyte'] = 'كيلوبايت';
 
 $Definition['Label'] = 'ملصق';
-$Definition['Large'] = 'كبير';
+$Definition['Languages'] = 'اللغات';
 $Definition['Last Active'] = 'النشاط';
 $Definition['Last Commented'] = 'أحدث التعليقات';
 $Definition['Last IP'] = 'آخر آي بي IP';
@@ -2080,6 +2081,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'سوف 
 $Definition['You wrote:'] = 'أنت كتبت:';
 
 $Definition['Zip'] = 'ملف مضغوط Zip';
+
+$Definition["Hot"] = "حار";
+$Definition["Most Helpful"] = "مفيد جدا";
+$Definition["Recently Active"] = "نشط مؤخرًا";
+$Definition["Oldest Members"] = "أقدم الأعضاء";
+$Definition["Newest Members"] = "الاعضاء الجدد";
 
 $Definition["Hot"] = "حار";
 $Definition["Most Helpful"] = "مفيد جدا";

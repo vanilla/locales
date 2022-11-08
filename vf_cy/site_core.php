@@ -886,6 +886,7 @@ $Definition['I remember now!'] = 'Dwi\'n cofio nawr!';
 $Definition['Italic'] = 'Italig';
 $Definition['Item'] = 'Eitem';
 $Definition['item'] = 'Eitem';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Mae\'n edrych fel eich bod chi\'n newydd yma. Mewngofnodi neu gofrestru i ddechrau.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Mae\'n edrych fel eich bod yn newydd yma. Os ydych am gymryd rhan, cliciwch ar un o\'r botymau yma!';
 
 $Definition['Jail'] = 'Carchar';
@@ -914,7 +915,8 @@ $Definition['Just you!'] = 'Chi!';
 $Definition['Keep me signed in'] = 'Cadwch fi wedi llofnodi i mewn';
 $Definition['Keep User Content'] = 'Cadw cynnwys y defnyddiwr';
 
-$Definition['Large'] = 'Mawr';
+$Definition['Label'] = 'Label';
+$Definition['Languages'] = 'Ieithoedd';
 $Definition['Last Active'] = 'Gweithredol ddiwethaf';
 $Definition['Last Commented'] = 'Wedi\'i Sylw Diwethaf';
 $Definition['Last IP'] = 'IP diwethaf';

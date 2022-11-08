@@ -920,6 +920,7 @@ $Definition['I remember now!'] = 'Takaisin';
 $Definition['Italic'] = 'Kursiivi';
 $Definition['Item'] = 'Kohde';
 $Definition['item'] = 'kohta';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Näyttää siltä, että olet uusi täällä. Kirjaudu sisään tai rekisteröidy aloittaaksesi.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Vaikuttaa siltä että olet uusi täällä? Jos haluat osallistua keskusteluihin, rekisteröidy valitsemalla joku painikkeista ohessa! ';
 
 $Definition['Jail'] = 'Vankila';
@@ -950,7 +951,7 @@ $Definition['Keep User Content'] = 'Pidä käyttäjän lähettämä sisältö';
 $Definition['Kilobyte'] = 'Kilotavu';
 
 $Definition['Label'] = 'Luokitus';
-$Definition['Large'] = 'Suuri';
+$Definition['Languages'] = 'Kieli (kielet';
 $Definition['Last Active'] = 'Viimeksi';
 $Definition['Last Commented'] = 'Viimeksi kommentoitu';
 $Definition['Last IP'] = 'Viimeisin IP';
@@ -2101,6 +2102,12 @@ $Definition['You wrote:'] = 'Sinä kirjoitit:';
 $Definition['yyyy-mm-dd'] = 'vvvv-kk-pp';
 
 $Definition['Zip'] = 'Pakkaa';
+
+$Definition["Hot"] = "Kuuma";
+$Definition["Most Helpful"] = "Hyödyllisin";
+$Definition["Recently Active"] = "Äskettäin aktiivinen";
+$Definition["Oldest Members"] = "Vanhimmat jäsenet";
+$Definition["Newest Members"] = "Uusimmat jäsenet";
 
 $Definition["Hot"] = "Kuuma";
 $Definition["Most Helpful"] = "Hyödyllisin";

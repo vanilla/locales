@@ -899,6 +899,7 @@ $Definition['I remember now!'] = '이제 기억납니다!';
 $Definition['Italic'] = '이탤릭체';
 $Definition['Item'] = '항목';
 $Definition['item'] = '항목';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = '여기 새로 오신 것 같습니다. 시작하려면 로그인하거나 등록하세요.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '새로 오신 회원인가보네요. 참여하시길 원하신다면 다음의 버튼 중 하나를 눌러주세요!';
 
 $Definition['Jail'] = '감옥';
@@ -929,7 +930,7 @@ $Definition['Keep User Content'] = '사용자 컨텐츠 유지';
 $Definition['Kilobyte'] = '킬로바이트';
 
 $Definition['Label'] = '라벨';
-$Definition['Large'] = '크기가 큰';
+$Definition['Languages'] = '언어';
 $Definition['Last Active'] = '마지막으로 온라인';
 $Definition['Last Commented'] = '마지막 댓글';
 $Definition['Last IP'] = '마지막 IP';

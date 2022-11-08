@@ -912,6 +912,7 @@ $Definition['I remember now!'] = 'Most már emlékszem!';
 $Definition['Italic'] = 'Dőlt';
 $Definition['Item'] = 'Elem';
 $Definition['item'] = 'tétel';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Úgy tűnik, új vagy itt. A kezdéshez jelentkezzen be vagy regisztráljon.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Úgy tűnik, hogy új vagy itt! Ha csatlakozni akarsz, klikkelj valamelyik gombra.';
 
 $Definition['Jail'] = 'Börtön';
@@ -942,7 +943,7 @@ $Definition['Keep User Content'] = 'Felhasználói tartalom megőrzése';
 $Definition['Kilobyte'] = 'Kilobájt';
 
 $Definition['Label'] = 'Felirat';
-$Definition['Large'] = 'Nagy';
+$Definition['Languages'] = 'Nyelvek';
 $Definition['Last Active'] = 'Utolsó látogatás';
 $Definition['Last Commented'] = 'Utoljára kommentelt';
 $Definition['Last IP'] = 'Utolsó IP';
@@ -2080,6 +2081,12 @@ $Definition['You wrote:'] = 'Ezt írtad:';
 $Definition['yyyy-mm-dd'] = 'éééé-hh-nn';
 
 $Definition['Zip'] = 'Tömörítés';
+
+$Definition["Hot"] = "Forró";
+$Definition["Most Helpful"] = "Leghasznosabb";
+$Definition["Recently Active"] = "Nemrég aktív";
+$Definition["Oldest Members"] = "Legrégebbi tagok";
+$Definition["Newest Members"] = "Legújabb tagok";
 
 $Definition["Hot"] = "Forró";
 $Definition["Most Helpful"] = "Leghasznosabb";

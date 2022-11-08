@@ -846,6 +846,7 @@ $Definition['Invite one or more people to join this group.'] = 'Imbitahin ang is
 $Definition['I remember now!'] = 'Naaalala ko na!';
 $Definition['Item'] = 'Gamit';
 $Definition['item'] = 'Bagay';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Mukhang bago ka dito. Mag-sign in o magrehistro upang makapagsimula.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Mukhang ikaw ay bago dito. Kung nais mong makibahagi, i-click ang isa sa mga button na ito!';
 
 $Definition['Jail'] = 'kulungan';
@@ -874,7 +875,8 @@ $Definition['Just you!'] = 'Ikaw lamang!';
 $Definition['Keep me signed in'] = 'Panatilihin akong naka-sign in';
 $Definition['Keep User Content'] = 'Panatilihin Ang Mga Nilalaman ng Gumagamit';
 
-$Definition['Large'] = 'Malaki';
+$Definition['Label'] = 'Label';
+$Definition['Languages'] = 'Mga wika';
 $Definition['Last Active'] = 'Huling Aktibo';
 $Definition['Last Commented'] = 'Huling Nakomentohan';
 $Definition['Last IP'] = 'Huling IP';
@@ -1940,6 +1942,12 @@ $Definition['You will receive a notification when you are accepted.'] = 'Makakat
 $Definition['You wrote:'] = 'Ilagay mo:';
 
 $Definition['Zip'] = 'I-zip';
+
+$Definition["Hot"] = "Mainit";
+$Definition["Most Helpful"] = "Pinaka Matulungin";
+$Definition["Recently Active"] = "Aktibo kamakailan";
+$Definition["Oldest Members"] = "Pinakamatandang Miyembro";
+$Definition["Newest Members"] = "Pinakabagong mga Miyembro";
 
 $Definition["Hot"] = "Mainit";
 $Definition["Most Helpful"] = "Pinaka Matulungin";

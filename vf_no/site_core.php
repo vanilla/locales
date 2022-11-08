@@ -878,6 +878,7 @@ $Definition['I remember now!'] = 'Nå husker jeg det!';
 $Definition['Italic'] = 'kursiv';
 $Definition['Item'] = 'Ban Item';
 $Definition['item'] = 'element';
+$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Det ser ut som du er ny her. Logg på eller registrer deg for å komme i gang.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'For å engasjere deg på denne siden, klikk på en av disse knappene:';
 
 $Definition['Jail'] = 'Fengsel';
@@ -907,7 +908,7 @@ $Definition['Keep me signed in'] = 'Hold meg innlogget';
 $Definition['Keep User Content'] = 'UserKeep';
 
 $Definition['Label'] = 'Merke';
-$Definition['Large'] = 'Stor';
+$Definition['Languages'] = 'Språk';
 $Definition['Last Active'] = 'Sist aktiv';
 $Definition['Last Commented'] = 'Sist kommentert';
 $Definition['Last IP'] = 'Siste IP adresse';
