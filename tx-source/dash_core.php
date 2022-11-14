@@ -101,6 +101,7 @@ $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss thi
 $Definition['All Pages'] = 'All Pages';
 $Definition['An enabled message will be visible on the site.'] = 'An enabled message will be visible on the site.';
 $Definition['API'] = 'API';
+$Definition['API Label is required'] = 'API Label is required';
 $Definition['API SSO Expand Permission'] = 'API SSO Expand Permission';
 $Definition['API Status'] = 'API Status';
 $Definition['Appearance'] = 'Appearance';
@@ -474,6 +475,7 @@ $Definition['Key Value'] = 'Key Value';
 $Definition['Keyword Blocker'] = 'Keyword Blocker';
 
 $Definition['Label'] = 'Label';
+$Definition['Label is required'] = 'Label is required';
 $Definition['Label this Revision'] = 'Label this Revision';
 $Definition['Large images will be scaled down.'] = 'Large images will be scaled down to a max width of %spx and a max height of %spx.';
 $Definition['Last Visit'] = 'Last Visit';
@@ -481,7 +483,7 @@ $Definition['Last Day'] = 'Last Day';
 $Definition['Last Week'] = 'Last Week';
 $Definition['Last Month'] = 'Last Month';
 $Definition['Layout'] = 'Layout';
-$Definition['Learn more about HSTS at %s.'] ='Learn more about HSTS at %s.';
+$Definition['Learn more about HSTS at %s.'] = 'Learn more about HSTS at %s.';
 $Definition['Level'] = 'Level';
 $Definition['Link Color'] = 'Link Color';
 $Definition['Likes'] = 'Likes';
@@ -613,6 +615,7 @@ $Definition['permissions.communityManager'] = 'Community Manager';
 $Definition['permissions.admin'] = 'Admin';
 $Definition['Personal Info'] = 'Personal Info';
 $Definition['Please Confirm'] = 'Please Confirm';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'Please enter a unique API Label, this one has been used before';
 $Definition['Plugin'] = 'Plugin';
 $Definition['Plugins'] = 'Plugins';
 $Definition['Pocket'] = 'Pocket';
@@ -689,7 +692,7 @@ $Definition['Search results of members'] = 'Search results of members';
 $Definition['SearchScope.Everywhere'] = 'Everywhere';
 $Definition['seconds'] = 'seconds';
 $Definition['Security'] = 'Security';
-$Definition['See also'] ='See also';
+$Definition['See also'] = 'See also';
 $Definition['Select'] = 'Select';
 $Definition['Select the location of the pocket.'] = 'Select the location of the pocket.';
 $Definition['Send %s a Message'] = 'Send %s a Message';
@@ -949,11 +952,3 @@ $Definition['Display on category page only.'] = 'Display on category page only. 
 $Definition['Use Masonry display'] = 'Use Masonry display';
 $Definition['Show an uploaded image on the Category page.'] = 'Each discussion will show an uploaded image on the Category page. This only applies to categories with "Discussions" as the "Display As."';
 $Definition['Upload Placeholder Image'] = 'Upload Placeholder Image';
-
-
-
-
-
-
-
-
