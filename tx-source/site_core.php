@@ -1979,6 +1979,8 @@ $Definition['You are not allowed to mark a user that has higher permissions than
     'You are not allowed to mark a user that has higher permissions than you as a troll.';
 $Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] =
     'You are not allowed to mark a user with the same permission level as you as a troll.';
+$Definition['You are not allowed to post in categories with a display type of %s.'] =
+    'You are not allowed to post in categories with a display type of %s.';
 $Definition['You are not allowed to warn a user with higher permissions than you.'] =
     'You are not allowed to warn a user with higher permissions than you.';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] =
