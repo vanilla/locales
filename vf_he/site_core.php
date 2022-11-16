@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s כתב על %4$s %5$s';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s אישר את בקשת החברות של %2$s';
 $Definition['%3$s created an account for %1$s.'] = '%3$s יצר חשבון ל %1$s';
 $Definition['%s (Current)'] = '%s (עכשוי)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] יצירת חשבון בפורום';
+$Definition['%s activities'] = 'פעילויות %s';
+$Definition['%s activity'] = 'פעילות %s';
 $Definition['%s Agrees'] = '%s מסכים';
 $Definition['%s and %s others'] = '%s and %s אחרים';
 $Definition['%s and you'] = '%s ואתה';
@@ -921,7 +921,6 @@ $Definition['I remember now!'] = 'אני זוכר אותך!';
 $Definition['Italic'] = 'נטוי';
 $Definition['Item'] = 'מוצר';
 $Definition['item'] = 'פריט';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'נראה שאתה חדש כאן. היכנס או הירשם כדי להתחיל.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ברוך הבא! אם הינך חדש בפורום, תוכל להירשם על ידי לחיצה על אחד הלחצנים מטה. אחרת, באפשרותך לבצע התחברות.';
 
 $Definition['Jail'] = 'כלא';
@@ -934,9 +933,6 @@ $Definition['Joined %s'] = ' %s הצטרף ';
 $Definition['Join this Community Now'] = 'הצטרף לקהילה עכשיו';
 $Definition['Join this Group'] = 'הצטרף לקבוצה הזו';
 $Definition['Join this group to view its content.'] = 'הצטרף לקבוצה זו על מנת לראות את תוכנה.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'קפטץ מרשימת האימוג׳י, לקטגוריות האמוג׳י. ';
-$Definition['Jump to a specific page'] = 'קפוץ לדף ספציפי';
-$Definition['Jump to first tracked post.'] = 'קפוץ לפוסט הראשון שאותר.';
 $Definition['Jumped to emoji category: '] = 'קפץ לקטגורית אימוג׳י:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'קפטץ מרשימת האימוג׳י, לקטגוריות האמוג׳י. ';
 $Definition['Jump to a specific page'] = 'קפוץ לדף ספציפי';
@@ -953,6 +949,7 @@ $Definition['Kilobyte'] = 'קילובייט';
 
 $Definition['Label'] = 'תווית';
 $Definition['Languages'] = 'שפות';
+$Definition['Large'] = 'גָדוֹל';
 $Definition['Last Active'] = 'פעיל לאחרונה';
 $Definition['Last Commented'] = 'תגובה אחרונה';
 $Definition['Last IP'] = 'IP אחרון';
@@ -2121,115 +2118,4 @@ $Definition['yyyy-mm-dd'] = 'שנה-חודש-יום';
 
 $Definition['Zip'] = 'דחוס';
 
-$Definition["Hot"] = "חַם";
-$Definition["Most Helpful"] = "הכי עוזר";
-$Definition["Recently Active"] = "פעיל לאחרונה";
-$Definition["Oldest Members"] = "החברים הוותיקים ביותר";
-$Definition["Newest Members"] = "החברים החדשים ביותר";
-
-$Definition["Hot"] = "חַם";
-$Definition["Most Helpful"] = "הכי עוזר";
-$Definition["Recently Active"] = "פעיל לאחרונה";
-$Definition["Oldest Members"] = "החברים הוותיקים ביותר";
-$Definition["Newest Members"] = "החברים החדשים ביותר";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'עורך טקסט עשיר. ';
-$Definition['richEditor.description.paragraphMenu'] = 'כדי לערוך סגנון פסקה, לחץ על הטבלה כדי להגיע לתפריט הפסקה. משם תוכל לבחור סגנון. דבר לא תואם לפסקה.   '; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'תפריט עריכה תוך שורה יופיע כשתבחרו טקסט. לחץ על אפשרות כדע להיכנס לתפריט זה. ';
-$Definition['richEditor.description.embed'] = 'כמה אלמנטים, הטמעות היפר-קישורים, תמונות, סמני טעינה והודעות שגיאה עשויים להיכנס לעורך. תוכלו לנווט אליהם באמצעות מקשי החיצים בתוך העורך ולמחוק אותם עם מקש הdelete או מקש המחיקה. ';
-$Definition['richEditor.externalEmbed.description'] = 'זו הטבעה. ניתן למחוק אותה באמצעות מקש המחיקה או מקש החזרה לאחור. יש ללחוץ על tab כדי להיכנס לאפשרויות ההטבעה.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'השתמש בקיצורי המקלדת ״דף למעלה״ ו״דף למעטה״ כדי לעבור על הקטגוריות האפשריות כשהתפריט פתוח. ';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'תפריט פרמוט בשורת הקריאה';
-$Definition['Format as Bold'] = 'פרמטו כאותיות מודגשות ';
-$Definition['Bold'] = 'בולט';
-$Definition['Format as Italic'] = 'פרמטו כאותיות נטויות';
-$Definition['Italic'] = 'נטוי';
-$Definition['Format as Strikethrough'] = 'פרמטו כאותיות חצויות בקו';
-$Definition['Strikethrough'] = 'חוצה';
-$Definition['Format as Inline Code'] = 'פרמטו כקוד בשורת הקריאה';
-$Definition['Paragraph Code Block'] = 'קוד חסימה';
-$Definition['Parent'] = 'הורה';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'פסקה (מסיר את סגנון הפסקה ומגדיר כפסקה רגילה)';
-$Definition['Code Block'] = 'קוד חסימה';
-$Definition['Format as Link'] = 'פרמטו כקישור';
-$Definition['Link'] = 'קישור';
-$Definition['Insert Url'] = 'הכניסו כתובת URL';
-$Definition['Paste or type a link…'] = 'הדבק או כתוב קישור...';
-$Definition['Close'] = 'לנעול';
-$Definition['Line Level Formatting Menu'] = 'תפריט פרמוט ';
-$Definition['Paragraph'] = 'פסקה';
-$Definition['Format as Paragraph'] = 'פרמטו כפסקה ';
-$Definition['Subtitle'] = 'כתובית';
-$Definition['Format as Title'] = 'פרמטו ככותרת';
-$Definition['Sub Subtitle'] = 'כתובית משנה';
-$Definition['Format as Subtitle'] = 'פרמט ככתוביות';
-$Definition['Quote'] = 'ציטוט';
-$Definition['Format as blockquote'] = 'פרמטו כבלוק ציטוט';
-$Definition['Format as code block'] = 'פרמטו כבלוק קוד';
-$Definition['Spoiler'] = 'ספוילר';
-$Definition['Format as spoiler'] = 'פרמטו כספוילר';
-$Definition['Inline Menu Available'] = 'תפריט תוך שורה זמין';
-
-// Emoji Picker
-$Definition['Emoji'] = 'אמוג׳י';
-$Definition['Emojis'] = 'אמוג\'ים';
-$Definition['Insert an emoji in your message.'] = 'הכנס אימוג׳י במסר שלך. ';
-$Definition['Jump past emoji list, to emoji categories.'] = 'קפטץ מרשימת האימוג׳י, לקטגוריות האמוג׳י. ';
-$Definition['Emoji Categories'] = 'קטגוריות אימוג׳י';
-$Definition['Jump to emoji category: %s'] = 'קפצו לקטגוריית אימוג\'ים: %s';
-$Definition['In emoji category: %s'] = 'בקטגוריית אימוג\'ים: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'סמיילים ואנשים';
-$Definition['Animals & Nature'] = 'חיות וטבע';
-$Definition['Food & Drink'] = 'אוכל ושתייה';
-$Definition['Travel & Places'] = 'טיולים ומקומות';
-$Definition['Activities'] = 'פעילויות';
-$Definition['Objects'] = 'חפצים';
-$Definition['Symbols'] = 'סמלים';
-$Definition['Flags'] = 'דגלים';
-
-// Media Insertion
-$Definition['Image'] = 'תמונה';
-$Definition['Insert Media'] = 'הכניסו מדיה';
-$Definition['Paste the URL of the media you want.'] = 'הדבק את הURL של המדיה שאתם רוצים.  ';
-$Definition['Embed'] = 'הטמיעו';
-$Definition['Error'] = 'שגיאה';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'ציטוט toggle';
-$Definition['Spoiler Warning'] = 'אזהרת ספוילר';
-
-// Image Size & placement
-$Definition['Float Left'] = 'לצוף שמאלה';
-$Definition['Float left'] = 'לצוף שמאלה';
-$Definition['Centered'] = 'מְרוּכָּז';
-$Definition['Float Right'] = 'לצוף ימינה';
-$Definition['Float right'] = 'לצוף ימינה';
-$Definition['Small'] = 'קָטָן';
-$Definition['Medium'] = 'בינוני';
-$Definition['Large'] = 'גָדוֹל';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'שומר מקום';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s לדיון: "%s"';
-$Definition['%s for category: "%s"'] = '%s לקטגוריה: "%s"';
-$Definition['%s comment by user: "%s"'] = 'תגובת %s על ידי המשתמש: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'המשתמש/ת "%s" התחיל/ה את הדיון "%s" בתאריך %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'התגובה האחרונה בתאריך %s, בדיון "%s", על ידי המשתמש "%s"';
-$Definition['%s for category: "%s"'] = '%s לקטגוריה: "%s"';
-$Definition['Category: "%s"'] = 'קטגוריה: "%s"';
-$Definition['User: "%s"'] = 'משתמש: "%s"';
-$Definition['Group: "%s"'] = 'קבוצה: "%s"';
-$Definition['Global Navigation'] = 'ניווט גלובלי';
-$Definition['Skip to content'] = 'דלג לתוכן';
-
-// KB Articles
-$Definition["Read More"] = "קרא עוד";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} ביקש להצטרף ל- {Group}.';

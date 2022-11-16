@@ -20,7 +20,8 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$sさんが%2$s�
 $Definition['%3$s created an account for %1$s.'] = '%3$sが%1$sのためにアカウントを作成しました。';
 $Definition['%s (Current)'] = '%s(現在)';
 $Definition['%s: %s'] = '%s：%s';
-$Definition['[%s] Forum Account Creation'] = '[%s] フォーラムアカウント作成';
+$Definition['%s activities'] = '%s アクティビティ';
+$Definition['%s activity'] = '%s アクティビティ';
 $Definition['%s Agrees'] = '%sを同意する';
 $Definition['%s and %s others'] = '%s と%sのその他';
 $Definition['%s and you'] = '%sとあなた';
@@ -915,7 +916,6 @@ $Definition['I remember now!'] = '思い出したので戻る';
 $Definition['Italic'] = 'イタリック';
 $Definition['Item'] = 'Ban Item';
 $Definition['item'] = 'アイテム';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = '初めまして。サインインまたは新規登録してご利用ください。';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '初めてですか？　参加するには、どちらかのボタンをクリックしてください！';
 
 $Definition['Jail'] = '拘束';
@@ -928,9 +928,6 @@ $Definition['Joined %s'] = '%sに参加しました';
 $Definition['Join this Community Now'] = 'このコミュニティに今すぐ参加しましょう';
 $Definition['Join this Group'] = 'このグループに参加する';
 $Definition['Join this group to view its content.'] = '内容を見るにはこのグループへ参加してください。';
-$Definition['Jump past emoji list, to emoji categories.'] = '過去の絵文字リストから絵文字カテゴリーに移動して下さい。';
-$Definition['Jump to a specific page'] = '特定のページに移動';
-$Definition['Jump to first tracked post.'] = '最初にトラックされたポストへとジャンプ';
 $Definition['Jumped to emoji category: '] = '絵文字カテゴリーにジャンプしました：';
 $Definition['Jump past emoji list, to emoji categories.'] = '過去の絵文字リストから絵文字カテゴリーに移動して下さい。';
 $Definition['Jump to a specific page'] = '特定のページに移動';
@@ -947,6 +944,7 @@ $Definition['Kilobyte'] = 'キロバイト';
 
 $Definition['Label'] = 'ラベル';
 $Definition['Languages'] = '言語';
+$Definition['Large'] = '大きい';
 $Definition['Last Active'] = '最終訪問';
 $Definition['Last Commented'] = '最後のコメント';
 $Definition['Last IP'] = '直近のIPアドレス';
@@ -2087,115 +2085,4 @@ $Definition['You wrote:'] = 'あなたは以下のように書きました:';
 
 $Definition['Zip'] = 'Zip（ジップ）';
 
-$Definition["Hot"] = "ホット";
-$Definition["Most Helpful"] = "最も役立つ";
-$Definition["Recently Active"] = "最近有効化されたもの";
-$Definition["Oldest Members"] = "最も古いメンバー";
-$Definition["Newest Members"] = "最も新しいメンバー";
-
-$Definition["Hot"] = "ホット";
-$Definition["Most Helpful"] = "最も役立つ";
-$Definition["Recently Active"] = "最近有効化されたもの";
-$Definition["Oldest Members"] = "最も古いメンバー";
-$Definition["Newest Members"] = "最も新しいメンバー";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'リッチテキストエディタ。';
-$Definition['richEditor.description.paragraphMenu'] = '段落のスタイルを編集するには、タブを押して段落メニューを表示します。 そこからスタイルを選択することができます。デフォルトでは段落はありません。'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'テキストを選択すると、インラインの書式設定メニューが表示されます。 タブを押すとそのメニューに入ります。';
-$Definition['richEditor.description.embed'] = '埋め込みリッチ・リンク、イメージ、読み込み中表示、エラーメッセージなどの要素がエディタに挿入される場合があります。エディタの中で矢印キーを使って進み、deleteキーやbackspaceキーを使ってこれらを削除できます。';
-$Definition['richEditor.externalEmbed.description'] = 'これは埋込です。デリートキーまたはバックスペースキーで削除できます。タブキーで埋込オプションに入ることができます。';
-$Definition['richEditor.emoji.pagingInstructions'] = 'メニューが開いている状態で、使用可能なカテゴリーを順に切り替えるには、キーボードショートカットの「ページアップ」と「ページダウン」を使用します。';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'インラインレベル書式メニュー';
-$Definition['Format as Bold'] = '太字書式を適用';
-$Definition['Bold'] = 'ボールド';
-$Definition['Format as Italic'] = 'イタリック書式を適用';
-$Definition['Italic'] = 'イタリック';
-$Definition['Format as Strikethrough'] = '取り消し線書式を適用';
-$Definition['Strikethrough'] = '取り消し線';
-$Definition['Format as Inline Code'] = 'インライン・コード書式を適用';
-$Definition['Paragraph Code Block'] = 'コードブロック';
-$Definition['Parent'] = '親';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = '段落（段落のスタイルを削除し、プレーンな段落に設定します）';
-$Definition['Code Block'] = 'コードブロック';
-$Definition['Format as Link'] = 'リンク書式を適用';
-$Definition['Link'] = 'リンク';
-$Definition['Insert Url'] = 'URLを挿入';
-$Definition['Paste or type a link…'] = 'リンクを貼り付けまたは入力して下さい...';
-$Definition['Close'] = 'アーカイブする';
-$Definition['Line Level Formatting Menu'] = '行レベル書式メニュー';
-$Definition['Paragraph'] = '段落';
-$Definition['Format as Paragraph'] = '段落書式を適用';
-$Definition['Subtitle'] = 'サブタイトル';
-$Definition['Format as Title'] = 'タイトル書式を適用';
-$Definition['Sub Subtitle'] = 'サブ・サブタイトル';
-$Definition['Format as Subtitle'] = 'サブタイトル書式を適用';
-$Definition['Quote'] = '引用';
-$Definition['Format as blockquote'] = 'ブロック引用書式を適用';
-$Definition['Format as code block'] = 'コードブロック書式を適用';
-$Definition['Spoiler'] = 'ネタバレ';
-$Definition['Format as spoiler'] = 'ネタバレ書式を適用';
-$Definition['Inline Menu Available'] = 'インラインメニューの利用可';
-
-// Emoji Picker
-$Definition['Emoji'] = '絵文字';
-$Definition['Emojis'] = '絵文字';
-$Definition['Insert an emoji in your message.'] = 'メッセージに絵文字を挿入して下さい。';
-$Definition['Jump past emoji list, to emoji categories.'] = '過去の絵文字リストから絵文字カテゴリーに移動して下さい。';
-$Definition['Emoji Categories'] = '絵文字カテゴリー';
-$Definition['Jump to emoji category: %s'] = '以下の絵文字カテゴリーにジャンプする: %s';
-$Definition['In emoji category: %s'] = '以下の絵文字カテゴリーで: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = '顔文字と人物';
-$Definition['Animals & Nature'] = '動物と自然';
-$Definition['Food & Drink'] = '食べ物と飲み物';
-$Definition['Travel & Places'] = '旅と名所';
-$Definition['Activities'] = 'アクティビティー';
-$Definition['Objects'] = 'オブジェクト';
-$Definition['Symbols'] = '記号';
-$Definition['Flags'] = 'フラグ';
-
-// Media Insertion
-$Definition['Image'] = '画像';
-$Definition['Insert Media'] = 'メディアを挿入';
-$Definition['Paste the URL of the media you want.'] = '必要なメディアのURLを貼り付けて下さい。';
-$Definition['Embed'] = '埋め込む';
-$Definition['Error'] = 'エラー';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = '引用を切りかえる';
-$Definition['Spoiler Warning'] = 'ネタバレ注意';
-
-// Image Size & placement
-$Definition['Float Left'] = '左にフロート';
-$Definition['Float left'] = '左にフロート';
-$Definition['Centered'] = '中央揃え';
-$Definition['Float Right'] = '右にフロート';
-$Definition['Float right'] = '右にフロート';
-$Definition['Small'] = '小さな';
-$Definition['Medium'] = '中くらい';
-$Definition['Large'] = '大きい';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'プレースホルダー';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = 'ディスカッション: "%s"のための%s';
-$Definition['%s for category: "%s"'] = '%sは以下のカテゴリーのためです: "%s"';
-$Definition['%s comment by user: "%s"'] = '%sのコメントは以下のユーザーによるものです: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'ユーザー"%s"は、日付 "%s"にディスカッション"%s"を開始しました';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'ディスカッション"%s"の、ユーザー"%s"による日 %sの最新のコメント';
-$Definition['%s for category: "%s"'] = '%sは以下のカテゴリーのためです: "%s"';
-$Definition['Category: "%s"'] = 'カテゴリー: "%s"';
-$Definition['User: "%s"'] = 'ユーザー: "%s"';
-$Definition['Group: "%s"'] = 'グループ: "%s"';
-$Definition['Global Navigation'] = 'グローバルナビゲーション';
-$Definition['Skip to content'] = 'コンテンツにスキップ';
-
-// KB Articles
-$Definition["Read More"] = "続きを読む";
+$Definition['{Username} has requested to join {Group}.'] = '{Username}が{Group}への参加をリクエストしました。';

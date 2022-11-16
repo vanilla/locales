@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s, %4$s %5$s hakkında yazdı.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s tarafından %2$s üyelik başvurusu kabul edildi.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s, %1$s için bir hesap oluşturdu.';
 $Definition['%s (Current)'] = '%s (Şimdiki)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Forum Hesabı Oluşturma';
+$Definition['%s activities'] = '%s etkinlik';
+$Definition['%s activity'] = '%s etkinlik';
 $Definition['%s Agrees'] = '%s Onaylanan';
 $Definition['%s and %s others'] = '%s %s ve diğerleri';
 $Definition['%s and you'] = '%s ve siz';
@@ -912,7 +912,6 @@ $Definition['I remember now!'] = 'Hatırladım!';
 $Definition['Italic'] = 'İtalik';
 $Definition['Item'] = 'Öğe';
 $Definition['item'] = 'öğe';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Burada yeni gibisin. Başlamak için oturum açın veya kaydolun.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Burada yeni gibi görünüyorsunuz. Eğer katılmak istiyorsanız düğmelerden birine tıklayınız.';
 
 $Definition['Jail'] = 'Hapishane';
@@ -925,9 +924,6 @@ $Definition['Joined %s'] = '%s katıldı';
 $Definition['Join this Community Now'] = 'Şimdi bu Topluluğa Katıl';
 $Definition['Join this Group'] = 'Bu gruba katıl';
 $Definition['Join this group to view its content.'] = 'İçeriği incelemek için bu gruba katılın.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Emoji listesini atla, emoji kategorilerine git.';
-$Definition['Jump to a specific page'] = 'Belirli bir sayfaya atla';
-$Definition['Jump to first tracked post.'] = 'ilk izlenen gönderiye atla.';
 $Definition['Jumped to emoji category: '] = 'Emoji kategorisine atlandı:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Emoji listesini atla, emoji kategorilerine git.';
 $Definition['Jump to a specific page'] = 'Belirli bir sayfaya atla';
@@ -944,6 +940,7 @@ $Definition['Kilobyte'] = 'Kilobayt';
 
 $Definition['Label'] = 'Etiket';
 $Definition['Languages'] = 'Diller';
+$Definition['Large'] = 'Büyük';
 $Definition['Last Active'] = 'Son Etkinlik';
 $Definition['Last Commented'] = 'Son Yorumlanma';
 $Definition['Last IP'] = 'Son IP';
@@ -2081,111 +2078,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Kabul e
 $Definition['You wrote:'] = 'Sen yazdın:';
 $Definition['yyyy-mm-dd'] = 'yyyy-aa-gg';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Sıcak";
-$Definition["Most Helpful"] = "En Faydalı";
-$Definition["Recently Active"] = "Son zamanlarda Aktif";
-$Definition["Oldest Members"] = "En Eski Üyeler";
-$Definition["Newest Members"] = "En Yeni Üyeler";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Zengin Metin Düzenleyici.';
-$Definition['richEditor.description.paragraphMenu'] = 'Bir paragrafın stilini düzenlemek için paragraf menüsü sekmesine basın. Buradan bir stil seçebilirsiniz. Hiçbir şey seçilmediğinde varsayılan olarak paragraf seçilir.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Metni seçtiğinizde satır içi biçimlendirme menüsü görüntülenir. Bu menüye gitmek için sekmeye basın.';
-$Definition['richEditor.description.embed'] = 'Bağlantı gömülü zengin içerikler, görüntüler, yükleme göstergeleri ve hata mesajları gibi bazı öğeler editöre eklenebilir. Editörün içerisindeki ok tuşlarını kullanarak bunları yönlendirebilir ve silme ya da geri alma tuşuyla silebilirsiniz.';
-$Definition['richEditor.externalEmbed.description'] = 'Bu bir yerleştirmedir. Silme veya geri alma tuşu ile silinebilir. Yerleştirme seçeneklerine girmek için sekmeye basın.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Menü açıldığında mevcut kategoriler arasında gezinmek "page up" ve "page down" klavye kısayollarını kullanabilirsiniz.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'İçerik Seviyesi Biçimlendirme Menüsü';
-$Definition['Format as Bold'] = 'Kalın Yazı Olarak Biçimlendir';
-$Definition['Bold'] = 'Kalın';
-$Definition['Format as Italic'] = 'İtalik Olarak Biçimlendir';
-$Definition['Italic'] = 'İtalik';
-$Definition['Format as Strikethrough'] = 'Üstü Çizgili Olarak Biçimlendir';
-$Definition['Strikethrough'] = 'Üstü çizgili';
-$Definition['Format as Inline Code'] = 'İçerik Kodu Olarak Biçimlendir';
-$Definition['Paragraph Code Block'] = 'Kod Bloğu';
-$Definition['Parent'] = 'Üst Öge';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paragraf (Paragraf stilini kaldırır ve düz paragraf yerleştirir)';
-$Definition['Code Block'] = 'Kod Bloğu';
-$Definition['Format as Link'] = 'Link Olarak Biçimlendir';
-$Definition['Link'] = 'Bağlantı';
-$Definition['Insert Url'] = 'URL Ekle';
-$Definition['Paste or type a link…'] = 'Bağlantıyı yapıştırın veya yazın...';
-$Definition['Close'] = 'Kapat';
-$Definition['Line Level Formatting Menu'] = 'Seviye Biçimlendirme Menüsü';
-$Definition['Paragraph'] = 'Paragraf';
-$Definition['Format as Paragraph'] = 'Paragraf Olarak Biçimlendir';
-$Definition['Subtitle'] = 'Altyazı';
-$Definition['Format as Title'] = 'Başlık Olarak Biçimlendir';
-$Definition['Sub Subtitle'] = 'Alt Altyazı';
-$Definition['Format as Subtitle'] = 'Altyazı Olarak Biçimlendir.';
-$Definition['Quote'] = 'Alıntı';
-$Definition['Format as blockquote'] = 'Blok Alıntı Olarak Biçimlendir.';
-$Definition['Format as code block'] = 'Kod Bloğu Olarak Biçimlendir';
-$Definition['Spoiler'] = 'Spoiler';
-$Definition['Format as spoiler'] = 'Spoiler Olarak Biçimlendir';
-$Definition['Inline Menu Available'] = 'Satır İçi Menü Mevcut';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emojiler';
-$Definition['Insert an emoji in your message.'] = 'Mesajınıza bir emoji ekleyin.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Emoji listesini atla, emoji kategorilerine git.';
-$Definition['Emoji Categories'] = 'Emoji Kategorileri';
-$Definition['Jump to emoji category: %s'] = 'Şu emoji kategorisine atla: %s';
-$Definition['In emoji category: %s'] = 'Şu emoji kategorisinde: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Suratlar ve İnsanlar';
-$Definition['Animals & Nature'] = 'Hayvanlar ve Doğa';
-$Definition['Food & Drink'] = 'Yiyecek ve İçecek';
-$Definition['Travel & Places'] = 'Seyahat ve Yerler';
-$Definition['Activities'] = 'Etkinlikler';
-$Definition['Objects'] = 'Nesneler';
-$Definition['Symbols'] = 'Semboller';
-$Definition['Flags'] = 'İşaretler';
-
-// Media Insertion
-$Definition['Image'] = 'Görsel';
-$Definition['Insert Media'] = 'Medya Ekle';
-$Definition['Paste the URL of the media you want.'] = 'İstediğiniz medyanın URL\'sini yapıştırın.';
-$Definition['Embed'] = 'Gömülü';
-$Definition['Error'] = 'Hata';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Teklifi Değiştir';
-$Definition['Spoiler Warning'] = 'Spoiler İkazı';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Sola Kaydır';
-$Definition['Float left'] = 'Sola Kaydır';
-$Definition['Centered'] = 'ortalanmış';
-$Definition['Float Right'] = 'Sağa çık';
-$Definition['Float right'] = 'Sağa çık';
-$Definition['Small'] = 'Küçük';
-$Definition['Medium'] = 'Orta';
-$Definition['Large'] = 'Büyük';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Yer tutucu';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s tartışma için: "%s"';
-$Definition['%s for category: "%s"'] = '%s kategori için: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s kullanıcı yorumu: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Kullanıcı "%s" tartışma başlattı "%s" tarihinde %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = '%s tarihinde tartışılan "%s" hakkında en son yorum, "%s" kullanıcısı tarafından yapıldı';
-$Definition['%s for category: "%s"'] = '%s kategori için: "%s"';
-$Definition['Category: "%s"'] = 'Kategori: "%s"';
-$Definition['User: "%s"'] = 'Kullanıcı: "%s"';
-$Definition['Group: "%s"'] = 'Grup: "%s"';
-$Definition['Global Navigation'] = 'Global Navigasyon';
-$Definition['Skip to content'] = 'İçeriğe atla';
-
-// KB Articles
-$Definition["Read More"] = "Daha fazla oku";
+$Definition['{Username} has requested to join {Group}.'] = '{Username}, {Group}\'a katılmak için istekte bulundu.';

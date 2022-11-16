@@ -201,6 +201,7 @@ $Definition['Group Members'] = 'Members';
 $Definition['GroupMembersEmpty'] = 'No one has joined yet. Spread the word!';
 $Definition['Groups Menu'] = 'Groups';
 $Definition['GuestModule.Group.Message'] = 'Sign in or Register to join the group and to view its content.';
+$Definition['GuestModule.Message'] = 'It looks like you\'re new here. Sign in or register to get started.';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} accepted {NotifyUserID,your} answer.';

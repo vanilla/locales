@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s написав на %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s затвердили %2$s членство додатків.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s створено аккаунт до %1$s.';
 $Definition['%s (Current)'] = '%s (Поточний)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Створення облікового запису на форумі';
+$Definition['%s activities'] = '%s активності';
+$Definition['%s activity'] = '%s активність';
 $Definition['%s Agrees'] = '%s погоджується';
 $Definition['%s and %s others'] = '%s та %s інших';
 $Definition['%s and you'] = '%s і Ви';
@@ -908,7 +908,6 @@ $Definition['I remember now!'] = 'Тепер я згадав!';
 $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Елемент';
 $Definition['item'] = 'пункт';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Схоже ви новенький тут. Увійдіть чи зареєструйтесь, щоб почати.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Схоже, що Ви тут вперше. Якщо хочете взяти участь, натисніть на одну з цих кнопок!';
 
 $Definition['Jail'] = 'В\'язниця';
@@ -921,9 +920,6 @@ $Definition['Joined %s'] = 'Підєднано %s';
 $Definition['Join this Community Now'] = 'Приєднатися до цієї спільноти зараз';
 $Definition['Join this Group'] = 'Підєднатись до групи';
 $Definition['Join this group to view its content.'] = 'Приєднатися до цієї групи, щоб переглянути її вміст.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Перейдіть від списку смайликів до категорій смайликів.';
-$Definition['Jump to a specific page'] = 'Перейти до певної сторінки';
-$Definition['Jump to first tracked post.'] = 'Перейти до першого посту, що відстежується.';
 $Definition['Jumped to emoji category: '] = 'Перехід до категорії смайликів:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Перейдіть від списку смайликів до категорій смайликів.';
 $Definition['Jump to a specific page'] = 'Перейти до певної сторінки';
@@ -940,6 +936,7 @@ $Definition['Kilobyte'] = 'Кілобайт';
 
 $Definition['Label'] = 'Лейбл';
 $Definition['Languages'] = 'Мови';
+$Definition['Large'] = 'Великий';
 $Definition['Last Active'] = 'Був в';
 $Definition['Last Commented'] = 'Востаннє прокоментовано';
 $Definition['Last IP'] = 'Остання IP адреса';
@@ -2072,111 +2069,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Ви о
 $Definition['You wrote:'] = 'Ви написали:';
 $Definition['yyyy-mm-dd'] = 'рррр-мм-дд';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Гаряче";
-$Definition["Most Helpful"] = "Дуже корисно";
-$Definition["Recently Active"] = "Нещодавно активний";
-$Definition["Oldest Members"] = "Найстарші учасники";
-$Definition["Newest Members"] = "Нові учасники";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Редактор форматованого тексту.';
-$Definition['richEditor.description.paragraphMenu'] = 'Щоб редагувати стиль абзаца, натисніть Tab, щоб перейти до меню абзаца. Звідти ви зможете обрати один стиль. Жоден стиль не встановлюється по замовчанню для абзаца.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Коли ви вибираєте текст, буде показане вбудоване меню форматування. Натисніть Tab, щоб перейти в це меню. ';
-$Definition['richEditor.description.embed'] = 'Деякі елементи, такі як вбудовані посилання, зображення, індикатори завантаження та повідомлення про помилки можуть бути вставлені у редактор. Ви можете переміщуватись між ними, використовуючи стрілки всередині редактора і видаляти їх за допомогою клавіш delete або backspace.';
-$Definition['richEditor.externalEmbed.description'] = 'Це - прикріплений допис. Його можна видалити, використовуючи кнопку delete або backspace. Натисніть tab, щоб перейти до опцій прикріпленого допису.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Користуйтесь клавішами клавіатури "сторінка вгору" та "сторінка вниз", щоб переходити між категоріями, коли меню відкрите.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Меню форматування Рівня Вбудовування';
-$Definition['Format as Bold'] = 'Форматувати як Жирний';
-$Definition['Bold'] = 'Жирний';
-$Definition['Format as Italic'] = 'Форматувати як Курсив';
-$Definition['Italic'] = 'Курсив';
-$Definition['Format as Strikethrough'] = 'Форматувати як Перекреслене';
-$Definition['Strikethrough'] = 'Закреслено ';
-$Definition['Format as Inline Code'] = 'Форматувати як вбудований код';
-$Definition['Paragraph Code Block'] = 'Блок коду';
-$Definition['Parent'] = 'Батьківський';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Абзац (Прибирає форматування абзацу та встановлює простий абзац)';
-$Definition['Code Block'] = 'Блок коду';
-$Definition['Format as Link'] = 'Форматувати як Посилання';
-$Definition['Link'] = 'Посилання';
-$Definition['Insert Url'] = 'Вставити Url';
-$Definition['Paste or type a link…'] = 'Вставити або надрукувати посилання...';
-$Definition['Close'] = 'Закрити';
-$Definition['Line Level Formatting Menu'] = 'Меню форматування рівня лінії';
-$Definition['Paragraph'] = 'Абзац';
-$Definition['Format as Paragraph'] = 'Форматувати як Абзац';
-$Definition['Subtitle'] = 'Субтитр';
-$Definition['Format as Title'] = 'Форматувати як назву';
-$Definition['Sub Subtitle'] = 'Підсубтитр';
-$Definition['Format as Subtitle'] = 'Форматувати як субтитр';
-$Definition['Quote'] = 'Цитата';
-$Definition['Format as blockquote'] = 'Форматувати як блок цитування';
-$Definition['Format as code block'] = 'Форматувати як блок коду';
-$Definition['Spoiler'] = 'Спойлер';
-$Definition['Format as spoiler'] = 'Форматувати як спойлер';
-$Definition['Inline Menu Available'] = 'Доступне вбудоване меню';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Емоджі';
-$Definition['Emojis'] = 'Смайлики';
-$Definition['Insert an emoji in your message.'] = 'Вставте у ваше повідомлення смайлик.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Перейдіть від списку смайликів до категорій смайликів.';
-$Definition['Emoji Categories'] = 'Категорії смайликів';
-$Definition['Jump to emoji category: %s'] = 'Перейти до категорії емоджі: %s';
-$Definition['In emoji category: %s'] = 'У категорії емоджі: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Посміхасики та Люди';
-$Definition['Animals & Nature'] = 'Тварини та Природа';
-$Definition['Food & Drink'] = 'Їжа та Напої';
-$Definition['Travel & Places'] = 'Подорож та Місця';
-$Definition['Activities'] = 'Активності';
-$Definition['Objects'] = 'Об\'єкти';
-$Definition['Symbols'] = 'Символи';
-$Definition['Flags'] = 'Скарги';
-
-// Media Insertion
-$Definition['Image'] = 'Зображення';
-$Definition['Insert Media'] = 'Вставити медіа';
-$Definition['Paste the URL of the media you want.'] = 'Вставте URL бажаного медіа.';
-$Definition['Embed'] = 'Вбудувати';
-$Definition['Error'] = 'Помилка';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Вмикач цитати';
-$Definition['Spoiler Warning'] = 'Попередження про спойлер';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Плавати вліво';
-$Definition['Float left'] = 'Плавати вліво';
-$Definition['Centered'] = 'По центру';
-$Definition['Float Right'] = 'Плавати вправо';
-$Definition['Float right'] = 'Плавати вправо';
-$Definition['Small'] = 'Маленький';
-$Definition['Medium'] = 'Середній';
-$Definition['Large'] = 'Великий';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Заповнювач';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s для обговорення: "%s"';
-$Definition['%s for category: "%s"'] = '%s для категорії : "%s"';
-$Definition['%s comment by user: "%s"'] = '%s коментар користувача: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Користувач "%s" розпочав обговорення "%s" в дату %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Найновіші коментарі на дату %s, в обговоренні "%s", від користувача "%s"';
-$Definition['%s for category: "%s"'] = '%s для категорії : "%s"';
-$Definition['Category: "%s"'] = 'Категорія: "%s"';
-$Definition['User: "%s"'] = 'Користувач: "%s"';
-$Definition['Group: "%s"'] = 'Група: "%s"';
-$Definition['Global Navigation'] = 'Глобальна Навігація';
-$Definition['Skip to content'] = 'Перейти до змісту';
-
-// KB Articles
-$Definition["Read More"] = "Читати далі";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} надіслало запит на приєднання до {Group}.';

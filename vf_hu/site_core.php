@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s írt %5$s %4$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s tagságát %2$s jóváhagyta.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s létrehozott egy fiókot %1$s számára.';
 $Definition['%s (Current)'] = '%s (Jelenleg)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Fórumfiók létrehozása';
+$Definition['%s activities'] = '%s tevékenység';
+$Definition['%s activity'] = '%s aktivitás';
 $Definition['%s Agrees'] = '%s Egyetért';
 $Definition['%s and %s others'] = '%s és %s egyéb';
 $Definition['%s and you'] = '%s és te';
@@ -912,7 +912,6 @@ $Definition['I remember now!'] = 'Most már emlékszem!';
 $Definition['Italic'] = 'Dőlt';
 $Definition['Item'] = 'Elem';
 $Definition['item'] = 'tétel';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Úgy tűnik, új vagy itt. A kezdéshez jelentkezzen be vagy regisztráljon.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Úgy tűnik, hogy új vagy itt! Ha csatlakozni akarsz, klikkelj valamelyik gombra.';
 
 $Definition['Jail'] = 'Börtön';
@@ -925,9 +924,6 @@ $Definition['Joined %s'] = 'Csatlakoztál ehhez: %s';
 $Definition['Join this Community Now'] = 'Csatlakozz Ehhez a Közösséghez Most';
 $Definition['Join this Group'] = 'Csatlakozz a csoporthoz';
 $Definition['Join this group to view its content.'] = 'Csatlakozz a csoporthoz, hogy lásd a tartalmát.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Ugord át a hangulatjelek listáját, menj a hangulatjel kategóriákhoz.';
-$Definition['Jump to a specific page'] = 'Ugrás egy adott oldalra';
-$Definition['Jump to first tracked post.'] = 'Ugrás az első követett bejegyzéshez.';
 $Definition['Jumped to emoji category: '] = 'Átugrottál a hangulatjel kategóriákhoz:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Ugord át a hangulatjelek listáját, menj a hangulatjel kategóriákhoz.';
 $Definition['Jump to a specific page'] = 'Ugrás egy adott oldalra';
@@ -944,6 +940,7 @@ $Definition['Kilobyte'] = 'Kilobájt';
 
 $Definition['Label'] = 'Felirat';
 $Definition['Languages'] = 'Nyelvek';
+$Definition['Large'] = 'Nagy';
 $Definition['Last Active'] = 'Utolsó látogatás';
 $Definition['Last Commented'] = 'Utoljára kommentelt';
 $Definition['Last IP'] = 'Utolsó IP';
@@ -2082,115 +2079,4 @@ $Definition['yyyy-mm-dd'] = 'éééé-hh-nn';
 
 $Definition['Zip'] = 'Tömörítés';
 
-$Definition["Hot"] = "Forró";
-$Definition["Most Helpful"] = "Leghasznosabb";
-$Definition["Recently Active"] = "Nemrég aktív";
-$Definition["Oldest Members"] = "Legrégebbi tagok";
-$Definition["Newest Members"] = "Legújabb tagok";
-
-$Definition["Hot"] = "Forró";
-$Definition["Most Helpful"] = "Leghasznosabb";
-$Definition["Recently Active"] = "Nemrég aktív";
-$Definition["Oldest Members"] = "Legrégebbi tagok";
-$Definition["Newest Members"] = "Legújabb tagok";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Gazdag szövegszerkesztő';
-$Definition['richEditor.description.paragraphMenu'] = 'Egy bekezdés stílusának szerkesztéséhez nyomd le a tab-ot, hogy előjöjjön a bekezdés menüje. Onnen kiválaszthatsz egy stílust.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Egy sorbeli formázás menü fog megjelenni, amikor kijelölöd a szöveget. Nyomd le a tab-ot, hogy belépj ebbe a menübe.';
-$Definition['richEditor.description.embed'] = 'Néhány elem, mint a gazdag link beágyazások, képek, betöltési mutatók, és hibaüzenetek beszúrhatók a szerkesztőbe. Elnavigálhatsz ezekhez a szerkesztőn belüli nyíl billentyűket használva és törölheted őket a delete vagy a backspace billentyűkkel.';
-$Definition['richEditor.externalEmbed.description'] = 'Ez egy beágyazás. A delete vagy backspace billentyűvel lehet törölni. A beágyazás beállításait a tab billentyűvel lehet elérni.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Használd a billentyűzeten az "oldal fel" és "oldal le" gyorsbillentyűket, hogy az elérhető kategóriák közt ugrálhass, amikor a menü nyitva van.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Sorbeli szint formázási menü';
-$Definition['Format as Bold'] = 'Kivastagított karakterekké formázás';
-$Definition['Bold'] = 'Vastag';
-$Definition['Format as Italic'] = 'Formázza megdőlt karakterekre';
-$Definition['Italic'] = 'Dőlt';
-$Definition['Format as Strikethrough'] = 'Formázza áthúzásként';
-$Definition['Strikethrough'] = 'Áthúzott';
-$Definition['Format as Inline Code'] = 'Formázza mint sorbeli kód';
-$Definition['Paragraph Code Block'] = 'Kódblokk';
-$Definition['Parent'] = 'Szülő';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Bekezdés (eltávolítja a bekezdésstílust, és egyszerű bekezdést állít be)';
-$Definition['Code Block'] = 'Kódblokk';
-$Definition['Format as Link'] = 'Link ként formáz';
-$Definition['Link'] = 'Link';
-$Definition['Insert Url'] = 'Url beszúrása';
-$Definition['Paste or type a link…'] = 'Vágd be vagy gépeld be a linket...';
-$Definition['Close'] = 'Bezárás';
-$Definition['Line Level Formatting Menu'] = 'Sor szintű formázási menü';
-$Definition['Paragraph'] = 'Bekezdés';
-$Definition['Format as Paragraph'] = 'Formázás bekezdésként';
-$Definition['Subtitle'] = 'Felirat';
-$Definition['Format as Title'] = 'Formázza címként';
-$Definition['Sub Subtitle'] = 'Al-Felirat';
-$Definition['Format as Subtitle'] = 'Formázás alcímként';
-$Definition['Quote'] = 'Idéz';
-$Definition['Format as blockquote'] = 'Idézetblokk ként formázza';
-$Definition['Format as code block'] = 'Kód blokk ként formázza';
-$Definition['Spoiler'] = 'Cselekmény részletezése ';
-$Definition['Format as spoiler'] = 'Fromázza Spoiler-ként';
-$Definition['Inline Menu Available'] = 'Sorbeli menü elérhető';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Hangulatjelek';
-$Definition['Insert an emoji in your message.'] = 'Szúrj be egy hangulatjelet az üzenetedbe.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Ugord át a hangulatjelek listáját, menj a hangulatjel kategóriákhoz.';
-$Definition['Emoji Categories'] = 'Hangulatjel kategóriák';
-$Definition['Jump to emoji category: %s'] = 'Ugrás az emoji kategóriához: %s';
-$Definition['In emoji category: %s'] = 'Emoji kategóriában: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Hangulatjelek és emberek';
-$Definition['Animals & Nature'] = 'Állatok és Természet';
-$Definition['Food & Drink'] = 'Étel és ital';
-$Definition['Travel & Places'] = 'Utazás és Helyek';
-$Definition['Activities'] = 'Tevékenységek';
-$Definition['Objects'] = 'Tárgyak';
-$Definition['Symbols'] = 'Szimbólumok';
-$Definition['Flags'] = 'Zászlók';
-
-// Media Insertion
-$Definition['Image'] = 'Kép';
-$Definition['Insert Media'] = 'Média beszúrása';
-$Definition['Paste the URL of the media you want.'] = 'Vágd be a linkjét a médiának, amit akarsz.';
-$Definition['Embed'] = 'Beágyaz';
-$Definition['Error'] = 'Hiba';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Idézet beszúrása';
-$Definition['Spoiler Warning'] = 'Spoiler figyelmeztetés';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Balra lebeg';
-$Definition['Float left'] = 'Balra lebeg';
-$Definition['Centered'] = 'Középpontban';
-$Definition['Float Right'] = 'Lebegés jobbra';
-$Definition['Float right'] = 'Lebegés jobbra';
-$Definition['Small'] = 'Kicsi';
-$Definition['Medium'] = 'Közepes';
-$Definition['Large'] = 'Nagy';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Helyettesítő';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s ehhez a beszélgetéshez: "%s"';
-$Definition['%s for category: "%s"'] = '%s ehhez a kategóriához: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s hozzászólás általa: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = '"%s" felhasználó beszélgetést kezdeményezett ("%s") ekkor: %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'A legújabb hozzászólás ezen a napon: %s, ebben a beszélgetésben: "%s", a következő felhasználó által: "%s"';
-$Definition['%s for category: "%s"'] = '%s ehhez a kategóriához: "%s"';
-$Definition['Category: "%s"'] = 'Kategória: "%s"';
-$Definition['User: "%s"'] = 'Felhasználó: "%s"';
-$Definition['Group: "%s"'] = 'Csoport: "%s"';
-$Definition['Global Navigation'] = 'Globális navigáció';
-$Definition['Skip to content'] = 'Ugrás a tartalomra';
-
-// KB Articles
-$Definition["Read More"] = "Olvass tovább";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} csatlakozást kért a (z) {Group} csoporthoz.';

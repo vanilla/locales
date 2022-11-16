@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = 'Si %1$s ay sumulat sa %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s ay inaprubahan%2$s ang aplikasyon ng pagpapamiyembro.';
 $Definition['%3$s created an account for %1$s.'] = 'Si %3$s ay lumikha ng account para kay %1$s.';
 $Definition['%s (Current)'] = '%s (Kasalukuyan)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Paglikha ng Forum Account';
+$Definition['%s activities'] = '%s mga aktibidad';
+$Definition['%s activity'] = '%s aktibidad';
 $Definition['%s Agrees'] = '%s Sang-ayon';
 $Definition['%s and %s others'] = '%s at %s (na) iba pa';
 $Definition['%s and you'] = '%s at ikaw';
@@ -229,7 +229,6 @@ $Definition['Already Warned'] = 'Binalaan Na';
 $Definition['Also banned for the following:'] = 'Na-ban rin dahil sa mga sumusunod:';
 $Definition['Also delete this user\'s content.'] = 'I-delete din ang nilalaman ng user na ito.';
 $Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Tinutulungan ng alternatibong text ang mga user sa mga alalahanin sa accessibility at pinapahusay ang SEO.';
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'A message has been sent to your email address with password reset instructions.';
 $Definition['Analytics'] = 'Analitika';
 $Definition['An archived file or files'] = 'Isang naka-archive na file o mga file';
 $Definition['Ancient Membership'] = 'sinaunang pagsapi';
@@ -846,7 +845,6 @@ $Definition['Invite one or more people to join this group.'] = 'Imbitahin ang is
 $Definition['I remember now!'] = 'Naaalala ko na!';
 $Definition['Item'] = 'Gamit';
 $Definition['item'] = 'Bagay';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Mukhang bago ka dito. Mag-sign in o magrehistro upang makapagsimula.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Mukhang ikaw ay bago dito. Kung nais mong makibahagi, i-click ang isa sa mga button na ito!';
 
 $Definition['Jail'] = 'kulungan';
@@ -859,9 +857,6 @@ $Definition['Joined %s'] = 'Sumali sa %s';
 $Definition['Join this Community Now'] = 'Sumali sa Komunidad na Ito';
 $Definition['Join this Group'] = 'Sumali sa Grupong ito';
 $Definition['Join this group to view its content.'] = 'Sumali sa grupong para makita ang nilalaman nito.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Laktawan ang listahan ng emoji, at dumeretso sa mga kategorya ng emoji.';
-$Definition['Jump to a specific page'] = 'Tumalon sa isang partikular na pahina';
-$Definition['Jump to first tracked post.'] = 'Tumalon sa unang na-track na post.';
 $Definition['Jumped to emoji category: '] = 'Tumalon sa kategorya ng emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Laktawan ang listahan ng emoji, at dumeretso sa mga kategorya ng emoji.';
 $Definition['Jump to a specific page'] = 'Tumalon sa isang partikular na pahina';
@@ -875,8 +870,8 @@ $Definition['Just you!'] = 'Ikaw lamang!';
 $Definition['Keep me signed in'] = 'Panatilihin akong naka-sign in';
 $Definition['Keep User Content'] = 'Panatilihin Ang Mga Nilalaman ng Gumagamit';
 
-$Definition['Label'] = 'Label';
 $Definition['Languages'] = 'Mga wika';
+$Definition['Large'] = 'Malaki';
 $Definition['Last Active'] = 'Huling Aktibo';
 $Definition['Last Commented'] = 'Huling Nakomentohan';
 $Definition['Last IP'] = 'Huling IP';
@@ -1943,115 +1938,4 @@ $Definition['You wrote:'] = 'Ilagay mo:';
 
 $Definition['Zip'] = 'I-zip';
 
-$Definition["Hot"] = "Mainit";
-$Definition["Most Helpful"] = "Pinaka Matulungin";
-$Definition["Recently Active"] = "Aktibo kamakailan";
-$Definition["Oldest Members"] = "Pinakamatandang Miyembro";
-$Definition["Newest Members"] = "Pinakabagong mga Miyembro";
-
-$Definition["Hot"] = "Mainit";
-$Definition["Most Helpful"] = "Pinaka Matulungin";
-$Definition["Recently Active"] = "Aktibo kamakailan";
-$Definition["Oldest Members"] = "Pinakamatandang Miyembro";
-$Definition["Newest Members"] = "Pinakabagong mga Miyembro";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Rich Text Editor.';
-$Definition['richEditor.description.paragraphMenu'] = 'Upang mag-edit ng estilo ng parirala, pindutin ang tab upang makapunta sa menu ng parirala. Mula roon, makakapili ka ng isang estilo. Walang Nagde-default sa parirala.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'May lalabas na menu ng inline formatting kapag pinili mo ang text. Pindutin ang tab upang makapunta sa menu na iyon.';
-$Definition['richEditor.description.embed'] = 'Ang ilang element, gaya ng mga rich link na embed, mga larawan, mga panghiwatig ng paglo-load, at mga mensahe ng error ay maaaring maisama sa editor. Pwede kang mag-navigate sa mga ito gamit ang mga arrow key sa loob ng editor at burahin ang mga ito gamit ang delete o backspace na key.';
-$Definition['richEditor.externalEmbed.description'] = 'Ito ay naka-embed. Maaari itong tanggalin gamit ang delete key o ang backspace key. Pindutin ang tab para pumasok sa mga opsyon sa pag-embed.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Gamitin ang mga keyboard shortcut na “page up”at “page down” upang makita ang lahat ng kategorya kapag nakabukas ang menu.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Menu ng Inline Level na Pag-format';
-$Definition['Format as Bold'] = 'I-format bilang Bold';
-$Definition['Bold'] = 'Bold';
-$Definition['Format as Italic'] = 'I-format bilang Italic';
-$Definition['Italic'] = 'Italic';
-$Definition['Format as Strikethrough'] = 'I-format bilang Strikethrough';
-$Definition['Strikethrough'] = 'Strikethrough';
-$Definition['Format as Inline Code'] = 'I-format bilang Inline Code';
-$Definition['Paragraph Code Block'] = 'Code Block ';
-$Definition['Parent'] = 'Pinanggalingan';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Talata (Inaalis ang istilo ng talata at itinatakda sa simpleng talata)';
-$Definition['Code Block'] = 'Code Block ';
-$Definition['Format as Link'] = 'I-format bilang Link';
-$Definition['Link'] = 'Link ';
-$Definition['Insert Url'] = 'Ilagay ang Url';
-$Definition['Paste or type a link…'] = 'Mag-paste o mag-type ng link...';
-$Definition['Close'] = 'Isara';
-$Definition['Line Level Formatting Menu'] = 'Menu ng Line Level na Pag-format';
-$Definition['Paragraph'] = 'Parirala';
-$Definition['Format as Paragraph'] = 'I-format bilang Parirala';
-$Definition['Subtitle'] = 'Subtitle';
-$Definition['Format as Title'] = 'I-format bilang Pamagat';
-$Definition['Sub Subtitle'] = 'Sub Subtitle';
-$Definition['Format as Subtitle'] = 'I-format bilang Subtitle';
-$Definition['Quote'] = 'Quote';
-$Definition['Format as blockquote'] = 'I-format bilang blockquote';
-$Definition['Format as code block'] = 'I-format bilang code block';
-$Definition['Spoiler'] = 'Spoiler';
-$Definition['Format as spoiler'] = 'I';
-$Definition['Inline Menu Available'] = 'May Inline Menu';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Mga Emoji';
-$Definition['Insert an emoji in your message.'] = 'Maglagay ng emoji sa iyong mensahe. ';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Laktawan ang listahan ng emoji, at dumeretso sa mga kategorya ng emoji.';
-$Definition['Emoji Categories'] = 'Mga Kategorya ng Emoji';
-$Definition['Jump to emoji category: %s'] = 'Tumalon sa kategorya ng emoji: %s';
-$Definition['In emoji category: %s'] = 'Sa kategorya ng emoji: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Mga Smiley at Mga Tao';
-$Definition['Animals & Nature'] = 'Mga Hayop at Kalikasan';
-$Definition['Food & Drink'] = 'Pagkain at Inumin';
-$Definition['Travel & Places'] = 'Pagbibiyahe at Mga Lugar';
-$Definition['Activities'] = 'Mga Aktibidad';
-$Definition['Objects'] = 'Mga Object ';
-$Definition['Symbols'] = 'Mga Simbolo';
-$Definition['Flags'] = 'Mga Flag';
-
-// Media Insertion
-$Definition['Image'] = 'Larawan';
-$Definition['Insert Media'] = 'Maglagay ng Media';
-$Definition['Paste the URL of the media you want.'] = 'I-paste ang URL ng media na gusto mo.';
-$Definition['Embed'] = 'I-embed';
-$Definition['Error'] = 'Pagkakamali';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'I-toggle ang Quote';
-$Definition['Spoiler Warning'] = 'Babala sa Spoiler';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Lumutang pakaliwa';
-$Definition['Float left'] = 'Lumutang pakaliwa';
-$Definition['Centered'] = 'Nakasentro';
-$Definition['Float Right'] = 'Lutang Pakanan';
-$Definition['Float right'] = 'Lutang Pakanan';
-$Definition['Small'] = 'Maliit';
-$Definition['Medium'] = 'Katamtaman';
-$Definition['Large'] = 'Malaki';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Placeholder';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s (na) tatalakayin: "%s"';
-$Definition['%s for category: "%s"'] = '%s para sa kategorya: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s (na) komento ng gumagamit: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Sinimulan ng gumagamit na si "%s" ang talakayang "%s" sa petsang %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Pinakahuling komento sa petsang %s, sa talakayang "%s", ng gumagamit na si "%s"';
-$Definition['%s for category: "%s"'] = '%s para sa kategorya: "%s"';
-$Definition['Category: "%s"'] = 'Kategorya: "%s"';
-$Definition['User: "%s"'] = 'Gumagamit: "%s"';
-$Definition['Group: "%s"'] = 'Grupo: "%s"';
-$Definition['Global Navigation'] = 'Global Navigation';
-$Definition['Skip to content'] = 'Lumaktaw sa nilalaman';
-
-// KB Articles
-$Definition["Read More"] = "Magbasa Nang Higit Pa";
+$Definition['{Username} has requested to join {Group}.'] = 'Humiling si {Username} na sumali sa {Group}.';

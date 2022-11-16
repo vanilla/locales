@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s a scris la %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s i-a aprobat lui %2$s aplicația de membru.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s a creat un cont pentru %1$s.';
 $Definition['%s (Current)'] = '%s (Actual)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Crearea contului pe forum';
+$Definition['%s activities'] = '%s activități';
+$Definition['%s activity'] = 'Activitate%s';
 $Definition['%s Agrees'] = '%s Este de acord';
 $Definition['%s and %s others'] = '%s şi %s altele';
 $Definition['%s and you'] = '%s si tu';
@@ -898,7 +898,6 @@ $Definition['I remember now!'] = 'Mi-am adus aminte!';
 $Definition['Italic'] = 'Cursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'obiect';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Se pare că ești nou aici. Conectați-vă sau înregistrați-vă pentru a începe.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Implicați-vă acum! <br />Conectați-vă acum prin:';
 
 $Definition['Jail'] = 'inchisoare';
@@ -911,9 +910,6 @@ $Definition['Joined %s'] = 'S-a alăturat %s';
 $Definition['Join this Community Now'] = 'Alăturați-vă comunității acum';
 $Definition['Join this Group'] = 'Alăturați-vă acestui grup';
 $Definition['Join this group to view its content.'] = 'Alăturați-vă acestui grup pentru a putea vizualiza conţinutul';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Salt peste lista emoji la categoriile emoji.';
-$Definition['Jump to a specific page'] = 'Salt la o anumită pagină';
-$Definition['Jump to first tracked post.'] = 'Salt la prima postare urmărită.';
 $Definition['Jumped to emoji category: '] = 'Salt la categoria emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Salt peste lista emoji la categoriile emoji.';
 $Definition['Jump to a specific page'] = 'Salt la o anumită pagină';
@@ -929,6 +925,7 @@ $Definition['Keep User Content'] = 'Păstraţi conţinutul utilizatorului';
 
 $Definition['Label'] = 'Eticheta';
 $Definition['Languages'] = 'Limbi';
+$Definition['Large'] = 'Mare';
 $Definition['Last Active'] = 'Ultima data activ';
 $Definition['Last Commented'] = 'Ultimul comentariu';
 $Definition['Last IP'] = 'Ultimul IP';
@@ -2093,111 +2090,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Veți p
 $Definition['You wrote:'] = 'Ați scris:';
 $Definition['yyyy-mm-dd'] = 'aaaa-ll-zz';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Fierbinte";
-$Definition["Most Helpful"] = "Cel mai de ajutor";
-$Definition["Recently Active"] = "Activ recent";
-$Definition["Oldest Members"] = "Membrii cei mai vechi";
-$Definition["Newest Members"] = "Cei mai noi membri";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Editor text îmbogățit.';
-$Definition['richEditor.description.paragraphMenu'] = 'Pentru a edita stilul unui paragraf, apasă „tab” pentru a ajunge la meniul paragrafului. Din meniul respectiv, vei putea să alegi un stil. Nu există alegere implicită pentru paragraf.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Un meniu de formatare în linie va apărea atunci când selectezi un text. Apasă „tab” pentru a intra în meniul respectiv.';
-$Definition['richEditor.description.embed'] = 'Anumite elemente, precum încorporări avansate de link-uri, imagini, indicatoare de încărcare și mesaje de eroare pot fi inserate în editor. Puteți naviga către aceste elemente folosind tastele săgeți aflate în editor și le puteți șterge folosind tastele „delete” sau „backspace”. ';
-$Definition['richEditor.externalEmbed.description'] = 'Aceasta este o încorporare. Ea poate fi ștearsă folosind tasta delete sau tasta backspace. Apasă tasta tab pentru a intra în opțiunile încorporării.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Folosește comenzile scurte de tastatură „page up” și „page down” pentru a trece prin categoriile disponibile atunci când meniul este deschis.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Meniu formatare nivel în linie';
-$Definition['Format as Bold'] = 'Formatare ca aldin';
-$Definition['Bold'] = 'Bold';
-$Definition['Format as Italic'] = 'Formatare ca și cursiv';
-$Definition['Italic'] = 'Cursiv';
-$Definition['Format as Strikethrough'] = 'Formatare ca tăiere text cu o linie';
-$Definition['Strikethrough'] = 'Tăiat cu o linie';
-$Definition['Format as Inline Code'] = 'Formatare ca și cod în linie';
-$Definition['Paragraph Code Block'] = 'Bloc de cod';
-$Definition['Parent'] = 'Părinte';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paragraf (elimină stilul paragrafului și setează la paragraf simplu)';
-$Definition['Code Block'] = 'Bloc de cod';
-$Definition['Format as Link'] = 'Formatare ca Link';
-$Definition['Link'] = 'Link';
-$Definition['Insert Url'] = 'Inserare URL';
-$Definition['Paste or type a link…'] = 'Lipește sau introdu un link...';
-$Definition['Close'] = 'Inchideți';
-$Definition['Line Level Formatting Menu'] = 'Meniu formatare nivel linie';
-$Definition['Paragraph'] = 'Paragraf';
-$Definition['Format as Paragraph'] = 'Formatare ca paragraf';
-$Definition['Subtitle'] = 'Subtitlu';
-$Definition['Format as Title'] = 'Formatare ca titlu';
-$Definition['Sub Subtitle'] = 'Sub subtitlu';
-$Definition['Format as Subtitle'] = 'Formatare ca subtitlu';
-$Definition['Quote'] = 'Citat';
-$Definition['Format as blockquote'] = 'Formatare ca bloc de citat';
-$Definition['Format as code block'] = 'Formatare ca bloc de cod';
-$Definition['Spoiler'] = 'Avertisment sinopsis';
-$Definition['Format as spoiler'] = 'Formatare ca dezvăluire';
-$Definition['Inline Menu Available'] = 'Meniu în linie disponibil';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoticon';
-$Definition['Emojis'] = 'Emoji-uri';
-$Definition['Insert an emoji in your message.'] = 'Inserează un emoji în mesajul tău.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Salt peste lista emoji la categoriile emoji.';
-$Definition['Emoji Categories'] = 'Categorii emoji';
-$Definition['Jump to emoji category: %s'] = 'Sari la categoria emoji: %s';
-$Definition['In emoji category: %s'] = 'În categoria emoji: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Emoticoane și Oameni';
-$Definition['Animals & Nature'] = 'Animale și Natură';
-$Definition['Food & Drink'] = 'Mâncare și Băutură';
-$Definition['Travel & Places'] = 'Călătorii și Locuri';
-$Definition['Activities'] = 'Activități';
-$Definition['Objects'] = 'Obiecte';
-$Definition['Symbols'] = 'Simboluri';
-$Definition['Flags'] = 'Steaguri';
-
-// Media Insertion
-$Definition['Image'] = 'Imagine';
-$Definition['Insert Media'] = 'Inserare Media';
-$Definition['Paste the URL of the media you want.'] = 'Lipește URL-ul conținutului media dorit.';
-$Definition['Embed'] = 'Încorporare';
-$Definition['Error'] = 'Eroare';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Comutare citat';
-$Definition['Spoiler Warning'] = 'Avertisment dezvăluire';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Plutește la stânga';
-$Definition['Float left'] = 'Plutește la stânga';
-$Definition['Centered'] = 'Centrat';
-$Definition['Float Right'] = 'Plutește dreapta';
-$Definition['Float right'] = 'Plutește dreapta';
-$Definition['Small'] = 'Mic';
-$Definition['Medium'] = 'Mediu';
-$Definition['Large'] = 'Mare';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Substitut';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s pentru discuția: „%s”';
-$Definition['%s for category: "%s"'] = '%s pentru categoria: „%s”';
-$Definition['%s comment by user: "%s"'] = '%s comentariu al utilizatorului: „%s”';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Utilizatorul „%s” a început discuția „%s” pe data %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Cel mai recent comentariu este pe data de %s, în discuția „%s”, de utilizatorul „%s”';
-$Definition['%s for category: "%s"'] = '%s pentru categoria: „%s”';
-$Definition['Category: "%s"'] = 'Categoria: „%s”';
-$Definition['User: "%s"'] = 'Utilizator: „%s”';
-$Definition['Group: "%s"'] = 'Grup: „%s”';
-$Definition['Global Navigation'] = 'Navigare globală';
-$Definition['Skip to content'] = 'Sari la conținut';
-
-// KB Articles
-$Definition["Read More"] = "Citeste mai mult";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} a solicitat să vă înscrieți în {Group}.';

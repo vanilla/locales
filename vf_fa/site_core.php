@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s بر روي %4$s %5$s نوشت.'
 $Definition['%3$s approved %2$s membership application.'] = '%3$s اپليكيشن عضويت %2$s را تائيد كرد.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s يك حساب كاربري براي %1$s ايجاد كرد.';
 $Definition['%s (Current)'] = '%s (هم اكنون)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] ایجاد حساب انجمن';
+$Definition['%s activities'] = 'فعالیت %s';
+$Definition['%s activity'] = 'فعالیت %s';
 $Definition['%s Agrees'] = '%s قبول ميكند';
 $Definition['%s and %s others'] = '%s و %s دیگری';
 $Definition['%s and you'] = '%s و شما';
@@ -911,7 +911,6 @@ $Definition['I remember now!'] = 'حالا بخاطر آوردم!';
 $Definition['Italic'] = 'مورب';
 $Definition['Item'] = 'آيتم';
 $Definition['item'] = 'آيتم';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'به نظر می رسد که شما اینجا تازه کار هستید. برای شروع به سیستم وارد شوید یا ثبت نام کنید.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'بنظر ميرسد شما اينجا تازه وارد هستيد. اگر ميخواهيد مشاركت داشته باشيد، بر روي يكي از دكمه ها كليك كنيد!';
 
 $Definition['Jail'] = 'حبس';
@@ -924,9 +923,6 @@ $Definition['Joined %s'] = 'تاريخ عضويت %s';
 $Definition['Join this Community Now'] = 'همين حالا عضو اين انجمن شويد';
 $Definition['Join this Group'] = 'عضو اين گروه شويد';
 $Definition['Join this group to view its content.'] = 'عضو گروه اين گروه شده تا محتواي آن را ببينيد.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'رفتن به دسته بندی شکلک ها';
-$Definition['Jump to a specific page'] = 'پرش به یک صفحه خاص';
-$Definition['Jump to first tracked post.'] = 'رفتن به اولین پست';
 $Definition['Jumped to emoji category: '] = 'رفتن به دسته بندی شکلک ها';
 $Definition['Jump past emoji list, to emoji categories.'] = 'رفتن به دسته بندی شکلک ها';
 $Definition['Jump to a specific page'] = 'پرش به یک صفحه خاص';
@@ -943,6 +939,7 @@ $Definition['Kilobyte'] = 'کیلوبایت';
 
 $Definition['Label'] = 'برچسب';
 $Definition['Languages'] = 'زبان ها';
+$Definition['Large'] = 'بزرگ';
 $Definition['Last Active'] = 'آخرين فعاليت';
 $Definition['Last Commented'] = 'آخرین اظهار نظر';
 $Definition['Last IP'] = 'آخرين IP';
@@ -2089,115 +2086,4 @@ $Definition['yyyy-mm-dd'] = 'yyy-mm-dd';
 
 $Definition['Zip'] = 'زیپ';
 
-$Definition["Hot"] = "داغ";
-$Definition["Most Helpful"] = "مفید ترین";
-$Definition["Recently Active"] = "اخیراً فعال است";
-$Definition["Oldest Members"] = "قدیمی ترین اعضا";
-$Definition["Newest Members"] = "جدیدترین اعضا";
-
-$Definition["Hot"] = "داغ";
-$Definition["Most Helpful"] = "مفید ترین";
-$Definition["Recently Active"] = "اخیراً فعال است";
-$Definition["Oldest Members"] = "قدیمی ترین اعضا";
-$Definition["Newest Members"] = "جدیدترین اعضا";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'ادیتور پیشرفته';
-$Definition['richEditor.description.paragraphMenu'] = 'برای ویرایش یک سبک پاراگراف، روی زبانه ضربه بزنید تا منوی پاراگراف باز شود. از آنجا شما فقط قادر به انتخاب یک سبک خواهید بود هیچ پیش فرضی وجود ندارد.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'زمانیکه متن را انتخاب نمایید منوی تغییر فرمت آشکار می شود در غیراینصورت روی تب کلیک نمایید تا منو باز شود.';
-$Definition['richEditor.description.embed'] = 'ممکن است بعضی از عناصر، مانند پیوندها، تصاویر، شاخص های بارگیری و پیام های خطا  به ویرایشگر وارد شوند. شما می توانید با استفاده از کلیدهای جهت دار صفحه کلید خود درون ویرایشگر حرکت کنید و آنها را با دکمه delete یا backspace پاک کنید.';
-$Definition['richEditor.externalEmbed.description'] = 'این تعبیه شده است می توان آن را با استفاده از کلید حذف یا کلید backspace حذف کرد. برای ورود به گزینه های تعبیه ، زبانه را فشار دهید.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'هنگامیکه منوی باز است می توانید از میانبرهای صفحه کلید "بالا" و "پایین" استفاده کنید.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'منوی فرمت درون خطی';
-$Definition['Format as Bold'] = 'فرمت به عنوان پررنگ';
-$Definition['Bold'] = 'درشت';
-$Definition['Format as Italic'] = 'فرمت به صورت ایتالیک';
-$Definition['Italic'] = 'مورب';
-$Definition['Format as Strikethrough'] = 'فرمت به عنوان برخورد';
-$Definition['Strikethrough'] = 'خط خورده';
-$Definition['Format as Inline Code'] = 'فرمت به عنوان درون خطی';
-$Definition['Paragraph Code Block'] = 'کد';
-$Definition['Parent'] = 'والدین';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'پاراگراف (شیوه پاراگراف را حذف کرده و پاراگراف ساده را تنظیم می کند)';
-$Definition['Code Block'] = 'کد';
-$Definition['Format as Link'] = 'فرمت به عنوان لینک';
-$Definition['Link'] = 'لینک';
-$Definition['Insert Url'] = 'افزودن آدرس';
-$Definition['Paste or type a link…'] = 'لینک خود را وارد نمایید ...';
-$Definition['Close'] = 'بستن';
-$Definition['Line Level Formatting Menu'] = 'منوی فرمت سطح خط';
-$Definition['Paragraph'] = 'پاراگراف';
-$Definition['Format as Paragraph'] = 'فرمت بعنوان پاراگراف';
-$Definition['Subtitle'] = 'زیرموضوع';
-$Definition['Format as Title'] = 'فرمت به عنوان  موضوع';
-$Definition['Sub Subtitle'] = 'زیر زیرموضوع';
-$Definition['Format as Subtitle'] = 'فرمت بعنوان زیرموضوع';
-$Definition['Quote'] = 'نقل قول';
-$Definition['Format as blockquote'] = 'فرمت به عنوان نقل قول';
-$Definition['Format as code block'] = 'فرمت به عنوان کد بلاک';
-$Definition['Spoiler'] = 'اسپويلر';
-$Definition['Format as spoiler'] = 'فرمت به عنوان اسپویلر';
-$Definition['Inline Menu Available'] = 'موجود در منو';
-
-// Emoji Picker
-$Definition['Emoji'] = 'اموجي';
-$Definition['Emojis'] = 'شکلک ها';
-$Definition['Insert an emoji in your message.'] = 'یک شکلک به متن پیغام خود اضافه نمایید.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'رفتن به دسته بندی شکلک ها';
-$Definition['Emoji Categories'] = 'دسته بندی شکلک ها';
-$Definition['Jump to emoji category: %s'] = 'پریدن به مجموعه شکلک ها: %s';
-$Definition['In emoji category: %s'] = 'در مجموعه شکلک ها: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'شکلک ها و مردم';
-$Definition['Animals & Nature'] = 'حیوانات و طبیعت';
-$Definition['Food & Drink'] = 'غذا و نوشیدنی';
-$Definition['Travel & Places'] = 'سفر و مکان ها';
-$Definition['Activities'] = 'فعالیت ها';
-$Definition['Objects'] = 'اشیاء';
-$Definition['Symbols'] = 'نشانه ها';
-$Definition['Flags'] = 'پرچم ها';
-
-// Media Insertion
-$Definition['Image'] = 'تصاوير';
-$Definition['Insert Media'] = 'افزودن رسانه';
-$Definition['Paste the URL of the media you want.'] = 'آدرس رسانه ای که می خواهید وارد کنید.';
-$Definition['Embed'] = 'قراردادن';
-$Definition['Error'] = 'خطا';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'تعویض نقل قول';
-$Definition['Spoiler Warning'] = 'هشدار اسپویل';
-
-// Image Size & placement
-$Definition['Float Left'] = 'شناور به سمت چپ';
-$Definition['Float left'] = 'شناور به سمت چپ';
-$Definition['Centered'] = 'وسط چین';
-$Definition['Float Right'] = 'شناور سمت راست';
-$Definition['Float right'] = 'شناور سمت راست';
-$Definition['Small'] = 'کوچک';
-$Definition['Medium'] = 'متوسط';
-$Definition['Large'] = 'بزرگ';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'مکان نگهدار';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s برای بحث و گفتگو: "%s"';
-$Definition['%s for category: "%s"'] = '%s برای رده: "%s"';
-$Definition['%s comment by user: "%s"'] = 'نظر %s توسط کاربر: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'کاربر "%s" بحث را شروع کرد "%s" در تاریخ %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'آخرین نظر درباره تاریخ %s ، در بحث "%s" ، توسط کاربر "%s"';
-$Definition['%s for category: "%s"'] = '%s برای رده: "%s"';
-$Definition['Category: "%s"'] = 'رده: "%s"';
-$Definition['User: "%s"'] = 'کاربر: "%s"';
-$Definition['Group: "%s"'] = 'گروه: "%s"';
-$Definition['Global Navigation'] = 'پیمایش جهانی';
-$Definition['Skip to content'] = 'رفتن به محتوا';
-
-// KB Articles
-$Definition["Read More"] = "بیشتر بخوانید";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} درخواست پیوستن به {Group} را کرده است.';
