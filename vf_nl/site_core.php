@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s schreef op %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s heeft %2$s lidmaatschapsaanvraag goedgekeurd.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s heeft een account gemaakt voor %1$s.';
 $Definition['%s (Current)'] = '%s (Huidige)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Forumaccount aanmaken';
+$Definition['%s activities'] = '%s activiteiten';
+$Definition['%s activity'] = '%s activiteit';
 $Definition['%s Agrees'] = '%s Mee eens';
 $Definition['%s and %s others'] = '%s en %s anderen';
 $Definition['%s and you'] = '%s en jij';
@@ -907,7 +907,6 @@ $Definition['I remember now!'] = 'Ohja, nu weet ik het weer!';
 $Definition['Italic'] = 'Cursief';
 $Definition['Item'] = 'Voorwerp';
 $Definition['item'] = 'voorwerp';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Het lijkt erop dat je nieuw bent hier. Log in of registreer om te beginnen.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Het lijkt erop dat je hier nieuw bent. Klik op één van deze knoppen om je aan te melden!';
 
 $Definition['Jail'] = 'Gevangenis';
@@ -920,9 +919,6 @@ $Definition['Joined %s'] = 'Lid sinds %s';
 $Definition['Join this Community Now'] = 'Word nu lid van deze gemeenschap ';
 $Definition['Join this Group'] = 'Word lid van deze groep';
 $Definition['Join this group to view its content.'] = 'Word lid van deze groep om de inhoud te bekijken.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Sla de emoticonlijst over om naar emoticoncategorieën te gaan.';
-$Definition['Jump to a specific page'] = 'Naar een specifieke pagina springen';
-$Definition['Jump to first tracked post.'] = 'Ga naar het eerste bijgehouden bericht.';
 $Definition['Jumped to emoji category: '] = 'Gesprongen naar emoticoncategorie:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Sla de emoticonlijst over om naar emoticoncategorieën te gaan.';
 $Definition['Jump to a specific page'] = 'Naar een specifieke pagina springen';
@@ -938,6 +934,7 @@ $Definition['Keep User Content'] = 'Bewaar gebruikersinhoud';
 
 $Definition['Label'] = 'Etiket';
 $Definition['Languages'] = 'Talen';
+$Definition['Large'] = 'Groot';
 $Definition['Last Active'] = 'Laatst Actief';
 $Definition['Last Commented'] = 'Voor het laatst opmerking geplaatst';
 $Definition['Last IP'] = 'Laatste IP';
@@ -2056,112 +2053,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Je krij
 $Definition['You wrote:'] = 'Jij schreef:';
 $Definition['yyyy-mm-dd'] = 'jjjj-mm-dd';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Heet";
-$Definition["Most Helpful"] = "Meest behulpzaam";
-$Definition["Recently Active"] = "Recent actief";
-$Definition["Oldest Members"] = "oudste leden";
-$Definition["Newest Members"] = "Nieuwste leden";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Rich Text-bewerker';
-$Definition['richEditor.description.paragraphMenu'] = 'Om de stijl van een alinea te bewerken druk je op Tab om naar het alineamenu te gaan. Hier kan je één stijl kiezen. Wanneer je niets kiest wordt de alinea standaard.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Er verschijnt een in-line indelingsmenu wanneer je tekst selecteert. Druk op Tab om dat menu binnen te gaan.';
-$Definition['richEditor.description.embed'] = 'Sommige elementen, zoals rijke linkinsluitingen, afbeeldingen, laadindicatoren en foutmeldingen kunnen in de editor worden ingevoegd. U kunt er naar navigeren met behulp van de pijltoetsen in de editor en deze verwijderen met de delete- of backspace-toets.';
-$Definition['richEditor.externalEmbed.description'] = 'Dit is een insluiting. Het kan worden verwijderd met de delete-toets of de backspace-toets. Druk op tab om de insluitingsopties te openen.
-';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Gebruik de toetsenbordsnelkoppelingen "page up" en "page down" om tussen de beschikbare categorieën te wisselen wanneer het menu open staat.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Opmaakmenu van inline-niveau';
-$Definition['Format as Bold'] = 'Dikdrukken';
-$Definition['Bold'] = 'Vetgedrukt';
-$Definition['Format as Italic'] = 'Schuindrukken';
-$Definition['Italic'] = 'Cursief';
-$Definition['Format as Strikethrough'] = 'Doorstrepen';
-$Definition['Strikethrough'] = 'Doorhalen';
-$Definition['Format as Inline Code'] = 'Opmaken als inline code';
-$Definition['Paragraph Code Block'] = 'Codeblok';
-$Definition['Parent'] = 'Ouder';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Alinea (verwijdert alineastijl en stelt gewone alinea in)';
-$Definition['Code Block'] = 'Codeblok';
-$Definition['Format as Link'] = 'Opmaken als link';
-$Definition['Link'] = 'Link';
-$Definition['Insert Url'] = 'URL invoegen';
-$Definition['Paste or type a link…'] = 'Plak of typ een link...';
-$Definition['Close'] = 'Sluiten';
-$Definition['Line Level Formatting Menu'] = 'Opmaakmenu van lijnniveau';
-$Definition['Paragraph'] = 'Paragraaf';
-$Definition['Format as Paragraph'] = 'Opmaken als paragraaf';
-$Definition['Subtitle'] = 'Subtitel';
-$Definition['Format as Title'] = 'Opmaken als titel';
-$Definition['Sub Subtitle'] = 'Sub-ondertitel';
-$Definition['Format as Subtitle'] = 'Formatteer als ondertitel';
-$Definition['Quote'] = 'Aanhalen';
-$Definition['Format as blockquote'] = 'Formatteer als blockquote';
-$Definition['Format as code block'] = 'Formatteer als codeblok';
-$Definition['Spoiler'] = 'Leeswaarschuwing';
-$Definition['Format as spoiler'] = 'Formatteer als spoiler';
-$Definition['Inline Menu Available'] = 'In-line Menu Beschikbaar';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emoji\'s';
-$Definition['Insert an emoji in your message.'] = 'Voeg een emoticon in in je bericht.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Sla de emoticonlijst over om naar emoticoncategorieën te gaan.';
-$Definition['Emoji Categories'] = 'Emoticoncategorieën';
-$Definition['Jump to emoji category: %s'] = 'Spring naar emoji-categorie: %s';
-$Definition['In emoji category: %s'] = 'In emoji-categorie: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smileys en mensen';
-$Definition['Animals & Nature'] = 'Dieren en natuur';
-$Definition['Food & Drink'] = 'Voeding en drank';
-$Definition['Travel & Places'] = 'Reizen en plaatsen';
-$Definition['Activities'] = 'Activiteiten';
-$Definition['Objects'] = 'Objecten';
-$Definition['Symbols'] = 'Symbolen';
-$Definition['Flags'] = 'Vlaggen';
-
-// Media Insertion
-$Definition['Image'] = 'Beeld';
-$Definition['Insert Media'] = 'Media invoegen';
-$Definition['Paste the URL of the media you want.'] = 'Plak de URL van je media naar keuze.';
-$Definition['Embed'] = 'Insluiten';
-$Definition['Error'] = 'Fout';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Citaat aan/uit';
-$Definition['Spoiler Warning'] = 'Spoilerwaarschuwing';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Zweven naar links';
-$Definition['Float left'] = 'Zweven naar links';
-$Definition['Centered'] = 'gecentreerd';
-$Definition['Float Right'] = 'Zweven naar rechts';
-$Definition['Float right'] = 'Zweven naar rechts';
-$Definition['Small'] = 'Klein';
-$Definition['Medium'] = 'Medium';
-$Definition['Large'] = 'Groot';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Tijdelijke aanduiding';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s voor discussie: "%s"';
-$Definition['%s for category: "%s"'] = '%s voor categorie: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s reactie van gebruiker: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Gebruiker "%s" is discussie "%s" gestart op %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Laatste reactie op %s, in discussie "%s", door gebruiker "%s"';
-$Definition['%s for category: "%s"'] = '%s voor categorie: "%s"';
-$Definition['Category: "%s"'] = 'Categorie: "%s"';
-$Definition['User: "%s"'] = 'Gebruiker: "%s"';
-$Definition['Group: "%s"'] = 'Groep: "%s"';
-$Definition['Global Navigation'] = 'Wereldwijde navigatie';
-$Definition['Skip to content'] = 'Doorgaan naar artikel';
-
-// KB Articles
-$Definition["Read More"] = "Lees verder";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} heeft verzocht om lid te worden van {Group}.';

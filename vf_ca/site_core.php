@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s va escriure el %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s aprova una sol·licitud d\'adhesió %2$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s ha creat un compte per %1$s.';
 $Definition['%s (Current)'] = '%s (Actual)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Creació del compte del fòrum';
+$Definition['%s activities'] = '%s activitats';
+$Definition['%s activity'] = 'activitat %s';
 $Definition['%s Agrees'] = '%s Accepta';
 $Definition['%s and %s others'] = '%s i %s altres';
 $Definition['%s and you'] = '%s i tu';
@@ -890,7 +890,6 @@ $Definition['I remember now!'] = 'L\'acabo de recordar!';
 $Definition['Italic'] = 'Itàlica';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'element';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Sembla que ets nou aquí. Inicieu la sessió o registreu-vos per començar.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Sembles nou en aquestes contrades. Si vols participar, clica un dels seg';
 
 $Definition['Jail'] = 'Presó';
@@ -903,9 +902,6 @@ $Definition['Joined %s'] = 'Es va unir %s';
 $Definition['Join this Community Now'] = 'Uneix-te a aquesta comunitat ara';
 $Definition['Join this Group'] = 'Unèix-te al grup';
 $Definition['Join this group to view its content.'] = 'Unéix-te al grup per veure aquest contingut';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Saltar a la llista d\'emoji a les categories emoji.';
-$Definition['Jump to a specific page'] = 'Saltar a una pàgina específica';
-$Definition['Jump to first tracked post.'] = 'Saltar a la primera publicació rastrejada.';
 $Definition['Jumped to emoji category: '] = 'Va saltar a la categoria emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Saltar a la llista d\'emoji a les categories emoji.';
 $Definition['Jump to a specific page'] = 'Saltar a una pàgina específica';
@@ -921,6 +917,7 @@ $Definition['Keep User Content'] = 'UserKeep';
 
 $Definition['Label'] = 'Etiqueta';
 $Definition['Languages'] = 'Idiomes';
+$Definition['Large'] = 'Gran';
 $Definition['Last Active'] = 'Último Activo';
 $Definition['Last Commented'] = 'Últim comentari';
 $Definition['Last IP'] = 'Última IP';
@@ -2050,111 +2047,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Rebràs
 $Definition['You wrote:'] = 'Vas escriure:';
 $Definition['yyyy-mm-dd'] = 'aaaa-mm-dd';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Calent";
-$Definition["Most Helpful"] = "El més útil";
-$Definition["Recently Active"] = "Actiu recentment";
-$Definition["Oldest Members"] = "Membres més antics";
-$Definition["Newest Members"] = "Membres nous";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Editor de text enriquit.';
-$Definition['richEditor.description.paragraphMenu'] = 'Per editar l\'estil d\'un paràgraf, premeu la pestanya per accedir al menú del paràgraf. Des d\'allà podreu escollir un estil. No hi ha res predeterminat al paràgraf.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Es mostrarà un menú de format de text quan seleccioneu text. Feu clic a la pestanya per entrar al menú.';
-$Definition['richEditor.description.embed'] = 'Alguns elements, com ara incrustacions, imatges, indicadors de càrrega i missatges d’error, poden inserir-se a l’editor. Podeu navegar cap a aquestes mitjançant les tecles de fletxa dins de l\'editor i suprimir-les amb la tecla suprimir o retrocedir.';
-$Definition['richEditor.externalEmbed.description'] = 'Es tracta d\'una integració. Es pot suprimir mitjançant la tecla d\'esborrar o la tecla de retrocés. Premeu la pestanya per entrar a les opcions d’incrustar.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Utilitzeu les dreceres de teclat "pàgina amunt" i "pàgina cap avall" per fer el recorregut per les categories disponibles quan el menú emoji estigui obert.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Menú amb Format de text';
-$Definition['Format as Bold'] = 'Format com a negreta';
-$Definition['Bold'] = 'Negre';
-$Definition['Format as Italic'] = 'Format com a cursiva';
-$Definition['Italic'] = 'Itàlica';
-$Definition['Format as Strikethrough'] = 'Format com a Strikethrough';
-$Definition['Strikethrough'] = 'Strikethrough';
-$Definition['Format as Inline Code'] = 'Format com a codi en línia';
-$Definition['Paragraph Code Block'] = 'Bloc de codi';
-$Definition['Parent'] = 'Els pares';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paràgraf (elimina l\'estil de paràgraf i els conjunts de paràgrafs)';
-$Definition['Code Block'] = 'Bloc de codi';
-$Definition['Format as Link'] = 'Format com a Enllaç';
-$Definition['Link'] = 'Enllaç';
-$Definition['Insert Url'] = 'Insereix URL';
-$Definition['Paste or type a link…'] = 'Enganxa o escriu un enllaç ...';
-$Definition['Close'] = 'Cerrar';
-$Definition['Line Level Formatting Menu'] = 'Menú de Format de paràgraf';
-$Definition['Paragraph'] = 'Paràgraf';
-$Definition['Format as Paragraph'] = 'Format com a paràgraf normal';
-$Definition['Subtitle'] = 'Subtítol';
-$Definition['Format as Title'] = 'Format com a títol';
-$Definition['Sub Subtitle'] = 'Subtítol';
-$Definition['Format as Subtitle'] = 'Format com a subtítol';
-$Definition['Quote'] = 'Citar';
-$Definition['Format as blockquote'] = 'Format com a blockquote';
-$Definition['Format as code block'] = 'Format com a bloc de codi';
-$Definition['Spoiler'] = 'Spoiler';
-$Definition['Format as spoiler'] = 'Format com a spoiler';
-$Definition['Inline Menu Available'] = 'Menú en línia disponible';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emojis';
-$Definition['Insert an emoji in your message.'] = 'Inseriu un emoji al missatge.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Saltar a la llista d\'emoji a les categories emoji.';
-$Definition['Emoji Categories'] = 'Categories Emoji';
-$Definition['Jump to emoji category: %s'] = 'Saltar a la categoria emoji: %s';
-$Definition['In emoji category: %s'] = 'A la categoria emoji: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smileys & People';
-$Definition['Animals & Nature'] = 'Animals i natura';
-$Definition['Food & Drink'] = 'Menjar i beguda';
-$Definition['Travel & Places'] = 'Viatges i llocs';
-$Definition['Activities'] = 'Activitats';
-$Definition['Objects'] = 'Objectes';
-$Definition['Symbols'] = 'Símbols';
-$Definition['Flags'] = 'Banderes';
-
-// Media Insertion
-$Definition['Image'] = 'Imatge';
-$Definition['Insert Media'] = 'Inseriu suports';
-$Definition['Paste the URL of the media you want.'] = 'Enganxeu l’URL del material que vulgueu.';
-$Definition['Embed'] = 'Incrustar';
-$Definition['Error'] = 'Error';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Commuta el pressupost';
-$Definition['Spoiler Warning'] = 'Advertència de spoiler';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Flota a l\'esquerra';
-$Definition['Float left'] = 'Flota a l\'esquerra';
-$Definition['Centered'] = 'Centrat';
-$Definition['Float Right'] = 'Flota a la dreta';
-$Definition['Float right'] = 'Flota a la dreta';
-$Definition['Small'] = 'Petit';
-$Definition['Medium'] = 'Mitjà';
-$Definition['Large'] = 'Gran';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Posseïdor del lloc';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s per a discussió: "%s"';
-$Definition['%s for category: "%s"'] = '%s per a la categoria: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s comentari de l\'usuari: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'L\'usuari "%s" va començar la discussió "%s" a la data %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Comentari més recent a la data %s, a la discussió "%s", de l\'usuari "%s"';
-$Definition['%s for category: "%s"'] = '%s per a la categoria: "%s"';
-$Definition['Category: "%s"'] = 'Categoria: "%s"';
-$Definition['User: "%s"'] = 'Usuari: "%s"';
-$Definition['Group: "%s"'] = 'Grup: "%s"';
-$Definition['Global Navigation'] = 'Navegació global';
-$Definition['Skip to content'] = 'Ves al contingut';
-
-// KB Articles
-$Definition["Read More"] = "Llegeix més";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} ha sol·licitat unir-se a {Group}.';

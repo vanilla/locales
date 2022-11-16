@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s escribió en %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s aprobó la solicitud de membresía de%2$s. ';
 $Definition['%3$s created an account for %1$s.'] = '%3$s creó una cuenta para %1$s.';
 $Definition['%s (Current)'] = '%s (Actual)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Creación de una cuenta en el foro';
+$Definition['%s activities'] = '%s actividades';
+$Definition['%s activity'] = '%s actividad';
 $Definition['%s Agrees'] = '%s Acepta';
 $Definition['%s and %s others'] = '%s y %s otros';
 $Definition['%s and you'] = '%s y tú';
@@ -902,7 +902,6 @@ $Definition['I remember now!'] = '¡Ahora recuerdo!';
 $Definition['Italic'] = 'Itálica';
 $Definition['Item'] = 'Artículo';
 $Definition['item'] = 'artículo';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Parece que eres nuevo aquí. Inicia sesión o regístrate para comenzar.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '¿Eres nuevo por aquí? ¡Si quieres participar sólo hazle clic a uno de estos botones!';
 
 $Definition['Jail'] = 'Cárcel ';
@@ -915,9 +914,6 @@ $Definition['Joined %s'] = 'Se Unió %s';
 $Definition['Join this Community Now'] = 'Únete a esta Comunidad Ahora';
 $Definition['Join this Group'] = 'Únete a este Grupo';
 $Definition['Join this group to view its content.'] = 'Únete a este grupo para ver su contenido.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Pasar de la lista de emojis a las categorías de emojis.';
-$Definition['Jump to a specific page'] = 'Saltar a una página específica';
-$Definition['Jump to first tracked post.'] = 'Ir a la primera publicación rastreada';
 $Definition['Jumped to emoji category: '] = 'Saltar a la categoría de emojis:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Pasar de la lista de emojis a las categorías de emojis.';
 $Definition['Jump to a specific page'] = 'Saltar a una página específica';
@@ -933,6 +929,7 @@ $Definition['Keep User Content'] = 'Mantener el Contenido del Usuario';
 
 $Definition['Label'] = 'Etiqueta';
 $Definition['Languages'] = 'Idiomas';
+$Definition['Large'] = 'Grande';
 $Definition['Last Active'] = 'Activo por última vez';
 $Definition['Last Commented'] = 'Último Comentario ';
 $Definition['Last IP'] = 'Último IP';
@@ -2066,111 +2063,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Recibir
 $Definition['You wrote:'] = 'Has escrito:';
 $Definition['yyyy-mm-dd'] = 'aaaa/mm/dd';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Popular";
-$Definition["Most Helpful"] = "Más útil";
-$Definition["Recently Active"] = "Recientemente activo";
-$Definition["Oldest Members"] = "Miembros más antiguos";
-$Definition["Newest Members"] = "Miembros más nuevos";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Editor de Texto Enriquecido.';
-$Definition['richEditor.description.paragraphMenu'] = 'Para editar el estilo de un párrafo, presiona el tabulador para entrar en el menú de párrafo. Desde ahí, podrás elegir un estilo. No hay nada predeterminado con respecto al párrafo.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Aparecerá un menú de formato de texto cuando selecciones texto. Dale al tabulador para entrar en ese menú,';
-$Definition['richEditor.description.embed'] = 'Algunos elementos como incrustaciones, imágenes, indicadores de carga y mensajes de error pueden insertarse en el editor. Puedes navegar a estos usando las teclas de flecha dentro del editor y elimandolos con la tecla de borrar o retroceder. ';
-$Definition['richEditor.externalEmbed.description'] = 'Esto es un incrustado. Se puede eliminar usando la tecla de  "borrar" o de "retroceso". Presiona "tab" para acceder a las opciones de inserción.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Utiliza los atajos de teclado "página arriba" y "página abajo" para recorrer las categorías disponibles cuando el menú de emoji esté abierto.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Menú de Formato de Texto';
-$Definition['Format as Bold'] = 'Formatear como Negrita';
-$Definition['Bold'] = 'Negrita';
-$Definition['Format as Italic'] = 'Formatear como Cursiva';
-$Definition['Italic'] = 'Itálica';
-$Definition['Format as Strikethrough'] = 'Formatear como Tachado';
-$Definition['Strikethrough'] = 'Tachar';
-$Definition['Format as Inline Code'] = 'Formatear como Código en Línea';
-$Definition['Paragraph Code Block'] = 'Bloque de Código';
-$Definition['Parent'] = 'Principal';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Párrafo (Elimina el estilo del párrafo y lo convierte en un párrafo sin formato)';
-$Definition['Code Block'] = 'Bloque de Código';
-$Definition['Format as Link'] = 'Formatear Como Enlace';
-$Definition['Link'] = 'Enlace';
-$Definition['Insert Url'] = 'Insertar URL';
-$Definition['Paste or type a link…'] = 'Pega o escribe un enlace...';
-$Definition['Close'] = 'Cerrar';
-$Definition['Line Level Formatting Menu'] = 'Menú de Formato de Párrafo ';
-$Definition['Paragraph'] = 'Párrafo';
-$Definition['Format as Paragraph'] = 'Formatear como un párrafo normal ';
-$Definition['Subtitle'] = 'Subtítulo';
-$Definition['Format as Title'] = 'Formatear como Título';
-$Definition['Sub Subtitle'] = 'Subtítulo';
-$Definition['Format as Subtitle'] = 'Formatear como Subtítulo';
-$Definition['Quote'] = 'Citar';
-$Definition['Format as blockquote'] = 'Formatear como cita en bloque';
-$Definition['Format as code block'] = 'Formatear como bloque de código';
-$Definition['Spoiler'] = 'Spoiler ';
-$Definition['Format as spoiler'] = 'Formatear como Spoiler';
-$Definition['Inline Menu Available'] = 'Menú en línea disponible';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emojis';
-$Definition['Insert an emoji in your message.'] = 'Inserta un emoji en el mensaje.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Pasar de la lista de emojis a las categorías de emojis.';
-$Definition['Emoji Categories'] = 'Categorías de Emojis';
-$Definition['Jump to emoji category: %s'] = 'Pasar a la categoría de emoji: %s';
-$Definition['In emoji category: %s'] = 'En la categoría de emoticonos: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Emoticonos y Personas';
-$Definition['Animals & Nature'] = 'Animales y Naturaleza';
-$Definition['Food & Drink'] = 'Comida y Bebida';
-$Definition['Travel & Places'] = 'Viajes y Lugares';
-$Definition['Activities'] = 'Actividades';
-$Definition['Objects'] = 'Objetos';
-$Definition['Symbols'] = 'Símbolos';
-$Definition['Flags'] = 'Indicadores';
-
-// Media Insertion
-$Definition['Image'] = 'Imagen';
-$Definition['Insert Media'] = 'Insertar Multimedia';
-$Definition['Paste the URL of the media you want.'] = 'Pega el URL del medio que desee.';
-$Definition['Embed'] = 'Incrustar';
-$Definition['Error'] = 'Error';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Alternar Cita';
-$Definition['Spoiler Warning'] = 'Alerta de Spoiler';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Flotar a la izquierda';
-$Definition['Float left'] = 'Flotar a la izquierda';
-$Definition['Centered'] = 'Centrado';
-$Definition['Float Right'] = 'Flotar a la Derecha';
-$Definition['Float right'] = 'Flotar a la Derecha';
-$Definition['Small'] = 'Pequeño';
-$Definition['Medium'] = 'Medio';
-$Definition['Large'] = 'Grande';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Marcador de Posición';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s para la discusión: "%s"';
-$Definition['%s for category: "%s"'] = '%s para la categoría: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s comentario de usuario: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'El usuario "%s" inició la discusión "%s" en la fecha %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'El comentario más reciente de la fecha %s, en la discusión "%s", del usuario "%s"';
-$Definition['%s for category: "%s"'] = '%s para la categoría: "%s"';
-$Definition['Category: "%s"'] = 'Categoría: "%s"';
-$Definition['User: "%s"'] = 'Usuario: "%s"';
-$Definition['Group: "%s"'] = 'Grupo: "%s"';
-$Definition['Global Navigation'] = 'Navegación Global';
-$Definition['Skip to content'] = 'Saltar al contenido ';
-
-// KB Articles
-$Definition["Read More"] = "Lee mas";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} ha solicitado unirse a {Group}.';

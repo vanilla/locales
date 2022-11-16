@@ -13,8 +13,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = 'Sgrìobh %1$s air %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = 'Dh\'aontaich %3$s ris an iarrtas ballrachd aig %2$s.';
 $Definition['%3$s created an account for %1$s.'] = 'Chruthaich %3$s cunntas airson %1$s.';
 $Definition['%s (Current)'] = '%s (làithreach)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Cruthachadh cunntas fòram';
+$Definition['%s activities'] = 'gnìomhan %s';
+$Definition['%s activity'] = 'gnìomhachd %s';
 $Definition['%s Agrees'] = 'Tha %s ag aontachadh';
 $Definition['%s and %s others'] = '%s agus %s feadhainn eile';
 $Definition['%s and you'] = '%s \'s thu fhèin';
@@ -184,8 +184,7 @@ $Definition['Already Warned'] = 'Rabhadh mu thràth';
 $Definition['Also banned for the following:'] = 'Cuideachd toirmisgte airson na leanas:';
 $Definition['Also delete this user\'s content.'] = 'Sguab às cuideachd susbaint a\' chleachdaiche seo.';
 $Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Bidh teacsa eile a’ cuideachadh luchd-cleachdaidh le draghan ruigsinneachd agus a’ leasachadh SEO.';
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'A message has been sent to your email address with password reset instructions.';
-$Definition['Analytics'] = 'Analytics';
+$Definition['An archived file or files'] = 'Faidhle no faidhlichean tasglainn';
 $Definition['Ancient Membership'] = 'Seann bhallrachd';
 $Definition['An error has occurred, please try again.'] = 'Thachair mearachd, feuch ris a-rithist.';
 $Definition['An image file'] = 'Faidhle ìomhaigh';
@@ -703,21 +702,12 @@ $Definition['Invited on %s'] = 'Cuireadh air %s';
 $Definition['InviteErrorPermission'] = 'Tha sinn duilich ach chaidh cead a dhiùltadh.';
 $Definition['Invite Members'] = 'Thoir cuireadh do Bhuill';
 $Definition['I remember now!'] = 'Tha cuimhne agam a-nis!';
-$Definition['Italic'] = 'Italic';
-$Definition['Item'] = 'Item';
-$Definition['item'] = 'item';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Tha e coltach gu bheil thu ùr an seo. Clàraich a-steach no clàraich airson tòiseachadh.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Tha thu \'nad bhall ùr an-seo a-rèir coltais. Briog air fear dhe na putanan seo ma tha thu airson pàirt a ghabhail!';
 
 $Definition['Join'] = 'Thig còmhla';
 $Definition['Join Date'] = 'Ceann-latha ballrachd';
 $Definition['Joined'] = 'Air a chlàradh';
 $Definition['Join this Community Now'] = 'Thig còmhla ris a ’Choimhearsnachd seo a-nis';
-$Definition['Join this Group'] = 'Join this Group';
-$Definition['Join this group to view its content.'] = 'Join this group to view its content.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Leum seachad air liosta emoji, gu roinnean emoji.';
-$Definition['Jump to a specific page'] = 'Leum gu duilleag sònraichte';
-$Definition['Jump to first tracked post.'] = 'Leum chun chiad phost a chaidh a leantainn.';
 $Definition['Jumped to emoji category: '] = 'Leum gu roinn emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Leum seachad air liosta emoji, gu roinnean emoji.';
 $Definition['Jump to a specific page'] = 'Leum gu duilleag sònraichte';
@@ -727,8 +717,8 @@ $Definition['just now'] = 'an-dràsta';
 
 $Definition['Keep me signed in'] = 'Cum air logadh a-steach mi';
 
-$Definition['Label'] = 'Label';
 $Definition['Languages'] = 'Cànanan';
+$Definition['Large'] = 'Mòr';
 $Definition['Last Active'] = 'An gnìomh mu dheireadh';
 $Definition['Last Commented'] = 'Air a ràdh mu dheireadh';
 $Definition['Last IP'] = 'An IP mu dheireadh';
@@ -1427,111 +1417,4 @@ $Definition['Your request is pending. You\'ll be notified when its status change
 $Definition['You were added to a conversation.'] = 'Chuir {InsertUserID,user} {NotifyUserID,you} ri <a href="{Url,htmlencode}">còmhradh</a>.';
 $Definition['You will receive a notification when you are accepted.'] = 'Gheibh thu fios nuair a thèid gabhail riut.';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Teth";
-$Definition["Most Helpful"] = "As cuideachail";
-$Definition["Recently Active"] = "Gnìomhach o chionn ghoirid";
-$Definition["Oldest Members"] = "Buill as sine";
-$Definition["Newest Members"] = "Buill as ùire";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Deasaiche teacsa beairteach.';
-$Definition['richEditor.description.paragraphMenu'] = 'Gus stoidhle paragraf a dheasachadh, bhuail tab gus faighinn chun chlàr paragraf. Às an sin, bidh e comasach dhut aon stoidhle a thaghadh. Chan eil dad a ’dol sìos gu paragraf.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Nochdaidh clàr cruth teacsa nuair a thaghas tu teacsa. Buail tab gus faighinn a-steach don chlàr sin.';
-$Definition['richEditor.description.embed'] = 'Faodar cuid de eileamaidean, leithid freumhachadh, ìomhaighean, comharran luchdachadh, agus teachdaireachdan mearachd a chuir a-steach don neach-deasachaidh. Faodaidh tu seòladh thuca le bhith a ’cleachdadh iuchraichean saighead taobh a-staigh an deasaiche agus cuir às dhaibh leis an iuchair sguabaidh no backspace.';
-$Definition['richEditor.externalEmbed.description'] = 'Is e seo leabachadh. Faodar a dhubhadh às le bhith a ’cleachdadh an iuchair sguabaidh às no an iuchair backspace. Brùth tab airson a dhol a-steach do na roghainnean leabachaidh.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Cleachd ath-ghoiridean meur-chlàr "duilleag suas" agus "duilleag sìos" gus rothaireachd tro na roinnean a tha rim faighinn nuair a tha an clàr emoji fosgailte.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Clàr cruth teacsa';
-$Definition['Format as Bold'] = 'Cruth mar Trom';
-$Definition['Bold'] = 'Bold';
-$Definition['Format as Italic'] = 'Cruth mar clò Eadailteach';
-$Definition['Italic'] = 'Italic';
-$Definition['Format as Strikethrough'] = 'Cruth mar Strikethrough';
-$Definition['Strikethrough'] = 'Strikethrough';
-$Definition['Format as Inline Code'] = 'Cruth mar Chòd In-loidhne';
-$Definition['Paragraph Code Block'] = 'Bloc Còd';
-$Definition['Parent'] = 'Pàrant';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paragraf (A ’toirt air falbh stoidhle paragraf agus a’ suidheachadh gu paragraf sìmplidh)';
-$Definition['Code Block'] = 'Bloc Còd';
-$Definition['Format as Link'] = 'Cruth mar cheangal';
-$Definition['Link'] = 'Ceangal';
-$Definition['Insert Url'] = 'Cuir a-steach Url';
-$Definition['Paste or type a link…'] = 'Cuir a-steach no sgrìobh ceangal ...';
-$Definition['Close'] = 'Close';
-$Definition['Line Level Formatting Menu'] = 'Clàr cruth paragraf';
-$Definition['Paragraph'] = 'Paragraf';
-$Definition['Format as Paragraph'] = 'Cruth mar pharagraf àbhaisteach';
-$Definition['Subtitle'] = 'Fo-thiotal';
-$Definition['Format as Title'] = 'Cruth mar Tiotal';
-$Definition['Sub Subtitle'] = 'Fo-thiotal';
-$Definition['Format as Subtitle'] = 'Cruth mar fho-thiotal';
-$Definition['Quote'] = 'Iomradh';
-$Definition['Format as blockquote'] = 'Cruth mar blockquote';
-$Definition['Format as code block'] = 'Cruth mar bhloc còd';
-$Definition['Spoiler'] = 'Pìos-millidh';
-$Definition['Format as spoiler'] = 'Cruth mar spoiler';
-$Definition['Inline Menu Available'] = 'Clàr a-staigh ri fhaighinn';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emojis';
-$Definition['Insert an emoji in your message.'] = 'Cuir a-steach emoji anns an teachdaireachd agad.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Leum seachad air liosta emoji, gu roinnean emoji.';
-$Definition['Emoji Categories'] = 'Roinnean Emoji';
-$Definition['Jump to emoji category: %s'] = 'Leum gu roinn emoji: %s';
-$Definition['In emoji category: %s'] = 'Ann an roinn emoji: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smileys & Daoine';
-$Definition['Animals & Nature'] = 'Beathaichean & Nàdar';
-$Definition['Food & Drink'] = 'Biadh & Deoch';
-$Definition['Travel & Places'] = 'Siubhal & Àiteachan';
-$Definition['Activities'] = 'Gnìomhan';
-$Definition['Objects'] = 'Rudan';
-$Definition['Symbols'] = 'Samhlaidhean';
-$Definition['Flags'] = 'Brataichean';
-
-// Media Insertion
-$Definition['Image'] = 'Image';
-$Definition['Insert Media'] = 'Cuir a-steach meadhanan';
-$Definition['Paste the URL of the media you want.'] = 'Cuir a-steach URL nam meadhanan a tha thu ag iarraidh.';
-$Definition['Embed'] = 'Gabhail a-steach';
-$Definition['Error'] = 'Mearachd';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Tog Tog Quote';
-$Definition['Spoiler Warning'] = 'Rabhadh milleadh';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Float air an làimh chlì';
-$Definition['Float left'] = 'Float air an làimh chlì';
-$Definition['Centered'] = 'Sa mheadhan';
-$Definition['Float Right'] = 'Float Ceart';
-$Definition['Float right'] = 'Float Ceart';
-$Definition['Small'] = 'Beag';
-$Definition['Medium'] = 'Meadhanach';
-$Definition['Large'] = 'Mòr';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Neach-àite';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s airson beachdachadh: "%s"';
-$Definition['%s for category: "%s"'] = '%s airson roinn-seòrsa: "%s"';
-$Definition['%s comment by user: "%s"'] = 'beachd %s leis a ’chleachdaiche:" %s "';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Thòisich an cleachdaiche "%s" deasbad "%s" air ceann-latha %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Beachd as ùire air ceann-latha %s, ann an deasbad "%s", leis an neach-cleachdaidh "%s"';
-$Definition['%s for category: "%s"'] = '%s airson roinn-seòrsa: "%s"';
-$Definition['Category: "%s"'] = 'Roinn-seòrsa: "%s"';
-$Definition['User: "%s"'] = 'Cleachdaiche: "%s"';
-$Definition['Group: "%s"'] = 'Buidheann: "%s"';
-$Definition['Global Navigation'] = 'Seòladh Cruinneil';
-$Definition['Skip to content'] = 'Air adhart gu susbaint';
-
-// KB Articles
-$Definition["Read More"] = "Leugh Tuilleadh";
+$Definition['{Username} has requested to join {Group}.'] = 'Tha {Username} air iarraidh a dhol còmhla ri {Group}.';

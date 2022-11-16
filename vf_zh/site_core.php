@@ -20,7 +20,8 @@ $Definition['%3$s approved %2$s membership application.'] = '%3$s批准%2$s的�
 $Definition['%3$s created an account for %1$s.'] = '%3$s为%1$s创建了一个帐户。';
 $Definition['%s (Current)'] = '%s（当前）';
 $Definition['%s: %s'] = '%s：%s';
-$Definition['[%s] Forum Account Creation'] = '[%s] 论坛帐户创建';
+$Definition['%s activities'] = '%s活动';
+$Definition['%s activity'] = '%s活动';
 $Definition['%s Agrees'] = '%s个赞同';
 $Definition['%s and %s others'] = '%s和%s其他人';
 $Definition['%s and you'] = '%s和您';
@@ -922,7 +923,6 @@ $Definition['I remember now!'] = '我现在想起来了！';
 $Definition['Italic'] = '斜体';
 $Definition['Item'] = '条目';
 $Definition['item'] = '条目';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = '看起来你是新来的。登录或注册以开始使用。';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '新手上路，加入请点击其中一个按钮:';
 
 $Definition['Jail'] = '禁言';
@@ -935,9 +935,6 @@ $Definition['Joined %s'] = '加入于 %s';
 $Definition['Join this Community Now'] = '现在加入这个社区吧';
 $Definition['Join this Group'] = '加入该群';
 $Definition['Join this group to view its content.'] = '加入该群以浏览其内容。';
-$Definition['Jump past emoji list, to emoji categories.'] = '从表情符清单跳转到表情符类别。';
-$Definition['Jump to a specific page'] = '跳转到特定页面';
-$Definition['Jump to first tracked post.'] = '跳转至第一个跟踪的帖子。';
 $Definition['Jumped to emoji category: '] = '跳转到表情符类别：';
 $Definition['Jump past emoji list, to emoji categories.'] = '从表情符清单跳转到表情符类别。';
 $Definition['Jump to a specific page'] = '跳转到特定页面';
@@ -954,6 +951,7 @@ $Definition['Kilobyte'] = '千字节';
 
 $Definition['Label'] = '表单标签';
 $Definition['Languages'] = '语言';
+$Definition['Large'] = '大的';
 $Definition['Last Active'] = '上次在线';
 $Definition['Last Commented'] = '最后评论';
 $Definition['Last IP'] = '最后登录 IP';
@@ -2115,111 +2113,4 @@ $Definition['You will receive a notification when you are accepted.'] = '当您�
 $Definition['You wrote:'] = '您写道：';
 $Definition['yyyy-mm-dd'] = '年-月-日';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "热的";
-$Definition["Most Helpful"] = "最有帮助";
-$Definition["Recently Active"] = "最近活跃";
-$Definition["Oldest Members"] = "最年长的成员";
-$Definition["Newest Members"] = "最新成员";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = '富文本编辑器。';
-$Definition['richEditor.description.paragraphMenu'] = '要编辑段落样式，请点击选项卡以转到段落菜单。你可以从中选择一种样式。段落没有任何默认值。'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = '当你选中文本时会出现一个行内格式化菜单。点击选项卡以进入此菜单。';
-$Definition['richEditor.description.embed'] = '某些元素（如各类链接嵌入、图像、加载指示符和错误消息）可能会插入到编辑器中。您可以使用编辑器内的箭头键导航到这些部分，然后使用删除键（delete）或退格键（backspace）删除它们。';
-$Definition['richEditor.externalEmbed.description'] = '这是个 embed。可以使用删除键或后退键将其删除。按 tab 键可进入 embed 选项。';
-$Definition['richEditor.emoji.pagingInstructions'] = '当菜单打开时，使用键盘快捷键“page up”（向上翻页）和“page down”（向下翻页）可循环显示可用类别。';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = '行内级格式菜单';
-$Definition['Format as Bold'] = '格式为粗体';
-$Definition['Bold'] = '粗体';
-$Definition['Format as Italic'] = '格式为斜体';
-$Definition['Italic'] = '斜体';
-$Definition['Format as Strikethrough'] = '格式为删除线';
-$Definition['Strikethrough'] = '删除线';
-$Definition['Format as Inline Code'] = '格式为行内代码';
-$Definition['Paragraph Code Block'] = '代码块';
-$Definition['Parent'] = '父级';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = '段落（删除段落样式并设置为普通段落）';
-$Definition['Code Block'] = '代码块';
-$Definition['Format as Link'] = '格式为链接';
-$Definition['Link'] = '链接';
-$Definition['Insert Url'] = '插入网址';
-$Definition['Paste or type a link…'] = '粘贴或键入一个链接……';
-$Definition['Close'] = '锁定';
-$Definition['Line Level Formatting Menu'] = '行级格式菜单';
-$Definition['Paragraph'] = '段落';
-$Definition['Format as Paragraph'] = '格式为段落';
-$Definition['Subtitle'] = '字幕';
-$Definition['Format as Title'] = '格式为标题';
-$Definition['Sub Subtitle'] = '副字幕';
-$Definition['Format as Subtitle'] = '格式为字幕';
-$Definition['Quote'] = '引用';
-$Definition['Format as blockquote'] = '格式为块引用';
-$Definition['Format as code block'] = '格式为代码块';
-$Definition['Spoiler'] = '剧透内容';
-$Definition['Format as spoiler'] = '格式为剧透';
-$Definition['Inline Menu Available'] = '行内菜单可用';
-
-// Emoji Picker
-$Definition['Emoji'] = '表情符号';
-$Definition['Emojis'] = '表情符号';
-$Definition['Insert an emoji in your message.'] = '在你的消息中插入表情符。';
-$Definition['Jump past emoji list, to emoji categories.'] = '从表情符清单跳转到表情符类别。';
-$Definition['Emoji Categories'] = '表情符类别';
-$Definition['Jump to emoji category: %s'] = '跳转到表情符号类别：%s';
-$Definition['In emoji category: %s'] = '在表情符号类别中：%s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = '笑脸与人物';
-$Definition['Animals & Nature'] = '动物和自然';
-$Definition['Food & Drink'] = '食品和饮料';
-$Definition['Travel & Places'] = '旅游和地方';
-$Definition['Activities'] = '活动';
-$Definition['Objects'] = '对象';
-$Definition['Symbols'] = '符号';
-$Definition['Flags'] = '标记位';
-
-// Media Insertion
-$Definition['Image'] = '图片';
-$Definition['Insert Media'] = '插入媒体';
-$Definition['Paste the URL of the media you want.'] = '粘贴你要的媒体的 URL。';
-$Definition['Embed'] = '嵌入';
-$Definition['Error'] = '错误';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = '切换引用';
-$Definition['Spoiler Warning'] = '剧透警告';
-
-// Image Size & placement
-$Definition['Float Left'] = '向左飘浮';
-$Definition['Float left'] = '向左飘浮';
-$Definition['Centered'] = '居中';
-$Definition['Float Right'] = '向右浮动';
-$Definition['Float right'] = '向右浮动';
-$Definition['Small'] = '小的';
-$Definition['Medium'] = '中等的';
-$Definition['Large'] = '大的';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = '占位符';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s 用于讨论：“%s”';
-$Definition['%s for category: "%s"'] = '%s（类别：“%s”）';
-$Definition['%s comment by user: "%s"'] = '%s用户注释：“%s”';
-$Definition['User "%s" started discussion "%s" on date %s'] = '用户 “%s” 在日期 %s 开始讨论“%s"';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = '用户 “%s” 在讨论 “%s” 中对日期 %s 的最近评论';
-$Definition['%s for category: "%s"'] = '%s（类别：“%s”）';
-$Definition['Category: "%s"'] = '类别：“%s”';
-$Definition['User: "%s"'] = '用户：“%s”';
-$Definition['Group: "%s"'] = '组：“%s”';
-$Definition['Global Navigation'] = '全球导航';
-$Definition['Skip to content'] = '跳到内容';
-
-// KB Articles
-$Definition["Read More"] = "阅读更多";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} 已请求加入 {Group}。';

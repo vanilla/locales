@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s가 %4$s %5$s에 글을 남겼습
 $Definition['%3$s approved %2$s membership application.'] = '%3$s 는 %2$s의 멤버쉽 지원을 승인했습니다.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s는 %1$s 를 위해 계정을 만들었습니다.';
 $Definition['%s (Current)'] = '%s (현재) ';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] 포럼 계정 생성';
+$Definition['%s activities'] = '%s 활동';
+$Definition['%s activity'] = '%s 활동';
 $Definition['%s Agrees'] = '%s 는 동의합니다';
 $Definition['%s and %s others'] = '%s명 그리고 %s명의 다른 사람들';
 $Definition['%s and you'] = '%s와 당신';
@@ -235,7 +235,6 @@ $Definition['Already Warned'] = '이미 경고함';
 $Definition['Also banned for the following:'] = '다음에 대해서도 금지되었습니다:';
 $Definition['Also delete this user\'s content.'] = '해당 사용자의 콘테츠도 삭제합니다.';
 $Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = '대체 텍스트는 접근성 문제가 있는 사용자를 돕고 SEO를 개선합니다.';
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'A message has been sent to your email address with password reset instructions.';
 $Definition['Analytics'] = '분석';
 $Definition['An archived file or files'] = '보관된 파일 혹은 파일들';
 $Definition['Ancient Membership'] = '옛 회원';
@@ -899,7 +898,6 @@ $Definition['I remember now!'] = '이제 기억납니다!';
 $Definition['Italic'] = '이탤릭체';
 $Definition['Item'] = '항목';
 $Definition['item'] = '항목';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = '여기 새로 오신 것 같습니다. 시작하려면 로그인하거나 등록하세요.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '새로 오신 회원인가보네요. 참여하시길 원하신다면 다음의 버튼 중 하나를 눌러주세요!';
 
 $Definition['Jail'] = '감옥';
@@ -912,9 +910,6 @@ $Definition['Joined %s'] = '%s에 가입됨';
 $Definition['Join this Community Now'] = '지금 이 커뮤니티 가입하기';
 $Definition['Join this Group'] = '이 그룹에 가입';
 $Definition['Join this group to view its content.'] = '내용을 보시려면 이 그룹에 가입하십시오.';
-$Definition['Jump past emoji list, to emoji categories.'] = '이모티콘 목록을 지나 이모티콘 카테고리로 이동.';
-$Definition['Jump to a specific page'] = '특정 페이지로 이동';
-$Definition['Jump to first tracked post.'] = '첫번째 추적 게시물로 이동.';
 $Definition['Jumped to emoji category: '] = '이모티콘 카테고리로 이동: ';
 $Definition['Jump past emoji list, to emoji categories.'] = '이모티콘 목록을 지나 이모티콘 카테고리로 이동.';
 $Definition['Jump to a specific page'] = '특정 페이지로 이동';
@@ -931,6 +926,7 @@ $Definition['Kilobyte'] = '킬로바이트';
 
 $Definition['Label'] = '라벨';
 $Definition['Languages'] = '언어';
+$Definition['Large'] = '크기가 큰';
 $Definition['Last Active'] = '마지막으로 온라인';
 $Definition['Last Commented'] = '마지막 댓글';
 $Definition['Last IP'] = '마지막 IP';
@@ -2058,111 +2054,4 @@ $Definition['You will receive a notification when you are accepted.'] = '수락�
 $Definition['You wrote:'] = '당신:';
 $Definition['yyyy-mm-dd'] = '년년년년-월월-일일';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "더운";
-$Definition["Most Helpful"] = "가장 도움이 됨";
-$Definition["Recently Active"] = "최근 활성";
-$Definition["Oldest Members"] = "가장 오래된 회원";
-$Definition["Newest Members"] = "최신 회원";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = '리치 텍스트 편집기.';
-$Definition['richEditor.description.paragraphMenu'] = '단락 유형을 편집하기 위해 탭을 눌러 단락 메뉴로 들어가세요. 거기에서 한 가지 유형을 선택할 수 있습니다. 단락에 기본값은 없습니다. '; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = '인라인 형식 메뉴는 텍스트를 선택할 때 나타납니다. 그 메뉴를 사용하려면 탭을 누르세요.';
-$Definition['richEditor.description.embed'] = '리치 링크 임베드, 이미지, 로딩 표식 및 에러메시지와 같은 일부 엘리먼트의 경우, 에디터에 삽입할 수 있습니다. 에디터 내부에서 방향키를 통해 해당 엘리먼트들 간에 이동하실 수 있으며, 딜리트 또는 백스페이스 키로 삭제하실 수 있습니다.';
-$Definition['richEditor.externalEmbed.description'] = '이것은 임베드입니다. Delete 키나 Backspace 키를 사용해서 삭제가 가능합니다. 임베드 설정에 들어가려면 탭을 누르세요.';
-$Definition['richEditor.emoji.pagingInstructions'] = '메뉴가 열릴 때 이용 가능한 카테고리를 훑어보기 위해 키보드 단축기 "page up"와 "page down" 을 사용하세요.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = '인라인 레벨 서식지정 메뉴';
-$Definition['Format as Bold'] = '볼드로 서식 지정';
-$Definition['Bold'] = '굵게';
-$Definition['Format as Italic'] = '이탤릭체 서식으로 지정';
-$Definition['Italic'] = '이탤릭체';
-$Definition['Format as Strikethrough'] = '삭선 서식으로 지정';
-$Definition['Strikethrough'] = '취소선';
-$Definition['Format as Inline Code'] = '인라인 코드 서식으로 지정';
-$Definition['Paragraph Code Block'] = '코드 블록 ';
-$Definition['Parent'] = '부모';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = '문단 (문단 유형을 제거하고 평이한 문단으로 설정)';
-$Definition['Code Block'] = '코드 블록 ';
-$Definition['Format as Link'] = '링크로 서식 지정';
-$Definition['Link'] = '링크 ';
-$Definition['Insert Url'] = 'URL 넣기';
-$Definition['Paste or type a link…'] = '링크를 붙여 넣거나 입력하세요...';
-$Definition['Close'] = '닫기';
-$Definition['Line Level Formatting Menu'] = '라인 레벨 서식지정 메뉴';
-$Definition['Paragraph'] = '문단';
-$Definition['Format as Paragraph'] = '본문 서식으로 지정';
-$Definition['Subtitle'] = '부제목';
-$Definition['Format as Title'] = '제목으로 서식 지정';
-$Definition['Sub Subtitle'] = '부 부제목';
-$Definition['Format as Subtitle'] = '부제목으로 서식 지정';
-$Definition['Quote'] = '인용하기';
-$Definition['Format as blockquote'] = '블록인용문 서식으로 지정';
-$Definition['Format as code block'] = '코드 블록으로 서식 지정';
-$Definition['Spoiler'] = '스포일러';
-$Definition['Format as spoiler'] = '스포일러로 서식 지정';
-$Definition['Inline Menu Available'] = '인라인 메뉴 이용 가능 ';
-
-// Emoji Picker
-$Definition['Emoji'] = '이모지';
-$Definition['Emojis'] = '이모지';
-$Definition['Insert an emoji in your message.'] = '메시지에 이모티콘을 넣어 보세요. ';
-$Definition['Jump past emoji list, to emoji categories.'] = '이모티콘 목록을 지나 이모티콘 카테고리로 이동.';
-$Definition['Emoji Categories'] = '이모티콘 카테고리 ';
-$Definition['Jump to emoji category: %s'] = '이모티콘 카테고리로 점프: %s';
-$Definition['In emoji category: %s'] = '이모티콘 카테고리 내: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = '스마일리와 사람';
-$Definition['Animals & Nature'] = '동물과 자연 ';
-$Definition['Food & Drink'] = '식음료';
-$Definition['Travel & Places'] = '여행과 장소';
-$Definition['Activities'] = '활동 ';
-$Definition['Objects'] = '물건 ';
-$Definition['Symbols'] = '기호 ';
-$Definition['Flags'] = '플래그';
-
-// Media Insertion
-$Definition['Image'] = '이미지';
-$Definition['Insert Media'] = '미디어 넣기';
-$Definition['Paste the URL of the media you want.'] = '원하는 미디어의 URL을 붙여 넣기 하세요. ';
-$Definition['Embed'] = '내장';
-$Definition['Error'] = '에러';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = '인용 토글';
-$Definition['Spoiler Warning'] = '스포일러 경고';
-
-// Image Size & placement
-$Definition['Float Left'] = '왼쪽으로 뜨다';
-$Definition['Float left'] = '왼쪽으로 뜨다';
-$Definition['Centered'] = '중앙';
-$Definition['Float Right'] = '오른쪽 부동';
-$Definition['Float right'] = '오른쪽 부동';
-$Definition['Small'] = '작은';
-$Definition['Medium'] = '중간';
-$Definition['Large'] = '크기가 큰';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = '자리 표시자';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '토론용 %s: "%s"';
-$Definition['%s for category: "%s"'] = '카테고리용 %s: "%s" ';
-$Definition['%s comment by user: "%s"'] = '사용자의 %s 코멘트: "%s"   ';
-$Definition['User "%s" started discussion "%s" on date %s'] = '%s 사용자가 일자 %s에 "%s" 토론을 시작함';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = '일자 %s, "%s" 토론에 대한 사용자 "%s"의 가장 최근 코멘트';
-$Definition['%s for category: "%s"'] = '카테고리용 %s: "%s" ';
-$Definition['Category: "%s"'] = '카테고리: "%s"';
-$Definition['User: "%s"'] = '사용자: "%s" ';
-$Definition['Group: "%s"'] = '그룹: "%s"';
-$Definition['Global Navigation'] = '글로벌 네비게이션';
-$Definition['Skip to content'] = '컨텐츠로 건너 뛰기';
-
-// KB Articles
-$Definition["Read More"] = "더 읽어보기";
+$Definition['{Username} has requested to join {Group}.'] = '{Username}이(가) {Group} 가입을 요청했습니다.';

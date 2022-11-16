@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s skrev på %5$s %4$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s godkände medlemskap för %2$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s skapade ett konto åt %1$s.';
 $Definition['%s (Current)'] = '%s (nuvarande)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Skapa forumkonto';
+$Definition['%s activities'] = '%s aktiviteter';
+$Definition['%s activity'] = '%s aktivitet';
 $Definition['%s Agrees'] = '%s håller med';
 $Definition['%s and %s others'] = '%s och %s andra';
 $Definition['%s and you'] = '%s och dig';
@@ -907,7 +907,6 @@ $Definition['I remember now!'] = 'Jag minns nu!';
 $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Objekt';
 $Definition['item'] = 'objekt';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Det ser ut som om du är ny här. Logga in eller registrera dig för att komma igång.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Du verkar vara ny här? Om du vill vara med, klicka på en av följande knappar:';
 
 $Definition['Jail'] = 'Fängelse';
@@ -920,9 +919,6 @@ $Definition['Joined %s'] = 'Gick med i %s';
 $Definition['Join this Community Now'] = 'Gå med i denna gemenskap nu';
 $Definition['Join this Group'] = 'Gå med i den här gruppen';
 $Definition['Join this group to view its content.'] = 'Gå med i denna grupp för att se dess innehåll.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Hoppa förbi emojilistan, till emojikategorier. ';
-$Definition['Jump to a specific page'] = 'Hoppa till en specifik sida';
-$Definition['Jump to first tracked post.'] = 'Gå till det första spårade inlägget.';
 $Definition['Jumped to emoji category: '] = 'Hoppade till emojikategori:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Hoppa förbi emojilistan, till emojikategorier. ';
 $Definition['Jump to a specific page'] = 'Hoppa till en specifik sida';
@@ -938,6 +934,7 @@ $Definition['Keep User Content'] = 'Behåll användarens inlägg';
 
 $Definition['Label'] = 'Etikett';
 $Definition['Languages'] = 'språk';
+$Definition['Large'] = 'Stor';
 $Definition['Last Active'] = 'Senast aktiv';
 $Definition['Last Commented'] = 'Senast kommenterad';
 $Definition['Last IP'] = 'senast IP';
@@ -2077,111 +2074,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Du komm
 $Definition['You wrote:'] = 'Du skrev:';
 $Definition['yyyy-mm-dd'] = 'åååå-mm-dd';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Varm";
-$Definition["Most Helpful"] = "Mest hjälpsam";
-$Definition["Recently Active"] = "Nyligen aktiv";
-$Definition["Oldest Members"] = "Äldsta medlemmar";
-$Definition["Newest Members"] = "Nyaste medlemmarna";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Mångsidig ordbehandlare.';
-$Definition['richEditor.description.paragraphMenu'] = 'För att redigera styckets stil trycker du på fliken för att öppna menyn med stycken. Där kan du välja en stil. Väljs inget blir det ett vanligt stycke. '; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'En rak formateringsmeny kommer att visas när du väljer text. Tryck på fliken för att öppna menyn. ';
-$Definition['richEditor.description.embed'] = 'Vissa element, såsom inbäddade länkar, bilder, laddningsindikatorer och felmeddelanden kan infogas i editorn. Du kan navigera bland dessa genom att använda piltangenterna i editorn och ta bort dem med tangenterna delete och backslag. ';
-$Definition['richEditor.externalEmbed.description'] = 'Det här är ett inbäddat objekt. Det kan raderas med Delete-tangenten eller backstegstangenten. Klicka på tabbtangenten för att komma åt inställningsalternativen.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Använd "page up" och "page down" på tangentbordet för att bläddra bland tillgängliga kategorier när menyn är öppen. ';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Formateringsmeny Infogad nivå';
-$Definition['Format as Bold'] = 'Formatera som Fetstil';
-$Definition['Bold'] = 'Fet';
-$Definition['Format as Italic'] = 'Formatera som Kursiv';
-$Definition['Italic'] = 'Kursiv';
-$Definition['Format as Strikethrough'] = 'Formatera som Genomstruken';
-$Definition['Strikethrough'] = 'Strykning';
-$Definition['Format as Inline Code'] = 'Formatera som Indenterad Kod';
-$Definition['Paragraph Code Block'] = 'Kodblock';
-$Definition['Parent'] = 'Förälder';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Stycke (tar bort indrag och gör vänstermarginalen rak)';
-$Definition['Code Block'] = 'Kodblock';
-$Definition['Format as Link'] = 'Formatera som Länk';
-$Definition['Link'] = 'Länk';
-$Definition['Insert Url'] = 'Infoga Url';
-$Definition['Paste or type a link…'] = 'Klistra in eller skriv in länk ...';
-$Definition['Close'] = 'Lås';
-$Definition['Line Level Formatting Menu'] = 'Formateringsmeny Dispositionsnivå';
-$Definition['Paragraph'] = 'Stycke';
-$Definition['Format as Paragraph'] = 'Formatera som Stycke';
-$Definition['Subtitle'] = 'Underrubrik';
-$Definition['Format as Title'] = 'Formatera som Titel';
-$Definition['Sub Subtitle'] = 'Under Undertext';
-$Definition['Format as Subtitle'] = 'Formatera som Underrubrik';
-$Definition['Quote'] = 'Citera';
-$Definition['Format as blockquote'] = 'Formatera som blockcitat';
-$Definition['Format as code block'] = 'Formatera som kodblock';
-$Definition['Spoiler'] = 'Spoiler';
-$Definition['Format as spoiler'] = 'Formatera som spoiler';
-$Definition['Inline Menu Available'] = 'Rak meny tillgänglig';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emojier';
-$Definition['Insert an emoji in your message.'] = 'Förse ditt meddelande med en emoji. ';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Hoppa förbi emojilistan, till emojikategorier. ';
-$Definition['Emoji Categories'] = 'Emojikategorier';
-$Definition['Jump to emoji category: %s'] = 'Hoppa till emojikategori: %s';
-$Definition['In emoji category: %s'] = 'I emojikategori: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smileys & Människor';
-$Definition['Animals & Nature'] = 'Djur & Natur';
-$Definition['Food & Drink'] = 'Mat & Dryck';
-$Definition['Travel & Places'] = 'Resor & Platser';
-$Definition['Activities'] = 'Aktiviteter';
-$Definition['Objects'] = 'Objekt';
-$Definition['Symbols'] = 'Symboler';
-$Definition['Flags'] = 'Flaggor';
-
-// Media Insertion
-$Definition['Image'] = 'Bild';
-$Definition['Insert Media'] = 'Infoga Media';
-$Definition['Paste the URL of the media you want.'] = 'Klistra in URL till önskad media. ';
-$Definition['Embed'] = 'Bädda in';
-$Definition['Error'] = 'Fel';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Växla Citat';
-$Definition['Spoiler Warning'] = 'Spoilervarning';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Flyta till vänster';
-$Definition['Float left'] = 'Flyta till vänster';
-$Definition['Centered'] = 'Centrerad';
-$Definition['Float Right'] = 'Flyt höger';
-$Definition['Float right'] = 'Flyt höger';
-$Definition['Small'] = 'Små';
-$Definition['Medium'] = 'Medium';
-$Definition['Large'] = 'Stor';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Platshållare';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s för diskussionen: ”%s”';
-$Definition['%s for category: "%s"'] = '%s för kategorin: ”%s”';
-$Definition['%s comment by user: "%s"'] = '%s kommentar från användaren: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Användaren ”%s” startade diskussionen ”%s” %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Senaste kommentaren %s, i diskussionen ”%s”, av användaren ”%s”';
-$Definition['%s for category: "%s"'] = '%s för kategorin: ”%s”';
-$Definition['Category: "%s"'] = 'Kategori: ”%s”';
-$Definition['User: "%s"'] = 'Användare: ”%s”';
-$Definition['Group: "%s"'] = 'Grupp: ”%s”';
-$Definition['Global Navigation'] = 'Global navigation';
-$Definition['Skip to content'] = 'hoppa till innehåll';
-
-// KB Articles
-$Definition["Read More"] = "Läs mer";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} har begärt att få gå med i {Group}.';

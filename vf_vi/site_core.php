@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s đã viết lên %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s đã duyệt đơn đăng ký của %2$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s đã tạo tài khoản cho %1$s.';
 $Definition['%s (Current)'] = '%s (Hiện tại)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Tạo tài khoản diễn đàn';
+$Definition['%s activities'] = '%s hoạt động';
+$Definition['%s activity'] = '%s hoạt động';
 $Definition['%s Agrees'] = '%s Đồng ý';
 $Definition['%s and %s others'] = 'những %s và %s khác';
 $Definition['%s and you'] = '%s và bạn';
@@ -912,7 +912,6 @@ $Definition['I remember now!'] = 'Nhớ rồi!';
 $Definition['Italic'] = 'In nghiêng';
 $Definition['Item'] = 'Mục';
 $Definition['item'] = 'đề mục';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Có vẻ như bạn là người mới ở đây. Đăng nhập hoặc đăng ký để bắt đầu.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Còn chờ gì nữa mà không mau đăng nhập hoặc đăng ký để cùng tham gia thảo luận với cộng đồng!';
 
 $Definition['Jail'] = 'Cho ra đảo';
@@ -925,9 +924,6 @@ $Definition['Joined %s'] = 'Đã tham gia %s';
 $Definition['Join this Community Now'] = 'Tham Gia vào Cộng Đồng này Ngay Bây Giờ';
 $Definition['Join this Group'] = 'Tham gia vào Nhóm này';
 $Definition['Join this group to view its content.'] = 'Tham gia nhóm này để xem nội dung của nó.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Bỏ qua danh sách emoji, chuyển đến danh mục emoji.';
-$Definition['Jump to a specific page'] = 'Chuyển đến một trang cụ thể';
-$Definition['Jump to first tracked post.'] = 'Đến bài viết được theo dõi đầu tiên.';
 $Definition['Jumped to emoji category: '] = 'Đã chuyển đến danh mục emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Bỏ qua danh sách emoji, chuyển đến danh mục emoji.';
 $Definition['Jump to a specific page'] = 'Chuyển đến một trang cụ thể';
@@ -943,6 +939,7 @@ $Definition['Keep User Content'] = 'Giữ lại nội dung của thành viên';
 
 $Definition['Label'] = 'Nhãn';
 $Definition['Languages'] = 'Ngôn ngữ';
+$Definition['Large'] = 'Lớn';
 $Definition['Last Active'] = 'Lần cuối';
 $Definition['Last Commented'] = 'Bình luận Gần nhất';
 $Definition['Last IP'] = 'IP';
@@ -2084,111 +2081,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Bạn s
 $Definition['You wrote:'] = 'Bạn đã viết là:';
 $Definition['yyyy-mm-dd'] = 'năm-tháng-ngày';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Nóng";
-$Definition["Most Helpful"] = "Hữu ích nhất";
-$Definition["Recently Active"] = "Mới hoạt động";
-$Definition["Oldest Members"] = "Thành viên lớn tuổi nhất";
-$Definition["Newest Members"] = "Thành viên mới nhất";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Trình Soạn thảo Rich Text.';
-$Definition['richEditor.description.paragraphMenu'] = 'Để chỉnh sửa kiểu đoạn văn, nhấn tab để vào menu đoạn văn. Từ đó bạn sẽ có thể chọn một kiểu. Không có kiểu mặc định cho đoạn văn.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Menu định dạng nội tuyến sẽ hiển thị khi bạn chọn văn bản. Nhấn tab để vào menu đó.';
-$Definition['richEditor.description.embed'] = 'Một số phần tử, chẳng hạn như liên kết nhúng giàu tính chất, hình ảnh, chỉ báo đang tải và thông báo lỗi có thể được chèn vào trình biên tập. Bạn có thể điều hướng những phần tử này bằng cách sử dụng các phím mũi tên bên trong trình biên tập và xóa chúng bằng phím xóa hoặc phím xóa lùi.';
-$Definition['richEditor.externalEmbed.description'] = 'Đây là một thẻ nhúng. Có thể xóa thẻ này bằng phím "delete" ("xóa") hoặc phím cách. Nhấn tab để vào xem các lựa chọn thẻ nhúng.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Sử dụng phím tắt trên bàn phím là "page up" và "page down" để chuyển qua lại các danh mục có sẵn khi menu được mở.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Menu Định dạng Cấp độ Nội dòng';
-$Definition['Format as Bold'] = 'Định dạng kiểu Chữ đậm';
-$Definition['Bold'] = 'Đậm';
-$Definition['Format as Italic'] = 'Định dạng kiểu Chữ nghiêng';
-$Definition['Italic'] = 'In nghiêng';
-$Definition['Format as Strikethrough'] = 'Định dạng kiểu Gạch ngang chữ';
-$Definition['Strikethrough'] = 'Gạch ngang';
-$Definition['Format as Inline Code'] = 'Định dạng kiểu Mã Nội dòng';
-$Definition['Paragraph Code Block'] = 'Khối Mã';
-$Definition['Parent'] = 'Cha';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Đoạn (Xóa kiểu đoạn rồi đặt thành đoạn thuần túy)';
-$Definition['Code Block'] = 'Khối Mã';
-$Definition['Format as Link'] = 'Định dạng kiểu Liên kết';
-$Definition['Link'] = 'Liên kết';
-$Definition['Insert Url'] = 'Chèn Url';
-$Definition['Paste or type a link…'] = 'Dán hoặc nhập một liên kết...';
-$Definition['Close'] = 'Khóa';
-$Definition['Line Level Formatting Menu'] = 'Menu Định dạng Cấp độ Dòng';
-$Definition['Paragraph'] = 'Đoạn văn';
-$Definition['Format as Paragraph'] = 'Định dạng kiểu Đoạn văn';
-$Definition['Subtitle'] = 'Phụ đề';
-$Definition['Format as Title'] = 'Định dạng kiểu Tiêu đề';
-$Definition['Sub Subtitle'] = 'Phụ đề Phụ';
-$Definition['Format as Subtitle'] = 'Định dạng kiểu Phụ đề';
-$Definition['Quote'] = 'Trích dẫn';
-$Definition['Format as blockquote'] = 'Định dạng kiểu đoạn trích dẫn';
-$Definition['Format as code block'] = 'Định dạng kiểu khối mã';
-$Definition['Spoiler'] = 'Nói trước';
-$Definition['Format as spoiler'] = 'Định dạng kiểu spoiler';
-$Definition['Inline Menu Available'] = 'Có sẵn Menu Nội tuyến';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emoji';
-$Definition['Insert an emoji in your message.'] = 'Chèn emoji vào tin nhắn của bạn.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Bỏ qua danh sách emoji, chuyển đến danh mục emoji.';
-$Definition['Emoji Categories'] = 'Danh mục Emoji';
-$Definition['Jump to emoji category: %s'] = 'Chuyển đến thể loại emoji: %s';
-$Definition['In emoji category: %s'] = 'Trong thể loại emoji: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smiley & Con người';
-$Definition['Animals & Nature'] = 'Động vật & Thiên nhiên';
-$Definition['Food & Drink'] = 'Đồ ăn & Thức uống';
-$Definition['Travel & Places'] = 'Du lịch & Địa điểm';
-$Definition['Activities'] = 'Hoạt động';
-$Definition['Objects'] = 'Đối tượng';
-$Definition['Symbols'] = 'Ký hiệu';
-$Definition['Flags'] = 'Cờ';
-
-// Media Insertion
-$Definition['Image'] = 'Ảnh';
-$Definition['Insert Media'] = 'Chèn Media';
-$Definition['Paste the URL of the media you want.'] = 'Dán URL của media mà bạn muốn.';
-$Definition['Embed'] = 'Nhúng';
-$Definition['Error'] = 'Lỗi';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Bật/tắt Trích dẫn';
-$Definition['Spoiler Warning'] = 'Cảnh báo Spoiler';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Phao trái';
-$Definition['Float left'] = 'Phao trái';
-$Definition['Centered'] = 'Căn giữa';
-$Definition['Float Right'] = 'Phao bên phải';
-$Definition['Float right'] = 'Phao bên phải';
-$Definition['Small'] = 'Bé nhỏ';
-$Definition['Medium'] = 'Vừa phải';
-$Definition['Large'] = 'Lớn';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Trình giữ chỗ';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s cho thảo luận: "%s"';
-$Definition['%s for category: "%s"'] = '%s cho danh mục: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s bình luận của người dùng: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Người dùng "%s" đã bắt đầu thảo luận về "%s" vào ngày %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Bình luận gần đây nhất vào ngày %s, trong thảo luận về "%s", của người dùng "%s"';
-$Definition['%s for category: "%s"'] = '%s cho danh mục: "%s"';
-$Definition['Category: "%s"'] = 'Danh mục: "%s"';
-$Definition['User: "%s"'] = 'Người dùng: "%s"';
-$Definition['Group: "%s"'] = 'Nhóm: "%s"';
-$Definition['Global Navigation'] = 'Điều hướng Toàn cầu';
-$Definition['Skip to content'] = 'Chuyển đến nội dung';
-
-// KB Articles
-$Definition["Read More"] = "Đọc thêm";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} đã yêu cầu tham gia {Group}.';

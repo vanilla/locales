@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s napísal na %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s prijal %2$s žiadosť o členstvo.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s vytvoril(a) účet pre %1$s.';
 $Definition['%s (Current)'] = '%s (Aktuálne)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Vytvorenie účtu na fóre';
+$Definition['%s activities'] = '%s aktivít';
+$Definition['%s activity'] = '%s aktivita';
 $Definition['%s Agrees'] = '%s Súhlasí';
 $Definition['%s and %s others'] = '%s a %s ďalší';
 $Definition['%s and you'] = '%s a ty';
@@ -902,7 +902,6 @@ $Definition['I remember now!'] = 'Spomínam si teraz!';
 $Definition['Italic'] = 'Kurzíva';
 $Definition['Item'] = 'Položka';
 $Definition['item'] = 'položka';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Zdá sa, že ste tu nový. Ak chcete začať, prihláste sa alebo sa zaregistrujte.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Vyzerá to, že ste tu nový. Ak sa chcete zapojiť, kliknite na jedno z týchto tlačidiel!';
 
 $Definition['Jail'] = 'Väzenie';
@@ -915,9 +914,6 @@ $Definition['Joined %s'] = 'Pripojil %s';
 $Definition['Join this Community Now'] = 'Pripojte sa k tejto Komunite';
 $Definition['Join this Group'] = 'Pripojte sa k tejto skupine';
 $Definition['Join this group to view its content.'] = 'Pripoj sa k tejto skupine pre zobrazenie jej obsahu.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Preskoč zo zoznamu emoji do kategórií emoji.';
-$Definition['Jump to a specific page'] = 'Prejsť na konkrétnu stránku';
-$Definition['Jump to first tracked post.'] = 'Prejsť na prvý sledovaný príspevok.';
 $Definition['Jumped to emoji category: '] = 'Prejsť do kategórie emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Preskoč zo zoznamu emoji do kategórií emoji.';
 $Definition['Jump to a specific page'] = 'Prejsť na konkrétnu stránku';
@@ -933,6 +929,7 @@ $Definition['Keep User Content'] = 'Udržať používateľa obsah';
 
 $Definition['Label'] = 'Štítok';
 $Definition['Languages'] = 'Jazyky';
+$Definition['Large'] = 'Veľký';
 $Definition['Last Active'] = 'Naposledy aktívny';
 $Definition['Last Commented'] = 'Posledne komentované';
 $Definition['Last IP'] = 'Posledná IP';
@@ -2066,112 +2063,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Po prij
 $Definition['You wrote:'] = 'Vy ste napísali:';
 $Definition['yyyy-mm-dd'] = 'rrrr-mm-dd';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Horúce";
-$Definition["Most Helpful"] = "Najužitočnejšie";
-$Definition["Recently Active"] = "Nedávno aktívny";
-$Definition["Oldest Members"] = "Najstarší členovia";
-$Definition["Newest Members"] = "Najnovší členovia";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Rich Text Editor.';
-$Definition['richEditor.description.paragraphMenu'] = 'Ak chceš upraviť štýl odseku, klikni na tabulátor a vojdeš do ponuky odseku. Odtiaľ si budeš môcť vybrať jeden štýl. Odsek nemá predvolený štýl.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Keď vyberieš text, zobrazí sa inline formátovaná  ponuka. Kliknutím na tabulátor vojdeš do tejto ponuky.';
-$Definition['richEditor.description.embed'] = 'Niektoré prvky, ako napríklad rôzne vložené odkazy, obrázky, indikátory načítania alebo chybové hlásenia, sa môžu vložiť do editora. Môžete sa k nim dostať pomocou klávesov so šípkami v rámci editora a vymazať ich pomocou klávesu Odstrániť alebo Backspace.';
-$Definition['richEditor.externalEmbed.description'] = 'Toto je vložený prvok. Môžete ho odstrániť pomocou tlačidla Delete alebo Backspace. Stlačením tlačidla Tab vstúpite do možností vloženia.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Keď sa ponuka otvorí, používaj klávesnicové skratky  "page up" a "page down" na prechádzanie cez dostupné kategórie.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Ponuka formátovania inline úrovne';
-$Definition['Format as Bold'] = 'Formátovat ako tučné';
-$Definition['Bold'] = 'Tučné';
-$Definition['Format as Italic'] = 'Formátovať ako kurzívu';
-$Definition['Italic'] = 'Kurzíva';
-$Definition['Format as Strikethrough'] = 'Formátovať ako podčiarknuté';
-$Definition['Strikethrough'] = 'Prečiarknuť';
-$Definition['Format as Inline Code'] = 'Formátovať ako inline code';
-$Definition['Paragraph Code Block'] = 'Blok kódu';
-$Definition['Parent'] = 'Rodič';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Odsek (Odstráni štýl odseku a zmení ho na jednoduchý odsek.)';
-$Definition['Code Block'] = 'Blok kódu';
-$Definition['Format as Link'] = 'Formátovať ako odkaz';
-$Definition['Link'] = 'Link';
-$Definition['Insert Url'] = 'Vložiť url';
-$Definition['Paste or type a link…'] = 'Vlož alebo napíš link...';
-$Definition['Close'] = 'Zavrieť';
-$Definition['Line Level Formatting Menu'] = 'Ponuka formátovania úrovne riadku';
-$Definition['Paragraph'] = 'Paragraf';
-$Definition['Format as Paragraph'] = 'Formátovať ako odsek';
-$Definition['Subtitle'] = 'Podnadpis';
-$Definition['Format as Title'] = 'Formátovať ako nadpis';
-$Definition['Sub Subtitle'] = 'Pod podnadpis';
-$Definition['Format as Subtitle'] = 'Formátovať ako podnadpis';
-$Definition['Quote'] = 'Citácia';
-$Definition['Format as blockquote'] = 'Formátovať ako blokovú citáciu';
-$Definition['Format as code block'] = 'Formátovať ako blok kódu';
-$Definition['Spoiler'] = 'Spojler';
-$Definition['Format as spoiler'] = 'Formátovať ako spojler';
-$Definition['Inline Menu Available'] = 'Inline menu k dispozícii';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emoji';
-$Definition['Insert an emoji in your message.'] = 'Vložte do správy emoji.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Preskoč zo zoznamu emoji do kategórií emoji.';
-$Definition['Emoji Categories'] = 'Kategórie emojis';
-$Definition['Jump to emoji category: %s'] = 'Prejsť na kategóriu emoji: %s';
-$Definition['In emoji category: %s'] = 'V kategórii emoji: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smajlíci a ľudia';
-$Definition['Animals & Nature'] = 'Zvieratá a príroda';
-$Definition['Food & Drink'] = 'Jedlá a nápoje';
-$Definition['Travel & Places'] = 'Cestovanie a miesta';
-$Definition['Activities'] = 'Aktivity';
-$Definition['Objects'] = 'Predmety';
-$Definition['Symbols'] = 'Symboly';
-$Definition['Flags'] = 'Vlajky';
-
-// Media Insertion
-$Definition['Image'] = 'Obrázok';
-$Definition['Insert Media'] = 'Vložiť médiá';
-$Definition['Paste the URL of the media you want.'] = 'Vlož URL adresu média, ktoré si vybral.
-';
-$Definition['Embed'] = 'Vložiť';
-$Definition['Error'] = 'Chyba';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Prepnúť úvodzovky';
-$Definition['Spoiler Warning'] = 'Upozornenie na spojler';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Plavák vľavo';
-$Definition['Float left'] = 'Plavák vľavo';
-$Definition['Centered'] = 'Vycentrované';
-$Definition['Float Right'] = 'Plávať vpravo';
-$Definition['Float right'] = 'Plávať vpravo';
-$Definition['Small'] = 'Malé';
-$Definition['Medium'] = 'Stredné';
-$Definition['Large'] = 'Veľký';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Zástupný symbol';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s pre diskusiu: "%s"';
-$Definition['%s for category: "%s"'] = '%s pre kategóriu: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s komentár od používateľa: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Používateľ "%s" začal diskusiu "%s" dňa %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Najnovší komentár bol pridaný dňa %s v diskusii "%s" používateľom "%s"';
-$Definition['%s for category: "%s"'] = '%s pre kategóriu: "%s"';
-$Definition['Category: "%s"'] = 'Kategória: "%s"';
-$Definition['User: "%s"'] = 'Používateľ: "%s"';
-$Definition['Group: "%s"'] = 'Skupina: "%s"';
-$Definition['Global Navigation'] = 'Globálna navigácia';
-$Definition['Skip to content'] = 'Preskočiť na obsah';
-
-// KB Articles
-$Definition["Read More"] = "Čítaj viac";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} požiadal o pripojenie k skupine {Group}.';

@@ -279,6 +279,7 @@ $Definition['Disable Content Flagging'] = 'Onemogoči označevanje vsebine';
 $Definition['Disabled'] = 'Onemogočeno';
 $Definition['Disabled %1$s'] = 'Onemogočen %1$s';
 $Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'Onemogočeno: žep <b>ne</b> bo prikazan.';
+$Definition['Disable Forum Pages'] = 'Onemogoči forumske strani';
 $Definition['Disable Signatures'] = 'Onemogoči podpise';
 $Definition['Disable Tagging'] = 'Onemogoči označevanje';
 $Definition['Discussion & Comment Editing'] = 'Urejanje razprav in komentarjev';
@@ -532,6 +533,7 @@ $Definition['Mobile Banner Logo'] = 'Logotip mobilne pasice';
 $Definition['Mobile Format'] = 'Mobilni format';
 $Definition['MobileInputFormatter.Notes1'] = 'Določite obliko urejanja za mobilne naprave.';
 $Definition['MobileInputFormatter.Notes2'] = 'Če bi morale imeti mobilne naprave enako izkušnjo, navedite isto kot zgoraj. Če uporabniki poročajo o težavah z mobilnim urejanjem, je to dobra možnost za spremembo.';
+$Definition['Mobile Logo'] = 'Mobilni logotip';
 $Definition['Mobile Themes'] = 'Mobilne teme';
 $Definition['Moderators have permission to edit most content.'] = 'Moderatorji imajo dovoljenje za urejanje večine vsebine.';
 $Definition['Modern Layout'] = 'Moderna postavitev';
@@ -922,45 +924,3 @@ $Definition['Your Email'] = 'Vaš e-poštni naslov';
 $Definition['Your inbox is empty.'] = 'Vaš nabiralnik je prazen.';
 $Definition['Your invitations were sent successfully.'] = 'Vaša povabila so bila uspešno poslana.';
 $Definition['Your Password'] = 'Vaše geslo';
-$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'Zapuščate urejevalnik tem, ne da bi shranili spremembe. Pred izhodom se prepričajte, da so vaše posodobitve shranjene.';
-
-$Definition["Mobile Logo"] = "Mobilni logotip";
-$Definition["Banner Image"] = "Slika pasice";
-$Definition["Disable Forum Pages"] = "Onemogoči forumske strani";
-
-// Posting settings
-$Definition['InputFormatter.Notes1'] = 'Izberite privzeto obliko urejevalnika za objave v skupnosti.';
-$Definition['InputFormatter.Notes2'] = 'Urejevalnik bo pri urejanju starih objav samodejno zaznal obliko zapisa in naložil njihova prvotna pravila oblikovanja. Razen te izjeme bo imela prednost spodaj izbrana oblika objave.';
-$Definition['Formatting Posts'] = 'Oblikovanje objav';
-$Definition['MobileInputFormatter.Notes1'] = 'Določite obliko urejanja za mobilne naprave.';
-$Definition['MobileInputFormatter.Notes2'] = 'Če bi morale imeti mobilne naprave enako izkušnjo, navedite isto kot zgoraj. Če uporabniki poročajo o težavah z mobilnim urejanjem, je to dobra možnost za spremembo.';
-$Definition['Note:'] = 'Opomba:';
-$Definition['Post Format'] = 'Oblika objave';
-$Definition['Posting'] = 'Objava';
-$Definition['Reinterpret All Posts As %s'] = 'Ponovno interpretiraj vse objave kot %s';
-$Definition['Tell the editor to reinterpret all old posts as %s.'] = 'Povejte uredniku, naj vse stare objave na novo interpretira kot %s.';
-$Definition['This setting will only take effect if %s was chosen as the Post Format above.'] = 'Ta nastavitev bo veljala le, če je bil %s izbran kot oblika objave zgoraj.';
-$Definition['This option is to normalize the editor format'] = 'Ta možnost je namenjena normalizaciji formata urejevalnika; če se naložijo starejše objave, urejene z drugim formatom, kot je markdown ali BBCode, bo ta možnost prisilila %s.';
-
-$Definition['Mobile Format'] = 'Mobilni format';
-$Definition['Enable Rich Quotes'] = 'Omogoči obogatene ponudbe';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Uporabite naslednjo možnost, da omogočite narekovaje za Rich Editor. To bo veljalo samo, če je privzeti formater "Rich".';
-
-// Catalogue Display Plugin/Formats
-$Definition['Default placeholder'] = 'Privzeti nadomestni znak';
-$Definition['Upload a placeholder image for catalogue post.'] = 'Naložite nadomestno sliko, ki bo prikazana, ko uporabniki v svoji objavi nimajo slike.';
-$Definition['Additional classes'] = 'Dodatni razredi';
-$Definition['Apply additional classes on catalogue image.'] = 'Uporabite dodatne razrede na sliki kataloga. Uporabite prostor, da ločite vsak razred.';
-$Definition['Category only'] = 'Samo kategorija';
-$Definition['Display on category page only.'] = 'Prikaz samo na strani kategorije. To ne bo vplivalo na seznam nedavnih razprav.';
-$Definition['Use Masonry display'] = 'Uporabite zidarski zaslon';
-$Definition['Show an uploaded image on the Category page.'] = 'Vsaka razprava bo prikazala naloženo sliko na strani s kategorijo. To velja le za kategorije z »Razprave« kot »Prikaži kot«.';
-$Definition['Upload Placeholder Image'] = 'Naložite nadomestno sliko';
-
-
-
-
-
-
-
-

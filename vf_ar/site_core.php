@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s كتب على %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s وافق على %2$s تطبيق العضوية.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s انشأ حسابا لصالح %1$s.';
 $Definition['%s (Current)'] = '%s (الحالي)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] إنشاء حساب المنتدى';
+$Definition['%s activities'] = 'أنشطة %s';
+$Definition['%s activity'] = 'نشاط %s';
 $Definition['%s Agrees'] = '%s موافق عليه';
 $Definition['%s and %s others'] = '%s و %s آخرون';
 $Definition['%s and you'] = '%s و أنت';
@@ -909,7 +909,6 @@ $Definition['I remember now!'] = 'أتذكرها الٱن !';
 $Definition['Italic'] = 'مائل';
 $Definition['Item'] = 'بند';
 $Definition['item'] = 'بند';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'يبدو أنك جديد هنا. تسجيل الدخول أو التسجيل للبدء.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'يبدو أنك كنت جديدا هنا. إذا كنت ترغب في الانخراط، انقر فوق أحد هذه الأزرار!';
 
 $Definition['Jail'] = 'سجن';
@@ -922,9 +921,6 @@ $Definition['Joined %s'] = 'انضم %s';
 $Definition['Join this Community Now'] = 'انضم إلى هذه الجماعة الآن';
 $Definition['Join this Group'] = 'انضم لهذه المجموعة';
 $Definition['Join this group to view its content.'] = 'انضم للمجموعة لمشاهدة محتوياتها.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'التنقل من قائمة الرموز التعبيرية السابقة، إلى فئات الرموز التعبيرية.';
-$Definition['Jump to a specific page'] = 'القفز إلى صفحة محددة';
-$Definition['Jump to first tracked post.'] = 'القفز إلى أول منشور يتم تتبعه.';
 $Definition['Jumped to emoji category: '] = 'انْتَقَلَ إلى فئة الرموز التعبيرية:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'التنقل من قائمة الرموز التعبيرية السابقة، إلى فئات الرموز التعبيرية.';
 $Definition['Jump to a specific page'] = 'القفز إلى صفحة محددة';
@@ -941,6 +937,7 @@ $Definition['Kilobyte'] = 'كيلوبايت';
 
 $Definition['Label'] = 'ملصق';
 $Definition['Languages'] = 'اللغات';
+$Definition['Large'] = 'كبير';
 $Definition['Last Active'] = 'النشاط';
 $Definition['Last Commented'] = 'أحدث التعليقات';
 $Definition['Last IP'] = 'آخر آي بي IP';
@@ -2082,117 +2079,4 @@ $Definition['You wrote:'] = 'أنت كتبت:';
 
 $Definition['Zip'] = 'ملف مضغوط Zip';
 
-$Definition["Hot"] = "حار";
-$Definition["Most Helpful"] = "مفيد جدا";
-$Definition["Recently Active"] = "نشط مؤخرًا";
-$Definition["Oldest Members"] = "أقدم الأعضاء";
-$Definition["Newest Members"] = "الاعضاء الجدد";
-
-$Definition["Hot"] = "حار";
-$Definition["Most Helpful"] = "مفيد جدا";
-$Definition["Recently Active"] = "نشط مؤخرًا";
-$Definition["Oldest Members"] = "أقدم الأعضاء";
-$Definition["Newest Members"] = "الاعضاء الجدد";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'محرر النصوص المُنَسَقة.';
-$Definition['richEditor.description.paragraphMenu'] = 'لتحرير نمط أحد الفقرات، انقر فوق علامة التبويب للوصول إلى قائمة الفقرة. من هناك ستتمكن من اختيار نمط واحد. لا يوجد شيء افتراضي للفقرة.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'ستظهر قائمة تنسيق مضمنة عند تحديد النص. انقر على علامة التبويب للوصول إلى تلك القائمة.
-';
-$Definition['richEditor.description.embed'] = 'قد يتم إدراج بعض العناصر إلى المحرر ،  كإدراج الروابط والصور ومؤشرات التحميل ورسائل الخطأ. يمكنك الانتقال إلى هذه العناصر باستخدام مفاتيح الأسهم الموجودة داخل المحرر وحذفها باستخدام مفتاح الحذف أو مفتاح مسافة للخلف.';
-$Definition['richEditor.externalEmbed.description'] = 'هذا تضمين. يمكن حذفه باستخدام مفتاح الحذف أو مفتاح الحركة الخلفية. اضغط على علامة التبويب للدخول إلى خيارات التضمين.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'استخدم اختصارات لوحة المفاتيح "صفحة لأعلى" و "صفحة لأسفل" للتنقل بين الفئات المتاحة عندما تكون القائمة مفتوحة.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'قائمة تنسيق المستوى المضمن';
-$Definition['Format as Bold'] = 'صيغة الخط العريض';
-$Definition['Bold'] = 'غامق';
-$Definition['Format as Italic'] = 'صيغة الخط المائل ';
-$Definition['Italic'] = 'مائل';
-$Definition['Format as Strikethrough'] = 'صيغة توسيط';
-$Definition['Strikethrough'] = 'شطب بخط';
-$Definition['Format as Inline Code'] = 'تنسيق كـ رمز مضمّن';
-$Definition['Paragraph Code Block'] = 'مجموعة أكواد';
-$Definition['Parent'] = 'الأصل
-';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'فقرة (إزالة نمط الفقرة وضبطها لتكون فقرة عادية)';
-$Definition['Code Block'] = 'مجموعة أكواد';
-$Definition['Format as Link'] = 'صيغة رابط';
-$Definition['Link'] = 'رابط';
-$Definition['Insert Url'] = 'أدخل عنوان Url';
-$Definition['Paste or type a link…'] = 'ألصِق أو اكتُب رابطاً ...';
-$Definition['Close'] = 'إغلاق';
-$Definition['Line Level Formatting Menu'] = 'قائمة تنسيق مستوى الخط';
-$Definition['Paragraph'] = 'فقرة';
-$Definition['Format as Paragraph'] = 'صيغة الفقرة';
-$Definition['Subtitle'] = 'عنوان فرعي';
-$Definition['Format as Title'] = 'صيغة عنوان';
-$Definition['Sub Subtitle'] = 'عنوان فرعي متفرع';
-$Definition['Format as Subtitle'] = 'صيغة عنوان فرعي';
-$Definition['Quote'] = 'إقتباس';
-$Definition['Format as blockquote'] = 'صيغة اقتباس فقرة';
-$Definition['Format as code block'] = 'صيغة رمز معترض';
-$Definition['Spoiler'] = 'كشف';
-$Definition['Format as spoiler'] = 'صيغة تنبيه المفسد';
-$Definition['Inline Menu Available'] = 'قائمة مضمنة متاحة';
-
-// Emoji Picker
-$Definition['Emoji'] = 'رموز تعبيرية';
-$Definition['Emojis'] = 'رموز تعبيرية';
-$Definition['Insert an emoji in your message.'] = 'أدرج رمزًا تعبيريًا في رسالتك.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'التنقل من قائمة الرموز التعبيرية السابقة، إلى فئات الرموز التعبيرية.';
-$Definition['Emoji Categories'] = 'فئات الرموز التعبيرية';
-$Definition['Jump to emoji category: %s'] = 'انتقل إلى فئة الرموز التعبيرية: %s';
-$Definition['In emoji category: %s'] = 'في فئة الرموز التعبيرية: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'وجوه ضاحكة و ناس';
-$Definition['Animals & Nature'] = 'حيوانات و طبيعة';
-$Definition['Food & Drink'] = 'طعام و شراب';
-$Definition['Travel & Places'] = 'ترحال و أماكن';
-$Definition['Activities'] = 'أنشطة';
-$Definition['Objects'] = 'أشياء';
-$Definition['Symbols'] = 'رموز';
-$Definition['Flags'] = 'أعلام';
-
-// Media Insertion
-$Definition['Image'] = 'صورة';
-$Definition['Insert Media'] = 'إدخال ميديا';
-$Definition['Paste the URL of the media you want.'] = 'ألصِق الرابط الخاص بالوسائط التي تريدها.';
-$Definition['Embed'] = 'تضمين';
-$Definition['Error'] = 'خطأ';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'تبديل اقتباس';
-$Definition['Spoiler Warning'] = 'تحذيرات المفسد';
-
-// Image Size & placement
-$Definition['Float Left'] = 'تعويم: اليسار';
-$Definition['Float left'] = 'تعويم: اليسار';
-$Definition['Centered'] = 'توسيط';
-$Definition['Float Right'] = 'تعويم لليمين';
-$Definition['Float right'] = 'تعويم لليمين';
-$Definition['Small'] = 'صغير';
-$Definition['Medium'] = 'وسط';
-$Definition['Large'] = 'كبير';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'عنصر نائب';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s للمناقشة: "%s"';
-$Definition['%s for category: "%s"'] = '%s للفئة: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s تعليق بواسطة المستخدم: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'بدأ المستخدم "%s" مناقشة "%s" بتاريخ %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'أحدث تعليق بتاريخ %s، في مناقشة %s، بواسطة المستخدم "%s"';
-$Definition['%s for category: "%s"'] = '%s للفئة: "%s"';
-$Definition['Category: "%s"'] = 'الفئة: "%s"';
-$Definition['User: "%s"'] = 'المستخدم: "%s"';
-$Definition['Group: "%s"'] = 'المجموعة: "%s"';
-$Definition['Global Navigation'] = 'الملاحة العالمية';
-$Definition['Skip to content'] = 'تخطى الى المحتوى';
-
-// KB Articles
-$Definition["Read More"] = "قراءة المزيد";
+$Definition['{Username} has requested to join {Group}.'] = 'طلب {Username} الانضمام إلى {Group}.';

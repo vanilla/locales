@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s menulis di %4$s %5$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s menyetujui aplikasi keanggotaan %2$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s telah membuat sebuah akun %1$s.';
 $Definition['%s (Current)'] = '%s (Sekarang)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Pembuatan Akun Forum';
+$Definition['%s activities'] = '%s aktivitas';
+$Definition['%s activity'] = '%s aktivitas';
 $Definition['%s Agrees'] = '%s Setuju';
 $Definition['%s and %s others'] = '%s dan %s lainnya';
 $Definition['%s and you'] = '%s dan anda';
@@ -899,8 +899,6 @@ $Definition['IP Address'] = 'Alamat IP';
 $Definition['I remember now!'] = 'Saya ingat sekarang!';
 $Definition['Italic'] = 'Cetak miring';
 $Definition['Item'] = 'Item Cekal';
-$Definition['item'] = 'item';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Sepertinya Anda baru di sini. Masuk atau daftar untuk memulai.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Tampaknya anda baru di sini. Bila anda ingin terlibat, klik salah satu tombol berikut!';
 
 $Definition['Jail'] = 'Penjara';
@@ -913,9 +911,6 @@ $Definition['Joined %s'] = 'Bergabung %s';
 $Definition['Join this Community Now'] = 'Bergabunglah dengan Komunitas ini Sekarang';
 $Definition['Join this Group'] = 'Bergabung dengan Grup ini';
 $Definition['Join this group to view its content.'] = 'Bergabunglah dengan grup ini untuk melihat kontennya.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Lewati daftar emoji, ke kategori emoji.';
-$Definition['Jump to a specific page'] = 'Lompat ke halaman tertentu';
-$Definition['Jump to first tracked post.'] = 'Lompat ke kiriman terlacak pertama';
 $Definition['Jumped to emoji category: '] = 'Lompat ke kategori emoji:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Lewati daftar emoji, ke kategori emoji.';
 $Definition['Jump to a specific page'] = 'Lompat ke halaman tertentu';
@@ -929,8 +924,8 @@ $Definition['Just you!'] = 'Hanya anda!';
 $Definition['Keep me signed in'] = 'Biarkan saya tetap masuk';
 $Definition['Keep User Content'] = 'Pertahankan Konten Pengguna';
 
-$Definition['Label'] = 'Label';
 $Definition['Languages'] = 'Bahasa';
+$Definition['Large'] = 'Besar';
 $Definition['Last Active'] = 'Terakhir Aktif';
 $Definition['Last Commented'] = 'Terakhir Dikomentari';
 $Definition['Last IP'] = 'IP Terakhir';
@@ -2060,111 +2055,4 @@ $Definition['You were added to a conversation.'] = '{InsertUserID,user} menambah
 $Definition['You will receive a notification when you are accepted.'] = 'Anda akan menerima pemberitahuan saat Anda diterima.';
 $Definition['You wrote:'] = 'Anda menulis:';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Panas";
-$Definition["Most Helpful"] = "Paling Bermanfaat";
-$Definition["Recently Active"] = "Baru-baru ini Aktif";
-$Definition["Oldest Members"] = "Anggota Tertua";
-$Definition["Newest Members"] = "Anggota Terbaru";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Rich Text Editor.';
-$Definition['richEditor.description.paragraphMenu'] = 'Untuk mengubah gaya paragraf, tekan tab untuk ke menu paragraf, lalu pilih satu gaya. Paragraf default akan digunakan jika tidak ada pilihan.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'Menu format inline akan ditampilkan saat Anda memilih teks. Tekan tab untuk masuk ke menu tersebut.';
-$Definition['richEditor.description.embed'] = 'Beberapa elemen, seperti penyematan rich link, gambar, indikator memuat, dan pesan kesalahan, dapat disisipkan ke editor. Anda dapat beralih di antara elemen-elemen ini menggunakan tombol panah di dalam editor dan menghapusnya dengan tombol hapus atau backspace.';
-$Definition['richEditor.externalEmbed.description'] = 'Pusat bantuan yang disematkan ini bisa dihapus menggunakan tombol hapus atau tombol backspace. Tekan tab untuk masuk opsi penyematan.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Gunakan pintasan papan ketik "page up" dan "page down" untuk beralih di antara kategori yang tersedia saat membuka menu.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Menu Format Level Inline';
-$Definition['Format as Bold'] = 'Format sebagai Cetak Tebal';
-$Definition['Bold'] = 'Tebal';
-$Definition['Format as Italic'] = 'Format sebagai Cetak Miring';
-$Definition['Italic'] = 'Cetak miring';
-$Definition['Format as Strikethrough'] = 'Format sebagai Huruf Tercoret';
-$Definition['Strikethrough'] = 'Garis coretan';
-$Definition['Format as Inline Code'] = 'Format sebagai Kode Inline';
-$Definition['Paragraph Code Block'] = 'Blok Kode';
-$Definition['Parent'] = 'Induk';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paragraf (Menghapus gaya paragraf dan menetapkan ke paragraf biasa)';
-$Definition['Code Block'] = 'Blok Kode';
-$Definition['Format as Link'] = 'Format sebagai Tautan';
-$Definition['Link'] = 'Tautan';
-$Definition['Insert Url'] = 'Sisipkan Url';
-$Definition['Paste or type a link…'] = 'Rekatkan atau ketikkan tautan...';
-$Definition['Close'] = 'Tutup';
-$Definition['Line Level Formatting Menu'] = 'Menu Format Level Baris';
-$Definition['Paragraph'] = 'Paragraf';
-$Definition['Format as Paragraph'] = 'Format sebagai Paragraf';
-$Definition['Subtitle'] = 'Subjudul';
-$Definition['Format as Title'] = 'Format sebagai Judul';
-$Definition['Sub Subtitle'] = 'Sub Subjudul';
-$Definition['Format as Subtitle'] = 'Format sebagai Subjudul';
-$Definition['Quote'] = 'Kutipan';
-$Definition['Format as blockquote'] = 'Format sebagai blok kutipan';
-$Definition['Format as code block'] = 'Format sebagai blok kode';
-$Definition['Spoiler'] = 'Pengganggu';
-$Definition['Format as spoiler'] = 'Format sebagai beberan';
-$Definition['Inline Menu Available'] = 'Menu Inline Tersedia';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Emoji';
-$Definition['Insert an emoji in your message.'] = 'Sisipkan emoji dalam pesan Anda.';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Lewati daftar emoji, ke kategori emoji.';
-$Definition['Emoji Categories'] = 'Kategori Emoji';
-$Definition['Jump to emoji category: %s'] = 'Lompat ke kategori emoji: %s';
-$Definition['In emoji category: %s'] = 'Dalam kategori emoji: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smiley & Orang';
-$Definition['Animals & Nature'] = 'Hewan & Alam';
-$Definition['Food & Drink'] = 'Makanan & Minuman';
-$Definition['Travel & Places'] = 'Wisata & Lokasi';
-$Definition['Activities'] = 'Aktivitas';
-$Definition['Objects'] = 'Objek';
-$Definition['Symbols'] = 'Simbol';
-$Definition['Flags'] = 'Bendera';
-
-// Media Insertion
-$Definition['Image'] = 'Gambar';
-$Definition['Insert Media'] = 'Sisipkan Media';
-$Definition['Paste the URL of the media you want.'] = 'Rekatkan URL media yang Anda inginkan.';
-$Definition['Embed'] = 'Disematkan';
-$Definition['Error'] = 'Galat';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Toggle Kutipan';
-$Definition['Spoiler Warning'] = 'Peringatan Beberan';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Mengambang Kiri';
-$Definition['Float left'] = 'Mengambang Kiri';
-$Definition['Centered'] = 'Terpusat';
-$Definition['Float Right'] = 'Mengambang Kanan';
-$Definition['Float right'] = 'Mengambang Kanan';
-$Definition['Small'] = 'Kecil';
-$Definition['Medium'] = 'Medium';
-$Definition['Large'] = 'Besar';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Placeholder';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s untuk diskusi: "%s"';
-$Definition['%s for category: "%s"'] = '%s for category: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s komentar dari pengguna: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Pengguna "%s" memulai diskusi "%s" di tanggal %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Komentar terkini di tanggal %s, dalam diskusi "%s", oleh pengguna "%s"';
-$Definition['%s for category: "%s"'] = '%s for category: "%s"';
-$Definition['Category: "%s"'] = 'Kategori: "%s"';
-$Definition['User: "%s"'] = 'Pengguna: "%s"';
-$Definition['Group: "%s"'] = 'Grup: "%s"';
-$Definition['Global Navigation'] = 'Navigasi Global';
-$Definition['Skip to content'] = 'Langsung ke konten';
-
-// KB Articles
-$Definition["Read More"] = "Baca selengkapnya";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} telah meminta untuk bergabung dengan {Group}.';

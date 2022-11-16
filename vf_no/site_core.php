@@ -19,8 +19,8 @@ $Definition['%1$s wrote on %4$s %5$s.'] = '%1$s skrev på %5$s %4$s.';
 $Definition['%3$s approved %2$s membership application.'] = '%3$s validerte medlemskap for %2$s.';
 $Definition['%3$s created an account for %1$s.'] = '%3$s laget konto for %1$s.';
 $Definition['%s (Current)'] = '%s (Nåværende)';
-$Definition['%s: %s'] = '%s: %s';
-$Definition['[%s] Forum Account Creation'] = '[%s] Oppretting av forumkonto';
+$Definition['%s activities'] = '%s aktiviteter';
+$Definition['%s activity'] = '%s aktivitet';
 $Definition['%s Agrees'] = '%s Er enig';
 $Definition['%s and %s others'] = '%s og %s andre';
 $Definition['%s and you'] = '%s og deg';
@@ -227,7 +227,6 @@ $Definition['Already Warned'] = 'Allerede advart';
 $Definition['Also banned for the following:'] = 'Også utestengt for følgende:';
 $Definition['Also delete this user\'s content.'] = 'Slett også denne brukerens innhold.';
 $Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Alternativ tekst hjelper brukere med tilgjengelighetsproblemer og forbedrer SEO.';
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'A message has been sent to your email address with password reset instructions.';
 $Definition['Analytics'] = 'Analyse';
 $Definition['An archived file or files'] = 'En arkivert fil eller filer';
 $Definition['Ancient Membership'] = 'Eldgammelt medlemsskap ';
@@ -878,7 +877,6 @@ $Definition['I remember now!'] = 'Nå husker jeg det!';
 $Definition['Italic'] = 'kursiv';
 $Definition['Item'] = 'Ban Item';
 $Definition['item'] = 'element';
-$definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Det ser ut som du er ny her. Logg på eller registrer deg for å komme i gang.';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'For å engasjere deg på denne siden, klikk på en av disse knappene:';
 
 $Definition['Jail'] = 'Fengsel';
@@ -891,9 +889,6 @@ $Definition['Joined %s'] = 'Ble med %s';
 $Definition['Join this Community Now'] = 'Bli med dette samfunnet nå';
 $Definition['Join this Group'] = 'Bli med i denne gruppen';
 $Definition['Join this group to view its content.'] = 'Bli med gruppen for å se innholdet i gruppen. ';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Hopp over emoji-liste, til emoji-kategorier';
-$Definition['Jump to a specific page'] = 'Gå til en bestemt side';
-$Definition['Jump to first tracked post.'] = 'Hopp til det første sporede innlegget.';
 $Definition['Jumped to emoji category: '] = 'Hoppet til emoji-kategori:';
 $Definition['Jump past emoji list, to emoji categories.'] = 'Hopp over emoji-liste, til emoji-kategorier';
 $Definition['Jump to a specific page'] = 'Gå til en bestemt side';
@@ -909,6 +904,7 @@ $Definition['Keep User Content'] = 'UserKeep';
 
 $Definition['Label'] = 'Merke';
 $Definition['Languages'] = 'Språk';
+$Definition['Large'] = 'Stor';
 $Definition['Last Active'] = 'Sist aktiv';
 $Definition['Last Commented'] = 'Sist kommentert';
 $Definition['Last IP'] = 'Siste IP adresse';
@@ -2018,111 +2014,4 @@ $Definition['You will receive a notification when you are accepted.'] = 'Du vil 
 $Definition['You wrote:'] = 'Du skrev:';
 $Definition['yyyy-mm-dd'] = 'åååå-mm-dd';
 
-$Definition["Zip"] = "Zip";
-
-$Definition["Hot"] = "Varmt";
-$Definition["Most Helpful"] = "Mest nyttig";
-$Definition["Recently Active"] = "Nylig aktiv";
-$Definition["Oldest Members"] = "Eldste medlemmer";
-$Definition["Newest Members"] = "Nyeste medlemmer";
-
-// Rich Editor
-
-// Long Descriptions
-$Definition['richEditor.description.title'] = 'Redigeringsprogram for rik tekst';
-$Definition['richEditor.description.paragraphMenu'] = 'Trykk tab for å komme til menyen for å redigere stilen i et avsnitt. Derfra kan du velge en stil. Velger du Nothing (Ingen) vil stilen i avsnittet settes til standard.'; // From there you will be able to pick one style. Nothing defaults to paragraph.
-$Definition['richEditor.description.inlineMenu'] = 'En meny for inline-formatering vil dukke opp når du markerer tekst. Tryk tab for å komme inn i den menyen.';
-$Definition['richEditor.description.embed'] = 'Noen elementer, som rike, innebygde lenker, bilder, lasteindikatorer, og feilmeldinger, kan legges inn med redigeringsverktøyet. Du kan navigere til disse med piltastene inne i redigeringsverktøyet, og slette dem med delete- eller backspace-knappen.';
-$Definition['richEditor.externalEmbed.description'] = 'Dette er en innebygd. Den kan slettes med delete-knappen eller backspace-knappen. Trykk tab for å åpne innebygd alternativer.';
-$Definition['richEditor.emoji.pagingInstructions'] = 'Bruk snarveiene "page up" og "page down" på tastaturet for å gå gjennom tilgjengelige kategorier når menyen er åpen.';
-
-// Formatting Menus
-$Definition['Inline Level Formatting Menu'] = 'Formateringsmeny for innebyggingsnivå';
-$Definition['Format as Bold'] = 'Formater som fet';
-$Definition['Bold'] = 'Uthevet';
-$Definition['Format as Italic'] = 'Formater som kursiv';
-$Definition['Italic'] = 'kursiv';
-$Definition['Format as Strikethrough'] = 'Formater med gjennomstreking';
-$Definition['Strikethrough'] = 'Gjennomstreking';
-$Definition['Format as Inline Code'] = 'Formater som innebygd kode';
-$Definition['Paragraph Code Block'] = 'Kodeblokk';
-$Definition['Parent'] = 'Forelder';
-$Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paragraf (Fjerner paragrafstil og setter til vanlig paragraf)';
-$Definition['Code Block'] = 'Kodeblokk';
-$Definition['Format as Link'] = 'Formater som lenke';
-$Definition['Link'] = 'Link';
-$Definition['Insert Url'] = 'Sett inn URL';
-$Definition['Paste or type a link…'] = 'Lim inn eller skriv inn en lenkeadresse...';
-$Definition['Close'] = 'Lukk';
-$Definition['Line Level Formatting Menu'] = 'Formateringsmeny for linjenivå';
-$Definition['Paragraph'] = 'Avsnitt';
-$Definition['Format as Paragraph'] = 'Formater som avsnitt';
-$Definition['Subtitle'] = 'Undertittel';
-$Definition['Format as Title'] = 'Formater som tittel';
-$Definition['Sub Subtitle'] = 'Under-undertittel';
-$Definition['Format as Subtitle'] = 'Formater som undertittel';
-$Definition['Quote'] = 'Sitat';
-$Definition['Format as blockquote'] = 'Formater som blokksitat';
-$Definition['Format as code block'] = 'Formater som kodesnutt';
-$Definition['Spoiler'] = 'Spoiler';
-$Definition['Format as spoiler'] = 'Formater som spoiler';
-$Definition['Inline Menu Available'] = 'Meny for Inline tilgjengelig';
-
-// Emoji Picker
-$Definition['Emoji'] = 'Emoji';
-$Definition['Emojis'] = 'Bildetegn';
-$Definition['Insert an emoji in your message.'] = 'Sett inn en emoji i meldingen din';
-$Definition['Jump past emoji list, to emoji categories.'] = 'Hopp over emoji-liste, til emoji-kategorier';
-$Definition['Emoji Categories'] = 'Emoji-kategorier';
-$Definition['Jump to emoji category: %s'] = 'Hopp til emoji-kategori: %s';
-$Definition['In emoji category: %s'] = 'I emoji-kategorien: %s';
-
-// Emoji Categories
-$Definition['Smileys & People'] = 'Smilefjes og personer';
-$Definition['Animals & Nature'] = 'Dyr og natur';
-$Definition['Food & Drink'] = 'Mat og drikke';
-$Definition['Travel & Places'] = 'Reise og steder';
-$Definition['Activities'] = 'Aktiviteter';
-$Definition['Objects'] = 'Objekter';
-$Definition['Symbols'] = 'Symboler';
-$Definition['Flags'] = 'Flagg';
-
-// Media Insertion
-$Definition['Image'] = 'Bilde';
-$Definition['Insert Media'] = 'Legg inn media';
-$Definition['Paste the URL of the media you want.'] = 'Lim inn URL for media du vil ha.';
-$Definition['Embed'] = 'Bygg inn';
-$Definition['Error'] = 'Feil';
-
-// Quotes/Formats
-$Definition['Toggle Quote'] = 'Vis/skjul sitat';
-$Definition['Spoiler Warning'] = 'Spoiler-advarsel';
-
-// Image Size & placement
-$Definition['Float Left'] = 'Flyte til venstre';
-$Definition['Float left'] = 'Flyte til venstre';
-$Definition['Centered'] = 'Sentrert';
-$Definition['Float Right'] = 'Flyte høyre';
-$Definition['Float right'] = 'Flyte høyre';
-$Definition['Small'] = 'Liten';
-$Definition['Medium'] = 'Medium';
-$Definition['Large'] = 'Stor';
-
-// Catalogue Display Plugin/Formats
-$Definition['Placeholder'] = 'Plassholder';
-
-// Accessibility
-$Definition['%s for discussion: "%s"'] = '%s for diskusjon: "%s"';
-$Definition['%s for category: "%s"'] = '%s for kategori: "%s"';
-$Definition['%s comment by user: "%s"'] = '%s kommentar av bruker: "%s"';
-$Definition['User "%s" started discussion "%s" on date %s'] = 'Bruker "%s" startet diskusjon "%s" på datoen %s';
-$Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Nyligste kommentar på dato %s, i diskusjon "%s", av bruker "%s"';
-$Definition['%s for category: "%s"'] = '%s for kategori: "%s"';
-$Definition['Category: "%s"'] = 'Kategori: "%s"';
-$Definition['User: "%s"'] = 'Bruker: "%s"';
-$Definition['Group: "%s"'] = 'Gruppe: "%s"';
-$Definition['Global Navigation'] = 'Global navigasjon';
-$Definition['Skip to content'] = 'Hopp til innholdet';
-
-// KB Articles
-$Definition["Read More"] = "Les mer";
+$Definition['{Username} has requested to join {Group}.'] = '{Username} har bedt om å bli med i {Group}.';
