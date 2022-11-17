@@ -956,3 +956,5 @@ $Definition['Upload Placeholder Image'] = 'Upload Placeholder Image';
 // Enable / Disable Profile Fields
 $Definition['There was an error saving your changes. Please try again.'] = 'There was an error saving your changes. Please try again.';
 $Definition["<0/> has been <1/>"] = "<0/> has been <1/>";
+$Definition["enabled"] = "enabled";
+$Definition["disabled"] = "disabled";
