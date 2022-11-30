@@ -1961,6 +1961,7 @@ $Definition['You are not allowed to warn a user with higher permissions than you
 $Definition['You are not allowed to warn a user with the same permission level as you.'] =
     'You are not allowed to warn a user with the same permission level as you.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'You are now leaving %1$s. Click the link to continue to %2$s.';
+$Definition['The link you used is leaving the %1$s domain and could not be verified.'] = 'The link you used is leaving the %1$s domain and could not be verified.';
 $Definition['You are now signed in.'] = 'You are now signed in.';
 $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'You are only allowed {maxImages,plural,%s image,%s images}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'You are prohibited from using the ignore feature.';
