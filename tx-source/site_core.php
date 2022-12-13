@@ -800,6 +800,11 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityU
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'You\'ve been warned.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'You\'ve been <a href="{Url,html}" class="Popup">warned</a>.';
+$Definition['{Username} posted an announcement in {GroupName}'] = "{Username} posted an announcement in {GroupName}";
+$Definition['{count} new announcements in {GroupName}'] = "{count} new announcements in {GroupName}";
+$Definition['{Username} started a new discussion {DiscussionName}'] = "{Username} started a new discussion {DiscussionName}";
+$Definition['{count} new discussions in {GroupName}'] = "{count} new discussions in {GroupName}";
+$Definition['{Username} started a new discussion in {GroupName}: {DiscussionName}.'] = "{Username} started a new discussion in {GroupName}: {DiscussionName}.";
 $Definition['Height (mobile)']='Height (mobile)';
 $Definition['Hello!'] = 'Hello!';
 $Definition['Hello %s!'] = 'Hello %s!';
