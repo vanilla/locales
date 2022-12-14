@@ -800,6 +800,11 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityU
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'You\'ve been warned.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'You\'ve been <a href="{Url,html}" class="Popup">warned</a>.';
+$Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>';
+$Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} new announcements in <strong>{GroupName}</strong>';
+$Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>';
+$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} new discussions in <strong>{GroupName}</strong>';
+$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.';
 $Definition['Height (mobile)']='Height (mobile)';
 $Definition['Hello!'] = 'Hello!';
 $Definition['Hello %s!'] = 'Hello %s!';
@@ -1289,6 +1294,8 @@ $Definition['PreferenceGroupInviteEmail'] = 'Notify me when I am invited to a gr
 $Definition['PreferenceGroupInvitePopup'] = 'Notify me when I am invited to a group.';
 $Definition['PreferenceGroupRequestApprovedEmail'] = 'Notify me when my group membership request is approved.';
 $Definition['PreferenceGroupRequestApprovedPopup'] = 'Notify me when my group membership request is approved.';
+$Definition['PreferenceGroupNewDiscussionEmail'] = 'Notify me of new discussions in groups I am a member of.';
+$Definition['PreferenceGroupNewDiscussionPopup'] = 'Notify me of new discussions in groups I am a member of.';
 $Definition['PreferenceGroupJoinRequestEmail'] = 'Notify me when users apply to join my group.';
 $Definition['PreferenceGroupJoinRequestPopup'] = 'Notify me when users apply to join my group.';
 $Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';
