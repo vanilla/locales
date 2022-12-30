@@ -880,6 +880,7 @@ $Definition['Italic'] = 'Ležeče';
 $Definition['Item'] = 'Postavka';
 $Definition['item'] = 'postavka';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Videti je, da ste novi tukaj. Če želite sodelovati, kliknite enega od teh gumbov!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Videti je, da ste novi tukaj. Za začetek se prijavite ali registrirajte.';
 
 $Definition['Jail'] = 'Zapor';
 $Definition['Jailed users have reduced abilities.'] = 'Zaprti uporabniki imajo zmanjšane sposobnosti.';

@@ -921,6 +921,7 @@ $Definition['Italic'] = '斜體';
 $Definition['Item'] = '項目';
 $Definition['item'] = '項目';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '點下面的按鈕可以加入我們！';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = '看起來你是新來的。登錄或註冊以開始使用。';
 
 $Definition['Jail'] = '監禁';
 $Definition['Jailed users have reduced abilities.'] = '封鎖的使用者會減少能夠使用的功能';

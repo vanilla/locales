@@ -912,6 +912,7 @@ $Definition['Italic'] = 'ตัวเอียง';
 $Definition['Item'] = 'รายการ';
 $Definition['item'] = 'รายการ';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ดูเหมือนว่าคุณพึ่งมาที่นี่เป็นครั้งแรก ถ้าคุณต้องการที่จะเข้าร่วมชุมชนออนไลน์ของเรา คลิกปุ่มเหล่านี้!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'ดูเหมือนว่าคุณจะยังใหม่ที่นี่ ลงชื่อเข้าใช้หรือลงทะเบียนเพื่อเริ่มต้น';
 
 $Definition['Jail'] = 'จำกัดสิทธิ์';
 $Definition['Jailed users have reduced abilities.'] = 'ผู้ใช้ที่ถูกจำกัดสิทธิ์จะไม่สามารถใช้ได้เต็มรูปแบบ';

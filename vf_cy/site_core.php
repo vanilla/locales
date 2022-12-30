@@ -887,6 +887,7 @@ $Definition['Italic'] = 'Italig';
 $Definition['Item'] = 'Eitem';
 $Definition['item'] = 'Eitem';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Mae\'n edrych fel eich bod yn newydd yma. Os ydych am gymryd rhan, cliciwch ar un o\'r botymau yma!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Mae\'n edrych fel eich bod chi\'n newydd yma. Mewngofnodi neu gofrestru i ddechrau.';
 
 $Definition['Jail'] = 'Carchar';
 $Definition['Jailed users have reduced abilities.'] = 'Mae defnyddwyr a garcharwyd yn gostwng galluoedd.';

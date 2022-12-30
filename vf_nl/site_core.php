@@ -908,6 +908,7 @@ $Definition['Italic'] = 'Cursief';
 $Definition['Item'] = 'Voorwerp';
 $Definition['item'] = 'voorwerp';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Het lijkt erop dat je hier nieuw bent. Klik op één van deze knoppen om je aan te melden!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Het lijkt erop dat je nieuw bent hier. Log in of registreer om te beginnen.';
 
 $Definition['Jail'] = 'Gevangenis';
 $Definition['Jailed users have reduced abilities.'] = 'Opgesloten gebruikers hebben minder bevoegdheden.';

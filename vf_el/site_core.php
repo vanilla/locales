@@ -923,6 +923,7 @@ $Definition['Italic'] = 'Πλάγια γραφή';
 $Definition['Item'] = 'Αντικείμενο';
 $Definition['item'] = 'αντικείμενο';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Φαίνεται πως είστε νέος εδώ. Αν θέλεις να συμμετέχετε, πάτησε ένα από αυτά τα πλήκτρα!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Φαίνεται ότι είσαι νέος εδώ. Συνδεθείτε ή εγγραφείτε για να ξεκινήσετε.';
 
 $Definition['Jail'] = 'Φυλακή';
 $Definition['Jailed users have reduced abilities.'] = 'Οι Φυλακισμένοι χρήστες έχουν περιοριμένες δυνατότητες.';

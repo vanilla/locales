@@ -846,6 +846,7 @@ $Definition['I remember now!'] = 'Naaalala ko na!';
 $Definition['Item'] = 'Gamit';
 $Definition['item'] = 'Bagay';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Mukhang ikaw ay bago dito. Kung nais mong makibahagi, i-click ang isa sa mga button na ito!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Mukhang bago ka dito. Mag-sign in o magrehistro upang makapagsimula.';
 
 $Definition['Jail'] = 'kulungan';
 $Definition['Jailed users have reduced abilities.'] = 'Ang mga nakakulong na mga gumagamit ay may binawasang mga abilidad.';

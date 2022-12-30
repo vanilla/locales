@@ -904,6 +904,7 @@ $Definition['Italic'] = 'Kursywa';
 $Definition['Item'] = 'Przedmiot';
 $Definition['item'] = 'przedmiot';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Wygląda na to, że jesteś tutaj nowy. Jeśli chcesz wziąć udział, należy kliknąć jeden z tych przycisków!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Wygląda na to, że jesteś tu nowy. Zaloguj się lub zarejestruj, aby rozpocząć.';
 
 $Definition['Jail'] = 'Więzienie';
 $Definition['Jailed users have reduced abilities.'] = 'Uwięzieni użytkownicy mają ograniczone możliwości.';

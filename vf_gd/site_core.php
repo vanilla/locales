@@ -703,6 +703,7 @@ $Definition['InviteErrorPermission'] = 'Tha sinn duilich ach chaidh cead a dhiù
 $Definition['Invite Members'] = 'Thoir cuireadh do Bhuill';
 $Definition['I remember now!'] = 'Tha cuimhne agam a-nis!';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Tha thu \'nad bhall ùr an-seo a-rèir coltais. Briog air fear dhe na putanan seo ma tha thu airson pàirt a ghabhail!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Tha e coltach gu bheil thu ùr an seo. Clàraich a-steach no clàraich airson tòiseachadh.';
 
 $Definition['Join'] = 'Thig còmhla';
 $Definition['Join Date'] = 'Ceann-latha ballrachd';

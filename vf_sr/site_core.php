@@ -912,6 +912,7 @@ $Definition['Italic'] = 'kurziv';
 $Definition['Item'] = 'Stavka';
 $Definition['item'] = 'stavka';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Izgleda da ste novi ovde. Ukoliko želite da se uključite, kliknite na neko od ovih dugmića.';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Изгледа да сте нови овде. Пријавите се или региструјте да бисте започели.';
 
 $Definition['Jail'] = 'Zatvor';
 $Definition['Jailed users have reduced abilities.'] = 'Zatvoreni korisnici imaju smanjene mogućnosti.';

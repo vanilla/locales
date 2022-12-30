@@ -911,6 +911,7 @@ $Definition['Italic'] = 'Sekame';
 $Definition['Item'] = 'Selo';
 $Definition['item'] = 'selo';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Go bonala eka o yo mofsa mo. Ge o nyaka go tsena, kgotla e nngwe ya dikonotswana tše!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Go bonala eka o mofsa mo. Tsena goba o ingwadiše go thoma.';
 
 $Definition['Jail'] = 'Kgolego';
 $Definition['Jailed users have reduced abilities.'] = 'Badiriši ba kgolegong ba fokoditše bokgoni.';

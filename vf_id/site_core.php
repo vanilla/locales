@@ -900,6 +900,7 @@ $Definition['I remember now!'] = 'Saya ingat sekarang!';
 $Definition['Italic'] = 'Cetak miring';
 $Definition['Item'] = 'Item Cekal';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Tampaknya anda baru di sini. Bila anda ingin terlibat, klik salah satu tombol berikut!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Sepertinya Anda baru di sini. Masuk atau daftar untuk memulai.';
 
 $Definition['Jail'] = 'Penjara';
 $Definition['Jailed users have reduced abilities.'] = 'Pengguna yang dipenjara akan berkurang kemampuannya.';

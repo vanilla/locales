@@ -913,6 +913,7 @@ $Definition['Italic'] = 'Dőlt';
 $Definition['Item'] = 'Elem';
 $Definition['item'] = 'tétel';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Úgy tűnik, hogy új vagy itt! Ha csatlakozni akarsz, klikkelj valamelyik gombra.';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Úgy tűnik, új vagy itt. A kezdéshez jelentkezzen be vagy regisztráljon.';
 
 $Definition['Jail'] = 'Börtön';
 $Definition['Jailed users have reduced abilities.'] = 'A bebörtönzött felhasználóknak csökkentek a képességei.';

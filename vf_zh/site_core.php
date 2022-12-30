@@ -924,6 +924,7 @@ $Definition['Italic'] = '斜体';
 $Definition['Item'] = '条目';
 $Definition['item'] = '条目';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = '新手上路，加入请点击其中一个按钮:';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = '看起来你是新来的。登录或注册以开始使用。';
 
 $Definition['Jail'] = '禁言';
 $Definition['Jailed users have reduced abilities.'] = '禁言用户无法使用一些功能。';

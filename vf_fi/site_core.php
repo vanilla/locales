@@ -921,6 +921,7 @@ $Definition['Italic'] = 'Kursiivi';
 $Definition['Item'] = 'Kohde';
 $Definition['item'] = 'kohta';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Vaikuttaa siltä että olet uusi täällä? Jos haluat osallistua keskusteluihin, rekisteröidy valitsemalla joku painikkeista ohessa! ';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Näyttää siltä, että olet uusi täällä. Kirjaudu sisään tai rekisteröidy aloittaaksesi.';
 
 $Definition['Jail'] = 'Vankila';
 $Definition['Jailed users have reduced abilities.'] = 'Vankilaan laitetuilla käyttäjillä on vähemmän toiminnallisuuksia käytössään.';

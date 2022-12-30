@@ -920,6 +920,7 @@ $Definition['Italic'] = ' इटैलिक';
 $Definition['Item'] = 'आइटम';
 $Definition['item'] = 'आइटम';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'लगता है कि आप यहाँ नए हैं। यदि आप शामिल होना चाहते हैं, तो इनमें से एक बटन क्लिक करें!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'ऐसा लगता है कि आप यहां नए हैं। आरंभ करने के लिए साइन इन या पंजीकरण करें।';
 
 $Definition['Jail'] = 'जेल करें';
 $Definition['Jailed users have reduced abilities.'] = 'जेल किए गए उपयोगकर्ताओं की क्षमताएं कम हो जाती हैं।';

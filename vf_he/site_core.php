@@ -922,6 +922,7 @@ $Definition['Italic'] = 'נטוי';
 $Definition['Item'] = 'מוצר';
 $Definition['item'] = 'פריט';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ברוך הבא! אם הינך חדש בפורום, תוכל להירשם על ידי לחיצה על אחד הלחצנים מטה. אחרת, באפשרותך לבצע התחברות.';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'נראה שאתה חדש כאן. היכנס או הירשם כדי להתחיל.';
 
 $Definition['Jail'] = 'כלא';
 $Definition['Jailed users have reduced abilities.'] = 'למשתמשים כלואים יש יכולות מופחתות';

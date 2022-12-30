@@ -903,6 +903,7 @@ $Definition['Italic'] = 'Kurzíva';
 $Definition['Item'] = 'Položka';
 $Definition['item'] = 'položka';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Vyzerá to, že ste tu nový. Ak sa chcete zapojiť, kliknite na jedno z týchto tlačidiel!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Zdá sa, že ste tu nový. Ak chcete začať, prihláste sa alebo sa zaregistrujte.';
 
 $Definition['Jail'] = 'Väzenie';
 $Definition['Jailed users have reduced abilities.'] = 'Uväznený užívatelia majú znížené schopnosti.';

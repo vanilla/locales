@@ -156,6 +156,8 @@ $Definition['Accepted'] = 'Akzeptiert';
 $Definition['Accept this answer.'] = 'Diese Antwort annehmen.';
 $Definition['Access the Site'] = 'Zugang zur Website';
 $Definition['Access Tokens'] = 'Zugangs-Token';
+$Definition['Account & Privacy'] = 'Konto &amp; Datenschutz
+';
 $Definition['Account Options'] = 'Kontoeinstellungen';
 $Definition['Actions'] = 'Aktionen';
 $Definition['Activate'] = 'Aktivieren';
@@ -238,6 +240,10 @@ $Definition['Analytics'] = 'Analyse';
 $Definition['An archived file or files'] = 'Eine oder mehrere archivierte Dateien';
 $Definition['Ancient Membership'] = 'Historische Mitgliedschaft';
 $Definition['An error has occurred, please try again.'] = 'Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.';
+$Definition['An error occurred updating your Email privacy setting.'] = 'Beim Aktualisieren Ihrer E-Mail-Datenschutzeinstellungen ist ein Fehler aufgetreten.
+';
+$Definition['An error occurred updating your Profile privacy setting.'] = 'Beim Aktualisieren der Datenschutzeinstellungen Ihres Profils ist ein Fehler aufgetreten.
+';
 $Definition['An image file'] = 'Eine Bilddatei';
 $Definition['Animals & Nature'] = 'Tiere & Natur';
 $Definition['An invitation has already been sent to the email you entered.'] = 'Eine Einladung wurde bereits an die eingegebene E-Mail-Adresse gesendet.';
@@ -417,6 +423,8 @@ $Definition['Completed'] = 'Abgeschlossen';
 $Definition['Completely delete the warning.'] = 'Die Warnung komplett löschen.';
 $Definition['Confirm'] = 'Bestätigen';
 $Definition['Confirm Deletion'] = 'Löschen bestätigen';
+$Definition['Confirmed'] = 'Bestätigt
+';
 $Definition['Confirmed email address'] = 'Bestätigte E-Mail-Adresse';
 $Definition['Confirm Email'] = 'Bestätigungsmail';
 $Definition['Confirm My Email Address'] = 'Meine E-Mail-Adresse bestätigen';
@@ -526,6 +534,10 @@ $Definition['Discussion Type'] = 'Diskussion';
 $Definition['Dislike'] = 'Gefällt nicht';
 $Definition['Dismiss'] = 'Verwerfen';
 $Definition['Dismissible'] = 'Abweisbar';
+$Definition['Display my email publicly'] = 'Meine E-Mail öffentlich anzeigen
+';
+$Definition['Display my profile publicly'] = 'Mein Profil öffentlich anzeigen
+';
 $Definition['Documentation'] = 'Dokumentation';
 $Definition['Domain is invalid.'] = 'Die Domain ist ungültig. ';
 $Definition['Don\'t announce.'] = 'Nicht ankündigen.';
@@ -554,6 +566,8 @@ $Definition['Edit Comment'] = 'Kommentar bearbeiten';
 $Definition['Edit Discussion'] = 'Diskussion bearbeiten';
 $Definition['edited %s'] = 'bearbeitet %s';
 $Definition['Edited %s by %s.'] = 'Von %s bearbeitet %s.';
+$Definition['Edit Email'] = 'E-Mail bearbeiten
+';
 $Definition['Editing'] = 'Bearbeitung';
 $Definition['Editing this field will require password entry'] = 'Das Bearbeiten dieses Feldes erfordert die Eingabe eines Passworts';
 $Definition['Edit My Account'] = 'Konto bearbeiten';
@@ -567,10 +581,13 @@ $Definition['editor.HtmlHelpText'] = 'Du kannst <a href="http://www.cheatography
 $Definition['editor.MarkdownHelpText'] = 'Du kannst <a href="http://de.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> in deinem Beitrag nutzen.';
 $Definition['editor.TextHelpText'] = 'Du nutzt einfachen Text in deinem Beitrag.';
 $Definition['editor.WysiwygHelpText'] = 'Du nutzt den <a href="https://de.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG-Editor</a> in deinem Beitrag.';
+$Definition['Edit Password'] = 'Passwort bearbeiten';
 $Definition['Edit Preferences'] = 'Einstellungen bearbeiten';
 $Definition['Edit Profile'] = 'Profil bearbeiten';
 $Definition['Edit Tag'] = 'Tag bearbeiten';
 $Definition['Edit Thumbnail'] = 'Profilbild bearbeiten';
+$Definition['Edit Username'] = 'Benutzername bearbeiten
+';
 $Definition['Eighth Anniversary'] = 'Achter Jahrestag';
 $Definition['Email'] = 'E-Mail';
 $Definition['Email/Username'] = 'E-Mail/Benutzername';
@@ -894,6 +911,7 @@ $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'Beitrag';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Scheinbar bist du neu hier. Wenn du mitmachen willst, Wähle eine der folgenden Optionen!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Anscheinend sind Sie neu hier. Um zu beginnen, melden Sie sich an oder registrieren sich.';
 
 $Definition['Jail'] = 'Gefängnis';
 $Definition['Jailed users have reduced abilities.'] = 'Gefangene Benutzer haben verringerte Rechte.';
@@ -1070,6 +1088,8 @@ $Definition['Name Dropper'] = 'Namensgenerator';
 $Definition['Name of the Event'] = 'Name der Veranstaltung';
 $Definition['Name the Group'] = 'Gruppe bennenen';
 $Definition['Name Unavailable'] = 'Name nicht verfügbar';
+$Definition['Needs Confirmation'] = 'Bestätigung erforderlich
+';
 $Definition['New'] = 'Neu';
 $Definition['new'] = 'neu';
 $Definition['New %s'] = 'Neue %s';
@@ -1948,6 +1968,8 @@ $Definition['You are not allowed to ban a user that has higher permissions than 
 $Definition['You are not allowed to ban a user with the same permission level as you.'] = 'Es ist dir nicht gestattet, einen Benutzer mit derselben Berechtigungsstufe wie du zu sperren.';
 $Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] = 'Sie dürfen keinen Benutzer mit höheren Berechtigungen als Sie als Troll markieren.';
 $Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] = 'Sie dürfen einen Benutzer nicht mit derselben Berechtigungsstufe wie Sie als Troll markieren.';
+$Definition['You are not allowed to post in categories with a display type of %s.'] = 'Sie dürfen nicht in Kategorien mit dem Anzeigetyp %s posten.
+';
 $Definition['You are not allowed to warn a user with higher permissions than you.'] = 'Sie dürfen einen Benutzer mit höheren Berechtigungen als Sie nicht warnen.';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] = 'Sie dürfen einen Benutzer mit derselben Berechtigungsstufe wie Sie nicht warnen.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Sie verlassen jetzt %1$s. Klicken Sie den Link an, um mit %2$s fortzufahren.';
@@ -2010,6 +2032,8 @@ $Definition['You need to confirm your email address before you can continue.'] =
 $Definition['You need to reset your password.'] = 'Sie müssen Ihr Passwort zurücksetzen. Dies ist höchstwahrscheinlich darauf zurückzuführen, dass ein Administrator kürzlich Ihre Kontoinformationen geändert hat. Klicken Sie <a href="%s">hier</a> , um Ihr Passwort zurückzusetzen.';
 $Definition['You need to sign in before you can do this.'] = 'Du musst dich anmelden, um das zu tun.';
 $Definition['your'] = 'dein';
+$Definition['Your Account'] = 'Ihr Konto
+';
 $Definition['Your application for this group was denied.'] = 'Dein Beitrittsgesuch für diese Gruppe wurde abgelehnt.';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'Deine Anmeldung wird von einem Administrator überprüft. Du wirst per E-Mail benachrichtigt, wenn deine Anmeldung bestätigt wurde.';
 $Definition['Your changes have been saved.'] = 'Deine Änderungen wurden gespeichert.';
@@ -2021,6 +2045,10 @@ $Definition['Your complaint has been registered.'] = 'Ihre Beschwerde wurde aufg
 $Definition['Your discussion will appear after it is approved.'] = 'Ihre Diskussion wird angezeigt, nachdem sie zugelassen wurde.';
 $Definition['Your email doesn\'t need confirmation.'] = 'Ihre E-Mail erfordert keine Bestätigung.';
 $Definition['Your email has been successfully confirmed.'] = 'Deine E-Mail-Adresse wurde erfolgreich bestätigt.';
+$Definition['Your Email will be publicly displayed.'] = 'Ihre E-Mail wird öffentlich angezeigt.
+';
+$Definition['Your Email will not be publicly displayed.'] = 'Ihre E-Mail wird nicht öffentlich angezeigt.
+';
 $Definition['Your invitation has been sent.'] = 'Deine Einladung wurde versandt.';
 $Definition['Your old password was incorrect.'] = 'Dein altes Passwort ist falsch.';
 $Definition['Your password has been changed.'] = 'Dein Passwort wurde geändert.';
@@ -2030,6 +2058,9 @@ $Definition['Your picture has been removed.'] = 'Dein Bild wurde entfernt.';
 $Definition['Your post will appear once it\'s been approved.'] = 'Dein Kommentar erscheint, sobald er freigegeben wurde.';
 $Definition['Your preferences have been saved.'] = 'Deine Einstellungen wurden gespeichert.';
 $Definition['Your private conversations with other members.'] = 'Deine privaten Konversationen mit anderen Mitgliedern.';
+$Definition['Your Profile will be publicly displayed.'] = 'Ihr Profil wird öffentlich angezeigt.
+';
+$Definition['Your Profile will not be publicly displayed.'] = 'Ihr Profil wird nicht öffentlich angezeigt.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'Dein registrierter Benutzername: <strong>%s</strong>';
 $Definition['Your request has been sent.'] = 'Deine Anfrage wurde versandt. Sieh in deinen E-Mails nach für weitere Anweisungen.';
 $Definition['Your request is pending. You\'ll be notified when its status changes.'] = 'Ihre Anfrage wird noch bearbeitet. Sie werden benachrichtigt, wenn sich der Status ändert.';

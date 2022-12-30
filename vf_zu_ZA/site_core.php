@@ -917,6 +917,7 @@ $Definition['Italic'] = 'Umalukeke';
 $Definition['Item'] = 'Into';
 $Definition['item'] = 'Into';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Kubukeka sengathi umusha lapha. Uma ufuna ukubamba iqhaza, chofoza enye yalezi zinkinobho!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Kubukeka sengathi umusha lapha. Ngena ngemvume noma ubhalise ukuze uqalise.';
 
 $Definition['Jail'] = 'Ijele';
 $Definition['Jailed users have reduced abilities.'] = 'Abasebenzisi abasejele banamakhono ancishisiwe.';

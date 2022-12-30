@@ -899,6 +899,7 @@ $Definition['Italic'] = 'Cursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'obiect';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Implicați-vă acum! <br />Conectați-vă acum prin:';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Se pare că ești nou aici. Conectați-vă sau înregistrați-vă pentru a începe.';
 
 $Definition['Jail'] = 'inchisoare';
 $Definition['Jailed users have reduced abilities.'] = 'Utilizatorii aflati la inchisoare au abilitatiile reduse.';

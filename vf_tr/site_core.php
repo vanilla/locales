@@ -913,6 +913,7 @@ $Definition['Italic'] = 'İtalik';
 $Definition['Item'] = 'Öğe';
 $Definition['item'] = 'öğe';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Burada yeni gibi görünüyorsunuz. Eğer katılmak istiyorsanız düğmelerden birine tıklayınız.';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Burada yeni gibisin. Başlamak için oturum açın veya kaydolun.';
 
 $Definition['Jail'] = 'Hapishane';
 $Definition['Jailed users have reduced abilities.'] = 'Hapishanedeki kullanıcıların yetkileri kısıtlanmıştır.';

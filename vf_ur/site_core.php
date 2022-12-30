@@ -913,6 +913,7 @@ $Definition['Italic'] = 'اٹالک';
 $Definition['Item'] = 'شے';
 $Definition['item'] = 'شے';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'ایسا لگتا ہے کہ آپ یہاں نئے ہیں۔ اگر آپ شامل ہونا چاہتے ہیں تو ان بٹنوں میں سے ایک پر کلک کریں!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'ایسا لگتا ہے کہ آپ یہاں نئے ہیں۔ شروع کرنے کے لیے سائن ان کریں یا رجسٹر کریں۔';
 
 $Definition['Jail'] = 'جیل';
 $Definition['Jailed users have reduced abilities.'] = 'جیل میں قید صارفین کی صلاحیتوں میں کمی ہے۔';

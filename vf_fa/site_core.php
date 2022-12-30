@@ -912,6 +912,7 @@ $Definition['Italic'] = 'مورب';
 $Definition['Item'] = 'آيتم';
 $Definition['item'] = 'آيتم';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'بنظر ميرسد شما اينجا تازه وارد هستيد. اگر ميخواهيد مشاركت داشته باشيد، بر روي يكي از دكمه ها كليك كنيد!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'به نظر می رسد که شما اینجا تازه کار هستید. برای شروع به سیستم وارد شوید یا ثبت نام کنید.';
 
 $Definition['Jail'] = 'حبس';
 $Definition['Jailed users have reduced abilities.'] = 'قابليتهاي كاربران محبوس شده كاهش مي يابد.';

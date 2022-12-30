@@ -909,6 +909,7 @@ $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Елемент';
 $Definition['item'] = 'пункт';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Схоже, що Ви тут вперше. Якщо хочете взяти участь, натисніть на одну з цих кнопок!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Схоже ви новенький тут. Увійдіть чи зареєструйтесь, щоб почати.';
 
 $Definition['Jail'] = 'В\'язниця';
 $Definition['Jailed users have reduced abilities.'] = 'Ув\'язнені у в\'язницю користувачі зменшили здібності.';

@@ -921,6 +921,7 @@ $Definition['Italic'] = 'Курсив';
 $Definition['Item'] = 'Ban Item';
 $Definition['item'] = 'елемент';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Изглежда, че сте нови тук. Ако искате да се включите, натиснете един от тези бутони!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Изглежда, че си нов тук. Влезте или се регистрирайте, за да започнете.';
 
 $Definition['Jail'] = 'Затвор';
 $Definition['Jailed users have reduced abilities.'] = 'Потребителите в затвора имат намалени възможности.';

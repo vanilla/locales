@@ -906,6 +906,7 @@ $Definition['I remember now!'] = 'Agora eu me lembro!';
 $Definition['Italic'] = 'Itálico';
 $Definition['item'] = 'Item';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Parece que você é novo por este pedaço. Se você quer se envolver, clique em algum destes botões!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Parece que você é novo aqui. Logue ou registre-se para começar.';
 
 $Definition['Jail'] = 'Prisão';
 $Definition['Jailed users have reduced abilities.'] = 'Usuários presos possuem habilidades reduzidas.';

@@ -891,6 +891,7 @@ $Definition['Italic'] = 'Itàlica';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'element';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Sembles nou en aquestes contrades. Si vols participar, clica un dels seg';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Sembla que ets nou aquí. Inicieu la sessió o registreu-vos per començar.';
 
 $Definition['Jail'] = 'Presó';
 $Definition['Jailed users have reduced abilities.'] = 'Els usuaris empresonats tenen una capacitat reduïda.';

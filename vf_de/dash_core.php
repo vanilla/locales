@@ -102,6 +102,8 @@ $Definition['All Pages'] = 'Alle Seiten';
 $Definition['All Time'] = 'Alle Zeit';
 $Definition['An enabled message will be visible on the site.'] = 'Eine aktivierte Nachricht wird auf der Website sichtbar sein.';
 $Definition['API'] = 'API ';
+$Definition['API Label is required'] = 'API-Label ist erforderlich
+';
 $Definition['API SSO Expand Permission'] = 'API SSO Erlaubnis Expandieren';
 $Definition['API Status'] = 'API-Status';
 $Definition['Appearance'] = 'Aussehen';
@@ -479,6 +481,8 @@ $Definition['Key Value'] = 'Schlüssel Wert';
 $Definition['Keyword Blocker'] = 'Keyword-Blocker';
 
 $Definition['Label'] = 'Tag';
+$Definition['Label is required'] = 'Label ist erforderlich
+';
 $Definition['Label this Revision'] = 'Diese Revision betiteln';
 $Definition['Large images will be scaled down.'] = 'Große Bilder werden angepasst auf eine maximale Breite von %spx und einer maximalen Höhe von %spx.';
 $Definition['Last Day'] = 'Letzter Tag';
@@ -620,6 +624,7 @@ $Definition['permissions.member'] = 'Mitglied';
 $Definition['permissions.moderator'] = 'Moderator';
 $Definition['Personal Info'] = 'Persönliche Info';
 $Definition['Please Confirm'] = 'Bitte bestätige';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'Bitte geben Sie ein eindeutiges API-Label ein, dieses wurde bereits verwendet.';
 $Definition['Plugin'] = 'Plugin ';
 $Definition['Plugins'] = 'Plugins ';
 $Definition['Pocket'] = 'Pocket ';

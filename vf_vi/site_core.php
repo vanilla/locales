@@ -913,6 +913,7 @@ $Definition['Italic'] = 'In nghiêng';
 $Definition['Item'] = 'Mục';
 $Definition['item'] = 'đề mục';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Còn chờ gì nữa mà không mau đăng nhập hoặc đăng ký để cùng tham gia thảo luận với cộng đồng!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Có vẻ như bạn là người mới ở đây. Đăng nhập hoặc đăng ký để bắt đầu.';
 
 $Definition['Jail'] = 'Cho ra đảo';
 $Definition['Jailed users have reduced abilities.'] = 'Thành viên bị ban có quyền hạn hạn chế.';

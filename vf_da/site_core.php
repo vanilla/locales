@@ -902,6 +902,7 @@ $Definition['Italic'] = 'Kursiv';
 $Definition['Item'] = 'Element';
 $Definition['item'] = 'Genstand';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Det ser ud til, at du er ny. Hvis du vil involveres, klik på en af disse knapper!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Det ser ud til at du er ny her. Log ind eller registrer dig for at komme i gang.';
 
 $Definition['Jail'] = 'Fængsel';
 $Definition['Jailed users have reduced abilities.'] = 'Fængslede brugere har begrænsede evner.';

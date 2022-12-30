@@ -901,6 +901,7 @@ $Definition['IP Address'] = 'Alamat IP';
 $Definition['I remember now!'] = 'Saya ingat sekarang!';
 $Definition['Italic'] = 'Huruf Condong';
 $Definition['It looks like you\'re new here. If you want to get involved, click one of these buttons!'] = 'Ia kelihatan anda baru datang ke sini. Jika anda ingin terlibat, klik salah satu butang ini!';
+$Definition['It looks like you\'re new here. Sign in or register to get started.'] = 'Nampaknya awak baru di sini. Log masuk atau daftar untuk bermula.';
 
 $Definition['Jail'] = 'Penjara';
 $Definition['Jailed users have reduced abilities.'] = 'Kebolehan pengguna yang dipenjarakan telah dikurangkan.';
