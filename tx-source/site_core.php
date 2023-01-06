@@ -1605,6 +1605,7 @@ $Definition['Strip images out of signatures?'] = 'Strip images out of signatures
 $Definition['Subject'] = 'Subject';
 $Definition['Subscriber'] = 'Subscriber';
 $Definition['Success'] = 'Success';
+$Definition['Success! <0/> has been <1/> featured collections.'];
 $Definition['Suggested Value'] = 'Suggested Value';
 $Definition['System'] = 'System';
 
