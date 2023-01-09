@@ -378,6 +378,7 @@ $Definition['Failure'] = 'Failure';
 $Definition['Favicon'] = 'Favicon';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
 $Definition['FaviconDescription'] = "Your site's favicon appears in your browser's title bar. It will be scaled down appropriately.";
+$Definition['Field is required.'] = 'Field is required.';
 $Definition['FileUpload is currently OFF'] = 'FileUpload is currently OFF';
 $Definition['FileUpload is currently ON'] = 'FileUpload is currently ON';
 $Definition['Filter'] = 'Filter';
