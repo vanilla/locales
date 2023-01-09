@@ -191,6 +191,8 @@ $Definition['Add Message'] = 'Add Message';
 $Definition['Add Note'] = 'Add Note';
 $Definition['Add People to this Conversation'] = 'Add People to this Conversation';
 $Definition['Add Route'] = 'Add Route';
+$Definition['Added to 1 collection.'] = 'Added to 1 collection.';
+$Definition['Added to <0/> collections.'] = 'Added to <0/> collections.';
 $Definition['Admin'] = 'Admin';
 $Definition['Administrator'] = 'Administrator';
 $Definition['Administrator Activity'] = 'Administrator Activity';
@@ -1406,6 +1408,8 @@ $Definition['Remove Invitation'] = 'Remove Invitation';
 $Definition['Remove My Picture'] = 'Remove My Picture';
 $Definition['Remove Picture'] = 'Remove Picture';
 $Definition['Remove Warning'] = 'Remove Warning';
+$Definition['Removed from 1 collection.'] = 'Removed from 1 collection.';
+$Definition['Removed from <0/> collections.'] = 'Removed from <0/> collections.';
 $Definition['Rename Forum'] = 'Rename Forum';
 $Definition['Reopen'] = 'Reopen';
 $Definition['Replies'] = 'Replies';
@@ -1605,7 +1609,7 @@ $Definition['Strip images out of signatures?'] = 'Strip images out of signatures
 $Definition['Subject'] = 'Subject';
 $Definition['Subscriber'] = 'Subscriber';
 $Definition['Success'] = 'Success';
-$Definition['Success! <0/> has been <1/> collections.'];
+$Definition['Success!'] = 'Success!';
 $Definition['Suggested Value'] = 'Suggested Value';
 $Definition['System'] = 'System';
 
