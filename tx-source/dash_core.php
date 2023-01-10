@@ -454,6 +454,7 @@ $Definition['Integrate Banner Image'] = 'Integrate Banner Image';
 $Definition['Internaltionalization & Localization'] = 'Internaltionalization & Localization';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Introducing Vanilla Reactions and Badges';
 $Definition['Invalid category for deletion.'] = 'Invalid category for deletion.';
+$Definition['Invalid entry.'] = 'Invalid entry.';
 $Definition['Invisibility Cloak Settings'] = 'Invisibility Cloak Settings';
 $Definition['Invitation Code'] = 'Invitation Code';
 $Definition['InvitationMessage'] = 'Hi Pal!
