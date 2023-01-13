@@ -24,6 +24,7 @@ $Definition['Allow users with the %s permission to change their own avatars from
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Apply Layout'] = 'Apply Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
+$Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Automatically save drafts of unpublished discussions, questions, ideas and comments.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatars will be scaled down if they exceed this height.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatars will be scaled down if they exceed this width.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatars will have their thumbnails saved at this size.';
