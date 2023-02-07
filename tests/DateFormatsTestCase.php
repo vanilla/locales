@@ -16,7 +16,7 @@ namespace Garden\Locales\Tests;
  * $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
  * $Definition['Date.DefaultYearFormat'] = '%B %Y';
  */
-class DateFormatsTest extends AbstractLocalesTest {
+class DateFormatsTestCase extends AbstractLocalesTestCase {
     protected static $testTime;
 
     public static function setUpBeforeClass(): void {

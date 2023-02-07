@@ -12,14 +12,14 @@ use PHPUnit\Framework\TestCase;
 /**
  * Base functionality for locale tests.
  */
-abstract class AbstractLocalesTest extends TestCase {
+abstract class AbstractLocalesTestCase extends TestCase {
     const BASEDIR = __DIR__.'/..';
     const RESOURCE_FILES = ['dash_core.php', 'dash_text.php', 'site_core.php', 'site_kb.php'];
 
     private $cache = [];
 
     /**
-     * Get all of the locale directories.
+     * Get all the locale directories.
      *
      * - $path
      *
