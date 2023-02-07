@@ -10,7 +10,7 @@ namespace Garden\Locales\Tests;
 /**
  * Some smoke tests that make sure translations aren't malformed.
  */
-class SmokeTestCase extends AbstractLocalesTestCase {
+class SmokeTest extends AbstractLocalesTestCase {
     /**
      * @var array
      */
