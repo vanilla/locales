@@ -15,7 +15,7 @@
     <ini name="date.timezone" value="America/Montreal"/>
   </php>
   <testsuites>
-    <testsuite name="Garden Test Suite">
+    <testsuite name="Garden/Locale Test Suite">
       <directory suffix="Test.php">./tests/</directory>
     </testsuite>
   </testsuites>
