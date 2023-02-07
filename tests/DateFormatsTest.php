@@ -19,7 +19,7 @@ namespace Garden\Locales\Tests;
 class DateFormatsTest extends AbstractLocalesTest {
     protected static $testTime;
 
-    public static function setUpBeforeClass() {
+    public static function setUpBeforeClass(): void {
         parent::setUpBeforeClass();
         self::$testTime = strtotime('2019-09-25 12:25 PM EDT');
     }

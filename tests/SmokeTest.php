@@ -19,7 +19,7 @@ class SmokeTest extends AbstractLocalesTest {
     /**
      * @inheritDoc
      */
-    public function setUp() {
+    public function setUp(): void {
         parent::setUp();
         $this->source = $this->loadSourceTranslations();
     }
@@ -185,7 +185,7 @@ class SmokeTest extends AbstractLocalesTest {
         if (in_array($format['format'], ['url', 'exurl'], true)) {
 
         } else {
-            $this->assertRegExp('`[a-z0-9.]+`i', $format['field'], "Invalid field: $message");
+            $this->assertMatchesRegularExpression('`[a-z0-9.]+`i', $format['field'], "Invalid field: $message");
         }
     }
 
