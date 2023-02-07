@@ -64,12 +64,12 @@ class SmokeTest extends AbstractLocalesTest {
     }
 
     /**
-     * Get all of the `sprintf` patterns from a format string.
+     * Get all the `sprintf` patterns from a format string.
      *
      * @param string $value
      * @return array
      */
-    private function getSprintfs(string $value): array {
+    private static function getSprintfs(string $value): array {
         $r = [];
         // Sprintf expansions.
         if (preg_match_all('`(%\d?\$?\+?[sdf])`', $value, $m)) {
@@ -129,12 +129,12 @@ class SmokeTest extends AbstractLocalesTest {
     }
 
     /**
-     * Get all of the format placeholders in a string.
+     * Get all the format placeholders in a string.
      *
      * @param string $value
      * @return array
      */
-    private function getFormatPlaceholders(string $value): array {
+    private static function getFormatPlaceholders(string $value): array {
         $r = [];
         if (preg_match_all('/{([^\s][^}]+[^\s]?)}/', $value, $m)) {
             foreach ($m[1] as $expr) {
@@ -297,7 +297,7 @@ class SmokeTest extends AbstractLocalesTest {
      * @param array $formats
      */
     public function provideDirsAndSprintfs(): array {
-        $dirs = $this->provideLocaleDirs();
+        $dirs = self::provideLocaleDirs();
         $formats = $this->provideSprintfStrings();
 
         $r = [];
@@ -322,7 +322,7 @@ class SmokeTest extends AbstractLocalesTest {
                 continue;
             }
 
-            $sprintfs = $this->getSprintfs($value);
+            $sprintfs = self::getSprintfs($value);
             if (!empty($sprintfs)) {
                 $r[$key] = [$key, $value, $sprintfs];
             }
