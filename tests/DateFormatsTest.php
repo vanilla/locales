@@ -16,10 +16,10 @@ namespace Garden\Locales\Tests;
  * $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
  * $Definition['Date.DefaultYearFormat'] = '%B %Y';
  */
-class DateFormatsTest extends AbstractLocalesTest {
+class DateFormatsTest extends AbstractLocalesTestCase {
     protected static $testTime;
 
-    public static function setUpBeforeClass() {
+    public static function setUpBeforeClass(): void {
         parent::setUpBeforeClass();
         self::$testTime = strtotime('2019-09-25 12:25 PM EDT');
     }

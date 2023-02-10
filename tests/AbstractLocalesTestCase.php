@@ -12,20 +12,20 @@ use PHPUnit\Framework\TestCase;
 /**
  * Base functionality for locale tests.
  */
-abstract class AbstractLocalesTest extends TestCase {
+abstract class AbstractLocalesTestCase extends TestCase {
     const BASEDIR = __DIR__.'/..';
     const RESOURCE_FILES = ['dash_core.php', 'dash_text.php', 'site_core.php', 'site_kb.php'];
 
     private $cache = [];
 
     /**
-     * Get all of the locale directories.
+     * Get all the locale directories.
      *
      * - $path
      *
      * @return array Returns a data provider.
      */
-    public function provideLocaleDirs() {
+    public static function provideLocaleDirs() {
         $dirs = glob(self::BASEDIR.'/vf_*');
         $r = [];
 
@@ -39,7 +39,7 @@ abstract class AbstractLocalesTest extends TestCase {
     }
 
     /**
-     * Load all of the translations for a locale directory.
+     * Load all the translations for a locale directory.
      *
      * @param string $dir The directory to load.
      * @return array Returns an array of translations.
@@ -86,14 +86,14 @@ abstract class AbstractLocalesTest extends TestCase {
     }
 
     /**
-     * Returns a a data provider in the form:
+     * Returns a data provider in the form:
      *
      * - $filename
      * - $resourceName
      *
      * @return array
      */
-    public function provideResources(): array {
+    public static function provideResources(): array {
         $r = [];
         foreach (self::RESOURCE_FILES as $file) {
             if ($file === 'missing.php') {
@@ -113,9 +113,9 @@ abstract class AbstractLocalesTest extends TestCase {
      *
      * @return array
      */
-    public function provideLocalesAndResources(): array {
-        $localeDirs = $this->provideLocaleDirs();
-        $resourceDirs = $this->provideResources();
+    public static function provideLocalesAndResources(): array {
+        $localeDirs = self::provideLocaleDirs();
+        $resourceDirs = self::provideResources();
 
         $r = [];
         foreach ($localeDirs as $locale => [$localeDir]) {
