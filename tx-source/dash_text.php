@@ -260,6 +260,8 @@ $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is f
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We recommend mostly positive reactions to encourage participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
+$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Whether or not the internal profile fields will be included in this webhook.';
+$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Whether or not the private profile fields will be included in this webhook.';
 $Definition['Which reactions you use really depends on your community.'] =
     'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
 
