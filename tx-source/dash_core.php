@@ -446,6 +446,8 @@ $Definition['If enabled, the full content of posts will be sent in email notific
 $Definition['Inbox Page'] = 'Inbox Page';
 $Definition['Include Child Categories'] = 'Include Child Categories';
 $Definition['Include full post in email notifications'] = 'Include full post in email notifications';
+$Definition['Include internal profile fields'] = 'Include internal profile fields';
+$Definition['Include private profile fields'] = 'Include private profile fields';
 $Definition['Include Subcategories'] = 'Include Subcategories';
 $Definition['Include Subdomains'] = 'Include Subdomains';
 $Definition['Indexes'] = 'Indexes';
