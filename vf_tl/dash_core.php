@@ -34,6 +34,7 @@ $Definition['Allow users to change their own avatars'] = 'Payagan ang mga user n
 $Definition['Allow users to dismiss this message'] = 'Payagan ang mga gumagamit na balewalain ang mensaheng ito.';
 $Definition['All Time'] = 'Lahat ng oras';
 $Definition['An enabled message will be visible on the site.'] = 'Isang pinaganang mensahe ang makikita sa site.';
+$Definition['API Label is required'] = 'Kinakailangan ang Label ng API';
 $Definition['API SSO Expand Permission'] = 'API SSO Palawakin ang Pahintulot';
 $Definition['Applicant'] = 'Aplikante';
 $Definition['applicant'] = 'aplikante';
@@ -187,6 +188,7 @@ Sundin ang link sa ibaba upang mag-log in.';
 
 $Definition['Keyword Blocker'] = 'Pangharang ng Keyword';
 
+$Definition['Label is required'] = 'Kinakailangan ang label';
 $Definition['Large images will be scaled down.'] = 'Ang mga malalaking larawan ay susukatin sa pinakamalaking lapad na %spx at pinakamataas na taas na %spx';
 $Definition['Last Day'] = 'Huling araw';
 $Definition['Last Month'] = 'Noong nakaraang buwan';
@@ -254,6 +256,7 @@ $Definition['permissions.everyone'] = 'Lahat ';
 $Definition['permissions.member'] = 'Member';
 $Definition['permissions.moderator'] = 'Moderator';
 $Definition['Personal Info'] = 'Personal na Impormasyon';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'Mangyaring maglagay ng natatanging Label ng API, ito ay nagamit na dati';
 $Definition['Points'] = 'Mga Puntos';
 $Definition['Post External Links'] = 'Mag-post ng Mga Panlabas na Link';
 $Definition['Posting'] = 'Ipino-post';
