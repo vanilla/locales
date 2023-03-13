@@ -1,26 +1,27 @@
 [main]
 host = https://www.transifex.com
 
-[vanilla.site-core-php--transifex]
-file_filter = tx/<lang>/site_core.php
-source_file = tx-source/site_core.php
-source_lang = en
-type = PHP_ALT_ARRAY
-
-[vanilla.dash-core-php--transifex]
+[o:vanilla:p:vanilla:r:dash-core-php--transifex]
 file_filter = tx/<lang>/dash_core.php
 source_file = tx-source/dash_core.php
 source_lang = en
-type = PHP_ALT_ARRAY
+type        = PHP_ALT_ARRAY
 
-[vanilla.dash-text-php--transifex]
+[o:vanilla:p:vanilla:r:dash-text-php--transifex]
 file_filter = tx/<lang>/dash_text.php
 source_file = tx-source/dash_text.php
 source_lang = en
-type = PHP_ALT_ARRAY
+type        = PHP_ALT_ARRAY
 
-[vanilla.site-kb-php--transifex]
+[o:vanilla:p:vanilla:r:site-core-php--transifex]
+file_filter = tx/<lang>/site_core.php
+source_file = tx-source/site_core.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:vanilla:p:vanilla:r:site-kb-php--transifex]
 file_filter = tx/<lang>/site_kb.php
 source_file = tx-source/site_kb.php
 source_lang = en
-type = PHP_ALT_ARRAY
+type        = PHP_ALT_ARRAY
+
