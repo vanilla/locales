@@ -1,7 +1,7 @@
 {
-    "name": "vanilla/locales",
-    "description": "Official locales for Vanilla Forums auto-generated from Transifex.",
-    "type": "vanilla-locales",
+	"name": "vanilla/locales",
+	"description": "Official locales for Vanilla Forums auto-generated from Transifex.",
+	"type": "vanilla-locales",
     "require": {
         "php": "^8.1"
     },
