@@ -810,7 +810,7 @@ $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '<strong>{GroupName}</strong> में {गिनती} नई घोषणाएं';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} ने एक नई चर्चा शुरू की <strong>{DiscussionName}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '<strong>{GroupName}</strong> में {गिनती} नई चर्चाएँ';
-$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{उपयोगकर्ता नाम} ने {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> में एक नई चर्चा शुरू की।';
+$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} ने {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> में एक नई चर्चा शुरू की।';
 $Definition['Height (mobile)']='ऊंचाई (मोबाइल)';
 $Definition['Hello!'] = 'नमस्कार!';
 $Definition['Hello %s!'] = 'नमस्कार %s!';
