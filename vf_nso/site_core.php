@@ -807,7 +807,7 @@ $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{bala} ditsebišo tše mpsha go <strong>{GroupName} .</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,modiriši} e thomile poledišano ye mpsha <strong>{Leina la Poledišano}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{bala} dipoledišano tše mpsha go <strong>{GroupName} .</strong>';
-$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Leina la mosediriši} e thomile poledišano ye mpsha go {Leina la Sehlopha}: <a href=\'{DiscussionUrl}\'>{Leina la Poledišano}</a> .';
+$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} e thomile poledišano ye mpsha go {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';
 $Definition['Height (mobile)']='Bophahamo (mobile) .';
 $Definition['Hello!'] = 'Thobela!';
 $Definition['Hello %s!'] = 'Thobela %s!';
