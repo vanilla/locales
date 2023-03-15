@@ -652,8 +652,8 @@ $Definition['Register for Membership'] = 'Regístrate para ser miembro';
 $Definition['Register Url'] = 'Registrar URL';
 $Definition['Registration'] = 'Registro';
 $Definition['Registration is currently closed.'] = 'El registro está cerrado actualmente.';
-$Definition['Reload the page to see recent updates.'] = 'Recarga la página para ver las actualizaciones recientes.';
-$Definition['Reload the page to access recent updates.'] = 'Recarga la página para acceder a las últimas actualizaciones.';
+$Definition['Reload the page to see recent updates.'] = 'Vuelva a cargar la página para ver las actualizaciones recientes.';
+$Definition['Reload the page to access recent updates.'] = 'Vuelva a cargar la página para acceder a las actualizaciones recientes.';
 $Definition['Remove Banner Logo'] = 'Remover el logo del banner';
 $Definition['Remove Email Logo'] = 'Quitar el logo del correo electrónico';
 $Definition['Remove Favicon'] = 'Eliminar Icono de Favorito';
@@ -859,7 +859,7 @@ $Definition['UserKeep'] = 'Mantener el contenido del usuario';
 $Definition['UserKeepMessage'] = 'Eliminar al usuario pero mantener el contenido del usuario';
 $Definition['Username or UserID to Spoof'] = 'Nombre de usuario o ID de usuario para Spoof';
 $Definition['User Registration Settings'] = 'Configuración de Registro de Usuario';
-$Definition['User successfully added.'] = 'Usuario agregado con éxito.';
+$Definition['User successfully added.'] = 'Usuario añadido con éxito.';
 $Definition['User successfully updated.'] = 'Usuario actualizado correctamente.';
 $Definition['Users that get this reaction get %+d point.'] = 'Los usuarios que obtengan esta reacción tendrán %+d punto.';
 $Definition['Users that get this reaction get %+d points.'] = 'Los usuarios que obtengan esta reacción tendrán %+d puntos.';
@@ -964,10 +964,10 @@ $Definition['Show an uploaded image on the Category page.'] = 'Cada discusión m
 $Definition['Upload Placeholder Image'] = 'Subir imagen de marcador';
 
 // Profile Fields
-$Definition['There was an error saving your changes. Please try again.'] = 'Se ha producido un error al guardar los cambios. Inténtalo de nuevo.';
-$Definition["<0/> has been <1/>"] = "<0/> has sido <1/>";
-$Definition["enabled"] = "habilitado";
+$Definition['There was an error saving your changes. Please try again.'] = 'Hubo un error al guardar los cambios. Inténtalo de nuevo.';
+$Definition["<0/> has been <1/>"] = "<0/> ha sido <1/>";
+$Definition["enabled"] = "activado";
 $Definition["disabled"] = "desactivado";
 
-$Definition["This information will only be shown to users with permission to view internal info"] = "Esta información solo se mostrará a los usuarios con permiso para ver información interna.";
-$Definition["This is private information and will not be shared with other members."] = "Esta información es privada y no se compartirá con otros miembros.";
+$Definition["This information will only be shown to users with permission to view internal info"] = "Esta información solo se mostrará a los usuarios con permiso para ver información interna";
+$Definition["This is private information and will not be shared with other members."] = "Esta es información privada y no será compartida con otros miembros.";

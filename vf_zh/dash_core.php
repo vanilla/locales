@@ -21,7 +21,7 @@ $Definition['%s user(s) will be affected by this action.'] = '此操作将会影
 
 $Definition['(less)'] = '（收缩）';
 $Definition['(more)'] = '（展开）';
-$Definition['(YYYY-mm-dd)'] = '（YYYY-mm-dd）';
+$Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
 
 $Definition['1 day'] = '1天';
 $Definition['1 hour'] = '1小时';
