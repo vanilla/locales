@@ -807,7 +807,7 @@ $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{cunnt} sanasan ùra ann an <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = 'Thòisich {ActivityUserID,user} còmhradh ùr <strong>{DiscussionName}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{cunnt} còmhraidhean ùra ann an <strong>{GroupName}</strong>';
-$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = 'Thòisich {username} còmhradh ùr ann an {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';
+$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = 'Thòisich {Username} còmhradh ùr ann an {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';
 $Definition['Height (mobile)']='Àirde (gluasadach)';
 $Definition['Hello!'] = 'Halò!';
 $Definition['Hello %s!'] = 'Halo %s!';
@@ -1841,7 +1841,7 @@ $Definition['User not found.'] = 'Sorry, no account could be found related to th
 $Definition['Invalid user/password provided.'] = 'Cleachdaiche/facal-faire mì-dhligheach air a thoirt seachad.';
 $Definition['Users'] = 'Users';
 $Definition['Users Count'] = 'Users Count';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Cleachd suas ri {maxImages, plural, ìomhaigh %s, ìomhaighean %s}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Cleachd suas gu {maxImages,plural,%s image, %s images}.';
 
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';
@@ -2012,7 +2012,7 @@ $Definition['You are not allowed to warn a user with the same permission level a
     'Chan eil cead agad rabhadh a thoirt do neach-cleachdaidh leis an aon ìre cead riut.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Tha thu a-nis a ’fàgail %1$s. Cliog air a ’cheangal gus leantainn air adhart gu %2$s.';
 $Definition['You are now signed in.'] = 'You are now signed in.';
-$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Chan eil cead agad ach {maxImages,plural, ìomhaigh %s, ìomhaighean %s}.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Chan eil cead agad ach {maxImages,plural,%s image,%s images}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'Tha thu toirmisgte a bhith a ’cleachdadh am feart dearmad.';
 $Definition['You are viewing %s\'s ignore list'] = 'Tha thu a ’coimhead air liosta %s';
 $Definition['you can also drag-and-drop'] = 'faodaidh tu cuideachd slaodadh is leigeil às';
