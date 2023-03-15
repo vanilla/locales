@@ -19,7 +19,7 @@ class SmokeTest extends AbstractLocalesTest {
     /**
      * @inheritDoc
      */
-    public function setUp() {
+    public function setUp(): void {
         parent::setUp();
         $this->source = $this->loadSourceTranslations();
     }

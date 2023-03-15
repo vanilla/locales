@@ -159,6 +159,7 @@ $Definition['Accepted'] = 'پذيرفته شده';
 $Definition['Accept this answer.'] = 'پذيرفتن اين پرسش.';
 $Definition['Access the Site'] = 'دسترسي به سايت';
 $Definition['Access Tokens'] = 'دسترسی به توکن ها';
+$Definition['Account & Privacy'] = 'حساب و حریم خصوصی';
 $Definition['Account Options'] = 'گزينه هاي حساب كاربري';
 $Definition['Actions'] = 'اقدامات';
 $Definition['Activate'] = 'فعالسازي';
@@ -242,6 +243,8 @@ $Definition['Analytics'] = 'آمار';
 $Definition['An archived file or files'] = 'پرونده یا پرونده های بایگانی شده';
 $Definition['Ancient Membership'] = 'عضو قديمي';
 $Definition['An error has occurred, please try again.'] = 'مشکلی پیش آمده است، لطفا دوباره تلاش نمایید!';
+$Definition['An error occurred updating your Email privacy setting.'] = 'هنگام به‌روزرسانی تنظیمات حریم خصوصی ایمیل شما خطایی روی داد.';
+$Definition['An error occurred updating your Profile privacy setting.'] = 'هنگام به‌روزرسانی تنظیمات حریم خصوصی نمایه شما خطایی روی داد.';
 $Definition['An image file'] = 'یک فایل تصویری';
 $Definition['Animals & Nature'] = 'حیوانات و طبیعت';
 $Definition['An invitation has already been sent to the email you entered.'] = 'يك دعوتنامه اي قبلا ً به ايميلي كه وارد كرده ايد ارسال شده است.';
@@ -426,6 +429,7 @@ $Definition['Completed'] = 'تكميل شد';
 $Definition['Completely delete the warning.'] = 'بطوركامل هشدار خذف شد.';
 $Definition['Confirm'] = 'تائيد كردن';
 $Definition['Confirm Deletion'] = 'حذف را تأیید کنید';
+$Definition['Confirmed'] = 'تایید شده';
 $Definition['Confirmed email address'] = 'آدرس ايميل تائيد شده';
 $Definition['Confirm Email'] = 'تائيد ايميل';
 $Definition['Confirm My Email Address'] = 'تائيد آدرس ايميل من';
@@ -536,6 +540,8 @@ $Definition['Discussion Type'] = 'گفتگو';
 $Definition['Dislike'] = 'خوشم نيومد';
 $Definition['Dismiss'] = 'حذف كردن';
 $Definition['Dismissible'] = 'رد کردن';
+$Definition['Display my email publicly'] = 'نمایش ایمیل من به صورت عمومی';
+$Definition['Display my profile publicly'] = 'نمایه من را به صورت عمومی نمایش دهید';
 $Definition['Documentation'] = 'مستندات';
 $Definition['Domain is invalid.'] = 'دامنه نامعتبر است';
 $Definition['Don\'t announce.'] = 'برجسته نکن';
@@ -564,6 +570,7 @@ $Definition['Edit Comment'] = 'ويرايش محتوا';
 $Definition['Edit Discussion'] = 'ويرايش گفتگو';
 $Definition['edited %s'] = 'ويرايش شده %s';
 $Definition['Edited %s by %s.'] = 'ويرايش شده %s توسط %s.';
+$Definition['Edit Email'] = 'ویرایش ایمیل';
 $Definition['Editing'] = 'درحال ويرايش';
 $Definition['Editing this field will require password entry'] = 'ویرایش این قسمت نیاز به رمز ورود دارد';
 $Definition['Edit My Account'] = 'ويرايش حساب كاربري من';
@@ -577,10 +584,12 @@ $Definition['editor.HtmlHelpText'] = 'شما ميتوانيد از <a href="http
 $Definition['editor.MarkdownHelpText'] = 'شما ميتوانيد از<a href="http://en.wikipedia.org/wiki/Markdown" target="_new">Markdown</a> در نوشته هاي خود استفاده كنيد.';
 $Definition['editor.TextHelpText'] = 'شما درحال استفاده از متن ساده در نوشته هاي خود هستيد.';
 $Definition['editor.WysiwygHelpText'] = 'شما در حال استفاده از <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">WYSIWYG</a> در نوشته هاي خود هستيد.';
+$Definition['Edit Password'] = 'ویرایش رمز عبور';
 $Definition['Edit Preferences'] = 'ويرايش تنظيمات';
 $Definition['Edit Profile'] = 'ويرايش پروفايل';
 $Definition['Edit Tag'] = 'ويرايش برچسب';
 $Definition['Edit Thumbnail'] = 'ويرايش بندانگشتي';
+$Definition['Edit Username'] = 'ویرایش نام کاربری';
 $Definition['Eighth Anniversary'] = 'هشتمين سالگرد';
 $Definition['Email'] = 'ايميل';
 $Definition['Email/Username'] = 'ايميل/ نام كاربري';
@@ -1101,6 +1110,7 @@ $Definition['Name of the Event'] = 'نام رويداد';
 $Definition['Name the Group'] = 'نامگذاري گروه';
 $Definition['Name Unavailable'] = 'نام موجود نيست';
 $Definition['Navigation'] = 'جهت یابی';
+$Definition['Needs Confirmation'] = 'نیاز به تایید دارد';
 $Definition['New'] = 'جدید';
 $Definition['new'] = 'جديد';
 $Definition['New %s'] = 'جديد %s';
@@ -1992,6 +2002,7 @@ $Definition['You are not allowed to ban a user that has higher permissions than 
 $Definition['You are not allowed to ban a user with the same permission level as you.'] = 'شما مجاز نیستید که کاربر را با همان سطح مجاز خود ممنوع کنید.';
 $Definition['You are not allowed to mark a user that has higher permissions than you as a troll.'] = 'شما مجاز به علامت گذاری به عنوان کاربر نیستید که دارای مجوزهای بالاتر از شما باشد.';
 $Definition['You are not allowed to mark a user with the same permission level as you as a troll.'] = 'شما مجاز نیستید که یک کاربر را با همان سطح مجاز به عنوان یک ترول علامت گذاری کنید.';
+$Definition['You are not allowed to post in categories with a display type of %s.'] = 'شما مجاز به ارسال در دسته هایی با نوع نمایش %s نیستید.';
 $Definition['You are not allowed to warn a user with higher permissions than you.'] = 'شما مجاز به هشدار به کاربر با مجوزهای بالاتر از خود نیستید.';
 $Definition['You are not allowed to warn a user with the same permission level as you.'] = 'شما مجاز به هشدار به یک کاربر با همان سطح مجاز خود نیستید.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'شما در حال ترك %1$s ميباشيد. براي ادامه به %2$s بر روي لينك كليك كنيد.';
@@ -2053,6 +2064,7 @@ $Definition['You need to confirm your email address before you can continue.'] =
 $Definition['You need to reset your password.'] = 'باید گذرواژه خود را دوباره تنظیم کنید. این به احتمال زیاد به این دلیل است که یک مدیر اخیراً اطلاعات حساب شما را تغییر داده است. برای تنظیم مجدد رمز عبور خود <a href="%s">اینجا را</a> کلیک کنید .';
 $Definition['You need to sign in before you can do this.'] = 'قبل از انجام اين كار بايد وارد سايت شويد.';
 $Definition['your'] = 'شما';
+$Definition['Your Account'] = 'حساب شما';
 $Definition['Your application for this group was denied.'] = 'درخواست شما براي اين گروه رد شد';
 $Definition['Your application will be reviewed by an administrator. You will be notified by email if your application is approved.'] = 'درخواست شما توسط يك مدير بررسي خواهد شد. اگر درخواست شما تائيد شود توسط ايميل مطلع خواهيد شد';
 $Definition['Your changes have been saved.'] = 'تغييرات شما ذخيره شد.';
@@ -2064,6 +2076,8 @@ $Definition['Your complaint has been registered.'] = 'شکایت شما ثبت �
 $Definition['Your discussion will appear after it is approved.'] = 'گقتگوی شما بعد از تابید نمایش داده خواهد شد';
 $Definition['Your email doesn\'t need confirmation.'] = 'ایمیل شما نیازی به تائید ندارد.';
 $Definition['Your email has been successfully confirmed.'] = 'ايميل شما با موفقيت تائيد شد.';
+$Definition['Your Email will be publicly displayed.'] = 'ایمیل شما به صورت عمومی نمایش داده خواهد شد.';
+$Definition['Your Email will not be publicly displayed.'] = 'ایمیل شما به صورت عمومی نمایش داده نخواهد شد.';
 $Definition['Your invitation has been sent.'] = 'دعوتنامه شما ارسال شد.';
 $Definition['Your old password was incorrect.'] = 'كلمه عبور قديمي شما نادرست است.';
 $Definition['Your password has been changed.'] = 'كلمه عبور شما تغيير كرد.';
@@ -2073,6 +2087,8 @@ $Definition['Your picture has been removed.'] = 'تصوير شما حذف شد.'
 $Definition['Your post will appear once it\'s been approved.'] = 'هنگامي كه نوشته شما تائيد شد نمايش داده ميشود.';
 $Definition['Your preferences have been saved.'] = 'تنظيمات شما ذخيره شد.';
 $Definition['Your private conversations with other members.'] = 'گفتگوهاي خصوصي شما با ديگر كاربران';
+$Definition['Your Profile will be publicly displayed.'] = 'نمایه شما به صورت عمومی نمایش داده خواهد شد.';
+$Definition['Your Profile will not be publicly displayed.'] = 'نمایه شما به صورت عمومی نمایش داده نخواهد شد.';
 $Definition['Your registered username: <strong>%s</strong>'] = 'نام كاربري ثبت شده شما: <strong>%s</strong>';
 $Definition['Your request has been sent.'] = 'درخواست شما ارسال شد. ايميل خود را براي دستورالعمل هاي بعدي بررسي نماييد.';
 $Definition['Your request is pending. You\'ll be notified when its status changes.'] = 'درخواست شما در انتظار است. هنگامی که وضعیت آن تغییر کند به شما اطلاع داده می شود.';

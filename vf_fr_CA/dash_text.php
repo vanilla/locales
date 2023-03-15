@@ -26,6 +26,7 @@ $Definition['Apply Layout'] = 'Appliquer la mise en page';
 $Definition['Are you sure want to delete this theme? It will be permanently deleted.'] = 'Voulez-vous vraiment supprimer ce thème? Il sera définitivement supprimé.';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
 $Definition['A role with default type "unconfirmed" is required to use email confirmation.'] = 'Un statut de type « non-confirmé » est nécessaire pour utiliser la confirmation mail.';
+$Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Enregistrer automatiquement les brouilles des discussions, questions, idées et réponses non publiés.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Les avatars seront réduits s\'ils dépassent cette hauteur.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Les avatars seront réduits s\'ils dépassent cette largeur.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Les avatars verront leurs vignettes enregistrées à cette taille.';
@@ -326,6 +327,8 @@ $Definition['We recommend mostly positive reactions to encourage participation.'
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Lorsqu\'elle est activée, vous pouvez gérer les produits et regrouper les sous-communautés par ces produits.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Lorsque quelqu\'un partage un lien depuis votre site, nous essayons de récupérer une image de la page. S\'il n\'y a pas d\'image sur la page, nous utiliserons cette image à la place. L\'image doit être d\'au moins 50 × 50, mais nous recommandons 200 × 200.';
 $Definition['When you select Full Bleed, your background is transparent.'] = 'Lorsque vous sélectionnez Fond perdu, votre arrière-plan est transparent.';
+$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Pour choisir si les champs de profil internes sont inclus dans cet élément.';
+$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Pour choisir si les champs de profil privés sont inclus dans cet élément.';
 $Definition['Which reactions you use really depends on your community.'] = 'Les réactions que vous utilisez dépendent vraiment de votre communauté, mais nous vous recommandons de garder quelques points à l\'esprit.';
 
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Vous êtes sur le point d\'appliquer une nouvelle option de mise en page. Celle-ci peut être personnalisée et prévisualisée à l\'aide de notre éditeur de thème. <0>En savoir plus</0>.';

@@ -34,6 +34,7 @@ $Definition['Allow users to change their own avatars'] = 'Leig le luchd-cleachda
 $Definition['Allow users to dismiss this message'] = 'Leig le luchd-cleachdaidh an teachdaireachd seo a chuir às.';
 $Definition['All Time'] = 'Fad na h-ùine';
 $Definition['An enabled message will be visible on the site.'] = 'Bidh teachdaireachd le comas ri fhaicinn air an làrach.';
+$Definition['API Label is required'] = 'Tha feum air leubail API';
 $Definition['API SSO Expand Permission'] = 'Cead Leudaich API SSO';
 $Definition['applicant'] = 'tagraiche';
 $Definition['Applicant Role'] = 'Select the role that should be applied for new applicants. This only applies if you have the <b>approval</b> registration method.';
@@ -182,6 +183,7 @@ Follow the link below to log in.';
 
 $Definition['Keyword Blocker'] = 'Blocker prìomh fhacal';
 
+$Definition['Label is required'] = 'Tha feum air suaicheantas';
 $Definition['Large images will be scaled down.'] = 'Thèid ìomhaighean mòra a sgèile sìos gu leud as motha de %spx agus àirde as àirde de %spx.';
 $Definition['Last Day'] = 'Latha mu dheireadh';
 $Definition['Last Month'] = 'A ’mhìos a chaidh seachad';
@@ -248,6 +250,7 @@ $Definition['permissions.everyone'] = 'A h-uile duine';
 $Definition['permissions.member'] = 'Member';
 $Definition['permissions.moderator'] = 'Moderator';
 $Definition['Personal Info'] = 'Fiosrachadh pearsanta';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'Feuch an cuir thu a-steach leubail API sònraichte, chaidh am fear seo a chleachdadh roimhe seo';
 $Definition['Post External Links'] = 'Ceanglaichean post taobh a-muigh';
 $Definition['Post Format'] = 'Cruth a ’phuist';
 $Definition['Posting'] = 'Postadh';
