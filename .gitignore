@@ -17,3 +17,4 @@ tx/*
 .DS_Store
 vendor
 *.swp
+.phpunit.result.cache
