@@ -24,6 +24,7 @@ $Definition['Allow users with the %s permission to change their own avatars from
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Apply Layout'] = 'Apply Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
+$Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Automatically save drafts of unpublished discussions, questions, ideas and comments.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatars will be scaled down if they exceed this height.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatars will be scaled down if they exceed this width.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatars will have their thumbnails saved at this size.';
@@ -259,6 +260,8 @@ $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is f
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We recommend mostly positive reactions to encourage participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
+$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Whether or not the internal profile fields will be included in this webhook.';
+$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Whether or not the private profile fields will be included in this webhook.';
 $Definition['Which reactions you use really depends on your community.'] =
     'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
 

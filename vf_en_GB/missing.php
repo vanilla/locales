@@ -16,6 +16,7 @@ $Definition['Abilites'] = 'Abilities';
 $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
+$Definition['Account & Privacy'] = 'Account &amp; Privacy';
 $Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s accepted %4$s %8$s.';
 $Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s commented on your %8$s.';
 $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s commented on your %8$s.';
@@ -376,6 +377,8 @@ $Definition['PreferenceGroupInviteEmail'] = 'Notify me when I am invited to a gr
 $Definition['PreferenceGroupInvitePopup'] = 'Notify me when I am invited to a group.';
 $Definition['PreferenceGroupJoinRequestEmail'] = 'Notify me when users apply to join my group.';
 $Definition['PreferenceGroupJoinRequestPopup'] = 'Notify me when users apply to join my group.';
+$Definition['PreferenceGroupNewDiscussionEmail'] = 'Notify me of new discussions in groups I am a member of.';
+$Definition['PreferenceGroupNewDiscussionPopup'] = 'Notify me of new discussions in groups I am a member of.';
 $Definition['PreferenceGroupRequestApprovedEmail'] = 'Notify me when my group membership request is approved.';
 $Definition['PreferenceGroupRequestApprovedPopup'] = 'Notify me when my group membership request is approved.';
 $Definition['PreferenceRankEmail'] = 'Notify me when my rank changes.';

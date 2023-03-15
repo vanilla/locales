@@ -33,6 +33,8 @@ $Definition['4 hours'] = '٤ ساعات';
 $Definition['5 minutes'] = '٥ دقائق';
 $Definition['15 minutes'] = '١٥ دقيقة';
 
+$Definition['<0/> has been <1/>'] = '<0 /> كان <1 />';
+
 $Definition['[%s] Confirm Your Email Address'] = '[%s] أكد عنوان بريدك الإلكتروني';
 $Definition['[%s] Invitation'] = 'دعوة [%s]';
 $Definition['[%s] Password Reset'] = '[%s] إستعادة كلمة الدخول';
@@ -100,6 +102,7 @@ $Definition['Allow users to dismiss this message'] = 'السماح للمستخ�
 $Definition['All Pages'] = 'كل الصفحات';
 $Definition['All Time'] = 'كل الوقت';
 $Definition['An enabled message will be visible on the site.'] = 'سوف تظهر رسالة مُمَكَّنة على الموقع.';
+$Definition['API Label is required'] = 'مطلوب تسمية API';
 $Definition['API SSO Expand Permission'] = 'API SSO توسيع الإذن';
 $Definition['API Status'] = 'حالة API';
 $Definition['Appearance'] = 'المظهر';
@@ -279,6 +282,7 @@ $Definition['Did You Know?'] = 'هل كنت تعلم؟';
 $Definition['Disable'] = 'تعطيل';
 $Definition['Disable Content Flagging'] = 'تعطيل الإبلاغ عن المحتوى';
 $Definition['Disabled'] = 'معاق';
+$Definition['disabled'] = 'عاجز';
 $Definition['Disabled %1$s'] = 'تعطيل %1$s';
 $Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'تعطيل: <b>لن</b> يتم عرض جيب.';
 $Definition['Disable Forum Pages'] = 'تعطيل صفحات المنتدى';
@@ -335,6 +339,7 @@ $Definition['Enable'] = 'تفعيل';
 $Definition['Enable/Disable'] = 'تفعيل/تعطيل';
 $Definition['Enable admin checkboxes on discussions and comments.'] = 'تمكين مربعات اختيار المسؤول في المناقشات والتعليقات.';
 $Definition['Enable checkboxes on discussions and comments'] = 'تمكين خانات الاختيار على المناقشات والتعليقات';
+$Definition['enabled'] = 'ممكن';
 $Definition['Enabled %1$s'] = 'مفعل %1$s';
 $Definition['Enabled: The pocket will be displayed.'] = 'ممكّن: سيتم عرض الجيب.';
 $Definition['Enable embedding to use blog comments.'] = 'لكي يعمل هذا ، ستحتاج إلى تمكين التضمين.';
@@ -428,7 +433,6 @@ $Definition['Heads up!'] = 'انتباه!';
 $Definition['Height'] = 'الارتفاع';
 $Definition['Help &amp; Tutorials'] = 'المساعدة والبرامج التعليمية';
 $Definition['Here\'s how to get started:'] = 'إليك كيفية البدء:';
-$Definition['Hide from the recent discussions page.'] = 'إخفاء من صفحة المواضيع الجديدة.';
 $Definition['Hide Pocket Locations'] = 'إخفاء مواقع الجيب';
 $Definition['Hide signatures for guests'] = 'إخفاء التوقيعات للضيوف';
 $Definition['Hide signatures on embedded comments'] = 'إخفاء التوقيعات في التعليقات المضمنة';
@@ -468,6 +472,7 @@ $Definition['Key Value'] = 'القيمة الرئيسية';
 $Definition['Keyword Blocker'] = 'مانع الكلمات المفتاحية';
 
 $Definition['Label'] = 'ملصق';
+$Definition['Label is required'] = 'التصنيف مطلوب';
 $Definition['Label this Revision'] = 'قم بتسمية هذه المراجعة';
 $Definition['Large images will be scaled down.'] = 'سوف يتم تصغير حجم الصور الكبيرة حتى نصل إلى أقصى عرض لـ %spx وأقصى ارتفاع لـ %spx.';
 $Definition['Last Day'] = 'بالأمس';
@@ -604,6 +609,7 @@ $Definition['permissions.member'] = 'Member';
 $Definition['permissions.moderator'] = 'مشرف';
 $Definition['Personal Info'] = 'المعلومات الشخصية';
 $Definition['Please Confirm'] = 'يرجى تأكيد';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'الرجاء إدخال عنوان API فريد ، وقد تم استخدام هذا من قبل';
 $Definition['Plugin'] = 'إضافات';
 $Definition['Plugins'] = 'الإضافات';
 $Definition['Points'] = 'النقاط';
@@ -634,6 +640,8 @@ $Definition['Register Url'] = 'رابط التسجيل';
 $Definition['Registration'] = 'التسجيل';
 $Definition['Registration is currently closed.'] = 'التسجيل مغلق الآن.';
 $Definition['Reinterpret All Posts As %s'] = 'إعادة تفسير كافة المنشورات كـ%s';
+$Definition['Reload the page to access recent updates.'] = 'أعد تحميل الصفحة للوصول إلى التحديثات الأخيرة.';
+$Definition['Reload the page to see recent updates.'] = 'أعد تحميل الصفحة لمشاهدة التحديثات الأخيرة.';
 $Definition['Remove Banner Logo'] = 'إزالة شعار الشعار';
 $Definition['Remove Email Logo'] = 'حذف شعار البريد الإلكتروني';
 $Definition['Remove Favicon'] = 'إزالة فافيكون';
@@ -748,6 +756,7 @@ $Definition['There are no items awaiting moderation at this time.'] = 'لا تو
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'يوجد بالفعل حساب في هذا المنتدى باستخدام عنوان بريدك الإلكتروني. يرجى إنشاء حساب جديد ، أو إدخال بيانات الاعتماد للحساب الحالي.';
 $Definition['There is currently %s applicant.'] = 'يوجد حالياً %s متقدماً. ';
 $Definition['There is currently %s request.'] = 'يوجد حالياً %s طلباً. ';
+$Definition['There was an error saving your changes. Please try again.'] = 'كان هناك خطأ في حفظ التغييرات الخاصة بك. حاول مرة اخرى.';
 $Definition['The site description usually appears in search engines.'] = 'عادة ما يظهر وصف الموقع في محركات البحث. يجب أن تحاول الحصول على وصف يتكون من 100-150 حرفًا.';
 $Definition['The site is currently undergoing scheduled maintenance.'] = 'يخضع الموقع حاليًا للصيانة المجدولة.';
 $Definition['The specified url code is already in use by another category.'] = 'الرابط المطلوب مستخدم من قبل قسم آخر.';
@@ -770,7 +779,9 @@ $Definition['This Database'] = 'قاعدة البيانات هذه';
 $Definition['This forum is currently set to invitation only mode.'] = 'هذا المنتدى مضبوط حاليًا على وضع الدعوة فقط.';
 $Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'ستظهر هذه الصورة في لافتة هذه الفئة وفي أدوات الفئة عند استخدام خيارات نمط "الصورة" و / أو "الخلفية". الأبعاد الموصى بها هي حوالي 1000 × 400 بكسل أو نسبة مماثلة.';
 $Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'سيتم استخدام هذه الصورة في قوائم الفئات وعناصر واجهة المستخدم عند استخدام خيار نمط "الرمز".';
+$Definition['This information will only be shown to users with permission to view internal info'] = 'سيتم عرض هذه المعلومات فقط للمستخدمين الذين لديهم إذن لعرض المعلومات الداخلية';
 $Definition['This is a parent category that does not allow discussions.'] = 'هذه فئة رئيسية لا تسمح بإجراء مناقشات.';
+$Definition['This is private information and will not be shared with other members.'] = 'هذه معلومات خاصة ولن يتم مشاركتها مع الأعضاء الآخرين.';
 $Definition['This option is to normalize the editor format'] = 'هذا الخيار هو تطبيع تنسيق المحرر ، إذا تم تحرير المنشورات القديمة بتنسيق آخر ، مثل تخفيض السعر أو BBCode ، فإن هذا الخيار سيفرض%s.';
 $Definition['This page requires Javascript.'] = 'تتطلب هذه الصفحة جافا سكريبت.';
 $Definition['This pocket is an ad.'] = 'هذا الجيب هو أحد الإعلانات.';
@@ -816,6 +827,8 @@ $Definition['Username or UserID to Spoof'] = 'اسم المستخدم أو مع�
 $Definition['User Registration Settings'] = 'إعدادات تسجيل المستخدم';
 $Definition['Users that get this reaction get %+d point.'] = 'يحصل المستخدمون الذين يحصلون على رد الفعل هذا على نقطة %+d';
 $Definition['Users that get this reaction get %+d points.'] = 'المستخدمون الذين يحصلون على رد الفعل هذا يحصلون على نقاط %+d';
+$Definition['User successfully added.'] = 'تمت إضافة المستخدم بنجاح.';
+$Definition['User successfully updated.'] = 'تم تحديث المستخدم بنجاح.';
 $Definition['User Summary'] = 'ملخص المستخدم';
 $Definition['Users will be assigned to this role until they\'ve confirmed their email addresses.'] = 'سيتم تعيين المستخدمين لهذا الدور حتى يؤكدوا عناوين بريدهم الإلكتروني.';
 $Definition['Users will be redirected to this URL after accepting an invitation.'] = 'سيتم إعادة توجيه المستخدمين إلى عنوان URL هذا بعد قبول الدعوة. يمكن أن يكون عنوان URL كاملاً أو مساراً لإعادة التوجيه داخل الموقع.';

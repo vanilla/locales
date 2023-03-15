@@ -41,6 +41,7 @@ $Definition['Allow users to change their own avatars'] = 'Gi brukere tillatelse 
 $Definition['Allow users to dismiss this message'] = 'Tillat at brukere avviser denne meldingen.';
 $Definition['All Time'] = 'Hele tiden';
 $Definition['An enabled message will be visible on the site.'] = 'En "aktivert"-melding vil være synlig på nettstedet.';
+$Definition['API Label is required'] = 'API-etikett er påkrevd';
 $Definition['API SSO Expand Permission'] = 'API SSO Utvid tillatelse';
 $Definition['Appearance'] = 'Synlighet';
 $Definition['Applicant'] = 'Søker rolle';
@@ -206,6 +207,7 @@ Check out the new community forum I\'ve just set up. It\'s a great place for us 
 Follow the link below to log in.';
 
 $Definition['Label'] = 'Merke';
+$Definition['Label is required'] = 'Etikett kreves';
 $Definition['Large images will be scaled down.'] = 'Store bilder vil nedskaleres til en maksbredde på %spx og makshøyde på %spx.';
 $Definition['Last Day'] = 'Siste dag';
 $Definition['Last Month'] = 'Forrige måned';
@@ -287,6 +289,7 @@ $Definition['permissions.everyone'] = 'Alle';
 $Definition['permissions.member'] = 'Medlem';
 $Definition['permissions.moderator'] = 'Moderator';
 $Definition['Personal Info'] = 'Personlig informasjon';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'Vennligst skriv inn en unik API-etikett, denne har blitt brukt før';
 $Definition['Points'] = 'Poeng';
 $Definition['Post External Links'] = 'Post eksterne lenker';
 $Definition['Post Format'] = 'Publiseringsformat';

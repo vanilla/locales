@@ -1,15 +1,16 @@
 <?php
 
+$Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" nenalezeno.';
 $Definition['%1$s Version %2$s'] = '%1$s verze %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s verse %2$s je k dispozici.';
-$Definition['%s is not a valid email address'] = '%s není platní e-mailová adresa';
+$Definition['%s is not a valid email address'] = '%s není platná e-mailová adresa';
 $Definition['%s is required'] = 'Je vyžadováno %s';
 $Definition['%s item in queue'] = '%s ve frontě';
 $Definition['%s level'] = '%s úroveň';
 $Definition['%s levels'] = '%s úrovně';
 $Definition['%s must be numeric'] = '%s musí mít numerickou hodnotu';
 $Definition['%s site(s) found.'] = '%s stránka(y) nalezeno.';
-$Definition['%s sources(s) found.'] = '%s zdrojů nalezeno.';
+$Definition['%s sources(s) found.'] = '%s zdroj(ů) nalezeno.';
 $Definition['%s times'] = '%s ×';
 $Definition['%s unavailable'] = '%s nedostupný';
 $Definition['%s user(s) found.'] = '%s uživatelů nalezeno.';
@@ -82,6 +83,7 @@ $Definition['Allow users to dismiss this message'] = 'Povolit uživatelům, aby 
 $Definition['All Pages'] = 'Všechny stránky';
 $Definition['All Time'] = 'Pořád';
 $Definition['An enabled message will be visible on the site.'] = 'Aktivovaná zpráva bude viditelná na stránce.';
+$Definition['API Label is required'] = 'Je vyžadován štítek API';
 $Definition['API SSO Expand Permission'] = 'Oprávnění k rozbalení API SSO';
 $Definition['API Status'] = 'Stav API';
 $Definition['Appearance'] = 'Vzhled';
@@ -260,6 +262,7 @@ Follow the link below to log in.';
 $Definition['Keyword Blocker'] = 'Blokování klíčových slov';
 
 $Definition['Label'] = 'Název';
+$Definition['Label is required'] = 'Je vyžadován štítek';
 $Definition['Large images will be scaled down.'] = 'Velké obrázky budou zmenšeny na maximální šířku podle %spx a maximální výšku podle %spx.';
 $Definition['Last Day'] = 'Poslední den';
 $Definition['Last Month'] = 'Minulý měsíc';
@@ -336,6 +339,7 @@ $Definition['permissions.everyone'] = 'Každý';
 $Definition['permissions.member'] = 'Člen';
 $Definition['permissions.moderator'] = 'Moderátor';
 $Definition['Personal Info'] = 'Osobní informace';
+$Definition['Please enter a unique API Label, this one has been used before'] = 'Zadejte prosím jedinečný štítek API, tento byl již dříve použit.';
 $Definition['Points'] = 'Body';
 $Definition['Post External Links'] = 'Zveřejnit externí odkazy';
 $Definition['Post Format'] = 'Formát příspěvku';

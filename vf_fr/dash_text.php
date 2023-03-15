@@ -27,6 +27,7 @@ $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Apply Layout'] = 'Appliquer la mise en page';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
+$Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Enregistrer automatiquement les brouilles des discussions, questions, idées et réponses non publiés.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Les avatars seront réduits s\'ils dépassent cette hauteur.
 ';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Les avatars seront réduits s\'ils dépassent cette largeur.
@@ -290,6 +291,8 @@ $Definition['Warning: This is for advanced users.'] = '<b>Avertissement</b>: Ces
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Nous recommandons surtout des réactions positives pour encourager la participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Lorsque cette fonctionnalité est activée, vous pouvez gérer des produits et regrouper des sous-communautés en fonction de ces produits.';
+$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Pour choisir si les champs de profil internes sont inclus dans cet élément.';
+$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Pour choisir si les champs de profil privés sont inclus dans cet élément.';
 $Definition['Which reactions you use really depends on your community.'] =
     'Les réactions que vous utilisez dépendent vraiment de votre communauté, mais nous vous recommandons de garder quelques points à l\'esprit.';
 
