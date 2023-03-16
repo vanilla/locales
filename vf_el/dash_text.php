@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Το θέμα του κινητού σας θα απενεργοποιηθεί. Για να ορίσετε διαφορετικά θέματα για κινητά και επιτραπέζιους υπολογιστές, χρησιμοποιήστε το παλιό περιβάλλον εργασίας θεμάτων.";
 $Definition["Heads Up!"] = "Ενημέρωση!";
-$Definition["Welcome to Vanilla's theming UI."] = "Καλώς ήλθατε στο θεματικό περιβάλλον εργασίας της Vanilla. Αυτή η σελίδα απαριθμεί όλα τα διαθέσιμα θέματα και σας επιτρέπει να τα αντιγράψετε ή να τα επεξεργαστείτε.";
-$Definition["Some older themes don't support full editing capability."] = "Ορισμένα παλαιότερα θέματα δεν υποστηρίζουν πλήρη δυνατότητα επεξεργασίας. Για να δείτε τι υποστηρίζει ένα θέμα, μπορείτε να τοποθετήσετε το δείκτη του ποντικιού πάνω από το όνομά του για να δείτε πού θα εφαρμοστούν οι τροποποιήσεις.";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Χρειάζεστε κι άλλη βοήθεια;";
 $Definition["Theming Guide"] = "Οδηγός θεμάτων";
 $Definition["Old Theming UI"] = "Old Theming UI";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Ενεργοποιήστε και δοκιμάστε τις πιο πρόσφατες δυνατότητες της Βανίλιας.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'Σημείωση Το εργαστήριο <0/> πρέπει να διαμορφωθεί ώστε να ταιριάζει με το προσαρμοσμένο θέμα σας. Αυτό μπορεί να γίνει χρησιμοποιώντας το νέο πρόγραμμα επεξεργασίας θεμάτων. <1> Μάθετε περισσότερα.</1>';
 $Definition['Usercards'] = 'Κάρτες χρήστη';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Οι κάρτες χρήστη σάς επιτρέπουν να λάβετε ένα γρήγορο στιγμιότυπο σε απευθείας σύνδεση με τις πληροφορίες ενός χρήστη. Κατά την προβολή αναρτήσεων και βαθμολογιών, κάντε κλικ στο όνομα χρήστη για να δείτε μια κάρτα που εμφανίζει τις βασικές πληροφορίες προφίλ των χρηστών χωρίς να χρειάζεται να απομακρυνθείτε από τη σελίδα. Ενεργοποιήστε αυτήν τη δυνατότητα για να προσθέσετε κάρτες χρηστών στο προσαρμοσμένο θέμα σας.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'Νέα σελίδα αναζήτησης';
-$Definition["Vanilla's new search service is finally here."] = "Η νέα υπηρεσία αναζήτησης της Βανίλιας είναι επιτέλους εδώ. Ενεργοποιήστε τη νέα διεπαφή χρήστη της σελίδας αναζήτησης για να αποκτήσετε πρόσβαση στις πιο πρόσφατες λειτουργίες αναζήτησης, όπως Αναζήτηση μελών, ταξινόμηση αναζήτησης και επισήμανση όρων.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Νέοι γρήγοροι σύνδεσμοι';
 $Definition['Quick Links is a default component on community pages.'] = "Οι Γρήγοροι σύνδεσμοι είναι ένα προεπιλεγμένο στοιχείο στις σελίδες κοινότητας. Ενεργοποιήστε το νέο στοιχείο Quick Links για προσθήκη, επεξεργασία ή απόκρυψη συνδέσμων από αυτό το μενού χρησιμοποιώντας τον επεξεργαστή θέματος.";
 
