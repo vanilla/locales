@@ -300,8 +300,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "आपकी मोबाइल थीम अक्षम हो जाएगी। विभिन्न मोबाइल और डेस्कटॉप थीम सेट करने के लिए, पुराने थीमिंग UI का उपयोग करें।";
 $Definition["Heads Up!"] = "सचेत!";
-$Definition["Welcome to Vanilla's theming UI."] = "वेनिला के थीम यूआई में आपका स्वागत है। यह पृष्ठ आपके सभी उपलब्ध विषयों को सूचीबद्ध करता है, और आपको उन्हें कॉपी या संपादित करने की अनुमति देता है।";
-$Definition["Some older themes don't support full editing capability."] = "कुछ पुराने विषय पूर्ण संपादन क्षमता का समर्थन नहीं करते हैं। यह देखने के लिए कि कोई थीम किसका समर्थन करती है आप उसके नाम पर होवर करके देख सकते हैं कि संपादन कहां प्रभावी होंगे।";
+$Definition["Welcome to Vanilla's theming UI."] = "वैनिला की थीमिंग यूआई में आपका स्वागत है। यह पृष्ठ आपके सभी उपलब्ध विषयों को सूचीबद्ध करता है, और आपको उन्हें कॉपी या संपादित करने की अनुमति देता है।";
+$Definition["Some older themes don't support full editing capability."] = "कुछ पुराने थीम पूर्ण संपादन क्षमता का समर्थन नहीं करते हैं। यह देखने के लिए कि कोई थीम आपको किस आधार पर सपोर्ट करती है, यह देखने के लिए उसके नाम पर होवर कर सकते हैं कि संपादन कहाँ प्रभावी होगा।";
 $Definition["Need More Help?"] = "क्या और मदद चाहिये?";
 $Definition["Theming Guide"] = "गमिंग गाइड";
 $Definition["Old Theming UI"] = "पुराने थेमिंग यूआई";
@@ -382,9 +382,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'नवीनतम वेनिला सुविधाओं को सक्षम और परीक्षण करें।';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB आपकी कस्टम थीम से मेल खाने के लिए <0/> लैब को कॉन्फ़िगर करने की आवश्यकता है। यह हमारे नए थीम संपादक का उपयोग करके किया जा सकता है। <1>और जानें।</1>';
 $Definition['Usercards'] = 'उपयोगकर्ता कार्ड';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "यूजरकार्ड आपको उपयोगकर्ता की जानकारी का त्वरित इन-लाइन स्नैपशॉट प्राप्त करने की अनुमति देते हैं। पोस्ट और लीडरबोर्ड देखते समय, पृष्ठ से दूर नेविगेट किए बिना उपयोगकर्ताओं की मूल प्रोफ़ाइल जानकारी दिखाने वाला कार्ड देखने के लिए उपयोगकर्ता नाम पर क्लिक करें। अपनी कस्टम थीम में यूजरकार्ड जोड़ने के लिए इस सुविधा को सक्षम करें।";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "उपयोगकर्ता कार्ड आपको उपयोगकर्ता की जानकारी का त्वरित इन-लाइन स्नैपशॉट प्राप्त करने की अनुमति देते हैं। पोस्ट और लीडरबोर्ड देखते समय, पृष्ठ से दूर नेविगेट किए बिना उपयोगकर्ताओं की मूल प्रोफ़ाइल जानकारी दिखाने वाला कार्ड देखने के लिए उपयोगकर्ता नाम पर क्लिक करें। अपनी कस्टम थीम में यूजरकार्ड जोड़ने के लिए इस सुविधा को सक्षम करें।";
 $Definition['New Search Page'] = 'नया खोज पृष्ठ';
-$Definition["Vanilla's new search service is finally here."] = "वेनिला की नई खोज सेवा अंत में यहाँ है। सदस्य खोज, खोज छँटाई और शब्द हाइलाइटिंग जैसी नवीनतम खोज सुविधाओं तक पहुँच प्राप्त करने के लिए हमारे नए खोज पृष्ठ UI को सक्षम करें।";
+$Definition["Vanilla's new search service is finally here."] = "वेनिला की नई खोज सेवा आखिरकार यहां है। सदस्य खोज, खोज सॉर्टिंग और शब्द हाइलाइटिंग जैसी नवीनतम खोज सुविधाओं तक पहुंच प्राप्त करने के लिए हमारे नए खोज पृष्ठ UI को सक्षम करें।";
 $Definition['New Quick Links'] = 'नए त्वरित लिंक';
 $Definition['Quick Links is a default component on community pages.'] = "त्वरित लिंक समुदाय पृष्ठों पर एक डिफ़ॉल्ट घटक है। हमारे थीम संपादक का उपयोग करके इस मेनू से लिंक जोड़ने, संपादित करने या छिपाने के लिए हमारे नए त्वरित लिंक घटक को सक्षम करें।";
 

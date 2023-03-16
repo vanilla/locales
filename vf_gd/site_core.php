@@ -804,7 +804,7 @@ $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingU
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Chaidh rabhadh a thoirt dhut.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Chaidh <a href="{Url,html}" class="Popup">rabhadh</a> a <a href="{Url,html}" class="Popup">thoirt</a> dhut.';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'Chuir {ActivityUserID,user} sanas suas ann an <strong>{GroupName}</strong>';
-$Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{cunnt} sanasan ùra ann an <strong>{GroupName}</strong>';
+$Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} sanasan ùra ann an <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = 'Thòisich {ActivityUserID,user} còmhradh ùr <strong>{DiscussionName}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{cunnt} còmhraidhean ùra ann an <strong>{GroupName}</strong>';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = 'Thòisich {Username} còmhradh ùr ann an {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';

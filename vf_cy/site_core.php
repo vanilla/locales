@@ -781,7 +781,7 @@ $Definition['HeadlineFormat.Warning'] = 'Rhybuddiodd {ActivityUserID, You} {Rega
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Rydych chi wedi cael eich rhybuddio.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Rydych chi wedi cael eich <a href="{Url,html}" class="Popup">rhybuddio</a> .';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'Postiodd {ActivityUserID,user} gyhoeddiad yn <strong>{GroupName}</strong>';
-$Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{cyfrif} cyhoeddiad newydd yn <strong>{GroupName}</strong>';
+$Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} cyhoeddiadau newydd yn <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = 'Dechreuodd {ActivityUserID,user} drafodaeth newydd <strong>{DiscussionName}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{cyfrif} trafodaeth newydd yn <strong>{GroupName}</strong>';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = 'Dechreuodd {Username} drafodaeth newydd yn {GroupName} : <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';
