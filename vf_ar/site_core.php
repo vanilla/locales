@@ -808,7 +808,7 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'لقد تم <a href="{Url,
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'نشر {ActivityUserID,user} إعلانًا في <strong>{GroupName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = 'إعلانات {count} الجديدة في <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} بدأ مناقشة جديدة <strong>{DiscussionName}</strong>';
-$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '';
+$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} مناقشات جديدة في <strong>{GroupName}</strong>';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} بدأ مناقشة جديدة في {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';
 $Definition['Height (mobile)']='الارتفاع (المحمول)';
 $Definition['Hello!'] = 'مرحبا!';
