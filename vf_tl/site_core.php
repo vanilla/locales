@@ -194,7 +194,7 @@ $Definition['Add Message'] = 'magdagdag ng mga mensahe
 $Definition['Add Note'] = 'Magdagdag Ng Paalala';
 $Definition['Add People to this Conversation'] = 'Magdagdag ng mga tao sa paguusap na ito';
 $Definition['Add Route'] = 'Magdagdag ng mga Ruta';
-$Definition['Add to Collection.'] = 'Idagdag sa Koleksiyon.';
+$Definition['Add to Collection'] = 'Idagdag sa Koleksiyon.';
 $Definition['Added to 1 collection.'] = 'Idinagdag sa 1 koleksyon.';
 $Definition['Added to <0/> collections.'] = 'Idinagdag sa <0/> mga koleksyon.';
 $Definition['Admin'] = 'Admin';
@@ -1732,7 +1732,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 ';
 $Definition['This Week\'s Leaders'] = 'Ang mga Pinuno ngayong linggo';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Ang site na ito ay protektado ng reCAPTCHA at ng Google';
-$Definition["This user's profile is private."] = "Pribado ang profile ng gumagamit na ito.";
+$Definition["This user's profile is private."] = "This user's profile is private.";
 $Definition["This user has been deleted."] = "Ang gumagamit na ito ay tinanggal.";
 $Definition["This user has been banned"] = "Bawal ang gumagamit na ito";
 $Definition["This content has been deleted."] = "Ang nilalamang ito ay tinanggal.";
