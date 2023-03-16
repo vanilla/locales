@@ -1654,7 +1654,7 @@ $Definition['TermsOfServiceText'] = 'Vous acceptez, en participant à ce service
 Nous nous réservons le droit de transmettre votre identité (ou autre information que vous nous avez donné) aux autorités judiciaires si nécessaire.
 
 La publicité, les chaînes, les mécanismes à diffusion pyramidale et toute forme de sollicitations commerciales ne sont pas acceptées sur ce forum.
-
+   
 Nous nous réservons le droit de retirer tout contenu  pour quelque raison que ce soit et sans justification. Nous nous réservons également le droit de mettre fin à toute participation sans avoir à le justifier.
 
 Vous devez également avoir au moins 13 ans pour participer au forum.';
