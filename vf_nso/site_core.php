@@ -191,7 +191,7 @@ $Definition['Add Message'] = 'Tsenya Molaetša';
 $Definition['Add Note'] = 'Tsenya Ntlha';
 $Definition['Add People to this Conversation'] = 'Tsenya Batho Poledišanong ye';
 $Definition['Add Route'] = 'Tsenya Tsela';
-$Definition['Add to Collection.'] = 'Oketša go Kgoboketšo.';
+$Definition['Add to Collection'] = 'Oketša go Kgoboketšo.';
 $Definition['Added to 1 collection.'] = 'E okeditšwe go kgoboketšo ya 1.';
 $Definition['Added to <0/> collections.'] = 'E okeditšwe go <0/> dikgoboketšo.';
 $Definition['Admin'] = 'Taolo';
@@ -806,7 +806,7 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'O hweditše <a href="{Url,
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} o rometše tsebišo go <strong>{GroupName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{bala} ditsebišo tše mpsha go <strong>{GroupName} .</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} e thomile poledišano ye mpsha <strong>{DiscussionName}</strong>';
-$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{bala} dipoledišano tše mpsha go <strong>{GroupName} .</strong>';
+$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} dipoledišano tše mpsha go <strong>{GroupName} .</strong>';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} e thomile poledišano ye mpsha go {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.';
 $Definition['Height (mobile)']='Bophahamo (mobile) .';
 $Definition['Hello!'] = 'Thobela!';
