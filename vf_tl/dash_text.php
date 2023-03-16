@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Ang iyong mobile na tema ay hindi pinagana. Upang itakda ang iba't ibang mga mobile at desktop na tema, gamitin ang lumang theming UI.";
 $Definition["Heads Up!"] = "Paunawa!";
-$Definition["Welcome to Vanilla's theming UI."] = "Maligayang pagdating sa theming UI ng Vanilla. Inililista ng pahinang ito ang lahat ng iyong magagamit na mga tema, at pinapayagan kang kopyahin o i-edit ang mga ito.";
-$Definition["Some older themes don't support full editing capability."] = "Ang ilang mga mas matatandang tema ay hindi sumusuporta sa buong kakayahan sa pag-edit. Upang makita kung ano ang sumusuporta sa isang tema na maaari mong mai-hover sa pangalan nito upang makita kung saan magkakaroon ng bisa ang mga pag-edit.";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Need More Help?";
 $Definition["Theming Guide"] = "Gabay sa pag-iisip";
 $Definition["Old Theming UI"] = "Old Theming UI";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Paganahin at subukan ang pinakabagong mga tampok na Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Ang <0 /> lab ay kailangang mai-configure upang tumugma sa iyong pasadyang tema. Magagawa ito gamit ang aming bagong editor ng tema. <1> Alamin ang higit pa.</1>';
 $Definition['Usercards'] = 'Mga Usercard';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Pinapayagan ka ng mga Usercard na makakuha ng mabilis na in-line snapshot ng impormasyon ng isang gumagamit. Kapag tumitingin ng mga post at leaderboard, mag-click sa username upang makita ang isang card na ipinapakita ang mga gumagamit ng pangunahing impormasyon sa profile nang hindi kinakailangang mag-navigate palayo sa pahina. Paganahin ang tampok na ito upang magdagdag ng mga usercard sa iyong pasadyang tema.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'Bagong Pahina ng Paghahanap';
-$Definition["Vanilla's new search service is finally here."] = "Ang bagong serbisyo sa paghahanap ni Vanilla ay sa wakas ay narito. Paganahin ang aming bagong UI ng pahina ng paghahanap upang makakuha ng pag-access sa pinakabagong mga tampok sa paghahanap tulad ng Paghahanap ng Miyembro, pag-uuri ng paghahanap at pag-highlight ng term.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Bagong Mga Mabilis na Link';
 $Definition['Quick Links is a default component on community pages.'] = "Ang Quick Link ay isang default na sangkap sa mga pahina ng komunidad. Paganahin ang aming bagong bahagi ng Quick Link upang magdagdag, mag-edit o magtago ng mga link mula sa menu na ito gamit ang aming editor ng tema.";
 
