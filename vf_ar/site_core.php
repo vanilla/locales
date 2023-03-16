@@ -805,7 +805,7 @@ $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} الغى حظر {Ac
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} حذّر {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'لقد تم تحذيرك.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'لقد تم <a href="{Url,html}" class="Popup"> تحذيرك </a> .';
-$Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '';
+$Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'نشر {ActivityUserID,user} إعلانًا في <strong>{GroupName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = 'إعلانات {count} الجديدة في <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} بدأ مناقشة جديدة <strong>{DiscussionName}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '';
