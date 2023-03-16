@@ -191,7 +191,7 @@ $Definition['Add Message'] = 'Cuir teachdaireachd ris';
 $Definition['Add Note'] = 'Add Note';
 $Definition['Add People to this Conversation'] = 'Cuir daoine ris a\' chòmhradh seo';
 $Definition['Add Route'] = 'Cuir slighe ris';
-$Definition['Add to Collection.'] = 'Cuir ris a’ Chruinneachadh.';
+$Definition['Add to Collection'] = 'Cuir ris a’ Chruinneachadh.';
 $Definition['Added to 1 collection.'] = 'Air a chur ri 1 chruinneachadh.';
 $Definition['Added to <0/> collections.'] = 'Air a chur ri <0/> cruinneachaidhean.';
 $Definition['Admin'] = 'Rianaire';
@@ -264,7 +264,7 @@ $Definition['Approve Applicant'] = 'Approve';
 $Definition['Approved'] = 'Aontaichte';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'A bheil thu CINNTEACH gu bheil thu airson seo a dhèanamh?';
 $Definition['Are you attending this event?'] = 'Are you attending this event?';
-$Definition["Are you sure you want to delete this image? You won't be able to recover it."] = "A bheil thu cinnteach gu bheil thu airson an ìomhaigh seo a dhubhadh às? Chan urrainn dhut fhaighinn air ais.";
+$Definition["Are you sure you want to delete this image? You won't be able to recover it."] = "Are you sure you want to delete this image? You won't be able to recover it.";
 $Definition['Are you sure you want to delete this %s?'] = 'A bheil thu cinnteach gu bheil thu airson a\' %s seo a sguabadh às?';
 $Definition['Are you sure you want to do that?'] = 'Are you sure you want to do that?';
 $Definition['Are you sure you want to do this?'] = 'A bheil thu cinnteach gu bheil thu airson seo a dhèanamh?';
@@ -806,8 +806,8 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Chaidh <a href="{Url,html}
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'Chuir {ActivityUserID,user} sanas suas ann an <strong>{GroupName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} sanasan ùra ann an <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = 'Thòisich {ActivityUserID,user} còmhradh ùr <strong>{DiscussionName}</strong>';
-$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{cunnt} còmhraidhean ùra ann an <strong>{GroupName}</strong>';
-$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = 'Thòisich {Username} còmhradh ùr ann an {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';
+$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} còmhraidhean ùra ann an <strong>{GroupName}</strong>';
+$Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = 'thòisich {Username} air deasbad ùr ann an {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';
 $Definition['Height (mobile)']='Àirde (gluasadach)';
 $Definition['Hello!'] = 'Halò!';
 $Definition['Hello %s!'] = 'Halo %s!';
@@ -1698,7 +1698,7 @@ $Definition['These tags are reserved and cannot be used: %s'] = 'Tha na tagaiche
 $Definition['The site is currently undergoing maintenance.'] = 'The site is currently undergoing maintenance.';
 $Definition['The status for "%s" has changed to %s.'] = 'Tha an inbhe airson "%s" air atharrachadh gu %s.';
 $Definition['The uploaded file was too big (max %s).'] = 'The uploaded file was too big (max %s).';
-$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'Cha robh leudachadh ceadaichte anns an fhaidhle a chaidh a luchdachadh suas. \ n Tha na leudachaidhean a leanas ceadaichte. \ n%s.';
+$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.';
 $Definition['The user has already been warned for this %s.'] = 'Chaidh rabhadh a thoirt don neach-cleachdaidh mu thràth airson an %s.';
 $Definition['The user isn\'t banned.'] = 'Chan eil an neach-cleachdaidh air a thoirmeasg no air a thoirmeasg le gnìomh eile.';
 $Definition['they'] = 'iad';
@@ -1739,7 +1739,7 @@ $Definition['This user is verified as a non-spammer'] = 'This user is verified a
 $Definition['This warning has expired. Do you want to completely delete it?'] = 'This warning has expired. Do you want to completely delete it?';
 $Definition['This Week\'s Leaders'] = 'This Week\'s Leaders';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Tha an làrach seo air a dhìon le reCAPTCHA agus an Google';
-$Definition["This user's profile is private."] = "Tha ìomhaigh an neach-cleachdaidh seo prìobhaideach.";
+$Definition["This user's profile is private."] = "This user's profile is private.";
 $Definition["This user has been deleted."] = "Chaidh an cleachdaiche seo a dhubhadh às.";
 $Definition["This user has been banned"] = "Chaidh an cleachdaiche seo a thoirmeasg";
 $Definition["This content has been deleted."] = "Chaidh an susbaint seo a dhubhadh às.";
@@ -1841,7 +1841,7 @@ $Definition['User not found.'] = 'Sorry, no account could be found related to th
 $Definition['Invalid user/password provided.'] = 'Cleachdaiche/facal-faire mì-dhligheach air a thoirt seachad.';
 $Definition['Users'] = 'Users';
 $Definition['Users Count'] = 'Users Count';
-$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Cleachd suas gu {maxImages,plural,%s image, %s images}.';
+$Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Cleachd suas ri {maxImages, plural, ìomhaigh %s, ìomhaighean %s}.';
 
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';
@@ -2012,7 +2012,7 @@ $Definition['You are not allowed to warn a user with the same permission level a
     'Chan eil cead agad rabhadh a thoirt do neach-cleachdaidh leis an aon ìre cead riut.';
 $Definition['You are now leaving %1$s. Click the link to continue to %2$s.'] = 'Tha thu a-nis a ’fàgail %1$s. Cliog air a ’cheangal gus leantainn air adhart gu %2$s.';
 $Definition['You are now signed in.'] = 'You are now signed in.';
-$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Chan eil cead agad ach {maxImages,plural,%s image,%s images}.';
+$Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'Chan eil cead agad ach {maxImages,plural, ìomhaigh %s, ìomhaighean %s}.';
 $Definition['You are prohibited from using the ignore feature.'] = 'Tha thu toirmisgte a bhith a ’cleachdadh am feart dearmad.';
 $Definition['You are viewing %s\'s ignore list'] = 'Tha thu a ’coimhead air liosta %s';
 $Definition['you can also drag-and-drop'] = 'faodaidh tu cuideachd slaodadh is leigeil às';
