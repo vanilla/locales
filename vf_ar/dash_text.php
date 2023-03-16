@@ -300,9 +300,9 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "سيتم تعطيل موضوع الهاتف المحمول الخاص بك. لتعيين سمات مختلفة للجوال وسطح المكتب ، استخدم واجهة المستخدم القديمة.";
 $Definition["Heads Up!"] = "انتباه! ";
-$Definition["Welcome to Vanilla's theming UI."] = "مرحبًا بك في واجهة مستخدم Vanilla. تسرد هذه الصفحة جميع السمات المتاحة لك ، وتسمح لك بنسخها أو تحريرها.";
-$Definition["Some older themes don't support full editing capability."] = "لا تدعم بعض السمات القديمة إمكانية التحرير الكاملة. لمعرفة ما يدعمه السمة ، يمكنك التمرير فوق اسمه لمعرفة مكان سريان التعديلات.";
-$Definition["Need More Help?"] = "????? ????? ?? ?????????";
+$Definition["Welcome to Vanilla's theming UI."] = "مرحبًا بك في واجهة مستخدم Vanilla. تسرد هذه الصفحة جميع السمات المتاحة لديك ، وتسمح لك بنسخها أو تحريرها.";
+$Definition["Some older themes don't support full editing capability."] = "بعض السمات القديمة لا تدعم إمكانية التحرير الكاملة. لمعرفة ما يدعمه النسق ، يمكنك التمرير فوق اسمه لمعرفة مكان سريان التعديلات.";
+$Definition["Need More Help?"] = "هل تريد المزيد من المساعدة؟";
 $Definition["Theming Guide"] = "دليل Theming";
 $Definition["Old Theming UI"] = "واجهة مستخدم Theming القديمة";
 $Definition["If you have an old theme"] = "إذا كان لديك مظهر قديم وتحتاج إلى تعيين مظهر منفصل لسطح المكتب والجوال ، فيمكنك القيام بذلك باستخدام واجهة المستخدم القديمة.";
