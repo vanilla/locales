@@ -191,7 +191,7 @@ $Definition['Add Message'] = '添加消息';
 $Definition['Add Note'] = '添加注释';
 $Definition['Add People to this Conversation'] = '添加联系人到本次对话';
 $Definition['Add Route'] = '添加路由';
-$Definition['Add to Collection.'] = '添加到收藏。';
+$Definition['Add to Collection'] = '添加到收藏。';
 $Definition['Added to 1 collection.'] = '添加到 1 个集合。';
 $Definition['Added to <0/> collections.'] = '添加到 <0/> 集合。';
 $Definition['Admin'] = '管理';
@@ -1746,7 +1746,7 @@ $Definition['This warning has expired. Do you want to completely delete it?'] = 
 $Definition['This Week\'s Leaders'] = '本周活跃榜';
 $Definition['This site is protected by reCAPTCHA and the Google'] = '本网站受 reCAPTCHA 和谷歌的保护
 ';
-$Definition["This user's profile is private."] = "该用户的个人资料是私密的。";
+$Definition["This user's profile is private."] = "This user's profile is private.";
 $Definition["This user has been deleted."] = "该用户已被删除。";
 $Definition["This user has been banned"] = "该用户已被禁止";
 $Definition["This content has been deleted."] = "此内容已被删除。";
