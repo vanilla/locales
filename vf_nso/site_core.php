@@ -804,7 +804,7 @@ $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} lemošitšwe {Rega
 $Definition['HeadlineFormat.Warning.ToUser'] = 'O lemošitšwe.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'O hweditše <a href="{Url,html}" class="Popup">mpho.';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} o rometše tsebišo go <strong>{GroupName}</strong>';
-$Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{bala} ditsebišo tše mpsha go <strong>{GroupName} .</strong>';
+$Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} ditsebišo tše mpsha ka <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} e thomile poledišano ye mpsha <strong>{DiscussionName}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} dipoledišano tše mpsha go <strong>{GroupName} .</strong>';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = '{Username} e thomile poledišano ye mpsha go {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.';
