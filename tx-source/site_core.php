@@ -966,6 +966,7 @@ $Definition['Locale'] = 'Locale';
 $Definition['Log'] = 'Log';
 $Definition['log'] = 'log';
 $Definition['Login with Facebook'] = 'Login with Facebook';
+$Definition['Log in here to update your notification preferences'] = 'Log in here to update your notification preferences';
 $Definition['LOL'] = 'LOL';
 
 $Definition['Major'] = 'Major';
