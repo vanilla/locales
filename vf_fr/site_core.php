@@ -973,6 +973,7 @@ $Definition['Locale'] = 'Pack de langue';
 $Definition['Log'] = 'Connexion';
 $Definition['log'] = 'connexion';
 $Definition['Login with Facebook'] = 'Se connecter avec Facebook';
+$Definition['Log in here to update your notification preferences'] = 'Connectez-vous pour enregistrer vos préférences de notifications';
 $Definition['LOL'] = 'LOL';
 
 $Definition['Major'] = 'Majeure';
