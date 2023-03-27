@@ -390,6 +390,7 @@ $Definition['Flagged Content'] = 'Flagged Content';
 $Definition['Flood Control'] = 'Flood Control';
 $Definition['Forbidden words'] = 'Forbidden words';
 $Definition['Follow Up Delay'] = 'Follow Up Delay';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com';
 $Definition['Force the forum to only be accessible through this url'] = 'Force the forum to only be accessible through this url';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Force your forum to be viewed through the Remote Url';
 $Definition['Formats'] = 'Formats';
@@ -634,6 +635,7 @@ $Definition['Preview Colors'] = 'Preview Colors';
 $Definition['Private Communities'] = 'Private Communities';
 $Definition['private conversation(s)'] = 'private conversation(s)';
 $Definition['Private Key'] = 'Private Key';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.';
 $Definition['Provider'] = 'Provider';
 $Definition['Public Key'] = 'Public Key';
 
@@ -909,7 +911,7 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'You can customize the HTML and CSS for this theme on the %s page.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'You can either create a new account, or enter your credentials if you have an existing account.';
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
-$Definition['You can specify an allow list of trusted domains.'] = 'You can specify an allow list of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
+$Definition['You can specify an allow list of trusted domains.'] = 'You can specify a list of trusted domains that are safe for redirects & embedding.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'You can specify an allow list of trusted domains (ex. yourdomain.com) that are safe to load javascript from.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'You cannot remove the only remaining category that allows discussions';
