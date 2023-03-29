@@ -152,6 +152,7 @@ $Definition['Access the Site'] = 'Access the Site';
 $Definition['Access Tokens'] = 'Access Tokens';
 $Definition['Account Options'] = 'Account Options';
 $Definition['Account & Privacy'] = 'Account &amp; Privacy';
+$Definition['Account & Privacy Settings'] = 'Account &amp; Privacy Settings';
 $Definition['Actions'] = 'Actions';
 $Definition['Activate'] = 'Activate';
 $Definition['Active'] = 'Active';
