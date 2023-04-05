@@ -1072,6 +1072,7 @@ $Definition['Most recent by <0/>'] = 'Most recent by <0/>';
 $Definition['Most Recent Comment'] = 'Most Recent Comment';
 $Definition['Most recent discussion'] = 'Most recent discussion';
 $Definition['Move'] = 'Move';
+$Definition['Move Discussion'] = 'Move Discussion';
 $Definition['Moved: %s'] = 'Moved: %s';
 $Definition['Mute'] = 'Mute';
 $Definition['%s must be a positive number.'] = '%s must be a positive number.';
