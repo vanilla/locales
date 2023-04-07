@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Twój motyw mobilny zostanie wyłączony. Aby ustawić różne motywy mobilne i stacjonarne, użyj starego interfejsu tematycznego.";
 $Definition["Heads Up!"] = "Głowa do góry!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Witamy w tematycznym interfejsie użytkownika Vanilla. Ta strona zawiera listę wszystkich dostępnych motywów i umożliwia ich kopiowanie lub edytowanie.";
+$Definition["Some older themes don't support full editing capability."] = "Niektóre starsze motywy nie obsługują pełnej możliwości edycji. Aby zobaczyć, co obsługuje motyw, możesz najechać kursorem na jego nazwę, aby zobaczyć, gdzie wprowadzone zostaną zmiany.";
 $Definition["Need More Help?"] = "Need More Help?";
 $Definition["Theming Guide"] = "Przewodnik po tematach";
 $Definition["Old Theming UI"] = "Old Theming UI";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Włącz i przetestuj najnowsze funkcje Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Laboratorium <0/> musi być skonfigurowane tak, aby pasowało do Twojego motywu niestandardowego. Można to zrobić za pomocą naszego nowego edytora motywów. <1>Dowiedz się więcej.</1>';
 $Definition['Usercards'] = 'Karty użytkownika';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Karty użytkownika umożliwiają szybkie uzyskanie wbudowanej migawki informacji o użytkowniku. Podczas przeglądania postów i tabel wyników kliknij nazwę użytkownika, aby zobaczyć kartę z podstawowymi informacjami o profilu użytkownika bez konieczności opuszczania strony. Włącz tę funkcję, aby dodać karty użytkownika do niestandardowego motywu.";
 $Definition['New Search Page'] = 'Nowa strona wyszukiwania';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "Nowa usługa wyszukiwania Vanilla jest już dostępna. Włącz nasz nowy interfejs użytkownika strony wyszukiwania, aby uzyskać dostęp do najnowszych funkcji wyszukiwania, takich jak wyszukiwanie członków, sortowanie wyszukiwania i wyróżnianie terminów.";
 $Definition['New Quick Links'] = 'Nowe szybkie linki';
 $Definition['Quick Links is a default component on community pages.'] = "Szybkie linki to domyślny komponent na stronach społeczności. Włącz nasz nowy komponent Quick Links, aby dodawać, edytować lub ukrywać linki z tego menu za pomocą naszego edytora motywów.";
 

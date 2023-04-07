@@ -282,7 +282,7 @@ $Definition["This logo appears at the top of your site. Themes made with the the
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "O logotipo para celular aparece na parte superior do seu site. Temas criados com o editor de temas e alguns temas personalizados não usam essa configuração.";
 $Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "O favicon do seu site aparece na barra de título do seu navegador.   Será devidamente reduzida. ";
 $Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "O ícone de toque aparece quando você marca um site na tela inicial de um dispositivo móvel. Estes são geralmente 152 pixels.";
-$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Quando alguém compartilha um link do seu site, tentamos obter uma imagem da página. Se não houver uma imagem na página, usaremos essa imagem. A imagem deve ter pelo menos 50 × 50, mas recomendamos 200 × 200.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Quando alguém compartilha um link do seu site, tentamos pegar uma imagem da página. Se não houver uma imagem na página, usaremos essa imagem. A imagem deve ter pelo menos 50×50, mas recomendamos 200×200.";
 $Definition["Some browsers support a color for the address bar."] = "Alguns navegadores suportam uma cor para a barra de endereço.";
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Essa configuração carrega a página antes de executar o Javascript, o que pode melhorar seu SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Aviso: ativar este recurso pode causar erros de Javascript em seu site.**";
@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Seu tema para celular será desativado. Para definir diferentes temas para dispositivos móveis e computadores, use a interface do usuário com temas antigos.";
 $Definition["Heads Up!"] = "Atenção!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Bem-vindo à interface do usuário com temas do Vanilla. Esta página lista todos os temas disponíveis e permite copiá-los ou editá-los.";
+$Definition["Some older themes don't support full editing capability."] = "Alguns temas mais antigos não suportam o recurso completo de edição. Para ver o que um tema suporta, você pode passar o mouse sobre o nome para ver onde as edições terão efeito.";
 $Definition["Need More Help?"] = "Precisando de mais ajuda?";
 $Definition["Theming Guide"] = "Guia de Temas";
 $Definition["Old Theming UI"] = "IU com tema antigo";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Habilite e teste os recursos mais recentes do Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB O <0 /> lab precisa ser configurado para corresponder ao seu tema personalizado. Isso pode ser feito usando nosso novo editor de tema. <1> Saiba mais.</1>';
 $Definition['Usercards'] = 'Cartões de usuário';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Os cartões de usuário permitem que você obtenha um instantâneo rápido em linha das informações de um usuário. Ao visualizar postagens e placares, clique no nome de usuário para ver um cartão mostrando as informações básicas do perfil do usuário sem ter que navegar para fora da página. Habilite este recurso para adicionar cartões de usuário ao seu tema personalizado.";
 $Definition['New Search Page'] = 'Nova página de pesquisa';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "O novo serviço de pesquisa do Vanilla está finalmente aqui. Ative nossa nova interface de usuário da página de pesquisa para obter acesso aos mais novos recursos de pesquisa, como Pesquisa de membros, classificação de pesquisa e destaque de termos.";
 $Definition['New Quick Links'] = 'Novos Links Rápidos';
 $Definition['Quick Links is a default component on community pages.'] = "Links rápidos é um componente padrão nas páginas da comunidade. Habilite nosso novo componente Quick Links para adicionar, editar ou ocultar links deste menu usando nosso editor de tema.";
 
