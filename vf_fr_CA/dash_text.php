@@ -25,7 +25,7 @@ $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Apply Layout'] = 'Appliquer la mise en page';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
-$Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Enregistrer automatiquement les brouilles des discussions, questions, idées et réponses non publiés.';
+$Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Enregistrez automatiquement les brouillons des discussions, questions, idées et commentaires non publiés.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Les avatars seront réduits s\'ils dépassent cette hauteur.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Les avatars seront réduits s\'ils dépassent cette largeur.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Les avatars verront leurs vignettes enregistrées à cette taille.';
@@ -261,8 +261,8 @@ $Definition['Warning: This is for advanced users.'] = '<b>Avertissement</b>: Ces
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Nous recommandons surtout des réactions positives pour encourager la participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Lorsqu\'elle est activée, vous pouvez gérer les produits et regrouper les sous-communautés par ces produits.';
-$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Pour choisir si les champs de profil internes sont inclus dans cet élément.';
-$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Pour choisir si les champs de profil privés sont inclus dans cet élément.';
+$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Indique si les champs de profil interne seront inclus ou non dans ce webhook.';
+$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Indique si les champs de profil privé seront inclus ou non dans ce webhook.';
 $Definition['Which reactions you use really depends on your community.'] =
     'Les réactions que vous utilisez dépendent vraiment de votre communauté, mais nous vous recommandons de garder quelques points à l\'esprit.';
 
@@ -382,7 +382,7 @@ $Definition['The <0/> lab needs to be configured to match your custom theme.'] =
 $Definition['Usercards'] = 'Cartes d\'utilisateur';
 $Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Les cartes d'utilisateur vous permettent d'obtenir un aperçu rapide des informations d'un utilisateur. Lorsque vous consultez les messages et les classements, cliquez sur le nom d'utilisateur pour afficher une carte présentant les informations de base du profil de l'utilisateur sans avoir à quitter la page. Activez cette fonctionnalité pour ajouter des cartes d'utilisateur à votre thème personnalisé.";
 $Definition['New Search Page'] = 'Nouvelle page de recherche';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "Le nouveau service de recherche de Vanilla est enfin là. Activez notre nouvelle interface utilisateur de page de recherche pour accéder aux dernières fonctionnalités de recherche telles que la recherche de membres, le tri des recherches et la mise en évidence des termes.";
 $Definition['New Quick Links'] = 'Nouveaux liens rapides';
 $Definition['Quick Links is a default component on community pages.'] = "Les liens rapides sont un composant par défaut sur les pages de communauté. Activez notre nouveau composant Liens rapides pour ajouter, modifier ou masquer des liens de ce menu à l'aide de notre éditeur de thème.";
 

@@ -299,8 +299,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Váš mobilný motív bude zakázaný. Ak chcete nastaviť rôzne motívy pre mobil a pracovnú plochu, použite staré tematické rozhranie.";
 $Definition["Heads Up!"] = "Informácia!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Vitajte v používateľskom rozhraní s témou Vanilla. Táto stránka obsahuje zoznam všetkých dostupných tém a umožňuje vám ich kopírovať alebo upravovať.";
+$Definition["Some older themes don't support full editing capability."] = "Niektoré staršie témy nepodporujú úplné možnosti úprav. Ak chcete vidieť, čo téma podporuje, môžete umiestniť kurzor myši nad jeho názov a zistiť, kde sa úpravy prejavia.";
 $Definition["Need More Help?"] = "Potrebujete ďalšiu pomoc?";
 $Definition["Theming Guide"] = "Theming Guide";
 $Definition["Old Theming UI"] = "UI Old Theming";
@@ -381,9 +381,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Povoľte a vyskúšajte si najnovšie funkcie vanilky.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'Poznámka: Laboratórium <0/> je potrebné nakonfigurovať tak, aby zodpovedalo vašej vlastnej téme. To je možné vykonať pomocou nášho nového editora tém. <1> Zistite viac.</1>';
 $Definition['Usercards'] = 'Karty užívateľov';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Karty Usercard vám umožňujú získať rýchly online prehľad informácií o používateľovi. Pri prezeraní príspevkov a rebríčkov kliknite na používateľské meno a zobrazí sa karta zobrazujúca základné profilové informácie používateľov bez toho, aby ste museli opustiť stránku. Povolením tejto funkcie pridáte do vlastného motívu používateľské karty.";
 $Definition['New Search Page'] = 'Nová stránka vyhľadávania';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "Nová vyhľadávacia služba Vanilla je konečne tu. Povolením nášho používateľského rozhrania na novej stránke vyhľadávania získate prístup k najnovším funkciám vyhľadávania, ako je napríklad vyhľadávanie členov, triedenie vyhľadávania a zvýrazňovanie výrazov.";
 $Definition['New Quick Links'] = 'Nové rýchle odkazy';
 $Definition['Quick Links is a default component on community pages.'] = "Rýchle odkazy sú predvoleným komponentom na stránkach komunity. Povoľte náš nový komponent Rýchle odkazy, aby ste mohli pridávať, upravovať alebo skrývať odkazy z tejto ponuky pomocou nášho editora tém.";
 

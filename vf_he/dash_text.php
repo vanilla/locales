@@ -286,7 +286,7 @@ $Definition["This logo appears at the top of your site. Themes made with the the
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "הלוגו לנייד מופיע בחלק העליון של האתר שלך. ערכות נושא שנוצרו עם עורך ערכות הנושא וכמה ערכות נושא מותאמות אישית אינן משתמשות בהגדרה זו.";
 $Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "סמל המועדפים של האתר שלך מופיע בפס הכותרת של הדפדפן. הוא יוקטן באופן פרופורציונלי.";
 $Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "סמל המגע מופיע כאשר אתה מסמן אתר במסך הבית של מכשיר נייד. אלה הם בדרך כלל 152 פיקסלים.";
-$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "כאשר מישהו משתף קישור מהאתר שלך אנו מנסים לתפוס תמונה מהדף. אם אין תמונה בדף, אנו נשתמש בתמונה זו במקום זאת. התמונה צריכה להיות לפחות 50 × 50, אך אנו ממליצים על 200 × 200.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "כאשר מישהו משתף קישור מהאתר שלך, אנו מנסים לתפוס תמונה מהדף. אם אין תמונה בדף, נשתמש בתמונה זו במקום זאת. התמונה צריכה להיות לפחות 50×50, אך אנו ממליצים על 200×200.";
 $Definition["Some browsers support a color for the address bar."] = "דפדפנים מסוימים תומכים בצבע עבור שורת הכתובת.";
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "הגדרה זו טוענת את הדף לפני הפעלת Javascript שיכולה לשפר את SEO שלך.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**אזהרה: הפעלת תכונה זו עלולה לגרום לשגיאות Javascript באתר שלך.**";
@@ -301,8 +301,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "הנושא שלך לנייד יושבת. כדי להגדיר נושאים שונים להתקנים ניידים ושולחן העבודה, השתמש בממשק המשתמש הישן של הנושאים.";
 $Definition["Heads Up!"] = "הרימו ראש!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "ברוך הבא לממשק המשתמש הנושא של ונילה. דף זה מפרט את כל הנושאים הזמינים שלך ומאפשר לך להעתיק או לערוך אותם.";
+$Definition["Some older themes don't support full editing capability."] = "כמה נושאים ישנים אינם תומכים ביכולת עריכה מלאה. כדי לראות במה נושא תומך אתה יכול לרחף מעל שמו כדי לראות היכן ייכנסו עריכות לתוקף.";
 $Definition["Need More Help?"] = "צריכים עזרה?";
 $Definition["Theming Guide"] = "מדריך נושאים";
 $Definition["Old Theming UI"] = "ממשק משתמש ישן";
@@ -383,9 +383,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'הפעל ובדוק את תכונות הווניל העדכניות ביותר.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'הערה יש להגדיר את המעבדה <0/> כך שתתאים לנושא המותאם אישית שלך. ניתן לעשות זאת באמצעות עורך הנושאים החדש שלנו. <1> למידע נוסף.</1>';
 $Definition['Usercards'] = 'כרטיסי משתמש';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "כרטיסי משתמש מאפשרים לך לקבל תמונת מצב מהירה של פרטי המשתמש. בעת צפייה בפוסטים ובלוחות הבקרה, לחץ על שם המשתמש כדי לראות כרטיס המציג למשתמשים את פרטי הפרופיל הבסיסיים מבלי להתרחק מהדף. אפשר תכונה זו כדי להוסיף כרטיסי משתמש לעיצוב המותאם אישית שלך.";
 $Definition['New Search Page'] = 'דף חיפוש חדש';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "שירות החיפוש החדש של וניל סוף סוף כאן. הפעל את ממשק המשתמש של דף החיפוש החדש שלנו כדי לקבל גישה לתכונות החיפוש החדשות ביותר כגון חיפוש חברים, מיון חיפושים והדגשת מונחים.";
 $Definition['New Quick Links'] = 'קישורים מהירים חדשים';
 $Definition['Quick Links is a default component on community pages.'] = "קישורים מהירים הוא רכיב ברירת מחדל בדפי קהילה. אפשר את רכיב הקישורים המהירים החדש שלנו כדי להוסיף, לערוך או להסתיר קישורים מתפריט זה באמצעות עורך הנושאים שלנו.";
 

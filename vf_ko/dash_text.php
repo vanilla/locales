@@ -313,8 +313,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "모바일 테마가 비활성화됩니다. 다른 모바일 및 데스크탑 테마를 설정하려면 이전 테마 UI를 사용하십시오.";
 $Definition["Heads Up!"] = "조심하세요!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "바닐라 테마 UI에 오신 것을 환영합니다. 이 페이지에는 사용 가능한 모든 테마가 나열되어 있으며 복사하거나 편집 할 수 있습니다.";
+$Definition["Some older themes don't support full editing capability."] = "일부 오래된 테마는 전체 편집 기능을 지원하지 않습니다. 테마가 지원하는 기능을 보려면 해당 이름 위에 마우스를 올려 놓으면 편집 내용이 적용되는 위치를 확인할 수 있습니다.";
 $Definition["Need More Help?"] = "Need More Help?";
 $Definition["Theming Guide"] = "테마 가이드";
 $Definition["Old Theming UI"] = "올드 테마 UI";
@@ -395,9 +395,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = '최신 바닐라 기능을 활성화하고 테스트하십시오.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB 사용자 정의 테마와 일치하도록 <0/> 실습을 구성해야 합니다. 이것은 새로운 테마 편집기를 사용하여 수행할 수 있습니다. <1>자세히 알아보세요.</1>';
 $Definition['Usercards'] = '사용자 카드';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "사용자 카드를 사용하면 사용자 정보의 빠른 인라인 스냅샷을 얻을 수 있습니다. 게시물과 리더보드를 볼 때 사용자 이름을 클릭하면 페이지 밖으로 이동할 필요 없이 사용자의 기본 프로필 정보를 보여주는 카드를 볼 수 있습니다. 사용자 지정 테마에 사용자 카드를 추가하려면 이 기능을 활성화하세요.";
 $Definition['New Search Page'] = '새 검색 페이지';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "바닐라의 새로운 검색 서비스가 드디어 나왔습니다. 새로운 검색 페이지 UI를 활성화하여 회원 검색, 검색 정렬 및 용어 강조와 같은 최신 검색 기능에 액세스할 수 있습니다.";
 $Definition['New Quick Links'] = '새로운 빠른 링크';
 $Definition['Quick Links is a default component on community pages.'] = "빠른 링크는 커뮤니티 페이지의 기본 구성 요소입니다. 테마 편집기를 사용하여 이 메뉴에서 링크를 추가, 편집 또는 숨기려면 새로운 빠른 링크 구성 요소를 활성화하십시오.";
 
