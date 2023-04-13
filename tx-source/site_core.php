@@ -462,6 +462,7 @@ $Definition['Create New Discussion'] = 'Create New Discussion';
 $Definition['Created on %s'] = 'Created on %s';
 $Definition['Create One.'] = 'Create One.';
 $Definition['Current'] = 'Current';
+$Definition['Current Username'] = 'Current Username';
 $Definition['Currently: '] = 'Currently: ';
 $Definition['Custom Information'] = 'Custom Information';
 $Definition['Customize'] = 'Customize';
@@ -1119,6 +1120,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'New Poll';
 $Definition['New Post'] = 'New Post';
 $Definition['New Question'] = 'New Question';
+$Definition['New Username'] = 'New Username';
 $Definition['Next'] = 'Next';
 $Definition['Next Page'] = 'Next Page';
 $Definition['Ninth Anniversary'] = 'Ninth Anniversary';
