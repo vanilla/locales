@@ -1138,6 +1138,7 @@ $Definition['No items tagged with %s.'] = 'No items tagged with %s.';
 $Definition['None'] = 'None';
 $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
 $Definition['No results'] = 'No results';
+$Definition['No reactions yet.'] = 'No reactions yet.';
 $Definition['No results for \'%s\''] = 'No results for \'%s\'';
 $Definition["No results for '<0/>'."] = "No results for '<0/>'.";
 $Definition["No results found."] = "No results found.";
