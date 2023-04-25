@@ -682,6 +682,7 @@ $Definition["Revert"] = "Revert";
 $Definition['Revert to Original Version'] = 'Revert to Original Version';
 $Definition['Revision Label:'] = 'Revision Label:';
 $Definition['Role'] = 'Role';
+$Definition['Assign to'] = 'Assign to';
 $Definition['Role Applicants'] = 'Role Applicants';
 $Definition['Role Name'] = 'Role Name';
 $Definition['Role Permissions'] = 'Role Permissions';
