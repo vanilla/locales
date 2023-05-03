@@ -1459,6 +1459,6 @@ $Definition['You will receive a notification when you are accepted.'] = 'Gheibh 
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'Chuir {ActivityUserID,user} sanas suas ann an <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = 'Thòisich {ActivityUserID,user} còmhradh ùr <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} sanasan ùra ann an <strong>{GroupName}</strong>';
-$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{cunnt} còmhraidhean ùra ann an <strong>{GroupName}</strong>';
+$Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} còmhraidhean ùra ann an <strong>{GroupName}</strong>';
 $Definition['{Username} has requested to join {Group}.'] = 'Tha {Username} air iarraidh a dhol còmhla ri {Group}.';
 $Definition['{Username} started a new discussion in {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a>.'] = 'Thòisich {Username} còmhradh ùr ann an {GroupName}: <a href=\'{DiscussionUrl}\'>{DiscussionName}</a> .';

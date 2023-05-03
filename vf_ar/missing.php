@@ -2,6 +2,8 @@
 
 $Definition['Account & Privacy Settings'] = 'Account &amp; Privacy Settings';
 
+$Definition['CategoriesNoFollowed'] = 'No categories followed';
+
 $Definition['PreferenceGroupNewDiscussionEmail'] = 'Notify me of new discussions in groups I am a member of.';
 $Definition['PreferenceGroupNewDiscussionPopup'] = 'Notify me of new discussions in groups I am a member of.';
 
