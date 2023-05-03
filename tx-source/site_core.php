@@ -139,6 +139,7 @@ $Definition['[%s] Welcome Aboard!'] = '[%s] Welcome Aboard!';
 $Definition['[Deleted User]'] = '[Deleted User]';
 
 $Definition['About'] = 'About';
+$Definition['About Me'] = 'About Me';
 $Definition['About %s users'] = 'About %s users';
 $Definition['About the event'] = 'About the event';
 $Definition['AboutToDelete'] = 'You are about to delete %s.';
