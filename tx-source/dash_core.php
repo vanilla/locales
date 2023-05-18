@@ -196,6 +196,7 @@ $Definition['Choose who can send out invitations to new members:'] = 'Choose who
 $Definition['Choose how many records to display.'] = 'Choose how many records to display.';
 $Definition['Choose when to load records from.'] = 'Choose when to load records from.';
 $Definition['Class'] = 'Class';
+$Definition['Clear All'] = 'Clear All';
 $Definition['Classic table layout used by traditional forums'] = 'Classic table layout used by traditional forums';
 $Definition['Clean Spam'] = 'Clean Spam';
 $Definition['Click a tag name to edit. Click x to remove.'] = 'Click a tag name to edit. Click x to remove.';
