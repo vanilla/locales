@@ -293,6 +293,7 @@ $Definition['NoBadgesEarned'] = 'Any minute now&hellip;';
 $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['Notes description'] = 'You can add notes to a user which are only visible to moderators.';
+$Definition['Notification preferences enabled tooltip'] = 'Post notifications must be enabled before new comment notifications and receiving notifications as emails are available.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 $Definition['Not Verified Description'] = 'Unverified users are passed through spam and pre-moderation filters.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
