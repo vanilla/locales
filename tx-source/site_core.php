@@ -2236,3 +2236,9 @@ $Definition['Skip to content'] = 'Skip to content';
 
 // KB Articles
 $Definition["Read More"] = "Read More";
+
+//BulkImporter
+$Definition["Hello,\n\nAn account has been created for you at the %s forum.\n\n"] = "Hello,\n\nAn account has been created for you at the %s forum.\n\n";
+$Definition["To activate your account, please follow this link:\n%s\n\n"] = "To activate your account, please follow this link:\n%s\n\n";
+$Definition["Please contact us if you have questions regarding this email.\n\nSincerely,\n%s"] = "Please contact us if you have questions regarding this email.\n\nSincerely,\n%s";
+
