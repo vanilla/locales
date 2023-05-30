@@ -296,8 +296,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "ธีมมือถือของคุณจะถูกปิดการใช้งาน หากต้องการตั้งค่าธีมมือถือและเดสก์ท็อปที่แตกต่างกันให้ใช้ UI ชุดรูปแบบเก่า";
 $Definition["Heads Up!"] = "ยอดเยี่ยม!";
-$Definition["Welcome to Vanilla's theming UI."] = "ยินดีต้อนรับสู่ UI ของ Vanilla หน้านี้แสดงรายการชุดรูปแบบที่มีทั้งหมดของคุณและช่วยให้คุณสามารถคัดลอกหรือแก้ไขได้";
-$Definition["Some older themes don't support full editing capability."] = "ชุดรูปแบบเก่าบางชุดไม่รองรับความสามารถในการแก้ไขเต็มรูปแบบ หากต้องการดูว่าชุดรูปแบบรองรับอะไรคุณสามารถเลื่อนเมาส์ไปวางเหนือชื่อเพื่อดูว่าการแก้ไขจะมีผลที่ใด";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "ต้องการความช่วยเหลือเพิ่มเติมไหม?";
 $Definition["Theming Guide"] = "คู่มือการทำธีม";
 $Definition["Old Theming UI"] = "UI รูปแบบเก่า";
@@ -378,9 +378,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'เปิดใช้งานและทดสอบคุณสมบัติล่าสุดของวานิลลา';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'หมายเหตุ ต้องกำหนดค่าแล็บ <0/> เพื่อให้ตรงกับธีมที่คุณกำหนดเอง ซึ่งสามารถทำได้โดยใช้ตัวแก้ไขธีมใหม่ของเรา <1>ค้นหาข้อมูลเพิ่มเติม</1>';
 $Definition['Usercards'] = 'บัตรผู้ใช้';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "การ์ดผู้ใช้ช่วยให้คุณได้รับสแน็ปช็อตอินไลน์อย่างรวดเร็วของข้อมูลผู้ใช้ เมื่อดูโพสต์และลีดเดอร์บอร์ด ให้คลิกที่ชื่อผู้ใช้เพื่อดูการ์ดที่แสดงข้อมูลโปรไฟล์พื้นฐานของผู้ใช้โดยไม่ต้องออกจากเพจ เปิดใช้งานคุณสมบัตินี้เพื่อเพิ่ม usercards ให้กับธีมที่คุณกำหนดเอง";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'หน้าค้นหาใหม่';
-$Definition["Vanilla's new search service is finally here."] = "บริการค้นหาใหม่ของวานิลลามาถึงแล้ว เปิดใช้งาน UI หน้าการค้นหาใหม่ของเราเพื่อเข้าถึงคุณลักษณะการค้นหาใหม่ล่าสุด เช่น การค้นหาสมาชิก การเรียงลำดับการค้นหา และการเน้นคำ";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'ลิงค์ด่วนใหม่';
 $Definition['Quick Links is a default component on community pages.'] = "ลิงก์ด่วนเป็นส่วนประกอบเริ่มต้นบนเพจชุมชน เปิดใช้งานองค์ประกอบ Quick Links ใหม่ของเราเพื่อเพิ่ม แก้ไข หรือซ่อนลิงก์จากเมนูนี้โดยใช้ตัวแก้ไขธีมของเรา";
 
