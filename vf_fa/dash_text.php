@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "موضوع تلفن همراه شما غیرفعال خواهد شد. برای تنظیم تم های مختلف موبایل و دسک تاپ ، از UI theming قدیمی استفاده کنید.";
 $Definition["Heads Up!"] = "سر بالا!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "به UI با مضمون وانیل خوش آمدید. در این صفحه لیست تمام تم های موجود شما وجود دارد و به شما امکان می دهد آنها را کپی یا ویرایش کنید.";
+$Definition["Some older themes don't support full editing capability."] = "برخی از مضامین قدیمی از قابلیت ویرایش کامل پشتیبانی نمی کنند. برای دیدن اینکه چه موضوعی از شما پشتیبانی می کند ، می توانید روی نام آن شناور شوید تا ببینید که ویرایش ها در چه جایی تأثیر می گذارد.";
 $Definition["Need More Help?"] = "به راهنماي بيشتري نياز داريد؟";
 $Definition["Theming Guide"] = "راهنمای سرقت";
 $Definition["Old Theming UI"] = "Old Theming UI";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'آخرین ویژگی های وانیل را فعال و آزمایش کنید.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB آزمایشگاه <0/> باید پیکربندی شود تا با طرح سفارشی شما مطابقت داشته باشد. این را می توان با استفاده از ویرایشگر تم جدید انجام داد. <1> بیشتر بدانید.</1>';
 $Definition['Usercards'] = 'کارت های کاربر';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "کارت های کاربر به شما این امکان را می دهد تا از تصاویر یک کاربر سریع یک تصویر فوری دریافت کنید. هنگام مشاهده پست ها و تابلوهای راهنما ، روی نام کاربری کلیک کنید تا کارتی را مشاهده کنید که اطلاعات اولیه مشخصات کاربر را بدون نیاز به خروج از صفحه نشان می دهد. برای افزودن کارت های کاربری به طرح سفارشی خود ، این ویژگی را فعال کنید.";
 $Definition['New Search Page'] = 'صفحه جستجوی جدید';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "بالاخره سرویس جستجوی جدید وانیل اینجاست. رابط کاربری صفحه جستجوی جدید ما را فعال کنید تا به جدیدترین ویژگی های جستجو مانند جستجوی اعضا ، مرتب سازی جستجو و برجسته سازی عبارت دسترسی داشته باشید.";
 $Definition['New Quick Links'] = 'پیوندهای سریع جدید';
 $Definition['Quick Links is a default component on community pages.'] = "پیوندهای سریع یک جزء پیش فرض در صفحات انجمن است. برای افزودن ، ویرایش یا مخفی کردن پیوندها از این منو با استفاده از ویرایشگر موضوع ، جزء پیوندهای سریع ما را فعال کنید.";
 

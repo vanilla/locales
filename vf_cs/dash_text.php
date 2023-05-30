@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Vaše mobilní téma bude deaktivováno. Chcete-li nastavit různá témata pro mobily a počítače, použijte staré tematické uživatelské rozhraní.";
 $Definition["Heads Up!"] = "Hlavu vzhůru!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Vítejte v uživatelském rozhraní s tématikou Vanilla. Tato stránka obsahuje seznam všech dostupných témat a umožňuje vám je zkopírovat nebo upravit.";
+$Definition["Some older themes don't support full editing capability."] = "Některá starší témata nepodporují plnou editaci. Chcete-li zjistit, co motiv podporuje, můžete umístit kurzor nad jeho název a zjistit, kde se úpravy projeví.";
 $Definition["Need More Help?"] = "Need More Help?";
 $Definition["Theming Guide"] = "Theming Guide";
 $Definition["Old Theming UI"] = "Old Theming UI";
