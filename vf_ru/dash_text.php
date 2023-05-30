@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Ваша мобильная тема будет отключена. Чтобы установить различные темы для мобильных устройств и рабочего стола, используйте старый интерфейс тем.";
 $Definition["Heads Up!"] = "Внимание!";
-$Definition["Welcome to Vanilla's theming UI."] = "Добро пожаловать в темный интерфейс Vanilla. На этой странице перечислены все ваши доступные темы, и вы можете копировать или редактировать их.";
-$Definition["Some older themes don't support full editing capability."] = "Некоторые старые темы не поддерживают полную возможность редактирования. Чтобы увидеть, что тема поддерживает, вы можете навести курсор на ее название, чтобы увидеть, где изменения вступят в силу.";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Нужна помощь?";
 $Definition["Theming Guide"] = "Тематическое руководство";
 $Definition["Old Theming UI"] = "Old Theming UI";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Включите и протестируйте новейшие функции Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB. Лабораторная работа <0 /> должна быть настроена в соответствии с вашей пользовательской темой. Это можно сделать с помощью нашего нового редактора тем. <1> Узнайте больше.</1>';
 $Definition['Usercards'] = 'Карты пользователя';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Карты пользователя позволяют быстро получить оперативный снимок информации о пользователе. При просмотре сообщений и списков лидеров щелкните имя пользователя, чтобы увидеть карточку с основной информацией профиля пользователя без необходимости уходить со страницы. Включите эту функцию, чтобы добавить карточки пользователя в вашу настраиваемую тему.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'Новая страница поиска';
-$Definition["Vanilla's new search service is finally here."] = "Наконец-то появилась новая поисковая служба Vanilla. Включите наш новый пользовательский интерфейс страницы поиска, чтобы получить доступ к новейшим функциям поиска, таким как поиск участников, сортировка поиска и выделение терминов.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Новые быстрые ссылки';
 $Definition['Quick Links is a default component on community pages.'] = "Быстрые ссылки - это компонент по умолчанию на страницах сообщества. Включите наш новый компонент быстрых ссылок, чтобы добавлять, редактировать или скрывать ссылки из этого меню с помощью нашего редактора тем.";
 
