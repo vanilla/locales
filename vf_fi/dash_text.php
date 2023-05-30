@@ -381,7 +381,7 @@ $Definition['The <0/> lab needs to be configured to match your custom theme.'] =
 $Definition['Usercards'] = 'Käyttökortit';
 $Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Käyttäjäkorttien avulla voit saada nopean yksittäiskuvan käyttäjän tiedoista. Kun tarkastelet viestejä ja tulostauluja, napsauta käyttäjänimeä, niin näet kortin, joka näyttää käyttäjien perustiedot profiilille ilman, että sinun on siirryttävä pois sivulta. Ota tämä ominaisuus käyttöön, jos haluat lisätä käyttökortteja mukautettuun teemaasi.";
 $Definition['New Search Page'] = 'Uusi hakusivu';
-$Definition["Vanilla's new search service is finally here."] = "Vanillan uusi hakupalvelu on vihdoin täällä. Ota käyttöön uusi hakusivun käyttöliittymä, niin saat käyttöösi uusimmat hakuominaisuudet, kuten jäsenhaun, haun lajittelun ja termien korostuksen.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Uudet pikalinkit';
 $Definition['Quick Links is a default component on community pages.'] = "Pikalinkit on oletusosa yhteisön sivuilla. Ota uusi pikalinkkikomponentti käyttöön lisätäksesi, muokataksesi tai piilottaaksesi linkkejä tästä valikosta teemaeditorillamme.";
 
