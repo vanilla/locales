@@ -299,7 +299,7 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 $Definition["Your mobile theme will be disabled."] = "Il tema del tuo cellulare verrà disattivato. Per impostare diversi temi per dispositivi mobili e desktop, utilizzare la vecchia interfaccia utente a tema.";
 $Definition["Heads Up!"] = "Avvertimento!";
 $Definition["Welcome to Vanilla's theming UI."] = "Benvenuto nell'interfaccia utente a tema di Vanilla. Questa pagina elenca tutti i temi disponibili e consente di copiarli o modificarli.";
-$Definition["Some older themes don't support full editing capability."] = "Alcuni temi meno recenti non supportano la piena capacità di modifica. Per vedere cosa supporta un tema, puoi passare con il mouse sopra il suo nome per vedere dove avranno effetto le modifiche.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Hai bisogno di ulteriore aiuto?";
 $Definition["Theming Guide"] = "Guida a tema";
 $Definition["Old Theming UI"] = "Vecchia interfaccia utente di Theming";
@@ -381,7 +381,7 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Abilita e prova le ultime funzionalità di Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Il lab <0/> deve essere configurato in modo che corrisponda al tuo tema personalizzato. Questo può essere fatto usando il nostro nuovo editor di temi. <1>Scopri di più.</1>';
 $Definition['Usercards'] = 'Schede utente';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Le schede utente ti consentono di ottenere una rapida istantanea in linea delle informazioni di un utente. Quando visualizzi i post e le classifiche, fai clic sul nome utente per vedere una scheda che mostra le informazioni di base del profilo degli utenti senza dover uscire dalla pagina. Abilita questa funzione per aggiungere schede utente al tuo tema personalizzato.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'Nuova pagina di ricerca';
 $Definition["Vanilla's new search service is finally here."] = "Il nuovo servizio di ricerca di Vanilla è finalmente arrivato. Abilita la nostra nuova interfaccia utente della pagina di ricerca per accedere alle funzionalità di ricerca più recenti come la ricerca dei membri, l'ordinamento delle ricerche e l'evidenziazione dei termini.";
 $Definition['New Quick Links'] = 'Nuovi collegamenti rapidi';
