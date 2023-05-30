@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Chủ đề di động của bạn sẽ bị vô hiệu hóa. Để đặt các chủ đề di động và máy tính để bàn khác nhau, hãy sử dụng giao diện người dùng theo chủ đề cũ.";
 $Definition["Heads Up!"] = "Coi chừng!";
-$Definition["Welcome to Vanilla's theming UI."] = "Chào mừng bạn đến với giao diện người dùng theo chủ đề của Vanilla. Trang này liệt kê tất cả các chủ đề có sẵn của bạn và cho phép bạn sao chép hoặc chỉnh sửa chúng.";
-$Definition["Some older themes don't support full editing capability."] = "Một số chủ đề cũ không hỗ trợ khả năng chỉnh sửa đầy đủ. Để xem những gì một chủ đề hỗ trợ, bạn có thể di chuột qua tên của nó để xem các chỉnh sửa sẽ có hiệu lực.";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Cần trợ giúp thêm?";
 $Definition["Theming Guide"] = "Hướng dẫn theo chủ đề";
 $Definition["Old Theming UI"] = "UI theo chủ đề cũ";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Kích hoạt và thử nghiệm các tính năng mới nhất của Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB <0 /> lab cần được định cấu hình để phù hợp với chủ đề tùy chỉnh của bạn. Điều này có thể được thực hiện bằng cách sử dụng trình chỉnh sửa chủ đề mới của chúng tôi. <1> Tìm hiểu thêm.</1>';
 $Definition['Usercards'] = 'Thông thường';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Thông thường cho phép bạn có được ảnh chụp nhanh trong dòng về thông tin của người dùng. Khi xem các bài đăng và bảng xếp hạng, hãy nhấp vào tên người dùng để xem thẻ hiển thị thông tin tiểu sử cơ bản của người dùng mà không cần phải điều hướng khỏi trang. Kích hoạt tính năng này để thêm các vòng sử dụng vào chủ đề tùy chỉnh của bạn.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'Trang tìm kiếm mới';
-$Definition["Vanilla's new search service is finally here."] = "Dịch vụ tìm kiếm mới của Vanilla cuối cùng cũng có ở đây. Bật giao diện người dùng trang tìm kiếm mới của chúng tôi để có quyền truy cập vào các tính năng tìm kiếm mới nhất như Tìm kiếm thành viên, sắp xếp tìm kiếm và đánh dấu cụm từ.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Liên kết nhanh mới';
 $Definition['Quick Links is a default component on community pages.'] = "Liên kết nhanh là một thành phần mặc định trên các trang cộng đồng. Bật thành phần Liên kết nhanh mới của chúng tôi để thêm, chỉnh sửa hoặc ẩn các liên kết khỏi menu này bằng trình chỉnh sửa chủ đề của chúng tôi.";
 
