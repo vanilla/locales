@@ -298,8 +298,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "您的移动主题将被禁用。要设置不同的移动和桌面主题，请使用旧的主题UI。";
 $Definition["Heads Up!"] = "当心！";
-$Definition["Welcome to Vanilla's theming UI."] = "欢迎使用Vanilla的主题UI。此页面列出了所有可用的主题，并允许您复制或编辑它们。";
-$Definition["Some older themes don't support full editing capability."] = "一些较旧的主题不支持完整的编辑功能。要查看主题支持的内容，可以将鼠标悬停在其名称上以查看修改将在何处生效。";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "需要更多帮助吗？";
 $Definition["Theming Guide"] = "主题指南";
 $Definition["Old Theming UI"] = "旧主题界面";
