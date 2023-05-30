@@ -298,7 +298,7 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 $Definition["Your mobile theme will be disabled."] = "Mobiltemaet ditt blir deaktivert. Hvis du vil angi forskjellige mobil- og stasjonære temaer, bruker du det gamle tema-brukergrensesnittet.";
 $Definition["Heads Up!"] = "Følg med!";
 $Definition["Welcome to Vanilla's theming UI."] = "Velkommen til Vanillas tema-brukergrensesnitt. Denne siden viser alle tilgjengelige temaer, og lar deg kopiere eller redigere dem.";
-$Definition["Some older themes don't support full editing capability."] = "Noen eldre temaer støtter ikke full redigeringsevne. For å se hva et tema støtter, kan du holde musepekeren over navnet for å se hvor redigeringene trer i kraft.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Need More Help?";
 $Definition["Theming Guide"] = "Temaguide";
 $Definition["Old Theming UI"] = "Old Theming UI";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Aktiver og test de siste Vanilla -funksjonene.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB <0/> laben må konfigureres for å matche ditt tilpassede tema. Dette kan gjøres ved hjelp av vår nye temaredigerer. <1> Finn ut mer.</1>';
 $Definition['Usercards'] = 'Brukerkort';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Med brukerkort kan du få et raskt øyeblikksbilde av brukerens informasjon. Når du ser innlegg og poenglister, klikker du på brukernavnet for å se et kort som viser brukerens grunnleggende profilinformasjon uten å måtte navigere vekk fra siden. Aktiver denne funksjonen for å legge til brukerkort i ditt egendefinerte tema.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'Ny søkeside';
-$Definition["Vanilla's new search service is finally here."] = "Vanillas nye søketjeneste er endelig her. Aktiver det nye brukergrensesnittet for søkesiden for å få tilgang til de nyeste søkefunksjonene, for eksempel Medlemssøk, søkesortering og begrepsmarkering.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Nye hurtigkoblinger';
 $Definition['Quick Links is a default component on community pages.'] = "Hurtigkoblinger er en standardkomponent på fellesskapssider. Aktiver vår nye hurtigkoblingskomponent for å legge til, redigere eller skjule lenker fra denne menyen ved hjelp av temaredigereren.";
 
