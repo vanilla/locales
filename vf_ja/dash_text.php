@@ -298,8 +298,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "モバイルテーマは無効になります。異なるモバイルテーマとデスクトップテーマを設定するには、古いテーマUIを使用します。";
 $Definition["Heads Up!"] = "注意喚起！";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "バニラのテーマUIへようこそ。このページには、使用可能なすべてのテーマが一覧表示され、それらをコピーまたは編集できます。";
+$Definition["Some older themes don't support full editing capability."] = "古いテーマの中には、完全な編集機能をサポートしていないものがあります。テーマがサポートするものを確認するには、その名前にカーソルを合わせると、編集が有効になる場所を確認できます。";
 $Definition["Need More Help?"] = "参考情報";
 $Definition["Theming Guide"] = "テーマガイド";
 $Definition["Old Theming UI"] = "古いテーマUI";
@@ -380,9 +380,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = '最新のVanilla機能を有効にしてテストします。';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = '注意<0 />ラボは、カスタムテーマに一致するように構成する必要があります。これは、新しいテーマエディターを使用して実行できます。 <1>詳細をご覧ください。</1>';
 $Definition['Usercards'] = 'ユーザーカード';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "ユーザーカードを使用すると、ユーザーの情報のインラインスナップショットをすばやく取得できます。投稿やリーダーボードを表示するときは、ユーザー名をクリックすると、ページから移動することなく、ユーザーの基本的なプロファイル情報を示すカードが表示されます。この機能を有効にして、カスタムテーマにユーザーカードを追加します。";
 $Definition['New Search Page'] = '新しい検索ページ';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "バニラの新しい検索サービスがついに登場しました。新しい検索ページのUIを有効にして、メンバー検索、検索の並べ替え、用語の強調表示などの最新の検索機能にアクセスします。";
 $Definition['New Quick Links'] = '新しいクイックリンク';
 $Definition['Quick Links is a default component on community pages.'] = "クイックリンクは、コミュニティページのデフォルトコンポーネントです。新しいクイックリンクコンポーネントを有効にして、テーマエディタを使用してこのメニューからリンクを追加、編集、または非表示にします。";
 

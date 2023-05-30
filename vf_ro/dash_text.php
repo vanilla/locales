@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Tema dvs. mobilă va fi dezactivată. Pentru a seta diferite teme mobile și desktop, utilizați vechea UI tematică.";
 $Definition["Heads Up!"] = "Atenție!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Bine ați venit la UI-ul tematic Vanilla. Această pagină listează toate temele disponibile și vă permite să le copiați sau să le editați.";
+$Definition["Some older themes don't support full editing capability."] = "Unele teme mai vechi nu acceptă capacitatea de editare completă. Pentru a vedea ce suportă o temă, puteți trece peste numele acesteia pentru a vedea unde vor avea efect modificările.";
 $Definition["Need More Help?"] = "Aveţi nevoie de mai mult ajutor?";
 $Definition["Theming Guide"] = "Ghid tematic";
 $Definition["Old Theming UI"] = "UI vechi Theming";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Activați și testați cele mai recente caracteristici Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Laboratorul <0 /> trebuie configurat pentru a se potrivi cu tema personalizată. Acest lucru se poate face folosind noul nostru editor de teme. <1> Aflați mai multe.</1>';
 $Definition['Usercards'] = 'Usercards';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Cartele de utilizator vă permit să obțineți un instantaneu rapid în linie cu informațiile unui utilizator. Când vizualizați postări și clasamente, faceți clic pe numele de utilizator pentru a vedea un card care prezintă informațiile de bază ale profilului utilizatorilor fără a fi nevoie să navigați departe de pagină. Activați această caracteristică pentru a adăuga cărți de utilizare la tema personalizată.";
 $Definition['New Search Page'] = 'Pagină nouă de căutare';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "Noul serviciu de căutare Vanilla este în sfârșit aici. Activați noua noastră interfață de utilizare a paginii de căutare pentru a avea acces la cele mai noi funcții de căutare, cum ar fi Căutarea membrilor, sortarea căutării și evidențierea termenilor.";
 $Definition['New Quick Links'] = 'Noi linkuri rapide';
 $Definition['Quick Links is a default component on community pages.'] = "Link-uri rapide este o componentă implicită pe paginile comunității. Activați noua componentă Quick Links pentru a adăuga, edita sau ascunde linkuri din acest meniu utilizând editorul nostru de teme.";
 

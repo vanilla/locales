@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "A mobil témája le lesz tiltva. Különböző mobil és asztali témák beállításához használja a régi theming felhasználói felületet.";
 $Definition["Heads Up!"] = "Fel a fejjel!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Üdvözöljük a Vanilla theming UI-n. Ez az oldal felsorolja az összes elérhető témát, és lehetővé teszi azok másolását vagy szerkesztését.";
+$Definition["Some older themes don't support full editing capability."] = "Néhány régebbi téma nem támogatja a teljes szerkesztési képességet. Ha meg szeretné látni, hogy egy téma miként támogatja, vigye az egérmutatót a neve fölé, hogy megtekintse, hol lépnek hatályba a szerkesztések.";
 $Definition["Need More Help?"] = "További segítségre van szükséged?";
 $Definition["Theming Guide"] = "Theming útmutató";
 $Definition["Old Theming UI"] = "Régi Theming felhasználói felület";
@@ -379,9 +379,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Engedélyezze és tesztelje a Vanilla legújabb funkcióit.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'Megjegyzés: A <0/> labort úgy kell konfigurálni, hogy megfeleljen az egyéni témának. Ezt az új témaszerkesztő segítségével tehetjük meg. <1> Tudjon meg többet.</1>';
 $Definition['Usercards'] = 'Felhasználói kártyák';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "A felhasználói kártyák lehetővé teszik, hogy gyors, pillanatnyi felvételt kapjon a felhasználó adatairól. A bejegyzések és ranglisták megtekintésekor kattintson a felhasználónévre, és megjelenik egy kártya, amely bemutatja a felhasználók alapvető profiladatait anélkül, hogy el kellene navigálnia az oldalról. Engedélyezze ezt a funkciót, ha usercardokat szeretne hozzáadni egyéni témájához.";
 $Definition['New Search Page'] = 'Új keresési oldal';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "A Vanilla új keresési szolgáltatása végre itt van. Engedélyezze új keresési oldalunk kezelőfelületét, hogy hozzáférhessen a legújabb keresési funkciókhoz, például a tagkereséshez, a keresések rendezéséhez és a kifejezések kiemeléséhez.";
 $Definition['New Quick Links'] = 'Új gyors linkek';
 $Definition['Quick Links is a default component on community pages.'] = "A Gyorslinkek a közösségi oldalak alapértelmezett összetevői. Engedélyezze új Gyorshivatkozások összetevőnket, hogy a témaszerkesztő segítségével linkeket adjon hozzá, szerkessze vagy rejtse el ebből a menüből.";
 

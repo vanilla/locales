@@ -299,8 +299,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Seu tema para celular será desativado. Para definir diferentes temas para dispositivos móveis e computadores, use a interface do usuário com temas antigos.";
 $Definition["Heads Up!"] = "Alerta!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Bem-vindo à interface do usuário com temas do Vanilla. Esta página lista todos os temas disponíveis e permite copiá-los ou editá-los.";
+$Definition["Some older themes don't support full editing capability."] = "Alguns temas mais antigos não suportam o recurso completo de edição. Para ver o que um tema suporta, você pode passar o mouse sobre o nome para ver onde as edições terão efeito.";
 $Definition["Need More Help?"] = "Precisando de mais ajuda?";
 $Definition["Theming Guide"] = "Guia de Temas";
 $Definition["Old Theming UI"] = "IU com tema antigo";
