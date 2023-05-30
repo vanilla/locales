@@ -1174,6 +1174,23 @@ $Definition['Not much happening here, yet.'] = 'Not much happening here, yet.';
 $Definition['Not registered?'] = 'Not registered?';
 $Definition['Not Verified'] = 'Not Verified';
 $Definition['Not Verified Description'] = 'Unverified users are passed through spam and pre-moderation filters.';
+$Definition['when people write on your wall'] = 'when people write on your wall';
+$Definition['when people reply to your wall comments'] = 'when people reply to your wall comments';
+$Definition['when you earn a badge'] = 'when you earn a badge';
+$Definition['when a badge is requested'] = 'when a badge is requested';
+$Definition['when your ideas\' statuses change'] = 'when your ideas\' statuses change';
+$Definition['when the status changes on an idea you have voted on'] = 'when the status changes on an idea you have voted on';
+$Definition['when your answer to a question has been accepted'] = 'when your answer to a question has been accepted';
+$Definition['when people have answered your question'] = 'when there has been a follow-up to your answered questions';
+$Definition['when there has been a follow-up to your answered questions'] = 'when there has been a follow-up to your answered questions';
+$Definition['when people comment on your posts'] = 'when people comment on your posts';
+$Definition['when people comment on your bookmarked posts'] = 'when people comment on your bookmarked posts';
+$Definition['when people mention you'] = 'when people mention you';
+$Definition['when people comment on posts you have participated in'] = 'when people comment on posts you have participated in';
+$Definition['of private messages'] = 'of private messages';
+$Definition['when you are invited to a group'] = 'when you are invited to a group';
+$Definition['when your group membership requests are approved'] = 'when your group membership requests are approved';
+$Definition['when there is a new post in groups you are a member of'] = 'when there is a new post in groups you are a member of';
 
 $Definition[' now.'] = ' now.';
 
