@@ -296,8 +296,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Itimu yakho yeselula izokhutshazwa. Ukusetha izingqikithi ezahlukahlukene zeselula nezedeskithophu, sebenzisa i-UI yezingxoxo zakudala.";
 $Definition["Heads Up!"] = "Amakhanda phezulu!";
-$Definition["Welcome to Vanilla's theming UI."] = "Uyemukelwa kwi-UI ye-theme ka-Vanilla. Leli khasi libala zonke izingqikithi zakho ezikhona, futhi likuvumela ukuthi uzikopishe noma uzihlele.";
-$Definition["Some older themes don't support full editing capability."] = "Ezinye izingqikithi ezindala azixhasi ukusekelwa okugcwele kokuhlela. Ukuze ubone ukuthi itimu isekela ini ungahamba ngaphezulu kwegama layo ukubona ukuthi ukuhlela kuzoqala kuphi.";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Ngabe udinga usizo olwengeziwe?";
 $Definition["Theming Guide"] = "Umhlahlandlela Wokuqondisa";
 $Definition["Old Theming UI"] = "UI Old Theming UI";
@@ -378,9 +378,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Nika amandla futhi uhlole izici zakamuva ze-Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Ilebhu ye- <0/> idinga ukulungiswa ukuze ifane netimu yakho yangokwezifiso. Lokhu kungenziwa kusetshenziswa isihleli sethu setimu esisha. <1>Thola okuningi.</1>';
 $Definition['Usercards'] = 'Ama-usercards';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Ama-usercards akuvumela ukuthi uthole isifinyezo esisheshayo esiku-inthanethi semininingwane yomsebenzisi. Lapho ubuka okuthunyelwe namabhodi wabaphambili, chofoza egameni lomsebenzisi ukubona ikhadi elibonisa imininingwane eyisisekelo yephrofayili yabasebenzisi ngaphandle kokuzulazula kude nekhasi. Nika amandla lesi sici ukwengeza ama-usercards kutimu yakho yangokwezifiso.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'Ukucinga okusha';
-$Definition["Vanilla's new search service is finally here."] = "Insizakalo entsha yokucinga kaVanilla ekugcineni ifikile. Nika amandla i-UI yethu yekhasi lokusesha elisha ukuthola ukufinyelela kuzici ezintsha zosesho ezinjengokusesha kwamaLungu, ukuhlungwa kosesho nokugqanyiswa kwethemu.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Izixhumanisi Ezisha Ezintsha';
 $Definition['Quick Links is a default component on community pages.'] = "I-Quick Links iyinto ezenzakalelayo emakhasini omphakathi. Nika amandla ingxenye yethu entsha ye-Quick Links ukwengeza, ukuhlela noma ukufihla izixhumanisi ezivela kule menyu usebenzisa isihleli setimu yethu.";
 
