@@ -978,5 +978,3 @@ $Definition["This information will only be shown to users with permission to vie
 $Definition["This is private information and will not be shared with other members."] = "This is private information and will not be shared with other members.";
 
 
-//Mere testing purposes
-$Definition['tears of the kingdom '] = 'Tears of The Kingdom';

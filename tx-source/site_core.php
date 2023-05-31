@@ -303,6 +303,7 @@ $Definition['Badge404'] = 'Badge not found.';
 $Definition['Badges'] = 'Badges';
 $Definition['BadgesModuleTitle'] = 'Badges';
 $Definition['BadgesNobody'] = 'Nobody has earned this badge yet.';
+$Definition['BadgeReasonPrompt'] = 'Think you deserve this badge? Tell us why.';
 $Definition['Bad login, double-check your credentials and try again.'] = 'Bad login, double-check your credentials and try again.';
 $Definition['Ban'] = 'Ban';
 $Definition['Ban.Action'] = 'Ban';
