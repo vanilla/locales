@@ -1191,6 +1191,7 @@ $Definition['of private messages'] = 'of private messages';
 $Definition['when you are invited to a group'] = 'when you are invited to a group';
 $Definition['when your group membership requests are approved'] = 'when your group membership requests are approved';
 $Definition['when there is a new post in groups you are a member of'] = 'when there is a new post in groups you are a member of';
+$Definition['Unsubscribe'] = 'Unsubscribe';
 
 $Definition[' now.'] = ' now.';
 
