@@ -978,3 +978,5 @@ $Definition["This information will only be shown to users with permission to vie
 $Definition["This is private information and will not be shared with other members."] = "This is private information and will not be shared with other members.";
 
 
+//Testing on transifex
+$Definition["Play Zelda dash"] = "Play Zelda dash";
