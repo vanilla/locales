@@ -297,8 +297,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Thèid an cuspair gluasadach agad a chiorramachadh. Gus diofar chuspairean gluasadach is deasg a shuidheachadh, cleachd an seann UI cuspaireil.";
 $Definition["Heads Up!"] = "Cinn suas!";
-$Definition["Welcome to Vanilla's theming UI."] = "Fàilte gu UI cuspaireil Vanilla. Tha an duilleag seo a ’liostadh na cuspairean air fad a tha rim faighinn, agus a’ toirt cothrom dhut lethbhreac no deasachadh a dhèanamh dhiubh.";
-$Definition["Some older themes don't support full editing capability."] = "Chan eil cuid de sheann chuspairean a ’toirt taic do làn chomas deasachaidh. Gus faicinn dè tha cuspair a ’toirt taic faodaidh tu gluasad thairis air an ainm aige gus faicinn far an tig na deasachaidhean gu buil.";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Need More Help?";
 $Definition["Theming Guide"] = "Stiùireadh Cuspair";
 $Definition["Old Theming UI"] = "UI seann chuspair";
@@ -381,7 +381,7 @@ $Definition['The <0/> lab needs to be configured to match your custom theme.'] =
 $Definition['Usercards'] = 'Cairtean cleachdaiche';
 $Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Leigidh cairtean-cleachdaidh leat dealbh aithghearr fhaighinn de fhiosrachadh neach-cleachdaidh. Nuair a bhios tu a ’coimhead air puist agus bùird stiùiridh, cliog air an ainm-cleachdaidh gus cairt fhaicinn a’ sealltainn fiosrachadh pròifil bunaiteach an luchd-cleachdaidh gun a bhith a ’gluasad air falbh bhon duilleag. Dèan comas air an fheart seo gus cleachdaidhean a chuir ris a ’chuspair àbhaisteach agad.";
 $Definition['New Search Page'] = 'Duilleag sgrùdaidh ùr';
-$Definition["Vanilla's new search service is finally here."] = "Tha seirbheis sgrùdaidh ùr Vanilla mu dheireadh an seo. Dèan comas air an duilleag sgrùdaidh ùr againn UI gus faighinn gu na feartan rannsachaidh as ùire leithid Rannsachadh Bhall, rèiteachadh rannsachaidh agus comharrachadh teirm.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Ceanglaichean sgiobalta ùra';
 $Definition['Quick Links is a default component on community pages.'] = "Tha Quick Links na phàirt bunaiteach air duilleagan coimhearsnachd. Dèan comas air a ’phàirt ùr Ceanglaichean Luath againn gus ceanglaichean bhon chlàr seo a chur ris, a dheasachadh no a fhalach a’ cleachdadh an deasaiche cuspair againn.";
 
