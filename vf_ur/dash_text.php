@@ -281,7 +281,7 @@ $Definition["This logo appears at the top of your site. Themes made with the the
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "موبائل لوگو آپ کی سائٹ کے اوپری حصے میں ظاہر ہوتا ہے۔ تھیم ایڈیٹر کے ساتھ بنائی گئی تھیمز اور کچھ حسب ضرورت تھیمز اس ترتیب کو استعمال نہیں کرتے ہیں۔";
 $Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "آپ کی سائٹ کا فیویکن آپ کے براؤزر کے ٹائٹل بار میں ظاہر ہوتا ہے۔ اسے مناسب طریقے سے کم کیا جائے گا۔";
 $Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "جب آپ موبائل ڈیوائس کی ہوم اسکرین پر کسی ویب سائٹ کو بک مارک کرتے ہیں تو ٹچ آئیکن ظاہر ہوتا ہے۔ یہ عام طور پر 152 پکسلز ہوتے ہیں۔";
-$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "جب کوئی آپ کی سائٹ سے کوئی لنک شیئر کرتا ہے تو ہم کوشش کرتے ہیں کہ صفحہ سے ایک تصویر حاصل کریں۔ اگر صفحہ پر کوئی تصویر نہیں ہے تو ہم اس تصویر کو استعمال کریں گے۔ تصویر کم از کم 50×50 ہونی چاہیے، لیکن ہم 200×200 کی تجویز کرتے ہیں۔";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "جب کوئی آپ کی سائٹ سے کوئی لنک شیئر کرتا ہے تو ہم کوشش کرتے ہیں اور پیج سے ایک تصویر لے لیں۔ اگر صفحے پر کوئی تصویر نہیں ہے تو ہم اس کی بجائے اس کی تصویر استعمال کریں گے۔ تصویر کم از کم 50 × 50 ہونی چاہئے ، لیکن ہم 200 × 200 کی سفارش کرتے ہیں۔";
 $Definition["Some browsers support a color for the address bar."] = "کچھ براؤزر ایڈریس بار کے لیے رنگ کی حمایت کرتے ہیں۔";
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "یہ ترتیب جاوا اسکرپٹ کو چلانے سے پہلے صفحہ کو لوڈ کرتی ہے جو آپ کے SEO کو بہتر بنا سکتی ہے۔";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**انتباہ: اس خصوصیت کو فعال کرنے سے آپ کی سائٹ پر جاوا اسکرپٹ کی خرابیاں ہوسکتی ہیں۔**";
@@ -296,8 +296,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "آپ کا موبائل تھیم غیر فعال ہوجائے گا۔ موبائل اور ڈیسک ٹاپ کے مختلف تھیمز مرتب کرنے کیلئے ، پرانا تیمنگ UI استعمال کریں۔";
 $Definition["Heads Up!"] = "سر!";
-$Definition["Welcome to Vanilla's theming UI."] = "ونیلا کے تیاری کرنے والے UI میں خوش آمدید۔ اس صفحے میں آپ کے تمام دستیاب تھیمز کی فہرست دی گئی ہے ، اور آپ کو ان میں کاپی یا ترمیم کرنے کی سہولت دیتی ہے۔";
-$Definition["Some older themes don't support full editing capability."] = "کچھ پرانے موضوعات مکمل ترمیم کی اہلیت کی حمایت نہیں کرتے ہیں۔ ایک تھیم کس چیز کی تائید کرتی ہے یہ دیکھنے کے ل you آپ اس کے نام پر گھوم سکتے ہیں تاکہ یہ دیکھیں کہ ترمیمات کہاں سے اثر پذیر ہوں گی۔";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "مزید مدد کی ضرورت ہے؟";
 $Definition["Theming Guide"] = "تھیمنگ گائیڈ";
 $Definition["Old Theming UI"] = "پرانا تیمنگ UI";
@@ -378,9 +378,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'وینیلا کی تازہ ترین خصوصیات کو فعال اور آزمائیں۔';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB <0/> لیب کو آپ کے کسٹم تھیم سے ملنے کے لیے ترتیب دینے کی ضرورت ہے۔ یہ ہمارے نئے تھیم ایڈیٹر کا استعمال کرتے ہوئے کیا جا سکتا ہے۔ <1> مزید جانیں۔</1>';
 $Definition['Usercards'] = 'یوزر کارڈز۔';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "یوزر کارڈ آپ کو صارف کی معلومات کا فوری ان لائن سنیپ شاٹ حاصل کرنے کی اجازت دیتا ہے۔ پوسٹس اور لیڈر بورڈز کو دیکھتے وقت ، صارف نام پر کلک کریں تاکہ کارڈ کو صفحے سے دور تشریف لائے بغیر صارفین کی بنیادی پروفائل کی معلومات کو دکھایا جا سکے۔ اپنے فیچر کو اپنے کسٹم تھیم میں یوزر کارڈز شامل کرنے کے لیے اس فیچر کو فعال کریں۔";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'نیا سرچ پیج۔';
-$Definition["Vanilla's new search service is finally here."] = "ونیلا کی نئی سرچ سروس آخر کار یہاں ہے۔ ممبر سرچ ، سرچ سرچنگ اور ٹرم ہائی لائٹنگ جیسی نئی سرچ فیچرز تک رسائی حاصل کرنے کے لیے ہمارے نئے سرچ پیج UI کو فعال کریں۔";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'نئے فوری لنکس۔';
 $Definition['Quick Links is a default component on community pages.'] = "کوئیک لنکس کمیونٹی پیجز پر ڈیفالٹ جزو ہے۔ ہمارے تھیم ایڈیٹر کا استعمال کرتے ہوئے اس مینو سے روابط کو شامل ، ترمیم یا چھپانے کے لیے ہمارے نئے کوئیک لنکس جزو کو فعال کریں۔";
 

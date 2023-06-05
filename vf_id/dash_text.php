@@ -296,8 +296,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Tema seluler Anda akan dinonaktifkan. Untuk mengatur berbagai tema seluler dan desktop, gunakan UI tema lama.";
 $Definition["Heads Up!"] = "Perhatian!";
-$Definition["Welcome to Vanilla's theming UI."] = "Selamat datang di UI tema Vanilla. Halaman ini mencantumkan semua tema yang tersedia, dan memungkinkan Anda untuk menyalin atau mengeditnya.";
-$Definition["Some older themes don't support full editing capability."] = "Beberapa tema lama tidak mendukung kemampuan pengeditan penuh. Untuk melihat apa yang didukung tema, Anda dapat mengarahkan kursor ke namanya untuk melihat di mana pengeditan akan diterapkan.";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Perlu Bantuan Lanjut?";
 $Definition["Theming Guide"] = "Panduan Mereka";
 $Definition["Old Theming UI"] = "UI Tema Lama";
