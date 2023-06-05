@@ -281,7 +281,7 @@ $Definition["This logo appears at the top of your site. Themes made with the the
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Логотип за мобилне уређаје се појављује на врху вашег сајта. Теме направљене помоћу уређивача тема и неке прилагођене теме не користе ово подешавање.";
 $Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Фавицон вашег сајта се појављује у насловној траци вашег претраживача. Биће на одговарајући начин смањен.";
 $Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Додирна икона се појављује када обележите веб локацију на почетном екрану мобилног уређаја. То су обично 152 пиксела.";
-$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Када неко подели везу са вашег сајта, ми покушавамо да преузмемо слику са странице. Ако на страници нема слике, уместо ње ћемо користити ову слику. Слика треба да буде најмање 50×50, али препоручујемо 200×200.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Када неко дели везу са ваше веб локације, покушавамо да снимимо слику са странице. Ако на страници нема слике, тада ћемо је користити ту слику. Слика би требала бити најмање 50 × 50, али препоручујемо 200 × 200.";
 $Definition["Some browsers support a color for the address bar."] = "Неки претраживачи подржавају боју за адресну траку.";
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Ово подешавање учитава страницу пре извршавања Јавасцрипт-а што може побољшати ваш СЕО.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Упозорење: Омогућавање ове функције може да изазове Јавасцрипт грешке на вашем сајту.**";
@@ -296,8 +296,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Ваша тема за мобилне уређаје биће онемогућена. Да бисте поставили различите теме за мобилне уређаје и радне површине, користите стари тематски интерфејс.";
 $Definition["Heads Up!"] = "Главу горе!";
-$Definition["Welcome to Vanilla's theming UI."] = "Добродошли у корисничко корисничко сучеље Ванилла. Ова страница наводи све расположиве теме и омогућава вам да их копирате или уредите.";
-$Definition["Some older themes don't support full editing capability."] = "Неке старије теме не подржавају пуну могућност уређивања. Да бисте видели шта тема подржава можете да поставите показивач миша над њено име да бисте видели где ће измене ступити на снагу.";
+$Definition["Welcome to Vanilla's theming UI."] = "Добродошли у корисничко сучеље тематике Ванилла. Ова страница наводи све ваше доступне теме и омогућава вам да их копирате или измените.";
+$Definition["Some older themes don't support full editing capability."] = "Неке старије теме не подржавају пуну могућност уређивања. Да бисте видели шта тема подржава, можете да пређете мишем преко њеног имена да видите где ће измене ступити на снагу.";
 $Definition["Need More Help?"] = "Требате више помоћи?";
 $Definition["Theming Guide"] = "Тхеминг Гуиде";
 $Definition["Old Theming UI"] = "Корисничко сучеље Олд Тхеминг";
@@ -378,9 +378,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Омогућите и испробајте најновије функције ваниле.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'Напомена: Лабораторија <0/> мора бити конфигурисана тако да одговара вашој прилагођеној теми. То можете учинити помоћу нашег новог уређивача тема. <1> Сазнајте више.</1>';
 $Definition['Usercards'] = 'Корисничке картице';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Корисничке картице вам омогућавају да добијете брзи ин-лине снимак корисничких информација. Када прегледате објаве и табеле са резултатима, кликните на корисничко име да бисте видели картицу која приказује основне податке о корисницима без потребе да се удаљавате од странице. Омогућите ову функцију за додавање корисничких картица прилагођеној теми.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Корисничке картице вам омогућавају да брзо добијете ин-лине снимак информација о кориснику. Када прегледате постове и табеле са резултатима, кликните на корисничко име да бисте видели картицу која приказује основне информације о профилу корисника без потребе да се крећете са странице. Омогућите ову функцију да додате корисничке картице вашој прилагођеној теми.";
 $Definition['New Search Page'] = 'Нова страница за претрагу';
-$Definition["Vanilla's new search service is finally here."] = "Ваниллина нова услуга претраживања коначно је стигла. Омогућите нашем новом корисничком интерфејсу странице за претрагу да добијете приступ најновијим функцијама претраживања, као што су Претраживање чланова, сортирање претраге и истицање термина.";
+$Definition["Vanilla's new search service is finally here."] = "Ванилин нови сервис за претрагу је коначно стигао. Омогућите наш нови кориснички интерфејс странице за претрагу да бисте добили приступ најновијим функцијама претраге као што су Претрага чланова, сортирање претраге и истицање термина.";
 $Definition['New Quick Links'] = 'Нове брзе везе';
 $Definition['Quick Links is a default component on community pages.'] = "Брзе везе су подразумевана компонента на страницама заједнице. Омогућите нашој новој компоненти Брзе везе за додавање, уређивање или скривање веза из овог менија помоћу нашег уређивача тема.";
 
