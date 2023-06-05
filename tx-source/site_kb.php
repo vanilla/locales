@@ -206,3 +206,6 @@ $Definition["You don't have permission to view this resource."] = "You don't hav
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "You need to <0>Sign In</0> to vote on this article";
 $Definition["Use Banner Image Overlay"] = "Use Banner Image Overlay";
 
+
+//Testing
+$Definition["Being added as a test Zelda"] = "Being added as a test Zelda";
