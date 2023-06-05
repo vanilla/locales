@@ -298,7 +298,7 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 $Definition["Your mobile theme will be disabled."] = "Dit mobiltema deaktiveres. Hvis du vil indstille forskellige mobil- og desktop-temaer, skal du bruge det gamle tema-UI.";
 $Definition["Heads Up!"] = "Bemærk!";
 $Definition["Welcome to Vanilla's theming UI."] = "Velkommen til Vanilla's tema UI. Denne side viser alle dine tilgængelige temaer og giver dig mulighed for at kopiere eller redigere dem.";
-$Definition["Some older themes don't support full editing capability."] = "Nogle ældre temaer understøtter ikke fuld redigeringsevne. For at se, hvad et tema understøtter, kan du holde musepekeren over dets navn for at se, hvor redigeringer får virkning.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Behov for mere hjælp?";
 $Definition["Theming Guide"] = "Temaguide";
 $Definition["Old Theming UI"] = "Old Theming UI";
