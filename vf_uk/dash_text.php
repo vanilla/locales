@@ -296,8 +296,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Ваша тема для мобільних пристроїв буде відключена. Щоб встановити різні теми для мобільних пристроїв та настільних ПК, використовуйте старий тематичний інтерфейс.";
 $Definition["Heads Up!"] = "Анонс!";
-$Definition["Welcome to Vanilla's theming UI."] = "Ласкаво просимо до тематичного інтерфейсу Vanilla. На цій сторінці перераховані всі доступні теми та ви можете скопіювати їх або відредагувати.";
-$Definition["Some older themes don't support full editing capability."] = "Деякі старі теми не підтримують повну можливість редагування. Щоб побачити, яку тему підтримує, ви можете навести курсор миші на її назву, щоб побачити, де зміни набудуть чинності.";
+$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
+$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
 $Definition["Need More Help?"] = "Потрібна допомога?";
 $Definition["Theming Guide"] = "Посібник з тематики";
 $Definition["Old Theming UI"] = "Інтерфейс старої тематики";
@@ -378,9 +378,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Увімкніть та протестуйте найновіші функції Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'Примітка. Лабораторію <0/> потрібно налаштувати відповідно до вашої спеціальної теми. Це можна зробити за допомогою нашого нового редактора тем. <1> Дізнайтесь більше.</1>';
 $Definition['Usercards'] = 'Картки користувачів';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Картки користувачів дозволяють отримати швидкий вбудований знімок інформації користувача. Переглядаючи публікації та таблиці лідерів, натисніть на ім’я користувача, щоб побачити картку з основними даними про профіль користувачів, не виходячи зі сторінки. Увімкніть цю функцію, щоб додати картки користувачів до власної теми.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
 $Definition['New Search Page'] = 'Нова сторінка пошуку';
-$Definition["Vanilla's new search service is finally here."] = "Нова служба пошуку Vanilla нарешті тут. Увімкніть наш новий інтерфейс сторінки пошуку, щоб отримати доступ до найновіших функцій пошуку, таких як пошук користувачів, сортування пошуку та виділення термінів.";
+$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
 $Definition['New Quick Links'] = 'Нові швидкі посилання';
 $Definition['Quick Links is a default component on community pages.'] = "Швидкі посилання - це компонент за замовчуванням на сторінках спільноти. Увімкніть наш новий компонент швидких посилань, щоб додавати, редагувати або приховувати посилання з цього меню за допомогою нашого редактора тем.";
 
