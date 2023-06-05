@@ -209,4 +209,4 @@ $Definition["Use Banner Image Overlay"] = "Use Banner Image Overlay";
 
 //Testing
 $Definition["Being added as a test Zelda"] = "Being added as a test Zelda";
-$Definition["Tears for Zelda"] = "Tears for Zelda";
+$Definition["Tears for Zelda 2"] = "Tears for Zelda 2";
