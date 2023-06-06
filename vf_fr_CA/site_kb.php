@@ -207,3 +207,4 @@ $Definition["You don't have permission to view this resource."] = "Vous n'avez p
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Vous devez vous <0>Connecter</0> pour voter pour cet article";
 $Definition["Use Banner Image Overlay"] = "Utiliser l'image de bannière superposée";
 
+

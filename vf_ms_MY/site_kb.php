@@ -29,7 +29,7 @@ $Definition["Associate a product with this subcommunity. Use the <0>Manage Produ
 $Definition["Back to Home"] = "Kembali ke rumah";
 $Definition["Back to home page"] = "Kembali ke laman utama";
 $Definition["Background colors are used as the background of elements. This should have good constrast with the foreground color."] = "Warna latar digunakan sebagai latar elemen. Ini harus mempunyai perbezaan yang baik dengan warna latar depan.";
-$Definition["Banner Image"] = "Gambar Sepanduk";
+$Definition["Banner Image"] = "Imej Sepanduk";
 $Definition["Be the first one to vote!"] = "Jadilah yang pertama mengundi!";
 $Definition["Border Style"] = "Gaya Sempadan";
 $Definition["Browse Articles by Category"] = "Lihat Artikel mengikut Kategori";
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "Anda tidak mempunyai kebenaran untuk melihat sumber ini.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Anda perlu <0> Log masuk </0> untuk memilih artikel ini";
 $Definition["Use Banner Image Overlay"] = "Gunakan Hamparan Imej Sepanduk";
+
 

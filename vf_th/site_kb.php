@@ -29,7 +29,7 @@ $Definition["Associate a product with this subcommunity. Use the <0>Manage Produ
 $Definition["Back to Home"] = "กลับไปที่หน้าหลัก";
 $Definition["Back to home page"] = "กลับไปยังหน้าหลัก";
 $Definition["Background colors are used as the background of elements. This should have good constrast with the foreground color."] = "สีพื้นหลังใช้เป็นพื้นหลังขององค์ประกอบ สิ่งนี้ควรมีความสอดคล้องที่ดีกับสีพื้นหน้า";
-$Definition["Banner Image"] = "รูปภาพแบนเนอร์";
+$Definition["Banner Image"] = "ภาพแบนเนอร์";
 $Definition["Be the first one to vote!"] = "เป็นคนแรกที่ลงคะแนน!";
 $Definition["Border Style"] = "สไตล์เส้นขอบ";
 $Definition["Browse Articles by Category"] = "เรียกดูบทความตามหมวดหมู่";
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "คุณไม่ได้รับอนุญาตให้ดูแหล่งข้อมูลนี้";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "คุณต้อง <0> ลงชื่อเข้าใช้ </0> เพื่อลงคะแนนในบทความนี้";
 $Definition["Use Banner Image Overlay"] = "ใช้การซ้อนทับรูปภาพแบนเนอร์";
+
 

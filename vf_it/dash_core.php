@@ -196,7 +196,7 @@ $Definition['Choose who can send out invitations to new members:'] = 'Scegli chi
 $Definition['Choose how many records to display.'] = 'Scegli quanti record visualizzare.';
 $Definition['Choose when to load records from.'] = 'Scegli quando caricare i record da.';
 $Definition['Class'] = 'Classe';
-$Definition['Clear All'] = 'Clear All';
+$Definition['Clear All'] = 'Cancella tutto';
 $Definition['Classic table layout used by traditional forums'] = 'Layout di tabella classico usato da forum tradizionali';
 $Definition['Clean Spam'] = 'Pulisci Spam';
 $Definition['Click a tag name to edit. Click x to remove.'] = 'Clicca sul nome tag da editare. Premi X per rimuoverlo.';
@@ -392,7 +392,7 @@ $Definition['Flagged Content'] = 'Contenuto Segnalato';
 $Definition['Flood Control'] = 'Controllo del flusso';
 $Definition['Forbidden words'] = 'Parole vietate';
 $Definition['Follow Up Delay'] = 'Ritardo di follow-up';
-$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'Ad esempio, per consentire iltuodominio.it, www.iltuodominio.it e assistenza.iltuodominio.it, dovresti aggiungere *.iltuodominio.it';
 $Definition['Force the forum to only be accessible through this url'] = 'Forza il forum affinché sia accessibile sola attraverso questa URL';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Forzare il forum perché possa essere visualizzato attraverso la URL in remoto';
 $Definition['Formats'] = 'Formati';
@@ -635,7 +635,7 @@ $Definition['Preview Colors'] = 'Colori della Preview';
 $Definition['Private Communities'] = 'Comunità private';
 $Definition['private conversation(s)'] = 'conversazione/i privata/e';
 $Definition['Private Key'] = 'Chiave Privata';
-$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'Protocolli (es. https://) e percorsi (es. iltuodominio.it/esempio/percorso) vanno omessi.';
 $Definition['Provider'] = 'Fornitore';
 $Definition['Public Key'] = 'Chiave Pubblica';
 
@@ -666,7 +666,7 @@ $Definition['Replacement Role'] = 'Ruolo di sostituzione';
 $Definition['Reply  To'] = 'Rispondi  a';
 $Definition['reply to private conversation(s)'] = 'rispondi alla conversazione/i privata/e';
 $Definition['Request'] = 'Richiesta';
-$Definition['Requests'] = 'Requests';
+$Definition['Requests'] = 'Richieste';
 $Definition['Requires'] = 'Richiede';
 $Definition['Requires: '] = 'Richiede: ';
 $Definition['Require users to confirm their email addresses (recommended)'] = 'Chiedere agli utenti di confermare i loro indirizzi e-mail (consigliato)';
@@ -681,7 +681,7 @@ $Definition["Revert"] = "Ripristina";
 $Definition['Revert to Original Version'] = 'Ripristina alla Versione Originale';
 $Definition['Revision Label:'] = 'Etichetta di Revisione:';
 $Definition['Role'] = 'Ruolo';
-$Definition['Assign to'] = 'Assign to';
+$Definition['Assign to'] = 'Assegna a';
 $Definition['Role Applicants'] = 'Candidati di ruolo';
 $Definition['Role Name'] = 'Nome Ruolo';
 $Definition['Role Permissions'] = 'Autorizzazioni ruolo';
@@ -913,7 +913,7 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'È possibile personalizzare l\'HTML e il CSS per questo tema nella pagina %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Puoi creare un nuovo account oppure immettere le credenziali se si dispone di un account esistente.';
 $Definition['You can make the categories page your homepage.'] = 'Puoi fare in modo che la tua pagina delle categorie  diventi la tua homepage <a href="%s">da qui</a>.';
-$Definition['You can specify an allow list of trusted domains.'] = 'You can specify a list of trusted domains that are safe for redirects & embedding.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Puoi definire un elenco di domini attendibili che siano sicuri per i reindirizzamenti e l\'embedding.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Puoi specificare un elenco di domini attendibili (es. tuodominio.com) da cui è possibile caricare javascript in modo sicuro.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Non puoi disabilitare il plugin %1$s poiché il plugin %2$s  lo richiede per funzionare correttamente.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Non è possibile rimuovere la categoria unica rimasta che permette discussioni.';
@@ -974,5 +974,4 @@ $Definition["disabled"] = "disabilitato";
 
 $Definition["This information will only be shown to users with permission to view internal info"] = "Questa informazione verrà mostrata solamente agli utenti con l'autorizzazione a visualizzare le informazioni interne";
 $Definition["This is private information and will not be shared with other members."] = "Questa è un'informazione privata e non verrà condivisa con altri membri.";
-
 

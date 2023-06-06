@@ -110,7 +110,7 @@ $Definition["No knowledge bases found."] = "Neboli nájdené žiadne vedomostné
 
 $Definition["Oldest First"] = "Najstaršie ako prvé";
 $Definition["On This Page"] = "Na tejto stránke";
-$Definition["Organize Categories"] = "Usporiadať kategórie";
+$Definition["Organize Categories"] = "Zoradiť kategórie";
 $Definition["Other Articles"] = "Ostatné články";
 $Definition["Other Languages"] = "Ostatné jazyky";
 
@@ -206,4 +206,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "Nemáte povolenie na zobrazenie tohto zdroja.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Pre hlasovanie o článku sa musíte <0>prihlásiť</0> ";
 $Definition["Use Banner Image Overlay"] = "Použite prekrývanie obrázka bannera";
+
 

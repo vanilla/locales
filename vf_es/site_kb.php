@@ -1,7 +1,7 @@
 <?php
 // phpcs:ignoreFile
 $Definition["(No Body)"] = "(Sin cuerpo)";
-$Definition["(Untitled)"] = "(Sin título)";
+$Definition["(Untitled)"] = "(Sin Título)";
 $Definition["<0 /> out of <1 /> people found this helpful"] = "<0 /> de <1 /> personas han encontrado útil esta información";
 
 $Definition["A customized version of the knowledge base name as it should appear in URLs."] = "Una versión personalizada del nombre de la base de datos de conocimientos como debería aparecer en las URL.";
@@ -131,7 +131,7 @@ $Definition["Rename"] = "Cambiar el nombre";
 $Definition["Restore an Article"] = "Restaurar un artículo";
 $Definition["Restore Knowledge Base"] = "Restaurar la base de datos de conocimientos";
 $Definition["Retry"] = "Reintentar";
-$Definition["Revision History"] = "Historial de revisiones";
+$Definition["Revision History"] = "Historial de Revisión";
 $Definition["Revisions"] = "Revisiones";
 
 $Definition["Saving draft..."] = "Guardando borrador...";
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "No tienes permiso para ver este recurso.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Necesitas <0>Iniciar sesión</0> para votar en este artículo";
 $Definition["Use Banner Image Overlay"] = "Usar la superposición de imagen de banner";
+
 

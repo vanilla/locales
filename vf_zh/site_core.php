@@ -1786,7 +1786,6 @@ $Definition['This setting loads the page before executing Javascript which can i
 $Definition['This site is protected by reCAPTCHA and the Google'] = '本网站受 reCAPTCHA 和谷歌的保护
 ';
 $Definition['This text has been converted from another format.'] = '此文本已从另一种格式转换过来。';
-$Definition['This user\'s profile is private.'] = '该用户的个人资料是私密的。';
 $Definition['This user has been banned'] = '该用户已被禁止';
 $Definition['This user has been deleted.'] = '该用户已被删除。';
 $Definition['This user has been marked as a troll.'] = '该用户已被标记为恶意挑衅者。';
@@ -1976,7 +1975,7 @@ $Definition['weekday.letter.2'] = '星期四';
 $Definition['weekday.letter.3'] = '星期三';
 $Definition['weekday.letter.4'] = '星期四';
 $Definition['weekday.letter.5'] = 'F';
-$Definition['weekday.letter.6'] = 'S';
+$Definition['weekday.letter.6'] = '星期六';
 $Definition['weekday.letter.7'] = '星期六';
 $Definition['weekday.long.1'] = '星期一';
 $Definition['weekday.long.2'] = '星期二';

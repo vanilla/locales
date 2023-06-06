@@ -208,3 +208,4 @@ $Definition["You don't have permission to view this resource."] = "해당 자료
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "해당 아티클에 투표하려면, <0>로그인</0>해야 합니다   ";
 $Definition["Use Banner Image Overlay"] = "배너 이미지 오버레이 사용";
 
+

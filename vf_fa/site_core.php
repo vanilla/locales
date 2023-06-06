@@ -274,7 +274,6 @@ $Definition['Approved'] = 'تائيد شد';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'آيا كاملاً‌مطمئن هستيد كه ميخواهيد اين عمل را انجام دهيد؟';
 $Definition['Are you attending this event?'] = 'آيا در اين رويداد شركت ميكنيد؟';
 $Definition['Are you sure you want to delete this %s?'] = 'آيا مطمئن هستيد كه ميخواهيد اين %s را حذف كنيد؟';
-$Definition['Are you sure you want to delete this image? You won\'t be able to recover it.'] = 'آیا مطمئن هستید که می خواهید این تصویر را حذف کنید؟ شما قادر به بازیابی آن نخواهید بود.';
 $Definition['Are you sure you want to do that?'] = 'آيا مطمئن هستيد كه ميخواهيد آن كار را انجام دهيد؟';
 $Definition['Are you sure you want to do this?'] = 'آيا مطمئن هستيد كه ميخواهيد اين كار را انجام دهيد؟';
 $Definition['Are you sure you want to ignore <b>%s</b>?'] = 'آیا مطمئن هستید که می خواهید <b>%s را</b> نادیده بگیرید؟';
@@ -1484,7 +1483,7 @@ $Definition['richEditor.emoji.pagingInstructions'] = 'هنگامیکه منوی 
 $Definition['richEditor.emojiPicker.description.pageUpDown'] = 'هنگامیکه منوی باز است می توانید از میانبرهای صفحه کلید "بالا" و "پایین" استفاده کنید.';
 $Definition['richEditor.externalEmbed.description'] = 'این تعبیه شده است می توان آن را با استفاده از کلید حذف یا کلید backspace حذف کرد. برای ورود به گزینه های تعبیه ، زبانه را فشار دهید.';
 $Definition['richEditor.menu.blockquote'] = 'نقل قول ویژه';
-$Definition['richEditor.menu.bold'] = 'توپر';
+$Definition['richEditor.menu.bold'] = 'درشت';
 $Definition['richEditor.menu.code'] = 'کد درون خطی';
 $Definition['richEditor.menu.codeBlock'] = 'کد';
 $Definition['richEditor.menu.heading'] = 'عنوان';
@@ -1756,7 +1755,6 @@ $Definition['This question\'s answer has been accepted.'] = 'پاسخ اين س�
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'این تنظیمات قبل از اجرای Javascript می تواند صفحه بارگیری کند که می تواند سئوی شما را بهبود بخشد. <br> <strong>** هشدار: فعال کردن این ویژگی ممکن است باعث ایجاد خطاهای Javascript در سایت شما شود. **</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'این سایت توسط reCAPTCHA و Google محافظت می شود';
 $Definition['This text has been converted from another format.'] = 'این متن از قالب دیگری تبدیل شده است.';
-$Definition['This user\'s profile is private.'] = 'مشخصات این کاربر خصوصی است.';
 $Definition['This user has been banned'] = 'این کاربر ممنوع شده است';
 $Definition['This user has been deleted.'] = 'این کاربر حذف شده است.';
 $Definition['This user has been marked as a troll.'] = 'این کاربر به عنوان ترول مارک شده است!';
@@ -1999,7 +1997,7 @@ $Definition['You\'ve applied to join this group.'] = 'شما درخواست عض
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">شما سوالي پرسيده ايد كه حال به آن پاسخ داده اند</a> . مطمئن شويد كه پاسخ را تائيد / رد ميكنيد.';
 $Definition['You\'ve been invited to join {Name}.'] = 'شما جهت عضويت در {Name} دعوت شده ايد.';
 $Definition['You\'ve been Jailed.'] = 'شما محبوس شده ايد.';
-$Definition['You\'ve been warned.'] = 'شما اخطار گرفته اید.';
+$Definition['You\'ve been warned.'] = 'شما هشدار گرفته اید.';
 $Definition['You already have an account here.'] = 'شما از قبل در اينجا حساب كاربري داريد.';
 $Definition['You already have this role.'] = 'شما قبلاً این نقش را دارید.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'شما ميخواهيد  {User.UserID,user} را مسدود كنيد.';

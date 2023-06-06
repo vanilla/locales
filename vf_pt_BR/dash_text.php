@@ -231,7 +231,7 @@ $Definition['This page lists the endpoints of your API.'] =
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
     'Esta função é informação pessoal. Somente usuários com permissão para visualizar informações pessoais verão essas informações.';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'Essa configuração carrega a página antes de executar o Javascript, o que pode melhorar seu SEO. <br> <strong>** Aviso: ativar esse recurso pode causar erros de Javascript no seu site. **</strong>';
+    'Esta configuração carrega a página antes de executar Javascript, o que pode melhorar o seu SEO.<br><strong>**Aviso: Ativar esse recurso pode causar erros de Javascript no seu site.**</strong>';
 $Definition['Tiled Layout'] = 'Layout lado a lado';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Para incorporar o fórum do Vanilla em outro site, use o seguinte código.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'São endereços demais! Nós iremos enviar para até %s endereços de cada vez.';
@@ -284,7 +284,7 @@ $Definition["This logo appears at the top of your site. Themes made with the the
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "O logotipo para celulares aparece na parte superior do seu site. Temas criados com o editor de temas e alguns temas personalizados não usam essa configuração.";
 $Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "O favicon do seu site aparece na barra de título do seu navegador. Será reduzido de forma adequada.";
 $Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "O ícone de toque aparece quando você favorita um site na tela inicial de um dispositivo móvel. Estes são geralmente 152 pixels.";
-$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Quando alguém compartilha um link do seu site, tentamos pegar uma imagem da página. Se não houver uma imagem na página, usaremos essa imagem. A imagem deve ter pelo menos 50×50, mas recomendamos 200×200.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Quando alguém compartilha um link do seu site, tentamos obter uma imagem da página. Se não houver uma imagem na página, usaremos essa imagem. A imagem deve ter pelo menos 50 × 50, mas recomendamos 200 × 200.";
 $Definition["Some browsers support a color for the address bar."] = "Alguns navegadores suportam uma cor para a barra de endereços.";
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Essa configuração carrega a página antes de executar o Javascript, o que pode melhorar seu SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Aviso: ativar este recurso pode causar erros de Javascript em seu site.**";
@@ -299,8 +299,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Seu tema para celular será desativado. Para definir diferentes temas para dispositivos móveis e computadores, use a interface do usuário com temas antigos.";
 $Definition["Heads Up!"] = "Alerta!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Bem-vindo à IU temática do Vanilla. Esta página lista todos os seus temas disponíveis e permite copiá-los ou editá-los.";
+$Definition["Some older themes don't support full editing capability."] = "Alguns temas mais antigos não suportam recursos completos de edição. Para ver o que um tema suporta, você pode passar o mouse sobre o nome dele, para ver onde as edições terão efeito.";
 $Definition["Need More Help?"] = "Precisando de mais ajuda?";
 $Definition["Theming Guide"] = "Guia de Temas";
 $Definition["Old Theming UI"] = "IU com tema antigo";
@@ -358,7 +358,7 @@ $Definition["Color Overlay"] = "Sobreposição de cores";
 $Definition["Borderless"] = "Sem fronteiras";
 $Definition["Bordered"] = "Limitada";
 $Definition["Bordered (Unified)"] = "Limitada (unificada)";
-$Definition["Shadowed"] = "Shadowed";
+$Definition["Shadowed"] = "Seguido ocultamente";
 
 $Definition["Full Bleed"] = "Sangramento total";
 $Definition["When you select Full Bleed, your background is transparent."] = "Quando você seleciona Sangramento total, seu plano de fundo é transparente.";

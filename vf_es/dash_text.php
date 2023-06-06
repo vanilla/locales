@@ -12,7 +12,7 @@ $Definition['AboutEmbedding'] = 'Las incrustaciones permiten que toda o parte de
 $Definition['About Vanilla Statistics'] = 'Acerca de las Estadísticas Vanilla';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Accede al foro de tu comunidad haciendo clic en el enlace "Visita el sitio" en la parte superior de esta página, o <a href={/,url}> haciendo clic aquí </a>. El foro de la comunidad es lo que todos los usuarios y clientes verán cuando visiten <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Add limits to image upload dimensions in discussions and comments.'] =
-    'Añade límites a las dimensiones en la subida de imágenes en discusiones y comentarios.';
+    'Añade límites a las dimensiones de carga de imagenes en en las discusiones y comentarios.';
 $Definition['AddressBarColorDescription'] = 'Algunos buscadores permiten un color para la barra de dirección. Solo móvil.';
 $Definition['AddonProblems'] = '<h2>¿Problemas?</h2><p> Si algo va mal con un complemento y no puedes usar tu sitio web, puedes deshabilitarlos manualmente editando: </p>%s';
 $Definition['Alert users if they click external link.'] = 'Alerta a los usuarios si hacen clic en un enlace a una publicación que les alejará del foro. No se alertará a los usuarios cuando sigan enlaces que coincidan con un Dominio seguro';
@@ -171,7 +171,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'Requiere permiso 
 $Definition['Requires “Positive” reaction permission.'] = 'Requiere permiso de reacción "Positiva"';
 $Definition['Restoring your selection removes the items from this list.'] = 'Al realizar la restauración, los artículos de esta lista serán eliminados y recolocados en el sitio web.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Utiliza las siguientes opciones para activar las citas del Editor enriquecido. Esto solo se aplicará si el formateador por defecto es "Enriquecido".';
+    'Utiliza la siguiente opción para activar citas para el Editor enriquecido. Esto solo funcionará si el formateo por defecto es "Enriquecido".';
 $Definition['Route Expression'] = 'Expresión de Ruta';
 $Definition['Routes are used to redirect users.'] = 'Las rutas se usan para redirigir a usuarios en función de la URL solicitada.';
 
@@ -228,9 +228,9 @@ $Definition['This option shows/hides the locations where pockets can go.'] = 'Es
 $Definition['This page lists the endpoints of your API.'] =
     'Esta página lista los puntos finales de comunicación de tu API. Haz clic en los puntos finales de comunicación para más información. Puedes hacer llamadas en directo a la API desde esta página o externamente utilizando un identificador de acceso.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
-    'Este rol es información personal. Solo los usuarios con permiso para ver información personal podrán verlo.';
+    'Este rol es información personal. Solo será visible para usuarios con permiso para ver información personal.';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'Esta configuración carga la página antes de ejecutar Javascript, lo cual puede mejorar tu posicionamiento web.<br><strong>**Advertencia: habilitar esta función puede provocar errores de Javascript en tu sitio.**</strong>';
+    'Esta configuración carga la página antes de ejecutar Javascript, lo cual puede mejorar tu SEO.<br><strong>**Advertencia: Habilitar esta función puede causar errores de Javascript en tu sitio web.**</strong>';
 $Definition['Tiled Layout'] = 'Disposición en mosaico';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Para insertar tu foro Vanilla en tu sitio web, usa el siguiente código. ';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = '¡Demasiadas direcciones! Enviaremos un máximo de %s cada vez.';
@@ -298,8 +298,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "Su tema móvil será deshabilitado. Para configurar un tema móvil y de escritorio diferente, use la vieja IU the temas.";
 $Definition["Heads Up!"] = "¡Levanta la cabeza!";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "Bienvenido a la interfaz de usuario de temas de Vanilla. Esta página lista todos tus temas disponibles, permitiéndote copiarlos o editarlos.";
+$Definition["Some older themes don't support full editing capability."] = "Algunos temas más antiguos no soportan la capacidad de edición completa. Para ver lo que un tema soporta, puedes pasar el cursor sobre su nombre para ver donde los cambios tendrán efecto.";
 $Definition["Need More Help?"] = "¿Necesitas más ayuda?";
 $Definition["Theming Guide"] = "Guia de temas";
 $Definition["Old Theming UI"] = "Vieja interfaz de temas";
@@ -308,7 +308,7 @@ $Definition["Edits to this theme apply to:"] = "Los cambios de este tema se apli
 
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Las plantillas son temas estándar. Para personalizarlas, tienes que crear una copia.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Los Temas personalizados son los temas que creaste. Puedes editarlos, renombrarlos o hacer una copia.';
-$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Este tema no se puede borrar porque es el tema que está en uso actualmente.";
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Este tema no se puede eliminar porque es el que está actualmente en uso.";
 $Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "¿Estás seguro de querer borrar este tema? Se borrará de forma permanente.";
 
 // Preview Page
@@ -380,9 +380,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Habilite y pruebe las últimas funciones de Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB El laboratorio <0 /> debe configurarse para que coincida con su tema personalizado. Esto se puede hacer usando nuestro nuevo editor de temas. <1> Obtenga más información.</1>';
 $Definition['Usercards'] = 'Tarjetas de usuario';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Las tarjetas de usuario te permiten obtener un vistazo rápido en línea de la información de un usuario. Al visualizar publicaciones y clasificaciones, haz clic en el nombre de usuario para ver una tarjeta que muestra la información básica del perfil del usuario sin tener que salir de la página. Activa esta función para añadir tarjetas de usuario a tu tema personalizado.";
 $Definition['New Search Page'] = 'Nueva página de búsqueda';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "El nuevo servicio de búsqueda de Vanilla finalmente está aquí. Activa nuestra nueva interfaz de usuario de página de búsqueda para tener acceso a las últimas funciones de búsqueda como Búsqueda de Miembros, ordenación de búsqueda y destacado de términos.";
 $Definition['New Quick Links'] = 'Nuevos enlaces rápidos';
 $Definition['Quick Links is a default component on community pages.'] = "Los enlaces rápidos es un componente predeterminado en las páginas de la comunidad. Habilite nuestro nuevo componente de Vínculos Rápidos para agregar, editar u ocultar vínculos de este menú usando nuestro editor de temas.";
 

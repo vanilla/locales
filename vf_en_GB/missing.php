@@ -43,6 +43,7 @@ $Definition['AttemptingSignOut'] = 'You are attempting to sign out. Are you sure
 $Definition['Back to Discussions'] = 'Back to Competitions';
 $Definition['Badge404'] = 'Badge not found.';
 $Definition['Badge Name'] = 'Name';
+$Definition['BadgeReasonPrompt'] = 'Think you deserve this badge? Tell us why.';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
 $Definition['BadgeRequestColumnLabel'] = 'Request';
 $Definition['BadgesModuleTitle'] = 'Badges';
@@ -256,7 +257,6 @@ $Definition['InputFormatter.Notes1'] = 'Select the default format of the editor 
 $Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
 $Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 $Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
-$Definition['Invitation email failed to send: %'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.

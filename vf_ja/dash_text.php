@@ -43,7 +43,7 @@ $Definition['Check out our %s'] = '当社の%sをチェックしてください'
 $Definition['Check out these tutorials to get started using Vanilla'] = 'Vanillaは、世界で最もシンプルで、最も強力なコミュニティ プラットフォームです。使用方法は非常に簡単です。この入門ビデオから始め、以下の手順に従って進めてください。頑張ってください。';
 $Definition['Choose a role that orphaned users will be assigned to:'] = '孤立したユーザーに割り当てられるロールを選択します。';
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'このサブコミュニティのテーマを選択してください。 <0>続きを読む</0>';
-$Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = '%sのユーザー アカウントに関連したすべてのコンテンツ（コメントやメッセージなど）の処理方法を選択します。';
+$Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'リクエストに署名する際のカスタム ハッシュ アルゴリズムを選択できます。ハッシュ アルゴリズムは、クライアント ライブラリでも使用されます。どれを選択すればよいかわからない場合は、md5を選択します。';
 $Definition['Choose the page people should see when they visit <0/>'] = '<0 />にアクセスしたときに表示されるページを選択します';
 $Definition['Choose the preferred layout for lists of categories.'] = 'カテゴリーのリスト用に優先レイアウトを選択します。';
@@ -171,7 +171,7 @@ $Definition['Requires “Negative” reaction permission.'] = '「否定的な�
 $Definition['Requires “Positive” reaction permission.'] = '「肯定的な」リアクション許可が必要です。';
 $Definition['Restoring your selection removes the items from this list.'] = '復元すると、アイテムはこのリストから削除され、サイトに戻されます。';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    '次のオプションを使用して、リッチエディターの引用符を有効にします。これは、デフォルトのフォーマッタが「リッチ」の場合にのみ適用されます。';
+    '次のオプションを使用して、リッチエディター用の引用を有効にします。これはデフォルトのフォーマッタが「リッチ」の場合にのみ適用されます。';
 $Definition['Route Expression'] = 'ルート式';
 $Definition['Routes are used to redirect users.'] = 'ルートは、要求されたURLに応じてユーザーをリダイレクトするために使用されます。';
 
@@ -228,9 +228,9 @@ $Definition['This option shows/hides the locations where pockets can go.'] = '�
 $Definition['This page lists the endpoints of your API.'] =
     'このページには、APIのエンドポイントがリストアップされます。詳細については、エンドポイントをクリックしてください。このページから、または外部からアクセストークンを使用して、APIにライブコールすることができます。';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
-    'この役割は個人情報です。個人情報の表示許可を持つユーザーのみが見ることができます。';
+    'この役割は個人情報です。個人情報の表示許可を持つユーザーのみが個人情報を見られます。';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'この設定は、JavaScriptを実行する前にページをロードします。これにより、SEOを改善できます。<br><strong>**警告：この機能を有効にすると、サイトでJavaScriptエラーが発生する可能性があります。**</strong>';
+    'この設定は、SEOを改善できるJavascriptを実行する前にページをロードします。<br> <strong> **警告：この機能を有効にすると、サイトでJavascriptエラーが発生する可能性があります。** </strong>';
 $Definition['Tiled Layout'] = 'タイル張りのレイアウト';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Vanillaフォーラムを自分のWebサイトに組み込むには、以下のコードを利用してください。';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'アドレスが多すぎます！一度に送信できるアドレスは、最大で%sまでです。';
@@ -298,8 +298,8 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 // Theme Chooser
 $Definition["Your mobile theme will be disabled."] = "モバイルテーマは無効になります。異なるモバイルテーマとデスクトップテーマを設定するには、古いテーマUIを使用します。";
 $Definition["Heads Up!"] = "注意喚起！";
-$Definition["Welcome to Vanilla's theming UI."] = "Welcome to Vanilla's theming UI. This page lists all of your available themes, and allows you to copy or edit them.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Welcome to Vanilla's theming UI."] = "VanillaのテーマUIへようこそ。このページでは、利用可能なすべてのテーマを一覧表示し、コピーや編集を行うことができます。";
+$Definition["Some older themes don't support full editing capability."] = "古いテーマの中には、完全な編集機能をサポートしていないものもあります。テーマ名にカーソルを合わせると、そのテーマが何をサポートしているのかがわかり、編集が反映される場所を確認できます。";
 $Definition["Need More Help?"] = "参考情報";
 $Definition["Theming Guide"] = "テーマガイド";
 $Definition["Old Theming UI"] = "古いテーマUI";
@@ -380,9 +380,9 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = '最新のVanilla機能を有効にしてテストします。';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = '注意<0 />ラボは、カスタムテーマに一致するように構成する必要があります。これは、新しいテーマエディターを使用して実行できます。 <1>詳細をご覧ください。</1>';
 $Definition['Usercards'] = 'ユーザーカード';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "ユーザーカードは、ユーザー情報のインラインスナップショットを素早く取得することができます。投稿やリーダーボードを見るときに、ユーザー名をクリックすると、ページから移動することなく、ユーザーの基本的なプロフィール情報を紹介するカードが表示されます。この機能を有効にすると、カスタムテーマにユーザーカードを追加できます。";
 $Definition['New Search Page'] = '新しい検索ページ';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "Vanillaの新しい検索サービスがついに登場しました。新しい検索ページのUIを有効にすると、メンバー検索、検索ソート、用語ハイライトなどの最新の検索機能を利用することができます。";
 $Definition['New Quick Links'] = '新しいクイックリンク';
 $Definition['Quick Links is a default component on community pages.'] = "クイックリンクは、コミュニティページのデフォルトコンポーネントです。新しいクイックリンクコンポーネントを有効にして、テーマエディタを使用してこのメニューからリンクを追加、編集、または非表示にします。";
 

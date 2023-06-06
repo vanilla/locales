@@ -258,7 +258,7 @@ $Definition['This role is personal info. Only users with permission to view pers
     'Ce rôle est une information personnelle. Seuls les utilisateurs autorisés à consulter les informations personnelles les verront.
 ';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'Ce paramètre charge la page avant d\'exécuter le Javascript, ce qui peut améliorer votre référencement.<br><strong>**Avertissement : l\'activation de cette fonction peut entraîner des erreurs Javascript sur votre site.**</strong>';
+    'Ce paramètre charge la page avant d\'exécuter JavaScript, ce qui peut améliorer votre SEO.<br> <strong>**Attention : activer cette fonctionnalité peut causer des erreurs avec JavaScript sur votre site.**</strong>';
 $Definition['Tiled Layout'] = 'Disposition en mosaïque';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Pour intégrer votre forum Vanilla à votre site web, utilisez le code suivant.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Il y a trop d\'adresses. Nous allons immédiatement vous envoyer %s adresses. ';
@@ -342,8 +342,7 @@ $Definition["Edits to this theme apply to:"] = "Les modifications apportées à 
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Les modèles sont les thèmes standard. Pour les personnaliser, vous devez en créer une copie.
 ';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Les thèmes personnalisés sont les thèmes que vous avez créés. Vous pouvez les modifier, les renommer ou en faire une copie.';
-$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Ce thème ne peut pas être supprimé car il s'agit du thème actuellement appliqué.
-";
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Ce thème ne peut pas être supprimé car il est appliqué actuellement.";
 $Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Êtes-vous sûr de vouloir supprimer ce thème ? Il sera supprimé définitivement.";
 
 // Preview Page

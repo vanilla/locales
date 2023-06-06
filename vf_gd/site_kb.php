@@ -29,7 +29,7 @@ $Definition["Associate a product with this subcommunity. Use the <0>Manage Produ
 $Definition["Back to Home"] = "Air ais aig an taigh";
 $Definition["Back to home page"] = "Air ais gu duilleag dachaigh";
 $Definition["Background colors are used as the background of elements. This should have good constrast with the foreground color."] = "Tha dathan cùl-fhiosrachaidh air an cleachdadh mar chùl-raon eileamaidean. Bu chòir seo a bhith math le dath an aghaidh.";
-$Definition["Banner Image"] = "Ìomhaigh bratach";
+$Definition["Banner Image"] = "Dealbh Bratach";
 $Definition["Be the first one to vote!"] = "Bi a ’chiad fhear a bhòt!";
 $Definition["Border Style"] = "Stoidhle Crìochan";
 $Definition["Browse Articles by Category"] = "Dèan brobhsadh air artaigilean a rèir seòrsa";
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "Chan eil cead agad an goireas seo fhaicinn.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Feumaidh tu <0> Clàraich a-steach </0> gus bhòtadh air an artaigil seo";
 $Definition["Use Banner Image Overlay"] = "Cleachd Ath-chòmhdach Ìomhaigh Banner";
+
 
