@@ -29,7 +29,7 @@ $Definition["Associate a product with this subcommunity. Use the <0>Manage Produ
 $Definition["Back to Home"] = "Buyela Ekhaya";
 $Definition["Back to home page"] = "Buyela ekhasini lasekhaya";
 $Definition["Background colors are used as the background of elements. This should have good constrast with the foreground color."] = "Imibala yangemuva isetshenziswa njengesizinda sezakhi. Lokhu kufanele kube nokuhlukaniswa okuhle ngombala ongaphambili.";
-$Definition["Banner Image"] = "Isibhengezo Sesithombe";
+$Definition["Banner Image"] = "Isithombe sesibhengezo";
 $Definition["Be the first one to vote!"] = "Yiba ngowokuqala ukuvota!";
 $Definition["Border Style"] = "Isitayela Semingcele";
 $Definition["Browse Articles by Category"] = "Dlulisa amehlo ku-Imibhalo ngesigaba";
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "Awunayo imvume yokubuka le nsiza.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Udinga <0> Ukungena ngemvume </0> ukuvota ngalo mbhalo";
 $Definition["Use Banner Image Overlay"] = "Sebenzisa Isibhengezo Sesithombe Sombhalo";
+
 

@@ -171,7 +171,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'Richiede l\'autor
 $Definition['Requires “Positive” reaction permission.'] = 'Richiede l\'autorizzazione della reazione "Positiva".';
 $Definition['Restoring your selection removes the items from this list.'] = 'Quando ripristini. gli oggetti vengono rimossi da questa lista e riportati al sito.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Utilizza la seguente opzione per abilitare le virgolette nel Rich Editor. Ciò si applica solo se il formattatore predefinito è "Rich".';
+    'Utilizza la seguente opzione per abilitare le citazioni per l\'Editor RTF. Questa opzione verrà applicata solo se la formattazione predefinita è "RTF".';
 $Definition['Route Expression'] = 'Espressione Percorso';
 $Definition['Routes are used to redirect users.'] = 'I Percorsi vengono utilizzati per indirizzare gli utenti in base alla URL richiesta.';
 
@@ -228,9 +228,9 @@ $Definition['This option shows/hides the locations where pockets can go.'] = 'Qu
 $Definition['This page lists the endpoints of your API.'] =
     'Questa pagina elenca gli endpoint della tua API. Fai clic sugli endpoint per ulteriori informazioni. È possibile effettuare chiamate live all\'API da questa pagina o esternamente utilizzando un token di accesso.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
-    'Questo ruolo include informazioni personali. Solo gli utenti con il permesso di visualizzare le informazioni personali lo vedranno.';
+    'Questo ruolo è un\'informazione personale. Solo gli utenti con il permesso di visualizzare informazioni personali lo vedranno.';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'Questa impostazione carica la pagina prima di eseguire Javascript il che può migliorare il SEO. <br> <strong>**Attenzione: l\'attivazione di questa funzione può causare errori Javascript sul sito.**</strong>';
+    'Quest\'impostazione permette di caricare la pagina prima di eseguire il javascript, con una potenziale ottimizzazione SEO.<br><strong>**Attenzione: questa funzionalità comporta il rischio di errori di tipo javascript sul portale.**</strong>';
 $Definition['Tiled Layout'] = 'Layout piastrellato';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Per includere questo forum Vanilla sul tuo sito web, usa il seguente codice.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Troppi indirizzi! Invieremo a %s indirizzi alla volta.';
@@ -299,7 +299,7 @@ $Definition["Remove discussion and categories links from menus. Set discussion a
 $Definition["Your mobile theme will be disabled."] = "Il tema del tuo cellulare verrà disattivato. Per impostare diversi temi per dispositivi mobili e desktop, utilizzare la vecchia interfaccia utente a tema.";
 $Definition["Heads Up!"] = "Avvertimento!";
 $Definition["Welcome to Vanilla's theming UI."] = "Benvenuto nell'interfaccia utente a tema di Vanilla. Questa pagina elenca tutti i temi disponibili e consente di copiarli o modificarli.";
-$Definition["Some older themes don't support full editing capability."] = "Some older themes don't support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.";
+$Definition["Some older themes don't support full editing capability."] = "Alcuni dei temi più vecchi non supportano tutte le funzionalità di modifica. Per sapere cosa supporta un tema, puoi portare il cursore sul suo nome e vedere dove avranno effetto le modifiche.";
 $Definition["Need More Help?"] = "Hai bisogno di ulteriore aiuto?";
 $Definition["Theming Guide"] = "Guida a tema";
 $Definition["Old Theming UI"] = "Vecchia interfaccia utente di Theming";
@@ -308,7 +308,7 @@ $Definition["Edits to this theme apply to:"] = "Le modifiche a questo tema si ap
 
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'I modelli sono i temi standard. Per personalizzarli, devi crearne una copia.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'I temi personalizzati sono i temi che hai creato. È possibile modificarli, rinominarli o crearne una copia.';
-$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Questo tema non può essere cancellato perché è il tema attualmente applicato.";
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Questo tema non può essere eliminato perché è il tema attualmente applicato.";
 $Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Vuoi davvero eliminare questo tema? Sarà eliminato definitivamente.";
 
 // Preview Page
@@ -381,7 +381,7 @@ $Definition['Check out our <0>documentation</0>, or ask our <1>community of expe
 $Definition['Enable and test out the latest Vanilla features.'] = 'Abilita e prova le ultime funzionalità di Vanilla.';
 $Definition['The <0/> lab needs to be configured to match your custom theme.'] = 'NB Il lab <0/> deve essere configurato in modo che corrisponda al tuo tema personalizzato. Questo può essere fatto usando il nostro nuovo editor di temi. <1>Scopri di più.</1>';
 $Definition['Usercards'] = 'Schede utente';
-$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Usercards allow you to get a quick in-line snapshot of a user's information. When viewing posts and leaderboards, click on the username to see a card showcasing the users basic profile info without having to navigate away from the page. Enable this feature to add usercards to your custom theme.";
+$Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Le schede utente ti permettono di ottenere una rapida istantanea delle informazioni di un utente. Quando guardi i post e le classifiche, fai clic sul nome utente per visualizzare una scheda che mostra le informazioni di base del profilo dell'utente senza dover abbandonare la pagina. Abilita questa funzionalità per aggiungere le schede utente al tuo tema personalizzato.";
 $Definition['New Search Page'] = 'Nuova pagina di ricerca';
 $Definition["Vanilla's new search service is finally here."] = "Il nuovo servizio di ricerca di Vanilla è finalmente arrivato. Abilita la nostra nuova interfaccia utente della pagina di ricerca per accedere alle funzionalità di ricerca più recenti come la ricerca dei membri, l'ordinamento delle ricerche e l'evidenziazione dei termini.";
 $Definition['New Quick Links'] = 'Nuovi collegamenti rapidi';

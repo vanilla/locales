@@ -206,3 +206,4 @@ $Definition["You don't have permission to view this resource."] = "Nemáte oprá
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Pro možnost hlasování v tomto článku se musíte <0>přihlásit</0>";
 $Definition["Use Banner Image Overlay"] = "Použít překryvný obrázek banneru";
 
+

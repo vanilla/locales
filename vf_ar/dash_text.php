@@ -42,7 +42,7 @@ $Definition['Check out our %s'] = 'تحقق من %s';
 $Definition['Check out these tutorials to get started using Vanilla'] = 'إنّ Vanilla هي أبسط وأقوى منصة مجتمعية في العالم. إن استخدامها فائق السهولة. ابدأ بهذا الفيديو التمهيدي وتابع الخطوات التالية. استمتع!';
 $Definition['Choose a role that orphaned users will be assigned to:'] = 'اختر مجموعة يضم لها الأعضاء الذين بلا مجموعة:';
 $Definition['Choose a theme for this subcommunity. <0>Read more</0>'] = 'اختر موضوعًا لهذه الفئة الفرعية. <0> اقرأ المزيد </0>';
-$Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'اختر كيفية التعامل مع كل المحتوى المرتبط بحساب المستخدم لـ (التعليقات، الرسائل، إلخ) الخاصة بـ %s.';
+$Definition['Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).'] = 'اختر كيفية معالجة كل المحتوى المرتبط بحساب المستخدم لـ %s (التعليقات والرسائل وما إلى ذلك).';
 $Definition['Choose md5 if you\'re not sure what to choose.'] = 'يمكنك تحديد خوارزمية تجزئة مخصصة لتوقيع طلباتك. يجب أيضًا استخدام خوارزمية التجزئة في مكتبة العميل الخاصة بك. اختر md5 إذا لم تكن متأكدًا مما يجب أن تختار.';
 $Definition['Choose the page people should see when they visit <0/>'] = 'اختر الصفحة التي يجب أن يراها الأشخاص عند زيارتهم <0 />';
 $Definition['Choose the preferred layout for lists of categories.'] = 'اختر التنسيق المفضل لقوائم الفئات.';
@@ -76,7 +76,7 @@ $Definition['Enter the connection settings for your sphinx server below.'] = 'أ
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'يتم تسجيل كل تحرير أو حذف هنا. استخدم ‘استعادة’ للتراجع عن أي تغيير.';
 $Definition['Everyone who signs up gets a profile page.'] = 'يحصل كل من اشترك في مجتمعك على صفحة ملف شخصي عام حيث يمكنه تحميل صورة لنفسه ، وإدارة إعدادات ملفه الشخصي ، وتتبع الأشياء الرائعة في المنتدى. يجب 
 <a href="{/profile,url}">تخصيص الملف الشخصي الان</a>.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'يتم تعيين كل مستخدم في موقعك لدور واحد على الأقل. تستخدم الأدوار لتحديد ما يُسمح للمستخدمين بالقيام به.';
+$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'يتم تعيين كل مستخدم في موقعك لدور واحد على الأقل. تستخدم الأدوار لتحديد ما يسمح للمستخدمين القيام به.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'يتيح Facebook Connect للمستخدمين تسجيل الدخول باستخدام حساب Facebook الخاص بهم. <b> يجب عليك تسجيل طلبك في Facebook حتى يعمل هذا الملحق. </b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'أخفق الاتصال بقاعدة البيانات باستخدام اسم المستخدم وكلمة المرور اللذين أدخلتهما. هل كتبتهما بشكل خاطئ؟ ذكرت قاعدة البيانات: <code>%s</code>';
@@ -103,7 +103,7 @@ $Definition['Here are the ranks that users can achieve on your site.'] =
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'إذا تم تحميل شعار لافتة ما، فسوف يستبدل عنوان اللافتة في صفحات المنتدى التي تواجه المستخدم.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'إذا لم يقم المستخدم بزيارة الموقع خلال هذه الفترة الزمنية ، فسيتم تسجيل خروجه تلقائيًا.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
-    'في حالة التمكين ، سيتم إرسال المحتوى الكامل للمشاركات في إشعارات البريد الإلكتروني للمستخدمين.';
+    'في حالة التمكين ، سيتم إرسال المحتوى الكامل للمشاركات في إشعارات بالبريد الإلكتروني إلى المستخدمين.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
     'إذا كنت مستخدمًا جديدًا لـ HTML و / أو CSS ، فإليك بعض البرامج التعليمية لتبدأ:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'إذا كنت ترغب في خفض مستوى التحذير، فقم بإزالة تحذير.';
@@ -171,7 +171,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'يتطلب إذن
 $Definition['Requires “Positive” reaction permission.'] = 'يتطلب إذن رد فعل "إيجابي".';
 $Definition['Restoring your selection removes the items from this list.'] = 'عندما تقوم بالاستعادة، تتم إزالة العناصر من هذه القائمة وإعادتها إلى الموقع.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'استخدم الخيار التالي لتمكين علامات الاقتباس لـ Rich Editor. لن يتم تطبيق ذلك إلا إذا كان المُنسق الافتراضي هو "Rich".';
+    'استخدم الخيار التالي لتمكين علامات الاقتباس لـ "Rich Editor". سيتم تطبيق هذا فقط إذا كان المنسق الافتراضي هو "Rich".';
 $Definition['Route Expression'] = 'إيضاح المسار';
 $Definition['Routes are used to redirect users.'] = 'تُستخدم المسارات لإعادة توجيه المستخدمين بناءً على عنوان URL المطلوب.
 ';
@@ -186,7 +186,7 @@ $Definition['Select the import source'] = 'حدد مصدر الاستيراد';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'فشل العمود المتسلسل "%s" في أن يكون غير متسلسل.';
 $Definition['Session Timeout'] = 'مهلة جلسة';
 $Definition['ShareImageDescription'] =
-    'عندما يشارك شخص ما رابطًا من موقعك ، فإننا نحاول التقاط صورة من الصفحة. إذا لم تكن هناك صورة على الصفحة ، فسنستخدم هذه الصورة بدلاً من ذلك. يجب أن تكون الصورة 50 × 50 على الأقل ، لكننا نوصي 200 × 200.';
+    'عندما يشارك شخص ما رابطًا من موقعك ، نحاول التقاط صورة من الصفحة. إذا لم تكن هناك صورة على الصفحة ، فسنستخدم هذه الصورة بدلاً من ذلك. يجب أن تكون الصورة 50 × 50 على الأقل ، لكننا نوصي 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'قم بتشغيل هذا الخيار لإظهار جميع مواقع الجيب الممكنة. يؤدي تشغيل هذا الخيار إلى إظهار المواقع للمستخدمين الذين يمكنهم إدارة الجيوب فقط.';
 $Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
     'قد تحتاج إلى تحديث بعض السمات للعمل مع الفئة التالية. يمكنك تعطيل الميزة أثناء تحديث السمة الخاصة بك.';
@@ -232,7 +232,7 @@ $Definition['This page lists the endpoints of your API.'] =
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
     'هذا الدور هو معلومات شخصية. لن يتمكن من رؤيتها إلا المستخدمون الذين لديهم إذن لعرض المعلومات الشخصية.';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'يقوم هذا الإعداد بتحميل الصفحة قبل تنفيذ Javascript مما يمكن أن يحسن SEO الخاص بك. <br> <strong>** تحذير: قد يؤدي تمكين هذه الميزة إلى حدوث أخطاء جافا سكريبت على موقعك. **</strong>';
+    'يقوم هذا الإعداد بتحميل الصفحة قبل تنفيذ جافاسكريبت والتي يمكن أن تحسن محرك البحث الخاص بك. <br> <strong> ** تحذير: قد يؤدي تمكين هذه الميزة إلى حدوث أخطاء في جافاسكريبت على موقعك. ** </strong>';
 $Definition['Tiled Layout'] = 'تخطيط تجانب';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'لتضمين منتدى Vanilla الخاص بك في موقع الويب الخاص بك، استخدم الكود التالي.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'عناوين كثيرة جدا! سنرسل حتى %s عناوين في وقت واحد.';
@@ -310,7 +310,7 @@ $Definition["Edits to this theme apply to:"] = "تنطبق تعديلات هذا
 
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'القوالب هي المواضيع القياسية. لتخصيصها ، يجب عليك إنشاء نسخة.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'السمات المخصصة هي السمات التي أنشأتها. يمكنك تحريرها أو إعادة تسميتها أو عمل نسخة منها.';
-$Definition["This theme cannot be deleted because it is the currently applied theme."] = "لا يمكن حذف هذا السمة لأنه السمة المطبقة حاليًا.";
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "لا يمكن حذف هذه السمة لأنها السمة المطبقة حالياً.";
 $Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "هل تريد بالتأكيد حذف هذا الموضوع؟ سيتم حذفه نهائيًا.";
 
 // Preview Page

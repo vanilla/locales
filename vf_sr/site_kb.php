@@ -29,7 +29,7 @@ $Definition["Associate a product with this subcommunity. Use the <0>Manage Produ
 $Definition["Back to Home"] = "Povratak na početnu stranicu";
 $Definition["Back to home page"] = "Povratak na početnu stranicu";
 $Definition["Background colors are used as the background of elements. This should have good constrast with the foreground color."] = "Боје позадине користе се као позадина елемената. Ово би требало да буде добро ограничено бојом предњег плана.";
-$Definition["Banner Image"] = "Имаге Баннер";
+$Definition["Banner Image"] = "Слика банера";
 $Definition["Be the first one to vote!"] = "Budite 1 koji će glasati! ";
 $Definition["Border Style"] = "Бордер Стиле";
 $Definition["Browse Articles by Category"] = "Pregledavaj članke po kategorijama";
@@ -110,7 +110,7 @@ $Definition["No knowledge bases found."] = "Nije pronađena nijedna baza znanja.
 
 $Definition["Oldest First"] = "Најстарији први";
 $Definition["On This Page"] = "Na ovoj strani";
-$Definition["Organize Categories"] = "Organizuj kategorije";
+$Definition["Organize Categories"] = "Организујте категорије";
 $Definition["Other Articles"] = "Drugi članci";
 $Definition["Other Languages"] = "Drugi jezici";
 
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "Nemate dozvolu da vidite ovaj izvor.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Treba da <0>Sign In</0> da biste glasali na ovom članku";
 $Definition["Use Banner Image Overlay"] = "Користите прекривање слике баннера";
+
 

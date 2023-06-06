@@ -110,7 +110,7 @@ $Definition["No knowledge bases found."] = "Не са открити бази о
 
 $Definition["Oldest First"] = "Най-стар";
 $Definition["On This Page"] = "На тази страница";
-$Definition["Organize Categories"] = "Организиране на категориите";
+$Definition["Organize Categories"] = "Организиране на категории";
 $Definition["Other Articles"] = "Други статии";
 $Definition["Other Languages"] = "Други езици";
 
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "Нямате разрешение да преглеждате този ресурс.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Трябва да <0>влезете</0>, за да гласувате по тази статия";
 $Definition["Use Banner Image Overlay"] = "Използвайте наслагване на изображението на банер";
+
 

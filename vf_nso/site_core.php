@@ -2052,7 +2052,7 @@ $Definition['You can only specify up to %s tags.'] = 'O ka hlalosa feela go fihl
 $Definition['You can remove or ban this member from the group.'] = 'O ka tloša goba wa thibela leloko le sehlopheng. Maloko ao a thibetšwego a ka se kgone go tlatša sehlopha gape.';
 $Definition['You can use HTML in your signature.'] = 'O ka diriša <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">HTML e Bonolo</a></b> mosaenong wa gago.';
 $Definition['You don\'t have a password.'] = 'Akhaonto ya gago ga e na phasewete yeo e abetšwego yona ga bjale. Tobetsa <a href="%s">mo</a> go beakanya phasewete ya gago.';
-$Definition['You don\'t have permission to do that.'] = 'Ga se wa dumelelwa go dira seo';
+$Definition['You don\'t have permission to do that.'] = 'Ga se wa dumelelwa go dira seo.';
 $Definition['You don\'t have permission to use a signature.'] = 'Ga o na tumelelo ya go diriša mosaeno.';
 $Definition['You do not have any %s yet.'] = 'Ga se wa hlwa o eba le %s efe goba efe.';
 $Definition['You do not have any bookmarks.'] = 'Ga o na maswao afe goba afe.';

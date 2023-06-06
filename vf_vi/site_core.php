@@ -1756,7 +1756,6 @@ $Definition['This question\'s answer has been accepted.'] = 'Trả lời cho câ
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Tính năng cài đặt này tải trang trước khi chạy Javascript có thể cải thiện SEO của bạn. <br> <strong> ** Cảnh báo: Kích hoạt tính năng này có thể gây ra lỗi Javascript trên trang web của bạn. ** </strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Trang web này được reCAPTCHA và Google bảo vệ';
 $Definition['This text has been converted from another format.'] = 'Văn bản này đã được chuyển đổi từ một định dạng khác.';
-$Definition['This user\'s profile is private.'] = 'Hồ sơ của người dùng này là riêng tư.';
 $Definition['This user has been banned'] = 'Thành viên này đã bị cấm';
 $Definition['This user has been deleted.'] = 'Người dùng này đã bị xóa.';
 $Definition['This user has been marked as a troll.'] = 'Người dùng này đã được đánh dấu là troll.';

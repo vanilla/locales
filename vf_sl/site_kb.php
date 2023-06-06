@@ -206,3 +206,4 @@ $Definition["You don't have permission to view this resource."] = "Nimate dovolj
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Morate se <0>prijaviti</0> za glasovanje o tem članku";
 $Definition["Use Banner Image Overlay"] = "Uporabite prekrivanje s sliko pasice";
 
+

@@ -614,9 +614,7 @@ $Definition['EmbeddedDiscussionFormat'] = '<div class="EmbeddedContent">{Image} 
 $Definition['EmbeddedDiscussionLinkText'] = 'Preberite celotno zgodbo tukaj';
 $Definition['Embedded Media'] = 'Vdelani mediji';
 $Definition['EmbeddedNoBodyFormat'] = '{Url}';
-$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image} <strong>{Title}</strong>
-<p> {Excerpt}</p>
-<p> <a href="{Url}">Preberite celotno zgodbo tukaj</a></p><div class="ClearFix"></div></div>';
+$Definition['EmbededDiscussionFormat'] = '<div class="EmbeddedContent">{Image} <strong>{Title}</strong><p> {Excerpt}</p><p> <a href="{Url}">Preberite celotno zgodbo tukaj</a></p><div class="ClearFix"></div></div>';
 $Definition['Emoji Categories'] = 'Emoji kategorije';
 $Definition['Emoji Picker'] = 'Izbirnik emojijev';
 $Definition['Emojis'] = 'Emojiji';
@@ -1862,7 +1860,7 @@ $Definition['View Results'] = 'Ogled rezultatov';
 $Definition['Views'] = 'Pogledi';
 $Definition['Visible'] = 'Vidno';
 $Definition['Visits'] = 'Obiski';
-$Definition['Visit Site'] = 'Obiščite spletno mesto';
+$Definition['Visit Site'] = 'Obišči stran';
 $Definition['Vote'] = 'Glasujte';
 $Definition['Vote (action)'] = 'Glasujte';
 $Definition['Vote Down'] = 'Glasuj proti';

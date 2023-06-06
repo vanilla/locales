@@ -110,7 +110,7 @@ $Definition["No knowledge bases found."] = "لم يتم العثور على قو
 
 $Definition["Oldest First"] = "الأقدم أولاً";
 $Definition["On This Page"] = "في هذه الصفحة";
-$Definition["Organize Categories"] = "Organize Categories";
+$Definition["Organize Categories"] = "تنظيم الفئات";
 $Definition["Other Articles"] = "مقالات أخرى ";
 $Definition["Other Languages"] = "لغات أخرى";
 
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "ليس لديك الإذن بعرض هذا المورد. ";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "أنت بحاجة إلى <0>تسجيل الدخول</0> للتصويت على هذه المقالة ";
 $Definition["Use Banner Image Overlay"] = "استخدم تراكب صورة الإعلان";
+
 
