@@ -1754,7 +1754,6 @@ $Definition['This question\'s answer has been accepted.'] = 'A választ elfogadt
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Ez a beállítás a Javascript végrehajtása előtt tölti be az oldalt, és ezzel javul az SEO.<br><strong>**Figyelem: Ennek a funkciónak az engedélyezése Javascript hibákhoz vezethet oldaladon.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Ez az oldal a reCAPTCHA és a Google által védett.';
 $Definition['This text has been converted from another format.'] = 'Ez a szöveg egy másik formátumból lett konvertálva.';
-$Definition['This user\'s profile is private.'] = 'A felhasználó profilja privát.';
 $Definition['This user has been banned'] = 'Ezt a felhasználót kitiltották';
 $Definition['This user has been deleted.'] = 'Ezt a felhasználót törölték.';
 $Definition['This user has been marked as a troll.'] = 'Ez a felhasználó troll-nak lett jelölve.';

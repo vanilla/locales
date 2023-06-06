@@ -206,3 +206,4 @@ $Definition["You don't have permission to view this resource."] = "Nincs engedé
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "<0>Jelentkezz be</0>, hogy szavazhass erre a cikkre";
 $Definition["Use Banner Image Overlay"] = "Használj szalagkép átfedést";
 
+

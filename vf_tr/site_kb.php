@@ -110,7 +110,7 @@ $Definition["No knowledge bases found."] = "Bilgi tabanı bulunamadı.";
 
 $Definition["Oldest First"] = "Önce En Eski";
 $Definition["On This Page"] = "Bu Sayfada";
-$Definition["Organize Categories"] = "Kategorileri Düzene Koy";
+$Definition["Organize Categories"] = "Kategorileri Düzenle";
 $Definition["Other Articles"] = "Diğer Makaleler";
 $Definition["Other Languages"] = "Diğer Diller";
 
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "Bu kaynağı görüntülemeye izniniz yok.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Bu makaleyi puanlamak için <0>Giriş</0> yapmalısınız";
 $Definition["Use Banner Image Overlay"] = "Banner Görseli Katmanını Kullan";
+
 

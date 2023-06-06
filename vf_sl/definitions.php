@@ -5,7 +5,7 @@
   'Name' => 'Slovenščina / Slovenian',
   'EnName' => 'Slovenian',
   'Description' => 'Official Slovenian language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/vanilla/vanilla/">here</a>.',
-  'Version' => '2023.05.30-04:001535',
+  'Version' => '2023.06.06-04:001537',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/sl/',
   'License' => 'CC BY-SA 4.0',

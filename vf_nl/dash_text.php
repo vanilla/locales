@@ -75,7 +75,7 @@ $Definition['Enter the address of your Wordpress Blog and we\'ll take it from th
 $Definition['Enter the connection settings for your sphinx server below.'] = 'Voeg de verbindingsinstellingen voor je sphinx-server hieronder in.';
 $Definition['Every edit or deletion is recorded here. Use &lsquo;Restore&rsquo; to undo any change.'] = 'Elke bewerking of verwijdering wordt hier opgeslagen. Gebruik \'Herstel\' om elke aanpassing ongedaan te maken.';
 $Definition['Everyone who signs up gets a profile page.'] = 'Iedereen die zich inschrijft voor onze gemeenschap krijgt een publieke profielpagina waar ze een foto van zichzelf kunnen uploaden, hun profielinstellingen kunnen beheren, en gave dingen kunnen volgen die gebeuren in de gemeenschap. Je kunt <a href="{/profile,url}">je profiel nu personaliseren</a>.';
-$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Elke gebruiker van je site is ten minste één rol toegewezen. Rollen worden gebruikt om te bepalen wat gebruikers mogen doen.';
+$Definition['Every user in your site is assigned to at least one role. Roles are used to determine what the users are allowed to do.'] = 'Elke gebruiker van je site krijgt ten minste één rol toegewezen. Rollen worden gebruikt om te bepalen wat gebruikers mogen doen.';
 
 $Definition['Facebook Connect allows users to sign in using their Facebook account.'] = 'Facebook Connect laat gebruikers inloggen met een Facebook-account. <b>Je moet de applicatie registreren bij Facebook om deze plug-in te laten werken.</b>';
 $Definition['Failed to connect to the database with the username and password you entered. Did you mistype them? The database reported: <code>%s</code>'] = 'Er kon geen verbinding worden gemaakt met de database met de gebruikersnaam en het wachtwoord die je hebt ingevuld. Heb je ze verkeerd ingetypt? De database gaf het volgende aan: <code>%s</code>';
@@ -170,7 +170,7 @@ $Definition['Requires “Negative” reaction permission.'] = 'Toestemming \'Neg
 $Definition['Requires “Positive” reaction permission.'] = 'Vereist toestemming \'Positieve\' reactie.';
 $Definition['Restoring your selection removes the items from this list.'] = 'Als je herstelt, zullen deze voorwerpen verwijderd worden van deze lijst en terug op de site geplaatst worden.';
 $Definition['RichEditor.QuoteEnable.Notes'] =
-    'Gebruik de volgende optie om quotes toe te staan voor de Rich Editor. Dit is alleen van toepassing als de standaarformatter \'Rich\' is.';
+    'Gebruik de volgende optie om citaten in te schakelen voor de verrijkte editor. Dit zal alleen van toepassing zijn als de standaardopmaak \'verrijkt\' is.';
 $Definition['Route Expression'] = 'Route-expressie';
 $Definition['Routes are used to redirect users.'] = 'Routes worden gebruikt om gebruikers door te verwijzen, afhankelijk van de URL.';
 
@@ -228,9 +228,9 @@ $Definition['This option shows/hides the locations where pockets can go.'] = 'De
 $Definition['This page lists the endpoints of your API.'] =
     'Deze pagina toont de eindpunten van jouw API. Klik op eindpunten voor meer informatie. Je kan livegesprekken voeren met de API\'s vanaf deze pagina of extern door middel van een toegangstoken.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
-    'Deze rol is persoonlijke informatie. Allen gebruikers met toestemming om persoonlijke info te bekijken kunnen dit zien.';
+    'Deze rol is persoonlijke informatie. Alleen gebruikers met toestemming om persoonlijke informatie te zien zullen het zien.';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'Deze instelling laadt de pagina voordat Javascript wordt uitgevoerd, wat uw SEO kan verbeteren. <br><strong> **Waarschuwing: het inschakelen van deze functie kan Javascript-fouten op uw site veroorzaken. **</strong>';
+    'Met deze instelling wordt de pagina geladen voordat Javascript wordt uitgevoerd, wat je SEO kan verbeteren. <br> <strong> ** Waarschuwing: Het inschakelen van deze functie kan fouten in Javascript op je site veroorzaken.** </strong>';
 $Definition['Tiled Layout'] = 'Betegelde lay-out';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Om je Vanilla forum in je website in te sluiten, kun je de volgende code gebruiken.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Teveel adressen! We kunnen niet meer dan %s adressen per keer sturen.';
@@ -312,7 +312,7 @@ $Definition["Edits to this theme apply to:"] = "Wijzigingen in dit thema zijn va
 
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Templates zijn de standaard themas. Om ze te personaliseren moet je een kopie maken.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Aangepaste thema\'s zijn de thema\'s die je zelf gemaakt hebt. Je kan aanpassingen maken, de naam aanpassen, of er een kopie van maken.';
-$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Dit thema kan niet verwijdert worden omdat het op dit moment het toegepaste thema is.";
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Dit thema kan niet worden verwijderd omdat het momenteel toegepast is.";
 $Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Weet je zeker dat je dit thema wilt verwijderen? Het wordt permanent verwijderd.";
 
 // Preview Page

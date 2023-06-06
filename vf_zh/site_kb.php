@@ -111,7 +111,7 @@ $Definition["No knowledge bases found."] = "未找到知识库。";
 
 $Definition["Oldest First"] = "从旧到新";
 $Definition["On This Page"] = "在此页面上";
-$Definition["Organize Categories"] = "分类管理";
+$Definition["Organize Categories"] = "版块管理";
 $Definition["Other Articles"] = "其他文章";
 $Definition["Other Languages"] = "其他语言";
 
@@ -206,4 +206,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "您没有查看此资源的权限。";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "您需要<0>登录</0>才能对本文进行投票";
 $Definition["Use Banner Image Overlay"] = "使用横幅图像叠加";
+
 

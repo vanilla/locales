@@ -208,3 +208,4 @@ $Definition["You don't have permission to view this resource."] = "आपके 
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "इस लेख पर वोट देने के लिए आपको <0>साइन इन</0> करना होगा";
 $Definition["Use Banner Image Overlay"] = "बैनर इमेज ओवरले का उपयोग करें";
 
+

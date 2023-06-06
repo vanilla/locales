@@ -29,7 +29,7 @@ $Definition["Associate a product with this subcommunity. Use the <0>Manage Produ
 $Definition["Back to Home"] = "De tornada a casa";
 $Definition["Back to home page"] = "Torna a la pàgina principal";
 $Definition["Background colors are used as the background of elements. This should have good constrast with the foreground color."] = "Els colors de fons s’utilitzen com a fons d’elements. Això hauria de tenir un bon contrast amb el color del primer pla.";
-$Definition["Banner Image"] = "Banner Image";
+$Definition["Banner Image"] = "Imatge de banner";
 $Definition["Be the first one to vote!"] = "Sigues el primer a votar!";
 $Definition["Border Style"] = "Estil de frontera";
 $Definition["Browse Articles by Category"] = "Examine els articles per categoria";
@@ -67,7 +67,7 @@ $Definition["Draft saved <0/>"] = "Esborrany guardat <0 />";
 
 $Definition["Edit Knowledge Base"] = "Edita la base de coneixement";
 $Definition["Error saving draft."] = "S'ha produït un error en desar l'esborrany.";
-$Definition["Everywhere"] = "Arreu";
+$Definition["Everywhere"] = "A tot arreu";
 $Definition["Example: Appearance"] = "Exemple: Aparició";
 
 $Definition["Filter"] = "Filtre";
@@ -205,4 +205,5 @@ $Definition["You can see this message because you have special permissions."] = 
 $Definition["You don't have permission to view this resource."] = "No teniu permís per veure aquest recurs.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Cal que <0> Inicieu la sessió </0> per votar aquest article";
 $Definition["Use Banner Image Overlay"] = "Utilitzeu la superposició d'imatges de la bandera";
+
 

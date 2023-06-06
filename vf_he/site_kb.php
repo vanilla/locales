@@ -206,3 +206,4 @@ $Definition["You don't have permission to view this resource."] = "אין לך �
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "יש  <0>להיכנס</0> כדי להצביע על מאמר זה";
 $Definition["Use Banner Image Overlay"] = "השתמש/י בשכבת תמונת כרזה";
 
+

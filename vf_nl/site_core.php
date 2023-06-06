@@ -1733,7 +1733,6 @@ $Definition['This question\'s answer has been accepted.'] = 'Het antwoord op dez
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Met deze instelling wordt de pagina geladen voordat Javascript wordt uitgevoerd, wat je SEO kan verbeteren. <br> <strong> ** Waarschuwing: Het inschakelen van deze functie kan fouten in Javascript op je site veroorzaken.** </strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Deze site wordt beschermd door reCAPTCHA en Google';
 $Definition['This text has been converted from another format.'] = 'Deze tekst is geconverteerd vanuit een ander formaat.';
-$Definition['This user\'s profile is private.'] = 'Het profiel van deze gebruiker is privé.';
 $Definition['This user has been banned'] = 'Deze gebruiker is verbannen';
 $Definition['This user has been deleted.'] = 'Deze gebruiker is verwijderd.';
 $Definition['This user has been marked as a troll.'] = 'Deze gebruiker is gemarkeerd als troll.';
@@ -1961,7 +1960,7 @@ $Definition['Write something about yourself...'] = 'Schrijf iets over jezelf...'
 
 $Definition['Yes'] = 'Ja';
 $Definition['You'] = 'Jij';
-$Definition['you'] = 'jij';
+$Definition['you'] = 'jou';
 $Definition['You\'re banned from joining this group.'] = 'U bent verboden om lid te worden van deze groep.';
 $Definition['You\'ve already created the maximum number of groups.'] = 'U heeft de maximum hoeveelheid aan groepen al aangemaakt.';
 $Definition['You\'ve applied to join this group.'] = 'U heeft u aangemeld om lid te worden van deze groep.';

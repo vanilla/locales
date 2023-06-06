@@ -1774,7 +1774,6 @@ $Definition['This question\'s answer has been accepted.'] = '該問題的回答�
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = '此設定會在執行 Javascript 之前先載入頁面以改善您的 SEO。<br><strong>**警告：啟用本功能可能會在您的網站上導致 Javascript 錯誤。**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = '這個網站受到 reCAPTCHA 和 Google 的保護';
 $Definition['This text has been converted from another format.'] = '此文本已從另一種格式轉換而來。';
-$Definition['This user\'s profile is private.'] = '該用戶的個人資料是私密的。';
 $Definition['This user has been banned'] = '該用戶已被禁止';
 $Definition['This user has been deleted.'] = '該用戶已被刪除。';
 $Definition['This user has been marked as a troll.'] = '此使用者已被標示為搗亂者。';

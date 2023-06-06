@@ -101,7 +101,7 @@ $Definition['Here are the ranks that users can achieve on your site.'] =
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Ако се пренесе логотип банера, он ће заменити наслов банера на страницама форума окренутим корисницима.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Ако корисник не посети сајт у овом временском периоду, биће аутоматски одјављен.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
-    'Ако је омогућено, целокупни садржај постова бит ће послан корисницима у е-порукама.';
+    'Ако је омогућено, цео садржај постова ће бити послат корисницима у обавештењима путем е-поште.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
     'Ако сте нови у ХТМЛ и / или ЦСС-у, ево неколико упутстава за почетак:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Ако желите да смањите ниво упозорења, уклоните упозорење.';
@@ -144,7 +144,7 @@ $Definition['Not getting what you expect when you preview your theme?'] = 'Не 
 $Definition['Notify me when people comment on my addons.'] = 'Обавести ме када људи коментаришу моје додатке.';
 
 $Definition['Once enabled, only members will see inside your community.'] = 'Једном када су омогућени, само чланови ће видети у вашој заједници.';
-$Definition['OrgDescription'] = 'Назив ваше организације користи се за СЕО микроподатке и ЈСОН + ЛД';
+$Definition['OrgDescription'] = 'Назив ваше организације се користи за СЕО микроподатке и ЈСОН+ЛД';
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Прекривени погледи или приказе тема могу имати ненамерне нежељене ефекте и нису прегледани.';
 
@@ -228,7 +228,7 @@ $Definition['This page lists the endpoints of your API.'] =
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
     'Ова улога је лични податак. Само корисници који имају дозволу за преглед личних података видјет ће их.';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'Ово подешавање учитава страницу пре извршења Јавасцрипта који може побољшати ваш СЕО. <br> <strong>** Упозорење: Омогућавање ове функције може проузроковати погрешке ЈаваСцрипта на вашој веб локацији **.</strong>';
+    'Ovo podešavanje učitava stranicu pre Javascript izvršenja, što može poboljšati vaš SEO. <br> <strong> ** Upozorenje: Omogućavanje ove funkcije može prouzrokovati JavaScript greške na vašoj veb lokaciji.** </strong>';
 $Definition['Tiled Layout'] = 'Тилед Лаиоут';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Да бисте уградили ваш Ванилла форум на своју веб локацију, користите следећи код.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Превише адреса! Послаћемо до %s адресе одједном.';
@@ -273,13 +273,13 @@ $Definition['You can specify a minimum post length to discourage short posts.'] 
 $Definition['You must select a file to import.'] = 'Морате одабрати датотеку коју желите да увозите.';
 $Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Применићете нову опцију изгледа. Ово се може прилагодити и прегледати помоћу нашег уређивача тема. <0> Сазнајте више</0> .';
 
-$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Наслов почетне странице се приказује на вашој почетној страници. Изаберите наслов који бисте желели да видите у претраживачима.";
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Наслов почетне странице приказује се на вашој почетној страници. Изаберите наслов који желите да се прикаже у претраживачима.";
 $Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Опис сајта се обично појављује у претраживачима. Требало би да покушате да имате опис који је дугачак 100-150 знакова.";
 $Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Овај наслов се појављује на банеру вашег сајта и у насловној траци вашег претраживача. Требало би да има мање од 20 знакова. Ако се лого постави, он ће заменити овај наслов на страницама форума окренутим корисницима. Такође, имајте на уму да неке теме могу сакрити овај наслов.";
 $Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Назив ваше организације се користи за СЕО микроподатке и ЈСОН+ЛД";
 $Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Овај лого се појављује на врху вашег сајта. Теме направљене помоћу уређивача тема и неке прилагођене теме не користе ово подешавање.";
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Логотип за мобилне уређаје се појављује на врху вашег сајта. Теме направљене помоћу уређивача тема и неке прилагођене теме не користе ово подешавање.";
-$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Фавицон вашег сајта се појављује у насловној траци вашег претраживача. Биће на одговарајући начин смањен.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Фавицон ваше странице приказује се у насловној траци прегледача. Биће смањен на одговарајући начин.";
 $Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Додирна икона се појављује када обележите веб локацију на почетном екрану мобилног уређаја. То су обично 152 пиксела.";
 $Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Када неко дели везу са ваше веб локације, покушавамо да снимимо слику са странице. Ако на страници нема слике, тада ћемо је користити ту слику. Слика би требала бити најмање 50 × 50, али препоручујемо 200 × 200.";
 $Definition["Some browsers support a color for the address bar."] = "Неки претраживачи подржавају боју за адресну траку.";

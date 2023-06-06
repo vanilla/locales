@@ -246,3 +246,4 @@ $Definition["You don't have permission to view this resource."] = "No tienes per
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Tienes que <0>iniciar sesión</0> para votar este artículo";
 $Definition["Use Banner Image Overlay"] = "Usar capa sobrepuesta de imagen del cartel";
 
+
