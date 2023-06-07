@@ -1193,6 +1193,12 @@ $Definition['Not much happening here, yet.'] = 'Not much happening here, yet.';
 $Definition['Not registered?'] = 'Not registered?';
 $Definition['Not Verified'] = 'Not Verified';
 $Definition['Not Verified Description'] = 'Unverified users are passed through spam and pre-moderation filters.';
+$Definition['users applied for membership.'] = 'users applied for membership.';
+$Definition['when you get a new rank.'] = 'when you get a new rank.';
+$Definition['when your approved to join the group'] = 'when your approved to join the group';
+$Definition['when people comment on posts in your category'] = 'when people comment on posts in your category';
+$Definition['when there is a an activity in the group you are a member of'] = 'when there is a an activity in the group you are a member of';
+$Definition['when people create new posts in your category'] = 'when people create new posts in your category';
 
 $Definition[' now.'] = ' now.';
 
