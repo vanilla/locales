@@ -1219,12 +1219,6 @@ $Definition['New posts in categories with "Discussion" followed setting'] = 'New
 $Definition['New posts in categories with "Discussion and Comments" followed setting'] = 'New posts in categories with "Discussion and Comments" followed setting';
 $Definition['New posts and comments'] = 'New posts and comments';
 $Definition['New comments on posts'] = 'New comments on posts';
-$Definition['users apply for membership.'] = 'users apply for membership.';
-$Definition['when you get a new rank.'] = 'when you get a new rank.';
-$Definition['when your approved to join the group'] = 'when your approved to join the group';
-$Definition['when people comment on posts in your category'] = 'when people comment on posts in your category';
-$Definition['when there is a an activity in the group you are a member of'] = 'when there is a an activity in the group you are a member of';
-$Definition['when people create new posts in your category'] = 'when people create new posts in your category';
 
 $Definition[' now.'] = ' now.';
 $Definition['Null Date'] = '-';
@@ -1911,6 +1905,7 @@ $Definition['Invalid user/password provided.'] = 'Invalid user/password provided
 $Definition['Users'] = 'Users';
 $Definition['Users Count'] = 'Users Count';
 $Definition['Use up to {maxImages,plural,%s image, %s images}.'] = 'Use up to {maxImages,plural,%s image, %s images}.';
+$Definition['users apply for membership.'] = 'users apply for membership.';
 
 $Definition['ValidateBanned'] = 'That %s is not allowed.';
 $Definition['ValidateBoolean'] = '%s is not a valid boolean.';
@@ -2050,6 +2045,11 @@ $Definition['Write a comment'] = 'Write a comment';
 $Definition['Write Comment'] = 'Write Comment';
 $Definition['Write something about yourself...'] = 'Write something about yourself...';
 $Definition['WTF'] = 'WTF';
+$Definition['when you get a new rank.'] = 'when you get a new rank.';
+$Definition['when your approved to join the group'] = 'when your approved to join the group';
+$Definition['when people comment on posts in your category'] = 'when people comment on posts in your category';
+$Definition['when there is a an activity in the group you are a member of'] = 'when there is a an activity in the group you are a member of';
+$Definition['when people create new posts in your category'] = 'when people create new posts in your category';
 
 $Definition['Yes'] = 'Yes';
 $Definition['You'] = 'You';
