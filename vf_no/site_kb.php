@@ -206,3 +206,4 @@ $Definition["You don't have permission to view this resource."] = "Du har ikke t
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Du må <0>Logge på</0> for å stemme på denne artikkelen";
 $Definition["Use Banner Image Overlay"] = "Bruk bannerbilde";
 
+

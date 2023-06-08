@@ -206,3 +206,4 @@ $Definition["You don't have permission to view this resource."] = "Não tem perm
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Precisa de <0>Autenticar-se</0> para votar neste artigo";
 $Definition["Use Banner Image Overlay"] = "Usar Sobreposição da Imagem da Faixa";
 
+

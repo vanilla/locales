@@ -206,3 +206,4 @@ $Definition["You don't have permission to view this resource."] = "Wala kang pah
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Kailangan mong mag- <0>Sign In</0> para makaboto sa artikulong ito";
 $Definition["Use Banner Image Overlay"] = "Gamitin ang Banner Image Overlay";
 
+

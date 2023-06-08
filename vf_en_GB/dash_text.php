@@ -18,6 +18,8 @@ $Definition['Discussion categories are used to help your users organize their di
 $Definition['Force the dashboard to only be accessible through this url <em>(not recommended)</em>'] = 'Force the dashboard to only be accessible through this URL <em>(not recommended)</em>';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote URL.';
 
+$Definition['Invitation email failed to send: %'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
+
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customise it.';
 
 $Definition['Messages can appear anywhere in your application.'] = 'Messages can appear anywhere in your application, and can be used to inform your users of news and events. Use this page to re-organise your messages by dragging them up or down.';

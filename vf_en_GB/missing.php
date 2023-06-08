@@ -17,6 +17,7 @@ $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
 $Definition['Account & Privacy'] = 'Account &amp; Privacy';
+$Definition['Account & Privacy Settings'] = 'Account &amp; Privacy Settings';
 $Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s accepted %4$s %8$s.';
 $Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s commented on your %8$s.';
 $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s commented on your %8$s.';
@@ -42,6 +43,7 @@ $Definition['AttemptingSignOut'] = 'You are attempting to sign out. Are you sure
 $Definition['Back to Discussions'] = 'Back to Competitions';
 $Definition['Badge404'] = 'Badge not found.';
 $Definition['Badge Name'] = 'Name';
+$Definition['BadgeReasonPrompt'] = 'Think you deserve this badge? Tell us why.';
 $Definition['BadgeRecipientsHeading'] = 'Most recent recipients';
 $Definition['BadgeRequestColumnLabel'] = 'Request';
 $Definition['BadgesModuleTitle'] = 'Badges';
@@ -54,6 +56,7 @@ $Definition['BanReason.8'] = 'Banned by warnings.';
 $Definition['Ban Type'] = 'Type';
 
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
+$Definition['CategoriesNoFollowed'] = 'No categories followed';
 $Definition['CategoriesShowFollowed'] = 'Only show followed categories';
 $Definition['CategoriesShowUnfollowed'] = 'Show hidden categories';
 $Definition['CategoriesViewingAll'] = 'You are currently viewing all categories.';
@@ -254,7 +257,6 @@ $Definition['InputFormatter.Notes1'] = 'Select the default format of the editor 
 $Definition['InputFormatter.Notes2'] = 'The editor will auto-detect the format of old posts when editing them and load their original formatting rules. Aside from this exception, the selected post format below will take precedence.';
 $Definition['Invalid CSRF token.'] = 'Invalid CSRF token. Please try again.';
 $Definition['Invalid password.'] = 'The password you entered was incorrect. Remember that passwords are case-sensitive.';
-$Definition['Invitation email failed to send: %'] = 'Although the invitation was created successfully, the email failed to send. The server reported the following error: %s';
 $Definition['InvitationMessage'] = 'Hi Pal!
 
 Check out the new community forum I\'ve just set up. It\'s a great place for us to chat with each other online.
@@ -291,6 +293,7 @@ $Definition['NoBadgesEarned'] = 'Any minute now&hellip;';
 $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
 $Definition['Notes description'] = 'You can add notes to a user which are only visible to moderators.';
+$Definition['Notification preferences enabled tooltip'] = 'Post notifications must be enabled before new comment notifications and receiving notifications as emails are available.';
 $Definition['NotifyApplicant'] = 'Notify me when anyone applies for membership.';
 $Definition['Not Verified Description'] = 'Unverified users are passed through spam and pre-moderation filters.';
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
@@ -570,7 +573,7 @@ $Definition['You can either ask a question or start a discussion.'] = 'You can e
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
 $Definition['You can place files in your /uploads folder.'] = 'If your file is too large to upload directly to this page you can place it in your /uploads folder. Make sure the filename begins with the word <b>export</b> and ends with one of <b>.txt, .gz</b>.';
 $Definition['You can remove or ban this member from the group.'] = 'You can remove or ban this member from the group. Banned members won\'t be able to join the group again.';
-$Definition['You can specify an allow list of trusted domains.'] = 'You can specify an allow list of trusted domains (ex. yourdomain.com) that are safe for redirects and embedding.';
+$Definition['You can specify an allow list of trusted domains.'] = 'You can specify a list of trusted domains that are safe for redirects & embedding.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'You can specify an allow list of trusted domains (ex. yourdomain.com) that are safe to load javascript from.';
 $Definition['You can use HTML in your signature.'] = 'You can use <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple HTML</a></b> in your signature.';
 $Definition['You don\'t have a password.'] = 'Your account does not have a password assigned to it yet. Click <a href="%s">here</a> to set your password.';

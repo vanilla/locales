@@ -25,7 +25,7 @@ $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Apply Layout'] = 'Appliquer la mise en page';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
-$Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Enregistrer automatiquement les brouilles des discussions, questions, idées et réponses non publiés.';
+$Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Enregistrez automatiquement les brouillons des discussions, questions, idées et commentaires non publiés.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Les avatars seront réduits s\'ils dépassent cette hauteur.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Les avatars seront réduits s\'ils dépassent cette largeur.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Les avatars verront leurs vignettes enregistrées à cette taille.';
@@ -103,7 +103,7 @@ $Definition['Here are the ranks that users can achieve on your site.'] =
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si un logo de bandeau a été téléchargé, il remplacera le titre du bandeau dans l\'interface utilisateur des pages du forum.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Si un utilisateur ne visite pas le site pendant cette période, il sera automatiquement déconnecté.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] =
-    'Si cette option est activée, le contenu complet des publications sera envoyé par e-mail aux utilisateurs.';
+    'Si activé, le contenu complet des publications sera envoyé dans les notifications par e-mail aux utilisateurs.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] =
     'Si vous êtes novice en HTML et / ou CSS, voici quelques tutoriels pour vous aider à démarrer:';
 $Definition['If you want to decrease the warning level then remove a warning.'] = 'Si vous voulez diminuer le niveau d\'alerte, enlevez une alerte.';
@@ -228,9 +228,9 @@ $Definition['This option shows/hides the locations where pockets can go.'] = 'Ce
 $Definition['This page lists the endpoints of your API.'] =
     'Cette page répertorie les points de terminaison de votre API. Cliquez sur points de terminaison pour plus d\'informations. Vous pouvez effectuer des appels en direct vers l\'API à partir de cette page ou en externe à l\'aide d\'un jeton d\'accès.';
 $Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
-    'Ce rôle est une information personnelle. Seuls les utilisateurs autorisés à afficher les informations personnelles les verront.';
+    'Ce rôle est une information personnelle. Seuls les utilisateurs autorisés à consulter les informations personnelles les verront.';
 $Definition['This setting loads the page before executing Javascript.'] =
-    'Ce paramètre charge la page avant d\'exécuter Javascript, ce qui peut améliorer votre référencement. <br> <strong>** Attention: l\'activation de cette fonctionnalité peut entraîner des erreurs Javascript sur votre site. **</strong>';
+    'Ce paramètre charge la page avant d\'exécuter Javascript, ce qui peut améliorer l\'optimisation pour les moteurs de recherche.<br><strong>**Avertissement : Activer cette caractéristique peut causer des erreurs relatives à Javascript sur votre site.**</strong>';
 $Definition['Tiled Layout'] = 'Disposition en mosaïque';
 $Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'Pour intégrer votre forum Vanilla à votre site web, utilisez le code suivant.';
 $Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Il y a trop d\'adresses. Nous allons immédiatement vous envoyer %s adresses. ';
@@ -261,8 +261,8 @@ $Definition['Warning: This is for advanced users.'] = '<b>Avertissement</b>: Ces
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Nous recommandons surtout des réactions positives pour encourager la participation.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Lorsqu\'elle est activée, vous pouvez gérer les produits et regrouper les sous-communautés par ces produits.';
-$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Pour choisir si les champs de profil internes sont inclus dans cet élément.';
-$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Pour choisir si les champs de profil privés sont inclus dans cet élément.';
+$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Indique si les champs de profil interne seront inclus ou non dans ce webhook.';
+$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Indique si les champs de profil privé seront inclus ou non dans ce webhook.';
 $Definition['Which reactions you use really depends on your community.'] =
     'Les réactions que vous utilisez dépendent vraiment de votre communauté, mais nous vous recommandons de garder quelques points à l\'esprit.';
 
@@ -308,7 +308,7 @@ $Definition["Edits to this theme apply to:"] = "Les modifications apportées à 
 
 $Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Les modèles sont les thèmes standard. Pour les personnaliser, vous devez créer une copie.';
 $Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Les thèmes personnalisés sont les thèmes que vous avez créés. Vous pouvez les modifier, les renommer ou en faire une copie.';
-$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Ce thème ne peut pas être supprimé car il s'agit du thème actuellement appliqué.";
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Ce thème ne peut être supprimé car il est actuellement appliqué.";
 $Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Voulez-vous vraiment supprimer ce thème? Il sera définitivement supprimé.";
 
 // Preview Page
@@ -382,7 +382,7 @@ $Definition['The <0/> lab needs to be configured to match your custom theme.'] =
 $Definition['Usercards'] = 'Cartes d\'utilisateur';
 $Definition["Usercards allow you to get a quick in-line snapshot of a user's information."] = "Les cartes d'utilisateur vous permettent d'obtenir un aperçu rapide des informations d'un utilisateur. Lorsque vous consultez les messages et les classements, cliquez sur le nom d'utilisateur pour afficher une carte présentant les informations de base du profil de l'utilisateur sans avoir à quitter la page. Activez cette fonctionnalité pour ajouter des cartes d'utilisateur à votre thème personnalisé.";
 $Definition['New Search Page'] = 'Nouvelle page de recherche';
-$Definition["Vanilla's new search service is finally here."] = "Vanilla's new search service is finally here. Enable our new search page UI to gain access to the newest search features such as Member Search, search sorting and term highlighting.";
+$Definition["Vanilla's new search service is finally here."] = "Le nouveau service de recherche de Vanilla est enfin disponible. Activez notre nouvelle interface de recherche pour accéder aux nouvelles fonctionnalités de recherche telles que la recherche de membres, le tri des recherches et la mise en évidence des termes.";
 $Definition['New Quick Links'] = 'Nouveaux liens rapides';
 $Definition['Quick Links is a default component on community pages.'] = "Les liens rapides sont un composant par défaut sur les pages de communauté. Activez notre nouveau composant Liens rapides pour ajouter, modifier ou masquer des liens de ce menu à l'aide de notre éditeur de thème.";
 

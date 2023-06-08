@@ -196,6 +196,7 @@ $Definition['Choose who can send out invitations to new members:'] = 'Escolha qu
 $Definition['Choose how many records to display.'] = 'Escolha quantos registros exibir.';
 $Definition['Choose when to load records from.'] = 'Escolha de quando carregar os registros.';
 $Definition['Class'] = 'Classe';
+$Definition['Clear All'] = 'Apagar Tudo';
 $Definition['Classic table layout used by traditional forums'] = 'Leiaute clássico de tabelas usado por fóruns tradicionais';
 $Definition['Clean Spam'] = 'Limpar spam';
 $Definition['Click a tag name to edit. Click x to remove.'] = 'Clique em um rótulo para editá-lo. Clique em "x" para removê-lo.';
@@ -384,12 +385,14 @@ $Definition['FileUpload is currently ON'] = 'Envio de arquivo está ATIVADO.';
 $Definition['Filter'] = 'Filtrar';
 $Definition['Filter Results'] = 'Filtrar Resultados';
 $Definition['Finished'] = 'Finalizado';
+$Definition['Fingerprint'] = 'Impressão digital';
 $Definition['First Visit'] = 'Primeira visita';
 $Definition['Flagged By'] = 'Sinalizado por';
 $Definition['Flagged Content'] = 'Conteúdo Marcado';
 $Definition['Flood Control'] = 'Controle de Flood';
 $Definition['Forbidden words'] = 'Palavras proibidas';
 $Definition['Follow Up Delay'] = 'Atraso de Acompanhamento';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'Por exemplo, para permitir yourdomain.com, www.yourdomain.com e help.yourdomain.com, você deve adicionar *.yourdomain.com';
 $Definition['Force the forum to only be accessible through this url'] = 'Force o fórum a ser acessível somente através desta URL';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'Force o seu fórum a ser visto através de uma URL remota';
 $Definition['Formats'] = 'Formatos';
@@ -634,6 +637,7 @@ $Definition['Preview Colors'] = 'Visualização das Cores';
 $Definition['Private Communities'] = 'Comunidades Privadas';
 $Definition['private conversation(s)'] = 'conversa(s) privada(s)';
 $Definition['Private Key'] = 'Chave privada';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'Protocolos (ex. https://) e caminhos (ex. yourdomain.com/some/path) devem ser omitidos.';
 $Definition['Provider'] = 'Provedor';
 $Definition['Public Key'] = 'Chave pública';
 
@@ -664,6 +668,7 @@ $Definition['Replacement Role'] = 'Função de Substituição';
 $Definition['Reply  To'] = 'Responder para';
 $Definition['reply to private conversation(s)'] = 'responder conversa(s) privada(s)';
 $Definition['Request'] = 'Solicitar';
+$Definition['Requests'] = 'Solicitações';
 $Definition['Requires'] = 'Exige';
 $Definition['Requires: '] = 'Exige: ';
 $Definition['Require users to confirm their email addresses (recommended)'] = 'Exigir que as pessoas confirmem seu e-mail (recomendado)';
@@ -678,6 +683,7 @@ $Definition["Revert"] = "Reverter";
 $Definition['Revert to Original Version'] = 'Reverter para a versão original';
 $Definition['Revision Label:'] = 'Revisão de etiquetas';
 $Definition['Role'] = 'Função';
+$Definition['Assign to'] = 'Atribuir para';
 $Definition['Role Applicants'] = 'Candidatos à função';
 $Definition['Role Name'] = 'Nome da função';
 $Definition['Role Permissions'] = 'Permissões de Função';
@@ -818,7 +824,7 @@ $Definition['This is a parent category that does not allow discussions.'] = 'Est
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Esta é a primeira vez em que você visita a lista de discussão.';
 $Definition['This page requires Javascript.'] = 'Esta página reque Javascript.';
 $Definition['This pocket is an ad.'] = 'Este pocket é um anúncio.';
-$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Este tema não pode ser deletado porque é o tema atual aplicado.';
+$Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Este tema não pode ser excluído porque é o tema atualmente aplicado.';
 $Definition['This theme has additional options.'] = 'Este tema tem opções adicionais na página %s.';
 $Definition['This theme has customizable text.'] = 'Este tema tem texto personalizável.';
 $Definition['Threshold'] = 'Limite';
@@ -909,7 +915,7 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Você pode personalizar o HTML e o CSS para este tema na página %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Você pode criar uma nova conta ou fazer login em sua conta existente.';
 $Definition['You can make the categories page your homepage.'] = 'Você pode transformar suas salas de discussão na página principal <a href="%s">aqui</a>.';
-$Definition['You can specify an allow list of trusted domains.'] = 'Você pode especificar uma lista de permissões de domínios confiáveis (por exemplo, seudominio.com) que são seguros para redirecionamentos e incorporação.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Você pode especificar uma lista de domínios confiáveis seguros para redirecionamentos e incorporação.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Você pode especificar uma lista de permissões de domínios confiáveis (por exemplo, seudomínio.com) que são seguros para carregar javascript.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Você não pode desabilitar este complemento %1$s porque o complemento %2$s exige-o para funcionar.';
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'Não é possível remover a última sala que permite discussões';
@@ -949,7 +955,7 @@ $Definition['This option is to normalize the editor format'] = 'Esta opção é 
 
 $Definition['Mobile Format'] = 'Formato Móvel';
 $Definition['Enable Rich Quotes'] = 'Ativar Citações Enriquecidas';
-$Definition['RichEditor.QuoteEnable.Notes'] = 'Use a opção a seguir para ativar as citações para o Editor de Texto Enriquecido. Isso só será aplicado se o formatador-padrão for "Rich".';
+$Definition['RichEditor.QuoteEnable.Notes'] = 'Use a opção a seguir para ativar cotações para o Rich Editor. Isso se aplicará apenas se o formatador padrão for "Rico".';
 
 // Catalogue Display Plugin/Formats
 $Definition['Default placeholder'] = 'Espaço reservado padrão';
@@ -970,3 +976,4 @@ $Definition["disabled"] = "desativado";
 
 $Definition["This information will only be shown to users with permission to view internal info"] = "Essas informações serão exibidas apenas para usuários com permissão para visualizar informações internas";
 $Definition["This is private information and will not be shared with other members."] = "Esta é uma informação privada e não será compartilhada com outros membros.";
+

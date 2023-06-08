@@ -206,3 +206,4 @@ $Definition["You don't have permission to view this resource."] = "Ga o na tumel
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "O swanetše go <0>Tsena</0> go boutela sehlogo se";
 $Definition["Use Banner Image Overlay"] = "Šomiša Sebopego sa Seswantšho sa Banner";
 
+
