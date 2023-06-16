@@ -146,6 +146,7 @@ $Definition['[Deleted User]'] = '[Izbrisan uporabnik]';
 
 $Definition['About'] = 'O tem';
 $Definition['About %s users'] = 'Približno %s uporabnikov';
+$Definition['About Me'] = 'O meni';
 $Definition['About the event'] = 'O dogodku';
 $Definition['AboutToDelete'] = 'Izbrisali boste %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Izbrisali boste %1$s od %2$s izbranih razprav.';
@@ -157,6 +158,7 @@ $Definition['Accept this answer.'] = 'Sprejmi ta odgovor.';
 $Definition['Access the Site'] = 'Dostop do spletnega mesta';
 $Definition['Access Tokens'] = 'Žetoni za dostop';
 $Definition['Account & Privacy'] = 'Račun in zasebnost';
+$Definition['Account & Privacy Settings'] = 'Nastavitve računa in zasebnosti';
 $Definition['Account Options'] = 'Možnosti računa';
 $Definition['Actions'] = 'Dejanja';
 $Definition['Activate'] = 'Aktiviraj';
@@ -199,6 +201,7 @@ $Definition['Add Note'] = 'Dodaj opombo';
 $Definition['Add People to this Conversation'] = 'Dodajte osebe v ta pogovor';
 $Definition['Add Route'] = 'Dodaj pot';
 $Definition['Add to Collection'] = 'Dodaj v zbirko.';
+$Definition['Add to Collections'] = 'Dodaj v zbirke';
 $Definition['Admin'] = 'skrbnik';
 $Definition['Administrator Activity'] = 'Dejavnost skrbnika';
 $Definition['Administrator and moderator'] = 'Administrator in moderator';
@@ -302,6 +305,8 @@ $Definition['Back to Discussions'] = 'Nazaj na tekmovanja';
 $Definition['Back to Profile'] = 'Nazaj na profil';
 $Definition['Badge'] = 'Značka';
 $Definition['Badge404'] = 'Značke ni mogoče najti.';
+$Definition['Badge is not available.'] = 'Značka ni na voljo.';
+$Definition['BadgeReasonPrompt'] = 'Mislite, da si zaslužite to značko? Povejte nam zakaj.';
 $Definition['Badges'] = 'Značke';
 $Definition['BadgesModuleTitle'] = 'Značke';
 $Definition['BadgesNobody'] = 'Nihče si še ni prislužil te značke.';
@@ -358,6 +363,7 @@ $Definition['Case Number'] = 'Številka primera';
 $Definition['Casual'] = 'Ležerno';
 $Definition['Categories'] = 'kategorije';
 $Definition['Categories & Groups'] = 'Kategorije in skupine';
+$Definition['CategoriesNoFollowed'] = 'Sledila ni nobena kategorija';
 $Definition['CategoriesShowFollowed'] = 'Pokaži samo spremljane kategorije';
 $Definition['CategoriesShowUnfollowed'] = 'Prikaži skrite kategorije';
 $Definition['CategoriesViewingAll'] = 'Trenutno si ogledujete vse kategorije.';
@@ -463,10 +469,12 @@ $Definition['Created by %s'] = 'Ustvaril %s';
 $Definition['Created Date'] = 'Ustvarjen datum';
 $Definition['Create Discussions'] = 'Ustvarite razprave';
 $Definition['Created on %s'] = 'Ustvarjeno %s';
+$Definition['Create New Collections'] = 'Ustvari nove zbirke';
 $Definition['Create New Discussion'] = 'Ustvari novo razpravo';
 $Definition['Create One.'] = 'Ustvari enega.';
 $Definition['Current'] = 'Trenutno';
 $Definition['Currently: '] = 'Trenutno:';
+$Definition['Current Username'] = 'Trenutno uporabniško ime';
 $Definition['Custom Information'] = 'Informacije po meri';
 $Definition['Customize'] = 'Prilagoditi';
 $Definition['customize your profile now'] = 'prilagodite svoj profil zdaj';
@@ -682,6 +690,7 @@ $Definition['Folder'] = 'Mapa';
 $Definition['Folders'] = 'Mape';
 $Definition['Follow'] = 'Sledi';
 $Definition['Follow %s'] = 'Sledite %s';
+$Definition['Follow Category'] = 'Sledite kategoriji';
 $Definition['Followed by %d people'] = 'Sledi %d oseb';
 $Definition['Followed by %d person'] = 'Sledi %d oseba';
 $Definition['followed categories'] = 'sledi kategorije';
@@ -794,6 +803,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '<a href="{Url,html}" class
 $Definition['Height (mobile)'] = 'Višina (mobilno)';
 $Definition['Hello!'] = 'Zdravo!';
 $Definition['Hello %s!'] = 'Pozdravljeni %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Pozdravljeni,
+
+zate je bil ustvarjen račun na forumu %s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Pozdravljeni {User.Name}!';
 $Definition['Help'] = 'pomoč';
 $Definition['Help Menu'] = 'pomoč';
@@ -848,6 +866,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Dodajte omejitve dimenzij nalaganja s
 $Definition['ImageUploadLimits.Width2'] = 'Slike bodo pomanjšane, če bodo presegle to širino.';
 $Definition['Image URL'] = 'URL slike';
 $Definition['in'] = 'v';
+$Definition['In <0/>.'] = 'V <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'V <0/> in nedavnih razpravah.';
 $Definition['In <b>%s.</b>'] = 'V <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'V <b>%s</b> in nedavnih razpravah.';
 $Definition['Inbox'] = 'Prejeto';
@@ -954,6 +974,7 @@ $Definition['Loading'] = 'nalaganje';
 $Definition['Loading Modal'] = 'Nalaganje modalnega';
 $Definition['Log'] = 'Dnevnik';
 $Definition['log'] = 'dnevnik';
+$Definition['Log in here to update your notification preferences'] = 'Prijavite se tukaj, da posodobite svoje nastavitve obvestil';
 $Definition['Login with Facebook'] = 'Prijava s Facebookom';
 
 $Definition['Make %s'] = 'Ustvari %s';
@@ -1060,6 +1081,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Najnovejša razprava';
 $Definition['Move'] = 'Premakni se';
 $Definition['Moved: %s'] = 'Premaknjeno: %s';
+$Definition['Move Discussion'] = 'Premakni razpravo';
 $Definition['My Account'] = 'Moj račun';
 $Definition['My Account Tab'] = 'Zavihek Moj račun';
 $Definition['MyBadgesModuleTitle'] = 'Moje značke';
@@ -1101,6 +1123,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Nova anketa';
 $Definition['New Post'] = 'Nova objava';
 $Definition['New Question'] = 'Novo vprašanje';
+$Definition['New Username'] = 'Novo uporabniško ime';
 $Definition['Next'] = 'Naslednji';
 $Definition['Next Page'] = 'Naslednja stran';
 $Definition['Ninth Anniversary'] = 'Deveta obletnica';
@@ -1117,6 +1140,7 @@ $Definition['No items tagged with %s.'] = 'Noben predmet ni označen z %s.';
 $Definition['None'] = 'Noben';
 $Definition['No open cases were found.'] = 'Najden ni bil noben odprt primer.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Nimate dovoljenja za brisanje %1$s izbranih razprav.';
+$Definition['No reactions yet.'] = 'Reakcij še ni.';
 $Definition['No results'] = 'Brez rezultatov';
 $Definition['No results for \'%s\''] = 'Ni rezultatov za \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Ni rezultatov za \'<0/>\'.';
@@ -1133,6 +1157,7 @@ $Definition['Not going'] = 'Ne grem';
 $Definition['Notice'] = 'Opaziti';
 $Definition['Notification'] = 'Obvestilo';
 $Definition['Notification Preferences'] = 'Nastavitve obvestil';
+$Definition['Notification preferences enabled tooltip'] = 'Obvestila o objavah morajo biti omogočena, preden so na voljo obvestila o novih komentarjih in prejemanje obvestil po e-pošti.';
 $Definition['Notifications'] = 'Obvestila';
 $Definition['Notifications Postmaster'] = 'Obvestila Poštar';
 $Definition['Notifictions'] = 'Obvestila';
@@ -1158,6 +1183,8 @@ $Definition['Notify of all new discussions.'] = 'Obvesti o vseh novih razpravah.
 $Definition['Notify of all new discussions by email.'] = 'Obveščajte o vseh novih razpravah po e-pošti.';
 $Definition['Notify of all new posts.'] = 'Obvesti o vseh novih objavah.';
 $Definition['Notify of all new posts by email.'] = 'Obvesti o vseh novih objavah po e-pošti.';
+$Definition['Notify of new comments'] = 'Obvesti o novih komentarjih';
+$Definition['Notify of new posts'] = 'Obvesti o novih objavah';
 $Definition['No Title'] = 'Brez naslova';
 $Definition['Not much happening here, yet.'] = 'Tukaj se še ne dogaja veliko.';
 $Definition['Not registered?'] = 'Niste registrirani?';
@@ -1251,6 +1278,13 @@ $Definition['Placeholder'] = 'Rezervirano mesto';
 $Definition['Places'] = 'Mesta';
 $Definition['Play the sound again'] = 'Ponovno predvajajte zvok';
 $Definition['Play Video'] = 'Predvajaj video';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Prosimo, kontaktirajte nas, če imate vprašanja v zvezi s tem e-poštnim sporočilom.
+
+Lep pozdrav,
+%s';
 $Definition['Please join my group.'] = 'Prosim pridruži se moji <a href="{Url,html}">skupini</a> .';
 $Definition['Please join my group: %s'] = 'Pridružite se moji skupini: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Počakajte, da ste preusmerjeni. Če niste preusmerjeni, kliknite <a href="%s">tukaj</a> .';
@@ -1413,6 +1447,7 @@ $Definition['Reputation'] = 'Ugled';
 $Definition['Request a new password'] = 'Zahtevajte novo geslo';
 $Definition['Request a new password →'] = 'Zahtevaj novo geslo →';
 $Definition['Request another password reset.'] = 'Zahtevajte novo ponastavitev gesla.';
+$Definition['Request Badge'] = 'Zahtevaj značko';
 $Definition['Reset Password'] = 'Ponastavitev gesla';
 $Definition['Reset Your Password'] = 'Ponastavi geslo';
 $Definition['Restore'] = 'Obnovi';
@@ -1500,14 +1535,17 @@ $Definition['Select a community.'] = 'Izberite skupnost.';
 $Definition['Select an image on your computer (2mb max)'] = 'Izberite sliko v računalniku (največ 2mb)';
 $Definition['Select Discussion'] = 'Izberite Razprava';
 $Definition['Select Discussion Type'] = 'Izberite vrsto razprave';
+$Definition['Select Existing Collections'] = 'Izberite Obstoječe zbirke';
 $Definition['Select one of the following avatars:'] = 'Izberite enega od naslednjih avatarjev:';
 $Definition['Send'] = 'Pošlji';
 $Definition['Send a New Message'] = 'Pošlji novo sporočilo';
 $Definition['Send me a follow-up for my answered questions.'] = 'Pošljite mi nadaljnje sporočilo za odgovore na moja vprašanja.';
 $Definition['Send Message'] = 'Pošlji sporočilo';
+$Definition['Send notifications as emails'] = 'Pošljite obvestila kot e-pošto';
 $Definition['Send Q&A Follow-up Email'] = 'Pošljite nadaljnje e-poštno sporočilo z vprašanji in odgovori';
 $Definition['Send Report'] = 'Pošlji poročilo';
 $Definition['Send report'] = 'Pošlji poročilo';
+$Definition['Send Request'] = 'Pošlji zahtevo';
 $Definition['sep and'] = 'in';
 $Definition['Set a New Warning Level'] = 'Nastavite novo raven opozorila';
 $Definition['Set A Password'] = 'Nastavite geslo';
@@ -1716,6 +1754,13 @@ $Definition['Thumbnail for: '] = 'Sličica za:';
 $Definition['Title'] = 'Naslov';
 $Definition['title'] = 'naslov';
 $Definition['To'] = 'Za';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Če želite aktivirati svoj račun, sledite tej povezavi:
+%s
+
+';
 $Definition['Today'] = 'Danes';
 $Definition['Toggle Category'] = 'Preklopi kategorijo';
 $Definition['Toggle full page'] = 'Preklopi celotno stran';
@@ -1759,6 +1804,7 @@ $Definition['Undefined foreign content'] = 'Nedefinirana tuja vsebina';
 $Definition['Undo'] = 'Razveljavi';
 $Definition['Undo Follow'] = 'Razveljavi Sledi';
 $Definition['Unfollow'] = 'Prekliči spremljanje';
+$Definition['Unfollow Category'] = 'Prekliči spremljanje kategorije';
 $Definition['Unhide'] = 'Razkrij';
 $Definition['Unignore'] = 'Prekliči ignoriranje';
 $Definition['Unknown'] = 'Neznano';

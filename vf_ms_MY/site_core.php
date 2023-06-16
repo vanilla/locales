@@ -148,6 +148,7 @@ $Definition['[Deleted User]'] = '[Pengguna Dipadamkan]';
 
 $Definition['About'] = 'Mengenai';
 $Definition['About %s users'] = 'Mengenai %s pengguna';
+$Definition['About Me'] = 'Tentang saya';
 $Definition['About the event'] = 'Mengenai acara itu';
 $Definition['AboutToDelete'] = 'Anda akan memadam %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Anda akan memadam %1$s daripada %2$s perbincangan yang dipilih.';
@@ -159,6 +160,7 @@ $Definition['Accept this answer.'] = 'Terima jawapan ini.';
 $Definition['Access the Site'] = 'Akses Laman';
 $Definition['Access Tokens'] = 'Akses Token';
 $Definition['Account & Privacy'] = 'Akaun & Privasi';
+$Definition['Account & Privacy Settings'] = 'Tetapan Akaun & Privasi';
 $Definition['Account Options'] = 'Pilihan Akaun';
 $Definition['Actions'] = 'Tindakan';
 $Definition['Activate'] = 'Mengaktifkan';
@@ -201,6 +203,7 @@ $Definition['Add Note'] = 'Tambah Nota';
 $Definition['Add People to this Conversation'] = 'Tambah Orang dalam Perbualan ini';
 $Definition['Add Route'] = 'Tambah Laluan';
 $Definition['Add to Collection'] = 'Tambahkan pada Koleksi.';
+$Definition['Add to Collections'] = 'Tambahkan pada Koleksi';
 $Definition['Admin'] = 'Pentadbir';
 $Definition['Administrator'] = 'Pentadbir';
 $Definition['Administrator Activity'] = 'Aktiviti Pentadbir';
@@ -274,6 +277,7 @@ $Definition['Approved'] = 'Diluluskan';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Adakah anda BENAR-BENAR pasti anda mahu mengambil tindakan ini?';
 $Definition['Are you attending this event?'] = 'Adakah anda menghadiri majlis ini?';
 $Definition['Are you sure you want to delete this %s?'] = 'Adakah anda pasti anda mahu memadam %s ini?';
+$Definition['Are you sure you want to delete this image? You won\'t be able to recover it.'] = 'Adakah anda pasti mahu memadamkan imej ini? Anda tidak akan dapat memulihkannya.';
 $Definition['Are you sure you want to do that?'] = 'Adakah anda pasti anda mahu berbuat demikian?';
 $Definition['Are you sure you want to do this?'] = 'Adakah anda pasti anda mahu melakukan ini?';
 $Definition['Are you sure you want to ignore <b>%s</b>?'] = 'Adakah anda pasti mahu mengabaikan <b>%s</b> ?';
@@ -305,6 +309,8 @@ $Definition['Back to Discussions'] = 'Kembali kepada Pertandingan';
 $Definition['Back to Profile'] = 'Kembali ke Profil';
 $Definition['Badge'] = 'Lencana';
 $Definition['Badge404'] = 'Lencana tidak dijumpai.';
+$Definition['Badge is not available.'] = 'Lencana tidak tersedia.';
+$Definition['BadgeReasonPrompt'] = 'Fikirkan anda layak mendapat lencana ini? Beritahu kami mengapa.';
 $Definition['Badges'] = 'Lencana-lencana';
 $Definition['BadgesModuleTitle'] = 'Lencana-lencana';
 $Definition['BadgesNobody'] = 'Belum ada sesiapa yang memperoleh lencana ini.';
@@ -361,6 +367,7 @@ $Definition['Case Number'] = 'Nombor kes';
 $Definition['Casual'] = 'Kasual';
 $Definition['Categories'] = 'Kategori-kategori';
 $Definition['Categories & Groups'] = 'Kategori & Kumpulan';
+$Definition['CategoriesNoFollowed'] = 'Tiada kategori diikuti';
 $Definition['CategoriesShowFollowed'] = 'Hanya tunjuk kategori-kategori yang diikuti';
 $Definition['CategoriesShowUnfollowed'] = 'Tunjuk kategori-kategori yang tersembunyi';
 $Definition['CategoriesViewingAll'] = 'Anda sedang melayari semua kategori.';
@@ -467,10 +474,12 @@ $Definition['Created by %s'] = 'Dicipta oleh %s';
 $Definition['Created Date'] = 'Tarikh Dibuat';
 $Definition['Create Discussions'] = 'Cipta Perbincangan';
 $Definition['Created on %s'] = 'Dibuat pada %s';
+$Definition['Create New Collections'] = 'Buat Koleksi Baharu';
 $Definition['Create New Discussion'] = 'Buat Perbincangan Baru';
 $Definition['Create One.'] = 'Cipta Satu.';
 $Definition['Current'] = 'Semasa';
 $Definition['Currently: '] = 'Pada masa ini:';
+$Definition['Current Username'] = 'Nama Pengguna Semasa';
 $Definition['Custom Information'] = 'Maklumat Langgan';
 $Definition['Customize'] = 'Menyesuaikan';
 $Definition['customize your profile now'] = 'menyesuaikan profil anda sekarang';
@@ -711,6 +720,7 @@ $Definition['Float right'] = 'Terapung Kanan';
 $Definition['Folders'] = 'Folder';
 $Definition['Follow'] = 'Ikuti';
 $Definition['Follow %s'] = 'Ikuti %s';
+$Definition['Follow Category'] = 'Ikut Kategori';
 $Definition['Followed by %d people'] = 'Diikuti oleh %d orang';
 $Definition['Followed by %d person'] = 'Diikuti oleh %d orang';
 $Definition['followed categories'] = 'kategori yang diikuti';
@@ -821,6 +831,15 @@ $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} memberi amaran kep
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Anda telah diberi amaran.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Anda telah diberi <a href="{Url,html}" class="Popup">amaran</a> .';
 $Definition['Height (mobile)'] = 'Tinggi (mudah alih)';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Helo,
+
+Akaun telah dibuat untuk anda di forum %s.
+
+';
 $Definition['Help'] = 'Bantuan';
 $Definition['Help Menu'] = 'Bantuan';
 $Definition['her'] = 'dia';
@@ -872,6 +891,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Tambahkan had pada dimensi muat naik 
 $Definition['ImageUploadLimits.Width2'] = 'Imej akan dikecilkan jika melebihi lebar ini.';
 $Definition['Image URL'] = 'URL Imej';
 $Definition['in'] = 'dalam';
+$Definition['In <0/>.'] = 'Dalam <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'Dalam <0/> dan perbincangan baru-baru ini.';
 $Definition['In <b>%s.</b>'] = 'Dalam <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Dalam <b>%s</b> dan perbincangan baru-baru ini.';
 $Definition['Inbox'] = 'Peti Masuk';
@@ -939,6 +960,7 @@ $Definition['Just you!'] = 'Hanya anda!';
 
 $Definition['Keep me signed in'] = 'Pastikan saya melog masuk';
 $Definition['Keep User Content'] = 'Simpan Kandungan Pengguna';
+$Definition['Kilobyte'] = 'Kilobait';
 
 $Definition['Languages'] = 'Bahasa';
 $Definition['Large'] = 'Besar';
@@ -972,6 +994,7 @@ $Definition['List Ordered'] = 'Senarai Teratur';
 $Definition['List Unordered'] = 'Senarai Tidak Teratur';
 $Definition['Loading'] = 'Memuatkan';
 $Definition['Loading Modal'] = 'Memuat Modal';
+$Definition['Log in here to update your notification preferences'] = 'Log masuk di sini untuk mengemas kini pilihan pemberitahuan anda';
 $Definition['Login with Facebook'] = 'Log masuk dengan menggunakan Facebook';
 
 $Definition['Major'] = 'Utama';
@@ -1076,6 +1099,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Perbincangan terkini';
 $Definition['Move'] = 'Gerak';
 $Definition['Moved: %s'] = 'Dipindahkan: %s';
+$Definition['Move Discussion'] = 'Perbincangan Bergerak';
 $Definition['Mute'] = 'Bisu';
 $Definition['My Account'] = 'Akaun saya';
 $Definition['My Account Tab'] = 'Tab Akaun Saya';
@@ -1119,6 +1143,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Pungutan Suara Baharu';
 $Definition['New Post'] = 'Jawatan baru';
 $Definition['New Question'] = 'Soalan Baru';
+$Definition['New Username'] = 'Nama Pengguna Baharu';
 $Definition['Next'] = 'Seterusnya';
 $Definition['Next Page'] = 'Muka surat seterusnya';
 $Definition['Ninth Anniversary'] = 'Ulang Tahun Kesembilan';
@@ -1135,6 +1160,7 @@ $Definition['No items tagged with %s.'] = 'Tiada item ditanda dengan %s.';
 $Definition['None'] = 'Tiada';
 $Definition['No open cases were found.'] = 'Tidak ada kes terbuka yang dijumpai.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Anda tidak mempunyai kebenaran untuk memadam %1$s daripada perbincangan yang dipilih.';
+$Definition['No reactions yet.'] = 'Tiada reaksi lagi.';
 $Definition['No results'] = 'Tiada keputusan';
 $Definition['No results for \'%s\''] = 'Tiada keputusan untuk \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Tiada hasil untuk \'<0 />\'.';
@@ -1151,6 +1177,7 @@ $Definition['Not going'] = 'Tidak pergi';
 $Definition['Notice'] = 'Notis';
 $Definition['Notification'] = 'Pemberitahuan';
 $Definition['Notification Preferences'] = 'Keutamaan Pemberitahuan';
+$Definition['Notification preferences enabled tooltip'] = 'Pemberitahuan siaran mesti didayakan sebelum pemberitahuan ulasan baharu dan menerima pemberitahuan kerana e-mel tersedia.';
 $Definition['Notifications'] = 'Pemberitahuan';
 $Definition['Notifications Postmaster'] = 'Makluman Postmaster';
 $Definition['Notifictions'] = 'Pemberitahuan';
@@ -1176,6 +1203,8 @@ $Definition['Notify of all new discussions.'] = 'Maklumkan semua perbincangan ba
 $Definition['Notify of all new discussions by email.'] = 'Maklumkan semua perbincangan baharu melalui e-mel.';
 $Definition['Notify of all new posts.'] = 'Maklumkan semua siaran baharu.';
 $Definition['Notify of all new posts by email.'] = 'Beritahu semua siaran baharu melalui e-mel.';
+$Definition['Notify of new comments'] = 'Maklumkan ulasan baharu';
+$Definition['Notify of new posts'] = 'Maklumkan tentang siaran baharu';
 $Definition['No Title'] = 'Tiada tajuk';
 $Definition['Not much happening here, yet.'] = 'Belum ada aktiviti lagi.';
 $Definition['Not registered?'] = 'Tidak berdaftar?';
@@ -1271,6 +1300,13 @@ $Definition['Placeholder'] = 'Pemegang tempat';
 $Definition['Places'] = 'Tempat';
 $Definition['Play the sound again'] = 'Memainkan bunyi lagi';
 $Definition['Play Video'] = 'Mainkan Video';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Sila hubungi kami jika anda mempunyai soalan mengenai e-mel ini.
+
+Yang ikhlas,
+%s';
 $Definition['Please join my group.'] = 'Sila sertai <a href="{Url,html}">kumpulan</a>saya.';
 $Definition['Please join my group: %s'] = 'Sila sertai kumpulan saya: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Sila tunggu sementara anda diarahkan. Jika anda tidak diarahkan, klik <a href="%s"> sini </a>.';
@@ -1433,6 +1469,7 @@ $Definition['Reputation'] = 'Reputasi';
 $Definition['Request a new password'] = 'Minta suatu kata laluan bar';
 $Definition['Request a new password →'] = 'Minta suatu kata laluan baru→';
 $Definition['Request another password reset.'] = 'Minta suatu kata laluan lagi dan menetap semula';
+$Definition['Request Badge'] = 'Minta Lencana';
 $Definition['Reset Password'] = 'Menetapkan Semula Kata Laluan';
 $Definition['Reset Your Password'] = 'Menetapkan Semula Kata Laluan Anda';
 $Definition['Restore'] = 'Pulih';
@@ -1520,14 +1557,17 @@ $Definition['Select a community.'] = 'Pilih komuniti.';
 $Definition['Select an image on your computer (2mb max)'] = 'Pilih satu imej daripada komputer anda (maks. 2mb)';
 $Definition['Select Discussion'] = 'Pilih Perbincangan';
 $Definition['Select Discussion Type'] = 'Pilih Jenis Perbincangan';
+$Definition['Select Existing Collections'] = 'Pilih Koleksi Sedia Ada';
 $Definition['Select one of the following avatars:'] = 'Pilih salah satu avatar yang berikut:';
 $Definition['Send'] = 'Hantar';
 $Definition['Send a New Message'] = 'Hantar satu Mesej Baru';
 $Definition['Send me a follow-up for my answered questions.'] = 'Kirimkan saya tindak lanjut untuk soalan saya yang dijawab.';
 $Definition['Send Message'] = 'Hantar Mesej';
+$Definition['Send notifications as emails'] = 'Hantar pemberitahuan sebagai e-mel';
 $Definition['Send Q&A Follow-up Email'] = 'Hantar E-mel Susulan Soal Jawab';
 $Definition['Send Report'] = 'Hantar Laporan';
 $Definition['Send report'] = 'Hantar laporan';
+$Definition['Send Request'] = 'Hantar Permintaan';
 $Definition['sep and'] = 'dan';
 $Definition['Set a New Warning Level'] = 'Set satu Tahap Amaran Baru';
 $Definition['Set A Password'] = 'Set Satu Kata Laluan';
@@ -1593,6 +1633,7 @@ $Definition['sorted by'] = 'disusun mengikut';
 $Definition['Source'] = 'Sumber';
 $Definition['Source:'] = 'Sumber:';
 $Definition['Source Code'] = 'Kod';
+$Definition['Spamming'] = 'Spam';
 $Definition['Spam Queue'] = 'Petikan Spam';
 $Definition['Split'] = 'Pisah';
 $Definition['Split %s to new discussion'] = 'Anda telah memilih untuk memisahkan %s menjadi perbincangan baru.';
@@ -1723,6 +1764,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Jawapan untuk soala
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Tetapan ini memuat halaman sebelum melaksanakan Javascript yang dapat meningkatkan SEO anda. <br> <strong>** Amaran: Mengaktifkan fitur ini boleh menyebabkan kesalahan Javascript di laman web anda. **</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Laman web ini dilindungi oleh reCAPTCHA dan Google';
 $Definition['This text has been converted from another format.'] = 'Teks ini telah ditukar daripada format lain.';
+$Definition['This user\'s profile is private.'] = 'Profil pengguna ini adalah peribadi.';
 $Definition['This user has been banned'] = 'Pengguna ini telah dilarang';
 $Definition['This user has been deleted.'] = 'Pengguna ini telah dipadamkan.';
 $Definition['This user has been marked as a troll.'] = 'Pengguna ini telah ditandakan sebagai troll.';
@@ -1739,6 +1781,13 @@ $Definition['Thumbnail for: '] = 'Gambar kecil untuk:';
 $Definition['Title'] = 'Tajuk';
 $Definition['title'] = 'tajuk';
 $Definition['To'] = 'Kepada';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Untuk mengaktifkan akaun anda, sila ikuti pautan ini:
+%s
+
+';
 $Definition['Today'] = 'Hari ini';
 $Definition['Toggle Category'] = 'Togol Kategori';
 $Definition['Toggle full page'] = 'Togol halaman penuh';
@@ -1746,6 +1795,7 @@ $Definition['Toggle Heading Menu'] = 'Togol Menu Tajuk';
 $Definition['Toggle HTML view'] = 'Togol pandangan HTML';
 $Definition['Toggle lights'] = 'Togol lampu';
 $Definition['Toggle Lists Menu'] = 'Toggle Menu Senarai';
+$Definition['Toggle Quote'] = 'Togol Petikan';
 $Definition['Toggle Special Formats Menu'] = 'Togol Menu Format Khas';
 $Definition['Top'] = 'Atas';
 $Definition['Topic'] = 'Topik';
@@ -1782,6 +1832,7 @@ $Definition['Undefined foreign content'] = 'Kandungan asing tidak tertakrif';
 $Definition['Undo'] = 'Buat asal';
 $Definition['Undo Follow'] = 'Tidak Ikuti';
 $Definition['Unfollow'] = 'Tidak ikuti';
+$Definition['Unfollow Category'] = 'Berhenti Kategori';
 $Definition['Unhide'] = 'Tidak sembunyi';
 $Definition['Unignore'] = 'Tidak abai';
 $Definition['Unknown'] = 'Tidak Diketahui';
@@ -1963,6 +2014,7 @@ $Definition['You\'ve been warned.'] = 'Anda telah diberi amaran.';
 $Definition['You already have an account here.'] = 'Anda telah mempunyai akaun di sini.';
 $Definition['You already have this role.'] = 'Anda sudah mempunyai peranan ini.';
 $Definition['You are about to ban {User.UserID,user}.'] = 'Anda sedang mengharamkan {User.UserID,user}.';
+$Definition['You are about to delete all of a user\'s content.'] = 'Anda akan memadamkan semua kandungan untuk {User.UserID,user}.';
 $Definition['You are about to move %1$s of the %2$s of the selected discussions.'] = 'Anda sedang menggerakkan %1$s daripada %2$s perbincangan yang terpilih.';
 $Definition['You are about to move %s.'] = 'Anda sedang menggerakkan %s.';
 $Definition['You are about to unban {User.UserID,user}.'] = 'Anda sedang menarik balik pengharaman yang dikenakan pada {User.UserID,user}.';

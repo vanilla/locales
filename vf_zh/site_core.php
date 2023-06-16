@@ -151,6 +151,7 @@ $Definition['[Deleted User]'] = '[删除用户]';
 
 $Definition['About'] = '关于';
 $Definition['About %s users'] = '关于 %s 用户';
+$Definition['About Me'] = '关于我';
 $Definition['About the event'] = '关于活动';
 $Definition['AboutToDelete'] = '您即将删除 %s。';
 $Definition['AboutToDeleteSelectedDiscussions'] = '您即将删除 %2$s 选中话题中的 %1$s。';
@@ -162,6 +163,7 @@ $Definition['Accept this answer.'] = '采纳为最佳答案。';
 $Definition['Access the Site'] = '访问该网站';
 $Definition['Access Tokens'] = '访问令牌';
 $Definition['Account & Privacy'] = '帐户和隐私';
+$Definition['Account & Privacy Settings'] = '帐户和隐私设置';
 $Definition['Account Options'] = '账户选项';
 $Definition['Actions'] = '操作';
 $Definition['Activate'] = '激活';
@@ -204,6 +206,7 @@ $Definition['Add Note'] = '添加注释';
 $Definition['Add People to this Conversation'] = '添加联系人到本次对话';
 $Definition['Add Route'] = '添加路由';
 $Definition['Add to Collection'] = '添加到收藏。';
+$Definition['Add to Collections'] = '添加到集合';
 $Definition['Admin'] = '管理';
 $Definition['Administrator'] = '管理员';
 $Definition['Administrator Activity'] = '管理员动态';
@@ -309,6 +312,8 @@ $Definition['Back to Discussions'] = '返回话题列表';
 $Definition['Back to Profile'] = '返回个人资料';
 $Definition['Badge'] = '徽章';
 $Definition['Badge404'] = '没有徽章。';
+$Definition['Badge is not available.'] = '徽章不可用。';
+$Definition['BadgeReasonPrompt'] = '认为你配得上这枚徽章？告诉我们为什么。';
 $Definition['Badges'] = '徽章';
 $Definition['BadgesModuleTitle'] = '徽章';
 $Definition['BadgesNobody'] = '还没有人获得此徽章。';
@@ -367,6 +372,7 @@ $Definition['Case Number'] = '案件编号';
 $Definition['Casual'] = '临时';
 $Definition['Categories'] = '版块列表';
 $Definition['Categories & Groups'] = '类别和组';
+$Definition['CategoriesNoFollowed'] = '未关注任何类别';
 $Definition['CategoriesShowFollowed'] = '只显示以下版块';
 $Definition['CategoriesShowUnfollowed'] = '展示隐藏的的版块';
 $Definition['CategoriesViewingAll'] = '您正在查看所有版块。';
@@ -473,10 +479,12 @@ $Definition['Created by %s'] = '由 %s 创建';
 $Definition['Created Date'] = '创建日期';
 $Definition['Create Discussions'] = '创建话题';
 $Definition['Created on %s'] = '在%s创建';
+$Definition['Create New Collections'] = '创建新集合';
 $Definition['Create New Discussion'] = '创建新讨论';
 $Definition['Create One.'] = '立即注册。';
 $Definition['Current'] = '当前';
 $Definition['Currently: '] = '当前：';
+$Definition['Current Username'] = '当前用户名';
 $Definition['Custom Information'] = '自定义信息';
 $Definition['Customize'] = '个性化';
 $Definition['customize your profile now'] = '现在个性化您的个人资料';
@@ -727,6 +735,7 @@ $Definition['Folder'] = '文件夹';
 $Definition['Folders'] = '文件夹';
 $Definition['Follow'] = '关注';
 $Definition['Follow %s'] = '关注%s';
+$Definition['Follow Category'] = '关注类别';
 $Definition['Followed by %d people'] = '有%d人关注';
 $Definition['Followed by %d person'] = '有%d人关注';
 $Definition['followed categories'] = '已关注的版块';
@@ -840,6 +849,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '您已收到<a href="{Url,
 $Definition['Height (mobile)'] = '身高（移动）';
 $Definition['Hello!'] = '您好！';
 $Definition['Hello %s!'] = '您好 %s！';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = '您好，
+
+已在 %s 论坛为您创建了一个帐户。
+
+';
 $Definition['Hello {User.Name}!'] = '您好 {User.Name}！';
 $Definition['Help'] = '帮助';
 $Definition['Help Menu'] = '帮助';
@@ -894,6 +912,8 @@ $Definition['ImageUploadLimits.Notes2'] = '添加讨论和评论中的图像上�
 $Definition['ImageUploadLimits.Width2'] = '如果图像超出此宽度，将按比例缩小。';
 $Definition['Image URL'] = '图片 URL';
 $Definition['in'] = '在';
+$Definition['In <0/>.'] = '在<0/>。';
+$Definition['In <0/> and recent discussions.'] = '在 <0/> 和最近的讨论中。';
 $Definition['In <b>%s.</b>'] = '在<b>%s</b>置顶。';
 $Definition['In <b>%s</b> and recent discussions.'] = '在<b>%s</b>和最近话题列表中置顶。';
 $Definition['Inbox'] = '收件箱';
@@ -1001,6 +1021,7 @@ $Definition['Loading Modal'] = '加载模态';
 $Definition['Locale'] = '地点';
 $Definition['Log'] = '日志';
 $Definition['log'] = '日志';
+$Definition['Log in here to update your notification preferences'] = '在此处登录以更新您的通知首选项';
 $Definition['Login with Facebook'] = '使用 Facebook 登录';
 $Definition['LOL'] = '大笑';
 
@@ -1110,6 +1131,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = '最近讨论';
 $Definition['Move'] = '移动';
 $Definition['Moved: %s'] = '移动：%s';
+$Definition['Move Discussion'] = '移动讨论';
 $Definition['Mute'] = '静音';
 $Definition['My Account'] = '我的帐户';
 $Definition['My Account Tab'] = '我的帐户标签';
@@ -1153,6 +1175,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = '新的投票';
 $Definition['New Post'] = '最新发布';
 $Definition['New Question'] = '新问题';
+$Definition['New Username'] = '新用户名';
 $Definition['Next'] = '下一页';
 $Definition['Next Page'] = '下一页';
 $Definition['Ninth Anniversary'] = '九周年';
@@ -1169,6 +1192,7 @@ $Definition['No items tagged with %s.'] = '没有和标签 %s 相关的话题。
 $Definition['None'] = '没有';
 $Definition['No open cases were found.'] = '找不到未解决的案例。';
 $Definition['NoPermissionToDeleteDiscussions'] = '您无权删除已选中话题中的 %1$s。';
+$Definition['No reactions yet.'] = '还没有反应。';
 $Definition['No results'] = '无结果';
 $Definition['No results for \'%s\''] = '没有符合 \'%s\' 的结果';
 $Definition['No results for \'<0/>\'.'] = '没有 \'<0/>’ 的结果。';
@@ -1185,6 +1209,7 @@ $Definition['Not going'] = '不参加';
 $Definition['Notice'] = '注意事项';
 $Definition['Notification'] = '通知';
 $Definition['Notification Preferences'] = '通知设置';
+$Definition['Notification preferences enabled tooltip'] = '必须在新评论通知和电子邮件可用时接收通知之前启用发布通知。';
 $Definition['Notifications'] = '通知';
 $Definition['Notifications Postmaster'] = '通知邮局局长';
 $Definition['Notifictions'] = '通知';
@@ -1210,6 +1235,8 @@ $Definition['Notify of all new discussions.'] = '通知所有新的讨论。';
 $Definition['Notify of all new discussions by email.'] = '通过电子邮件通知所有新讨论。';
 $Definition['Notify of all new posts.'] = '通知所有新帖子。';
 $Definition['Notify of all new posts by email.'] = '通过电子邮件通知所有新帖子。';
+$Definition['Notify of new comments'] = '通知新评论';
+$Definition['Notify of new posts'] = '通知新职位';
 $Definition['No Title'] = '没有标题';
 $Definition['Not much happening here, yet.'] = '暂无动态。';
 $Definition['Not registered?'] = '未注册？';
@@ -1310,6 +1337,13 @@ $Definition['Placeholder'] = '占位符';
 $Definition['Places'] = '地点';
 $Definition['Play the sound again'] = '再次播放声音';
 $Definition['Play Video'] = '播放视频';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = '如果您对此电子邮件有任何疑问，请联系我们。
+
+此致，
+%s';
 $Definition['Please join my group.'] = '请加入我的 <a href="{Url,html}"> 群 </a>。';
 $Definition['Please join my group: %s'] = '请加入我的群：%s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '请稍候,如果没有跳转请<a href="%s">点击此处</a>手动跳转。';
@@ -1475,6 +1509,7 @@ $Definition['Reputation'] = '声望';
 $Definition['Request a new password'] = '密码重置';
 $Definition['Request a new password →'] = '获取新密码 →';
 $Definition['Request another password reset.'] = '再次请求密码重置。';
+$Definition['Request Badge'] = '请求徽章';
 $Definition['Reset Password'] = '重设密码';
 $Definition['Reset Your Password'] = '重置您的密码';
 $Definition['Restore'] = '恢复';
@@ -1563,14 +1598,17 @@ $Definition['Select a community.'] = '选择一个社区。';
 $Definition['Select an image on your computer (2mb max)'] = '在您的计算机中选择一张图片（最大 2MB）';
 $Definition['Select Discussion'] = '选择讨论';
 $Definition['Select Discussion Type'] = '选择讨论类型';
+$Definition['Select Existing Collections'] = '选择现有集合';
 $Definition['Select one of the following avatars:'] = '请选择以下头像之一：';
 $Definition['Send'] = '发送';
 $Definition['Send a New Message'] = '发送一条站内信';
 $Definition['Send me a follow-up for my answered questions.'] = '给我跟进我回答的问题。';
 $Definition['Send Message'] = '发送站内信';
+$Definition['Send notifications as emails'] = '以电子邮件形式发送通知';
 $Definition['Send Q&A Follow-up Email'] = '发送问答后续电子邮件';
 $Definition['Send Report'] = '发送报告';
 $Definition['Send report'] = '发送报告';
+$Definition['Send Request'] = '发送请求';
 $Definition['sep and'] = '和';
 $Definition['Set a New Warning Level'] = '设置新的警告水平';
 $Definition['Set A Password'] = '设置一个密码';
@@ -1786,6 +1824,7 @@ $Definition['This setting loads the page before executing Javascript which can i
 $Definition['This site is protected by reCAPTCHA and the Google'] = '本网站受 reCAPTCHA 和谷歌的保护
 ';
 $Definition['This text has been converted from another format.'] = '此文本已从另一种格式转换过来。';
+$Definition['This user\'s profile is private.'] = '该用户的个人资料是私人的。';
 $Definition['This user has been banned'] = '该用户已被禁止';
 $Definition['This user has been deleted.'] = '该用户已被删除。';
 $Definition['This user has been marked as a troll.'] = '该用户已被标记为恶意挑衅者。';
@@ -1802,6 +1841,13 @@ $Definition['Thumbnail for: '] = '缩略图对象：';
 $Definition['Title'] = '标题';
 $Definition['title'] = '标题';
 $Definition['To'] = '至';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = '要激活您的帐户，请点击此链接:
+%s
+
+';
 $Definition['Today'] = '今日';
 $Definition['Toggle Category'] = '切换类别';
 $Definition['Toggle full page'] = '切换全页';
@@ -1847,6 +1893,7 @@ $Definition['Undefined foreign content'] = '没有填写外部链接。';
 $Definition['Undo'] = '撤消';
 $Definition['Undo Follow'] = '取消关注';
 $Definition['Unfollow'] = '取消关注';
+$Definition['Unfollow Category'] = '取消关注类别';
 $Definition['Unhide'] = '不隐藏';
 $Definition['Unignore'] = '取消忽略';
 $Definition['UniqueID'] = '唯一标示';

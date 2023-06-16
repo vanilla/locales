@@ -149,6 +149,7 @@ $Definition['[Deleted User]'] = '[Utilizator șters]';
 
 $Definition['About'] = 'Despre';
 $Definition['About %s users'] = 'Despre %s utilizatori';
+$Definition['About Me'] = 'Despre mine';
 $Definition['About the event'] = 'Despre eveniment';
 $Definition['AboutToDelete'] = 'Doriţi să ştergeţi %s ?';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Sunteți pe cale să ștergeți %1$s din %2$s discuții selectate.';
@@ -160,6 +161,7 @@ $Definition['Accept this answer.'] = 'Aceptați acest răspuns.';
 $Definition['Access the Site'] = 'Accesați site-ul';
 $Definition['Access Tokens'] = 'Token-uri acces';
 $Definition['Account & Privacy'] = 'Cont și confidențialitate';
+$Definition['Account & Privacy Settings'] = 'Setări de cont și confidențialitate';
 $Definition['Account Options'] = 'Opţiuni';
 $Definition['Actions'] = 'Acțiuni';
 $Definition['Activate'] = 'Activați';
@@ -202,6 +204,7 @@ $Definition['Add Note'] = 'Adăugați o notă';
 $Definition['Add People to this Conversation'] = 'Adăugați membri la conversație';
 $Definition['Add Route'] = 'Adăugați ruta';
 $Definition['Add to Collection'] = 'Adauga la colectie.';
+$Definition['Add to Collections'] = 'Adăugați la colecții';
 $Definition['Administrator Activity'] = 'Activitate administrator';
 $Definition['Administrator and moderator'] = 'Administrator și moderator';
 $Definition['administrators'] = 'administratori';
@@ -305,6 +308,8 @@ $Definition['Back to Discussions'] = 'Înapoi la discuții';
 $Definition['Back to Profile'] = 'Înapoi la profil';
 $Definition['Badge'] = 'Insignă';
 $Definition['Badge404'] = 'Insigna nu a fost găsită';
+$Definition['Badge is not available.'] = 'Insigna nu este disponibilă.';
+$Definition['BadgeReasonPrompt'] = 'Crezi că meriți această insignă? Spune-ne de ce.';
 $Definition['Badges'] = 'Insigne';
 $Definition['BadgesModuleTitle'] = 'Insigne';
 $Definition['BadgesNobody'] = 'Nimeni nu a câştigat încă această insignă';
@@ -359,6 +364,7 @@ $Definition['Case Number'] = 'Numărul cazului';
 $Definition['Casual'] = 'Normal';
 $Definition['Categories'] = 'Categorii de discuții';
 $Definition['Categories & Groups'] = 'Categorii și grupuri';
+$Definition['CategoriesNoFollowed'] = 'Nu a fost urmată nicio categorie';
 $Definition['CategoriesShowFollowed'] = 'Afișare doar categorii urmărite';
 $Definition['CategoriesShowUnfollowed'] = 'Afișare categorii ascunse';
 $Definition['CategoriesViewingAll'] = 'Momentan vizualizați toate categoriile.';
@@ -463,10 +469,12 @@ $Definition['Created by %s'] = 'Creat de %s';
 $Definition['Created Date'] = 'data creata';
 $Definition['Create Discussions'] = 'Creați Discuție';
 $Definition['Created on %s'] = 'Creat la data de %s';
+$Definition['Create New Collections'] = 'Creați colecții noi';
 $Definition['Create New Discussion'] = 'Creează discuție nouă';
 $Definition['Create One.'] = 'Vreau un cont acum!';
 $Definition['Current'] = 'Actual';
 $Definition['Currently: '] = 'În acest moment:';
+$Definition['Current Username'] = 'Nume de utilizator curent';
 $Definition['Custom Information'] = 'Informații personalizate';
 $Definition['Customize'] = 'Personalizare';
 $Definition['customize your profile now'] = 'Personalizați-vă Profilul acum';
@@ -706,6 +714,7 @@ $Definition['Folder'] = 'Dosar';
 $Definition['Folders'] = 'Dosare';
 $Definition['Follow'] = 'Urmăriți';
 $Definition['Follow %s'] = 'Urmăriți %s';
+$Definition['Follow Category'] = 'Urmăriți Categoria';
 $Definition['Followed by %d people'] = 'Urmărit de %d persoane';
 $Definition['Followed by %d person'] = 'Urmărit de %d ';
 $Definition['followed categories'] = 'Categorii urmărite';
@@ -815,6 +824,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Ai primit un <a href="{Url
 $Definition['Height (mobile)'] = 'Înălțime (mobil)';
 $Definition['Hello!'] = 'Salut !';
 $Definition['Hello %s!'] = 'Salut %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Bună ziua,
+
+A fost creat un cont pentru dvs. pe forumul %s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Salut {User.Name}!';
 $Definition['Help'] = 'Ajutor';
 $Definition['Help Menu'] = 'Ajutor';
@@ -869,6 +887,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Adaugă limite la dimensiunile imagin
 $Definition['ImageUploadLimits.Width2'] = 'Imaginile vor fi micșorate dacă depășesc această lățime.';
 $Definition['Image URL'] = 'URL-ul imaginii';
 $Definition['in'] = 'în';
+$Definition['In <0/>.'] = 'În <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'În <0/> și discuțiile recente.';
 $Definition['In <b>%s.</b>'] = 'In <b> %s </b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'In <b>%s</b> si discuti recente.';
 $Definition['Inbox'] = 'Mesaje primite';
@@ -974,6 +994,7 @@ $Definition['Loading Modal'] = 'Încărcare modal';
 $Definition['Locale'] = 'Localizare';
 $Definition['Log'] = 'Jurnal';
 $Definition['log'] = 'jurnal';
+$Definition['Log in here to update your notification preferences'] = 'Conectați-vă aici pentru a vă actualiza preferințele de notificare';
 $Definition['Login with Facebook'] = 'Conectare cu Facebook';
 $Definition['LOL'] = 'Rade Tare de tot!';
 
@@ -1079,6 +1100,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Cea mai recentă discuție';
 $Definition['Move'] = 'Mutați';
 $Definition['Moved: %s'] = 'Mutat: %s';
+$Definition['Move Discussion'] = 'Mutați discuția';
 $Definition['Mute'] = 'Dezactivare sunet';
 $Definition['My Account'] = 'Contul meu';
 $Definition['My Account Tab'] = 'Fila Contul meu';
@@ -1122,6 +1144,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Votare nouă';
 $Definition['New Post'] = 'Postare nouă';
 $Definition['New Question'] = 'Întrebare nouă';
+$Definition['New Username'] = 'Nume de utilizator nou';
 $Definition['Next'] = 'Urmatorul';
 $Definition['Next Page'] = 'Pagina următoare';
 $Definition['Ninth Anniversary'] = 'a 9-a Aniversare';
@@ -1138,6 +1161,7 @@ $Definition['No items tagged with %s.'] = 'Niciun articol etichetat cu %s.';
 $Definition['None'] = 'Niciunul';
 $Definition['No open cases were found.'] = 'Nu au fost găsite cazuri deschise.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Nu aveţi permisiunea de a şterge %1$s din discușiile selectate';
+$Definition['No reactions yet.'] = 'Nicio reacție încă.';
 $Definition['No results'] = 'Nici un rezultat';
 $Definition['No results for \'%s\''] = 'Nu exista rezultate pentru \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Niciun rezultat pentru \'<0/>\'.';
@@ -1154,6 +1178,7 @@ $Definition['Not going'] = 'Nu merg';
 $Definition['Notice'] = 'Notificare';
 $Definition['Notification'] = 'Notificare';
 $Definition['Notification Preferences'] = 'Preferințe notificări';
+$Definition['Notification preferences enabled tooltip'] = 'Notificările de postare trebuie să fie activate înainte ca notificările de comentarii noi și să primească notificări pe măsură ce e-mailurile sunt disponibile.';
 $Definition['Notifications'] = 'Notificari';
 $Definition['Notifications Postmaster'] = 'Notificări Postmaster';
 $Definition['Notifictions'] = 'Notificări';
@@ -1180,6 +1205,8 @@ $Definition['Notify of all new discussions.'] = 'Notificați toate discuțiile n
 $Definition['Notify of all new discussions by email.'] = 'Notificați toate discuțiile noi prin e-mail.';
 $Definition['Notify of all new posts.'] = 'Notificați toate postările noi.';
 $Definition['Notify of all new posts by email.'] = 'Notificați toate mesajele noi prin e-mail.';
+$Definition['Notify of new comments'] = 'Anunțați noile comentarii';
+$Definition['Notify of new posts'] = 'Notificări despre noi postări';
 $Definition['No Title'] = 'Fără titlu';
 $Definition['Not much happening here, yet.'] = 'Nu se prea intampla nimic, momentan.';
 $Definition['Not registered?'] = 'Nu te-ai înregistrat?';
@@ -1278,6 +1305,13 @@ $Definition['Placeholder'] = 'Substitut';
 $Definition['Places'] = 'Locuri';
 $Definition['Play the sound again'] = 'Redați sunetul din nou';
 $Definition['Play Video'] = 'Redare video';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Vă rugăm să ne contactați dacă aveți întrebări cu privire la acest e-mail.
+
+Cu stimă,
+%s';
 $Definition['Please join my group.'] = 'Alăturați-vă grupului meu <a href="{Url,html}"></a>.';
 $Definition['Please join my group: %s'] = 'Intră în grupul meu: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Asteapta putin! Vei fi redirectionat imediat. Daca nu esti redirectionat, click <a href="%s">aici</a>.';
@@ -1439,6 +1473,7 @@ $Definition['Reputation'] = 'Reputaţia';
 $Definition['Request a new password'] = 'Cere o parolă nouă';
 $Definition['Request a new password →'] = 'Solicitați o parolă nouă ';
 $Definition['Request another password reset.'] = 'Solicită o altă resetare a parolei.';
+$Definition['Request Badge'] = 'Solicitați insigna';
 $Definition['Reset Password'] = 'Resetare Parolă';
 $Definition['Reset Your Password'] = 'Resetați parola';
 $Definition['Restore'] = 'Restaurare';
@@ -1525,14 +1560,17 @@ $Definition['Select a community.'] = 'Alege o comunitate.';
 $Definition['Select an image on your computer (2mb max)'] = 'Selecteaza o imagine din computer-ul tau (2mb max)';
 $Definition['Select Discussion'] = 'Selectează discuția';
 $Definition['Select Discussion Type'] = 'Selectați Tipul de discuție';
+$Definition['Select Existing Collections'] = 'Selectați Colecții existente';
 $Definition['Select one of the following avatars:'] = 'Selectaţi unul dintre următoarele avatare:';
 $Definition['Send'] = 'Trimiteți';
 $Definition['Send a New Message'] = 'Trimiteți un mesaj nou';
 $Definition['Send me a follow-up for my answered questions.'] = 'Trimite-mi un follow-up pentru întrebările mele răspuns.';
 $Definition['Send Message'] = 'Trimite mesaj';
+$Definition['Send notifications as emails'] = 'Trimite notificări ca e-mail';
 $Definition['Send Q&A Follow-up Email'] = 'Trimiteți un e-mail de urmărire pentru întrebări și răspunsuri';
 $Definition['Send Report'] = 'Trimiteți raportul';
 $Definition['Send report'] = 'Trimiteți raportul';
+$Definition['Send Request'] = 'Trimite cerere';
 $Definition['sep and'] = 'şi';
 $Definition['Set a New Warning Level'] = 'Atribuie un nou avertisment pentru nivel';
 $Definition['Set A Password'] = 'Setaţi o parolă';
@@ -1764,6 +1802,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Răspunsul la aceas
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Această setare încarcă pagina înainte de executarea scriptului Java care poate.să îmbunătățească SEO.<br> <strong>**Avertizare: Activarea acestei funcții poate provoca erori ale scriptului Java pe site.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Acest site este protejat de reCAPTCHA și Google';
 $Definition['This text has been converted from another format.'] = 'Acest text a fost convertit dintr-un alt format.';
+$Definition['This user\'s profile is private.'] = 'Profilul acestui utilizator este privat.';
 $Definition['This user has been banned'] = 'Acest utilizator a fost interzis';
 $Definition['This user has been deleted.'] = 'Acest utilizator a fost șters.';
 $Definition['This user has been marked as a troll.'] = 'Acest utilizator a fost marcat ca troll.';
@@ -1780,6 +1819,13 @@ $Definition['Thumbnail for: '] = 'Miniatură pentru:';
 $Definition['Title'] = 'Titlu';
 $Definition['title'] = 'titlu';
 $Definition['To'] = 'Catre';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Pentru a vă activa contul, vă rugăm să urmați acest link:
+%s
+
+';
 $Definition['Today'] = 'Astăzi';
 $Definition['Toggle Category'] = 'Comută categoria';
 $Definition['Toggle full page'] = 'Comutați întreaga pagină';
@@ -1825,6 +1871,7 @@ $Definition['Undefined foreign content'] = 'Conținut străin nedefinit';
 $Definition['Undo'] = 'Anulează';
 $Definition['Undo Follow'] = 'Anulare urmărire';
 $Definition['Unfollow'] = 'Anulare urmărire';
+$Definition['Unfollow Category'] = 'Unfollow Categorie';
 $Definition['Unhide'] = 'Reafişare';
 $Definition['Unignore'] = 'Anulați ignorarea';
 $Definition['UniqueID'] = 'ID Unic';

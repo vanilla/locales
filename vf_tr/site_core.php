@@ -308,6 +308,8 @@ $Definition['Back to Discussions'] = 'Yarışa Dönüş';
 $Definition['Back to Profile'] = 'Profile Dön';
 $Definition['Badge'] = 'Rozet';
 $Definition['Badge404'] = 'Rozet bulunamadı.';
+$Definition['Badge is not available.'] = 'Rozet mevcut değil.';
+$Definition['BadgeReasonPrompt'] = 'Bu rozeti hak ettiğinizi düşünüyor musunuz? Bize nedenini söyle.';
 $Definition['Badges'] = 'Rozetler';
 $Definition['BadgesModuleTitle'] = 'Rozetler';
 $Definition['BadgesNobody'] = 'Henüz hiç kimse bu rozeti kazanmadı.';
@@ -724,6 +726,7 @@ $Definition['Folder'] = 'Klasör';
 $Definition['Folders'] = 'Klasörler';
 $Definition['Follow'] = 'Takip et';
 $Definition['Follow %s'] = '%s \'i Takip et';
+$Definition['Follow Category'] = 'Kategoriyi Takip Et';
 $Definition['Followed by %d people'] = '%d kişi tarafından takip ediliyor';
 $Definition['Followed by %d person'] = '%d kişi tarafından takip ediliyor';
 $Definition['followed categories'] = 'kategorileri izledi';
@@ -835,6 +838,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Daha önce <a href="{Url,h
 $Definition['Height (mobile)'] = 'Yükseklik (mobil)';
 $Definition['Hello!'] = 'Merhaba!';
 $Definition['Hello %s!'] = 'Merhaba %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Merhaba,
+
+Sizin için %s forumunda bir hesap oluşturuldu.
+
+';
 $Definition['Hello {User.Name}!'] = 'Merhaba {User.Name}!';
 $Definition['Help'] = 'Yardım';
 $Definition['Help Menu'] = 'Yardım';
@@ -1184,6 +1196,7 @@ $Definition['Not going'] = 'Gitmiyor';
 $Definition['Notice'] = 'Uyarı';
 $Definition['Notification'] = 'Bildirim';
 $Definition['Notification Preferences'] = 'Bildirim Tercihleri';
+$Definition['Notification preferences enabled tooltip'] = 'Yeni yorum bildirimlerinden ve e-postalar mevcut olduğundan bildirimlerin alınmasından önce gönderi bildirimleri etkinleştirilmelidir.';
 $Definition['Notifications'] = 'Bildirimler';
 $Definition['Notifications Postmaster'] = 'Postmaster Bildirimleri';
 $Definition['Notifictions'] = 'Bildirimler';
@@ -1209,6 +1222,8 @@ $Definition['Notify of all new discussions.'] = 'Tüm yeni tartışmalardan habe
 $Definition['Notify of all new discussions by email.'] = 'Tüm yeni tartışmalardan e-posta ile haberdar olun.';
 $Definition['Notify of all new posts.'] = 'Tüm yeni gönderilerden haberdar olun.';
 $Definition['Notify of all new posts by email.'] = 'Tüm yeni gönderilerden e-posta ile haberdar olun.';
+$Definition['Notify of new comments'] = 'Yeni yorumları bildir';
+$Definition['Notify of new posts'] = 'Yeni gönderileri bildir';
 $Definition['No Title'] = 'Başlık Yok';
 $Definition['Not much happening here, yet.'] = 'Henüz pek birşey olmadı.';
 $Definition['Not registered?'] = 'Kayıtlı değil misiniz?';
@@ -1308,6 +1323,13 @@ $Definition['Placeholder'] = 'Yer tutucu';
 $Definition['Places'] = 'Yerler';
 $Definition['Play the sound again'] = 'Sesi yeniden oynat';
 $Definition['Play Video'] = 'Videoyu Oynat';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Bu e-postayla ilgili sorularınız varsa lütfen bizimle iletişime geçin.
+
+Saygılarımızla,
+%s';
 $Definition['Please join my group.'] = 'Lütfen <a href="{Url,html}">grubuma</a> katıl.';
 $Definition['Please join my group: %s'] = 'Lütfen grubuma katılın: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Tekrar yönlendirilirken lütfen bekleyiniz. Tekrar yönlendirilmezseniz, lütfen <a href="%s">buraya</a> tıklayınız. ';
@@ -1471,6 +1493,7 @@ $Definition['Reputation'] = 'İtibar';
 $Definition['Request a new password'] = 'Yeni şifre iste';
 $Definition['Request a new password →'] = 'Yeni parola iste→';
 $Definition['Request another password reset.'] = 'Başka bir şifre sıfırlama talep et.';
+$Definition['Request Badge'] = 'Rozet İste';
 $Definition['Reset Password'] = 'Parola Sıfırla';
 $Definition['Reset Your Password'] = 'Şifreni Yenile';
 $Definition['Restore'] = 'Geri Yükle';
@@ -1564,9 +1587,11 @@ $Definition['Send'] = 'Gönder';
 $Definition['Send a New Message'] = 'Yeni İleti Gönder';
 $Definition['Send me a follow-up for my answered questions.'] = 'Cevaplanan sorularım için bana bir takip gönderin.';
 $Definition['Send Message'] = 'Mesaj Gönder';
+$Definition['Send notifications as emails'] = 'Bildirimleri e-posta olarak gönder';
 $Definition['Send Q&A Follow-up Email'] = 'Soru-Cevap Takip E-postası Gönderin';
 $Definition['Send Report'] = 'Rapor Gönder';
 $Definition['Send report'] = 'Rapor gönder';
+$Definition['Send Request'] = 'İstek gönder';
 $Definition['sep and'] = 've';
 $Definition['Set a New Warning Level'] = 'Yeni Uyarı Seviyesi Ayarla';
 $Definition['Set A Password'] = 'Parola Belirle';
@@ -1783,6 +1808,13 @@ $Definition['Thumbnail for: '] = 'Şunun için küçük resim:';
 $Definition['Title'] = 'Başlık';
 $Definition['title'] = 'başlık';
 $Definition['To'] = 'Kime';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Hesabınızı etkinleştirmek için lütfen şu bağlantıyı izleyin:
+%s
+
+';
 $Definition['Today'] = 'Bugün';
 $Definition['Toggle Category'] = 'Kategoriyi Değiştir';
 $Definition['Toggle full page'] = 'Tam sayfaya geç';
@@ -1828,6 +1860,7 @@ $Definition['Undefined foreign content'] = 'Tanımlanmamış yabancı içerik';
 $Definition['Undo'] = 'Geri Al';
 $Definition['Undo Follow'] = 'Takibi Geri Al';
 $Definition['Unfollow'] = 'Takibi Bırak';
+$Definition['Unfollow Category'] = 'Kategoriyi Takip Etmeyi Bırak';
 $Definition['Unhide'] = 'Gizlemeyi Kaldır';
 $Definition['Unignore'] = 'Yoksayma';
 $Definition['UniqueID'] = 'Benzersiz Kimlik';

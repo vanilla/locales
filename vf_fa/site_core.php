@@ -149,6 +149,7 @@ $Definition['[Deleted User]'] = '[كاربر حذف شده]';
 
 $Definition['About'] = 'درباره';
 $Definition['About %s users'] = 'درباره كاربران %s';
+$Definition['About Me'] = 'درمورد من';
 $Definition['About the event'] = 'درباره این رویداد';
 $Definition['AboutToDelete'] = 'شما در حال حذف %s ميباشيد.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'شما در حال حذف %1$s از %2$s گفتگوي انتخاب شده ميباشيد.';
@@ -160,6 +161,7 @@ $Definition['Accept this answer.'] = 'پذيرفتن اين پرسش.';
 $Definition['Access the Site'] = 'دسترسي به سايت';
 $Definition['Access Tokens'] = 'دسترسی به توکن ها';
 $Definition['Account & Privacy'] = 'حساب و حریم خصوصی';
+$Definition['Account & Privacy Settings'] = 'تنظیمات حساب و حریم خصوصی';
 $Definition['Account Options'] = 'گزينه هاي حساب كاربري';
 $Definition['Actions'] = 'اقدامات';
 $Definition['Activate'] = 'فعالسازي';
@@ -201,6 +203,7 @@ $Definition['Add Note'] = 'افزودن يادداشت';
 $Definition['Add People to this Conversation'] = 'افزودن اشخاص به اين گفتگو';
 $Definition['Add Route'] = 'افزودن مسير';
 $Definition['Add to Collection'] = 'به کلکسیون اضافه کن.';
+$Definition['Add to Collections'] = 'به مجموعه ها اضافه کنید';
 $Definition['Admin'] = 'مدير انجمن';
 $Definition['Administrator'] = 'مدير';
 $Definition['Administrator Activity'] = 'فعاليت مدير';
@@ -274,6 +277,7 @@ $Definition['Approved'] = 'تائيد شد';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'آيا كاملاً‌مطمئن هستيد كه ميخواهيد اين عمل را انجام دهيد؟';
 $Definition['Are you attending this event?'] = 'آيا در اين رويداد شركت ميكنيد؟';
 $Definition['Are you sure you want to delete this %s?'] = 'آيا مطمئن هستيد كه ميخواهيد اين %s را حذف كنيد؟';
+$Definition['Are you sure you want to delete this image? You won\'t be able to recover it.'] = 'آیا شما مطمن هستید که میخواهید این تصویر را پاک کنید؟ شما نمی توانید آن را بازیابی کنید.';
 $Definition['Are you sure you want to do that?'] = 'آيا مطمئن هستيد كه ميخواهيد آن كار را انجام دهيد؟';
 $Definition['Are you sure you want to do this?'] = 'آيا مطمئن هستيد كه ميخواهيد اين كار را انجام دهيد؟';
 $Definition['Are you sure you want to ignore <b>%s</b>?'] = 'آیا مطمئن هستید که می خواهید <b>%s را</b> نادیده بگیرید؟';
@@ -305,6 +309,8 @@ $Definition['Back to Discussions'] = 'برگشت به رقابت';
 $Definition['Back to Profile'] = 'برگشت به پروفايل';
 $Definition['Badge'] = 'مدال';
 $Definition['Badge404'] = 'مدال يافت نشد.';
+$Definition['Badge is not available.'] = 'نشان در دسترس نیست.';
+$Definition['BadgeReasonPrompt'] = 'فکر می کنید لیاقت این نشان را دارید؟ به ما بگویید چرا.';
 $Definition['Badges'] = 'مدال';
 $Definition['BadgesModuleTitle'] = 'مدال';
 $Definition['BadgesNobody'] = 'هنوز هيچكس اين مدال را دريافت نكرده است.';
@@ -362,6 +368,7 @@ $Definition['Case Number'] = 'تعداد مورد';
 $Definition['Casual'] = 'لغو';
 $Definition['Categories'] = 'دسته ها';
 $Definition['Categories & Groups'] = 'دسته ها و گروه ها';
+$Definition['CategoriesNoFollowed'] = 'هیچ دسته‌ای دنبال نشد';
 $Definition['CategoriesShowFollowed'] = 'فقط دسته بندي های ذيل نمايش داده شود';
 $Definition['CategoriesShowUnfollowed'] = 'نمايش دسته بندي های پنهان';
 $Definition['CategoriesViewingAll'] = 'شما درحال مشاهده همه دسته بندی ها هستيد.';
@@ -467,10 +474,12 @@ $Definition['Created by %s'] = 'ایجاد شده توسط %s';
 $Definition['Created Date'] = 'تاریخ ایجاد شده';
 $Definition['Create Discussions'] = 'ايجاد گفتگو';
 $Definition['Created on %s'] = 'ایجاد شده در %s';
+$Definition['Create New Collections'] = 'مجموعه های جدید ایجاد کنید';
 $Definition['Create New Discussion'] = 'بحث جدید ایجاد کنید';
 $Definition['Create One.'] = 'يكي بسازيد.';
 $Definition['Current'] = 'فعلی';
 $Definition['Currently: '] = 'درحال حاضر: ';
+$Definition['Current Username'] = 'نام کاربری فعلی';
 $Definition['Custom Information'] = 'اطلاعات دلخواه';
 $Definition['Customize'] = 'سفارشي كردن';
 $Definition['customize your profile now'] = 'پروفايل خود را اكنون سفارشي كنيد';
@@ -716,6 +725,7 @@ $Definition['Folder'] = 'پوشه';
 $Definition['Folders'] = 'پوشه';
 $Definition['Follow'] = 'دنبال كردن';
 $Definition['Follow %s'] = 'دنبال كردن %s';
+$Definition['Follow Category'] = 'دسته بندی را دنبال کنید';
 $Definition['Followed by %d people'] = 'دنبال شده توسط %d نفر';
 $Definition['Followed by %d person'] = 'دنبال شده توسط %d نفر';
 $Definition['followed categories'] = 'دسته بندی های دنبال شده';
@@ -829,6 +839,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'به شما <a href="{Url,
 $Definition['Height (mobile)'] = 'ارتفاع (موبایل)';
 $Definition['Hello!'] = 'سلام!';
 $Definition['Hello %s!'] = 'سلام %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'سلام،
+
+یک حساب کاربری برای شما در انجمن %s ایجاد شده است.
+
+';
 $Definition['Hello {User.Name}!'] = 'سلام {User.Name}!';
 $Definition['Help'] = 'راهنما';
 $Definition['Help Menu'] = 'راهنما';
@@ -882,6 +901,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'در بحث ها و نظرات ، ا�
 $Definition['ImageUploadLimits.Width2'] = 'اگر بیش از این عرض باشد ، تصاویر کم می شوند.';
 $Definition['Image URL'] = 'آدرس وب تصوير';
 $Definition['in'] = 'در';
+$Definition['In <0/>.'] = 'در <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'در <0/> و بحث های اخیر.';
 $Definition['In <b>%s.</b>'] = 'در <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'در <b>%s</b> و گفتگوهاي تازه.';
 $Definition['Inbox'] = 'پیام ها';
@@ -988,6 +1009,7 @@ $Definition['Loading Modal'] = 'در حال بارگذاری معین';
 $Definition['Locale'] = 'زبان';
 $Definition['Log'] = 'لاگ تغييرات';
 $Definition['log'] = 'لاگ تغييرات';
+$Definition['Log in here to update your notification preferences'] = 'برای به‌روزرسانی تنظیمات برگزیده اعلان‌ها، اینجا وارد شوید';
 $Definition['Login with Facebook'] = 'ورود با فيس بوك';
 $Definition['LOL'] = 'خنديدم';
 
@@ -1029,6 +1051,7 @@ $Definition['messages'] = 'پيام';
 $Definition['Message to User'] = 'پيام به كاربر';
 $Definition['Microsoft Excel Spreadsheet'] = 'صفحه گسترده Microsoft Excel';
 $Definition['Microsoft PowerPoint Presentation'] = 'ارائه پاورپوینت مایکروسافت';
+$Definition['Microsoft Word Document'] = 'سند مایکروسافت ورد';
 $Definition['Minor'] = 'جزئي';
 $Definition['minutes'] = 'دقيقه';
 $Definition['Moderate'] = 'مديريت كردن';
@@ -1096,6 +1119,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'جديدترين گفتگو';
 $Definition['Move'] = 'انتقال';
 $Definition['Moved: %s'] = 'منتقل شد : %s';
+$Definition['Move Discussion'] = 'انتقال بحث';
 $Definition['Mute'] = 'بي صدا';
 $Definition['My Account'] = 'حساب من';
 $Definition['My Account Tab'] = 'برگه حساب من';
@@ -1139,6 +1163,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'نظرسنجي جديد';
 $Definition['New Post'] = 'پست جدید';
 $Definition['New Question'] = 'سوال جدید';
+$Definition['New Username'] = 'شناسه کاربری جدید';
 $Definition['Next'] = 'بعدي';
 $Definition['Next Page'] = 'صفحه بعد';
 $Definition['Ninth Anniversary'] = 'نهمين سالگرد';
@@ -1155,6 +1180,7 @@ $Definition['No items tagged with %s.'] = 'هيچ آيتمي با %s برچسب 
 $Definition['None'] = 'هيچكدام';
 $Definition['No open cases were found.'] = 'پرونده علنی یافت نشد';
 $Definition['NoPermissionToDeleteDiscussions'] = 'شما مجوز حذف %1$s از گفتگوهاي انتخاب شده را نداريد.';
+$Definition['No reactions yet.'] = 'هنوز هیچ واکنشی وجود ندارد.';
 $Definition['No results'] = 'بدون نتیجه';
 $Definition['No results for \'%s\''] = 'نتيجه اي براي \'%s\' يافت نشد';
 $Definition['No results for \'<0/>\'.'] = 'نتیجه ای برای \'<0/>\' موجود نیست.';
@@ -1171,6 +1197,7 @@ $Definition['Not going'] = 'نمی رود';
 $Definition['Notice'] = 'توجه';
 $Definition['Notification'] = 'اطلاع رساني';
 $Definition['Notification Preferences'] = 'تنظيمات اطلاع رساني';
+$Definition['Notification preferences enabled tooltip'] = 'اعلان‌های ارسال باید قبل از اعلان‌های نظر جدید و دریافت اعلان‌ها به عنوان ایمیل‌ها فعال شوند.';
 $Definition['Notifications'] = 'اطلاع رساني';
 $Definition['Notifications Postmaster'] = 'اعلان ها مدیر پست';
 $Definition['Notifictions'] = 'اطلاع رساني';
@@ -1196,6 +1223,8 @@ $Definition['Notify of all new discussions.'] = 'اطلاع از همه بحث �
 $Definition['Notify of all new discussions by email.'] = 'اطلاع از همه بحث های جدید از طریق ایمیل.';
 $Definition['Notify of all new posts.'] = 'از همه پست های جدید مطلع شوید.';
 $Definition['Notify of all new posts by email.'] = 'اطلاع از همه پست های جدید از طریق ایمیل.';
+$Definition['Notify of new comments'] = 'از نظرات جدید مطلع شوید';
+$Definition['Notify of new posts'] = 'اطلاع رسانی از پست های جدید';
 $Definition['No Title'] = 'بدون موضوع';
 $Definition['Not much happening here, yet.'] = 'هنوز اتفاقات خاصي اينجا رخ نداده است.';
 $Definition['Not registered?'] = 'هنوز عضو نشده اید؟';
@@ -1296,6 +1325,13 @@ $Definition['Placeholder'] = 'مکان نگهدار';
 $Definition['Places'] = 'اماکن';
 $Definition['Play the sound again'] = 'پخش مجدد صدا';
 $Definition['Play Video'] = 'پخش ویدئو';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'لطفاً اگر در مورد این ایمیل سؤالی دارید با ما تماس بگیرید.
+
+با احترام،
+%s';
 $Definition['Please join my group.'] = 'لطفاً عضو <a href="{Url,html}">گروه</a> من شويد.';
 $Definition['Please join my group: %s'] = 'لطفا به گروه من بپیوندید: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'لطفاً تا تغيير مسير شكيبا باشيد. اگر تغيير مسير انجام نشد، <a href="%s"> اينجا </a>را كليك كنيد.';
@@ -1460,6 +1496,7 @@ $Definition['Reputation'] = 'اعتبار';
 $Definition['Request a new password'] = 'درخواست كلمه عبور جديد';
 $Definition['Request a new password →'] = 'درخواست كلمه عبور جديد →';
 $Definition['Request another password reset.'] = 'درخواست بازنشاني كلمه عبور ديگر.';
+$Definition['Request Badge'] = 'نشان درخواست';
 $Definition['Reset Password'] = 'بازنشاني كلمه عبور';
 $Definition['Reset Your Password'] = 'بازنشاني كلمه عبور خود';
 $Definition['Restore'] = 'بازيابي';
@@ -1547,14 +1584,17 @@ $Definition['Select a community.'] = 'انتخاب يك انجمن.';
 $Definition['Select an image on your computer (2mb max)'] = 'انتخاب يك تصوير از روي كامپيوتر خود (حداكثر 2 مگابايت)';
 $Definition['Select Discussion'] = 'بحث را انتخاب کنید';
 $Definition['Select Discussion Type'] = 'نوع بحث را انتخاب کنید';
+$Definition['Select Existing Collections'] = 'مجموعه های موجود را انتخاب کنید';
 $Definition['Select one of the following avatars:'] = 'يكي از اين آواتارها را انتخاب كنيد:';
 $Definition['Send'] = 'ارسال';
 $Definition['Send a New Message'] = 'ارسال يك پيام جديد';
 $Definition['Send me a follow-up for my answered questions.'] = 'برای سوالات پاسخ داده شده من پیگیری کنید.';
 $Definition['Send Message'] = 'ارسال پيام';
+$Definition['Send notifications as emails'] = 'اعلان ها را به صورت ایمیل ارسال کنید';
 $Definition['Send Q&A Follow-up Email'] = 'ایمیل پیگیری پرسش و پاسخ ارسال کنید';
 $Definition['Send Report'] = 'ارسال گزارش';
 $Definition['Send report'] = 'ارسال گزارش';
+$Definition['Send Request'] = 'فرستادن درخواست';
 $Definition['sep and'] = 'و';
 $Definition['Set a New Warning Level'] = 'تنظيم يك سطح هشدار';
 $Definition['Set A Password'] = 'تنظيم يك كلمه عبور';
@@ -1755,6 +1795,7 @@ $Definition['This question\'s answer has been accepted.'] = 'پاسخ اين س�
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'این تنظیمات قبل از اجرای Javascript می تواند صفحه بارگیری کند که می تواند سئوی شما را بهبود بخشد. <br> <strong>** هشدار: فعال کردن این ویژگی ممکن است باعث ایجاد خطاهای Javascript در سایت شما شود. **</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'این سایت توسط reCAPTCHA و Google محافظت می شود';
 $Definition['This text has been converted from another format.'] = 'این متن از قالب دیگری تبدیل شده است.';
+$Definition['This user\'s profile is private.'] = 'نمایه این کاربر خصوصی است.';
 $Definition['This user has been banned'] = 'این کاربر ممنوع شده است';
 $Definition['This user has been deleted.'] = 'این کاربر حذف شده است.';
 $Definition['This user has been marked as a troll.'] = 'این کاربر به عنوان ترول مارک شده است!';
@@ -1771,6 +1812,13 @@ $Definition['Thumbnail for: '] = 'تصویر کوچک برای:';
 $Definition['Title'] = 'عنوان';
 $Definition['title'] = 'عنوان';
 $Definition['To'] = 'به';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'برای فعال کردن حساب خود، لطفاً این پیوند را دنبال کنید:
+%s
+
+';
 $Definition['Today'] = 'امروز';
 $Definition['Toggle Category'] = 'دسته تغییر دهید';
 $Definition['Toggle full page'] = 'تعويض به صفحه كامل';
@@ -1816,6 +1864,7 @@ $Definition['Undefined foreign content'] = 'محتواي خارجي تعريف �
 $Definition['Undo'] = 'واگرد';
 $Definition['Undo Follow'] = 'لغو دنبال كردن';
 $Definition['Unfollow'] = 'لغو دنبال';
+$Definition['Unfollow Category'] = 'لغو دنبال کردن دسته';
 $Definition['Unhide'] = 'آشكار كردن';
 $Definition['Unignore'] = 'لغو چشم پوشي';
 $Definition['UniqueID'] = 'شناسه منحصر به فرد';

@@ -147,6 +147,7 @@ $Definition['[Deleted User]'] = '[Phumola Modiriši]';
 
 $Definition['About'] = 'Ka';
 $Definition['About %s users'] = 'Ka %s badiriši';
+$Definition['About Me'] = 'Mabapi le Nna';
 $Definition['About the event'] = 'Mabapi le tiragalo';
 $Definition['AboutToDelete'] = 'O kgauswi le go phumola %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'O kgauswi le go phumola %1$s ya %2$s dipoledišanong tše di kgethilwego.';
@@ -158,6 +159,7 @@ $Definition['Accept this answer.'] = 'Amogela karabo ye.';
 $Definition['Access the Site'] = 'Fihlelela Wepesaete ye';
 $Definition['Access Tokens'] = 'Tsenya Dithokene';
 $Definition['Account & Privacy'] = 'Akhaonto & Sephiri';
+$Definition['Account & Privacy Settings'] = 'Dipeakanyo tša Akhaonto & Sephiri';
 $Definition['Account Options'] = 'Dikgetho tša Akhaonte';
 $Definition['Actions'] = 'Tiro';
 $Definition['Activate'] = 'Bula';
@@ -200,6 +202,7 @@ $Definition['Add Note'] = 'Tsenya Ntlha';
 $Definition['Add People to this Conversation'] = 'Tsenya Batho Poledišanong ye';
 $Definition['Add Route'] = 'Tsenya Tsela';
 $Definition['Add to Collection'] = 'Oketša go Kgoboketšo.';
+$Definition['Add to Collections'] = 'Oketša go Dikgoboketšo';
 $Definition['Admin'] = 'Taolo';
 $Definition['Administrator'] = 'Molaodi';
 $Definition['Administrator Activity'] = 'Modiro wa Taolo';
@@ -304,6 +307,8 @@ $Definition['Back to Discussions'] = 'Re Boela Diphadišanong';
 $Definition['Back to Profile'] = 'Re Boela Kanegelong';
 $Definition['Badge'] = 'Petšhe';
 $Definition['Badge404'] = 'Petšhe ga se ya hwetšwa.';
+$Definition['Badge is not available.'] = 'Betšhe ga e hwetšagale.';
+$Definition['BadgeReasonPrompt'] = 'O nagana gore o swanelwa ke betšhe ye? Re botše lebaka.';
 $Definition['Badges'] = 'Dipetšhe';
 $Definition['BadgesModuleTitle'] = 'Dipetšhe';
 $Definition['BadgesNobody'] = 'Ga go na motho yo a hweditšego petšhe.';
@@ -360,6 +365,7 @@ $Definition['Case Number'] = 'Nomoro ya Molato';
 $Definition['Casual'] = 'Tlwaelegile';
 $Definition['Categories'] = 'Magoro';
 $Definition['Categories & Groups'] = 'Magoro le Dihlopha';
+$Definition['CategoriesNoFollowed'] = 'Ga go na magoro ao a ilego a latela';
 $Definition['CategoriesShowFollowed'] = 'Bontšha feela magoro ao a latelwago';
 $Definition['CategoriesShowUnfollowed'] = 'Bontšha magoro ao a utilwego';
 $Definition['CategoriesViewingAll'] = 'Ga bjale o bona magoro ka moka.';
@@ -466,10 +472,12 @@ $Definition['Created by %s'] = 'E hlamilwe ke %s';
 $Definition['Created Date'] = 'Letšatšikgwedi le le Hlomilwego';
 $Definition['Create Discussions'] = 'Hlama Dipoledišano';
 $Definition['Created on %s'] = 'E dirilwe ka %s';
+$Definition['Create New Collections'] = 'Hlama Dikgoboketšo tše Mpsha';
 $Definition['Create New Discussion'] = 'Hlama Poledišano e Mpsha';
 $Definition['Create One.'] = 'Hlama e Nngwe.';
 $Definition['Current'] = 'Ya Gona Bjale';
 $Definition['Currently: '] = 'Ga Bjale:';
+$Definition['Current Username'] = 'Leina la Modiriši la Bjale';
 $Definition['Custom Information'] = 'Tshedimošo e Tlwaelegilego';
 $Definition['Customize'] = 'Tlwaelana';
 $Definition['customize your profile now'] = 'tlwaelana le kanegelo ya gago gona bjale';
@@ -715,6 +723,7 @@ $Definition['Folder'] = 'Foltara';
 $Definition['Folders'] = 'Difoltara';
 $Definition['Follow'] = 'Latela';
 $Definition['Follow %s'] = 'Latela %s';
+$Definition['Follow Category'] = 'Latela Legoro';
 $Definition['Followed by %d people'] = 'E latelwa ke batho ba %d';
 $Definition['Followed by %d person'] = 'E latelwa ke motho wa %d';
 $Definition['followed categories'] = 'e latetše magoro';
@@ -827,6 +836,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'O hweditše <a href="{Url,
 $Definition['Height (mobile)'] = 'Bophahamo (mobile) .';
 $Definition['Hello!'] = 'Thobela!';
 $Definition['Hello %s!'] = 'Thobela %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Thobela,
+
+Akhaonto e hloletšwe wena foramo ya %s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Thobela {User.Name}!';
 $Definition['Help'] = 'Thuša';
 $Definition['Help Menu'] = 'Thuša';
@@ -881,6 +899,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Bea tekanyo diswantšhong tšeo di ta
 $Definition['ImageUploadLimits.Width2'] = 'Diswantšho di tla fokotšwa ge e ba di fetile tekanyo ye.';
 $Definition['Image URL'] = 'Seswantšho sa URL';
 $Definition['in'] = 'go';
+$Definition['In <0/>.'] = 'Ka go <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'Ka <0/> le dipoledišano tša morago bjale.';
 $Definition['In <b>%s.</b>'] = 'Go <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Go <b>%s.</b> le dipoledišano tša morago bjale.';
 $Definition['Inbox'] = 'Lepokisi la Melaetša';
@@ -988,6 +1008,7 @@ $Definition['Loading Modal'] = 'E Louda Modal';
 $Definition['Locale'] = 'Dira ya Mono Gae';
 $Definition['Log'] = 'Tswalela';
 $Definition['log'] = 'tswalela';
+$Definition['Log in here to update your notification preferences'] = 'Tsena mo go mpshafatša dikgetho tša gago tša tsebišo';
 $Definition['Login with Facebook'] = 'Tsena ka Facebook';
 $Definition['LOL'] = 'Motlae';
 
@@ -1096,6 +1117,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Dipoledišano tša morago bjale';
 $Definition['Move'] = 'Šutha';
 $Definition['Moved: %s'] = 'E tlošitšwe: %s';
+$Definition['Move Discussion'] = 'Suthiša Poledišano';
 $Definition['Mute'] = 'Homotša';
 $Definition['My Account'] = 'Akhaonto Yaka';
 $Definition['My Account Tab'] = 'Taba ya Akhaonto Yaka';
@@ -1139,6 +1161,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Karolo e Mpsha';
 $Definition['New Post'] = 'Se se Pharilwego se Sefsa';
 $Definition['New Question'] = 'Potšišo e Mpsha';
+$Definition['New Username'] = 'Leina la Modiriši le Lefsa';
 $Definition['Next'] = 'Latelago';
 $Definition['Next Page'] = 'Letlakala le Lefsa';
 $Definition['Ninth Anniversary'] = 'Letšatši la Segopotšo la Senyane';
@@ -1155,6 +1178,7 @@ $Definition['No items tagged with %s.'] = 'Ga go na dilo tše di swailwego ka %s
 $Definition['None'] = 'Ga go selo';
 $Definition['No open cases were found.'] = 'Ga go na melato ye e bulegilego yeo e hweditšwego.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Ga se wa dumelelwa go phumolwa %1$s ya dipoledišano tše di kgethilwego.';
+$Definition['No reactions yet.'] = 'Ga go na dikarabelo go fihla ga bjale.';
 $Definition['No results'] = 'Ga go dipoelo';
 $Definition['No results for \'%s\''] = 'Ga go na dipoelo tša \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Ga go na dipoelo ka \'<0/>\'.';
@@ -1171,6 +1195,7 @@ $Definition['Not going'] = 'Ga e sepele';
 $Definition['Notice'] = 'Tsebišo';
 $Definition['Notification'] = 'Tsebišo';
 $Definition['Notification Preferences'] = 'Dikgetho tša Tsebišo';
+$Definition['Notification preferences enabled tooltip'] = 'Ditsebišo tša poso di swanetše go kgontšhwa pele ga ditsebišo tše mpsha tša ditshwayotshwayo le go amogela ditsebišo ka ge di-imeile di hwetšagala.';
 $Definition['Notifications'] = 'Ditsebišo';
 $Definition['Notifications Postmaster'] = 'Ditsebišo Molaodi wa Poso';
 $Definition['Notifictions'] = 'Ditsebišo';
@@ -1196,6 +1221,8 @@ $Definition['Notify of all new discussions.'] = 'Tsebiša ka dipoledišano ka mo
 $Definition['Notify of all new discussions by email.'] = 'Tsebiša ka dipoledišano ka moka tše mpsha ka imeile.';
 $Definition['Notify of all new posts.'] = 'Tsebiša ka dipolelo ka moka tše mpsha.';
 $Definition['Notify of all new posts by email.'] = 'Tsebiša ka dipolelo ka moka tše mpsha ka imeile.';
+$Definition['Notify of new comments'] = 'Tsebiša ka ditshwayotshwayo tše mpsha';
+$Definition['Notify of new posts'] = 'Tsebiša ka diposo tše mpsha';
 $Definition['No Title'] = 'Ga go na Sehlogo';
 $Definition['Not much happening here, yet.'] = 'Ga go direge selo gakaalo, ga bjale.';
 $Definition['Not registered?'] = 'Ga se wa ngwadišwa?';
@@ -1296,6 +1323,13 @@ $Definition['Placeholder'] = 'Swarelela';
 $Definition['Places'] = 'Mafelo';
 $Definition['Play the sound again'] = 'Bapala modumo gape';
 $Definition['Play Video'] = 'Bapala Bidio';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Hle ikopanye le rena ge o na le dipotšišo mabapi le imeile ye.
+
+Ka pelo ka moka,
+%s';
 $Definition['Please join my group.'] = 'Hle tlatša <a href="{Url,html}">sehlopha</a>.';
 $Definition['Please join my group: %s'] = 'Hle tsenela sehlopha sa ka: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Hle ema ge o sa romelwa go gongwe. Ge eba o sa romelwe go gongwe, kgotla <a href="%s">mo</a>.';
@@ -1461,6 +1495,7 @@ $Definition['Reputation'] = 'Botumo';
 $Definition['Request a new password'] = 'Kgopela phasewete e mpsha';
 $Definition['Request a new password →'] = 'Kgopela phasewete e mpsha →';
 $Definition['Request another password reset.'] = 'Kgopela gore phasewete e bušetšwe gape sekeng.';
+$Definition['Request Badge'] = 'Betšhe ya Kgopelo';
 $Definition['Reset Password'] = 'Bušetša Phasewete Sekeng';
 $Definition['Reset Your Password'] = 'Bušetša Phasewete ya Gago Sekeng';
 $Definition['Restore'] = 'Bušetša Sekeng';
@@ -1548,14 +1583,17 @@ $Definition['Select a community.'] = 'Kgetha khomunithi.';
 $Definition['Select an image on your computer (2mb max)'] = 'Kgetha seswantšho khomphutheng ya gago (2mb mafelelo)';
 $Definition['Select Discussion'] = 'Kgetha Poledišano';
 $Definition['Select Discussion Type'] = 'Kgetha Mohuta wa Poledišano';
+$Definition['Select Existing Collections'] = 'Kgetha Dikgoboketšo tše di lego gona';
 $Definition['Select one of the following avatars:'] = 'Kgetha e nngwe ya dikarolo tše di latelago:';
 $Definition['Send'] = 'Romela';
 $Definition['Send a New Message'] = 'Romela Molaetša o Mofsa';
 $Definition['Send me a follow-up for my answered questions.'] = 'Nthomele go latela dipotšišo tša ka tšeo ke di arabilego.';
 $Definition['Send Message'] = 'Romela Molaetša';
+$Definition['Send notifications as emails'] = 'Romela ditsebišo bjalo ka di-imeile';
 $Definition['Send Q&A Follow-up Email'] = 'Romela Imeile ya go Latela Dipotšišo le Dikarabo';
 $Definition['Send Report'] = 'Romela Pego';
 $Definition['Send report'] = 'Romela pego';
+$Definition['Send Request'] = 'Romela Kgopelo';
 $Definition['sep and'] = 'le';
 $Definition['Set a New Warning Level'] = 'Bea Tekanyo e Mpsha ya Temošo';
 $Definition['Set A Password'] = 'Beakanya Phasewete';
@@ -1785,6 +1823,13 @@ $Definition['Thumbnail for: '] = 'Thumbnail ya: ';
 $Definition['Title'] = 'Sehlogo';
 $Definition['title'] = 'sehlogo';
 $Definition['To'] = 'Go ya go';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Go tsenya tirišong akhaonto ya gago, hle latela kgokagano ye:
+%s
+
+';
 $Definition['Today'] = 'Lehono';
 $Definition['Toggle Category'] = 'Toggle Khathakori';
 $Definition['Toggle full page'] = 'Kgoboketša letlakala ka botlalo';
@@ -1830,6 +1875,7 @@ $Definition['Undefined foreign content'] = 'Diteng tše šele tšeo di sa hlalos
 $Definition['Undo'] = 'Dirolla';
 $Definition['Undo Follow'] = 'Dirolla Tatelo';
 $Definition['Unfollow'] = 'O se sa latela';
+$Definition['Unfollow Category'] = 'Unfollow Legoro';
 $Definition['Unhide'] = 'O se sa uta';
 $Definition['Unignore'] = 'O se sa bethiša ka moya';
 $Definition['UniqueID'] = 'ID ya Moswananoši';

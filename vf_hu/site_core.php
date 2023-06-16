@@ -150,6 +150,7 @@ $Definition['[Deleted User]'] = '[Törölt felhasználó]';
 
 $Definition['About'] = 'Információ';
 $Definition['About %s users'] = 'Körülbelül %s felhasználó';
+$Definition['About Me'] = 'Rólam';
 $Definition['About the event'] = 'Az eseményről';
 $Definition['AboutToDelete'] = 'Arra készülsz, hogy töröld: %s';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Törölni készülsz %1$s beszélgetést a %2$s kiválasztottból.';
@@ -161,6 +162,7 @@ $Definition['Accept this answer.'] = 'Válasz elfogadása.';
 $Definition['Access the Site'] = 'Belépés az Oldalra';
 $Definition['Access Tokens'] = 'Kuponok elérése';
 $Definition['Account & Privacy'] = 'Fiók és adatvédelem';
+$Definition['Account & Privacy Settings'] = 'Fiók és adatvédelmi beállítások';
 $Definition['Account Options'] = 'Fiók beállítása';
 $Definition['Actions'] = 'Tevékenységek';
 $Definition['Activate'] = 'Aktiválás';
@@ -203,6 +205,7 @@ $Definition['Add Note'] = 'Jegyzet hozzáadása';
 $Definition['Add People to this Conversation'] = 'Felhasználó behívása ebbe a társalgásba';
 $Definition['Add Route'] = 'Út hozzáadása';
 $Definition['Add to Collection'] = 'Gyűjteményhez adás.';
+$Definition['Add to Collections'] = 'Hozzáadás a gyűjteményekhez';
 $Definition['Administrator'] = 'Adminisztrátor';
 $Definition['Administrator Activity'] = 'Admin tevékenység';
 $Definition['Administrator and moderator'] = 'Adminisztrátor és moderátor';
@@ -305,6 +308,8 @@ $Definition['Back to Discussions'] = 'Vissza a beszélgetéshez';
 $Definition['Back to Profile'] = 'Vissza a profilhoz';
 $Definition['Badge'] = 'Plecsni';
 $Definition['Badge404'] = 'Nincs ilyen plecsni.';
+$Definition['Badge is not available.'] = 'A jelvény nem elérhető.';
+$Definition['BadgeReasonPrompt'] = 'Szerinted megérdemled ezt a jelvényt? Mondd el, miért.';
 $Definition['Badges'] = 'Plecsnik';
 $Definition['BadgesModuleTitle'] = 'Plecsnik';
 $Definition['BadgesNobody'] = 'Ezt a plecsnit még nem kapta meg senki.';
@@ -361,6 +366,7 @@ $Definition['Case Number'] = 'Ügyszám';
 $Definition['Casual'] = 'Alkalmi';
 $Definition['Categories'] = 'Kategóriák';
 $Definition['Categories & Groups'] = 'Kategóriák és csoportok';
+$Definition['CategoriesNoFollowed'] = 'Nem követett kategória';
 $Definition['CategoriesShowFollowed'] = 'Csak a követett kategóriákat mutassa';
 $Definition['CategoriesShowUnfollowed'] = 'Rejtett kategóriák mutatása';
 $Definition['CategoriesViewingAll'] = 'Minden kategóriát látsz';
@@ -467,10 +473,12 @@ $Definition['Created by %s'] = 'Létrehozta: %s';
 $Definition['Created Date'] = 'Létrehozás dátuma';
 $Definition['Create Discussions'] = 'Fórum létrehozása';
 $Definition['Created on %s'] = 'Létrehozva ekkor: %s';
+$Definition['Create New Collections'] = 'Új gyűjtemények létrehozása';
 $Definition['Create New Discussion'] = 'Új vitafórum létrehozása';
 $Definition['Create One.'] = 'Hozz létre!';
 $Definition['Current'] = 'Jelenlegi';
 $Definition['Currently: '] = 'Jelenleg:';
+$Definition['Current Username'] = 'Jelenlegi felhasználónév';
 $Definition['Custom Information'] = 'Egyéni adatok';
 $Definition['Customize'] = 'Testreszabás';
 $Definition['customize your profile now'] = 'A profilod testreszabása';
@@ -716,6 +724,7 @@ $Definition['Folder'] = 'mappa';
 $Definition['Folders'] = 'mappák';
 $Definition['Follow'] = 'Kövesd!';
 $Definition['Follow %s'] = '%s követése';
+$Definition['Follow Category'] = 'Kövesse a kategóriát';
 $Definition['Followed by %d people'] = '%d felhasználó követi';
 $Definition['Followed by %d person'] = '%d személy követi';
 $Definition['followed categories'] = 'követett kategóriák';
@@ -829,6 +838,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '<a href="{Url,html}" class
 $Definition['Height (mobile)'] = 'Magasság (mobil)';
 $Definition['Hello!'] = 'Helló!';
 $Definition['Hello %s!'] = 'Helló %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Üdvözöljük!
+
+Létrehoztunk Önnek egy fiókot a %s fórumon.
+
+';
 $Definition['Hello {User.Name}!'] = 'Helló {User.Name}!';
 $Definition['Help'] = 'Segítség';
 $Definition['Help Menu'] = 'Segítség';
@@ -883,6 +901,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Szabd meg a beszélgetésekben és ho
 $Definition['ImageUploadLimits.Width2'] = 'A képeket leskálázzuk, ha szélességük ennél nagyobb.';
 $Definition['Image URL'] = 'Kép URL';
 $Definition['in'] = 'itt:';
+$Definition['In <0/>.'] = 'Itt: <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'A(z) <0/> és a legutóbbi beszélgetésekben.';
 $Definition['In <b>%s.</b>'] = 'Kiemelés itt: <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Kiemelés itt: <b>%s</b>, és a legutóbbi fórumokban.';
 $Definition['Inbox'] = 'Bejövő levelek';
@@ -989,6 +1009,7 @@ $Definition['Loading Modal'] = 'Modális betöltése';
 $Definition['Locale'] = 'helyi';
 $Definition['Log'] = 'Napló';
 $Definition['log'] = 'napló';
+$Definition['Log in here to update your notification preferences'] = 'Jelentkezzen be itt az értesítési beállítások frissítéséhez';
 $Definition['Login with Facebook'] = 'Belépés Facebook azonosítóval';
 
 $Definition['Major'] = 'Jelentős';
@@ -1097,6 +1118,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Legfrissebb beszélgetés';
 $Definition['Move'] = 'Mozgatás';
 $Definition['Moved: %s'] = 'Áthelyezve: %s';
+$Definition['Move Discussion'] = 'Megbeszélés mozgatása';
 $Definition['Mute'] = 'Némítás';
 $Definition['My Account'] = 'Fiókom';
 $Definition['My Account Tab'] = 'Fiókom fül';
@@ -1139,6 +1161,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Új szavazás';
 $Definition['New Post'] = 'Új hozzászólás';
 $Definition['New Question'] = 'Új kérdés';
+$Definition['New Username'] = 'Új felhasználónév';
 $Definition['Next'] = 'Következő';
 $Definition['Next Page'] = 'Következő oldal';
 $Definition['Ninth Anniversary'] = 'Kilencedik évforduló';
@@ -1155,6 +1178,7 @@ $Definition['No items tagged with %s.'] = 'Semmi nincs így megjelölve: %s';
 $Definition['None'] = 'Semmi';
 $Definition['No open cases were found.'] = 'Nem találtak nyitott esetet.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Nincs jogosultságod a kijelöltek közül a %1$s beszélgetést törölni.';
+$Definition['No reactions yet.'] = 'Még nincsenek reakciók.';
 $Definition['No results'] = 'Nincs eredmény';
 $Definition['No results for \'%s\''] = 'Nincs találat erre: \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Nincs eredmény erre: \'<0/>\'';
@@ -1171,6 +1195,7 @@ $Definition['Not going'] = 'Nem megyek';
 $Definition['Notice'] = 'Értesítés';
 $Definition['Notification'] = 'Értesítés';
 $Definition['Notification Preferences'] = 'Értesítési beállítások';
+$Definition['Notification preferences enabled tooltip'] = 'A bejegyzésekről szóló értesítéseket engedélyezni kell, mielőtt az új megjegyzésekről szóló értesítések és az e-mailben küldött értesítések megjelennének.';
 $Definition['Notifications'] = 'Értesítések';
 $Definition['Notifications Postmaster'] = 'Értesítések Postmaster';
 $Definition['Notifictions'] = 'Értesítések';
@@ -1196,6 +1221,8 @@ $Definition['Notify of all new discussions.'] = 'Értesítés minden új megbesz
 $Definition['Notify of all new discussions by email.'] = 'Értesítsen minden új megbeszélésről e -mailben.';
 $Definition['Notify of all new posts.'] = 'Értesítés minden új bejegyzésről.';
 $Definition['Notify of all new posts by email.'] = 'Értesítsen minden új bejegyzésről e -mailben.';
+$Definition['Notify of new comments'] = 'Értesítés az új megjegyzésekről';
+$Definition['Notify of new posts'] = 'Értesítés az új bejegyzésekről';
 $Definition['No Title'] = 'Nincs cím';
 $Definition['Not much happening here, yet.'] = 'Nem sok minden történt itt.';
 $Definition['Not registered?'] = 'Nem vagy regisztrálva?';
@@ -1294,6 +1321,13 @@ $Definition['Placeholder'] = 'Helyettesítő';
 $Definition['Places'] = 'Helyek';
 $Definition['Play the sound again'] = 'Játssza le a hangot újra';
 $Definition['Play Video'] = 'Videó lejátszása';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Kérjük, forduljon hozzánk, ha kérdése van ezzel az e-maillel kapcsolatban.
+
+Üdvözlettel:
+%s';
 $Definition['Please join my group.'] = 'Kérlek, csatlakoz a <a href="{Url,html}">csoportomhoz</a>.';
 $Definition['Please join my group: %s'] = 'Kérlek, csatlakozz a csoportomhoz: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Várj, míg átirányítunk. Ha nem működne, kattints ide: <a href="%s">here</a>.';
@@ -1459,6 +1493,7 @@ $Definition['Reputation'] = 'Hírnév';
 $Definition['Request a new password'] = 'Új jelszó kérése';
 $Definition['Request a new password →'] = 'Új jelszó kérése →';
 $Definition['Request another password reset.'] = 'További jelszó visszaállítás kérvényezése.';
+$Definition['Request Badge'] = 'Jelvény kérése';
 $Definition['Reset Password'] = 'Jelszó csere';
 $Definition['Reset Your Password'] = 'Állítsd Újra Jelszavadat';
 $Definition['Restore'] = 'Visszaállítás';
@@ -1545,14 +1580,17 @@ $Definition['Select a community.'] = 'Válassz egy közösséget.';
 $Definition['Select an image on your computer (2mb max)'] = 'Válassz egy képet a számítógépedről (max. 2MB).';
 $Definition['Select Discussion'] = 'Beszélgetés kiválasztása';
 $Definition['Select Discussion Type'] = 'Válassza a Beszélgetés típusa lehetőséget';
+$Definition['Select Existing Collections'] = 'Válassza a Meglévő gyűjtemények lehetőséget';
 $Definition['Select one of the following avatars:'] = 'Válassz egyet az alábbi avatarok közül:';
 $Definition['Send'] = 'Elküld';
 $Definition['Send a New Message'] = 'Új üzenet küldése';
 $Definition['Send me a follow-up for my answered questions.'] = 'Küldjön nekem egy nyomon követést a megválaszolt kérdéseimre.';
 $Definition['Send Message'] = 'Üzenet küldése';
+$Definition['Send notifications as emails'] = 'Értesítések küldése e-mailben';
 $Definition['Send Q&A Follow-up Email'] = 'Kérdések és válaszok küldése e-mailben';
 $Definition['Send Report'] = 'Jelentés küldése';
 $Definition['Send report'] = 'Jelentés küldése';
+$Definition['Send Request'] = 'Felkérést küld';
 $Definition['sep and'] = 'és';
 $Definition['Set a New Warning Level'] = 'Új figyelmeztető szint beállítása';
 $Definition['Set A Password'] = 'Jelszó beállítása';
@@ -1754,6 +1792,7 @@ $Definition['This question\'s answer has been accepted.'] = 'A választ elfogadt
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Ez a beállítás a Javascript végrehajtása előtt tölti be az oldalt, és ezzel javul az SEO.<br><strong>**Figyelem: Ennek a funkciónak az engedélyezése Javascript hibákhoz vezethet oldaladon.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Ez az oldal a reCAPTCHA és a Google által védett.';
 $Definition['This text has been converted from another format.'] = 'Ez a szöveg egy másik formátumból lett konvertálva.';
+$Definition['This user\'s profile is private.'] = 'Ennek a felhasználónak a profilja privát.';
 $Definition['This user has been banned'] = 'Ezt a felhasználót kitiltották';
 $Definition['This user has been deleted.'] = 'Ezt a felhasználót törölték.';
 $Definition['This user has been marked as a troll.'] = 'Ez a felhasználó troll-nak lett jelölve.';
@@ -1770,6 +1809,13 @@ $Definition['Thumbnail for: '] = '<0> miniatürje';
 $Definition['Title'] = 'Cím';
 $Definition['title'] = 'cím';
 $Definition['To'] = 'Neki';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Fiókja aktiválásához kövesse ezt a linket:
+%s
+
+';
 $Definition['Today'] = 'Ma';
 $Definition['Toggle Category'] = 'Kategória váltása';
 $Definition['Toggle full page'] = 'teljes oldal váltás';
@@ -1813,6 +1859,7 @@ $Definition['Undefined foreign content'] = 'Nem definiált idegen tartalom';
 $Definition['Undo'] = 'Visszavonás';
 $Definition['Undo Follow'] = 'Követés visszavonása';
 $Definition['Unfollow'] = 'Ne kövesd!';
+$Definition['Unfollow Category'] = 'Kategória követésének megszüntetése';
 $Definition['Unhide'] = 'Megjelenítés';
 $Definition['Unignore'] = 'Mellőzés visszavonása';
 $Definition['Unknown'] = 'Ismeretlen';

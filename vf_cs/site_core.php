@@ -147,6 +147,7 @@ $Definition['[Deleted User]'] = '[Odstraněný uživatel]';
 
 $Definition['About'] = 'O uživateli';
 $Definition['About %s users'] = 'O %s uživatelích';
+$Definition['About Me'] = 'O mně';
 $Definition['About the event'] = 'O události';
 $Definition['AboutToDelete'] = 'Chystáš se smazat %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Chystáš se smazat %1$s z %2$s vybraných diskuzí.';
@@ -158,6 +159,7 @@ $Definition['Accept this answer.'] = 'Přijmout odpověď.';
 $Definition['Access the Site'] = 'Vstupte do sítě';
 $Definition['Access Tokens'] = 'Přístupové tokeny';
 $Definition['Account & Privacy'] = 'Účet &amp; Soukromí';
+$Definition['Account & Privacy Settings'] = 'Nastavení účtu a soukromí';
 $Definition['Account Options'] = 'Možnosti účtu';
 $Definition['Actions'] = 'Akce';
 $Definition['Activate'] = 'Aktivovat';
@@ -200,6 +202,7 @@ $Definition['Add Note'] = 'Přidat poznámku';
 $Definition['Add People to this Conversation'] = 'Pozvat lidi ke konverzaci';
 $Definition['Add Route'] = 'Zadat trasu';
 $Definition['Add to Collection'] = 'Přidat do kolekce.';
+$Definition['Add to Collections'] = 'Přidat do sbírek';
 $Definition['Admin'] = 'Administrátor';
 $Definition['Administrator'] = 'Administrátor';
 $Definition['Administrator Activity'] = 'Administrátorská aktivita';
@@ -300,6 +303,8 @@ $Definition['Back to Discussions'] = 'Zpět k diskuzím';
 $Definition['Back to Profile'] = 'Zpět do profilu';
 $Definition['Badge'] = 'Odznak';
 $Definition['Badge404'] = 'Odznak nenalezen';
+$Definition['Badge is not available.'] = 'Odznak není k dispozici.';
+$Definition['BadgeReasonPrompt'] = 'Myslíte si, že si zasloužíte tento odznak? Řekněte nám proč.';
 $Definition['Badges'] = 'Odznaky';
 $Definition['BadgesModuleTitle'] = 'Odznaky';
 $Definition['BadgesNobody'] = 'Tento odznak zatím nikdo nezískal.';
@@ -353,6 +358,7 @@ $Definition['Case Number'] = 'Číslo případu';
 $Definition['Casual'] = 'Ležérní';
 $Definition['Categories'] = 'Kategorie';
 $Definition['Categories & Groups'] = 'Kategorie a skupiny';
+$Definition['CategoriesNoFollowed'] = 'Nenásledovaly žádné kategorie';
 $Definition['CategoriesShowFollowed'] = 'Zobrazovat pouze sledované kategorie';
 $Definition['CategoriesShowUnfollowed'] = 'Zobrazovat i nesledované kategorie';
 $Definition['CategoriesViewingAll'] = 'Právě máš zobrazené všechny kategorie.';
@@ -456,10 +462,12 @@ $Definition['Created by %s'] = 'Vytvořil/a %s';
 $Definition['Created Date'] = 'Datum vytvoření';
 $Definition['Create Discussions'] = 'Založit diskuzi';
 $Definition['Created on %s'] = 'Vytvořeno %s';
+$Definition['Create New Collections'] = 'Vytvářejte nové kolekce';
 $Definition['Create New Discussion'] = 'Vytvořit novou diskusi';
 $Definition['Create One.'] = 'Zaregistruj se.';
 $Definition['Current'] = 'Současný';
 $Definition['Currently: '] = 'Momentálně: ';
+$Definition['Current Username'] = 'Aktuální uživatelské jméno';
 $Definition['Custom Information'] = 'Volitelné informace';
 $Definition['Customize'] = 'Přizpůsobit';
 $Definition['customize your profile now'] = 'Nyní uprav svůj profil';
@@ -695,6 +703,7 @@ $Definition['Folder'] = 'Adresář';
 $Definition['Folders'] = 'Adresáře';
 $Definition['Follow'] = 'Sledovat';
 $Definition['Follow %s'] = 'Sledovat %s';
+$Definition['Follow Category'] = 'Sledovat kategorii';
 $Definition['Followed by %d people'] = 'Sleduje %d lidí';
 $Definition['Followed by %d person'] = 'Sleduje %d osoba';
 $Definition['followed categories'] = 'sledované kategorie';
@@ -808,6 +817,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Byli jste <a href="{Url,ht
 $Definition['Height (mobile)'] = 'Výška (mobilní)';
 $Definition['Hello!'] = 'Ahoj!';
 $Definition['Hello %s!'] = 'Ahoj %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Dobrý den,
+
+Byl pro vás vytvořen účet na fóru %s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Ahoj {User.Name}!';
 $Definition['Help'] = 'Nápověda';
 $Definition['Help Menu'] = 'Nápověda';
@@ -862,6 +880,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Přidejte do diskuzí a komentářů 
 $Definition['ImageUploadLimits.Width2'] = 'Pokud šířka obrázku překročí tento limit, bude obrázek ořezán. ';
 $Definition['Image URL'] = 'URL obrázku';
 $Definition['in'] = 'v';
+$Definition['In <0/>.'] = 'V <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'V <0/> a nedávných diskuzích.';
 $Definition['In <b>%s.</b>'] = 'V <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'V <b>%s</b> a v <b>nových diskuzích.</b>';
 $Definition['Inbox'] = 'Doručená pošta';
@@ -967,6 +987,7 @@ $Definition['Loading Modal'] = 'Načítání modální okna ';
 $Definition['Locale'] = 'cs-CZ';
 $Definition['Log'] = 'Záznam';
 $Definition['log'] = 'záznam';
+$Definition['Log in here to update your notification preferences'] = 'Chcete-li aktualizovat předvolby oznámení, přihlaste se zde';
 $Definition['Login with Facebook'] = 'Přihlásit s účtem na Facebooku';
 
 $Definition['Major'] = 'Hlavní';
@@ -1072,6 +1093,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Nejnovější diskuze';
 $Definition['Move'] = 'Přesunout';
 $Definition['Moved: %s'] = 'Přesunuto: %s';
+$Definition['Move Discussion'] = 'Přesunout diskusi';
 $Definition['Mute'] = 'Vypnout zvuk';
 $Definition['My Account'] = 'Můj účet';
 $Definition['My Account Tab'] = 'Záložka Můj účet';
@@ -1114,6 +1136,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Nová anketa';
 $Definition['New Post'] = 'Nový příspěvek';
 $Definition['New Question'] = 'Nová otázka';
+$Definition['New Username'] = 'Nové uživatelské jméno';
 $Definition['Next'] = 'Další';
 $Definition['Next Page'] = 'Další stránka';
 $Definition['Ninth Anniversary'] = 'Deváté výročí';
@@ -1129,6 +1152,7 @@ $Definition['No discussions were found.'] = 'Nebyly nalezeny žádné diskuze.';
 $Definition['No items tagged with %s.'] = 'Žádné položky se štítkem %s.';
 $Definition['No open cases were found.'] = 'Nebyly nalezeny žádné otevřené případy.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Nemáš oprávnění smazat %1$s z vybraných diskuzí.';
+$Definition['No reactions yet.'] = 'Zatím žádné reakce.';
 $Definition['No results'] = 'Žádné výsledky';
 $Definition['No results for \'%s\''] = 'Žádné výsledky pro \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Žádné výsledky pro „<0/>“?';
@@ -1145,6 +1169,7 @@ $Definition['Not going'] = 'Nezúčastní se';
 $Definition['Notice'] = 'Oznámení';
 $Definition['Notification'] = 'Upozornění';
 $Definition['Notification Preferences'] = 'Nastavení upozornění';
+$Definition['Notification preferences enabled tooltip'] = 'Upozornění na příspěvky musí být povolena, než budou k dispozici upozornění na nové komentáře a přijímání upozornění jako e-maily.';
 $Definition['Notifications'] = 'Upozornění';
 $Definition['Notifications Postmaster'] = 'Oznámení Postmaster';
 $Definition['Notifictions'] = 'Upozornění';
@@ -1170,6 +1195,8 @@ $Definition['Notify of all new discussions.'] = 'Upozorňovat na všechny nové 
 $Definition['Notify of all new discussions by email.'] = 'Upozorňovat na všechny nové diskuse e -mailem.';
 $Definition['Notify of all new posts.'] = 'Upozorňovat na všechny nové příspěvky.';
 $Definition['Notify of all new posts by email.'] = 'Upozorňovat na všechny nové příspěvky e -mailem.';
+$Definition['Notify of new comments'] = 'Upozornit na nové komentáře';
+$Definition['Notify of new posts'] = 'Upozornit na nové příspěvky';
 $Definition['No Title'] = 'Bez názvu';
 $Definition['Not much happening here, yet.'] = 'Zatím se zde nestalo nic zajímavého.';
 $Definition['Not registered?'] = 'Nejste registrovaní?';
@@ -1265,6 +1292,13 @@ $Definition['Placeholder'] = 'Zástupce';
 $Definition['Places'] = 'Místa';
 $Definition['Play the sound again'] = 'Přehrát zvuk znovu';
 $Definition['Play Video'] = 'Spustit video ';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Pokud máte otázky týkající se tohoto e-mailu, kontaktujte nás.
+
+S pozdravem
+%s';
 $Definition['Please join my group.'] = 'Připoj se prosím k mé <a href="{Url,html}">skupině</a>.';
 $Definition['Please join my group: %s'] = 'Přidejte se prosím do mé skupiny: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Počkejte na přesměrování. Pokud se stránka nepřesměruje, <a href="%s">pokračujte zde</a>.';
@@ -1425,6 +1459,7 @@ $Definition['Report Reason'] = 'Důvod';
 $Definition['Request a new password'] = 'Žádost o nové heslo';
 $Definition['Request a new password →'] = 'Žádost o nové heslo →';
 $Definition['Request another password reset.'] = 'Požádejte o další obnovení hesla.';
+$Definition['Request Badge'] = 'Žádost o odznak';
 $Definition['Reset Password'] = 'Resetovat heslo';
 $Definition['Reset Your Password'] = 'Obnovte vaše heslo';
 $Definition['Restored'] = 'Obnovený';
@@ -1510,14 +1545,17 @@ $Definition['Select a community.'] = 'Vybrat komunitu';
 $Definition['Select an image on your computer (2mb max)'] = 'Vyber profilový obrázek ze svého počítače (max 2MB)';
 $Definition['Select Discussion'] = 'Vybrat diskuzi';
 $Definition['Select Discussion Type'] = 'Vyberte Typ diskuze';
+$Definition['Select Existing Collections'] = 'Vyberte možnost Existující sbírky';
 $Definition['Select one of the following avatars:'] = 'Vyber jeden z následujících avatarů:';
 $Definition['Send'] = 'Poslat';
 $Definition['Send a New Message'] = 'Poslat novou zprávu';
 $Definition['Send me a follow-up for my answered questions.'] = 'Zašlete mi odpověď na mé zodpovězené otázky.';
 $Definition['Send Message'] = 'Poslat zprávu';
+$Definition['Send notifications as emails'] = 'Odesílejte oznámení jako e-maily';
 $Definition['Send Q&A Follow-up Email'] = 'Pošlete následný e-mail s otázkami a odpověďmi';
 $Definition['Send Report'] = 'Poslat zprávu';
 $Definition['Send report'] = 'Poslat zprávu';
+$Definition['Send Request'] = 'Poslat žádost';
 $Definition['sep and'] = 'a';
 $Definition['Set a New Warning Level'] = 'Nastavit novou úroveň varování';
 $Definition['Set A Password'] = 'Nastavit heslo';
@@ -1709,6 +1747,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Odpověď na tuto o
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Tímto nastavením se stránka načte před spuštěním Javascriptu, což může zlepšit vaše SEO.<br><strong>**Varování: Povolením této funkce může dojít k chybám Javascriptu na vašich stránkách.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Tato stránka je chráněná službou reCAPTCHA a Googlem';
 $Definition['This text has been converted from another format.'] = 'Tento text byl převeden z jiného formátu.';
+$Definition['This user\'s profile is private.'] = 'Profil tohoto uživatele je soukromý.';
 $Definition['This user has been banned'] = 'Tento uživatel byl zakázán';
 $Definition['This user has been deleted.'] = 'Tento uživatel byl smazán.';
 $Definition['This user has been marked as a troll.'] = 'Tento uživatel byl označen jako troll.';
@@ -1725,6 +1764,13 @@ $Definition['Thumbnail for: '] = 'Miniatura pro:';
 $Definition['Title'] = 'Nadpis';
 $Definition['title'] = 'název';
 $Definition['To'] = 'Komu';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Chcete-li aktivovat svůj účet, klikněte na tento odkaz:
+%s
+
+';
 $Definition['Today'] = 'Dnes';
 $Definition['Toggle Category'] = 'Přepnout kategorii';
 $Definition['Toggle full page'] = 'Přepnout celou stránku';
@@ -1770,6 +1816,7 @@ $Definition['Undefined foreign content'] = 'Nedefinovaný neznámý obsah';
 $Definition['Undo'] = 'Zpět';
 $Definition['Undo Follow'] = 'Vrátit sledování zpět';
 $Definition['Unfollow'] = 'Přestat sledovat';
+$Definition['Unfollow Category'] = 'Přestat sledovat kategorii';
 $Definition['Unhide'] = 'Sledovat';
 $Definition['Unignore'] = 'Neignorovat';
 $Definition['UniqueID'] = 'Unikátní ID';

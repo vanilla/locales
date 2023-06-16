@@ -147,6 +147,7 @@ $Definition['[Deleted User]'] = '[Raderad användare]';
 
 $Definition['About'] = 'Om';
 $Definition['About %s users'] = 'Om %s användare';
+$Definition['About Me'] = 'Om mig';
 $Definition['About the event'] = 'Om eventet';
 $Definition['AboutToDelete'] = 'Du håller på att radera %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Du är på väg radera %1$s av de %2$s valda diskussionerna.';
@@ -158,6 +159,7 @@ $Definition['Accept this answer.'] = 'Acceptera detta svar.';
 $Definition['Access the Site'] = 'Få åtkomst till sidan';
 $Definition['Access Tokens'] = 'Åtkomsttoken';
 $Definition['Account & Privacy'] = 'Konto & Sekretess';
+$Definition['Account & Privacy Settings'] = 'Konto- och sekretessinställningar';
 $Definition['Account Options'] = 'Alternativ för konto';
 $Definition['Actions'] = 'Åtgärder';
 $Definition['Activate'] = 'Aktivera';
@@ -200,6 +202,7 @@ $Definition['Add Note'] = 'Lägg till anteckning';
 $Definition['Add People to this Conversation'] = 'Lägg till personer till denna konversation';
 $Definition['Add Route'] = 'Lägg till URL-alias';
 $Definition['Add to Collection'] = 'Lägga till samling.';
+$Definition['Add to Collections'] = 'Lägg till i samlingar';
 $Definition['Admin'] = 'Administratör';
 $Definition['Administrator'] = 'Administratör';
 $Definition['Administrator Activity'] = 'Administratörsaktivitet';
@@ -304,6 +307,8 @@ $Definition['Back to Discussions'] = 'Tillbaka till diskussioner';
 $Definition['Back to Profile'] = 'Tillbaka till profilen';
 $Definition['Badge'] = 'Emblem';
 $Definition['Badge404'] = 'Emblem ej hittat.';
+$Definition['Badge is not available.'] = 'Märket är inte tillgängligt.';
+$Definition['BadgeReasonPrompt'] = 'Tycker du att du förtjänar det här märket? Berätta varför.';
 $Definition['Badges'] = 'Emblem';
 $Definition['BadgesModuleTitle'] = 'Emblem';
 $Definition['BadgesNobody'] = 'Ingen har förvärvat detta emblem än.';
@@ -360,6 +365,7 @@ $Definition['Case Number'] = 'Ärendenummer';
 $Definition['Casual'] = 'Sporadisk';
 $Definition['Categories'] = 'Kategorier';
 $Definition['Categories & Groups'] = 'Kategorier och grupper';
+$Definition['CategoriesNoFollowed'] = 'Inga kategorier följde';
 $Definition['CategoriesShowFollowed'] = 'Klicka här för att se kategorier du följer';
 $Definition['CategoriesShowUnfollowed'] = 'Klicka här för att se kategorier du inte följer';
 $Definition['CategoriesViewingAll'] = 'Du ser nu alla kategorier i forumet.';
@@ -467,10 +473,12 @@ $Definition['Created by %s'] = 'Skapad av %s';
 $Definition['Created Date'] = 'Skapat Datum';
 $Definition['Create Discussions'] = 'Skapa diskussioner';
 $Definition['Created on %s'] = 'Skapad den %s';
+$Definition['Create New Collections'] = 'Skapa nya samlingar';
 $Definition['Create New Discussion'] = 'Skapa ny diskussion';
 $Definition['Create One.'] = 'Skapa ett konto här.';
 $Definition['Current'] = 'Nuvarande';
 $Definition['Currently: '] = 'Nuvarande:';
+$Definition['Current Username'] = 'Aktuellt användarnamn';
 $Definition['Custom Information'] = 'Anpassad information';
 $Definition['Customize'] = 'Anpassa';
 $Definition['customize your profile now'] = 'anpassa din profil nu';
@@ -714,6 +722,7 @@ $Definition['Folder'] = 'Mapp';
 $Definition['Folders'] = 'Mappar';
 $Definition['Follow'] = 'Följ';
 $Definition['Follow %s'] = 'Följ %s';
+$Definition['Follow Category'] = 'Följ kategori';
 $Definition['Followed by %d people'] = 'Följs av %d personer';
 $Definition['Followed by %d person'] = 'Följs av %d person';
 $Definition['followed categories'] = 'kategorier du följer';
@@ -824,6 +833,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Du är <a href="{Url,html}
 $Definition['Height (mobile)'] = 'Höjd (mobil)';
 $Definition['Hello!'] = 'Hej!';
 $Definition['Hello %s!'] = 'Hej %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Hej,
+
+Ett konto har skapats åt dig på %s forumet.
+
+';
 $Definition['Hello {User.Name}!'] = 'Hej {User.Name}!';
 $Definition['Help'] = 'Hjälp';
 $Definition['Help Menu'] = 'Hjälp';
@@ -878,6 +896,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Lägg till måttgränser vid uppladdn
 $Definition['ImageUploadLimits.Width2'] = 'Bilderna skalas ned om de överstiger denna bredd.';
 $Definition['Image URL'] = 'Bild-URL';
 $Definition['in'] = 'i';
+$Definition['In <0/>.'] = 'I <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'I <0/> och senaste diskussioner.';
 $Definition['In <b>%s.</b>'] = 'I <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'I <b>%s</b> och nyliga diskussioner.';
 $Definition['Inbox'] = 'Inkorg';
@@ -984,6 +1004,7 @@ $Definition['Loading Modal'] = 'Laddar Modal';
 $Definition['Locale'] = 'Lokalt';
 $Definition['Log'] = 'Logg';
 $Definition['log'] = 'logg';
+$Definition['Log in here to update your notification preferences'] = 'Logga in här för att uppdatera dina aviseringsinställningar';
 $Definition['Login with Facebook'] = 'Logga in med Facebook';
 
 $Definition['Major'] = 'Större';
@@ -1088,6 +1109,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Senaste diskussion';
 $Definition['Move'] = 'Referens';
 $Definition['Moved: %s'] = 'Flyttad: %s';
+$Definition['Move Discussion'] = 'Flytta diskussion';
 $Definition['Mute'] = 'Stäng av ljud';
 $Definition['My Account'] = 'Mitt konto';
 $Definition['My Account Tab'] = 'Mitt konto-flik';
@@ -1131,6 +1153,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Ny omröstning';
 $Definition['New Post'] = 'Nytt inlägg';
 $Definition['New Question'] = 'Ny fråga';
+$Definition['New Username'] = 'Nytt användarnamn';
 $Definition['Next'] = 'Nästa';
 $Definition['Next Page'] = 'Nästa sida';
 $Definition['Ninth Anniversary'] = 'Nionde årsdagen';
@@ -1147,6 +1170,7 @@ $Definition['No items tagged with %s.'] = 'Inga objekt taggade med %s.';
 $Definition['None'] = 'Inga';
 $Definition['No open cases were found.'] = 'Inga öppna ärenden hittades.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Du har inte tillåtelse att radera %1$s av de valda diskussionerna.';
+$Definition['No reactions yet.'] = 'Inga reaktioner än.';
 $Definition['No results'] = 'Inga resultat';
 $Definition['No results for \'%s\''] = 'Inga resultat för \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Inga resultat för \'<0/>\'.';
@@ -1163,6 +1187,7 @@ $Definition['Not going'] = 'Kommer inte';
 $Definition['Notice'] = 'Notis';
 $Definition['Notification'] = 'Meddelande';
 $Definition['Notification Preferences'] = 'Meddelandeinställningar';
+$Definition['Notification preferences enabled tooltip'] = 'Inläggsaviseringar måste aktiveras innan nya kommentaraviseringar och ta emot aviseringar som e-postmeddelanden är tillgängliga.';
 $Definition['Notifications'] = 'Notiser';
 $Definition['Notifications Postmaster'] = 'Meddelanden Postmaster';
 $Definition['Notifictions'] = 'Notiser';
@@ -1188,6 +1213,8 @@ $Definition['Notify of all new discussions.'] = 'Meddela alla nya diskussioner.'
 $Definition['Notify of all new discussions by email.'] = 'Meddela alla nya diskussioner via e -post.';
 $Definition['Notify of all new posts.'] = 'Meddela alla nya inlägg.';
 $Definition['Notify of all new posts by email.'] = 'Meddela alla nya inlägg via e -post.';
+$Definition['Notify of new comments'] = 'Meddela nya kommentarer';
+$Definition['Notify of new posts'] = 'Meddela nya inlägg';
 $Definition['No Title'] = 'Ingen titel';
 $Definition['Not much happening here, yet.'] = 'Här händer inte så mycket än...';
 $Definition['Not registered?'] = 'Inte registrerad?';
@@ -1285,6 +1312,13 @@ $Definition['Placeholder'] = 'Platshållare';
 $Definition['Places'] = 'Platser';
 $Definition['Play the sound again'] = 'Spela upp ljudet igen';
 $Definition['Play Video'] = 'Spela video';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Kontakta oss om du har frågor angående detta e-postmeddelande.
+
+Vänliga hälsningar,
+%s';
 $Definition['Please join my group.'] = 'Vänligen gå med i min <a href="{Url,html}">grupp</a>.';
 $Definition['Please join my group: %s'] = 'Var snäll och gå med i min grupp: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Vänligen vänta medan du skickas vidare. Om du inte skickas vidare, klicka <a href="%s">här</a>.';
@@ -1450,6 +1484,7 @@ $Definition['Reputation'] = 'Rykte';
 $Definition['Request a new password'] = 'Begär nytt lösenord';
 $Definition['Request a new password →'] = 'Be om nytt lösenord →';
 $Definition['Request another password reset.'] = 'Begär återställning av lösenord.';
+$Definition['Request Badge'] = 'Begär märke';
 $Definition['Reset Password'] = 'Återställ lösenord';
 $Definition['Reset Your Password'] = 'Återställ ditt lösenord ';
 $Definition['Restore'] = 'Återskapa';
@@ -1536,14 +1571,17 @@ $Definition['Select a community.'] = 'Välj ett forum.';
 $Definition['Select an image on your computer (2mb max)'] = 'Välj en bild från din dator (max. 2MB).';
 $Definition['Select Discussion'] = 'Välj diskussion';
 $Definition['Select Discussion Type'] = 'Välj Diskussionstyp';
+$Definition['Select Existing Collections'] = 'Välj Befintliga samlingar';
 $Definition['Select one of the following avatars:'] = 'Välj en av följande avatarer:';
 $Definition['Send'] = 'Sänd';
 $Definition['Send a New Message'] = 'Skicka ett nytt meddelande';
 $Definition['Send me a follow-up for my answered questions.'] = 'Skicka mig en uppföljning för mina besvarade frågor.';
 $Definition['Send Message'] = 'Skicka meddelande';
+$Definition['Send notifications as emails'] = 'Skicka aviseringar som e-postmeddelanden';
 $Definition['Send Q&A Follow-up Email'] = 'Skicka frågor och svar om uppföljning';
 $Definition['Send Report'] = 'Skicka rapport';
 $Definition['Send report'] = 'Skicka rapport';
+$Definition['Send Request'] = 'Skicka förfrågan';
 $Definition['sep and'] = 'och';
 $Definition['Set a New Warning Level'] = 'Ställ in en ny varningsnivå';
 $Definition['Set A Password'] = 'Ange ett lösenord';
@@ -1750,6 +1788,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Den här frågans s
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Denna inställning innebär att sidan laddas före Javascript, vilket kan ge bättre sökmotoroptimering.<br><strong>**Varning: Detta kan leda till fel med Javascript på din sajt.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Sajten skyddas av reCAPTCHA och Google';
 $Definition['This text has been converted from another format.'] = 'Denna text har konverterats från ett annat format.';
+$Definition['This user\'s profile is private.'] = 'Den här användarens profil är privat.';
 $Definition['This user has been banned'] = 'Den här användaren har blivit avstängd';
 $Definition['This user has been deleted.'] = 'Den här användaren har tagits bort.';
 $Definition['This user has been marked as a troll.'] = 'Användaren är markerad som troll.';
@@ -1766,6 +1805,13 @@ $Definition['Thumbnail for: '] = 'Miniatyrbild för:';
 $Definition['Title'] = 'Rubrik';
 $Definition['title'] = 'rubrik';
 $Definition['To'] = 'Till';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'För att aktivera ditt konto, följ denna länk:
+%s
+
+';
 $Definition['Today'] = 'Idag';
 $Definition['Toggle Category'] = 'Växla kategori';
 $Definition['Toggle full page'] = 'Växla helsida';
@@ -1810,6 +1856,7 @@ $Definition['Undefined foreign content'] = 'Odefinierat utomstående innehåll';
 $Definition['Undo'] = 'Ångra';
 $Definition['Undo Follow'] = 'Ångra följandet';
 $Definition['Unfollow'] = 'Sluta följa';
+$Definition['Unfollow Category'] = 'Sluta följa kategori';
 $Definition['Unhide'] = 'Sluta gömma';
 $Definition['Unignore'] = 'Sluta ignorera';
 $Definition['UniqueID'] = 'UniktID';

@@ -402,6 +402,7 @@ $Definition['Footer'] = 'כותרת תחתונה';
 $Definition['Forbidden words'] = 'מילים אסורות';
 $Definition['Force the forum to only be accessible through this url'] = 'אפשר לגשת לפורום רק דרך הכתובת הבאה';
 $Definition['Force your forum to be viewed through the Remote Url'] = 'אפשר צפייה בפורום רק דרך הכתובת הבאה';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'לדוגמה, כדי לאפשר yourdomain.com, www.yourdomain.com ו-help.yourdomain.com, תוסיף את *.yourdomain.com';
 $Definition['Formats'] = 'פורמטים';
 $Definition['Formatting Posts'] = 'עיצוב פוסטים';
 $Definition['Forum Data'] = 'נתוני פורום';
@@ -646,6 +647,7 @@ $Definition['Preview Colors'] = 'תצוגה מקדימה של צבעים';
 $Definition['Private Communities'] = 'קהילות פרטיות';
 $Definition['private conversation(s)'] = 'שיחה פרטית/שיחות פרטיות';
 $Definition['Private Key'] = 'מפתח פרטי';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'יש להשמיט פרוטוקולים (לדוגמה https://) ונתיבים (לדוגמה yourdomain.com/some/path).';
 $Definition['Provider'] = 'ספק';
 $Definition['Public Key'] = 'מפתח פומבי';
 
@@ -940,6 +942,7 @@ $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'לא ניתן להסיר את הקטגוריה האחרונה שנשארה שמאפשרת דיונים.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'באפשרותך להגן על האתר שלך באמצעות שם משתמש או סיסמה ב- HTTP במהלך הפיתוח.';
 $Definition['You can send emails in plain text by disabling the toggle below.'] = 'ניתן לשלוח אימיילים בטקסט רגיל ע"י השבתת הכפתור הדו-מצבי שלמטה.';
+$Definition['You can specify an allow list of trusted domains.'] = 'אתה יכול לציין רשימה של דומיינים מהימנים בטוחים להפניות מחדש ולהטמעה.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'אתה יכול לציין רשימת אישורים של דומיינים מהימנים (לדוגמה yourdomain.com) שמהם בטוח לטעון JavaScript.';
 $Definition['You have %s invitations left for this month.'] = 'נותרו לך %s הזמנות החודש.';
 $Definition['You must be authenticated in order to use this form.'] = 'עליכם להתחבר לחשבון שלך כדי להשתמש בטופס הזה';

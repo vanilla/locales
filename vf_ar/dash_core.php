@@ -126,6 +126,7 @@ $Definition['Are you sure you want to delete this badge? This is irreversible an
 $Definition['Are you sure you want to delete this category?'] = 'هل أنت متأكد من رغبتك في حذف هذا القسم؟';
 $Definition['Are you sure you want to restore %s items?'] = 'هل أنت متأكد من رغبتك في إسترجاع %s عناصر؟';
 $Definition['Are you sure you want to restore 1 item?'] = 'هل أنت متأكد من رغبتك في إسترجاع عنصر 1؟';
+$Definition['Assign to'] = 'يسند إلى';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'رابط قسم أكثر توافقا مع محركات البحث';
 $Definition['Authors may always edit'] = 'يمكن للمؤلفين دائمًا التعديل';
 $Definition['Authors may edit for %s'] = 'يجوز للمؤلفين تحرير %s';
@@ -201,6 +202,7 @@ $Definition['Choose who can send out invitations to new members:'] = 'اختر �
 $Definition['Class'] = 'الفئة';
 $Definition['Classic table layout used by traditional forums'] = 'تخطيط الجدول الكلاسيكي الذي تستخدمه المنتديات التقليدية';
 $Definition['Clean Spam'] = 'تنظيف الرسائل العشوائبة';
+$Definition['Clear All'] = 'امسح الكل';
 $Definition['Click a tag name to edit. Click x to remove.'] = 'انقر فوق اسم علامة لتحريرها. انقر فوق x للإزالة.';
 $Definition['Click here to apply it.'] = 'انقر هنا لتطبيقه.';
 $Definition['Click here to carry on.'] = 'انقر هنا للاستمرار.';
@@ -391,6 +393,7 @@ $Definition['FileUpload is currently OFF'] = 'FileUpload متوقف حاليًا
 $Definition['FileUpload is currently ON'] = 'FileUpload قيد التشغيل حاليًا';
 $Definition['Filter'] = 'مرشح نتائج البحث';
 $Definition['Filter Results'] = 'ترشيح نتائج البحث';
+$Definition['Fingerprint'] = 'بصمة';
 $Definition['First Visit'] = 'الزيارة الأولى';
 $Definition['Flagged By'] = 'تم الإشارة بواسطة';
 $Definition['Flagged Content'] = 'محتوى تم الإبلاغ عنه';
@@ -398,6 +401,7 @@ $Definition['Follow Up Delay'] = 'متابعة التأخير';
 $Definition['Footer'] = 'تذييل الصفحة';
 $Definition['Forbidden words'] = 'الكلمات المحرمة';
 $Definition['Force the forum to only be accessible through this url'] = 'إجبار المنتدى على الوصول إليه فقط من خلال عنوان URL هذا';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'على سبيل المثال ، للسماح لـ yourdomain.com و www.yourdomain.com و help.yourdomain.com ، يمكنك إضافة * .yourdomain.com';
 $Definition['Formats'] = 'التنسيقات';
 $Definition['Formatting Posts'] = 'تنسيق المنشورات';
 $Definition['Forum Data'] = 'بيانات المنتدى ';
@@ -629,6 +633,7 @@ $Definition['Preview Colors'] = 'معاينة الألوان';
 $Definition['Private Communities'] = 'المجتمعات الخاصة';
 $Definition['private conversation(s)'] = 'محادثة (محادثات) خاصة';
 $Definition['Private Key'] = 'مفتاح سري';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'يجب حذف البروتوكولات (مثل https: //) والمسارات (مثل yourdomain.com/some/path).';
 $Definition['Public Key'] = 'المفتاح العمومي';
 
 $Definition['QnAFollowup.Feature.Enabled'] = 'ترسل هذه الميزة رسائل بريد إلكتروني إلى مؤلفي الأسئلة التي تمت الإجابة عليها والتي ليس لها إجابة مقبولة.';
@@ -659,6 +664,7 @@ $Definition['Replacement Role'] = 'دور الاستبدال';
 $Definition['Reply  To'] = 'الرد إلى';
 $Definition['reply to private conversation(s)'] = 'الرد على المحادثة (المحادثات) الخاصة';
 $Definition['Request'] = 'طلب';
+$Definition['Requests'] = 'الطلبات';
 $Definition['Require users to confirm their email addresses (recommended)'] = 'مطالبة المستخدمين بتأكيد عناوين بريدهم الإلكتروني (مستحسن)';
 $Definition['Rescan'] = 'إعادة المسح';
 $Definition['Reset'] = 'إعادة تعيين';
@@ -880,6 +886,7 @@ $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires
 $Definition['You cannot remove the only remaining category that allows discussions'] = 'لا يمكنك إزالة الفئة الوحيدة المتبقية التي تسمح بالمناقشات';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'يمكنك حماية موقعك باستخدام اسم مستخدم / كلمة مرور بنظام HTTP أثناء التطوير.';
 $Definition['You can send emails in plain text by disabling the toggle below.'] = 'يمكنك إرسال رسائل البريد الإلكتروني في هيئة نص عادي عن طريق تعطيل التبديل أدناه.';
+$Definition['You can specify an allow list of trusted domains.'] = 'يمكنك تحديد قائمة بالمجالات الموثوقة الآمنة لعمليات إعادة التوجيه والتضمين.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'يمكنك تحديد القائمة البيضاء لأسماء النطاقات الموثوقة (مثل: yourdomain.com) التي تعتبر آمنة ليتم تحميل أكواد جافاسكريبت/JavaScript منها.';
 $Definition['You have %s invitations left for this month.'] = 'يتبقى لديك دعوات %s لهذا الشهر.';
 $Definition['You must be authenticated in order to use this form.'] = 'يجب أن تتم المصادقة عليك لاستخدام هذا النموذج.';

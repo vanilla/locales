@@ -147,6 +147,7 @@ $Definition['[Deleted User]'] = '[Defnyddiwr wedi ei ddileu]';
 
 $Definition['About'] = 'Am';
 $Definition['About %s users'] = 'Am ddefnyddwyr %s';
+$Definition['About Me'] = 'Amdanaf i';
 $Definition['About the event'] = 'Ynglŷn â\'r digwyddiad';
 $Definition['AboutToDelete'] = 'Rydych ar fin dileu %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Rydych ar fin dileu %1$s o\'r %2$s o\'r trafodaethau a ddewiswyd.';
@@ -158,6 +159,7 @@ $Definition['Accept this answer.'] = 'Derbyn yr ateb yma.';
 $Definition['Access the Site'] = 'Mynediad i\'r safle';
 $Definition['Access Tokens'] = 'Tocynnau Mynediad';
 $Definition['Account & Privacy'] = 'Cyfrif a Phreifatrwydd';
+$Definition['Account & Privacy Settings'] = 'Gosodiadau Cyfrif a Phreifatrwydd';
 $Definition['Account Options'] = 'Dewisiadau cyfrif';
 $Definition['Actions'] = 'Camau gweithredu';
 $Definition['Activate'] = 'Gweithredu';
@@ -200,6 +202,7 @@ $Definition['Add Note'] = 'Ychwanegu nodyn';
 $Definition['Add People to this Conversation'] = 'Ychwanegu pobl at y sgwrs yma';
 $Definition['Add Route'] = 'Ychwanegu llwybr';
 $Definition['Add to Collection'] = 'Ychwanegu at y Casgliad.';
+$Definition['Add to Collections'] = 'Ychwanegu at Gasgliadau';
 $Definition['Admin'] = 'Gweinyddol';
 $Definition['Administrator'] = 'Gweinyddwr';
 $Definition['Administrator Activity'] = 'Gweithgaredd gweinyddu';
@@ -305,6 +308,8 @@ $Definition['Back to Discussions'] = 'Nôl i gystadlaethau';
 $Definition['Back to Profile'] = 'Nôl i\'r proffil';
 $Definition['Badge'] = 'Bathodyn';
 $Definition['Badge404'] = 'Bathodyn heb ei ganfod.';
+$Definition['Badge is not available.'] = 'Nid yw bathodyn ar gael.';
+$Definition['BadgeReasonPrompt'] = 'Meddwl eich bod yn haeddu\'r bathodyn hwn? Dywedwch wrthym pam.';
 $Definition['Badges'] = 'Bathodynnau';
 $Definition['BadgesModuleTitle'] = 'Bathodynnau';
 $Definition['BadgesNobody'] = 'Nid oes neb wedi ennill bathodyn yma eto.';
@@ -342,6 +347,7 @@ $Definition['Bookmarks'] = 'Nodau tudalen';
 $Definition['bookmarks'] = 'nodau tudalen';
 $Definition['Bottom'] = 'Gwaelod';
 $Definition['Branding & SEO'] = 'Brandio & SEO';
+$Definition['Breadcrumb'] = 'Briwsion Bara';
 $Definition['Browse Groups'] = 'Porwch drwy\'r grwpiau';
 $Definition['Browse popular groups.'] = 'Porwch drwy\'r grwpiau poblogaidd.';
 $Definition['Bulleted List'] = 'Rhestr Fwled';
@@ -360,6 +366,7 @@ $Definition['Case Number'] = 'Rhif Achos';
 $Definition['Casual'] = 'Achlysurol';
 $Definition['Categories'] = 'Categorïau';
 $Definition['Categories & Groups'] = 'Categorïau a Grwpiau';
+$Definition['CategoriesNoFollowed'] = 'Ni ddilynwyd unrhyw gategorïau';
 $Definition['CategoriesShowFollowed'] = 'Dim ond dangos categorïau a ddilynwyd';
 $Definition['CategoriesShowUnfollowed'] = 'Dangos categorïau cudd';
 $Definition['CategoriesViewingAll'] = 'Ar hyn o bryd rydych chi\'n gweld yr holl gategorïau.';
@@ -466,10 +473,12 @@ $Definition['Created by %s'] = 'Wedi\'i greu gan %s';
 $Definition['Created Date'] = 'Dyddiad wedi\'i Greu';
 $Definition['Create Discussions'] = 'Creu trafodaethau';
 $Definition['Created on %s'] = 'Wedi\'i greu ar %s';
+$Definition['Create New Collections'] = 'Creu Casgliadau Newydd';
 $Definition['Create New Discussion'] = 'Creu Trafodaeth Newydd';
 $Definition['Create One.'] = 'Creu un.';
 $Definition['Current'] = 'Cyfredol';
 $Definition['Currently: '] = 'Ar hyn o bryd: ';
+$Definition['Current Username'] = 'Enw Defnyddiwr Presennol';
 $Definition['Custom Information'] = 'Gwybodaeth bersonol';
 $Definition['Customize'] = 'Addasu';
 $Definition['customize your profile now'] = 'addasu eich proffil yn awr';
@@ -692,6 +701,7 @@ $Definition['Folder'] = 'Ffolder';
 $Definition['Folders'] = 'Ffolderi';
 $Definition['Follow'] = 'Yn dilyn';
 $Definition['Follow %s'] = 'Dilyn %s';
+$Definition['Follow Category'] = 'Dilynwch y Categori';
 $Definition['Followed by %d people'] = 'Dilyn gan bobl %d';
 $Definition['Followed by %d person'] = 'Dilynir gan %d person';
 $Definition['followed categories'] = 'categorïau a ddilynir';
@@ -744,6 +754,7 @@ $Definition['Get an audio challenge'] = 'Gael her sain';
 $Definition['Get a new challenge'] = 'Gael her newydd';
 $Definition['Get a visual challenge'] = 'Gael her gweledol';
 $Definition['Get Help on Inserting Media'] = 'Cael Cymorth ar Mewnosod Cyfryngau';
+$Definition['Gigabyte'] = 'Gigabeit';
 $Definition['Give'] = 'Rhoi';
 $Definition['Give a Badge to %s'] = 'Rhoi bathodyn i %s';
 $Definition['Give Badge'] = 'Rhoi bathodyn';
@@ -804,6 +815,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Rydych chi wedi cael eich 
 $Definition['Height (mobile)'] = 'Uchder (symudol)';
 $Definition['Hello!'] = 'Helo!';
 $Definition['Hello %s!'] = 'Helo %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Helo,
+
+Mae cyfrif wedi ei greu ar eich cyfer yn fforwm %s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Helo {User.Name}!';
 $Definition['Help'] = 'Helpu i';
 $Definition['Help Menu'] = 'Helpu i';
@@ -858,6 +878,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Ychwanegwch derfynau at ddimensiynau 
 $Definition['ImageUploadLimits.Width2'] = 'Bydd delweddau\'n cael eu graddio i lawr os ydyn nhw\'n fwy na\'r lled hwn.';
 $Definition['Image URL'] = 'URL y ddelwedd';
 $Definition['in'] = 'yn';
+$Definition['In <0/>.'] = 'Yn <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'Yn <0/> a thrafodaethau diweddar.';
 $Definition['In <b>%s.</b>'] = 'Yn <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Yn <b>%s</b> a thrafodaethau diweddar.';
 $Definition['Inbox'] = 'Blwch derbyn';
@@ -926,6 +948,7 @@ $Definition['Just you!'] = 'Chi!';
 
 $Definition['Keep me signed in'] = 'Cadwch fi wedi llofnodi i mewn';
 $Definition['Keep User Content'] = 'Cadw cynnwys y defnyddiwr';
+$Definition['Kilobyte'] = 'Cilobeit';
 
 $Definition['Languages'] = 'Ieithoedd';
 $Definition['Large'] = 'Mawr';
@@ -959,6 +982,7 @@ $Definition['List Ordered'] = 'Rhestr a Orchymynwyd';
 $Definition['List Unordered'] = 'Rhestr Heb Orchymyn';
 $Definition['Loading'] = 'Llwytho';
 $Definition['Loading Modal'] = 'Llwytho Modd';
+$Definition['Log in here to update your notification preferences'] = 'Mewngofnodwch yma i ddiweddaru eich dewisiadau hysbysu';
 $Definition['Login with Facebook'] = 'Mewngofnodi gyda Facebook';
 $Definition['LOL'] = 'DIBWYS';
 
@@ -983,6 +1007,7 @@ $Definition['Maybe (%s)'] = 'Efallai (%s)';
 $Definition['Me'] = 'Fi';
 $Definition['Media'] = 'Cyfryngau';
 $Definition['Medium'] = 'Canolig';
+$Definition['Megabyte'] = 'Megabeit';
 $Definition['Member'] = 'Aelod';
 $Definition['member'] = 'aelod';
 $Definition['Member Count'] = 'Aelodau';
@@ -1067,6 +1092,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Trafodaeth ddiweddaraf';
 $Definition['Move'] = 'Symud';
 $Definition['Moved: %s'] = 'Symudwyd: %s';
+$Definition['Move Discussion'] = 'Symud Trafodaeth';
 $Definition['Mute'] = 'Munud';
 $Definition['My Account'] = 'Fy nghyfrif';
 $Definition['My Account Tab'] = 'Tab fy Nghyfrif';
@@ -1110,6 +1136,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Pôl newydd';
 $Definition['New Post'] = 'Post Newydd';
 $Definition['New Question'] = 'Cwestiwn Newydd';
+$Definition['New Username'] = 'Enw Defnyddiwr Newydd';
 $Definition['Next'] = 'Nesaf';
 $Definition['Next Page'] = 'Tudalen nesaf';
 $Definition['Ninth Anniversary'] = 'Pen-blwydd yn y nawfed';
@@ -1126,6 +1153,7 @@ $Definition['No items tagged with %s.'] = 'Dim eitemau wedi\'u tagio gyda %s.';
 $Definition['None'] = 'Dim';
 $Definition['No open cases were found.'] = 'Ni ddarganfuwyd unrhyw achosion agored.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Nid oes hawl gennych i ddileu %1$s o\'r trafodaethau dan sylw.';
+$Definition['No reactions yet.'] = 'Dim ymatebion eto.';
 $Definition['No results'] = 'Dim canlyniadau';
 $Definition['No results for \'%s\''] = 'Dim canlyniadau ar gyfer \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Dim canlyniadau ar gyfer \'<0 />\'.';
@@ -1142,6 +1170,7 @@ $Definition['Not going'] = 'Ddim yn mynd';
 $Definition['Notice'] = 'Hysbysiad';
 $Definition['Notification'] = 'Hysbysiad';
 $Definition['Notification Preferences'] = 'Dewisiadau hysbysu';
+$Definition['Notification preferences enabled tooltip'] = 'Rhaid galluogi hysbysiadau post cyn bod hysbysiadau sylwadau newydd a derbyn hysbysiadau fel e-byst ar gael.';
 $Definition['Notifications'] = 'Hysbysiadau';
 $Definition['Notifications Postmaster'] = 'Hysbysiad Postfeistr';
 $Definition['Notify'] = 'Hysbysu';
@@ -1166,6 +1195,8 @@ $Definition['Notify of all new discussions.'] = 'Hysbysu am bob trafodaeth newyd
 $Definition['Notify of all new discussions by email.'] = 'Hysbysu am bob trafodaeth newydd trwy e-bost.';
 $Definition['Notify of all new posts.'] = 'Hysbysu am bob swydd newydd.';
 $Definition['Notify of all new posts by email.'] = 'Hysbysu pob post newydd trwy e-bost.';
+$Definition['Notify of new comments'] = 'Rhoi gwybod am sylwadau newydd';
+$Definition['Notify of new posts'] = 'Rhoi gwybod am bostiadau newydd';
 $Definition['No Title'] = 'Dim Teitl';
 $Definition['Not much happening here, yet.'] = 'Nid oes llawer yn digwydd yma, eto.';
 $Definition['Not registered?'] = 'Heb gofrestru?';
@@ -1263,6 +1294,13 @@ $Definition['Placeholder'] = 'Deiliad Lle';
 $Definition['Places'] = 'Lleoedd';
 $Definition['Play the sound again'] = 'Chwarae sain eto';
 $Definition['Play Video'] = 'Chwarae Fideo';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Cysylltwch â ni os oes gennych unrhyw gwestiynau am yr e-bost hwn.
+
+Yn gywir,
+%s';
 $Definition['Please join my group.'] = 'Cofiwch ymuno â \'m <a href="{Url,html}"> grŵp</a>.';
 $Definition['Please join my group: %s'] = 'Ymunwch â fy ngrŵp: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Arhoswch funud tra ydych eu hailgyfeirio. Os yr ydych nid hailgyfeirio, cliciwch <a href="%s"> yma</a>.';
@@ -1360,6 +1398,7 @@ $Definition['Rank'] = 'Safle';
 $Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,was,were} dyrchafwyd i {Data.Name,plaintext}.';
 $Definition['Ranks.NotificationFormat'] = 'Llongyfarchiadau! Rydych wedi\'ch dyrchafu i {Data.Name,plaintext}.';
 $Definition['Re: %s'] = 'Parthed: %s';
+$Definition['React'] = 'Ymateb';
 $Definition['Reaction'] = 'Adwaith';
 $Definition['Reactions'] = 'Adweithiau';
 $Definition['Read More'] = 'Darllen mwy';
@@ -1426,6 +1465,7 @@ $Definition['Reputation'] = 'Enw da';
 $Definition['Request a new password'] = 'Gofyn am gyfrinair newydd';
 $Definition['Request a new password →'] = 'Cais am gyfrinair newydd →';
 $Definition['Request another password reset.'] = 'Cais am ailosod cyfrinair eto.';
+$Definition['Request Badge'] = 'Cais am Fathodyn';
 $Definition['Reset Password'] = 'Ailosod cyfrinair';
 $Definition['Reset Your Password'] = 'Ailosod eich cyfrinair';
 $Definition['Restore'] = 'Adfer';
@@ -1513,14 +1553,17 @@ $Definition['Select a community.'] = 'Dewiswch gymuned.';
 $Definition['Select an image on your computer (2mb max)'] = 'Dewiswch ddelwedd ar y cyfrifiadur (uchafswm o 2mb)';
 $Definition['Select Discussion'] = 'Dewis Trafodaeth';
 $Definition['Select Discussion Type'] = 'Dewiswch Math o Drafod';
+$Definition['Select Existing Collections'] = 'Dewiswch Casgliadau Presennol';
 $Definition['Select one of the following avatars:'] = 'Dewiswch un o\'r rhithffurfiau canlynol:';
 $Definition['Send'] = 'Anfon';
 $Definition['Send a New Message'] = 'Anfon neges newydd';
 $Definition['Send me a follow-up for my answered questions.'] = 'Anfonwch ddilyniant ataf ar gyfer fy nghwestiynau a atebwyd.';
 $Definition['Send Message'] = 'Anfon neges';
+$Definition['Send notifications as emails'] = 'Anfon hysbysiadau fel e-byst';
 $Definition['Send Q&A Follow-up Email'] = 'Anfonwch E-bost Dilynol Holi ac Ateb';
 $Definition['Send Report'] = 'Anfon adroddiad';
 $Definition['Send report'] = 'Anfon adroddiad';
+$Definition['Send Request'] = 'Anfon Cais';
 $Definition['sep and'] = 'ac';
 $Definition['Set a New Warning Level'] = 'Pennu lefel rhybudd newydd';
 $Definition['Set A Password'] = 'Gosod cyfrinair';
@@ -1718,6 +1761,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Derbyniwyd ateb y c
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Mae\'r gosodiad hwn yn llwytho\'r dudalen cyn gweithredu Javascript a all wella\'ch SEO. <br> <strong>** Rhybudd: Gall galluogi\'r nodwedd hon achosi gwallau Javascript ar eich gwefan. **</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Diogelir y wefan hon gan reCAPTCHA a\'r Google';
 $Definition['This text has been converted from another format.'] = 'Mae\'r testun hwn wedi\'i drosi o fformat arall.';
+$Definition['This user\'s profile is private.'] = 'Mae proffil y defnyddiwr hwn yn breifat.';
 $Definition['This user has been banned'] = 'Mae\'r defnyddiwr hwn wedi\'i wahardd';
 $Definition['This user has been deleted.'] = 'Mae\'r defnyddiwr hwn wedi\'i ddileu.';
 $Definition['This user has been marked as a troll.'] = 'Mae\'r defnyddiwr hwn wedi\'i farcio fel trolio.';
@@ -1734,6 +1778,13 @@ $Definition['Thumbnail for: '] = 'Bawd ar gyfer:';
 $Definition['Title'] = 'Teitl';
 $Definition['title'] = 'teitl';
 $Definition['To'] = 'I';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'I gychwyn eich cyfrif, dilynwch y ddolen hon:
+%s
+
+';
 $Definition['Today'] = 'Heddiw';
 $Definition['Toggle Category'] = 'Categori Toglo';
 $Definition['Toggle full page'] = 'Toglo tudalen lawn';
@@ -1779,12 +1830,15 @@ $Definition['Undefined foreign content'] = 'Cynnwys estron heb ei ddiffinio';
 $Definition['Undo'] = 'Dadwneud';
 $Definition['Undo Follow'] = 'Dad-wneud dilyn';
 $Definition['Unfollow'] = 'Dad-ddilyn';
+$Definition['Unfollow Category'] = 'Dad-ddilyn y Categori';
 $Definition['Unhide'] = 'Dad-guddio';
 $Definition['Unknown'] = 'Anhysbys';
 $Definition['unknown'] = 'anhysbys';
 $Definition['Unknown client: %s.'] = 'Cleient anhysbys: %s.';
 $Definition['Unmark as Troll'] = 'Unmark fel Troll';
+$Definition['Unmute'] = 'Dad-dewi';
 $Definition['Unordered list'] = 'Rhestr heb drefn';
+$Definition['Unpin'] = 'Dad-binio';
 $Definition['Unread'] = 'Heb ei darllen';
 $Definition['Unread Discussions'] = 'Trafodaethau heb eu darllen';
 $Definition['Unspecified'] = 'Amhenodol';
@@ -2075,6 +2129,9 @@ $Definition['Your warning was added.'] = 'Ychwanegwyd eich rhybudd.';
 $Definition['You were added to a conversation.'] = 'Ychwanegodd {InsertUserID, user} {NotifyUserID, you} i <a href="{Url,htmlencode}"> sgwrs</a>.';
 $Definition['You will receive a notification when you are accepted.'] = 'Byddwch yn derbyn hysbysiad pan gewch eich derbyn.';
 $Definition['You wrote:'] = 'Ysgrifennodd:';
+$Definition['yyyy-mm-dd'] = 'bbbb-mm-dd';
+
+$Definition['Zip'] = 'Sip';
 
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'Postiodd {ActivityUserID,user} gyhoeddiad yn <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = 'Dechreuodd {ActivityUserID,user} drafodaeth newydd <strong>{DiscussionName}</strong>';

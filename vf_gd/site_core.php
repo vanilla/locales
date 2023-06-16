@@ -114,6 +114,7 @@ $Definition['[Deleted User]'] = '[Ball air a sguabadh às]';
 
 $Definition['About'] = 'Mu dhèidhinn';
 $Definition['About %s users'] = 'Mu luchd-cleachdaidh %s';
+$Definition['About Me'] = 'Mu mo dheidhinn';
 $Definition['About the event'] = 'Mun tachartas';
 $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
@@ -124,6 +125,7 @@ $Definition['Accept this answer.'] = 'Gabh ris an fhreagairt seo.';
 $Definition['Access the Site'] = 'Faigh chun làraich';
 $Definition['Access Tokens'] = 'Comharran ruigsinneachd';
 $Definition['Account & Privacy'] = 'Cunntas & Prìobhaideachd';
+$Definition['Account & Privacy Settings'] = 'Roghainnean cunntais is prìobhaideachd';
 $Definition['Actions'] = 'Gnìomhan';
 $Definition['Activate'] = 'Gnìomhaich';
 $Definition['Active'] = 'Gnìomhach';
@@ -161,6 +163,7 @@ $Definition['Add Message'] = 'Cuir teachdaireachd ris';
 $Definition['Add People to this Conversation'] = 'Cuir daoine ris a\' chòmhradh seo';
 $Definition['Add Route'] = 'Cuir slighe ris';
 $Definition['Add to Collection'] = 'Cuir ris a’ Chruinneachadh.';
+$Definition['Add to Collections'] = 'Cuir ri Cruinneachaidhean';
 $Definition['Admin'] = 'Rianaire';
 $Definition['Administrator Activity'] = 'Gnìomhan rianachd';
 $Definition['Administrator and moderator'] = 'Rianaire agus modaireatair';
@@ -209,6 +212,7 @@ $Definition['Approve Applicant'] = 'Approve';
 $Definition['Approved'] = 'Aontaichte';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'A bheil thu CINNTEACH gu bheil thu airson seo a dhèanamh?';
 $Definition['Are you sure you want to delete this %s?'] = 'A bheil thu cinnteach gu bheil thu airson a\' %s seo a sguabadh às?';
+$Definition['Are you sure you want to delete this image? You won\'t be able to recover it.'] = 'A bheil thu cinnteach gu bheil thu airson an dealbh seo a sguabadh às? Chan fhaigh thu air ais e.';
 $Definition['Are you sure you want to do this?'] = 'A bheil thu cinnteach gu bheil thu airson seo a dhèanamh?';
 $Definition['Are you sure you want to ignore <b>%s</b>?'] = 'A bheil thu cinnteach gu bheil thu airson dearmad a dhèanamh air <b>%s</b> ?';
 $Definition['Are you sure you want to leave this conversation?'] = 'A bheil thu cinnteach gu bheil thu airson an còmhradh seo fhàgail?';
@@ -231,6 +235,8 @@ $Definition['Back to Discussions'] = 'Till dha na co-fharpaisean';
 $Definition['Back to Profile'] = 'Till dhan phròifil';
 $Definition['Badge'] = 'Suaicheantas';
 $Definition['Badge404'] = 'Cha deach an suaicheantas a lorg.';
+$Definition['Badge is not available.'] = 'Chan eil suaicheantas ri fhaighinn.';
+$Definition['BadgeReasonPrompt'] = 'A bheil thu a’ smaoineachadh gu bheil thu airidh air a’ bhràiste seo? Inns dhuinn carson.';
 $Definition['Badges'] = 'Suaicheantasan';
 $Definition['BadgesModuleTitle'] = 'Suaicheantasan';
 $Definition['BadgesNobody'] = 'Cha do choisinn duine an suaicheantas seo fhathast.';
@@ -258,17 +264,20 @@ $Definition['Bookmarked Discussions'] = 'Deasbaidean le comharra-leabhair';
 $Definition['Bookmarks'] = 'Comharran-leabhair';
 $Definition['Bottom'] = 'Sìos';
 $Definition['Branding & SEO'] = 'Brandadh & SEO';
+$Definition['Breadcrumb'] = 'Breac-bhràghad';
 $Definition['Browse popular groups.'] = 'Dèan brobhs air buidhnean mòr-chòrdte.';
 $Definition['Bulleted List'] = 'Liosta bulleted';
 $Definition['By'] = 'Le';
 $Definition['by'] = 'le';
 $Definition['by Date'] = 'le ceann-là';
+$Definition['Byte'] = 'Beit';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Nuair a luchdaicheas tu faidhle suas, dearbhaichidh tu gu bheil còir agad gus an dealbh seo a sgaoileadh is nach bris e teirmichean a\' chleachdaidh.';
 
 $Definition['Can\'t post as often.'] = 'Cha ghabh a phostadh cho tric.';
 $Definition['Can\'t post discussions.'] = 'Chan urrainn dhuinn còmhraidhean a phostadh.';
 $Definition['Case Number'] = 'Àireamh cùis';
 $Definition['Categories & Groups'] = 'Roinnean-seòrsa & Buidhnean';
+$Definition['CategoriesNoFollowed'] = 'Cha deach roinnean a leantainn';
 $Definition['CategoriesShowFollowed'] = 'Na seall ach na roinnean a leanas mi orra';
 $Definition['CategoriesShowUnfollowed'] = 'Seall na roinnean falaichte';
 $Definition['CategoriesViewingAll'] = 'Tha thu a\' sealltainn na h-uile roinn an-dràsta.';
@@ -354,10 +363,12 @@ $Definition['Created by %s'] = 'Air a chruthachadh le %s';
 $Definition['Created Date'] = 'Ceann-latha cruthaichte';
 $Definition['Create Discussions'] = 'Cruthaich còmhraidhean';
 $Definition['Created on %s'] = 'Air a chruthachadh air %s';
+$Definition['Create New Collections'] = 'Cruthaich cruinneachaidhean ùra';
 $Definition['Create New Discussion'] = 'Cruthaich Còmhradh Ùr';
 $Definition['Create One.'] = 'Cruthaich fear.';
 $Definition['Current'] = 'Làithreach';
 $Definition['Currently: '] = 'An-dràsta:';
+$Definition['Current Username'] = 'Ainm-cleachdaidh làithreach';
 $Definition['Custom Information'] = 'Fiosrachadh gnàthaichte';
 $Definition['Customize'] = 'Gnàthaich';
 $Definition['customize your profile now'] = 'gnàthaich a\' phròifil agad an-dràsta';
@@ -406,6 +417,7 @@ $Definition['Discussions Page'] = 'Duilleag nan deasbaidean';
 $Definition['Discussion Title'] = 'Tiotal a\' chòmhraidh';
 $Definition['Discussion Type'] = 'Discussion';
 $Definition['Dismiss'] = 'Leig seachad';
+$Definition['Dismissible'] = 'Dhiùltadh';
 $Definition['Display my email publicly'] = 'Seall am post-d agam gu poblach';
 $Definition['Display my profile publicly'] = 'Seall mo phròifil gu poblach';
 $Definition['Documentation'] = 'Sgrìobhainnean';
@@ -531,6 +543,7 @@ $Definition['expires %s'] = 'a ’tighinn gu crìch %s';
 $Definition['Facebook Connect'] = 'Ceangal Facebook';
 $Definition['Failed to find discussion for commenting.'] = 'Cha deach còmhradh a lorg gus beachd a chur ris.';
 $Definition['Failed to load the poll.'] = 'Dh\'fhàillig le luchdadh a\' chunntais-bheachd.';
+$Definition['Favorites'] = 'Favourites';
 $Definition['Featured Categories'] = 'Roinnean sònraichte';
 $Definition['Feedback'] = 'Beachdan thugainn';
 $Definition['Female'] = 'Boireann';
@@ -552,9 +565,11 @@ $Definition['Float Left'] = 'Float air an làimh chlì';
 $Definition['Float left'] = 'Float air an làimh chlì';
 $Definition['Float Right'] = 'Float Ceart';
 $Definition['Float right'] = 'Float Ceart';
+$Definition['Folder'] = 'Fillte';
 $Definition['Folders'] = 'Filltearan';
 $Definition['Follow'] = 'Lean';
 $Definition['Follow %s'] = 'Lean %s';
+$Definition['Follow Category'] = 'Lean Roinn-seòrsa';
 $Definition['Followed by %d people'] = '\'Ga leantainn le %d daoine';
 $Definition['Followed by %d person'] = '\'Ga leantainn le %d neach';
 $Definition['Following'] = 'A ’leantainn';
@@ -652,6 +667,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Chaidh <a href="{Url,html}
 $Definition['Height (mobile)'] = 'Àirde (gluasadach)';
 $Definition['Hello!'] = 'Halò!';
 $Definition['Hello %s!'] = 'Halo %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Halo,
+
+Chaidh cunntas a chruthachadh dhut air fòram %s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Halo {User.Name}!';
 $Definition['Help Menu'] = 'Help';
 $Definition['hide'] = 'seiche';
@@ -692,6 +716,8 @@ $Definition['ImageUploadLimits.Height2'] = 'Thèid ìomhaighean a lughdachadh ma
 $Definition['ImageUploadLimits.Notes1'] = 'Dèan comas air crìoch luchdaich ìomhaigh';
 $Definition['ImageUploadLimits.Notes2'] = 'Cuir crìochan ri tomhasan luchdachadh suas ìomhaighean ann an còmhraidhean agus beachdan.';
 $Definition['ImageUploadLimits.Width2'] = 'Thèid ìomhaighean a lughdachadh ma thèid iad thairis air an leud seo.';
+$Definition['In <0/>.'] = 'Ann an <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'Ann an <0/> agus còmhraidhean o chionn ghoirid.';
 $Definition['Incorrect. Try again.'] = 'Mearachdach. Feuch a-rithist.';
 $Definition['In emoji category: '] = 'Ann an roinn emoji:';
 $Definition['In emoji category: %s'] = 'Ann an roinn emoji: %s';
@@ -731,6 +757,7 @@ $Definition['Jump to first tracked post.'] = 'Leum chun chiad phost a chaidh a l
 $Definition['just now'] = 'an-dràsta';
 
 $Definition['Keep me signed in'] = 'Cum air logadh a-steach mi';
+$Definition['Kilobyte'] = 'Kilobite';
 
 $Definition['Languages'] = 'Cànanan';
 $Definition['Large'] = 'Mòr';
@@ -753,6 +780,7 @@ $Definition['List Ordered'] = 'Liosta air òrdachadh';
 $Definition['List Unordered'] = 'Liosta gun òrdugh';
 $Definition['Loading'] = 'A ’luchdachadh';
 $Definition['Loading Modal'] = 'A ’luchdachadh modal';
+$Definition['Log in here to update your notification preferences'] = 'Log a-steach an seo gus na roghainnean fios agad ùrachadh';
 
 $Definition['Make %s'] = 'Dèan %s';
 $Definition['Make Leader'] = 'Ceannard';
@@ -827,6 +855,8 @@ $Definition['Most recent by <0/>'] = 'As ùire le <0 />';
 $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'Beachd as ùire air ceann-latha %s, ann an deasbad "%s", leis an neach-cleachdaidh "%s"';
 $Definition['Most recent discussion'] = 'An deasbad as ùire';
 $Definition['Moved: %s'] = 'Ghluais: %s';
+$Definition['Move Discussion'] = 'Gluasad Deasbaireachd';
+$Definition['Mute'] = 'Mut';
 $Definition['My Account'] = 'Mo chunntas';
 $Definition['My Account Tab'] = 'Tab mo chunntas';
 $Definition['MyBadgesModuleTitle'] = 'Na suaicheantasan agam';
@@ -855,12 +885,14 @@ $Definition['New Password'] = 'Facal-faire ùr';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Chan eil am facal-faire ùr a\' freagairt. Feuch an dearbhaich thu a-rithist am facal-faire ùr agad.';
 $Definition['New Post'] = 'Post ùr';
 $Definition['New Question'] = 'Ceist Ùr';
+$Definition['New Username'] = 'Ainm-cleachdaidh ùr';
 $Definition['Next Page'] = 'An ath dhuilleag';
 $Definition['No articles were found.'] = 'Cha deach artaigilean sam bith a lorg.';
 $Definition['NoBadgesEarned'] = 'Any minute now…';
 $Definition['No badges yet.'] = 'Chan eil suaicheantas agad fhathast.';
 $Definition['No open cases were found.'] = 'Cha deach cùisean fosgailte a lorg.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'You do not have permission to delete %1$s of the selected discussions.';
+$Definition['No reactions yet.'] = 'Gun ath-bheachdan fhathast.';
 $Definition['No results'] = 'Gun toradh';
 $Definition['No results for \'<0/>\'.'] = 'Gun toradh airson \'<0 />\'.';
 $Definition['No results found.'] = 'Cha do lorgar toraidhean.';
@@ -872,6 +904,7 @@ $Definition['Not Going'] = 'Gun a bhith a ’falbh';
 $Definition['Not going'] = 'Gun a bhith a ’dol';
 $Definition['Notification'] = 'Fios';
 $Definition['Notification Preferences'] = 'Roghainnean nan fiosan';
+$Definition['Notification preferences enabled tooltip'] = 'Feumaidh fiosan puist a bhith air an comasachadh mus bi fiosan beachd ùra agus fiosan fhaighinn mar phuist-d rim faighinn.';
 $Definition['Notifications'] = 'Fiosan';
 $Definition['Notifications Postmaster'] = 'Fiosan Maighstir a ’Phuist';
 $Definition['Notifictions'] = 'Fiosan';
@@ -894,6 +927,8 @@ $Definition['Notify of all new discussions.'] = 'Fios mu na còmhraidhean ùra u
 $Definition['Notify of all new discussions by email.'] = 'Cuir fios chun a h-uile deasbad ùr tro phost-d.';
 $Definition['Notify of all new posts.'] = 'Cuir fios gu gach post ùr.';
 $Definition['Notify of all new posts by email.'] = 'Cuir fios gu gach post ùr air post-d.';
+$Definition['Notify of new comments'] = 'Cuir fios mu bheachdan ùra';
+$Definition['Notify of new posts'] = 'Cuir fios gu dreuchdan ùra';
 $Definition['No Title'] = 'Gun tiotal';
 $Definition['Not registered?'] = 'Gun chlàradh?';
 $Definition['Not Verified Description'] = 'Thèid luchd-cleachdaidh neo-dhearbhaichte a thoirt tro shìoltachain spama agus ro-mhodaireataireachd.';
@@ -961,6 +996,13 @@ $Definition['Placeholder'] = 'Neach-àite';
 $Definition['Places'] = 'Àiteachan';
 $Definition['Play the sound again'] = 'Cluich am fuaim a-rithist';
 $Definition['Play Video'] = 'Cluich Bhidio';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Feuch an cuir thu fios thugainn ma tha ceistean agad mun phost-d seo.
+
+Gu deimhinn,
+%s';
 $Definition['Please join my group.'] = 'Feuch an tig thu a-steach don <a href="{Url,html}">bhuidheann</a> agam.';
 $Definition['Please join my group: %s'] = 'Feuch an tig thu a-steach don bhuidheann agam: %s';
 $Definition['Poll'] = 'Cunntas-bheachd';
@@ -1053,6 +1095,7 @@ $Definition['Report Notes'] = 'Notes';
 $Definition['Report Reason'] = 'Reason';
 $Definition['Request a new password'] = 'Iarr facal-faire ùr';
 $Definition['Request another password reset.'] = 'Iarr ath-shuidheachadh facal-faire eile.';
+$Definition['Request Badge'] = 'Bràiste Iarr';
 $Definition['Reset Your Password'] = 'Ath-shuidhich am facal-faire agad';
 $Definition['Restore deleted content.'] = 'Thoir air ais susbaint a chaidh a dhubhadh às.';
 $Definition['Result(s) <0/> to <1/> of <2/>'] = 'Toradh (ean) <0 /> gu <1 /> de <2 />';
@@ -1121,9 +1164,12 @@ $Definition['Select a community.'] = 'Tagh coimhearsnachd.';
 $Definition['Select an image on your computer (2mb max)'] = 'Tagh dealbh air a\' choimpiutair agad (2MB air a char as motha)';
 $Definition['Select Discussion'] = 'Tagh Còmhradh';
 $Definition['Select Discussion Type'] = 'Tagh Seòrsa Còmhraidh';
+$Definition['Select Existing Collections'] = 'Tagh Cruinneachaidhean a tha ann mar-thà';
 $Definition['Send'] = 'Cuir';
 $Definition['Send me a follow-up for my answered questions.'] = 'Cuir thugam leanmhainn airson na ceistean a fhreagair mi.';
+$Definition['Send notifications as emails'] = 'Cuir fiosan mar phuist-d';
 $Definition['Send Q&A Follow-up Email'] = 'Cuir post-d leanmhainn Q&A';
+$Definition['Send Request'] = 'Cuir Iarrtas';
 $Definition['sep and'] = 'agus';
 $Definition['Share'] = 'Co-roinn';
 $Definition['Share on Facebook'] = 'Co-roinn air Facebook';
@@ -1215,6 +1261,7 @@ $Definition['There was an error displaying this embed.'] = 'Bha mearachd a ’ta
 $Definition['These notes can only be seen by moderators.'] = 'Chan fhaic na modaireatairean ach na notaichean sin.';
 $Definition['These tags are reserved and cannot be used: %s'] = 'Tha na tagaichean sin glèidhte agus chan urrainnear an cleachdadh: %s';
 $Definition['The status for "%s" has changed to %s.'] = 'Tha an inbhe airson "%s" air atharrachadh gu %s.';
+$Definition['The uploaded file did not have an allowed extension. \\nOnly the following extensions are allowed. \\n%s.'] = 'Cha robh leudachadh ceadaichte aig an fhaidhle a chaidh a luchdachadh suas. \\nChan eil ach na leudachaidhean a leanas ceadaichte. \\n %s.';
 $Definition['The user has already been warned for this %s.'] = 'Chaidh rabhadh a thoirt don neach-cleachdaidh mu thràth airson an %s.';
 $Definition['The user has disabled this notification preference.'] = 'Tha an neach-cleachdaidh air an roghainn fios seo a chiorramachadh.';
 $Definition['The user isn\'t banned.'] = 'Chan eil an neach-cleachdaidh air a thoirmeasg no air a thoirmeasg le gnìomh eile.';
@@ -1236,6 +1283,7 @@ $Definition['This must match the new password field'] = 'Feumaidh seo a bhith co
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Bidh an suidheachadh seo a ’luchdachadh na duilleige mus cuir thu Javascript an gnìomh a dh’ fhaodadh do SEO adhartachadh. <br> <strong>** Rabhadh: Faodaidh comasachadh an fheart seo mearachdan Javascript adhbhrachadh air an làrach agad. **</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Tha an làrach seo air a dhìon le reCAPTCHA agus an Google';
 $Definition['This text has been converted from another format.'] = 'Chaidh an teacsa seo atharrachadh bho chruth eile.';
+$Definition['This user\'s profile is private.'] = 'Tha pròifil a\' chleachdaiche seo prìobhaideach.';
 $Definition['This user has been banned'] = 'Chaidh an cleachdaiche seo a thoirmeasg';
 $Definition['This user has been deleted.'] = 'Chaidh an cleachdaiche seo a dhubhadh às.';
 $Definition['This user has been marked as a troll.'] = 'Chaidh an cleachdaiche seo a chomharrachadh mar troll.';
@@ -1245,12 +1293,20 @@ $Definition['This user is also banned for other reasons and may stay banned.'] =
 $Definition['Thumbnail'] = 'Dealbhag';
 $Definition['Thumbnail for: '] = 'Dealbh airson:';
 $Definition['title'] = 'tiotal';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Gus an cunntas agad a chur an gnìomh, lean an ceangal seo:
+%s
+
+';
 $Definition['Today'] = 'An-diugh';
 $Definition['Toggle Category'] = 'Tog Tog Roinn-seòrsa';
 $Definition['Toggle Heading Menu'] = 'Tog suas Heading Menu';
 $Definition['Toggle Lists Menu'] = 'Tog liosta liostaichean';
 $Definition['Toggle Quote'] = 'Tog Tog Quote';
 $Definition['Toggle Special Formats Menu'] = 'Tog suas clàr chruthan sònraichte';
+$Definition['Top'] = 'Barr';
 $Definition['To view full details, sign in.'] = 'Gus làn fhiosrachadh fhaicinn, clàraich a-steach.';
 $Definition['Transport error: %s'] = 'Tachair mearachd mharbhtach le pròiseasadh an iarrtais.<br />Seo freagairt an fhrithealaiche: %s';
 $Definition['Travel & Places'] = 'Siubhal & Àiteachan';
@@ -1264,8 +1320,11 @@ $Definition['Type your message'] = 'Taidhp do theachdaireachd';
 
 $Definition['Unable to create conversation, %s is ignoring you.'] = 'Mura h-urrainn dhut còmhradh a chruthachadh, tha%s a ’seachnadh thu.';
 $Definition['Unanswered Questions'] = 'Unanswered';
+$Definition['Undo'] = 'Neo-dhèanamh';
+$Definition['Unfollow Category'] = 'Na lean an roinn-seòrsa';
 $Definition['Unknown'] = 'Chan eil fios';
 $Definition['Unmark as Troll'] = 'Unmark mar Troll';
+$Definition['Unmute'] = 'Neo-bhalbhaich';
 $Definition['Unspecified'] = 'Gun sònrachadh';
 $Definition['Updated <0/> by <1/>'] = 'Air ùrachadh <0 /> le <1 />';
 $Definition['Updated badge'] = 'Suaicheantas air ùrachadh';
@@ -1373,6 +1432,7 @@ $Definition['Welcome Aboard!'] = 'Fàilte ort!';
 $Definition['When enabled, Banned user profiles will be private. Private profiles can only be viewed by authorized users.'] = 'Nuair a bhios e air a chomasachadh, bidh pròifilean cleachdaiche toirmisgte prìobhaideach. Chan urrainn ach luchd-cleachdaidh ùghdarraichte coimhead air pròifilean prìobhaideach.';
 $Definition['Who\'s Online in this Category'] = 'Cò tha air-loidhne san roinn seo';
 $Definition['Who\'s Online in this Discussion'] = 'Cò tha air-loidhne san deasbad seo';
+$Definition['Whoops!'] = 'Oops!';
 $Definition['Whoops! There was an error.'] = 'Whoops! Bha mearachd ann.';
 $Definition['Will you be attending?'] = 'Am bi thu an làthair?';
 $Definition['Word'] = 'Facal';
@@ -1452,6 +1512,7 @@ $Definition['Your request has been sent.'] = 'Your request has been sent. Check 
 $Definition['Your request is pending. You\'ll be notified when its status changes.'] = 'Tha an t-iarrtas agad a’ feitheamh. Thèid fios a chuir thugad nuair a dh’ atharraicheas an inbhe aige.';
 $Definition['You were added to a conversation.'] = 'Chuir {InsertUserID,user} {NotifyUserID,you} ri <a href="{Url,htmlencode}">còmhradh</a>.';
 $Definition['You will receive a notification when you are accepted.'] = 'Gheibh thu fios nuair a thèid gabhail riut.';
+$Definition['yyyy-mm-dd'] = 'seadh-mm-dd';
 
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'Chuir {ActivityUserID,user} sanas suas ann an <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = 'Thòisich {ActivityUserID,user} còmhradh ùr <strong>{DiscussionName}</strong>';

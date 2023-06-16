@@ -143,6 +143,7 @@ $Definition['[Deleted User]'] = '[Видалений користувач]';
 
 $Definition['About'] = 'Про себе';
 $Definition['About %s users'] = 'Близько %s користувачів';
+$Definition['About Me'] = 'Про мене';
 $Definition['About the event'] = 'Про подію';
 $Definition['AboutToDelete'] = 'Вм збираєтесь видалити %s.
 ';
@@ -155,6 +156,7 @@ $Definition['Accept this answer.'] = 'Підтвердіть цю відпові
 $Definition['Access the Site'] = 'Отримати доступ до сайту';
 $Definition['Access Tokens'] = 'Отримати доступ до токена';
 $Definition['Account & Privacy'] = 'Обліковий запис і конфіденційність';
+$Definition['Account & Privacy Settings'] = 'Налаштування облікового запису та конфіденційності';
 $Definition['Account Options'] = 'Опції аккаунта';
 $Definition['Actions'] = 'Дії';
 $Definition['Activate'] = 'Активувати';
@@ -197,6 +199,7 @@ $Definition['Add Note'] = 'Додати нотатку';
 $Definition['Add People to this Conversation'] = 'Добавити співрозмовників';
 $Definition['Add Route'] = 'Додати маршрут';
 $Definition['Add to Collection'] = 'Додати до колекції.';
+$Definition['Add to Collections'] = 'Додати до колекцій';
 $Definition['Admin'] = 'Адмін';
 $Definition['Administrator'] = 'Адміністратор';
 $Definition['Administrator Activity'] = 'Активність адміністратора';
@@ -302,6 +305,8 @@ $Definition['Back to Discussions'] = 'Назад до обговорень';
 $Definition['Back to Profile'] = 'Повернутись до профілю';
 $Definition['Badge'] = 'Відзнака';
 $Definition['Badge404'] = 'Відзнака не знайдена';
+$Definition['Badge is not available.'] = 'Значок недоступний.';
+$Definition['BadgeReasonPrompt'] = 'Вважаєте, що ви заслуговуєте на цей значок? Розкажіть чому.';
 $Definition['Badges'] = 'Відзнаки';
 $Definition['BadgesModuleTitle'] = 'Відзнаки';
 $Definition['BadgesNobody'] = 'Ніхто поки не отримав цю відзнаку';
@@ -357,6 +362,7 @@ $Definition['Case Number'] = 'Номер справи';
 $Definition['Casual'] = 'Випадково';
 $Definition['Categories'] = 'Категорії';
 $Definition['Categories & Groups'] = 'Категорії і групи';
+$Definition['CategoriesNoFollowed'] = 'Немає категорій';
 $Definition['CategoriesShowFollowed'] = 'Показувати категорії, які прослідковуються мною';
 $Definition['CategoriesShowUnfollowed'] = 'Показати приховані категорії';
 $Definition['CategoriesViewingAll'] = 'Ви переглядаєте всі категорії.';
@@ -461,10 +467,12 @@ $Definition['Created by %s'] = 'Створено %s';
 $Definition['Created Date'] = 'Дата створення';
 $Definition['Create Discussions'] = 'Створити обговорення';
 $Definition['Created on %s'] = 'Створено о %s';
+$Definition['Create New Collections'] = 'Створення нових колекцій';
 $Definition['Create New Discussion'] = 'Створити нове обговорення';
 $Definition['Create One.'] = 'Зареєструйтесь.';
 $Definition['Current'] = 'Поточний';
 $Definition['Currently: '] = 'Поточне: ';
+$Definition['Current Username'] = 'Поточне ім\'я користувача';
 $Definition['Custom Information'] = 'Користувальницькі інформація';
 $Definition['Customize'] = 'Налаштувати';
 $Definition['customize your profile now'] = 'налаштувати ваш профіль зараз';
@@ -712,6 +720,7 @@ $Definition['Folder'] = 'Папка';
 $Definition['Folders'] = 'Папки';
 $Definition['Follow'] = 'слідувати';
 $Definition['Follow %s'] = 'Слідкувати %s';
+$Definition['Follow Category'] = 'Слідкуйте за категорією';
 $Definition['Followed by %d people'] = 'Прослідковано за %d';
 $Definition['Followed by %d person'] = 'Прослідковано %d';
 $Definition['followed categories'] = 'категорії на які підписані';
@@ -825,6 +834,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Вас було <a href="{
 $Definition['Height (mobile)'] = 'Висота (мобільний)';
 $Definition['Hello!'] = 'Добрий день!';
 $Definition['Hello %s!'] = 'Добрий день, %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Привіт,
+
+для вас створено обліковий запис на форумі %s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Добрий день, {User.Name}!';
 $Definition['Help'] = 'Допомога';
 $Definition['Help Menu'] = 'Допомога';
@@ -879,6 +897,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Додайте обмеження д�
 $Definition['ImageUploadLimits.Width2'] = 'Зображення будуть зменшені, якщо вони перевищуватимуть цю ширину.';
 $Definition['Image URL'] = 'URL зображення';
 $Definition['in'] = 'в';
+$Definition['In <0/>.'] = 'У <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'У <0/> та останніх обговореннях.';
 $Definition['In <b>%s.</b>'] = 'В <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'в <b>%s</b> і поточне обговорення.';
 $Definition['Inbox'] = 'Вхідні';
@@ -986,6 +1006,7 @@ $Definition['Loading Modal'] = 'Завантажується модальне в
 $Definition['Locale'] = 'Місце дії';
 $Definition['Log'] = 'Журнал';
 $Definition['log'] = 'журнал';
+$Definition['Log in here to update your notification preferences'] = 'Увійдіть тут, щоб оновити налаштування сповіщень';
 $Definition['Login with Facebook'] = 'Увійти через Facebook';
 $Definition['LOL'] = 'ЛОЛ';
 
@@ -1092,6 +1113,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Останнє обговорення';
 $Definition['Move'] = 'Перемістити';
 $Definition['Moved: %s'] = 'Переміщено: %s';
+$Definition['Move Discussion'] = 'Перемістити обговорення';
 $Definition['My Account'] = 'Мій обліковий запис';
 $Definition['My Account Tab'] = 'Вкладка Мій обліковий запис';
 $Definition['MyBadgesModuleTitle'] = 'Мої Відзнаки';
@@ -1134,6 +1156,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Нове голосування';
 $Definition['New Post'] = 'Новий допис';
 $Definition['New Question'] = 'Нове Запитання';
+$Definition['New Username'] = 'Нове ім\'я користувача';
 $Definition['Next'] = 'Наступне';
 $Definition['Next Page'] = 'Наступна сторінка';
 $Definition['Ninth Anniversary'] = 'Дев\'ята річниця';
@@ -1150,6 +1173,7 @@ $Definition['No items tagged with %s.'] = 'Жодних пунктів з %s.';
 $Definition['None'] = 'Жоден';
 $Definition['No open cases were found.'] = 'Відкритих справ не виявлено.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'У вас немає дозволу видаляти %1$s з вибраних обговорень.';
+$Definition['No reactions yet.'] = 'Реакцій поки немає.';
 $Definition['No results'] = 'Немає результатів';
 $Definition['No results for \'%s\''] = 'Жодного результату для \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Немає результатів для  \'<0/>\'.';
@@ -1166,6 +1190,7 @@ $Definition['Not going'] = 'Не йду';
 $Definition['Notice'] = 'Замітка';
 $Definition['Notification'] = 'Сповіщення';
 $Definition['Notification Preferences'] = 'Налаштування сповіщень';
+$Definition['Notification preferences enabled tooltip'] = 'Щоб сповіщення про нові коментарі та отримання сповіщень електронною поштою стали доступними, потрібно ввімкнути сповіщення про публікації.';
 $Definition['Notifications'] = 'Сповіщення';
 $Definition['Notifications Postmaster'] = 'Повідомлення Postmaster';
 $Definition['Notifictions'] = 'Сповіщення';
@@ -1191,6 +1216,8 @@ $Definition['Notify of all new discussions.'] = 'Повідомляти про �
 $Definition['Notify of all new discussions by email.'] = 'Повідомляти про всі нові обговорення електронною поштою.';
 $Definition['Notify of all new posts.'] = 'Повідомляти про всі нові повідомлення.';
 $Definition['Notify of all new posts by email.'] = 'Повідомляти про всі нові повідомлення електронною поштою.';
+$Definition['Notify of new comments'] = 'Повідомляти про нові коментарі';
+$Definition['Notify of new posts'] = 'Повідомляти про нові публікації';
 $Definition['No Title'] = 'Без заголовку';
 $Definition['Not much happening here, yet.'] = 'Не так багато відбувається тут, поки.';
 $Definition['Not registered?'] = 'Не зареєстровані?';
@@ -1290,6 +1317,13 @@ $Definition['Placeholder'] = 'Заповнювач';
 $Definition['Places'] = 'Місця';
 $Definition['Play the sound again'] = 'Відтворити звук знову';
 $Definition['Play Video'] = 'Програти відео';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Зв’яжіться з нами, якщо у вас виникнуть запитання щодо цього електронного листа.
+
+З повагою,
+%s';
 $Definition['Please join my group.'] = 'Будь ласка, приєднайтеся до моєї <a href="{Url,html}">групи</a>.';
 $Definition['Please join my group: %s'] = 'Будь ласка, приєднайтесь до моєї групи: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Зачекайте, поки ви будете перенаправлені. Якщо ви не перенаправлені, натисніть <a href="%s">тут</a>.';
@@ -1452,6 +1486,7 @@ $Definition['Reputation'] = 'Репутація';
 $Definition['Request a new password'] = 'Запит на новий пароль';
 $Definition['Request a new password →'] = 'Запит на новий пароль →';
 $Definition['Request another password reset.'] = 'Подати ще один запит на відновлення паролю.';
+$Definition['Request Badge'] = 'Запит бейджа';
 $Definition['Reset Password'] = 'Очистити пароль';
 $Definition['Reset Your Password'] = 'Скинути ваш пароль';
 $Definition['Restore'] = 'Відновлення';
@@ -1539,14 +1574,17 @@ $Definition['Select a community.'] = 'Обрати спільноту.';
 $Definition['Select an image on your computer (2mb max)'] = 'Виберіть зображення з вашого комп\'ютера (максимум 2 Мб)';
 $Definition['Select Discussion'] = 'Обрати обговорення';
 $Definition['Select Discussion Type'] = 'Виберіть Тип обговорення';
+$Definition['Select Existing Collections'] = 'Виберіть «Існуючі колекції».';
 $Definition['Select one of the following avatars:'] = 'Виберіть одну аватарку із доступних';
 $Definition['Send'] = 'Надіслати';
 $Definition['Send a New Message'] = 'Відправити Нове повідомлення';
 $Definition['Send me a follow-up for my answered questions.'] = 'Надішліть мені відповідь на мої відповіді на запитання.';
 $Definition['Send Message'] = 'Надіслати повідомлення';
+$Definition['Send notifications as emails'] = 'Надсилати сповіщення електронною поштою';
 $Definition['Send Q&A Follow-up Email'] = 'Надішліть електронний лист із запитаннями та відповідями';
 $Definition['Send Report'] = 'Надіслати звіт';
 $Definition['Send report'] = 'Надіслати звіт';
+$Definition['Send Request'] = 'Відправляти запит';
 $Definition['sep and'] = 'і';
 $Definition['Set a New Warning Level'] = 'Встановити новий рівень попередження';
 $Definition['Set A Password'] = 'Вказати пароль';
@@ -1745,6 +1783,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Відповідь 
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Це налаштування завантажує сторінку до запуску Javascript, що може оптимізувати ваш SEO.<br><strong>**Увага: Увімкнення цієї функції може спричинити помилки в роботі Javascript на вашому сайті.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Сайт захищений reCAPTCHA та Google';
 $Definition['This text has been converted from another format.'] = 'Цей текст конвертовано з іншого формату.';
+$Definition['This user\'s profile is private.'] = 'Профіль цього користувача приватний.';
 $Definition['This user has been banned'] = 'Цього користувача заборонили';
 $Definition['This user has been deleted.'] = 'Цього користувача видалено.';
 $Definition['This user has been marked as a troll.'] = 'Цього користувача було позначено як троля.';
@@ -1761,6 +1800,13 @@ $Definition['Thumbnail for: '] = 'Піктограма для:';
 $Definition['Title'] = 'Заголовок';
 $Definition['title'] = 'назва';
 $Definition['To'] = 'Кому';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Щоб активувати обліковий запис, перейдіть за цим посиланням:
+%s
+
+';
 $Definition['Today'] = 'Сьогодні';
 $Definition['Toggle Category'] = 'Перемкнути категорію';
 $Definition['Toggle full page'] = 'Перемикнути на повну сторінку';
@@ -1806,6 +1852,7 @@ $Definition['Undefined foreign content'] = 'Невизначений чужий 
 $Definition['Undo'] = 'Скасувати';
 $Definition['Undo Follow'] = 'Відмінити слідкування';
 $Definition['Unfollow'] = 'Не слідкувати';
+$Definition['Unfollow Category'] = 'Відписатися від категорії';
 $Definition['Unhide'] = 'Не приховувати';
 $Definition['Unignore'] = 'Не ігнорувати';
 $Definition['UniqueID'] = 'Унікальний ID';

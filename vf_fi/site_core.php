@@ -150,6 +150,7 @@ $Definition['[Deleted User]'] = '[Poistettu käyttäjä]';
 
 $Definition['About'] = 'Jäsentiedot';
 $Definition['About %s users'] = 'Tietoja %s käyttäjistä';
+$Definition['About Me'] = 'Minusta';
 $Definition['About the event'] = 'Tietoja tapahtumasta';
 $Definition['AboutToDelete'] = 'Olet poistamassa tiedoston %s. ';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Olet poistamassa %1$s keskustelua %2$s valitusta keskustelusta. ';
@@ -161,6 +162,7 @@ $Definition['Accept this answer.'] = 'Hyväksy tämä vastaus.';
 $Definition['Access the Site'] = 'Pääsy verkkosivulle';
 $Definition['Access Tokens'] = 'Käyttöoikeustunnukset';
 $Definition['Account & Privacy'] = 'Tili ja tietosuoja';
+$Definition['Account & Privacy Settings'] = 'Tili- ja tietosuoja-asetukset';
 $Definition['Account Options'] = 'Tilin asetukset';
 $Definition['Actions'] = 'Toiminnot';
 $Definition['Activate'] = 'Aktivoi';
@@ -203,6 +205,7 @@ $Definition['Add Note'] = 'Lisää muistutus';
 $Definition['Add People to this Conversation'] = 'Lisää henkilöitä tähän keskusteluun';
 $Definition['Add Route'] = 'Lisää reitti';
 $Definition['Add to Collection'] = 'Lisää kokoelmaan';
+$Definition['Add to Collections'] = 'Lisää kokoelmiin';
 $Definition['Admin'] = 'Ylläpitäjä';
 $Definition['Administrator'] = 'Admin';
 $Definition['Administrator Activity'] = 'Ylläpidon syöte';
@@ -308,6 +311,8 @@ $Definition['Back to Discussions'] = 'Takaisin keskustelulistaukseen';
 $Definition['Back to Profile'] = 'Takaisin profiiliin';
 $Definition['Badge'] = 'Kunniamerkki';
 $Definition['Badge404'] = 'Kunniamerkkiä ei löytynyt.';
+$Definition['Badge is not available.'] = 'Tunnus ei ole saatavilla.';
+$Definition['BadgeReasonPrompt'] = 'Luuletko ansaitsevasi tämän merkin? Kerro meille miksi.';
 $Definition['Badges'] = 'Kunniamerkit';
 $Definition['BadgesModuleTitle'] = 'Kunniamerkit';
 $Definition['BadgesNobody'] = 'Kukaan ei ole ansainnut tätä kunniamerkkiä vielä';
@@ -365,6 +370,7 @@ $Definition['Case Number'] = 'Tapaus numero';
 $Definition['Casual'] = 'Tuttavallinen';
 $Definition['Categories'] = 'Kategoriat';
 $Definition['Categories & Groups'] = 'Kategoriat ja ryhmät';
+$Definition['CategoriesNoFollowed'] = 'Luokkia ei seurannut';
 $Definition['CategoriesShowFollowed'] = 'Näytä vain seurantaan asetetut kategoriat';
 $Definition['CategoriesShowUnfollowed'] = 'Näytä piilotetut kategoriat';
 $Definition['CategoriesViewingAll'] = 'Olet asettanut näkyviin kaikki kategoriat';
@@ -471,10 +477,12 @@ $Definition['Created by %s'] = 'Kehittänyt %s';
 $Definition['Created Date'] = 'Luontipäivä';
 $Definition['Create Discussions'] = 'Aloita uusia keskusteluja';
 $Definition['Created on %s'] = 'Luotu %s';
+$Definition['Create New Collections'] = 'Luo uusia kokoelmia';
 $Definition['Create New Discussion'] = 'Luo uusi keskustelu';
 $Definition['Create One.'] = 'Luo uusi.';
 $Definition['Current'] = 'Nykyinen';
 $Definition['Currently: '] = 'Tällä hetkellä: ';
+$Definition['Current Username'] = 'Nykyinen käyttäjätunnus';
 $Definition['Custom Information'] = 'Muokatut tiedot';
 $Definition['Customize'] = 'Muokkaa';
 $Definition['customize your profile now'] = 'muokkaa profiiliasi nyt';
@@ -546,6 +554,7 @@ $Definition['Discussion Title'] = 'Keskustelun otsikko';
 $Definition['Discussion Type'] = 'Keskustelu';
 $Definition['Dislike'] = 'En tykkääkään';
 $Definition['Dismiss'] = 'Ohita';
+$Definition['Dismissible'] = 'Hylättävä';
 $Definition['Display my email publicly'] = 'Näytä sähköpostini julkisesti';
 $Definition['Display my profile publicly'] = 'Näytä profiilini julkisesti';
 $Definition['Documentation'] = 'Dokumentaatio';
@@ -726,6 +735,7 @@ $Definition['Folder'] = 'Kansio';
 $Definition['Folders'] = 'Kansiot';
 $Definition['Follow'] = 'Seuraa';
 $Definition['Follow %s'] = 'Seuraa käyttäjää %s';
+$Definition['Follow Category'] = 'Seuraa luokkaa';
 $Definition['Followed by %d people'] = 'Seurantaan asettanut %d käyttäjää';
 $Definition['Followed by %d person'] = 'Seurantaan asettanut %d käyttäjää';
 $Definition['followed categories'] = 'seuratut luokat';
@@ -839,6 +849,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Sinua on <a href="{Url,htm
 $Definition['Height (mobile)'] = 'Korkeus (mobiili)';
 $Definition['Hello!'] = 'Hei!';
 $Definition['Hello %s!'] = 'Hei %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Hei,
+
+Sinulle on luotu tili %s-keskusteluryhmässä.
+
+';
 $Definition['Hello {User.Name}!'] = 'Hei {User.Name}!';
 $Definition['Help'] = 'Apua';
 $Definition['Help Menu'] = 'Apua';
@@ -891,6 +910,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Lisää rajoituksia kuvakokoihin kesk
 $Definition['ImageUploadLimits.Width2'] = 'Kuvat pienennetään, mikäli ne ylittävät tämän leveyden.';
 $Definition['Image URL'] = 'Kuvan URL-osoite';
 $Definition['in'] = 'kohteessa';
+$Definition['In <0/>.'] = 'Vuonna <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'Kohteessa <0/> ja viimeaikaisissa keskusteluissa.';
 $Definition['In <b>%s.</b>'] = 'Kohteessa <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = '<b>%s</b> sekä viimeisimmissä keskusteluissa. ';
 $Definition['Inbox'] = 'Privaviestit';
@@ -998,6 +1019,7 @@ $Definition['Loading Modal'] = 'Ladataan modaalista';
 $Definition['Locale'] = 'Sijainti';
 $Definition['Log'] = 'Loki';
 $Definition['log'] = 'loki';
+$Definition['Log in here to update your notification preferences'] = 'Kirjaudu sisään tähän päivittääksesi ilmoitusasetuksesi';
 $Definition['Login with Facebook'] = 'Kirjaudu Facebook-tunnuksella';
 
 $Definition['Major'] = 'Suuri';
@@ -1105,6 +1127,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Viimeisin keskustelu';
 $Definition['Move'] = 'Siirrä';
 $Definition['Moved: %s'] = 'Siirretty: %s';
+$Definition['Move Discussion'] = 'Siirrä keskustelua';
 $Definition['Mute'] = 'Mykistä';
 $Definition['My Account'] = 'Tilini';
 $Definition['My Account Tab'] = 'Tilini-välilehti';
@@ -1147,6 +1170,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Uusi kysely';
 $Definition['New Post'] = 'Uusi julkaisu';
 $Definition['New Question'] = 'Uusi kysymys';
+$Definition['New Username'] = 'Uusi käyttäjätunnus';
 $Definition['Next'] = 'Seuraava';
 $Definition['Next Page'] = 'Seuraava sivu';
 $Definition['Ninth Anniversary'] = 'Yhdeksäs vuosipäivä';
@@ -1163,6 +1187,7 @@ $Definition['No items tagged with %s.'] = 'Tuloksia ei löytynyt tagillä %s.';
 $Definition['None'] = 'Ei mitään';
 $Definition['No open cases were found.'] = 'Avoimia tapauksia ei löytynyt.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Sinulla ei ole oikeuksia poistaa %1$s valituista keskusteluista.';
+$Definition['No reactions yet.'] = 'Ei vielä reaktioita.';
 $Definition['No results'] = 'Ei tuloksia';
 $Definition['No results for \'%s\''] = 'Tuloksia ei löytynyt \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Ei tuloksia kohteelle \'<0/>\'.';
@@ -1179,6 +1204,7 @@ $Definition['Not going'] = 'Ei ole menossa';
 $Definition['Notice'] = 'Ilmoitus';
 $Definition['Notification'] = 'Ilmoitus';
 $Definition['Notification Preferences'] = 'Ilmoitusten asetukset';
+$Definition['Notification preferences enabled tooltip'] = 'Viestin ilmoitukset on otettava käyttöön, ennen kuin uusien kommenttien ilmoitukset ja ilmoitusten vastaanottaminen sähköpostina ovat saatavilla.';
 $Definition['Notifications'] = 'Ilmoitukset';
 $Definition['Notifications Postmaster'] = 'Ilmoitukset Postmaster';
 $Definition['Notifictions'] = 'Huomatukset';
@@ -1204,6 +1230,8 @@ $Definition['Notify of all new discussions.'] = 'Ilmoita kaikista uusista keskus
 $Definition['Notify of all new discussions by email.'] = 'Ilmoita kaikista uusista keskusteluista sähköpostitse.';
 $Definition['Notify of all new posts.'] = 'Ilmoita kaikista uusista viesteistä.';
 $Definition['Notify of all new posts by email.'] = 'Ilmoita kaikista uusista viesteistä sähköpostitse.';
+$Definition['Notify of new comments'] = 'Ilmoita uusista kommenteista';
+$Definition['Notify of new posts'] = 'Ilmoita uusista viesteistä';
 $Definition['No Title'] = 'Ei nimeä';
 $Definition['Not much happening here, yet.'] = 'Ei vielä mitään nähtävää. Korjaa tilanne kommentoimalla?';
 $Definition['Not registered?'] = 'Etkö ole rekisteröitynyt?';
@@ -1303,6 +1331,13 @@ $Definition['Placeholder'] = 'Paikkamerkki';
 $Definition['Places'] = 'Paikat';
 $Definition['Play the sound again'] = 'Soita ääni uudestaan';
 $Definition['Play Video'] = 'Toista video';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Ota meihin yhteyttä, jos sinulla on kysyttävää tästä sähköpostista.
+
+Ystävällisin terveisin
+%s';
 $Definition['Please join my group.'] = 'Liittyisitkö ryhmääni <a href="{Url,html}">group</a>? ';
 $Definition['Please join my group: %s'] = 'Liitythän ryhmääni: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Odota kun sinut uudelleenohjataan. Voit myös klikata  <a href="%s">tästä</a>.';
@@ -1468,6 +1503,7 @@ $Definition['Reputation'] = 'Maine';
 $Definition['Request a new password'] = 'Pyydä uusi salasana';
 $Definition['Request a new password →'] = 'Pyydä uusi salasana →';
 $Definition['Request another password reset.'] = 'Pyydä toista salasanan nollausta.';
+$Definition['Request Badge'] = 'Pyydä merkkiä';
 $Definition['Reset Password'] = 'Nollaa salasana';
 $Definition['Reset Your Password'] = 'Uudista salasanasi';
 $Definition['Restore'] = 'Palauta';
@@ -1555,14 +1591,17 @@ $Definition['Select a community.'] = 'Valitse yhteisö';
 $Definition['Select an image on your computer (2mb max)'] = 'Valitse siirrettävä kuva (2mb max)';
 $Definition['Select Discussion'] = 'Valitse keskustelu';
 $Definition['Select Discussion Type'] = 'Valitse Keskustelutyyppi';
+$Definition['Select Existing Collections'] = 'Valitse Olemassa olevat kokoelmat';
 $Definition['Select one of the following avatars:'] = 'Valitse yksi seuraavista profiilikuvista:';
 $Definition['Send'] = 'Lähetä';
 $Definition['Send a New Message'] = 'Lähetä uusi viesti';
 $Definition['Send me a follow-up for my answered questions.'] = 'Lähetä minulle vastaus kysymyksiini.';
 $Definition['Send Message'] = 'Lähetä viesti';
+$Definition['Send notifications as emails'] = 'Lähetä ilmoituksia sähköpostina';
 $Definition['Send Q&A Follow-up Email'] = 'Lähetä kysymysten ja vastausten seurantasähköposti';
 $Definition['Send Report'] = 'Raportoi';
 $Definition['Send report'] = 'Raportoi';
+$Definition['Send Request'] = 'Lähetä pyyntö';
 $Definition['sep and'] = 'ja';
 $Definition['Set a New Warning Level'] = 'Aseta uusi varoitustaso';
 $Definition['Set A Password'] = 'Aseta salasana';
@@ -1775,6 +1814,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Vastaus kysymykseen
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Tämä asetus lataa sivun ennen SEO:tasi parantavan Javascriptin käynnistämistä.<br><strong>**Varoitus: tämän ominaisuuden käyttöönotto voi aiheuttaa Javascript-häiriöitä sivullasi.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Sivusto on reCAPTCHA:n ja Googlen suojaama';
 $Definition['This text has been converted from another format.'] = 'Tämä teksti on muunnettu toisesta muodosta.';
+$Definition['This user\'s profile is private.'] = 'Tämän käyttäjän profiili on yksityinen.';
 $Definition['This user has been banned'] = 'Tämä käyttäjä on kielletty';
 $Definition['This user has been deleted.'] = 'Tämä käyttäjä on poistettu.';
 $Definition['This user has been marked as a troll.'] = 'Tämä käyttäjä on merkattu trolliksi.';
@@ -1791,6 +1831,13 @@ $Definition['Thumbnail for: '] = 'Pienoiskuva kohteelle:';
 $Definition['Title'] = 'Otsikko';
 $Definition['title'] = 'otsikko';
 $Definition['To'] = 'Vastaanottaja';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Aktivoi tilisi seuraamalla tätä linkkiä:
+%s
+
+';
 $Definition['Today'] = 'Tänään';
 $Definition['Toggle Category'] = 'Vaihda valinnaksi kategoria';
 $Definition['Toggle full page'] = 'Laita koko sivun näyttö päälle';
@@ -1836,6 +1883,7 @@ $Definition['Undefined foreign content'] = 'Määrittelemätön vieras sisältö
 $Definition['Undo'] = 'Kumoa';
 $Definition['Undo Follow'] = 'Peru seuranta';
 $Definition['Unfollow'] = 'Poista seurannasta';
+$Definition['Unfollow Category'] = 'Lopeta luokan seuraaminen';
 $Definition['Unhide'] = 'Poista piilotetuista';
 $Definition['Unignore'] = 'Näe käyttäjän viestit';
 $Definition['UniqueID'] = 'AinutlaatuinenID';

@@ -206,7 +206,7 @@ $Definition['Add Note'] = 'Agregar nota';
 $Definition['Add People to this Conversation'] = 'Agregar personas a esta conversación';
 $Definition['Add Route'] = 'Agregar ruta';
 $Definition['Add to Collection'] = 'Añadir a la colección.';
-$Definition['Add to Collections'] = 'Añadir a colecciones';
+$Definition['Add to Collections'] = 'Agregar a Colecciones';
 $Definition['Admin'] = 'Administrador';
 $Definition['Administrator'] = 'Administrador';
 $Definition['Administrator Activity'] = 'Administrador de actividad';
@@ -316,7 +316,7 @@ $Definition['Back to Profile'] = 'Volver al Perfil';
 $Definition['Badge'] = 'Medalla';
 $Definition['Badge404'] = 'Medalla no encontrada.';
 $Definition['Badge is not available.'] = 'La insignia no está disponible.';
-$Definition['BadgeReasonPrompt'] = '¿Crees que mereces esta insignia? Dinos por qué.';
+$Definition['BadgeReasonPrompt'] = '¿Crees que te mereces esta insignia? Dinos por qué.';
 $Definition['Badges'] = 'Medallas';
 $Definition['BadgesModuleTitle'] = 'Medallas';
 $Definition['BadgesNobody'] = 'Nadie ha conseguido esta medalla aún.';
@@ -370,7 +370,7 @@ $Definition['Cancel'] = 'Cancelar';
 $Definition['Case Number'] = 'Número de caso';
 $Definition['Categories'] = 'Categorías';
 $Definition['Categories & Groups'] = 'Categorías y grupos';
-$Definition['CategoriesNoFollowed'] = 'No sigues ninguna categoría';
+$Definition['CategoriesNoFollowed'] = 'No se siguen categorías';
 $Definition['CategoriesShowFollowed'] = 'Solo mostrar las categorías que sigo ';
 $Definition['CategoriesShowUnfollowed'] = 'Mostrar categorías ocultas';
 $Definition['CategoriesViewingAll'] = 'Actualmente estás viendo todas las categorías. ';
@@ -852,7 +852,7 @@ An account has been created for you at the %s forum.
 
 '] = 'Hola,
 
-Se ha creado una cuenta para ti en el foro %s.
+Se ha creado una cuenta para usted en el foro de %s.
 
 ';
 $Definition['Hello {User.Name}!'] = '¡Hola {User.Name}!';
@@ -1022,7 +1022,7 @@ $Definition['Loading Modal'] = 'Cargando modal';
 $Definition['Locale'] = 'Lenguaje local';
 $Definition['Log'] = 'Registro';
 $Definition['log'] = 'registro';
-$Definition['Log in here to update your notification preferences'] = 'Inicia sesión aquí para actualizar tus preferencias de notificación';
+$Definition['Log in here to update your notification preferences'] = 'Inicie sesión aquí para actualizar sus preferencias de notificación';
 $Definition['Login with Facebook'] = 'Acceder con Facebook';
 $Definition['LOL'] = 'jajaja';
 
@@ -1213,7 +1213,7 @@ $Definition['Not going'] = 'No asistiré';
 $Definition['Notice'] = 'Aviso';
 $Definition['Notification'] = 'Notificación';
 $Definition['Notification Preferences'] = 'Preferencias de notificaciones';
-$Definition['Notification preferences enabled tooltip'] = 'Las notificaciones de publicaciones deben estar habilitadas antes de que las notificaciones de nuevos comentarios y la recepción de notificaciones por correo electrónico estén disponibles.';
+$Definition['Notification preferences enabled tooltip'] = 'Las notificaciones de publicación deben estar habilitadas antes de recibir notificaciones de comentarios nuevos y recibir notificaciones a medida que los correos electrónicos estén disponibles.';
 $Definition['Notifications'] = 'Notificaciones';
 $Definition['Notifications Postmaster'] = 'Administrador de correos de notificaciones';
 $Definition['Notifictions'] = 'Notificciones';
@@ -1342,9 +1342,9 @@ $Definition['Play Video'] = 'Reproducir video';
 $Definition['Please contact us if you have questions regarding this email.
 
 Sincerely,
-%s'] = 'Por favor, contacta con nosotros si tienes preguntas respecto a este correo.
+%s'] = 'Comuníquese con nosotros si tiene preguntas sobre este correo electrónico.
 
-Sinceramente,
+Atentamente,
 %s';
 $Definition['Please join my group.'] = 'Por favor, únete a mi <a href="{Url,html}">grupo</a>.';
 $Definition['Please join my group: %s'] = 'Por favor, únase a mi grupo: %s';
@@ -1607,7 +1607,7 @@ $Definition['Send notifications as emails'] = 'Enviar notificaciones como correo
 $Definition['Send Q&A Follow-up Email'] = 'Enviar correo electrónico de seguimiento de preguntas y respuestas';
 $Definition['Send Report'] = 'Enviar informe';
 $Definition['Send report'] = 'Enviar un informe';
-$Definition['Send Request'] = 'Enviar solicitud';
+$Definition['Send Request'] = 'Enviar petición';
 $Definition['sep and'] = 'y';
 $Definition['Set a New Warning Level'] = 'Colocar un nuevo nivel de advertencia ';
 $Definition['Set A Password'] = 'Crear una contraseña';
@@ -1829,7 +1829,7 @@ $Definition['To'] = 'Para';
 $Definition['To activate your account, please follow this link:
 %s
 
-'] = 'Para activar tu cuenta, por favor sigue este enlace:
+'] = 'Para activar su cuenta, siga este enlace:
 %s
 
 ';
@@ -1972,7 +1972,6 @@ $Definition['View All'] = 'Ver todos';
 $Definition['View all going attendees'] = 'Ver todos los asistentes';
 $Definition['View all maybe attendees'] = 'Ver todos los posibles asistentes';
 $Definition['View all not going attendees'] = 'Ver todos los no asistentes';
-$Definition['View all notification preferences'] = 'Ver todas las preferencias de notificación';
 $Definition['View all open cases'] = 'Ver todos los casos abiertos';
 $Definition['View Badge'] = 'Ver medalla';
 $Definition['Viewing'] = 'Visualizando';

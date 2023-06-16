@@ -44,6 +44,7 @@ $Definition['Applicant Role'] = 'Select the role that should be applied for new 
 $Definition['Applied On'] = 'petsa';
 $Definition['Apply additional classes on catalogue image.'] = 'Maglagay ng mga karagdagang klase sa larawan ng katalogo. Gumamit ng espasyo para paghiwalayin ang bawat klase.';
 $Definition['Apply to subcategories'] = 'Ilapat sa mga subcategory';
+$Definition['Assign to'] = 'Italaga sa';
 $Definition['Automatically Save Drafts'] = 'Awtomatikong I-save ang Mga Draft';
 $Definition['Avatar Dimensions'] = 'Mga Dimensyon ng Avatar';
 $Definition['Avatars'] = 'Mga Avatar';
@@ -77,6 +78,7 @@ $Definition['Choose Avatar'] = 'Pumili ng Avatar';
 $Definition['Choose how many records to display.'] = 'Piliin kung ilang record ang ipapakita.';
 $Definition['Choose when to load records from.'] = 'Piliin kung kailan mai-load ang mga tala mula sa.';
 $Definition['Class'] = 'Klase';
+$Definition['Clear All'] = 'Alisin lahat';
 $Definition['Colored'] = 'May kulay';
 $Definition['Condition Expression'] = 'Halaga';
 $Definition['Condition Field'] = 'Field';
@@ -150,6 +152,7 @@ $Definition['Flagged By'] = 'Na-flag Ni';
 $Definition['Flagged Content'] = 'Na-flag na Nilalaman';
 $Definition['Follow Up Delay'] = 'Sundin ang Pag-antala';
 $Definition['Forbidden words'] = 'Mga Ipinagbabawal na salita';
+$Definition['For example, to allow yourdomain.com, www.yourdomain.com, and help.yourdomain.com, you would add *.yourdomain.com'] = 'Halimbawa, upang payagan ang yourdomain.com, www.yourdomain.com, at help.yourdomain.com, idaragdag mo ang *.yourdomain.com';
 $Definition['Formats'] = 'Mga format';
 $Definition['Formatting Posts'] = 'Nagfo-format ng Mga Post';
 $Definition['Forum Data'] = 'Datos Mula sa Forum';
@@ -275,6 +278,7 @@ $Definition['Preload'] = 'Mag-preload';
 $Definition['Preview Colors'] = 'Pagsilip sa mga Kulay';
 $Definition['Private Communities'] = 'Mga Pribadong Komunidad';
 $Definition['private conversation(s)'] = 'pribadong (mga) pag-uusap';
+$Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'Dapat tanggalin ang mga protocol (hal. https://) at mga path (hal. yourdomain.com/some/path).';
 
 $Definition['QnAFollowup.Feature.Enabled'] = 'Ang tampok na ito ay nagpapadala ng mga email sa mga may-akda ng mga nasagot na katanungan na walang tinanggap na sagot.';
 
@@ -286,6 +290,7 @@ $Definition['Reload the page to access recent updates.'] = 'I-reload ang page pa
 $Definition['Reload the page to see recent updates.'] = 'I-reload ang page para makita ang mga kamakailang update.';
 $Definition['Remove Email Logo'] = 'Alisin ang Logo ng Email';
 $Definition['reply to private conversation(s)'] = 'sumagot sa pribadong (mga) pag-uusap';
+$Definition['Requests'] = 'Mga kahilingan';
 $Definition['Reset'] = 'I-reset';
 $Definition['Revert'] = 'Bumalik';
 $Definition['Revert to Original Version'] = 'Bumalik sa Orihinal na Bersiyon';
@@ -418,6 +423,7 @@ $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'If
 $Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
 $Definition['You can protect your site with an HTTP username/password during development.'] = 'Maaari mong protektahan ang iyong site gamit ang HTTP username/password sa panahon nang pag-develop.';
 $Definition['You can send emails in plain text by disabling the toggle below.'] = 'Maaari kang magpadala ng mga email sa simpleng teksto sa pamamagitan ng hindi pagpapagana sa toggle sa ibaba.';
+$Definition['You can specify an allow list of trusted domains.'] = 'Maaari kang tumukoy ng listahan ng mga pinagkakatiwalaang domain na ligtas para sa mga pag-redirect at pag-embed.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Maaari kang tumukoy ng allow list ng mga pinagkakatiwalaang domain (hal. yourdomain.com) na ligtas na mag-load ng javascript.';
 $Definition['Your default locale won\'t display properly'] = 'Your default locale won\'t display properly until it is enabled below. Please enable the following: %s.';
 $Definition['Your Email'] = 'Ang Iyong Email';

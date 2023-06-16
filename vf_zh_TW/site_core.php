@@ -151,6 +151,7 @@ $Definition['[Deleted User]'] = '[已刪除的用戶]';
 
 $Definition['About'] = '紀錄';
 $Definition['About %s users'] = '約 %s 位使用者';
+$Definition['About Me'] = '關於我';
 $Definition['About the event'] = '關於活動';
 $Definition['AboutToDelete'] = '您將刪除 %s。';
 $Definition['AboutToDeleteSelectedDiscussions'] = '您即將刪除選定討論 %2$s 的 %1$s。';
@@ -162,6 +163,7 @@ $Definition['Accept this answer.'] = '認可該回答。';
 $Definition['Access the Site'] = '到訪網站';
 $Definition['Access Tokens'] = '存取權杖';
 $Definition['Account & Privacy'] = '帳戶和隱私';
+$Definition['Account & Privacy Settings'] = '帳戶和隱私設置';
 $Definition['Account Options'] = '帳號選項';
 $Definition['Actions'] = '活動';
 $Definition['Activate'] = '啟用';
@@ -204,6 +206,7 @@ $Definition['Add Note'] = '新增註釋';
 $Definition['Add People to this Conversation'] = '邀請其他人參與對話';
 $Definition['Add Route'] = '新增路徑';
 $Definition['Add to Collection'] = '添加到收藏。';
+$Definition['Add to Collections'] = '添加到集合';
 $Definition['Admin'] = '管理';
 $Definition['Administrator'] = '管理員';
 $Definition['Administrator Activity'] = '管理員活動';
@@ -309,6 +312,8 @@ $Definition['Back to Discussions'] = '返回討論';
 $Definition['Back to Profile'] = '返回個人檔案';
 $Definition['Badge'] = '徽章';
 $Definition['Badge404'] = '沒找到徽章。';
+$Definition['Badge is not available.'] = '徽章不可用。';
+$Definition['BadgeReasonPrompt'] = '認為你配得上這枚徽章？告訴我們為什麼。';
 $Definition['Badges'] = '徽章';
 $Definition['BadgesModuleTitle'] = '徽章';
 $Definition['BadgesNobody'] = '還沒有人獲得過此徽章。';
@@ -366,6 +371,7 @@ $Definition['Case Number'] = '案件編號';
 $Definition['Casual'] = '隨機的';
 $Definition['Categories'] = '分類';
 $Definition['Categories & Groups'] = '類別和群組';
+$Definition['CategoriesNoFollowed'] = '未關注任何類別';
 $Definition['CategoriesShowFollowed'] = '僅顯示關注類別';
 $Definition['CategoriesShowUnfollowed'] = '顯示隱藏類別';
 $Definition['CategoriesViewingAll'] = '當前您正在查看所有類別。';
@@ -472,11 +478,13 @@ $Definition['Created by %s'] = '由 %s 建立';
 $Definition['Created Date'] = '創建日期';
 $Definition['Create Discussions'] = '新增貼文';
 $Definition['Created on %s'] = '建立於 %s';
+$Definition['Create New Collections'] = '創建新集合';
 $Definition['Create New Discussion'] = '建立新討論
 ';
 $Definition['Create One.'] = '建立一個。';
 $Definition['Current'] = '現在';
 $Definition['Currently: '] = '現在：';
+$Definition['Current Username'] = '當前用戶名';
 $Definition['Custom Information'] = '自訂資訊';
 $Definition['Customize'] = '自訂';
 $Definition['customize your profile now'] = '現在就自訂您的個人檔';
@@ -724,6 +732,7 @@ $Definition['Folder'] = '資料夾';
 $Definition['Folders'] = '資料夾';
 $Definition['Follow'] = '訂閱';
 $Definition['Follow %s'] = '訂閱 %s';
+$Definition['Follow Category'] = '關注類別';
 $Definition['Followed by %d people'] = '有 %d 人訂閱';
 $Definition['Followed by %d person'] = '有 %d 人訂閱';
 $Definition['followed categories'] = '關注的分類';
@@ -837,6 +846,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '你已被 <a href="{Url,ht
 $Definition['Height (mobile)'] = '身高（移動）';
 $Definition['Hello!'] = '哈囉！';
 $Definition['Hello %s!'] = '哈囉 %s！';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = '您好，
+
+已在 %s 論壇為您創建了一個帳戶。
+
+';
 $Definition['Hello {User.Name}!'] = '哈囉 {User.Name}！';
 $Definition['Help'] = '幫助';
 $Definition['Help Menu'] = '幫助';
@@ -891,6 +909,8 @@ $Definition['ImageUploadLimits.Notes2'] = '在討論和留言中加入圖像上�
 $Definition['ImageUploadLimits.Width2'] = '如果圖像超過此寬度，將被縮小尺寸。';
 $Definition['Image URL'] = '圖片網址';
 $Definition['in'] = '於';
+$Definition['In <0/>.'] = '在<0/>。';
+$Definition['In <0/> and recent discussions.'] = '在 <0/> 和最近的討論中。';
 $Definition['In <b>%s.</b>'] = '在<b>%s。</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = '在<b>%s</b>和最近的討論。';
 $Definition['Inbox'] = '收件匣';
@@ -998,6 +1018,7 @@ $Definition['Loading Modal'] = '正在載入強制回應';
 $Definition['Locale'] = '區域設置';
 $Definition['Log'] = '記錄';
 $Definition['log'] = '日誌';
+$Definition['Log in here to update your notification preferences'] = '在此處登錄以更新您的通知首選項';
 $Definition['Login with Facebook'] = '使用 Facebook 登入';
 $Definition['LOL'] = '大笑';
 
@@ -1107,6 +1128,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = '最新的討論';
 $Definition['Move'] = '移動';
 $Definition['Moved: %s'] = '已移動：%s';
+$Definition['Move Discussion'] = '移動討論';
 $Definition['Mute'] = '靜音';
 $Definition['My Account'] = '我的帳戶';
 $Definition['My Account Tab'] = '我的帳戶標籤';
@@ -1152,6 +1174,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = '新增投票';
 $Definition['New Post'] = '新貼文';
 $Definition['New Question'] = '新問題';
+$Definition['New Username'] = '新用戶名';
 $Definition['Next'] = '下一個';
 $Definition['Next Page'] = '下一頁';
 $Definition['Ninth Anniversary'] = '九週年紀念';
@@ -1168,6 +1191,7 @@ $Definition['No items tagged with %s.'] = '沒有項目使用標籤 %s';
 $Definition['None'] = '無';
 $Definition['No open cases were found.'] = '找不到未解決的案例。';
 $Definition['NoPermissionToDeleteDiscussions'] = '您沒有權限刪除選定討論的 %1$s 。';
+$Definition['No reactions yet.'] = '還沒有反應。';
 $Definition['No results'] = '沒有結果';
 $Definition['No results for \'%s\''] = ' \'%s\' 沒有任何結果';
 $Definition['No results for \'<0/>\'.'] = '沒有「<0/>」的結果。';
@@ -1184,6 +1208,7 @@ $Definition['Not going'] = '不去';
 $Definition['Notice'] = '通告';
 $Definition['Notification'] = '通知';
 $Definition['Notification Preferences'] = '通知偏好設定';
+$Definition['Notification preferences enabled tooltip'] = '必須在新評論通知和電子郵件可用時接收通知之前啟用發布通知。';
 $Definition['Notifications'] = '通知';
 $Definition['Notifications Postmaster'] = '通知郵局局長';
 $Definition['Notifictions'] = '通知';
@@ -1209,6 +1234,8 @@ $Definition['Notify of all new discussions.'] = '通知所有新的討論。';
 $Definition['Notify of all new discussions by email.'] = '通過電子郵件通知所有新討論。';
 $Definition['Notify of all new posts.'] = '通知所有新帖子。';
 $Definition['Notify of all new posts by email.'] = '通過電子郵件通知所有新帖子。';
+$Definition['Notify of new comments'] = '通知新評論';
+$Definition['Notify of new posts'] = '通知新職位';
 $Definition['No Title'] = '無標題';
 $Definition['Not much happening here, yet.'] = '這裡（暫時）什麼也沒發生。';
 $Definition['Not registered?'] = '尚未註冊？';
@@ -1309,6 +1336,13 @@ $Definition['Placeholder'] = '占位符';
 $Definition['Places'] = '地點';
 $Definition['Play the sound again'] = '再次播放聲音';
 $Definition['Play Video'] = '播放影片';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = '如果您對此電子郵件有任何疑問，請聯繫我們。
+
+此致，
+%s';
 $Definition['Please join my group.'] = '請加入我的<a href="{Url,html}">群組</a>。';
 $Definition['Please join my group: %s'] = '請加入我的群組：%s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '頁面切換中，請稍候。如果等待太久，請直接點選 <a href="%s">這裡</a>';
@@ -1475,6 +1509,7 @@ $Definition['Reputation'] = '聲望';
 $Definition['Request a new password'] = '遺忘密碼';
 $Definition['Request a new password →'] = '遺忘密碼';
 $Definition['Request another password reset.'] = '再次申請密碼重設';
+$Definition['Request Badge'] = '請求徽章';
 $Definition['Reset Password'] = '重置密碼';
 $Definition['Reset Your Password'] = '重設你的密碼';
 $Definition['Restore'] = '還原';
@@ -1562,14 +1597,17 @@ $Definition['Select a community.'] = '選擇一個社群。';
 $Definition['Select an image on your computer (2mb max)'] = '從電腦中選擇一張圖片(最大 2mb)';
 $Definition['Select Discussion'] = '選取討論';
 $Definition['Select Discussion Type'] = '選擇討論類型';
+$Definition['Select Existing Collections'] = '選擇現有集合';
 $Definition['Select one of the following avatars:'] = '請從下列頭像中選擇一個：';
 $Definition['Send'] = '傳送';
 $Definition['Send a New Message'] = '發送新信息';
 $Definition['Send me a follow-up for my answered questions.'] = '給我跟進我回答的問題。';
 $Definition['Send Message'] = '發送訊息';
+$Definition['Send notifications as emails'] = '以電子郵件形式發送通知';
 $Definition['Send Q&A Follow-up Email'] = '發送問答後續電子郵件';
 $Definition['Send Report'] = '發送報告';
 $Definition['Send report'] = '發送報告';
+$Definition['Send Request'] = '發送請求';
 $Definition['sep and'] = '與';
 $Definition['Set a New Warning Level'] = '設置新警告級別';
 $Definition['Set A Password'] = '設置密碼';
@@ -1774,6 +1812,7 @@ $Definition['This question\'s answer has been accepted.'] = '該問題的回答�
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = '此設定會在執行 Javascript 之前先載入頁面以改善您的 SEO。<br><strong>**警告：啟用本功能可能會在您的網站上導致 Javascript 錯誤。**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = '這個網站受到 reCAPTCHA 和 Google 的保護';
 $Definition['This text has been converted from another format.'] = '此文本已從另一種格式轉換而來。';
+$Definition['This user\'s profile is private.'] = '該用戶的個人資料是私人的。';
 $Definition['This user has been banned'] = '該用戶已被禁止';
 $Definition['This user has been deleted.'] = '該用戶已被刪除。';
 $Definition['This user has been marked as a troll.'] = '此使用者已被標示為搗亂者。';
@@ -1791,6 +1830,13 @@ $Definition['Title'] = '標題';
 $Definition['title'] = '標題';
 $Definition['TLS'] = '傳輸層安全';
 $Definition['To'] = '至';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = '要激活您的帳戶，請點擊此鏈接:
+%s
+
+';
 $Definition['Today'] = '今日';
 $Definition['Toggle Category'] = '切換類別';
 $Definition['Toggle full page'] = '切換全頁';
@@ -1836,6 +1882,7 @@ $Definition['Undefined foreign content'] = '未定義的無關內容';
 $Definition['Undo'] = '復原';
 $Definition['Undo Follow'] = '取消訂閱';
 $Definition['Unfollow'] = '未關注';
+$Definition['Unfollow Category'] = '取消關注類別';
 $Definition['Unhide'] = '顯示';
 $Definition['Unignore'] = '不忽略';
 $Definition['UniqueID'] = '獨特 ID';

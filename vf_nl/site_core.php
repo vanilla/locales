@@ -149,6 +149,7 @@ $Definition['[Deleted User]'] = '[Verwijderde Gebruiker]';
 
 $Definition['About'] = 'Over';
 $Definition['About %s users'] = 'Over %s gebruikers';
+$Definition['About Me'] = 'Over mij';
 $Definition['About the event'] = 'Over het evenement';
 $Definition['AboutToDelete'] = 'Je staat op het punt om %s te verwijderen.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Je staat op het punt om %1$s van de %2$s geselecteerde gesprekken te verwijderen.';
@@ -160,6 +161,7 @@ $Definition['Accept this answer.'] = 'Keur dit antwoord goed.';
 $Definition['Access the Site'] = 'Ga naar de site ';
 $Definition['Access Tokens'] = 'Toegangstokens';
 $Definition['Account & Privacy'] = 'Rekening & Privacy';
+$Definition['Account & Privacy Settings'] = 'Account- en privacyinstellingen';
 $Definition['Account Options'] = 'Accountopties';
 $Definition['Actions'] = 'Acties';
 $Definition['Activate'] = 'Activeren';
@@ -202,6 +204,7 @@ $Definition['Add Note'] = 'Voeg aantekening toe';
 $Definition['Add People to this Conversation'] = 'Voeg Mensen toe aan dit Gesprek';
 $Definition['Add Route'] = 'Voeg Route toe';
 $Definition['Add to Collection'] = 'Voeg aan collectie toe.';
+$Definition['Add to Collections'] = 'Toevoegen aan collecties';
 $Definition['Admin'] = 'Administrator';
 $Definition['Administrator'] = 'Beheerder';
 $Definition['Administrator Activity'] = 'Administrator Activiteiten';
@@ -306,6 +309,8 @@ $Definition['Back to Discussions'] = 'Terug naar Discussies';
 $Definition['Back to Profile'] = 'Terug naar Profiel';
 $Definition['Badge'] = 'Insigne';
 $Definition['Badge404'] = 'Badge niet gevonden.';
+$Definition['Badge is not available.'] = 'Kenteken is niet beschikbaar.';
+$Definition['BadgeReasonPrompt'] = 'Denk je dat je deze badge verdient? Vertel ons waarom.';
 $Definition['Badges'] = 'Insignes';
 $Definition['BadgesModuleTitle'] = 'Insignes';
 $Definition['BadgesNobody'] = 'Nog niemand heeft deze badge verdiend.';
@@ -359,6 +364,7 @@ $Definition['Case Number'] = 'Zaaknummer';
 $Definition['Casual'] = 'toevallig';
 $Definition['Categories'] = 'Categorieën';
 $Definition['Categories & Groups'] = 'Categorieën & groepen';
+$Definition['CategoriesNoFollowed'] = 'Geen categorieën gevolgd';
 $Definition['CategoriesShowFollowed'] = 'Toon alleen gevolgde categorieën';
 $Definition['CategoriesShowUnfollowed'] = 'Toon verborgen categorieën';
 $Definition['CategoriesViewingAll'] = 'Je bekijkt momenteel alle categorieën.';
@@ -465,10 +471,12 @@ $Definition['Created by %s'] = 'Gemaakt door %s';
 $Definition['Created Date'] = 'Gemaakt op';
 $Definition['Create Discussions'] = 'Maak discussies';
 $Definition['Created on %s'] = 'Aangemaakt op %s';
+$Definition['Create New Collections'] = 'Nieuwe collecties maken';
 $Definition['Create New Discussion'] = 'Maak een nieuwe discussie aan';
 $Definition['Create One.'] = 'Maak er één aan.';
 $Definition['Current'] = 'Huidig';
 $Definition['Currently: '] = 'Momenteel:';
+$Definition['Current Username'] = 'Huidige gebruikersnaam';
 $Definition['Custom Information'] = 'Aangepaste Informate';
 $Definition['Customize'] = 'Aanpassen';
 $Definition['customize your profile now'] = 'pas je profiel nu aan';
@@ -716,6 +724,7 @@ $Definition['Folder'] = 'Map';
 $Definition['Folders'] = 'Mappen';
 $Definition['Follow'] = 'Volg';
 $Definition['Follow %s'] = 'Volg %s';
+$Definition['Follow Category'] = 'Categorie volgen';
 $Definition['Followed by %d people'] = 'Gevolgd door %d mensen';
 $Definition['Followed by %d person'] = 'Gevolgd door %d persoon';
 $Definition['followed categories'] = 'gevolgde categorieën';
@@ -828,6 +837,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Je bent <a href="{Url,html
 $Definition['Height (mobile)'] = 'Hoogte (mobiel)';
 $Definition['Hello!'] = 'Hallo! ';
 $Definition['Hello %s!'] = 'Hallo %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Hallo,
+
+Er is een account voor je aangemaakt op het %s forum.
+
+';
 $Definition['Hello {User.Name}!'] = 'Hallo {User.Name}!';
 $Definition['Help Menu'] = 'Help';
 $Definition['her'] = 'haar';
@@ -880,6 +898,8 @@ $Definition['ImageUploadLimits.Notes1'] = 'Schakel uploadlimiet voor afbeeldinge
 $Definition['ImageUploadLimits.Notes2'] = 'Limieten toevoegen aan dimensies voor het uploaden van afbeeldingen in discussies en opmerkingen.';
 $Definition['ImageUploadLimits.Width2'] = 'Afbeeldingen worden verkleind als ze deze breedte overschrijden.';
 $Definition['Image URL'] = 'Beeld URL';
+$Definition['In <0/>.'] = 'Op <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'In <0/> en recente discussies.';
 $Definition['In <b>%s</b> and recent discussions.'] = 'In <b>%s</b> en recente discussies.';
 $Definition['Incorrect. Try again.'] = 'Onjuist. Probeer het nogmaals.';
 $Definition['Indent'] = 'Inspringing';
@@ -983,6 +1003,7 @@ $Definition['Locale'] = 'Taalgebied
 ';
 $Definition['Log'] = 'Aanmelden';
 $Definition['log'] = 'aanmelden';
+$Definition['Log in here to update your notification preferences'] = 'Log hier in om uw meldingsvoorkeuren bij te werken';
 $Definition['Login with Facebook'] = 'Log in met Facebook';
 
 $Definition['Major'] = 'Belangrijk';
@@ -1086,6 +1107,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Meest recente discussie';
 $Definition['Move'] = 'Verplaatsen';
 $Definition['Moved: %s'] = 'Verplaatst: %s';
+$Definition['Move Discussion'] = 'Discussie verplaatsen';
 $Definition['Mute'] = 'Dempen';
 $Definition['My Account'] = 'Mijn account';
 $Definition['My Account Tab'] = 'Mijn accounttabblad';
@@ -1129,6 +1151,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Nieuwe Poll';
 $Definition['New Post'] = 'Nieuw bericht';
 $Definition['New Question'] = 'Nieuwe vraag';
+$Definition['New Username'] = 'Nieuwe gebruikersnaam';
 $Definition['Next'] = 'Volgende';
 $Definition['Next Page'] = 'Volgende pagina';
 $Definition['Ninth Anniversary'] = 'Negende Verjaardag';
@@ -1145,6 +1168,7 @@ $Definition['No items tagged with %s.'] = 'Geen items getagd met %s.';
 $Definition['None'] = 'Geen';
 $Definition['No open cases were found.'] = 'Er zijn geen openstaande zaken gevonden.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Je hebt geen toestemming om %1$s van de geselecteerde gesprekken te verwijderen.';
+$Definition['No reactions yet.'] = 'Nog geen reacties.';
 $Definition['No results'] = 'Geen resultaten';
 $Definition['No results for \'%s\''] = 'Geen resultaten voor \'%s\'.';
 $Definition['No results for \'<0/>\'.'] = 'Geen resultaten voor \'<0/>\'.';
@@ -1161,6 +1185,7 @@ $Definition['Not going'] = 'Gaat niet';
 $Definition['Notice'] = 'Aankondiging';
 $Definition['Notification'] = 'Notificatie';
 $Definition['Notification Preferences'] = 'Notificatievoorkeuren';
+$Definition['Notification preferences enabled tooltip'] = 'Berichtmeldingen moeten zijn ingeschakeld voordat nieuwe reactiemeldingen en het ontvangen van meldingen als e-mail beschikbaar zijn.';
 $Definition['Notifications'] = 'Notificaties';
 $Definition['Notifications Postmaster'] = 'Meldingen Postmaster';
 $Definition['Notifictions'] = 'Notificaties';
@@ -1186,6 +1211,8 @@ $Definition['Notify of all new discussions.'] = 'Breng alle nieuwe discussies op
 $Definition['Notify of all new discussions by email.'] = 'Houd per e-mail op de hoogte van alle nieuwe discussies.';
 $Definition['Notify of all new posts.'] = 'Breng op de hoogte van alle nieuwe berichten.';
 $Definition['Notify of all new posts by email.'] = 'Houd per e-mail op de hoogte van alle nieuwe berichten.';
+$Definition['Notify of new comments'] = 'Meld nieuwe reacties';
+$Definition['Notify of new posts'] = 'Meld nieuwe berichten';
 $Definition['No Title'] = 'Geen Titel';
 $Definition['Not much happening here, yet.'] = 'Hier gebeurt nog niet heel veel.';
 $Definition['Not registered?'] = 'Niet aangemeld?';
@@ -1281,6 +1308,13 @@ $Definition['Placeholder'] = 'Tijdelijke aanduiding';
 $Definition['Places'] = 'Plaatsen';
 $Definition['Play the sound again'] = 'Laat het geluid nogmaals horen';
 $Definition['Play Video'] = 'Video afspelen';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Neem contact met ons op als u vragen heeft over deze e-mail.
+
+Met vriendelijke groet,
+%s';
 $Definition['Please join my group.'] = 'Neem deel aan mijn <a href="{Url,html}">groep</a>. ';
 $Definition['Please join my group: %s'] = 'Voeg je bij mijn groep: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Je wordt doorgestuurd, even geduld alsjeblieft. Als je niet wordt doorgestuurd, klik dan  <a href="%s">hier</a>.';
@@ -1442,6 +1476,7 @@ $Definition['Reputation'] = 'Reputatie';
 $Definition['Request a new password'] = 'Vraag een nieuw wachtwoord aan';
 $Definition['Request a new password →'] = 'Vraag een nieuw wachtwoord aan →';
 $Definition['Request another password reset.'] = 'Verzoek nog een wachtwoord reset.';
+$Definition['Request Badge'] = 'Badge aanvragen';
 $Definition['Reset Password'] = 'Reset Wachtwoord';
 $Definition['Reset Your Password'] = 'Stel je wachtwoord opnieuw in ';
 $Definition['Restore'] = 'Herstel';
@@ -1529,14 +1564,17 @@ $Definition['Select a community.'] = 'Selecteer een gebruikersgroep.';
 $Definition['Select an image on your computer (2mb max)'] = 'Selecteer een afbeelding op je computer (max. 2MB)';
 $Definition['Select Discussion'] = 'Selecteer discussie';
 $Definition['Select Discussion Type'] = 'Selecteer discussietype';
+$Definition['Select Existing Collections'] = 'Selecteer Bestaande collecties';
 $Definition['Select one of the following avatars:'] = 'Selecteer één van de volgende avatars:';
 $Definition['Send'] = 'Verstuur ';
 $Definition['Send a New Message'] = 'Verzend een Nieuw Bericht';
 $Definition['Send me a follow-up for my answered questions.'] = 'Stuur me een vervolg voor mijn beantwoorde vragen.';
 $Definition['Send Message'] = 'Stuur Bericht';
+$Definition['Send notifications as emails'] = 'Meldingen verzenden als e-mails';
 $Definition['Send Q&A Follow-up Email'] = 'Stuur een Q & A-vervolgmail';
 $Definition['Send Report'] = 'Verstuur Bericht';
 $Definition['Send report'] = 'Verstuur bericht';
+$Definition['Send Request'] = 'Verzend verzoek';
 $Definition['sep and'] = 'en';
 $Definition['Set a New Warning Level'] = 'Bepaal een Nieuw Waarschuwingsniveau';
 $Definition['Set A Password'] = 'Een Wachtwoord Instellen';
@@ -1733,6 +1771,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Het antwoord op dez
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Met deze instelling wordt de pagina geladen voordat Javascript wordt uitgevoerd, wat je SEO kan verbeteren. <br> <strong> ** Waarschuwing: Het inschakelen van deze functie kan fouten in Javascript op je site veroorzaken.** </strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Deze site wordt beschermd door reCAPTCHA en Google';
 $Definition['This text has been converted from another format.'] = 'Deze tekst is geconverteerd vanuit een ander formaat.';
+$Definition['This user\'s profile is private.'] = 'Het profiel van deze gebruiker is privé.';
 $Definition['This user has been banned'] = 'Deze gebruiker is verbannen';
 $Definition['This user has been deleted.'] = 'Deze gebruiker is verwijderd.';
 $Definition['This user has been marked as a troll.'] = 'Deze gebruiker is gemarkeerd als troll.';
@@ -1749,6 +1788,13 @@ $Definition['Thumbnail for: '] = 'Thumbnail voor:';
 $Definition['Title'] = 'Titel';
 $Definition['title'] = 'titel';
 $Definition['To'] = 'Aan';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Volg deze link om uw account te activeren:
+%s
+
+';
 $Definition['Today'] = 'Vandaag';
 $Definition['Toggle Category'] = 'Categorie Wijzigen';
 $Definition['Toggle full page'] = 'Volledig scherm aan/uit';
@@ -1791,6 +1837,7 @@ $Definition['Undefined foreign content'] = 'Ongedefinieerde vreemde inhoud';
 $Definition['Undo'] = 'Ongedaan maken';
 $Definition['Undo Follow'] = 'Maak Volgen ongedaan';
 $Definition['Unfollow'] = 'Stop met volgen';
+$Definition['Unfollow Category'] = 'Categorie niet meer volgen';
 $Definition['Unhide'] = 'Toon';
 $Definition['Unignore'] = 'Negeren opheffen';
 $Definition['UniqueID'] = 'UniekID';

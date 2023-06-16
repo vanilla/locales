@@ -148,6 +148,7 @@ $Definition['[Deleted User]'] = '[ผู้ใช้ที่ถูกลบ]';
 
 $Definition['About'] = 'เกี่ยวกับฉัน';
 $Definition['About %s users'] = 'เกี่ยวกับผู้ใช้ %s';
+$Definition['About Me'] = 'เกี่ยวกับฉัน';
 $Definition['About the event'] = 'เกี่ยวกับเหตุการณ์';
 $Definition['AboutToDelete'] = 'คุณกำลังจะลบ %s';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'คุณกำลังจะลบ %1$s จาก %2$s ของกระทู้ที่เลือกไว้';
@@ -159,6 +160,7 @@ $Definition['Accept this answer.'] = 'ยอมรับคำตอบนี้
 $Definition['Access the Site'] = 'เข้าถึงไซต์';
 $Definition['Access Tokens'] = 'โทเคนสิทธิ์เข้าใช้';
 $Definition['Account & Privacy'] = 'บัญชีและความเป็นส่วนตัว';
+$Definition['Account & Privacy Settings'] = 'การตั้งค่าบัญชีและความเป็นส่วนตัว';
 $Definition['Account Options'] = 'ตั้งค่า';
 $Definition['Actions'] = 'การกระทำ';
 $Definition['Activate'] = 'เปิดใช้งาน';
@@ -202,6 +204,7 @@ $Definition['Add Note'] = 'เพิ่มบันทึก';
 $Definition['Add People to this Conversation'] = 'เพิ่มเพื่อนสู่การสนทนานี้';
 $Definition['Add Route'] = 'เพิ่มเส้นทาง';
 $Definition['Add to Collection'] = 'เพิ่มการเก็บ.';
+$Definition['Add to Collections'] = 'เพิ่มในคอลเลกชัน';
 $Definition['Admin'] = 'ผู้ดูแลระบบ';
 $Definition['Administrator'] = 'ผู้ดูแลระบบ';
 $Definition['Administrator Activity'] = 'กิจกรรมของผู้ดูแลระบบ';
@@ -306,6 +309,8 @@ $Definition['Back to Discussions'] = 'กลับสู่กระดานส
 $Definition['Back to Profile'] = 'กลับสู่โปร์ไฟล์';
 $Definition['Badge'] = 'แบดจ์';
 $Definition['Badge404'] = 'ไม่พบแบดจ์';
+$Definition['Badge is not available.'] = 'ป้ายไม่สามารถใช้ได้';
+$Definition['BadgeReasonPrompt'] = 'คิดว่าคุณสมควรได้รับตรานี้หรือไม่? บอกเราว่าทำไม';
 $Definition['Badges'] = 'แบดจ์';
 $Definition['BadgesModuleTitle'] = 'แบดจ์';
 $Definition['BadgesNobody'] = 'ยังไม่มีใครได้รับแบดจ์นี้';
@@ -363,6 +368,7 @@ $Definition['Case Number'] = 'หมายเลขกรณี';
 $Definition['Casual'] = 'ไม่เป็นทางการ';
 $Definition['Categories'] = 'หมวดหมู่';
 $Definition['Categories & Groups'] = 'หมวดหมู่และกลุ่ม';
+$Definition['CategoriesNoFollowed'] = 'ไม่มีหมวดหมู่ตาม';
 $Definition['CategoriesShowFollowed'] = 'แสดงเฉพาะหมวดหมู่ที่ติดตาม';
 $Definition['CategoriesShowUnfollowed'] = 'แสดงหมวดหมู่ที่ซ่อนอยู่';
 $Definition['CategoriesViewingAll'] = 'คุณเห็นทุกหมวดหมู่';
@@ -470,10 +476,12 @@ $Definition['Created by %s'] = 'สร้างโดย %s';
 $Definition['Created Date'] = 'วันที่สร้าง';
 $Definition['Create Discussions'] = 'สร้างกระทู้';
 $Definition['Created on %s'] = 'สร้างบน %s';
+$Definition['Create New Collections'] = 'สร้างคอลเลกชันใหม่';
 $Definition['Create New Discussion'] = 'สร้างการสนทนาใหม่';
 $Definition['Create One.'] = 'สร้างบัญชี';
 $Definition['Current'] = 'ปัจจุบัน';
 $Definition['Currently: '] = 'ปัจจุบัน:';
+$Definition['Current Username'] = 'ชื่อผู้ใช้ปัจจุบัน';
 $Definition['Custom Information'] = 'ข้อมูลที่กำหนดเอง';
 $Definition['Customize'] = 'ปรับค่า';
 $Definition['customize your profile now'] = 'ปรับโปรไฟล์ของคุณ';
@@ -715,6 +723,7 @@ $Definition['Folder'] = 'โฟลเดอร์';
 $Definition['Folders'] = 'โฟลเดอร์';
 $Definition['Follow'] = 'ติดตาม';
 $Definition['Follow %s'] = 'ติดตาม %s';
+$Definition['Follow Category'] = 'ติดตามหมวด';
 $Definition['Followed by %d people'] = 'มีผู้ติดตาม %d คน';
 $Definition['Followed by %d person'] = 'มีผู้ติดตาม %d คน';
 $Definition['followed categories'] = 'หมวดหมู่ต่อไปนี้';
@@ -828,6 +837,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'คุณได้รั�
 $Definition['Height (mobile)'] = 'ความสูง (มือถือ)';
 $Definition['Hello!'] = 'สวัสดี!';
 $Definition['Hello %s!'] = 'สวัสดี %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'สวัสดี
+
+บัญชีถูกสร้างขึ้นสำหรับคุณที่ฟอรัม %s
+
+';
 $Definition['Hello {User.Name}!'] = 'สวัสดี {User.Name}!';
 $Definition['Help'] = 'ช่วยเหลือ';
 $Definition['Help Menu'] = 'ช่วยเหลือ';
@@ -882,6 +900,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'เพิ่มขีดจำกั�
 $Definition['ImageUploadLimits.Width2'] = 'รูปภาพจะถูกลดขนาดลงหากเกินความกว้างนี้';
 $Definition['Image URL'] = 'URL ของภาพ';
 $Definition['in'] = 'ใน';
+$Definition['In <0/>.'] = 'ใน <0/>';
+$Definition['In <0/> and recent discussions.'] = 'ใน <0/> และการสนทนาล่าสุด';
 $Definition['In <b>%s.</b>'] = 'ใน <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'ใน <b>%s</b> และในกระทู้อื่น ๆ เมื่อเร็ว ๆ นี้';
 $Definition['Inbox'] = 'กล่องจดหมาย';
@@ -989,6 +1009,7 @@ $Definition['Loading Modal'] = 'กำลังโหลดโมดอล';
 $Definition['Locale'] = 'ในประเทศ';
 $Definition['Log'] = 'บันทึก';
 $Definition['log'] = 'บันทึก';
+$Definition['Log in here to update your notification preferences'] = 'เข้าสู่ระบบที่นี่เพื่ออัปเดตการตั้งค่าการแจ้งเตือนของคุณ';
 $Definition['Login with Facebook'] = 'เข้าสู่ระบบด้วย Facebook';
 $Definition['LOL'] = 'ฮ่า ๆ';
 
@@ -1097,6 +1118,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'กระทู้ล่าสุด';
 $Definition['Move'] = 'เคลื่อนย้าย';
 $Definition['Moved: %s'] = 'ย้ายแล้ว: %s';
+$Definition['Move Discussion'] = 'ย้ายการสนทนา';
 $Definition['Mute'] = 'ปิดเสียง';
 $Definition['My Account'] = 'บัญชีของฉัน';
 $Definition['My Account Tab'] = 'แท็บบัญชีของฉัน';
@@ -1139,6 +1161,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'แบบสำรวจใหม่';
 $Definition['New Post'] = 'โพสต์ใหม่';
 $Definition['New Question'] = 'คำถามใหม่';
+$Definition['New Username'] = 'ชื่อผู้ใช้ใหม่';
 $Definition['Next'] = 'ถัดไป';
 $Definition['Next Page'] = 'หน้าถัดไป';
 $Definition['Ninth Anniversary'] = 'ครบรอบปีที่เก้า';
@@ -1155,6 +1178,7 @@ $Definition['No items tagged with %s.'] = 'ไม่มีรายการท�
 $Definition['None'] = 'ไม่มี';
 $Definition['No open cases were found.'] = 'ไม่พบกรณีที่เปิดอยู่';
 $Definition['NoPermissionToDeleteDiscussions'] = 'คุณไม่ได้รับอนุญาตให้ลบ %1$s ของการอภิปรายที่เลือก';
+$Definition['No reactions yet.'] = 'ยังไม่มีปฏิกิริยาใดๆ';
 $Definition['No results'] = 'ไม่มีผลลัพธ์';
 $Definition['No results for \'%s\''] = 'ไม่มีผลลัพธ์สำหรับ \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'ไม่มีผลลัพธ์สำหรับ \'<0 />\'';
@@ -1171,6 +1195,7 @@ $Definition['Not going'] = 'ไม่ไป';
 $Definition['Notice'] = 'ประกาศ';
 $Definition['Notification'] = 'แจ้งเตือน';
 $Definition['Notification Preferences'] = 'ตั้งค่าการแจ้งเตือน';
+$Definition['Notification preferences enabled tooltip'] = 'ต้องเปิดใช้งานการแจ้งเตือนโพสต์ก่อนที่จะมีการแจ้งเตือนความคิดเห็นใหม่และรับการแจ้งเตือนเป็นอีเมล';
 $Definition['Notifications'] = 'แจ้งเตือน';
 $Definition['Notifications Postmaster'] = 'Postmaster การแจ้งเตือน';
 $Definition['Notifictions'] = 'แจ้งเตือน';
@@ -1196,6 +1221,8 @@ $Definition['Notify of all new discussions.'] = 'แจ้งการสนท�
 $Definition['Notify of all new discussions by email.'] = 'แจ้งการสนทนาใหม่ทั้งหมดทางอีเมล';
 $Definition['Notify of all new posts.'] = 'แจ้งกระทู้ใหม่ทั้งหมด';
 $Definition['Notify of all new posts by email.'] = 'แจ้งข้อความใหม่ทั้งหมดทางอีเมล';
+$Definition['Notify of new comments'] = 'แจ้งความคิดเห็นใหม่';
+$Definition['Notify of new posts'] = 'แจ้งเตือนโพสต์ใหม่';
 $Definition['No Title'] = 'ไม่มีชื่อเรื่อง
 ';
 $Definition['Not much happening here, yet.'] = 'ยังไม่มีอะไรเกิดขึ้นที่นี่';
@@ -1297,6 +1324,13 @@ $Definition['Placeholder'] = 'ตัวยึด';
 $Definition['Places'] = 'สถานที่';
 $Definition['Play the sound again'] = 'เล่นเสียงอีกครั้ง';
 $Definition['Play Video'] = 'เล่นวิดีโอ';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'โปรดติดต่อเราหากคุณมีคำถามเกี่ยวกับอีเมลนี้
+
+ขอแสดงความนับถือ
+%s';
 $Definition['Please join my group.'] = 'โปรดเข้าร่วม <a href="{Url,html}">กลุ่ม</a>ของฉัน';
 $Definition['Please join my group: %s'] = 'กรุณาเข้าร่วมกลุ่มของฉัน: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'กรุณารอสักครู่ในขณะที่คุณได้รับการเปลี่ยนจุดหมาย ถ้าคุณไม่ได้รับการเปลี่ยนจุดหมาย คลิก <a href="%s">ที่นี่</a>';
@@ -1462,6 +1496,7 @@ $Definition['Reputation'] = 'ชื่อเสียง';
 $Definition['Request a new password'] = 'ขอรหัสผ่านใหม่';
 $Definition['Request a new password →'] = 'ขอรหัสผ่านใหม่ →';
 $Definition['Request another password reset.'] = 'ขอการรีเซ็ตรหัสผ่านอีกอัน';
+$Definition['Request Badge'] = 'ขอป้าย';
 $Definition['Reset Password'] = 'รีเซ็ตรหัสผ่าน';
 $Definition['Reset Your Password'] = 'รีเซ็ตรหัสผ่านของคุณ';
 $Definition['Restore'] = 'กู้คืน';
@@ -1549,14 +1584,17 @@ $Definition['Select a community.'] = 'เลือกชุมชน';
 $Definition['Select an image on your computer (2mb max)'] = 'เลือกภาพจากคอมพิวเตอร์ของคุณ (สูงสุด 2MB)';
 $Definition['Select Discussion'] = 'เลือกการสนทนา';
 $Definition['Select Discussion Type'] = 'เลือกประเภทการสนทนา';
+$Definition['Select Existing Collections'] = 'เลือกคอลเลกชันที่มีอยู่';
 $Definition['Select one of the following avatars:'] = 'เลือกหนึ่งอวาตาร์จากรายการต่อไปนี้:';
 $Definition['Send'] = 'ส่ง';
 $Definition['Send a New Message'] = 'ส่งข้อความใหม่';
 $Definition['Send me a follow-up for my answered questions.'] = 'ส่งการติดตามสำหรับคำถามที่ฉันตอบแล้ว';
 $Definition['Send Message'] = 'ส่งข้อความ';
+$Definition['Send notifications as emails'] = 'ส่งการแจ้งเตือนเป็นอีเมล';
 $Definition['Send Q&A Follow-up Email'] = 'ส่งอีเมลติดตามผลถาม & ตอบ';
 $Definition['Send Report'] = 'ส่งรายงาน';
 $Definition['Send report'] = 'ส่งรายงาน';
+$Definition['Send Request'] = 'ส่งคำขอ';
 $Definition['sep and'] = 'และ';
 $Definition['Set a New Warning Level'] = 'ตั้งระดับคำเตือนใหม่';
 $Definition['Set A Password'] = 'ตั้งรหัสผ่าน';
@@ -1771,6 +1809,7 @@ $Definition['This question\'s answer has been accepted.'] = 'คำตอบข�
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'การตั้งค่านี้จะโหลดหน้าเว็บก่อนที่จะดำเนินการกับ Javascript ซึ่งช่วยปรับปรุง SEO ของคุณได้<br><strong>**คำเตือน: การเปิดใช้ฟีเจอร์นี้อาจทำให้ Javascript เกิดข้อผิดพลาดในเว็บไซต์ของคุณ**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'ไซต์นี้ได้รับการคุ้มครองโดย reCAPTCHA และ Google';
 $Definition['This text has been converted from another format.'] = 'ข้อความนี้ได้รับการแปลงจากรูปแบบอื่น';
+$Definition['This user\'s profile is private.'] = 'โปรไฟล์ของผู้ใช้นี้เป็นแบบส่วนตัว';
 $Definition['This user has been banned'] = 'ผู้ใช้รายนี้ถูกแบน';
 $Definition['This user has been deleted.'] = 'ผู้ใช้รายนี้ถูกลบแล้ว';
 $Definition['This user has been marked as a troll.'] = 'มีการใส่เครื่องหมายเกรียนให้ผู้ใช้รายนี้';
@@ -1787,6 +1826,13 @@ $Definition['Thumbnail for: '] = 'ธัมบ์เนลสำหรับ:';
 $Definition['Title'] = 'ชื่อเรื่อง';
 $Definition['title'] = 'ชื่อเรื่อง';
 $Definition['To'] = 'ถึง';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'หากต้องการเปิดใช้งานบัญชีของคุณ โปรดไปที่ลิงก์นี้:
+%s
+
+';
 $Definition['Today'] = 'วันนี้';
 $Definition['Toggle Category'] = 'สลับหมวด';
 $Definition['Toggle full page'] = 'ปิดเปิดเต็มจอ';
@@ -1833,6 +1879,7 @@ $Definition['Undefined foreign content'] = 'เนื้อหาจากภา
 $Definition['Undo'] = 'เลิกทำ';
 $Definition['Undo Follow'] = 'ยกเลิกติดตาม';
 $Definition['Unfollow'] = 'ยกเลิกติดตาม';
+$Definition['Unfollow Category'] = 'เลิกติดตามหมวดหมู่';
 $Definition['Unhide'] = 'ยกเลิกการซ่อน';
 $Definition['Unignore'] = 'ไม่ปล่อยผ่าน';
 $Definition['UniqueID'] = 'ID ที่ไม่เหมือนใคร';

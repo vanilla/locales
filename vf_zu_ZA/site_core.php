@@ -148,6 +148,7 @@ $Definition['[Deleted User]'] = '[Umsebenzisi Ocishiwe]';
 
 $Definition['About'] = 'Mayelana';
 $Definition['About %s users'] = 'Mayelana nabasebenzisi be-%s';
+$Definition['About Me'] = 'Mayelana nami';
 $Definition['About the event'] = 'Mayelana nomcimbi';
 $Definition['AboutToDelete'] = 'Usuzocisha okuthi %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Usuzocisha okungu-%1$s kwezingxoxo ezikhethiwe ezingu-%2$s.';
@@ -159,6 +160,7 @@ $Definition['Accept this answer.'] = 'Yamukela le mpendulo.';
 $Definition['Access the Site'] = 'Finyelela le Sayithi';
 $Definition['Access Tokens'] = 'Finyelela amathokheni';
 $Definition['Account & Privacy'] = 'I-akhawunti Nobumfihlo';
+$Definition['Account & Privacy Settings'] = 'I-akhawunti nezilungiselelo zobumfihlo';
 $Definition['Account Options'] = 'Ongakukhetha Kwi-akhawunti';
 $Definition['Actions'] = 'Ukwenza ';
 $Definition['Activate'] = 'Yenza Kusebenze';
@@ -201,6 +203,7 @@ $Definition['Add Note'] = 'Engeza Inothi';
 $Definition['Add People to this Conversation'] = 'Engeza Abantu kule Ngxoxo';
 $Definition['Add Route'] = 'Engeza Umzila';
 $Definition['Add to Collection'] = 'Engeza Eqoqweni.';
+$Definition['Add to Collections'] = 'Engeza kumaqoqo';
 $Definition['Admin'] = 'Umlawuli';
 $Definition['Administrator'] = 'Umlawuli';
 $Definition['Administrator Activity'] = 'Umsebenzi Womlawuli';
@@ -274,6 +277,7 @@ $Definition['Approved'] = 'Kuvunyiwe';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Ingabe unesiqiniseko ESIPHELELE sokuthi ufuna ukuthatha lesi sinyathelo?';
 $Definition['Are you attending this event?'] = 'Ingabe uzosithamela lesi senzakalo?';
 $Definition['Are you sure you want to delete this %s?'] = 'Ingabe unesiqiniseko sokuthi ufuna ukucisha leli %s?';
+$Definition['Are you sure you want to delete this image? You won\'t be able to recover it.'] = 'Uqinisekile ukuthi ufuna ukususa lesi sithombe? Ngeke ukwazi ukukubuyisela.';
 $Definition['Are you sure you want to do that?'] = 'Ingabe unesiqiniseko sokuthi ufuna ukwenza lokho?';
 $Definition['Are you sure you want to do this?'] = 'Ingabe unesiqiniseko sokuthi ufuna ukwenza lokhu?';
 $Definition['Are you sure you want to ignore <b>%s</b>?'] = 'Uqinisekile ukuthi ufuna ukungayinaki i- <b>%s</b> ?';
@@ -305,6 +309,8 @@ $Definition['Back to Discussions'] = 'Buyela Emncintiswaneni';
 $Definition['Back to Profile'] = 'Buyela Kuphrofayela';
 $Definition['Badge'] = 'Ibheji';
 $Definition['Badge404'] = 'Ibheji alitholakali.';
+$Definition['Badge is not available.'] = 'Ibheji alitholakali.';
+$Definition['BadgeReasonPrompt'] = 'Ucabanga ukuthi ufanelwe yileli bheji? Sitshele ukuthi kungani.';
 $Definition['Badges'] = 'Amabheji';
 $Definition['BadgesModuleTitle'] = 'Amabheji';
 $Definition['BadgesNobody'] = 'Akekho othole leli bheji njengamanje.';
@@ -361,6 +367,7 @@ $Definition['Case Number'] = 'Inombolo Yecala';
 $Definition['Casual'] = 'Okulula';
 $Definition['Categories'] = 'Izigaba';
 $Definition['Categories & Groups'] = 'Izigaba & Amaqembu';
+$Definition['CategoriesNoFollowed'] = 'Azikho izigaba ezilandelwayo';
 $Definition['CategoriesShowFollowed'] = 'Khombisa kuphela izigaba ezilandelwayo';
 $Definition['CategoriesShowUnfollowed'] = 'Khombisa izigaba ezifihliwe';
 $Definition['CategoriesViewingAll'] = 'Okwamanje ubuka zonke izigaba.';
@@ -467,10 +474,12 @@ $Definition['Created by %s'] = 'Kwenziwe i-%s';
 $Definition['Created Date'] = 'Idalwe Usuku';
 $Definition['Create Discussions'] = 'Yakha Izingxoxo';
 $Definition['Created on %s'] = 'Kwenziwe ngo-%s';
+$Definition['Create New Collections'] = 'Dala Amaqoqo Amasha';
 $Definition['Create New Discussion'] = 'Dala Ukuxoxisana Okusha';
 $Definition['Create One.'] = 'Yakha Eyodwa.';
 $Definition['Current'] = 'Okwamanje';
 $Definition['Currently: '] = 'Okwamanje:';
+$Definition['Current Username'] = 'Igama lomsebenzisi lamanje';
 $Definition['Custom Information'] = 'Ulwazi Oluqokiwe';
 $Definition['Customize'] = 'Hlela ngokuqoka';
 $Definition['customize your profile now'] = 'hlela ngokuqoka iphrofayela yakho manje';
@@ -719,6 +728,7 @@ $Definition['Folder'] = 'Ifolda';
 $Definition['Folders'] = 'Amafolda';
 $Definition['Follow'] = 'Landela';
 $Definition['Follow %s'] = 'Landela %s';
+$Definition['Follow Category'] = 'Landela Isigaba';
 $Definition['Followed by %d people'] = 'Kulandelwa abantu abangu-%d';
 $Definition['Followed by %d person'] = 'Kulandelwa umuntu ongu-%d';
 $Definition['followed categories'] = 'izigaba ezilandelwayo';
@@ -832,6 +842,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '<a href="{Url,html}" class
 $Definition['Height (mobile)'] = 'Ukuphakama (mobile)';
 $Definition['Hello!'] = 'Sawubona!';
 $Definition['Hello %s!'] = 'Sawubona %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Sawubona,
+
+I-akhawunti yenzelwe wena kuforamu ye-%s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Sawubona {User.Name}!';
 $Definition['Help'] = 'Usizo';
 $Definition['Help Menu'] = 'Usizo';
@@ -886,6 +905,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Ngeza imikhawulo kuzimo zokulayisha i
 $Definition['ImageUploadLimits.Width2'] = 'Izithombe zizokwehliswa uma zidlula lo ububanzi.';
 $Definition['Image URL'] = 'I-URL Yomfanekiso';
 $Definition['in'] = 'kokuthi';
+$Definition['In <0/>.'] = 'Ku-<0/>.';
+$Definition['In <0/> and recent discussions.'] = 'Ku-<0/> nasezingxoxweni zakamuva.';
 $Definition['In <b>%s.</b>'] = 'Kokuthi <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Kokuthi <b>%s</b> nasezingxoxweni zakamuva.';
 $Definition['Inbox'] = 'Ibhokisi lokungenayo';
@@ -955,6 +976,7 @@ $Definition['Just you!'] = 'Wena kuphela!';
 
 $Definition['Keep me signed in'] = 'Ngigcine ngisayinele ukungena';
 $Definition['Keep User Content'] = 'Gcina Okuqukethwe Komsebenzisi';
+$Definition['Kilobyte'] = 'I-Kilobyte';
 
 $Definition['Label'] = 'Ilebula';
 $Definition['Languages'] = 'Izilimi';
@@ -992,6 +1014,7 @@ $Definition['Loading Modal'] = 'Iyalayisha Modal';
 $Definition['Locale'] = 'Indawo';
 $Definition['Log'] = 'Ilogi';
 $Definition['log'] = 'ilogi';
+$Definition['Log in here to update your notification preferences'] = 'Ngena lapha ukuze ubuyekeze izintandokazi zakho zezaziso';
 $Definition['Login with Facebook'] = 'Ngena nge-Facebook';
 
 $Definition['Major'] = 'Okukhulu';
@@ -1100,6 +1123,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Ingxoxo yakamuva';
 $Definition['Move'] = 'Hambisa';
 $Definition['Moved: %s'] = 'Kuhanjiswe: %s';
+$Definition['Move Discussion'] = 'Hambisa Ingxoxo';
 $Definition['Mute'] = 'Thulisa';
 $Definition['My Account'] = 'I-akhawunti yami';
 $Definition['My Account Tab'] = 'Ithebhu Yami ye-Akhawunti';
@@ -1142,6 +1166,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Inhlolovo Entsha';
 $Definition['New Post'] = 'Iposi elisha';
 $Definition['New Question'] = 'Umbuzo Omusha';
+$Definition['New Username'] = 'Igama lomsebenzisi elisha';
 $Definition['Next'] = 'Okulandelayo';
 $Definition['Next Page'] = 'Ikhasi elilandelayo';
 $Definition['Ninth Anniversary'] = 'Umgubho Wesishiyagalolunye';
@@ -1158,6 +1183,7 @@ $Definition['No items tagged with %s.'] = 'Azikho izinto ezifakwe ithegi ethi %s
 $Definition['None'] = 'Akukho';
 $Definition['No open cases were found.'] = 'Awekho amacala avuliwe atholakele.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Awunayo imvume yokucisha okungu-%1$s kwezingxoxo ezikhethiwe.';
+$Definition['No reactions yet.'] = 'Akukho ukusabela okwamanje.';
 $Definition['No results'] = 'Ayikho imiphumela';
 $Definition['No results for \'%s\''] = 'Ayikho imiphumela yokuthi \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Ayikho imiphumela ye-\'<0 />\'.';
@@ -1174,6 +1200,7 @@ $Definition['Not going'] = 'Akahambi';
 $Definition['Notice'] = 'Isaziso';
 $Definition['Notification'] = 'Isaziso';
 $Definition['Notification Preferences'] = 'Okuthandwayo Kwesaziso';
+$Definition['Notification preferences enabled tooltip'] = 'Izaziso zokuthunyelwe kufanele zinikwe amandla ngaphambi kwezaziso ezintsha zamazwana nokwamukela izaziso njengoba ama-imeyili etholakala.';
 $Definition['Notifications'] = 'Izaziso';
 $Definition['Notifications Postmaster'] = 'Umphathi Wezaziso';
 $Definition['Notifictions'] = 'Izaziso';
@@ -1199,6 +1226,8 @@ $Definition['Notify of all new discussions.'] = 'Yazisa ngazo zonke izingxoxo ez
 $Definition['Notify of all new discussions by email.'] = 'Yazisa ngazo zonke izingxoxo ezintsha nge-imeyili.';
 $Definition['Notify of all new posts.'] = 'Yazisa ngakho konke okuthunyelwe okusha.';
 $Definition['Notify of all new posts by email.'] = 'Yazisa ngakho konke okuthunyelwe okusha nge-imeyili.';
+$Definition['Notify of new comments'] = 'Yazisa ngamazwana amasha';
+$Definition['Notify of new posts'] = 'Yazisa ngokuthunyelwe okusha';
 $Definition['No Title'] = 'Akunasihloko';
 $Definition['Not much happening here, yet.'] = 'Akukuningi okwenzeka lapha, okwamanje.';
 $Definition['Not registered?'] = 'Ayibhalisiwe?';
@@ -1299,6 +1328,13 @@ $Definition['Placeholder'] = 'Isimeli';
 $Definition['Places'] = 'Izindawo';
 $Definition['Play the sound again'] = 'Dlala umsindo futhi';
 $Definition['Play Video'] = 'Dlala ividiyo';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Sicela usithinte uma unemibuzo mayelana nale imeyili.
+
+Abazithobayo,
+%s';
 $Definition['Please join my group.'] = 'Ngicela ujoyine <a href="{Url,html}">iqembu</a> lami.';
 $Definition['Please join my group: %s'] = 'Sicela ujoyine iqembu lami: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Sicela ulinde njengoba uqondiswa kabusha. Uma ungaqondiswa kabusha, chofoza <a href="%s">lapha</a>.';
@@ -1465,6 +1501,7 @@ $Definition['Reputation'] = 'Idumela';
 $Definition['Request a new password'] = 'Cela iphasiwedi entsha';
 $Definition['Request a new password →'] = 'Cela iphasiwedi entsha →';
 $Definition['Request another password reset.'] = 'Cela okunye ukuqamba kabusha kwephasiwedi.';
+$Definition['Request Badge'] = 'Cela Ibheji';
 $Definition['Reset Password'] = 'Qamba Kabusha Iphasiwedi';
 $Definition['Reset Your Password'] = 'Qamba Kabusha Iphasiwedi Yakho';
 $Definition['Restore'] = 'Buyisela';
@@ -1552,14 +1589,17 @@ $Definition['Select a community.'] = 'Khetha umphakathi.';
 $Definition['Select an image on your computer (2mb max)'] = 'Khetha umfanekiso kukhompyutha yakho (umkhawulo ongu-2mb)';
 $Definition['Select Discussion'] = 'Khetha Ingxoxo';
 $Definition['Select Discussion Type'] = 'Khetha Uhlobo Lokuxoxisana';
+$Definition['Select Existing Collections'] = 'Khetha Amaqoqo Akhona';
 $Definition['Select one of the following avatars:'] = 'Khetha enye yama-avatha alandelayo:';
 $Definition['Send'] = 'Thumela';
 $Definition['Send a New Message'] = 'Thumela Umlayezo Omusha';
 $Definition['Send me a follow-up for my answered questions.'] = 'Ngithumelele ukulandelela imibuzo yami ephenduliwe.';
 $Definition['Send Message'] = 'Thumela Umlayezo';
+$Definition['Send notifications as emails'] = 'Thumela izaziso njengama-imeyili';
 $Definition['Send Q&A Follow-up Email'] = 'Thumela i-imeyili Yokulandelela ye-Q&A';
 $Definition['Send Report'] = 'Thumela Umbiko';
 $Definition['Send report'] = 'Thumela umbiko';
+$Definition['Send Request'] = 'Thumela isicelo';
 $Definition['sep and'] = 'futhi';
 $Definition['Set a New Warning Level'] = 'Setha Izinga Lokuxwayisa Elisha';
 $Definition['Set A Password'] = 'Setha Iphasiwedi';
@@ -1679,6 +1719,7 @@ $Definition['Target'] = 'Ithagethi';
 $Definition['Tell the user why you\'re warning them'] = 'Tshela umsebenzisi ukuthi kungani umxwayisa';
 $Definition['Tell us why you want to join!'] = 'Sitshele ukuthi kungani ufuna ukujoyina!';
 $Definition['Tenth Anniversary'] = 'Umgubho Weshumi';
+$Definition['Terabyte'] = 'I-Terabyte';
 $Definition['Terms'] = 'Imigomo';
 $Definition['TermsOfService'] = 'Imigomo Yesevisi';
 $Definition['Terms of Service'] = 'Imigomo Yesevisi';
@@ -1730,6 +1771,7 @@ $Definition['These notes can only be seen by moderators.'] = 'Lawa manothi angab
 $Definition['These tags are reserved and cannot be used: %s'] = 'Lawa ma-tag agodliwe futhi awakwazi ukusetshenziswa: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'Okwamanje isayithi isalungiswa.';
 $Definition['The status for "%s" has changed to %s.'] = 'Isimo se- "%s" sishintshele ku %s.';
+$Definition['The uploaded file did not have an allowed extension. \\nOnly the following extensions are allowed. \\n%s.'] = 'Ifayela elilayishiwe alinaso isandiso esivunyelwe. \\nIzandiso ezilandelayo kuphela ezivunyelwe. \\n%s.';
 $Definition['The uploaded file was too big (max %s).'] = 'Ifayela elilayishiwe belilikhulu kakhulu (umkhawulo ongu-%s).';
 $Definition['The user has already been warned for this %s.'] = 'Umsebenzisi usexwayisiwe kakade ngalokhu %s.';
 $Definition['The user has disabled this notification preference.'] = 'Umsebenzisi ukhubaze lokhu okuncamelayo kwesaziso.';
@@ -1762,6 +1804,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Impendulo yalo mbuz
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Lokhu kulungiswa kulayisha ikhasi ngaphambi kokukhipha iJavascript okungathuthukisa i-SEO yakho. <br> <strong>** Isexwayiso: Ukunika amandla lesi sici kungadala amaphutha weJavascript kusayithi lakho.</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Lesi siza sivikelwe yi-reCAPTCHA kanye ne-Google';
 $Definition['This text has been converted from another format.'] = 'Lo mbhalo uguqulwe usuka kwenye ifomethi.';
+$Definition['This user\'s profile is private.'] = 'Iphrofayela yalo msebenzisi iyimfihlo.';
 $Definition['This user has been banned'] = 'Lo msebenzisi uvinjelwe';
 $Definition['This user has been deleted.'] = 'Lo msebenzisi ususiwe.';
 $Definition['This user has been marked as a troll.'] = 'Lo msebenzisi umakwe njengodoti.';
@@ -1779,6 +1822,13 @@ $Definition['Title'] = 'Isihloko';
 $Definition['title'] = 'isihloko';
 $Definition['TLS'] = 'I-TLS';
 $Definition['To'] = 'Kuya';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Ukuze wenze i-akhawunti yakho isebenze, sicela ulandele lesi sixhumanisi:
+%s
+
+';
 $Definition['Today'] = 'Namuhla';
 $Definition['Toggle Category'] = 'Guqula isigaba';
 $Definition['Toggle full page'] = 'Guqula ikhasi eligcwele';
@@ -1825,6 +1875,7 @@ $Definition['Undefined foreign content'] = 'Okuqukethwe okungaziwa okungachaziwe
 $Definition['Undo'] = 'Hlehlisa';
 $Definition['Undo Follow'] = 'Yekisa Ukulandela';
 $Definition['Unfollow'] = 'Ungalandeli';
+$Definition['Unfollow Category'] = 'Yekela ukulandela Isigaba';
 $Definition['Unhide'] = 'Ungafihli';
 $Definition['Unignore'] = 'Ungazibi';
 $Definition['UniqueID'] = 'I-UniqueID';
@@ -2128,6 +2179,7 @@ $Definition['Your warning was added.'] = 'Isixwayiso sakho sengeziwe.';
 $Definition['You were added to a conversation.'] = 'U-{InsertUserID,user} ukwengeze {NotifyUserID,you} <a href="{Url,htmlencode}">engxoxweni</a>.';
 $Definition['You will receive a notification when you are accepted.'] = 'Uzothola isaziso uma wamukelwa.';
 $Definition['You wrote:'] = 'Ubhale ukuthi:';
+$Definition['yyyy-mm-dd'] = 'yyy-mm-dd';
 
 $Definition['Zip'] = 'I-Zip';
 

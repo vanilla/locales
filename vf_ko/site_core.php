@@ -147,6 +147,7 @@ $Definition['[Deleted User]'] = '[삭제된 계정] ';
 
 $Definition['About'] = '대해서';
 $Definition['About %s users'] = '약 %s명의 사용자';
+$Definition['About Me'] = '나에 대해서';
 $Definition['About the event'] = '이벤트 정보';
 $Definition['AboutToDelete'] = '%s을(를) 삭제하려고 합니다.';
 $Definition['AboutToDeleteSelectedDiscussions'] = '%2$s 선택된 논의 중 %1$s를 삭제하려고 합니다.';
@@ -158,6 +159,7 @@ $Definition['Accept this answer.'] = '이 답을 승인하기';
 $Definition['Access the Site'] = '사이트 평가하기';
 $Definition['Access Tokens'] = '액세스 토큰';
 $Definition['Account & Privacy'] = '계정 및 개인정보 보호';
+$Definition['Account & Privacy Settings'] = '계정 및 개인 정보 설정';
 $Definition['Account Options'] = '계정 선택 사항';
 $Definition['Actions'] = '활';
 $Definition['Activate'] = '활성화하기';
@@ -200,6 +202,7 @@ $Definition['Add Note'] = '메모 추가';
 $Definition['Add People to this Conversation'] = '이 대화에 참가자를 추가함';
 $Definition['Add Route'] = '루트 추가';
 $Definition['Add to Collection'] = '컬렉션에 추가.';
+$Definition['Add to Collections'] = '컬렉션에 추가';
 $Definition['Admin'] = '운영자';
 $Definition['Administrator'] = '관리자';
 $Definition['Administrator Activity'] = '운영자 활동';
@@ -303,6 +306,8 @@ $Definition['Back to Discussions'] = '대회 복귀';
 $Definition['Back to Profile'] = '프로필로 돌아가기';
 $Definition['Badge'] = '배지';
 $Definition['Badge404'] = '베지를 찾을 수 없습니다.';
+$Definition['Badge is not available.'] = '배지를 사용할 수 없습니다.';
+$Definition['BadgeReasonPrompt'] = '이 배지를 받을 자격이 있다고 생각하십니까? 이유를 알려주세요.';
 $Definition['Badges'] = '배지들';
 $Definition['BadgesModuleTitle'] = '배지들';
 $Definition['BadgesNobody'] = '이 배지를 얻은 사용자가 없습니다.';
@@ -357,6 +362,7 @@ $Definition['Case Number'] = '케이스 번호';
 $Definition['Casual'] = '격식 없이';
 $Definition['Categories'] = '카테고리';
 $Definition['Categories & Groups'] = '카테고리 및 그룹';
+$Definition['CategoriesNoFollowed'] = '팔로우한 카테고리가 없습니다.';
 $Definition['CategoriesShowFollowed'] = '다음의 카테고리만 나타내기';
 $Definition['CategoriesShowUnfollowed'] = '숨겨진 카테고리 나타내기';
 $Definition['CategoriesViewingAll'] = '모든 카테고리를 보고 있습니다.';
@@ -461,10 +467,12 @@ $Definition['Created by %s'] = '%s가 생성';
 $Definition['Created Date'] = '만든 날짜';
 $Definition['Create Discussions'] = '토론 작성하기';
 $Definition['Created on %s'] = '작성시간 %s';
+$Definition['Create New Collections'] = '새 컬렉션 만들기';
 $Definition['Create New Discussion'] = '새 토론 만들기';
 $Definition['Create One.'] = '하나 만들기.';
 $Definition['Current'] = '현재';
 $Definition['Currently: '] = '현재:';
+$Definition['Current Username'] = '현재 사용자 이름';
 $Definition['Custom Information'] = '사용자 정보';
 $Definition['Customize'] = '커스터마이즈하기';
 $Definition['customize your profile now'] = '사용자 프로필 바로 수정하기';
@@ -703,6 +711,7 @@ $Definition['Folder'] = '폴더';
 $Definition['Folders'] = '폴더';
 $Definition['Follow'] = '팔로우';
 $Definition['Follow %s'] = '%s 팔로우하기';
+$Definition['Follow Category'] = '카테고리 팔로우';
 $Definition['Followed by %d people'] = '%d 명이 팔로우 중';
 $Definition['Followed by %d person'] = '%d 명이 팔로우 중';
 $Definition['followed categories'] = '팔로우 된 카테고리';
@@ -816,6 +825,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '<a href="{Url,html}" class
 $Definition['Height (mobile)'] = '높이 (모바일)';
 $Definition['Hello!'] = '안녕하십니까!';
 $Definition['Hello %s!'] = '%s님, 안녕하십니까!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = '안녕하세요.
+
+%s 포럼에 계정이 생성되었습니다.
+
+';
 $Definition['Hello {User.Name}!'] = '{User.Name}님, 안녕하십니까!';
 $Definition['Help'] = '도움말';
 $Definition['Help Menu'] = '도움말';
@@ -870,6 +888,8 @@ $Definition['ImageUploadLimits.Notes2'] = '토론과 댓글에서 이미지 업�
 $Definition['ImageUploadLimits.Width2'] = '이미지가 해당 너비를 초과하면 크기가 줄어듭니다. ';
 $Definition['Image URL'] = '이미지 URL';
 $Definition['in'] = '안';
+$Definition['In <0/>.'] = '<0/>에서.';
+$Definition['In <0/> and recent discussions.'] = '<0/> 및 최근 토론에서.';
 $Definition['In <b>%s.</b>'] = '<b>%s.</b>의';
 $Definition['In <b>%s</b> and recent discussions.'] = '<b>%s</b> 및 최근 토론에서.';
 $Definition['Inbox'] = '인박스';
@@ -976,6 +996,7 @@ $Definition['Loading Modal'] = '모달 로드 중';
 $Definition['Locale'] = '배경';
 $Definition['Log'] = '로그';
 $Definition['log'] = '로그';
+$Definition['Log in here to update your notification preferences'] = '알림 기본 설정을 업데이트하려면 여기에서 로그인하세요.';
 $Definition['Login with Facebook'] = '페이스북으로 로그인하기';
 $Definition['LOL'] = 'LOL ';
 
@@ -1083,6 +1104,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = '가장 최근의 토론';
 $Definition['Move'] = '이동';
 $Definition['Moved: %s'] = '이동: %s';
+$Definition['Move Discussion'] = '이동 토론';
 $Definition['Mute'] = '알림 끄기';
 $Definition['My Account'] = '내 계정';
 $Definition['My Account Tab'] = '내 계정 탭';
@@ -1126,6 +1148,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = '새로운 투표';
 $Definition['New Post'] = '새 글';
 $Definition['New Question'] = '새 질문';
+$Definition['New Username'] = '새 사용자 이름';
 $Definition['Next'] = '다음';
 $Definition['Next Page'] = '다음 페이지';
 $Definition['Ninth Anniversary'] = '아홉번째 기념일';
@@ -1142,6 +1165,7 @@ $Definition['No items tagged with %s.'] = '%s 로 태그된 아이템이 없습�
 $Definition['None'] = '없음';
 $Definition['No open cases were found.'] = '진행중인 케이스가 없습니다.';
 $Definition['NoPermissionToDeleteDiscussions'] = '선택된 토론에서 %1$s 을(를) 삭제하기 위한 권한이 없습니다.';
+$Definition['No reactions yet.'] = '아직 반응이 없습니다.';
 $Definition['No results'] = '결과 없음';
 $Definition['No results for \'%s\''] = '\'%s\' 로 검색된 결과 없음';
 $Definition['No results for \'<0/>\'.'] = '\'<0/>\'에 대한 결과가 없습니다.';
@@ -1158,6 +1182,7 @@ $Definition['Not going'] = ' 참석하지 않습니다';
 $Definition['Notice'] = '통지';
 $Definition['Notification'] = '알림';
 $Definition['Notification Preferences'] = '알림 설정';
+$Definition['Notification preferences enabled tooltip'] = '새 댓글 알림 및 이메일을 사용할 수 있는 알림을 수신하기 전에 게시물 알림을 활성화해야 합니다.';
 $Definition['Notifications'] = '알림';
 $Definition['Notifications Postmaster'] = '알림 포스트 마스터';
 $Definition['Notifictions'] = '알림';
@@ -1183,6 +1208,8 @@ $Definition['Notify of all new discussions.'] = '모든 새로운 토론을 알�
 $Definition['Notify of all new discussions by email.'] = '이메일로 모든 새로운 토론을 알립니다.';
 $Definition['Notify of all new posts.'] = '모든 새 게시물을 알립니다.';
 $Definition['Notify of all new posts by email.'] = '이메일로 모든 새 게시물을 알립니다.';
+$Definition['Notify of new comments'] = '새 댓글 알림';
+$Definition['Notify of new posts'] = '새 게시물 알림';
 $Definition['No Title'] = '제목 없음 ';
 $Definition['Not much happening here, yet.'] = '아직 활동이 많지 않습니다.';
 $Definition['Not registered?'] = '등록되지 않았습니까? ';
@@ -1279,6 +1306,13 @@ $Definition['Placeholder'] = '자리 표시자';
 $Definition['Places'] = '장소';
 $Definition['Play the sound again'] = '사운드를 다시 재생 하기';
 $Definition['Play Video'] = '동영상 플레이';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = '이 이메일과 관련하여 궁금한 점이 있으면 문의해 주세요.
+
+감사합니다.
+%s';
 $Definition['Please join my group.'] = '제 <a href="{Url,html}">그룹에</a> 가입하십시오.';
 $Definition['Please join my group: %s'] = '제 그룹에 가입해 주세요: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '리디렉트 되고 있으니 기다려 주십시오. 만약 리디렉트되지 않으면, <a href="%s"> 여기 </a> 를 클릭하십시오.';
@@ -1440,6 +1474,7 @@ $Definition['Report Reason'] = '이유';
 $Definition['Request a new password'] = '새 비밀번호 요청하기';
 $Definition['Request a new password →'] = '새로운 비밀번호를 요청 →';
 $Definition['Request another password reset.'] = '패스워드 변경 다시 신청하기';
+$Definition['Request Badge'] = '배지 요청';
 $Definition['Reset Password'] = '비밀번호 재설정';
 $Definition['Reset Your Password'] = '비밀번호 재설정';
 $Definition['Restored'] = '복구됨';
@@ -1525,14 +1560,17 @@ $Definition['Select a community.'] = '하나의 커뮤니티 선택';
 $Definition['Select an image on your computer (2mb max)'] = '컴퓨터에서 이미지를 선택하세요. (최대 2메가)';
 $Definition['Select Discussion'] = '토론 선택';
 $Definition['Select Discussion Type'] = '토론 유형 선택';
+$Definition['Select Existing Collections'] = '기존 컬렉션 선택';
 $Definition['Select one of the following avatars:'] = '다음 아바타 중 하나를 선택하세요:';
 $Definition['Send'] = '보내기';
 $Definition['Send a New Message'] = '새 메시지 보내기';
 $Definition['Send me a follow-up for my answered questions.'] = '답변 한 질문에 대한 후속 조치를 보내주세요.';
 $Definition['Send Message'] = '메시지 보내기';
+$Definition['Send notifications as emails'] = '이메일로 알림 보내기';
 $Definition['Send Q&A Follow-up Email'] = 'Q & A 후속 이메일 보내기';
 $Definition['Send Report'] = '보고서 보내기';
 $Definition['Send report'] = '보고서 보내기';
+$Definition['Send Request'] = '요청 보내기';
 $Definition['sep and'] = '그리고';
 $Definition['Set a New Warning Level'] = '새 경고 레벨 정하기';
 $Definition['Set A Password'] = '비밀번호 설정';
@@ -1731,6 +1769,7 @@ $Definition['This setting loads the page before executing Javascript which can i
 ';
 $Definition['This site is protected by reCAPTCHA and the Google'] = '이 사이트는 recCAPtCHA 및 Google에 의해 보호됩니다.';
 $Definition['This text has been converted from another format.'] = '이 텍스트는 다른 형식에서 변환되었습니다.';
+$Definition['This user\'s profile is private.'] = '이 사용자의 프로필은 비공개입니다.';
 $Definition['This user has been banned'] = '이 사용자는 차단되었습니다';
 $Definition['This user has been deleted.'] = '이 사용자는 삭제되었습니다.';
 $Definition['This user has been marked as a troll.'] = '이 사용자는 트롤로 표시되었습니다. ';
@@ -1748,6 +1787,13 @@ $Definition['Title'] = '제목';
 $Definition['title'] = '제목';
 $Definition['TLS'] = 'TLS ';
 $Definition['To'] = '___에게';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = '계정을 활성화하려면 다음 링크를 따르십시오.
+%s
+
+';
 $Definition['Today'] = '오늘 ';
 $Definition['Toggle Category'] = '카테고리 토글';
 $Definition['Toggle full page'] = '전체 페이지로 토글';
@@ -1792,6 +1838,7 @@ $Definition['Undefined foreign content'] = '정의되지 않은 이질적인 내
 $Definition['Undo'] = '실행 취소';
 $Definition['Undo Follow'] = '팔로우 끊기';
 $Definition['Unfollow'] = '언팔로우';
+$Definition['Unfollow Category'] = '팔로우 해제 카테고리';
 $Definition['Unhide'] = '숨김 해제';
 $Definition['Unignore'] = '무시 취소';
 $Definition['UniqueID'] = '고유 ID';

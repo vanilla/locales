@@ -202,6 +202,7 @@ $Definition['Choose who can send out invitations to new members:'] = 'Yeni üyel
 $Definition['Class'] = 'Sınıf';
 $Definition['Classic table layout used by traditional forums'] = 'Geleneksel forumlar tarafından kullanılan düzen';
 $Definition['Clean Spam'] = 'Spam\'ı Temizle';
+$Definition['Clear All'] = 'Hepsini temizle';
 $Definition['Click a tag name to edit. Click x to remove.'] = 'Düzenlemek için bir etiket adını tıklayın. Kaldırmak için x işaretine tıklayın.';
 $Definition['Click here to apply it.'] = 'Uygulamak için buraya tıklayın.';
 $Definition['Click here to carry on.'] = 'Devam etmek için buraya tıklayın.';

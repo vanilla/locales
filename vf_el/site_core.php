@@ -149,6 +149,7 @@ $Definition['[Deleted User]'] = '[Διεγραμμένος Χρήστης]';
 
 $Definition['About'] = 'Σχετικά';
 $Definition['About %s users'] = 'Περίπου %s χρήστες';
+$Definition['About Me'] = 'Σχετικά με μένα';
 $Definition['About the event'] = 'Σχετικά με το συμβάν';
 $Definition['AboutToDelete'] = 'Πρόκειται να διαγράψετε το %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Πρόκειται να διαγράψετε το %1$s από το %2$s των επιλεγμένων συζητήσεων.';
@@ -160,6 +161,7 @@ $Definition['Accept this answer.'] = 'Δεχτείτε αυτή την απάν�
 $Definition['Access the Site'] = 'Αποκτήσετε πρόσβαση στην Ιστοσελίδα';
 $Definition['Access Tokens'] = 'Πρόσβαση Tokens';
 $Definition['Account & Privacy'] = 'Λογαριασμός & Απόρρητο';
+$Definition['Account & Privacy Settings'] = 'Ρυθμίσεις λογαριασμού και απορρήτου';
 $Definition['Account Options'] = 'Επιλογές Λογαριασμού';
 $Definition['Actions'] = 'Ενέργειες';
 $Definition['Activate'] = 'Ενεργοποίηση';
@@ -202,6 +204,7 @@ $Definition['Add Note'] = 'Προσθήκη Σημείωσης';
 $Definition['Add People to this Conversation'] = 'Προσθέστε Ατομα σε αυτή τη Συνομιλία';
 $Definition['Add Route'] = 'Προσθέστε Δρομολόγηση';
 $Definition['Add to Collection'] = 'Προσθήκη στη συλλογή.';
+$Definition['Add to Collections'] = 'Προσθήκη στις Συλλογές';
 $Definition['Admin'] = 'Διαχειριστής';
 $Definition['Administrator'] = 'Διαχειριστής';
 $Definition['Administrator Activity'] = 'Δραστηριότητα Διαχειριστή';
@@ -308,6 +311,8 @@ $Definition['Back to Discussions'] = 'Πίσω στους Διαγωνισμού
 $Definition['Back to Profile'] = 'Επιστροφή στο Προφίλ';
 $Definition['Badge'] = 'Έμβλημα';
 $Definition['Badge404'] = 'Το Έμβλημα δε βρέθηκε.';
+$Definition['Badge is not available.'] = 'Το σήμα δεν είναι διαθέσιμο.';
+$Definition['BadgeReasonPrompt'] = 'Πιστεύεις ότι σου αξίζει αυτό το σήμα; Πες μας γιατί.';
 $Definition['Badges'] = 'Εμβλήματα';
 $Definition['BadgesModuleTitle'] = 'Εμβλήματα';
 $Definition['BadgesNobody'] = 'Κανείς δεν έχει αποκτήσει αυτό το έμβλημα ακόμη.';
@@ -364,6 +369,7 @@ $Definition['Case Number'] = 'Αριθμός υπόθεσης';
 $Definition['Casual'] = 'Τυχαίος';
 $Definition['Categories'] = 'Κατηγορίες';
 $Definition['Categories & Groups'] = 'Κατηγορίες και Ομάδες';
+$Definition['CategoriesNoFollowed'] = 'Δεν ακολουθήθηκαν κατηγορίες';
 $Definition['CategoriesShowFollowed'] = 'Δείτε μόνο τις κατηγορίες που ακολουθείτε.';
 $Definition['CategoriesShowUnfollowed'] = 'Εμφάνιση κρυμμένων κατηγοριών';
 $Definition['CategoriesViewingAll'] = 'Βλέπετε όλες τις κατηγορίες';
@@ -472,10 +478,12 @@ $Definition['Created by %s'] = 'Δημιουργήθηκε από %s';
 $Definition['Created Date'] = 'Ημερομηνία δημιουργίας';
 $Definition['Create Discussions'] = 'Δημιουργία Συζητήσεων';
 $Definition['Created on %s'] = 'Δημιουργήθηκε στις %s';
+$Definition['Create New Collections'] = 'Δημιουργία Νέων Συλλογών';
 $Definition['Create New Discussion'] = 'Δημιουργία Νέας Συζήτησης';
 $Definition['Create One.'] = 'Δημιουργία ενός.';
 $Definition['Current'] = 'Τρέχων';
 $Definition['Currently: '] = 'Αυτή τη στιγμή:';
+$Definition['Current Username'] = 'Τρέχον όνομα χρήστη';
 $Definition['Custom Information'] = 'Προσαρμοσμένες Πληροφορίες';
 $Definition['Customize'] = 'Προσαρμογή';
 $Definition['customize your profile now'] = 'προσαρμόστε το προφίλ σας τώρα';
@@ -723,6 +731,7 @@ $Definition['Folder'] = 'Φάκελος';
 $Definition['Folders'] = 'Φάκελοι';
 $Definition['Follow'] = 'Ακολουθήστε';
 $Definition['Follow %s'] = 'Ακολουθήστε το χρήστη %s';
+$Definition['Follow Category'] = 'Ακολουθήστε την κατηγορία';
 $Definition['Followed by %d people'] = 'Ακολουθείται από %d ανθρώπους';
 $Definition['Followed by %d person'] = 'Ακολουθείται από %d άτομο.';
 $Definition['followed categories'] = 'κατηγορίες που ακολουθήθηκαν';
@@ -837,6 +846,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'Έχετε <a href="{Url,h
 $Definition['Height (mobile)'] = 'Ύψος (κινητό)';
 $Definition['Hello!'] = 'Χαίρετε!';
 $Definition['Hello %s!'] = 'Γειά σου %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Γεια σας,
+
+Ένας λογαριασμός έχει δημιουργηθεί για εσάς στο φόρουμ %s.
+
+';
 $Definition['Hello {User.Name}!'] = 'Γειά σου {User.Name}!';
 $Definition['Help'] = 'Βοήθεια';
 $Definition['Help Menu'] = 'Βοήθεια';
@@ -891,6 +909,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Προσθέστε περιορισμ
 $Definition['ImageUploadLimits.Width2'] = 'Θα γίνει σμίκρυνση των εικόνων εάν ξεπερνούν αυτό το πλάτος.';
 $Definition['Image URL'] = 'Εικόνα URL';
 $Definition['in'] = 'σε';
+$Definition['In <0/>.'] = 'Σε <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'Σε <0/> και πρόσφατες συζητήσεις.';
 $Definition['In <b>%s.</b>'] = 'Στο <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Στο <b>%s.</b> και σε πρόσφατες συζητήσεις';
 $Definition['Inbox'] = 'Εισερχόμενα';
@@ -999,6 +1019,7 @@ $Definition['Loading Modal'] = 'Φόρτωση Παράθυρου Διαλόγο
 $Definition['Locale'] = 'Τοπικές Ρυθμίσεις';
 $Definition['Log'] = 'Αρχείο καταγραφής';
 $Definition['log'] = 'Σύνδεση';
+$Definition['Log in here to update your notification preferences'] = 'Συνδεθείτε εδώ για να ενημερώσετε τις προτιμήσεις ειδοποιήσεών σας';
 $Definition['Login with Facebook'] = 'Σύνδεση μέσω Facebook';
 
 $Definition['Major'] = 'Ενήλικος';
@@ -1106,6 +1127,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Η πιο πρόσφατη συζήτηση';
 $Definition['Move'] = 'Μετακίνησε';
 $Definition['Moved: %s'] = 'Μετακινήθηκαν: %s';
+$Definition['Move Discussion'] = 'Μετακίνηση συζήτησης';
 $Definition['Mute'] = 'Σίγαση';
 $Definition['My Account'] = 'Ο Λογαριασμός Μου';
 $Definition['My Account Tab'] = 'Καρτέλα Λογαριασμός Μου';
@@ -1149,6 +1171,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Νέα Ψηφοφορία';
 $Definition['New Post'] = 'Νέα ανάρτηση';
 $Definition['New Question'] = 'Νέα Ερώτηση';
+$Definition['New Username'] = 'Νέο όνομα χρήστη';
 $Definition['Next'] = 'Επόμενη';
 $Definition['Next Page'] = 'Επόμενη Σελίδα';
 $Definition['Ninth Anniversary'] = 'Ένατη επέτειος';
@@ -1165,6 +1188,7 @@ $Definition['No items tagged with %s.'] = 'Δε βρέθηκαν θέματα μ
 $Definition['None'] = 'Κανένα';
 $Definition['No open cases were found.'] = 'Δεν βρέθηκαν ανοιχτές θήκες.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Δεν έχετε άδεια για να διαγράψετε το %1$s των επιλεγμένων συζητήσεων.';
+$Definition['No reactions yet.'] = 'Καμία αντίδραση ακόμα.';
 $Definition['No results'] = 'Κανένα αποτέλεσμα';
 $Definition['No results for \'%s\''] = 'Δε βρέθηκαν αποτελέσματα για \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Κανένα αποτέλεσμα για \'<0/>\'.';
@@ -1181,6 +1205,7 @@ $Definition['Not going'] = 'Δεν θα συμμετάσχω';
 $Definition['Notice'] = 'Σημείωση';
 $Definition['Notification'] = 'Ειδοποίηση';
 $Definition['Notification Preferences'] = 'Προτιμήσεις Ειδοποιήσεων';
+$Definition['Notification preferences enabled tooltip'] = 'Οι ειδοποιήσεις ανάρτησης πρέπει να είναι ενεργοποιημένες πριν από τις νέες ειδοποιήσεις σχολίων και τη λήψη ειδοποιήσεων καθώς είναι διαθέσιμα τα μηνύματα ηλεκτρονικού ταχυδρομείου.';
 $Definition['Notifications'] = 'Ειδοποιήσεις';
 $Definition['Notifications Postmaster'] = 'Ειδοποιήσεις Postmaster';
 $Definition['Notifictions'] = 'Υπενθυμίσεις';
@@ -1206,6 +1231,8 @@ $Definition['Notify of all new discussions.'] = 'Ειδοποίηση για ό�
 $Definition['Notify of all new discussions by email.'] = 'Ειδοποίηση για όλες τις νέες συζητήσεις μέσω email.';
 $Definition['Notify of all new posts.'] = 'Ειδοποίηση για όλες τις νέες αναρτήσεις.';
 $Definition['Notify of all new posts by email.'] = 'Ειδοποίηση για όλες τις νέες αναρτήσεις μέσω email.';
+$Definition['Notify of new comments'] = 'Ειδοποίηση για νέα σχόλια';
+$Definition['Notify of new posts'] = 'Ειδοποίηση για νέες αναρτήσεις';
 $Definition['No Title'] = 'Δεν υπάρχει Τίτλος';
 $Definition['Not much happening here, yet.'] = 'Δεν συμβαίνει κάτι εδώ, ακόμα.';
 $Definition['Not registered?'] = 'Δεν έχετε εγγραφεί;';
@@ -1306,6 +1333,13 @@ $Definition['Placeholder'] = 'Ενδεικτικό θέσης';
 $Definition['Places'] = 'Μέρη';
 $Definition['Play the sound again'] = 'Παίξτε τον ήχο ξανά';
 $Definition['Play Video'] = 'Αναπαραγωγή Βίντεο';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Επικοινωνήστε μαζί μας εάν έχετε ερωτήσεις σχετικά με αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου.
+
+Με εκτίμηση,
+%s';
 $Definition['Please join my group.'] = 'Παρακαλώ εγγραφείτε στην <a href="{Url,html}">ομάδα μου</a>.';
 $Definition['Please join my group: %s'] = 'Εγγραφείτε στην ομάδα μου: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Παρακαλώ περιμένετε ενώ ανακατευθύνεστε. Αν δεν ανακατευθυνθείτε, πατήστε <a href="%s">εδώ</a>.';
@@ -1471,6 +1505,7 @@ $Definition['Reputation'] = 'Φήμη';
 $Definition['Request a new password'] = 'Αίτηση νέου κωδικού';
 $Definition['Request a new password →'] = 'Αίτημα νέου κωδικού →';
 $Definition['Request another password reset.'] = 'Αίτηση νέας επαναφοράς κωδικού.';
+$Definition['Request Badge'] = 'Σήμα αιτήματος';
 $Definition['Reset Password'] = 'Επαναφορά Κωδικού';
 $Definition['Reset Your Password'] = 'Επαναφορά του κωδικού πρόσβασής σας';
 $Definition['Restore'] = 'Επαναφορά';
@@ -1564,14 +1599,17 @@ $Definition['Select a community.'] = 'Επιλέξτε κοινότητα.';
 $Definition['Select an image on your computer (2mb max)'] = 'Επέλεξε μια εικόνα από τον υπολογιστή (2mb max)';
 $Definition['Select Discussion'] = 'Επιλογή Συζήτησης';
 $Definition['Select Discussion Type'] = 'Επιλέξτε Τύπος συζήτησης';
+$Definition['Select Existing Collections'] = 'Επιλέξτε Υπάρχουσες Συλλογές';
 $Definition['Select one of the following avatars:'] = 'Επιλέξτε ένα από τα ακόλουθα άβαταρ:';
 $Definition['Send'] = 'Αποστολή';
 $Definition['Send a New Message'] = 'Στείλτε ένα Νέο Μήνυμα';
 $Definition['Send me a follow-up for my answered questions.'] = 'Στείλτε μου συνέχεια για τις απαντήσεις μου.';
 $Definition['Send Message'] = 'Αποστολή Μηνύματος';
+$Definition['Send notifications as emails'] = 'Στείλτε ειδοποιήσεις ως email';
 $Definition['Send Q&A Follow-up Email'] = 'Αποστολή ερωτήματος ηλεκτρονικού ταχυδρομείου παρακολούθησης';
 $Definition['Send Report'] = 'Αποστολή Αναφοράς';
 $Definition['Send report'] = 'Στείλτε αναφορά';
+$Definition['Send Request'] = 'Στείλε αίτημα';
 $Definition['sep and'] = 'και';
 $Definition['Set a New Warning Level'] = 'Ορισμός Νέου Επιπέδου Προειδοποίησης';
 $Definition['Set A Password'] = 'Ορισμός Κωδικό';
@@ -1787,6 +1825,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Η απάντηση
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Αυτή η ρύθμιση φορτώνει τη σελίδα πριν από την εκτέλεση Javascript και μπορεί να βελτιώσει το SEO σας.<br><strong>** Προειδοποίηση: Η ενεργοποίηση αυτής της δυνατότητας μπορεί να προκαλέσει λάθη Javascript στον ιστότοπό σας.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Αυτός ο ιστότοπος προστατεύεται από το reCAPTCHA και την Google';
 $Definition['This text has been converted from another format.'] = 'Αυτό το κείμενο έχει μετατραπεί από άλλη μορφή.';
+$Definition['This user\'s profile is private.'] = 'Το προφίλ αυτού του χρήστη είναι ιδιωτικό.';
 $Definition['This user has been banned'] = 'Αυτός ο χρήστης έχει αποκλειστεί';
 $Definition['This user has been deleted.'] = 'Αυτός ο χρήστης έχει διαγραφεί.';
 $Definition['This user has been marked as a troll.'] = 'Αυτός ο χρήστης έχει επισημανθεί ως ενοχλητικός.';
@@ -1804,6 +1843,13 @@ $Definition['Title'] = 'Τίτλος';
 $Definition['title'] = 'τίτλος';
 $Definition['TLS'] = 'TSL';
 $Definition['To'] = 'Προς';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Για να ενεργοποιήσετε τον λογαριασμό σας, ακολουθήστε αυτόν τον σύνδεσμο:
+%s
+
+';
 $Definition['Today'] = 'Σήμερα';
 $Definition['Toggle Category'] = 'Εναλλαγή Κατηγορίας';
 $Definition['Toggle full page'] = 'Εναλλαγή πλήρους σελίδας';
@@ -1849,6 +1895,7 @@ $Definition['Undefined foreign content'] = 'Απροσδιόριστο ξένο 
 $Definition['Undo'] = 'Αναίρεση';
 $Definition['Undo Follow'] = 'Αναίρεση Ακολουθίας';
 $Definition['Unfollow'] = 'Να μην ακολουθείτε';
+$Definition['Unfollow Category'] = 'Κατάργηση παρακολούθησης κατηγορίας';
 $Definition['Unhide'] = 'Αφαίρεση απόκρυψης';
 $Definition['Unignore'] = 'Aναίρεση παράβλεψης';
 $Definition['UniqueID'] = 'Αποκλειστική ταυτότητα';

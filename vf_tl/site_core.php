@@ -143,6 +143,7 @@ $Definition['[Deleted User]'] = '[I-delete Ang Gumagamit]';
 
 $Definition['About'] = 'Tungkol sa';
 $Definition['About %s users'] = 'Tungkol sa mga user ng %s';
+$Definition['About Me'] = 'Tungkol sa Akin';
 $Definition['About the event'] = 'Tungkol sa event';
 $Definition['AboutToDelete'] = 'Buburahin mo na ang %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'Buburahin mo na ang %1$s sa %2$s (na) napiling usapan.';
@@ -153,6 +154,7 @@ $Definition['Accept this answer.'] = 'Tanggapin ang sagot na ito.';
 $Definition['Access the Site'] = 'I-access ang Site';
 $Definition['Access Tokens'] = 'Mga Token para sa Pag-access';
 $Definition['Account & Privacy'] = 'Account at Privacy';
+$Definition['Account & Privacy Settings'] = 'Mga Setting ng Account at Privacy';
 $Definition['Account Options'] = 'Account na mga Opsyon';
 $Definition['Actions'] = 'Mga Aksyon';
 $Definition['Activate'] = 'I-activate';
@@ -198,6 +200,7 @@ $Definition['Add Note'] = 'Magdagdag Ng Paalala';
 $Definition['Add People to this Conversation'] = 'Magdagdag ng mga tao sa paguusap na ito';
 $Definition['Add Route'] = 'Magdagdag ng mga Ruta';
 $Definition['Add to Collection'] = 'Idagdag sa Koleksiyon.';
+$Definition['Add to Collections'] = 'Idagdag sa Mga Koleksyon';
 $Definition['Administrator Activity'] = 'Aktibidad ng Administrador';
 $Definition['Administrator and moderator'] = 'Tagapangasiwa at tagapamagitan';
 $Definition['administrators'] = 'mga administrador';
@@ -292,6 +295,8 @@ $Definition['Back'] = 'Bumalik';
 $Definition['Back to Discussions'] = 'Bumalik sa Mga Kumpetisyon';
 $Definition['Back to Profile'] = 'Bumalik sa Profile';
 $Definition['Badge404'] = 'Ang badge ay hindi makita.';
+$Definition['Badge is not available.'] = 'Hindi available ang badge.';
+$Definition['BadgeReasonPrompt'] = 'Sa tingin mo ay karapat-dapat ka sa badge na ito? Sabihin sa amin kung bakit.';
 $Definition['Badges'] = 'Mga Badge';
 $Definition['BadgesModuleTitle'] = 'Mga Badge';
 $Definition['BadgesNobody'] = 'Wala pang nagtamo ng badge na ito.';
@@ -340,6 +345,7 @@ $Definition['Case Number'] = 'Numero ng kaso';
 $Definition['Casual'] = 'Kasual';
 $Definition['Categories'] = 'Mga Kategorya';
 $Definition['Categories & Groups'] = 'Mga Kategorya at Grupo';
+$Definition['CategoriesNoFollowed'] = 'Walang sinusunod na kategorya';
 $Definition['CategoriesShowFollowed'] = 'Ipakita lamang ang mga sinusundang kategorya';
 $Definition['CategoriesShowUnfollowed'] = 'Ipakita ang mga nakatagong kategorya';
 $Definition['CategoriesViewingAll'] = 'Kasalukuyan kang tumitingin sa lahat ng mga kategorya.';
@@ -443,10 +449,12 @@ $Definition['Created by %s'] = 'Ginawa ni %s';
 $Definition['Created Date'] = 'Nilikha ang Petsa';
 $Definition['Create Discussions'] = 'Lumikha ng Talakayan';
 $Definition['Created on %s'] = 'Nagawa noong %s';
+$Definition['Create New Collections'] = 'Gumawa ng Bagong Mga Koleksyon';
 $Definition['Create New Discussion'] = 'Gumawa ng Bagong Talakayan';
 $Definition['Create One.'] = 'Gumawa ng Isa.';
 $Definition['Current'] = 'kasalukuyan';
 $Definition['Currently: '] = 'Sa kasalukuyan:';
+$Definition['Current Username'] = 'Kasalukuyang Username';
 $Definition['Custom Information'] = 'Custom na Impormasyon';
 $Definition['Customize'] = 'I-customize ang';
 $Definition['customize your profile now'] = 'customize ang iyong profile ngayon';
@@ -666,6 +674,7 @@ $Definition['Float right'] = 'Lutang Pakanan';
 $Definition['Folders'] = 'Mga Folder';
 $Definition['Follow'] = 'Sundan';
 $Definition['Follow %s'] = 'Sundan %s';
+$Definition['Follow Category'] = 'Sundin ang Kategorya';
 $Definition['Followed by %d people'] = 'Sunusundan ng %d katao';
 $Definition['Followed by %d person'] = 'Sunusundan ng %d tao';
 $Definition['followed categories'] = 'mga sinusundang kategorya';
@@ -770,6 +779,15 @@ $Definition['HeadlineFormat.Warning'] = 'Si {ActivityUserID,You} ay binalaan si 
 $Definition['HeadlineFormat.Warning.ToUser'] = 'Nababalaanan ka na.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = '<a href="{Url,html}" class="Popup">Binalaan</a> ka na.';
 $Definition['Height (mobile)'] = 'Taas (mobile)';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'Kumusta,
+
+May ginawang account para sa iyo sa %s forum.
+
+';
 $Definition['Help'] = 'Tulong';
 $Definition['Help Menu'] = 'Tulong';
 $Definition['her'] = 'siya';
@@ -822,6 +840,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'Magdagdag ng mga limitasyon sa sukat 
 $Definition['ImageUploadLimits.Width2'] = 'Ang mga larawan paliliitin kung lumagpas sa lapad na ito.';
 $Definition['Image URL'] = 'URL ng Larawan';
 $Definition['in'] = 'Sa';
+$Definition['In <0/>.'] = 'Sa <0/>.';
+$Definition['In <0/> and recent discussions.'] = 'Sa <0/> at kamakailang mga talakayan.';
 $Definition['In <b>%s.</b>'] = 'Sa <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = 'Sa<b>%s</b> at pinakabagong mga diskusyon.';
 $Definition['Incorrect. Try again.'] = 'Mali. Subukan ulit.';
@@ -918,6 +938,7 @@ $Definition['List Ordered'] = 'Isinaayos ang Listahan';
 $Definition['List Unordered'] = 'Hindi Isinaayos ang Listahan';
 $Definition['Loading'] = 'Naglo-load';
 $Definition['Loading Modal'] = 'Naglo-load ng Modal';
+$Definition['Log in here to update your notification preferences'] = 'Mag-log in dito upang i-update ang iyong mga kagustuhan sa notification';
 $Definition['Login with Facebook'] = 'Mag-login gamit ang Facebook';
 
 $Definition['Major'] = 'Mayor';
@@ -1016,6 +1037,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'Ang Pinakabagong Talakayan';
 $Definition['Move'] = 'Ilipat';
 $Definition['Moved: %s'] = 'Nailipat sa: %s';
+$Definition['Move Discussion'] = 'Ilipat ang Talakayan';
 $Definition['Mute'] = 'I-mute';
 $Definition['My Account'] = 'Ang Aking Account';
 $Definition['My Account Tab'] = 'Ang Aking Account Tab';
@@ -1058,6 +1080,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'Bagong Botohan';
 $Definition['New Post'] = 'Bagong Post';
 $Definition['New Question'] = 'Bagong Tanong';
+$Definition['New Username'] = 'Bagong pangalan';
 $Definition['Next'] = 'Sunod';
 $Definition['Next Page'] = 'Susunod na Pahina';
 $Definition['Ninth Anniversary'] = 'Ika-siyam na Anibersaryo';
@@ -1073,6 +1096,7 @@ $Definition['No discussions were found.'] = 'Walang nakitang diskusyon.';
 $Definition['No items tagged with %s.'] = 'Walang mga bagay ang na-tag gamit ang %s.';
 $Definition['No open cases were found.'] = 'Walang natagpuang mga bukas na kaso.';
 $Definition['NoPermissionToDeleteDiscussions'] = 'Wala kang permisong burahin ang %1$s ng napiling usapan.';
+$Definition['No reactions yet.'] = 'Wala pang reaksyon.';
 $Definition['No results'] = 'Walang mga resulta';
 $Definition['No results for \'%s\''] = 'Walang resuta para sa \'%s\'';
 $Definition['No results for \'<0/>\'.'] = 'Walang mga resulta para sa \'<0/>\'.';
@@ -1089,6 +1113,7 @@ $Definition['Not going'] = 'Hindi pupunta';
 $Definition['Notice'] = 'Paunawa';
 $Definition['Notification'] = 'Notipikasyon';
 $Definition['Notification Preferences'] = 'Mga Kagustuhan ng Notipikasyon';
+$Definition['Notification preferences enabled tooltip'] = 'Dapat paganahin ang mga notification sa pag-post bago ang mga bagong notification ng komento at pagtanggap ng mga notification habang available ang mga email.';
 $Definition['Notifications'] = 'Mga Notipikasyon';
 $Definition['Notifications Postmaster'] = 'Mga Postmaster ng Notipikasyon';
 $Definition['Notifictions'] = 'Mga Notipikasyon';
@@ -1114,6 +1139,8 @@ $Definition['Notify of all new discussions.'] = 'Abisuhan ang lahat ng mga bagon
 $Definition['Notify of all new discussions by email.'] = 'Abisuhan ang lahat ng mga bagong talakayan sa pamamagitan ng email.';
 $Definition['Notify of all new posts.'] = 'Abisuhan ang lahat ng mga bagong post.';
 $Definition['Notify of all new posts by email.'] = 'Abisuhan ang lahat ng mga bagong post sa pamamagitan ng email.';
+$Definition['Notify of new comments'] = 'Ipaalam sa mga bagong komento';
+$Definition['Notify of new posts'] = 'Ipaalam sa mga bagong post';
 $Definition['No Title'] = 'Walang Pamagat';
 $Definition['Not much happening here, yet.'] = 'Wala pang masyadong nangyayari dito, sa ngayon.';
 $Definition['Not registered?'] = 'Hindi nakarehistro?';
@@ -1201,6 +1228,13 @@ $Definition['Pinned'] = 'Na-pin';
 $Definition['Places'] = 'Mga lugar';
 $Definition['Play the sound again'] = 'Muling pakinggan ang tunog';
 $Definition['Play Video'] = 'I-play ang Video:';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'Mangyaring makipag-ugnayan sa amin kung mayroon kang mga tanong tungkol sa email na ito.
+
+Taos-puso,
+%s';
 $Definition['Please join my group.'] = 'Pakiusap ay sumali sa aking <a href="{Url,html}">grupo</a>.';
 $Definition['Please join my group: %s'] = 'Mangyaring sumali sa grupo ko: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'Pakisuyong maghintay habang inililipat ka. Kung hindi ka nailipat, I-click <a href="%s">dito</a>.';
@@ -1354,6 +1388,7 @@ $Definition['Report Reason'] = 'Dahilan';
 $Definition['Request a new password'] = 'Humiling ng bagong password';
 $Definition['Request a new password →'] = 'Humiling ng bagong password →';
 $Definition['Request another password reset.'] = 'Mag-request ng isa pang password reset.';
+$Definition['Request Badge'] = 'Humiling ng Badge';
 $Definition['Reset Password'] = 'I-reset ang Password';
 $Definition['Reset Your Password'] = 'I-reset ang Iyong Password';
 $Definition['Restored'] = 'Naibalik';
@@ -1438,14 +1473,17 @@ $Definition['Select a community.'] = 'Pumili ng komunidad';
 $Definition['Select an image on your computer (2mb max)'] = 'Pumili ng isang imahe sa iyong computer (2mb max)';
 $Definition['Select Discussion'] = 'Piliin ang Talakayan';
 $Definition['Select Discussion Type'] = 'Piliin ang Uri ng Talakayan';
+$Definition['Select Existing Collections'] = 'Piliin ang Mga Umiiral na Koleksyon';
 $Definition['Select one of the following avatars:'] = 'Piliin ang isa sa mga avatar na sumusunod:';
 $Definition['Send'] = 'Ipadala';
 $Definition['Send a New Message'] = 'Magpadala ng Bagong Mensahe';
 $Definition['Send me a follow-up for my answered questions.'] = 'Magpadala sa akin ng isang follow-up para sa aking nasagot na mga katanungan.';
 $Definition['Send Message'] = 'Magpadala ng mensahe';
+$Definition['Send notifications as emails'] = 'Magpadala ng mga notification bilang mga email';
 $Definition['Send Q&A Follow-up Email'] = 'Magpadala ng Q&A na Susunod na Email';
 $Definition['Send Report'] = 'Magpadala ng Report';
 $Definition['Send report'] = 'Ipadala ang report';
+$Definition['Send Request'] = 'Magpadala ng Kahilingan';
 $Definition['sep and'] = 'at';
 $Definition['Set a New Warning Level'] = 'I-set ang isang New Warning Level';
 $Definition['Set A Password'] = 'I-set ang isang Password';
@@ -1626,6 +1664,7 @@ $Definition['This question\'s answer has been accepted.'] = 'Ang sagot sa tanong
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'Nilo-load ng setting na ito ang pahina bago maisagawa ang Javascript na maaaring mapahusay ang iyong SEO.<br><strong>**Babala: Ang pagpapagana ng feature na ito ay maaaring maging sanhi ng mga Javascript error sa iyong site.**</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Ang site na ito ay protektado ng reCAPTCHA at ng Google';
 $Definition['This text has been converted from another format.'] = 'Ang tekstong ito ay na-convert mula sa ibang format.';
+$Definition['This user\'s profile is private.'] = 'Pribado ang profile ng user na ito.';
 $Definition['This user has been banned'] = 'Bawal ang gumagamit na ito';
 $Definition['This user has been deleted.'] = 'Ang gumagamit na ito ay tinanggal.';
 $Definition['This user has been marked as a troll.'] = 'Ang user na ito ay namarkahan bilang isang troll.';
@@ -1642,6 +1681,13 @@ $Definition['Thumbnail for: '] = 'Thumbnail para sa:';
 $Definition['Title'] = 'Pamagat';
 $Definition['title'] = 'pamagat';
 $Definition['To'] = 'Para Kay';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'Upang i-activate ang iyong account, mangyaring sundan ang link na ito:
+%s
+
+';
 $Definition['Today'] = 'Sa araw na ito';
 $Definition['Toggle Category'] = 'Kategorya ng Toggle';
 $Definition['Toggle full page'] = 'Ilipat sa full page';
@@ -1684,6 +1730,7 @@ $Definition['Undefined foreign content'] = 'Hindi matukoy na foreign content';
 $Definition['Undo'] = 'I-undo';
 $Definition['Undo Follow'] = 'Tanggalin ang Pagsubaybay';
 $Definition['Unfollow'] = 'Hindi sundan';
+$Definition['Unfollow Category'] = 'I-unfollow ang Kategorya';
 $Definition['Unhide'] = 'Huwag itago';
 $Definition['Unignore'] = 'I-unignore';
 $Definition['Unknown'] = 'Hindi Kilala';

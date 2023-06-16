@@ -146,6 +146,7 @@ $Definition['[Deleted User]'] = '[حذف شدہ صارف]';
 
 $Definition['About'] = 'کے بارے میں';
 $Definition['About %s users'] = '%s صارفین کے بارے میں';
+$Definition['About Me'] = 'میرے بارے میں';
 $Definition['About the event'] = 'تقریب کے بارے میں';
 $Definition['AboutToDelete'] = 'آپ %s کو حذف کرنے والے ہیں۔';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'آپ %2$s منتخب مباحثوں میں سے %1$s کو حذف کرنے والے ہیں۔';
@@ -157,6 +158,7 @@ $Definition['Accept this answer.'] = 'اس جواب کو قبول کریں۔';
 $Definition['Access the Site'] = 'سائٹ تک رسائی حاصل کریں';
 $Definition['Access Tokens'] = 'ٹوکن تک رسائی حاصل کریں';
 $Definition['Account & Privacy'] = 'اکاؤنٹ اور رازداری';
+$Definition['Account & Privacy Settings'] = 'اکاؤنٹ اور رازداری کی ترتیبات';
 $Definition['Account Options'] = 'اکاؤنٹ اختیارات';
 $Definition['Actions'] = 'عمل';
 $Definition['Activate'] = 'فعال کریں';
@@ -199,6 +201,7 @@ $Definition['Add Note'] = 'نوٹ شامل کریں';
 $Definition['Add People to this Conversation'] = 'اس گفتگو میں لوگ شامل کریں';
 $Definition['Add Route'] = 'روٹ شامل کریں';
 $Definition['Add to Collection'] = 'مجموعہ میں شامل کریں۔';
+$Definition['Add to Collections'] = 'مجموعوں میں شامل کریں۔';
 $Definition['Admin'] = 'منتظم';
 $Definition['Administrator'] = 'منتظم';
 $Definition['Administrator Activity'] = 'منتظمین سرگرمی';
@@ -272,6 +275,7 @@ $Definition['Approved'] = 'منظورشدہ';
 $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'کیا آپ کو یقین ہے کہ آپ واقعی یہ کارروائی کرنا چاہتے ہیں؟';
 $Definition['Are you attending this event?'] = 'کیا کو اس ایونٹ میں شرکت کر رہے ہیں؟';
 $Definition['Are you sure you want to delete this %s?'] = 'کیا آپ کو یقین ہے کہ آپ اس %s کو حذف کرنا چاہتے ہیں؟';
+$Definition['Are you sure you want to delete this image? You won\'t be able to recover it.'] = 'کیا آپ واقعی اس تصویر کو حذف کرنا چاہتے ہیں؟ آپ اسے بازیافت نہیں کر پائیں گے۔';
 $Definition['Are you sure you want to do that?'] = 'کیا آپ کو یقین ہے کہ آپ ایسا کرنے چاہتے ہیں؟';
 $Definition['Are you sure you want to do this?'] = 'کیا آپ کو یقین ہے کہ آپ یہ کرنے چاہتے ہیں؟';
 $Definition['Are you sure you want to ignore <b>%s</b>?'] = 'کیا آپ واقعی <b>%s</b> کو نظر انداز کرنا چاہتے ہیں؟';
@@ -303,6 +307,8 @@ $Definition['Back to Discussions'] = 'مقابلوں پر واپس';
 $Definition['Back to Profile'] = 'پروفائل پر واپس';
 $Definition['Badge'] = 'بیج';
 $Definition['Badge404'] = 'بیج نہیں ملا۔';
+$Definition['Badge is not available.'] = 'بیج دستیاب نہیں ہے۔';
+$Definition['BadgeReasonPrompt'] = 'کیا آپ کو لگتا ہے کہ آپ اس بیج کے مستحق ہیں؟ ہمیں بتائیں کیوں؟';
 $Definition['Badges'] = 'بیجز';
 $Definition['BadgesModuleTitle'] = 'بیجز';
 $Definition['BadgesNobody'] = 'کسی نے بھی اب تک اس بیج کو حاصل نہیں کیا۔';
@@ -360,6 +366,7 @@ $Definition['Case Number'] = 'کیس نمبر';
 $Definition['Casual'] = 'عام';
 $Definition['Categories'] = 'زمرہ جات';
 $Definition['Categories & Groups'] = 'زمرہ جات اور گروپس';
+$Definition['CategoriesNoFollowed'] = 'کسی زمرے کی پیروی نہیں کی گئی۔';
 $Definition['CategoriesShowFollowed'] = 'صرف پیروی کردہ زمرہ جات دکھائیں';
 $Definition['CategoriesShowUnfollowed'] = 'پوشیدہ ذمرہ جات دکھائیں';
 $Definition['CategoriesViewingAll'] = 'آپ فی الحال تمام زمرے دیکھ رہے ہیں۔';
@@ -466,10 +473,12 @@ $Definition['Created by %s'] = '%s کے ذریعہ تشکیل دیا گیا ہے
 $Definition['Created Date'] = 'تشکیل کی تاریخ';
 $Definition['Create Discussions'] = 'بحث بنائیں';
 $Definition['Created on %s'] = '%s پر تشکیل دیا گیا';
+$Definition['Create New Collections'] = 'نئے مجموعے بنائیں';
 $Definition['Create New Discussion'] = 'نئی بحث تخلیق کریں';
 $Definition['Create One.'] = 'ایک بنائیں۔';
 $Definition['Current'] = 'موجودہ';
 $Definition['Currently: '] = 'حالیہ:';
+$Definition['Current Username'] = 'موجودہ صارف نام';
 $Definition['Custom Information'] = 'اپنی مرضی کی معلومات';
 $Definition['Customize'] = 'اپنی مرضی کے مطابق بنائیں';
 $Definition['customize your profile now'] = 'ابھی پروفائل اپنی مرصی کے مطابق بنائیں';
@@ -716,6 +725,7 @@ $Definition['Folder'] = 'پوشہ';
 $Definition['Folders'] = 'پوشے';
 $Definition['Follow'] = 'کی پیروی کریں';
 $Definition['Follow %s'] = '%s کی پیروی کریں';
+$Definition['Follow Category'] = 'زمرہ پر عمل کریں۔';
 $Definition['Followed by %d people'] = '%d لوگوں کی طرف سے پیروی';
 $Definition['Followed by %d person'] = '%d شخص کی طرف سے پیروی';
 $Definition['followed categories'] = 'پیروی کردہ زمرہ جات';
@@ -829,6 +839,15 @@ $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'آپ کو <a href="{Url,ht
 $Definition['Height (mobile)'] = 'اونچائی (موبائل)';
 $Definition['Hello!'] = 'ھیلو!';
 $Definition['Hello %s!'] = 'ھیلو %s!';
+$Definition['Hello,
+
+An account has been created for you at the %s forum.
+
+'] = 'ہیلو،
+
+%s فورم پر آپ کے لیے ایک اکاؤنٹ بنا دیا گیا ہے۔
+
+';
 $Definition['Hello {User.Name}!'] = 'ہیلو {User.Name}!';
 $Definition['Help'] = 'مدد';
 $Definition['Help Menu'] = 'مدد';
@@ -883,6 +902,8 @@ $Definition['ImageUploadLimits.Notes2'] = 'مباحثوں اور تبصروں م
 $Definition['ImageUploadLimits.Width2'] = 'اگر تصاویر کی چوڑائی اس کی حد سے تجاوز کرے گی تو ان کو کم کیا جائے گا۔';
 $Definition['Image URL'] = 'تصویر URL';
 $Definition['in'] = 'میں';
+$Definition['In <0/>.'] = '<0/> میں۔';
+$Definition['In <0/> and recent discussions.'] = '<0/> اور حالیہ مباحثوں میں۔';
 $Definition['In <b>%s.</b>'] = 'میں <b>%s.</b>';
 $Definition['In <b>%s</b> and recent discussions.'] = '<b>%s</b> میں اور حالیہ بات چیت۔';
 $Definition['Inbox'] = 'انباکس';
@@ -989,6 +1010,7 @@ $Definition['Loading Modal'] = 'موڈل لوڈ ہو رہا ہے';
 $Definition['Locale'] = 'زبان';
 $Definition['Log'] = 'لاگ ان کریں';
 $Definition['log'] = 'لاگ ان کریں';
+$Definition['Log in here to update your notification preferences'] = 'اپنی اطلاع کی ترجیحات کو اپ ڈیٹ کرنے کے لیے یہاں لاگ ان کریں۔';
 $Definition['Login with Facebook'] = 'Facebook سے لاگ ان کریں';
 
 $Definition['Major'] = 'بڑا';
@@ -1097,6 +1119,7 @@ $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] 
 $Definition['Most recent discussion'] = 'حالیہ بحث';
 $Definition['Move'] = 'منتقل کریں';
 $Definition['Moved: %s'] = 'منتقل: %s';
+$Definition['Move Discussion'] = 'بحث کو منتقل کریں۔';
 $Definition['Mute'] = 'گونگا';
 $Definition['My Account'] = 'میرا اکاونٹ';
 $Definition['My Account Tab'] = 'میرا اکاؤنٹ ٹیب';
@@ -1139,6 +1162,7 @@ $Definition['New password does not match. Please reconfirm your new password.'] 
 $Definition['New Poll'] = 'نیا سروے';
 $Definition['New Post'] = 'نئی پوسٹ';
 $Definition['New Question'] = 'نیا سوال۔';
+$Definition['New Username'] = 'نیا صارف نام';
 $Definition['Next'] = 'اگلا';
 $Definition['Next Page'] = 'اگلا صفحہ';
 $Definition['Ninth Anniversary'] = 'نویں سالگرہ';
@@ -1155,6 +1179,7 @@ $Definition['No items tagged with %s.'] = '%s کے ساتھ ٹیگ شدہ اشی
 $Definition['None'] = 'کوئی نہیں';
 $Definition['No open cases were found.'] = 'کھلے عام کیس نہیں ملے۔';
 $Definition['NoPermissionToDeleteDiscussions'] = 'آپ کو منتخب بحثوں میں سے %1$s کو حذف کرنے کی اجازت نہیں ہے۔';
+$Definition['No reactions yet.'] = 'ابھی تک کوئی ردعمل نہیں ہے۔';
 $Definition['No results'] = 'کوئی نتیجہ نہیں';
 $Definition['No results for \'%s\''] = '%s\' کے لئے کوئی نتائج نہیں ملے';
 $Definition['No results for \'<0/>\'.'] = '\'<0 />\' کے کوئی نتائج نہیں ہیں۔';
@@ -1171,6 +1196,7 @@ $Definition['Not going'] = 'نہیں جا رہا';
 $Definition['Notice'] = 'نوٹس';
 $Definition['Notification'] = 'اعلان';
 $Definition['Notification Preferences'] = 'اطلاع کی ترجیحات';
+$Definition['Notification preferences enabled tooltip'] = 'تبصرے کی نئی اطلاعات اور ای میلز کے دستیاب ہونے پر اطلاعات موصول کرنے سے پہلے پوسٹ کی اطلاعات کو فعال کرنا ضروری ہے۔';
 $Definition['Notifications'] = 'اطلاعات';
 $Definition['Notifications Postmaster'] = 'نوٹیفیکیشن پوسٹ ماسٹر';
 $Definition['Notifictions'] = 'اعلانات';
@@ -1196,6 +1222,8 @@ $Definition['Notify of all new discussions.'] = 'تمام نئے مباحثوں 
 $Definition['Notify of all new discussions by email.'] = 'تمام نئے مباحثوں کو ای میل کے ذریعے مطلع کریں۔';
 $Definition['Notify of all new posts.'] = 'تمام نئی پوسٹس کے بارے میں مطلع کریں۔';
 $Definition['Notify of all new posts by email.'] = 'تمام نئی پوسٹس کو ای میل کے ذریعے مطلع کریں۔';
+$Definition['Notify of new comments'] = 'نئے تبصروں کی اطلاع دیں۔';
+$Definition['Notify of new posts'] = 'نئی پوسٹس کی اطلاع دیں۔';
 $Definition['No Title'] = 'بلا عنوان';
 $Definition['Not much happening here, yet.'] = 'یہاں ابھی تک، کچھ زیادہ نہیں ہو رہا۔';
 $Definition['Not registered?'] = 'غیر درج شدہ؟';
@@ -1297,6 +1325,13 @@ $Definition['Placeholder'] = 'پلیس ہولڈر';
 $Definition['Places'] = 'مقامات';
 $Definition['Play the sound again'] = 'آواز دوباره چلائیں';
 $Definition['Play Video'] = 'ویڈیو چلائیں';
+$Definition['Please contact us if you have questions regarding this email.
+
+Sincerely,
+%s'] = 'اگر آپ کے پاس اس ای میل سے متعلق سوالات ہیں تو براہ کرم ہم سے رابطہ کریں۔
+
+مخلص،
+%s';
 $Definition['Please join my group.'] = 'براہ کرم میرے<a href="{Url,html}"> گروپ</a> میں شامل ہو جائیں۔';
 $Definition['Please join my group: %s'] = 'براہ کرم میرے گروپ میں شامل ہوں: %s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = 'آپ کو ری ڈائریکٹ کئے جانے کے دوران انتظار کریں۔ اگر آپ کو ری ڈائریکٹ نہیں کیا جاتا تو، <a href="%s"> یہاں</a> کلک کریں۔';
@@ -1462,6 +1497,7 @@ $Definition['Reputation'] = 'ساکھ';
 $Definition['Request a new password'] = 'ایک نئے پاس ورڈ کی درخواست کریں';
 $Definition['Request a new password →'] = ' ایک نئے پاس ورڈ کی درخواست کریں →';
 $Definition['Request another password reset.'] = 'ایک اور پاس ورڈ ری سیٹ کرنے کی درخواست کریں۔';
+$Definition['Request Badge'] = 'بیج کی درخواست کریں۔';
 $Definition['Reset Password'] = 'پاس ورڈ ری سیٹ کریں';
 $Definition['Reset Your Password'] = 'اپنا پاس ورڈ ری سیٹ کریں';
 $Definition['Restore'] = 'بحال کریں';
@@ -1549,14 +1585,17 @@ $Definition['Select a community.'] = 'کسی کمیونٹی کو منتخب کر
 $Definition['Select an image on your computer (2mb max)'] = 'اپنے کمپیوٹر (زیادہ سے زیادہ 2 میگابائٹ) پر ایک تصویر منتخب کریں';
 $Definition['Select Discussion'] = 'گفتگو کا انتخاب کریں';
 $Definition['Select Discussion Type'] = 'بحث کی قسم منتخب کریں۔';
+$Definition['Select Existing Collections'] = 'موجودہ مجموعے کو منتخب کریں۔';
 $Definition['Select one of the following avatars:'] = 'مندرجہ ذیل اوتاروں میں سے ایک منتخب کریں:';
 $Definition['Send'] = 'بھیجیں';
 $Definition['Send a New Message'] = 'نیا پیغام بھیجیں';
 $Definition['Send me a follow-up for my answered questions.'] = 'میرے جوابی سوالات کے لئے مجھے فالو اپ بھیجیں۔';
 $Definition['Send Message'] = 'پیغام بھیجیں';
+$Definition['Send notifications as emails'] = 'اطلاعات کو بطور ای میل بھیجیں۔';
 $Definition['Send Q&A Follow-up Email'] = 'سوال و جواب کی پیروی ای میل ارسال کریں';
 $Definition['Send Report'] = 'رپورٹ بھیجیں';
 $Definition['Send report'] = 'رپورٹ بھیجیں';
+$Definition['Send Request'] = 'درخواست بھیجیں';
 $Definition['sep and'] = 'اور';
 $Definition['Set a New Warning Level'] = 'ایک نئی تنبیہ سطح سیٹ کریں';
 $Definition['Set A Password'] = 'ایک پاس ورڈ سیٹ کریں';
@@ -1726,6 +1765,7 @@ $Definition['These notes can only be seen by moderators.'] = 'یہ نوٹ صرف
 $Definition['These tags are reserved and cannot be used: %s'] = 'یہ ٹیگ محفوظ ہیں اور استعمال نہیں کیے جاسکتے ہیں: %s';
 $Definition['The site is currently undergoing maintenance.'] = 'ویب سائٹ پر اس وقت کام چل رہا ہے۔';
 $Definition['The status for "%s" has changed to %s.'] = '"%s" کی حیثیت %s میں تبدیل ہوگئی ہے۔';
+$Definition['The uploaded file did not have an allowed extension. \\nOnly the following extensions are allowed. \\n%s.'] = 'اپ لوڈ کردہ فائل میں توسیع کی اجازت نہیں تھی۔ \\nصرف درج ذیل ایکسٹینشنز کی اجازت ہے۔ \\n%s۔';
 $Definition['The uploaded file was too big (max %s).'] = 'اپلوڈ شدہ مسل بہت بڑی تھی (زیادہ سے زیادہ %s)۔';
 $Definition['The user has already been warned for this %s.'] = 'صارف کو اس %s کے لیے پہلے ہی خبردار کیا گیا ہے۔';
 $Definition['The user has disabled this notification preference.'] = 'صارف نے اس اطلاع کی ترجیح کو غیر فعال کردیا ہے۔';
@@ -1758,6 +1798,7 @@ $Definition['This question\'s answer has been accepted.'] = 'اس سوال کا 
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'یہ ترتیب جاوا اسکرپٹ پر عمل کرنے سے پہلے پیج کو بوجھ دیتی ہے جو آپ کے SEO کو بہتر بنا سکتی ہے۔ <br> <strong>** انتباہ: اس خصوصیت کو چالو کرنے سے آپ کی ویب سائٹ پر جاوا اسکرپٹ کی غلطیاں ہوسکتی ہیں۔ **</strong>';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'یہ سائٹ reCAPTCHA اور گوگل کے ذریعہ محفوظ ہے';
 $Definition['This text has been converted from another format.'] = 'اس متن کو دوسرے فارمیٹ سے تبدیل کیا گیا ہے۔';
+$Definition['This user\'s profile is private.'] = 'اس صارف کا پروفائل نجی ہے۔';
 $Definition['This user has been banned'] = 'اس صارف پر پابندی لگا دی گئی ہے۔';
 $Definition['This user has been deleted.'] = 'اس صارف کو حذف کر دیا گیا ہے۔';
 $Definition['This user has been marked as a troll.'] = 'اس صارف کو بطور ٹرول نشان زد کیا گیا ہے۔';
@@ -1774,6 +1815,13 @@ $Definition['Thumbnail for: '] = 'کے لئے تھمب نیل:';
 $Definition['Title'] = 'عنوان';
 $Definition['title'] = 'عنوان';
 $Definition['To'] = 'منجانب';
+$Definition['To activate your account, please follow this link:
+%s
+
+'] = 'اپنا اکاؤنٹ چالو کرنے کے لیے، براہ کرم اس لنک پر عمل کریں:
+%s
+
+';
 $Definition['Today'] = 'آج';
 $Definition['Toggle Category'] = 'ٹوگل زمرہ';
 $Definition['Toggle full page'] = 'پورا صفحہ ٹوگل کریں';
@@ -1819,6 +1867,7 @@ $Definition['Undefined foreign content'] = 'غیر وضاحتی غیر ملکی 
 $Definition['Undo'] = 'کالعدم کریں';
 $Definition['Undo Follow'] = 'پیروی کرنا کالعدم کریں';
 $Definition['Unfollow'] = 'پیروی ختم کریں';
+$Definition['Unfollow Category'] = 'زمرہ کی پیروی ختم کریں۔';
 $Definition['Unhide'] = 'ظاہر کریں';
 $Definition['Unignore'] = 'نظر انداز نہ کریں';
 $Definition['Unknown'] = 'نامعلوم';
