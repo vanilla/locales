@@ -1088,6 +1088,7 @@ $Definition['More Results'] = 'More Results';
 $Definition['More…'] = 'More…';
 $Definition['Most Recent'] = 'Most Recent';
 $Definition['Most recent:'] = 'Most recent:';
+$Definition['Most recent: <0/> by <1/>.'] = 'Most recent: <0/> by <1/>.';
 $Definition['Most recent: %1$s by %2$s'] = 'Most recent: %1$s by %2$s';
 $Definition['Most recent by %1$s'] = 'Most recent by %1$s';
 $Definition['Most recent by <0/>'] = 'Most recent by <0/>';
