@@ -721,6 +721,7 @@ $Definition['Follow %s'] = 'Follow %s';
 $Definition['Followed by %d people'] = 'Followed by %d people';
 $Definition['Followed by %d person'] = 'Followed by %d person';
 $Definition['followed categories'] = 'followed categories';
+$Definition['Followed Content'] = 'Followed Content';
 $Definition['Following %d people'] = 'Following %d people';
 $Definition['Following %d person'] = 'Following %d person';
 $Definition['FollowOnly'] = 'Follow the link below to check it out:';
