@@ -387,6 +387,7 @@ $Definition['Change Password'] = 'Change Password';
 $Definition['Change Type'] = 'Change Type';
 $Definition['Change Picture'] = 'Change Picture';
 $Definition['Check all roles that apply to this user:'] = 'Check all roles that apply to this user:';
+$Definition['Check Analytics Data'] = 'Check Analytics Data';
 $Definition['Check it out'] = 'Check it out';
 $Definition['Child Categories'] = 'Child Categories';
 $Definition['Child Categories:'] = 'Child Categories:';
