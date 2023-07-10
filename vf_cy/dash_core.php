@@ -665,6 +665,7 @@ $Definition['Recent News'] = 'Newyddion diweddar';
 $Definition['Record Content'] = 'Cynnwys';
 $Definition['Refresh Comments'] = 'Adnewyddu sylwadau';
 $Definition['Register for Membership'] = 'Cofrestr ar gyfer aelodaeth';
+$Definition['Register IP'] = 'Cofrestr eiddo deallusol';
 $Definition['Register Url'] = 'Gofrestr Url';
 $Definition['Registration'] = 'Cofrestru';
 $Definition['Registration is currently closed.'] = 'Mae cofrestru ar gau ar hyn o bryd.';

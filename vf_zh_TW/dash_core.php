@@ -666,6 +666,7 @@ $Definition['Recent News'] = '最近新聞';
 $Definition['Record Content'] = '內容';
 $Definition['Refresh Comments'] = '更新評論';
 $Definition['Register for Membership'] = '註冊會員';
+$Definition['Register IP'] = '註冊IP';
 $Definition['Register Url'] = '註冊網址';
 $Definition['Registration'] = '註冊';
 $Definition['Registration is currently closed.'] = '目前暫不接受用戶註冊。';

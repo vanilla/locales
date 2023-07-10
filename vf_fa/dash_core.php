@@ -667,6 +667,7 @@ $Definition['Recent News'] = 'خبرهاي تازه';
 $Definition['Record Content'] = 'محتوا';
 $Definition['Refresh Comments'] = 'تازه سازي ديدگاه ها';
 $Definition['Register for Membership'] = 'ثبت نام براي عضويت';
+$Definition['Register IP'] = 'ثبت IP';
 $Definition['Register Url'] = 'آدرس وب ثبت نام';
 $Definition['Registration'] = 'عضويت';
 $Definition['Registration is currently closed.'] = 'عضويت درحال حاضر بسته است.';

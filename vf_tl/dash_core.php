@@ -285,6 +285,7 @@ $Definition['QnAFollowup.Feature.Enabled'] = 'Ang tampok na ito ay nagpapadala n
 $Definition['Recently Added'] = 'Kamakailan Naidagdag';
 $Definition['Recently Commented'] = 'Kamakailan ay Nagkomento';
 $Definition['Record Content'] = 'Content';
+$Definition['Register IP'] = 'Irehistro ang IP';
 $Definition['Reinterpret All Posts As %s'] = 'Muling bigyang kahulugan ang Lahat ng Mga Post Bilang %s';
 $Definition['Reload the page to access recent updates.'] = 'I-reload ang page para ma-access ang mga kamakailang update.';
 $Definition['Reload the page to see recent updates.'] = 'I-reload ang page para makita ang mga kamakailang update.';

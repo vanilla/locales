@@ -657,6 +657,7 @@ $Definition['Recent News'] = 'Recent nieuws';
 $Definition['Record Content'] = 'Inhoud';
 $Definition['Refresh Comments'] = 'Laad reacties opnieuw';
 $Definition['Register for Membership'] = 'Registreer lidmaatschap';
+$Definition['Register IP'] = 'Registreer IP';
 $Definition['Register Url'] = 'Registratie-url';
 $Definition['Registration'] = 'Registratie';
 $Definition['Registration is currently closed.'] = 'Registratie is momenteel uitgeschakeld.';

@@ -668,6 +668,7 @@ $Definition['Recent News'] = 'Ditaba tša Morago Bjale';
 $Definition['Record Content'] = 'Diteng';
 $Definition['Refresh Comments'] = 'Mpshafatša Ditaba';
 $Definition['Register for Membership'] = 'Ngwadiša Gore o be Leloko';
+$Definition['Register IP'] = 'Ngwadiša IP';
 $Definition['Register Url'] = 'Ngwadiša Url';
 $Definition['Registration'] = 'Boingwadišo';
 $Definition['Registration is currently closed.'] = 'Ga bjale boingwadišo bo tswaletšwe.';

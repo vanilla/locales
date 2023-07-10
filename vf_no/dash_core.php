@@ -322,6 +322,7 @@ $Definition['Recently Added'] = 'Nylig lagt til';
 $Definition['Recently Commented'] = 'Nylig kommentert';
 $Definition['Record Content'] = 'Content';
 $Definition['Register for Membership'] = 'Registrer deg';
+$Definition['Register IP'] = 'Registrer IP';
 $Definition['Registration'] = 'Registrering';
 $Definition['Registration is currently closed.'] = 'Registrering på siden er for øyeblikket ikke tilgjengelig.';
 $Definition['Reinterpret All Posts As %s'] = 'Omtolk alle innlegg som %s';

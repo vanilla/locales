@@ -282,6 +282,7 @@ $Definition['QnAFollowup.Feature.Enabled'] = 'Bidh am feart seo a ’cur puist-d
 $Definition['Recently Added'] = 'Air a chur ris o chionn ghoirid';
 $Definition['Recently Commented'] = 'Air a ràdh o chionn ghoirid';
 $Definition['Record Content'] = 'Content';
+$Definition['Register IP'] = 'Clàraich IP';
 $Definition['Reinterpret All Posts As %s'] = 'Ath-mhìneachadh a h-uile post Mar%s';
 $Definition['Reload the page to access recent updates.'] = 'Ath-luchdaich an duilleag gus cothrom fhaighinn air ùrachaidhean o chionn ghoirid.';
 $Definition['Reload the page to see recent updates.'] = 'Ath-luchdaich an duilleag gus na h-ùrachaidhean as ùire fhaicinn.';

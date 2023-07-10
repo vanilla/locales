@@ -668,6 +668,7 @@ $Definition['Recent News'] = 'Son Haberler';
 $Definition['Record Content'] = 'İçeriği';
 $Definition['Refresh Comments'] = 'Yorumları Yenile';
 $Definition['Register for Membership'] = 'Üyelik için kayıt olun';
+$Definition['Register IP'] = 'Kayıtlı IP';
 $Definition['Register Url'] = 'URL\'yi kaydet';
 $Definition['Registration'] = 'Kayıt';
 $Definition['Registration is currently closed.'] = 'Kayıt şu anda kapalı.';

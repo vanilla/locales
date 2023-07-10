@@ -665,6 +665,7 @@ $Definition['Recent News'] = 'Izindaba Zakamuva';
 $Definition['Record Content'] = 'Okuqukethwe';
 $Definition['Refresh Comments'] = 'Vuselela Amazwana';
 $Definition['Register for Membership'] = 'Bhalisela Ubulungu';
+$Definition['Register IP'] = 'Bhalisa I-IP';
 $Definition['Register Url'] = 'Bhalisa i-Url';
 $Definition['Registration'] = 'Ukubhalisa';
 $Definition['Registration is currently closed.'] = 'Ukubhalisa okwamanje kuvaliwe.';

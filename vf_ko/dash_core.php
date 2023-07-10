@@ -412,6 +412,7 @@ $Definition['Recently Commented'] = '최근 댓글';
 $Definition['Recent News'] = '새로운 뉴스';
 $Definition['Record Content'] = 'Content';
 $Definition['Refresh Comments'] = '새로고침';
+$Definition['Register IP'] = 'IP 등록하기';
 $Definition['Registration'] = '사용자 등록 설정';
 $Definition['Reinterpret All Posts As %s'] = '모든 게시글을 %s(으)로 재해석';
 $Definition['Reload the page to access recent updates.'] = '최근 업데이트에 액세스하려면 페이지를 새로고침하세요.';

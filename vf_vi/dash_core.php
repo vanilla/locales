@@ -665,6 +665,7 @@ $Definition['Recent News'] = 'Tin tức mới';
 $Definition['Record Content'] = 'Nội dung';
 $Definition['Refresh Comments'] = 'Làm mới ý kiến';
 $Definition['Register for Membership'] = 'Đăng ký thành viên';
+$Definition['Register IP'] = 'Đăng ký IP';
 $Definition['Register Url'] = 'Liên kết đăng ký';
 $Definition['Registration'] = 'Đăng ký';
 $Definition['Registration is currently closed.'] = 'Đăng ký hiện đang đóng.';

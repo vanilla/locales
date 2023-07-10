@@ -661,6 +661,7 @@ $Definition['Recent News'] = 'Notícies recents';
 $Definition['Record Content'] = 'Contingut';
 $Definition['Refresh Comments'] = 'Actualitza comentaris';
 $Definition['Register for Membership'] = 'Registre de membres';
+$Definition['Register IP'] = 'Registre IP';
 $Definition['Register Url'] = 'Registre URL';
 $Definition['Registration'] = 'Inscripció';
 $Definition['Registration is currently closed.'] = 'El registre està tancat actualment.';
