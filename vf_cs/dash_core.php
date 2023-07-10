@@ -370,6 +370,7 @@ $Definition['QnAFollowup.Feature.Enabled'] = 'Tato funkce odesílá e-maily auto
 $Definition['Recently Added'] = 'Nedávno přidané';
 $Definition['Recently Commented'] = 'Nedávno komentováno';
 $Definition['Record Content'] = 'Content';
+$Definition['Register IP'] = 'Registrován s IP';
 $Definition['Registration'] = 'Registrace';
 $Definition['Reinterpret All Posts As %s'] = 'Znovu interpretovat všechny příspěvky jako %s';
 $Definition['Reload the page to access recent updates.'] = 'Chcete-li získat přístup k nejnovějším aktualizacím, znovu načtěte stránku.';

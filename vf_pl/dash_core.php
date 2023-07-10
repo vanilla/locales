@@ -398,6 +398,7 @@ $Definition['Recently Added'] = 'Niedawno dodany';
 $Definition['Recently Commented'] = 'Ostatnio komentowane';
 $Definition['Record Content'] = 'Content';
 $Definition['Refresh Comments'] = 'Odśwież komentarze';
+$Definition['Register IP'] = 'Rejestruj adres IP';
 $Definition['Registration'] = 'Rejestracja';
 $Definition['Reinterpret All Posts As %s'] = 'Zinterpretuj wszystkie posty jako %s';
 $Definition['Reload the page to access recent updates.'] = 'Odśwież stronę, aby uzyskać dostęp do najnowszych aktualizacji.';

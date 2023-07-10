@@ -663,6 +663,7 @@ $Definition['Recent News'] = 'Ştiri recente';
 $Definition['Record Content'] = 'Conţinut';
 $Definition['Refresh Comments'] = 'Reîmprospătare Comentarii';
 $Definition['Register for Membership'] = 'Aplicați pentru a fi membru';
+$Definition['Register IP'] = 'Inregistrare IP';
 $Definition['Register Url'] = 'URL Înregistrare';
 $Definition['Registration'] = 'Înregistrare';
 $Definition['Registration is currently closed.'] = 'Înregistrarea este în prezent închisă';

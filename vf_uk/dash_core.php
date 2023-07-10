@@ -574,6 +574,7 @@ $Definition['Recently Added'] = 'Нещодавно додані';
 $Definition['Recently Commented'] = 'Нещодавно прокоментував';
 $Definition['Recent News'] = 'Свіжі новини';
 $Definition['Refresh Comments'] = 'Обновлення коментарів';
+$Definition['Register IP'] = 'Зареєстрована IP';
 $Definition['Registration'] = 'Реєстрація';
 $Definition['Reinterpret All Posts As %s'] = 'Повторно інтерпретувати всі повідомлення як %s';
 $Definition['Reload the page to access recent updates.'] = 'Перезавантажте сторінку, щоб отримати доступ до останніх оновлень.';

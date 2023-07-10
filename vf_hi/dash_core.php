@@ -672,6 +672,7 @@ $Definition['Recent News'] = 'ताज़ा ख़बर ';
 $Definition['Record Content'] = 'सामग्री';
 $Definition['Refresh Comments'] = 'टिप्पणियाँ रिफ्रेश करें';
 $Definition['Register for Membership'] = 'सदस्यता के लिए पंजीकरण करें';
+$Definition['Register IP'] = 'आईपी पंजीकरण करें';
 $Definition['Register Url'] = 'Url पंजीकृत करें';
 $Definition['Registration'] = 'पंजीकरण';
 $Definition['Registration is currently closed.'] = 'वर्तमान में पंजीकरण बंद है.';

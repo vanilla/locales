@@ -666,6 +666,7 @@ $Definition['Recent News'] = 'Notícias Recentes';
 $Definition['Record Content'] = 'Conteúdo';
 $Definition['Refresh Comments'] = 'Atualizar Comentários';
 $Definition['Register for Membership'] = 'Registre-se';
+$Definition['Register IP'] = 'Registrar IP';
 $Definition['Register Url'] = 'URL de Registro';
 $Definition['Registration'] = 'Registro';
 $Definition['Registration is currently closed.'] = 'Registro está fechado.';

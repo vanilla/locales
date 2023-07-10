@@ -657,6 +657,7 @@ $Definition['Recent News'] = 'Berita terkini';
 $Definition['Record Content'] = 'Kandungan';
 $Definition['Refresh Comments'] = 'Segarkan Komen';
 $Definition['Register for Membership'] = 'Daftar keahlian';
+$Definition['Register IP'] = 'Daftar IP';
 $Definition['Register Url'] = 'Daftar Url';
 $Definition['Registration'] = 'Pendaftaran';
 $Definition['Registration is currently closed.'] = 'Pendaftaran ditutup sekarang.';

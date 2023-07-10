@@ -664,6 +664,7 @@ $Definition['Recent News'] = 'חדשות מהזמן האחרון';
 $Definition['Record Content'] = 'תוכן';
 $Definition['Refresh Comments'] = 'רענן הערות';
 $Definition['Register for Membership'] = 'הרשמה כחבר';
+$Definition['Register IP'] = 'רשום IP';
 $Definition['Register Url'] = 'Url רשום';
 $Definition['Registration'] = 'הרשמה';
 $Definition['Registration is currently closed.'] = 'ההרשמה כרגע סגורה.';

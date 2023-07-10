@@ -665,6 +665,7 @@ $Definition['Recent News'] = 'ข่าวล่าสุด';
 $Definition['Record Content'] = 'เนื้อหา';
 $Definition['Refresh Comments'] = 'รีเฟรชความคิดเห็น';
 $Definition['Register for Membership'] = 'ลงทะเบียนเป็นสมาชิก';
+$Definition['Register IP'] = 'IP ลงทะเบียน';
 $Definition['Register Url'] = 'ลงทะเบียน URL';
 $Definition['Registration'] = 'การลงทะเบียน';
 $Definition['Registration is currently closed.'] = 'ปิดการลงทะเบียนในขณะนี้';

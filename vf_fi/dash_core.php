@@ -644,6 +644,7 @@ $Definition['Recent News'] = 'Viimeisimmät uutiset';
 $Definition['Record Content'] = 'Sisältö';
 $Definition['Refresh Comments'] = 'Päivitä viestit';
 $Definition['Register for Membership'] = 'Rekisteröidy jäseneksi';
+$Definition['Register IP'] = 'Rekist. IP';
 $Definition['Register Url'] = 'Rekistöröinnin Osoite';
 $Definition['Registration'] = 'Rekisteröityminen';
 $Definition['Registration is currently closed.'] = 'Rekisteröityminen on toistaiseksi pois käytöstä.';

@@ -666,6 +666,7 @@ $Definition['Recent News'] = 'حالیہ خبریں';
 $Definition['Record Content'] = 'مواد';
 $Definition['Refresh Comments'] = 'تبصرے کو تازہ کریں';
 $Definition['Register for Membership'] = 'ممبرشپ کے لئے رجسٹر ہوں';
+$Definition['Register IP'] = 'IP رجسٹر کریں';
 $Definition['Register Url'] = 'رجسٹر یو آر ایل';
 $Definition['Registration'] = 'اندراج';
 $Definition['Registration is currently closed.'] = 'رجسٹریشن فی الحال بند ہے۔';

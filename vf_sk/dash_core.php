@@ -664,6 +664,7 @@ $Definition['Recent News'] = 'Posledné správy';
 $Definition['Record Content'] = 'Obsah';
 $Definition['Refresh Comments'] = 'Obnoviť komentáre';
 $Definition['Register for Membership'] = 'Zaregistrovať členstvo';
+$Definition['Register IP'] = 'Zaregistrovať IP adresu';
 $Definition['Register Url'] = 'Zaregistrovať URL';
 $Definition['Registration'] = 'Registrácia';
 $Definition['Registration is currently closed.'] = 'Registrácia je momentálne ukončená.';

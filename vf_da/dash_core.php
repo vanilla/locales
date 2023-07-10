@@ -658,6 +658,7 @@ $Definition['Recent News'] = 'Nyeste nyheder';
 $Definition['Record Content'] = 'Indhold';
 $Definition['Refresh Comments'] = 'Opdatér kommentarer';
 $Definition['Register for Membership'] = 'Registrér for at blive medlem';
+$Definition['Register IP'] = 'Registrerings IP';
 $Definition['Register Url'] = 'URL for registrering';
 $Definition['Registration'] = 'Registrering';
 $Definition['Registration is currently closed.'] = 'Det er p.t. ikke muligt at registrere sig.';

@@ -670,6 +670,7 @@ $Definition['Recent News'] = 'Свежие новости';
 $Definition['Record Content'] = 'Контент';
 $Definition['Refresh Comments'] = 'Обновить комментарии';
 $Definition['Register for Membership'] = 'Регистрация в сообществе';
+$Definition['Register IP'] = 'Исходный IP';
 $Definition['Register Url'] = 'Зарегистрировать URL';
 $Definition['Registration'] = 'Регистрация';
 $Definition['Registration is currently closed.'] = 'Регистрация в настоящее время недоступна.';

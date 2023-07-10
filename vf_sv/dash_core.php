@@ -663,6 +663,7 @@ $Definition['Recent News'] = 'Senaste nyheterna';
 $Definition['Record Content'] = 'Innehåll';
 $Definition['Refresh Comments'] = 'Uppdatera kommentarer';
 $Definition['Register for Membership'] = 'Registrera dig';
+$Definition['Register IP'] = 'Registrera IP';
 $Definition['Register Url'] = 'Registrerings-URL';
 $Definition['Registration'] = 'Registrering';
 $Definition['Registration is currently closed.'] = 'Registrering på sidan är för tillfället stängd.';

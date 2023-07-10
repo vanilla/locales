@@ -660,6 +660,7 @@ $Definition['Recent News'] = 'Zadnje novice';
 $Definition['Record Content'] = 'Vsebina';
 $Definition['Refresh Comments'] = 'Osveži komentarje';
 $Definition['Register for Membership'] = 'Registrirajte se za članstvo';
+$Definition['Register IP'] = 'Registriraj IP';
 $Definition['Register Url'] = 'Registracija URL';
 $Definition['Registration'] = 'Registracija';
 $Definition['Registration is currently closed.'] = 'Registracija je trenutno zaključena.';

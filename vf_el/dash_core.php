@@ -668,6 +668,7 @@ $Definition['Recent News'] = 'Πρόσφατα Νέα';
 $Definition['Record Content'] = 'Περιεχόμενο';
 $Definition['Refresh Comments'] = 'Ανανέωση Σχολίων';
 $Definition['Register for Membership'] = 'Εγγραφείτε για Συνδρομή';
+$Definition['Register IP'] = 'IP Εγγραφής';
 $Definition['Register Url'] = 'URL εγγραφής';
 $Definition['Registration'] = 'Καταχώριση';
 $Definition['Registration is currently closed.'] = 'Η εγγραφή είναι προς το παρόν κλειστή.';

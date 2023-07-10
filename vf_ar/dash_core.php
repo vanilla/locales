@@ -647,6 +647,7 @@ $Definition['Recently Added'] = 'أضيف مؤخرا';
 $Definition['Recently Commented'] = 'علق مؤخرا';
 $Definition['Refresh Comments'] = 'تحديث التعليقات';
 $Definition['Register for Membership'] = 'سجل للعضوية';
+$Definition['Register IP'] = 'تسجيل الٱي بي IP';
 $Definition['Register Url'] = 'رابط التسجيل';
 $Definition['Registration'] = 'التسجيل';
 $Definition['Registration is currently closed.'] = 'التسجيل مغلق الآن.';

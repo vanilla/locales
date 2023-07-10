@@ -667,6 +667,7 @@ $Definition['Recent News'] = 'Legújabb hírek';
 $Definition['Record Content'] = 'Tartalom';
 $Definition['Refresh Comments'] = 'Hozzászólások frissítése';
 $Definition['Register for Membership'] = 'Regisztráció';
+$Definition['Register IP'] = 'Regisztrálási IP';
 $Definition['Register Url'] = 'Regisztrációs Url';
 $Definition['Registration'] = 'Regisztráció';
 $Definition['Registration is currently closed.'] = 'Figyelem - A regisztráció jelenleg le van zárva.';
