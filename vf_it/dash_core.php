@@ -57,6 +57,8 @@ $Definition['Activity item not found.'] = 'Elemento delle Attività non trovato'
 $Definition['Add a new Pocket to your site.'] = 'Aggiungi un nuovo Pocket al tuo sito';
 $Definition['Add Ban Rule'] = 'Aggiungi una regola per mettere al bando';
 $Definition['Add Category'] = 'Aggiungi Categoria';
+$Definition['Add Columns'] = 'Aggiungi colonne
+';
 $Definition['Add Comments'] = 'Aggiungi commenti';
 $Definition['Add Connection'] = 'Aggiungi Connessione';
 $Definition['Added By'] = 'Aggiunto da';
@@ -205,6 +207,7 @@ $Definition['Click here to carry on.'] = 'Clicca qui per proseguire.';
 $Definition['Click here to carry on to your dashboard'] = 'Clicca qui per tornare alla tua bacheca. ';
 $Definition['Client ID'] = 'Client ID';
 $Definition['Colored'] = 'Colorato';
+$Definition['Column Display Settings'] = 'Impostazioni di visualizzazione colonna';
 $Definition['comment(s)'] = 'commento(i)';
 $Definition['Comment  Body'] = 'Commento   Corpo';
 $Definition['Comment Settings'] = 'Impostazioni Commento';
@@ -309,6 +312,7 @@ $Definition['Download Locale List'] = 'Scarica lista locale';
 $Definition['DownloadLocalePack'] = 'Scarica';
 $Definition['Download Locale Pack'] = 'Scarica pack locale';
 
+
 $Definition['Edit/Delete Log'] = 'Modifica/elimina accesso';
 $Definition['Edit Category'] = 'Modifica Categoria';
 $Definition['Edit CSS'] = 'Modifica CSS';
@@ -349,6 +353,8 @@ $Definition['Enable Followup Notifications'] = 'Abilita notifiche di follow-up';
 $Definition['Enable Tagging'] = 'Abilita i Tag';
 $Definition['Enable this message'] = 'Attiva questo messaggio';
 $Definition['Enable to only show posts from categories a user follows.'] = 'Abilita per mostrare solo i post delle categorie che un utente segue.';
+$Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'Attiva un\'anteprima della nostra nuova dashboard di gestione degli utenti con una ricerca migliorata e nuove opzioni di configurazione.
+';
 $Definition['Enabling a Locale Pack'] = 'Attivare un pack locale';
 $Definition['Encourage your friends to join your new community!'] = 'Incoraggia i tuoi amici a iscriversi alla tua nuova comunità!';
 $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Introduci un elenco di indici delimitato da virgole, a partire da 1.';
@@ -567,6 +573,7 @@ $Definition['New discussions in the last day'] = 'Nuove discussioni di ieri';
 $Definition['New discussions in the last week'] = 'Nuove discussioni nella scorsa settimana';
 $Definition['New messages in the last day'] = 'Nuovi messaggi di ieri';
 $Definition['New messages in the last week'] = 'Nuovi messaggi della scorsa settimana';
+$Definition['New User Management'] = 'Nuova gestione degli utenti';
 $Definition['New users are only registered through SSO plugins.'] = 'I nuovi utenti si sono registrati solo attraverso SSO plugin.';
 $Definition['New users are reviewed and approved by an administrator (that\'s you!).'] = 'I nuovi utenti vengono gestiti ed approvati da un amministratore (sei tu!).';
 $Definition['New users fill out a simple form and are granted access immediately.'] = 'I nuovi utenti compilano un semplice modulo e hanno accesso immediato.';
@@ -641,6 +648,7 @@ $Definition['Public Key'] = 'Chiave Pubblica';
 
 $Definition['Ranks'] = 'Grado';
 $Definition['Re-Register API Key'] = 'Ri-Registra Chiave API';
+$Definition['Register IP'] = 'Registro IP';
 $Definition['Reaction Types'] = 'Tipi di Reazione';
 $Definition['Recalculate Counts'] = 'Rifai i conti';
 $Definition['Recently Active Users'] = 'Utenti attivi di recente';
@@ -658,6 +666,8 @@ $Definition['Reload the page to access recent updates.'] = 'Ricarica la pagina p
 $Definition['Remove Banner Logo'] = 'Rimuovi Logo Banner';
 $Definition['Remove Email Logo'] = 'Rimuovi Logo Email';
 $Definition['Remove Favicon'] = 'Rimuovi Favicon';
+$Definition['Reorder Columns'] = 'Riordina colonne
+';
 $Definition['Repeat'] = 'Ripeti';
 $Definition['Repeat Every'] = 'Ripeti Tutti';
 $Definition['Replace Image'] = 'Riposiziona Immagine';
@@ -674,6 +684,8 @@ $Definition['Rescan'] = 'Ripeti analisi';
 $Definition['Reset'] = 'Reset';
 $Definition['Reset my password'] = 'Resetta la mia password';
 $Definition['Reset password and send email notification to user'] = 'Resetta la password ed invia una notifica via email all\'utente';
+$Definition['Reset to Default'] = 'Ripristina le impostazioni predefinite
+';
 $Definition['Resetting the password for %s.'] = 'Resettando la password per %s.';
 $Definition['Restart'] = 'Ricomincia';
 $Definition['Reveal Password'] = 'Mostra Password';
@@ -706,6 +718,7 @@ $Definition['Security'] = 'Sicurezza';
 $Definition['See also'] = 'Vedi anche';
 $Definition['Select'] = 'Seleziona';
 $Definition['Select the location of the pocket.'] = 'Seleziona la posizione del pocket.';
+$Definition['Select which columns are displayed on the manage users page list.'] = 'Seleziona le colonne da visualizzare nell\'elenco della pagina gestione utenti.';
 $Definition['Send %s a Message'] = 'Invia un messaggio a %s';
 $Definition['Send a confirmation email when people ask a question or start a discussion over email.'] = 'Invia una email di conferma quando le persone fanno una domanda o iniziano una discussione tramite e-mail.';
 $Definition['Send Again'] = 'Re-Invia';
@@ -913,6 +926,8 @@ $Definition['You can ban IP addresses, email domains, and words from usernames u
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'È possibile personalizzare l\'HTML e il CSS per questo tema nella pagina %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Puoi creare un nuovo account oppure immettere le credenziali se si dispone di un account esistente.';
 $Definition['You can make the categories page your homepage.'] = 'Puoi fare in modo che la tua pagina delle categorie  diventi la tua homepage <a href="%s">da qui</a>.';
+$Definition['You can search for users by username or email, wildcards are implied.'] = 'Puoi cercare gli utenti per nome utente o email, i caratteri jolly sono impliciti.
+';
 $Definition['You can specify an allow list of trusted domains.'] = 'Puoi definire un elenco di domini attendibili che siano sicuri per i reindirizzamenti e l\'embedding.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'Puoi specificare un elenco di domini attendibili (es. tuodominio.com) da cui è possibile caricare javascript in modo sicuro.';
 $Definition['You cannot disable the %1$s plugin because the %2$s plugin requires it in order to function.'] = 'Non puoi disabilitare il plugin %1$s poiché il plugin %2$s  lo richiede per funzionare correttamente.';
