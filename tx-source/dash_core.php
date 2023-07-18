@@ -950,6 +950,7 @@ $Definition['Your inbox is empty.'] = 'Your inbox is empty.';
 $Definition['Your invitations were sent successfully.'] = 'Your invitations were sent successfully.';
 $Definition['Your Password'] = 'Your Password';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.';
+$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.';
 
 $Definition["Mobile Logo"] = "Mobile Logo";
 $Definition["Banner Image"] = "Banner Image";
