@@ -84,7 +84,7 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 $Definition['Foundation Layout'] = 'Foundation Layout';
-$Definition['FullAnonymization.Description'] = "<strong>Full Anonymization</strong> replaces every single IP Address with 0.0.0.0 effectively denying the application any access to work with IP Addresses. IP ban rules will not work at all in this case.";
+$Definition['FullAnonymization.Description'] = "<strong>Full Anonymization</strong> replaces every single IP address with 0.0.0.0 effectively denying the application any access to work with IP addresses. IP ban rules will not work at all in this case.";
 $Definition['Full Anonymization'] = "Full Anonymization";
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
@@ -155,7 +155,7 @@ $Definition['OrgDescription'] = 'Your organization name is used for SEO microdat
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Overridden views or themehooks can have unintended side effects and are not previewed.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>Partial Anonymization</strong> anonymizes only the last octet of the IP Address. For example 254.230.05.153 would become 254.230.05.0. This provides some anonymization while still allowing IP ban rules to function.";
+$Definition['PartialAnonymization.Description'] = "<strong>Partial Anonymization</strong> anonymizes only the last octet of the IP address. For example 254.230.05.153 would become 254.230.05.0. This provides some anonymization while still allowing IP ban rules to function.";
 $Definition['Partial Anonymization'] = "Partial Anonymization";
 $Definition['Password.MinLength'] = 'Minimum character length allowed for users passwords on password create and reset pages.';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
