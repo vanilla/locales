@@ -21,6 +21,7 @@ $Definition['Allow links to be transformed'] =
     'Allow links to be transformed into embedded representations in discussions and comments. For example, a YouTube link will transform into an embedded video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.';
+$Definition['Anonymize IP Addresses'] = "Anonymize IP Addresses";
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Apply Layout'] = 'Apply Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
@@ -83,10 +84,14 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 $Definition['Foundation Layout'] = 'Foundation Layout';
+$Definition['FullAnonymization.Description'] = "<strong>Full Anonymization</strong> replaces every single IP Address with 0.0.0.0 effectively denying the application any access to work with IP Addresses. IP ban rules will not work at all in this case.";
+$Definition['Full Anonymization'] = "Full Anonymization";
+
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
+$Definition['Garden.Privacy.IPs.Description'] = "User IP addresses are typically collected for automated ban rules";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
@@ -124,6 +129,7 @@ $Definition['Learn about custom routing.'] = 'Learn about custom routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales allow you to support other languages on your site. Enable and disable locales you want to make available here.';
+$Definition['Lockout Time (seconds)'] = "Lockout Time (seconds)";
 $Definition['LogoDescription'] = 'The banner logo appears at the top of your site.';
 $Definition['LogoDisclaimer'] = 'Themes made with the theme editor and some custom themes don\'t use this setting.';
 
@@ -149,6 +155,8 @@ $Definition['OrgDescription'] = 'Your organization name is used for SEO microdat
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Overridden views or themehooks can have unintended side effects and are not previewed.';
 
+$Definition['PartialAnonymization.Description'] = "<strong>Partial Anonymization</strong> anonymizes only the last octet of the IP Address. For example 254.230.05.153 would become 254.230.05.0. This provides some anonymization while still allowing IP ban rules to function.";
+$Definition['Partial Anonymization'] = "Partial Anonymization";
 $Definition['Password.MinLength'] = 'Minimum character length allowed for users passwords on password create and reset pages.';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
@@ -186,6 +194,7 @@ $Definition['Session Timeout'] = 'Session Timeout';
 $Definition['ShareImageDescription'] =
     'When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
+$Definition['SignIn.LockoutTime'] = "The amount of time a user is blocked from logging in after exceeding the number of login attempts.";
 $Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
     'Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.';
 $Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
