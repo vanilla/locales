@@ -504,6 +504,7 @@ $Definition['Level'] = 'Level';
 $Definition['Link Color'] = 'Link Color';
 $Definition['Likes'] = 'Likes';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limit the pocket to one or more roles or permissions.';
+$Definition['Limit'] = 'Limit';
 $Definition['Locale Key (Folder)'] = 'Locale Key (Folder)';
 $Definition['Locale Name'] = 'Locale Name';
 $Definition['Locales'] = 'Locales';
