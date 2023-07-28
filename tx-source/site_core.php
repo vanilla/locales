@@ -2071,6 +2071,7 @@ $Definition['when people create new posts in your category'] = 'when people crea
 $Definition['Yes'] = 'Yes';
 $Definition['You'] = 'You';
 $Definition['you'] = 'you';
+$Definition['You do not have permission to access one or more filters in the provided link.'] = 'You do not have permission to access one or more filters in the provided link.';
 $Definition['You\'re banned from joining this group.'] = 'You\'re banned from joining this group.';
 $Definition['You\'re signed in as <0/> (<1/>). This is different than the source that linked here. You may sign out to change accounts.'] = 'You\'re signed in as <0/> (<1/>). This is different than the source that linked here. You may sign out to change accounts.';
 $Definition['You\'ve already created the maximum number of groups.'] = 'You\'ve already created the maximum number of groups.';
