@@ -182,6 +182,7 @@ $Definition['Format their'] = 'their';
 $Definition['Format You'] = 'You';
 $Definition['Format you'] = 'you';
 $Definition['Format Your'] = 'Your';
+$Definition['FullAnonymization.Description'] = '<strong>Full Anonymization</strong> replaces every single IP address with 0.0.0.0 effectively denying the application any access to work with IP addresses. IP ban rules will not work at all in this case.';
 
 $Definition['Garden.api.ssoIDPermission.description'] = 'Roles with this permission will be able to expand SSO IDs in API v2 calls.';
 $Definition['Garden.Email.SupportAddress'] = 'Support email';
@@ -190,6 +191,7 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
+$Definition['Garden.Privacy.IPs.Description'] = 'User IP addresses are typically collected for automated ban rules';
 $Definition['Garden.Registration.DefaultRoles'] = 'default role';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
@@ -306,6 +308,7 @@ $Definition['OrgDescription'] = 'Your organization name is used for SEO microdat
 $Definition['PageDetailsMessage'] = '%1$s to %2$s';
 $Definition['PageDetailsMessageFull'] = '%1$s to %2$s of %3$s';
 $Definition['Paragraph Code Block'] = 'Code Block';
+$Definition['PartialAnonymization.Description'] = '<strong>Partial Anonymization</strong> anonymizes only the last octet of the IP address. For example 254.230.05.153 would become 254.230.05.0. This provides some anonymization while still allowing IP ban rules to function.';
 $Definition['ParticipatedHomepageTitle'] = 'Participated Discussions';
 $Definition['Password.MinLength'] = 'Minimum character length allowed for users passwords on password create and reset pages.';
 $Definition['Password Contains Username'] = 'Contains Username';
@@ -429,6 +432,7 @@ $Definition['Show an uploaded image on the Category page.'] = 'Each discussion w
 $Definition['Show previous quotes'] = '&raquo; show previous quotes';
 $Definition['SignedOut'] = 'You are signed out.';
 $Definition['SignIn'] = 'Sign In';
+$Definition['SignIn.LockoutTime'] = 'The amount of time a user is blocked from logging in after exceeding the number of login attempts.';
 $Definition['SigningOut'] = 'Hang on a sec while we sign you out.';
 $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Popup}>Sign In</a> or <a href="{RegisterUrl,html}">Register</a> to comment.';
 $Definition['Social Connect'] = 'Social Media';

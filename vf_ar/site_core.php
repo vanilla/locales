@@ -938,6 +938,7 @@ $Definition['Insightful'] = 'ثاقبة';
 $Definition['Internal'] = 'داخلي';
 $Definition['In this Conversation'] = 'في هذه المشاركة';
 $Definition['Invalid CSRF token.'] = 'رمز تزوير الطلب عبر المواقع غير صحيح. يُرجى المحاولة ثانية.';
+$Definition['Invalid Date'] = 'تاريخ غير صالح';
 $Definition['Invalid password.'] = 'كلمة السر التي ادخلتها غير صحيحة، تذكر ان كلمة السر حساسة للخانة.';
 $Definition['Invalid photo URL.'] = 'عنوان الصورة غير صحيح';
 $Definition['Invalid user/password provided.'] = 'تم تقديم مستخدم / كلمة مرور غير صالحة.';
