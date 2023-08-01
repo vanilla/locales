@@ -124,6 +124,7 @@ $Definition['Are you sure you want to delete this badge? This is irreversible an
 $Definition['Are you sure you want to delete this category?'] = 'Are you sure you want to delete this category?';
 $Definition['Are you sure you want to restore %s items?'] = 'Are you sure you want to restore %s items?';
 $Definition['Are you sure you want to restore 1 item?'] = 'Are you sure you want to restore 1 item?';
+$Definition['At least one visible column is required. Show or add a visible column.'] = 'At least one visible column is required. Show or add a visible column.';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'A url-friendly version of the category name for better SEO.';
 $Definition['Automatically Save Drafts'] = 'Automatically Save Drafts';
 $Definition['Authors may always edit'] = 'Authors may always edit';
