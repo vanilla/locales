@@ -23,6 +23,7 @@ $Definition['Allow links to be transformed'] =
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Autorisez les utilisateurs disposant de la permission %s à modifier leurs propres avatars depuis leurs pages de profil dans Vanilla.
 ';
+$Definition['Anonymize IP Addresses'] = "Anonymiser les adresses IP";
 $Definition['ApplicationHelp'] = 'Les applications vous permettent d\'ajouter de nombreuses fonctionnalités à votre forum Vanilla.<br />
 Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l\'activer ou la désactiver ici.';
 $Definition['Apply Layout'] = 'Appliquer la mise en page';
@@ -93,10 +94,14 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Vous pouvez par exemple exclure tous les utilisateurs possédant des adresses similaires à « exemple.com » en ajoutant une exclusion d\'e-mail type avec pour valeur « *@exemple.com ».';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Pour des questions de référencement web, les robots d\'indexation des moteurs de recherche sont exclus de la règle forçant à voir le forum via l\'url distante.';
 $Definition['Foundation Layout'] = 'Disposition des fondations';
+$Definition['FullAnonymization.Description'] = "<strong>L'anonymisation complète</strong> remplace chaque adresse IP par 0.0.0.0, ce qui a pour effet d'interdire à l'application tout accès aux adresses IP. Les règles d'interdiction des adresses IP ne fonctionneront pas du tout dans ce cas.";
+$Definition['Full Anonymization'] = "Anonymisation complète";
+
 $Definition['Garden.Import.Complete.Description'] = 'Vous avez terminé l\'importation avec succès.
 Cliquez sur <b> Terminé </ b> lorsque vous êtes prêt.';
 $Definition['Garden.Import.Continue.Description'] = 'Il semble que vous soyez au milieu d\'une importation. Veuillez choisir l\'une des options suivantes.';
 $Definition['Garden.Import.InputInstructions'] = 'Entrez l\'email et le mot de passe de l\'utilisateur administrateur des données importées.';
+$Definition['Garden.Privacy.IPs.Description'] = "Les adresses IP des utilisateurs sont généralement collectées pour les règles d'interdiction automatisées";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Autorisation Garden.Profiles.Edit de modification de leurs propres avatars à partir de leurs pages de profil dans Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Vous avez désactivé spécifiquement le module Vanilla Statistics dans votre fichier de configuration.';
@@ -139,6 +144,7 @@ $Definition['Learn about custom routing.'] = 'Apprenez-en à propos du routage p
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Apprenez comment changer l\'apparence de votre forum du tout au tout : téléchargez votre logo, définissez votre page d\'accueil, choisissez un thème et personnalisez-le.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apprenez à utiliser les fonctionnalités de base de votre forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Les locales vous permettent de gérer d\'autres langues sur votre site. Activez et désactivez les locales que vous voulez rendre disponibles ici.';
+$Definition['Lockout Time (seconds)'] = "Temps de verrouillage (secondes)";
 $Definition['LogoDescription'] = 'Le logo de la bannière apparaît en haut de votre site.';
 $Definition['LogoDisclaimer'] = 'Les thèmes créés avec l\'éditeur de thèmes et certains thèmes personnalisés n\'utilisent pas ce paramètre.';
 
@@ -167,6 +173,8 @@ Le nom de votre organisation est utilisé pour les microdonnées SEO et JSON+LD'
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Les vues annulées ou les accroches thématiques peuvent avoir des effets secondaires non voulus et ne sont pas prévisualisées.';
 
+$Definition['PartialAnonymization.Description'] = "<strong>L'anonymisation partielle</strong> ne rend anonyme que le dernier octet de l'adresse IP. Par exemple, 254.230.05.153 deviendrait 254.230.05.0. Cela permet une certaine anonymisation tout en permettant aux règles d'interdiction d'IP de fonctionner.";
+$Definition['Partial Anonymization'] = "Anonymisation partielle";
 $Definition['Password.MinLength'] = 'Nombre minimal de caractères autorisés pour les mots de passe des utilisateurs sur les pages de réinitialisation et de création des mots de passe.';
 $Definition['Please choose an authenticator to configure.'] = 'Veuillez choisir une méthode d\'authentification à configurer.';
 $Definition['PluginHelp'] = 'Les modules  complémentaires vous permettent d\'ajouter des fonctionnalités à votre site.<br />Une fois qu\'un module  complémentaire a été ajouté à votre dossier %s, vous pouvez l\'activer ou le désactiver ici.';
@@ -209,6 +217,7 @@ $Definition['ShareImageDescription'] =
     'Lorsque quelqu\'un partage un lien de votre site, nous essayons de récupérer une image de la page. S\'il n\'y a pas d\'image sur la page, nous utiliserons cette image à la place. L\'image doit être d\'au moins 50×50, mais nous recommandons 200×200.
 ';
 $Definition['Show all possible pocket locations.'] = 'Activez cette option pour afficher tous les emplacements de blocs disponibles. En activant cette option, les emplacements seront uniquement visibles par les utilisateurs qui peuvent gérer les blocs.';
+$Definition['SignIn.LockoutTime'] = "Durée pendant laquelle un utilisateur est empêché de se connecter après avoir dépassé le nombre de tentatives de connexion.";
 $Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
     'Certains thèmes peuvent avoir besoin d\'être mis à jour pour fonctionner avec la catégorie suivante. Vous pouvez désactiver la fonction pendant que vous mettez à jour votre thème.
 ';

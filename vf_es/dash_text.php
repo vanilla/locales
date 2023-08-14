@@ -21,6 +21,7 @@ $Definition['Allow links to be transformed'] =
     'Permite que los enlaces se conviertan en representaciones incrustadas en discusiones y comentarios. Por ejemplo, un enlace a YouTube se convertirá en un vídeo incrustado.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Permite a los usuarios con permiso %s cambiar sus propios avatares desde sus páginas de perfiles en Vanilla.';
+$Definition['Anonymize IP Addresses'] = "Anonimizar direcciones IP";
 $Definition['ApplicationHelp'] = 'Las aplicaciones te permiten añadir largos grupos de funcionalidad a tu sitio. <br /> Una vez que una aplicación ha sido añadida a la carpeta %s, puedes activarlas o desactivarlas aquí.';
 $Definition['Apply Layout'] = 'Aplicar diseño';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '¿Estas seguro de haber ingresado el nombre correcto del servidor? ¿Quizá te equivocaste? La base de datos reporto: <code>%s</code>';
@@ -83,9 +84,13 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Por ejemplo, puedes restringir a todos los usuarios con direcciones de correo electrónico de "example.com" añadiendo una restricción de tipo de correo electrónico con el valor "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Por motivos de SEO, a las arañas de motores de búsqueda no se les obliga a ver el foro de la URL remota.';
 $Definition['Foundation Layout'] = 'Disposición de la base';
+$Definition['FullAnonymization.Description'] = "<strong>Anonimización Completa</strong> reemplaza cada dirección IP con 0.0.0.0 denegando de forma efectiva a la aplicación cualquier acceso para trabajar con direcciones IP. Las reglas de prohibición de IP no funcionarán en absoluto en este caso.";
+$Definition['Full Anonymization'] = "Anonimización total";
+
 $Definition['Garden.Import.Complete.Description'] = 'Has completado una importación correctamente. Haz clic en <b>Finalizado</b> cuando hayas acabado.';
 $Definition['Garden.Import.Continue.Description'] = 'Parece que estás en medio de una importación. Elije una de las siguientes opciones.';
 $Definition['Garden.Import.InputInstructions'] = 'Introduce el email y la contraseña del usuario administrador de los datos que se importan';
+$Definition['Garden.Privacy.IPs.Description'] = "Las direcciones IP de los usuarios suelen recopilarse para las reglas de bloqueo automatizadas";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Permiso Jardín.Perfiles.Editar para cambiar sus propios avatares de sus páginas de perfil en Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Usted ha deshabilitado específicamente Estadísticas Vanilla en su archivo de configuración.';
@@ -123,6 +128,7 @@ $Definition['Learn about custom routing.'] = 'Más información sobre rutas pers
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda a cambiar completamente el aspecto de tu foro: cargando su logotipo, pon tu página de inicio, seleccione un tema y personalizarlo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a utilizar las funciones básicas de su foro.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Los locales te permiten establecer otros idiomas en tu sitio. Habilita y deshabilita los locales que quieras que estén disponibles aquí.';
+$Definition['Lockout Time (seconds)'] = "Duración del bloqueo (segundos)";
 $Definition['LogoDescription'] = 'El logotipo del banner aparece en la parte superior de su sitio.';
 $Definition['LogoDisclaimer'] = 'Los temas creados con el editor de temas y algunos temas personalizados no utilizan esta configuración.';
 
@@ -150,6 +156,8 @@ $Definition['OrgDescription'] = 'El nombre de tu organización está en uso para
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Las vistas anuladas o los ganchos de temas pueden tener efectos secundarios no intencionados y no se mostrarán en la vista previa.';
 
+$Definition['PartialAnonymization.Description'] = "<strong>Anonimización Parcial</strong> anonimiza únicamente el último octeto de la dirección IP. Por ejemplo 254.230.05.153 se convertiría en 254.230.05.0. Esto proporciona un cierto anonimato al tiempo que permite el funcionamiento de las reglas de bloqueo de IP.";
+$Definition['Partial Anonymization'] = "Anonimización parcial";
 $Definition['Password.MinLength'] = 'Tamaño mínimo permitido para las contraseñas de los usuarios en las páginas de creación y restablecimiento de contraseñas.';
 $Definition['Please choose an authenticator to configure.'] = 'Por favor elige un autenticador para configurar.';
 $Definition['PluginHelp'] = 'Los plugins te permiten añadir funcionalidad a tu sitio.<br />Una vez añadido un plugin a la carpeta %s, puedes activarlo o desactivarlo aquí.';
@@ -187,6 +195,7 @@ $Definition['Session Timeout'] = 'Tiempo de espera de cierre de sesión';
 $Definition['ShareImageDescription'] =
     'Cuando alguien comparte un enlace desde tu sitio, intentamos tomar una imagen de la página. Si no hay ninguna imagen en la página, utilizaremos esta imagen en su lugar. La imagen debería ser de al menos 50 x 50 , pero recomendamos 200 x 200.';
 $Definition['Show all possible pocket locations.'] = 'Activa esta opción para mostrar todas las ubicaciones de pockets posibles. Al activar esta opción, solo se mostrarán las ubicaciones a los usuarios que puedan gestionar pockets.';
+$Definition['SignIn.LockoutTime'] = "La cantidad de tiempo que un usuario está bloqueado para iniciar sesión después de exceder el número de intentos de acceso.";
 $Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
     'Es posible que algunos temas deban actualizarse para trabajar con la categoría siguiente. Puedes desactivar la función mientras actualizas tu tema.';
 $Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =

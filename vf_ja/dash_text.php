@@ -22,6 +22,7 @@ $Definition['Allow links to be transformed'] =
     'リンクをディスカッションおよびコメント内の埋め込み表現に変換できるようにします。例えば、YouTubeリンクは埋め込み動画に変換されます。';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     '%sアクセス権を持つユーザーが、Vanillaのプロフィールページから自分のアバターを変更できるようにします。';
+$Definition['Anonymize IP Addresses'] = "IPアドレスを匿名化する";
 $Definition['ApplicationHelp'] = '「アプリケーション」は、このサイトに規模が大きめの拡張機能を追加します。<br />%s フォルダに追加されたアプリケーションを、ここで有効化または無効化できます。';
 $Definition['Apply Layout'] = 'レイアウトを適用する';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'データベース ホスト名は正しく入力されましたか？ 入力ミスの可能性はありませんか？データベースの報告は次の通りです: <code>%s</code>';
@@ -84,10 +85,14 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = '例えば、「*@example.com」という値を持つEメールタイプの禁止を追加することによって、「example.com」からのメールアドレスを持つすべてのユーザーを禁止できます。';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO対策として、検索エンジンのクローラーがリモートURLでフォーラムを表示できないようにします。';
 $Definition['Foundation Layout'] = '基礎レイアウト';
+$Definition['FullAnonymization.Description'] = "<strong>完全匿名化</strong>は、すべてのIPアドレスを0.0.0.0に置き換え、アプリケーションがIPアドレスを操作するためのアクセスが事実上拒否されます。この場合、IP禁止ルールは全く機能しません。";
+$Definition['Full Anonymization'] = "完全匿名化";
+
 $Definition['Garden.Import.Complete.Description'] = 'インポートが正常に完了しました。
 準備ができましたら、<b>完了</b>をクリックしてください。';
 $Definition['Garden.Import.Continue.Description'] = 'あなたがインポートの途中であるかのように見えます。次のオプションのうちいずれかを選択してください。';
 $Definition['Garden.Import.InputInstructions'] = 'インポートされるデータの管理者ユーザーのメールアドレスとパスワードを入力してください。';
+$Definition['Garden.Privacy.IPs.Description'] = "ユーザーのIPアドレスは通常、自動禁止ルールのために収集されます。";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Vanillaのプロフィールページから自分のアバターを変更する「Garden.Profiles.Edit」アクセス権。';
 $Definition['Garden.StatisticsDisabled'] = '設定ファイルでVanilla Statisticsが明示的に無効になっています。';
@@ -125,6 +130,7 @@ $Definition['Learn about custom routing.'] = 'カスタムルーティングに�
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'フォーラムのイメージを完全に変更する方法を学習します。ロゴをアップロードしてホームページを設定し、テーマを選択してカスタマイズします。';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'フォーラムの基本的な機能の使用方法を学習します。';
 $Definition['Locales allow you to support other languages on your site.'] = 'ロケールを使用すると、サイトで他の言語をサポートすることができます。ここで使用可能にしたいロケールを有効または無効にします。';
+$Definition['Lockout Time (seconds)'] = "ロックアウト時間（秒）";
 $Definition['LogoDescription'] = 'バナー ロゴは、サイトの上部に表示されます。';
 $Definition['LogoDisclaimer'] = 'テーマエディターで作成されたテーマと一部のカスタムテーマは、この設定を使用しません。';
 
@@ -150,6 +156,8 @@ $Definition['OrgDescription'] = 'あなたの組織名は、SEO microdataおよ�
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'オーバーライドされたビューまたはテーマフックは、予期せぬ副次的影響を伴う場合があり、プレビューされません。';
 
+$Definition['PartialAnonymization.Description'] = "<strong>部分匿名化</strong>は、IPアドレスの最後のオクテットのみを匿名化します。 例えば、254.230.05.153は254.230.05.0.になります。これにより、IP禁止ルールを機能させながら、ある程度の匿名化を実現できます。";
+$Definition['Partial Anonymization'] = "部分匿名化";
 $Definition['Password.MinLength'] = 'パスワードの作成ページとリセットページで、ユーザーのパスワードに許可される最小文字数。';
 $Definition['Please choose an authenticator to configure.'] = '設定したい認証方式を選んでください。';
 $Definition['PluginHelp'] = '「プラグイン」は、このサイトの機能を拡張します。<br />%s フォルダに追加されたプラグインを、ここで有効化または無効化できます。';
@@ -187,6 +195,7 @@ $Definition['Session Timeout'] = 'セッションタイムアウト';
 $Definition['ShareImageDescription'] =
     '誰かがあなたのサイトからリンクを共有すると、私たちはそのページから画像を取り込もうとします。ページに画像がない場合は、代わりにこの画像を使用します。画像は少なくとも50ｘ50である必要があり、200ｘ200をお勧めします。';
 $Definition['Show all possible pocket locations.'] = 'このオプションを有効にして、利用可能なポケット ロケーションをすべて表示します。このオプションを有効にすることで表示されるロケーションは、ユーザーが管理できるポケットのロケーションだけです。';
+$Definition['SignIn.LockoutTime'] = "ログイン試行回数を超えた後にユーザーがログインをブロックされる時間。";
 $Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
     '一部のテーマは、「カテゴリーフォロイング」で機能するように更新する必要があるかもしれません。テーマの更新中にこの機能を無効にすることができます。';
 $Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =

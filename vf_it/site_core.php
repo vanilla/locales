@@ -394,6 +394,7 @@ $Definition['Child Categories'] = 'Sottocategorie';
 $Definition['Child Categories:'] = 'Sottocategorie:';
 $Definition['Choose a name to identify yourself on the site.'] = 'Scegli un nome per identificarti sul sito.';
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'Scegli la discussione principale dove tutti i commenti verranno unificati:';
+$Definition['Choose to be notified by notification popup or email.'] = 'Scegli di essere notificato tramite popup di notifica o email.';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'Scegli se desideri fare una domanda oppure iniziare una discussione.';
 $Definition['Clear'] = 'Pulisci';
 $Definition['clear'] = 'pulisci';
@@ -429,6 +430,7 @@ $Definition['Comments are between {UserID,you}.'] = 'Commenti tra {UserID,you}.'
 $Definition['Community'] = 'Community';
 $Definition['Community Home'] = 'Home Community';
 $Definition['Community Guidelines'] = 'Linee Guida della Community';
+$Definition['Community Tasks'] = 'Attività della comunità';
 $Definition['Completed'] = 'Completato';
 $Definition['Completely delete the warning.'] = 'Rimuovi completamente l\'avviso.';
 $Definition['Community Events'] = 'Eventi Della Community';
@@ -508,6 +510,7 @@ $Definition['Default'] = 'Impostazione predefinita';
 $Definition['default'] = 'impostazione predefinita';
 $Definition['Default Status'] = 'Status di default';
 $Definition['Defer Javascript Loading'] = 'Posticipa il caricamento Javascript';
+$Definition['Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Categories</a>.'] = 'Le impostazioni di notifica predefinite possono essere modificate per ogni categoria seguita in <a href="{url,html}">Gestisci le categorie seguite</a>.';
 $Definition['Define Thumbnail'] = 'Clicca e trascina sull\'immagine per definire la tua miniatura.';
 $Definition['delete'] = 'Elimina';
 $Definition['Delete'] = 'Elimina';
@@ -789,6 +792,7 @@ $Definition['Group Icon'] = 'Icona Gruppo';
 $Definition['Group Info'] = 'Informazioni sul Gruppo';
 $Definition['Group Leaders'] = 'Leader';
 $Definition['Group Members'] = 'Membri';
+$Definition['Group membership requests'] = 'Richieste di adesione al gruppo';
 $Definition['Groups Menu'] = 'Gruppi';
 $Definition['GroupMembersEmpty'] = 'Non si è ancora unito nessuno. Spargi la voce!';
 $Definition['Group Options'] = 'Opzioni del gruppo';
@@ -1034,6 +1038,7 @@ $Definition["Megabyte"] = "Megabyte";
 $Definition['Member'] = 'Membro';
 $Definition['member'] = 'membro';
 $Definition['Member Count'] = 'Membri';
+$Definition['Membership requests'] = 'Richieste di adesione';
 $Definition['Members'] = 'Membri';
 $Definition['members'] = 'membri';
 $Definition["Menu"] = "Menù";
@@ -1205,6 +1210,7 @@ $Definition['Notify of new content'] = 'Notifica di nuovi contenuti
 $Definition['Notify of new posts'] = 'Notifica sui nuovi post';
 $Definition['Notify me of new comment'] = 'Notifica un nuovo commento
 ';
+$Definition['Notify me of new comments'] = 'Avvisami dei nuovi commenti';
 $Definition['Notify me of new content'] = 'Notifica nuovi contenuti
 ';
 $Definition['Notify me of new posts'] = 'Notifica nuovi messaggi
@@ -1259,6 +1265,7 @@ $Definition['New answers on my question'] = 'Nuove risposte alla mia domanda
 ';
 $Definition['New follow-up to my answered questions'] = 'Nuovi seguiti alle domande con risposta
 ';
+$Definition['New comments on my activity feed posts'] = 'Nuovi commenti sui miei post nel feed di attività';
 $Definition['New comments on my posts'] = 'Nuovi commenti ai miei post
 ';
 $Definition['New comments on my bookmarked posts'] = 'Nuovi commenti sui miei post preferiti
@@ -1269,6 +1276,7 @@ $Definition["New posts in groups I'm a member of"] = "Nuovi messaggi nei gruppi 
 ";
 $Definition['New posts and comments'] = 'Nuovi messaggi e commenti
 ';
+$Definition['New posts on my profile\'s activity feed'] = 'Nuovi post nel feed di attività del mio profilo';
 $Definition['New comments on posts'] = 'Nuovi commenti ai messaggi
 ';
 
@@ -1377,6 +1385,7 @@ $Definition['Popular Groups'] = 'Gruppi popolari';
 $Definition['Popular Tags'] = 'Tag Popolari';
 $Definition['Popup'] = 'Pop-up';
 $Definition['Position'] = 'Posizione';
+$Definition['Possible Account Conflicts'] = 'Possibili conflitti di account';
 $Definition['Post'] = 'Post';
 $Definition['post'] = 'post';
 $Definition['Post Comment'] = 'Pubblica un commento';
@@ -1461,6 +1470,7 @@ $Definition['Quote Settings'] = 'Impostazioni delle Citazioni';
 $Definition['Quote wrote'] = 'ha scritto';
 
 $Definition['Rank'] = 'Livello';
+$Definition['Rank Changes'] = 'Cambiamenti di grado';
 $Definition['Ranks.ActivityFormat'] = '{ActivityUserID,user} {ActivityUserID,plural,was,were} promosso/a a {Data.Name,plaintext}.';
 $Definition['Ranks.NotificationFormat'] = 'Congratulazioni! Sei stato promosso/a a {Data.Name,plaintext}.';
 $Definition['Re: %s'] = 'Re: %s ';
@@ -1624,6 +1634,7 @@ $Definition['Select one of the following avatars:'] = 'Seleziona uno tra i segue
 $Definition['Send'] = 'Invia';
 $Definition['Send a New Message'] = 'Invia un nuovo messaggio';
 $Definition['Send me a follow-up for my answered questions.'] = 'Inviami un follow-up per le mie domande con risposta.';
+$Definition['Send me the email digest'] = 'Inviami il digest via email';
 $Definition['Send Message'] = 'Invia messaggio';
 $Definition['Send Q&A Follow-up Email'] = 'Invia e-mail di follow-up a domande e risposte';
 $Definition['Send Report'] = 'Invia Rapporto';
@@ -1702,6 +1713,7 @@ $Definition['Status changes on my ideas'] = 'Cambiamenti di stato sulle mie idee
 ';
 $Definition['Status changes on ideas I voted on'] = 'Cambiamenti di stato sulle idee che ho votato
 ';
+$Definition['Stay Here'] = 'Resta qui';
 $Definition['Spoof User'] = 'Utente fasullo';
 $Definition['SSL'] = 'SSL';
 $Definition['Start'] = 'Inizia';
@@ -1743,6 +1755,7 @@ $Definition['Tags are keywords that users can assign to discussions to help cate
 $Definition['Take Action'] = 'Prendi Provvedimenti';
 $Definition['Take Action:'] = 'Prendi Provvedimenti:';
 $Definition['Target'] = 'Obiettivo';
+$Definition['Tasks tied to your community permissions.'] = 'Attività legate ai tuoi permessi di comunità.';
 $Definition['Tell the user why you\'re warning them'] = 'Spiega all\'utente perché gli stai mandando un avvertimento.';
 $Definition['Tell us why you want to join!'] = 'Spiegaci perché vuoi partecipare!';
 $Definition['Tenth Anniversary'] = 'Decimo Anniversario';
@@ -1784,6 +1797,7 @@ $Definition['The connection data has not been verified.'] = 'I dati di connessio
 $Definition['The content you were looking for has been deleted.'] = 'Il contenuto che stavi cercando è stato cancellato.';
 $Definition['The conversation has been cleared.'] = 'La conversazione è stata pulita.';
 $Definition['The CSRF token is invalid.'] = 'Il token CSRF non è valido.';
+$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week. <a href="{url,html}">Manage Followed Categories</a>.'] = 'Il digest via email consegna i contenuti più importanti della settimana dalle categorie che segui nella tua casella di posta elettronica una volta alla settimana. <a href="{url,html}">Gestisci le categorie seguite</a>.';
 $Definition['The email you entered is in use by another member.'] = 'La email inserita è già stata utilizzata da un altro utente.';
 $Definition['The email you have entered is already related to an existing account.'] = 'L\'e-mail inserita è già collegata con un account esistente.';
 $Definition['The file failed to upload.'] = 'Caricamento del file fallito.';
@@ -2136,7 +2150,9 @@ $Definition['when people create new posts in your category'] = 'quando le person
 $Definition['Yes'] = 'Si';
 $Definition['You'] = 'Tu';
 $Definition['you'] = 'tu';
+$Definition['You do not have permission to access one or more filters in the provided link.'] = 'Non hai il permesso di accedere a uno o più filtri nel link fornito.';
 $Definition['You\'re banned from joining this group.'] = 'Ti è vietato unirti a questo gruppo. ';
+$Definition['You\'re signed in as <0/> (<1/>). This is different than the source that linked here. You may sign out to change accounts.'] = 'Sei collegato come <0/> (<1/>). Questo è diverso dalla fonte che ha collegato qui. Puoi disconnetterti per cambiare account.';
 $Definition['You\'ve already created the maximum number of groups.'] = 'Hai già creato il numero massimo di gruppi. ';
 $Definition['You\'ve applied to join this group.'] = 'Hai fatto richiesta di unirti a questo gruppo. ';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">Hai posto delle domande che ora hanno delle risposte</a>. Assicurati di accettare/rifiutare le risposte.';
