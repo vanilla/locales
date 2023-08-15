@@ -2215,6 +2215,7 @@ $Definition['Your Email will not be publicly displayed.'] = 'Your Email will not
 $Definition['Your invitation has been sent.'] = 'Your invitation has been sent.';
 $Definition['Your old password was incorrect.'] = 'Your old password was incorrect.';
 $Definition['Your new password must be at least <0/> characters'] = 'Your new password must be at least <0/> characters';
+$Definition['your notification preferences'] = 'your notification preferences';
 $Definition['Your password has been changed.'] = 'Your password has been changed.';
 $Definition['Your password must be at least %d characters long.'] = 'Your password must be at least %d characters long.';
 $Definition['Your password reset token has expired.'] = 'Your password reset token has expired. Try using the reset request form again.';
