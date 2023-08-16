@@ -1826,6 +1826,7 @@ $Definition['This user is also banned for other reasons and may stay banned.'] =
 $Definition['This user is verified as a non-spammer'] = 'This user is verified as a non-spammer';
 $Definition['This warning has expired. Do you want to completely delete it?'] = 'This warning has expired. Do you want to completely delete it?';
 $Definition['This Week\'s Leaders'] = 'This Week\'s Leaders';
+$Definition['This week\'s trending content'] = 'This week\'s trending content';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'This site is protected by reCAPTCHA and the Google';
 $Definition["This user's profile is private."] = "This user's profile is private.";
 $Definition["This user has been deleted."] = "This user has been deleted.";
