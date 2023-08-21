@@ -625,6 +625,7 @@ Follow the link below to check it out:
 %2$s
 
 Have a great day!';
+$Definition['Email Digest Preferences Updated'] = 'Email Digest Preferences Updated';
 $Definition['Email Notifications'] = 'Email Notifications';
 $Definition['Email Or Username'] = 'Email Or Username';
 $Definition['EmailPassword'] = '%2$s has reset your password at %3$s. Your login credentials are now:
@@ -1793,6 +1794,7 @@ $Definition['This answer was %s.'] = 'This answer was %s.';
 $Definition['This answer was Accepted.'] = 'This answer was Accepted.';
 $Definition['This category does not have any articles.'] = 'This category does not have any articles.';
 $Definition['This category does not have any events.'] = 'This category does not have any events.';
+$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'This discussion has a more <0>recent version</0>.';
 $Definition['This discussion has been closed.'] = 'This discussion has been closed.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'This discussion has been <a href="{url,html}">moved</a>.';
