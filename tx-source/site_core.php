@@ -626,6 +626,7 @@ Follow the link below to check it out:
 
 Have a great day!';
 $Definition['Email Digest Preferences Updated'] = 'Email Digest Preferences Updated';
+$Definition['Email Language'] = 'Email Language';
 $Definition['Email Notifications'] = 'Email Notifications';
 $Definition['Email Or Username'] = 'Email Or Username';
 $Definition['EmailPassword'] = '%2$s has reset your password at %3$s. Your login credentials are now:
@@ -1808,6 +1809,7 @@ $Definition['This image has been resized to fit in the page. Click to enlarge.']
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'This is a private poll: no-one will see what you voted for.';
 $Definition['This is a public poll: others will see what you voted for.'] = 'This is a public poll: others will see what you voted for.';
 $Definition['This is a system account and does not represent a real person.'] = 'This is a system account and does not represent a real person.';
+$Definition["This is the language your email notifications and digest will appear in. It won't affect what language posts were created in."] = "This is the language your email notifications and digest will appear in. It won't affect what language posts were created in.";
 $Definition['This text has been converted from another format.'] = 'This text has been converted from another format.';
 $Definition['This Month\'s Leaders'] = 'This Month\'s Leaders';
 $Definition['This must match the new password field'] = 'This must match the new password field';
