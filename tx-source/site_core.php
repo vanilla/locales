@@ -2189,6 +2189,7 @@ $Definition['You need to confirm your email address.'] = 'You need to confirm yo
 $Definition['You need to confirm your email address before you can continue.'] = 'You need to confirm your email address before you can continue.';
 $Definition['You need to reset your password.'] = 'You need to reset your password. This is most likely because an administrator recently changed your account information. Click <a href="%s">here</a> to reset your password.';
 $Definition['You need to sign in before you can do this.'] = 'You need to sign in before you can do this.';
+$Definition['You need to be approved before you can join this group.'] = 'You need to be approved before you can join this group.';
 $Definition['You are no longer following <0/>'] = 'You are no longer following <0/>';
 $Definition['You will no longer receive email notifications for'] = 'You will no longer receive email notifications for';
 $Definition['You will no longer receive the email digest.'] = 'You will no longer receive the email digest.';
