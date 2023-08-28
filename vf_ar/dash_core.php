@@ -103,6 +103,7 @@ $Definition['Allow users to dismiss this message'] = 'السماح للمستخ�
 $Definition['All Pages'] = 'كل الصفحات';
 $Definition['All Time'] = 'كل الوقت';
 $Definition['An enabled message will be visible on the site.'] = 'سوف تظهر رسالة مُمَكَّنة على الموقع.';
+$Definition['Anonymize Analytics Data by Default'] = 'إخفاء هوية بيانات التحليلات افتراضيًا';
 $Definition['API Label is required'] = 'مطلوب تسمية API';
 $Definition['API SSO Expand Permission'] = 'API SSO توسيع الإذن';
 $Definition['API Status'] = 'حالة API';
@@ -217,6 +218,7 @@ $Definition['Comment Settings'] = 'إعدادات التعليق';
 $Definition['Comments Page'] = 'صفحة التعليقات';
 $Definition['Comments per Page'] = 'تعليقات لكل صفحة';
 $Definition['Comment  Subject'] = 'عنوان التعليق';
+$Definition['Community Member Content'] = 'محتوى أعضاء المجتمع';
 $Definition['Condition'] = 'شرط';
 $Definition['Condition Expression'] = 'قيمة';
 $Definition['Condition Field'] = 'حقل';
@@ -266,6 +268,7 @@ $Definition['Default (%s)'] = 'افتراضي (%s)';
 $Definition['Default <0/>'] = 'افتراضي <0/>';
 $Definition['Default  Category'] = 'قسم قياسي';
 $Definition['Default Category Permissions'] = 'أذونات الفئة الافتراضية';
+$Definition['Default Followed Categories'] = 'الفئات المتبعة الافتراضية';
 $Definition['Default Locale'] = 'اللغة الافتراضية';
 $Definition['Default placeholder'] = 'العنصر النائب الافتراضي';
 $Definition['Default Roles'] = 'الأدوار الافتراضية';
@@ -321,6 +324,7 @@ $Definition['Download Locale Pack'] = 'تنزيل حزمة اللغة';
 $Definition['Edit/Delete Log'] = 'تحرير / حذف السجل';
 $Definition['Edit Category'] = 'تحرير الفئة';
 $Definition['Edit CSS'] = 'تحرير CSS';
+$Definition['Edit Default Categories'] = 'تحرير الفئات الافتراضية';
 $Definition['Edit HTML'] = 'تعديل صيغة HTML';
 $Definition['Edit Message'] = 'تحرير الرسالة';
 $Definition['Edit Role'] = 'تحرير الدور';
@@ -495,6 +499,7 @@ $Definition['Layout'] = 'المخطط';
 $Definition['Learn more'] = 'يتعلم أكثر';
 $Definition['Learn more about HSTS at %s.'] = 'تعرَّف على المزيد عن HSTS على %s.';
 $Definition['Level'] = 'المستوى';
+$Definition['Limit'] = 'حد';
 $Definition['Link Color'] = 'لون الارتباط';
 $Definition['Locale Key (Folder)'] = 'مفتاح اللغة (المجلد)';
 $Definition['Locale Name'] = 'اسم اللغة';
@@ -649,6 +654,7 @@ $Definition['Recalculate Counts'] = 'إعادة حساب التهم';
 $Definition['Recently Active Users'] = 'المستخدمون النشطون مؤخرًا';
 $Definition['Recently Added'] = 'أضيف مؤخرا';
 $Definition['Recently Commented'] = 'علق مؤخرا';
+$Definition['Recipient'] = 'متلقي';
 $Definition['Refresh Comments'] = 'تحديث التعليقات';
 $Definition['Register for Membership'] = 'سجل للعضوية';
 $Definition['Register IP'] = 'تسجيل الٱي بي IP';
@@ -709,6 +715,8 @@ $Definition['Send a confirmation email when people ask a question or start a dis
 $Definition['Send Again'] = 'أعد الإرسال';
 $Definition['Send a Test Email'] = 'إرسال رسالة بريد إلكتروني تجريبية';
 $Definition['Send Invitations!'] = 'يرسل دعوات!';
+$Definition['Send Test Digest'] = 'إرسال ملخص الاختبار';
+$Definition['Send Test Email Digest'] = 'إرسال ملخص اختبار البريد الإلكتروني';
 $Definition['Send users a welcome email.'] = 'أرسل إلى المستخدمين بريدًا إلكترونيًا ترحيبًا.';
 $Definition['Separate each word with a semi-colon ";"'] = 'افصل بين كل كلمة وأخرى بفاصلة منقوطة "؛"';
 $Definition['Share Image'] = 'مشاركة الصورة';
@@ -758,6 +766,7 @@ $Definition['The Basics'] = 'أساسيات';
 $Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';
 $Definition['The default banner image across the site. This can be overridden on a per category basis.'] = 'صورة الشعار الافتراضية عبر الموقع. يمكن تجاوز هذا على أساس كل فئة.';
 $Definition['The default role has not been configured.'] = 'لم يتم تكوين الدور الافتراضي.';
+$Definition['The email address this test will be sent to.'] = 'عنوان البريد الإلكتروني الذي سيتم إرسال هذا الاختبار إليه.';
 $Definition['The email has been sent.'] = 'لقد تم إرسال البريد الإلكتروني.';
 $Definition['The homepage title is displayed on your home page.'] = 'يتم عرض عنوان الصفحة الرئيسية على صفحتك الرئيسية. اختر العنوان الذي تريد أن يظهر في محركات البحث.';
 $Definition['The homepage was saved successfully.'] = 'تم حفظ الصفحة الرئيسية بنجاح.';
@@ -781,6 +790,7 @@ $Definition['The site description usually appears in search engines.'] = 'عاد
 $Definition['The site is currently undergoing scheduled maintenance.'] = 'يخضع الموقع حاليًا للصيانة المجدولة.';
 $Definition['The specified url code is already in use by another category.'] = 'الرابط المطلوب مستخدم من قبل قسم آخر.';
 $Definition['The structure was successfully executed.'] = 'تم تنفيذ الهيكل بنجاح.';
+$Definition['The test digest will generate content as if it were this user receiving the digest.'] = 'سينشئ ملخص الاختبار المحتوى كما لو كان هذا المستخدم يتلقى الملخص.';
 $Definition['The update was not successful.'] = 'لم ينجح التحديث.';
 $Definition['The update was successful.'] = 'تم التحديث بنجاح.';
 $Definition['The url that users go to to register for a new account.'] = 'عنوان url الذي يذهب المستخدمون إليه للتسجيل في حساب جديد.';
@@ -844,7 +854,9 @@ $Definition['UserDeletionPrompt'] = 'اختر كيفية معالجة كل ال�
 $Definition['UserKeep'] = 'الحفاظ على محتوى المستخدم';
 $Definition['UserKeepMessage'] = 'احذف المستخدم ولكن احتفظ بمحتوى المستخدم.';
 $Definition['Username or UserID to Spoof'] = 'اسم المستخدم أو معرف المستخدم للمحاكاة';
+$Definition['User Preferences'] = 'خيارات المستخدم';
 $Definition['User Registration Settings'] = 'إعدادات تسجيل المستخدم';
+$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'يمكن للمستخدمين متابعة الفئات للاشتراك في إشعارات المنشورات الجديدة. حدد الفئات التي يجب على المستخدمين الجدد اتباعها بشكل افتراضي.';
 $Definition['Users that get this reaction get %+d point.'] = 'يحصل المستخدمون الذين يحصلون على رد الفعل هذا على نقطة %+d';
 $Definition['Users that get this reaction get %+d points.'] = 'المستخدمون الذين يحصلون على رد الفعل هذا يحصلون على نقاط %+d';
 $Definition['User successfully added.'] = 'تمت إضافة المستخدم بنجاح.';
@@ -874,6 +886,7 @@ $Definition['Welcome to your Dashboard'] = 'مرحبًا بك في لوحة ال
 $Definition['We only accept urls that begin with http:// or https://'] = 'نقبل فقط عناوين url التي تبدأ بـ http: // أو https: //';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'سنحاول استخدام خادم البريد المحلي لإرسال البريد الإلكتروني افتراضيًا. إذا كنت ترغب في استخدام خادم بريد SMTP منفصل ، فيمكنك تكوينه أدناه.';
 $Definition['What\'s the Buzz?'] = 'ما هو طنين؟';
+$Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'عند تمكين هذا الإعداد ، سيتم إخفاء هوية تفاصيل المستخدم في بيانات Analytics افتراضيًا ، حتى يوافق المستخدم على ملفات تعريف ارتباط Analytics. <0> معرفة المزيد</0>';
 $Definition['Where is your Community Forum?'] = 'أين منتدى مجتمعك؟';
 $Definition['Why do you want to join?'] = 'لم تريد الانضمام؟';
 $Definition['Will you be attending?'] = 'هل ستكون حاضراً؟';
@@ -882,6 +895,7 @@ $Definition['Word Count'] = 'عدد الكلمات';
 $Definition['Yes, the following information can be changed later.'] = 'نعم ، يمكن تغيير المعلومات التالية لاحقًا.';
 $Definition['You\'ve reached the maximum login attempts. Please wait %s and try again.'] = 'لقد وصلت إلى الحد الأقصى من محاولات تسجيل الدخول. الرجاء الانتظار%s وحاول مرة أخرى.';
 $Definition['You are connected as %s.'] = 'أنت متصل ك %s.';
+$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'أنت تغادر صفحة إعدادات البريد الإلكتروني بدون حفظ التغييرات. تأكد من حفظ التحديثات الخاصة بك قبل الخروج.';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'أنت تغادر محرر الموضوع بدون حفظ التغييرات. تأكد من حفظ تحديثاتك قبل الخروج.';
 $Definition['You are previewing the %s theme.'] = 'أنت تقوم بمعاينة سمة %s.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'حدد المربع بجوار المستخدم الذي نشر البريد العشوائي لحظره وحذف جميع مشاركاته. <b>لا تفعل ذلك إلا إذا كنت متأكدًا أن هؤلاء هم مرسلو الرسائل غير المرغوب فيها.</b>';

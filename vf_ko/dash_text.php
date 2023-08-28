@@ -20,6 +20,7 @@ $Definition['Alignment (Mobile)'] = '정렬 (모바일)';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = '최근 선택한 토의 5개가 열거된 모든 카테고리';
 $Definition['Allow links to be transformed'] = '토론과 의견에서 링크를 포함 된 표현으로 변환 할 수 있습니다. 예를 들어 YouTube 링크는 포함 된 비디오로 변환됩니다.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = '%s 권한이있는 사용자는 자신의 아바타를 바닐라의 프로필 페이지에서 변경할 수 있습니다.';
+$Definition['Anonymize IP Addresses'] = 'IP 주소 익명화';
 $Definition['ApplicationHelp'] = '어플리케이션을 사용하여 포럼에 대량의 기능을 쉽게 추가할 수 있습니다.<br />
 사용하기 원하는 어플리케이션을 다음의 경로에 추가한 후 목록에서 활성화 하여 사용합니다: %s';
 $Definition['Apply Layout'] = '레이아웃 적용';
@@ -119,6 +120,8 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = '예를 들어 "*@example.com" 값으로 이메일 유형 차단을 추가해서 "example.com"의 이메일 주소를 사용하는 모든 사용자를 차단할 수 있습니다.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO을 위해 검색 엔진 크롤러는 리모트 URL을 통한 강제 설정에서  제외됩니다.';
 $Definition['Foundation Layout'] = '기초 레이아웃';
+$Definition['Full Anonymization'] = '완전한 익명화';
+$Definition['FullAnonymization.Description'] = '<strong>전체 익명화는</strong> 모든 단일 IP 주소를 0.0.0.0으로 대체하여 애플리케이션이 IP 주소로 작업할 수 있는 모든 액세스를 효과적으로 거부합니다. 이 경우 IP 금지 규칙은 전혀 작동하지 않습니다.';
 $Definition['Full Bleed'] = '풀 블리드';
 
 $Definition['Garden.Import.Complete.Description'] = '가져오기를 성공적으로 완료하였습니다.
@@ -169,6 +172,7 @@ $Definition['Left Aligned'] = '왼쪽 정렬';
 $Definition['Light'] = '빛';
 $Definition['Links'] = '연결';
 $Definition['Locales allow you to support other languages on your site.'] = '로케일(Locale)은 귀하의 사이트에서 다른 언어를 지원할 수 있게 해 줍니다. 여기에서 이용하고 싶은 로케일을 사용 및 사용 해제하세요.';
+$Definition['Lockout Time (seconds)'] = '잠금 시간(초)';
 $Definition['LogoDescription'] = '배너 로고가 사이트 상단에 표시됩니다.';
 $Definition['LogoDisclaimer'] = '테마 편집기로 만든 테마 및 일부 사용자 지정 테마는이 설정을 사용하지 않습니다.';
 $Definition['Looking for the Old Embed System?'] = '오래된 Embed 시스템을 찾고 계십니까?';
@@ -200,6 +204,8 @@ $Definition['OrgDescription'] = '귀하의 조직 이름이 SEO 마이크로데�
 $Definition['Outline'] = '개요';
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] = '재정의 된 뷰 또는 테마 후크는 의도하지 않은 부작용이있을 수 있으며 미리 볼 수 없습니다.';
 
+$Definition['Partial Anonymization'] = '부분 익명화';
+$Definition['PartialAnonymization.Description'] = '<strong>부분 익명화는</strong> IP 주소의 마지막 옥텟만 익명화합니다. 예를 들어 254.230.05.153은 254.230.05.0이 됩니다. 이렇게 하면 IP 차단 규칙이 계속 작동하면서 일부 익명화가 제공됩니다.';
 $Definition['Password.MinLength'] = '비밀번호 생성 및 재설정 페이지에서 사용자 비밀번호에 허용되는 최소 문자 길이입니다.';
 $Definition['Please choose an authenticator to configure.'] = '설정하기 원하는 인증 방식을 선택하세요.';
 $Definition['PluginHelp'] = '플러그인을 사용하여 포럼에 여러가지 기능을 추가할 수 있습니다.<br />원하는 플러그인을 다음 경로에 추가한 후 아래 목록에서 버튼을 눌러 활성화 합니다. %s';
@@ -242,6 +248,7 @@ $Definition['Session Timeout'] = '세션 타임 아웃';
 $Definition['Shadowed'] = '그림자';
 $Definition['ShareImageDescription'] = '누군가가 귀하의 사이트에서 링크를 공유하면 페이지에서 이미지를 가져오려고 합니다. 페이지에 이미지가 없으면 이 이미지를 대신 사용합니다. 이미지는 최소 50×50이어야 하지만 200×200을 권장합니다.';
 $Definition['Show all possible pocket locations.'] = '포켓의 가능한 위치를 모두 보여주려면 이 옵션을 사용하세요. 이 옵션을 켜면 사용자가 포켓을 관리할 수 있는 위치만을 보여줍니다. ';
+$Definition['SignIn.LockoutTime'] = '사용자가 로그인 시도 횟수를 초과한 후 로그인이 차단되는 시간입니다.';
 $Definition['Solid'] = '고체';
 $Definition['Some browsers support a color for the address bar.'] = '일부 브라우저는 주소 표시줄의 색상을 지원합니다.';
 $Definition['Some older themes don\'t support full editing capability.'] = '일부 이전 테마는 전체 편집 기능을 지원하지 않습니다. 테마가 무엇을 지원하는지 보려면 해당 이름 위로 마우스를 가져가서 편집이 적용되는 위치를 확인할 수 있습니다.';

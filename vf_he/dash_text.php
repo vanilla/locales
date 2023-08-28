@@ -20,6 +20,7 @@ $Definition['Alignment (Mobile)'] = 'יישור (נייד)';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'כל הקטגוריות הרשומות עם 5 הדיונים האחרונים תחת כל אחת מהן';
 $Definition['Allow links to be transformed'] = 'אפשר להפוך את הקישורים לייצוגים משובצים בדיונים והערות. לדוגמה, קישור ביוטיוב יהפוך לסרטון משובץ.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'אפשר למשתמשים עם הרשאה %s לשנות את האווטרים שלהם מדפי הפרופיל שלהם בוונילה.';
+$Definition['Anonymize IP Addresses'] = 'אנונימיז את כתובות ה-IP';
 $Definition['ApplicationHelp'] = 'אפליקציות מאפשרות לך להוסיף פונקציונליות רבה לאתר שלך.<br />
 ברגע שהאפליקציה נמצאת בתיקיית %s , תוכל לאפשר או לכבות אותה כאן.';
 $Definition['Apply Layout'] = 'החל פריסה';
@@ -109,6 +110,8 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'למשל, באפשרותך לאסור את כניסתם של כל המשתמשים עם כתובות אימייל של example.com על ידי הוספת איסור כניסה מסוג אימייל עם הערך "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'בשביל לקדם את האתר במנועי חיפוש, הגישה לכתובת ה-URL הנוכחית חסומה לרובוטי חיפוש.';
 $Definition['Foundation Layout'] = 'פריסת קרן';
+$Definition['Full Anonymization'] = 'אנונימיזציה מלאה';
+$Definition['FullAnonymization.Description'] = '<strong>אנונימיזציה מלאה</strong> מחליפה כל כתובת IP בודדת ב-0.0.0.0 המונעת למעשה מהאפליקציה כל גישה לעבודה עם כתובות IP. כללי איסור IP לא יעבדו כלל במקרה זה.';
 $Definition['Full Bleed'] = 'דימום מלא';
 
 $Definition['Garden.Import.Complete.Description'] = 'סיימת בהצלחה ייבוא. לחצו <b>סיום</b> לסיום התהליך.';
@@ -158,6 +161,7 @@ $Definition['Left Aligned'] = 'משמאל מיושר';
 $Definition['Light'] = 'אוֹר';
 $Definition['Links'] = 'קישורים';
 $Definition['Locales allow you to support other languages on your site.'] = 'איזורים מאפשרים לך לתמוך בשפות אחרות באתר שלך. אפשר ובטל איזורים שאתרצה להפוך לזמינים כאן.';
+$Definition['Lockout Time (seconds)'] = 'זמן נעילה (שניות)';
 $Definition['LogoDescription'] = 'לוגו הבאנר מופיע בראש האתר שלך.';
 $Definition['LogoDisclaimer'] = 'ערכות נושא שנוצרו עם עורך הנושאים וכמה ערכות נושא מותאמות אישית אינן משתמשות בהגדרה זו.';
 $Definition['Looking for the Old Embed System?'] = 'מחפש את מערכת ההטמעה הישנה?';
@@ -188,6 +192,8 @@ $Definition['OrgDescription'] = 'נעשה שימוש בשם הארגון שלך 
 $Definition['Outline'] = 'מתווה';
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] = 'תצוגות או ווי ערכות נושא מורכבות יכולות לגרום לתופעות לוואי לא מכוונות ולא ניתן לראות בתצוגה מקדימה.';
 
+$Definition['Partial Anonymization'] = 'אנונימיזציה חלקית';
+$Definition['PartialAnonymization.Description'] = '<strong>אנונימיזציה חלקית</strong> עושה אנונימיות רק את השמינייה האחרונה של כתובת ה-IP. לדוגמה 254.230.05.153 יהפוך ל-254.230.05.0. זה מספק אנונימיזציה מסוימת תוך שהוא מאפשר לכללי איסור IP לפעול.';
 $Definition['Password.MinLength'] = 'אורך תו מינימלי המותר לסיסמאות של משתמשים בדפי יצירה ואיפוס של סיסמה.';
 $Definition['Please choose an authenticator to configure.'] = 'אנא בחר מאמת כדי להגדיר.';
 $Definition['PluginHelp'] = 'תוספים מאפשרים לך להוסיף פונקציונליות לאתר שלך. <br />ברגע שתוסף הוסף לתיקיית ה-%s שלך, באפשרותך לאפשר או לבטל אותו כאן.';
@@ -230,6 +236,7 @@ $Definition['Session Timeout'] = 'זמן קצוב להפעלה';
 $Definition['Shadowed'] = 'מוצל';
 $Definition['ShareImageDescription'] = 'כאשר מישהו משתף קישור מהאתר שלך אנו מנסים לתפוס תמונה מהדף. אם אין תמונה בדף, אנו נשתמש בתמונה זו במקום זאת. התמונה צריכה להיות לפחות 50 × 50, אך אנו ממליצים על 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'הפעל אפשרות זאת כדי להראות את כל מקומות הכיסים האפשריים. הפעלת אפשרות זאת תראה המיקומים רק למשתמשים שיכולים לנהל כיסים.';
+$Definition['SignIn.LockoutTime'] = 'משך הזמן שמשתמש נחסם מלהתחבר לאחר חריגה ממספר ניסיונות הכניסה.';
 $Definition['Solid'] = 'מוצק';
 $Definition['Some browsers support a color for the address bar.'] = 'דפדפנים מסוימים תומכים בצבע עבור שורת הכתובת.';
 $Definition['Some older themes don\'t support full editing capability.'] = 'כמה ערכות נושא ישנות יותר אינן תומכות ביכולת עריכה מלאה. כדי לראות במה תומך ערכת נושא, תוכל לרחף מעל השם שלו כדי לראות היכן העריכות ייכנסו לתוקף.';

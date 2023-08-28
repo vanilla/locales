@@ -16,8 +16,6 @@ $Definition['Abilites'] = 'Abilities';
 $Definition['AboutToDelete'] = 'You are about to delete %s.';
 $Definition['AboutToDeleteSelectedDiscussions'] = 'You are about to delete %1$s of the %2$s selected discussions.';
 $Definition['Access your community forum by clicking the "Visit Site" link.'] = 'Access your community forum by clicking the "Visit Site" link at the top of this page, or by <a href={/,url}>clicking here</a>. The community forum is what all of your users &amp; customers will see when they visit <a href="{/,url,domain}">{/,url,domain}</a>.';
-$Definition['Account & Privacy'] = 'Account &amp; Privacy';
-$Definition['Account & Privacy Settings'] = 'Account &amp; Privacy Settings';
 $Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s accepted %4$s %8$s.';
 $Definition['Activity.BookmarkComment.FullHeadline'] = '%1$s commented on your %8$s.';
 $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s commented on your %8$s.';
@@ -191,7 +189,7 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.Privacy.IPs.Description'] = 'User IP addresses are typically collected for automated ban rules';
+$Definition['Garden.Privacy.IPs.Description'] = 'User IP addresses are typically collected for automated ban rules, moderation and spam prevention purposes. Enabling IP Anonymization will anonymize all IP addresses tracked in the site for any purpose, and will reduce the effectiveness of these tools. Changes to this setting are not retroactive.';
 $Definition['Garden.Registration.DefaultRoles'] = 'default role';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';

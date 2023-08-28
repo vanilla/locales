@@ -405,6 +405,7 @@ $Definition['Child Categories'] = 'الأقسام الفرعية';
 $Definition['Child Categories:'] = 'الأقسام الفرعية:';
 $Definition['Choose a name to identify yourself on the site.'] = 'اختر اسماً لتعرف بنفسك على الموقع.';
 $Definition['Choose the main discussion into which all comments will be merged:'] = 'اختيار الموضوع الرئيسي الذي سيتم فيه دمج جميع التعليقات:';
+$Definition['Choose to be notified by notification popup or email.'] = 'اختر أن يتم إخطارك من خلال نافذة التنبيه المنبثقة أو البريد الإلكتروني.';
 $Definition['Choose whether you want to ask a question or start a discussion.'] = 'اختيار ما إذا كنت تريد أن تسأل سؤالا أو بدء مناقشة.';
 $Definition['Clear'] = 'مسح';
 $Definition['clear'] = 'مسح';
@@ -439,6 +440,7 @@ $Definition['Community'] = 'المجموعة';
 $Definition['Community Events'] = 'الفعاليات المجتمعية';
 $Definition['Community Guidelines'] = 'إرشادات المجموعة';
 $Definition['Community Home'] = 'الرئيسية';
+$Definition['Community Tasks'] = 'مهام المجتمع';
 $Definition['Completed'] = 'مكتمل';
 $Definition['Completely delete the warning.'] = 'ازالة التحذير نهائيا';
 $Definition['Confirm'] = 'تأكيد';
@@ -514,6 +516,7 @@ $Definition['Decline'] = 'انخفاض';
 $Definition['Declined'] = 'تم الرفض';
 $Definition['Default'] = 'قياسي';
 $Definition['default'] = 'قياسي';
+$Definition['Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Categories</a>.'] = 'يمكن تعديل إعدادات الإشعارات الافتراضية لكل فئة متبوعة في <a href="{url,html}">إدارة الفئات المتبعة</a> .';
 $Definition['Default Status'] = 'الحالة الافتراضية';
 $Definition['Defer Javascript Loading'] = 'تأجيل تحميل جافاسكريبت';
 $Definition['Define Thumbnail'] = 'انقر و اسحب عبر الصورة الخاصة لتحديد الصورة المصغرة.';
@@ -808,6 +811,7 @@ $Definition['Group Info'] = 'معلومات المجموعة';
 $Definition['Group Leaders'] = 'القيادات';
 $Definition['Group Members'] = 'مجموعات';
 $Definition['GroupMembersEmpty'] = 'لم ينضم أحد بعد. أخبر الآخرين عنا!';
+$Definition['Group membership requests'] = 'طلبات عضوية المجموعة';
 $Definition['Group Options'] = 'خيارات المجموعة';
 $Definition['Groups'] = 'مجموعات';
 $Definition['groups'] = 'مجموعات';
@@ -1050,6 +1054,7 @@ $Definition['member'] = 'عضو';
 $Definition['Member Count'] = 'مجموعات';
 $Definition['Members'] = 'مجموعات';
 $Definition['members'] = 'أفراد';
+$Definition['Membership requests'] = 'طلبات العضوية';
 $Definition['Menu'] = 'القائمة ';
 $Definition['Merge'] = 'دمج';
 $Definition['Merged: %s'] = 'مدمج: %s';
@@ -1160,6 +1165,7 @@ $Definition['New answers on my question'] = 'إجابات جديدة على سؤ
 $Definition['New Author'] = 'مؤلف جديد';
 $Definition['New badge requests'] = 'طلبات الشارة الجديدة';
 $Definition['New badges'] = 'شارات جديدة';
+$Definition['New comments on my activity feed posts'] = 'تعليقات جديدة على نشاطي تغذي المشاركات';
 $Definition['New comments on my bookmarked posts'] = 'تعليقات جديدة على مشاركاتي المرجعية';
 $Definition['New comments on my posts'] = 'تعليقات جديدة على مشاركاتي';
 $Definition['New comments on my profile'] = 'تعليقات جديدة على ملف التعريف الخاص بي';
@@ -1184,6 +1190,7 @@ $Definition['New Poll'] = 'إستطلاع جديد';
 $Definition['New Post'] = 'منشور جديد';
 $Definition['New posts and comments'] = 'مشاركات وتعليقات جديدة';
 $Definition['New posts in groups I\'m a member of'] = 'مشاركات جديدة في مجموعات أنا عضو فيها';
+$Definition['New posts on my profile\'s activity feed'] = 'مشاركات جديدة في موجز نشاط ملفي الشخصي';
 $Definition['New Question'] = 'سؤال جديد';
 $Definition['New replies to comments on my profile'] = 'ردود جديدة على التعليقات على ملفي الشخصي';
 $Definition['New Username'] = 'اسم مستخدم جديد';
@@ -1228,6 +1235,7 @@ $Definition['Notifications Postmaster'] = 'الإخطارات مدير مكتب 
 $Definition['Notifictions'] = 'التنبيهات';
 $Definition['Notify'] = 'إخطار';
 $Definition['Notify me of new comment'] = 'أعلمني بالتعليق الجديد';
+$Definition['Notify me of new comments'] = 'أعلمني بالتعليقات الجديدة';
 $Definition['Notify me of new content'] = 'أعلمني بالمحتوى الجديد';
 $Definition['Notify me of new posts'] = 'أعلمني بالمشاركات الجديدة';
 $Definition['Notify me of private messages.'] = 'أخطرني ان كان لي رسائل خاصة.';
@@ -1374,6 +1382,7 @@ $Definition['Popular Groups'] = 'مجموعات شهيرة';
 $Definition['Popular Tags'] = 'الكلمات الدلالية الشعبية';
 $Definition['Popup'] = 'منبثقة';
 $Definition['Position'] = 'موضع';
+$Definition['Possible Account Conflicts'] = 'تعارضات محتملة في الحساب';
 $Definition['Post'] = 'نشر';
 $Definition['post'] = 'مشاركة';
 $Definition['Post Comment'] = 'إضافة تعليق';
@@ -1455,6 +1464,7 @@ $Definition['Quote Settings'] = 'إعدادات الإقتباس';
 $Definition['Quote wrote'] = 'كتب';
 
 $Definition['Rank'] = 'الرتبة';
+$Definition['Rank Changes'] = 'تغييرات الترتيب';
 $Definition['Ranks.ActivityFormat'] = 'تمت ترقية {ActivityUserID,user} {ActivityUserID,plural,was,were} إلى {Data.Name,plaintext}.';
 $Definition['Ranks.NotificationFormat'] = 'تهانينا! تمت ترقيتك إلى {Data.Name,plaintext}.';
 $Definition['Re: %s'] = 'رد: %s';
@@ -1617,6 +1627,7 @@ $Definition['Send'] = 'إرسال';
 $Definition['Send a New Message'] = 'أرسل رسالة جديدة';
 $Definition['Send me a follow-up for my answered questions.'] = 'أرسل لي متابعة لأسئلتي التي أجبت عليها.';
 $Definition['Send Message'] = 'إرسال رسالة';
+$Definition['Send me the email digest'] = 'أرسل لي ملخص البريد الإلكتروني';
 $Definition['Send notifications as emails'] = 'إرسال الإخطارات كرسائل بريد إلكتروني';
 $Definition['Send Q&A Follow-up Email'] = 'إرسال بريد إلكتروني للمتابعة للأسئلة والأجوبة';
 $Definition['Send Report'] = 'إرسال التقرير';
@@ -1712,6 +1723,7 @@ $Definition['Status changes on ideas I voted on'] = 'يتغير الوضع عل�
 $Definition['Status changes on my ideas'] = 'يتغير الوضع على أفكاري';
 $Definition['Statuses'] = 'الحالات';
 $Definition['statuses'] = 'الحالات';
+$Definition['Stay Here'] = 'ابق هنا';
 $Definition['Stop following'] = 'الغاء المتابعة';
 $Definition['Strikethrough'] = 'شطب بخط';
 $Definition['Strip images out of signatures'] = 'تجريد التواقيع من الصور';
@@ -1735,6 +1747,7 @@ $Definition['Tags are keywords that users can assign to discussions to help cate
 $Definition['Take Action'] = 'اتخاذ إجراءات';
 $Definition['Take Action:'] = 'اتخاذ إجراءات:';
 $Definition['Target'] = 'الهدف';
+$Definition['Tasks tied to your community permissions.'] = 'المهام مرتبطة بأذونات مجتمعك.';
 $Definition['Tell the user why you\'re warning them'] = 'أخبر المستخدم لماذا تم تحذيره';
 $Definition['Tell us why you want to join!'] = 'اخبرنا لماذا تريد الانضمام لنا !';
 $Definition['Tenth Anniversary'] = 'الذكرى السنوية العاشرة';
@@ -1776,6 +1789,7 @@ $Definition['The connection data has not been verified.'] = 'لم يتم الت�
 $Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';
 $Definition['The conversation has been cleared.'] = 'تم مسح محادثة.';
 $Definition['The CSRF token is invalid.'] = 'رمز الـ CSRF غيرصالح.';
+$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week. <a href="{url,html}">Manage Followed Categories</a>.'] = 'يقدم ملخص البريد الإلكتروني أفضل محتوى في الأسبوع من الفئات التي تتابعها في صندوق بريدك الإلكتروني مرة واحدة في الأسبوع. <a href="{url,html}">إدارة الفئات المتبعة</a> .';
 $Definition['The email you entered is in use by another member.'] = 'عنوان البريد الإلكتروني الذي أدخلته مُستخدم من قبل عضو آخر. ';
 $Definition['The email you have entered is already related to an existing account.'] = 'يرتبط مسبقا البريد الإلكتروني الذي أدخلته بحساب موجود.';
 $Definition['The file failed to upload.'] = 'فشل تحميل الملف';
@@ -2100,6 +2114,7 @@ $Definition['Yes'] = 'نعم';
 $Definition['You'] = 'أنت';
 $Definition['you'] = 'أنت';
 $Definition['You\'re banned from joining this group.'] = 'أنت ممنوعٌ من الانضمام إلى هذه المجموعة.';
+$Definition['You\'re signed in as <0/> (<1/>). This is different than the source that linked here. You may sign out to change accounts.'] = 'لقد قمت بتسجيل الدخول كـ <0 /> (<1 />). هذا يختلف عن المصدر المرتبط هنا. يمكنك تسجيل الخروج لتغيير الحسابات.';
 $Definition['You\'ve already created the maximum number of groups.'] = 'لقد قمت بالفعل بإنشاء الحد الأقصى المسموح به من عدد المجموعات.';
 $Definition['You\'ve applied to join this group.'] = 'لقد قدمت طلباً للانضمام إلى هذه المجموعة.';
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">لقد سألت أسئلة، لها الآن إجابات</a>.تأكد من قبول/رفض هذه الإجابات.';
@@ -2162,6 +2177,7 @@ $Definition['You do not have any drafts.'] = 'ليس لديك اي مسودات.
 $Definition['You do not have any messages yet.'] = 'ليس لديك أي رسائل بعد. ';
 $Definition['You do not have any notifications yet.'] = 'ليس لديك اي إخطارات حتى الان.';
 $Definition['You do not have enough invitations left.'] = 'لم يكن لديك ما يكفي من الدعوات.';
+$Definition['You do not have permission to access one or more filters in the provided link.'] = 'ليس لديك إذن للوصول إلى واحد أو أكثر من عوامل التصفية في الرابط المقدم.';
 $Definition['You do not have permission to edit all of the posts you are trying to merge.'] = 'ليس لديك الإذن بالتعديل في جميع المشاركات التي تحاول دمجها.';
 $Definition['You do not have permission to move %1$s of the selected discussions.'] = 'ليس لديك إذن بنقل %1$s من المناقشات المحددة.';
 $Definition['You do not have permission to write new comments.'] = 'ليس لديك الصلاحيات لكتابة تعليق جديد';
