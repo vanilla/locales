@@ -601,6 +601,7 @@ $Definition['Not Spam'] = 'Not Spam';
 $Definition['Number of %s listed per page.'] = 'Number of %s listed per page.';
 $Definition['Number of blocked registrations'] = 'Number of blocked registrations';
 $Definition['Number of days before a follow-up email is automatically sent.'] = 'Number of days before a follow-up email is automatically sent.';
+$Definition['Number input must be between 1 and 100.'] = 'Number input must be between 1 and 100.';
 
 $Definition['On'] = 'On';
 $Definition['Only Allow Each User To Post'] = 'Only Allow Each User To Post';
@@ -870,6 +871,7 @@ $Definition['Uninvite'] = 'Uninvite';
 $Definition['Universal Code'] = 'Universal Code';
 $Definition['Universal Forum Embed Code'] = 'Universal Forum Embed Code';
 $Definition['Unlimited'] = 'Unlimited';
+$Definition['Up to a maximum of 100 items may be displayed.'] = 'Up to a maximum of 100 items may be displayed.';
 $Definition['Upload New Email Logo'] = 'Upload New Email Logo';
 $Definition['Upcoming Events'] = 'Upcoming Events';
 $Definition['Use an SMTP server to send email'] = 'Use an SMTP server to send email';
