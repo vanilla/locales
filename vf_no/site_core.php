@@ -153,7 +153,6 @@ $Definition['Accept'] = 'Aksepter';
 $Definition['Accept this answer.'] = 'Aksepter dette svaret.';
 $Definition['Access the Site'] = 'Få tilgang til siden';
 $Definition['Access Tokens'] = 'Tilgangstokener';
-$Definition['Account & Privacy'] = 'Konto og personvern';
 $Definition['Account & Privacy Settings'] = 'Konto- og personverninnstillinger';
 $Definition['Account Options'] = 'Kontoalternativer';
 $Definition['Actions'] = 'Handlinger';

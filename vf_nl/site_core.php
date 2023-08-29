@@ -161,7 +161,6 @@ $Definition['Accepted'] = 'Aanvaard';
 $Definition['Accept this answer.'] = 'Keur dit antwoord goed.';
 $Definition['Access the Site'] = 'Ga naar de site ';
 $Definition['Access Tokens'] = 'Toegangstokens';
-$Definition['Account & Privacy'] = 'Rekening & Privacy';
 $Definition['Account & Privacy Settings'] = 'Account- en privacyinstellingen';
 $Definition['Account Options'] = 'Accountopties';
 $Definition['Actions'] = 'Acties';

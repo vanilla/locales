@@ -158,7 +158,6 @@ $Definition['Accepted'] = 'Aceito';
 $Definition['Accept this answer.'] = 'Concordam com esta resposta.';
 $Definition['Access the Site'] = 'Acesse o site';
 $Definition['Access Tokens'] = 'Tokens de Acesso';
-$Definition['Account & Privacy'] = 'Conta e privacidade';
 $Definition['Account & Privacy Settings'] = 'Configurações de Conta e Privacidade';
 $Definition['Account Options'] = 'Opções da conta';
 $Definition['Actions'] = 'ações';

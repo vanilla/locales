@@ -159,7 +159,6 @@ $Definition['Accepted'] = 'מאושר';
 $Definition['Accept this answer.'] = 'קבל את התשובה הזאת';
 $Definition['Access the Site'] = 'הזדהות לאתר';
 $Definition['Access Tokens'] = 'אסימוני גישה';
-$Definition['Account & Privacy'] = 'חשבון ופרטיות';
 $Definition['Account & Privacy Settings'] = 'הגדרות חשבון ופרטיות';
 $Definition['Account Options'] = 'אפשרויות חשבון';
 $Definition['Actions'] = 'פעולות';

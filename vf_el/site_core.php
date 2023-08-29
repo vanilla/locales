@@ -161,7 +161,6 @@ $Definition['Accepted'] = 'Αποδεκτό';
 $Definition['Accept this answer.'] = 'Δεχτείτε αυτή την απάντηση';
 $Definition['Access the Site'] = 'Αποκτήσετε πρόσβαση στην Ιστοσελίδα';
 $Definition['Access Tokens'] = 'Πρόσβαση Tokens';
-$Definition['Account & Privacy'] = 'Λογαριασμός & Απόρρητο';
 $Definition['Account & Privacy Settings'] = 'Ρυθμίσεις λογαριασμού και απορρήτου';
 $Definition['Account Options'] = 'Επιλογές Λογαριασμού';
 $Definition['Actions'] = 'Ενέργειες';

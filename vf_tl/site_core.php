@@ -154,7 +154,6 @@ $Definition['Accept'] = 'Tanggapin';
 $Definition['Accept this answer.'] = 'Tanggapin ang sagot na ito.';
 $Definition['Access the Site'] = 'I-access ang Site';
 $Definition['Access Tokens'] = 'Mga Token para sa Pag-access';
-$Definition['Account & Privacy'] = 'Account at Privacy';
 $Definition['Account & Privacy Settings'] = 'Mga Setting ng Account at Privacy';
 $Definition['Account Options'] = 'Account na mga Opsyon';
 $Definition['Actions'] = 'Mga Aksyon';

@@ -161,7 +161,6 @@ $Definition['Accepted'] = 'Prihvaćeno';
 $Definition['Accept this answer.'] = 'Prihvatiti odgovor.';
 $Definition['Access the Site'] = 'Pristupi sajtu';
 $Definition['Access Tokens'] = 'Pristupi tokenima';
-$Definition['Account & Privacy'] = 'Налог и приватност';
 $Definition['Account & Privacy Settings'] = 'Подешавања налога и приватности';
 $Definition['Account Options'] = 'Opcije naloga';
 $Definition['Actions'] = 'Radnje';

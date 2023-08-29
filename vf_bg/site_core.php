@@ -160,7 +160,6 @@ $Definition['Accepted'] = 'Приет';
 $Definition['Accept this answer.'] = 'Приемете този отговор.';
 $Definition['Access the Site'] = 'Влезте в сайта';
 $Definition['Access Tokens'] = 'Жетони за достъп';
-$Definition['Account & Privacy'] = 'Акаунт и поверителност';
 $Definition['Account & Privacy Settings'] = 'Настройки за акаунт и поверителност';
 $Definition['Account Options'] = 'Опции на акаунта';
 $Definition['Actions'] = 'Действия';

@@ -161,7 +161,6 @@ $Definition['Accepted'] = 'Đã được chấp nhận';
 $Definition['Accept this answer.'] = 'Chấp nhận câu trả lời này.';
 $Definition['Access the Site'] = 'Truy Cập vào Trang';
 $Definition['Access Tokens'] = 'Token Truy cập';
-$Definition['Account & Privacy'] = 'Bảo mật tài khoản';
 $Definition['Account & Privacy Settings'] = 'Cài đặt tài khoản & quyền riêng tư';
 $Definition['Account Options'] = 'Thiết lập tài khoản';
 $Definition['Actions'] = 'Hoạt động';

@@ -162,7 +162,6 @@ $Definition['Accepted'] = 'Vahvistettu';
 $Definition['Accept this answer.'] = 'Hyväksy tämä vastaus.';
 $Definition['Access the Site'] = 'Pääsy verkkosivulle';
 $Definition['Access Tokens'] = 'Käyttöoikeustunnukset';
-$Definition['Account & Privacy'] = 'Tili ja tietosuoja';
 $Definition['Account & Privacy Settings'] = 'Tili- ja tietosuoja-asetukset';
 $Definition['Account Options'] = 'Tilin asetukset';
 $Definition['Actions'] = 'Toiminnot';

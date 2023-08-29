@@ -161,7 +161,6 @@ $Definition['Accepted'] = '承認済み';
 $Definition['Accept this answer.'] = 'この回答を承認する。';
 $Definition['Access the Site'] = 'サイトへのアクセス';
 $Definition['Access Tokens'] = 'アクセストークン';
-$Definition['Account & Privacy'] = 'アカウント ＆ プライバシー';
 $Definition['Account & Privacy Settings'] = 'アカウントとプライバシーの設定';
 $Definition['Account Options'] = 'アカウント オプション';
 $Definition['Actions'] = 'アクション';

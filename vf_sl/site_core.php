@@ -158,7 +158,6 @@ $Definition['Accepted'] = 'Sprejeto';
 $Definition['Accept this answer.'] = 'Sprejmi ta odgovor.';
 $Definition['Access the Site'] = 'Dostop do spletnega mesta';
 $Definition['Access Tokens'] = 'Žetoni za dostop';
-$Definition['Account & Privacy'] = 'Račun in zasebnost';
 $Definition['Account & Privacy Settings'] = 'Nastavitve računa in zasebnosti';
 $Definition['Account Options'] = 'Možnosti računa';
 $Definition['Actions'] = 'Dejanja';

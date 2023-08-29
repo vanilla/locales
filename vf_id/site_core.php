@@ -158,7 +158,6 @@ $Definition['Accepted'] = 'Diterima';
 $Definition['Accept this answer.'] = 'Terima jawaban ini.';
 $Definition['Access the Site'] = 'Akses Situs';
 $Definition['Access Tokens'] = 'Token Akses';
-$Definition['Account & Privacy'] = 'Akun & Privasi';
 $Definition['Account & Privacy Settings'] = 'Pengaturan Akun & Privasi';
 $Definition['Account Options'] = 'Opsi Akun';
 $Definition['Actions'] = 'Tindakan';

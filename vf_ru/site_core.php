@@ -162,7 +162,6 @@ $Definition['Accepted'] = 'Принято';
 $Definition['Accept this answer.'] = 'Это верный ответ.';
 $Definition['Access the Site'] = 'Доступ к сайту';
 $Definition['Access Tokens'] = 'Маркеры доступа';
-$Definition['Account & Privacy'] = 'Учетная запись и конфиденциальность';
 $Definition['Account & Privacy Settings'] = 'Учетная запись и настройки конфиденциальности';
 $Definition['Account Options'] = 'Опции аккаунта';
 $Definition['Actions'] = 'Действия';

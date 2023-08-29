@@ -161,7 +161,6 @@ $Definition['Accepted'] = 'پذيرفته شده';
 $Definition['Accept this answer.'] = 'پذيرفتن اين پرسش.';
 $Definition['Access the Site'] = 'دسترسي به سايت';
 $Definition['Access Tokens'] = 'دسترسی به توکن ها';
-$Definition['Account & Privacy'] = 'حساب و حریم خصوصی';
 $Definition['Account & Privacy Settings'] = 'تنظیمات حساب و حریم خصوصی';
 $Definition['Account Options'] = 'گزينه هاي حساب كاربري';
 $Definition['Actions'] = 'اقدامات';

@@ -159,7 +159,6 @@ $Definition['Accepted'] = 'Derbyniwyd';
 $Definition['Accept this answer.'] = 'Derbyn yr ateb yma.';
 $Definition['Access the Site'] = 'Mynediad i\'r safle';
 $Definition['Access Tokens'] = 'Tocynnau Mynediad';
-$Definition['Account & Privacy'] = 'Cyfrif a Phreifatrwydd';
 $Definition['Account & Privacy Settings'] = 'Gosodiadau Cyfrif a Phreifatrwydd';
 $Definition['Account Options'] = 'Dewisiadau cyfrif';
 $Definition['Actions'] = 'Camau gweithredu';

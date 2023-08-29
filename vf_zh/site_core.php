@@ -163,7 +163,6 @@ $Definition['Accepted'] = '接受';
 $Definition['Accept this answer.'] = '采纳为最佳答案。';
 $Definition['Access the Site'] = '访问该网站';
 $Definition['Access Tokens'] = '访问令牌';
-$Definition['Account & Privacy'] = '帐户和隐私';
 $Definition['Account & Privacy Settings'] = '帐户和隐私设置';
 $Definition['Account Options'] = '账户选项';
 $Definition['Actions'] = '操作';

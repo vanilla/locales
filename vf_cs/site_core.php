@@ -159,7 +159,6 @@ $Definition['Accepted'] = 'Přijato';
 $Definition['Accept this answer.'] = 'Přijmout odpověď.';
 $Definition['Access the Site'] = 'Vstupte do sítě';
 $Definition['Access Tokens'] = 'Přístupové tokeny';
-$Definition['Account & Privacy'] = 'Účet &amp; Soukromí';
 $Definition['Account & Privacy Settings'] = 'Nastavení účtu a soukromí';
 $Definition['Account Options'] = 'Možnosti účtu';
 $Definition['Actions'] = 'Akce';

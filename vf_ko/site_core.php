@@ -159,7 +159,6 @@ $Definition['Accepted'] = '등록되었습니다';
 $Definition['Accept this answer.'] = '이 답을 승인하기';
 $Definition['Access the Site'] = '사이트 평가하기';
 $Definition['Access Tokens'] = '액세스 토큰';
-$Definition['Account & Privacy'] = '계정 및 개인정보 보호';
 $Definition['Account & Privacy Settings'] = '계정 및 개인 정보 설정';
 $Definition['Account Options'] = '계정 선택 사항';
 $Definition['Actions'] = '활';

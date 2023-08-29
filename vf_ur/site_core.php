@@ -158,7 +158,6 @@ $Definition['Accepted'] = 'منظور شدہ';
 $Definition['Accept this answer.'] = 'اس جواب کو قبول کریں۔';
 $Definition['Access the Site'] = 'سائٹ تک رسائی حاصل کریں';
 $Definition['Access Tokens'] = 'ٹوکن تک رسائی حاصل کریں';
-$Definition['Account & Privacy'] = 'اکاؤنٹ اور رازداری';
 $Definition['Account & Privacy Settings'] = 'اکاؤنٹ اور رازداری کی ترتیبات';
 $Definition['Account Options'] = 'اکاؤنٹ اختیارات';
 $Definition['Actions'] = 'عمل';

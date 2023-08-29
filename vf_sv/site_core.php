@@ -159,7 +159,6 @@ $Definition['Accepted'] = 'Accepterad';
 $Definition['Accept this answer.'] = 'Acceptera detta svar.';
 $Definition['Access the Site'] = 'Få åtkomst till sidan';
 $Definition['Access Tokens'] = 'Åtkomsttoken';
-$Definition['Account & Privacy'] = 'Konto & Sekretess';
 $Definition['Account & Privacy Settings'] = 'Konto- och sekretessinställningar';
 $Definition['Account Options'] = 'Alternativ för konto';
 $Definition['Actions'] = 'Åtgärder';

@@ -160,7 +160,6 @@ $Definition['Accepted'] = 'Kwamukelwe';
 $Definition['Accept this answer.'] = 'Yamukela le mpendulo.';
 $Definition['Access the Site'] = 'Finyelela le Sayithi';
 $Definition['Access Tokens'] = 'Finyelela amathokheni';
-$Definition['Account & Privacy'] = 'I-akhawunti Nobumfihlo';
 $Definition['Account & Privacy Settings'] = 'I-akhawunti nezilungiselelo zobumfihlo';
 $Definition['Account Options'] = 'Ongakukhetha Kwi-akhawunti';
 $Definition['Actions'] = 'Ukwenza ';

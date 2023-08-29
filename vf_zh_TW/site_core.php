@@ -163,7 +163,6 @@ $Definition['Accepted'] = '接受';
 $Definition['Accept this answer.'] = '認可該回答。';
 $Definition['Access the Site'] = '到訪網站';
 $Definition['Access Tokens'] = '存取權杖';
-$Definition['Account & Privacy'] = '帳戶和隱私';
 $Definition['Account & Privacy Settings'] = '帳戶和隱私設置';
 $Definition['Account Options'] = '帳號選項';
 $Definition['Actions'] = '活動';

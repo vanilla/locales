@@ -168,7 +168,6 @@ $Definition['Accepted'] = 'Zaakceptowane';
 $Definition['Accept this answer.'] = 'Akceptuj tą odpowiedź.';
 $Definition['Access the Site'] = 'Wejdź na stronę';
 $Definition['Access Tokens'] = 'Uzyskaj dostęp do tokenów';
-$Definition['Account & Privacy'] = 'Konto i prywatność';
 $Definition['Account & Privacy Settings'] = 'Ustawienia konta i prywatności';
 $Definition['Account Options'] = 'Ustawienia konta';
 $Definition['Actions'] = 'Działania';

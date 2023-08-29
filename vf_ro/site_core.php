@@ -161,7 +161,6 @@ $Definition['Accepted'] = 'Acceptat';
 $Definition['Accept this answer.'] = 'Aceptați acest răspuns.';
 $Definition['Access the Site'] = 'Accesați site-ul';
 $Definition['Access Tokens'] = 'Token-uri acces';
-$Definition['Account & Privacy'] = 'Cont și confidențialitate';
 $Definition['Account & Privacy Settings'] = 'Setări de cont și confidențialitate';
 $Definition['Account Options'] = 'Opţiuni';
 $Definition['Actions'] = 'Acțiuni';

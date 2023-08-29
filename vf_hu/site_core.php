@@ -162,7 +162,6 @@ $Definition['Accepted'] = 'Elfogadott';
 $Definition['Accept this answer.'] = 'Válasz elfogadása.';
 $Definition['Access the Site'] = 'Belépés az Oldalra';
 $Definition['Access Tokens'] = 'Kuponok elérése';
-$Definition['Account & Privacy'] = 'Fiók és adatvédelem';
 $Definition['Account & Privacy Settings'] = 'Fiók és adatvédelmi beállítások';
 $Definition['Account Options'] = 'Fiók beállítása';
 $Definition['Actions'] = 'Tevékenységek';

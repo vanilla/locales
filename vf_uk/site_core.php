@@ -156,7 +156,6 @@ $Definition['Accepted'] = 'Прийнятий';
 $Definition['Accept this answer.'] = 'Підтвердіть цю відповідь.';
 $Definition['Access the Site'] = 'Отримати доступ до сайту';
 $Definition['Access Tokens'] = 'Отримати доступ до токена';
-$Definition['Account & Privacy'] = 'Обліковий запис і конфіденційність';
 $Definition['Account & Privacy Settings'] = 'Налаштування облікового запису та конфіденційності';
 $Definition['Account Options'] = 'Опції аккаунта';
 $Definition['Actions'] = 'Дії';

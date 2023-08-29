@@ -158,7 +158,6 @@ $Definition['Accepted'] = 'Accepteret';
 $Definition['Accept this answer.'] = 'Godkend svar';
 $Definition['Access the Site'] = 'Gå indpå siden';
 $Definition['Access Tokens'] = 'Adgangstokens';
-$Definition['Account & Privacy'] = 'Konto og privatliv';
 $Definition['Account & Privacy Settings'] = 'Konto- og privatlivsindstillinger';
 $Definition['Account Options'] = 'Kontoindstillinger';
 $Definition['Actions'] = 'Handlinger';

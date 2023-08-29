@@ -159,7 +159,6 @@ $Definition['Accepted'] = 'Amogetšwe';
 $Definition['Accept this answer.'] = 'Amogela karabo ye.';
 $Definition['Access the Site'] = 'Fihlelela Wepesaete ye';
 $Definition['Access Tokens'] = 'Tsenya Dithokene';
-$Definition['Account & Privacy'] = 'Akhaonto & Sephiri';
 $Definition['Account & Privacy Settings'] = 'Dipeakanyo tša Akhaonto & Sephiri';
 $Definition['Account Options'] = 'Dikgetho tša Akhaonte';
 $Definition['Actions'] = 'Tiro';

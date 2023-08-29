@@ -125,7 +125,6 @@ $Definition['Accept'] = 'Gabh ris';
 $Definition['Accept this answer.'] = 'Gabh ris an fhreagairt seo.';
 $Definition['Access the Site'] = 'Faigh chun làraich';
 $Definition['Access Tokens'] = 'Comharran ruigsinneachd';
-$Definition['Account & Privacy'] = 'Cunntas & Prìobhaideachd';
 $Definition['Account & Privacy Settings'] = 'Roghainnean cunntais is prìobhaideachd';
 $Definition['Actions'] = 'Gnìomhan';
 $Definition['Activate'] = 'Gnìomhaich';

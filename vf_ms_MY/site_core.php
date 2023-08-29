@@ -160,7 +160,6 @@ $Definition['Accepted'] = 'Diterima';
 $Definition['Accept this answer.'] = 'Terima jawapan ini.';
 $Definition['Access the Site'] = 'Akses Laman';
 $Definition['Access Tokens'] = 'Akses Token';
-$Definition['Account & Privacy'] = 'Akaun & Privasi';
 $Definition['Account & Privacy Settings'] = 'Tetapan Akaun & Privasi';
 $Definition['Account Options'] = 'Pilihan Akaun';
 $Definition['Actions'] = 'Tindakan';

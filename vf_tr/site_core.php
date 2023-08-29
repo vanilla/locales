@@ -159,7 +159,6 @@ $Definition['Accepted'] = 'Kabul Edildi';
 $Definition['Accept this answer.'] = 'Bu cevabı kabul et.';
 $Definition['Access the Site'] = 'Site Erişimi';
 $Definition['Access Tokens'] = 'Erişim Jetonları';
-$Definition['Account & Privacy'] = 'Hesap gizliliği';
 $Definition['Account & Privacy Settings'] = 'Hesap & Gizlilik ayarları';
 $Definition['Account Options'] = 'Hesap Seçenekleri';
 $Definition['Actions'] = 'Hareketler';

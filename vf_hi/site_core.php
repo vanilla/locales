@@ -160,7 +160,6 @@ $Definition['Accepted'] = 'स्वीकृत';
 $Definition['Accept this answer.'] = 'इस उत्तर को स्वीकार करें।';
 $Definition['Access the Site'] = 'साइट को एक्सेस करें';
 $Definition['Access Tokens'] = 'एक्सेस टोकन';
-$Definition['Account & Privacy'] = 'खाता और गोपनीयता';
 $Definition['Account & Privacy Settings'] = 'खाता और गोपनीयता सेटिंग्स';
 $Definition['Account Options'] = 'अकाउंट विकल्प';
 $Definition['Actions'] = 'क्रियाएँ';

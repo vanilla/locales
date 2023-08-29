@@ -160,7 +160,6 @@ $Definition['Accepted'] = 'ยอมรับแล้ว';
 $Definition['Accept this answer.'] = 'ยอมรับคำตอบนี้';
 $Definition['Access the Site'] = 'เข้าถึงไซต์';
 $Definition['Access Tokens'] = 'โทเคนสิทธิ์เข้าใช้';
-$Definition['Account & Privacy'] = 'บัญชีและความเป็นส่วนตัว';
 $Definition['Account & Privacy Settings'] = 'การตั้งค่าบัญชีและความเป็นส่วนตัว';
 $Definition['Account Options'] = 'ตั้งค่า';
 $Definition['Actions'] = 'การกระทำ';
