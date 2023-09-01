@@ -786,7 +786,6 @@ $Definition['Forum Signature Settings'] = 'Keskustelupalstan allekirjoitusasetuk
 $Definition['Fourth Anniversary'] = 'Neljäs vuosipäivä';
 $Definition['Friends'] = 'Kaverit';
 $Definition['From'] = 'lähteestä';
-$Definition['Full Site'] = 'Koko sivu';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Mukauta kaikkia ilmoitusasetuksia <0>ilmoitusasetukset-sivulla</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Ylläpidon sähköpostiosoite';

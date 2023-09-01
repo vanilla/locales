@@ -776,7 +776,6 @@ $Definition['Forum Signature Settings'] = 'تنظيمات امضاي انجمن'
 $Definition['Fourth Anniversary'] = 'چهارمين سالگرد';
 $Definition['Friends'] = 'دوستان';
 $Definition['From'] = 'از';
-$Definition['Full Site'] = 'نسخه غیر موبایلی';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'بیشتر تمام تنظیمات اعلان را در <0>صفحه تنظیمات برگزیده اعلان سفارشی کنید</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'ايميل پشتيباني';

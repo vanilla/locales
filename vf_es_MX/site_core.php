@@ -163,6 +163,7 @@ $Definition['Accepted'] = 'Aceptado';
 $Definition['Accept this answer.'] = 'Acepta esta respuesta.';
 $Definition['Access the Site'] = 'Entra al sitio';
 $Definition['Access Tokens'] = 'Tokens de acceso';
+$Definition['Account & Privacy'] = 'Cuentas y privacidad';
 $Definition['Account & Privacy Settings'] = 'Configuración de cuenta y privacidad';
 $Definition['Account Options'] = 'Opciones de la cuenta';
 $Definition['Actions'] = 'Acciones';
@@ -619,6 +620,7 @@ $Definition['Eighth Anniversary'] = 'Octavo Aniversario ';
 $Definition['Email'] = 'Correo electrónico';
 $Definition['Email/Username'] = 'Correo electrónico/Nombre de usuario';
 $Definition['EmailConfirmEmail'] = 'Necesitas confirmar tu dirección de correo electrónico antes de continuar. Por favor confírmala haciendo clic en el siguiente enlace: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['Email Digest Preferences Updated'] = 'Actualización de las preferencias del resumen del correo electrónico';
 $Definition['EmailFooter'] = '¡Que tengas un buen día!';
 $Definition['EmailHeader'] = '¡Hola {User.Name}!
 ';
@@ -629,6 +631,7 @@ $Definition['EmailInvitation'] = '¡Hola!
   %3$s
 
 ¡Qué tengas un buen día!';
+$Definition['Email Language'] = 'Idioma del correo electrónico';
 $Definition['EmailMembershipApproved'] = '¡Hola %1$s, bienvenido!
 
 Has sido aprobado como miembro. Conéctate ahora con el siguiente enlace:
@@ -784,7 +787,6 @@ $Definition['Forum Signature Settings'] = 'Ajuste de firma del Foro';
 $Definition['Fourth Anniversary'] = 'Cuarto Aniversario ';
 $Definition['Friends'] = 'Amigos';
 $Definition['From'] = 'Desde';
-$Definition['Full Site'] = 'Sitio completo';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Personalice aún más todas las configuraciones de notificación en la página de preferencias de notificación <0></0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Correo electrónico de soporte';
@@ -875,6 +877,7 @@ $Definition['Help Menu'] = 'Ayuda';
 $Definition['her'] = 'ella';
 $Definition['Hide'] = 'Ocultar';
 $Definition['hide'] = 'ocultar';
+$Definition['Hide category'] = 'Ocultar categoría';
 $Definition['Hide my online status from other members'] = 'Ocultar mi estado en línea a otros miembros';
 $Definition['Hide previous quotes'] = '« ocultar citas anteriores';
 $Definition['Hide Results'] = 'Ocultar resultados';
@@ -1052,6 +1055,7 @@ $Definition['Male'] = 'Hombre';
 $Definition['Manage All Notifications'] = 'Administrar todas las notificaciones';
 $Definition['Manage Followed Categories'] = 'Administrar categorías seguidas';
 $Definition['Manage Members'] = 'Gestionar miembros';
+$Definition['Manage your notification preferences'] = 'Gestione sus preferencias de notificaciones.';
 $Definition['Mark All Read'] = 'Marcar todo como leído';
 $Definition['Mark All Viewed'] = 'Marcar todo como visto';
 $Definition['Mark as Troll'] = 'Marcar como trol';
@@ -1862,6 +1866,7 @@ $Definition['This image has been resized to fit in the page. Click to enlarge.']
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'Esta es una encuesta privada: nadie podrá ver por lo que votaste.';
 $Definition['This is a public poll: others will see what you voted for.'] = 'Esta es una encuesta pública: otros verán por quién votaste.';
 $Definition['This is a system account and does not represent a real person.'] = 'Este es una cuenta creada por el sistema, no representa a una persona real.';
+$Definition['This is the language your email notifications and digest will appear in. It won\'t affect what language posts were created in.'] = 'Este es el idioma en el que se mostrarán las notificaciones por correo electrónico y el resumen. Esto no afectará al idioma en el que se crearon las publicaciones.';
 $Definition['This Month\'s Leaders'] = 'Líderes de este mes ';
 $Definition['This must match the new password field'] = 'Debe coincidir con el nuevo campo de contraseña';
 $Definition['This question\'s answer has been accepted.'] = 'La respuesta de la pregunta ha sido aceptada. ';
@@ -1880,6 +1885,7 @@ $Definition['This user is also banned for other reasons and may stay banned.'] =
 $Definition['This user is verified as a non-spammer'] = 'Este usuario está verificado como un usuario que no hace spam.';
 $Definition['This warning has expired. Do you want to completely delete it?'] = 'Esta advertencia ha expirado. ¿Quieres eliminarla completamente?';
 $Definition['This Week\'s Leaders'] = 'Líderes de esta semana';
+$Definition['This week\'s trending content'] = 'Contenido más destacado de la semana';
 $Definition['Thumbnail'] = 'Miniatura';
 $Definition['Thumbnail for: '] = 'Miniatura para:';
 $Definition['Title'] = 'Título';
@@ -1957,6 +1963,7 @@ $Definition['Unread Discussions'] = 'Conversaciones sin leer ';
 $Definition['Unsink'] = 'Reflotar';
 $Definition['Unspecified'] = 'Sin especificar';
 $Definition['Unsubscribe'] = 'Darse de baja';
+$Definition['Unsubscribe from the email digest'] = 'Darse de baja del boletín electrónico';
 $Definition['Unsubscribe Successful'] = 'desuscripción exitosa';
 $Definition['Unsubscribe token is invalid.'] = 'El token de cancelación de suscripción no es válido.';
 $Definition['Upcoming Events'] = 'Próximos eventos';
@@ -2044,6 +2051,8 @@ $Definition['View all open cases'] = 'Ver todos los casos abiertos';
 $Definition['View Badge'] = 'Ver medalla';
 $Definition['Viewing'] = 'Visualizando';
 $Definition['View More'] = 'Ver más';
+$Definition['view more'] = 'Ver más';
+$Definition['View More Posts'] = 'Ver más publicaciones';
 $Definition['View Post'] = 'Ver publicación';
 $Definition['View Profile'] = 'Ver Perfil';
 $Definition['View Results'] = 'Ver resultados';
@@ -2236,6 +2245,7 @@ $Definition['You must be at least %d years old to register.'] = 'Tienes que tene
 $Definition['You must be signed in.'] = 'Debes iniciar sesión';
 $Definition['You must confirm you have received consent to register.'] = 'Debes confirmar que has recibido el consentimiento para registrarte.';
 $Definition['You must select at least 2 discussions to merge.'] = 'Debe seleccionar al menos 2 debates para unirlos.';
+$Definition['You need to be approved before you can join this group.'] = 'Necesita de una aprobación antes de poder unirse a este grupo.';
 $Definition['You need to confirm your email address.'] = 'Es necesario que confirmes tu dirección de correo electrónico. Haz clic <a href="{/entry/emailconfirmrequest,url}">aquí</a> para enviar el correo de confirmación nuevamente.';
 $Definition['You need to confirm your email address before you can continue.'] = 'Es necesario que confirmes tu correo electrónico antes de continuar.';
 $Definition['You need to reset your password.'] = 'Necesita restablecer su contraseña. Lo más probable es que esto se deba a que un administrador cambió recientemente la información de su cuenta. Haga clic <a href="%s">aquí</a> para restablecer su contraseña.';
@@ -2258,6 +2268,7 @@ $Definition['Your Email will be publicly displayed.'] = 'Su correo electrónico 
 $Definition['Your Email will not be publicly displayed.'] = 'Su correo electrónico no se mostrará públicamente.';
 $Definition['Your invitation has been sent.'] = 'Tu invitación ha sido enviada.';
 $Definition['Your new password must be at least <0/> characters'] = 'Tu nueva contraseña debe tener al menos <0/> caracteres';
+$Definition['your notification preferences'] = 'sus preferencias de notificaciones';
 $Definition['Your old password was incorrect.'] = 'Tu antigua contraseña es incorrecta.';
 $Definition['Your password has been changed.'] = 'Tu contraseña ha sido cambiada. ';
 $Definition['Your password must be at least %d characters long.'] = 'Tu contraseña debe ser de al menos de %d de extensión.';

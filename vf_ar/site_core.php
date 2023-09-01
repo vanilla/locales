@@ -775,7 +775,6 @@ $Definition['Forum Signature Settings'] = 'إعدادات توقيع المنت�
 $Definition['Fourth Anniversary'] = 'الذكرى الرابعة';
 $Definition['Friends'] = 'أصدقاء';
 $Definition['From'] = 'من';
-$Definition['Full Site'] = 'كل الموقع';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'مزيد من التخصيص لجميع إعدادات الإشعارات في صفحة تفضيلات الإخطار <0></0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'البريد الإلكتروني للدعم';

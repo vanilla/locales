@@ -771,7 +771,6 @@ $Definition['Forum Signature Settings'] = 'Налаштування підпис
 $Definition['Fourth Anniversary'] = 'четверта річниця';
 $Definition['Friends'] = 'Друзі';
 $Definition['From'] = 'З';
-$Definition['Full Site'] = 'Повна версія сайту';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Додатково налаштуйте всі параметри сповіщень на <0>сторінці налаштувань сповіщень</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'email підтримки';

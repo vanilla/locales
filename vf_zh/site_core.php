@@ -786,7 +786,6 @@ $Definition['Forum Signature Settings'] = '论坛签名设置';
 $Definition['Fourth Anniversary'] = '四周年';
 $Definition['Friends'] = '好友';
 $Definition['From'] = '自';
-$Definition['Full Site'] = '桌面版';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = '在<0>通知首选项页面上进一步自定义所有通知设置</0>';
 
 $Definition['Garden.Email.SupportAddress'] = '支持电子邮件';

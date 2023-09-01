@@ -117,6 +117,7 @@ $Definition['Garden.Import.Complete.Description'] = 'Haz completado una importac
 Haz clic en<b>Terminado</b> cuando estés listo.';
 $Definition['Garden.Import.Continue.Description'] = 'Parece que estás en medio de una importación. Por favor, elije alguna de las siguientes opciones.';
 $Definition['Garden.Import.InputInstructions'] = 'Introduce la dirección del correo electrónico y la contraseña del usuario administrador de los datos que se están importando.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Las direcciones IP de los usuarios normalmente se recopilan para las reglas de bloqueo automático, moderación y prevención de correo no deseado. La activación de la anonimización de IP hará que todas las direcciones IP rastreadas en el sitio sean anónimas para cualquier propósito, y reducirá la eficacia de estas herramientas. Los cambios en esta configuración no serán retroactivos.';
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edite permiso para cambiar sus propios avatares desde sus páginas de perfil en Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Has desactivado Estadísticas Vanilla en tu archivo de configuración.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Parece que este foro se encuentra en un ambiente de prueba, reporta un IP privado. De manera predeterminada, los foros en IPs privados no son rastreados. ';
@@ -182,6 +183,7 @@ $Definition['Nested categories deeper than this depth will be placed in a comma-
 $Definition['New Embed System'] = 'Nuevo sistema de inserción';
 $Definition['New Quick Links'] = 'Nuevos enlaces rápidos';
 $Definition['New Search Page'] = 'Nueva página de búsqueda';
+$Definition['No Anonymization'] = 'Sin anonimización';
 $Definition['Not getting what you expect when you preview your theme?'] = '¿No obtienes lo que esperas cuando previsualizas tu tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Notificarme cuando la gente comenta en mis extensiones. ';
 $Definition['No unconfirmed role available for email confirmation.'] = 'El sitio necesita un rol con el tipo predeterminado "sin confirmar" para usar la confirmación por correo electrónico. Por favor, agregue uno para habilitar esta configuración.';

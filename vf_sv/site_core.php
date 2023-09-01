@@ -771,7 +771,6 @@ $Definition['Forum Signature Settings'] = 'Inställningar för forumsignatur';
 $Definition['Fourth Anniversary'] = 'Fjärde årsdagen';
 $Definition['Friends'] = 'Vänner';
 $Definition['From'] = 'Från';
-$Definition['Full Site'] = 'Hela sajten';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Anpassa alla aviseringsinställningar ytterligare på sidan <0>aviseringsinställningar</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Supportadress';

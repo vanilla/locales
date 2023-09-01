@@ -779,7 +779,6 @@ $Definition['Forum Signature Settings'] = 'Amasethingi Esignesha Yeforamu';
 $Definition['Fourth Anniversary'] = 'Umgubho Wesine';
 $Definition['Friends'] = 'Abangane';
 $Definition['From'] = 'Kusuka';
-$Definition['Full Site'] = 'Isayithi Egcwele';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Enza ngendlela oyifisayo zonke izilungiselelo zezaziso ekhasini <0>lezintandokazi zesaziso</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'I-imeyili yokusekela';

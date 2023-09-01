@@ -775,7 +775,6 @@ $Definition['Forum Signature Settings'] = 'Forum Instellingen voor handtekening'
 $Definition['Fourth Anniversary'] = 'Vierde verjaardag';
 $Definition['Friends'] = 'Vriend';
 $Definition['From'] = 'Van';
-$Definition['Full Site'] = 'Volledige Site';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Pas alle meldingsinstellingen verder aan op de <0>pagina met meldingsvoorkeuren</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Ondersteuning e-mail';

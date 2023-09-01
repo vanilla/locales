@@ -776,7 +776,6 @@ $Definition['Forum Signature Settings'] = 'فورم دستخط سیٹنگیں';
 $Definition['Fourth Anniversary'] = 'چوتھی سالگرہ';
 $Definition['Friends'] = 'دوستوں';
 $Definition['From'] = 'سے';
-$Definition['Full Site'] = 'مکمل سائٹ';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'مزید نوٹیفکیشن کی تمام ترتیبات کو <0>اطلاع کی ترجیحات کے صفحہ پر حسب ضرورت بنائیں</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'سپورٹ ای میل';

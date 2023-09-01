@@ -776,7 +776,6 @@ $Definition['Forum Signature Settings'] = 'Thiết lập Chữ kí Diễn đàn'
 $Definition['Fourth Anniversary'] = 'Kỷ niệm năm thứ tư';
 $Definition['Friends'] = 'Bạn';
 $Definition['From'] = 'Từ';
-$Definition['Full Site'] = 'Trang Web Đầy đủ';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Tùy chỉnh thêm tất cả các cài đặt thông báo trên <0>trang tùy chọn thông báo</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Thư hỗ trợ';

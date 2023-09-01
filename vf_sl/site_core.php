@@ -740,7 +740,6 @@ $Definition['Forum Signature Settings'] = 'Nastavitve podpisa foruma';
 $Definition['Fourth Anniversary'] = 'Četrta obletnica';
 $Definition['Friends'] = 'prijatelji';
 $Definition['From'] = 'Od';
-$Definition['Full Site'] = 'Celotno spletno mesto';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Dodatno prilagodite vse nastavitve obvestil na <0>strani z nastavitvami obvestil</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'E-pošta za podporo';

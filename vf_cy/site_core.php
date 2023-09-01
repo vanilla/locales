@@ -752,7 +752,6 @@ $Definition['Forum Signature Settings'] = 'Gosodiadau llofnod Fforwm';
 $Definition['Fourth Anniversary'] = 'Pedwerydd pen blwydd';
 $Definition['Friends'] = 'Ffrindiau';
 $Definition['From'] = 'O';
-$Definition['Full Site'] = 'Llawn ar y safle';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Addaswch yr holl osodiadau hysbysu ar y dudalen dewisiadau hysbysu <0> ymhellach</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'e-bost cefnogaeth';

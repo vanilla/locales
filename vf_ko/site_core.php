@@ -762,7 +762,6 @@ $Definition['Forum Signature Settings'] = '포럼 서명 설정';
 $Definition['Fourth Anniversary'] = '네 번째 기념일';
 $Definition['Friends'] = '친구들';
 $Definition['From'] = '___(으)로 부터';
-$Definition['Full Site'] = '전체 사이트';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = '<0>알림 기본 설정 페이지에서 모든 알림 설정을 추가로 사용자 지정</0>';
 
 $Definition['Garden.Email.SupportAddress'] = '지원 이메일';

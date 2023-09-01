@@ -775,7 +775,6 @@ $Definition['Forum Signature Settings'] = 'İmza Ayarları';
 $Definition['Fourth Anniversary'] = 'Dördüncü Yıldönümü';
 $Definition['Friends'] = 'Arkadaşlar';
 $Definition['From'] = 'Kimden';
-$Definition['Full Site'] = 'Tam site';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = '<0>Bildirim tercihleri sayfasındaki tüm bildirim ayarlarını daha fazla özelleştirin</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Destek e-postası';

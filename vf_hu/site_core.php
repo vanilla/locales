@@ -775,7 +775,6 @@ $Definition['Forum Signature Settings'] = 'Aláírás beállítások';
 $Definition['Fourth Anniversary'] = 'Negyedik évforduló';
 $Definition['Friends'] = 'Barátok';
 $Definition['From'] = 'tól';
-$Definition['Full Site'] = 'Asztali verzió';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Az értesítési beállítások további testreszabása az <0>értesítési beállítások oldalon</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Segítő email ';

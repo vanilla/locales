@@ -782,7 +782,6 @@ $Definition['Forum Signature Settings'] = 'Ρυθμίσεις Υπογραφής
 $Definition['Fourth Anniversary'] = 'Τέταρτη επέτειος';
 $Definition['Friends'] = 'Φίλοι';
 $Definition['From'] = 'Από';
-$Definition['Full Site'] = 'Πλήρης Χώρος';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Προσαρμόστε περαιτέρω όλες τις ρυθμίσεις ειδοποιήσεων στη <0>σελίδα προτιμήσεων ειδοποιήσεων</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Email υποστήριξης';

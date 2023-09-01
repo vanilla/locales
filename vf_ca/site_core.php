@@ -762,7 +762,6 @@ $Definition['Forum Signature Settings'] = 'Configuració de la signatura del fò
 $Definition['Fourth Anniversary'] = 'Quart Aniversari';
 $Definition['Friends'] = 'Amics';
 $Definition['From'] = 'De';
-$Definition['Full Site'] = 'Lloc complet';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Personalitzeu encara més tots els paràmetres de notificació a la pàgina <0>preferències de notificació</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Email de soporte';

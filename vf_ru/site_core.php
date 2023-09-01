@@ -803,7 +803,6 @@ $Definition['From'] = '
         От
 
 ';
-$Definition['Full Site'] = 'Полная версия сайта';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Дальнейшая настройка всех параметров уведомлений на <0>странице настроек уведомлений.</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Email поддержки';

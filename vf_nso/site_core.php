@@ -774,7 +774,6 @@ $Definition['Forum Signature Settings'] = 'Dipeakanyo tša Foramo ya Mosaeno';
 $Definition['Fourth Anniversary'] = 'Letšatši la Segopotšo la Bone';
 $Definition['Friends'] = 'Bagwera';
 $Definition['From'] = 'Go Tloga go';
-$Definition['Full Site'] = 'Pono ka Botlalo';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Go tšwela pele go ikgethela dipeakanyo ka moka tša tsebišo letlakaleng la dikgetho tša tsebišo tša <0></0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Emeile ya thekgo';

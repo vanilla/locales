@@ -763,7 +763,6 @@ $Definition['Forum Signature Settings'] = 'Setările pentru semnătura forumului
 $Definition['Fourth Anniversary'] = 'A 4-a Aniversare';
 $Definition['Friends'] = 'Prieteni';
 $Definition['From'] = 'De la';
-$Definition['Full Site'] = 'Site-ul complet';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Personalizați în continuare toate setările de notificare pe pagina <0>preferințe de notificare</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'E-mail de suport';

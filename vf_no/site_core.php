@@ -742,7 +742,6 @@ $Definition['Forum Signature Settings'] = 'Forumsignatur innstillinger';
 $Definition['Fourth Anniversary'] = 'Fireårsjubileum';
 $Definition['Friends'] = 'Venner';
 $Definition['From'] = 'Fra';
-$Definition['Full Site'] = 'Hele siden';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Tilpass alle varslingsinnstillinger ytterligere på siden <0>varslingspreferanser</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Brukerstøtte e-post';

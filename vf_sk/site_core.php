@@ -766,7 +766,6 @@ $Definition['Forum Signature Settings'] = 'Fórum podpis nastavenie';
 $Definition['Fourth Anniversary'] = 'Štvrté výročie';
 $Definition['Friends'] = 'Priatelia';
 $Definition['From'] = 'Od';
-$Definition['Full Site'] = 'Plná stránka';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Ďalej prispôsobte všetky nastavenia upozornení na <0>stránke predvolieb upozornení</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Podpora e-mailom';

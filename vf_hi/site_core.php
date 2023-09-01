@@ -781,7 +781,6 @@ $Definition['Forum Signature Settings'] = 'फोरम हस्ताक्ष
 $Definition['Fourth Anniversary'] = 'चौथी सालगिरह';
 $Definition['Friends'] = 'दोस्त';
 $Definition['From'] = 'से';
-$Definition['Full Site'] = 'पूरा साइट';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'इसके अलावा <0>अधिसूचना प्राथमिकताएं पृष्ठ पर सभी अधिसूचना सेटिंग्स को अनुकूलित करें</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'सपोर्ट ईमेल';

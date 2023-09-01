@@ -781,7 +781,6 @@ $Definition['Forum Signature Settings'] = 'הגדרות חתימת פורום';
 $Definition['Fourth Anniversary'] = 'יום שנה רביעי';
 $Definition['Friends'] = 'חברים';
 $Definition['From'] = 'מ-';
-$Definition['Full Site'] = 'האתר המלא';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'התאמה אישית נוספת של כל הגדרות ההתראות בדף <0>העדפות ההתראות</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'מייל תמיכה';

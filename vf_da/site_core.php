@@ -765,7 +765,6 @@ $Definition['Forum Signature Settings'] = 'Forum Underskrifts Indstillinger';
 $Definition['Fourth Anniversary'] = 'Fjerde jubilæum';
 $Definition['Friends'] = 'Venner';
 $Definition['From'] = 'Fra';
-$Definition['Full Site'] = 'Fulde side';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Tilpas alle meddelelsesindstillinger yderligere på siden <0>meddelelsespræferencer</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Supportemail';

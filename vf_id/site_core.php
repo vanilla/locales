@@ -766,7 +766,6 @@ $Definition['Forum Signature Settings'] = 'Setelan Teken Forum';
 $Definition['Fourth Anniversary'] = 'Ulangtahun Keempat';
 $Definition['Friends'] = 'Teman';
 $Definition['From'] = 'Dari';
-$Definition['Full Site'] = 'Situs Penuh';
 $Definition['Further customize all notification settings on the <0>notification preferences page</0>'] = 'Sesuaikan lebih lanjut semua setelan notifikasi di <0>laman preferensi notifikasi</0>';
 
 $Definition['Garden.Email.SupportAddress'] = 'Email dukungan';
