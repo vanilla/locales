@@ -161,6 +161,7 @@ $Definition['Accepted'] = 'تم القبول';
 $Definition['Accept this answer.'] = 'موافقة على هذه الإجابة';
 $Definition['Access the Site'] = 'الوصول إلي الموقع';
 $Definition['Access Tokens'] = 'رموز الوصول';
+$Definition['Account & Privacy'] = 'الخصوصية حساب';
 $Definition['Account & Privacy Settings'] = 'إعدادات الحساب والخصوصية';
 $Definition['Account Options'] = 'خيارات حسابك';
 $Definition['Actions'] = 'إجراءات ';
@@ -612,6 +613,7 @@ $Definition['Eighth Anniversary'] = 'الذكرى السنوية الثامنة'
 $Definition['Email'] = 'البريد الإلكتروني';
 $Definition['Email/Username'] = 'البريد الإلكتروني / إسم المستخدم';
 $Definition['EmailConfirmEmail'] = 'أنت بحاجة لتأكيد عنوان بريدك الإلكتروني قبل الاستمرار. يرجى تأكيد عنوان بريدك الإلكتروني بالضغط على الرابط التالي: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
+$Definition['Email Digest Preferences Updated'] = 'تم تحديث تفضيلات ملخص البريد الإلكتروني';
 $Definition['EmailFooter'] = '
 نتمنى لك نهارا سعيدا!';
 $Definition['EmailHeader'] = 'مرحبا بك مجددا، {User.Name}!\\n';
@@ -620,6 +622,7 @@ $Definition['EmailInvitation'] = 'مرحبا!
 قام %1$s بدعوتك للانضمام إلى %2$s. إذا كنت تريد الانضمام، يمكنك عمل ذلك بالضغط على هذا الرابط:
 
 %3$s';
+$Definition['Email Language'] = 'لغة البريد الإلكتروني';
 $Definition['EmailMembershipApproved'] = 'مرحباً يا %1$s،
 
 لقد تمت الموافقة على عضويتك. قم بتسجيل الدخول الآن على الرابط التالي:
@@ -862,6 +865,7 @@ $Definition['Help Menu'] = 'المساعدة';
 $Definition['her'] = 'لها';
 $Definition['Hide'] = 'اخفاء';
 $Definition['hide'] = 'إخفاء';
+$Definition['Hide category'] = 'إخفاء الفئة';
 $Definition['Hide my online status from other members'] = 'إخفاء حالة اتصالي عن باقي أعضاء المجموعة';
 $Definition['Hide previous quotes'] = '« إخفاء الاقتباسات السابقة';
 $Definition['Hide Results'] = 'إخفاء النتائج';
@@ -1034,6 +1038,7 @@ $Definition['Male'] = 'ٱخر ٱي بي IP';
 $Definition['Manage All Notifications'] = 'إدارة جميع الإخطارات';
 $Definition['Manage Followed Categories'] = 'إدارة الفئات المتبعة';
 $Definition['Manage Members'] = 'إدارة الأعضاء';
+$Definition['Manage your notification preferences'] = 'إدارة تفضيلات الإخطار الخاصة بك';
 $Definition['Mark All Read'] = 'تحديد الكل كمقروء';
 $Definition['Mark All Viewed'] = 'إعتبر الكل مشاهدا';
 $Definition['Mark as Troll'] = 'حدد أنها مخالفة';
@@ -1839,6 +1844,7 @@ $Definition['This image has been resized to fit in the page. Click to enlarge.']
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'هذا تصويت خاص: الاخرون لا يرون ماذا صوتت.';
 $Definition['This is a public poll: others will see what you voted for.'] = 'هذا تصويت عام: الاخرون يرون ماذا صوتت.';
 $Definition['This is a system account and does not represent a real person.'] = 'هذا حساب النظام وهو لا يمثل شخص حقيقي.';
+$Definition['This is the language your email notifications and digest will appear in. It won\'t affect what language posts were created in.'] = 'هذه هي اللغة التي ستظهر بها إشعارات البريد الإلكتروني والملخصات. ولن يؤثر ذلك على اللغة التي تم إنشاء المنشورات بها.';
 $Definition['This Month\'s Leaders'] = 'قيادات هذا الشهر';
 $Definition['This must match the new password field'] = 'يجب أن يتطابق هذا مع حقل كلمة المرور الجديدة';
 $Definition['This question\'s answer has been accepted.'] = 'تم قبول اجابة هذا السؤال.';
@@ -1857,6 +1863,7 @@ $Definition['This user is also banned for other reasons and may stay banned.'] =
 $Definition['This user is verified as a non-spammer'] = 'تم التحقق من ان هذا المستخدم لا يرسل رسائل مزعجة';
 $Definition['This warning has expired. Do you want to completely delete it?'] = 'انتهت صلاحية هذا التحذير. هل تريد حذفه تماما؟';
 $Definition['This Week\'s Leaders'] = 'قيادات هذا الاسبوع';
+$Definition['This week\'s trending content'] = 'المحتوى الرائج لهذا الأسبوع';
 $Definition['Thumbnail'] = 'صورة مصغرة';
 $Definition['Thumbnail for: '] = 'صورة مصغرة لـ:';
 $Definition['Title'] = 'العنوان';
@@ -1929,6 +1936,7 @@ $Definition['Unread Discussions'] = 'مواضيع غير مقروئة';
 $Definition['Unsink'] = 'الغاء الاغراق';
 $Definition['Unspecified'] = 'غير محدد';
 $Definition['Unsubscribe'] = 'إلغاء الاشتراك';
+$Definition['Unsubscribe from the email digest'] = 'إلغاء الاشتراك من ملخص البريد الإلكتروني';
 $Definition['Unsubscribe Successful'] = 'تم الغاء الاشتراك بنجاح';
 $Definition['Unsubscribe token is invalid.'] = 'رمز إلغاء الاشتراك غير صالح.';
 $Definition['Upcoming Events'] = 'أحداث قادمة';
@@ -2013,6 +2021,8 @@ $Definition['View all open cases'] = 'عرض جميع الحالات المفت�
 $Definition['View Badge'] = 'مشاهدة الشارة';
 $Definition['Viewing'] = 'مشاهدة';
 $Definition['View More'] = 'عرض المزيد';
+$Definition['view more'] = 'عرض المزيد';
+$Definition['View More Posts'] = 'عرض المزيد من المشاركات';
 $Definition['View Post'] = 'عرض المشاركة';
 $Definition['View Profile'] = 'عرض الملف الشخصي';
 $Definition['View Results'] = 'إظهار النتائج';
@@ -2203,6 +2213,7 @@ $Definition['You must be at least %d years old to register.'] = 'يجب أن ي�
 $Definition['You must be signed in.'] = 'يجب أن تكون مسجلاً للدخول.';
 $Definition['You must confirm you have received consent to register.'] = 'يجب عليك تأكيد أنك قد تلقيت مُوَافَقَة للتسجيل.';
 $Definition['You must select at least 2 discussions to merge.'] = 'عليك اختيار مناقشتين على الأقل لتتم عملية الإدماج';
+$Definition['You need to be approved before you can join this group.'] = 'يجب أن تتم الموافقة عليك قبل أن تتمكن من الانضمام إلى هذه المجموعة.';
 $Definition['You need to confirm your email address.'] = 'يجب عليك تأكيد بريدك الالكتروني، انقر <a href="{/entry/emailconfirmrequest,url}">هنا
 </a> لإعادة ارسال التأكيد';
 $Definition['You need to confirm your email address before you can continue.'] = 'تحتاج إلي تأكيد عنوان بريدك الإلكتروني قبل أن تتمكن من المتابعة.';
@@ -2226,6 +2237,7 @@ $Definition['Your Email will be publicly displayed.'] = 'سيتم عرض بري�
 $Definition['Your Email will not be publicly displayed.'] = 'لن يتم عرض البريد الإلكتروني الخاص بك علنًا.';
 $Definition['Your invitation has been sent.'] = 'لقد تم إرسال دعوتك.';
 $Definition['Your new password must be at least <0/> characters'] = 'يجب أن تتكون كلمة المرور الجديدة من <0 /> حرفًا على الأقل';
+$Definition['your notification preferences'] = 'تفضيلات الإخطار الخاصة بك';
 $Definition['Your old password was incorrect.'] = 'كلمة مرورك القديمة غير صحيحة.';
 $Definition['Your password has been changed.'] = 'تم تغيير كلمة مرورك.';
 $Definition['Your password must be at least %d characters long.'] = 'كلمة المرور الخاصة بك يجب أن تكون على الأقل %d حرف.';
