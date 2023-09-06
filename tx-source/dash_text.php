@@ -91,7 +91,7 @@ $Definition['Garden.Import.Complete.Description'] = 'You have successfully compl
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'It appears as though you are in the middle of an import. Please choose one of the following options.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.Privacy.IPs.Description'] = "User IP addresses are typically collected for automated ban rules";
+$Definition['Garden.Privacy.IPs.Description'] = "User IP addresses are typically collected for automated ban rules, moderation and spam prevention purposes. Enabling IP Anonymization will anonymize all IP addresses tracked in the site for any purpose, and will reduce the effectiveness of these tools. Changes to this setting are not retroactive.";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
@@ -146,6 +146,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Nested categories deeper than this depth will be placed in a comma-delimited list.';
+$Definition['No Anonymization'] = 'No Anonymization';
 $Definition['No unconfirmed role available for email confirmation.'] = 'The site needs a role with default type "unconfirmed" to use email confirmation. Please add one to enable this setting.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Not getting what you expect when you preview your theme?';
 $Definition['Notify me when people comment on my addons.'] = 'Notify me when people comment on my addons.';

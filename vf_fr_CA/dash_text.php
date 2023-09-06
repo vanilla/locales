@@ -92,7 +92,7 @@ $Definition['Garden.Import.Complete.Description'] = 'Vous avez terminé l\'impor
 Cliquez sur <b> Terminé </ b> lorsque vous êtes prêt.';
 $Definition['Garden.Import.Continue.Description'] = 'Il semble que vous soyez au milieu d\'une importation. Veuillez choisir l\'une des options suivantes.';
 $Definition['Garden.Import.InputInstructions'] = 'Entrez l\'email et le mot de passe de l\'utilisateur administrateur des données importées.';
-$Definition['Garden.Privacy.IPs.Description'] = "Les adresses IP des utilisateurs sont généralement collectées pour les règles d’interdiction automatisées";
+$Definition['Garden.Privacy.IPs.Description'] = "Les adresses IP des utilisateurs sont généralement collectées à des fins de règles d’interdiction automatisées, de modération et de prévention des pourriels. L’activation de l’anonymisation des adresses IP rendra anonymes toutes les adresses IP suivies sur le site à quelque fin que ce soit et réduira l’efficacité de ces outils. Les modifications apportées à ce paramètre ne sont pas rétroactives.";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Garden.Profiles.Edit l\'autorisation de changer leurs propres avatars à partir de leurs pages de profil dans Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Vous avez désactivé spécifiquement le module Vanilla Statistics dans votre fichier de configuration.';
@@ -147,6 +147,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Les catégories imbriquées plus profondes que cette profondeur seront placées dans une liste délimitée par des virgules.';
+$Definition['No Anonymization'] = 'Pas d’anonymisation';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Le site à besoin d\'un statut « non-confirmé » pour utiliser la confirmation mail. Merci d\'en ajouter un pour activer ce paramètre.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Vous n\'obtenez pas ce à quoi vous vous attendiez lorsque vous prévisualisez votre thème?';
 $Definition['Notify me when people comment on my addons.'] = 'Notifiez-moi quand des personnes commenteront sur mes extensions.';

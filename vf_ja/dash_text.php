@@ -92,7 +92,7 @@ $Definition['Garden.Import.Complete.Description'] = 'インポートが正常に
 準備ができましたら、<b>完了</b>をクリックしてください。';
 $Definition['Garden.Import.Continue.Description'] = 'あなたがインポートの途中であるかのように見えます。次のオプションのうちいずれかを選択してください。';
 $Definition['Garden.Import.InputInstructions'] = 'インポートされるデータの管理者ユーザーのメールアドレスとパスワードを入力してください。';
-$Definition['Garden.Privacy.IPs.Description'] = "ユーザーのIPアドレスは通常、自動禁止ルールのために収集されます。";
+$Definition['Garden.Privacy.IPs.Description'] = "ユーザーのIPアドレスは通常、自動化された禁則、モデレーション、スパム防止の目的で収集されます。IP匿名化を有効にすると、何らかの目的でこのサイトで追跡されるすべてのIPアドレスが匿名化され、これらのツールの効力が低下します。この設定の変更がさかのぼって適用されることはありません。";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Vanillaのプロフィールページから自分のアバターを変更する「Garden.Profiles.Edit」アクセス権。';
 $Definition['Garden.StatisticsDisabled'] = '設定ファイルでVanilla Statisticsが明示的に無効になっています。';
@@ -147,6 +147,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'この深さより深いネストされたカテゴリーは、カンマ区切りのリストに配置されます。';
+$Definition['No Anonymization'] = '匿名化なし';
 $Definition['No unconfirmed role available for email confirmation.'] = 'サイトでは、確認の電子メールを使用するために、デフォルトタイプ「未確認」のロールが必要です。この設定を有効にするには、1を追加してください。';
 $Definition['Not getting what you expect when you preview your theme?'] = 'テーマをプレビューした時に期待通りの結果が得られませんか？';
 $Definition['Notify me when people comment on my addons.'] = '自分のアドオンに誰かがコメントしたら通知します。';

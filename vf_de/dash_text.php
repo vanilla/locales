@@ -91,7 +91,7 @@ $Definition['Garden.Import.Complete.Description'] = 'Sie haben einen Import erfo
 Klicken Sie auf <b>Beendet</b>, wenn Sie fertig sind. ';
 $Definition['Garden.Import.Continue.Description'] = 'Es scheint, als ob Sie sich mitten in einem Import befinden. Bitte wählen Sie eine der folgenden Optionen.';
 $Definition['Garden.Import.InputInstructions'] = 'E-Mail und Passwort des Admins der Import-Quelle.';
-$Definition['Garden.Privacy.IPs.Description'] = "Benutzer-IP-Adressen werden in der Regel für automatische Sperrregeln gesammelt";
+$Definition['Garden.Privacy.IPs.Description'] = "Die IP-Adressen der Benutzer werden in der Regel für automatische Sperrregeln, Moderation und Spamschutz gesammelt. Wenn Sie die IP-Anonymisierung aktivieren, werden alle IP-Adressen, die auf der Website für beliebige Zwecke verfolgt werden, anonymisiert und die Wirksamkeit dieser Tools verringert. Änderungen an dieser Einstellung sind nicht rückwirkend.";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Die Erlaubnis für Garden.Profiles.Edit, ihre eigenen Avatare von ihren Profilseiten in Vanilla aus zu ändern.';
 $Definition['Garden.StatisticsDisabled'] = 'Du hast die Vanilla-Statistiken ausdrücklich deaktiviert in deiner Konfigurationsdatei.';
@@ -149,6 +149,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Verschachtelte Kategorien, die tiefer als diese Tiefe sind, werden in einer durch Kommata abgegrenzten Liste aufgeführt.
 ';
+$Definition['No Anonymization'] = 'Keine Anonymisierung';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Die Website benötigt eine Rolle mit dem Standardtyp "unbestätigt", um die E-Mail-Bestätigung zu verwenden. Bitte fügen Sie einen hinzu, um diese Einstellung zu aktivieren.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Nicht das bekommen, was Sie erwarten, wenn Sie eine Vorschau Ihres Themas sehen?';
 $Definition['Notify me when people comment on my addons.'] = 'Benachrichtige mich, wenn jemand meine Addons kommentiert.';

@@ -92,7 +92,7 @@ $Definition['Garden.Import.Complete.Description'] = 'Avete completato con succes
 Fare clic su <b>Finito</b> quando si è pronti.';
 $Definition['Garden.Import.Continue.Description'] = 'Sembra che tu sia nel mezzo di un\'importazione. Scegli una delle seguenti opzioni.';
 $Definition['Garden.Import.InputInstructions'] = 'Inserisci email e password dell\'utente amministratore dai dati in fase d\'importazione.';
-$Definition['Garden.Privacy.IPs.Description'] = "Gli indirizzi IP degli utenti sono tipicamente raccolti per le regole di ban automatiche";
+$Definition['Garden.Privacy.IPs.Description'] = "Gli indirizzi IP degli utenti vengono tipicamente raccolti per regole di ban automatico, moderazione e scopi di prevenzione dello spam. Abilitando la Anonimizzazione IP si anonimizzeranno tutti gli indirizzi IP tracciati nel sito per qualsiasi scopo, riducendo l'efficacia di questi strumenti. Le modifiche a questa impostazione non sono retroattive.";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Garden.Profiles.Edit permesso di modificare i propri avatar dalle loro pagine del profilo in Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Hai specificamente disattivato le statistiche di Vanilla nel file di configurazione.';
@@ -147,6 +147,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Le categorie nidificate più profonde di questa verranno inserite in un elenco delimitato da virgole.';
+$Definition['No Anonymization'] = 'Nessuna Anonimizzazione';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Il sito richiede almeno un ruolo con un tipo di default "non confermato" per confermare l\'email. Aggiungine uno per abilitare quest\'impostazione.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Non ottieni ciò che ti aspetti quando visualizzi l\'anteprima del tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Inviami notifiche quando gli utenti commentano le mie risposte.';

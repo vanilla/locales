@@ -93,7 +93,7 @@ $Definition['Garden.Import.Complete.Description'] = 'Você concluiu com êxito u
 $Definition['Garden.Import.Continue.Description'] = 'Parece que você está no meio de uma importação.
 Escolha uma das seguintes opções.';
 $Definition['Garden.Import.InputInstructions'] = 'Coloque o e-mail e senha do administrador que está importando estes dados.';
-$Definition['Garden.Privacy.IPs.Description'] = "Os endereços IP do usuário normalmente são coletados para regras de proibição automatizadas.";
+$Definition['Garden.Privacy.IPs.Description'] = "Os endereços de IP dos usuários são normalmente coletados para fins de prevenção de spam, regras de banimento automatizadas e moderação. A ativação do anonimato de IP tornará anônimos todos os endereços de IP rastreados no site para qualquer finalidade e reduzirá a eficácia dessas ferramentas. As alterações nessa configuração não são retroativas.";
 $Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
     'Garden.Perfis.Edite a permissão para alterar seus próprios avatares de suas páginas de perfil no Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Você desabilitou as estatísticas do Vanilla em seu arquivo de configuração.';
@@ -148,6 +148,7 @@ $Definition['Mobile themes allow you to change the look and feel of your site on
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Categorias mais profundas serão colocadas em uma lista delimitada por vírgula.';
+$Definition['No Anonymization'] = 'Sem anonimato';
 $Definition['No unconfirmed role available for email confirmation.'] = 'O site precisa de uma função com o tipo padrão "não confirmado" para usar a confirmação por email. Por favor, adicione um para ativar esta configuração.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Não está conseguindo o que você espera quando visualiza seu tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Notificar-me quando as pessoas comentarem nos meus addons.';

@@ -158,7 +158,7 @@ $Definition['Access the Site'] = 'Accéder au site';
 $Definition['Access Tokens'] = 'Jetons d\'accès';
 $Definition['Account Options'] = 'Options du compte';
 $Definition['Account & Privacy'] = 'Compte et confidentialité';
-$Definition['Account & Privacy Settings'] = 'Compte &amp; Paramètres de confidentialité';
+$Definition['Account & Privacy Settings'] = 'Compte et Paramètres de confidentialité';
 $Definition['Actions'] = 'Actions';
 $Definition['Activate'] = 'Activer';
 $Definition['Active'] = 'Actifs';
@@ -632,6 +632,8 @@ Suivez ce lien pour en savoir plus :
 %2$s
 
 Bonne journée! ';
+$Definition['Email Digest Preferences Updated'] = 'Mise à jour des préférences pour l’envoi de courriels';
+$Definition['Email Language'] = 'Langue des courriels';
 $Definition['Email Notifications'] = 'Notifications de courriel';
 $Definition['Email Or Username'] = 'Courriel ou nom d\'utilisateur';
 $Definition['EmailPassword'] = '%2$s a réinitialisé votre mot de passe sur %3$s. Vos informations de connexion sont désormais :
@@ -760,7 +762,7 @@ $Definition['Forum Signature Settings'] = 'Paramètres des signatures';
 $Definition['Fourth Anniversary'] = 'Quatrième Anniversaire';
 $Definition['Friends'] = 'Amis';
 $Definition['From'] = 'De';
-$Definition['Full Site'] = 'Site complet';
+$Definition['From'] = 'De';
 
 $Definition['Garden.Email.SupportAddress'] = 'Courriel d\'aide';
 $Definition['Garden.Email.SupportName'] = 'Nom du support';
@@ -849,6 +851,7 @@ $Definition['Help Menu'] = 'Aide';
 $Definition['her'] = 'sa';
 $Definition['Hide'] = 'Cacher';
 $Definition['hide'] = 'masquer';
+$Definition['Hide category'] = 'Masquer la catégorie';
 $Definition['Hide my online status from other members'] = 'Ne pas montrer quand je suis en ligne.';
 $Definition['Hide previous quotes'] = '« masquer les citations précédentes
 ';
@@ -1016,6 +1019,7 @@ $Definition['Make this poll anonymous (user votes are not made public).'] = 'Par
 $Definition['Male'] = 'Homme';
 $Definition['Manage All Notifications'] = 'Gérer toutes les notifications';
 $Definition['Manage Followed Categories'] = 'Gérer les catégories suivies';
+$Definition['Manage your notification preferences'] = 'Gérer vos préférences en matière de notifications';
 $Definition['My group membership request is approved'] = 'Ma demande d\'adhésion à un groupe est approuvée';
 $Definition['Manage Members'] = 'Gérer les Membres';
 $Definition["Mark All Read"] = "Tous marquer comme lus";
@@ -1197,6 +1201,8 @@ $Definition['Notification Popup'] = 'Notification contextuelle
 ';
 $Definition['Notification Email'] = 'Courriel de notification';
 $Definition['View all followed categories'] = 'Voir toutes les catégories suivies';
+$Definition['view more'] = 'afficher plus';
+$Definition['View More Posts'] = 'Afficher plus de messages';
 $Definition['Notify of new comments'] = 'Notifier les nouveaux commentaires';
 $Definition['Notify of new content'] = 'Notifier les nouveaux contenus';
 $Definition['Notify of new posts'] = 'Notifier les nouveaux messages';
@@ -1794,6 +1800,7 @@ $Definition['This answer was %s.'] = 'La réponse était %s.';
 $Definition['This answer was Accepted.'] = 'Cette réponse a été acceptée.';
 $Definition['This category does not have any articles.'] = 'Cette catégorie ne contient aucun article.';
 $Definition['This category does not have any events.'] = 'Il n\'y a pas d\'événements dans cette catégorie.';
+$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Une version plus <0>récente</0> existe pour cette discussion.';
 $Definition['This discussion has been closed.'] = 'Cette discussion a été fermée.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Cette discussion a été <a href="{url,html}">déplacée</a> .';
@@ -1807,6 +1814,7 @@ $Definition['This image has been resized to fit in the page. Click to enlarge.']
 $Definition['This is a private poll: no-one will see what you voted for.'] = 'Ceci est un sondage privé : personne ne verra ce pour quoi vous avez voté.';
 $Definition['This is a public poll: others will see what you voted for.'] = 'Ceci est un sondage public : les autres verront ce pour quoi vous avez voté.';
 $Definition['This is a system account and does not represent a real person.'] = 'Ceci est un compte système et ne représente pas une vraie personne.';
+$Definition["This is the language your email notifications and digest will appear in. It won't affect what language posts were created in."] = "Il s’agit de la langue dans laquelle vos notifications par courriel et votre résumé apparaîtront. Cela n’affectera pas la langue dans laquelle les articles ont été créés.";
 $Definition['This text has been converted from another format.'] = 'Ce texte a été converti à partir d\'un autre format.';
 $Definition['This Month\'s Leaders'] = 'Les leaders du mois';
 $Definition['This must match the new password field'] = 'Ce champ doit correspondre au nouveau mot de passe';
@@ -1823,6 +1831,7 @@ $Definition['This user is also banned for other reasons and may stay banned.'] =
 $Definition['This user is verified as a non-spammer'] = 'Cet utilisateur a été vérifié comme non-spammeur';
 $Definition['This warning has expired. Do you want to completely delete it?'] = 'Cet avertissement a expiré. Voulez-vous le supprimer complétement?';
 $Definition['This Week\'s Leaders'] = 'Les leaders de la semaine';
+$Definition['This week\'s trending content'] = 'Le contenu tendance de cette semaine';
 $Definition['This site is protected by reCAPTCHA and the Google'] = 'Ce site est protégé par reCAPTCHA et Google';
 $Definition["This user's profile is private."] = "Le profil de cet utilisateur est privé.";
 $Definition["This user has been deleted."] = "Cet utilisateur a été supprimé.";
@@ -1895,6 +1904,7 @@ $Definition['Unspecified'] = 'Non spécifié';
 $Definition['Upcoming Events'] = 'Evénements prochains';
 $Definition['Updates'] = 'Mises à jour';
 $Definition['Unsubscribe'] = 'Désabonner';
+$Definition['Unsubscribe from the email digest'] = 'Se désabonner du bulletin électronique';
 $Definition['Unsubscribe Successful'] = 'Désabonnement réussi';
 $Definition['Unfollow Successful'] = 'Désabonnement réussi';
 $Definition['Undo Unfollow'] = 'Annuler le désabonnement';
@@ -2188,6 +2198,7 @@ $Definition['You need to confirm your email address.'] = 'Vous devez confirmer v
 $Definition['You need to confirm your email address before you can continue.'] = 'Vous devez confirmer votre adresse courriel avant de pouvoir continuer.';
 $Definition['You need to reset your password.'] = 'Vous devez réinitialiser votre mot de passe. Cela est probablement dû au fait qu\'un administrateur a récemment modifié les informations de votre compte. Cliquez <a href="%s">ici</a> pour réinitialiser votre mot de passe.';
 $Definition['You need to sign in before you can do this.'] = 'Vous devez vous connecter avant de faire ceci.';
+$Definition['You need to be approved before you can join this group.'] = 'Vous devez être approuvé·e avant de pouvoir rejoindre ce groupe.';
 $Definition['You are no longer following <0/>'] = 'Vous ne suivez plus <0/>';
 $Definition['You will no longer receive email notifications for'] = 'Vous ne recevrez plus de notifications par courriel concernant';
 $Definition['You will no longer receive the email digest.'] = 'Vous ne recevrez plus de résumé électronique.';
@@ -2214,6 +2225,7 @@ $Definition['Your Email will not be publicly displayed.'] = 'Votre adresse élec
 $Definition['Your invitation has been sent.'] = 'Votre invitation a été envoyée.';
 $Definition['Your old password was incorrect.'] = 'Votre ancien mot de passe est incorrect.';
 $Definition['Your new password must be at least <0/> characters'] = 'Votre nouveau mot de passe doit comporter au moins <0/> caractères';
+$Definition['your notification preferences'] = 'vos préférences en matière de notifications';
 $Definition['Your password has been changed.'] = 'Votre mot de passe a été modifié.';
 $Definition['Your password must be at least %d characters long.'] = 'Votre mot de passe doit contenir au moins %d caractères.';
 $Definition['Your password reset token has expired.'] = 'Le jeton de réinitialisation de votre mot de passe a expiré. Essayez d\'utiliser à nouveau le formulaire de demande de réinitialisation.';
