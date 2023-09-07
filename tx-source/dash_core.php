@@ -1006,3 +1006,12 @@ $Definition["disabled"] = "disabled";
 $Definition["This information will only be shown to users with permission to view internal info"] = "This information will only be shown to users with permission to view internal info";
 $Definition["This is private information and will not be shared with other members."] = "This is private information and will not be shared with other members.";
 
+// Zoom Settings
+$Definition["Zoom Settings"] = "Zoom Settings";
+$Definition["AccountID"] = "AccountID";
+$Definition["Enter your Zoom AccountID"] = "Enter your Zoom AccountID";
+$Definition["ClientID"] = "ClientID";
+$Definition["Enter your Zoom ClientID"] = "Enter your Zoom ClientID";
+$Definition["Client Secret"] = "Client Secret";
+$Definition["Enter your Zoom Client Secret"] = "Enter your Zoom Client Secret";
+$Definition["Search and select from custom profile fields."] = "Search and select from custom profile fields.";
