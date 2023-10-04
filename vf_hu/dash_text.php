@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = 'Egyes böngészők támogatják a c
 $Definition['AddonProblems'] = '<h2>Gondjaid vannak?</h2><p>Ha valami balul sül el a kiegészítővel és nem tudod az oldaladon használni, letilthatod kézzel, ha a következőt átszerkeszted: </p>%s';
 $Definition['Alert users if they click external link.'] = 'Figyelmeztesse a felhasználókat, ha rákattintanak egy hivatkozásra egy üzenetben, amely elvezet a fórumtól. A felhasználókat nem figyelmeztetjük, ha egy megbízható domainnek megfelelő linkeket követnek';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'A következő alatt listázzuk minden kategóriát az 5 legfrissebb beszélgetésével';
-$Definition['Allow links to be transformed'] =
-    'Engedélyezze a linkek beágyazott ábrázolásokká történő átalakítását a megbeszélésekben és a megjegyzésekben. Például egy YouTube-link beágyazott videóvá alakul.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Engedélyezze az %s engedéllyel rendelkező felhasználók számára, hogy megváltoztassák saját karakterüket a Vanilla profiloldalukon.';
-$Definition['Anonymize IP Addresses'] = "Az IP-címek névtelenítése";
+$Definition['Allow links to be transformed'] = 'Engedélyezze a linkek beágyazott ábrázolásokká történő átalakítását a megbeszélésekben és a megjegyzésekben. Például egy YouTube-link beágyazott videóvá alakul.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Engedélyezze az %s engedéllyel rendelkező felhasználók számára, hogy megváltoztassák saját karakterüket a Vanilla profiloldalukon.';
+$Definition['Anonymize IP Addresses'] = 'Az IP-címek névtelenítése';
 $Definition['ApplicationHelp'] = 'Az alkalmazások segítségével nagy számú funkcionalitást adhatsz az oldaladhoz.<br />Amint egy alklamazás a %s mappához hozzá lett adva, itt engedélyezheted vagy tilthatod le.';
 $Definition['Apply Layout'] = 'Elrendezés alkalmazása';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Biztos hogy a megfelelő adatbázis hoszt nevet adtad meg? Elírás, esetleg? Az adatbázis a következő választ adta: <code>%s</code>';
@@ -84,16 +82,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Például letilthatja az összes felhasználót e-mail címekkel az „example.com” webhelyről, ha e-mail típusú letiltást ad meg az „*@example.com” értékkel.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO okok miatt, a kereső botok nincsenek kényszerítve, hogy a fórumot a távoli url-en keresztül nézzék.';
 $Definition['Foundation Layout'] = 'Alapítvány elrendezése';
-$Definition['FullAnonymization.Description'] = "<strong>A teljes névtelenítés</strong> minden egyes IP-címet 0.0.0.0-ra cserél, gyakorlatilag megtagadva az alkalmazástól az IP-címekkel való munkavégzést. Az IP-tiltó szabályok ebben az esetben egyáltalán nem működnek.";
-$Definition['Full Anonymization'] = "Teljes anonimizálás";
+$Definition['Full Anonymization'] = 'Teljes anonimizálás';
+$Definition['FullAnonymization.Description'] = '<strong>A teljes névtelenítés</strong> minden egyes IP-címet 0.0.0.0-ra cserél, gyakorlatilag megtagadva az alkalmazástól az IP-címekkel való munkavégzést. Az IP-tiltó szabályok ebben az esetben egyáltalán nem működnek.';
+$Definition['Full Bleed'] = 'Teljes vérzés';
 
 $Definition['Garden.Import.Complete.Description'] = 'Az import sikeresen befejeződött.
 Kattints a <b>Befejezés</b> gombra, ha készen vagy.';
 $Definition['Garden.Import.Continue.Description'] = 'Úgy tűnik, mintha egy importálás közepén állna. Kérjük, válasszon a következő lehetőségek közül.';
 $Definition['Garden.Import.InputInstructions'] = 'Ad meg annak az admin felhasználónak az email címét es a jelszavátm, ahonnan az adat importálva lesz.';
-$Definition['Garden.Privacy.IPs.Description'] = "A felhasználói IP-címeket általában automatizált kitiltási szabályok, moderálás és spammegelőzés céljából gyűjtik. Az IP-anonimizálás engedélyezése minden célból anonimizálja az oldalon nyomon követett összes IP-címet, és csökkenti ezen eszközök hatékonyságát. A beállítás módosításai nem visszamenőleges hatályúak.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles.Hozzáférési engedély módosítása a saját karakterének megváltoztatásához a Vanilla profiloldalain.';
+$Definition['Garden.Privacy.IPs.Description'] = 'A felhasználói IP-címeket általában automatizált kitiltási szabályok, moderálás és spammegelőzés céljából gyűjtik. Az IP-anonimizálás engedélyezése minden célból anonimizálja az oldalon nyomon követett összes IP-címet, és csökkenti ezen eszközök hatékonyságát. A beállítás módosításai nem visszamenőleges hatályúak.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Hozzáférési engedély módosítása a saját karakterének megváltoztatásához a Vanilla profiloldalain.';
 $Definition['Garden.StatisticsDisabled'] = 'Kimondottan kikapcsoltad a Vanilla Statisztikát a konfigurációs file-odban.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Úgy tűnik ez a fórum teszt környezetben fut, vagy legalábbis privát IP címet jelent le. Alapértelmezés szerint, privát IP-n futó fórumok nincsenek nyomonkövetve.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Ha biztos vagy abban, hogy a fórum elérhető az Itnernetről, akkor itt kényszerítheted ki a statisztika használatát:';
@@ -129,7 +127,7 @@ $Definition['Learn about custom routing.'] = 'Tudjon meg többet az egyedi útvo
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Ismerd meg, hogy tudod teljesen lecserélni a fórumod kinézetét: tölts fel logókat, állítsd be a honlapod, válassz egy témát és tedd egyedivé.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Ismerd meg, hogy használd az alapvető fórum-funkciókat.';
 $Definition['Locales allow you to support other languages on your site.'] = 'A területi beállítások lehetővé teszik, hogy a webhely további nyelveket is támogasson. Itt engedélyezheti és tilthatja le a kívánt területi beállításokat.';
-$Definition['Lockout Time (seconds)'] = "Kizárási idő (másodperc)";
+$Definition['Lockout Time (seconds)'] = 'Kizárási idő (másodperc)';
 $Definition['LogoDescription'] = 'A szalaghirdetés logója megjelenik a webhely tetején.';
 $Definition['LogoDisclaimer'] = 'A témaszerkesztővel készített témák és egyes egyéni témák nem használják ezt a beállítást.';
 
@@ -144,10 +142,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'A mobil témák lehetővé teszik, hogy megváltoztassa webhelyének megjelenését és hangulatát kisebb eszközökön.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'A mélységnél mélyebb beágyazott kategóriák vesszővel elválasztott listába kerülnek.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Megjegyzés: Az új elrendezésszerkesztő örökli a stíluskalauzban (formálisan témaszerkesztőben) beállított témát. <1>További információ</1>';
+$Definition['Need More Help?'] = 'További segítségre van szükséged?';
+$Definition['Need more help?'] = 'További segítségre van szüksége?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'A mélységnél mélyebb beágyazott kategóriák vesszővel elválasztott listába kerülnek.';
+$Definition['New Embed System'] = 'Új beágyazási rendszer';
+$Definition['New Quick Links'] = 'Új gyors linkek';
+$Definition['New Search Page'] = 'Új keresési oldal';
 $Definition['No Anonymization'] = 'Nincs névtelenítés';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Az oldalnak szüksége van az alapértelmezett "érvénytelenített" típusú szerepre az e-mail megerősítéséhez. A beállítás engedélyezéséhez adj hozzá egyet.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Nem kapja meg azt, amit elvár a téma előnézetekor?';
 $Definition['Notify me when people comment on my addons.'] = 'Értesítsenek, ha hozzászólnak egy addon-omhoz.';
 
@@ -156,8 +158,8 @@ $Definition['OrgDescription'] = 'Az ön szervezetének nevét a SEO mikroadatokh
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'A felülbírált nézeteknek vagy a témahooknak nem kívánt mellékhatásai lehetnek, és nem tekinthetők meg előzetesen.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>A részleges anonimizálás</strong> csak az IP-cím utolsó oktettjét anonimizálja. Például a 254.230.05.153 254.230.05.0 lesz. Ez némi anonimizálást biztosít, miközben továbbra is lehetővé teszi az IP-tiltó szabályok működését.";
-$Definition['Partial Anonymization'] = "Részleges anonimizálás";
+$Definition['Partial Anonymization'] = 'Részleges anonimizálás';
+$Definition['PartialAnonymization.Description'] = '<strong>A részleges anonimizálás</strong> csak az IP-cím utolsó oktettjét anonimizálja. Például a 254.230.05.153 254.230.05.0 lesz. Ez némi anonimizálást biztosít, miközben továbbra is lehetővé teszi az IP-tiltó szabályok működését.';
 $Definition['Password.MinLength'] = 'A jelszó létrehozási és visszaállítási oldalain a felhasználók jelszavaihoz megengedett minimális karakterhossz.';
 $Definition['Please choose an authenticator to configure.'] = 'Kérlek válassz egy hitelesítési módot';
 $Definition['PluginHelp'] = 'Beépülő modulok segítségével adhatsz új funkcionalitást az oldaladhoz.<br />Amint egy modul a %s mappádba bekerült, itt fogod tudni engedélyezni vagy letiltani.';
@@ -195,11 +197,13 @@ $Definition['Session Timeout'] = 'Munkamenet időtúllépés';
 $Definition['ShareImageDescription'] =
     'Amikor valaki megoszt egy linket az Ön webhelyéről, megpróbálunk képet készíteni az oldalról. Ha nincs kép az oldalon, akkor ezt a képet használjuk helyette. A képnek legalább 50×50-esnek kell lennie, de javasoljuk a 200×200-ast.';
 $Definition['Show all possible pocket locations.'] = 'Kapcsold be azt az opciót, hogy zsebek minden lehetséges helyét megmutassa. Ennek az opciónak a bekapcsolása csak azoknak a felhasználóknak fogja a zsebek helyét megmutatni, akik jogosultak rá.';
-$Definition['SignIn.LockoutTime'] = "Az az időtartam, ameddig a felhasználót letiltják a bejelentkezésben, miután túllépte a bejelentkezési kísérletek számát.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Előfordulhat, hogy egyes témákat frissíteni kell a következő kategóriákkal való együttműködés érdekében. A téma frissítése közben letilthatja a funkciót.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Különleges korlátozás: Csak a Garden.Curation.Manage engedéllyel rendelkező felhasználók használhatják ezt a reakciót.';
+$Definition['SignIn.LockoutTime'] = 'Az az időtartam, ameddig a felhasználót letiltják a bejelentkezésben, miután túllépte a bejelentkezési kísérletek számát.';
+$Definition['Solid'] = 'Szilárd';
+$Definition['Some browsers support a color for the address bar.'] = 'Egyes böngészők támogatják a címsáv színét.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Egyes régebbi témák nem támogatják a teljes szerkesztési lehetőséget. Ha látni szeretné, hogy egy téma mit támogat, vigye az egérmutatót a neve fölé, és nézze meg, hol lépnek életbe a módosítások.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Előfordulhat, hogy egyes témákat frissíteni kell a következő kategóriákkal való együttműködés érdekében. A téma frissítése közben letilthatja a funkciót.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Néha be szeretné ágyazni Vanilla webhelyét egy másik webhelybe. A Vanilla beágyazási rendszere egyszerű módot kínál erre. A beágyazott webhely használatakor kompromisszumok vannak a teljesítménnyel, ezért ellenőrizze a dokumentációt az alternatívák és az ideális használati esetek tekintetében.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Különleges korlátozás: Csak a Garden.Curation.Manage engedéllyel rendelkező felhasználók használhatják ezt a reakciót.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Adjon meg egy részleges vagy teljes egyezést egy letiltás létrehozásakor.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Fordíts egy kis időt arra, hogy átgondold, miként mutatnád be az oldalad. Az oldalad megfelelő címe és leírása segíthet jobb helyezést elérni a keresőmotorokban.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Dobd fel az e-maileket logó hozzáadásával vagy színek megadásával.';

@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = 'Unele browsere acceptă o culoare p
 $Definition['AddonProblems'] = '<h2>Probleme?</h2> <p>În cazul în care ceva nu merge bine cu o extensie şi nu puteţi utiliza site-ul, acestea se pot dezactiva manual prin editarea:</p> %s';
 $Definition['Alert users if they click external link.'] = 'Alertați utilizatorii dacă fac clic pe un link dintr-o postare care îi va îndepărta de pe forum. Utilizatorii nu vor fi avertizați atunci când urmează link-uri care se potrivesc cu un domeniu de încredere';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Toate categoriile enumerate cu o selecţie de 5 discuţii recente ';
-$Definition['Allow links to be transformed'] =
-    'Permiteți transformarea legăturilor în reprezentări încorporate în discuții și comentarii. De exemplu, un link YouTube se va transforma într-un videoclip încorporat.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Permiteți utilizatorilor cu permisiunea %s să își schimbe avatarurile din paginile de profil din Vanilla.';
-$Definition['Anonymize IP Addresses'] = "Anonimizați adresele IP";
+$Definition['Allow links to be transformed'] = 'Permiteți transformarea legăturilor în reprezentări încorporate în discuții și comentarii. De exemplu, un link YouTube se va transforma într-un videoclip încorporat.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Permiteți utilizatorilor cu permisiunea %s să își schimbe avatarurile din paginile de profil din Vanilla.';
+$Definition['Anonymize IP Addresses'] = 'Anonimizați adresele IP';
 $Definition['ApplicationHelp'] = 'Aplicaţiile vă permit să adăugaţi grupuri mari de funcţionalități site-ului dumneavoastră. < br / > Odată ce o aplicație a fost adăugată dosarului %s, o puteţi activa sau dezactiva de aici';
 $Definition['Apply Layout'] = 'Aplicați aspectul';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Sunteţi sigur că aţi introdus numele de gazdă a bazei de date corect? Poate ați tastat greşit ? Baza de date a raportat: <code>%s</code>';
@@ -84,16 +82,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'De exemplu, poți să blochezi toți utilizatorii cu adrese de email de la "example.com" adăugând o interdicție tip email cu valoarea "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'În scopuri SEO, motoarele de căutare sunt oprite de la a vedea forumul în adresa remote.';
 $Definition['Foundation Layout'] = 'Aspectul fundației';
-$Definition['FullAnonymization.Description'] = "<strong>Anonimizarea completă</strong> înlocuiește fiecare adresă IP cu 0.0.0.0, refuzând efectiv aplicației orice acces pentru a lucra cu adrese IP. Regulile de interzicere a IP nu vor funcționa deloc în acest caz.";
-$Definition['Full Anonymization'] = "Anonimizare completă";
+$Definition['Full Anonymization'] = 'Anonimizare completă';
+$Definition['FullAnonymization.Description'] = '<strong>Anonimizarea completă</strong> înlocuiește fiecare adresă IP cu 0.0.0.0, refuzând efectiv aplicației orice acces pentru a lucra cu adrese IP. Regulile de interzicere a IP nu vor funcționa deloc în acest caz.';
+$Definition['Full Bleed'] = 'Sângerări complete';
 
 $Definition['Garden.Import.Complete.Description'] = 'Ați finalizat un import cu succes.
 Când sunteţi gata, faceţi click pe <b>Terminat</b>';
 $Definition['Garden.Import.Continue.Description'] = 'Pare ca și cum ai fi în mijlocul unui import. Vă rugăm să alegeți una dintre următoarele opțiuni.';
 $Definition['Garden.Import.InputInstructions'] = 'Introduceţi emailul şi parola de utilizator admin din datele importate.';
-$Definition['Garden.Privacy.IPs.Description'] = "Adresele IP ale utilizatorilor sunt de obicei colectate pentru regulile automate de interzicere, moderare și prevenirea spam-ului. Activarea anonimizării IP va anonimiza toate adresele IP urmărite pe site pentru orice scop și va reduce eficacitatea acestor instrumente. Modificările aduse acestei setări nu sunt retroactive.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles.Edit permisiunea de a schimba avatarurile lor din paginile de profil din Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Adresele IP ale utilizatorilor sunt de obicei colectate pentru regulile automate de interzicere, moderare și prevenirea spam-ului. Activarea anonimizării IP va anonimiza toate adresele IP urmărite pe site pentru orice scop și va reduce eficacitatea acestor instrumente. Modificările aduse acestei setări nu sunt retroactive.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit permisiunea de a schimba avatarurile lor din paginile de profil din Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Aţi dezactivat Statistiiile Vanilla în fișierul de configurare';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Acest forum pare să fie difuzat într-un mediu de testare, sau raportează un IP privat. În mod implicit, forumurile care rulează pe IP-uri private nu sunt urmărite';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Dacă sunteţi sigur că forumul este accesibil de pe internet îl puteţi forţa să raporteze statistici aici:';
@@ -129,7 +127,7 @@ $Definition['Learn about custom routing.'] = 'Mai multe informații despre rutar
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aflaţi cum să schimbați complet aspectul forum-ului: încărcaţi-vă logo-ul, setaţi o pagină de start, alegeţi o temă şi personalizaţi-o';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aflaţi cum să utilizaţi funcţionalitățile de bază ale forumului';
 $Definition['Locales allow you to support other languages on your site.'] = 'Localizările vă permit să sprijiniți și alte limbi pe site-ul dvs. Activați şi dezactivați localizările pe care doriţi să le faceţi disponibile aici';
-$Definition['Lockout Time (seconds)'] = "Timp de blocare (secunde)";
+$Definition['Lockout Time (seconds)'] = 'Timp de blocare (secunde)';
 $Definition['LogoDescription'] = 'Logo-ul bannerului apare în partea de sus a site-ului dvs.';
 $Definition['LogoDisclaimer'] = 'Temele realizate cu editorul de teme și unele teme personalizate nu utilizează această setare.';
 
@@ -144,10 +142,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Temele mobile vă permit să schimbați aspectul site-ului dvs. pe dispozitive mai mici.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Categoriile amplificate mai adânc decât această adâncime vor fi plasate într-o listă delimitată prin virgule.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Noul Editor de aspect va moșteni tema setată în Ghidul de stil (formal editor de teme). <1>Aflați mai multe</1>';
+$Definition['Need More Help?'] = 'Aveţi nevoie de mai mult ajutor?';
+$Definition['Need more help?'] = 'Aveți nevoie de mai mult ajutor?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Categoriile amplificate mai adânc decât această adâncime vor fi plasate într-o listă delimitată prin virgule.';
+$Definition['New Embed System'] = 'Noul sistem de încorporare';
+$Definition['New Quick Links'] = 'Noi linkuri rapide';
+$Definition['New Search Page'] = 'Pagină nouă de căutare';
 $Definition['No Anonymization'] = 'Fără anonimizare';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Acest site necesită un rol cu tipul implicit "neconfirmat" care să folosească confirmarea prin email. Te rugăm să adaugi unul pentru a activa această setare.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Nu primiți ceea ce vă așteptați când previzualizați tema dvs.?';
 $Definition['Notify me when people comment on my addons.'] = 'Anunţă-mă când oamenii comentează extensiile mele';
 
@@ -156,8 +158,8 @@ $Definition['OrgDescription'] = 'Numele organizației tale este folosit pentru m
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Vizualizările suprasolicitate sau cârligele tematice pot avea efecte secundare nedorite și nu sunt previzualizate.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>Anonimizarea parțială</strong> anonimizează doar ultimul octet al adresei IP. De exemplu, 254.230.05.153 ar deveni 254.230.05.0. Acest lucru oferă o anumită anonimizare, permițând în același timp funcționarea regulilor de interzicere a IP.";
-$Definition['Partial Anonymization'] = "Anonimizare parțială";
+$Definition['Partial Anonymization'] = 'Anonimizare parțială';
+$Definition['PartialAnonymization.Description'] = '<strong>Anonimizarea parțială</strong> anonimizează doar ultimul octet al adresei IP. De exemplu, 254.230.05.153 ar deveni 254.230.05.0. Acest lucru oferă o anumită anonimizare, permițând în același timp funcționarea regulilor de interzicere a IP.';
 $Definition['Password.MinLength'] = 'Lungimea minimă a caracterelor permisă pentru parolele utilizatorilor pe paginile de creare și resetare a parolei.';
 $Definition['Please choose an authenticator to configure.'] = 'Vă rugăm să alegeţi o autentificator pentru a configura';
 $Definition['PluginHelp'] = 'Plugin-urile vă permit să adăugaţi funcţionalități site-ului dvs. < br / > o dată un plug-in a fost adăugat dosarul %s, puteţi activa sau dezactiva de aici.';
@@ -195,11 +197,12 @@ $Definition['Session Timeout'] = 'Timp de expirare a sesiunii';
 $Definition['ShareImageDescription'] =
     'Când cineva distribuie un link de pe site-ul dvs., încercăm să luăm o imagine de pe pagină. Dacă nu există o imagine pe pagină, atunci vom folosi această imagine. Imaginea ar trebui să fie de cel puțin 50×50, dar vă recomandăm 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Activați această opțiune pentru a afișa toate locațiile posibile pentru pocketuri. Pornind această opțiune va afișa locațiile posibile doar utilizatorilor care pot administra pocketuri.';
-$Definition['SignIn.LockoutTime'] = "Perioada de timp în care un utilizator este blocat să se conecteze după depășirea numărului de încercări de conectare.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Este posibil ca unele teme să fie actualizate pentru a funcționa cu următoarele categorii. Puteți dezactiva funcția în timp ce actualizați tema.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Restricție specială: Numai utilizatorii cu permisiunea Garden.Curation.Manage pot utiliza această reacție.';
+$Definition['SignIn.LockoutTime'] = 'Perioada de timp în care un utilizator este blocat să se conecteze după depășirea numărului de încercări de conectare.';
+$Definition['Some browsers support a color for the address bar.'] = 'Unele browsere acceptă o culoare pentru bara de adrese.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Unele teme mai vechi nu acceptă capacitatea completă de editare. Pentru a vedea ce acceptă o temă, puteți trece cu mouse-ul peste numele ei pentru a vedea unde vor intra în vigoare editările.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Este posibil ca unele teme să fie actualizate pentru a funcționa cu următoarele categorii. Puteți dezactiva funcția în timp ce actualizați tema.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Uneori doriți să vă încorporați site-ul Vanilla într-un alt site. Sistemul de încorporare al lui Vanilla oferă o modalitate ușoară de a face asta. Există compromisuri de performanță atunci când utilizați un site încorporat, așa că verificați documentația pentru alternative și cazuri de utilizare ideale.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Restricție specială: Numai utilizatorii cu permisiunea Garden.Curation.Manage pot utiliza această reacție.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Specifică o potrivire parțială sau totală la crearea unei interdicții.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Petreceți puțin timp pentru a formula descriere site-ului. Oferind site-ului un ume semnificativ și o descriere concisă, ar putea ajuta la poziţia dumneavoastră în motoarele de căutare';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Fă-ți mesajele email mai frumoase folosind un logo sau personalizându-ți culorile.';

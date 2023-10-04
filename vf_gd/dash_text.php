@@ -16,12 +16,11 @@ $Definition['Add limits to image upload dimensions in discussions and comments.'
 $Definition['AddressBarColorDescription'] = 'Bidh cuid de bhrobhsairean a ’toirt taic do dhath airson a’ bhàr seòlaidh. Fòn-làimhe a-mhàin.';
 $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong with an addon and you can\'t use your site, you can disable them manually by editing:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Cuir fios gu luchd-cleachdaidh ma bhriogas iad air ceangal ann am post a bheir air falbh iad bhon fhòram. Cha tèid rabhadh a thoirt do luchd-cleachdaidh nuair a bhios iad a ’leantainn cheanglaichean a tha a’ freagairt ri Fearann earbsach';
-$Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
-$Definition['Allow links to be transformed'] =
-    'Leig le ceanglaichean a bhith air an atharrachadh gu riochdachaidhean freumhaichte ann an còmhraidhean agus beachdan. Mar eisimpleir, atharraichidh ceangal YouTube gu bhidio freumhaichte.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Leig le luchd-cleachdaidh le cead %s na avatars aca fhèin atharrachadh bho na duilleagan pròifil aca ann am Vanilla.';
-$Definition['Anonymize IP Addresses'] = "Cuir seòlaidhean IP gun urra";
+$Definition['Alignment'] = 'Co-thaobhadh';
+$Definition['Alignment (Mobile)'] = 'Co-thaobhadh (gluasadach)';
+$Definition['Allow links to be transformed'] = 'Leig le ceanglaichean a bhith air an atharrachadh gu riochdachaidhean freumhaichte ann an còmhraidhean agus beachdan. Mar eisimpleir, atharraichidh ceangal YouTube gu bhidio freumhaichte.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Leig le luchd-cleachdaidh le cead %s na avatars aca fhèin atharrachadh bho na duilleagan pròifil aca ann am Vanilla.';
+$Definition['Anonymize IP Addresses'] = 'Cuir seòlaidhean IP gun urra';
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Apply Layout'] = 'Cuir a-steach cruth';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
@@ -84,16 +83,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Mar eisimpleir, faodaidh tu casg a chuir air a h-uile neach-cleachdaidh le seòlaidhean puist-d bho "example.com" le bhith a ’cur casg seòrsa post-d leis an luach" *@example.com ".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 $Definition['Foundation Layout'] = 'Cruth Bunait';
-$Definition['FullAnonymization.Description'] = "Bidh <strong>Full Anonymization</strong> a’ dol an àite a h-uile seòladh IP le 0.0.0.0 gu h-èifeachdach a’ diùltadh cothrom don tagradh obair le seòlaidhean IP. Chan obraich riaghailtean casg IP idir sa chùis seo.";
-$Definition['Full Anonymization'] = "Anonymization slàn";
+$Definition['Full Anonymization'] = 'Anonymization slàn';
+$Definition['FullAnonymization.Description'] = 'Bidh <strong>Full Anonymization</strong> a’ dol an àite a h-uile seòladh IP le 0.0.0.0 gu h-èifeachdach a’ diùltadh cothrom don tagradh obair le seòlaidhean IP. Chan obraich riaghailtean casg IP idir sa chùis seo.';
+$Definition['Full Bleed'] = 'Bleed Làn';
 
 $Definition['Garden.Import.Complete.Description'] = 'You have successfully completed an import.
    Click <b>Finished</b> when you are ready.';
 $Definition['Garden.Import.Continue.Description'] = 'Tha e coltach gu bheil thu ann am meadhan in-mhalairt. Tagh aon de na roghainnean a leanas.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.Privacy.IPs.Description'] = "Mar as trice bidh seòlaidhean IP luchd-cleachdaidh air an cruinneachadh airson riaghailtean casg fèin-ghluasadach, measadh agus adhbharan casg spama. Le bhith a’ comasachadh IP Anonymization gun urra a h-uile seòladh IP a chaidh a leantainn air an làrach airson adhbhar sam bith, agus lughdaichidh e èifeachdas nan innealan sin. Chan eil atharrachaidhean air an t-suidheachadh seo ath-ghnìomhach.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles.Edit cead na avatars aca fhèin atharrachadh bho na duilleagan pròifil aca ann am Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Mar as trice bidh seòlaidhean IP luchd-cleachdaidh air an cruinneachadh airson riaghailtean casg fèin-ghluasadach, measadh agus adhbharan casg spama. Le bhith a’ comasachadh IP Anonymization gun urra a h-uile seòladh IP a chaidh a leantainn air an làrach airson adhbhar sam bith, agus lughdaichidh e èifeachdas nan innealan sin. Chan eil atharrachaidhean air an t-suidheachadh seo ath-ghnìomhach.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit cead na avatars aca fhèin atharrachadh bho na duilleagan pròifil aca ann am Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'You have specifically disabled Vanilla Statistics in your configuration file.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'This forum appears to be running in a test environment, or is otherwise reporting a private IP. By default, forums running on private IPs are not tracked.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'If you\'re sure your forum is accessible from the internet you can force it to report statistics here:';
@@ -129,7 +128,7 @@ $Definition['Learn about custom routing.'] = 'Ionnsaich mu dheidhinn gnàthachad
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Leigidh àiteachan-fuirich leat taic a thoirt do chànanan eile air an làrach agad. Dèan comas agus cuir à comas locales a tha thu airson a dhèanamh an seo.';
-$Definition['Lockout Time (seconds)'] = "Ùine glasaidh (diogan)";
+$Definition['Lockout Time (seconds)'] = 'Ùine glasaidh (diogan)';
 $Definition['LogoDescription'] = 'Tha suaicheantas a ’bhratach a’ nochdadh aig mullach na làraich agad.';
 $Definition['LogoDisclaimer'] = 'Cha bhith na cuspairean a chaidh a dhèanamh le deasaiche a ’chuspair agus cuid de chuspairean gnàthaichte a’ cleachdadh an t-suidheachaidh seo.';
 
@@ -144,9 +143,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Leigidh cuspairean gluasadach dhut sealladh is faireachdainn na làraich agad atharrachadh air innealan nas lugha.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Thèid roinnean neadachaidh nas doimhne na an doimhneachd seo a chur ann an liosta làn-choma.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Sealbhaichidh an Deasaiche Cruth ùr an cuspair a chaidh a shuidheachadh san Stoidhle Stoidhle agad (deasaiche cuspair gu foirmeil). <1> Faigh a-mach tuilleadh</1>';
+$Definition['Need more help?'] = 'A bheil feum agad air barrachd cuideachaidh?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Thèid roinnean neadachaidh nas doimhne na an doimhneachd seo a chur ann an liosta làn-choma.';
+$Definition['New Embed System'] = 'Siostam leabachaidh ùr';
+$Definition['New Quick Links'] = 'Ceanglaichean sgiobalta ùra';
+$Definition['New Search Page'] = 'Duilleag sgrùdaidh ùr';
 $Definition['No Anonymization'] = 'Gun Anonymization';
+$Definition['Not getting what you expect when you preview your theme?'] = 'Gun a bhith a ’faighinn na tha thu a’ dùileachadh nuair a bheir thu ro-shealladh air a ’chuspair agad?';
 $Definition['No unconfirmed role available for email confirmation.'] = 'Feumaidh an làrach dreuchd le seòrsa bunaiteach "neo-dhaingnichte" gus dearbhadh post-d a chleachdadh. Feuch an cuir thu fear ris gus an t-suidheachadh seo a chomasachadh.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Gun a bhith a ’faighinn na tha thu a’ dùileachadh nuair a bheir thu ro-shealladh air a ’chuspair agad?';
 $Definition['Notify me when people comment on my addons.'] = 'Notify me when people comment on my addons.';
@@ -156,8 +160,8 @@ $Definition['OrgDescription'] = 'Tha ainm na buidhne agad air a chleachdadh airs
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Faodaidh frith-bhuaidhean neo-àbhaisteach a bhith aig seallaidhean no cuspairean cuspaireil agus chan eilear gan ro-shealladh.';
 
-$Definition['PartialAnonymization.Description'] = "Chan eil <strong>Partal Anonymization</strong> gun urra ach an octet mu dheireadh den t-seòladh IP. Mar eisimpleir bhiodh 254.230.05.153 gu bhith na 254.230.05.0. Bheir seo beagan gun urra fhad ‘s a tha e fhathast a’ leigeil le riaghailtean casg IP a bhith ag obair.";
-$Definition['Partial Anonymization'] = "Anonymization ann am pàirt";
+$Definition['Partial Anonymization'] = 'Anonymization ann am pàirt';
+$Definition['PartialAnonymization.Description'] = 'Chan eil <strong>Partal Anonymization</strong> gun urra ach an octet mu dheireadh den t-seòladh IP. Mar eisimpleir bhiodh 254.230.05.153 gu bhith na 254.230.05.0. Bheir seo beagan gun urra fhad ‘s a tha e fhathast a’ leigeil le riaghailtean casg IP a bhith ag obair.';
 $Definition['Password.MinLength'] = 'Fad caractar as ìsle a tha ceadaichte airson faclan-faire luchd-cleachdaidh air duilleagan cruthaich agus ath-shuidheachadh faclan-faire.';
 $Definition['Please choose an authenticator to configure.'] = 'Please choose an authenticator to configure.';
 $Definition['PluginHelp'] = 'Plugins allow you to add functionality to your site.<br />Once a plugin has been added to your %s folder, you can enable or disable it here.';
@@ -195,11 +199,13 @@ $Definition['Session Timeout'] = 'Ùine an t-Seisein';
 $Definition['ShareImageDescription'] =
     'Nuair a bhios cuideigin a ’roinn ceangal bhon làrach agad bidh sinn a’ feuchainn ri ìomhaigh fhaighinn bhon duilleag. Mura h-eil ìomhaigh air an duilleag cleachdaidh sinn an ìomhaigh seo na àite. Bu chòir don ìomhaigh a bhith co-dhiù 50 × 50, ach tha sinn a ’moladh 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
-$Definition['SignIn.LockoutTime'] = "An ùine a tha neach-cleachdaidh air a bhacadh bho bhith a’ logadh a-steach às deidh dha a bhith nas àirde na an àireamh de dh’ oidhirpean logadh a-steach.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Is dòcha gu feumar cuid de chuspairean ùrachadh gus obrachadh le roinn a leanas. Faodaidh tu am feart a dhì-cheadachadh fhad ‘s a bhios tu ag ùrachadh do chuspair.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Cuingealachadh sònraichte: Chan fhaod ach luchd-cleachdaidh le cead Garden.Curation.Manage an ath-bhualadh seo a chleachdadh.';
+$Definition['SignIn.LockoutTime'] = 'An ùine a tha neach-cleachdaidh air a bhacadh bho bhith a’ logadh a-steach às deidh dha a bhith nas àirde na an àireamh de dh’ oidhirpean logadh a-steach.';
+$Definition['Solid'] = 'Soladach';
+$Definition['Some browsers support a color for the address bar.'] = 'Bidh cuid de bhrobhsairean a’ cur taic ri dath airson a’ bhàr seòlaidh.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Chan eil cuid de chuspairean nas sine a’ toirt taic do làn chomas deasachaidh. Gus faicinn dè an taic a tha aig cuspair, faodaidh tu gluasad thairis air an ainm aige gus faicinn far an tig deasachaidhean gu buil.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Is dòcha gu feumar cuid de chuspairean ùrachadh gus obrachadh le roinn a leanas. Faodaidh tu am feart a dhì-cheadachadh fhad ‘s a bhios tu ag ùrachadh do chuspair.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Aig amannan bidh thu airson an làrach Vanilla agad fhighe a-steach do làrach eile. Tha siostam freumhaichte Vanilla a’ tabhann dòigh furasta air sin. Tha malairtean coileanaidh ann nuair a bhios tu a’ cleachdadh làrach freumhaichte, mar sin thoir sùil air na sgrìobhainnean airson roghainnean eile agus cùisean cleachdaidh air leth.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Cuingealachadh sònraichte: Chan fhaod ach luchd-cleachdaidh le cead Garden.Curation.Manage an ath-bhualadh seo a chleachdadh.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Sònraich maids pàirt no làn nuair a chruthaicheas tu casg.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Spruce suas na puist-d agad le bhith a ’cur suaicheantas agus a’ gnàthachadh nan dathan.';

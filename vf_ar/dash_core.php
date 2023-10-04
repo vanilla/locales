@@ -102,7 +102,6 @@ $Definition['Allow users to dismiss this message'] = 'السماح للمستخ�
 $Definition['All Pages'] = 'كل الصفحات';
 $Definition['An enabled message will be visible on the site.'] = 'سوف تظهر رسالة مُمَكَّنة على الموقع.';
 $Definition['Anonymize Analytics Data by Default'] = 'إخفاء هوية بيانات التحليلات افتراضيًا';
-$Definition['API'] = 'API';
 $Definition['API Label is required'] = 'مطلوب تسمية API';
 $Definition['API SSO Expand Permission'] = 'API SSO توسيع الإذن';
 $Definition['API Status'] = 'حالة API';
@@ -126,6 +125,7 @@ $Definition['Are you sure you want to delete this badge? This is irreversible an
 $Definition['Are you sure you want to delete this category?'] = 'هل أنت متأكد من رغبتك في حذف هذا القسم؟';
 $Definition['Are you sure you want to restore %s items?'] = 'هل أنت متأكد من رغبتك في إسترجاع %s عناصر؟';
 $Definition['Are you sure you want to restore 1 item?'] = 'هل أنت متأكد من رغبتك في إسترجاع عنصر 1؟';
+$Definition['Assign to'] = 'يسند إلى';
 $Definition['At least one visible column is required. Show or add a visible column.'] = 'مطلوب عمود مرئي واحد على الأقل. إظهار عمود مرئي أو إضافته.';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'رابط قسم أكثر توافقا مع محركات البحث';
 $Definition['Automatically Save Drafts'] = 'حفظ المسودات تلقائيًا';
@@ -498,6 +498,7 @@ $Definition['Layout'] = 'المخطط';
 $Definition['Learn more'] = 'يتعلم أكثر';
 $Definition['Learn more about HSTS at %s.'] = 'تعرَّف على المزيد عن HSTS على %s.';
 $Definition['Level'] = 'المستوى';
+$Definition['Limit'] = 'حد';
 $Definition['Link Color'] = 'لون الارتباط';
 $Definition['Likes'] = 'Likes';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Limit the pocket to one or more roles or permissions.';
@@ -585,8 +586,6 @@ $Definition['No Ban Rules Found'] = 'لم يتم العثور على قواعد 
 $Definition['No Change'] = 'لا تغيير';
 $Definition['No drafts.'] = 'لا يوجد مسودات';
 $Definition['No item options are available for Link display type.'] = 'لا تتوفر خيارات عنصر لنوع عرض الرابط.';
-$Definition['No Items Selected'] = 'No Items Selected';
-$Definition['No results for %s.'] = 'No results for %s.';
 $Definition['Not Dismissable'] = 'غير قابل للتفكيك';
 $Definition['Notes'] = 'ملاحظات';
 $Definition['Notifications will appear here.'] = 'الإشعارات ستظهر هنا.';
@@ -594,6 +593,7 @@ $Definition['NotifyApplicant'] = 'أبلغني عندما يتقدم أي شخص
 $Definition['Notify me when people comment on a discussion.'] = 'أعلمني عندما يعلق الناس على مناقشة.';
 $Definition['Notify me when people start new discussions.'] = 'أبلغني عندما يبدأ الناس مناقشات جديدة.';
 $Definition['Not Spam'] = 'ليس بريدا موذيا';
+$Definition['Number input must be between 1 and 100.'] = 'يجب أن يكون إدخال الرقم بين 1 و100.';
 $Definition['Number of %s listed per page.'] = 'عدد%s المدرجة في كل صفحة.';
 $Definition['Number of blocked registrations'] = 'عدد التسجيلات الممنوعة';
 $Definition['Number of days before a follow-up email is automatically sent.'] = 'عدد الأيام قبل إرسال بريد إلكتروني للمتابعة تلقائيًا.';
@@ -657,9 +657,6 @@ $Definition['Reaction Types'] = 'أنواع التفاعل';
 $Definition['Recalculate Counts'] = 'إعادة حساب التهم';
 $Definition['Recently Active Users'] = 'المستخدمون النشطون مؤخرًا';
 $Definition['Recently Commented'] = 'علق مؤخرا';
-$Definition['Recently Added'] = 'أضيف مؤخرا';
-$Definition['Recent News'] = 'Recent News';
-$Definition['Record Content'] = 'Record Content';
 $Definition['Recipient'] = 'متلقي';
 $Definition['Refresh Comments'] = 'تحديث التعليقات';
 $Definition['Register for Membership'] = 'سجل للعضوية';
@@ -719,7 +716,7 @@ $Definition['SearchScope.Everywhere'] = 'في كل مكان';
 $Definition['seconds'] = 'ثواني';
 $Definition['Security'] = 'الأمان';
 $Definition['See also'] = 'انظر أيضاً';
-$Definition['Select'] = 'Select';
+$Definition['Selection will affect the item options available.'] = 'سيؤثر التحديد على خيارات العنصر المتاحة.';
 $Definition['Select the location of the pocket.'] = 'حدد موقع الجيب.';
 $Definition['Select which columns are displayed on the manage users page list.'] = 'حدد الأعمدة التي يتم عرضها في قائمة صفحات إدارة المستخدمين.';
 $Definition['Selection will affect the item options available.'] = 'سيؤثر التحديد على خيارات العنصر المتاحة.';
@@ -730,6 +727,8 @@ $Definition['Send a Test Email'] = 'إرسال رسالة بريد إلكترو�
 $Definition['Send Test Digest'] = 'إرسال ملخص الاختبار';
 $Definition['Send Test Email Digest'] = 'إرسال ملخص اختبار البريد الإلكتروني';
 $Definition['Send Invitations!'] = 'يرسل دعوات!';
+$Definition['Send Test Digest'] = 'إرسال ملخص الاختبار';
+$Definition['Send Test Email Digest'] = 'إرسال ملخص اختبار البريد الإلكتروني';
 $Definition['Send users a welcome email.'] = 'أرسل إلى المستخدمين بريدًا إلكترونيًا ترحيبًا.';
 $Definition['Sent To'] = 'Sent To';
 $Definition['Separate each word with a semi-colon ";"'] = 'افصل بين كل كلمة وأخرى بفاصلة منقوطة "؛"';
@@ -817,6 +816,7 @@ $Definition['The site description usually appears in search engines.'] = 'عاد
 $Definition['The site is currently undergoing scheduled maintenance.'] = 'يخضع الموقع حاليًا للصيانة المجدولة.';
 $Definition['The specified url code is already in use by another category.'] = 'الرابط المطلوب مستخدم من قبل قسم آخر.';
 $Definition['The structure was successfully executed.'] = 'تم تنفيذ الهيكل بنجاح.';
+$Definition['The test digest will generate content as if it were this user receiving the digest.'] = 'سينشئ ملخص الاختبار المحتوى كما لو كان هذا المستخدم يتلقى الملخص.';
 $Definition['The update was not successful.'] = 'لم ينجح التحديث.';
 $Definition['The update was successful.'] = 'تم التحديث بنجاح.';
 $Definition['The url that users go to to register for a new account.'] = 'عنوان url الذي يذهب المستخدمون إليه للتسجيل في حساب جديد.';
@@ -869,7 +869,8 @@ $Definition['Universal Forum Embed Code'] = 'الكود المضمن للمنت�
 $Definition['Unlimited'] = 'Unlimited';
 $Definition['Up to a maximum of 100 items may be displayed.'] = 'يمكن عرض ما يصل إلى 100 عنصر كحد أقصى.';
 $Definition['Upload New Email Logo'] = 'تحميّل شعار البريد الإلكتروني الجديد';
-$Definition['Upcoming Events'] = 'أحداث قادمة';
+$Definition['Upload Placeholder Image'] = 'تحميل صورة عنصر نائب';
+$Definition['Up to a maximum of 100 items may be displayed.'] = 'يمكن عرض ما يصل إلى 100 عنصر كحد أقصى.';
 $Definition['Use an SMTP server to send email'] = 'استخدم خادم SMTP لإرسال البريد الإلكتروني';
 $Definition['Use asterisks for wildcards'] = 'استخدم العلامات النجمية لحرف البدل ، مثل  "*@gmail.com"';
 $Definition['Use Categories'] = 'استخدم الفئات';
@@ -884,7 +885,11 @@ $Definition['UserDeletionPrompt'] = 'اختر كيفية معالجة كل ال�
 $Definition['UserKeep'] = 'الحفاظ على محتوى المستخدم';
 $Definition['UserKeepMessage'] = 'احذف المستخدم ولكن احتفظ بمحتوى المستخدم.';
 $Definition['Username or UserID to Spoof'] = 'اسم المستخدم أو معرف المستخدم للمحاكاة';
+$Definition['User Preferences'] = 'خيارات المستخدم';
 $Definition['User Registration Settings'] = 'إعدادات تسجيل المستخدم';
+$Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'يمكن للمستخدمين متابعة الفئات للاشتراك في إشعارات المنشورات الجديدة. حدد الفئات التي يجب على المستخدمين الجدد اتباعها بشكل افتراضي.';
+$Definition['Users that get this reaction get %+d point.'] = 'يحصل المستخدمون الذين يحصلون على رد الفعل هذا على نقطة %+d';
+$Definition['Users that get this reaction get %+d points.'] = 'المستخدمون الذين يحصلون على رد الفعل هذا يحصلون على نقاط %+d';
 $Definition['User successfully added.'] = 'تمت إضافة المستخدم بنجاح.';
 $Definition['User successfully updated.'] = 'تم تحديث المستخدم بنجاح.';
 $Definition['Users can follow categories to subscribe to notifications for new posts. Select which categories new users should follow by default.'] = 'يمكن للمستخدمين متابعة الفئات للاشتراك في إشعارات المنشورات الجديدة. حدد الفئات التي يجب على المستخدمين الجدد اتباعها بشكل افتراضي.';
@@ -931,6 +936,8 @@ $Definition['Word Count'] = 'عدد الكلمات';
 
 $Definition['Yes, the following information can be changed later.'] = 'نعم ، يمكن تغيير المعلومات التالية لاحقًا.';
 $Definition['You are connected as %s.'] = 'أنت متصل ك %s.';
+$Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'أنت تغادر صفحة إعدادات البريد الإلكتروني بدون حفظ التغييرات. تأكد من حفظ التحديثات الخاصة بك قبل الخروج.';
+$Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'أنت تغادر محرر الموضوع بدون حفظ التغييرات. تأكد من حفظ تحديثاتك قبل الخروج.';
 $Definition['You are previewing the %s theme.'] = 'أنت تقوم بمعاينة سمة %s.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'حدد المربع بجوار المستخدم الذي نشر البريد العشوائي لحظره وحذف جميع مشاركاته. <b>لا تفعل ذلك إلا إذا كنت متأكدًا أن هؤلاء هم مرسلو الرسائل غير المرغوب فيها.</b>';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'إذا تم حظر دخولك إلى المنتدى الخاص بك ، يمكنك دائمًا تسجيل الدخول باستخدام بريدك الإلكتروني الأصلي للفانيلا وكلمة المرور على <a href="%1$s">%1$s</a>';

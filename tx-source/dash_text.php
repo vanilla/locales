@@ -37,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'Change the way your community works with plugins. We\'ve bundled popular plugins with the software, and there are more available online.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'Changes will apply to newly uploaded avatars only.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'Change the sizes that avatar images are saved at.';
+$Definition['Changes to the set day will take affect the following week.'] = 'Changes to the set day will take affect the following week.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.';
 $Definition['Check out our %s'] = 'Check out our %s';
@@ -68,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Edit Route'] = 'Edit Route';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Embed your community forum into your website to increase engagement...';
+$Definition['Email digests will be sent on the selected day every week.'] = 'Email digests will be sent on the selected day every week.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'Email sent from the application will be addressed from this email address';
+$Definition['Email sent from the application will be addressed from this name'] = 'Email sent from the application will be addressed from this name';
+$Definition['Email Settings'] = 'Email Settings';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
@@ -125,6 +130,7 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 $Definition['Labs'] = 'Labs';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Large images will be scaled down to a max width of 400px and a max height of 300px.';
 $Definition['Learn about custom routing.'] = 'Learn about custom routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
@@ -233,6 +239,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'They work just like regular themes. Once one has been added to the themes folder, you can enable it here.';
 $Definition['This is the administrative dashboard for your new community.'] = 'This is the administrative dashboard for your new community. Check out the configuration options to the side. From there you can configure how your community works. <b>By default, only users in the "Administrator" role can see this part of your community.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'This may be used to include content such as organization name and address in all outgoing emails.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
 $Definition['This page lists the endpoints of your API.'] =
     'This page lists the endpoints of your API. Click endpoints for more information. You can make live calls to the API from this page or externally using an access token.';
@@ -269,6 +276,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We recommend mostly positive reactions to encourage participation.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'When enabled, users may choose to receive notifications from the community';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Whether or not the internal profile fields will be included in this webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Whether or not the private profile fields will be included in this webhook.';

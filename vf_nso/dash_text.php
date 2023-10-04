@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = 'Diphensele tše dingwe di thekga mm
 $Definition['AddonProblems'] = '<h2>O na le mathata?</h2><p>Ge go ka senyega selotsoko ka seo se tsentšwego gomme o sa kgone go diriša wepesaete ya gago, o ka e tloša ka bowena ka go ngwala:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Lemoša badiriši ge ba kgotla kgokagano ka posong yeo e tlago ba iša kgole le foramo. Badiriši ba ka se lemošwe ge ba latela dikgokagano tšeo di swanago le Domain ye e Botegago';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Magoro ka moka a lokeleditšwe ka go kgethwa ga dipoledišano tše 5 tša morago bjale ka tlase ga e nngwe le e nngwe';
-$Definition['Allow links to be transformed'] =
-    'Dumelela dikgokagano go fetolwa go ba dikemedi tše di tsentšwego dipoledišanong le ditshwayotshwayong. Ka mohlala, kgokagano ya YouTube e tla fetoga bidio yeo e tsentšwego.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Dumelela badiriši bao ba nago le tumelelo ya %s go fetoša di-avatar tša bona go tšwa matlakaleng a bona a profaele go Vanilla.';
-$Definition['Anonymize IP Addresses'] = "Anonymize Diaterese tša IP";
+$Definition['Allow links to be transformed'] = 'Dumelela dikgokagano go fetolwa go ba dikemedi tše di tsentšwego dipoledišanong le ditshwayotshwayong. Ka mohlala, kgokagano ya YouTube e tla fetoga bidio yeo e tsentšwego.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Dumelela badiriši bao ba nago le tumelelo ya %s go fetoša di-avatar tša bona go tšwa matlakaleng a bona a profaele go Vanilla.';
+$Definition['Anonymize IP Addresses'] = 'Anonymize Diaterese tša IP';
 $Definition['ApplicationHelp'] = 'Dikgopelo di go dumelela go tsenya dihlopha tše dikgolo tša go šoma wepesaeteng ya gago.<br />Ge kgopelo e tsentšwe foltareng ya gago ya %s, o ka e bula goba go e tswalela mo.';
 $Definition['Apply Layout'] = 'Diriša Peakanyo';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Na o kgodišegile gore o tsentšhe bobolokelo bja maleba leineng la mong? Mohlomongwe ga se wa le ngwala gabotse? Bobolokelo bo begile gore: <code>%s</code>';
@@ -84,16 +82,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Go fa mohlala, o ka thibela badiriši ka moka bao ba nago le diaterese tša di-imeile go tšwa go "example.com" ka go oketša thibelo ya mohuta wa imeile ka boleng bja "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Ka morero wa SEO, bafetleki ba go tsoma ga ba akaretšwe kgapeletšong ya go bogela foramo go url yeo e lego lekatana.';
 $Definition['Foundation Layout'] = 'Peakanyo ya Motheo';
-$Definition['FullAnonymization.Description'] = "<strong>Full Anonymization</strong> e tšea sebaka sa aterese ye nngwe le ye nngwe ya IP ka 0.0.0.0 ka mo go atlegilego e gana tirišo phihlelelo efe goba efe ya go šoma ka diaterese tša IP. Melawana ya thibelo ya IP e ka se šome le gatee tabeng ye.";
-$Definition['Full Anonymization'] = "Go se tsebje ka botlalo";
+$Definition['Full Anonymization'] = 'Go se tsebje ka botlalo';
+$Definition['FullAnonymization.Description'] = '<strong>Full Anonymization</strong> e tšea sebaka sa aterese ye nngwe le ye nngwe ya IP ka 0.0.0.0 ka mo go atlegilego e gana tirišo phihlelelo efe goba efe ya go šoma ka diaterese tša IP. Melawana ya thibelo ya IP e ka se šome le gatee tabeng ye.';
+$Definition['Full Bleed'] = 'Go Tšwa Madi ka Botlalo';
 
 $Definition['Garden.Import.Complete.Description'] = 'O phethile kamogelo ka katlego.
 Kgotla <b>Feditšwe</b> ge o itokišitše.';
 $Definition['Garden.Import.Continue.Description'] = 'Go bonagala eka o gare ga import. Hle kgetha e nngwe ya dikgetho tše di latelago.';
 $Definition['Garden.Import.InputInstructions'] = 'Ngwala imeile le phasewete ya modiriši wa taolo go tloga go tatha yeo e amogelwago.';
-$Definition['Garden.Privacy.IPs.Description'] = "Diaterese tša IP tša mosediriši ka tlwaelo di kgoboketšwa bakeng sa melao ya thibelo ya go itiriša, merero ya go lekanetša le ya thibelo ya spam. Go kgontšha IP Anonymization go tla se tsebje diaterese ka moka tša IP tšeo di latišišitšwego mo saeteng ka morero ofe goba ofe, gomme go tla fokotša go šoma gabotse ga didirišwa tše. Diphetogo go peakanyo ye ga di boele morago.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles.Edit tumelelo ya go fetoša di-avatar tša bona go tšwa matlakaleng a bona a profaele go Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Diaterese tša IP tša mosediriši ka tlwaelo di kgoboketšwa bakeng sa melao ya thibelo ya go itiriša, merero ya go lekanetša le ya thibelo ya spam. Go kgontšha IP Anonymization go tla se tsebje diaterese ka moka tša IP tšeo di latišišitšwego mo saeteng ka morero ofe goba ofe, gomme go tla fokotša go šoma gabotse ga didirišwa tše. Diphetogo go peakanyo ye ga di boele morago.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit tumelelo ya go fetoša di-avatar tša bona go tšwa matlakaleng a bona a profaele go Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'O timile ka go lebanya Dipalopalo tša Vanilla faeleng ya gago ya go beakanya.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Karolo ye e bonala e sepedišana le tikologo ya teko goba e ka ba e bega IP ya sephiri. Go ka no itiragalela gore diforamo tšeo di sepedišwago ka diIP tša sephiri di se lemogwe.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Ge e ba o kgodišegile gore diforamo tša gago di a fihlelelega inthaneteng o ka e gapeletša gore e bege dipalopalo mo:';
@@ -129,7 +127,7 @@ $Definition['Learn about custom routing.'] = 'Ithute ka mokgwa o tlwaetšwego.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Ithute kamoo o ka fetošago ka botlalo ponagalo ya foramo ya gago gomme o kwe: tsenya lloko ya gago, beakanya letlakala la gago la mathomo, kgetha sehlogo gomme o tlwaelane le sona.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Ithute kamoo o ka dirišago go šoma ga motheo ga foramo ya gago.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Mafelo a go dumelela go thekga maleme a mangwe wepesaeteng ya gago. Bula le go tswalela mafelo ao o nyakago gore a be gona mo.';
-$Definition['Lockout Time (seconds)'] = "Nako ya go Notlela (metsotswana) .";
+$Definition['Lockout Time (seconds)'] = 'Nako ya go Notlela (metsotswana) .';
 $Definition['LogoDescription'] = 'Letshwao la banner le tšwelela ka godimo ga sebaka sa gago.';
 $Definition['LogoDisclaimer'] = 'Dihlogo tšeo di dirilwego ka morulaganyi wa sehlogo le dihlooho tše dingwe tša tlwaelo ga di šomiše peakanyo ye.';
 
@@ -144,10 +142,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Dihlogo tša sellathekeng di go dumelela go fetoša ponagalo le maikutlo a sebaka sa gago go didirišwa tše nnyane.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Dihlopha tše di tsentšwego ka gare ga botebo bjo di tla bewa lenaneong leo le arotšwego ka dikhutlo.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Morulaganyi yo mofsa wa Peakanyo o tla ja bohwa bja sete ya sehlogo ka go Tlhahlo ya gago ya Setaele (semmušo morulaganyi wa sehlogo). <1>Hwetša dintlha ka botlalo</1>';
+$Definition['Need More Help?'] = 'Na o Nyaka Thušo e Oketšegilego?';
+$Definition['Need more help?'] = 'O nyaka thušo e oketšegilego?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Dihlopha tše di tsentšwego ka gare ga botebo bjo di tla bewa lenaneong leo le arotšwego ka dikhutlo.';
+$Definition['New Embed System'] = 'Tshepedišo e Mpsha ya Embed';
+$Definition['New Quick Links'] = 'Dikgokagano tše Mpsha tša Kapejana';
+$Definition['New Search Page'] = 'Letlakala le Lefsa la go Nyaka';
 $Definition['No Anonymization'] = 'Ga go na go se tsebje';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Sebaka se hloka karolo e nang le mofuta oa default "unconfirmed" ho sebelisa netefatso ea imeile. Hle oketša e tee go kgontšha peakanyo ye.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Ga o hwetše seo o se letetšego ge o lebelela sehlogo sa gago pele?';
 $Definition['Notify me when people comment on my addons.'] = 'Mpotše ge batho ba bolela ka seo ke se tsentšego.';
 
@@ -156,8 +158,8 @@ $Definition['OrgDescription'] = 'Lebitso la hao la mokgatlo le sebediswa bakeng 
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Dipono tše di phaetšwego goba di-themehook di ka ba le ditlamorago tše di sa rerišwago gomme ga di bonwe pele.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>Karolo</strong> Anonymizes feela octet ya mafelelo ya aterese ya IP. Mohlala 254.230.05.153 e be e tla fetoga 254.230.05.0. Se se fa go se tsebje mo gongwe mola se sa dumelela melao ya thibelo ya IP go šoma.";
-$Definition['Partial Anonymization'] = "Go se tsebje ka karolo";
+$Definition['Partial Anonymization'] = 'Go se tsebje ka karolo';
+$Definition['PartialAnonymization.Description'] = '<strong>Karolo</strong> Anonymizes feela octet ya mafelelo ya aterese ya IP. Mohlala 254.230.05.153 e be e tla fetoga 254.230.05.0. Se se fa go se tsebje mo gongwe mola se sa dumelela melao ya thibelo ya IP go šoma.';
 $Definition['Password.MinLength'] = 'Bonyane tlhaku bolelele lumelloa bakeng sa basebedisi ba diphasewete ka phasewete bopa le ho seta botjha maqephe.';
 $Definition['Please choose an authenticator to configure.'] = 'Hle kgetha mongwadi gore a rulaganye.';
 $Definition['PluginHelp'] = 'Go tsenya go go dumelela go oketša go šoma ga wepesaete ya gago.<br />Ge go šetše go tsentšwe foltareng ya gago %s, o ka e bula goba wa e tswalela.';
@@ -195,11 +197,13 @@ $Definition['Session Timeout'] = 'Nako ya go Fela ya Sešene';
 $Definition['ShareImageDescription'] =
     'Ge motho a abelana kgokagano go tšwa saeteng ya gago re leka go tšea seswantšho go tšwa letlakaleng. Ge go se na seswantšho letlakaleng gona re tla šomiša seswantšho se go e na le moo. Setšoantšo se lokela ho ba bonyane 50 × 50, empa re khothalletsa 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Bula kgetho ye go bontšha mafelo ka moka ao a lego gona a potla. Go gotetša kgetho ye go tla no bontšha mafelo a badiriši bao ba ka laolago dipotla.';
-$Definition['SignIn.LockoutTime'] = "Nako yeo modiriši a thibetšwego go tsena ka morago ga go feta palo ya maiteko a go tsena.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Dihlogo tše dingwe di ka swanelwa ke go mpshafatšwa gore di šome le go latela legoro. O ka šitiša tšobotsi ge o dutše o mpshafatša sehlogo sa gago.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Thibelo ye e kgethegilego: Ke fela badiriši bao ba nago le tumelelo Garden.Curation.Manage bao ba ka šomišago karabelo ye.';
+$Definition['SignIn.LockoutTime'] = 'Nako yeo modiriši a thibetšwego go tsena ka morago ga go feta palo ya maiteko a go tsena.';
+$Definition['Solid'] = 'Tšhipi';
+$Definition['Some browsers support a color for the address bar.'] = 'Diphensele tše dingwe di thekga mmala wa baara ya diaterese.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Dihlogo tše dingwe tša kgale ga di thekge bokgoni bja go rulaganya ka botlalo. Go bona seo sehlogo se se thekgago o ka bea godimo ga leina la sona go bona moo diphetošo di tlago go šoma gona.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Dihlogo tše dingwe di ka swanelwa ke go mpshafatšwa gore di šome le go latela legoro. O ka šitiša tšobotsi ge o dutše o mpshafatša sehlogo sa gago.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Ka nako ye nngwe o nyaka go tsenya lefelo la gago la Vanilla ka gare ga lefelo le lengwe. Vanilla o embed tsamaiso e khopo fana ka tsela e bonolo ho seo. Go na le diphetogo tša tshepedišo ge o šomiša lefelo leo le tsentšwego, ka fao hlahloba ditokomane bakeng sa mekgwa ye mengwe le maemo a tšhomišo a mabotse.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Thibelo ye e kgethegilego: Ke fela badiriši bao ba nago le tumelelo Garden.Curation.Manage bao ba ka šomišago karabelo ye.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Laetša papadi ya karolo goba ka botlalo ge o hlola thibelo.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Go fetša nakwana re nagana mabapi le kamoo re ka hlalosago wepesaete ya gago mo. Go nea wepesaete ya gago sehlogo seo se nago le morero le tlhaloso e botse go ka thuša boemo bja gago dikarolong tša go tsoma.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Thakgafatša diimeile tša gago ka go tsena leswao le go botsefatša mebala.';

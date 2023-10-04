@@ -18,11 +18,9 @@ $Definition['AddressBarColorDescription'] = 'Vissa webbläsare stöder en färg 
 $Definition['AddonProblems'] = '<h2>Problem?</h2><p>Om något går snett med ett tillägg och du inte kan använda din sajt, så kan du inaktivera tillägg manuellt genom att redigera:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Varna användare om de klickar på en länk i ett inlägg som leder dem bort från forumet. Användare kommer inte att varnas när de följer länkar som matchar en betrodd domän';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Alla kategorier listade med ett urval av 5 nya diskussioner under varje';
-$Definition['Allow links to be transformed'] =
-    'Tillåt att länkar förvandlas till inbäddade representationer i diskussioner och kommentarer. Till exempel kommer en YouTube-länk att förvandlas till en inbäddad video.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Tillåt användare med behörigheten %s att ändra sina egna avatarer från sina profilsidor i Vanilla.';
-$Definition['Anonymize IP Addresses'] = "Anonymisera IP-adresser";
+$Definition['Allow links to be transformed'] = 'Tillåt att länkar förvandlas till inbäddade representationer i diskussioner och kommentarer. Till exempel kommer en YouTube-länk att förvandlas till en inbäddad video.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Tillåt användare med behörigheten %s att ändra sina egna avatarer från sina profilsidor i Vanilla.';
+$Definition['Anonymize IP Addresses'] = 'Anonymisera IP-adresser';
 $Definition['ApplicationHelp'] = 'Applikationer låter dig lägga till stora grupper av funktionalitet till din sida.<br />När en applikation har lagts till i din %s-mapp kan du aktivera och inaktivera den här.';
 $Definition['Apply Layout'] = 'Tillämpa layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Är du säker på att du skrivit in rätt värdnamn till databasen? Kanske råkade du skriva fel? Databasen svarade: <code>%s</code>';
@@ -85,16 +83,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Till exempel kan du spärra alla användare med e-postadress från "exempel.se" genom att lägga till en e-postspärr för "*@exempel.se".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'För SEO ändamål, är sökrobotar uteslutna från att tvingas se forumet i fjärrläsare.';
 $Definition['Foundation Layout'] = 'Grundläggande layout';
-$Definition['FullAnonymization.Description'] = "<strong>Full anonymisering</strong> ersätter varje enskild IP-adress med 0.0.0.0, vilket effektivt nekar applikationen all åtkomst att arbeta med IP-adresser. Regler för IP-förbud fungerar inte alls i det här fallet.";
-$Definition['Full Anonymization'] = "Fullständig anonymisering";
+$Definition['Full Anonymization'] = 'Fullständig anonymisering';
+$Definition['FullAnonymization.Description'] = '<strong>Full anonymisering</strong> ersätter varje enskild IP-adress med 0.0.0.0, vilket effektivt nekar applikationen all åtkomst att arbeta med IP-adresser. Regler för IP-förbud fungerar inte alls i det här fallet.';
+$Definition['Full Bleed'] = 'Fullt utfallande';
 
 $Definition['Garden.Import.Complete.Description'] = 'Du har lyckats avsluta en importering.
 Klicka på <b>Klar</b> när du är redo.';
 $Definition['Garden.Import.Continue.Description'] = 'Det verkar som att du är mitt under en import. Välj ett av följande alternativ.';
 $Definition['Garden.Import.InputInstructions'] = 'Skriv in administatöranvändarens e-post och lösenord från datan som importeras.';
-$Definition['Garden.Privacy.IPs.Description'] = "Användar-IP-adresser samlas vanligtvis in för automatiserade förbudsregler, moderering och skräppostförebyggande syften. Aktivering av IP-anonymisering kommer att anonymisera alla IP-adresser som spåras på webbplatsen för alla ändamål och kommer att minska effektiviteten hos dessa verktyg. Ändringar av denna inställning är inte retroaktiva.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles.Edit behörighet att ändra sina egna avatarer från sina profilsidor i Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Användar-IP-adresser samlas vanligtvis in för automatiserade förbudsregler, moderering och skräppostförebyggande syften. Aktivering av IP-anonymisering kommer att anonymisera alla IP-adresser som spåras på webbplatsen för alla ändamål och kommer att minska effektiviteten hos dessa verktyg. Ändringar av denna inställning är inte retroaktiva.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit behörighet att ändra sina egna avatarer från sina profilsidor i Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Du har inaktiverat Vanilla Statistics specifikt i din konfigurationsfil.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Detta forum verkar köras i en testmiljö, eller körs på annat sätt under ett internt IP. Som standard sparas inte trafik för forum som körs under interna IP.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Om du är säker på att ditt forum är tillgängligt från internet kan du tvinga det att rapportera statistik här:';
@@ -130,7 +128,7 @@ $Definition['Learn about custom routing.'] = 'Lär dig om anpassad dirigering.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lär dig att helt ändra ditt forums utseende och känsla: ladda upp din logo, välj din startsida, välj ett tema och anpassa det.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lär dig att använda de grundläggande funktionerna i ditt forum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales låter dig stödja andra språk på din sida. Aktivera eller inaktivera locales som du vill göra tillgängliga här.';
-$Definition['Lockout Time (seconds)'] = "Lockouttid (sekunder)";
+$Definition['Lockout Time (seconds)'] = 'Lockouttid (sekunder)';
 $Definition['LogoDescription'] = 'Bannerlogotypen visas högst upp på din webbplats.';
 $Definition['LogoDisclaimer'] = 'Teman gjorda med temaredigeraren och vissa anpassade teman använder inte den här inställningen.';
 
@@ -145,10 +143,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobilteman låter dig ändra utseendet och känslan för din webbplats på mindre enheter.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Underkategorier under denna nivå kommer att placeras i en kommaavgränsad lista.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'OBS! Den nya layoutredigeraren kommer att ärva temat i din stilguide (formellt temaredigerare). <1>Ta reda på mer</1>';
+$Definition['Need More Help?'] = 'Behöver du mer hjälp?';
+$Definition['Need more help?'] = 'Behöver du mer hjälp?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Underkategorier under denna nivå kommer att placeras i en kommaavgränsad lista.';
+$Definition['New Embed System'] = 'Nytt inbäddningssystem';
+$Definition['New Quick Links'] = 'Nya snabblänkar';
+$Definition['New Search Page'] = 'Ny söksida';
 $Definition['No Anonymization'] = 'Ingen anonymisering';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Den här sidan kräver rollen "obekräftad" för att kunna bekräfta sin e-post. Vänligen lägg till en för att använda denna funktion.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Får du inte vad du förväntade dig när du förhandsgranskar ditt tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Meddela mig när någon kommenterar mina tillägg.';
 
@@ -157,8 +159,8 @@ $Definition['OrgDescription'] = 'Namnet på din organisation används för SEO-m
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Åsidosatta vyer eller tema-hooks kan ha oavsiktliga sidoeffekter och förhandsgranskas inte.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>Partiell anonymisering</strong> anonymiserar endast den sista oktetten av IP-adressen. Till exempel skulle 254.230.05.153 bli 254.230.05.0. Detta ger viss anonymisering samtidigt som det tillåter IP-förbudsregler att fungera.";
-$Definition['Partial Anonymization'] = "Partiell anonymisering";
+$Definition['Partial Anonymization'] = 'Partiell anonymisering';
+$Definition['PartialAnonymization.Description'] = '<strong>Partiell anonymisering</strong> anonymiserar endast den sista oktetten av IP-adressen. Till exempel skulle 254.230.05.153 bli 254.230.05.0. Detta ger viss anonymisering samtidigt som det tillåter IP-förbudsregler att fungera.';
 $Definition['Password.MinLength'] = 'Minsta tillåtna teckenlängd för användares lösenord på sidor för skapande och återställning av lösenord.';
 $Definition['Please choose an authenticator to configure.'] = 'Vänligen välj en autentisering att konfigurera.';
 $Definition['PluginHelp'] = 'Pluginer låter dig lägga till funktionalitet till din site. <br />Så fort en plugin har lagts till din %s mapp, kan du aktivera eller inaktivera den här.';
@@ -196,11 +198,12 @@ $Definition['Session Timeout'] = 'Sessionen har gått ut';
 $Definition['ShareImageDescription'] =
     'När någon delar en länk från din webbplats försöker vi ta en bild från sidan. Om det inte finns en bild på sidan använder vi denna bild istället. Bilden ska vara minst 50×50 men vi rekommenderar 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Aktivera det här valet för att visa alla tänkbara placeringar av fickor. Aktivering av valet kommer endast visa platserna för användare som kan hantera fickor.';
-$Definition['SignIn.LockoutTime'] = "Tiden en användare blockeras från att logga in efter att ha överskridit antalet inloggningsförsök.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Vissa teman kan behöva uppdateras för att fungera med kategoriföljande. Du kan inaktivera funktionen medan du uppdaterar ditt tema.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Särskild begränsning: Endast användare med behörighet Garden.Curation.Manage får använda denna reaktion.';
+$Definition['SignIn.LockoutTime'] = 'Tiden en användare blockeras från att logga in efter att ha överskridit antalet inloggningsförsök.';
+$Definition['Some browsers support a color for the address bar.'] = 'Vissa webbläsare stöder en färg för adressfältet.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Vissa äldre teman har inte stöd för fullständig redigering. För att se vad ett tema stöder kan du hålla muspekaren över dess namn för att se var redigeringar kommer att träda i kraft.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Vissa teman kan behöva uppdateras för att fungera med kategoriföljande. Du kan inaktivera funktionen medan du uppdaterar ditt tema.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Ibland vill du bädda in din Vanilla-webbplats på en annan sida. Vanillas inbäddningssystem erbjuder ett enkelt sätt till det. Det finns prestandaavvägningar när du använder en inbäddad webbplats, så kontrollera dokumentationen för alternativ och idealiska användningsfall.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Särskild begränsning: Endast användare med behörighet Garden.Curation.Manage får använda denna reaktion.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Ange partiell eller fullständig matchning vid spärr.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Ta lite tid för att tänka igenom hur du beskriver din sida här. Att ge din sida en meningsfull titel och en koncis beskrivning kan förbättra din position i sökmotorer.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Snygga till dina e-postmeddelanden genom att lägga till en logotyp och anpassa färgerna.';

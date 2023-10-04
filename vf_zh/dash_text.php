@@ -18,11 +18,9 @@ $Definition['AddressBarColorDescription'] = '某些浏览器支持地址栏颜�
 $Definition['AddonProblems'] = '<h2>遇到问题了？</h2><p>如果有插件出现错误并且网站不能正常使用了，您可以通过编辑这些选项手动禁用它们：</p>%s';
 $Definition['Alert users if they click external link.'] = '如果用户点击帖子中的链接将使其离开论坛，则会向用户发出警告。跟随与受信任域匹配的链接时，不会向用户发出警告';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = '各个版块中的最近 5 条话题';
-$Definition['Allow links to be transformed'] =
-    '允许在讨论和评论中将链接转换为嵌入式表示。例如，YouTube 链接将转换为嵌入式视频。';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    '允许具有 %s 权限的用户从 Vanilla 中的个人资料页面更改自己的头像。';
-$Definition['Anonymize IP Addresses'] = "匿名 IP 地址";
+$Definition['Allow links to be transformed'] = '允许在讨论和评论中将链接转换为嵌入式表示。例如，YouTube 链接将转换为嵌入式视频。';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = '允许具有 %s 权限的用户从 Vanilla 中的个人资料页面更改自己的头像。';
+$Definition['Anonymize IP Addresses'] = '匿名 IP 地址';
 $Definition['ApplicationHelp'] = '应用程序让您可以为网站添加更多功能。<br />当您将应用程序放置到文件夹 %s 后，您可以在这里启用或禁用它。';
 $Definition['Apply Layout'] = '应用布局';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '您确定输入了正确的数据库主机地址了吗？或许您写错了？数据库返回信息：<code>%s</code>';
@@ -85,16 +83,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = '例如，您可以通过添加值为“*@example.com”的电子邮件类型封禁指令来封禁所有使用“example.com”电子邮件地址的用户。';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = '为了更好的搜索引擎收录效果，搜索引擎的爬虫不会被强迫通过远程链接访问论坛。';
 $Definition['Foundation Layout'] = '地基布局';
-$Definition['FullAnonymization.Description'] = "<strong>完全匿名化</strong>将每个 IP 地址替换为 0.0.0.0，有效拒绝应用程序对 IP 地址进行任何访问。在这种情况下，IP 禁止规则根本不起作用。";
-$Definition['Full Anonymization'] = "完全匿名";
+$Definition['Full Anonymization'] = '完全匿名';
+$Definition['FullAnonymization.Description'] = '<strong>完全匿名化</strong>将每个 IP 地址替换为 0.0.0.0，有效拒绝应用程序对 IP 地址进行任何访问。在这种情况下，IP 禁止规则根本不起作用。';
+$Definition['Full Bleed'] = '全出血';
 
 $Definition['Garden.Import.Complete.Description'] = '成功导入数据。
 准备好后请单击<b>完成</b>。';
 $Definition['Garden.Import.Continue.Description'] = '您似乎正在导入过程中。请选择以下选项之一。';
 $Definition['Garden.Import.InputInstructions'] = '请输入被导入数据中的管理员电子邮件地址与密码。';
-$Definition['Garden.Privacy.IPs.Description'] = "收集用户 IP 地址通常是出于自动禁止规则、审核和预防垃圾邮件的目的。启用 IP 匿名化将匿名化网站中出于任何目的而跟踪的所有 IP 地址，并将降低这些工具的有效性。对此设置的更改不具有追溯力。";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    '使用 Garden.Profiles.Edit 权限从 Vanilla 中的个人资料页面更改自己的头像。';
+$Definition['Garden.Privacy.IPs.Description'] = '收集用户 IP 地址通常是出于自动禁止规则、审核和预防垃圾邮件的目的。启用 IP 匿名化将匿名化网站中出于任何目的而跟踪的所有 IP 地址，并将降低这些工具的有效性。对此设置的更改不具有追溯力。';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = '使用 Garden.Profiles.Edit 权限从 Vanilla 中的个人资料页面更改自己的头像。';
 $Definition['Garden.StatisticsDisabled'] = '您在您的配置文件中关闭了 Vanilla 统计功能。';
 $Definition['Garden.StatisticsLocal.Explain'] = '此论坛可能正在测试环境中运行，或者目前正在使用私有 IP 地址。默认情况下，使用私有 IP 地址的论坛无法被跟踪。';
 $Definition['Garden.StatisticsLocal.Resolve'] = '如果你确认你的论坛可以通过公网访问，可以在这里强制发送统计报告：';
@@ -130,7 +128,7 @@ $Definition['Learn about custom routing.'] = '了解自定义路由。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '学习如何完全改变您的社区的外观和感觉：上传 Logo；设置首页及布局；选择一个主题并个性化主题。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '学习如何使用论坛的基本功能。';
 $Definition['Locales allow you to support other languages on your site.'] = '语言选项可以让您的网站支持其他语言。在这里您可以启用或禁用选定的语言。';
-$Definition['Lockout Time (seconds)'] = "锁定时间（秒）";
+$Definition['Lockout Time (seconds)'] = '锁定时间（秒）';
 $Definition['LogoDescription'] = '标语徽标显示在您网站的顶部。';
 $Definition['LogoDisclaimer'] = '使用主题编辑器创建的主题和某些自定义主题不使用此设置。';
 
@@ -145,10 +143,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     '移动端主题使您可以在小型设备上更改网站的界面外观。';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    '比此深度更深的嵌套类别将放在以逗号分隔的列表中。';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB 新的布局编辑器将继承您的样式指南（正式的主题编辑器）中设置的主题。 <1>了解更多</1>';
+$Definition['Need More Help?'] = '需要更多帮助吗？';
+$Definition['Need more help?'] = '需要更多帮助？';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = '比此深度更深的嵌套类别将放在以逗号分隔的列表中。';
+$Definition['New Embed System'] = '新的嵌入系统';
+$Definition['New Quick Links'] = '新的快速链接';
+$Definition['New Search Page'] = '新搜索页面';
 $Definition['No Anonymization'] = '无匿名化';
-$Definition['No unconfirmed role available for email confirmation.'] = '该网站需要使用默认类型“未经确认”的角色才能使用电子邮件确认。请添加一个启用此设置。';
 $Definition['Not getting what you expect when you preview your theme?'] = '预览主题时没有达到预期的效果？';
 $Definition['Notify me when people comment on my addons.'] = '当有人评论我的扩展时通知我。';
 
@@ -157,8 +159,8 @@ $Definition['OrgDescription'] = '搜索引擎优化微数据和 JSON + LD 会使
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     '覆盖的视图或主题钩可能会产生意外的副作用，因而无法预览。';
 
-$Definition['PartialAnonymization.Description'] = "<strong>部分匿名</strong>仅匿名 IP 地址的最后一个八位字节。例如，254.230.05.153 将变为 254.230.05.0。这提供了一定程度的匿名性，同时仍然允许 IP 禁止规则发挥作用。";
-$Definition['Partial Anonymization'] = "部分匿名化";
+$Definition['Partial Anonymization'] = '部分匿名化';
+$Definition['PartialAnonymization.Description'] = '<strong>部分匿名</strong>仅匿名 IP 地址的最后一个八位字节。例如，254.230.05.153 将变为 254.230.05.0。这提供了一定程度的匿名性，同时仍然允许 IP 禁止规则发挥作用。';
 $Definition['Password.MinLength'] = '密码创建和重置页面上的用户密码允许的最小字符长度。';
 $Definition['Please choose an authenticator to configure.'] = '请选择一个身份验证配置。';
 $Definition['PluginHelp'] = '插件可以为您的网站添加更多功能。<br />当一个新插件被添加到 %s 文件夹中后，您就可以在这里选择启用或关闭它。';
@@ -196,11 +198,13 @@ $Definition['Session Timeout'] = '会话超时';
 $Definition['ShareImageDescription'] =
     '当有人从您的网站分享链接时，我们会尝试从页面中抓取图像。如果页面上没有图像，那么我们将使用该图像。图像应至少为 50x50，但我们建议为 200x200。';
 $Definition['Show all possible pocket locations.'] = '打开此选项以显示所有可放置 Pocket 的位置。开启后只有具备管理 Pocket 权限的用户可以看到这些位置。';
-$Definition['SignIn.LockoutTime'] = "用户在超过登录尝试次数后被阻止登录的时间。";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    '某些主题可能需要更新才能与以下类别配合使用。您可以在更新主题时禁用该功能。';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    '特别限制：仅具有 Garden.Curation.Manage 权限的用户才能使用此反应。';
+$Definition['SignIn.LockoutTime'] = '用户在超过登录尝试次数后被阻止登录的时间。';
+$Definition['Solid'] = '实线';
+$Definition['Some browsers support a color for the address bar.'] = '一些浏览器支持地址栏的颜色。';
+$Definition['Some older themes don\'t support full editing capability.'] = '一些较旧的主题不支持完整的编辑功能。要查看主题支持什么，您可以将鼠标悬停在其名称上以查看编辑将在何处生效。';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = '某些主题可能需要更新才能与以下类别配合使用。您可以在更新主题时禁用该功能。';
+$Definition['Sometimes you want to embed your Vanilla site'] = '有时您想将您的 Vanilla 网站嵌入到另一个网站中。 Vanilla 的嵌入系统提供了一种简单的方法。使用嵌入式站点时需要权衡性能，因此请查看文档以了解替代方案和理想用例。';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = '特别限制：仅具有 Garden.Curation.Manage 权限的用户才能使用此反应。';
 $Definition['Specify a partial or full match when creating a ban.'] = '创建封禁指令时指定部分匹配或完全匹配。';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '花些时间思考一下如何描述您的网站。为您的网站选择一个有意义的名字和简明的描述，这会非常有益于提高网站在搜索引擎中的排名。';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = '在电子邮件中添加 Logo 和自定义颜色。';

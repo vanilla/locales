@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = '일부 브라우저는 주소 표�
 $Definition['AddonProblems'] = '<h2>문제가 있습니까?</h2><p> 애드온에 문제가 있고 사이트를 사용할 수 없는 경우 다음을 편집해서 수동으로 사용 해제할 수 있습니다: </p>%s';
 $Definition['Alert users if they click external link.'] = '사용자가 게시물에서 링크를 클릭하여 포럼에서 멀어지게하는 경우 사용자에게 경고합니다. 신뢰할 수있는 도메인과 일치하는 링크를 따라갈 때 사용자에게 경고가 표시되지 않습니다';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = '최근 선택한 토의 5개가 열거된 모든 카테고리';
-$Definition['Allow links to be transformed'] =
-    '토론과 의견에서 링크를 포함 된 표현으로 변환 할 수 있습니다. 예를 들어 YouTube 링크는 포함 된 비디오로 변환됩니다.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    '%s 권한이있는 사용자는 자신의 아바타를 바닐라의 프로필 페이지에서 변경할 수 있습니다.';
-$Definition['Anonymize IP Addresses'] = "IP 주소 익명화";
+$Definition['Allow links to be transformed'] = '토론과 의견에서 링크를 포함 된 표현으로 변환 할 수 있습니다. 예를 들어 YouTube 링크는 포함 된 비디오로 변환됩니다.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = '%s 권한이있는 사용자는 자신의 아바타를 바닐라의 프로필 페이지에서 변경할 수 있습니다.';
+$Definition['Anonymize IP Addresses'] = 'IP 주소 익명화';
 $Definition['ApplicationHelp'] = '어플리케이션을 사용하여 포럼에 대량의 기능을 쉽게 추가할 수 있습니다.<br />
 사용하기 원하는 어플리케이션을 다음의 경로에 추가한 후 목록에서 활성화 하여 사용합니다: %s';
 $Definition['Apply Layout'] = '레이아웃 적용';
@@ -98,16 +96,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = '예를 들어 "*@example.com" 값으로 이메일 유형 차단을 추가해서 "example.com"의 이메일 주소를 사용하는 모든 사용자를 차단할 수 있습니다.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO을 위해 검색 엔진 크롤러는 리모트 URL을 통한 강제 설정에서  제외됩니다.';
 $Definition['Foundation Layout'] = '기초 레이아웃';
-$Definition['FullAnonymization.Description'] = "<strong>전체 익명화는</strong> 모든 단일 IP 주소를 0.0.0.0으로 대체하여 애플리케이션이 IP 주소로 작업할 수 있는 모든 액세스를 효과적으로 거부합니다. 이 경우 IP 금지 규칙은 전혀 작동하지 않습니다.";
-$Definition['Full Anonymization'] = "완전한 익명화";
+$Definition['Full Anonymization'] = '완전한 익명화';
+$Definition['FullAnonymization.Description'] = '<strong>전체 익명화는</strong> 모든 단일 IP 주소를 0.0.0.0으로 대체하여 애플리케이션이 IP 주소로 작업할 수 있는 모든 액세스를 효과적으로 거부합니다. 이 경우 IP 금지 규칙은 전혀 작동하지 않습니다.';
+$Definition['Full Bleed'] = '풀 블리드';
 
 $Definition['Garden.Import.Complete.Description'] = '가져오기를 성공적으로 완료하였습니다.
    준비가 되었으면 <b>완료</b>를 클릭하세요.';
 $Definition['Garden.Import.Continue.Description'] = '가져 오기 도중에있는 것처럼 보입니다. 다음 옵션 중 하나를 선택하십시오.';
 $Definition['Garden.Import.InputInstructions'] = '임포트를 원하는 데이타의 어드민 이메일 주소와 패스워드를 입력하십시오.';
-$Definition['Garden.Privacy.IPs.Description'] = "사용자 IP 주소는 일반적으로 자동 금지 규칙, 조정 및 스팸 방지 목적으로 수집됩니다. IP 익명화를 활성화하면 어떤 목적으로든 사이트에서 추적되는 모든 IP 주소가 익명화되며 이러한 도구의 효율성이 떨어집니다. 이 설정에 대한 변경 사항은 소급 적용되지 않습니다.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles. 바닐라의 프로필 페이지에서 자신의 아바타를 변경할 수있는 권한을 편집합니다.';
+$Definition['Garden.Privacy.IPs.Description'] = '사용자 IP 주소는 일반적으로 자동 금지 규칙, 조정 및 스팸 방지 목적으로 수집됩니다. IP 익명화를 활성화하면 어떤 목적으로든 사이트에서 추적되는 모든 IP 주소가 익명화되며 이러한 도구의 효율성이 떨어집니다. 이 설정에 대한 변경 사항은 소급 적용되지 않습니다.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles. 바닐라의 프로필 페이지에서 자신의 아바타를 변경할 수있는 권한을 편집합니다.';
 $Definition['Garden.StatisticsDisabled'] = '환경설정 파일에서 바닐라 통계를 확실히 사용 해제했습니다. ';
 $Definition['Garden.StatisticsLocal.Explain'] = '이 포럼은 테스트 환경에서 실행되거나 그것이 아니라면 개인 IP를 보고하고 있습니다. 기본적으로 개인 IP에서 실행되는 포럼은 추적되지 않습니다.';
 $Definition['Garden.StatisticsLocal.Resolve'] = '포럼이 인터넷에서 확실히 접근 가능한 경우 여기에서 강제로 통계를 보고하게 할 수 있습니다:';
@@ -143,7 +141,7 @@ $Definition['Learn about custom routing.'] = '사용자 맞춤 라우팅(경로 
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '포럼의 외관 및 느낌을 완전히 바꾸는 방법을 알아 보세요: 로고를 업로드하고 홈페이지를 설정하고 테마를 선택하여 취향에 맞게 조정하세요.';
 $Definition['Learn how to use the basic functionality of your forum.'] = '포럼의 기본 기능 사용 방법을 알아 보세요.';
 $Definition['Locales allow you to support other languages on your site.'] = '로케일(Locale)은 귀하의 사이트에서 다른 언어를 지원할 수 있게 해 줍니다. 여기에서 이용하고 싶은 로케일을 사용 및 사용 해제하세요.';
-$Definition['Lockout Time (seconds)'] = "잠금 시간(초)";
+$Definition['Lockout Time (seconds)'] = '잠금 시간(초)';
 $Definition['LogoDescription'] = '배너 로고가 사이트 상단에 표시됩니다.';
 $Definition['LogoDisclaimer'] = '테마 편집기로 만든 테마 및 일부 사용자 지정 테마는이 설정을 사용하지 않습니다.';
 
@@ -160,10 +158,13 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     '모바일 테마를 사용하면 더 작은 기기에서 사이트의 모양과 느낌을 변경할 수 있습니다.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    '이 깊이보다 깊은 중첩 범주는 쉼표로 구분 된 목록에 배치됩니다.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB 새 레이아웃 편집기는 스타일 가이드(공식적으로는 테마 편집기)에 설정된 테마를 상속합니다. <1>자세히 알아보기</1>';
+$Definition['Need more help?'] = '도움이 더 필요하세요?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = '이 깊이보다 깊은 중첩 범주는 쉼표로 구분 된 목록에 배치됩니다.';
+$Definition['New Embed System'] = '새로운 임베딩 시스템';
+$Definition['New Quick Links'] = '새로운 빠른 링크';
+$Definition['New Search Page'] = '새 검색 페이지';
 $Definition['No Anonymization'] = '익명화 없음';
-$Definition['No unconfirmed role available for email confirmation.'] = '사이트는 이메일 확인을 사용하기 위하여 기본 유형 "미확인" 역할이 필요합니다. 한 가지를 추가하여 이 설정을 사용하세요.';
 $Definition['Not getting what you expect when you preview your theme?'] = '테마를 미리 볼 때 원하는 것을 얻지 못합니까?';
 $Definition['Notify me when people comment on my addons.'] = '내 애드온에 사람들이 코멘트을 남길 때 알려 주세요.';
 
@@ -172,8 +173,8 @@ $Definition['OrgDescription'] = '귀하의 조직 이름이 SEO 마이크로데�
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     '재정의 된 뷰 또는 테마 후크는 의도하지 않은 부작용이있을 수 있으며 미리 볼 수 없습니다.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>부분 익명화는</strong> IP 주소의 마지막 옥텟만 익명화합니다. 예를 들어 254.230.05.153은 254.230.05.0이 됩니다. 이렇게 하면 IP 차단 규칙이 계속 작동하면서 일부 익명화가 제공됩니다.";
-$Definition['Partial Anonymization'] = "부분 익명화";
+$Definition['Partial Anonymization'] = '부분 익명화';
+$Definition['PartialAnonymization.Description'] = '<strong>부분 익명화는</strong> IP 주소의 마지막 옥텟만 익명화합니다. 예를 들어 254.230.05.153은 254.230.05.0이 됩니다. 이렇게 하면 IP 차단 규칙이 계속 작동하면서 일부 익명화가 제공됩니다.';
 $Definition['Password.MinLength'] = '비밀번호 생성 및 재설정 페이지에서 사용자 비밀번호에 허용되는 최소 문자 길이입니다.';
 $Definition['Please choose an authenticator to configure.'] = '설정하기 원하는 인증 방식을 선택하세요.';
 $Definition['PluginHelp'] = '플러그인을 사용하여 포럼에 여러가지 기능을 추가할 수 있습니다.<br />원하는 플러그인을 다음 경로에 추가한 후 아래 목록에서 버튼을 눌러 활성화 합니다. %s';
@@ -211,11 +212,13 @@ $Definition['Session Timeout'] = '세션 타임 아웃';
 $Definition['ShareImageDescription'] =
     '누군가가 귀하의 사이트에서 링크를 공유하면 페이지에서 이미지를 가져오려고 합니다. 페이지에 이미지가 없으면 이 이미지를 대신 사용합니다. 이미지는 최소 50×50이어야 하지만 200×200을 권장합니다.';
 $Definition['Show all possible pocket locations.'] = '포켓의 가능한 위치를 모두 보여주려면 이 옵션을 사용하세요. 이 옵션을 켜면 사용자가 포켓을 관리할 수 있는 위치만을 보여줍니다. ';
-$Definition['SignIn.LockoutTime'] = "사용자가 로그인 시도 횟수를 초과한 후 로그인이 차단되는 시간입니다.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    '카테고리 다음과 함께 작동하려면 일부 테마를 업데이트해야 할 수도 있습니다. 테마를 업데이트하는 동안 기능을 비활성화 할 수 있습니다.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    '특별 제한 : Garden.Curation.Manage 권한이있는 사용자 만이 반응을 사용할 수 있습니다.';
+$Definition['SignIn.LockoutTime'] = '사용자가 로그인 시도 횟수를 초과한 후 로그인이 차단되는 시간입니다.';
+$Definition['Solid'] = '고체';
+$Definition['Some browsers support a color for the address bar.'] = '일부 브라우저는 주소 표시줄의 색상을 지원합니다.';
+$Definition['Some older themes don\'t support full editing capability.'] = '일부 이전 테마는 전체 편집 기능을 지원하지 않습니다. 테마가 무엇을 지원하는지 보려면 해당 이름 위로 마우스를 가져가서 편집이 적용되는 위치를 확인할 수 있습니다.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = '카테고리 다음과 함께 작동하려면 일부 테마를 업데이트해야 할 수도 있습니다. 테마를 업데이트하는 동안 기능을 비활성화 할 수 있습니다.';
+$Definition['Sometimes you want to embed your Vanilla site'] = '때로는 바닐라 사이트를 다른 사이트에 삽입하고 싶을 때가 있습니다. 바닐라의 임베드 시스템은 그렇게 하는 쉬운 방법을 제공합니다. 포함된 사이트를 사용할 때는 성능 절충점이 있으므로 문서에서 대안과 이상적인 사용 사례를 확인하세요.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = '특별 제한 : Garden.Curation.Manage 권한이있는 사용자 만이 반응을 사용할 수 있습니다.';
 $Definition['Specify a partial or full match when creating a ban.'] = '차단할 때 부분 일치 또는 전체 일치를 지정하십시오.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '여기에서 귀하의 사이트를 어떻게 설명할지 잠깐 시간을 내어 생각해 보세요. 사이트에 의미있는 제목과 간략한 설명을 붙이면 검색 엔진에서 귀하의 위치에 도움이 될 수 있습니다. ';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = '로고를 추가하고 취향에 맞는 색상을 골라 이메일을 꾸며 보세요.';

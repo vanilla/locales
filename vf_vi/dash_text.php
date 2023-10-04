@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = 'Một số trình duyệt hỗ tr�
 $Definition['AddonProblems'] = '<h2>Gặp vấn đề?</h2><p>Nếu có lỗi xảy ra với addon và bạn không thể sử dụng trang, bạn có thể tắt chúng bằng cách sửa:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Thông báo cho người dùng nếu họ nhấp vào một liên kết trong một bài đăng sẽ dẫn họ ra khỏi diễn đàn. Người dùng sẽ không được cảnh báo khi theo các liên kết phù hợp với Miền đáng tin cậy';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Tất cả các danh mục liệt kê với 5 bài viết gần nhất của nó';
-$Definition['Allow links to be transformed'] =
-    'Cho phép các liên kết được chuyển đổi thành các biểu diễn nhúng trong các cuộc thảo luận và bình luận. Ví dụ: liên kết YouTube sẽ chuyển đổi thành video được nhúng.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Cho phép người dùng có quyền %s để thay đổi hình đại diện của chính họ từ trang hồ sơ của họ trong Vanilla.';
-$Definition['Anonymize IP Addresses'] = "Ẩn danh địa chỉ IP";
+$Definition['Allow links to be transformed'] = 'Cho phép các liên kết được chuyển đổi thành các biểu diễn nhúng trong các cuộc thảo luận và bình luận. Ví dụ: liên kết YouTube sẽ chuyển đổi thành video được nhúng.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Cho phép người dùng có quyền %s để thay đổi hình đại diện của chính họ từ trang hồ sơ của họ trong Vanilla.';
+$Definition['Anonymize IP Addresses'] = 'Ẩn danh địa chỉ IP';
 $Definition['ApplicationHelp'] = 'Các ứng dụng cho phép bạn thêm một nhóm lớn các tính năng lên trang.<br />Ứng dụng sẽ được thêm vào thư mục %s, bạn có thể bật hoặc tắt nó tại đây.';
 $Definition['Apply Layout'] = 'Áp dụng bố cục';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Bạn có chắc chắn đã nhập đúng tên máy chủ cơ sở dữ liệu không? Có thể bạn gõ nhầm gì đó? Cơ sở dữ liệu thông báo là: <code>%s</code>';
@@ -84,16 +82,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Ví dụ, bạn có thể cấm tất cả những người dùng có địa chỉ email từ "example.com" bằng cách thêm một lệnh cấm dạng email với giá trị "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Cho các mục đích SEO, công cụ tìm kiếm phải được loại bỏ khỏi việc yêu cầu phải xem nội dung diễn đàn bằng một liên kết từ xa.';
 $Definition['Foundation Layout'] = 'Bố cục nền tảng';
-$Definition['FullAnonymization.Description'] = "<strong>Ẩn danh đầy đủ</strong> thay thế mọi địa chỉ IP đơn lẻ bằng 0.0.0.0 từ chối ứng dụng một cách hiệu quả mọi quyền truy cập để làm việc với các địa chỉ IP. Quy tắc cấm IP hoàn toàn không hoạt động trong trường hợp này.";
-$Definition['Full Anonymization'] = "Ẩn danh đầy đủ";
+$Definition['Full Anonymization'] = 'Ẩn danh đầy đủ';
+$Definition['FullAnonymization.Description'] = '<strong>Ẩn danh đầy đủ</strong> thay thế mọi địa chỉ IP đơn lẻ bằng 0.0.0.0 từ chối ứng dụng một cách hiệu quả mọi quyền truy cập để làm việc với các địa chỉ IP. Quy tắc cấm IP hoàn toàn không hoạt động trong trường hợp này.';
+$Definition['Full Bleed'] = 'Chảy máu toàn phần';
 
 $Definition['Garden.Import.Complete.Description'] = 'Bạn đã hoàn tất một nhập.
    Nhấp vào <b>kết thúc</b> khi bạn đã sẵn sàng.';
 $Definition['Garden.Import.Continue.Description'] = 'Nó xuất hiện như thể bạn đang ở giữa một nhập khẩu. Vui lòng chọn một trong các tùy chọn sau.';
 $Definition['Garden.Import.InputInstructions'] = 'Nhập địa chỉ thư và mật khẩu của người quản trị từ các dữ liệu được nhập khẩu.';
-$Definition['Garden.Privacy.IPs.Description'] = "Địa chỉ IP của người dùng thường được thu thập cho các mục đích cấm, kiểm duyệt và ngăn chặn thư rác tự động. Việc bật Ẩn danh IP sẽ ẩn danh tất cả các địa chỉ IP được theo dõi trên trang web cho bất kỳ mục đích nào và sẽ làm giảm hiệu quả của các công cụ này. Những thay đổi đối với cài đặt này không có hiệu lực hồi tố.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles.Edit cho phép thay đổi hình đại diện của chính họ từ trang hồ sơ của họ trong Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Địa chỉ IP của người dùng thường được thu thập cho các mục đích cấm, kiểm duyệt và ngăn chặn thư rác tự động. Việc bật Ẩn danh IP sẽ ẩn danh tất cả các địa chỉ IP được theo dõi trên trang web cho bất kỳ mục đích nào và sẽ làm giảm hiệu quả của các công cụ này. Những thay đổi đối với cài đặt này không có hiệu lực hồi tố.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit cho phép thay đổi hình đại diện của chính họ từ trang hồ sơ của họ trong Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Bạn đã tắt thống kê Vanilla trong tập tin cấu hình của bạn.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Diễn đàn này dường như chạy trong một môi trường thử nghiệm, hoặc nếu không thì tại một IP riêng. Theo mặc định, diễn đàn chạy trên IP riêng không được theo dõi.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Nếu bạn chắc chắn diễn đàn của bạn có thể truy cập từ internet, bạn có thể ép buộc thống kê ở đây:';
@@ -129,7 +127,7 @@ $Definition['Learn about custom routing.'] = 'Tìm hiểu về tuyến đường
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Tìm hiểu cách làm thế nào để thay đổi giao diện của diễn đàn: tải lên logo, thiết lập trang chủ, chọn một chủ đề và tùy chỉnh nó.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Học cách làm thế nào để sử dụng các chức năng cơ bản của diễn đàn.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Địa phương hóa cho phép bạn hỗ trợ các ngôn ngữ khác trên trang. Bật hoặc tắ ngôn ngữ bạn muốn tại đây.';
-$Definition['Lockout Time (seconds)'] = "Thời gian khóa (giây)";
+$Definition['Lockout Time (seconds)'] = 'Thời gian khóa (giây)';
 $Definition['LogoDescription'] = 'Logo biểu ngữ xuất hiện ở đầu trang web của bạn.';
 $Definition['LogoDisclaimer'] = 'Các chủ đề được tạo bằng trình chỉnh sửa chủ đề và một số chủ đề tùy chỉnh không sử dụng cài đặt này.';
 
@@ -144,10 +142,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Chủ đề di động cho phép bạn thay đổi giao diện trang web của mình trên các thiết bị nhỏ hơn.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Các danh mục lồng nhau sâu hơn độ sâu này sẽ được đặt trong danh sách được phân cách bằng dấu phẩy.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Trình chỉnh sửa bố cục mới sẽ kế thừa bộ chủ đề trong Hướng dẫn kiểu của bạn (chính thức là trình chỉnh sửa chủ đề). <1> Tìm hiểu thêm</1>';
+$Definition['Need More Help?'] = 'Cần trợ giúp thêm?';
+$Definition['Need more help?'] = 'Cần sự giúp đỡ nhiều hơn?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Các danh mục lồng nhau sâu hơn độ sâu này sẽ được đặt trong danh sách được phân cách bằng dấu phẩy.';
+$Definition['New Embed System'] = 'Hệ thống nhúng mới';
+$Definition['New Quick Links'] = 'Liên kết nhanh mới';
+$Definition['New Search Page'] = 'Trang tìm kiếm mới';
 $Definition['No Anonymization'] = 'Không ẩn danh';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Website này cần một vai trò với loại mặc định là "chưa xác nhận" để sử dụng tính năng xác nhận địa chỉ email. Vui lòng thêm một vai trò để bật thiết lập này.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Không nhận được những gì bạn mong đợi khi bạn xem trước chủ đề của bạn?';
 $Definition['Notify me when people comment on my addons.'] = 'Thông báo cho tôi khi có người nhận xét về addons của tôi.';
 
@@ -156,8 +158,8 @@ $Definition['OrgDescription'] = 'Tên tổ chức của bạn được dùng cho
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Lượt xem bị ghi đè hoặc themehook có thể có tác dụng phụ ngoài ý muốn và không được xem trước.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>Ẩn danh một phần chỉ ẩn danh</strong> octet cuối cùng của địa chỉ IP. Ví dụ 254.230.05.153 sẽ trở thành 254.230.05.0. Điều này cung cấp một số ẩn danh trong khi vẫn cho phép các quy tắc cấm IP hoạt động.";
-$Definition['Partial Anonymization'] = "Ẩn danh một phần";
+$Definition['Partial Anonymization'] = 'Ẩn danh một phần';
+$Definition['PartialAnonymization.Description'] = '<strong>Ẩn danh một phần chỉ ẩn danh</strong> octet cuối cùng của địa chỉ IP. Ví dụ 254.230.05.153 sẽ trở thành 254.230.05.0. Điều này cung cấp một số ẩn danh trong khi vẫn cho phép các quy tắc cấm IP hoạt động.';
 $Definition['Password.MinLength'] = 'Độ dài ký tự tối thiểu cho phép đối với mật khẩu của người dùng trên các trang tạo và đặt lại mật khẩu.';
 $Definition['Please choose an authenticator to configure.'] = 'Hãy chọn một xác thực để cấu hình.';
 $Definition['PluginHelp'] = 'Pluing cho phép bạn thêm chức năng cho trang web của bạn. < br / > Khi một plugin đã được thêm vào thư mục %s, bạn có thể kích hoạt hoặc vô hiệu hóa nó ở đây.';
@@ -195,11 +197,13 @@ $Definition['Session Timeout'] = 'Thời gian chờ của phiên';
 $Definition['ShareImageDescription'] =
     'Khi ai đó chia sẻ một liên kết từ trang web của bạn, chúng tôi sẽ thử và lấy một hình ảnh từ trang. Nếu không có hình ảnh trên trang thì chúng tôi sẽ sử dụng hình ảnh này để thay thế. Hình ảnh phải có kích thước tối thiểu 50 × 50, nhưng chúng tôi khuyên dùng 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Bật tùy chọn này để hiển thị tất cả các địa điểm của túi. Bật tùy chọn này sẽ chỉ hiển thị các địa điểm để người dùng có thể quản lý túi.';
-$Definition['SignIn.LockoutTime'] = "Lượng thời gian người dùng bị chặn đăng nhập sau khi vượt quá số lần đăng nhập.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Một số chủ đề có thể cần được cập nhật để làm việc với thể loại sau đây. Bạn có thể vô hiệu hóa tính năng trong khi bạn cập nhật chủ đề của mình.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Hạn chế đặc biệt: Chỉ những người dùng có quyền Garden.Curation.Manage mới có thể sử dụng phản ứng này.';
+$Definition['SignIn.LockoutTime'] = 'Lượng thời gian người dùng bị chặn đăng nhập sau khi vượt quá số lần đăng nhập.';
+$Definition['Solid'] = 'Chất rắn';
+$Definition['Some browsers support a color for the address bar.'] = 'Một số trình duyệt hỗ trợ màu cho thanh địa chỉ.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Một số chủ đề cũ hơn không hỗ trợ khả năng chỉnh sửa đầy đủ. Để xem chủ đề hỗ trợ gì, bạn có thể di chuột qua tên của chủ đề đó để xem vị trí các chỉnh sửa sẽ có hiệu lực.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Một số chủ đề có thể cần được cập nhật để làm việc với thể loại sau đây. Bạn có thể vô hiệu hóa tính năng trong khi bạn cập nhật chủ đề của mình.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Đôi khi bạn muốn nhúng trang Vanilla của mình vào bên trong một trang khác. Hệ thống nhúng của Vanilla cung cấp một cách dễ dàng để thực hiện điều đó. Có những đánh đổi về hiệu suất khi sử dụng một trang được nhúng, vì vậy hãy kiểm tra tài liệu để biết các lựa chọn thay thế và các trường hợp sử dụng lý tưởng.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Hạn chế đặc biệt: Chỉ những người dùng có quyền Garden.Curation.Manage mới có thể sử dụng phản ứng này.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Quy định rõ một phần hay toàn bộ trận đấu khi tạo luật cấm.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Dành một ít thời gian suy nghĩ về cách bạn mô tả trang web của bạn ở đây. Cung cấp cho trang của bạn một tiêu đề phù hợp và một mô tả chính xác để phục vụ cho các cỗ máy tìm kiếm.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Trau chuốt email của bạn bằng cách thêm một lô-gô và tùy chỉnh màu sắc.';

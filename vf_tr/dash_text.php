@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = 'Bazı tarayıcılar adres çubuğu 
 $Definition['AddonProblems'] = '<h2>Sorunlar?</h2><p>Bir eklentiyle ilgili bir şeyler ters giderse ve sitenizi kullanamıyorsanız, bunları düzenleyerek el ile devre dışı bırakabilirsiniz:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Kullanıcıları bir yayında, forumdan uzaklaştıracak bir bağlantıyı tıkladıklarında uyar. Güvenilir bir Alan Adı ile eşleşen bağlantıları izlerken kullanıcılar uyarılmayacak';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Her kategoride son 5 tartışmadan oluşan seçkin kategoriler';
-$Definition['Allow links to be transformed'] =
-    'Bağlantıların tartışmalarda ve yorumlarda gömülü temsillere dönüştürülmesine izin verin. Örneğin, bir YouTube bağlantısı gömülü bir videoya dönüşür.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    '%s kullanıcılarına kendi avatarlarını Vanilla profil sayfalarından değiştirme izni verin.';
-$Definition['Anonymize IP Addresses'] = "IP Adreslerini Anonimleştirin";
+$Definition['Allow links to be transformed'] = 'Bağlantıların tartışmalarda ve yorumlarda gömülü temsillere dönüştürülmesine izin verin. Örneğin, bir YouTube bağlantısı gömülü bir videoya dönüşür.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = '%s kullanıcılarına kendi avatarlarını Vanilla profil sayfalarından değiştirme izni verin.';
+$Definition['Anonymize IP Addresses'] = 'IP Adreslerini Anonimleştirin';
 $Definition['ApplicationHelp'] = 'Uygulamalar sitenize geniş bir işlevsellik grubu eklemenize izin verir. <br />Bir uygulama %s klasörünüze eklendikten sonra, buradan etkinleştirebilir veya devre dışı bırakabilirsiniz.';
 $Definition['Apply Layout'] = 'Düzeni Uygula';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Doğru veritabanı adını girdiğinizden emin misiniz? Belki, yanlış girmiş olabilirsiniz. Veritabanı raporu: <code>%s</code> ';
@@ -84,16 +82,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Örneğin, "*@örnek.com" değeriyle bir e-posta tipi engel ekleyerek, "örnek.com" adresinden e-postası olan tüm kullanıcıları yasaklayabilirsin.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'SEO amacıyla, arama motoru tarayıcılarının uzak url\'deki forumu görüntülemeye zorlanması engellenmiştir.';
 $Definition['Foundation Layout'] = 'Temel Düzeni';
-$Definition['FullAnonymization.Description'] = "<strong>Tam Anonimleştirme,</strong> her bir IP adresini 0.0.0.0 ile değiştirir ve uygulamanın IP adresleriyle çalışmasına herhangi bir erişimi etkili bir şekilde reddeder. Bu durumda IP ban kuralları hiç işlemeyecektir.";
-$Definition['Full Anonymization'] = "Tam Anonimleştirme";
+$Definition['Full Anonymization'] = 'Tam Anonimleştirme';
+$Definition['FullAnonymization.Description'] = '<strong>Tam Anonimleştirme,</strong> her bir IP adresini 0.0.0.0 ile değiştirir ve uygulamanın IP adresleriyle çalışmasına herhangi bir erişimi etkili bir şekilde reddeder. Bu durumda IP ban kuralları hiç işlemeyecektir.';
+$Definition['Full Bleed'] = 'Tam Taşma';
 
 $Definition['Garden.Import.Complete.Description'] = 'Bir içe aktarma işlemini başarıyla tamamladınız.
     Hazır olduğunuzda <b>Son\'u</b> tıklayın.';
 $Definition['Garden.Import.Continue.Description'] = 'Bir içe aktarmanın ortasındaymışsınız gibi görünür. Lütfen aşağıdaki seçeneklerden birini seçin.';
 $Definition['Garden.Import.InputInstructions'] = 'İçe aktarılan verilerden yönetici kullanıcısının e-posta adresini ve şifresini girin.';
-$Definition['Garden.Privacy.IPs.Description'] = "Kullanıcı IP adresleri genellikle otomatik yasaklama kuralları, denetleme ve spam önleme amacıyla toplanır. IP Anonimleştirmeyi etkinleştirmek, sitede herhangi bir amaçla takip edilen tüm IP adreslerini anonimleştirecek ve bu araçların etkinliğini azaltacaktır. Bu ayarda yapılan değişiklikler geriye dönük değildir.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Vanilla\'daki profil sayfalarından kendi avatarlarını değiştirme iznini düzenleyin.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Kullanıcı IP adresleri genellikle otomatik yasaklama kuralları, denetleme ve spam önleme amacıyla toplanır. IP Anonimleştirmeyi etkinleştirmek, sitede herhangi bir amaçla takip edilen tüm IP adreslerini anonimleştirecek ve bu araçların etkinliğini azaltacaktır. Bu ayarda yapılan değişiklikler geriye dönük değildir.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Vanilla\'daki profil sayfalarından kendi avatarlarını değiştirme iznini düzenleyin.';
 $Definition['Garden.StatisticsDisabled'] = 'Yapılandırma dosyanızda özellikle Vanilya İstatistikleri\'ni devre dışı bıraktınız.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Bu forum bir test ortamında çalışıyor gibi görünüyor veya başka bir şekilde özel bir IP bildiriyor. Varsayılan olarak, özel IP\'lerde çalışan forumlar izlenmez.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Forumunuza internetten erişilebildiğinden eminseniz, istatistikleri burada bildirmeye zorlayabilirsiniz:';
@@ -129,7 +127,7 @@ $Definition['Learn about custom routing.'] = 'Özel yönlendirme hakkında bilgi
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Forumunuzun görünüşünü ve hissini nasıl değiştireceğinizi öğrenin: logonuzu yükleyin, ana sayfanızı ayarlayın, bir tema seçin ve özelleştirin.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Forumunuzun temel işlevlerini nasıl kullanacağınızı öğrenin.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Yerel ayarlar, sitenizdeki diğer dilleri desteklemenizi sağlar. Burada kullanılabilir yapmak istediğiniz yerel ayarları etkinleştirin ve devre dışı bırakın.';
-$Definition['Lockout Time (seconds)'] = "Kilitleme Süresi (saniye)";
+$Definition['Lockout Time (seconds)'] = 'Kilitleme Süresi (saniye)';
 $Definition['LogoDescription'] = 'Banner logosu sitenizin üstünde görünür.';
 $Definition['LogoDisclaimer'] = 'Tema düzenleyici ile yapılan temalar ve bazı özel temalar bu ayarı kullanmaz.';
 
@@ -144,10 +142,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobil temalar, sitenizin görünümünü ve hissini daha küçük cihazlarda değiştirmenize olanak tanır.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Bu derinlikten daha derin yuvalanmış kategoriler, virgülle ayrılmış bir listeye yerleştirilir.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Yeni Düzen Düzenleyici, Stil Rehberinizdeki (resmi tema düzenleyici) tema setini devralır. <1>Daha fazlasını öğrenin</1>';
+$Definition['Need More Help?'] = 'Daha Fazla Yardıma mı ihtiyacınız var?';
+$Definition['Need more help?'] = 'Daha fazla yardıma mı ihtiyacınız var?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Bu derinlikten daha derin yuvalanmış kategoriler, virgülle ayrılmış bir listeye yerleştirilir.';
+$Definition['New Embed System'] = 'Yeni Gömme Sistemi';
+$Definition['New Quick Links'] = 'Yeni Hızlı Bağlantılar';
+$Definition['New Search Page'] = 'Yeni Arama Sayfası';
 $Definition['No Anonymization'] = 'Anonimleştirme Yok';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Sitenin, e-posta onayını kullanmak için varsayılan olarak "onaylanmamış" bir role ihtiyacı var. Lütfen bu ayarı etkinleştirmek için bir tane ekleyin.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Temanızı önizlerken beklediğiniz şeyi almıyor musunuz?';
 $Definition['Notify me when people comment on my addons.'] = 'Kullanıcılar eklentilerime yorum yaptığında beni haberdar et.';
 
@@ -156,8 +158,8 @@ $Definition['OrgDescription'] = 'Organizasyon ismin SEO microdata ve JSON+LD iç
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Geçersiz kılınan görünümlerin veya tema kancalarının istenmeyen yan etkileri olabilir ve önizlenmezler.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>Kısmi Anonimleştirme,</strong> IP adresinin yalnızca son sekizlisini anonimleştirir. Örneğin 254.230.05.153, 254.230.05.0 olur. Bu, IP yasağı kurallarının çalışmasına izin verirken bir miktar anonimleştirme sağlar.";
-$Definition['Partial Anonymization'] = "Kısmi Anonimleştirme";
+$Definition['Partial Anonymization'] = 'Kısmi Anonimleştirme';
+$Definition['PartialAnonymization.Description'] = '<strong>Kısmi Anonimleştirme,</strong> IP adresinin yalnızca son sekizlisini anonimleştirir. Örneğin 254.230.05.153, 254.230.05.0 olur. Bu, IP yasağı kurallarının çalışmasına izin verirken bir miktar anonimleştirme sağlar.';
 $Definition['Password.MinLength'] = 'Parola oluşturma ve sıfırlama sayfalarında kullanıcı parolaları için izin verilen minimum karakter uzunluğu.';
 $Definition['Please choose an authenticator to configure.'] = 'Lütfen yapılandırmak için bir onaylayıcı seçin.';
 $Definition['PluginHelp'] = 'Eklentiler sitenize işlevsellik eklemenizi sağlar. %s Klasörünüze  <br /> bir eklenti eklendikten sonra, buradan etkinleştirebilir veya devre dışı bırakabilirsiniz.';
@@ -195,11 +197,13 @@ $Definition['Session Timeout'] = 'Oturum zaman aşımına uğradı';
 $Definition['ShareImageDescription'] =
     'Birisi sitenizden bir bağlantı paylaştığında sayfadan bir resim almaya çalışırız. Sayfada resim yoksa, bu resmi kullanırız. Görüntü en az 50×50 olmalıdır, ancak 200×200 önerilir.';
 $Definition['Show all possible pocket locations.'] = 'Tüm olası cep konumlarını göstermek için bu seçeneği açın. Bu seçeneği açmak, sadece yerleri yönetebilecek kullanıcılara yerleri gösterecektir.';
-$Definition['SignIn.LockoutTime'] = "Bir kullanıcının oturum açma girişimi sayısını aştıktan sonra oturum açmasının engellendiği süre.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Aşağıdaki temalarla çalışmak için bazı temaların güncellenmesi gerekebilir. Temanızı güncellerken özelliği devre dışı bırakabilirsiniz.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Özel kısıtlama: Yalnızca Garden.Curation.Manage izni olan kullanıcılar bu reaksiyonu kullanabilir.';
+$Definition['SignIn.LockoutTime'] = 'Bir kullanıcının oturum açma girişimi sayısını aştıktan sonra oturum açmasının engellendiği süre.';
+$Definition['Solid'] = 'Katı';
+$Definition['Some browsers support a color for the address bar.'] = 'Bazı tarayıcılar adres çubuğu için bir rengi destekler.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Bazı eski temalar tam düzenleme özelliğini desteklemez. Bir temanın neyi desteklediğini görmek için düzenlemelerin nerede etkili olacağını görmek için imleci adının üzerine getirebilirsiniz.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Aşağıdaki temalarla çalışmak için bazı temaların güncellenmesi gerekebilir. Temanızı güncellerken özelliği devre dışı bırakabilirsiniz.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Bazen Vanilla sitenizi başka bir sitenin içine gömmek istersiniz. Vanilla\'nın yerleştirme sistemi bunun için kolay bir yol sunuyor. Gömülü bir site kullanırken performans ödünleşimleri vardır, bu nedenle alternatifler ve ideal kullanım durumları için belgelere bakın.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Özel kısıtlama: Yalnızca Garden.Curation.Manage izni olan kullanıcılar bu reaksiyonu kullanabilir.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Bir yasak oluştururken kısmi ya da tam bir eşleşme belirt.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Sitenizi burada nasıl tanımladığınızı düşünerek biraz zaman geçirin. Sitenize anlamlı bir başlık ve kısa bir açıklama vermek, arama motorlarında konumunuzu belirlemekte ve sağlamlaştırmakta yardımcı olabilir.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Logo ekleyerek ve renkleri özelleştirerek e-postalarınızı yükseltin.';

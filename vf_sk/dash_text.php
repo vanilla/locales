@@ -18,11 +18,9 @@ $Definition['AddressBarColorDescription'] = 'Niektoré prehliadače podporujú f
 $Definition['AddonProblems'] = '<h2>Máte problémy?</h2><p>Ak máte problém s doplnkom a neviete používať vašu webovú stránku, môžete ho vypnúť manuálne editovaním:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Upozorniť používateľov, ak kliknú na odkaz v príspevku, ktorý ich povedie mimo fóra. Používatelia nebudú varovaní, keď nasledujú odkazy, ktoré sa zhodujú s dôveryhodnou doménou';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Všetky kategórie zobrazujú selekciu 5 posledných diskusií v nej';
-$Definition['Allow links to be transformed'] =
-    'Umožňujú transformáciu odkazov na vložené reprezentácie v diskusiách a komentároch. Napríklad odkaz YouTube sa zmení na vložené video.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Umožnite používateľom s povolením %s zmeniť svoje avatary zo svojich profilových stránok vo Vanille.';
-$Definition['Anonymize IP Addresses'] = "Anonymizovať IP adresy";
+$Definition['Allow links to be transformed'] = 'Umožňujú transformáciu odkazov na vložené reprezentácie v diskusiách a komentároch. Napríklad odkaz YouTube sa zmení na vložené video.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Umožnite používateľom s povolením %s zmeniť svoje avatary zo svojich profilových stránok vo Vanille.';
+$Definition['Anonymize IP Addresses'] = 'Anonymizovať IP adresy';
 $Definition['ApplicationHelp'] = 'Aplikácie vám umožňujú pridať veľké skupiny funkčnosti na vašu stránku.<br />Akonáhle bola aplikácia pridaná do vášho %s adresára, môžete ju zapnúť alebo vypnúť tu.';
 $Definition['Apply Layout'] = 'Použiť rozloženie';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ste si istý(á) že ste zadal(a) správneho hostiteľa databázy? Nepomýlil(a) ste sa? Databáza vrátila: <code>%s</code>';
@@ -85,16 +83,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Napríklad môžete zakázať všetkých používateľov s mailovými adresami z „example.com“, ak pridáte zákaz typu email s hodnotou „*@example.com“.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Na účely SEO sú roboti vyhľadávačov vylúčené z toho, aby boli nútené prezerať fórum vo vzdialenej URL.';
 $Definition['Foundation Layout'] = 'Rozloženie nadácie';
-$Definition['FullAnonymization.Description'] = "<strong>Úplná anonymizácia</strong> nahradí každú jednu IP adresu adresou 0.0.0.0, čo efektívne odopiera aplikácii akýkoľvek prístup k práci s IP adresami. Pravidlá zákazu IP v tomto prípade nebudú fungovať vôbec.";
-$Definition['Full Anonymization'] = "Úplná anonymizácia";
+$Definition['Full Anonymization'] = 'Úplná anonymizácia';
+$Definition['FullAnonymization.Description'] = '<strong>Úplná anonymizácia</strong> nahradí každú jednu IP adresu adresou 0.0.0.0, čo efektívne odopiera aplikácii akýkoľvek prístup k práci s IP adresami. Pravidlá zákazu IP v tomto prípade nebudú fungovať vôbec.';
+$Definition['Full Bleed'] = 'Plné krvácanie';
 
 $Definition['Garden.Import.Complete.Description'] = 'Úspešne si dokončil import.
 Klikni <b>Dokončné</b> ked budeš pripravený.';
 $Definition['Garden.Import.Continue.Description'] = 'Zdá sa, že ste v strede importu. Vyberte jednu z nasledujúcich možností.';
 $Definition['Garden.Import.InputInstructions'] = 'Zadajte email a heslo administrátora z importovaných údajov .';
-$Definition['Garden.Privacy.IPs.Description'] = "IP adresy používateľov sa zvyčajne zhromažďujú na účely automatických pravidiel zákazu, moderovania a prevencie spamu. Povolenie anonymizácie IP anonymizuje všetky IP adresy sledované na stránke na akýkoľvek účel a zníži účinnosť týchto nástrojov. Zmeny tohto nastavenia nie sú retroaktívne.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Záhrada.Profily.Upravte povolenie na zmenu vlastných avatarov z ich profilových stránok vo Vanille.';
+$Definition['Garden.Privacy.IPs.Description'] = 'IP adresy používateľov sa zvyčajne zhromažďujú na účely automatických pravidiel zákazu, moderovania a prevencie spamu. Povolenie anonymizácie IP anonymizuje všetky IP adresy sledované na stránke na akýkoľvek účel a zníži účinnosť týchto nástrojov. Zmeny tohto nastavenia nie sú retroaktívne.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Záhrada.Profily.Upravte povolenie na zmenu vlastných avatarov z ich profilových stránok vo Vanille.';
 $Definition['Garden.StatisticsDisabled'] = 'V konfiguračnom súbore ste konkrétne zakázali štatistiku Vanilla.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Zdá sa, že toto fórum beží v testovacom prostredí alebo inak hlási súkromnú IP adresu. Fóra, bežiace na súkromných IP adresách, sa štandardne nesledujú.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Ak ste si istí, že vaše fórum je prístupné z internetu, môžete ho priviesť k hláseniu štatistiky sem:';
@@ -130,7 +128,7 @@ $Definition['Learn about custom routing.'] = 'Prečítajte si ďalšie informác
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Naučte sa úplne zmeniť vzhľad a celkový dojem fóra: nahrajte svoje logo, nastavte svoju domovskú stránku, vyberte tému a prispôsobte si to.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Naučte sa, ako používať základné funkcie vášho fóra.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Miestne nastavenia vám umožňujú podporovať iné jazyky na vašej stránke. Môžete povoliť alebo zakázať miestne nastavenia, ktoré chcete sprístupniť.';
-$Definition['Lockout Time (seconds)'] = "Čas uzamknutia (sekundy)";
+$Definition['Lockout Time (seconds)'] = 'Čas uzamknutia (sekundy)';
 $Definition['LogoDescription'] = 'Logo bannera sa zobrazí v hornej časti stránky.';
 $Definition['LogoDisclaimer'] = 'Témy vytvorené pomocou editora motívov a niektoré vlastné motívy toto nastavenie nepoužívajú.';
 
@@ -145,10 +143,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Témy pre mobilné zariadenia vám umožňujú zmeniť vzhľad a dojem z vašich stránok na menších zariadeniach.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Vnorené kategórie, ktoré sú hlbšie ako táto hĺbka, sa umiestnia do zoznamu oddeleného čiarkami.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Poznámka: Nový editor rozloženia zdedí tému nastavenú vo vašej príručke štýlov (formálne editor tém). <1>Zistite viac</1>';
+$Definition['Need More Help?'] = 'Potrebujete ďalšiu pomoc?';
+$Definition['Need more help?'] = 'Potrebujete ďalšiu pomoc?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Vnorené kategórie, ktoré sú hlbšie ako táto hĺbka, sa umiestnia do zoznamu oddeleného čiarkami.';
+$Definition['New Embed System'] = 'Nový systém vkladania';
+$Definition['New Quick Links'] = 'Nové rýchle odkazy';
+$Definition['New Search Page'] = 'Nová stránka vyhľadávania';
 $Definition['No Anonymization'] = 'Žiadna anonymizácia';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Na používanie e-mailového potvrdenia je potrebné, aby stránka mala predvolený typ „nepotvrdené“. Pridajte ho na povolenie tohto nastavenia.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Nezobrazuje sa vám to, čo očakávate, keď si ukážete svoj motív?';
 $Definition['Notify me when people comment on my addons.'] = 'Upozorniť ma, keď ľudia okomentujú moje doplnky.';
 
@@ -157,8 +159,8 @@ $Definition['OrgDescription'] = 'Názov vašej organizácie sa používa na mikr
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Prekryté zobrazenia alebo témy môžu mať nezamýšľané vedľajšie účinky a nie sú zobrazené v ukážke.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>Čiastočná anonymizácia</strong> anonymizuje iba posledný oktet IP adresy. Napríklad 254.230.05.153 by sa zmenilo na 254.230.05.0. To poskytuje určitú anonymizáciu a zároveň umožňuje fungovanie pravidiel zákazu IP.";
-$Definition['Partial Anonymization'] = "Čiastočná anonymizácia";
+$Definition['Partial Anonymization'] = 'Čiastočná anonymizácia';
+$Definition['PartialAnonymization.Description'] = '<strong>Čiastočná anonymizácia</strong> anonymizuje iba posledný oktet IP adresy. Napríklad 254.230.05.153 by sa zmenilo na 254.230.05.0. To poskytuje určitú anonymizáciu a zároveň umožňuje fungovanie pravidiel zákazu IP.';
 $Definition['Password.MinLength'] = 'Minimálna povolená dĺžka znakov pre heslá používateľov na stránkach na vytváranie a resetovanie hesla.';
 $Definition['Please choose an authenticator to configure.'] = 'Vyberte autentifikátor, ktorý chcete nakonfigurovať.';
 $Definition['PluginHelp'] = 'Rozšírenia vám umožňujú pridať funkčnosť na svoje stránky. <br />Po pridaní rozšírenia do svojho %s priečinka ho tu môžete povoliť alebo zakázať.';
@@ -196,11 +198,13 @@ $Definition['Session Timeout'] = 'Časový limit relácie';
 $Definition['ShareImageDescription'] =
     'Keď niekto zdieľa odkaz z vašej stránky, pokúsime sa získať obrázok zo stránky. Ak na stránke nie je obrázok, použijeme namiesto neho tento obrázok. Obrázok by mal mať aspoň 50×50, ale odporúčame 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Zapnite túto možnosť na zobrazenie všetkých možných lokalít vreciek. Zapnutie tejto možnosti zobrazí lokality iba používateľom, ktorí môžu spravovať vrecká.';
-$Definition['SignIn.LockoutTime'] = "Čas, počas ktorého je používateľovi zablokované prihlásenie po prekročení počtu pokusov o prihlásenie.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Niektoré témy bude možno potrebné aktualizovať, aby fungovali podľa nasledujúcich kategórií. Túto funkciu môžete zakázať počas aktualizácie témy.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Osobitné obmedzenie: Túto reakciu môžu používať iba používatelia s povolením záhrady.Kmeň.';
+$Definition['SignIn.LockoutTime'] = 'Čas, počas ktorého je používateľovi zablokované prihlásenie po prekročení počtu pokusov o prihlásenie.';
+$Definition['Solid'] = 'tuhý';
+$Definition['Some browsers support a color for the address bar.'] = 'Niektoré prehliadače podporujú farbu panela s adresou.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Niektoré staršie motívy nepodporujú úplné možnosti úprav. Ak chcete zistiť, čo téma podporuje, umiestnite kurzor myši na jej názov a uvidíte, kde sa úpravy prejavia.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Niektoré témy bude možno potrebné aktualizovať, aby fungovali podľa nasledujúcich kategórií. Túto funkciu môžete zakázať počas aktualizácie témy.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Niekedy chcete vložiť svoj web Vanilla do iného webu. Vanilkový embed systém ponúka jednoduchú cestu k tomu. Pri používaní vloženého webu existujú kompromisy vo výkone, preto si v dokumentácii pozrite alternatívy a ideálne prípady použitia.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Osobitné obmedzenie: Túto reakciu môžu používať iba používatelia s povolením záhrady.Kmeň.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Zadajte čiastočnú alebo úplnú zhodu na vytvorenie zákazu';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Trochu popremýšľate o tom, ako tu popisujete svoje stránky. Ak dáte svojim stránkam zmysluplný názov a výstižný popis, mohlo by to pomôcť vašej pozícii vo vyhľadávačoch.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Vylepšite svoje emaily pridaním loga a prispôsobením farieb.';

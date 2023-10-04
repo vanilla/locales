@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = 'דפדפנים מסוימים תו�
 $Definition['AddonProblems'] = '<h2>בעיות?</h2><p>אם משהו הולך שלא כשורה עם תוסף אינך יכול להשתמש באתר שלך, באפשרותך לבטל אותם ידנית על ידי עריכת:</p>%s';
 $Definition['Alert users if they click external link.'] = 'התריע על משתמשים אם הם לוחצים על קישור בפוסט שיוביל אותם הרחק מהפורום. משתמשים לא יזהירו בעת ביצוע קישורים התואמים לתחום מהימן';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'כל הקטגוריות הרשומות עם 5 הדיונים האחרונים תחת כל אחת מהן';
-$Definition['Allow links to be transformed'] =
-    'אפשר להפוך את הקישורים לייצוגים משובצים בדיונים והערות. לדוגמה, קישור ביוטיוב יהפוך לסרטון משובץ.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'אפשר למשתמשים עם הרשאה %s לשנות את האווטרים שלהם מדפי הפרופיל שלהם בוונילה.';
-$Definition['Anonymize IP Addresses'] = "אנונימיז את כתובות ה-IP";
+$Definition['Allow links to be transformed'] = 'אפשר להפוך את הקישורים לייצוגים משובצים בדיונים והערות. לדוגמה, קישור ביוטיוב יהפוך לסרטון משובץ.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'אפשר למשתמשים עם הרשאה %s לשנות את האווטרים שלהם מדפי הפרופיל שלהם בוונילה.';
+$Definition['Anonymize IP Addresses'] = 'אנונימיז את כתובות ה-IP';
 $Definition['ApplicationHelp'] = 'אפליקציות מאפשרות לך להוסיף פונקציונליות רבה לאתר שלך.<br />
 ברגע שהאפליקציה נמצאת בתיקיית %s , תוכל לאפשר או לכבות אותה כאן.';
 $Definition['Apply Layout'] = 'החל פריסה';
@@ -87,15 +85,15 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'למשל, באפשרותך לאסור את כניסתם של כל המשתמשים עם כתובות אימייל של example.com על ידי הוספת איסור כניסה מסוג אימייל עם הערך "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'בשביל לקדם את האתר במנועי חיפוש, הגישה לכתובת ה-URL הנוכחית חסומה לרובוטי חיפוש.';
 $Definition['Foundation Layout'] = 'פריסת קרן';
-$Definition['FullAnonymization.Description'] = "<strong>אנונימיזציה מלאה</strong> מחליפה כל כתובת IP בודדת ב-0.0.0.0 המונעת למעשה מהאפליקציה כל גישה לעבודה עם כתובות IP. כללי איסור IP לא יעבדו כלל במקרה זה.";
-$Definition['Full Anonymization'] = "אנונימיזציה מלאה";
+$Definition['Full Anonymization'] = 'אנונימיזציה מלאה';
+$Definition['FullAnonymization.Description'] = '<strong>אנונימיזציה מלאה</strong> מחליפה כל כתובת IP בודדת ב-0.0.0.0 המונעת למעשה מהאפליקציה כל גישה לעבודה עם כתובות IP. כללי איסור IP לא יעבדו כלל במקרה זה.';
+$Definition['Full Bleed'] = 'דימום מלא';
 
 $Definition['Garden.Import.Complete.Description'] = 'סיימת בהצלחה ייבוא. לחצו <b>סיום</b> לסיום התהליך.';
 $Definition['Garden.Import.Continue.Description'] = 'נראה כאילו אתה באמצע יבוא. בחר אחת מהאפשרויות הבאות.';
 $Definition['Garden.Import.InputInstructions'] = 'הכנס את הדוא"ל והסיסמא של משתמש האדמין מהמידע שייובא.';
-$Definition['Garden.Privacy.IPs.Description'] = "כתובות IP של משתמשים נאספות בדרך כלל למטרות איסור אוטומטיות, ניהול ומניעת דואר זבל. הפעלת אנונימיזציה של IP תגרום לאנונימיות של כל כתובות ה-IP המעקבות באתר לכל מטרה, ותפחית את האפקטיביות של כלים אלו. שינויים בהגדרה זו אינם רטרואקטיביים.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles. ערוך הרשאה לשנות את האווטרים שלהם מדפי הפרופיל שלהם בוונילה.';
+$Definition['Garden.Privacy.IPs.Description'] = 'כתובות IP של משתמשים נאספות בדרך כלל למטרות איסור אוטומטיות, ניהול ומניעת דואר זבל. הפעלת אנונימיזציה של IP תגרום לאנונימיות של כל כתובות ה-IP המעקבות באתר לכל מטרה, ותפחית את האפקטיביות של כלים אלו. שינויים בהגדרה זו אינם רטרואקטיביים.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles. ערוך הרשאה לשנות את האווטרים שלהם מדפי הפרופיל שלהם בוונילה.';
 $Definition['Garden.StatisticsDisabled'] = 'ביטלת במיוחד את סטטיסטיקס Vanilla בקובץ ההגדרות שלך.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'נראה שהפורום הזה עובד בסביבת בדיקה, או שהוא מדווח לIP פרטי. בברירת מחדל, פורומים הרצים על IP פרטי לא נעקבים.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'הנכם בטוחים שהפורום נגיש מהאינטרנט באפשרותך להכריח אותו לדווח על סטטיסטיקות כאן: ';
@@ -131,7 +129,7 @@ $Definition['Learn about custom routing.'] = 'למד/י על ניתוב מותא
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'למד איך לשנות חלוטין את המראה וההרגשה של הפורום: הוסף לוגו, קבע את הפורום כדף הבית, בחר ערכת נושא ותעצב את הפורום לפי טעמך האישי.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'הדרכה על האפשרויות הבסיסיות של הפורום';
 $Definition['Locales allow you to support other languages on your site.'] = 'איזורים מאפשרים לך לתמוך בשפות אחרות באתר שלך. אפשר ובטל איזורים שאתרצה להפוך לזמינים כאן.';
-$Definition['Lockout Time (seconds)'] = "זמן נעילה (שניות)";
+$Definition['Lockout Time (seconds)'] = 'זמן נעילה (שניות)';
 $Definition['LogoDescription'] = 'לוגו הבאנר מופיע בראש האתר שלך.';
 $Definition['LogoDisclaimer'] = 'ערכות נושא שנוצרו עם עורך הנושאים וכמה ערכות נושא מותאמות אישית אינן משתמשות בהגדרה זו.';
 
@@ -146,10 +144,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'ערכות נושא לנייד מאפשרות לך לשנות את המראה והתחושה של האתר שלך במכשירים קטנים יותר.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'קטגוריות מקוננות עמוקות יותר מעומק זה יוצבו ברשימה המוגדרת בפסיקים.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'הערה עורך ה-Layout החדש יירש את ערכת הנושא שהוגדרה במדריך הסגנונות שלך (עורך ערכות נושא באופן רשמי). <1>למידע נוסף</1>';
+$Definition['Need More Help?'] = 'צריכים עזרה?';
+$Definition['Need more help?'] = 'צריך עוד עזרה?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'קטגוריות מקוננות עמוקות יותר מעומק זה יוצבו ברשימה המוגדרת בפסיקים.';
+$Definition['New Embed System'] = 'מערכת הטמעה חדשה';
+$Definition['New Quick Links'] = 'קישורים מהירים חדשים';
+$Definition['New Search Page'] = 'דף חיפוש חדש';
 $Definition['No Anonymization'] = 'אין אנונימיזציה';
-$Definition['No unconfirmed role available for email confirmation.'] = 'האתר צריך תפקיד עם סוג ברירת המחדל "לא מאושר" להשתמש אישור דוא"ל. הוסף אחד כדי לאפשר הגדרה זו.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'לא משיגים את מה שאתה מצפה כשאתה מקדימה את הנושא שלך?';
 $Definition['Notify me when people comment on my addons.'] = 'תודיע לי כשמשתמשים מגיבים על התוספים שלי.';
 
@@ -158,8 +160,8 @@ $Definition['OrgDescription'] = 'נעשה שימוש בשם הארגון שלך 
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'תצוגות או ווי ערכות נושא מורכבות יכולות לגרום לתופעות לוואי לא מכוונות ולא ניתן לראות בתצוגה מקדימה.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>אנונימיזציה חלקית</strong> עושה אנונימיות רק את השמינייה האחרונה של כתובת ה-IP. לדוגמה 254.230.05.153 יהפוך ל-254.230.05.0. זה מספק אנונימיזציה מסוימת תוך שהוא מאפשר לכללי איסור IP לפעול.";
-$Definition['Partial Anonymization'] = "אנונימיזציה חלקית";
+$Definition['Partial Anonymization'] = 'אנונימיזציה חלקית';
+$Definition['PartialAnonymization.Description'] = '<strong>אנונימיזציה חלקית</strong> עושה אנונימיות רק את השמינייה האחרונה של כתובת ה-IP. לדוגמה 254.230.05.153 יהפוך ל-254.230.05.0. זה מספק אנונימיזציה מסוימת תוך שהוא מאפשר לכללי איסור IP לפעול.';
 $Definition['Password.MinLength'] = 'אורך תו מינימלי המותר לסיסמאות של משתמשים בדפי יצירה ואיפוס של סיסמה.';
 $Definition['Please choose an authenticator to configure.'] = 'אנא בחר מאמת כדי להגדיר.';
 $Definition['PluginHelp'] = 'תוספים מאפשרים לך להוסיף פונקציונליות לאתר שלך. <br />ברגע שתוסף הוסף לתיקיית ה-%s שלך, באפשרותך לאפשר או לבטל אותו כאן.';
@@ -197,11 +199,13 @@ $Definition['Session Timeout'] = 'זמן קצוב להפעלה';
 $Definition['ShareImageDescription'] =
     'כאשר מישהו משתף קישור מהאתר שלך אנו מנסים לתפוס תמונה מהדף. אם אין תמונה בדף, אנו נשתמש בתמונה זו במקום זאת. התמונה צריכה להיות לפחות 50 × 50, אך אנו ממליצים על 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'הפעל אפשרות זאת כדי להראות את כל מקומות הכיסים האפשריים. הפעלת אפשרות זאת תראה המיקומים רק למשתמשים שיכולים לנהל כיסים.';
-$Definition['SignIn.LockoutTime'] = "משך הזמן שמשתמש נחסם מלהתחבר לאחר חריגה ממספר ניסיונות הכניסה.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'יתכן שיהיה צורך לעדכן כמה ערכות נושא כדי לעבוד עם הקטגוריות שלהלן. אתה יכול להשבית את התכונה בזמן שאתה מעדכן את הנושא שלך.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'הגבלה מיוחדת: רק משתמשים עם הרשאה Garden.Curation.Manage רשאים להשתמש בתגובה זו.';
+$Definition['SignIn.LockoutTime'] = 'משך הזמן שמשתמש נחסם מלהתחבר לאחר חריגה ממספר ניסיונות הכניסה.';
+$Definition['Solid'] = 'מוצק';
+$Definition['Some browsers support a color for the address bar.'] = 'דפדפנים מסוימים תומכים בצבע עבור שורת הכתובת.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'כמה ערכות נושא ישנות יותר אינן תומכות ביכולת עריכה מלאה. כדי לראות במה תומך ערכת נושא, תוכל לרחף מעל השם שלו כדי לראות היכן העריכות ייכנסו לתוקף.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'יתכן שיהיה צורך לעדכן כמה ערכות נושא כדי לעבוד עם הקטגוריות שלהלן. אתה יכול להשבית את התכונה בזמן שאתה מעדכן את הנושא שלך.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'לפעמים אתה רוצה להטמיע את אתר Vanilla שלך בתוך אתר אחר. מערכת ההטמעה של Vanilla מציעה דרך קלה לכך. ישנן פשרות בביצועים בעת שימוש באתר מוטבע, אז בדוק בתיעוד עבור חלופות ומקרי שימוש אידיאליים.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'הגבלה מיוחדת: רק משתמשים עם הרשאה Garden.Curation.Manage רשאים להשתמש בתגובה זו.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'יש לפרט התאמה חלקית או מלאה כשיוצרים איסור כניסה.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'בזבז קצת זמן בנוגע לאיך לתאר את האתר שלך כאן. הענקת כותרת מלאת משמעות לאתר שלך ותיאור תמציתי יכול לעזור למיקום שלך במנועי חיפוש.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'שדרג/י את מראה האימיילים שלך ע"י הוספת לוגו ועיצוב הצבעים לפי טעמך.';

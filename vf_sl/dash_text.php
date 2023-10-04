@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = 'Nekateri brskalniki podpirajo barvo
 $Definition['AddonProblems'] = '<h2>Težave?</h2><p> Če gre kaj narobe z dodatkom in ne morete uporabljati svojega mesta, ga lahko ročno onemogočite tako, da uredite:</p> %s';
 $Definition['Alert users if they click external link.'] = 'Opozorite uporabnike, če kliknejo povezavo v objavi, ki jih bo odpeljala stran od foruma. Uporabniki ne bodo opozorjeni, ko sledijo povezavam, ki se ujemajo z zaupanja vredno domeno';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Vse kategorije so navedene z izborom 5 nedavnih razprav pod vsako';
-$Definition['Allow links to be transformed'] =
-    'Dovolite pretvorbo povezav v vdelane predstavitve v razpravah in komentarjih. Povezava YouTube se bo na primer spremenila v vdelan video.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Dovoli uporabnikom z dovoljenjem %s, da spremenijo lastne avatarje na svojih profilnih straneh v Vaniliji.';
-$Definition['Anonymize IP Addresses'] = "Anonimizirajte naslove IP";
+$Definition['Allow links to be transformed'] = 'Dovolite pretvorbo povezav v vdelane predstavitve v razpravah in komentarjih. Povezava YouTube se bo na primer spremenila v vdelan video.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Dovoli uporabnikom z dovoljenjem %s, da spremenijo lastne avatarje na svojih profilnih straneh v Vaniliji.';
+$Definition['Anonymize IP Addresses'] = 'Anonimizirajte naslove IP';
 $Definition['ApplicationHelp'] = 'Aplikacije vam omogočajo dodajanje velikih skupin funkcij na vaše spletno mesto.<br /> Ko je aplikacija dodana v mapo %s, jo lahko tukaj omogočite ali onemogočite.';
 $Definition['Apply Layout'] = 'Uporabi postavitev';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ali ste prepričani, da ste vnesli pravilno ime gostitelja baze podatkov? Ste se morda zmotili? Baza podatkov je poročala: <code>%s</code>';
@@ -84,15 +82,14 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Vse uporabnike z e-poštnimi naslovi lahko na primer izključite iz »example.com« tako, da dodate prepoved vrste e-pošte z vrednostjo »*@example.com«.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Za namene SEO so pajki iskalnikov izključeni iz tega, da si forum ogledajo na oddaljenem URL-ju.';
 $Definition['Foundation Layout'] = 'Postavitev temeljev';
-$Definition['FullAnonymization.Description'] = "<strong>Popolna anonimizacija</strong> zamenja vsak posamezen naslov IP z 0.0.0.0, kar aplikaciji učinkovito onemogoči dostop do dela z naslovi IP. Pravila prepovedi IP v tem primeru sploh ne bodo delovala.";
-$Definition['Full Anonymization'] = "Popolna anonimizacija";
+$Definition['Full Anonymization'] = 'Popolna anonimizacija';
+$Definition['FullAnonymization.Description'] = '<strong>Popolna anonimizacija</strong> zamenja vsak posamezen naslov IP z 0.0.0.0, kar aplikaciji učinkovito onemogoči dostop do dela z naslovi IP. Pravila prepovedi IP v tem primeru sploh ne bodo delovala.';
 
 $Definition['Garden.Import.Complete.Description'] = 'Uspešno ste zaključili uvoz. Kliknite <b>Končano</b> , ko ste pripravljeni.';
 $Definition['Garden.Import.Continue.Description'] = 'Zdi se, kot da ste sredi uvoza. Izberite eno od naslednjih možnosti.';
 $Definition['Garden.Import.InputInstructions'] = 'Vnesite e-pošto in geslo skrbniškega uporabnika iz podatkov, ki se uvažajo.';
-$Definition['Garden.Privacy.IPs.Description'] = "Naslovi IP uporabnikov se običajno zbirajo za avtomatizirana pravila prepovedi, moderiranje in preprečevanje neželene pošte. Če omogočite anonimizacijo IP-jev, boste anonimizirali vse naslove IP, ki jim sledite na spletnem mestu za kateri koli namen, in zmanjšali učinkovitost teh orodij. Spremembe te nastavitve ne veljajo za nazaj.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Dovoljenje Garden.Profiles.Edit za spreminjanje lastnih avatarjev s strani profila v Vaniliji.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Naslovi IP uporabnikov se običajno zbirajo za avtomatizirana pravila prepovedi, moderiranje in preprečevanje neželene pošte. Če omogočite anonimizacijo IP-jev, boste anonimizirali vse naslove IP, ki jim sledite na spletnem mestu za kateri koli namen, in zmanjšali učinkovitost teh orodij. Spremembe te nastavitve ne veljajo za nazaj.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Dovoljenje Garden.Profiles.Edit za spreminjanje lastnih avatarjev s strani profila v Vaniliji.';
 $Definition['Garden.StatisticsDisabled'] = 'V konfiguracijski datoteki ste izrecno onemogočili Vanilla Statistics.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Zdi se, da ta forum deluje v testnem okolju ali kako drugače poroča o zasebnem IP-ju. Privzeto se forumom, ki delujejo na zasebnih naslovih IP, ne sledi.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Če ste prepričani, da je vaš forum dostopen iz interneta, ga lahko prisilite, da poroča statistiko tukaj:';
@@ -128,7 +125,7 @@ $Definition['Learn about custom routing.'] = 'Več o usmerjanju po meri.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Naučite se popolnoma spremeniti videz in občutek svojega foruma: naložite svoj logotip, nastavite domačo stran, izberite temo in jo prilagodite.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Naučite se uporabljati osnovne funkcije vašega foruma.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Lokalne nastavitve vam omogočajo podporo drugim jezikom na vašem spletnem mestu. Omogočite in onemogočite lokalne nastavitve, ki jih želite dati na voljo tukaj.';
-$Definition['Lockout Time (seconds)'] = "Čas zaklepanja (sekunde)";
+$Definition['Lockout Time (seconds)'] = 'Čas zaklepanja (sekunde)';
 $Definition['LogoDescription'] = 'Logotip pasice se prikaže na vrhu vašega spletnega mesta.';
 $Definition['LogoDisclaimer'] = 'Teme, narejene z urejevalnikom tem, in nekatere teme po meri ne uporabljajo te nastavitve.';
 
@@ -143,10 +140,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobilne teme vam omogočajo, da spremenite videz in občutek vašega spletnega mesta na manjših napravah.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Ugnezdene kategorije, ki so globlje od te globine, bodo uvrščene na seznam, ločen z vejico.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Opomba: novi urejevalnik postavitve bo podedoval temo, nastavljeno v vašem vodniku po slogu (formalno urejevalnik tem). <1>Izvedite več</1>';
+$Definition['Need More Help?'] = 'Potrebujete več pomoči?';
+$Definition['Need more help?'] = 'Potrebujete več pomoči?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Ugnezdene kategorije, ki so globlje od te globine, bodo uvrščene na seznam, ločen z vejico.';
+$Definition['New Embed System'] = 'Nov vdelani sistem';
+$Definition['New Quick Links'] = 'Nove hitre povezave';
+$Definition['New Search Page'] = 'Nova iskalna stran';
 $Definition['No Anonymization'] = 'Brez anonimizacije';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Spletno mesto potrebuje vlogo s privzeto vrsto »nepotrjeno« za uporabo potrditve po e-pošti. Dodajte enega, da omogočite to nastavitev.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Ne dobite tega, kar pričakujete, ko si predogledate svojo temo?';
 $Definition['Notify me when people comment on my addons.'] = 'Obvesti me, ko ljudje komentirajo moje dodatke.';
 
@@ -155,8 +156,8 @@ $Definition['OrgDescription'] = 'Ime vaše organizacije se uporablja za mikropod
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Preglaseni pogledi ali kljukice za teme imajo lahko nenamerne stranske učinke in niso prikazani v predogledu.';
 
-$Definition['PartialAnonymization.Description'] = "<strong>Delna anonimizacija</strong> anonimizira samo zadnji oktet naslova IP. Na primer 254.230.05.153 bi postal 254.230.05.0. To zagotavlja nekaj anonimizacije, hkrati pa še vedno omogoča delovanje pravil prepovedi IP.";
-$Definition['Partial Anonymization'] = "Delna anonimizacija";
+$Definition['Partial Anonymization'] = 'Delna anonimizacija';
+$Definition['PartialAnonymization.Description'] = '<strong>Delna anonimizacija</strong> anonimizira samo zadnji oktet naslova IP. Na primer 254.230.05.153 bi postal 254.230.05.0. To zagotavlja nekaj anonimizacije, hkrati pa še vedno omogoča delovanje pravil prepovedi IP.';
 $Definition['Password.MinLength'] = 'Najmanjša dovoljena dolžina znakov za gesla uporabnikov na straneh za ustvarjanje in ponastavitev gesel.';
 $Definition['Please choose an authenticator to configure.'] = 'Izberite avtentifikator za konfiguracijo.';
 $Definition['PluginHelp'] = 'Vtičniki vam omogočajo, da svojemu spletnemu mestu dodate funkcionalnost.<br /> Ko je vtičnik dodan vaši mapi %s, ga lahko omogočite ali onemogočite tukaj.';
@@ -194,11 +195,13 @@ $Definition['Session Timeout'] = 'Časovna omejitev seje';
 $Definition['ShareImageDescription'] =
     'Ko nekdo deli povezavo z vašega mesta, poskušamo zgrabiti sliko s strani. Če na strani ni slike, bomo namesto nje uporabili to sliko. Slika naj bo velika vsaj 50×50, priporočamo pa 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Vklopite to možnost, da prikažete vse možne lokacije žepov. Če vklopite to možnost, bodo lokacije prikazane le uporabnikom, ki lahko upravljajo žepe.';
-$Definition['SignIn.LockoutTime'] = "Koliko časa je uporabniku blokirana prijava po prekoračitvi števila poskusov prijave.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Nekatere teme bo morda treba posodobiti, da bodo delovale s sledenjem kategorij. Med posodabljanjem teme lahko to funkcijo onemogočite.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Posebna omejitev: Samo uporabniki z dovoljenjem Garden.Curation.Manage lahko uporabljajo to reakcijo.';
+$Definition['SignIn.LockoutTime'] = 'Koliko časa je uporabniku blokirana prijava po prekoračitvi števila poskusov prijave.';
+$Definition['Solid'] = 'Trdna';
+$Definition['Some browsers support a color for the address bar.'] = 'Nekateri brskalniki podpirajo barvo naslovne vrstice.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Nekatere starejše teme ne podpirajo popolne možnosti urejanja. Če si želite ogledati, kaj tema podpira, se pomaknite nad njeno ime in si oglejte, kje bodo spremembe začele veljati.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Nekatere teme bo morda treba posodobiti, da bodo delovale s sledenjem kategorij. Med posodabljanjem teme lahko to funkcijo onemogočite.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Včasih želite svoje spletno mesto Vanilla vdelati v drugo spletno mesto. Vanillin sistem za vdelavo ponuja preprost način za to. Pri uporabi vdelanega mesta obstajajo kompromisi glede zmogljivosti, zato preverite dokumentacijo za alternative in idealne primere uporabe.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Posebna omejitev: Samo uporabniki z dovoljenjem Garden.Curation.Manage lahko uporabljajo to reakcijo.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Pri ustvarjanju prepovedi določite delno ali popolno ujemanje.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Nekaj časa razmislite o tem, kako tukaj opisujete svoje spletno mesto. Če svojemu spletnemu mestu daste smiseln naslov in jedrnat opis, bi to lahko pripomoglo k vašemu položaju v iskalnikih.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Popestrite svoja e-poštna sporočila z dodajanjem logotipa in prilagajanjem barv.';

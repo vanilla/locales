@@ -17,11 +17,9 @@ $Definition['AddressBarColorDescription'] = 'Mae rhai porwyr yn cefnogi lliw ar 
 $Definition['AddonProblems'] = '<h2>Problemau?</h2> <p>Os aiff rhywbeth o\'i le gyda ychwanegyn fel na allwch ddefnyddio\'ch safle, gallwch eu hanalluogi eich hun trwy olygu:</p> %s';
 $Definition['Alert users if they click external link.'] = 'Rhybuddiwch ddefnyddwyr os ydyn nhw\'n clicio dolen mewn post a fydd yn eu harwain i ffwrdd o\'r fforwm. Ni fydd defnyddwyr yn cael eu rhybuddio wrth ddilyn dolenni sy\'n cyfateb i Barth dibynadwy';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Pob categori a restrwyd ynghyd a detholiad o 5 trafodaeth diweddar o bob un';
-$Definition['Allow links to be transformed'] =
-    'Caniatáu i gysylltiadau gael eu trawsnewid yn gynrychioliadau gwreiddio mewn trafodaethau a sylwadau. Er enghraifft, bydd dolen YouTube yn trawsnewid yn fideo wedi\'i fewnosod.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Caniatáu i ddefnyddwyr y caniatâd %s i newid eu avatars eu hunain o\'u tudalennau proffil yn Vanilla.';
-$Definition['Anonymize IP Addresses'] = "Anhysbys Cyfeiriadau IP";
+$Definition['Allow links to be transformed'] = 'Caniatáu i gysylltiadau gael eu trawsnewid yn gynrychioliadau gwreiddio mewn trafodaethau a sylwadau. Er enghraifft, bydd dolen YouTube yn trawsnewid yn fideo wedi\'i fewnosod.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Caniatáu i ddefnyddwyr y caniatâd %s i newid eu avatars eu hunain o\'u tudalennau proffil yn Vanilla.';
+$Definition['Anonymize IP Addresses'] = 'Anhysbys Cyfeiriadau IP';
 $Definition['ApplicationHelp'] = 'Mae rhaglenni yn caniatáu i chi ychwanegu grwpiau mawr o ffwythiannau i\'ch safle. < br / > unwaith y bydd rhaglen wedi\'i ychwanegu at eich ffolder %s, gallwch ei alluogi neu analluogi yma.';
 $Definition['Apply Layout'] = 'Cymhwyso Cynllun';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ydych chi\'n siŵr bod wedi rhoi enw\'r gweinydd cronfa ddata cywir? Ydych chi wedi ei gamdeipio? Adroddodd y gronfa ddata: <code>%s</code>';
@@ -84,16 +82,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Er enghraifft, gallwch wahardd pob defnyddiwr â chyfeiriadau e-bost rhag "example.com" trwy ychwanegu gwaharddiad math e-bost gyda\'r gwerth "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'I ddibenion SEO, mae chwilwyr peiriannol wedi\'u eithrio rhag cael eu gorfodi i weld y fforwm yn yr URL pell.';
 $Definition['Foundation Layout'] = 'Cynllun Sylfaen';
-$Definition['FullAnonymization.Description'] = "<strong>Mae Anonymization Llawn</strong> yn disodli pob cyfeiriad IP unigol gyda 0.0.0.0 i bob pwrpas yn gwadu i'r cais unrhyw fynediad at waith gyda chyfeiriadau IP. Ni fydd rheolau gwahardd IP yn gweithio o gwbl yn yr achos hwn.";
-$Definition['Full Anonymization'] = "Anhysbysiad Llawn";
+$Definition['Full Anonymization'] = 'Anhysbysiad Llawn';
+$Definition['FullAnonymization.Description'] = '<strong>Mae Anonymization Llawn</strong> yn disodli pob cyfeiriad IP unigol gyda 0.0.0.0 i bob pwrpas yn gwadu i\'r cais unrhyw fynediad at waith gyda chyfeiriadau IP. Ni fydd rheolau gwahardd IP yn gweithio o gwbl yn yr achos hwn.';
+$Definition['Full Bleed'] = 'Gwaedu Llawn';
 
 $Definition['Garden.Import.Complete.Description'] = 'Wedi gorffen mewnforio.
    Cliciwch <b>Gorffen</b> pan fyddwch yn barod.';
 $Definition['Garden.Import.Continue.Description'] = 'Mae\'n ymddangos eich bod yng nghanol mewnforio. Dewiswch un o\'r opsiynau canlynol.';
 $Definition['Garden.Import.InputInstructions'] = 'Rhowch e-bost a chyfrinair defnyddiwr gweinyddol o\'r data sy\'n cael ei fewnforio.';
-$Definition['Garden.Privacy.IPs.Description'] = "Mae cyfeiriadau IP defnyddwyr fel arfer yn cael eu casglu at ddibenion rheolau gwahardd awtomataidd, cymedroli ac atal sbam. Bydd galluogi Anhysbysiad IP yn gwneud yr holl gyfeiriadau IP sy'n cael eu holrhain yn y wefan yn ddienw at unrhyw ddiben, a bydd yn lleihau effeithiolrwydd yr offer hyn. Nid yw newidiadau i'r gosodiad hwn yn ôl-weithredol.";
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
-    'Garden.Profiles.Edit caniatâd i newid eu avatars eu hunain o\'u tudalennau proffil yn Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = 'Mae cyfeiriadau IP defnyddwyr fel arfer yn cael eu casglu at ddibenion rheolau gwahardd awtomataidd, cymedroli ac atal sbam. Bydd galluogi Anhysbysiad IP yn gwneud yr holl gyfeiriadau IP sy\'n cael eu holrhain yn y wefan yn ddienw at unrhyw ddiben, a bydd yn lleihau effeithiolrwydd yr offer hyn. Nid yw newidiadau i\'r gosodiad hwn yn ôl-weithredol.';
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit caniatâd i newid eu avatars eu hunain o\'u tudalennau proffil yn Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Rydych chi wedi analluogi Ystadegau Vanilla yn eich ffeil ffurfweddu.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Ymddengys bod y fforwm hwn yn rhedeg mewn amgylchedd prawf, neu fel arall mae\'n adrodd IP preifat. Nid yw fforymau sy\'n rhedeg ar  IPs preifat yn cael eu tracio\'n ddiofyn.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Os ydych chi\'n siŵr eich fod Fforwm yn hygyrch o\'r rhyngrwyd gellir ei alluogi i adrodd ystadegau yma:';
@@ -129,7 +127,7 @@ $Definition['Learn about custom routing.'] = 'Dysgwch am lwybro personol.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Dysgwch sut i newid naws eich fforwm yn llwyr: uwchlwytho eich logo, gosod eich hafan, dewisw thema ac addasu.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Dysgu sut i ddefnyddio swyddogaeth sylfaenol eich Fforwm.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Mae\'r locales yn caniatáu ichi gefnogi ieithoedd eraill ar eich safle. Galluogwch neu analluogwch y locales yr hoffech eu darparu yma.';
-$Definition['Lockout Time (seconds)'] = "Amser cloi allan (eiliadau)";
+$Definition['Lockout Time (seconds)'] = 'Amser cloi allan (eiliadau)';
 $Definition['LogoDescription'] = 'Mae logo\'r faner yn ymddangos ar frig eich gwefan.';
 $Definition['LogoDisclaimer'] = 'Nid yw\'r themâu a wneir gyda\'r golygydd thema a rhai themâu arfer yn defnyddio\'r gosodiad hwn.';
 
@@ -144,10 +142,14 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mae themâu symudol yn caniatáu ichi newid edrychiad a theimlad eich gwefan ar ddyfeisiau llai.';
 
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
-    'Bydd categorïau nythu sy\'n ddyfnach na\'r dyfnder hwn yn cael eu rhoi mewn rhestr wedi\'i therfynu â choma.';
+$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'DS Bydd y Golygydd Gosodiad newydd yn etifeddu\'r thema a osodwyd yn eich Arddull Arddull (golygydd thema gynt). <1> Darganfod mwy</1>';
+$Definition['Need More Help?'] = 'Angen mwy o Help?';
+$Definition['Need more help?'] = 'Angen mwy o help?';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Bydd categorïau nythu sy\'n ddyfnach na\'r dyfnder hwn yn cael eu rhoi mewn rhestr wedi\'i therfynu â choma.';
+$Definition['New Embed System'] = 'System Mewnosod Newydd';
+$Definition['New Quick Links'] = 'Dolenni Cyflym Newydd';
+$Definition['New Search Page'] = 'Tudalen Chwilio Newydd';
 $Definition['No Anonymization'] = 'Dim Anonymization';
-$Definition['No unconfirmed role available for email confirmation.'] = 'Mae angen rôl ar y safle gyda\'r math diofyn "heb ei gadarnhau" er mwyn defnyddio ebost cadarnhau. Ychwanegwch un i alluogi\'r gosodiad hwn.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Ddim yn cael yr hyn rydych chi\'n ei ddisgwyl pan fyddwch chi\'n rhagolwg o\'ch thema?';
 $Definition['Notify me when people comment on my addons.'] = 'Rhoi gwybod i mi pan mae pobl yn gwneud sylwadau ar fy ychwanegion';
 
@@ -156,8 +158,8 @@ $Definition['OrgDescription'] = 'Defnyddir enw eich sefydliad ar gyfer microdata
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Gall golygfeydd gor-guddiedig neu luniau thema gael sgîl-effeithiau anfwriadol ac ni chânt eu rhagolwg.';
 
-$Definition['PartialAnonymization.Description'] = "Dim ond wythawd olaf y cyfeiriad IP y mae <strong>Anonymization Rhannol</strong> yn ei wneud. Er enghraifft byddai 254.230.05.153 yn dod yn 254.230.05.0. Mae hyn yn darparu rhywfaint o anhysbysrwydd tra'n dal i ganiatáu i reolau gwahardd IP weithredu.";
-$Definition['Partial Anonymization'] = "Anhysbysiad Rhannol";
+$Definition['Partial Anonymization'] = 'Anhysbysiad Rhannol';
+$Definition['PartialAnonymization.Description'] = 'Dim ond wythawd olaf y cyfeiriad IP y mae <strong>Anonymization Rhannol</strong> yn ei wneud. Er enghraifft byddai 254.230.05.153 yn dod yn 254.230.05.0. Mae hyn yn darparu rhywfaint o anhysbysrwydd tra\'n dal i ganiatáu i reolau gwahardd IP weithredu.';
 $Definition['Password.MinLength'] = 'Isafswm hyd nod a ganiateir ar gyfer cyfrineiriau defnyddwyr ar dudalennau creu ac ailosod cyfrinair.';
 $Definition['Please choose an authenticator to configure.'] = 'Dewiswch ddilyswr i\'w ffurfweddu.';
 $Definition['PluginHelp'] = 'Mae ategion yn caniatáu i chi ychwanegu ffwythiannau i\'ch safle. < br / > unwaith mae ategyn wedi\'i ychwanegu i\'ch ffolder %s, gallwch ei alluogi neu analluogi yma.';
@@ -195,11 +197,13 @@ $Definition['Session Timeout'] = 'Goramser Sesiwn';
 $Definition['ShareImageDescription'] =
     'Pan fydd rhywun yn rhannu dolen o\'ch gwefan, rydyn ni\'n ceisio bachu delwedd o\'r dudalen. Os nad oes delwedd ar y dudalen yna byddwn yn defnyddio\'r ddelwedd hon yn lle. Dylai\'r ddelwedd fod o leiaf 50 × 50, ond rydym yn argymell 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Rhoi opsiwn hwn ar waith i ddangos yr holl leoliadau poced posibl. Dim ond defnyddwyr sy\'n gallu rheoli pocedi fydd yn gallu gweld y lleoliadau.';
-$Definition['SignIn.LockoutTime'] = "Faint o amser y mae defnyddiwr yn cael ei rwystro rhag mewngofnodi ar ôl mynd y tu hwnt i nifer yr ymdrechion mewngofnodi.";
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
-    'Efallai y bydd angen diweddaru rhai themâu i weithio gyda\'r categori canlynol. Gallwch chi analluogi\'r nodwedd wrth i chi ddiweddaru\'ch thema.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
-    'Cyfyngiad arbennig: Dim ond defnyddwyr â chaniatâd Garden.Curation.Manage all ddefnyddio\'r adwaith hwn.';
+$Definition['SignIn.LockoutTime'] = 'Faint o amser y mae defnyddiwr yn cael ei rwystro rhag mewngofnodi ar ôl mynd y tu hwnt i nifer yr ymdrechion mewngofnodi.';
+$Definition['Solid'] = 'Solet';
+$Definition['Some browsers support a color for the address bar.'] = 'Mae rhai porwyr yn cefnogi lliw ar gyfer y bar cyfeiriad.';
+$Definition['Some older themes don\'t support full editing capability.'] = 'Nid yw rhai themâu hŷn yn cefnogi gallu golygu llawn. I weld beth mae thema\'n ei gefnogi gallwch hofran dros ei enw i weld lle bydd golygiadau yn dod i rym.';
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Efallai y bydd angen diweddaru rhai themâu i weithio gyda\'r categori canlynol. Gallwch chi analluogi\'r nodwedd wrth i chi ddiweddaru\'ch thema.';
+$Definition['Sometimes you want to embed your Vanilla site'] = 'Weithiau rydych chi am ymgorffori\'ch gwefan Fanila y tu mewn i wefan arall. Mae system wreiddio Vanilla yn cynnig ffordd hawdd o wneud hynny. Mae cyfaddawdau perfformiad wrth ddefnyddio safle wedi\'i fewnosod, felly gwiriwch y ddogfennaeth am ddewisiadau amgen ac achosion defnydd delfrydol.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Cyfyngiad arbennig: Dim ond defnyddwyr â chaniatâd Garden.Curation.Manage all ddefnyddio\'r adwaith hwn.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Nodwch ornest rhannol neu lawn wrth greu gwaharddiad.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Treuliwch ychydig o amser yn meddwl am sut rydych yn disgrifio eich safle yma. Gallai rhoi teitl ystyrlon a disgrifiad cryno helpu eich sefyllfa mewn peiriannau chwilio.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Gwella golwg eich e-byst trwy ychwanegu logo ac addasu lliwiau.';
