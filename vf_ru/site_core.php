@@ -621,7 +621,7 @@ $Definition['Eighth Anniversary'] = 'Восьмая годовщина';
 $Definition['Email'] = 'Электронная почта';
 $Definition['Emails'] = 'Электронные письма';
 $Definition['Email/Username'] = 'Почта или Логин';
-$Definition['EmailConfirmEmail'] = 'Вам необходимо подтвердить Ваш email. 
+$Definition['EmailConfirmEmail'] = 'Вам необходимо подтвердить Ваш email.
 Для подтверждения нажмите на ссылку ниже: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['EmailFooter'] = '
 Удачного дня!';
@@ -1848,7 +1848,6 @@ $Definition['This answer was %s.'] = 'Этот ответ был %s';
 $Definition['This answer was Accepted.'] = 'Этот ответ подошёл.';
 $Definition['This category does not have any articles.'] = 'В этой категории нет статей.';
 $Definition['This category does not have any events.'] = 'В этой категории нет мероприятий.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'У этого обсуждения есть более <0> последняя версия</0> .';
 $Definition['This discussion has been closed.'] = 'Дискуссия закрыта.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Это обсуждение было <a href="{url,html}">перемещено</a> .';

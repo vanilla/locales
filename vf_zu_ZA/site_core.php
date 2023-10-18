@@ -1788,7 +1788,6 @@ $Definition['This answer was %s.'] = 'Le mpendulo %s.';
 $Definition['This answer was Accepted.'] = 'Le mpendulo Yamukelwe.';
 $Definition['This category does not have any articles.'] = 'Lesi sigaba asinazo izindatshana.';
 $Definition['This category does not have any events.'] = 'Lesi sigaba asinemicimbi.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Le ngxoxo ine- <0> inguqulo yakamuva</0> .';
 $Definition['This discussion has been closed.'] = 'Le ngxoxo ivaliwe.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Le ngxoxo iye <a href="{url,html}">wathuthela</a> .';

@@ -1770,7 +1770,7 @@ $Definition['There\'s already a %s with the name %s.'] = 'Der er allerede en %1$
 $Definition['There aren\'t any groups yet.'] = 'Der er ingen grupper endnu.';
 $Definition['There are no tags in the system yet.'] = 'Der er ingen mærker i systemet endnu.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'reCAPTCHA-værdien var ikke indtastet korrekt. Prøv venligst igen.';
-$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'ReCAPTCHA\'en blev ikke afsluttet korrekt. 
+$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'ReCAPTCHA\'en blev ikke afsluttet korrekt.
 Venligst prøv igen.';
 $Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Der er allerede en konto med det samme brugernavn (%1$s) eller email (%2$s) som dig. Du kan enten oprette en ny konto, eller du kan indtaste legitimationsoplysningerne til din eksisterende forum konto.';
 $Definition['The response was not in the correct format.'] = 'Svaret var ikke i det korrekte format.';
@@ -1795,7 +1795,6 @@ $Definition['This answer was %s.'] = 'Dette svar var %s.';
 $Definition['This answer was Accepted.'] = 'Svaret blev accepteret.';
 $Definition['This category does not have any articles.'] = 'Denne kategori har ikke nogen artikler.';
 $Definition['This category does not have any events.'] = 'Der er ingen events i denne kategori.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Denne diskussion har en mere <0> nyere version</0> .';
 $Definition['This discussion has been closed.'] = 'Denne diskussion er blevet lukket.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Denne diskussion er blevet <a href="{url,html}">flyttet</a> .';

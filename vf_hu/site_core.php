@@ -1730,13 +1730,13 @@ $Definition['Click here to read.'] = 'Kattintson ide az olvasáshoz.';
 $Definition['TermsOfService'] = 'Szabályzat';
 $Definition['Terms of Service'] = 'Szabályzat';
 $Definition['TermsOfServiceText'] = '<p>Jelen szolgáltatás használatával elfogadod, hogy nem fogsz az oldalon tudatosan gyalázkodó, pontatlan, sértő, durva, utálkozó, zaklató, obszcén, profán, szexuális beállítottságú, fenyegető, mások magánéletét megsértő, vagy bármilyen más módon törvénybe ütköző hozzászólásokat közzétenni. Egyetértesz azzal, hogy jogvédett anyagot nem teszel közzé, kivéve, ha a jog a tiéd.</p>
-   
+
    <p>Az oldal üzemeltetői fenntartják a jogot, hogy felfedjék a személyazonosságod (vagy bármilyen információt, amit tudnak rólad) panasz vagy jogi eljárás esetén. Minden idelátogató IP cím rögzítésre kerül.</p>
-   
+
    <p>A kéretlen reklámozás, a körlevelek, a piramisjátékok és a kéregetés nem szívesen látott az oldalon.</p>
-   
+
    <p>Fenntartjuk a jogot, hogy okkal/ok nélkül bármilyen tartalmat eltávolítsunk. Fenntartjuk a jogot, hogy a tagságot okkal vagy ok nélkül megszüntessük.</p>
-   
+
    <p>Legalább 13 évesnek kell lenned, hogy ezt a szolgáltatást használhasd.</p>';
 $Definition['Test'] = 'Teszt';
 $Definition['Testing'] = 'Tesztelés';
@@ -1789,7 +1789,6 @@ $Definition['This answer was %s.'] = 'Ez a válasz %s volt.';
 $Definition['This answer was Accepted.'] = 'A válasz elfogadva.';
 $Definition['This category does not have any articles.'] = 'Ebben a kategóriában nincsenek cikkek.';
 $Definition['This category does not have any events.'] = 'Ebben a kategóriában nincs esemény.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Ennek a vitának <0> újabb verziója van</0> .';
 $Definition['This discussion has been closed.'] = 'Ez a beszélgetés lezárult..';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Ez a vita át lett <a href="{url,html}">helyezve</a> .';

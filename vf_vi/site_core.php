@@ -612,7 +612,7 @@ $Definition['EmailHeader'] = 'Chào {User.Name}!
 $Definition['EmailInvitation'] = 'Chào bạn!
 
 %1$s mời bạn tham gia %2$s. Để tham gia, bạn vui lòng nhấp vào link bên dưới:
- 
+
  %3$s';
 $Definition['EmailMembershipApproved'] = 'Chào %1$s,
 
@@ -1787,7 +1787,6 @@ $Definition['This answer was %s.'] = 'Câu trả lời này %s';
 $Definition['This answer was Accepted.'] = 'Câu trả lời này được chấp nhận.';
 $Definition['This category does not have any articles.'] = 'Danh mục này không có bài viết nào.';
 $Definition['This category does not have any events.'] = 'Hạng mục này không có sự kiện nào.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Cuộc thảo luận này có <0> phiên bản gần đây hơn</0> .';
 $Definition['This discussion has been closed.'] = 'Bài viết đã bị khóa.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Cuộc thảo luận này đã được <a href="{url,html}">chuyển đi</a> .';

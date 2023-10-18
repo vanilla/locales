@@ -1764,7 +1764,6 @@ $Definition['This answer was %s.'] = '%s oedd ateb hwn.';
 $Definition['This answer was Accepted.'] = 'Derbyniwyd yr ateb yma.';
 $Definition['This category does not have any articles.'] = 'Nid oes gan y categori hwn unrhyw erthyglau.';
 $Definition['This category does not have any events.'] = 'Nid oes gan y categori hwn unrhyw ddigwyddiadau.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Mae gan y drafodaeth hon fersiwn fwy <0> diweddar</0> .';
 $Definition['This discussion has been closed.'] = 'Mae\'r drafodaeth yma wedi dod i ben.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Mae\'r drafodaeth hon wedi\'i <a href="{url,html}">symud</a> .';

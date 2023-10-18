@@ -1746,7 +1746,6 @@ $Definition['This answer was %s.'] = 'Ta odgovor je bil %s.';
 $Definition['This answer was Accepted.'] = 'Ta odgovor je bil sprejet.';
 $Definition['This category does not have any articles.'] = 'Ta kategorija nima nobenega artikla.';
 $Definition['This category does not have any events.'] = 'Ta kategorija nima dogodkov.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Ta razprava ima <0>novejšo različico</0> .';
 $Definition['This discussion has been closed.'] = 'Ta razprava je bila zaključena.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Ta razprava je bila <a href="{url,html}">premaknjena</a> .';

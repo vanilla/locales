@@ -617,7 +617,7 @@ $Definition['EmailMembershipApproved'] = 'Hola %1$s,
 Has sido aprobado como miembro. Conéctate ahora con el siguiente enlace:
 
   %2$s
-  
+
 ¡Qué tengas un buen día!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1730,19 +1730,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Test';
@@ -1796,7 +1796,6 @@ $Definition['This answer was %s.'] = 'Aquesta resposta va ser %s.';
 $Definition['This answer was Accepted.'] = 'Aquesta resposta va ser acceptada.';
 $Definition['This category does not have any articles.'] = 'Aquesta categoria no conté cap article.';
 $Definition['This category does not have any events.'] = 'Aquesta categoria no té cap esdeveniment.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Aquesta discussió té una versió més <0> recent</0> .';
 $Definition['This discussion has been closed.'] = 'Aquesta discussió s\'ha tancat.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Aquesta discussió s\'ha <a href="{url,html}">mogut</a> .';

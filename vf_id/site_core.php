@@ -1735,7 +1735,7 @@ ancaman, mengganggu privasi seseorang, atau dengan kata lain melanggar hukum.
 Anda setuju untuk tidak mengirim materi yang dilindungi hak cipta
 kecuali bila hak cipta itu adalah milik anda sendiri.
 
-Kami pada komunitas ini juga memiliki hak untuk mengungkap identitas anda 
+Kami pada komunitas ini juga memiliki hak untuk mengungkap identitas anda
 (atau informasi apapun yang kami ketahui tentang anda) dalam hal adanya pengaduan atau
 pelanggaran hukum akibat pesan-pesan dikirim oleh anda. Kami mencatat semua alamat protokol internet
 yang mengakses situs ini.
@@ -1799,7 +1799,6 @@ $Definition['This answer was %s.'] = 'Jawaban ini adalah %s.';
 $Definition['This answer was Accepted.'] = 'Jawaban ini telah Diterima.';
 $Definition['This category does not have any articles.'] = 'Kategori ini tidak memiliki artikel.';
 $Definition['This category does not have any events.'] = 'Kategori ini tidak memiliki acara.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Diskusi ini memiliki <0>versi terbaru</0> .';
 $Definition['This discussion has been closed.'] = 'Diskusi ini telah ditutup.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Diskusi ini telah <a href="{url,html}">dipindahkan</a> .';

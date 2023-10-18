@@ -1796,7 +1796,6 @@ $Definition['This answer was %s.'] = 'Die Antwort war %s.';
 $Definition['This answer was Accepted.'] = 'Diese Antwort wurde akzeptiert.';
 $Definition['This category does not have any articles.'] = 'In dieser Kategorie gibt es keine Artikel.';
 $Definition['This category does not have any events.'] = 'Diese Kategorie enthält keine Veranstaltungen.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Zu dieser Diskussion gibt es einen <0>aktuellere Versio‭n</0>.';
 $Definition['This discussion has been closed.'] = 'Diese Diskussion wurde geschlossen.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Diese Diskussion wurde <a href="{url,html}">verschoben</a>.';
