@@ -1798,7 +1798,6 @@ $Definition['This answer was %s.'] = 'Karabo ye e be e le %s.';
 $Definition['This answer was Accepted.'] = 'Karabo ye e Amogetšwe.';
 $Definition['This category does not have any articles.'] = 'Legoro le ga le na dihlogo.';
 $Definition['This category does not have any events.'] = 'Legoro le ga le na ditiragalo.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Poledišano ye e na le phetolelo ya moragorago ya <0></0> .';
 $Definition['This discussion has been closed.'] = 'Poledišano ye e tswaletšwe.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Poledišano ye e <a href="{url,html}">šuthišitšwe</a> .';

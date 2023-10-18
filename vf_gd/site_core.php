@@ -1798,7 +1798,6 @@ $Definition['This answer was %s.'] = 'This answer was %s.';
 $Definition['This answer was Accepted.'] = 'This answer was Accepted.';
 $Definition['This category does not have any articles.'] = 'Chan eil artaigilean sam bith san roinn seo.';
 $Definition['This category does not have any events.'] = 'Chan eil tachartasan sam bith san roinn seo.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Tha dreach nas <0> o chionn ghoirid air a ’chòmhradh seo</0> .';
 $Definition['This discussion has been closed.'] = 'Chaidh an deasbaid seo a dhùnadh.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Chaidh an còmhradh seo a <a href="{url,html}">ghluasad</a> .';

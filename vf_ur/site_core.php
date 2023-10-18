@@ -614,7 +614,7 @@ $Definition['EmailInvitation'] = 'هيلو!
 %1$s نے %2$s میں شمولیت کی آپ کو دعوت دی ہے۔ اگر آپ شامل ہونا چاہتے ہیں تو آپ اس لنک پر کلک کر کے ایسا کر سکتے ہیں:
 
 %3$s';
-$Definition['EmailMembershipApproved'] = 'ھیلو %1$s، 
+$Definition['EmailMembershipApproved'] = 'ھیلو %1$s،
 
 آپ کو رکنیت کے لیے منظور کیا گیا ہے۔ ابھی مندرجہ ذیل لنک پرسائن ان کریں:
 
@@ -1786,7 +1786,6 @@ $Definition['This answer was %s.'] = 'یہ جواب %s تھا۔';
 $Definition['This answer was Accepted.'] = 'اس جواب کو تسلیم کر لیا گیا تھا۔';
 $Definition['This category does not have any articles.'] = 'اس زمرے میں کوئی مضامین نہیں ہیں۔';
 $Definition['This category does not have any events.'] = 'اس زمرے میں کوئی واقعات نہیں ہیں۔';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'اس بحث کا ایک زیادہ <0> حالیہ ورژن ہے۔</0> .';
 $Definition['This discussion has been closed.'] = 'اس بحث کو بند کر دیا گیا ہے۔';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'اس بحث کو <a href="{url,html}">منتقل کر دیا گیا ہے</a> ۔';

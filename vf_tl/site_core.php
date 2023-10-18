@@ -1305,7 +1305,7 @@ $Definition['Password changed successfully.'] = 'Matagumpay na nabago ang Passwo
 $Definition['Password Contains Username'] = 'Naglalaman ng Username';
 $Definition['Password Good'] = 'Ayos';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'May humiling na i-reset ang iyong password sa% %2$s. Upang i-reset ang iyong password, sundin ang link na ito: 
+$Definition['PasswordRequest'] = 'May humiling na i-reset ang iyong password sa% %2$s. Upang i-reset ang iyong password, sundin ang link na ito:
 
 %3$s
 
@@ -1789,7 +1789,6 @@ $Definition['This answer was %s.'] = 'Ang sagot ay %s.';
 $Definition['This answer was Accepted.'] = 'Ang sagot na ito ay Tinanggap.';
 $Definition['This category does not have any articles.'] = 'Ang kategoryang ito ay walang anumang mga artikulo.';
 $Definition['This category does not have any events.'] = 'Walang mga event ang kategoryang ito.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Ang talakayang ito ay may mas <0> kamakailang bersyon</0> .';
 $Definition['This discussion has been closed.'] = 'Ang diskusyon na ito ay isinara na.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Ang talakayang ito ay <a href="{url,html}">inilipat</a> .';

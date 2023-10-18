@@ -1789,7 +1789,6 @@ $Definition['This answer was %s.'] = 'Tato odpověď byla %s.';
 $Definition['This answer was Accepted.'] = 'Tato odpověď byla přijata.';
 $Definition['This category does not have any articles.'] = 'V této kategorii nejsou žádné články. ';
 $Definition['This category does not have any events.'] = 'Tato kategorie neobsahuje žádné události.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Tato diskuse má novější verzi <0></0> .';
 $Definition['This discussion has been closed.'] = 'Tato diskuze je zavřená.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Tato diskuze byla <a href="{url,html}">přesunuta</a> .';

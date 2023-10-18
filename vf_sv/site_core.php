@@ -1734,19 +1734,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Test';
@@ -1800,7 +1800,6 @@ $Definition['This answer was %s.'] = 'Detta svar var %s.';
 $Definition['This answer was Accepted.'] = 'Detta svar accepterades.';
 $Definition['This category does not have any articles.'] = 'Den här kategorin har inga artiklar.';
 $Definition['This category does not have any events.'] = 'Denna kategori har inga event.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Denna diskussion har en mer <0> nyare version</0> .';
 $Definition['This discussion has been closed.'] = 'Denna diskussion är låst.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Denna diskussion har <a href="{url,html}">flyttats</a> .';

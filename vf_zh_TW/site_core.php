@@ -1733,13 +1733,13 @@ $Definition['Terms'] = '條款';
 $Definition['Click here to read.'] = '點擊這裡閱讀。';
 $Definition['TermsOfService'] = '服務條款';
 $Definition['Terms of Service'] = '服務條款';
-$Definition['TermsOfServiceText'] = '您同意在使用這項服務時，您不會利用此社區發表任何明知虛假的和/或誹謗的、不準確的、辱罵性的、庸俗的、惡意的、騷擾、淫穢、褻瀆、有性導向、威脅的、侵犯他人隱私的或者以其他方式違犯任何法律的信息。您同意不發表任何受版權保護的材料，除非版權歸您所有。 
+$Definition['TermsOfServiceText'] = '您同意在使用這項服務時，您不會利用此社區發表任何明知虛假的和/或誹謗的、不準確的、辱罵性的、庸俗的、惡意的、騷擾、淫穢、褻瀆、有性導向、威脅的、侵犯他人隱私的或者以其他方式違犯任何法律的信息。您同意不發表任何受版權保護的材料，除非版權歸您所有。
 
-如果您發布的任何信息導致投訴或法律訴訟，我們保留透露您的身份（或者我們知道的關於您的任何信息）的權利。我們會記錄訪問本網站的所有互聯網協議地址。 
+如果您發布的任何信息導致投訴或法律訴訟，我們保留透露您的身份（或者我們知道的關於您的任何信息）的權利。我們會記錄訪問本網站的所有互聯網協議地址。
 
-請注意，廣告、連鎖信、傳銷和募捐在本社區都被認為是不適當的。 
+請注意，廣告、連鎖信、傳銷和募捐在本社區都被認為是不適當的。
 
-我們保留以任何理由或不需任何理由地刪除任何內容的權利。我們保留以任何理由或不需任何理由地終止任何會員資格的權利。 
+我們保留以任何理由或不需任何理由地刪除任何內容的權利。我們保留以任何理由或不需任何理由地終止任何會員資格的權利。
 
 您必須年滿 13 歲才能使用這項服務。';
 $Definition['Test'] = '測試';
@@ -1793,7 +1793,6 @@ $Definition['This answer was %s.'] = '該回答是 %s。';
 $Definition['This answer was Accepted.'] = '該回答已被接受。';
 $Definition['This category does not have any articles.'] = '此類別沒有任何文章。';
 $Definition['This category does not have any events.'] = '此類別沒有任何活動。';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = '這個討論有一個更新的<0>版本</0>.';
 $Definition['This discussion has been closed.'] = '這個討論已經被關閉';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = '這個討論已經被<a href="{url,html}">移動了</a>。';

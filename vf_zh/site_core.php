@@ -624,7 +624,7 @@ $Definition['EmailMembershipApproved'] = '%1$s您好，
 $Definition['EmailNotification'] = '%1$s
 
      点击以下下链接继续：
-	
+
      %2$s';
 $Definition['Email Digest Preferences Updated'] = '电子邮件摘要首选项已更新';
 $Definition['Email Language'] = '电子邮件语言';
@@ -643,11 +643,11 @@ $Definition['EmailStoryNotification'] = '%1$s
 
 ---
 请点击下面的链接查看消息:
-	
+
 %2$s
 
 如果此邮件对您造成了影响，请您登录社区，进入个人主页，在通知设置中取消邮件通知的勾选。
-	
+
 祝您开心每一天！';
 $Definition['Email Unavailable'] = '该电子邮件地址已被占用';
 $Definition['Email visible to other users'] = '公开电子邮件地址';
@@ -1732,7 +1732,7 @@ $Definition['Terms'] = '术语';
 $Definition['Click here to read.'] = '点击这里阅读。';
 $Definition['TermsOfService'] = '服务条款';
 $Definition['Terms of Service'] = '服务条款';
-$Definition['TermsOfServiceText'] = ' 
+$Definition['TermsOfServiceText'] = '
 服务条款<br>
 当您申请用户时，表示您已经同意遵守本规章。 <br>
 欢迎您加入本站点参加交流和讨论，本站点为公共论坛，为维护网上公共秩序和社会稳定，请您自觉遵守以下条款： <br>
@@ -1804,7 +1804,6 @@ $Definition['This answer was %s.'] = '答案是 %s。';
 $Definition['This answer was Accepted.'] = '回答正确。';
 $Definition['This category does not have any articles.'] = '此类别中没有任何文章。';
 $Definition['This category does not have any events.'] = '没有该类型的活动。';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = '这个讨论有一个更新的<0>版本</0>.';
 $Definition['This discussion has been closed.'] = '话题已锁定。';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = '话题<a href="{url,html}">被移动了</a>。';
