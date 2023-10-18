@@ -628,7 +628,7 @@ $Definition['EmailMembershipApproved'] = '¡Hola %1$s, bienvenido!
 Has sido aprobado como miembro. Conéctate ahora con el siguiente enlace:
 
   %2$s
-  
+
 ¡Que disfrutes de la comunidad!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1757,14 +1757,14 @@ $Definition['Click here to read.'] = 'Haga clic aquí para leer.';
 $Definition['TermsOfService'] = 'Términos de Servicio';
 $Definition['Terms of Service'] = 'Términos de Servicio';
 $Definition['TermsOfServiceText'] = ' <p>Usted acepta que mediante el uso de este servicio, que no usará esta  comunidad para publicar cualquier material que sea conocidamente falso y/o difamatorio, inexacto, abusivo, vulgar, de odio, de acoso, obsceno, blasfemo, sexual, amenazante, invasivo a la privacidad de una persona, o que infrinja de uno u otro modo cualquier ley. Aceptas no publicar ningún material con derechos de autor a menos que el derecho de autor sea de tu propiedad.</p>
-   
-   <p>Nosotros también nos reservamos el derecho de revelar tu identidad (o cualquier información que sabemos de ti) en el caso de una queja o acción 
+
+   <p>Nosotros también nos reservamos el derecho de revelar tu identidad (o cualquier información que sabemos de ti) en el caso de una queja o acción
     legal derivada de un mensaje publicado por ti. Registramos todas las direcciones de protocolo de Internet que acceden a este sitio web.</p>
-   
+
    <p>Por favor ten en cuenta que los anuncios, cartas en cadena, esquemas piramidales y solicitudes son inapropiadas en esta comunidad. </p>
-   
+
    <p>Nos reservamos el derecho a eliminar cualquier contenido por cualquier razón o ninguna razón. Nos reservamos el derecho a eliminar usuarios por cualquier razón o ninguna razón.</p>
-   
+
    <p>Debes tener al menos 13 años para usar este servicio.</p>';
 $Definition['Test'] = 'Prueba';
 $Definition['Testing'] = 'Probando';
@@ -1818,7 +1818,6 @@ $Definition['This answer was %s.'] = 'Esta respuesta fue %s. ';
 $Definition['This answer was Accepted.'] = 'Esta respuesta fue aceptada.';
 $Definition['This category does not have any articles.'] = 'Esta categoría no tiene ningún artículo.';
 $Definition['This category does not have any events.'] = 'Esta categoría no tiene ningún evento.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Esta discusión tiene una <0>versión más reciente</0>.';
 $Definition['This discussion has been closed.'] = 'Esta conversación ha sido cerrada.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Este debate se ha <a href="{url,html}">movido</a>.';

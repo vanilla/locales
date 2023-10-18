@@ -1733,19 +1733,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'ทดสอบ';
@@ -1799,7 +1799,6 @@ $Definition['This answer was %s.'] = 'คำตอบนี้เป็น %s';
 $Definition['This answer was Accepted.'] = 'คำตอบนี้ได้รับการยอมรับ';
 $Definition['This category does not have any articles.'] = 'หมวดหมู่นี้ไม่มีบทความใด ๆ';
 $Definition['This category does not have any events.'] = 'หมวดหมู่นี้ไม่มีกิจกรรมใด ๆ';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'การสนทนานี้มี <0>เวอร์ชันล่าสุดมากกว่า</0> .';
 $Definition['This discussion has been closed.'] = 'กระทู้นี้ถูกปิด';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'การสนทนานี้ได้ถูก <a href="{url,html}">ย้าย</a>';
@@ -2310,7 +2309,7 @@ $Definition['Smileys & People'] = 'รอยยิ้มและผู้คน
 $Definition['Animals & Nature'] = 'สัตว์และธรรมชาติ';
 $Definition['Food & Drink'] = 'อาหารและเครื่องดื่ม';
 $Definition['Travel & Places'] = 'เดินทางและสถานที่';
-$Definition['Activities'] = 'กิจกรรมต่าง ๆ 
+$Definition['Activities'] = 'กิจกรรมต่าง ๆ
 ';
 $Definition['Objects'] = 'วัตถุ';
 $Definition['Symbols'] = 'สัญลักษณ์';

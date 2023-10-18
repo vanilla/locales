@@ -620,7 +620,7 @@ $Definition['EmailMembershipApproved'] = 'Здравейте %1$s,
 Кандидатурата Ви за членство беше одобрена. Влезте във форума като използвате следния линк:
 
   %2$s
-  
+
 Приятен ден!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1739,19 +1739,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Тест';
@@ -1805,7 +1805,6 @@ $Definition['This answer was %s.'] = 'Отговорът беше %s.';
 $Definition['This answer was Accepted.'] = 'Този отговор беше приет.';
 $Definition['This category does not have any articles.'] = 'В тази категория няма статии.';
 $Definition['This category does not have any events.'] = 'Тази категория няма събития.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Тази дискусия има по -нова <0> последна версия</0> .';
 $Definition['This discussion has been closed.'] = 'Тази дискусия е била затворена.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Тази дискусия е <a href="{url,html}">преместена</a> .';

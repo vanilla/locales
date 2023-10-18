@@ -1774,8 +1774,8 @@ $Definition['These tags are reserved and cannot be used: %s'] = '이 태그는 �
 $Definition['The site is currently undergoing maintenance.'] = '사이트 정비 중입니다.';
 $Definition['The status for "%s" has changed to %s.'] = '"%s"에 대한 상태가 %s(으)로 변경되었습니다.';
 $Definition['The uploaded file was too big (max %s).'] = '파일이 너무 큽니다 (최대 %s).';
-$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = '업로드된 파일의 파일 확장자는 허용된 파일 확장자가 아닙니다. 
-오직 다음의 확장자만 허용됩니다. 
+$Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = '업로드된 파일의 파일 확장자는 허용된 파일 확장자가 아닙니다.
+오직 다음의 확장자만 허용됩니다.
 %s.';
 $Definition['The user has already been warned for this %s.'] = '사용자가 이미 이 %s를 위해 경고를 받았습니다.  ';
 $Definition['The user isn\'t banned.'] = '해당 사용자는 금지되지 않았거나 다른 기능에 의해 금지된 상태입니다.';
@@ -1787,7 +1787,6 @@ $Definition['This answer was %s.'] = '이 답변은 %s.';
 $Definition['This answer was Accepted.'] = '대답이 받아들여졌습니다.';
 $Definition['This category does not have any articles.'] = '이 카테고리엔 아티클이 하나도 없습니다.';
 $Definition['This category does not have any events.'] = '이 카테고리에는 이벤트가 없습니다.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = '이 토론에는 최신 버전이 <0>있습니다.</0> .';
 $Definition['This discussion has been closed.'] = '이 토론은 잠겼습니다.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = '이 토론은 <a href="{url,html}">이동</a>되었습니다.';

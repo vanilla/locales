@@ -1342,9 +1342,9 @@ $Definition['Password Contains Username'] = 'Contiene il nome utente';
 $Definition['Password Good'] = 'Buono';
 $Definition['Password Ok'] = 'Ok';
 $Definition['PasswordRequest'] = 'Qualcuno ha richiesto la reimpostazione della tua password su %2$s. Per reimpostare la tua password, sequi questo link:
-  
+
   %3$s
-  
+
 Se non hai effettuato questa richiesta, ignora questa e-mail.';
 $Definition['Passwords don\'t match'] = 'Le password non coincidono';
 $Definition['Passwords Match'] = 'Corrispondenza delle password';
@@ -1839,7 +1839,6 @@ $Definition['This answer was %s.'] = 'Questa risposta è stata %s.';
 $Definition['This answer was Accepted.'] = 'Questa risposta è stata Accettata.';
 $Definition['This category does not have any articles.'] = 'Questa categoria non ha nessun articolo.';
 $Definition['This category does not have any events.'] = 'Questa categoria non ha nessun evento.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Questa discussione ha una versione più <0>recente</0> .';
 $Definition['This discussion has been closed.'] = 'Questa discussione è stata chiusa.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Questa discussione è stata <a href="{url,html}">spostata</a>.';

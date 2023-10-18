@@ -610,19 +610,19 @@ $Definition['EmailFooter'] = '
 Ha en super dag!';
 $Definition['EmailHeader'] = 'Hei {User.Name}!
 ';
-$Definition['EmailInvitation'] = 'Hei! 
+$Definition['EmailInvitation'] = 'Hei!
 
-%1$s har invitert deg til å bli med i/på %2$s. Hvis du vil bli med, kan du gjøre det ved å klikke på denne lenken: 
+%1$s har invitert deg til å bli med i/på %2$s. Hvis du vil bli med, kan du gjøre det ved å klikke på denne lenken:
 
 %3$s';
-$Definition['EmailMembershipApproved'] = 'Hallo %1$s, 
+$Definition['EmailMembershipApproved'] = 'Hallo %1$s,
 
 Du har blitt godkjent som medlem. Logg deg på nå via følgende lenke:
 
 %2$s';
-$Definition['EmailNotification'] = '%1$s 
+$Definition['EmailNotification'] = '%1$s
 
-Følg lenken under for å ta en titt: 
+Følg lenken under for å ta en titt:
 %2$s
 
 Ha en fin dag!';
@@ -630,7 +630,7 @@ $Definition['Email Digest Preferences Updated'] = 'E-postsammendrag-preferanser 
 $Definition['Email Language'] = 'E-postspråk';
 $Definition['Email Notifications'] = 'E-post varsler';
 $Definition['Email Or Username'] = 'E-post eller brukernavn';
-$Definition['EmailPassword'] = '%2$s har endret ditt passord på %3$s. Dine innloggingsreferanser er nå: 
+$Definition['EmailPassword'] = '%2$s har endret ditt passord på %3$s. Dine innloggingsreferanser er nå:
 
 E-post: %6$s
 Passord: %5$s
@@ -1307,11 +1307,11 @@ $Definition['Password changed successfully.'] = 'Passordet ble endret.';
 $Definition['Password Contains Username'] = 'Inneholder brukernavn';
 $Definition['Password Good'] = 'Bra';
 $Definition['Password Ok'] = 'OK';
-$Definition['PasswordRequest'] = 'Noen har bedt om å tilbakestille passordet ditt på %2$s. For å tilbakestille passord, følg denne lenken: 
+$Definition['PasswordRequest'] = 'Noen har bedt om å tilbakestille passordet ditt på %2$s. For å tilbakestille passord, følg denne lenken:
 
 %3$s
 
-Hvis du ikke har bedt om dette, se bort fra denne e-posten. 
+Hvis du ikke har bedt om dette, se bort fra denne e-posten.
 
 ';
 $Definition['Passwords don\'t match'] = 'Passordene stemmer ikke overens med hverandre.';
@@ -1741,19 +1741,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Test';
@@ -1807,7 +1807,6 @@ $Definition['This answer was %s.'] = 'Dette svaret var %s. ';
 $Definition['This answer was Accepted.'] = 'Dette svaret ble akseptert';
 $Definition['This category does not have any articles.'] = 'Denne kategorien har ingen artikler.';
 $Definition['This category does not have any events.'] = 'Denne kategorien har ingen hendelser.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Denne diskusjonen har en mer <0> nyere versjon</0> .';
 $Definition['This discussion has been closed.'] = 'Denne diskusjonen er lukket.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Denne diskusjonen er <a href="{url,html}">flyttet</a> .';

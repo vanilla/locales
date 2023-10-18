@@ -612,7 +612,7 @@ $Definition['EmailHeader'] = 'Hei {User.Name}!
 ';
 $Definition['EmailInvitation'] = 'Hei!
 
-%1$s kutsui sinut mukaan keskustelupalstalle %2$s. 
+%1$s kutsui sinut mukaan keskustelupalstalle %2$s.
 
 Vahvistaaksesi kutsun, siirry allaolevaan osoitteeseen:
 
@@ -624,7 +624,7 @@ $Definition['EmailMembershipApproved'] = 'Hello %1$s,
 You have been approved for membership. Sign in now at the following link:
 
   %2$s
-  
+
 Have a great day!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1741,19 +1741,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Testi';
@@ -1807,7 +1807,6 @@ $Definition['This answer was %s.'] = 'Tämä vastaus on %s.';
 $Definition['This answer was Accepted.'] = 'Vastaus hyväksyttiin.';
 $Definition['This category does not have any articles.'] = 'Tämä kategoria ei sisällä artikkeleita.';
 $Definition['This category does not have any events.'] = 'Tässä kategoriassa ei ole tapahtumia.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Tästä keskustelusta on <0> uudempi versio</0> .';
 $Definition['This discussion has been closed.'] = 'Tämä keskustelu on suljettu.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Tämä keskustelu on <a href="{url,html}">siirretty</a> .';

@@ -621,11 +621,11 @@ $Definition['EmailMembershipApproved'] = 'Hallo %1$s,
 Je aanvraag voor het lidmaatschap is goedgekeurd. Log in met de volgende link:
 
   %2$s
-  
+
 Fijne dag verder!';
 $Definition['EmailNotification'] = '%1$s
 
-Volg deze link om het te bekijken: 
+Volg deze link om het te bekijken:
 %2$s
 
 Fijne dag verder!';
@@ -673,7 +673,7 @@ $Definition['Enter your Email address or username'] = 'Vul je e-mailadres of geb
 $Definition['Enter your email address or username to continue.'] = 'Voer je e-mailadres of gebruikersnaam in om door te gaan.';
 $Definition['Enter Your OpenID Url'] = 'Voer je OpenID Url in';
 $Definition['Enter Your Password'] = 'Voer je wachtwoord in';
-$Definition['Enter your password to continue.'] = 'Je probeert een mogelijk gevoelige bewerking uit te voeren. 
+$Definition['Enter your password to continue.'] = 'Je probeert een mogelijk gevoelige bewerking uit te voeren.
 Voer je wachtwoord in om door te gaan.';
 $Definition['Enter your search term.'] = 'Typ je zoek-item.';
 $Definition['Erase User Content'] = 'Wis Gebruikersinhoud';
@@ -1309,7 +1309,7 @@ $Definition['Password changed successfully.'] = 'Wachtwoord succesvol veranderd.
 $Definition['Password Contains Username'] = 'Bevat Gebruikersnaam';
 $Definition['Password Good'] = 'Goed';
 $Definition['Password Ok'] = 'Oké';
-$Definition['PasswordRequest'] = 'Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen: 
+$Definition['PasswordRequest'] = 'Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen:
 
   %3$s
 
@@ -1734,13 +1734,13 @@ $Definition['TermsOfService'] = 'Servicevoorwaarden';
 $Definition['Terms of Service'] = 'Servicevoorwaarden';
 $Definition['TermsOfServiceText'] = '
    <p>Je stemt ermee in, door deze dienst te gebruiken, dat je deze community niet zal gebruiken om enig materiaal te uploaden dat bewust misleidend en/of kwetsend, onjuist, beledigend, vulgair, hatelijk, obsceen, profaan, sexueel geörienteerd, bedreigend, iemands privacy schendend, of op een andere wijze een wet overtreed. Je stemt ermee in om geen auteursrechtelijk beschermd materiaal te uploaden tenzij het auteursrecht bij jouw ligt.</p>
-   
+
    <p>Wij bij deze community houden ons het recht voor om jouw identiteit kenbaar te maken (of wat voor informatie we van je weten) in het geval van een klacht of gerechtelijke stappen die een gevolg zijn van een door jouw gepubliceerd bericht. We bewaren alle internet-protocoladressen die deze website binnenkomen.</p>
-   
+
    <p>Houd er alstjeblieft rekening mee dat reclame, kettingbrieven, pyramidespelen, en sollicitaties ongepast zijn voor deze community.</p>
-   
+
    <p>We houden ons het recht voor enig materiaal te verwijderen, met of zonder enige reden. We houden ons het recht voor elk lidmaatschap te beëindigen, met of zonder enige reden.</p>
-   
+
    <p>Je moet op zijn minst 13 jaar oud zijn om deze dienst te gebruiken.</p>
 ';
 $Definition['Test'] = 'Test';
@@ -1794,7 +1794,6 @@ $Definition['This answer was %s.'] = 'Dit antwoord was %s.';
 $Definition['This answer was Accepted.'] = 'Dit antwoord was Geaccepteerd.';
 $Definition['This category does not have any articles.'] = 'Deze categorie heeft geen artikelen.';
 $Definition['This category does not have any events.'] = 'Deze categorie bevat geen evenementen.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Deze discussie heeft een meer <0>recente versie</0> .';
 $Definition['This discussion has been closed.'] = 'Deze discussie is gesloten.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Deze discussie is <a href="{url,html}">verplaatst</a> .';

@@ -1730,21 +1730,21 @@ $Definition['Click here to read.'] = 'Clique aqui para ler.';
 $Definition['TermsOfService'] = 'Termos de Serviço';
 $Definition['Terms of Service'] = 'Termos de Serviço';
 $Definition['TermsOfServiceText'] = '
-   <p>Você concorda, através do uso deste serviço, que não irá usar esta 
+   <p>Você concorda, através do uso deste serviço, que não irá usar esta
    comunidade para postar material falso e/ou difamatório,
    inexato, abusivo, vulgar, odioso, assedioso, obceno, profano, sexualmente
    orientado, ameaçador, invasido de privacidade pessoal, ou que viole
    qualquer lei. Você concorda em não postar nenhum material que fira direitos autorais.</p>
-   
+
    <p>Nós, nesta comunidade, também nos reservamos o direito de revelar sua identidade (ou
   qualquer outra informação de possuímos de você) caso ocorra um evento ilegal
   de postagens provenientes de você. Nós registramos todos os endereços que acessam este site.</p>
-   
-   <p>Por favor, propagandas, correntes de mensagens, esquemas de pirâmide, 
+
+   <p>Por favor, propagandas, correntes de mensagens, esquemas de pirâmide,
    entre outros, são inapropriadas nesta comunidade.</p>
-   
+
    <p>Nós nos reservamos no direito de remover qualquer conteúdo por qualquer motivo, ou mesmo sem motivos. Nos reservamos o direito a deletar qualquer inscrição de usuário, com ou sem motivos.</p>
-   
+
    <p>Você precisa ter no mínimo 13 anos para usar este serviço.</p>
 ';
 $Definition['Test'] = 'Teste';
@@ -1798,7 +1798,6 @@ $Definition['This answer was %s.'] = 'A resposta foi %s.';
 $Definition['This answer was Accepted.'] = 'Esta resposta foi aceita.';
 $Definition['This category does not have any articles.'] = 'Não há artigos nesta categoria.';
 $Definition['This category does not have any events.'] = 'Não existem eventos nesta categoria.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Esta discussão tem uma versão mais <0> recente</0> .';
 $Definition['This discussion has been closed.'] = 'Esta discussão está fechada.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Esta discussão foi <a href="{url,html}">movida</a>.';

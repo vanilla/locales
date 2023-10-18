@@ -1305,7 +1305,7 @@ $Definition['Password changed successfully.'] = 'Heslo bolo úspešne zmenené.'
 $Definition['Password Contains Username'] = 'Obsahuje používateľské meno';
 $Definition['Password Good'] = 'Dobré';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Niekto požiadal o obnovu vašeho hesla na %2$s. Pre obnovu hesla, kliknite na nasledujúci odkaz: 
+$Definition['PasswordRequest'] = 'Niekto požiadal o obnovu vašeho hesla na %2$s. Pre obnovu hesla, kliknite na nasledujúci odkaz:
 
   %3$s
 
@@ -1794,7 +1794,6 @@ $Definition['This answer was %s.'] = 'Táto odpoveď bola %s.';
 $Definition['This answer was Accepted.'] = 'Táto odpoveď je Prijatá.';
 $Definition['This category does not have any articles.'] = 'Táto kategória nemá žiadne články.';
 $Definition['This category does not have any events.'] = 'Táto kategória neobsahuje žiadne udalosti.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Táto diskusia má <0> novšiu verziu</0> .';
 $Definition['This discussion has been closed.'] = 'Táto diskusia bola uzavrená.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Táto diskusia bola <a href="{url,html}">presunutá</a> .';

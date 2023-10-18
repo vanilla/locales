@@ -1739,19 +1739,19 @@ $Definition['TermsOfServiceText'] = '
    嫌がらせ、わいせつ表現、冒涜表現、性的表現、脅迫、プライバシーの侵害、
    あるいは違法な内容は投稿できません。あなた自身が著作権者である場合を除き、
    著作権によって保護された内容は投稿できません。</p>
-   
+
    <p>本コミュニティはまた、あなたの投稿によって法律問題や訴訟が発生した場合、
    個人情報 (あるいは何であれ知り得た情報) を提供する権利を有するものとします。
    本ウェブサイトへのアクセスは、いかなるインターネットプロトコルによるもので
    あれ、記録されます。</p>
-   
+
    <p>広告、チェーンレター、マルチ商法、セールスの勧誘は、本コミュニティにおいて
    不適切な行為とみなされます。</p>
-   
+
    <p>本コミュニティは、理由のいかんに関わらず いかなるコンテンツをも削除する
    権利を有するものとします。また理由のいかんに関わらず いかなる会員資格をも
    停止する権利を有するものとします。</p>
-   
+
    <p>このサービスを利用するには、13 歳以上である必要があります。</p>
 ';
 $Definition['Test'] = 'Test';
@@ -1808,7 +1808,6 @@ $Definition['This answer was %s.'] = 'この答えは%sでした。';
 $Definition['This answer was Accepted.'] = 'この答えは受け入れられました。';
 $Definition['This category does not have any articles.'] = 'このカテゴリーには記事がありません。';
 $Definition['This category does not have any events.'] = 'このカテゴリにはイベントがありません。';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'このディスカッションには、より<0>最近のバージョンがあります</0>。';
 $Definition['This discussion has been closed.'] = 'このディスカッションは閉じられました。';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'このディスカッションは<a href="{url,html}">移動済み</a>です。';

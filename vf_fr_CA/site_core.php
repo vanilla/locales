@@ -1745,7 +1745,7 @@ $Definition['TermsOfServiceText'] = 'Vous acceptez, en participant à ce service
 Votre identité peut être fournie aux autorités judiciaires dans le cadre d\'une enquête ou une action judiciaire à votre encontre. Toutes les adresses IP utilisées pour accéder au forum sont conservées.
 
 La publicité, les chaînes, les mécanismes à diffusion pyramidale et toute forme de sollicitations commerciales ne sont pas acceptées sur ce forum.
-   
+
 Nous nous réservons le droit de retirer tout contenu  pour quelque raison que ce soit et sans justification. Nous nous réservons également le droit de mettre fin à toute participation sans avoir à le justifier.
 
 Vous devez également avoir au moins 13 ans pour participer au forum.';
@@ -1800,7 +1800,6 @@ $Definition['This answer was %s.'] = 'La réponse était %s.';
 $Definition['This answer was Accepted.'] = 'Cette réponse a été acceptée.';
 $Definition['This category does not have any articles.'] = 'Cette catégorie ne contient aucun article.';
 $Definition['This category does not have any events.'] = 'Il n\'y a pas d\'événements dans cette catégorie.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Une version plus <0>récente</0> existe pour cette discussion.';
 $Definition['This discussion has been closed.'] = 'Cette discussion a été fermée.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Cette discussion a été <a href="{url,html}">déplacée</a> .';

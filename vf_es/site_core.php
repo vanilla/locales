@@ -620,7 +620,7 @@ $Definition['EmailMembershipApproved'] = 'Hola %1$s,
 Has sido aprobado como miembro. Inicia la sesión ahora con el siguiente enlace:
 
   %2$s
-  
+
 ¡Qué tengas un buen día!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1791,7 +1791,6 @@ $Definition['This answer was %s.'] = 'Esta respuesta fue %s. ';
 $Definition['This answer was Accepted.'] = 'Esta respuesta fue Aceptada. ';
 $Definition['This category does not have any articles.'] = 'Esta categoría no contiene artículos.';
 $Definition['This category does not have any events.'] = 'Esta categoría no tiene eventos';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Esta discusión tiene una versión <0>más reciente</0>.';
 $Definition['This discussion has been closed.'] = 'Esta discusión ha sido cerrada.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Esta conversación se ha <a href="{url,html}">movido</a>.';

@@ -622,7 +622,7 @@ $Definition['EmailMembershipApproved'] = 'Доброго дня, %1$s,
 Ваша реєстрація була затверджена! Щоб увійти на сайт, пройдіть за посиланням:
 
   %2$s
-  
+
 Приємного дня!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1309,7 +1309,7 @@ $Definition['Password changed successfully.'] = 'Пароль успішно з�
 $Definition['Password Contains Username'] = 'Містить ім\'я користувача';
 $Definition['Password Good'] = 'Хороший';
 $Definition['Password Ok'] = 'Добре';
-$Definition['PasswordRequest'] = 'Хтось запросив зміну паролю  на %2$s. Щоб скинути пароль, перейдіть за цим посиланням: 
+$Definition['PasswordRequest'] = 'Хтось запросив зміну паролю  на %2$s. Щоб скинути пароль, перейдіть за цим посиланням:
 
 %3$s
 
@@ -1788,7 +1788,6 @@ $Definition['This answer was %s.'] = 'Ця відповідь була %s.';
 $Definition['This answer was Accepted.'] = 'Відповідь прийнята.';
 $Definition['This category does not have any articles.'] = 'У цій категорії немає жодної статті.';
 $Definition['This category does not have any events.'] = 'У цій категорії немає жодних подій.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Це обговорення має більш <0>свіжу версію</0>.';
 $Definition['This discussion has been closed.'] = 'Це обговорення закрите';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Це обговорення було <a href="{url,html}">перенесено</a> .';

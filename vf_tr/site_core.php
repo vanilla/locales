@@ -1789,7 +1789,6 @@ $Definition['This answer was %s.'] = 'Bu cevap %s.';
 $Definition['This answer was Accepted.'] = 'Cevap kabul edildi.';
 $Definition['This category does not have any articles.'] = 'Bu kategoride makale yok.';
 $Definition['This category does not have any events.'] = 'Bu kategoride herhangi bir etkinlik yok.';
-$Definition['This category will no longer appear in your email digest.'] = ['This category will no longer appear in your email digest.'];
 $Definition['This discussion has a more <0>recent version</0>.'] = 'Bu tartışmanın daha <0>yeni bir sürümü var</0> .';
 $Definition['This discussion has been closed.'] = 'Bu tartışma kapatıldı.';
 $Definition['This discussion has been <a href="{url,html}">moved</a>.'] = 'Bu tartışma <a href="{url,html}">taşındı</a>.';
