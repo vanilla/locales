@@ -238,6 +238,7 @@ $Definition['Already Warned'] = 'Already Warned';
 $Definition['Also banned for the following:'] = 'Also banned for the following:';
 $Definition['Also delete this user\'s content.'] = 'Also delete this user\'s content.';
 $Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'Alternative text helps users with accessibility concerns and improves SEO.';
+$Definition['A message has been sent to your email address with password reset instructions.'] = 'If there\'s an account associated with this email, we\'ve sent a password reset link.';
 $Definition['Analytics'] = 'Analytics';
 $Definition['Ancient Membership'] = 'Ancient Membership';
 $Definition['An invitation has already been sent to the email you entered.'] = 'An invitation has already been sent to the email you entered.';
