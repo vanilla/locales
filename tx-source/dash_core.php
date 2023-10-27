@@ -177,7 +177,6 @@ $Definition['Cannot build profile information if user is not defined.'] = 'Canno
 $Definition['Categories &amp; Discussions'] = 'Categories &amp; Discussions';
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['Categories Layout'] = 'Categories Layout';
-$Definition['Category'] = 'Category';
 $Definition['Category Following'] = 'Category Following';
 $Definition['Category Page Layout'] = 'Category Page Layout';
 $Definition['Category Url:'] = 'Category Url:';
@@ -322,7 +321,6 @@ $Definition['Download Locale List'] = 'Download Locale List';
 $Definition['DownloadLocalePack'] = 'Download';
 $Definition['Download Locale Pack'] = 'Download Locale Pack';
 
-
 $Definition['Edit/Delete Log'] = 'Edit/Delete Log';
 $Definition['Edit Category'] = 'Edit Category';
 $Definition['Edit CSS'] = 'Edit CSS';
@@ -442,7 +440,6 @@ $Definition['Getting Started with Vanilla'] = 'Getting Started with Vanilla';
 $Definition['give'] = 'give';
 $Definition['Give a Badge'] = 'Give a Badge';
 $Definition['Given Indexes'] = 'Given Indexes';
-$Definition['Group'] = 'Group';
 $Definition['guest'] = 'guest';
 $Definition['Guest roles'] = 'Check all roles that should be applied to guests.';
 
@@ -613,7 +610,6 @@ $Definition['No drafts.'] = 'No drafts.';
 $Definition['No item options are available for Link display type.'] = 'No item options are available for Link display type.';
 $Definition['No Items Selected'] = 'No Items Selected';
 $Definition['No results for %s.'] = 'No results for <b>%s</b>.';
-$Definition['None'] = 'None';
 $Definition['Not Dismissable'] = 'Not Dismissable';
 $Definition['Notes'] = 'Notes';
 $Definition['Notifications will appear here.'] = 'Notifications will appear here.';
