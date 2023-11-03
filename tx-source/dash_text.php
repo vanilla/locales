@@ -130,7 +130,6 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 $Definition['Labs'] = 'Labs';
-$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Large images will be scaled down to a max width of 400px and a max height of 300px.';
 $Definition['Learn about custom routing.'] = 'Learn about custom routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
@@ -180,6 +179,7 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.';
 $Definition['Recommend starting with five ranks.'] =
     'You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.';
+$Definition['Recommended dimensions are about 400px by 300px or smaller with similar ratio.'] = 'Recommended dimensions are about 400px by 300px or smaller with similar ratio.';
 $Definition['Requires “Flag” reaction permission.'] = 'Requires “Flag” reaction permission.';
 $Definition['Requires “Negative” reaction permission.'] = 'Requires “Negative” reaction permission.';
 $Definition['Requires “Positive” reaction permission.'] = 'Requires “Positive” reaction permission.';
