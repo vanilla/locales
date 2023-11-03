@@ -17,9 +17,11 @@ $Definition['AddressBarColorDescription'] = 'Ezinye iziphequluli zisekela umbala
 $Definition['AddonProblems'] = '<h2> Izinkinga? </h2><p> Uma kukhona okungahambi kahle nge-addon futhi ungakwazi ukusebenzisa isayithi lakho, ungakhubaza ngesandla ngokuhlela: </p> %s';
 $Definition['Alert users if they click external link.'] = 'Abasebenzisi bezaziso uma bechofoza isixhumanisi kokuthunyelwe okuzoholela kude nesithangami. Abasebenzisi ngeke baxwayiswe uma kulandela izixhumanisi ezihambelana ne-Domain Ethembekile';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Zonke izigaba ezifakwe kuhlu ezikhethiwe kwezingxoxo ezi-5 zakamuva ngaphansi kwesigaba ngasinye';
-$Definition['Allow links to be transformed'] = 'Vumela izixhumanisi ukuthi ziguqulwe zibe yizifanekiselo ezishumekiwe ezingxoxweni nasemazwaneni. Isibonelo, ukuxhumana kwe-YouTube kuzoshintsha kube yividiyo eshumekiwe.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Vumela abasebenzisi abane-%s imvume yokushintsha ama-avatar abo kusuka kumakhasi abo e-Vanilla.';
-$Definition['Anonymize IP Addresses'] = 'Ungavezi amakheli e-IP';
+$Definition['Allow links to be transformed'] =
+    'Vumela izixhumanisi ukuthi ziguqulwe zibe yizifanekiselo ezishumekiwe ezingxoxweni nasemazwaneni. Isibonelo, ukuxhumana kwe-YouTube kuzoshintsha kube yividiyo eshumekiwe.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Vumela abasebenzisi abane-%s imvume yokushintsha ama-avatar abo kusuka kumakhasi abo e-Vanilla.';
+$Definition['Anonymize IP Addresses'] = "Ungavezi amakheli e-IP";
 $Definition['ApplicationHelp'] = 'Izicelo zikuvumela ukuthi ungeze amaqembu amakhulu wokusebenza kusayithi lakho. <br /> Lapho uhlelo lokusebenza selungezwe kufolda yakho ye-%s, ungayinika amandla noma ikhubaze lapha.';
 $Definition['Apply Layout'] = 'Sebenzisa Isakhiwo';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Uqinisekile ukuthi ufake igama lomsingathi wemininingwane efanele? Mhlawumbe uyiphathe kabi? Imininingwane yabika: <code>%s</code>';
@@ -35,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'Shintsha indlela umphakathi wakho osebenza ngayo nama-plugins. Sihlanganise ama-plugins athandwayo ngesoftware, futhi kukhona amanye atholakala online.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'Izinguquko zizosebenza kuma-avatar asanda kulayishwa kuphela.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'Shintsha osayizi ukuthi izithombe ze-avatar zigcinwa kuzo.';
+$Definition['Changes to the set day will take affect the following week.'] = 'Izinguquko osukwini olumisiwe zizothinta isonto elilandelayo.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Amabhokisi wokuhlola avumela ama-admins ukuthi enze isenzo se-batch kwinqwaba yezingxoxo noma amazwana ngasikhathi sinye.';
 $Definition['Check out our %s'] = 'Bheka i-%s yethu';
@@ -66,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Hudu
 $Definition['EditContentTimeout.Notes'] = 'Uma umsebenzisi esesendimeni enemvume yokuhlela okuqukethwe, lezo zimvume zizokweqa lokhu.';
 $Definition['Edit Route'] = 'Hlela umzila';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Shuthela inkundla yakho yomphakathi kuwebhusayithi yakho ukwandisa ukubandakanyeka ...';
+$Definition['Email digests will be sent on the selected day every week.'] = 'Inhlabamkhosi ye-imeyili izothunyelwa ngosuku olukhethiwe njalo ngeviki.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'I-imeyili ethunyelwe isuka kuhlelo lokusebenza izoqondiswa kuleli kheli le-imeyili';
+$Definition['Email sent from the application will be addressed from this name'] = 'I-imeyili ethunyelwe isuka kuhlelo lokusebenza izoqondiswa kusuka kuleli gama';
+$Definition['Email Settings'] = 'Izilungiselelo ze-imeyili';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Inika amandla ukuhlelwa okuthuthukile kokuthunyelwe ngezindlela eziningi, kufaka phakathi i-WYSIWYG, i-HTML elula, iMarkdown, ne-BBCode.';
 $Definition['Enter a descriptive name.'] = 'Faka igama elichazayo ephaketheni. Leli gama ngeke liboniswe ndawo ngaphandle kokuthi lapho ulawula amaphakethe akho lapha ngakho-ke asetshenziswa kuphela ukukusiza ukhumbule ephaketheni.';
@@ -82,15 +89,15 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Isibonelo, ungavimba bonke abasebenzisi ngamakheli ama-imeyili asuka ku- "example.com" ngokungeza ukuvinjelwa kohlobo lwe-imeyili ngenani le- "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Ngezinhloso ze-SEO, abakhandi benjini yokusesha abakhishwa ngaphandle kokuphoqwa ukuthi babuke isithangami ku-url eyihlane.';
 $Definition['Foundation Layout'] = 'Ukuhlelwa Kwesisekelo';
-$Definition['Full Anonymization'] = 'Ukungaziwa Okugcwele';
-$Definition['FullAnonymization.Description'] = '<strong>Ukungaziwa Okugcwele</strong> kungena esikhundleni sekheli ngalinye le-IP ngo-0.0.0.0 ngokuphumelelayo ukwenqaba uhlelo lokusebenza noma yikuphi ukufinyelela ekusebenzeni ngamakheli e-IP. Imithetho yokuvinjelwa kwe-IP ngeke isebenze nhlobo kuleli cala.';
-$Definition['Full Bleed'] = 'Okugcwele Kugcwele';
+$Definition['FullAnonymization.Description'] = "<strong>Ukungaziwa Okugcwele</strong> kungena esikhundleni sekheli ngalinye le-IP ngo-0.0.0.0 ngokuphumelelayo ukwenqaba uhlelo lokusebenza noma yikuphi ukufinyelela ekusebenzeni ngamakheli e-IP. Imithetho yokuvinjelwa kwe-IP ngeke isebenze nhlobo kuleli cala.";
+$Definition['Full Anonymization'] = "Ukungaziwa Okugcwele";
 
 $Definition['Garden.Import.Complete.Description'] = 'Uqede ngempumelelo ukungenisa. Chofoza <b>kuQedile</b> lapho usukulungele.';
 $Definition['Garden.Import.Continue.Description'] = 'Kubukeka sengathi uphakathi kokungenisa. Sicela ukhethe okukodwa kokulandelayo.';
 $Definition['Garden.Import.InputInstructions'] = 'Faka i-imeyili ne-password yomsebenzisi wokuqondisa kusuka kudatha engeniswayo.';
-$Definition['Garden.Privacy.IPs.Description'] = 'Amakheli e-IP omsebenzisi ngokuvamile aqoqwa ngemithetho yokuvinjelwa ezenzakalelayo, ukulinganisela nezinjongo zokuvimbela ogaxekile. Ukunika amandla Ukungaziwa Kwe-IP kuzowenza angaziwa wonke amakheli e-IP alandelelwa kusayithi nganoma iyiphi injongo, futhi kuzonciphisa ukusebenza kahle kwalawa mathuluzi. Izinguquko kulesi silungiselelo azenzisi emuva.';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Ingadi.Profiles.Hlela imvume yokushintsha ama-avatar abo kusuka kumakhasi abo e-Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = "Amakheli e-IP omsebenzisi ngokuvamile aqoqwa ngemithetho yokuvinjelwa ezenzakalelayo, ukulinganisela nezinjongo zokuvimbela ogaxekile. Ukunika amandla Ukungaziwa Kwe-IP kuzowenza angaziwa wonke amakheli e-IP alandelelwa kusayithi nganoma iyiphi injongo, futhi kuzonciphisa ukusebenza kahle kwalawa mathuluzi. Izinguquko kulesi silungiselelo azenzisi emuva.";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Ingadi.Profiles.Hlela imvume yokushintsha ama-avatar abo kusuka kumakhasi abo e-Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Ukhubaze ngokukhethekile i-Vanilla Statistics kwifayela lakho lokucushwa.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Le nkundla ibonakala isebenza endaweni yokuhlola, noma ngenye indlela ibika i-IP yangasese. Ngokuzenzakalelayo, izinkundla ezisebenza kuma-IP angasese azilandelelwa.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Uma uqinisekile ukuthi iforamu yakho iyatholakala kusuka ku-inthanethi ungayiphoqa ukuthi ibike izibalo lapha:';
@@ -122,11 +129,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Qalisa umphakathi wakho futhi ukhuphule ukuzibandakanya komsebenzisi.';
 $Definition['Labs'] = 'Amalebhu';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Izithombe ezinkulu zizokwehliswa kuze kufike kububanzi obukhulu obungu-400px kanye nobude bobude obungu-300px.';
 $Definition['Learn about custom routing.'] = 'Funda ngemikhondo yangokwezifiso.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Funda ukuthi ungakushintsha ngokuphelele ukubukeka nokuzwa kwesithangami sakho: layisha ilogo yakho, setha ikhasi lakho eliyisiqalo, khetha ingqikithi bese uyenza ngokwezifiso.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Funda ukuthi usebenzise kanjani ukusebenza okuyisisekelo kwesithangami sakho.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Izindawo zikuvumela ukuthi uxhase ezinye izilimi kusayithi lakho. Nika amandla futhi ukhubaze izindawo lapho ufuna ukwenza zitholakale lapha.';
-$Definition['Lockout Time (seconds)'] = 'Isikhathi sokuvala (amasekhondi)';
+$Definition['Lockout Time (seconds)'] = "Isikhathi sokuvala (amasekhondi)";
 $Definition['LogoDescription'] = 'Ilogo yesibhengezo ivela phezulu kusayithi lakho.';
 $Definition['LogoDisclaimer'] = 'Izindikimba ezenziwe ngesihleli sengqikithi nezinye izingqikili ezenziwe ngokwezifiso azisebenzisi lokhu kulungiselelwa.';
 
@@ -141,14 +149,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Izindikimba zeselula zikuvumela ukuthi ushintshe ukubukeka nokuzwa kwesayithi lakho kumadivayisi amancane.';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'QAPHELA Umhleli Wesakhiwo esisha uzodla ifa letimu esethwe Kumhlahlandlela wakho Wesitayela (umhleli wetimu ngokusemthethweni). <1>Thola okwengeziwe</1>';
-$Definition['Need More Help?'] = 'Ngabe udinga usizo olwengeziwe?';
-$Definition['Need more help?'] = 'Udinga usizo olwengeziwe?';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Izigaba ezifakiwe ezijule kakhulu kunale ukujula zizofakwa kuhlu olunqunyelwe kukhefana.';
-$Definition['New Embed System'] = 'Uhlelo olusha lokushumeka';
-$Definition['New Quick Links'] = 'Izixhumanisi Ezisha Ezintsha';
-$Definition['New Search Page'] = 'Ukucinga okusha';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'Izigaba ezifakiwe ezijule kakhulu kunale ukujula zizofakwa kuhlu olunqunyelwe kukhefana.';
 $Definition['No Anonymization'] = 'Akukho Ukungaziwa';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Isiza sidinga indima enohlobo lokuzenzakalelayo "olungagunyaziwe" ukusebenzisa ukuqinisekiswa kwe-imeyili. Sicela ungeze eyodwa ukuze unike amandla lokhu kulungiselelwa.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Ukungatholi okudingayo lapho ubuka kuqala itimu yakho?';
 $Definition['Notify me when people comment on my addons.'] = 'Ngazise lapho abantu bephawula ngama-addons ami.';
 
@@ -157,8 +161,8 @@ $Definition['OrgDescription'] = 'Igama lenhlangano yakho lisetshenziselwa i-SEO 
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Ukubukwa okwenziwe ngokweqile noma ama-themehooks angaba nemiphumela emibi engahlosiwe futhi akubukwa kuqala.';
 
-$Definition['Partial Anonymization'] = 'Ukungaziwa okuncane';
-$Definition['PartialAnonymization.Description'] = '<strong>Ukungaziwa Ngokwengxenye</strong> kwenza kungaziwa kuphela i-octet yokugcina yekheli le-IP. Isibonelo 254.230.05.153 izoba ngu-254.230.05.0. Lokhu kunikeza ukungaziwa okuthile ngenkathi kusavumela imithetho yokuvinjelwa kwe-IP ukuthi isebenze.';
+$Definition['PartialAnonymization.Description'] = "<strong>Ukungaziwa Ngokwengxenye</strong> kwenza kungaziwa kuphela i-octet yokugcina yekheli le-IP. Isibonelo 254.230.05.153 izoba ngu-254.230.05.0. Lokhu kunikeza ukungaziwa okuthile ngenkathi kusavumela imithetho yokuvinjelwa kwe-IP ukuthi isebenze.";
+$Definition['Partial Anonymization'] = "Ukungaziwa okuncane";
 $Definition['Password.MinLength'] = 'Ubude obuncane bezinhlamvu obuvunyelwe kubasebenzisi baphasiwedi ekudaleni iphasiwedi kanye nokusetha kabusha amakhasi.';
 $Definition['Please choose an authenticator to configure.'] = 'Sicela ukhethe ubuqiniso bokumisa.';
 $Definition['PluginHelp'] = 'Ama-plugins akuvumela ukuthi ungeze ukusebenza kusayithi lakho. <br /> Uma i-plugin ingeziwe kufolda yakho ye-%s, ungayinika amandla noma ikhubaze lapha.';
@@ -196,13 +200,11 @@ $Definition['Session Timeout'] = 'Isikhathi Sokuphela Seseshini';
 $Definition['ShareImageDescription'] =
     'Lapho othile abelana ngesixhumanisi kusuka kusayithi lakho sizama futhi sibambe isithombe esivela ekhasini. Uma kungekho isithombe ekhasini khona-ke sizosebenzisa lesi sithombe esikhundleni. Lesi sithombe kufanele okungenani sibe ngu-50 × 50, kepha sincoma ama-200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Vula le ndlela ukukhombisa zonke izindawo ezingena ephaketheni. Ukuvula le nketho kuzokhombisa kuphela izindawo kubasebenzisi abangaphatha amaphakethe.';
-$Definition['SignIn.LockoutTime'] = 'Inani lesikhathi umsebenzisi avinjelwe ukungena ngemvume ngemva kokweqa inombolo yemizamo yokungena.';
-$Definition['Solid'] = 'Kuqinile';
-$Definition['Some browsers support a color for the address bar.'] = 'Ezinye iziphequluli zisekela umbala webha yekheli.';
-$Definition['Some older themes don\'t support full editing capability.'] = 'Amanye amatimu amadala awasekeli amandla okuhlela agcwele. Ukuze ubone ukuthi itimu isekela ini ungahambisa phezu kwegama layo ukuze ubone ukuthi ukuhlela kuzosebenza kuphi.';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Ezinye izingqikithi zingadinga ukuvuselelwa ukuze zisebenze nesigaba esilandelayo. Ungakhubaza isici ngenkathi uvuselela itimu yakho.';
-$Definition['Sometimes you want to embed your Vanilla site'] = 'Kwesinye isikhathi ufuna ukushumeka isayithi lakho leVanilla ngaphakathi kwenye isayithi. Isistimu yokushumeka ye-vanilla inikeza indlela elula yalokho. Kukhona ukuhwebelana kokusebenza uma usebenzisa isayithi elishumekiwe, ngakho hlola imibhalo ukuze uthole ezinye izindlela kanye namacala okusebenzisa afanelekile.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Imikhawulo ekhethekile: Abasebenzisi kuphela abanemvume yeGarden.Curation.Manage bangasebenzisa lokhu kusabela.';
+$Definition['SignIn.LockoutTime'] = "Inani lesikhathi umsebenzisi avinjelwe ukungena ngemvume ngemva kokweqa inombolo yemizamo yokungena.";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'Ezinye izingqikithi zingadinga ukuvuselelwa ukuze zisebenze nesigaba esilandelayo. Ungakhubaza isici ngenkathi uvuselela itimu yakho.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'Imikhawulo ekhethekile: Abasebenzisi kuphela abanemvume yeGarden.Curation.Manage bangasebenzisa lokhu kusabela.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Cacisa ukufana noma ukufana okugcwele lapho udala ukuvinjelwa.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Chitha isikhathi esincane ucabanga ukuthi usichaza kanjani isiza sakho lapha. Ukunikeza isiza sakho isihloko esinenjongo nencazelo emfushane kungasiza isikhundla sakho ezinjini zokusesha.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Hlanganisa ama-imeyili akho ngokungeza ilogo nokwenza imibala ibe ngokwezifiso.';
@@ -236,6 +238,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'Zisebenza njengezindikimba ezijwayelekile. Uma eyodwa ingeziwe kufolda yezindikimba, ungayinika amandla lapha.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Le deshibhodi yokulawula yomphakathi wakho omusha. Bheka izinketho zokumisa ohlangothini. Ukusuka lapho ungahlela ukuthi umphakathi wakho usebenza kanjani. <b>Ngokuzenzakalelayo, abasebenzisi kuphelaendima ethi "Administrator" abangabona le ngxenye yomphakathi wakho.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'Lokhu kungase kusetshenziselwe ukufaka okuqukethwe okufana negama lenhlangano nekheli kuwo wonke ama-imeyili aphumayo.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Le nketho ikhombisa / ifihla izindawo lapho amaphakethe angaya khona, kepha yenzelwe abasebenzisi kuphela abanemvume yokwengeza / ukuhlela amaphakethe. Zama ukubonisa izindawo bese uvakashela isayithi lakho.';
 $Definition['This page lists the endpoints of your API.'] =
     'Leli khasi libonisa uhlu lwe-API yakho. Chofoza iziphetho ukuthola eminye imininingwane. Ungenza izingcingo bukhoma ku-API kusuka kuleli khasi noma ngaphandle usebenzisa ithokheni yokufinyelela.';
@@ -272,6 +275,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>Isexwayiso</b> : Lokhu kwenzelwa abasebenzisi abasezingeni eliphezulu futhi kudinga ukuthi wenze ushintsho olwengeziwe kuseva yakho ye-web. Lokhu kuvame ukutholakala kuphela uma uzinikezele noma usingatha i-vps. Ungazami lokhu uma ungazi ukuthi wenzani.';
 $Definition['Webhooks'] = 'Ama-Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Sincoma ukusabela okuhle kakhulu ukukhuthaza ukubamba iqhaza.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'Uma inikwe amandla, abasebenzisi bangakhetha ukuthola izaziso ezivela emphakathini';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Uma unikwe amandla, ungaphatha imikhiqizo, kanye namaqembu amancane weqembu ngaleyo mikhiqizo.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Ukuthi izinkambu zephrofayela yangaphakathi zizofakwa noma cha kule webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Ukuthi izinkambu zephrofayela eyimfihlo zizofakwa noma cha kule webhook.';

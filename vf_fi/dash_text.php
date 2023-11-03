@@ -17,9 +17,11 @@ $Definition['AddressBarColorDescription'] = 'Jotkin selaimet tukevat osoitepalki
 $Definition['AddonProblems'] = '<h2>Ongelmia?</h2><p>Jos jotain menee vikaan lisäosan kanssa, voit poistaa sen käytöstä manuaalisesti muokkaamalla:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Varoita käyttäjiä, jos he napsauttavat julkaisussa olevaa linkkiä, joka siirtää heidät pois keskustelupalstalta. Käyttäjiä ei varoiteta, jos he seuraavat luotettua verkkotunnusta vastaavia linkkejä';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Kaikki kategoriat listattuna niin että näkyvissä on jokaisesta 5 uusinta aihetta';
-$Definition['Allow links to be transformed'] = 'Mahdollista linkkien muuttaminen keskusteluihin ja kommentteihin upotetuiksi esityksiksi. Esimerkiksi YouTube-linkki muuttuu tässä tapauksessa upotetuksi videoksi.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Anna %s -valtuudet omaaville käyttäjille mahdollisuus muuttaa omia hahmokuviaan Vanillan profiilisivuillaan.';
-$Definition['Anonymize IP Addresses'] = 'Anonymisoi IP-osoitteet';
+$Definition['Allow links to be transformed'] =
+    'Mahdollista linkkien muuttaminen keskusteluihin ja kommentteihin upotetuiksi esityksiksi. Esimerkiksi YouTube-linkki muuttuu tässä tapauksessa upotetuksi videoksi.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Anna %s -valtuudet omaaville käyttäjille mahdollisuus muuttaa omia hahmokuviaan Vanillan profiilisivuillaan.';
+$Definition['Anonymize IP Addresses'] = "Anonymisoi IP-osoitteet";
 $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of functionality to your site.<br />Once an application has been added to your %s folder, you can enable or disable it here.';
 $Definition['Apply Layout'] = 'Käytä asettelua';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Oletko varma, että annoit oikean tietokannan isännän nimen? Tarkistathan oikeikirjoituksen jatkaaksesi. Tietokannan vastaus oli: <code>%s</code>';
@@ -35,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'Muokkaa yhteisösi toimintatapaa liitännäisten avulla. Olemme keränneet suosittuja liitännäisiä ohjelmiston mukaan, ja verkosta löytyy lisää.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'Muutokset pätevät ainoastaan niiden jälkeen ladattuihin hahmokuviin.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'Muuta kokoa, jossa hahmokuvat tallennetaan.';
+$Definition['Changes to the set day will take affect the following week.'] = 'Muutokset asetettuun päivään tulevat voimaan seuraavalla viikolla.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Järjestelmänvalvojat voivat tehdä rastituslaatikoiden avulla toimenpiteitä useisiin keskusteluihin tai kommentteihin kerralla.';
 $Definition['Check out our %s'] = 'Lue %s -sivumme';
@@ -66,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Raah
 $Definition['EditContentTimeout.Notes'] = 'Note: If a user is in a role that has permission to edit content, those permissions will override any value selected here.';
 $Definition['Edit Route'] = 'Muokkaa reittiä';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Forumin sisällyttäminen toiselle sivustolle on omiaan lisäämään vuorovaikutusta.';
+$Definition['Email digests will be sent on the selected day every week.'] = 'Sähköpostitiivistelmät lähetetään valittuna päivänä joka viikko.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'Hakemuksesta lähetetty sähköposti lähetetään tästä sähköpostiosoitteesta';
+$Definition['Email sent from the application will be addressed from this name'] = 'Hakemuksesta lähetetty sähköposti osoitetaan tällä nimellä';
+$Definition['Email Settings'] = 'Sähköpostiasetukset';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Mahdollistaa julkaisujen tehokkaamman muokkauksen useissa eri muodoissa, joihin lukeutuvat muun muassa WYSIWYG, yksinkertainen HTML, Markdown ja BBCode.';
 $Definition['Enter a descriptive name.'] = 'Enter a descriptive name for the pocket. This name will not show up anywhere except when managing your pockets here so it is only used to help you remember the pocket.';
@@ -82,16 +89,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Voit esimerkiksi estää kaikki sähköpostin "esimerkki.com" omaavat käyttäjät lisäämällä sähköpostityypin eston arvolla "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.';
 $Definition['Foundation Layout'] = 'Säätiön asettelu';
-$Definition['Full Anonymization'] = 'Täysi anonymisointi';
-$Definition['FullAnonymization.Description'] = '<strong>Täysi anonymisointi</strong> korvaa jokaisen yksittäisen IP-osoitteen 0.0.0.0:lla, mikä estää sovellukselta pääsyn IP-osoitteisiin. IP-kieltosäännöt eivät toimi tässä tapauksessa ollenkaan.';
-$Definition['Full Bleed'] = 'Ei rajausta';
+$Definition['FullAnonymization.Description'] = "<strong>Täysi anonymisointi</strong> korvaa jokaisen yksittäisen IP-osoitteen 0.0.0.0:lla, mikä estää sovellukselta pääsyn IP-osoitteisiin. IP-kieltosäännöt eivät toimi tässä tapauksessa ollenkaan.";
+$Definition['Full Anonymization'] = "Täysi anonymisointi";
 
 $Definition['Garden.Import.Complete.Description'] = 'Tuonti onnistui.
    Klikkaa <b>Finished</b>, kun olet valmis.';
 $Definition['Garden.Import.Continue.Description'] = 'Sinulla on nähtävästi tuontiprosessi käynnissä. Valitse jokin seuraavista vaihtoehdoista.';
 $Definition['Garden.Import.InputInstructions'] = 'Enter the email and password of the admin user from the data being imported.';
-$Definition['Garden.Privacy.IPs.Description'] = 'Käyttäjien IP-osoitteet kerätään yleensä automaattisia kieltosääntöjä, valvontaa ja roskapostin estämistä varten. IP-anonymisoinnin ottaminen käyttöön anonymisoi kaikki sivustolla seuratut IP-osoitteet mihin tahansa tarkoitukseen ja heikentää näiden työkalujen tehokkuutta. Tämän asetuksen muutokset eivät ole taannehtivia.';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Puutarha.Profiilit.Muokkaa-valtuudet, joilla voi muuttaa hahmokuvia heidän Vanilla-profiilikuviensa kautta.';
+$Definition['Garden.Privacy.IPs.Description'] = "Käyttäjien IP-osoitteet kerätään yleensä automaattisia kieltosääntöjä, valvontaa ja roskapostin estämistä varten. IP-anonymisoinnin ottaminen käyttöön anonymisoi kaikki sivustolla seuratut IP-osoitteet mihin tahansa tarkoitukseen ja heikentää näiden työkalujen tehokkuutta. Tämän asetuksen muutokset eivät ole taannehtivia.";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Puutarha.Profiilit.Muokkaa-valtuudet, joilla voi muuttaa hahmokuvia heidän Vanilla-profiilikuviensa kautta.';
 $Definition['Garden.StatisticsDisabled'] = 'Olet konfiguraatiotiedostossasi erikseen poistanut Vanillan tilastoraportit käytöstä.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Vaikuttaa siltä, että foorumisi pyörii testiympäristössä tai sen IP-osoite on muusta syystä yksityinen. Oletuksena tilastoja ei kerätä foorumeista, joiden IP-osoite ei ole julkinen.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Jos olet varma, että foorumisi on internetin kautta tavoitettavissa, voit  tässä pakottaa sen raportoimaan tilastotiedot:';
@@ -123,11 +130,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 $Definition['Labs'] = 'Labs';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Suuret kuvat pienennetään enintään 400 kuvapisteen leveyteen ja 300 kuvapisteen korkeuteen.';
 $Definition['Learn about custom routing.'] = 'Lue lisää mukautetusta reitityksestä.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Opi muuttamaan foorumisi ulkonäköä ja käyttötuntumaa: lataa logosi, aseta kotisivusi, valitse teema ja muokkaa sitä.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Opi käyttämään foorumisi perustoimintoja.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Lokalisoinnin avulla sivustoasi voidaan käyttää muillakin kielillä. Ota tarvitsemasi kielet tässä käyttöön tai pois käytöstä. ';
-$Definition['Lockout Time (seconds)'] = 'Lukitusaika (sekunteina)';
+$Definition['Lockout Time (seconds)'] = "Lukitusaika (sekunteina)";
 $Definition['LogoDescription'] = 'Banderollo näkyy sivustosi yläosassa.';
 $Definition['LogoDisclaimer'] = 'Teemaeditorilla tehdyt teemat ja jotkut mukautetut teemat eivät käytä tätä asetusta.';
 
@@ -142,14 +150,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiiliteemojen avulla voi muuttaa sivuston ulkoasua ja tunnelmaa pienemmillä laitteilla.';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'HUOM. Uusi asettelueditori perii tyylioppaassasi (muodollisesti teemaeditorissa) määritetyn teeman. <1>Lisätietoja</1>';
-$Definition['Need More Help?'] = 'Lisää ohjeita?';
-$Definition['Need more help?'] = 'Tarvitsetko lisää apua?';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Tätä syvemmälle asetetut kategoriat asetetaan pilkuin erotetulle listalle.';
-$Definition['New Embed System'] = 'Uusi upotusjärjestelmä';
-$Definition['New Quick Links'] = 'Uudet pikalinkit';
-$Definition['New Search Page'] = 'Uusi hakusivu';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'Tätä syvemmälle asetetut kategoriat asetetaan pilkuin erotetulle listalle.';
 $Definition['No Anonymization'] = 'Ei anonymisointia';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Sivusto tarvitsee roolilla oletustyypin "vahvistamaton" sähköpostivahvistuksen käyttämiseksi. Ota tämä asetus käyttöön valitsemalla yksi.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Eikö teemasi esikatselukuva näytä haluamaltasi?';
 $Definition['Notify me when people comment on my addons.'] = 'Lähetä minulle ilmoitus, kun lähettämiäni lisäosia kommentoidaan.';
 
@@ -158,8 +162,8 @@ $Definition['OrgDescription'] = 'Organisaatiosi nimeä käytetään SEO-mikrodat
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Ohitetuilla katsontakerroilla tai teemakoukuilla voi olla odottamattomia sivuvaikutuksia, eikä niitä esitarkasteta.';
 
-$Definition['Partial Anonymization'] = 'Osittainen anonymisointi';
-$Definition['PartialAnonymization.Description'] = '<strong>Osittainen anonymisointi</strong> anonymisoi vain IP-osoitteen viimeisen oktetin. Esimerkiksi 254.230.05.153 muuttuisi 254.230.05.0. Tämä tarjoaa jonkin verran anonymisointia, mutta sallii silti IP-kieltosääntöjen toiminnan.';
+$Definition['PartialAnonymization.Description'] = "<strong>Osittainen anonymisointi</strong> anonymisoi vain IP-osoitteen viimeisen oktetin. Esimerkiksi 254.230.05.153 muuttuisi 254.230.05.0. Tämä tarjoaa jonkin verran anonymisointia, mutta sallii silti IP-kieltosääntöjen toiminnan.";
+$Definition['Partial Anonymization'] = "Osittainen anonymisointi";
 $Definition['Password.MinLength'] = 'Käyttäjien salasanojen pienin sallittu merkkipituus salasanan luonti- ja palautussivuilla.';
 $Definition['Please choose an authenticator to configure.'] = 'Valitse konfiguroitavaksi ainakin yksi autentikoija.';
 $Definition['PluginHelp'] = 'Lisäosien avulla voit laajentaa sivustosi toiminnallisuuksia. <br />Kun lisäosa on lisätty serverillesi kansioon %s, voit ottaa sen käyttöön tai poistaa käytöstä ohessa.';
@@ -197,13 +201,11 @@ $Definition['Session Timeout'] = 'Istunto vanhentunut';
 $Definition['ShareImageDescription'] =
     'Jonkun jakaessa linkin sivustoltasi pyrimme ottamaan mukaan kuvan kyseiseltä sivulta. Jos sivulla ei ole kuvia, niin silloin käytössä on tämä kuva. Kuvan on oltava vähintään 50x50-kokoinen, ja suositeltu koko on 200x200. ';
 $Definition['Show all possible pocket locations.'] = 'Ota tämä vaihtoehto käyttöön näyttääksesi kaikki mahdolliset taskujen sijainnit. Tämän vaihtoehdon ottaminen käyttöön näyttää sijainnit ainoastaan niille käyttäjille, jotka voivat hallita taskuja.';
-$Definition['SignIn.LockoutTime'] = 'Aika, jonka käyttäjää estetään kirjautumasta sisään, kun kirjautumisyritysten määrä on ylitetty.';
-$Definition['Solid'] = 'Kiinteä';
-$Definition['Some browsers support a color for the address bar.'] = 'Jotkut selaimet tukevat osoitepalkin väriä.';
-$Definition['Some older themes don\'t support full editing capability.'] = 'Jotkut vanhemmat teemat eivät tue täydellistä muokkausta. Jos haluat nähdä mitä teema tukee, siirrä hiiri sen nimen päälle nähdäksesi missä muokkaukset tulevat voimaan.';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Jotkin teemat on päivitettävä, jotta ne toimisivat kategoriassa. Voit ottaa ominaisuuden pois päältä päivittäessäsi teemaasi.';
-$Definition['Sometimes you want to embed your Vanilla site'] = 'Joskus haluat upottaa Vanilla-sivustosi toisen sivuston sisään. Vanillan upotusjärjestelmä tarjoaa siihen helpon tavan. Upotettua sivustoa käytettäessä on suorituskyvyn kompromisseja, joten tarkista vaihtoehtoja ja ihanteellisia käyttötapauksia dokumentaatiosta.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Erikoisrajoitus: ainoastaan Puutarha.Valvonta.Hallinnointi-valtuudet omaavat voivat käyttää tätä reaktiota.';
+$Definition['SignIn.LockoutTime'] = "Aika, jonka käyttäjää estetään kirjautumasta sisään, kun kirjautumisyritysten määrä on ylitetty.";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'Jotkin teemat on päivitettävä, jotta ne toimisivat kategoriassa. Voit ottaa ominaisuuden pois päältä päivittäessäsi teemaasi.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'Erikoisrajoitus: ainoastaan Puutarha.Valvonta.Hallinnointi-valtuudet omaavat voivat käyttää tätä reaktiota.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Anna osittainen tai täysi vastaavuus estoa luodessasi.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Pohdi hetkisen, kuinka kuvailet tässä sivustoasi. Jos sivustollasi on järkevä otsikko ja täsmällinen kuvaus, se voi parantaa sivustosi sijoitusta hakukoneissa.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Parantele sähköpostiviestejäsi lisäämällä niihin logo ja muokkaamalla värejä. ';
@@ -237,6 +239,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'Ne toimivat tavallisten teemojen tavoin. Lisättyäsi sellaisen teemakansioosi voit ottaa sen käyttöön täällä.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Tämä on uuden yhteisösi ylläpitäjän kojelauta. Katso hallinta-asetukset sivusta. Sieltä voit määrittää, kuinka yhteisösi toimii. <b>Oletuksena vain käyttäjät, joilla on "Ylläpitäjä"-rooli, voivat nähdä tämän osion yhteisöstäsi.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'Tätä voidaan käyttää sisällyttämään kaikkiin lähteviin sähköposteihin sisältöä, kuten organisaation nimi ja osoite.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Tämä vaihtoehto näyttää/kätkee sijainnit, jossa voi olla taskuja, mutta ainoastaan niiden käyttäjien kohdalla, joilla on oikeudet lisätä/muokata taskuja. Kokeile sijaintien näyttämistä ja käy sitten sivullasi.';
 $Definition['This page lists the endpoints of your API.'] =
     'Tämä paikka listaa ohjelmointirajapintasi päätepisteet. Saat lisätietoja päätepisteitä napsauttamalla. Voit tehdä live-puheluja ohjelmointirajapintaan joko tältä sivulta tai ulkoisesti suojaustunnuksen avulla.';
@@ -273,6 +276,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>Varoitus</b>: Tämä on edistyneille käyttäjille ja edellyttää ylimääräisiä muutoksia verkkopalvelimeesi. Tämä toiminto on yleensä saatavilla vain, jos sinulla on käytössä oma paikallinen verkkopalvelin tai virtuaalipalvelin. Älä yritä tätä, ellet tiedä varmasti, mitä olet tekemässä.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Suosittelemme osallistumiseen innostamista pääosin positiivisilla reaktioilla.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'Kun tämä on käytössä, käyttäjät voivat halutessaan vastaanottaa ilmoituksia yhteisöltä';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Jos tämä otetaan käyttöön, voit hallinnoida tuotteita sekä ryhmittää alayhteistöjä kyseisten tuotteiden perusteella.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Sisällytetäänkö sisäiset profiilikentät tähän webhookiin.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Sisällytetäänkö yksityisen profiilin kentät tähän webhookiin.';

@@ -17,9 +17,11 @@ $Definition['AddressBarColorDescription'] = 'Noen nettlesere støtter en farge p
 $Definition['AddonProblems'] = '<h2>Problemer?</h2><p>Hvis noe går galt med et tillegg og du ikke kan bruke nettstedet ditt, kan du deaktivere dem manuelt ved å redigere:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Varsle brukere hvis de klikker på en kobling i et innlegg som vil føre dem bort fra forumet. Brukere vil ikke bli advart når de følger koblinger som samsvarer med et pålitelig domene';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Alle kategorier er listet opp med et utvalg av fem nylige diskusjoner under hver';
-$Definition['Allow links to be transformed'] = 'La koblinger transformeres til innebygde representasjoner i diskusjoner og kommentarer. For eksempel vil en YouTube-kobling forvandles til en innebygd video.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Tillat brukere med %s tillatelse til å endre sine egne avatarer fra sine profilsider i Vanilla.';
-$Definition['Anonymize IP Addresses'] = 'Anonymiser IP-adresser';
+$Definition['Allow links to be transformed'] =
+    'La koblinger transformeres til innebygde representasjoner i diskusjoner og kommentarer. For eksempel vil en YouTube-kobling forvandles til en innebygd video.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Tillat brukere med %s tillatelse til å endre sine egne avatarer fra sine profilsider i Vanilla.';
+$Definition['Anonymize IP Addresses'] = "Anonymiser IP-adresser";
 $Definition['ApplicationHelp'] = 'Applikasjoner lar deg legge store grupper med funksjonalitet til nettstedet ditt.<br />Når en  applikasjon er lagt til i %s mappen din, kan du aktivere eller deaktivere den her.';
 $Definition['Apply Layout'] = 'Bruk layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Er du sikker på at du har oppgitt det riktige vertsnavnet for  databasen? Kanskje du skrev det feil? Databasen rapporterte: <code>%s</code>';
@@ -35,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'Endre måten nettsamfunnet ditt fungerer med programtillegg. Vi har samlet populære programtillegg med programvaren, og det er flere tilgjengelige på nettet.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'Endringer vil bare gjelde for nyopplastede avatarer.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'Endre størrelsene som avatarbilder blir lagret på.';
+$Definition['Changes to the set day will take affect the following week.'] = 'Endringer i den angitte dagen vil tre i kraft neste uke.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Avmerkingsbokser lar administratorer utføre batchhandlinger på en rekke diskusjoner eller kommentarer samtidig.';
 $Definition['Check out our %s'] = 'Ta en titt på %s';
@@ -66,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Dra 
 $Definition['EditContentTimeout.Notes'] = 'Hvis en bruker er i en rolle som har tillatelse til å redigere innhold, overstyrer disse tillatelsene dette.';
 $Definition['Edit Route'] = 'Rediger rute';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Bygg forumet ditt inn på nettstedet for å øke engasjementet ...';
+$Definition['Email digests will be sent on the selected day every week.'] = 'E-postsammendrag vil bli sendt på den valgte dagen hver uke.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'E-post sendt fra applikasjonen vil bli adressert fra denne e-postadressen';
+$Definition['Email sent from the application will be addressed from this name'] = 'E-post sendt fra applikasjonen vil bli adressert fra dette navnet';
+$Definition['Email Settings'] = 'E-postinnstillinger';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Gjør det mulig avansert redigering av innlegg i flere formater, inkludert WYSIWYG, enkel HTML, Markdown og BBCode.';
 $Definition['Enter a descriptive name.'] = 'Skriv inn et beskrivende navn på lommen. Dette navnet vises ikke noe sted, bortsett fra når man administrerer lommene, så det brukes bare for å hjelpe deg med å huske lommen.';
@@ -82,16 +89,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Du kan for eksempel blokkere alle brukere med e-postadresser fra "eksempel.no" ved å legge til blokkering for e-post-typer med verdien "*@eksempel.no".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Søkeroboter ekskluderes, av SEO-grunner, fra å være tvunget til å se forumet i den eksterne url-en.';
 $Definition['Foundation Layout'] = 'Fundamentoppsett';
-$Definition['Full Anonymization'] = 'Full anonymisering';
-$Definition['FullAnonymization.Description'] = '<strong>Full anonymisering</strong> erstatter hver enkelt IP-adresse med 0.0.0.0, noe som effektivt nekter applikasjonen tilgang til å jobbe med IP-adresser. IP-forbudsregler vil ikke fungere i det hele tatt i dette tilfellet.';
-$Definition['Full Bleed'] = 'Full blødning';
+$Definition['FullAnonymization.Description'] = "<strong>Full anonymisering</strong> erstatter hver enkelt IP-adresse med 0.0.0.0, noe som effektivt nekter applikasjonen tilgang til å jobbe med IP-adresser. IP-forbudsregler vil ikke fungere i det hele tatt i dette tilfellet.";
+$Definition['Full Anonymization'] = "Full anonymisering";
 
 $Definition['Garden.Import.Complete.Description'] = 'Importeringen var vellykket.
    Klikk <b>Ferdig</b> når du er klar.';
 $Definition['Garden.Import.Continue.Description'] = 'Det ser ut som om du er i midten av en import. Velg ett av følgende alternativer.';
 $Definition['Garden.Import.InputInstructions'] = 'Oppgi e-post og passord for administrativ bruker av dataen som importeres.';
-$Definition['Garden.Privacy.IPs.Description'] = 'Brukernes IP-adresser samles vanligvis inn for automatiserte utestengelssregler, moderering og forebygging av spam. Aktivering av IP-anonymisering vil anonymisere alle IP-adresser som spores på nettstedet for ethvert formål, og vil redusere effektiviteten til disse verktøyene. Endringer i denne innstillingen har ikke tilbakevirkende kraft.';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit tillatelse til å endre sine egne avatarer fra profilsidene deres i Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = "Brukernes IP-adresser samles vanligvis inn for automatiserte utestengelssregler, moderering og forebygging av spam. Aktivering av IP-anonymisering vil anonymisere alle IP-adresser som spores på nettstedet for ethvert formål, og vil redusere effektiviteten til disse verktøyene. Endringer i denne innstillingen har ikke tilbakevirkende kraft.";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Garden.Profiles.Edit tillatelse til å endre sine egne avatarer fra profilsidene deres i Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Du har spesifikt deaktivert Vanilla Statistics i konfigurasjonsfilen din.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Det virker som om dette forumet kjøres i et testmiljø, eller at det på annet vis rapporterer inn en privat IP. Standard er at forum som kjøres fra private IP-er ikke spores.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Hvis du er sikker på at forumet ditt er tilgjengelig på internett, kan du tvinge det til å innrapportere statistikker her:';
@@ -123,11 +130,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Spark i gang nettsamfunnet ditt og øk brukerengasjementet.';
 $Definition['Labs'] = 'Labs';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Store bilder skaleres ned til en maksimal bredde på 400 piksler og en maksimal høyde på 300 piksler.';
 $Definition['Learn about custom routing.'] = 'Lær om egendefinert routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lær deg hvordan du fullstendig endrer utseendet og opplevelsen på forumet ditt: last opp logoen din, bestem hjemmeside, velg et tema og juster det.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lær deg hvordan du bruker den grunnleggende funksjonaliteten på forumet ditt.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Localer lar deg støtte andre språk på siden din. Aktiver og deaktiver localer du ønsker å gjøre tilgjengelig her.';
-$Definition['Lockout Time (seconds)'] = 'Lockout-tid (sekunder)';
+$Definition['Lockout Time (seconds)'] = "Lockout-tid (sekunder)";
 $Definition['LogoDescription'] = 'Bannerlogoen viser seg på toppen av nettstedet ditt.';
 $Definition['LogoDisclaimer'] = 'Temaer laget med temaredigereren og noen tilpassede temaer bruker ikke denne innstillingen.';
 
@@ -142,13 +150,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiltemaer lar deg endre utseendet og følelsen på nettstedet ditt på mindre enheter.';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Den nye layoutredigereren vil arve temaet som er satt i stilguiden din (formelt temaredigering). <1>Finn ut mer</1>';
-$Definition['Need more help?'] = 'Trenger du mer hjelp?';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Innrede kategorier dypere enn denne dybden vil bli plassert i en kommaavgrenset liste.';
-$Definition['New Embed System'] = 'Nytt innebygd system';
-$Definition['New Quick Links'] = 'Nye hurtigkoblinger';
-$Definition['New Search Page'] = 'Ny søkeside';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'Innrede kategorier dypere enn denne dybden vil bli plassert i en kommaavgrenset liste.';
 $Definition['No Anonymization'] = 'Ingen anonymisering';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Nettstedet trenger en rolle med standard typen "ubekreftet" for å bruke e-postbekreftelse. Vennligst legg til en for å aktivere denne innstillingen.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Får du ikke det du forventer når du forhåndsviser temaet?';
 $Definition['Notify me when people comment on my addons.'] = 'Varsle meg når folk kommenterer tilleggene mine.';
 
@@ -157,8 +162,8 @@ $Definition['OrgDescription'] = 'Din organisasjons navn brukes for SEO-mikrodata
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Overrømte visninger eller temahooks kan ha utilsiktede bivirkninger og forhåndsvises ikke.';
 
-$Definition['Partial Anonymization'] = 'Delvis anonymisering';
-$Definition['PartialAnonymization.Description'] = '<strong>Delvis anonymisering</strong> anonymiserer bare den siste oktetten av IP-adressen. For eksempel vil 254.230.05.153 bli 254.230.05.0. Dette gir en viss anonymisering samtidig som det lar IP-forbudsregler fungere.';
+$Definition['PartialAnonymization.Description'] = "<strong>Delvis anonymisering</strong> anonymiserer bare den siste oktetten av IP-adressen. For eksempel vil 254.230.05.153 bli 254.230.05.0. Dette gir en viss anonymisering samtidig som det lar IP-forbudsregler fungere.";
+$Definition['Partial Anonymization'] = "Delvis anonymisering";
 $Definition['Password.MinLength'] = 'Minimum tegnlengde tillatt for brukerpassord på passordopprettings- og tilbakestillingssider.';
 $Definition['Please choose an authenticator to configure.'] = 'Vennligst velg en autentisering å konfigurere.';
 $Definition['PluginHelp'] = 'Programtilleggene lar deg legge til funksjonalitet på nettstedet ditt.<br />Når et programtillegg er lagt til i %s mappen din, kan du aktivere eller deaktivere det her.';
@@ -196,13 +201,11 @@ $Definition['Session Timeout'] = 'Tidsavbrudd for økten';
 $Definition['ShareImageDescription'] =
     'Når noen deler en lenke fra nettstedet ditt, prøver vi å ta et bilde fra siden. Hvis det ikke er et bilde på siden, bruker vi dette bildet i stedet. Bildet skal være minst 50 × 50, men vi anbefaler 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Skru på dette alternativet for å vise alle mulige plasseringer for lommer. Å slå på dette alternativet vil bare vise plasseringene til brukere som kan administrere lommer.';
-$Definition['SignIn.LockoutTime'] = 'Hvor lang tid en bruker er blokkert fra å logge på etter å ha overskredet antall påloggingsforsøk.';
-$Definition['Solid'] = 'Fast';
-$Definition['Some browsers support a color for the address bar.'] = 'Noen nettlesere støtter en farge for adressefeltet.';
-$Definition['Some older themes don\'t support full editing capability.'] = 'Noen eldre temaer støtter ikke full redigeringsevne. For å se hva et tema støtter, kan du holde musepekeren over navnet for å se hvor endringer vil tre i kraft.';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Noen temaer må kanskje oppdateres for å fungere med følgende kategori. Du kan deaktivere funksjonen mens du oppdaterer temaet.';
-$Definition['Sometimes you want to embed your Vanilla site'] = 'Noen ganger vil du legge inn Vanilla-nettstedet ditt på et annet nettsted. Vanillas embed-system tilbyr en enkel måte til det. Det er ytelsesavveininger når du bruker et innebygd nettsted, så sjekk dokumentasjonen for alternativer og ideelle brukstilfeller.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Spesiell begrensning: Bare brukere med tillatelse Garden.Curation.Manage kan bruke denne reaksjonen.';
+$Definition['SignIn.LockoutTime'] = "Hvor lang tid en bruker er blokkert fra å logge på etter å ha overskredet antall påloggingsforsøk.";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'Noen temaer må kanskje oppdateres for å fungere med følgende kategori. Du kan deaktivere funksjonen mens du oppdaterer temaet.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'Spesiell begrensning: Bare brukere med tillatelse Garden.Curation.Manage kan bruke denne reaksjonen.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Spesifiser en delvis eller full match når du etablerer en blokkering.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Bruk litt tid på å tenke på hvordan du vil beskrive nettstedet ditt. Å gi nettstedet ditt en meningsfull tittel og konsis beskrivelse, kan hjelpe plasseringen det gis hos søkemotorer.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Pynt e-postene dine ved å legge til en logo og tilpasse fargene.';
@@ -236,6 +239,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'De fungerer akkurat som vanlige temaer. Når en er lagt til i temamappen, kan du aktivere den her.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Dette er administrasjonspanelet for det nye samfunnet ditt. Sjekk konfigurasjonsvalgene på siden. Derfra kan du konfigurerer hvordan samfunnet ditt fungerer. <b>Som standard kan kun  brukere i "administrator"-rollen se denne delen av samfunnet ditt.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'Dette kan brukes til å inkludere innhold som organisasjonsnavn og adresse i alle utgående e-poster.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Dette alternativet viser/skjuler plasseringene der lommene kan plasseres, men bare for brukere som har tillatelse til å legge til / redigere lommer. Prøv å vise plasseringene, og besøk deretter nettstedet ditt.';
 $Definition['This page lists the endpoints of your API.'] =
     'Denne siden viser sluttpunktene til API-en din. Klikk på sluttpunkter for mer informasjon. Du kan ringe direkte til API fra denne siden eller eksternt ved hjelp av et tilgangstoken.';
@@ -272,6 +276,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>Advarsel</b>: Denne er for avanserte brukere og krever at du gjør ytterligere endringer på nettserveren din. Denne er vanligvis bare tilgjengelig hvis du har dedikert eller VPS-hosting. Ikke forsøk dette hvis du ikke vet hva du driver med.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Vi anbefaler for det meste positive reaksjoner for å oppmuntre til deltakelse.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'Når den er aktivert, kan brukere velge å motta varsler fra fellesskapet';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Når dette er aktivert, kan du administrere produkter og gruppere underkommuner etter disse produktene.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Hvorvidt de interne profilfeltene vil bli inkludert i denne webhooken.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Hvorvidt de private profilfeltene vil bli inkludert i denne webhooken.';

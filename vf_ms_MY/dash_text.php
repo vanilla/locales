@@ -17,9 +17,11 @@ $Definition['AddressBarColorDescription'] = 'Beberapa penyemak imbas menyokong w
 $Definition['AddonProblems'] = '<h2> Masalah? </h2><p> Sekiranya ada yang tidak kena dengan addon dan anda tidak dapat menggunakan laman web anda, anda boleh melumpuhkannya secara manual dengan menyunting: </p> %s';
 $Definition['Alert users if they click external link.'] = 'Maklumkan pengguna sekiranya mereka mengklik pautan dalam siaran yang akan membawa mereka keluar dari forum. Pengguna tidak akan diberi amaran ketika mengikuti pautan yang sesuai dengan Domain yang Dipercayai';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Semua kategori disenaraikan dengan pilihan 5 perbincangan terkini di bawah masing-masing';
-$Definition['Allow links to be transformed'] = 'Benarkan pautan diubah menjadi representasi tertanam dalam perbincangan dan komen. Sebagai contoh, pautan YouTube akan berubah menjadi video terbenam.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Benarkan pengguna dengan kebenaran %s untuk menukar avatar mereka sendiri dari halaman profil mereka di Vanilla.';
-$Definition['Anonymize IP Addresses'] = 'Anonimkan Alamat IP';
+$Definition['Allow links to be transformed'] =
+    'Benarkan pautan diubah menjadi representasi tertanam dalam perbincangan dan komen. Sebagai contoh, pautan YouTube akan berubah menjadi video terbenam.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Benarkan pengguna dengan kebenaran %s untuk menukar avatar mereka sendiri dari halaman profil mereka di Vanilla.';
+$Definition['Anonymize IP Addresses'] = "Anonimkan Alamat IP";
 $Definition['ApplicationHelp'] = 'Aplikasi membolehkan anda menambahkan kumpulan fungsi yang besar ke laman web anda. <br /> Setelah aplikasi ditambahkan ke folder %s anda, anda boleh mengaktifkan atau mematikannya di sini.';
 $Definition['Apply Layout'] = 'Gunakan Tata Letak';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Adakah anda pasti memasukkan nama host pangkalan data yang betul? Mungkin anda salah menaipnya? Pangkalan data dilaporkan: <code>%s</code>';
@@ -35,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'Ubah cara komuniti anda bekerja dengan pemalam. Kami telah menggabungkan pemalam yang popular dengan perisian, dan terdapat lebih banyak yang tersedia dalam talian.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'Perubahan hanya akan berlaku untuk avatar yang baru dimuat naik.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'Ubah ukuran gambar avatar disimpan.';
+$Definition['Changes to the set day will take affect the following week.'] = 'Perubahan pada hari yang ditetapkan akan memberi kesan pada minggu berikutnya.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Kotak pilihan membolehkan pentadbir melakukan banyak tindakan pada beberapa perbincangan atau komen pada masa yang sama.';
 $Definition['Check out our %s'] = 'Lihat %s kami';
@@ -66,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Sere
 $Definition['EditContentTimeout.Notes'] = 'Sekiranya pengguna mempunyai peranan yang mempunyai izin untuk mengedit kandungan, kebenaran tersebut akan menggantikannya.';
 $Definition['Edit Route'] = 'Edit Laluan';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Benamkan forum komuniti anda ke laman web anda untuk meningkatkan penglibatan ...';
+$Definition['Email digests will be sent on the selected day every week.'] = 'Ringkasan e-mel akan dihantar pada hari yang dipilih setiap minggu.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'E-mel yang dihantar daripada permohonan akan dialamatkan daripada alamat e-mel ini';
+$Definition['Email sent from the application will be addressed from this name'] = 'E-mel yang dihantar daripada permohonan akan dialamatkan daripada nama ini';
+$Definition['Email Settings'] = 'Tetapan E-mel';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Membolehkan penyuntingan catatan lanjutan dalam beberapa format, termasuk WYSIWYG, HTML ringkas, Markdown, dan BBCode.';
 $Definition['Enter a descriptive name.'] = 'Masukkan nama deskriptif untuk poket. Nama ini tidak akan muncul di mana sahaja kecuali ketika menguruskan poket anda di sini sehingga hanya digunakan untuk membantu anda mengingat poket.';
@@ -82,15 +89,15 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Sebagai contoh, anda boleh melarang semua pengguna dengan alamat e-mel dari "example.com" dengan menambahkan larangan jenis e-mel dengan nilai "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Untuk tujuan SEO, perayap mesin carian dikecualikan daripada dipaksa untuk melihat forum di url terpencil.';
 $Definition['Foundation Layout'] = 'Susun atur Asas';
-$Definition['Full Anonymization'] = 'Penganoniman Penuh';
-$Definition['FullAnonymization.Description'] = '<strong>Anonimisasi Penuh</strong> menggantikan setiap alamat IP tunggal dengan 0.0.0.0 dengan berkesan menafikan aplikasi sebarang akses untuk berfungsi dengan alamat IP. Peraturan larangan IP tidak akan berfungsi sama sekali dalam kes ini.';
-$Definition['Full Bleed'] = 'Pendarahan Penuh';
+$Definition['FullAnonymization.Description'] = "<strong>Anonimisasi Penuh</strong> menggantikan setiap alamat IP tunggal dengan 0.0.0.0 dengan berkesan menafikan aplikasi sebarang akses untuk berfungsi dengan alamat IP. Peraturan larangan IP tidak akan berfungsi sama sekali dalam kes ini.";
+$Definition['Full Anonymization'] = "Penganoniman Penuh";
 
 $Definition['Garden.Import.Complete.Description'] = 'Anda berjaya menyelesaikan import. Klik <b>Selesai</b> apabila anda sudah bersedia.';
 $Definition['Garden.Import.Continue.Description'] = 'Nampaknya anda berada di tengah-tengah import. Sila pilih salah satu pilihan berikut.';
 $Definition['Garden.Import.InputInstructions'] = 'Masukkan e-mel dan kata laluan pengguna pentadbir dari data yang diimport.';
-$Definition['Garden.Privacy.IPs.Description'] = 'Alamat IP pengguna biasanya dikumpulkan untuk peraturan larangan automatik, penyederhanaan dan tujuan pencegahan spam. Mendayakan Penganoniman IP akan menamakan semua alamat IP yang dijejaki dalam tapak untuk sebarang tujuan dan akan mengurangkan keberkesanan alat ini. Perubahan pada tetapan ini tidak retroaktif.';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit kebenaran untuk menukar avatar mereka sendiri dari halaman profil mereka di Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = "Alamat IP pengguna biasanya dikumpulkan untuk peraturan larangan automatik, penyederhanaan dan tujuan pencegahan spam. Mendayakan Penganoniman IP akan menamakan semua alamat IP yang dijejaki dalam tapak untuk sebarang tujuan dan akan mengurangkan keberkesanan alat ini. Perubahan pada tetapan ini tidak retroaktif.";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Garden.Profiles.Edit kebenaran untuk menukar avatar mereka sendiri dari halaman profil mereka di Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Anda secara khusus telah melumpuhkan Statistik Vanila dalam fail konfigurasi anda.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Forum ini nampaknya berjalan dalam lingkungan ujian, atau melaporkan IP persendirian. Secara lalai, forum yang dijalankan di IP peribadi tidak dijejaki.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Sekiranya anda yakin forum anda dapat diakses dari internet, anda boleh memaksanya untuk melaporkan statistik di sini:';
@@ -122,11 +129,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Mulakan komuniti anda dan tingkatkan penglibatan pengguna.';
 $Definition['Labs'] = 'Makmal';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Imej yang besar akan dikecilkan kepada lebar maksimum 400px dan ketinggian maksimum 300px.';
 $Definition['Learn about custom routing.'] = 'Ketahui mengenai penghalaan tersuai.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Pelajari cara mengubah rupa dan nuansa forum anda sepenuhnya: muat naik logo anda, tetapkan laman utama anda, pilih tema dan sesuaikannya.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Ketahui cara menggunakan fungsi asas forum anda.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Lokasi membolehkan anda menyokong bahasa lain di laman web anda. Dayakan dan lumpuhkan tempat yang ingin anda sediakan di sini.';
-$Definition['Lockout Time (seconds)'] = 'Masa Kunci Keluar (saat)';
+$Definition['Lockout Time (seconds)'] = "Masa Kunci Keluar (saat)";
 $Definition['LogoDescription'] = 'Logo sepanduk muncul di bahagian atas laman web anda.';
 $Definition['LogoDisclaimer'] = 'Tema yang dibuat dengan editor tema dan beberapa tema khusus tidak menggunakan tetapan ini.';
 
@@ -141,14 +149,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Tema mudah alih membolehkan anda mengubah rupa dan nuansa laman web anda pada peranti yang lebih kecil.';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Editor Reka Letak baharu akan mewarisi set tema dalam Panduan Gaya anda (secara rasmi editor tema). <1>Ketahui lebih lanjut</1>';
-$Definition['Need More Help?'] = 'Perlukan Lebih Banyak Bantuan?';
-$Definition['Need more help?'] = 'Perlukan lebih banyak pertolongan?';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Kategori bersarang lebih dalam daripada kedalaman ini akan dimasukkan dalam senarai yang dipisahkan koma.';
-$Definition['New Embed System'] = 'Sistem Benam Baharu';
-$Definition['New Quick Links'] = 'Pautan Pantas Baru';
-$Definition['New Search Page'] = 'Halaman Carian Baru';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'Kategori bersarang lebih dalam daripada kedalaman ini akan dimasukkan dalam senarai yang dipisahkan koma.';
 $Definition['No Anonymization'] = 'Tiada Anonimisasi';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Laman web memerlukan peranan dengan jenis lalai "tidak disahkan" untuk menggunakan pengesahan e-mel. Sila tambah satu untuk mengaktifkan tetapan ini.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Tidak mendapat apa yang anda harapkan semasa anda melihat tema anda?';
 $Definition['Notify me when people comment on my addons.'] = 'Beritahu saya apabila orang memberi komen mengenai addon saya.';
 
@@ -157,8 +161,8 @@ $Definition['OrgDescription'] = 'Nama organisasi anda digunakan untuk microdata 
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Paparan yang berlebihan atau kaitannya boleh mempunyai kesan sampingan yang tidak diingini dan tidak dipratonton.';
 
-$Definition['Partial Anonymization'] = 'Penganoniman Separa';
-$Definition['PartialAnonymization.Description'] = '<strong>Penganoniman Separa</strong> hanya menyamaratakan oktet terakhir alamat IP. Contohnya 254.230.05.153 akan menjadi 254.230.05.0. Ini menyediakan beberapa anonimisasi sementara masih membenarkan peraturan larangan IP berfungsi.';
+$Definition['PartialAnonymization.Description'] = "<strong>Penganoniman Separa</strong> hanya menyamaratakan oktet terakhir alamat IP. Contohnya 254.230.05.153 akan menjadi 254.230.05.0. Ini menyediakan beberapa anonimisasi sementara masih membenarkan peraturan larangan IP berfungsi.";
+$Definition['Partial Anonymization'] = "Penganoniman Separa";
 $Definition['Password.MinLength'] = 'Panjang aksara minimum dibenarkan untuk kata laluan pengguna pada kata laluan membuat dan menetapkan semula halaman.';
 $Definition['Please choose an authenticator to configure.'] = 'Sila pilih pengesah untuk dikonfigurasi.';
 $Definition['PluginHelp'] = 'Pemalam membolehkan anda menambahkan fungsi ke laman web anda. <br /> Setelah pemalam ditambahkan ke folder %s anda, anda boleh mengaktifkan atau mematikannya di sini.';
@@ -196,13 +200,11 @@ $Definition['Session Timeout'] = 'Tamat Masa Sesi';
 $Definition['ShareImageDescription'] =
     'Apabila seseorang berkongsi pautan dari laman web anda, kami mencuba dan mengambil gambar dari halaman. Sekiranya tidak ada gambar di halaman maka kami akan menggunakan gambar ini sebagai gantinya. Gambar mestilah sekurang-kurangnya 50 × 50, tetapi kami mengesyorkan 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Hidupkan pilihan ini untuk menunjukkan semua lokasi poket yang mungkin. Menghidupkan pilihan ini hanya akan menunjukkan lokasi kepada pengguna yang boleh menguruskan poket.';
-$Definition['SignIn.LockoutTime'] = 'Jumlah masa pengguna disekat daripada log masuk selepas melebihi bilangan percubaan log masuk.';
-$Definition['Solid'] = 'Padu';
-$Definition['Some browsers support a color for the address bar.'] = 'Sesetengah penyemak imbas menyokong warna untuk bar alamat.';
-$Definition['Some older themes don\'t support full editing capability.'] = 'Sesetengah tema lama tidak menyokong keupayaan penyuntingan penuh. Untuk melihat perkara yang disokong oleh tema, anda boleh menuding pada namanya untuk melihat tempat pengeditan akan berkuat kuasa.';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Beberapa tema mungkin perlu dikemas kini agar sesuai dengan kategori berikut. Anda boleh mematikan ciri semasa anda mengemas kini tema anda.';
-$Definition['Sometimes you want to embed your Vanilla site'] = 'Kadangkala anda ingin membenamkan tapak Vanila anda di dalam tapak lain. Sistem benam Vanila menawarkan cara mudah untuk itu. Terdapat pertukaran prestasi apabila menggunakan tapak terbenam, jadi semak dokumentasi untuk alternatif dan kes penggunaan yang ideal.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Sekatan khas: Hanya pengguna dengan izin Garden.Curation.Manage boleh menggunakan reaksi ini.';
+$Definition['SignIn.LockoutTime'] = "Jumlah masa pengguna disekat daripada log masuk selepas melebihi bilangan percubaan log masuk.";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'Beberapa tema mungkin perlu dikemas kini agar sesuai dengan kategori berikut. Anda boleh mematikan ciri semasa anda mengemas kini tema anda.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'Sekatan khas: Hanya pengguna dengan izin Garden.Curation.Manage boleh menggunakan reaksi ini.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Tentukan padanan separa atau penuh ketika membuat larangan.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Luangkan sedikit masa untuk memikirkan bagaimana anda menerangkan laman web anda di sini. Memberi judul yang bermakna dan keterangan ringkas kepada laman web anda dapat membantu kedudukan anda di mesin pencari.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Masukkan e-mel anda dengan menambahkan logo dan menyesuaikan warnanya.';
@@ -236,6 +238,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'Mereka berfungsi seperti tema biasa. Setelah dimasukkan ke folder tema, anda boleh mengaktifkannya di sini.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Ini adalah papan pemuka pentadbiran untuk komuniti baru anda. Lihat pilihan konfigurasi di sebelah. Dari sana anda dapat mengkonfigurasi bagaimana komuniti anda berfungsi. <b>Secara lalai, hanya pengguna dalam peranan "Pentadbir" yang dapat melihat bahagian komuniti ini.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'Ini boleh digunakan untuk memasukkan kandungan seperti nama dan alamat organisasi dalam semua e-mel keluar.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Pilihan ini menunjukkan / menyembunyikan lokasi di mana poket boleh pergi, tetapi hanya untuk pengguna yang mempunyai izin untuk menambah / mengedit poket. Cuba tunjukkan lokasi dan kemudian lawati laman web anda.';
 $Definition['This page lists the endpoints of your API.'] =
     'Halaman ini menyenaraikan titik akhir API anda. Klik titik akhir untuk maklumat lebih lanjut. Anda boleh membuat panggilan langsung ke API dari halaman ini atau secara luaran menggunakan token akses.';
@@ -272,6 +275,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>Amaran</b> : Ini untuk pengguna lanjutan dan menghendaki anda membuat perubahan tambahan pada pelayan web anda. Ini biasanya hanya tersedia jika anda mempunyai hosting khusus atau vps. Jangan mencuba ini jika anda tidak tahu apa yang anda lakukan.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Kami mengesyorkan reaksi positif untuk menggalakkan penyertaan.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'Apabila didayakan, pengguna boleh memilih untuk menerima pemberitahuan daripada komuniti';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Apabila diaktifkan, anda boleh menguruskan produk, dan mengelompokkan subkomuniti mengikut produk tersebut.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Sama ada medan profil dalaman akan disertakan dalam webhook ini atau tidak.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Sama ada atau tidak medan profil peribadi akan disertakan dalam webhook ini.';

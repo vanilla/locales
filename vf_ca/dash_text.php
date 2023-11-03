@@ -17,9 +17,11 @@ $Definition['AddressBarColorDescription'] = 'Alguns navegadors admeten un color 
 $Definition['AddonProblems'] = '<h2> Problemes? </h2><p> Si alguna cosa va malament amb un addon i no podeu utilitzar el vostre lloc, podeu desactivar-les manualment editant-les: </p> %s';
 $Definition['Alert users if they click external link.'] = 'Aviseu els usuaris si fan clic en un enllaç d’una publicació que els allunyarà del fòrum. Els usuaris no seran avisats quan segueixin enllaços que coincideixin amb un domini de confiança';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Totes les categories es presenten amb una selecció de cinc debats recents en cadascuna d’elles';
-$Definition['Allow links to be transformed'] = 'Permet que els enllaços es transformin en representacions incrustades en debats i comentaris. Per exemple, un enllaç de YouTube es transformarà en un vídeo incrustat.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Permet als usuaris amb el permís %s canviar els seus propis avatars de les seves pàgines de perfil a Vanilla.';
-$Definition['Anonymize IP Addresses'] = 'Anonimitzar les adreces IP';
+$Definition['Allow links to be transformed'] =
+    'Permet que els enllaços es transformin en representacions incrustades en debats i comentaris. Per exemple, un enllaç de YouTube es transformarà en un vídeo incrustat.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Permet als usuaris amb el permís %s canviar els seus propis avatars de les seves pàgines de perfil a Vanilla.';
+$Definition['Anonymize IP Addresses'] = "Anonimitzar les adreces IP";
 $Definition['ApplicationHelp'] = 'Les aplicacions us permeten afegir grans grups de funcionalitats al vostre lloc. <br /> Un cop s\'hagi afegit una aplicació a la vostra carpeta %s, la podeu habilitar o desactivar aquí.';
 $Definition['Apply Layout'] = 'Aplica el disseny';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Esteu segur que heu introduït el nom d’amfitrió correcte? Potser ho heu equivocat? La base de dades reportada: <code>%s</code>';
@@ -35,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'Canvieu el funcionament de la vostra comunitat amb plugins. Hem inclòs els connectors populars amb el programari i n\'hi ha més disponibles en línia.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'Els canvis només s\'aplicaran als avatars recentment penjats.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'Canvieu les mides en què es desaran les imatges d’avatar.';
+$Definition['Changes to the set day will take affect the following week.'] = 'Els canvis al dia establert tindran efecte la setmana següent.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Les caselles de selecció permeten als administradors realitzar accions per lots en diverses discussions o comentaris alhora.';
 $Definition['Check out our %s'] = 'Consulteu el nostre %s';
@@ -66,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Arro
 $Definition['EditContentTimeout.Notes'] = 'Si un usuari es troba en un paper que té permís per editar contingut, aquests permisos se substituiran.';
 $Definition['Edit Route'] = 'Editar ruta';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Incorporeu el fòrum de la vostra comunitat al vostre lloc web per augmentar el compromís ...';
+$Definition['Email digests will be sent on the selected day every week.'] = 'Els resums per correu electrònic s\'enviaran el dia seleccionat cada setmana.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'El correu electrònic enviat des de l\'aplicació s\'adreçarà des d\'aquesta adreça electrònica';
+$Definition['Email sent from the application will be addressed from this name'] = 'El correu electrònic enviat des de l\'aplicació s\'adreçarà des d\'aquest nom';
+$Definition['Email Settings'] = 'Configuració del correu electrònic';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Permet l\'edició avançada de publicacions en diversos formats, inclosos WYSIWYG, HTML senzill, Markdown i BBCode.';
 $Definition['Enter a descriptive name.'] = 'Introduïu un nom descriptiu per a la butxaca. Aquest nom no apareixerà enlloc, excepte en gestionar les butxaques aquí, de manera que només s’utilitza per ajudar-vos a recordar la butxaca.';
@@ -82,15 +89,15 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Per exemple, podeu prohibir tots els usuaris amb adreces de correu electrònic des de "exemple.com" afegint una prohibició del tipus de correu electrònic amb el valor "*@exemple.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'A efectes de SEO, s’exclou que els rastrejadors del motor de cerca es vegin obligats a veure el fòrum a l’URL remota.';
 $Definition['Foundation Layout'] = 'Disseny de fonamentació';
-$Definition['Full Anonymization'] = 'Anonimat total';
-$Definition['FullAnonymization.Description'] = '<strong>L\'anonimització total</strong> substitueix totes les adreces IP per 0.0.0.0, negant de manera efectiva a l\'aplicació qualsevol accés per treballar amb adreces IP. Les regles de prohibició d\'IP no funcionaran en absolut en aquest cas.';
-$Definition['Full Bleed'] = 'Sang complet';
+$Definition['FullAnonymization.Description'] = "<strong>L'anonimització total</strong> substitueix totes les adreces IP per 0.0.0.0, negant de manera efectiva a l'aplicació qualsevol accés per treballar amb adreces IP. Les regles de prohibició d'IP no funcionaran en absolut en aquest cas.";
+$Definition['Full Anonymization'] = "Anonimat total";
 
 $Definition['Garden.Import.Complete.Description'] = 'Heu completat correctament una importació. Feu clic a <b>Finalitzat</b> quan estigueu llestos.';
 $Definition['Garden.Import.Continue.Description'] = 'Sembla que estigués al mig d’una importació. Tria una de les opcions següents.';
 $Definition['Garden.Import.InputInstructions'] = 'Introduïu el correu electrònic i la contrasenya de l’usuari d’administració a partir de les dades que s’estan important.';
-$Definition['Garden.Privacy.IPs.Description'] = 'Les adreces IP dels usuaris es recullen normalment per a regles de prohibició automatitzades, moderació i prevenció de correu brossa. L\'habilitació de l\'anonimització d\'IP anonimitzarà totes les adreces IP rastrejades al lloc per a qualsevol propòsit i reduirà l\'eficàcia d\'aquestes eines. Els canvis a aquesta configuració no són retroactius.';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit permís per canviar els seus propis avatars de les seves pàgines de perfil a Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = "Les adreces IP dels usuaris es recullen normalment per a regles de prohibició automatitzades, moderació i prevenció de correu brossa. L'habilitació de l'anonimització d'IP anonimitzarà totes les adreces IP rastrejades al lloc per a qualsevol propòsit i reduirà l'eficàcia d'aquestes eines. Els canvis a aquesta configuració no són retroactius.";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Garden.Profiles.Edit permís per canviar els seus propis avatars de les seves pàgines de perfil a Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Heu desactivat específicament les estadístiques de Vanilla al fitxer de configuració.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Sembla que aquest fòrum s’executa en un entorn de prova o, d’altra manera, està informant d’una IP privada. De manera predeterminada, els fòrums que funcionen amb IP privats no es fan un seguiment.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Si esteu segurs que el vostre fòrum és accessible des d\'Internet, podeu obligar-lo a informar estadístiques aquí:';
@@ -122,11 +129,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Inicieu la vostra comunitat i augmenteu el nombre d\'usuaris.';
 $Definition['Labs'] = 'Laboratoris';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Les imatges grans es reduiran a una amplada màxima de 400 píxels i una alçada màxima de 300 píxels.';
 $Definition['Learn about custom routing.'] = 'Obteniu més informació sobre l\'encaminament personalitzat.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Obteniu més informació sobre com canvieu l\'aspecte del vostre fòrum: carregueu el logotip, configureu la pàgina d\'inici, escolliu un tema i personalitzeu-lo.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Apreneu a utilitzar la funcionalitat bàsica del vostre fòrum.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Les ubicacions locals us permeten suportar altres idiomes del vostre lloc. Habiliteu i desactiveu les locals que voleu posar a disposició aquí.';
-$Definition['Lockout Time (seconds)'] = 'Temps de bloqueig (segons)';
+$Definition['Lockout Time (seconds)'] = "Temps de bloqueig (segons)";
 $Definition['LogoDescription'] = 'El logotip del banner apareix a la part superior del lloc.';
 $Definition['LogoDisclaimer'] = 'Els temes elaborats amb l\'editor de temes i alguns temes personalitzats no utilitzen aquesta configuració.';
 
@@ -141,14 +149,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Els temes per a mòbils us permeten canviar l’aspecte del vostre lloc en dispositius més petits.';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB El nou editor de disseny heretarà el tema establert a la vostra Guia d\'estil (formalment editor de temes). <1>Més informació</1>';
-$Definition['Need More Help?'] = 'Necessiteu més ajuda?';
-$Definition['Need more help?'] = 'Necessiteu més ajuda?';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Les categories emplaçades més a fons d\'aquesta profunditat se situaran en una llista delimitada per comes.';
-$Definition['New Embed System'] = 'Nou sistema incrustat';
-$Definition['New Quick Links'] = 'Nous enllaços ràpids';
-$Definition['New Search Page'] = 'Nova pàgina de cerca';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'Les categories emplaçades més a fons d\'aquesta profunditat se situaran en una llista delimitada per comes.';
 $Definition['No Anonymization'] = 'Sense anonimització';
+$Definition['No unconfirmed role available for email confirmation.'] = 'El lloc necessita un paper amb el tipus predeterminat "no confirmat" per utilitzar la confirmació per correu electrònic. Afegiu-ne un per habilitar aquesta configuració.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'No obteniu el que espereu quan previsualitzeu el tema?';
 $Definition['Notify me when people comment on my addons.'] = 'Notifiqueu-me quan la gent comenti els meus addons.';
 
@@ -157,8 +161,8 @@ $Definition['OrgDescription'] = 'El vostre nom d’organització s’utilitza pe
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Les visualitzacions anul·lades o els enllaços de temes poden tenir efectes secundaris no desitjats i no es poden previsualitzar.';
 
-$Definition['Partial Anonymization'] = 'Anonimat parcial';
-$Definition['PartialAnonymization.Description'] = '<strong>L\'anonimització parcial</strong> anonimitza només l\'últim octet de l\'adreça IP. Per exemple, 254.230.05.153 es convertiria en 254.230.05.0. Això proporciona una mica d\'anonimat alhora que permet que les regles de prohibició d\'IP funcionin.';
+$Definition['PartialAnonymization.Description'] = "<strong>L'anonimització parcial</strong> anonimitza només l'últim octet de l'adreça IP. Per exemple, 254.230.05.153 es convertiria en 254.230.05.0. Això proporciona una mica d'anonimat alhora que permet que les regles de prohibició d'IP funcionin.";
+$Definition['Partial Anonymization'] = "Anonimat parcial";
 $Definition['Password.MinLength'] = 'Longitud mínima de caràcters permesa per a les contrasenyes dels usuaris a les pàgines de creació i restabliment de contrasenyes.';
 $Definition['Please choose an authenticator to configure.'] = 'Seleccioneu un autenticador per configurar.';
 $Definition['PluginHelp'] = 'Els complements us permeten afegir funcionalitat al vostre lloc. <br /> Un cop s\'hagi afegit un complement a la vostra carpeta %s, podeu activar-lo o desactivar-lo aquí.';
@@ -196,13 +200,11 @@ $Definition['Session Timeout'] = 'Temps d\'espera de la sessió';
 $Definition['ShareImageDescription'] =
     'Quan algú comparteix un enllaç del vostre lloc, intentem agafar una imatge de la pàgina. Si no hi ha cap imatge a la pàgina, utilitzarem aquesta imatge. La imatge ha de tenir almenys 50×50, però recomanem 200×200.';
 $Definition['Show all possible pocket locations.'] = 'Activa aquesta opció per mostrar totes les ubicacions de butxaca possibles. Si activeu aquesta opció, només es mostren les ubicacions als usuaris que puguin gestionar butxaques.';
-$Definition['SignIn.LockoutTime'] = 'La quantitat de temps que un usuari està bloquejat per iniciar sessió després de superar el nombre d\'intents d\'inici de sessió.';
-$Definition['Solid'] = 'Sòlid';
-$Definition['Some browsers support a color for the address bar.'] = 'Alguns navegadors admeten un color per a la barra d\'adreces.';
-$Definition['Some older themes don\'t support full editing capability.'] = 'Alguns temes anteriors no admeten funcions d\'edició completes. Per veure què és compatible amb un tema, podeu passar el nom del seu nom per veure on seran efectives les edicions.';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'És possible que alguns temes s’hagin d’actualitzar per funcionar amb la categoria següent. Podeu desactivar la funció mentre actualitzeu el tema.';
-$Definition['Sometimes you want to embed your Vanilla site'] = 'De vegades, voleu incrustar el vostre lloc Vanilla dins d\'un altre lloc. El sistema d\'inserció de Vanilla ofereix una manera fàcil d\'aconseguir-ho. Hi ha inconvenients de rendiment quan s\'utilitza un lloc incrustat, així que consulteu la documentació per trobar alternatives i casos d\'ús ideals.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Restricció especial: Només els usuaris amb permís Garden.Curation.Manage poden utilitzar aquesta reacció.';
+$Definition['SignIn.LockoutTime'] = "La quantitat de temps que un usuari està bloquejat per iniciar sessió després de superar el nombre d'intents d'inici de sessió.";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'És possible que alguns temes s’hagin d’actualitzar per funcionar amb la categoria següent. Podeu desactivar la funció mentre actualitzeu el tema.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'Restricció especial: Només els usuaris amb permís Garden.Curation.Manage poden utilitzar aquesta reacció.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Especifiqueu una coincidència parcial o completa quan es crea una prohibició.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Dediqueu una estona a pensar en com descriviu el vostre lloc aquí. Posant-li al vostre lloc un títol significatiu i una descripció concisa pot ajudar a la vostra posició als motors de cerca.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Busqueu correus electrònics afegint un logotip i personalitzant els colors.';
@@ -236,6 +238,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'Funcionen igual que els temes habituals. Un cop s\'hagi afegit un a la carpeta de temes, podeu activar-lo aquí.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Aquest és el tauler d\'administració de la vostra nova comunitat. Consulteu les opcions de configuració al costat. Des d\'allà, podeu configurar el funcionament de la vostra comunitat. <b>De manera predeterminada, només els usuaris del rol "Administrador" poden veure aquesta part de la vostra comunitat.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'Això es pot utilitzar per incloure contingut com ara el nom i l\'adreça de l\'organització a tots els correus electrònics de sortida.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Aquesta opció mostra / amaga les ubicacions per on poden anar les butxaques, però només per als usuaris que tenen permís per afegir / editar butxaques. Proveu de mostrar les ubicacions i visiteu el vostre lloc.';
 $Definition['This page lists the endpoints of your API.'] =
     'Aquesta pàgina enumera els punts finals de la vostra API. Feu clic als extrems per obtenir més informació. Podeu fer trucades en directe a l\'API des d\'aquesta pàgina o bé externament mitjançant un testimoni d\'accés.';
@@ -272,6 +275,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>Avís</b> : és per a usuaris avançats i requereix que feu canvis addicionals al servidor web. Normalment només està disponible si teniu allotjament dedicat o vps. No ho intenteu si no sabeu el que esteu fent.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Recomanem principalment reaccions positives per fomentar la participació.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'Quan està activat, els usuaris poden optar per rebre notificacions de la comunitat';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Quan està activat, podeu gestionar els productes i agrupar les subcomunitats per aquests productes.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Si els camps del perfil intern s\'inclouran o no en aquest webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Si els camps del perfil privat s\'inclouran o no en aquest webhook.';

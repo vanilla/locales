@@ -17,9 +17,11 @@ $Definition['AddressBarColorDescription'] = '某些瀏覽器支持地址欄的�
 $Definition['AddonProblems'] = '<h2>有問題嗎？</h2><p>如果附加元件發生問題，導致您的網站無法使用，您可以透過編輯方式來手動關閉元件：</p>%s';
 $Definition['Alert users if they click external link.'] = '如果用戶單擊帖子中的鏈接將使他們離開論壇，則向用戶發出警報。當您跟踪與受信任域匹配的鏈接時，不會警告用戶';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = '所有在下方列出5項最近討論的分類';
-$Definition['Allow links to be transformed'] = '允許將鏈接轉換為討論和評論中的嵌入式表示形式。例如，YouTube鏈接將轉換為嵌入式視頻。';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = '允許具有%s權限的用戶從Vanilla中的個人資料頁面更改自己的頭像。';
-$Definition['Anonymize IP Addresses'] = '匿名 IP 地址';
+$Definition['Allow links to be transformed'] =
+    '允許將鏈接轉換為討論和評論中的嵌入式表示形式。例如，YouTube鏈接將轉換為嵌入式視頻。';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    '允許具有%s權限的用戶從Vanilla中的個人資料頁面更改自己的頭像。';
+$Definition['Anonymize IP Addresses'] = "匿名 IP 地址";
 $Definition['ApplicationHelp'] = '您可以利用應用程式來為網站增加大量功能。<br />當您將應用程式新增到 %s 資料夾後，即可在此處啟用或關閉功能。';
 $Definition['Apply Layout'] = '應用佈局';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '您確定已經輸入正確的資料庫主機名稱嗎？會不會拼錯了呢？資料庫回報的訊息是：<code>%s</code>';
@@ -35,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = '改變您的留言版使用插件工具的方式；我們已經在軟體中附上一些常用的插件，而且網路上還有更多可供選用。';
 $Definition['Changes will apply to newly uploaded avatars only.'] = '更改將僅適用於新上傳的頭像。';
 $Definition['Change the sizes that avatar images are saved at.'] = '更改頭像圖像保存的大小。';
+$Definition['Changes to the set day will take affect the following week.'] = '設定日期的變更將在下週生效。';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     '複選框允許管理員同時對多個討論或評論執行批處理操作。';
 $Definition['Check out our %s'] = '查看我們的%s';
@@ -66,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = '以�
 $Definition['EditContentTimeout.Notes'] = '如果某位用戶的職務擁有編輯內容的權限，則以該權限取代原有權限。';
 $Definition['Edit Route'] = '編輯路徑';
 $Definition['Embed your community forum into your website to increase engagement...'] = '將社群討論版嵌入您的網站，以提升訪客的互動性……';
+$Definition['Email digests will be sent on the selected day every week.'] = '電子郵件摘要將在每週選定的日期發送。';
+$Definition['Email sent from the application will be addressed from this email address'] = '從應用程式發送的電子郵件將從此電子郵件地址發送';
+$Definition['Email sent from the application will be addressed from this name'] = '從應用程式發送的電子郵件將從此名稱發送';
+$Definition['Email Settings'] = '電子郵件設定';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     '啟用多種格式的帖子的高級編輯，包括“所見即所得”，簡單HTML，Markdown和BBCode。';
 $Definition['Enter a descriptive name.'] = '請輸入能清楚描述這個pocket的名稱；這個名稱只會在您管理pocket的時候出現，主要是為了協助您記得這個pocket。';
@@ -82,16 +89,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = '例如，你能藉增加數值為「*@example.com」的電子郵件類型禁制來禁止來自「example.com」電子郵件位址的所有用戶。';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = '為SEO目的起見，已避免搜尋引擎被強制分析遠端網址上的討論版。';
 $Definition['Foundation Layout'] = '地基佈局';
-$Definition['Full Anonymization'] = '完全匿名';
-$Definition['FullAnonymization.Description'] = '<strong>完全匿名化</strong>將每個 IP 地址替換為 0.0.0.0，有效拒絕應用程序對 IP 地址進行任何訪問。在這種情況下，IP 禁止規則根本不起作用。';
-$Definition['Full Bleed'] = '全血';
+$Definition['FullAnonymization.Description'] = "<strong>完全匿名化</strong>將每個 IP 地址替換為 0.0.0.0，有效拒絕應用程序對 IP 地址進行任何訪問。在這種情況下，IP 禁止規則根本不起作用。";
+$Definition['Full Anonymization'] = "完全匿名";
 
 $Definition['Garden.Import.Complete.Description'] = '您已成功完成匯入作業。
    請在確認後點按「<b>完成</b>」。';
 $Definition['Garden.Import.Continue.Description'] = '好像您在導入過程中一樣。請選擇以下選項之一。';
 $Definition['Garden.Import.InputInstructions'] = '請輸入匯入資料的管理員電子郵件位址與密碼。';
-$Definition['Garden.Privacy.IPs.Description'] = '收集用戶 IP 地址通常是出於自動禁止規則、審核和預防垃圾郵件的目的。啟用 IP 匿名化將匿名化網站中出於任何目的而跟踪的所有 IP 地址，並將降低這些工具的有效性。對此設置的更改不具有追溯力。';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit權限可從Vanilla中的個人資料頁面更改其頭像。';
+$Definition['Garden.Privacy.IPs.Description'] = "收集用戶 IP 地址通常是出於自動禁止規則、審核和預防垃圾郵件的目的。啟用 IP 匿名化將匿名化網站中出於任何目的而跟踪的所有 IP 地址，並將降低這些工具的有效性。對此設置的更改不具有追溯力。";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Garden.Profiles.Edit權限可從Vanilla中的個人資料頁面更改其頭像。';
 $Definition['Garden.StatisticsDisabled'] = '您已經在設定檔案中刻意關閉了Vanilla Statistics統計功能。';
 $Definition['Garden.StatisticsLocal.Explain'] = '這個討論版目前應該是在測試環境中執行，或者回報的是一個區域網內IP位址；系統預設為不追蹤使用區域網內IP位址的討論版。';
 $Definition['Garden.StatisticsLocal.Resolve'] = '如果您確定討論版可以從外部internet網路連線，可以在這裡強制系統回報統計數字：';
@@ -123,11 +130,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = '啟動您的社群討論版，並且提升讀者之間的互動性。';
 $Definition['Labs'] = '實驗室';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = '大圖像將縮小至最大寬度 400 像素和最大高度 300 像素。';
 $Definition['Learn about custom routing.'] = '了解更多自訂路由。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = '學習如何徹底改變討論版的外觀設計：上傳您的專屬標誌、設定首頁名稱、選擇視覺主題、並且改變各種自訂選項。';
 $Definition['Learn how to use the basic functionality of your forum.'] = '學習使用討論版的各種基本功能。';
 $Definition['Locales allow you to support other languages on your site.'] = '多語系功能允許您的網站支援其他語言；請在這裡啟用或關閉您在網站上提供的語言。';
-$Definition['Lockout Time (seconds)'] = '鎖定時間（秒）';
+$Definition['Lockout Time (seconds)'] = "鎖定時間（秒）";
 $Definition['LogoDescription'] = '標語徽標顯示在您網站的頂部。';
 $Definition['LogoDisclaimer'] = '使用主題編輯器創建的主題和某些自定義主題不使用此設置。';
 
@@ -142,14 +150,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     '通過移動主題，您可以在較小的設備上更改網站的外觀。';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB 新的佈局編輯器將繼承您的樣式指南（正式的主題編輯器）中設置的主題。 <1>了解更多</1>';
-$Definition['Need More Help?'] = '需要更多協助嗎？';
-$Definition['Need more help?'] = '需要更多幫助？';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = '比此深度更深的嵌套類別將放置在以逗號分隔的列表中。';
-$Definition['New Embed System'] = '新的嵌入系統';
-$Definition['New Quick Links'] = '新的快速鏈接';
-$Definition['New Search Page'] = '新搜索頁面';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    '比此深度更深的嵌套類別將放置在以逗號分隔的列表中。';
 $Definition['No Anonymization'] = '無匿名化';
+$Definition['No unconfirmed role available for email confirmation.'] = '網站需要一個 "尚未確認" 的預設角色才能使用電子郵件確認功能，請新增一個以啟用這個設定。';
 $Definition['Not getting what you expect when you preview your theme?'] = '預覽主題時沒有得到期望的結果？';
 $Definition['Notify me when people comment on my addons.'] = '有人在附加元件中留言時請通知我。';
 
@@ -158,8 +162,8 @@ $Definition['OrgDescription'] = '你組織的名稱被用於 SEO microdata 和 J
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     '覆蓋的視圖或主題鉤可能會產生意想不到的副作用，因此無法預覽。';
 
-$Definition['Partial Anonymization'] = '部分匿名化';
-$Definition['PartialAnonymization.Description'] = '<strong>部分匿名</strong>僅匿名 IP 地址的最後一個八位字節。例如，254.230.05.153 將變為 254.230.05.0。這提供了一定程度的匿名性，同時仍然允許 IP 禁止規則發揮作用。';
+$Definition['PartialAnonymization.Description'] = "<strong>部分匿名</strong>僅匿名 IP 地址的最後一個八位字節。例如，254.230.05.153 將變為 254.230.05.0。這提供了一定程度的匿名性，同時仍然允許 IP 禁止規則發揮作用。";
+$Definition['Partial Anonymization'] = "部分匿名化";
 $Definition['Password.MinLength'] = '密碼創建和重置頁面上的用戶密碼允許的最小字符長度。';
 $Definition['Please choose an authenticator to configure.'] = '請選擇需要設定的認證功能。';
 $Definition['PluginHelp'] = '插件能幫您的網站增加額外功能。<br />當您將插件加入%s資料夾後，即可在此處啟用或關閉功能。';
@@ -197,13 +201,11 @@ $Definition['Session Timeout'] = '會話超時';
 $Definition['ShareImageDescription'] =
     '當有人分享您網站的鏈接時，我們會嘗試從頁面中獲取圖像。如果頁面上沒有圖像，那麼我們將使用該圖像。圖片應至少為50×50，但我們建議為200×200。';
 $Definition['Show all possible pocket locations.'] = '開啟這個選項來顯示所有可以放置pocket的位置。如果開啟這項功能，將只會向有權限管理pocket的用戶顯示位置。';
-$Definition['SignIn.LockoutTime'] = '用戶在超過登錄嘗試次數後被阻止登錄的時間。';
-$Definition['Solid'] = '固體';
-$Definition['Some browsers support a color for the address bar.'] = '一些瀏覽器支持地址欄的顏色。';
-$Definition['Some older themes don\'t support full editing capability.'] = '一些較舊的主題不支持完整的編輯功能。要查看主題支持什麼，您可以將鼠標懸停在其名稱上以查看編輯將在何處生效。';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = '某些主題可能需要更新才能與以下類別配合使用。您可以在更新主題時禁用該功能。';
-$Definition['Sometimes you want to embed your Vanilla site'] = '有時您想將您的 Vanilla 站點嵌入到另一個站點中。 Vanilla 的嵌入系統提供了一種簡單的方法。使用嵌入式站點時需要權衡性能，因此請查看文檔以了解替代方案和理想用例。';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = '特殊限制：僅具有Garden.Curation.Manage權限的用戶可以使用此響應。';
+$Definition['SignIn.LockoutTime'] = "用戶在超過登錄嘗試次數後被阻止登錄的時間。";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    '某些主題可能需要更新才能與以下類別配合使用。您可以在更新主題時禁用該功能。';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    '特殊限制：僅具有Garden.Curation.Manage權限的用戶可以使用此響應。';
 $Definition['Specify a partial or full match when creating a ban.'] = '在建立禁制時規定部份或是完全吻合。';
 $Definition['Spend a little time thinking about how you describe your site here.'] = '請花些時間思考一下如何介紹您的網站。給網站一個有意義的名稱、以及簡潔有力的介紹，對搜尋引擎排名是有幫助的。';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = '加入標誌和自訂顏色來美化您的 email。';
@@ -237,6 +239,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     '它們就像常規主題一樣工作。將其添加到主題文件夾後，即可在此處啟用它。';
 $Definition['This is the administrative dashboard for your new community.'] = '這是您新成立討論版的管理控制台，請參閱邊欄上的設定選項。利用這些選項，您可以決定討論版的運作方式；<b>預設為僅有「管理員」職務的用戶可以看到討論版的這個部分。</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = '這可用於在所有外寄電子郵件中包含組織名稱和地址等內容。';
 $Definition['This option shows/hides the locations where pockets can go.'] = '這個選項能顯示／隱藏適合安放pocket的位置，但只有具備pocket新增／編輯權限的用戶可以看到。您可以試試顯示這些位置，然後進入您的網站看看。';
 $Definition['This page lists the endpoints of your API.'] =
     '該頁面列出了您的API的端點。單擊端點以獲取更多信息。您可以從此頁面或使用訪問令牌從外部對API進行實時調用。';
@@ -273,6 +276,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：本功能限進階用戶使用、並且需要您對網頁伺服器進行額外的調整，通常只在使用專屬伺服器或VPS時才會需要。如果您不知道這項功能的用法，請不要嘗試使用。';
 $Definition['Webhooks'] = '網絡鉤子';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = '我們建議大多數積極的反應，以鼓勵參與。';
+$Definition['When enabled, users may choose to receive notifications from the community'] = '啟用後，用戶可以選擇接收來自社區的通知';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = '啟用後，您可以管理產品，並通過這些產品對子社區進行分組。';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = '內部配置文件字段是否將包含在此 webhook 中。';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = '私有配置文件字段是否將包含在此 webhook 中。';

@@ -17,9 +17,11 @@ $Definition['AddressBarColorDescription'] = 'بعضی از مرورگرها از
 $Definition['AddonProblems'] = '<h2>مشكلي داريد؟</h2><p>اگر مشكلي با افزونه اي پيش آمد و شما نتوانستيد از سايت خود استفاده كنيد، شما ميتواند بصورت دستي با ويرايش %s آنها را غيرفعال كنيد</p>';
 $Definition['Alert users if they click external link.'] = 'در صورت کلیک روی پیوندی در پستی ، کاربران هشدار می دهند که آنها را از این انجمن دور می کند. به دنبال پیوندهایی که با یک دامنه معتبر مطابقت دارند ، کاربران هشدار داده نمی شوند';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'تمام دسته بندي ها با 5 گفتگوي جديد زير هم ليست شده است';
-$Definition['Allow links to be transformed'] = 'اجازه دهید پیوندها در مباحث و نظرات به بازنمودهای تعبیه شده تبدیل شوند. به عنوان مثال ، یک لینک YouTube به یک فیلم جاسازی شده تبدیل می شود.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'اجازه دهید کاربران با اجازه %s اجازه تغییر آواتارهای خود را از صفحات نمایه خود در وانیل داشته باشند.';
-$Definition['Anonymize IP Addresses'] = 'ناشناس کردن آدرس های IP';
+$Definition['Allow links to be transformed'] =
+    'اجازه دهید پیوندها در مباحث و نظرات به بازنمودهای تعبیه شده تبدیل شوند. به عنوان مثال ، یک لینک YouTube به یک فیلم جاسازی شده تبدیل می شود.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'اجازه دهید کاربران با اجازه %s اجازه تغییر آواتارهای خود را از صفحات نمایه خود در وانیل داشته باشند.';
+$Definition['Anonymize IP Addresses'] = "ناشناس کردن آدرس های IP";
 $Definition['ApplicationHelp'] = 'اپليكيشن ها به شما اجازه ميدهند گروه هاي بزرگي از قابليت ها را به سايت خود اضافه كنيد.<br />هنگامي كه اپليكيشني به پوشه %s شما اضافه شد، ميتوانيد آن را از اينجا فعال يا غيرفعال كنيد.';
 $Definition['Apply Layout'] = 'Layout را اعمال کنید';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'آيا مطمئن هستيد كه نام ميزبان پايگاه داده را صحيح وارد كرده ايد؟ شايد اسمش را اشتباه تايپ كرده باشيد؟ پايگاه داده گزارش ميدهد : <code>%s</code>';
@@ -35,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'شيوه كاركرد انجمن خود را با پلاگين ها تغيير دهيد. ما پلاگين هاي محبوبي را به همراه نرم افزار ارائه كرديم، و پلاگين هاي ديگري بصورت آنلاين در دسترس ميباشد.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'تغییرات فقط در آواتارهای تازه آپلود شده اعمال می شوند.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'اندازه هایی را که تصاویر آواتار در آنها ذخیره می شود تغییر دهید.';
+$Definition['Changes to the set day will take affect the following week.'] = 'تغییرات در روز تعیین شده در هفته بعد تأثیر می گذارد.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'کادرهای انتخاب به مدیران اجازه می دهد تا اقدامات دسته ای را در تعدادی از بحث ها یا نظرات همزمان انجام دهند.';
 $Definition['Check out our %s'] = '%s ما را بررسی کنید';
@@ -66,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'بر
 $Definition['EditContentTimeout.Notes'] = 'اگر كاربري در يك نقشي باشد كه مجوز ويرايش محتوا را دارد، آن مجوزها بر روي اين رونويسي خواهند شد.';
 $Definition['Edit Route'] = 'ويرايش مسير';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'براي افزايش تعامل انجمن خود را درون وبسايت خود درج كنيد ...';
+$Definition['Email digests will be sent on the selected day every week.'] = 'خلاصه ایمیل در روز انتخاب شده هر هفته ارسال می شود.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'ایمیل ارسال شده از برنامه از این آدرس ایمیل آدرس داده می شود';
+$Definition['Email sent from the application will be addressed from this name'] = 'ایمیل ارسال شده از برنامه از این نام آدرس داده می شود';
+$Definition['Email Settings'] = 'تنظیمات ایمیل';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'ویرایش پیشرفته ارسال ها در چندین قالب ، از جمله WYSIWYG ، HTML ساده ، Markdown و BBCode را فعال می کند.';
 $Definition['Enter a descriptive name.'] = 'يك نام توصيفي براي بسته خود وارد كنيد. اين نام هيچ جا نمايش داده نميشود بجز هنگامي كه ميخواهيد بسته خود را از اينجا مديريت كنيد بنابراين فقط براي كمك به يادآوري بسته مفيد ميباشد.';
@@ -82,16 +89,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'به عنوان مثال ، شما می توانید با اضافه کردن یک ممنوعیت نوع ایمیل به ارزش "*@example.com" ، همه کاربران را با آدرس های ایمیل از "example.com" ممنوع کنید.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'براي اهداف سئو، خزنده هاي موتور جستجوگر شامل اجباري براي نمايش انجمن در آدرس وب از راه دور نميباشند.';
 $Definition['Foundation Layout'] = 'طرح بندی بنیاد';
-$Definition['Full Anonymization'] = 'ناشناس سازی کامل';
-$Definition['FullAnonymization.Description'] = '<strong>ناشناس‌سازی کامل</strong> هر آدرس IP را با 0.0.0.0 جایگزین می‌کند و به طور مؤثری از دسترسی برنامه به کار با آدرس‌های IP جلوگیری می‌کند. قوانین ممنوعیت IP در این مورد به هیچ وجه کار نمی کند.';
-$Definition['Full Bleed'] = 'کامل خونریزی';
+$Definition['FullAnonymization.Description'] = "<strong>ناشناس‌سازی کامل</strong> هر آدرس IP را با 0.0.0.0 جایگزین می‌کند و به طور مؤثری از دسترسی برنامه به کار با آدرس‌های IP جلوگیری می‌کند. قوانین ممنوعیت IP در این مورد به هیچ وجه کار نمی کند.";
+$Definition['Full Anonymization'] = "ناشناس سازی کامل";
 
 $Definition['Garden.Import.Complete.Description'] = 'شما با موفقيت عمليات درون ريزي را انجام داديد.
    هنگامي كه آماده بوديد بر روي <b>پايان</b> كليك كنيد.';
 $Definition['Garden.Import.Continue.Description'] = 'به نظر می رسد که شما در وسط واردات هستید. لطفا یکی از گزینه های زیر را انتخاب کنید.';
 $Definition['Garden.Import.InputInstructions'] = 'ايميل و كلمه عبور كاربر مدير را از داده هايي كه درحال درون ريزي است را وارد نماييد.';
-$Definition['Garden.Privacy.IPs.Description'] = 'آدرس‌های IP کاربر معمولاً برای قوانین ممنوعیت خودکار، تعدیل و اهداف جلوگیری از هرزنامه جمع‌آوری می‌شوند. فعال کردن IP Anonymization تمام آدرس های IP ردیابی شده در سایت را برای هر هدفی ناشناس می کند و کارایی این ابزارها را کاهش می دهد. تغییرات در این تنظیم عطف به ماسبق نیستند.';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Edit اجازه تغییر آواتارهای خود را از صفحات نمایه خود در وانیل.';
+$Definition['Garden.Privacy.IPs.Description'] = "آدرس‌های IP کاربر معمولاً برای قوانین ممنوعیت خودکار، تعدیل و اهداف جلوگیری از هرزنامه جمع‌آوری می‌شوند. فعال کردن IP Anonymization تمام آدرس های IP ردیابی شده در سایت را برای هر هدفی ناشناس می کند و کارایی این ابزارها را کاهش می دهد. تغییرات در این تنظیم عطف به ماسبق نیستند.";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Garden.Profiles.Edit اجازه تغییر آواتارهای خود را از صفحات نمایه خود در وانیل.';
 $Definition['Garden.StatisticsDisabled'] = 'شما بطور خاص آمار وانيلا را در فايل پيكربندي خود غيرفعال كرده ايد.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'اين انجمن بنظر ميرسد در حالت آزمايشي اجرا شده است،و يا درصورت ديگر يك IP خصوصي گزارش ميشود. بطور پيش فرض، انجمن هايي كه با IPهاي خصوصي اجرا شوند رديابي نميشوند.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'اگر مطمئن هستيد كه انجمن شما در اينترنت قابل دسترس ميباشد ميتوانيد اجبار كنيد كه آمار را در اينجا گزارش كنيد :';
@@ -123,11 +130,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'انجمن خود را شروع كرده و ارتباط كاربري را افزايش دهيد.';
 $Definition['Labs'] = 'آزمایشگاه ها';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'تصاویر بزرگ به حداکثر عرض 400 پیکسل و حداکثر ارتفاع 300 پیکسل کوچک می شوند.';
 $Definition['Learn about custom routing.'] = 'کسب اطلاع در مورد مسیریابی سفارشی.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'يادبگيريد چگونه كاملاً‌ظاهر انجمن خود را تغيير دهيد : لوگوي خود را آپلود كنيد، صفحه اصلي خود را تنظيم كنيد، قالبي را انتخاب و سفارشي كنيد.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'يادبگيريد چگونه از قابليتهاي ابتدايي انجمن خود استفاده كنيد.';
 $Definition['Locales allow you to support other languages on your site.'] = 'بومي سازي به شما اجازه ميدهد تا از ديگر زبان ها را بر روي سايت خود پشتيباني كنيد. زبان هاي موجودي را كه مايل هستيد را ميتوانيد از اينجا فعال يا غيرفعال كنيد.';
-$Definition['Lockout Time (seconds)'] = 'زمان قفل شدن (ثانیه)';
+$Definition['Lockout Time (seconds)'] = "زمان قفل شدن (ثانیه)";
 $Definition['LogoDescription'] = 'نماد بنر در بالای سایت شما ظاهر می شود.';
 $Definition['LogoDisclaimer'] = 'مضامین ساخته شده با ویرایشگر موضوع و برخی از تم های سفارشی از این تنظیم استفاده نمی کنند.';
 
@@ -142,14 +150,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'مضامین موبایل به شما امکان می دهد نگاه و ظاهر سایت خود را در دستگاه های کوچکتر تغییر دهید.';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB ویرایشگر طرح‌بندی جدید، تم مجموعه‌ای را در راهنمای سبک (به طور رسمی ویرایشگر تم) به ارث می‌برد. <1>بیشتر بیاموزید</1>';
-$Definition['Need More Help?'] = 'به راهنماي بيشتري نياز داريد؟';
-$Definition['Need more help?'] = 'به کمک بیشتری نیاز دارید؟';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'دسته های توخالی عمیق تر از این عمق در یک لیست محدود شده با کاما قرار می گیرند.';
-$Definition['New Embed System'] = 'سیستم جاسازی جدید';
-$Definition['New Quick Links'] = 'پیوندهای سریع جدید';
-$Definition['New Search Page'] = 'صفحه جستجوی جدید';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'دسته های توخالی عمیق تر از این عمق در یک لیست محدود شده با کاما قرار می گیرند.';
 $Definition['No Anonymization'] = 'بدون ناشناس سازی';
+$Definition['No unconfirmed role available for email confirmation.'] = 'سایت نیازمند نقشی با نوع پیش فرض "تائید نشده" با استفاده از تائید ایمیل میباشد. لطفا ً یک نقش را برای فعالسازی این تنظیمات اضافه کنید';
 $Definition['Not getting what you expect when you preview your theme?'] = 'هنگام پیش نمایش موضوع خود آنچه را انتظار دارید دریافت نکنید؟';
 $Definition['Notify me when people comment on my addons.'] = 'هنگامي كه شخصي بر روي افزونه هاي من ديدگاهي ارسال كرد من را مطلع كن.';
 
@@ -158,8 +162,8 @@ $Definition['OrgDescription'] = 'نام سازمان شما برای microdata S
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'نماهای محدود یا مضامین اصلی می توانند عوارض جانبی ناخواسته داشته باشند و پیش نمایش نشوند.';
 
-$Definition['Partial Anonymization'] = 'ناشناس سازی جزئی';
-$Definition['PartialAnonymization.Description'] = '<strong>ناشناس سازی جزئی</strong> فقط آخرین اکتت آدرس IP را ناشناس می کند. به عنوان مثال 254.230.05.153 به 254.230.05.0 تبدیل می شود. این مقداری ناشناس سازی را فراهم می کند در حالی که همچنان به قوانین ممنوعیت IP اجازه عملکرد می دهد.';
+$Definition['PartialAnonymization.Description'] = "<strong>ناشناس سازی جزئی</strong> فقط آخرین اکتت آدرس IP را ناشناس می کند. به عنوان مثال 254.230.05.153 به 254.230.05.0 تبدیل می شود. این مقداری ناشناس سازی را فراهم می کند در حالی که همچنان به قوانین ممنوعیت IP اجازه عملکرد می دهد.";
+$Definition['Partial Anonymization'] = "ناشناس سازی جزئی";
 $Definition['Password.MinLength'] = 'حداقل طول کاراکتر مجاز برای رمزهای عبور کاربران در صفحات ایجاد و بازنشانی رمز عبور.';
 $Definition['Please choose an authenticator to configure.'] = 'لطفاً يك اعتبار سنج براي پيكربندي انتخاب كنيد.';
 $Definition['PluginHelp'] = 'پلاگين ها به شما اجازه اضافه كردن قابليتهايي به سايت شما ميدهند.<br />هنگامي كه پلاگيني به پوشه %s شما اضافه شد، از اينجا ميتوانيد آن را فعال و يا غيرفعال كنيد.';
@@ -197,13 +201,11 @@ $Definition['Session Timeout'] = 'پایان جلسه';
 $Definition['ShareImageDescription'] =
     'هنگامی که شخصی پیوندی را از سایت شما به اشتراک می گذارد، ما سعی می کنیم تصویری را از صفحه بگیریم. اگر تصویری در صفحه وجود ندارد، به جای آن از این تصویر استفاده می کنیم. تصویر باید حداقل 50×50 باشد، اما ما 200×200 را توصیه می کنیم.';
 $Definition['Show all possible pocket locations.'] = 'اين گزينه را روشن كرده تا تمام مكان هاي ممكن بسته نمايان شود. روشن كردن اين گزينه فقط مكان ها را براي كاربراني كه ميتوانند بسته ها را مديريت كنند نمايش ميدهد.';
-$Definition['SignIn.LockoutTime'] = 'مدت زمانی که کاربر پس از بیش از تعداد تلاش‌های ورود به سیستم، از ورود به سیستم مسدود می‌شود.';
-$Definition['Solid'] = 'جامد';
-$Definition['Some browsers support a color for the address bar.'] = 'برخی از مرورگرها از یک رنگ برای نوار آدرس پشتیبانی می کنند.';
-$Definition['Some older themes don\'t support full editing capability.'] = 'برخی از تم های قدیمی از قابلیت ویرایش کامل پشتیبانی نمی کنند. برای مشاهده اینکه یک طرح زمینه از چه چیزی پشتیبانی می‌کند، می‌توانید روی نام آن نگه دارید تا ببینید ویرایش‌ها در کجا اعمال می‌شوند.';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'ممکن است برخی از تم ها برای کار با دسته زیر به روز شوند. می توانید ویژگی را غیرفعال کنید در حالی که موضوع خود را به روز می کنید.';
-$Definition['Sometimes you want to embed your Vanilla site'] = 'گاهی اوقات می خواهید سایت Vanilla خود را در یک سایت دیگر جاسازی کنید. سیستم جاسازی Vanilla یک راه آسان برای آن ارائه می دهد. هنگام استفاده از یک سایت تعبیه شده، معاوضه هایی در عملکرد وجود دارد، بنابراین اسناد را برای موارد جایگزین و موارد استفاده ایده آل بررسی کنید.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'محدودیت ویژه: فقط کاربران دارای مجوز Garden.Curation.Manage ممکن است از این واکنش استفاده کنند.';
+$Definition['SignIn.LockoutTime'] = "مدت زمانی که کاربر پس از بیش از تعداد تلاش‌های ورود به سیستم، از ورود به سیستم مسدود می‌شود.";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'ممکن است برخی از تم ها برای کار با دسته زیر به روز شوند. می توانید ویژگی را غیرفعال کنید در حالی که موضوع خود را به روز می کنید.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'محدودیت ویژه: فقط کاربران دارای مجوز Garden.Curation.Manage ممکن است از این واکنش استفاده کنند.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'هنگام ایجاد ممنوعیت ، یک مسابقه جزئی یا کامل را مشخص کنید.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'كمي وقت گذاشته و فكر كنيد كه در اينجا چه توضيحاتي براي سايت خود ميخواهيد بنويسيد. با نوشتن يك عنوان معني دار و توضيحات مختصر ميتواند به موقعيت بهتري در موتورهاي جستجو كمك كند.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'با اضافه كردن لوگو و شخصي سازي رنگ ها ايميل هاي خود را زيباتر كنيد.';
@@ -237,6 +239,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'آنها درست مانند تم های منظم کار می کنند. هنگامی که یکی به پوشه مضامین اضافه شد ، می توانید آن را در اینجا فعال کنید.';
 $Definition['This is the administrative dashboard for your new community.'] = 'اين پيشخوان مديريتي براي انجمن جديد شما ميباشد. گزينه هاي پيكربندي را در گوشه بررسي نماييد. از آنجا شما ميتوانيد چگونگي كاركرد انجمن خود را پيكربندي كنيد.<b> بصورت پيش فرض، تنها كاربران با نقش "مدير" ميتوانند اين بخش انجمن شما را مشاهده كنند.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'این ممکن است برای درج محتوایی مانند نام و آدرس سازمان در همه ایمیل‌های ارسالی استفاده شود.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'اين گزينه مكان هايي را كه بسته ها به آنجا ميروند را نمايش/ عدم نمايش ميدهد، ولي فقط براي كاربراني كه مجوز اضافه/ ويرايش كردن بسته ها را دارند. سعي كرده مكان هاي بسته را نمايش داده سپس از انجمن بازديد كنيد.';
 $Definition['This page lists the endpoints of your API.'] =
     'این صفحه نقاط پایانی API شما را لیست می کند. برای اطلاعات بیشتر روی نقاط پایانی کلیک کنید. می توانید از این صفحه یا از طریق خارج از کشور با استفاده از یک نشانه دسترسی تماس های زنده به API برقرار کنید.';
@@ -273,6 +276,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>هشدار</b> : اين تنظيمات براي كاربران حرفه اي ميباشد و نيازمند اين است كه يكسري تغييرات در سرويس دهنده وب خود اعمال كنيد. اين تنظيمات معمولا براي اين است كه اگر شما ميزبان اختصاصي و يا VPS داشته باشيد. اگر نميدانيد كه داريد چه كاري ميكنيد سعي نكنيد اينها را تغيير دهيد.';
 $Definition['Webhooks'] = 'قلاب های وب';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'ما اکیداً برای تشویق مشارکت واکنشهای مثبت پیشنهاد می کنیم.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'وقتی فعال باشد، کاربران ممکن است انتخاب کنند که اعلان‌هایی از انجمن دریافت کنند';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'در صورت فعال بودن ، می توانید محصولات و گروه های فرعی را توسط این محصولات مدیریت کنید.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'آیا فیلدهای نمایه داخلی در این وب هوک گنجانده می شود یا خیر.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'آیا فیلدهای نمایه خصوصی در این وب هوک گنجانده می شود یا خیر.';

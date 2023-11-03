@@ -17,9 +17,11 @@ $Definition['AddressBarColorDescription'] = 'Een aantal browsers ondersteund een
 $Definition['AddonProblems'] = '<h2>Problemen?</h2><p>Als er iets misgaat met een add-on en je je site niet kunt gebruiken, kun je ze handmatig uitschakelen door het volgende bestand aan te passen:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Waarschuw mensen dat als ze op een link in een bericht klikken dat ze weggeleid worden van het forum. Gebruikers worden niet gewaarschuwd wanneer ze een link volgen die overeenkomt met een vertrouwd domein';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Alle categorieën in een lijst met elk een selectie van de vijf meest recente discussies';
-$Definition['Allow links to be transformed'] = 'Sta toe dat links getransformeerd worden in ingevoegde toepassingen in discussies en reacties. Bijvoorbeeld, een YouTube link wordt getransformeerd in een ingevoegde video.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Sta toe dat gebruikers met %s toestemming hun eigen avatar vanaf hun profielpagina in Vanilla aanpassen.';
-$Definition['Anonymize IP Addresses'] = 'IP-adressen anonimiseren';
+$Definition['Allow links to be transformed'] =
+    'Sta toe dat links getransformeerd worden in ingevoegde toepassingen in discussies en reacties. Bijvoorbeeld, een YouTube link wordt getransformeerd in een ingevoegde video.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Sta toe dat gebruikers met %s toestemming hun eigen avatar vanaf hun profielpagina in Vanilla aanpassen.';
+$Definition['Anonymize IP Addresses'] = "IP-adressen anonimiseren";
 $Definition['ApplicationHelp'] = 'Met applicaties kun je grote groepen van functionaliteit toevoegen aan je site.<br />Zodra een applicatie is toegevoegd aan je map %s, kan je die op deze pagina in- of uitschakelen.';
 $Definition['Apply Layout'] = 'Lay-out toepassen';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Weet je zeker van dat je de goede database hostnaam hebt ingevuld? Misschien heb je het verkeerd ingetypt? De database gaf dit aan: <code>%s</code>';
@@ -35,6 +37,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'Verander de manier waarop jouw gemeenschap werkt met plug-ins. Sommige populaire plug-ins zitten al in de software, en er zijn er online meer beschikbaar.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'Veranderingen zijn alleen van toepassing op geuploade avatars.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'Verander de grootte waarop de afbeelding van een avatar opgeslagen wordt.';
+$Definition['Changes to the set day will take affect the following week.'] = 'Wijzigingen van de ingestelde dag worden de volgende week van kracht.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Met selectievakjes kunnen beheerders meerdere acties uitvoeren op meerdere discussies of opmerkingen tegelijkertijd.';
 $Definition['Check out our %s'] = 'Bekijk onze %s';
@@ -66,6 +69,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Klik
 $Definition['EditContentTimeout.Notes'] = 'Opmerking: Als een gebruiker een rol bezit die bevoegdheden heeft tot het bewerken van de inhoud, dan zullen deze bevoegdheden elke hier geselecteerde waarde overschrijven.';
 $Definition['Edit Route'] = 'Bewerk route';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Sluit je gemeenschapsforum in op je website om interactie te vergroten...';
+$Definition['Email digests will be sent on the selected day every week.'] = 'E-mailsamenvattingen worden elke week op de geselecteerde dag verzonden.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'E-mail die vanuit de applicatie wordt verzonden, wordt vanaf dit e-mailadres geadresseerd';
+$Definition['Email sent from the application will be addressed from this name'] = 'E-mail die vanuit de applicatie wordt verzonden, wordt vanaf deze naam geadresseerd';
+$Definition['Email Settings'] = 'Email instellingen';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Maakt geavanceerde bewerking van berichten in verschillende formaten mogelijk, waaronder WYSIWYG, eenvoudige HTML, Markdown en BBCode.';
 $Definition['Enter a descriptive name.'] = 'Voer een beschrijvende naam in voor de pocket. Deze naam zal nergens worden afgebeeld, alleen hier wanneer je je pockets aanpast zodat het alleen gebruikt wordt om je de pocket te helpen herinneren.';
@@ -82,16 +89,16 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'bijvoorbeeld, je kan alle gebruikers verbannen met e-mailadressen van "voorbeeld.com" door een e-mailtype verbanning met de waarde "*voorbeeld.com:" toe te voegen.';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Om SEO-redenen worden crawlers van zoekmachines niet geforceerd om het forum te bekijken vanaf de externe url.';
 $Definition['Foundation Layout'] = 'Funderingslay-out';
-$Definition['Full Anonymization'] = 'Volledige anonimisering';
-$Definition['FullAnonymization.Description'] = '<strong>Volledige anonimisering</strong> vervangt elk afzonderlijk IP-adres door 0.0.0.0 en ontzegt de applicatie effectief alle toegang om met IP-adressen te werken. IP-banregels werken in dit geval helemaal niet.';
-$Definition['Full Bleed'] = 'Volle bloeding';
+$Definition['FullAnonymization.Description'] = "<strong>Volledige anonimisering</strong> vervangt elk afzonderlijk IP-adres door 0.0.0.0 en ontzegt de applicatie effectief alle toegang om met IP-adressen te werken. IP-banregels werken in dit geval helemaal niet.";
+$Definition['Full Anonymization'] = "Volledige anonimisering";
 
 $Definition['Garden.Import.Complete.Description'] = 'Je hebt succesvol een importering afgerond.
 Klik op <b>Klaar</b> als je klaar bent.';
 $Definition['Garden.Import.Continue.Description'] = 'Het lijkt er op dat je midden in het importeren bent. Kies een van de volgende opties.';
 $Definition['Garden.Import.InputInstructions'] = 'Voer het e-mailadres en het wachtwoord in van de beheerder van de te importeren gegevens.';
-$Definition['Garden.Privacy.IPs.Description'] = 'IP-adressen van gebruikers worden doorgaans verzameld voor geautomatiseerde banregels, moderatie en spampreventiedoeleinden. Als u IP-anonimisering inschakelt, worden alle IP-adressen die op de site worden bijgehouden, voor welk doel dan ook, geanonimiseerd en wordt de effectiviteit van deze tools verminderd. Wijzigingen in deze instelling hebben geen terugwerkende kracht.';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Tuin. Profielen. Toestemming aanpassen om eigen avatar vanaf de profielpagina aan te passen in Vanilla.';
+$Definition['Garden.Privacy.IPs.Description'] = "IP-adressen van gebruikers worden doorgaans verzameld voor geautomatiseerde banregels, moderatie en spampreventiedoeleinden. Als u IP-anonimisering inschakelt, worden alle IP-adressen die op de site worden bijgehouden, voor welk doel dan ook, geanonimiseerd en wordt de effectiviteit van deze tools verminderd. Wijzigingen in deze instelling hebben geen terugwerkende kracht.";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Tuin. Profielen. Toestemming aanpassen om eigen avatar vanaf de profielpagina aan te passen in Vanilla.';
 $Definition['Garden.StatisticsDisabled'] = 'Je hebt Vanilla Statistieken specifiek uitgeschakeld in je configuratiebestand.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Het lijkt alsof dit forum in een testomgeving draait, of op een andere manier een lokaal IP-adres teruggeeft. Standaard worden forums die draaien op locale IP-adressen niet gevolgd.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Als je zeker weet dat je forum toegankelijk is via het internet, kun je het hier forceren om statistieken te rapporteren:';
@@ -123,11 +130,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Geef je gemeenschap een boost en vergroot gebruikersinteractie.';
 $Definition['Labs'] = 'Labs';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Grote afbeeldingen worden verkleind tot een maximale breedte van 400 px en een maximale hoogte van 300 px.';
 $Definition['Learn about custom routing.'] = 'Leer over aangepaste routes.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Leer hoe je het uiterlijk van je forum compleet kan veranderen: upload je logo, maak je hoofdpagina, kies een thema en pas het aan.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Leer hoe je de basisfunctionaliteit van je forum kan gebruiken.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Locales maken het mogelijk om andere talen op je site te ondersteunen. Schakel locaties die je beschikbaar wilt maken hier in en uit.';
-$Definition['Lockout Time (seconds)'] = 'Vergrendelingstijd (seconden)';
+$Definition['Lockout Time (seconds)'] = "Vergrendelingstijd (seconden)";
 $Definition['LogoDescription'] = 'Het bannerlogo verschijnt bovenaan uw site.';
 $Definition['LogoDisclaimer'] = 'Thema\'s gemaakt met de thema-editor en sommige aangepaste thema\'s gebruiken deze instelling niet.';
 
@@ -142,14 +150,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobiele thema\'s staan je toe om de uitstraling en het gevoel van je site op kleinere apparaten aan te passen.';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB De nieuwe Layout Editor zal de themaset in uw Style Guide (formeel thema-editor) erven. <1>Meer informatie</1>';
-$Definition['Need More Help?'] = 'Meer hulp nodig?';
-$Definition['Need more help?'] = 'Meer hulp nodig?';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Geneste categorieën dieper dan deze diepte worden in een door komma\'s gescheiden lijst geplaatst.';
-$Definition['New Embed System'] = 'Nieuw insluitsysteem';
-$Definition['New Quick Links'] = 'Nieuwe snelkoppelingen';
-$Definition['New Search Page'] = 'Nieuwe zoekpagina';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'Geneste categorieën dieper dan deze diepte worden in een door komma\'s gescheiden lijst geplaatst.';
 $Definition['No Anonymization'] = 'Geen anonimisering';
+$Definition['No unconfirmed role available for email confirmation.'] = 'De site heeft een rol nodig met standaardtype "niet bevestigd" om e-mailbevestiging te gebruiken. Voeg er een toe om deze instelling in te schakelen.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Zie je niet wat je verwacht als je een voorbeeld van je thema bekijkt?';
 $Definition['Notify me when people comment on my addons.'] = 'Stel mij op de hoogte wanneer mensen reageren op mijn add-ons.';
 
@@ -158,8 +162,8 @@ $Definition['OrgDescription'] = 'Je organisatienaam wordt gebruikt voor SEO-micr
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Overschreven weergaven of themahaken kunnen onbedoelde bijwerkingen hebben en worden niet als voorbeeld weergegeven.';
 
-$Definition['Partial Anonymization'] = 'Gedeeltelijke anonimisering';
-$Definition['PartialAnonymization.Description'] = '<strong>Gedeeltelijke anonimisering</strong> anonimiseert alleen het laatste octet van het IP-adres. 254.230.05.153 wordt bijvoorbeeld 254.230.05.0. Dit zorgt voor enige anonimisering terwijl de IP-banregels nog steeds kunnen functioneren.';
+$Definition['PartialAnonymization.Description'] = "<strong>Gedeeltelijke anonimisering</strong> anonimiseert alleen het laatste octet van het IP-adres. 254.230.05.153 wordt bijvoorbeeld 254.230.05.0. Dit zorgt voor enige anonimisering terwijl de IP-banregels nog steeds kunnen functioneren.";
+$Definition['Partial Anonymization'] = "Gedeeltelijke anonimisering";
 $Definition['Password.MinLength'] = 'Minimale tekenlengte toegestaan voor gebruikerswachtwoorden op pagina\'s voor het maken en opnieuw instellen van wachtwoorden.';
 $Definition['Please choose an authenticator to configure.'] = 'Kies de verificator die je wilt configureren.';
 $Definition['PluginHelp'] = 'Met plug-ins kan je functionaliteit aan je site toevoegen.<br />Zodra een plugin is toegevoegd aan de map %s, kan je hem op deze pagina in- of uitschakelen.';
@@ -197,13 +201,11 @@ $Definition['Session Timeout'] = 'Sessie time-out';
 $Definition['ShareImageDescription'] =
     'Wanneer iemand een link van je site deelt, proberen we een afbeelding van de pagina te halen. Als er geen afbeelding op de pagina staat, gebruiken we deze afbeelding. De afbeelding moet minimaal 50 × 50 zijn, maar we raden 200 × 200 aan.';
 $Definition['Show all possible pocket locations.'] = 'Zet deze optie aan om alle mogelijke pocketlocaties te zien. Het aanzetten van deze optie zal de locaties alleen tonen aan gebruikers die pockets mogen aanpassen.';
-$Definition['SignIn.LockoutTime'] = 'De hoeveelheid tijd dat een gebruiker wordt geblokkeerd om in te loggen nadat het aantal inlogpogingen is overschreden.';
-$Definition['Solid'] = 'Effen';
-$Definition['Some browsers support a color for the address bar.'] = 'Sommige browsers ondersteunen een kleur voor de adresbalk.';
-$Definition['Some older themes don\'t support full editing capability.'] = 'Sommige oudere thema\'s ondersteunen niet de volledige bewerkingsmogelijkheden. Om te zien wat een thema ondersteunt, kunt u de muisaanwijzer op de naam plaatsen om te zien waar de bewerkingen van kracht worden.';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Sommige thema\'s moeten mogelijk worden bijgewerkt om te kunnen werken met de volgende categorieën. Je kan de functie uitschakelen terwijl je je thema bijwerkt.';
-$Definition['Sometimes you want to embed your Vanilla site'] = 'Soms wil je je Vanilla-site insluiten in een andere site. Het embed-systeem van Vanilla biedt een gemakkelijke manier om dat te doen. Er zijn prestatieafwegingen bij het gebruik van een ingesloten site, dus raadpleeg de documentatie voor alternatieven en ideale gebruiksscenario\'s.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Speciale restrictie: alleen gebruikers met toestemming
+$Definition['SignIn.LockoutTime'] = "De hoeveelheid tijd dat een gebruiker wordt geblokkeerd om in te loggen nadat het aantal inlogpogingen is overschreden.";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'Sommige thema\'s moeten mogelijk worden bijgewerkt om te kunnen werken met de volgende categorieën. Je kan de functie uitschakelen terwijl je je thema bijwerkt.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'Speciale restrictie: alleen gebruikers met toestemming
 Tuin. Curatie. Management mag deze reactie gebruiken.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Specificeer een gedeeltelijke of volledige overeenkomst bij het creëeren van een verbanning.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Neem je tijd om een beschrijving te bedenken voor je site. Het geven van een betekenisvolle naam en correcte beschrijving zou je positie in zoekmachines kunnen helpen.';
@@ -238,6 +240,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'Ze werken net als reguliere thema\'s. Zodra er een is toegevoegd aan de themafolder kan je ze hier toestaan.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Dit is het beheerdersdashboard voor jouw nieuwe gemeenschap. Bekijk de configuratieopties aan de zijkant. Vanaf hier kun je configureren hoe jouw gemeenschap werkt. <b>Standaard staat ingesteld dat alleen gebruikers in de \'beheerder\' rol dit gedeelte van jouw gemeenschap kunnen zien. </b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'Dit kan worden gebruikt om inhoud zoals de naam en het adres van de organisatie in alle uitgaande e-mails op te nemen.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Deze optie toont/verbergt de locaties waar pockets kunnen worden geplaatst, maar alleen voor gebruikers die toestemming hebben pockets toe te voegen of aan te passen. Probeer de locaties te tonen en je site te bezoeken.';
 $Definition['This page lists the endpoints of your API.'] =
     'Deze pagina toont de eindpunten van jouw API. Klik op eindpunten voor meer informatie. Je kan livegesprekken voeren met de API\'s vanaf deze pagina of extern door middel van een toegangstoken.';
@@ -274,6 +277,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>Waarschuwing</b>: Dit is voor geavanceerde gebruikers en vereist dat je extra aanpassingen doet aan je webserver. Dit is normaal gesproken alleen beschikbaar wanneer je VPS-hosting hebt. Probeer dit niet als je niet weet wat je aan het doen bent.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'We raden vooral positieve reacties aan om deelname aan te moedigen.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'Indien ingeschakeld, kunnen gebruikers ervoor kiezen om meldingen van de community te ontvangen';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Wanneer ingeschakeld, kan je producten beheren en kleine gemeenschappen groeperen op basis van die producten.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Of de interne profielvelden al dan niet worden opgenomen in deze webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Of de velden van het privéprofiel al dan niet worden opgenomen in deze webhook.';

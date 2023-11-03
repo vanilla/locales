@@ -18,9 +18,11 @@ $Definition['AddressBarColorDescription'] = 'Ορισμένα προγράμμα
 $Definition['AddonProblems'] = '<h2>Προβλήματα;</h2><p>Αν κάτι πάει στραβά με το πρόσθετο και δεν μπορείτε να χρησιμοποιήσετε το χώρο σας, μπορείτε να το απενεργοποιήσετε χειροκίνητα μέσω επεξεργασίας του:</p>%s';
 $Definition['Alert users if they click external link.'] = 'Ειδοποιήστε τους χρήστες εάν κάνουν κλικ σε έναν σύνδεσμο σε μια ανάρτηση που θα τους οδηγήσει μακριά από το φόρουμ. Οι χρήστες δεν θα ειδοποιούνται όταν ακολουθούν συνδέσμους που αντιστοιχούν σε έναν αξιόπιστο τομέα';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Όλες οι κατηγορίες που απαρριθμούνται με 5 πρόσφατες συζητήσεις σε κάθε μία';
-$Definition['Allow links to be transformed'] = 'Να επιτρέπεται η μετατροπή συνδέσμων σε ενσωματωμένες αναπαραστάσεις σε συζητήσεις και σχόλια. Για παράδειγμα, ένας σύνδεσμος YouTube θα μετατραπεί σε ενσωματωμένο βίντεο.';
-$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] = 'Επιτρέψτε στους χρήστες με την άδεια %s να αλλάξουν τα δικά τους είδωλα από τις σελίδες προφίλ τους στη Βανίλια.';
-$Definition['Anonymize IP Addresses'] = 'Ανωνυμοποίηση διευθύνσεων IP';
+$Definition['Allow links to be transformed'] =
+    'Να επιτρέπεται η μετατροπή συνδέσμων σε ενσωματωμένες αναπαραστάσεις σε συζητήσεις και σχόλια. Για παράδειγμα, ένας σύνδεσμος YouTube θα μετατραπεί σε ενσωματωμένο βίντεο.';
+$Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Επιτρέψτε στους χρήστες με την άδεια %s να αλλάξουν τα δικά τους είδωλα από τις σελίδες προφίλ τους στη Βανίλια.';
+$Definition['Anonymize IP Addresses'] = "Ανωνυμοποίηση διευθύνσεων IP";
 $Definition['ApplicationHelp'] = 'Οι Εφαρμογές σας επιτρέπουν να προσθέτετε μεγάλες ομάδες λειτουργικότητας στο χώρο σας.<br />Όταν μια εφαρμογή προστεθεί στο φάκελο %s, μπορείτε να την ενεργοποιήσετε ή να την απενεργοποιήσετε εδώ.';
 $Definition['Apply Layout'] = 'Εφαρμογή διάταξης';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Είστε σίγουρος ότι δώσατε το σωστό όνομα εξυπηρετητή της βάσης δεδομένων; Μήπως το πληκτρολογήσατε λάθος; Η βάση δεδομένων ανέφερε: <code>%s</code>';
@@ -36,6 +38,7 @@ $Definition['By clicking the button below, you will be deleting the user account
 $Definition['Change the way your community works with plugins.'] = 'Αλλάξτε με plugins τον τρόπο που δουλεύει η κοινότητά σας. Έχουμε πακετάρει δημοφιλή plugins μαζί με το λογισμικό και υπάρχουν πολλά περισσότερα διαθέσιμα online.';
 $Definition['Changes will apply to newly uploaded avatars only.'] = 'Οι αλλαγές θα ισχύουν μόνο για πρόσφατα μεταφορτωμένα είδωλα.';
 $Definition['Change the sizes that avatar images are saved at.'] = 'Αλλάξτε τα μεγέθη στα οποία αποθηκεύονται οι εικόνες avatar.';
+$Definition['Changes to the set day will take affect the following week.'] = 'Οι αλλαγές στην καθορισμένη ημέρα θα επηρεαστούν την επόμενη εβδομάδα.';
 $Definition['Checkboxes allow admins to perform batch actions on a number of discussions or comments at the same time.'] =
     'Τα πλαίσια ελέγχου επιτρέπουν στους διαχειριστές να εκτελούν παρτίδες σε πολλές συζητήσεις ή σχόλια ταυτόχρονα.';
 $Definition['Check out our %s'] = 'Δείτε το %s μας';
@@ -67,6 +70,10 @@ $Definition['Drag and drop the categories below to sort and nest them.'] = 'Σύ
 $Definition['EditContentTimeout.Notes'] = 'Αν ένας χρήστης έχει ρόλο που έχει δικαιώματα επεξεργασίας περιεχομένου, αυτά τα δικαιώματα θα το υπερκαλύψουν.';
 $Definition['Edit Route'] = 'Επεξεργασία Δρομολόγησης';
 $Definition['Embed your community forum into your website to increase engagement...'] = 'Ενσωματώστε την κοινότητα του φόρουμ στην ιστοσελίδα σας για να αυξήσετε τη συμμετοχή...';
+$Definition['Email digests will be sent on the selected day every week.'] = 'Οι συνοπτικές πληροφορίες μέσω email θα αποστέλλονται την επιλεγμένη ημέρα κάθε εβδομάδα.';
+$Definition['Email sent from the application will be addressed from this email address'] = 'Η διεύθυνση ηλεκτρονικού ταχυδρομείου που αποστέλλεται από την εφαρμογή θα γίνεται από αυτήν τη διεύθυνση ηλεκτρονικού ταχυδρομείου';
+$Definition['Email sent from the application will be addressed from this name'] = 'Το email που αποστέλλεται από την εφαρμογή θα απευθύνεται από αυτό το όνομα';
+$Definition['Email Settings'] = 'Ρυθμίσεις email';
 $Definition['Enables advanced editing of posts in several formats, including WYSIWYG, simple HTML, Markdown, and BBCode.'] =
     'Επιτρέπει τη σύνθετη επεξεργασία των αναρτήσεων σε διάφορες μορφές, συμπεριλαμβανομένων των WYSIWYG, απλού HTML, Markdown και BBCode.';
 $Definition['Enter a descriptive name.'] = 'Δώστε ένα περιγραφικό όνομα για την τσέπη. Το όνομα αυτό δε θα εμφανίζεται κάπου, εκτός από τη διαχείριση των τσεπών σας, οπότε υπάρχει μόνο για να σας βοηθά να θυμάστε την τσέπη.';
@@ -83,15 +90,15 @@ $Definition['Force the dashboard to only be accessible through this url <em>(not
 $Definition['For example, you can ban all users with emails addresses from "example.com" by adding an email-type ban with the value "*@example.com".'] = 'Για παράδειγμα, μπορείτε να απαγορεύσετε όλους τους χρήστες με διευθύνσεις email από το "example.com", προσθέτοντας μια απαγόρευση τύπου email με την τιμή "*@example.com".';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'Για λόγους SEO, οι μηχανές αναζήτησης εξαιρούνται από την υποχρέωση να βλέπουν το φόρουμ στο απομακρυσμένο url.';
 $Definition['Foundation Layout'] = 'Διάταξη θεμελίωσης';
-$Definition['Full Anonymization'] = 'Πλήρης ανωνυμοποίηση';
-$Definition['FullAnonymization.Description'] = '<strong>Η πλήρης ανωνυμοποίηση</strong> αντικαθιστά κάθε μεμονωμένη διεύθυνση IP με 0.0.0.0, αρνούμενη ουσιαστικά στην εφαρμογή οποιαδήποτε πρόσβαση για εργασία με διευθύνσεις IP. Οι κανόνες απαγόρευσης IP δεν θα λειτουργήσουν καθόλου σε αυτήν την περίπτωση.';
-$Definition['Full Bleed'] = 'Πλήρης αιμορραγία';
+$Definition['FullAnonymization.Description'] = "<strong>Η πλήρης ανωνυμοποίηση</strong> αντικαθιστά κάθε μεμονωμένη διεύθυνση IP με 0.0.0.0, αρνούμενη ουσιαστικά στην εφαρμογή οποιαδήποτε πρόσβαση για εργασία με διευθύνσεις IP. Οι κανόνες απαγόρευσης IP δεν θα λειτουργήσουν καθόλου σε αυτήν την περίπτωση.";
+$Definition['Full Anonymization'] = "Πλήρης ανωνυμοποίηση";
 
 $Definition['Garden.Import.Complete.Description'] = 'Έχετε ολοκληρώσει επιτυχώς μία εισαγωγή. Κάντε κλικ στο <b>Τελείωσε</b> όταν είστε έτοιμος.';
 $Definition['Garden.Import.Continue.Description'] = 'Φαίνεται ότι βρίσκεστε στη μέση μιας εισαγωγής. Επιλέξτε μία από τις ακόλουθες επιλογές.';
 $Definition['Garden.Import.InputInstructions'] = 'Δώστε το email και τον κωδικό του διαχειριστή για να γίνει εισαγωγή των δεδομένων.';
-$Definition['Garden.Privacy.IPs.Description'] = 'Οι διευθύνσεις IP των χρηστών συλλέγονται συνήθως για σκοπούς αυτοματοποιημένης απαγόρευσης, εποπτείας και πρόληψης ανεπιθύμητων μηνυμάτων. Η ενεργοποίηση της ανωνυμοποίησης IP θα ανωνυμοποιήσει όλες τις διευθύνσεις IP που παρακολουθούνται στον ιστότοπο για οποιονδήποτε σκοπό και θα μειώσει την αποτελεσματικότητα αυτών των εργαλείων. Οι αλλαγές σε αυτήν τη ρύθμιση δεν έχουν αναδρομική ισχύ.';
-$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] = 'Garden.Profiles.Επεξεργασία άδειας για να αλλάξουν τα δικά τους είδωλα από τις σελίδες προφίλ τους στη Βανίλια.';
+$Definition['Garden.Privacy.IPs.Description'] = "Οι διευθύνσεις IP των χρηστών συλλέγονται συνήθως για σκοπούς αυτοματοποιημένης απαγόρευσης, εποπτείας και πρόληψης ανεπιθύμητων μηνυμάτων. Η ενεργοποίηση της ανωνυμοποίησης IP θα ανωνυμοποιήσει όλες τις διευθύνσεις IP που παρακολουθούνται στον ιστότοπο για οποιονδήποτε σκοπό και θα μειώσει την αποτελεσματικότητα αυτών των εργαλείων. Οι αλλαγές σε αυτήν τη ρύθμιση δεν έχουν αναδρομική ισχύ.";
+$Definition['Garden.Profiles.Edit permission to change their own avatars from their profile pages in Vanilla.'] =
+    'Garden.Profiles.Επεξεργασία άδειας για να αλλάξουν τα δικά τους είδωλα από τις σελίδες προφίλ τους στη Βανίλια.';
 $Definition['Garden.StatisticsDisabled'] = 'Έχετε ζητήση απενεργοποίηση των στατιστικών Vanilla στο αρχείο ρυθμίσεων.';
 $Definition['Garden.StatisticsLocal.Explain'] = 'Αυτό το φόρουμ φαίνεται να εκτελείτε σε δοκιμαστικό περιβάλλον, ή αλλιώς αναφέρει ιδιωτική IP. Από προεπιλογή, τα φόρουμ που εκτελούνται σε ιδιωτική IP δεν ανιχνεύονται.';
 $Definition['Garden.StatisticsLocal.Resolve'] = 'Αν είστε σίγουρος ότι το φόρουμ είναι προσπελάσιμο από το internet, μπορείτε να υποχρεώσετε την αναφορά στατιστικών εδώ:';
@@ -123,11 +130,12 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Ενεργοποιήστε την κοινότητά σας και αυξήστε τη συμμετοχή των χρηστών.';
 $Definition['Labs'] = 'Εργαστήρια';
+$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Οι μεγάλες εικόνες θα μειωθούν σε μέγιστο πλάτος 400 εικονοστοιχείων και μέγιστο ύψος 300 εικονοστοιχεία.';
 $Definition['Learn about custom routing.'] = 'Μάθετε σχετικά με τις προσαρμοσμένες δρομολογήσεις.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Μάθετε πως να αλλάξετε εντελώς την όψη του φόρουμ σας: ανεβάστε το λογότυπό σας, ορίστε την αρχική σας σελίδα, επιλέξτε ένα θέμα και τροποποιήστε τον.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Μάθετε πώς να χρησιμοποιείτε τις βασικές λειτουργίες του φόρουμ σας.';
 $Definition['Locales allow you to support other languages on your site.'] = 'Οι τοποθεσίες σας επιτρέπουν να υποστηρίζετε άλλες γλώσσες στην ιστοσελίδα σας.';
-$Definition['Lockout Time (seconds)'] = 'Χρόνος κλειδώματος (δευτερόλεπτα)';
+$Definition['Lockout Time (seconds)'] = "Χρόνος κλειδώματος (δευτερόλεπτα)";
 $Definition['LogoDescription'] = 'Το λογότυπο εμφανίζεται στο επάνω μέρος του χώρου σας.';
 $Definition['LogoDisclaimer'] = 'Τα θέματα που έχουν δημιουργηθεί με το πρόγραμμα επεξεργασίας θεμάτων και ορισμένα προσαρμοσμένα θέματα δεν χρησιμοποιούν αυτήν τη ρύθμιση.';
 
@@ -142,14 +150,10 @@ $Definition['MobileLogoDescription'] =
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Τα θέματα για κινητά σάς επιτρέπουν να αλλάξετε την εμφάνιση και την αίσθηση του ιστότοπού σας σε μικρότερες συσκευές.';
 
-$Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Σημείωση Το νέο πρόγραμμα επεξεργασίας διάταξης θα κληρονομήσει το σύνολο θεμάτων στον Οδηγό στυλ σας (επίσημα πρόγραμμα επεξεργασίας θεμάτων). <1>Μάθετε περισσότερα</1>';
-$Definition['Need More Help?'] = 'Χρειάζεστε κι άλλη βοήθεια;';
-$Definition['Need more help?'] = 'Χρειάζεστε περισσότερη βοήθεια;';
-$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] = 'Οι ένθετες κατηγορίες σε βάθος από αυτό το βάθος θα τοποθετηθούν σε μια λίστα οριοθετημένη με κόμματα.';
-$Definition['New Embed System'] = 'Νέο σύστημα ενσωμάτωσης';
-$Definition['New Quick Links'] = 'Νέοι γρήγοροι σύνδεσμοι';
-$Definition['New Search Page'] = 'Νέα σελίδα αναζήτησης';
+$Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
+    'Οι ένθετες κατηγορίες σε βάθος από αυτό το βάθος θα τοποθετηθούν σε μια λίστα οριοθετημένη με κόμματα.';
 $Definition['No Anonymization'] = 'Χωρίς ανωνυμοποίηση';
+$Definition['No unconfirmed role available for email confirmation.'] = 'Ο ιστότοπος χρειάζεται ένα ρόλο με προεπιλεγμένο τύπο "unconfirmed" για να χρησιμοποιήσει την επιβεβαίωση μέσω ηλεκτρονικού ταχυδρομείου. Προσθέστε ένα για να ενεργοποιήσετε αυτή τη ρύθμιση.';
 $Definition['Not getting what you expect when you preview your theme?'] = 'Δεν λαμβάνετε αυτό που περιμένετε κατά την προεπισκόπηση του θέματος;';
 $Definition['Notify me when people comment on my addons.'] = 'Ειδοποίησέ με όταν οι άλλοι σχολιάζουν τα πρόσθετά μου.';
 
@@ -158,8 +162,8 @@ $Definition['OrgDescription'] = 'Το όνομα του οργανισμού σ�
 $Definition['Overridden views or themehooks can have unintended side effects and are not previewed.'] =
     'Οι παράκαμψεις προβολών ή θεμάτων μπορεί να έχουν ανεπιθύμητες παρενέργειες και δεν έχουν προεπισκόπηση.';
 
-$Definition['Partial Anonymization'] = 'Μερική ανωνυμοποίηση';
-$Definition['PartialAnonymization.Description'] = '<strong>Η μερική ανωνυμοποίηση</strong> ανωνυμοποιεί μόνο την τελευταία οκτάδα της διεύθυνσης IP. Για παράδειγμα, το 254.230.05.153 θα γίνει 254.230.05.0. Αυτό παρέχει κάποια ανωνυμοποίηση, ενώ εξακολουθεί να επιτρέπει τη λειτουργία κανόνων απαγόρευσης IP.';
+$Definition['PartialAnonymization.Description'] = "<strong>Η μερική ανωνυμοποίηση</strong> ανωνυμοποιεί μόνο την τελευταία οκτάδα της διεύθυνσης IP. Για παράδειγμα, το 254.230.05.153 θα γίνει 254.230.05.0. Αυτό παρέχει κάποια ανωνυμοποίηση, ενώ εξακολουθεί να επιτρέπει τη λειτουργία κανόνων απαγόρευσης IP.";
+$Definition['Partial Anonymization'] = "Μερική ανωνυμοποίηση";
 $Definition['Password.MinLength'] = 'Ελάχιστο μήκος χαρακτήρων που επιτρέπεται για τους κωδικούς πρόσβασης των χρηστών στις σελίδες δημιουργίας και επαναφοράς κωδικού πρόσβασης.';
 $Definition['Please choose an authenticator to configure.'] = 'Παρακαλούμε διαλέξτε έναν ελεγκτή ταυτότητας για να τον ρυθμίσετε.';
 $Definition['PluginHelp'] = 'Τα Plugins σας επιτρέπουν την προσθήκη λειτουργικότητας στην ιστοσελίδα σας.<br />Μόλις ένα plugin έχει προστεθεί στο %s φάκελο σας, μπορείτε να το ενεργοποιήσετε ή να το απενεργοποιήσετε εδώ.';
@@ -197,13 +201,11 @@ $Definition['Session Timeout'] = 'Χρονικό όριο περιόδου λε�
 $Definition['ShareImageDescription'] =
     'Όταν κάποιος μοιράζεται έναν σύνδεσμο από τον ιστότοπό σας, προσπαθούμε να τραβήξουμε μια εικόνα από τη σελίδα. Αν δεν υπάρχει εικόνα στη σελίδα, τότε θα χρησιμοποιήσουμε αυτήν την εικόνα. Η εικόνα πρέπει να είναι τουλάχιστον 50 × 50, αλλά προτείνουμε 200 × 200.';
 $Definition['Show all possible pocket locations.'] = 'Ενεργοποιήστε αυτή την επιλογή για να εμφανίσετε όλες τις πιθανές τοποθεσίες θυλάκων. Ενεργοποιώντας αυτή την επιλογή θα εμφανίζεται μόνο τις τοποθεσίες σε χρήστες που μπορούν να διαχειριστούν θύλακες.';
-$Definition['SignIn.LockoutTime'] = 'Ο χρόνος που ένας χρήστης αποκλείεται από τη σύνδεση μετά την υπέρβαση του αριθμού των προσπαθειών σύνδεσης.';
-$Definition['Solid'] = 'Στερεός';
-$Definition['Some browsers support a color for the address bar.'] = 'Ορισμένα προγράμματα περιήγησης υποστηρίζουν ένα χρώμα για τη γραμμή διευθύνσεων.';
-$Definition['Some older themes don\'t support full editing capability.'] = 'Ορισμένα παλαιότερα θέματα δεν υποστηρίζουν πλήρη δυνατότητα επεξεργασίας. Για να δείτε τι υποστηρίζει ένα θέμα, μπορείτε να τοποθετήσετε το δείκτη του ποντικιού πάνω από το όνομά του για να δείτε πού θα εφαρμοστούν οι αλλαγές.';
-$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] = 'Ορισμένα θέματα ενδέχεται να χρειαστεί να ενημερωθούν για να λειτουργούν με την ακόλουθη κατηγορία. Μπορείτε να απενεργοποιήσετε τη λειτουργία ενώ ενημερώνετε το θέμα σας.';
-$Definition['Sometimes you want to embed your Vanilla site'] = 'Μερικές φορές θέλετε να ενσωματώσετε τον ιστότοπό σας Vanilla μέσα σε έναν άλλο ιστότοπο. Το σύστημα ενσωμάτωσης της Vanilla προσφέρει έναν εύκολο τρόπο για αυτό. Υπάρχουν ανταλλαγές απόδοσης όταν χρησιμοποιείτε έναν ενσωματωμένο ιστότοπο, επομένως ελέγξτε την τεκμηρίωση για εναλλακτικές και ιδανικές περιπτώσεις χρήσης.';
-$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] = 'Ειδικός περιορισμός: Μόνο οι χρήστες με άδεια Garden.Curation.Manage μπορούν να χρησιμοποιήσουν αυτήν την αντίδραση.';
+$Definition['SignIn.LockoutTime'] = "Ο χρόνος που ένας χρήστης αποκλείεται από τη σύνδεση μετά την υπέρβαση του αριθμού των προσπαθειών σύνδεσης.";
+$Definition['Some themes may need to be updated to work with category following. You can disable the feature while you update your theme.'] =
+    'Ορισμένα θέματα ενδέχεται να χρειαστεί να ενημερωθούν για να λειτουργούν με την ακόλουθη κατηγορία. Μπορείτε να απενεργοποιήσετε τη λειτουργία ενώ ενημερώνετε το θέμα σας.';
+$Definition['Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.'] =
+    'Ειδικός περιορισμός: Μόνο οι χρήστες με άδεια Garden.Curation.Manage μπορούν να χρησιμοποιήσουν αυτήν την αντίδραση.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Καθορίστε μια μερική ή πλήρη αντιστοίχιση κατά τη δημιουργία μιας απαγόρευσης.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Ξοδέψτε λίγο χρόνο για να σκεφτείτε το πως θα περιγράψετε εδώ την ιστοσελίδα σας. Δίνοντας στην ιστοσελίδα σας έναν ουσιώδη τίτλο και μία σύντομη περιγραφή θα μπορούσε να βοηθήσει τη θέση σας στις μηχανές αναζήτησης.';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Κάντε τα e-mail σας πιο ενδιαφέροντα, προσθέτοντας ένα λογότυπο και προσαρμόζοντας τα χρώματα.';
@@ -237,6 +239,7 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] =
     'Λειτουργούν όπως τα κανονικά θέματα. Μόλις προστεθεί ένας στον φάκελο θεμάτων, μπορείτε να τον ενεργοποιήσετε εδώ.';
 $Definition['This is the administrative dashboard for your new community.'] = 'Αυτός είναι ο διοικητικός πίνακας ελέγχου για τη νέα σου κοινότητα. Ελέγξτε τις επιλογές παραμετροποίησης στο πλάι. Από εκεί μπορείτε να παραμετροποιήσετε τον τρόπο που λειτουργεί η κοινότητά σας. <b> Από προεπιλογή, μόνο χρήστες με το ρόλο "Διαχειριστής" μπορούν να δουν αυτό το τμήμα της κοινότητάς σας.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'Αυτό μπορεί να χρησιμοποιηθεί για να συμπεριλάβει περιεχόμενο όπως όνομα και διεύθυνση οργανισμού σε όλα τα εξερχόμενα μηνύματα ηλεκτρονικού ταχυδρομείου.';
 $Definition['This option shows/hides the locations where pockets can go.'] = 'Αυτή η επιλογή εμφανίζει/κρύβει τις θέσεις που μπορούν να πάνε οι θύλακες, αλλά μόνο για τους χρήστες που έχουν άδεια να προσθέτουν/επεξεργάζονται θύλακες. Δοκιμάστε να εμφανίσετε τις θέσεις και στη συνέχεια επισκεφθείτε την ιστοσελίδα σας.';
 $Definition['This page lists the endpoints of your API.'] =
     'Σε αυτήν τη σελίδα παρατίθενται τα τελικά σημεία του API σας. Κάντε κλικ στα τελικά σημεία για περισσότερες πληροφορίες. Μπορείτε να πραγματοποιήσετε ζωντανές κλήσεις στο API από αυτήν τη σελίδα ή εξωτερικά χρησιμοποιώντας ένα διακριτικό πρόσβασης.';
@@ -273,6 +276,7 @@ $Definition['Warning: Loading tables can be slow.'] =
 $Definition['Warning: This is for advanced users.'] = '<b>Προειδοποίηση</b>: Αυτό είναι για προχωρημένους χρήστες και απαιτεί να κάνετε πρόσθετες αλλαγές στο διακομιστή web σας. Αυτό είναι συνήθως διαθέσιμο μόνο αν έχετε αποκλειστική ή vps φιλοξενία. Μην το επιχειρήσετε αν δεν ξέρετε τι κάνετε.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['We recommend mostly positive reactions to encourage participation.'] = 'Συνιστούμε κυρίως θετικές αντιδράσεις για να ενθαρρύνετε τη συμμετοχή.';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'Όταν είναι ενεργοποιημένο, οι χρήστες μπορούν να επιλέξουν να λαμβάνουν ειδοποιήσεις από την κοινότητα';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Όταν είναι ενεργοποιημένη, μπορείτε να διαχειριστείτε τα προϊόντα και να ομαδοποιήσετε τις υπο-κοινότητες με αυτά τα προϊόντα.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Εάν τα εσωτερικά πεδία προφίλ θα περιλαμβάνονται ή όχι σε αυτό το webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Εάν τα πεδία ιδιωτικού προφίλ θα περιλαμβάνονται ή όχι σε αυτό το webhook.';
