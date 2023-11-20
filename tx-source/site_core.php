@@ -305,6 +305,7 @@ $Definition['Attach this warning to the %s.'] = 'Attach this warning to the %s.'
 $Definition['AttemptingSignOut'] = 'You are attempting to sign out. Are you sure you want to %s?';
 $Definition['Attending'] = 'Attending';
 $Definition['Attending (%s)'] = 'Attending (%s)';
+$Definition['Attention: You are leaving'] = 'Attention: You are leaving';
 $Definition['Authenticate URL'] = 'Authenticate URL';
 $Definition['Authentication'] = 'Authentication';
 $Definition['Author'] = 'Author';
