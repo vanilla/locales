@@ -810,6 +810,7 @@ $Definition['Technical'] = 'Technical';
 $Definition['Templates'] = 'Templates';
 $Definition['Temporary (302)'] = 'Temporary (302)';
 $Definition['Test Email'] = 'Test Email';
+$Definition['Test Digest'] = 'Test Digest';
 $Definition['Test email from %s'] = 'Test email from %s';
 $Definition['Test Email Message'] = '<p>This is a test email message.</p>
 
