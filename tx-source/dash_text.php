@@ -60,6 +60,7 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = 'D
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Define your forum homepage, upload your logo, and more...';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'Deleting a role can result in users not having access to the application.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
+$Definition['Digest Settings'] = 'Digest Settings';
 $Definition['Disable Google Sign In'] = 'Disable Google Sign In';
 $Definition['Disable OpenID'] = 'Disable OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
@@ -170,6 +171,7 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets allow you to add free-form HTML to various places around the application.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.';
 
+$Definition['Quicklinks'] = 'Quicklinks';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
