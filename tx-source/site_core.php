@@ -285,6 +285,7 @@ $Definition['Are you ABSOLUTELY sure you want to take this action?'] = 'Are you 
 $Definition['Are you attending this event?'] = 'Are you attending this event?';
 $Definition["Are you sure you want to delete this image? You won't be able to recover it."] = "Are you sure you want to delete this image? You won't be able to recover it.";
 $Definition['Are you sure you want to delete this %s?'] = 'Are you sure you want to delete this %s?';
+$Definition['Are you sure you want to delete this discussion?'] = 'Are you sure you want to delete this discussion?';
 $Definition['Are you sure you want to do that?'] = 'Are you sure you want to do that?';
 $Definition['Are you sure you want to do this?'] = 'Are you sure you want to do this?';
 $Definition['Are you sure you want to ignore <b>%s</b>?'] = 'Are you sure you want to ignore <b>%s</b>?';
