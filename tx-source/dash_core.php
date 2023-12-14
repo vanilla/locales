@@ -965,6 +965,7 @@ $Definition['Visit Site'] = 'Visit Site';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Warn users if a link in a post will cause them to leave the forum';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.';
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
+$Definition['Weekly Email Digest '] = 'Weekly Email Digest';
 $Definition['Welcome to Vanilla!'] = 'Welcome to Vanilla!';
 $Definition['Welcome to your Dashboard'] = 'Welcome to your Dashboard';
 $Definition['We only accept urls that begin with http:// or https://'] = 'We only accept urls that begin with http:// or https://';

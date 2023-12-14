@@ -527,7 +527,7 @@ $Definition['Default'] = 'Default';
 $Definition['default'] = 'default';
 $Definition['Default Status'] = 'Default Status';
 $Definition['Defer Javascript Loading'] = 'Defer Javascript Loading';
-$Definition['Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Categories</a>.'] = 'Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Categories</a>.';
+$Definition['Default notification settings can be modified for each followed category in'] = 'Default notification settings can be modified for each followed category in';
 $Definition['Define Thumbnail'] = 'Click and drag across the picture to define your thumbnail.';
 $Definition['delete'] = 'delete';
 $Definition['Delete'] = 'Delete';
@@ -994,6 +994,7 @@ $Definition['Keep User Content'] = 'Keep User Content';
 $Definition["Kilobyte"] = "Kilobyte";
 
 $Definition['Label'] = 'Label';
+$Definition['Language'] = 'Language';
 $Definition['Languages'] = 'Languages';
 $Definition['Last Active'] = 'Last Active';
 $Definition['Last Commented'] = 'Last Commented';
@@ -1801,7 +1802,7 @@ $Definition['The connection data has not been verified.'] = 'The connection data
 $Definition['The content you were looking for has been deleted.'] = 'The content you were looking for has been deleted.';
 $Definition['The conversation has been cleared.'] = 'The conversation has been cleared.';
 $Definition['The CSRF token is invalid.'] = 'The CSRF token is invalid.';
-$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week. <a href="{url,html}">Manage Followed Categories</a>.'] = 'The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week. <a href="{url,html}">Manage Followed Categories</a>.';
+$Definition['TThe email digest delivers the week\'s top content from the categories you follow into your email inbox once per week.'] = 'The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week.';
 $Definition['The email you entered is in use by another member.'] = 'The email you entered is in use by another member.';
 $Definition['The email you have entered is already related to an existing account.'] = 'The email you have entered is already related to an existing account.';
 $Definition['The event will be created in your current local time zone'] = 'The event will be created in your current local time zone';
