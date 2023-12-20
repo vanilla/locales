@@ -44,6 +44,8 @@ $Definition['a Badge'] = 'ein Abzeichen';
 $Definition['Abilites'] = 'Fähigkeiten';
 $Definition['Abilities'] = 'Fähigkeiten';
 $Definition['About %s'] = 'Über %s';
+$Definition['About Email Digest'] = 'Über E-Mail-Digest
+';
 $Definition['About Theme Preview'] = 'Über Themenvorschau';
 $Definition['Above Main Content'] = 'Über Hauptinhalt';
 $Definition['Account Sync Failed'] = 'Konto-Synchronisation fehlgeschlagen';
@@ -97,6 +99,8 @@ $Definition['Allow embedded content'] = 'Eingebettete Inhalte erlauben';
 $Definition['Allow images'] = 'Bilder erlauben';
 $Definition['Allow new users to be registered through email.'] = 'Neuen Benutzern erlauben, sich via E-Mail zu registrieren.';
 $Definition['Allow this connection to issue API access tokens.'] = 'Erlauben Sie dieser Verbindung, API-Zugriffs-Token zu vergeben.';
+$Definition['Allow Third-Party Script Execution'] = 'Ausführung von Skripten von Drittanbietern zulassen
+';
 $Definition['Allow users to change their own avatars'] = 'Nutzern erlauben, ihre eigenen Avatare zu ändern';
 $Definition['Allow users to dismiss this message'] = 'Benutzern erlauben, diese Nachricht zu ignorieren.';
 $Definition['All Pages'] = 'Alle Seiten';
@@ -127,7 +131,6 @@ $Definition['Are you sure you want to delete this badge? This is irreversible an
 $Definition['Are you sure you want to delete this category?'] = 'Bist du dir sicher, dass du diese Kategorie löschen möchtest?';
 $Definition['Are you sure you want to restore %s items?'] = 'Bist du dir sicher, dass du %s Elemente wiederherstellen möchtest?';
 $Definition['Are you sure you want to restore 1 item?'] = 'Bist du dir sicher, dass du 1 Element wiederherstellen möchtest?';
-$Definition['Assign to'] = 'Zuweisen';
 $Definition['At least one visible column is required. Show or add a visible column.'] = 'Mindestens eine sichtbare Spalte ist erforderlich. Zeigen Sie eine sichtbare Spalte an oder fügen Sie eine hinzu.';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'Eine URL-freundliche Version des Kategorienamens für bessere SEO.';
 $Definition['Automatically Save Drafts'] = 'Entwürfe automatisch speichern';
@@ -162,12 +165,15 @@ $Definition['Ban Rules'] = 'Sperrregeln';
 $Definition['Ban Type'] = 'Typ';
 $Definition['Basic Information'] = 'Basisinformationen';
 $Definition['Before'] = 'Vor';
+$Definition['Before activating this feature, please be aware of the following potential implications:'] = 'Bevor Sie diese Funktion aktivieren, sollten Sie sich über die folgenden möglichen Auswirkungen im Klaren sein: ';
 $Definition['Begin At'] = 'Starten bei';
 $Definition['Below Sidebar'] = 'Unter der Seitenleiste';
 $Definition['Blocked'] = 'Blockiert';
 $Definition['Blog Comments'] = 'Blogkommentare';
 $Definition['Bookmark a discussion using its star icon.'] = 'Lese eine Diskussion mit seinem Stern';
 $Definition['Browse Addons'] = 'Addons durchsuchen';
+$Definition['Browser Compatibility:'] = 'Browser-Kompatibilität:
+';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Neues Bannerlogo auswählen, um es zu ändern.';
 $Definition['Button Background Color'] = 'Hintergrund-Farbe von Knöpfen';
 $Definition['Button Text Color'] = 'Text-Farbe von Knöpfen';
@@ -213,6 +219,7 @@ $Definition['Colored'] = 'Farbig';
 $Definition['Column Display Settings'] = 'Einstellungen für die Spaltenanzeige';
 $Definition['comment(s)'] = 'Kommentar(e)';
 $Definition['Comment  Body'] = 'Kommentartext';
+$Definition['Comment Count'] = 'Anzahl der Kommentare';
 $Definition['Comment Settings'] = 'Kommentareinstellungen';
 $Definition['Comments Page'] = 'Kommentarseite';
 $Definition['Comments per Page'] = 'Kommentare pro Seite';
@@ -240,6 +247,8 @@ $Definition['Content Security Domains'] = 'Inhaltssicherheitsdomänen';
 $Definition['Conversation Messages'] = 'Nachrichten';
 $Definition['Conversations'] = 'Konversationen';
 $Definition['Conversations Setup'] = 'Konversationseinstellungen';
+$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = 'Könnte zu Schwachstellen wie Cross-Site-Scripting (XSS) führen, wenn die Original-Skripte kompromittiert werden.
+';
 $Definition['Could not find a theme identified by \'%s\''] = 'Es kann kein Thema mit dem Namen \'%s\' gefunden werden';
 $Definition['Could not instantiate mail function.'] = 'Mailfunktion konnte nicht instanziiert werden.';
 $Definition['Could not link the addon.'] = 'Addon konnte nicht verknüpft werden.';
@@ -283,6 +292,7 @@ $Definition['Delete User'] = 'Lösche Nutzer';
 $Definition['Delete User: %s'] = 'Lösche Nutzer: %s';
 $Definition['Deleting category...'] = 'Lösche Kategorie...';
 $Definition['Deleting role...'] = 'Lösche Rolle...';
+$Definition['Delivery Date'] = 'Datum der Zustellung';
 $Definition['Description'] = 'Beschreibung';
 $Definition['Desktop Themes'] = 'Desktop-Themen';
 $Definition['Did You Know?'] = 'Schon gewusst?';
@@ -304,6 +314,8 @@ $Definition['Dismissable'] = 'Ausblendbar';
 $Definition['Display content from followed categories'] = 'Inhalte aus verfolgten Kategorien anzeigen';
 $Definition['Display in dashboard. (not recommended)'] = 'Im Dashboard anzeigen. (nicht empfohlen)';
 $Definition['Display Open Cases in Profile Page?'] = 'Offene Fälle auf Profilseite anzeigen?';
+$Definition['Display records from this subcommunity'] = 'Datensätze aus dieser Subcommunity anzeigen
+';
 $Definition['Display root categories as headings.'] = 'Überkategorien als Überschriften anzeigen.';
 $Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'Zeigt das Banner-Bild von der Branding-Page gut sichtbar innerhalb des gesamten Themes an.';
 $Definition['Display a searchbox on top of the banner image.'] = 'Ein Suchfeld über dem Banner-Bild anzeigen.';
@@ -317,7 +329,6 @@ $Definition['Download Locale List'] = 'Lokalisierungsliste herunterladen';
 $Definition['DownloadLocalePack'] = 'Herunterladen';
 $Definition['Download Locale Pack'] = 'Lokalisierungspaket herunterladen';
 
-
 $Definition['Edit/Delete Log'] = 'Log bearbeiten/löschen';
 $Definition['Edit Category'] = 'Kategorie bearbeiten';
 $Definition['Edit CSS'] = 'CSS bearbeiten';
@@ -327,6 +338,11 @@ $Definition['Edit Message'] = 'Nachricht bearbeiten';
 $Definition['Edit Role'] = 'Rolle bearbeiten';
 $Definition['Edit User'] = 'Nutzer bearbeiten';
 $Definition['Email Confirmation Role'] = 'Rolle für die ausstehende E-Mail-Bestätigung';
+$Definition['Email Digest'] = 'E-Mail-Digest';
+$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = 'Das E-Mail-Digest-Eingabeaufforderungs-Widget ist verfügbar, wenn der E-Mail-Digest aktiviert ist.';
+$Definition['Email Footer'] = 'E-Mail-Fußzeile';
+$Definition['Email Digest Logo'] = 'E-Mail-Digest-Logo
+';
 $Definition['Email Styles'] = 'Design von E-Mails';
 $Definition['Embed Comments'] = 'Kommentare einbetten';
 $Definition['Embedding'] = 'Einbettung';
@@ -356,11 +372,16 @@ $Definition['Enable Pocket Locations'] = 'Taschenpositionen aktivieren';
 $Definition['Enable Private Communities'] = 'Private Communitys aktivieren';
 $Definition['Enable Product Integration'] = 'Produktintegration aktivieren';
 $Definition['Enable Followup Notifications'] = 'Aktivieren Sie Follow-up-Benachrichtigungen';
+$Definition['Enable sending notification emails'] = 'Senden von Benachrichtigungs-E-Mails einschalten';
 $Definition['Enable Tagging'] = 'Tagging aktivieren';
 $Definition['Enable this message'] = 'Diese Nachricht aktivieren';
 $Definition['Enable to only show posts from categories a user follows.'] = 'Aktivieren Sie diese Option, um nur Beiträge aus Kategorien anzuzeigen, denen ein Benutzer folgt.';
 $Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'Aktivieren Sie diese Option, um eine Vorschau unseres neuen Dashboards zur Benutzerverwaltung mit verbesserter Suche und neuen Konfigurationsoptionen zu erhalten.';
 $Definition['Enabling a Locale Pack'] = 'Eine Lokalisierung aktivieren';
+$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = 'Durch die Aktivierung dieser Funktion wird die Sicherheitsrichtlinie für Inhalte so geändert, dass zusätzlichen Skripten vertraut wird, die als Abhängigkeiten von Ihren benutzerdefinierten Skripten eingefügt werden.';
+$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] =
+    'Durch die Aktivierung dieser Funktion wird die Content Security Policy (CSP) Ihrer Website so geändert, dass zugelassene Skripte in der aktuellen Liste der vertrauenswürdigen Domänen andere Skripte dynamisch laden können. Ihrer CSP wird eine „strict-dynamic“-Direktive hinzugefügt, die mehr Flexibilität bei der Integration von Inhalten Dritter bietet.
+';
 $Definition['Encourage your friends to join your new community!'] = 'Ermutige deine Freunde, deiner Community beizutreten!';
 $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'Gib eine durch Kommata separiere Indexliste eine, beginnend bei 1.';
 $Definition['Enter numbers starting at 1.'] = 'Gib Zahlen beginnend bei 1 ein.';
@@ -391,9 +412,12 @@ $Definition['Failure'] = 'Fehlgeschlagen';
 $Definition['Favicon'] = 'Favicon';
 $Definition['FaviconBrowse'] = 'Neues Favicon auswählen, wenn du es ändern möchtest:';
 $Definition['FaviconDescription'] = "Das Favicon deiner Seite erscheint in der Titelleiste deines Browsers. Es wird entsprechend verkleinert.";
+$Definition['Featured'] = "Hervorgehoben";
 $Definition['FileUpload is currently OFF'] = 'Die Funktion zum Hochladen von Dateien ist momentan AUS.';
 $Definition['FileUpload is currently ON'] = 'Die Funktion zum Hochladen von Dateien ist momentan AN.';
 $Definition['Filter'] = 'Filter';
+$Definition['Filter By'] = 'Filtern nach
+';
 $Definition['Filter Results'] = 'Filterergebnisse';
 $Definition['Finished'] = 'Beendet';
 $Definition['Fingerprint'] = 'Fingerabdruck';
@@ -411,6 +435,8 @@ $Definition['Footer'] = 'Fußzeile';
 $Definition['Forum Data'] = 'Forumsdaten';
 $Definition['Forum Settings'] = 'Forum';
 $Definition['Frequency'] = 'Häufigkeit';
+$Definition['From Email Address'] = 'Von-E-Mail-Adresse';
+$Definition['From Name'] = 'Von-Name';
 $Definition['Full post in email notifications'] = 'Vollständiger Beitrag in E-Mail-Benachrichtigungen';
 
 $Definition['Garden'] = 'Garten ';
@@ -450,7 +476,10 @@ $Definition['Hide signatures for guests'] = 'Signaturen für Gäste ausblenden';
 $Definition['Hide signatures on embedded comments'] = 'Signaturen in eingebetteten Kommentaren ausblenden';
 $Definition['Homepage'] = 'Homepage ';
 $Definition['Homepage Title'] = 'Homepage Titel';
+$Definition['How the content is going to be filtered.'] = 'Nach welchen Kriterien der Inhalt gefiltert werden soll.
+';
 $Definition['How to use themes'] = 'Wie benutzt man Themen';
+$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = 'Dies bringt jedoch eine größere Verantwortung für die Sicherheit Ihrer Website mit sich.';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'HTML-E-Mails';
 $Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'HTTP Strenge Transportsicherheit (HSTS) Einstellungen';
@@ -459,18 +488,26 @@ $Definition['Hot (score + activity)'] = 'Heiß (Punktzahl + Aktivität)';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Wenn aktiviert, wird der gesamte Inhalt der Beiträge in E-Mail-Nachrichten an die Nutzer gesendet.
 
 ';
+$Definition['If left empty, Email Logo is used.'] = 'Wenn es leer bleibt, wird das E-Mail-Logo verwendet.
+';
 $Definition['Inbox Page'] = 'Posteingangsseite';
 $Definition['Include Child Categories'] = 'Untergeordnete Kategorien einschließen';
 $Definition['Include full post in email notifications'] = 'Volle Posts in E-Mail-Benachrichtigungen einbeziehen';
+$Definition['Include Featured Images'] = 'Fügen Sie ausgewählte Bilder hinzu';
+$Definition['Include featured images with posts in email digest'] = 'Bilder mit Beiträgen in den E-Mail-Digest einfügen';
 $Definition['Include internal profile fields'] = 'Interne Profilfelder einschließen';
 $Definition['Include private profile fields'] = 'Schließen Sie private Profilfelder ein';
 $Definition['Include Subcategories'] = 'Unterkategorieren einbeziehen';
 $Definition['Include Subdomains'] = 'Subdomains einbinden';
+$Definition['Increased Security Risks:'] = 'Erhöhte Sicherheitsrisiken:
+';
 $Definition['Indexes'] = 'Indizes';
 $Definition['Information'] = 'Informationen';
 $Definition['Install Vanilla without a .htaccess file.'] = 'Vanilla ohne .htaccess-Datei installieren.';
 $Definition['Integrate Banner Image'] = 'Banner-Bild einfügen';
 $Definition['Internaltionalization & Localization'] = 'Internationalisierung & Lokalisierung';
+$Definition['Introduction'] = 'Einleitung
+';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'Vorstellung der Vanilla Reaktionen und Badges';
 $Definition['Invalid category for deletion.'] = 'Ungültige Kategorie zur Löschung.';
 $Definition['Invalid entry.'] = 'Ungültiger Eintrag.';
@@ -507,6 +544,8 @@ $Definition['Layout'] = 'Layout';
 $Definition['Learn more'] = 'Erfahren Sie mehr';
 $Definition['Learn more about HSTS at %s.'] = 'Erfahren Sie mehr über HSTS unter %s.';
 $Definition['Level'] = 'Level ';
+$Definition['Limits: 60 characters, no breaks.'] = 'Beschränkungen: 60 Zeichen, keine Zeilenumbrüche.
+';
 $Definition['Link Color'] = 'Linkfarbe';
 $Definition['Likes'] = 'Likes ';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'Begrenze das Pocket auf eine oder mehr Rollen oder Berechtigungen.';
@@ -546,6 +585,7 @@ $Definition['Max height of %s in pixels'] = 'Minimale höhe von %s in Pixeln';
 $Definition['Maximum Category Display Depth'] = 'Maximale Kategoriedisplaytiefe';
 $Definition['Max number of %s'] = 'Maximale Anzahl an %s';
 $Definition['Max number of images in signature'] = 'Max. Anzahl an Bildern in der Unterschrift';
+$Definition['Maximum number of posts to be included in the email digest.'] = 'Maximale Anzahl von Beiträgen, die in den E-Mail-Digest aufgenommen werden sollen.';
 $Definition['Max Post Length'] = 'Max. Postlänge';
 $Definition['Max signature length'] = 'Max. Unterschriftslänge';
 $Definition['member'] = 'Mitglied';
@@ -554,6 +594,8 @@ $Definition['Membership'] = 'Mitgliedschaft';
 $Definition['Message'] = 'Nachricht';
 $Definition['Message ID'] = 'Nachrichten ID';
 $Definition['Messages'] = 'Nachrichten';
+$Definition['Meta Options'] = 'Meta-Optionen
+';
 $Definition['Method'] = 'Methode';
 $Definition['Min Post Length'] = 'Min. Postlänge';
 $Definition['minute(s)'] = 'Minute(n)';
@@ -603,15 +645,18 @@ $Definition['NotifyApplicant'] = 'Benachrichtige mich, wenn sich jemand um eine 
 $Definition['Notify me when people comment on a discussion.'] = 'Benachrichtige mich, wenn jemand eine Diskussion kommentiert.';
 $Definition['Notify me when people start new discussions.'] = 'Benachrichtige mich, wenn jemand eine neue Diskussion beginnt.';
 $Definition['Not Spam'] = 'Kein Spam';
-$Definition['Number input must be between 1 and 100.'] = 'Die eingegebene Zahl muss zwischen 1 und 100 liegen.';
 $Definition['Number of %s listed per page.'] = 'Anzahl der pro Seite aufgelisteten %s.';
 $Definition['Number of blocked registrations'] = 'Anzahl der blockierten Registrierungen';
 $Definition['Number of days before a follow-up email is automatically sent.'] = 'Anzahl der Tage, bevor eine Folge-E-Mail automatisch gesendet wird.';
 $Definition['Number input must be between 1 and 100.'] = 'Die eingegebene Zahl muss zwischen 1 und 100 liegen.';
+$Definition['Number of posts'] = 'Anzahl der Beiträge
+';
 
 $Definition['On'] = 'An';
 $Definition['Only Allow Each User To Post'] = 'Erlaube Nutzern das Erstellen von';
 $Definition['Only display on mobile browsers.'] = 'Nur in mobilen Browsern anzeigen.';
+$Definition['Only Show Followed Categories'] = 'Nur verfolgte Kategorien anzeigen
+';
 $Definition['Only visible to users with roles with permission.'] = 'Nur sichtbar für Benutzer mit autorisierten Berechtigungen.';
 $Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'Offene Kundenvorgänge werden nur angezeigt, wenn der Benutzer über eine gültige Salesforce-Verbindung verfügt.';
 $Definition['Operation By'] = 'Von';
@@ -624,6 +669,7 @@ $Definition['Or Spamblock For'] = 'oder blocke für';
 $Definition['Other Themes'] = 'Andere Themes';
 $Definition['Other Tutorials'] = 'Andere Tutorials';
 $Definition['Outgoing Email'] = 'Ausgehende E-Mail';
+$Definition['Outgoing Emails'] = 'Ausgehende Emails';
 $Definition['Outgoing Email Address'] = 'Ausgehende E-Mail-Adresse';
 
 $Definition['Page Color'] = 'Seitenfarbe';
@@ -649,6 +695,8 @@ $Definition['Pocket'] = 'Pocket ';
 $Definition['Pockets'] = 'Pockets ';
 $Definition['Points'] = 'Punkte';
 $Definition['Polls'] = 'Umfragen';
+$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'Mögliche Kompatibilitätsprobleme mit älteren Browsern, die die Benutzerfreundlichkeit beeinträchtigen.
+';
 $Definition['Post External Links'] = 'Externe Links posten';
 $Definition['Posting Settings'] = 'Posting-Einstellungen';
 $Definition['Preload'] = 'Vorladen';
@@ -723,14 +771,16 @@ $Definition['RSVP'] = 'Um Antwort wird gebeten';
 
 $Definition['Save Captured Definitions'] = 'Erhaltene Definitionen speichern';
 $Definition['Save Colors'] = 'Farben speichern';
+$Definition['Score Count'] = 'Punktzahl';
 $Definition['Search by user or role.'] = 'Suche nach Benutzern mit Hilfe des Namens oder der Email Adresse, dabei kannst du % als Platzhalter verwenden. Außerdem kannst du nach User ID, Rollenbezeichnung oder auch dem “banned” Status filtern.';
 $Definition['Search results of members'] = 'Suchergebnisse von Mitgliedern';
 $Definition['SearchScope.Everywhere'] = 'Überall';
 $Definition['seconds'] = 'Sekunden';
 $Definition['Security'] = 'Sicherheit';
 $Definition['See also'] = 'Siehe auch';
+$Definition['See link'] = 'Siehe Link
+';
 $Definition['Select'] = 'Wähle';
-$Definition['Selection will affect the item options available.'] = 'Die Auswahl wirkt sich auf die verfügbaren Elementoptionen aus.';
 $Definition['Select the location of the pocket.'] = 'Wähle den Ort des Pockets.';
 $Definition['Select which columns are displayed on the manage users page list.'] = 'Wählen Sie die Spalten aus, die in der Liste auf der Seite \'Benutzer verwalten\' angezeigt werden.';
 $Definition['Selection will affect the item options available.'] = 'Die Auswahl wirkt sich auf die verfügbaren Elementoptionen aus.';
@@ -768,12 +818,19 @@ $Definition['SSO Role'] = 'SSO-Rolle';
 $Definition['SSO roles are always passed through SSO.'] = 'SSO-Rollen werden immer über SSO übergeben.';
 $Definition['Start Discussions'] = 'Diskussionen starten';
 $Definition['Start Private Conversations'] = 'Privates Gespräch beginnen';
+$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'Beginnen Sie die Digest-Betreffzeile mit dem unter „Darstellung“ > „Branding & SEO“ festgelegten [Bannertitel].';
 $Definition['State'] = 'Staat';
 $Definition['Statistics'] = 'Statistiken';
 $Definition['Strip Embeds'] = 'Streifen-Einbettungen';
 $Definition['Strip Embeds'] = 'Streifen-Einbettungen';
 $Definition["Style"] = "Stil";
 $Definition['Styles'] = 'Stile';
+$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'Der Stil und das allgemeine Erscheinungsbild aller E-Mails, einschließlich des E-Mail-Digest, werden auf der Seite „E-Mail-Einstellungen“ für die gesamte Website festgelegt.
+';
+$Definition['Subcommunity'] = 'Subcommunity 
+';
+$Definition['Subject Line and Title'] = 'Betreffzeile und Titel
+';
 
 $Definition['Table Layout'] = 'Tabellenlayout';
 $Definition['take away'] = 'entziehen';
@@ -781,6 +838,7 @@ $Definition['Technical'] = 'Technisch';
 $Definition['Templates'] = 'Vorlagen';
 $Definition['Temporary (302)'] = 'Temporär (302)';
 $Definition['Test Email'] = 'Test-E-Mail';
+$Definition['Test Digest'] = 'Test-Digest';
 $Definition['Test email from %s'] = 'Test-E-Mail von %s';
 $Definition['Test Email Message'] = '<p>Dies ist eine Test-E-Mail.</p>
 
@@ -802,6 +860,8 @@ $Definition['The default banner image across the site. This can be overridden on
 $Definition['The default role has not been configured.'] = 'Die Standard Rolle wurde noch nicht konfiguriert.';
 $Definition['The email address this test will be sent to.'] = 'Die E-Mail-Adresse, an die dieser Test gesendet wird.';
 $Definition['The email has been sent.'] = 'E-Mail wurde gesendet.';
+$Definition['The first line of content in the email digest after the title.'] = 'Die erste Zeile des Inhalts im E-Mail-Digest nach dem Titel.
+';
 $Definition['The homepage title is displayed on your home page.'] = 'Der Homepagetitel wird auf deiner Homepage angezeigt. Wähle einen Titel, den du in Suchmaschinen wiederfinden möchtest.';
 $Definition['The homepage was saved successfully.'] = 'Die Homepage wurde erfolgreich gespeichert.';
 $Definition['The invitation was removed successfully.'] = 'Die Einladung wurde erfolgreich entfernt.';
@@ -842,6 +902,8 @@ $Definition['The user content will remain untouched.'] = 'Die Benutzerinhalte we
 $Definition['The user has been created successfully'] = 'Der Benutzer wurde erfolgreich angelegt';
 $Definition['The user has been deleted.'] = 'Der Nutzerkonto wurde gelöscht.';
 $Definition['This action cannot be undone.'] = 'Diese Aktion kann nicht rückgängig gemacht werden.';
+$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'Dies ist für die meisten Websites nicht notwendig, außer für diejenigen, die Funktionen wie AdSense und Google-Tag-Manager verwenden.
+';
 $Definition['This category has custom permissions.'] = 'Gesonderte Rechte-Einstellungen für diese Kategorie.';
 $Definition['This category is archived.'] = 'Diese Kategorie wurde archiviert.';
 $Definition['This connection is in test-mode.'] = 'Diese Verbindung ist im Test-Modus.';
@@ -852,6 +914,8 @@ $Definition['This image will be used in category lists and widgets when using th
 $Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'Dieses Bild wird im Banner dieser Kategorie und in den Kategorie-Widgets erscheinen, wenn Sie die „Bild“- und/oder „Hintergrund“-Stiloptionen verwenden. Es wird eine Größe von ca. 1000 x 400 px oder ein ähnliches Verhältnis empfohlen.';
 $Definition['This is a parent category that does not allow discussions.'] = 'Dies ist eine übergeordnete Kategorie, in der keine Diskussionen erstellt werden können.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'Dies ist dein erster Besuch des Forums.';
+$Definition['This may be used to include content such as organization name and address in the email digest.'] = 'Dies kann verwendet werden, um Inhalte wie den Namen und die Adresse des Unternehmens in den E-Mail-Digest aufzunehmen.
+';
 $Definition['This page requires Javascript.'] = 'Diese Seite erfordert Javascript.';
 $Definition['This pocket is an ad.'] = 'Dieses Pocket ist eine Werbung.';
 $Definition['This theme cannot be deleted because it is the currently applied theme'] = 'Dieses Motiv kann nicht gelöscht werden, da es das derzeitig angewendete Motiv ist.';
@@ -880,8 +944,7 @@ $Definition['Universal Forum Embed Code'] = 'Universeller Code zum Einbetten des
 $Definition['Unlimited'] = 'Unbeschränkt';
 $Definition['Up to a maximum of 100 items may be displayed.'] = 'Es können bis zu 100 Elemente angezeigt werden.';
 $Definition['Upload New Email Logo'] = 'Neues E-Mail-Logo hochladen';
-$Definition['Upload Placeholder Image'] = 'Platzhalter-Bild hochladen';
-$Definition['Up to a maximum of 100 items may be displayed.'] = 'Es können bis zu 100 Elemente angezeigt werden.';
+$Definition['Upcoming Events'] = 'Anstehende Veranstaltungen';
 $Definition['Use an SMTP server to send email'] = 'Nutze SMTP zum Versenden von E-Mail';
 $Definition['Use asterisks for wildcards'] = 'Verwenden Sie Sternchen als Stellvertretersymbol, z.B. "*@gmail.com"';
 $Definition['Use Categories'] = 'Kategorien benutzen';
@@ -911,6 +974,7 @@ $Definition['UserWipe'] = 'Leere Benutzerinhalte';
 $Definition['UserWipeMessage'] = 'Entferne den Benutzer und ersetze jeglichen von ihm erstellten Inhalt mit einer Nachricht, dass der Benutzer gelöscht wurde. Dies gibt den Besuchern einen Hinweis, dass Inhalt in Diskussionen fehlt.';
 $Definition['Use the content at this url as your homepage.'] = 'Die "homepage" ist, was Besuchern angezeigt wird, wenn sie <strong>%s</strong> aufrufen. Die Standardeinstellung ist "Alle Diskussionen" aber du kannst nutzen, was du möchtest. Hier sind einige beliebte Optionen:';
 $Definition['Use Vanilla as a commenting system in your site'] = 'Benutze Vanilla als Kommentarsystem auf deiner Seite';
+$Definition['Use weekly community email digest'] = 'Wöchentlichen E-Mail-Digest für die Community verwenden';
 $Definition['Untitled'] = 'Titellos';
 
 $Definition['Value or Pattern'] = 'Wert oder Muster';
@@ -922,6 +986,8 @@ $Definition['Version'] = 'Version ';
 $Definition['Version %s'] = 'Version %s ';
 $Definition['version %s'] = 'Version %s';
 $Definition['Version %s Installer'] = 'Version %s Installationsprogramm';
+$Definition['View browser compatibility chart'] = 'Browser-Kompatibilitätstabelle anzeigen';
+$Definition['View Count'] = 'Anzahl anzeigen';
 $Definition['View Page'] = 'Seite anzeigen';
 $Definition['Visit Site'] = 'Seite anzeigen';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Benutzer warnen, wenn ein Link in einem Beitrag dazu führt, dass sie das Forum verlassen';

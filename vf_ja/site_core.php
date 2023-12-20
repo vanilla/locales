@@ -35,6 +35,8 @@ $Definition['%s Comments'] = '%s件のコメント';
 $Definition['%s comments'] = '%s件のコメント';
 $Definition['<0/> comments'] = '<0 />コメント';
 $Definition['<0/> discussions'] = '<0/> のディスカッション';
+$Definition['<0/> followers'] = '<0/>フォロワー';
+$Definition['<0/> posts'] = '<0/>投稿';
 $Definition['%s comments html'] = '%s件のコメント';
 $Definition['%s Connect'] = '%s接続';
 $Definition['%s day'] = '%s日';
@@ -188,6 +190,7 @@ $Definition['Add a Profile Picture'] = 'プロフィール写真を追加';
 $Definition['Add a time?'] = '時間を追加しますか?';
 $Definition['Add a Warning'] = '警告を追加';
 $Definition['Add Badge'] = 'バッジを追加';
+$Definition['Add Call To Action Button'] = '［行動喚起］ボタンを追加する';
 $Definition['Add Comment'] = 'コメントする';
 $Definition['Add Cost'] = 'コストを追加する';
 $Definition['Add Image'] = '画像を追加';
@@ -220,14 +223,19 @@ $Definition['All Bookmarks'] = '全てのブックマーク';
 $Definition['All Badges'] = '全てのバッジ';
 $Definition['All Categories'] = 'すべてのカテゴリ';
 $Definition['all categories'] = '全てのカテゴリー';
+$Definition['All Category Pages'] = 'すべてのカテゴリページ';
 $Definition['All Content'] = 'すべてのコンテンツ';
 $Definition['All Conversations'] = 'すべての会話';
 $Definition['All Discussions'] = 'すべてのディスカッション';
+$Definition['All Discussion Categories Page'] = 'すべてのディスカッションカテゴリページ';
+$Definition['All Discussion Category Pages'] = 'すべてのディスカッションカテゴリページ';
 $Definition['All discussions marked as viewed.'] = '全てのディスカッションを既読に。';
 $Definition['All Events'] = '全イベント';
 $Definition['All Members'] = '全てのメンバー';
 $Definition['All Messages'] = '全てのメッセージ';
 $Definition['All members'] = 'メンバー全員';
+$Definition['All Nested Categories Page'] = 'すべてのネストされたカテゴリページ';
+$Definition['All Nested Category Pages'] = 'すべてのネストされたカテゴリページ';
 $Definition['All Notifications'] = '全てのお知らせ';
 $Definition['All Statuses'] = '全てのステータス';
 $Definition['Allow'] = '許可';
@@ -238,7 +246,7 @@ $Definition['Already Warned'] = '通知済みです';
 $Definition['Also banned for the following:'] = '追加的に、以下の理由によりアクセス制限されています:';
 $Definition['Also delete this user\'s content.'] = 'このユーザーのコンテンツも削除します。';
 $Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = '代替テキストは、アクセシビリティの問題を抱えているユーザーを助け、SEO を改善します。';
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'パスワードのリセット方法を案内するメッセージを、あなたのメールアドレス宛てに送信しました。';
+$Definition['A message has been sent to your email address with password reset instructions.'] = 'この電子メールに関連するアカウントがある場合は、パスワードリセットリンクを送信しました。';
 $Definition['Analytics'] = 'アナリティクス';
 $Definition['Ancient Membership'] = '旧メンバーシップ';
 $Definition['An invitation has already been sent to the email you entered.'] = '入力されたメールアドレスには、すでに招待状を送信済みです。';
@@ -260,6 +268,13 @@ $Definition['Appearance'] = '外観';
 $Definition['Applicant'] = '申請者';
 $Definition['Applicants'] = '申請者';
 $Definition['Applicants & Invitations'] = '申請者&招待';
+$Definition['Applied on '] = '適用されます';
+$Definition['Applied on categories page'] = 'カテゴリページに適用されます';
+$Definition['Applied on discussion categories page'] = 'ディスカッションカテゴリページに適用されます';
+$Definition['Applied on homepage'] = 'ホームページに適用されます';
+$Definition['Applied on nested categories page'] = 'ネストされたカテゴリページに適用されます';
+$Definition['Applied on recent discussions page'] = '最近のディスカッションページに適用されます';
+$Definition['Applied on Subcommunity homepage'] = 'サブコミュニティのホームページに適用されます';
 $Definition['Apply'] = '適用';
 $Definition['Apply Changes'] = '変更を適用';
 $Definition['Apply for Membership'] = 'アカウントを作成する';
@@ -271,6 +286,7 @@ $Definition['Are you ABSOLUTELY sure you want to take this action?'] = '本当�
 $Definition['Are you attending this event?'] = 'このイベントに参加しますか?';
 $Definition["Are you sure you want to delete this image? You won't be able to recover it."] = "この画像を削除してもよろしいですか？ 普及することはできなくなります。";
 $Definition['Are you sure you want to delete this %s?'] = '本当にこの %sを実行していいですか？';
+$Definition['Are you sure you want to delete this discussion?'] = 'このディスカッションを削除してもよろしいですか？';
 $Definition['Are you sure you want to do that?'] = '本当に実行してよいですか？';
 $Definition['Are you sure you want to do this?'] = '本当に実行していいですか？';
 $Definition['Are you sure you want to ignore <b>%s</b>?'] = '本当に<b>%s </b>を無視してよろしいですか？';
@@ -291,6 +307,7 @@ $Definition['Attach this warning to the %s.'] = 'この警告を%sに添付す�
 $Definition['AttemptingSignOut'] = 'あなたはサインアウトしようとしています。本当に %sしますか?';
 $Definition['Attending'] = '参加';
 $Definition['Attending (%s)'] = '参加 (%s)';
+$Definition['Attention: You are leaving'] = '注意： あなたは離れようとしています';
 $Definition['Authenticate URL'] = 'URLを認証';
 $Definition['Authentication'] = '認証';
 $Definition['Author'] = '作成者';
@@ -308,7 +325,6 @@ $Definition['BadgesModuleTitle'] = 'バッジ';
 $Definition['BadgesNobody'] = 'まだ誰もこのバッジを獲得していません。';
 $Definition['BadgeReasonPrompt'] = 'あなたはこのバッジにふさわしいと思いますか？その理由をお聞かせください。';
 $Definition['Badge is not available.'] = 'バッジは利用できません。';
-$Definition['Bad login, double-check your credentials and try again.'] = 'ログインに失敗しました。資格情報を再確認して、もう一度試してください。';
 $Definition['Ban'] = '禁止';
 $Definition['Ban.Action'] = '禁止';
 $Definition['Banned'] = '利用禁止';
@@ -355,6 +371,8 @@ $Definition['by Date'] = '日付による';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'ファイルのアップロードによって、あなたが画像の配布権利者であり、利用規約に違反しないことを保証するものとします。';
 $Definition["Byte"] = "バイト";
 
+$Definition['Call To Action Button Label'] = '［行動喚起］ボタンのラベル';
+$Definition['Call To Action Button URL'] = '［行動喚起］ボタンの URL';
 $Definition['Can\'t post as often.'] = 'あまり頻繁に投稿することはできません。';
 $Definition['Can\'t post discussions.'] = '議論を投稿できません。';
 $Definition['Cancel'] = 'キャンセル';
@@ -371,6 +389,7 @@ $Definition['Category'] = 'カテゴリ';
 $Definition['Category does not exist.'] = 'カテゴリーは存在しません。';
 $Definition['Category Filter'] = 'カテゴリー･フィルター';
 $Definition['CategoryID'] = 'カテゴリ';
+
 $Definition['Category List'] = 'カテゴリーリスト';
 $Definition['Category Management'] = 'カテゴリ管理';
 $Definition['Category marked as viewed.'] = '既読のカテゴリー';
@@ -387,6 +406,7 @@ $Definition['Change My Picture'] = 'プロフィール画像を変更';
 $Definition['Change Password'] = 'パスワードを変更';
 $Definition['Change Type'] = 'タイプの変更';
 $Definition['Change Picture'] = '写真を変更する';
+$Definition['Character limit:'] = '文字数制限：';
 $Definition['Check all roles that apply to this user:'] = 'このユーザーに適用するロールにすべてチェックを入れてください:';
 $Definition['Check Analytics Data'] = '分析データを確認';
 $Definition['Check it out'] = '要チェック';
@@ -473,6 +493,7 @@ $Definition['Create New Collections'] = '新しいコレクションを作成す
 $Definition['Create New Discussion'] = '新しいディスカッションを作成';
 $Definition['Created on %s'] = '%sに制作';
 $Definition['Create One.'] = '今すぐ作成';
+$Definition['CtaTooltip'] = 'カスタム CTA を追加して、外部ランディングページ、登録フォーム、関連するディスカッションなどの重要なアクションや情報にすばやくアクセスできるようにします。';
 $Definition['Current'] = '現在';
 $Definition['Current Username'] = '現在のユーザー名';
 $Definition['Currently: '] = '現在：';
@@ -529,6 +550,7 @@ $Definition['Deleting...'] = '削除中...';
 $Definition['Deny'] = '否定する';
 $Definition['Denied'] = '拒否されました';
 $Definition['Deny Applicant'] = '否定する';
+$Definition['Describe your event.'] = 'イベントについて説明してください。';
 $Definition['Description'] = '説明';
 $Definition['Did this answer the question?'] = 'これは問題解決のお役に立ちましたか？';
 $Definition['Disable'] = '無効化';
@@ -537,6 +559,7 @@ $Definition['Disagree'] = '同意しません';
 $Definition['Discussion'] = 'ディスカッション';
 $Definition['discussion'] = 'ディスカッション';
 $Definition['Discussion Board'] = 'ディスカッション・ボード';
+$Definition['Discussion Categories'] = 'ディスカッションカテゴリ';
 $Definition['Discussions'] = 'ディスカッション';
 $Definition['discussions'] = 'ディスカッション';
 $Definition['Discussions and Comments'] = '議論とコメント';
@@ -549,6 +572,7 @@ $Definition['Discussion Type'] = 'ディスカッション';
 $Definition['Dislike'] = '嫌い';
 $Definition['Dismiss'] = '却下する';
 $Definition['Dismissible'] = '却下可能';
+$Definition['Display Event Organizer Name'] = 'イベント主催者名を表示する';
 $Definition['Display my profile publicly'] = '自分のプロフィールを公開する';
 $Definition['Display my email publicly'] = '自分の電子メールを公開する';
 $Definition['Documentation'] = '文書';
@@ -569,6 +593,7 @@ $Definition['Draft.Delete'] = '削除';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'サムネイルアイコンを定義するには下の四角をドラッグして点線で囲み、リサイズしてください。';
 $Definition['Drop image/file'] = '画像/ファイルをドロップする';
 $Definition['Don\'t have an account? Click here to get started!'] = 'アカウントがありませんか？ここをクリックして始めましょう！';
+$Definition['Duration'] = '継続時間';
 
 $Definition['Earned'] = '稼いだ';
 $Definition['Edit'] = '編集';
@@ -666,6 +691,8 @@ $Definition['Emoji Picker'] = '絵文字ピッカー';
 $Definition['Emoji Categories'] = '絵文字カテゴリー';
 $Definition['Enable'] = '有効化';
 $Definition['Enabled'] = '有効';
+$Definition['End Date'] = '終了日';
+$Definition['End Time'] = '終了時間';
 $Definition['End time?'] = '終了時間?';
 $Definition['English'] = '英語';
 $Definition['Enter your Email address'] = 'メールアドレスを入力';
@@ -814,6 +841,7 @@ $Definition["Heading 3"] = "見出し3";
 $Definition["Heading 4"] = "見出し4";
 $Definition["Heading 5"] = "見出し5";
 $Definition['Heading %s'] = '表題%s';
+$Definition['Heading categories cannot be viewed directly.'] = '見出しカテゴリを直接表示することはできません。';
 $Definition['HeadlineFormat.AcceptAnswer'] = '{ActivityUserID,You} 受理されました {NotifyUserID,your} 答えました';
 $Definition['HeadlineFormat.Answer'] = '{ActivityUserID,user}があなたの質問に回答しました: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID, user}が<a href="{Url,html}">{Data.Name,text}</a>バッジを獲得しました。';
@@ -878,6 +906,9 @@ $Definition['Idea Status'] = 'アイデアのステータス';
 $Definition['Idea Statuses'] = 'アイデアのステータス';
 $Definition['Ideation'] = 'アイデアを出す';
 $Definition['Ideation Type'] = 'アイデア';
+$Definition['If location text is added, it will link to the text above.'] = 'ロケーションテキストが追加された場合、上のテキストにリンクします。';
+$Definition['If there\'s an account associated with this email, we\'ve sent a password reset link.'] = 'この電子メールに関連するアカウントがある場合は、パスワードリセットリンクを送信しました。';
+$Definition['If the issue continues, try using the Forgot Password option.'] = '問題が解決しない場合は、［パスワードをお忘れですか］オプションを使用してみてください。';
 $Definition['Ignore'] = '拒否する';
 $Definition['Ignore List'] = '拒否リスト';
 $Definition['IgnoreListMeter'] = '無視リストは<b>%s%%</b>フルです（<b>%d/%d</b>）。';
@@ -919,6 +950,7 @@ $Definition['Insert an embedded web page, or video into your message'] = 'メッ
 $Definition['Insert an emoji in your message.'] = 'メッセージに絵文字を挿入して下さい。';
 $Definition['Insert Media'] = 'メディアを挿入';
 $Definition['Insightful'] = 'ためになる';
+$Definition['Interested'] = '興味あり';
 $Definition['Internal'] = '内部';
 $Definition['In this Conversation'] = 'この会話の参加者';
 $Definition['Invalid CSRF token.'] = '無効なCSRFトークンです。再度お試しください。';
@@ -1000,6 +1032,7 @@ $Definition["List Unordered"] = "非順序リスト";
 $Definition["Loading"] = "ロード中";
 $Definition["Loading Modal"] = "ローディングモーダル";
 $Definition['Locale'] = '地域';
+$Definition['Location URL'] = 'ロケーション URL';
 $Definition['Log'] = 'ログ';
 $Definition['log'] = 'ログ';
 $Definition['Login with Facebook'] = 'Facebook アカウントでログイン';
@@ -1135,6 +1168,7 @@ $Definition['Name the Group'] = 'グループに名前をつける';
 $Definition['Name Unavailable'] = '使用できない名前';
 $Definition["Navigation"] = "ナビゲーション";
 $Definition['Needs Confirmation'] = '確認が必要です';
+$Definition['Nested Categories'] = 'ネストされたカテゴリ';
 $Definition['new'] = '新着';
 $Definition['New'] = '新しい';
 $Definition['New %s'] = '新規%s';
@@ -1189,6 +1223,7 @@ $Definition['Notes description'] = 'モデレーターのみに表示される�
 $Definition['Not Going'] = '進行中ではない';
 $Definition['Not Found (404)'] = '見つかりません (404)';
 $Definition['Notice'] = '通知する';
+$Definition['Not Interested'] = '興味なし';
 $Definition['No Title'] = 'タイトルなし';
 $Definition['Notification'] = '通知';
 $Definition['Notification Preferences'] = '通知設定';
@@ -1343,6 +1378,8 @@ $Definition['Pinned'] = '表示を固定しました';
 $Definition['Places'] = '場所';
 $Definition["Play Video"] = "動画を再生";
 $Definition['Play the sound again'] = 'もう一度音声を再生する';
+$Definition['Please check your email inbox.'] = '電子メールの受信トレイをチェックしてください。';
+$Definition['Please double-check and retry.'] = 'ダブルチェックして再試行してください。';
 $Definition['Please join my group.'] = '<a href="{Url,html}">グループ</a>に是非ご参加下さい。';
 $Definition['Please join my group: %s'] = '	私のグループに参加してください：%s';
 $Definition['Please wait while you are redirected. If you are not redirected, click <a href="%s">here</a>.'] = '出力先が変更されるまでお待ち下さい。もし、出力先が変更されない時には、<a href="%s">こちら</a>をクリックして下さい。';
@@ -1691,6 +1728,8 @@ $Definition['Start a Group'] = 'グループを開始';
 $Definition['Start a New Conversation'] = '新しい会話を開始';
 $Definition['Start a New Discussion'] = 'ディスカッションを開始';
 $Definition['Start Conversation'] = '会話を開始する';
+$Definition['Start Date'] = '開始日';
+$Definition['Start Time'] = '開始時間';
 $Definition['Started By'] = '～さんにより開始されました';
 $Definition['Started by'] = '始めた人';
 $Definition['Started by %1$s'] = '開始ユーザー %1$s';
@@ -1705,6 +1744,7 @@ $Definition['Stop following'] = 'フォローをやめる';
 $Definition['Strikethrough'] = '取り消し線';
 $Definition['Strip images out of signatures'] = '署名から画像を取り除く';
 $Definition['Strip images out of signatures?'] = '署名から画像を除去しますか。';
+$Definition['Subcommunity Home'] = 'サブコミュニティホーム';
 $Definition['Subject'] = 'タイトル';
 $Definition['Subscriber'] = 'Subscriber';
 $Definition['Success'] = 'Success';
@@ -1739,19 +1779,19 @@ $Definition['TermsOfServiceText'] = '
    嫌がらせ、わいせつ表現、冒涜表現、性的表現、脅迫、プライバシーの侵害、
    あるいは違法な内容は投稿できません。あなた自身が著作権者である場合を除き、
    著作権によって保護された内容は投稿できません。</p>
-
+   
    <p>本コミュニティはまた、あなたの投稿によって法律問題や訴訟が発生した場合、
    個人情報 (あるいは何であれ知り得た情報) を提供する権利を有するものとします。
    本ウェブサイトへのアクセスは、いかなるインターネットプロトコルによるもので
    あれ、記録されます。</p>
-
+   
    <p>広告、チェーンレター、マルチ商法、セールスの勧誘は、本コミュニティにおいて
    不適切な行為とみなされます。</p>
-
+   
    <p>本コミュニティは、理由のいかんに関わらず いかなるコンテンツをも削除する
    権利を有するものとします。また理由のいかんに関わらず いかなる会員資格をも
    停止する権利を有するものとします。</p>
-
+   
    <p>このサービスを利用するには、13 歳以上である必要があります。</p>
 ';
 $Definition['Test'] = 'Test';
@@ -1773,6 +1813,7 @@ $Definition['The CSRF token is invalid.'] = 'クロスサイトリクエスト�
 $Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week. <a href="{url,html}">Manage Followed Categories</a>.'] = '電子メールダイジェストでは、週に1回、あなたがフォローしているカテゴリからその週のトップコンテンツが電子メールの受信箱に配信されます。 <a href="{url,html}">フォロー済みカテゴリを管理</a>。';
 $Definition['The email you entered is in use by another member.'] = 'あなたが入力したメールはほかのメンバーが使用しています。';
 $Definition['The email you have entered is already related to an existing account.'] = '入力されたメールアドレスは、既存のアカウントで使用済みです。';
+$Definition['The event will be created in your current local time zone'] = 'イベントはあなたの現在のローカルタイムゾーンで作成されます。';
 $Definition['The file failed to upload.'] = 'ファイルのアップロードに失敗しました。';
 $Definition['their'] = 'それらの';
 $Definition['The name you entered is already in use by another member.'] = 'あなたが入力した名前はすでに別のメンバーが使用しています。';
@@ -1792,6 +1833,7 @@ $Definition['There was an error uploading the file. It is most likely because th
 $Definition['These notes can only be seen by moderators.'] = 'これらのメモは、モデレーターのみが閲覧することができます。';
 $Definition['The password is too weak.'] = 'パスワードが弱すぎます。';
 $Definition['These tags are reserved and cannot be used: %s'] = 'これらのタグは予約されており、使用できません: %s';
+$Definition['The location URL will display as a link.'] = 'ロケーション URL はリンクとして表示されます。';
 $Definition['The site is currently undergoing maintenance.'] = 'このサイトは現在メンテナンス中です。';
 $Definition['The status for "%s" has changed to %s.'] = '"%s"のステータスが%sに変更';
 $Definition['The uploaded file was too big (max %s).'] = 'アップロードされたファイルは大きすぎます(最大%sまで)。';
@@ -1825,6 +1867,7 @@ $Definition["This is the language your email notifications and digest will appea
 $Definition['This text has been converted from another format.'] = 'このテキストは別の書式から変換されたものです。 ';
 $Definition['This Month\'s Leaders'] = '今月のリーダー';
 $Definition['This must match the new password field'] = 'これは新しいパスワード欄と一致する必要があります';
+$Definition['This text will display as the location.'] = 'このテキストはロケーションとして表示されます。';
 $Definition['This setting loads the page before executing Javascript which can improve your SEO.<br><strong>**Warning: Enabling this feature may cause Javascript errors on your site.**</strong>'] = 'この設定は、SEOを改善できるJavascriptを実行する前にページをロードします。<br> <strong> **警告：この機能を有効にすると、サイトでJavascriptエラーが発生する可能性があります。** </strong>';
 $Definition['This question\'s answer has been accepted.'] = 'この質問の答えが受け入れられました。';
 $Definition['A followup email was already sent.'] = 'フォローアップメールは既に送信されています。';
@@ -1906,6 +1949,7 @@ $Definition['Unordered list'] = '順序なしリスト';
 $Definition['Unpin'] = 'ピンを外す';
 $Definition['Unread'] = '未読';
 $Definition['Unread Discussions'] = '未読のディスカッション';
+$Definition['Unregistered'] = '未登録';
 $Definition['Unsink'] = '投稿順位を上げる';
 $Definition['Unspecified'] = '不特定';
 $Definition['Upcoming Events'] = '今後のイベント';
@@ -1948,9 +1992,9 @@ $Definition['{Username} has requested to join {Group}.'] = '{Username}が{Group}
 $Definition['Username or email'] = 'ユーザー名またはメールアドレス';
 $Definition['User Not Found'] = 'ユーザーが見つかりません';
 $Definition['User not found.'] = '申し訳ありません、あなたの入力したメールアドレス／ユーザー名に関するアカウントが見当たりません。';
-$Definition['Invalid user/password provided.'] = '指定されたユーザー/パスワードが無効です。';
 $Definition['Users'] = 'ユーザー';
 $Definition['Users Count'] = 'ユーザーのカウント';
+$Definition['Users will see the event in their local time zone.'] = 'ユーザーには、ユーザーのローカルタイムゾーンでイベントが表示されます。';
 $Definition['Use up to {maxImages,plural,%s image, %s images}.'] = ' {maxImages,plural,%s画像,%s画像}を使用しています。';
 $Definition['users apply for membership.'] = 'ユーザーがメンバーシップを申請。';
 
@@ -2026,6 +2070,7 @@ $Definition['Warnings'] = '警告';
 $Definition['WarningTitleFormat'] = ' {Points,plural,%s points} のために {InsertUserID,User} が{WarnUserID,User}に警告しました。 ';
 $Definition['WarningTitleFormat.Notice'] = ' {Points,plural,%s points} のために {InsertUserID,User} が{WarnUserID,User}に警告しました(ちょっとした通告です)。 ';
 $Definition['was'] = 'だった';
+$Definition['We\'re having trouble logging you in with the provided credentials.'] = '提供された認証情報でログインできません。';
 $Definition['We\'ve received a request to change your password.'] = 'パスワード変更依頼を %s に受領しました。もし依頼を出されていない場合には、このメールは無視していただきますようお願いします。';
 $Definition['Website'] = 'ウェブサイト';
 $Definition['weekday.letter.1'] = 'M';
@@ -2056,6 +2101,7 @@ $Definition['were'] = 'だった';
 $Definition['What\'s This?'] = 'これは何ですか?';
 $Definition['What to search'] = '検索するべきこと';
 $Definition['When'] = 'いつ';
+$Definition['When enabled, will show the name of the person creating the event.'] = '有効にすると、イベント作成者の名前が表示されます。';
 $Definition['when people write on your wall'] = '人があなたのウォールに何かを書くとき';
 $Definition['when people reply to your wall comments'] = '人々があなたのウォールコメントに返信するとき';
 $Definition['when you earn a badge'] = 'バッジを獲得した時';

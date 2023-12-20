@@ -60,6 +60,7 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = 'D
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Define your forum homepage, upload your logo, and more...';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'Deleting a role can result in users not having access to the application.';
 $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to keep your forum clean.';
+$Definition['Digest Settings'] = 'Digest Settings';
 $Definition['Disable Google Sign In'] = 'Disable Google Sign In';
 $Definition['Disable OpenID'] = 'Disable OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
@@ -130,7 +131,6 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Kick-start your community and increase user engagement.';
 $Definition['Labs'] = 'Labs';
-$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Large images will be scaled down to a max width of 400px and a max height of 300px.';
 $Definition['Learn about custom routing.'] = 'Learn about custom routing.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Learn how to use the basic functionality of your forum.';
@@ -171,6 +171,7 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'The pocket is displayed
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Pockets allow you to add free-form HTML to various places around the application.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.';
 
+$Definition['Quicklinks'] = 'Quicklinks';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
@@ -180,6 +181,7 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'It\'s a good idea to have special ranks for moderators and administrators so that your community can easily see who\'s in charge.';
 $Definition['Recommend starting with five ranks.'] =
     'You don\'t want to have too many ranks. We recommend starting with five. You can add more if your community is really large.';
+$Definition['Recommended dimensions are about 400px by 300px or smaller with similar ratio.'] = 'Recommended dimensions are about 400px by 300px or smaller with similar ratio.';
 $Definition['Requires “Flag” reaction permission.'] = 'Requires “Flag” reaction permission.';
 $Definition['Requires “Negative” reaction permission.'] = 'Requires “Negative” reaction permission.';
 $Definition['Requires “Positive” reaction permission.'] = 'Requires “Positive” reaction permission.';
@@ -294,7 +296,7 @@ $Definition['You are about to apply a new layout option. This can be customized 
 
 $Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
 $Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "The site description usually appears in search engines. You should try having a description that is 100-150 characters long.";
-$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title.";
+$Definition["This title appears on your site's banner and in your browser's title bar. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "This title appears on your site's banner and in your browser's title bar. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title.";
 $Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Your organization name is used for SEO microdata and JSON+LD";
 $Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting.";
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting.";
