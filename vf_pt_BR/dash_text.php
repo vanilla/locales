@@ -61,6 +61,7 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = 'D
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Defina a sua página inicial, o seu logo e muito mais...';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'Excluir uma função pode provocar que usuários não tenham acesso ao site.';
 $Definition['Deleting forever cannot be undone.'] = 'Excluir é uma boa maneira de manter seu fórum limpo.';
+$Definition['Digest Settings'] = 'Configurações de resumo';
 $Definition['Disable Google Sign In'] = 'Desabilitar autenticação com Google';
 $Definition['Disable OpenID'] = 'Desativar OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Salas de discussão são usadas para ajudar você a organizar suas discussões de um jeito que faça sentido para sua comunidade.';
@@ -132,7 +133,6 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Dê o ponta-pé inicial em sua comunidade e aumente o engajamento.';
 $Definition['Labs'] = 'Labs';
-$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Imagens grandes serão reduzidas a uma largura máxima de 400 px e uma altura máxima de 300 px.';
 $Definition['Learn about custom routing.'] = 'Aprenda sobre roteamento personalizado.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Aprenda como alterar completamente a aparência do seu fórum: faça upload do seu logotipo, defina sua página inicial, escolha um tema e personalize-o.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Aprenda a como usar as funções básicas do seu fórum.';
@@ -173,6 +173,7 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'O bolso é exibido entr
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Os bolsos permitem adicionar HTML de forma livre a vários locais do aplicativo.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Evite spam no seu fórum, limitando o número de discussões e comentários que os usuários podem postar dentro de um determinado período de tempo.';
 
+$Definition['Quicklinks'] = 'Links rápidos';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guia de início rápido para a criação de temas para o Vanilla';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin de comentários de baunilha pronto para WordPress';
@@ -182,6 +183,7 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'É uma boa idéia ter classificações especiais para moderadores e administradores, para que sua comunidade possa ver facilmente quem está no comando.';
 $Definition['Recommend starting with five ranks.'] =
     'Você não quer ter muitas fileiras. Recomendamos começar com cinco. Você pode adicionar mais se sua comunidade for realmente grande.';
+$Definition['Recommended dimensions are about 400px by 300px or smaller with similar ratio.'] = 'As dimensões recomendadas são cerca de 400 x 300 pixels ou menores com proporção semelhante.';
 $Definition['Requires “Flag” reaction permission.'] = 'Requer permissão de reação "Flag".';
 $Definition['Requires “Negative” reaction permission.'] = 'Requer permissão de reação "negativa".';
 $Definition['Requires “Positive” reaction permission.'] = 'Requer permissão de reação "positiva".';
@@ -296,7 +298,7 @@ $Definition['You are about to apply a new layout option. This can be customized 
 
 $Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "O título da página principal é exibido no site. Escolha um título para ser exibido nos mecanismos de busca.";
 $Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "A descrição do site geralmente aparece nos motores de busca. Você deve tentar utilizar uma descrição de 100 a 150 caracteres.";
-$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Este título aparece no banner do seu site e na barra de título do seu navegador. Deve ter menos de 20 caracteres. Se um logotipo for enviado, ele substituirá esse título nas páginas do fórum voltadas para o usuário. Além disso, lembre-se de que alguns temas podem ocultar esse título.";
+$Definition["This title appears on your site's banner and in your browser's title bar. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Este título aparece no banner do seu site e na barra de título do seu navegador. Se um logotipo for carregado, ele substituirá esse título nas páginas do fórum voltadas para o usuário. Além disso, lembre-se de que alguns temas podem ocultar esse título.";
 $Definition["Your organization name is used for SEO microdata and JSON+LD"] = "O nome da sua organização é usado para microdados de SEO e JSON + LD";
 $Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Este logotipo aparece na parte superior do seu site. Temas criados com o editor de temas e alguns temas personalizados não usam essa configuração.";
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "O logotipo para celulares aparece na parte superior do seu site. Temas criados com o editor de temas e alguns temas personalizados não usam essa configuração.";

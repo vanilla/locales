@@ -33,6 +33,7 @@ $Definition['Add your site to trusted domains.'] = 'Make sure your site is added
 $Definition['Alert users if they click external link.'] = 'Alert users if they click a link in a post that will lead them away from the forum. Users will not be warned when following links that match a Trusted Domain';
 $Definition['Allow links to be transformed'] = 'Allow links to be transformed into embedded representations in discussions and comments. For example, a YouTube link will transform into an embedded video.';
 $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss this message.';
+$Definition['A message has been sent to your email address with password reset instructions.'] = 'If there\'s an account associated with this email, we\'ve sent a password reset link.';
 $Definition['Apply additional classes on catalogue image.'] = 'Apply additional classes on catalogue image. Use space to separate each class.';
 $Definition['Apply for Membership'] = 'Register';
 $Definition['Are you sure you want to unignore %s?'] = 'Are you sure you want to unignore <b>%s</b>?';
@@ -84,6 +85,7 @@ $Definition['ConnectWithExistingUser'] = 'One or more users with your name alrea
 $Definition['Connect your profile to social networks.'] = 'Connect your profile to social networks to share activity with your friends and followers.';
 $Definition['CreateFile'] = 'Create';
 $Definition['CssClass'] = 'CSS Class';
+$Definition['CtaTooltip'] = 'Add a custom CTA to provide quick access to important actions or information such as external landing pages, registration forms, or related discussions.';
 
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';

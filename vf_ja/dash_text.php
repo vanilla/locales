@@ -61,6 +61,7 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = '<
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'フォーラム ホームページの定義、ロゴのアップロードなどを行います。';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'ロールを削除すると、ユーザーは、アプリケーションにアクセスできなくなる可能性があります。';
 $Definition['Deleting forever cannot be undone.'] = 'フォーラムを整理された状態にしておくためには、削除することをお勧めします。';
+$Definition['Digest Settings'] = 'ダイジェスト設定';
 $Definition['Disable Google Sign In'] = 'Google アカウントでのログインを無効化';
 $Definition['Disable OpenID'] = 'OpenID を無効化';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'ディスカッション カテゴリを使用すると、ユーザーが、コミュニティにとって意味のある方法でディスカッションを整理できます。';
@@ -131,7 +132,6 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'コミュニティを始めて、ユーザー エンゲージメントを向上させましょう。';
 $Definition['Labs'] = 'ラボ';
-$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = '大きな画像は最大幅400px、最大高さ300pxに縮小されます。';
 $Definition['Learn about custom routing.'] = 'カスタムルーティングについて学びます。';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'フォーラムのイメージを完全に変更する方法を学習します。ロゴをアップロードしてホームページを設定し、テーマを選択してカスタマイズします。';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'フォーラムの基本的な機能の使用方法を学習します。';
@@ -172,6 +172,7 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'ポケットは、メ�
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'ポケットを使用すると、アプリケーションのさまざまな場所に、自由な形式のHTMLを追加できます。';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'スパムを防ぐため、ユーザーが一定時間内に作成できるディスカッションおよび投稿できるコメントの数を制限できます。';
 
+$Definition['Quicklinks'] = 'クイックリンク';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'テーマ作成のためのクイック スタート ガイド (英語)';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'WordPress用の事前構築済みVanilla Forum Plugin';
@@ -181,6 +182,7 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'モデレーターと管理者のために特別なランクを設けて、コミュニティが誰が担当しているかを簡単に確認できるようにすることは良い考えです。';
 $Definition['Recommend starting with five ranks.'] =
     'ランクを持ち過ぎる必要はありません。5つから始めることをお勧めします。コミュニティが非常に大きい場合、さらに追加することができます。';
+$Definition['Recommended dimensions are about 400px by 300px or smaller with similar ratio.'] = '推奨寸法は、約400ピクセル x 300ピクセル以下で同様の比率のものです。';
 $Definition['Requires “Flag” reaction permission.'] = '「フラグ」リアクション許可が必要です。';
 $Definition['Requires “Negative” reaction permission.'] = '「否定的な」リアクション許可が必要です。';
 $Definition['Requires “Positive” reaction permission.'] = '「肯定的な」リアクション許可が必要です。';
@@ -295,7 +297,7 @@ $Definition['You are about to apply a new layout option. This can be customized 
 
 $Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page.";
 $Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "サイトの説明は通常、検索エンジン内に表示されます。説明文は100〜150文字に収めるようにする必要があります。";
-$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "このタイトルはあなたのサイトのバナーと、ご利用のブラウザのタイトルバーに表示されますので、20文字未満にする必要があります。ロゴがアップロードされると、ユーザー側のフォーラムページ上のこのタイトルがそれに置き換えられます。 また、このタイトルを隠してしまうテーマも一部ございますのでご注意ください。";
+$Definition["This title appears on your site's banner and in your browser's title bar. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "このタイトルは、サイトのバナーとブラウザのタイトルバーに表示されます。ロゴがアップロードされると、ユーザー向けのフォーラムページでこのタイトルが置き換えられます。また、テーマによってはこのタイトルが非表示になる場合があることにも注意してください。";
 $Definition["Your organization name is used for SEO microdata and JSON+LD"] = "あなたの組織名は、SEO microdataおよびJSON+LDに使用されます";
 $Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "このロゴはあなたのサイトの上部に表示されます。テーマエディターで作成されたテーマと、一部のカスタムテーマではこの設定は使用されません。";
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "モバイルロゴは、あなたのサイトの上部に表示されます。テーマエディタで作成されたテーマと、一部のカスタムテーマではこの設定は使用されません。";

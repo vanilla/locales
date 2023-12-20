@@ -60,6 +60,7 @@ $Definition['Define who can upload files on the Roles & Permissions page.'] = 'L
 $Definition['Define your forum homepage, upload your logo, and more...'] = 'Wähle deine Foren-Homepage, lade dein Logo hoch und mehr...';
 $Definition['Deleting a role can result in users not having access to the application.'] = 'Eine Rolle zu löschen kann dazu führen, dass Benutzer keinen Zugang mehr zur Anwendung haben.';
 $Definition['Deleting forever cannot be undone.'] = 'Löschen ist eine gute Möglichkeit, das Forum sauber zu halten.';
+$Definition['Digest Settings'] = 'Digest-Einstellungen';
 $Definition['Disable Google Sign In'] = 'Google Sign-In deaktivieren';
 $Definition['Disable OpenID'] = 'OpenID deaktivieren';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Diskussionskategorien sind sinnvoll, um deinen Benutzern zu helfen, Diskussionen in einer sinnvollen Art und Weise zu organisieren.';
@@ -132,7 +133,6 @@ $Definition['It is a good idea to keep the maximum number of characters allowed 
 
 $Definition['Kick-start your community and increase user engagement.'] = 'Starte durch mit deinem Forum und erhöhe die Benutzerbindung.';
 $Definition['Labs'] = 'Labore';
-$Definition['Large images will be scaled down to a max width of 400px and a max height of 300px.'] = 'Große Bilder werden auf eine maximale Breite von 400px und eine maximale Höhe von 300px verkleinert.';
 $Definition['Learn about custom routing.'] = 'Weitere Informationen zu eigenen Routen.';
 $Definition['Learn how to completely change your forum\'s look and feel: upload your logo, set your homepage, choose a theme and customize it.'] = 'Lerne, wie du die komplette Erscheinung deines Forums verändern kannst: Lade dein Logo hoch, ändere deine Homepage, wähle ein Thema aus und passe es an.';
 $Definition['Learn how to use the basic functionality of your forum.'] = 'Lerne die Basisfunktionen deines Forums kennen.';
@@ -175,6 +175,7 @@ $Definition['Pockets.BetweenDiscussions.Description'] = 'Das Pocket wird zwische
 $Definition['Pockets allow you to add free-form HTML to various places around the application.'] = 'Mit Pockets kannst du freies HTML an verschiedenen Orten in der Anwendung hinzufügen.';
 $Definition['Prevent spam on your forum by limiting the number of discussions &amp; comments that users can post within a given period of time.'] = 'Vermeide Spam im Forum durch das Eingrenzen der Anzahl der Diskussionen und Kommentare, die der Nutzer in einer gegebenen Zeitspanne erstellen kann.';
 
+$Definition['Quicklinks'] = 'Quicklinks';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Kurzanleitung zur Erstellung von Themes für Vanilla';
 
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Vergefertigtes Vanilla-Comment-Plugin für WordPress';
@@ -184,6 +185,8 @@ $Definition['Recommend special ranks for admins and mods.'] =
     'Es ist eine gute Idee, spezielle Rangstufen für Moderatoren und Administratoren zu haben, damit Ihre Community leicht erkennen kann, wer verantwortlich ist.';
 $Definition['Recommend starting with five ranks.'] =
     'Sie wollen nicht zu viele Rangstufen haben. Wir empfehlen, mit fünf Stufen zu beginnen. Sie können weitere hinzufügen, wenn Ihre Community wirklich groß ist.';
+$Definition['Recommended dimensions are about 400px by 300px or smaller with similar ratio.'] = 'Die empfohlenen Abmessungen betragen etwa 400 x 300 Pixel oder kleiner bei einem ähnlichen Verhältnis.
+';
 $Definition['Requires “Flag” reaction permission.'] = 'Erfordert die Genehmigung zur Reaktion "Flagge".';
 $Definition['Requires “Negative” reaction permission.'] = 'Erfordert eine Erlaubnis für die Reaktion "Negativ".';
 $Definition['Requires “Positive” reaction permission.'] = 'Erfordert eine Erlaubnis für die Reaktion "Positiv".
@@ -300,7 +303,7 @@ $Definition['You are about to apply a new layout option. This can be customized 
 
 $Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "Der Homepagetitel wird auf deiner Homepage angezeigt. Wähle einen Titel, den du in Suchmaschinen wiederfinden möchtest.";
 $Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Die Website-Beschreibung wird normalerweise in Suchmaschinen angezeigt. Ihre Beschreibung sollte 100-150 Zeichen lang sein.";
-$Definition["This title appears on your site's banner and in your browser's title bar. It should be less than 20 characters. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Dieser Titel erscheint auf dem Banner Ihrer Website und in der Titelleiste Ihres Browsers. Er sollte weniger als 20 Zeichen lang sein. Wenn ein Logo hochgeladen wird, ersetzt es diesen Titel auf den Benutzerseiten des Forums. Bitte beachten Sie, dass manche Themes diesen  Titel verbergen könnten.";
+$Definition["This title appears on your site's banner and in your browser's title bar. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Dieser Titel erscheint auf dem Banner Ihrer Website und in der Titelleiste Ihres Browsers. Wenn ein Logo hochgeladen wird, ersetzt es diesen Titel auf den für den Benutzer sichtbaren Forenseiten. Bedenken Sie außerdem, dass bei einigen Themes dieser Titel möglicherweise ausgeblendet wird.";
 $Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Der Name Ihrer Organisation wird für SEO-Mikrodaten und JSON+LD benutzt";
 $Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Dieses Logo erscheint im oberen Bereich Ihrer Website. Bei Themes, die mit dem Theme-Editor erstellt wurden sowie bei einigen benutzerdefinierten Themes wird diese Einstellung nicht übernommen.";
 $Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Dieses Logo erscheint im oberen Bereich Ihrer Website. Bei Themes, die mit dem Theme-Editor erstellt wurden sowie bei einigen benutzerdefinierten Themes wird diese Einstellung nicht übernommen.";
