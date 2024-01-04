@@ -404,8 +404,9 @@ $Definition['Change language'] = 'Cambia lingua';
 $Definition['Change My Password'] = 'Modifica la Mia Password';
 $Definition['Change My Picture'] = 'Cambia la Mia Immagine';
 $Definition['Change Password'] = 'Modifica la Password';
-$Definition['Change Type'] = 'Cambia tipo';
 $Definition['Change Picture'] = 'Cambia l\'Immagine';
+$Definition['Change Type'] = 'Cambia tipo';
+$Definition['Change your mind?'] = 'Hai cambiato idea?';
 $Definition['Character limit:'] = 'Limite di caratteri:';
 $Definition['Check all roles that apply to this user:'] = 'Controlla tutti i ruoli applicati a questo utente:';
 $Definition['Check Analytics Data'] = 'Verifica i dati analitici';
@@ -429,19 +430,16 @@ $Definition['Close'] = 'Chiudi';
 $Definition['Closed'] = 'Chiusa';
 $Definition["Closed Folder"] = "Cartella Chiusa";
 $Definition['Close this discussion'] = 'Chiudi questa discussione';
-$Definition['Color'] = 'Colore';
+$Definition['Code Block'] = 'Blocco di codice';
 $Definition["Collapse"] = "Comprimi";
 $Definition["Collapse All"] = "Collassa Tutto";
+$Definition['Color'] = 'Colore';
 $Definition['Combo Breaker'] = 'Combo Breaker';
 $Definition['Comment'] = 'Commenta';
 $Definition['comment'] = 'commenta';
 $Definition['Comment As ...'] = 'Commenta come...';
 $Definition['Comment by %s'] = 'Commento di %s';
 $Definition['Comment in'] = 'in';
-$Definition['Change your mind?'] = 'Hai cambiato idea?
-';
-$Definition['Customize all notification settings on the <0>notification preferences page</0>'] = 'Personalizza tutte le impostazioni di notifica nella pagina <0>preferenze di notifica</0>.
-';
 $Definition['Commenting as %1$s (%2$s)'] = 'Stai commentando come %1$s <span class="SignOutWrap">(%2$s)</span>';
 $Definition['Commenting not allowed.'] = 'Commenti non consentiti.';
 $Definition['Comments'] = 'Commenti';
@@ -501,6 +499,8 @@ $Definition['Current Username'] = 'Nome utente attuale';
 $Definition['Currently: '] = 'Correntemente:';
 $Definition['Custom Information'] = 'Informazioni Personalizzate';
 $Definition['Customize'] = 'Personalizza';
+$Definition['Customize all notification settings on the <0>notification preferences page</0>'] = 'Personalizza tutte le impostazioni di notifica nella pagina <0>preferenze di notifica</0>.
+';
 $Definition['customize your profile now'] = 'personalizza il tuo profilo adesso';
 $Definition['Customize your Public Profile'] = 'Personalizza il tuo Profilo Pubblico';
 $Definition['Custom Profile Fields'] = 'Campi del Profilo Personalizzati';
@@ -517,11 +517,11 @@ $Definition['Date.DefaultTimeFormat'] = '%p%H,%M';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Formato \'mm/gg/aaaa\'.';
 $Definition['Date Added'] = 'Data Aggiunta';
-$Definition['Date Ignored'] = 'Data Ignorata';
-$Definition["Date Input"] = "Inserimento della Data";
+$Definition['Date Created'] = 'Data di Creazione';
 $Definition['Date Examples'] = 'Esempi: Lunedì, oggi, ultima settimana, 26 Mar, 26/3/04';
-$Definition["Date Created"] = "Data di Creazione";
-$Definition["Date Updated"] = "Data Aggiornata";
+$Definition['Date Ignored'] = 'Data Ignorata';
+$Definition['Date Input'] = 'Inserimento della Data';
+$Definition['Date Updated'] = 'Data Aggiornata';
 $Definition['Date within'] = 'Data entro';
 $Definition['Day'] = 'Giorno';
 $Definition['days'] = 'giorni';
@@ -533,14 +533,14 @@ $Definition['Default Status'] = 'Status di default';
 $Definition['Defer Javascript Loading'] = 'Posticipa il caricamento Javascript';
 $Definition['Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Categories</a>.'] = 'Le impostazioni di notifica predefinite possono essere modificate per ogni categoria seguita in <a href="{url,html}">Gestisci le categorie seguite</a>.';
 $Definition['Define Thumbnail'] = 'Clicca e trascina sull\'immagine per definire la tua miniatura.';
-$Definition['delete'] = 'Elimina';
 $Definition['Delete'] = 'Elimina';
+$Definition['delete'] = 'Elimina';
 $Definition['Delete %s'] = 'Elimina %s';
 $Definition['Delete Account'] = 'Elimina Account';
 $Definition['Delete Content'] = 'Elimina il contenuto';
 $Definition['Delete Conversation'] = 'Elimina Conversazione';
 $Definition['Deleted'] = 'Eliminato';
-$Definition["Deleted <0/>"] = "Cancellato <0/>";
+$Definition['Deleted <0/>'] = 'Cancellato <0/>';
 $Definition['Deleted Comments'] = 'Commenti eliminati';
 $Definition['Delete Discussion'] = 'Elimina Discussione';
 $Definition['Delete Forever'] = 'Elimina definitivamente';
@@ -549,8 +549,8 @@ $Definition['Delete the user and all of the user\'s content. This will cause dis
 $Definition['Delete User Content'] = 'Elimina Contenuti Utente';
 $Definition['Delete User Forever'] = 'Elimina Utente per sempre';
 $Definition['Deleting...'] = 'In eliminazione...';
-$Definition['Deny'] = 'Nega';
 $Definition['Denied'] = 'Negato';
+$Definition['Deny'] = 'Nega';
 $Definition['Deny Applicant'] = 'Nega';
 $Definition['Describe your event.'] = 'Descrivi il tuo evento.';
 $Definition['Description'] = 'Descrizione';
@@ -623,10 +623,8 @@ $Definition['editor.fileErrorSizeFormat'] = 'La dimensione del file è troppo gr
 $Definition['Edit Password'] = 'Modifica password';
 $Definition['Edit Preferences'] = 'Modifica Preferenze';
 $Definition['Edit Profile'] = 'Modifica Profilo';
-$Definition['Edit Profile Fields'] = 'Modifica dei campi del profilo
-';
-$Definition['Edit Fields'] = 'Modifica campi
-';
+$Definition['Edit Profile Fields'] = 'Modifica dei campi del profilo';
+$Definition['Edit Fields'] = 'Modifica campi';
 $Definition['Edit Tag'] = 'Modifica Tag';
 $Definition['Edit Thumbnail'] = 'Modifica Miniatura';
 $Definition['Edit Username'] = 'Modifica nome utente';
@@ -635,10 +633,8 @@ $Definition['Email'] = 'E-Mail';
 $Definition['Emails'] = 'Indirizzi Email';
 $Definition['Email/Username'] = 'E-mail/Nome utente';
 $Definition['EmailConfirmEmail'] = 'È necessario confermare il tuo indirizzo e-mail per poter continuare. Conferma l\'indirizzo e-mail cliccando sul link seguente: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
-$Definition['EmailFooter'] = '
-Buona giornata!';
-$Definition['EmailHeader'] = 'Ciao {User.Name}!
-';
+$Definition['EmailFooter'] = 'Buona giornata!';
+$Definition['EmailHeader'] = 'Ciao {User.Name}!';
 $Definition['EmailInvitation'] = 'Ciao!
 
 %1$s ti ha invitato ad iscriverti su %2$s. Se vuoi unirti, puoi farlo cliccando sul seguente link:
@@ -1237,30 +1233,20 @@ $Definition['Notice'] = 'Avviso';
 $Definition['Not Interested'] = 'Non Interessato';
 $Definition['No Title'] = 'Senza titolo';
 $Definition['Notification'] = 'Notifica';
-$Definition['Notification Preferences'] = 'Preferenze di notifica';
-$Definition['Notification Popup'] = 'Popup di notifica
-';
-$Definition['Notification Email'] = 'Email di notifica';
-$Definition['View all followed categories'] = 'Visualizza tutte le categorie seguite
-';
-$Definition['view more'] = 'vedi di più';
-$Definition['View More Posts'] = 'Visualizza Altri Post';
-$Definition['Notify of new comments'] = 'Notifica sui nuovi commenti';
-$Definition['Notify of new content'] = 'Notifica di nuovi contenuti
-';
-$Definition['Notify of new posts'] = 'Notifica sui nuovi post';
-$Definition['Notify me of new comment'] = 'Notifica un nuovo commento
-';
-$Definition['Notify me of new comments'] = 'Avvisami dei nuovi commenti';
-$Definition['Notify me of new content'] = 'Notifica nuovi contenuti
-';
-$Definition['Notify me of new posts'] = 'Notifica nuovi messaggi
-';
-$Definition['Notification preferences enabled tooltip'] = 'Le notifiche sui post devono essere abilitate prima che siano disponibili le notifiche sui nuovi commenti e la ricezione delle notifiche tramite email.';
-$Definition['Notify of new comments'] = 'Notifica sui nuovi commenti';
-$Definition['Send notifications as emails'] = 'Invia notifiche come email';
 $Definition['Notifications'] = 'Notifiche';
 $Definition['Notifictions'] = 'Notifiche';
+$Definition['Notification Email'] = 'Email di notifica';
+$Definition['Notification popup'] = 'Popup di notifica';
+$Definition['Notification Preferences'] = 'Preferenze di notifica';
+$Definition['Notification preferences enabled tooltip'] = 'Le notifiche sui post devono essere abilitate prima che siano disponibili le notifiche sui nuovi commenti e la ricezione delle notifiche tramite email.';
+$Definition['Notify me of new comment'] = 'Notifica un nuovo commento';
+$Definition['Notify me of new comments'] = 'Avvisami dei nuovi commenti';
+$Definition['Notify me of new content'] = 'Notifica nuovi contenuti';
+$Definition['Notify me of new posts'] = 'Notifica nuovi messaggi';
+$Definition['Notification preferences enabled tooltip'] = 'Le notifiche sui post devono essere abilitate prima che siano disponibili le notifiche sui nuovi commenti e la ricezione delle notifiche tramite email.';
+$Definition['Notify of new comments'] = 'Notifica sui nuovi commenti';
+$Definition['Notify of new content'] = 'Notifica di nuovi contenuti';
+$Definition['Notify of new posts'] = 'Notifica sui nuovi post';
 $Definition['Notifications Postmaster'] = 'Notifiche Postmaster';
 $Definition['Notify'] = 'Invia una notifica';
 $Definition['Notify me of private messages.'] = 'Inviami una notifica quando ricevo un messaggio privato.';
@@ -1288,38 +1274,23 @@ $Definition['Not much happening here, yet.'] = 'Non sta accadendo molto qui, per
 $Definition['Not registered?'] = 'Non registrato?';
 $Definition['Not Verified'] = 'Non verificato';
 $Definition['Not Verified Description'] = 'I messaggi di utenti non verificati devono superare i filtri antispam e la pre-moderazione.';
-$Definition['Notification Settings Restored'] = 'Impostazioni di notifica ripristinate
-';
-$Definition['The following email notifications have been restored'] = 'Sono state ripristinate le seguenti notifiche email
-';
-$Definition['New comments on my profile'] = 'Nuovi commenti sul mio profilo
-';
-$Definition['New replies to comments on my profile'] = 'Nuove risposte ai commenti sul mio profilo
-';
-$Definition['New badges'] = 'Nuovi badge
-';
-$Definition['New badge requests'] = 'Nuove richieste di badge
-';
-$Definition['My answer is accepted'] = 'La mia risposta è approvata
-';
-$Definition['New answers on my question'] = 'Nuove risposte alla mia domanda
-';
-$Definition['New follow-up to my answered questions'] = 'Nuovi seguiti alle domande con risposta
-';
+$Definition['Notification Settings Restored'] = 'Impostazioni di notifica ripristinate';
+$Definition['The following email notifications have been restored'] = 'Sono state ripristinate le seguenti notifiche email';
+$Definition['New comments on my profile'] = 'Nuovi commenti sul mio profilo';
+$Definition['New replies to comments on my profile'] = 'Nuove risposte ai commenti sul mio profilo';
+$Definition['New badges'] = 'Nuovi badge';
+$Definition['New badge requests'] = 'Nuove richieste di badge';
+$Definition['My answer is accepted'] = 'La mia risposta è approvata';
+$Definition['New answers on my question'] = 'Nuove risposte alla mia domanda';
+$Definition['New follow-up to my answered questions'] = 'Nuovi seguiti alle domande con risposta';
 $Definition['New comments on my activity feed posts'] = 'Nuovi commenti sui miei post nel feed di attività';
-$Definition['New comments on my posts'] = 'Nuovi commenti ai miei post
-';
-$Definition['New comments on my bookmarked posts'] = 'Nuovi commenti sui miei post preferiti
-';
-$Definition["New comments on posts I've participated in"] = "Nuovi commenti sui post a cui ho partecipato
-";
-$Definition["New posts in groups I'm a member of"] = "Nuovi messaggi nei gruppi di cui sono membro
-";
-$Definition['New posts and comments'] = 'Nuovi messaggi e commenti
-';
+$Definition['New comments on my posts'] = 'Nuovi commenti ai miei post';
+$Definition['New comments on my bookmarked posts'] = 'Nuovi commenti sui miei post preferiti';
+$Definition["New comments on posts I've participated in"] = "Nuovi commenti sui post a cui ho partecipato";
+$Definition["New posts in groups I'm a member of"] = "Nuovi messaggi nei gruppi di cui sono membro";
+$Definition['New posts and comments'] = 'Nuovi messaggi e commenti';
 $Definition['New posts on my profile\'s activity feed'] = 'Nuovi post nel feed di attività del mio profilo';
-$Definition['New comments on posts'] = 'Nuovi commenti ai messaggi
-';
+$Definition['New comments on posts'] = 'Nuovi commenti ai messaggi';
 
 $Definition[' now.'] = ' ora.';
 $Definition['Null Date'] = '-';
@@ -1676,9 +1647,10 @@ $Definition['Select Existing Collections'] = 'Seleziona raccolte esistenti';
 $Definition['Select one of the following avatars:'] = 'Seleziona uno tra i seguenti avatar:';
 $Definition['Send'] = 'Invia';
 $Definition['Send a New Message'] = 'Invia un nuovo messaggio';
-$Definition['Send me a follow-up for my answered questions.'] = 'Inviami un follow-up per le mie domande con risposta.';
+$Definition['Send me a follow-up for my answered questions'] = 'Inviami un follow-up per le mie domande con risposta';
 $Definition['Send me the email digest'] = 'Inviami il digest via email';
 $Definition['Send Message'] = 'Invia messaggio';
+$Definition['Send notifications as emails'] = 'Invia notifiche come email';
 $Definition['Send Q&A Follow-up Email'] = 'Invia e-mail di follow-up a domande e risposte';
 $Definition['Send Report'] = 'Invia Rapporto';
 $Definition['Send report'] = 'Invia rapporto';
@@ -2078,6 +2050,7 @@ $Definition['via %s'] = 'via %s';
 $Definition['Video embedding has been disabled.'] = 'La possibilità di includere video è stata disabilitata. Gli URL non si trasformeranno nel loro equivalente incluso.';
 $Definition['View'] = 'Guarda';
 $Definition['View All'] = 'Visualizza Tutto';
+$Definition['View all followed categories'] = 'Visualizza tutte le categorie seguite';
 $Definition['View all going attendees'] = 'Visualizza tutti i partecipanti effettivi';
 $Definition['View all not going attendees'] = 'Visualizza tutti i non partecipanti';
 $Definition['View all maybe attendees'] = 'Visualizza tutti i probabili partecipanti';
@@ -2088,6 +2061,9 @@ $Definition['View Post'] = 'Vedi post';
 $Definition['View Results'] = 'Vedi i risultati';
 $Definition['Viewing'] = 'Visualizzazione';
 $Definition['Views'] = 'Visite';
+$Definition['view more'] = 'vedi di più';
+$Definition['View More'] = 'Visualizza altro';
+$Definition['View More Posts'] = 'Visualizza Altri Post';
 $Definition['Visible'] = 'Visibile';
 $Definition['Visits'] = 'Visite';
 $Definition['Visit Site'] = 'Visita Sito';
@@ -2227,7 +2203,6 @@ $Definition['You are connected as %s through %s.'] = 'Sei connesso come %s attra
 $Definition['You are connected through %2$s.'] = 'Sei connesso attraverso %2$s.';
 $Definition['You are currently only viewing categories that you follow.'] = 'Attualmente stai visualizzando solo le categorie che segui.';
 $Definition['You are currently viewing all categories.'] = 'Attualmente stai visualizzando tutte le categorie';
-$Definition['View More'] = 'Visualizza altro';
 $Definition['You are editing %s\'s signature'] = 'Stai modificando la firma di %s';
 $Definition['You are limited to %s recipient.'] = 'Hai un limite di %s destinatario.';
 $Definition['You are limited to %s recipients.'] = 'Hai un limite di %s destinatari.';
@@ -2396,7 +2371,7 @@ $Definition['Format as Inline Code'] = 'Formatta come Codice inline';
 $Definition['Paragraph Code Block'] = 'Blocco di codice';
 $Definition['Parent'] = 'Controllante';
 $Definition['Paragraph (Removes paragraph style and sets to plain paragraph)'] = 'Paragrafo (Rimuove lo stile del paragrafo e imposta il paragrafo semplice)';
-$Definition['Code Block'] = 'Blocco di codice';
+
 $Definition['Format as Link'] = 'Formatta come Link';
 $Definition['Link'] = 'Link';
 $Definition['Insert Url'] = 'Inserisci URL';

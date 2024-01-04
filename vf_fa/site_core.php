@@ -1235,7 +1235,7 @@ $Definition['Not going'] = 'نمی رود';
 $Definition['Notice'] = 'توجه';
 $Definition['Notification'] = 'اطلاع رساني';
 $Definition['Notification Email'] = 'ایمیل اطلاع رسانی';
-$Definition['Notification Popup'] = 'پنجره اعلان';
+$Definition['Notification popup'] = 'پنجره اعلان';
 $Definition['Notification Preferences'] = 'تنظيمات اطلاع رساني';
 $Definition['Notification preferences enabled tooltip'] = 'اعلان‌های ارسال باید قبل از اعلان‌های نظر جدید و دریافت اعلان‌ها به عنوان ایمیل‌ها فعال شوند.';
 $Definition['Notifications'] = 'اطلاع رساني';
@@ -1641,7 +1641,7 @@ $Definition['Select Existing Collections'] = 'مجموعه های موجود ر�
 $Definition['Select one of the following avatars:'] = 'يكي از اين آواتارها را انتخاب كنيد:';
 $Definition['Send'] = 'ارسال';
 $Definition['Send a New Message'] = 'ارسال يك پيام جديد';
-$Definition['Send me a follow-up for my answered questions.'] = 'برای سوالات پاسخ داده شده من پیگیری کنید.';
+$Definition['Send me a follow-up for my answered questions'] = 'برای سوالات پاسخ داده شده من پیگیری کنید';
 $Definition['Send Message'] = 'ارسال پيام';
 $Definition['Send me the email digest'] = 'خلاصه ایمیل را برای من ارسال کنید';
 $Definition['Send notifications as emails'] = 'اعلان ها را به صورت ایمیل ارسال کنید';

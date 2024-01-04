@@ -1234,7 +1234,7 @@ $Definition['Not going'] = 'نہیں جا رہا';
 $Definition['Notice'] = 'نوٹس';
 $Definition['Notification'] = 'اعلان';
 $Definition['Notification Email'] = 'اطلاعی ای میل';
-$Definition['Notification Popup'] = 'نوٹیفکیشن پاپ اپ';
+$Definition['Notification popup'] = 'نوٹیفکیشن پاپ اپ';
 $Definition['Notification Preferences'] = 'اطلاع کی ترجیحات';
 $Definition['Notification preferences enabled tooltip'] = 'تبصرے کی نئی اطلاعات اور ای میلز کے دستیاب ہونے پر اطلاعات موصول کرنے سے پہلے پوسٹ کی اطلاعات کو فعال کرنا ضروری ہے۔';
 $Definition['Notifications'] = 'اطلاعات';
@@ -1642,7 +1642,7 @@ $Definition['Select Existing Collections'] = 'موجودہ مجموعے کو م�
 $Definition['Select one of the following avatars:'] = 'مندرجہ ذیل اوتاروں میں سے ایک منتخب کریں:';
 $Definition['Send'] = 'بھیجیں';
 $Definition['Send a New Message'] = 'نیا پیغام بھیجیں';
-$Definition['Send me a follow-up for my answered questions.'] = 'میرے جوابی سوالات کے لئے مجھے فالو اپ بھیجیں۔';
+$Definition['Send me a follow-up for my answered questions'] = 'میرے جوابی سوالات کے لئے مجھے فالو اپ بھیجیں';
 $Definition['Send Message'] = 'پیغام بھیجیں';
 $Definition['Send me the email digest'] = 'مجھے ای میل ڈائجسٹ بھیجیں۔';
 $Definition['Send notifications as emails'] = 'اطلاعات کو بطور ای میل بھیجیں۔';
