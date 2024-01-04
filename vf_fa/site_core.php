@@ -245,7 +245,6 @@ $Definition['Already Warned'] = 'قبلاً هشدار داده شده';
 $Definition['Also banned for the following:'] = 'همچنين براي موارد ذيل مسدود شده:';
 $Definition['Also delete this user\'s content.'] = 'همچنین محتوای این کاربر را حذف کنید.';
 $Definition['Alternative text helps users with accessibility concerns and improves SEO.'] = 'متن جایگزین به کاربران کمک می کند نگرانی های مربوط به دسترسی را داشته باشند و سئو را بهبود می بخشد.';
-$Definition['A message has been sent to your email address with password reset instructions.'] = 'يك پيام حاوي دستورالعمل بازنشاني كلمه عبور به آدرس ايميل شما ارسال شد.';
 $Definition['Analytics'] = 'آمار';
 $Definition['An archived file or files'] = 'پرونده یا پرونده های بایگانی شده';
 $Definition['Ancient Membership'] = 'عضو قديمي';
@@ -316,7 +315,6 @@ $Definition['BadgeReasonPrompt'] = 'فکر می کنید لیاقت این نش�
 $Definition['Badges'] = 'مدال';
 $Definition['BadgesModuleTitle'] = 'مدال';
 $Definition['BadgesNobody'] = 'هنوز هيچكس اين مدال را دريافت نكرده است.';
-$Definition['Bad login, double-check your credentials and try again.'] = 'ورود به سیستم ببا مشکل مواجه شد. شناسه و  رمز خود را بررسی و دوباره امتحان کنید.';
 $Definition['Ban'] = 'مسدود كردن';
 $Definition['Ban.Action'] = 'مسدود كردن';
 $Definition['Banned'] = 'مسدود شده';
@@ -951,7 +949,6 @@ $Definition['Invalid CSRF token.'] = 'توكن CSRF معتبر نيست. لطف�
 $Definition['Invalid Date'] = 'تاریخ نامعتبر است';
 $Definition['Invalid password.'] = 'كلمه عبور وارد شده صحيح نميباشد. به ياد داشته باشيد كلمه عبور به حروف حساس است.';
 $Definition['Invalid photo URL.'] = 'آدرس وب عكس معتبر نيست.';
-$Definition['Invalid user/password provided.'] = 'کاربر/گذرواژه نامعتبر ارائه شده است.';
 $Definition['Invitation'] = 'دعوتنامه';
 $Definition['Invitations'] = 'دعوتنامه';
 $Definition['Invite'] = 'دعوت';
