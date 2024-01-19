@@ -531,7 +531,7 @@ $Definition['Default'] = 'Impostazione predefinita';
 $Definition['default'] = 'impostazione predefinita';
 $Definition['Default Status'] = 'Status di default';
 $Definition['Defer Javascript Loading'] = 'Posticipa il caricamento Javascript';
-$Definition['Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Categories</a>.'] = 'Le impostazioni di notifica predefinite possono essere modificate per ogni categoria seguita in <a href="{url,html}">Gestisci le categorie seguite</a>.';
+$Definition['Default notification settings can be modified for each followed category in'] = 'Le impostazioni di notifica predefinite possono essere modificate per ciascuna categoria seguita in';
 $Definition['Define Thumbnail'] = 'Clicca e trascina sull\'immagine per definire la tua miniatura.';
 $Definition['delete'] = 'Elimina';
 $Definition['Delete'] = 'Elimina';
@@ -1009,6 +1009,7 @@ $Definition['Keep User Content'] = 'Mantieni il Contenuto dell\'Utente';
 $Definition["Kilobyte"] = "Kilobyte";
 
 $Definition['Label'] = 'Etichetta';
+$Definition['Language'] = 'Linguaggio';
 $Definition['Languages'] = 'Le lingue';
 $Definition['Last Active'] = 'Ultima Attività';
 $Definition['Last Commented'] = 'Ultimo Commento';
@@ -1238,8 +1239,7 @@ $Definition['Not Interested'] = 'Non Interessato';
 $Definition['No Title'] = 'Senza titolo';
 $Definition['Notification'] = 'Notifica';
 $Definition['Notification Preferences'] = 'Preferenze di notifica';
-$Definition['Notification Popup'] = 'Popup di notifica
-';
+$Definition['Notification popup'] = 'Pop-up di notifica';
 $Definition['Notification Email'] = 'Email di notifica';
 $Definition['View all followed categories'] = 'Visualizza tutte le categorie seguite
 ';
@@ -1676,7 +1676,7 @@ $Definition['Select Existing Collections'] = 'Seleziona raccolte esistenti';
 $Definition['Select one of the following avatars:'] = 'Seleziona uno tra i seguenti avatar:';
 $Definition['Send'] = 'Invia';
 $Definition['Send a New Message'] = 'Invia un nuovo messaggio';
-$Definition['Send me a follow-up for my answered questions.'] = 'Inviami un follow-up per le mie domande con risposta.';
+$Definition['Send me a follow-up for my answered questions'] = 'Inviami un seguito per le mie domande con risposta';
 $Definition['Send me the email digest'] = 'Inviami il digest via email';
 $Definition['Send Message'] = 'Invia messaggio';
 $Definition['Send Q&A Follow-up Email'] = 'Invia e-mail di follow-up a domande e risposte';
@@ -1843,7 +1843,7 @@ $Definition['The connection data has not been verified.'] = 'I dati di connessio
 $Definition['The content you were looking for has been deleted.'] = 'Il contenuto che stavi cercando è stato cancellato.';
 $Definition['The conversation has been cleared.'] = 'La conversazione è stata pulita.';
 $Definition['The CSRF token is invalid.'] = 'Il token CSRF non è valido.';
-$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week. <a href="{url,html}">Manage Followed Categories</a>.'] = 'Il digest via email consegna i contenuti più importanti della settimana dalle categorie che segui nella tua casella di posta elettronica una volta alla settimana. <a href="{url,html}">Gestisci le categorie seguite</a>.';
+$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week.'] = 'Il riepilogo via e-mail fornisce i contenuti principali della settimana dalle categorie che segui nella tua casella di posta elettronica una volta alla settimana.';
 $Definition['The email you entered is in use by another member.'] = 'La email inserita è già stata utilizzata da un altro utente.';
 $Definition['The email you have entered is already related to an existing account.'] = 'L\'e-mail inserita è già collegata con un account esistente.';
 $Definition['The event will be created in your current local time zone'] = 'L\'evento verrà creato nel tuo fuso orario locale attuale';

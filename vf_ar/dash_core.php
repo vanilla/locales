@@ -44,6 +44,7 @@ $Definition['a Badge'] = 'شارة';
 $Definition['Abilites'] = 'القدرات';
 $Definition['Abilities'] = 'القدرات';
 $Definition['About %s'] = 'معلومات حول %s';
+$Definition['About Email Digest'] = 'حول ملخص البريد الإلكتروني';
 $Definition['About Theme Preview'] = 'معلومات حول معاينة المظهر';
 $Definition['Above Main Content'] = 'فوق المكونات الرئيسية';
 $Definition['Account Sync Failed'] = 'فشل التزامن مع حساب';
@@ -97,6 +98,7 @@ $Definition['All of the user content will be replaced with a message stating the
 $Definition['Allow embedded content'] = 'السماح للمحتوى الذي تم تضمينه';
 $Definition['Allow images'] = 'السماح للصور';
 $Definition['Allow new users to be registered through email.'] = 'يمكن الأعضاء الجدد التسجيل بإستخدام عنوان البريد.';
+$Definition['Allow Third-Party Script Execution'] = 'السماح بتنفيذ البرنامج النصي لجهة خارجية';
 $Definition['Allow this connection to issue API access tokens.'] = 'اسمح لهذا الاتصال بإصدار رموز الوصول إلى واجهة برمجة التطبيقات.';
 $Definition['Allow users to change their own avatars'] = 'السماح للمستخدمين بتغيير الصور الرمزية الخاصة بهم';
 $Definition['Allow users to dismiss this message'] = 'السماح للمستخدمين بتجاهُل هذه الرسالة.';
@@ -164,6 +166,7 @@ $Definition['Ban Rules'] = 'قواعد الحظر';
 $Definition['Ban Type'] = 'نوع';
 $Definition['Basic Information'] = 'معلومات اساسية';
 $Definition['Before'] = 'قبل';
+$Definition['Before activating this feature, please be aware of the following potential implications:'] = 'قبل تفعيل هذه الميزة، يرجى العلم بالآثار المحتملة التالية:';
 $Definition['Begin At'] = 'تبدأ في';
 $Definition['Below Sidebar'] = 'أسفل الشريط الجانبي';
 $Definition['Blocked'] = 'محظور';
@@ -171,6 +174,7 @@ $Definition['Blog Comments'] = 'تعليقات المدونة';
 $Definition['Bookmark a discussion using its star icon.'] = 'علّم النقاش باستخدام أيقونة النجمة الخاصة به';
 $Definition['Browse Addons'] = 'تصفح الإضافات';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'استعرض بحثًا عن شعار بانر جديد إذا كنت ترغب في تغييره:';
+$Definition['Browser Compatibility:'] = 'التوافق المتصفح:';
 $Definition['Button Background Color'] = 'زر لون الخلفية';
 $Definition['Button Text Color'] = 'زر لون النص';
 
@@ -215,6 +219,7 @@ $Definition['Colored'] = 'ملون';
 $Definition['Column Display Settings'] = 'إعدادات عرض العمود';
 $Definition['comment(s)'] = 'تعليقات';
 $Definition['Comment  Body'] = 'نص التعليق';
+$Definition['Comment Count'] = 'تعليق العد';
 $Definition['Comment Settings'] = 'إعدادات التعليق';
 $Definition['Comments Page'] = 'صفحة التعليقات';
 $Definition['Comments per Page'] = 'تعليقات لكل صفحة';
@@ -242,6 +247,7 @@ $Definition['Content Security Domains'] = 'مجالات أمان المحتوى'
 $Definition['Conversation Messages'] = 'رسائل المحادثة';
 $Definition['Conversations'] = 'المحادثات';
 $Definition['Conversations Setup'] = 'إعداد المحادثات';
+$Definition['Could introduce vulnerabilities like Cross-Site Scripting (XSS) if initial scripts are compromised.'] = 'يمكن أن يعرض ثغرات أمنية مثل البرمجة النصية عبر المواقع (XSS) في حالة اختراق البرامج النصية الأولية.';
 $Definition['Could not find a theme identified by \'%s\''] = 'تعذر العثور على سمة محددة بواسطة \'%s\'';
 $Definition['Could not instantiate mail function.'] = 'لا يمكن مثيل وظيفة البريد الإلكتروني.';
 $Definition['Could not link the addon.'] = 'لا يمكن ربط الملحق.';
@@ -312,6 +318,7 @@ $Definition['Display in dashboard. (not recommended)'] = 'عرض في لوحة �
 $Definition['Display on category page only.'] = 'عرض على صفحة الفئة فقط. لن تتأثر قائمة المناقشات الأخيرة.';
 $Definition['Display Open Cases in Profile Page?'] = 'عرض الحالات المفتوحة في صفحة الملف الشخصي؟';
 $Definition['Display records from this category.'] = 'عرض السجلات من هذه الفئة.';
+$Definition['Display records from this subcommunity'] = 'عرض السجلات من هذا المجتمع الفرعي';
 $Definition['Display records from this subcommunity.'] = 'عرض السجلات من هذا المجتمع الفرعي.';
 $Definition['Display root categories as headings.'] = 'عرض فئات الجذر كعناوين.';
 $Definition['Displays the banner image form the branding page prominently throughout the theme.'] = 'يعرض صورة الإعلان من صفحة العلامات التجارية بشكل بارز خلال مظهر الصفحة ككل.';
@@ -333,6 +340,8 @@ $Definition['Edit Role'] = 'تحرير الدور';
 $Definition['Edit User'] = 'تحرير العضو';
 $Definition['Email Confirmation Role'] = 'دور تأكيد البريد الإلكتروني';
 $Definition['Email Digest'] = 'ملخص البريد الإلكتروني';
+$Definition['Email Digest Logo'] = 'البريد الإلكتروني ملخص الشعار';
+$Definition['Email Digest Prompt Widget will be available when the Email Digest is enabled.'] = 'ستكون أداة مطالبة ملخص البريد الإلكتروني متاحة عند تمكين ملخص البريد الإلكتروني.';
 $Definition['Email Footer'] = 'تذييل البريد الإلكتروني';
 $Definition['Email Styles'] = 'أنماط البريد الإلكتروني';
 $Definition['Embed Comments'] = 'تضمين التعليقات';
@@ -371,6 +380,8 @@ $Definition['Enable this message'] = 'قم بتمكين هذه الرسالة';
 $Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'قم بتمكين الحصول على معاينة للوحة معلومات إدارة المستخدم الجديدة الخاصة بنا مع بحث محسّن وخيارات تكوين جديدة.';
 $Definition['Enable to only show posts from categories a user follows.'] = 'قم بتمكين عرض المشاركات من الفئات التي يتابعها المستخدم فقط.';
 $Definition['Enabling a Locale Pack'] = 'تمكين حزمة اللغة';
+$Definition['Enabling this feature will modify your Content Security Policy to trust additional scripts injected as dependencies by your custom scripts.'] = 'سيؤدي تمكين هذه الميزة إلى تعديل سياسة أمان المحتوى الخاصة بك لتثق في البرامج النصية الإضافية التي يتم إدخالها كتبعيات بواسطة البرامج النصية المخصصة الخاصة بك.';
+$Definition['Enabling this feature will modify your site\'s Content Security Policy (CSP) to permit approved scripts in your current trusted domain list to dynamically load other scripts, it will add a ‘strict-dynamic’ directive to your CSP offering more flexibility in incorporating third-party content.'] = 'سيؤدي تمكين هذه الميزة إلى تعديل سياسة أمان المحتوى (CSP) الخاصة بموقعك للسماح للبرامج النصية المعتمدة في قائمة النطاقات الموثوقة الحالية لديك بتحميل البرامج النصية الأخرى ديناميكيًا، وسيضيف توجيهًا "ديناميكيًا صارمًا" إلى CSP الخاص بك مما يوفر المزيد من المرونة في دمج الجهات الخارجية محتوى.';
 $Definition['Encourage your friends to join your new community!'] = 'شجع أصدقائك للانضمام إلى مجتمعك الجديد!';
 $Definition['Enter a comma-delimited list of indexes, starting at 1.'] = 'أدخل قائمة من الفهارس مفصولة بفواصل ، بدءًا من 1.';
 $Definition['Enter numbers starting at 1.'] = 'أدخل الأرقام ابتدأً من واحد.';
@@ -401,9 +412,11 @@ $Definition['Failure'] = 'بالفشل';
 $Definition['Favicon'] = 'فافيكون';
 $Definition['FaviconBrowse'] = 'تصفح بحثًا عن رمز مفضل جديد إذا كنت ترغب في تغييره:';
 $Definition['FaviconDescription'] = 'ستظهر أيقونة الموقع الخاص بك في شريط عنوان متصفحك. وسيتم تصغيرها بشكل مناسب.';
+$Definition['Featured'] = 'متميز';
 $Definition['FileUpload is currently OFF'] = 'FileUpload متوقف حاليًا';
 $Definition['FileUpload is currently ON'] = 'FileUpload قيد التشغيل حاليًا';
 $Definition['Filter'] = 'مرشح نتائج البحث';
+$Definition['Filter By'] = 'مصنف بواسطة';
 $Definition['Filter Results'] = 'ترشيح نتائج البحث';
 $Definition['Fingerprint'] = 'بصمة';
 $Definition['First Visit'] = 'الزيارة الأولى';
@@ -459,19 +472,24 @@ $Definition['Hide signatures on embedded comments'] = 'إخفاء التوقيع
 $Definition['Homepage'] = 'الصفحة الرئيسية';
 $Definition['Homepage Title'] = 'عنوان الصفحة الرئيسية';
 $Definition['Hot (score + activity)'] = 'Hot (النتيجة + النشاط)';
+$Definition['However, this comes with increased responsibility to ensure the security of your site.'] = 'ومع ذلك، يأتي هذا مصحوبًا بمسؤولية متزايدة لضمان أمان موقعك.';
+$Definition['How the content is going to be filtered.'] = 'كيف سيتم تصفية المحتوى.';
 $Definition['Html'] = 'HTML';
 $Definition['HTML Emails'] = 'رسائل بريد إلكترونية بصيغة HTML';
 $Definition['HTTP Strict Transport Security (HSTS) Settings'] = 'إعدادات أمان النقل الصارم HTTP (HSTS)';
 
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'في حالة التمكين ، سيتم إرسال المحتوى الكامل للمشاركات في إشعارات بالبريد الإلكتروني إلى المستخدمين.';
+$Definition['If left empty, Email Logo is used.'] = 'إذا تركت فارغة، فسيتم استخدام شعار البريد الإلكتروني.';
 $Definition['Inbox Page'] = 'صفحة البريد الوارد';
 $Definition['Include Child Categories'] = 'تضمين الفئات الفرعية';
+$Definition['Include Featured Images'] = 'تضمين الصور المميزة';
 $Definition['Include featured images with posts in email digest'] = 'قم بتضمين الصور المميزة مع المشاركات في ملخص البريد الإلكتروني';
 $Definition['Include full post in email notifications'] = 'تضمين المنشور بالكامل في إشعارات البريد الإلكتروني';
 $Definition['Include internal profile fields'] = 'قم بتضمين حقول الملف الشخصي الداخلية';
 $Definition['Include private profile fields'] = 'قم بتضمين حقول الملف الشخصي الخاصة';
 $Definition['Include Subcategories'] = 'تضمين الفئات الفرعية';
 $Definition['Include Subdomains'] = 'تضمين النطاقات الفرعية';
+$Definition['Increased Security Risks:'] = 'زيادة المخاطر الأمنية:';
 $Definition['Information'] = 'معلومات';
 $Definition['InputFormatter.Notes1'] = 'حدد التنسيق الافتراضي لمحرر المنشورات الموجود في المجتمع. ';
 $Definition['InputFormatter.Notes2'] = 'سيقوم المحرر بالكشف التلقائي عن تنسيق المنشورات القديمة عند تحريرها وتحميل قواعد التنسيق الأصلية. بصرف النظر عن هذا الاستثناء، فإن تنسيق المنشور المحدد أدناه سيكون له الأسبقية. ';
@@ -479,6 +497,7 @@ $Definition['Install Vanilla without a .htaccess file.'] = 'قم بتثبيت ا
 $Definition['Integrate Banner Image'] = 'دمج صورة الإعلان';
 $Definition['Internaltionalization & Localization'] = 'التوطين والتعريب';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'تقديم ردود الفعل والشارات الفانيليا';
+$Definition['Introduction'] = 'مقدمة';
 $Definition['Invalid category for deletion.'] = 'فئة غير صالحة للحذف.';
 $Definition['Invalid entry.'] = 'دخول غير صالح.';
 $Definition['Invisibility Cloak Settings'] = 'إعدادات أداة الإخفاء';
@@ -508,6 +527,7 @@ $Definition['Learn more'] = 'يتعلم أكثر';
 $Definition['Learn more about HSTS at %s.'] = 'تعرَّف على المزيد عن HSTS على %s.';
 $Definition['Level'] = 'المستوى';
 $Definition['Limit'] = 'حد';
+$Definition['Limits: 60 characters, no breaks.'] = 'الحدود: 60 حرفًا، بدون فواصل.';
 $Definition['Link Color'] = 'لون الارتباط';
 $Definition['Locale Key (Folder)'] = 'مفتاح اللغة (المجلد)';
 $Definition['Locale Name'] = 'اسم اللغة';
@@ -541,6 +561,7 @@ $Definition['Max Comment Length'] = 'أقصى طول للتعليق';
 $Definition['Max height of %s'] = 'الحد الأقصى لارتفاع %s';
 $Definition['Max height of %s in pixels'] = 'الحد الأقصى لطول %s بالبكسل';
 $Definition['Maximum Category Display Depth'] = 'أقصى عمق لعرض الفئات';
+$Definition['Maximum number of posts to be included in the email digest.'] = 'الحد الأقصى لعدد المشاركات التي سيتم تضمينها في ملخص البريد الإلكتروني.';
 $Definition['Max number of %s'] = 'الحد الأقصى لعدد %s';
 $Definition['Max number of images in signature'] = 'أقصى عدد من الصور مسموح به في التوقيع';
 $Definition['Max Post Length'] = 'أقصى طول للمنشور';
@@ -550,6 +571,7 @@ $Definition['Membership'] = 'العضوية';
 $Definition['Message'] = 'رسالة';
 $Definition['Message ID'] = 'ترقيم الرسالة';
 $Definition['Messages'] = 'الرسائل';
+$Definition['Meta Options'] = 'خيارات التعريف';
 $Definition['Method'] = 'طريقة';
 $Definition['Min Post Length'] = 'أقل طول للمنشور';
 $Definition['minute(s)'] = 'دقائق';
@@ -605,10 +627,12 @@ $Definition['Number input must be between 1 and 100.'] = 'يجب أن يكون �
 $Definition['Number of %s listed per page.'] = 'عدد%s المدرجة في كل صفحة.';
 $Definition['Number of blocked registrations'] = 'عدد التسجيلات الممنوعة';
 $Definition['Number of days before a follow-up email is automatically sent.'] = 'عدد الأيام قبل إرسال بريد إلكتروني للمتابعة تلقائيًا.';
+$Definition['Number of posts'] = 'عدد المنشورات';
 
 $Definition['On'] = 'تشغيل';
 $Definition['Only Allow Each User To Post'] = 'السماح فقط لكل مستخدم بالنشر';
 $Definition['Only display on mobile browsers.'] = 'عرض فقط على متصفحات الجوال.';
+$Definition['Only Show Followed Categories'] = 'إظهار الفئات التابعة فقط';
 $Definition['Only visible to users with roles with permission.'] = 'يمكن رؤيته فقط بواسطة المستخدمين الذين لديهم وظائف بإذن.';
 $Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'لن يتم عرض الحالات المفتوحة إلا إذا كان لدى المستخدم اتصال Salesforce صالح.';
 $Definition['Operation By'] = 'بواسطة';
@@ -644,6 +668,7 @@ $Definition['Plugin'] = 'إضافات';
 $Definition['Plugins'] = 'الإضافات';
 $Definition['Points'] = 'النقاط';
 $Definition['Polls'] = 'إستطلاعات';
+$Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'مشاكل التوافق المحتملة مع المتصفحات القديمة، مما يؤثر على تجربة المستخدم.';
 $Definition['Post External Links'] = 'نشر روابط خارجية';
 $Definition['Post Format'] = 'تنسيق المنشور ';
 $Definition['Posting'] = 'النشر';
@@ -713,12 +738,14 @@ $Definition['Run structure & data scripts'] = 'تشغيل الهيكل والب�
 
 $Definition['Save Captured Definitions'] = 'حفظ التعريفات الملتقطة';
 $Definition['Save Colors'] = 'حفظ الألوان';
+$Definition['Score Count'] = 'عدد النقاط';
 $Definition['Search by user or role.'] = 'ابحث عن الأعضاء باستخدام الاسم أو البريد الإلكتروني، وكذلك بإمكانك استخدام % كبدل. وكذلك بإمكانك البحث باستخدام رقم العضوية، اسم المجموعة أو “محظور”.';
 $Definition['Search results of members'] = 'نتائج البحث للأعضاء';
 $Definition['SearchScope.Everywhere'] = 'في كل مكان';
 $Definition['seconds'] = 'ثواني';
 $Definition['Security'] = 'الأمان';
 $Definition['See also'] = 'انظر أيضاً';
+$Definition['See link'] = 'انظر الرابط';
 $Definition['Selection will affect the item options available.'] = 'سيؤثر التحديد على خيارات العنصر المتاحة.';
 $Definition['Select the location of the pocket.'] = 'حدد موقع الجيب.';
 $Definition['Select which columns are displayed on the manage users page list.'] = 'حدد الأعمدة التي يتم عرضها في قائمة صفحات إدارة المستخدمين.';
@@ -750,10 +777,14 @@ $Definition['SSO Role'] = 'دور SSO';
 $Definition['SSO roles are always passed through SSO.'] = 'يتم تمرير أدوار SSO دائمًا عبر SSO.';
 $Definition['Start Discussions'] = 'كتابة مواضيع';
 $Definition['Start Private Conversations'] = 'بدء المحادثات الخاصة';
+$Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'ابدأ سطر موضوع الملخص مع تعيين [Banner Title] في المظهر > العلامة التجارية وتحسين محركات البحث';
 $Definition['State'] = 'الحالة';
 $Definition['Statistics'] = 'الإحصاء';
 $Definition['Strip Embeds'] = 'تضمين قطاع';
 $Definition['Style'] = 'النمط';
+$Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'يتم تعيين الأنماط والمظهر المرئي العام لجميع رسائل البريد الإلكتروني، بما في ذلك ملخص البريد الإلكتروني، على مستوى الموقع في صفحة إعدادات البريد الإلكتروني.';
+$Definition['Subcommunity'] = 'المجتمع الفرعي';
+$Definition['Subject Line and Title'] = 'سطر الموضوع والعنوان';
 
 $Definition['Table Layout'] = 'تخطيط الجدول';
 $Definition['take away'] = 'خذ من';
@@ -761,6 +792,7 @@ $Definition['Technical'] = 'الشؤون الفنية';
 $Definition['Tell the editor to reinterpret all old posts as %s.'] = 'اطلب من المحرر إعادة تفسير كافة المنشورات القديمة على أنها%s.';
 $Definition['Templates'] = 'القوالب';
 $Definition['Temporary (302)'] = 'مؤقتة (302)';
+$Definition['Test Digest'] = 'ملخص الاختبار';
 $Definition['Test Email'] = 'رسالة بريد إلكتروني تجريبية';
 $Definition['Test email from %s'] = 'رسالة بريد إلكتروني تجريبية من %s';
 $Definition['Test Email Message'] = '<p> هذه هي رسالة بريد إلكتروني تجريبية. </p>
@@ -780,6 +812,7 @@ $Definition['The default banner image across the site. This can be overridden on
 $Definition['The default role has not been configured.'] = 'لم يتم تكوين الدور الافتراضي.';
 $Definition['The email address this test will be sent to.'] = 'عنوان البريد الإلكتروني الذي سيتم إرسال هذا الاختبار إليه.';
 $Definition['The email has been sent.'] = 'لقد تم إرسال البريد الإلكتروني.';
+$Definition['The first line of content in the email digest after the title.'] = 'السطر الأول من المحتوى في ملخص البريد الإلكتروني بعد العنوان.';
 $Definition['The homepage title is displayed on your home page.'] = 'يتم عرض عنوان الصفحة الرئيسية على صفحتك الرئيسية. اختر العنوان الذي تريد أن يظهر في محركات البحث.';
 $Definition['The homepage was saved successfully.'] = 'تم حفظ الصفحة الرئيسية بنجاح.';
 $Definition['The invitation was removed successfully.'] = 'تمت إزالة الدعوة بنجاح.';
@@ -823,7 +856,9 @@ $Definition['This image will appear in this category\'s banner and in category w
 $Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'سيتم استخدام هذه الصورة في قوائم الفئات وعناصر واجهة المستخدم عند استخدام خيار نمط "الرمز".';
 $Definition['This information will only be shown to users with permission to view internal info'] = 'سيتم عرض هذه المعلومات فقط للمستخدمين الذين لديهم إذن لعرض المعلومات الداخلية';
 $Definition['This is a parent category that does not allow discussions.'] = 'هذه فئة رئيسية لا تسمح بإجراء مناقشات.';
+$Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'وهذا ليس ضروريًا في معظم المواقع باستثناء تلك التي تستخدم ميزات مثل AdSense وGoogle Tag Manager.';
 $Definition['This is private information and will not be shared with other members.'] = 'هذه معلومات خاصة ولن يتم مشاركتها مع الأعضاء الآخرين.';
+$Definition['This may be used to include content such as organization name and address in the email digest.'] = 'يمكن استخدام هذا لتضمين محتوى مثل اسم المؤسسة وعنوانها في ملخص البريد الإلكتروني.';
 $Definition['This option is to normalize the editor format'] = 'هذا الخيار هو تطبيع تنسيق المحرر ، إذا تم تحرير المنشورات القديمة بتنسيق آخر ، مثل تخفيض السعر أو BBCode ، فإن هذا الخيار سيفرض%s.';
 $Definition['This page requires Javascript.'] = 'تتطلب هذه الصفحة جافا سكريبت.';
 $Definition['This pocket is an ad.'] = 'هذا الجيب هو أحد الإعلانات.';
@@ -889,6 +924,8 @@ $Definition['Vanilla.Archive.Description'] = 'يمكنك اختيار أرشفة
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'ضع الفئات المتداخلة في قائمة مفصولة بفواصل عندما تكون %1$s';
 $Definition['Vanilla is installed!'] = 'يتم تثبيت الفانيليا!';
 $Definition['Version %s Installer'] = 'الإصدار %s المثبت';
+$Definition['View browser compatibility chart'] = 'عرض مخطط توافق المتصفح';
+$Definition['View Count'] = 'عرض العدد';
 $Definition['View Page'] = 'عرض الصفحة';
 $Definition['Visit Site'] = 'زيارة الموقع';
 

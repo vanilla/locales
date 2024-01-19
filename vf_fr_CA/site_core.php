@@ -533,7 +533,7 @@ $Definition['Default'] = 'Défault';
 $Definition['default'] = 'défault';
 $Definition['Default Status'] = 'État par défaut';
 $Definition['Defer Javascript Loading'] = 'Reporter le chargement de Javascript';
-$Definition['Default notification settings can be modified for each followed category in <a href="{url,html}">Manage Followed Categories</a>.'] = 'Les paramètres de notification par défaut peuvent être modifiés pour chaque catégorie suivie dans <a href="{url,html}">Gérer les catégories suivies</a>.';
+$Definition['Default notification settings can be modified for each followed category in'] = 'Les paramètres de notification par défaut peuvent être modifiés dans chaque rubrique de la section suivie';
 $Definition['Define Thumbnail'] = 'Cliquez et faites glisser l\'image pour définir votre avatar.';
 $Definition['delete'] = 'supprimer';
 $Definition['Delete'] = 'Supprimer';
@@ -1005,6 +1005,7 @@ $Definition['Keep User Content'] = 'Conserver le Contenu de l\'Utilisateur';
 $Definition["Kilobyte"] = "Kilooctet";
 
 $Definition['Label'] = 'Étiquette';
+$Definition['Language'] = 'Langue';
 $Definition['Languages'] = 'Langues';
 $Definition['Last Active'] = 'Dernière connexion';
 $Definition['Last Commented'] = 'Dernier commentaire';
@@ -1232,8 +1233,7 @@ $Definition['Not Interested'] = 'Pas intéressé';
 $Definition['No Title'] = 'Pas de titre';
 $Definition['Notification'] = 'Notifications';
 $Definition['Notification Preferences'] = 'Préférences de notification';
-$Definition['Notification Popup'] = 'Notification contextuelle
-';
+$Definition['Notification popup'] = 'Fenêtre contextuelle de notification';
 $Definition['Notification Email'] = 'Courriel de notification';
 $Definition['View all followed categories'] = 'Voir toutes les catégories suivies';
 $Definition['view more'] = 'afficher plus';
@@ -1648,7 +1648,7 @@ $Definition['Select Existing Collections'] = 'Sélectionner les collections exis
 $Definition['Select one of the following avatars:'] = 'Choisissez un des avatars suivants :';
 $Definition['Send'] = 'Envoyer';
 $Definition['Send a New Message'] = 'Envoyer un nouveau message';
-$Definition['Send me a follow-up for my answered questions.'] = 'Envoyez-moi un suivi pour mes questions répondues.';
+$Definition['Send me a follow-up for my answered questions'] = 'Envoyez-moi un suivi pour les questions auxquelles j\'ai répondu';
 $Definition['Send me the email digest'] = 'M’envoyer le résumé courriel';
 $Definition['Send Message'] = 'Envoyer le message';
 $Definition['Send Q&A Follow-up Email'] = 'Envoyer un e-mail de suivi de questions et réponses';
@@ -1804,7 +1804,7 @@ $Definition['The connection data has not been verified.'] = 'Les données de con
 $Definition['The content you were looking for has been deleted.'] = 'Le contenu que vous recherchez a été supprimé.';
 $Definition['The conversation has been cleared.'] = 'Cette conversation a été effacée.';
 $Definition['The CSRF token is invalid.'] = 'Le jeton CSRF est invalide.';
-$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week. <a href="{url,html}">Manage Followed Categories</a>.'] = 'Le résumé courriel vous délivre le contenu de la semaine des catégories que vous suivez dans votre boîte de réception une fois par semaine. <a href="{url,html}">Gérer les catégories suivies</a>.';
+$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week.'] = 'Le résumé par courrier électronique vous permet de recevoir une fois par semaine dans votre boîte aux lettres électronique le contenu le plus important de la semaine dans les catégories que vous suivez.';
 $Definition['The email you entered is in use by another member.'] = 'L\'adresse courriel saisie est déjà utilisée par un autre membre.';
 $Definition['The email you have entered is already related to an existing account.'] = 'L\'adresse courriel que vous avez inscrit est déjà associé à un compte existant.';
 $Definition['The event will be created in your current local time zone'] = 'L\'événement sera créé dans votre fuseau horaire local actuel';
