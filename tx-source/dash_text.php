@@ -65,7 +65,6 @@ $Definition['Disable Google Sign In'] = 'Disable Google Sign In';
 $Definition['Disable OpenID'] = 'Disable OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Don\'t embed your forum admin dashboard (pop it out to full-screen)';
-$Definition['Don\'t use too many reactions.'] = 'Don\'t use too many reactions. You don\'t want to give your users information overload.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['Edit Route'] = 'Edit Route';
@@ -107,7 +106,6 @@ $Definition['Garden.StatisticsReadonly.Explain'] = 'Your config.php file appears
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'To solve this problem, assign file mode 777 to your conf/config.php file.';
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.';
-$Definition['Here are all of the reactions you can use on your site.'] = 'Here are all of the reactions you can use on your site.';
 $Definition['Here are the ranks that users can achieve on your site.'] =
     'Here are the ranks that users can achieve on your site. You can customize these ranks and even add new ones. Here are some tips.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
@@ -149,6 +147,7 @@ $Definition['MobileLogoDescription'] =
     'The mobile banner logo appears at the top of your site.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mobile themes allow you to change the look and feel of your site on smaller devices.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Most communities stick to positive reactions to encourage participation.';
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Nested categories deeper than this depth will be placed in a comma-delimited list.';
@@ -174,6 +173,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Quicklinks';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Quick-Start Guide to Creating Themes for Vanilla';
 
+$Definition['Reactions Documentation'] = 'Reactions Documentation';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
 $Definition['Realtime progress bars: %s'] = 'Realtime progress bars: %s';
@@ -276,14 +276,12 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Warning</b>: Your server configuration does not support fast data loading. If you are importing a very large file (ex. over 200,000 comments) you might want to consider changing your configuration. Click <a href="http://vanillaforums.com/porter">here</a> for more information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'We recommend enabling 1–3 reactions at a time to avoid overwhelming users.';
 $Definition['Webhooks'] = 'Webhooks';
-$Definition['We recommend mostly positive reactions to encourage participation.'] = 'We recommend mostly positive reactions to encourage participation.';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'When enabled, users may choose to receive notifications from the community';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Whether or not the internal profile fields will be included in this webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Whether or not the private profile fields will be included in this webhook.';
-$Definition['Which reactions you use really depends on your community.'] =
-    'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
 
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'You can ban IP addresses, email addresses and usernames.';
