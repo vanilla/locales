@@ -229,6 +229,8 @@ $Definition['all categories'] = 'Все разделы';
 $Definition['All Category Pages'] = 'Все страницы категорий';
 $Definition['All Content'] = 'Весь контент';
 $Definition['All Conversations'] = 'Все диалоги';
+$Definition['All Discussion Categories Page'] = 'Страница всех категорий обсуждений';
+$Definition['All Discussion Category Pages'] = 'Все страницы категорий обсуждений';
 $Definition['All Discussions'] = 'Все дискуссии';
 $Definition['All Discussion Categories Page'] = 'Страница всех категорий обсуждений';
 $Definition['All Discussion Category Pages'] = 'Все страницы категорий обсуждений';
@@ -1783,6 +1785,7 @@ $Definition['Started by'] = '
 ';
 $Definition['Started by %1$s'] = 'Автор: %1$s';
 $Definition['Started by <0/>'] = 'Автор <0 />';
+$Definition['Start Time'] = 'Время начала';
 $Definition['Start your First Discussion'] = 'Создайте вашу первую дискуссию';
 $Definition['Status'] = 'Статус';
 $Definition['status'] = 'статус';
@@ -1859,6 +1862,7 @@ $Definition['The email you have entered is already related to an existing accoun
 $Definition['The event will be created in your current local time zone'] = 'Событие будет создано в вашем текущем часовом поясе.';
 $Definition['The file failed to upload.'] = 'Невозможно загрузить файл.';
 $Definition['their'] = 'их';
+$Definition['The location URL will display as a link.'] = 'URL-адрес местоположения будет отображаться в виде ссылки.';
 $Definition['The name you entered is already in use by another member.'] = 'Этот имя пользователя уже занято, придумайте другой.';
 $Definition['The page you were looking for could not be found.'] = 'Страница, которую вы ищете, не существует.';
 $Definition['The quote had to be converted from %s to %s.'] = 'Цитата должны была быть преобразована из %s в %s. Некоторое форматирование могло быть потеряно.';
