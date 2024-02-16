@@ -536,6 +536,7 @@ $Definition['Decline'] = 'انخفاض';
 $Definition['Declined'] = 'تم الرفض';
 $Definition['Default'] = 'قياسي';
 $Definition['default'] = 'قياسي';
+$Definition['Default notification settings can be modified for each followed category in'] = 'يمكن تعديل إعدادات الإشعارات الافتراضية لكل فئة يتم متابعتها فيها';
 $Definition['Default Status'] = 'الحالة الافتراضية';
 $Definition['Defer Javascript Loading'] = 'تأجيل تحميل جافاسكريبت';
 $Definition['Define Thumbnail'] = 'انقر و اسحب عبر الصورة الخاصة لتحديد الصورة المصغرة.';
@@ -1019,6 +1020,7 @@ $Definition['Keep User Content'] = 'الحفاظ على محتوى المستخ�
 $Definition['Kilobyte'] = 'كيلوبايت';
 
 $Definition['Label'] = 'ملصق';
+$Definition['Language'] = 'لغة';
 $Definition['Languages'] = 'اللغات';
 $Definition['Large'] = 'كبير';
 $Definition['Last Active'] = 'النشاط';
@@ -1260,6 +1262,7 @@ $Definition['Not going'] = 'لن أذهب';
 $Definition['Notice'] = 'إشعار';
 $Definition['Notification'] = 'إشعار';
 $Definition['Notification Email'] = 'البريد الإلكتروني الإخطار';
+$Definition['Notification popup'] = 'المنبثقة الإخطار';
 $Definition['Notification Preferences'] = 'تفضيلات الإخطار';
 $Definition['Notification preferences enabled tooltip'] = 'يجب تمكين إشعارات النشر قبل إشعارات التعليقات الجديدة وتلقي الإخطارات حيث تتوفر رسائل البريد الإلكتروني.';
 $Definition['Notifications'] = 'إخطارات';
@@ -1661,6 +1664,7 @@ $Definition['Select Existing Collections'] = 'حدد المجموعات المو
 $Definition['Select one of the following avatars:'] = 'اختر أحد هاته الصور الرمزية:';
 $Definition['Send'] = 'إرسال';
 $Definition['Send a New Message'] = 'أرسل رسالة جديدة';
+$Definition['Send me a follow-up for my answered questions'] = 'أرسل لي متابعة لأسئلتي التي تمت الإجابة عليها';
 $Definition['Send Message'] = 'إرسال رسالة';
 $Definition['Send me the email digest'] = 'أرسل لي ملخص البريد الإلكتروني';
 $Definition['Send notifications as emails'] = 'إرسال الإخطارات كرسائل بريد إلكتروني';
@@ -1827,6 +1831,7 @@ $Definition['The connection data has not been verified.'] = 'لم يتم الت�
 $Definition['The content you were looking for has been deleted.'] = 'لقد تم حذف المحتوى الذي كنت تبحث عنه.';
 $Definition['The conversation has been cleared.'] = 'تم مسح محادثة.';
 $Definition['The CSRF token is invalid.'] = 'رمز الـ CSRF غيرصالح.';
+$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week.'] = 'يقدم ملخص البريد الإلكتروني أفضل محتوى للأسبوع من الفئات التي تتابعها في صندوق بريدك الإلكتروني مرة واحدة في الأسبوع.';
 $Definition['The email you entered is in use by another member.'] = 'عنوان البريد الإلكتروني الذي أدخلته مُستخدم من قبل عضو آخر. ';
 $Definition['The email you have entered is already related to an existing account.'] = 'يرتبط مسبقا البريد الإلكتروني الذي أدخلته بحساب موجود.';
 $Definition['The event will be created in your current local time zone'] = 'سيتم إنشاء الحدث وفقًا لمنطقتك الزمنية المحلية الحالية';

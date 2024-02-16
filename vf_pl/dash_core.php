@@ -475,6 +475,7 @@ $Definition['Rules'] = 'Zasady';
 $Definition['Save Colors'] = 'Zapisz kolory';
 $Definition['Score Count'] = 'Liczba punktów';
 $Definition['Search by user or role.'] = 'Wyszukuj użytkowników według imienia lub e-maila, używając opcjonalnie % jako symbolu wieloznacznego. Możesz także wyszukiwać według ID użytkownika, nazwy funkcji lub “banów”.';
+$Definition['Search Result In New Tab'] = 'Wynik wyszukiwania w nowej karcie';
 $Definition['Search results of members'] = 'Wyniki wyszukiwania członków';
 $Definition['SearchScope.Everywhere'] = 'Wszędzie';
 $Definition['seconds'] = 'sekundy';
@@ -507,6 +508,7 @@ $Definition['SSO Role'] = 'Rola SSO';
 $Definition['SSO roles are always passed through SSO.'] = 'Role SSO są zawsze przekazywane przez SSO.';
 $Definition['Start Private Conversations'] = 'Zacznij prywatne rozmowy';
 $Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'Rozpocznij temat podsumowania od [Tytułu banera] ustawionego w Wygląd > Branding i SEO';
+$Definition['Start typing username'] = 'Zacznij wpisywać nazwę użytkownika';
 $Definition['State'] = 'Kraj';
 $Definition['Strip Embeds'] = 'Usuń zagnieżdżenia';
 $Definition['Style'] = 'Styl';
@@ -621,9 +623,11 @@ $Definition['Visit Site'] = 'Odwiedź stronę';
 
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'Ostrzegaj użytkowników, jeśli kliknięcie linku w poście spowoduje, że opuszczą forum';
+$Definition['Weekly Email Digest '] = 'Cotygodniowe podsumowanie e-maili';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'Domyślnie będziemy starali się korzystać z lokalnego serwera poczty do wysyłania e-mail. Jeśli chcesz użyć oddzielnego serwera poczty SMTP, można skonfigurować go poniżej.
 ';
 $Definition['What\'s the Buzz?'] = 'Co to za Buzz?';
+$Definition['When enabled, search result will open in a new browser tab.'] = 'Po włączeniu wyniki wyszukiwania zostaną otwarte w nowej karcie przeglądarki.';
 $Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'Gdy to ustawienie jest włączone, dane użytkownika w danych Analytics będą domyślnie anonimizowane, dopóki użytkownik nie wyrazi zgody na pliki cookie Analytics. <0>Dowiedz się więcej</0>';
 $Definition['Why do you want to join?'] = 'Napisz dlaczego chcesz dołączyć do naszego forum?';
 $Definition['Will you be attending?'] = 'Czy weźmiesz udział?';

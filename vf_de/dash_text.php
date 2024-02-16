@@ -65,7 +65,6 @@ $Definition['Disable Google Sign In'] = 'Google Sign-In deaktivieren';
 $Definition['Disable OpenID'] = 'OpenID deaktivieren';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Diskussionskategorien sind sinnvoll, um deinen Benutzern zu helfen, Diskussionen in einer sinnvollen Art und Weise zu organisieren.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Forum-Admin-Dashboard nicht einbetten (in neuem Fenster öffnen)';
-$Definition['Don\'t use too many reactions.'] = 'Verwenden Sie nicht zu viele Reaktionen. Sie wollen Ihren Nutzern keine Informationsflut liefern.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Sortiere die Kategorien unten per drag and drop.';
 $Definition['EditContentTimeout.Notes'] = 'Hinweis: Wenn die Rolle eines Nutzers das Bearbeiten von Inhalten gestattet, dann wiegt dies höher als die hier gemachten Einstellungen.';
 $Definition['Edit Route'] = 'Route bearbeiten';
@@ -107,7 +106,6 @@ $Definition['Garden.StatisticsReadonly.Explain'] = 'Deine cofig.php-Datei schein
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'Um dieses Problem zu beheben, setze die Rechte der Datei conf/config.php per chmod auf 777.';
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Dies ist eine spezielle Rolle, die keine aktiven Sitzungen erlaubt. Daher sind die Rechteeinstellungen auf Rechte zur "Ansicht" eingeschränkt.';
-$Definition['Here are all of the reactions you can use on your site.'] = 'Hier sind alle Reaktionen, die Sie auf Ihrer Website verwenden können.';
 $Definition['Here are the ranks that users can achieve on your site.'] =
     'Hier sind die Rangstufen, die Benutzer auf Ihrer Website erreichen können. Sie können diese Ränge anpassen und sogar neue hinzufügen. Hier sind einige Tipps.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Wenn ein Bannerlogo hochgeladen wird, wird es das Logo ersetzen, das im Forumtitel angezeigt wird.';
@@ -151,6 +149,7 @@ $Definition['MobileLogoDescription'] =
     'Das Bannerlogo erscheint oben auf deiner Seite.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Mit mobilen Themen können Sie das Design Ihrer Website auf kleineren Geräten ändern.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Die meisten Communitys beschränken sich auf positive Reaktionen, um die Teilnahme zu fördern.';
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Verschachtelte Kategorien, die tiefer als diese Tiefe sind, werden in einer durch Kommata abgegrenzten Liste aufgeführt.
@@ -178,6 +177,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Quicklinks';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Kurzanleitung zur Erstellung von Themes für Vanilla';
 
+$Definition['Reactions Documentation'] = 'Dokumentation von Reaktionen';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Vergefertigtes Vanilla-Comment-Plugin für WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Vergefertigtes Vanilla-Comment-Plugin für WordPress';
 $Definition['Realtime progress bars: %s'] = 'Echtzeit-Ladebalken: %s';
@@ -282,14 +282,12 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Warnung</b>: Ihre Serverkonfiguration unterstützt kein schnelles Laden von Daten. Wenn Sie eine sehr große Datei (z.B. über 200.000 Kommentare) importieren, dann sollten Sie vielleicht in Erwägung ziehen, Ihre Konfiguration zu ändern. Klicken Sie <a href="http://vanillaforums.com/porter">hier</a> für weitere Informationen.';
 $Definition['Warning: This is for advanced users.'] = '<b>Warnung</b>: Dies ist für fortgeschrittene Benutzer und erfordert zusätzliche Änderungen an Ihrem Web-Server. Das ist normalerweise nur möglich, wenn Sie über ein dedicated oder vps-Hosting verfügen. Führen Sie keine Änderungen durch, wenn Sie nicht genau wissen, was Sie tun! ';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Wir empfehlen, jeweils 1-3 Reaktionen zu aktivieren, um die Nutzer nicht zu überfordern.';
 $Definition['Webhooks'] = 'Webhooks';
-$Definition['We recommend mostly positive reactions to encourage participation.'] = 'Wir empfehlen überwiegend positive Reaktionen, um zur Teilnahme zu ermutigen.';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Wenn diese Option aktiviert ist, können Benutzer wählen, ob sie Benachrichtigungen von der Community erhalten möchten.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Wenn aktiviert, können Sie diese Produkte und Sub-Communities nach diesen Produkten gruppieren.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Ob die internen Profilfelder in diesen Webhook aufgenommen werden oder nicht.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Ob die privaten Profilfelder in diesen Webhook aufgenommen werden oder nicht.';
-$Definition['Which reactions you use really depends on your community.'] =
-    'Welche Reaktionen Sie verwenden, hängt wirklich von Ihrer Community ab, aber wir empfehlen, ein paar Punkte zu beachten.';
 
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Sie können alle Benutzer mit einer IP-Adresse sperren, der „111.111.111“ vorangestellt ist, indem Sie eine Sperre des IP-Typs mit dem Wert „111.111.111.*“ hinzufügen.';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Sie können IP-Adressen, E-Mail-Adressen und Benutzernamen sperren.';

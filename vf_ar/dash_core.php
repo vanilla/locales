@@ -740,6 +740,7 @@ $Definition['Save Captured Definitions'] = 'حفظ التعريفات الملت
 $Definition['Save Colors'] = 'حفظ الألوان';
 $Definition['Score Count'] = 'عدد النقاط';
 $Definition['Search by user or role.'] = 'ابحث عن الأعضاء باستخدام الاسم أو البريد الإلكتروني، وكذلك بإمكانك استخدام % كبدل. وكذلك بإمكانك البحث باستخدام رقم العضوية، اسم المجموعة أو “محظور”.';
+$Definition['Search Result In New Tab'] = 'نتيجة البحث في علامة تبويب جديدة';
 $Definition['Search results of members'] = 'نتائج البحث للأعضاء';
 $Definition['SearchScope.Everywhere'] = 'في كل مكان';
 $Definition['seconds'] = 'ثواني';
@@ -778,6 +779,7 @@ $Definition['SSO roles are always passed through SSO.'] = 'يتم تمرير أ�
 $Definition['Start Discussions'] = 'كتابة مواضيع';
 $Definition['Start Private Conversations'] = 'بدء المحادثات الخاصة';
 $Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'ابدأ سطر موضوع الملخص مع تعيين [Banner Title] في المظهر > العلامة التجارية وتحسين محركات البحث';
+$Definition['Start typing username'] = 'ابدأ بكتابة اسم المستخدم';
 $Definition['State'] = 'الحالة';
 $Definition['Statistics'] = 'الإحصاء';
 $Definition['Strip Embeds'] = 'تضمين قطاع';
@@ -932,11 +934,13 @@ $Definition['Visit Site'] = 'زيارة الموقع';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'تحذير: ستفقد جميع بياناتك. بمجرد الحذف ، لا يوجد أي استرداد من أي نوع على الإطلاق.';
 $Definition['Warning: deleting is permanent'] = 'تحذير: تتم إزالة العناصر المحذوفة من هذه القائمة ولا يمكن إعادتها.';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'قم بتحذير المستخدمين إذا كان رابط في منشور سيؤدي بهم إلى مغادرة المنتدى';
+$Definition['Weekly Email Digest '] = 'ملخص البريد الإلكتروني الأسبوعي';
 $Definition['Welcome to Vanilla!'] = 'مرحبًا بكم في فانيلا!';
 $Definition['Welcome to your Dashboard'] = 'مرحبًا بك في لوحة التحكم';
 $Definition['We only accept urls that begin with http:// or https://'] = 'نقبل فقط عناوين url التي تبدأ بـ http: // أو https: //';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'سنحاول استخدام خادم البريد المحلي لإرسال البريد الإلكتروني افتراضيًا. إذا كنت ترغب في استخدام خادم بريد SMTP منفصل ، فيمكنك تكوينه أدناه.';
 $Definition['What\'s the Buzz?'] = 'ما هو طنين؟';
+$Definition['When enabled, search result will open in a new browser tab.'] = 'عند التمكين، سيتم فتح نتيجة البحث في علامة تبويب جديدة بالمتصفح.';
 $Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'عند تمكين هذا الإعداد ، سيتم إخفاء هوية تفاصيل المستخدم في بيانات Analytics افتراضيًا ، حتى يوافق المستخدم على ملفات تعريف ارتباط Analytics. <0> معرفة المزيد</0>';
 $Definition['Where is your Community Forum?'] = 'أين منتدى مجتمعك؟';
 $Definition['Why do you want to join?'] = 'لم تريد الانضمام؟';

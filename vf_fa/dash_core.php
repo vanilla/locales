@@ -766,6 +766,7 @@ $Definition['Save Captured Definitions'] = 'ذخيره تعاريف گرفته �
 $Definition['Save Colors'] = 'ذخيره رنگ ها';
 $Definition['Score Count'] = 'شمارش امتیاز';
 $Definition['Search by user or role.'] = 'جستجوی کاربر براساس نام یا ایمیل، بطور دلخواه میتوانید از کاراکتر  % برای جستجو استفاده کنید. همچنین میتوانید براساس شناسه کاربری ، نام یک نقش و یا  “محروم شده “ جستجوی خود را انجام دهید.';
+$Definition['Search Result In New Tab'] = 'نتیجه جستجو در برگه جدید';
 $Definition['Search results of members'] = 'نتایج جستجوی اعضا';
 $Definition['SearchScope.Everywhere'] = 'هر کجا';
 $Definition['seconds'] = 'ثانيه';
@@ -811,6 +812,7 @@ $Definition['SSO roles are always passed through SSO.'] = 'نقش SSO همیشه
 $Definition['Start Discussions'] = 'شروع گفتگو';
 $Definition['Start Private Conversations'] = 'مکالمات خصوصی را شروع کنید';
 $Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'خط موضوع خلاصه را با [عنوان بنر] تنظیم شده در Appearance > Branding & SEO شروع کنید';
+$Definition['Start typing username'] = 'شروع به تایپ نام کاربری کنید';
 $Definition['State'] = 'دولت';
 $Definition['Statistics'] = 'آمار انجمن';
 $Definition['Strip Embeds'] = 'نوارهای داخلی';
@@ -986,11 +988,13 @@ $Definition['Visit Site'] = 'مشاهده سايت';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'هشدار :‌ تمام اطلاعات شما از بين ميرود. هنگامي كه اطلاعات را حذف كنيد، مطلقاً اطلاعات به هيچ روشي بازيابي نخواهد شد.';
 $Definition['Warning: deleting is permanent'] = 'هشدار : آيتم هاي حذف شده از اين ليست پاك شده و نميتوان آنها را برگرداند.';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'اگر پیوندی در یک پست وجود دارد ، کاربران را به آنها اخطار دهید';
+$Definition['Weekly Email Digest '] = 'خلاصه ایمیل هفتگی';
 $Definition['Welcome to Vanilla!'] = 'به وانيلا خوش آمديد !';
 $Definition['Welcome to your Dashboard'] = 'به پيشخوان خود خوش آمديد';
 $Definition['We only accept urls that begin with http:// or https://'] = 'ما فقط آدرس وبي كه با پيشوند http:// يا https:// آغاز شده را تائيد ميكنيم';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'بصورت پيش فرض ما سعي ميكنيم از سرويس دهنده ايميل محلي جهت ارسال ايميل استفاده كنيم. اگر ميخواهيد از سرويس دهنده ايميل SMTP جداگانه اي استفاده نماييد، از زير ميتوانيد آن را پيكربندي كنيد.';
 $Definition['What\'s the Buzz?'] = 'ديگه چه خبر؟';
+$Definition['When enabled, search result will open in a new browser tab.'] = 'وقتی فعال باشد، نتیجه جستجو در یک برگه مرورگر جدید باز می شود.';
 $Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'وقتی این تنظیم فعال باشد، جزئیات کاربر در داده‌های Analytics به‌طور پیش‌فرض ناشناس می‌شوند، تا زمانی که کاربر با کوکی‌های Analytics موافقت کند. <0>بیشتر بیاموزید</0>';
 $Definition['Where is your Community Forum?'] = 'انجمن شما كجاست؟';
 $Definition['Who\'s Online Settings'] = 'تنظيمات كاربران آنلاين';

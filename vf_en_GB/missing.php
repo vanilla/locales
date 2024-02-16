@@ -98,7 +98,6 @@ $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to k
 $Definition['Deny Applicant'] = 'Deny';
 $Definition['Discussion Type'] = 'Discussion';
 $Definition['Display on category page only.'] = 'Display on category page only. Recent discussions list will not be affected.';
-$Definition['Don\'t use too many reactions.'] = 'Don\'t use too many reactions. You don\'t want to give your users information overload.';
 $Definition['DownloadLocalePack'] = 'Download';
 $Definition['Draft.Delete'] = 'Delete';
 
@@ -569,7 +568,6 @@ $Definition['We\'ve received a request to change your password.'] = 'We\'ve rece
 $Definition['Weekly Email Digest '] = 'Weekly Email Digest';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Welcome to Vanilla\'s theming UI. This page lists all of your available themes, and allows you to copy or edit them.';
 $Definition['when people have answered your question'] = 'when there has been a follow-up to your answered questions';
-$Definition['Which reactions you use really depends on your community.'] = 'Which reactions you use really depends on your community, but we recommend keeping a couple of points in mind.';
 
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">You\'ve asked questions that now have answers</a>. Make sure you accept/reject the answers.';
 $Definition['You are about to delete all of a user\'s content.'] = 'You are about to delete all of the content for {User.UserID,user}.';
