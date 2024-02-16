@@ -936,6 +936,7 @@ $Definition['UserDeleteMessage'] = 'Delete the user and completely remove all of
 $Definition['UserDeletionPrompt'] = 'Choose how to handle all of the content associated with the user account for %s (comments, messages, etc).';
 $Definition['UserKeep'] = 'Keep User Content';
 $Definition['UserKeepMessage'] = 'Delete the user but keep the user\'s content.';
+$Definition['Username'] = "Username";
 $Definition['Username or UserID to Spoof'] = 'Username or UserID to Spoof';
 $Definition['User Registration Settings'] = 'User Registration Settings';
 $Definition['User successfully added.'] = 'User successfully added.';
