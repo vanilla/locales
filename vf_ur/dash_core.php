@@ -766,6 +766,7 @@ $Definition['Save Captured Definitions'] = 'محفوظ شدہ تعریفیں م�
 $Definition['Save Colors'] = 'رنگ بچائیں';
 $Definition['Score Count'] = 'سکور کاؤنٹ';
 $Definition['Search by user or role.'] = 'اختیاری طور پر٪ کو بطور وائلڈ کارڈ استعمال کرکے نام یا ای میل کے ذریعہ صارفین کی تلاش کریں۔ آپ صارف کی شناخت ، کسی کردار کا نام ، یا "ممنوعہ" کے ذریعہ بھی تلاش کرسکتے ہیں۔';
+$Definition['Search Result In New Tab'] = 'تلاش کا نتیجہ نئے ٹیب میں';
 $Definition['Search results of members'] = 'ممبروں کے نتائج تلاش کریں';
 $Definition['SearchScope.Everywhere'] = 'ہر جگہ';
 $Definition['seconds'] = 'سیکنڈ';
@@ -812,6 +813,7 @@ $Definition['SSO roles are always passed through SSO.'] = 'ایس ایس او ک
 $Definition['Start Discussions'] = 'بحث شروع کریں';
 $Definition['Start Private Conversations'] = 'نجی گفتگو شروع کریں';
 $Definition['Start the digest subject line with the [Banner Title] set in Appearance > Branding & SEO'] = 'ظاہری شکل > برانڈنگ اور SEO میں سیٹ [بینر ٹائٹل] کے ساتھ ڈائجسٹ سبجیکٹ لائن شروع کریں۔';
+$Definition['Start typing username'] = 'صارف نام ٹائپ کرنا شروع کریں۔';
 $Definition['State'] = 'حالت';
 $Definition['Statistics'] = 'اعدادوشمار';
 $Definition['Strip Embeds'] = 'پٹی سرایت کرتی ہے';
@@ -986,11 +988,13 @@ $Definition['Visit Site'] = 'سائٹ ملاحظہ کریں';
 $Definition['Warning: All of your data will be lost. Once you delete, there is absolutely no recovery of any kind.'] = 'انتباہ: آپ کا سارا ڈیٹا ضائع ہو جائے گا۔ ایک بار جب آپ حذف کردیں تو ، کسی بھی طرح کی بازیابی بالکل نہیں ہے۔';
 $Definition['Warning: deleting is permanent'] = 'انتباہ: حذف شدہ اشیاء کو اس فہرست سے ہٹا دیا گیا ہے اور اسے واپس نہیں لایا جاسکتا ہے۔';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'صارفین کو متنبہ کریں کہ اگر کسی پوسٹ میں کوئی لنک ان کے فورم چھوڑنے کا سبب بنے گا';
+$Definition['Weekly Email Digest '] = 'ہفتہ وار ای میل ڈائجسٹ';
 $Definition['Welcome to Vanilla!'] = 'ونیلا میں خوش آمدید!';
 $Definition['Welcome to your Dashboard'] = 'آپ کے ڈیش بورڈ میں خوش آمدید';
 $Definition['We only accept urls that begin with http:// or https://'] = 'ہم صرف یو آر ایل کو قبول کرتے ہیں جو http: // یا https: // سے شروع ہوتے ہیں';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'ہم مقامی میل سرور کو بطور ڈیفالٹ ای میل بھیجنے کی کوشش کریں گے۔ اگر آپ علیحدہ ایس ایم ٹی پی میل سرور استعمال کرنا چاہتے ہیں تو ، آپ اسے نیچے تشکیل دے سکتے ہیں۔';
 $Definition['What\'s the Buzz?'] = 'بز کیا ہے؟';
+$Definition['When enabled, search result will open in a new browser tab.'] = 'فعال ہونے پر، تلاش کا نتیجہ ایک نئے براؤزر ٹیب میں کھل جائے گا۔';
 $Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'یہ ترتیب فعال ہونے پر، تجزیات کے ڈیٹا میں صارف کی تفصیلات کو بطور ڈیفالٹ گمنام رکھا جائے گا، جب تک کہ صارف Analytics کوکیز پر رضامندی نہ دے دے۔ <0>مزید جانیں۔</0>';
 $Definition['Where is your Community Forum?'] = 'آپ کا کمیونٹی فورم کہاں ہے؟';
 $Definition['Who\'s Online Settings'] = 'آن لائن سیٹنگ کون ہے؟';

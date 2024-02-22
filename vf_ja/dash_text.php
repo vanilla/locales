@@ -66,7 +66,6 @@ $Definition['Disable Google Sign In'] = 'Google アカウントでのログイ�
 $Definition['Disable OpenID'] = 'OpenID を無効化';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'ディスカッション カテゴリを使用すると、ユーザーが、コミュニティにとって意味のある方法でディスカッションを整理できます。';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'フォーラム管理ダッシュボードを組み込まないでください（全画面表示にします）';
-$Definition['Don\'t use too many reactions.'] = 'リアクションを使い過ぎないでください。ユーザーに過剰な情報を与える必要はありません。';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'カテゴリを並べ替えたりネストするには、この下のカテゴリをドラッグ & ドロップしてください。';
 $Definition['EditContentTimeout.Notes'] = '註: ユーザーが内容を編集できるロールに属している場合は、ここで選択する値よりもロールの設定の方が優先されます。';
 $Definition['Edit Route'] = 'ルートを編集する';
@@ -108,7 +107,6 @@ $Definition['Garden.StatisticsReadonly.Explain'] = 'config.phpファイルが読
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'この問題を解決するには、conf/config.phpファイルのモードを777に設定します。';
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '注意してください！これはアクティブなセッションには適用されない、特殊なロールです。そのため、権限のオプションは "表示" 権限のみに限定されています。';
-$Definition['Here are all of the reactions you can use on your site.'] = 'ここでは、サイトで使用できるすべてのリアクションを紹介します。';
 $Definition['Here are the ranks that users can achieve on your site.'] =
     'ユーザーがサイトで達成できるランクは次のとおりです。これらのランクをカスタマイズし、新しいランクを追加することもできます。いくつかヒントを紹介します。';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'バナー ロゴがアップロードされていると、ユーザーに表示されるフォーラム ページのバナー タイトルが置き換えられます。';
@@ -150,6 +148,7 @@ $Definition['MobileLogoDescription'] =
     'モバイル用バナーのロゴがサイトの上部に表示されます。';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'モバイル用テーマを使用すると、小さめのデバイス上でのサイトの外観と雰囲気を変更できます。';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'ほとんどのコミュニティは、参加を促すためにポジティブな反応に固執します。';
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'この深さより深いネストされたカテゴリーは、カンマ区切りのリストに配置されます。';
@@ -175,6 +174,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'クイックリンク';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'テーマ作成のためのクイック スタート ガイド (英語)';
 
+$Definition['Reactions Documentation'] = '反応に関するドキュメント';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'WordPress用の事前構築済みVanilla Forum Plugin';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'WordPress用の事前構築済みVanilla Forum Plugin';
 $Definition['Realtime progress bars: %s'] = 'リアルタイム進捗バー：%s';
@@ -277,14 +277,12 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>警告</b>：あなたのサーバー設定は高速データロードをサポートしていません。非常に大きなファイル（例：20万件以上のコメント）をインポートする場合は、設定の変更を検討したほうがいいかもしれません。詳細については、<a href="http://vanillaforums.com/porter">こちら</a>をクリックしてください。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：これは、高度なユーザー向けのもので、Webサーバーに対して追加の変更が必要です。通常、専用ホスティングまたはvpsホスティングを使用している場合にのみ利用できます。何をしようとしているか不明な場合は、試さないでください。';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'ユーザーに圧倒されないように、一度に1～3つの反応を有効にすることをお勧めします。';
 $Definition['Webhooks'] = 'Webhook';
-$Definition['We recommend mostly positive reactions to encourage participation.'] = '参加を促すために、主に肯定的なリアクションをお勧めします。';
 $Definition['When enabled, users may choose to receive notifications from the community'] = '有効にすると、ユーザーはコミュニティからの通知を受け取ることを選択できます';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = '有効にすると、製品を管理し、それらの製品ごとにサブコミュニティをグループ化できます。';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = '内部プロファイル フィールドがこの Webhook に含まれるかどうか。';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'プライベート プロファイル フィールドがこの Webhook に含まれるかどうか。';
-$Definition['Which reactions you use really depends on your community.'] =
-    'どのリアクションを実際に使用するかはあなたのコミュニティ次第ですが、いくつかの点に留意することをお勧めします。';
 
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = '「111.111.111.*」という値を持つIPタイプの禁止を追加することによって、プレフィックス「111.111.111」が付いたIPアドレスを持つすべてのユーザーを禁止できます。';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'IPアドレス、メールアドレス、およびユーザー名を禁止できます。';

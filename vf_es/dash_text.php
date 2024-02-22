@@ -65,7 +65,6 @@ $Definition['Disable Google Sign In'] = 'Desactivar Google Sign In';
 $Definition['Disable OpenID'] = 'Desactivar OpenID';
 $Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Las categorías de discusiones se usan para ayudar a tus usuarios a organizar sus discusiones de manera que sean importantes para tu comunidad.';
 $Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'No insertes el panel administrador de tu foro (ponlo en pantalla completa)';
-$Definition['Don\'t use too many reactions.'] = 'No utilices demasiadas reacciones. No quieres ofrecer a tus usuarios una sobrecarga de información.';
 $Definition['Drag and drop the categories below to sort and nest them.'] = 'Coge y suelta las categorías de abajo para ordenarlas y agruparlas.';
 $Definition['EditContentTimeout.Notes'] = 'Nota: Si un usuario tiene un rol que tiene permisos para editar contenido, esos permisos serán anulados por cualquier valor seleccionado aquí.';
 $Definition['Edit Route'] = 'Editar Ruta';
@@ -106,7 +105,6 @@ $Definition['Garden.StatisticsReadonly.Explain'] = 'Tu archivo config.php parece
 $Definition['Garden.StatisticsReadonly.Resolve'] = 'Para resolver este problema, asigna el modo de archivo 777 a tu archivo conf/config.php.';
 
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '¡Atención! Esta es una función especial que no permite sesiones activas. Por ello las opciones de permiso se han limitado para solo "ver" permisos.';
-$Definition['Here are all of the reactions you can use on your site.'] = 'Aquí están todas las reacciones que puedes emplear en este sitio.';
 $Definition['Here are the ranks that users can achieve on your site.'] =
     'Aquí están las categorías que los usuarios pueden conseguir en este sitio. Puedes personalizar estas categorías e incluso añadir otras nuevas. Aquí van algunas pistas.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si se sube el logotipo de un banner, éste sustituirá al título del banner en las páginas de foros interactivos.';
@@ -148,6 +146,7 @@ $Definition['MobileLogoDescription'] =
     'El logotipo del banner móvil aparece en la parte superior de su sitio.';
 $Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
     'Los temas móviles te permiten cambiar el aspecto y percepción de tu sitio en dispositivos más pequeños.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'La mayoría de las comunidades se centran en las valoraciones positivas para fomentar la participación.';
 
 $Definition['Nested categories deeper than this depth will be placed in a comma-delimited list.'] =
     'Las categorías anidadas a mayor profundidad se pondrán en una lista separada por comas.';
@@ -175,6 +174,7 @@ $Definition['Prevent spam on your forum by limiting the number of discussions &a
 $Definition['Quicklinks'] = 'Enlaces Rápidos';
 $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guía rápida para crear plantillas para Vanilla';
 
+$Definition['Reactions Documentation'] = 'Documentación de las reacciones';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Complemento de comentarios de Vanilla ya creados para WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Complemento de foro Vanilla ya creado para WordPress';
 $Definition['Realtime progress bars: %s'] = 'Barras de progreso en tiempo real: %s';
@@ -277,14 +277,12 @@ $Definition['Warning: Enabling this feature may cause Javascript errors on your 
 $Definition['Warning: Loading tables can be slow.'] =
     '<b>Advertencia</b>: La configuración de tu servidor no es compatible con la carga rápida de datos. Si estás importando un archivo muy grande (p. ej., con más de 200 000 comentarios) puede que quieras cambiar tu configuración. Haz clic <a href="http://vanillaforums.com/porter">aquí</a> para más información.';
 $Definition['Warning: This is for advanced users.'] = '<b>Advertencia</b>: Esto es para usuarios avanzados y requiere hacer cambios adicionales en el servidor de tu web. Normalmente está disponible solo si tienes un alojamiento VPS o dedicado. No intentes esto si no sabes lo que estás haciendo.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Recomendamos activar de 1 a 3 reacciones a la vez para no abrumar a los usuarios.';
 $Definition['Webhooks'] = 'Webhooks';
-$Definition['We recommend mostly positive reactions to encourage participation.'] = 'Recomendamos reacciones mayoritariamente positivas para animar a la participación.';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Cuando está activada, los usuarios pueden elegir recibir notificaciones de la comunidad';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Cuando se activa, puedes gestionar productos y agrupar las subcomunidades por esos productos.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Si los campos de perfil interno se incluirán o no en este webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Si los campos de perfil privado se incluirán o no en este webhook.';
-$Definition['Which reactions you use really depends on your community.'] =
-    'Las reacciones que puedes utilizar dependen de tu comunidad, pero recomendamos tener en cuenta algunos puntos.';
 
 $Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Puedes restringir a todos los usuarios con direcciones IP con prefijo "111.111.111" añadiendo una restricción de tipo de IP con el valor "*111.111.111*".';
 $Definition['You can ban IP addresses, email addresses and usernames.'] = 'Puedes restringir direcciones IP o de correo electrónico y nombres de usuarios.';
