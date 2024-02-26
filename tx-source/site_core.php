@@ -625,6 +625,7 @@ $Definition['Edit Fields'] = 'Edit Fields';
 $Definition['Edit Tag'] = 'Edit Tag';
 $Definition['Edit Thumbnail'] = 'Edit Thumbnail';
 $Definition['Edit Username'] = 'Edit Username';
+$Definition['Edit username'] = 'Edit username';
 $Definition['Eighth Anniversary'] = 'Eighth Anniversary';
 $Definition['Email'] = 'Email';
 $Definition['Emails'] = 'Emails';
