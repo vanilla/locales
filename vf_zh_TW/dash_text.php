@@ -131,8 +131,8 @@ $Definition['Global Styles'] = '整體風格';
 
 $Definition['Heads Up!'] = '注意！';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '請注意！這是一個不允許使用主控時程的特殊職務，因此權限已經設為僅限「閱覽」。';
-$Definition['Here are the ranks that users can achieve on your site.'] = '這是用戶可以在您的網站上獲得的排名。您可以自定義這些等級，甚至添加新等級。這裡有一些技巧。';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    '這是用戶可以在您的網站上獲得的排名。您可以自定義這些等級，甚至添加新等級。這裡有一些技巧。';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '如果用戶已上傳橫幅標誌，將會取代用戶端討論版頁面上的橫幅標題。';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = '如果用戶在此時間段內未訪問該站點，他們將被自動註銷。';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = '如果啟用，則帖子的全部內容將通過電子郵件通知發送給用戶。';
@@ -175,8 +175,11 @@ $Definition['Managing Users'] = '管理用戶';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = '標示為「非垃圾訊息」的內容，會重新在討論版上出現。';
 $Definition['Marking things as not spam will put them back in your forum.'] = '標示為「非垃圾訊息」的內容，會重新在討論版上出現。';
 $Definition['Messages can appear anywhere in your application.'] = '訊息可以在您應用程式中的任何地方出現，並且可以用於將新聞或活動內容告知用戶；請利用這個頁面，以上下拖放方式來重新整理訊息。';
-$Definition['MobileLogoDescription'] = '移動橫幅徽標出現在您網站的頂部。';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = '通過移動主題，您可以在較小的設備上更改網站的外觀。';
+$Definition['MobileLogoDescription'] =
+    '移動橫幅徽標出現在您網站的頂部。';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    '通過移動主題，您可以在較小的設備上更改網站的外觀。';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = '大多數社區堅持正面反應以鼓勵參與。';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB 新的佈局編輯器將繼承您的樣式指南（正式的主題編輯器）中設置的主題。 <1>了解更多</1>';
 $Definition['Need More Help?'] = '需要更多協助嗎？';
@@ -212,6 +215,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = '製作Vanilla
 $Definition['Quicklinks'] = '快速連結';
 $Definition['Quick Links is a default component on community pages.'] = '快速鏈接是社區頁面上的默認組件。啟用我們的新快速鏈接組件，以使用我們的主題編輯器添加、編輯或隱藏此菜單中的鏈接。';
 
+$Definition['Reactions Documentation'] = '反應記錄';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = '可供WordPress網站系統立即使用的Vanilla留言插件';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = '可供WordPress網站系統立即使用的Vanilla討論版插件';
 $Definition['Realtime progress bars: %s'] = '即時進度顯示：%s';
@@ -336,10 +340,8 @@ $Definition['Video tutorial on user registration'] = '關於用戶註冊的教�
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = '警告：啟用此功能可能會導致您的網站出現Javascript錯誤。';
 $Definition['Warning: Loading tables can be slow.'] = '<b>警告</b> ：您的服務器配置不支持快速數據加載。如果要導入非常大的文件（例如，超過200,000條註釋），則可能需要考慮更改配置。單擊<a href="http://vanillaforums.com/porter">此處</a>了解更多信息。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：本功能限進階用戶使用、並且需要您對網頁伺服器進行額外的調整，通常只在使用專屬伺服器或VPS時才會需要。如果您不知道這項功能的用法，請不要嘗試使用。';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = '我們建議一次啟用 1-3 個反應，以避免使用者過多。';
 $Definition['Webhooks'] = '網絡鉤子';
-$Definition['Welcome to Labs!'] = '歡迎來到實驗室！';
-$Definition['Welcome to Vanilla\'s theming UI.'] = '歡迎使用 Vanilla 的主題 UI。此頁面列出了所有可用的主題，並允許您複製或編輯它們。';
-$Definition['Welcome To Your Theme'] = '歡迎來到您的主題';
 $Definition['When enabled, users may choose to receive notifications from the community'] = '啟用後，用戶可以選擇接收來自社區的通知';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = '啟用後，您可以管理產品，並通過這些產品對子社區進行分組。';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = '當有人分享您網站的鏈接時，我們會嘗試從頁面中獲取圖像。如果頁面上沒有圖像，那麼我們將使用該圖像。圖片應至少為50×50，但我們建議為200×200。';

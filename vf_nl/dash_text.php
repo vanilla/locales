@@ -132,8 +132,8 @@ $Definition['Global Styles'] = 'Globale stijlen';
 $Definition['Heads Up!'] = 'Heads Up!
 ';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Let op! Dit is een speciale rol die actieve sessies niet toestaat. Voor deze reden zijn de permissieinstellingen beperkt tot "bekijk"-permissies.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Hier zijn de rangen die gebruikers van je site kunnen behalen. Je kan deze rangen aanpassen en zelfs nieuwe toevoegen. Hier zijn een aantal tips.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Hier zijn de rangen die gebruikers van je site kunnen behalen. Je kan deze rangen aanpassen en zelfs nieuwe toevoegen. Hier zijn een aantal tips.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Als een bannerlogo wordt geüpload zal het de bannertitel op forumpagina\'s voor gebruikers vervangen.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Als een gebruiker de site niet binnen deze periode bezoekt, wordt deze automatisch uitgelogd.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Wanneer ingeschakeld wordt de volledige inhoud van berichten naar gebruikers gestuurd als e-mail notificaties.';
@@ -174,8 +174,11 @@ $Definition['Managing Users'] = 'Gebruikers beheren';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Het markeren van dingen als GEEN spam zal ze terugzetten op je forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Het markeren van dingen als geen spam zal ze terugzetten op je forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Berichten kunnen overal in de applicatie verschijnen en kunnen worden ingezet om je gebruikers te informeren over nieuws en evenementen. Gebruik deze pagina om de berichten te ordenen door ze omhoog of omlaag te verslepen.';
-$Definition['MobileLogoDescription'] = 'Het mobiele bannerlogo verschijnt bovenaan uw site.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mobiele thema\'s staan je toe om de uitstraling en het gevoel van je site op kleinere apparaten aan te passen.';
+$Definition['MobileLogoDescription'] =
+    'Het mobiele bannerlogo verschijnt bovenaan uw site.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Mobiele thema\'s staan je toe om de uitstraling en het gevoel van je site op kleinere apparaten aan te passen.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'De meeste gemeenschappen houden vast aan positieve reacties om deelname aan te moedigen.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB De nieuwe Layout Editor zal de themaset in uw Style Guide (formeel thema-editor) erven. <1>Meer informatie</1>';
 $Definition['Need More Help?'] = 'Meer hulp nodig?';
@@ -211,6 +214,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Snelstartgids
 $Definition['Quicklinks'] = 'Snelkoppelingen';
 $Definition['Quick Links is a default component on community pages.'] = 'Snelkoppelingen is een standaardcomponent op communitypagina\'s. Schakel onze nieuwe Quick Links-component in om links in dit menu toe te voegen, te bewerken of te verbergen met behulp van onze thema-editor.';
 
+$Definition['Reactions Documentation'] = 'Reacties Documentatie';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Kant-en-klare Vanilla reactieplug-in voor WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Kant-en-klare Vanilla forumplug-in voor WordPress';
 $Definition['Realtime progress bars: %s'] = 'Actuele voortgangsbalken: %s';
@@ -336,9 +340,8 @@ $Definition['Video tutorial on user registration'] = 'Videotutorial voor gebruik
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Waarschuwing: Het toestaan van deze functies kan zorgen voor fouten in javascript op je pagina.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Waarschuwing</b>: uw serverconfiguratie ondersteunt het snel laden van gegevens niet. Als je een zeer groot bestand importeert (bijv. Meer dan 200.000 reacties), kan je overwegen je configuratie te wijzigen. Klik <a href="http://vanillaforums.com/porter">hier</a> voor meer informatie.';
 $Definition['Warning: This is for advanced users.'] = '<b>Waarschuwing</b>: Dit is voor geavanceerde gebruikers en vereist dat je extra aanpassingen doet aan je webserver. Dit is normaal gesproken alleen beschikbaar wanneer je VPS-hosting hebt. Probeer dit niet als je niet weet wat je aan het doen bent.';
-$Definition['Welcome to Labs!'] = 'Welkom bij Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Welkom bij de thema-UI van Vanilla. Op deze pagina staan al uw beschikbare thema\'s en kunt u ze kopiëren of bewerken.';
-$Definition['Welcome To Your Theme'] = 'Welkom bij jouw thema';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'We raden aan om 1-3 reacties tegelijk in te schakelen om overweldigende gebruikers te voorkomen.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Indien ingeschakeld, kunnen gebruikers ervoor kiezen om meldingen van de community te ontvangen';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Wanneer ingeschakeld, kan je producten beheren en kleine gemeenschappen groeperen op basis van die producten.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Wanneer iemand een link van je site deelt, proberen we een afbeelding van de pagina te halen. Als er geen afbeelding op de pagina staat, gebruiken we deze afbeelding. De afbeelding moet minimaal 50 × 50 zijn, maar we raden 200 × 200 aan.';

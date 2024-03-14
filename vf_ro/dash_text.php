@@ -130,8 +130,8 @@ $Definition['Global Styles'] = 'Stiluri globale';
 
 $Definition['Heads Up!'] = 'Atenție!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Atenție! Acesta este un rol special, care nu permite sesiuni active. Din acest motiv, opţiunile de permisiunea au fost limitate la "Vizualizare" ';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Iată rândurile pe care utilizatorii le pot atinge pe site-ul dvs. Puteți personaliza aceste rânduri și chiar adăuga altele noi. Iată câteva sfaturi.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Iată rândurile pe care utilizatorii le pot atinge pe site-ul dvs. Puteți personaliza aceste rânduri și chiar adăuga altele noi. Iată câteva sfaturi.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Dacă un logo pentru banner este încărcat, acesta va înlocui titlul banner-ului  pe pagina de forum a utilizatorului';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Dacă un utilizator nu vizitează site-ul în această perioadă de timp, acesta va fi deconectat automat.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Dacă este activat, conținutul complet al postărilor va fi trimis utilizatorilor prin notificări prin e-mail.';
@@ -173,8 +173,11 @@ $Definition['Managing Users'] = 'Gestionarea utilizatorilor';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Demarcarea Spam va pune elementele înapoi în forum';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Demarcarea Spam va pune elementele înapoi în forum';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesajele pot apărea oriunde în aplicaţia dumneavoastră, şi pot fi utilizate pentru a informa utilizatorii de ştiri şi evenimente. Utilizaţi această pagină pentru a reorganiza mesajele prin drag & drop';
-$Definition['MobileLogoDescription'] = 'Logo-ul bannerului mobil apare în partea de sus a site-ului dvs.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Temele mobile vă permit să schimbați aspectul site-ului dvs. pe dispozitive mai mici.';
+$Definition['MobileLogoDescription'] =
+    'Logo-ul bannerului mobil apare în partea de sus a site-ului dvs.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Temele mobile vă permit să schimbați aspectul site-ului dvs. pe dispozitive mai mici.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Majoritatea comunităților țin de reacții pozitive pentru a încuraja participarea.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Noul Editor de aspect va moșteni tema setată în Ghidul de stil (formal editor de teme). <1>Aflați mai multe</1>';
 $Definition['Need More Help?'] = 'Aveţi nevoie de mai mult ajutor?';
@@ -210,6 +213,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Ghid Quick-St
 $Definition['Quicklinks'] = 'Legături rapide';
 $Definition['Quick Links is a default component on community pages.'] = 'Link-uri rapide este o componentă implicită pe paginile comunității. Activați noua componentă Quick Links pentru a adăuga, edita sau ascunde linkuri din acest meniu utilizând editorul nostru de teme.';
 
+$Definition['Reactions Documentation'] = 'Documentația reacțiilor';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin Comentarii Vanilla pentru WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin Comentarii Vanilla pentru WordPress';
 $Definition['Realtime progress bars: %s'] = 'Bara de progres în timp real:%s';
@@ -331,9 +335,8 @@ $Definition['Video tutorial on user registration'] = 'Tutorial video pentru înr
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Avertisment: activarea acestei funcții poate provoca erori Javascript pe site-ul dvs.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Avertisment</b> : configurația serverului dvs. nu acceptă încărcarea rapidă a datelor. Dacă importați un fișier foarte mare (ex. Peste 200.000 de comentarii), poate doriți să luați în considerare schimbarea configurației. Faceți clic <a href="http://vanillaforums.com/porter">aici</a> pentru mai multe informații.';
 $Definition['Warning: This is for advanced users.'] = '<b>Avertisment</b>: acest lucru este pentru utilizatori avansaţi şi necesită să faceţi modificări suplimentare la serverul de web. Acest lucru este, de obicei, disponibil numai dacă aveți hosting dedicat sau vps. Nu încercaţi acest lucru dacă nu aveți cunoștințele necesare';
-$Definition['Welcome to Labs!'] = 'Bine ați venit la Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Bun venit la interfața de utilizare tematică a Vanilla. Această pagină listează toate temele disponibile și vă permite să le copiați sau să le editați.';
-$Definition['Welcome To Your Theme'] = 'Bine ați venit la tema dvs.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Vă recomandăm să activați 1-3 reacții odată pentru a evita copleșirea utilizatorilor.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Când este activat, utilizatorii pot alege să primească notificări de la comunitate';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Când este activat, puteți gestiona produsele și grupa subcomunitățile după aceste produse.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Când cineva distribuie un link de pe site-ul dvs., încercăm să luăm o imagine de pe pagină. Dacă nu există o imagine pe pagină, atunci vom folosi această imagine. Imaginea ar trebui să fie de cel puțin 50×50, dar vă recomandăm 200×200.';

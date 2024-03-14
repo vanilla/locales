@@ -130,8 +130,8 @@ $Definition['Global Styles'] = 'عالمی طرزیں';
 
 $Definition['Heads Up!'] = 'سر!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'سر! یہ ایک خاص کردار ہے جو فعال سیشنوں کی اجازت نہیں دیتا ہے۔ اس وجہ سے ، اجازت کے اختیارات "دیکھنے" کی اجازت تک ہی محدود کردیئے گئے ہیں۔';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'یہاں وہ درجات ہیں جو صارف آپ کی سائٹ پر حاصل کرسکتے ہیں۔ آپ ان درجات کو اپنی مرضی کے مطابق بنا سکتے ہیں اور یہاں تک کہ نئی فہرستیں شامل کرسکتے ہیں۔ یہاں کچھ نکات ہیں۔';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'یہاں وہ درجات ہیں جو صارف آپ کی سائٹ پر حاصل کرسکتے ہیں۔ آپ ان درجات کو اپنی مرضی کے مطابق بنا سکتے ہیں اور یہاں تک کہ نئی فہرستیں شامل کرسکتے ہیں۔ یہاں کچھ نکات ہیں۔';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'اگر بینر کا لوگو اپ لوڈ ہوتا ہے تو ، اس صارف کے سامنا والے فورم کے صفحات پر بینر کا عنوان بدل دے گا۔';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'اگر کوئی صارف اس مدت کے اندر سائٹ پر نہیں جاتا ہے تو وہ خود بخود سائن آؤٹ ہو جائے گا۔';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'فعال ہونے پر، پوسٹس کا مکمل مواد صارفین کو ای میل اطلاعات میں بھیج دیا جائے گا۔';
@@ -174,8 +174,11 @@ $Definition['Managing Users'] = 'صارفین کا انتظام کرنا';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'چیزوں کو اسپام کے بطور نشان زد کرنے سے وہ آپ کے فورم میں واپس آجائیں گی۔';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'چیزوں کو اسپام کے بطور نشان زد کرنے سے وہ آپ کے فورم میں واپس آجائیں گی۔';
 $Definition['Messages can appear anywhere in your application.'] = 'پیغامات آپ کی درخواست میں کہیں بھی ظاہر ہوسکتے ہیں ، اور آپ کے صارفین کو خبروں اور واقعات سے آگاہ کرنے کے لئے استعمال ہوسکتے ہیں۔ اپنے پیغامات کو اوپر یا نیچے گھسیٹ کر دوبارہ منظم کرنے کے لئے اس صفحے کا استعمال کریں۔';
-$Definition['MobileLogoDescription'] = 'موبائل بینر کا لوگو آپ کی سائٹ کے سب سے اوپر ظاہر ہوتا ہے۔';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'موبائل تھیمز آپ کو چھوٹے آلات پر اپنی سائٹ کی شکل اور شکل تبدیل کرنے کی سہولت دیتے ہیں۔';
+$Definition['MobileLogoDescription'] =
+    'موبائل بینر کا لوگو آپ کی سائٹ کے سب سے اوپر ظاہر ہوتا ہے۔';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'موبائل تھیمز آپ کو چھوٹے آلات پر اپنی سائٹ کی شکل اور شکل تبدیل کرنے کی سہولت دیتے ہیں۔';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'زیادہ تر کمیونٹیز شرکت کی حوصلہ افزائی کے لیے مثبت ردعمل پر قائم رہتی ہیں۔';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB نیا لے آؤٹ ایڈیٹر آپ کے اسٹائل گائیڈ (رسمی طور پر تھیم ایڈیٹر) میں سیٹ کردہ تھیم کا وارث ہوگا۔ <1>مزید جانیں۔</1>';
 $Definition['Need More Help?'] = 'مزید مدد کی ضرورت ہے؟';
@@ -211,6 +214,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'ونیلا ک
 $Definition['Quicklinks'] = 'فوری رابطے';
 $Definition['Quick Links is a default component on community pages.'] = 'کوئیک لنکس کمیونٹی پیجز پر ڈیفالٹ جزو ہے۔ ہمارے تھیم ایڈیٹر کا استعمال کرتے ہوئے اس مینو سے روابط کو شامل ، ترمیم یا چھپانے کے لیے ہمارے نئے کوئیک لنکس جزو کو فعال کریں۔';
 
+$Definition['Reactions Documentation'] = 'رد عمل کی دستاویزات';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'ورڈپریس کے لئے تیار میڈ ونیلہ تبصرے پلگ ان';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'ورڈپریس کے لئے تیار میڈ وینیلا فورم پلگ ان';
 $Definition['Realtime progress bars: %s'] = 'ریئل ٹائم پروگریس بار: %s';
@@ -335,10 +339,8 @@ $Definition['Video tutorial on user registration'] = 'صارف کے اندراج
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'انتباہ: اس خصوصیت کو فعال کرنے سے آپ کی ویب سائٹ پر جاوا اسکرپٹ کی خرابیاں ہوسکتی ہیں۔';
 $Definition['Warning: Loading tables can be slow.'] = '<b>انتباہ</b> : آپ کی سرور ترتیب میں فاسٹ ڈیٹا لوڈنگ کا تعاون نہیں ہے۔ اگر آپ بہت بڑی فائل درآمد کر رہے ہیں (جیسے 200،000 تبصرے) تو آپ اپنی تشکیل تبدیل کرنے پر غور کرنا چاہتے ہو۔ مزید معلومات کے لئے <a href="http://vanillaforums.com/porter">یہاں</a> کلک کریں۔';
 $Definition['Warning: This is for advanced users.'] = '<b>انتباہ</b> : یہ اعلی درجے کی صارفین کے لئے ہے اور اس کی ضرورت ہے کہ آپ اپنے ویب سرور میں اضافی تبدیلیاں کریں۔ یہ عام طور پر صرف اس صورت میں دستیاب ہوتا ہے جب آپ کے پاس وقف شدہ یا وی پی ایس ہوسٹنگ ہو۔ اگر آپ نہیں جانتے کہ آپ کیا کر رہے ہیں تو اس کی کوشش نہ کریں۔';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'ہم ایک وقت میں 1–3 رد عمل کو فعال کرنے کی تجویز کرتے ہیں تاکہ زیادہ صارفین سے بچا جا سکے۔';
 $Definition['Webhooks'] = 'ویب ہکس۔';
-$Definition['Welcome to Labs!'] = 'لیبز میں خوش آمدید!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'ونیلا کے تھیمنگ UI میں خوش آمدید۔ یہ صفحہ آپ کے تمام دستیاب تھیمز کی فہرست دیتا ہے، اور آپ کو ان کی کاپی یا ترمیم کرنے کی اجازت دیتا ہے۔';
-$Definition['Welcome To Your Theme'] = 'آپ کے تھیم میں خوش آمدید';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'فعال ہونے پر، صارفین کمیونٹی سے اطلاعات موصول کرنے کا انتخاب کر سکتے ہیں۔';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'فعال ہونے پر ، آپ ان مصنوعات کے ذریعہ مصنوعات ، اور گروپ ذیلی کمیونٹیوں کا نظم کرسکتے ہیں۔';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'جب کوئی آپ کی سائٹ سے کوئی لنک شیئر کرتا ہے تو ہم کوشش کرتے ہیں اور پیج سے ایک تصویر لے لیں۔ اگر صفحے پر کوئی تصویر نہیں ہے تو ہم اس کی بجائے اس کی تصویر استعمال کریں گے۔ تصویر کم از کم 50 × 50 ہونی چاہئے ، لیکن ہم 200 × 200 کی سفارش کرتے ہیں۔';

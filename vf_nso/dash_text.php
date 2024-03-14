@@ -131,8 +131,8 @@ $Definition['Global Styles'] = 'Ditaele tša Lefase ka Bophara';
 
 $Definition['Heads Up!'] = 'Dihlogo Di Godimo!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Sebatakgomo! Ye ke tema e kgethegilego yeo e sa dumelelego dikarolo tše di šomago. Ka baka leo, karolo ya tumelelo e lekanyeditšwe gore go "bonwe" ditumelelo.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Maemo ao badiriši ba ka a fihlelelago setšeng sa gago ke a. O ka ikgethela maemo a gaešita le go oketša a mafsa. Maele a mangwe ke a.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Maemo ao badiriši ba ka a fihlelelago setšeng sa gago ke a. O ka ikgethela maemo a gaešita le go oketša a mafsa. Maele a mangwe ke a.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Ge e ba leswao la sehlogo le tsentšwe, e tla tšea legato la leswao la sehlogo go matlakala a foramo ya modiriši.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Ge modiriši a sa etele sebaka mo nakong ye ya nako ba tla tšwa ka go iketla.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Ge e kgontšhitšwe, diteng ka botlalo tša dipolelo di tla romelwa ka ditsebišo tša imeile go badiriši.';
@@ -175,8 +175,11 @@ $Definition['Managing Users'] = 'Go Laola Badiriši';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Go swaya dilo gore GA SE ditšhila go tla di bušetša morago foramong ya gago.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Go swaya dilo gore ga se ditšhila go tla di bušetša morago foramong ya gago.';
 $Definition['Messages can appear anywhere in your application.'] = 'Melaetša e ka tšwelela kae goba kae kgopelong ya gago, e bile e ka dirišetšwa go botša badiriši ba gago ka ditaba le ditiragalo. Diriša letlakala le go rulaganya lefsa melaetša ya gaog ka go e gogela godimo goba fase.';
-$Definition['MobileLogoDescription'] = 'Letshwao la banner ya sellathekeng le tšwelela ka godimo ga sebaka sa gago.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Dihlogo tša sellathekeng di go dumelela go fetoša ponagalo le maikutlo a sebaka sa gago go didirišwa tše nnyane.';
+$Definition['MobileLogoDescription'] =
+    'Letshwao la banner ya sellathekeng le tšwelela ka godimo ga sebaka sa gago.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Dihlogo tša sellathekeng di go dumelela go fetoša ponagalo le maikutlo a sebaka sa gago go didirišwa tše nnyane.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Bontši bja ditšhaba di kgomarela dikarabelo tše botse go hlohleletša go tšea karolo.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Morulaganyi yo mofsa wa Peakanyo o tla ja bohwa bja sete ya sehlogo ka go Tlhahlo ya gago ya Setaele (semmušo morulaganyi wa sehlogo). <1>Hwetša dintlha ka botlalo</1>';
 $Definition['Need More Help?'] = 'Na o Nyaka Thušo e Oketšegilego?';
@@ -212,6 +215,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Tlhahlo ya go
 $Definition['Quicklinks'] = 'Dikgokagano tša ka pela';
 $Definition['Quick Links is a default component on community pages.'] = 'Dikgokagano tša Kapejana ke karolo ya go se fetoge matlakaleng a setšhaba. Kgontšha karolo ya rena ye mpsha ya Dikgokagano tša Kapejana go oketša, go rulaganya goba go uta dikgokagano go tšwa go thepo ye ka go šomiša morulaganyi wa rena wa sehlogo.';
 
+$Definition['Reactions Documentation'] = 'Dikarabelo Ditokomane';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ditlhaloso tša Vanilla Yeo e Dirilwego ya go Hloma Kuranta';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Foramo ya Vanilla Yeo e Dirilwego ya go Hloma Kuranta';
 $Definition['Realtime progress bars: %s'] = 'Dipara tša kgatelopele ya kgonthe: %s';
@@ -336,10 +340,8 @@ $Definition['Video tutorial on user registration'] = 'Thuto ya bidio boingwadiš
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Temošo: Go kgontšha tšobotsi ye go ka baka diphošo tša Javascript saeteng ya gago.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Temošo</b> : Peakanyo ya gago ya seva ga e thekge go laetša datha ka lebelo. Ge o tsenya faele ye kgolo kudu (mohlala, ditshwayotshwayo tša go feta 200,000) o ka nyaka go nagana ka go fetoša peakanyo ya gago. Tobetsa <a href="http://vanillaforums.com/porter">mo</a> go hwetša tshedimošo ka botlalo.';
 $Definition['Warning: This is for advanced users.'] = '<b>Temošo</b>: Se ke bakeng sa badiriši bao ba gatetšego pele gomme se nyaka gore o dire diphetogo tše di oketšegilego bakeng sa go thuša sebara ya gago ya wepesaete. Gantši se se hwetšwa feela ge o neetše goba o le go kamogelo ya vps. O se ke wa leka go dira se ge e ba o sa se tsebe.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Re kgothaletša go kgontšha dikarabelo tše 1-3 ka nako go efoga badiriši ba go gateletša.';
 $Definition['Webhooks'] = 'Dihuku tša Wepesaete';
-$Definition['Welcome to Labs!'] = 'Re a go amogela go Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Re a go amogela go UI ya theming ya Vanilla. Letlakala le le lokeletša dihlohlo tša gago ka moka tše di lego gona, gomme le go dumelela go di kopiša goba go di rulaganya.';
-$Definition['Welcome To Your Theme'] = 'O Amogetšwe Go Sehlogo sa Gago';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Ge e kgontšhitšwe, badiriši ba ka kgetha go amogela ditsebišo go tšwa setšhabeng';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Ge o kgontšhitšwe, o ka laola ditšweletšwa, le go hlopha ditšhaba tše nnyane ka ditšweletšwa tšeo.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Ge motho a abelana kgokagano go tšwa saeteng ya gago re leka go tšea seswantšho go tšwa letlakaleng. Ge go se na seswantšho letlakaleng gona re tla šomiša seswantšho se go e na le moo. Setšoantšo se lokela ho ba bonyane 50 × 50, empa re khothalletsa 200 × 200.';

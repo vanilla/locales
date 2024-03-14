@@ -67,8 +67,9 @@ $Definition['Deleting forever cannot be undone.'] = 'Deleting is a good way to k
 $Definition['Digest Settings'] = 'Ustawienia podsumowania';
 $Definition['Disable Google Sign In'] = 'Wyłącz logowanie w Google';
 $Definition['Disable OpenID'] = 'Wyłącz OpenID';
-$Definition['Disable the "New Embed System" lab on the <0>Vanilla Labs Page</0>'] = 'Wyłącz laboratorium „Nowy system osadzania” na stronie <0>Vanilla Labs</0>';
-
+$Definition['Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.'] = 'Discussion categories are used to help your users organize their discussions in a way that is meaningful for your community.';
+$Definition['Don\'t embed your forum admin dashboard (pop it out to full-screen)'] = 'Don\'t embed your forum admin dashboard (pop it out to full-screen)';
+$Definition['Drag and drop the categories below to sort and nest them.'] = 'Drag and drop the categories below to sort and nest them.';
 $Definition['EditContentTimeout.Notes'] = 'Uwaga: Jeśli użytkownik jest w roli, która uprawnia do edycji treści, te uprawnienia nadpiszą każdą wartość zaznaczoną tutaj.';
 $Definition['Edits to this theme apply to:'] = 'Zmiany w tym temacie dotyczą:';
 $Definition['Email digests will be sent on the selected day every week.'] = 'Podsumowanie e-mailem będzie wysyłane w wybrany dzień każdego tygodnia.';
@@ -111,6 +112,10 @@ $Definition['Global Styles'] = 'Globalne style';
 $Definition['Heads Up!'] = 'Głowa do góry!';
 $Definition['Here are the ranks that users can achieve on your site.'] = 'Oto stopnie, które użytkownicy mogą osiągnąć w Twojej witrynie. Możesz dostosować te stopnie, a nawet dodać nowe. Oto kilka porad.';
 
+$Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.';
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Oto stopnie, które użytkownicy mogą osiągnąć w Twojej witrynie. Możesz dostosować te stopnie, a nawet dodać nowe. Oto kilka porad.';
+$Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Jeśli użytkownik nie odwiedzi witryny w tym czasie, zostanie automatycznie wylogowany.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Jeśli ta opcja jest włączona, pełna treść postów będzie wysyłana w powiadomieniach e-mail do użytkowników.';
 $Definition['If you are new to HTML and/or CSS, here are some tutorials to get you started:'] = 'Jeśli dopiero zaczynasz korzystać z HTML i / lub CSS, oto kilka samouczków na początek:';
@@ -142,8 +147,11 @@ $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s"
 $Definition['Manage Routes'] = 'Zarządzanie trasami';
 $Definition['Managing Users'] = 'Zarządzanie użytkownikami';
 $Definition['Messages can appear anywhere in your application.'] = 'Wiadomości mogą pojawić się gdziekolwiek w aplikacji, i mogą być wykorzystywane do informowania użytkowników o nowościach i wydarzeniach. Użyj tej strony do ponownego uporządkowania wiadomości, przeciągając je w górę lub w dół.';
-$Definition['MobileLogoDescription'] = 'Logo baneru na telefon komórkowy pojawia się u góry witryny.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Motywy mobilne umożliwiają zmianę wyglądu witryny na mniejszych urządzeniach.';
+$Definition['MobileLogoDescription'] =
+    'Logo baneru na telefon komórkowy pojawia się u góry witryny.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Motywy mobilne umożliwiają zmianę wyglądu witryny na mniejszych urządzeniach.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Większość społeczności trzyma się pozytywnych reakcji, aby zachęcić do uczestnictwa.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Nowy edytor układu odziedziczy motyw ustawiony w twoim Przewodniku stylów (formalnie edytor motywów). <1>Dowiedz się więcej</1>';
 $Definition['Need more help?'] = 'Potrzebujesz więcej pomocy?';
@@ -175,6 +183,14 @@ $Definition['Primary Buttons'] = 'Główne przyciski';
 $Definition['Quicklinks'] = 'Szybkie linki';
 $Definition['Quick Links is a default component on community pages.'] = 'Szybkie linki to domyślny komponent na stronach społeczności. Włącz nasz nowy komponent Quick Links, aby dodawać, edytować lub ukrywać linki z tego menu za pomocą naszego edytora motywów.';
 
+$Definition['Reactions Documentation'] = 'Dokumentacja reakcji';
+$Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ready-made Vanilla Comments Plugin for WordPress';
+$Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ready-made Vanilla Forum Plugin for WordPress';
+$Definition['Realtime progress bars: %s'] = 'Realtime progress bars: %s';
+$Definition['Recommend special ranks for admins and mods.'] =
+    'Dobrym pomysłem jest posiadanie specjalnych rang dla moderatorów i administratorów, aby Twoja społeczność mogła łatwo sprawdzić, kto jest odpowiedzialny.';
+$Definition['Recommend starting with five ranks.'] =
+    'Nie chcesz mieć zbyt wielu rang. Zalecamy zacząć od piątej. Możesz dodać więcej, jeśli Twoja społeczność jest naprawdę duża.';
 $Definition['Recommended dimensions are about 400px by 300px or smaller with similar ratio.'] = 'Zalecane wymiary to około 400 na 300 pikseli lub mniejsze przy podobnym współczynniku.';
 $Definition['Recommend special ranks for admins and mods.'] = 'Dobrym pomysłem jest posiadanie specjalnych rang dla moderatorów i administratorów, aby Twoja społeczność mogła łatwo sprawdzić, kto jest odpowiedzialny.';
 $Definition['Recommend starting with five ranks.'] = 'Nie chcesz mieć zbyt wielu rang. Zalecamy zacząć od piątej. Możesz dodać więcej, jeśli Twoja społeczność jest naprawdę duża.';
@@ -235,6 +251,153 @@ $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an
 $Definition['They work just like regular themes. Once one has been added to the themes folder, you can enable it here.'] = 'Działają jak zwykłe motywy. Po dodaniu jednego do folderu motywów możesz włączyć go tutaj.';
 $Definition['This is a style guide of your theme.'] = 'To jest przewodnik po Twoim stylu. Zawiera przykłady elementów wizualnych używanych w całej aplikacji. Możesz kliknąć różne widżety, takie jak pasek tytułu <0> </0> lub <1> Baner </1> edytować ich właściwości w panelu bocznym.';
 $Definition['This is the administrative dashboard for your new community.'] = 'To jest panel administracyjny nowej społeczności. Sprawdź opcje konfiguracji z boku. Stamtąd możesz skonfigurować działanie swojej społeczności. <b>Domyślnie tylko użytkownicy z roli "Administrator" widzą tę część społeczności.</b>';
+$Definition['This may be used to include content such as organization name and address in all outgoing emails.'] = 'Można to wykorzystać do dołączenia treści, takich jak nazwa i adres organizacji, do wszystkich wychodzących wiadomości e-mail.';
+$Definition['This option shows/hides the locations where pockets can go.'] = 'This option shows/hides the locations where pockets can go, but only for users that have permission to add/edit pockets. Try showing the locations and then visit your site.';
+$Definition['This page lists the endpoints of your API.'] =
+    'Ta strona zawiera listę punktów końcowych interfejsu API. Kliknij punkty końcowe, aby uzyskać więcej informacji. Możesz wykonywać połączenia na żywo do interfejsu API z tej strony lub zewnętrznie za pomocą tokena dostępu.';
+$Definition['This role is personal info. Only users with permission to view personal info will see it.'] =
+    'Ta rola to dane osobowe. Tylko użytkownicy posiadający uprawnienia do przeglądania danych osobowych będą je widzieć.';
+$Definition['This setting loads the page before executing Javascript.'] =
+    'To ustawienie ładuje stronę przed wykonaniem kodu JavaScript, co może poprawić SEO.<br><strong>**Ostrzeżenie: Włączenie tej funkcji może spowodować błędy JavaScript w witrynie.**</strong>';
+$Definition['Tiled Layout'] = 'Układ kafelkowy';
+$Definition['To embed your Vanilla forum into your web site, use the following code.'] = 'To embed your Vanilla forum into your web site, use the following code.';
+$Definition['Too many addresses! We\'ll send up to %s addresses at once.'] = 'Za dużo adresów! Wyślemy na adres %s naraz.';
+$Definition['To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.'] = 'To prevent abuse, some tools automatically hide content and list it here until it is manually approved by a moderator.';
+$Definition['TouchIconDescription'] =
+    'Ikona dotykowa pojawia się po dodaniu do zakładek strony internetowej na ekranie głównym urządzenia Apple. Zazwyczaj są to 152 piksele. Apple automatycznie dodaje zaokrąglone rogi i efekt świetlny.';
+$Definition['Twitter Connect allows users to sign in using their Twitter account.'] = 'Twitter Connect umożliwia użytkownikom logowanie się przy użyciu swojego konta na Twitterze. <b>Musisz zarejestrować swoją aplikację na Twitterze by ten plugin mógł działać.</b>';
+
+$Definition['Use the button at the top of the page to create a ban rule.'] = 'Użyj przycisku u góry strony, aby utworzyć regułę banowania.';
+$Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
+$Definition['Users may sign into your site using their Twitter account.'] = 'Użytkownicy mogą zalogować się do Twojej witryny przy użyciu konta na Twitterze.';
+$Definition['User Profile'] = 'Profil użytkownika';
+$Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla Export: %s, Source: %s';
+$Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics are currently disabled';
+$Definition['Verify and restore'] = 'Sprawdź i przywróć';
+$Definition['VerifyUser'] = 'Zaznacz pole obok użytkownika, aby oznaczyć go jako <b>zweryfikowanego,</b> aby jego posty nie były ponownie oznaczane jako spam. Spowoduje to również przywrócenie wszystkich oczekujących postów.';
+$Definition['Video tutorial on advanced settings'] = 'Video tutorial on advanced settings';
+$Definition['Video tutorial on finding &amp; managing users'] = 'Video tutorial on finding & managing users';
+$Definition['Video tutorial on managing appearance'] = 'Video tutorial on managing appearance';
+$Definition['Video tutorial on managing categories'] = 'Video tutorial on managing categories';
+$Definition['Video tutorial on managing roles &amp; permissions'] = 'Video tutorial on managing roles & permissions';
+$Definition['Video tutorial on user registration'] = 'Video tutorial on user registration';
+
+$Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Ostrzeżenie: włączenie tej funkcji może powodować błędy Javascript w Twojej witrynie.';
+$Definition['Warning: Loading tables can be slow.'] =
+    '<b>Ostrzeżenie</b> : konfiguracja serwera nie obsługuje szybkiego ładowania danych. Jeśli importujesz bardzo duży plik (np. Ponad 200 000 komentarzy), możesz rozważyć zmianę konfiguracji. Kliknij <a href="http://vanillaforums.com/porter">tutaj,</a> aby uzyskać więcej informacji.';
+$Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is for advanced users and requires that you make additional changes to your web server. This is usually only available if you have dedicated or vps hosting. Do not attempt this if you do not know what you are doing.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Zalecamy włączenie 1–3 reakcji na raz, aby uniknąć przytłaczania użytkowników.';
+$Definition['Webhooks'] = 'Webhooki';
+$Definition['When enabled, users may choose to receive notifications from the community'] = 'Po włączeniu użytkownicy mogą zdecydować się na otrzymywanie powiadomień od społeczności';
+$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Po włączeniu możesz zarządzać produktami i grupować społeczności podrzędne według tych produktów.';
+$Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Określa, czy wewnętrzne pola profilu zostaną uwzględnione w tym webhooku.';
+$Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Określa, czy pola profilu prywatnego zostaną uwzględnione w tym webhooku.';
+
+$Definition['You can ban all users with an IP addresses prefixed with "111.111.111" by adding an IP-type ban with the value "111.111.111.*".'] = 'Można zbanować wszystkich użytkowników z adresami IP o prefiksie 111.111.111, dodając ban typu IP o wartości 111.111.111.*.';
+$Definition['You can ban IP addresses, email addresses and usernames.'] = 'Można zbanować adresy IP, adresy mailowe i nazwy użytkownika.';
+$Definition['You can choose from one of the different styles this theme offers.'] = 'Możesz wybrać jeden z różnych stylów oferowanych przez ten motyw.';
+$Definition['You can connect to multiple sites that support jsConnect.'] = 'You can connect to multiple sites that support jsConnect.';
+$Definition['You can place files in your /uploads folder.'] = 'Jeśli Twój plik jest zbyt duży, aby przesłać go bezpośrednio na tę stronę, możesz umieścić go w folderze / uploads. Upewnij się, że nazwa pliku zaczyna się od słowa <b>eksport</b> i kończy się na jednym z <b>.txt, .gz</b>.';
+$Definition['You can specify a minimum post length to discourage short posts.'] = 'Możesz określić minimalną długość postu, aby zniechęcić do krótkich postów.';
+$Definition['You must select a file to import.'] = 'You must select a file to import.';
+$Definition['You are about to apply a new layout option. This can be customized and previewed using our Theme Editor. <0>Learn more</0>.'] = 'Zamierzasz zastosować nową opcję układu. Można to dostosować i wyświetlić podgląd za pomocą naszego edytora motywów. <0>Dowiedz się więcej</0> .';
+
+$Definition["The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines."] = "The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.";
+$Definition["The site description usually appears in search engines. You should try having a description that is 100-150 characters long."] = "Opis strony zwykle pojawia się w wyszukiwarkach. Postaraj się, aby opis miał 100-150 znaków.";
+$Definition["This title appears on your site's banner and in your browser's title bar. If a logo is uploaded, it will replace this title on user-facing forum pages. Also, keep in mind some themes may hide this title."] = "Tytuł ten pojawia się na banerze Twojej witryny i na pasku tytułu przeglądarki. Jeśli logo zostanie przesłane, zastąpi ono ten tytuł na stronach forum wyświetlanych użytkownikom. Pamiętaj też, że niektóre motywy mogą ukrywać ten tytuł.";
+$Definition["Your organization name is used for SEO microdata and JSON+LD"] = "Nazwa Twojej organizacji jest wykorzystywana do JSON+LD i mikrodanych SEO";
+$Definition["This logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "To logo pojawia się u góry Twojej witryny. Motywy utworzone za pomocą edytora motywów i niektóre motywy niestandardowe nie korzystają z tego ustawienia.";
+$Definition["The mobile logo appears at the top of your site. Themes made with the theme editor and some custom themes don't use this setting."] = "Logo na telefon komórkowy pojawia się u góry Twojej witryny. Motywy utworzone za pomocą edytora motywów i niektóre motywy niestandardowe nie korzystają z tego ustawienia.";
+$Definition["Your site's favicon appears in your browser's title bar. It will be scaled down appropriately."] = "Favicon Twojej witryny jest wyświetlany na pasku tytułowym przeglądarki. Zostanie odpowiednio zmniejszony.";
+$Definition["The touch icon appears when you bookmark a website on the homescreen of a mobile device. These are usually 152 pixels."] = "Ikona dotykowa pojawia się, gdy dodajesz zakładkę do witryny na ekranie głównym urządzenia mobilnego. Są to zwykle 152 piksele.";
+$Definition["When someone shares a link from your site we try and grab an image from the page. If there isn't an image on the page then we'll use this image instead. The image should be at least 50×50, but we recommend 200×200."] = "Gdy ktoś udostępnia link z Twojej witryny, próbujemy pobrać obraz ze strony. Jeśli na stronie nie ma obrazu, użyjemy go zamiast tego. Obraz powinien mieć co najmniej 50 × 50, ale zalecamy 200 × 200.";
+$Definition["Some browsers support a color for the address bar."] = "Niektóre przeglądarki obsługują kolor paska adresu.";
+$Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "To ustawienie wczytuje stronę przed wykonaniem JavaScriptu, co może poprawić Twoje SEO.";
+$Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Ostrzeżenie: włączenie tej funkcji może spowodować błędy JavaScript w Twojej witrynie.**";
+$Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Usuń linki do dyskusji i kategorii z menu. Ustaw strony związane z dyskusją i kategoriami, aby zwracały nie znaleziono strony 404.";
+
+
+
+///
+/// Theming UI
+///
+
+// Theme Chooser
+$Definition["Your mobile theme will be disabled."] = "Twój motyw mobilny zostanie wyłączony. Aby ustawić różne motywy mobilne i stacjonarne, użyj starego interfejsu tematycznego.";
+$Definition["Heads Up!"] = "Głowa do góry!";
+$Definition["Welcome to Vanilla's theming UI."] = "Witamy w interfejsie użytkownika Vanilla. Ta strona zawiera listę wszystkich dostępnych motywów i umożliwia ich kopiowanie lub edytowanie.";
+$Definition["Some older themes don't support full editing capability."] = "Niektóre starsze motywy nie obsługują pełnych możliwości edycji. Aby zobaczyć, co obsługuje motyw, możesz najechać kursorem na jego nazwę, aby zobaczyć, gdzie zmiany zaczną obowiązywać.";
+$Definition["Need More Help?"] = "Need More Help?";
+$Definition["Theming Guide"] = "Przewodnik po tematach";
+$Definition["Old Theming UI"] = "Stary interfejs tematyczny";
+$Definition["If you have an old theme"] = "Jeśli masz stary motyw i chcesz ustawić osobny motyw na komputery i urządzenia mobilne, możesz to zrobić za pomocą starego interfejsu tematycznego.";
+$Definition["Edits to this theme apply to:"] = "Zmiany w tym temacie dotyczą:";
+
+$Definition['Templates are the standard themes. To customize them, you have to create a copy.'] = 'Szablony to standardowe motywy. Aby je dostosować, musisz utworzyć kopię.';
+$Definition['Custom Themes are the themes you created. You can edit, rename or make a copy of them.'] = 'Motywy niestandardowe to utworzone przez Ciebie motywy. Możesz edytować, zmienić nazwę lub wykonać ich kopię.';
+$Definition["This theme cannot be deleted because it is the currently applied theme."] = "Nie można usunąć tego tematu, ponieważ jest aktualnie stosowany.";
+$Definition["Are you sure want to delete this theme? It will be permanently deleted."] = "Czy na pewno chcesz usunąć ten motyw? Zostanie trwale usunięty.";
+
+// Preview Page
+$Definition["Welcome To Your Theme"] = "Witamy w Twoim temacie";
+$Definition["This is a style guide of your theme."] = "To jest przewodnik po Twoim stylu. Zawiera przykłady elementów wizualnych używanych w całej aplikacji. Możesz kliknąć różne widżety, takie jak pasek tytułu <0> </0> lub <1> Baner </1> edytować ich właściwości w panelu bocznym.";
+$Definition["In additon to the widgets there are also"] = "Oprócz widżetów istnieją również <0> Style globalne </0> . Aby edytować style globalne, kliknij dowolne miejsce na stronie, na przykład ten tekst.";
+$Definition["There are two types of buttons in the application: primary and secondary."] = "W aplikacji istnieją dwa rodzaje przycisków: podstawowy i dodatkowy.";
+$Definition["Primary Button"] = "Główny przycisk";
+$Definition["Secondary Button"] = "Drugi przycisk";
+$Definition["User inputs are based on the global background and text colors."] = "Dane wejściowe użytkownika są oparte na globalnych kolorach tła i tekstu.";
+
+// Section Headings
+$Definition["Global Styles"] = "Globalne style";
+$Definition["Buttons & Inputs"] = "Przyciski i wejścia";
+$Definition["Buttons"] = "guziki";
+$Definition["Title Bar"] = "Pasek tytułu";
+
+$Definition["Preset"] = "Zaprogramowane";
+$Definition["Dark"] = "Ciemny";
+$Definition["Light"] = "Lekki";
+
+$Definition["Brand Color"] = "Kolor marki";
+$Definition["Background"] = "tło";
+$Definition["Links"] = "Spinki do mankietów";
+$Definition["Font"] = "Czcionka";
+$Definition["Border Radius"] = "Promień graniczny";
+$Definition["Font URL"] = "URL czcionki";
+$Definition["Font Name"] = "Nazwa czcionki";
+$Definition["Invalid URL"] = "nieprawidłowy URL";
+$Definition["You can upload a Custom Font in your Theming System. Just copy & paste the URL in the field."] = "Możesz wgrać własną czcionkę do swojego systemu tematycznego. Wystarczy skopiować i wkleić adres URL w polu.";
+$Definition["You can configure some values differently for different screensizes."] = "Możesz skonfigurować niektóre wartości inaczej dla różnych rozmiarów ekranu.";
+$Definition["You need to add the font url’s domain to <0>AllowedDomains</0>, in the site's configuration. <1>Learn more about custom fonts.</1>."] = "Musisz dodać domenę adresu URL czcionki do <0> Dozwolonych domen </0> w konfiguracji witryny. <1> Dowiedz się więcej o niestandardowych czcionkach. </1>";
+
+$Definition["Primary Buttons"] = "Główne przyciski";
+$Definition["Secondary Buttons"] = "Przyciski wtórne";
+
+$Definition["Button Type"] = "Rodzaj przycisku";
+$Definition["Solid"] = "Solidny";
+$Definition["Outline"] = "Zarys";
+$Definition["Transparent"] = "Przezroczysty";
+
+$Definition["Background"] = "tło";
+$Definition["Background Image"] = "Zdjęcie w tle";
+$Definition["Choose Image"] = "Wybierz obraz";
+$Definition["Color Overlay"] = "Kolor nakładki";
+$Definition["Borderless"] = "Bez granic";
+$Definition["Bordered"] = "Graniczy";
+$Definition["Bordered (Unified)"] = "Graniczy (ujednolicony)";
+$Definition["Shadowed"] = "Zacieniony";
+
+$Definition["Full Bleed"] = "Pełne krwawienie";
+$Definition["When you select Full Bleed, your background is transparent."] = "Po wybraniu opcji Pełne krwawienie tło jest przezroczyste.";
+$Definition["Alignment"] = "Wyrównanie";
+$Definition["Left Aligned"] = "Wyrównany do lewej";
+$Definition["Center Aligned"] = "Wyrównany do środka";
+$Definition["Image (Mobile)"] = "Obraz (telefon komórkowy)";
+$Definition["Alignment (Mobile)"] = "Wyrównanie (mobilne)";
+
+// Vanilla Labs
+$Definition['Vanilla Labs'] = 'Laboratorium waniliowe';
+$Definition['Enable and test out the latest Vanilla features.'] = 'Włącz i przetestuj najnowsze funkcje Vanilla.';
+$Definition['Welcome to Labs!'] = 'Witamy w Laboratorium!';
 $Definition['This is where you can enable and test out new Vanilla features, pages & components.'] = 'Tutaj możesz włączyć i przetestować nowe funkcje, strony i komponenty Vanilla.';
 $Definition['This lab cannot be disabled because a custom layout is applied.'] = 'Nie można wyłączyć tego laboratorium, ponieważ zastosowano układ niestandardowy.';
 $Definition['This lab cannot be disabled because it is required by the current theme.'] = 'Nie można wyłączyć tego laboratorium, ponieważ jest to wymagane przez bieżący motyw.';

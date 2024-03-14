@@ -132,8 +132,8 @@ $Definition['Global Styles'] = '全局样式';
 
 $Definition['Heads Up!'] = '当心！';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '注意了！有一个特殊角色不会允许活动的会话。鉴于这种情况，权限设置将被限制为“浏览”。';
-$Definition['Here are the ranks that users can achieve on your site.'] = '这是用户可以在您的网站上达到的等级。您可以自定义这些等级，甚至添加新等级。以下是几点建议。';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    '这是用户可以在您的网站上达到的等级。您可以自定义这些等级，甚至添加新等级。以下是几点建议。';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '上传的站点 Logo 将替换页面的站点名称。';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = '如果用户在此时间段内未访问该站点，他们将被自动注销。';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = '若启用，帖子的全部内容将通过电子邮件通知发送给用户。';
@@ -176,8 +176,11 @@ $Definition['Managing Users'] = '管理用户';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = '标记为不是垃圾信息的条目会被恢复到论坛中。';
 $Definition['Marking things as not spam will put them back in your forum.'] = '标记为不是垃圾信息的条目会被恢复到论坛中。';
 $Definition['Messages can appear anywhere in your application.'] = '消息系统在应用中的许多地方被用到，它可以用来向用户发布通知和新闻。在这里，您可以自由地拖动、管理您的消息。';
-$Definition['MobileLogoDescription'] = '移动横幅徽标出现在您网站的顶部。';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = '移动端主题使您可以在小型设备上更改网站的界面外观。';
+$Definition['MobileLogoDescription'] =
+    '移动横幅徽标出现在您网站的顶部。';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    '移动端主题使您可以在小型设备上更改网站的界面外观。';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = '大多数社区坚持积极反应以鼓励参与。';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB 新的布局编辑器将继承您的样式指南（正式的主题编辑器）中设置的主题。 <1>了解更多</1>';
 $Definition['Need More Help?'] = '需要更多帮助吗？';
@@ -213,6 +216,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = '快速创建 
 $Definition['Quicklinks'] = '快速链接';
 $Definition['Quick Links is a default component on community pages.'] = '快速链接是社区页面上的默认组件。启用我们的新快速链接组件，以使用我们的主题编辑器添加、编辑或隐藏此菜单中的链接。';
 
+$Definition['Reactions Documentation'] = '反应记录';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = '已有的用于 Wordpress 的 Vanilla 评论插件';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = '已有的用于 Wordpress 的 Vanilla 论坛插件';
 $Definition['Realtime progress bars: %s'] = '实时进度条：%s';
@@ -337,10 +341,8 @@ $Definition['Video tutorial on user registration'] = '用户注册视频教程';
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = '警告：启用此功能可能会导致您的网站出现 Javascript 错误。';
 $Definition['Warning: Loading tables can be slow.'] = '<b>警告</b>：您的服务器配置不支持快速加载数据。如果要导入很大的文件（例如，超过 200,000 条评论），则可能需要考虑更改配置。点击<a href="http://vanillaforums.com/porter">此处</a>获取更多信息。';
 $Definition['Warning: This is for advanced users.'] = '<b>警告</b>：此功能仅供高级用户使用，并要求你对 web 服务器做额外的配置。通常仅当您使用专门的服务器或 VPS 主机时有效。如果您不了解正在做什么，请不要轻易尝试。';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = '我们建议一次启用 1-3 个反应，以避免用户过多。';
 $Definition['Webhooks'] = '网络钩子';
-$Definition['Welcome to Labs!'] = '欢迎来到实验室！';
-$Definition['Welcome to Vanilla\'s theming UI.'] = '欢迎使用 Vanilla 的主题 UI。此页面列出了所有可用的主题，并允许您复制或编辑它们。';
-$Definition['Welcome To Your Theme'] = '欢迎来到您的主题';
 $Definition['When enabled, users may choose to receive notifications from the community'] = '启用后，用户可以选择接收来自社区的通知';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = '启用后，您可以管理产品，并根据这些产品对子社区进行分组。';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = '当有人从您的网站分享链接时，我们会尝试从页面中抓取图像。如果页面上没有图像，那么我们将使用该图像。图像应至少为 50x50，但我们建议为 200x200。';

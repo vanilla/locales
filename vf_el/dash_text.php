@@ -131,8 +131,8 @@ $Definition['Global Styles'] = 'Παγκόσμια στυλ';
 
 $Definition['Heads Up!'] = 'Ενημέρωση!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Προσέξτε! Αυτός είναι ένας ειδικός ρόλος που δεν επιτρέπει ενεργές συνεδρίες.. Γι αυτό το λόγο, τα δικαιώματα έχουν περιορισθεί σε αυτά της "ανάγνωσης".';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Εδώ είναι οι τάξεις που μπορούν να επιτύχουν οι χρήστες στον ιστότοπό σας Μπορείτε να προσαρμόσετε αυτές τις τάξεις και ακόμη και να προσθέσετε νέες. Ακολουθούν μερικές συμβουλές.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Εδώ είναι οι τάξεις που μπορούν να επιτύχουν οι χρήστες στον ιστότοπό σας Μπορείτε να προσαρμόσετε αυτές τις τάξεις και ακόμη και να προσθέσετε νέες. Ακολουθούν μερικές συμβουλές.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Αν ανεβάσετε ένα λογότυπο, θα αντικαταστήσει τον τίτλο του πανό στο μέρος του φόρουμ που βλέπουν οι χρήστες.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Εάν ένας χρήστης δεν επισκεφθεί τον ιστότοπο εντός αυτής της χρονικής περιόδου, θα αποσυνδεθεί αυτόματα.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Εάν είναι ενεργοποιημένο, το πλήρες περιεχόμενο των αναρτήσεων θα σταλεί με ειδοποιήσεις μέσω email σε χρήστες.';
@@ -175,8 +175,11 @@ $Definition['Managing Users'] = 'Διαχείριση χρηστών';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Το μαρκάρισμα πραγμάτων ως ΟΧΙ spam θα τα βάλει πάλι πίσω στο φόρουμ σας.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Το μαρκάρισμα πραγμάτων ως όχι spam θα τα βάλει πάλι πίσω στο φόρουμ σας.';
 $Definition['Messages can appear anywhere in your application.'] = 'Τα μηνύματα μπορούν να εμφανισθούν οπουδήποτε στην εφαρμογή σας και μπορεί να χρησιμοποιηθούν για να ενημερώσουν τους χρήστες σας για νέα και για γεγονότα. Χρησιμοποιήστε αυτή τη σελίδα για να αναδιοργανώσετε τα μηνύματα σέρνοντάς τα επάνω ή κάτω.';
-$Definition['MobileLogoDescription'] = 'Το λογότυπο banner για κινητά εμφανίζεται στην κορυφή του ιστότοπού σας.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Τα θέματα για κινητά σάς επιτρέπουν να αλλάξετε την εμφάνιση και την αίσθηση του ιστότοπού σας σε μικρότερες συσκευές.';
+$Definition['MobileLogoDescription'] =
+    'Το λογότυπο banner για κινητά εμφανίζεται στην κορυφή του ιστότοπού σας.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Τα θέματα για κινητά σάς επιτρέπουν να αλλάξετε την εμφάνιση και την αίσθηση του ιστότοπού σας σε μικρότερες συσκευές.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Οι περισσότερες κοινότητες εμμένουν σε θετικές αντιδράσεις για να ενθαρρύνουν τη συμμετοχή.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Σημείωση Το νέο πρόγραμμα επεξεργασίας διάταξης θα κληρονομήσει το σύνολο θεμάτων στον Οδηγό στυλ σας (επίσημα πρόγραμμα επεξεργασίας θεμάτων). <1>Μάθετε περισσότερα</1>';
 $Definition['Need More Help?'] = 'Χρειάζεστε κι άλλη βοήθεια;';
@@ -211,6 +214,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Οδηγός 
 $Definition['Quicklinks'] = 'Γρήγοροι σύνδεσμοι';
 $Definition['Quick Links is a default component on community pages.'] = 'Οι Γρήγοροι σύνδεσμοι είναι ένα προεπιλεγμένο στοιχείο στις σελίδες κοινότητας. Ενεργοποιήστε το νέο στοιχείο Quick Links για προσθήκη, επεξεργασία ή απόκρυψη συνδέσμων από αυτό το μενού χρησιμοποιώντας τον επεξεργαστή θέματος.';
 
+$Definition['Reactions Documentation'] = 'Τεκμηρίωση αντιδράσεων';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Έτοιμη Προσθήκη Σχολίων Vanilla για το WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Έτοιμο Plugin Φόρουμ Vanilla για το WordPress';
 $Definition['Realtime progress bars: %s'] = 'Μπάρες προόδου σε πραγματικό χρόνο: %s';
@@ -335,9 +339,8 @@ $Definition['Video tutorial on user registration'] = 'Βίντεο εκμάθη�
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Προειδοποίηση: Η ενεργοποίηση αυτής της δυνατότητας ενδέχεται να προκαλέσει σφάλματα Javascript στον ιστότοπό σας.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Προειδοποίηση</b> : Η διαμόρφωση του διακομιστή σας δεν υποστηρίζει γρήγορη φόρτωση δεδομένων. Εάν εισάγετε ένα πολύ μεγάλο αρχείο (π.χ. πάνω από 200.000 σχόλια), ίσως θέλετε να εξετάσετε το ενδεχόμενο αλλαγής της διαμόρφωσής σας. Κάντε κλικ <a href="http://vanillaforums.com/porter">εδώ</a> για περισσότερες πληροφορίες.';
 $Definition['Warning: This is for advanced users.'] = '<b>Προειδοποίηση</b>: Αυτό είναι για προχωρημένους χρήστες και απαιτεί να κάνετε πρόσθετες αλλαγές στο διακομιστή web σας. Αυτό είναι συνήθως διαθέσιμο μόνο αν έχετε αποκλειστική ή vps φιλοξενία. Μην το επιχειρήσετε αν δεν ξέρετε τι κάνετε.';
-$Definition['Welcome to Labs!'] = 'Καλώς ήλθατε στα εργαστήρια!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Καλώς ήρθατε στο περιβάλλον χρήστη θεμάτων της Vanilla. Αυτή η σελίδα παραθέτει όλα τα διαθέσιμα θέματα και σας επιτρέπει να τα αντιγράψετε ή να τα επεξεργαστείτε.';
-$Definition['Welcome To Your Theme'] = 'Καλώς ήλθατε στο θέμα σας';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Συνιστούμε να ενεργοποιήσετε 1-3 αντιδράσεις κάθε φορά για να αποφύγετε την υπερβολική χρήση των χρηστών.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Όταν είναι ενεργοποιημένο, οι χρήστες μπορούν να επιλέξουν να λαμβάνουν ειδοποιήσεις από την κοινότητα';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Όταν είναι ενεργοποιημένη, μπορείτε να διαχειριστείτε τα προϊόντα και να ομαδοποιήσετε τις υπο-κοινότητες με αυτά τα προϊόντα.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Όταν κάποιος μοιράζεται έναν σύνδεσμο από τον ιστότοπό σας, προσπαθούμε να τραβήξουμε μια εικόνα από τη σελίδα. Αν δεν υπάρχει εικόνα στη σελίδα, τότε θα χρησιμοποιήσουμε αυτήν την εικόνα. Η εικόνα πρέπει να είναι τουλάχιστον 50 × 50, αλλά προτείνουμε 200 × 200.';

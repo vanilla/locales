@@ -131,8 +131,8 @@ $Definition['Global Styles'] = 'Estilos globais';
 
 $Definition['Heads Up!'] = 'Atenção!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Atenção! Esta é uma função especial que não permite sessões ativas. Por esta razão, as opções de autorização foram limitadas às autorizações de "visualização".';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Aqui estão as classificações que os usuários podem alcançar no seu site. Você pode personalizar essas classificações e até adicionar novas. Aqui estão algumas dicas.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Aqui estão as classificações que os usuários podem alcançar no seu site. Você pode personalizar essas classificações e até adicionar novas. Aqui estão algumas dicas.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Se um logo for enviado, ele irá substituir os logos nas páginas de usuários.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Se um usuário não visitar o site dentro desse período, ele será automaticamente desconectado.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Se ativado, todo o conteúdo das publicações será enviado em notificações por e-mail aos utilizadores.';
@@ -174,8 +174,11 @@ $Definition['Managing Users'] = 'Gerenciando usuários';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marcando coisas como NÃO spam fará com que elas retornem ao fórum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcando coisas como não sendo spam irá fazer com que elas voltem ao fórum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mensagens podem aparecer em qualquer lugar de sua aplicação, e podem ser usadas para informar usuários de novidades e eventos. Use esta página para organizar as mensagens movendo-as para cima ou para baixo.';
-$Definition['MobileLogoDescription'] = 'O logotipo do banner para celular aparece na parte superior do seu site.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Os temas para celular permitem que você altere a aparência do seu site em dispositivos menores.';
+$Definition['MobileLogoDescription'] =
+    'O logotipo do banner para celular aparece na parte superior do seu site.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Os temas para celular permitem que você altere a aparência do seu site em dispositivos menores.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'A maioria das comunidades mantém reações positivas para incentivar a participação.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB O novo Editor de Layout herdará o tema definido em seu Guia de Estilo (formalmente editor de temas). <1>Saiba mais</1>';
 $Definition['Need More Help?'] = 'Precisando de mais ajuda?';
@@ -211,6 +214,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guia de Iníc
 $Definition['Quicklinks'] = 'Links Rápidos';
 $Definition['Quick Links is a default component on community pages.'] = 'Links rápidos é um componente padrão nas páginas da comunidade. Habilite nosso novo componente Quick Links para adicionar, editar ou ocultar links deste menu usando nosso editor de tema.';
 
+$Definition['Reactions Documentation'] = 'Documentação de reações';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Complemento de Comentários do Vanilla para WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Complemento de Fórum do Vanilla para WordPress';
 $Definition['Realtime progress bars: %s'] = 'Barras de progresso em tempo real: %s';
@@ -334,9 +338,8 @@ $Definition['Video tutorial on user registration'] = 'Tutorial em vídeo de regi
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Aviso: ativar esse recurso pode causar erros de Javascript no seu site.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Aviso</b> : A configuração do servidor não suporta carregamento rápido de dados. Se estiver importando um arquivo muito grande (por exemplo, mais de 200.000 comentários), convém alterar sua configuração. Clique <a href="http://vanillaforums.com/porter">aqui</a> para mais informações.';
 $Definition['Warning: This is for advanced users.'] = '<b>Aviso</b>: Esta função destina-se a utilizadores avançados e exige que faça alterações adicionais no seu servidor web. Normalmente, só se encontra disponível se tiver um hosting vps ou dedicado. Não tente fazer isto se não souber o que está a fazer.';
-$Definition['Welcome to Labs!'] = 'Bem-vindo ao Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Bem-vindo à IU temática do Vanilla. Esta página lista todos os seus temas disponíveis e permite copiá-los ou editá-los.';
-$Definition['Welcome To Your Theme'] = 'Bem-vindo ao seu tema';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Recomendamos ativar de 1 a 3 reações por vez para evitar sobrecarregar os usuários.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Quando ativado, os usuários podem optar por receber notificações da comunidade';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Quando ativado, você pode gerenciar produtos e agrupar subcomunidades por esses produtos.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Quando alguém compartilha um link do seu site, tentamos obter uma imagem da página. Se não houver uma imagem na página, usaremos essa imagem. A imagem deve ter pelo menos 50 × 50, mas recomendamos 200 × 200.';

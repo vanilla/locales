@@ -131,8 +131,8 @@ $Definition['Global Styles'] = 'Globális stílusok';
 
 $Definition['Heads Up!'] = 'Fel a fejjel!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Figyelem, ez egy speciális feladat amit nem csak a megfelelő jogosultsággal rendelkező felhasználók láthatnak.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Íme a rangsor, amelyet a felhasználók elérhetnek az Ön webhelyén. Testreszabhatja ezeket a rangsorokat, és akár új is hozzáadhat. Íme néhány tipp.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Íme a rangsor, amelyet a felhasználók elérhetnek az Ön webhelyén. Testreszabhatja ezeket a rangsorokat, és akár új is hozzáadhat. Íme néhány tipp.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Ha egy banner logo-t feltöltesz, le fogja cserélni a banner címsort a felhasználói fórum oldalakon.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Ha egy felhasználó ezen időn belül nem keresi fel az oldalt, akkor automatikusan kijelentkezett.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Ha engedélyezve van, a bejegyzések teljes tartalma e-mailben értesítést küld a felhasználóknak.';
@@ -174,8 +174,11 @@ $Definition['Managing Users'] = 'Felhasználók kezelése';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Ha valamit úgy jelölsz, mint NEM spam, vissza fogja azt juttatni a fórumodba.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ha valamit úgy jelölsz, mint nem spam, vissza fogja azt juttatni a fórumodba.';
 $Definition['Messages can appear anywhere in your application.'] = 'Az üzenetek bárhol megjeleníthetőek a fórumban. Ezzel a módszerrel értesíteni tudod a felhasználókat az új hírekről és eseményekről. Az üzenetek újraszervezését az üzenet lefelé illetve felfelé való mozgatásával érheted el. ';
-$Definition['MobileLogoDescription'] = 'A mobil szalaghirdetés logója megjelenik a webhely tetején.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'A mobil témák lehetővé teszik, hogy megváltoztassa webhelyének megjelenését és hangulatát kisebb eszközökön.';
+$Definition['MobileLogoDescription'] =
+    'A mobil szalaghirdetés logója megjelenik a webhely tetején.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'A mobil témák lehetővé teszik, hogy megváltoztassa webhelyének megjelenését és hangulatát kisebb eszközökön.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'A legtöbb közösség ragaszkodik a pozitív reakciókhoz, hogy ösztönözze a részvételt.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Megjegyzés: Az új elrendezésszerkesztő örökli a stíluskalauzban (formálisan témaszerkesztőben) beállított témát. <1>További információ</1>';
 $Definition['Need More Help?'] = 'További segítségre van szükséged?';
@@ -211,6 +214,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Gyorstalpaló
 $Definition['Quicklinks'] = 'Gyors linkek';
 $Definition['Quick Links is a default component on community pages.'] = 'A Gyorslinkek a közösségi oldalak alapértelmezett összetevői. Engedélyezze új Gyorshivatkozások összetevőnket, hogy a témaszerkesztő segítségével linkeket adjon hozzá, szerkessze vagy rejtse el ebből a menüből.';
 
+$Definition['Reactions Documentation'] = 'Reakciók Dokumentációja';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Azonnal felhasználható Vanilla Hozzászólás Modul WordPresshez';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Azonnal felhasználható Vanilla Fórum Modul WordPresshez';
 $Definition['Realtime progress bars: %s'] = 'Valósidejű folyamatjelző csík: %s';
@@ -334,9 +338,8 @@ $Definition['Video tutorial on user registration'] = 'Videó bemutató a regiszt
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Figyelem: A szolgáltatás engedélyezése Javascript hibákat okozhat a webhelyén.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Figyelem</b> : A szerver konfigurációja nem támogatja az adatok gyors betöltését. Ha nagyon nagy fájlt importál (pl. Több mint 200 000 hozzászólás), érdemes megfontolnia a konfiguráció megváltoztatását. További információkért kattintson <a href="http://vanillaforums.com/porter">ide</a> .';
 $Definition['Warning: This is for advanced users.'] = '<b>Figyelem</b>: Ez csak haladó felhasználóknak való és további módósítások szükségesek a web szervereden. Ez általában csak akkor érhető el, ha dedikált vagy vps hosztolással rendelkezel. Ha nem tudod mit jelent ez, ne próbáld ezt meg használni.';
-$Definition['Welcome to Labs!'] = 'Üdvözöljük a Labsban!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Üdvözöljük a Vanilla tematikus felhasználói felületén. Ez az oldal felsorolja az összes elérhető témát, és lehetővé teszi azok másolását vagy szerkesztését.';
-$Definition['Welcome To Your Theme'] = 'Üdvözöljük a témádban';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Javasoljuk, hogy egyszerre 1–3 reakciót engedélyezzen, hogy elkerülje a felhasználók túlterhelését.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Ha engedélyezve van, a felhasználók dönthetnek úgy, hogy értesítéseket kapnak a közösségtől';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Ha engedélyezve van, akkor kezelheti a termékeket és csoportosíthatja az alközösségeket ezen termékek szerint.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Amikor valaki megoszt egy linket az Ön webhelyéről, megpróbálunk képet készíteni az oldalról. Ha nincs kép az oldalon, akkor ezt a képet használjuk helyette. A képnek legalább 50×50-esnek kell lennie, de javasoljuk a 200×200-ast.';

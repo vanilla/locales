@@ -128,8 +128,8 @@ $Definition['Global Styles'] = 'Yleiset tyylit';
 
 $Definition['Heads Up!'] = 'Huomio!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Tiedoksi! Tämä on erityinen rooli, joka ei salli aktiivisia istuntoja. Siitä syystä käyttöoikeusvaihtoehdot on rajoitettu ”vain katselu” -oikeuksiksi.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Tässä ovat sivustosi käyttäjien saavutettavissa olevat luokitukset. Voit muokata näitä luokituksia ja lisätä uusia. Ohessa vinkkejä siihen.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Tässä ovat sivustosi käyttäjien saavutettavissa olevat luokitukset. Voit muokata näitä luokituksia ja lisätä uusia. Ohessa vinkkejä siihen.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Jos lataat logon banneriin, se korvaa nykyisen palstan julkisella puolella näytettävän asetetun banneriotsikon.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Jos käyttäjä ei vieraile sivustolla tämän ajan kuluessa, hän kirjataan automaattisesti ulos.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Jos otetaan käyttöön, niin julkaisujen koko sisältö lähetetään sähköposti-ilmoituksena käyttäjille.';
@@ -169,8 +169,11 @@ $Definition['Managing Users'] = 'Käyttäjien hallinta';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Sisällön merkitseminen EI roskaviestiksi tuo sen takaisin näkyviin foorumissa.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Sisällön merkitseminen ei roskaviestiksi tuo sen taas näkyviin foorumissa.';
 $Definition['Messages can appear anywhere in your application.'] = 'Voit näyttää ylläpidon viestejä palstallasi muun sisällön ulkopuolella. Viesteillä voit tiedottaa käyttäjille esimerkiksi uusista tapahtumista tai muusta ajankohtaisesta. Tällä sivulla voit järjestää viestit vetämällä ja pudottamalla ne haluamaasi järjestykseen.';
-$Definition['MobileLogoDescription'] = 'Mobiilibännerin logo näkyy sivustosi yläosassa.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mobiiliteemojen avulla voi muuttaa sivuston ulkoasua ja tunnelmaa pienemmillä laitteilla.';
+$Definition['MobileLogoDescription'] =
+    'Mobiilibännerin logo näkyy sivustosi yläosassa.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Mobiiliteemojen avulla voi muuttaa sivuston ulkoasua ja tunnelmaa pienemmillä laitteilla.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Useimmat yhteisöt pitävät kiinni positiivisista reaktioista kannustaakseen osallistumaan.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'HUOM. Uusi asettelueditori perii tyylioppaassasi (muodollisesti teemaeditorissa) määritetyn teeman. <1>Lisätietoja</1>';
 $Definition['Need More Help?'] = 'Lisää ohjeita?';
@@ -205,6 +208,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Pikaopas Vani
 $Definition['Quicklinks'] = 'Pikalinkit';
 $Definition['Quick Links is a default component on community pages.'] = 'Pikalinkit on oletusosa yhteisön sivuilla. Ota uusi pikalinkkikomponentti käyttöön lisätäksesi, muokataksesi tai piilottaaksesi linkkejä tästä valikosta teemaeditorillamme.';
 
+$Definition['Reactions Documentation'] = 'Reaktioiden dokumentaatio';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Valmis Vanilla-kommentointilisäosa WordPressille';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Valmis Vanilla Forum-lisäosa WordPressille';
 $Definition['Realtime progress bars: %s'] = 'Ajantasaiset edistymispalkit: %s';
@@ -327,9 +331,8 @@ $Definition['Video tutorial on user registration'] = 'Video-opas käyttäjän re
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Varoitus: tämän ominaisuuden käyttööonotto voi aiheuttaa Javascript-virheitä sivustolla.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Varoitus</b>: Palvelimesi kokoonpano ei tue nopeaa tiedonlatausta. Jos tuot erittäin suurta tiedostoa (esim. yli 200 000 kommenttia), sinun kannattaa harkita kokoonpanon muuttamista. Saat lisätietoja napsauttamalla <a href="http://vanillaforums.com/porter">tätä</a>.';
 $Definition['Warning: This is for advanced users.'] = '<b>Varoitus</b>: Tämä on edistyneille käyttäjille ja edellyttää ylimääräisiä muutoksia verkkopalvelimeesi. Tämä toiminto on yleensä saatavilla vain, jos sinulla on käytössä oma paikallinen verkkopalvelin tai virtuaalipalvelin. Älä yritä tätä, ellet tiedä varmasti, mitä olet tekemässä.';
-$Definition['Welcome to Labs!'] = 'Tervetuloa Labsiin!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Tervetuloa Vanillan theming-käyttöliittymään. Tällä sivulla on luettelo kaikista käytettävissä olevista teemoista ja voit kopioida tai muokata niitä.';
-$Definition['Welcome To Your Theme'] = 'Tervetuloa teemaasi';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Suosittelemme ottamaan käyttöön 1–3 reaktiota kerrallaan, jotta käyttäjät eivät ylikuormittaisi.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Kun tämä on käytössä, käyttäjät voivat halutessaan vastaanottaa ilmoituksia yhteisöltä';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Jos tämä otetaan käyttöön, voit hallinnoida tuotteita sekä ryhmittää alayhteistöjä kyseisten tuotteiden perusteella.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Jonkun jakaessa linkin sivustoltasi pyrimme ottamaan mukaan kuvan kyseiseltä sivulta. Jos sivulla ei ole kuvia, niin silloin käytössä on tämä kuva. Kuvan on oltava vähintään 50x50-kokoinen, ja suositeltu koko on 200x200. ';

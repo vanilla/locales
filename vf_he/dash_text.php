@@ -133,8 +133,8 @@ $Definition['Global Styles'] = 'סגנונות גלובליים';
 
 $Definition['Heads Up!'] = 'הרימו ראש!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'זהירות! זהו תפקיד מיוחד שאינו מאפשר פעילות. מסיבה זו, ההרשאות של תפקיד זה מוגלות ל\'צפייה\' בלבד.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'להלן הדרגות שמשתמשים יכולים להשיג באתר שלך. אתה יכול להתאים אישית את הדרגות האלה ואפילו להוסיף חדשות. הנה כמה עצות.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'להלן הדרגות שמשתמשים יכולים להשיג באתר שלך. אתה יכול להתאים אישית את הדרגות האלה ואפילו להוסיף חדשות. הנה כמה עצות.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'עם העלית לוגו לבאנר, הוא יחליף את הכותרת של הבאנר בדפי פורום כפי שהמשתמשים רואים אותם.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'אם משתמש לא יבקר באתר תוך פרק זמן זה הוא ינותק אוטומטית.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'אם זה מופעל, התוכן המלא של הפוסטים יישלח בהודעות דוא"ל למשתמשים.';
@@ -177,8 +177,11 @@ $Definition['Managing Users'] = 'ניהול משתמשים';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'סימון דברים כלא ספאם יחזיר אותם אל הפורום.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'סימון דברים כלא ספאם יחזיר אותם אל הפורום.';
 $Definition['Messages can appear anywhere in your application.'] = 'הודעות יכולות להופיע בכל מקום בתוך התוכנה שלך, ויכולות לשמש על מנת להודיע למשתמשים על אירועים או חדשות. השתמש בעמוד זה על מנת לארגן את ההודעות שלך על ידי גרירתם ממקום למקום.';
-$Definition['MobileLogoDescription'] = 'לוגו הבאנר הנייד מופיע בראש האתר שלך.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'ערכות נושא לנייד מאפשרות לך לשנות את המראה והתחושה של האתר שלך במכשירים קטנים יותר.';
+$Definition['MobileLogoDescription'] =
+    'לוגו הבאנר הנייד מופיע בראש האתר שלך.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'ערכות נושא לנייד מאפשרות לך לשנות את המראה והתחושה של האתר שלך במכשירים קטנים יותר.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'רוב הקהילות נצמדות לתגובות חיוביות כדי לעודד השתתפות.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'הערה עורך ה-Layout החדש יירש את ערכת הנושא שהוגדרה במדריך הסגנונות שלך (עורך ערכות נושא באופן רשמי). <1>למידע נוסף</1>';
 $Definition['Need More Help?'] = 'צריכים עזרה?';
@@ -214,6 +217,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'מדריך מ
 $Definition['Quicklinks'] = 'קישורים מהירים';
 $Definition['Quick Links is a default component on community pages.'] = 'קישורים מהירים הוא רכיב ברירת מחדל בדפי קהילה. אפשר את רכיב הקישורים המהירים החדש שלנו כדי להוסיף, לערוך או להסתיר קישורים מתפריט זה באמצעות עורך הנושאים שלנו.';
 
+$Definition['Reactions Documentation'] = 'תיעוד תגובות';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'תוסף הערות Vanilla שכבר מוכן ל-WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'תוסף פורום Vanilla שכבר מוכן ל-WordPress';
 $Definition['Realtime progress bars: %s'] = 'התקדמות בזמן אמת: %s';
@@ -340,10 +344,8 @@ $Definition['Video tutorial on user registration'] = 'מדריך וידאו על
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'אזהרה: הפעלת תכונה זו עלולה לגרום לשגיאות Javascript באתר שלך.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>אזהרה</b> : תצורת השרת שלך אינה תומכת בטעינת נתונים מהירה. אם אתה מייבא קובץ גדול מאוד (למשל מעל 200,000 תגובות), אולי כדאי לך לשקול לשנות את התצורה שלך. לחץ <a href="http://vanillaforums.com/porter">כאן</a> למידע נוסף.';
 $Definition['Warning: This is for advanced users.'] = '<b>אזהרה</b>: זה למשתמשים מתקדמים ודרוש שתעשה שינויים נוסיף לשרת האינטרנט שלך. זה בדרך כלל זמין רק אם אתה מסור או vps hosting. אל תנסה את זה אם אתה לא יודע מה אתה עושה.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'אנו ממליצים להפעיל 1-3 תגובות בכל פעם כדי להימנע מהציף של משתמשים.';
 $Definition['Webhooks'] = 'וו הוקס';
-$Definition['Welcome to Labs!'] = 'ברוכים הבאים למעבדות!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'ברוכים הבאים לממשק העיצוב של Vanilla. דף זה מפרט את כל הנושאים הזמינים שלך, ומאפשר לך להעתיק או לערוך אותם.';
-$Definition['Welcome To Your Theme'] = 'ברוך הבא לנושא שלך';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'כאשר מופעל, משתמשים עשויים לבחור לקבל התראות מהקהילה';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'כאשר הדבר מופעל, אתה יכול לנהל מוצרים ולקבוצות משנה תת קבוצות לפי מוצרים אלה.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'כאשר מישהו משתף קישור מהאתר שלך אנו מנסים לתפוס תמונה מהדף. אם אין תמונה בדף, אנו נשתמש בתמונה זו במקום זאת. התמונה צריכה להיות לפחות 50 × 50, אך אנו ממליצים על 200 × 200.';

@@ -131,8 +131,8 @@ $Definition['Global Styles'] = 'Genel Stiller';
 
 $Definition['Heads Up!'] = 'Dikkat Et!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Dikkat et! Bu, aktif oturumlara izin vermeyen özel bir roldür. Bu nedenle izin seçenekleri "görüntüleme" izinleriyle sınırlandırılmıştır.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'İşte kullanıcıların sitenizde elde edebileceği dereceler. Bu dereceleri özelleştirebilir ve hatta yenilerini ekleyebilirsiniz. İşte bazı ipuçları.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'İşte kullanıcıların sitenizde elde edebileceği dereceler. Bu dereceleri özelleştirebilir ve hatta yenilerini ekleyebilirsiniz. İşte bazı ipuçları.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Bir başlık logosu yüklenirse, kullanıcının karşılaştığı forum sayfalarındaki başlığin yerini alır.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Bir kullanıcı bu süre içinde siteyi ziyaret etmezse, otomatik olarak oturumu kapatılacaktır.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Etkinleştirilirse, gönderilerin tüm içeriği kullanıcılara e-posta bildirimlerinde gönderilir.';
@@ -175,8 +175,11 @@ $Definition['Managing Users'] = 'Kullanıcı Yönetimi';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'İşleri spam değil olarak işaretlemek onları forumunuza geri koyacaktır.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'İşleri spam olmayan olarak işaretlemek onları forumunuza geri koyacaktır.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesajlar, uygulamanızın herhangi bir yerinde görünebilir ve kullanıcılarınızı haber ve etkinliklerle ilgili bilgilendirmek için kullanılabilir. İletilerinizi yukarı veya aşağı sürükleyerek yeniden düzenlemek için bu sayfayı kullanın.';
-$Definition['MobileLogoDescription'] = 'Mobil banner logosu sitenizin üstünde görünür.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mobil temalar, sitenizin görünümünü ve hissini daha küçük cihazlarda değiştirmenize olanak tanır.';
+$Definition['MobileLogoDescription'] =
+    'Mobil banner logosu sitenizin üstünde görünür.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Mobil temalar, sitenizin görünümünü ve hissini daha küçük cihazlarda değiştirmenize olanak tanır.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Çoğu topluluk katılımı teşvik etmek için olumlu tepkilere bağlı kalıyor.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Yeni Düzen Düzenleyici, Stil Rehberinizdeki (resmi tema düzenleyici) tema setini devralır. <1>Daha fazlasını öğrenin</1>';
 $Definition['Need More Help?'] = 'Daha Fazla Yardıma mı ihtiyacınız var?';
@@ -212,6 +215,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Vanilla için
 $Definition['Quicklinks'] = 'Hızlı Linkler';
 $Definition['Quick Links is a default component on community pages.'] = 'Hızlı Bağlantılar, topluluk sayfalarında varsayılan bir bileşendir. Tema düzenleyicimizi kullanarak bu menüden bağlantı eklemek, düzenlemek veya gizlemek için yeni Hızlı Bağlantılar bileşenimizi etkinleştirin.';
 
+$Definition['Reactions Documentation'] = 'Reaksiyon Dokümantasyonu';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Vanilya WordPress eklentisi hazır';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'WordPress için Hazır Vanilya Forum Eklentisi';
 $Definition['Realtime progress bars: %s'] = 'Gerçek zamanlı ilerleme çubuğu: %s';
@@ -336,10 +340,8 @@ $Definition['Video tutorial on user registration'] = 'Kullanıcı kaydı hakkın
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Uyarı: Bu özelliğin etkinleştirilmesi sitenizde Javascript hatalarına neden olabilir.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Uyarı</b>: Sunucu yapılandırmanız hızlı veri yüklemeyi desteklemiyor. Sunucu yapılandırmanız hızlı veri yüklemeyi desteklemiyor. Çok büyük bir dosyayı içe aktarıyorsanız (ör. 200.000\'den fazla yorum) yapılandırmanızı değiştirmeyi düşünebilirsiniz. Daha fazla bilgi için <a href="http://vanillaforums.com/porter">buraya</a> tıklayın.';
 $Definition['Warning: This is for advanced users.'] = '<b>Uyarı</b>: Bu, ileri düzey kullanıcılar içindir ve web sunucunuzda ek değişiklikler yapmanızı gerektirir. Bu genellikle yalnızca adanmış veya vps hostinginiz varsa kullanılabilir. Ne yaptığınızı bilmiyorsanız bunu denemeyin.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Kullanıcıların aşırı yüklenmesini önlemek için aynı anda 1-3 reaksiyonu etkinleştirmenizi öneririz.';
 $Definition['Webhooks'] = 'Web kancaları';
-$Definition['Welcome to Labs!'] = 'Laboratuvara hoş geldiniz!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Vanilla\'nın tema arayüzüne hoş geldiniz. Bu sayfa mevcut tüm temalarınızı listeler ve kopyalamanıza veya düzenlemenize olanak tanır.';
-$Definition['Welcome To Your Theme'] = 'Temanıza Hoşgeldiniz';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Etkinleştirildiğinde kullanıcılar topluluktan bildirim almayı seçebilir';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Etkinleştirildiğinde ürünleri yönetebilir ve alt ürünleri bu ürünlerle gruplayabilirsiniz.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Birisi sitenizden bir bağlantı paylaştığında sayfadan bir resim almaya çalışırız. Sayfada resim yoksa, bu resmi kullanırız. Görüntü en az 50×50 olmalıdır, ancak 200×200 önerilir.';

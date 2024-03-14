@@ -133,8 +133,8 @@ $Definition['Global Styles'] = 'Estilos globales';
 
 $Definition['Heads Up!'] = '¡Atención!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '¡Aviso! Este es un rol especial que no permite activar sesiones, por ello solo puede ver los permisos.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Aquí están los rangos que los usuarios pueden alcanzar en su sitio. Puede personalizar estos rangos e incluso agregar otros nuevos. Aquí hay algunos consejos.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Aquí están los rangos que los usuarios pueden alcanzar en su sitio. Puede personalizar estos rangos e incluso agregar otros nuevos. Aquí hay algunos consejos.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si se sube un logo, remplazará el título del banner en ciertas páginas del foro.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Si un usuario no visita el sitio dentro de este período de tiempo, se cerrará automáticamente.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Si se activa, el contenido completo de las publicaciones se enviará en las notificaciones por correo electrónico a los usuarios.';
@@ -177,9 +177,11 @@ $Definition['Managing Users'] = 'Administrar usuarios';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Marcar cosas como NO spam las pondrá de nuevo en tu foro. ';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Marcar cosas como no spam las pondrá de nuevo en tu foro. ';
 $Definition['Messages can appear anywhere in your application.'] = 'Los mensajes pueden aparecer en cualquier parte de tu aplicación y pueden ser utilizados para informar a los usuarios de noticias y eventos. Utiliza esta página para reorganizar tus mensajes arrastrándolos hacia arriba o hacia abajo.';
-$Definition['MobileLogoDescription'] = 'El logotipo del banner móvil aparece en la parte superior de su sitio.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Los temas móviles le permiten cambiar la apariencia de su sitio en dispositivos más pequeños.';
-$Definition['Most communities stick to positive reactions to encourage participation.'] = 'La mayoría de las comunidades se centran en las valoraciones positivas para fomentar la participación.';
+$Definition['MobileLogoDescription'] =
+    'El logotipo del banner móvil aparece en la parte superior de su sitio.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Los temas móviles le permiten cambiar la apariencia de su sitio en dispositivos más pequeños.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'La mayoría de las comunidades se atienen a reacciones positivas para fomentar la participación.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB El nuevo Editor de diseño heredará el conjunto de temas en su Guía de estilo (formalmente editor de temas). <1>Más información</1>';
 $Definition['Need More Help?'] = '¿Necesitas más ayuda?';
@@ -215,7 +217,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guía rápida
 $Definition['Quicklinks'] = 'Enlaces rápidos';
 $Definition['Quick Links is a default component on community pages.'] = 'Los enlaces rápidos es un componente predeterminado en las páginas de la comunidad. Habilite nuestro nuevo componente de Vínculos Rápidos para agregar, editar u ocultar vínculos de este menú usando nuestro editor de temas.';
 
-$Definition['Reactions Documentation'] = 'Documentación de las reacciones';
+$Definition['Reactions Documentation'] = 'Documentación de reacciones';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin de Comentarios para WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin de Foro para WordPress';
 $Definition['Realtime progress bars: %s'] = 'Barras de progreso en tiempo real: %s';
@@ -340,10 +342,8 @@ $Definition['Video tutorial on user registration'] = 'Video Tutorial para el reg
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Advertencia: Habilitar esta función puede causar errores de Javascript en su sitio.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Advertencia</b> : la configuración de su servidor no admite la carga rápida de datos. Si está importando un archivo muy grande (por ejemplo, más de 200,000 comentarios), puede considerar cambiar su configuración. Haga clic <a href="http://vanillaforums.com/porter">aquí</a> para más información.';
 $Definition['Warning: This is for advanced users.'] = '<b>Advertencia</b>:Esto es para usuarios avanzados y requerirá cambios adicionales en su servidor web. Recomendamos no modificarlo. ';
-$Definition['Welcome to Labs!'] = '¡Bienvenido a Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Bienvenido a la interfaz de usuario temática de Vanilla. Esta página enumera todos sus temas disponibles y le permite copiarlos o editarlos.';
-$Definition['Welcome To Your Theme'] = 'Bienvenido a tu tema';
-$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Recomendamos activar de 1 a 3 reacciones a la vez para no abrumar a los usuarios.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Recomendamos habilitar de 1 a 3 reacciones a la vez para evitar abrumar a los usuarios.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Cuando está habilitado, los usuarios pueden optar por recibir notificaciones de la comunidad.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Cuando está habilitado, puede administrar productos y agrupar subcomunidades por esos productos.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Cuando alguien comparte un enlace de su sitio, intentamos obtener una imagen de la página. Si no hay una imagen en la página, usaremos esta imagen en su lugar. La imagen debe ser de al menos 50×50, pero recomendamos 200×200.';

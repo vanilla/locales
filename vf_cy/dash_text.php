@@ -131,8 +131,8 @@ $Definition['Global Styles'] = 'Arddulliau Byd-eang';
 
 $Definition['Heads Up!'] = 'Pennau i Fyny!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Dalier Sylw! Mae hon yn rôl arbennig nad yw\'n caniatáu sesiynau gweithredol. Oherwydd hyn mae dewisiadau hawliau wedi eu cyfyngu i hawliau "gweld".';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Dyma\'r rhengoedd y gall defnyddwyr eu cyflawni ar eich gwefan. Gallwch chi addasu\'r rhengoedd hyn a hyd yn oed ychwanegu rhai newydd. Dyma rai awgrymiadau.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Dyma\'r rhengoedd y gall defnyddwyr eu cyflawni ar eich gwefan. Gallwch chi addasu\'r rhengoedd hyn a hyd yn oed ychwanegu rhai newydd. Dyma rai awgrymiadau.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Os yw logo baner wedi ei uwchlwytho, bydd yn disodli\'r baner teitl ar dudalennau fforwm sy\'n wynebu\'r defnyddwyr.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Os na fydd defnyddiwr yn ymweld â\'r wefan o fewn y cyfnod hwn, bydd yn cael ei allgofnodi\'n awtomatig.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Os yw wedi\'i alluogi, bydd cynnwys llawn swyddi yn cael ei anfon mewn hysbysiadau e-bost at ddefnyddwyr.';
@@ -174,8 +174,11 @@ $Definition['Managing Users'] = 'Rheoli Defnyddwyr';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Bydd marcio pethau fel DIM sbam yn eu rhoi yn ôl yn eich Fforwm.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Bydd marcio pethau fel dim sbam yn eu rhoi yn ôl yn eich Fforwm.';
 $Definition['Messages can appear anywhere in your application.'] = 'Gall negeseuon ymddangos unrhyw le yn y rhaglen, a gellir eu defnyddio i roi gwybod i\'ch defnyddwyr am newyddion a digwyddiadau. Defnyddiwch y dudalen hon i ail-drefnu eich negeseuon drwy eu llusgo i fyny neu i lawr.';
-$Definition['MobileLogoDescription'] = 'Mae logo\'r faner symudol yn ymddangos ar frig eich gwefan.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mae themâu symudol yn caniatáu ichi newid edrychiad a theimlad eich gwefan ar ddyfeisiau llai.';
+$Definition['MobileLogoDescription'] =
+    'Mae logo\'r faner symudol yn ymddangos ar frig eich gwefan.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Mae themâu symudol yn caniatáu ichi newid edrychiad a theimlad eich gwefan ar ddyfeisiau llai.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Mae\'r rhan fwyaf o gymunedau yn glynu at ymatebion cadarnhaol i annog cyfranogiad.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'DS Bydd y Golygydd Gosodiad newydd yn etifeddu\'r thema a osodwyd yn eich Arddull Arddull (golygydd thema gynt). <1> Darganfod mwy</1>';
 $Definition['Need More Help?'] = 'Angen mwy o Help?';
@@ -211,6 +214,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Canllaw cyfly
 $Definition['Quicklinks'] = 'Dolenni cyflym';
 $Definition['Quick Links is a default component on community pages.'] = 'Mae Dolenni Cyflym yn elfen ddiofyn ar dudalennau cymunedol. Galluogi ein cydran Dolenni Cyflym newydd i ychwanegu, golygu neu guddio dolenni o\'r ddewislen hon gan ddefnyddio ein golygydd thema.';
 
+$Definition['Reactions Documentation'] = 'Dogfennaeth Ymatebion';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Ategyn sylwadau parod Vanilla ar gyfer WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Ategyn Fforwm Vanilla parod ar gyfer WordPress';
 $Definition['Realtime progress bars: %s'] = 'Bariau cynnydd amser real: %s';
@@ -335,9 +339,8 @@ $Definition['Video tutorial on user registration'] = 'Tiwtorialau fideo ar gofre
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Rhybudd: Gall galluogi\'r nodwedd hon achosi gwallau Javascript ar eich gwefan.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Rhybudd</b> : Nid yw cyfluniad eich gweinydd yn cefnogi llwytho data yn gyflym. Os ydych chi\'n mewnforio ffeil fawr iawn (cyn. 200,000 o sylwadau) efallai yr hoffech chi ystyried newid eich cyfluniad. Cliciwch <a href="http://vanillaforums.com/porter">yma</a> i gael mwy o wybodaeth.';
 $Definition['Warning: This is for advanced users.'] = '<b>Rhybudd</b>: Mae hyn ar gyfer defnyddwyr profiadol ac yn gofyn am wneud newidiadau ychwanegol i weinydd eich gwefan. Fel arfer mae angen gwesteio neilltuedig neu vps ar gyfer hyn. Peidiwch ceisio gwneud hyn os nad ydych yn gwybod beth rydych yn ei wneud.';
-$Definition['Welcome to Labs!'] = 'Croeso i Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Croeso i UI thematig Vanilla. Mae\'r dudalen hon yn rhestru\'ch holl themâu sydd ar gael, ac yn caniatáu ichi eu copïo neu eu golygu.';
-$Definition['Welcome To Your Theme'] = 'Croeso i\'ch Thema';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Rydym yn argymell galluogi 1-3 adwaith ar y tro i osgoi llethu defnyddwyr.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Pan fydd wedi\'i alluogi, gall defnyddwyr ddewis derbyn hysbysiadau gan y gymuned';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Pan fydd wedi\'i alluogi, gallwch reoli cynhyrchion, a grwpio is-gymunedau yn ôl y cynhyrchion hynny.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Pan fydd rhywun yn rhannu dolen o\'ch gwefan, rydyn ni\'n ceisio bachu delwedd o\'r dudalen. Os nad oes delwedd ar y dudalen yna byddwn yn defnyddio\'r ddelwedd hon yn lle. Dylai\'r ddelwedd fod o leiaf 50 × 50, ond rydym yn argymell 200 × 200.';

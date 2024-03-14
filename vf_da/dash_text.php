@@ -131,8 +131,8 @@ $Definition['Global Styles'] = 'Globale stilarter';
 
 $Definition['Heads Up!'] = 'Bemærk!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Bemærk! Dette er en speciel rolle som ikke tillader interaktive sessioner.  Derfor er tilladelserne blevet begrænset til "læs" tilladelse.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Her er de rækker, som brugerne kan opnå på dit websted. Du kan tilpasse disse rækker og endda tilføje nye. Her er nogle tip.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Her er de rækker, som brugerne kan opnå på dit websted. Du kan tilpasse disse rækker og endda tilføje nye. Her er nogle tip.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Hvis et banner logo uploades, vil det erstatte banner titlen på forum sider som brugerne ser.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Hvis en bruger ikke besøger webstedet inden for denne tidsperiode, bliver vedkommende automatisk logget ud.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Hvis det er aktiveret, vil det fulde indhold af poster blive sendt i e-mail-meddelelser til brugerne.';
@@ -172,8 +172,11 @@ $Definition['Managing Users'] = 'Håndtering af brugere';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Hvis du markerer noget som IKKE spam, så dukker det op i dit forum igen.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Hvis du markerer noget som ikke-spam, så dukker det op i dit forum igen.';
 $Definition['Messages can appear anywhere in your application.'] = 'Beskeder kan ses overalt i forummet og kan bruges til at orientere dine brugere om nyheder og hændelser. Brug denne side til at organisere dine beskeder ved at trække dem op eller ned.';
-$Definition['MobileLogoDescription'] = 'Det mobile bannerlogo vises øverst på dit websted.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mobiltemaer giver dig mulighed for at ændre udseendet og følelsen af dit websted på mindre enheder.';
+$Definition['MobileLogoDescription'] =
+    'Det mobile bannerlogo vises øverst på dit websted.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Mobiltemaer giver dig mulighed for at ændre udseendet og følelsen af dit websted på mindre enheder.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'De fleste lokalsamfund holder fast i positive reaktioner for at opmuntre til deltagelse.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Den nye Layout Editor vil arve det tema, der er sat i din Style Guide (formelt tema editor). <1>Få mere at vide</1>';
 $Definition['Need More Help?'] = 'Behov for mere hjælp?';
@@ -209,6 +212,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Nem vejlednin
 $Definition['Quicklinks'] = 'Hurtige links';
 $Definition['Quick Links is a default component on community pages.'] = 'Hurtige links er en standardkomponent på fællesskabssider. Aktiver vores nye Quick Links -komponent for at tilføje, redigere eller skjule links fra denne menu ved hjælp af vores temaditor.';
 
+$Definition['Reactions Documentation'] = 'Reaktionsdokumentation';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Tilføjelse der gør det muligt at bruge Vanilla kommentarer med WordPress.';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Tilføjelse der gør det muligt at bruge Vanilla forum med WordPress.';
 $Definition['Realtime progress bars: %s'] = 'Live statusmåler: %s';
@@ -332,9 +336,8 @@ $Definition['Video tutorial on user registration'] = 'Videovejledning om registr
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Advarsel: Aktivering af denne funktion kan forårsage Javascript-fejl på dit websted.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Advarsel</b> : Din serverkonfiguration understøtter ikke hurtig dataindlæsning. Hvis du importerer en meget stor fil (f.eks. Over 200.000 kommentarer), kan du overveje at ændre din konfiguration. Klik <a href="http://vanillaforums.com/porter">her</a> for mere information.';
 $Definition['Warning: This is for advanced users.'] = '<b>Advarsel</b>: Dette er for avancerede brugere og kræver at du laver yderligere ændringer til din web server. Dette er normalt kun en mulighed hvis du har en dedikeret eller VPS løsning. Forsøg ikke dette hvis du ikke ved hvad du gør.';
-$Definition['Welcome to Labs!'] = 'Velkommen til Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Velkommen til Vanilla\'s tema UI. Denne side viser alle dine tilgængelige temaer og giver dig mulighed for at kopiere eller redigere dem.';
-$Definition['Welcome To Your Theme'] = 'Velkommen til dit tema';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Vi anbefaler at aktivere 1-3 reaktioner ad gangen for at undgå overvældende brugere.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Når det er aktiveret, kan brugere vælge at modtage meddelelser fra fællesskabet';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Når det er aktiveret, kan du administrere produkter og gruppere underfællesskaber efter disse produkter.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Når nogen deler et link fra dit websted, prøver vi at få et billede fra siden. Hvis der ikke er et billede på siden, bruger vi dette billede i stedet. Billedet skal være mindst 50 × 50, men vi anbefaler 200 × 200.';

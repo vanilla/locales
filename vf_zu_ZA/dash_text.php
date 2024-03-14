@@ -130,8 +130,8 @@ $Definition['Global Styles'] = 'Izitayela Zomhlaba';
 
 $Definition['Heads Up!'] = 'Amakhanda phezulu!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Amakhanda phezulu! Le yindima ekhethekile engavumeli amaseshini asebenzayo. Ngalesi sizathu, izinketho zemvume zikhawulelwe izimvume "zokubuka".';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Nawa amasheya abasebenzisi abangawafinyelela kusayithi lakho. Ungawenza ngokwezifiso lezi zigaba futhi ungeze nezintsha. Nawa amanye amathiphu.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Nawa amasheya abasebenzisi abangawafinyelela kusayithi lakho. Ungawenza ngokwezifiso lezi zigaba futhi ungeze nezintsha. Nawa amanye amathiphu.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Uma ilogo yesibhengezo ilayishwa, izothatha isikhundla sesihloko sesibhengezo kumakhasi eforamu abheke abasebenzisi.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Uma umsebenzisi engavakasheli isayithi phakathi nalesi sikhathi uzokhishwa ngokuzenzakalelayo.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Uma kunikwe amandla, okuqukethwe okugcwele kokuthunyelwe kuzothunyelwa kwizaziso ze-imeyili kubasebenzisi.';
@@ -174,8 +174,11 @@ $Definition['Managing Users'] = 'Ukuphatha Abasebenzisi';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Ukumaka izinto njengokuthi AKUFUNI ogaxekile kuzobabuyisela esithangamini sakho.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ukumaka izinto njengezingekho kogaxekile kuzozibuyisela emuva esithangamini sakho.';
 $Definition['Messages can appear anywhere in your application.'] = 'Imilayezo ingavela noma yikuphi kuhlelo lwakho lokusebenza, futhi lungasetshenziselwa ukwazisa abasebenzisi bakho ngezindaba nezehlakalo. Sebenzisa leli khasi ukuhlela kabusha imilayezo yakho ngokuyihudulela phezulu noma phansi.';
-$Definition['MobileLogoDescription'] = 'I-logo yamabhanela eselula avela phezulu kusayithi lakho.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Izindikimba zeselula zikuvumela ukuthi ushintshe ukubukeka nokuzwa kwesayithi lakho kumadivayisi amancane.';
+$Definition['MobileLogoDescription'] =
+    'I-logo yamabhanela eselula avela phezulu kusayithi lakho.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Izindikimba zeselula zikuvumela ukuthi ushintshe ukubukeka nokuzwa kwesayithi lakho kumadivayisi amancane.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Imiphakathi eminingi ibambelela ekuphenduleni okuhle ukuze ikhuthaze ukubamba iqhaza.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'QAPHELA Umhleli Wesakhiwo esisha uzodla ifa letimu esethwe Kumhlahlandlela wakho Wesitayela (umhleli wetimu ngokusemthethweni). <1>Thola okwengeziwe</1>';
 $Definition['Need More Help?'] = 'Ngabe udinga usizo olwengeziwe?';
@@ -211,6 +214,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Umhlahlandlel
 $Definition['Quicklinks'] = 'Izixhumanisi ezisheshayo';
 $Definition['Quick Links is a default component on community pages.'] = 'I-Quick Links iyinto ezenzakalelayo emakhasini omphakathi. Nika amandla ingxenye yethu entsha ye-Quick Links ukwengeza, ukuhlela noma ukufihla izixhumanisi ezivela kule menyu usebenzisa isihleli setimu yethu.';
 
+$Definition['Reactions Documentation'] = 'Ukusabela Imibhalo';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'I-plugin ye-Vanilla Comments eyenziwe isilungele ye-WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'I-plugin ye-Vanilla Forum elungiselelwe eyenziwe ye-WordPress';
 $Definition['Realtime progress bars: %s'] = 'Amabha wenqubekela phambili wesikhathi esisetshenziswa: %s';
@@ -335,10 +339,8 @@ $Definition['Video tutorial on user registration'] = 'Isifundo sevidiyo ekubhali
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Isexwayiso: Ukunika amandla lesi sici kungadala amaphutha weJavascript kusayithi lakho.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Isexwayiso</b> : Ukulungiswa kweseva yakho akusekeli ukulayisha idatha okusheshayo. Uma ungenisa ifayela elikhulu kakhulu (imibono engaphezulu kwama-200,000) ungahle uthande ukucabanga ngokushintsha ukumiswa kwakho. Chofoza <a href="http://vanillaforums.com/porter">lapha</a> ukuthola eminye imininingwane.';
 $Definition['Warning: This is for advanced users.'] = '<b>Isexwayiso</b> : Lokhu kwenzelwa abasebenzisi abasezingeni eliphezulu futhi kudinga ukuthi wenze ushintsho olwengeziwe kuseva yakho ye-web. Lokhu kuvame ukutholakala kuphela uma uzinikezele noma usingatha i-vps. Ungazami lokhu uma ungazi ukuthi wenzani.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Sincoma ukuthi unike amandla ukusabela okungu-1–3 ngesikhathi ukuze ugweme abasebenzisi abaningi.';
 $Definition['Webhooks'] = 'Ama-Webhooks';
-$Definition['Welcome to Labs!'] = 'Uyemukelwa kumaLab!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Siyakwamukela ku-UI yetimu ye-Vanilla. Leli khasi libala zonke izingqikithi zakho ezitholakalayo, futhi likuvumela ukuthi uzikopishe noma uzihlele.';
-$Definition['Welcome To Your Theme'] = 'Uyemukelwa ku-Itimu Yakho';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Uma inikwe amandla, abasebenzisi bangakhetha ukuthola izaziso ezivela emphakathini';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Uma unikwe amandla, ungaphatha imikhiqizo, kanye namaqembu amancane weqembu ngaleyo mikhiqizo.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Lapho othile abelana ngesixhumanisi kusuka kusayithi lakho sizama futhi sibambe isithombe esivela ekhasini. Uma kungekho isithombe ekhasini khona-ke sizosebenzisa lesi sithombe esikhundleni. Lesi sithombe kufanele okungenani sibe ngu-50 × 50, kepha sincoma ama-200 × 200.';

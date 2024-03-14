@@ -144,8 +144,8 @@ $Definition['Global Styles'] = '글로벌 스타일';
 
 $Definition['Heads Up!'] = '조심하세요!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = '주의하세요! 이것은 활성 세션을 허용하지 않는 특수한 역할입니다. 이러한 이유로 권한 허용 옵션이 "보기" 권한 허용으로 제한되었습니다. ';
-$Definition['Here are the ranks that users can achieve on your site.'] = '사용자가 사이트에서 달성 할 수있는 순위는 다음과 같습니다. 이 순위를 사용자 정의하고 새 순위를 추가 할 수도 있습니다. 여기 몇 가지 팁이 있습니다.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    '사용자가 사이트에서 달성 할 수있는 순위는 다음과 같습니다. 이 순위를 사용자 정의하고 새 순위를 추가 할 수도 있습니다. 여기 몇 가지 팁이 있습니다.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = '배너 로그가 업로드된 경우 그것은 사용자 대면 포럼 페이지에서 배너 타이틀을 대체합니다. ';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = '사용자가 이 시간 내에 사이트를 방문하지 않으면 자동으로 로그아웃됩니다.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = '활성화되면 게시글의 전체 콘텐츠가 사용자에게 이메일 알림으로 전송됩니다.';
@@ -190,8 +190,11 @@ $Definition['Marking things as not spam will put them back in your forum.'] = '�
 $Definition['Messages can appear anywhere in your application.'] = '메시지는 포럼에 어디에나 나타날 수 있으며, 뉴스나 공지, 이벤트 등의 정보를 알리기 위해 사용할 수 있습니다.
 
 <br />메세지 작성 후 목록에서 순서를 변경할 수 있습니다.';
-$Definition['MobileLogoDescription'] = '모바일 배너 로고가 사이트 상단에 나타납니다.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = '모바일 테마를 사용하면 더 작은 기기에서 사이트의 모양과 느낌을 변경할 수 있습니다.';
+$Definition['MobileLogoDescription'] =
+    '모바일 배너 로고가 사이트 상단에 나타납니다.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    '모바일 테마를 사용하면 더 작은 기기에서 사이트의 모양과 느낌을 변경할 수 있습니다.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = '대부분의 커뮤니티는 참여를 장려하기 위해 긍정적인 반응을 고수합니다.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB 새 레이아웃 편집기는 스타일 가이드(공식적으로는 테마 편집기)에 설정된 테마를 상속합니다. <1>자세히 알아보기</1>';
 $Definition['Need more help?'] = '도움이 더 필요하세요?';
@@ -226,6 +229,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = '바닐라 테
 $Definition['Quicklinks'] = '빠른 링크';
 $Definition['Quick Links is a default component on community pages.'] = '빠른 링크는 커뮤니티 페이지의 기본 구성 요소입니다. 테마 편집기를 사용하여 이 메뉴에서 링크를 추가, 편집 또는 숨기려면 새로운 빠른 링크 구성 요소를 활성화하십시오.';
 
+$Definition['Reactions Documentation'] = '반응 문서';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = '이미 주어진 워드프레스용 바닐라 코멘트 플러그인';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = '이미 주어진 워드프레스용 바닐라 포럼 플러그인';
 $Definition['Realtime progress bars: %s'] = '실시간 진행률 표시줄: %s';
@@ -350,10 +354,8 @@ $Definition['Video tutorial on user registration'] = '사용자 등록에 관한
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = '경고 :이 기능을 사용하면 사이트에서 Javascript 오류가 발생할 수 있습니다.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>경고</b> : 서버 구성은 빠른 데이터로드를 지원하지 않습니다. 매우 큰 파일 (예 : 200,000 개 이상의 주석)을 가져 오는 경우 구성 변경을 고려할 수 있습니다. 자세한 내용은 <a href="http://vanillaforums.com/porter">여기</a> 를 클릭 <a href="http://vanillaforums.com/porter">하십시오</a> .';
 $Definition['Warning: This is for advanced users.'] = '<b>경고</b>: 이것은 고급 사용자용이고 웹 서버를 추가로 변경해야 합니다. 이것은 보통 전용 혹은 VPS 호스팅을 소유한 경우에만 사용할 수 있습니다. 지금 무엇을 하는지 모르는 경우에는 이것을 시도하지 마세요.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = '사용자가 너무 많아지지 않도록 한 번에 1~3개의 반응을 활성화하는 것이 좋습니다.';
 $Definition['Webhooks'] = '웹훅';
-$Definition['Welcome to Labs!'] = '연구소에 오신 것을 환영합니다!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Vanilla의 테마 UI에 오신 것을 환영합니다. 이 페이지에는 사용 가능한 모든 테마가 나열되며 이를 복사하거나 편집할 수 있습니다.';
-$Definition['Welcome To Your Theme'] = '테마에 오신 것을 환영합니다';
 $Definition['When enabled, users may choose to receive notifications from the community'] = '활성화되면 사용자는 커뮤니티로부터 알림을 받도록 선택할 수 있습니다.';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = '사용 가능한 경우 제품을 관리하고 해당 제품별로 하위 커뮤니티를 그룹화 할 수 있습니다.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = '누군가가 귀하의 사이트에서 링크를 공유하면 페이지에서 이미지를 가져오려고 합니다. 페이지에 이미지가 없으면 이 이미지를 대신 사용합니다. 이미지는 최소 50×50이어야 하지만 200×200을 권장합니다.';

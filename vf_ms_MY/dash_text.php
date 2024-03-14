@@ -130,8 +130,8 @@ $Definition['Global Styles'] = 'Gaya Global';
 
 $Definition['Heads Up!'] = 'Awas!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Awas! Ini adalah peranan khas yang tidak membenarkan sesi aktif. Atas sebab ini, pilihan kebenaran telah terhad kepada kebenaran "melihat".';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Berikut adalah kedudukan yang boleh dicapai oleh pengguna di laman web anda. Anda boleh menyesuaikan peringkat ini dan bahkan menambah yang baru. Berikut adalah beberapa petua.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Berikut adalah kedudukan yang boleh dicapai oleh pengguna di laman web anda. Anda boleh menyesuaikan peringkat ini dan bahkan menambah yang baru. Berikut adalah beberapa petua.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Sekiranya logo sepanduk dimuat, ia akan menggantikan tajuk sepanduk di halaman forum yang menghadap pengguna.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Jika pengguna tidak melawat tapak dalam tempoh masa ini mereka akan dilog keluar secara automatik.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Sekiranya diaktifkan, kandungan penuh siaran akan dihantar dalam pemberitahuan e-mel kepada pengguna.';
@@ -173,8 +173,11 @@ $Definition['Managing Users'] = 'Menguruskan Pengguna';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Menandakan perkara sebagai BUKAN spam akan mengembalikannya di forum anda.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Menandakan sesuatu sebagai bukan spam akan meletakkannya kembali di forum anda.';
 $Definition['Messages can appear anywhere in your application.'] = 'Mesej boleh muncul di mana saja dalam aplikasi anda, dan dapat digunakan untuk memberi tahu pengguna tentang berita dan peristiwa. Gunakan halaman ini untuk menyusun semula mesej anda dengan menyeretnya ke atas atau ke bawah.';
-$Definition['MobileLogoDescription'] = 'Logo sepanduk bergerak muncul di bahagian atas laman web anda.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Tema mudah alih membolehkan anda mengubah rupa dan nuansa laman web anda pada peranti yang lebih kecil.';
+$Definition['MobileLogoDescription'] =
+    'Logo sepanduk bergerak muncul di bahagian atas laman web anda.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Tema mudah alih membolehkan anda mengubah rupa dan nuansa laman web anda pada peranti yang lebih kecil.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Kebanyakan komuniti berpegang kepada reaksi positif untuk menggalakkan penyertaan.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Editor Reka Letak baharu akan mewarisi set tema dalam Panduan Gaya anda (secara rasmi editor tema). <1>Ketahui lebih lanjut</1>';
 $Definition['Need More Help?'] = 'Perlukan Lebih Banyak Bantuan?';
@@ -210,6 +213,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Panduan Memul
 $Definition['Quicklinks'] = 'Pautan pantas';
 $Definition['Quick Links is a default component on community pages.'] = 'Pautan Pantas adalah komponen lalai di laman komuniti. Dayakan komponen Pautan Pantas kami untuk menambah, mengedit atau menyembunyikan pautan dari menu ini menggunakan penyunting tema kami.';
 
+$Definition['Reactions Documentation'] = 'Dokumentasi Reaksi';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin Komen Vanilla Sedia untuk WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin Forum Vanila siap pakai untuk WordPress';
 $Definition['Realtime progress bars: %s'] = 'Bar kemajuan masa nyata: %s';
@@ -334,9 +338,8 @@ $Definition['Video tutorial on user registration'] = 'Tutorial video mengenai pe
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Amaran: Mengaktifkan fitur ini boleh menyebabkan kesalahan Javascript di laman web anda.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Amaran</b> : Konfigurasi pelayan anda tidak menyokong pemuatan data yang pantas. Sekiranya anda mengimport fail yang sangat besar (mis. Lebih dari 200,000 komen) anda mungkin ingin mempertimbangkan untuk mengubah konfigurasi anda. Klik <a href="http://vanillaforums.com/porter">di sini</a> untuk maklumat lebih lanjut.';
 $Definition['Warning: This is for advanced users.'] = '<b>Amaran</b> : Ini untuk pengguna lanjutan dan menghendaki anda membuat perubahan tambahan pada pelayan web anda. Ini biasanya hanya tersedia jika anda mempunyai hosting khusus atau vps. Jangan mencuba ini jika anda tidak tahu apa yang anda lakukan.';
-$Definition['Welcome to Labs!'] = 'Selamat Datang ke Makmal!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Selamat datang ke UI bertemakan Vanila. Halaman ini menyenaraikan semua tema anda yang tersedia dan membolehkan anda menyalin atau mengeditnya.';
-$Definition['Welcome To Your Theme'] = 'Selamat Datang ke Tema Anda';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Kami mengesyorkan mendayakan 1–3 reaksi pada satu masa untuk mengelakkan pengguna yang melampau.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Apabila didayakan, pengguna boleh memilih untuk menerima pemberitahuan daripada komuniti';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Apabila diaktifkan, anda boleh menguruskan produk, dan mengelompokkan subkomuniti mengikut produk tersebut.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Apabila seseorang berkongsi pautan dari laman web anda, kami mencuba dan mengambil gambar dari halaman. Sekiranya tidak ada gambar di halaman maka kami akan menggunakan gambar ini sebagai gantinya. Gambar mestilah sekurang-kurangnya 50 × 50, tetapi kami mengesyorkan 200 × 200.';

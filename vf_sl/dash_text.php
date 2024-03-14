@@ -129,8 +129,8 @@ $Definition['Global Styles'] = 'Globalni slogi';
 
 $Definition['Heads Up!'] = 'Glavo pokonci!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Glavo pokonci! To je posebna vloga, ki ne dovoljuje aktivnih sej. Iz tega razloga so bile možnosti dovoljenj omejene na dovoljenja za »ogled«.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Tukaj so uvrstitve, ki jih lahko uporabniki dosežejo na vašem spletnem mestu. Te uvrstitve lahko prilagodite in celo dodate nove. Tukaj je nekaj nasvetov.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Tukaj so uvrstitve, ki jih lahko uporabniki dosežejo na vašem spletnem mestu. Te uvrstitve lahko prilagodite in celo dodate nove. Tukaj je nekaj nasvetov.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Če je naložen logotip pasice, bo nadomestil naslov pasice na straneh foruma, ki jih vidijo uporabniki.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Če uporabnik v tem času ne obišče spletnega mesta, bo samodejno odjavljen.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Če je omogočeno, bo uporabnikom v e-poštnih obvestilih poslana celotna vsebina objav.';
@@ -173,8 +173,11 @@ $Definition['Managing Users'] = 'Upravljanje uporabnikov';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Če stvari označite kot NI vsiljena pošta, jih boste vrnili na svoj forum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Če stvari označite kot neželeno, jih boste vrnili na svoj forum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Sporočila se lahko prikažejo kjer koli v vaši aplikaciji in se lahko uporabljajo za obveščanje uporabnikov o novicah in dogodkih. Uporabite to stran za ponovno organiziranje sporočil tako, da jih povlečete gor ali dol.';
-$Definition['MobileLogoDescription'] = 'Logotip mobilne pasice se prikaže na vrhu vašega spletnega mesta.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Mobilne teme vam omogočajo, da spremenite videz in občutek vašega spletnega mesta na manjših napravah.';
+$Definition['MobileLogoDescription'] =
+    'Logotip mobilne pasice se prikaže na vrhu vašega spletnega mesta.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Mobilne teme vam omogočajo, da spremenite videz in občutek vašega spletnega mesta na manjših napravah.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Večina skupnosti se drži pozitivnih odzivov za spodbujanje sodelovanja.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Opomba: novi urejevalnik postavitve bo podedoval temo, nastavljeno v vašem vodniku po slogu (formalno urejevalnik tem). <1>Izvedite več</1>';
 $Definition['Need More Help?'] = 'Potrebujete več pomoči?';
@@ -210,6 +213,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Hitri vodnik 
 $Definition['Quicklinks'] = 'Hitre povezave';
 $Definition['Quick Links is a default component on community pages.'] = 'Hitre povezave so privzeta komponenta na straneh skupnosti. Omogočite našo novo komponento hitrih povezav, da dodate, uredite ali skrijete povezave iz tega menija z našim urejevalnikom tem.';
 
+$Definition['Reactions Documentation'] = 'Dokumentacija o reakcijah';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Pripravljen vtičnik za komentarje Vanilla za WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Pripravljen vtičnik Vanilla Forum za WordPress';
 $Definition['Realtime progress bars: %s'] = 'Vrstice napredka v realnem času: %s';
@@ -333,9 +337,8 @@ $Definition['Video tutorial on user registration'] = 'Video navodila za registra
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Opozorilo: omogočanje te funkcije lahko povzroči napake Javascripta na vašem spletnem mestu.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Opozorilo</b> : konfiguracija vašega strežnika ne podpira hitrega nalaganja podatkov. Če uvažate zelo veliko datoteko (npr. več kot 200.000 komentarjev), boste morda želeli razmisliti o spremembi konfiguracije. Kliknite <a href="http://vanillaforums.com/porter">tukaj</a> za več informacij.';
 $Definition['Warning: This is for advanced users.'] = '<b>Opozorilo</b> : To je za napredne uporabnike in zahteva dodatne spremembe v vašem spletnem strežniku. To je običajno na voljo samo, če imate namensko ali vps gostovanje. Ne poskušajte tega, če ne veste, kaj počnete.';
-$Definition['Welcome to Labs!'] = 'Dobrodošli v laboratorijih!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Dobrodošli v tematskem uporabniškem vmesniku Vanilla. Na tej strani so navedene vse vaše razpoložljive teme in vam omogoča, da jih kopirate ali urejate.';
-$Definition['Welcome To Your Theme'] = 'Dobrodošli v vaši temi';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Priporočamo, da omogočite 1–3 reakcije naenkrat, da preprečite preobremenitev uporabnikov.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Ko je omogočeno, se lahko uporabniki odločijo za prejemanje obvestil skupnosti';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Ko je omogočeno, lahko upravljate izdelke in združujete podskupnosti po teh izdelkih.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Ko nekdo deli povezavo z vašega mesta, poskušamo zgrabiti sliko s strani. Če na strani ni slike, bomo namesto nje uporabili to sliko. Slika naj bo velika vsaj 50×50, priporočamo pa 200×200.';

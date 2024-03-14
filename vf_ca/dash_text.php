@@ -129,8 +129,8 @@ $Definition['Global Styles'] = 'Estils globals';
 
 $Definition['Heads Up!'] = 'Caps amunt!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Caps amunt! Aquest és un paper especial que no permet sessions actives. Per aquest motiu, les opcions de permís s’han limitat als permisos de “visualització”.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'A continuació, es mostren les files que els usuaris poden assolir al vostre lloc. Podeu personalitzar aquests rangs i fins i tot afegir-ne de nous. Aquí hi ha alguns consells.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'A continuació, es mostren les files que els usuaris poden assolir al vostre lloc. Podeu personalitzar aquests rangs i fins i tot afegir-ne de nous. Aquí hi ha alguns consells.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Si es penja un logotip de pancarta, substituirà el títol del bàner a les pàgines del fòrum orientades a l\'usuari.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Si un usuari no visita el lloc durant aquest període de temps, es tancarà automàticament la sessió.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Si està activat, el contingut complet de les publicacions s\'enviarà en notificacions per correu electrònic als usuaris.';
@@ -173,8 +173,11 @@ $Definition['Managing Users'] = 'Gestió d\'usuaris';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Si marques les coses com a correu brossa, les tornaran al fòrum.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Si marques les coses com a no brossa, les tornaran a afegir al fòrum.';
 $Definition['Messages can appear anywhere in your application.'] = 'Els missatges poden aparèixer a qualsevol lloc de la vostra aplicació i es poden utilitzar per informar els vostres usuaris de notícies i esdeveniments. Utilitzeu aquesta pàgina per tornar a organitzar els vostres missatges arrossegant-los cap amunt o cap avall.';
-$Definition['MobileLogoDescription'] = 'El logotip de la bandera mòbil apareix a la part superior del lloc.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Els temes per a mòbils us permeten canviar l’aspecte del vostre lloc en dispositius més petits.';
+$Definition['MobileLogoDescription'] =
+    'El logotip de la bandera mòbil apareix a la part superior del lloc.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Els temes per a mòbils us permeten canviar l’aspecte del vostre lloc en dispositius més petits.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'La majoria de comunitats s\'adhereixen a reaccions positives per fomentar la participació.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB El nou editor de disseny heretarà el tema establert a la vostra Guia d\'estil (formalment editor de temes). <1>Més informació</1>';
 $Definition['Need More Help?'] = 'Necessiteu més ajuda?';
@@ -210,6 +213,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Guia d\'inici
 $Definition['Quicklinks'] = 'Links ràpids';
 $Definition['Quick Links is a default component on community pages.'] = 'Enllaços ràpids és un component predeterminat a les pàgines de la comunitat. Activeu el nostre nou component d’enllaços ràpids per afegir, editar o amagar enllaços d’aquest menú mitjançant el nostre editor de temes.';
 
+$Definition['Reactions Documentation'] = 'Documentació de reaccions';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Plugin de comentaris de vainilla a punt per WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Plugin preparat per a la vainilla for WordPress';
 $Definition['Realtime progress bars: %s'] = 'Barres de progrés en temps real: %s';
@@ -332,9 +336,8 @@ $Definition['Video tutorial on user registration'] = 'Video tutorial sobre regis
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Avís: l\'activació d\'aquesta funció pot causar errors de Javascript al vostre lloc.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Avís</b> : la vostra configuració del servidor no admet la càrrega ràpida de dades. Si importeu un fitxer molt gran (ex. Més de 200.000 comentaris), potser voldreu plantejar-vos canviar la configuració. Feu clic <a href="http://vanillaforums.com/porter">aquí</a> per obtenir més informació.';
 $Definition['Warning: This is for advanced users.'] = '<b>Avís</b> : és per a usuaris avançats i requereix que feu canvis addicionals al servidor web. Normalment només està disponible si teniu allotjament dedicat o vps. No ho intenteu si no sabeu el que esteu fent.';
-$Definition['Welcome to Labs!'] = 'Benvingut a Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Benvingut a la interfície d\'usuari temàtica de Vanilla. Aquesta pàgina enumera tots els temes disponibles i us permet copiar-los o editar-los.';
-$Definition['Welcome To Your Theme'] = 'Benvinguts al vostre tema';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Us recomanem que habiliteu entre 1 i 3 reaccions alhora per evitar aclaparar els usuaris.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Quan està activat, els usuaris poden optar per rebre notificacions de la comunitat';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Quan està activat, podeu gestionar els productes i agrupar les subcomunitats per aquests productes.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Quan algú comparteix un enllaç del vostre lloc, intentem agafar una imatge de la pàgina. Si no hi ha cap imatge a la pàgina, utilitzarem aquesta imatge. La imatge ha de tenir almenys 50×50, però recomanem 200×200.';

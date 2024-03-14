@@ -131,8 +131,8 @@ $Definition['Global Styles'] = 'Phong cách toàn cầu';
 
 $Definition['Heads Up!'] = 'Coi chừng!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Bắt đầu! Đây là một vai trò đặc biệt không cho phép kích hoạt phiên. Vì lý do này, quyền "xem" bị hạn chế.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Dưới đây là thứ hạng mà người dùng có thể đạt được trên trang web của bạn. Bạn có thể tùy chỉnh các cấp bậc này và thậm chí thêm những thứ hạng mới. Dưới đây là một số lời khuyên.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Dưới đây là thứ hạng mà người dùng có thể đạt được trên trang web của bạn. Bạn có thể tùy chỉnh các cấp bậc này và thậm chí thêm những thứ hạng mới. Dưới đây là một số lời khuyên.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Nếu biểu trưng biểu ngữ được tải lên, nó sẽ thay thế tiêu đề bảng quảng cáo trên các trang của diễn đàn.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Nếu người dùng không truy cập trang web trong khoảng thời gian này, họ sẽ tự động bị đăng xuất.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Nếu được bật, toàn bộ nội dung của bài đăng sẽ được gửi trong thông báo qua email cho người dùng.';
@@ -175,8 +175,11 @@ $Definition['Managing Users'] = 'Quản lý người dùng';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Đánh dấu những thứ là không phải thư rác sẽ đặt chúng trở lại trong diễn đàn của bạn.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Đánh dấu những thứ là không phải thư rác sẽ đặt chúng trở lại trong diễn đàn của bạn.';
 $Definition['Messages can appear anywhere in your application.'] = 'Tin nhắn có thể xuất hiện bất cứ nơi nào trong ứng dụng của bạn, và có thể được sử dụng để thông báo cho người dùng về tin tức và sự kiện. Sử dụng Trang này để tái tổ chức thư của bạn bằng cách kéo chúng lên hoặc xuống.';
-$Definition['MobileLogoDescription'] = 'Logo biểu ngữ di động xuất hiện ở đầu trang web của bạn.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Chủ đề di động cho phép bạn thay đổi giao diện trang web của mình trên các thiết bị nhỏ hơn.';
+$Definition['MobileLogoDescription'] =
+    'Logo biểu ngữ di động xuất hiện ở đầu trang web của bạn.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Chủ đề di động cho phép bạn thay đổi giao diện trang web của mình trên các thiết bị nhỏ hơn.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Hầu hết các cộng đồng đều có những phản ứng tích cực để khuyến khích sự tham gia.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'NB Trình chỉnh sửa bố cục mới sẽ kế thừa bộ chủ đề trong Hướng dẫn kiểu của bạn (chính thức là trình chỉnh sửa chủ đề). <1> Tìm hiểu thêm</1>';
 $Definition['Need More Help?'] = 'Cần trợ giúp thêm?';
@@ -212,6 +215,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Hướng dẫ
 $Definition['Quicklinks'] = 'Đường dẫn nhanh';
 $Definition['Quick Links is a default component on community pages.'] = 'Liên kết nhanh là một thành phần mặc định trên các trang cộng đồng. Bật thành phần Liên kết nhanh mới của chúng tôi để thêm, chỉnh sửa hoặc ẩn các liên kết khỏi menu này bằng trình chỉnh sửa chủ đề của chúng tôi.';
 
+$Definition['Reactions Documentation'] = 'Tài liệu phản ứng';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Sẵn sàng tạo Plugin Bình luận cho WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Sẵn sàng tạo Plugin Diễn đàn cho WordPress';
 $Definition['Realtime progress bars: %s'] = 'Thanh tiến trình: %s';
@@ -334,9 +338,8 @@ $Definition['Video tutorial on user registration'] = 'Video hướng dẫn về 
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Cảnh báo: Kích hoạt tính năng này có thể gây ra lỗi Javascript trên trang web của bạn.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Cảnh báo</b> : Cấu hình máy chủ của bạn không hỗ trợ tải dữ liệu nhanh. Nếu bạn đang nhập một tệp rất lớn (ví dụ: hơn 200.000 nhận xét), bạn có thể muốn xem xét thay đổi cấu hình của mình. Nhấn vào <a href="http://vanillaforums.com/porter">đây</a> để biết thêm thông tin.';
 $Definition['Warning: This is for advanced users.'] = '<b>Cảnh báo</b>: phần này là dành cho người dùng cao cấp và yêu cầu phải thực hiện các thay đổi cho máy chủ web. Nó chỉ dùng được nếu bạn có một máy chủ riêng. Đừng cố thử nếu bạn không biết những gì bạn đang làm.';
-$Definition['Welcome to Labs!'] = 'Chào mừng bạn đến với Labs!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Chào mừng bạn đến với giao diện người dùng theo chủ đề của Vanilla. Trang này liệt kê tất cả các chủ đề có sẵn của bạn và cho phép bạn sao chép hoặc chỉnh sửa chúng.';
-$Definition['Welcome To Your Theme'] = 'Chào mừng đến với chủ đề của bạn';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Chúng tôi khuyên bạn nên bật 1–3 phản ứng cùng một lúc để tránh khiến người dùng choáng ngợp.';
+$Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Khi được bật, người dùng có thể chọn nhận thông báo từ cộng đồng';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Khi được bật, bạn có thể quản lý các sản phẩm và phân nhóm thông tin theo các sản phẩm đó.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Khi ai đó chia sẻ một liên kết từ trang web của bạn, chúng tôi sẽ thử và lấy một hình ảnh từ trang. Nếu không có hình ảnh trên trang thì chúng tôi sẽ sử dụng hình ảnh này để thay thế. Hình ảnh phải có kích thước tối thiểu 50 × 50, nhưng chúng tôi khuyên dùng 200 × 200.';

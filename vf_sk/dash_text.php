@@ -132,8 +132,8 @@ $Definition['Global Styles'] = 'Globálne štýly';
 
 $Definition['Heads Up!'] = 'Informácia!';
 $Definition['Heads Up! This is a special role that does not allow active sessions. For this reason, the permission options have been limited to "view" permissions.'] = 'Informácia! Toto je špeciálna rola, ktorá neumožňuje aktívne relácie. Z tohto dôvodu sú možnosti povolení obmedzené na povolenia „zobraziť“.';
-$Definition['Here are the ranks that users can achieve on your site.'] = 'Tu sú rady, ktoré môžu používatelia dosiahnuť na vašom webe. Tieto kategórie môžete prispôsobiť a dokonca pridať nové. Tu je niekoľko tipov.';
-
+$Definition['Here are the ranks that users can achieve on your site.'] =
+    'Tu sú rady, ktoré môžu používatelia dosiahnuť na vašom webe. Tieto kategórie môžete prispôsobiť a dokonca pridať nové. Tu je niekoľko tipov.';
 $Definition['If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Po nahraní loga banneru bude nahradený názov bannera na stránkach fóra orientovaných na používateľa.';
 $Definition['If a user does not visit the site within this time period they will be automatically signed out.'] = 'Ak používateľ nenavštívi stránku v tomto časovom období, bude automaticky odhlásený.';
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Ak je povolená, celý obsah príspevkov sa odošle používateľom prostredníctvom e-mailových upozornení.';
@@ -176,8 +176,11 @@ $Definition['Managing Users'] = 'Správa používateľov';
 $Definition['Marking things as NOT spam will put them back in your forum.'] = 'Ak označíte veci ako NIE spam, vrátite ich späť do svojho fóra.';
 $Definition['Marking things as not spam will put them back in your forum.'] = 'Ak označíte veci ako nie spam, vrátite ich späť do svojho fóra.';
 $Definition['Messages can appear anywhere in your application.'] = 'Správy sa môžu objavovať kdekoľvek vo vašej aplikácií a môžete ich používať na informovanie používateľov o novinkách a udalostiach. Použite túto stránku na reorganizáciu vašich správ ich posúvaním hore alebo dole.';
-$Definition['MobileLogoDescription'] = 'Logo mobilného bannera sa zobrazí v hornej časti stránky.';
-$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] = 'Témy pre mobilné zariadenia vám umožňujú zmeniť vzhľad a dojem z vašich stránok na menších zariadeniach.';
+$Definition['MobileLogoDescription'] =
+    'Logo mobilného bannera sa zobrazí v hornej časti stránky.';
+$Definition['Mobile themes allow you to change the look and feel of your site on smaller devices.'] =
+    'Témy pre mobilné zariadenia vám umožňujú zmeniť vzhľad a dojem z vašich stránok na menších zariadeniach.';
+$Definition['Most communities stick to positive reactions to encourage participation.'] = 'Väčšina komunít sa drží pozitívnych reakcií, aby podporila účasť.';
 
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'Poznámka: Nový editor rozloženia zdedí tému nastavenú vo vašej príručke štýlov (formálne editor tém). <1>Zistite viac</1>';
 $Definition['Need More Help?'] = 'Potrebujete ďalšiu pomoc?';
@@ -213,6 +216,7 @@ $Definition['Quick-Start Guide to Creating Themes for Vanilla'] = 'Stručný spr
 $Definition['Quicklinks'] = 'Rýchle odkazy';
 $Definition['Quick Links is a default component on community pages.'] = 'Rýchle odkazy sú predvoleným komponentom na stránkach komunity. Povoľte náš nový komponent Rýchle odkazy, aby ste mohli pridávať, upravovať alebo skrývať odkazy z tejto ponuky pomocou nášho editora tém.';
 
+$Definition['Reactions Documentation'] = 'Dokumentácia reakcií';
 $Definition['Ready-made Vanilla Comments Plugin for WordPress'] = 'Hotové rozšírenie Komentáre Vanilla pre WordPress';
 $Definition['Ready-made Vanilla Forum Plugin for WordPress'] = 'Hotový doplnok Vanilla Forum pre WordPress';
 $Definition['Realtime progress bars: %s'] = 'Ukazovateľe pokroku v reálnom čase: %s';
@@ -337,10 +341,8 @@ $Definition['Video tutorial on user registration'] = 'Video návod k registráci
 $Definition['Warning: Enabling this feature may cause Javascript errors on your site.'] = 'Varovanie: Povolenie tejto funkcie môže spôsobiť chyby jazyka Javascript na vašom webe.';
 $Definition['Warning: Loading tables can be slow.'] = '<b>Výstraha</b> : Konfigurácia servera nepodporuje rýchle načítanie údajov. Ak importujete veľmi veľký súbor (napr. Viac ako 200 000 komentárov), môžete zvážiť zmenu konfigurácie. Kliknite <a href="http://vanillaforums.com/porter">sem</a> pre viac informácií.';
 $Definition['Warning: This is for advanced users.'] = '<b>Upozornenie</b>: Toto je pre pokročilých používateľov a vyžaduje vykonanie ďalších zmien na webovom serveri. Toto je zvyčajne k dispozícii, iba ak máte vyhradený alebo vps hosting. Neskúšajte to, ak neviete, čo robíte.';
+$Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Odporúčame povoliť 1 až 3 reakcie naraz, aby ste sa vyhli preťaženiu používateľov.';
 $Definition['Webhooks'] = 'Webhooky';
-$Definition['Welcome to Labs!'] = 'Vitajte v laboratóriách!';
-$Definition['Welcome to Vanilla\'s theming UI.'] = 'Vitajte v tematickom používateľskom rozhraní Vanilla. Táto stránka obsahuje zoznam všetkých vašich dostupných tém a umožňuje vám ich kopírovať alebo upravovať.';
-$Definition['Welcome To Your Theme'] = 'Vitajte vo svojom téme';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Keď je táto možnosť povolená, používatelia sa môžu rozhodnúť prijímať upozornenia od komunity';
 $Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'Ak je povolená, môžete spravovať produkty a zoskupovať podkomunity podľa týchto produktov.';
 $Definition['When someone shares a link from your site we try and grab an image from the page. If there isn\'t an image on the page then we\'ll use this image instead. The image should be at least 50×50, but we recommend 200×200.'] = 'Keď niekto zdieľa odkaz z vašej stránky, pokúsime sa získať obrázok zo stránky. Ak na stránke nie je obrázok, použijeme namiesto neho tento obrázok. Obrázok by mal mať aspoň 50×50, ale odporúčame 200×200.';
