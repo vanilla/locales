@@ -370,6 +370,7 @@ $Definition['Breadcrumb'] = 'تصفح تفصيلي';
 $Definition['Browse Groups'] = 'استعراض المجموعات';
 $Definition['Browse popular groups.'] = 'تصفح المجموعات الشعبية.';
 $Definition['Bulleted List'] = 'القائمة النقطية';
+$Definition['Bump'] = ' الى الأسفل';
 $Definition['By'] = 'بواسطة';
 $Definition['by'] = 'بواسطة';
 $Definition['By %s'] = 'بواسطة %s';
@@ -746,13 +747,15 @@ $Definition['Filename'] = 'إسم الملف';
 $Definition['FileSize'] = 'حجم الملف';
 $Definition['File Size'] = 'حجم الملف';
 $Definition['Filter'] = 'مرشح نتائج البحث';
+$Definition['Filter Posts'] = 'تصنيف المشاركات';
+$Definition['Filters'] = 'فرز';
 $Definition['Filter by question status'] = 'تصفية حسب حالة السؤال';
 $Definition['Find the matching ban rule(s).'] = 'ابحث عن قاعدة (قواعد) حظر المطابقة.';
 $Definition['Find your account information below.'] = 'احصل على معلومات حسابك أدناه.';
 $Definition['First Anniversary'] = 'الذكرى السنوية الأولى';
 $Definition['First Answer'] = 'الجواب الأول';
 $Definition['First Comment'] = 'أول تعليق';
-$Definition['Flag'] = 'علم';
+$Definition['Flag'] = 'إبلاغ';
 $Definition['Flags'] = 'أعلام';
 $Definition['Float Left'] = 'تعويم: اليسار';
 $Definition['Float left'] = 'تعويم: اليسار';
@@ -1163,7 +1166,7 @@ $Definition['Most recent:'] = 'الاحدث:';
 $Definition['Most recent: %1$s by %2$s'] = 'الاحدث:%1$s by %2$s';
 $Definition['Most recent: <0/> by <1/>.'] = 'الأحدث: <0 /> بواسطة <1 />.';
 $Definition['Most recent by %1$s'] = 'ٱخر مشاركة بواسطة %1$s';
-$Definition['Most recent by <0/>'] = 'الأحدث بواسطة <0 />';
+$Definition['Most recent by <0/>'] = 'تمت الاجابة من طرف <0 />';
 $Definition['Most Recent Comment'] = 'أحدث التعليقات';
 $Definition['Most recent comment on date %s, in discussion "%s", by user "%s"'] = 'أحدث تعليق بتاريخ %s، في مناقشة %s، بواسطة المستخدم "%s"';
 $Definition['Most recent discussion'] = 'المناقشات الأحدث';
@@ -1427,6 +1430,8 @@ $Definition['post'] = 'مشاركة';
 $Definition['Post Comment'] = 'إضافة تعليق';
 $Definition['Post Discussion'] = 'نشر المناقشة';
 $Definition['Post edited by %1$s at %2$s'] = 'المشاركة معدلة بواسطة %1$s في %2$s';
+$Definition['Post Status'] = 'حالة المنشور';
+$Definition['Post Type'] = 'نوع المنشور';
 $Definition['Posts'] = 'مشاركات';
 $Definition['Posts.Plural: %s'] = 'مشاركات : %s';
 $Definition['Posts.Singular: %s'] = 'مشاركات : %s';
@@ -1494,8 +1499,7 @@ $Definition['Questions'] = 'أسئلة';
 $Definition['questions'] = 'الأسئلة';
 $Definition['Question Title'] = 'عنوان السؤال ';
 $Definition['Question Type'] = 'سؤال';
-$Definition['Quick Links'] = 'روابط سريعة
-';
+$Definition['Quick Links'] = 'روابط سريعة';
 $Definition['Quote'] = 'إقتباس';
 $Definition['Quote Folding'] = 'إقتباس قابل للطي';
 $Definition['Quote on'] = 'في';
@@ -1522,6 +1526,7 @@ $Definition['Recent Discussions'] = 'مشاركات جديدة';
 $Definition['Recent Events'] = 'آخر الأحداث';
 $Definition['recently'] = 'حديثا';
 $Definition['Recently Active'] = 'نشط مؤخرًا';
+$Definition['Recently Created'] = 'تم إنشائه مؤخرا';
 $Definition['Recent Moderator Activity'] = 'النشاط الحديث للمشرف';
 $Definition['Recent Tutorials'] = 'الدروس الأخيرة';
 $Definition['Recipients'] = 'المستفيدين';
@@ -1712,7 +1717,7 @@ $Definition['Sign In with OpenID'] = 'تسجيل الدخول بواسطة OpenI
 $Definition['Sign In with Twitter'] = 'تسجيل الدخول بواسطة Twitter';
 $Definition['Sign Out'] = 'تسجيل الخروج';
 $Definition['sign out'] = 'تسجيل الخروج';
-$Definition['Sign Up'] = 'سوف أسجل';
+$Definition['Sign Up'] = 'تسجيل';
 $Definition['Sink'] = 'حوض';
 $Definition['Sink this discussion'] = 'إغراق هذه المشاركة';
 $Definition['Site'] = 'موقع';
@@ -1776,7 +1781,7 @@ $Definition['Subtitle'] = 'عنوان فرعي';
 $Definition['Success!'] = 'نجاح!';
 $Definition['Suggested Value'] = 'القيمة المقترحة';
 $Definition['Symbols'] = 'رموز';
-
+$Definition['Tag'] = 'ضع علامة';
 $Definition['Tagged'] = 'الكلمات الدلالية';
 $Definition['Tagged with '] = 'موسوم بواسطة';
 $Definition['Tagged with "%s"'] = 'وسم بـ "%s"';
@@ -1932,6 +1937,7 @@ $Definition['To use reCAPTCHA you must get an API key from %s'] = 'لإستخد�
 $Definition['To view full details, sign in.'] = 'لعرض التفاصيل الكاملة، قم بتسجيل الدخول.';
 $Definition['Transport error: %s'] = 'لقد وقع خطأ فادح أثناء معالجة الطلب. <br /> أخرج الخادم هذا الرد: %s';
 $Definition['Travel & Places'] = 'ترحال و أماكن';
+$Definition['Trending'] = 'شائعة';
 $Definition['Troll'] = 'خارج الموضوع';
 $Definition['Troll.Content'] = '<b> مُتَصَيِّدُ </b> <ul> <li> تم وضع علامة على هذا المستخدم كمُتَصَيِّدُ. </li> <li> المحتوى الخاص بهم مرئي فقط للمشرفين وللمُتَصَيِّد </li> <li> لا تظهر هذه الرسالة للمُتَصَيِّدُ.</li></ul>';
 $Definition['Turn ON'] = 'تشغيل';
