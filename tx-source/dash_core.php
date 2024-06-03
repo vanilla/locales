@@ -105,6 +105,7 @@ $Definition['Allow users to change their own avatars'] = 'Allow users to change 
 $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss this message.';
 $Definition['All Pages'] = 'All Pages';
 $Definition['An enabled message will be visible on the site.'] = 'An enabled message will be visible on the site.';
+$Definition['An answer in this the community thread was marked as accepted'] = 'An answer in this the community thread was marked as accepted';
 $Definition['Anonymize Analytics Data by Default'] = 'Anonymize Analytics Data by Default';
 $Definition['API'] = 'API';
 $Definition['API Label is required'] = 'API Label is required';
