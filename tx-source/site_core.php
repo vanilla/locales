@@ -1839,6 +1839,7 @@ $Definition['The response was not in the correct format.'] = 'The response was n
 $Definition['There was an error connecting to Disqus'] = 'There was an error connecting to Disqus';
 $Definition['There was an error connecting to Facebook'] = 'There was an error connecting to Facebook';
 $Definition['There was an error displaying this embed.'] = 'There was an error displaying this embed.';
+$Definition['There was an error rendering this Markdown post.'] = 'There was an error rendering this Markdown post.';
 $Definition['There was an error uploading the file. It is most likely because the file is too large.'] = 'There was an error uploading the file. It is most likely because the file is too large.';
 $Definition['These notes can only be seen by moderators.'] = 'These notes can only be seen by moderators.';
 $Definition['The password is too weak.'] = 'The password is too weak.';
