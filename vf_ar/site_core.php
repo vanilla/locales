@@ -633,6 +633,7 @@ $Definition['Edit Profile Fields'] = 'تحرير حقول ملف التعريف'
 $Definition['Edit Tag'] = 'تعديل علامة';
 $Definition['Edit Thumbnail'] = 'تعديل الصورة المصغرة';
 $Definition['Edit Username'] = 'تحرير اسم المستخدم';
+$Definition['Edit username'] = 'تحرير اسم المستخدم';
 $Definition['Eighth Anniversary'] = 'الذكرى السنوية الثامنة';
 $Definition['Email'] = 'البريد الإلكتروني';
 $Definition['Email/Username'] = 'البريد الإلكتروني / إسم المستخدم';
@@ -747,6 +748,8 @@ $Definition['FileSize'] = 'حجم الملف';
 $Definition['File Size'] = 'حجم الملف';
 $Definition['Filter'] = 'مرشح نتائج البحث';
 $Definition['Filter by question status'] = 'تصفية حسب حالة السؤال';
+$Definition['Filter Posts'] = 'تصفية المشاركات';
+$Definition['Filters'] = 'المرشحات';
 $Definition['Find the matching ban rule(s).'] = 'ابحث عن قاعدة (قواعد) حظر المطابقة.';
 $Definition['Find your account information below.'] = 'احصل على معلومات حسابك أدناه.';
 $Definition['First Anniversary'] = 'الذكرى السنوية الأولى';
@@ -1431,7 +1434,9 @@ $Definition['Posts'] = 'مشاركات';
 $Definition['Posts.Plural: %s'] = 'مشاركات : %s';
 $Definition['Posts.Singular: %s'] = 'مشاركات : %s';
 $Definition['Posts: %s'] = 'مشاركات : %s';
+$Definition['Post Status'] = 'وضع آخر';
 $Definition['Post this anonymously'] = 'انشر هذا بخفية';
+$Definition['Post Type'] = 'نوع آخر';
 $Definition['Powered by %s'] = 'مدعوم من %s';
 $Definition['Powered by Vanilla'] = 'مدعومة بواسطة فانيللا';
 $Definition['PPT'] = 'ملف استعراض بصيغة PPT';
@@ -1522,6 +1527,7 @@ $Definition['Recent Discussions'] = 'مشاركات جديدة';
 $Definition['Recent Events'] = 'آخر الأحداث';
 $Definition['recently'] = 'حديثا';
 $Definition['Recently Active'] = 'نشط مؤخرًا';
+$Definition['Recently Created'] = 'تم إنشاؤها مؤخرًا';
 $Definition['Recent Moderator Activity'] = 'النشاط الحديث للمشرف';
 $Definition['Recent Tutorials'] = 'الدروس الأخيرة';
 $Definition['Recipients'] = 'المستفيدين';
@@ -1932,6 +1938,7 @@ $Definition['To use reCAPTCHA you must get an API key from %s'] = 'لإستخد�
 $Definition['To view full details, sign in.'] = 'لعرض التفاصيل الكاملة، قم بتسجيل الدخول.';
 $Definition['Transport error: %s'] = 'لقد وقع خطأ فادح أثناء معالجة الطلب. <br /> أخرج الخادم هذا الرد: %s';
 $Definition['Travel & Places'] = 'ترحال و أماكن';
+$Definition['Trending'] = 'الشائع';
 $Definition['Troll'] = 'خارج الموضوع';
 $Definition['Troll.Content'] = '<b> مُتَصَيِّدُ </b> <ul> <li> تم وضع علامة على هذا المستخدم كمُتَصَيِّدُ. </li> <li> المحتوى الخاص بهم مرئي فقط للمشرفين وللمُتَصَيِّد </li> <li> لا تظهر هذه الرسالة للمُتَصَيِّدُ.</li></ul>';
 $Definition['Turn ON'] = 'تشغيل';
@@ -2207,8 +2214,6 @@ $Definition['You are only allowed {maxImages,plural,%s image,%s images}.'] = 'م
 $Definition['You are prohibited from using the ignore feature.'] = 'يحظر عليك استخدام ميزة التجاهل.';
 $Definition['You are receiving this email because of multiple notification settings.'] = 'أنت تتلقى هذا البريد الإلكتروني بسبب إعدادات الإعلام المتعددة.';
 $Definition['You are receiving this email because you are currently subscribed to receive email digests.'] = 'أنت تتلقى هذا البريد الإلكتروني لأنك مشترك حاليًا لتلقي ملخصات البريد الإلكتروني.';
-$Definition['You are receiving this email because you are following category %1\\$s.'] = 'أنت تتلقى هذا البريد الإلكتروني لأنك تتابع الفئة٪ 1 \\ $ s.';
-$Definition['You are receiving this email because you have requested to be notified %1\\$s.'] = 'أنت تتلقى هذا البريد الإلكتروني لأنك طلبت أن يتم إعلامك٪ 1 \\ $ s.';
 $Definition['You are subscribed to the following email notifications, which are related to the notification you received.'] = 'أنت مشترك في إشعارات البريد الإلكتروني التالية ، والتي تتعلق بالإشعار الذي تلقيته.';
 $Definition['You are viewing %s\'s ignore list'] = 'أنت تعرض قائمة تجاهل %s';
 $Definition['You can\'t leave the group you started.'] = 'لا يمكنك ترك المجموعة التي بدأتها';
