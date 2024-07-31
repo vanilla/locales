@@ -1116,8 +1116,8 @@ $Definition['Failed to load the preview data. Please check your trigger and acti
 $Definition['Follow categories:'] = 'Follow categories:';
 $Definition['Follow category'] = 'Follow category';
 $Definition['for'] = 'for';
-$Definition['has been unanswered for'] = 'has been unanswered for';
-$Definition['has not received any comments for'] = 'has not received any comments for';
+$Definition['has been unanswered'] = 'has been unanswered';
+$Definition['has not received any comments'] = 'has not received any comments';
 $Definition['Last reported'] = 'Last reported';
 $Definition['Maximum Limit Reached'] = 'Maximum Limit Reached';
 $Definition['Move post'] = 'Move post';
