@@ -1077,9 +1077,9 @@ $Definition['Zoom Meeting ID or URL'] = 'Zoom Meeting ID or URL';
 
 // Automation Rules
 $Definition['Add tag'] = 'Add tag';
+$Definition['A post'] = 'A post';
 $Definition['A post has been added to a collection'] = 'A post has been added to a collection';
 $Definition['A post has not had any activity'] = 'A post has not had any activity';
-$Definition['A post has not received any comments'] = 'A post has not received any comments';
 $Definition['A question'] = 'A question';
 $Definition['A user has been registered'] = 'A user has been registered';
 $Definition['A post has received'] = 'A post has received';
@@ -1117,6 +1117,7 @@ $Definition['Follow categories:'] = 'Follow categories:';
 $Definition['Follow category'] = 'Follow category';
 $Definition['for'] = 'for';
 $Definition['has been unanswered for'] = 'has been unanswered for';
+$Definition['has not received any comments for'] = 'has not received any comments for';
 $Definition['Last reported'] = 'Last reported';
 $Definition['Maximum Limit Reached'] = 'Maximum Limit Reached';
 $Definition['Move post'] = 'Move post';
