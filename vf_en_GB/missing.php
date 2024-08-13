@@ -239,6 +239,7 @@ $Definition['Here are the ranks that users can achieve on your site.'] = 'Here a
 $Definition['Hide previous quotes'] = '&laquo; hide previous quotes';
 $Definition['Html'] = 'HTML';
 
+$Definition['I\'m interested'] = 'I am interested';
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
 $Definition['Idea Filter'] = 'Personalized Idea Filter';
 $Definition['Ideation Type'] = 'Idea';
@@ -437,6 +438,8 @@ $Definition['Sign In or Register to Comment.'] = '<a href="{SignInUrl,html}"{Pop
 $Definition['Social Connect'] = 'Social Media';
 $Definition['Some older themes don\'t support full editing capability.'] = 'Some older themes don\'t support full editing capability. To see what a theme supports you can hover over its name to see where edits will take effect.';
 $Definition['Sometimes you want to embed your Vanilla site'] = 'Sometimes you want to embed your Vanilla site inside of another site. Vanilla\'s embed system offers an easy way to that. There are performance tradeoffs when using an embedded site, so check the documentation for alternatives and ideal use cases.';
+$Definition['Someting went wrong.'] = 'Something  went wrong.';
+$Definition['Someting went wrong. <0/>'] = 'Something  went wrong. <0/>';
 $Definition['Sort by'] = 'Sort By';
 $Definition['Source Code'] = 'Code';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
@@ -568,6 +571,8 @@ $Definition['We\'ve received a request to change your password.'] = 'We\'ve rece
 $Definition['Weekly Email Digest '] = 'Weekly Email Digest';
 $Definition['Welcome to Vanilla\'s theming UI.'] = 'Welcome to Vanilla\'s theming UI. This page lists all of your available themes, and allows you to copy or edit them.';
 $Definition['when people have answered your question'] = 'when there has been a follow-up to your answered questions';
+$Definition['Who\'s Going'] = 'Who is going';
+$Definition['Who\'s Interested'] = 'Who is interested';
 
 $Definition['You\'ve asked questions that have now been answered'] = '<a href="{/discussions/mine?qna=Answered,url}">You\'ve asked questions that now have answers</a>. Make sure you accept/reject the answers.';
 $Definition['You are about to delete all of a user\'s content.'] = 'You are about to delete all of the content for {User.UserID,user}.';
