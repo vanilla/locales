@@ -560,6 +560,7 @@ $Definition['Manage Applications'] = 'Manage Applications';
 $Definition['Manage Badges'] = 'Manage Badges';
 $Definition['Manage Badge Requests'] = 'Manage Badge Requests';
 $Definition['Manage Categories'] = 'Manage Categories';
+$Definition['Manage Groups'] = 'Manage Groups';
 $Definition['Manage Messages'] = 'Manage Messages';
 $Definition['Manage Plugins'] = 'Manage Plugins';
 $Definition['Manage Roles & Permissions'] = 'Manage Roles & Permissions';
