@@ -643,6 +643,7 @@ $Definition['Number of blocked registrations'] = 'Number of blocked registration
 $Definition['Number of days before a follow-up email is automatically sent.'] = 'Number of days before a follow-up email is automatically sent.';
 $Definition['Number input must be between 1 and 100.'] = 'Number input must be between 1 and 100.';
 $Definition['Number of posts'] = 'Number of posts';
+$Definition['Number of posts from groups'] = 'Number of posts from groups';
 
 $Definition['On'] = 'On';
 $Definition['Only Allow Each User To Post'] = 'Only Allow Each User To Post';
