@@ -357,7 +357,7 @@ $Definition['Ban User'] = 'حظر المستخدم';
 $Definition['Ban Value'] = 'قيمة الحظر';
 $Definition['Best Answer'] = 'أفضل إجابة';
 $Definition['Best Answers'] = 'أفضل الإجابات';
-$Definition['Best Match'] = 'افضل مباراة';
+$Definition['Best Match'] = 'أفضل النتائج';
 $Definition['Best Of'] = 'الأفضل';
 $Definition['Best Of...'] = 'الأفضل...';
 $Definition['Blank Discussion Topic'] = 'موضوع فارغ المحتوى';
@@ -583,7 +583,7 @@ $Definition['Discussions'] = 'مناقشات';
 $Definition['discussions'] = 'مناقشات';
 $Definition['Discussions and Comments'] = 'المناقشات والتعليقات';
 $Definition['Discussions Page'] = 'صفحة المشاركات';
-$Definition['Discussion Title'] = 'عنوان السؤال';
+$Definition['Discussion Title'] = 'عنوان الموضوع';
 $Definition['Discussion Type'] = 'مناقشة';
 $Definition['Dislike'] = 'الغاء الاعجاب';
 $Definition['Dismiss'] = 'رفض';
@@ -760,13 +760,13 @@ $Definition['File Size'] = 'حجم الملف';
 $Definition['Filter'] = 'مرشح نتائج البحث';
 $Definition['Filter by question status'] = 'تصفية حسب حالة السؤال';
 $Definition['Filter Posts'] = 'تصفية المشاركات';
-$Definition['Filters'] = 'المرشحات';
+$Definition['Filters'] = 'فرز';
 $Definition['Find the matching ban rule(s).'] = 'ابحث عن قاعدة (قواعد) حظر المطابقة.';
 $Definition['Find your account information below.'] = 'احصل على معلومات حسابك أدناه.';
 $Definition['First Anniversary'] = 'الذكرى السنوية الأولى';
 $Definition['First Answer'] = 'الجواب الأول';
 $Definition['First Comment'] = 'أول تعليق';
-$Definition['Flag'] = 'علم';
+$Definition['Flag'] = 'إبلاغ';
 $Definition['Flags'] = 'أعلام';
 $Definition['Float Left'] = 'تعويم: اليسار';
 $Definition['Float left'] = 'تعويم: اليسار';
@@ -987,7 +987,7 @@ $Definition['Inserted'] = 'تم الإدخال';
 $Definition['Insert Image'] = 'إضافة صورة';
 $Definition['Insert Media'] = 'إدخال ميديا';
 $Definition['Insert Url'] = 'أدخل عنوان Url';
-$Definition['Insightful'] = 'ثاقبة';
+$Definition['Insightful'] = 'أهتم';
 $Definition['Interested'] = 'مهتم';
 $Definition['Internal'] = 'داخلي';
 $Definition['In this Conversation'] = 'في هذه المشاركة';
@@ -1750,7 +1750,7 @@ $Definition['Sign In with OpenID'] = 'تسجيل الدخول بواسطة OpenI
 $Definition['Sign In with Twitter'] = 'تسجيل الدخول بواسطة Twitter';
 $Definition['Sign Out'] = 'تسجيل الخروج';
 $Definition['sign out'] = 'تسجيل الخروج';
-$Definition['Sign Up'] = 'سوف أسجل';
+$Definition['Sign Up'] = 'تسجيل';
 $Definition['Sink'] = 'حوض';
 $Definition['Sink this discussion'] = 'إغراق هذه المشاركة';
 $Definition['Site'] = 'موقع';
@@ -1977,7 +1977,7 @@ $Definition['To use reCAPTCHA you must get an API key from %s'] = 'لإستخد�
 $Definition['To view full details, sign in.'] = 'لعرض التفاصيل الكاملة، قم بتسجيل الدخول.';
 $Definition['Transport error: %s'] = 'لقد وقع خطأ فادح أثناء معالجة الطلب. <br /> أخرج الخادم هذا الرد: %s';
 $Definition['Travel & Places'] = 'ترحال و أماكن';
-$Definition['Trending'] = 'الشائع';
+$Definition['Trending'] = 'شائعة';
 $Definition['Troll'] = 'خارج الموضوع';
 $Definition['Troll.Content'] = '<b> مُتَصَيِّدُ </b> <ul> <li> تم وضع علامة على هذا المستخدم كمُتَصَيِّدُ. </li> <li> المحتوى الخاص بهم مرئي فقط للمشرفين وللمُتَصَيِّد </li> <li> لا تظهر هذه الرسالة للمُتَصَيِّدُ.</li></ul>';
 $Definition['Turn ON'] = 'تشغيل';
