@@ -581,6 +581,7 @@ $Definition['Manage Applications'] = 'Anwendungen verwalten';
 $Definition['Manage Badges'] = 'Badges verwalten';
 $Definition['Manage Badge Requests'] = 'Badge-Anfragen verwalten';
 $Definition['Manage Categories'] = 'Kategorien verwalten';
+$Definition['Manage Groups'] = 'Gruppen verwalten';
 $Definition['Manage Messages'] = 'Nachrichten verwalten';
 $Definition['Manage Plugins'] = 'Plugins verwalten';
 $Definition['Manage Roles & Permissions'] = 'Rollen & Rechte verwalten';
@@ -1145,11 +1146,14 @@ $Definition['Change the status of the idea to'] = 'Ändern Sie den Status der Id
 ';
 $Definition['Change status'] = 'Status ändern';
 $Definition['Close post'] = 'Beitrag schließen';
+$Definition['Comments Matching Criteria Now: <0 />'] = 'Kommentare, die jetzt den Kriterien entsprechen: <0 />';
+$Definition['created by'] = 'Erstellt von';
 $Definition['Create and manage automations to easily manage posts and users.'] = 'Erstellen und verwalten Sie Automatisierungen, um Beiträge und Benutzer einfach zu verwalten.
 ';
 $Definition['Create/Edit Automation Rule'] = 'Automatisierungsregel erstellen/bearbeiten
 ';
 $Definition['Delete Rule'] = 'Regel löschen';
+$Definition['Discussions Matching Criteria Now: <0 />'] = 'Diskussionen, die jetzt den Kriterien entsprechen: <0 />';
 $Definition['Edit Rule'] = 'Regel bearbeiten';
 $Definition['Edit Variables'] = 'Variablen bearbeiten
 ';
@@ -1202,6 +1206,7 @@ $Definition['Select the trigger that will cause this rule to run.'] = 'Wählen S
 ';
 $Definition['Set trigger variable and action variable to generate a rule summary.'] = 'Legen Sie die Auslöservariable und die Aktionsvariable fest, um eine Regelzusammenfassung zu erstellen.
 ';
+$Definition['sentiment'] = 'Stimmung';
 $Definition['since'] = 'Seit
 ';
 $Definition['Summary'] = 'Regelzusammenfassung';
