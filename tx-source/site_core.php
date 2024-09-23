@@ -873,6 +873,7 @@ $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingU
 $Definition['HeadlineFormat.Warning.ToUser'] = 'You\'ve been warned.';
 $Definition['HeadlineFormat.Warning.ToUser.Popup'] = 'You\'ve been <a href="{Url,html}" class="Popup">warned</a>.';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>';
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} has suggested answers: check it out';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} new announcements in <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>';
 $Definition['{count} new discussions in <strong>{GroupName}</strong>'] = '{count} new discussions in <strong>{GroupName}</strong>';
@@ -1016,6 +1017,7 @@ $Definition['Keep me signed in'] = 'Keep me signed in';
 $Definition['Keep User Content'] = 'Keep User Content';
 $Definition["Kilobyte"] = "Kilobyte";
 $Definition['Knowledge Bases'] = 'Knowledge Bases';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Knowledge Bases to Exclude from AI Answers';
 
 $Definition['Label'] = 'Label';
 $Definition['Language'] = 'Language';
@@ -2169,6 +2171,7 @@ $Definition['when people mention you'] = 'when people mention you';
 $Definition['when people comment on posts you have participated in'] = 'when people comment on posts you have participated in';
 $Definition['when you are invited to a group'] = 'when you are invited to a group';
 $Definition['when your group membership requests are approved'] = 'when your group membership requests are approved';
+$Definition['when your post has AI suggested answers'] = 'when your post has AI suggested answers';
 $Definition['when there is a new post in groups you are a member of'] = 'when there is a new post in groups you are a member of';
 $Definition['When enabled, Banned user profiles will be private. Private profiles can only be viewed by authorized users.'] = 'When enabled, Banned user profiles will be private. Private profiles can only be viewed by authorized users.';
 $Definition['Where'] = 'Where';
