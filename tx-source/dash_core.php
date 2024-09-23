@@ -20,7 +20,6 @@ $Definition['%s user(s) found.'] = '%s user(s) found.';
 $Definition['%s user(s) will be affected by this action.'] = '%s user(s) will be affected by this action.';
 
 $Definition['<0/> will suggest answers on Q&A posts'] = '<0/> will suggest answers on Q&A posts';
-$Definition['<0/> will not suggest answers on Q&A posts'] = '<0/> will not suggest answers on Q&A posts';
 $Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> will not suggest answers on Q&A posts';
 
 $Definition['(less)'] = '(less)';
