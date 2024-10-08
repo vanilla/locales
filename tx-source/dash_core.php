@@ -445,6 +445,7 @@ $Definition["External search replaces Vanilla’s out of the box search with a t
 $Definition['Facebook Connector'] = 'Facebook Connector';
 $Definition['Facebook Settings'] = 'Facebook Settings';
 $Definition['Failure'] = 'Failure';
+$Definition['Fallback Image'] = 'Fallback Image';
 $Definition['False'] = 'False';
 $Definition['Favicon'] = 'Favicon';
 $Definition['FaviconBrowse'] = 'Browse for a new favicon if you would like to change it:';
