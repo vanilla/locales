@@ -197,7 +197,6 @@ $Definition['Browser Compatibility:'] = 'Browser Compatibility:';
 $Definition['Browse for a new banner logo if you would like to change it:'] = 'Browse for a new banner logo if you would like to change it:';
 $Definition['Button Background Color'] = 'Button Background Color';
 $Definition['Button Text Color'] = 'Button Text Color';
-$Definition['By default, an SVG image using your brand color displays when there\'s nothing else to show. Upload your own image to customize. Recommended size: 1200px by 600px.'] = 'By default, an SVG image using your brand color displays when there\'s nothing else to show. Upload your own image to customize. Recommended size: 1200px by 600px.';
 
 $Definition['Cannot build profile information if user is not defined.'] = 'Cannot build profile information if user is not defined.';
 $Definition['Categories &amp; Discussions'] = 'Categories &amp; Discussions';
@@ -748,7 +747,6 @@ $Definition['Points'] = 'Points';
 $Definition['Polls'] = 'Polls';
 $Definition['Possible compatibility problems with older browsers, affecting user experience.'] = 'Possible compatibility problems with older browsers, affecting user experience.';
 $Definition['Post External Links'] = 'Post External Links';
-$Definition['Post will show a featured image when available. If there\'s nothing to show, the branded default image will show.'] = 'Post will show a featured image when available. If there\'s nothing to show, the branded default image will show.';
 $Definition['Posting Settings'] = 'Posting Settings';
 $Definition['Preload'] = 'Preload';
 $Definition['Preview Colors'] = 'Preview Colors';
