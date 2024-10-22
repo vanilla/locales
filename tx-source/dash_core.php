@@ -728,7 +728,7 @@ $Definition['Outgoing Email Address'] = 'Outgoing Email Address';
 
 $Definition['Page Color'] = 'Page Color';
 $Definition['Page Views'] = 'Page Views';
-$Definition['Page Views'] = 'Pageview ratio representing a deflected case';
+$Definition['Pageview ratio representing a deflected case'] = 'Pageview ratio representing a deflected case';
 $Definition['Passwords'] = 'Passwords';
 $Definition['Password Options'] = 'Password Options';
 $Definition['Password Minimum Length'] = 'Password Minimum Length';
