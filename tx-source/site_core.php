@@ -1968,6 +1968,7 @@ $Definition['Twitter'] = 'Twitter';
 $Definition['Twitter Connect'] = 'Twitter Connect';
 $Definition['Twitter Settings'] = 'Twitter Settings';
 $Definition['Type'] = 'Type';
+$Definition['Type...'] = 'Type...';
 $Definition['Type the text:'] = 'Type the text:';
 $Definition['Type what you hear:'] = 'Type what you hear:';
 $Definition['Type your comment'] = 'Type your comment';
