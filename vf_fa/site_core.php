@@ -1307,6 +1307,8 @@ $Definition['Notify'] = 'اطلاع رساني';
 $Definition['Notify me of new comment'] = 'نظر جدید را به من اطلاع دهید';
 $Definition['Notify me of new comments'] = 'مرا از نظرات جدید آگاه کن';
 $Definition['Notify me of new content'] = 'من را از مطالب جدید مطلع کنید';
+$Definition['Notify me of new events'] = 'من را از رویدادهای جدید مطلع کنید';
+$Definition['Notify me of new or updated events'] = 'از رویدادهای جدید یا به روز شده به من اطلاع دهید';
 $Definition['Notify me of new posts'] = 'من را از پست های جدید مطلع کنید';
 $Definition['Notify me of private messages.'] = 'من را از پيام هاي خصوصي باخبر كن.';
 $Definition['Notify me when a badge is requested.'] = 'هنگامي كه مدالي درخواست شد من را باخبر كن.';
@@ -1329,6 +1331,7 @@ $Definition['Notify of all new discussions.'] = 'اطلاع از همه بحث �
 $Definition['Notify of all new discussions by email.'] = 'اطلاع از همه بحث های جدید از طریق ایمیل.';
 $Definition['Notify of all new posts.'] = 'از همه پست های جدید مطلع شوید.';
 $Definition['Notify of all new posts by email.'] = 'اطلاع از همه پست های جدید از طریق ایمیل.';
+$Definition['Notify of new announcements'] = 'اطلاعیه های جدید را اعلام کنید';
 $Definition['Notify of new comments'] = 'از نظرات جدید مطلع شوید';
 $Definition['Notify of new content'] = 'اطلاع رسانی از مطالب جدید';
 $Definition['Notify of new posts'] = 'اطلاع رسانی از پست های جدید';
@@ -2021,6 +2024,7 @@ $Definition['Undo Unfollow'] = 'لغو دنبال کردن';
 $Definition['Undo Unsubscribe'] = 'لغو اشتراک';
 $Definition['Unfollow'] = 'لغو دنبال';
 $Definition['Unfollow Category'] = 'لغو دنبال کردن دسته';
+$Definition['Unfollow Group'] = 'لغو دنبال کردن گروه';
 $Definition['Unhide'] = 'آشكار كردن';
 $Definition['Unignore'] = 'لغو چشم پوشي';
 $Definition['UniqueID'] = 'شناسه منحصر به فرد';
@@ -2120,6 +2124,7 @@ $Definition['View'] = 'نمايش';
 $Definition['View All'] = 'مشاهده همه';
 $Definition['View all attendees'] = 'مشاهده همه شرکت کنندگان';
 $Definition['View all followed categories'] = 'مشاهده تمام دسته بندی های دنبال شده';
+$Definition['View all followed groups'] = 'مشاهده همه گروه های دنبال شده';
 $Definition['View all going attendees'] = 'مشاهده همه شرکت کنندگان حتمی';
 $Definition['View all maybe attendees'] = 'مشاهده شرکت کنندگان احتمالی';
 $Definition['View all not going attendees'] = 'مشاهده همه غیرشرکت کنندگان';

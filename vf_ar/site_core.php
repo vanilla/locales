@@ -1298,6 +1298,8 @@ $Definition['Notify'] = 'إخطار';
 $Definition['Notify me of new comment'] = 'أعلمني بالتعليق الجديد';
 $Definition['Notify me of new comments'] = 'أعلمني بالتعليقات الجديدة';
 $Definition['Notify me of new content'] = 'أعلمني بالمحتوى الجديد';
+$Definition['Notify me of new events'] = 'أعلمني بالأحداث الجديدة';
+$Definition['Notify me of new or updated events'] = 'أعلمني بالأحداث الجديدة أو المحدثة';
 $Definition['Notify me of new posts'] = 'أعلمني بالمشاركات الجديدة';
 $Definition['Notify me of private messages.'] = 'أخطرني ان كان لي رسائل خاصة.';
 $Definition['Notify me when a badge is requested.'] = 'تنبيه عندما يُطلب وسام.';
@@ -1320,6 +1322,7 @@ $Definition['Notify of all new discussions.'] = 'إخطار جميع المنا�
 $Definition['Notify of all new discussions by email.'] = 'إخطار جميع المناقشات الجديدة عن طريق البريد الإلكتروني.';
 $Definition['Notify of all new posts.'] = 'إخطار جميع الوظائف الجديدة.';
 $Definition['Notify of all new posts by email.'] = 'إخطار جميع الوظائف الجديدة عن طريق البريد الإلكتروني.';
+$Definition['Notify of new announcements'] = 'إشعار بالإعلانات الجديدة';
 $Definition['Notify of new comments'] = 'إخطار بالتعليقات الجديدة';
 $Definition['Notify of new content'] = 'إخطار المحتوى الجديد';
 $Definition['Notify of new posts'] = 'إخطار الوظائف الجديدة';
@@ -2009,6 +2012,7 @@ $Definition['Undo Unfollow'] = 'تراجع عن إلغاء المتابعة';
 $Definition['Undo Unsubscribe'] = 'التراجع عن إلغاء الاشتراك';
 $Definition['Unfollow'] = 'الغاء المتابعة';
 $Definition['Unfollow Category'] = 'إلغاء متابعة الفئة';
+$Definition['Unfollow Group'] = 'إلغاء متابعة المجموعة';
 $Definition['Unfollow Successful'] = 'تم إلغاء المتابعة بنجاح';
 $Definition['Unhide'] = 'الغاء الاخفاء';
 $Definition['Unignore'] = 'إلغاء التجاهل';
@@ -2105,6 +2109,7 @@ $Definition['Video embedding has been disabled.'] = 'إدخال الفيديوه
 $Definition['View All'] = 'عرض الكل';
 $Definition['View all attendees'] = 'عرض جميع الحضور';
 $Definition['View all followed categories'] = 'عرض كل الفئات المتبعة';
+$Definition['View all followed groups'] = 'عرض جميع المجموعات التي يتم متابعتها';
 $Definition['View all going attendees'] = 'عرض جميع الحاضرين الذين سوف يحضروا';
 $Definition['View all maybe attendees'] = 'عرض جميع الحاضرين الذين ربما يحضروا';
 $Definition['View all not going attendees'] = 'عرض جميع الحاضرين الذين لن يحضروا';
