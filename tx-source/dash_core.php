@@ -703,6 +703,7 @@ $Definition['Not Spam'] = 'Not Spam';
 $Definition['Number of %s listed per page.'] = 'Number of %s listed per page.';
 $Definition['Number of blocked registrations'] = 'Number of blocked registrations';
 $Definition['Number of days before a follow-up email is automatically sent.'] = 'Number of days before a follow-up email is automatically sent.';
+$Definition['Number input must be between'] = 'Number input must be between';
 $Definition['Number input must be between 1 and 100.'] = 'Number input must be between 1 and 100.';
 $Definition['Number of posts'] = 'Number of posts';
 $Definition['Number of posts from groups'] = 'Number of posts from groups';
