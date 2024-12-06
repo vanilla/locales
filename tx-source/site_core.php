@@ -1804,7 +1804,7 @@ $Definition['Subject'] = 'Subject';
 $Definition['Subscriber'] = 'Subscriber';
 $Definition['Success'] = 'Success';
 $Definition['Success!'] = 'Success!';
-$Definition['Success! User has been warned.'] = 'Success! User has been warned.';
+$Definition['User has been warned.'] = 'User has been warned.';
 $Definition['Suggested Value'] = 'Suggested Value';
 $Definition['System'] = 'System';
 
@@ -2489,7 +2489,8 @@ $Definition["Selected discussions are already closed."] = "Selected discussions 
 $Definition["You don't have the close permission on the following discussions:"] = "You don't have the close permission on the following discussions:";
 $Definition["You don't have the delete permission on the following discussions:"] = "You don't have the delete permission on the following discussions:";
 $Definition["You don't have required permission to warn selected comments."] = "You don't have required permission to warn selected comments.";
-$Definition["Only one user may be warned at a time. Make sure all selected comments are from the same user to proceed with bulk warning."] = "Only one user may be warned at a time. Make sure all selected comments are from the same user to proceed with bulk warning.";
+$Definition["Only one user may be warned at a time."] = "Only one user may be warned at a time.";
+$Definition["Make sure all selected comments are from the same user to proceed with bulk warning."] = "Make sure all selected comments are from the same user to proceed with bulk warning.";
 $Definition["You have selected <0/> comments."] = "You have selected <0/> comments.";
 $Definition["You don't have required permission to split selected comments."] = "You don't have required permission to split selected comments.";
 $Definition["You don't have required permission to delete selected comments."] = "You don't have required permission to delete selected comments.";
@@ -2498,15 +2499,12 @@ $Definition["Split Comments into New Post"] = "Split Comments into New Post";
 $Definition["View New Post"] = "View New Post";
 $Definition["Posts have been deleted."] = "Posts have been deleted.";
 $Definition["Delete Posts"] = "Delete Posts";
-$Definition["You are about to delete <0/> posts. These posts will remain in the change log. Are you sure you want to continue?"] = "You are about to delete <0/> posts. These posts will remain in the change log. Are you sure you want to continue?";
+$Definition["You are about to delete <0/> posts."] = "You are about to delete <0/> posts.";
+$Definition["These posts will remain in the change log."] = "These posts will remain in the change log.";
+$Definition["Are you sure you want to continue?"] = "Are you sure you want to continue?";
 $Definition["Delete Method"] = "Delete Method";
 $Definition["Tombstone"] = "Tombstone";
-$Definition['Hide OP user info and replace comment with "This content has been removed."'] = 'Hide OP user info and replace comment with "This content has been removed."';
+$Definition['Hide comment author information and replace comment content with'] = 'Hide comment author information and replace comment content with';
+$Definition["This content has been removed."] = "This content has been removed.";
 $Definition["Full"] = "Full";
 $Definition["Completely remove the comment and all associated child comments."] = "Completely remove the comment and all associated child comments.";
-
-
-
-
-
-
