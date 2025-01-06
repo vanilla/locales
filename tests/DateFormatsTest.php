@@ -41,7 +41,7 @@ class DateFormatsTest extends AbstractLocalesTestCase {
         }
     }
 
-    protected function assertDateTimeFormatNotSmokey(string $dir, string $key) {
+    protected function assertTimeFormatNotSmokey(string $dir, string $key) {
         $defs = $this->loadTranslations($dir);
         $format = $defs[$key] ?? null;
         $basename = basename($dir);
@@ -65,7 +65,7 @@ class DateFormatsTest extends AbstractLocalesTestCase {
      * @dataProvider provideLocaleDirs
      */
     public function testDefaultDateTimeFormat(string $dir) {
-        $this->assertDateTimeFormatNotSmokey($dir, 'Date.DefaultDateTimeFormat');
+        $this->assertDateFormatNotSmokey($dir, 'Date.DefaultDateTimeFormat');
     }
 
     /**
@@ -95,7 +95,7 @@ class DateFormatsTest extends AbstractLocalesTestCase {
      * @dataProvider provideLocaleDirs
      */
     public function testDefaultTimeFormat(string $dir) {
-        $this->assertDateFormatNotSmokey($dir, 'Date.DefaultTimeFormat');
+        $this->assertTimeFormatNotSmokey($dir, 'Date.DefaultTimeFormat');
     }
 
     /**
