@@ -533,7 +533,7 @@ $Definition['Date'] = 'तिथि';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA;
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'तिथि। अपेक्षा
 \'mm/dd/yyyy\'।';
