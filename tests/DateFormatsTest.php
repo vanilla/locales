@@ -41,6 +41,23 @@ class DateFormatsTest extends AbstractLocalesTestCase {
         }
     }
 
+    protected function assertDateTimeFormatNotSmokey(string $dir, string $key) {
+        $defs = $this->loadTranslations($dir);
+        $format = $defs[$key] ?? null;
+        $basename = basename($dir);
+
+        if ($format !== null) {
+            // Just checking for an error.
+            $f = date($format, self::$testTime);
+            $this->assertIsString($f);
+            $this->assertFalse(strpos($f, '%'), "$f contains a percent sign for $key: $format.");
+        } elseif (fnmatch('*/vf_en*', $dir)) {
+            $this->assertTrue(true);
+        } else {
+            $this->markTestSkipped("The $basename locale doesn't have format for key: $key.");
+        }
+    }
+
     /**
      * Test Date.DefaultDateTimeFormat
      *
@@ -48,7 +65,7 @@ class DateFormatsTest extends AbstractLocalesTestCase {
      * @dataProvider provideLocaleDirs
      */
     public function testDefaultDateTimeFormat(string $dir) {
-        $this->assertDateFormatNotSmokey($dir, 'Date.DefaultDateTimeFormat');
+        $this->assertDateTimeFormatNotSmokey($dir, 'Date.DefaultDateTimeFormat');
     }
 
     /**
