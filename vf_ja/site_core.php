@@ -521,7 +521,7 @@ $Definition['Date'] = 'Applied On';
 $Definition['Date.DefaultDateTimeFormat'] = ' %B %e, %Y %l:%M%p ';
 $Definition['Date.DefaultDayFormat'] = '%m/%d';
 $Definition['Date.DefaultFormat'] = ' %B %e, %Y ';
-$Definition['Date.DefaultTimeFormat'] = '%H:%M';
+$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = ' %B %Y ';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '予定日「mm/dd/yyyy」';
 $Definition['Date Added'] = '追加された日時';
@@ -1834,19 +1834,19 @@ $Definition['TermsOfServiceText'] = '
    嫌がらせ、わいせつ表現、冒涜表現、性的表現、脅迫、プライバシーの侵害、
    あるいは違法な内容は投稿できません。あなた自身が著作権者である場合を除き、
    著作権によって保護された内容は投稿できません。</p>
-   
+
    <p>本コミュニティはまた、あなたの投稿によって法律問題や訴訟が発生した場合、
    個人情報 (あるいは何であれ知り得た情報) を提供する権利を有するものとします。
    本ウェブサイトへのアクセスは、いかなるインターネットプロトコルによるもので
    あれ、記録されます。</p>
-   
+
    <p>広告、チェーンレター、マルチ商法、セールスの勧誘は、本コミュニティにおいて
    不適切な行為とみなされます。</p>
-   
+
    <p>本コミュニティは、理由のいかんに関わらず いかなるコンテンツをも削除する
    権利を有するものとします。また理由のいかんに関わらず いかなる会員資格をも
    停止する権利を有するものとします。</p>
-   
+
    <p>このサービスを利用するには、13 歳以上である必要があります。</p>
 ';
 $Definition['Test'] = 'Test';

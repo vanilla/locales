@@ -536,7 +536,7 @@ $Definition['Date'] = '日期';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%Y 年 %m 月 %d 日';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '期望日期 \'mm/dd/yyyy\'';
 $Definition['Date Added'] = '添加时间';
@@ -676,7 +676,7 @@ $Definition['EmailMembershipApproved'] = '%1$s您好，
 $Definition['EmailNotification'] = '%1$s
 
      点击以下下链接继续：
-	
+
      %2$s';
 $Definition['Email Notifications'] = '电子邮件通知';
 $Definition['Email Or Username'] = '电子邮件地址或用户名';
@@ -694,11 +694,11 @@ $Definition['EmailStoryNotification'] = '%1$s
 
 ---
 请点击下面的链接查看消息:
-	
+
 %2$s
 
 如果此邮件对您造成了影响，请您登录社区，进入个人主页，在通知设置中取消邮件通知的勾选。
-	
+
 祝您开心每一天！';
 $Definition['Email Unavailable'] = '该电子邮件地址已被占用';
 $Definition['Email visible to other users'] = '公开电子邮件地址';
@@ -1874,7 +1874,7 @@ $Definition['Terabyte'] = '兆字节';
 $Definition['Terms'] = '术语';
 $Definition['TermsOfService'] = '服务条款';
 $Definition['Terms of Service'] = '服务条款';
-$Definition['TermsOfServiceText'] = ' 
+$Definition['TermsOfServiceText'] = '
 服务条款<br>
 当您申请用户时，表示您已经同意遵守本规章。 <br>
 欢迎您加入本站点参加交流和讨论，本站点为公共论坛，为维护网上公共秩序和社会稳定，请您自觉遵守以下条款： <br>

@@ -534,7 +534,7 @@ $Definition['Date'] = 'Fecha';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Fecha. Esperado \'dd/mm/aaaa\'';
 $Definition['Date Added'] = 'Fecha agregada';
@@ -672,7 +672,7 @@ $Definition['EmailMembershipApproved'] = '¡Hola %1$s, bienvenido!
 Has sido aprobado como miembro. Conéctate ahora con el siguiente enlace:
 
   %2$s
-  
+
 ¡Que disfrutes de la comunidad!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1878,14 +1878,14 @@ $Definition['Terms'] = 'Términos';
 $Definition['TermsOfService'] = 'Términos de Servicio';
 $Definition['Terms of Service'] = 'Términos de Servicio';
 $Definition['TermsOfServiceText'] = ' <p>Usted acepta que mediante el uso de este servicio, que no usará esta  comunidad para publicar cualquier material que sea conocidamente falso y/o difamatorio, inexacto, abusivo, vulgar, de odio, de acoso, obsceno, blasfemo, sexual, amenazante, invasivo a la privacidad de una persona, o que infrinja de uno u otro modo cualquier ley. Aceptas no publicar ningún material con derechos de autor a menos que el derecho de autor sea de tu propiedad.</p>
-   
-   <p>Nosotros también nos reservamos el derecho de revelar tu identidad (o cualquier información que sabemos de ti) en el caso de una queja o acción 
+
+   <p>Nosotros también nos reservamos el derecho de revelar tu identidad (o cualquier información que sabemos de ti) en el caso de una queja o acción
     legal derivada de un mensaje publicado por ti. Registramos todas las direcciones de protocolo de Internet que acceden a este sitio web.</p>
-   
+
    <p>Por favor ten en cuenta que los anuncios, cartas en cadena, esquemas piramidales y solicitudes son inapropiadas en esta comunidad. </p>
-   
+
    <p>Nos reservamos el derecho a eliminar cualquier contenido por cualquier razón o ninguna razón. Nos reservamos el derecho a eliminar usuarios por cualquier razón o ninguna razón.</p>
-   
+
    <p>Debes tener al menos 13 años para usar este servicio.</p>';
 $Definition['Test'] = 'Prueba';
 $Definition['Testing'] = 'Probando';

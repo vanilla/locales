@@ -530,7 +530,7 @@ $Definition['Date'] = 'Dátum';
 $Definition['Date.DefaultDateTimeFormat'] = '%Y %B %e, %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%Y %B %e';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%Y %B';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dátum. \'mm/dd/yyyy\' formátumban.';
 $Definition['Date Added'] = 'Hozzáadva';
@@ -1856,13 +1856,13 @@ $Definition['Terms'] = 'Feltételek';
 $Definition['TermsOfService'] = 'Szabályzat';
 $Definition['Terms of Service'] = 'Szabályzat';
 $Definition['TermsOfServiceText'] = '<p>Jelen szolgáltatás használatával elfogadod, hogy nem fogsz az oldalon tudatosan gyalázkodó, pontatlan, sértő, durva, utálkozó, zaklató, obszcén, profán, szexuális beállítottságú, fenyegető, mások magánéletét megsértő, vagy bármilyen más módon törvénybe ütköző hozzászólásokat közzétenni. Egyetértesz azzal, hogy jogvédett anyagot nem teszel közzé, kivéve, ha a jog a tiéd.</p>
-   
+
    <p>Az oldal üzemeltetői fenntartják a jogot, hogy felfedjék a személyazonosságod (vagy bármilyen információt, amit tudnak rólad) panasz vagy jogi eljárás esetén. Minden idelátogató IP cím rögzítésre kerül.</p>
-   
+
    <p>A kéretlen reklámozás, a körlevelek, a piramisjátékok és a kéregetés nem szívesen látott az oldalon.</p>
-   
+
    <p>Fenntartjuk a jogot, hogy okkal/ok nélkül bármilyen tartalmat eltávolítsunk. Fenntartjuk a jogot, hogy a tagságot okkal vagy ok nélkül megszüntessük.</p>
-   
+
    <p>Legalább 13 évesnek kell lenned, hogy ezt a szolgáltatást használhasd.</p>';
 $Definition['Test'] = 'Teszt';
 $Definition['Testing'] = 'Tesztelés';

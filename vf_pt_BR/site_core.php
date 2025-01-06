@@ -520,7 +520,7 @@ $Definition['Date'] = 'Data';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%H:%M';
+$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Espera-se \'mm/dd/aaaa\'';
 $Definition['Date Added'] = 'Data incluída';
@@ -1825,21 +1825,21 @@ $Definition['Click here to read.'] = 'Clique aqui para ler.';
 $Definition['TermsOfService'] = 'Termos de Serviço';
 $Definition['Terms of Service'] = 'Termos de Serviço';
 $Definition['TermsOfServiceText'] = '
-   <p>Você concorda, através do uso deste serviço, que não irá usar esta 
+   <p>Você concorda, através do uso deste serviço, que não irá usar esta
    comunidade para postar material falso e/ou difamatório,
    inexato, abusivo, vulgar, odioso, assedioso, obceno, profano, sexualmente
    orientado, ameaçador, invasido de privacidade pessoal, ou que viole
    qualquer lei. Você concorda em não postar nenhum material que fira direitos autorais.</p>
-   
+
    <p>Nós, nesta comunidade, também nos reservamos o direito de revelar sua identidade (ou
   qualquer outra informação de possuímos de você) caso ocorra um evento ilegal
   de postagens provenientes de você. Nós registramos todos os endereços que acessam este site.</p>
-   
-   <p>Por favor, propagandas, correntes de mensagens, esquemas de pirâmide, 
+
+   <p>Por favor, propagandas, correntes de mensagens, esquemas de pirâmide,
    entre outros, são inapropriadas nesta comunidade.</p>
-   
+
    <p>Nós nos reservamos no direito de remover qualquer conteúdo por qualquer motivo, ou mesmo sem motivos. Nos reservamos o direito a deletar qualquer inscrição de usuário, com ou sem motivos.</p>
-   
+
    <p>Você precisa ter no mínimo 13 anos para usar este serviço.</p>
 ';
 $Definition['Test'] = 'Teste';

@@ -530,7 +530,7 @@ $Definition['Date'] = 'Applied On';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '
 Дата. Очаква се \'мм/дд/гггг\'.';
@@ -667,7 +667,7 @@ $Definition['EmailMembershipApproved'] = 'Здравейте %1$s,
 Кандидатурата Ви за членство беше одобрена. Влезте във форума като използвате следния линк:
 
   %2$s
-  
+
 Приятен ден!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1875,19 +1875,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Тест';

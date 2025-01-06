@@ -547,7 +547,7 @@ $Definition['Date'] = 'Дата';
 $Definition['Date.DefaultDateTimeFormat'] = '%d.%m.%Y %H:%M';
 $Definition['Date.DefaultDayFormat'] = '%e %b';
 $Definition['Date.DefaultFormat'] = '%d.%m.%Y';
-$Definition['Date.DefaultTimeFormat'] = '%H:%M';
+$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '
         Требуемый формат даты "мм/дд/гггг".
@@ -669,7 +669,7 @@ $Definition['Edit username'] = 'Изменить имя пользователя
 $Definition['Eighth Anniversary'] = 'Восьмая годовщина';
 $Definition['Email'] = 'Электронная почта';
 $Definition['Email/Username'] = 'Почта или Логин';
-$Definition['EmailConfirmEmail'] = 'Вам необходимо подтвердить Ваш email. 
+$Definition['EmailConfirmEmail'] = 'Вам необходимо подтвердить Ваш email.
 Для подтверждения нажмите на ссылку ниже: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['Email Digest Preferences Updated'] = 'Настройки дайджеста электронной почты обновлены';
 $Definition['EmailFooter'] = '

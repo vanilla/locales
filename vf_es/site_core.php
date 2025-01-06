@@ -520,7 +520,7 @@ $Definition['Date'] = 'Fecha';
 $Definition['Date.DefaultDateTimeFormat'] = '%e de %B, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%e de %B';
 $Definition['Date.DefaultFormat'] = '%e de %B, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Fecha \'mm/dd/aaaa\'.';
 $Definition['Date Added'] = 'Fecha Agregada.';
@@ -656,7 +656,7 @@ $Definition['EmailMembershipApproved'] = 'Hola %1$s,
 Has sido aprobado como miembro. Inicia la sesión ahora con el siguiente enlace:
 
   %2$s
-  
+
 ¡Qué tengas un buen día!';
 $Definition['EmailNotification'] = '%1$s
 

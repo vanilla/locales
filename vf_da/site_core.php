@@ -524,7 +524,7 @@ $Definition['Date'] = 'Dato';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dato. Forventer \'mm/dd/åååå\'.';
 $Definition['Date Added'] = 'Tilføjet dato';
@@ -1844,7 +1844,7 @@ $Definition['There\'s already a %s with the name %s.'] = 'Der er allerede en %1$
 $Definition['There aren\'t any groups yet.'] = 'Der er ingen grupper endnu.';
 $Definition['There are no tags in the system yet.'] = 'Der er ingen mærker i systemet endnu.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'reCAPTCHA-værdien var ikke indtastet korrekt. Prøv venligst igen.';
-$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'ReCAPTCHA\'en blev ikke afsluttet korrekt. 
+$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'ReCAPTCHA\'en blev ikke afsluttet korrekt.
 Venligst prøv igen.';
 $Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'Der er allerede en konto med det samme brugernavn (%1$s) eller email (%2$s) som dig. Du kan enten oprette en ny konto, eller du kan indtaste legitimationsoplysningerne til din eksisterende forum konto.';
 $Definition['The response was not in the correct format.'] = 'Svaret var ikke i det korrekte format.';
