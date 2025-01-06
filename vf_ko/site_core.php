@@ -525,7 +525,7 @@ $Definition['Date'] = '날짜';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p ';
 $Definition['Date.DefaultDayFormat'] = '%B %e ';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y ';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p ';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA ';
 $Definition['Date.DefaultYearFormat'] = '%B %Y ';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '날짜. 예상 \'월/일/년도\'.';
 $Definition['Date Added'] = '날짜 추가됨';
@@ -1883,8 +1883,8 @@ $Definition['These notes can only be seen by moderators.'] = '해당 노트는 �
 $Definition['These tags are reserved and cannot be used: %s'] = '이 태그는 보류되어 있으며 사용할 수 없습니다: %s';
 $Definition['The site is currently undergoing maintenance.'] = '사이트 정비 중입니다.';
 $Definition['The status for "%s" has changed to %s.'] = '"%s"에 대한 상태가 %s(으)로 변경되었습니다.';
-$Definition['The uploaded file did not have an allowed extension. \\nOnly the following extensions are allowed. \\n%s.'] = '업로드된 파일의 파일 확장자는 허용된 파일 확장자가 아닙니다. 
-오직 다음의 확장자만 허용됩니다. 
+$Definition['The uploaded file did not have an allowed extension. \\nOnly the following extensions are allowed. \\n%s.'] = '업로드된 파일의 파일 확장자는 허용된 파일 확장자가 아닙니다.
+오직 다음의 확장자만 허용됩니다.
 %s.';
 $Definition['The uploaded file was too big (max %s).'] = '파일이 너무 큽니다 (최대 %s).';
 $Definition['The user has already been warned for this %s.'] = '사용자가 이미 이 %s를 위해 경고를 받았습니다.  ';

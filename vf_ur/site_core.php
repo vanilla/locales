@@ -529,7 +529,7 @@ $Definition['Date'] = 'تاریخ';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'تاریخ. توقع \'mm/dd/yyyy\'۔';
 $Definition['Date Added'] = 'شامل ہونے کی تاریخ';
@@ -660,7 +660,7 @@ $Definition['EmailInvitation'] = 'هيلو!
 
 %3$s';
 $Definition['Email Language'] = 'ای میل کی زبان';
-$Definition['EmailMembershipApproved'] = 'ھیلو %1$s، 
+$Definition['EmailMembershipApproved'] = 'ھیلو %1$s،
 
 آپ کو رکنیت کے لیے منظور کیا گیا ہے۔ ابھی مندرجہ ذیل لنک پرسائن ان کریں:
 

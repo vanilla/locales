@@ -532,7 +532,7 @@ $Definition['Date'] = 'תאריך';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'תאריך. ';
 $Definition['Date Added'] = 'תאריך הוסף';
@@ -652,7 +652,7 @@ $Definition['Eighth Anniversary'] = 'יום השנה השמיני';
 $Definition['Email'] = 'דוא"ל';
 $Definition['Email/Username'] = 'דוא"ל / שם משתמש';
 $Definition['EmailConfirmEmail'] = '
- 
+
 {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['Email Digest Preferences Updated'] = 'העדפות תקציר אימייל עודכנו';
 $Definition['EmailFooter'] = 'שיהיה לך יום נהדר!';
@@ -666,7 +666,7 @@ $Definition['EmailInvitation'] = 'שלום! ⏎
 $Definition['Email Language'] = 'שפת דוא"ל';
 $Definition['EmailMembershipApproved'] = 'שלום לך %1$s
 
-אתה אושרו לחברות. היכנס עכשיו בקישור הבא: 
+אתה אושרו לחברות. היכנס עכשיו בקישור הבא:
 
 %2$s';
 $Definition['EmailNotification'] = '%1$s
@@ -677,10 +677,10 @@ $Definition['EmailNotification'] = '%1$s
 יום נפלא!';
 $Definition['Email Notifications'] = 'דואר אלקטרוני והודעות ';
 $Definition['Email Or Username'] = 'דוא"ל או שם משתמש';
-$Definition['EmailPassword'] = '%2$s יש לאפס את הסיסמה שלך ב %3$s . אישורי הכניסה שלך נמצאים כעת: 
+$Definition['EmailPassword'] = '%2$s יש לאפס את הסיסמה שלך ב %3$s . אישורי הכניסה שלך נמצאים כעת:
 
-   דוא"ל: %6$s 
-   סיסמה:%5$s 
+   דוא"ל: %6$s
+   סיסמה:%5$s
    כתובת:%4$s';
 $Definition['Emails'] = 'דוא&"ל';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'מייל נשלח מיישום יטופלו משם את הכתובת הבאה ו ';
@@ -1418,10 +1418,10 @@ $Definition['Password changed successfully.'] = 'סיסמה שונתה בהצל�
 $Definition['Password Contains Username'] = 'מכיל שם משתמש';
 $Definition['Password Good'] = 'טוב';
 $Definition['Password Ok'] = 'בסדר';
-$Definition['PasswordRequest'] = 'מישהו ביקש לאפס את סיסמתךב%2$s s. בכדי לאפס את סיסמתך,לחץ על הקישור הבא: 
+$Definition['PasswordRequest'] = 'מישהו ביקש לאפס את סיסמתךב%2$s s. בכדי לאפס את סיסמתך,לחץ על הקישור הבא:
 
 
-%3$s 
+%3$s
 
 
 אם לא ביקשת לאפס את סיסמתך, התעלם מדוא"ל זה.';
@@ -1881,19 +1881,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'בדיקה';
@@ -1928,7 +1928,7 @@ $Definition['There\'s already a %s with the name %s.'] = 'יש כבר %1$s עם 
 $Definition['There aren\'t any groups yet.'] = 'עדיין לא קיימים קבוצות';
 $Definition['There are no tags in the system yet.'] = 'אין עדיין תגים במערכת.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'ערך ה reCAPTCHA לא הוזן נכון. אנא נסה שוב.';
-$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'ססמת ה-CAPTCHA שהוכנסה פעם שניה לא הושלמה כראוי. 
+$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'ססמת ה-CAPTCHA שהוכנסה פעם שניה לא הושלמה כראוי.
 אנא נסה שנית';
 $Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'יש כבר חשבון עם אותו שם משתמש %1$s או דוא"ל %2$s כמוך. באפשרותך ליצור חשבון חדש, או להזין את האישורים של החשבון בפורום הקיים שלך.';
 $Definition['The response was not in the correct format.'] = 'התגובה לא הייתה בתבנית הנכונה.';

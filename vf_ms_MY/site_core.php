@@ -530,7 +530,7 @@ $Definition['Date'] = 'Tarikh';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Tarikh. Dijangka \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'Tarikh Ditambah';
@@ -1384,7 +1384,7 @@ $Definition['Password changed successfully.'] = 'Kata laluan berjaya ditukar.';
 $Definition['Password Contains Username'] = 'Mengandungi Nama Pengguna';
 $Definition['Password Good'] = 'Baik';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Seseorang telah meminta untuk menetapkan semula kata laluan anda di %2$s. Untuk menetapkan semula kata laluan anda, ikuti pautan ini: 
+$Definition['PasswordRequest'] = 'Seseorang telah meminta untuk menetapkan semula kata laluan anda di %2$s. Untuk menetapkan semula kata laluan anda, ikuti pautan ini:
 
 %3$s
 
@@ -1828,10 +1828,10 @@ $Definition['Terabyte'] = 'Terabait';
 $Definition['Terms'] = 'Syarat-syarat';
 $Definition['TermsOfService'] = 'Syarat-syarat Perkhidmatan';
 $Definition['Terms of Service'] = 'Syarat-syarat Perkhidmatan';
-$Definition['TermsOfServiceText'] = 'Anda bersetuju, melalui penggunaan perkhidmatan ini, bahawa anda tidak akan menggunakan 
+$Definition['TermsOfServiceText'] = 'Anda bersetuju, melalui penggunaan perkhidmatan ini, bahawa anda tidak akan menggunakan
 komuniti ini untuk mengemukakan apa-apa bahan yang diketahui palsu dan/atau memfitnah,
 tidak tepat, kesat, kasar, penuh dengan kebencian, mengganggu, lucah, tidak senonoh, seksual
-,mengancam, menceroboh privasi seseorang, atau melanggar sebarang undang-undang. Anda bersetuju bahawa anda tidak akan mengemukakan apa-apa bahan yang ada hak cipta kecuali 
+,mengancam, menceroboh privasi seseorang, atau melanggar sebarang undang-undang. Anda bersetuju bahawa anda tidak akan mengemukakan apa-apa bahan yang ada hak cipta kecuali
 anda memiliki hak cipta tersebut. Kami di komuniti ini juga berhak untuk mendedahkan identiti anda (atau apa sahaja maklumat yang kami tahu tentang anda) sekiranya aduan atau tindakan
 undang-undang disebabkan oleh apa-apa mesej yang anda hantar. Kami log semua alamat protokol internet yang mengakses laman web ini. Sila ambil perhatian bahawa iklan, surat berantai, skim piramid, dan pengumpanan adalah tidak sesuai dilakukan untuk komuniti ini.
 Kami mempunyai hak untuk membuang sebarang kandungan untuk apa-apa sebab atau tanpa sebab. Kami berhak untuk menamatkan keahlian untuk apa-apa sebab atau tanpa

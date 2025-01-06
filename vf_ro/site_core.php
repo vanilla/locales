@@ -525,7 +525,7 @@ $Definition['Date'] = 'Data';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Se introduce ca "LL/ZZ/aaaa".';
 $Definition['Date Added'] = 'Dată adaugată';
@@ -1832,47 +1832,47 @@ $Definition['TermsOfService'] = 'Termeni si conditii';
 $Definition['Terms of Service'] = 'Termeni si conditii';
 $Definition['TermsOfServiceText'] = '
 	<h1>TERMENII ȘI CONDIȚIILE DE UTILIZARE:</h1>
-	<p>Noi, echipa de administrare a site-ului dorim ca prin acest regulament 
+	<p>Noi, echipa de administrare a site-ului dorim ca prin acest regulament
 	intern de funcționare al acestei comunități să înțelegeți că numai așa
-	putem păstra acest site în scopul creat, acela de comunicare și relaționare între persoane, prin reguli simple, transparente și corecte! 
-	Se consideră că prin accesarea acestui forum, 
-	AȚI LUAT LA CUNOȘTIINȚĂ TERMENII ȘI CONDIȚIILE 
-	exprimate în continuare, și că 
+	putem păstra acest site în scopul creat, acela de comunicare și relaționare între persoane, prin reguli simple, transparente și corecte!
+	Se consideră că prin accesarea acestui forum,
+	AȚI LUAT LA CUNOȘTIINȚĂ TERMENII ȘI CONDIȚIILE
+	exprimate în continuare, și că
 	AȚI RESPECTAT ÎNTOCMAI ACESTE REGULI!</p>
-	
+
    <p>Sunteți de acord, prin utilizarea acestui serviciu, că nu veți folosi această
     comunitate pentru a posta vreun material care este cu buna stiință fals si / sau defăimător,
-    inexact, abuziv, vulgar, rasist, de hărțuire, obscen, profan, cu specific sexual, 
+    inexact, abuziv, vulgar, rasist, de hărțuire, obscen, profan, cu specific sexual,
 	amenințător, care invadează intimitatea unei persoane, sau altfel interzis
-    de vreo lege în viguare în România sau UE.</p> 
-	
+    de vreo lege în viguare în România sau UE.</p>
+
 	<p>Sunteți de acord să nu postați vreun material protejat de copyright
 	excepția cazului în care dreptul de autor este deținut de către dumneavoastră.</p>
-   
+
    <p>Noi cei de la această comunitate ne rezervăm de asemenea dreptul de a vă divulga identitatea (sau
-    orice informații pe care le știm despre dvs.), STRICT în cazul unei plângeri sau 
-	în cazul unei acțiuni juridice care decurge din orice mesaj postat de către dumneavoastră. 
-	Noi înregistram prin acest site toate adresele de accesare IP, 
-	așa că nu cosiderați că dacă folosiți date false la înregistrare 
+    orice informații pe care le știm despre dvs.), STRICT în cazul unei plângeri sau
+	în cazul unei acțiuni juridice care decurge din orice mesaj postat de către dumneavoastră.
+	Noi înregistram prin acest site toate adresele de accesare IP,
+	așa că nu cosiderați că dacă folosiți date false la înregistrare
 	nu se va dovedi că o persoană a publicat un material ilicit.</p>
-   
+
    <p>Vă rugăm să rețineti că reclamele, scrisorile în lanț, schemele piramidale și
-    solicitările sunt nepotrivite în această comunitate. 
+    solicitările sunt nepotrivite în această comunitate.
 	Reacțiunea noastră va fi de interzicere a accesului IP-lui și utilizatorului respectiv!</p>
-   
-   <p>Ne rezervăm dreptul de a elimina orice conținut pentru orice motiv mai sus menționat! 
+
+   <p>Ne rezervăm dreptul de a elimina orice conținut pentru orice motiv mai sus menționat!
    Ne rezervăm dreptul de a interzice orice membru pentru orice motiv mai sus menționat.
-   Nu stocăm date cu privire la CNP, BI, CI, PAȘAPORT și deasemeni vă rugăm să nu 
-   specificați pe acest site asemenea date personale de identificare, 
+   Nu stocăm date cu privire la CNP, BI, CI, PAȘAPORT și deasemeni vă rugăm să nu
+   specificați pe acest site asemenea date personale de identificare,
    la nimeni și pentru nici un motiv, indiferent care ar fi acesta!</p>
-   
+
    <p>Trebuie să aveți cel putin 18 ani pentru a utiliza acest serviciu.</p>
-   
+
    <p>SUNT TOTAL DE ACCORD CU TERMENII ȘI CONDIȚIILE DE MAI SUS,
-   ȘI CA ATARE VOI RESPECTA ACESTE REGULI NECONDIȚIONAT, 
-   ÎN CAZ CONTRAR ÎMI ASUM TOATĂ RESPONSABILITATEA JURIDICĂ 
+   ȘI CA ATARE VOI RESPECTA ACESTE REGULI NECONDIȚIONAT,
+   ÎN CAZ CONTRAR ÎMI ASUM TOATĂ RESPONSABILITATEA JURIDICĂ
    ASUPRA FAPTELOR MELE CIVILE ȘI/SAU PENALE!</p>
-   
+
 
 ';
 $Definition['Testing'] = 'Testare';

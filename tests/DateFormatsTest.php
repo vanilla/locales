@@ -13,7 +13,7 @@ namespace Garden\Locales\Tests;
  * $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
  * $Definition['Date.DefaultDayFormat'] = '%B %e';
  * $Definition['Date.DefaultFormat'] = '%B %e, %Y';
- * $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+ * $Definition['Date.DefaultTimeFormat'] = 'g:iA';
  * $Definition['Date.DefaultYearFormat'] = '%B %Y';
  */
 class DateFormatsTest extends AbstractLocalesTestCase {

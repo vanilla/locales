@@ -511,7 +511,7 @@ $Definition['Date'] = 'Applied On';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dato. Forventer `mm/dd/yyyy`.';
 $Definition['Date Added'] = 'Dato lagt til';
@@ -626,26 +626,26 @@ $Definition['EmailFooter'] = '
 Ha en super dag!';
 $Definition['EmailHeader'] = 'Hei {User.Name}!
 ';
-$Definition['EmailInvitation'] = 'Hei! 
+$Definition['EmailInvitation'] = 'Hei!
 
-%1$s har invitert deg til å bli med i/på %2$s. Hvis du vil bli med, kan du gjøre det ved å klikke på denne lenken: 
+%1$s har invitert deg til å bli med i/på %2$s. Hvis du vil bli med, kan du gjøre det ved å klikke på denne lenken:
 
 %3$s';
 $Definition['Email Language'] = 'E-postspråk';
-$Definition['EmailMembershipApproved'] = 'Hallo %1$s, 
+$Definition['EmailMembershipApproved'] = 'Hallo %1$s,
 
 Du har blitt godkjent som medlem. Logg deg på nå via følgende lenke:
 
 %2$s';
-$Definition['EmailNotification'] = '%1$s 
+$Definition['EmailNotification'] = '%1$s
 
-Følg lenken under for å ta en titt: 
+Følg lenken under for å ta en titt:
 %2$s
 
 Ha en fin dag!';
 $Definition['Email Notifications'] = 'E-post varsler';
 $Definition['Email Or Username'] = 'E-post eller brukernavn';
-$Definition['EmailPassword'] = '%2$s har endret ditt passord på %3$s. Dine innloggingsreferanser er nå: 
+$Definition['EmailPassword'] = '%2$s har endret ditt passord på %3$s. Dine innloggingsreferanser er nå:
 
 E-post: %6$s
 Passord: %5$s
@@ -1357,11 +1357,11 @@ $Definition['Password changed successfully.'] = 'Passordet ble endret.';
 $Definition['Password Contains Username'] = 'Inneholder brukernavn';
 $Definition['Password Good'] = 'Bra';
 $Definition['Password Ok'] = 'OK';
-$Definition['PasswordRequest'] = 'Noen har bedt om å tilbakestille passordet ditt på %2$s. For å tilbakestille passord, følg denne lenken: 
+$Definition['PasswordRequest'] = 'Noen har bedt om å tilbakestille passordet ditt på %2$s. For å tilbakestille passord, følg denne lenken:
 
 %3$s
 
-Hvis du ikke har bedt om dette, se bort fra denne e-posten. 
+Hvis du ikke har bedt om dette, se bort fra denne e-posten.
 
 ';
 $Definition['Passwords don\'t match'] = 'Passordene stemmer ikke overens med hverandre.';
@@ -1799,19 +1799,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Text  Max  Length'] = 'Maksimal lengde på tekst';

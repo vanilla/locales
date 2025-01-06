@@ -171,7 +171,7 @@ $Definition['Actions'] = 'การกระทำ';
 $Definition['Activate'] = 'เปิดใช้งาน';
 $Definition['Active'] = 'มีการใช้งาน';
 $Definition['Active Users'] = 'ผู้ใช้งาน';
-$Definition['Activities'] = 'กิจกรรมต่าง ๆ 
+$Definition['Activities'] = 'กิจกรรมต่าง ๆ
 ';
 $Definition['Activity'] = 'ความเคลื่อนไหว';
 $Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s ยอมรับ %4$s %8$s';
@@ -533,7 +533,7 @@ $Definition['Date'] = 'วันที่';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'วันที่ในรูปแบบ \'เดือน/วัน/ปี\'';
 $Definition['Date Added'] = 'เพิ่มวันที่แล้ว';
@@ -1866,19 +1866,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'ทดสอบ';

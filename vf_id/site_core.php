@@ -524,7 +524,7 @@ $Definition['Date'] = 'Tanggal';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Tanggal. Selain \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'Tanggal Ditambahkan';
@@ -1832,7 +1832,7 @@ ancaman, mengganggu privasi seseorang, atau dengan kata lain melanggar hukum.
 Anda setuju untuk tidak mengirim materi yang dilindungi hak cipta
 kecuali bila hak cipta itu adalah milik anda sendiri.
 
-Kami pada komunitas ini juga memiliki hak untuk mengungkap identitas anda 
+Kami pada komunitas ini juga memiliki hak untuk mengungkap identitas anda
 (atau informasi apapun yang kami ketahui tentang anda) dalam hal adanya pengaduan atau
 pelanggaran hukum akibat pesan-pesan dikirim oleh anda. Kami mencatat semua alamat protokol internet
 yang mengakses situs ini.

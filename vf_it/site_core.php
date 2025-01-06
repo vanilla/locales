@@ -523,7 +523,7 @@ $Definition['Date'] = 'Data';
 $Definition['Date.DefaultDateTimeFormat'] = '%e%B %Y, %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%e %B';
 $Definition['Date.DefaultFormat'] = '%e %B, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%p%H,%M';
+$Definition['Date.DefaultTimeFormat'] = 'gH, i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Formato \'mm/gg/aaaa\'.';
 $Definition['Date Added'] = 'Data Aggiunta';
@@ -1419,9 +1419,9 @@ $Definition['Password Contains Username'] = 'Contiene il nome utente';
 $Definition['Password Good'] = 'Buono';
 $Definition['Password Ok'] = 'Ok';
 $Definition['PasswordRequest'] = 'Qualcuno ha richiesto la reimpostazione della tua password su %2$s. Per reimpostare la tua password, sequi questo link:
-  
+
   %3$s
-  
+
 Se non hai effettuato questa richiesta, ignora questa e-mail.';
 $Definition['Passwords don\'t match'] = 'Le password non coincidono';
 $Definition['Passwords Match'] = 'Corrispondenza delle password';

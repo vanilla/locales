@@ -530,7 +530,7 @@ $Definition['Date'] = 'Ngày';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p ';
 $Definition['Date.DefaultDayFormat'] = '%B %e ';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y ';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p ';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA ';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Ngày. Định dạng là \'tháng/ngày/năm\'.';
 $Definition['Date Added'] = 'Đã thêm ngày';
@@ -658,7 +658,7 @@ $Definition['EmailHeader'] = 'Chào {User.Name}!
 $Definition['EmailInvitation'] = 'Chào bạn!
 
 %1$s mời bạn tham gia %2$s. Để tham gia, bạn vui lòng nhấp vào link bên dưới:
- 
+
  %3$s';
 $Definition['Email Language'] = 'Ngôn ngữ email';
 $Definition['EmailMembershipApproved'] = 'Chào %1$s,

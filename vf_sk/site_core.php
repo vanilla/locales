@@ -524,7 +524,7 @@ $Definition['Date'] = 'Dátum';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dátum. Očakávaný ´dd/mm/rrrr´.';
 $Definition['Date Added'] = 'Dátum Pridaný';
@@ -1389,7 +1389,7 @@ $Definition['Password changed successfully.'] = 'Heslo bolo úspešne zmenené.'
 $Definition['Password Contains Username'] = 'Obsahuje používateľské meno';
 $Definition['Password Good'] = 'Dobré';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Niekto požiadal o obnovu vašeho hesla na %2$s. Pre obnovu hesla, kliknite na nasledujúci odkaz: 
+$Definition['PasswordRequest'] = 'Niekto požiadal o obnovu vašeho hesla na %2$s. Pre obnovu hesla, kliknite na nasledujúci odkaz:
 
   %3$s
 

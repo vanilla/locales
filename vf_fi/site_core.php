@@ -534,7 +534,7 @@ $Definition['Date'] = 'Päiväys';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %l:%M%p %Y ';
 $Definition['Date.DefaultDayFormat'] = '%B %e ';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y ';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y ';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Päivämäärä. Oletusarvoisesti \'kk/pv/vvvv\'.';
 $Definition['Date Added'] = 'Lisätty';
@@ -661,7 +661,7 @@ $Definition['EmailHeader'] = 'Hei {User.Name}!
 ';
 $Definition['EmailInvitation'] = 'Hei!
 
-%1$s kutsui sinut mukaan keskustelupalstalle %2$s. 
+%1$s kutsui sinut mukaan keskustelupalstalle %2$s.
 
 Vahvistaaksesi kutsun, siirry allaolevaan osoitteeseen:
 
@@ -674,7 +674,7 @@ $Definition['EmailMembershipApproved'] = 'Hello %1$s,
 You have been approved for membership. Sign in now at the following link:
 
   %2$s
-  
+
 Have a great day!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1870,19 +1870,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Testi';

@@ -523,7 +523,7 @@ $Definition['Date'] = 'Дата';
 $Definition['Date.DefaultDateTimeFormat'] = '%e %B, %Y %H:%M';
 $Definition['Date.DefaultDayFormat'] = '%e %B';
 $Definition['Date.DefaultFormat'] = '%e %B, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%H:%M';
+$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Дата. Очікує \'мм/дд/рррр\'.';
 $Definition['Date Added'] = 'Дату додано';
@@ -657,7 +657,7 @@ $Definition['EmailMembershipApproved'] = 'Доброго дня, %1$s,
 Ваша реєстрація була затверджена! Щоб увійти на сайт, пройдіть за посиланням:
 
   %2$s
-  
+
 Приємного дня!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1398,7 +1398,7 @@ $Definition['Password changed successfully.'] = 'Пароль успішно з�
 $Definition['Password Contains Username'] = 'Містить ім\'я користувача';
 $Definition['Password Good'] = 'Хороший';
 $Definition['Password Ok'] = 'Добре';
-$Definition['PasswordRequest'] = 'Хтось запросив зміну паролю  на %2$s. Щоб скинути пароль, перейдіть за цим посиланням: 
+$Definition['PasswordRequest'] = 'Хтось запросив зміну паролю  на %2$s. Щоб скинути пароль, перейдіть за цим посиланням:
 
 %3$s
 

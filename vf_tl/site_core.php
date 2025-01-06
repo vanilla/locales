@@ -504,7 +504,7 @@ $Definition['Date'] = 'petsa';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Petsa. Inaasahang \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'petsa kung kailan idinagdag';
@@ -1313,7 +1313,7 @@ $Definition['Password changed successfully.'] = 'Matagumpay na nabago ang Passwo
 $Definition['Password Contains Username'] = 'Naglalaman ng Username';
 $Definition['Password Good'] = 'Ayos';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'May humiling na i-reset ang iyong password sa% %2$s. Upang i-reset ang iyong password, sundin ang link na ito: 
+$Definition['PasswordRequest'] = 'May humiling na i-reset ang iyong password sa% %2$s. Upang i-reset ang iyong password, sundin ang link na ito:
 
 %3$s
 
