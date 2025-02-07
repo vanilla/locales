@@ -1179,6 +1179,7 @@ $Definition["disabled"] = "disabled";
 $Definition["This information will only be shown to users with permission to view internal info"] = "This information will only be shown to users with permission to view internal info";
 $Definition["This is private information and will not be shared with other members."] = "This is private information and will not be shared with other members.";
 
+
 $Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.';
 $Definition['You cannot update this event\'s Zoom URL or ID.'] = 'You cannot update this event\'s Zoom URL or ID.';
 
@@ -1281,3 +1282,36 @@ $Definition['with'] = 'with';
 $Definition['with reason'] = 'with reason';
 $Definition['with tag'] = 'with tag';
 $Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = 'You cannot add more than 150 automation rules. Delete some rules and try again.';
+
+// Icon Management
+$Definition["No icons match those filters."] = "No icons match those filters.";
+$Definition["Manage Icon"] = "Manage Icon";
+$Definition["Manage Icons"] = "Manage Icons";
+$Definition["Manage Icon helptext"] = "You can manage system and historical icons here. When uploading, make sure the icon is in SVG format, includes a viewBox attribute, and uses color #000000 to ensure it can be dynamically colored based on theme settings and user interactions. Only one icon of each type can be active at a time.";
+$Definition["Upload New Icon"] = "Upload New Icon";
+$Definition["Active Icon"] = "Active Icon";
+$Definition["New Icon"] = "New Icon";
+$Definition["Icon Type"] = "Icon Type";
+$Definition["Previous Icons"] = "Previous Icons";
+$Definition["Previous versions of your icons can be found here and restored at any time."] = "Previous versions of your icons can be found here and restored at any time.";
+$Definition["Set as Active"] = "Set as Active";
+$Definition["Uploaded <0/> by <1/>"] = "Uploaded <0/> by <1/>";
+$Definition["Icon Packs"] = "Icon Packs";
+$Definition["Download Active Icon Pack"] = "Download Active Icon Pack";
+$Definition["Download System Icon Pack"] = "Download System Icon Pack";
+$Definition["Upload Icon Pack"] = "Upload Icon Pack";
+$Definition["Preview Icon Pack"] = "Preview Icon Pack";
+$Definition["Changed Icons"] = "Changed Icons";
+$Definition["Icon Name"] = "Icon Name";
+$Definition["All icons in this icon pack are currently active."] = "All icons in this icon pack are currently active.";
+$Definition["Activate Icon Pack"] = "Activate Icon Pack";
+$Definition["Only show icons that have been overridden with custom icons."] = "Only show icons that have been overridden with custom icons.";
+$Definition["System Icon"] = "System Icon";
+$Definition["Custom Icon"] = "Custom Icon";
+$Definition["Only show icons that are default system icons."] = "Only show icons that are default system icons.";
+$Definition["Previews"] = "Previews";
+$Definition["Icon Size"] = "Icon Size";
+$Definition["This is the actual size most icons render at."] = "This is the actual size most icons render at.";
+$Definition["Preview Color"] = "Preview Color";
+$Definition["This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."] = "This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic.";
+
