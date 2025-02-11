@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong wit
 $Definition['Alert users if they click external link.'] = 'Alert users if they click a link in a post that will lead them away from the forum. Users will not be warned when following links that match a Trusted Domain';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
 $Definition['Allow links to be transformed'] =
-    'Allow links to be transformed into embedded representations in discussions and comments. For example, a YouTube link will transform into an embedded video.';
+    'Allow links to be transformed into embedded representations in posts and comments. For example, a YouTube link will transform into an embedded video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonymize IP Addresses";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of 
 $Definition['Apply Layout'] = 'Apply Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Automatically save drafts of unpublished discussions, questions, ideas and comments.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Automatically save drafts of unpublished posts, questions, ideas and comments.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatars will be scaled down if they exceed this height.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatars will be scaled down if they exceed this width.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatars will have their thumbnails saved at this size.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Some browse
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "This setting loads the page before executing Javascript which can improve your SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Warning: Enabling this feature may cause Javascript errors on your site.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Remove post and categories links from menus. Set post and category related pages to return not found page 404.";
 
 
 
