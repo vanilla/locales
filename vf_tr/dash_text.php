@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Sorunlar?</h2><p>Bir eklentiyle ilgili bir �
 $Definition['Alert users if they click external link.'] = 'Kullanıcıları bir yayında, forumdan uzaklaştıracak bir bağlantıyı tıkladıklarında uyar. Güvenilir bir Alan Adı ile eşleşen bağlantıları izlerken kullanıcılar uyarılmayacak';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Her kategoride son 5 tartışmadan oluşan seçkin kategoriler';
 $Definition['Allow links to be transformed'] =
-    'Bağlantıların tartışmalarda ve yorumlarda gömülü temsillere dönüştürülmesine izin verin. Örneğin, bir YouTube bağlantısı gömülü bir videoya dönüşür.';
+    'Bağlantıların gönderilerde ve yorumlarda gömülü gösterimlere dönüştürülmesine izin verin. Örneğin, bir YouTube bağlantısı gömülü bir videoya dönüşecektir.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     '%s kullanıcılarına kendi avatarlarını Vanilla profil sayfalarından değiştirme izni verin.';
 $Definition['Anonymize IP Addresses'] = "IP Adreslerini Anonimleştirin";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Uygulamalar sitenize geniş bir işlevsellik g
 $Definition['Apply Layout'] = 'Düzeni Uygula';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Doğru veritabanı adını girdiğinizden emin misiniz? Belki, yanlış girmiş olabilirsiniz. Veritabanı raporu: <code>%s</code> ';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Yayınlanmamış tartışmaların, soruların, fikirlerin ve yorumların taslaklarını otomatik olarak kaydedin.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Yayımlanmamış gönderilerin, soruların, fikirlerin ve yorumların taslaklarını otomatik olarak kaydedin.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatarlar bu yüksekliği aşarsa ölçeklendirilir.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatarlar bu genişliği aşarsa ölçeklendirilir.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatarların küçük resimleri bu boyutta kaydedilecektir.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Bazı taray
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Bu ayar, SEO'nuzu iyileştirebilecek Javascript'i çalıştırmadan önce sayfayı yükler.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Uyarı: Bu özelliğin etkinleştirilmesi sitenizde Javascript hatalarına neden olabilir.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Menülerden tartışma ve kategori bağlantılarını kaldırın. Bulunamayan 404. sayfaya dönmek için tartışma ve kategoriyle ilgili sayfaları ayarlayın.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Menülerden gönderi ve kategori bağlantılarını kaldırın. Gönderi ve kategoriyle ilgili sayfaları, bulunamadı sayfası 404'ü döndürecek şekilde ayarlayın.";
 
 
 

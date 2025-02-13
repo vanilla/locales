@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong wit
 $Definition['Alert users if they click external link.'] = 'Alerto mga gumagamit kung nag-click sila ng isang link sa isang post na aakayin ang mga ito mula sa forum. Hindi bibigyan ng babala ang mga gumagamit kapag sumusunod sa mga link na tumutugma sa isang Pinagkakatiwalaang Domain';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
 $Definition['Allow links to be transformed'] =
-    'Payagan ang mga link na mabago sa naka-embed na representasyon sa mga talakayan at komento. Halimbawa, ang isang link sa YouTube ay magbabago sa isang naka-embed na video.';
+    'Payagan ang mga link na mabago sa mga naka-embed na representasyon sa mga post at komento. Halimbawa, ang isang link sa YouTube ay magiging isang naka-embed na video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Payagan ang mga gumagamit na may pahintulot %s na baguhin ang kanilang sariling mga avatar mula sa kanilang mga pahina ng profile sa Vanilla.';
 $Definition['Anonymize IP Addresses'] = "I-anonymize ang mga IP Address";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of 
 $Definition['Apply Layout'] = 'Ilapat ang Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Awtomatikong i-save ang mga draft ng hindi na-publish na mga talakayan, tanong, ideya at komento.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Awtomatikong i-save ang mga draft ng hindi na-publish na mga post, tanong, ideya at komento.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Ang mga avatar ay mai-scale kung lalampas nila ang taas na ito.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Ang mga avatar ay mai-scale kung lalampas nila ang lapad na ito.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Ang mga Avatar ay makatipid ng kanilang mga thumbnail sa laki na ito.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Sinusuporta
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Nilo-load ng setting na ito ang page bago isagawa ang Javascript na maaaring mapabuti ang iyong SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Babala: Ang pagpapagana sa feature na ito ay maaaring magdulot ng mga error sa Javascript sa iyong site.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Alisin ang mga link ng talakayan at kategorya mula sa mga menu. Itakda ang mga pahinang nauugnay sa talakayan at kategorya upang ibalik ang hindi nahanap na pahina 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Alisin ang mga link ng post at mga kategorya mula sa mga menu. Itakda ang mga pahinang nauugnay sa post at kategorya upang ibalik ang hindi nahanap na pahina 404.";
 
 
 

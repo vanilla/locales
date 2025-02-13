@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Problems?</h2><p>If something goes wrong wit
 $Definition['Alert users if they click external link.'] = 'Cuir fios gu luchd-cleachdaidh ma bhriogas iad air ceangal ann am post a bheir air falbh iad bhon fhòram. Cha tèid rabhadh a thoirt do luchd-cleachdaidh nuair a bhios iad a ’leantainn cheanglaichean a tha a’ freagairt ri Fearann earbsach';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'All categories listed with a selection of 5 recent discussions under each';
 $Definition['Allow links to be transformed'] =
-    'Leig le ceanglaichean a bhith air an atharrachadh gu riochdachaidhean freumhaichte ann an còmhraidhean agus beachdan. Mar eisimpleir, atharraichidh ceangal YouTube gu bhidio freumhaichte.';
+    'Leig le ceanglaichean a bhith air an cruth-atharrachadh gu riochdachaidhean freumhaichte ann am puist agus beachdan. Mar eisimpleir, atharraichidh ceangal YouTube gu bhith na bhidio freumhaichte.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Leig le luchd-cleachdaidh le cead %s na avatars aca fhèin atharrachadh bho na duilleagan pròifil aca ann am Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Cuir seòlaidhean IP gun urra";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of 
 $Definition['Apply Layout'] = 'Cuir a-steach cruth';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Sàbhail gu fèin-ghluasadach dreachan de chòmhraidhean, cheistean, bheachdan agus bheachdan neo-fhoillsichte.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Sàbhail gu fèin-ghluasadach dreachan de phuist neo-fhoillsichte, ceistean, beachdan agus beachdan.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Thèid avatars a lùghdachadh ma thèid iad thairis air an àirde seo.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Thèid avatars a lùghdachadh ma thèid iad thairis air an leud seo.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Thèid òrdagan a shàbhaladh aig avatars aig a ’mheud seo.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Bidh cuid d
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Bidh an suidheachadh seo a’ luchdachadh na duilleige mus cuir thu Javascript an gnìomh a leasaicheas do SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "** Rabhadh: Ma chuireas tu am feart seo an sàs dh’ fhaodadh e mearachdan Javascript adhbhrachadh air an làrach agad.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Thoir air falbh ceanglaichean deasbaid is roinnean bho chlàran-bìdh. Suidhich duilleagan deasbaid is roinn-seòrsa airson a thilleadh cha deach duilleag 404 a lorg.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Thoir air falbh ceanglaichean puist is roinnean bho chlàran-bìdh. Suidhich duilleagan co-cheangailte ris a’ phost is an roinn-seòrsa airson tilleadh nach deach a lorg duilleag 404.";
 
 
 

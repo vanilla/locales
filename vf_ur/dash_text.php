@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2 style=";text-align:right;direction:rtl"> م�
 $Definition['Alert users if they click external link.'] = 'صارفین کو متنبہ کریں اگر وہ کسی پوسٹ میں کسی ایسے لنک پر کلک کرتے ہیں جس سے وہ فورم سے دور ہوجائیں۔ قابل اعتماد ڈومین سے ملنے والے روابط کی پیروی کرتے وقت صارفین کو متنبہ نہیں کیا جائے گا';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'ہر ایک کے تحت حالیہ 5 مباحثوں کے انتخاب کے ساتھ درج تمام زمرے';
 $Definition['Allow links to be transformed'] =
-    'روابط کو مباحثوں اور تبصروں میں ایمبیڈڈ نمائندوں میں تبدیل کرنے کی اجازت دیں۔ مثال کے طور پر ، ایک YouTube لنک ایک ایمبیڈڈ ویڈیو میں تبدیل ہوجائے گا۔';
+    'لنکس کو پوسٹس اور تبصروں میں سرایت شدہ نمائندگی میں تبدیل ہونے دیں۔ مثال کے طور پر، یوٹیوب کا لنک ایمبیڈڈ ویڈیو میں بدل جائے گا۔';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     '%s صارفین کو ونیلا میں اپنے پروفائل صفحات سے اپنے اوتار تبدیل کرنے کی اجازت دیں۔';
 $Definition['Anonymize IP Addresses'] = "IP پتوں کو گمنام بنائیں";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'ایپلی کیشنز آپ کو اپنی سا�
 $Definition['Apply Layout'] = 'لے آؤٹ کا اطلاق کریں۔';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'کیا آپ واقعی صحیح ڈیٹا بیس کے میزبان کا نام درج کر چکے ہیں؟ شاید آپ نے غلط ٹائپ کیا ہے؟ ڈیٹا بیس کی اطلاع: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'غیر مطبوعہ مباحثوں، سوالات، خیالات اور تبصروں کے مسودوں کو خود بخود محفوظ کریں۔';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'غیر مطبوعہ پوسٹس، سوالات، خیالات اور تبصروں کے مسودے کو خودکار طور پر محفوظ کریں۔';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'اگر اوتار اس اونچائی سے تجاوز کریں گے تو ان کو کم کیا جائے گا۔';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'اوتار اگر اس چوڑائی سے تجاوز کر جائیں تو ان کو کم کیا جائے گا۔';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'اوتار کے پاس اس تھمب نیلز کو اس سائز میں محفوظ کیا جائے گا۔';
@@ -304,6 +305,7 @@ $Definition["Some browsers support a color for the address bar."] = "کچھ بر
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "یہ ترتیب جاوا اسکرپٹ کو چلانے سے پہلے صفحہ کو لوڈ کرتی ہے جو آپ کے SEO کو بہتر بنا سکتی ہے۔";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**انتباہ: اس خصوصیت کو فعال کرنے سے آپ کی سائٹ پر جاوا اسکرپٹ کی خرابیاں ہوسکتی ہیں۔**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "مینو سے بحث اور زمرہ جات کے لنکس کو ہٹا دیں۔ نہ ملا صفحہ 404 واپس کرنے کے لیے بحث اور زمرہ سے متعلق صفحات سیٹ کریں۔";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "مینو سے پوسٹ اور زمرہ جات کے لنکس کو ہٹا دیں۔ پوسٹ اور زمرہ سے متعلق صفحات سیٹ کریں تاکہ صفحہ 404 نہیں ملا۔";
 
 
 

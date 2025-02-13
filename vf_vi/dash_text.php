@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Gặp vấn đề?</h2><p>Nếu có lỗi x�
 $Definition['Alert users if they click external link.'] = 'Thông báo cho người dùng nếu họ nhấp vào một liên kết trong một bài đăng sẽ dẫn họ ra khỏi diễn đàn. Người dùng sẽ không được cảnh báo khi theo các liên kết phù hợp với Miền đáng tin cậy';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Tất cả các danh mục liệt kê với 5 bài viết gần nhất của nó';
 $Definition['Allow links to be transformed'] =
-    'Cho phép các liên kết được chuyển đổi thành các biểu diễn nhúng trong các cuộc thảo luận và bình luận. Ví dụ: liên kết YouTube sẽ chuyển đổi thành video được nhúng.';
+    'Cho phép chuyển đổi liên kết thành biểu diễn nhúng trong bài đăng và bình luận. Ví dụ: liên kết YouTube sẽ chuyển đổi thành video nhúng.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Cho phép người dùng có quyền %s để thay đổi hình đại diện của chính họ từ trang hồ sơ của họ trong Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Ẩn danh địa chỉ IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Các ứng dụng cho phép bạn thêm một 
 $Definition['Apply Layout'] = 'Áp dụng bố cục';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Bạn có chắc chắn đã nhập đúng tên máy chủ cơ sở dữ liệu không? Có thể bạn gõ nhầm gì đó? Cơ sở dữ liệu thông báo là: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Tự động lưu bản nháp của các cuộc thảo luận, câu hỏi, ý tưởng và nhận xét chưa được công bố.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Tự động lưu bản nháp của các bài đăng, câu hỏi, ý tưởng và bình luận chưa được xuất bản.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatars sẽ được thu nhỏ lại nếu vượt quá chiều cao này.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatars sẽ được thu nhỏ lại nếu vượt quá chiều rộng này.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatars sẽ có hình thu nhỏ của họ được lưu ở kích thước này.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Một số 
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Cài đặt này tải trang trước khi thực thi Javascript, điều này có thể cải thiện SEO của bạn.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "** Cảnh báo: Bật tính năng này có thể gây ra lỗi Javascript trên trang web của bạn. **";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Xóa các liên kết thảo luận và danh mục khỏi menu. Đặt các trang liên quan đến thảo luận và danh mục để trả về trang 404 không tìm thấy.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Xóa liên kết bài viết và danh mục khỏi menu. Đặt các trang liên quan đến bài viết và danh mục để trả về trang không tìm thấy 404.";
 
 
 

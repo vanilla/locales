@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Probleme?</h2> <p>În cazul în care ceva nu
 $Definition['Alert users if they click external link.'] = 'Alertați utilizatorii dacă fac clic pe un link dintr-o postare care îi va îndepărta de pe forum. Utilizatorii nu vor fi avertizați atunci când urmează link-uri care se potrivesc cu un domeniu de încredere';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Toate categoriile enumerate cu o selecţie de 5 discuţii recente ';
 $Definition['Allow links to be transformed'] =
-    'Permiteți transformarea legăturilor în reprezentări încorporate în discuții și comentarii. De exemplu, un link YouTube se va transforma într-un videoclip încorporat.';
+    'Permiteți ca linkurile să fie transformate în reprezentări încorporate în postări și comentarii. De exemplu, un link YouTube se va transforma într-un videoclip încorporat.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Permiteți utilizatorilor cu permisiunea %s să își schimbe avatarurile din paginile de profil din Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonimizați adresele IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Aplicaţiile vă permit să adăugaţi grupuri
 $Definition['Apply Layout'] = 'Aplicați aspectul';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Sunteţi sigur că aţi introdus numele de gazdă a bazei de date corect? Poate ați tastat greşit ? Baza de date a raportat: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Salvați automat schițele de discuții, întrebări, idei și comentarii nepublicate.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Salvați automat schițele de postări nepublicate, întrebări, idei și comentarii.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatarele vor fi reduse dacă depășesc această înălțime.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatarurile vor fi reduse dacă depășesc această lățime.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatarurile își vor memora miniaturile la această dimensiune.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Unele brows
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Această setare încarcă pagina înainte de a executa Javascript, ceea ce vă poate îmbunătăți SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Avertisment: activarea acestei funcții poate cauza erori Javascript pe site-ul dvs.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Eliminați linkurile pentru discuții și categorii din meniuri. Setați paginile legate de discuții și categorii să returneze pagina negăsită la pagina 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Eliminați linkurile postărilor și categoriilor din meniuri. Setați paginile legate de postare și categorii să returneze pagina negăsită la 404.";
 
 
 

@@ -19,7 +19,7 @@ $Definition['AddonProblems'] = '<h2>Προβλήματα;</h2><p>Αν κάτι �
 $Definition['Alert users if they click external link.'] = 'Ειδοποιήστε τους χρήστες εάν κάνουν κλικ σε έναν σύνδεσμο σε μια ανάρτηση που θα τους οδηγήσει μακριά από το φόρουμ. Οι χρήστες δεν θα ειδοποιούνται όταν ακολουθούν συνδέσμους που αντιστοιχούν σε έναν αξιόπιστο τομέα';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Όλες οι κατηγορίες που απαρριθμούνται με 5 πρόσφατες συζητήσεις σε κάθε μία';
 $Definition['Allow links to be transformed'] =
-    'Να επιτρέπεται η μετατροπή συνδέσμων σε ενσωματωμένες αναπαραστάσεις σε συζητήσεις και σχόλια. Για παράδειγμα, ένας σύνδεσμος YouTube θα μετατραπεί σε ενσωματωμένο βίντεο.';
+    'Να επιτρέπεται η μετατροπή συνδέσμων σε ενσωματωμένες αναπαραστάσεις σε αναρτήσεις και σχόλια. Για παράδειγμα, ένας σύνδεσμος YouTube θα μετατραπεί σε ενσωματωμένο βίντεο.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Επιτρέψτε στους χρήστες με την άδεια %s να αλλάξουν τα δικά τους είδωλα από τις σελίδες προφίλ τους στη Βανίλια.';
 $Definition['Anonymize IP Addresses'] = "Ανωνυμοποίηση διευθύνσεων IP";
@@ -27,6 +27,7 @@ $Definition['ApplicationHelp'] = 'Οι Εφαρμογές σας επιτρέπ�
 $Definition['Apply Layout'] = 'Εφαρμογή διάταξης';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Είστε σίγουρος ότι δώσατε το σωστό όνομα εξυπηρετητή της βάσης δεδομένων; Μήπως το πληκτρολογήσατε λάθος; Η βάση δεδομένων ανέφερε: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Αποθηκεύστε αυτόματα προσχέδια μη δημοσιευμένων συζητήσεων, ερωτήσεων, ιδεών και σχολίων.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Αποθηκεύστε αυτόματα προσχέδια μη δημοσιευμένων αναρτήσεων, ερωτήσεων, ιδεών και σχολίων.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Τα είδωλα θα μειωθούν εάν υπερβούν αυτό το ύψος.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Τα είδωλα θα μειωθούν εάν υπερβούν αυτό το πλάτος.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Τα Avatar θα αποθηκεύσουν τις μικρογραφίες τους σε αυτό το μέγεθος.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Ορισμ�
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Αυτή η ρύθμιση φορτώνει τη σελίδα πριν από την εκτέλεση Javascript που μπορεί να βελτιώσει το SEO σας.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Προειδοποίηση: Η ενεργοποίηση αυτής της λειτουργίας ενδέχεται να προκαλέσει σφάλματα Javascript στον ιστότοπό σας.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Καταργήστε τους συνδέσμους συζήτησης και κατηγοριών από τα μενού. Ρυθμίστε τις σελίδες που σχετίζονται με συζήτηση και κατηγορίες ώστε να επιστρέφουν τη σελίδα 404 που δεν βρέθηκε.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Καταργήστε τους συνδέσμους αναρτήσεων και κατηγοριών από τα μενού. Ορίστε τις σελίδες που σχετίζονται με την ανάρτηση και την κατηγορία ώστε να επιστρέφουν τη σελίδα 404 που δεν βρέθηκε.";
 
 
 

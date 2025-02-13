@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Težave?</h2><p> Če gre kaj narobe z dodatk
 $Definition['Alert users if they click external link.'] = 'Opozorite uporabnike, če kliknejo povezavo v objavi, ki jih bo odpeljala stran od foruma. Uporabniki ne bodo opozorjeni, ko sledijo povezavam, ki se ujemajo z zaupanja vredno domeno';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Vse kategorije so navedene z izborom 5 nedavnih razprav pod vsako';
 $Definition['Allow links to be transformed'] =
-    'Dovolite pretvorbo povezav v vdelane predstavitve v razpravah in komentarjih. Povezava YouTube se bo na primer spremenila v vdelan video.';
+    'Dovolite, da se povezave pretvorijo v vdelane predstavitve v objavah in komentarjih. Povezava YouTube se bo na primer spremenila v vdelan video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Dovoli uporabnikom z dovoljenjem %s, da spremenijo lastne avatarje na svojih profilnih straneh v Vaniliji.';
 $Definition['Anonymize IP Addresses'] = "Anonimizirajte naslove IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Aplikacije vam omogočajo dodajanje velikih sk
 $Definition['Apply Layout'] = 'Uporabi postavitev';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ali ste prepričani, da ste vnesli pravilno ime gostitelja baze podatkov? Ste se morda zmotili? Baza podatkov je poročala: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Samodejno shranite osnutke neobjavljenih razprav, vprašanj, zamisli in komentarjev.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Samodejno shranite osnutke neobjavljenih objav, vprašanj, zamisli in komentarjev.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatarji bodo pomanjšani, če presežejo to višino.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatarji bodo pomanjšani, če presežejo to širino.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatarji bodo imeli svoje sličice shranjene v tej velikosti.';
@@ -304,6 +305,7 @@ $Definition["Some browsers support a color for the address bar."] = "Nekateri br
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Ta nastavitev naloži stran pred izvajanjem Javascripta, kar lahko izboljša vaš SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Opozorilo: omogočanje te funkcije lahko povzroči napake Javascripta na vašem spletnem mestu.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Odstranite povezave do razprav in kategorij iz menijev. Nastavite strani, povezane z razpravami in kategorijami, da vrnejo stran 404, ki ni bila najdena.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Odstranite povezave do objav in kategorij iz menijev. Nastavi strani, povezane z objavo in kategorijo, da se vrne stran 404, ki ni bila najdena.";
 
 
 

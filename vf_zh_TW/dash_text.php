@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>有問題嗎？</h2><p>如果附加元件發
 $Definition['Alert users if they click external link.'] = '如果用戶單擊帖子中的鏈接將使他們離開論壇，則向用戶發出警報。當您跟踪與受信任域匹配的鏈接時，不會警告用戶';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = '所有在下方列出5項最近討論的分類';
 $Definition['Allow links to be transformed'] =
-    '允許將鏈接轉換為討論和評論中的嵌入式表示形式。例如，YouTube鏈接將轉換為嵌入式視頻。';
+    '允許將連結轉換為帖子和評論中的嵌入表示。例如，YouTube 連結將轉換為嵌入式影片。';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     '允許具有%s權限的用戶從Vanilla中的個人資料頁面更改自己的頭像。';
 $Definition['Anonymize IP Addresses'] = "匿名 IP 地址";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = '您可以利用應用程式來為網站增加�
 $Definition['Apply Layout'] = '應用佈局';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '您確定已經輸入正確的資料庫主機名稱嗎？會不會拼錯了呢？資料庫回報的訊息是：<code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = '自動保存未發表的討論、問題、想法和評論的草稿。';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = '自動儲存未發布的貼文、問題、想法和評論的草稿。';
 $Definition['Avatars will be scaled down if they exceed this height.'] = '如果頭像超過此高度，則將按比例縮小。';
 $Definition['Avatars will be scaled down if they exceed this width.'] = '如果頭像超過此寬度，則將按比例縮小。';
 $Definition['Avatars will have their thumbnails saved at this size.'] = '頭像將以此尺寸保存其縮略圖。';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "一些瀏�
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "此設置在執行 Javascript 之前加載頁面，這可以改善您的 SEO。";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**警告：啟用此功能可能會導致您的網站出現 Javascript 錯誤。**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "從菜單中刪除討論和類別鏈接。設置討論和類別相關頁面返回未找到頁面 404。";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "從選單中刪除貼文和類別連結。設定貼文和類別相關頁面以返回未找到頁面 404。";
 
 
 

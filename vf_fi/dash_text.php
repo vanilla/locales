@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Ongelmia?</h2><p>Jos jotain menee vikaan lis
 $Definition['Alert users if they click external link.'] = 'Varoita käyttäjiä, jos he napsauttavat julkaisussa olevaa linkkiä, joka siirtää heidät pois keskustelupalstalta. Käyttäjiä ei varoiteta, jos he seuraavat luotettua verkkotunnusta vastaavia linkkejä';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Kaikki kategoriat listattuna niin että näkyvissä on jokaisesta 5 uusinta aihetta';
 $Definition['Allow links to be transformed'] =
-    'Mahdollista linkkien muuttaminen keskusteluihin ja kommentteihin upotetuiksi esityksiksi. Esimerkiksi YouTube-linkki muuttuu tässä tapauksessa upotetuksi videoksi.';
+    'Salli linkkien muuntaminen upotetuiksi esityksiksi viesteissä ja kommenteissa. Esimerkiksi YouTube-linkki muuttuu upotetuksi videoksi.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Anna %s -valtuudet omaaville käyttäjille mahdollisuus muuttaa omia hahmokuviaan Vanillan profiilisivuillaan.';
 $Definition['Anonymize IP Addresses'] = "Anonymisoi IP-osoitteet";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Applications allow you to add large groups of 
 $Definition['Apply Layout'] = 'Käytä asettelua';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Oletko varma, että annoit oikean tietokannan isännän nimen? Tarkistathan oikeikirjoituksen jatkaaksesi. Tietokannan vastaus oli: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Tallenna automaattisesti luonnokset julkaisemattomista keskusteluista, kysymyksistä, ideoista ja kommenteista.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Tallenna automaattisesti luonnokset julkaisemattomista viesteistä, kysymyksistä, ideoista ja kommenteista.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Hahmokuvia pienennetään, jos ne ovat tätä korkeampia.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Hahmokuvia pienennetään, jos ne ovat tätä leveämpiä.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Hahmokuvan esikatselukuvat tallennetaan tässä koossa.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Jotkut sela
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Tämä asetus lataa sivun ennen Javascriptin suorittamista, mikä voi parantaa hakukoneoptimointiasi.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Varoitus: tämän ominaisuuden käyttöönotto voi aiheuttaa Javascript-virheitä sivustollesi.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Poista keskustelu- ja kategorialinkit valikoista. Aseta keskusteluun ja luokkiin liittyvät sivut palauttamaan ei löytynyt sivu 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Poista viestien ja luokkien linkit valikoista. Aseta viestiin ja luokkaan liittyvät sivut palauttamaan ei löytynyt sivu 404.";
 
 
 

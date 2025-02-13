@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Problemer?</h2><p>Hvis noget går galt med e
 $Definition['Alert users if they click external link.'] = 'Advar brugere, hvis de klikker på et link i et indlæg, der fører dem væk fra forummet. Brugere vil ikke blive advaret, når de følger links, der matcher et betroet domæne';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Alle kategorierne vises med et udvalg af de fem seneste diskussioner under hver';
 $Definition['Allow links to be transformed'] =
-    'Tillad, at links omdannes til indlejrede repræsentationer i diskussioner og kommentarer. For eksempel transformerer et YouTube-link til en indlejret video.';
+    'Tillad, at links omdannes til indlejrede repræsentationer i indlæg og kommentarer. For eksempel vil et YouTube-link forvandles til en indlejret video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Tillad brugere med %s tilladelse til at ændre deres egne avatarer fra deres profilsider i Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonymiser IP-adresser";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Applikationer giver dig mulighed for at lave s
 $Definition['Apply Layout'] = 'Anvend Layout';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Er du sikker på du har indtastet det korrekte database værtsnavn? Måske du har skrevet det forkert? Databasen rapporterede: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Gem automatisk udkast til upublicerede diskussioner, spørgsmål, ideer og kommentarer.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Gem automatisk udkast til ikke-publicerede indlæg, spørgsmål, ideer og kommentarer.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatarer skaleres ned, hvis de overskrider denne højde.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatarer skaleres ned, hvis de overskrider denne bredde.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatarer gemmer deres miniaturebilleder i denne størrelse.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Nogle brows
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Denne indstilling indlæser siden, før Javascript udføres, hvilket kan forbedre din SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Advarsel: Aktivering af denne funktion kan forårsage Javascript-fejl på dit websted.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Fjern diskussions- og kategorilinks fra menuer. Indstil diskussions- og kategorirelaterede sider til at returnere ikke fundet side 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Fjern post- og kategorilinks fra menuer. Indstil indlæg og kategorirelaterede sider til at returnere ikke fundet side 404.";
 
 
 

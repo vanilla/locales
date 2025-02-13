@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Gondjaid vannak?</h2><p>Ha valami balul sül
 $Definition['Alert users if they click external link.'] = 'Figyelmeztesse a felhasználókat, ha rákattintanak egy hivatkozásra egy üzenetben, amely elvezet a fórumtól. A felhasználókat nem figyelmeztetjük, ha egy megbízható domainnek megfelelő linkeket követnek';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'A következő alatt listázzuk minden kategóriát az 5 legfrissebb beszélgetésével';
 $Definition['Allow links to be transformed'] =
-    'Engedélyezze a linkek beágyazott ábrázolásokká történő átalakítását a megbeszélésekben és a megjegyzésekben. Például egy YouTube-link beágyazott videóvá alakul.';
+    'Engedélyezze a linkek beágyazott reprezentációvá alakítását a bejegyzésekben és megjegyzésekben. Például egy YouTube-link beágyazott videóvá alakul.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Engedélyezze az %s engedéllyel rendelkező felhasználók számára, hogy megváltoztassák saját karakterüket a Vanilla profiloldalukon.';
 $Definition['Anonymize IP Addresses'] = "Az IP-címek névtelenítése";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Az alkalmazások segítségével nagy számú 
 $Definition['Apply Layout'] = 'Elrendezés alkalmazása';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Biztos hogy a megfelelő adatbázis hoszt nevet adtad meg? Elírás, esetleg? Az adatbázis a következő választ adta: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Automatikusan mentse a ki nem adott viták, kérdések, ötletek és megjegyzések piszkozatait.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Automatikusan mentse a közzé nem tett bejegyzések, kérdések, ötletek és megjegyzések piszkozatait.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Az avatárokat lecsökkentik, ha meghaladják ezt a magasságot.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Az avatárokat lecsökkentik, ha meghaladják ezt a szélességet.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Az avatarok miniatűrjeit ilyen méretben menti el.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Egyes böng
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Ez a beállítás betölti az oldalt a Javascript futtatása előtt, ami javíthatja a keresőoptimalizálást.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Figyelmeztetés: A funkció engedélyezése Javascript-hibákat okozhat webhelyén.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Távolítsa el a beszélgetésekre és a kategóriákra mutató hivatkozásokat a menükből. A vitához és a kategóriákhoz kapcsolódó oldalak beállítása a nem található 404. oldal visszaállításához.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "A bejegyzésekre és a kategóriákra mutató hivatkozások eltávolítása a menükből. A bejegyzéshez és a kategóriához kapcsolódó oldalak beállítása a nem található 404. oldal visszaküldéséhez.";
 
 
 

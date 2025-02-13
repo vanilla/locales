@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>مشكلي داريد؟</h2><p>اگر مشك
 $Definition['Alert users if they click external link.'] = 'در صورت کلیک روی پیوندی در پستی ، کاربران هشدار می دهند که آنها را از این انجمن دور می کند. به دنبال پیوندهایی که با یک دامنه معتبر مطابقت دارند ، کاربران هشدار داده نمی شوند';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'تمام دسته بندي ها با 5 گفتگوي جديد زير هم ليست شده است';
 $Definition['Allow links to be transformed'] =
-    'اجازه دهید پیوندها در مباحث و نظرات به بازنمودهای تعبیه شده تبدیل شوند. به عنوان مثال ، یک لینک YouTube به یک فیلم جاسازی شده تبدیل می شود.';
+    'اجازه دهید پیوندها به نمایش های جاسازی شده در پست ها و نظرات تبدیل شوند. به عنوان مثال، یک پیوند YouTube به یک ویدیوی جاسازی شده تبدیل می شود.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'اجازه دهید کاربران با اجازه %s اجازه تغییر آواتارهای خود را از صفحات نمایه خود در وانیل داشته باشند.';
 $Definition['Anonymize IP Addresses'] = "ناشناس کردن آدرس های IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'اپليكيشن ها به شما اجازه �
 $Definition['Apply Layout'] = 'Layout را اعمال کنید';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'آيا مطمئن هستيد كه نام ميزبان پايگاه داده را صحيح وارد كرده ايد؟ شايد اسمش را اشتباه تايپ كرده باشيد؟ پايگاه داده گزارش ميدهد : <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'پیش نویس بحث ها، سوالات، ایده ها و نظرات منتشر نشده را به صورت خودکار ذخیره کنید.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'پیش نویس پست ها، سوالات، ایده ها و نظرات منتشر نشده را به صورت خودکار ذخیره کنید.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'اگر از این ارتفاع بیشتر شود ، آواتارها کوچکتر می شوند.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'اگر از این عرض بیشتر شود ، آواتارها کوچکتر می شوند.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'آواتارها تصاویر کوچک خود را در این اندازه ذخیره می کنند.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "برخی ا
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "این تنظیم صفحه را قبل از اجرای جاوا اسکریپت بارگیری می کند که می تواند سئوی شما را بهبود بخشد.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**هشدار: فعال کردن این ویژگی ممکن است باعث ایجاد خطاهای جاوا اسکریپت در سایت شما شود.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "پیوندهای بحث و دسته بندی را از منوها حذف کنید. صفحات مربوط به بحث و دسته بندی را طوری تنظیم کنید که صفحه 404 یافت نشد.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "پیوندهای پست و دسته ها را از منوها حذف کنید. صفحات مرتبط با پست و دسته را طوری تنظیم کنید که صفحه 404 یافت نشد.";
 
 
 

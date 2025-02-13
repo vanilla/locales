@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2> Masalah? </h2><p> Sekiranya ada yang tidak 
 $Definition['Alert users if they click external link.'] = 'Maklumkan pengguna sekiranya mereka mengklik pautan dalam siaran yang akan membawa mereka keluar dari forum. Pengguna tidak akan diberi amaran ketika mengikuti pautan yang sesuai dengan Domain yang Dipercayai';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Semua kategori disenaraikan dengan pilihan 5 perbincangan terkini di bawah masing-masing';
 $Definition['Allow links to be transformed'] =
-    'Benarkan pautan diubah menjadi representasi tertanam dalam perbincangan dan komen. Sebagai contoh, pautan YouTube akan berubah menjadi video terbenam.';
+    'Benarkan pautan diubah menjadi perwakilan terbenam dalam siaran dan ulasan. Sebagai contoh, pautan YouTube akan berubah menjadi video terbenam.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Benarkan pengguna dengan kebenaran %s untuk menukar avatar mereka sendiri dari halaman profil mereka di Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonimkan Alamat IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Aplikasi membolehkan anda menambahkan kumpulan
 $Definition['Apply Layout'] = 'Gunakan Tata Letak';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Adakah anda pasti memasukkan nama host pangkalan data yang betul? Mungkin anda salah menaipnya? Pangkalan data dilaporkan: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Simpan secara automatik draf perbincangan, soalan, idea dan ulasan yang tidak diterbitkan.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Simpan draf siaran, soalan, idea dan ulasan yang tidak diterbitkan secara automatik.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatar akan dikecilkan jika melebihi ketinggian ini.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatar akan dikecilkan jika melebihi lebar ini.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatar akan menyimpan gambar kecil mereka pada saiz ini.';
@@ -304,6 +305,7 @@ $Definition["Some browsers support a color for the address bar."] = "Sesetengah 
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Tetapan ini memuatkan halaman sebelum melaksanakan Javascript yang boleh meningkatkan SEO anda.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Amaran: Mendayakan ciri ini boleh menyebabkan ralat Javascript pada tapak anda.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Alih keluar pautan perbincangan dan kategori daripada menu. Tetapkan halaman berkaitan perbincangan dan kategori untuk mengembalikan halaman tidak ditemui 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Alih keluar pautan siaran dan kategori daripada menu. Tetapkan halaman berkaitan siaran dan kategori untuk mengembalikan halaman tidak ditemui 404.";
 
 
 

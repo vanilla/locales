@@ -90,6 +90,7 @@ $Definition['Add Theme'] = 'Thema hinzufügen';
 $Definition['Add Token'] = 'Token hinzufügen';
 $Definition['Add User'] = 'Nutzer hinzufügen';
 $Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in discussions, comments or articles.'] = 'Fügen Sie Ihre benutzerdefinierte(n) Kaltura-Domain(s) hinzu, um Links in eingebettete Videos in Diskussionen, Kommentaren oder Artikeln umzuwandeln.';
+$Definition['Add your custom Kaltura domain(s) to transform links into embedded videos in posts, comments or articles.'] = 'Fügen Sie Ihre benutzerdefinierte(n) Kaltura-Domain(s) hinzu, um Links in Posts, Kommentaren oder Artikeln in eingebettete Videos zu verwandeln.';
 $Definition['administrator'] = 'Administrator';
 $Definition['Advanced'] = 'Erweitert';
 $Definition['Advanced Category Settings'] = 'Fortgeschrittene Kategorieneinstellungen';
@@ -210,6 +211,8 @@ $Definition['Cannot build profile information if user is not defined.'] = 'Kann 
 $Definition['Categories &amp; Discussions'] = 'Kategorien & Diskussionen';
 $Definition['Categories to Exclude from AI Answers'] = 'Kategorien, die bei den KI-Antworten ausgeschlossen werden sollen';
 $Definition['Categories are used to organize discussions.'] = 'Kategorien sind dazu da, Benutzern zu helfen, ihre Diskussionen so zu organisieren, wie es für Ihre Community sinnvoll ist.';
+$Definition['Categories are used to organize posts.'] = 'Kategorien helfen Ihren Nutzern, ihre Posts in einer für Ihre Community sinnvollen Weise zu organisieren.';
+$Definition['Categories allow you to organize your posts.'] = 'Mit Kategorien können Sie Ihre Posts organisieren.';
 $Definition['Categories Layout'] = 'Kategorienlayout';
 $Definition['Category Following'] = 'Kategorie folgt auf';
 $Definition['Category Page Layout'] = 'Kategorie-Seiten Layout';
@@ -301,6 +304,7 @@ $Definition['Current Mobile Theme'] = 'Aktuelles Handythema';
 $Definition['Current Theme'] = 'Aktuelles Theme';
 $Definition['Custom Themes'] = 'Kundendefinierte Motive';
 $Definition['Customize AI Persona'] = 'KI-Rolle anpassen';
+$Definition['Custom Recent Posts Layouts'] = 'Benutzerdefinierte Layouts der aktuellen Posts';
 
 $Definition['Database Structure Upgrades'] = 'Datenbank-Struktur Upgrades';
 $Definition['Date From'] = 'Datum vom';
@@ -341,11 +345,13 @@ $Definition['Disabled: The pocket will <b>not</b> be displayed.'] = 'Deaktiviert
 $Definition['Disable Signatures'] = 'Signaturen deaktivieren';
 $Definition['Disable Tagging'] = 'Tagging deaktivieren';
 $Definition['Discussion & Comment Editing'] = 'Bearbeitung von Diskussionen & Kommentaren';
+$Definition['Post & Comment Editing'] = 'Bearbeiten von Posts und Kommentaren';
 $Definition['Discussions'] = 'Diskussionen';
 $Definition['discussion(s)'] = 'Diskussion(en)';
 $Definition['Discussion  Body'] = 'Diskussionstext';
 $Definition['Discussions Layout'] = 'Diskussions-Layout';
 $Definition['Discussions per Page'] = 'Diskussionen pro Seite';
+$Definition['Posts per Page'] = 'Posts pro Seite';
 $Definition['Discussion  Subject'] = 'Diskussionsbetreff';
 $Definition['Dismissable'] = 'Ausblendbar';
 $Definition['Dismiss Answer'] = 'Antwort verwerfen';
@@ -411,6 +417,7 @@ $Definition['Enable HTML emails'] = 'HTML-E-Mails aktivieren';
 $Definition['Enable embedding to use blog comments.'] = 'Damit dies funktioniert, musst du das Einbetten einschalten';
 $Definition['Enable Image Upload Limit'] = 'Limit beim Hochladen von Bildern aktivieren';
 $Definition['Enable link embeds in discussions and comments'] = 'Link-Einbettungen in Diskussionen und Kommentaren aktivieren';
+$Definition['Enable link embeds in posts and comments'] = 'Link-Einbettungen in Posts und Kommentaren aktivieren';
 $Definition['Enable OpenID'] = 'Aktiviere OpenID';
 $Definition['Enable Pocket Locations'] = 'Taschenpositionen aktivieren';
 $Definition['Enable Private Communities'] = 'Private Communitys aktivieren';
@@ -530,6 +537,7 @@ $Definition['Here\'s how to get started:'] = 'Erste Schritte:';
 $Definition['Hidden for everything!'] = 'Für Alle verborgen!';
 $Definition['Hidden for mobile'] = 'Für Mobilgeräte verborgen';
 $Definition['Hide discussions from Recent Discussions and Widgets.'] = 'Verbergen Sie Diskussionen in „Letzte Diskussionen“ und „Widgets“.';
+$Definition['Hide posts from Recent Posts Page and Widgets.'] = 'Posts auf der Seite „Aktuelle Posts“ und in Widgets ausblenden.';
 $Definition['Hide Pocket Locations'] = 'Verberge Pocket-Platzierungen';
 $Definition['Hide signatures for guests'] = 'Signaturen für Gäste ausblenden';
 $Definition['Hide signatures on embedded comments'] = 'Signaturen in eingebetteten Kommentaren ausblenden';
@@ -610,6 +618,9 @@ $Definition['Layman\'s Terms'] = 'Laienbegriffe';
 $Definition['Layout'] = 'Layout';
 $Definition['Learn more'] = 'Erfahren Sie mehr';
 $Definition['Learn more about HSTS at %s.'] = 'Erfahren Sie mehr über HSTS unter %s.';
+$Definition['Legacy Recent Posts Layout'] = 'Altes Layout der aktuellen Posts';
+
+
 $Definition['Level'] = 'Level ';
 $Definition['Level of Technical Language'] = 'Level der technischen Sprache';
 $Definition['Limits: 60 characters, no breaks.'] = 'Beschränkungen: 60 Zeichen, keine Zeilenumbrüche.
@@ -725,9 +736,11 @@ $Definition['Not Spam'] = 'Kein Spam';
 $Definition['Number of %s listed per page.'] = 'Anzahl der pro Seite aufgelisteten %s.';
 $Definition['Number of blocked registrations'] = 'Anzahl der blockierten Registrierungen';
 $Definition['Number of days before a follow-up email is automatically sent.'] = 'Anzahl der Tage, bevor eine Folge-E-Mail automatisch gesendet wird.';
+$Definition['Number input must be between'] = 'Die eingegebene Zahl muss zwischen';
 $Definition['Number input must be between 1 and 100.'] = 'Die eingegebene Zahl muss zwischen 1 und 100 liegen.';
 $Definition['Number of posts'] = 'Anzahl der Beiträge
 ';
+$Definition['Number of posts from groups'] = 'Anzahl der Posts von Gruppen';
 
 $Definition['On'] = 'An';
 $Definition['Only Allow Each User To Post'] = 'Erlaube Nutzern das Erstellen von';
@@ -799,6 +812,10 @@ $Definition['Recently Active Users'] = 'Kürzlich aktive Nutzer';
 $Definition['Recently Commented'] = 'Kürzlich kommentiert';
 $Definition['Recently Added'] = 'Kürzlich hinzugefügt';
 $Definition['Recent News'] = 'Neue Nachrichten';
+$Definition['Recent Posts Layout Settings'] = 'Layout-Einstellungen der aktuellen Posts';
+$Definition['Recent Posts Pages'] = 'Seiten der aktuellen Posts';
+$Definition['Recent Posts Layout Version'] = 'Layout-Version der aktuellen Posts';
+
 $Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = 'Die empfohlenen Abmessungen sind 400 px mal 300 px oder kleiner mit einem ähnlichen Seitenverhältnis.';
 $Definition['Record Content'] = 'Inhalt';
 $Definition['Recipient'] = 'Empfänger';
@@ -1210,6 +1227,7 @@ $Definition["disabled"] = "deaktiviert";
 $Definition["This information will only be shown to users with permission to view internal info"] = "Diese Daten werden nur Benutzern angezeigt, die die Berechtigung zur Anzeige von internen Daten haben ";
 $Definition["This is private information and will not be shared with other members."] = "Dies sind private Daten. Sie werden nicht mit anderen Mitgliedern geteilt.";
 
+
 $Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'Dadurch wird ein Zoom-Meeting im Namen des Eigentümers der Zoom-Integration erstellt. Wenn Sie ein registrierter Benutzer sind, werden Sie als Co-Gastgeber hinzugefügt. Falls Sie kein registrierter Zoom-Benutzer sind oder nicht zu der Organisation gehören, die die Integration eingerichtet hat, können die Zoom-Funktionen für dieses Event ohne den Gastgeber eingeschränkt sein.';
 $Definition['You cannot update this event\'s Zoom URL or ID.'] = 'Sie können die Zoom-URL oder -ID für dieses Event nicht aktualisieren.
 ';
@@ -1342,3 +1360,36 @@ $Definition['with reason'] = 'mit Grund';
 $Definition['with tag'] = 'mit Tag';
 $Definition['You cannot add more than 150 automation rules. Delete some rules and try again.'] = 'Sie können nicht mehr als 150 Automatisierungsregeln hinzufügen. Löschen Sie einige Regeln und versuchen Sie es erneut.
 ';
+
+// Icon Management
+$Definition["No icons match those filters."] = "Es gibt keine Symbole, die diesen Filtern entsprechen.";
+$Definition["Manage Icon"] = "Symbol verwalten";
+$Definition["Manage Icons"] = "Symbole verwalten";
+$Definition["Manage Icon helptext"] = "Hier können Sie System- und Verlaufssymbole verwalten. Achten Sie beim Hochladen darauf, dass das Symbol im SVG-Format vorliegt, ein viewBox-Attribut enthält und die Farbe #000000 verwendet, um sicherzustellen, dass es je nach Designeinstellungen und Benutzerinteraktionen dynamisch gefärbt werden kann. Von jedem Typ kann jeweils nur ein Symbol zum gleichen Zeitpunkt aktiv sein.";
+$Definition["Upload New Icon"] = "Neues Symbol hochladen";
+$Definition["Active Icon"] = "Aktiv-Symbol";
+$Definition["New Icon"] = "Neues Symbol";
+$Definition["Icon Type"] = "Symboltyp";
+$Definition["Previous Icons"] = "Vorherige Symbole";
+$Definition["Previous versions of your icons can be found here and restored at any time."] = "Frühere Versionen Ihrer Symbole können Sie hier jederzeit wiederherstellen.";
+$Definition["Set as Active"] = "Als „Aktiv“ einstellen";
+$Definition["Uploaded <0/> by <1/>"] = "Hochgeladen <0/> von <1/>";
+$Definition["Icon Packs"] = "Symbolpakete";
+$Definition["Download Active Icon Pack"] = "Aktives Symbolpaket herunterladen";
+$Definition["Download System Icon Pack"] = "System-Symbolpaket herunterladen";
+$Definition["Upload Icon Pack"] = "Symbolpaket hochladen";
+$Definition["Preview Icon Pack"] = "Vorschau Symbolpaket";
+$Definition["Changed Icons"] = "Geänderte Symbole";
+$Definition["Icon Name"] = "Symbolname";
+$Definition["All icons in this icon pack are currently active."] = "Alle Symbole in diesem Symbolpaket sind derzeit aktiv.";
+$Definition["Activate Icon Pack"] = "Symbolpaket aktivieren";
+$Definition["Only show icons that have been overridden with custom icons."] = "Nur Symbole anzeigen, die durch benutzerdefinierte Symbole überschrieben wurden.";
+$Definition["System Icon"] = "System-Symbol";
+$Definition["Custom Icon"] = "Benutzerdefiniertes Symbol";
+$Definition["Only show icons that are default system icons."] = "Nur Standardsymbole des Systems anzeigen.";
+$Definition["Previews"] = "Vorschau";
+$Definition["Icon Size"] = "Symbolgröße";
+$Definition["This is the actual size most icons render at."] = "Dies ist die tatsächliche Größe, in der die meisten Symbole dargestellt werden.";
+$Definition["Preview Color"] = "Vorschau Farbe";
+$Definition["This color will be used to preview the icon color. It will replace any usage of #000000 in your uploaded icons. In the actual application, colors will be dynamic."] = "Diese Farbe wird zur Vorschau der Symbolfarbe verwendet. Sie ersetzt jede Verwendung von #000000 in Ihren hochgeladenen Symbolen. In der tatsächlichen Anwendung sind die Farben dynamisch.";
+

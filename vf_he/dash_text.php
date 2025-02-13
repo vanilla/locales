@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>בעיות?</h2><p>אם משהו הולך ש
 $Definition['Alert users if they click external link.'] = 'התריע על משתמשים אם הם לוחצים על קישור בפוסט שיוביל אותם הרחק מהפורום. משתמשים לא יזהירו בעת ביצוע קישורים התואמים לתחום מהימן';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'כל הקטגוריות הרשומות עם 5 הדיונים האחרונים תחת כל אחת מהן';
 $Definition['Allow links to be transformed'] =
-    'אפשר להפוך את הקישורים לייצוגים משובצים בדיונים והערות. לדוגמה, קישור ביוטיוב יהפוך לסרטון משובץ.';
+    'אפשר להפוך קישורים לייצוגים מוטבעים בפוסטים ובתגובות. לדוגמה, קישור YouTube יהפוך לסרטון מוטבע.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'אפשר למשתמשים עם הרשאה %s לשנות את האווטרים שלהם מדפי הפרופיל שלהם בוונילה.';
 $Definition['Anonymize IP Addresses'] = "אנונימיז את כתובות ה-IP";
@@ -28,6 +28,7 @@ $Definition['Apply Layout'] = 'החל פריסה';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'הנכם בטוחים שכתבתם את שם השרת המארח בצורה תקינה? אולי שגית בהקלדה? תגובה השרת היתה:
 <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'שמור אוטומטית טיוטות של דיונים, שאלות, רעיונות והערות שלא פורסמו.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'שמור אוטומטית טיוטות של פוסטים, שאלות, רעיונות והערות שלא פורסמו.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'אבטרים יוגדלו אם הם יעלו מגובה זה.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'אבטרים יוגדלו אם הם חורגים מרוחב זה.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'באווטרים נשמרים התמונות הממוזערות בגודל זה.';
@@ -309,6 +310,7 @@ $Definition["Some browsers support a color for the address bar."] = "דפדפנ�
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "הגדרה זו טוענת את הדף לפני הפעלת Javascript שיכולה לשפר את SEO שלך.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**אזהרה: הפעלת תכונה זו עלולה לגרום לשגיאות Javascript באתר שלך.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "הסר קישורי דיונים וקטגוריות מהתפריטים. הגדר דפים הקשורים לדיונים וקטגוריות כך שיחזירו את עמוד 404 לא נמצא.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "הסר קישורי פוסטים וקטגוריות מהתפריטים. הגדר דפים הקשורים לפוסטים ולקטגוריות כך שיחזירו עמוד 404 לא נמצא.";
 
 
 

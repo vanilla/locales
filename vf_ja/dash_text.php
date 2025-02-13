@@ -19,7 +19,7 @@ $Definition['AddonProblems'] = '<h2>問題がありますか？</h2><p>アドオ
 $Definition['Alert users if they click external link.'] = 'ユーザーが投稿内のリンクをクリックし、それによりユーザーがフォーラムから離れることになる場合、ユーザーに警告します。信頼できるドメインに一致するリンクをたどる場合、ユーザーに警告は表示されません';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'それぞれの下に最新の5つのディスカッションが選択されてリストされたすべてのカテゴリ';
 $Definition['Allow links to be transformed'] =
-    'リンクをディスカッションおよびコメント内の埋め込み表現に変換できるようにします。例えば、YouTubeリンクは埋め込み動画に変換されます。';
+    'リンクを投稿やコメント内の埋め込み表示に変換できるようにする。例えば、YouTubeリンクは埋め込み動画に変換されます。';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     '%sアクセス権を持つユーザーが、Vanillaのプロフィールページから自分のアバターを変更できるようにします。';
 $Definition['Anonymize IP Addresses'] = "IPアドレスを匿名化する";
@@ -27,6 +27,7 @@ $Definition['ApplicationHelp'] = '「アプリケーション」は、このサ�
 $Definition['Apply Layout'] = 'レイアウトを適用する';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'データベース ホスト名は正しく入力されましたか？ 入力ミスの可能性はありませんか？データベースの報告は次の通りです: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = '未公開のディスカッション、質問、アイデア、コメントの下書きを自動的に保存します。';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = '未公開の投稿、質問、アイデア、コメントの下書きを自動的に保存する。';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'アバターは、この高さを超えると縮小されます。';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'アバターがこの幅を超えると縮小されます。';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'アバターのサムネイルはこのサイズで保存されます。';
@@ -306,6 +307,7 @@ $Definition["Some browsers support a color for the address bar."] = "一部の�
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "この設定では、SEO対策の改善に役立つJavaスクリプトを実行する前に当該ページがロードされます。";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**警告：この機能を有効にすると、あなたのサイトでJavaスクリプトのエラーが発生する場合があります。**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "メニューからディスカッションとカテゴリーのリンクを削除してください。「not found page 404」のメッセージを返すには、ディスカッションとカテゴリに関するページを設定してください。";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "メニューから投稿とカテゴリーリンクを削除する。投稿とカテゴリーに関連するページがNot Found Page 404エラーを返さないように設定してください。";
 
 
 

@@ -13,7 +13,7 @@ namespace Garden\Locales\Tests;
  * $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
  * $Definition['Date.DefaultDayFormat'] = '%B %e';
  * $Definition['Date.DefaultFormat'] = '%B %e, %Y';
- * $Definition['Date.DefaultTimeFormat'] = '%l:%M%p';
+ * $Definition['Date.DefaultTimeFormat'] = 'g:iA';
  * $Definition['Date.DefaultYearFormat'] = '%B %Y';
  */
 class DateFormatsTest extends AbstractLocalesTestCase {
@@ -32,6 +32,23 @@ class DateFormatsTest extends AbstractLocalesTestCase {
         if ($format !== null) {
             // Just checking for an error.
             $f = strftime($format, self::$testTime);
+            $this->assertIsString($f);
+            $this->assertFalse(strpos($f, '%'), "$f contains a percent sign for $key: $format.");
+        } elseif (fnmatch('*/vf_en*', $dir)) {
+            $this->assertTrue(true);
+        } else {
+            $this->markTestSkipped("The $basename locale doesn't have format for key: $key.");
+        }
+    }
+
+    protected function assertTimeFormatNotSmokey(string $dir, string $key) {
+        $defs = $this->loadTranslations($dir);
+        $format = $defs[$key] ?? null;
+        $basename = basename($dir);
+
+        if ($format !== null) {
+            // Just checking for an error.
+            $f = date($format, self::$testTime);
             $this->assertIsString($f);
             $this->assertFalse(strpos($f, '%'), "$f contains a percent sign for $key: $format.");
         } elseif (fnmatch('*/vf_en*', $dir)) {
@@ -78,7 +95,7 @@ class DateFormatsTest extends AbstractLocalesTestCase {
      * @dataProvider provideLocaleDirs
      */
     public function testDefaultTimeFormat(string $dir) {
-        $this->assertDateFormatNotSmokey($dir, 'Date.DefaultTimeFormat');
+        $this->assertTimeFormatNotSmokey($dir, 'Date.DefaultTimeFormat');
     }
 
     /**

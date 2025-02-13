@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2> Izinkinga? </h2><p> Uma kukhona okungahambi
 $Definition['Alert users if they click external link.'] = 'Abasebenzisi bezaziso uma bechofoza isixhumanisi kokuthunyelwe okuzoholela kude nesithangami. Abasebenzisi ngeke baxwayiswe uma kulandela izixhumanisi ezihambelana ne-Domain Ethembekile';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Zonke izigaba ezifakwe kuhlu ezikhethiwe kwezingxoxo ezi-5 zakamuva ngaphansi kwesigaba ngasinye';
 $Definition['Allow links to be transformed'] =
-    'Vumela izixhumanisi ukuthi ziguqulwe zibe yizifanekiselo ezishumekiwe ezingxoxweni nasemazwaneni. Isibonelo, ukuxhumana kwe-YouTube kuzoshintsha kube yividiyo eshumekiwe.';
+    'Vumela izixhumanisi ukuthi ziguqulwe zibe izethulo ezishunyekiwe kokuthunyelwe nakumazwana. Isibonelo, isixhumanisi se-YouTube sizoshintsha sibe ividiyo eshumekiwe.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Vumela abasebenzisi abane-%s imvume yokushintsha ama-avatar abo kusuka kumakhasi abo e-Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Ungavezi amakheli e-IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Izicelo zikuvumela ukuthi ungeze amaqembu amak
 $Definition['Apply Layout'] = 'Sebenzisa Isakhiwo';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Uqinisekile ukuthi ufake igama lomsingathi wemininingwane efanele? Mhlawumbe uyiphathe kabi? Imininingwane yabika: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Londoloza ngokuzenzakalela okusalungiswa kwezingxoxo ezingashicilelwe, imibuzo, imibono namazwana.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Londoloza ngokuzenzakalela okusalungiswa kokuthunyelwe okungashicilelwe, imibuzo, imibono namazwana.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Ama-avatar azokwehliswa uma edlula lokhu ukuphakama.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Ama-avatar azokwehliswa uma edlula lobu bubanzi.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Ama-avatar azoba nezithonjana zawo zilondolozwe ngalesayizi.';
@@ -304,6 +305,7 @@ $Definition["Some browsers support a color for the address bar."] = "Ezinye izip
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Lesi silungiselelo silayisha ikhasi ngaphambi kokusebenzisa i-Javascript engathuthukisa i-SEO yakho.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Isexwayiso: Ukunika amandla lesi sici kungase kubangele amaphutha e-Javascript kusayithi lakho.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Susa izixhumanisi zengxoxo nezigaba kumamenyu. Setha ingxoxo kanye namakhasi ahlobene nesigaba ukuze ubuyiselwe awatholakalanga ikhasi 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Susa izixhumanisi zokuthunyelwe nezigaba kumamenyu. Setha amakhasi ahlobene neposi kanye nesigaba ukuze ubuyisele ikhasi elingatholakalanga 404.";
 
 
 

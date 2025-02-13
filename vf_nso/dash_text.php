@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>O na le mathata?</h2><p>Ge go ka senyega sel
 $Definition['Alert users if they click external link.'] = 'Lemoša badiriši ge ba kgotla kgokagano ka posong yeo e tlago ba iša kgole le foramo. Badiriši ba ka se lemošwe ge ba latela dikgokagano tšeo di swanago le Domain ye e Botegago';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Magoro ka moka a lokeleditšwe ka go kgethwa ga dipoledišano tše 5 tša morago bjale ka tlase ga e nngwe le e nngwe';
 $Definition['Allow links to be transformed'] =
-    'Dumelela dikgokagano go fetolwa go ba dikemedi tše di tsentšwego dipoledišanong le ditshwayotshwayong. Ka mohlala, kgokagano ya YouTube e tla fetoga bidio yeo e tsentšwego.';
+    'Dumelela dikgokagano go fetošwa go ba dikemedi tše di tsentšwego ka gare ga diposo le ditshwayotshwayo. Ka mohlala, kgokagano ya YouTube e tla fetoga go ba bidio yeo e tsentšwego.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Dumelela badiriši bao ba nago le tumelelo ya %s go fetoša di-avatar tša bona go tšwa matlakaleng a bona a profaele go Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonymize Diaterese tša IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Dikgopelo di go dumelela go tsenya dihlopha t�
 $Definition['Apply Layout'] = 'Diriša Peakanyo';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Na o kgodišegile gore o tsentšhe bobolokelo bja maleba leineng la mong? Mohlomongwe ga se wa le ngwala gabotse? Bobolokelo bo begile gore: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Boloka ka go itiriša dingwalwa tša dipoledišano tšeo di sa phatlalatšwago, dipotšišo, dikgopolo le ditshwayotshwayo.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Boloka ka go itiriša dingwalwa tša diposo tšeo di sa phatlalatšwago, dipotšišo, dikgopolo le ditshwayotshwayo.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Di-Avatar di tla fokotšwa ge e ba di feta botelele bjo.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Di-Avatar di tla fokotšwa ge e ba di feta bophara bjo.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Di-Avatar di tla ba le diswantšho tša tšona tše dinyenyane tšeo di bolokilwego ka bogolo bjo.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Diphensele 
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Seteišene se se laetša letlakala pele o phethagatša Javascript yeo e ka kaonafatšago SEO ya gago.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Temošo: Go kgontšha tšobotsi ye go ka hlola diphošo tša Javascript mo saeteng ya gago.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Tloša dikgokagano tša poledišano le tša magoro go tšwa go dimenu. Beakanya matlakala ao a amanago le poledišano le legoro go boela morago ga se a hwetšwa letlakala 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Tloša dikgokagano tša poso le magoro go tšwa go dimenu. Beakanya matlakala a amanago le poso le legoro go boela morago ga se a hwetšwa letlakala 404.";
 
 
 

@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>مشاكل؟</h2><p> إذا حدث خلل م
 $Definition['Alert users if they click external link.'] = 'تنبيه المستخدمين إذا قاموا بالنقر فوق ارتباط في منشور سيقودهم بعيدًا عن المنتدى. لن يتم تحذير المستخدمين عند اتباع الروابط التي تتطابق مع المجال الموثوق';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'كل الأقسام المختارة مع عرض 5 مواضيع حديثة تحت كل منها';
 $Definition['Allow links to be transformed'] =
-    'السماح بتحويل الروابط إلى تمثيلات مضمنة في المناقشات والتعليقات. على سبيل المثال ، سيتم تحويل رابط YouTube إلى فيديو مضمن.';
+    'السماح بتحويل الروابط إلى تمثيلات مضمنة في المنشورات والتعليقات. على سبيل المثال، سيتحول رابط YouTube إلى فيديو مضمن.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'السماح للمستخدمين الذين لديهم إذن %s بتغيير الصور الرمزية الخاصة بهم من صفحات ملفاتهم الشخصية في Vanilla.';
 $Definition['Anonymize IP Addresses'] = "إخفاء هوية عناوين IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'التطبيقات تسمح لك بإضافة 
 $Definition['Apply Layout'] = 'تطبيق التخطيط';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'هل أنت متأكد من أنك أدخلت اسم مضيف قاعدة البيانات الصحيح؟ ربما أخطأت في الكتابة؟ ذكرت قاعدة البيانات: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'حفظ مسودات المناقشات والأسئلة والأفكار والتعليقات غير المنشورة تلقائيًا.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'حفظ مسودات المشاركات والأسئلة والأفكار والتعليقات غير المنشورة تلقائيًا.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'سيتم تصغير الصور الرمزية إذا تجاوزت هذا الارتفاع.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'سيتم تصغير الصور الرمزية إذا تجاوزت هذا العرض.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'سيتم حفظ الصور المصغرة الخاصة بهم في هذا الحجم.';
@@ -308,6 +309,7 @@ $Definition["Some browsers support a color for the address bar."] = "تدعم ب
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "يقوم هذا الإعداد بتحميل الصفحة قبل تنفيذ جافا سكريبت الذي يمكنه تحسين مُحسّنات محرّكات البحث لديك.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "** تحذير: قد يؤدي تمكين هذه الميزة إلى حدوث أخطاء جافا سكريبت على موقعك. **";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "إزالة روابط المناقشة والفئات من القوائم. قم بتعيين صفحات المناقشة والفئة ذات الصلة لإرجاع صفحة غير موجودة 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "قم بإزالة روابط المنشورات والفئات من القوائم. قم بتعيين الصفحات المرتبطة بالمنشورات والفئات لإرجاع صفحة 404 غير الموجودة.";
 
 
 

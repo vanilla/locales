@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Problemau?</h2> <p>Os aiff rhywbeth o\'i le 
 $Definition['Alert users if they click external link.'] = 'Rhybuddiwch ddefnyddwyr os ydyn nhw\'n clicio dolen mewn post a fydd yn eu harwain i ffwrdd o\'r fforwm. Ni fydd defnyddwyr yn cael eu rhybuddio wrth ddilyn dolenni sy\'n cyfateb i Barth dibynadwy';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Pob categori a restrwyd ynghyd a detholiad o 5 trafodaeth diweddar o bob un';
 $Definition['Allow links to be transformed'] =
-    'Caniatáu i gysylltiadau gael eu trawsnewid yn gynrychioliadau gwreiddio mewn trafodaethau a sylwadau. Er enghraifft, bydd dolen YouTube yn trawsnewid yn fideo wedi\'i fewnosod.';
+    'Caniatáu i ddolenni gael eu trawsnewid yn gynrychioliadau sydd wedi\'u hymgorffori mewn postiadau a sylwadau. Er enghraifft, bydd dolen YouTube yn trawsnewid yn fideo wedi\'i fewnosod.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Caniatáu i ddefnyddwyr y caniatâd %s i newid eu avatars eu hunain o\'u tudalennau proffil yn Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anhysbys Cyfeiriadau IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Mae rhaglenni yn caniatáu i chi ychwanegu grw
 $Definition['Apply Layout'] = 'Cymhwyso Cynllun';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Ydych chi\'n siŵr bod wedi rhoi enw\'r gweinydd cronfa ddata cywir? Ydych chi wedi ei gamdeipio? Adroddodd y gronfa ddata: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Cadw drafftiau o drafodaethau, cwestiynau, syniadau a sylwadau heb eu cyhoeddi yn awtomatig.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Arbedwch yn awtomatig ddrafftiau o bostiadau, cwestiynau, syniadau a sylwadau heb eu cyhoeddi.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Bydd afatars yn cael eu graddio i lawr os ydyn nhw\'n uwch na\'r uchder hwn.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Bydd afatarau\'n cael eu graddio i lawr os ydyn nhw\'n fwy na\'r lled hwn.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Bydd bawd bawd Avatars yn cael ei arbed ar y maint hwn.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Mae rhai po
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Mae'r gosodiad hwn yn llwytho'r dudalen cyn gweithredu Javascript a all wella'ch SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Rhybudd: Gall galluogi'r nodwedd hon achosi gwallau Javascript ar eich gwefan.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Dileu dolenni trafodaeth a chategorïau o fwydlenni. Gosodwch dudalennau trafodaeth a chategori i ddychwelyd heb ei chanfod tudalen 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Dileu dolenni post a chategorïau o fwydlenni. Gosod tudalennau post a chategori i ddychwelyd heb ei chanfod tudalen 404.";
 
 
 

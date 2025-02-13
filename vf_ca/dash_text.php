@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2> Problemes? </h2><p> Si alguna cosa va malam
 $Definition['Alert users if they click external link.'] = 'Aviseu els usuaris si fan clic en un enllaç d’una publicació que els allunyarà del fòrum. Els usuaris no seran avisats quan segueixin enllaços que coincideixin amb un domini de confiança';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Totes les categories es presenten amb una selecció de cinc debats recents en cadascuna d’elles';
 $Definition['Allow links to be transformed'] =
-    'Permet que els enllaços es transformin en representacions incrustades en debats i comentaris. Per exemple, un enllaç de YouTube es transformarà en un vídeo incrustat.';
+    'Permet que els enllaços es transformin en representacions incrustades en publicacions i comentaris. Per exemple, un enllaç de YouTube es transformarà en un vídeo incrustat.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Permet als usuaris amb el permís %s canviar els seus propis avatars de les seves pàgines de perfil a Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonimitzar les adreces IP";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Les aplicacions us permeten afegir grans grups
 $Definition['Apply Layout'] = 'Aplica el disseny';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Esteu segur que heu introduït el nom d’amfitrió correcte? Potser ho heu equivocat? La base de dades reportada: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Desa automàticament esborranys de discussions, preguntes, idees i comentaris no publicats.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Desa automàticament esborranys de publicacions, preguntes, idees i comentaris no publicats.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Els avatars es veuran reduïts si superen aquesta alçada.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Els avatars es veuran reduïts si sobrepassen aquesta amplada.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Els avatars es guardaran les miniatures a aquesta mida.';
@@ -304,6 +305,7 @@ $Definition["Some browsers support a color for the address bar."] = "Alguns nave
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Aquesta configuració carrega la pàgina abans d'executar Javascript, cosa que pot millorar el vostre SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Avís: activar aquesta funció pot provocar errors de Javascript al vostre lloc.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Elimina els enllaços de discussió i categories dels menús. Estableix les pàgines relacionades amb la discussió i les categories per tornar la pàgina 404 no trobada.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Elimina els enllaços de publicacions i categories dels menús. Estableix les pàgines relacionades amb publicacions i categories perquè tornin la pàgina 404 no trobada.";
 
 
 

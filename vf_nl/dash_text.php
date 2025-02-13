@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Problemen?</h2><p>Als er iets misgaat met ee
 $Definition['Alert users if they click external link.'] = 'Waarschuw mensen dat als ze op een link in een bericht klikken dat ze weggeleid worden van het forum. Gebruikers worden niet gewaarschuwd wanneer ze een link volgen die overeenkomt met een vertrouwd domein';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Alle categorieën in een lijst met elk een selectie van de vijf meest recente discussies';
 $Definition['Allow links to be transformed'] =
-    'Sta toe dat links getransformeerd worden in ingevoegde toepassingen in discussies en reacties. Bijvoorbeeld, een YouTube link wordt getransformeerd in een ingevoegde video.';
+    'Sta toe dat links worden omgezet in ingebedde representaties in berichten en opmerkingen. Bijvoorbeeld, een YouTube-link wordt omgezet in een ingebedde video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Sta toe dat gebruikers met %s toestemming hun eigen avatar vanaf hun profielpagina in Vanilla aanpassen.';
 $Definition['Anonymize IP Addresses'] = "IP-adressen anonimiseren";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Met applicaties kun je grote groepen van funct
 $Definition['Apply Layout'] = 'Lay-out toepassen';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Weet je zeker van dat je de goede database hostnaam hebt ingevuld? Misschien heb je het verkeerd ingetypt? De database gaf dit aan: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Bewaar automatisch concepten van niet-gepubliceerde discussies, vragen, ideeën en opmerkingen.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Sla automatisch concepten op van niet-gepubliceerde berichten, vragen, ideeën en opmerkingen.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatars worden verkleind als ze deze hoogte overschrijden.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatars worden verkleind als ze deze breedte overschrijden.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Thumbnails van avatars worden opgeslagen op deze grootte.';
@@ -309,6 +310,7 @@ $Definition["Some browsers support a color for the address bar."] = "Sommige bro
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Deze instelling laadt de pagina voordat Javascript wordt uitgevoerd, wat uw SEO kan verbeteren.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Waarschuwing: het inschakelen van deze functie kan Javascript-fouten veroorzaken op uw site.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Verwijder discussie- en categoriekoppelingen uit menu's. Stel discussie- en categoriegerelateerde pagina's in om niet gevonden pagina 404 te retourneren.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Verwijder post- en categoriekoppelingen uit menu's. Stel post- en categoriegerelateerde pagina's in om pagina 404 niet gevonden te retourneren.";
 
 
 

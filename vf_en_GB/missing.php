@@ -31,7 +31,7 @@ $Definition['Activity.PictureChange.ProfileHeadline'] = '%1$s changed %6$s profi
 $Definition['Activity.QuestionAnswer.FullHeadline'] = '%1$s answered %4$s %8$s.';
 $Definition['Add your site to trusted domains.'] = 'Make sure your site is added to %s when embedding is enabled.';
 $Definition['Alert users if they click external link.'] = 'Alert users if they click a link in a post that will lead them away from the forum. Users will not be warned when following links that match a Trusted Domain';
-$Definition['Allow links to be transformed'] = 'Allow links to be transformed into embedded representations in discussions and comments. For example, a YouTube link will transform into an embedded video.';
+$Definition['Allow links to be transformed'] = 'Allow links to be transformed into embedded representations in posts and comments. For example, a YouTube link will transform into an embedded video.';
 $Definition['Allow users to dismiss this message'] = 'Allow users to dismiss this message.';
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'If there\'s an account associated with this email, we\'ve sent a password reset link.';
 $Definition['Apply additional classes on catalogue image.'] = 'Apply additional classes on catalogue image. Use space to separate each class.';
@@ -55,6 +55,7 @@ $Definition['BanReason.8'] = 'Banned by warnings.';
 $Definition['Ban Type'] = 'Type';
 
 $Definition['Categories are used to organize discussions.'] = 'Categories are used to help your users organize their discussions in a way that is meaningful for your community.';
+$Definition['Categories are used to organize posts.'] = 'Categories are used to help your users organize their posts in a way that is meaningful for your community.';
 $Definition['CategoriesNoFollowed'] = 'No categories followed';
 $Definition['CategoriesShowFollowed'] = 'Only show followed categories';
 $Definition['CategoriesShowUnfollowed'] = 'Show hidden categories';
@@ -89,6 +90,7 @@ $Definition['CtaTooltip'] = 'Add a custom CTA to provide quick access to importa
 
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date Examples'] = 'Examples: Monday, today, last week, Mar 26, 3/26/04';
 $Definition['default type'] = 'default';
@@ -280,6 +282,7 @@ $Definition['LogoDisclaimer'] = 'Themes made with the theme editor and some cust
 
 $Definition['Make Leader'] = 'Leader';
 $Definition['Make sure you click View Page'] = 'Make sure you click <a href="%s">View Page</a> to see what your categories page looks like after saving.';
+$Definition['Manage Icon helptext'] = 'You can manage system and historical icons here. When uploading, make sure the icon is in SVG format, includes a viewBox attribute, and uses color #000000 to ensure it can be dynamically colored based on theme settings and user interactions. Only one icon of each type can be active at a time.';
 $Definition['Marking as spam cannot be undone.'] = 'Marking something as SPAM will cause it to be deleted forever. Deleting is a good way to keep your forum clean.';
 $Definition['Member Count'] = 'Members';
 $Definition['Member roles'] = 'Check all roles that should be applied to new/approved users.';

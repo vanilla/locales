@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>문제가 있습니까?</h2><p> 애드온에
 $Definition['Alert users if they click external link.'] = '사용자가 게시물에서 링크를 클릭하여 포럼에서 멀어지게하는 경우 사용자에게 경고합니다. 신뢰할 수있는 도메인과 일치하는 링크를 따라갈 때 사용자에게 경고가 표시되지 않습니다';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = '최근 선택한 토의 5개가 열거된 모든 카테고리';
 $Definition['Allow links to be transformed'] =
-    '토론과 의견에서 링크를 포함 된 표현으로 변환 할 수 있습니다. 예를 들어 YouTube 링크는 포함 된 비디오로 변환됩니다.';
+    '게시물과 댓글에서 링크가 임베디드 표현으로 변환되도록 허용합니다. 예를 들어, YouTube 링크는 임베디드 비디오로 변환됩니다.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     '%s 권한이있는 사용자는 자신의 아바타를 바닐라의 프로필 페이지에서 변경할 수 있습니다.';
 $Definition['Anonymize IP Addresses'] = "IP 주소 익명화";
@@ -27,6 +27,7 @@ $Definition['ApplicationHelp'] = '어플리케이션을 사용하여 포럼에 �
 $Definition['Apply Layout'] = '레이아웃 적용';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = '정말로 올바른 데이터베이스 호스트명을 입력하셨습니까? 혹시 잘못 입력하셨습니까? 보고된 데이터베이스: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = '게시되지 않은 토론, 질문, 아이디어 및 의견의 초안을 자동으로 저장합니다.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = '게시되지 않은 게시물, 질문, 아이디어 및 댓글의 초안을 자동으로 저장합니다.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = '아바타가이 높이를 초과하면 축소됩니다.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = '아바타가이 너비를 초과하면 축소됩니다.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = '아바타는이 크기로 썸네일을 저장합니다.';
@@ -322,6 +323,7 @@ $Definition["Some browsers support a color for the address bar."] = "일부 브�
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "이 설정은 SEO를 향상시킬 수 있는 Javascript를 실행하기 전에 페이지를 로드합니다.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**경고: 이 기능을 활성화하면 사이트에서 자바스크립트 오류가 발생할 수 있습니다.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "메뉴에서 토론 및 범주 링크를 제거합니다. 찾을 수 없는 페이지 404를 반환하도록 토론 및 카테고리 관련 페이지를 설정합니다.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "메뉴에서 게시물 및 카테고리 링크를 제거합니다. 게시물 및 카테고리 관련 페이지를 찾을 수 없는 페이지 404로 돌아가도록 설정합니다.";
 
 
 

@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Des problèmes ?</h2><p>Si un problème surv
 $Definition['Alert users if they click external link.'] = 'Alertez les utilisateurs s\'ils cliquent sur un lien dans un message qui les éloignera du forum. Les utilisateurs ne seront pas avertis lorsqu\'ils suivront des liens qui correspondent à un domaine de confiance';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Toutes les catégories sont listées avec une sélection de 5 discussions récentes en-dessous de chacune d\'entre elles';
 $Definition['Allow links to be transformed'] =
-    'Permettez aux liens d\'être transformés en représentations intégrées dans les discussions et les commentaires. Par exemple, un lien YouTube se transformera en une vidéo intégrée.';
+    'Permet de transformer les liens en représentations intégrées dans les messages et les commentaires. Par exemple, un lien YouTube sera transformé en une vidéo intégrée.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Autorisez les utilisateurs disposant de la permission %s à modifier leurs propres avatars depuis leurs pages de profil dans Vanilla.';
 $Definition['Anonymize IP Addresses'] = "Anonymiser les adresses IP";
@@ -27,6 +27,7 @@ Une fois qu\'une application a été ajoutée à votre dossier %s, vous pouvez l
 $Definition['Apply Layout'] = 'Appliquer la mise en page';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Êtes-vous sûr d\'avoir correctement entré le nom de l\'hôte de la base de données ? Peut-être avez-vous fait une faute de frappe ? La base de données renvoie : <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Enregistrez automatiquement les brouillons des discussions, questions, idées et commentaires non publiés.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Sauvegarder automatiquement les brouillons de messages, questions, idées et commentaires non publiés.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Les avatars seront réduits s\'ils dépassent cette hauteur.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Les avatars seront réduits s\'ils dépassent cette largeur.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Les avatars verront leurs vignettes enregistrées à cette taille.';
@@ -306,6 +307,7 @@ $Definition["Some browsers support a color for the address bar."] = "Certains na
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Ce paramètre permet de charger la page avant d’exécuter le Javascript, ce qui peut améliorer votre référencement.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Avertissement : L’activation de cette fonction peut entraîner des erreurs JavaScript sur votre site.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Supprimer les liens de discussion et de catégories des menus. Configurer les pages liées aux discussions et aux catégories pour qu’elles renvoient une page 404 non trouvée.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Supprimer des menus les liens vers les messages et catégories. Configurer les pages liées aux messages et aux catégories pour qu’elles renvoient vers la page 404 (page non trouvée).";
 
 
 

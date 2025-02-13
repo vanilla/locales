@@ -19,7 +19,7 @@ $Definition['AddonProblems'] = '<h2>Problémy?</h2><p>Pokud se s doplňkem něco
 $Definition['Alert users if they click external link.'] = 'Upozornit uživatele, pokud kliknou na odkaz v příspěvku, který je povede mimo fórum. Uživatelé nebudou upozorněni, když budou následovat odkazy, které odpovídají důvěryhodné doméně';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Všechny kategorie uvedeny s výběrem z 5 posledních diskusí pod každou z nich';
 $Definition['Allow links to be transformed'] =
-    'Umožňují transformaci odkazů na vložené reprezentace v diskusích a komentářích. Například odkaz na YouTube se změní na vložené video.';
+    'Umožněte transformaci odkazů na vložené reprezentace v příspěvcích a komentářích. Například odkaz na YouTube se změní na vložené video.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Umožněte uživatelům s oprávněním %s změnit své vlastní avatary ze svých profilových stránek ve Vanille.';
 $Definition['Anonymize IP Addresses'] = "Anonymizovat IP adresy";
@@ -27,6 +27,7 @@ $Definition['ApplicationHelp'] = 'Aplikace vám dávají možnost přidávat na 
 $Definition['Apply Layout'] = 'Použít rozvržení';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Opravdu jste zadali správný název hostitele databáze? Nespletli jste si název? Nahlášená databáze: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Automaticky ukládat koncepty nepublikovaných diskuzí, otázek, nápadů a komentářů.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Automaticky ukládejte koncepty nepublikovaných příspěvků, otázek, nápadů a komentářů.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatary budou zmenšeny, pokud překročí tuto výšku.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatary budou zmenšeny, pokud překročí tuto šířku.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatary budou mít své miniatury uloženy v této velikosti.';
@@ -305,6 +306,7 @@ $Definition["Some browsers support a color for the address bar."] = "Některé p
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Toto nastavení načte stránku před spuštěním Javascriptu, což může zlepšit vaše SEO.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Upozornění: Povolení této funkce může způsobit chyby JavaScriptu na vašem webu.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Odstraňte odkazy na diskuze a kategorie z nabídek. Nastavit stránky související s diskuzí a kategoriemi tak, aby se vrátila stránka nenalezena 404.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Odstraňte odkazy na příspěvky a kategorie z nabídek. Nastavit stránky související s příspěvky a kategoriemi tak, aby se vrátila stránka nenalezena 404.";
 
 
 
