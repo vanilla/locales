@@ -171,7 +171,7 @@ $Definition['Actions'] = 'การกระทำ';
 $Definition['Activate'] = 'เปิดใช้งาน';
 $Definition['Active'] = 'มีการใช้งาน';
 $Definition['Active Users'] = 'ผู้ใช้งาน';
-$Definition['Activities'] = 'กิจกรรมต่าง ๆ
+$Definition['Activities'] = 'กิจกรรมต่าง ๆ 
 ';
 $Definition['Activity'] = 'ความเคลื่อนไหว';
 $Definition['Activity.AnswerAccepted.FullHeadline'] = '%1$s ยอมรับ %4$s %8$s';
@@ -533,7 +533,6 @@ $Definition['Date'] = 'วันที่';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'วันที่ในรูปแบบ \'เดือน/วัน/ปี\'';
 $Definition['Date Added'] = 'เพิ่มวันที่แล้ว';
@@ -1044,6 +1043,7 @@ $Definition['Keep me signed in'] = 'อยู่ในระบบตลอด�
 $Definition['Keep User Content'] = 'เก็บเนื้อหาของผู้ใช้';
 $Definition['Kilobyte'] = 'กิโลไบต์';
 $Definition['Knowledge Bases'] = 'ฐานความรู้';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'ฐานความรู้ที่ต้องแยกออกจากคำตอบของ AI';
 
 $Definition['Label'] = 'เครื่องหมาย';
 $Definition['Language'] = 'ภาษา';
@@ -1226,10 +1226,12 @@ $Definition['New'] = 'ใหม่';
 $Definition['new'] = 'ใหม่';
 $Definition['New %s'] = '%s ใหม่';
 $Definition['New Announcement'] = 'ประกาศใหม่';
+$Definition['new announcements'] = 'ประกาศใหม่';
 $Definition['New answers on my question'] = 'คำตอบใหม่สำหรับคำถามของฉัน';
 $Definition['New Author'] = 'ผู้แต่งใหม่';
 $Definition['New badge requests'] = 'คำขอป้ายใหม่';
 $Definition['New badges'] = 'ป้ายใหม่';
+$Definition['new comments'] = 'ความคิดเห็นใหม่';
 $Definition['New comments on my activity feed posts'] = 'ความคิดเห็นใหม่บนโพสต์ฟีดกิจกรรมของฉัน';
 $Definition['New comments on my bookmarked posts'] = 'ความคิดเห็นใหม่ในโพสต์ที่คั่นหน้าของฉัน';
 $Definition['New comments on my posts'] = 'ความคิดเห็นใหม่ในโพสต์ของฉัน';
@@ -1243,6 +1245,7 @@ $Definition['New Discussion Topic'] = 'หัวข้อสนทนาให�
 $Definition['Newest'] = 'ใหม่ล่าสุด';
 $Definition['Newest Members'] = 'สมาชิกใหม่ล่าสุด';
 $Definition['New Event'] = 'กิจกรรมใหม่';
+$Definition['new events'] = 'กิจกรรมใหม่ ๆ';
 $Definition['New Folder'] = 'แฟ้มใหม่';
 $Definition['New follow-up to my answered questions'] = 'การติดตามใหม่สำหรับคำถามที่ตอบแล้วของฉัน';
 $Definition['New Group'] = 'กลุ่มใหม่';
@@ -1250,10 +1253,12 @@ $Definition['New Groups'] = 'กลุ่มใหม่';
 $Definition['New Icon'] = 'ไอคอนใหม่';
 $Definition['New Idea'] = 'ความคิดใหม่';
 $Definition['New Message'] = 'เขียนจดหมาย';
+$Definition['new or updated events'] = 'กิจกรรมใหม่หรืออัปเดต';
 $Definition['New Password'] = 'รหัสผ่านใหม่';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'รหัสผ่านใหม่ไม่ตรงกัน กรุณายืนยันรหัสผ่านใหม่ของคุณอีกครั้ง';
 $Definition['New Poll'] = 'แบบสำรวจใหม่';
 $Definition['New Post'] = 'โพสต์ใหม่';
+$Definition['new posts'] = 'กระทู้ใหม่';
 $Definition['New posts and comments'] = 'โพสต์ใหม่และความคิดเห็น';
 $Definition['New posts in groups I\'m a member of'] = 'โพสต์ใหม่ในกลุ่มที่ฉันเป็นสมาชิกอยู่';
 $Definition['New posts on my profile\'s activity feed'] = 'โพสต์ใหม่บนฟีดกิจกรรมของโปรไฟล์ของฉัน';
@@ -1302,6 +1307,7 @@ $Definition['Notification Settings Restored'] = 'คืนค่าการต�
 $Definition['Notifications Postmaster'] = 'Postmaster การแจ้งเตือน';
 $Definition['Notifictions'] = 'แจ้งเตือน';
 $Definition['Notify'] = 'แจ้งเตือน';
+$Definition['Notify me of <0/>'] = 'แจ้งเตือนฉันเกี่ยวกับ <0/>';
 $Definition['Notify me of new comment'] = 'แจ้งเตือนฉันเมื่อมีความคิดเห็นใหม่';
 $Definition['Notify me of new comments'] = 'แจ้งเตือนฉันเมื่อมีความคิดเห็นใหม่';
 $Definition['Notify me of new content'] = 'แจ้งเตือนฉันเมื่อมีเนื้อหาใหม่';
@@ -1325,6 +1331,7 @@ $Definition['Notify me when people write on my wall.'] = 'แจ้งเตื�
 $Definition['Notify me when there is event activity.'] = 'เตือนฉันเมื่อมีกิจกรรมเกิดขึ้น';
 $Definition['Notify me when there is group activity.'] = 'แจ้งให้ฉันทราบเมื่อมีกิจกรรมกลุ่ม';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'บอกฉันเมื่อสถานะเปลี่ยนแปลงตามความคิดที่ฉันลงคะแนนให้';
+$Definition['Notify of <0/>'] = 'แจ้งเตือน <0/>';
 $Definition['Notify of all new discussions.'] = 'แจ้งการสนทนาใหม่ทั้งหมด';
 $Definition['Notify of all new discussions by email.'] = 'แจ้งการสนทนาใหม่ทั้งหมดทางอีเมล';
 $Definition['Notify of all new posts.'] = 'แจ้งกระทู้ใหม่ทั้งหมด';
@@ -1866,19 +1873,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-
+   
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-
+   
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-
+   
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-
+   
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'ทดสอบ';
@@ -2014,6 +2021,7 @@ $Definition['Twitter'] = 'ทวิตเตอร์';
 $Definition['Twitter Connect'] = 'เชื่อมต่อ Twitter';
 $Definition['Twitter Settings'] = 'ตั้งค่า Twitter';
 $Definition['Type'] = 'Condition Type';
+$Definition['Type...'] = 'พิมพ์...';
 $Definition['Type or paste emails separated by commas.'] = 'พิมพ์หรือวางอีเมลโดยคั่นด้วยเครื่องหมายจุลภาค';
 $Definition['Type the text:'] = 'กรอกข้อความ:';
 $Definition['Type what you hear:'] = 'กรอกตามที่คุณได้ยิน:';
@@ -2231,6 +2239,7 @@ $Definition['when your answer to a question has been accepted'] = 'เมื่�
 $Definition['when your approved to join the group'] = 'เมื่อคุณได้รับการอนุมัติให้เข้าร่วมกลุ่ม';
 $Definition['when your group membership requests are approved'] = 'เมื่อคำขอเป็นสมาชิกกลุ่มของคุณได้รับการอนุมัติ';
 $Definition['when your ideas\' statuses change'] = 'เมื่อสถานะความคิดของคุณเปลี่ยนไป';
+$Definition['when your post has AI suggested answers'] = 'เมื่อโพสต์ของคุณมี AI แนะนำคำตอบ';
 $Definition['Where'] = 'ที่ไหน';
 $Definition['Where do you want to announce this discussion?'] = 'คุณต้องการที่จะประกาศกระทู้นี้ที่ไหน';
 $Definition['Who\'s Going'] = 'ใครจะไป';
@@ -2400,6 +2409,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'คุ�
 $Definition['You wrote:'] = 'คุณเขียนแล้ว:';
 $Definition['yyyy-mm-dd'] = 'dd-mm-yyyy';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} ได้แนะนำคำตอบ: ลองดูสิ';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} โพสต์ประกาศใน <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} เริ่มการสนทนาใหม่ <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} ประกาศใหม่ใน <strong>{GroupName}</strong>';

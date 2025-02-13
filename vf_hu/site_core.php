@@ -530,7 +530,6 @@ $Definition['Date'] = 'Dátum';
 $Definition['Date.DefaultDateTimeFormat'] = '%Y %B %e, %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%Y %B %e';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%Y %B';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dátum. \'mm/dd/yyyy\' formátumban.';
 $Definition['Date Added'] = 'Hozzáadva';
@@ -1045,6 +1044,7 @@ $Definition['Keep me signed in'] = 'Maradjon bejelentkezve';
 $Definition['Keep User Content'] = 'Felhasználói tartalom megőrzése';
 $Definition['Kilobyte'] = 'Kilobájt';
 $Definition['Knowledge Bases'] = 'Tudásbázisok';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Tudásbázisok, amelyek kizárhatók az AI-válaszokból';
 
 $Definition['Label'] = 'Felirat';
 $Definition['Language'] = 'Nyelv';
@@ -1226,10 +1226,12 @@ $Definition['New'] = 'Új';
 $Definition['new'] = 'új';
 $Definition['New %s'] = 'Új %s';
 $Definition['New Announcement'] = 'Új közlemény';
+$Definition['new announcements'] = 'új bejelentések';
 $Definition['New answers on my question'] = 'Új válaszok a kérdésemre';
 $Definition['New Author'] = 'Új szerző';
 $Definition['New badge requests'] = 'Új jelvénykérelmek';
 $Definition['New badges'] = 'Új jelvények';
+$Definition['new comments'] = 'új megjegyzések';
 $Definition['New comments on my activity feed posts'] = 'Új megjegyzések a tevékenységi hírcsatorna-bejegyzéseimhez';
 $Definition['New comments on my bookmarked posts'] = 'Új megjegyzések a könyvjelzővel ellátott bejegyzéseimhez';
 $Definition['New comments on my posts'] = 'Új hozzászólások a bejegyzéseimhez';
@@ -1243,6 +1245,7 @@ $Definition['New Discussion Topic'] = 'Új vitafórum téma';
 $Definition['Newest'] = 'Legújabb';
 $Definition['Newest Members'] = 'Legújabb tagok';
 $Definition['New Event'] = 'Új esemény';
+$Definition['new events'] = 'új események';
 $Definition['New Folder'] = 'Új mappa';
 $Definition['New follow-up to my answered questions'] = 'Új folytatás a megválaszolt kérdéseimhez';
 $Definition['New Group'] = 'Új csoport';
@@ -1250,10 +1253,12 @@ $Definition['New Groups'] = 'Új csoportok';
 $Definition['New Icon'] = 'Új Ikon';
 $Definition['New Idea'] = 'Új ötlet';
 $Definition['New Message'] = 'Új társalgás indítása';
+$Definition['new or updated events'] = 'új vagy frissített események';
 $Definition['New Password'] = 'Új jelszó';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Az új jelszó nem egyezik. Kérjük, erősítse meg új jelszavát.';
 $Definition['New Poll'] = 'Új szavazás';
 $Definition['New Post'] = 'Új hozzászólás';
+$Definition['new posts'] = 'új bejegyzések';
 $Definition['New posts and comments'] = 'Új bejegyzések és megjegyzések';
 $Definition['New posts in groups I\'m a member of'] = 'Új bejegyzések azokban a csoportokban, amelyeknek tagja vagyok';
 $Definition['New posts on my profile\'s activity feed'] = 'Új bejegyzések a profilom tevékenységi hírfolyamában';
@@ -1302,6 +1307,7 @@ $Definition['Notification Settings Restored'] = 'Az értesítési beállítások
 $Definition['Notifications Postmaster'] = 'Értesítések Postmaster';
 $Definition['Notifictions'] = 'Értesítések';
 $Definition['Notify'] = 'Értesítés';
+$Definition['Notify me of <0/>'] = 'Értesítés a következőről: <0/>';
 $Definition['Notify me of new comment'] = 'Értesítsen új megjegyzésről';
 $Definition['Notify me of new comments'] = 'Értesítsen az új megjegyzésekről';
 $Definition['Notify me of new content'] = 'Értesítsen az új tartalomról';
@@ -1325,6 +1331,7 @@ $Definition['Notify me when people write on my wall.'] = 'Értesítsenek ha vala
 $Definition['Notify me when there is event activity.'] = 'Értesítést kérek az eseményekkel kapcsolatos tevékenységről.';
 $Definition['Notify me when there is group activity.'] = 'Értesítést kérek a csoportokkal kapcsolatos tevékenységről.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Értesíts, ha egy olyan ötlet állapota változik, amelyra szavaztam.';
+$Definition['Notify of <0/>'] = 'Értesítés erről: <0/>';
 $Definition['Notify of all new discussions.'] = 'Értesítés minden új megbeszélésről.';
 $Definition['Notify of all new discussions by email.'] = 'Értesítsen minden új megbeszélésről e -mailben.';
 $Definition['Notify of all new posts.'] = 'Értesítés minden új bejegyzésről.';
@@ -1856,13 +1863,13 @@ $Definition['Terms'] = 'Feltételek';
 $Definition['TermsOfService'] = 'Szabályzat';
 $Definition['Terms of Service'] = 'Szabályzat';
 $Definition['TermsOfServiceText'] = '<p>Jelen szolgáltatás használatával elfogadod, hogy nem fogsz az oldalon tudatosan gyalázkodó, pontatlan, sértő, durva, utálkozó, zaklató, obszcén, profán, szexuális beállítottságú, fenyegető, mások magánéletét megsértő, vagy bármilyen más módon törvénybe ütköző hozzászólásokat közzétenni. Egyetértesz azzal, hogy jogvédett anyagot nem teszel közzé, kivéve, ha a jog a tiéd.</p>
-
+   
    <p>Az oldal üzemeltetői fenntartják a jogot, hogy felfedjék a személyazonosságod (vagy bármilyen információt, amit tudnak rólad) panasz vagy jogi eljárás esetén. Minden idelátogató IP cím rögzítésre kerül.</p>
-
+   
    <p>A kéretlen reklámozás, a körlevelek, a piramisjátékok és a kéregetés nem szívesen látott az oldalon.</p>
-
+   
    <p>Fenntartjuk a jogot, hogy okkal/ok nélkül bármilyen tartalmat eltávolítsunk. Fenntartjuk a jogot, hogy a tagságot okkal vagy ok nélkül megszüntessük.</p>
-
+   
    <p>Legalább 13 évesnek kell lenned, hogy ezt a szolgáltatást használhasd.</p>';
 $Definition['Test'] = 'Teszt';
 $Definition['Testing'] = 'Tesztelés';
@@ -1994,6 +2001,7 @@ $Definition['Try Again'] = 'Próbáld újra';
 $Definition['Turn ON'] = 'Bekapcsolás';
 $Definition['Twitter Settings'] = 'Twitter beállítások';
 $Definition['Type'] = 'Típus';
+$Definition['Type...'] = 'Írd be...';
 $Definition['Type or paste emails separated by commas.'] = 'Írja be vagy illessze be az e-maileket vesszővel elválasztva.';
 $Definition['Type the text:'] = 'Írja be a szöveget:';
 $Definition['Type what you hear:'] = 'Gépelje be, amit hall:';
@@ -2207,6 +2215,7 @@ $Definition['when your answer to a question has been accepted'] = 'amikor egy k�
 $Definition['when your approved to join the group'] = 'amikor jóváhagyta, hogy csatlakozzon a csoporthoz';
 $Definition['when your group membership requests are approved'] = 'amikor a csoporttagsági kérelmeit jóváhagyják';
 $Definition['when your ideas\' statuses change'] = 'amikor ötletei állapota megváltozik';
+$Definition['when your post has AI suggested answers'] = 'amikor a bejegyzésed mesterséges intelligencia által javasolt válaszokat tartalmaz';
 $Definition['Where'] = 'Hol';
 $Definition['Where do you want to announce this discussion?'] = 'Hol szeretnéd kiemelni ezt a beszélgetést?';
 $Definition['Who\'s Going'] = 'Ki megy';
@@ -2379,6 +2388,7 @@ $Definition['yyyy-mm-dd'] = 'éééé-hh-nn';
 
 $Definition['Zip'] = 'Tömörítés';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} válaszokat javasolt: nézze meg';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} közleményt tett közzé <strong>a {GroupName}</strong> csoportban';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} új vitát indított <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} új bejelentés a <strong>{GroupName}</strong> csoportban';

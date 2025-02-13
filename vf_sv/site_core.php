@@ -528,7 +528,6 @@ $Definition['Date'] = 'Datum';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Datum. Förväntar \'mm/dd/åååå\'.';
 $Definition['Date Added'] = 'Datum tillagt';
@@ -1037,6 +1036,7 @@ $Definition['Just you!'] = 'Bara du!';
 $Definition['Keep me signed in'] = 'Kom ihåg mig';
 $Definition['Keep User Content'] = 'Behåll användarens inlägg';
 $Definition['Knowledge Bases'] = 'Kunskapsbaser';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Kunskapsbaser att utesluta från AI-svar';
 
 $Definition['Label'] = 'Etikett';
 $Definition['Language'] = 'Språk';
@@ -1216,10 +1216,12 @@ $Definition['New'] = 'Ny';
 $Definition['new'] = 'Ny';
 $Definition['New %s'] = 'Ny %s';
 $Definition['New Announcement'] = 'Nytt anslag';
+$Definition['new announcements'] = 'nya meddelanden';
 $Definition['New answers on my question'] = 'Nya svar på min fråga';
 $Definition['New Author'] = 'Ny författare';
 $Definition['New badge requests'] = 'Nya märkesbegäranden';
 $Definition['New badges'] = 'Nya märken';
+$Definition['new comments'] = 'nya kommentarer';
 $Definition['New comments on my activity feed posts'] = 'Nya kommentarer på mina aktivitetsflödesinlägg';
 $Definition['New comments on my bookmarked posts'] = 'Nya kommentarer på mina bokmärkta inlägg';
 $Definition['New comments on my posts'] = 'Nya kommentarer på mina inlägg';
@@ -1233,6 +1235,7 @@ $Definition['New Discussion Topic'] = 'Nytt diskussionsämne';
 $Definition['Newest'] = 'Nyaste';
 $Definition['Newest Members'] = 'Nyaste medlemmarna';
 $Definition['New Event'] = 'Ny händelse';
+$Definition['new events'] = 'nya händelser';
 $Definition['New Folder'] = 'Ny mapp';
 $Definition['New follow-up to my answered questions'] = 'Ny uppföljning på mina besvarade frågor';
 $Definition['New Group'] = 'Ny grupp';
@@ -1240,10 +1243,12 @@ $Definition['New Groups'] = 'Nya grupper';
 $Definition['New Icon'] = 'Ny Ikon';
 $Definition['New Idea'] = 'Ny idé';
 $Definition['New Message'] = 'Starta en ny konversation';
+$Definition['new or updated events'] = 'nya eller uppdaterade händelser';
 $Definition['New Password'] = 'Nytt lösenord';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Det nya lösenordet matchar inte. Bekräfta ditt nya lösenord igen.';
 $Definition['New Poll'] = 'Ny omröstning';
 $Definition['New Post'] = 'Nytt inlägg';
+$Definition['new posts'] = 'nya inlägg';
 $Definition['New posts and comments'] = 'Nya inlägg och kommentarer';
 $Definition['New posts in groups I\'m a member of'] = 'Nya inlägg i grupper jag är medlem i';
 $Definition['New posts on my profile\'s activity feed'] = 'Nya inlägg på min profils aktivitetsflöde';
@@ -1292,6 +1297,7 @@ $Definition['Notification Settings Restored'] = 'Aviseringsinställningar åters
 $Definition['Notifications Postmaster'] = 'Meddelanden Postmaster';
 $Definition['Notifictions'] = 'Notiser';
 $Definition['Notify'] = 'Meddela';
+$Definition['Notify me of <0/>'] = 'Meddela mig om <0/>';
 $Definition['Notify me of new comment'] = 'Meddela mig om ny kommentar';
 $Definition['Notify me of new comments'] = 'Meddela mig om nya kommentarer';
 $Definition['Notify me of new content'] = 'Meddela mig om nytt innehåll';
@@ -1315,6 +1321,7 @@ $Definition['Notify me when people write on my wall.'] = 'Skicka notis när någ
 $Definition['Notify me when there is event activity.'] = 'Meddela mig när en aktivitet läggs till. ';
 $Definition['Notify me when there is group activity.'] = 'Meddela mig när det är aktivitet inom gruppen. ';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Meddela mig när statusen ändras för en idé jag röstat på.';
+$Definition['Notify of <0/>'] = 'Meddela <0/>';
 $Definition['Notify of all new discussions.'] = 'Meddela alla nya diskussioner.';
 $Definition['Notify of all new discussions by email.'] = 'Meddela alla nya diskussioner via e -post.';
 $Definition['Notify of all new posts.'] = 'Meddela alla nya inlägg.';
@@ -1843,19 +1850,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-
+   
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-
+   
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-
+   
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-
+   
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Testing'] = 'Testar';
@@ -1987,6 +1994,7 @@ $Definition['Turn ON'] = 'Knäpp PÅ';
 $Definition['Twitter Connect'] = 'Koppla till Twitter';
 $Definition['Twitter Settings'] = 'Inställningar för Twitter';
 $Definition['Type'] = 'Typ';
+$Definition['Type...'] = 'Typ...';
 $Definition['Type or paste emails separated by commas.'] = 'Skriv eller klistra in e-postmeddelanden åtskilda av kommatecken.';
 $Definition['Type the text:'] = 'Skriv texten:';
 $Definition['Type what you hear:'] = 'Skriv vad du hör:';
@@ -2201,6 +2209,7 @@ $Definition['when your answer to a question has been accepted'] = 'när ditt sva
 $Definition['when your approved to join the group'] = 'när du godkände att gå med i gruppen';
 $Definition['when your group membership requests are approved'] = 'när dina begäranden om gruppmedlemskap godkänns';
 $Definition['when your ideas\' statuses change'] = 'när dina idéers status ändras';
+$Definition['when your post has AI suggested answers'] = 'när ditt inlägg har AI-föreslagna svar';
 $Definition['Where'] = 'Var';
 $Definition['Where do you want to announce this discussion?'] = 'Var vill du anslå ge den här diskussionen?';
 $Definition['Who\'s Going'] = 'Vem går';
@@ -2370,6 +2379,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'Du komm
 $Definition['You wrote:'] = 'Du skrev:';
 $Definition['yyyy-mm-dd'] = 'åååå-mm-dd';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} har föreslagit svar: kolla in det';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} publicerade ett meddelande i <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} startade en ny diskussion <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} nya meddelanden i <strong>{GroupName}</strong>';

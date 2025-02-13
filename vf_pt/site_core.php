@@ -527,7 +527,6 @@ $Definition['Date'] = 'Data';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Esperada a  \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'Data Adicionada';
@@ -1039,6 +1038,7 @@ $Definition['Just you!'] = 'Somente você!';
 $Definition['Keep me signed in'] = 'Mantenha-me ligado';
 $Definition['Keep User Content'] = 'Manter o Conteúdo do Usuário';
 $Definition['Knowledge Bases'] = 'Bases de Conhecimentos';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Bases de conhecimento a serem excluídas das respostas de IA';
 
 $Definition['Label'] = 'Rótulo';
 $Definition['Language'] = 'Linguagem';
@@ -1219,10 +1219,12 @@ $Definition['New'] = 'Novo';
 $Definition['new'] = 'novo';
 $Definition['New %s'] = 'Novo %s';
 $Definition['New Announcement'] = 'Novo anúncio';
+$Definition['new announcements'] = 'novos anúncios';
 $Definition['New answers on my question'] = 'Novas respostas à minha pergunta';
 $Definition['New Author'] = 'Novo autor';
 $Definition['New badge requests'] = 'Novas solicitações de crachá';
 $Definition['New badges'] = 'Novos emblemas';
+$Definition['new comments'] = 'novos comentários';
 $Definition['New comments on my activity feed posts'] = 'Novos comentários nas postagens do meu feed de atividades';
 $Definition['New comments on my bookmarked posts'] = 'Novos comentários em minhas postagens marcadas';
 $Definition['New comments on my posts'] = 'Novos comentários em minhas postagens';
@@ -1236,6 +1238,7 @@ $Definition['New Discussion Topic'] = 'Novo Tópico de Discussão';
 $Definition['Newest'] = 'O mais novo';
 $Definition['Newest Members'] = 'Membros mais recentes';
 $Definition['New Event'] = 'Novo Evento';
+$Definition['new events'] = 'novos eventos';
 $Definition['New Folder'] = 'Nova Pasta';
 $Definition['New follow-up to my answered questions'] = 'Novo acompanhamento para minhas perguntas respondidas';
 $Definition['New Group'] = 'Novo Grupo';
@@ -1243,10 +1246,12 @@ $Definition['New Groups'] = 'Novos grupos';
 $Definition['New Icon'] = 'Novo Ícone';
 $Definition['New Idea'] = 'Nova Ideia';
 $Definition['New Message'] = 'Nova Conversa';
+$Definition['new or updated events'] = 'eventos novos ou atualizados';
 $Definition['New Password'] = 'Nova Senha';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'A nova senha não corresponde. Por favor, reconfirme sua nova senha.';
 $Definition['New Poll'] = 'Nova Enquete';
 $Definition['New Post'] = 'Nova Publicação';
+$Definition['new posts'] = 'novas postagens';
 $Definition['New posts and comments'] = 'Novas postagens e comentários';
 $Definition['New posts in groups I\'m a member of'] = 'Novas postagens em grupos dos quais sou membro';
 $Definition['New posts on my profile\'s activity feed'] = 'Novas postagens no feed de atividades do meu perfil';
@@ -1295,6 +1300,7 @@ $Definition['Notification Settings Restored'] = 'Configurações de notificaçã
 $Definition['Notifications Postmaster'] = 'Postmaster de notificações';
 $Definition['Notifictions'] = 'Notificações';
 $Definition['Notify'] = 'Notificar';
+$Definition['Notify me of <0/>'] = 'Notifique-me sobre <0/>';
 $Definition['Notify me of new comment'] = 'Avise-me sobre novo comentário';
 $Definition['Notify me of new comments'] = 'Notifique-me sobre novos comentários';
 $Definition['Notify me of new content'] = 'Notifique-me sobre novos conteúdos';
@@ -1318,6 +1324,7 @@ $Definition['Notify me when people write on my wall.'] = 'Notifique-me quando pe
 $Definition['Notify me when there is event activity.'] = 'Notifique-me quando houver atividade de eventos.';
 $Definition['Notify me when there is group activity.'] = 'Notifique-me quando houver atividade de grupo.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Notificar-me quando o estado muda numa ideia que eu votei.';
+$Definition['Notify of <0/>'] = 'Notificar de <0/>';
 $Definition['Notify of all new discussions.'] = 'Notifique sobre todas as novas discussões.';
 $Definition['Notify of all new discussions by email.'] = 'Notificar de todas as novas discussões por e-mail.';
 $Definition['Notify of all new posts.'] = 'Notificar sobre todas as novas postagens.';
@@ -1844,21 +1851,21 @@ $Definition['Terms'] = 'Termos';
 $Definition['TermsOfService'] = 'Termos de Serviço';
 $Definition['Terms of Service'] = 'Termos de Serviço';
 $Definition['TermsOfServiceText'] = '
-   <p>Você concorda, através do uso deste serviço, que não irá usar esta
+   <p>Você concorda, através do uso deste serviço, que não irá usar esta 
    comunidade para postar material falso e/ou difamatório,
    inexato, abusivo, vulgar, odioso, assedioso, obceno, profano, sexualmente
    orientado, ameaçador, invasido de privacidade pessoal, ou que viole
    qualquer lei. Você concorda em não postar nenhum material que fira direitos autorais.</p>
-
+   
    <p>Nós, nesta comunidade, também nos reservamos o direito de revelar sua identidade (ou
   qualquer outra informação de possuímos de você) caso ocorra um evento ilegal
   de postagens provenientes de você. Nós registramos todos os endereços que acessam este site.</p>
-
-   <p>Por favor, propagandas, correntes de mensagens, esquemas de pirâmide,
+   
+   <p>Por favor, propagandas, correntes de mensagens, esquemas de pirâmide, 
    entre outros, são inapropriadas nesta comunidade.</p>
-
+   
    <p>Nós nos reservamos no direito de remover qualquer conteúdo por qualquer motivo, ou mesmo sem motivos. Nos reservamos o direito a deletar qualquer inscrição de usuário, com ou sem motivos.</p>
-
+   
    <p>Você precisa ter no mínimo 13 anos para usar este serviço.</p>
 ';
 $Definition['Test'] = 'Teste';
@@ -1992,6 +1999,7 @@ $Definition['Try Again'] = 'Tente Novamente';
 $Definition['Turn ON'] = 'Ligar';
 $Definition['Twitter Settings'] = 'Configurações de Twitter';
 $Definition['Type'] = 'Tipo';
+$Definition['Type...'] = 'Tipo...';
 $Definition['Type or paste emails separated by commas.'] = 'Digite ou cole e-mails separados por vírgulas.';
 $Definition['Type the text:'] = 'Digite o texto:';
 $Definition['Type what you hear:'] = 'Digite o que você escuta:';
@@ -2207,6 +2215,7 @@ $Definition['when your answer to a question has been accepted'] = 'quando sua re
 $Definition['when your approved to join the group'] = 'quando você for aprovado para entrar no grupo';
 $Definition['when your group membership requests are approved'] = 'quando suas solicitações de associação de grupo forem aprovadas';
 $Definition['when your ideas\' statuses change'] = 'quando o status das suas ideias mudar';
+$Definition['when your post has AI suggested answers'] = 'quando sua postagem tem respostas sugeridas por IA';
 $Definition['Where'] = 'Onde';
 $Definition['Where do you want to announce this discussion?'] = 'Onde deseja anunciar este tópico?';
 $Definition['Who\'s Going'] = 'Quem vai';
@@ -2376,6 +2385,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'Você r
 $Definition['You wrote:'] = 'Você escreveu:';
 $Definition['yyyy-mm-dd'] = 'aaaa-mm-dd';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} sugeriu respostas: confira';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} postou um anúncio em <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} iniciou uma nova discussão <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} novos anúncios em <strong>{GroupName}</strong>';

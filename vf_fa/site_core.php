@@ -531,7 +531,6 @@ $Definition['Date'] = 'تاريخ';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'تاريخ. انتظار \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'تاريخ اضافه شد';
@@ -1044,6 +1043,7 @@ $Definition['Keep me signed in'] = 'مرا بخاطر بسپار';
 $Definition['Keep User Content'] = 'نگه داشتن محتواي كاربر';
 $Definition['Kilobyte'] = 'کیلوبایت';
 $Definition['Knowledge Bases'] = 'پایگاه های دانش';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'پایگاه های دانش برای حذف از پاسخ های هوش مصنوعی';
 
 $Definition['Label'] = 'برچسب';
 $Definition['Language'] = 'زبان';
@@ -1228,10 +1228,12 @@ $Definition['New'] = 'جدید';
 $Definition['new'] = 'جديد';
 $Definition['New %s'] = 'جديد %s';
 $Definition['New Announcement'] = 'اطلاعیه جدید';
+$Definition['new announcements'] = 'اطلاعیه های جدید';
 $Definition['New answers on my question'] = 'پاسخ های جدید در مورد سوال من';
 $Definition['New Author'] = 'نویسنده جدید';
 $Definition['New badge requests'] = 'درخواست‌های نشان جدید';
 $Definition['New badges'] = 'نشان های جدید';
+$Definition['new comments'] = 'نظرات جدید';
 $Definition['New comments on my activity feed posts'] = 'نظرات جدید در مورد پست های فید فعالیت من';
 $Definition['New comments on my bookmarked posts'] = 'نظرات جدید در مورد پست های نشانک شده من';
 $Definition['New comments on my posts'] = 'نظرات جدید در مورد پست های من';
@@ -1245,6 +1247,7 @@ $Definition['New Discussion Topic'] = 'مبحث جدید بحث';
 $Definition['Newest'] = 'جدیدترین';
 $Definition['Newest Members'] = 'جدیدترین اعضا';
 $Definition['New Event'] = 'رويداد جديد';
+$Definition['new events'] = 'رویدادهای جدید';
 $Definition['New Folder'] = 'پوشه جدید';
 $Definition['New follow-up to my answered questions'] = 'پیگیری جدید به سوالات پاسخ داده شده من';
 $Definition['New Group'] = 'گروه جديد';
@@ -1252,10 +1255,12 @@ $Definition['New Groups'] = 'گروه جديد';
 $Definition['New Icon'] = 'آيكن جديد';
 $Definition['New Idea'] = 'ايده جديد';
 $Definition['New Message'] = 'پيام جديد';
+$Definition['new or updated events'] = 'رویدادهای جدید یا به روز شده';
 $Definition['New Password'] = 'كلمه عبور جديد';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'رمز عبور جدید مطابقت ندارد. لطفاً رمز عبور جدید خود را مجدداً تأیید کنید.';
 $Definition['New Poll'] = 'نظرسنجي جديد';
 $Definition['New Post'] = 'پست جدید';
+$Definition['new posts'] = 'پست های جدید';
 $Definition['New posts and comments'] = 'پست ها و نظرات جدید';
 $Definition['New posts in groups I\'m a member of'] = 'پست های جدید در گروه هایی که من در آن عضو هستم';
 $Definition['New posts on my profile\'s activity feed'] = 'پست های جدید در فید فعالیت نمایه من';
@@ -1304,6 +1309,7 @@ $Definition['Notification Settings Restored'] = 'تنظیمات اعلان با�
 $Definition['Notifications Postmaster'] = 'اعلان ها مدیر پست';
 $Definition['Notifictions'] = 'اطلاع رساني';
 $Definition['Notify'] = 'اطلاع رساني';
+$Definition['Notify me of <0/>'] = '<0/> را به من اطلاع دهید';
 $Definition['Notify me of new comment'] = 'نظر جدید را به من اطلاع دهید';
 $Definition['Notify me of new comments'] = 'مرا از نظرات جدید آگاه کن';
 $Definition['Notify me of new content'] = 'من را از مطالب جدید مطلع کنید';
@@ -1327,6 +1333,7 @@ $Definition['Notify me when people write on my wall.'] = 'هنگامي كه اش
 $Definition['Notify me when there is event activity.'] = 'هنگامي كه فعاليت رويدادي وجود داشته باشد من را باخبر كن.';
 $Definition['Notify me when there is group activity.'] = 'هنگامي كه فعاليت گروه وجود داشته باشد من را باخبر كن.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'هنگامي كه وضعيت ايده اي كه من در آن راي داده ام تغيير كند من را باخبر كن.';
+$Definition['Notify of <0/>'] = 'اطلاع از <0/>';
 $Definition['Notify of all new discussions.'] = 'اطلاع از همه بحث های جدید';
 $Definition['Notify of all new discussions by email.'] = 'اطلاع از همه بحث های جدید از طریق ایمیل.';
 $Definition['Notify of all new posts.'] = 'از همه پست های جدید مطلع شوید.';
@@ -1864,7 +1871,7 @@ $Definition['TermsOfServiceText'] = 'شما می پذیرید که : از درج
 هرگونه خرید و فروش یا امور تبلیغاتی در فضای سایت ممنوع بوده و جهت امور تبلیغاتی باید با مدیریت سایت هماهنگی شود.
 تيم مديريت حق دارد درصورت لزوم هرگونه اطلاعاتي كه درمورد شما دارد را در اختيار مراجع قانوني كشوري قرار دهد.
 ما تمامي آدرس هاي پروتوكل اينترنتي كه به اين سايت دسترسي داشته باشد را ذخيره ميكنيم .
-شما می پذیرید که : - تیم مدیریت توانایی و حق پاک کردن، ویرایش و یا مسدود کردن هر حساب کاربری در هر زمان که مورد نیاز باشد با دليل و يا حتي بدون هيچ دليلي را دارد. - تیم مدیریت در صورت مشاهده‌ هرزنامه، حق اقدام به مسدود یا حذف کردن ِ حساب ِ اسپمر را دارد. - تیم مدیریت در جهت حمایت از قانون کپی رایت، پس از بررسی شکایات و ادعاها، ارسالهای غیر قانونی را حذف میکند.
+شما می پذیرید که : - تیم مدیریت توانایی و حق پاک کردن، ویرایش و یا مسدود کردن هر حساب کاربری در هر زمان که مورد نیاز باشد با دليل و يا حتي بدون هيچ دليلي را دارد. - تیم مدیریت در صورت مشاهده‌ هرزنامه، حق اقدام به مسدود یا حذف کردن ِ حساب ِ اسپمر را دارد. - تیم مدیریت در جهت حمایت از قانون کپی رایت، پس از بررسی شکایات و ادعاها، ارسالهای غیر قانونی را حذف میکند. 
 براي استفاده از اين خدمات حداقل شما بايد 13 سال سن داشته باشيد
 ';
 $Definition['Test'] = 'آزمايش';
@@ -1999,6 +2006,7 @@ $Definition['Turn ON'] = 'روشن كردن';
 $Definition['Twitter Connect'] = 'اتصال به توئیتر';
 $Definition['Twitter Settings'] = 'تنظيمات Twitter';
 $Definition['Type'] = 'نوع';
+$Definition['Type...'] = 'نوع...';
 $Definition['Type or paste emails separated by commas.'] = 'ایمیل های جدا شده با ویرگول را تایپ یا جای گذاری کنید.';
 $Definition['Type the text:'] = 'تايپ كردن متن';
 $Definition['Type what you hear:'] = 'تايپ كردن چيزي كه ميشنويد :';
@@ -2214,6 +2222,7 @@ $Definition['when your answer to a question has been accepted'] = 'زمانی ک
 $Definition['when your approved to join the group'] = 'زمانی که برای پیوستن به گروه موافقت کردید';
 $Definition['when your group membership requests are approved'] = 'زمانی که درخواست های عضویت در گروه شما تایید شد';
 $Definition['when your ideas\' statuses change'] = 'هنگامی که وضعیت ایده های شما تغییر می کند';
+$Definition['when your post has AI suggested answers'] = 'زمانی که پست شما دارای پاسخ های پیشنهادی هوش مصنوعی است';
 $Definition['Where'] = 'كجا';
 $Definition['Where do you want to announce this discussion?'] = 'این گفتگو در کجا برجسته باشد؟';
 $Definition['Who\'s Going'] = 'چه کسی می رود';
@@ -2386,6 +2395,7 @@ $Definition['yyyy-mm-dd'] = 'yyy-mm-dd';
 
 $Definition['Zip'] = 'زیپ';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} پاسخ هایی را پیشنهاد کرده است: آن را بررسی کنید';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} یک اطلاعیه در <strong>{GroupName}</strong> پست کرد';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} بحث جدیدی را آغاز کرد <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} اعلامیه جدید در <strong>{GroupName}</strong>';

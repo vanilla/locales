@@ -523,7 +523,6 @@ $Definition['Date'] = 'Applied On';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. S\'espera que "mm / dd / aaaa".';
 $Definition['Date Added'] = 'Data Afegida';
@@ -657,7 +656,7 @@ $Definition['EmailMembershipApproved'] = 'Hola %1$s,
 Has sido aprobado como miembro. Conéctate ahora con el siguiente enlace:
 
   %2$s
-
+  
 ¡Qué tengas un buen día!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1026,6 +1025,7 @@ $Definition['Just you!'] = 'Només tu!';
 $Definition['Keep me signed in'] = 'Mantent-me connectat';
 $Definition['Keep User Content'] = 'UserKeep';
 $Definition['Knowledge Bases'] = 'Bases de coneixement';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Bases de coneixement per excloure de les respostes d\'IA';
 
 $Definition['Label'] = 'Etiqueta';
 $Definition['Language'] = 'Llenguatge';
@@ -1208,10 +1208,12 @@ $Definition['New'] = 'Nou';
 $Definition['new'] = 'nou';
 $Definition['New %s'] = 'Nou %s';
 $Definition['New Announcement'] = 'Nou Anunci';
+$Definition['new announcements'] = 'nous anuncis';
 $Definition['New answers on my question'] = 'Noves respostes a la meva pregunta';
 $Definition['New Author'] = 'Nou autor';
 $Definition['New badge requests'] = 'Noves sol·licituds de distintiu';
 $Definition['New badges'] = 'Noves insígnies';
+$Definition['new comments'] = 'nous comentaris';
 $Definition['New comments on my activity feed posts'] = 'Comentaris nous a les publicacions del meu feed d\'activitats';
 $Definition['New comments on my bookmarked posts'] = 'Nous comentaris a les meves publicacions marcades com a favorits';
 $Definition['New comments on my posts'] = 'Nous comentaris a les meves publicacions';
@@ -1225,6 +1227,7 @@ $Definition['New Discussion Topic'] = 'Nou tema de discussió';
 $Definition['Newest'] = 'El més nou';
 $Definition['Newest Members'] = 'Membres nous';
 $Definition['New Event'] = 'Nou esdeveniment';
+$Definition['new events'] = 'nous esdeveniments';
 $Definition['New Folder'] = 'Carpeta nova';
 $Definition['New follow-up to my answered questions'] = 'Nou seguiment de les meves preguntes contestades';
 $Definition['New Group'] = 'Nou grup';
@@ -1232,10 +1235,12 @@ $Definition['New Groups'] = 'Nous grups';
 $Definition['New Icon'] = 'Icona nova';
 $Definition['New Idea'] = 'Nova idea';
 $Definition['New Message'] = 'Iniciar una Nova Conversa';
+$Definition['new or updated events'] = 'esdeveniments nous o actualitzats';
 $Definition['New Password'] = 'Nova contrasenya';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'La contrasenya nova no coincideix. Torneu a confirmar la vostra nova contrasenya.';
 $Definition['New Poll'] = 'Nova enquesta';
 $Definition['New Post'] = 'Missatge nou';
+$Definition['new posts'] = 'noves publicacions';
 $Definition['New posts and comments'] = 'Noves publicacions i comentaris';
 $Definition['New posts in groups I\'m a member of'] = 'Noves publicacions als grups dels quals sóc membre';
 $Definition['New posts on my profile\'s activity feed'] = 'Noves publicacions al feed d\'activitats del meu perfil';
@@ -1282,6 +1287,7 @@ $Definition['Notification Settings Restored'] = 'S\'ha restaurat la configuraci�
 $Definition['Notifications Postmaster'] = 'Notificacions Postmaster';
 $Definition['Notifictions'] = 'Notificacions';
 $Definition['Notify'] = 'Notificar-ho';
+$Definition['Notify me of <0/>'] = 'Aviseu-me de <0/>';
 $Definition['Notify me of new comment'] = 'Aviseu-me del nou comentari';
 $Definition['Notify me of new comments'] = 'Aviseu-me dels nous comentaris';
 $Definition['Notify me of new content'] = 'Aviseu-me de contingut nou';
@@ -1305,6 +1311,7 @@ $Definition['Notify me when people write on my wall.'] = 'Notifica\'m quan la ge
 $Definition['Notify me when there is event activity.'] = 'Notifiqueu-me quan hi hagi activitat d’esdeveniments.';
 $Definition['Notify me when there is group activity.'] = 'Aviseu-me quan hi hagi una activitat grupal.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Notifiqueu-me quan canvia d’estat una idea sobre la qual he votat.';
+$Definition['Notify of <0/>'] = 'Notificació de <0/>';
 $Definition['Notify of all new discussions.'] = 'Notifiqueu tots els debats nous.';
 $Definition['Notify of all new discussions by email.'] = 'Notifiqueu tots els debats nous per correu electrònic.';
 $Definition['Notify of all new posts.'] = 'Notifiqueu totes les publicacions noves.';
@@ -1832,19 +1839,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-
+   
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-
+   
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-
+   
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-
+   
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Testing'] = 'Prova';
@@ -1976,6 +1983,7 @@ $Definition['Turn ON'] = 'Encendre';
 $Definition['Twitter Connect'] = 'Connecta a Twitter';
 $Definition['Twitter Settings'] = 'Configuració de Twitter';
 $Definition['Type'] = 'Tipo';
+$Definition['Type...'] = 'Tipus...';
 $Definition['Type or paste emails separated by commas.'] = 'Escriviu o enganxeu correus electrònics separats per comes.';
 $Definition['Type the text:'] = 'Escriviu el text:';
 $Definition['Type what you hear:'] = 'Escriviu el que escolteu:';
@@ -2191,6 +2199,7 @@ $Definition['when your answer to a question has been accepted'] = 'quan la teva 
 $Definition['when your approved to join the group'] = 'quan hagis aprovat unir-te al grup';
 $Definition['when your group membership requests are approved'] = 'quan s\'aproven les vostres sol·licituds de pertinença al grup';
 $Definition['when your ideas\' statuses change'] = 'quan canvia l\'estat de les teves idees';
+$Definition['when your post has AI suggested answers'] = 'quan la teva publicació tingui respostes suggerides per IA';
 $Definition['Where'] = 'On';
 $Definition['Where do you want to announce this discussion?'] = 'On voleu anunciar aquesta discussió?';
 $Definition['Who\'s Going'] = 'Qui va';
@@ -2360,6 +2369,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'Rebràs
 $Definition['You wrote:'] = 'Vas escriure:';
 $Definition['yyyy-mm-dd'] = 'aaaa-mm-dd';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} ha suggerit respostes: comproveu-ho';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} ha publicat un anunci a <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} va iniciar una nova discussió <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} anuncis nous a <strong>{GroupName}</strong>';

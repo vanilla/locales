@@ -532,7 +532,6 @@ $Definition['Date'] = 'תאריך';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'תאריך. ';
 $Definition['Date Added'] = 'תאריך הוסף';
@@ -652,7 +651,7 @@ $Definition['Eighth Anniversary'] = 'יום השנה השמיני';
 $Definition['Email'] = 'דוא"ל';
 $Definition['Email/Username'] = 'דוא"ל / שם משתמש';
 $Definition['EmailConfirmEmail'] = '
-
+ 
 {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['Email Digest Preferences Updated'] = 'העדפות תקציר אימייל עודכנו';
 $Definition['EmailFooter'] = 'שיהיה לך יום נהדר!';
@@ -666,7 +665,7 @@ $Definition['EmailInvitation'] = 'שלום! ⏎
 $Definition['Email Language'] = 'שפת דוא"ל';
 $Definition['EmailMembershipApproved'] = 'שלום לך %1$s
 
-אתה אושרו לחברות. היכנס עכשיו בקישור הבא:
+אתה אושרו לחברות. היכנס עכשיו בקישור הבא: 
 
 %2$s';
 $Definition['EmailNotification'] = '%1$s
@@ -677,10 +676,10 @@ $Definition['EmailNotification'] = '%1$s
 יום נפלא!';
 $Definition['Email Notifications'] = 'דואר אלקטרוני והודעות ';
 $Definition['Email Or Username'] = 'דוא"ל או שם משתמש';
-$Definition['EmailPassword'] = '%2$s יש לאפס את הסיסמה שלך ב %3$s . אישורי הכניסה שלך נמצאים כעת:
+$Definition['EmailPassword'] = '%2$s יש לאפס את הסיסמה שלך ב %3$s . אישורי הכניסה שלך נמצאים כעת: 
 
-   דוא"ל: %6$s
-   סיסמה:%5$s
+   דוא"ל: %6$s 
+   סיסמה:%5$s 
    כתובת:%4$s';
 $Definition['Emails'] = 'דוא&"ל';
 $Definition['Email sent from the application will be addressed from the following name and address'] = 'מייל נשלח מיישום יטופלו משם את הכתובת הבאה ו ';
@@ -1054,6 +1053,7 @@ $Definition['Keep me signed in'] = 'שמור אותי מחובר';
 $Definition['Keep User Content'] = 'שמור את תוכן המשתמש';
 $Definition['Kilobyte'] = 'קילובייט';
 $Definition['Knowledge Bases'] = 'מאגרי ידע';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'בסיסי ידע להחריג מתשובות AI';
 
 $Definition['Label'] = 'תווית';
 $Definition['Language'] = 'שפה';
@@ -1239,10 +1239,12 @@ $Definition['new'] = 'חדש';
 $Definition['New %s'] = 'חדש %s
 ';
 $Definition['New Announcement'] = 'הכרזה חדשה';
+$Definition['new announcements'] = 'הכרזות חדשות';
 $Definition['New answers on my question'] = 'תשובות חדשות לשאלתי';
 $Definition['New Author'] = 'סופר חדש';
 $Definition['New badge requests'] = 'בקשות תג חדשות';
 $Definition['New badges'] = 'תגים חדשים';
+$Definition['new comments'] = 'הערות חדשות';
 $Definition['New comments on my activity feed posts'] = 'הערות חדשות לפוסטים שלי בפיד הפעילות';
 $Definition['New comments on my bookmarked posts'] = 'הערות חדשות על הפוסטים שלי שסימנו';
 $Definition['New comments on my posts'] = 'תגובות חדשות לפוסטים שלי';
@@ -1256,6 +1258,7 @@ $Definition['New Discussion Topic'] = 'נושא לדיון חדש';
 $Definition['Newest'] = 'החדש ביותר';
 $Definition['Newest Members'] = 'החברים החדשים ביותר';
 $Definition['New Event'] = 'אירוע חדש';
+$Definition['new events'] = 'אירועים חדשים';
 $Definition['New Folder'] = 'תיקייה חדשה';
 $Definition['New follow-up to my answered questions'] = 'המשך חדש לשאלות שהשיבו לי';
 $Definition['New Group'] = 'קבוצה חדשה';
@@ -1263,10 +1266,12 @@ $Definition['New Groups'] = 'קבוצות חדשות';
 $Definition['New Icon'] = 'סמל חדש';
 $Definition['New Idea'] = 'רעיון חדש';
 $Definition['New Message'] = 'הודעה חדשה';
+$Definition['new or updated events'] = 'אירועים חדשים או מעודכנים';
 $Definition['New Password'] = 'סיסמה חדשה';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'הסיסמה החדשה לא תואמת. אנא אשר מחדש את הסיסמה החדשה שלך.';
 $Definition['New Poll'] = 'סקר חדש';
 $Definition['New Post'] = 'פוסט חדש';
+$Definition['new posts'] = 'פוסטים חדשים';
 $Definition['New posts and comments'] = 'פוסטים ותגובות חדשות';
 $Definition['New posts in groups I\'m a member of'] = 'פוסטים חדשים בקבוצות בהן אני חבר';
 $Definition['New posts on my profile\'s activity feed'] = 'פוסטים חדשים בפיד הפעילות של הפרופיל שלי';
@@ -1315,6 +1320,7 @@ $Definition['Notification Settings Restored'] = 'הגדרות ההתראה שו�
 $Definition['Notifications Postmaster'] = 'הודעות מנהל הדואר';
 $Definition['Notifictions'] = 'הודעות';
 $Definition['Notify'] = 'התראה';
+$Definition['Notify me of <0/>'] = 'הודע לי על <0/>';
 $Definition['Notify me of new comment'] = 'הודע לי על תגובה חדשה';
 $Definition['Notify me of new comments'] = 'הודע לי על הערות חדשות';
 $Definition['Notify me of new content'] = 'הודע לי על תוכן חדש';
@@ -1338,6 +1344,7 @@ $Definition['Notify me when people write on my wall.'] = 'התראה אותי כ
 $Definition['Notify me when there is event activity.'] = 'עדכן אותי כאשר יש אירוע פעיל';
 $Definition['Notify me when there is group activity.'] = 'הודע לי כאשר ישנה פעילות בקבוצה';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'הודע לי כאשר מצב רעיון שהצבעתי עליו משתנה ';
+$Definition['Notify of <0/>'] = 'הודע על <0/>';
 $Definition['Notify of all new discussions.'] = 'הודע על כל הדיונים החדשים.';
 $Definition['Notify of all new discussions by email.'] = 'הודע על כל הדיונים החדשים בדוא"ל.';
 $Definition['Notify of all new posts.'] = 'הודע על כל הפוסטים החדשים.';
@@ -1418,10 +1425,10 @@ $Definition['Password changed successfully.'] = 'סיסמה שונתה בהצל�
 $Definition['Password Contains Username'] = 'מכיל שם משתמש';
 $Definition['Password Good'] = 'טוב';
 $Definition['Password Ok'] = 'בסדר';
-$Definition['PasswordRequest'] = 'מישהו ביקש לאפס את סיסמתךב%2$s s. בכדי לאפס את סיסמתך,לחץ על הקישור הבא:
+$Definition['PasswordRequest'] = 'מישהו ביקש לאפס את סיסמתךב%2$s s. בכדי לאפס את סיסמתך,לחץ על הקישור הבא: 
 
 
-%3$s
+%3$s 
 
 
 אם לא ביקשת לאפס את סיסמתך, התעלם מדוא"ל זה.';
@@ -1881,19 +1888,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-
+   
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-
+   
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-
+   
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-
+   
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'בדיקה';
@@ -1928,7 +1935,7 @@ $Definition['There\'s already a %s with the name %s.'] = 'יש כבר %1$s עם 
 $Definition['There aren\'t any groups yet.'] = 'עדיין לא קיימים קבוצות';
 $Definition['There are no tags in the system yet.'] = 'אין עדיין תגים במערכת.';
 $Definition['The reCAPTCHA value was not entered correctly. Please try again.'] = 'ערך ה reCAPTCHA לא הוזן נכון. אנא נסה שוב.';
-$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'ססמת ה-CAPTCHA שהוכנסה פעם שניה לא הושלמה כראוי.
+$Definition['The reCAPTCHA was not completed correctly. Please try again.'] = 'ססמת ה-CAPTCHA שהוכנסה פעם שניה לא הושלמה כראוי. 
 אנא נסה שנית';
 $Definition['There is already an account with the same username (%1$s) or email (%2$s) as you. You can either create a new account, or you can enter the credentials for your existing forum account.'] = 'יש כבר חשבון עם אותו שם משתמש %1$s או דוא"ל %2$s כמוך. באפשרותך ליצור חשבון חדש, או להזין את האישורים של החשבון בפורום הקיים שלך.';
 $Definition['The response was not in the correct format.'] = 'התגובה לא הייתה בתבנית הנכונה.';
@@ -2030,6 +2037,7 @@ $Definition['Twitter'] = 'טוויטר';
 $Definition['Twitter Connect'] = 'חיבור טוויטר';
 $Definition['Twitter Settings'] = 'הגדרות טוויטר';
 $Definition['Type'] = 'סוג';
+$Definition['Type...'] = 'סוּג...';
 $Definition['Type or paste emails separated by commas.'] = 'הקלד או הדבק הודעות דוא"ל מופרדות באמצעות פסיקים.';
 $Definition['Type the text:'] = 'הקלידו את הטקסט:';
 $Definition['Type what you hear:'] = 'הקלידו את מה שאתם שומעים:';
@@ -2246,6 +2254,7 @@ $Definition['when your answer to a question has been accepted'] = 'כאשר תש
 $Definition['when your approved to join the group'] = 'כאשר אישרת להצטרף לקבוצה';
 $Definition['when your group membership requests are approved'] = 'כאשר בקשות החברות בקבוצה שלך יאושרו';
 $Definition['when your ideas\' statuses change'] = 'כאשר הסטטוסים של הרעיונות שלך משתנים';
+$Definition['when your post has AI suggested answers'] = 'כאשר לפוסט שלך יש תשובות מוצעות בינה מלאכותית';
 $Definition['Where'] = 'איפה';
 $Definition['Where do you want to announce this discussion?'] = 'איפה תרצה להכריז על דיון זה?';
 $Definition['Who\'s Going'] = 'מי הולך';
@@ -2418,6 +2427,7 @@ $Definition['yyyy-mm-dd'] = 'שנה-חודש-יום';
 
 $Definition['Zip'] = 'דחוס';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} הציע תשובות: בדוק את זה';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} פרסם הודעה ב- <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} התחיל דיון חדש <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} הודעות חדשות ב- <strong>{GroupName}</strong>';

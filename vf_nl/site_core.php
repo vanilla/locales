@@ -528,7 +528,6 @@ $Definition['Date'] = 'Datum';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%e %B';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Datum. Verwacht \'mm/dd/jjjj\'.';
 $Definition['Date Added'] = 'Datum Toegevoegd';
@@ -665,11 +664,11 @@ $Definition['EmailMembershipApproved'] = 'Hallo %1$s,
 Je aanvraag voor het lidmaatschap is goedgekeurd. Log in met de volgende link:
 
   %2$s
-
+  
 Fijne dag verder!';
 $Definition['EmailNotification'] = '%1$s
 
-Volg deze link om het te bekijken:
+Volg deze link om het te bekijken: 
 %2$s
 
 Fijne dag verder!';
@@ -719,7 +718,7 @@ $Definition['Enter your email address or username to continue.'] = 'Voer je e-ma
 $Definition['Enter your email to continue.'] = 'Voer je e-mailadres in om door te gaan.';
 $Definition['Enter Your OpenID Url'] = 'Voer je OpenID Url in';
 $Definition['Enter Your Password'] = 'Voer je wachtwoord in';
-$Definition['Enter your password to continue.'] = 'Je probeert een mogelijk gevoelige bewerking uit te voeren.
+$Definition['Enter your password to continue.'] = 'Je probeert een mogelijk gevoelige bewerking uit te voeren. 
 Voer je wachtwoord in om door te gaan.';
 $Definition['Enter your search term.'] = 'Typ je zoek-item.';
 $Definition['Enter your username to continue.'] = 'Voer je gebruikersnaam in om door te gaan.';
@@ -1038,6 +1037,7 @@ $Definition['Just you!'] = 'Alleen jij!';
 $Definition['Keep me signed in'] = 'Houd mij aangemeld';
 $Definition['Keep User Content'] = 'Bewaar gebruikersinhoud';
 $Definition['Knowledge Bases'] = 'Kennisbanken';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Kennisbanken die u uit AI-antwoorden moet uitsluiten';
 
 $Definition['Label'] = 'Etiket';
 $Definition['Language'] = 'Taal';
@@ -1215,10 +1215,12 @@ $Definition['New'] = 'Nieuw';
 $Definition['new'] = 'nieuw';
 $Definition['New %s'] = 'Nieuw %s';
 $Definition['New Announcement'] = 'Nieuwe Aankondiging';
+$Definition['new announcements'] = 'nieuwe aankondigingen';
 $Definition['New answers on my question'] = 'Nieuwe antwoorden op mijn vraag';
 $Definition['New Author'] = 'Nieuwe auteur';
 $Definition['New badge requests'] = 'Nieuwe badge-aanvragen';
 $Definition['New badges'] = 'Nieuwe insignes';
+$Definition['new comments'] = 'nieuwe opmerkingen';
 $Definition['New comments on my activity feed posts'] = 'Nieuwe reacties op mijn berichten in de activiteitenfeed';
 $Definition['New comments on my bookmarked posts'] = 'Nieuwe reacties op mijn gebookmarkte berichten';
 $Definition['New comments on my posts'] = 'Nieuwe reacties op mijn berichten';
@@ -1232,6 +1234,7 @@ $Definition['New Discussion Topic'] = 'Nieuw discussie-onderwerp';
 $Definition['Newest'] = 'Nieuwste';
 $Definition['Newest Members'] = 'Nieuwste leden';
 $Definition['New Event'] = 'Nieuw evenement';
+$Definition['new events'] = 'nieuwe evenementen';
 $Definition['New Folder'] = 'Nieuwe map';
 $Definition['New follow-up to my answered questions'] = 'Nieuw vervolg op mijn beantwoorde vragen';
 $Definition['New Group'] = 'Nieuwe Groep';
@@ -1239,10 +1242,12 @@ $Definition['New Groups'] = 'Nieuwe Groepen';
 $Definition['New Icon'] = 'Nieuw icoon';
 $Definition['New Idea'] = 'Nieuw idee';
 $Definition['New Message'] = 'Nieuw Bericht';
+$Definition['new or updated events'] = 'nieuwe of bijgewerkte evenementen';
 $Definition['New Password'] = 'Nieuw Wachtwoord';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Nieuw wachtwoord komt niet overeen. Bevestig uw nieuwe wachtwoord opnieuw.';
 $Definition['New Poll'] = 'Nieuwe Poll';
 $Definition['New Post'] = 'Nieuw bericht';
+$Definition['new posts'] = 'nieuwe berichten';
 $Definition['New posts and comments'] = 'Nieuwe berichten en reacties';
 $Definition['New posts in groups I\'m a member of'] = 'Nieuwe berichten in groepen waar ik lid van ben';
 $Definition['New posts on my profile\'s activity feed'] = 'Nieuwe berichten op de activiteitenfeed van mijn profiel';
@@ -1291,6 +1296,7 @@ $Definition['Notification Settings Restored'] = 'Meldingsinstellingen hersteld';
 $Definition['Notifications Postmaster'] = 'Meldingen Postmaster';
 $Definition['Notifictions'] = 'Notificaties';
 $Definition['Notify'] = 'Waarschuwen';
+$Definition['Notify me of <0/>'] = 'Laat mij weten van <0/>';
 $Definition['Notify me of new comment'] = 'Houd mij op de hoogte van een nieuwe reactie';
 $Definition['Notify me of new comments'] = 'Houd mij op de hoogte van nieuwe reacties';
 $Definition['Notify me of new content'] = 'Houd mij op de hoogte van nieuwe inhoud';
@@ -1314,6 +1320,7 @@ $Definition['Notify me when people write on my wall.'] = 'Stel mij op de hoogte 
 $Definition['Notify me when there is event activity.'] = 'Hou me op de hoogte van nieuwtjes omtrent gebeurtenissen.';
 $Definition['Notify me when there is group activity.'] = 'Breng me op de hoogte van nieuwtjes omtrent groepen.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Breng me op de hoogte als de status van een idee waarop ik heb gestemd verandert.';
+$Definition['Notify of <0/>'] = 'Melden van <0/>';
 $Definition['Notify of all new discussions.'] = 'Breng alle nieuwe discussies op de hoogte.';
 $Definition['Notify of all new discussions by email.'] = 'Houd per e-mail op de hoogte van alle nieuwe discussies.';
 $Definition['Notify of all new posts.'] = 'Breng op de hoogte van alle nieuwe berichten.';
@@ -1392,7 +1399,7 @@ $Definition['Password changed successfully.'] = 'Wachtwoord succesvol veranderd.
 $Definition['Password Contains Username'] = 'Bevat Gebruikersnaam';
 $Definition['Password Good'] = 'Goed';
 $Definition['Password Ok'] = 'Oké';
-$Definition['PasswordRequest'] = 'Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen:
+$Definition['PasswordRequest'] = 'Iemand heeft een aanvraag gedaan om je wachtwoord opnieuw in te stellen op %2$s. Klik op onderstaande link om je wachtwoord opnieuw in te stellen: 
 
   %3$s
 
@@ -1833,13 +1840,13 @@ $Definition['TermsOfService'] = 'Servicevoorwaarden';
 $Definition['Terms of Service'] = 'Servicevoorwaarden';
 $Definition['TermsOfServiceText'] = '
    <p>Je stemt ermee in, door deze dienst te gebruiken, dat je deze community niet zal gebruiken om enig materiaal te uploaden dat bewust misleidend en/of kwetsend, onjuist, beledigend, vulgair, hatelijk, obsceen, profaan, sexueel geörienteerd, bedreigend, iemands privacy schendend, of op een andere wijze een wet overtreed. Je stemt ermee in om geen auteursrechtelijk beschermd materiaal te uploaden tenzij het auteursrecht bij jouw ligt.</p>
-
+   
    <p>Wij bij deze community houden ons het recht voor om jouw identiteit kenbaar te maken (of wat voor informatie we van je weten) in het geval van een klacht of gerechtelijke stappen die een gevolg zijn van een door jouw gepubliceerd bericht. We bewaren alle internet-protocoladressen die deze website binnenkomen.</p>
-
+   
    <p>Houd er alstjeblieft rekening mee dat reclame, kettingbrieven, pyramidespelen, en sollicitaties ongepast zijn voor deze community.</p>
-
+   
    <p>We houden ons het recht voor enig materiaal te verwijderen, met of zonder enige reden. We houden ons het recht voor elk lidmaatschap te beëindigen, met of zonder enige reden.</p>
-
+   
    <p>Je moet op zijn minst 13 jaar oud zijn om deze dienst te gebruiken.</p>
 ';
 $Definition['Testing'] = 'Aan het Testen';
@@ -2182,6 +2189,7 @@ $Definition['when your answer to a question has been accepted'] = 'wanneer uw an
 $Definition['when your approved to join the group'] = 'wanneer je toestemming hebt om lid te worden van de groep';
 $Definition['when your group membership requests are approved'] = 'wanneer uw groepslidmaatschapsverzoeken zijn goedgekeurd';
 $Definition['when your ideas\' statuses change'] = 'wanneer de status van uw ideeën verandert';
+$Definition['when your post has AI suggested answers'] = 'wanneer je bericht door AI voorgestelde antwoorden bevat';
 $Definition['Where'] = 'Waar';
 $Definition['Where do you want to announce this discussion?'] = 'Waar wil je deze discussie aankondigen?';
 $Definition['Who\'s Going'] = 'Wie gaat er';
@@ -2351,6 +2359,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'Je krij
 $Definition['You wrote:'] = 'Jij schreef:';
 $Definition['yyyy-mm-dd'] = 'jjjj-mm-dd';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} heeft antwoorden voorgesteld: bekijk het eens';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} heeft een aankondiging geplaatst in <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} heeft een nieuwe discussie gestart <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} nieuwe aankondigingen in <strong>{GroupName}</strong>';

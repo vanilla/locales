@@ -530,7 +530,6 @@ $Definition['Date'] = 'Applied On';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '
 Дата. Очаква се \'мм/дд/гггг\'.';
@@ -667,7 +666,7 @@ $Definition['EmailMembershipApproved'] = 'Здравейте %1$s,
 Кандидатурата Ви за членство беше одобрена. Влезте във форума като използвате следния линк:
 
   %2$s
-
+  
 Приятен ден!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1052,6 +1051,7 @@ $Definition['Keep me signed in'] = 'Запомни ме';
 $Definition['Keep User Content'] = 'UserKeep';
 $Definition['Kilobyte'] = 'Килобайт';
 $Definition['Knowledge Bases'] = 'Бази знания';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Бази знания за изключване от отговорите на AI';
 
 $Definition['Label'] = 'Етикет';
 $Definition['Language'] = 'език';
@@ -1235,10 +1235,12 @@ $Definition['New'] = 'Нов';
 $Definition['new'] = 'нов';
 $Definition['New %s'] = 'Нов %s';
 $Definition['New Announcement'] = 'Ново Известие';
+$Definition['new announcements'] = 'нови обяви';
 $Definition['New answers on my question'] = 'Нови отговори на моя въпрос';
 $Definition['New Author'] = 'Нов автор';
 $Definition['New badge requests'] = 'Заявки за нови значки';
 $Definition['New badges'] = 'Нови значки';
+$Definition['new comments'] = 'нови коментари';
 $Definition['New comments on my activity feed posts'] = 'Нови коментари за моите публикации в емисията за активност';
 $Definition['New comments on my bookmarked posts'] = 'Нови коментари за моите отбелязани публикации';
 $Definition['New comments on my posts'] = 'Нови коментари за моите публикации';
@@ -1252,6 +1254,7 @@ $Definition['New Discussion Topic'] = 'Нова тема за дискусия';
 $Definition['Newest'] = 'Най-новият';
 $Definition['Newest Members'] = 'Най-новите членове';
 $Definition['New Event'] = 'Ново събитие';
+$Definition['new events'] = 'нови събития';
 $Definition['New Folder'] = 'Нова папка';
 $Definition['New follow-up to my answered questions'] = 'Ново продължение на въпросите ми с отговори';
 $Definition['New Group'] = 'Нова група';
@@ -1259,10 +1262,12 @@ $Definition['New Groups'] = 'Нови групи';
 $Definition['New Icon'] = 'Нова икона';
 $Definition['New Idea'] = 'Нова идея';
 $Definition['New Message'] = 'Започнете нов разговор';
+$Definition['new or updated events'] = 'нови или актуализирани събития';
 $Definition['New Password'] = 'Нова парола';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Новата парола не съвпада. Моля, потвърдете новата си парола.';
 $Definition['New Poll'] = 'Нова анкета';
 $Definition['New Post'] = 'Нова публикация';
+$Definition['new posts'] = 'нови публикации';
 $Definition['New posts and comments'] = 'Нови публикации и коментари';
 $Definition['New posts in groups I\'m a member of'] = 'Нови публикации в групи, в които членувам';
 $Definition['New posts on my profile\'s activity feed'] = 'Нови публикации в емисията за активност на моя профил';
@@ -1311,6 +1316,7 @@ $Definition['Notification Settings Restored'] = 'Настройките за у�
 $Definition['Notifications Postmaster'] = 'Известия Postmaster';
 $Definition['Notifictions'] = 'Известия';
 $Definition['Notify'] = 'Известяване';
+$Definition['Notify me of <0/>'] = 'Уведомете ме за <0/>';
 $Definition['Notify me of new comment'] = 'Уведомете ме за нов коментар';
 $Definition['Notify me of new comments'] = 'Уведомете ме за нови коментари';
 $Definition['Notify me of new content'] = 'Уведомете ме за ново съдържание';
@@ -1334,6 +1340,7 @@ $Definition['Notify me when people write on my wall.'] = 'Уведоми ме, �
 $Definition['Notify me when there is event activity.'] = 'Предупредете ме, когато има активност за събитие.';
 $Definition['Notify me when there is group activity.'] = 'Уведомете ме, когато има групова дейност.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Уведоми ме, когато има промяна в статуса на идея, за която съм гласувал.';
+$Definition['Notify of <0/>'] = 'Известяване на <0/>';
 $Definition['Notify of all new discussions.'] = 'Уведомявайте за всички нови дискусии.';
 $Definition['Notify of all new discussions by email.'] = 'Уведомявайте за всички нови дискусии по имейл.';
 $Definition['Notify of all new posts.'] = 'Уведомяване за всички нови публикации.';
@@ -1875,19 +1882,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-
+   
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-
+   
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-
+   
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-
+   
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Тест';
@@ -2022,6 +2029,7 @@ $Definition['Turn ON'] = 'Включи';
 $Definition['Twitter Connect'] = 'Свързване с Twitter';
 $Definition['Twitter Settings'] = 'Twitter настройки';
 $Definition['Type'] = 'Тип';
+$Definition['Type...'] = 'Тип...';
 $Definition['Type or paste emails separated by commas.'] = 'Въведете или поставете имейли, разделени със запетаи.';
 $Definition['Type the text:'] = 'Въведете текста:';
 $Definition['Type what you hear:'] = 'Напишете, каквото чувате';
@@ -2236,6 +2244,7 @@ $Definition['when your answer to a question has been accepted'] = 'когато 
 $Definition['when your approved to join the group'] = 'когато сте одобрени да се присъедините към групата';
 $Definition['when your group membership requests are approved'] = 'когато вашите заявки за членство в група бъдат одобрени';
 $Definition['when your ideas\' statuses change'] = 'когато статусите на вашите идеи се променят';
+$Definition['when your post has AI suggested answers'] = 'когато публикацията ви има предложени от AI отговори';
 $Definition['Where'] = 'Къде';
 $Definition['Where do you want to announce this discussion?'] = 'Къде искате да обявите тази дискусия?';
 $Definition['Who\'s Going'] = 'Кой отива';
@@ -2405,6 +2414,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'Ще п
 $Definition['You wrote:'] = 'Вие написахте:';
 $Definition['yyyy-mm-dd'] = 'dd.mm.yyyy';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} предложи отговори: вижте го';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} публикува съобщение в <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} започна нова дискусия <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} нови съобщения в <strong>{GroupName}</strong>';

@@ -536,7 +536,6 @@ $Definition['Date'] = '日期';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%b %e 日';
 $Definition['Date.DefaultFormat'] = '%Y %b %e日';
-$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '日期。預計\'mm/dd/yyyy\'。';
 $Definition['Date Added'] = '發表時間';
@@ -1053,6 +1052,7 @@ $Definition['Keep me signed in'] = '記住我的登入狀態';
 $Definition['Keep User Content'] = '保留用戶相關內容';
 $Definition['Kilobyte'] = 'KB';
 $Definition['Knowledge Bases'] = '知識庫';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = '從 AI 答案中排除的知識庫';
 
 $Definition['Label'] = '標記';
 $Definition['Language'] = '語言';
@@ -1238,10 +1238,12 @@ $Definition['New'] = '新
 $Definition['new'] = '新';
 $Definition['New %s'] = '新 %s';
 $Definition['New Announcement'] = '新公告';
+$Definition['new announcements'] = '新公告';
 $Definition['New answers on my question'] = '我的問題的新答案';
 $Definition['New Author'] = '新作者';
 $Definition['New badge requests'] = '新徽章請求';
 $Definition['New badges'] = '新徽章';
+$Definition['new comments'] = '新評論';
 $Definition['New comments on my activity feed posts'] = '我的活動提要帖子上有新評論';
 $Definition['New comments on my bookmarked posts'] = '我添加書籤的帖子有新評論';
 $Definition['New comments on my posts'] = '我的帖子有新評論';
@@ -1256,6 +1258,7 @@ $Definition['New Discussion Topic'] = '新討論主題
 $Definition['Newest'] = '最新';
 $Definition['Newest Members'] = '最新成員';
 $Definition['New Event'] = '新事件';
+$Definition['new events'] = '新事件';
 $Definition['New Folder'] = '新資料夾';
 $Definition['New follow-up to my answered questions'] = '我回答的問題的新後續行動';
 $Definition['New Group'] = '新群組';
@@ -1263,10 +1266,12 @@ $Definition['New Groups'] = '新群組';
 $Definition['New Icon'] = '新圖示';
 $Definition['New Idea'] = '新點子';
 $Definition['New Message'] = '開啟新對話';
+$Definition['new or updated events'] = '新的或更新的事件';
 $Definition['New Password'] = '新密碼';
 $Definition['New password does not match. Please reconfirm your new password.'] = '新密碼不匹配。請再次確認您的新密碼。';
 $Definition['New Poll'] = '新增投票';
 $Definition['New Post'] = '新貼文';
+$Definition['new posts'] = '新貼文';
 $Definition['New posts and comments'] = '新帖子和評論';
 $Definition['New posts in groups I\'m a member of'] = '我所屬群組中的新帖子';
 $Definition['New posts on my profile\'s activity feed'] = '我的個人資料活動源上有新帖子';
@@ -1315,6 +1320,7 @@ $Definition['Notification Settings Restored'] = '通知設置已恢復';
 $Definition['Notifications Postmaster'] = '通知郵局局長';
 $Definition['Notifictions'] = '通知';
 $Definition['Notify'] = '提醒';
+$Definition['Notify me of <0/>'] = '通知我<0/>';
 $Definition['Notify me of new comment'] = '有新評論時通知我';
 $Definition['Notify me of new comments'] = '有新評論時通知我';
 $Definition['Notify me of new content'] = '有新內容時通知我';
@@ -1338,6 +1344,7 @@ $Definition['Notify me when people write on my wall.'] = '有人給我留言時�
 $Definition['Notify me when there is event activity.'] = '有事件活動時請，請通知我。';
 $Definition['Notify me when there is group activity.'] = '有群組活動時，請通知我。';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = '當我投票的點子狀態變更時通知我。';
+$Definition['Notify of <0/>'] = '通知<0/>';
 $Definition['Notify of all new discussions.'] = '通知所有新的討論。';
 $Definition['Notify of all new discussions by email.'] = '通過電子郵件通知所有新討論。';
 $Definition['Notify of all new posts.'] = '通知所有新帖子。';
@@ -1875,13 +1882,13 @@ $Definition['Terabyte'] = 'TB';
 $Definition['Terms'] = '條款';
 $Definition['TermsOfService'] = '服務條款';
 $Definition['Terms of Service'] = '服務條款';
-$Definition['TermsOfServiceText'] = '您同意在使用這項服務時，您不會利用此社區發表任何明知虛假的和/或誹謗的、不準確的、辱罵性的、庸俗的、惡意的、騷擾、淫穢、褻瀆、有性導向、威脅的、侵犯他人隱私的或者以其他方式違犯任何法律的信息。您同意不發表任何受版權保護的材料，除非版權歸您所有。
+$Definition['TermsOfServiceText'] = '您同意在使用這項服務時，您不會利用此社區發表任何明知虛假的和/或誹謗的、不準確的、辱罵性的、庸俗的、惡意的、騷擾、淫穢、褻瀆、有性導向、威脅的、侵犯他人隱私的或者以其他方式違犯任何法律的信息。您同意不發表任何受版權保護的材料，除非版權歸您所有。 
 
-如果您發布的任何信息導致投訴或法律訴訟，我們保留透露您的身份（或者我們知道的關於您的任何信息）的權利。我們會記錄訪問本網站的所有互聯網協議地址。
+如果您發布的任何信息導致投訴或法律訴訟，我們保留透露您的身份（或者我們知道的關於您的任何信息）的權利。我們會記錄訪問本網站的所有互聯網協議地址。 
 
-請注意，廣告、連鎖信、傳銷和募捐在本社區都被認為是不適當的。
+請注意，廣告、連鎖信、傳銷和募捐在本社區都被認為是不適當的。 
 
-我們保留以任何理由或不需任何理由地刪除任何內容的權利。我們保留以任何理由或不需任何理由地終止任何會員資格的權利。
+我們保留以任何理由或不需任何理由地刪除任何內容的權利。我們保留以任何理由或不需任何理由地終止任何會員資格的權利。 
 
 您必須年滿 13 歲才能使用這項服務。';
 $Definition['Test'] = '測試';
@@ -2017,6 +2024,7 @@ $Definition['Turn ON'] = '打開';
 $Definition['Twitter Connect'] = '連接 Twitter';
 $Definition['Twitter Settings'] = 'Twitter 設定';
 $Definition['Type'] = '類型';
+$Definition['Type...'] = '類型...';
 $Definition['Type or paste emails separated by commas.'] = '輸入或粘貼以逗號分隔的電子郵件。';
 $Definition['Type the text:'] = '輸入內容：';
 $Definition['Type what you hear:'] = '輸入您所聽到的：';
@@ -2233,6 +2241,7 @@ $Definition['when your answer to a question has been accepted'] = '當您對問�
 $Definition['when your approved to join the group'] = '當您獲准加入該群組時';
 $Definition['when your group membership requests are approved'] = '當您的群組成員資格請求獲得批准時';
 $Definition['when your ideas\' statuses change'] = '當你的想法的狀態發生變化時';
+$Definition['when your post has AI suggested answers'] = '當你的貼文有人工智慧建議的答案時';
 $Definition['Where'] = '哪裡';
 $Definition['Where do you want to announce this discussion?'] = '您要在哪裡宣佈這個討論？';
 $Definition['Who\'s Going'] = '誰去';
@@ -2401,6 +2410,7 @@ $Definition['You will no longer receive the email digest.'] = '您將不再收�
 $Definition['You will receive a notification when you are accepted.'] = '當您被接受時，您將收到通知。';
 $Definition['You wrote:'] = '您寫道：';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} 有建議的答案：查看一下';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} 在<strong>{GroupName}</strong>中發布了公告';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} 發起了新討論<strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '<strong>{GroupName}</strong>中的 {count} 個新公告';

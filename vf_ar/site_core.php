@@ -530,7 +530,6 @@ $Definition['Date'] = 'التاريخ';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%Y/%m/%d';
 $Definition['Date.DefaultFormat'] = '%Y/%m/%d';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%Y/%m/%d';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'التاريخ. التنسيق المتوقع \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'تاريخ الاضافة';
@@ -1040,6 +1039,7 @@ $Definition['Keep me signed in'] = 'تذكرني';
 $Definition['Keep User Content'] = 'الحفاظ على محتوى المستخدم';
 $Definition['Kilobyte'] = 'كيلوبايت';
 $Definition['Knowledge Bases'] = 'قواعد المعرفة ';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'قواعد المعرفة التي يجب استبعادها من إجابات الذكاء الاصطناعي';
 
 $Definition['Label'] = 'ملصق';
 $Definition['Language'] = 'لغة';
@@ -1221,10 +1221,12 @@ $Definition['New'] = 'جديد';
 $Definition['new'] = 'جديد';
 $Definition['New %s'] = 'جديد %s';
 $Definition['New Announcement'] = 'إعلان جديد';
+$Definition['new announcements'] = 'اعلانات جديدة';
 $Definition['New answers on my question'] = 'إجابات جديدة على سؤالي';
 $Definition['New Author'] = 'مؤلف جديد';
 $Definition['New badge requests'] = 'طلبات الشارة الجديدة';
 $Definition['New badges'] = 'شارات جديدة';
+$Definition['new comments'] = 'تعليقات جديدة';
 $Definition['New comments on my activity feed posts'] = 'تعليقات جديدة على نشاطي تغذي المشاركات';
 $Definition['New comments on my bookmarked posts'] = 'تعليقات جديدة على مشاركاتي المرجعية';
 $Definition['New comments on my posts'] = 'تعليقات جديدة على مشاركاتي';
@@ -1238,6 +1240,7 @@ $Definition['New Discussion Topic'] = 'موضوع جديد للمناقشة ';
 $Definition['Newest'] = 'الأحدث';
 $Definition['Newest Members'] = 'الاعضاء الجدد';
 $Definition['New Event'] = 'حدث جديد';
+$Definition['new events'] = 'أحداث جديدة';
 $Definition['New Folder'] = 'مجلد جديد ';
 $Definition['New follow-up to my answered questions'] = 'متابعة جديدة لأسئلتي التي أجبت عليها';
 $Definition['New Group'] = 'مجموعة جديدة';
@@ -1245,9 +1248,11 @@ $Definition['New Groups'] = 'مجموعات جديدة';
 $Definition['New Icon'] = 'أيقونة جديدة';
 $Definition['New Idea'] = 'فكرة جديدة';
 $Definition['New Message'] = 'رسالة جديدة';
+$Definition['new or updated events'] = 'أحداث جديدة أو محدثة';
 $Definition['New Password'] = 'كلمة المرور الجديدة';
 $Definition['New Poll'] = 'إستطلاع جديد';
 $Definition['New Post'] = 'منشور جديد';
+$Definition['new posts'] = 'المشاركات الجديدة';
 $Definition['New posts and comments'] = 'مشاركات وتعليقات جديدة';
 $Definition['New posts in groups I\'m a member of'] = 'مشاركات جديدة في مجموعات أنا عضو فيها';
 $Definition['New posts on my profile\'s activity feed'] = 'مشاركات جديدة في موجز نشاط ملفي الشخصي';
@@ -1295,6 +1300,7 @@ $Definition['Notification Settings Restored'] = 'تمت استعادة إعدا�
 $Definition['Notifications Postmaster'] = 'الإخطارات مدير مكتب البريد';
 $Definition['Notifictions'] = 'التنبيهات';
 $Definition['Notify'] = 'إخطار';
+$Definition['Notify me of <0/>'] = 'أعلمني بـ <0/>';
 $Definition['Notify me of new comment'] = 'أعلمني بالتعليق الجديد';
 $Definition['Notify me of new comments'] = 'أعلمني بالتعليقات الجديدة';
 $Definition['Notify me of new content'] = 'أعلمني بالمحتوى الجديد';
@@ -1318,6 +1324,7 @@ $Definition['Notify me when people write on my wall.'] = 'أخطرني اذا ت
 $Definition['Notify me when there is event activity.'] = 'أخطرني عندما تكون هناك مناسبة.';
 $Definition['Notify me when there is group activity.'] = 'أبلغني عندما يكون هناك فاعلية مجموعة.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'اخبرني عندما تتغير الحالة على فكرة قُمت بالتصويت عليها.';
+$Definition['Notify of <0/>'] = 'إشعار بـ <0/>';
 $Definition['Notify of all new discussions.'] = 'إخطار جميع المناقشات الجديدة.';
 $Definition['Notify of all new discussions by email.'] = 'إخطار جميع المناقشات الجديدة عن طريق البريد الإلكتروني.';
 $Definition['Notify of all new posts.'] = 'إخطار جميع الوظائف الجديدة.';
@@ -1847,19 +1854,19 @@ $Definition['TermsOfServiceText'] = '
     المنحى، وتهدد من خصوصية الشخص، أو منتهكة
     أي قانون. أنت توافق على عدم نشر أي مواد محفوظة الحقوق، ما لم
     تكن لك ملكية حقوق الطبع والنشر من قبل. </ p>
-
+   
     <p> ونحن في هذا الموقع نحتفظ بحقنا في الكشف عن هويتك (أو
     كل ما نعرفه عن معلومات عنك) في حال وجود شكوى أو قانوني
     عمل الناشئة عن أي رسالة مرسلة منك. نحن نسجيل كل عناوين بروتوكول الإنترنت
     الواصلة إلى هذا الموقع. </ p>
-
+   
     <p> يرجى ملاحظة أن الإعلانات، الرسائل المسلسلة، المخططات الهرمية، و
     استدراج العروض ليست مناسبة في هذا المجتمع. </ p>
-
+   
     <p> ونحن نحتفظ بالحق في إزالة أي محتوى لأي سبب من الأسباب أو بدون أي سبب على
     جميع. نحن نحتفظ بالحق في إنهاء أي عضوية لأي سبب من الأسباب أو لا
     سبب على الإطلاق. </ p>
-
+   
     <p> ويجب ان يكون عمرك على الأقل 13 سنة لاستخدام هذه الخدمة. </ p>
 
 ';
@@ -1988,6 +1995,7 @@ $Definition['Twitter'] = 'تويتر';
 $Definition['Twitter Connect'] = 'الاتصال بتويتر';
 $Definition['Twitter Settings'] = 'اعدادات تويتر';
 $Definition['Type'] = 'نوع';
+$Definition['Type...'] = 'يكتب...';
 $Definition['Type or paste emails separated by commas.'] = 'اكتب أو الصق رسائل البريد الإلكتروني مفصولة بفواصل.';
 $Definition['Type the text:'] = 'اكتب النص:';
 $Definition['Type what you hear:'] = 'اكتب ما تسمعه:';
@@ -2199,6 +2207,7 @@ $Definition['when your answer to a question has been accepted'] = 'عندما ي
 $Definition['when your approved to join the group'] = 'عند موافقتك على الانضمام إلى المجموعة';
 $Definition['when your group membership requests are approved'] = 'عندما تتم الموافقة على طلبات عضوية المجموعة الخاصة بك';
 $Definition['when your ideas\' statuses change'] = 'عندما تتغير حالات أفكارك';
+$Definition['when your post has AI suggested answers'] = 'عندما تحتوي منشوراتك على إجابات مقترحة من الذكاء الاصطناعي';
 $Definition['Where'] = 'أين';
 $Definition['Where do you want to announce this discussion?'] = 'اين تريد اعلان هذا الموضوع.';
 $Definition['Who\'s Going'] = 'من سيذهب';
@@ -2367,6 +2376,7 @@ $Definition['You wrote:'] = 'أنت كتبت:';
 
 $Definition['Zip'] = 'ملف مضغوط Zip';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = 'لقد اقترح {ActivityUserID,User} إجابات: تحقق من ذلك';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'نشر {ActivityUserID,user} إعلانًا في <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} بدأ مناقشة جديدة <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = 'إعلانات {count} الجديدة في <strong>{GroupName}</strong>';

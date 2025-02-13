@@ -525,7 +525,6 @@ $Definition['Date'] = 'Data';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Data. Se introduce ca "LL/ZZ/aaaa".';
 $Definition['Date Added'] = 'Dată adaugată';
@@ -1029,6 +1028,7 @@ $Definition['Just you!'] = 'Doar tu! ';
 $Definition['Keep me signed in'] = 'Păstrați-mă logat!';
 $Definition['Keep User Content'] = 'Păstraţi conţinutul utilizatorului';
 $Definition['Knowledge Bases'] = 'Baze de cunoștințe';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Baze de cunoștințe de exclus din AI Answers';
 
 $Definition['Label'] = 'Eticheta';
 $Definition['Language'] = 'Limba';
@@ -1208,10 +1208,12 @@ $Definition['New'] = 'Nou';
 $Definition['new'] = 'nou';
 $Definition['New %s'] = '%s nou';
 $Definition['New Announcement'] = 'Anunţ nou';
+$Definition['new announcements'] = 'anunţuri noi';
 $Definition['New answers on my question'] = 'Răspunsuri noi la întrebarea mea';
 $Definition['New Author'] = 'Autor nou';
 $Definition['New badge requests'] = 'Noi solicitări de insigne';
 $Definition['New badges'] = 'Ecusoane noi';
+$Definition['new comments'] = 'comentarii noi';
 $Definition['New comments on my activity feed posts'] = 'Comentarii noi la postările mele din feedul de activitate';
 $Definition['New comments on my bookmarked posts'] = 'Comentarii noi la postările mele marcate';
 $Definition['New comments on my posts'] = 'Comentarii noi la postările mele';
@@ -1225,6 +1227,7 @@ $Definition['New Discussion Topic'] = 'Subiect nou de discuție';
 $Definition['Newest'] = 'Cel mai nou';
 $Definition['Newest Members'] = 'Cei mai noi membri';
 $Definition['New Event'] = 'Eveniment nou';
+$Definition['new events'] = 'evenimente noi';
 $Definition['New Folder'] = 'Folder nou';
 $Definition['New follow-up to my answered questions'] = 'Noua continuare la întrebările la care am răspuns';
 $Definition['New Group'] = 'Grup nou';
@@ -1232,10 +1235,12 @@ $Definition['New Groups'] = 'Grupuri noi';
 $Definition['New Icon'] = 'Pictogramă Noua';
 $Definition['New Idea'] = 'Idee nouă';
 $Definition['New Message'] = 'Incepeți o conversație nouă';
+$Definition['new or updated events'] = 'evenimente noi sau actualizate';
 $Definition['New Password'] = 'Parolă nouă';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Parola nouă nu se potrivește. Vă rugăm să reconfirmați noua parolă.';
 $Definition['New Poll'] = 'Votare nouă';
 $Definition['New Post'] = 'Postare nouă';
+$Definition['new posts'] = 'postări noi';
 $Definition['New posts and comments'] = 'Postări și comentarii noi';
 $Definition['New posts in groups I\'m a member of'] = 'Postări noi în grupurile din care sunt membru';
 $Definition['New posts on my profile\'s activity feed'] = 'Postări noi în fluxul de activitate al profilului meu';
@@ -1284,6 +1289,7 @@ $Definition['Notification Settings Restored'] = 'Setări de notificare restaurat
 $Definition['Notifications Postmaster'] = 'Notificări Postmaster';
 $Definition['Notifictions'] = 'Notificări';
 $Definition['Notify'] = 'Anunta';
+$Definition['Notify me of <0/>'] = 'Anunțați-mă despre <0/>';
 $Definition['Notify me of new comment'] = 'Anunta-ma cu privire la noul comentariu';
 $Definition['Notify me of new comments'] = 'Anunțați-mă în cazul noilor comentarii';
 $Definition['Notify me of new content'] = 'Anunțați-mă despre conținut nou';
@@ -1308,6 +1314,7 @@ $Definition['Notify me when people write on my wall.'] = 'Anunta-ma atunci cand 
 $Definition['Notify me when there is event activity.'] = 'Anunțați-mă atunci când există activitate pentru un eveniment';
 $Definition['Notify me when there is group activity.'] = 'Anunţați-mă atunci  când există activitate în cadrul grupului';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Anunță-mă când starea unei idei pe care am votat-o se schimbă.';
+$Definition['Notify of <0/>'] = 'Notificare despre <0/>';
 $Definition['Notify of all new discussions.'] = 'Notificați toate discuțiile noi.';
 $Definition['Notify of all new discussions by email.'] = 'Notificați toate discuțiile noi prin e-mail.';
 $Definition['Notify of all new posts.'] = 'Notificați toate postările noi.';
@@ -1832,47 +1839,47 @@ $Definition['TermsOfService'] = 'Termeni si conditii';
 $Definition['Terms of Service'] = 'Termeni si conditii';
 $Definition['TermsOfServiceText'] = '
 	<h1>TERMENII ȘI CONDIȚIILE DE UTILIZARE:</h1>
-	<p>Noi, echipa de administrare a site-ului dorim ca prin acest regulament
+	<p>Noi, echipa de administrare a site-ului dorim ca prin acest regulament 
 	intern de funcționare al acestei comunități să înțelegeți că numai așa
-	putem păstra acest site în scopul creat, acela de comunicare și relaționare între persoane, prin reguli simple, transparente și corecte!
-	Se consideră că prin accesarea acestui forum,
-	AȚI LUAT LA CUNOȘTIINȚĂ TERMENII ȘI CONDIȚIILE
-	exprimate în continuare, și că
+	putem păstra acest site în scopul creat, acela de comunicare și relaționare între persoane, prin reguli simple, transparente și corecte! 
+	Se consideră că prin accesarea acestui forum, 
+	AȚI LUAT LA CUNOȘTIINȚĂ TERMENII ȘI CONDIȚIILE 
+	exprimate în continuare, și că 
 	AȚI RESPECTAT ÎNTOCMAI ACESTE REGULI!</p>
-
+	
    <p>Sunteți de acord, prin utilizarea acestui serviciu, că nu veți folosi această
     comunitate pentru a posta vreun material care este cu buna stiință fals si / sau defăimător,
-    inexact, abuziv, vulgar, rasist, de hărțuire, obscen, profan, cu specific sexual,
+    inexact, abuziv, vulgar, rasist, de hărțuire, obscen, profan, cu specific sexual, 
 	amenințător, care invadează intimitatea unei persoane, sau altfel interzis
-    de vreo lege în viguare în România sau UE.</p>
-
+    de vreo lege în viguare în România sau UE.</p> 
+	
 	<p>Sunteți de acord să nu postați vreun material protejat de copyright
 	excepția cazului în care dreptul de autor este deținut de către dumneavoastră.</p>
-
+   
    <p>Noi cei de la această comunitate ne rezervăm de asemenea dreptul de a vă divulga identitatea (sau
-    orice informații pe care le știm despre dvs.), STRICT în cazul unei plângeri sau
-	în cazul unei acțiuni juridice care decurge din orice mesaj postat de către dumneavoastră.
-	Noi înregistram prin acest site toate adresele de accesare IP,
-	așa că nu cosiderați că dacă folosiți date false la înregistrare
+    orice informații pe care le știm despre dvs.), STRICT în cazul unei plângeri sau 
+	în cazul unei acțiuni juridice care decurge din orice mesaj postat de către dumneavoastră. 
+	Noi înregistram prin acest site toate adresele de accesare IP, 
+	așa că nu cosiderați că dacă folosiți date false la înregistrare 
 	nu se va dovedi că o persoană a publicat un material ilicit.</p>
-
+   
    <p>Vă rugăm să rețineti că reclamele, scrisorile în lanț, schemele piramidale și
-    solicitările sunt nepotrivite în această comunitate.
+    solicitările sunt nepotrivite în această comunitate. 
 	Reacțiunea noastră va fi de interzicere a accesului IP-lui și utilizatorului respectiv!</p>
-
-   <p>Ne rezervăm dreptul de a elimina orice conținut pentru orice motiv mai sus menționat!
+   
+   <p>Ne rezervăm dreptul de a elimina orice conținut pentru orice motiv mai sus menționat! 
    Ne rezervăm dreptul de a interzice orice membru pentru orice motiv mai sus menționat.
-   Nu stocăm date cu privire la CNP, BI, CI, PAȘAPORT și deasemeni vă rugăm să nu
-   specificați pe acest site asemenea date personale de identificare,
+   Nu stocăm date cu privire la CNP, BI, CI, PAȘAPORT și deasemeni vă rugăm să nu 
+   specificați pe acest site asemenea date personale de identificare, 
    la nimeni și pentru nici un motiv, indiferent care ar fi acesta!</p>
-
+   
    <p>Trebuie să aveți cel putin 18 ani pentru a utiliza acest serviciu.</p>
-
+   
    <p>SUNT TOTAL DE ACCORD CU TERMENII ȘI CONDIȚIILE DE MAI SUS,
-   ȘI CA ATARE VOI RESPECTA ACESTE REGULI NECONDIȚIONAT,
-   ÎN CAZ CONTRAR ÎMI ASUM TOATĂ RESPONSABILITATEA JURIDICĂ
+   ȘI CA ATARE VOI RESPECTA ACESTE REGULI NECONDIȚIONAT, 
+   ÎN CAZ CONTRAR ÎMI ASUM TOATĂ RESPONSABILITATEA JURIDICĂ 
    ASUPRA FAPTELOR MELE CIVILE ȘI/SAU PENALE!</p>
-
+   
 
 ';
 $Definition['Testing'] = 'Testare';
@@ -2004,6 +2011,7 @@ $Definition['Turn ON'] = 'Porniți';
 $Definition['Twitter Connect'] = 'Conectare prin Twitter';
 $Definition['Twitter Settings'] = 'Setări Twitter';
 $Definition['Type'] = 'Tip';
+$Definition['Type...'] = 'Tip...';
 $Definition['Type or paste emails separated by commas.'] = 'Tastați sau lipiți e-mailuri separate prin virgule.';
 $Definition['Type the text:'] = 'Introduceți textul:';
 $Definition['Type what you hear:'] = 'Introduceți ceea ce auziți:';
@@ -2218,6 +2226,7 @@ $Definition['when your answer to a question has been accepted'] = 'când răspun
 $Definition['when your approved to join the group'] = 'când ați aprobat să vă alăturați grupului';
 $Definition['when your group membership requests are approved'] = 'când solicitările dvs. de apartenență la grup sunt aprobate';
 $Definition['when your ideas\' statuses change'] = 'când se schimbă statutul ideilor tale';
+$Definition['when your post has AI suggested answers'] = 'când postarea dvs. are răspunsuri sugerate de AI';
 $Definition['Where'] = 'unde';
 $Definition['Where do you want to announce this discussion?'] = 'Unde doriţi să anunţați această discuţie?';
 $Definition['Who\'s Going'] = 'Cine se duce';
@@ -2388,6 +2397,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'Veți p
 $Definition['You wrote:'] = 'Ați scris:';
 $Definition['yyyy-mm-dd'] = 'aaaa-ll-zz';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} a sugerat răspunsuri: verificați';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} a postat un anunț în <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} a început o nouă discuție <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} anunțuri noi în <strong>{GroupName}</strong>';

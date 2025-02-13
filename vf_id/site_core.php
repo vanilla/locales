@@ -524,7 +524,6 @@ $Definition['Date'] = 'Tanggal';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Tanggal. Selain \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'Tanggal Ditambahkan';
@@ -1031,6 +1030,7 @@ $Definition['Just you!'] = 'Hanya anda!';
 $Definition['Keep me signed in'] = 'Biarkan saya tetap masuk';
 $Definition['Keep User Content'] = 'Pertahankan Konten Pengguna';
 $Definition['Knowledge Bases'] = 'Basis Pengetahuan';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Basis Pengetahuan yang Harus Dikecualikan dari Jawaban AI';
 
 $Definition['Language'] = 'Bahasa';
 $Definition['Languages'] = 'Bahasa';
@@ -1205,10 +1205,12 @@ $Definition['New'] = 'Baru';
 $Definition['new'] = 'baru';
 $Definition['New %s'] = '%s baru';
 $Definition['New Announcement'] = 'Pengumuman Baru';
+$Definition['new announcements'] = 'pengumuman baru';
 $Definition['New answers on my question'] = 'Jawaban baru atas pertanyaan saya';
 $Definition['New Author'] = 'Pengarang Baru';
 $Definition['New badge requests'] = 'Permintaan lencana baru';
 $Definition['New badges'] = 'Lencana baru';
+$Definition['new comments'] = 'komentar baru';
 $Definition['New comments on my activity feed posts'] = 'Komentar baru di postingan umpan aktivitas saya';
 $Definition['New comments on my bookmarked posts'] = 'Komentar baru di posting saya yang di-bookmark';
 $Definition['New comments on my posts'] = 'Komentar baru di postingan saya';
@@ -1222,6 +1224,7 @@ $Definition['New Discussion Topic'] = 'Topik Diskusi Baru';
 $Definition['Newest'] = 'Terbaru';
 $Definition['Newest Members'] = 'Anggota Terbaru';
 $Definition['New Event'] = 'Peristiwa Baru';
+$Definition['new events'] = 'acara baru';
 $Definition['New Folder'] = 'Folder Baru';
 $Definition['New follow-up to my answered questions'] = 'Tindak lanjut baru untuk pertanyaan yang saya jawab';
 $Definition['New Group'] = 'Grup Baru';
@@ -1229,10 +1232,12 @@ $Definition['New Groups'] = 'Grup Baru';
 $Definition['New Icon'] = 'Ikon Baru';
 $Definition['New Idea'] = 'Ide Baru';
 $Definition['New Message'] = 'Pesan Baru';
+$Definition['new or updated events'] = 'acara baru atau yang diperbarui';
 $Definition['New Password'] = 'Password Baru';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Kata sandi baru tidak cocok. Harap konfirmasi ulang kata sandi baru Anda.';
 $Definition['New Poll'] = 'Pemungutan Suara Baru';
 $Definition['New Post'] = 'Postingan Baru';
+$Definition['new posts'] = 'postingan baru';
 $Definition['New posts and comments'] = 'Posting dan komentar baru';
 $Definition['New posts in groups I\'m a member of'] = 'Posting baru di grup yang saya ikuti';
 $Definition['New posts on my profile\'s activity feed'] = 'Posting baru di umpan aktivitas profil saya';
@@ -1281,6 +1286,7 @@ $Definition['Notification Settings Restored'] = 'Pengaturan Notifikasi Dipulihka
 $Definition['Notifications Postmaster'] = 'Notifikasi Postmaster';
 $Definition['Notifictions'] = 'Pemberitahuan';
 $Definition['Notify'] = 'Beritahu';
+$Definition['Notify me of <0/>'] = 'Beritahu saya tentang <0/>';
 $Definition['Notify me of new comment'] = 'Beri tahu saya tentang komentar baru';
 $Definition['Notify me of new comments'] = 'Beri tahu saya tentang komentar baru';
 $Definition['Notify me of new content'] = 'Beri tahu saya tentang konten baru';
@@ -1304,6 +1310,7 @@ $Definition['Notify me when people write on my wall.'] = 'Beritahu saya bila ora
 $Definition['Notify me when there is event activity.'] = 'Kabari saya jika ada aktivitas peristiwa.';
 $Definition['Notify me when there is group activity.'] = 'Kabari saya jika ada aktivitas grup.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Beritahu saya jika status berubah pada ide yang telah saya pilih.';
+$Definition['Notify of <0/>'] = 'Beritahukan tentang <0/>';
 $Definition['Notify of all new discussions.'] = 'Beritahu semua diskusi baru.';
 $Definition['Notify of all new discussions by email.'] = 'Beritahu semua diskusi baru melalui email.';
 $Definition['Notify of all new posts.'] = 'Beritahu semua posting baru.';
@@ -1832,7 +1839,7 @@ ancaman, mengganggu privasi seseorang, atau dengan kata lain melanggar hukum.
 Anda setuju untuk tidak mengirim materi yang dilindungi hak cipta
 kecuali bila hak cipta itu adalah milik anda sendiri.
 
-Kami pada komunitas ini juga memiliki hak untuk mengungkap identitas anda
+Kami pada komunitas ini juga memiliki hak untuk mengungkap identitas anda 
 (atau informasi apapun yang kami ketahui tentang anda) dalam hal adanya pengaduan atau
 pelanggaran hukum akibat pesan-pesan dikirim oleh anda. Kami mencatat semua alamat protokol internet
 yang mengakses situs ini.
@@ -1976,6 +1983,7 @@ $Definition['Turn ON'] = 'Nyalakan';
 $Definition['Twitter Connect'] = 'Hubungkan ke Twitter';
 $Definition['Twitter Settings'] = 'Setelan Twitter';
 $Definition['Type'] = 'Tipe Kondisi';
+$Definition['Type...'] = 'Jenis...';
 $Definition['Type or paste emails separated by commas.'] = 'Ketik atau tempel email yang dipisahkan dengan koma.';
 $Definition['Type the text:'] = 'Ketikkan teksnya:';
 $Definition['Type what you hear:'] = 'Ketikkan apa yang Anda dengar:';
@@ -2189,6 +2197,7 @@ $Definition['when your answer to a question has been accepted'] = 'ketika jawaba
 $Definition['when your approved to join the group'] = 'ketika Anda disetujui untuk bergabung dengan grup';
 $Definition['when your group membership requests are approved'] = 'saat permintaan keanggotaan grup Anda disetujui';
 $Definition['when your ideas\' statuses change'] = 'ketika status ide Anda berubah';
+$Definition['when your post has AI suggested answers'] = 'ketika postingan Anda memiliki jawaban yang disarankan AI';
 $Definition['Where'] = 'Di mana';
 $Definition['Where do you want to announce this discussion?'] = 'Di mana anda ingin umumkan diskusi ini?';
 $Definition['Who\'s Going'] = 'Siapa yang akan pergi?';
@@ -2356,6 +2365,7 @@ $Definition['You will no longer receive the email digest.'] = 'Anda tidak akan l
 $Definition['You will receive a notification when you are accepted.'] = 'Anda akan menerima pemberitahuan saat Anda diterima.';
 $Definition['You wrote:'] = 'Anda menulis:';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} telah menyarankan jawaban: coba lihat';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} memposting pengumuman di <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} memulai diskusi baru <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} pengumuman baru di <strong>{GroupName}</strong>';

@@ -18,7 +18,7 @@ $Definition['AddonProblems'] = '<h2>Probleme?</h2><p>Wenn etwas mit einem Addon 
 $Definition['Alert users if they click external link.'] = 'Warnen Sie Nutzer, wenn sie auf einen Link in einem Beitrag klicken, der sie vom Forum wegführt. Benutzer werden nicht gewarnt, wenn sie Links folgen, die zu einer vertrauenswürdigen Domain passen.';
 $Definition['All categories listed with a selection of 5 recent discussions under each'] = 'Alle Kategorien werden gelistet mit den jeweils fünf neuesten Diskussionen darunter';
 $Definition['Allow links to be transformed'] =
-    'Erlauben Sie die Umwandlung von Links in eingebettete Darstellungen in Diskussionen und Kommentare. So wird beispielsweise ein YouTube-Link in ein integriertes Video umgewandelt.';
+    'Die Umwandlung von Links in eingebettete Darstellungen in Beiträgen und Kommentaren erlauben. Beispielsweise ein YouTube-Link wird in ein eingebettetes Video umgewandelt.';
 $Definition['Allow users with the %s permission to change their own avatars from their profile pages in Vanilla.'] =
     'Erlauben Sie Usern mit der %s-Berechtigung, ihre eigenen Avatare von ihren Profilseiten in Vanilla zu ändern.';
 $Definition['Anonymize IP Addresses'] = "IP-Adressen anonymisieren";
@@ -26,6 +26,7 @@ $Definition['ApplicationHelp'] = 'Applikationen erlauben es Ihnen, große Gruppe
 $Definition['Apply Layout'] = 'Layout anwenden';
 $Definition['Are you sure you\'ve entered the correct database host name? Maybe you mistyped it? The database reported: <code>%s</code>'] = 'Bist du dir sicher, dass du den korrekten Namen des Datenbank-Hosts eingegeben hast? Vielleicht hast du dich vertippt? Die Datenbank antwortete: <code>%s</code>';
 $Definition['Automatically save drafts of unpublished discussions, questions, ideas and comments.'] = 'Speichern Sie automatisch Entwürfe unveröffentlichter Diskussionen, Fragen, Ideen und Kommentare.';
+$Definition['Automatically save drafts of unpublished posts, questions, ideas and comments.'] = 'Entwürfe unveröffentlichter Posts, Fragen, Ideen und Kommentare automatisch speichern.';
 $Definition['Avatars will be scaled down if they exceed this height.'] = 'Avatare werden verkleinert, wenn sie diese Höhe überschreiten.';
 $Definition['Avatars will be scaled down if they exceed this width.'] = 'Avatare werden verkleinert, wenn sie diese Breite überschreiten.';
 $Definition['Avatars will have their thumbnails saved at this size.'] = 'Avatare lassen ihre Thumbnails in dieser Größe speichern.';
@@ -312,6 +313,7 @@ $Definition["Some browsers support a color for the address bar."] = "Einige Brow
 $Definition["This setting loads the page before executing Javascript which can improve your SEO."] = "Bei dieser Einstellung wird die Seite vor der Ausführung von Javascript geladen, was Ihre Suchmaschinenoptimierung verbessern kann.";
 $Definition["**Warning: Enabling this feature may cause Javascript errors on your site.**"] = "**Warnung: Die Aktivierung dieser Funktion kann zu Javascript-Fehlern auf Ihrer Website führen.**";
 $Definition["Remove discussion and categories links from menus. Set discussion and category related pages to return not found page 404."] = "Entfernen Sie Diskussions- und Kategorielinks aus den Menüs. Legen Sie fest, dass Seiten, die sich auf Diskussionen und Kategorien beziehen, die Seite 404 nicht gefunden anzeigen.";
+$Definition["Remove post and categories links from menus. Set post and category related pages to return not found page 404."] = "Links zu Posts und Kategorien aus den Menüs entfernen. Seiten, die mit Posts oder Kategorien verknüpft sind, sollen zur Fehlermeldung „Seite nicht gefunden 404“ führen.";
 
 
 

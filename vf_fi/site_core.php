@@ -534,7 +534,6 @@ $Definition['Date'] = 'Päiväys';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %l:%M%p %Y ';
 $Definition['Date.DefaultDayFormat'] = '%B %e ';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y ';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y ';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Päivämäärä. Oletusarvoisesti \'kk/pv/vvvv\'.';
 $Definition['Date Added'] = 'Lisätty';
@@ -661,7 +660,7 @@ $Definition['EmailHeader'] = 'Hei {User.Name}!
 ';
 $Definition['EmailInvitation'] = 'Hei!
 
-%1$s kutsui sinut mukaan keskustelupalstalle %2$s.
+%1$s kutsui sinut mukaan keskustelupalstalle %2$s. 
 
 Vahvistaaksesi kutsun, siirry allaolevaan osoitteeseen:
 
@@ -674,7 +673,7 @@ $Definition['EmailMembershipApproved'] = 'Hello %1$s,
 You have been approved for membership. Sign in now at the following link:
 
   %2$s
-
+  
 Have a great day!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1053,6 +1052,7 @@ $Definition['Keep me signed in'] = 'Muista minut';
 $Definition['Keep User Content'] = 'Pidä käyttäjän lähettämä sisältö';
 $Definition['Kilobyte'] = 'Kilotavu';
 $Definition['Knowledge Bases'] = 'Tietokannat';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Tekoälyvastausten ulkopuolelle jätettävät tietokannat';
 
 $Definition['Label'] = 'Luokitus';
 $Definition['Language'] = 'Kieli';
@@ -1234,10 +1234,12 @@ $Definition['New'] = 'Uusi';
 $Definition['new'] = 'uusi';
 $Definition['New %s'] = 'Uusi %s';
 $Definition['New Announcement'] = 'Uusi ilmoitus';
+$Definition['new announcements'] = 'uusia ilmoituksia';
 $Definition['New answers on my question'] = 'Uusia vastauksia kysymykseeni';
 $Definition['New Author'] = 'Uusi kirjoittaja';
 $Definition['New badge requests'] = 'Uusia merkkipyyntöjä';
 $Definition['New badges'] = 'Uudet merkit';
+$Definition['new comments'] = 'uusia kommentteja';
 $Definition['New comments on my activity feed posts'] = 'Uusia kommentteja aktiviteettisyötteisiini';
 $Definition['New comments on my bookmarked posts'] = 'Uusia kommentteja kirjanmerkkeihin lisättyihin viesteihini';
 $Definition['New comments on my posts'] = 'Uusia kommentteja viesteihini';
@@ -1251,6 +1253,7 @@ $Definition['New Discussion Topic'] = 'Uusi keskusteluaihe';
 $Definition['Newest'] = 'Uusin';
 $Definition['Newest Members'] = 'Uusimmat jäsenet';
 $Definition['New Event'] = 'Uusi tapahtuma';
+$Definition['new events'] = 'uusia tapahtumia';
 $Definition['New Folder'] = 'Uusi kansio';
 $Definition['New follow-up to my answered questions'] = 'Uusi seuranta vastatuille kysymyksiini';
 $Definition['New Group'] = 'Uusi ryhmä';
@@ -1258,10 +1261,12 @@ $Definition['New Groups'] = 'Uudet ryhmät';
 $Definition['New Icon'] = 'Uusi kuvake';
 $Definition['New Idea'] = 'Uusi idea';
 $Definition['New Message'] = 'Lähetä uusi viesti';
+$Definition['new or updated events'] = 'uusia tai päivitettyjä tapahtumia';
 $Definition['New Password'] = 'Uusi salasana';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Uusi salasana ei täsmää. Vahvista uusi salasanasi.';
 $Definition['New Poll'] = 'Uusi kysely';
 $Definition['New Post'] = 'Uusi julkaisu';
+$Definition['new posts'] = 'uusia viestejä';
 $Definition['New posts and comments'] = 'Uusia postauksia ja kommentteja';
 $Definition['New posts in groups I\'m a member of'] = 'Uusia viestejä ryhmissä, joissa olen jäsen';
 $Definition['New posts on my profile\'s activity feed'] = 'Uusia viestejä profiilini toimintasyötteessä';
@@ -1310,6 +1315,7 @@ $Definition['Notification Settings Restored'] = 'Ilmoitusasetukset palautettu';
 $Definition['Notifications Postmaster'] = 'Ilmoitukset Postmaster';
 $Definition['Notifictions'] = 'Huomatukset';
 $Definition['Notify'] = 'Ilmoitus';
+$Definition['Notify me of <0/>'] = 'Ilmoita minulle <0/>';
 $Definition['Notify me of new comment'] = 'Ilmoita minulle uudesta kommentista';
 $Definition['Notify me of new comments'] = 'Ilmoita minulle uusista kommenteista';
 $Definition['Notify me of new content'] = 'Ilmoita minulle uudesta sisällöstä';
@@ -1333,6 +1339,7 @@ $Definition['Notify me when people write on my wall.'] = 'Lähetä ilmoitus kun 
 $Definition['Notify me when there is event activity.'] = 'Ilmoita minulle muutoksista tapahtumissa.';
 $Definition['Notify me when there is group activity.'] = 'Ilmoita ryhmässä tapahtuneesta toiminnasta.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Ilmoita minulle, kun äänestämäni idean status muuttuu.';
+$Definition['Notify of <0/>'] = 'Ilmoita aiheesta <0/>';
 $Definition['Notify of all new discussions.'] = 'Ilmoita kaikista uusista keskusteluista.';
 $Definition['Notify of all new discussions by email.'] = 'Ilmoita kaikista uusista keskusteluista sähköpostitse.';
 $Definition['Notify of all new posts.'] = 'Ilmoita kaikista uusista viesteistä.';
@@ -1870,19 +1877,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-
+   
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-
+   
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-
+   
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-
+   
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Test'] = 'Testi';
@@ -2017,6 +2024,7 @@ $Definition['Turn ON'] = 'Ota käyttöön';
 $Definition['Twitter Connect'] = 'Yhdistä Twitteriin';
 $Definition['Twitter Settings'] = 'Twitterin asetukset';
 $Definition['Type'] = 'Tyyppi';
+$Definition['Type...'] = 'Tyyppi...';
 $Definition['Type or paste emails separated by commas.'] = 'Kirjoita tai liitä sähköpostit pilkuilla erotettuna.';
 $Definition['Type the text:'] = 'Kirjoita teksti:';
 $Definition['Type what you hear:'] = 'Kirjoita kuulemasi:';
@@ -2230,6 +2238,7 @@ $Definition['when your answer to a question has been accepted'] = 'kun vastaukse
 $Definition['when your approved to join the group'] = 'kun hyväksyt ryhmään liittymisen';
 $Definition['when your group membership requests are approved'] = 'kun ryhmäjäsenyyspyyntösi on hyväksytty';
 $Definition['when your ideas\' statuses change'] = 'kun ideasi tilat muuttuvat';
+$Definition['when your post has AI suggested answers'] = 'kun viestissäsi on tekoälyn ehdottamia vastauksia';
 $Definition['Where'] = 'Missä';
 $Definition['Where do you want to announce this discussion?'] = 'Mihin haluat nostaa tämän keskustelun huomioitaviin?';
 $Definition['Who\'s Going'] = 'Kuka on menossa';
@@ -2400,6 +2409,7 @@ $Definition['yyyy-mm-dd'] = 'vvvv-kk-pp';
 
 $Definition['Zip'] = 'Pakkaa';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} on ehdottanut vastauksia: tutustu';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} julkaisi ilmoituksen ryhmässä <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} aloitti uuden keskustelun <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} uutta ilmoitusta ryhmässä <strong>{GroupName}</strong>';

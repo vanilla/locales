@@ -1,5 +1,7 @@
 <?php
 
+$Definition['"Accept Answer" if a suggestion answers your question.'] = 'اگر پیشنهادی به سؤال شما پاسخ می دهد، «پاسخ را بپذیرید».';
+
 $Definition['%1$s "%2$s" not found.'] = '%1$s "%2$s" یافت نشد.';
 $Definition['%1$s Version %2$s'] = '%1$s نسخه %2$s';
 $Definition['%1$s version %2$s is available.'] = '%1$s نسخه %2$s در دسترس ميباشد.';
@@ -23,6 +25,8 @@ $Definition['(more)'] = '(بيشتر)';
 
 $Definition['1 day'] = '1 روز';
 $Definition['1 hour'] = '1 ساعت';
+$Definition['1 in 5 is recommended for most communities.'] = '1 در 5 برای اکثر جوامع توصیه می شود.';
+$Definition['1 in 20 is recommended for most communities.'] = '1 در 20 برای اکثر جوامع توصیه می شود.';
 $Definition['1 month'] = '1 ماه';
 $Definition['1 month after being sent'] = '1 ماه پس از ارسال';
 $Definition['1 week'] = '1 هفته';
@@ -32,7 +36,9 @@ $Definition['4 hours'] = '4 ساعت';
 $Definition['5 minutes'] = '5 دقيقه';
 $Definition['15 minutes'] = '15 دقيقه';
 
+$Definition['<0 /> will not suggest answers on Q&A posts'] = '<0 /> پاسخ‌هایی را در پست‌های پرسش و پاسخ پیشنهاد نمی‌کند';
 $Definition['<0/> has been <1/>'] = '<0/> <1/> بوده است';
+$Definition['<0/> will suggest answers on Q&A posts'] = '<0/> پاسخ‌هایی را در پست‌های پرسش و پاسخ پیشنهاد می‌کند';
 
 $Definition['[%s] Confirm Your Email Address'] = '[%s] آدرس ايميل خود را تائيد كنيد';
 $Definition['[%s] Invitation'] = '[%s] دعوتنامه';
@@ -47,6 +53,8 @@ $Definition['About Email Digest'] = 'درباره ایمیل خلاصه';
 $Definition['About External Search'] = 'درباره جستجوی خارجی';
 $Definition['About Theme Preview'] = 'درباره پیش نمایش موضوع';
 $Definition['Above Main Content'] = 'بالاي محتواي اصلي';
+$Definition['Accept Answer'] = 'پاسخ را بپذیرید';
+$Definition['Accepted answer pageview ratio representing a deflected case'] = 'نسبت بازدید صفحه پاسخ پذیرفته شده نشان دهنده یک مورد منحرف شده است';
 $Definition['Account Sync Failed'] = 'همگام سازی حساب ناموفق بود';
 $Definition['Action'] = 'عمليات';
 $Definition['Actions and Permissions'] = 'اقدامات و مجوزها';
@@ -67,6 +75,7 @@ $Definition['Add Field'] = 'فیلد را اضافه کنید';
 $Definition['Add Info &amp; Create Account'] = 'افزودن اطلاعات و ايجاد حساب كاربري';
 $Definition['Add information into the from field in email addresses to help with replies (recommended).'] = 'افزودن اطلاعات درون كادر فرم در آدرسهاي ايميل براي كمك به پاسخ ها (توصيه ميشود)';
 $Definition['Adding & Editing Categories'] = 'افزودن و ويرايش دسته بندي ها';
+$Definition['Add Interest'] = 'اضافه کردن علاقه';
 $Definition['Add Item'] = 'افزودن آيتم';
 $Definition['Additional classes'] = 'کلاسهای اضافی';
 $Definition['Addons'] = 'افزونه ها';
@@ -93,6 +102,9 @@ $Definition['Advanced Options'] = 'انتخاب هاي پيشرفته';
 $Definition['Advanced Settings'] = 'تنظيمات پيشرفته';
 $Definition['Advanced settings for embedded community elements'] = 'تنظيمات پيشرفته براي المان هاي درج شده انجمن';
 $Definition['After'] = 'پس از';
+$Definition['AI Suggested Answers'] = 'پاسخ های پیشنهادی هوش مصنوعی';
+$Definition['AI Suggested Answers provides suggested answers based on community posts and linked knowledge bases. You can turn this on or off anytime by visiting your profile preferences.'] = 'پاسخ‌های پیشنهادی هوش مصنوعی پاسخ‌های پیشنهادی را بر اساس پست‌های انجمن و پایگاه‌های دانش مرتبط ارائه می‌دهد. با مراجعه به تنظیمات برگزیده نمایه خود، می‌توانید آن را در هر زمانی روشن یا خاموش کنید.';
+$Definition['AI Suggestions are not enabled'] = 'پیشنهادات هوش مصنوعی فعال نیستند';
 $Definition['Alert users if they click a link in a post that will lead them away from the forum. '] = 'در صورت کلیک روی پیوندی در پستی ، کاربران هشدار می دهند که آنها را از این انجمن دور می کند.';
 $Definition['Alive'] = 'زنده';
 $Definition['All %1$s'] = 'تمام %1$s';
@@ -115,9 +127,12 @@ $Definition['and assign to'] = 'و اختصاص به';
 $Definition['and remove from community'] = 'و از جامعه حذف شود';
 $Definition['and remove role'] = 'و نقش را حذف کنید';
 $Definition['An enabled message will be visible on the site.'] = 'یک پیام فعال در سایت قابل مشاهده خواهد بود.';
+$Definition['An error occurred updating your privacy setting'] = 'هنگام به‌روزرسانی تنظیمات حریم خصوصی شما خطایی روی داد';
 $Definition['An idea has received'] = 'ایده ای دریافت شده است';
 $Definition['Anonymize Analytics Data by Default'] = 'ناشناس کردن داده های تجزیه و تحلیل به صورت پیش فرض';
+$Definition['Answers is not available if you have not accepted cookies.'] = 'اگر کوکی‌ها را نپذیرفته باشید، پاسخ‌ها در دسترس نیست.';
 $Definition['API Label is required'] = 'برچسب API مورد نیاز است';
+$Definition['API Name'] = 'نام API';
 $Definition['API SSO Expand Permission'] = 'گسترش مجوز API SSO';
 $Definition['API Status'] = 'وضعيت API';
 $Definition['A post'] = 'یک پست';
@@ -146,10 +161,16 @@ $Definition['Are you sure you want to delete this badge? This is irreversible an
 $Definition['Are you sure you want to delete this category?'] = 'آيا مطمئن هستيد كه ميخواهيد اين دسته بندي را حذف كنيد؟';
 $Definition['Are you sure you want to restore %s items?'] = 'آيا مطمئن هستيد كه ميخواهيد %s آيتم را بازيابي كنيد؟';
 $Definition['Are you sure you want to restore 1 item?'] = 'آيا مطمئن هستيد كه ميخواهيد 1 آيتم را بازيابي كنيد؟';
+$Definition['Are you sure you want to turn off all AI Suggested Answers? You can undo this in your profile settings at anytime.'] = 'آیا مطمئن هستید که می‌خواهید همه پاسخ‌های پیشنهادی هوش مصنوعی را خاموش کنید؟ هر زمان خواستید می توانید این کار را در تنظیمات نمایه خود لغو کنید.';
 $Definition['Assign/Remove role'] = 'اختصاص/حذف نقش';
 $Definition['Assign role:'] = 'اختصاص نقش:';
 $Definition['Assign to'] = 'اختصاص به';
+$Definition['Assistant Icon'] = 'نماد دستیار';
+$Definition['Assistant Name'] = 'نام دستیار';
+$Definition['Assistant Tone of Voice'] = 'دستیار آهنگ صدا';
 $Definition['At least one visible column is required. Show or add a visible column.'] = 'حداقل یک ستون قابل مشاهده مورد نیاز است. یک ستون قابل مشاهده را نشان دهید یا اضافه کنید.';
+$Definition['A unique display name.'] = 'یک نام نمایشی منحصر به فرد';
+$Definition['A unique label name that cannot be changed once saved.'] = 'یک نام برچسب منحصر به فرد که پس از ذخیره قابل تغییر نیست.';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'يك نسخه آدرس وب دوستانه از نام دسته بندي براي سئوي بهتر.';
 $Definition['A user has been registered'] = 'یک کاربر ثبت شده است';
 $Definition['A user registers or logs in with email domain:'] = 'کاربر با دامنه ایمیل ثبت یا وارد می شود:';
@@ -178,6 +199,7 @@ $Definition['BadgeRecipientsHeading'] = 'آخرين دريافت كنندگان'
 $Definition['BadgeRequestColumnLabel'] = 'درخواست';
 $Definition['Badge Requests'] = 'درخواست هاي مدال';
 $Definition['Badge requests'] = 'درخواست های نشان';
+$Definition['Balanced'] = 'متعادل';
 $Definition['Ban Item'] = 'آيتم';
 $Definition['Ban List'] = 'ليست مسدود شده';
 $Definition['Banner'] = 'بنر';
@@ -209,6 +231,7 @@ $Definition['Cannot build profile information if user is not defined.'] = 'اگ�
 $Definition['Categories &amp; Discussions'] = 'دسته بندي ها و گفتگوها';
 $Definition['Categories are used to organize discussions.'] = 'دسته بندي ها براي كمك به سازماندهي گفتگوهاي كاربران به يك روش بامعنا در انجمن شما مورد استفاده قرار ميگرد.';
 $Definition['Categories Layout'] = 'چيدمان دسته بندي ها';
+$Definition['Categories to Exclude from AI Answers'] = 'دسته بندی هایی که باید از پاسخ های هوش مصنوعی حذف شوند';
 $Definition['Category Following'] = 'دنبال کنندگان دسته ';
 $Definition['Category only'] = 'فقط رده';
 $Definition['Category Page Layout'] = 'چيدمان صفحه دسته بندي';
@@ -255,6 +278,7 @@ $Definition['Comments Matching Criteria Now: <0 />'] = 'نظرات مطابق ب
 $Definition['Comments Page'] = 'صفحه ديدگاه';
 $Definition['Comments per Page'] = 'ديدگاه در هر صفحه';
 $Definition['Comment  Subject'] = 'موضوع ديدگاه';
+$Definition['Community Discussion Categories'] = 'دسته بندی های بحث در جامعه';
 $Definition['Community Member Content'] = 'محتوای اعضای انجمن';
 $Definition['Condition'] = 'حالت';
 $Definition['Condition Expression'] = 'مقدار';
@@ -271,10 +295,13 @@ $Definition['Confirm email addresses'] = 'نياز است كاربران آدر�
 $Definition['Connections'] = 'اتصالات';
 $Definition['Consumer Key'] = 'كليد مصرف كننده';
 $Definition['Consumer Secret'] = 'امنيت مصرف كننده';
+$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the <0/> section of the dashboard.'] = 'برای فعال کردن پیکربندی سایت پرسش و پاسخ با کارکنان Vanilla تماس بگیرید. سپس افزونه پرسش و پاسخ را در بخش <0/> داشبورد فعال کنید.';
+$Definition['Contact Vanilla Staff to get the Q&A site configuration enabled. Then enable the Q&A addon in the Addons section of the dashboard.'] = 'برای فعال کردن پیکربندی سایت پرسش و پاسخ با کارکنان Vanilla تماس بگیرید. سپس افزونه پرسش و پاسخ را در قسمت Addons داشبورد فعال کنید.';
 $Definition['Content Curation'] = 'آموزش محتوا';
 $Definition['Content flagged as spam is stored here for moderator review.'] = 'محتواي نشانه گذاري شده بعنوان هرزنامه جهت بررسي مديريتي در اينجا ذخيره شده اند.';
 $Definition['Content Flagging'] = 'نشانه گذاري محتوا';
 $Definition['Content Security Domains'] = 'دامنه های امنیت محتوا';
+$Definition['Content to Suggest'] = 'مطالب برای پیشنهاد';
 $Definition['Conversation Messages'] = 'پيام هاي گفتگوها';
 $Definition['Conversations'] = 'گفتگوها';
 $Definition['Conversations Setup'] = 'راه اندازي گفتگوها';
@@ -297,6 +324,7 @@ $Definition['Current Authenticator'] = 'اعتبار سنج جاري';
 $Definition['Current File:'] = 'فايل جاري:';
 $Definition['Current Mobile Theme'] = 'تم موبایل فعلی';
 $Definition['Current Theme'] = 'قالب جاري';
+$Definition['Customize AI Persona'] = 'شخصی سازی AI Persona';
 $Definition['Custom Themes'] = 'مضامین سفارشی';
 
 $Definition['Database Structure Upgrades'] = 'ساختار پايگاه داده بروزرساني شد';
@@ -311,6 +339,7 @@ $Definition['Default <0/>'] = 'پیش فرض <0 />';
 $Definition['Default  Category'] = 'دسته بندي پيش فرض';
 $Definition['Default Category Permissions'] = 'مجوزهاي دسته بندي پيش فرض';
 $Definition['Default Followed Categories'] = 'دسته بندی های پیش فرض دنبال شده';
+$Definition['Default Interests Only'] = 'فقط منافع پیش فرض';
 $Definition['Default Locale'] = 'زبان پيش فرض';
 $Definition['Default placeholder'] = 'مکان یاب پیش فرض';
 $Definition['Default Roles'] = 'نقش ها پيش فرض';
@@ -348,11 +377,13 @@ $Definition['Discussions Matching Criteria Now: <0 />'] = 'اکنون معیار
 $Definition['Discussions per Page'] = 'گفتگو در هر صفحه';
 $Definition['Discussion  Subject'] = 'موضوع گفتگو';
 $Definition['Dismissable'] = 'رد کردن';
+$Definition['Dismiss Answer'] = 'رد کردن پاسخ';
 $Definition['Display a searchbox on top of the banner image.'] = 'یک کادر جستجو در بالای تصویر بنر نمایش دهید.';
 $Definition['Display content from followed categories'] = 'نمایش مطالب از دسته های دنبال شده';
 $Definition['Display in dashboard. (not recommended)'] = 'در پيشخوان نمايش داده شود. (توصيه نميشود)';
 $Definition['Display on category page only.'] = 'فقط در صفحه رده نمایش داده شود لیست مباحث اخیر تحت تأثیر قرار نمی گیرد.';
 $Definition['Display Open Cases in Profile Page?'] = 'موارد باز را در صفحه پروفایل نمایش دهید؟';
+$Definition['Display Options'] = 'گزینه های نمایش';
 $Definition['Display records from this category.'] = 'نمایش رکوردهای این دسته';
 $Definition['Display records from this subcommunity'] = 'نمایش سوابق از این انجمن فرعی';
 $Definition['Display records from this subcommunity.'] = 'نمایش رکوردهای این زیرجامعه.';
@@ -371,6 +402,7 @@ $Definition['Edit Category'] = 'ويرايش دسته بندي';
 $Definition['Edit CSS'] = 'ويرايش CSS';
 $Definition['Edit Default Categories'] = 'ویرایش دسته‌های پیش‌فرض';
 $Definition['Edit HTML'] = 'ويرايش HTML';
+$Definition['Edit Interest'] = 'ویرایش علاقه';
 $Definition['Edit Message'] = 'ويرايش پيام';
 $Definition['Edit Role'] = 'ويرايش نقشه';
 $Definition['Edit Rule'] = 'ویرایش قانون';
@@ -415,6 +447,7 @@ $Definition['Enable Product Integration'] = 'ادغام محصول را فعال
 $Definition['Enable Rich Quotes'] = 'فعال کردن نقل قول های تو در تو';
 $Definition['Enable sending notification emails'] = 'ارسال ایمیل های اعلان را فعال کنید';
 $Definition['Enable Tagging'] = 'برچسب زدن را فعال کنید';
+$Definition['Enable this source'] = 'این منبع را فعال کنید';
 $Definition['Enable to get a preview of our new user management dashboard with improved search and new configuration options.'] = 'برای دریافت پیش نمایش داشبورد مدیریت کاربر جدید ما با جستجوی بهبودیافته و گزینه های پیکربندی جدید فعال کنید.';
 $Definition['Enable to only show posts from categories a user follows.'] = 'فعال کنید تا فقط پست‌هایی را از دسته‌هایی که کاربر دنبال می‌کند نشان دهد.';
 $Definition['Enabling a Locale Pack'] = 'فعالسازي يك بسته زبان';
@@ -442,7 +475,11 @@ $Definition['Every %s seconds'] = 'هر %s ثانيه';
 $Definition['Every 1 minute'] = 'هر 1 دقيقه';
 $Definition['Every Page'] = 'همه صفحه';
 $Definition['Everything is ok.'] = 'همه چيز خوب است.';
+$Definition['Excerpt Length'] = 'طول گزیده';
 $Definition['Exclude archived discussions from the discussions list'] = 'كنار گذاشتن گفتگوهاي بايگاني شده از ليست گفتگوها';
+$Definition['Exclude Categories'] = 'دسته بندی ها را حذف کنید';
+$Definition['Exclude Default Interests'] = 'منافع پیش فرض را حذف کنید';
+$Definition['Exclude these from the source'] = 'اینها را از منبع حذف کنید';
 $Definition['Existing members send invitations to new members.'] = 'اعضاي موجود به اعضاي جديد دعوتنامه ارسال كنند.';
 $Definition['Exit'] = 'خروج';
 $Definition['Exit Preview'] = 'خروج از پيش نمايش';
@@ -455,10 +492,14 @@ $Definition['Facebook Settings'] = 'تنظيمات فيس بوك';
 $Definition['Failed to disable the rule'] = 'این قانون غیرفعال نشد';
 $Definition['Failed to load the preview data. Please check your trigger and action values.'] = 'داده های پیش نمایش بارگیری نشد. لطفاً مقادیر محرک و عمل خود را بررسی کنید.';
 $Definition['Failure'] = 'شكست';
+$Definition['Fallback Image'] = 'تصویر بازگشتی';
+$Definition['False'] = 'نادرست';
 $Definition['Favicon'] = 'فاوآيكن';
 $Definition['FaviconBrowse'] = 'مرور براي فاوآيكن جديد درصورتي كه مايل به تغيير آن هستيد:';
 $Definition['FaviconDescription'] = 'مورد علاقه سایت شما در نوار عنوان مرورگر شما نمایان می شود. آن را به طور مناسب کاهش می یابد.';
 $Definition['Featured'] = 'ویژه';
+$Definition['Featured Image'] = 'تصویر ویژه';
+$Definition['Feature is not configured'] = 'ویژگی پیکربندی نشده است';
 $Definition['FileUpload is currently OFF'] = 'FileUpload درحال حاضر خاموش ميباشد';
 $Definition['FileUpload is currently ON'] = 'FileUpload درحال حاضر روشن ميباشد';
 $Definition['Filter'] = 'فیلتر';
@@ -484,6 +525,7 @@ $Definition['Formatting Posts'] = 'قالب بندی پست ها';
 $Definition['Forum Data'] = 'داده های انجمن';
 $Definition['Forum Settings'] = 'تنظيمات انجمن';
 $Definition['Frequency'] = 'تكرار';
+$Definition['Friendly and Personal'] = 'دوستانه و شخصی';
 $Definition['From Email Address'] = 'از آدرس ایمیل';
 $Definition['From Name'] = 'از نام';
 $Definition['Full post in email notifications'] = 'پست کامل در اعلان های ایمیل';
@@ -494,6 +536,7 @@ $Definition['Gave badge to users.'] = 'دادني مدال به كاربران.'
 $Definition['Generate'] = 'توليد';
 $Definition['Generate Client ID and Secret'] = 'توليد شناسه كلاينت و امنيتي';
 $Definition['Generate import SQL only'] = 'فقط SQL وارداتی تولید کنید';
+$Definition['Generating Suggestions. You will be notified when they are ready for you to review.'] = 'ایجاد پیشنهادات زمانی که برای بررسی آماده شدند به شما اطلاع داده می شود.';
 $Definition['Get More Applications'] = 'دريافت اپليكيشن بيشتر';
 $Definition['Get More Plugins'] = 'دريافت پلاگين بيشتر';
 $Definition['Get More Themes'] = 'دريافت قالب بيشتر';
@@ -502,6 +545,7 @@ $Definition['Getting Started with Vanilla'] = 'آغاز بكار با وانيل
 $Definition['give'] = 'دادن مدال';
 $Definition['Give a Badge'] = 'دادن يك مدال';
 $Definition['Given Indexes'] = 'فهرست داده شده';
+$Definition['Greetings. I am your AI Suggestion Assistant, here to assist you in finding relevant articles and posts to answer your queries. Please feel free to ask any questions you may have.'] = 'با سلام. من دستیار پیشنهاد هوش مصنوعی شما هستم، اینجا برای کمک به شما در یافتن مقالات و پست های مرتبط برای پاسخگویی به سوالات شما هستم. لطفا در صورت تمایل هر گونه سوالی که ممکن است داشته باشید بپرسید.';
 $Definition['guest'] = 'مهمان';
 $Definition['Guest roles'] = 'بررسي تمام نقش هاي كه بايد براي كاربران مهمان بكار گرفته شود.';
 
@@ -517,6 +561,7 @@ $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} → {ActivityUse
 $Definition['Heads Up!'] = 'سر بالا!';
 $Definition['Heads up!'] = 'پيام خبري!';
 $Definition['Height'] = 'قد';
+$Definition['Hello there! I am your AI Suggestion Assistant, here to help you find the best articles and posts to answer your questions. Feel free to ask anything, I am here to make your search fun and informative!'] = 'سلام! من دستیار پیشنهاد هوش مصنوعی شما هستم، اینجا برای کمک به شما در یافتن بهترین مقالات و پست‌ها برای پاسخگویی به سوالاتتان هستم. هر چیزی را بپرسید، من اینجا هستم تا جستجوی شما را سرگرم کننده و آموزنده کنم!';
 $Definition['Help &amp; Tutorials'] = 'راهنما و آموزش ها';
 $Definition['Here\'s how to get started:'] = 'چگونه آغاز بكار كنيم :';
 $Definition['Hidden for everything!'] = 'پنهان كردن براي همه چيز!';
@@ -525,6 +570,7 @@ $Definition['Hide discussions from Recent Discussions and Widgets.'] = 'بحث�
 $Definition['Hide Pocket Locations'] = 'پنهان كردن مكان هاي بسته';
 $Definition['Hide signatures for guests'] = 'پنهان كردن امضاء براي كاربران مهمان';
 $Definition['Hide signatures on embedded comments'] = 'پنهان كردن امضاء براي ديدگاه هاي درج شده';
+$Definition['Hide Suggestions'] = 'پنهان کردن پیشنهادات';
 $Definition['History'] = 'تاریخچه';
 $Definition['Homepage'] = 'صفحه اصلي';
 $Definition['Homepage Title'] = 'عنوان صفحه اصلي';
@@ -554,6 +600,9 @@ $Definition['InputFormatter.Notes1'] = 'قالب پیشفرض ویرایشگر �
 $Definition['InputFormatter.Notes2'] = 'ویرایشگر قالب های پست های قدیمی را هنگام ویرایش آنها تشخیص می دهد و قوانین قالب بندی اولیه خود را بارگذاری می کنند. بجز این استثنا، فرمت مطلب انتخاب شده در زیر مقدم است.';
 $Definition['Install Vanilla without a .htaccess file.'] = 'نصب وانيلا بدون فايل htaccess. .';
 $Definition['Integrate Banner Image'] = 'ادغام تصویر بنر';
+$Definition['Interest Name'] = 'نام بهره';
+$Definition['Interests & Suggested Content'] = 'علایق و مطالب پیشنهادی';
+$Definition['Intermediate'] = 'متوسط';
 $Definition['Internaltionalization & Localization'] = 'بين المللي و بومي سازي';
 $Definition['Introducing Vanilla Reactions and Badges'] = 'معرفي مدال ها و واكنش هاي وانيلا';
 $Definition['Introduction'] = 'معرفی';
@@ -569,6 +618,7 @@ $Definition['InvitationMessage'] = 'سلام رفيق!
 $Definition['Invitations per month'] = 'دعوتنامه در هر ماه';
 $Definition['Invitations will expire'] = 'دعوتنامه ها منقضي خواهند شد';
 $Definition['Invited by'] = 'دعوت شده توسط';
+$Definition['It looks like you edited your post. <0/> or <1/>.'] = 'به نظر می رسد شما پست خود را ویرایش کرده اید. <0/> یا <1/>.';
 
 $Definition['JavaScript'] = 'جاوا اسکریپت';
 $Definition['jsConnect Client Libraries'] = 'كتابخانه هاي كلاينت jsConnect';
@@ -581,21 +631,25 @@ $Definition['Keyword Blocker'] = 'مسدود کننده کلید واژه';
 $Definition['Label'] = 'برچسب';
 $Definition['Label is required'] = 'برچسب الزامی است';
 $Definition['Label this Revision'] = 'برچسب اين ويرايش';
+$Definition['Language Style'] = 'سبک زبان';
 $Definition['Large images will be scaled down.'] = 'تصاوير بزرگ به حداكثر عرض %spx و حداكثر ارتفاع %spx كوچك خواهند شد.';
 $Definition['Last Day'] = 'روز آخر';
 $Definition['Last Month'] = 'ماه گذشته';
 $Definition['Last reported'] = 'آخرین گزارش شده';
 $Definition['Last Visit'] = 'آخرين بازديد';
 $Definition['Last Week'] = 'هفته گذشته';
+$Definition['Layman\'s Terms'] = 'شرایط عامیانه';
 $Definition['Layout'] = 'چیدمان';
 $Definition['Learn more'] = 'بیشتر بدانید';
 $Definition['Learn more about HSTS at %s.'] = 'در مورد HSTS در %s بیشتر بدانید.';
 $Definition['Level'] = 'مرحله';
+$Definition['Level of Technical Language'] = 'سطح زبان فنی';
 $Definition['Likes'] = 'لايك ها';
 $Definition['Limit'] = 'حد';
 $Definition['Limits: 60 characters, no breaks.'] = 'محدودیت ها: 60 کاراکتر، بدون وقفه.';
 $Definition['Limit the pocket to one or more roles or permissions.'] = 'محدود كردن بسته ها به يك يا چند نقشه يا مجوز .';
 $Definition['Link Color'] = 'پیوند رنگ';
+$Definition['List of discussion IDs to delete.'] = 'لیست شناسه های بحث برای حذف.';
 $Definition['Locale Key (Folder)'] = 'كليد زبان (پوشه)';
 $Definition['Locale Name'] = 'نام زبان';
 $Definition['Locales'] = 'زبان ها';
@@ -617,10 +671,12 @@ $Definition['Manage Messages'] = 'مديريت پيام ها';
 $Definition['Manage Plugins'] = 'مديريت پلاگين ها';
 $Definition['Manage Roles & Permissions'] = 'مديريت نقش ها و مجوز ها';
 $Definition['Manage Spam'] = 'مديريت هرزنامه';
+$Definition['Manage Suggested Answer Sources'] = 'منابع پاسخ پیشنهادی را مدیریت کنید';
 $Definition['Manage Themes'] = 'مديريت قالب ها';
 $Definition['Manage Users'] = 'مديريت كاربران';
 $Definition['Managing Categories'] = 'مديريت دسته بندي ها';
 $Definition['Manual'] = 'راهنما';
+$Definition['Mark All Suggested Answers as Accepted'] = 'همه پاسخ های پیشنهادی را به عنوان پذیرفته شده علامت گذاری کنید';
 $Definition['Max %s length'] = 'حداكثر طول %s';
 $Definition['Max Age'] = 'حداکثر سن';
 $Definition['Max Avatar Height'] = 'حداکثر ارتفاع آواتار';
@@ -657,7 +713,9 @@ $Definition['moderator'] = 'مجری';
 $Definition['Moderators have permission to edit most content.'] = 'مديران مجوز ويرايش بيشتر محتوا را دارند.';
 $Definition['Modern Layout'] = 'چيدمان مدرن';
 $Definition['Modern non-table-based layout'] = 'چيدمان مدرن برپايه غيرجدولي';
+$Definition['More complex language and may introduce some industry-specific terms, but still understandable to most people.'] = 'زبان پیچیده تر و ممکن است برخی اصطلاحات خاص صنعت را معرفی کند، اما هنوز برای اکثر مردم قابل درک است.';
 $Definition['More information'] = 'اطلاعات بیشتر';
+$Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = 'زبان فنی بیشتر و اصطلاحات خاص صنعت - سطح بالاتری از درک/آشنایی با موضوع را فرض می کند.';
 $Definition['more than %s deep'] = 'بيش از %s لايه';
 $Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'بيشتر بسته ها نبايد در پيشخوان نمايش داده شوند.';
 $Definition['Move discussions in this category to a replacement category.'] = 'انتقال گفتگوهاي در اين دسته بندي به يك دسته بندي جايگزين.';
@@ -666,6 +724,7 @@ $Definition['Move to category:'] = 'انتقال به دسته:';
 $Definition['Multi-select fields will trigger if the user meets ANY of the criteria.'] = 'اگر کاربر هر یک از معیارها را داشته باشد، فیلدهای چند انتخابی فعال می شوند.';
 $Definition['My Invitations'] = 'دعوتنامه هاي من';
 
+$Definition['Name of Interest'] = 'نام مورد علاقه';
 $Definition['Need More Help?'] = 'به راهنماي بيشتري نياز داريد؟';
 $Definition['Never - Users Must Refresh Page'] = 'هرگز – كاربران بايد صفحه را تازه سازي كنند';
 $Definition['Never display on mobile browsers.'] = 'هرگز در مرورگرهاي موبايلي نمايش داده نشود.';
@@ -678,6 +737,7 @@ $Definition['New conversations in the last day'] = 'مكالمه هاي جديد
 $Definition['New conversations in the last week'] = 'مكالمه هاي جديد در هفته گذشته';
 $Definition['New discussions in the last day'] = 'گفتگو هاي جديد در روز گذشته';
 $Definition['New discussions in the last week'] = 'گفتگو هاي جديد در هفته گذشته';
+$Definition['New Icon'] = 'آيكن جديد';
 $Definition['New messages in the last day'] = 'پيام هاي جديد در روز گذشته';
 $Definition['New messages in the last week'] = 'پيام هاي جديد در هفته گذشته';
 $Definition['New User Management'] = 'مدیریت کاربران جدید';
@@ -689,6 +749,7 @@ $Definition['New users in the last week'] = 'كاربران جديد در هفت
 $Definition['No Ban Rules Found'] = 'هیچ قانونی برای ممنوعیت یافت نشد';
 $Definition['No Change'] = 'بدون تغيير';
 $Definition['No drafts.'] = 'بدون پیش نویس.';
+$Definition['No further suggestions.'] = 'هیچ پیشنهاد دیگری وجود ندارد.';
 $Definition['No item options are available for Link display type.'] = 'هیچ گزینه موردی برای نوع نمایش پیوند موجود نیست.';
 $Definition['No Items Selected'] = 'هيچ آيتمي انتخاب نشده است';
 $Definition['No results for %s.'] = 'هيچ نتيجه اي براي <b>%s</b> وجود ندارد.';
@@ -698,6 +759,7 @@ $Definition['Note: Actions will not affect <0 /> that already have the associate
 $Definition['Notes'] = 'يادداشت';
 $Definition['Notifications will appear here.'] = 'اطلاع رساني ها در اينجا نمايش داده ميشود.';
 $Definition['NotifyApplicant'] = 'هنگامي كه شخصي درخواست عضويت ميكند به من اطلاع رساني شود.';
+$Definition['Notify me when my questions have AI Suggested Answers'] = 'وقتی سؤالات من پاسخ‌های پیشنهادی هوش مصنوعی دارند به من اطلاع بده';
 $Definition['Notify me when people comment on a discussion.'] = 'هنگامي كه اشخاص در گفتگو ديدگاه ارسال ميكنند به من اطلاع رساني شود.';
 $Definition['Notify me when people start new discussions.'] = 'هنگامي كه اشخاص گفتگويي را آغاز ميكنند به من اطلاع رساني شود.';
 $Definition['Not Spam'] = 'هرزنامه نيست';
@@ -710,6 +772,7 @@ $Definition['Number of posts'] = 'تعداد پست ها';
 $Definition['On'] = 'روشن';
 $Definition['Only Allow Each User To Post'] = 'هر کاربر چندتا بفرستد؟';
 $Definition['Only display on mobile browsers.'] = 'فقط بر روي مرورگرهاي موبايلي نمايش داه شود.';
+$Definition['Only fields that are single checkbox, single-select dropdown, multi-select dropdown, or numeric dropdown are available. Once fields are selected, they\'ll appear below so you may choose specific answers for each profile field.'] = 'فقط فیلدهایی که چک باکس تک، کشویی تک انتخابی، کشویی چند انتخابی یا کشویی عددی در دسترس هستند. پس از انتخاب فیلدها، در زیر ظاهر می شوند، بنابراین می توانید پاسخ های خاصی را برای هر فیلد نمایه انتخاب کنید.';
 $Definition['Only Show Followed Categories'] = 'فقط دسته بندی های دنبال شده را نمایش دهید';
 $Definition['Only visible to users with roles with permission.'] = 'فقط برای کاربران دارای نقش با مجوز قابل مشاهده است.';
 $Definition['Open cases will only display if the user has a valid Salesforce connection.'] = 'موارد باز فقط در صورتی نمایش داده می شود که کاربر دارای اتصال Salesforce معتبر باشد.';
@@ -727,6 +790,7 @@ $Definition['Outgoing Email Address'] = 'آدرس ايميل خروجي';
 $Definition['Outgoing Emails'] = 'ایمیل های خروجی';
 
 $Definition['Page Color'] = 'رنگ صفحه';
+$Definition['Pageview ratio representing a deflected case'] = 'نسبت نمایش صفحه نشان دهنده یک مورد منحرف شده است';
 $Definition['Page Views'] = 'بازدیدهای صفحه';
 $Definition['Password Minimum Length'] = 'حداقل طول رمز عبور';
 $Definition['Password Options'] = 'انتخاب هاي كلمه عبور';
@@ -761,6 +825,7 @@ $Definition['Preview Colors'] = 'پیش نمایش رنگ';
 $Definition['Private Communities'] = 'جوامع خصوصی';
 $Definition['private conversation(s)'] = 'مکالمه خصوصی';
 $Definition['Private Key'] = 'كليد خصوصي';
+$Definition['Professional'] = 'حرفه ای';
 $Definition['Protocols (ex. https://) and paths (ex. yourdomain.com/some/path) should be omitted.'] = 'پروتکل‌ها (مثلاً https://) و مسیرها (مثلاً yourdomain.com/some/path) باید حذف شوند.';
 $Definition['Provider'] = 'ارائه كننده';
 $Definition['Public Key'] = 'كليد عمومي';
@@ -771,14 +836,18 @@ $Definition['Rank Changes'] = 'تغییرات رتبه';
 $Definition['Ranks'] = 'رتبه';
 $Definition['Re-Register API Key'] = 'ثبت دوباره كليد API';
 $Definition['Reaction Types'] = 'انواع واكنش';
+$Definition['Read more in the documentation'] = 'در مستندات بیشتر بخوانید';
 $Definition['Recalculate Counts'] = 'محاسبه مجدد شمارش';
 $Definition['Recently Active Users'] = 'كاربران اخيراً فعال';
 $Definition['Recently Added'] = 'به تازگی اضافه شده';
 $Definition['Recently Commented'] = 'اخیراً نظر داده شده است';
 $Definition['Recent News'] = 'خبرهاي تازه';
 $Definition['Recipient'] = 'گیرنده';
+$Definition['Recommended dimensions are 400px by 300px or smaller with a similar ratio.'] = 'ابعاد پیشنهادی 400 پیکسل در 300 پیکسل یا کوچکتر با نسبت مشابه است.';
 $Definition['Record Content'] = 'محتوا';
 $Definition['Refresh Comments'] = 'تازه سازي ديدگاه ها';
+$Definition['Regenerate AI Suggestions'] = 'پیشنهادات هوش مصنوعی را بازسازی کنید';
+$Definition['Regenerate Suggestions'] = 'بازآفرینی پیشنهادات';
 $Definition['Register for Membership'] = 'ثبت نام براي عضويت';
 $Definition['Register IP'] = 'ثبت IP';
 $Definition['Register Url'] = 'آدرس وب ثبت نام';
@@ -820,6 +889,7 @@ $Definition['Revert'] = 'برگرداندن';
 $Definition['Revert to Original Version'] = 'به نسخه اصلی برگردید';
 $Definition['Revision Label:'] = 'برچسب نسخه:';
 $Definition['RichEditor.QuoteEnable.Notes'] = 'از گزینه زیر برای فعال کردن نقل قول ها برای ویرایشگر غنی استفاده کنید. فقط در صورتی اعمال خواهد شد که قالب بندی پیش فرض "غنی" باشد.';
+$Definition['ROI Calculation Documentation'] = 'مستندات محاسبه ROI';
 $Definition['Role'] = 'نقشه';
 $Definition['Role Applicants'] = 'متقاضیان نقش';
 $Definition['Role Name'] = 'نام نقشه';
@@ -855,6 +925,7 @@ $Definition['See also'] = 'همچنین ببینید';
 $Definition['See documentation for more information.'] = 'برای اطلاعات بیشتر به مستندات مراجعه کنید.';
 $Definition['See link'] = 'لینک را ببینید';
 $Definition['Select'] = 'انتخاب';
+$Definition['Select a category'] = 'یک دسته را انتخاب کنید';
 $Definition['Selection will affect the item options available.'] = 'انتخاب گزینه های موجود را تحت تأثیر قرار می دهد.';
 $Definition['Select the action that will occur when this rule is triggered.'] = 'اقدامی را که هنگام اجرای این قانون رخ می دهد، انتخاب کنید.';
 $Definition['Select the location of the pocket.'] = 'انتخاب مكان بسته.';
@@ -871,12 +942,16 @@ $Definition['Send users a welcome email.'] = 'ارسال ايميل خوش آم�
 $Definition['sentiment'] = 'احساس';
 $Definition['Sent To'] = 'ارسال شده به';
 $Definition['Separate each word with a semi-colon ";"'] = 'هر کلمه را با یک نیمه مستقل از هم جدا کنید "؛"';
+$Definition['Set this interest as default to suggest following its mapped categories and tags to all users.'] = 'این علاقه را به‌عنوان پیش‌فرض تنظیم کنید تا دنبال کردن دسته‌ها و برچسب‌های نگاشت شده آن را به همه کاربران پیشنهاد دهید.';
 $Definition['Set trigger variable and action variable to generate a rule summary.'] = 'متغیر ماشه و متغیر اقدام را برای ایجاد خلاصه قانون تنظیم کنید.';
 $Definition['Share Image'] = 'اشتراک گذاری تصویر';
 $Definition['Show all categories'] = 'نمایش همه دسته ها';
 $Definition['Show an uploaded image on the Category page.'] = 'هر بحث تصویری بارگذاری شده را در صفحه رده نشان می دهد. این فقط در مورد دسته هایی با "بحث" به عنوان "نمایش به عنوان" اعمال می شود.';
+$Definition['Show Dismissed Suggestions'] = 'نمایش پیشنهادات رد شده';
 $Definition['Show each user a personalized list of ideas they’ve created or upvoted.'] = 'به هر کاربر یک لیست شخصی از ایده هایی که ایجاد کرده یا رای مثبت داده اند نشان دهید.';
+$Definition['Show Original Suggestions'] = 'نمایش پیشنهادات اصلی';
 $Definition['Show Pocket Locations'] = 'نمايش مكان هاي بسته';
+$Definition['Show Suggestions'] = 'نمایش پیشنهادات';
 $Definition['Signatures'] = 'امضاء';
 $Definition['SignedOut'] = 'شما خارج شديد.';
 $Definition['Sign In Url'] = 'آدرس وب ورود به سايت';
@@ -891,6 +966,7 @@ $Definition['SMTP User'] = 'كاربر SMTP';
 $Definition['Social Connect'] = 'رسانه های اجتماعی';
 $Definition['Social Connect Addons'] = 'افزونه های اتصال اجتماعی';
 $Definition['Sort Order'] = 'ترتیب مرتب سازی';
+$Definition['Sources that are selected here will be available to AI Suggested Answers. Add additional sources through Federated Search. <0/>'] = 'منابعی که در اینجا انتخاب شده اند برای پاسخ های پیشنهادی هوش مصنوعی در دسترس خواهند بود. منابع اضافی را از طریق جستجوی فدرال اضافه کنید. <0/>';
 $Definition['Specify one domain per line. Use * for wildcard matches.'] = 'برای هر خط یک دامنه مشخص کنید. از * برای مسابقات Wildcard استفاده کنید.';
 $Definition['Spoof'] = 'غيرواقعي';
 $Definition['SSO Role'] = 'نقش SSO';
@@ -908,11 +984,20 @@ $Definition['Styles and general visual appearance of all emails, including email
 $Definition['Subcommunity'] = 'جامعه فرعی';
 $Definition['Subject Line and Title'] = 'موضوع و عنوان';
 $Definition['subscribers'] = 'مشترکین';
+$Definition['Suggested Answers Options'] = 'گزینه های پاسخ های پیشنهادی';
+$Definition['Suggested Content'] = 'مطالب پیشنهادی';
+$Definition['Suggested Discussion Title'] = 'عنوان بحث پیشنهادی';
+$Definition['Suggested Follows'] = 'دنبال کننده های پیشنهادی';
+$Definition['Suggestions are only visible to you until you accept the answer'] = 'پیشنهادات فقط تا زمانی که پاسخ را قبول نکنید برای شما قابل مشاهده است';
+$Definition['Suggestions may only be generated on questions'] = 'پیشنهادها ممکن است فقط در مورد سؤالات ایجاد شوند';
 $Definition['Summary'] = 'خلاصه';
 
 $Definition['Table Layout'] = 'چيدمان جدولي';
 $Definition['take away'] = 'برداشتن';
+$Definition['Target All Users'] = 'همه کاربران را هدف قرار دهید';
+$Definition['Target Users'] = 'کاربران هدف';
 $Definition['Technical'] = 'فنی';
+$Definition['Technical Jargon'] = 'اصطلاحات فنی';
 $Definition['Tell the editor to reinterpret all old posts as %s.'] = 'به ویرایشگر بگویید همه پست‌های قدیمی را مجدداً به عنوان %s تفسیر کند.';
 $Definition['Templates'] = 'قالب ها';
 $Definition['Temporary (302)'] = 'موقتاً (302)';
@@ -986,16 +1071,19 @@ $Definition['This action cannot be undone.'] = 'اقدام قابل بازگشت
 $Definition['This category has custom permissions.'] = 'اين دسته بندي مجوز سفارشي دارد.';
 $Definition['This category is archived.'] = 'اين دسته بندي بايگاني شده است.';
 $Definition['This connection is in test-mode.'] = 'اتصال در حالت آزمايشي ميباشد.';
+$Definition['This controls how the responses are phrased and spelled.'] = 'این نحوه بیان و املای پاسخ ها را کنترل می کند.';
 $Definition['This Database'] = 'اين پايگاه داده';
 $Definition['This forum is currently set to invitation only mode.'] = 'اين انجمن هم اكنون فقط در حالت دعوتنامه ميباشد.';
 $Definition['This image will appear in this category\'s banner and in category widgets when using the "Image" and/or "Background" style options. Recommended dimensions are about 1000px by 400px or a similar ratio.'] = 'هنگام استفاده از گزینه های سبک "تصویر" و/یا "پس زمینه"، این تصویر در بنر این دسته و در ویجت های دسته ظاهر می شود. ابعاد پیشنهادی حدود 1000 پیکسل در 400 پیکسل یا نسبت مشابه است.';
 $Definition['This image will be used in category lists and widgets when using the "Icon" style option.'] = 'این تصویر در فهرست‌های دسته‌بندی و ویجت‌ها هنگام استفاده از گزینه سبک "Icon" استفاده می‌شود.';
 $Definition['This information will only be shown to users with permission to view internal info'] = 'این اطلاعات فقط به کاربرانی که اجازه مشاهده اطلاعات داخلی را دارند نشان داده می شود';
+$Definition['This is an AI generated summary from the referenced discussion post that might answer the question. The summary is created in a way for it to be used as an accepted answer.'] = 'این خلاصه‌ای است که از پست بحث ارجاع شده توسط هوش مصنوعی ایجاد شده است که ممکن است به این سؤال پاسخ دهد. خلاصه به گونه ای ایجاد شده است که از آن به عنوان پاسخ پذیرفته شده استفاده شود.';
 $Definition['This is a parent category that does not allow discussions.'] = 'اين دسته بندي والد ميباشد كه اجازه گفتگو را نميدهد.';
 $Definition['This is not necessary on most sites except those that are using features like AdSense and Google Tag Manager.'] = 'این در اکثر سایت‌هایی که از ویژگی‌هایی مانند AdSense و Google Tag Manager استفاده می‌کنند ضروری نیست.';
 $Definition['This is private information and will not be shared with other members.'] = 'این اطلاعات خصوصی است و با سایر اعضا به اشتراک گذاشته نخواهد شد.';
 $Definition['This is the first time you\'ve visited the discussion forums.'] = 'اين اولين باري است كه شما از انجمن گفتگو ديدن ميكنيد.';
 $Definition['This may be used to include content such as organization name and address in the email digest.'] = 'این ممکن است برای گنجاندن محتوایی مانند نام و آدرس سازمان در خلاصه ایمیل استفاده شود.';
+$Definition['This name will be shown in the community.'] = 'این نام در انجمن نشان داده خواهد شد.';
 $Definition['This option is to normalize the editor format'] = 'این گزینه برای عادی سازی فرمت ویرایشگر است، اگر پست های قدیمی تر ویرایش شده با فرمت دیگری مانند markdown یا BBCode بارگذاری شوند، این گزینه %s را مجبور می کند.';
 $Definition['This page requires Javascript.'] = 'اين صفحه به جاوااسكريپيت نيازمند است.';
 $Definition['This pocket is an ad.'] = 'اين بسته يك تبليغات است.';
@@ -1004,6 +1092,7 @@ $Definition['This theme cannot be deleted because it is the currently applied th
 $Definition['This theme has additional options.'] = 'اين قالب انتخاب هاي اضافي در صفحه %s دارد.';
 $Definition['This theme has customizable text.'] = 'اين قالب متن دارد كه ميتوانيد آن را سفارشي كنيد.';
 $Definition['This will create a Zoom meeting on behalf of the Zoom integration owner and if you are a registered user, add you as cohost. If you are not a registered Zoom user or not part of the organization that set up the integration, this event may have limited Zoom functionality without the host.'] = 'این یک جلسه Zoom از طرف مالک ادغام Zoom ایجاد می کند و اگر کاربر ثبت شده هستید، شما را به عنوان cohost اضافه می کند. اگر کاربر ثبت‌شده Zoom نیستید یا بخشی از سازمانی نیستید که ادغام را راه‌اندازی کرده است، این رویداد ممکن است عملکرد Zoom را بدون میزبان محدود کند.';
+$Definition['This will guide other users with similar questions to the right answers faster and will display the AI Suggested Answer and link the referenced material for other users to see. Suggestions are only visible to you until you accept the answer.'] = 'این کار سایر کاربران با سوالات مشابه را سریعتر به پاسخ های مناسب راهنمایی می کند و پاسخ پیشنهادی هوش مصنوعی را نمایش می دهد و مطالب ارجاع شده را برای دیدن سایر کاربران پیوند می دهد. پیشنهادات فقط تا زمانی که پاسخ را قبول نکنید برای شما قابل مشاهده است.';
 $Definition['This will not affect any <0 /> right now. It will affect those that meet the criteria in future.'] = 'این در حال حاضر روی هیچ <0 /> تأثیر نمی گذارد. در آینده بر کسانی که معیارها را برآورده می کنند تأثیر می گذارد.';
 $Definition['Threshold'] = 'آستانه';
 $Definition['Thumbnails'] = 'بندانگشتي';
@@ -1021,13 +1110,17 @@ $Definition['Titles'] = 'عنوان';
 $Definition['Token Name'] = 'نام حرف';
 $Definition['Touch Icon'] = 'نماد را لمس کنید';
 $Definition['Trigger'] = 'ماشه';
+$Definition['True'] = 'درست است';
 $Definition['Truncate the initial discussion text to this many words.'] = 'متن بحث اولیه را به این بسیاری از کلمات کوتاه کنید.';
 $Definition['Trusted Domains'] = 'دامنه های مطمئن';
 $Definition['trusted domains'] = 'دامنه های قابل اعتماد';
 $Definition['Turn OFF'] = 'خاموش كردن';
+$Definition['Turn off AI Suggested Answers'] = 'پاسخ های پیشنهادی هوش مصنوعی را خاموش کنید';
+$Definition['Turn off for now'] = 'فعلا خاموش کن';
 $Definition['Twitter Connector'] = 'اتصال توییتر';
 
 $Definition['unconfirmed'] = 'تأیید نشده';
+$Definition['Undo Accept Answer'] = 'لغو پذیرش پاسخ';
 $Definition['Uninvite'] = 'لغو دعوت';
 $Definition['Universal Code'] = 'كد لغو دعوت';
 $Definition['Universal Forum Embed Code'] = 'كد درج عمومي انجمن';
@@ -1037,13 +1130,16 @@ $Definition['Untitled'] = 'بدون عنوان';
 $Definition['Upcoming Events'] = 'رویدادهای آتي';
 $Definition['Upload a placeholder image for catalogue post.'] = 'تصویری مکان نگهدارنده را بارگذاری کنید که وقتی کاربران فاقد تصویری در پست خود هستند ، نمایش داده شود.';
 $Definition['Upload New Email Logo'] = 'آپلود لوگوي جديد ايميل';
+$Definition['Upload New Icon'] = 'آپلود آيكن جديد';
 $Definition['Upload Placeholder Image'] = 'تصویر مکان نگهدار را بارگذاری کنید';
 $Definition['Up to <0 /> ago.'] = 'تا <0 /> قبل.';
 $Definition['Up to a maximum of 100 items may be displayed.'] = 'حداکثر تا 100 مورد ممکن است نمایش داده شود.';
 $Definition['upvote'] = 'رای موافق';
 $Definition['upvotes'] = 'رای موافق';
+$Definition['Use AI Suggestions in Q&A'] = 'از پیشنهادات هوش مصنوعی در پرسش و پاسخ استفاده کنید';
 $Definition['Use an SMTP server to send email'] = 'استفاده از سرويس دهنده SMTP براي ارسال ايميل';
 $Definition['Use asterisks for wildcards'] = 'استفاده از كاراكتر ستاره مثل "*@gmail.com"';
+$Definition['Use British English Spelling'] = 'از املای انگلیسی بریتانیایی استفاده کنید';
 $Definition['Use Categories'] = 'استفاده از دسته بندي ها';
 $Definition['Use categories to organize discussions'] = 'استفاده از دسته بندي ها براي سازماندهي گفتگوها';
 $Definition['Use Facebook names for usernames.'] = 'استفاده از نام هاي فيس بوك براي نام كاربري.';
@@ -1072,6 +1168,9 @@ $Definition['Users will not be warned when following links that match a Trusted 
 $Definition['Users with the no ads permission will not see this pocket.'] = 'كاربران بدون مجوز تبليغات اين بسته را مشاهده نخواهند كرد.';
 $Definition['UserWipe'] = 'محتواي خام كاربر';
 $Definition['UserWipeMessage'] = 'حذف كاربر و جايگزين كردن محتواي كاربر با يك پيام توضيحي كه كاربر حذف شده است. اين روش نشانه هاي بصري ميدهد كه اطلاع از دست رفته اي وجود دارد.';
+$Definition['Uses highly technical language and industry-specific terms intended for those with a deep understanding of subject matter.'] = 'از زبان بسیار فنی و اصطلاحات خاص صنعت استفاده می کند که برای کسانی که درک عمیقی از موضوع دارند در نظر گرفته شده است.';
+$Definition['Uses industry-specific terms where necessary, but also provides explanations of definitions to ensure clarity.'] = 'در صورت لزوم از اصطلاحات خاص صنعت استفاده می کند، اما همچنین برای اطمینان از وضوح، توضیحاتی در مورد تعاریف ارائه می دهد.';
+$Definition['Uses simple, everyday language that anyone can understand, regardless of their background or expertise.'] = 'از زبان ساده و روزمره استفاده می کند که هر کسی بدون در نظر گرفتن پیشینه یا تخصص آنها می تواند آن را بفهمد.';
 $Definition['Use the content at this url as your homepage.'] = 'صفحه اي را كه اشخاص هنگام بازديد از : <strong style="white-space: nowrap;">%s</strong> بايد ببيند را انتخاب كنيد';
 $Definition['Use Vanilla as a commenting system in your site'] = 'استفاده از وانيلا جهت سيستم ارسال ديدگاه در وبسايت خود';
 $Definition['Use weekly community email digest'] = 'از خلاصه هفتگی ایمیل انجمن استفاده کنید';
@@ -1097,15 +1196,19 @@ $Definition['Warning: All of your data will be lost. Once you delete, there is a
 $Definition['Warning: deleting is permanent'] = 'هشدار : آيتم هاي حذف شده از اين ليست پاك شده و نميتوان آنها را برگرداند.';
 $Definition['Warn users if a link in a post will cause them to leave the forum'] = 'اگر پیوندی در یک پست وجود دارد ، کاربران را به آنها اخطار دهید';
 $Definition['Weekly Email Digest '] = 'خلاصه ایمیل هفتگی';
+$Definition['Welcome. I am your AI Suggestion Assistant, a machine learning-based tool designed to locate and suggest relevant articles and posts in response to your queries. Please input your questions and I will provide the most suitable information.'] = 'خوش آمدید. من دستیار پیشنهاد هوش مصنوعی شما هستم، ابزاری مبتنی بر یادگیری ماشینی که برای یافتن و پیشنهاد مقالات و پست‌های مرتبط در پاسخ به سؤالات شما طراحی شده است. لطفا سوالات خود را وارد کنید و من مناسب ترین اطلاعات را ارائه خواهم کرد.';
 $Definition['Welcome to Vanilla!'] = 'به وانيلا خوش آمديد !';
 $Definition['Welcome to your Dashboard'] = 'به پيشخوان خود خوش آمديد';
 $Definition['We only accept urls that begin with http:// or https://'] = 'ما فقط آدرس وبي كه با پيشوند http:// يا https:// آغاز شده را تائيد ميكنيم';
 $Definition['We will attempt to use the local mail server to send email by default. If you want to use a separate SMTP mail server, you can configure it below.'] = 'بصورت پيش فرض ما سعي ميكنيم از سرويس دهنده ايميل محلي جهت ارسال ايميل استفاده كنيم. اگر ميخواهيد از سرويس دهنده ايميل SMTP جداگانه اي استفاده نماييد، از زير ميتوانيد آن را پيكربندي كنيد.';
 $Definition['What\'s the Buzz?'] = 'ديگه چه خبر؟';
 $Definition['When enabled, search result will open in a new browser tab.'] = 'وقتی فعال باشد، نتیجه جستجو در یک برگه مرورگر جدید باز می شود.';
+$Definition['When enabled, your community will have AI Suggestions shown in Q&A. <0/>'] = 'وقتی فعال باشد، انجمن شما پیشنهادات هوش مصنوعی را در پرسش و پاسخ نشان داده خواهد شد. <0/>';
 $Definition['When this setting is enabled, user details in Analytics data will be anonymized by default, until the user consents to Analytics cookies. <0>Learn more</0>'] = 'وقتی این تنظیم فعال باشد، جزئیات کاربر در داده‌های Analytics به‌طور پیش‌فرض ناشناس می‌شوند، تا زمانی که کاربر با کوکی‌های Analytics موافقت کند. <0>بیشتر بیاموزید</0>';
 $Definition['Where is your Community Forum?'] = 'انجمن شما كجاست؟';
 $Definition['Who\'s Online Settings'] = 'تنظيمات كاربران آنلاين';
+$Definition['Why am I seeing AI Suggested Answers?'] = 'چرا پاسخ های پیشنهادی هوش مصنوعی را می بینم؟';
+$Definition['Why am I seeing this?'] = 'چرا من این را می بینم؟';
 $Definition['Why do you want to join?'] = 'چرا ميخواهيد عضو شويد؟';
 $Definition['Will you be attending?'] = 'شرکت می کنید؟';
 $Definition['with'] = 'با';
@@ -1120,6 +1223,7 @@ $Definition['You\'ve reached the maximum login attempts. Please wait %s and try 
 $Definition['You are connected as %s.'] = 'شما بعنوان %s متصل شديد.';
 $Definition['You are leaving the Email Settings page without saving your changes. Make sure your updates are saved before exiting.'] = 'شما در حال ترک صفحه تنظیمات ایمیل بدون ذخیره تغییرات خود هستید. قبل از خروج مطمئن شوید که به روز رسانی های شما ذخیره شده است.';
 $Definition['You are leaving the theme editor without saving your changes. Make sure your updates are saved before exiting.'] = 'شما ویرایشگر موضوع را بدون ذخیره تغییرات خود در حال ترک می کنید. اطمینان حاصل کنید که به روزرسانی های شما قبل از خروج ذخیره شده است.';
+$Definition['You are not allowed to use suggestions'] = 'شما مجاز به استفاده از پیشنهادات نیستید';
 $Definition['You are previewing the %s theme.'] = 'شما در حال پيش نمايش قالب %s هستيد.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'جعبه كنار كاربري كه هرزنامه ارسال كرده را تيك بزنيد تا او را محروم كرده و تمام ارسال هايش را نيز حذف كنيد. <b>فقط درصورتي كه مطمئن هستيد اين كاربر هرزنامه نگار ميباشد اين عمل را انجام دهيد. </b>';
 $Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'اگر شما از انجمن بيرون رفته ايد هميشه ميتوانيد با آدرس ايميل و كلمه عبور وانيلاي خود <a href="%1$s">%1$s</a> وارد سيستم شويد';
@@ -1137,6 +1241,7 @@ $Definition['You can send emails in plain text by disabling the toggle below.'] 
 $Definition['You can specify an allow list of trusted domains.'] = 'می‌توانید فهرستی از دامنه‌های مورد اعتماد را که برای تغییر مسیر و جاسازی امن هستند، مشخص کنید.';
 $Definition['You can specify an allow list of trusted domains. (CSP)'] = 'می‌توانید فهرست مجاز دامنه‌های مورد اعتماد (مثلاً yourdomain.com) را که برای بارگیری جاوا اسکریپت امن هستند، مشخص کنید.';
 $Definition['You have %s invitations left for this month.'] = 'شما %s دعوتنامه براي اين ماه داريد.';
+$Definition['You have successfully saved interest: <0/>'] = 'شما با موفقیت علاقه را ذخیره کردید: <0/>';
 $Definition['You must be authenticated in order to use this form.'] = 'جهت استفاده از اين فرم شما بايد احراز هويت شده باشيد.';
 $Definition['You must manually apply this rank.'] = 'شما بايد اين رتبه را دستي بكاربگيريد.';
 $Definition['You must provide at least one recipient'] = 'شما بايد حداقل يك گيرنده را ارائه كنيد';
@@ -1149,4 +1254,5 @@ $Definition['Your inbox is empty.'] = 'صندوق ورودي شما خالي م�
 $Definition['Your invitations were sent successfully.'] = 'دعوتنامه شما با موفقيت ارسال شد.';
 $Definition['Your Password'] = 'رمز عبور شما';
 
+$Definition['Zendesk Knowledge Bases'] = 'پایگاه های دانش Zendesk';
 $Definition['Zoom Meeting ID or URL'] = 'شناسه یا نشانی وب جلسه بزرگنمایی';

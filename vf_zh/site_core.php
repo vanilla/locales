@@ -536,7 +536,6 @@ $Definition['Date'] = '日期';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%Y 年 %m 月 %d 日';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '期望日期 \'mm/dd/yyyy\'';
 $Definition['Date Added'] = '添加时间';
@@ -676,7 +675,7 @@ $Definition['EmailMembershipApproved'] = '%1$s您好，
 $Definition['EmailNotification'] = '%1$s
 
      点击以下下链接继续：
-
+	
      %2$s';
 $Definition['Email Notifications'] = '电子邮件通知';
 $Definition['Email Or Username'] = '电子邮件地址或用户名';
@@ -694,11 +693,11 @@ $Definition['EmailStoryNotification'] = '%1$s
 
 ---
 请点击下面的链接查看消息:
-
+	
 %2$s
 
 如果此邮件对您造成了影响，请您登录社区，进入个人主页，在通知设置中取消邮件通知的勾选。
-
+	
 祝您开心每一天！';
 $Definition['Email Unavailable'] = '该电子邮件地址已被占用';
 $Definition['Email visible to other users'] = '公开电子邮件地址';
@@ -1056,6 +1055,7 @@ $Definition['Keep me signed in'] = '记住登录状态';
 $Definition['Keep User Content'] = '保留所有用户内容';
 $Definition['Kilobyte'] = '千字节';
 $Definition['Knowledge Bases'] = '知识库';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = '从 AI 答案中排除的知识库';
 
 $Definition['Label'] = '表单标签';
 $Definition['Language'] = '语言';
@@ -1240,10 +1240,12 @@ $Definition['New'] = '新建';
 $Definition['new'] = '新';
 $Definition['New %s'] = '新%s';
 $Definition['New Announcement'] = '新通告';
+$Definition['new announcements'] = '新公告';
 $Definition['New answers on my question'] = '我的问题的新答案';
 $Definition['New Author'] = '新作者';
 $Definition['New badge requests'] = '新徽章请求';
 $Definition['New badges'] = '新徽章';
+$Definition['new comments'] = '新评论';
 $Definition['New comments on my activity feed posts'] = '我的活动提要帖子上有新评论';
 $Definition['New comments on my bookmarked posts'] = '我添加书签的帖子有新评论';
 $Definition['New comments on my posts'] = '我的帖子有新评论';
@@ -1257,6 +1259,7 @@ $Definition['New Discussion Topic'] = '新的讨论主题';
 $Definition['Newest'] = '最新';
 $Definition['Newest Members'] = '最新成员';
 $Definition['New Event'] = '新活动';
+$Definition['new events'] = '新活动';
 $Definition['New Folder'] = '新文件夹';
 $Definition['New follow-up to my answered questions'] = '我回答的问题的新后续行动';
 $Definition['New Group'] = '新群';
@@ -1264,10 +1267,12 @@ $Definition['New Groups'] = '新群';
 $Definition['New Icon'] = '新图标';
 $Definition['New Idea'] = '新的想法';
 $Definition['New Message'] = '发送站内信';
+$Definition['new or updated events'] = '新的或更新的事件';
 $Definition['New Password'] = '新密码';
 $Definition['New password does not match. Please reconfirm your new password.'] = '新密码不匹配。请再次确认您的新密码。';
 $Definition['New Poll'] = '新的投票';
 $Definition['New Post'] = '最新发布';
+$Definition['new posts'] = '新帖';
 $Definition['New posts and comments'] = '新帖子和评论';
 $Definition['New posts in groups I\'m a member of'] = '我所属群组中的新帖子';
 $Definition['New posts on my profile\'s activity feed'] = '我的个人资料活动源上有新帖子';
@@ -1316,6 +1321,7 @@ $Definition['Notification Settings Restored'] = '通知设置已恢复';
 $Definition['Notifications Postmaster'] = '通知邮局局长';
 $Definition['Notifictions'] = '通知';
 $Definition['Notify'] = '通知';
+$Definition['Notify me of <0/>'] = '通知我<0/>';
 $Definition['Notify me of new comment'] = '有新评论时通知我';
 $Definition['Notify me of new comments'] = '有新评论时通知我';
 $Definition['Notify me of new content'] = '有新内容时通知我';
@@ -1339,6 +1345,7 @@ $Definition['Notify me when people write on my wall.'] = '当有人在我的主�
 $Definition['Notify me when there is event activity.'] = '当有事件活动时，请通知我。';
 $Definition['Notify me when there is group activity.'] = '当有群活动时，请通知我。';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = '当我已表决的想法的状态改变的时候通知我。';
+$Definition['Notify of <0/>'] = '通知<0/>';
 $Definition['Notify of all new discussions.'] = '通知所有新的讨论。';
 $Definition['Notify of all new discussions by email.'] = '通过电子邮件通知所有新讨论。';
 $Definition['Notify of all new posts.'] = '通知所有新帖子。';
@@ -1874,7 +1881,7 @@ $Definition['Terabyte'] = '兆字节';
 $Definition['Terms'] = '术语';
 $Definition['TermsOfService'] = '服务条款';
 $Definition['Terms of Service'] = '服务条款';
-$Definition['TermsOfServiceText'] = '
+$Definition['TermsOfServiceText'] = ' 
 服务条款<br>
 当您申请用户时，表示您已经同意遵守本规章。 <br>
 欢迎您加入本站点参加交流和讨论，本站点为公共论坛，为维护网上公共秩序和社会稳定，请您自觉遵守以下条款： <br>
@@ -2028,6 +2035,7 @@ $Definition['Turn ON'] = '启用插件';
 $Definition['Twitter Connect'] = '推特（Twitter）连接';
 $Definition['Twitter Settings'] = 'Twitter 设置';
 $Definition['Type'] = '类型';
+$Definition['Type...'] = '类型...';
 $Definition['Type or paste emails separated by commas.'] = '输入或粘贴以逗号分隔的电子邮件。';
 $Definition['Type the text:'] = '输入文本：';
 $Definition['Type what you hear:'] = '输入您所听到的：';
@@ -2243,6 +2251,7 @@ $Definition['when your answer to a question has been accepted'] = '当您对问�
 $Definition['when your approved to join the group'] = '当您获准加入该群组时';
 $Definition['when your group membership requests are approved'] = '当您的群组成员资格请求获得批准时';
 $Definition['when your ideas\' statuses change'] = '当你的想法的状态发生变化时';
+$Definition['when your post has AI suggested answers'] = '当你的帖子有 AI 建议的答案时';
 $Definition['Where'] = '地点';
 $Definition['Where do you want to announce this discussion?'] = '在哪里置顶这个话题？';
 $Definition['Who\'s Going'] = '谁要去';
@@ -2413,6 +2422,7 @@ $Definition['You will receive a notification when you are accepted.'] = '当您�
 $Definition['You wrote:'] = '您写道：';
 $Definition['yyyy-mm-dd'] = '年-月-日';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} 有建议的答案：请查看';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} 在<strong>{GroupName}</strong>中发布了公告';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} 发起了新讨论<strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '<strong>{GroupName}</strong>中的 {count} 个新公告';

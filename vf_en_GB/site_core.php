@@ -10,7 +10,6 @@ $Definition['customize your profile now'] = 'customise your profile now';
 $Definition['Customize your Public Profile'] = 'Customise your Public Profile';
 
 $Definition['Date.DefaultDateTimeFormat'] = '%e %B %Y %H:%M';
-$Definition['Date.DefaultTimeFormat'] = 'H:i';
 
 $Definition['EmailPassword'] = '%2$s has reset your password at %3$s. Your login credentials are now:
 

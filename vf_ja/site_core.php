@@ -107,6 +107,7 @@ $Definition['%s views'] = '%sビュー';
 $Definition['<0/> views'] = '<0 />ビュー';
 $Definition['%s views html'] = '%sビュー';
 $Definition['%s votes'] = '%sの投票';
+$Definition['%s was %s for this.'] = '%s はこれに対する %s でした。';
 $Definition['%s was removed from the %s and added to the %s'] = '%sは%sから削除され、%sに追加されました';
 $Definition['%s week'] = '%s週';
 $Definition['%s weeks'] = '%s週';
@@ -263,6 +264,7 @@ $Definition['Announce...'] = 'ディスカッションの固定を解除';
 $Definition['Announcement'] = 'お知らせ';
 $Definition['Announcements'] = 'お知らせ';
 $Definition['Announce this discussion'] = 'このディスカッションを発表する';
+$Definition['Announced Posts'] = 'アナウンスされた投稿';
 $Definition['Answer'] = '回答';
 $Definition['answer'] = '答える';
 $Definition['Answered'] = '回答済み';
@@ -485,6 +487,7 @@ $Definition['ConnectWithExistingUser'] = 'この名前のユーザーはすで�
 $Definition['Connect your profile to social networks.'] = 'あなたのプロフィールをソーシャルネットワークにつなげ、友達やフォロワーにアクティビティを共有しましょう。';
 $Definition['Contact Us'] = '連絡する';
 $Definition['Content'] = 'Record Content';
+$Definition['Content from Ignored User.'] = '無視されたユーザーのコンテンツ。';
 $Definition['Continue'] = '続行';
 $Definition['conversation'] = '会話';
 $Definition['Copy'] = 'Copy';
@@ -521,7 +524,7 @@ $Definition['Date'] = 'Applied On';
 $Definition['Date.DefaultDateTimeFormat'] = ' %B %e, %Y %l:%M%p ';
 $Definition['Date.DefaultDayFormat'] = '%m/%d';
 $Definition['Date.DefaultFormat'] = ' %B %e, %Y ';
-$Definition['Date.DefaultTimeFormat'] = 'H:i';
+$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = ' %B %Y ';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '予定日「mm/dd/yyyy」';
 $Definition['Date Added'] = '追加された日時';
@@ -969,6 +972,7 @@ $Definition['Insert Media'] = 'メディアを挿入';
 $Definition['Insightful'] = 'ためになる';
 $Definition['Interested'] = '興味あり';
 $Definition['Internal'] = '内部';
+$Definition['Internal Notes'] = '内部注記事項';
 $Definition['In this Conversation'] = 'この会話の参加者';
 $Definition['Invalid CSRF token.'] = '無効なCSRFトークンです。再度お試しください。';
 $Definition['Invalid Date'] = '無効な日付';
@@ -1074,6 +1078,7 @@ $Definition['Make this poll anonymous (user votes are not made public).'] = 'こ
 $Definition['Male'] = '男性';
 $Definition['Manage All Notifications'] = 'すべての通知を管理する';
 $Definition['Manage Followed Categories'] = 'フォローされているカテゴリの管理';
+$Definition['Manage Followed Content'] = 'フォローしたコンテンツの管理';
 $Definition['Manage your notification preferences'] = '通知の優先度を管理';
 $Definition['My group membership request is approved'] = '私のグループメンバーシップリクエストが承認されました';
 $Definition['Manage Members'] = 'メンバーの管理';
@@ -1114,6 +1119,8 @@ $Definition['Moderation'] = 'モデレーション';
 $Definition['Moderation Queue'] = 'モデレーション・キュー';
 $Definition['Moderator'] = 'モデレータ';
 $Definition['Moderator Activity'] = 'モデレーターのアクティビティ';
+$Definition['Moderator issued a <0/> to <1/>.'] = 'モデレーターが <0/> を <1/> に対して発行しました。';
+$Definition['Moderator Message'] = 'モデレーターのメッセージ';
 $Definition['Moderators'] = 'モデレーター';
 $Definition['moderators'] = 'モデレーター';
 $Definition['Month'] = '月';
@@ -1186,6 +1193,7 @@ $Definition['My Forums'] = 'マイフォーラム';
 $Definition['My Groups'] = '自分のグループ';
 $Definition['My Preferences'] = '個人設定';
 $Definition['My Signature'] = '私の署名';
+$Definition['My Posts'] = 'マイ投稿';
 
 $Definition['n/a'] = '該当なし';
 $Definition['Name'] = '名前';
@@ -1260,6 +1268,7 @@ $Definition['Notification Email'] = '通知メール';
 $Definition['View all followed categories'] = 'フォローされているカテゴリをすべて表示';
 $Definition['View all followed groups'] = 'フォローしているすべてのグループを表示';
 $Definition['View Draft'] = 'ドラフトを表示する';
+$Definition['View Message'] = 'メッセージを見る';
 $Definition['view more'] = 'さらに見る';
 $Definition['View More Posts'] = '投稿をさらに見る';
 $Definition['Notify of <0/>'] = "<0/>を通知する";
@@ -1454,6 +1463,7 @@ $Definition['Posts: %s'] = '投稿：%s';
 $Definition['Post this anonymously'] = 'これを匿名で投稿する';
 $Definition['Post Status'] = '投稿ステイタス';
 $Definition['Post Type'] = '投稿タイプ';
+$Definition['Post Types'] = '投稿タイプ';
 $Definition['Powered by %s'] = '%sにより駆動された';
 $Definition['Powered by Vanilla'] = 'Vanillaにより駆動された';
 $Definition["PPT"] = "PPT";
@@ -1547,6 +1557,7 @@ $Definition['Recent Activity'] = '最近のアクティビティ';
 $Definition['Recent Admin Activity'] = '管理人の最近の活動';
 $Definition['Recent Discussions'] = '最近のディスカッション';
 $Definition['Recent Events'] = '最近のイベント';
+$Definition['Recent Posts'] = '最近の投稿';
 $Definition['recently'] = '最近';
 $Definition['Recently Created'] = '最近作成した内容';
 $Definition['Recent Moderator Activity'] = 'モデレーターの最近の活動';
@@ -1804,6 +1815,7 @@ $Definition['Subject'] = 'タイトル';
 $Definition['Subscriber'] = 'Subscriber';
 $Definition['Success'] = 'Success';
 $Definition['Success!'] = '成功！';
+$Definition['User has been warned.'] = 'ユーザーは警告を受けています。';
 $Definition['Suggested Value'] = '推奨される値';
 $Definition['System'] = 'System';
 
@@ -1834,19 +1846,19 @@ $Definition['TermsOfServiceText'] = '
    嫌がらせ、わいせつ表現、冒涜表現、性的表現、脅迫、プライバシーの侵害、
    あるいは違法な内容は投稿できません。あなた自身が著作権者である場合を除き、
    著作権によって保護された内容は投稿できません。</p>
-
+   
    <p>本コミュニティはまた、あなたの投稿によって法律問題や訴訟が発生した場合、
    個人情報 (あるいは何であれ知り得た情報) を提供する権利を有するものとします。
    本ウェブサイトへのアクセスは、いかなるインターネットプロトコルによるもので
    あれ、記録されます。</p>
-
+   
    <p>広告、チェーンレター、マルチ商法、セールスの勧誘は、本コミュニティにおいて
    不適切な行為とみなされます。</p>
-
+   
    <p>本コミュニティは、理由のいかんに関わらず いかなるコンテンツをも削除する
    権利を有するものとします。また理由のいかんに関わらず いかなる会員資格をも
    停止する権利を有するものとします。</p>
-
+   
    <p>このサービスを利用するには、13 歳以上である必要があります。</p>
 ';
 $Definition['Test'] = 'Test';
@@ -1865,7 +1877,8 @@ $Definition['The connection data has not been verified.'] = '接続データが�
 $Definition['The content you were looking for has been deleted.'] = 'あなたが見ていたコンテンツは削除されました。';
 $Definition['The conversation has been cleared.'] = '会話が消去されました。';
 $Definition['The CSRF token is invalid.'] = 'クロスサイトリクエストフォージェリ（CSRF）トークンは無効です。';
-$Definition['The email digest delivers the week\'s top content from the categories you follow into your email inbox once per week.'] = 'メールダイジェストは、あなたがフォローしているカテゴリーのその週のトップコンテンツを週1回あなたのメールボックスに配信します。';
+$Definition["The email digest delivers the week's top content from the categories you follow into your email inbox once per week."] = "メールダイジェストは、あなたがフォローしているカテゴリーのその週のトップコンテンツを週1回あなたのメールボックスに配信します。";
+$Definition["The email digest delivers the week's top content from the categories and groups you follow into your email inbox once per week."] = "メールダイジェストは、週に一度、あなたがフォローしているカテゴリーやグループのコンテンツのうちその週の人気上位のものをメールで配信します。";
 $Definition['The email you entered is in use by another member.'] = 'あなたが入力したメールはほかのメンバーが使用しています。';
 $Definition['The email you have entered is already related to an existing account.'] = '入力されたメールアドレスは、既存のアカウントで使用済みです。';
 $Definition['The event URL is invalid.'] = 'イベントURLが無効です。';
@@ -1897,6 +1910,7 @@ $Definition['The uploaded file was too big (max %s).'] = 'アップロードさ�
 $Definition['The uploaded file did not have an allowed extension. \nOnly the following extensions are allowed. \n%s.'] = 'アップロードされたファイルの拡張子は許可されていません。
 許可されている拡張子は以下のものだけです。
 %s';
+$Definition['The user has already been warned for this'] = 'このユーザーはすでにこれに対して警告を受けています。';
 $Definition['The user has already been warned for this %s.'] = 'ユーザーはすでにこの %s について通知されています。';
 $Definition['The user isn\'t banned.'] = 'このユーザーはアクセス制限されていないか、他の機能によりアクセスが制限されています。';
 $Definition['they'] = '彼ら';
@@ -1962,12 +1976,14 @@ $Definition['Toggle lights'] = '明るさを切り替える';
 $Definition["Toggle Lists Menu"] = "リストメニューを切り替え";
 $Definition["Toggle Special Formats Menu"] = "スペシャルフォーマットメニューを切り替え";
 $Definition['Top'] = 'トップ';
+$Definition['Top Posts'] = 'トップ投稿';
 $Definition['Topic'] = 'トピック';
 $Definition['Topics'] = 'トピック';
 $Definition['To send another confirmation email click <a href="%s">here</a>.'] = '別の確認メールを送信するには<a href="%s">ここ</a>をクリックしてください。';
 $Definition['To use reCAPTCHA you must get an API key from %s'] = 'reCAPTCHAを使用するには、%sからAPIキーを入手する必要があります';
 $Definition['Transport error: %s'] = 'リクエストを処理中に致命的なエラーが発生しました。<br />サーバーは次のように応答しています: %s';
 $Definition['Trending'] = 'トレンド';
+$Definition['Trending Posts'] = 'トレンドの投稿';
 $Definition['Troll'] = 'スパムユーザー';
 $Definition['Troll.Content'] = '<b>荒らし</b> <ul> <li>このユーザーは荒らしとしてマークされています。</li> <li>このユーザーのコンテンツは、モデレーターと荒らしユーザーのみに表示されています。</li> <li>このメッセージは荒らしユーザーには表示されません。</li> </ul>';
 $Definition['To view full details, sign in.'] = '完全な詳細を表示するには、サインインしてください。';
@@ -2127,8 +2143,12 @@ $Definition['wall'] = 'ウォール';
 $Definition['Want to take part in this discussion? Click one of these:'] = 'このディスカッションに参加しますか? これらの一つをクリックしてください:';
 $Definition['Warn'] = '警告する';
 $Definition['Warn %s'] = '%sに警告する';
+$Definition['warned'] = '警告済み';
 $Definition['Warned for'] = '～のため警告されました';
+$Definition['Warned Post'] = '警告済み投稿';
+$Definition['warning'] = '警告';
 $Definition['Warning'] = '警告';
+$Definition['Warning Type'] = '警告タイプ';
 $Definition['Warning Level %s'] = '警告レベル %s';
 $Definition['Warnings'] = '警告';
 $Definition['WarningTitleFormat'] = ' {Points,plural,%s points} のために {InsertUserID,User} が{WarnUserID,User}に警告しました。 ';
@@ -2482,3 +2502,29 @@ $Definition["Read More"] = "続きを読む";
 $Definition["Hello,\n\nAn account has been created for you at the %s forum.\n\n"] = "こんにちは、\n\n%sフォーラムであなたのためのアカウントが作成されました。\n\n";
 $Definition["To activate your account, please follow this link:\n%s\n\n"] = "アカウントを有効にするには、次のリンクに従ってください：\n%s\n\n";
 $Definition["Please contact us if you have questions regarding this email.\n\nSincerely,\n%s"] = "このメールについてご質問がある場合は、お問い合わせください。\n\nよろしくお願いいたします。\n%s";
+
+// Discussions and comments bulk actions
+$Definition["You don't have the edit permission on the following discussions:"] = "あなたには以下のディスカッションの編集権限がありません：";
+$Definition["Selected discussions are already closed."] = "選択したディスカッションはすでにクローズされています。";
+$Definition["You don't have the close permission on the following discussions:"] = "あなたには以下のディスカッションのクローズ権限がありません：";
+$Definition["You don't have the delete permission on the following discussions:"] = "あなたには以下のディスカッションの削除権限がありません：";
+$Definition["You don't have required permission to warn selected comments."] = "あなたには選択したコメントへ警告するために必要な権限がありません。";
+$Definition["Only one user may be warned at a time."] = "一度に警告できるユーザーは1人だけです。";
+$Definition["Make sure all selected comments are from the same user to proceed with bulk warning."] = "一括警告を続行するには、選択したすべてのコメントが同じユーザーのものであることを確認してください。";
+$Definition["You have selected <0/> comments."] = "<0/>件のコメントを選択しました。";
+$Definition["You don't have required permission to split selected comments."] = "あなたには選択したコメントを分割するために必要な権限がありません。";
+$Definition["You don't have required permission to delete selected comments."] = "あなたには選択したコメントを削除するために必要な権限がありません。";
+$Definition["Post has been split."] = "投稿が分割されました。";
+$Definition["Split Comments into New Post"] = "コメントを新しい投稿に分割";
+$Definition["View New Post"] = "新しい投稿を見る";
+$Definition["Posts have been deleted."] = "投稿は削除されました。";
+$Definition["Delete Posts"] = "投稿を削除";
+$Definition["You are about to delete <0/> posts."] = "あなたは<0/>件の投稿を削除しようとしています。";
+$Definition["These posts will remain in the change log."] = "これらの投稿は変更ログに残ります。";
+$Definition["Are you sure you want to continue?"] = "本当に続けてもよろしいですか？";
+$Definition["Delete Method"] = "削除方法";
+$Definition["Tombstone"] = "墓石";
+$Definition['Hide comment author information and replace comment content with'] = 'コメント執筆者情報を非表示にし、コメント内容を次のものに置き換える：';
+$Definition["This content has been removed."] = "このコンテンツは削除されました。";
+$Definition["Full"] = "フル";
+$Definition["Completely remove the comment and all associated child comments."] = "このコメントおよび関連するすべての子コメントを完全に削除する。";

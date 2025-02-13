@@ -547,7 +547,6 @@ $Definition['Date'] = 'Дата';
 $Definition['Date.DefaultDateTimeFormat'] = '%d.%m.%Y %H:%M';
 $Definition['Date.DefaultDayFormat'] = '%e %b';
 $Definition['Date.DefaultFormat'] = '%d.%m.%Y';
-$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = '
         Требуемый формат даты "мм/дд/гггг".
@@ -669,7 +668,7 @@ $Definition['Edit username'] = 'Изменить имя пользователя
 $Definition['Eighth Anniversary'] = 'Восьмая годовщина';
 $Definition['Email'] = 'Электронная почта';
 $Definition['Email/Username'] = 'Почта или Логин';
-$Definition['EmailConfirmEmail'] = 'Вам необходимо подтвердить Ваш email.
+$Definition['EmailConfirmEmail'] = 'Вам необходимо подтвердить Ваш email. 
 Для подтверждения нажмите на ссылку ниже: {/entry/emailconfirm,exurl,domain}/{User.UserID,rawurlencode}/{EmailKey,rawurlencode}';
 $Definition['Email Digest Preferences Updated'] = 'Настройки дайджеста электронной почты обновлены';
 $Definition['EmailFooter'] = '
@@ -1076,6 +1075,7 @@ $Definition['Keep me signed in'] = 'Запомнить меня!';
 $Definition['Keep User Content'] = 'Сохранить контент пользователя';
 $Definition['Kilobyte'] = 'Килобайт';
 $Definition['Knowledge Bases'] = 'Базы знаний';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Базы знаний, которые следует исключить из ответов ИИ';
 
 $Definition['Label'] = 'Ярлык';
 $Definition['Language'] = 'Язык';
@@ -1269,10 +1269,12 @@ $Definition['New Announcement'] = '
         Новое объявление
 
 ';
+$Definition['new announcements'] = 'новые объявления';
 $Definition['New answers on my question'] = 'Новые ответы на мой вопрос';
 $Definition['New Author'] = 'Новый автор';
 $Definition['New badge requests'] = 'Новые запросы значков';
 $Definition['New badges'] = 'Новые значки';
+$Definition['new comments'] = 'новые комментарии';
 $Definition['New comments on my activity feed posts'] = 'Новые комментарии к моим сообщениям в ленте активности';
 $Definition['New comments on my bookmarked posts'] = 'Новые комментарии к моим закладкам';
 $Definition['New comments on my posts'] = 'Новые комментарии к моим постам';
@@ -1286,6 +1288,7 @@ $Definition['New Discussion Topic'] = 'Тема новой беседы';
 $Definition['Newest'] = 'Новейшие';
 $Definition['Newest Members'] = 'Новые участники';
 $Definition['New Event'] = 'Новое событие';
+$Definition['new events'] = 'новые события';
 $Definition['New Folder'] = 'Новая папка';
 $Definition['New follow-up to my answered questions'] = 'Новое продолжение моих ответов на вопросы';
 $Definition['New Group'] = 'Новая группа';
@@ -1293,10 +1296,12 @@ $Definition['New Groups'] = 'Новые группы';
 $Definition['New Icon'] = 'Новая иконка';
 $Definition['New Idea'] = 'Новая идея';
 $Definition['New Message'] = 'Новое письмо';
+$Definition['new or updated events'] = 'новые или обновленные события';
 $Definition['New Password'] = 'Новый пароль';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Новый пароль не подходит. Пожалуйста, подтвердите новый пароль.';
 $Definition['New Poll'] = 'Новый опрос';
 $Definition['New Post'] = 'Новый пост';
+$Definition['new posts'] = 'новые сообщения';
 $Definition['New posts and comments'] = 'Новые сообщения и комментарии';
 $Definition['New posts in groups I\'m a member of'] = 'Новые сообщения в группах, в которых я состою';
 $Definition['New posts on my profile\'s activity feed'] = 'Новые сообщения в ленте активности моего профиля';
@@ -1354,6 +1359,7 @@ $Definition['Notification Settings Restored'] = 'Настройки уведом
 $Definition['Notifications Postmaster'] = 'Почтмейстер уведомлений';
 $Definition['Notifictions'] = 'Уведомления';
 $Definition['Notify'] = 'Уведомлять';
+$Definition['Notify me of <0/>'] = 'Сообщите мне о <0/>';
 $Definition['Notify me of new comment'] = 'Сообщите мне о новом комментарии';
 $Definition['Notify me of new comments'] = 'Уведомлять меня о новых комментариях';
 $Definition['Notify me of new content'] = 'Уведомлять меня о новом контенте';
@@ -1377,6 +1383,7 @@ $Definition['Notify me when people write on my wall.'] = 'Уведомлять �
 $Definition['Notify me when there is event activity.'] = 'Уведомлять меня об активности в Событии.';
 $Definition['Notify me when there is group activity.'] = 'Уведомить меня об активности Группы.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Сообщать мне об изменении статуса идеи, за которую я голосовал.';
+$Definition['Notify of <0/>'] = 'Уведомить о <0/>';
 $Definition['Notify of all new discussions.'] = 'Уведомлять обо всех новых обсуждениях.';
 $Definition['Notify of all new discussions by email.'] = 'Уведомлять обо всех новых обсуждениях по электронной почте.';
 $Definition['Notify of all new posts.'] = 'Уведомлять обо всех новых сообщениях.';
@@ -2069,6 +2076,7 @@ $Definition['Turn ON'] = 'Включить';
 $Definition['Twitter Connect'] = 'Подключиться к Twitter';
 $Definition['Twitter Settings'] = 'Настройки входа через Twitter';
 $Definition['Type'] = 'Тип';
+$Definition['Type...'] = 'Тип...';
 $Definition['Type or paste emails separated by commas.'] = 'Введите или вставьте электронные письма, разделенные запятыми.';
 $Definition['Type the text:'] = 'Введите текст:';
 $Definition['Type what you hear:'] = 'Введите, то что слышите:';
@@ -2287,6 +2295,7 @@ $Definition['when your answer to a question has been accepted'] = 'когда в
 $Definition['when your approved to join the group'] = 'когда вы одобрили вступление в группу';
 $Definition['when your group membership requests are approved'] = 'когда ваши запросы на членство в группе будут одобрены';
 $Definition['when your ideas\' statuses change'] = 'когда статусы твоих идей меняются';
+$Definition['when your post has AI suggested answers'] = 'когда ваш пост имеет предложенные ИИ ответы';
 $Definition['Where'] = '
         Где
 
@@ -2465,6 +2474,7 @@ $Definition['yyyy-mm-dd'] = 'год-месяц-число';
 
 $Definition['Zip'] = 'Почтовый индекс';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} предложил ответы: проверьте';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} опубликовал объявление в <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} начал новую дискуссию <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} новых объявлений в <strong>{GroupName}</strong>';

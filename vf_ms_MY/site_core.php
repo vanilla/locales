@@ -530,7 +530,6 @@ $Definition['Date'] = 'Tarikh';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Tarikh. Dijangka \'mm/dd/yyyy\'.';
 $Definition['Date Added'] = 'Tarikh Ditambah';
@@ -1032,6 +1031,7 @@ $Definition['Keep me signed in'] = 'Pastikan saya melog masuk';
 $Definition['Keep User Content'] = 'Simpan Kandungan Pengguna';
 $Definition['Kilobyte'] = 'Kilobait';
 $Definition['Knowledge Bases'] = 'Asas Pengetahuan';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Pangkalan Pengetahuan untuk Dikecualikan daripada Jawapan AI';
 
 $Definition['Language'] = 'Bahasa';
 $Definition['Languages'] = 'Bahasa';
@@ -1207,10 +1207,12 @@ $Definition['New'] = 'Baru';
 $Definition['new'] = 'baru';
 $Definition['New %s'] = '%s Baharu';
 $Definition['New Announcement'] = 'Pengumuman Baharu';
+$Definition['new announcements'] = 'pengumuman baru';
 $Definition['New answers on my question'] = 'Jawapan baru pada soalan saya';
 $Definition['New Author'] = 'Pengarang Baru';
 $Definition['New badge requests'] = 'Permintaan lencana baharu';
 $Definition['New badges'] = 'Lencana baharu';
+$Definition['new comments'] = 'komen baru';
 $Definition['New comments on my activity feed posts'] = 'Komen baharu pada siaran suapan aktiviti saya';
 $Definition['New comments on my bookmarked posts'] = 'Komen baharu pada siaran saya yang ditanda halaman';
 $Definition['New comments on my posts'] = 'Komen baharu pada siaran saya';
@@ -1224,6 +1226,7 @@ $Definition['New Discussion Topic'] = 'Topik Perbincangan Baru';
 $Definition['Newest'] = 'Terkini';
 $Definition['Newest Members'] = 'Ahli Terbaru';
 $Definition['New Event'] = 'Peristiwa Baharu';
+$Definition['new events'] = 'peristiwa baru';
 $Definition['New Folder'] = 'Fail baharu';
 $Definition['New follow-up to my answered questions'] = 'Susulan baharu kepada soalan saya yang telah dijawab';
 $Definition['New Group'] = 'Kumpulan Baharu';
@@ -1231,10 +1234,12 @@ $Definition['New Groups'] = 'Kumpulan-kumpulan Baharu';
 $Definition['New Icon'] = 'Ikon Baru';
 $Definition['New Idea'] = 'Idea Baru';
 $Definition['New Message'] = 'Mesej Baru';
+$Definition['new or updated events'] = 'peristiwa baharu atau terkini';
 $Definition['New Password'] = 'Kata Laluan Baharu';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Kata laluan baharu tidak sepadan. Sila sahkan semula kata laluan baharu anda.';
 $Definition['New Poll'] = 'Pungutan Suara Baharu';
 $Definition['New Post'] = 'Jawatan baru';
+$Definition['new posts'] = 'jawatan baru';
 $Definition['New posts and comments'] = 'Catatan dan ulasan baharu';
 $Definition['New posts in groups I\'m a member of'] = 'Siaran baharu dalam kumpulan yang saya sertai';
 $Definition['New posts on my profile\'s activity feed'] = 'Siaran baharu pada suapan aktiviti profil saya';
@@ -1283,6 +1288,7 @@ $Definition['Notification Settings Restored'] = 'Tetapan Pemberitahuan Dipulihka
 $Definition['Notifications Postmaster'] = 'Makluman Postmaster';
 $Definition['Notifictions'] = 'Pemberitahuan';
 $Definition['Notify'] = 'Beritahu';
+$Definition['Notify me of <0/>'] = 'Beritahu saya tentang <0/>';
 $Definition['Notify me of new comment'] = 'Beritahu saya tentang ulasan baharu';
 $Definition['Notify me of new comments'] = 'Beritahu saya tentang ulasan baharu';
 $Definition['Notify me of new content'] = 'Beritahu saya tentang kandungan baharu';
@@ -1306,6 +1312,7 @@ $Definition['Notify me when people write on my wall.'] = 'Maklumkan saya apabila
 $Definition['Notify me when there is event activity.'] = 'Maklumkan saya apabila terdapat aktiviti peristiwa.';
 $Definition['Notify me when there is group activity.'] = 'Maklumkan saya apabila terdapat aktiviti kumpulan.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Beritahu saya apabila status berubah pada idea yang telah saya pilih.';
+$Definition['Notify of <0/>'] = 'Maklumkan tentang <0/>';
 $Definition['Notify of all new discussions.'] = 'Maklumkan semua perbincangan baharu.';
 $Definition['Notify of all new discussions by email.'] = 'Maklumkan semua perbincangan baharu melalui e-mel.';
 $Definition['Notify of all new posts.'] = 'Maklumkan semua siaran baharu.';
@@ -1384,7 +1391,7 @@ $Definition['Password changed successfully.'] = 'Kata laluan berjaya ditukar.';
 $Definition['Password Contains Username'] = 'Mengandungi Nama Pengguna';
 $Definition['Password Good'] = 'Baik';
 $Definition['Password Ok'] = 'Ok';
-$Definition['PasswordRequest'] = 'Seseorang telah meminta untuk menetapkan semula kata laluan anda di %2$s. Untuk menetapkan semula kata laluan anda, ikuti pautan ini:
+$Definition['PasswordRequest'] = 'Seseorang telah meminta untuk menetapkan semula kata laluan anda di %2$s. Untuk menetapkan semula kata laluan anda, ikuti pautan ini: 
 
 %3$s
 
@@ -1828,10 +1835,10 @@ $Definition['Terabyte'] = 'Terabait';
 $Definition['Terms'] = 'Syarat-syarat';
 $Definition['TermsOfService'] = 'Syarat-syarat Perkhidmatan';
 $Definition['Terms of Service'] = 'Syarat-syarat Perkhidmatan';
-$Definition['TermsOfServiceText'] = 'Anda bersetuju, melalui penggunaan perkhidmatan ini, bahawa anda tidak akan menggunakan
+$Definition['TermsOfServiceText'] = 'Anda bersetuju, melalui penggunaan perkhidmatan ini, bahawa anda tidak akan menggunakan 
 komuniti ini untuk mengemukakan apa-apa bahan yang diketahui palsu dan/atau memfitnah,
 tidak tepat, kesat, kasar, penuh dengan kebencian, mengganggu, lucah, tidak senonoh, seksual
-,mengancam, menceroboh privasi seseorang, atau melanggar sebarang undang-undang. Anda bersetuju bahawa anda tidak akan mengemukakan apa-apa bahan yang ada hak cipta kecuali
+,mengancam, menceroboh privasi seseorang, atau melanggar sebarang undang-undang. Anda bersetuju bahawa anda tidak akan mengemukakan apa-apa bahan yang ada hak cipta kecuali 
 anda memiliki hak cipta tersebut. Kami di komuniti ini juga berhak untuk mendedahkan identiti anda (atau apa sahaja maklumat yang kami tahu tentang anda) sekiranya aduan atau tindakan
 undang-undang disebabkan oleh apa-apa mesej yang anda hantar. Kami log semua alamat protokol internet yang mengakses laman web ini. Sila ambil perhatian bahawa iklan, surat berantai, skim piramid, dan pengumpanan adalah tidak sesuai dilakukan untuk komuniti ini.
 Kami mempunyai hak untuk membuang sebarang kandungan untuk apa-apa sebab atau tanpa sebab. Kami berhak untuk menamatkan keahlian untuk apa-apa sebab atau tanpa
@@ -1966,6 +1973,7 @@ $Definition['Turn ON'] = 'Hidupkan';
 $Definition['Twitter Connect'] = 'Sambungan Twitter';
 $Definition['Twitter Settings'] = 'Tetapan Twitter';
 $Definition['Type'] = 'Taip';
+$Definition['Type...'] = 'taip...';
 $Definition['Type or paste emails separated by commas.'] = 'Taip atau tampal e-mel yang dipisahkan dengan koma.';
 $Definition['Type the text:'] = 'Menaip teks:';
 $Definition['Type what you hear:'] = 'Taip apa-apa yang anda dengar:';
@@ -2179,6 +2187,7 @@ $Definition['when your answer to a question has been accepted'] = 'apabila jawap
 $Definition['when your approved to join the group'] = 'apabila anda diluluskan untuk menyertai kumpulan';
 $Definition['when your group membership requests are approved'] = 'apabila permintaan keahlian kumpulan anda diluluskan';
 $Definition['when your ideas\' statuses change'] = 'apabila status idea anda berubah';
+$Definition['when your post has AI suggested answers'] = 'apabila siaran anda mempunyai jawapan yang dicadangkan AI';
 $Definition['Where'] = 'Mana';
 $Definition['Where do you want to announce this discussion?'] = 'Di manakah anda ingin mengumumkan perbincangan ini?';
 $Definition['Who\'s Going'] = 'Siapa yang akan pergi';
@@ -2347,6 +2356,7 @@ $Definition['You will no longer receive the email digest.'] = 'Anda tidak akan m
 $Definition['You will receive a notification when you are accepted.'] = 'Anda akan menerima pemberitahuan apabila anda diterima.';
 $Definition['You wrote:'] = 'Anda telah menulis:';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} telah mencadangkan jawapan: semaknya';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} menyiarkan pengumuman dalam <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} memulakan perbincangan baharu <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} pengumuman baharu dalam <strong>{GroupName}</strong>';

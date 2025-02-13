@@ -511,7 +511,6 @@ $Definition['Date'] = 'Applied On';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Dato. Forventer `mm/dd/yyyy`.';
 $Definition['Date Added'] = 'Dato lagt til';
@@ -626,26 +625,26 @@ $Definition['EmailFooter'] = '
 Ha en super dag!';
 $Definition['EmailHeader'] = 'Hei {User.Name}!
 ';
-$Definition['EmailInvitation'] = 'Hei!
+$Definition['EmailInvitation'] = 'Hei! 
 
-%1$s har invitert deg til å bli med i/på %2$s. Hvis du vil bli med, kan du gjøre det ved å klikke på denne lenken:
+%1$s har invitert deg til å bli med i/på %2$s. Hvis du vil bli med, kan du gjøre det ved å klikke på denne lenken: 
 
 %3$s';
 $Definition['Email Language'] = 'E-postspråk';
-$Definition['EmailMembershipApproved'] = 'Hallo %1$s,
+$Definition['EmailMembershipApproved'] = 'Hallo %1$s, 
 
 Du har blitt godkjent som medlem. Logg deg på nå via følgende lenke:
 
 %2$s';
-$Definition['EmailNotification'] = '%1$s
+$Definition['EmailNotification'] = '%1$s 
 
-Følg lenken under for å ta en titt:
+Følg lenken under for å ta en titt: 
 %2$s
 
 Ha en fin dag!';
 $Definition['Email Notifications'] = 'E-post varsler';
 $Definition['Email Or Username'] = 'E-post eller brukernavn';
-$Definition['EmailPassword'] = '%2$s har endret ditt passord på %3$s. Dine innloggingsreferanser er nå:
+$Definition['EmailPassword'] = '%2$s har endret ditt passord på %3$s. Dine innloggingsreferanser er nå: 
 
 E-post: %6$s
 Passord: %5$s
@@ -1010,6 +1009,7 @@ $Definition['Just you!'] = 'Bare deg!';
 $Definition['Keep me signed in'] = 'Hold meg innlogget';
 $Definition['Keep User Content'] = 'UserKeep';
 $Definition['Knowledge Bases'] = 'Kunnskapsbaser';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Kunnskapsbaser som skal ekskluderes fra AI-svar';
 
 $Definition['Label'] = 'Merke';
 $Definition['Language'] = 'Språkbruk';
@@ -1185,10 +1185,12 @@ $Definition['New'] = 'Ny';
 $Definition['new'] = 'ny';
 $Definition['New %s'] = 'Ny %s';
 $Definition['New Announcement'] = 'Ny beskjed';
+$Definition['new announcements'] = 'nye kunngjøringer';
 $Definition['New answers on my question'] = 'Nye svar på spørsmålet mitt';
 $Definition['New Author'] = 'Ny forfatter ';
 $Definition['New badge requests'] = 'Nye merkeforespørsler';
 $Definition['New badges'] = 'Nye merker';
+$Definition['new comments'] = 'nye kommentarer';
 $Definition['New comments on my activity feed posts'] = 'Nye kommentarer på mine aktivitetsfeedinnlegg';
 $Definition['New comments on my bookmarked posts'] = 'Nye kommentarer på mine bokmerkede innlegg';
 $Definition['New comments on my posts'] = 'Nye kommentarer på innleggene mine';
@@ -1202,6 +1204,7 @@ $Definition['New Discussion Topic'] = 'Nytt diskusjonstema';
 $Definition['Newest'] = 'Nyeste';
 $Definition['Newest Members'] = 'Nyeste medlemmer';
 $Definition['New Event'] = 'Nytt arrangement';
+$Definition['new events'] = 'nye arrangementer';
 $Definition['New Folder'] = 'Ny mappe';
 $Definition['New follow-up to my answered questions'] = 'Ny oppfølging av mine besvarte spørsmål';
 $Definition['New Group'] = 'Ny gruppe';
@@ -1209,10 +1212,12 @@ $Definition['New Groups'] = 'Nye grupper';
 $Definition['New Icon'] = 'Nytt Ikon';
 $Definition['New Idea'] = 'Ny ide';
 $Definition['New Message'] = 'Start en ny samtale';
+$Definition['new or updated events'] = 'nye eller oppdaterte hendelser';
 $Definition['New Password'] = 'Nytt passord';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Nytt passord stemmer ikke. Vennligst bekreft ditt nye passord på nytt.';
 $Definition['New Poll'] = 'Ny poll';
 $Definition['New Post'] = 'Nytt innlegg';
+$Definition['new posts'] = 'nye innlegg';
 $Definition['New posts and comments'] = 'Nye innlegg og kommentarer';
 $Definition['New posts in groups I\'m a member of'] = 'Nye innlegg i grupper jeg er medlem av';
 $Definition['New posts on my profile\'s activity feed'] = 'Nye innlegg på min profils aktivitetsfeed';
@@ -1260,6 +1265,7 @@ $Definition['Notification Settings Restored'] = 'Varslingsinnstillinger gjenoppr
 $Definition['Notifications Postmaster'] = 'Varsler Postmaster';
 $Definition['Notifictions'] = 'Varsler';
 $Definition['Notify'] = 'Varsle';
+$Definition['Notify me of <0/>'] = 'Gi meg beskjed om <0/>';
 $Definition['Notify me of new comment'] = 'Gi meg beskjed om ny kommentar';
 $Definition['Notify me of new comments'] = 'Gi meg beskjed om nye kommentarer';
 $Definition['Notify me of new content'] = 'Varsle meg om nytt innhold';
@@ -1283,6 +1289,7 @@ $Definition['Notify me when people write on my wall.'] = 'Send meg varsel når n
 $Definition['Notify me when there is event activity.'] = 'Varsle meg når det er arrangementsaktivitet. ';
 $Definition['Notify me when there is group activity.'] = 'Varsle meg når det er aktivitet i gruppen. ';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Informer meg når en ide jeg har stemt på endrer status.';
+$Definition['Notify of <0/>'] = 'Varsle om <0/>';
 $Definition['Notify of all new discussions.'] = 'Varsle om alle nye diskusjoner.';
 $Definition['Notify of all new discussions by email.'] = 'Varsle om alle nye diskusjoner via e -post.';
 $Definition['Notify of all new posts.'] = 'Varsle om alle nye innlegg.';
@@ -1357,11 +1364,11 @@ $Definition['Password changed successfully.'] = 'Passordet ble endret.';
 $Definition['Password Contains Username'] = 'Inneholder brukernavn';
 $Definition['Password Good'] = 'Bra';
 $Definition['Password Ok'] = 'OK';
-$Definition['PasswordRequest'] = 'Noen har bedt om å tilbakestille passordet ditt på %2$s. For å tilbakestille passord, følg denne lenken:
+$Definition['PasswordRequest'] = 'Noen har bedt om å tilbakestille passordet ditt på %2$s. For å tilbakestille passord, følg denne lenken: 
 
 %3$s
 
-Hvis du ikke har bedt om dette, se bort fra denne e-posten.
+Hvis du ikke har bedt om dette, se bort fra denne e-posten. 
 
 ';
 $Definition['Passwords don\'t match'] = 'Passordene stemmer ikke overens med hverandre.';
@@ -1799,19 +1806,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-
+   
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-
+   
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-
+   
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-
+   
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Text  Max  Length'] = 'Maksimal lengde på tekst';
@@ -2149,6 +2156,7 @@ $Definition['when your answer to a question has been accepted'] = 'når svaret d
 $Definition['when your approved to join the group'] = 'når du har godkjent å bli med i gruppen';
 $Definition['when your group membership requests are approved'] = 'når forespørslene om gruppemedlemskap er godkjent';
 $Definition['when your ideas\' statuses change'] = 'når statusene til ideene dine endres';
+$Definition['when your post has AI suggested answers'] = 'når innlegget ditt har AI foreslåtte svar';
 $Definition['Where'] = 'Hvor';
 $Definition['Where do you want to announce this discussion?'] = 'Hvor ønsker du å annonsere denne diskusjonen?';
 $Definition['Who\'s Going'] = 'Hvem går';
@@ -2313,6 +2321,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'Du vil 
 $Definition['You wrote:'] = 'Du skrev:';
 $Definition['yyyy-mm-dd'] = 'åååå-mm-dd';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} har foreslått svar: sjekk det ut';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} la ut en kunngjøring i <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} startet en ny diskusjon <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} nye kunngjøringer i <strong>{GroupName}</strong>';

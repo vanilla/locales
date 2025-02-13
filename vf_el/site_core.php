@@ -535,7 +535,6 @@ $Definition['Date'] = 'Ημερομηνία';
 $Definition['Date.DefaultDateTimeFormat'] = '%B %e, %Y %l:%M%p';
 $Definition['Date.DefaultDayFormat'] = '%B %e';
 $Definition['Date.DefaultFormat'] = '%B %e, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'g:iA';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Ημερομηνία. Αναμένεται ‘ηη/μμ/εεεε’.';
 $Definition['Date Added'] = 'Ημερομηνία προσθήκης';
@@ -1054,6 +1053,7 @@ $Definition['Just you!'] = 'Απλά εσείς!';
 $Definition['Keep me signed in'] = 'Κράτησε με συνδεδεμένο';
 $Definition['Keep User Content'] = 'Διατήρηση Περιεχομένων Χρήστη';
 $Definition['Knowledge Bases'] = 'Βάσεις Γνώσης';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Βάσεις γνώσεων που πρέπει να εξαιρεθούν από τις απαντήσεις AI';
 
 $Definition['Label'] = 'Ετικέτα';
 $Definition['Language'] = 'Γλώσσα';
@@ -1236,10 +1236,12 @@ $Definition['New'] = 'Νέο';
 $Definition['new'] = 'νέα';
 $Definition['New %s'] = 'Νέο %s';
 $Definition['New Announcement'] = 'Νέα Ανακοίνωση';
+$Definition['new announcements'] = 'νέες ανακοινώσεις';
 $Definition['New answers on my question'] = 'Νέες απαντήσεις στην ερώτησή μου';
 $Definition['New Author'] = 'Νέος Συγγραφέας';
 $Definition['New badge requests'] = 'Νέα αιτήματα για σήμα';
 $Definition['New badges'] = 'Νέα σήματα';
+$Definition['new comments'] = 'νέα σχόλια';
 $Definition['New comments on my activity feed posts'] = 'Νέα σχόλια στις αναρτήσεις ροής δραστηριοτήτων μου';
 $Definition['New comments on my bookmarked posts'] = 'Νέα σχόλια στις σελιδοδείκτες αναρτήσεις μου';
 $Definition['New comments on my posts'] = 'Νέα σχόλια στις αναρτήσεις μου';
@@ -1253,6 +1255,7 @@ $Definition['New Discussion Topic'] = 'Νέο Θέμα Συζήτησης';
 $Definition['Newest'] = 'Το νεότερο';
 $Definition['Newest Members'] = 'Τα νεότερα μέλη';
 $Definition['New Event'] = 'Νέα Εκδήλωση';
+$Definition['new events'] = 'νέα γεγονότα';
 $Definition['New Folder'] = 'Νέος Φάκελος';
 $Definition['New follow-up to my answered questions'] = 'Νέα συνέχεια στις απαντημένες ερωτήσεις μου';
 $Definition['New Group'] = 'Νέο γκρουπ';
@@ -1260,10 +1263,12 @@ $Definition['New Groups'] = 'Νέες Ομάδες';
 $Definition['New Icon'] = 'Νέο εικονίδιο';
 $Definition['New Idea'] = 'Νέα Ιδέα';
 $Definition['New Message'] = 'Νέο Μήνυμα';
+$Definition['new or updated events'] = 'νέα ή ενημερωμένα συμβάντα';
 $Definition['New Password'] = 'Νέος Κωδικός';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Ο νέος κωδικός πρόσβασης δεν ταιριάζει. Επιβεβαιώστε ξανά τον νέο σας κωδικό πρόσβασης.';
 $Definition['New Poll'] = 'Νέα Ψηφοφορία';
 $Definition['New Post'] = 'Νέα ανάρτηση';
+$Definition['new posts'] = 'νέες αναρτήσεις';
 $Definition['New posts and comments'] = 'Νέες αναρτήσεις και σχόλια';
 $Definition['New posts in groups I\'m a member of'] = 'Νέες δημοσιεύσεις σε ομάδες στις οποίες είμαι μέλος';
 $Definition['New posts on my profile\'s activity feed'] = 'Νέες αναρτήσεις στη ροή δραστηριοτήτων του προφίλ μου';
@@ -1312,6 +1317,7 @@ $Definition['Notification Settings Restored'] = 'Έγινε επαναφορά �
 $Definition['Notifications Postmaster'] = 'Ειδοποιήσεις Postmaster';
 $Definition['Notifictions'] = 'Υπενθυμίσεις';
 $Definition['Notify'] = 'Ειδοποίησε';
+$Definition['Notify me of <0/>'] = 'Ειδοποιήστε με για <0/>';
 $Definition['Notify me of new comment'] = 'Ενημερώστε με για νέο σχόλιο';
 $Definition['Notify me of new comments'] = 'Ενημερώστε με για νέα σχόλια';
 $Definition['Notify me of new content'] = 'Ενημερώστε με για νέο περιεχόμενο';
@@ -1335,6 +1341,7 @@ $Definition['Notify me when people write on my wall.'] = 'Ειδοποίησε �
 $Definition['Notify me when there is event activity.'] = 'Ενημερώστε με αν υπάρξει κάποια δραστηριότητα εκδηλώσεων..';
 $Definition['Notify me when there is group activity.'] = 'Ενημερώστε με αν υπάρξει δραστηριότητα ομάδας.';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Να ειδοποιούμαι όταν αλλάξει η κατάσταση μιας ιδέας την οποία έχω ψηφίσει.';
+$Definition['Notify of <0/>'] = 'Ειδοποίηση για <0/>';
 $Definition['Notify of all new discussions.'] = 'Ειδοποίηση για όλες τις νέες συζητήσεις.';
 $Definition['Notify of all new discussions by email.'] = 'Ειδοποίηση για όλες τις νέες συζητήσεις μέσω email.';
 $Definition['Notify of all new posts.'] = 'Ειδοποίηση για όλες τις νέες αναρτήσεις.';
@@ -1880,19 +1887,19 @@ $Definition['TermsOfServiceText'] = '
    ανακριβές, καταχρηστικό, χυδαίο εχολητικό, άσεμνο, βέβηλο, με ερωτικό
 περιεχόμενο, απειλητικό, που να εισβάλει στην ιδιωτικότητα ενός ατόμου ή γενικά που να παραβιάζει
    κάποιο νόμο. Συμφωνείτε ότι δε θα δημοσιεύσετε υλικό προστατευόμενο εκτός αν σας ανήκουν τα πνευματικά δικαιώματα.</p>
-
+   
    <p>Σε αυτή την κοινότητα διατηρούμε το δικαίωμα να αποκαλύψουμε την ταυτότητά σας (ή
    όποια άλλη πληροφορία γνωρίζουμε για εσάς) σε περίπτωση παραπόνων ή νομικής δράσης
    που πηγάζει από οποιοδήποτε μήνυμα δημοσιεύσατε. Καταγράφουμε όλες τις διευθύνσης πρόσβασης
    σε αυτό το χώρο.</p>
-
+   
    <p>Σημειώστε ότι οι διαφημίσεις, η αλυσιδωτή αλληλογραφία, τα σχήματα πυραμίδας, και η
    εύρεση πελατών δεν επιτρέπεται σε αυτή την κοινότητα.</p>
-
+   
    <p>Διατηρούμε το δικαίωμα να αφαιρέσουμε οποιοδήποτε περιεχόμενο για οποιονδήποτε λόγο ή και χωρίς κανέναν
    λόγο. Διατηρούμε τη δυνατότητα να διακόψουμε την πρόσβαση για οποιονδήποτε λόγο και και χωρίς κανένα
    λόγο απολύτως.</p>
-
+   
    <p>Πρέπει να είστε τουλάχιστον 13 ετών για να χρησιμοποιήσετε αυτή την υπηρεσία.</p>
 ';
 $Definition['Test'] = 'Δοκιμή';
@@ -2029,6 +2036,7 @@ $Definition['Turn ON'] = 'Ενεργοποίηση';
 $Definition['Twitter Connect'] = 'Σύνδεση στο Twitter ';
 $Definition['Twitter Settings'] = 'Ρυθμίσεις Twitter';
 $Definition['Type'] = 'Τύπος';
+$Definition['Type...'] = 'Τύπος...';
 $Definition['Type or paste emails separated by commas.'] = 'Πληκτρολογήστε ή επικολλήστε μηνύματα ηλεκτρονικού ταχυδρομείου διαχωρισμένα με κόμματα.';
 $Definition['Type the text:'] = 'Πληκτρολογήστε το κείμενο:';
 $Definition['Type what you hear:'] = 'Πληκτρολογήστε ό,τι ακούτε:';
@@ -2244,6 +2252,7 @@ $Definition['when your answer to a question has been accepted'] = 'όταν η �
 $Definition['when your approved to join the group'] = 'όταν εγκρίνετε να συμμετάσχετε στην ομάδα';
 $Definition['when your group membership requests are approved'] = 'όταν εγκριθούν τα αιτήματα μέλους της ομάδας σας';
 $Definition['when your ideas\' statuses change'] = 'όταν αλλάζουν οι καταστάσεις των ιδεών σας';
+$Definition['when your post has AI suggested answers'] = 'όταν η ανάρτησή σας έχει απαντήσεις που προτείνει η τεχνητή νοημοσύνη';
 $Definition['Where'] = 'Πού';
 $Definition['Where do you want to announce this discussion?'] = 'Θέλετε να ανακοινώσετε αυτή τη συζήτηση;';
 $Definition['Who\'s Going'] = 'Ποιος πάει';
@@ -2415,6 +2424,7 @@ $Definition['yyyy-mm-dd'] = 'χχχχ-μμ-ηη';
 
 $Definition['Zip'] = 'Ταχ. Κωδικας';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = 'Ο χρήστης {ActivityUserID,User} έχει προτείνει απαντήσεις: ελέγξτε το';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = 'Ο χρήστης {ActivityUserID,user} δημοσίευσε μια ανακοίνωση στο <strong>{GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = 'Ο χρήστης {ActivityUserID,user} ξεκίνησε μια νέα συζήτηση <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} νέες ανακοινώσεις στο <strong>{GroupName}</strong>';

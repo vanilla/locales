@@ -523,7 +523,6 @@ $Definition['Date'] = 'Дата';
 $Definition['Date.DefaultDateTimeFormat'] = '%e %B, %Y %H:%M';
 $Definition['Date.DefaultDayFormat'] = '%e %B';
 $Definition['Date.DefaultFormat'] = '%e %B, %Y';
-$Definition['Date.DefaultTimeFormat'] = 'H:i';
 $Definition['Date.DefaultYearFormat'] = '%B %Y';
 $Definition['Date. Expects \'mm/dd/yyyy\'.'] = 'Дата. Очікує \'мм/дд/рррр\'.';
 $Definition['Date Added'] = 'Дату додано';
@@ -657,7 +656,7 @@ $Definition['EmailMembershipApproved'] = 'Доброго дня, %1$s,
 Ваша реєстрація була затверджена! Щоб увійти на сайт, пройдіть за посиланням:
 
   %2$s
-
+  
 Приємного дня!';
 $Definition['EmailNotification'] = '%1$s
 
@@ -1040,6 +1039,7 @@ $Definition['Keep me signed in'] = 'запамятати мене';
 $Definition['Keep User Content'] = 'Залишити контент користувача';
 $Definition['Kilobyte'] = 'Кілобайт';
 $Definition['Knowledge Bases'] = 'Бази знань';
+$Definition['Knowledge Bases to Exclude from AI Answers'] = 'Бази знань, які слід виключити з відповідей AI';
 
 $Definition['Label'] = 'Лейбл';
 $Definition['Language'] = 'Мова';
@@ -1220,10 +1220,12 @@ $Definition['New'] = 'Нове';
 $Definition['new'] = 'нове';
 $Definition['New %s'] = 'Новий %s';
 $Definition['New Announcement'] = 'Нове Оголошення';
+$Definition['new announcements'] = 'нові оголошення';
 $Definition['New answers on my question'] = 'Нові відповіді на моє запитання';
 $Definition['New Author'] = 'Новий автор';
 $Definition['New badge requests'] = 'Запити на нові значки';
 $Definition['New badges'] = 'Нові значки';
+$Definition['new comments'] = 'нові коментарі';
 $Definition['New comments on my activity feed posts'] = 'Нові коментарі до моїх публікацій у стрічці активності';
 $Definition['New comments on my bookmarked posts'] = 'Нові коментарі до моїх публікацій із закладками';
 $Definition['New comments on my posts'] = 'Нові коментарі до моїх публікацій';
@@ -1237,6 +1239,7 @@ $Definition['New Discussion Topic'] = 'Тема нового обговорен�
 $Definition['Newest'] = 'Найсвіжіші';
 $Definition['Newest Members'] = 'Нові учасники';
 $Definition['New Event'] = 'Нова Подія';
+$Definition['new events'] = 'нові події';
 $Definition['New Folder'] = 'Нова Папка';
 $Definition['New follow-up to my answered questions'] = 'Нове продовження моїх запитань';
 $Definition['New Group'] = 'Нова група';
@@ -1244,10 +1247,12 @@ $Definition['New Groups'] = 'Групи';
 $Definition['New Icon'] = 'Нове зображення';
 $Definition['New Idea'] = 'Нова ідея';
 $Definition['New Message'] = 'Нове Повідомлення';
+$Definition['new or updated events'] = 'нові або оновлені події';
 $Definition['New Password'] = 'Новий пароль';
 $Definition['New password does not match. Please reconfirm your new password.'] = 'Новий пароль не збігається. Будь ласка, підтвердьте свій новий пароль.';
 $Definition['New Poll'] = 'Нове голосування';
 $Definition['New Post'] = 'Новий допис';
+$Definition['new posts'] = 'нові пости';
 $Definition['New posts and comments'] = 'Нові пости та коментарі';
 $Definition['New posts in groups I\'m a member of'] = 'Нові публікації в групах, учасником яких я є';
 $Definition['New posts on my profile\'s activity feed'] = 'Нові публікації в стрічці активності мого профілю';
@@ -1296,6 +1301,7 @@ $Definition['Notification Settings Restored'] = 'Налаштування спо
 $Definition['Notifications Postmaster'] = 'Повідомлення Postmaster';
 $Definition['Notifictions'] = 'Сповіщення';
 $Definition['Notify'] = 'Повідомлення';
+$Definition['Notify me of <0/>'] = 'Повідомити мене про <0/>';
 $Definition['Notify me of new comment'] = 'Повідомити мене про новий коментар';
 $Definition['Notify me of new comments'] = 'Повідомляти мене про нові коментарі';
 $Definition['Notify me of new content'] = 'Повідомляти мене про новий вміст';
@@ -1319,6 +1325,7 @@ $Definition['Notify me when people write on my wall.'] = 'Повідомляти
 $Definition['Notify me when there is event activity.'] = 'Повідомити мені, коли буде активність у події.';
 $Definition['Notify me when there is group activity.'] = 'Повідомити мені про активність групи';
 $Definition['Notify me when the status changes on an idea I\'ve voted on.'] = 'Повідомте мене, коли зміниться статус ідеї, за яку я проголосував.';
+$Definition['Notify of <0/>'] = 'Повідомити про <0/>';
 $Definition['Notify of all new discussions.'] = 'Повідомляти про всі нові обговорення.';
 $Definition['Notify of all new discussions by email.'] = 'Повідомляти про всі нові обговорення електронною поштою.';
 $Definition['Notify of all new posts.'] = 'Повідомляти про всі нові повідомлення.';
@@ -1398,7 +1405,7 @@ $Definition['Password changed successfully.'] = 'Пароль успішно з�
 $Definition['Password Contains Username'] = 'Містить ім\'я користувача';
 $Definition['Password Good'] = 'Хороший';
 $Definition['Password Ok'] = 'Добре';
-$Definition['PasswordRequest'] = 'Хтось запросив зміну паролю  на %2$s. Щоб скинути пароль, перейдіть за цим посиланням:
+$Definition['PasswordRequest'] = 'Хтось запросив зміну паролю  на %2$s. Щоб скинути пароль, перейдіть за цим посиланням: 
 
 %3$s
 
@@ -1986,6 +1993,7 @@ $Definition['Turn ON'] = 'Увімкнути';
 $Definition['Twitter Connect'] = 'Зв\'язок з Твіттером';
 $Definition['Twitter Settings'] = 'Налаштування Twitter';
 $Definition['Type'] = 'Тип';
+$Definition['Type...'] = 'Тип...';
 $Definition['Type or paste emails separated by commas.'] = 'Введіть або вставте електронні листи, розділені комами.';
 $Definition['Type the text:'] = 'Введіть текст:';
 $Definition['Type what you hear:'] = 'Запишіть, що ви чуєте:';
@@ -2200,6 +2208,7 @@ $Definition['when your answer to a question has been accepted'] = 'коли ва
 $Definition['when your approved to join the group'] = 'коли ви схвалили приєднатися до групи';
 $Definition['when your group membership requests are approved'] = 'коли ваші запити на членство в групі буде схвалено';
 $Definition['when your ideas\' statuses change'] = 'коли зміниться статус ваших ідей';
+$Definition['when your post has AI suggested answers'] = 'коли ваш допис пропонує відповіді, запропоновані ШІ';
 $Definition['Where'] = 'Де';
 $Definition['Where do you want to announce this discussion?'] = 'Де ви хочете, щоб розпочати це обговорення?';
 $Definition['Who\'s Going'] = 'Хто йде';
@@ -2368,6 +2377,7 @@ $Definition['You will receive a notification when you are accepted.'] = 'Ви о
 $Definition['You wrote:'] = 'Ви написали:';
 $Definition['yyyy-mm-dd'] = 'рррр-мм-дд';
 
+$Definition['{ActivityUserID,User} has suggested answers: check it out'] = '{ActivityUserID,User} запропонував відповіді: перевірте';
 $Definition['{ActivityUserID,user} posted an announcement in <strong>{GroupName}</strong>'] = '{ActivityUserID,user} опублікував оголошення в <strong>групі {GroupName}</strong>';
 $Definition['{ActivityUserID,user} started a new discussion <strong>{DiscussionName}</strong>'] = '{ActivityUserID,user} розпочав нове обговорення <strong>{DiscussionName}</strong>';
 $Definition['{count} new announcements in <strong>{GroupName}</strong>'] = '{count} нових оголошень у <strong>{GroupName}</strong>';
