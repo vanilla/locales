@@ -2518,3 +2518,9 @@ $Definition['Hide comment author information and replace comment content with'] 
 $Definition["This content has been removed."] = "This content has been removed.";
 $Definition["Full"] = "Full";
 $Definition["Completely remove the comment and all associated child comments."] = "Completely remove the comment and all associated child comments.";
+
+// Event
+$Definition["HeadlineFormat.EventReminder"] = "Reminder: {Data.Name,text} begins in 1 day";
+$Definition["HeadlineFormat.NewEvent"] = "New Event: {Data.Name,text}";
+$Definition["HeadlineFormat.UpdatedEvent"] = "Updated Event: {Data.Name,text}";
+
