@@ -1682,6 +1682,7 @@ $Definition['Schedule'] = 'Schedule';
 $Definition['Scheduled'] = 'Scheduled';
 $Definition['scheduled'] = 'scheduled';
 $Definition['Scheduled Date'] = 'Scheduled Date';
+$Definition['Scheduled for: '] = 'Scheduled for: ';
 $Definition['Scheduled Posts'] = 'Scheduled Posts';
 $Definition['Search...'] = 'Search...';
 $Definition['Search'] = 'Search';
