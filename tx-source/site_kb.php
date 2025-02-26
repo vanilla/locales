@@ -176,6 +176,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Welcome to our Kno
 $Definition["This can be overridden on a per knowledge base basis."] = "This can be overridden on a per knowledge base basis.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Recommended dimensions are about %s by %s or a similar ratio.";
 $Definition["The %s to use on the knowledge base chooser."] = "The %s to use on the knowledge base chooser.";
+$Definition["The article draft is no longer available."] = "The article draft is no longer available.";
 $Definition["banner background image"] = "banner background image";
 $Definition["banner content image"] = "banner content image";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read.";
