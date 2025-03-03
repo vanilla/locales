@@ -566,7 +566,7 @@ $Definition['Invalid category for deletion.'] = 'קטגוריה לא תקינה 
 $Definition['Invalid entry.'] = 'ערך לא חוקי.';
 $Definition['Invisibility Cloak Settings'] = 'הגדרות גלימת היעלמות';
 $Definition['Invitation Code'] = 'קוד הזמנה';
-$Definition['InvitationMessage'] = 'היי חבוב, 
+$Definition['InvitationMessage'] = 'היי חבוב,
 בדוק את הפורום החדש שפתחתי. זה מקום מעולה בשבילנו לתקשר אחד עם השני. לחת על הלינק למטה בשביל להתחבר.';
 $Definition['Invitations per month'] = 'הזמנות לחודש';
 $Definition['Invitations will expire'] = 'תוקפן של ההזמנות יפוג';
@@ -893,7 +893,7 @@ $Definition['SMTP User'] = 'משתמש SMTP';
 $Definition['Social Connect'] = 'רשתות חברתיות';
 $Definition['Social Connect Addons'] = 'תוספי Social Connect';
 $Definition['Sort Order'] = 'מיון סדר';
-$Definition['Sources that are selected here will be available to AI Suggested Answers. Add additional sources through Federated Search. <0/>'] = 'מקורות שנבחרו כאן יהיו זמינים לתשובות AI Suggested. הוסף מקורות נוספים באמצעות חיפוש מאוחד. <0/>';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'מקורות שנבחרו כאן יהיו זמינים לתשובות AI Suggested.';
 $Definition['Specify one domain per line. Use * for wildcard matches.'] = 'נא לפרט דומיין אחד לשורה. השתמשו ב-* בשביל התאמות לתו כללי.';
 $Definition['Spoof'] = 'התחזות';
 $Definition['SSO Role'] = 'תפקיד SSO';

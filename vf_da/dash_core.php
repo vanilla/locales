@@ -898,7 +898,7 @@ $Definition['SMTP User'] = 'SMTP bruger';
 $Definition['Social Connect'] = 'Sociale Medier';
 $Definition['Social Connect Addons'] = 'Social Connect Addons';
 $Definition['Sort Order'] = 'Sorteringsrækkefølge';
-$Definition['Sources that are selected here will be available to AI Suggested Answers. Add additional sources through Federated Search. <0/>'] = 'Kilder, der er valgt her, vil være tilgængelige for AI Suggested Answers. Tilføj yderligere kilder gennem Federated Search. <0/>';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'Kilder, der er valgt her, vil være tilgængelige for AI Suggested Answers.';
 $Definition['Specify one domain per line. Use * for wildcard matches.'] = 'Specificér ét domæne pr linie. Brug * for wildcard matches. ';
 $Definition['Spoof'] = 'Spoof';
 $Definition['SSO Role'] = 'SSO-rolle';
@@ -1145,7 +1145,7 @@ $Definition['You must provide at least one recipient'] = 'Du skal angive mindst 
 $Definition['You must specify an admin password.'] = 'Du skal angive en adgangskode for en administrator.';
 $Definition['You must specify an admin username.'] = 'Du skal angive et brugernavn på en administrator.';
 $Definition['Your configuration file does not have the correct permissions. PHP needs to be able to read and write to this file: <code>%s</code>'] = 'Din konfigurationsfil har ikke de rigtige rettigheder. PHP skal være i stand til at læse og skrive denne fil: <code>%s</code>';
-$Definition['Your default locale won\'t display properly'] = 'Dit standard sprog vises ikke korrekt indtil du aktiverer det nedenfor. 
+$Definition['Your default locale won\'t display properly'] = 'Dit standard sprog vises ikke korrekt indtil du aktiverer det nedenfor.
  Aktivér venligst følgende: %s.';
 $Definition['Your Email'] = 'Din e-mail';
 $Definition['Your inbox is empty.'] = 'Din indbakke er tom.';
