@@ -568,7 +568,7 @@ $Definition['Invalid category for deletion.'] = 'Categoria non valido per l\'eli
 $Definition['Invalid entry.'] = 'Inserimento non valido.';
 $Definition['Invisibility Cloak Settings'] = 'Impostazioni mantello dell\'invisibilità';
 $Definition['Invitation Code'] = 'Codice d\'invito';
-$Definition['InvitationMessage'] = 'Ciao amico! 
+$Definition['InvitationMessage'] = 'Ciao amico!
 Scopri il nuovo forum della comunità che ho appena creato. È un ottimo posto per chiacchierare tra noi online.
 Segui il link qui sotto per accedere.';
 $Definition['Invitations per month'] = 'Inviti per mese';
@@ -898,7 +898,7 @@ $Definition['SMTP User'] = 'Utente SMTP';
 $Definition['Social Connect'] = 'Social Media';
 $Definition['Social Connect Addons'] = 'Addons per la Connessione ai Social';
 $Definition['Sort Order'] = 'Ordine';
-$Definition['Sources that are selected here will be available to AI Suggested Answers. Add additional sources through Federated Search. <0/>'] = 'Le fonti selezionate qui saranno disponibili per le risposte suggerite dall\'IA. Aggiungi altre fonti tramite la Ricerca federata. <0/>';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'Le fonti selezionate qui saranno disponibili per le risposte suggerite dall\'IA.';
 $Definition['Specify one domain per line. Use * for wildcard matches.'] = 'Specifica un dominio per linea. Utilizza * per le corrispondenze del carattere jolly. ';
 $Definition['Spoof'] = 'Falso';
 $Definition['SSO Role'] = 'Ruolo SSO';

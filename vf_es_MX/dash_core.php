@@ -569,7 +569,7 @@ $Definition['Invisibility Cloak Settings'] = 'Configuración de la capa de invis
 $Definition['Invitation Code'] = 'Código de Invitación';
 $Definition['InvitationMessage'] = '¡Hola amigo!
 
-¡Checa la comunidad que cree! Es un lugar increíble parea tener conversaciones en línea. 
+¡Checa la comunidad que cree! Es un lugar increíble parea tener conversaciones en línea.
 
 Entra al siguiente link para verla.';
 $Definition['Invitations per month'] = 'Invitaciones por mes';
@@ -897,7 +897,7 @@ $Definition['SMTP User'] = 'Usuario SMTP';
 $Definition['Social Connect'] = 'Redes sociales';
 $Definition['Social Connect Addons'] = 'Complementos de conexión social';
 $Definition['Sort Order'] = 'Ordenar';
-$Definition['Sources that are selected here will be available to AI Suggested Answers. Add additional sources through Federated Search. <0/>'] = 'Las fuentes que se seleccionen aquí estarán disponibles para las Respuestas sugeridas por IA. Agregue fuentes adicionales a través de la Búsqueda federada. <0/>';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'Las fuentes que se seleccionen aquí estarán disponibles para las Respuestas sugeridas por IA.';
 $Definition['Specify one domain per line. Use * for wildcard matches.'] = 'Especificar un dominio por línea. Usa * para correspondencias de comodín.';
 $Definition['Spoof'] = 'Suplantar';
 $Definition['SSO Role'] = 'Rol de SSO';
