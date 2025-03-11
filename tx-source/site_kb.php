@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Browse Articles by Category";
 $Definition["Browse"] = "Browse";
 $Definition["By <0/>"] = "By <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Cancel scheduled article and save as draft?";
 $Definition["category"] = "category";
 $Definition["Categories"] = "Categories";
 $Definition["Category One"] = "Category One";
@@ -158,6 +160,9 @@ $Definition["There was an error"] = "There was an error";
 $Definition["This article has been deleted."] = "This article has been deleted.";
 $Definition["This article hasn't been translated yet."] = "This article hasn't been translated yet.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "This article hasn't been translated yet. The original article text has been loaded to aid translation.";
+$Definition["The article draft is no longer available."] = "The article draft is no longer available.";
+$Definition["The article is no longer available."] = "The article is no longer available.";
+$Definition["The article revision is no longer available."] = "The article revision is no longer available.";
 $Definition['This article is not translated yet or it is out of date.'] = 'This article is not translated yet or it is out of date.';
 $Definition['The article this draft is based on is no longer available.'] = 'The article this draft is based on is no longer available.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'The width of the center column of the primary layout in pixels.';
@@ -176,6 +181,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Welcome to our Kno
 $Definition["This can be overridden on a per knowledge base basis."] = "This can be overridden on a per knowledge base basis.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Recommended dimensions are about %s by %s or a similar ratio.";
 $Definition["The %s to use on the knowledge base chooser."] = "The %s to use on the knowledge base chooser.";
+$Definition["The article draft is no longer available."] = "The article draft is no longer available.";
 $Definition["banner background image"] = "banner background image";
 $Definition["banner content image"] = "banner content image";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read.";
@@ -200,6 +206,7 @@ $Definition["View all articles from category: \"<0/>\"."] = "View all articles f
 
 $Definition["Was this article helpful?"] = "Was this article helpful?";
 $Definition["Write Discussion"] = "Write Discussion";
+$Definition["Write Article"] = "Write Article";
 
 $Definition["You can see this message because you have special permissions."] = "You can see this message because you have special permissions.";
 $Definition["You don't have permission to view this resource."] = "You don't have permission to view this resource.";
