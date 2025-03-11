@@ -922,7 +922,7 @@ $Definition['SMTP User'] = 'SMTP Nutzer';
 $Definition['Social Connect'] = 'Soziale Medien';
 $Definition['Social Connect Addons'] = 'Soziale-Verbindung-Erweiterungen';
 $Definition['Sort Order'] = 'Sortierreihenfolge';
-$Definition['Sources that are selected here will be available to AI Suggested Answers. Add additional sources through Federated Search. <0/>'] = 'Die Quellen, die hier ausgewählt werden, stehen für die von der KI vorgeschlagenen Antworten zur Verfügung. Fügen Sie weitere Quellen mit der verteilten Suche hinzu. <0 />';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'Die Quellen, die hier ausgewählt werden, stehen für die von der KI vorgeschlagenen Antworten zur Verfügung.';
 $Definition['Specify one domain per line. Use * for wildcard matches.'] = 'Geben Sie eine Domäne pro Zeile an. Verwenden Sie * für Platzhalterübereinstimmungen.';
 $Definition['Spoof'] = 'Spoof/Spam';
 $Definition['SSO Role'] = 'SSO-Rolle';
@@ -939,7 +939,7 @@ $Definition["Style"] = "Stil";
 $Definition['Styles'] = 'Stile';
 $Definition['Styles and general visual appearance of all emails, including email digest, are set site-wide on Email Settings page.'] = 'Der Stil und das allgemeine Erscheinungsbild aller E-Mails, einschließlich des E-Mail-Digest, werden auf der Seite „E-Mail-Einstellungen“ für die gesamte Website festgelegt.
 ';
-$Definition['Subcommunity'] = 'Subcommunity 
+$Definition['Subcommunity'] = 'Subcommunity
 ';
 $Definition['Subject Line and Title'] = 'Betreffzeile und Titel
 ';
