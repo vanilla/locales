@@ -682,6 +682,7 @@ Follow the link below to check it out:
 Have a great day!';
 $Definition['Email Digest Preferences Updated'] = 'Email Digest Preferences Updated';
 $Definition['Email Language'] = 'Email Language';
+$Definition['Notification Language'] = 'Notification Language';
 $Definition['Email Notifications'] = 'Email Notifications';
 $Definition['Email Or Username'] = 'Email Or Username';
 $Definition['EmailPassword'] = '%2$s has reset your password at %3$s. Your login credentials are now:
