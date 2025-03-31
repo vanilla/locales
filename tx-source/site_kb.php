@@ -209,8 +209,8 @@ $Definition["Use Banner Image Overlay"] = "Use Banner Image Overlay";
 
 $Definition["If no categories are selected, new users will not follow any categories by default."] = "If no categories are selected, new users will not follow any categories by default.";
 $Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "You have unsaved changes. Are you sure you want to exit without saving?";
-$Definition["Add Knowledge Bases to Follow by Default"] = "Add Knowledge Bases to Follow by Default";
-$Definition["If no knowledge bases are selected, new users will not follow any Knowledge Bases."] = "If no knowledge bases are selected, new users will not follow any Knowledge Bases.";
+$Definition["Add Knowledge Bases to follow by default"] = "Add Knowledge Bases to follow by default";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "If no Knowledge Bases are selected, new users will not follow any Knowledge Bases.";
 $Definition["Edit Default Notification Preferences"] = "Edit Default Notification Preferences";
 $Definition["Remove Category"] = "Remove Category";
 $Definition["Remove Knowledge Base"] = "Remove Knowledge Base";
@@ -219,5 +219,5 @@ $Definition["updated articles"] = "updated articles";
 $Definition["Unfollow Knowledge Base"] = "Unfollow Knowledge Base";
 $Definition["Default Followed Knowledge Bases"] = "Default Followed Knowledge Bases";
 $Definition["Edit Default Knowledge Bases"] = "Edit Default Knowledge Bases";
-$Definition["Users can follow knowledge bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Users can follow knowledge bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default.";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default.";
 
