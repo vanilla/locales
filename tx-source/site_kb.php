@@ -148,6 +148,7 @@ $Definition["Subcategories"] = "Subcategories";
 $Definition["sub-categories"] = "sub-categories";
 $Definition["sub-category"] = "sub-category";
 
+$Definition["Thank you for your feedback!"] = "Thank you for your feedback!";
 $Definition["Thanks for your feedback!"] = "Thanks for your feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "The primary color is used for buttons, inputs, and various indicators.";
@@ -206,4 +207,17 @@ $Definition["You don't have permission to view this resource."] = "You don't hav
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "You need to <0>Sign In</0> to vote on this article";
 $Definition["Use Banner Image Overlay"] = "Use Banner Image Overlay";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "If no categories are selected, new users will not follow any categories by default.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "You have unsaved changes. Are you sure you want to exit without saving?";
+$Definition["Add Knowledge Bases to Follow by Default"] = "Add Knowledge Bases to Follow by Default";
+$Definition["If no knowledge bases are selected, new users will not follow any Knowledge Bases."] = "If no knowledge bases are selected, new users will not follow any Knowledge Bases.";
+$Definition["Edit Default Notification Preferences"] = "Edit Default Notification Preferences";
+$Definition["Remove Category"] = "Remove Category";
+$Definition["Remove Knowledge Base"] = "Remove Knowledge Base";
+$Definition["new articles"] = "new articles";
+$Definition["updated articles"] = "updated articles";
+$Definition["Unfollow Knowledge Base"] = "Unfollow Knowledge Base";
+$Definition["Default Followed Knowledge Bases"] = "Default Followed Knowledge Bases";
+$Definition["Edit Default Knowledge Bases"] = "Edit Default Knowledge Bases";
+$Definition["Users can follow knowledge bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Users can follow knowledge bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default.";
 
