@@ -1263,6 +1263,7 @@ $Definition['Post Management'] = 'Post Management';
 $Definition['Posts Matching Criteria Now: <0 />'] = 'Posts Matching Criteria Now: <0 />';
 $Definition['Remove from collection'] = 'Remove from collection';
 $Definition['Remove from collection:'] = 'Remove from collection:';
+$Definition['Remove from default follow list'] = 'Remove from default follow list';
 $Definition['Remove from trigger collection'] = 'Remove from trigger collection';
 $Definition['report'] = 'report';
 $Definition['reports'] = 'reports';
