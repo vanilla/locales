@@ -673,7 +673,7 @@ $Definition['More complex language and may introduce some industry-specific term
 $Definition['More information'] = 'Viac informácií';
 $Definition['More technical language and industry-specific terms -- assumes a higher levelOfTech of understanding/familiarity with subject matter.'] = 'Technickejší jazyk a výrazy špecifické pre dané odvetvie – predpokladá vyššiu úroveň technológie porozumenia/oboznámenia sa s predmetom.';
 $Definition['more than %s deep'] = 'viac ako %s do hĺbky';
-$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Väčšina pocketov by nemala byť zobrazená na pracovnom paneli. 
+$Definition['Most pockets shouldn\'t be displayed in the dashboard.'] = 'Väčšina pocketov by nemala byť zobrazená na pracovnom paneli.
 ';
 $Definition['Move discussions in this category to a replacement category.'] = 'Presuňte diskusie tejto kategórie do náhradnej kategórie.';
 $Definition['My Invitations'] = 'Moje pozvánky';
@@ -899,7 +899,7 @@ $Definition['SMTP User'] = 'Používateľ SMTP';
 $Definition['Social Connect'] = 'Sociálne médiá';
 $Definition['Social Connect Addons'] = 'Doplnky pre sociálne pripojenie';
 $Definition['Sort Order'] = 'Zoradiť poradie';
-$Definition['Sources that are selected here will be available to AI Suggested Answers. Add additional sources through Federated Search. <0/>'] = 'Zdroje, ktoré tu vyberiete, budú k dispozícii pre odpovede navrhované AI. Pridajte ďalšie zdroje prostredníctvom federatívneho vyhľadávania. <0/>';
+$Definition['Sources that are selected here will be available to AI Suggested Answers.'] = 'Zdroje, ktoré tu vyberiete, budú k dispozícii pre odpovede navrhované AI.';
 $Definition['Specify one domain per line. Use * for wildcard matches.'] = 'Zadajte 1 doménu do riadku. Použite * na zástupnú zhodu.';
 $Definition['Spoof'] = 'Pasca';
 $Definition['SSO Role'] = 'Rola SSO';
