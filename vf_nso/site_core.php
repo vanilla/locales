@@ -2568,7 +2568,7 @@ $Definition["Completely remove the comment and all associated child comments."] 
 
 // Event
 $Definition["HeadlineFormat.EventReminder"] = "Kgopotšo: {Data.Name,text} e thoma ka letšatši le tee";
-$Definition["HeadlineFormat.NewEvent"] = "Tiragalo ye Mpsha: {Data.Leina,sengwalwa}";
+$Definition["HeadlineFormat.NewEvent"] = "Tiragalo ye Mpsha: {Data.Name,text}";
 $Definition["HeadlineFormat.UpdatedEvent"] = "Tiragalo ye e Mpshafaditšwego: {Data.Name,text}";
 
 

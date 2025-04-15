@@ -2589,7 +2589,7 @@ $Definition["<0/> field(s) are required for this post type. You must map data to
 $Definition["You have not mapped field(s): <0/> to another field in the new post type. If you proceed with the conversion, the information from those fields will be lost."] = "Vous n'avez pas fait correspondre le(s) champ(s) : <0/> à un autre champ du nouveau type de publication. Si vous procédez à la conversion, les informations de ces champs seront perdues.";
 $Definition["There was an error changing the type of this post."] = "Une erreur s'est produite lors de la modification du type de cette publication.";
 $Definition["Success! Post converted."] = "Publication convertie avec succès!";
-$Definition["User submitted value: %s"] = "Valeur soumise par l'utilisateur : s %";
+$Definition["User submitted value: %s"] = "Valeur soumise par l'utilisateur : %s";
 $Definition["Discard this information"] = "Ne pas tenir compte de ces informations";
 $Definition["Discard Reply"] = "Ne pas tenir compte de la réponse";
 $Definition["You have an empty draft saved. Do you want to delete it?"] = "Vous avez enregistré un brouillon vide. Voulez-vous le supprimer?";

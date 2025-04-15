@@ -1701,7 +1701,7 @@ $Definition['scheduled'] = 'заказана';
 $Definition['Scheduled Date'] = 'Планирани датум';
 $Definition['Scheduled for: '] = 'Заказано за: ';
 $Definition['Scheduled Posts'] = 'Планирани постови';
-$Definition['Scheduled post: {Data.Name} has failed to publish.'] = 'Планирани пост: {Дата.Наме} није успело објављивање.';
+$Definition['Scheduled post: {Data.Name} has failed to publish.'] = 'Планирани пост: {Data.Name} није успело објављивање.';
 $Definition['Search...'] = 'Претрага...';
 $Definition['Search'] = 'Pretraga';
 $Definition['Search %s'] = 'Pretražite %s';
@@ -2558,9 +2558,9 @@ $Definition["Full"] = "Пун";
 $Definition["Completely remove the comment and all associated child comments."] = "Потпуно уклоните коментар и све повезане подређене коментаре.";
 
 // Event
-$Definition["HeadlineFormat.EventReminder"] = "Подсетник: {Дата.Наме,тект} почиње за 1 дан";
-$Definition["HeadlineFormat.NewEvent"] = "Нови догађај: {Дата.Наме,тект}";
-$Definition["HeadlineFormat.UpdatedEvent"] = "Ажурирани догађај: {Дата.Наме,тект}";
+$Definition["HeadlineFormat.EventReminder"] = "Подсетник: {Data.Name,text} почиње за 1 дан";
+$Definition["HeadlineFormat.NewEvent"] = "Нови догађај: {Data.Name,text}";
+$Definition["HeadlineFormat.UpdatedEvent"] = "Ажурирани догађај: {Data.Name,text}";
 
 
 // Post Page
