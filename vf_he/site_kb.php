@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "עיון במאמרים לפי ק�
 $Definition["Browse"] = "עיון";
 $Definition["By <0/>"] = "ב-<0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "לבטל מאמר מתוזמן ולשמור כטיוטה?";
 $Definition["category"] = "קטגוריה";
 $Definition["Categories"] = "קטגוריות";
 $Definition["Category One"] = "קטגוריה מס' אחת";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "תת-קטגוריות";
 $Definition["sub-categories"] = "תת קטגוריות";
 $Definition["sub-category"] = "קטגוריית משנה";
 
+$Definition["Thank you for your feedback!"] = "תודה על תגובתך!";
 $Definition["Thanks for your feedback!"] = "תודה על המשוב!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "תמונת הכרזה לשימוש על בוחר מאגר הידע. ניתן להחליפה לכל מאגר ידע בנפרד. המידות המומלצות הן כ-1000 פיקסל על 400 פיקסל או יחס דומה.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "הצבע הראשי משמש ללחצנים, יחידות קלט ומחוונים שונים.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "אירעה שגיאה";
 $Definition["This article has been deleted."] = "מאמר זה נמחק.";
 $Definition["This article hasn't been translated yet."] = "מאמר זה עדיין לא תורגם.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "מאמר זה עדיין לא תורגם. הטקסט המקורי של המאמר נטען כדי לסייע בתרגום.";
+$Definition["The article draft is no longer available."] = "טיוטת המאמר אינה זמינה יותר.";
+$Definition["The article is no longer available."] = "המאמר אינו זמין יותר.";
+$Definition["The article revision is no longer available."] = "גרסת המאמר אינה זמינה יותר.";
 $Definition['This article is not translated yet or it is out of date.'] = 'מאמר זה אינו מתורגם עדיין או שאינו עדכני.';
 $Definition['The article this draft is based on is no longer available.'] = 'המאמר שטיוטה זו מבוססת עליו אינו זמין יותר.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'רוחב העמודה המרכזית של הפריסה הראשית בפיקסלים.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "ברוכים הב�
 $Definition["This can be overridden on a per knowledge base basis."] = "ניתן לעקוף זאת עבור כל בסיס ידע.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "הממדים המומלצים הם בערך %s על %s או יחס דומה.";
 $Definition["The %s to use on the knowledge base chooser."] = "ה-%s לשימוש בבוחר בסיס הידע.";
+$Definition["The article draft is no longer available."] = "טיוטת המאמר אינה זמינה יותר.";
 $Definition["banner background image"] = "תמונה רקע של הבאנר";
 $Definition["banner content image"] = "תמונת תוכן של הבאנר";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "זה עשוי להיות קשה לקרוא טקסט המופיע על גבי תמונות באנר מסוימות. ניתן לאפשר אופציה זו בהגדרות כדי להוסיף שכבת-על על גבי תמונות הבאנר ההופכת את הטקסט לקריא יותר.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "הצג את כל ה
 
 $Definition["Was this article helpful?"] = "האם המאמר היה שימושי?";
 $Definition["Write Discussion"] = "כתיבת דיון";
+$Definition["Write Article"] = "כתוב מאמר";
 
 $Definition["You can see this message because you have special permissions."] = "באפשרותך לראות הודעה זו משום שיש לך הרשאות מיוחדות.";
 $Definition["You don't have permission to view this resource."] = "אין לך הרשאה לצפות במשאב זה.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "יש  <0>להיכנס</0> כדי להצביע על מאמר זה";
 $Definition["Use Banner Image Overlay"] = "השתמש/י בשכבת תמונת כרזה";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "אם לא נבחרו קטגוריות, משתמשים חדשים לא יעקבו אחרי אף קטגוריה כברירת מחדל.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "יש לך שינויים שלא נשמרו. האם אתה בטוח שברצונך לצאת מבלי לשמור?";
+$Definition["Add Knowledge Bases to follow by default"] = "הוסף מאגרי ידע לעקוב כברירת מחדל";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "אם לא נבחרו מסדי ידע, משתמשים חדשים לא יעקבו אחר מסדי ידע.";
+$Definition["Edit Default Notification Preferences"] = "ערוך העדפות ברירת מחדל להודעות";
+$Definition["Remove Category"] = "הסר קטגוריה";
+$Definition["Remove Knowledge Base"] = "הסר את מאגר הידע";
+$Definition["new articles"] = "מאמרים חדשים";
+$Definition["updated articles"] = "מאמרים מעודכנים";
+$Definition["Unfollow Knowledge Base"] = "בטל את המעקב אחר מאגר הידע";
+$Definition["Default Followed Knowledge Bases"] = "ברירת המחדל של מעקב אחר בסיסי ידע";
+$Definition["Edit Default Knowledge Bases"] = "ערוך ברירת מחדל של בסיסי ידע";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "משתמשים יכולים לעקוב אחר מאגר הידע כדי להירשם להתראות על מאמרים חדשים או מעודכנים. בחר אחר מאגר הידע המשתמשים החדשים צריכים לעקוב כברירת מחדל.";
 

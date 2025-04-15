@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "مرور مقالات بر اسا�
 $Definition["Browse"] = "مرور کردن";
 $Definition["By <0/>"] = "توسط <0 />";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "مقاله زمان‌بندی‌شده لغو شود و به‌عنوان پیش‌نویس ذخیره شود؟";
 $Definition["category"] = "دسته بندی";
 $Definition["Categories"] = "دسته ها";
 $Definition["Category One"] = "دسته یک";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "زیر شاخه ها";
 $Definition["sub-categories"] = "زیر مجموعه ها";
 $Definition["sub-category"] = "زیر مجموعه";
 
+$Definition["Thank you for your feedback!"] = "با تشکر از شما برای بازخورد شما!";
 $Definition["Thanks for your feedback!"] = "با تشکر از نظرات شما";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "تصویر بنر برای انتخاب در انتخاب دانش بنیان. این امر را می توان در هر پایه و اساس بدون دانش پرت کرد. ابعاد توصیه شده در حدود 1000px 400px یا نسبت مشابهی است.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "رنگ اصلی برای دکمه ها ، ورودی ها و شاخص های مختلف استفاده می شود.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "یک خطای وجود دارد";
 $Definition["This article has been deleted."] = "این مقاله حذف شده است.";
 $Definition["This article hasn't been translated yet."] = "این مقاله هنوز ترجمه نشده است.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "این مقاله هنوز ترجمه نشده است. متن مقاله اصلی برای کمک به ترجمه بارگیری شده است.";
+$Definition["The article draft is no longer available."] = "پیش نویس مقاله دیگر در دسترس نیست.";
+$Definition["The article is no longer available."] = "مقاله دیگر در دسترس نیست.";
+$Definition["The article revision is no longer available."] = "ویرایش مقاله دیگر در دسترس نیست.";
 $Definition['This article is not translated yet or it is out of date.'] = 'این مقاله هنوز ترجمه نشده یا قدیمی است.';
 $Definition['The article this draft is based on is no longer available.'] = 'مقاله ای که این پیش نویس بر اساس آن ساخته شده است دیگر در دسترس نیست.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'عرض ستون وسط طرح اصلی در پیکسل ها.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "به پایگاه 
 $Definition["This can be overridden on a per knowledge base basis."] = "این امر را می توان در هر پایه و اساس دانش دور زد.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "ابعاد توصیه شده در مورد %s توسط %s یا نسبت مشابهی است.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s برای استفاده در انتخاب دانش بنیان.";
+$Definition["The article draft is no longer available."] = "پیش نویس مقاله دیگر در دسترس نیست.";
 $Definition["banner background image"] = "تصویر پس زمینه بنر";
 $Definition["banner content image"] = "تصویر محتوای بنر";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "خواندن متن در بالای برخی از تصاویر بنر بسیار دشوار است. این تنظیم را فعال کنید تا یک پوشش روی تصاویر بنر اضافه شود که خواندن متن را آسان تر می کند.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "مشاهده همه
 
 $Definition["Was this article helpful?"] = "این مقاله به شما کمک کرد؟";
 $Definition["Write Discussion"] = "بحث بنویسید";
+$Definition["Write Article"] = "مقاله بنویسید";
 
 $Definition["You can see this message because you have special permissions."] = "شما می توانید این پیام را ببینید زیرا مجوزهای خاصی دارید.";
 $Definition["You don't have permission to view this resource."] = "شما اجازه مشاهده این منبع را ندارید.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "باید وارد <0> شوید </0> برای رای دادن به این مقاله";
 $Definition["Use Banner Image Overlay"] = "از پوشش تصویر بنر استفاده کنید";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "اگر هیچ دسته ای انتخاب نشود، کاربران جدید به طور پیش فرض هیچ دسته ای را دنبال نمی کنند.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "شما تغییرات ذخیره نشده ای دارید. آیا مطمئن هستید که می خواهید بدون ذخیره کردن خارج شوید؟";
+$Definition["Add Knowledge Bases to follow by default"] = "پایگاه های دانش را برای دنبال کردن به طور پیش فرض اضافه کنید";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "اگر هیچ پایگاه دانشی انتخاب نشود، کاربران جدید هیچ پایگاه دانشی را دنبال نخواهند کرد.";
+$Definition["Edit Default Notification Preferences"] = "تنظیمات پیش‌فرض اعلان را ویرایش کنید";
+$Definition["Remove Category"] = "حذف دسته";
+$Definition["Remove Knowledge Base"] = "پایگاه دانش را حذف کنید";
+$Definition["new articles"] = "مقالات جدید";
+$Definition["updated articles"] = "مقالات به روز شده";
+$Definition["Unfollow Knowledge Base"] = "پایگاه دانش را لغو دنبال کنید";
+$Definition["Default Followed Knowledge Bases"] = "پایگاه های دانش دنبال شده پیش فرض";
+$Definition["Edit Default Knowledge Bases"] = "ویرایش پایگاه های دانش پیش فرض";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "کاربران می توانند پایگاه های دانش را دنبال کنند تا در اعلان های مقالات جدید یا به روز شده مشترک شوند. کاربران جدید پایگاه های دانش را به طور پیش فرض انتخاب کنید.";
 

@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Brskajte po člankih po kategorija
 $Definition["Browse"] = "Prebrskaj";
 $Definition["By <0/>"] = "Avtor <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Želite preklicati načrtovani članek in ga shraniti kot osnutek?";
 $Definition["category"] = "kategorijo";
 $Definition["Categories"] = "kategorije";
 $Definition["Category One"] = "Prva kategorija";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Podkategorije";
 $Definition["sub-categories"] = "podkategorije";
 $Definition["sub-category"] = "podkategorija";
 
+$Definition["Thank you for your feedback!"] = "Hvala za vaše povratne informacije!";
 $Definition["Thanks for your feedback!"] = "Hvala za vaše povratne informacije!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Slika pasice za uporabo v izbirniku zbirke znanja. To je mogoče preglasiti glede na bazo znanja. Priporočene mere so približno 1000 slikovnih pik krat 400 slikovnih pik ali podobno razmerje.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Primarna barva se uporablja za gumbe, vnose in različne indikatorje.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "prišlo je do napake";
 $Definition["This article has been deleted."] = "Ta članek je bil izbrisan.";
 $Definition["This article hasn't been translated yet."] = "Ta članek še ni bil preveden.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Ta članek še ni bil preveden. Izvirno besedilo članka je bilo naloženo za pomoč pri prevodu.";
+$Definition["The article draft is no longer available."] = "Osnutek članka ni več na voljo.";
+$Definition["The article is no longer available."] = "Artikel ni več na voljo.";
+$Definition["The article revision is no longer available."] = "Revizija članka ni več na voljo.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Ta članek še ni preveden ali pa je zastarel.';
 $Definition['The article this draft is based on is no longer available.'] = 'Članek, na katerem temelji ta osnutek, ni več na voljo.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Širina sredinskega stolpca primarne postavitve v slikovnih pikah.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Dobrodošli v naš
 $Definition["This can be overridden on a per knowledge base basis."] = "To je mogoče preglasiti na podlagi baze znanja.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Priporočene mere so približno %s krat %s ali podobno razmerje.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s za uporabo v izbirniku baze znanja.";
+$Definition["The article draft is no longer available."] = "Osnutek članka ni več na voljo.";
 $Definition["banner background image"] = "slika ozadja pasice";
 $Definition["banner content image"] = "slika vsebine pasice";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Težko je brati besedilo na vrhu določenih slik pasic. Omogočite to nastavitev, če želite slikam pasic dodati prekrivanje, ki olajša branje besedila.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Oglejte si vse čla
 
 $Definition["Was this article helpful?"] = "Je bil ta članek v pomoč?";
 $Definition["Write Discussion"] = "Napiši razpravo";
+$Definition["Write Article"] = "Napišite članek";
 
 $Definition["You can see this message because you have special permissions."] = "To sporočilo lahko vidite, ker imate posebna dovoljenja.";
 $Definition["You don't have permission to view this resource."] = "Nimate dovoljenja za ogled tega vira.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Morate se <0>prijaviti</0> za glasovanje o tem članku";
 $Definition["Use Banner Image Overlay"] = "Uporabite prekrivanje s sliko pasice";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Če ni izbrana nobena kategorija, novi uporabniki privzeto ne bodo sledili nobeni kategoriji.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Imate neshranjene spremembe. Ali ste prepričani, da želite zapustiti brez shranjevanja?";
+$Definition["Add Knowledge Bases to follow by default"] = "Dodajte baze znanja, ki jih želite privzeto spremljati";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Če ni izbrana nobena zbirka znanja, novi uporabniki ne bodo sledili nobeni bazi znanja.";
+$Definition["Edit Default Notification Preferences"] = "Uredite privzete nastavitve obvestil";
+$Definition["Remove Category"] = "Odstrani kategorijo";
+$Definition["Remove Knowledge Base"] = "Odstrani zbirko znanja";
+$Definition["new articles"] = "novi članki";
+$Definition["updated articles"] = "posodobljeni članki";
+$Definition["Unfollow Knowledge Base"] = "Prekliči spremljanje zbirke znanja";
+$Definition["Default Followed Knowledge Bases"] = "Privzeto spremljane baze znanja";
+$Definition["Edit Default Knowledge Bases"] = "Urejanje privzetih zbirk znanja";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Uporabniki lahko spremljajo baze znanja in se naročijo na obvestila o novih ali posodobljenih člankih. Izberite, katerim bazam znanja naj novi uporabniki privzeto sledijo.";
 

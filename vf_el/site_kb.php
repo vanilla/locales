@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Περιήγηση Άρθρων α
 $Definition["Browse"] = "Περιήγηση";
 $Definition["By <0/>"] = "Από <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Ακύρωση προγραμματισμένου άρθρου και αποθήκευση ως πρόχειρο;";
 $Definition["category"] = "κατηγορία";
 $Definition["Categories"] = "Κατηγορίες";
 $Definition["Category One"] = "Κατηγορία Ένα";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Υποκατηγορίες";
 $Definition["sub-categories"] = "υποκατηγορίες";
 $Definition["sub-category"] = "υποκατηγορία";
 
+$Definition["Thank you for your feedback!"] = "Σας ευχαριστούμε για τα σχόλιά σας!";
 $Definition["Thanks for your feedback!"] = "Ευχαριστούμε για το σχόλιο!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Η εικόνα πανό που θα χρησιμοποιηθεί στον επιλογέα βάσης γνώσεων. Αυτό μπορεί να παρακαμφθεί με βάση τη βάση γνώσεων. Οι συνιστώμενες διαστάσεις είναι περίπου 1000px επί 400px ή παρόμοια αναλογία.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Το κύριο χρώμα χρησιμοποιείται για κουμπιά, εισόδους και διάφορους δείκτες.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Παρουσιάστηκε κάποιο σ�
 $Definition["This article has been deleted."] = "Αυτό το άρθρο έχει διαγραφεί.";
 $Definition["This article hasn't been translated yet."] = "Αυτό το άρθρο δεν έχει μεταφραστεί ακόμη.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Αυτό το άρθρο δεν έχει μεταφραστεί ακόμη. Έχει φορτωθεί το κείμενο του αρχικό άρθρου για να βοηθήσει στη μετάφραση.";
+$Definition["The article draft is no longer available."] = "Το πρόχειρο του άρθρου δεν είναι πλέον διαθέσιμο.";
+$Definition["The article is no longer available."] = "Το άρθρο δεν είναι πλέον διαθέσιμο.";
+$Definition["The article revision is no longer available."] = "Η αναθεώρηση του άρθρου δεν είναι πλέον διαθέσιμη.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Αυτό το άρθρο δεν έχει μεταφραστεί ακόμα ή είναι ξεπερασμένο.';
 $Definition['The article this draft is based on is no longer available.'] = 'Το άρθρο στο οποίο βασίζεται αυτό το προσχέδιο δεν είναι πλέον διαθέσιμο.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Το πλάτος της κεντρικής στήλης της κύριας διάταξης σε pixel.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Καλώς ήλθ�
 $Definition["This can be overridden on a per knowledge base basis."] = "Αυτό μπορεί να αντικατασταθεί με βάση τη βάση γνώσεων.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Οι συνιστώμενες διαστάσεις είναι περίπου %s επί %s ή παρόμοια αναλογία.";
 $Definition["The %s to use on the knowledge base chooser."] = "Το %s να χρησιμοποιηθεί στον επιλογέα βάσης γνώσεων.";
+$Definition["The article draft is no longer available."] = "Το πρόχειρο του άρθρου δεν είναι πλέον διαθέσιμο.";
 $Definition["banner background image"] = "εικόνα φόντου μπάνερ";
 $Definition["banner content image"] = "εικόνα περιεχομένου μπάνερ";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Μπορεί να είναι δύσκολο να διαβάσετε κείμενο πάνω από ορισμένες εικόνες μπάνερ. Ενεργοποιήστε αυτή τη ρύθμιση, για να προσθέσετε μια επικάλυψη πάνω από τις εικόνες των μπάνερ, γεγονός το οποίο καθιστά το κείμενο πιο εύκολο να διαβαστεί.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Εμφάνιση ό
 
 $Definition["Was this article helpful?"] = "Ήταν αυτό το άρθρο χρήσιμο;";
 $Definition["Write Discussion"] = "Σύνταξη Συζήτησης";
+$Definition["Write Article"] = "Γράψτε άρθρο";
 
 $Definition["You can see this message because you have special permissions."] = "Μπορείτε να δείτε αυτό το μήνυμα επειδή έχετε ειδικές άδειες.";
 $Definition["You don't have permission to view this resource."] = "Δεν έχετε άδεια να δείτε αυτόν τον πόρο.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Χρειάζεται να <0>Sign In</0> για να ψηφίσετε σε αυτό το άρθρο";
 $Definition["Use Banner Image Overlay"] = "Χρησιμοποιήστε Επικάλυψη Εικόνας Πανό";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Εάν δεν επιλεγούν κατηγορίες, οι νέοι χρήστες δεν θα ακολουθήσουν καμία κατηγορία από προεπιλογή.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Έχετε μη αποθηκευμένες αλλαγές. Είστε βέβαιοι ότι θέλετε να βγείτε χωρίς αποθήκευση;";
+$Definition["Add Knowledge Bases to follow by default"] = "Προσθέστε Γνωσιακές Βάσεις που θα ακολουθήσετε από προεπιλογή";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Εάν δεν έχουν επιλεγεί Γνωσιακές Βάσεις, οι νέοι χρήστες δεν θα ακολουθήσουν καμία Γνωσιακή Βάση.";
+$Definition["Edit Default Notification Preferences"] = "Επεξεργασία προεπιλεγμένων προτιμήσεων ειδοποίησης";
+$Definition["Remove Category"] = "Κατάργηση κατηγορίας";
+$Definition["Remove Knowledge Base"] = "Κατάργηση Γνωσιακής Βάσης";
+$Definition["new articles"] = "νέα άρθρα";
+$Definition["updated articles"] = "ενημερωμένα άρθρα";
+$Definition["Unfollow Knowledge Base"] = "Κατάργηση παρακολούθησης της Γνωσιακής Βάσης";
+$Definition["Default Followed Knowledge Bases"] = "Προεπιλεγμένες βάσεις γνώσεων που ακολουθούνται";
+$Definition["Edit Default Knowledge Bases"] = "Επεξεργασία προεπιλεγμένων γνωσιακών βάσεων";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Οι χρήστες μπορούν να ακολουθήσουν τις Γνωσιακές Βάσεις για να εγγραφούν σε ειδοποιήσεις για νέα ή ενημερωμένα άρθρα. Επιλέξτε ποιες Γνωσιακές Βάσεις θα πρέπει να ακολουθούν οι νέοι χρήστες από προεπιλογή.";
 

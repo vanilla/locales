@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "依類別瀏覽文章";
 $Definition["Browse"] = "瀏覽";
 $Definition["By <0/>"] = "由 <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "取消預定的文章並儲存為草稿？";
 $Definition["category"] = "類別";
 $Definition["Categories"] = "分類";
 $Definition["Category One"] = "類別一";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "子類別";
 $Definition["sub-categories"] = "子類別";
 $Definition["sub-category"] = "子類別";
 
+$Definition["Thank you for your feedback!"] = "感謝您的回饋！";
 $Definition["Thanks for your feedback!"] = "感謝您的寶貴意見！";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "用於知識庫選擇器上的橫幅圖像。這可根據各知識庫進行置換。建議尺寸約為 1000 像素 X 400 像素或類似比例。";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "原色是用於按鈕、輸入和各種指示器。";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "發生錯誤";
 $Definition["This article has been deleted."] = "這篇文章已刪除。";
 $Definition["This article hasn't been translated yet."] = "此文章尚未被翻譯。";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "此文章尚未被翻譯。已載入文章原文便於翻譯。";
+$Definition["The article draft is no longer available."] = "文章草稿已不再可用。";
+$Definition["The article is no longer available."] = "該文章已不再可用。";
+$Definition["The article revision is no longer available."] = "文章修訂版不再可用。";
 $Definition['This article is not translated yet or it is out of date.'] = '本文章尚未翻譯或已過時。';
 $Definition['The article this draft is based on is no longer available.'] = '本草稿所根據的文章已不再使用。';
 $Definition['The width of the center column of the primary layout in pixels.'] = '主版面配置的中央欄寬（以像素為單位）。';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "歡迎來到我們
 $Definition["This can be overridden on a per knowledge base basis."] = "這可根據各知識庫予以置換。";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "建議尺寸約為 %s x %s 或類似比例。";
 $Definition["The %s to use on the knowledge base chooser."] = "用於知識庫選擇器上的%s。";
+$Definition["The article draft is no longer available."] = "文章草稿已不再可用。";
 $Definition["banner background image"] = "橫幅背景影像";
 $Definition["banner content image"] = "橫幅內容影像";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "某些橫幅影像上的文字可能難以閱讀。啟用此設定以在橫幅影像上增加一層覆蓋，使文字易於閱讀。";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "檢視此類別的�
 
 $Definition["Was this article helpful?"] = "這篇文章有幫助嗎？";
 $Definition["Write Discussion"] = "撰寫討論";
+$Definition["Write Article"] = "撰寫文章";
 
 $Definition["You can see this message because you have special permissions."] = "您可以看到此訊息，因為您擁有特殊權限。";
 $Definition["You don't have permission to view this resource."] = "您沒有檢視此資源的權限。";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "您需要<0>登入</0>才能對這篇文章進行投票";
 $Definition["Use Banner Image Overlay"] = "使用橫幅圖像疊加";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "如果沒有選擇類別，新使用者預設不會關注任何類別。";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "您有未儲存的變更。您確定要退出而不儲存嗎？";
+$Definition["Add Knowledge Bases to follow by default"] = "新增預設關注的知識庫";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "如果沒有選擇知識庫，新使用者將不會關注任何知識庫。";
+$Definition["Edit Default Notification Preferences"] = "編輯預設通知首選項";
+$Definition["Remove Category"] = "刪除類別";
+$Definition["Remove Knowledge Base"] = "刪除知識庫";
+$Definition["new articles"] = "新文章";
+$Definition["updated articles"] = "更新的文章";
+$Definition["Unfollow Knowledge Base"] = "取消追蹤知識庫";
+$Definition["Default Followed Knowledge Bases"] = "預設關注的知識庫";
+$Definition["Edit Default Knowledge Bases"] = "編輯預設知識庫";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "使用者可以關注知識庫來訂閱新文章或更新文章的通知。選擇新使用者預設應關注的知識庫。";
 

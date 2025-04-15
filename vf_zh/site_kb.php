@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "按类别浏览文章";
 $Definition["Browse"] = "浏览";
 $Definition["By <0/>"] = "由 <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "取消预定的文章并保存为草稿？";
 $Definition["category"] = "类别";
 $Definition["Categories"] = "版块列表";
 $Definition["Category One"] = "类别一";
@@ -149,6 +151,7 @@ $Definition["Subcategories"] = "子类别";
 $Definition["sub-categories"] = "子类别";
 $Definition["sub-category"] = "子类别";
 
+$Definition["Thank you for your feedback!"] = "感谢您的反馈！";
 $Definition["Thanks for your feedback!"] = "感谢您的反馈！";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "在知识库选择器上使用的横幅图像。可以基于每个知识库进行覆盖。推荐尺寸为1000像素乘以400像素或类似的比例。";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "原色用于按钮、输入和各种指示器。";
@@ -159,6 +162,9 @@ $Definition["There was an error"] = "存在错误。";
 $Definition["This article has been deleted."] = "此文章已被删除。";
 $Definition["This article hasn't been translated yet."] = "这篇文章还没有翻译.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "这篇文章还没有翻译。载入原文文章已以帮助翻译。";
+$Definition["The article draft is no longer available."] = "文章草稿已不再可用。";
+$Definition["The article is no longer available."] = "该文章已不再可用。";
+$Definition["The article revision is no longer available."] = "文章修订版不再可用。";
 $Definition['This article is not translated yet or it is out of date.'] = '本文尚未翻译或已过时。';
 $Definition['The article this draft is based on is no longer available.'] = '该草稿所基于的文章不再可用。';
 $Definition['The width of the center column of the primary layout in pixels.'] = '主布局中心列的像素宽度。';
@@ -177,6 +183,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "欢迎来到我们
 $Definition["This can be overridden on a per knowledge base basis."] = "能够逐个知识库覆写。";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "建议尺寸大约是%s乘以%s或者类似比例。";
 $Definition["The %s to use on the knowledge base chooser."] = "%s将用于知识库选择器。";
+$Definition["The article draft is no longer available."] = "文章草稿已不再可用。";
 $Definition["banner background image"] = "横幅背景图";
 $Definition["banner content image"] = "横幅内容图片";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "某些横幅图片上的文本可能难以阅读。启用此设置，在横幅图片上添加叠层，让文本较为清晰易读。";
@@ -201,10 +208,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "查看此类别中�
 
 $Definition["Was this article helpful?"] = "此文章有帮助吗？";
 $Definition["Write Discussion"] = "撰写讨论";
+$Definition["Write Article"] = "撰写文章";
 
 $Definition["You can see this message because you have special permissions."] = "您有特殊权限，因此可以查看此消息。";
 $Definition["You don't have permission to view this resource."] = "您没有查看此资源的权限。";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "您需要<0>登录</0>才能对本文进行投票";
 $Definition["Use Banner Image Overlay"] = "使用横幅图像叠加";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "如果没有选择类别，新用户默认不会关注任何类别。";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "您有未保存的更改。您确定要退出而不保存吗？";
+$Definition["Add Knowledge Bases to follow by default"] = "添加默认关注的知识库";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "如果没有选择知识库，新用户将不会关注任何知识库。";
+$Definition["Edit Default Notification Preferences"] = "编辑默认通知首选项";
+$Definition["Remove Category"] = "删除类别";
+$Definition["Remove Knowledge Base"] = "删除知识库";
+$Definition["new articles"] = "新文章";
+$Definition["updated articles"] = "更新的文章";
+$Definition["Unfollow Knowledge Base"] = "取消关注知识库";
+$Definition["Default Followed Knowledge Bases"] = "默认关注的知识库";
+$Definition["Edit Default Knowledge Bases"] = "编辑默认知识库";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "用户可以关注知识库，订阅新文章或更新文章的通知。选择新用户默认关注的知识库。";
 

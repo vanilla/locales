@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "زمرہ کے لحاظ سے مضا
 $Definition["Browse"] = "براؤز کریں";
 $Definition["By <0/>"] = "<0 /> کے ذریعہ";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "طے شدہ مضمون کو منسوخ کریں اور بطور مسودہ محفوظ کریں؟";
 $Definition["category"] = "قسم";
 $Definition["Categories"] = "زمرہ جات";
 $Definition["Category One"] = "زمرہ اول";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "زمرہ جات";
 $Definition["sub-categories"] = "ذیلی زمرے";
 $Definition["sub-category"] = "ذیلی قسم";
 
+$Definition["Thank you for your feedback!"] = "آپ کے تاثرات کا شکریہ!";
 $Definition["Thanks for your feedback!"] = "آپ کی راے کا شکریہ!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "علم کی بنیاد کے انتخاب کنندہ پر استعمال کرنے کیلئے بینر کی تصویر۔ اسے فی وا knowلڈج بیس کی بنیاد پر اوور رائیڈ کیا جاسکتا ہے۔ تجویز کردہ طول و عرض تقریبا 1000px از 400px یا اسی طرح کے تناسب ہیں۔";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "بنیادی رنگ بٹن ، آدانوں اور مختلف اشارے کیلئے استعمال ہوتا ہے۔";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "ایک خامی تھی";
 $Definition["This article has been deleted."] = "یہ مضمون حذف کردیا گیا ہے۔";
 $Definition["This article hasn't been translated yet."] = "ابھی تک اس مضمون کا ترجمہ نہیں کیا گیا ہے۔";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "ابھی تک اس مضمون کا ترجمہ نہیں کیا گیا ہے۔ ترجمے میں مدد کے ل The اصل مضمون کا متن بھرا ہوا ہے۔";
+$Definition["The article draft is no longer available."] = "مضمون کا مسودہ اب دستیاب نہیں ہے۔";
+$Definition["The article is no longer available."] = "مضمون اب دستیاب نہیں ہے۔";
+$Definition["The article revision is no longer available."] = "مضمون کی نظرثانی اب دستیاب نہیں ہے۔";
 $Definition['This article is not translated yet or it is out of date.'] = 'اس مضمون کا ابھی ترجمہ نہیں ہوا ہے یا یہ پرانا ہے۔';
 $Definition['The article this draft is based on is no longer available.'] = 'یہ مسودہ جس مضمون پر مبنی ہے وہ اب دستیاب نہیں ہے۔';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'بنیادی ترتیب کے وسطی کالم کی چوڑائی پکسلز میں۔';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "ہمارے نال�
 $Definition["This can be overridden on a per knowledge base basis."] = "اس کو فی علم کی بنیاد کی بنیاد پر زیر کیا جاسکتا ہے۔";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "تجویز کردہ طول و عرض %s بذریعہ %s یا اسی طرح کا تناسب ہیں۔";
 $Definition["The %s to use on the knowledge base chooser."] = "علم بیس انتخاب کنندہ پر استعمال کرنے کیلئے %s۔";
+$Definition["The article draft is no longer available."] = "مضمون کا مسودہ اب دستیاب نہیں ہے۔";
 $Definition["banner background image"] = "بینر کے پس منظر کی تصویر";
 $Definition["banner content image"] = "بینر مواد کی تصویر";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "کچھ بینر کی تصاویر کے اوپر متن پڑھنا مشکل ہوسکتا ہے۔ بینر کی تصاویر پر ایک اتبشایی شامل کرنے کے لئے اس ترتیب کو فعال کریں جس سے متن کو پڑھنے میں آسانی ہوتی ہے۔";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "زمرہ سے تم�
 
 $Definition["Was this article helpful?"] = "کیا یہ مضمون مددگار تھا؟";
 $Definition["Write Discussion"] = "بحث لکھیں";
+$Definition["Write Article"] = "مضمون لکھیں۔";
 
 $Definition["You can see this message because you have special permissions."] = "آپ یہ پیغام اس وجہ سے دیکھ سکتے ہیں کہ آپ کو خصوصی اجازت نامے حاصل ہیں۔";
 $Definition["You don't have permission to view this resource."] = "آپ کو یہ وسیلہ دیکھنے کی اجازت نہیں ہے۔";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "آپ کو <0> سائن ان کرنے کی ضرورت ہے </0> اس مضمون پر ووٹ ڈالنے کے لئے";
 $Definition["Use Banner Image Overlay"] = "بینر امیج اوورلے کا استعمال کریں";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "اگر کوئی زمرہ منتخب نہیں کیا جاتا ہے، تو نئے صارفین ڈیفالٹ کے لحاظ سے کسی بھی زمرے کی پیروی نہیں کریں گے۔";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "آپ کے پاس غیر محفوظ شدہ تبدیلیاں ہیں۔ کیا آپ واقعی محفوظ کیے بغیر باہر نکلنا چاہتے ہیں؟";
+$Definition["Add Knowledge Bases to follow by default"] = "پہلے سے طے شدہ پیروی کرنے کے لیے نالج بیسز شامل کریں۔";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "اگر کوئی نالج بیسز منتخب نہیں کیے جاتے ہیں تو نئے صارفین کسی بھی نالج بیسز کی پیروی نہیں کریں گے۔";
+$Definition["Edit Default Notification Preferences"] = "پہلے سے طے شدہ اطلاع کی ترجیحات میں ترمیم کریں۔";
+$Definition["Remove Category"] = "زمرہ ہٹا دیں۔";
+$Definition["Remove Knowledge Base"] = "نالج بیس کو ہٹا دیں۔";
+$Definition["new articles"] = "نئے مضامین";
+$Definition["updated articles"] = "اپ ڈیٹ شدہ مضامین";
+$Definition["Unfollow Knowledge Base"] = "نالج بیس کی پیروی ختم کریں۔";
+$Definition["Default Followed Knowledge Bases"] = "پہلے سے طے شدہ علم کی بنیادیں";
+$Definition["Edit Default Knowledge Bases"] = "پہلے سے طے شدہ نالج بیسز میں ترمیم کریں۔";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "صارفین نئے یا اپ ڈیٹ شدہ مضامین کی اطلاعات کو سبسکرائب کرنے کے لیے نالج بیسز کی پیروی کر سکتے ہیں۔ منتخب کریں کہ کون سے نالج بیسز نئے صارفین کو بطور ڈیفالٹ فالو کرنا چاہیے۔";
 

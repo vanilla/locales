@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "تصفح المقالات حسب �
 $Definition["Browse"] = "تصفح";
 $Definition["By <0/>"] = "بواسطة <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "إلغاء المقالة المجدولة وحفظها كمسودة؟";
 $Definition["category"] = "الفئة ";
 $Definition["Categories"] = "الأقسام";
 $Definition["Category One"] = "الفئة رقم واحد";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "فئات فرعية";
 $Definition["sub-categories"] = "الفئات الفرعية";
 $Definition["sub-category"] = "تصنيف فرعي";
 
+$Definition["Thank you for your feedback!"] = "شكرا لتعليقاتك!";
 $Definition["Thanks for your feedback!"] = "شكراً لك على آرائك! ";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "صورة الإعلان لاستخدامها في منتقي قاعدة المعرفة. يمكن تجاوز هذا على استناداً إلى كل قاعدة معرفة. تبلغ الأبعاد الموصى بها حوالي 1000 بكسل / 400 بكسل أو نسبة مماثلة.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "يستخدم اللون الأساسي للأزرار والمدخلات والمؤشرات المختلفة.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "لقد حدث خطأ ";
 $Definition["This article has been deleted."] = "لقد تم حذف هذه المقالة. ";
 $Definition["This article hasn't been translated yet."] = "لم يُترجم هذا المقال بعد.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "لم يُترجم هذا المقال بعد. تم تحميل نص المقال الأصلي للمساعدة في الترجمة.";
+$Definition["The article draft is no longer available."] = "مسودة المقال لم تعد متاحة.";
+$Definition["The article is no longer available."] = "المقال لم يعد متاحا.";
+$Definition["The article revision is no longer available."] = "لم تعد مراجعة المقالة متاحة.";
 $Definition['This article is not translated yet or it is out of date.'] = 'لم تتم ترجمة هذه المقالة بعد أو أنها غير محدثة.';
 $Definition['The article this draft is based on is no longer available.'] = 'المقالة التي تستند إليها هذه المسودة لم تعد متوفرة.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'عرض العمود الأوسط للمخطط الأساسي بوحدة البكسل.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "مرحباً بك 
 $Definition["This can be overridden on a per knowledge base basis."] = "يمكن تجاوز هذا لكل قاعدة معارف على حدة.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "الأبعاد الموصى بها هي حوالي %s في %s أو نسبة مماثلة.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s الذي يُستخدم في منتقي قاعدة المعارف.";
+$Definition["The article draft is no longer available."] = "مسودة المقال لم تعد متاحة.";
 $Definition["banner background image"] = "صورة خلفية الشعار";
 $Definition["banner content image"] = "صورة محتوى الشعار";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "قد تصعب قراءة النص الموجود أعلى بعض صور الشعارات. يمكنك تمكين هذا الإعداد لإضافة تراكب على صور الشعارات مما يسهل قراءة النص.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "عرض كل الم�
 
 $Definition["Was this article helpful?"] = "هل كانت هذه المقالة مفيدة؟ ";
 $Definition["Write Discussion"] = "اكتب مناقشة";
+$Definition["Write Article"] = "كتابة مقال";
 
 $Definition["You can see this message because you have special permissions."] = "يمكنك رؤية هذه الرسالة لأن لديك أذون خاصة. ";
 $Definition["You don't have permission to view this resource."] = "ليس لديك الإذن بعرض هذا المورد. ";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "أنت بحاجة إلى <0>تسجيل الدخول</0> للتصويت على هذه المقالة ";
 $Definition["Use Banner Image Overlay"] = "استخدم تراكب صورة الإعلان";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "إذا لم يتم تحديد أي فئات، فلن يتابع المستخدمون الجدد أي فئات بشكل افتراضي.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "لديك تغييرات غير محفوظة. هل أنت متأكد من رغبتك في الخروج دون حفظ؟";
+$Definition["Add Knowledge Bases to follow by default"] = "إضافة قواعد المعرفة للمتابعة افتراضيًا";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "إذا لم يتم تحديد قواعد المعرفة، فلن يتبع المستخدمون الجدد أي قواعد معرفة.";
+$Definition["Edit Default Notification Preferences"] = "تحرير تفضيلات الإشعارات الافتراضية";
+$Definition["Remove Category"] = "إزالة الفئة";
+$Definition["Remove Knowledge Base"] = "إزالة قاعدة المعرفة";
+$Definition["new articles"] = "مقالات جديدة";
+$Definition["updated articles"] = "مقالات محدثة";
+$Definition["Unfollow Knowledge Base"] = "إلغاء متابعة قاعدة المعرفة";
+$Definition["Default Followed Knowledge Bases"] = "قواعد المعرفة الافتراضية المتبعة";
+$Definition["Edit Default Knowledge Bases"] = "تحرير قواعد المعرفة الافتراضية";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "يمكن للمستخدمين متابعة قواعد المعرفة للاشتراك في إشعارات المقالات الجديدة أو المُحدَّثة. اختر قواعد المعرفة التي يجب على المستخدمين الجدد متابعتها افتراضيًا.";
 

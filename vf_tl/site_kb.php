@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Mag-browse ng Mga Artikulo ayon sa
 $Definition["Browse"] = "I-browse";
 $Definition["By <0/>"] = "Ayon sa <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Kanselahin ang nakaiskedyul na artikulo at i-save bilang draft?";
 $Definition["category"] = "kategorya";
 $Definition["Categories"] = "Mga Kategorya";
 $Definition["Category One"] = "Unang Kategorya";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Mga Subcategory";
 $Definition["sub-categories"] = "mga sub-kategorya";
 $Definition["sub-category"] = "sub-kategorya";
 
+$Definition["Thank you for your feedback!"] = "Salamat sa iyong feedback!";
 $Definition["Thanks for your feedback!"] = "Salamat sa iyong feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Ang imahe ng banner na dapat gamitin sa knowledge base chooser. Maaari itong maisantabi kada knoweldge base. Ang inirerekomendang sukat ay mga 1000px by 400px o kaparehong ratio.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Ginagamit ang pangunahing kulay  para sa mga button, input, at iba't ibang indicator.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Nagkaroon ng mali";
 $Definition["This article has been deleted."] = "Ang artikulong ito ay na-delete na.";
 $Definition["This article hasn't been translated yet."] = "Ang artikulong ito ay hindi pa naisasalin.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Ang artikulong ito ay hindi pa naisasalin.  Ang orihinal na teksto ng artikulo ay nai-load na para makatulong sa pagsasalin.";
+$Definition["The article draft is no longer available."] = "Hindi na available ang draft ng artikulo.";
+$Definition["The article is no longer available."] = "Ang artikulo ay hindi na magagamit.";
+$Definition["The article revision is no longer available."] = "Hindi na available ang rebisyon ng artikulo.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Hindi pa naisasalin ang artikulong ito o ito ay luma na.';
 $Definition['The article this draft is based on is no longer available.'] = 'Ang artikulo kung saan ibinase ang draft na ito ay hindi na available.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ang lapad ng center column ng pangunahing layout sa pixels.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Maligayang pagdati
 $Definition["This can be overridden on a per knowledge base basis."] = "Maaari itong ma-override ayon sa batayan ng knowledge base.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Ang inirerekomendang sukat ay mga %s by %s o katulad na ratio.";
 $Definition["The %s to use on the knowledge base chooser."] = "Ang %s na gagamitin sa knowledge base chooser.";
+$Definition["The article draft is no longer available."] = "Hindi na available ang draft ng artikulo.";
 $Definition["banner background image"] = "panlikod na larawan ng banner";
 $Definition["banner content image"] = "nilalamang larawan ng banner";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Maaaring maging mahirap basahin ang nakasulat sa itaas ng ilang larawan ng banner. Paganahin ang setting na ito para magdagdag ng overlay sa mga larawan ng banner na nagpapadali sa pagbasa ng nakasulat.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Tingnan lahat ng mg
 
 $Definition["Was this article helpful?"] = "Nakatulong ba ang artikulong ito?";
 $Definition["Write Discussion"] = "Isulat ang Talakayan";
+$Definition["Write Article"] = "Sumulat ng Artikulo";
 
 $Definition["You can see this message because you have special permissions."] = "Maaari mong makita ang mensaheng ito dahil mayroon kang mga espesyal na pahintulot.";
 $Definition["You don't have permission to view this resource."] = "Wala kang pahintulot na tingnan ang sanggunian na ito.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Kailangan mong mag- <0>Sign In</0> para makaboto sa artikulong ito";
 $Definition["Use Banner Image Overlay"] = "Gamitin ang Banner Image Overlay";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Kung walang napiling mga kategorya, hindi susundin ng mga bagong user ang anumang kategorya bilang default.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Mayroon kang mga hindi na-save na pagbabago. Sigurado ka bang gusto mong lumabas nang hindi nagse-save?";
+$Definition["Add Knowledge Bases to follow by default"] = "Magdagdag ng Mga Base ng Kaalaman na susundan bilang default";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Kung walang mga Knowledge Base ang pipiliin, ang mga bagong user ay hindi susunod sa anumang Knowledge Bases.";
+$Definition["Edit Default Notification Preferences"] = "I-edit ang Default na Mga Kagustuhan sa Notification";
+$Definition["Remove Category"] = "Alisin ang Kategorya";
+$Definition["Remove Knowledge Base"] = "Alisin ang Knowledge Base";
+$Definition["new articles"] = "mga bagong artikulo";
+$Definition["updated articles"] = "na-update na mga artikulo";
+$Definition["Unfollow Knowledge Base"] = "I-unfollow ang Knowledge Base";
+$Definition["Default Followed Knowledge Bases"] = "Mga Default na Sinunod na Knowledge Base";
+$Definition["Edit Default Knowledge Bases"] = "I-edit ang Mga Default na Knowledge Base";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Maaaring sundan ng mga user ang Knowledge Bases upang mag-subscribe sa mga notification para sa mga bago o na-update na artikulo. Piliin kung aling Mga Knowledge Base ang dapat sundin ng mga bagong user bilang default.";
 

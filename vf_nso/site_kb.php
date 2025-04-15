@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Bala Dihlogo ka Legoro";
 $Definition["Browse"] = "Browse";
 $Definition["By <0/>"] = "Ka <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Khansela sehlogo se se rulagantšwego gomme o se boloke bjalo ka sengwalwa?";
 $Definition["category"] = "legoro";
 $Definition["Categories"] = "Magoro";
 $Definition["Category One"] = "Legoro la Pele";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Dihlopha tše nnyane";
 $Definition["sub-categories"] = "dihlopha tše nnyane";
 $Definition["sub-category"] = "legoro le lenyenyane";
 
+$Definition["Thank you for your feedback!"] = "Re leboga ditshwayotshwayo tša gago!";
 $Definition["Thanks for your feedback!"] = "Re leboga ditshwaotshwao tša gago!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Seswantšho sa banner go šomiša godimo ga mokgethi wa motheo wa tsebo. Se se ka tlošwa motheong wa motheo wa tsebo ka e tee. Ditekanyo tše di kgothaletšwago di ka ba 1000px ka 400px goba tekanyo ye e swanago.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Mmala wa mathomo o dirišetšwa dikonope, ditseno le ditšhupetšo tše di fapa-fapanego.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Go bile le phošo";
 $Definition["This article has been deleted."] = "Sehlogo se se phumotšwe.";
 $Definition["This article hasn't been translated yet."] = "Sehlogo se ga se sa fetolelwa go fihla ga bjale.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Sehlogo se ga se sa fetolelwa go fihla ga bjale. Sengwalwa sa mathomo sa sehlogo se laeditšwe go thuša phetolelo.";
+$Definition["The article draft is no longer available."] = "Sengwalwa sa sehlogo ga se sa hwetšagala.";
+$Definition["The article is no longer available."] = "Sehlogo se ga se sa hwetšagala.";
+$Definition["The article revision is no longer available."] = "Poeletšo ya sehlogo ga e sa hwetšagala.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Sehlogo se ga se sa fetolelwa go fihla ga bjale goba se fetilwe ke nako.';
 $Definition['The article this draft is based on is no longer available.'] = 'Sehlogo seo sengwalwa se se theilwego go sona ga se sa hwetšagala.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Bophara bja kholomo ya bogareng bja peakanyo ya mathomo ka dipiksele.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Re a go amogela mo
 $Definition["This can be overridden on a per knowledge base basis."] = "Se se ka tlošwa motheong wa motheo wa tsebo ka o tee ka o tee.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Ditekanyo tše di šišinywago di ka ba %s ka %s goba tekanyo ye e swanago.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s yeo e swanetšego go šomišwa go mokgethi wa motheo wa tsebo.";
+$Definition["The article draft is no longer available."] = "Sengwalwa sa sehlogo ga se sa hwetšagala.";
 $Definition["banner background image"] = "banner setšoantšo sa bokamorao";
 $Definition["banner content image"] = "banner dikahare setšoantšo";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Go ka ba thata go bala sengwalwa godimo ga diswantšho tše itšego tša difolaga. Kgontšha peakanyo ye go oketša go akaretša godimo ga diswantšho tša sefoka seo se dirago gore sengwalwa se bale gabonolo.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Lebelela dihlogo ka
 
 $Definition["Was this article helpful?"] = "Na sehlogo se se ile sa thuša?";
 $Definition["Write Discussion"] = "Ngwala Poledišano";
+$Definition["Write Article"] = "Ngwala Athikele";
 
 $Definition["You can see this message because you have special permissions."] = "O ka bona molaetša wo ka gobane o na le ditumelelo tše di kgethegilego.";
 $Definition["You don't have permission to view this resource."] = "Ga o na tumelelo ya go lebelela mothopo wo.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "O swanetše go <0>Tsena</0> go boutela sehlogo se";
 $Definition["Use Banner Image Overlay"] = "Šomiša Sebopego sa Seswantšho sa Banner";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Ge e le gore ga go na magoro ao a kgethilwego, badiriši ba bafsa ba ka se latele magoro afe goba afe ka go ikemela.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "O na le diphetogo tšeo di sa bolokwago. Na o na le bonnete bja gore o nyaka go tšwa ntle le go boloka?";
+$Definition["Add Knowledge Bases to follow by default"] = "Oketša Metheo ya Tsebo go latela ka go ikemela";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Ge e le gore ga go na Metheo ya Tsebo ye e kgethilwego, badiriši ba bafsa ba ka se latele Metheo ya Tsebo efe goba efe.";
+$Definition["Edit Default Notification Preferences"] = "Edita Dikgetho tša Tsebišo ya Tlwaelo";
+$Definition["Remove Category"] = "Tloša Legoro";
+$Definition["Remove Knowledge Base"] = "Tloša Motheo wa Tsebo";
+$Definition["new articles"] = "dihlogo tše difsa";
+$Definition["updated articles"] = "dihlogo tše di mpshafaditšwego";
+$Definition["Unfollow Knowledge Base"] = "Unfollow Motheo wa Tsebo";
+$Definition["Default Followed Knowledge Bases"] = "Metheo ya Tsebo ye e Latelwago ya Tlwaelo";
+$Definition["Edit Default Knowledge Bases"] = "Edita Metheo ya Tsebo ya Tlwaelo";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Badiriši ba ka latela Metheo ya Tsebo go ingwadišetša ditsebišo tša diathikele tše mpsha goba tše di mpshafaditšwego. Kgetha gore ke Metheo efe ya Tsebo yeo badiriši ba bafsa ba swanetšego go e latela ka go ikemela.";
 

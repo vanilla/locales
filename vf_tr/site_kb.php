@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Makalelere Kategoriye Göre Gözat
 $Definition["Browse"] = "Gözat";
 $Definition["By <0/>"] = "<0/> tarafından";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Planlanmış makaleyi iptal edip taslak olarak kaydetmek istiyor musunuz?";
 $Definition["category"] = "kategori";
 $Definition["Categories"] = "Kategoriler";
 $Definition["Category One"] = "Kategori Bir";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Alt kategoriler";
 $Definition["sub-categories"] = "alt kategoriler";
 $Definition["sub-category"] = "alt kategori";
 
+$Definition["Thank you for your feedback!"] = "Geri bildiriminiz için teşekkür ederiz!";
 $Definition["Thanks for your feedback!"] = "Geri bildiriminiz için teşekkürler!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Bilgi tabanı seçicide kullanılacak banner resim. Bu, bilgi tabanı başına olacak şekilde, üzerine yazılabilir. Önerilen boyutlar yaklaşık 1000px'e 400px veya benzer bir orandır.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Birincil renk, butonlar, girdiler ve çeşitli belirteçler için kullanılır.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Bir hata oluştu";
 $Definition["This article has been deleted."] = "Bu makale silinmiş.";
 $Definition["This article hasn't been translated yet."] = "Bu makale henüz çevrilmedi.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Bu makale henüz çevrilmedi. Çeviriye yardımcı olmak için orijinal makale metni yüklenmiştir.";
+$Definition["The article draft is no longer available."] = "Makale taslağı artık mevcut değil.";
+$Definition["The article is no longer available."] = "Makale artık mevcut değil.";
+$Definition["The article revision is no longer available."] = "Makale revizyonu artık mevcut değil.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Bu makale henüz çevrilmemiş veya tarihi geçmiş.';
 $Definition['The article this draft is based on is no longer available.'] = 'Bu taslağın bağlı olduğu makale artık yok.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'İlk düzenin orta piksel olarak sütun genişliği ';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Bilgi Üssümüze 
 $Definition["This can be overridden on a per knowledge base basis."] = "Bu, bilgi tabanı bazlı olarak geçersiz kılınabilir.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Önerilen boyutlar %s %s veya benzeri.";
 $Definition["The %s to use on the knowledge base chooser."] = "Bilgi tabanı seçicisinde kullanılacak %s";
+$Definition["The article draft is no longer available."] = "Makale taslağı artık mevcut değil.";
 $Definition["banner background image"] = "banner arkaplan resmi";
 $Definition["banner content image"] = "banner içerik resmi";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Belli banner resimlerinin üstündeki metni okumak zor olabilir. Okumayı kolaylaştırması adına banner resimlerinin üzerine bir katman eklemek için bu ayarı etkin hale getirin.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Bu kategorideki tü
 
 $Definition["Was this article helpful?"] = "Bu makale yardımcı oldu mu?";
 $Definition["Write Discussion"] = "Konuşma Yaz";
+$Definition["Write Article"] = "Makale Yaz";
 
 $Definition["You can see this message because you have special permissions."] = "Özel izinleriniz olduğu için bu mesajı görebilirsiniz.";
 $Definition["You don't have permission to view this resource."] = "Bu kaynağı görüntülemeye izniniz yok.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Bu makaleyi puanlamak için <0>Giriş</0> yapmalısınız";
 $Definition["Use Banner Image Overlay"] = "Banner Görseli Katmanını Kullan";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Hiçbir kategori seçilmezse, yeni kullanıcılar varsayılan olarak hiçbir kategoriyi takip etmeyecektir.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Kaydedilmemiş değişiklikleriniz var. Kaydetmeden çıkmak istediğinizden emin misiniz?";
+$Definition["Add Knowledge Bases to follow by default"] = "Varsayılan olarak takip edilecek Bilgi Tabanlarını ekleyin";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Hiçbir Bilgi Tabanı seçilmezse, yeni kullanıcılar hiçbir Bilgi Tabanını takip etmeyecektir.";
+$Definition["Edit Default Notification Preferences"] = "Varsayılan Bildirim Tercihlerini Düzenle";
+$Definition["Remove Category"] = "Kategoriyi Kaldır";
+$Definition["Remove Knowledge Base"] = "Bilgi Tabanını Kaldır";
+$Definition["new articles"] = "yeni makaleler";
+$Definition["updated articles"] = "güncellenen makaleler";
+$Definition["Unfollow Knowledge Base"] = "Bilgi Bankasını Takipten Çıkar";
+$Definition["Default Followed Knowledge Bases"] = "Varsayılan Takip Edilen Bilgi Tabanları";
+$Definition["Edit Default Knowledge Bases"] = "Varsayılan Bilgi Tabanlarını Düzenle";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Kullanıcılar yeni veya güncellenmiş makaleler için bildirimlere abone olmak üzere Bilgi Tabanlarını takip edebilirler. Yeni kullanıcıların varsayılan olarak hangi Bilgi Tabanlarını takip edeceğini seçin.";
 
