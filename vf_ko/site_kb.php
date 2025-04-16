@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "카테고리로 아티클 훑어�
 $Definition["Browse"] = "웹 서핑";
 $Definition["By <0/>"] = "<0/>에 의한";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "예약된 기사를 취소하고 초안으로 저장하시겠습니까?";
 $Definition["category"] = "카테고리";
 $Definition["Categories"] = "카테고리";
 $Definition["Category One"] = "카테고리 1";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "하위 카테고리";
 $Definition["sub-categories"] = "하위 카테고리";
 $Definition["sub-category"] = "하위 카테고리";
 
+$Definition["Thank you for your feedback!"] = "피드백을 주셔서 감사합니다!";
 $Definition["Thanks for your feedback!"] = "피드백에 감사드립니다!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "지식 베이스 선택 도구에 사용할 배너 이미지. 이것은 지식 베이스 기반에 따라 무시될 수 있습니다. 권장되는 치수는 약 1000px x 400px 또는 유사한 비율.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "기본 색상은 버튼, 입력 및 다양한 지표에 사용됩니다.";
@@ -159,6 +162,9 @@ $Definition["There was an error"] = "오류가 발생했습니다";
 $Definition["This article has been deleted."] = "이 아티클은 삭제되었습니다.";
 $Definition["This article hasn't been translated yet."] = "이 글은 아직 번역되지 않았습니다.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "이 글은 아직 번역되지 않았습니다. 번역을 돕기 위해  원본 글 텍스트가 로드되었습니다. ";
+$Definition["The article draft is no longer available."] = "기사 초안을 더 이상 사용할 수 없습니다.";
+$Definition["The article is no longer available."] = "해당 기사는 더 이상 제공되지 않습니다.";
+$Definition["The article revision is no longer available."] = "해당 기사의 수정본은 더 이상 제공되지 않습니다.";
 $Definition['This article is not translated yet or it is out of date.'] = '이 아티클은 아직 번역되지 않았거나 기한이 지났습니다.';
 $Definition['The article this draft is based on is no longer available.'] = '이 초안의 기초가 된 아티클은 더 이상 사용할 수 없습니다.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'The width of the center column of the primary layout in pixels.
@@ -178,6 +184,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "지식 베이스�
 $Definition["This can be overridden on a per knowledge base basis."] = "이것은 지식 베이스 기반에 따라 재정의될 수 있습니다.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "권장 치수는 %s 또는 유사한 비율로 대략 %s입니다.";
 $Definition["The %s to use on the knowledge base chooser."] = "지식 베이스 선택 도구에서 사용할 %s.";
+$Definition["The article draft is no longer available."] = "기사 초안을 더 이상 사용할 수 없습니다.";
 $Definition["banner background image"] = "배너 배경 이미지";
 $Definition["banner content image"] = "배너 콘텐츠 이미지";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "특정 배너 이미지상에 있는 텍스트를 읽는 것은 어려울 수 있습니다. 텍스트를 읽기 쉽게 만드는 배너 이미지 위에 오버레이를 추가하려면 이 설정을 활성화하세요.";
@@ -202,10 +209,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "카테고리에서 
 
 $Definition["Was this article helpful?"] = "이 아티클이 도움이 되었나요?";
 $Definition["Write Discussion"] = "토론 쓰기";
+$Definition["Write Article"] = "기사 쓰기";
 
 $Definition["You can see this message because you have special permissions."] = "특별 권한이 있기에, 이 메시지를 볼 수 있습니다.";
 $Definition["You don't have permission to view this resource."] = "해당 자료를 볼 권한이 없습니다.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "해당 아티클에 투표하려면, <0>로그인</0>해야 합니다   ";
 $Definition["Use Banner Image Overlay"] = "배너 이미지 오버레이 사용";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "아무 카테고리도 선택하지 않으면 기본적으로 새 사용자는 어떤 카테고리도 따르지 않습니다.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "저장하지 않은 변경 사항이 있습니다. 저장하지 않고 종료하시겠습니까?";
+$Definition["Add Knowledge Bases to follow by default"] = "기본적으로 따라야 할 지식 기반 추가";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "지식 기반을 선택하지 않으면 새 사용자는 어떤 지식 기반도 팔로우하지 않습니다.";
+$Definition["Edit Default Notification Preferences"] = "기본 알림 환경 설정 편집";
+$Definition["Remove Category"] = "카테고리 제거";
+$Definition["Remove Knowledge Base"] = "지식 기반 제거";
+$Definition["new articles"] = "새로운 기사";
+$Definition["updated articles"] = "업데이트된 기사";
+$Definition["Unfollow Knowledge Base"] = "지식 기반 팔로우 취소";
+$Definition["Default Followed Knowledge Bases"] = "기본적으로 팔로우되는 지식 기반";
+$Definition["Edit Default Knowledge Bases"] = "기본 지식 기반 편집";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "사용자는 지식 베이스를 팔로우하여 새 글이나 업데이트된 글에 대한 알림을 구독할 수 있습니다. 새 사용자가 기본적으로 팔로우해야 할 지식 베이스를 선택하세요.";
 

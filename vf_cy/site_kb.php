@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Porwch Erthyglau yn ôl Categori";
 $Definition["Browse"] = "Porwch";
 $Definition["By <0/>"] = "Gan <0 />";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Canslo'r erthygl a drefnwyd a'i chadw fel drafft?";
 $Definition["category"] = "Categori";
 $Definition["Categories"] = "Categorïau";
 $Definition["Category One"] = "Categori Un";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Is-gategorïau";
 $Definition["sub-categories"] = "is-gategorïau";
 $Definition["sub-category"] = "is-gategori";
 
+$Definition["Thank you for your feedback!"] = "Diolch am eich adborth!";
 $Definition["Thanks for your feedback!"] = "Diolch am eich adborth!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Delwedd y faner i'w defnyddio ar y dewisydd sylfaen wybodaeth. Gellir diystyru hyn ar sail per-knoweldge. Mae'r dimensiynau a argymhellir tua 1000px wrth 400px neu gymhareb debyg.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Defnyddir y lliw cynradd ar gyfer botymau, mewnbynnau a dangosyddion amrywiol.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Roedd gwall";
 $Definition["This article has been deleted."] = "Mae'r erthygl hon wedi'i dileu.";
 $Definition["This article hasn't been translated yet."] = "Nid yw'r erthygl hon wedi'i chyfieithu eto.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Nid yw'r erthygl hon wedi'i chyfieithu eto. Mae testun gwreiddiol yr erthygl wedi'i lwytho i gynorthwyo cyfieithu.";
+$Definition["The article draft is no longer available."] = "Nid yw drafft yr erthygl ar gael bellach.";
+$Definition["The article is no longer available."] = "Nid yw'r erthygl ar gael bellach.";
+$Definition["The article revision is no longer available."] = "Nid yw adolygiad yr erthygl ar gael bellach.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Nid yw\'r erthygl hon wedi\'i chyfieithu eto neu mae wedi dyddio.';
 $Definition['The article this draft is based on is no longer available.'] = 'Nid yw\'r erthygl y mae\'r drafft hwn yn seiliedig arni ar gael bellach.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Lled colofn ganol y cynllun cynradd mewn picseli.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Croeso i'n Sylfaen
 $Definition["This can be overridden on a per knowledge base basis."] = "Gellir diystyru hyn ar sail pob sail wybodaeth.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Mae'r dimensiynau a argymhellir tua %s gan %s neu gymhareb debyg.";
 $Definition["The %s to use on the knowledge base chooser."] = "Yr %s i'w ddefnyddio ar y dewisydd sylfaen wybodaeth.";
+$Definition["The article draft is no longer available."] = "Nid yw drafft yr erthygl ar gael bellach.";
 $Definition["banner background image"] = "delwedd cefndir baner";
 $Definition["banner content image"] = "delwedd cynnwys baner";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Gall fod yn anodd darllen testun ar ben rhai delweddau baner. Galluogi'r gosodiad hwn i ychwanegu troshaen dros ddelweddau baner sy'n ei gwneud hi'n haws darllen testun.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Gweld pob erthygl o
 
 $Definition["Was this article helpful?"] = "A oedd yr erthygl hon yn ddefnyddiol?";
 $Definition["Write Discussion"] = "Ysgrifennwch Drafodaeth";
+$Definition["Write Article"] = "Ysgrifennwch Erthygl";
 
 $Definition["You can see this message because you have special permissions."] = "Gallwch weld y neges hon oherwydd bod gennych ganiatâd arbennig.";
 $Definition["You don't have permission to view this resource."] = "Nid oes gennych ganiatâd i weld yr adnodd hwn.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Mae angen i chi <0> Mewngofnodi </0> i bleidleisio ar yr erthygl hon";
 $Definition["Use Banner Image Overlay"] = "Defnyddiwch Droshaen Delwedd Baner";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Os na ddewisir categorïau, ni fydd defnyddwyr newydd yn dilyn unrhyw gategorïau yn ddiofyn.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Mae gennych newidiadau heb eu cadw. Ydych chi'n siŵr eich bod am adael heb gadw?";
+$Definition["Add Knowledge Bases to follow by default"] = "Ychwanegu Cronfeydd Gwybodaeth i ddilyn yn ddiofyn";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Os na ddewisir unrhyw Gronfeydd Gwybodaeth, ni fydd defnyddwyr newydd yn dilyn unrhyw Gronfeydd Gwybodaeth.";
+$Definition["Edit Default Notification Preferences"] = "Golygu Dewisiadau Hysbysiad Rhagosodedig";
+$Definition["Remove Category"] = "Dileu Categori";
+$Definition["Remove Knowledge Base"] = "Dileu Sylfaen Wybodaeth";
+$Definition["new articles"] = "erthyglau newydd";
+$Definition["updated articles"] = "erthyglau wedi'u diweddaru";
+$Definition["Unfollow Knowledge Base"] = "Dad-ddilyn Sylfaen Wybodaeth";
+$Definition["Default Followed Knowledge Bases"] = "Sylfaenau Gwybodaeth Ddilynol Rhagosodedig";
+$Definition["Edit Default Knowledge Bases"] = "Golygu Cronfeydd Gwybodaeth Diofyn";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Gall defnyddwyr ddilyn Cronfeydd Gwybodaeth i danysgrifio i hysbysiadau ar gyfer erthyglau newydd neu wedi'u diweddaru. Dewiswch pa Gronfeydd Gwybodaeth y dylai defnyddwyr newydd eu dilyn yn ddiofyn.";
 

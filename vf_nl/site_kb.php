@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Blader door artikelen op categorie
 $Definition["Browse"] = "Bladeren";
 $Definition["By <0/>"] = "Door <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Gepland artikel annuleren en opslaan als concept?";
 $Definition["category"] = "Categorie";
 $Definition["Categories"] = "Categorieën";
 $Definition["Category One"] = "Categorie een";
@@ -149,6 +151,7 @@ $Definition["Subcategories"] = "Subcategorieën";
 $Definition["sub-categories"] = "subcategorieën";
 $Definition["sub-category"] = "subcategorie";
 
+$Definition["Thank you for your feedback!"] = "Bedankt voor uw feedback!";
 $Definition["Thanks for your feedback!"] = "Bedankt voor je feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "De bannerafbeelding die gebruikt moet worden gebruikt voor de kennisbestandkiezer. Dit kan per kennisbestand overschreven worden. Aanbevolen afmetingen zijn ongeveer 1000 px bij 400 px of een vergelijkbare verhouding.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "De hoofdkleur wordt gebruikt voor knoppen, inputs en verschillende indicatoren.";
@@ -159,6 +162,9 @@ $Definition["There was an error"] = "Er is een fout opgetreden";
 $Definition["This article has been deleted."] = "Dit artikel is verwijderd.";
 $Definition["This article hasn't been translated yet."] = "Dit artikel is nog niet vertaald.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Dit artikel is nog niet vertaald. De originele tekst van het artikel is geladen om vertaling mogelijk te maken.";
+$Definition["The article draft is no longer available."] = "Het conceptartikel is niet meer beschikbaar.";
+$Definition["The article is no longer available."] = "Het artikel is niet meer beschikbaar.";
+$Definition["The article revision is no longer available."] = "De artikelrevisie is niet meer beschikbaar.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Dit artikel is nog niet vertaald of het is achterhaald.';
 $Definition['The article this draft is based on is no longer available.'] = 'Het artikel waarop dit concept gebaseerd is, is niet meer beschikbaar.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'De breedte van de middenkolom van de belangrijkste lay-out in pixels.';
@@ -177,6 +183,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Welkom bij onze ke
 $Definition["This can be overridden on a per knowledge base basis."] = "Dit kan per kennisbasis overschreven worden.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Aanbevolen afmetingen zijn ongeveer %s bij %s of een vergelijkbare verhouding.";
 $Definition["The %s to use on the knowledge base chooser."] = "De %s om te gebruiken op de kennisbasiskiezer.";
+$Definition["The article draft is no longer available."] = "Het conceptartikel is niet meer beschikbaar.";
 $Definition["banner background image"] = "achtergrondafbeelding banner";
 $Definition["banner content image"] = "afbeelding inhoud banner";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Het kan moeilijk zijn om tekst bovenop bepaalde banner-afbeeldingen te lezen. Schakel deze instellingen in om een overlay over banner-afbeeldingen toe te voegen, waardoor de tekst makkelijker te lezen is.";
@@ -201,10 +208,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Bekijk alle artikel
 
 $Definition["Was this article helpful?"] = "Was dit artikel behulpzaam?";
 $Definition["Write Discussion"] = "Schrijf een discussie";
+$Definition["Write Article"] = "Schrijf artikel";
 
 $Definition["You can see this message because you have special permissions."] = "Je kunt dit bericht zien omdat je speciale rechten hebt.";
 $Definition["You don't have permission to view this resource."] = "Je bent niet gemachtigd om deze bron te bekijken.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Je moet <0> inloggen </0> om op dit artikel te stemmen";
 $Definition["Use Banner Image Overlay"] = "Gebruik bannerafbeelding deklaag";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Als er geen categorieën zijn geselecteerd, volgen nieuwe gebruikers standaard geen categorieën.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Er zijn nog geen wijzigingen opgeslagen. Weet u zeker dat u wilt afsluiten zonder op te slaan?";
+$Definition["Add Knowledge Bases to follow by default"] = "Voeg kennisbanken toe die standaard worden gevolgd";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Als er geen kennisbanken zijn geselecteerd, zullen nieuwe gebruikers geen enkele kennisbank volgen.";
+$Definition["Edit Default Notification Preferences"] = "Standaardmeldingsvoorkeuren bewerken";
+$Definition["Remove Category"] = "Categorie verwijderen";
+$Definition["Remove Knowledge Base"] = "Kennisbank verwijderen";
+$Definition["new articles"] = "nieuwe artikelen";
+$Definition["updated articles"] = "bijgewerkte artikelen";
+$Definition["Unfollow Knowledge Base"] = "Kennisbank ontvolgen";
+$Definition["Default Followed Knowledge Bases"] = "Standaard gevolgde kennisbanken";
+$Definition["Edit Default Knowledge Bases"] = "Standaardkennisbanken bewerken";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Gebruikers kunnen kennisbanken volgen om zich te abonneren op meldingen voor nieuwe of bijgewerkte artikelen. Selecteer welke kennisbanken nieuwe gebruikers standaard moeten volgen.";
 

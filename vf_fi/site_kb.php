@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Selaa artikkeleita kategorian muka
 $Definition["Browse"] = "SElaa";
 $Definition["By <0/>"] = "Tekijältä <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Perutaanko ajoitettu artikkeli ja tallennetaan luonnokseksi?";
 $Definition["category"] = "kategoria";
 $Definition["Categories"] = "Kategoriat";
 $Definition["Category One"] = "Kategoria yksi";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Alakategoriat";
 $Definition["sub-categories"] = "alaluokkiin";
 $Definition["sub-category"] = "alaluokka";
 
+$Definition["Thank you for your feedback!"] = "Kiitos palautteestasi!";
 $Definition["Thanks for your feedback!"] = "Kiitos palautteestasi!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Bannerikuva, jota käytetään tietokannan valitsimessa. Tämä voidaan korvata tietokantakohtaisesti. Suosittelut mitat ovat n. 1000x400 px tai vastaava suhde.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Pääväriä käytetään painikkeisiin, syötteisiin ja erinäisiin osoittimiin.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Tapahtui virhe";
 $Definition["This article has been deleted."] = "Tämä artikkeli on poistettu.";
 $Definition["This article hasn't been translated yet."] = "Tätä artikkelia ei ole vielä käännetty.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Tätä artikkelia ei ole vielä käännetty. Alkuperäisteksti on saatavilla kääntämistyön helpottamiseksi.";
+$Definition["The article draft is no longer available."] = "Artikkeliluonnos ei ole enää saatavilla.";
+$Definition["The article is no longer available."] = "Artikkeli ei ole enää saatavilla.";
+$Definition["The article revision is no longer available."] = "Artikkelin versio ei ole enää saatavilla.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Tämä artikkeli on vanhentunut tai sitä ei ole käännetty.';
 $Definition['The article this draft is based on is no longer available.'] = 'Tämän vedoksen pohjana toimivaa artikkelia ei ole enää olemassa.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ensisijaisen ulkoasun keskisarakkeen leveys pikseleissä mitattuna.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Tervetuloa tietäm
 $Definition["This can be overridden on a per knowledge base basis."] = "Tämä voidaan ohittaa tietämyskantakohtaisesti.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Suositellut mittasuhteet ovat noin %s x %s tai samanlainen suhde.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s, jota käytetään tietämyskantavalitsimessa.";
+$Definition["The article draft is no longer available."] = "Artikkeliluonnos ei ole enää saatavilla.";
 $Definition["banner background image"] = "bannerin taustakuva";
 $Definition["banner content image"] = "bannerin sisältökuva";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Voi olla hankalaa lukea tekstiä joidenkin bannerikuvien päältä. Ota tämä asetus käyttöön lisätäksesi bannerikuvien päälle peittotason, joka tekee tekstistä helpommin luettavaa.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Näytä kaikki arti
 
 $Definition["Was this article helpful?"] = "Oliko tämä artikkeli hyödyllinen?";
 $Definition["Write Discussion"] = "Kirjoita keskustelu";
+$Definition["Write Article"] = "Kirjoita artikkeli";
 
 $Definition["You can see this message because you have special permissions."] = "Voit nähdä tämän viestin, koska sinulla on erityislupa siihen.";
 $Definition["You don't have permission to view this resource."] = "Sinulla ei ole lupaa katsoa tätä resurssia.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Sinun pitää <0>kirjautua sisään</0>, jotta voit äänestää tästä artikkelista";
 $Definition["Use Banner Image Overlay"] = "Käytä bannerikuvan peitettä";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Jos luokkia ei ole valittu, uudet käyttäjät eivät seuraa mitään luokkia oletuksena.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Sinulla on tallentamattomia muutoksia. Haluatko varmasti poistua tallentamatta?";
+$Definition["Add Knowledge Bases to follow by default"] = "Lisää noudatettavat tietokannat oletuksena";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Jos tietokantoja ei valita, uudet käyttäjät eivät seuraa mitään tietokantoja.";
+$Definition["Edit Default Notification Preferences"] = "Muokkaa ilmoitusten oletusasetuksia";
+$Definition["Remove Category"] = "Poista luokka";
+$Definition["Remove Knowledge Base"] = "Poista tietokanta";
+$Definition["new articles"] = "uusia artikkeleita";
+$Definition["updated articles"] = "päivitetyt artikkelit";
+$Definition["Unfollow Knowledge Base"] = "Lopeta tietokannan seuraaminen";
+$Definition["Default Followed Knowledge Bases"] = "Seuratut oletustietokannat";
+$Definition["Edit Default Knowledge Bases"] = "Muokkaa oletustietokantoja";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Käyttäjät voivat seurata tietokantoja ja tilata ilmoituksia uusista tai päivitetyistä artikkeleista. Valitse, mitä tietokantoja uusien käyttäjien tulee noudattaa oletuksena.";
 

@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Ramban Artikel berdasarkan Kategor
 $Definition["Browse"] = "Telusuri";
 $Definition["By <0/>"] = "Oleh <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Batalkan artikel yang dijadwalkan dan simpan sebagai draf?";
 $Definition["category"] = "kategori";
 $Definition["Categories"] = "Kategori";
 $Definition["Category One"] = "Kategori Satu";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Subkategori";
 $Definition["sub-categories"] = "sub-kategori";
 $Definition["sub-category"] = "sub-kategori";
 
+$Definition["Thank you for your feedback!"] = "Terima kasih atas masukan Anda!";
 $Definition["Thanks for your feedback!"] = "Terima kasih atas umpan balik Anda!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Gambar spanduk untuk digunakan pada pemilih basis pengetahuan. Ini dapat diganti berdasarkan masing-masing basis pengetahuan. Dimensi yang disarankan adalah sekitar 1000px kali 400px atau rasio yang serupa.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Warna primer digunakan untuk tombol, input, dan berbagai indikator.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Terjadi eror";
 $Definition["This article has been deleted."] = "Artikel ini telah dihapus.";
 $Definition["This article hasn't been translated yet."] = "Artikel ini belum diterjemahkan.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Artikel ini belum diterjemahkan. Teks artikel asli telah dimuat untuk membantu penerjemahan.";
+$Definition["The article draft is no longer available."] = "Draf artikel tidak lagi tersedia.";
+$Definition["The article is no longer available."] = "Artikel tersebut tidak tersedia lagi.";
+$Definition["The article revision is no longer available."] = "Revisi artikel tidak lagi tersedia.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Artikel ini belum diterjemahkan atau sudah usang.';
 $Definition['The article this draft is based on is no longer available.'] = 'Artikel yang menjadi dasar rancangan tulisan ini tidak lagi tersedia.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Lebar kolom tengah tata letak utama dalam satuan piksel.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Selamat datang di 
 $Definition["This can be overridden on a per knowledge base basis."] = "Ini dapat ditimpa per pusat pengetahuan.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Dimensi yang dianjurkan adalah %s x %s atau rasio yang serupa.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s yang akan digunakan pada selektor pusat pengetahuan.";
+$Definition["The article draft is no longer available."] = "Draf artikel tidak lagi tersedia.";
 $Definition["banner background image"] = "gambar latar spanduk";
 $Definition["banner content image"] = "gambar konten spanduk";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Teks di atas gambar spanduk tertentu mungkin sulit untuk dibaca. Aktifkan pengaturan ini untuk menambahkan overlay di atas gambar spanduk agar teks dapat lebih mudah dibaca.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Lihat semua artikel
 
 $Definition["Was this article helpful?"] = "Apakah artikel ini bermanfaat?";
 $Definition["Write Discussion"] = "Tulis Diskusi";
+$Definition["Write Article"] = "Tulis Artikel";
 
 $Definition["You can see this message because you have special permissions."] = "Anda dapat melihat pesan ini karena punya izin khusus.";
 $Definition["You don't have permission to view this resource."] = "Anda tidak punya izin untuk melihat sumber daya ini.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Anda perlu <0>Masuk</0> untuk memvoting artikel ini";
 $Definition["Use Banner Image Overlay"] = "Gunakan Gambar Spanduk Pelapis";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Jika tidak ada kategori yang dipilih, pengguna baru tidak akan mengikuti kategori apa pun secara default.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Anda memiliki perubahan yang belum disimpan. Apakah Anda yakin ingin keluar tanpa menyimpan?";
+$Definition["Add Knowledge Bases to follow by default"] = "Tambahkan Basis Pengetahuan untuk diikuti secara default";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Jika tidak ada Basis Pengetahuan yang dipilih, pengguna baru tidak akan mengikuti Basis Pengetahuan apa pun.";
+$Definition["Edit Default Notification Preferences"] = "Edit Preferensi Notifikasi Default";
+$Definition["Remove Category"] = "Hapus Kategori";
+$Definition["Remove Knowledge Base"] = "Hapus Basis Pengetahuan";
+$Definition["new articles"] = "Artikel Baru";
+$Definition["updated articles"] = "artikel yang diperbarui";
+$Definition["Unfollow Knowledge Base"] = "Batalkan Mengikuti Basis Pengetahuan";
+$Definition["Default Followed Knowledge Bases"] = "Basis Pengetahuan yang Diikuti Default";
+$Definition["Edit Default Knowledge Bases"] = "Edit Basis Pengetahuan Default";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Pengguna dapat mengikuti Basis Pengetahuan untuk berlangganan pemberitahuan artikel baru atau yang diperbarui. Pilih Basis Pengetahuan mana yang harus diikuti pengguna baru secara default.";
 

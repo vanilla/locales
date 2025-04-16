@@ -223,7 +223,9 @@ $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Started a new 
 $Definition['HeadlineFormat.Discussion.Idea'] = '{ActivityUserID,user} Started a new idea in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} started a new poll in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} posted a new question in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.EventReminder'] = 'Reminder: {Data.Name,text} begins in 1 day';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mentioned you in <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.NewEvent'] = 'New Event: {Data.Name,text}';
 $Definition['HeadlineFormat.NotifyWallComment'] = '{ActivityUserID,User} commented on your <a href="{Url,url}">wall</a>.';
 $Definition['HeadlineFormat.NotifyWallPost'] = '{ActivityUserID,User} posted on your <a href="{Url,url}">wall</a>.';
 $Definition['HeadlineFormat.PictureChange'] = '{RegardingUserID,You} changed {ActivityUserID,your} profile picture.';
@@ -232,6 +234,7 @@ $Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} joined.';
 $Definition['HeadlineFormat.RegistrationApproval'] = '{ActivityUserID,user} approved the applications for {RegardingUserID,user}.';
 $Definition['HeadlineFormat.Status'] = '{ActivityUserID,user}';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} unbanned {ActivityUserID,you}.';
+$Definition['HeadlineFormat.UpdatedEvent'] = 'Updated Event: {Data.Name,text}';
 $Definition['HeadlineFormat.WallPost'] = '{RegardingUserID,you} &rarr; {ActivityUserID,you}';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} warned {RegardingUserID,you}.';
 $Definition['HeadlineFormat.Warning.ToUser'] = 'You\'ve been warned.';
@@ -563,6 +566,7 @@ $Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum di
 $Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
 $Definition['VerifyUser'] = 'Check the box next to the user to mark them as <b>Verified</b> so their posts don\'t get marked as spam again. This will also restore all of their pending posts.';
 $Definition['Video embedding has been disabled.'] = 'Video embedding has been disabled. URLs will not translate to their embedded equivalent.';
+$Definition['View in context '] = 'View in context';
 $Definition['Vote (action)'] = 'Vote';
 
 $Definition['Warning: deleting is permanent'] = 'WARNING: deleted items are removed from this list and cannot be brought back.';

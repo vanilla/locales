@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Artikel nach Kategorien durchsuche
 $Definition["Browse"] = "Durchsuchen";
 $Definition["By <0/>"] = "Durch <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Geplanten Artikel abbrechen und als Entwurf speichern?";
 $Definition["category"] = "Kategorie";
 $Definition["Categories"] = "Kategorien";
 $Definition["Category One"] = "Erste Kategorie";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Unterkategorien";
 $Definition["sub-categories"] = "Unterkategorien";
 $Definition["sub-category"] = "Unterkategorie";
 
+$Definition["Thank you for your feedback!"] = "Vielen Dank für Ihr Feedback!";
 $Definition["Thanks for your feedback!"] = "Vielen Dank für Ihr Feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Das Banner-Bild, welches im Wissensbasis-Wähler verwendet wird. Diese Einstellung kann für jede Wissensbasis überschrieben werden. Die empfohlenen Abmessungen betragen ungefähr 1000 px mal 400 px oder ein ähnliches Seitenverhältnis.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Die Primärfarbe wird bei Buttons, Eingaben und verschiedenen Anzeigen eingesetzt.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Es trat ein Fehler auf";
 $Definition["This article has been deleted."] = "Dieser Artikel wurde gelöscht.";
 $Definition["This article hasn't been translated yet."] = "Dieser Artikel wurde noch nicht übersetzt.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Dieser Artikel wurde noch nicht übersetzt. Der Originaltext des Artikels wurde als Übersetzungshilfe geladen.";
+$Definition["The article draft is no longer available."] = "Der Artikelentwurf ist nicht mehr verfügbar.";
+$Definition["The article is no longer available."] = "Der Artikel ist nicht mehr verfügbar.";
+$Definition["The article revision is no longer available."] = "Die Artikelüberarbeitung ist nicht mehr verfügbar.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Dieser Artikel wurde noch nicht übersetzt oder er ist veraltet.';
 $Definition['The article this draft is based on is no longer available.'] = 'Der Artikel auf dem dieser Entwurf basiert ist nicht mehr verfügbar.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Die Breite der mittleren Spalte des Haupt-Layouts in Pixeln.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Willkommen in unse
 $Definition["This can be overridden on a per knowledge base basis."] = "Dies kann auf der Grundlage einer Wissensdatenbank überschrieben werden.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Die empfohlenen Maße betragen ungefähr %s mal %s oder ein ähnliches Verhältnis.";
 $Definition["The %s to use on the knowledge base chooser."] = "Die %s, die in dem Auswahlmenü der Wissensdatenbank verwendet werden. ";
+$Definition["The article draft is no longer available."] = "Der Artikelentwurf ist nicht mehr verfügbar.";
 $Definition["banner background image"] = "Banner-Hintergrundbild";
 $Definition["banner content image"] = "Banner-Inhaltsbild";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Bei einigen Banner-Bildern kann sich als schwierig erweisen, den Text am oberen Rand zu lesen. Aktiviere diese Einstellung, um Banner-Bildern eine Textüberlagerung hinzuzufügen, welche den Text lesbarer werden lässt.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Alle Artikel aus de
 
 $Definition["Was this article helpful?"] = "War dieser Artikel hilfreich?";
 $Definition["Write Discussion"] = "Eine Diskussion schreiben";
+$Definition["Write Article"] = "Artikel verfassen";
 
 $Definition["You can see this message because you have special permissions."] = "Sie können diese Meldung sehen, weil Sie über spezielle Berechtigungen verfügen.";
 $Definition["You don't have permission to view this resource."] = "Sie haben keine Berechtigung, diese Ressource einzusehen.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Sie müssen sich <0>anmelden</0>, um über diesen Artikel abzustimmen";
 $Definition["Use Banner Image Overlay"] = "Banner-Bild-Überlagerung benutzen";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Wenn keine Kategorien ausgewählt sind, folgen neue Nutzer standardmäßig keinen Kategorien.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Sie haben nicht gespeicherte Änderungen. Möchten Sie wirklich ohne Speichern beenden?";
+$Definition["Add Knowledge Bases to follow by default"] = "Wissensdatenbanken zum standardmäßigen Abonnement hinzufügen";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Wenn keine Wissensdatenbanken ausgewählt sind, folgen neue Nutzer keinen Wissensdatenbanken.";
+$Definition["Edit Default Notification Preferences"] = "Standard-Benachrichtigungseinstellungen bearbeiten";
+$Definition["Remove Category"] = "Kategorie entfernen";
+$Definition["Remove Knowledge Base"] = "Wissensdatenbank entfernen";
+$Definition["new articles"] = "Neue Artikel";
+$Definition["updated articles"] = "Aktualisierte Artikel";
+$Definition["Unfollow Knowledge Base"] = "Wissensdatenbank nicht mehr folgen";
+$Definition["Default Followed Knowledge Bases"] = "Standardmäßig abonnierte Wissensdatenbanken";
+$Definition["Edit Default Knowledge Bases"] = "Standard-Wissensdatenbanken bearbeiten";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Nutzer können Wissensdatenbanken folgen, um Benachrichtigungen über neue oder aktualisierte Artikel zu erhalten. Wählen Sie aus, welchen Wissensdatenbanken neue Nutzer standardmäßig folgen sollen.";
 

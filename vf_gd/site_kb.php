@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Dèan brobhsadh air artaigilean a 
 $Definition["Browse"] = "Dèan brobhsadh";
 $Definition["By <0/>"] = "Le <0 />";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Sguir dheth artaigil clàraichte agus sàbhail mar dhreach?";
 $Definition["category"] = "roinn-seòrsa";
 $Definition["Categories"] = "Categories";
 $Definition["Category One"] = "Roinn a h-Aon";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Fo-roinnean";
 $Definition["sub-categories"] = "fo-roinnean";
 $Definition["sub-category"] = "fo-roinn";
 
+$Definition["Thank you for your feedback!"] = "Tapadh leibh airson ur fios air ais!";
 $Definition["Thanks for your feedback!"] = "Taing airson do bheachdan!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "An ìomhaigh bratach ri chleachdadh air an neach-taghaidh bunait eòlais. Faodar seo a thoirt thairis air bunait per-knoweldge. Tha na tomhasan a tha air am moladh mu 1000px le 400px no co-mheas coltach.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Tha am prìomh dath air a chleachdadh airson putanan, cuir a-steach, agus diofar chomharran.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Bha mearachd ann";
 $Definition["This article has been deleted."] = "Chaidh an artaigil seo a dhubhadh às.";
 $Definition["This article hasn't been translated yet."] = "Cha deach an artaigil seo eadar-theangachadh fhathast.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Cha deach an artaigil seo eadar-theangachadh fhathast. Chaidh teacsa tùsail an artaigil a luchdachadh gus cuideachadh le eadar-theangachadh.";
+$Definition["The article draft is no longer available."] = "Chan eil dreach an artaigil ri fhaighinn tuilleadh.";
+$Definition["The article is no longer available."] = "Chan eil an artaigil ri fhaighinn tuilleadh.";
+$Definition["The article revision is no longer available."] = "Chan eil ath-sgrùdadh an artaigil ri fhaighinn tuilleadh.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Chan eil an artaigil seo air eadar-theangachadh fhathast no tha e a-mach à aois.';
 $Definition['The article this draft is based on is no longer available.'] = 'Chan eil an artaigil air a bheil an dreach seo stèidhichte a-nis ri fhaighinn.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Tha leud colbh meadhan a ’phrìomh chruth ann am piogsail.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Fàilte don Ionad 
 $Definition["This can be overridden on a per knowledge base basis."] = "Faodar seo a thoirt thairis air stèidh gach eòlas.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Tha na tomhasan a tha air am moladh mu %s le %s no co-mheas coltach ris.";
 $Definition["The %s to use on the knowledge base chooser."] = "An %s airson a chleachdadh air inneal-taghaidh bunait an eòlais.";
+$Definition["The article draft is no longer available."] = "Chan eil dreach an artaigil ri fhaighinn tuilleadh.";
 $Definition["banner background image"] = "ìomhaigh cùl bratach";
 $Definition["banner content image"] = "ìomhaigh susbaint bratach";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Faodaidh e a bhith duilich teacsa a leughadh air mullach cuid de dhealbhan bratach. Dèan comas air an t-suidheachadh seo ath-chòmhdach a chuir air ìomhaighean bratach a tha a ’dèanamh teacsa nas fhasa a leughadh.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Faic na h-artaigile
 
 $Definition["Was this article helpful?"] = "An robh an artaigil seo cuideachail?";
 $Definition["Write Discussion"] = "Sgrìobh Còmhradh";
+$Definition["Write Article"] = "Sgrìobh artaigil";
 
 $Definition["You can see this message because you have special permissions."] = "Chì thu an teachdaireachd seo oir tha ceadan sònraichte agad.";
 $Definition["You don't have permission to view this resource."] = "Chan eil cead agad an goireas seo fhaicinn.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Feumaidh tu <0> Clàraich a-steach </0> gus bhòtadh air an artaigil seo";
 $Definition["Use Banner Image Overlay"] = "Cleachd Ath-chòmhdach Ìomhaigh Banner";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Mura tèid roinnean a thaghadh, cha lean luchd-cleachdaidh ùr roinnean sam bith gu bunaiteach.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Tha atharraichean agad nach deach a shàbhaladh. A bheil thu cinnteach gu bheil thu airson fàgail gun sàbhaladh?";
+$Definition["Add Knowledge Bases to follow by default"] = "Cuir ris bunaitean eòlais ri leantainn gu bunaiteach";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Mura tèid bunaitean fiosrachaidh a thaghadh, cha lean luchd-cleachdaidh ùr bunaitean fiosrachaidh sam bith.";
+$Definition["Edit Default Notification Preferences"] = "Deasaich roghainnean fios bunaiteach";
+$Definition["Remove Category"] = "Thoir air falbh Roinn-seòrsa";
+$Definition["Remove Knowledge Base"] = "Thoir air falbh Bunait Eòlais";
+$Definition["new articles"] = "artaigilean ùra";
+$Definition["updated articles"] = "artaigilean ùraichte";
+$Definition["Unfollow Knowledge Base"] = "Na cuir às do Bhunait Eòlais";
+$Definition["Default Followed Knowledge Bases"] = "Bunait Eòlais Leantainneach";
+$Definition["Edit Default Knowledge Bases"] = "Deasaich bunaitean eòlais bunaiteach";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Faodaidh luchd-cleachdaidh Ionadan Eòlais a leantainn gus ballrachd a thoirt do bhrathan airson artaigilean ùra no ùraichte. Tagh dè na bunaitean eòlais a bu chòir do luchd-cleachdaidh ùr a leantainn gu bunaiteach.";
 

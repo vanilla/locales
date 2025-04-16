@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "カテゴリー別に記事を閲�
 $Definition["Browse"] = "ブラウズ";
 $Definition["By <0/>"] = "<0/>によって";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "予定されていた記事をキャンセルし、下書きとして保存しますか？";
 $Definition["category"] = "カテゴリー";
 $Definition["Categories"] = "カテゴリ";
 $Definition["Category One"] = "カテゴリー 1";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "サブカテゴリー";
 $Definition["sub-categories"] = "サブカテゴリー";
 $Definition["sub-category"] = "サブカテゴリー";
 
+$Definition["Thank you for your feedback!"] = "フィードバックをありがとうございます！";
 $Definition["Thanks for your feedback!"] = "フィードバックをありがとうございました！";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "ナレッジベースチューザーで使用するバナー画像です。この画像は、ナレッジベースごとに無効にできます。推奨サイズは約1000 x 400ピクセルまたは同等の比率です。";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "プライマリーカラーは、ボタン、入力、およびさまざまなインジケータに使用されます。";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "エラーが発生しました";
 $Definition["This article has been deleted."] = "この記事は削除されています。";
 $Definition["This article hasn't been translated yet."] = "この記事はまだ翻訳されていません。";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "この記事はまだ翻訳されていません。 翻訳を支援するために、元の記事のテキストが読み込まれました。";
+$Definition["The article draft is no longer available."] = "記事の草稿はもうできません。";
+$Definition["The article is no longer available."] = "この記事はもう利用できません。";
+$Definition["The article revision is no longer available."] = "記事の改訂はもうできません。";
 $Definition['This article is not translated yet or it is out of date.'] = 'この記事はまだ翻訳されていないか、古くなっています。';
 $Definition['The article this draft is based on is no longer available.'] = 'このドラフトの基になっている記事は利用できなくなりました。';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'プライマリレイアウトの中央列の幅（ピクセル単位）。';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "当社のナレッ
 $Definition["This can be overridden on a per knowledge base basis."] = "これは、ナレッジベースごとに上書きできます。";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "推奨寸法は、約%sｘ%sまたは同様の比率です。";
 $Definition["The %s to use on the knowledge base chooser."] = "ナレッジベースチューザーで使用する%s。";
+$Definition["The article draft is no longer available."] = "記事の草稿はもうできません。";
 $Definition["banner background image"] = "バナー背景画像";
 $Definition["banner content image"] = "バナーコンテンツ画像";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "特定のバナー画像の上にあるテキストは読みにくい場合があります。この設定を有効にすると、バナー画像にオーバーレイが追加され、テキストが読みやすくなります。";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "カテゴリーか�
 
 $Definition["Was this article helpful?"] = "この記事は役立ちましたか？";
 $Definition["Write Discussion"] = "ディスカッションを書く";
+$Definition["Write Article"] = "記事を書く";
 
 $Definition["You can see this message because you have special permissions."] = "特別な許可を得ているため、このメッセージを閲覧できます。";
 $Definition["You don't have permission to view this resource."] = "このリソースをみる権限を有していません。";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "この記事に投票するには、<0>サインイン</0>する必要があります";
 $Definition["Use Banner Image Overlay"] = "バナー画像のオーバーレイを使用";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "カテゴリーが選択されていない場合、新しいユーザーはデフォルトでどのカテゴリーもフォローしません。";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "保存されていない変更があります。保存せずに終了してもよろしいですか？";
+$Definition["Add Knowledge Bases to follow by default"] = "デフォルトでのフォローにナレッジベースを追加する";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "ナレッジベースが選択されていない場合、新しいユーザーはどのナレッジベースもフォローしません。";
+$Definition["Edit Default Notification Preferences"] = "デフォルトの通知設定の編集";
+$Definition["Remove Category"] = "カテゴリーを削除";
+$Definition["Remove Knowledge Base"] = "ナレッジベースを削除";
+$Definition["new articles"] = "新しい記事";
+$Definition["updated articles"] = "更新された記事";
+$Definition["Unfollow Knowledge Base"] = "ナレッジベースのフォローを解除";
+$Definition["Default Followed Knowledge Bases"] = "デフォルトでフォローしたナレッジベース";
+$Definition["Edit Default Knowledge Bases"] = "デフォルトのナレッジベースの編集";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "ユーザーはナレッジベースをフォローすることで、新規記事や更新記事の通知を受け取ることができます。新規ユーザーがデフォルトでフォローするナレッジベースを選択してください。";
 

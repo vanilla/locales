@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Buscar artículos por categoría";
 $Definition["Browse"] = "Explorar";
 $Definition["By <0/>"] = "Por <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "¿Cancelar el artículo programado y guardarlo como borrador?";
 $Definition["category"] = "categoría";
 $Definition["Categories"] = "Categorías";
 $Definition["Category One"] = "Categoría uno";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Subcategorías";
 $Definition["sub-categories"] = "subcategorías";
 $Definition["sub-category"] = "subcategoría";
 
+$Definition["Thank you for your feedback!"] = "Gracias por tus comentarios.";
 $Definition["Thanks for your feedback!"] = "¡Gracias por tus comentarios!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "La imagen del banner que debe usarse en el selector de la base de datos de conocimientos. Esto se puede anular basándose en la base de datos de conocimientos. Las dimensiones recomendadas son de unos 1000 px por 400 px o una proporción similar.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "El color primario se usa para los botones, entradas y diversos indicadores.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Se ha producido un error";
 $Definition["This article has been deleted."] = "Se ha eliminado este artículo";
 $Definition["This article hasn't been translated yet."] = "Este artículo aún no se ha traducido.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Este artículo aún no se ha traducido. Se ha cargado el texto del artículo original para ayudar con la traducción.";
+$Definition["The article draft is no longer available."] = "El borrador del artículo ya no está disponible.";
+$Definition["The article is no longer available."] = "El artículo ya no está disponible.";
+$Definition["The article revision is no longer available."] = "La revisión del artículo ya no está disponible.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Este artículo aún no se ha traducido o está desfasado.';
 $Definition['The article this draft is based on is no longer available.'] = 'El artículo en el que está basado este borrador ya no está disponible.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'El ancho de la columna central del primer diseño en píxeles.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Bienvenido a nuest
 $Definition["This can be overridden on a per knowledge base basis."] = "Esto puede anularse en función de la base de conocimiento.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Las dimensiones recomendadas son de aproximadamente %s por %s o una relación similar.";
 $Definition["The %s to use on the knowledge base chooser."] = "El %s para utilizar en el selector de la base de conocimiento.";
+$Definition["The article draft is no longer available."] = "El borrador del artículo ya no está disponible.";
 $Definition["banner background image"] = "imagen de fondo del anuncio";
 $Definition["banner content image"] = "imagen de contenido del anuncio";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "A veces es difícil leer el texto de la parte superior de las imágenes de un anuncio. Activa esta opción para añadir una superposición a las imágenes y facilitar su lectura.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Ver todos los artí
 
 $Definition["Was this article helpful?"] = "¿Ha sido útil este artículo?";
 $Definition["Write Discussion"] = "Crear discusión";
+$Definition["Write Article"] = "Escribir artículo";
 
 $Definition["You can see this message because you have special permissions."] = "Puedes ver este mensaje porque tienes permisos especiales.";
 $Definition["You don't have permission to view this resource."] = "No tienes permiso para ver este recurso.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Necesitas <0>Iniciar sesión</0> para votar en este artículo";
 $Definition["Use Banner Image Overlay"] = "Usar la superposición de imagen de banner";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Si no se selecciona ninguna categoría, los nuevos usuarios no seguirán ninguna categoría por defecto.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Tienes cambios sin guardar. ¿Estás seguro de que quieres salir sin guardar?";
+$Definition["Add Knowledge Bases to follow by default"] = "Añadir bases de conocimiento a seguir por defecto";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Si no se selecciona ninguna base de conocimiento, los nuevos usuarios no seguirán ninguna base de conocimiento.";
+$Definition["Edit Default Notification Preferences"] = "Editar preferencias de notificación por defecto";
+$Definition["Remove Category"] = "Eliminar categoría";
+$Definition["Remove Knowledge Base"] = "Eliminar base de conocimientos";
+$Definition["new articles"] = "artículos nuevos";
+$Definition["updated articles"] = "artículos actualizados";
+$Definition["Unfollow Knowledge Base"] = "Dejar de seguir la base de conocimientos";
+$Definition["Default Followed Knowledge Bases"] = "Bases de conocimientos seguidas por defecto";
+$Definition["Edit Default Knowledge Bases"] = "Editar bases de conocimientos por defecto";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Los usuarios pueden seguir bases de conocimientos para suscribirse a notificaciones de artículos nuevos o actualizados. Selecciona qué bases de conocimientos deben seguir por defecto los nuevos usuarios.";
 

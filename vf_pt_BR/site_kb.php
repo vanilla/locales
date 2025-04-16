@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Explorar artigos por categoria";
 $Definition["Browse"] = "Procura";
 $Definition["By <0/>"] = "Por <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Cancelar artigo agendado e salvar como rascunho?";
 $Definition["category"] = "categoria";
 $Definition["Categories"] = "Salas de discussão";
 $Definition["Category One"] = "Categoria Um";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Subcategorias";
 $Definition["sub-categories"] = "subcategorias";
 $Definition["sub-category"] = "subcategoria";
 
+$Definition["Thank you for your feedback!"] = "Agradecemos seu feedback!";
 $Definition["Thanks for your feedback!"] = "Obrigado pelo seu feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "A imagem do banner a ser utilizada no seletor da base de informações. Isso pode ser substituído em uma base por faixa de informações. As dimensões recomendadas são de aproximadamente 1000 por 400 pixels ou uma proporção semelhante.
 ";
@@ -159,6 +162,9 @@ $Definition["There was an error"] = "Houve um erro";
 $Definition["This article has been deleted."] = "Este artigo foi excluído.";
 $Definition["This article hasn't been translated yet."] = "Este artigo não foi traduzido ainda.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Este artigo não foi traduzido ainda. O texto do artigo original foi carregado para auxiliar na tradução.";
+$Definition["The article draft is no longer available."] = "O rascunho do artigo não está mais disponível.";
+$Definition["The article is no longer available."] = "O artigo não está mais disponível.";
+$Definition["The article revision is no longer available."] = "A revisão do artigo não está mais disponível.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Este artigo ainda não foi traduzido ou está desatualizado.';
 $Definition['The article this draft is based on is no longer available.'] = 'O artigo em que este rascunho se baseia não está mais disponível.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'A largura da coluna central do layout principal em pixels.';
@@ -177,6 +183,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Bem-vindo à nossa
 $Definition["This can be overridden on a per knowledge base basis."] = "Isso pode ser imposto de acordo com a base de conhecimento.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "As dimensões recomendadas são mais ou menos %s por %s ou uma razão similar.";
 $Definition["The %s to use on the knowledge base chooser."] = "O %s a ser usado em quem escolhe a base de conhecimento.";
+$Definition["The article draft is no longer available."] = "O rascunho do artigo não está mais disponível.";
 $Definition["banner background image"] = "imagem de fundo do banner";
 $Definition["banner content image"] = "imagem de conteúdo do banner";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Pode ser difícil ler o texto no topo de certas imagens de banner. Habilite esta configuração para adicionar uma camada de sobreposição em imagens de banner que torna o texto mais fácil de ser lido.";
@@ -201,10 +208,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Exibir todos os art
 
 $Definition["Was this article helpful?"] = "Esse artigo foi útil?";
 $Definition["Write Discussion"] = "Escrever discussão";
+$Definition["Write Article"] = "Escrever Artigo";
 
 $Definition["You can see this message because you have special permissions."] = "Você consegue ver esta mensagem porque tem permissões especiais.";
 $Definition["You don't have permission to view this resource."] = "Você não tem permissão para exibir esse recurso.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Você precisa <0>Entrar</0> para votar neste artigo";
 $Definition["Use Banner Image Overlay"] = "Utilizar Sobreposição de Imagem de Banner";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Se nenhuma categoria for selecionada, usuários novos não seguirão nenhuma categoria por padrão.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Você tem alterações não salvas. Tem certeza de que quer sair sem salvar?";
+$Definition["Add Knowledge Bases to follow by default"] = "Adicionar Bancos de Conhecimento para seguir por padrão";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Se nenhum Banco de Conhecimento for selecionado, usuários novos não seguirão nenhum Banco de Conhecimento.";
+$Definition["Edit Default Notification Preferences"] = "Editar Preferências Padrão de Notificação";
+$Definition["Remove Category"] = "Remover Categoria";
+$Definition["Remove Knowledge Base"] = "Remover Banco de Conhecimento";
+$Definition["new articles"] = "artigos novos";
+$Definition["updated articles"] = "artigos atualizados";
+$Definition["Unfollow Knowledge Base"] = "Deixar de Seguir Banco de Conhecimento";
+$Definition["Default Followed Knowledge Bases"] = "Bancos de Conhecimento Padrão Seguidos";
+$Definition["Edit Default Knowledge Bases"] = "Editar Bancos de Conhecimento Padrão";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Os usuários podem seguir Bancos de Conhecimento para se inscreverem nas notificações sobre artigos novos ou atualizados. Selecione quais Bancos de Conhecimento os novos usuários devem seguir por padrão.";
 

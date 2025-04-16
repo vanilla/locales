@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Răsfoiește articolele după cate
 $Definition["Browse"] = "Navigare";
 $Definition["By <0/>"] = "De <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Anulați articolul programat și salvați ca schiță?";
 $Definition["category"] = "categorie";
 $Definition["Categories"] = "Categorii de discuții";
 $Definition["Category One"] = "Categoria unu";
@@ -149,6 +151,7 @@ $Definition["Subcategories"] = "Subcategorii";
 $Definition["sub-categories"] = "sub-categorii";
 $Definition["sub-category"] = "sub-categorie";
 
+$Definition["Thank you for your feedback!"] = "Vă mulțumim pentru feedback!";
 $Definition["Thanks for your feedback!"] = "Mulțumim pentru feedback!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Imaginea banner de utilizat la selectorul bazei de cunoaștere.
 Acesta poate fi anulat pe o bază de cunoaștere. Dimensiunile recomandate sunt 1000px pe 400px sau un raport similar.";
@@ -160,6 +163,9 @@ $Definition["There was an error"] = "A apărut o eroare";
 $Definition["This article has been deleted."] = "Acest articol a fost șters.";
 $Definition["This article hasn't been translated yet."] = "Acest articol încă nu a fost tradus.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Acest articol încă nu a fost tradus. S-a încărcat textul articolului original pentru a ajuta la traducere.";
+$Definition["The article draft is no longer available."] = "Proiectul articolului nu mai este disponibil.";
+$Definition["The article is no longer available."] = "Articolul nu mai este disponibil.";
+$Definition["The article revision is no longer available."] = "Revizuirea articolului nu mai este disponibilă.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Acest articol nu este tradus încă sau este expirat.';
 $Definition['The article this draft is based on is no longer available.'] = 'Articolul pe care se bazează acest proiect nu mai este disponibil.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Lățimea coloanei centrale a afișajului principal în pixeli.';
@@ -178,6 +184,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Bun venit la Baza 
 $Definition["This can be overridden on a per knowledge base basis."] = "Acesta poate fi înlocuit în funcție de baza de cunoștințe.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Dimensiunile recomandate sunt aproximativ %s pe %s sau un raport similar.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s de folosit la selectorul bazei de cunoștințe.";
+$Definition["The article draft is no longer available."] = "Proiectul articolului nu mai este disponibil.";
 $Definition["banner background image"] = "imagine fundal banner";
 $Definition["banner content image"] = "imagine conținut banner";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Citirea textului pe anumite imagini de banner poate fi dificilă. Activează această setare pentru a adăuga o suprapunere peste imaginile de banner, ceea ce face textul mai ușor de citit.";
@@ -202,10 +209,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Vezi toate articole
 
 $Definition["Was this article helpful?"] = "A fost util acest articol?";
 $Definition["Write Discussion"] = "Scrie discuție";
+$Definition["Write Article"] = "Scrie articolul";
 
 $Definition["You can see this message because you have special permissions."] = "Poți vedea acest mesaj pentru că ai drepturi speciale.";
 $Definition["You don't have permission to view this resource."] = "Nu ai permisiunea de a vizualiza această resursă.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "<0>Înscrie-te</0> pentru a vota acest articol";
 $Definition["Use Banner Image Overlay"] = "Utilizează acoperire imagine banner";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Dacă nu sunt selectate categorii, utilizatorii noi nu vor urma nicio categorie în mod implicit.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Aveți modificări nesalvate. Sigur vrei să ieși fără a salva?";
+$Definition["Add Knowledge Bases to follow by default"] = "Adăugați baze de cunoștințe pe care să le urmați implicit";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Dacă nu sunt selectate baze de cunoștințe, utilizatorii noi nu vor urma nicio bază de cunoștințe.";
+$Definition["Edit Default Notification Preferences"] = "Editați preferințele implicite de notificare";
+$Definition["Remove Category"] = "Eliminați categoria";
+$Definition["Remove Knowledge Base"] = "Eliminați baza de cunoștințe";
+$Definition["new articles"] = "articole noi";
+$Definition["updated articles"] = "articole actualizate";
+$Definition["Unfollow Knowledge Base"] = "Nu mai urmăriți baza de cunoștințe";
+$Definition["Default Followed Knowledge Bases"] = "Baze de cunoștințe urmărite implicit";
+$Definition["Edit Default Knowledge Bases"] = "Editați bazele de cunoștințe implicite";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Utilizatorii pot urma bazele de cunoștințe pentru a se abona la notificări pentru articolele noi sau actualizate. Selectați ce baze de cunoștințe ar trebui să urmeze în mod implicit utilizatorii noi.";
 

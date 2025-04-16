@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Böngészés cikkek között kateg
 $Definition["Browse"] = "Tallózás";
 $Definition["By <0/>"] = "<0/> szerint";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Törli az ütemezett cikket, és menti piszkozatként?";
 $Definition["category"] = "kategória";
 $Definition["Categories"] = "Kategóriák";
 $Definition["Category One"] = "Első kategória";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Alkategóriák";
 $Definition["sub-categories"] = "alkategóriák";
 $Definition["sub-category"] = "alkategória";
 
+$Definition["Thank you for your feedback!"] = "Köszönjük visszajelzését!";
 $Definition["Thanks for your feedback!"] = "Köszönjük a visszajelzést";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "A tudásbázis-választóban használt szalagkép. Ez kategóriánkénti alapon felülírható. A javasolt méretek: 1000px x 400px vagy hasonló arányok.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Az elsődleges szín használódik a gombokhoz, bemenetekhez és különböző kijelzőkhöz.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Hiba történt";
 $Definition["This article has been deleted."] = "Ezt a cikket törölték";
 $Definition["This article hasn't been translated yet."] = "Ezt a cikket még nem fordították le.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Ezt a cikket még nem fordították le. Az eredeti cikk szövege betöltésre került, hogy segítse a fordítást.";
+$Definition["The article draft is no longer available."] = "A cikkvázlat már nem érhető el.";
+$Definition["The article is no longer available."] = "A cikk már nem elérhető.";
+$Definition["The article revision is no longer available."] = "A cikk átdolgozása már nem érhető el.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Ez a cikk még nincs lefordítva, vagy már elavult.';
 $Definition['The article this draft is based on is no longer available.'] = 'A cikk, amely alapján ez a vázlat készült, már nem elérhető.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Az elsődleges elrendezés középső oszlopának szélessége pixelben.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Üdvözöljük a T
 $Definition["This can be overridden on a per knowledge base basis."] = "Ez tudásbázis alapján felülírható.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "A javasolt méret %sx%s vagy hasonló arányok.";
 $Definition["The %s to use on the knowledge base chooser."] = "A tudásbázis-választón használandó %s.";
+$Definition["The article draft is no longer available."] = "A cikkvázlat már nem érhető el.";
 $Definition["banner background image"] = "transzparens háttérképe";
 $Definition["banner content image"] = "transzparens tartalmának képe";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Egyes transzparensek képein nehezen kivehető lehet a szöveg. Engedélyezze ezt a beállítást, és egy átfedő réteg kerül a transzparensképekre, amivel a szöveg olvashatóbb lesz.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Összes cikk megtek
 
 $Definition["Was this article helpful?"] = "Hasznos volt ez a cikk?";
 $Definition["Write Discussion"] = "Beszélgetés írása";
+$Definition["Write Article"] = "Írj cikket";
 
 $Definition["You can see this message because you have special permissions."] = "Azért látod ezt az üzenetet, mert különleges engedélyekkel rendelkezel.";
 $Definition["You don't have permission to view this resource."] = "Nincs engedélyed a forrás megtekintéséhez.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "<0>Jelentkezz be</0>, hogy szavazhass erre a cikkre";
 $Definition["Use Banner Image Overlay"] = "Használj szalagkép átfedést";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Ha nincs kiválasztva kategória, az új felhasználók alapértelmezés szerint nem követnek kategóriákat.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Nem mentett módosításai vannak. Biztos, hogy mentés nélkül szeretne kilépni?";
+$Definition["Add Knowledge Bases to follow by default"] = "A követendő tudásbázisok hozzáadása alapértelmezés szerint";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Ha nem választ ki tudásbázist, az új felhasználók nem követik a tudásbázisokat.";
+$Definition["Edit Default Notification Preferences"] = "Az alapértelmezett értesítési beállítások szerkesztése";
+$Definition["Remove Category"] = "Kategória eltávolítása";
+$Definition["Remove Knowledge Base"] = "Távolítsa el a Tudásbázist";
+$Definition["new articles"] = "új cikkek";
+$Definition["updated articles"] = "frissített cikkek";
+$Definition["Unfollow Knowledge Base"] = "A Tudásbázis követésének megszüntetése";
+$Definition["Default Followed Knowledge Bases"] = "Alapértelmezett követett tudásbázisok";
+$Definition["Edit Default Knowledge Bases"] = "Alapértelmezett tudásbázisok szerkesztése";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "A felhasználók a Tudásbázisokat követve feliratkozhatnak az új vagy frissített cikkekről szóló értesítésekre. Válassza ki, hogy az új felhasználók alapértelmezés szerint mely tudásbázisokat kövessék.";
 

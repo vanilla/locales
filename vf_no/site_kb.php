@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Søk i artikler etter kategori";
 $Definition["Browse"] = "Bla gjennom";
 $Definition["By <0/>"] = "Av <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Vil du avbryte planlagt artikkel og lagre som utkast?";
 $Definition["category"] = "kategori";
 $Definition["Categories"] = "Kategorier";
 $Definition["Category One"] = "Første kategori";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Underkategorier";
 $Definition["sub-categories"] = "underkategorier";
 $Definition["sub-category"] = "underkategori";
 
+$Definition["Thank you for your feedback!"] = "Takk for tilbakemeldingen!";
 $Definition["Thanks for your feedback!"] = "Takk for tilbakemeldingen din!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Bannerbildet som brukes på kunnskapsbasevelgeren. Dette kan overstyres fra kunnskapsbase til kunnskapsbase. Anbefalte mål er rundt 1000 X 400 piksler eller tilsvarende dimensjoner.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Primærfargen brukes på knapper, innstikk og ulike indikatorer.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Det oppsto en feil";
 $Definition["This article has been deleted."] = "Denne artikkelen er slettet.";
 $Definition["This article hasn't been translated yet."] = "Denne artikkelen er ikke blitt oversatt ennå.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Denne artikkelen er ikke blitt oversatt ennå. Den originale artikkelteksten er lastet inn som hjelp til oversettelsen.";
+$Definition["The article draft is no longer available."] = "Artikkelutkastet er ikke lenger tilgjengelig.";
+$Definition["The article is no longer available."] = "Artikkelen er ikke lenger tilgjengelig.";
+$Definition["The article revision is no longer available."] = "Artikkelrevisjonen er ikke lenger tilgjengelig.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Denne artikkelen er ikke oversatt ennå, eller den er gått ut på dato';
 $Definition['The article this draft is based on is no longer available.'] = 'Artikkelen denne kladden er basert på, er ikke lenger tilgjengelig.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Bredden på senterkolonnen i hovedlayouten i piksler.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Velkommen til kunn
 $Definition["This can be overridden on a per knowledge base basis."] = "Dette kan overskrives per kunnskapsbase.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Anbefalte dimensjoner er omtrent %s X %s eller tilsvarende størrelsesforhold.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s til å bruke på kunnskapsbasevelgeren.";
+$Definition["The article draft is no longer available."] = "Artikkelutkastet er ikke lenger tilgjengelig.";
 $Definition["banner background image"] = "bannerbakgrunnsbilde";
 $Definition["banner content image"] = "bannerinnholdsbilde";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Det kan være vanskelig å lese tekst oppå visse bannerbilder. Aktiver denne innstillingen for å legge til et lag oppå bannerbilder som gjør teksten lettere å lese.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Se alle artikler fr
 
 $Definition["Was this article helpful?"] = "Var denne artikkelen nyttig?";
 $Definition["Write Discussion"] = "Skriv diskusjon";
+$Definition["Write Article"] = "Skriv artikkel";
 
 $Definition["You can see this message because you have special permissions."] = "Du kan se denne meldingen på grunn av at du har spesialtillatelser.";
 $Definition["You don't have permission to view this resource."] = "Du har ikke tillatelse til å se denne ressursen.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Du må <0>Logge på</0> for å stemme på denne artikkelen";
 $Definition["Use Banner Image Overlay"] = "Bruk bannerbilde";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Hvis ingen kategorier er valgt, vil ikke nye brukere følge noen kategorier som standard.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Du har ulagrede endringer. Er du sikker på at du vil avslutte uten å lagre?";
+$Definition["Add Knowledge Bases to follow by default"] = "Legg til kunnskapsbaser for å følge som standard";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Hvis ingen kunnskapsbaser er valgt, vil ikke nye brukere følge noen kunnskapsbaser.";
+$Definition["Edit Default Notification Preferences"] = "Rediger standard varslingsinnstillinger";
+$Definition["Remove Category"] = "Fjern kategori";
+$Definition["Remove Knowledge Base"] = "Fjern kunnskapsbasen";
+$Definition["new articles"] = "nye artikler";
+$Definition["updated articles"] = "oppdaterte artikler";
+$Definition["Unfollow Knowledge Base"] = "Slutt å følge Knowledge Base";
+$Definition["Default Followed Knowledge Bases"] = "Standard fulgte kunnskapsbaser";
+$Definition["Edit Default Knowledge Bases"] = "Rediger standard kunnskapsbaser";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Brukere kan følge Knowledge Bases for å abonnere på varsler for nye eller oppdaterte artikler. Velg hvilke kunnskapsbaser nye brukere skal følge som standard.";
 

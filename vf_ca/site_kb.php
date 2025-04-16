@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Examine els articles per categoria
 $Definition["Browse"] = "Navega";
 $Definition["By <0/>"] = "Per <0 />";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Cancel·lar l'article programat i desar-lo com a esborrany?";
 $Definition["category"] = "categoria";
 $Definition["Categories"] = "Categorías";
 $Definition["Category One"] = "Categoria Primera";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Subcategories";
 $Definition["sub-categories"] = "subcategories";
 $Definition["sub-category"] = "subcategoria";
 
+$Definition["Thank you for your feedback!"] = "Gràcies pels teus comentaris!";
 $Definition["Thanks for your feedback!"] = "Gràcies pels teus suggeriments!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "La imatge del banner que s’utilitza en el selector de bases de coneixement. Es pot substituir sobre una base per coneixement. Les dimensions recomanades són aproximadament 1000px per 400px o una proporció similar.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "El color principal s'utilitza per a botons, entrades i diversos indicadors.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "hi havia un error";
 $Definition["This article has been deleted."] = "Aquest article ha estat suprimit.";
 $Definition["This article hasn't been translated yet."] = "Aquest article encara no ha estat traduït.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Aquest article encara no ha estat traduït. S'ha carregat el text original de l'article per ajudar a la traducció.";
+$Definition["The article draft is no longer available."] = "L'esborrany de l'article ja no està disponible.";
+$Definition["The article is no longer available."] = "L'article ja no està disponible.";
+$Definition["The article revision is no longer available."] = "La revisió de l'article ja no està disponible.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Aquest article encara no està traduït ni està actualitzat.';
 $Definition['The article this draft is based on is no longer available.'] = 'L\'article en què es basa aquest esborrany ja no està disponible.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'L’amplada de la columna central de la disposició primària en píxels.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Benvingut a la nos
 $Definition["This can be overridden on a per knowledge base basis."] = "Es pot substituir sobre una base de coneixement.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Les dimensions recomanades són aproximadament %s per %s o una proporció similar.";
 $Definition["The %s to use on the knowledge base chooser."] = "El %s per utilitzar al selector de bases de coneixement.";
+$Definition["The article draft is no longer available."] = "L'esborrany de l'article ja no està disponible.";
 $Definition["banner background image"] = "imatge de fons de pancarta";
 $Definition["banner content image"] = "contingut de la imatge de banner";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Pot costar llegir text a sobre d’algunes imatges de banderes. Habiliteu aquesta configuració per afegir una superposició a les imatges de bàner que us faciliti la lectura del text.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Veure tots els arti
 
 $Definition["Was this article helpful?"] = "Ha sigut útil aquest article?";
 $Definition["Write Discussion"] = "Escriure Discussió";
+$Definition["Write Article"] = "Escriu l'article";
 
 $Definition["You can see this message because you have special permissions."] = "Podeu veure aquest missatge perquè teniu permisos especials.";
 $Definition["You don't have permission to view this resource."] = "No teniu permís per veure aquest recurs.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Cal que <0> Inicieu la sessió </0> per votar aquest article";
 $Definition["Use Banner Image Overlay"] = "Utilitzeu la superposició d'imatges de la bandera";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Si no se selecciona cap categoria, els usuaris nous no seguiran cap categoria per defecte.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Tens canvis no desats. Esteu segur que voleu sortir sense desar?";
+$Definition["Add Knowledge Bases to follow by default"] = "Afegeix les bases de coneixement a seguir per defecte";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Si no se selecciona cap Base de coneixement, els usuaris nous no seguiran cap Base de coneixement.";
+$Definition["Edit Default Notification Preferences"] = "Edita les preferències de notificació predeterminades";
+$Definition["Remove Category"] = "Elimina la categoria";
+$Definition["Remove Knowledge Base"] = "Elimina la base de coneixement";
+$Definition["new articles"] = "nous articles";
+$Definition["updated articles"] = "articles actualitzats";
+$Definition["Unfollow Knowledge Base"] = "Deixa de seguir la base de coneixement";
+$Definition["Default Followed Knowledge Bases"] = "Bases de coneixement seguides per defecte";
+$Definition["Edit Default Knowledge Bases"] = "Edita les bases de coneixement predeterminades";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Els usuaris poden seguir les bases de coneixement per subscriure's a les notificacions d'articles nous o actualitzats. Seleccioneu quines bases de coneixement haurien de seguir per defecte els nous usuaris.";
 

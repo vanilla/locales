@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Dlulisa amehlo ku-Imibhalo ngesiga
 $Definition["Browse"] = "Dlulisa amehlo";
 $Definition["By <0/>"] = "Ngu <0 />";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Khansela i-athikili ehleliwe futhi ulondoloze njengokusalungiswa?";
 $Definition["category"] = "isigaba";
 $Definition["Categories"] = "Izigaba";
 $Definition["Category One"] = "Isigaba sokuqala";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Izigatshana";
 $Definition["sub-categories"] = "izigaba ezingezansi";
 $Definition["sub-category"] = "isigaba esiphansi";
 
+$Definition["Thank you for your feedback!"] = "Siyabonga ngempendulo yakho!";
 $Definition["Thanks for your feedback!"] = "Siyabonga ngempendulo yakho!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Isithombe sesibhengezo okufanele sisisebenzise kukhetho lwesisekelo solwazi. Lokhu kungenziwa kufakwe ngaphezulu kwesisekelo se-knoweldge. Ubukhulu obunconyiwe bu malunga ne-1000px yi-400px noma isilinganiso esifanayo.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Umbala oyinhloko usetshenziselwa izinkinobho, okokufaka, nezinkomba ezahlukahlukene.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Kube nephutha";
 $Definition["This article has been deleted."] = "Lo mbhalo ususiwe.";
 $Definition["This article hasn't been translated yet."] = "Lo mbhalo awukahunyushelwa kuze kube manje.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Lo mbhalo awukahunyushelwa kuze kube manje. Umbhalo wesihloko sokuqala ulayishwe ukusiza ukuhumusha.";
+$Definition["The article draft is no longer available."] = "Okusalungiswa kwe-athikili akusatholakali.";
+$Definition["The article is no longer available."] = "Isihloko asisatholakali.";
+$Definition["The article revision is no longer available."] = "Ukubuyekezwa kwe-athikili akusatholakali.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Lo mbhalo awuhunyushwa njengamanje noma uphelelwe isikhathi.';
 $Definition['The article this draft is based on is no longer available.'] = 'I-athikili lokhu okusalungiswa kusekelwe kuyo ayisatholakali.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Ububanzi bekholamu eliphakathi lesakhiwo esiyinhloko ngamaphikseli.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Uyemukelwa kwi-Kno
 $Definition["This can be overridden on a per knowledge base basis."] = "Lokhu kungabekwa ngaphezulu kwesisekelo solwazi ngasinye.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Ubukhulu obunconyiwe mayelana ne-%s yi-%s noma isilinganiso esifanayo.";
 $Definition["The %s to use on the knowledge base chooser."] = "I-%s ongayisebenzisa kukhetho lwesisekelo solwazi.";
+$Definition["The article draft is no longer available."] = "Okusalungiswa kwe-athikili akusatholakali.";
 $Definition["banner background image"] = "isithombe sesibhengezo sangemuva";
 $Definition["banner content image"] = "umfanekiso wokuqukethwe wesibhengezo";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Kungaba nzima ukufunda umbhalo ngaphezulu kwezithombe ezithile zesibhengezo. Nika amandla lokhu kulungiselelwa ukwengeza isembozo sezithombe zesibhengezo esenza umbhalo ufundeke kalula.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Buka wonke ama-athi
 
 $Definition["Was this article helpful?"] = "Ngabe le ndatshana ibilusizo?";
 $Definition["Write Discussion"] = "Bhala Ingxoxo";
+$Definition["Write Article"] = "Bhala Isihloko";
 
 $Definition["You can see this message because you have special permissions."] = "Ungawubona lo mlayezo ngoba unemvume ekhethekile.";
 $Definition["You don't have permission to view this resource."] = "Awunayo imvume yokubuka le nsiza.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Udinga <0> Ukungena ngemvume </0> ukuvota ngalo mbhalo";
 $Definition["Use Banner Image Overlay"] = "Sebenzisa Isibhengezo Sesithombe Sombhalo";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Uma zingekho izigaba ezikhethiwe, abasebenzisi abasha ngeke balandele noma yiziphi izigaba ngokuzenzakalelayo.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Unezinguquko ezingalondoloziwe. Uqinisekile ukuthi ufuna ukuphuma ngaphandle kokulondoloza?";
+$Definition["Add Knowledge Bases to follow by default"] = "Engeza Izisekelo Zolwazi ukuze uzilandele ngokuzenzakalela";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Uma zingekho izisekelo zolwazi ezikhethiwe, abasebenzisi abasha ngeke balandele noma yiziphi Izisekelo Zolwazi.";
+$Definition["Edit Default Notification Preferences"] = "Hlela Okuthandwayo Kwezaziso Okuzenzakalelayo";
+$Definition["Remove Category"] = "Susa Isigaba";
+$Definition["Remove Knowledge Base"] = "Susa isisekelo solwazi";
+$Definition["new articles"] = "izihloko ezintsha";
+$Definition["updated articles"] = "izihloko ezibuyekeziwe";
+$Definition["Unfollow Knowledge Base"] = "Yeka ukulandela isisekelo solwazi";
+$Definition["Default Followed Knowledge Bases"] = "Okuzenzakalelayo Kulandelwa Izisekelo Zolwazi";
+$Definition["Edit Default Knowledge Bases"] = "Hlela Izisekelo Zolwazi Ezizenzakalelayo";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Abasebenzisi bangalandela Izisekelo Zolwazi ukuze babhalisele izaziso zama-athikili amasha noma abuyekeziwe. Khetha ukuthi yibaphi Izisekelo Zolwazi abasebenzisi abasha okufanele balandele ngokuzenzakalela.";
 

@@ -36,6 +36,8 @@ $Definition["Browse Articles by Category"] = "Duyệt xem Bài viết theo Danh 
 $Definition["Browse"] = "Duyệt";
 $Definition["By <0/>"] = "Bởi <0/>";
 
+
+$Definition["Cancel scheduled article and save as draft?"] = "Hủy bài viết đã lên lịch và lưu dưới dạng bản nháp?";
 $Definition["category"] = "danh mục";
 $Definition["Categories"] = "Danh mục";
 $Definition["Category One"] = "Danh mục Một";
@@ -148,6 +150,7 @@ $Definition["Subcategories"] = "Danh mục con";
 $Definition["sub-categories"] = "danh mục phụ";
 $Definition["sub-category"] = "danh mục phụ";
 
+$Definition["Thank you for your feedback!"] = "Cảm ơn phản hồi của bạn!";
 $Definition["Thanks for your feedback!"] = "Xin cảm ơn ý kiến phản hồi của bạn!";
 $Definition["The banner image to use on the knowledge base chooser. This can be overridden on a per-knoweldge base basis. Recommended dimensions are about 1000px by 400px or a similar ratio."] = "Hình ảnh biểu ngữ để sử dụng trên trình chọn cơ sở tri thức. Hình ảnh có thể được ghi đè trên mỗi cơ sở tri thức. Kích thước đề xuất là khoảng 1000px x 400px hoặc tỷ lệ tương tự.";
 $Definition["The primary color is used for buttons, inputs, and various indicators."] = "Màu chủ đạo được sử dụng cho các nút, dữ liệu đầu vào và nhiều chỉ báo.";
@@ -158,6 +161,9 @@ $Definition["There was an error"] = "Đã xảy ra lỗi";
 $Definition["This article has been deleted."] = "Bài viết này đã bị xóa.";
 $Definition["This article hasn't been translated yet."] = "Bài viết này chưa được dịch.";
 $Definition["This article hasn't been translated yet. The original article text has been loaded to aid translation."] = "Bài viết này chưa được dịch. Nội dung bài viết gốc đã được tải để hỗ trợ việc dịch.";
+$Definition["The article draft is no longer available."] = "Bản nháp bài viết hiện không còn nữa.";
+$Definition["The article is no longer available."] = "Bài viết hiện không còn nữa.";
+$Definition["The article revision is no longer available."] = "Bản sửa đổi của bài viết hiện không còn nữa.";
 $Definition['This article is not translated yet or it is out of date.'] = 'Bài viết này chưa được dịch hoặc nó đã cũ.';
 $Definition['The article this draft is based on is no longer available.'] = 'Bài báo mà bài viết dự thảo này dựa trên không còn tồn tại.';
 $Definition['The width of the center column of the primary layout in pixels.'] = 'Chiều rộng của cột trung tâm của bố cục chính tính bằng pixel.';
@@ -176,6 +182,7 @@ $Definition["KB.GeneralApperance.Description.Placeholder"] = "Chào mừng đế
 $Definition["This can be overridden on a per knowledge base basis."] = "Có thể ghi đè mục này theo mỗi nền tảng kiến thức.";
 $Definition["Recommended dimensions are about %s by %s or a similar ratio."] = "Kích thước đề xuất là khoảng %s x %s hoặc tỷ lệ tương tự.";
 $Definition["The %s to use on the knowledge base chooser."] = "%s để sử dụng trên bộ chọn nền tảng kiến thức.";
+$Definition["The article draft is no longer available."] = "Bản nháp bài viết hiện không còn nữa.";
 $Definition["banner background image"] = "hình ảnh nền biểu ngữ";
 $Definition["banner content image"] = "hình ảnh nội dung biểu ngữ";
 $Definition["It can be hard to read text on top of certain banner images. Enable this setting to add an overlay over banner images which makes text easier to read."] = "Nó có thể là văn bản khó đọc ở trên một số hình ảnh biểu ngữ nhất định. Bật cài đặt này để thêm một lớp phủ lên trên hình ảnh biểu ngữ giúp văn bản dễ đọc hơn.";
@@ -200,10 +207,24 @@ $Definition["View all articles from category: \"<0/>\"."] = "Xem tất cả các
 
 $Definition["Was this article helpful?"] = "Bài viết này hữu ích chứ?";
 $Definition["Write Discussion"] = "Viết Thảo luận";
+$Definition["Write Article"] = "Viết bài viết";
 
 $Definition["You can see this message because you have special permissions."] = "Bạn có thể thấy thông báo này vì bạn có các giấy phép đặc biệt.";
 $Definition["You don't have permission to view this resource."] = "Bạn không được cấp phép xem tài nguyên này.";
 $Definition["You need to <0>Sign In</0> to vote on this article"] = "Bạn cần <0>Đăng nhập</0> để bình chọn trên bài viết này";
 $Definition["Use Banner Image Overlay"] = "Sử dụng lớp phủ hình ảnh biểu ngữ";
 
+$Definition["If no categories are selected, new users will not follow any categories by default."] = "Nếu không chọn danh mục nào, theo mặc định, người dùng mới sẽ không theo dõi bất kỳ danh mục nào.";
+$Definition["You have unsaved changes. Are you sure you want to exit without saving?"] = "Bạn chưa lưu thay đổi. Bạn có chắc chắn muốn thoát mà không lưu không?";
+$Definition["Add Knowledge Bases to follow by default"] = "Thêm Cơ sở kiến thức để theo dõi theo mặc định";
+$Definition["If no Knowledge Bases are selected, new users will not follow any Knowledge Bases."] = "Nếu không chọn Cơ sở kiến thức nào, người dùng mới sẽ không theo dõi bất kỳ Cơ sở kiến thức nào.";
+$Definition["Edit Default Notification Preferences"] = "Chỉnh sửa tùy chọn thông báo mặc định";
+$Definition["Remove Category"] = "Xóa danh mục";
+$Definition["Remove Knowledge Base"] = "Xóa Cơ sở tri thức";
+$Definition["new articles"] = "bài viết mới";
+$Definition["updated articles"] = "bài viết cập nhật";
+$Definition["Unfollow Knowledge Base"] = "Bỏ theo dõi Cơ sở tri thức";
+$Definition["Default Followed Knowledge Bases"] = "Cơ sở kiến thức mặc định được theo dõi";
+$Definition["Edit Default Knowledge Bases"] = "Chỉnh sửa Cơ sở kiến thức mặc định";
+$Definition["Users can follow Knowledge Bases to subscribe to notifications for new or updated articles. Select which Knowledge Bases new users should follow by default."] = "Người dùng có thể theo dõi Cơ sở tri thức để đăng ký nhận thông báo về các bài viết mới hoặc cập nhật. Chọn Cơ sở tri thức mà người dùng mới nên theo dõi theo mặc định.";
 
