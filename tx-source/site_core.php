@@ -2571,6 +2571,12 @@ $Definition["Completely remove the comment and all associated child comments."] 
 $Definition["HeadlineFormat.EventReminder"] = "Reminder: {Data.Name,text} begins in 1 day";
 $Definition["HeadlineFormat.NewEvent"] = "New Event: {Data.Name,text}";
 $Definition["HeadlineFormat.UpdatedEvent"] = "Updated Event: {Data.Name,text}";
+$Definition["HeadlineFormat.EventRSVP"] = "You've registered for <a href=\"{Url,html}\">{Data.Name,text}</a>";
+$Definition["HeadlineFormat.EventCancelled"] = "{Data.Name,text} has been cancelled.";
+$Definition["Save to Calendar (ICS)"] = "Save to Calendar (ICS)";
+$Definition["When:"] = "When:";
+$Definition["Organizer:"] = "Organizer:";
+$Definition["About the Event:"] = "About the Event:";
 
 
 // Post Page
