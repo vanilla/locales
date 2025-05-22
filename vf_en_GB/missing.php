@@ -391,6 +391,7 @@ $Definition['ReplyOnly'] = 'You can reply to this email directly to follow up. S
 $Definition['ReplyOrFollow'] = 'Reply to this email directly or follow the link below to check it out:';
 $Definition['Report Notes'] = 'Notes';
 $Definition['Report Reason'] = 'Reason';
+$Definition['Require Terms of Service'] = 'Require users to agree to the Terms of Service (recommended)';
 $Definition['Restoring your selection removes the items from this list.'] = 'When you restore, the items are removed from this list and put back into the site.';
 $Definition['richEditor.description.embed'] = 'Some elements, such as embeds, images, loading indicators, and error messages may get inserted into the editor. You may navigate to these using arrow keys inside of the editor and delete them with the delete or backspace key.';
 $Definition['richEditor.description.inlineMenu'] = 'A text formatting menu will open when you select text. Hit tab to navigate to that menu.';

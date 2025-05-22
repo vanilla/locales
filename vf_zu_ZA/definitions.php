@@ -5,7 +5,7 @@
   'Name' => 'IsiZulu (iNingizimu Afrika) / Zulu (South Africa)',
   'EnName' => 'Zulu (South Africa)',
   'Description' => 'Official Zulu (South Africa) language translations for Vanilla. Help contribute to this translation by going to its translation site <a href="https://www.transifex.com/projects/p/vanilla/language/zu_ZA/">here</a>.',
-  'Version' => '2025.04.15-04:001637',
+  'Version' => '2025.05.22-04:001546',
   'Author' => 'Vanilla Community',
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/zu_ZA/',
   'License' => 'CC BY-SA 4.0',

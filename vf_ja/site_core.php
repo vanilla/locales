@@ -2527,6 +2527,28 @@ $Definition['Small'] = '小さな';
 $Definition['Medium'] = '中くらい';
 $Definition['Large'] = '大きい';
 
+// Table UI
+$Definition['Insert Table'] = 'テーブルを挿入';
+$Definition['Delete Table'] = 'テーブルを削除';
+$Definition['Table Options'] = 'テーブルオプション';
+$Definition['Top Headers'] = 'トップヘッダー';
+$Definition['Left Headers'] = '左ヘッダー';
+$Definition['Top and Left Headers'] = 'トップと左のヘッダー';
+$Definition['Rows'] = '行';
+$Definition['Columns'] = '列';
+$Definition['Column Options'] = '列オプション';
+$Definition['Insert Column to Left'] = '左に列を挿入';
+$Definition['Insert Column to Right'] = '右に列を挿入';
+$Definition['Delete Column'] = '列を削除';
+$Definition['Row Options'] = '行オプション';
+$Definition['Insert Row Above'] = '上に行を挿入';
+$Definition['Insert Row Below'] = '下に行を挿入';
+$Definition['Delete Row'] = '行を削除';
+$Definition['Align Content'] = 'コンテンツの整列';
+$Definition['Align Left'] = '左揃え';
+$Definition['Align Center'] = '中央揃え';
+$Definition['Align Right'] = '右揃え';
+
 // Catalogue Display Plugin/Formats
 $Definition['Placeholder'] = 'プレースホルダー';
 
