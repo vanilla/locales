@@ -2553,6 +2553,28 @@ $Definition['Small'] = 'Klein';
 $Definition['Medium'] = 'Mittel';
 $Definition['Large'] = 'Groß';
 
+// Table UI
+$Definition['Insert Table'] = 'Tabelle einfügen';
+$Definition['Delete Table'] = 'Tabelle löschen';
+$Definition['Table Options'] = 'Tabellenoptionen';
+$Definition['Top Headers'] = 'Kopfzeilen oben';
+$Definition['Left Headers'] = 'Kopfzeilen links';
+$Definition['Top and Left Headers'] = 'Kopfzeilen oben und links';
+$Definition['Rows'] = 'Zeilen';
+$Definition['Columns'] = 'Spalten';
+$Definition['Column Options'] = 'Spaltenoptionen';
+$Definition['Insert Column to Left'] = 'Spalte nach links einfügen';
+$Definition['Insert Column to Right'] = 'Spalte nach rechts einfügen';
+$Definition['Delete Column'] = 'Spalte löschen';
+$Definition['Row Options'] = 'Zeilenoptionen';
+$Definition['Insert Row Above'] = 'Zeile oben einfügen';
+$Definition['Insert Row Below'] = 'Zeile unten einfügen';
+$Definition['Delete Row'] = 'Zeile löschen';
+$Definition['Align Content'] = 'Inhalt ausrichten';
+$Definition['Align Left'] = 'Links ausrichten';
+$Definition['Align Center'] = 'Zentriert ausrichten';
+$Definition['Align Right'] = 'Rechts ausrichten';
+
 // Catalogue Display Plugin/Formats
 $Definition['Placeholder'] = 'Platzhalter';
 

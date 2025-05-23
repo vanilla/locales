@@ -2519,6 +2519,29 @@ $Definition['Small'] = 'Petit';
 $Definition['Medium'] = 'Moyen';
 $Definition['Large'] = 'Grande';
 
+// Table UI
+$Definition['Insert Table'] = 'Insérer un tableau';
+$Definition['Delete Table'] = 'Supprimer le tableau';
+$Definition['Table Options'] = 'Options du tableau';
+$Definition['Top Headers'] = 'En-têtes supérieurs';
+$Definition['Left Headers'] = 'En-tête de gauche';
+$Definition['Top and Left Headers'] = 'En-têtes supérieur de gauche';
+$Definition['Rows'] = 'Lignes';
+$Definition['Columns'] = '	
+Colonnes';
+$Definition['Column Options'] = 'Options de la colonne';
+$Definition['Insert Column to Left'] = 'Insérer une colonne vers la gauche';
+$Definition['Insert Column to Right'] = 'Insérer une colonne vers la droite';
+$Definition['Delete Column'] = 'Supprimer la colonne';
+$Definition['Row Options'] = 'Options de ligne';
+$Definition['Insert Row Above'] = 'Insérer une ligne au-dessus';
+$Definition['Insert Row Below'] = 'Insérer une ligne en dessous';
+$Definition['Delete Row'] = 'Supprimer la ligne';
+$Definition['Align Content'] = 'Aligner le contenu';
+$Definition['Align Left'] = 'Aligner à gauche';
+$Definition['Align Center'] = 'Centrer';
+$Definition['Align Right'] = 'Aligner à droite';
+
 // Catalogue Display Plugin/Formats
 $Definition['Placeholder'] = 'Espace réservé';
 
