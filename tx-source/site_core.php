@@ -934,6 +934,7 @@ $Definition['How many levels deep should we start folding up quote trees?'] = 'H
 $Definition['I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>'] = 'I agree to the <a id="TermsOfService" class="Popup" target="terms" href="%s">terms of service</a>';
 $Definition['Icon'] = 'Icon';
 $Definition["Icon for: "] = "Icon for: ";
+$Definition["Ideas only support upvotes and downvotes. Converting this post to an Idea will remove all unsupported reactions."] = "Ideas only support upvotes and downvotes. Converting this post to an Idea will remove all unsupported reactions.";
 $Definition['I confirm that I have received consent to join this community.'] = 'Since I\'m under %d years old, I confirm that I have received consent to join this community.';
 $Definition["I'm Interested"] = "I'm Interested";
 $Definition['Idea'] = 'Idea';
