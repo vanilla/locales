@@ -546,6 +546,7 @@ $Definition['Hot (score + activity)'] = 'Hot (score + activity)';
 
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'If enabled, the full content of posts will be sent in email notifications to users.';
 $Definition['If left empty, Email Logo is used.'] = 'If left empty, Email Logo is used.';
+$Definition["If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."] = "If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text.";
 $Definition['Inbox Page'] = 'Inbox Page';
 $Definition['Include Child Categories'] = 'Include Child Categories';
 $Definition['Include full post in email notifications'] = 'Include full post in email notifications';
