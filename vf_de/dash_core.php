@@ -563,6 +563,7 @@ $Definition['If enabled, the full content of posts will be sent in email notific
 ';
 $Definition['If left empty, Email Logo is used.'] = 'Wenn es leer bleibt, wird das E-Mail-Logo verwendet.
 ';
+$Definition["If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."] = "Wenn Sie oben unter „Link zu den Nutzungsbedingungen” einen Link zu einem internen Dokument haben, wird der „Text der Nutzungsbedingungen” ignoriert. Entfernen Sie den Link, wenn Sie diesen Text verwenden möchten.";
 $Definition['Inbox Page'] = 'Posteingangsseite';
 $Definition['Include Child Categories'] = 'Untergeordnete Kategorien einschließen';
 $Definition['Include full post in email notifications'] = 'Volle Posts in E-Mail-Benachrichtigungen einbeziehen';
