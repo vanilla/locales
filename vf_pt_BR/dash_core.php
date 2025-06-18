@@ -546,6 +546,7 @@ $Definition['Hot (score + activity)'] = 'Quente (pontuação + atividade)';
 
 $Definition['If enabled, the full content of posts will be sent in email notifications to users.'] = 'Se ativado, o conteúdo completo das postagens será enviado em notificações por e-mail aos usuários.';
 $Definition['If left empty, Email Logo is used.'] = 'Se deixado em branco, o logotipo do e-mail será usado.';
+$Definition["If you have a link to internal document in 'Link to Terms of Use' above, 'Terms of Use Text' will be ignored. Remove the link if you want to use this text."] = "Se você tiver um link para um documento interno em \"Link para os Termos de Uso\" acima, o \"Texto dos Termos de Uso\" será ignorado. Remova o link se quiser usar esse texto.";
 $Definition['Inbox Page'] = 'Caixa de entrada';
 $Definition['Include Child Categories'] = 'Incluir Categorias Filhos';
 $Definition['Include full post in email notifications'] = 'Incluir postagem completa nas notificações por e-mail';
