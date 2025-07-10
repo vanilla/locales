@@ -1047,21 +1047,21 @@ $Definition[
 $Definition["Provider"] = "Provider";
 $Definition["Public Key"] = "Public Key";
 
-$Definition['Rank Changes'] = 'Rank Changes';
-$Definition['Ranks'] = 'Ranks';
-$Definition['Rate Limits'] = 'Rate Limits';
-$Definition['Read more in the documentation'] = 'Read more in the documentation';
-$Definition['Re-Register API Key'] = 'Re-Register API Key';
-$Definition['Register IP'] = 'Register IP';
-$Definition['Reaction Types'] = 'Reaction Types';
-$Definition['Recalculate Counts'] = 'Recalculate Counts';
-$Definition['Recently Active Users'] = 'Recently Active Users';
-$Definition['Recently Commented'] = 'Recently Commented';
-$Definition['Recently Added'] = 'Recently Added';
-$Definition['Recent News'] = 'Recent News';
-$Definition['Recent Posts Layout Settings'] = 'Recent Posts Layout Settings';
-$Definition['Recent Posts Pages'] = 'Recent Posts Pages';
-$Definition['Recent Posts Layout Version'] = 'Recent Posts Layout Version';
+$Definition["Rank Changes"] = "Rank Changes";
+$Definition["Ranks"] = "Ranks";
+$Definition["Read more in the documentation"] =
+    "Read more in the documentation";
+$Definition["Re-Register API Key"] = "Re-Register API Key";
+$Definition["Register IP"] = "Register IP";
+$Definition["Reaction Types"] = "Reaction Types";
+$Definition["Recalculate Counts"] = "Recalculate Counts";
+$Definition["Recently Active Users"] = "Recently Active Users";
+$Definition["Recently Commented"] = "Recently Commented";
+$Definition["Recently Added"] = "Recently Added";
+$Definition["Recent News"] = "Recent News";
+$Definition["Recent Posts Layout Settings"] = "Recent Posts Layout Settings";
+$Definition["Recent Posts Pages"] = "Recent Posts Pages";
+$Definition["Recent Posts Layout Version"] = "Recent Posts Layout Version";
 
 $Definition[
     "Recommended dimensions are 400px by 300px or smaller with a similar ratio."
@@ -2249,11 +2249,18 @@ $Definition["Legacy Knowledge Base Layouts"] = "Legacy Knowledge Base Layouts";
 $Definition["Custom Knowledge Base Layouts"] = "Custom Knowledge Base Layouts";
 $Definition["Article Count"] = "Article Count";
 $Definition["Legacy Layouts enabled"] = "Legacy Layouts enabled";
-$Definition["Note this layout change will not be visible until you switch to custom layouts."] = "Note this layout change will not be visible until you switch to custom layouts.";
-$Definition["This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."] = "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.";
-$Definition["Set as default layout for specific knowledge bases."] = "Set as default layout for specific knowledge bases.";
-$Definition["The site does not allow you connect with an existing user."] =
-    "The site does not allow you connect with an existing user.";
+$Definition[
+    "Note this layout change will not be visible until you switch to custom layouts."
+] =
+    "Note this layout change will not be visible until you switch to custom layouts.";
+$Definition[
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."
+] =
+    "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.";
+$Definition["Set as default layout for specific knowledge bases."] =
+    "Set as default layout for specific knowledge bases.";
+$Definition["The site does not allow you to connect with an existing user."] =
+    "The site does not allow you connect to with an existing user.";
 $Definition["The username you entered has already been taken."] =
     "The username you entered has already been taken.";
 $Definition["There was an error fetching the connection data."] =
