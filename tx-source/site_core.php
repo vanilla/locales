@@ -2741,3 +2741,4 @@ $Definition["The email digest delivers top content from the categories you follo
 $Definition["Default notification settings can be modified for each followed category in <a href=\"{url,html}\">Manage Followed Content</a>."] = "Default notification settings can be modified for each followed category in <a href=\"{url,html}\">Manage Followed Content</a>.";
 $Definition["Default notification settings can be modified for each followed Knowledge Base in <a href=\"{url,html}\">Manage Followed Content</a>."] = "Default notification settings can be modified for each followed Knowledge Base in <a href=\"{url,html}\">Manage Followed Content</a>.";
 $Definition["Digest frequency"] = "Digest frequency";
+$Definition["Updated Event in {Data.GroupName,text}: {Data.EventName,text}"] = "Updated Event in {Data.GroupName,text}: {Data.EventName,text}";
