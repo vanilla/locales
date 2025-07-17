@@ -1575,3 +1575,14 @@ $Definition["Legacy Layouts enabled"] = "Legacy Layouts enabled";
 $Definition["Note this layout change will not be visible until you switch to custom layouts."] = "Note this layout change will not be visible until you switch to custom layouts.";
 $Definition["This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."] = "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.";
 $Definition["Set as default layout for specific knowledge bases."] = "Set as default layout for specific knowledge bases.";
+$Definition["The site does not allow you connect with an existing user."] =
+    "The site does not allow you to connect with an existing user.";
+$Definition["The username you entered has already been taken."] =
+    "The username you entered has already been taken.";
+$Definition["There was an error fetching the connection data."] =
+    "There was an error fetching the connection data.";
+$Definition[
+    "Failed to authenticate your password reset request. Try using the reset request form again."
+] =
+    "Failed to authenticate your password reset request. Try using the reset request form again.";
+$Definition["Invitation not found."] = "Invitation not found.";
