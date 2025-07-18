@@ -783,6 +783,7 @@ $Definition['Public Key'] = 'Public Key';
 
 $Definition['Rank Changes'] = 'Rank Changes';
 $Definition['Ranks'] = 'Ranks';
+$Definition['Rate Limits'] = 'Rate Limits';
 $Definition['Read more in the documentation'] = 'Read more in the documentation';
 $Definition['Re-Register API Key'] = 'Re-Register API Key';
 $Definition['Register IP'] = 'Register IP';
