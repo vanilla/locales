@@ -1600,3 +1600,5 @@ $Definition["Legacy Layouts enabled"] = "Legacy Layouts enabled";
 $Definition["Note this layout change will not be visible until you switch to custom layouts."] = "Note this layout change will not be visible until you switch to custom layouts.";
 $Definition["This layout change will not be visible until you switch your community to custom <0/> in the <1/> page."] = "This layout change will not be visible until you switch your community to custom <0/> in the <1/> page.";
 $Definition["Set as default layout for specific knowledge bases."] = "Set as default layout for specific knowledge bases.";
+$Definition["Template Styles"] = "Template Styles";
+$Definition["Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page."] = "Leave any field blank to use your default email styles as configured on the <0>Email Settings</0> page.";
