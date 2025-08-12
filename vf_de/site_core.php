@@ -398,6 +398,7 @@ $Definition['by Date'] = 'nach Datum';
 $Definition['By uploading a file you certify that you have the right to distribute this picture and that it does not violate the Terms of Service.'] = 'Durch das Hochladen einer Datei versicherst du, dass du die Berechtigung hast, diese Datei zu verbreiten und die Nutzungsbestimmungen dabei nicht zu verletzen.';
 $Definition["Byte"] = "Byte";
 
+$Definition["Callout"] = "Hinweis";
 $Definition['Call To Action Button Label'] = 'Beschriftung der Call-to-Action-Schaltfläche
 ';
 $Definition['Call To Action Button URL'] = 'URL der Call-to-Action-Schaltfläche
@@ -750,6 +751,7 @@ $Definition['End Date'] = 'Enddatum
 $Definition['End Time'] = 'Endzeit';
 $Definition['End time?'] = 'Endzeit?';
 $Definition['English'] = 'Englisch';
+$Definition['Enter the URL you want this image to link to.'] = 'Geben Sie die URL ein, auf die dieses Bild verweisen soll.';
 $Definition['Enter your Email address'] = 'Gib deine E-Mail-Adresse ein';
 $Definition['Enter your email address'] = 'Gib deine E-Mail-Adresse ein';
 $Definition['Enter your email to continue.'] = 'Geben Sie Ihre E-Mail-Adresse ein, um fortzufahren.';
@@ -1010,6 +1012,7 @@ $Definition['In emoji category: '] = 'In Emoji-Kategorie:';
 $Definition['Include in email digest'] = 'In den E-Mail-Digest aufnehmen';
 $Definition['Incorrect. Try again.'] = 'Fehlerhaft. Erneut versuchen.';
 $Definition['Indent'] = 'Einzug';
+$Definition['Info'] = 'Info';
 $Definition['Inline Menu Available'] = 'Inline-Menü verfügbar';
 $Definition['In Progress'] = 'In Bearbeitung';
 $Definition['In recent discussions.'] = 'Bei neuesten Diskussionen.';
@@ -1110,6 +1113,7 @@ $Definition['Length'] = 'Länge';
 $Definition['Level %s'] = 'Level %s';
 $Definition['Like'] = 'Like';
 $Definition['Link'] = 'Link';
+$Definition['Link Image to URL'] = 'Bild mit URL verknüpfen';
 $Definition['Link to content:'] = 'Inhalt verlinken:';
 $Definition["List Ordered"] = "Geordnete Liste";
 $Definition["List Unordered"] = "Ungeordnete Liste";
@@ -1261,6 +1265,7 @@ $Definition["Navigation"] = "Navigation";
 $Definition['Needs Confirmation'] = 'Bestätigung erforderlich
 ';
 $Definition['Nested Categories'] = 'Verschachtelte Kategorien';
+$Definition['Neutral'] = 'Neutral';
 $Definition['new'] = 'neu';
 $Definition['New'] = 'Neu';
 $Definition['New %s'] = 'Neue %s';
@@ -2330,6 +2335,7 @@ $Definition['You are allowed to create %s groups.'] = 'Sie sind berechtigt %s Gr
 $Definition['You are already a member of this group.'] = 'Du bist schon Mitglied dieser Gruppe.';
 $Definition['You are connected as %s through %s.'] = 'Du bist verbunden als %s über %s.';
 $Definition['You are connected through %2$s.'] = 'Du bist durch %2$s verbunden.';
+$Definition['You are currently in a table. Use Tab to navigate cells, Esc to exit editing'] = 'Sie befinden sich aktuell in einer Tabelle. Navigieren Sie mit der Tab-Taste durch die Zellen und beenden Sie die Bearbeitung mit Esc.';
 $Definition['You are currently only viewing categories that you follow.'] = 'Du betrachtest gerade nur Kategorien, denen du folgst.';
 $Definition['You are currently viewing all categories.'] = 'Du betrachtest alle Kategorien.';
 $Definition['View More'] = 'Mehr sehen';
@@ -2394,6 +2400,7 @@ $Definition['You have been approved for membership.'] = 'Sie sind als Mitglied z
 $Definition['You have entered an invalid discussion title'] = 'Der Diskussionstitel ist nicht erlaubt';
 $Definition['You haven\'t joined any groups yet.'] = 'Sie sind noch keiner Gruppe beigetreten.';
 $Definition['You haven\'t read this yet.'] = 'Dies hast du noch nicht gelesen.';
+$Definition['You have left the table'] = 'Sie haben die Tabelle verlassen.';
 $Definition['You have not started any discussions.'] = 'Du hast noch keine Diskussionen begonnen.';
 $Definition['You have posted %1$s times within %2$s seconds. A spam block is now in effect on your account. You must wait at least %3$s seconds before attempting to post again.'] = 'Du hast %1$s Mal innerhalb von %2$s Sekunden kommentiert. Dein Konto wurde wegen Spammens blockiert. Du musst noch %3$s Sekunden warten, bevor du erneut kommentieren kannst.';
 $Definition['You have selected %1$s.'] = 'Du hast %1$s ausgewählt.';
@@ -2640,6 +2647,12 @@ $Definition["Completely remove the comment and all associated child comments."] 
 $Definition["HeadlineFormat.EventReminder"] = "Erinnerung: {Data.Name,text} beginnt in einem Tag";
 $Definition["HeadlineFormat.NewEvent"] = "Neues Ereignis: {Data.Name,text}";
 $Definition["HeadlineFormat.UpdatedEvent"] = "Aktualisiertes Ereignis: {Data.Name,text}";
+$Definition["HeadlineFormat.EventRSVP"] = "Sie haben sich für <a href=\"{Url,html}\">{Data.Name,text}</a> angemeldet.";
+$Definition["HeadlineFormat.EventCancelled"] = "{Data.Name,text} wurde abgesagt.";
+$Definition["Save to Calendar (ICS)"] = "Zum Kalender hinzufügen (ICS)";
+$Definition["When:"] = "Wann:";
+$Definition["Organizer:"] = "Veranstalter:";
+$Definition["About the Event:"] = "Über die Veranstaltung:";
 
 
 // Post Page
@@ -2710,7 +2723,7 @@ $Definition["Remove from front-facing community"] = "Aus der frontalen Community
 ";
 $Definition["Discard Report?"] = "Bericht verwerfen?";
 $Definition["Are you sure you want to exit without reporting?"] = "Möchten Sie den Vorgang wirklich ohne Bericht beenden?";
-$Definition["To access the paragraph format menu, press control, shift, and P. To access the text format menu, press control, shift, and I. Use the arrow keys to navigate in each menu."] = "Um das Menü „Absatzformatierung“ aufzurufen, drücken Sie die Strg-Taste, die Umschalttaste und die P-Taste. Um das Menü „Textformatierung“ aufzurufen, drücken Sie die Strg-Taste, die Umschalttaste und die I-Taste. Verwenden Sie die Pfeiltasten, um durch die einzelnen Menüs zu navigieren.";
+$Definition["To access the paragraph format menu, press control, shift, and P. To access the text format menu, or element specific menu, press control, shift, and I. Use the arrow keys to navigate in each menu."] = "Drücken Sie Strg + Umschalt + P, um das Menü für die Absatzformatierung zu öffnen. Drücken Sie Strg + Umschalt + I, um das Menü für die Textformatierung oder das elementspezifische Menü zu öffnen. Verwenden Sie die Pfeiltasten, um in den jeweiligen Menüs zu navigieren.";
 $Definition["Edit Link"] = "Link bearbeiten";
 $Definition["Format as link"] = "Als Link formatieren";
 $Definition["You can also use an <iframe /> embed code here."] = "Sie können hier auch den Einbettungscode <iframe /> verwenden.";
@@ -2770,3 +2783,22 @@ $Definition["Escalation created. Go to: <0/>"] = "Eskalation erstellt. Gehen Sie
 $Definition["Success! Your report has been submitted."] = "Geschafft! Ihr Bericht wurde eingereicht.";
 $Definition["1 Report"] = "1 Bericht";
 $Definition["<0/> Reports"] = "<0/> Berichte";
+$Definition["Notify me if an event I'm attending or interested in is cancelled"] = "Benachrichtigen Sie mich, wenn eine Veranstaltung, an der ich teilnehme oder interessiert bin, abgesagt wird.";
+$Definition["Notify me about new escalations"] = "Benachrichtigen Sie mich über neue Eskalationen.";
+$Definition["Notify me when an escalation is assigned to me"] = "Benachrichtigen Sie mich, wenn mir eine Eskalation zugewiesen wird.";
+$Definition["Notify me about new reports"] = "Benachrichtigen Sie mich über neue Berichte.";
+$Definition["Notify me about new announcements in groups I follow"] = "Benachrichtigen Sie mich über neue Ankündigungen in Gruppen, denen ich folge.";
+$Definition["Notify me if a scheduled post fails to publish"] = "Benachrichtigen Sie mich, wenn ein geplanter Beitrag nicht veröffentlicht werden kann.";
+$Definition["Remind me about upcoming events"] = "Erinnern Sie mich an bevorstehende Veranstaltungen.";
+$Definition["Notify me about new comments on posts in groups I follow"] = "Benachrichtigen Sie mich über neue Kommentare zu Beiträgen in Gruppen, denen ich folge.";
+$Definition["Notify me about new posts in groups I follow"] = "Benachrichtigen Sie mich über neue Beiträge in Gruppen, denen ich folge.";
+$Definition["Notify me about new articles"] = "Benachrichtigen Sie mich über neue Artikel.";
+$Definition["Notify me when articles are updated"] = "Benachrichtigen Sie mich, wenn Artikel aktualisiert werden.";
+$Definition["Notify me when a bookmarked question receives an accepted answer"] = "Benachrichtigen Sie mich, wenn eine mit Lesezeichen markierte Frage eine akzeptierte Antwort erhält.";
+$Definition["Default notification settings can be modified for each followed group in <a href=\"{url,html}\">Manage Followed Content</a>."] = "Die Standard-Benachrichtigungseinstellungen können für jede gefolgte Gruppe unter <a href=\"{url,html}\">Gefolgte Inhalte verwalten</a> geändert werden.";
+$Definition["The email digest delivers top content from the categories and groups you follow—straight to your inbox."] = "Die E-Mail-Zusammenfassung liefert Ihnen die wichtigsten Inhalte aus den Kategorien und Gruppen, denen Sie folgen, direkt in Ihren Posteingang.";
+$Definition["The email digest delivers top content from the categories you follow—straight to your inbox."] = "Die E-Mail-Zusammenfassung liefert Ihnen die wichtigsten Inhalte aus den Kategorien, denen Sie folgen, direkt in Ihren Posteingang.";
+$Definition["Default notification settings can be modified for each followed category in <a href=\"{url,html}\">Manage Followed Content</a>."] = "Die Standard-Benachrichtigungseinstellungen können für jede gefolgte Kategorie unter <a href=\"{url,html}\">Gefolgte Inhalte verwalten</a> geändert werden.";
+$Definition["Default notification settings can be modified for each followed Knowledge Base in <a href=\"{url,html}\">Manage Followed Content</a>."] = "Die Standard-Benachrichtigungseinstellungen können für jede gefolgte Wissensdatenbank unter <a href=\"{url,html}\">Gefolgte Inhalte verwalten</a> geändert werden.";
+$Definition["Digest frequency"] = "Häufigkeit der E-Mail-Zusammenfassung";
+$Definition["Updated Event in {Data.GroupName,text}: {Data.EventName,text}"] = "Aktualisierte Veranstaltung in {Data.GroupName,text}: {Data.EventName,text}";
