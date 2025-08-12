@@ -223,7 +223,9 @@ $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Started a new 
 $Definition['HeadlineFormat.Discussion.Idea'] = '{ActivityUserID,user} Started a new idea in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Poll'] = '{ActivityUserID,user} started a new poll in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Discussion.Question'] = '{ActivityUserID,user} posted a new question in {Data.Category}: <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.EventCancelled'] = '{Data.Name,text} has been cancelled.';
 $Definition['HeadlineFormat.EventReminder'] = 'Reminder: {Data.Name,text} begins in 1 day';
+$Definition['HeadlineFormat.EventRSVP'] = 'You\'ve registered for <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} mentioned you in <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.NewEvent'] = 'New Event: {Data.Name,text}';
 $Definition['HeadlineFormat.NotifyWallComment'] = '{ActivityUserID,User} commented on your <a href="{Url,url}">wall</a>.';
@@ -496,6 +498,7 @@ $Definition['The quote had to be converted from %s to %s.'] = 'The quote had to 
 $Definition['There\'s already a %s with the name %s.'] = 'There\'s already a %1$s with the name %2$s.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
+$Definition['The site does not allow you connect with an existing user.'] = 'The site does not allow you to connect with an existing user.';
 $Definition['The text of the pocket.'] = 'Enter the text of the pocket. This will be output exactly as you type it so make sure that you enter valid HTML.';
 $Definition['The user isn\'t banned.'] = 'The user isn\'t banned or is banned by some other function.';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
