@@ -2758,4 +2758,4 @@ $Definition["The email digest delivers top content from the categories you follo
 $Definition["Default notification settings can be modified for each followed category in <a href=\"{url,html}\">Manage Followed Content</a>."] = "デフォルト通知設定は、<a href=\"{url,html}\">フォロー済みコンテンツの管理</a>で、フォロー済みカテゴリーごとに設定できます。";
 $Definition["Default notification settings can be modified for each followed Knowledge Base in <a href=\"{url,html}\">Manage Followed Content</a>."] = "デフォルト通知設定は、<a href=\"{url,html}\">フォロー済みコンテンツの管理</a>で、フォロー済みナレッジベースごとに設定できます。";
 $Definition["Digest frequency"] = "ダイジェスト頻度";
-$Definition["Updated Event in {Data.GroupName,text}: {Data.EventName,text}"] = "{Data.GroupName,text}:{Data.EventName,text} でイベントが更新されました";
+$Definition["Updated Event in {Data.GroupName,text}: {Data.EventName,text}"] = "{Data.GroupName,text:{Data.EventName,text}でイベントが更新されました";

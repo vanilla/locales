@@ -2747,4 +2747,4 @@ $Definition["The email digest delivers top content from the categories you follo
 $Definition["Default notification settings can be modified for each followed category in <a href=\"{url,html}\">Manage Followed Content</a>."] = "Dipeakanyo tša tsebišo tša tlwaelo di ka fetošwa bakeng sa legoro le lengwe le le lengwe leo le latetšwego ka <a href=\"{url,html}\">go Laola Diteng tše di Latelwago</a> .";
 $Definition["Default notification settings can be modified for each followed Knowledge Base in <a href=\"{url,html}\">Manage Followed Content</a>."] = "Dipeakanyo tša tsebišo tša tlwaelo di ka fetošwa bakeng sa Motheo wo mongwe le wo mongwe wa Tsebo wo o latetšwego ka <a href=\"{url,html}\">go Laola Diteng tše di Latetšwego</a> .";
 $Definition["Digest frequency"] = "Digest maqhubu a";
-$Definition["Updated Event in {Data.GroupName,text}: {Data.EventName,text}"] = "Tiragalo ye e Mpshafaditšwego ka go {Data.GroupName,text}: {Data.EventName,text}";
+$Definition["Updated Event in {Data.GroupName,text}: {Data.EventName,text}"] = "Tiragalo ye e Mpshafaditšwego ka go {Data.Leina la Sehlopha,sengwalwa}: {Data.Leina la Tiragalo,sengwalwa}";
