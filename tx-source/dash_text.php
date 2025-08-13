@@ -216,6 +216,7 @@ $Definition['Special restriction: Only users with permission Garden.Curation.Man
     'Special restriction: Only users with permission Garden.Curation.Manage may use this reaction.';
 $Definition['Specify a partial or full match when creating a ban.'] = 'Specify a partial or full match when creating a ban.';
 $Definition['Spend a little time thinking about how you describe your site here.'] = 'Spend a little time thinking about how you describe your site here. Giving your site a meaningful title and concise description could help your position in search engines.';
+$Definition['Spoofing'] = 'Spoofing';
 $Definition['Spruce up your emails by adding a logo and customizing the colors.'] = 'Spruce up your emails by adding a logo and customizing the colors.';
 $Definition['Start Import'] = 'Start Import';
 $Definition['Start the first discussion.'] = 'Get the ball rolling in your community by <a href="{/post/discussion,url}">starting the first discussion</a> now.';
