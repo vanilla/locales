@@ -286,7 +286,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Warning</b>: This is f
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'We recommend enabling 1–3 reactions at a time to avoid overwhelming users.';
 $Definition['Webhooks'] = 'Webhooks';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'When enabled, users may choose to receive notifications from the community';
-$Definition['When enabled, you can manage products, and group subcommunities by those products.'] = 'When enabled, you can manage products, and group subcommunities by those products.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'When enabled, you can <0>manage products</0>, and group subcommunities by those products.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Whether or not the internal profile fields will be included in this webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Whether or not the private profile fields will be included in this webhook.';
 
@@ -424,3 +424,64 @@ $Definition["Sometimes you want to embed your Vanilla site"] = "Sometimes you wa
 $Definition['Layout Editor'] = 'Layout Editor';
 $Definition['Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.'] = 'Enable the Layout Editor to apply a custom layout for your community pages. Use our new editor to feature content using our catalogue of available widgets.';
 $Definition['N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>'] = 'N.B. The new Layout Editor will inherit the theme set in your Style Guide (formally theme editor). <1>Find out more</1>';
+
+// Subcommunity Settings
+
+$Definition["Pages"] = "Pages";
+$Definition["Widget Builder"] = "Widget Builder";
+$Definition["Custom Pages"] = "Custom Pages";
+$Definition["Site Home Pages"] = "Site Home Pages";
+$Definition["Subcommunity Home Pages"] = "Subcommunity Home Pages";
+$Definition["Post number must be between 3–20."] = "Post number must be between 3–20.";
+$Definition["editor.fileErrorAlreadyExists"] = "editor.fileErrorAlreadyExists";
+$Definition["Search subcommunities."] = "Search subcommunities.";
+$Definition["The view you were looking for could not be found."] = "The view you were looking for could not be found.";
+$Definition["View Not Found"] = "View Not Found";
+$Definition["site"] = "site";
+$Definition["Default Subcommunity"] = "Default Subcommunity";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Make this the default subcommunity. Visitors will be directed here first when they access the community.";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Choose a theme for this subcommunity.  <0>Read more</0>";
+$Definition["Home Page: Custom Layout Home Pages are enabled. You can manage the homepage for this subcommunity in <0/>."] = "Home Page: Custom Layout Home Pages are enabled. You can manage the homepage for this subcommunity in <0/>.";
+$Definition["Vanilla Messages"] = "Vanilla Messages";
+$Definition["From <0/>"] = "From <0/>";
+
+// Sentiment
+
+$Definition["Keyword Settings"] = "Keyword Settings";
+$Definition["Extremely Negative to Negative"] = "Extremely Negative to Negative";
+$Definition["Negative to Balanced"] = "Negative to Balanced";
+$Definition["Balanced to Positive"] = "Balanced to Positive";
+$Definition["Positive to Highly Positive"] = "Positive to Highly Positive";
+$Definition["Sentiment Keywords"] = "Sentiment Keywords";
+$Definition["Sentiment Settings"] = "Sentiment Settings";
+$Definition["Add Keyword"] = "Add Keyword";
+$Definition["Keyword Limit Reached"] = "Keyword Limit Reached";
+$Definition["You can only track up to 100 keywords. Untrack some to add new keywords."] = "You can only track up to 100 keywords. Untrack some to add new keywords.";
+$Definition["Calibrate Sentiment Levels"] = "Calibrate Sentiment Levels";
+$Definition["Sentiment Level Distribution Adjustment"] = "Sentiment Level Distribution Adjustment";
+$Definition["The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content."] = "The 4 sliders represent the points between each sentiment level. Drag the sliders to calibrate the overall sentiment level distribution to your community's content.";
+$Definition["Calibrated Sentiment Distribution Preview"] = "Calibrated Sentiment Distribution Preview";
+$Definition["(Read Only)"] = "(Read Only)";
+$Definition["This graph visualizes how the content in your community would be distributed based on your calibration adjustment."] = "This graph visualizes how the content in your community would be distributed based on your calibration adjustment.";
+$Definition["all time sentiment"] = "all time sentiment";
+$Definition["keyword"] = "keyword";
+$Definition["number of uses"] = "number of uses";
+$Definition["last use"] = "last use";
+$Definition["tracking"] = "tracking";
+$Definition["Sentiment"] = "Sentiment";
+$Definition["Tracked Status"] = "Tracked Status";
+$Definition["Tracked Only"] = "Tracked Only";
+$Definition["Untracked Only"] = "Untracked Only";
+$Definition["Strongly Negative"] = "Strongly Negative";
+$Definition["Negative"] = "Negative";
+$Definition["Positive"] = "Positive";
+$Definition["Highly Positive"] = "Highly Positive";
+$Definition["Clear all filters"] = "Clear all filters";
+$Definition["Keyword is required."] = "Keyword is required.";
+$Definition["Maximum length is 100 characters."] = "Maximum length is 100 characters.";
+$Definition["Keyword"] = "Keyword";
+$Definition["Add a new tracked keyword"] = "Add a new tracked keyword";
+$Definition["New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword."] = "New keywords will be tracked in analytics. You can choose to turn off tracking after creating this keyword.";
+$Definition["Extremely Negative"] = "Extremely Negative";
+$Definition["Extremely Positive"] = "Extremely Positive";
+$Definition["Filter by:"] = "Filter by:";
