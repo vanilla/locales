@@ -1081,6 +1081,7 @@ $Definition['Leave Group'] = 'Leave Group';
 $Definition['Leaving'] = 'Leaving';
 $Definition['Length'] = 'Length';
 $Definition['Level %s'] = 'Level %s';
+$Definition["Legacy"] = "Legacy";
 $Definition['Like'] = 'Like';
 $Definition['Link'] = 'Link';
 $Definition['Link Image to URL'] = 'Link Image to URL';

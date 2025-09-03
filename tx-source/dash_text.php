@@ -427,23 +427,36 @@ $Definition['N.B. The new Layout Editor will inherit the theme set in your Style
 
 // Subcommunity Settings
 
+$Definition["Recent Post List Page"] = "Recent Post List Page";
+$Definition["Custom"] = "Custom";
+$Definition["Category List Page"] = "Category List Page";
+$Definition["Home Page Type"] = "Home Page Type";
+$Definition["Choose a page to serve as the subcommunity homepage."] = "Choose a page to serve as the subcommunity homepage.";
+$Definition["Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>."] = "Selected Home Page Type is a custom layout. You can manage the layout for this subcommunity in <0/>.";
+$Definition["Default Subcommunity"] = "Default Subcommunity";
+$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Make this the default subcommunity. Visitors will be directed here first when they access the community.";
+$Definition["Post number must be between 3–20."] = "Post number must be between 3–20.";
 $Definition["Pages"] = "Pages";
 $Definition["Widget Builder"] = "Widget Builder";
 $Definition["Custom Pages"] = "Custom Pages";
 $Definition["Site Home Pages"] = "Site Home Pages";
 $Definition["Subcommunity Home Pages"] = "Subcommunity Home Pages";
-$Definition["Post number must be between 3–20."] = "Post number must be between 3–20.";
-$Definition["editor.fileErrorAlreadyExists"] = "editor.fileErrorAlreadyExists";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Choose a theme for this subcommunity.  <0>Read more</0>";
+$Definition["Vanilla Messages"] = "Vanilla Messages";
+$Definition["From <0/>"] = "From <0/>";
+$Definition["Manage Products"] = "Manage Products";
+$Definition["Pages"] = "Pages";
+$Definition["Widget Builder"] = "Widget Builder";
+$Definition["Custom Pages"] = "Custom Pages";
+$Definition["Site Home Pages"] = "Site Home Pages";
+$Definition["Subcommunity Home Pages"] = "Subcommunity Home Pages";
+$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Choose a theme for this subcommunity.  <0>Read more</0>";
 $Definition["Search subcommunities."] = "Search subcommunities.";
 $Definition["The view you were looking for could not be found."] = "The view you were looking for could not be found.";
 $Definition["View Not Found"] = "View Not Found";
 $Definition["site"] = "site";
-$Definition["Default Subcommunity"] = "Default Subcommunity";
-$Definition["Make this the default subcommunity. Visitors will be directed here first when they access the community."] = "Make this the default subcommunity. Visitors will be directed here first when they access the community.";
-$Definition["Choose a theme for this subcommunity.  <0>Read more</0>"] = "Choose a theme for this subcommunity.  <0>Read more</0>";
-$Definition["Home Page: Custom Layout Home Pages are enabled. You can manage the homepage for this subcommunity in <0/>."] = "Home Page: Custom Layout Home Pages are enabled. You can manage the homepage for this subcommunity in <0/>.";
-$Definition["Vanilla Messages"] = "Vanilla Messages";
-$Definition["From <0/>"] = "From <0/>";
+$Definition["Selected Home Page Type is a legacy layout."] = "Selected Home Page Type is a legacy layout.";
+$Definition["The default home page type can be changed in <0/>."] = "The default home page type can be changed in <0/>.";
 
 // Sentiment
 
