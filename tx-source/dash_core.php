@@ -1742,6 +1742,7 @@ $Definition["A post has not had any activity"] =
 $Definition["A question"] = "A question";
 $Definition["A user has been registered"] = "A user has been registered";
 $Definition["A post has received"] = "A post has received";
+$Definition["Date field reached"] = "Date field reached";
 $Definition["A user registers or logs in with email domain:"] =
     "A user registers or logs in with email domain:";
 $Definition["A user registers or updates a profile field:"] =
