@@ -2270,7 +2270,6 @@ $Definition['Update'] = 'تحديث';
 $Definition['Updated <0/> by <1/>'] = 'تم تحديث <0/> بواسطة ';
 $Definition['Updated badge'] = 'شارة محدثة';
 $Definition['Updated By'] = 'تم التحديث بواسطة ';
-$Definition['Updated Event in {Data.GroupName,text}: {Data.EventName,text}'] = 'تم تحديث الحدث في {Data.GroupName,text}: {Data.EventName,text}';
 $Definition['Update Event'] = 'تحديث الحدث';
 $Definition['Updates'] = 'التحديثات ';
 $Definition['Upload'] = 'تحميل';

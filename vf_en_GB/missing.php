@@ -105,6 +105,7 @@ $Definition['Draft.Delete'] = 'Delete';
 
 $Definition['EditContentTimeout.Notes'] = 'If a user is in a role that has permission to edit content, those permissions will override this.';
 $Definition['editor.BBCodeHelpText'] = 'You can use <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> in your post.';
+$Definition['editor.fileErrorAlreadyExists'] = 'File already uploaded.';
 $Definition['editor.fileErrorFormat'] = 'File format is not allowed.';
 $Definition['editor.fileErrorSize'] = 'File size is too large.';
 $Definition['editor.fileErrorSizeFormat'] = 'File size is too large and format is not allowed.';
@@ -498,7 +499,7 @@ $Definition['The quote had to be converted from %s to %s.'] = 'The quote had to 
 $Definition['There\'s already a %s with the name %s.'] = 'There\'s already a %1$s with the name %2$s.';
 $Definition['The secret secures the sign in process.'] = 'The secret secures the sign in process. Do <b>NOT</b> give the secret out to anyone.';
 $Definition['The site description usually appears in search engines.'] = 'The site description usually appears in search engines. You should try having a description that is 100–150 characters long.';
-$Definition['The site does not allow you connect with an existing user.'] = 'The site does not allow you to connect with an existing user.';
+$Definition['The site does not allow you to connect with an existing user.'] = 'The site does not allow you connect to with an existing user.';
 $Definition['The text of the pocket.'] = 'Enter the text of the pocket. This will be output exactly as you type it so make sure that you enter valid HTML.';
 $Definition['The user isn\'t banned.'] = 'The user isn\'t banned or is banned by some other function.';
 $Definition['The Vanilla Statistics plugin turns your forum\'s dashboard into an analytics reporting tool'] = 'Vanilla Statistics turns your forum\'s dashboard into an analytics reporting tool, allowing you to review activity on your forum over specific time periods. You can <a href="http://vanillaforums.org/docs/vanillastatistics">read more about Vanilla Statistics</a> in our documentation.';
