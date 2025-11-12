@@ -287,7 +287,7 @@ $Definition['Warning: This is for advanced users.'] = '<b>Attenzione</b>: Questo
 $Definition['We recommend enabling 1–3 reactions at a time to avoid overwhelming users.'] = 'Ti consigliamo di abilitare da 1 a 3 reazioni alla volta per evitare di sovraccaricare gli utenti.';
 $Definition['Webhooks'] = 'Webhook';
 $Definition['When enabled, users may choose to receive notifications from the community'] = 'Quando è abilitata, gli utenti possono scegliere di ricevere notifiche dalla comunità';
-$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Quando abilitato puoi <0>gestire prodotti<0> e raggruppare le sottocomunità in base a quei prodotti.';
+$Definition['When enabled, you can <0>manage products</0>, and group subcommunities by those products.'] = 'Quando abilitato puoi <0>gestire prodotti</0> e raggruppare le sottocomunità in base a quei prodotti.';
 $Definition['Whether or not the internal profile fields will be included in this webhook.'] = 'Se i campi del profilo interno saranno inclusi o meno in questo webhook.';
 $Definition['Whether or not the private profile fields will be included in this webhook.'] = 'Se i campi del profilo privato verranno inclusi o meno in questo webhook.';
 
